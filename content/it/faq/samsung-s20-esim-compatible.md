@@ -1,23 +1,25 @@
 ---
-title: "Samsung Galaxy eSIM: Guida alle Serie S/A/Z"
-h1_title: "Guida completa alla eSIM sui Samsung Galaxy delle serie S, A e Z"
-description: "Supporto completo eSIM Samsung: S21-S25 (sì), S20 (solo globale), A54/A55/A35 (sì), A15/A16/A32 (no), serie Z (sì). Verifica, attiva e lista operatori."
-keywords: ["samsung esim", "samsung telefoni con esim", "samsung telefoni compatibili esim", "samsung elenco telefoni esim", "samsung galaxy esim", "samsung ha esim", "samsung a15 ha esim", "samsung a16 ha esim", "samsung a32 ha esim", "samsung a35 ha esim", "samsung a54 ha esim", "samsung s21 ha esim", "samsung s22 ha esim", "samsung s23 ha esim", "samsung s24 ha esim", "samsung s25 ha esim", "samsung a15 esim", "samsung a16 esim", "samsung a32 esim", "samsung a35 esim", "samsung a54 esim", "samsung a56 esim", "samsung s21 esim", "samsung s22 esim", "samsung s23 esim", "samsung s24 esim", "samsung s25 esim", "samsung galaxy a15 esim", "samsung galaxy a16 esim", "samsung galaxy a32 esim", "samsung galaxy s21 esim", "samsung galaxy s22 esim", "samsung galaxy s23 esim", "samsung galaxy s24 esim", "samsung galaxy s25 esim", "samsung s22 ultra esim", "samsung s23 ultra esim", "samsung s24 ultra esim", "samsung s25 ultra esim", "samsung galaxy s22 ultra esim supporto", "samsung galaxy s24 ultra esim supporto", "samsung a15 esim compatibile", "samsung a16 esim compatibile", "samsung a32 esim compatibile", "samsung a15 5g esim", "samsung a16 5g esim", "samsung galaxy a15 5g esim", "samsung galaxy a16 5g esim", "samsung attivazione esim", "samsung galaxy a16 esim supporto"]
-date: 2026-06-10T10:00:00Z
-lastmod: 2026-06-10T10:00:00Z
-tags: ["Samsung", "eSIM", "Compatibilità", "Galaxy S21", "Galaxy S22", "Galaxy S23", "Galaxy S24", "Galaxy S25", "Serie Galaxy A", "Serie Galaxy Z"]
+title: "eSIM Samsung Galaxy: guida alle serie S/A/Z"
+h1_title: "La guida completa alla eSIM Samsung Galaxy per le serie S, A e Z"
+description: "Supporto completo eSIM Samsung: S21-S25 (sì), S20 (solo globale), A54/A55/A35 (sì), A15/A16/A32 (no), serie Z (sì). Verifica, attivazione ed elenco operatori."
+image: "/img/faq/samsung-s20-esim.webp"
+image-1: "/img/faq/samsung-s20-esim-1.jpg"
+keywords: ["esim samsung", "telefoni samsung con esim", "telefoni samsung compatibili esim", "esim samsung galaxy", "samsung ha la esim", "samsung s21 esim", "attivazione esim samsung", "esim serie A samsung", "doppia esim samsung", "elenco telefoni esim samsung", "esim samsung non funziona", "codice QR esim samsung", "esim samsung USA", "samsung s20 esim"]
+date: 2026-09-13T00:00:00Z
+lastmod: 2026-09-13T00:00:00Z
+tags: ["Samsung", "eSIM", "Compatibility", "Galaxy S21", "Galaxy S22", "Galaxy S23", "Galaxy S24", "Galaxy S25", "Galaxy A series", "Galaxy Z series"]
 toc: true
 
-# Sito & SEO
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# Traduzioni testo UI
+# UI text translations
 ui_text:
   updated_on: "Aggiornato il"
   min_read: "min di lettura"
-  toc: "Indice"
+  toc: "Indice dei contenuti"
 
 breadcrumbs:
   home:
@@ -27,45 +29,45 @@ breadcrumbs:
     text: "Compatibilità eSIM"
     url: "/compatibility/"
 
-# Barra laterale: eSIM popolari
+# Sidebar: Popular eSIMs
 sidebar_popular:
-  title: "eSIM popolari"
+  title: "eSIM più popolari"
   item_suffix: "eSIM"
   items:
-    - name: "USA"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Germania"
+    - name: "Germania eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europa"
+    - name: "Europa eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turchia"
+    - name: "Turchia eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Giappone"
+    - name: "Giappone eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Cina"
+    - name: "Cina eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Barra laterale: offerte eSIM gratuite
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Richiedi eSIM gratuita"
+  title: "Riscatta una eSIM gratuita"
   icon: "🎁"
   item_suffix: "eSIM gratuita"
   item_subtitle: "eSIM gratuita"
@@ -83,320 +85,364 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Barra laterale: domande frequenti
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Domande frequenti"
   items:
-    - question: "Cos'è l'attivazione eSIM e come funziona?"
+    - question: "Che cos'è l'attivazione eSIM e come funziona?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Come attivare un eSIM?"
-      url: "/faq/how-to-activate-an-esim//"
-    - question: "Come attivare eSIM su iPhone (tutti i modelli)?"
+    - question: "Come si attiva una eSIM?"
+      url: "/faq/how-to-activate-an-esim/"
+    - question: "Come attivare l'eSIM su iPhone (tutti i modelli)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Ultimo elenco compatibilità eSIM"
+    - question: "Elenco compatibilità eSIM più recente"
       url: "/compatibility/"
 ---
 
 
-## Risposta rapida: quali telefoni Samsung supportano l'eSIM?
+> **Nota della redazione:** il Samsung Galaxy S20 supporta la eSIM sulla maggior parte delle varianti, ma alcune versioni regionali e di operatore la disattivano. Questa guida segue la documentazione ufficiale Samsung e gli standard GSMA. Controlla il tuo numero di modello esatto qui sotto per confermare se il tuo S20 può usare la eSIM.
 
-**Samsung ha iniziato ad aggiungere il supporto eSIM con Galaxy S20 (versioni globali), e dalla serie S21 in poi, tutti i telefoni flagship Galaxy supportano l'eSIM in ogni regione – inclusi gli USA.**
+Per Samsung, la versione breve è questa: Galaxy S21 e successivi supportano la eSIM in ogni regione, anche l'S20 internazionale Exynos la supporta, ma le unità USA S20, la maggior parte dei telefoni Galaxy serie A e i modelli Cina/Hong Kong no. Comporre *#06# e verificare la presenza di un EID conferma il tuo caso. L'analisi serie per serie inizia qui sotto.
 
-Tuttavia, la situazione è molto più complessa per i modelli più vecchi e di fascia media. Questa guida copre ogni principale linea Samsung: **serie S, serie A, serie Z (pieghevoli) e serie Note**.
+## Il tuo Samsung Galaxy supporta la eSIM?
 
-- **Serie Galaxy S21, S22, S23, S24 e S25**: ✅ Supporto eSIM completo – tutte le regioni, inclusi i modelli USA con operatore.
-- **Serie Galaxy S20**: ✅ Sì – solo versioni internazionali Exynos; i modelli USA Snapdragon NON supportano l'eSIM.
-- **Galaxy S10 e precedenti**: ❌ Nessuna eSIM (con rare eccezioni internazionali).
-- **Serie Galaxy A**: ❌ Nessuna eSIM per la maggior parte dei modelli più vecchi (A15, A16, A32, ecc.). Solo i più recenti A54, A55, A35 hanno eSIM.
-- **Serie Galaxy Z Fold e Z Flip (Fold2/3/4/5/6/7, Flip3/4/5/6/7)**: ✅ Sì – la maggior parte dei pieghevoli supporta l'eSIM (verificare la regione).
-- **Galaxy Note 20 Ultra**: ✅ Sì – solo versione internazionale Exynos; USA Snapdragon no.
+**La risposta breve:** se possiedi un Galaxy S21 o successivo (S21, S22, S23, S24, S25), **sì** — il tuo telefono supporta la eSIM in tutte le regioni, inclusi gli USA. I modelli più vecchi ed economici sono una storia caso per caso.
 
-> Il modo più semplice per esserne certi: componi `*#06#` sul tuo Samsung. Se vedi un **EID** a 32 cifre, il tuo telefono è pronto per l'eSIM.
+**Perché conta:** la eSIM ti permette di aggiungere un piano senza una scheda SIM fisica, così i viaggiatori possono comprare un piano dati locale prima di partire e attivarlo nel momento in cui atterrano.
 
----
+**Ancora in dubbio?** Riscatta una **[eSIM di prova gratuita](/free-esim/)** — richiede 2 minuti e conferma che il tuo telefono sia pronto senza spendere nulla.
 
-## 📊 Tabella completa compatibilità eSIM Samsung (S / A / Z / Note)
+## Come identificare il numero di modello del tuo Samsung
+
+Samsung è la marca Android più insidiosa per la eSIM perché lo stesso nome di telefono si comporta diversamente per regione. Tre cose determinano se il tuo Galaxy ha la eSIM: il **suffisso del numero di modello**, il **codice CSC**, e il **chipset (Exynos vs Snapdragon)**.
+
+### Trova il tuo numero di modello
+
+Vai su **Impostazioni > Info telefono > Numero modello**. Vedrai qualcosa come `SM-S918B` o `SM-S918U`.
+
+### Decodifica il suffisso del numero di modello
+
+| Suffisso | Significato | Supporto eSIM |
+|--------|---------|--------------|
+| **SM-S9xxB, SM-S9xxE** | Internazionale / Globale (Exynos) | ✅ Sì (S20 e successivi) |
+| **SM-S9xxU, SM-S9xxU1** | USA (Snapdragon) | ⚠️ S20 no, S21+ sì |
+| **SM-S9xxW** | Canada | ⚠️ Misto — verifica con `*#06#` |
+| **SM-S9xx0** | Cina / Hong Kong | ❌ Nessuna eSIM (modelli Cina) |
+| **SM-S9xxN** | Corea | ✅ Sì (molti modelli) |
+| **SC-xx** | Giappone (Docomo) | ❌ Spesso disabilitata |
+| **SM-AxxE, SM-AxxB** | Serie A internazionale | ⚠️ Solo A54/A55/A35 hanno la eSIM |
+| **SM-AxxU** | Serie A USA | ❌ Nessuna eSIM su qualsiasi serie A USA |
+
+### Controlla il tuo codice CSC
+
+Il CSC (Customer Service Code) ti dice per quale regione gira il firmware del tuo telefono:
+
+1. Vai su **Impostazioni > Info telefono > Info software**.
+2. Scorri fino a **Service Provider SW Ver**.
+3. Leggi le ultime tre lettere del CSC:
+
+| Codice CSC | Regione | Supporto eSIM |
+|----------|--------|--------------|
+| **XAA, XAR** | USA (sbloccato) | ✅ Sì (S21+) |
+| **TMB, VZW, ATT, SPR** | Operatore USA | ⚠️ S21+ sì su T-Mobile/Verizon; AT&T potrebbe limitare |
+| **EUX, EUY, BTU, DBT** | Europa / Regno Unito / Germania | ✅ Sì |
+| **INS, INU** | India | ✅ Sì |
+| **CHC, CHN** | Cina | ❌ Nessuna eSIM |
+| **KOO, KTC, SKC** | Corea | ✅ Sì |
+| **DCM, SBM, KDI** | Giappone | ❌ Spesso disabilitata |
+
+### Exynos vs Snapdragon sul Galaxy S20
+
+Il chipset è il fattore più grande sui flagship vecchi:
+
+- **S20, S20+, S20 Ultra e Note 20 Ultra Exynos (internazionali)** — hanno la eSIM, abilitata dall'aggiornamento One UI 3.1.
+- **S20 e Note 20 Ultra Snapdragon (USA)** — nessuna eSIM, e nessuna soluzione: Samsung l'ha disabilitata nel firmware, quindi persino i modelli USA "sbloccati" ne sono privi.
+- **S21 e successivi** — sia le versioni Exynos che Snapdragon supportano la eSIM, quindi il chipset non conta più.
+
+**In sintesi:** un modello che termina in `U` (USA) su un S20 = nessuna eSIM. Un modello che termina in `B` o `E` (internazionale) = SIM digitale disponibile. Un modello Cina (`0` o CSC `CHC`) = nessuna eSIM, nessuna soluzione.
+
+Per un'alternativa Android paragonabile, consulta la nostra **[guida compatibilità eSIM Google Pixel](/faq/google-pixel-6-esim-compatible/)**.
+
+## Quali serie Samsung supportano la eSIM
+
+| Il tuo modello Samsung | Supporto eSIM | Cosa fare dopo |
+| :--- | :--- | :--- |
+| **Galaxy S21, S22, S23, S24 o S25 (qualsiasi variante)** | ✅ Sì | Attiva pure — vedi la nota di attivazione sotto. |
+| **Galaxy S20 (internazionale/Exynos)** | ✅ Sì (dopo One UI 3.1) | Aggiorna il software, poi componi `*#06#`. |
+| **Galaxy S20 (USA/Snapdragon)** | ❌ No | Solo SIM fisica. |
+| **Galaxy A54, A55 o A35** | ✅ Sì | I pochi modelli della serie A con eSIM. |
+| **Galaxy A15, A16, A32, A53 o serie A più vecchi** | ❌ No | Solo SIM fisica. |
+| **Galaxy Z Fold2+ / Z Flip3+** | ✅ Sì (molti regioni) | Controlla con attenzione le versioni bloccate dall'operatore. |
+| **Galaxy Note 20 Ultra (Exynos)** | ✅ Sì | Dopo One UI 3.1. |
+| **Galaxy Note 20 Ultra (USA)** | ❌ No | Nessuna eSIM. |
+| **Galaxy S10 o precedente / Note 10 o precedente** | ❌ No | Troppo vecchi. |
+
+**Vuoi testare senza comprare?** Prova prima una **[eSIM di prova gratuita](/free-esim/)**.
+
+## Tabella completa di compatibilità eSIM Samsung
 
 | Serie | Modello | Supporto eSIM | Note |
-|-------|---------|---------------|------|
+|--------|-------|--------------|-------|
 | **S25** | S25, S25+, S25 Ultra | ✅ Sì (tutte le regioni) | Supporto completo |
-| **S24** | S24, S24+, S24 Ultra, S24 FE | ✅ Sì (tutte le regioni) | Supporto completo; **samsung galaxy s24 ultra esim support** confermato |
+| **S24** | S24, S24+, S24 Ultra, S24 FE | ✅ Sì (tutte le regioni) | Supporto completo; **supporto eSIM Samsung Galaxy S24 Ultra** confermato |
 | **S23** | S23, S23+, S23 Ultra, S23 FE | ✅ Sì (tutte le regioni) | Supporto completo |
-| **S22** | S22, S22+, S22 Ultra, S21 FE | ✅ Sì (tutte le regioni) | **samsung s22 ultra esim** funziona globalmente |
-| **S21** | S21, S21+, S21 Ultra, S21 FE | ✅ Sì (tutte le regioni) | Primi modelli USA con eSIM completo |
-| **S20** | S20, S20+, S20 Ultra (Exynos) | ✅ Sì (solo globale) | Richiede One UI 3.1+. **samsung s20 esim compatible** solo versioni internazionali |
-| **S20** | S20, S20+, S20 Ultra (USA Snapdragon) | ❌ No | Disabilitato da Samsung |
+| **S22** | S22, S22+, S22 Ultra | ✅ Sì (tutte le regioni) | **Samsung S22 Ultra eSIM** funziona globalmente |
+| **S21** | S21, S21+, S21 Ultra, S21 FE | ✅ Sì (tutte le regioni) | Primi modelli USA con eSIM completa |
+| **S20** | S20, S20+, S20 Ultra (Exynos) | ✅ Sì (solo globale) | Richiesto One UI 3.1+ |
+| **S20** | S20, S20+, S20 Ultra (USA Snapdragon) | ❌ No | Disabilitata da Samsung |
 | **S20 FE** | S20 FE (tutte le regioni) | ❌ No | Nessun hardware eSIM |
-| **S10** | S10, S10+, S10e, S10 5G | ⚠️ Limitato | Rari modelli internazionali Exynos potrebbero funzionare; la maggior parte no |
+| **S10** | S10, S10+, S10e, S10 5G | ⚠️ Limitata | Rari modelli internazionali Exynos |
 | **S9 / Note 9** | S9, S9+, Note 9 | ❌ No | Nessun hardware eSIM |
-| **Serie A (nuovi)** | A54, A55, A35 | ✅ Sì | **samsung a35 esim** e **samsung a54 esim** supportati |
-| **Serie A (vecchi)** | A15, A16, A32, A33, A51, A52, A53, A71, A72, A73 | ❌ No | Questi modelli non hanno hardware eSIM |
-| **Z Fold** | Z Fold2, Fold3, Fold4, Fold5, Fold6, Fold7 | ✅ Sì (maggior parte) | Versioni internazionali e USA sbloccate funzionano |
-| **Z Flip** | Z Flip3, Flip4, Flip5, Flip6, Flip7 | ✅ Sì (maggior parte) | Come serie Fold |
-| **Note 20** | Note 20, Note 20 Ultra (Exynos) | ✅ Sì | Solo versione internazionale |
-| **Note 20** | Note 20, Note 20 Ultra (USA) | ❌ No | I modelli Snapdragon non hanno eSIM |
+| **Serie A (recenti)** | A54, A55, A35 | ✅ Sì | **Samsung A35 eSIM** e **Samsung A54 eSIM** supportate |
+| **Serie A (vecchi)** | A15, A16, A32, A33, A51, A52, A53, A71, A72, A73 | ❌ No | Privi di hardware eSIM |
+| **Z Fold** | Z Fold2–Fold7 | ✅ Sì (molti) | Internazionali e USA sbloccati |
+| **Z Flip** | Z Flip3–Flip7 | ✅ Sì (molti) | Come la serie Fold |
+| **Note 20** | Note 20, Note 20 Ultra (Exynos) | ✅ Sì | Solo internazionali |
+| **Note 20** | Note 20, Note 20 Ultra (USA) | ❌ No | I modelli Snapdragon sono privi di eSIM |
+
+## Serie S, serie A e serie Z nel dettaglio
+
+### Galaxy S21 fino a S25: supporto completo
+
+Ogni flagship dalla generazione S21 in poi supporta la eSIM su entrambi i chipset — S21, S21+, S21 Ultra, S21 FE; S22, S22+, S22 Ultra; S23, S23+, S23 Ultra, S23 FE; S24, S24+, S24 Ultra, S24 FE; e la serie S25. I modelli Ultra in particolare (S22 Ultra, S23 Ultra e S24 Ultra) funzionano globalmente e con ogni grande fornitore di eSIM di viaggio (Roami, Airalo, Holafly e operatori USA come Verizon, T-Mobile e Google Fi).
+
+### Galaxy S20: supporto parziale
+
+La serie S20 è il primo Galaxy con hardware eSIM, ma solo le unità internazionali Exynos hanno ricevuto il software. Aggiorna un S20 internazionale a One UI 3.1 (Android 11) o successivo, poi componi `*#06#` per confermare l'EID. I modelli USA Snapdragon e l'S20 FE non hanno alcuna eSIM.
+
+### Galaxy serie A: per lo più nessuna eSIM
+
+La serie A è la più confusa: quasi tutti i modelli sono privi di eSIM, ma Samsung l'ha aggiunta a pochi modelli di fascia più alta a partire dal 2024. **Galaxy A54**, **A55** e **A35** supportano la eSIM; A15, A16, A32, A33, A51, A52, A52s, A53, A71, A72, A73, A12, A22 e A13 no. Nota che il 5G non implica la eSIM — A15 5G e A16 5G hanno il 5G ma nessuna SIM integrata.
+
+### Piegaevoli Galaxy serie Z
+
+La maggior parte dei piegaevoli da Z Fold2 e Z Flip3 in poi supporta la eSIM — dal Fold2 al Fold7 e dal Flip3 al Flip7. Le unità internazionali e USA sbloccate sono affidabili; i modelli USA bloccati dall'operatore possono averla disattivata. I piegaevoli supportano anche il dual SIM (una fisica + una eSIM, o doppia eSIM sui modelli più recenti).
+
+### Serie Galaxy Note
+
+Il Note 20 Ultra nella sua forma internazionale Exynos supporta la eSIM dopo One UI 3.1; la versione USA Snapdragon e il Note 10/Note 9 no.
+
+## eSIM e dual SIM della serie Galaxy S
+
+La tabella della serie S sopra ti dice *se* un telefono ha la eSIM. Questa aggiunge la seconda domanda che la gente fa davvero: **può gestire due linee contemporaneamente?** "Dual SIM" su Samsung significa due delle seguenti tre cose, a seconda del modello.
+
+| Generazione | eSIM | eSIM + SIM fisica (DSDS) | Due eSIM contemporaneamente |
+|-----------|------|---------------------------|-------------------|
+| Galaxy S25 / S25+ / S25 Ultra | ✅ | ✅ | ✅ |
+| Galaxy S24 / S24+ / S24 Ultra / S24 FE | ✅ | ✅ | ✅ |
+| Galaxy S23 / S23+ / S23 Ultra / S23 FE | ✅ | ✅ | ✅ (S23 e successivi) |
+| Galaxy S22 / S22+ / S22 Ultra | ✅ | ✅ | ❌ solo eSIM + una fisica |
+| Galaxy S21 / S21+ / S21 Ultra / S21 FE | ✅ | ✅ | ❌ solo eSIM + una fisica |
+| Galaxy S20 (Exynos, globale) | ✅ | ✅ | ❌ |
+| Galaxy S20 (USA Snapdragon) | ❌ | ❌ | ❌ |
+| Galaxy S20 FE | ❌ | ❌ | ❌ |
+| Galaxy Note 20 Ultra (Exynos) | ✅ | ✅ | ❌ |
+| Galaxy Note 20 Ultra (USA) | ❌ | ❌ | ❌ |
+
+La conseguenza pratica: su un S21 o S22 puoi mantenere la tua SIM fisica di casa e aggiungere una eSIM di viaggio. Dal S23 in poi puoi fare di più — tenere due eSIM e nessuna SIM fisica, comodo se il tuo operatore di casa è già solo digitale.
+
+## Elenco eSIM serie Galaxy A
+
+La serie A di Samsung è il suo maggior venditore, quindi è la linea su cui ci chiedono di più. Ecco l'elenco completo, dal più recente al più vecchio, così smetti di indovinare:
+
+| Modello | eSIM | Note |
+|-------|------|-------|
+| Galaxy A56 / A36 (2025) | ✅ Sì | Modelli serie A più recenti con eSIM |
+| Galaxy A55 (2024) | ✅ Sì | Unità internazionali |
+| Galaxy A54 (2023) | ✅ Sì | Unità internazionali |
+| Galaxy A35 (2024) | ✅ Sì | Unità internazionali |
+| Galaxy A34 (2023) | ❌ No | Nessun hardware eSIM |
+| Galaxy A53 / A52 / A52s | ❌ No | Nessun hardware eSIM |
+| Galaxy A33 / A32 | ❌ No | Nessun hardware eSIM |
+| Galaxy A26 / A25 / A16 / A15 | ❌ No | Nessuna eSIM (il 5G non aiuta) |
+| Galaxy A73 / A72 / A71 | ❌ No | Nessun hardware eSIM |
+| Galaxy A14 / A13 / A12 | ❌ No | Nessun hardware eSIM |
+
+Due cose da ricordare. Primo, **il 5G non significa eSIM** — A15 5G, A16 5G e A25 sono telefoni 5G senza SIM integrata. Secondo, anche i modelli della serie A che *la hanno* la supportano solo sulle unità **internazionali**; le varianti USA di A54 e A55 possono essere bloccate. Componi sempre `*#06#` prima di comprare.
+
+## eSIM Galaxy Z Fold e Flip
+
+I piegaevoli di Samsung sono i telefoni non-S più affidabilmente capaci di eSIM. Ecco il quadro completo:
+
+| Modello | eSIM | Dual SIM |
+|-------|------|----------|
+| Z Fold7 / Z Flip7 (2025) | ✅ | ✅ Doppia eSIM |
+| Z Fold6 / Z Flip6 (2024) | ✅ | ✅ Doppia eSIM |
+| Z Fold5 / Z Flip5 (2023) | ✅ | ✅ Doppia eSIM |
+| Z Fold4 / Z Flip4 (2022) | ✅ | ✅ eSIM + fisica |
+| Z Fold3 / Z Flip3 (2021) | ✅ | ✅ eSIM + fisica |
+| Z Fold2 (2020) | ✅ | ✅ eSIM + fisica |
+| Fold originale (2019) / Z Flip prima generazione | ⚠️ | Inaffidabile — non contare su di essa |
+
+I piegaevoli internazionali e USA sbloccati sono affidabili; la trappola principale sono i modelli USA **bloccati dall'operatore**, dove AT&T in particolare è nota per aver rimosso o nascosto il menu eSIM. Se compri un Fold o Flip usato per viaggiare, la versione factory-unlocked è la scelta sicura.
+
+## Supporto eSIM Exynos vs Snapdragon
+
+Se hai letto che "solo i telefoni Samsung Exynos supportano la eSIM", è mezzo vero — e vale solo per i telefoni del 2020. Ecco la storia completa:
+
+- **Galaxy S20 e Note 20 Ultra (2020):** l'unica generazione in cui decide il chipset. I modelli internazionali Exynos hanno ricevuto la eSIM tramite l'aggiornamento One UI 3.1 (Android 11); i modelli USA Snapdragon mai, e non c'è soluzione — l'hardware è presente ma Samsung l'ha disabilitata nel firmware.
+- **Galaxy S21 e S22 (2021–2022):** entrambi i chipset supportano la eSIM. Gli USA usavano Snapdragon, l'Europa Exynos, e funzionano entrambi bene.
+- **Galaxy S23 (2023):** Samsung ha spostato l'intera linea S23 su Snapdragon in tutto il mondo — ogni S23 ha la eSIM, non esiste variante Exynos di cui preoccuparsi.
+- **Galaxy S24 (2024):** la divisione è tornata — Exynos 2400 in Europa per S24 e S24+, Snapdragon negli USA e sull'S24 Ultra — e di nuovo, entrambi supportano la eSIM.
+- **Galaxy S25 (2025):** tutto Snapdragon 8 Elite in tutto il mondo, tutti con eSIM.
+
+**La regola pratica:** il chipset conta solo per l'S20 e il Note 20 Ultra. Per qualsiasi cosa più recente, ignora del tutto il dibattito Exynos-vs-Snapdragon e guarda il suffisso del numero di modello e il codice CSC.
+
+## Codici CSC spiegati
+
+### Che cos'è davvero un CSC
+
+Il CSC (Customer Service Code) è un'etichetta di tre lettere integrata nel firmware di Samsung che dice al telefono per quale regione e operatore è stato costruito. Controlla più della eSIM — determina anche quali bande sono abilitate, quale bloatware è preinstallato e quali funzioni dell'operatore compaiono. Per la eSIM, il CSC è l'interruttore che nasconde o mostra il menu "Aggiungi eSIM".
+
+### Come trovare il tuo CSC
+
+1. **Via Impostazioni:** apri **Impostazioni > Info telefono > Info software**, poi guarda la riga **Service Provider SW Ver**. Di solito si legge qualcosa come `XAA/XAA/XAA` — le ultime tre lettere sono il tuo CSC.
+2. **Via tastiera telefono:** digita `*#1234#` e leggi la riga "CSC" (mostra la build del firmware più che la regione attiva, ma è un utile controllo incrociato).
+
+### CSC comuni e cosa significano per la eSIM
+
+| Regione | Codici CSC comuni | eSIM |
+|--------|------------------|------|
+| USA (sbloccato) | XAA, XAR | ✅ Sì (S21+) |
+| USA (operatore) | TMB (T-Mobile), VZW (Verizon), ATT (AT&T), SPR (Sprint), TMK (Metro) | ⚠️ T-Mobile/Verizon sì su S21+; AT&T il più restrittivo |
+| Regno Unito | BTU (sbloccato), EVR (EE), O2U (O2), VOD (Vodafone), H3G (Three) | ✅ Sì |
+| Europa | EUX, EUY, DBT (Germania), ITV (Italia), XEF (Francia), PHE (Spagna), NEE (Paesi Nordici) | ✅ Sì |
+| India | INS, INU | ✅ Sì |
+| Corea | KOO, KTC, SKC, LUC | ✅ Sì |
+| Cina / Hong Kong | CHC, CHN (continentale), TGY (Hong Kong) | ❌ Continentale no; Hong Kong di solito sì |
+| Giappone | DCM (Docomo), SBM (SoftBank), KDI (au) | ❌ Spesso disabilitata |
+| Australia / Singapore / Taiwan | XSA, XSP, BRI | ✅ Sì |
+
+Un avvertimento: non esiste un modo sicuro e supportato di cambiare il tuo CSC per "sbloccare" la eSIM su un modello Cina o operatore USA. Le guide che ti dicono di flashare un CSC diverso rischiano di far scattare la sicurezza Knox di Samsung e possono inutilizzare il telefono. Se il tuo CSC non supporta la eSIM, una SIM fisica è la riserva realistica.
+
+## Dual SIM su Samsung
+
+La maggior parte dei Galaxy capaci di eSIM gira in **DSDS (Dual SIM Dual Standby)** — una nano-SIM fisica più una eSIM contemporaneamente, con la tua scelta di quale linea gestisce chiamate, messaggi e dati. I modelli più recenti (S23 e successivi) supportano anche la doppia eSIM. La procedura completa di configurazione si trova nell'[approfondimento sul dual-SIM](/faq/iphone-11-esim-compatible/) — il principio è identico tra le piattaforme. Indeciso tra integrata e fisica? Consulta il nostro **[confronto eSIM vs SIM fisica](/faq/what-is-esim/)**.
+
+### eSIM più fisica vs doppia eSIM su Samsung
+
+- **eSIM + una SIM fisica (DSDS):** ogni Galaxy capace di eSIM dall'S20 in poi. È il punto dolce del viaggiatore — tieni il numero di casa sulla SIM fisica e aggiungi una eSIM di viaggio per i dati.
+- **Due eSIM contemporaneamente (doppia eSIM):** S23 e successivi, più Fold5/Flip5 e successivi. Nessuna scheda fisica necessaria.
+- **Un numero di telefono per linea:** Samsung non ti permette di clonare un numero su due SIM. Ogni linea ha bisogno del suo numero.
+
+Per scegliere quale SIM gestisce dati, chiamate e messaggi, apri **Impostazioni > Connessioni > Gestore schede SIM** e imposta la "SIM principale" per ciascuna funzione.
+
+## Attivare la eSIM sul tuo Samsung
+
+Dopo aver confermato il supporto, apri **Impostazioni > Connessioni > Gestore schede SIM > Aggiungi eSIM**, scansiona il codice QR del tuo fornitore, e attiva il Roaming dati quando viaggi. Il percorso del menu è lo stesso nelle recenti versioni di One UI:
+
+| Versione One UI | Percorso per "Aggiungi eSIM" |
+|----------------|-------------------|
+| **One UI 6.0+ (Android 14+)** | Impostazioni > Connessioni > Gestore schede SIM > Aggiungi eSIM |
+| **One UI 5.0–5.1 (Android 13)** | Impostazioni > Connessioni > Gestore schede SIM > Aggiungi eSIM |
+| **One UI 4.0–4.1 (Android 12)** | Impostazioni > Connessioni > Gestore schede SIM > Aggiungi eSIM (può trovarsi sotto "Reti mobili") |
+| **One UI 3.1 (Android 11)** | Impostazioni > Connessioni > Gestore schede SIM > Aggiungi eSIM (solo S20 internazionale) |
+
+Per la procedura completa passo per passo (QR, inserimento manuale e app dell'operatore), consulta la nostra **[guida su come attivare una eSIM](/faq/how-to-activate-an-esim/)**.
+
+**Consiglio da professionisti:** installa la tua eSIM su un Wi-Fi stabile prima di lasciare casa — il profilo resta inattivo finché non attivi il Roaming dati all'arrivo.
+
+**Cambi telefono più avanti?** La maggior parte delle eSIM di viaggio sono installazioni monouso — consulta la nostra **[guida al trasferimento di una eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
+
+### Attivazione eSIM Samsung dall'acquisto al primo segnale
+
+Ecco il flusso specifico Samsung, passo per passo:
+
+1. **Conferma prima il supporto.** Componi `*#06#` e cerca un EID di 32 cifre. Nessun EID = fermati qui; il tuo telefono non può fare la eSIM.
+2. **Compra il tuo piano e trova il codice QR.** Parti da una **[prova gratuita della eSIM Roami](/free-esim/)** così testare non costa nulla. Il tuo fornitore ti invia via email un codice QR (di solito anche un indirizzo SM-DP+ più codice di attivazione per l'inserimento manuale).
+3. **Connettiti al Wi-Fi.** Il profilo eSIM si scarica via internet, quindi fallo prima di lasciare casa o sul Wi-Fi dell'hotel — non in aereo.
+4. **Apri il menu.** Vai su **Impostazioni > Connessioni > Gestore schede SIM > Aggiungi eSIM**.
+5. **Scansiona il codice QR.** Punta la fotocamera sul codice. Se la scansione fallisce, scegli "Inserisci dettagli manualmente" e digita l'indirizzo SM-DP+ e il codice di attivazione dall'email.
+6. **Etichetta e imposta il piano.** Chiamalo con un nome tipo "Roami Europa", poi conferma quale SIM gestisce i dati. Imposta la tua **SIM principale** per chiamate/messaggi sulla linea di casa se vuoi continuare a riceverli.
+7. **Attiva il Roaming dati** per la linea di viaggio sotto **Gestore schede SIM > [la tua eSIM] > Roaming dati** — è il passaggio che la maggior parte dimentica, ed è per questo che arriva il "nessun segnale".
+8. **Provalo.** Attiva e disattiva la Modalità aereo, poi apri un browser. La maggior parte dei telefoni Samsung si connette in 1–3 minuti.
+
+Se il pulsante "Aggiungi eSIM" manca o è in grigio, salta alla tabella di troubleshooting sotto.
+
+## 5G e eSIM su Samsung
+
+Dall'S21 in poi, ogni Galaxy (e l'S20 internazionale Exynos) supporta il 5G su eSIM, senza differenza di prestazioni rispetto a una SIM fisica. Se il 5G non si connette, verifica che **Impostazioni > Connessioni > Reti mobili > Modalità rete** sia impostato su 5G/LTE/3G/2G automatico, conferma che il tuo piano includa il 5G (alcune eSIM di viaggio sono solo LTE), e riavvia. Ricorda: il 5G non significa eSIM — A15 5G e A16 5G lo dimostrano.
+
+## Troubleshooting eSIM su Samsung
+
+| Problema | Causa probabile | Soluzione |
+|---------|--------------|-----|
+| **Nessuna opzione "Aggiungi eSIM"** | S20 USA, blocco operatore, o CSC Cina | Controlla **Impostazioni > Info telefono > Stato > Stato blocco SIM**; se è un S20 USA o un modello Cina non c'è soluzione. |
+| **"Il tuo operatore non supporta questa funzione"** | Telefono bloccato dall'operatore, S20 USA, o CSC Cina | Conferma il numero di modello e lo stato del blocco come sopra. |
+| **"Aggiungi eSIM" è in grigio** | Restrizione del firmware dell'operatore (di solito AT&T) | Contatta il tuo operatore, o compra un telefono sbloccato. |
+| **Nessun EID ma sei sicuro che il modello lo supporti** | Aggiornamento software o CSC non corrispondente | Installa gli aggiornamenti, poi ricontrolla il codice CSC. |
+| **Il profilo eSIM si scarica ma nessun segnale** | Roaming dati disattivato, o APN mancante | Attiva il Roaming dati; verifica l'APN con il tuo fornitore. |
+
+Per il riferimento completo errore per errore (inclusa la tabella APN completa), consulta la **[Guida approfondita al troubleshooting eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
+
+## Domande frequenti sulla eSIM Samsung
+
+**La serie Galaxy S21 supporta la eSIM?**
+Sì — S21, S21+, S21 Ultra e S21 FE supportano tutti la eSIM in tutte le regioni.
+
+**Il Galaxy S22 Ultra supporta la eSIM?**
+Sì, globalmente, incluse le versioni degli operatori USA.
+
+**Il Galaxy S23 supporta la eSIM?**
+Sì — l'intera serie S23 ha supporto eSIM completo.
+
+**Il Galaxy S24 Ultra supporta la eSIM?**
+Sì — componi `*#06#` per vedere il suo EID.
+
+**Il Galaxy S20 FE supporta la eSIM?**
+No. A differenza del resto della famiglia S20, l'S20 FE non ha hardware eSIM in nessuna regione.
+
+**Il Galaxy A15 / A16 / A32 supporta la eSIM?**
+No. Questi modelli sono privi di hardware eSIM e sono solo SIM fisica — persino le versioni 5G.
+
+**Il Galaxy A35 / A54 supporta la eSIM?**
+Sì. A35 e A54 sono tra i pochi modelli della serie A con eSIM (sulle unità internazionali).
+
+**I dispositivi Galaxy Z Fold o Z Flip supportano la eSIM?**
+Sì per la maggior parte dei modelli da Z Fold2 e Z Flip3 in poi — conferma con `*#06#`.
+
+**Il Note 20 Ultra supporta la eSIM?**
+Solo la versione internazionale Exynos; i modelli USA Snapdragon no.
+
+**Quali telefoni Samsung sono sicuramente compatibili con la eSIM?**
+Tutti i modelli S21/S22/S23/S24/S25 (inclusi FE e Ultra), l'S20 internazionale Exynos, A54/A55/A35, Z Fold2+/Flip3+, e il Note 20 Ultra internazionale.
+
+**Come verifico se il mio Samsung è bloccato dall'operatore?**
+**Impostazioni > Info telefono > Stato > Stato blocco SIM** — "Network Locked" significa bloccato dall'operatore; richiedi lo sblocco al tuo operatore.
+
+**Cosa significa "eSIM non supportata nel tuo paese"?**
+Il tuo CSC (codice regione) non supporta la eSIM — comune sui modelli Cina e operatori USA. Non c'è una soluzione facile.
+
+**Posso usare una eSIM e una SIM fisica contemporaneamente?**
+Sì, su ogni Galaxy capace di eSIM (DSDS). Tieni il numero di casa sulla SIM fisica e usa la eSIM per i dati di viaggio.
+
+**Posso usare due eSIM contemporaneamente sul mio Samsung?**
+Sì, su S23 e successivi e Fold5/Flip5 e successivi. I modelli più vecchi sono solo eSIM + una SIM fisica.
+
+**Quanti profili eSIM posso archiviare?**
+La maggior parte dei telefoni Samsung può archiviare diversi profili eSIM (spesso 5 o più), ma solo uno o due possono essere attivi alla volta a seconda del modello.
+
+**Perché il mio S20 mostra la eSIM nelle impostazioni ma è in grigio?**
+Hai quasi certamente un S20 USA Snapdragon. Samsung ha disabilitato la eSIM su quei modelli nel firmware, e nessun aggiornamento o impostazione la riabilita.
+
+**Posso cambiare il mio CSC per abilitare la eSIM?**
+Non in sicurezza. Cambiare CSC richiede di flashare il firmware, il che fa scattare Knox e può inutilizzare il telefono. Se il tuo CSC non supporta la eSIM, usa una SIM fisica.
+
+👉 **Pianifichi di viaggiare con il tuo Samsung?** Guarda [eSIM per gli USA](/united-states-esim/) o [eSIM per il Giappone](/japan-esim/).
+
+## Prova con una eSIM gratuita
+
+Se il tuo Samsung mostra un EID dopo aver composto `*#06#`, prova una **eSIM di prova gratuita** per confermare che tutto funzioni prima di comprare un piano a pagamento.
+
+👉 [**Riscatta la tua eSIM gratuita**](/free-esim/)
 
 ---
 
-## 🔍 Come verificare l'eSIM su qualsiasi telefono Samsung
+*Basato sulla documentazione ufficiale Samsung, sugli standard GSMA e sulle informazioni degli operatori. Aggiornato: settembre 2026.*
 
-### Metodo 1: Comporre `*#06#` (più affidabile)
-1. Apri l'app Telefono.
-2. Componi `*#06#` e premi chiama.
-3. Cerca un **EID a 32 cifre** (Embedded Identity Document). Se presente, il dispositivo ha l'hardware eSIM.
-4. Se vedi solo numeri IMEI (IMEI1, IMEI2), l'eSIM non è disponibile.
+## Fonti
 
-Questo metodo funziona per la verifica **samsung attivazione esim** su qualsiasi modello.
-
-### Metodo 2: Controllare il menu Impostazioni
-- Vai su **Impostazioni > Connessioni > Gestore SIM**.
-- Se vedi **“Aggiungi eSIM”** o **“Scarica eSIM”**, il telefono supporta l'eSIM.
-- Se queste opzioni mancano, l'eSIM è disabilitato o non presente.
-
-### Metodo 3: Verifica aggiornamento software
-Per alcuni modelli (come S20 internazionale), l'eSIM è stato aggiunto con One UI 3.1 (Android 11). Assicurati di essere all'ultima versione:
-- **Impostazioni > Aggiornamento software > Scarica e installa**.
-
----
-
-## 📲 Come attivare l'eSIM sui telefoni Samsung supportati
-
-Una volta confermato che il tuo **samsung telefoni con esim** include il tuo modello, l'attivazione è semplice:
-
-1. **Acquista un piano eSIM** (per viaggi o uso quotidiano).
-2. Vai su **Impostazioni > Connessioni > Gestore SIM > Aggiungi eSIM**.
-3. **Scannerizza il codice QR** fornito dal tuo operatore eSIM (o inserisci manualmente il codice di attivazione).
-4. Segui le istruzioni sullo schermo per scaricare il profilo.
-5. Imposta il tuo eSIM come predefinito per chiamate, SMS o dati mobili.
-6. **Attiva il Roaming dati** quando viaggi.
-
-> Se non vedi **“Aggiungi eSIM”**, il dispositivo potrebbe avere l'eSIM disabilitato dal firmware dell'operatore – anche se l'hardware esiste.
-
----
-
-## 🔄 Doppia SIM su Samsung: SIM fisica + eSIM
-
-La maggior parte dei Samsung con eSIM supporta **DSDS (Dual SIM Dual Standby)**:
-
-- Puoi usare **una nano-SIM fisica** e **un eSIM** contemporaneamente.
-- Entrambi i numeri rimangono attivi – chiamate e SMS possono essere ricevuti su entrambe le linee.
-- Scegli tu quale SIM gestisce i dati mobili.
-
-Questo è particolarmente utile per:
-- **Viaggi** – mantieni attiva la SIM di casa mentre usi un eSIM dati locale.
-- **Lavoro/personale** – numeri separati su un telefono.
-- **Testare operatori** – prova un eSIM gratuito senza rimuovere la SIM principale.
-
-I modelli più recenti (S23 e successivi) supportano anche la **doppia eSIM** (due eSIM attive, nessuna SIM fisica) – ma la combinazione fisica+eSIM è la più comune.
-
----
-
-## 🌍 Differenze regionali: perché alcuni Samsung non hanno l'eSIM
-
-Il supporto eSIM di Samsung varia a seconda della regione a causa delle richieste degli operatori e delle scelte firmware.
-
-### USA
-- **S21 e successivi** – supporto eSIM completo su tutti gli operatori (Verizon, T-Mobile, AT&T e sbloccati).
-- **Serie S20** – eSIM disabilitato su tutti i modelli USA Snapdragon. Include versioni con operatore e “sbloccate” USA.
-- **Note 20 Ultra USA** – nessuna eSIM.
-- **Modelli USA Z Fold/Flip con operatore** – a volte l'eSIM è bloccato; le versioni sbloccate di fabbrica sono più sicure.
-
-### Internazionale / Globale (Exynos)
-- La maggior parte dei modelli internazionali (Europa, Asia, Medio Oriente, Africa) supportano l'eSIM da S20 in poi.
-- Le versioni Exynos di S20, Note 20 Ultra e vecchi flagship hanno l'eSIM abilitato tramite aggiornamenti software.
-
-### Canada
-- Supporto misto. Alcuni modelli canadesi S20 hanno ottenuto l'eSIM dopo aggiornamenti; le nuove serie S funzionano.
-
-### Cina / Hong Kong
-- Samsung non abilita l'eSIM sui telefoni venduti nella Cina continentale (motivi normativi). I modelli Hong Kong spesso funzionano.
-
-### Giappone
-- Le varianti degli operatori giapponesi (Docomo, au, SoftBank) disabilitano frequentemente l'eSIM – simile alla situazione Pixel.
-
-> **In conclusione:** Per eSIM garantito, acquista un **Galaxy S21 o successivo** da qualsiasi regione, o un **S20 internazionale sbloccato** (Exynos).
-
----
-
-## 📱 Approfondimento: Serie Samsung S supporto eSIM
-
-### Galaxy S25, S24, S23, S22, S21 (Supporto completo)
-
-Tutti i modelli flagship dalla generazione S21 in poi supportano completamente l'eSIM. Questo include S21, S21+, S21 Ultra, S21 FE, S22, S22+, S22 Ultra, S23, S23+, S23 Ultra, S23 FE, S24, S24+, S24 Ultra, S24 FE e l'ultima serie S25. Per i modelli Ultra in particolare, **samsung s22 ultra esim** e **samsung s23 ultra esim** funzionano a livello globale, e **samsung galaxy s24 ultra esim supporto** è confermato.
-
-Questi telefoni sono tra i migliori **samsung telefoni compatibili esim** per i viaggiatori perché funzionano con ogni importante provider eSIM (Airalo, Holafly, ecc.) e con gli operatori USA come Verizon, T-Mobile e Google Fi.
-
-### Galaxy S20 (Supporto parziale)
-
-La serie S20 è il primo telefono Samsung con hardware eSIM – ma solo le versioni internazionali Exynos hanno ricevuto l'abilitazione software. Se possiedi un S20 internazionale (Exynos), aggiorna a One UI 3.1 (Android 11) o successivo, quindi usa `*#06#` per confermare l'EID. I modelli USA Snapdragon e l'S20 FE non hanno affatto eSIM.
-
-### Galaxy S10 e precedenti
-
-La maggior parte dei modelli S10 non supporta l'eSIM. Un numero molto limitato di varianti internazionali Exynos S10 (SM-G973F) potrebbe mostrare un EID dopo gli aggiornamenti, ma è raro. Ai fini pratici, la serie Galaxy S10 non è compatibile con eSIM. S9 e precedenti non hanno hardware eSIM.
-
----
-
-## 📱 Approfondimento: Serie Samsung A supporto eSIM
-
-La serie A è complicata – la maggior parte dei modelli manca completamente di eSIM, ma alcuni più recenti lo includono.
-
-### Modelli Serie A SENZA eSIM (più comuni)
-
-I seguenti modelli non hanno hardware eSIM o supporto firmware: Galaxy A15, A16, A32, A33, A51, A52, A52s, A53, A71, A72, A73, così come A12, A22 e A13. Se ti stai chiedendo **samsung a15 ha esim** – la risposta è no. Allo stesso modo, **samsung a16 esim** e **samsung a32 esim** non sono disponibili. Questi modelli economici si affidano esclusivamente a SIM fisiche.
-
-### Modelli Serie A CON eSIM (più recenti)
-
-A partire dal 2024, Samsung ha aggiunto l'eSIM a selezionati telefoni A di fascia alta:
-- **Galaxy A54** – supporta eSIM (modello 5G).
-- **Galaxy A55** – supporta eSIM (successore di A54).
-- **Galaxy A35** – supporta eSIM (economico ma include eSIM).
-- **Galaxy A56** (previsto 2026) – probabilmente supporterà eSIM.
-
-Per questi, componi `*#06#` per confermare l'EID. Anche se un telefono della serie A ha l'hardware eSIM, alcune versioni bloccate all'operatore potrebbero disabilitarlo – le versioni sbloccate sono le più sicure.
-
-### Serie A 5G ed eSIM
-
-Alcuni utenti cercano termini come **samsung a15 5g esim** o **samsung galaxy a15 5g esim** – questi telefoni hanno il 5G ma mancano ancora di eSIM. **Samsung galaxy a16 5g esim** non esiste. La capacità 5G non implica il supporto eSIM.
-
----
-
-## 📱 Approfondimento: Serie Samsung Z (pieghevoli) supporto eSIM
-
-La maggior parte dei pieghevoli Samsung da Z Fold2 e Z Flip3 in poi supportano l'eSIM. Questo include Z Fold2, Fold3, Fold4, Fold5, Fold6, Fold7, così come Z Flip3, Flip4, Flip5, Flip6 e Flip7. Le versioni internazionali e USA sbloccate funzionano in modo affidabile. I modelli USA bloccati all'operatore (Verizon, AT&T, T-Mobile) potrebbero avere l'eSIM disabilitato. Acquista sempre sbloccato di fabbrica per una **samsung telefoni con esim** garantita.
-
-I pieghevoli supportano anche la doppia SIM: una SIM fisica + un eSIM, o doppia eSIM (sui modelli più recenti).
-
----
-
-## 📱 Approfondimento: Serie Samsung Note supporto eSIM
-
-- **Note 20 Ultra (internazionale Exynos)** – supporta l'eSIM dopo l'aggiornamento One UI 3.1.
-- **Note 20 Ultra (USA Snapdragon)** – nessuna eSIM.
-- **Note 10 e Note 9** – nessun hardware eSIM.
-
----
-
-## 🌐 Compatibilità con gli operatori per eSIM Samsung
-
-I seguenti provider eSIM funzionano sulla maggior parte dei **samsung telefoni compatibili esim** (S21+ e S20 internazionale):
-
-| Provider | Funziona su Samsung eSIM? | Note |
-|----------|---------------------------|------|
-| **Airalo** | ✅ Sì | eSIM da viaggio popolare |
-| **Holafly** | ✅ Sì | Piani dati illimitati |
-| **Nomad** | ✅ Sì | Buono per Asia-Pacifico |
-| **Google Fi** | ✅ Sì | Migliore su S21+ |
-| **US Mobile** | ✅ Sì | Supporta sia eSIM Warp che GSM – include molti dispositivi Samsung |
-| **Visible** | ⚠️ Limitato | Funziona su alcuni S21+ sbloccati ma non garantito |
-| **T-Mobile (USA)** | ✅ Sì | Attivazione eSIM nativa tramite app |
-| **Verizon** | ✅ Sì (S21+) | Per **verizon compatibilità esim**, solo S21 e successivi funzionano |
-
-Se hai cercato **“holafly telefoni compatibili”**, qualsiasi Samsung con eSIM (S21+, S20 internazionale, Z Fold/Flip) funziona.
-
----
-
-## 🛠️ Risoluzione dei problemi: eSIM non funziona su Samsung
-
-### Problema 1: Opzione “Aggiungi eSIM” mancante nelle Impostazioni
-- Il telefono potrebbe essere un S20 USA o un modello bloccato all'operatore con eSIM disabilitato. Nessuna soluzione – usa SIM fisica.
-- Aggiorna il software: **Impostazioni > Aggiornamento software**.
-- Se ancora mancante, l'eSIM non è disponibile.
-
-### Problema 2: “EID non trovato” dopo aver composto `*#06#`
-- L'hardware eSIM è assente o disabilitato. Comune su S20 USA, Note 20 USA, vecchia serie A.
-- Nessuna soluzione – considera l'aggiornamento a S21 o successivo.
-
-### Problema 3: Attivazione eSIM fallisce con “Codice QR non valido”
-- Il QR potrebbe essere scaduto. Richiedine uno nuovo al provider.
-- Prova a inserire manualmente il codice di attivazione.
-- Assicurati che il telefono sia nell'elenco **samsung telefoni compatibili esim**.
-
-### Problema 4: Errore “Blocco operatore” durante l'aggiunta dell'eSIM
-- Il tuo Samsung è bloccato SIM su un operatore. Contatta l'operatore per lo sblocco.
-- Alcuni operatori (es. Verizon) consentono l'eSIM anche su telefoni bloccati; altri no.
-
-### Problema 5: Il profilo eSIM viene scaricato ma non c'è segnale
-- Attiva il Roaming dati per la linea eSIM.
-- Controlla le impostazioni APN – alcuni provider eSIM richiedono l'inserimento manuale dell'APN.
-- Riavvia il telefono.
-
-> **Hai bisogno di ulteriore assistenza?** Per una risoluzione dei problemi più approfondita (inclusi i problemi di doppia eSIM su altre piattaforme), consulta la nostra **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** e **[Doppia eSIM iPhone non funziona? 12 soluzioni](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – i principi fondamentali si applicano a tutti i dispositivi.
-
----
-
-## 📶 5G ed eSIM su Samsung
-
-A partire da Galaxy S21, ogni generazione successiva – inclusi S22, S23, S24 e S25 – supporta pienamente la connettività 5G su eSIM. Anche la versione internazionale Exynos di S20 supporta il 5G su eSIM. Non c'è differenza di prestazioni tra l'uso di una SIM fisica e un eSIM per il 5G.
-
----
-
-## 🔁 Trasferire l'eSIM su un nuovo telefono Samsung
-
-La maggior parte degli eSIM da viaggio sono installabili una sola volta – non puoi trasferirli. Per gli eSIM postpagati degli operatori (Verizon, T-Mobile, Google Fi):
-
-1. Sul vecchio telefono: elimina il profilo eSIM (Impostazioni > Connessioni > Gestore SIM > tocca eSIM > Rimuovi).
-2. Sul nuovo telefono: vai su **Aggiungi eSIM** e scannerizza il codice QR originale o usa l'app dell'operatore.
-3. Per Google Fi: basta installare l'app Fi sul nuovo telefono e accedere.
-
-Controlla sempre la politica di trasferimento del tuo provider eSIM prima di cambiare dispositivo.
-
-> **Passaggio tra iPhone e Android?** Consulta la nostra guida dedicata: **[Come trasferire eSIM tra iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
-
----
-
-## ❓ Domande frequenti
-
-#### La serie Galaxy S21 supporta l'eSIM?
-Sì. Tutti i modelli della famiglia S21 – inclusi S21, S21+, S21 Ultra e S21 FE – supportano l'eSIM in tutte le regioni.
-
-#### Galaxy S22 Ultra supporta l'eSIM?
-Sì. L'S22 Ultra funziona a livello globale con eSIM, incluse le versioni con operatore USA.
-
-#### Galaxy S23 supporta l'eSIM?
-Sì. L'intera serie S23 (S23, S23+, S23 Ultra, S23 FE) ha supporto eSIM completo.
-
-#### Galaxy S24 Ultra supporta l'eSIM?
-Sì. L'S24 Ultra include la funzionalità eSIM standard – componi `*#06#` per vedere il suo EID.
-
-#### Galaxy A15 supporta l'eSIM?
-No. L'A15 non ha hardware eSIM. È un dispositivo solo SIM fisica.
-
-#### Galaxy A16 supporta l'eSIM?
-No. Come l'A15, l'A16 non ha capacità eSIM.
-
-#### Galaxy A32 supporta l'eSIM?
-No. L'A32 non supporta l'eSIM – devi usare una SIM fisica.
-
-#### Galaxy A35 supporta l'eSIM?
-Sì. L'A35 è uno dei pochi modelli della serie A con eSIM.
-
-#### Galaxy A54 supporta l'eSIM?
-Sì. L'A54 (modello 5G) supporta l'eSIM.
-
-#### I dispositivi Galaxy Z Fold o Z Flip supportano l'eSIM?
-Sì per la maggior parte dei modelli da Z Fold2 e Z Flip3 in poi. Verifica con `*#06#` per confermare.
-
-#### Note 20 Ultra supporta l'eSIM?
-Solo la versione internazionale Exynos. I modelli USA Snapdragon no.
-
-#### Quali telefoni Samsung sono sicuramente compatibili con eSIM?
-Tutte le serie Galaxy S21, S22, S23, S24 e S25 (inclusi modelli FE e Ultra). La versione internazionale Exynos di S20. I Galaxy A54, A55 e A35. I Galaxy Z Fold2 e successivi, e Z Flip3 e successivi. Il Note 20 Ultra internazionale.
-
-Per un **samsung elenco telefoni esim** completo, consulta la nostra [guida completa alla compatibilità](/compatibility/#samsung).
-
----
-
-## 🆓 Prova con un eSIM gratuito
-
-Se il tuo Samsung mostra un EID dopo aver composto `*#06#`, puoi provare un **eSIM di prova gratuito** per confermare che tutto funzioni prima di acquistare un piano a pagamento.
-
-👉 [**Richiedi il tuo eSIM gratuito**](/free-esim/)
-
----
-
-## 🔗 Pagine correlate
-
-- [Elenco completo dei telefoni compatibili con eSIM (2026)](/compatibility/)
-- [Compatibilità eSIM Google Pixel](/faq/google-pixel-6-esim-compatible/)
-- [Guida compatibilità eSIM iPhone](/faq/iphone-11-esim-compatible/)
-- [Compatibilità eSIM Moto G Power](/faq/moto-g-power-esim-compatible/)
+- [GSMA — specifica eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Assistenza Samsung — eSIM](https://www.samsung.com/us/support/)
+- [Assistenza Apple — Configurare la eSIM su iPhone](https://support.apple.com/en-us/HT212780)
+- [Assistenza Google — eSIM Android](https://support.google.com/android/answer/11241215)

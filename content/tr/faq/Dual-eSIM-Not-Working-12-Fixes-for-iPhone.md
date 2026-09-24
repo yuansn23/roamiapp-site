@@ -1,22 +1,24 @@
 ---
-title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
-h1_title: "iPhone'da Çift eSIM Çalışmama Sorunu Nasıl Düzeltilir: 12 Çözüm"
-description: "Çift eSIM çalışmıyor mu? iPhone 17, 16 için 12 sorunu düzeltin: CDMA limitleri, T-ADS önbellek hataları, pil tüketimi ve taşıyıcı kilit kontrolleri. Adım adım kılavuz."
-keywords: ["eSIM sorun giderme", "eSIM aktivasyonu başarısız oldu", "eSIM hizmet yok", "eSIM aktarım hatası", "Apple eSIM", "iOS 19 eSIM", "iPad eSIM çalışmıyor", "eSIM APN ayarları", "eSIM onay kodu", "eSIM profili süresi doldu", "eSIM başka bir cihaza bağlı", "çift eSIM sinyal sorunu", "eSIM DFU hatası 53", "eSIM taşıyıcı kilidi", "eSIM platformlar arası aktarım", "çift eSIM çalışmıyor", "iPhone çift SIM hizmet yok"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
+title: "Çift eSIM Çalışmıyor mu? 12 iPhone Çözümü"
+h1_title: "iPhone'da Çalışmayan Çift eSIM Nasıl Düzeltilir: 12 Çözüm"
+description: "Çift eSIM çalışmıyor mu? 12 iPhone sorununu düzeltin: arama yönlendirme, VoLTE kurulumu, pil tüketimi ve iPhone 16 ile iOS 18 için operatör kilidi kontrolleri."
+image: "/img/faq/dual-esim-not-working.webp"
+image-1: "/img/faq/dual-esim-not-working-1.jpg"
+keywords: ["çift eSIM çalışmıyor", "iPhone çift SIM servis yok", "çift eSIM sinyal sorunu", "eSIM operatör kilidi", "çift eSIM sorun giderme", "çift eSIM aktivasyon başarısız", "iOS 18 eSIM", "eSIM APN ayarları", "eSIM onay kodu", "çift eSIM servis yok"]
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Sorun Giderme", "Seyahat Kurulumu"]
 toc: true
 
-# Site & SEO temel sabit kodlaması
+# Site ve SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI metin çevirisi/sabit kodlaması (çoklu dil desteği)
+# UI metin çevirileri
 ui_text:
-  updated_on: "Güncellenme Tarihi"
-  min_read: "dakikalık okuma"
+  updated_on: "Son güncelleme"
+  min_read: "dk okuma"
   toc: "İçindekiler"
 
 breadcrumbs:
@@ -27,329 +29,400 @@ breadcrumbs:
     text: "Yardım Merkezi"
     url: "/faq/"
     
-# Sidebar: Popular eSIMs
+# Sidebar: Popüler eSIM'ler
 sidebar_popular:
   title: "Popüler eSIM'ler"
   item_suffix: "eSIM"
   items:
-    - name: "ABD eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Almanya eSIM"
+    - name: "Germany"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Avrupa eSIM"
+    - name: "Europe"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Türkiye eSIM"
+    - name: "Turkey"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japonya eSIM"
+    - name: "Japan"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Çin eSIM"
+    - name: "China"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Sağ: Ücretsiz eSIM yapılandırması (4 ülke)
+# Sidebar: Ücretsiz eSIM teklifleri
 sidebar_free:
-  title: "Ücretsiz eSIM Talep Edin"
+  title: "Ücretsiz eSIM Talep Et"
   icon: "🎁"
   item_suffix: "Ücretsiz eSIM"
   item_subtitle: "Ücretsiz eSIM"
   items:
-    - name: "İngiltere eSIM"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
-    - name: "Almanya"
+    - name: "Germany"
       flag: "/img/flags/de.svg"
       url: "/free-esim/"
-    - name: "Tayland"
+    - name: "Thailand"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
     - name: "Hong Kong"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sağ: Popüler sorular yapılandırması (5 soru)
+# Sidebar: Popüler sorular
 sidebar_questions:
   title: "Popüler Sorular"
   items:
     - question: "eSIM aktivasyonu nedir ve nasıl çalışır?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "eSIM nasıl aktive edilir?"
+    - question: "eSIM nasıl etkinleştirilir?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "iPhone'da eSIM nasıl aktive edilir (Tüm Modeller)?"
+    - question: "iPhone'da eSIM nasıl etkinleştirilir (Tüm Modeller)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "En Güncel eSIM Uyumluluk Listesi"
+    - question: "Güncel eSIM Uyumluluk Listesi"
       url: "/compatibility/"
 ---
 
-> **Önemli Çıkarımlar**  
-> - **CDMA taşıyıcıları** (Verizon, US Cellular) çift eSIM ses işlevini engelleyebilir – GSM planına geçin.  
-> - **T-ADS önbellek hataları** gelen arama başarısızlıklarına neden olur – Wi‑Fi Arama'yı kapatıp açarak düzeltin.  
-> - iPhone'lar **çift bekleme modundadır, çift aktif değildir** – aramalar sırasında diğer hatta "Hizmet Yok" görmek normaldir.  
-> - İkinci bir eSIM ekleyemiyorsanız Ayarlar'dan **Taşıyıcı Kilidi**'ni kontrol edin (`SIM kısıtlaması yok` olmalı).  
-> - **Çift eSIM** pil tüketimi, zayıf sinyal hattında 5G devre dışı bırakılarak azaltılabilir.
 
-Tek bir iPhone'da iki telefon numarası kullanmak son derece kullanışlıdır – ancak beraberinde gizli tuzaklar getirir. CDMA vs GSM çakışmalarından gelen arama yönlendirme başarısızlıklarına (T‑ADS) kadar bu kılavuz, iPhone 17, 16 ve iOS 19 ile daha eski modellerde **çift eSIM** veya **eSIM + fiziksel SIM**'i hatasız çalıştırmak için bilmeniz gereken her şeyi kapsar. Temel eSIM kurulumunun eksiksiz bir anlatımı için **[iPhone 17 eSIM Eksiksiz Kılavuzumuza](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** bakın. Bu çift eSIM sorun giderme kılavuzu, en son [GSMA eSIM özelliklerini](https://www.gsma.com/esim/) takip eder ve iOS 19 üzerinde test edilmiştir. Apple'ın resmi [iPhone'da eSIM hakkında](https://support.apple.com/en-us/HT209044) belgeleri, uyumluluk hakkında ek arka plan bilgisi sağlar.
+> **Editör Notu:** Bir hattı düşüren çift eSIM neredeyse her zaman bir operatör kilidi, yanlış yapılandırılmış bir APN veya bir çift-SIM ayarıdır — ölü bir plan değil. Aşağıdaki her çözüm Apple'ın resmi dokümantasyonunu ve GSMA standartlarını izler ve belirli bir belirtiyi hedefler. Hatanız için tam çözümü bulmak üzere teşhis tablosunu inceleyin.
+> 
+> **Önemli Çıkarımlar:** Bir hattın arama yapıp alamamasının en yaygın nedeni VoLTE veya plan sınırlarıdır. Gelen arama yönlendirme sorunları çoğu zaman Wi‑Fi Arama'yı kapatıp geri açmakla çözülür. iPhone'lar çift beklemedir, çift aktif değil – arama sırasında diğer hattın "Servis Yok" göstermesi normaldir. İkinci bir eSIM ekleyemiyorsanız Ayarlar'dan Operatör Kilidi'ni kontrol edin (`SIM kısıtlaması yok`). Çift eSIM pil tüketimi, zayıf sinyalli hatta 5G devre dışı bırakılarak azaltılabilir.
 
----
+iPhone'daki çift eSIM sorunlarının çoğu beş nedene dayanır: bir operatör kilidi, bir plan veya VoLTE sınırı, Veri Dolaşımı veya varsayılan hat ayarları, bir arıza gibi görünen sıradan çift bekleme davranışı ya da ayar sıfırlamasının temizlediği bir iOS aksaklığı. Aşağıdaki dizinden belirtinizi eşleştirin ve karşılık gelen çözümü uygulayın — çoğu beş dakikadan az sürer.
 
-## 📌 Hızlı Teşhis Dizini (Çift eSIM'e Özel)
 
-| Belirti | En Olası Neden | Düzeltme Bölümü |
+## Çalışmayan Çift eSIM Nasıl Düzeltilir
+
+**Telefonunuzda çift eSIM sorunları var. Hangisi?**
+
+| Belirtiniz | Çözüme Atla |
+|--------------|-------------|
+| **İkinci eSIM "Servis Yok" gösteriyor** ama ilki çalışıyor | [Çözüm #2](#why-one-dual-esim-line-shows-no-service) |
+| **Arama yapabiliyor ama gelen aramaları ALAMIYOR** | [Çözüm #3](#a-dual-esim-line-that-cannot-receive-calls) |
+| **Arama sırasında diğer hat "Servis Yok" diyor** | [Çözüm #4](#one-line-showing-no-service-during-a-call-is-normal) – bu normaldir! |
+| **İkinci eSIM eklenemiyor – "Operatör kilidi" hatası** | [Çözüm #5](#dual-esim-not-working-on-a-carrier-locked-phone) |
+| **İki hatla pil daha hızlı tükeniyor** | [Çözüm #6](#how-to-reduce-dual-esim-battery-drain) |
+| **Fiziksel SIM tanınmıyor** | [Çözüm #7](#esim-and-physical-sim-conflicts-and-tray-issues) |
+| **Çin'den iPhone – hiç eSIM seçeneği yok** | [Çözüm #8](#dual-esim-in-china-hong-kong-and-macau) – donanım sınırlaması |
+| **Veri çalışıyor ama internet yok (APN sorunu)** | [Çözüm #11](#how-to-configure-apn-settings-if-your-esim-has-no-data) – APN yapılandırması |
+| **eSIM yanlışlıkla silindi** | [SSS #9](#frequently-asked-questions) – sağlayıcıya bağlı |
+| **Emin değilim – başka bir şey** | [Tam sorun giderme tablosu](#dual-esim-troubleshooting-table) |
+
+> 💡 **Önemli Bilgi:** Bir iPhone'da **iki hat** kullanıyorsanız, iPhone'lar **çift beklemedir, çift aktif değil** – arama sırasında diğer hat geçici olarak "Servis Yok" gösterebilir. Bu **normal davranıştır** (bkz. Çözüm #4). Onu "düzeltmeye" vakit harcamayın.
+
+Çift SIM sorunlarınız hatalı bir kurulumdan kaynaklanıyorsa [genel eSIM aktivasyon rehberiyle](/faq/how-to-activate-an-esim/) başlayın, sonra aşağıdaki çözümleri izleyin — ve bu sayfanın adlandırmadığı her hata mesajı için [eSIM Derin Sorun Giderme Rehberi](/faq/esim-deep-troubleshooting-guide-2026/) her vakayı derinlemesine kapsar.
+
+
+## Eksiksiz Çift eSIM Sorun Giderme Rehberi
+
+Çift eSIM çalışmadığında çoğu iPhone kullanıcısının izlediği yol budur. Nerede olduğunuzu takip etmek için kullanın.
+
+| Adım | Ne Oluyor | Ne Yapmalı | Nerede Bulunur |
+| :--- | :--- | :--- | :--- |
+| **1. Belirtileri tanımlayın** | "İkinci eSIM'imin sinyali yok." / "Arama alamıyorum." / "Pil hızla tükeniyor." | Belirtinizi yukarıdaki Hızlı Teşhis tablosuyla eşleştirin. | [10 Saniyelik Hızlı Teşhis](#dual-esim-quick-diagnostic-index) |
+| **2. Normal davranış mı bakın** | "Arama sırasında diğer hattım Servis Yok gösteriyor." | Bu, çift bekleme iPhone'lar için **normaldir**. Çözüm #4'e atlayın. | [Çözüm #4](#one-line-showing-no-service-during-a-call-is-normal) |
+| **3. Operatör kilidini elemeyin** | "İkinci bir eSIM hiç ekleyemiyorum." | Ayarlar'dan Operatör Kilidi'ni kontrol edin. "SIM kısıtlaması yok" demelidir. | [Çözüm #5](#dual-esim-not-working-on-a-carrier-locked-phone) |
+| **4. Çözümü uygulayın** | Belirtinize özel çözümü izleyin. | Aşağıdaki 12 çözümden biri sorununuzu çözecektir. | [Çözümler #1‑#12](#what-are-your-dual-esim-options-on-iphone) |
+| **5. Hâlâ çalışmıyor mu?** | "Hiçbir çözüm işe yaramadı." | Sorun giderme tablosundaki yedek seçenekleri kullanın. | [Sorun giderme tablosu](#dual-esim-troubleshooting-table) |
+
+
+## Çift eSIM Hızlı Teşhis Dizini
+
+| Belirti | En Olası Neden | Çözüm Bölümü |
 |---------|-------------------|--------------|
-| İkinci eSIM "Hizmet Yok" gösteriyor ancak ilki çalışıyor | CDMA ses geri dönüş uyumsuzluğu | #2 |
-| Bir numara arama yapabiliyor ancak arama alamıyor | Taşıyıcı T‑ADS önbelleği güncel değil | #3 |
-| Bir arama sırasında diğer hat "Hizmet Yok" diyor | iPhone aynı anda tek bir veri ağı kullanır | #4 |
-| İkinci eSIM eklenemiyor – "Taşıyıcı kilidi" hatası | Cihaz ilk taşıyıcıya kilitli | #5 |
-| Çift eSIM çalışıyor ancak pili daha hızlı tüketiyor | Her iki hat da aktif olarak sinyal arıyor | #6 |
-| eSIM + fiziksel SIM: fiziksel SIM tanınmıyor | SIM tepsisi sorunu veya uyumsuz kart | #7 |
+| İkinci eSIM "Servis Yok" gösteriyor ama ilki çalışıyor | VoLTE veya hat sıralama sorunu | [#2](#why-one-dual-esim-line-shows-no-service) |
+| Bir numara arama yapıyor ama gelen aramaları alamıyor | Gelen arama yönlendirme uyuşmazlığı | [#3](#a-dual-esim-line-that-cannot-receive-calls) |
+| Arama sırasında diğer hat "Servis Yok" diyor | iPhone aynı anda tek veri şebekesi kullanır (normal) | [#4](#one-line-showing-no-service-during-a-call-is-normal) |
+| İkinci eSIM eklenemiyor – "Operatör kilidi" hatası | Cihaz ilk operatöre kilitli | [#5](#dual-esim-not-working-on-a-carrier-locked-phone) |
+| Çift eSIM çalışıyor ama pili daha hızlı tüketiyor | Her iki hat da aktif olarak arama yapıyor | [#6](#how-to-reduce-dual-esim-battery-drain) |
+| eSIM + fiziksel SIM: fiziksel SIM tanınmıyor | SIM tepsi sorunu veya uyumsuz kart | [#7](#esim-and-physical-sim-conflicts-and-tray-issues) |
+| Veri sinyal çubukları gösteriyor ama internet yok | APN ayarları eksik veya yanlış | [#11](#how-to-configure-apn-settings-if-your-esim-has-no-data) |
 
----
 
-## 1. iPhone'da Çift eSIM Seçenekleriniz Nelerdir?
+## iPhone'da Çift eSIM Seçenekleriniz Nelerdir?
 
-iPhone XS, XR ve tüm yeni modellerden (iPhone 17 dahil) başlayarak Apple, iPhone 13 ve sonrasında çift eSIM'i (aynı anda iki aktif eSIM) destekler. ABD dışı modeller ayrıca bir eSIM ve bir fiziksel nano‑SIM'i de destekler. Çin anakarası çift fiziksel SIM modellerinde iPhone 17 Air hariç eSIM desteği yoktur.
+iPhone XS, XR ve tüm daha yeni modellerden (iPhone 16 dahil) itibaren Apple, iPhone 13 ve sonrasında çift eSIM'i (iki eSIM'in eşzamanlı aktivitesi) destekler. ABD dışı modeller ayrıca bir eSIM artı bir fiziksel nano‑SIM destekler. Çin anakarası çift fiziksel SIM modellerinde iPhone 16 dışında eSIM desteği yoktur.
 
 **Çift eSIM** yapılandırmanız iPhone modelinize ve bölgenize bağlıdır:
 
 | Yapılandırma | Desteklenen Modeller | Maks. Aktif Hat |
 |---------------|------------------|------------------|
-| **Çift eSIM** | iPhone 13 ve daha yenileri (tüm iPhone 17 modelleri dahil) | 2 |
-| **1 eSIM + 1 fiziksel nano‑SIM** | SIM tepsili tüm iPhone'lar (ABD dışı modeller ve iPhone 14 öncesi ABD modelleri) | 2 |
+| **Çift eSIM** | iPhone 13 ve yenileri (tüm iPhone 16 modelleri dahil) | 2 |
+| **1 eSIM + 1 fiziksel nano‑SIM** | SIM tepsisi olan tüm iPhone'lar (ABD dışı modeller ve iPhone 14 öncesi ABD modelleri) | 2 |
 | **Yalnızca 1 fiziksel SIM** | Eski iPhone'lar (XS öncesi) | 1 |
-| **2 fiziksel SIM** | Çin anakarası, Hong Kong, Makao'ya özel çift SIM tepsili modeller (ör. iPhone 17 Çin sürümü) | 2 |
+| **2 fiziksel SIM** | Çin anakarası, Hong Kong, Makao'ya özel çift SIM tepsi modelleri (örn. iPhone 16 Çin sürümü) | 2 |
 
 Uyumlu iPhone'ların tam listesi için [iPhone'unuzun çift eSIM uyumluluğunu kontrol edin](/compatibility/).
 
-> 📱 **iPhone 17 Air ve ABD iPhone 17 serisi**: Fiziksel SIM tepsisi yok – yalnızca çift eSIM. Bu modellerde aktivasyon sorunları yaşıyorsanız, gelişmiş düzeltmeler için **[eSIM Derinlemesine Sorun Giderme Kılavuzumuza (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/)** bakın.
 
----
+## Bir Çift eSIM Hattı Neden Servis Yok Gösterir
 
-## 2. Kritik Sınırlama: CDMA Taşıyıcıları Çift eSIM'i Bozar
+Çift eSIM hatlarınızdan biri veri kullanabiliyor ama arama yapıp alamıyorsa — **veya tamamen "Servis Yok" gösteriyorsa** — 2026'da en yaygın nedenler şunlardır:
 
-Birincil hattınız Verizon veya US Cellular gibi bir CDMA taşıyıcısı kullanıyorsa, iPhone'un bant genişliği aynı anda yalnızca bir CDMA ses kanalını işleyebilir. İkinci bir eSIM eklemek, bu ikinci hattın sesli aramalar için "Hizmet Yok" göstermesine neden olur, ancak veri yine de çalışabilir. Tam çözüm, GSM/5G yalnızca plana geçmektir.
+- **VoLTE / VoNR o hat için etkin değil.** Bazı operatörler eSIM planlarında veri üzerinden ses dolaşımını kapatır; bu, hattı sadece veriye bırakır. (Basit kontrol: veri kullanabiliyorsanız ama arama yapamıyorsanız sorun büyük olasılıkla budur.)
+- **Hat sıralaması.** iOS sesi *varsayılan ses hattınıza* yönlendirir; sadece veriye ayarlanmış ikincil bir hat arama yapıp alamaz.
+- **Plan görüşme içermiyor.** Bazı seyahat eSIM'leri tasarım gereği sadece veridir ve hiç ses hizmeti yoktur. Böyleyse sinyal çubukları görürsünüz ama arama denemesi başarısız olur.
 
-### Bu neden olur?
-CDMA ağları farklı bir ses geri dönüş teknolojisi (1xRTT) kullanır. iPhone'un bant genişliği aynı anda **yalnızca bir CDMA ses kanalını** işleyebilir. İlk eSIM CDMA olduğunda, bant genişliğini CDMA moduna kilitler ve ikinci hattın sesi için kaynak bırakmaz. İkinci hat LTE/5G verisi alabilir ancak **arama yapamaz veya alamaz**.
+> **Not:** Eski 3G/CDMA şebekeler ABD ve Japonya'da emekliye ayrıldı. Verizon ve US Cellular 2022-2024 arasında CDMA'yı kapattı; au/KDDI 3G'yi 2022'de bitirdi. 2026'da "ses için servis yok" olan bir hat neredeyse her zaman bir VoLTE, plan veya hat sıralama sorunudur - CDMA değil.
 
-**Açık Türkçe ile:** iPhone'unuzun hücresel modemini tek bir yol olarak düşünün. CDMA hattı, tüm yolu kapatan büyük bir kamyondur. Kamyon çekilene kadar başka hiçbir hattın sesi geçemez.
+### Çözümler
+- **Etkilenen hattı varsayılan ses hattı yapın**: `Ayarlar > Hücresel > Varsayılan Ses Hattı`.
+- **VoLTE'yi açın**: `Ayarlar > Hücresel > [hat] > Ses ve Veri`, sonra LTE veya 5G (VoLTE/VoNR) seçin.
+- **Planın görüşme içerdiğini doğrulayın**. Sadece veri bir seyahat eSIM'i ise ana hattınızı ses hattı olarak tutun ve eSIM'i yalnızca veri için kullanın.
+- **Operatörünüze başvurun** ve dolaşımda numaranız için veri-üzerinden-ses/5G'nin etkin olduğunu doğrulayın.
 
-### Hangi taşıyıcılar CDMA'dır?
-- **ABD eSIM**: Verizon (eski planlar), US Cellular, bazı MVNO'lar.
-- **Japonya**: au (KDDI) (CDMA aşamalı olarak kaldırıldı, ancak eski planlar mevcut)
-- **Diğerleri**: Dünyanın çoğu GSM/UMTS/LTE kullanır (sorun yok)
+ABD operatör şebekelerinin daha derin karşılaştırması için [ABD eSIM plan rehberindeki](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/) **ABD operatör şebeke karşılaştırmasına** bakın.
 
-### CDMA ile çift eSIM için düzeltmeler
-- ✅ **Birincil hattınızı GSM/5G yalnızca bir plana geçirin** – örn., [Verizon'un 5G-only planları](https://www.verizon.com/plans/unlimited-plan) veya T‑Mobile.
-- ✅ **CDMA hattını yalnızca veri olarak kullanın** – bu hat için "Ses"i kapatın (iOS'ta mümkün değil; VoLTE'yi devre dışı bırakmanız gerekir, bu da çalışmayabilir).
-- ⚠️ **Geçici çözüm**: Hangi hattın birincil olduğunu değiştirin. CDMA'yı korumak zorundaysanız, ikinci eSIM olarak yerleştirin – ancak o zaman ilk eSIM sesini kaybedebilir.
-- ❌ **Tam çözüm yok** – CDMA ses için bir fiziksel SIM tutmanız ve eSIM'i yalnızca veri için kullanmanız gerekebilir.
 
-ABD taşıyıcı ağlarının daha derin bir karşılaştırması için **[ABD taşıyıcı ağ karşılaştırmamıza](/carriers/united-states-esim-carrier-guide/)** bakın.
+## Gelen Aramaları Alamayan Çift eSIM Hattı
 
----
+**Belirti**: A hattı sorunsuz çalışıyor. B hattı giden aramaları yapabiliyor ama B'ye gelen aramalar doğrudan sesli mesaja gidiyor veya "ulaşılamıyor" olarak çalıyor.
 
-## 3. Bir Numara Arama Yapabilir Ancak Arama Alamıyor – T‑ADS Önbellek Hatası
+**Kök neden**: Şebeke arama yönlendirme uyuşmazlığı. B hattı kısa süre önce 5G ile LTE arasında geçiş yaptıysa veya Wi-Fi Arama kullandıysa, operatörün şebekesi gelen aramaları hâlâ yanlış yoldan yönlendirmeye çalışabilir.
 
-**Belirti**: A hattı iyi çalışıyor. B hattı giden arama yapabiliyor, ancak B'ye gelen aramalar doğrudan sesli postaya gidiyor veya "ulaşılamıyor" olarak çalıyor.
+**Benzetme:** Operatörün, telefonunuzu eski evinizde listeleyen eski bir adres defteri tuttuğunu hayal edin. Birisi aradığında yanlış yere gider. Wi‑Fi Arama'yı kapatıp açmak adres defterini günceller.
 
-**Temel neden**: Taşıyıcının **T‑ADS (Sonlandırma Erişim Alanı Seçimi)** önbelleği güncel değil. B hattı yakın zamanda 5G'den LTE'ye geçtiğinde veya Wi‑Fi Arama kullandığında, ağ hala gelen aramaları eski alana yönlendirmeye çalışır.
-
-**Analoji:** Taşıyıcının telefonunuzu eski evinizde listeleyen eski bir adres defteri olduğunu hayal edin. Birisi aradığında, yanlış yere giderler. Wi‑Fi Arama'yı kapatıp açmak adres defterini günceller.
-
-### Hızlı düzeltme (kullanıcı tarafı)
-1. **Wi‑Fi Arama**'yı geçici olarak kapatın: `Ayarlar > Hücresel > B Hattı > Wi‑Fi Arama` → KAPALI.
+### Telefonunuzda Hızlı Çözüm
+1. **Wi‑Fi Arama'yı** geçici olarak kapatın: `Ayarlar > Hücresel > B hattı > Wi‑Fi Arama` → KAPALI.
 2. iPhone'u yeniden başlatın.
-3. Wi‑Fi Arama'yı tekrar açın.
+3. Wi‑Fi Arama'yı geri açın.
 
-### Taşıyıcı tarafı düzeltme (desteği arayın)
-Taşıyıcınızdan "**bu numara için T‑ADS önbelleğini temizlemesini**" veya "**alan seçim kaydını sıfırlamasını**" isteyin. Bu genellikle 30 dakika içinde etkili olur. T‑ADS ve diğer arama ile ilgili sorunlar için **[Sorun Giderme Kılavuzumuzdaki 14. Düzeltme'ye](/faq/esim-deep-troubleshooting-guide-2026/#14-dual-sim-one-number-can-call-out-but-cannot-receive-incoming-calls)** bakın.
+### Desteği Arayarak Operatör Çözümü
+Operatörünüzden bu numara için **arama yönlendirmesini sıfırlamasını** veya **hattı yenilemesini** isteyin. Bu genellikle operatör hattı yeniden sağladıktan kısa süre sonra etkili olur. Daha fazla arama yönlendirme ve aramayla ilgili sorun için bkz. **[yukarıdaki Çözüm 3](#a-dual-esim-line-that-cannot-receive-calls)**.
 
 ### Tekrarını önleme
-- 5G/LTE arasında hızlıca geçiş yapmaktan kaçının (en az birkaç saat tek modda kalın).
-- Sık seyahat ediyorsanız, veriye ihtiyacı olmayan hat için **Veri Dolaşımı**'nı KAPALI tutun.
+- 5G/LTE arasında hızlı geçişten kaçının (en az birkaç saat tek modu koruyun).
+- Sık seyahat ediyorsanız veri gerektirmeyen hat için **Veri Dolaşımı**'nı KAPALI tutun.
 
----
 
-## 4. Bir Arama Sırasında Diğer Hat "Hizmet Yok" Diyor – Normal Davranış
+## Arama Sırasında Bir Hattın Servis Yok Göstermesi Normaldir
 
-**Belirti**: A hattını kullanarak bir arama yapıyorsunuz. Kontrol ettiğinizde, B hattı "Hizmet Yok" gösteriyor.
+**Belirti**: A hattıyla aramadasınız. Kontrol ettiğinizde B hattı "Servis Yok" gösteriyor.
 
-**Açıklama**: iPhone'lar **çift bekleme modundadır, çift aktif değildir**. Aynı anda yalnızca bir hat hücresel bağlantıyı sürdürebilir. Bir arama sırasında, diğer hat geçici olarak ulaşılamaz durumdadır. Arama biter bitmez, her iki hat da yeniden bağlanır. Bu **bir çift eSIM arızası değildir** – tasarım gereği böyledir.
+**Açıklama**: iPhone'lar **çift beklemedir, çift aktif değil** (DSDS – Dual SIM Dual Standby olarak da bilinir). Aynı anda yalnızca bir hat hücresel bağlantı kurabilir. Arama sırasında diğer hat geçici olarak ulaşılamazdır. Arama biter bitmez iki hat da yeniden bağlanır. Bu bir **çift eSIM arızası değildir** – tasarım gereğidir.
 
-### Ne yapabilirsiniz:
-- **Her iki hatta da Wi‑Fi Arama'yı etkinleştirin** – böylece boşta kalan hat, diğer hattayken aramaları almak için Wi‑Fi'yi kullanabilir. Apple'ın [çift bekleme belgeleri](https://support.apple.com/guide/iphone/iph22f1a8af1/ios) bunu daha ayrıntılı olarak açıklar.
-- **"Hücresel Veri Geçişine İzin Ver"i etkinleştirin** – `Ayarlar > Hücresel > Hücresel Veri` altında. Bu, veri kullanmayan hattın, Wi‑Fi Arama için veri hattının bağlantısını kullanmasına olanak tanır.
+### Ne Yapabilirsiniz
+- **Her iki hatta da Wi‑Fi Arama'yı etkinleştirin** – böylece boştaki hat, diğer hatta konuşurken Wi-Fi üzerinden arama alabilir. Apple'ın [çift bekleme dokümantasyonu](https://support.apple.com/guide/iphone/iph22f1a8af1/ios) bunu ayrıntılı açıklar.
+- **"Hücresel Veri Değiştirmeye İzin Ver"i etkinleştirin** – `Ayarlar > Hücresel > Hücresel Veri` altında. Bu, veri olmayan hattın Wi‑Fi Arama için veri hattının bağlantısını kullanmasına izin verir.
 
-> 📌 Not: Bazı taşıyıcılar her iki hatta aynı anda Wi‑Fi Arama'yı desteklemez. Taşıyıcınızla kontrol edin.
+> 📌 Not: Bazı operatörler Wi‑Fi Arama'yı her iki hatta eşzamanlı desteklemez. Operatörünüze danışın.
 
----
 
-## 5. Çift eSIM Çalışmıyor mu? Önce Taşıyıcı Kilidini Kontrol Edin
+## Operatör Kilitli Telefonda Çalışmayan Çift eSIM
 
 İkinci bir eSIM veya fiziksel SIM ekleyemiyorsanız:
-- iPhone'unuz ilk taşıyıcıya **taşıyıcı kilitli** olabilir.
-- Kontrol etmek için: `Ayarlar > Genel > Hakkında` → **Taşıyıcı Kilidi**'ne ilerleyin. "SIM kısıtlaması yok" yazmalıdır.
+- iPhone'unuz ilk operatöre **operatör kilitli** olabilir.
+- Kontrol etmek için: `Ayarlar > Genel > Hakkında` → **Operatör Kilidi**'ne ilerleyin. "SIM kısıtlaması yok" demelidir.
 
-### Kilitliyse ne yapmalı:
-- Kilidi açmak için taşıyıcınızla iletişime geçin. ABD taşıyıcıları, cihaz ödendikten sonra kilidi açmak zorundadır.
-- Kilit açıldıysa ancak hala çalışmıyorsa, ağ ayarlarını sıfırlamanız gerekebilir: `Ayarlar > Genel > iPhone'u Aktar veya Sıfırla > Sıfırla > Ağ Ayarlarını Sıfırla`. (Uyarı: Wi‑Fi şifrelerini unutur.)
+### Telefonunuz Kilitliyse Ne Yapmalı
+- Kilidi açmasını istemek için operatörünüzle iletişime geçin. ABD operatörleri cihaz ödendikten sonra kilidi açmak zorundadır.
+- Kilit açıldıysa ama hâlâ çalışmıyorsa ağ ayarlarını sıfırlamanız gerekebilir: `Ayarlar > Genel > iPhone'u Aktar veya Sıfırla > Sıfırla > Ağ Ayarlarını Sıfırla`. (Uyarı: bu, Wi‑Fi şifrelerini unutturur.)
 
-Kilit açıldıktan sonra, eSIM'inizi iPhone ve Android arasında da taşıyabilirsiniz – adım adım talimatlar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/how-to-transfer-esim-between-iphone-and-android/)** bakın.
+Kilit açıldıktan sonra eSIM'inizi iPhone ile Android arasında da taşıyabilirsiniz – adım adım talimatlar için **[eSIM Platformlar Arası Aktarım 2026 rehberimize](/faq/how-to-transfer-esim-between-iphone-and-android/)** bakın.
 
----
 
-## 6. Çift eSIM Pil Tüketimi: Nasıl Azaltılır
+## Çift eSIM Pil Tüketimi Nasıl Azaltılır
 
-**Çift eSIM** veya hatta eSIM + fiziksel SIM çalıştırmak pil tüketimini %5–15 artırır. Her iki hattı da aktif tutarken tüketimi en aza indirmenin yolları:
+**Çift eSIM** veya hatta eSIM + fiziksel SIM çalıştırmak pil tüketimini artırabilir; çünkü her iki hat da şebekeye aktif bağlı kalır. İki hattı aktif tutarken tüketimi en aza indirmenin yolu:
 
 | Strateji | Etki |
 |----------|--------|
-| Zayıf sinyalli hattı **yalnızca LTE** kullanacak şekilde ayarlayın (5G değil) | Orta düzey tasarruf |
-| Veri için kullanılmayan hatta **Veri Dolaşımı**'nı kapatın | Taramayı azaltır |
-| **5G Bağımsız**'ı devre dışı bırakın (taşıyıcınız izin veriyorsa) | Çok yardımcı olur |
-| İkincil hattaki arka plan uygulamaları için **Düşük Veri Modu** kullanın | Az tasarruf |
-| Çok düşük sinyal alanlarında, ikincil hattı geçici olarak devre dışı bırakın | Önemli tasarruf |
+| Zayıf sinyalli hattı **yalnızca LTE** kullanacak ayarlayın (5G değil) | Orta düzey tasarruf |
+| Veri için kullanılmayan hatta **Veri Dolaşımı**'nı kapatın | Taramayı tasarruf eder |
+| **5G Standalone**'u devre dışı bırakın (operatörünüz izin veriyorsa) | Çok yardımcı olur |
+| İkincil hatta arka plan uygulamaları için **Düşük Veri Modu** kullanın | Küçük tasarruf |
+| Çok düşük sinyal bölgelerinde ikincil hattı geçici olarak devre dışı bırakın | Önemli tasarruf |
 
-Bir hattı devre dışı bırakmak için: `Ayarlar > Hücresel` → hatta dokunun → **Bu Hattı Aç**'ı kapatın. Sık sık uluslararası seyahat ediyorsanız, pil dostu bir alternatif olarak [Roami'nin ücretsiz eSIM denemesini](/free-esim/) deneyin.
+Bir hattı devre dışı bırakmak için: `Ayarlar > Hücresel` → hatta dokunun → **Bu Hattı Etkinleştir**'i kapatın. Sık uluslararası seyahat ediyorsanız, pil dostu bir alternatif olarak [Roami'nin ücretsiz eSIM denemesini deneyin](/free-esim/).
 
----
 
-## 7. Fiziksel SIM Tanınmıyor (Tepsi Sorunları)
+## eSIM ve Fiziksel SIM Çakışmaları ile Tepsi Sorunları
 
-**Belirti**: nano‑SIM'iniz başka bir telefonda çalışıyor ancak iPhone'unuzda çalışmıyor.
+**Belirti**: nano‑SIM'iniz başka telefonda çalışıyor ama iPhone'unuzda değil. Ya da eSIM'iniz sorunsuz çalışıyor ama ikisi takılıyken fiziksel SIM tanınmıyor.
 
 **Yaygın nedenler**:
-- SIM kart **CDMA** ve iPhone eSIM‑yalnızca moduna ayarlanmış? (nadir)
-- SIM tepsisi tam olarak takılmamış veya hasarlı.
+- iPhone farklı bir şebekeye **operatör kilitli**.
+- SIM tepsisi tam oturmamış veya hasarlı.
 - SIM kart **çok eski** (4G öncesi) veya bükülmüş.
+- **Fiziksel SIM çakışması**: Bazı iPhone'larda, cihaz operatör kilitliyse fiziksel SIM takmak eSIM yuvasını geçici olarak devre dışı bırakabilir.
 
-**Düzeltmeler**:
-1. Tepsisi çıkarın, kontakları yumuşak bir bezle temizleyin.
-2. Tık sesi gelene kadar sıkıca yeniden takın.
+**Çözümler**:
+1. Tepsiyi çıkarın, kontakları yumuşak bir bezle temizleyin.
+2. Tık sesi gelene kadar sıkıca geri yerleştirin.
 3. iPhone'u yeniden başlatın.
-4. Hala tanınmıyorsa, SIM'i başka bir telefonda deneyin – eğer çalışıyorsa, iPhone'unuzun SIM okuyucusu arızalı olabilir.
-5. SIM kartı taşıyıcı mağazasında değiştirin (çoğu faturalı plan için ücretsiz).
+4. Hâlâ tanınmıyorsa SIM'i başka telefonda deneyin – çalışıyorsa iPhone'unuzun SIM okuyucusu arızalı olabilir.
+5. SIM kartı operatör mağazasında değiştirin (çoğu abonelik planı için ücretsizdir).
 
-Tamamen eSIM'e geçmeyi planlıyorsanız, aktivasyon yöntemleri için **[iPhone 17 eSIM kılavuzumuza](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** başvurun.
+> **Fiziksel SIM taktıktan sonra eSIM'iniz kaybolursa:** Bazı operatör kilitli iPhone'lar, farklı bir operatörden fiziksel SIM takıldığında eSIM yuvasını devre dışı bırakır. Fiziksel SIM'i çıkarın, yeniden başlatın; eSIM'iniz geri gelmelidir. Sonra cihazın kilidini açması için operatörünüzle iletişime geçin.
 
----
+Tamamen eSIM'e geçmeyi planlıyorsanız, aktivasyon yöntemleri için **[iPhone 16 eSIM rehberimize](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)** bakın.
 
-## 8. Özel Bölgesel Durumlar: Çin, Hong Kong, Makao
 
-Çin anakarası iPhone'ları (iPhone 17 Air hariç) iki fiziksel nano‑SIM yuvasına sahiptir ve **hiç eSIM desteği yoktur**. Hong Kong ve Makao modelleri tipik olarak eSIM + fiziksel SIM'i destekler. Çin anakarası çift fiziksel SIM iPhone satın alırsanız, uluslararası seyahat eSIM'leri de dahil olmak üzere herhangi bir eSIM yükleyemezsiniz – bu bir donanım sınırlamasıdır.
+## Çin Hong Kong ve Makao'da Çift eSIM
 
-Apple, **Çin anakarası** için belirli çift fiziksel SIM modelleri satar:
-- iPhone 17, 17 Pro, 17 Pro Max: **iki fiziksel nano‑SIM yuvası** (Air hariç eSIM yok).
-- iPhone 17 Air: **yalnızca eSIM** (küresel, Çin dahil).
+Çin anakarası iPhone'ları (iPhone 16 hariç) iki fiziksel nano‑SIM yuvasına sahiptir ve **hiç eSIM desteği yoktur**. Hong Kong ve Makao modelleri tipik olarak eSIM + fiziksel SIM destekler. Çin anakarası çift fiziksel SIM bir iPhone alırsanız, uluslararası seyahat eSIM'leri dahil hiçbir eSIM kuramazsınız – bu bir donanım sınırlamasıdır.
+
+Apple, **Çin anakarasında** özel çift fiziksel SIM modelleri satar:
+- iPhone 16, 17 Pro, 17 Pro Max: **iki fiziksel nano‑SIM yuvası** (Air hariç eSIM yok).
+- iPhone 16: **yalnızca eSIM** (global, Çin dahil).
 
 **Hong Kong ve Makao** modelleri:
-- **eSIM + fiziksel SIM** (uluslararası modeller gibi) veya modele bağlı olarak çift fiziksel SIM'i destekler.
-- eSIM seyahat planları kullanmayı planlıyorsanız, satın almadan önce her zaman doğrulayın.
+- Modele göre **eSIM + fiziksel SIM** (uluslararası modeller gibi) veya çift fiziksel SIM destekler.
+- eSIM seyahat planları kullanmayı planlıyorsanız satın almadan önce mutlaka doğrulayın.
 
-> ⚠️ **Önemli**: Çin anakarası çift fiziksel SIM iPhone satın alırsanız, **herhangi bir eSIM yükleyemezsiniz** (uluslararası seyahat eSIM'leri dahil) – iPhone 17 Air hariç. Bu bir donanım sınırlamasıdır, yazılım engeli değil.
+> ⚠️ **Önemli**: Çin anakarası çift fiziksel SIM bir iPhone alırsanız (iPhone 16 hariç) **hiçbir eSIM kuramazsınız** (uluslararası seyahat eSIM'leri dahil) – bu bir donanım sınırlamasıdır, yazılım engeli değil.
 
----
 
-## 9. İş ve Kişisel Kullanım için Çift eSIM: En İyi Uygulamalar
+## İş ve Kişisel Hatlar için Çift eSIM
 
-Birçok kullanıcı **iş numarasını** (eSIM) ve **kişisel numarasını** (ikinci eSIM veya fiziksel SIM) tutar. **Çift eSIM** yapılandırmanızı temiz bir şekilde nasıl kuracağınız aşağıda açıklanmıştır:
+Birçok kullanıcı bir **iş numarası** (eSIM) ve **kişisel numara** (ikinci eSIM veya fiziksel SIM) tutar. **Çift eSIM** yapılandırmanızı temizce kurmanın yolu:
 
-### Hatları net bir şekilde etiketleyin
-`Ayarlar > Hücresel` → bir hatta dokunun → `Hücresel Plan Etiketi` → "İş" veya "Kişisel" seçin veya özel etiket oluşturun.
+### Hatları net biçimde etiketleyin
+`Ayarlar > Hücresel` → bir hatta dokunun → `Hücresel Plan Etiketi` → "İş" veya "Kişisel" seçin ya da özel etiket oluşturun.
 
 ### Varsayılan ses ve veriyi seçin
-- **Varsayılan Ses Hattı**: Yerel Telefon uygulamasından arama yaparken hangi hattın kullanılacağı (her aramada yine de seçim yapabilirsiniz).
-- **Hücresel Veri**: Hangi hattın mobil veri kullanacağı. **Hücresel Veri Geçişine İzin Ver**'i açın, böylece birincil hat sinyal kaybederse telefon geçici olarak diğer hattın verisini kullanabilir.
+- **Varsayılan Ses Hattı**: Yerli Telefon uygulamasından arama yaptığınızda hangi hattın kullanılacağı (arama başına yine de seçebilirsiniz).
+- **Hücresel Veri**: Hangi hat mobil veri kullanır. Birincil sinyal kaybederse telefonun diğer hattın verisini geçici kullanabilmesi için **Hücresel Veri Değiştirmeye İzin Ver**'i açın.
 
 ### Kişileri ayırın
-- Kişileri belirli bir hatta atayın: Kişiyi düzenle → `Tercih Edilen Hat` → iş veya kişisel seçin.
+- Kişileri belirli bir hata atayın: Kişiyi düzenle → `Tercih Edilen Hat` → iş veya kişisel seçin.
 
-### Kazara dolaşımı önleyin
-- Pahalı uluslararası ücretleri varsa, iş hattı için **Veri Dolaşımı**'nı kapatın.
+### İstem dışı dolaşımı önleyin
+- İş hattının uluslararası oranları pahalıysa o hat için **Veri Dolaşımı**'nı kapatın.
 
----
 
-## 10. Sorun Giderme Tablosu – Çift eSIM Senaryoları
+## Çift eSIM Sorun Giderme Tablosu
 
-| Sorun | Acil Adım | Uzun Vadeli Düzeltme |
-|---------|----------------|----------------|
-| İkinci eSIM hiç sinyal almıyor | iPhone'u yeniden başlatın, ardından hattı kapatıp açın | CDMA taşıyıcı ise, GSM planına geçin |
-| Aramalar doğrudan sesli postaya gidiyor (çalmaz) | "Bilinmeyen Arayanları Sessize Al" ve arama yönlendirmeyi devre dışı bırakın | T‑ADS'yi sıfırlamak için taşıyıcıyla iletişime geçin |
-| İkinci hatta SMS alınamıyor | Bu hattan herhangi bir numaraya test SMS'i gönderin | Hattın yalnızca veri olmadığından emin olun; taşıyıcının SMS'i etkinleştirmesi gerekebilir |
-| İki eSIM de "Hizmet Yok" gösteriyor | Uçak modu aç/kapa > taşıyıcı kilidini kontrol edin | Ağ ayarlarını sıfırlayın |
-| Hatlar değiştirildi ve şimdi FaceTime/iMessage etkinleşmiyor | `Ayarlar > Mesajlar > Gönder ve Al` – numaraları manuel olarak seçin | Apple ID'den çıkış yapıp tekrar giriş yapın |
+| Sorun | Acil Adım | Uzun Vadeli Çözüm | Hâlâ Çalışmıyorsa |
+|---------|----------------|----------------|----------------------|
+| İkinci eSIM hiç sinyal almıyor | iPhone'u yeniden başlatın, sonra hattı kapatıp açın | Planın aktif olduğunu ve hattın etkin olduğunu doğrulayın | eSIM'i yeniden sağlaması için operatöre başvurun |
+| Aramalar doğrudan sesli mesaja gidiyor (çalma yok) | "Bilinmeyen Arayanları Sessize Al" ve arama yönlendirmeyi kapatın | Arama yönlendirmesini sıfırlaması için operatöre başvurun | Ağ ayarlarını sıfırlayın |
+| İkinci hatta SMS alınamıyor | O hattan herhangi bir numaraya test SMS'i gönderin | Hattın sadece veri olmadığından emin olun; operatörün SMS'i açması gerekebilir | Hattı yeniden eşitlemek için operatör uygulamasını kullanın |
+| İki eSIM ama ikisi de "Servis Yok" gösteriyor | Uçak modu aç/kapat > operatör kilidini kontrol edin | Ağ ayarlarını geri yükle | Operatörün bölgenizde kesinti olup olmadığını kontrol edin |
+| Hat değiştirdim ve artık FaceTime/iMessage etkinleşmiyor | `Ayarlar > Mesajlar > Gönder ve Al` yoluna gidin – numaraları elle seçin | Apple ID'den çıkıp tekrar girin | Apple Destek'e başvurun |
+| Veri sinyal gösteriyor ama internet yok | APN ayarlarını kontrol edin (bkz. Çözüm #11) | APN'yi elle yapılandırın | Doğru APN için eSIM sağlayıcıya başvurun |
+| eSIM yanlışlıkla silindi | Sağlayıcının yeniden indirmeye izin verip vermediğini kontrol edin | Yeni QR kodu için operatöre başvurun | Seyahat eSIM'leri: yeni plan satın alın |
+| Fiziksel SIM takıldı, eSIM kayboldu | Operatör kilitli telefon yabancı SIM'le eSIM'i kapatır | Fiziksel SIM'i çıkarın, yeniden başlatın; eSIM geri gelir | Cihazın kilidini açması için operatöre başvurun |
 
-"eSIM başka bir cihaza bağlı" veya "DFU geri yükleme hatası 53" gibi ek sorunlar için **[tam 16 vakalık sorun giderme kütüphanemize](/faq/esim-deep-troubleshooting-guide-2026/)** bakın.
 
----
+## eSIM'inizde Veri Yoksa APN Ayarları Nasıl Yapılandırılır
 
-## 11. Sıkça Sorulan Sorular
+**Belirti**: eSIM'iniz tam sinyal çubukları gösteriyor (veya "Servis Yok") ama internet bağlantınız yok – siteler açılmıyor, uygulamalar "bağlantı yok" diyor.
 
-**S1: Aynı taşıyıcıdan iki eSIM kullanabilir miyim?**  
-Evet, taşıyıcınız tek bir hesapta birden fazla eSIM profiline izin veriyorsa. Örneğin, T‑Mobile US aynı iPhone'da iki eSIM'e kadar destekler. Uyumlu iPhone modellerinin tam listesi için **[iPhone 17 uyumluluk tablosunu](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#2-global-iphone-17-models--esim-compatibility-table)** kontrol edin.
+**Kök neden**: eSIM profili doğru kuruldu ama Erişim Noktası Adı (APN) ayarları eksik veya yanlış. Bazı eSIM sağlayıcıları APN'yi otomatik yapılandırır; diğerleri elle giriş ister.
 
-**S2: Her iki hat da aynı anda 5G'yi destekleyecek mi?**  
-Evet, iPhone 13 ve daha yenilerinde (iPhone 17 dahil) her iki hat da 5G'de olabilir (çift 5G bekleme). Ancak, aynı anda yalnızca bir hat 5G verisi kullanabilir; diğeri ses geri dönüşü (VoNR) için 5G kullanır.
+### iPhone'da APN nasıl yapılandırılır
 
-**S3: İkinci hattım çalışıyor ancak ilk hat ekledikten sonra çalışmayı durdurdu – ne oldu?**  
-Birincil hat ayarlarını yanlışlıkla değiştirmiş olabilirsiniz. `Ayarlar > Hücresel > Varsayılan Ses Hattı`'na gidin ve geri ayarlayın.
+1. **Ayarlar > Hücresel** yoluna gidin.
+2. Verisi olmayan eSIM hattına dokunun.
+3. **Hücresel Veri Ağı**'na dokunun (bu seçenek yoksa APN operatörünüz tarafından otomatik yapılandırılıyor – bu çözümü atlayın).
+4. **Hücresel Veri** bölümü altında **APN** alanını doldurun.
+5. Sağlayıcınız başka bir şey belirtmedikçe **Kullanıcı Adı** ve **Şifre** alanlarını boş bırakın.
+6. Geri dönün, Uçak Modu'nu açıp kapatın ve veriyi test edin.
 
-**S4: Çift eSIM, eSIM + fiziksel SIM'den daha mı fazla pil tüketir?**  
-Genel olarak, çift eSIM fiziksel kart okuyucu olmadığı için biraz daha az güç tüketir. Ancak fark ihmal edilebilir düzeydedir (%2‑3 içinde).
+### Seyahat eSIM'leri için yaygın APN değerleri
 
-**S5: Seyahat ediyorum – aramalar için ev eSIM'imi tutarken veri için yerel bir eSIM kullanabilir miyim?**  
-Evet, en iyi uygulama:  
-- Yerel eSIM'i **Hücresel Veri** hattı olarak ayarlayın.  
-- Ev eSIM'ini **Varsayılan Ses Hattı** olarak tutun.  
-- Büyük ücretlerden kaçınmak için ev eSIM'inde **Veri Dolaşımı**'nı kapatın.  
-- Ev hattınızın Wi‑Fi Arama ve MMS için yerel eSIM'in verisini kullanabilmesi için **Hücresel Veri Geçişine İzin Ver**'i açın.
+| Sağlayıcı | APN | Kullanıcı Adı | Şifre |
+|----------|-----|----------|----------|
+| **Roami** | internet | (boş) | (boş) |
+| **Airalo** | globaldata | (boş) | (boş) |
+| **Holafly** | hola | (boş) | (boş) |
+| **Nomad** | nbdata | (boş) | (boş) |
+| **T‑Mobile (ABD)** | fast.t-mobile.com | (boş) | (boş) |
+| **AT&T (ABD)** | nxgen | (boş) | (boş) |
+| **Verizon (ABD)** | vzwinternet | (boş) | (boş) |
+| **EE (İngiltere)** | everywhere | (boş) | (boş) |
+| **O2 (İngiltere)** | mobile.o2.co.uk | web | web |
+| **Vodafone (İngiltere)** | internet | (boş) | (boş) |
+| **Three (İngiltere)** | three.co.uk | (boş) | (boş) |
+| **Orange (Fransa)** | orange.fr | (boş) | (boş) |
 
-Seyahat ederken cihazlar arasında sık sık geçiş yapıyorsanız, **[eSIM platformlar arası aktarım kılavuzu](/faq/how-to-transfer-esim-between-iphone-and-android/)** numaranızı sorunsuz taşımanıza yardımcı olacaktır.
+> **APN alanı griyse:** Operatörünüz APN ayarlarını kilitlemiştir. Bu, abonelik operatör eSIM'lerinde (Verizon, T‑Mobile, AT&T) yaygındır. Yardım için operatörünüze başvurun – onu elle değiştiremezsiniz.
 
-**S6: İkinci eSIM neden bazen bir iOS güncellemesinden sonra kayboluyor?**  
-Nadir bir hata. `Ayarlar > Hücresel`'e gidin → hat eksikse ancak "Kullanılabilir SIM'ler" altında hala görünüyorsa, dokunun ve yeniden etkinleştirin. Değilse, profili yeniden göndermek için taşıyıcıyla iletişime geçin.
+> **APN doğruysa ama hâlâ veri yoksa:** iPhone'unuzu yeniden başlatın, Uçak Modu'nu değiştirin veya Veri Dolaşımı'nın açık olup olmadığını kontrol edin (Ayarlar > Hücresel > [hat] > Veri Dolaşımı AÇIK).
+
+
+## Çift eSIM Kullanıcıları için Son Profesyonel İpuçları
+
+- Hatlarınızı kurar kurmaz **etiketleyin** – sonsuz karışıklıktan kurtarır.
+- Her hat için **farklı zil sesleri** ayarlayın: `Ayarlar > Sesler ve Dokunuşlar > Zil Sesi` → aşağı kaydırın, hat başına atayabilirsiniz.
+- Varsayılan ses hattını zamana göre değiştirmek için **Shortcuts otomasyonu** kullanın (örn. iş saatleri = iş hattı; akşamları = kişisel).
+- **Cihazınızı satmadan önce**: `Ayarlar > Hücresel` yoluna gidin, **tüm** eSIM'leri silin ve fiziksel SIM'i çıkarın. Sonra tüm içerik ve ayarları silin. eSIM silme ve plan iptal etmenin ayrıntılı rehberi için **[sorun giderme rehberimizdeki Çözüm #15'e](/faq/esim-deep-troubleshooting-guide-2026/#esim-deleted-by-mistake)** bakın.
+
+
+## Sıkça Sorulan Sorular
+
+**S1: Aynı operatörden iki eSIM kullanabilir miyim?**  
+Evet, operatörünüz tek hesapta birden çok eSIM profiline izin verdiği sürece. Örneğin T‑Mobile US aynı iPhone'da iki eSIM'e kadar destekler.
+
+**S2: Her iki hat 5G'yi eşzamanlı destekler mi?**  
+Evet, iPhone 13 ve yenilerinde (iPhone 16 dahil) her iki hat 5G'de olabilir (çift 5G bekleme). Ancak aynı anda yalnızca bir hat 5G veri kullanabilir; diğeri ses yedeği (VoNR) için 5G kullanır.
+
+**S3: İkinci hattım çalışıyor ama ekledikten sonra ilki çalışmayı bıraktı – ne oldu?**  
+Birincil hat ayarlarını yanlışlıkla değiştirmiş olabilirsiniz. `Ayarlar > Hücresel > Varsayılan Ses Hattı` yoluna gidin ve geri ayarlayın.
+
+**S4: Çift eSIM, eSIM + fiziksel SIM'den daha mı çok pil tüketir?**  
+Genel olarak çift eSIM biraz daha az güç tüketir; çünkü fiziksel kart okuyucusu yoktur. Ama fark ihmal edilebilir düzeydedir (%2‑3 içinde).
+
+**S5: Seyahatteyim – veri için yerel eSIM kullanıp aramalar için ana eSIM'imi tutabilir miyim?**  
+Evet, en iyi pratik:  
+- Yerel eSIM'i **Hücresel Veri** hattı yapın.  
+- Ana eSIM'i **Varsayılan Ses Hattı** olarak tutun.  
+- Devasa ücretlerden kaçınmak için ana eSIM'de **Veri Dolaşımı**'nı kapatın.  
+- Ana hattınızın Wi‑Fi Arama ve MMS için yerel eSIM'in verisini kullanabilmesi için **Hücresel Veri Değiştirmeye İzin Ver**'i açın.
+
+Seyahat sırasında cihazlar arasında sık geçiş yapıyorsanız **[eSIM platformlar arası aktarım rehberi](/faq/how-to-transfer-esim-between-iphone-and-android/)** numaranızı sorunsuz taşımanıza yardımcı olur.
+
+**S6: İkinci eSIM neden bir iOS güncellemesinden sonra bazen kayboluyor?**  
+Nadir bir hata. `Ayarlar > Hücresel` yoluna gidin → hat yoksa ama "Kullanılabilir SIM'ler" altında görünüyorsa dokunun ve yeniden etkinleştirin. Değilse profilin yeniden gönderilmesi için operatöre başvurun.
 
 **S7: Apple Watch ile çift SIM kurulumu kullanabilir miyim?**  
-Evet. Apple Watch, iPhone'un hatlarından **birini** yansıtabilir. Kurulum sırasında saatte hangi hattı istediğinizi seçin.
+Evet. Apple Watch, iPhone'un **bir** hattını yansıtabilir. Kurulum sırasında saatte hangi hattı istediğinizi seçin. Saatin her iki hattı eşzamanlı kullanamayacağını unutmayın – yalnızca seçili hattı yansıtır.
 
-**S8: Çift eSIM için resmi Apple belgelerini nerede bulabilirim?**  
-Apple iki önemli kaynak sağlar: [iPhone'da eSIM hakkında](https://support.apple.com/en-us/HT209044) ve [eSIM ile Çift SIM Kullanma](https://support.apple.com/en-us/HT209086). Bunlar temel uyumluluk ve kurulumu kapsar.
+**S8: Çift eSIM için resmi Apple dokümantasyonunu nerede bulabilirim?**  
+Apple iki temel kaynak sunar: [iPhone'da eSIM hakkında](https://support.apple.com/en-us/HT209044) ve [eSIM ile Çift SIM kullanma](https://support.apple.com/en-us/HT209086). Bunlar temel uyumluluk ve kurulumu kapsar.
 
 **S9: Silinen bir eSIM'i nasıl kurtarırım?**  
-Bir eSIM profilini sildiyseniz, kurtarma taşıyıcınıza bağlıdır. Seyahat eSIM'leri (Roami, Airalo, vb.) için silme genellikle kalıcıdır – yeni bir plan satın almanız gerekir. Faturalı taşıyıcı eSIM'leri (Verizon, T‑Mobile, AT&T gibi) için taşıyıcınızla iletişime geçin – genellikle yeni bir QR kodu yeniden düzenleyebilirler. Orijinal aktivasyon e-postanızın ve QR kodunuzun bir yedeğini her zaman saklayın.
+Bir eSIM profilini sildiyseniz, kurtarma operatörünüze bağlıdır. Seyahat eSIM'lerinde (Roami, Airalo vb.) silme genellikle kalıcıdır – yeni bir plan satın almanız gerekir. Abonelik operatör eSIM'lerinde (Verizon, T‑Mobile, AT&T gibi) operatörünüze başvurun – genellikle yeni bir QR kodu verebilirler. Orijinal aktivasyon e-postanızın ve QR kodunuzun bir yedeğini her zaman saklayın.
 
-**S10: eSIM'imde veri yoksa APN ayarlarını nasıl yapılandırırım?**  
-eSIM'iniz sinyal çubukları gösteriyor ancak veri bağlantısı yoksa, APN ayarlarının ayarlanması gerekebilir:
-1. **Ayarlar > Hücresel > Hücresel Veri Ağı**'na gidin.
-2. APN alanlarını doldurun – doğru değerler için eSIM sağlayıcınızın web sitesini kontrol edin.
-3. Yaygın APN değerleri: `roami` (Roami), `airalo` (Airalo), `global` (Nomad).
-4. Kaydedin ve iPhone'unuzu yeniden başlatın.
+**S10: eSIM'imin sinyal çubukları var ama veri bağlantısı neden yok?**  
+Bu neredeyse her zaman bir APN sorunudur. Adım adım yapılandırma için yukarıdaki Çözüm #11'e bakın.
+
+**S11: "eSIM onay kodu" ne demektir ve nerede bulurum?**  
+Bazı eSIM profilleri aktivasyon sırasında bir onay kodu (4‑8 hane) gerektirir. Operatörünüzün e-postasında veya aktivasyon talimatlarında arayın. Bulamazsanız operatörünüze başvurun.
+
+**S12: iPhone'da iki aktif eSIM artı bir fiziksel SIM olabilir mi?**  
+Hayır. iPhone herhangi bir anda en fazla **iki aktif hattı** destekler – ya iki eSIM YA DA bir eSIM + bir fiziksel SIM. Üç aktif hattı eşzamanlı bulunduramazsınız.
+
+**S13: Çift eSIM 5G'm bir hatta çalışmıyor – neyi kontrol etmeliyim?**  
+Önce her iki hat için 5G'nin açık olduğundan emin olun: Ayarlar > Hücresel > [hat] > Ses ve Veri > 5G Otomatik veya 5G Açık seçin. Bir hat hâlâ yalnızca LTE gösteriyorsa operatörünüze sorun – bazı operatörler 5G'yi yalnızca birincil veri hattıyla sınırlar.
+
+**S14: Fiziksel SIM taktım ve eSIM'im kayboldu – nasıl geri alırım?**  
+Bu, operatör kilitli iPhone'larda bilinen bir davranıştır. Fiziksel SIM'i çıkarın, iPhone'unuzu yeniden başlatın; eSIM Ayarlar > Hücresel altında geri gelmelidir. Sonra ikisinin de eşzamanlı çalışabilmesi için cihazın kilidini açması için operatörünüze başvurun.
+
+👉 **Seyahat için çift eSIM mi kuruyorsunuz?** [ABD için eSIM planlarına](/united-states-esim/) veya [Japonya için eSIM'e](/japan-esim/) göz atın — her ikisi de modern iPhone'larda çift eSIM'i destekler.
 
 ---
 
-## 12. Çift eSIM Kullanıcıları için Son İpuçları
+*Apple resmi dokümantasyonu, GSMA standartları ve Eylül 2026 itibarıyla operatör testlerine dayanmaktadır.*
+## Kaynaklar
 
-- **Hatlarınızı hemen etiketleyin** – kurulumdan hemen sonra yapın, sonsuz kafa karışıklığını önler.
-- **Her hat için farklı zil sesleri ayarlayın**: `Ayarlar > Sesler ve Dokunsal Geri Bildirim > Zil Sesi` → aşağı ilerleyin, hat başına atayabilirsiniz.
-- **Kısayollar otomasyonu** kullanarak varsayılan ses hattını zamana göre değiştirin (ör. çalışma saatleri = iş hattı; akşamlar = kişisel).
-- **Cihazınızı satmadan önce**: `Ayarlar > Hücresel`'e gidin, **tüm** eSIM'leri silin ve fiziksel SIM'i çıkarın. Ardından tüm içeriği ve ayarları silin. eSIM'leri silme ve planları iptal etme konusunda ayrıntılı bir anlatım için **[Sorun Giderme Kılavuzumuzdaki #9. Düzeltme'ye](/faq/esim-deep-troubleshooting-guide-2026/#9-after-deleting-esim-carrier-still-charges--cannot-reactivate)** başvurun.
-
-
----
-*Apple resmi belgelerine, GSMA standartlarına ve taşıyıcı testlerine dayanmaktadır. Güncellenme: Haziran 2026.*
+- [GSMA — eSIM (SGP.22) spesifikasyonu](https://www.gsma.com/esim/)
+- [Apple Destek — iPhone'da eSIM kurulumu](https://support.apple.com/en-us/HT212780)
+- [Apple Destek — iPhone'da eSIM hakkında](https://support.apple.com/en-us/HT209044)

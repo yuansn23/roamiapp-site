@@ -1,78 +1,78 @@
 ---
-title: "So aktivieren Sie eine eSIM auf dem iPhone"
-h1_title: "So aktivieren Sie eine eSIM auf dem iPhone"
-description: "Vollständige iOS- und Android-eSIM-Aktivierungsanleitung 2026. Kein Anruf beim Anbieter nötig. Befolgen Sie einfache Anweisungen für QR-Code, Einstellungen-App oder Anbieter-App. Schnell & kostenlos."
-keywords: ["eSIM-Aktivierung", "eSIM aktivieren", "iPhone eSIM Einrichtung", "Android eSIM", "eSIM QR-Code", "Reise-eSIM", "eSIM Fehlerbehebung", "eSIM auf iPhone einrichten", "eSIM installieren iPhone", "eSIM Aktivierung fehlgeschlagen", "eSIM kein Netz"]
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Fehlerbehebung", "Reise-Setup"]
+title: "So aktivieren Sie eSIM auf dem iPhone (2026)"
+h1_title: "So aktivieren Sie eSIM auf dem iPhone in 2026 – Kompletter Schritt-für-Schritt-Guide"
+description: "Kompletter iOS-eSIM-Aktivierungs-Guide 2026. Kein Anruf beim Anbieter nötig. Einfache Anleitungen für QR-Code, Einstellungen-App oder Anbieter-App. Schnell & kostenlos."
+keywords: ["eSIM Aktivierung", "wie aktiviert man eSIM iPhone", "iPhone eSIM einrichten", "eSIM zum iPhone hinzufügen", "eSIM QR-Code iPhone", "Reise-eSIM iPhone", "iPhone eSIM Fehlerbehebung", "eSIM auf neues iPhone übertragen", "eSIM Aktivierung fehlgeschlagen iPhone", "eSIM kein Dienst iPhone", "eSIM hängt bei aktivieren"]
+date: 2026-09-20T00:00:00Z
+lastmod: 2026-09-20T00:00:00Z
+tags: ["eSIM", "iOS", "Troubleshooting", "Travel Setup"]
 toc: true
-image: "/images/esim-activation-guide.jpg"
-
-# 站点 & SEO 基础硬编码配置
+image: "/img/faq/activate-esim-iphone.webp"
+image-1: "/img/faq/activate-esim-iphone-1.jpg"
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Aktualisiert am"
-  min_read: "Min. Lesedauer"
+  min_read: "Min. Lesezeit"
   toc: "Inhaltsverzeichnis"
 
-# 面包屑导航
+# Breadcrumbs
 breadcrumbs:
   home:
     text: "Startseite"
     url: "/"
   parent:
-    text: "Hilfecenter"
+    text: "Hilfe-Center"
     url: "/faq/"
 
-# 右侧：热门 eSIM 配置
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Beliebte eSIMs"
   item_suffix: "eSIM"
   items:
-    - name: "Vereinigte Staaten"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Deutschland"
+    - name: "Deutschland eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europa"
+    - name: "Europa eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Türkei"
+    - name: "Türkei eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japan"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Gratis eSIM sichern"
+  title: "Kostenlose eSIM sichern"
   icon: "🎁"
-  item_suffix: "Gratis eSIM"
+  item_suffix: "Kostenlose eSIM"
   item_subtitle: "Kostenlose eSIM"
   items:
-    - name: "Großbritannien"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Deutschland"
@@ -85,226 +85,256 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置
+# Sidebar: Popular questions
 sidebar_questions:
-  title: "Häufige Fragen"
+  title: "Beliebte Fragen"
   items:
-    - question: "Was ist eine eSIM-Aktivierung und wie funktioniert sie?"
+    - question: "Was ist eSIM-Aktivierung und wie funktioniert sie?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Wie aktiviert man eine eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Wie aktiviere ich eine eSIM auf dem iPhone (Alle Modelle)?"
+    - question: "Wie aktiviert man eSIM auf dem iPhone (alle Modelle)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Aktuelle eSIM-Kompatibilitätsliste"
       url: "/compatibility/"
 ---
 
 
-Die eSIM-Aktivierung ist der Prozess des sicheren Herunterladens eines digitalen Provider-Profils von Ihrem Netzbetreiber direkt auf den integrierten Mikrochip Ihres Telefons über das Internet. Anstatt eine physische Karte einzulegen, scannen Sie einfach einen QR-Code oder nutzen eine Anbieter-App, um sich sofort mit einem Mobilfunknetz zu verbinden.
+> **Hinweis der Redaktion:** Die Aktivierung einer eSIM auf dem iPhone dauert etwa fünf Minuten — QR-Code scannen, durch die Einstellungen tippen, und das Profil lädt herunter. Jeder Schritt hier wurde auf echter Hardware mit iOS 17 und 18 getestet. Folgen Sie den Schritten für Ihre iOS-Version, und Sie sind verbunden, bevor der Flieger startet.
 
-Für eine grundlegende Einführung in die eSIM-Technologie besuchen Sie unseren [Einsteiger-Guide zur eSIM](/faq/what-is-esim-activation-and-how-does-it-work/). Wenn Sie nach der Aktivierung Probleme haben – etwa **eSIM kein Netz** oder die **eSIM Aktivierung fehlgeschlagen** ist – finden Sie in unserem **[eSIM Deep Troubleshooting Guide (16 reale Fälle)](/faq/esim-deep-troubleshooting-guide-2026/)** erweiterte Lösungen.
+**Die Kurze Antwort:** Auf einem iPhone aktivieren Sie eine eSIM über die Einstellungen-App — kein Anruf beim Anbieter, keine physische Karte. Diese Seite geht den iOS-spezifischen Weg ausführlich durch: die exakten Menüs, die Unterschiede zwischen iOS 17 und 18, das Umziehen eines Profils auf ein neues iPhone und die iMessage/FaceTime-Aufräumarbeit, die die meisten Guides auslassen.
 
+Für das Konzept dahinter siehe [Was ist eSIM-Aktivierung?](/faq/what-is-esim-activation-and-how-does-it-work/). Stattdessen auf Android? Nutzen Sie den [allgemeinen Aktivierungs-Guide](/faq/how-to-activate-an-esim/).
 
-## So aktivieren Sie eine eSIM auf Ihrem iPhone: Schritt-für-Schritt-Anleitung
+iPhone 16 im Einsatz? Dafür gibt es einen [eigenen iPhone 16 eSIM-Guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/).
 
-Die Zeiten, in denen man mit winzigen Büroklammern und mikroskopisch kleinen Plastik-SIM-Karten hantieren musste, sind vorbei. Egal, ob Sie zu einem neuen lokalen Anbieter wechseln oder einen Reisedatentarif für Ihren nächsten Auslandsaufenthalt kaufen – die Nutzung einer eSIM ist der bequemste Weg, um verbunden zu bleiben.
+## Ist Ihr iPhone eSIM-bereit?
 
-Falls dies jedoch Ihre erste **iPhone-eSIM-Einrichtung** ist, mag der Prozess anfangs etwas abschreckend wirken. Keine Sorge! In diesem umfassenden Leitfaden zeigen wir Ihnen genau, **wie Sie eine eSIM auf Ihrem iPhone aktivieren** – per QR-Code, manueller Eingabe oder über eine Anbieter-App. Dieser Guide deckt alle kompatiblen Modelle ab, einschließlich der rein eSIM-basierten iPhone 14- und iPhone 15-Serien.
+Ein schneller Check: Wählen Sie `*#06#` — erscheint eine 32-stellige **EID**, hat Ihr iPhone eSIM. Die komplette iPhone-Modellliste (XS bis zur 16/17-Linie, SE 2./3. Generation) und wie viele Profile jedes Modell hält, finden Sie im [iPhone-eSIM-Kompatibilitäts-Hub](/faq/iphone-11-esim-compatible/).
 
-Die technische Grundlage für die eSIM-Technologie wird durch den [GSMA-Standard SGP.22 V3.1](https://www.gsma.com/esim/) definiert – ein internationaler Rahmen, der die Kompatibilität zwischen Geräten und Anbietern weltweit sicherstellt. Die [offizielle Apple Support-Dokumentation](https://support.apple.com/en-us/118670) bietet zusätzliche Details zur eSIM-Aktivierung auf dem iPhone.
+## Bevor Sie mit der eSIM-Aktivierung starten
 
+1. **Entsperrt** — Einstellungen > Allgemein > Info > Carrier-Lock sollte „Keine SIM-Restriktionen" anzeigen. Ein gesperrtes iPhone kann die eSIM eines zweiten Anbieters nicht installieren.
+2. **WLAN** — das Profil lädt vom sicheren Server Ihres Anbieters herunter, also brauchen Sie eine Verbindung (Mobilfunkdaten reichen für den ersten Abruf nicht).
+3. **Code** — iOS fragt nach Ihrem Sperrbildschirm-Code, um die Installation zu autorisieren.
+4. **Der QR-Code** — halten Sie ihn auf einem anderen Gerät offen, oder speichern Sie das Bild in Fotos und nutzen Sie später „Foto auswählen".
 
-## Voraussetzungen: Was Sie vor dem Start benötigen
+## Ihre Hauptleitung vs. eine Reise-eSIM
 
-Bevor wir mit der Einrichtung beginnen, stellen wir sicher, dass Ihr Gerät bereit ist. Prüfen Sie diese drei Punkte für eine reibungslose Installation.
+Bevor Sie die Einstellungen öffnen, benennen Sie, was Sie tatsächlich vorhaben — der Ablauf unterscheidet sich leicht, und zu wissen, welcher Fall vorliegt, verhindert die meiste Verwirrung.
 
-### iPhone-Kompatibilität prüfen
+**Szenario A: Aktivierung Ihrer Hauptleitung (Anbieterwechsel oder neues Telefon).** Das ist eine Anbieterbeziehung. Ihr Anbieter gibt Ihnen entweder einen QR-Code, schiebt die eSIM über seine App (Verizon, T-Mobile, AT&T, Visible und Mint machen das alle) oder nutzt „eSIM Carrier Activation", bei der das Profil automatisch erscheint, sobald Sie sich mit Ihrem Anbieter-Konto anmelden. Prüfen Sie danach, dass sich iMessage und FaceTime auf der neuen Nummer neu registrieren.
 
-Stellen Sie zunächst sicher, dass Ihr iPhone die eSIM-Technologie unterstützt. Apple hat eSIMs mit dem iPhone XS eingeführt. Kompatible Modelle sind:
+**Szenario B: Hinzufügen einer Reise-eSIM (Behalten Ihrer privaten Nummer).** Das ist eine zweite, separate Leitung für Daten im Ausland. Sie lassen Ihre physische SIM oder Heim-eSIM unangetastet, installieren die Reise-eSIM daneben und richten die Mobilfunkdaten auf die Reiseleitung. Die Reise-eSIM ist meist ein reiner Datentarif, also bleiben Anrufe und SMS auf Ihrer privaten Nummer.
 
-- iPhone XS, XS Max und XR
-- iPhone 11, 12, 13, 14, 15, 16 und 17 Serie
-- iPhone SE (2. und 3. Generation)
+Alles unten gilt für beide, aber die Abschnitte „Umwandeln", „Schnellübertragung" und „iMessage neu registrieren" sind Szenario-A-Territorium, während die Dual-Leitungs-Einrichtung Szenario B ist.
 
-Wenn Sie ein iPhone 14 oder iPhone 15 in den USA gekauft haben, ist Ihr Telefon ein reines eSIM-Gerät und besitzt kein physisches SIM-Kartenfach. Eine vollständige Übersicht aller eSIM-fähigen Geräte – von Apple über Samsung bis Google Pixel – finden Sie in unserer **[eSIM-Kompatibilitätsliste](/compatibility/)**.
+## So installieren Sie eine eSIM auf dem iPhone
 
-### Sicherstellen, dass Ihr iPhone ohne SIM-Lock ist
+### QR-Code scannen
 
-Wenn Sie eine Reise-eSIM installieren möchten, muss Ihr Telefon entsperrt sein.
+1. Einstellungen > Mobilfunk (oder Mobile Daten).
+2. Tippen Sie auf **eSIM hinzufügen** (älteres iOS: **Mobilfunktarif hinzufügen**).
+3. Tippen Sie auf **QR-Code verwenden**.
+4. Halten Sie das Telefon etwa 15 cm vom Code entfernt, mit dem anzeigenden Bildschirm auf voller Helligkeit.
+5. Wenn der Tarif erscheint, tippen Sie auf **Fortfahren** und geben Sie bei Aufforderung Ihren Code ein.
 
-1. Gehen Sie zu **Einstellungen** > **Allgemein** > **Info**.
-2. Scrollen Sie nach unten zu **Provider-Sperre** (oder Netzbetreibersperre).
-3. Wenn dort **"Keine SIM-Einschränkungen"** steht, ist Ihr iPhone entsperrt und bereit für eine neue eSIM!
+Wenn sich der Code nach ein paar Versuchen nicht scannen lässt, wählen Sie unten auf dem Kamerabildschirm **Daten manuell eingeben**.
 
-### Verbindung mit einem stabilen WLAN-Netzwerk
+### Manuelle Eingabe
 
-Sie **müssen** über eine stabile Internetverbindung verfügen (WLAN wird dringend empfohlen), um das eSIM-Profil auf Ihr Telefon herunterzuladen. Dies kann nicht offline erfolgen.
+Gehen Sie zu Einstellungen > Mobilfunk > eSIM hinzufügen > QR-Code verwenden > **Daten manuell eingeben** und tippen Sie dann die SM-DP+-Adresse und den Aktivierungscode aus der E-Mail Ihres Anbieters ein. Das ist die zuverlässige Rückfallebene, wenn der Code beschädigt ist oder auf genau dem Telefon liegt, das Sie gerade aktivieren.
 
+### Anbieter-App
 
-## eSIM auf dem iPhone aktivieren – die 3 Hauptmethoden
+Anbieter wie Roami, Airalo und Holafly installieren mit einem Tipp aus ihrer App — öffnen Sie Ihren Tarif und tippen Sie auf **Installieren** oder **Aktivieren**, dann erlauben Sie die Nachfrage. Schnellster Weg, ganz ohne Kamera.
 
-Je nach Anbieter gibt es drei primäre Wege, um eine **eSIM auf einem iPhone zu aktivieren**.
+## Physische SIM auf dem iPhone in eine eSIM umwandeln
 
-### Methode A: QR-Code scannen (Am häufigsten)
+Wenn Ihr Anbieter es unterstützt, kann iOS Ihre physische SIM direkt auf dem Telefon in eine eSIM umwandeln — kein Gang in den Laden, keine neue SIM-Karte, kein QR-Code. Das ist der sauberste Weg, den physischen SIM-Slot freizumachen (etwa für eine lokale SIM im Ausland) oder vor dem Verkauf des Telefons komplett digital zu werden.
 
-Dies ist die Standardmethode für die meisten Reise-eSIMs – etwa für eine [USA eSIM](/united-states-esim/), [Europa-eSIM](/europe-esim/) oder [Türkei eSIM](/turkey-esim/). Ihr Anbieter sendet Ihnen den QR-Code normalerweise nach dem Kauf per E-Mail zu.
+1. Einstellungen > Mobilfunk.
+2. Tippen Sie auf die Leitung, die aktuell auf Ihrer physischen SIM liegt.
+3. Tippen Sie auf **In eSIM umwandeln** (bei manchen Anbietern: **Physische SIM in eSIM umwandeln**).
+4. Tippen Sie auf **Mobilfunktarif umwandeln**, dann auf **In eSIM umwandeln**.
+5. Warten Sie auf die Umwandlung — meist unter einer Minute — und entfernen Sie die physische SIM-Karte, wenn iOS Sie dazu auffordert.
 
-1. Gehen Sie zu **Einstellungen** > **Mobilfunk**.
-2. Tippen Sie auf **eSIM hinzufügen** (oder Mobilfunktarif hinzufügen).
-3. Wählen Sie **QR-Code verwenden**.
-4. Richten Sie Ihre Kamera auf den QR-Code, um ihn zu scannen.
-5. Tippen Sie auf **Fortfahren**, wenn Sie die Meldung "Ein Mobilfunktarif kann hinzugefügt werden" sehen.
-6. Folgen Sie den Anweisungen auf dem Bildschirm, um den Tarif zu benennen (z. B. "Reise" oder "Europa").
+Ein paar Haken, die man kennen sollte. **Die Anbieterunterstützung variiert** — die großen drei (AT&T, Verizon, T-Mobile) unterstützen es, aber viele MVNOs und Prepaid-Anbieter zeigen die Option nicht an. **Ihr iPhone muss im Netz dieses Anbieters sein**, um umzuwandeln (es verifiziert die Leitung während der Umwandlung). **Sie können keine ausländische oder Reise-SIM umwandeln** — diese Funktion wandelt nur die SIM des Anbieters um, mit dem Ihr Telefon gerade verbunden ist. Und nach der Umwandlung ist die physische Karte tot — wegwerfen, nicht an jemand anderen weitergeben.
 
-### Methode B: Manuelle Eingabe (Wenn der Scan nicht funktioniert)
+Sehen Sie „In eSIM umwandeln" nicht? Ihr Anbieter hat es nicht aktiviert. Digital gehen geht weiterhin auf die klassische Art: Bitten Sie ihn um einen eSIM-QR-Code und folgen Sie der Standard-Installation oben.
 
-Was tun, wenn Sie die eSIM direkt auf Ihrem Telefon gekauft haben und den QR-Code nicht von Ihrem eigenen Bildschirm scannen können? Sie können die Daten manuell eingeben – das ist besonders nützlich, wenn der **eSIM QR-Code** beschädigt ist oder die Kamera nicht funktioniert.
+## iOS 17 vs. iOS 18: eSIM-Änderungen
 
-1. Gehen Sie zu **Einstellungen** > **Mobilfunk** > **eSIM hinzufügen** > **QR-Code verwenden**.
-2. Tippen Sie unten am Kamerabildschirm auf **Details manuell eingeben**.
-3. Geben Sie die **SM-DP+ Adresse** und den **Aktivierungscode** ein (diese finden Sie in Ihrer Bestätigungs-E-Mail).
-4. Tippen Sie auf **Weiter** und folgen Sie den Anweisungen, um die Installation abzuschließen.
+| Funktion | iOS 17 | iOS 18 |
+|---|---|---|
+| eSIM-Hinzufügen-Pfad | Einstellungen > Mobilfunk > eSIM hinzufügen | Derselbe Pfad |
+| Schaltflächenbezeichnung | „Mobilfunktarif hinzufügen" auf manchen Geräten | Durchgängig „eSIM hinzufügen" |
+| Manuelle Eingabe | Unten auf dem Scan-Bildschirm | Prominenter, neu gestaltet |
+| Schnellübertragung | Verfügbar seit iOS 16 | Zuverlässiger, besserer Fortschrittsanzeiger |
+| Anbieter-Updates | Manche brauchen einen Neustart | Updates im Hintergrund |
 
-### Methode C: Direkte Installation über die Anbieter-App
+Wenn Sie „Mobilfunktarif hinzufügen" sehen, ist es dieselbe Funktion wie „eSIM hinzufügen".
 
-Viele moderne eSIM-Anbieter bieten eine App an, mit der Sie die eSIM mit einem einzigen Klick installieren können – dies ist die einfachste Methode, um eine **eSIM auf Ihrem iPhone einzurichten**.
+## iOS-Versionsgeschichte für eSIM
 
-1. Laden Sie die App Ihres Anbieters aus dem App Store herunter.
-2. Melden Sie sich an und suchen Sie Ihren gekauften eSIM-Tarif.
-3. Tippen Sie auf die Schaltfläche **eSIM installieren / aktivieren**.
-4. Erlauben Sie der App, den Mobilfunktarif zu Ihren iPhone-Einstellungen hinzuzufügen.
+Die Bezeichnungen haben sich stärker verschoben, als viele denken. Hier der komplette Bogen, damit auch ein dreijähriges Tutorial auf Ihrem zweijährigen Telefon noch Sinn ergibt.
 
-Für detaillierte Schritt-für-Schritt-Anleitungen für jedes iPhone-Modell besuchen Sie unseren **[iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** – die Grundlagen gelten analog für alle kompatiblen Modelle.
+| iOS-Version | Menübezeichnung | Was sich für eSIM änderte |
+|---|---|---|
+| iOS 15 | „Mobilfunktarif hinzufügen" | eSIM verfügbar auf XS/XR und neuer; Dual-SIM ist auf den meisten Modellen eine eSIM + eine physische |
+| iOS 16 | „Mobilfunktarif hinzufügen" | **Schnellübertragung** (eSIM von einem iPhone in der Nähe verschieben) kommt; eSIM-Umwandlung für ausgewählte Anbieter |
+| iOS 17 | „eSIM hinzufügen" / „Mobilfunktarif hinzufügen" (gemischt) | eSIM-Umwandlung auf mehr Anbieter ausgeweitet; duale *aktive* eSIM auf iPhone 13 und neuer |
+| iOS 18 | Durchgängig „eSIM hinzufügen" | Neu gestalteter Hinzufügen-Bildschirm, Anbieter-Updates im Hintergrund, klarere Dual-eSIM-Ansicht |
 
+Die Kurzfassung: Alles ab iOS 16 kann Schnellübertragung, iOS 17 standardisierte die duale eSIM, und iOS 18 ist größtenteils ein Feinschliff bei Bezeichnungen und Zuverlässigkeit.
 
-## eSIM auf Android-Geräten aktivieren – Samsung, Pixel & Co.
+## iMessage und FaceTime nach der eSIM-Installation neu registrieren
 
-Die eSIM-Aktivierung funktioniert nicht nur auf dem iPhone, sondern auch auf den meisten aktuellen Android-Geräten. Hier die Schritt-für-Schritt-Anleitung für die **Android eSIM**-Aktivierung:
+Die meisten Guides enden bei „Mobilfunk-Einrichtung abgeschlossen", aber es gibt eine iOS-Besonderheit, die man behandeln sollte: Wenn Sie Ihre Standard-Sprachleitung gewechselt haben, sind iMessage und FaceTime möglicherweise noch an die alte Leitung gebunden — oder zeigen „Warten auf Aktivierung".
 
-### Samsung Galaxy (OneUI)
+1. Einstellungen > Nachrichten > Senden & Empfangen und bestätigen Sie, dass Ihre Nummer ausgewählt ist.
+2. Einstellungen > FaceTime und bestätigen Sie, dass die richtige Nummer oder Apple ID aktiv ist.
+3. Wenn eines von beiden „Warten auf Aktivierung" zeigt, schalten Sie iMessage bei verbundener WLAN-Verbindung aus und wieder ein.
 
-1. Gehen Sie zu **Einstellungen** > **Verbindungen** > **SIM-Kartenverwaltung**.
-2. Tippen Sie auf **eSIM hinzufügen** oder **Mobiler Tarif**.
-3. Wählen Sie **QR-Code scannen** oder **Aktivierungscode eingeben**.
-4. Scannen Sie den QR-Code oder geben Sie die SM-DP+ Adresse und den Aktivierungscode ein.
-5. Folgen Sie den Anweisungen, um die Installation abzuschließen.
+Das ist wichtig bei Dual-Leitungs-Setups, bei denen die Reise-eSIM nur Daten überträgt und Sie das Messaging auf Ihrer privaten Nummer behalten wollen.
 
-### Google Pixel (Stock Android)
+## So übertragen Sie eine eSIM auf ein neues iPhone
 
-1. Gehen Sie zu **Einstellungen** > **Netzwerk & Internet** > **SIMs**.
-2. Tippen Sie auf das **"+"**-Symbol oder **eSIM herunterladen**.
-3. Wählen Sie **QR-Code scannen** oder **Aktivierungscode eingeben**.
-4. Scannen Sie den QR-Code oder geben Sie die Daten manuell ein.
-5. Folgen Sie den Anweisungen auf dem Bildschirm.
+Richten Sie ein neues iPhone in der Nähe Ihres alten ein, wählen Sie **„eSIM vom iPhone in der Nähe übertragen"** und halten Sie beide Geräte nahe beieinander, mit eingeschaltetem Bluetooth und WLAN. Das Profil wandert kabellos in ein bis zwei Minuten.
 
-Die [offizielle Google Support-Dokumentation](https://support.google.com/pixel/answer/9912709) bietet weitere Details zur eSIM-Aktivierung auf Pixel-Geräten.
+Wenn die Nachfrage nicht erscheint, gehen Sie auf dem neuen Telefon zu Einstellungen > Mobilfunk > eSIM hinzufügen > **Vom iPhone in der Nähe übertragen**. Läuft das Profil auf, zeigt aber „Kein Dienst", löschen Sie es zuerst vom alten iPhone — manche Anbieter verlangen, dass das alte Profil freigegeben wird.
 
-Für spezifische Geräte wie das [Samsung S20](/faq/samsung-s20-esim-compatible/), [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) oder [Moto G Power](/faq/moto-g-power-esim-compatible/) finden Sie in unseren detaillierten Kompatibilitäts-Guides weitere Informationen.
+Für den Umzug einer eSIM zu Android, Neuausstellung durch den Anbieter oder ein bereits verkauftes oder zurückgesetztes Telefon siehe den [eSIM-Transfer-Guide](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
+## Grenzfälle der Schnellübertragung
 
-## eSIM-Einstellungen für Reisen richtig konfigurieren
+Die Schnellübertragung ist großartig, wenn beide iPhones im Raum sind. Wenn nicht, passiert Folgendes.
 
-Die Installation der eSIM ist nur die halbe Miete. Wenn Sie im Ausland unterwegs sind, müssen Sie Ihre Einstellungen korrekt konfigurieren, um **teure Roaming-Gebühren** auf Ihrer primären Heim-SIM zu vermeiden.
+- **Sie haben das alte iPhone verkauft, verloren oder zurückgesetzt.** Die Schnellübertragung fällt flach — sie braucht das Quellgerät eingeschaltet und entsperrt. Kontaktieren Sie stattdessen Ihren Anbieter und bitten Sie um eine Neuausstellung der eSIM (meist kostenlos, dauert Minuten), dann installieren Sie den frischen QR auf dem neuen Telefon. Detaillierte Schritte zur Neuausstellung finden Sie im [Transfer-Guide](/faq/how-to-transfer-esim-between-iphone-and-android/).
+- **„Vom iPhone in der Nähe übertragen" fehlt.** Es erscheint nur auf Geräten mit iOS 16 oder neuer. Auf einem älteren iPhone, oder wenn die Quelle außer Reichweite ist, greifen Sie auf eine Anbieter-QR-Neuausstellung zurück.
+- **Die Übertragung bleibt mittendrin hängen.** Legen Sie beide Telefone in dasselbe WLAN, halten Sie sie wenige Zentimeter auseinander und deaktivieren Sie den Energiesparmodus auf beiden. Bluetooth muss eingeschaltet bleiben — die Schnellübertragung koppelt über Bluetooth, bevor sie über WLAN übergibt.
+- **Sie kommen von Android.** Die Schnellübertragung funktioniert nur von iPhone zu iPhone. Android-zu-iPhone-Übertragungen laufen über Ihren Anbieter, nicht über die Einstellungen-App.
+- **Die eSIM ist umgezogen, aber eine physische SIM nicht.** Die Schnellübertragung verschiebt nur *eSIM*-Profile — eine physische SIM-Karte muss weiterhin physisch getauscht werden (es sei denn, Sie wandeln sie vorher in eine eSIM um, siehe oben).
 
-### Standardleitung für Sprache & SMS festlegen
+## Reise-eSIM hinzufügen und Ihre private Nummer behalten
 
-Während der Einrichtung werden Sie gefragt, welche Leitung standardmäßig genutzt werden soll.
+Das ist das häufigste Setup in der Praxis: Ihre Heimleitung bleibt genau, wo sie ist, und eine Reise-eSIM reist für die Daten mit. Machen Sie es in dieser Reihenfolge.
 
-- **Standardleitung:** Wählen Sie Ihre primäre (Heim-)SIM, wenn Sie weiterhin iMessages und Anrufe unter Ihrer regulären Nummer empfangen möchten.
-- **iMessage & FaceTime:** Wählen Sie Ihre primäre SIM.
+1. **Heimleitung unangetastet lassen.** Ob physische SIM oder eSIM — lassen Sie sie, wo sie ist. Nicht löschen, nicht umwandeln.
+2. **Reise-eSIM installieren** per QR, manueller Eingabe oder der Anbieter-App (Roami, Airalo, Holafly).
+3. **Leitungen beschriften.** Einstellungen > Mobilfunk, auf jede Leitung tippen und über „Mobilfunktarif-Bezeichnung" umbenennen — „Zuhause" und „Roami-Reise" — damit Sie sie später auseinanderhalten können.
+4. **Mobilfunkdaten auf die Reise-eSIM stellen.** Einstellungen > Mobilfunk > Mobilfunkdaten und die Reiseleitung wählen.
+5. **Standard-Sprachleitung auf Ihre private Nummer stellen.** So bleiben Anrufe, iMessage und FaceTime auf Ihrer regulären Nummer.
+6. **Roaming für die Reise-eSIM EIN, für Zuhause AUS.** Die Reiseleitung braucht Roaming, um Partnernetze zu erreichen; die Heimleitung nicht, und es ausgelassen zu verhindert versehentliche Tagesgebühren.
+7. **„Mobilfunkdatenwechsel erlauben" AUS lassen.** Bei eingeschalteter Option könnte ein kurzer Signaleinbruch die Daten auf Ihre Heimleitung umschalten und eine Roaminggebühr auslösen.
 
-### Mobiles Datennetz einrichten & Roaming-Kosten vermeiden
+Jetzt haben Sie eine Datenleitung von Ihrer Reise-eSIM und eine Nummer, unter der jeder Sie weiterhin erreicht — kein SIM-Tausch, kein zweites Telefon.
 
-Dies ist der wichtigste Schritt für Reisende – egal ob Sie eine **Reise-eSIM** für die **Türkei**, die **USA** oder **Europa** nutzen:
+## Ihre beiden Leitungen für die Reise konfigurieren
 
-1. Gehen Sie zu **Einstellungen** > **Mobilfunk** > **Mobile Daten**.
-2. Wählen Sie Ihre neue **Reise-eSIM** für mobile Daten aus.
-3. **Schalten Sie "Wechseln mobiler Daten erlauben" AUS**. Dies stellt sicher, dass Ihr Telefon nicht heimlich für Daten auf Ihre Heim-SIM zurückgreift.
-4. Gehen Sie zurück zum Mobilfunkmenü, tippen Sie auf Ihre primäre (Heim-)SIM und stellen Sie sicher, dass **Datenroaming AUSgeschaltet** ist.
-5. Tippen Sie auf Ihre Reise-eSIM und stellen Sie sicher, dass **Datenroaming EINgeschaltet** ist (die meisten Reise-eSIMs benötigen Roaming, um sich mit lokalen Netzwerken zu verbinden).
+- **Standard-Sprachleitung:** behalten Sie Ihre Heim-SIM, damit Anrufe und iMessages auf Ihrer regulären Nummer bleiben.
+- **Mobilfunkdaten:** richten Sie diese auf die Reise-eSIM.
+- **Mobilfunkdatenwechsel erlauben:** AUS lassen. Bei eingeschalteter Option könnte ein kurzer Signaleinbruch die Daten auf Ihre Heimleitung umschalten und eine tägliche Roaminggebühr auslösen.
+- **Roaming:** AUS auf der Heim-SIM, EIN für die Reise-eSIM (Reise-eSIMs brauchen es, um Partnernetze zu erreichen).
 
+Wenn die Signalbalken angezeigt werden, aber Seiten nicht laden, ist es meist ein APN-Problem — die vollständige APN-Tabelle finden Sie im [detaillierten Troubleshooting-Guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
-## APN-Einstellungen manuell konfigurieren
+## „eSIM hinzufügen" ausgegraut oder „Mobilfunktarif hinzufügen" fehlt
 
-Falls nach der Aktivierung kein Datennetz verfügbar ist – also **eSIM kein Netz** angezeigt wird – müssen oft die APN-Einstellungen manuell angepasst werden.
+Wenn die Option ausgegraut ist oder schlicht fehlt, blockiert etwas vorgelagertes. Hier die Ursachen, die häufigsten zuerst.
 
-**iPhone:** `Einstellungen > Mobilfunk > Mobilfunkdaten-Netzwerk` → APN-Felder ausfüllen
+| Ursache | Woran Sie es erkennen | Lösung |
+|---|---|---|
+| Carrier-locked-iPhone | Einstellungen > Allgemein > Info > Carrier-Lock zeigt nicht „Keine SIM-Restriktionen" | Über Ihren Anbieter entsperren oder die eigene eSIM des gesperrten Anbieters nutzen |
+| Anbieter bietet keine eSIM an | Ihr Anbieter stellt nur physische SIMs aus | Anbieter wechseln oder eine Reise-eSIM für Daten nutzen |
+| eSIM-Slots bereits voll | iPhone 13+ hält zwei aktive eSIMs; XS–12 halten eine | Eine bestehende Leitung ausschalten oder entfernen, um einen Slot freizumachen |
+| MDM / Firmenprofil | Ein Arbeitsgerät mit installiertem Verwaltungsprofil | Die `AllowESIMModification`-Einschränkung blockiert Änderungen — IT kontaktieren |
+| China-/Hongkong-Modell | Modellnummer endet auf dem China-spezifischen Suffix, keine eSIM-Hardware | eSIM ist auf Festlandchina-iPhones nicht verfügbar |
+| Software-Fehler | Ein kürzliches iOS-Update hat das Menü veraltet zurückgelassen | Neustart, dann erneut prüfen |
 
-**Android:** `Einstellungen > Verbindungen > Mobilfunknetze > APN`
+Die mit Abstand häufigste Ursache ist ein Carrier-Lock — er macht die Mehrheit der „Warum kann ich keine eSIM hinzufügen"-Tickets aus. Die zweite ist der Versuch, eine dritte Leitung auf einem Telefon hinzuzufügen, das nur zwei aktive erlaubt.
 
-| Netz | APN | Benutzername | Passwort |
-|------|-----|--------------|----------|
-| Telekom (DE) | internet.telekom | (leer) | (leer) |
-| Vodafone (DE) | web.vodafone.de | (leer) | (leer) |
-| O2 (DE) | internet | (leer) | (leer) |
-| T-Mobile (US) | fast.t-mobile.com | (leer) | (leer) |
-| AT&T (US) | nxgen | (leer) | (leer) |
-| Verizon (US) | vzwinternet | (leer) | (leer) |
+## Und was ist mit Apple Watch und iPad?
 
-Die genauen APN-Daten erhalten Sie auch im Kundenportal Ihres eSIM-Anbieters oder durch eine Suche nach „[Anbietername] APN Einstellungen [Land]“.
+Eine Apple Watch spiegelt eine der Leitungen Ihres iPhones — sie kann keine Reise-eSIM eigenständig nutzen — und Mobilfunk-iPads nutzen ihren eigenen Pfad über Einstellungen > Mobilfunkdaten. Alle Details finden Sie im [iPad & Apple Watch eSIM-Guide](/faq/ipad-apple-watch-esim-support-guide/).
 
-Das [Airalo Hilfe-Center](https://help.airalo.com) und die [Holafly FAQ](https://holafly.com/faq/) bieten detaillierte Anleitungen zur APN-Konfiguration für ihre jeweiligen Tarife.
+## Mehrere eSIMs auf Ihrem iPhone verwalten
 
+Sobald zwei oder drei Profile installiert sind, hält ein wenig Ordnung sie davon ab, zu einem unübersichtlichen Haufen zu werden.
 
-## iOS 18+ Spezialfunktion: eSIM-Schnellübertragung
+- **Jede Leitung beschriften.** Einstellungen > Mobilfunk > eine Leitung > Mobilfunktarif-Bezeichnung. „Zuhause", „Roami-Reise" und „Spanien eSIM" schlagen die Standardnamen („Primär", „Sekundär", „Reise").
+- **Leitungen ein- oder ausschalten.** Einstellungen > Mobilfunk > eine Leitung > Diese Leitung aktivieren. Aus bedeutet, dass sie nicht mehr versucht, sich zu registrieren — praktisch für eine ruhende Reise-eSIM, die Sie bei der nächsten Reise wieder nutzen wollen.
+- **Datenleitung sofort wechseln.** Einstellungen > Mobilfunk > Mobilfunkdaten lässt Sie Daten ohne Neustart zwischen den Leitungen verschieben.
+- **Das Limit aktiver Leitungen im Blick behalten.** iPhone 13 und neuer erlauben zwei aktive Leitungen gleichzeitig; ein drittes Profil kann *gespeichert*, aber nicht aktiv sein, bis Sie eines ausschalten.
+- **Löschen, wenn fertig.** Entfernen Sie nach einer Reise die abgelaufene Reise-eSIM (Einstellungen > Mobilfunk > die Leitung > eSIM löschen), damit sie die Liste nicht verstopft — aber erst, wenn der Tarif abgelaufen ist, denn QR-Codes sind Einmalnutzung.
 
-Wenn Sie auf ein neues iPhone upgraden, hat Apple die Übertragung Ihrer eSIM extrem vereinfacht. Ab iOS 18 können Sie die **eSIM-Schnellübertragung** via Bluetooth nutzen – die Funktion wurde in iOS 19 und iOS 20 weiter verbessert.
+## eSIM, iCloud-Backups und das Löschen Ihres iPhones
 
-Legen Sie einfach Ihr altes iPhone neben das neue, gehen Sie auf dem neuen Gerät zu **Einstellungen > Mobilfunk > eSIM hinzufügen** und wählen Sie **Von iPhone in der Nähe übertragen**. Folgen Sie den Anweisungen, und Ihre Nummer zieht nahtlos um, ohne dass ein neuer QR-Code benötigt wird.
+Eines lernen die meisten Leute auf die harte Tour: **eSIMs sind nicht Teil Ihres iCloud-Backups.** Eine Wiederherstellung aus dem Backup bringt Ihre Apps, Einstellungen und Fotos zurück — aber nicht Ihre Mobilfunkprofile. Die Profile leben auf dem eUICC-Chip des Telefons, und nur drei Dinge bewegen sie: Schnellübertragung, eine Neuausstellung durch den Anbieter oder ein erneutes Herunterladen bei Ihrem Anbieter.
 
-Für die plattformübergreifende Übertragung zwischen iPhone und Android finden Sie detaillierte Anleitungen in unserem **[eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
+Praktische Konsequenzen:
 
+- **„Alle Inhalte und Einstellungen löschen" entfernt Ihre eSIMs.** Bevor Sie löschen (zum Verkauf, Inzahlungnahme oder zur Problembeseitigung), wissen Sie: Sie müssen jede eSIM danach neu herunterladen — und Reise-eSIMs mit Einmal-QR-Codes brauchen eventuell einen komplett neuen Tarif.
+- **Eine normale iCloud-Wiederherstellung löscht oder stellt eSIMs nicht wieder her.** Die Wiederherstellung auf dem *gleichen* Telefon lässt Ihre eSIMs unangetastet; die Wiederherstellung auf einem *neuen* Telefon erfordert weiterhin Schnellübertragung oder eine Anbieter-Neuausstellung für die Leitungen.
+- **Das Backup rettet keine verlorene eSIM.** Wenn Sie das Telefon löschen oder es zerbricht, ist das Profil weg, bis der Anbieter es neu ausstellt. Speichern Sie die manuellen Eingabedaten Ihres Anbieters (SM-DP+-Adresse + Aktivierungscode) getrennt vom Telefon.
 
-## Fehlerbehebung bei gängigen eSIM-Aktivierungsfehlern
+## Häufige iPhone-eSIM-Fehler
 
-Haben Sie Probleme bei der **eSIM Aktivierung**? Hier sind die häufigsten Fehler und deren Lösungen:
+Die häufigsten Ausfälle — „Mobilfunktarif kann nicht hinzugefügt werden", hängende „Aktivierung", „Kein Dienst" nach der Installation — werden Fehler für Fehler mit APN-Werten im [eSIM-Detailed-Troubleshooting-Guide](/faq/esim-deep-troubleshooting-guide-2026/) behandelt. Die mit Abstand häufigste Ursache ist ein carrier-locked-Telefon; die zweite ist ausgelassenes Roaming auf der Reise-eSIM.
 
-| Fehler / Symptom | Mögliche Ursache | Lösung |
-|------------------|------------------|--------|
-| **"Mobilfunktarif kann nicht hinzugefügt werden"** | iPhone ist gesperrt oder QR-Code bereits verwendet | Prüfen Sie die Provider-Sperre. Bei entsperrtem Gerät: neuen QR-Code anfordern |
-| **Hängt bei "Aktivieren..."** | Netzwerk-Handshake dauert länger | 10–15 Minuten warten; bei Stillstand: iPhone neu starten oder Flugmodus an/aus |
-| **Kein Netz nach der Aktivierung** | Daten-Roaming deaktiviert oder falsche APN | Daten-Roaming für die eSIM einschalten; APN-Einstellungen prüfen |
-| **"QR-Code ungültig"** | QR-Code abgelaufen oder falsch | Neuen QR-Code beim Anbieter anfordern |
-| **eSIM nach Update verschwunden** | Systemupdate hat Profil zurückgesetzt | eSIM über Original-QR-Code oder App erneut aktivieren |
-| **"Profil abgelaufen"** | QR-Code hat Ablaufdatum (30–90 Tage) | Neuen QR-Code beim Anbieter anfordern |
+## Häufig gestellte Fragen
 
-Wenn Sie weitere Probleme haben – etwa wenn die **eSIM auf dem iPhone nicht aktiviert** werden kann – finden Sie in unserem **[eSIM Deep Troubleshooting Guide (16 reale Fälle)](/faq/esim-deep-troubleshooting-guide-2026/)** erweiterte Lösungen.
-
-
-## Häufig gestellte Fragen (FAQs)
-
-**Wie viele eSIMs kann ich auf meinem iPhone haben?**
-Sie können 8 oder mehr eSIM-Profile speichern. Je nach Modell (ab iPhone 13) können jedoch nur zwei eSIMs gleichzeitig aktiv sein (Dual eSIM). Bei Problemen mit zwei aktiven eSIMs hilft unser **[Dual-eSIM Guide](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
-
-**Kann ich meine physische SIM und die eSIM gleichzeitig nutzen?**
-Ja! iPhones unterstützen die Dual-SIM-Funktionalität. Sie können Ihre physische Heim-SIM für Anrufe und SMS aktiv lassen, während Sie eine Reise-eSIM für Daten nutzen.
+**Wie viele eSIMs kann ich auf meinem iPhone speichern?**
+Acht oder mehr Profile, aber nur zwei können gleichzeitig aktiv sein (iPhone 13 und neuer). Ältere Modelle (XS–12) halten eine aktive eSIM plus eine physische SIM.
 
 **Kann ich meine eSIM nach der Reise löschen?**
-Ja. Sobald Ihre Reise beendet und der Tarif abgelaufen ist, können Sie unter Einstellungen > Mobilfunk die eSIM auswählen und **eSIM löschen** wählen.
+Ja — Einstellungen > Mobilfunk > die eSIM > eSIM löschen, sobald der Tarif abgelaufen ist. Löschen Sie niemals mitten auf der Reise: QR-Codes sind Einmalnutzung, also bräuchten Sie einen neuen Tarif.
 
-> **WARNUNG:** Löschen Sie Ihre eSIM NIEMALS, solange Sie noch auf Reisen sind oder wenn Sie vorübergehend die Verbindung verlieren. Die meisten eSIM-QR-Codes können nur einmal gescannt werden. Wenn Sie sie löschen, verlieren Sie den Tarif und müssen einen neuen kaufen!
+**Verbraucht eine eSIM den Akku meines iPhones?**
+Nicht nennenswert. Zwei aktive Leitungen in einem Gebiet mit schwachem Signal können ein bis zwei Prozent pro Tag hinzufügen, aber eine eSIM allein zieht etwa so viel wie eine physische SIM.
 
-**Unterscheidet sich die eSIM-Aktivierung auf dem iPhone SE von anderen iPhones?**
-Nein – das [iPhone SE](/faq/iphone-se-esim-compatible/) (2. und 3. Generation) verwendet denselben Aktivierungsprozess wie andere eSIM-fähige iPhones.
+**Brauche ich Roaming für eine Reise-eSIM auf dem iPhone?**
+Ja — es ist erforderlich, damit sich die eSIM in Partnernetzen registriert, und es verursacht keine Roaminggebühren. Das zu vergessen ist die Ursache Nr. 1 für „Kein Dienst".
 
-**Kann ich eine eSIM auf einem carrier-gesperrten iPhone aktivieren?**
-Nein – carrier-gesperrte Geräte (SIM-Lock) können nur eSIM-Profile des ursprünglichen Anbieters aktivieren. Prüfen Sie vor dem Kauf einer Reise-eSIM die Provider-Sperre.
+**Kann ich eine physische SIM und eine eSIM zusammen auf dem iPhone nutzen?**
+Ja — Dual-SIM funktioniert ab Werk. (US-iPhone 14 und neuer sind eSIM-only, dort kombinieren Sie stattdessen zwei eSIMs.) Wie Dual-SIM funktioniert, erfahren Sie im [iPhone-Kompatibilitäts-Hub](/faq/iphone-11-esim-compatible/).
 
-**Was ist der Unterschied zwischen einer eSIM und einer physischen SIM?**
-Eine eSIM ist ein digitales Profil, das auf einem Chip im Gerät gespeichert ist – keine physische Karte nötig. Die Vorteile der eSIM liegen in der Flexibilität: Sie können Tarife in Sekunden wechseln und mehrere Profile auf einem Gerät speichern. Mehr dazu in unserem [Einsteiger-Guide zur eSIM](/faq/what-is-esim-activation-and-how-does-it-work/).
+**Was ist der Unterschied zwischen eSIM und einer physischen SIM?**
+Die Kurzfassung: Eine eSIM ist ein digitales Profil, das Sie nicht entfernen können, und sie wechselt den Anbieter sofort. Den vollständigen Vergleich finden Sie unter [Was ist eSIM?](/faq/what-is-esim/).
 
+**Kann ich meine physische SIM auf dem iPhone in eine eSIM umwandeln?**
+Wenn Ihr Anbieter es unterstützt: ja — Einstellungen > Mobilfunk > Ihre Leitung > In eSIM umwandeln. Die großen drei US-Anbieter unterstützen es; viele MVNOs nicht. Ihr Telefon muss im Netz dieses Anbieters sein, um umzuwandeln.
+
+**Warum ist „eSIM hinzufügen" auf meinem iPhone ausgegraut?**
+Meist ein Carrier-Lock, ein voller eSIM-Slot oder ein MDM-Firmenprofil, das Änderungen blockiert. Prüfen Sie zuerst Einstellungen > Allgemein > Info > Carrier-Lock — wenn dort nicht „Keine SIM-Restriktionen" steht, ist das Ihre Antwort.
+
+**Was passiert mit meiner eSIM, wenn ich mein iPhone lösche?**
+„Alle Inhalte und Einstellungen löschen" entfernt eSIM-Profile. Sie müssen sie danach bei Ihrem Anbieter neu herunterladen. Reise-eSIMs mit Einmal-QR-Codes brauchen eventuell einen neuen Tarif, also löschen Sie nur, wenn Sie bereit sind, alles neu einzurichten.
+
+**Funktioniert die Schnellübertragung, wenn ich mein altes iPhone nicht mehr habe?**
+Nein — sie braucht beide Telefone anwesend und eingeschaltet. Wenn Ihr altes iPhone verkauft, verloren oder zurückgesetzt ist, bitten Sie Ihren Anbieter um eine Neuausstellung der eSIM. Siehe den [Transfer-Guide](/faq/how-to-transfer-esim-between-iphone-and-android/).
+
+**Kann ich meine Reise-eSIM auf dem iPhone zwischen Reisen pausieren?**
+Die Gültigkeitsuhr des Tarifs können Sie nicht pausieren, aber Sie können die Leitung AUS schalten (Einstellungen > Mobilfunk > die Leitung > Diese Leitung aktivieren), damit sie sich nicht mehr registriert und keinen Akku verbraucht. Sie bleibt gespeichert und bereit, bei der nächsten Reise wieder eingeschaltet zu werden — solange das Gültigkeitsfenster des Tarifs nicht abgelaufen ist.
+
+---
 
 ## Bereit für Ihr nächstes Abenteuer?
 
-Zu wissen, **wie man eine eSIM auf dem iPhone nutzt**, eröffnet eine Welt der unkomplizierten Konnektivität. Kein Warten mehr an Flughafen-Kiosken oder horrende Roaming-Gebühren.
+👉 **Zuerst kostenlos testen** — holen Sie sich eine [kostenlose eSIM](/free-esim/) und durchlaufen Sie diese Anleitung von Anfang bis Ende.
 
-**Die drei wichtigsten Punkte für eine erfolgreiche Aktivierung:**
+Dann wählen Sie Ihr Reiseziel:
 
-1. Prüfen Sie vor der Aktivierung, ob Ihr Gerät SIM-Lock-frei ist und eine stabile WLAN-Verbindung besteht.
-2. Wählen Sie die richtige Aktivierungsmethode – QR-Code, manuelle Eingabe oder App – je nach Anbieter und Gerät.
-3. Bei Problemen hilft ein Neustart, das Zurücksetzen der Netzwerkeinstellungen oder die manuelle APN-Konfiguration.
+- [eSIM für die USA](/united-states-esim/)
+- [eSIM für Japan](/japan-esim/)
+- [eSIM für Europa](/europe-esim/)
+- [eSIM für das UK](/united-kingdom-esim/)
 
-Bereit für Ihren nächsten Trip? Durchstöbern Sie unsere globalen eSIM-Tarife und bleiben Sie überall auf der Welt verbunden – mit sofortiger Lieferung und einfacher Einrichtung!
+*Basierend auf offizieller Apple-Dokumentation, GSMA-Standards und Anbietertests. Aktualisiert: September 2026.*
 
----
-*Basierend auf Apple Support-Dokumenten, GSMA-Standards und Anbieterinformationen Stand Juni 2026. Die eSIM-Kompatibilität kann je nach Region und Anbieter variieren.*
+## Quellen
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Use Dual SIM with an eSIM](https://support.apple.com/en-us/HT209086)

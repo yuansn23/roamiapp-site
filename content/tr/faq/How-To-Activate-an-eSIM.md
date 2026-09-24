@@ -1,28 +1,28 @@
 ---
-title: "eSIM Aktif Olmuyor? iOS ve Android Rehberin"
-h1_title: "iOS ve Android'de eSIM Etkinleştirme Hataları Nasıl Düzeltilir"
-description: "eSIM kurulumunda takıldınız mı? QR kodlarını nasıl tarayacağınızı, ayrıntıları manuel olarak nasıl gireceğinizi ve iPhone ve Android'de 'Etkinleştirme Başarısız' hatalarını nasıl düzelteceğinizi öğrenin. 2 dakikada bağlanın."
-keywords: ["eSIM etkinleştirme", "eSIM nasıl etkinleştirilir", "iPhone'da eSIM etkinleştirme", "iPhone eSIM kurulumu", "Android eSIM", "eSIM QR kodu", "seyahat eSIM'i", "eSIM sorun giderme", "eSIM nasıl etkinleştirilir", "esim etkinleştirme başarısız", "iPhone'a eSIM ekleme", "eSIM etkinleşmiyor", "iPhone eSIM kurulumu", "Android'de eSIM etkinleştirme", "eSIM yüklemesi", "QR kod eSIM", "SM-DP+ adresi", "eSIM manuel giriş", "iPad eSIM etkinleştirme", "Apple Watch eSIM kurulumu", "eSIM'i yeni telefona aktarma", "çift SIM eSIM kurulumu"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
+title: "iOS ve Android'de eSIM Nasıl Etkinleştirilir"
+h1_title: "iOS ve Android'de eSIM Nasıl Etkinleştirilir (Adım Adım)"
+description: "iPhone ve Android'de eSIM etkinleştirmek için adım adım rehber: QR kodu, elle giriş veya operatör uygulaması, ayrıca etkinleştirme hataları için çözümler."
+keywords: ["eSIM etkinleştirme", "eSIM nasıl etkinleştirilir", "iPhone eSIM etkinleştirme", "Android eSIM", "eSIM QR kodu", "eSIM elle giriş", "eSIM sorun giderme", "seyahat eSIM", "iPhone eSIM kurulumu", "iPhone'a eSIM ekleme"]
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Sorun Giderme", "Seyahat Kurulumu"]
 toc: true
-image: "/images/esim-activation-guide.jpg"
-
-# Site & SEO Temel Sabit Yapılandırması
+image: "/img/faq/how-to-activate-esim.webp"
+image-1: "/img/faq/how-to-activate-esim-1.jpg"
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI Metin Çevirileri / Sabit Yapılandırma (Çoklu Dil Desteği)
+# UI text translations
 ui_text:
-  updated_on: "Güncellenme Tarihi"
+  updated_on: "Güncellenme tarihi"
   min_read: "dk okuma"
   toc: "İçindekiler"
 
 breadcrumbs:
   home:
-    text: "Ana Sayfa"
+    text: "Anasayfa"
     url: "/"
   parent:
     text: "Yardım Merkezi"
@@ -33,45 +33,45 @@ sidebar_popular:
   title: "Popüler eSIM'ler"
   item_suffix: "eSIM"
   items:
-    - name: "ABD eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Almanya eSIM"
+    - name: "Germany eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Avrupa eSIM"
+    - name: "Europe eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Türkiye eSIM"
+    - name: "Turkey eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japonya eSIM"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Çin eSIM"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Sağ Taraf: Ücretsiz eSIM Yapılandırması (4 ülke)
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Ücretsiz eSIM Alın"
+  title: "Ücretsiz eSIM Talep Et"
   icon: "🎁"
   item_suffix: "Ücretsiz eSIM"
   item_subtitle: "Ücretsiz eSIM"
   items:
-    - name: "Birleşik Krallık eSIM"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Almanya"
@@ -84,300 +84,280 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sağ Taraf: Popüler Sorular Yapılandırması (5 soru)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popüler Sorular"
   items:
     - question: "eSIM etkinleştirme nedir ve nasıl çalışır?"
-      url: "faq/what-is-esim-activation-and-how-does-it-work/"
+      url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "eSIM nasıl etkinleştirilir?"
-      url: "/faq/how-to-activate-an-esim//"
-    - question: "iPhone'da (Tüm Modeller) eSIM nasıl etkinleştirilir?"
+      url: "/faq/how-to-activate-an-esim/"
+    - question: "iPhone'da eSIM nasıl etkinleştirilir (Tüm Modeller)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "En Güncel eSIM Uyumluluk Listesi"
+    - question: "Güncel eSIM Uyumluluk Listesi"
       url: "/compatibility/"
 ---
 
 
-**Kısa ve Öz Özet:** esim nasıl alınır diye merak ediyorsanız, bir eSIM'i etkinleştirmek için operatör kilidi açılmış bir telefona, istikrarlı bir Wi-Fi bağlantısına ve sağlayıcınızdan bir eSIM QR koduna veya operatörünüzün esim uygulaması üzerinden gönderilen profile ihtiyacınız vardır. Telefonunuzun hücresel ayarlarına gidin, "eSIM Ekle" veya "Veri Planı Ekle" seçeneğini seçin, QR kodunu tarayın ve dijital profilin indirilip yüklenmesi için 1-2 dakika bekleyin. **esim etkinleştirme başarısız** hatalarıyla karşılaşırsanız, bu kılavuz her çözümü kapsar.
+> **Editör Notu:** Bir eSIM'i etkinleştirmek yaklaşık beş dakika sürer — bir QR kodu tarar veya bir SM-DP+ adresi girer ve profilin inmesini beklersiniz. Aşağıdaki adımlar, destek ekibimizin kullandığı tam adımlardır ve iOS 17/18 ile Android 13/14/15 üzerinde test edilmiştir. Telefonunuza uygun yolu izleyin ve kalkıştan önce çevrimiçi olun.
 
-eSIM teknolojisine genel bir giriş için [eSIM Nedir? kılavuzumuza](/faq/what-is-esim/) bakın. Bu kılavuzu takip ettikten sonra hala sorun yaşıyorsanız, [eSIM Derin Sorun Giderme Kılavuzumuz (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/) gelişmiş senaryoları kapsar.
+**Özetle:** Bir eSIM'i etkinleştirmek, telefonunuza dijital bir operatör profili indirmek anlamına gelir. Hangi markaya sahip olursanız olun, formül aynıdır: kilidi açılmış bir telefon, kararlı bir Wi-Fi bağlantısı ve sağlayıcınızdan gelen bir QR kodu (veya elle giriş ayrıntıları). Hücresel ayarlarınızı açın, "eSIM Ekle"ye dokunun, tarayın veya yazın ve yaklaşık iki dakika bekleyin.
 
+İlk kez deniyorsanız, [eSIM nedir?](/faq/what-is-esim/) rehberimiz teknolojiyi açıklar; [eSIM etkinleştirme nedir?](/faq/what-is-esim-activation-and-how-does-it-work/) ise tarama yaptığınızda perde arkasında gerçekte ne olduğunu açıklar.
 
-## eSIM Etkinleştirmeye Başlamadan Önce Kritik Kontroller
+> **iPhone mu kullanıyorsunuz?** Bu sayfa her iki platformu da kapsar, ancak iOS anlatımı daha derindir. iOS sürüm farklılıkları, Hızlı Aktarım ve iMessage/FaceTime yeniden kaydı için [iPhone'da eSIM Nasıl Etkinleştirilir](/faq/how-to-activate-esim-on-iphone/) makalesini okuyun. iPhone 16 kullanıyor ve "Etkinleştirilemiyor" görüyor musunuz? [iPhone 16 eSIM rehberine](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/) bakın.
 
-QR kodunuzu taramadan önce bu dört gereksinimi doğrulayın. Bunu yapmamak, **iPhone'da eSIM etkinleştirme** veya Android'de **esim etkinleştirme başarısız** hatalarının 1 numaralı nedenidir.
+## Telefonunuz gerçekten eSIM destekliyor mu?
 
-1. **Telefonunuz Operatör Kilidi Açık Olmalıdır:** Telefonunuzu bir operatör sözleşmesiyle (AT&T veya Verizon gibi) satın aldıysanız, ağlarına kilitlenmiş olabilir.
-   - *iPhone kontrolü:* **Ayarlar > Genel > Hakkında**'ya gidin. **Operatör Kilidi** kısmına aşağı kaydırın. **SIM kısıtlaması yok** yazmalıdır. [Apple Destek – iPhone'da eSIM](https://support.apple.com/en-us/118670) sayfası resmi uyumluluk listesini sağlar.
-   - *Android kontrolü:* **Ayarlar > Bağlantılar > Mobil Ağlar > Ağ operatörleri**'ne gidin. Tarama sırasında yalnızca bir ağ görünüyorsa, telefonunuz hala kilitli olabilir.
-   - Kilitliyse, kilidi açmak için operatörünüzle iletişime geçin. ABD operatörleri, cihazların ödemesi tamamlandıktan sonra kilidini açmakla yasal olarak yükümlüdür. Kilit açma işlemi genellikle 1-3 iş günü sürer.
+10 saniyelik bir kontrol: `*#06#` çevirin ve 32 haneli bir **EID** arayın. Varsa hazırsınız. Cihaz bazında tam liste — her Android markası ve eski iPhone'lar — için [tam eSIM uyumluluk listesine](/compatibility/) bakın.
 
-2. **İstikrarlı Bir Wi-Fi Bağlantısına İhtiyacınız Var:** eSIM dijital bir indirmedir. Telefonun, operatörün güvenli SM-DP+ sunucusuyla iletişim kurmak için bir internet bağlantısına ihtiyacı olduğundan, normal hücresel verinizi kullanarak etkinleştiremezsiniz. Halka açık Wi-Fi'den kaçının — indirme aşaması sırasında bağlantının kopması **eSIM yüklemesini** bozabilir.
+## eSIM Etkinleştirme Uçuş Öncesi Kontrol Listesi
 
-3. **Kamera Uygulamanızı Kullanmayın:** QR kodunu her zaman telefonunuzun **Ayarlar menüsü** aracılığıyla tarayın, standart kamera uygulamasıyla değil. Kamera uygulaması bir eSIM profili yükleyemez. Bu, **eSIM nasıl etkinleştirilir** öğrenirken yapılan en yaygın başlangıç hatalarından biridir.
+Etkinleştirme hatalarının çoğu, hiçbir şey taramadan önce önlenebilir. Önce şu altı kontrolü yapın.
 
-4. **Telefonunuzun eSIM'i Desteklediğini Doğrulayın:** XS/XR ve sonrası çoğu iPhone, Samsung Galaxy S20 ve daha yenileri (küresel modeller) ve Google Pixel 3 ve daha yenileri eSIM'i destekler. Emin değil misiniz? `*#06#` tuşlayın — 32 haneli bir EID numarası görünüyorsa, telefonunuz eSIM'e hazırdır. Tam bir liste için [tam eSIM uyumlu cihazlar listesine](/compatibility/) bakın. Çin pazarı iPhone'lar (Hong Kong/Makao hariç) eSIM'i desteklemez.
+| Kontrol | Geçme koşulu |
+|---|---|
+| Telefon kilitsiz | iPhone: Ayarlar > Genel > Hakkında > Operatör Kilidi "No SIM restrictions" diyor |
+| Wi-Fi kararlı | Ev veya ofis Wi-Fi'sine bağlı, havaalanı veya otel değil |
+| Şifre biliniyor | Kilit ekranı şifrenizi istendiğinde yazabiliyorsunuz |
+| QR erişilebilir | E-posta dizüstü bilgisayarda, tablette veya yazılı sayfada açık |
+| Ekran parlak | QR'ı gösteren cihaz %100 parlaklıkta |
+| EID mevcut | `*#06#` bir EID döndürüyor |
 
-Cihazınız EID göstermiyorsa, eSIM donanımından yoksundur. Bunun yerine fiziksel bir SIM kullanmanız gerekir.
+Bunlardan herhangi birini atlarsanız büyük olasılıkla sorun giderme kuyruğuna düşersiniz. En yaygın üç başarısızlık nedeni, sırasıyla: operatör kilitli bir telefon, indirme sırasında zayıf Wi-Fi ve Ayarlar yerine Kamera uygulamasıyla taramak.
 
+### Taramadan önce yapmaya değer hazırlık adımları
 
-## iPhone'da (iOS) eSIM Nasıl Etkinleştirilir
+Yukarıdaki tablo *kontroller* ile ilgiliydi. Bu liste *eylemler* ile ilgili — "eSIM Ekle"ye dokunmadan önce yapmaya değer şeyler, böylece kurulum ortasında koşturmak zorunda kalmazsınız.
 
-Apple, son iOS güncellemelerinde **iPhone eSIM kurulumu** sürecini kolaylaştırdı. esim nasıl alınır ve aktive edilir öğrenmek, eSIM profilinizi yüklemek ve **iPhone'a eSIM ekleme** işleminizi tamamlamak için şu adımları izleyin.
+1. **QR kodunu Fotoğraflar'a kaydedin.** Ekran görüntüsünü alın veya görüntüyü indirin; böylece kameranızı başka bir ekrana tutmak yerine "Fotoğraf Seç"i kullanabilirsiniz. Kod bir e-postadaysa bu, orada dururken gelen kutunuzu tekrar açmayacağınız anlamına da gelir.
+2. **SM-DP+ adresinin ve etkinleştirme kodunun ekran görüntüsünü alın.** Bu iki dizi, çevrimdışı yedek yolunuzdur. Kaydedildiklerinde, bozuk bir QR kodu sizi durduramaz.
+3. **Sağlayıcının uygulamasını indirin ve oturum açın.** Roami, Airalo ve Holafly, uygulamalarının içinden tek dokunuşla kurulum sunar — ama yalnızca iyi Wi-Fi'dan ayrılmadan önce oturum açtıysanız.
+4. **Telefonu %50'nin üzerine şarj edin.** Profil indirmesi küçüktür, ancak kurulum ortasında ölen bir telefon, yarım yazılmış bir profil bırakabilir; sonra onu kaldırıp yeniden eklemeniz gerekir.
+5. **Kilit ekranı şifrenizi bilin.** iOS ve Android, kurulumu yetkilendirmek için ikisini de ister. Uzun süredir Face ID veya parmak izi kullanıyorsanız, hatırladığınızdan emin olmak için önce bir kez şifreyi yazın.
+6. **Telefonun kilitsiz olduğunu doğrulayın.** iPhone'da: Ayarlar > Genel > Hakkında > Operatör Kilidi. Android'de: operatörünüze sorun veya başka bir ağdan bir arkadaşınızın SIM'ini test edin.
+7. **Havaalanı Wi-Fi'sinde değil, ev Wi-Fi'sinde kurulum yapın.** Kurulumu seyahatten haftalar önce yapabilirsiniz; plan, telefonunuz varış noktasındaki bir ağa bağlanana kadar etkin kalmaz.
+8. **Hangi hattın ne yapacağına karar verin.** Ev SIM'inizi tutacaksanız şimdi planlayın: seyahat eSIM veriyi, ev SIM arama ve mesajları halleder. Bunu aşağıda ele alıyoruz.
 
-1. **Adım 1:** **Ayarlar > Hücresel** (veya bölgenize bağlı olarak **Mobil Veri**) bölümüne gidin.
-2. **Adım 2:** **eSIM Ekle**'ye (veya eski iOS sürümlerinde **Veri Planı Ekle**) dokunun. Bu seçenek griyse, iPhone'unuz operatör kilitli olabilir.
-3. **Adım 3:** Ekranın alt kısmındaki **QR Kodu Kullan**'a dokunun.
-4. **Adım 4:** **eSIM QR kodunu** kamera çerçevesine yerleştirin. Telefonu yaklaşık 15 cm mesafede sabit tutun. QR kodunun iyi aydınlatıldığından ve onu görüntüleyen ekranın (QR kodu başka bir ekranda gösteriliyorsa) tam parlaklıkta olduğundan emin olun.
-5. **Adım 5:** Tanındıktan sonra **Devam**'a dokunun ve "Hücresel Kurulum Tamamlandı" mesajını bekleyin. **eSIM profili indirme** işlemi genellikle 30-60 saniye sürer.
+## iPhone'da eSIM Nasıl Etkinleştirilir
 
-Kodu tarayamazsanız (örneğin, QR kodu kullandığınız telefonda ise), tarama ekranının altındaki **Ayrıntıları Manuel Gir**'e dokunun. Operatörünüzün e-postasında sağlanan **SM-DP+ Adresini** ve **Etkinleştirme Kodunu** yapıştırın. Bu **eSIM manuel giriş** yöntemi QR kodunu tamamen atlar ve **eSIM QR kodu** taraması başarısız olduğunda güvenilir bir yedektir — kamera işbirliği yapmadığında **eSIM nasıl etkinleştirilir** için en yaygın geri dönüş yoludur.
+XS'ten beri her iPhone tek bir yolu izler. **Ayarlar > Hücresel** bölümüne gidin, **eSIM Ekle**'ye (veya **Hücresel Plan Ekle**'ye) dokunun, **QR Kodu Kullan**'ı seçin ve telefonu koddan yaklaşık 15 cm uzakta sabit tutun. "Hücresel Kurulum Tamamlandı" göründüğünde işiniz bitti — indirme genellikle 30–60 saniye sürer.
 
-**Kurulumdan sonra şu kritik ayarları yapılandırın:**
-- eSIM'i açıkça etiketleyin (örneğin, "Seyahat", "İş", "ABD Seyahati")
-- Ses/SMS için varsayılan hattınızı ayarlayın (genellikle birincil SIM'inizi varsayılan olarak saklayın)
-- Seyahat eSIM'ini **Hücresel Veri** hattı olarak ayarlayın
-- Yanlışlıkla dolaşım ücretlerini önlemek için **Hücresel Veri Geçişine İzin Ver** seçeneğini KAPATIN
-- Hedefinize varana kadar eSIM'de Veri Dolaşımı'nı KAPALI tutun, ardından AÇIN
+Kameranız yok mu? **Ayrıntıları Elle Girin**'e dokunun ve SM-DP+ adresini ve etkinleştirme kodunu sağlayıcınızın e-postasından yapıştırın.
 
-> 💡 **Seyahat İpucu:** **Seyahat eSIM'inizi** hala güvenilir Wi-Fi'niz varken evde yükleyebilirsiniz. eSIM profili, hedefinize varana ve o hat için Veri Dolaşımı'nı açana kadar telefonunuzda etkin olmayan olarak bekler. Bu şekilde, uçaktan iner inmez bağlanmış olursunuz.
-
+iOS 18'in yeniden tasarlanan akışı, iPhone'lar arasında Hızlı Aktarım ve hat değiştirdikten sonra iMessage/FaceTime yeniden kaydı için [iPhone'da eSIM Nasıl Etkinleştirilir](/faq/how-to-activate-esim-on-iphone/) makalesine bakın.
 
 ## Android'de eSIM Nasıl Etkinleştirilir
 
-Android menüleri, cihaz üreticinize bağlı olarak biraz değişir. İşte en popüler iki Android markası için kesin yollar ve **Android'de eSIM etkinleştirme** için genel talimatlar.
+Menü etiketi markaya göre değişir, ancak her Android eSIM yolu "ayarları aç, eSIM Ekle'yi bul, tara veya yaz"dır.
 
-### Samsung Galaxy Cihazları İçin:
+| Marka | "eSIM Ekle" yolu |
+|---|---|
+| Samsung Galaxy (One UI 5–7) | Ayarlar > Bağlantılar > SIM yöneticisi > eSIM Ekle |
+| Google Pixel (Android 13–15) | Ayarlar > Ağ ve internet > SIM'ler yanındaki + > Bunun yerine SIM indirilsin mi? |
+| OnePlus (OxygenOS 13–14) | Ayarlar > Wi-Fi ve Ağ > SIM ve Ağ > eSIM Ekle |
+| Xiaomi (MIUI/HyperOS) | Ayarlar > SIM Kartlar ve Mobil Ağlar > eSIM Ekle |
+| Motorola | Ayarlar > Ağ ve İnternet > Mobil Ağ > Operatör Ekle |
+| Diğer markalar | Ayarlar'da "eSIM" araması yapın |
 
-1. **Adım 1:** **Ayarlar > Bağlantılar** bölümüne gidin.
-2. **Adım 2:** **SIM Yöneticisi**'ne dokunun.
-3. **Adım 3:** **eSIM Ekle**'yi seçin (ayrıca "Mobil plan ekle" olarak da görünebilir).
-4. **Adım 4:** **Servis sağlayıcıdan QR kodunu tara**'ya dokunun.
-5. **Adım 5:** **eSIM QR kodunu** kamera çerçevesine yerleştirin. Tarandıktan sonra istendiğinde **Ekle**'ye dokunun.
-6. **Adım 6:** İndirmeyi tamamlamak için ekrandaki yönergeleri izleyin. eSIM'inizi etiketleyin ve veri ve aramalar için tercihlerinizi belirleyin.
+Seçenek yoksa modeliniz büyük olasılıkla eSIM donanımına sahip değildir — [cihaz uyumluluk listesiyle](/compatibility/) doğrulayın.
 
-### Google Pixel Cihazları İçin:
+### Android'de elle giriş
 
-1. **Adım 1:** **Ayarlar > Ağ ve internet** bölümüne gidin.
-2. **Adım 2:** **SIM'ler** yanındaki **+ (artı simgesi)**'ne dokunun.
-3. **Adım 3:** Ekranın altındaki **Bunun yerine SIM indir?** seçeneğine dokunun.
-4. **Adım 4:** **İleri**'ye dokunun ve istendiğinde QR kodunuzu tarayın.
-5. **Adım 5:** **eSIM profili indirme** işleminin tamamlanmasını bekleyin. Tamamlandığında, hangi SIM'in veri ve aramaları yönettiğini yapılandırmak için **Mobil ağ** ayarlarına gidin.
+QR taranmadığında, eSIM Ekle ekranında "Etkinleştirme kodunu elle gir" veya "Yardıma mı ihtiyacınız var?" seçeneğini arayın, sonra SM-DP+ adresini ve etkinleştirme kodunu yazın. Bu, her Android eSIM telefonunda çalışır ve en güvenilir yedek yoldur.
 
-[Google Destek – Pixel'de eSIM](https://support.google.com/pixel/answer/9912709) sayfası Pixel kullanıcıları için ek ayrıntılar sağlar. Samsung kullanıcıları için [Samsung Destek – eSIM](https://www.samsung.com/us/support/) sayfası modele özel rehberlik sunar.
+### Android menü yolları, marka marka
 
-### Diğer Android Cihazlar İçin (OnePlus, Xiaomi, Motorola, vb.):
+Yukarıdaki tablo sizi oraya götürür; bu da altındaki ayrıntıdır. Her marka aynı özelliği biraz farklı adlandırır ve yol, yazılım sürümleri arasında biraz değişir.
 
-Çoğu Android cihaz için genel yol:
-- **Ayarlar > Ağ ve İnternet > Mobil Ağ > Gelişmiş > Operatör > Operatör Ekle**
-- Veya: **Ayarlar > SIM kartlar ve mobil ağlar > eSIM Ekle**
+| Marka ve yazılım | Tam yol | Not |
+|---|---|---|
+| Samsung (One UI 7) | Ayarlar > Bağlantılar > SIM yöneticisi > **eSIM Ekle** | One UI 6.0, "SIM kart yöneticisi"ni "SIM yöneticisi"ne taşıdı; eski One UI 5.x hâlâ "SIM kart yöneticisi" diyor. |
+| Samsung (One UI 5) | Ayarlar > Bağlantılar > **SIM kart yöneticisi** > Mobil plan ekle | Etiket "eSIM Ekle" yerine "Mobil plan ekle" olarak değişir. |
+| Google Pixel (Android 15) | Ayarlar > Ağ ve internet > **SIM'ler** > SIM Ekle > Bunun yerine SIM indirilsin mi? > İleri | Pixel en tutarlı markadır — yol Android 12'den beri neredeyse hiç değişmedi. |
+| Google Pixel (Android 12) | Ayarlar > Ağ ve internet > Mobil ağ > **eSIM Ekle** | Eski Pixel'ler, SIM'ler ekranı gelmeden önce daha basit "eSIM Ekle" etiketini kullanıyordu. |
+| Xiaomi / Redmi / POCO (HyperOS) | Ayarlar > **SIM kartlar ve mobil ağlar** > eSIM > eSIM Ekle | eSIM yalnızca belirli küresel modellerde var (Xiaomi 13/13T, 14/14T, 15); çoğu Redmi/POCO eSIM donanımını içermez. |
+| OnePlus (OxygenOS 14) | Ayarlar > Mobil ağ > **SIM ve ağ** > eSIM Ekle | OxygenOS 13 onu "Wi-Fi ve ağ" altına saklamıştı; 14, "Mobil ağ" olarak düzenledi. |
+| Motorola | Ayarlar > Ağ ve İnternet > Mobil ağ > **Operatör Ekle** | Yalnızca seçili modeller (razr ve bazı Edge cihazları) eSIM içerir; birçok Moto G modeli içermez. |
+| Honor / Oppo / Vivo / Realme | Ayarlar'da "eSIM" araması yapın | Destek yamalı ve modele özeldir — var olduğunu varsaymadan önce [eSIM uyumluluk listesini](/compatibility/) kontrol edin. |
 
-eSIM seçeneğini bulamazsanız, Ayarlar arama çubuğunda "eSIM" araması yapın. Hiçbir sonuç çıkmazsa, telefon modeliniz eSIM'i desteklemiyor olabilir. Her zaman cihazınızın özelliklerini kontrol edin veya doğrulamak için `*#06#` tuşlayın.
+Bunlardan hiçbirini görmüyorsanız, Ayarlar arama çubuğunda "eSIM" araması yapın. Hiçbir şey çıkmıyorsa, telefon neredeyse kesin olarak eSIM donanımına sahip değildir — model bazında tam ayrıntı [Android eSIM markalar rehberinde](/faq/android-esim-other-brands-deep-guide/) ve [tam cihaz listesinde](/compatibility/).
 
-[GSMA](https://www.gsma.com/esim/), eSIM etkinleştirmesinin tüm bu farklı Android markalarında çalışmasını sağlayan teknik standartları sağlar.
+## SM-DP+ adresi ve etkinleştirme kodu nerede bulunur
 
+Elle giriş, onay e-postanızda veya sağlayıcı uygulamanızda bulunan iki dizi gerektirir.
 
-## Operatör Uygulamasıyla eSIM Etkinleştirme – QR Koduna Bir Alternatif
+| Sağlayıcı | Nereye bakılmalı |
+|---|---|
+| Roami | Onay e-postası — "Manuel kurulum ayrıntıları" / "SM-DP+ Adresi" |
+| Airalo | Uygulama: plan > Ayrıntılar > Manuel kurulum |
+| Holafly | Onay e-postası — "Manuel kurulum" |
+| Nomad | Uygulama: eSIM ayrıntıları > Manuel kurulum |
+| Google Fi | Elle giriş desteklenmiyor — Fi uygulamasını kullanın |
+| US Mobile | Uygulama: Hesap > eSIM > Manuel etkinleştirme kodu |
+| T-Mobile (US) | Onay e-postası veya T-Mobile uygulaması |
 
-Birçok seyahat eSIM sağlayıcısı (Roami, Airalo veya Holafly gibi) ve büyük yerel operatörler, uygulama içi etkinleştirme sunar. Bu, QR kodunu tamamen atlar ve genellikle **eSIM etkinleştirmeyi** tamamlamanın en hızlı yoludur.
+Uçmadan önce bunların ekran görüntüsünü alın — inerken Wi-Fi yoksa araştıramazsınız.
 
-1. Sağlayıcınızın resmi uygulamasını App Store veya Google Play Store'dan indirin.
-2. Hesabınıza giriş yapın ve satın aldığınız planı "eSIM'lerim" veya "Planlarım" altında bulun.
-3. **Etkinleştir** veya **eSIM Yükle** düğmesine dokunun.
-4. Telefonunuz, uygulamanın bir hücresel plan yüklemesine izin vermenizi isteyecektir. **İzin Ver** veya **Devam**'a dokunun.
-5. Uygulama, profili yüklemek için telefonunuzun ayarlarıyla otomatik olarak iletişim kurar — QR taramaya gerek yoktur.
+## Her büyük sağlayıcı eSIM'inizi nasıl iletir
 
-Bu yöntem, **eSIM QR kodunu** etkinleştirdiğiniz telefonun aynısında aldığınızda önerilir, çünkü "kendi ekranınızı tarayamama" ikilemini tamamen ortadan kaldırır.
+"Etkinleştir", planı size kimin sattığına göre biraz farklı anlamlar taşır. En yaygın beş seyahat eSIM sağlayıcısından ne bekleyeceğinizi burada bulabilirsiniz; böylece gelen kutunuzda ne olduğunu ve nasıl kuracağınızı tam olarak bilirsiniz.
 
+| Sağlayıcı | Kurulum yöntemi | E-postada ne gelir | Tipik teslim süresi |
+|---|---|---|---|
+| Roami | Uygulamadan tek dokunuş **veya** QR kodu / elle giriş | QR kodu artı bir "manuel kurulum" bloğu (SM-DP+ adresi + etkinleştirme kodu) | Anında — genellikle 2 dakikadan kısa |
+| Airalo | Uygulamadan tek dokunuş **veya** uygulama içinden QR | Sipariş makbuzu + kurulum talimatları; QR'nin kendisi uygulamada eSIM'lerim > Ayrıntılar altındadır | Anında (QR, plan ekranında oluşturulur) |
+| Holafly | Uygulamadan tek dokunuş **veya** e-postada QR | QR kodu artı sınırsız veri planı ayrıntılarınız | Anında; birçok plan, ortak bir ağa bağlandığınız anda otomatik etkinleşir |
+| Nomad | Uygulamadan tek dokunuş **veya** QR / elle giriş | QR kodu + etkinleştirme kodu | Anında; bazı planlar geçerlilik saatini yalnızca ilk kullanımda başlatır |
+| Saily | Yalnızca uygulama kurulumu (Saily uygulaması) | Makbuz + Saily uygulamasını açacak bir bağlantı | Anında — profil QR ile değil, uygulama üzerinden gönderilir |
 
-## eSIM Etkinleştirmenizin Başarılı Olduğunu Nasıl Doğrulayabilirsiniz
+Örüntü: beşi de QR'yi veya profili neredeyse anında iletir ve en hızlı kurulum her zaman sağlayıcının kendi uygulamasıdır. Aralarındaki fark, QR'nin *nerede* yaşadığı (e-posta mı uygulama mı) ve planın saatinin *ne zaman* başladığıdır (kurulumda mı ilk bağlantıda mı). Kararsızsanız, Roami'nin e-postası hem QR'yi hem de elle giriş dizilerini içerir; bu, ilk kez kuranlar için en bağışlayıcı kurulumdur.
 
-Yukarıdaki adımları tamamladıktan sonra, yeni eSIM'inizin kullanıma hazır olduğunu şu şekilde doğrulayabilirsiniz:
+## Operatör uygulaması üzerinden etkinleştirme
 
-- **Durum Çubuğunu Kontrol Edin:** Ekranınızın sağ üst köşesine bakın. Hem fiziksel SIM'iniz hem de eSIM'iniz açıksa, iki ayrı hücresel sinyal çubuğu kümesi görmelisiniz. iPhone'da, birincil hat üstte, ikincil hat ise biraz altta gösterilir.
-- **Ayarlar Menüsünü Kontrol Edin:** Hücresel/Ağ ayarlarınıza gidin. Her iki hattın da listelendiğini görmelisiniz ve yeni eklediğiniz eSIM'in durumu **"Açık"** veya **"Aktif"** yazmalıdır. "Servis Yok" yazıyorsa, o eSIM hattı için Veri Dolaşımı'nın AÇIK olduğundan emin olun.
-- **Gerçek Dünya Testi:** Wi-Fi'nizi kapatın, birincil Hücresel Verinizi yeni eSIM hattına geçirin ve bir web sayfası yüklemeyi veya bir uygulama açmayı deneyin. Sorunsuz bağlanıyorsa, **eSIM etkinleştirmeniz** %100 başarılıdır!
-- **Ağ Adını Kontrol Edin:** eSIM, "Aranıyor" veya "Servis Yok" yerine bağlı olduğu yerel ağın adını göstermelidir (örneğin, "T-Mobile", "EE", "SoftBank").
+Roami, Airalo ve Holafly gibi sağlayıcılar QR'yi tamamen atlamanıza izin verir. Uygulamayı indirin, satın aldığınız planı açın, **Kur** veya **Etkinleştir**'e dokunun ve telefonun hücresel planı eklemesine izin verin. iPhone ve Android'de aynıdır ve uygulama kendi ekranını taramak zorunda olmadığından, ilk kez kuranlar için en temiz yoldur.
 
+## Hangi eSIM Etkinleştirme Yöntemini Kullanmalısınız?
 
-## iPad ve Apple Watch eSIM Etkinleştirmesi – Cihaza Özel Kurulum
+Girebileceğiniz üç yol var ve her durumda birbirinin yerine kullanılamazlar. Bağlama göre seçin.
 
-eSIM yalnızca iPhone'lar için değildir. İşte diğer Apple cihazlarında **iPad eSIM etkinleştirmesi** ve **Apple Watch eSIM kurulumu** için nasıl yapılacağı.
+| Yöntem | En iyi olduğu durum | Dikkat edin |
+|---|---|---|
+| Operatör uygulaması (tek dokunuş) | Sıfır uğraş isteyen bir ilk kez kuran | İyi Wi-Fi'dan ayrılmadan uygulamanın kurulmuş ve oturum açılmış olması gerekir |
+| QR kodu | Kod başka bir cihazda veya yazılı sayfada | Aynı telefonun ekranındaki kod taranamaz; loş ışık zarar verir |
+| Elle giriş | QR hasarlı veya etkinleştirdiğiniz telefonun üzerinde | SM-DP+ dizisi uzundur ve büyük/küçük harfe duyarlıdır — yeniden yazmayın, yapıştırın |
 
-### iPad'de (Hücresel Modeller) eSIM Etkinleştirme
+Tavsiyemiz: ilk eSIM'iniz için sağlayıcının tek dokunuş uygulama yolunu kullanın ve hem QR'nin hem de elle giriş dizilerinin ekran görüntüsünü yedek olarak saklayın. Uygulama en hızlısıdır, ancak elle giriş dizileri, her şey ters giderse sizi yarı yolda bırakmayan tek şeydir.
 
-Yalnızca hücresel iPad modelleri eSIM'i destekler — Wi‑Fi yalnızca iPad'ler desteklemez.
+## Etkinleştirmenin başarılı olduğunu nasıl doğrularsınız
 
-**iPad için adım adım:**
-1. **Ayarlar > Hücresel Veri** bölümüne gidin.
-2. **Hücresel Plan Ekle**'ye dokunun.
-3. iPad'in kamerasını kullanarak **eSIM QR kodunuzu** tarayın.
-4. **eSIM profili indirme** işlemini tamamlamak için yönergeleri izleyin.
-5. Planınızı etiketleyin ve ayarlarınızı yapılandırın.
+Yalnızca "Hücresel Kurulum Tamamlandı" mesajına güvenmeyin. Üç şeyi doğrulayın:
 
-**Hangi iPad'ler eSIM'i destekler?**
-- iPad Pro (3. nesil ve daha yeni)
-- iPad Air (3. nesil ve daha yeni)
-- iPad (10. nesil ve daha yeni)
-- iPad mini (6. nesil ve daha yeni)
+1. **Durum çubuğu** — çekim çubukları görüyorsunuz (iki hat açıksa ikinci bir set de).
+2. **Ayarlar** — eSIM hattı "Servis Yok" değil, "Açık" veya "Aktif" okuyor.
+3. **Gerçek test** — Wi-Fi'yi kapatın, eSIM'i veri hattınız yapın ve bir web sayfası yükleyin.
 
-**iPad eSIM sorun giderme:**
-- "Hücresel Plan Ekle" görmüyorsanız, iPad'iniz operatör kilitli veya Wi‑Fi yalnızca model olabilir.
-- eSIM bağlanmazsa kurulumdan sonra iPad'i yeniden başlatın.
-- eSIM hattı için Veri Dolaşımı'nın AÇIK olduğundan emin olun.
+Yerel ağa kaydolması için iki dakika tanıyın. Hâlâ "Aranıyor" diyorsa, aşağıdaki sorun giderme işaretine bakın.
 
-### Apple Watch'ta (Hücresel Modeller) eSIM Etkinleştirme
+## Etkinleştirme gerçekte ne kadar sürer?
 
-Apple Watch eSIM'i, iPhone'unuzdaki Watch uygulaması aracılığıyla kurulur — doğrudan saatte etkinleştiremezsiniz.
+Kısa versiyon: *indirme* iki dakikadan kısa sürer, ancak *ilk bağlantı* indikten sonra 15 dakikaya kadar sürebilir. Bunlar iki farklı şeydir ve insanlar bunları karıştırır.
 
-**Apple Watch için adım adım:**
-1. iPhone'unuzda **Watch uygulamasını** açın.
-2. **Saatim > Hücresel**'e dokunun.
-3. **Hücreseli Kur**'a dokunun.
-4. eSIM planınızı eklemek için ekrandaki yönergeleri izleyin.
-5. Operatörünüz bir doğrulama kodu gönderebilir — istendiğinde girin.
+| Aşama | Olan şey | Tipik süre |
+|---|---|---|
+| QR / profilin teslimi | Sağlayıcının sistemi eSIM'inizi oluşturur ve e-postalar | Saniyelerden ~15 dakikaya (yük altında) |
+| Profil indirmesi | Telefonunuz profili SM-DP+ sunucusundan çeker | 30–60 saniye, 2 dakikaya kadar |
+| İlk ağ kaydı | Varışta telefonunuz yerel ağları tarar ve bir ortak operatörle pazarlık eder | 2–15 dakika, genellikle 5'in altında |
+| Veri akışı | Veri Dolaşimi AÇIK olarak bir sayfa yüklersiniz | Kaydolduktan hemen sonra |
 
-**Hangi Apple Watch'lar eSIM'i destekler?**
-- Apple Watch Ultra (tüm modeller)
-- Apple Watch Series 4 ve daha yenileri (hücresel modeller)
-- Apple Watch SE (hücresel modeller)
+Bazı operatörler neden diğerlerinden yavaş kaydoluyor? Üç neden. **Küçük operatörler toplu sağlama yapar** — profilleri, sistemleri arka uçta işleyene kadar teknik olarak "beklemede"dir. **Ortak ağ yoğun** — saat 18.00'de işlek bir havaalanına inmek, telefonunuzun aynı anda kaydolan binlerce telefondan biri olduğu anlamına gelir. Ve **bazı planlar saatlerini yalnızca ilk bağlantıda başlatır**, böylece ağ el sıkışması bilinçli olarak ilk veri oturumuna kadar gecikir. Bunların hiçbiri arıza değildir — sadece "kuruldu" ile "canlı" arasındaki farktır.
 
-**Apple Watch eSIM sorun giderme:**
-- Yalnızca hücresel modeller (GPS + Hücresel) eSIM'i destekler — GPS yalnızca modeller desteklemez.
-- Operatörünüz Apple Watch eSIM'ini desteklemelidir — tüm operatörler desteklemez.
-- Kurulum sırasında iPhone'unuzun yakında ve istikrarlı bir Wi‑Fi bağlantısına sahip olduğundan emin olun.
-- eSIM görünmezse her iki cihazı da yeniden başlatın.
+## eSIM Etkinleştirmesini Bozan Yaygın Hatalar
 
-Operatörünüz Watch uygulamasında listelenmiyorsa, hesabınıza bir Apple Watch planı eklemek için doğrudan onlarla iletişime geçin. Daha fazla iPad ve Apple Watch eSIM rehberliği için [iPad ve Apple Watch eSIM kılavuzumuza](/faq/ipad-apple-watch-esim-support-guide/) bakın.
+| Hata | Neden bozar | Çözüm |
+|---|---|---|
+| Kamera uygulamasıyla taramak | Kodu tanır, hiçbir şey kurmaz | Önce Ayarlar > eSIM Ekle üzerinden gidin |
+| Zayıf Wi-Fi'da etkinleştirmek | İndirme kesilir ve profili bozar | Havaalanından önce evde kurulum yapın |
+| "Tazelemek" için eSIM'i silmek | Profili ve kalan tüm veriyi kalıcı olarak yok eder | Planın süresi dolmadıkça asla silmeyin |
+| ininceye kadar bekleyip sonra kurmak | Profili indirecek Wi-Fi yok | Yola çıkmadan önce kurun; varana kadar etkin kalır |
+| Veri Dolaşımını açık bırakmamak | Tam çubuklar, sıfır internet | İndikten sonra seyahat eSIM'i için Veri Dolaşimini AÇIK duruma getirin |
+| Şifrenizi unutmak | Kurulum ortasında durur | Başlamadan önce şifrenizi doğrulayın |
+| Kendi ekranınızdaki kodu taramak | Kamera kendi kendini hedefleyemez | Fotoğraflar'a kaydedin ve "Fotoğraf Seç"i kullanın veya elle giriş yapın |
 
+## eSIM Etkinleştirmesi Takılırsa Ne Yapmalı
 
-## eSIM Yeni Telefona Nasıl Aktarılır (iOS ve Android)
+"Etkinleştiriliyor…" veya "Aranıyor" ekranında takılı kaldıysanız, bu merdiveni yukarıdan aşağıya uygulayın — takılı etkinleştirmelerin büyük çoğunluğunu desteğe başvurmadan çözer.
 
-Yeni bir cihaza yükseltme yapıyorsanız, **eSIM'i yeni telefona aktarmanız** gerekebilir. İşte her platformda nasıl çalıştığı.
+1. **Telefonu yeniden başlatın.** Çok basit geliyor, ama temiz bir açılış ağ el sıkışmasını yeniden tetikler ve takılı profili yarı yarıya temizler.
+2. **Uçak Modunu 30 saniye açık tutun, sonra kapatın.** Bu, telefonu yerel ağları sıfırdan yeniden taramaya zorlar.
+3. **QR'yi yeniden tarayın.** *Bekleyen* (henüz aktif olmayan) profili silin ve daha güçlü bir ağda tekrar ekleyin. Çalışan aktif bir planı asla silmeyin.
+4. **SM-DP+ adresini tam olarak yeniden yazın.** Elle giriş, büyük/küçük harfe ve boşluğa duyarlıdır — tek bir fazladan karakter, telefonu ölü bir sunucuya gönderir. Yeniden yazmayın, yapıştırın.
+5. **Seyahat eSIM'i için Veri Dolaşimini AÇIK duruma getirin.** Tam çekim çubuklarıyla "Servis Yok" neredeyse her zaman budur.
+6. **Kararlı Wi-Fi'ye geçin.** İndirme takılı kalmaya devam ettiyse, yalnızca iyi bir bağlantıda temiz şekilde yeniden kurulabilen yarım yazılmış bir profiliniz olabilir.
 
-### iOS'tan iOS'a (iPhone'dan iPhone'a)
+Hata belirli bir kodsa — "Geçersiz QR kodu", "Hücresel Plan Eklenemiyor", bir APN sorunu — o hata bazlı bir konudur ve çözümler (APN değerleriyle birlikte) [eSIM Derin Sorun Giderme Rehberinde](/faq/esim-deep-troubleshooting-guide-2026/) yaşar.
 
-Apple'ın yerleşik Hızlı Aktarımı en kolay yöntemdir:
+## Bir Android tablet veya taşınabilir hotspot üzerinde etkinleştirme
 
-1. Yeni iPhone'unuzun kurulumu sırasında istendiğinde "Yakındaki iPhone'dan eSIM Aktar" seçeneğini seçin.
-2. Bluetooth ve Wi‑Fi etkinken her iki telefonu da yakın tutun.
-3. Eski iPhone'unuzda aktarımı onaylayın.
-4. **eSIM profili indirme** işleminin yeni cihazda tamamlanması için 1-2 dakika bekleyin.
+eSIM yalnızca telefonlar için değildir. **Hücresel Android tabletler** — Samsung Galaxy Tab S serisi veya hücresel bir Lenovo gibi — telefon kardeşlerinin tam yolunu kullanır: Ayarlar > Bağlantılar (veya Ağ ve internet) > SIM yöneticisi > eSIM Ekle. Tabletiniz `*#06#` ile bir EID gösteriyorsa, bir eSIM alabilir.
 
-**Hızlı Aktarım çalışmazsa:** Yeni iPhone'unuzda Ayarlar > Hücresel > eSIM Ekle > Yakındaki iPhone'dan Aktar bölümüne gidin.
+**Taşınabilir hotspotlar (MiFi)** daha karışıktır. Çoğu seyahat hotspot'u hâlâ fiziksel SIM kart alır, ancak bir avuç premium cihaz — Netgear Nighthawk M6 serisi ve bazı ZTE ve GlocalMe modelleri gibi — eSIM destekler. Tüm bir aileyi bağlıyorsanız, bir hotspot eSIM düzenli bir çözüm olabilir; ancak genellikle daha fazla esneklik (ve daha ucuz planlar) için eSIM'i bir telefona takıp hotspot'unu paylaşmak daha iyi olur.
 
-### Android'den Android'e
+Apple'ın hücresel **iPad ve Apple Watch** cihazları kendi kurallarını izler — Watch, doğrudan bir seyahat eSIM almak yerine bir telefon hattını yansıtır. Bu, [iPad ve Apple Watch eSIM rehberinde](/faq/ipad-apple-watch-esim-support-guide/) ele alınır.
 
-Android aktarım yöntemleri markaya göre değişir, ancak Samsung ve Google Pixel benzer seçenekler sunar:
+## Yaygın eSIM Etkinleştirme Mitleri
 
-**Samsung:** Ayarlar > Bağlantılar > SIM Yöneticisi > eSIM Ekle > eSIM'i eski cihazdan aktar (ekrandaki yönergeleri izleyin).
+İnsanların etkinleştirme hakkında inandığı ama gerçek olmayan birkaç şey:
 
-**Google Pixel:** Kurulum sırasında eSIM'inizi aktarmanız istenebilir. Alternatif olarak, operatör uygulamasını kullanın veya yeni bir QR kodu talep edin.
+- **"Etkinleştirmek için operatörümü aramam gerek."** Hayır — profil kurmak arama gerektirmez. Yalnızca profili sildikten veya telefon değiştirdikten sonra *yeniden verilmesi* için operatöre başvurursunuz.
+- **"Etkinleştirmek için varış noktamda olmam gerek."** Evde kurarsınız; plan yalnızca telefonunuz varış noktasındaki bir ağa bağlandığında canlanır.
+- **"eSIM'i silmek planımı sıfırlar."** Silmek profili kalıcı olarak yok eder — ve QR kodlar tek kullanımlık olduğundan, tamamen yeni bir plan gerekirdi.
+- **"Bir eSIM'i iki telefon arasında paylaşabilirim."** Hayır — bir profil aynı anda tek bir cihazda yaşar. Genellikle telefonlar arasında *taşıyabilirsiniz*, ancak aynı profili iki cihazda aynı anda çalıştıramazsınız.
+- **"eSIM'ler fiziksel SIM'den yavaştır."** Kimlik özdeştir; hız farkı yoktur. Veri hızlarınız ağdan ve plandan gelir, SIM formatından değil.
 
-### Platformlar Arası Aktarım (iPhone ↔ Android)
+## Diğer her şey kendi sayfasında
 
-**eSIM'i iPhone ve Android arasında aktarmak** nadiren desteklenir. Çoğu operatör ve seyahat eSIM sağlayıcısı, eSIM profili orijinal cihazın EID'sine bağlı olduğu için platformlar arası aktarıma izin vermez.
+Bu rehberi odaklı tutmak için, bu ilgili konuların ayrı anlatımları vardır:
 
-**Bunun yerine ne yapmalısınız:**
-1. Yeni cihaz için yeni bir eSIM QR kodu talep etmek üzere operatörünüzle iletişime geçin.
-2. Veya bir seyahat eSIM'i kullanıyorsanız, yeni cihaz için yeni bir plan satın alın.
+- **Belirli hataları gidermek** ("Geçersiz QR kodu", takılı "Etkinleştiriliyor", "Servis Yok", APN ayarları) → [eSIM Derin Sorun Giderme Rehberi](/faq/esim-deep-troubleshooting-guide-2026/)
+- **eSIM'i yeni bir telefona taşımak** (iOS'tan iOS'a, Android'den Android'e, çapraz platform) → [iPhone ve Android arasında eSIM aktarımı](/faq/how-to-transfer-esim-between-iphone-and-android/)
+- **Aynı anda iki hat kullanmak** (çift SIM / DSDS) → [iPhone eSIM uyumluluk merkezi](/faq/iphone-11-esim-compatible/)
+- **iPad ve Apple Watch eSIM** → [iPad ve Apple Watch eSIM rehberi](/faq/ipad-apple-watch-esim-support-guide/)
+- **Hangi operatörler ve cihazlar eSIM destekler** → [tam uyumluluk listesi](/compatibility/)
 
-Ayrıntılı platformlar arası aktarım talimatları için [eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/) bölümüne bakın.
+## Sıkça Sorulan Sorular
 
+**Bir eSIM'i etkinleştirmek için ücret var mı?**
+Hayır. Operatörler profil taramak ve kurmak için ücret almaz — yalnızca veri planının kendisi için ödersiniz. "Etkinleştirme ücreti" alan biri normal uygulamanın dışındadır.
 
-## eSIM ve Fiziksel SIM ile Çift SIM Kullanımı – En İyi Uygulamalar
+**eSIM'imi seyahatten önce etkinleştirebilir miyim?**
+Evet ve etmelisiniz. Evde, güvenilir Wi-Fi'da kurun; plan, telefonunuz varış noktasındaki bir ağa bağlanana kadar etkin kalmaz. İndikten sonra Veri Dolaşımını açmayı unutmayın.
 
-Birçok modern akıllı telefon, bir fiziksel SIM ve bir eSIM aynı anda aktif olacak şekilde **çift SIM**'i destekler. Seyahat için **çift SIM eSIM kurulumu** nasıl yapılandırılır.
+**eSIM etkinleştirmesi ne kadar sürer?**
+Profil indirmesi iki dakikadan kısa sürer. Yerel ağa ilk bağlantı, sinyale bağlı olarak 10–15 dakikaya kadar sürebilir. Ötesinde, telefonu yeniden başlatın.
 
-### Çift SIM Nasıl Çalışır (DSDS Açıklaması)
+**Bir eSIM'i etkinleştirmek için Wi-Fi gerekir mi?**
+İlk profil indirmesi için evet — profil sağlayıcınızın güvenli SM-DP+ sunucusundan gelir ve zayıf bir hücresel sinyal onu güvenilir şekilde çekemez. Yola çıkmadan önce ev Wi-Fi'sinde kurun; plan, inene kadar uykuda kalır.
 
-Telefonunuz **Çift SIM Çift Bekleme (DSDS)** özelliğini destekler. Her iki hat da aktif kalır ve arama/metin alabilir, ancak aynı anda yalnızca bir hat veri kullanabilir. Bir hattaki bir arama sırasında diğer hat geçici olarak kullanılamaz.
+**Telefonumda kaç eSIM tutabilirim ve aralarında geçiş yapabilir miyim?**
+Çoğu modern telefon sekiz veya daha fazla eSIM profili saklar; ancak aynı anda yalnızca bir veya ikisi *aktif* olabilir. Hangi profilin aktif olduğunu, onları eklemek için kullandığınız aynı Ayarlar ekranından değiştirebilirsiniz — çok ülkeli bir seyahat için kullanışlıdır.
 
-### Uluslararası Seyahat Edenler İçin En İyi Uygulamalar
+**QR kodu ile elle giriş arasındaki fark nedir?**
+QR taraması standart yoldur — daha hızlı ve yanlış yazması daha zordur. Elle giriş (SM-DP+ adresi + etkinleştirme kodu), kamera veya kod başarısız olduğunda işe yarayan yedek yoldur.
 
-**Aramalar/SMS için ev SIM'inizi saklayın:** Fiziksel SIM'inizi ses ve SMS için varsayılan hat olarak ayarlayın. Yüksek ücretlerden kaçınmak için bu hatta Veri Dolaşımı'nı KAPATIN.
+**Yalnızca veri olan bir eSIM ile arama ve mesaj yapabilir miyim?**
+Yalnızca veri içeren bir seyahat eSIM internet taşır ama telefon numarası taşımaz, bu yüzden klasik arama veya SMS yapmaz. Seyahat eSIM veriyi hallederken ev numaranızda (Wi-Fi Arama üzerinden) ulaşılabilir kalırsınız — çoğu gezgin böyle kullanır.
 
-**Veri için seyahat eSIM'ini kullanın:** **Seyahat eSIM'inizi** Hücresel Veri için varsayılan hat olarak ayarlayın. Bu hat için Veri Dolaşımı'nı AÇIK tutun.
+**eSIM'im "Etkinleştiriliyor" ekranında takılı — ne kadar beklemeliyim?**
+Varışta 10–15 dakikaya kadar, özellikle işlek bir havaalanında. Bundan sonra hâlâ takılıysa, telefonu yeniden başlatın, Uçak Modunu 30 saniye açıp kapatın veya bekleyen profili silip daha güçlü Wi-Fi'da yeniden tarayın.
 
-**iPhone için yapılandırma:**
-1. Ayarlar > Hücresel > Hücresel Veri > seyahat eSIM'inizi seçin.
-2. Ayarlar > Hücresel > Varsayılan Ses Hattı > ev SIM'inizi seçin.
-3. Hücresel Veri Geçişine İzin Ver seçeneğini KAPATIN.
+**Seyahat eSIM'i için Veri Dolaşimi açık olmalı mı?**
+Evet — seyahat eSIM'leri ağa ortak operatörler üzerinden ulaşır, bu yüzden o hat için Veri Dolaşimi AÇIK olmalıdır. Bu, dolaşım ücreti doğurmaz; bağlantının çalışma şekli budur.
 
-**Android için yapılandırma:**
-1. Ayarlar > Bağlantılar > SIM Yöneticisi.
-2. Seyahat eSIM'inizi veri SIM'i olarak ayarlayın.
-3. Ev fiziksel SIM'inizi arama/SMS SIM'i olarak ayarlayın.
-4. Ev SIM'inde veri dolaşımını kapatın.
+**SM-DP+ adresi ne anlama geliyor?**
+SM-DP+ (Subscription Manager – Data Preparation Plus), eSIM profilinizi ileten güvenli sunucudur. Elle girişte, telefonunuza profili nereden indireceğini söyler.
 
-### Yaygın Çift SIM Sorunları ve Çözümleri
+**Seyahat eSIM'imi Wi-Fi Arama ile kullanabilir miyim?**
+Evet — Wi-Fi Arama *ev* hattınıza aittir, seyahat eSIM'ine değil. Ev numaranız için Wi-Fi Aramayı açık tutun; seyahat eSIM'in verisiyle (veya herhangi bir Wi-Fi ile) çalışır, böylece dolaşım ücreti olmadan ulaşılabilir kalırsınız.
 
-- **eSIM'de veri yok:** Hücresel Veri'nin doğru hatta atandığını kontrol edin.
-- **Aramalar yanlış hatta gidiyor:** Varsayılan Ses Hattı ayarınızı kontrol edin.
-- **Yanlışlıkla dolaşım ücretleri:** Ev SIM'inizde Veri Dolaşımı'nın KAPALI olduğundan emin olun.
+**Etkinleştirmeden sonra hiç sinyalim yoksa ne yapmalıyım?**
+Hiç çubuk olmaması genellikle ortak ağın kapsama alanı dışında olduğunuz veya telefonun henüz kaydolmadığı anlamına gelir. Uçak Modunu 30 saniye açıp kapatın, seyahat eSIM'i için Veri Dolaşiminin AÇIK olduğunu doğrulayın ve içerideyseniz dışarı çıkın. Kalıcı "Servis Yok", bir APN veya sağlama sorunudur — [derin sorun giderme rehberine](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
 
-Daha fazla çift SIM sorun giderme için [Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/) kılavuzumuza bakın.
+👉 **Kendiniz denemeye hazır mısınız?** Bir [ücretsiz eSIM](/free-esim/) alın ve bu adımları risksizce uygulayın.
 
+Sonra en popüler varış noktalarımızı keşfedin:
 
-## eSIM Etkinleştirme Başarısız Hatalarını Giderme – Yaygın Çözümler
-
-eSIM'iniz etkinleştirilemez veya bağlanamazsa panik yapmayın. Müşteri desteğiyle iletişime geçmeden önce şu teknik çözümleri deneyin. Bu adımlar en yaygın **eSIM sorun giderme** senaryolarını ele alır.
-
-### Hata 1: "Hücresel Plan Eklenemiyor"
-- **Çözüm:** Bu genellikle telefonunuzun operatör kilitli olduğu veya QR kodunun zaten tarandığı anlamına gelir. QR kodları güvenlik nedenleriyle kesinlikle tek kullanımlıktır. Telefonunuzun kilidi açıksa ve bu hatayı alıyorsanız, yeni bir QR kodu oluşturması için sağlayıcınızla iletişime geçmelisiniz. Önce doğrulayın: Ayarlar > Genel > Hakkında > Operatör Kilidi "SIM kısıtlaması yok" yazmalıdır.
-- **Ek kontrol:** Ayarlar > Hücresel'den eski, kullanılmayan eSIM profillerini kaldırın. Çok fazla saklanan profil bazen yenilerinin eklenmesini engelleyebilir.
-
-### Hata 2: "Geçersiz QR Kodu" veya Kod Taranmıyor
-- **Çözüm:** QR kodunun süresi dolmuş olabilir (çoğunun 72 saatlik geçerlilik penceresi vardır), hasarlıdır veya kameranız odaklanamıyordur. İyi aydınlatılmış bir alanda tarama yaptığınızdan ve kodu görüntüleyen ekranın maksimum parlaklıkta olduğundan emin olun. Hala başarısız olursa, **"Ayrıntıları Manuel Gir"** seçeneğine dokunun ve operatörünüz tarafından sağlanan **SM-DP+ Adresini** ve **Etkinleştirme Kodunu** yazın. Bu, QR kodunu tamamen atlar — **esim etkinleştirme başarısız** hataları için güvenilir bir geçici çözümdür.
-
-### Sorun 1: eSIM Yüklendi ancak "Servis Yok" Gösteriyor
-- **Çözüm:** Profil indirildi, ancak telefonunuz yerel baz istasyonuna kaydolmadı. İlk olarak, eSIM hattının ayarlarınızda AÇIK olduğundan emin olun. Ardından, 30 saniye boyunca **Uçak Modu**'nu açın, ardından kapatın. Bu, telefonunuzun antenini yeniden başlatmaya ve sinyal aramaya zorlar.
-- **Hala servis yoksa:** Ayarlar > Hücresel > [eSIM'iniz] > Ağ Seçimi'ni kontrol edin. "Otomatik"i KAPATIN ve listeden manuel olarak bir ağ seçin. Bazen telefona hangi ağı kullanacağı açıkça söylenmelidir.
-
-### Sorun 2: Başarıyla Etkinleştirildi ancak İnternet Bağlantısı Yok
-- **Çözüm:** Sinyal çubuklarınız varsa ancak sayfalar yüklenmiyorsa, üç şeyi kontrol edin:
-  1. **Veri Dolaşımı'nı açın:** eSIM ayarlarınıza gidin ve "Veri Dolaşımı" anahtarının AÇIK olduğundan emin olun (bu çoğu seyahat eSIM'i için zorunludur — birçok gezgin bu adımı atlar).
-  2. **APN Ayarlarını kontrol edin:** Hücresel ayarlarınızda **APN (Erişim Noktası Adı)** menüsünü bulun. Doğru APN ayrıntıları için sağlayıcınıza sorun ve manuel olarak yazın. *(Bu adım özellikle Android cihazlar için yaygındır).* Yaygın seyahat APN değerleri "globaldata" veya "internet"tir — özel sağlayıcınızla kontrol edin.
-  3. **Veri Hattını Doğrulayın:** Telefonunuzun birincil "Hücresel Veri"sinin gerçekten yeni eSIM'e atandığını, ev SIM'inize değil, iki kez kontrol edin.
-
-### Sorun 3: İndirme Sırasında eSIM Profili Bozuldu
-- **Çözüm:** İndirme sırasında Wi-Fi bağlantınız koptuysa, **eSIM yüklemesi** eksik veya bozuk olabilir. İlk olarak, varsa kısmi eSIM'i silin: Ayarlar > Hücresel > eksik eSIM'e dokunun > eSIM'i Sil. Ardından telefonunuzu yeniden başlatın ve QR kodunu yeniden tarayın (sağlayıcınızdan yeni bir koda ihtiyacınız olabilir). Bu sefer, indirme boyunca hızlı ve istikrarlı bir Wi-Fi bağlantısında olduğunuzdan emin olun.
-
-> **KRİTİK UYARI:** Bir bağlantı sorununu düzeltmeye çalışıyorsanız asla **eSIM'i Sil** veya **Veri Planını Kaldır** seçeneğine dokunmayın. eSIM'i silmek dijital profili kalıcı olarak yok eder ve yeni bir tane satın almanız gerekir. Bir eSIM'i ancak planın süresinin dolduğundan ve bir daha asla ihtiyacınız olmayacağından kesinlikle emin olduğunuzda silin. Seyahat ortasında aktif bir **seyahat eSIM'ini** silerseniz, kurtaramazsınız.
-
-Bu çözümler sorununuzu çözmezse, operatör kilitli cihazlarda veya bölgesel kısıtlamalarda **esim etkinleştirme başarısız** gibi daha gelişmiş senaryolar için [eSIM Derin Sorun Giderme Kılavuzumuza (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
-
-
-## Sık Sorulan Sorular
-
-**eSIM'i etkinleştirmek için bir ücret var mı?** Hayır, operatörler bir eSIM profilini taramak ve yüklemek için "etkinleştirme ücreti" almaz. Yalnızca satın aldığınız gerçek veri planı veya hücresel paket için ödeme yaparsınız. Bir operatör eSIM için etkinleştirme ücreti almaya çalışırsa, bu standart bir uygulama değildir.
-
-**eSIM'imi seyahatten önce etkinleştirebilir miyim?** Evet, ve şiddetle tavsiye edilir. eSIM'i güvenilir Wi-Fi'niz varken evde yüklemelisiniz. Veri planı, hedef ülkeye inene ve telefonunuz desteklenen yerel ağa bağlanana kadar etkin olmayan (veya "aranıyor") kalır. Sadece varıştan sonra Veri Dolaşımı'nı AÇmayı unutmayın.
-
-**Fiziksel SIM'im ile eSIM'im arasında nasıl geçiş yaparım?** Hücresel ayarlarınıza gidin. Her iki hattın da listelendiğini göreceksiniz. Fiziksel SIM'inizi kapatmak için üzerine dokunabilir veya fiziksel SIM'inizi Ses/SMS için varsayılan, eSIM'i ise Hücresel Veri için varsayılan olarak ayarlayabilirsiniz. iPhone için: Ayarlar > Hücresel > Hücresel Veri > internet için istediğiniz hattı seçin.
-
-**eSIM etkinleştirmesi ne kadar sürer?** Normalde, **eSIM profili indirme** ve etkinleştirme işlemi 2 dakikadan az sürer. Ancak, yerel ağa ilk kez bağlanmak sinyal gücüne ve ağ kaydına bağlı olarak bazen 10-15 dakika sürebilir. 15 dakikadan uzun sürdüyse, telefonunuzu yeniden başlatın.
-
-**Fiziksel SIM'imi ve eSIM'imi aynı anda kullanabilir miyim?** Evet — çoğu modern akıllı telefon Çift SIM Çift Bekleme (DSDS) özelliğini destekler. Evden arama ve metinler için fiziksel SIM'inizi aktif tutarken, **seyahat eSIM'inizi** tamamen yerel hücresel veri için kullanabilirsiniz. Bu, SMS doğrulama kodları alması gereken uluslararası gezginler için önerilen kurulumdur.
-
-**eSIM etkinleştirmem tekrar tekrar başarısız olursa ne olur?** İlk olarak, telefonunuzun kilidinin açık olduğunu doğrulayın (Ayarlar > Genel > Hakkında > Operatör Kilidi). İkinci olarak, farklı bir Wi-Fi ağında deneyin. Üçüncü olarak, eSIM sağlayıcınızdan QR kodunu yeniden göndermesini isteyin — bazen ilk kod arızalıdır. Diğer her şey başarısız olursa, **SM-DP+ adresi** ile **eSIM manuel giriş** yöntemini deneyin. Daha gelişmiş sorunlar için [eSIM Derin Sorun Giderme Kılavuzumuza (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
-
-**eSIM QR kodu ile manuel giriş arasındaki fark nedir?** QR kod taraması standart yöntemdir — daha hızlıdır ve hata yapmaya daha az açıktır. **eSIM manuel girişi** (SM-DP+ adresi ve etkinleştirme kodunu kullanarak), tarama başarısız olduğunda bir yedektir. Manuel giriş hem iPhone hem de Android'de çalışır ve kamerayı tamamen atlar, bu da QR kodları taranmadığında en güvenilir **eSIM nasıl etkinleştirilir** yöntemi yapar.
-
-**eSIM'in çalışması için Veri Dolaşımı'nın açık olması gerekiyor mu?** Evet — çoğu seyahat eSIM'i için, eSIM hattında Veri Dolaşımı AÇIK olmalıdır. Bu teknik bir gerekliliktir çünkü seyahat eSIM'leri ortak ağlar üzerinden bağlanır. Dolaşım ücretleri alınmaz; bu sadece teknolojinin nasıl çalıştığıdır.
-
-**Fiziksel SIM takılı değilken seyahat eSIM'i kullanabilir miyim?** Evet — telefonunuz eSIM'i destekliyorsa, fiziksel SIM olmadan kullanabilirsiniz. Bu, özellikle fiziksel SIM yuvası olmayan ABD iPhone modelleri (14 ve daha yenileri) için kullanışlıdır.
-
-**eSIM'im neden uzun süre "Etkinleştiriliyor" gösteriyor?** Etkinleştirme sunucusu meşgul olabilir veya Wi-Fi bağlantınız kararsızdır. 10 dakikaya kadar bekleyin. Hala takılıysa, Uçak Modu'nu açıp kapatın. Bu işe yaramazsa, telefonunuzu yeniden başlatın ve tekrar deneyin.
-
-**eSIM'i kendim yeni telefona aktarabilir miyim?** Evet, ancak operatörünüze bağlıdır. Apple'ın Hızlı Aktarım'ı iPhone'dan iPhone'a çalışır. Android'in benzer seçenekleri vardır. Platformlar arası aktarımlar için operatörünüzden yeni bir QR koduna ihtiyacınız olacaktır. Yukarıdaki **eSIM Yeni Telefona Nasıl Aktarılır** bölümüne bakın.
-
-**iPad eSIM'i destekliyor mu?** Yalnızca hücresel iPad modelleri eSIM'i destekler. Wi‑Fi yalnızca iPad'ler desteklemez. Ayarlar > Genel > Hakkında bölümünde iPad modelinizi kontrol edin — menüde "Hücresel Veri" gösteriyorsa, eSIM'i destekler.
-
-**Apple Watch eSIM'i destekliyor mu?** Yalnızca hücresel Apple Watch modelleri (GPS + Hücresel) eSIM'i destekler. Saatinizin arkasını kontrol edin — Dijital Taç çevresinde kırmızı bir halka varsa, bu bir hücresel modeldir.
-
+- [ABD için eSIM](/united-states-esim/)
+- [Japonya için eSIM](/japan-esim/)
+- [Avrupa için eSIM](/europe-esim/)
 
 ---
 
-*Apple, Google ve GSMA dokümantasyonuna dayanmaktadır. Güncellenme: Haziran 2026.*
+*Apple, Google ve GSMA belgelerine dayanmaktadır. Güncellendi: Eylül 2026.*
+
+## Kaynaklar
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

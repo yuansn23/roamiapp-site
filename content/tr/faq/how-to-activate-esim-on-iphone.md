@@ -1,29 +1,29 @@
 ---
 title: "iPhone'da eSIM Nasıl Etkinleştirilir (2026)"
-h1_title: "2026'da iPhone'da eSIM Etkinleştirme – Tam Kılavuz"
-description: "2026 iOS ve Android eSIM etkinleştirme kılavuzu. Operatörünüzü aramanıza gerek yok. QR kod, Ayarlar uygulaması veya operatör uygulaması ile basit talimatları izleyin. Hızlı ve ücretsiz."
-keywords: ["iphone esim", "iphone es", "esim iphone", "iphone esim kurulum", "iphone esim nasıl yapılır", "iphone esim aktivasyon", "esim nasıl alınır", "iphone esim destekleme", "esim uygulaması iphone", "iphone qr kod esim", "ios esim kurulum", "iphone esim ayarları", "esim destekleyen iphone", "ayarlar hücresel esim ekle", "iphone esim 2026"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Sorun Giderme", "Seyahat Kurulumu"]
+h1_title: "2026'da iPhone'da eSIM Nasıl Etkinleştirilir – Tam Adım Adım Rehber"
+description: "2026 için tam iOS eSIM etkinleştirme rehberi. Operatörünüzü aramanıza gerek yok. QR kodu, Ayarlar uygulaması veya operatör uygulaması için basit talimatları izleyin. Hızlı ve ücretsiz."
+keywords: ["eSIM etkinleştirme", "iPhone eSIM nasıl etkinleştirilir", "iPhone eSIM kurulumu", "iPhone'a eSIM ekleme", "iPhone eSIM QR kodu", "iPhone seyahat eSIM", "iPhone eSIM sorun giderme", "eSIM'i yeni iPhone'a aktarma", "iPhone eSIM etkinleştirme hatası", "iPhone eSIM servis yok", "eSIM etkinleştirme ekranında takılı kalma"]
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
+tags: ["eSIM", "iOS", "Sorun Giderme", "Seyahat Kurulumu"]
 toc: true
-image: "/images/esim-activation-guide.jpg"
-
-# Site & SEO temel sabit yapılandırması
+image: "/img/faq/activate-esim-iphone.webp"
+image-1: "/img/faq/activate-esim-iphone-1.jpg"
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI metin çevirisi/sabit yapılandırması (çoklu dil desteği)
+# UI text translations
 ui_text:
-  updated_on: "Güncellenme"
+  updated_on: "Güncellenme tarihi"
   min_read: "dk okuma"
   toc: "İçindekiler"
 
-# Ekmek kırıntısı navigasyonu
+# Breadcrumbs
 breadcrumbs:
   home:
-    text: "Ana Sayfa"
+    text: "Anasayfa"
     url: "/"
   parent:
     text: "Yardım Merkezi"
@@ -34,45 +34,45 @@ sidebar_popular:
   title: "Popüler eSIM'ler"
   item_suffix: "eSIM"
   items:
-    - name: "ABD eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Almanya eSIM"
+    - name: "Germany eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Avrupa eSIM"
+    - name: "Europe eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Türkiye eSIM"
+    - name: "Turkey eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japonya eSIM"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Çin eSIM"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Sağ sütun: Ücretsiz eSIM yapılandırması
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Ücretsiz eSIM Al"
+  title: "Ücretsiz eSIM Talep Et"
   icon: "🎁"
   item_suffix: "Ücretsiz eSIM"
   item_subtitle: "Ücretsiz eSIM"
   items:
-    - name: "BK eSIM"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Almanya"
@@ -85,217 +85,256 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sağ sütun: Popüler sorular yapılandırması
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popüler Sorular"
   items:
-    - question: "eSIM aktivasyonu nedir ve nasıl çalışır?"
+    - question: "eSIM etkinleştirme nedir ve nasıl çalışır?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "eSIM nasıl etkinleştirilir?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/faq/how-to-activate-an-esim/"
     - question: "iPhone'da eSIM nasıl etkinleştirilir (Tüm Modeller)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Güncel eSIM Uyumluluk Listesi"
       url: "/compatibility/"
 ---
 
-**Kısa Cevap:**
-eSIM aktivasyonu, ağ sağlayıcınızdan dijital bir operatör profilinin internet üzerinden telefonunuzun yerleşik mikroçipine güvenli bir şekilde indirilmesi işlemidir. Fiziksel bir kart takmak yerine, bir QR kod tarar veya bir operatör uygulaması kullanarak anında bir mobil ağa bağlanırsınız. eSIM'in ardındaki teknoloji, cihazlar ve operatörler arasında küresel birlikte çalışabilirliği sağlayan [GSMA standardı SGP.22](https://www.gsma.com/esim/) tarafından yönetilmektedir. Ayrıntılı Android aktivasyon talimatları için **[genel eSIM aktivasyon kılavuzumuza](/faq/how-to-activate-an-esim/)** bakın.
 
----
+> **Editör Notu:** iPhone'da bir eSIM'i etkinleştirmek yaklaşık beş dakika sürer — QR kodunu tarar, Ayarlar'da ilerlersiniz ve profil iner. Buradaki her adım, iOS 17 ve 18 çalıştıran gerçek donanımlarda test edilmiştir. iOS sürümünüze uygun adımları izleyin ve kalkıştan önce bağlanın.
 
-## iPhone'unuzda eSIM nasıl etkinleştirilir – tüm modeller için adım adım kılavuz
+**Kısa Yanıt:** iPhone'da bir eSIM'i Ayarlar uygulamasından etkinleştirirsiniz — operatörünüzü aramaya, fiziksel karta gerek yok. Bu sayfa iOS'a özgü yolu derinlemesine ele alır: tam menüler, iOS 17 ile 18 arasındaki farklar, profili yeni bir iPhone'a taşıma ve çoğu rehberin atladığı iMessage/FaceTime temizliği.
 
-Küçük ataçlar ve mikroskobik plastik SIM kartlarla uğraşma günleri geride kaldı. İster yeni bir yerel operatöre geçin ister bir sonraki uluslararası seyahatiniz için bir seyahat veri planı satın alın, eSIM kullanmak bağlı kalmanın en uygun yoludur.
+Arkasındaki kavram için [eSIM etkinleştirme nedir?](/faq/what-is-esim-activation-and-how-does-it-work/) makalesine bakın. Android mi kullanıyorsunuz? [Genel etkinleştirme rehberini](/faq/how-to-activate-an-esim/) kullanın.
 
-Ancak, ilk kez bir **iPhone eSIM kurulumu** yapıyorsanız, süreç biraz göz korkutucu görünebilir. Endişelenmeyin! Bu kapsamlı kılavuzda, **iPhone'unuzda eSIM'i nasıl etkinleştireceğinizi** ve esim io kurulum adımlarını QR kod, manuel giriş veya operatör uygulaması kullanarak tam olarak göstereceğiz. Bu kılavuz, yalnızca eSIM olan iPhone 14, 15, 16 ve 17 serileri dahil olmak üzere tüm uyumlu modelleri kapsar. Özellikle iPhone 17 için tam bir adım adım anlatım için **[iPhone 17 eSIM Tam Kılavuzu](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** sayfamıza bakın.
+iPhone 16 mı kullanıyorsunuz? Bunun için [özel bir iPhone 16 eSIM rehberi](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/) var.
 
----
+## iPhone'ınız eSIM'e hazır mı?
 
-## Ön koşullar – eSIM aktivasyonundan önce ihtiyacınız olanlar
+Hızlı bir kontrol: `*#06#` çevirin — 32 haneli bir **EID** görünüyorsa, iPhone'unuzda eSIM vardır. Tam iPhone model listesi (XS'ten 16/17 serisine, SE 2./3. nesil) ve her birinin kaç profil tuttuğu için [iPhone eSIM uyumluluk merkezine](/faq/iphone-11-esim-compatible/) bakın.
 
-Kurulum sürecine dalmadan önce cihazınızın hazır olduğundan emin olalım. Sorunsuz bir kurulum sağlamak için üç hızlı şeyi kontrol etmeniz gerekir.
+## eSIM Etkinleştirmeden Önce
 
-### iPhone uyumluluğunu kontrol edin
-Öncelikle, iPhone'unuzun eSIM teknolojisini desteklediğinden emin olun. Apple, eSIM'leri iPhone XS ile başlattı. Uyumlu modeller şunlardır:
-- iPhone XS, XS Max ve XR
-- iPhone 11, 12, 13, 14, 15, 16 ve 17 serileri
-- iPhone SE (2. ve 3. nesil)
+1. **Kilitsiz** — Ayarlar > Genel > Hakkında > Operatör Kilidi "No SIM restrictions" demeli. Kilitli bir iPhone, ikinci bir sağlayıcının eSIM'ini kuramaz.
+2. **Wi-Fi** — profil, operatörünüzün güvenli sunucusundan iner; bu yüzden bir bağlantı gerekir (ilk indirme için hücresel veri yetmez).
+3. **Şifre** — iOS, kurulumu yetkilendirmek için kilit ekranı şifrenizi ister.
+4. **QR kodu** — başka bir cihazda açık olsun veya görüntüyü Fotoğraflar'a kaydedip sonra "Fotoğraf Seç"i kullanın.
 
-*Uzman İpucu: ABD'de bir iPhone 14, 15, 16 veya 17 satın aldıysanız, telefonunuz yalnızca eSIM'dir ve fiziksel bir SIM kart yuvası yoktur.*
+## Ana Hattınız ve Seyahat eSIM'i
 
-### iPhone'unuzun operatör kilidinin açık olduğundan emin olun
-Bir seyahat eSIM'i kurmaya çalışıyorsanız, telefonunuzun kilidi açık olmalıdır.
-1. **Ayarlar** > **Genel** > **Hakkında**'ya gidin.
-2. **Operatör Kilidi**'ni (veya Ağ Sağlayıcı Kilidi) bulmak için aşağı kaydırın.
-3. **"SIM kısıtlaması yok"** yazıyorsa, iPhone'unuzun kilidi açıktır ve yeni bir eSIM'e hazırdır!
+Ayarlar'ı açmadan önce, gerçekte ne yaptığınızı adlandırın — akış biraz farklıdır ve hangisinde olduğunuzu bilmek, karışıklığın çoğunu önler.
 
-### Kararlı bir Wi-Fi ağına bağlanın
-eSIM profilini telefonunuza indirmek için **kararlı bir internet bağlantınız** olmalıdır (Wi-Fi şiddetle tavsiye edilir). Operatör kilidi sorunu devam ediyorsa, daha derinlemesine sorun giderme için **[Çift eSIM Çalışmıyor? iPhone için 12 Çözüm](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzumuza göz atın.
+**Senaryo A: ana hattınızı etkinleştirmek (operatör değiştirmek veya yeni telefon).** Bu bir operatör ilişkisidir. Operatörünüz size ya bir QR kodu verir, eSIM'i uygulamaları üzerinden gönderir (Verizon, T-Mobile, AT&T, Visible, Mint bunu yapar) ya da operatör hesabınızla oturum açtığınızda profilin otomatik göründüğü "eSIM Carrier Activation"ı kullanır. Sonrasında iMessage ve FaceTime'in yeni numaraya yeniden kaydolduğunu kontrol etmek isteyeceksiniz.
 
----
+**Senaryo B: bir seyahat eSIM'i eklemek (ev numaranızı koruyarak).** Bu, yurt dışında veri için ikinci, ayrı bir hattır. Fiziksel SIM'inize veya ev eSIM'inize dokunmaz, seyahat eSIM'ini yanına kurar, sonra Hücresel Veri'yi seyahat hattına yönlendirirsiniz. Seyahat eSIM'i genellikle yalnızca veridir; arama ve mesajlar ev numaranızda kalır.
 
-## iPhone'unuzun eSIM'i destekleyip desteklemediğini kontrol etme – uyumluluk kontrolü
+Aşağıdaki her şey ikisi için de geçerlidir; ancak "dönüştürme", "Hızlı Aktarım" ve "iMessage yeniden kaydı" bölümleri Senaryo A'ya, çift hat kurulumu ise Senaryo B'ye aittir.
 
-Bir eSIM planı satın almadan önce, cihazınızın gerekli donanıma sahip olduğunu doğrulamalısınız. İşte iki hızlı yöntem:
+## iPhone'a eSIM Nasıl Kurulur
 
-### Yöntem 1: `*#06#` tuşlayın (en güvenilir)
-1. Telefon uygulamasını açın ve `*#06#` tuşlayın.
-2. 32 haneli bir **EID** (Gömülü Kimlik Belgesi) görünüyorsa, iPhone'unuz eSIM'i destekliyordur.
-3. Yalnızca IMEI numaraları görüyorsanız, iPhone'unuz eSIM'i desteklemiyordur.
+### Bir QR Kodu Taramak
 
-### Yöntem 2: Ayarlar'ı kontrol edin
-1. **Ayarlar** > **Genel** > **Hakkında**'ya gidin.
-2. Aşağı kaydırın – **Dijital SIM** veya **Kullanılabilir SIM** ve bir EID numarası görüyorsanız, cihazınız eSIM'e hazırdır.
+1. Ayarlar > Hücresel (veya Mobil Veri).
+2. **eSIM Ekle**'ye dokunun (eski iOS: **Hücresel Plan Ekle**).
+3. **QR Kodu Kullan**'a dokunun.
+4. Telefonu koddan yaklaşık 15 cm uzakta, gösteren ekran tam parlaklıktayken tutun.
+5. Plan göründüğünde **Devam**'a dokunun ve istenirse şifrenizi girin.
 
-Tam **eSIM uyumlu telefonlar** listesi için **[tam uyumluluk listemize](/compatibility/)** bakın.
+Birkaç denemeden sonra taranmıyorsa, kamera ekranının altındaki **Ayrıntıları Elle Girin**'i seçin.
 
----
+### Elle Giriş
 
-## iPhone'da eSIM nasıl kurulur ve etkinleştirilir – 3 ana yöntem
+Ayarlar > Hücresel > eSIM Ekle > QR Kodu Kullan > **Ayrıntıları Elle Girin** bölümüne gidin, sonra sağlayıcınızın e-postasındaki SM-DP+ adresini ve etkinleştirme kodunu yazın. Kod hasarlıyken veya etkinleştirdiğiniz telefonun üzerindeyken en güvenilir yedek yol budur.
 
-Operatörünüze veya eSIM sağlayıcınıza bağlı olarak, **iPhone'da bir eSIM'i etkinleştirmenin** üç ana yolu vardır.
+### Operatör Uygulaması
 
-### Yöntem A: QR kod kullanma (en yaygın)
-Bu, çoğu **seyahat eSIM'i** için standart yöntemdir. Sağlayıcınız genellikle satın alma işleminden sonra size e-postayla bir QR kod gönderir.
+Roami, Airalo ve Holafly gibi sağlayıcılar, uygulamalarından tek dokunuşla kurar — planınızı açın ve **Kur** veya **Etkinleştir**'e dokunun, ardından isteme izin verin. En hızlı yol, kamera yok.
 
-1. **Ayarlar** > **Hücresel** (veya Mobil Veri) seçeneğine gidin.
-2. **eSIM Ekle**'ye (veya Hücresel Plan Ekle) dokunun.
-3. **QR Kod Kullan**'ı seçin.
-4. QR kodu taramak için kameranızı QR koda doğrultun.
-5. "Eklenecek Bir Hücresel Plan Hazır" bildirimini gördüğünüzde **Devam Et**'e dokunun.
-6. Yeni planınızı etiketlemek için ekrandaki yönlendirmeleri izleyin (ör. "Seyahat" veya "Avrupa" olarak adlandırın).
+## iPhone'da Fiziksel SIM'inizi eSIM'e Dönüştürün
 
-### Yöntem B: Manuel giriş (QR kodu tarayamıyorsanız)
-Ya eSIM'i telefonunuzda satın aldıysanız ve kendi ekranınızdan QR kodu tarayamıyorsanız? Ayrıntıları manuel olarak girebilirsiniz.
+Operatörünüz destekliyorsa, iOS fiziksel SIM'inizi doğrudan telefonda bir eSIM'e dönüştürebilir — mağazaya gitmeye, yeni SIM kart almaya, QR kodu gerekmez. Bu, fiziksel SIM yuvasını boşaltmanın (örneğin yurt dışında yerel bir SIM için) veya telefonunuzu satmadan önce tamamen dijitalleşmenin en temiz yoludur.
 
-1. **Ayarlar** > **Hücresel** > **eSIM Ekle** > **QR Kod Kullan**'a gidin.
-2. Kamera ekranının altındaki **Ayrıntıları Manuel Gir**'e dokunun.
-3. **SM-DP+ Adresi** ve **Aktivasyon Kodunu** girin (bunlar onay e-postanızda sağlanır).
-4. **İleri**'ye dokunun ve kurulumu tamamlamak için yönlendirmeleri izleyin.
+1. Ayarlar > Hücresel.
+2. Şu anda fiziksel SIM'inizde olan hatta dokunun.
+3. **eSIM'e Dönüştür**'e dokunun (bazı operatörlerde **Fiziksel SIM'i eSIM'e Dönüştür** okur).
+4. **Hücresel Planı Dönüştür**'e, ardından **eSIM'e Dönüştür**'e dokunun.
+5. Dönüşümü bekleyin — genellikle bir dakikadan kısa — sonra iOS istediğinde fiziksel SIM kartı çıkarın.
 
-### Yöntem C: Operatör uygulaması aracılığıyla doğrudan kurulum
-Birçok modern eSIM sağlayıcısı, eSIM'i tek bir dokunuşla kurmanıza olanak tanıyan bir uygulama sunar.
-1. Sağlayıcınızın uygulamasını App Store'dan indirin.
-2. Oturum açın ve satın aldığınız eSIM planını bulun.
-3. **Kur / eSIM'i Etkinleştir** düğmesine dokunun.
-4. Uygulamanın iPhone ayarlarınıza hücresel plan ekleme iznini verin.
+Bilinmesi gereken birkaç püf noktası var. **Operatör desteği değişkendir** — büyük üçlü (AT&T, Verizon, T-Mobile) destekler, ancak birçok MVNO ve ön ödemeli operatör seçeneği göstermez. **Dönüştürmek için iPhone'unuzun o operatörün ağında olması gerekir** (dönüşüm sırasında hattı doğrular). **Yabancı veya seyahat SIM'ini dönüştüremezsiniz** — bu özellik yalnızca telefonunuzun o anda oturum açmış olduğu operatörün SIM'ini dönüştürür. Ve dönüştürüldükten sonra fiziksel kart ölüdür — çöpe atın, başkasına vermeyin.
 
----
+"eSIM'e Dönüştür" görmüyor musunuz? Operatörünüz bunu etkinleştirmemiştir. Eski yöntemle yine de dijitalleşebilirsiniz: onlardan bir eSIM QR kodu isteyin ve yukarıdaki standart kurulumu izleyin.
 
-## Seyahat için eSIM ayarlarınızı yapılandırma
+## iOS 17 ve iOS 18 eSIM Değişiklikleri
 
-eSIM'i kurmak işin yalnızca yarısıdır. Yurt dışına seyahat ediyorsanız, **birincil ev SIM'inizde pahalı dolaşım ücretlerini önlemek** için ayarlarınızı doğru yapılandırmanız gerekir.
+| Özellik | iOS 17 | iOS 18 |
+|---|---|---|
+| eSIM ekleme yolu | Ayarlar > Hücresel > eSIM Ekle | Aynı yol |
+| Düğme etiketi | Bazı cihazlarda "Hücresel Plan Ekle" | Her yerde "eSIM Ekle" |
+| Elle giriş | Tarama ekranının altında | Daha belirgin, yeniden tasarlanmış |
+| Hızlı Aktarım | iOS 16'dan beri mevcut | Daha güvenilir, daha iyi ilerleme göstergesi |
+| Operatör güncellemeleri | Bazıları yeniden başlatma ister | Arka planda güncellemeler |
 
-### Varsayılan ses ve SMS hattınızı ayarlayın
-Kurulum sırasında iPhone'unuz varsayılan bir hat seçmenizi isteyecektir.
-- **Varsayılan Hat:** Normal numaranızdan hala iMessage ve aramalar almak istiyorsanız Birincil (Ev) SIM'inizi seçin.
-- **iMessage ve FaceTime:** Birincil SIM'inizi seçin.
+"Hücresel Plan Ekle" görüyorsanız, "eSIM Ekle" ile aynı işlevdir.
 
-### Hücresel veriyi ayarlayın ve dolaşım ücretlerini önleyin
-Bu, gezginler için en önemli adımdır:
-1. **Ayarlar** > **Hücresel** > **Hücresel Veri**'ye gidin.
-2. Hücresel veri için yeni **Seyahat eSIM'inizi** seçin.
-3. **"Hücresel Veri Geçişine İzin Ver"** seçeneğini KAPATIN. Bu, telefonunuzun veri için gizlice ev SIM'inize geri dönmesini engeller.
-4. Hücresel menüsüne geri dönün, Birincil (Ev) SIM'inize dokunun ve **Veri Dolaşımı**'nın KAPALI olduğundan emin olun.
-5. Seyahat eSIM'inize dokunun ve **Veri Dolaşımı**'nın AÇIK olduğundan emin olun (çoğu seyahat eSIM'i yerel ağlara bağlanmak için dolaşım gerektirir).
+## eSIM için iOS Sürüm Geçmişi
 
-### APN ayarları – bağlantı sorunlarını giderin
+Etiketler, insanların sandığından daha çok değişti. İşte tam yay; böylece iki yaşındaki telefonunuzdaki üç yıllık bir rehber bile anlamlı kalır.
 
-eSIM'iniz sinyal çubukları gösteriyor ancak veri bağlantısı yoksa, APN ayarlarının ayarlanması gerekebilir:
+| iOS sürümü | Menü etiketi | eSIM için ne değişti |
+|---|---|---|
+| iOS 15 | "Hücresel Plan Ekle" | eSIM XS/XR ve yenilerinde mevcut; çift SIM çoğu modelde bir eSIM + bir fiziksel |
+| iOS 16 | "Hücresel Plan Ekle" | **Hızlı Aktarım** (yakındaki bir iPhone'dan eSIM taşıma) gelir; seçili operatörler için eSIM'e dönüştürme |
+| iOS 17 | "eSIM Ekle" / "Hücresel Plan Ekle" (karışık) | eSIM'e dönüştürme daha fazla operatöre genişler; iPhone 13 ve sonrasında çift *aktif* eSIM |
+| iOS 18 | Her yerde "eSIM Ekle" | Yeniden tasarlanan ekleme ekranı, arka plan operatör güncellemeleri, daha net çift eSIM görünümü |
 
-1. **Ayarlar** > **Hücresel** > **Hücresel Veri Ağı**'na gidin.
-2. APN alanlarını doldurun – doğru değerler için eSIM sağlayıcınızın web sitesini kontrol edin.
-3. Yaygın APN değerleri: `roami` (Roami), `airalo` (Airalo), `global` (Nomad).
-4. Kaydedin ve iPhone'unuzu yeniden başlatın.
+Kısa versiyon: iOS 16 ve sonrası Hızlı Aktarım yapabilir, iOS 17 çift eSIM'i standartlaştırdı ve iOS 18 çoğunlukla etiketler ve güvenilirlik üzerinde bir cila geçişidir.
 
----
+## eSIM Kurduktan Sonra iMessage ve FaceTime'i Yeniden Kaydettirme
 
-## iOS 19, eSIM kullanıcıları için neler getiriyor? – 2026 özellikleri
+Çoğu rehber "Hücresel Kurulum Tamamlandı"da durur, ancak halledilmeye değer bir iOS tuhaflığı vardır: varsayılan ses hattınızı değiştirdiyseniz, iMessage ve FaceTime hâlâ eski hatta bağlı olabilir — veya "Etkinleştirme bekleniyor" gösterebilir.
 
-iOS 19 ile Apple, özellikle eSIM kullanıcıları için birkaç iyileştirme getirdi:
+1. Ayarlar > Mesajlar > Gönder ve Al bölümüne gidin ve numaranızın seçili olduğunu doğrulayın.
+2. Ayarlar > FaceTime bölümüne gidin ve doğru numaranın veya Apple ID'nin aktif olduğunu doğrulayın.
+3. Biri "Etkinleştirme bekleniyor" gösteriyorsa, Wi-Fi'ye bağlıyken iMessage'ı kapatıp açın.
 
-### Akıllı Seyahat eSIM Yönetimi
-- **Kalkıştan önce:** Bir seyahat eSIM'i satın aldıktan sonra sistem "Bu eSIM'i kendi ülkenizde mi yoksa seyahat ederken mi kullanmayı düşünüyorsunuz?" diye sorar.
-- **Varışta:** "Seyahat eSIM'ini Etkinleştir" bildirimini otomatik olarak açar.
-- **Eve döndükten sonra:** iPhone, seyahat eSIM'ini otomatik olarak kapatır ve ülke numaranızı yeniden etkinleştirir.
+Bu, seyahat eSIM'inin yalnızca veri olduğu ve mesajlaşmayı ev numaranızda tutmak istediğiniz çift hat kurulumlarında önemlidir.
 
-### eSIM Hızlı Aktarım (iPhone'dan iPhone'a)
-iOS 19 ile Apple, eSIM'inizi aktarmayı daha da kolaylaştırdı. Bluetooth aracılığıyla **eSIM Hızlı Aktarım**'ı kullanarak:
+## eSIM'i Yeni Bir iPhone'a Nasıl Aktarırsınız
 
-Eski iPhone'unuzu yenisinin yanına koyun, yeni telefonda **Ayarlar > Hücresel > eSIM Ekle**'ye gidin ve **Yakındaki iPhone'dan Aktar**'ı seçin. Yönlendirmeleri izleyin ve numaranız yeni bir QR kod gerektirmeden sorunsuz bir şekilde yeni cihaza taşınacaktır.
+Eski telefonunuzun yanında yeni bir iPhone kurarken **"Yakındaki iPhone'dan eSIM aktar"**ı seçin ve her iki cihazı da Bluetooth ve Wi-Fi açıkken yakın tutun. Profil bir iki dakikada kablosuz olarak taşınır.
 
-### Platformlar arası aktarım (iOS 19 ↔ Android 16)
-Artık eSIM'leri iPhone ve Android arasında doğrudan aktarabilirsiniz – operatör araması gerekmez. Ayrıntılı adımlar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/how-to-transfer-esim-between-iphone-and-android/)** bakın.
+İstem görünmüyorsa, yeni telefonda Ayarlar > Hücresel > eSIM Ekle > **Yakındaki iPhone'dan Aktar** bölümüne gidin. Profil ulaştıysa ama "Servis Yok" gösteriyorsa, önce eski iPhone'dan silin — bazı operatörler eski profilin serbest bırakılmasını ister.
 
----
+eSIM'i Android'e taşıma, operatör yeniden vermeleri veya çoktan sattığınız veya sıfırladığınız bir telefon için [eSIM aktarım rehberine](/faq/how-to-transfer-esim-between-iphone-and-android/) bakın.
 
-## Android'de eSIM etkinleştirme – Samsung ve Pixel için hızlı kılavuz
+## Hızlı Aktarım uç durumları
 
-Bu kılavuz iPhone'a odaklansa da, aynı prensipler Android cihazlar için de geçerlidir:
+Hızlı Aktarım, her iki iPhone da odadayken harikadır. Değillerse, olan şudur.
 
-- **Samsung Galaxy (S21 ve daha yenisi):** **Ayarlar > Bağlantılar > SIM Yöneticisi > eSIM Ekle**'ye gidin.
-- **Google Pixel (3 ve daha yenisi):** **Ayarlar > Ağ ve İnternet > Mobil Ağ > Operatör Ekle**'ye gidin.
+- **Eski iPhone'u sattınız, kaybettiniz veya sıfırladınız.** Hızlı Aktarım devre dışıdır — kaynak cihazın açık ve kilitsiz olması gerekir. Bunun yerine operatörünüze başvurun ve eSIM'i yeniden vermelerini isteyin (genellikle ücretsiz, dakikalar sürer), sonra yeni QR'yi yeni telefona kurun. Ayrıntılı yeniden verme adımları [aktarım rehberindedir](/faq/how-to-transfer-esim-between-iphone-and-android/).
+- **"Yakındaki iPhone'dan Aktar" eksik.** Yalnızca iOS 16 veya sonrasını çalıştıran cihazlarda görünür. Daha eski bir iPhone'da veya kaynak erişim dışındaysa, operatör QR yeniden vermeye geri dönün.
+- **Aktarım ortasında takılıyor.** Her iki telefonu da aynı Wi-Fi'ye alın, birkaç santimetre içinde tutun ve ikisinde de Düşük Güç Modunu kapatın. Bluetooth açık kalmalı — Hızlı Aktarım, Wi-Fi üzerinden devretmeden önce Bluetooth ile eşleşir.
+- **Android'den geçiyorsunuz.** Hızlı Aktarım yalnızca iPhone'dan iPhone'a çalışır. Android'den iPhone'a aktarımlar operatör üzerinden yapılır, Ayarlar uygulaması üzerinden değil.
+- **eSIM taşındı ama fiziksel SIM taşınmadı.** Hızlı Aktarım yalnızca *eSIM* profillerini taşır — fiziksel bir SIM kartın hâlâ fiziksel olarak değiştirilmesi gerekir (önce yukarıdaki gibi eSIM'e dönüştürmedikçe).
 
-Her ikisi de QR kod tarama veya manuel giriş kullanır. Altta yatan teknoloji aynıdır – **eSIM Android'de nasıl çalışır** iPhone'dakiyle aynı mantığı izler.
+## Ev Numaranızı Koruyarak Seyahat eSIM'i Ekleme
 
----
+Bu, en yaygın gerçek dünya kurulumudur: ev hattınız tam olduğu yerde kalır ve bir seyahat eSIM veri için yanına biner. Bu sırayla yapın.
 
-## Yaygın eSIM aktivasyon hatalarını giderme
+1. **Ev hattınıza dokunmayın.** Fiziksel SIM de eSIM de olsun, yerinde bırakın. Silmeyin, dönüştürmeyin.
+2. **Seyahat eSIM'ini kurun** QR, elle giriş veya sağlayıcı uygulaması üzerinden (Roami, Airalo, Holafly).
+3. **Hatları etiketleyin.** Ayarlar > Hücresel, her hatta dokunun ve "Hücresel Plan Etiketi" ile yeniden adlandırın — "Ev" ve "Roami Seyahat" — böylece sonra ayırt edebilirsiniz.
+4. **Hücresel Veri'yi seyahat eSIM'ine ayarlayın.** Ayarlar > Hücresel > Hücresel Veri, ve seyahat hattını seçin.
+5. **Varsayılan Ses Hattını ev numaranıza ayarlayın.** Bu, aramaları, iMessage'ı ve FaceTime'i normal numaranızda tutar.
+6. **Seyahat eSIM'i için Veri Dolaşimini AÇIK, ev için KAPALI yapın.** Seyahat hattı, ortak ağlara ulaşmak için dolaşıma ihtiyaç duyar; ev hattı duymaz ve kapalı tutmak yanlışlıkla günlük ücretleri önler.
+7. **"Hücresel Veri Değiştirmeye İzin Ver"i KAPALI bırakın.** Açıkken kısa bir sinyal düşüşü, veriyi ev hattınıza çevirebilir ve bir dolaşım ücreti tetikleyebilir.
 
-Sorun mu yaşıyorsunuz? İşte en yaygın hatalar ve nasıl düzeltilecekleri:
+Artık seyahat eSIM'inizden bir veri borunuz ve herkesin ulaşabildiği bir numaranız var — SIM takası yok, ikinci telefon yok.
 
-| Hata / Belirti | Olası Neden | Çözüm |
-|----------------|-------------|--------|
-| **"Hücresel Plan Eklenemiyor"** | iPhone operatör kilitli veya QR kod zaten kullanılmış | `Ayarlar > Genel > Hakkında` altındaki Operatör Kilidi'ni kontrol edin. Kilit açıksa, yeni bir QR kod için sağlayıcınızla iletişime geçin. |
-| **"Etkinleştiriliyor..."da takılı kaldı** | Zayıf Wi-Fi veya operatör ağı yoğunluğu | iPhone'u yeniden başlatın. Uçak Modunu 30 saniye açın, sonra kapatın. 5-10 dakika bekleyin. |
-| **Etkinleştirmeden Sonra Servis Yok** | Veri Dolaşımı açık değil veya eSIM hattı aktif değil | eSIM hattı için **Veri Dolaşımı**'nın AÇIK olduğunu kontrol edin. eSIM'in `Ayarlar > Hücresel`'de AÇIK olduğundan emin olun. |
-| **QR kodu "Geçersiz" veya "Süresi Doldu" diyor** | QR kodun bir zaman sınırı vardır (24-72 saat) | Yeni bir QR kod için operatörle iletişime geçin. |
-| **eSIM profili desteklenmiyor hatası** | Operatör eSIM'i, telefonunuzun eksik olduğu özellikler gerektiriyor | En son iOS sürümüne güncelleyin. Uyumluluğu onaylamak için sağlayıcıyla iletişime geçin. |
-| **Etkinleştirmeden sonra veri bağlantısı yok** | APN ayarları eksik veya hatalı | APN ayarlarını manuel olarak yapılandırın (yukarıdaki bölüme bakın). |
-| **eSIM başka bir cihaza bağlı** | Profil eski cihazdan serbest bırakılmamış | Eski cihazda, eSIM hala görünüyorsa silin. Değilse, profil serbest bırakma için operatörle iletişime geçin. |
+## İki hattınızı seyahat için yapılandırın
 
-16 gerçek dünya vakasını kapsayan daha ileri düzey sorun giderme için **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/esim-deep-troubleshooting-guide-2026/)** sayfamıza bakın.
+- **Varsayılan Ses Hattı:** aramaların ve iMessage'ların normal numaranızda kalması için ev SIM'inizi tutun.
+- **Hücresel Veri:** bunu seyahat eSIM'ine yönlendirin.
+- **Hücresel Veri Değiştirmeye İzin Ver:** **KAPALI** bırakın. Açıkken kısa bir sinyal düşüşü, veriyi ev hattına çevirebilir ve günlük bir dolaşım ücreti tetikleyebilir.
+- **Veri Dolaşımı:** ev SIM'inde KAPALI, seyahat eSIM'inde AÇIK (seyahat eSIM'leri ortak ağlara ulaşmak için buna ihtiyaç duyar).
 
----
+Çekim çubukları görünüyor ama sayfalar açılmıyorsa, genellikle bir APN sorunudur — tam APN tablosu [derin sorun giderme rehberinde](/faq/esim-deep-troubleshooting-guide-2026/) yaşar.
 
-## Sıkça Sorulan Sorular (SSS)
+## "eSIM Ekle" gri görünüyor veya "Hücresel Plan Ekle" eksik
 
-**iPhone'umda kaç tane eSIM bulunabilir?**
-Bir iPhone'da 8 veya daha fazla eSIM profili saklayabilirsiniz. Ancak, modelinize bağlı olarak (iPhone 13 ve daha yenisi), aynı anda yalnızca iki eSIM aktif olarak çalışabilir (Çift eSIM).
+Seçenek gri görünüyorsa veya hiç yoksa, yukarıda bir şey engelliyor demektir. İşte nedenler, en yaygından başlayarak.
 
-**Fiziksel SIM'imi ve eSIM'imi aynı anda kullanabilir miyim?**
-Evet! iPhone'lar Çift SIM işlevselliğini destekler, yani aramalar ve metinler için fiziksel ev SIM'inizi aktif tutarken veri için bir seyahat eSIM'i kullanabilirsiniz.
+| Neden | Nasıl anlaşılır | Çözüm |
+|---|---|---|
+| Operatör kilitli iPhone | Ayarlar > Genel > Hakkında > Operatör Kilidi "No SIM restrictions" demiyor | Operatörünüz aracılığıyla kilidi açtırın veya kilitli operatörün kendi eSIM'ini kullanın |
+| Operatör eSIM sunmuyor | Operatörünüz yalnızca fiziksel SIM veriyor | Operatör değiştirin veya veri için bir seyahat eSIM kullanın |
+| eSIM yuvaları dolu | iPhone 13+ iki aktif eSIM tutar; XS–12 bir tane tutar | Yuva açmak için mevcut bir hattı kapatın veya kaldırın |
+| MDM / kurumsal profil | Yönetim profili kurulu bir iş telefonu | `AllowESIMModification` kısıtlaması değişiklikleri engeller — BT'ye başvurun |
+| Çin / Hong Kong modeli | Model numarası Çin'e özgü ek ile bitiyor, eSIM donanımı yok | eSIM, Çin anakarası iPhone'larda mevcut değildir |
+| Yazılım hatası | Son bir iOS güncellemesi menüyü bayat bıraktı | Yeniden başlatın, sonra tekrar kontrol edin |
 
-**Seyahatimden sonra eSIM'imi silebilir miyim?**
-Evet. Seyahatiniz bittiğinde ve planın süresi dolduğunda, Ayarlar > Hücresel'e gidin, eSIM'e dokunun ve **eSIM'i Sil**'i seçin.
-> ⚠️ **UYARI:** Hala seyahatteyken veya bağlantınız geçici olarak kesilirse eSIM'inizi ASLA silmeyin. Çoğu eSIM QR kodu yalnızca bir kez taranabilir. Silerseniz, planı kaybedersiniz ve yeni bir tane satın almanız gerekir!
+En büyük tekil neden operatör kilididir — "neden eSIM ekleyemiyorum" taleplerinin çoğunluğunu oluşturur. İkincisi, yalnızca iki aktif hata izin veren bir telefonda üçüncü bir hat eklemeye çalışmaktır.
 
-**eSIM kullanmak iPhone pilimi daha hızlı tüketir mi?**
-eSIM kullanmak, fiziksel SIM ile aynı miktarda pil tüketir. Ancak, zayıf sinyal alanında iki aktif hat (Çift SIM) çalıştırmak, telefonunuz ağları ararken hafif pil tüketimine neden olabilir.
+## Peki Apple Watch ve iPad?
+
+Bir Apple Watch, iPhone'unuzdaki hatlardan birini yansıtır — kendi başına bir seyahat eSIM kullanamaz — ve hücresel iPad'ler kendi Ayarlar > Hücresel Veri yollarını kullanır. Tam ayrıntılar [iPad ve Apple Watch eSIM rehberinde](/faq/ipad-apple-watch-esim-support-guide/).
+
+## iPhone'unuzda birden fazla eSIM'i yönetme
+
+İki veya üç profil kurduktan sonra, biraz düzen onların kafa karıştırıcı bir yığın olmasını önler.
+
+- **Her hattı etiketleyin.** Ayarlar > Hücresel > bir hat > Hücresel Plan Etiketi. "Ev", "Roami Seyahat" ve "İspanya eSIM", varsayılanlardan ("Birincil", "İkincil", "Seyahat") daha iyidir.
+- **Hatları açın veya kapatın.** Ayarlar > Hücresel > bir hat > Bu Hattı Aç. Kapalı, kaydolmayı bırakması demektir — sonraki seyahatte yeniden kullanmayı planladığınız uykudaki bir seyahat eSIM'i için kullanışlıdır.
+- **Veri hattını anında değiştirin.** Ayarlar > Hücresel > Hücresel Veri, yeniden başlatmadan hatlar arasında veriyi taşımanızı sağlar.
+- **Aktif hat sınırını izleyin.** iPhone 13 ve sonrası aynı anda iki aktif hata izin verir; üçüncü bir profil, birini kapatana kadar *saklanabilir* ama aktif olamaz.
+- **İşiniz bitince silin.** Seyahatten sonra süresi dolmuş seyahat eSIM'ini kaldırın (Ayarlar > Hücresel > hat > eSIM'i Sil) böylece listeyi kirletmesin — ancak yalnızca planın süresi dolduktan sonra, çünkü QR kodlar tek kullanımlıktır.
+
+## eSIM, iCloud yedekleri ve iPhone'unuzu silme
+
+Çoğu insanın zor yoldan öğrendiği bir şey: **eSIM'ler iCloud yedeğinizin parçası değildir.** Yedekten geri yükleme, uygulamalarınızı, ayarlarınızı ve fotoğraflarınızı geri getirir — ama hücresel profillerinizi getirmez. Profiller telefonun eUICC çipinde yaşar ve onları yalnızca üç şey taşır: Hızlı Aktarım, bir operatör yeniden vermesi veya sağlayıcınızdan yeniden indirme.
+
+Pratik sonuçları:
+
+- **"Tüm İçeriği ve Ayarları Sil" eSIM'lerinizi kaldırır.** Silmeden önce (satmak, takas etmek veya bir sorunu düzeltmek için), sonrasında her eSIM'i yeniden indirmeniz gerekeceğini bilin — ve tek kullanımlık QR kodlu seyahat eSIM'leri tamamen yeni bir plan gerektirebilir.
+- **Normal bir iCloud geri yüklemesi eSIM'leri silmez veya geri yüklemez.** *Aynı* telefona geri yüklemek eSIM'lerinize dokunmaz; *yeni* bir telefona geri yüklemek, hatlar için yine Hızlı Aktarım veya bir operatör yeniden vermesi gerektirir.
+- **Yedek, kaybolan bir eSIM'i kurtarmaz.** Telefonu silerseniz veya kırarsanız, operatör yeniden verene kadar profil gitmiştir. Sağlayıcınızın elle giriş dizilerini (SM-DP+ adresi + etkinleştirme kodu) telefondan ayrı bir yerde saklayın.
+
+## Yaygın iPhone eSIM Hataları
+
+En sık görülen başarısızlıklar — "Hücresel Plan Eklenemiyor", takılı "Etkinleştiriliyor", kurulumdan sonra "Servis Yok" — [eSIM Derin Sorun Giderme Rehberinde](/faq/esim-deep-troubleshooting-guide-2026/) hata bazında, APN değerleriyle birlikte ele alınır. En büyük tekil neden operatör kilitli bir telefondur; ikincisi, seyahat eSIM'inde Veri Dolaşımının açık bırakılmamasıdır.
+
+## Sıkça Sorulan Sorular
+
+**iPhone'umda kaç eSIM saklayabilirim?**
+Sekiz veya daha fazla profil; ancak aynı anda yalnızca ikisi aktif olabilir (iPhone 13 ve yenisi). Eski modeller (XS–12) bir aktif eSIM ve bir fiziksel SIM tutar.
+
+**Seyahatten sonra eSIM'imi silebilir miyim?**
+Evet — Ayarlar > Hücresel > eSIM > eSIM'i Sil, planın süresi dolduktan sonra. Seyahat ortasında asla silmeyin: QR kodlar tek kullanımlıktır, yoksa yeni bir plan gerekirdi.
+
+**eSIM iPhone pilini tüketir mi?**
+Anlamlı ölçüde değil. Zayıf sinyalli bir alanda iki aktif hat günde bir iki yüzde ekleyebilir, ancak tek bir eSIM yaklaşık olarak bir fiziksel SIM kadar çeker.
+
+**iPhone'da seyahat eSIM'i için Veri Dolaşımı açık olmalı mı?**
+Evet — eSIM'in ortak ağlara kaydolması için gereklidir ve dolaşım ücreti eklemez. Bunu atlamak, "Servis Yok"un 1 numaralı nedenidir.
+
+**iPhone'da fiziksel SIM ve eSIM'i birlikte kullanabilir miyim?**
+Evet — çift SIM kutudan çıkar çıkmaz çalışır. (ABD iPhone 14 ve yenisi yalnızca eSIM'dir; bu yüzden iki eSIM'i bir araya getirirsiniz.) Çift SIM'in nasıl çalıştığı için [iPhone uyumluluk merkezine](/faq/iphone-11-esim-compatible/) bakın.
 
 **eSIM ile fiziksel SIM arasındaki fark nedir?**
-eSIM, fiziksel olarak çıkarılamayan dijital bir SIM'dir. Aynı işlevselliği sunar ancak daha fazla esneklik sağlar: operatörleri değiştirebilir, birden fazla profil depolayabilir ve fiziksel bir kart beklemeden anında planları etkinleştirebilirsiniz. Bu, **eSIM vs fiziksel SIM** karşılaştırmasında gezginler için açık bir kazançtır.
+Kısa versiyon: bir eSIM, kaldıramayacağınız dijital bir profildir ve operatörleri anında değiştirir. Tam karşılaştırma [eSIM nedir?](/faq/what-is-esim/) makalesindedir.
 
-**Telefonumun eSIM uyumlu olup olmadığını nasıl anlarım?**
-`*#06#` tuşlayın – bir EID görünüyorsa, telefonunuz eSIM'i destekliyordur. Veya Dijital SIM veya EID girişi için **Ayarlar > Genel > Hakkında**'yı kontrol edin. iPhone kullanıyorsanız ve hala emin değilseniz, resmi [Apple eSIM destek sayfası](https://support.apple.com/en-us/108072) uyumlu modellerin ayrıntılı bir listesini sağlar.
+**Fiziksel SIM'imi iPhone'umda eSIM'e dönüştürebilir miyim?**
+Operatörünüz destekliyorsa evet — Ayarlar > Hücresel > hattınız > eSIM'e Dönüştür. ABD'deki büyük üçlü destekler; birçok MVNO desteklemez. Dönüştürmek için telefonunuzun o operatörün ağında olması gerekir.
 
-**eSIM'imi bir telefondan diğerine aktarabilir miyim?**
-Evet – iOS 19 Hızlı Aktarım (iPhone'dan iPhone'a) veya platformlar arası aktarım (iPhone ↔ Android) kullanarak. Adım adım talimatlar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/how-to-transfer-esim-between-iphone-and-android/)** bakın.
+**iPhone'umda "eSIM Ekle" neden gri görünüyor?**
+Genellikle bir operatör kilidi, dolu bir eSIM yuvası veya değişiklikleri engelleyen kurumsal bir MDM profili. Önce Ayarlar > Genel > Hakkında > Operatör Kilidi'ni kontrol edin — "No SIM restrictions" demiyorsa, yanıtınız bu.
 
-**Seyahat eSIM'i nedir?**
-**Seyahat eSIM'i**, uluslararası seyahatler için tasarlanmış yalnızca veri içeren bir eSIM'dir. Kalkıştan önce satın alır, evde kurar ve varışta etkinleştirirsiniz – dolaşım ücreti yok, havaalanı SIM büfeleri yok.
+**iPhone'umu silersem eSIM'ime ne olur?**
+"Tüm İçeriği ve Ayarları Sil" eSIM profillerini kaldırır. Sonrasında operatörünüzden yeniden indirmeniz gerekir. Tek kullanımlık QR kodlu seyahat eSIM'leri yeni bir plan gerektirebilir; bu yüzden her şeyi yeniden kurmaya hazır olduğunuzda silin.
 
----
+**Artık eski iPhone'um yoksa Hızlı Aktarım çalışır mı?**
+Hayır — her iki telefonun da mevcut ve açık olması gerekir. Eski iPhone'unuz satıldıysa, kaybolduysa veya sıfırlandıysa, operatörünüzden eSIM'i yeniden vermesini isteyin. [Aktarım rehberine](/faq/how-to-transfer-esim-between-iphone-and-android/) bakın.
 
-## Bir sonraki maceranıza hazır mısınız?
-
-**iPhone'da eSIM nasıl kullanılır** öğrenmek, size sorunsuz bağlantı dünyasının kapılarını açar. Artık havaalanı büfelerinde sıra beklemek veya fahiş dolaşım ücretleri ödemek yok.
-
-Belirli destinasyonlara seyahat edenler için destinasyon kılavuzlarımıza göz atın: **[ABD için eSIM](/united-states-esim/)**, **[Japonya için eSIM](/japan-esim/)**, **[Avrupa için eSIM](/europe-esim/)** veya **[BK için eSIM](/united-kingdom-esim/)**.
-
-*Bir sonraki seyahatinize hazır mısınız? Küresel eSIM planlarımıza göz atın ve anında teslimat ve kolay kurulum ile dünyanın her yerinde bağlı kalın!*
-
+**Seyahatler arasında iPhone'umda seyahat eSIM'imi duraklatabilir miyim?**
+Planın geçerlilik saatini duraklatamazsınız, ancak hattı KAPALI duruma getirebilirsiniz (Ayarlar > Hücresel > hat > Bu Hattı Aç); böylece kaydolmayı bırakır ve pil kullanmayı durdurur. Planın geçerlilik penceresi bitmediği sürece saklı kalır ve sonraki seyahatte açılmaya hazır olur.
 
 ---
-*Apple resmi dokümantasyonu, GSMA standartları ve operatör testlerine dayanmaktadır. Güncelleme: Haziran 2026.*
+
+## Sonraki maceranıza hazır mısınız?
+
+👉 **Önce ücretsiz deneyin** — bir [ücretsiz eSIM](/free-esim/) alın ve bu anlatımı baştan sona uygulayın.
+
+Sonra varış noktanızı seçin:
+
+- [ABD için eSIM](/united-states-esim/)
+- [Japonya için eSIM](/japan-esim/)
+- [Avrupa için eSIM](/europe-esim/)
+- [İngiltere için eSIM](/united-kingdom-esim/)
+
+*Apple resmi belgeleri, GSMA standartları ve operatör testlerine dayanmaktadır. Güncellendi: Eylül 2026.*
+
+## Kaynaklar
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Use Dual SIM with an eSIM](https://support.apple.com/en-us/HT209086)

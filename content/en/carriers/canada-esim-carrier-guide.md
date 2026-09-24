@@ -1,8 +1,8 @@
 ---
-title: "Canada eSIM Guide: Which Carrier Actually Works for Your Trip? (2026)"
-description: "Planning a trip to Canada? We tested eSIM speeds in 8 cities and along the Trans-Canada Highway. Find out which carrier works best for your route — and where you'll lose signal."
+title: "Canada eSIM Carriers: Bell vs Rogers vs TELUS (2026 Guide)"
+description: "Bell, Rogers, TELUS, SaskTel or Lucky Mobile — which Canadian carrier should your eSIM use? Roami compares real speeds, prepaid rules and APN settings, with one eSIM that switches across all three national networks."
 date: "2026-06-17T06:04:17+00:00"
-keywords: Canada eSIM, Bell eSIM, Rogers eSIM, TELUS eSIM, Canada 5G coverage, Trans-Canada Highway cell coverage, eSIM Canada review, best eSIM for Canada travel
+keywords: Canada eSIM carriers, Bell eSIM, Rogers eSIM, TELUS eSIM, SaskTel eSIM, Lucky Mobile eSIM, Canada 5G coverage, Canada eSIM APN, eSIM Canada prepaid, best eSIM carrier Canada
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -10,377 +10,364 @@ breadcrumb_items:
   url: /
 - name: Canada eSIM Guide
   url: ''
-hero_badge: '🍁 Canada Travel eSIM Guide 2026'
-hero_subtitle_main: 'Canada eSIM: Which carrier should you choose?'
-hero_subtitle_highlight: We tested speeds in 8 cities and along the Trans-Canada Highway
-hero_description_line1: 'Planning a trip to Canada? Here''s the honest answer: Bell is fastest in cities, Rogers is best for video, and TELUS keeps you connected on remote highways.'
-hero_description_line2: We tested all three so you don't have to guess.
-hero_link_text: Canada eSIM
-hero_link_url: https://www.roamiapp.com/canada-esim/?utm_source=matrix&utm_medium=canada_guide&utm_campaign=hero
-tldr_summary: 'Staying in Toronto or Vancouver? Pick Bell — it''s the fastest. Watching lots of videos? Rogers has the best streaming quality. Driving through the Rockies or rural Canada? TELUS has the fewest dead zones. And if your trip includes a quick hop to Niagara Falls (US side), make sure you get a North America plan, not a Canada-only one. Our full guide breaks down speeds, coverage gaps, and the 5 mistakes most travelers make.'
-sidebar_more_hint: Swipe to see more
-sidebar_title: Canada eSIM Quick Links
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Which carrier for your trip? (Quick answer)'
-- href: '#operators'
-  text: 'Bell vs Rogers vs TELUS: What we found'
-- href: '#cost-comparison'
-  text: 'eSIM vs physical SIM vs roaming: Real costs'
-- href: '#pitfalls'
-  text: '7 things to know before you buy'
-- href: '#city-guide'
-  text: 'Best eSIM for your city (8 cities tested)'
-- href: '#province-guide'
-  text: 'Coverage by province'
-- href: '#route-guide'
-  text: 'Best eSIM for your road trip'
-- href: '#setup-guide'
-  text: 'How to install your Canada eSIM'
-- href: '#faq'
-  text: 'Common questions (15 answered)'
-- href: '#myths'
-  text: 'Myths vs facts'
-- href: '#data-sources'
-  text: 'Where our data comes from'
-quick_picks_title: 'Which carrier for your trip? (Quick answer)'
-quick_picks_table_headers:
-- Your trip
-- Best carrier
-- Why
-- What to watch out for
-quick_picks_note_prefix: 'Data source: '
-quick_picks_note_carrier: '[Ookla Speedtest Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)'
-quick_picks_note_text: ' and our own field testing.'
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Working remotely / video calls
-  carrier: Bell
-  carrier_class: text-blue-600
-  reason: 'Fastest 5G in Canada (171 Mbps median). Video calls stay smooth, large files upload quickly. What to watch: If you''re heading to northern Canada or remote highways, Bell''s signal is less reliable than TELUS.'
-- travel: Watching videos / social media
-  carrier: Rogers
-  carrier_class: text-red-600
-  reason: 'Best video experience in Canada (score 86.03). YouTube, Netflix, and Instagram load without buffering. What to watch: Uploading large files is slower than Bell.'
-- travel: Road trip / hiking / rural areas
-  carrier: TELUS
-  carrier_class: text-purple-600
-  reason: 'Most consistent signal in rural Canada (85.6% reliability). Fewest dead zones on mountain highways. What to watch: If you''re only in Toronto or Vancouver, TELUS isn''t the fastest — Bell is.'
-- travel: City break (3–5 days)
-  carrier: Bell or Rogers
-  carrier_class: text-green-600
-  reason: 'Both work great in Toronto, Vancouver, Montreal, and Calgary. What to watch: If your trip includes a US border crossing, you need a North America plan — not a Canada-only one.'
-- travel: Budget traveler
-  carrier: Any — pick the cheapest plan
-  carrier_class: text-gray-600
-  reason: 'All three carriers share towers in many areas. If you''re staying in cities, the difference between them is smaller than the price difference between plans. What to watch: Cheap plans often throttle after 10–20 GB. Read the fine print.'
-- travel: Family trip with multiple devices
-  carrier: TELUS or Bell
-  carrier_class: text-indigo-600
-  reason: 'Both support hotspot tethering well. TELUS has slightly better rural coverage if you''re renting a car. What to watch: Hotspot drains data fast. If you''re sharing with 2–3 devices, get at least 50 GB.'
-- travel: Business trip (1–2 cities)
-  carrier: Bell
-  carrier_class: text-blue-700
-  reason: 'Fastest upload speeds for presentations and file transfers. Best in Toronto, Vancouver, Montreal, and Calgary. What to watch: If your hotel has poor signal, ask for a room on a higher floor — signal improves above the 5th floor in most Canadian cities.'
-- travel: Visiting family in a small town
-  carrier: TELUS
-  carrier_class: text-purple-700
-  reason: 'Best rural coverage. If your family lives outside a major city, TELUS is the safest bet. What to watch: Even TELUS has gaps. Ask your family which carrier they use — locals always know best.'
-cta_button_main_text: See Canada eSIM plans
-cta_button_sub_text: Works with Bell, Rogers & TELUS — switches automatically
-operator_labels:
-  best_for: 'Best for:'
-  core_data: 'What we found:'
-  connect_note_label: 'eSIM note:'
-operators:
-- id: bell-esim
-  title: 'Bell: Fastest in cities'
-  best_for: Remote workers, business travelers, anyone who needs fast uploads and smooth video calls.
-  core_data: '- **Download speed**: 171 Mbps median (fastest in Canada)
-
-    - **Our test**: Toronto 182 Mbps / Vancouver Airport 156 Mbps / Banff 67 Mbps
-
-    - **Best for**: Cities and airports'
-  arcep_note: Bell meets all Canadian government coverage requirements in major cities.
-  connect_note: Works with most eSIMs. If your eSIM supports multi-network switching, it will connect to Bell automatically in cities.
-  user_scenarios: '- **Toronto**: Stream 4K video from CN Tower without buffering.
-
-    - **Vancouver Airport**: Download work files in under 30 seconds.
-
-    - **Banff**: Navigation works fine, but 5G drops to LTE in town.'
-  bg_color: bg-blue-50
-- id: rogers-esim
-  title: 'Rogers: Best for video and streaming'
-  best_for: Travelers who watch a lot of video, scroll social media, or stream music.
-  core_data: '- **Video score**: 86.03 (best in Canada)
-
-    - **5G availability**: 86.7% (highest in Canada)
-
-    - **Our test**: Toronto 164 Mbps / Montreal Underground 89 Mbps / Niagara Falls 142 Mbps'
-  arcep_note: Rogers meets all Canadian government quality standards for video streaming.
-  connect_note: Works with most eSIMs. If your eSIM supports multi-network switching, it will connect to Rogers where video performance is best.
-  user_scenarios: '- **Toronto**: Watch a Blue Jays game live without lag.
-
-    - **Montreal Underground City**: YouTube works fine, but no 5G underground.
-
-    - **Niagara Falls**: Post live videos to social media with zero buffering.'
-  bg_color: bg-red-50
-- id: telus-esim
-  title: 'TELUS: Best for road trips and rural areas'
-  best_for: Road trippers, hikers, campers, and anyone leaving the big cities.
-  core_data: '- **Reliability**: 85.6% (best in Canada)
-
-    - **Download speed**: 102 Mbps median
-
-    - **Our test**: Trans-Canada Highway 42 Mbps / Whistler 58 Mbps / Calgary 138 Mbps'
-  arcep_note: TELUS has invested heavily in rural infrastructure, providing consistent service outside major cities.
-  connect_note: Works with most eSIMs. If your eSIM supports multi-network switching, it will connect to TELUS automatically in rural areas.
-  user_scenarios: '- **Trans-Canada Highway**: Only carrier with signal through Glacier National Park.
-
-    - **Whistler**: Stay connected on the slopes for emergency calls.
-
-    - **Prince Edward Island**: Video calls work while exploring coastal villages.'
-  bg_color: bg-purple-50
-cards_compatibility_title: Check if your phone works in Canada
-cards_compatibility_desc: Make sure your phone supports Canadian 5G bands before you buy
-cards_free_title: Get your free Canada eSIM
-cards_free_desc: Limited free trial eSIM — test the network before you buy
-cards_free_badge: FREE
-cards_app_title: Download Roami App & get 20% off eSIM
-cards_app_desc: 'Discount code: <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base''>web20</strong> | One‑tap eSIM management'
-cards_compatibility_link: https://www.roamiapp.com/compatibility/?utm_source=matrix&utm_medium=canada_guide&utm_campaign=compatibility
-cards_free_link: https://www.roamiapp.com/free-esim/?utm_source=matrix&utm_medium=canada_guide&utm_campaign=free
-cards_app_link: https://www.roamiapp.com/app/?utm_source=matrix&utm_medium=canada_guide&utm_campaign=app
-before_buy_title: 7 things to know before you buy a Canada eSIM
-before_buy_sections:
-- heading: '1. Check if your phone supports band n71'
-  content: 'Canada uses a special frequency called n71 (600 MHz) for rural 5G. Many older phones — and some international iPhone models — don''t support it. If yours doesn''t, you''ll drop to slower LTE outside cities. Here''s how to check: go to your phone manufacturer''s website, find your exact model number (not just "iPhone 14" — the regional variant matters), and look for "n71" in the 5G band list. If it''s not there, you''ll still get LTE, but rural 5G won''t work. This matters most if you''re driving between cities or visiting national parks. If you''re staying in downtown Toronto or Vancouver, you probably won''t notice the difference.'
-- heading: '2. Canada uses data fast — budget accordingly'
-  content: 'Canadian networks are fast, which means you''ll burn through data quicker than you expect. A 10 GB plan that lasts a week in Europe might only last 3 days in Canada if you''re streaming video. Why? Because fast networks encourage more usage — you''ll stream higher quality, upload more photos, and use GPS without thinking about it. If you''re staying more than a week, start with at least 20 GB. If you''re working remotely, go with 50 GB or unlimited. If you''re traveling with family and sharing hotspot, double that. A good rule of thumb: 1 GB per day for light use, 2–3 GB per day for moderate use, 5+ GB per day for heavy use.'
-- heading: '3. A Canada-only eSIM stops working at the US border'
-  content: 'If your trip includes a day trip to Niagara Falls (US side), Alaska, or any cross-border shopping, a Canada-only eSIM will stop working the moment you cross. You won''t get a warning — your data just stops. Buy a North America plan instead. The price difference is usually $5–10, and it saves you from buying a second eSIM mid-trip. This is especially important if you''re doing a road trip that crosses the border multiple times. If you''re flying into Canada and staying put, a Canada-only plan is fine. But if you''re driving, always check the map before you buy.'
-- heading: '4. Northern Canada has very limited coverage'
-  content: 'Yukon, Northwest Territories, and Nunavut have sparse coverage. TELUS has the best signal, but expect large gaps between towns — sometimes 100+ km with no service at all. Download offline maps for any area north of Prince George, BC. If you''re going truly remote (like the Dempster Highway), consider a satellite messenger like Garmin inReach. Your eSIM will work in towns, but don''t rely on it between them. If you''re visiting Whitehorse or Yellowknife, you''ll have coverage in the city — but the moment you leave, it''s gone. Plan accordingly.'
-- heading: '5. Activate your eSIM before you board your flight'
-  content: 'Toronto Pearson and Vancouver Airport have congested Wi-Fi — especially during peak arrival times (early morning and late afternoon). If you wait until you land to activate, you might struggle to get online when you need it most. Activate before you fly. Most eSIMs connect automatically when you land, so you''ll have data the moment you turn off airplane mode. If you''re arriving at a smaller airport, this matters even more — their Wi-Fi is often slower. If you''re arriving late at night and need a ride, you''ll want data immediately. Don''t rely on airport Wi-Fi.'
-- heading: '6. Canadian cell plans are among the most expensive in the world'
-  content: 'Canada has some of the highest mobile data prices in the developed world. A local prepaid SIM with 10 GB can cost $40–60 CAD. A travel eSIM with the same data usually costs $15–25 USD. If you''re staying for more than two weeks, a local SIM might be worth it — but you''ll need to visit a carrier store, show ID, and wait in line. For shorter trips, an eSIM is almost always cheaper and faster to set up. If you''re comparing prices, make sure you''re comparing apples to apples — some local plans have activation fees, and some eSIMs have hidden throttling.'
-- heading: '7. Your eSIM won''t give you a Canadian phone number'
-  content: 'Data-only eSIMs don''t come with a phone number. If you need to make local calls — for example, to book a restaurant, call a taxi, or verify a bank account — you''ll need a voice plan or a VoIP service like Google Voice, Skype, or WhatsApp Calling. Most travelers don''t need a Canadian number. WhatsApp, iMessage, and email work fine over data. But if you''re doing business in Canada or staying long-term, you might need a local number. Plan ahead: set up a VoIP service before you leave, or buy a voice-capable eSIM if you need one.'
-cost_comparison_title: 'eSIM vs physical SIM vs roaming: Real costs for a 10-day Canada trip'
-cost_comparison_desc: 'We compared the three main options for staying connected in Canada. Prices are in USD, based on a 10-day trip with moderate data use (10 GB).'
-cost_comparison_table_headers:
-- Option
-- Cost
-- Setup time
-- Pros
-- Cons
-cost_comparison_rows:
-- option: Travel eSIM (data-only)
-  cost: '$15–25'
-  setup: '2 minutes (before you fly)'
-  pros: 'Cheap, instant, no ID needed, works with all carriers'
-  cons: 'No phone number, data-only'
-- option: Local prepaid SIM
-  cost: '$40–60 CAD + activation fee'
-  setup: '30–60 minutes (in-store, with ID)'
-  pros: 'Comes with a Canadian number, can make local calls'
-  cons: 'Expensive, requires store visit, passport needed'
-- option: Home carrier roaming
-  cost: '$10–15 per day ($100–150 total)'
-  setup: 'None (works automatically)'
-  pros: 'No setup, keeps your home number'
-  cons: 'Very expensive, often throttled after 1–2 GB per day'
-- option: Free airport Wi-Fi only
-  cost: '$0'
-  setup: 'None'
-  pros: 'Free'
-  cons: 'Only works in airports, slow, insecure, not practical for navigation'
-cost_comparison_footer: '💡 Bottom line: For most travelers, a travel eSIM is the cheapest and fastest option. If you need a Canadian phone number, a local SIM is worth the extra cost and setup time. Roaming is almost always the most expensive option — avoid it unless your company is paying.'
-city_guide_title: 'Best eSIM for your city (8 cities tested)'
-city_guide_desc: We tested speeds in 8 Canadian cities. Here's what works best where — and what to watch out for.
-city_table_headers:
-- City
-- Best carrier
-- Our test results
-- Good to know
-city_recommendations:
-- city: Vancouver
-  carriers: Bell
-  reason: 'Downtown 156 Mbps / Airport 142 Mbps. Fastest city in Canada. If you''re going to Whistler, TELUS has stronger signal in the village. The Sea-to-Sky Highway has patchy coverage between Squamish and Whistler — download offline maps. If you''re taking the SkyTrain, coverage is good on all lines except the Canada Line tunnel under downtown.'
-- city: Toronto
-  carriers: Rogers
-  reason: 'CN Tower 178 Mbps / Pearson Airport 134 Mbps. Best for video. The subway has poor signal on all carriers — download offline content before you go underground. Downtown Toronto during rush hour can be congested on all networks. If you''re attending a concert at Scotiabank Arena, expect slow data during events — 20,000 people on the same towers.'
-- city: Montreal
-  carriers: Bell
-  reason: 'Downtown 148 Mbps. Bell''s 5G is strong throughout Montreal. The Underground City has no 5G on any carrier — you''ll drop to LTE or lose signal entirely in some tunnels. Old Montreal has weaker signal indoors due to stone buildings. If you''re visiting during Festival season (June–August), expect congestion in the Plateau and Quartier des Spectacles.'
-- city: Calgary
-  carriers: TELUS
-  reason: 'Downtown 138 Mbps. Best for Rocky Mountain day trips. Banff town center drops to LTE on all carriers. If you''re driving to Lake Louise, expect patchy coverage on the Trans-Canada Highway west of Calgary. The Calgary Stampede (July) brings 1M+ visitors — expect slow data downtown during the event. If you''re staying in a hotel near the Stampede grounds, ask for a room away from the grounds for better signal.'
-- city: Edmonton
-  carriers: TELUS
-  reason: 'Downtown 142 Mbps. Consistent coverage across the city. West Edmonton Mall has dead zones near the indoor theme park — even on TELUS. If you''re going to Jasper, download offline maps before you leave. The Icefields Parkway between Lake Louise and Jasper has almost no coverage — 230 km with only a few gaps. Fill up on gas before you go.'
-- city: Ottawa
-  carriers: Bell
-  reason: 'Downtown 134 Mbps. Works well across the capital. Signal drops along the Ottawa River Parkway and in some parts of Gatineau. If you''re visiting Parliament Hill, coverage is excellent. If you''re here for Winterlude (February), expect cold-weather battery drain — your phone will lose charge faster in -20°C temperatures. Bring a portable charger.'
-- city: Quebec City
-  carriers: Bell
-  reason: 'Old Quebec 128 Mbps. Strong coverage in tourist areas. Old stone buildings can weaken signal indoors — if you''re staying in a historic hotel, you might need to go outside for calls. Montmorency Falls has good coverage. If you''re visiting during Carnaval (February), expect congestion in Old Quebec — 100,000+ visitors on the same towers.'
-- city: Halifax
-  carriers: Rogers
-  reason: 'Downtown 118 Mbps. Best coverage in Nova Scotia. Coastal areas drop to LTE quickly. If you''re driving the Cabot Trail in Cape Breton, download offline maps — coverage is spotty along the coast. If you''re taking the ferry to Newfoundland, coverage stops about 30 minutes after leaving port. Download entertainment before you board.'
-city_guide_tip: '💡 Tip: A multi-network eSIM switches to the best carrier automatically — no manual selection needed. This is especially useful on road trips where coverage changes between carriers. You don''t need to know which carrier is best in each city; your eSIM handles it for you.'
-province_guide_title: 'Coverage by province: What to expect'
-province_guide_desc: 'Canada is huge. Coverage varies dramatically by province. Here''s what to expect in each region.'
-province_guide_items:
-- province: British Columbia
-  coverage: 'Excellent in Vancouver, Victoria, and Whistler. Good along the Trans-Canada Highway. Patchy in the Rockies and northern BC.'
-  best_carrier: 'TELUS for rural, Bell for cities'
-  watch_out: 'Rogers Pass has 40 km with no signal. Vancouver Island''s west coast (Tofino, Ucluelet) has limited coverage.'
-- province: Alberta
-  coverage: 'Excellent in Calgary and Edmonton. Good in Banff and Jasper townsites. Patchy on the Icefields Parkway.'
-  best_carrier: 'TELUS'
-  watch_out: 'The Icefields Parkway has almost no coverage for 230 km. Download offline maps.'
-- province: Ontario
-  coverage: 'Excellent in Toronto, Ottawa, and major highways. Good in most towns. Patchy in northern Ontario.'
-  best_carrier: 'Bell or Rogers in cities, TELUS in rural'
-  watch_out: 'Northern Ontario (north of Sudbury) has large gaps. The Trans-Canada Highway through Ontario has spotty coverage.'
-- province: Quebec
-  coverage: 'Excellent in Montreal and Quebec City. Good along the St. Lawrence River. Patchy in the Gaspé Peninsula and northern Quebec.'
-  best_carrier: 'Bell'
-  watch_out: 'The Gaspé Peninsula has limited coverage. If you''re driving the full loop, download offline maps.'
-- province: Nova Scotia
-  coverage: 'Good in Halifax and along the south shore. Patchy on the Cabot Trail.'
-  best_carrier: 'Rogers'
-  watch_out: 'The Cabot Trail has dead zones. Download offline maps before you go.'
-- province: Newfoundland
-  coverage: 'Good in St. John''s and along the Trans-Canada Highway. Patchy on the west coast.'
-  best_carrier: 'Bell'
-  watch_out: 'Coverage stops about 30 minutes after leaving the ferry from Nova Scotia. Download entertainment before you board.'
-- province: Yukon / NWT / Nunavut
-  coverage: 'Limited to towns and highways. Large gaps between communities.'
-  best_carrier: 'TELUS (limited)'
-  watch_out: 'The Dempster Highway has almost no coverage for 700+ km. Consider a satellite messenger.'
-province_guide_footer: '💡 If you''re driving across multiple provinces, a multi-network eSIM is your best bet — it switches to whichever carrier has the strongest signal in each area.'
-route_guide_title: 🎯 Best eSIM for your road trip
-route_items:
-- icon: 🏔️
-  title: Banff & Jasper Loop
-  text: 'Calgary → Banff → Jasper → Edmonton. Best carrier: TELUS. It has the fewest dead zones on the Icefields Parkway — a 230 km drive with almost no towns. Bell is faster in Banff town but drops around Saskatchewan River Crossing, a 40 km stretch with no signal on any carrier. Download offline maps for the entire Icefields Parkway before you go. If you''re hiking, tell someone your route — there''s no cell service on most trails. Fill up on gas in Lake Louise before heading north — the next station is in Jasper, 230 km away.'
-- icon: 🚗
-  title: Trans-Canada Highway (Vancouver → Calgary)
-  text: 'Best carrier: TELUS. Rogers Pass and Glacier National Park have 30–40 km stretches with no signal on any carrier — not even TELUS. TELUS has the most consistent coverage through the mountain passes, but you''ll still lose signal in the deepest valleys. Download offline maps for Rogers Pass, Glacier National Park, and Yoho National Park. Fill up on gas before long stretches — some gas stations are 100+ km apart. If you''re driving in winter, check road conditions before you leave — the highway can close for avalanches.'
-- icon: 🏙️
-  title: Toronto → Montreal → Quebec City
-  text: 'Best carrier: Bell or Rogers. Both work well. Rogers has slightly better video streaming in Toronto; Bell is faster in Montreal. VIA Rail has patchy signal between Kingston and Brockville — about 45 minutes of unreliable coverage. If you''re taking the train, download entertainment before you board. In Montreal, the Underground City has no 5G on any carrier. If you''re driving, the 401 highway has excellent coverage — you can stream music the whole way.'
-- icon: 🐻
-  title: Northern Canada (Yukon / NWT)
-  text: 'Best carrier: TELUS (limited). Coverage is limited to towns along highways — Whitehorse, Yellowknife, and a few others. Expect LTE only, and large gaps between communities. The Dempster Highway has almost no coverage for 700+ km. Download offline maps. Consider a satellite messenger if you''re going remote. Your eSIM will work in towns, but don''t rely on it between them. If you''re visiting in winter, battery drain is a real issue — keep your phone warm.'
-- icon: 🏖️
-  title: Atlantic Canada Loop (Nova Scotia → PEI → Newfoundland)
-  text: 'Best carrier: Rogers in Nova Scotia, Bell in Newfoundland. The Cabot Trail in Cape Breton has dead zones — download offline maps. The ferry from Nova Scotia to Newfoundland has no coverage — download entertainment before you board. Prince Edward Island has good coverage on the main highways, but patchy on coastal roads. If you''re visiting in summer, expect congestion in tourist areas like Peggy''s Cove and Cavendish.'
-- icon: 🌲
-  title: Northern Ontario (Toronto → Thunder Bay)
-  text: 'Best carrier: TELUS. The Trans-Canada Highway through northern Ontario has large gaps between towns — sometimes 100+ km with no signal. Download offline maps for the entire route. If you''re driving at night, fill up on gas before long stretches — some stations close early. If you''re visiting in winter, check road conditions before you leave — the highway can close for snowstorms.'
-route_guide_footer: '💡 A multi-network eSIM automatically switches to the best carrier — no manual setup required. This is especially useful on long drives where coverage changes between carriers. You don''t need to research which carrier works where; your eSIM figures it out for you.'
-setup_guide_title: 'How to install your Canada eSIM (step-by-step)'
-setup_guide_desc: 'Installing an eSIM takes about 2 minutes. Here''s how to do it before you fly.'
-setup_steps:
-- step: '1. Check your phone supports eSIM'
-  detail: 'Most phones made after 2018 support eSIM. iPhone XR and later, Google Pixel 3 and later, and Samsung Galaxy S20 and later all support eSIM. If you''re not sure, check your phone''s settings — look for "Add eSIM" or "Add Cellular Plan."'
-- step: '2. Buy your eSIM before you fly'
-  detail: 'Purchase your Canada eSIM online. You''ll receive a QR code via email. Don''t wait until you land — airport Wi-Fi is often congested.'
-- step: '3. Install the eSIM'
-  detail: 'Go to Settings > Cellular > Add eSIM. Scan the QR code. Your phone will download the eSIM profile. This takes about 30 seconds.'
-- step: '4. Label your eSIM'
-  detail: 'Give your eSIM a name like "Canada Travel" so you can tell it apart from your home SIM. This makes it easier to switch between them.'
-- step: '5. Set your data line'
-  detail: 'Go to Settings > Cellular > Cellular Data. Select your Canada eSIM as the data line. Keep your home SIM active for calls and texts if you want.'
-- step: '6. Turn on data roaming'
-  detail: 'Yes, you need to turn on data roaming for your eSIM. Don''t worry — you won''t be charged roaming fees because your eSIM uses a local Canadian network.'
-- step: '7. Activate when you land'
-  detail: 'When you land in Canada, turn off airplane mode. Your eSIM will connect automatically. If it doesn''t, go to Settings > Cellular > Network Selection and manually select Bell, Rogers, or TELUS.'
-setup_guide_footer: '💡 If you''re using a multi-network eSIM, it will automatically connect to the strongest carrier. You don''t need to manually select a network. If you''re using a single-carrier eSIM, you may need to select the network manually.'
-faq_title: Common questions about Canada eSIM (15 answered)
-faq_prefix: 'Q'
-faq_suffix: ': '
-faq_more_link_text: More questions? View full FAQ →
-faq_more_link_url: https://www.roamiapp.com/faq/?utm_source=matrix&utm_medium=canada_guide&utm_campaign=faq
-faq:
-- q: Does eSIM work on the Trans-Canada Highway?
-  a: 'Yes, but with gaps. Expect 30–40 km of no signal around Rogers Pass and Glacier National Park — on any carrier. TELUS has the most consistent coverage through mountain passes, but you''ll still lose signal in deep valleys. Download offline maps before you go. If you''re driving the whole highway, consider downloading podcasts or audiobooks for the dead zones.'
-- q: Can I use a Canada eSIM in the US?
-  a: 'Only if it''s a North America plan. A Canada-only eSIM stops working the moment you cross the border — no warning, no grace period. If your trip includes Niagara Falls (US side), Alaska, or any cross-border shopping, buy a North America plan instead. The price difference is usually $5–10, and it saves you from buying a second eSIM mid-trip.'
-- q: Which Canadian carrier has the best signal in rural areas?
-  a: 'TELUS, by a small margin. It has the highest reliability score in Canada (85.6%), meaning fewer dropped connections outside cities. Bell is faster in cities but less consistent on remote highways. Rogers has more dead zones in rural areas. If you''re driving through the Rockies or going to northern Canada, TELUS is your best bet.'
-- q: Do I need a Canadian phone number for eSIM?
-  a: 'No. Data-only eSIMs don''t come with a phone number. If you need to make local calls or receive SMS codes (for example, to verify a bank account or book a restaurant), you''ll need a voice plan or a separate VoIP service like Google Voice or Skype. Most travelers don''t need a Canadian number — WhatsApp, iMessage, and email work fine over data.'
-- q: Why is my Canada eSIM slow in Toronto?
-  a: 'Two common reasons: (1) You''re on LTE, not 5G — check if your phone supports n71/n78. If it doesn''t, you''ll be on LTE in many areas. (2) You''re in a crowded area like downtown Toronto or the subway, where all carriers struggle. Try manually selecting a different network in your eSIM settings. If you''re in the subway, no carrier works well — download offline content before you go underground.'
-- q: Can I use my Canada eSIM as a hotspot?
-  a: 'Yes, most data-only eSIMs support hotspot tethering. Check your plan details — some budget plans disable it. If you need to share data with a laptop or tablet, confirm before buying. Hotspot use drains your data faster, so if you''re sharing with multiple devices, consider a larger plan.'
-- q: How much data do I need for a 1-week trip to Canada?
-  a: 'Light use (maps, messaging, occasional browsing): 5 GB. Moderate use (social media, some video, GPS): 10 GB. Heavy use (video calls, streaming, hotspot): 20 GB or more. Canada''s fast networks mean you''ll use data faster than you expect — streaming video defaults to higher quality on fast connections. If you''re working remotely, go with 50 GB or unlimited.'
-- q: What happens if I run out of data in Canada?
-  a: 'Most eSIM providers let you top up instantly from their app or website. You don''t need to buy a new eSIM — just add a data pack to your existing plan. If you''re in a remote area, top up before you lose signal. In towns and cities, you can usually top up within a few minutes.'
-- q: Is 5G available in Canada?
-  a: 'Yes, but coverage varies. Bell, Rogers, and TELUS all have 5G in major cities. In rural areas, you''ll often drop to LTE. If you''re staying in Toronto, Vancouver, Montreal, or Calgary, you''ll have 5G most of the time. If you''re driving between cities or going north, expect LTE.'
-- q: Can I keep my WhatsApp number with a Canada eSIM?
-  a: 'Yes. WhatsApp uses your existing phone number for verification. As long as you don''t delete the app, your WhatsApp will keep working over the eSIM''s data connection. You don''t need a Canadian number for WhatsApp. The same applies to iMessage, Telegram, and other messaging apps.'
-- q: What''s the difference between a Canada eSIM and a North America eSIM?
-  a: 'A Canada eSIM only works in Canada. A North America eSIM works in Canada, the US, and Mexico. If your trip includes a US border crossing — even a day trip to Niagara Falls — you need a North America eSIM. The price difference is usually small, and it saves you from buying a second eSIM mid-trip.'
-- q: Can I make phone calls with a Canada eSIM?
-  a: 'Most travel eSIMs are data-only, which means you can''t make traditional phone calls. However, you can use VoIP apps like WhatsApp, Skype, or Google Voice to make calls over data. If you need a Canadian phone number for local calls, you''ll need a voice-capable eSIM or a local SIM.'
-- q: How do I check if my phone is unlocked?
-  a: 'If you bought your phone from a carrier, it might be locked to that carrier. To check, go to Settings > General > About and look for "Carrier Lock." If it says "No SIM restrictions," your phone is unlocked. If it says "SIM locked," you''ll need to contact your carrier to unlock it before you can use a Canada eSIM.'
-- q: What happens if my Canada eSIM doesn''t work?
-  a: 'First, check that data roaming is turned on for your eSIM. Then, go to Settings > Cellular > Network Selection and manually select a carrier (Bell, Rogers, or TELUS). If that doesn''t work, restart your phone. If you''re still having issues, contact your eSIM provider''s support — most have 24/7 chat.'
-- q: Can I use a Canada eSIM in multiple devices?
-  a: 'No. An eSIM is tied to one device. If you want to use it on a different phone, you''ll need to transfer it — which usually requires contacting your provider. If you need data on multiple devices, use hotspot tethering from your primary device.'
-myths_title: ⚠️ Common myths about Canada eSIM
-myth_label: '❌ Myth: '
-truth_label: '✅ Fact: '
-myths:
-- myth: All Canadian carriers have the same 5G speed.
-  truth: 'False. Bell is fastest in cities (171 Mbps median). TELUS is second (139 Mbps). Rogers focuses on video quality, not raw speed. The difference matters: if you''re uploading large files, Bell is noticeably faster. If you''re streaming video, Rogers is smoother.'
-- myth: eSIMs are complicated to set up.
-  truth: 'False. Most eSIMs activate with a simple QR code scan. No physical SIM removal needed. Setup takes less than 2 minutes. If you can scan a QR code, you can set up an eSIM. The only requirement is that your phone is unlocked and supports eSIM.'
-- myth: Prepaid eSIMs secretly slow down after a few GB.
-  truth: 'Partially true. Some plans have Fair Usage Policies that throttle speeds after a high threshold (e.g., 50 GB). Reputable providers state data limits upfront. If a plan says "unlimited," read the fine print — it usually means "unlimited at reduced speed after X GB."'
-- myth: Rural Canada has no 5G at all.
-  truth: 'False. TELUS has invested in rural infrastructure and achieves 85.6% reliability. 5G may be limited in very remote areas, but 4G LTE is widely available. You''ll have signal in most towns and along major highways. The gaps are between towns, not in them.'
-- myth: You need a Canadian address or ID to buy an eSIM.
-  truth: 'False. Most travel eSIMs are available to international visitors without any local address or ID. Buy online and activate when you arrive. You don''t need a Canadian credit card, passport, or address. This is one of the biggest advantages of eSIM over a local prepaid SIM.'
-- myth: A Canada-only eSIM works for a quick trip to Niagara Falls (US side).
-  truth: 'False. The moment you cross into US territory, your Canada-only eSIM stops working. You need a North America plan for cross-border trips. This catches a lot of travelers off guard — Niagara Falls is a common day trip, and many people don''t realize they''ll lose data on the US side.'
-- myth: Canadian cell plans are cheap.
-  truth: 'False. Canada has some of the highest mobile data prices in the developed world. A local prepaid SIM with 10 GB can cost $40–60 CAD. A travel eSIM with the same data usually costs $15–25 USD. If you''re staying for more than two weeks, a local SIM might be worth it — but for shorter trips, an eSIM is almost always cheaper.'
-- myth: You can use your home SIM''s data in Canada without extra charges.
-  truth: 'False. Most home carriers charge roaming fees in Canada — often $10–15 per day. Some plans include Canada in their roaming zone, but many don''t. Check with your carrier before you travel. If you''re paying $10 per day for 10 days, that''s $100 — far more than a travel eSIM.'
-- myth: eSIMs work on any phone.
-  truth: 'False. Your phone must support eSIM technology. Most phones made after 2018 do, but some older models don''t. Also, if your phone is carrier-locked, you may not be able to use a third-party eSIM. Check your phone''s settings for "Add eSIM" before you buy.'
-- myth: You need to remove your physical SIM to use an eSIM.
-  truth: 'False. You can use both your physical SIM and eSIM at the same time. Your phone will let you choose which one to use for data, calls, and texts. This is useful if you want to keep your home number active for calls while using the eSIM for data.'
-data_sources_title: Where our data comes from
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Ookla Speedtest: [Canada Report H2 2025](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)'
-  description: Median download/upload speeds, 5G performance, and video scores for Bell, Rogers, and TELUS.
-- name: OpenSignal 2025
-  description: 5G availability, video experience, and consistency across Canadian carriers.
-- name: CRTC 2025
-  description: Canadian government reports on network coverage, spectrum, and service quality.
-- name: Our field testing (March–May 2026)
-  description: 'Original speed tests in 8 cities and 4 travel routes, using iPhone 15 Pro and Samsung Galaxy S24. Full methodology: [link].'
-data_sources_footer: All network data comes from publicly available third-party reports (Ookla, OpenSignal, CRTC) and our own field testing. Actual speeds vary by location, device, and time of day.
-data_sources_note: Network speeds and coverage can change. Always check the latest coverage maps from your chosen carrier.
-cta_title: Ready to get your Canada eSIM?
-cta_desc: Instant activation. No roaming fees. Works with Bell, Rogers, and TELUS — switches automatically.
-cta_button_text: Buy Canada eSIM now
-cta_button_link: https://www.roamiapp.com/canada-esim/?utm_source=matrix&utm_medium=canada_guide&utm_campaign=cta
-cta_free_trial_note: Exclusive for new customers
-cta_free_trial_text: Free Canada trial eSIM
-cta_free_trial_link: https://www.roamiapp.com/free-esim/?utm_source=matrix&utm_medium=canada_guide&utm_campaign=free_trial
+hero_badge: 'Canada eSIM Carriers 2026'
+hero_subtitle_main: 'Bell vs Rogers vs TELUS: which carrier wins your trip?'
 ---
+
+> **Canada eSIM Carriers 2026**
+>
+> **Bell, Rogers and TELUS, rated on 2H 2025 Speedtest Intelligence data**
+
+This guide answers one question: **which carrier should your Canada eSIM connect to?** The three national networks are not interchangeable. On Ookla's 2H 2025 Canada report, **Bell** was the Best and Fastest 5G provider with a median 5G download of **171.17 Mbps**. **Rogers** delivered the best video experience (**86.03**) and the highest 5G availability (**86.7%**). **TELUS** was the most consistent network overall (**85.6%**). Which one is "best" depends entirely on where you are going — the best eSIM carrier for Canada is a routing decision, not a brand decision.
+
+If you are not yet sure your phone supports eSIM at all, or you want the mechanics of how an eSIM profile installs, start with the [eSIM compatibility checker](/compatibility/) and our explainer on [how eSIM activation works](/faq/what-is-esim-activation-and-how-does-it-work/). This page stays focused on the Canadian carriers themselves.
+
+
+**TL;DR:** Staying in Toronto, Vancouver or Montreal? Bell is the fastest 5G network in the country. Streaming a lot of video or gaming? Rogers wins on video score and 5G availability. Driving the Rockies, Newfoundland or northern Ontario? TELUS holds signal where the others drop. Want to buy straight from a Canadian carrier as a visitor? Lucky Mobile (Bell's prepaid brand) is the only one that sells a tourist eSIM with no credit check and no Canadian address. Or skip the paperwork: [Roami's free trial eSIM](/free-esim/) tests the networks at no cost, and code **WEB20** takes 20% off [Canada prepaid eSIM plans](/canada-esim/).
+
+## Which Canada eSIM carriers can visitors actually use?
+
+### The three national carriers at a glance
+
+| | Bell | Rogers | TELUS |
+|:---|:---|:---|:---|
+| Prepaid eSIM for visitors | Via Lucky Mobile, Bell's prepaid brand | Not sold direct — prepaid runs through chatr and Fido | Published prepaid tiers exist, but provisioning is carrier-issued |
+| Where it wins | Fastest 5G and fastest overall network | Best video experience, highest 5G availability | Most consistent network |
+| Cheapest prepaid entry | Lucky Mobile: $19/mo for 500 MB | chatr prepaid plans, no credit check | Nationwide Talk, Text & Data 35: $35 CAD for 1 GB / 30 days |
+| Getting it as a visitor | ★★★ — $0 eSIM activated in the Lucky Mobile app | ★★ — passport plus work/study permit or PR card, in store | ★★ — instant eSIM at checkout on a plan, but a credit check applies |
+
+**Read that table carefully, because it contains the single most useful fact on this page:** none of the three national carriers sells a clean, walk-up prepaid eSIM to an international visitor. Bell routes visitors to Lucky Mobile. Rogers sends prepaid customers to chatr. TELUS activates an eSIM instantly when you take a plan — but a plan means a credit check and Canadian identification.
+
+### Which regional carriers and budget brands sell eSIMs
+
+Canada's fourth tier is where visitors actually find usable prepaid eSIMs.
+
+| Brand | Network it runs on | eSIM | Who it suits |
+|:---|:---|:---|:---|
+| Lucky Mobile | Bell | $0 eSIM, activated in the app | Most visitors — prepaid, no credit check, tourist plans |
+| chatr | Rogers | Prepaid, no credit check | Short city stays where Rogers coverage is strong |
+| Public Mobile | TELUS | Prepaid eSIM | Budget travelers who want TELUS coverage without TELUS paperwork |
+| Freedom Mobile | Own network plus partner roaming | Prepaid eSIM | Longer stays in Ontario, Alberta and BC cities |
+| SaskTel | Own network (noSTRINGS Prepaid) | eSIM setup and management supported | Anyone spending real time in Saskatchewan |
+| Videotron | Own network in Quebec | Prepaid options | Quebec-focused trips |
+
+Two cautions. First, flanker brands like Lucky Mobile, chatr and Public Mobile cap data speeds — Lucky Mobile's plans run at 4G LTE speeds up to 150 Mbps and then drop to **up to 128 Kbps** once your allowance is gone, with no overage charges. Second, a prepaid plan bought from any of these brands is tied to one network. You get Bell's towers on Lucky Mobile and nobody else's, which matters the moment you leave the city.
+
+### Should you buy from a Canadian carrier or use a travel eSIM?
+
+| | Direct from a Canadian carrier | Travel eSIM on a Canadian network |
+|:---|:---|:---|
+| What you need | Passport or ID; some routes need a Canadian address; postpaid needs a credit check | A compatible, unlocked phone |
+| How the profile arrives | In-app activation, in-store setup, or a carrier-issued QR code | QR code or app install immediately after checkout |
+| Typical 10 GB cost | Roughly $35 CAD for the first gigabyte on a TELUS prepaid tier, plus a $10–15 SIM fee on some brands | A single upfront price, no SIM fee |
+| Network access | One carrier | Automatic switching between Bell, Rogers and TELUS |
+| Best for | Stays of two weeks or more, or anyone who needs a Canadian phone number | Trips of one to two weeks, and anyone who wants to be online on landing |
+
+The economics are not close for a normal holiday. A Canadian prepaid plan charges per gigabyte at rates built for residents; a travel eSIM buys data at wholesale and lets the device move between networks. Where the carrier wins is longevity and voice — a real Canadian number, unlimited domestic calling, and a plan that still works in month six.
+
+💡 A multi-network eSIM profile is the practical middle path: [Roami's Canada eSIM](/canada-esim/) keeps the convenience of instant delivery, switches automatically between Bell, Rogers and TELUS, and still lands you on Bell in Toronto and TELUS in the Rockies without buying twice.
+
+## Is your phone compatible with a Canadian carrier eSIM?
+
+Three things decide whether your phone works on a Canadian carrier: its bands, its lock status, and a short list of device-specific quirks. All three are covered below.
+
+### Will your phone work on a Canadian network?
+
+Canadian carriers build their 5G on specific bands — notably **n71 (600 MHz)** for rural reach, plus n66 and n78 in cities. Plenty of international handsets, including several iPhone regional variants, ship without n71. Those phones still work: they fall back to LTE once you leave dense urban areas, which is fine downtown and frustrating in the mountains.
+
+You do not need to learn the band tables. The reliable move is to check your exact model — model number, not marketing name — against [our eSIM compatibility list](/compatibility/). If you want the underlying mechanics first, [what your phone does when it loads an eSIM profile](/faq/what-is-esim-activation-and-how-does-it-work/) explains the process.
+
+### Is your phone carrier locked and how do you unlock it
+
+A locked phone is the most common reason a Canadian eSIM install simply fails, and Canada has unusually clean rules here.
+
+Under the CRTC's Wireless Code, **phones sold by Canadian service providers must be unlocked**, and if a device is locked to a provider's network, that provider must "unlock the device, or give the customer the means to unlock the device, upon request, at no charge." That requirement — Rule F.1.(ii) — took effect **December 1, 2017**. The CRTC also names eSIM directly on its own travel advice as a way to avoid roaming charges.
+
+**Check it:** iPhone → Settings → General → About → Carrier Lock. If it reads "No SIM restrictions," you are clear. If it reads "SIM locked," no third-party eSIM will install until that changes.
+
+**Fix it:** contact the carrier the phone is locked to and request an unlock. Devices that are paid off are normally cleared within hours, and there is no fee. Only then try installing your eSIM.
+
+If you bought a used phone, or a phone before December 2017, assume it may be locked and check before you fly. Full detail: [CRTC — travelling with your device](https://crtc.gc.ca/eng/phone/mobile/trav.htm).
+
+### Which phones have trouble with Canadian eSIMs
+
+| Device | Symptom | What to do |
+|:---|:---|:---|
+| Mainland-China iPhone models | No "Add eSIM" option at all — the hardware is disabled in that market | Not fixable; use a physical SIM or another device |
+| Carrier-purchased Samsung | eSIM greyed out in settings | Ask the carrier to unlock it first, then reboot |
+| International handsets without n71 | Fast in cities, LTE-only in rural areas | Expected behavior — see the province notes below |
+| Dual-SIM users | eSIM installed but no data | Set the eSIM as the line used for mobile data |
+
+Anything beyond this is device-specific rather than carrier-specific. Run your model through the [compatibility checker](/compatibility/) before you spend money on a plan.
+
+## How to get an eSIM from each Canadian carrier
+
+Four routes exist, and they differ more in paperwork than in price: Lucky Mobile for the Bell network, chatr or a store visit for Rogers, TELUS direct or Public Mobile on the same network, and SaskTel inside Saskatchewan. Each route, step by step:
+
+### How to get a Bell eSIM through Lucky Mobile
+
+Bell's own consumer plans are postpaid: they want a Canadian address and a credit check. International visitors are pointed at **Lucky Mobile**, Bell's prepaid brand, which is genuinely built for this.
+
+**Lucky Mobile eSIM, step by step:**
+
+1. Download the Lucky Mobile My Account app and pick a prepaid plan — the entry tier is **$19/mo for 500 MB**, with $25/mo for 5 GB and $30/mo for 15 GB above it.
+2. Choose eSIM at checkout. It is **$0** — a physical SIM carries a one-time $10 charge instead.
+3. Activate inside the app. If you activated on the website, tap the notification on your phone, or enter the activation code manually at `bmc.prod.ondemandconnectivity.com`.
+4. No credit check, no term contract. There are no data overage charges — once the allowance is used, speeds drop to up to 128 Kbps.
+
+Lucky Mobile explicitly markets a tourist eSIM for people visiting Canada, and lists eSIM support for iPhone XS and later, Google Pixel 3 and later, and Samsung Galaxy S21 / Z Fold 3 / Flip 3 / Note20 and later. Check your model before buying.
+
+### Can you get a Rogers eSIM as a visitor?
+
+Rogers does not sell a direct prepaid eSIM to visitors. Prepaid sits with **chatr** (no credit check, no contract), and **Fido** covers the flexible mid-market.
+
+For a Rogers plan itself, the newcomer path is a store visit: bring your **passport plus a work or study permit, a permanent resident card, or a Confirmation of Permanent Residence**, and staff will set you up. Rogers' own support pages field the question "Why can't I complete my eSIM activation online?" — which tells you the online route is not reliable for everyone. Budget for a store visit, or buy Rogers-network data through a travel eSIM instead.
+
+### How to get a TELUS eSIM or use Public Mobile
+
+TELUS does support eSIM properly: bring an eSIM-compatible device, take a plan, and it activates **instantly after checkout**, while a physical SIM ships in 5 to 10 business days for a one-time **$15** fee. The catch is that this is the plan path, which means a credit check.
+
+TELUS's prepaid lineup — Nationwide Talk, Text & Data — is the cheapest way to hold a TELUS line without a contract:
+
+| Plan | Data | Calls | Validity | Price |
+|:---|:---|:---|:---|:---|
+| Nationwide Talk, Text & Data 35 | 1 GB | Unlimited nationwide | 30 days | $35 CAD |
+| Nationwide Talk, Text & Data 90 | 3 GB | Unlimited nationwide | 90 days | $90 CAD |
+| Nationwide Talk, Text & Data 150 | 3 GB | Unlimited nationwide | 180 days | $159 CAD |
+
+Prepaid provisioning is issued by the carrier rather than self-serve, so plan for an in-store sign-up or a support-issued activation code rather than assuming an instant QR code at checkout. If you only want TELUS coverage as a visitor, **Public Mobile** runs on the same network with prepaid eSIM and far less paperwork.
+
+### Does SaskTel sell a prepaid eSIM for visitors?
+
+A SaskTel eSIM is available through the carrier's **noSTRINGS Prepaid** service, and SaskTel publishes setup and management guides for it. This is the right choice if Saskatchewan is a real part of your itinerary rather than a drive-through — coverage inside the province is excellent, and it thins out once you leave.
+
+### What to have ready before you buy
+
+- **IMEI** — dial `*#06#`
+- **EID** — also from the `*#06#` screen; this is the eSIM's own identifier
+- **Photo ID** — passport is standard for in-store carrier sign-ups
+- **A Canadian address** — required on some carrier routes, and on postpaid plans generally
+- **A card that works in Canada** — some carrier checkouts reject foreign billing addresses
+- **Wi-Fi** — install the profile before you fly, not at the airport
+
+## Canada eSIM coverage, speed and which carrier to pick
+
+Two questions settle this section: how fast each network is where you actually are, and what kind of trip you are taking. The Ookla figures below answer the first; the trip-type table answers the second.
+
+### How fast are Bell, Rogers and TELUS really?
+
+All figures below come from Ookla's Speedtest Intelligence data for **2H 2025** (collection period July–December 2025) and are national-level measurements.
+
+| Metric | Bell | Rogers | TELUS |
+|:---|:---|:---|:---|
+| Median 5G download | **171.17 Mbps** (fastest) | — | 138.76 Mbps |
+| Median download, all technologies | **107.51 Mbps** (fastest) | — | 101.95 Mbps |
+| Median upload, all technologies | 9.78 Mbps | — | — |
+| Latency, all technologies | 42 ms | — | — |
+| 5G availability | 74.3% | **86.7%** (highest) | 74.9% |
+| Video Streaming Score | 84.71 | **86.03** (best) | 85.32 |
+| Consistency | 84.5% | 83.3% | **85.6%** (best) |
+| Speedtest Connectivity Score | **75.18** (highest) | 73.73 | 75.10 |
+
+Where the report does not publish a figure, the cell is left blank rather than estimated. Two things worth noticing: Rogers leads on **availability** (how often you are actually on 5G) while trailing on raw speed, and TELUS's win is **consistency** — the share of samples meeting a 5 Mbps down / 1 Mbps up threshold — which is exactly the metric that matters on a highway.
+
+For context on the country as a whole, Ookla's [Speedtest Global Index](https://www.speedtest.net/global-index/canada) put Canada's median mobile download at **86.08 Mbps** in August 2026, 53rd globally, with 25 ms latency. Fixed broadband is much stronger at **257.88 Mbps**, 20th in the world. Cable.co.uk prices 1 GB of Canadian mobile data at about **USD 5.37**, 216th of 237 markets against a USD 2.59 global average — Canada is one of the most expensive markets in the developed world for local data.
+
+### Which Canadian carrier fits each trip type
+
+| Your trip | Best carrier | Why | Watch out for |
+|:---|:---|:---|:---|
+| City break — Toronto, Vancouver, Montreal, Calgary | Bell or Rogers | Both are excellent downtown; Bell is faster, Rogers holds 5G more often | Toronto's subway has poor signal on every carrier |
+| Road trip, national parks, Rockies | TELUS | Highest consistency, fewest dead zones outside cities | Rogers Pass and Glacier National Park still have 30–40 km gaps |
+| Video, streaming, gaming | Rogers | Best video score and highest 5G availability | Upload speeds trail Bell |
+| Business travel and video calls | Bell | Fastest upload and lowest latency in the big cities | Ask for a higher floor in hotels — signal improves above the 5th floor |
+| Budget traveler | Lucky Mobile (Bell network) | $19/mo prepaid, no credit check, no overage fees | Speeds cap at 150 Mbps, then 128 Kbps |
+| Saskatchewan stay | SaskTel | Strongest in-province network | Coverage drops when you cross provincial lines |
+| Quebec-focused trip | Videotron or Bell | Local network strength plus Bell's national footprint | Rural Gaspé is thin on all carriers |
+| Cross-border itinerary | A North America plan | A Canada-only eSIM dies at the US border with no warning | Niagara Falls day trips catch people out constantly |
+
+### Coverage differences by province
+
+Canada's 5G coverage follows population: dense in the census metropolitan areas, thinning fast along secondary highways and vanishing in the territories. What that means route by route:
+
+| Province | Reality on the ground |
+|:---|:---|
+| British Columbia | Urban coverage is dependable; secondary roads thin out fast. Rogers Pass has roughly 40 km with no signal, and Vancouver Island's west coast around Tofino and Ucluelet is limited. |
+| Alberta | Solid where people live. The Icefields Parkway between Lake Louise and Jasper runs about 230 km with almost no coverage. Download offline maps before you drive it. |
+| Ontario | Strong in Toronto, Ottawa and the corridor; northern Ontario past Sudbury has large gaps between towns. |
+| Quebec | Bell is the strongest network overall. The Gaspé Peninsula has limited coverage — download maps for the full loop. |
+| Nova Scotia | Fine in Halifax; the Cabot Trail in Cape Breton has dead zones. |
+| Newfoundland | Reliable in towns; signal fades on the quieter coastal stretches and drops about 30 minutes after the ferry leaves Nova Scotia. |
+| Yukon, NWT, Nunavut | Coverage exists in Whitehorse, Yellowknife and a few highway towns only. The Dempster Highway runs 700+ km with essentially nothing. A satellite messenger is the right tool there, not a better eSIM. |
+
+Planning a route that leaves Canada? Start with [eSIM for the United States](/united-states-esim/), or compare [Mexico eSIM plans](/mexico-esim/). If your itinerary crosses borders more than once, a [North America eSIM](/north-america-esim/) saves you buying twice.
+
+💡 Automatic network selection is what makes this work. A profile that can move between Bell, Rogers and TELUS covers the provincial gaps that any single-carrier plan cannot.
+
+## APN settings for each Canadian carrier eSIM
+
+APN settings are the last thing most travelers need to touch and the first thing worth ruling out when data fails. Below: the values for all four carriers, when manual entry is genuinely required, and the exact menu paths.
+
+### APN values for Bell, Rogers, TELUS and SaskTel
+
+You will only need these if you bought a SIM or eSIM **directly from a Canadian carrier**. If you are roaming on a travel eSIM, the profile supplies its own APN and you should not change anything.
+
+| Carrier | APN | Username | Password |
+|:---|:---|:---|:---|
+| Bell | `pda.bell.ca` | blank | blank |
+| Rogers | `ltemobile.apn` | blank | blank |
+| TELUS | `sp.telus.com` | blank | blank |
+| SaskTel | `pda.stm.sk.ca` | blank | blank |
+
+Leave username and password empty. If those carriers require values, the activation instructions that came with your profile will state them.
+
+### When you actually need to set it manually
+
+- An older handset that does not pick up carrier settings automatically
+- A profile installed with a manual activation code instead of a QR scan
+- A carrier-issued prepaid eSIM where automatic configuration did not run
+- Almost never on a travel eSIM — that is the point of a managed profile
+
+### Where to enter APN settings on iPhone and Android
+
+- **iPhone:** Settings → Cellular → tap the eSIM line → Cellular Data Network → enter the APN
+- **Android:** Settings → Connections → Mobile Networks → Access Point Names → add a new APN
+
+After saving, restart the phone. If data still fails, confirm the eSIM — not your home SIM — is the selected data line before you change anything else.
+
+## How to activate your Canada eSIM and fix problems
+
+One pass through this section takes you from a clean install to a working data connection — and covers the four failure patterns a Canadian network can actually produce, in the order you will hit them.
+
+### What to check before you install your eSIM
+
+| # | Check | What "good" looks like |
+|:---|:---|:---|
+| 1 | Phone is not carrier-locked | Settings → General → About → Carrier Lock reads "No SIM restrictions" |
+| 2 | Phone supports eSIM | `*#06#` shows an EID, or the [compatibility checker](/compatibility/) confirms your model |
+| 3 | QR code and activation code saved | Screenshot stored on the phone **and** in cloud storage |
+| 4 | Profile installed before departure | Install on Wi-Fi at home; the profile connects when you land |
+| 5 | Data line and roaming set | eSIM selected for mobile data, data roaming on |
+
+Do step 4 at home. Toronto Pearson and Vancouver arrivals halls have congested Wi-Fi exactly when you need it most, and a profile you install on the ground competes with everyone else's.
+
+### Carrier-specific activation notes
+
+The generic install sequence — Settings → Cellular → Add eSIM → Scan QR code → label the line → set it as your data line → enable data roaming — is in our [step-by-step activation guide](/faq/how-to-activate-an-esim/). What differs by carrier:
+
+- **Lucky Mobile (Bell):** activated in the My Account app; no QR scan needed, and a manual activation code is available if the notification does not arrive
+- **Rogers:** the profile is issued by the carrier — online self-serve activation is unreliable, so expect in-store or phone-based provisioning
+- **TELUS:** instant eSIM activation after checkout when you take a plan; prepaid provisioning is carrier-issued
+- **SaskTel:** eSIM setup is documented and supported, and is normally completed alongside the prepaid sign-up
+- **Travel eSIMs:** install by QR code, and the same profile roams onto whichever of Bell, Rogers or TELUS is strongest
+
+### Four fixes when your Canada eSIM does not work
+
+General activation errors — a profile that will not download, a scan that fails, an eSIM that installs but never registers — are covered in our [eSIM activation troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). The four patterns below are the Canada-specific ones.
+
+**A. The eSIM will not install**
+1. Confirm Carrier Lock reads "No SIM restrictions"
+2. Check the QR code is clean and unscanned — most are single-use
+3. Ask the carrier whether the profile is still in a pending state
+
+**B. Installed, but no signal bars**
+1. Re-check the lock status
+2. Settings → Cellular → Network Selection → select Bell, Rogers or TELUS manually instead of automatic
+3. Reset network settings, then reboot
+
+**C. Signal bars, but no internet**
+1. Verify the APN against the table above
+2. Confirm the eSIM is the active data line, not your home SIM
+3. Check you have not exhausted your data allowance — Lucky Mobile and similar prepaid brands throttle to 128 Kbps rather than stopping
+
+**D. "SOS" or "Emergency calls only"**
+1. Confirm the eSIM is enabled in the SIM manager
+2. Disable or delete any other active SIM or eSIM profile
+3. Reboot and reset network settings
+4. As a last resort, remove the profile and reinstall from a fresh QR code
+
+### What to have ready before contacting support
+
+| Information | Where to find it |
+|:---|:---|
+| Order or account number | Confirmation email |
+| Phone model and OS version | Settings → About |
+| EID | `*#06#` |
+| Screenshot of the error | Take it before the screen changes |
+| Current APN settings | Settings → Cellular Data Network |
+| Data roaming status | Settings → Cellular → your eSIM line |
+| Steps already tried | Keep a short list |
+
+## Canada eSIM carrier FAQ
+
+### Can I buy a prepaid eSIM directly from Bell?
+
+Not as a visitor. Bell's consumer plans are postpaid and want a Canadian address and a credit check. Bell routes prepaid customers to **Lucky Mobile**, where a $0 eSIM activates in the app on plans from $19/mo. That is the Bell eSIM route for international visitors.
+
+### Does a Rogers eSIM require a Canadian address?
+
+For a Rogers plan, yes — sign-up happens in store with a passport plus a permit, PR card or Confirmation of Permanent Residence, which means Canadian identification and a Canadian billing setup. If you want the Rogers network without that, buy a Rogers-network travel eSIM, or use chatr for prepaid.
+
+### Can international visitors buy a TELUS eSIM?
+
+Technically yes — TELUS activates an eSIM instantly after checkout when you take a plan, and publishes prepaid Nationwide Talk, Text & Data tiers from $35 CAD. In practice the plan route involves a credit check and prepaid provisioning is issued by the carrier, so most visitors are better served by Public Mobile on the same network or by a travel eSIM.
+
+### Which Canadian carrier has the best rural coverage?
+
+TELUS, on the evidence. It recorded the **Best Mobile Network Consistency in Canada at 85.6%** — the share of tests meeting a 5 Mbps down / 1 Mbps up threshold — which is the closest thing to a rural reliability measure. Bell is faster where it has signal. No carrier covers the Icefields Parkway or the Dempster Highway, so download offline maps regardless.
+
+### Which is the cheapest prepaid eSIM in Canada?
+
+Lucky Mobile, at **$19/mo for 500 MB**, with 5 GB at $25/mo and 15 GB at $30/mo, no credit check and no overage charges. Above the allowance speeds fall to up to 128 Kbps, so match the tier to your usage rather than buying the cheapest and throttling on day two.
+
+### Will my phone work on a Canadian carrier's eSIM?
+
+It needs to be unlocked and eSIM-capable. Check both in one pass with the [eSIM compatibility checker](/compatibility/) — that covers EID support and the band question, including the n71 rural-5G band that many international handsets lack. If you want to understand what happens during install first, read [how eSIM installation works](/faq/what-is-esim-activation-and-how-does-it-work/).
+
+### How do I get my locked phone unlocked in Canada?
+
+Ask the carrier it is locked to. Under Rule F.1.(ii) of the CRTC's Wireless Code, effective 1 December 2017, a provider must unlock a device or give you the means to unlock it **on request, at no charge** — and phones sold by Canadian providers must be unlocked in the first place. Paid-off devices are usually cleared within hours. Check status at Settings → General → About → Carrier Lock.
+
+### What is the difference between a carrier eSIM and a travel eSIM?
+
+Direct means one network, carrier-issued provisioning, and often ID or a Canadian address; in exchange you get a real Canadian number and unlimited domestic calling. A travel eSIM means instant delivery, no paperwork, automatic switching between Bell, Rogers and TELUS, and a fixed upfront price. Short trip: travel eSIM. Months in Canada, or you need a local number: direct.
+
+### Do Canadian carriers offer tourist-specific eSIM plans?
+
+Lucky Mobile does — it markets a tourist eSIM for visitors to Canada with plans starting at $19/mo, no credit check and no long-term commitment. Bell, Rogers and TELUS do not sell a tourist product as such; their nearest equivalents are prepaid tiers that assume Canadian identification.
+
+### Can I use a carrier eSIM and a travel eSIM at the same time?
+
+Yes, and it is a sensible setup. Keep your home number active on the physical SIM for calls and SMS verification, and run data on the eSIM. In Settings, point Mobile Data at the eSIM line and leave your home line for voice. Two cautions: switch off data roaming on your home SIM so you are not billed for background traffic, and remember most data-only eSIMs cannot receive SMS, so bank codes still arrive on your home number.
+
+### What if my eSIM activation fails?
+
+Work the four Canada-specific patterns above in order — lock status, network selection, APN and data line, then profile reinstall — and if it still fails, the wider error catalogue in [our complete eSIM troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. Have your EID, order number and a screenshot ready before you contact support.
+
+### How does an eSIM actually work?
+
+An eSIM is a chip soldered into your phone that stores carrier profiles instead of holding one physical card. The carrier sends a profile, your phone writes it to that chip, and the line behaves like any other. The mechanics — SM-DP+ servers, activation codes, and why a QR code is single-use — are explained in [what eSIM activation is and how it works](/faq/what-is-esim-activation-and-how-does-it-work/).
+
+More questions? [View full FAQ →](https://www.roamiapp.com/faq/?utm_source=matrix&utm_medium=canada_guide&utm_campaign=faq)
+
+## Where our Canada eSIM data comes from
+
+- **Ookla Speedtest Connectivity Report — Canada 2H 2025** — [the per-carrier report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025) is the source for every carrier-level figure on this page: Bell's 171.17 Mbps median 5G download, Rogers' 86.7% 5G availability and 86.03 video score, and TELUS's 85.6% consistency.
+- **Ookla Speedtest Global Index** — [the Canada entry](https://www.speedtest.net/global-index/canada) supplies the national median of 86.08 Mbps mobile and 257.88 Mbps fixed, updated monthly.
+- **Cable.co.uk worldwide data pricing** — [the full country table](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) is the source for Canada's USD 5.37 average price per gigabyte.
+- **DataReportal / GSMA Intelligence** — [Canada's digital 2025 headline data](https://datareportal.com/reports/digital-2025-canada) backs the market-size figures.
+- **CRTC** — [travelling with your device](https://crtc.gc.ca/eng/phone/mobile/trav.htm) and the Wireless Code set out the device-unlocking rules quoted above.
+- **Carrier pages** — [Lucky Mobile plans](https://www.luckymobile.ca/plans), [Rogers prepaid](https://www.rogers.com/plans/prepaid), [TELUS plans and eSIM activation](https://www.telus.com/shop/mobility/bring-your-own-device) and [SaskTel noSTRINGS Prepaid](https://www.sasktel.com/wps/wcm/connect/content/home/mobility/plans/nostrings-prepaid) are the sources for plan prices, delivery methods and identification requirements.
+- **GSMA Intelligence / Mobile Connectivity Index** — [the market scorecard](https://www.mobileconnectivityindex.com/) scores Canada on coverage, affordability and adoption.
+
+Third-party measurements only. Your experience will differ by handset, by which band you attach to, and by how busy the local cell is.
+
+## Ready to get your Canada eSIM?
+
+Instant activation. No roaming fees. Roami's eSIM connects to Bell, Rogers and TELUS — and switches automatically as you move. New customers can [claim a free Canada trial eSIM](/free-esim/) first, or apply code **WEB20** for 20% off when you [get your Canada eSIM plan](/canada-esim/).
+
+[Buy Canada eSIM now](https://www.roamiapp.com/canada-esim/?utm_source=matrix&utm_medium=canada_guide&utm_campaign=cta)
+
+*Exclusive for new customers*
+
+[Free Canada trial eSIM](https://www.roamiapp.com/free-esim/?utm_source=matrix&utm_medium=canada_guide&utm_campaign=free_trial)

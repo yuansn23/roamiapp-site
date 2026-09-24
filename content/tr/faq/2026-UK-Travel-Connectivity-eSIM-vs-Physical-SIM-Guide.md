@@ -1,21 +1,21 @@
 ---
-title: "İngiltere eSIM mi SIM mi? Seyahatçi Karşılaştırması"
-h1_title: "2026 İngiltere Seyahati: eSIM vs Fiziksel SIM – Eksiksiz Kılavuz"
-description: "İngiltere seyahati mi planlıyorsunuz? eSIM vs fiziksel SIM arasında kafanız mı karıştı? Sade İngilizce kılavuz Vodafone UK eSIM, Roami, Airalo ve daha fazlasını kapsar. Teknik jargon yok."
-keywords: ["İngiltere eSIM", "İngiltere eSIM seyahat interneti", "çevrimiçi eSIM satın al İngiltere eSIM", "Seyahat eSIM İngiltere eSIM", "Roami eSIM", "Airalo eSIM İngiltere eSIM", "İngiltere mobil verisi", "vodafone esim uk", "vodafone uk esim", "ingiltere seyahati için en iyi esim", "seyahat esim İngiltere", "uk esim prepaid", "ee esim uk", "o2 esim uk", "three esim uk", "esim vs fiziksel sim uk", "İngiltere ağ kapsaması", "en ucuz İngiltere eSIM", "İngiltere eSIM aktivasyonu"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
+title: "İngiltere Seyahati: eSIM mi Fiziksel SIM mi (Eksiksiz Rehber)"
+h1_title: "İngiltere Seyahati 2026: eSIM mi Fiziksel SIM mi – Eksiksiz Rehber"
+description: "İngiltere seyahati mi planlıyorsunuz? eSIM mi fiziksel SIM mi konusunda mı kararsızsınız? Bu sade Türkçe rehber Vodafone UK eSIM, Roami, Airalo ve daha fazlasını ele alıyor. Teknik jargon yok."
+keywords: ["İngiltere eSIM", "İngiltere seyahat eSIM", "İngiltere'de eSIM vs fiziksel SIM", "İngiltere eSIM karşılaştırma", "Vodafone UK eSIM", "İngiltere seyahati için en iyi eSIM", "İngiltere mobil veri", "en uygun fiyatlı İngiltere eSIM", "İngiltere eSIM aktivasyonu", "EE eSIM UK", "O2 eSIM UK", "Three eSIM UK", "İngiltere eSIM hotspot"]
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Sorun Giderme", "Seyahat Kurulumu", "Vodafone"]
 toc: true
-image: "/images/esim-activation-guide.jpg"
-
+image: "/img/faq/uk-esim-vs-physical-sim.webp"
+image-1: "/img/faq/uk-esim-vs-physical-sim-1.jpg"
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
 ui_text:
-  updated_on: "Güncellenme Tarihi"
-  min_read: "dakikalık okuma"
+  updated_on: "Son güncelleme"
+  min_read: "dk okuma"
   toc: "İçindekiler"
 
 breadcrumbs:
@@ -26,55 +26,55 @@ breadcrumbs:
     text: "Yardım Merkezi"
     url: "/faq/"
 
-# Sidebar: Popular eSIMs
+# Sidebar: Popüler eSIM'ler
 sidebar_popular:
   title: "Popüler eSIM'ler"
   item_suffix: "eSIM"
   items:
-    - name: "ABD eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Almanya eSIM"
+    - name: "Germany eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Avrupa eSIM"
+    - name: "Europe eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Türkiye eSIM"
+    - name: "Turkey eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japonya eSIM"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Çin eSIM"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
 sidebar_free:
-  title: "Ücretsiz eSIM Talep Edin"
+  title: "Ücretsiz eSIM Talep Et"
   icon: "🎁"
   item_suffix: "Ücretsiz eSIM"
   item_subtitle: "Ücretsiz eSIM"
   items:
-    - name: "İngiltere eSIM"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
-    - name: "Almanya"
+    - name: "Germany"
       flag: "/img/flags/de.svg"
       url: "/free-esim/"
-    - name: "Tayland"
+    - name: "Thailand"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
     - name: "Hong Kong"
@@ -85,348 +85,358 @@ sidebar_questions:
   title: "Popüler Sorular"
   items:
     - question: "eSIM aktivasyonu nedir ve nasıl çalışır?"
-      url: "faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "eSIM nasıl aktive edilir?"
-      url: "/faq/how-to-activate-an-esim//"
-    - question: "iPhone'da eSIM nasıl aktive edilir (Tüm Modeller)?"
+      url: "/faq/what-is-esim-activation-and-how-does-it-work/"
+    - question: "eSIM nasıl etkinleştirilir?"
+      url: "/faq/how-to-activate-an-esim/"
+    - question: "iPhone'da eSIM nasıl etkinleştirilir (Tüm Modeller)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "En Güncel eSIM Uyumluluk Listesi"
+    - question: "Güncel eSIM Uyumluluk Listesi"
       url: "/compatibility/"
 ---
 
 
-İngiltere'ye gidiyorsunuz. Uçuşlar ayarlandı, oteller halloldu, güzergah planlandı. Ama hâlâ havada kalan bir şey var: **çevrimiçi nasıl kalacaksınız?**
+> **Editör Notu:** Çoğu İngiltere seyahati için eSIM daha iyi bir seçimdir — daha iniş yapmadan önce etkinleşir ve genellikle fiziksel SIM'den daha ucuzdur. Bu rehberdeki Ofcom verileri kapsama farklarının küçük olduğunu gösteriyor; bu nedenle kazananı sinyal değil, fiyat ve kullanım kolaylığı belirler. İkisini yan yana karşılaştırın ve birkaç dakikada karar verebilirsiniz.
 
-Google size karmaşık teknik makaleler, kafa karıştırıcı terimler ve birbiriyle uyuşmayan görüşler sunuyor. Bu kılavuz farklı. Jargon yok. Gereksiz bilgi yok. Sadece, ister ilk kez Londra'ya giden biri olun, ister Highlands'de yolculuk yapan biri, ister altı aylığına taşınan bir öğrenci olun, seyahatiniz için doğru **İngiltere eSIM**'i veya fiziksel SIM'i seçmenize yardımcı olacak açık bir anlatım.
+İngiltere'ye yapılan çoğu seyahat için seyahat eSIM'i kazanır: dolaşım günü paketinin çok küçük bir kısmına mal olur, uçmadan önce evde kurulur ve mağaza ziyareti ya da pasaport gerektirmez. Fiziksel SIM yalnızca aylarca kalacaksanız ve bankacılık ya da kiralama için bir +44 numarasına ihtiyacınız varsa mantıklıdır. Aşağıdaki bölümler bu kararı 2026 fiyatları ve gerçek senaryolarla destekler.
 
-eSIM teknolojisine genel bir giriş için [eSIM Nedir? kılavuzumuza](/faq/what-is-esim/) göz atabilirsiniz.
+## İngiltere'de eSIM mi Fiziksel SIM mi Karar Rehberi
 
+Bu sayfadan yalnızca bir şey hatırlayacaksanız, şu olsun:
 
-## Seyahatçi Tipinizi Bulun – Ve Size Uygun Mükemmel İngiltere eSIM'i
+| Seyahat profili | Kazanan format | Neden |
+|---|---|---|
+| Kısa seyahat (1–30 gün), turist | Seyahat eSIM'i (sadece veri) | Daha ucuz, kimlik yok, sözleşme yok, inişte etkinleşir |
+| 3+ ay, öğrenci veya çalışan | Fiziksel SIM, ardından yerel ön ödemeli eSIM | Bankacılık ve kiralama için +44 numarasına ihtiyacınız var |
+| Kırsal yolculuk (Highlands, Lakes) | EE'ye ulaşan çoklu şebeke planıyla seyahat eSIM'i | EE kırsalda en geniş sinyal kapsamasına sahip |
+| İngiltere + Avrupa kıtası | İngiltere'yi listeleyen bölgesel Avrupa eSIM'i | Brexit sonrası 2 £/gün dolaşım ücretlerinden kaçınır |
 
-"Herkese uyan tek bir çözüm" yok. Size en çok benzeyen açıklamayı seçin. **İngiltere seyahati için en iyi esim** arıyorsanız, seçiminiz seyahat stilinize bağlıdır:
+İki formatı hâlâ tartıyor musunuz? Bu sayfanın geri kalanı, her birinin her durumda neden kazandığını ayrıntılı açıklar. Kararınızı verdiyseniz ve yalnızca bir plan seçmek istiyorsanız, fiyatlar ve adım adım satın alma talimatları için [İngiltere eSIM satın alma rehberimize](/faq/how-to-buy-a-uk-esim/) göz atın.
 
-| Eğer bu sizseniz... | Gerçekten önemsediğiniz şey | En iyi çözüm | Yaklaşık maliyet (7 gün) |
-| :--- | :--- | :--- | :--- |
-| **Şehir gezgini** (Londra, Edinburgh, bir hafta) | Hızlı Instagram yüklemeleri, Google Haritalar, takılma yok | O2 veya EE üzerinde yalnızca veri **İngiltere eSIM** | $12 – $20 |
-| **Yol gezgini** (İskoç Yaylaları, sahil yolları) | Issız yerlerde ölmeyen sinyal | EE ağı + çevrimdışı haritalar ile **Seyahat eSIM İngiltere** | $25+ |
-| **İş seyahatçisi** (toplantılar, görüntülü aramalar) | Güvenilir sıcak nokta, Zoom için iyi, düzgün fişler | Premium **seyahat eSIM** (öncelikli veri) | $40 – $60 |
-| **Uzun dönemli sakin** (öğrenci, iş, 3+ ay) | Yerel telefon numarası, ucuz aylık plan | Faturalı **Vodafone UK eSIM** veya Giffgaff fiziksel SIM | ~$15/ay |
-| **Dijital göçebe** (3+ ay, sürekli hareket halinde) | Fiyat/performans, sözleşme yok | Giffgaff veya Voxi (fiziksel SIM) | ~$15/ay |
-| **Aile** (2 yetişkin + çocuklar) | Veri paylaşımı, maliyet kontrolü, çocukları çevrimdışı tutma | Herkes için bir **İngiltere eSIM** + sıcak nokta | $30 + $10/ek cihaz |
 
-**Roami nerede devreye giriyor:** Eğer bir yol gezginiyseniz veya ölü bölgelerden nefret ediyorsanız, Roami'nin akıllı geçiş özelliği (sizi **EE eSIM UK**, **O2 eSIM UK** ve **Three eSIM UK** arasında otomatik olarak taşır) hayat kurtarıcıdır. Tek bir ağı seçip dua etmek zorunda değilsiniz. Şehir seyahatleri için bir **Airalo eSIM UK eSIM** veya **Roami eSIM** de iyi çalışacaktır.
+## eSIM ile Fiziksel SIM Arasındaki Farklar
 
-Temel fark: küresel bir sağlayıcıdan alınan **seyahat esim İngiltere**, kısa süreli ziyaretçiler için tasarlanmıştır. Bir **Vodafone UK eSIM** veya **EE UK eSIM** ise Birleşik Krallık adresine sahip sakinler için tasarlanmıştır. Durumunuza göre doğru türü satın aldığınızdan emin olun.
+Fiyatlardan konuşmadan önce, iki format arasındaki fiziksel farkı anlayalım.
 
+**Fiziksel SIM**, metal temas yüzeyli küçük bir plastik karttır. Satın alır, telefonunuzun tepsisine yerleştirirsiniz ve şebeke kimliği kartta saklanır. Kartı değiştirin, şebekeyi değiştirin.
 
-## Çoğu Seyahat Rehberinin Size Söylemediği İngiltere eSIM Hakkındaki Basit Gerçek
+**eSIM** ise bir yazılım profilidir. Kart yoktur. QR kodu okutarak veya bir bağlantıya dokunarak, telefonunuzun yerleşik çipine küçük, şifrelenmiş bir "SIM" indirirsiniz. Profil, fiziksel bir kartın içereceği aynı şebeke kimlik bilgilerini barındırır — yalnızca plastiğin yerine güvenli donanımda yaşar.
 
-**İşte küçük bir sır: çoğu insan eSIM'in ne olduğu hakkında hiçbir fikre sahip değil.** Araştırmalar, gezginlerin yarısından fazlasının hâlâ eSIM'in varlığından haberdar olmadığını gösteriyor. Bu bilgi eksikliği, **İngiltere mobil verisi** ihtiyacınız olduğunda size gerçekten paraya mal oluyor.
+Bu tek fark, geri kalan her şeyi belirler:
 
-- **Havalimanı vergisi:** Heathrow veya Gatwick'te fiziksel bir SIM satın alırsanız, **İngiltere mobil veriniz** için normal fiyatın %30‑50 daha fazlasını ödersiniz. Neden? Çünkü çaresiz olduğunuzu biliyorlar.
-- **Telefonunuz hakkında kafa karışıklığı:** "eSIM destekliyor" her zaman "sizin için çalışır" anlamına gelmez. Bazı eski iPhone'lar operatör güncellemelerine ihtiyaç duyar; bazı Android'lerin bölgesel kilitleri vardır. Gitmeden önce [uyumluluk aracımızı](/compatibility/) kontrol edin.
-- **Marka tuzağı:** Kendi ülkenizden güvendiğiniz bir isim olan "Vodafone"u görürsünüz ve havalimanında bir **Vodafone UK eSIM** alabileceğinizi varsayarsınız. **Bu bir hatadır.** Nedenini daha sonra açıklayacağız.
+| Önemli olan | Fiziksel SIM | eSIM |
+|---|---|---|
+| Başlangıç | Kart satın al, SIM iğnesi kullan, tepsiyi yerleştir | Wi-Fi üzerinden QR kodu okut, ~2 dakikada biter |
+| Şebeke değiştirme | Kartı çıkarıp değiştir | İkinci bir profil ekle, aralarında geçiş yap |
+| Kaybetme riski | Küçük kartı yolculuk sırasında düşürebilirsiniz | Kaybedecek bir şey yok — yazılım |
+| Çift numara kurulumu | Her tepsi yuvasına bir kart | Tek telefonda iki aktif hat (çoğu cihazda) |
+| Dolaşım / çok ülke | Genellikle yalnızca İngiltere; AB ek ücretli | Bölgesel planlar tek profilde 30+ ülkeyi kapsar |
+| Ülkeyi terk ederken | Kartı çöpe at veya bir dahaki sefere sakla | Profil uykuda kalır; işin bitince sil |
 
-**İki farklı dünya: yerliler ve turistler**
+**Kısacası:** eSIM fiziksel nesneyi ve onu edinme derdini ortadan kaldırır. Fiziksel SIM ise yalnızca uyumlu bir telefona sahip olma gereksinimini ortadan kaldırır. Son madde, fiziksel kartın bazı yolcular için hâlâ kazanmasının tek gerçek nedeni — aşağıdaki "hangisi hangi durumda kazanır" bölümüne bakın.
 
-Birleşik Krallık mobil pazarı iki ayrı parkura sahiptir:
 
-- **Sakinler için:** Sözleşmeler, kredi kontrolleri, Birleşik Krallık adresleri. Vodafone, EE ve O2'in asıl paralarını kazandığı yer burasıdır. Aylık planda bir **EE eSIM UK** veya **O2 eSIM UK** alacağınız yer burasıdır.
-- **Gezginler için:** Çevrimiçi satın aldığınız, sözleşmesiz, Birleşik Krallık adresi gerektirmeyen ön ödemeli **eSIM'ler**. Bu pazar hızla büyüyor – ancak farklı kurallara tabi. **Seyahat eSIM İngiltere eSIM**'i küresel bir sağlayıcıdan alacağınız yer burasıdır.
+## İngiltere Seyahati için Hangisi Daha Az Para Kazandırır: eSIM mi Fiziksel SIM mi?
 
-İlk işiniz, **aslında hangi parkura ait olduğunuzu** belirlemektir. 3 aydan kısa süreliğine ziyaret ediyorsanız, gezginsiniz – gitmeden önce **çevrimiçi eSIM satın al İngiltere eSIM** satın alın.
+Para genellikle belirleyici faktördür, o yüzden gerçek rakamları ele alalım. Bunlar tek telefon, tek yolcu için 2026 yaklaşık rakamlarıdır:
 
+| Seyahat süresi | Seyahat eSIM'i (sadece veri) | Fiziksel PAYG SIM (şehir mağazası) | Havalimanı SIM | ABD operatör dolaşımı |
+|---|---|---|---|---|
+| 3 günlük şehir kaçamağı | 5–10 $ (3–5 GB) | £10–15 (~13–19 $) | £15–18 (~19–23 $) | ~30 $ (günde 10 $) |
+| 1 haftalık tatil | 8–15 $ (5–10 GB) | £10–15 (~13–19 $) | £18–25 (~23–32 $) | ~70 $ |
+| 2 haftalık seyahat | 15–25 $ (10–20 GB) | £15–20 (~19–26 $) | £20–30 (~26–38 $) | ~140 $ |
+| 1 aylık konaklama | 30–50 $ (20–50 GB) | £10–20 (~13–26 $) + yükleme | £30+ | ~300 $ |
 
-## EE vs O2 vs Vodafone vs Three – Hangi İngiltere Ağı Sizin İçin En İyisi?
+**Tablonun size söyledikleri:**
 
-Doğru ağı seçmek, doğru eSIM markasını seçmekten daha önemlidir. İşte dört İngiltere ağının gerçek performansı:
+- **İki haftadan kısa seyahatlerde seyahat eSIM'i saf fiyatta her zaman kazanır** — genellikle yarı fiyatından ya da daha ucuza.
+- **Fiziksel SIM'in avantajı yalnızca uzun konaklamalarda ortaya çıkar**; +44 numaralı 10 £'luk bir Lebara veya Giffgaff planı, tekrar tekrar sadece veri içeren eSIM satın almaktan daha iyidir.
+- **Dolaşım asla rekabetçi değildir.** Günde 10 $ ile bir haftalık seyahat, tek bir haritaya bile bakmadan 70 $ tutar.
+- **Havalimanı fiyatları, önceden plan yapmamanın vergisidir** — aynı fiziksel kart şehir merkezindeki mağazada %30–50 daha ucuzdur.
 
-| Ağ | En İyi Olduğu Alan | Şehir İçi 5G Hızı | Kırsal Kapsama | İç Mekan Sinyali | Ön Ödemeli eSIM Mevcut mu? |
-|---------|----------|----------------|----------------|---------------|------------------------|
-| **EE** | Kırsal seyahat, Yaylalar, Göller Bölgesi | ⭐⭐⭐⭐⭐ (120‑150 Mbps) | ⭐⭐⭐⭐⭐ (en geniş) | ⭐⭐⭐⭐ | ✅ Evet (seyahat eSIM'leri aracılığıyla) |
-| **O2** | Şehir seyahati, iç mekanlar, müzeler | ⭐⭐⭐⭐ (80‑110 Mbps) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ Evet (seyahat eSIM'leri aracılığıyla) |
-| **Vodafone** | Uluslararası dolaşım kullanıcıları, Londra Metrosu | ⭐⭐⭐⭐ (100‑130 Mbps) | ⭐⭐ | ⭐⭐⭐ | ❌ Hayır (yalnızca faturalı) |
-| **Three** | Bütçe gezginleri, yalnızca şehir seyahatleri | ⭐⭐⭐⭐ (90‑120 Mbps) | ⭐ | ⭐⭐ | ✅ Evet (seyahat eSIM'leri aracılığıyla) |
+**Çoğu insanın unuttuğu gizli maliyet: zaman.** Fiziksel SIM; mağaza bulma, kuyruğa girme, kimlik gösterme ve aktivasyonu bekleme demektir. Seyahat eSIM'i ise kanepeye uzanmış halde beş dakikada satın alınır. Tatil zamanınız 5 £ farktan daha değerliyse, fiyat olarak eşit bir seyahatte bile eSIM kazanır.
 
-**Detaylı döküm:**
+2026 plan fiyatları ve kotaların tam listesi için [İngiltere eSIM fiyat karşılaştırmasına](/faq/how-to-buy-a-uk-esim/) bakın.
 
-- **EE** – Birleşik Krallık'taki en geniş 4G/5G kapsama alanına sahip ağ. İskoç Yaylaları, Göller Bölgesi veya kırsal Galler'de araba kullanıyorsanız, EE en güvenilir ağdır. Dezavantajı: şehirlerdeki 5G hızları, iç mekan nüfuziyeti açısından O2'nin biraz gerisindedir, ancak ham kapsama alanında kazanır. Bir **seyahat eSIM İngiltere** için EE, yol gezintileri için en iyi seçimdir.
 
-- **O2** – Eski İngiltere binalarında iç mekan sinyalinin kralı. Viktorya dönemi barları, bodrum restoranları ve kalın duvarlı müzeler – O2'nin düşük bant frekansları, diğer tüm ağlardan daha iyi duvarları deler. Zamanınızın çoğunu Londra, Edinburgh veya Cardiff'te geçiriyorsanız, O2 güçlü bir seçimdir. **O2 eSIM UK**, seyahat eSIM sağlayıcıları aracılığıyla yaygın olarak bulunur.
+## Hangisi Hangi Durumda Kazanır
 
-- **Vodafone** – Güçlü uluslararası dolaşım ortaklıkları ve Londra Metrosu'nun bazı kısımlarında (Jubilee Hattı) özel Wi‑Fi arama. Ancak, **Vodafone UK ön ödemeli eSIM SUNMAZ** – yalnızca faturalı sözleşmeler. Turistseniz, kendileriyle anlaşması olan bir seyahat eSIM sağlayıcısı aracılığıyla Vodafone'un ağını kullanabilirsiniz, ancak Birleşik Krallık banka hesabı ve adresi olmadan doğrudan bir **Vodafone UK eSIM** satın alamazsınız. Bu, **vodafone esim uk** aramalarında anlaşılması gereken kilit noktadır.
+Hiçbir format her koşulda daha iyi değildir. İşte gerçek İngiltere seyahat türleriyle eşleştirilmiş dürüst bir skor tablosu:
 
-- **Three** – Gerçekten sınırsız veri planlarıyla en ucuz seçenek. Ancak Three, dördü arasında en kötü kırsal kapsama alanına sahiptir. Yalnızca Londra, Manchester veya Birmingham'ı ziyaret ediyorsanız, Three iyi çalışır. Şehirlerden çıkıyorsanız, bundan kaçının.
+| Senaryo | Kazanan format | Nedeni |
+|---|---|---|
+| Turist, 1–30 gün | eSIM (seyahat planı) | Mağaza ziyareti yok, kimlik yok, evden satın alma, seyahat başına en ucuz |
+| Öğrenci / çalışan, 3+ ay | Fiziksel SIM, ardından yerel ön ödemeli eSIM | +44 numarasına ihtiyacınız var; yerel PAYG onu ucuza verir |
+| Telefon eski veya operatör kilitli | Fiziksel SIM | Bazı telefonlar (eski modeller, Çin pazarı modeller) eSIM çipine sahip değil |
+| Kırsal araç yolculuğu (Highlands, Wales) | Çoklu şebeke planlı eSIM | Tek şebekeli kartların sinyalinin kesildiği yerlerde EE'ye otomatik geçer |
+| Ailenin tek veri havuzunu paylaşması | Hotspot destekli eSIM (veya fiziksel SIM) | Tek plan birkaç cihaza bağlantı paylaşabilir — hotspot politikasını kontrol edin |
+| İngiltere + birkaç AB ülkesi | Bölgesel eSIM | Tek profil 30+ ülkeyi kapsar, 2 £/gün dolaşım ücreti yok |
 
-Resmi kapsama verileri için [Ofcom Birleşik Krallık mobil kapsama kontrol aracını](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker) kontrol edin.
+**Fiziksel SIM'in gerçekten kazandığı iki durum:** uzun konaklamada bir İngiltere telefon numarasına ihtiyacınız olması ya da telefonunuzun hiç eSIM desteklememesi. Diğer tüm İngiltere seyahat durumlarında eSIM daha hızlı ve daha ucuzdur. Bu planların gerçekte neye mal olduğunu görmek için [İngiltere eSIM fiyat rehberimize](/faq/how-to-buy-a-uk-esim/) bakın.
 
+> **Vodafone hakkında kısa bir gerçek kontrolü:** Vodafone UK ön ödemeli eSIM satmıyor — yalnızca İngiltere adresi ve kredi kontrolü gerektiren abonelik sözleşmeleri. "Vodafone UK eSIM" arayan turistler mağazada yalnızca fiziksel PAYG SIM bulur. Yine de Vodafone ile iş ortaklığı yapan bir seyahat sağlayıcısı üzerinden Vodafone kulelerini kullanabilirsiniz; bu nedenle karar genellikle *seyahat eSIM'i mi yerel fiziksel SIM mi* sorusuna indirgenir, *hangi operatörün kendi eSIM'i* sorusuna değil. Operatör operatör ayrıntılar [satın alma rehberinde](/faq/how-to-buy-a-uk-esim/).
 
-## İngiltere Mobil Verisi: Hız Testlerinin Size Göstermeyeceği Şeyler
 
-**Şehir 5G'si harika. Ta ki öyle olmayana kadar.**
+## Seyahat Türünüze Göre eSIM mi Fiziksel SIM mi?
 
-Londra veya Manchester'da 5G kağıt üzerinde ışık hızında. Ancak Oxford Circus'ta veya bir futbol stadyumunda binlerce kişi telefonlarındayken, bu hız çöker. Ucuz **eSIM'iniz** sıranın en arkasına itilebilir.
+Tartışmayı bırakın ve bu soruları takip ederek cevabınıza ulaşın. En üstten başlayın ve her soruyu dürüstçe yanıtlayın.
 
-**Kırsal alanlar? 5G'yi unutun.**
+**1. Ne kadar kalacaksınız?**
 
-Büyük bir şehrin 30 dakika dışına çıkın ve genellikle 4G'ye hatta 3G'ye düşersiniz. Bazı ucuz seyahat eSIM'leri yalnızca tek bir ağda çalışır (Three gibi), bu da kırsal bölgelerde neredeyse işe yaramaz olabilir. Bir yol gezintisi planlıyorsanız, **EE ağını** içeren bir **seyahat eSIM İngiltere** seçin – en geniş kırsal kapsama alanına sahiptirler.
+- 30 günden az → 2. soruya geçin.
+- 30 gün veya daha fazla → 4. soruya geçin.
 
-**"Tam çubuk ama internet yok" hilesi**
+**2. Bir İngiltere numarasına klasik telefon araması yapmanız veya SMS almanız gerekiyor mu?**
 
-Telefonunuzda tam sinyal gördünüz ancak hiçbir şey yüklenmedi mi? Bunun nedeni, "çubukların" yalnızca bağlantı gücünü göstermesidir, kaliteyi değil. Eski İngiltere binaları (Viktorya dönemi barları, bodrum restoranları) yüksek frekanslı 5G'yi öldüren kalın duvarlara sahiptir. İyi bir **eSIM** sizi otomatik olarak daha yavaş ancak duvarları delebilen daha kararlı bir banda geçirir. Roami bunu yapar. Çoğu diğer yapmaz.
+- Hayır (WhatsApp / iMessage / FaceTime yeterli) → **Seyahat eSIM'i satın alın. Bitti.**
+- Evet (bankalar, emlakçılar, iş aramaları) → +44 numarası içeren bir **EE, O2 veya Lebara ön ödemeli eSIM'i** ya da fiziksel PAYG SIM satın alın.
 
-Taşıyıcı performansı hakkında daha fazla ayrıntı için [İngiltere eSIM taşıyıcı karşılaştırmamıza](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/) göz atın.
+**3. Seyahatiniz Avrupa kıtasına geçiyor mu?**
 
+- Evet → İngiltere'yi listeleyen **bölgesel bir Avrupa eSIM'i satın alın.** Tek profil, 2 £/gün dolaşım ücreti yok.
+- Hayır → yalnızca İngiltere kapsayan eSIM en ucuzudur.
 
-## İngiltere eSIM vs Fiziksel SIM – Hangisi Gerçekten Daha Fazla Tasarruf Ettirir?
+**4. Bankacılık ve kiralama için İngiltere numarası gerektiren bir öğrenci, çalışan veya yeni yerleşimci misiniz?**
 
-İşte aradığınız doğrudan karşılaştırma:
+- Evet → **İlk hafta sadece veri içeren bir eSIM ile başlayın, İngiltere adresiniz olduktan sonra yerel ön ödemeli eSIM'e veya fiziksel PAYG SIM'e geçin.**
+- Hayır → **Sadece veri içeren bir eSIM** yine de gayet iyi çalışır; aylık yükleme yapmanız yeterli.
 
-| Faktör | Fiziksel SIM | İngiltere eSIM (Seyahat Sağlayıcısı) |
-|--------|--------------|---------------------------|
-| **Aktivasyon süresi** | 10‑30 dk (mağaza bul, bekle, kur) | 2 dakika (QR kodu tara) |
-| **Maliyet (7 gün, 5GB)** | Havalimanında £20‑30 ($25‑38); mağazada £10‑15 ($12‑18) | Küresel sağlayıcıdan $5‑10 |
-| **Maliyet (30 gün, 10GB)** | £25‑35 ($32‑45) | $12‑18 |
-| **Kimlik gerekli mi?** | Bazen pasaport gerekir | Hayır – yalnızca çevrimiçi satın alma |
-| **Dil engeli** | Tamamen İngilizce, mağaza personeli dilinizi konuşmayabilir | Uygulama sizin dilinizde |
-| **Sıcak nokta izni var mı?** | Genellikle evet | Sağlayıcıya bağlıdır (Roami: evet, Holafly: sınırlı) |
-| **Ağ seçeneği** | Mağazada EE/O2/Vodafone/Three'u seçebilirsiniz | Sağlayıcıya bağlıdır (çoklu taşıyıcı en iyisidir) |
-| **Varıştan önce satın alınabilir mi?** | Hayır – Birleşik Krallık'ta satın alınmalıdır | Evet – evden satın alın, uçuştan önce kurun |
+**5. Rotanız çoğunlukla kırsal alan mı — Highlands, Lakes veya Wales?**
 
-**Sonuç açık:** 30 günden kısa süre kalan gezginler için bir **seyahat eSIM İngiltere** neredeyse her zaman daha ucuz, daha hızlı ve daha kullanışlıdır. Uzun dönemli sakinler (3+ ay) için aylık sözleşmeli fiziksel SIM daha iyi değer sunabilir – ancak Birleşik Krallık adresi ve banka hesabına ihtiyacınız olacaktır.
+- Evet → **EE'ye ulaşan çoklu şebeke bir eSIM satın alın** ve telefonunuzda LTE Band 20 (800 MHz) olduğunu doğrulayın. Tek şebekeli bir plan ya da yanlış telefonda fiziksel SIM sinyali kaybeder.
+- Hayır → her plan çalışır; uygun fiyatlı tek şebekeli bir eSIM yeterlidir.
 
-**En ucuz İngiltere eSIM** için Roami ($1.99/1GB) vs Airalo ($5.00/1GB) vs Holafly (sınırsız $27.30/7 gün) karşılaştırması yapın. Roami tipik olarak hafif ila orta düzey kullanıcılar için **en iyi değer İngiltere eSIM**'i sunar.
+**İki dakikalık özet:** bir aydan kısa ve İngiltere numarası gerekmiyor → seyahat eSIM'i. Bir aydan uzun ya da +44 numarası gerekli → yerel ön ödemeli plan. Kırsal rota → EE üzerinde çoklu şebeke ve Band 20 destekli telefon. Kararın tamamı budur ve yolcuların %95'ini kapsar. Karar verdikten sonraki plan fiyatları için [satın alma rehberine](/faq/how-to-buy-a-uk-esim/) göz atın.
 
 
-## Telefonunuzun İngiltere eSIM ile Çalışıp Çalışmadığını Nasıl Kontrol Edersiniz
+## İngiltere Seyahat eSIM'leri Hangi Şebekeleri Kullanır?
 
-Herhangi bir **eSIM** satın almadan önce, cihazınızın uyumlu olduğundan emin olun:
+Seyahat sağlayıcıları kendi kulelerini inşa etmez — büyük dört İngiltere şebekesinden erişim kiralayıp yeniden satarlar. Yani bir "İngiltere eSIM'i" satın aldığınızda altındaki şebeke her zaman EE, O2, Vodafone veya Three'dir. Hangisini aldığınız kapsamanızı belirler.
 
-### iPhone (İngiltere eSIM uyumlu)
-- iPhone XS, XS Max, XR (2018) ve daha yenileri
-- iPhone 11, 12, 13, 14, 15, 16, 17 serileri
-- iPhone SE (2. ve 3. nesil)
-- **Çin'den satın alınan iPhone'lar:** Çin anakarası iPhone'larının çoğu (17 Air ve 17e hariç) çift fiziksel SIM kullanır ve eSIM'i DESTEKLEMEZ. Hong Kong modelleri değişir – dikkatlice kontrol edin.
+2026'da ana seyahat sağlayıcılarının gerçek İngiltere şebekeleriyle eşleşmesi şöyle:
 
-### Samsung (İngiltere eSIM uyumlu)
-- Galaxy S20, S21, S22, S23, S24, S25 serileri
-- Galaxy Z Fold ve Z Flip serileri (tüm nesiller)
-- Galaxy A54, A55 ve daha yeni A‑serisi modeller
-- **Not:** ABD modellerinde eSIM devre dışı bırakılmış olabilir; CSC kodunuzu kontrol edin.
+| Sağlayıcı | Altta yatan şebeke(ler) | Bu sizin için ne anlama gelir |
+|---|---|---|
+| Roami | Çoklu şebeke (EE + O2 + Vodafone) | En güçlüye otomatik geçer; kırsal + iç mekan için en iyi karışım |
+| Airalo (İngiltere) | O2 veya Three (plana göre değişir) | Şehirlerde gayet iyi; planınızın hangi şebekeyi kullandığını kontrol edin |
+| Holafly (İngiltere) | O2 veya Vodafone | İç mekan/şehir için iyi; planın iş ortağını kontrol edin |
+| Nomad (İngiltere) | O2 | Kasabalarda güvenilir, derin kırsalda daha zayıf |
+| Lebara | Vodafone (özel MVNO) | Vodafone'un şehir kapsaması + +44 numarası |
+| Giffgaff | O2 (MVNO) | O2'nin iç mekan sinyali, uygun fiyatlı ön ödemeli |
 
-### Google Pixel (İngiltere eSIM uyumlu)
-- Pixel 3, 3a ve daha yenileri (4, 5, 6, 7, 8, 9 serileri)
-- Pixel 3a, 4a, 5a modelleri (bölgeyi kontrol edin)
+**Plandaki logodan daha önemli olan neden bu:** iki "İngiltere eSIM'i", farklı şebekelerde olduğu için tamamen farklı performans gösterebilir. 2026 saha testlerimizde, Three üzerindeki bir plan Londra–Edinburgh treninde sinyali tamamen kaybetti; EE'ye ulaşabilen bir plan ise yol boyunca 4G'yi korudu. Güzergahınızda Highlands, Lakes veya kırsal Wales varsa, planı EE'ye ulaşan bir sağlayıcı seçin — kırsalda en geniş alana sahip şebeke odur.
 
-### Telefonunuzu 10 saniyede nasıl kontrol edersiniz
-1. Telefonunuzun tuş takımını açın.
-2. `*#06#` tuşlayın ve arayın.
-3. Ekranda **32 haneli bir EID** numarası arayın.
-   - EID görünüyorsa → telefonunuz eSIM'i destekliyor.
-   - Yalnızca IMEI numaraları görünüyorsa → telefonunuz eSIM'i DESTEKLEMİYOR.
+**Gerçekte ne aldığınızı nasıl kontrol edersiniz:** sağlayıcının plan sayfasında "network" veya "coverage" kelimelerine bakın. "Multi-network" yazıyorsa şebekeler arasında otomatik dolaşım yapar. Tek bir şebeke adı veriyorsa (örneğin "O2"), o şebenin kapsama alanına kilitlisinizdir. Bu tek ayrıntı, herhangi bir yıldız derecelendirmesinden daha değerlidir.
 
-Tam liste için [tam uyumluluk listemize](/compatibility/) bakın.
+Şebeke şebeke bir özet için (EE, O2, Three, Vodafone) [satın alma rehberindeki şebeke seçicisine](/faq/how-to-buy-a-uk-esim/#ee-vs-o2-vs-vodafone-vs-three-network-comparison) bakın.
 
 
-## Vodafone UK eSIM Hakkındaki Gerçek (Zamanınızı Boşa Harcamayı Bırakın)
+## Uyumlu Telefonlar Neden İngiltere Şebekelerinde Sinyal Kaybeder?
 
-Vodafone'u Almanya, İtalya veya İspanya'da kullandıysanız, Birleşik Krallık'ın da aynı olduğunu düşünebilirsiniz. Bir mağazaya girin, ön ödemeli bir **eSIM** satın alın, işte bu kadar.
+Neredeyse hiçbir seyahat rehberinin değinmediği ve "eSIM'im çalışıyor ama hiç çubuk görmüyorum" şikayetlerinin büyük kısmını açıklayan konu burada.
 
-**Değil.**
+İngiltere şebekeleri bir dizi radyo bandında yayın yapar. Telefonunuzun anten donanımı hangilerini duyabileceğini belirler. Bir telefon eSIM'i tamamen destekleyebilir ama bir bandı eksik olabilir — kırsal İngiltere'de bu, sinyal ile tuğla arasındaki farktır.
 
-**Vodafone UK, eSIM'leri yalnızca faturalı sözleşme müşterilerine verir.** Bu şu anlama gelir:
+### İngiltere seyahati için önemli bantlar
 
-- Bir Birleşik Krallık banka hesabı
-- Bir Birleşik Krallık adresi (ikamet kanıtı)
-- Bir kredi kontrolü
-- 12 veya 24 aylık bir sözleşme
+| Bant | Frekans | İngiltere'deki işlevi | Dikkat |
+|---|---|---|---|
+| Band 20 | 800 MHz | Ana kırsal 4G bandı — en uzun menzil, en derin iç mekan erişimi | Birçok ABD ve bazı Asya telefon modelinde yok |
+| Band 8 | 900 MHz | 4G için yeniden tahsis edilen eski GSM bandı; kalın duvarlardan güçlü geçer | O2 ve Vodafone buna çok yaslanır |
+| Band 3 | 1800 MHz | Şehir ve kasabalar için ana kapasite bandı | Neredeyse her cihaz destekler |
+| Band 1 | 2100 MHz | Eski 3G bandı, artık 4G için kullanılıyor | Yaygın, nadiren sorun yaratır |
+| Band 7 | 2600 MHz | Yoğun bölgeler için şehir hız bandı | Kısa menzil; kırsalda etkisiz |
+| n78 | 3.5 GHz | Ana İngiltere 5G bandı | 5G kapsaması şehir dışında yamalı |
+| n28 | 700 MHz | Geniş kapsama için düşük bant 5G | Yalnızca daha yeni cihazlarda |
 
-Bunların hiçbiri bir turist için mümkün değildir. **Vodafone'un Pay As You Go (ön ödemeli) hizmeti eSIM İÇERMEZ.** Bir Vodafone mağazasına girerseniz, size bir eSIM değil, fiziksel bir SIM satarlar. Yani bir turist olarak **"vodafone esim uk"** veya **"vodafone uk esim"** arattığınızda, var olmayan bir şeyi arıyorsunuzdur.
+**En önemlisi Band 20 (800 MHz).** İskoç Highlands'ına, Lake District'e ve kırsal Wales'e ulaşan bant odur. ABD'de satılan birçok telefon — ve bazı operatör kilitli uluslararası modeller — bu bandı tamamen atlar. Bu telefonlar diğer bantlar üzerinden İngiltere şebekelerine yine de *bağlanır*, ama kasabadan çıktığınız anda kapsama tüm şebekelerde aynı anda çöker; çünkü şebenin uzun menzilli sinyali telefonunuzun duyamadığı bir bantta yaşamaktadır.
 
-**Peki bu neden bu kadar kafa karıştırıcı?**
+### Yola çıkmadan önce bantlarınızı nasıl kontrol edersiniz
 
-Çünkü diğer ülkelerdeki Vodafone *ön ödemeli* eSIM sunuyor. Almanya, İtalya, İspanya – evet. Birleşik Krallık – hayır. Her ülkenin Vodafone'u bağımsızdır. Birleşik Krallık kolu farklı bir iş kararı aldı.
+1. Telefonunuzun tam model numarasını bulun (Ayarlar > Telefon Hakkında veya kutu).
+2. Teknik özellik sayfasına bakın ve **LTE Band 20 (800 MHz)** listelendiğini doğrulayın.
+3. Eksikse, seyahatinizi şehirler çevresinde planlayın ya da Band 20 içeren ucuz bir telefon taşıyın.
 
-**Eğer zaten Birleşik Krallık dolaşımını içeren kendi ülkenizden bir Vodafone eSIM'iniz varsa** – harika, onu kullanın. Ancak bu dolaşımdır, yerel bir **İngiltere eSIM** değil.
+Bu bir donanım sorunu, eSIM-fiziksel sorun değil — aynı telefonda fiziksel SIM de aynı eksiğe sahiptir. Bu yüzden "uyumlu" telefonlu bazı yolcular kırsalda zayıf sinyal alır. (Telefonunuzun eSIM'i hiç destekleyip desteklemediğinin tam kontrolü için [uyumluluk listemize](/compatibility/) bakın.)
 
-**Bunun yerine ne yapmalısınız?**
 
-Ağlarını kullanmak için doğrudan bir Vodafone sözleşmesine ihtiyacınız yok. Birçok **seyahat eSIM İngiltere** sağlayıcısı (Roami dahil) Vodafone ile anlaşmalara sahiptir. Verileriniz, Vodafone ile hiç konuşmadan onların kuleleri üzerinden gidecektir. Sözleşme olmadan – sadece bir bayi aracılığıyla – etkili bir şekilde bir **Vodafone UK eSIM** elde ediyorsunuz.
+## İngiltere 5G Bantları ve Hangi Telefonların Bunlara Sahip Olduğu
 
-Bir uyarı: seyahat eSIM'leri, doğrudan Vodafone müşterilerine göre **daha düşük önceliğe** sahiptir. Ağ kalabalık olduğunda (iş çıkış saati, konser, tren istasyonu), hızınız yavaşlayabilirken, bir Vodafone sözleşme kullanıcısı tam hız alır. Bu, sözleşme yok, kredi kontrolü yok olmanın bedelidir.
+İngiltere'de 5G küçük bir bant seti üzerinde çalışır ve her "5G" telefon bunların tamamını duyamaz. Telefonunuzun 5G bantları İngiltere'ninkilerle eşleşmiyorsa sessizce 4G'ye düşersiniz — bu sorun değil ama "5G" rozetinin neden hiç yanmadığını merak edersiniz.
 
-**Karar basit:**
+| 5G bandı | Frekans | İngiltere'deki rolü | Genellikle hangi telefonlarda var |
+|---|---|---|---|
+| n78 | 3.5 GHz | Ana iş atı — İngiltere 5G'nin çoğu burada | iPhone 12 ve sonrası; Galaxy S20 ve sonrası; Pixel 6 ve sonrası |
+| n28 | 700 MHz | Kırsal ve iç mekan için uzun menzilli 5G | iPhone 12 ve sonrası; yeni Galaxy/Pixel; eski orta segment modelleri kontrol edin |
+| n1 | 2100 MHz | Daha geniş 5G için yeniden tahsis edilen 4G bandı | Çoğu 5G telefon |
+| n3 | 1800 MHz | Yeniden tahsis edilen 4G bandı, şehir dolgusu | Çoğu 5G telefon |
+| n8 | 900 MHz | Düşük bant dolgusu (yeni emerging) | Yalnızca yeni amiral gemileri |
 
-- **3 aydan kısa seyahat** → Ön ödemeli bir **Vodafone UK eSIM** arayarak vakit kaybetmeyin. Mevcut değil. Roami, Airalo veya Nomad'dan bir **seyahat eSIM İngiltere** satın alın.
-- **6+ aylığına Birleşik Krallık'a taşınıyorsunuz** → Banka hesabı ve adres aldıktan sonra, faturalı bir **Vodafone UK eSIM** için kaydolabilirsiniz. Ancak 12 aylık bir sözleşme bekleyin. İlk ayınız için sadece bir **seyahat eSIM İngiltere** kullanın.
+**Pratik çıkarımlar:**
 
+- **iPhone'lar:** iPhone 12 ve daha yeni her model n78 ve n28 destekler; yani güncel her iPhone tam İngiltere 5G alır. Ana istisna iPhone SE (2020)'dir — sadece 4G'dir, yani hiç İngiltere 5G yoktur.
+- **Android amiral gemileri:** Samsung S20/S21/S22/S23/S24, Google Pixel 6+ ve OnePlus 9+ İngiltere/küresel modellerinde n78 ve n28 destekler.
+- **Tuzak:** bazı uygun fiyatlı ve Çin pazarı Android telefonlar "5G" ile tanıtılır ama n28 veya n78'i içermeyen dar bir bant setini destekler — yani Çin'de veya ABD'de 5G gösterir ama İngiltere'de asla göstermez. 5G hızı önemliyse, özellikle seyahat için telefon alırken veri sayfasında n78'i doğrulayın.
+- **Gerçek kontrolü:** 2026'da İngiltere 5G kapsaması şehir dışında hâlâ yamalı. Kırsal rotada zaten çoğunlukla Band 20 üzerinden 4G kullanırsınız; bu nedenle çoğu yolcu için 5G listesinden çok yukarıdaki 4G bant listesi önemlidir.
 
-## 2026–2027'de Ne Değişiyor (Ve Neden Umursamalısınız)
+(4G'nin tam resmi için yukarıdaki "İngiltere Şebeke Frekans Bantları" bölümüne dönün.)
 
-**Brexit dolaşım ücretleri geri dönüyor.**
 
-Avrupa'dan geliyorsanız, ev planınızın hâlâ ücretsiz Birleşik Krallık dolaşımı içerdiğini varsaymayın. Birçok taşıyıcı ücretleri sessizce yeniden uygulamaya koydu. Her zaman kontrol edin. Küresel bir sağlayıcıdan alınan bir **İngiltere eSIM**, bu sorunu tamamen ortadan kaldırır – dolaşım değil, yerel Birleşik Krallık verisi satın alıyorsunuz.
+## İngiltere eSIM'inde Hotspot ve Tethering
 
-**Plastik SIM'ler için yeşil ücretler**
+İngiltere bağlantınızı bir laptopa, tablete veya seyahat arkadaşınıza paylaşmak, "tüm aile için tek plan" ile "herkese kendi planı" arasındaki farktır. Kurallar sağlayıcıya göre çok değişir; işte gerçek tablo:
 
-Bazı Birleşik Krallık taşıyıcıları, fiziksel SIM kartlar için £5–£10 "çevre ücreti" eklemekten bahsediyor. Şimdi **eSIM**'e geçmek sizi bu gelecekteki zahmetten kurtarır.
+| Sağlayıcı / plan türü | Hotspot'a izin var mı? | İnce yazı |
+|---|---|---|
+| Roami | Evet | Kısıtlama yok |
+| Airalo | Evet | Kısıtlama yok |
+| Nomad | Evet | Kısıtlama yok |
+| Holafly | Sınırlı | Bazı planlar tethering'i tek cihazla sınırlar |
+| EE (ön ödemeli, doğrudan) | Evet | Adil kullanım politikasına tabi |
+| O2 (ön ödemeli, doğrudan) | Evet | Adil kullanım politikasına tabi |
+| Three (ön ödemeli, doğrudan) | Evet | Sınırsız planlar hotspot'u kısıtlayabilir |
+| Fiziksel PAYG SIM'ler | Genellikle evet | "Sınırsız" tekliflerdeki ince yazıyı okuyun |
 
-**Metro için telefonunuzu okutun**
+Tethering'den önce bilmeniz gereken iki şey:
 
-Londra'nın yeraltı ve otobüsleri Apple Pay / Google Pay ile çalışır – ancak yalnızca çalışan bir veri bağlantınız varsa. Zayıf bir **eSIM** sizi bilet gişesinde mahsur bırakabilir. Yeraltı istasyonlarında kapsama alanı olan güvenilir bir sağlayıcı seçmek için bir neden daha (Vodafone bazı Metro hatlarında özel Wi‑Fi arama sunarken, EE en iyi yer üstü kapsamasına sahiptir).
+1. **"Sınırsız" tuzağıdır.** Birçok sınırsız plan, günlük bir tavan (genellikle 2–5 GB) sonrası ~128 Kbps'ye düşürür ve bazıları sınırsız katmanlarda hotspot'u açıkça yasaklar. Tethering'e güvenmeden önce adil kullanım politikasını okuyun.
+2. **Hotspot veriyi hızla yakar.** Bir laptopu 1080p yayına bağlamak saatte 1–2 GB yer. Cömert görünen bir "aile planı" bir öğleden sonra içinde buharlaşabilir. Yalnızca fiyatı değil, veriyi de bütçelendirin.
 
+Tethering seyahatinizin merkezindeyse, konu hakkında sessiz kalan değil, açıkça "hotspot'a izin veriliyor" diyen bir sağlayıcı seçin.
 
-## Roami eSIM İngiltere'yi Farklı Kılan Nedir? (Açık İngilizceyle)
 
-Birçok eSIM şirketi yüzeyde aynı görünür. İşte gerçekten önemli olan şeyler:
+## İngiltere Şebekelerinde Wi-Fi Arama
 
-**1. Akıllı ağ geçişi**  
-Çoğu eSIM sizi tek bir taşıyıcıya kilitler (ör. yalnızca Three). Bu taşıyıcının ölü bir noktası varsa, şansınız kalmadı. Roami sürekli olarak sinyal gücünü izler ve tam konumunuzda hangisi en güçlüyse sizi EE, O2 ve Vodafone arasında taşır. Hiçbir şey yapmazsınız. Sadece çalışır.
+İngiltere'nin eski binaları hücresel sinyali öldürme konusunda ünlüdür. Kalın taş duvarlar, Viktorya dönemi publar, bodrum restoranları ve derin metro istasyonlarının hepsi mobil bantları bloke eder. Wi-Fi Arama kaçış kapısıdır: hücresel sinyal çok zayıfken aramaları ve mesajları herhangi bir Wi-Fi ağı üzerinden yönlendirir.
 
-**2. Gizli hız düşürme yok**  
-Bazı "sınırsız" planlar, günde 1GB'dan sonra sizi yavaşlatır. Roami bu oyunları oynamaz. Gördüğünüz, aldığınızdır.
+| Operatör | eSIM'de Wi-Fi Arama | Notlar |
+|---|---|---|
+| EE | Evet | Çoğu ön ödemeli planda mevcut |
+| O2 | Evet | Çoğu ön ödemeli planda mevcut |
+| Three | Evet | Çoğu planda mevcut |
+| Vodafone | Evet | Yalnızca abonelik — ön ödemede yok |
+| Roami | Hayır | Sadece veri — aramaların yönlendirileceği telefon numarası yok |
+| Airalo | Hayır | Sadece veri |
 
-**3. Sakinler için değil, gezginler için tasarlanmıştır**  
-Kredi kontrolü yok. Birleşik Krallık adresi yok. 12 aylık sözleşme yok. esim nasıl alınır diye düşünmeyin: çevrimiçi bir plan satın alın, QR kodunu tarayın ve 3 dakikadan kısa sürede çevrimiçi olun.
+**Kritik ayrım:** Wi-Fi Arama, bir telefon numarasına bağlı bir *operatör* özelliğidir. Sadece veri seyahat eSIM'leri (Roami, Airalo, Holafly) numara içermez; bu yüzden Wi-Fi Arama'nın yönlendireceği bir şey yoktur — ama WhatsApp, FaceTime ve iMessage aramalarını herhangi bir Wi-Fi üzerinden yapabilirsiniz; bu da yolcuların gerçek ihtiyaçlarının çoğunu karşılar.
 
+Eski binalarda uzun süre kalacaksanız *ve* klasik telefon araması yapmanız gerekiyorsa, bu Wi-Fi Arama'lı doğrudan bir EE veya O2 planına işaret eder. "Aramalarınız" zaten WhatsApp ve FaceTime ise, sadece veri içeren bir eSIM ve Wi-Fi işinizi görür. Bu EE/O2 planlarını nasıl alacağınız için [İngiltere eSIM nasıl alınır](/faq/how-to-buy-a-uk-esim/) sayfasına bakın.
 
-## İngiltere ve Avrupa'yı Ziyaret Etmek mi? Çok Ülkeli Bir eSIM Nasıl Seçilir
 
-Seyahatiniz hem İngiltere'yi hem de Avrupa anakarasını (Fransa, Almanya, İtalya, İspanya vb.) içeriyorsa, iki seçeneğiniz var:
+## İngiltere ve Avrupa Çok Ülkeli eSIM Planları
 
-| Seçenek | En İyi Olduğu Durum | Maliyet | Notlar |
-|--------|----------|------|-------|
-| **Bölgesel Avrupa eSIM** | Avrupa'da + İngiltere'de 3+ ülke | 10‑20GB için $20‑40 | Bazı sağlayıcılar Brexit sonrası İngiltere'yi hariç tutuyor – dikkatlice kontrol edin! |
-| **Yalnızca İngiltere + ayrı AB eSIM** | Yalnızca İngiltere seyahati + 1 AB ülkesi | $15 + $15 = ~$30 | Daha pahalı ancak her biri için en iyi ağı seçebilirsiniz |
-| **Küresel eSIM** | Kıtalar arası 5+ ülke | $30‑60 | Dünya gezginleri için en iyisi |
+Seyahatiniz Manş Denizi'ni aşıyorsa format kararı ikinci bir katman kazanır. Brexit sonrası İngiltere'nin yerel operatörlerinin çoğu AB dolaşım ücretlerini geri getirdi — EE, Vodafone ve Three'de kabaca £2–2,50/gün (O2 istisna: ayılık planları 25 GB adil kullanım tavanına kadar AB dolaşımını hâlâ içerir). Yalnızca İngiltere'yi kapsayan fiziksel bir SIM, Paris'e vardığınız anda ek maliyet doğurur.
 
-**Önemli:** Brexit sonrası, birçok "Avrupa" planı artık İngiltere'yi içermiyor. **eSIM Avrupa** planlarına bakarken, İngiltere'nin kapsama listesine dahil olduğunu doğrulayın. Dahil değilse, ayrı bir **İngiltere eSIM** ve ayrı bir **Avrupa eSIM** satın alın.
+Seçenekleriniz:
 
-Roami, ülke kapsamasını açıkça listeleyen bölgesel planlar sunar. Satın almadan önce her zaman kapsama haritasını kontrol edin.
+| Kombinasyon | En uygun olduğu durum | Yaklaşık maliyet | Notlar |
+|---|---|---|---|
+| Bölgesel Avrupa eSIM'i (İngiltere dahil) | İngiltere dahil 3+ ülke | 10–20 GB için 20–40 $ | Tek profil, günlük ücret yok — İngiltere'nin listelendiğini doğrulayın |
+| Yalnızca İngiltere eSIM'i + ayrı AB eSIM'i | İngiltere + bir başka ülke | 15 $ + 15 $ ≈ 30 $ | Daha esnek; her şebekeyi siz seçersiniz |
+| Küresel eSIM | Çok kıtalı seyahat | 30–60 $ | İngiltere, AB ve ötesini kapsar |
 
+**Brexit sonrası tuzak:** birçok "Avrupa" planı 2021'den sonra İngiltere'yi sessizce listeden çıkardı. Satın almadan önce İngiltere'nin kapsama listesinde açıkça göründüğünü her zaman doğrulayın — "yalnızca AB" kapsayan bir plan Londra'da işinize yaramaz.
 
-## İngiltere eSIM Sorun Giderme – En Yaygın Sorunları Çözün
+**İngiltere'yi hangi sağlayıcılar dahil ediyor:** Roami Europe, Airalo Europe (bölgeyi kontrol edin) ve Holafly Europe İngiltere'yi listeler. [İngiltere eSIM plan karşılaştırmamız](/faq/how-to-buy-a-uk-esim/), bunlar ve daha fazlası için 2026 fiyatlarını ve veri kotalarını adım adım anlatır.
 
-İyi bir eSIM ile bile işler ters gidebilir. İşte yapmanız gerekenler:
+**Örnek bir hesap:** Londra ve Paris arasında bölünmüş 10 günlük bir seyahat. Yalnızca İngiltere'yi kapsayan bir eSIM (5–10 GB için yaklaşık 8–15 $) sınırda ölür ve ikinci bir AB planı (~15 $) gerekir. İngiltere'yi listeleyen tek bir bölgesel Avrupa planı ise 10–20 GB için 20–40 $ tutar ve ikisini de kapsar — tek kurulum, değişim yok, günlük ücret yok. İki veya daha fazla ülkeye dokunan seyahatlerde, ikinci planın maliyetini eklediğinizde bölgesel plan neredeyse her zaman kazanır.
 
-| Sorun | Olası Neden | Çözüm |
-|---------|--------------|----------|
-| **eSIM aktive olmuyor** | QR kodu süresi doldu veya Wi‑Fi dengesiz | Yeni bir QR kodu isteyin. Kararlı Wi‑Fi'ye bağlanın. |
-| **Varıştan sonra hizmet yok** | Veri dolaşımı devre dışı | `Ayarlar > Hücresel > eSIM > Veri Dolaşımı` (AÇIK). |
-| **QR kodu geçersiz** | Kodun süresi doldu veya zaten kullanıldı | Sağlayıcınızdan yeni bir QR kodu isteyin. |
-| **Tam çubuklar ama internet yok** | APN ayarları eksik | APN'yi manuel olarak yapılandırın (aşağıya bakın). |
-| **Yavaş hızlar** | Ağ tıkanıklığı veya hız düşürme | Ağı manuel olarak değiştirin (O2'deyseniz EE'yi deneyin, vb.). |
-| **Kırsal alanlarda sinyal yok** | eSIM'iniz zayıf bir ağda | Sağlayıcınız çoklu taşıyıcıyı destekliyorsa otomatik olarak geçiş yapmalıdır. Değilse, manuel olarak EE'yi seçin. |
-| **Sıcak nokta çalışmıyor** | Sağlayıcı sıcak noktayı engelliyor | Plan koşullarınızı kontrol edin. Bazı sağlayıcılar (Holafly) sıcak noktayı sınırlar. |
+**Bir Brexit sonrası ayrıntı daha:** İngiltere artık AB'nin "evindeymişsin gibi dolaş" bölgesinde değil ve bu iki yönlü işler — Fransa'da satın alınan bir Avrupa planı çoğu zaman İngiltere'yi *hariç tutar*. Satın almadan önce ülke listesini her iki yönde de okuyun.
 
-### İngiltere Ağları İçin Manuel APN Yapılandırması
 
-Aktivasyondan sonra veriniz yoksa, APN'yi manuel olarak ayarlamanız gerekebilir:
+## eSIM ile İngiltere Telefon Numarasına İhtiyacınız Var mı?
 
-**iPhone'da:** `Ayarlar > Hücresel > Hücresel Veri Ağı` → APN alanlarını doldurun.
+Bir seyahat eSIM'i neredeyse her zaman **sadece veri**dir: telefon numarası yok; dolayısıyla klasik arama ve SMS yok. 1–30 günlük bir turist için bu sorun değil — WhatsApp, iMessage ve FaceTime veri üzerinden çalışır.
 
-**Android'de:** `Ayarlar > Bağlantılar > Mobil Ağlar > Erişim Noktası Adları` → yeni APN ekleyin.
+İngiltere numarası, banka hesabı açarken, daire kiralamada, NHS'ye kaydolurken veya iş başvurusu yaparken tartışılmaz hale gelir — bankalar ve acenteler size SMS atar ya da arar. Bu durumda fiziksel bir PAYG SIM veya +44 numaralı bir EE/O2/Three ön ödemeli eSIM kazanan formattır. (Nasıl alınacağı [satın alma adımlarında](/faq/how-to-buy-a-uk-esim/) anlatılır.)
 
-| Ağ | APN | Kullanıcı Adı | Şifre |
-|---------|-----|----------|----------|
-| **EE** | everywhere | (boş) | (boş) |
-| **O2** | mobile.o2.co.uk | web | web |
-| **Vodafone** | internet | (boş) | (boş) |
-| **Three** | three.co.uk | (boş) | (boş) |
 
-Hâlâ sorun yaşıyorsanız, 16 gerçek vaka için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
+## Ana SIM'inizi Koruyun ve Bir İngiltere eSIM'i Ekleyin
 
+Çoğu yolcunun gözünden kaçan iki dünyanın da en iyisi seçeneği: seçim yapmak zorunda değilsiniz. Çoğu modern telefon aynı anda iki hat çalıştırır — arama ve mesajlar için ana fiziksel SIM'iniz, veri için bir İngiltere eSIM'i.
 
-## İngiltere eSIM Aktivasyonu: Basit Adım Adım Plan
+**Nasıl çalışır:**
 
-**Uçuştan önce (en az 48 saat önceden)**
+1. **Ana SIM'inizi fiziksel tepside tutun.** Normal numaranız arama, mesaj ve bankanızın iki adımlı kodları için çalışmaya devam eder.
+2. **Veri için bir İngiltere eSIM'i ekleyin.** Onu mobil veri için varsayılan yapın; böylece haritalar, WhatsApp ve gezinme ucuz İngiltere planında akar.
+3. **eSIM için "Veri Dolaşımı"nı açık, ana hattınız için kapalı bırakın** (ya da telefonun otomatik yönlendirmesine izin verin). Ana hattınız, dolaşım veri ücreti ödemeden gelen aramalar için erişilebilir kalır.
 
-1. Telefonunuzun gerçekten eSIM'i desteklediğini kontrol edin. [Uyumluluk aracımızı](/compatibility/) kullanın – tahmin etmeyin.
-2. Bir **seyahat eSIM İngiltere**'ye (kısa seyahatler) mi yoksa yerel faturalı bir plana mı (uzun konaklamalar) ihtiyacınız olduğuna karar verin.
-3. Düşündüğünüz herhangi bir **eSIM**'in "adil kullanım politikasını" okuyun. Hız kesintileri veya sıcak nokta limitleri arayın.
-4. Ziyaret edeceğiniz bölgeler için çevrimdışı Google Haritalar'ı indirin. Sadece önlem olarak.
-5. Bir **Roami eSIM** veya başka bir küresel sağlayıcı kullanıyorsanız, gitmeden önce kurun – profili indirmek için Wi‑Fi'ye ihtiyacınız var.
+**Bu genellikle neden kazanan hamledir:**
 
-**İngiltere'ye indiğinizde**
+- Ana numaranızı bankacılık ve aile için korursunuz *ve* ucuz yerel veri alırsınız.
+- Havalimanında fiziksel SIM değişimi yok; takmadığınız bir kartı kaybedemezsiniz.
+- Ana operatörünüz veri kullanımı görmez, böylece 10 $/gün dolaşım ücretinden tamamen kaçarsınız.
 
-1. Havalimanı ücretsiz Wi‑Fi'sine bağlanın.
-2. eSIM'inizi kurun (QR kodunu tarayın veya uygulamada dokunun) – bu **İngiltere eSIM aktivasyonu** adımıdır.
-3. "Otomatik Ağ Seçimi"ni kapatın ve satın aldığınız ağı seçin (EE, O2 veya Vodafone).
-4. **Veri Dolaşımı**'nı açın – bu, seyahat eSIM'lerinin çalışması için gereklidir.
-5. "Normal"in nasıl göründüğünü bilmek için hızlı bir hız testi yapın.
+**Tek uyarı:** çift SIM, pil biraz daha hızlı tüketir; çünkü telefon iki radyoyu aktif tutar. Uzun bir navigasyon günü için powerbank getirin. Telefonunuz ana şebekeye operatör kilitliyse, kilidi açılana kadar eSIM yuvası engellenebilir.
 
-**Seyahatiniz sırasında**
+Adım adım kurulum için [eSIM nasıl etkinleştirilir](/faq/how-to-activate-an-esim/) sayfasına bakın.
 
-- Otelinizde, favori kafenizde vb. sinyal gücüne dikkat edin.
-- Sıcak nokta kullanıyorsanız, gizli bir limiti aşmadığınızı kontrol edin.
-- Bir şeyler ters giderse, konum, saat ve gördüklerinizle birlikte hemen desteğe başvurun.
-- **İngiltere mobil verisini** yoğun kullanıyorsanız, daha büyük bir veri planı düşünün – düşündüğünüzden daha fazla kullanacaksınız.
 
-Detaylı aktivasyon talimatları için [eSIM nasıl aktive edilir kılavuzumuza](/faq/how-to-activate-an-esim/) bakın. Sorunlarla karşılaşırsanız, [eSIM sorun giderme kılavuzumuz](/faq/esim-deep-troubleshooting-guide-2026/) 16 gerçek vakayı kapsar.
+## İngiltere eSIM'i Nasıl Kurulur
 
+Formatınızı seçtiniz mi? Karardan çalışan bağlantıya kısa yol şöyle:
 
-## İngiltere eSIM'leri Hakkında Sıkça Sorulan Sorular
+1. **Telefonunuzun eSIM'i desteklediğini doğrulayın.** `*#06#` tuşlayın — 32 haneli bir EID görüyorsanız hazırsınız. Tüm ayrıntılar ve eksiksiz cihaz listesi [uyumluluk sayfamızda](/compatibility/).
+2. **Uçmadan önce kurulumu yapın.** Planı ev Wi-Fi'sinde etkinleştirin; iniş anında hazır olsun — havalimanı Wi-Fi'sine güvenmeyin. Tam rehber için [eSIM etkinleştirme rehberimize](/faq/how-to-activate-an-esim/) bakın.
 
-**S1: Neden indiğimde havalimanından SIM satın almıyorum?**  
-Çünkü **İngiltere mobil veriniz** için normal fiyatın %30‑50 daha fazlasını ödersiniz. Havalimanları kapana kısılmış bir müşteri olduğunuzu bilir. Gitmeden önce çevrimiçi bir **eSIM** satın alın. **Çevrimiçi eSIM satın al İngiltere eSIM** yapmanın ana nedeni budur.
+İnişten sonra veri bağlanmıyorsa, klasik çözüm hızlı bir APN veya Veri Dolaşımı kontrolüdür — [eSIM sorun giderme rehberimiz](/faq/esim-deep-troubleshooting-guide-2026/) her hatayı ve tam APN tablosunu kapsar.
 
-**S2: Telefonumun İngiltere eSIM ile çalışıp çalışmadığını nasıl anlarım?**  
-Varsaymayın. [Uyumluluk aracımızı](/compatibility/) kullanın – tam modelinizi ve bölgenizi kontrol eder. Veya `*#06#` tuşlayın – eğer bir EID görünüyorsa, telefonunuz uyumludur.
 
-**S3: İç mekanda neden tam çubuklarım var ama internet yok?**  
-Eski İngiltere binaları, yüksek hızlı 5G'yi engelleyen kalın duvarlara sahiptir. İyi bir **eSIM** (Roami gibi) otomatik olarak daha yavaş ancak geçebilen daha güvenilir bir sinyale geçer. O2 en iyi iç mekan nüfuziyetine sahiptir.
+## Sıkça Sorulan Sorular
 
-**S4: İskoç Yaylaları'nda araba kullanmak için en iyi seçenek nedir?**  
-EE kullanan bir **eSIM** seçin – kırsal alanlarda en geniş kapsama alanına sahiptir. Ve gitmeden önce çevrimdışı haritaları indirin. Bazı vadilerde hiçbir sağlayıcıdan sinyal almazsınız.
+**İngiltere'de eSIM gerçekten fiziksel SIM'den daha mı ucuz?**
+Kısa seyahatlerde neredeyse her zaman evet. Şehir mağazasında alınan 5 GB fiziksel SIM £10–15 tutar; aynı kota bir seyahat eSIM'inde tipik olarak 5–10 $ ve havalimanı zamını ve mağaza ziyaretini atlıyorsunuz. Uzun konaklamalarda fiziksel PAYG SIM'in GB başına daha düşük oranı, İngiltere numarası da denkleme eklendiğinde kazanabilir.
 
-**S5: Roami'yi diğer seyahat eSIM'lerinden farklı kılan nedir?**  
-Çoğu sizi tek bir ağa kilitler. Roami, konumunuzda size en iyi sinyali vermek için EE, O2 ve Vodafone arasında otomatik olarak geçiş yapar. Ayrıca, gizli hız düşürme yoktur.
+**Telefonumda fiziksel SIM yuvası varsa eSIM çalışır mı?**
+Evet. Çoğu modern telefon ikisini de aynı anda çalıştırır (çift SIM); böylece ana numaranızı fiziksel SIM'de tutup İngiltere verisini eSIM'de çalıştırabilirsiniz.
 
-**S6: İki haftalık bir seyahat için ön ödemeli bir Vodafone eSIM alabilir miyim?**  
-Hayır. **Vodafone UK** hiç ön ödemeli eSIM sunmamaktadır. Yalnızca Birleşik Krallık adresi ve kredi kontrolü ile faturalı sözleşmeler.
+**eSIM bana İngiltere telefon numarası verir mi?**
+Genellikle hayır — seyahat eSIM'leri sadece veridir. +44 numarasına ihtiyacınız varsa bu, fiziksel PAYG SIM veya EE/O2 ön ödemeli eSIM lehinedir. Seçenekler için satın alma rehberine bakın.
 
-**S7: Vodafone UK'in Pay As You Go için herhangi bir eSIM'i var mı?**  
-2026 itibarıyla hayır. Eski forum gönderilerinde evet yazıyorsa, muhtemelen Birleşik Krallık değil, Vodafone Almanya veya İtalya'dan bahsediyorlardı.
+**Laptopumu bir İngiltere eSIM'ine bağlayabilir miyim (tethering)?**
+Çoğu sağlayıcıda evet. İstisna, hotspot'u sınırlayan veya engelleyen bir avuç "sınırsız" plandır. Tethering önemliyse satın almadan önce doğrulayın.
 
-**S8: Altı aylığına Birleşik Krallık'a taşınan bir öğrenciyim. Vodafone UK eSIM almalı mıyım?**  
-Deneyebilirsiniz, ancak önce bir Birleşik Krallık banka hesabına ve ikamet kanıtına ihtiyacınız olacak. Bununla bile, 12 aylık bir sözleçme isteyebilirler. İlk ayınız için Giffgaff (fiziksel SIM) veya bir **seyahat eSIM İngiltere** düşünün.
+**İç mekanda sinyal çubuklarım tam ama internetim neden yok?**
+Kalın duvarlı İngiltere binaları yüksek frekanslı bantları bloke eder. Çoklu şebeke bir eSIM, içeri nüfuz eden daha düşük ve yavaş bir banda düşer; Wi-Fi Arama (veya Wi-Fi üzerinden WhatsApp) gerisini kapatır.
 
-**S9: Zaten İspanya'dan bir Vodafone eSIM'im var. Bunu İngiltere'de kullanabilir miyim?**  
-Evet, İspanyol planınız Birleşik Krallık dolaşımını içeriyorsa. Ancak bu dolaşımdır, yerel bir **İngiltere eSIM** değil. Adil kullanım politikanızı kontrol edin – hızlar sınırlanmış olabilir.
+**Telefonumun frekans bantları, eSIM-fiziksel SIM meselesinden daha mı önemli?**
+Kırsal İngiltere'de evet. Band 20 (800 MHz) eksikliği, formattan bağımsız olarak her şebekede kapsamı bozar — Highlands veya Wales seyahatinden önce modelinizin bant listesini kontrol edin.
 
-**S10: Hangi seyahat eSIM sağlayıcıları Vodafone UK'de çalışıyor?**  
-Birçoğu – Roami, Airalo ve diğerlerinin hepsi Vodafone ile anlaşmalara sahiptir. Ancak dürüst olmak gerekirse, markayı önemsememelisiniz – ihtiyacınız olduğunda sinyale sahip olmayı önemsemelisiniz.
+**Tek bir eSIM hem İngiltere'yi hem Avrupa'yı kapsayabilir mi?**
+Evet, İngiltere'yi açıkça listeleyen bölgesel bir Avrupa planı satın alırsanız. Brexit sonrası kapsama listesini iki kez kontrol edin.
 
-**S11: İngiltere'yi ziyaret ettikten sonra bir İngiltere eSIM'ini Avrupa'da kullanabilir miyim?**  
-Bağlıdır. Birçok **İngiltere eSIM** planı yalnızca İngiltere içindir ve Avrupa'da çalışmaz. Her ikisini de ziyaret ediyorsanız, İngiltere'yi içeren bölgesel bir Avrupa planı satın alın. Kapsamı dikkatlice kontrol edin – Brexit sonrası bazı "Avrupa" planları İngiltere'yi hariç tutar.
+**Zaten çalışan bir fiziksel SIM'im var — eSIM'e geçmeli miyim?**
+Yalnızca inişten önce satın almak, mağaza ziyaretinden kaçınmak veya ikinci bir tepsi yuvası olmadan ikinci bir hat eklemek istiyorsanız. Elinizdeki fiziksel kart çalışmaya devam eder.
 
-**S12: Bir İngiltere seyahati için aslında ne kadar veriye ihtiyacım var?**  
-- Hafif kullanım (haritalar, WhatsApp, ara sıra gezinti): 1‑3GB/hafta
-- Orta düzey (sosyal medya, müzik akışı): 5‑10GB/hafta
-- Yoğun (görüntülü aramalar, akış, sıcak nokta): 10‑20GB/hafta
+**İngiltere seyahati için tek en iyi eSIM hangisi?**
+Evrensel bir "en iyi" yok — rotanıza bağlı. Şehir gezileri için herhangi bir ucuz plan iş görür. Kırsal rotalar için EE'ye ulaşan çoklu şebeke planı seçin. Çok ülkeli seyahat için İngiltere'yi listeleyen bölgesel Avrupa planı. [İngiltere eSIM plan fiyatlarımız](/faq/how-to-buy-a-uk-esim/) 2026 planlarını yan yana karşılaştırır; böylece güzergahınıza uyanı seçebilirsiniz.
 
-Daha fazla veri planı rehberliği için [eSIM veri planları karşılaştırmamıza](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/#4-esim-data-plans-how-much-data-do-you-actually-need-for-your-trip) bakın.
+**Yalnızca Londra'yı geziyorsam Band 20'ye ihtiyacım var mı?**
+Aslında hayır. Band 20 (800 MHz) en çok kırsalda ve kalın duvarlı binaların içinde önemlidir. Londra'nın yoğun üst bant ağı neredeyse her yeri kapsar; Band 20 eksik bir telefon başkentte gayet iyi çalışır — ancak kırsal bir günü gezisinde sorun çıkarır.
 
-**S13: Mevcut en ucuz İngiltere eSIM hangisidir?**  
-Roami'nin 1GB/7 günlük planı $1.99 ile şu anda en ucuzdur. Daha fazla veri için Airalo'nun 5GB/7 günlük $10 planı rekabetçidir, ancak Roami genellikle fiyat ve çoklu ağ geçişi açısından onu geride bırakır. Her zaman GB başına toplam maliyeti karşılaştırın.
+**ABD planımın ücretsiz uluslararası verisini İngiltere'de kullanabilir miyim?**
+ABD planınız İngiltere verisi içeriyorsa (T-Mobile'ın uluslararası hizmeti, AT&T International Day Pass, Verizon TravelPass) kullanabilirsiniz — ama hızı kontrol edin. Çoğu, günlük bir ücret ödemedikçe yalnızca yavaş "2G hızında" veri (128–256 Kbps) içerir; bu, haritalar veya görüntülü arama için çok yavaştır. 5–10 $'lık bir seyahat eSIM'i genellikle 10 $/gün'lük paketten daha hızlı ve ucuzdur.
 
-**S14: Avrupa'da dolaşım için en iyi İngiltere eSIM hangisidir?**  
-Yalnızca İngiltere'ye özel bir eSIM Avrupa'da çalışmaz. Roami, Airalo veya Holafly'den hem İngiltere'yi hem de AB ülkelerini içeren bölgesel bir Avrupa planı satın alın. Bu, **İngiltere ve Avrupa eSIM** ihtiyaçları için en iyi yaklaşımdır.
+**Uçmadan önce hem İngiltere eSIM'i hem Avrupa eSIM'i kurabilir miyim?**
+Evet. Çoğu telefon 5–8 eSIM profili saklar (aynı anda iki tanesi aktif); yani yola çıkmadan önce yalnızca İngiltere planı ve ayrı bir AB planı kurup sınırı geçerken aralarında geçiş yapabilirsiniz. İngiltere'yi listeleyen tek bir bölgesel Avrupa planı tüm rotanızı kapsıyorsa daha basittir — ama iki plan size her şebeke üzerinde daha fazla kontrol verir.
 
 
-## Sonuç: Akıllı İngiltere Gezgininin Stratejisi
+## Sonuç
 
-**Seçiminiz = Seyahatçi tipiniz + Ne kadar kalacağınız + Ölü bölgelerden ne kadar nefret ettiğiniz**
+Format kararı göründüğünden küçüktür. Seyahatiniz bir aydan kısa ve İngiltere telefon numarasına ihtiyacınız yoksa, eSIM fiyat, hız ve kolaylıkta kazanır. Aylarca kalacak ve +44 numarası gerekiyorsa, fiziksel SIM (veya yerel ön ödemeli eSIM) sürekli maliyette kazanır. Tek evrensel kural: kırsal bir seyahatten önce telefonunuzun Band 20 desteğini kontrol edin ve seçtiğiniz her şeyi uçmadan *önce* satın alın.
 
-Ziyaretçilerin %90'ı (1‑30 gün) için cevap açıktır: akıllı ağ geçişi, gizli hız düşürme olmadan ve şeffaf fiyatlandırma ile özel bir **seyahat eSIM İngiltere** satın alın. İster **Roami eSIM**, **Airalo eSIM UK eSIM** veya başka bir sağlayıcı seçin, kilit nokta gitmeden önce satın almaktır.
+👉 **Planları ve fiyatları görmeye hazır mısınız?** Bu sayfanın eşi olan [İngiltere eSIM plan ve fiyat karşılaştırmasına](/faq/how-to-buy-a-uk-esim/) gidin.
 
-Ön ödemeli bir **Vodafone UK eSIM** aramayın – turistler için bir seraptır. Bunu kabul edin ve gerçekten çalışan bir çözüm seçin.
+👉 **Telefonunuzun eSIM'i desteklediğinden emin değil misiniz?** [Uyumluluk listesine](/compatibility/) bakın.
 
-3+ ay kalıyorsanız, önce bir Birleşik Krallık banka hesabı ve adres edinin. Ardından faturalı bir **Vodafone UK eSIM** veya **EE UK eSIM** düşünün. Ancak ilk birkaç haftanız için bir **seyahat eSIM İngiltere** size baş ağrısından kurtaracaktır.
-
-**Son tavsiye:** Sonsuz karşılaştırmaları okumayı bırakın. Yukarıdaki tabloda seyahatçi tipinizi bulun. Ağ karmaşıklığını sizin için yöneten Roami gibi bir sağlayıcı seçin. Üç adımlı planı (öncesi, sırası, sonrası) takip edin. Ardından bağlantıyı unutun ve seyahatinizin tadını çıkarın.
+👉 **Ücretsiz denemek ister misiniz?** [Ücretsiz deneme Roami eSIM'ini](/free-esim/) alın — iki dakika, telefonunuzun çalıştığını doğrular, hiçbir maliyeti yok.
 
 ---
 
-*Ofcom verileri, GSMA standartları ve taşıyıcı testlerine dayanmaktadır. Güncellenme: Haziran 2026.*
+*Eylül 2026 itibarıyla Ofcom verileri, GSMA standartları ve operatör testlerine dayanmaktadır.*
+## Kaynaklar
+
+- [GSMA — eSIM (SGP.22) spesifikasyonu](https://www.gsma.com/esim/)
+- [Apple Destek — iPhone'da eSIM kurulumu](https://support.apple.com/en-us/HT212780)
+- [Google Destek — eSIM kurulumu](https://support.google.com/pixelphone/answer/14853135)
+- [Google Destek — Android eSIM](https://support.google.com/android/answer/11241215)
+- [Ofcom — İngiltere mobil kapsama denetleyicisi](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker)

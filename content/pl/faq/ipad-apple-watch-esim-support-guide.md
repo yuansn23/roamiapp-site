@@ -1,12 +1,13 @@
 ---
-title: "eSIM na iPadzie i Apple Watch: Kompletny przewodnik"
-h1_title: "Kompletny przewodnik po eSIM na iPadzie i Apple Watch: kompatybilność i aktywacja"
-description: "Które iPady i Apple Watche obsługują eSIM? Pełna lista: iPad Pro, Air, mini, 10. generacji; Watch Series 10, 9, Ultra, SE. Aktywuj i rozwiąż problemy."
-image: "/img/esim/ipad-esim-guide.jpg"
-keywords: ["ipad esim", "does ipad have esim", "ipad with esim", "ipad esim plans", "apple watch esim", "apple watch cellular esim", "apple watch esim plan", "smartwatch with esim", "flip phones with esim", "ipad pro esim", "ipad mini 7 esim", "ipad air m3 esim", "apple watch series 10 esim", "apple watch family setup esim", "apple watch ultra 2 esim", "apple watch standalone plan", "ipad esim activation"]
-date: 2026-09-08T10:00:00Z
-lastmod: 2026-09-08T00:00:00Z
-tags: ["iPad", "Apple Watch", "eSIM", "Cellular", "Kompatybilność"]
+title: "eSIM na iPad i Apple Watch: Kompletny przewodnik"
+h1_title: "Kompletny przewodnik po eSIM na iPad i Apple Watch: Zgodność i aktywacja"
+description: "Które iPady i Apple Watche obsługują eSIM? Pełna lista: iPad Pro, Air, mini, 10. gen; Watch Series 10, 9, Ultra, SE. Aktywacja i rozwiązywanie problemów."
+image: "/img/faq/ipad-apple-watch-esim.webp"
+image-1: "/img/faq/ipad-apple-watch-esim-1.jpg"
+keywords: ["ipad esim", "czy ipad ma esim", "ipad z esim", "plany ipad esim", "apple watch esim", "apple watch cellular esim", "plan apple watch esim", "smartwatch z esim", "telefony składane z esim", "ipad pro esim", "ipad mini 7 esim", "ipad air m3 esim", "apple watch series 10 esim", "apple watch family setup esim", "apple watch ultra 2 esim", "apple watch plan standalone", "aktywacja ipad esim"]
+date: 2026-09-18T00:00:00Z
+lastmod: 2026-09-18T00:00:00Z
+tags: ["iPad", "Apple Watch", "eSIM", "Cellular", "Zgodność"]
 toc: true
 
 # Site & SEO
@@ -25,7 +26,7 @@ breadcrumbs:
     text: "Strona główna"
     url: "/"
   parent:
-    text: "Kompatybilność eSIM"
+    text: "Zgodność eSIM"
     url: "/compatibility/"
 
 # Sidebar: Popular eSIMs
@@ -33,44 +34,44 @@ sidebar_popular:
   title: "Popularne eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "USA eSIM"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
     - name: "Niemcy eSIM"
       flag: "/img/flags/de.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
     - name: "Europa eSIM"
       flag: "/img/flags/eu.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
     - name: "Turcja eSIM"
       flag: "/img/flags/tr.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
     - name: "Japonia eSIM"
       flag: "/img/flags/jp.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
     - name: "Chiny eSIM"
       flag: "/img/flags/cn.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
 sidebar_free:
-  title: "Zdobądź darmową eSIM"
+  title: "Odbierz darmowe eSIM"
   icon: "🎁"
-  item_suffix: "Darmowa eSIM"
-  item_subtitle: "Darmowa eSIM"
+  item_suffix: "Darmowe eSIM"
+  item_subtitle: "Darmowe eSIM"
   items:
-    - name: "Wielka Brytania eSIM"
+    - name: "eSIM UK"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Niemcy"
@@ -79,7 +80,7 @@ sidebar_free:
     - name: "Tajlandia"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
+    - name: "Hongkong"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
@@ -90,72 +91,74 @@ sidebar_questions:
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Jak aktywować eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Jak aktywować eSIM na iPhonie (wszystkie modele)?"
+    - question: "Jak aktywować eSIM na iPhone (wszystkie modele)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Najnowsza lista kompatybilności eSIM"
+    - question: "Najnowsza lista zgodności eSIM"
       url: "/compatibility/"
 ---
 
 
-> **Nota redakcyjna:** Roami to amerykański dostawca eSIM obsługujący ponad 500 000 podróżnych. Ten przewodnik opiera się na oficjalnej dokumentacji Apple, standardach GSMA i rzeczywistych danych aktywacyjnych z naszego zespołu wsparcia. Wszystkie informacje o kompatybilności zostały zweryfikowane według stanu na sierpień 2026.
+> **Uwaga redaktora:** Komórkowe iPady i Apple Watche obsługują eSIM, natomiast modele tylko z Wi‑Fi nie, a odpowiedź zależy od dokładnego modelu. Ten przewodnik jest zgodny z oficjalną dokumentacją Apple, standardami GSMA i rzeczywistymi danymi aktywacji od naszego zespołu wsparcia, zweryfikowanymi na wrzesień 2026. Sprawdź tabelę zgodności poniżej, aby potwierdzić swoje urządzenie w kilka sekund.
+
+Większość komórkowych iPadów od 2019 roku obsługuje eSIM, a Apple Watch również od Series 5 wzwyż (plus linie SE i Ultra) — najszybszym potwierdzeniem jest 32-cyfrowy EID w Ustawieniach. Poniżej znajdziesz pełne tabele modeli dla obu rodzin urządzeń, przewodniki aktywacji i typy planów tylko do danych, których każde z nich faktycznie potrzebuje.
 
 
-## 10‑sekundowa szybka diagnoza – znajdź swoje urządzenie, uzyskaj odpowiedź
+## Czy Twój iPad lub Apple Watch obsługuje eSIM?
 
-**Nie wiesz, czy Twoje urządzenie obsługuje eSIM? Znajdź je poniżej i przejdź bezpośrednio do odpowiedzi.**
+**Nie jesteś pewien, czy Twoje urządzenie obsługuje eSIM? Znajdź je poniżej i przejdź od razu do odpowiedzi.**
 
 | Twoje urządzenie | Sprawdź to | Przejdź do |
 | :--- | :--- | :--- |
-| **iPad (dowolny model)** | Czy to tylko Wi‑Fi czy Cellular? | [Szybka kontrola iPad](#does-your-ipad-support-esim--3second-check) |
-| **iPad Pro 11" lub 12.9"** | Wszystkie modele Cellular = ✅ Tak | [Tabela kompatybilności iPad](#ipad-esim-compatibility-table--which-models-support-esim) |
-| **iPad Air (dowolna generacja)** | 3. generacja i nowsze = ✅ Tak | [Tabela kompatybilności iPad](#ipad-esim-compatibility-table--which-models-support-esim) |
-| **iPad mini** | 5. generacja i nowsze = ✅ Tak | [Tabela kompatybilności iPad](#ipad-esim-compatibility-table--which-models-support-esim) |
-| **iPad 10. generacji lub nowszy** | Wszystkie Cellular = ✅ Tak | [Tabela kompatybilności iPad](#ipad-esim-compatibility-table--which-models-support-esim) |
-| **Apple Watch (dowolny model)** | Tylko GPS = ❌ Nie \| GPS+Cellular = ✅ Tak | [Szybka kontrola Apple Watch](#does-your-apple-watch-support-esim--3second-check) |
-| **Apple Watch Series 10 / 9 / Ultra** | Wszystkie modele Cellular = ✅ Tak | [Tabela kompatybilności Apple Watch](#apple-watch-esim-compatibility-table--which-models-work) |
-| **Samsung Galaxy Z Flip series** | Flip3 i nowsze = ✅ Tak | [Telefony składane i inne urządzenia](#other-devices-smartwatches-and-flip-phones-with-esim) |
-| **Motorola Razr (2022+)** | Modele Razr+ = ✅ Tak | [Telefony składane i inne urządzenia](#other-devices-smartwatches-and-flip-phones-with-esim) |
-| **Nie jesteś pewien – po prostu sprawdź moje urządzenie** | Poszukaj EID w Ustawieniach | [Jak sprawdzić iPad](#how-to-check-if-your-ipad-supports-esim) / [Jak sprawdzić Apple Watch](#how-to-check-if-your-apple-watch-supports-esim) |
+| **iPad (dowolny model)** | Czy jest tylko Wi‑Fi czy Cellular? | [Szybkie sprawdzenie iPada](#does-your-ipad-support-esim) |
+| **iPad Pro 11" lub 12.9"** | Wszystkie modele komórkowe = ✅ Tak | [Tabela zgodności iPada](#ipad-esim-compatibility-table) |
+| **iPad Air (dowolna generacja)** | 3. gen i nowsze = ✅ Tak | [Tabela zgodności iPada](#ipad-esim-compatibility-table) |
+| **iPad mini** | 5. gen i nowsze = ✅ Tak | [Tabela zgodności iPada](#ipad-esim-compatibility-table) |
+| **iPad 10. gen lub nowszy** | Wszystkie komórkowe = ✅ Tak | [Tabela zgodności iPada](#ipad-esim-compatibility-table) |
+| **Apple Watch (dowolny model)** | Tylko GPS = ❌ Nie \| GPS+Cellular = ✅ Tak | [Szybkie sprawdzenie Apple Watch](#apple-watch-esim-compatibility-table) |
+| **Apple Watch Series 10 / 9 / Ultra** | Wszystkie modele Cellular = ✅ Tak | [Tabela zgodności Apple Watch](#apple-watch-esim-compatibility-table) |
+| **Samsung Galaxy Z Flip series** | Flip3 i nowsze = ✅ Tak | [Telefony składane i inne urządzenia](#smartwatches-and-flip-phones-with-esim) |
+| **Motorola Razr (2022+)** | Modele Razr+ = ✅ Tak | [Telefony składane i inne urządzenia](#smartwatches-and-flip-phones-with-esim) |
+| **Nie jestem pewien – po prostu sprawdź moje urządzenie** | Poszukaj EID w Ustawieniach | [Jak sprawdzić iPada](#how-to-check-if-your-ipad-supports-esim) / [Jak sprawdzić Apple Watch](#how-to-check-if-your-apple-watch-supports-esim) |
 
-> ⚠️ **Ostrzeżenie krytyczne – iPad mini 7 (A17 Pro):** Ten model jest **tylko eSIM** – nie ma fizycznej tacki SIM. Jeśli kupujesz wersję z komórkową, **musisz** używać eSIM. Nie ma możliwości użycia fizycznej karty SIM. Zobacz tabelę kompatybilności poniżej po szczegóły.
+> ⚠️ **Krytyczne ostrzeżenie – iPad mini 7 (A17 Pro):** Ten model jest **TYLKO eSIM** – nie ma tacki na fizyczną SIM. Jeśli kupujesz wersję komórkową, **musisz** używać eSIM. Nie ma odwrotu do fizycznej karty SIM. Zobacz tabelę zgodności poniżej, aby poznać szczegóły.
 
 
-## Kompletna ścieżka urządzenia – od „Czy to działa?” do „Jestem połączony”
+## Kompletny przewodnik po eSIM na iPad i Apple Watch
 
-Oto ścieżka, którą podąża większość użytkowników podczas konfiguracji eSIM na iPadzie lub Apple Watch.
+Oto ścieżka, którą podąża większość użytkowników przy konfiguracji eSIM na iPad lub Apple Watch.
 
-| Krok | Co robisz | Szacowany czas | Gdzie znaleźć |
+| Krok | Co robisz | Szacowany czas | Gdzie to znaleźć |
 | :--- | :--- | :--- | :--- |
-| **1. Sprawdź kompatybilność urządzenia** | Sprawdź, czy Twój konkretny model ma sprzęt eSIM. | 1 min | [Szybka kontrola iPad](#does-your-ipad-support-esim--3second-check) / [Szybka kontrola Apple Watch](#does-your-apple-watch-support-esim--3second-check) |
-| **2. Znajdź EID** | Potwierdź, że sprzęt eSIM jest obecny i aktywny. | 1 min | [Jak sprawdzić iPad](#how-to-check-if-your-ipad-supports-esim) / [Jak sprawdzić Apple Watch](#how-to-check-if-your-apple-watch-supports-esim) |
+| **1. Zweryfikuj zgodność urządzenia** | Sprawdź, czy Twój konkretny model ma sprzęt eSIM. | 1 min | [Szybkie sprawdzenie iPada](#does-your-ipad-support-esim) / [Szybkie sprawdzenie Apple Watch](#apple-watch-esim-compatibility-table) |
+| **2. Znajdź EID** | Potwierdź, że sprzęt eSIM jest obecny i aktywny. | 1 min | [Jak sprawdzić iPada](#how-to-check-if-your-ipad-supports-esim) / [Jak sprawdzić Apple Watch](#how-to-check-if-your-apple-watch-supports-esim) |
 | **3. Wybierz typ planu** | Tylko dane (iPad) vs plan Companion (Apple Watch). | 2-3 min | [Wybór planów eSIM](#choosing-esim-plans-for-ipad-and-apple-watch) |
-| **4. Aktywuj eSIM** | Zeskanuj kod QR (iPad) lub użyj aplikacji Watch (Apple Watch). | 2-5 min | [Aktywacja eSIM na iPadzie](#how-to-activate-esim-on-ipad) / [Aktywacja eSIM na Apple Watch](#how-to-activate-esim-on-apple-watch) |
-| **5. Rozwiąż problemy, jeśli potrzebne** | Brak sygnału? Aktywacja nieudana? Napraw szybko. | 5-10 min | [Rozwiązywanie problemów](#troubleshooting-esim-on-ipad-and-apple-watch) |
+| **4. Aktywuj eSIM** | Zeskanuj kod QR (iPad) lub użyj aplikacji Watch (Apple Watch). | 2-5 min | [Aktywuj eSIM na iPad](#how-to-activate-esim-on-ipad) / [Aktywuj eSIM na Apple Watch](#how-to-activate-esim-on-apple-watch) |
+| **5. Rozwiąż problemy, jeśli trzeba** | Brak sygnału? Aktywacja nie powiodła się? Napraw szybko. | 5-10 min | [Rozwiązywanie problemów](#troubleshooting-esim-on-ipad-and-apple-watch) |
 
 
-## Czy Twój iPad obsługuje eSIM? – 3‑sekundowa kontrola
+## Czy Twój iPad obsługuje eSIM?
 
 **Krótka odpowiedź:**
 
-| Twój typ iPad | Obsługa eSIM |
+| Typ iPada | Obsługa eSIM |
 | :--- | :--- |
-| **iPad tylko Wi‑Fi** | ❌ **Nie** – w ogóle brak sprzętu komórkowego |
-| **iPad Wi‑Fi + Cellular (7. generacja i nowsze)** | ✅ **Tak** – wbudowana eSIM |
-| **iPad Wi‑Fi + Cellular (6. generacja i starsze)** | ❌ **Nie** – tylko fizyczna SIM, brak wbudowanego chipa eSIM |
+| **iPad tylko Wi‑Fi** | ❌ **Nie** – brak sprzętu komórkowego w ogóle |
+| **iPad Wi‑Fi + Cellular (7. gen i nowsze)** | ✅ **Tak** – eSIM wbudowany |
+| **iPad Wi‑Fi + Cellular (6. gen i starsze)** | ❌ **Nie** – tylko fizyczna SIM, brak chipu wbudowanej SIM |
 
-> **Szybka kontrola wizualna:** Odwróć iPada. Jeśli na tylnej obudowie znajduje się **czarny plastikowy pasek** u góry (na antenę) – to model cellular. Jeśli tylna obudowa jest w całości metalowa – to tylko Wi‑Fi.
+> **Szybkie sprawdzenie wizualne:** Odwróć iPada. Jeśli tył ma **czarny plastikowy pasek** u góry (dla anteny) – to model komórkowy. Jeśli tył jest cały metalowy – to tylko Wi‑Fi.
 
-**Nawet jeśli Twój iPad ma fizyczną tackę SIM, zawiera również wbudowany chip eSIM w modelach cellular od 7. generacji wzwyż.** Możesz używać jednego – lub obu w trybie dual SIM.
+**Nawet jeśli Twój iPad ma tackę na fizyczną SIM, zawiera również wbudowany chip eSIM w modelach komórkowych od 7. generacji wzwyż.** Możesz używać jednego – lub obu w trybie dual‑SIM.
 
-Oficjalna [strona pomocy Apple dotycząca eSIM na iPadzie](https://support.apple.com/en-us/108072) zawiera dodatkowe informacje o kompatybilnych modelach. Technologia stojąca za cyfrowymi profilami SIM jest regulowana przez [standard GSMA SGP.22](https://www.gsma.com/esim/). Pełną listę **urządzeń kompatybilnych z eSIM** wszystkich marek znajdziesz na naszej **[pełnej liście kompatybilności](/compatibility/)** .
+[Oficjalna strona pomocy Apple dla eSIM na iPad](https://support.apple.com/en-us/HT212780) zawiera dodatkowe szczegóły dotyczące kompatybilnych modeli. Technologia stojąca za cyfrowymi profilami SIM jest regulowana przez [standard GSMA SGP.22](https://www.gsma.com/esim/). Aby uzyskać pełną listę **telefonów zgodnych z eSIM** i urządzeń wszystkich marek, zobacz naszą **[kompletną listę zgodności](/compatibility/)**.
 
 
-## Tabela kompatybilności eSIM na iPadzie – które modele obsługują eSIM?
+## Tabela zgodności iPad z eSIM
 
-| Model iPad | Obsługa eSIM | Fizyczna tacka SIM | Limit przechowywania eSIM | Uwagi |
+| Model iPada | Obsługa eSIM | Slot fizycznej SIM | Limit przechowywania eSIM | Uwagi |
 | :--- | :--- | :--- | :--- | :--- |
-| **iPad Pro 11‑calowy (1.–5. gen)** | ✅ Tak | ✅ Tak | Do 8 profili | Wszystkie modele cellular |
-| **iPad Pro 12.9‑calowy (1.–6. gen)** | ✅ Tak | ✅ Tak | Do 8 profili | Wszystkie modele cellular |
+| **iPad Pro 11‑inch (1.–5. gen)** | ✅ Tak | ✅ Tak | Do 8 profili | Wszystkie modele komórkowe |
+| **iPad Pro 12.9‑inch (1.–6. gen)** | ✅ Tak | ✅ Tak | Do 8 profili | Wszystkie modele komórkowe |
 | **iPad Air (3. gen)** | ✅ Tak | ✅ Tak | Do 5 profili | A12 Bionic |
 | **iPad Air (4. gen)** | ✅ Tak | ✅ Tak | Do 5 profili | A14 Bionic |
 | **iPad Air (5. gen – M1)** | ✅ Tak | ✅ Tak | Do 5 profili | Chip M1 |
@@ -163,7 +166,7 @@ Oficjalna [strona pomocy Apple dotycząca eSIM na iPadzie](https://support.apple
 | **iPad Air (7. gen – M3)** | ✅ Tak | ✅ Tak | Do 5 profili | **iPad Air M3 eSIM** – w pełni obsługiwany |
 | **iPad mini (5. gen)** | ✅ Tak | ✅ Tak | Do 5 profili | Ostatni mini z fizyczną SIM |
 | **iPad mini (6. gen – A15)** | ✅ Tak | ✅ Tak | Do 5 profili | **iPad mini 6 eSIM** – w pełni obsługiwany |
-| **iPad mini (7. gen – A17 Pro)** | ✅ Tak | ❌ **Nie** | Do 5 profili | **iPad mini 7 eSIM** – **TYLKO eSIM** – brak fizycznej tacki SIM! |
+| **iPad mini (7. gen – A17 Pro)** | ✅ Tak | ❌ **Nie** | Do 5 profili | **iPad mini 7 eSIM** – **TYLKO eSIM** – brak tacki na fizyczną SIM! |
 | **iPad (7. gen)** | ✅ Tak | ✅ Tak | Do 5 profili | Pierwszy standardowy iPad z wbudowaną SIM |
 | **iPad (8. gen)** | ✅ Tak | ✅ Tak | Do 5 profili | – |
 | **iPad (9. gen)** | ✅ Tak | ✅ Tak | Do 5 profili | – |
@@ -171,162 +174,162 @@ Oficjalna [strona pomocy Apple dotycząca eSIM na iPadzie](https://support.apple
 | **iPad (6. gen i starsze)** | ❌ Nie | ✅ Tak | Nie dotyczy | Tylko fizyczna SIM |
 | **Dowolny iPad tylko Wi‑Fi** | ❌ Nie | ❌ Nie | Nie dotyczy | Brak sprzętu komórkowego |
 
-> ⚠️ **Ostrzeżenie krytyczne – iPad mini 7 (A17 Pro):** Ten model jest **tylko eSIM** – nie ma fizycznej tacki SIM. Jeśli kupujesz wersję z komórkową, **musisz** używać eSIM. Nie ma możliwości użycia fizycznej karty SIM. To duża zmiana w porównaniu z poprzednimi modelami iPad mini.
+> ⚠️ **Krytyczne ostrzeżenie – iPad mini 7 (A17 Pro):** Ten model jest **tylko eSIM** – nie ma tacki na fizyczną SIM. Jeśli kupujesz wersję komórkową, **musisz** używać eSIM. Nie ma odwrotu do fizycznej karty SIM. To duża zmiana w stosunku do poprzednich modeli iPad mini.
 
-> **Co to jest "Limit przechowywania eSIM"?** To maksymalna liczba cyfrowych profili operatorskich, które Twój iPad może przechowywać jednocześnie. Możesz przełączać się między zapisanymi profilami bez ponownego skanowania kodu QR. Tylko jedna eSIM może być aktywna na raz obok fizycznej SIM (w modelach, które ją mają).
+> **Czym jest „Limit przechowywania eSIM"?** To maksymalna liczba cyfrowych profili operatorów, które Twój iPad może przechowywać jednocześnie. Możesz przełączać się między przechowywanymi profilami bez ponownego skanowania kodu QR. Tylko jeden eSIM może być aktywny naraz obok fizycznej SIM (w modelach, które ją mają).
 
 
-## Tabela kompatybilności eSIM na Apple Watch – które modele działają?
+## Tabela zgodności Apple Watch z eSIM
 
 | Model Apple Watch | Obsługa eSIM | Czas pierwszego połączenia | Uwagi |
 | :--- | :--- | :--- | :--- |
-| **Apple Watch Series 10 (GPS + Cellular)** | ✅ Tak | 2-3 min | **Apple Watch Series 10 eSIM** – pełne wsparcie |
+| **Apple Watch Series 10 (GPS + Cellular)** | ✅ Tak | 2-3 min | **Apple Watch Series 10 eSIM** – pełna obsługa |
 | **Apple Watch Series 10 (tylko GPS)** | ❌ Nie | Nie dotyczy | Brak sprzętu komórkowego |
-| **Apple Watch Series 9 (GPS + Cellular)** | ✅ Tak | 2-3 min | **Apple Watch Series 9 eSIM** – pełne wsparcie |
+| **Apple Watch Series 9 (GPS + Cellular)** | ✅ Tak | 2-3 min | **Apple Watch Series 9 eSIM** – pełna obsługa |
 | **Apple Watch Series 9 (tylko GPS)** | ❌ Nie | Nie dotyczy | Brak sprzętu komórkowego |
-| **Apple Watch Ultra 2** | ✅ Tak | 2-3 min | **Apple Watch Ultra 2 eSIM** – pełne wsparcie |
-| **Apple Watch Ultra (1. gen)** | ✅ Tak | 2-3 min | **Apple Watch Ultra eSIM** – pełne wsparcie |
+| **Apple Watch Ultra 2** | ✅ Tak | 2-3 min | **Apple Watch Ultra 2 eSIM** – pełna obsługa |
+| **Apple Watch Ultra (1. gen)** | ✅ Tak | 2-3 min | **Apple Watch Ultra eSIM** – pełna obsługa |
 | **Apple Watch Series 8 (GPS + Cellular)** | ✅ Tak | 2-4 min | – |
 | **Apple Watch Series 7 (GPS + Cellular)** | ✅ Tak | 2-4 min | – |
 | **Apple Watch Series 6 (GPS + Cellular)** | ✅ Tak | 3-5 min | – |
 | **Apple Watch Series 5 (GPS + Cellular)** | ✅ Tak | 3-5 min | – |
 | **Apple Watch Series 4 (GPS + Cellular)** | ✅ Tak | 3-5 min | – |
-| **Apple Watch SE (1. gen, GPS + Cellular)** | ✅ Tak | 3-5 min | **Apple Watch SE eSIM** – pełne wsparcie |
+| **Apple Watch SE (1. gen, GPS + Cellular)** | ✅ Tak | 3-5 min | **Apple Watch SE eSIM** – pełna obsługa |
 | **Apple Watch SE (2. gen, GPS + Cellular)** | ✅ Tak | 3-5 min | – |
-| **Apple Watch Series 3 (GPS + Cellular)** | ✅ Tak | 5-10 min | Ograniczone wsparcie operatorów (sprawdź u swojego operatora) |
-| **Dowolny Apple Watch tylko GPS** | ❌ Nie | Nie dotyczy | W ogóle brak sprzętu komórkowego |
+| **Apple Watch Series 3 (GPS + Cellular)** | ✅ Tak | 5-10 min | Ograniczona obsługa operatorów (sprawdź u swojego operatora) |
+| **Dowolny Apple Watch tylko GPS** | ❌ Nie | Nie dotyczy | Brak sprzętu komórkowego w ogóle |
 
-> **Co to jest "Czas pierwszego połączenia"?** To czas, jaki Twój Apple Watch zazwyczaj potrzebuje na rejestrację w sieci komórkowej po zakończeniu konfiguracji eSIM. Jeśli Twój zegarek potrzebuje więcej czasu, spróbuj ponownie uruchomić zarówno zegarek, jak i sparowanego iPhone'a.
+> **Czym jest „Czas pierwszego połączenia"?** To, ile czasu Twój Apple Watch zazwyczaj potrzebuje na zarejestrowanie się w sieci komórkowej po zakończeniu konfiguracji eSIM. Jeśli zegarek potrzebuje dłużej, spróbuj uruchomić ponownie zarówno zegarek, jak i sparowany iPhone.
 
-### Jak zidentyfikować model Apple Watch
+### Jak zidentyfikować swój model Apple Watch
 
-**Kontrola fizyczna:**
+**Sprawdzenie fizyczne:**
 - **Modele GPS + Cellular** mają **czerwony pierścień** wokół Digital Crown (Series 4–10) lub **czerwoną kropkę** na Digital Crown (Series 3 i starsze).
-- **Modele tylko GPS** nie mają czerwonych oznaczeń – Digital Crown jest gładka.
+- **Modele tylko GPS** nie mają czerwonych oznaczeń – Digital Crown jest gładki.
 
-**Kontrola programowa:**
-- Na zegarku: **Ustawienia > Ogólne > Informacje > Numer modelu**. Kliknij numer modelu – jeśli zaczyna się od **A** i ma etykietę "Cellular" w aplikacji Watch, obsługuje eSIM.
-- Na sparowanym iPhonie: **Aplikacja Watch > Mój zegarek > Ogólne > Informacje**. Poszukaj **"Cellular"** w sekcji "Dostępne" – jeśli jest obecne, zegarek obsługuje eSIM.
+**Sprawdzenie w oprogramowaniu:**
+- Na zegarku: **Ustawienia > Ogólne > Informacje > Numer modelu**. Dotknij numeru modelu – jeśli zaczyna się od **A** i ma etykietę „Cellular" w aplikacji Watch, obsługuje eSIM.
+- Na sparowanym iPhonie: **Aplikacja Watch > Mój zegarek > Ogólne > Informacje**. Poszukaj **„Cellular"** pod „Dostępne" – jeśli jest obecne, zegarek obsługuje eSIM.
 
-> **Apple Watch cellular eSIM** nie jest samodzielnym cyfrowym profilem SIM – to "towarzysząca" eSIM, która współdzieli numer telefonu Twojego iPhone'a (lub może być skonfigurowana niezależnie przez Family Setup). Potrzebujesz **planu eSIM dla Apple Watch** od swojego operatora. Oficjalna [strona pomocy Apple dotycząca cellular w Apple Watch](https://support.apple.com/en-us/HT205739) zawiera dodatkowe informacje o konfiguracji i kompatybilności operatorów.
+> **Apple Watch cellular eSIM** nie jest samodzielnym cyfrowym profilem SIM – to eSIM „towarzyszący", który dzieli numer telefonu Twojego iPhone (lub może być skonfigurowany niezależnie przez Family Setup). Potrzebujesz **planu eSIM dla Apple Watch** od swojego operatora. [Oficjalny przewodnik Apple po konfiguracji komórkowej Apple Watch](https://support.apple.com/guide/watch/set-up-cellular-apd64a9cdb6d/watchos) zawiera dodatkowe szczegóły dotyczące konfiguracji i zgodności z operatorami.
 
 
 ## Jak sprawdzić, czy Twój iPad obsługuje eSIM
 
-### Metoda 1: Sprawdź nazwę modelu
+### Sprawdź nazwę modelu
 - Przejdź do **Ustawienia > Ogólne > Informacje**.
-- Sprawdź **Nazwa modelu**. Jeśli zawiera **"Cellular"** lub **"Wi‑Fi + Cellular"**, Twój iPad obsługuje eSIM (pod warunkiem, że jest 7. generacji lub nowszy).
-- Jeśli jest napisane **"Wi‑Fi"** – brak eSIM.
+- Spójrz na **Nazwę modelu**. Jeśli zawiera **„Cellular"** lub **„Wi‑Fi + Cellular"**, Twój iPad obsługuje eSIM (pod warunkiem, że jest 7. generacji lub nowszy).
+- Jeśli mówi tylko **„Wi‑Fi"** – brak eSIM.
 
-### Metoda 2: Sprawdź EID (test definitywny)
+### Sprawdź EID
 - Przejdź do **Ustawienia > Ogólne > Informacje**.
-- Przewiń w dół. Jeśli widzisz sekcję **Cyfrowa SIM** z **32‑cyfrowym numerem EID**, Twój iPad ma wymagany sprzęt wbudowanej SIM.
-- Dla posiadaczy **iPad Pro 11 eSIM** lub **iPad Pro 12.9 eSIM**, EID będzie obecny na wszystkich modelach cellular.
+- Przewiń w dół. Jeśli widzisz sekcję **Digital SIM** z numerem **EID (32-cyfrowym)**, Twój iPad ma wymagany sprzęt wbudowanej SIM.
+- Dla właścicieli **iPad Pro 11 eSIM** lub **iPad Pro 12.9 eSIM** EID będzie obecny na wszystkich modelach komórkowych.
 
-### Metoda 3: Poszukaj "Dodaj eSIM" w Ustawieniach
+### Poszukaj Dodaj eSIM w Ustawieniach
 - Przejdź do **Ustawienia > Dane komórkowe** (lub **Dane mobilne**).
-- Jeśli widzisz **"Dodaj eSIM"** lub **"Dodaj plan komórkowy"**, Twój iPad obsługuje eSIM.
+- Jeśli widzisz **„Dodaj eSIM"** lub **„Dodaj plan komórkowy"**, Twój iPad obsługuje eSIM.
 
-### Metoda 4: Kontrola fizyczna
-- Odwróć iPada. Jeśli na tylnej obudowie znajduje się **czarny lub ciemny plastikowy pasek** na górnej krawędzi (dla anten komórkowych), to model cellular.
-- Jeśli tylna obudowa jest **w całości metalowa** bez plastikowego paska, to tylko Wi‑Fi.
+### Kontrola fizyczna
+- Odwróć iPada. Jeśli tył ma **czarny lub ciemny plastikowy pasek** na górnej krawędzi (dla anten komórkowych), to model komórkowy.
+- Jeśli tył jest **cały metalowy** bez plastikowego paska, to tylko Wi‑Fi.
 
 
 ## Jak sprawdzić, czy Twój Apple Watch obsługuje eSIM
 
 - Zegarek musi być modelem **GPS + Cellular**. Poszukaj **czerwonego pierścienia** na Digital Crown (Series 4 i nowsze) lub **czerwonej kropki** na starszych modelach.
-- Na samym zegarku: **Ustawienia > Komórkowe**. Jeśli widzisz "Skonfiguruj komórkowe", jest gotowy.
-- Na sparowanym iPhonie: Otwórz **aplikację Watch** > **Komórkowe**. Jeśli widzisz opcje dodania planu, zegarek obsługuje eSIM.
+- Na samym zegarku: **Ustawienia > Komórka**. Jeśli widzisz „Skonfiguruj komórkę", jest gotowy.
+- Na sparowanym iPhonie: Otwórz **aplikację Watch** > **Komórka**. Jeśli widzisz opcje dodania planu, zegarek obsługuje eSIM.
 
 
-## Jak aktywować eSIM na iPadzie
+## Jak aktywować eSIM na iPad
 
-Aktywacja jest bardzo podobna do iPhone'a – ale z jedną kluczową różnicą: **plany eSIM na iPadzie są tylko z danymi** (bez numeru telefonu do połączeń/SMS).
+Aktywacja jest bardzo podobna do iPhone – ale z jedną kluczową różnicą: **plany eSIM dla iPada są tylko do danych** (bez numeru telefonu do połączeń/SMS).
 
-### Krok po kroku aktywacji eSIM na iPadzie
+### Aktywacja eSIM na iPad
 
-1. **Kup plan danych eSIM** od dostawcy obsługującego tablety. Wielu oferuje **plany eSIM dla iPad** specjalnie dla tabletów. Polecamy [Roami eSIM](/free-esim/) na darmową próbę.
+1. **Kup plan danych** od dostawcy, który obsługuje tablety. Wielu oferuje **plany eSIM dla iPada** specjalnie dla tabletów. Polecamy [Roami](/free-esim/) na darmowy okres próbny.
 2. Na iPadzie przejdź do **Ustawienia > Dane komórkowe > Dodaj eSIM**.
-3. Zeskanuj kod QR dostarczony przez operatora eSIM lub kliknij **"Wprowadź dane ręcznie"** i wprowadź adres SM‑DP+ oraz kod aktywacyjny.
-4. Oznacz swój plan (np. "Podróż Japonia" lub "Dane USA") – to pomaga, gdy masz wiele profili.
-5. Ustaw plan jako domyślny dla danych, jeśli potrzebujesz.
-6. **Krytyczny krok na podróż:** Włącz **Data Roaming** dla linii eSIM (Ustawienia > Dane komórkowe > kliknij eSIM > Data Roaming WŁ.).
+3. Zeskanuj kod QR dostarczony przez operatora eSIM lub dotknij **„Wprowadź szczegóły ręcznie"** i wpisz adres SM‑DP+ oraz kod aktywacyjny.
+4. Oznacz swój plan (np. „Podróż Japonia" lub „Dane USA") – to pomaga, gdy masz wiele profili.
+5. Ustaw plan jako domyślny dla danych, jeśli to konieczne.
+6. **Krytyczny krok dla podróży:** Włącz **Roaming danych** dla linii eSIM (Ustawienia > Dane komórkowe > dotknij eSIM > Roaming danych WŁ).
 
-### Dual SIM na iPadzie: fizyczna SIM + eSIM
-Cellular iPady mogą używać **jednej fizycznej SIM i jednej eSIM** jednocześnie (lub dwóch eSIM na nowszych modelach z iPadOS 16+). To świetne rozwiązanie, aby zachować aktywnego domowego operatora, dodając lokalny plan danych.
+### Dual SIM na iPad z fizyczną SIM i eSIM
+Komórkowe iPady mogą używać **jednej fizycznej SIM i jednego eSIM** jednocześnie (lub dwóch eSIM w nowszych modelach z iPadOS 16+). To świetne do utrzymania aktywnego domowego operatora przy jednoczesnym dodaniu lokalnego planu danych.
 
-**Jak przełączać między SIM na iPadzie:**
-- Przejdź do **Ustawienia > Dane komórkowe**. Zobaczysz oba plany. Kliknij ten, którego chcesz używać do danych mobilnych.
-- Możesz również ustawić, której SIM używać do iMessage i FaceTime (w **Ustawienia > Wiadomości > Wyślij i odbieraj**).
+**Jak przełączać się między SIM na iPad:**
+- Przejdź do **Ustawienia > Dane komórkowe**. Zobaczysz oba plany wymienione. Dotknij tego, którego chcesz użyć do danych mobilnych.
+- Możesz także ustawić, która SIM jest używana dla iMessage i FaceTime (w **Ustawienia > Wiadomości > Wyślij i odbierz**).
 
-### Zrozumienie planów eSIM na iPadzie (tylko dane)
-Większość planów eSIM na iPadzie jest **tylko z danymi** – nie zawierają numeru telefonu do połączeń ani SMS. To wystarcza do przeglądania stron, e-maili, streamingu i aplikacji takich jak WhatsApp czy iMessage (które działają przez dane). Jeśli potrzebujesz numeru telefonu na iPadzie, rozważ użycie osobistego hotspotu z iPhone'a lub usługi VoIP, takiej jak Skype lub Google Voice.
+### Zrozumienie planów danych eSIM dla iPada
+Większość planów eSIM dla iPada to **tylko dane** – nie zawierają numeru telefonu do połączeń lub SMS. To jest w porządku do przeglądania stron, e-maili, streamingu i aplikacji takich jak WhatsApp lub iMessage (które działają przez dane). Jeśli potrzebujesz numeru telefonu na iPadzie, rozważ użycie osobistego hotspotu iPhone lub usługi VoIP takiej jak Skype lub Google Voice.
 
 ### Ile profili eSIM może przechowywać iPad?
-- iPady z iPadOS 16+ mogą przechowywać **wiele profili eSIM** (zazwyczaj 5 lub więcej, przy czym nowsze modele Pro obsługują do 8).
-- **Tylko jedna eSIM może być aktywna na raz** obok fizycznej SIM.
-- Aby przełączać się między zapisanymi eSIM: **Ustawienia > Dane komórkowe > kliknij żądany plan > Włącz tę linię**.
+- iPady z iPadOS 16+ mogą przechowywać **wiele profili eSIM** (zwykle 5 lub więcej, a nowsze modele Pro obsługują do 8).
+- **Tylko jeden eSIM może być aktywny naraz** obok fizycznej SIM.
+- Aby przełączać się między przechowywanymi eSIM: **Ustawienia > Dane komórkowe > dotknij żądanego planu > Włącz tę linię**.
 
-### Zmiana nazw planów eSIM na iPadzie
-- Ustawienia > Dane komórkowe > kliknij plan > **Etykieta planu komórkowego** – wybierz niestandardową nazwę (np. "Japonia" lub "Dane służbowe").
+### Zmiana nazw planów eSIM na iPad
+- Ustawienia > Dane komórkowe > dotknij planu > **Etykieta planu komórkowego** – wybierz niestandardową nazwę (np. „Podróż Japonia" lub „Dane służbowe").
 
 
 ## Jak aktywować eSIM na Apple Watch
 
-Aktywacja różni się, ponieważ Apple Watch nie ma własnego skanera kodów QR. Konfigurujesz go przez sparowanego iPhone'a.
+Aktywacja różni się, ponieważ Apple Watch nie ma własnego skanera kodu QR. Konfigurujesz go przez sparowany iPhone.
 
-### Jakiego typu plan eSIM dla Apple Watch potrzebujesz?
+### Jakiego typu planu eSIM dla Apple Watch potrzebujesz?
 
-| Typ konfiguracji | Co robi | Dla kogo | Czas wymagany |
+| Typ konfiguracji | Co robi | Dla kogo | Wymagany czas |
 | :--- | :--- | :--- | :--- |
-| **Standardowy plan Companion** | Zegarek współdzieli numer telefonu iPhone'a | Większość użytkowników – połączenia/SMS trafiają na oba urządzenia | 3-5 min |
-| **Family Setup (samodzielny)** | Zegarek ma swój własny numer telefonu | Dzieci, starsi członkowie rodziny lub każdy bez iPhone'a | 5-10 min |
+| **Standardowy plan Companion** | Zegarek dzieli numer telefonu Twojego iPhone | Większość użytkowników – połączenia/SMS idą na oba urządzenia | 3-5 min |
+| **Family Setup (samodzielny)** | Zegarek ma własny numer telefonu | Dzieci, starsi członkowie rodziny lub każdy bez iPhone | 5-10 min |
 
-### Standardowa konfiguracja (współdzielenie numeru iPhone'a)
+### Standardowa konfiguracja dzieląca numer iPhone
 
 1. Na iPhonie otwórz **aplikację Watch**.
-2. Kliknij **Komórkowe** > **Skonfiguruj komórkowe**.
-3. Postępuj zgodnie z instrukcjami operatora – zazwyczaj logujesz się do konta operatora i przypisujesz plan do zegarka.
-4. **Plan eSIM dla Apple Watch** zostanie automatycznie pobrany na zegarek (może to zająć 2-5 minut).
-5. Poczekaj na potwierdzenie "Konfiguracja komórkowa zakończona".
+2. Dotknij **Komórka** > **Skonfiguruj komórkę**.
+3. Postępuj zgodnie z instrukcjami operatora – zwykle logujesz się do konta operatora i przypisujesz plan do zegarka.
+4. **Plan eSIM dla Apple Watch** zostanie pobrany na zegarek automatycznie (może zająć 2-5 minut).
+5. Poczekaj na potwierdzenie „Konfiguracja komórkowa zakończona".
 
-### Apple Watch Family Setup (samodzielny zegarek)
+### Family Setup dla Apple Watch
 
-**Co to jest Family Setup?**
-Family Setup pozwala skonfigurować Apple Watch dla członka rodziny, który nie ma własnego iPhone'a. Zegarek otrzymuje swój własny numer telefonu i działa niezależnie do połączeń, SMS-ów i danych.
+**Czym jest Family Setup?**
+Family Setup pozwala skonfigurować Apple Watch dla członka rodziny, który nie ma własnego iPhone. Zegarek otrzymuje własny numer telefonu i działa niezależnie do połączeń, SMS-ów i danych.
 
 **Wymagania:**
 - Apple Watch z GPS + Cellular
-- iPhone 8 lub nowszy (działający na iOS 16 lub nowszym) należący do organizatora rodziny
-- Operator obsługujący samodzielne plany Apple Watch (zobacz tabelę poniżej)
+- iPhone 8 lub nowszy (z iOS 16 lub nowszym) należący do organizatora rodziny
+- Operator obsługujący samodzielne plany Apple Watch (patrz tabela poniżej)
 
-**Krok po kroku Family Setup:**
+**Family Setup krok po kroku:**
 
 | Krok | Działanie | Czas |
 | :--- | :--- | :--- |
-| **1** | Na iPhonie rodzica otwórz **aplikację Watch**. | 10 sek |
-| **2** | Kliknij **Wszystkie zegarki** > **Dodaj zegarek**. | 10 sek |
-| **3** | Wybierz **Skonfiguruj dla członka rodziny**. | 10 sek |
-| **4** | Przyłóż zegarek blisko iPhone'a – pojawi się animacja parowania. Zeskanuj ją. | 30 sek |
-| **5** | Postępuj zgodnie z instrukcjami na ekranie, aby skonfigurować ustawienia (Tryb szkolny, Udostępnianie lokalizacji itp.). | 2 min |
-| **6** | Gdy pojawi się monit, kliknij **Skonfiguruj komórkowe**. | 10 sek |
-| **7** | Będziesz potrzebować EID zegarka (pokazanego na ekranie zegarka) – wprowadź go, gdy pojawi się monit, lub zeskanuj kod QR dostarczony przez operatora. | 1 min |
+| **1** | Na iPhonie rodzica otwórz **aplikację Watch**. | 10 s |
+| **2** | Dotknij **Wszystkie zegarki** > **Dodaj zegarek**. | 10 s |
+| **3** | Wybierz **Skonfiguruj dla członka rodziny**. | 10 s |
+| **4** | Trzymaj zegarek blisko iPhone – pojawi się animacja parowania. Zeskanuj ją. | 30 s |
+| **5** | Postępuj zgodnie z monitami na ekranie, aby skonfigurować ustawienia (Schooltime, udostępnianie lokalizacji itp.). | 2 min |
+| **6** | Gdy zostaniesz poproszony, dotknij **Skonfiguruj komórkę**. | 10 s |
+| **7** | Będziesz potrzebować EID zegarka (pokazanego na ekranie zegarka) – wprowadź go, gdy zostaniesz poproszony, lub zeskanuj kod QR dostarczony przez operatora. | 1 min |
 | **8** | Postępuj zgodnie z procesem aktywacji operatora, aby dodać samodzielny plan. | 2-3 min |
-| **9** | Po zakończeniu zegarek działa niezależnie – połączenia, SMS-y i dane bez iPhone'a w pobliżu. | Nie dotyczy |
+| **9** | Po zakończeniu zegarek działa niezależnie – połączenia, SMS-y i dane bez iPhone w pobliżu. | Nie dotyczy |
 
 **Operatorzy obsługujący Family Setup (USA):**
 - **T‑Mobile** – obsługuje Family Setup na większości planów
 - **Verizon** – obsługuje Family Setup (wymaga planu Number Share)
-- **AT&T** – ograniczone wsparcie – sprawdź bezpośrednio u AT&T
+- **AT&T** – ograniczone wsparcie – sprawdź bezpośrednio w AT&T
 
-> **Uwaga:** **Apple Watch cellular eSIM** nie może być używany niezależnie do danych bez sparowanego iPhone'a (z wyjątkiem ograniczonych funkcji, takich jak połączenia alarmowe). Zegarek jest zaprojektowany jako uzupełnienie telefonu – nawet w przypadku Family Setup zegarek ma swój własny numer, ale nadal opiera się na koncie organizatora rodziny do zarządzania.
+> **Uwaga:** **Apple Watch cellular eSIM** nie może być używany niezależnie do danych bez sparowanego iPhone (z wyjątkiem ograniczonych funkcji jak połączenia alarmowe). Zegarek jest zaprojektowany, aby uzupełniać telefon – nawet z Family Setup zegarek ma własny numer, ale nadal opiera się na koncie organizatora rodziny do zarządzania.
 
-### Tabela wsparcia operatorów dla Apple Watch eSIM
+### Tabela obsługi operatorów dla Apple Watch eSIM
 
-| Kraj | Obsługiwani operatorzy | Wsparcie Family Setup |
+| Kraj | Obsługiwani operatorzy | Obsługa Family Setup |
 | :--- | :--- | :--- |
 | **USA** | Verizon, T‑Mobile, AT&T | T‑Mobile, Verizon (ograniczone) |
-| **Wielka Brytania** | EE, O2, Vodafone, Three | Ograniczone (sprawdź u operatora) |
+| **UK** | EE, O2, Vodafone, Three | Ograniczone (sprawdź u operatora) |
 | **Kanada** | Bell, Rogers, Telus | Ograniczone |
 | **Australia** | Telstra, Optus, Vodafone | Ograniczone |
 | **Niemcy** | Deutsche Telekom, Vodafone, O2 | Ograniczone |
@@ -336,245 +339,246 @@ Family Setup pozwala skonfigurować Apple Watch dla członka rodziny, który nie
 | **Singapur** | Singtel, StarHub, M1 | Ograniczone |
 | **Chiny** | China Mobile, China Unicom, China Telecom | ❌ Niedostępne |
 
-> **Uwaga specjalna dotycząca Chin:** Apple Watch eSIM jest dostępny w Chinach przez China Mobile, China Unicom i China Telecom. Jednak Family Setup nie jest obsługiwane. Musisz mieć konto chińskiego operatora i chiński dowód osobisty, aby aktywować. Turyści nie mogą aktywować Apple Watch eSIM w Chinach.
+> **Specjalna uwaga dla Chin:** Apple Watch eSIM jest dostępny w Chinach przez China Mobile, China Unicom i China Telecom. Jednak Family Setup nie jest obsługiwany. Musisz mieć chińskie konto operatora i chiński dowód tożsamości, aby aktywować. Turyści nie mogą aktywować Apple Watch eSIM w Chinach.
 
 
-## Wybór planów eSIM dla iPad i Apple Watch
+## Wybór planów eSIM dla iPada i Apple Watch
 
-### Dla iPada (tylko dane)
+### Dla iPada
 Masz dwie opcje:
-- **Podróżne eSIM** – Idealne na krótkie wyjazdy. Kupujesz plan dla konkretnego kraju lub regionu, instalujesz na iPadzie i natychmiast otrzymujesz dane.
-- **Miesięczne lub prepaid plany danych** – Niektórzy operatorzy oferują powtarzalne plany danych dla tabletów.
+- **Travel eSIMy** – Idealne na krótkie podróże. Kupujesz plan dla konkretnego kraju lub regionu, instalujesz go na iPadzie i natychmiast otrzymujesz dane.
+- **Miesięczne lub prepaid plany danych** – Niektórzy operatorzy oferują cykliczne plany danych dla tabletów.
 
-W każdym przypadku, po zainstalowaniu planu, iPad otrzymuje własne połączenie **eSIM internet** – pełne dane mobilne niezależne od Wi‑Fi lub telefonu. To sprawia, że cellular iPad jest wart uwagi na podróż: nie utkniesz szukając Wi‑Fi w kawiarni, aby sprawdzić mapy, e-mail czy streaming na większym ekranie.
+Tak czy inaczej, po zainstalowaniu planu iPad otrzymuje własne **połączenie internetowe eSIM** – pełne dane mobilne niezależne od Wi‑Fi lub telefonu. To sprawia, że komórkowy iPad jest wart swojej ceny w podróży: nie musisz szukać Wi‑Fi w kawiarni, aby sprawdzić mapy, e-maile lub streaming na większym ekranie.
 
-Polecamy rozpocząć od **darmowej próbnej eSIM** od [Roami](/free-esim/), aby przetestować funkcjonalność eSIM na iPadzie bez żadnych kosztów.
+Polecamy zacząć od **darmowego eSIM próbnego** od [Roami](/free-esim/), aby przetestować funkcjonalność wbudowanej SIM iPada przy zerowym koszcie.
 
-### Dla Apple Watch (plan Companion)
-- Apple Watch eSIM jest **zawsze powiązany z operatorem**. Nie możesz użyć ogólnej podróżnej eSIM na zegarku.
-- Plan eSIM dla zegarka to zazwyczaj dodatek do istniejącego planu iPhone'a (5–15 $ miesięcznie).
-- **Family Setup** wymaga operatora obsługującego samodzielne plany dla zegarków.
+### Dla Apple Watch
+- Apple Watch eSIM jest **zawsze powiązany z operatorem**. Nie możesz użyć ogólnego travel eSIM na zegarku.
+- Plan eSIM zegarka jest zazwyczaj dodatkiem do istniejącego planu iPhone (5–15 USD miesięcznie).
+- **Family Setup** wymaga operatora obsługującego samodzielne plany zegarka.
 
-### Czy możesz używać tej samej eSIM na iPhonie i iPadzie?
+### Czy możesz użyć tego samego eSIM na iPhone i iPad?
 
 **Krótka odpowiedź: Nie.**
 
-**Dlaczego:** Każdy profil eSIM jest kryptograficznie powiązany z **EID** (eUICC Identifier) urządzenia. EID jest unikalny dla każdego urządzenia – EID Twojego iPhone'a różni się od EID iPada.
+**Dlaczego:** Każdy profil eSIM jest kryptograficznie powiązany z **EID** (eUICC Identifier) urządzenia. EID jest unikalny dla każdego urządzenia – EID Twojego iPhone różni się od EID Twojego iPada.
 
-**Co możesz zrobić zamiast:**
-| Opcja | Jak działa |
+**Co możesz zrobić zamiast tego:**
+| Opcja | Jak to działa |
 | :--- | :--- |
-| **Osobisty hotspot** | Użyj połączenia danych iPhone'a na iPadzie (bez dodatkowego planu) |
-| **Oddzielne plany eSIM** | Kup eSIM tylko z danymi dla iPada (większość podróżnych eSIM obsługuje tablety) |
-| **Plany wielourządzeniowe** | Rzadkie – niektórzy operatorzy oferują współdzielone plany danych na wielu urządzeniach (sprawdź u swojego operatora) |
+| **Osobisty hotspot** | Użyj połączenia danych iPhone na iPadzie (bez dodatkowego planu) |
+| **Osobne plany eSIM** | Kup eSIM tylko do danych dla iPada (większość travel eSIMów obsługuje tablety) |
+| **Plany multi‑device** | Rzadkie – niektórzy operatorzy oferują wspólne plany danych na wielu urządzeniach (sprawdź u swojego operatora) |
 
-> 💡 **Profesjonalna wskazówka:** Jeśli Twój iPhone ma hojny plan danych, zrezygnuj z eSIM na iPadzie i po prostu użyj osobistego hotspotu. To tańsze i prostsze.
+> 💡 **Wskazówka:** Jeśli Twój iPhone ma hojny plan danych, pomiń eSIM iPada i po prostu użyj osobistego hotspotu. Jest taniej i prościej.
 
 
-## Zaawansowane: zarządzanie profilami eSIM na iPadzie i Watch
+## Zarządzanie profilami eSIM na iPad i Watch
 
 ### Jak usunąć eSIM z iPada
 1. Przejdź do **Ustawienia > Dane komórkowe**.
-2. Kliknij plan eSIM, który chcesz usunąć.
-3. Przewiń w dół i kliknij **Usuń plan komórkowy**.
+2. Dotknij planu eSIM, który chcesz usunąć.
+3. Przewiń w dół i dotknij **Usuń plan komórkowy**.
 4. Potwierdź usunięcie. To trwale usuwa profil operatora – nie możesz go odzyskać, chyba że masz oryginalny kod QR lub dane aktywacyjne.
 
 ### Jak usunąć eSIM z Apple Watch
-1. Na zegarku przejdź do **Ustawienia > Komórkowe**.
-2. Kliknij plan, który chcesz usunąć.
-3. Przewiń w dół i kliknij **Usuń plan [operator]**.
-4. Alternatywnie na sparowanym iPhonie: Aplikacja Watch > Komórkowe > kliknij plan > Usuń.
+1. Na zegarku przejdź do **Ustawienia > Komórka**.
+2. Dotknij planu, który chcesz usunąć.
+3. Przewiń w dół i dotknij **Usuń plan [Operator]**.
+4. Alternatywnie na sparowanym iPhonie: aplikacja Watch > Komórka > dotknij planu > Usuń.
 
-### Zarządzanie wieloma eSIM na iPadzie
+### Zarządzanie wieloma eSIM na iPad
 - Nowsze iPady (z iPadOS 16+) mogą przechowywać wiele profili eSIM (często 5 lub więcej).
-- **Tylko jedna eSIM może być aktywna na raz** obok fizycznej SIM.
-- Aby przełączać się między zapisanymi eSIM: **Ustawienia > Dane komórkowe > kliknij żądany plan > Włącz tę linię**.
+- **Tylko jeden eSIM może być aktywny naraz** obok fizycznej SIM.
+- Aby przełączać się między przechowywanymi eSIM: **Ustawienia > Dane komórkowe > dotknij żądanego planu > Włącz tę linię**.
 
 ### Funkcje zarządzania eSIM w iPadOS 18
-iPadOS 18 wprowadza kilka ulepszeń w zarządzaniu eSIM:
-- **Szybsze przełączanie profili** – przełączaj między zapisanymi profilami eSIM bezpośrednio z Centrum sterowania.
-- **Lepsze etykietowanie** – łatwiejsze zmiana nazw i organizowanie wielu profili.
-- **Uproszczona aktywacja** – ulepszony przepływ skanowania kodów QR i ręcznego wprowadzania.
-- **Lepsze komunikaty błędów** – wyraźniejsze opisy, gdy aktywacja się nie powiedzie (np. "Kod QR wygasł" zamiast ogólnych błędów).
+iPadOS 18 wprowadza kilka ulepszeń zarządzania eSIM:
+- **Szybsze przełączanie profili** – przełączaj między przechowywanymi profilami eSIM bezpośrednio z Centrum sterowania.
+- **Lepsze etykietowanie** – łatwiejsze zmienianie nazw i organizowanie wielu profili.
+- **Uproszczona aktywacja** – ulepszone skanowanie kodów QR i proces ręcznego wprowadzania.
+- **Ulepszone komunikaty błędów** – jaśniejsze opisy, gdy aktywacja zawodzi (np. „QR code expired" zamiast ogólnych błędów).
 
 
-## Rozwiązywanie problemów z eSIM na iPadzie i Apple Watch
+## Rozwiązywanie problemów z eSIM na iPad i Apple Watch
 
-### Typowe błędy eSIM na iPadzie
+### Typowe błędy eSIM na iPad
 
 | Komunikat błędu | Prawdopodobna przyczyna | Rozwiązanie |
 | :--- | :--- | :--- |
-| **"Nie można dodać planu komórkowego"** | iPad jest zablokowany przez operatora lub eSIM jest wyłączona | Skontaktuj się z pierwotnym operatorem, aby odblokować; jeśli model tylko Wi‑Fi, brak rozwiązania |
-| **"Kod QR jest nieprawidłowy lub wygasł"** | Kod QR wygasł lub jest uszkodzony | Poproś o nowy kod QR od dostawcy eSIM |
-| **"Pobieranie profilu nie powiodło się"** | Słabe połączenie internetowe podczas konfiguracji | Połącz się ze stabilnym Wi‑Fi, uruchom ponownie iPada, spróbuj ponownie |
-| **eSIM zainstalowana, ale brak danych** | Data Roaming jest wyłączone | Przejdź do Ustawienia > Komórkowe > eSIM > włącz Data Roaming |
-| **iPad mówi "Brak SIM" nawet po aktywacji** | Profil eSIM uszkodzony | Usuń profil i zainstaluj ponownie za pomocą kodu QR |
-| **"Nie można aktywować eSIM"** | Problem z Wi‑Fi lub serwerem | Uruchom ponownie, sprawdź Wi‑Fi, poczekaj, spróbuj ponownie |
+| **„Cellular plan cannot be added"** | iPad jest zablokowany na operatora lub eSIM jest wyłączony | Skontaktuj się z oryginalnym operatorem, aby odblokować; jeśli model tylko Wi‑Fi, brak rozwiązania |
+| **„QR code is invalid or expired"** | Kod QR wygasł lub jest uszkodzony | Poproś o nowy QR od dostawcy eSIM |
+| **„Profile download failed"** | Słabe połączenie internetowe podczas konfiguracji | Połącz się ze stabilnym Wi‑Fi, uruchom ponownie iPada, spróbuj ponownie |
+| **eSIM zainstalowany, ale brak danych** | Roaming danych jest wyłączony | Przejdź do Ustawienia > Komórka > eSIM > włącz Roaming danych |
+| **iPad mówi „No SIM" nawet po aktywacji** | Profil eSIM uszkodzony | Usuń profil i zainstaluj ponownie przy użyciu kodu QR |
+| **„Unable to activate eSIM"** | Problem z Wi‑Fi lub serwerem | Uruchom ponownie, sprawdź Wi‑Fi, poczekaj, następnie ponów |
 
 ### Typowe błędy eSIM na Apple Watch
 
 | Komunikat błędu | Prawdopodobna przyczyna | Rozwiązanie |
 | :--- | :--- | :--- |
-| **"Konfiguracja komórkowa nie powiodła się"** | Operator nie obsługuje eSIM na zegarku lub zegarek nie jest modelem cellular | Sprawdź model zegarka; skontaktuj się z operatorem po pomoc |
-| **Zegarek pokazuje "Wyszukiwanie" lub "Brak połączenia"** | Poza zasięgiem lub plan nieaktywny | Upewnij się, że jesteś w obsługiwanym obszarze zasięgu; uruchom ponownie zegarek |
-| **Nie można przenieść eSIM zegarka na nowy iPhone** | Zegarek jest nadal sparowany ze starym iPhone'm | Najpierw odparuj zegarek ze starego iPhone'a (to usuwa eSIM), następnie sparuj ponownie z nowym iPhone'm i skonfiguruj komórkowe ponownie |
-| **Family Setup nie działa** | Operator nie obsługuje samodzielnych planów | Przełącz na operatora obsługującego Family Setup (np. T‑Mobile US, Verizon) |
-| **"Brak planu komórkowego" na zegarku po konfiguracji** | Plan nie został poprawnie pobrany | Uruchom ponownie zegarek, przejdź do Ustawienia > Komórkowe > kliknij plan > ponownie pobierz |
+| **„Cellular Setup Failed"** | Operator nie obsługuje eSIM zegarka lub zegarek nie jest modelem komórkowym | Zweryfikuj model zegarka; skontaktuj się z operatorem |
+| **Zegarek pokazuje „Searching" lub „No Connection"** | Poza zasięgiem lub plan nieaktywny | Upewnij się, że jesteś w obsługiwanym obszarze zasięgu; uruchom ponownie zegarek |
+| **Nie można przenieść eSIM zegarka na nowy iPhone** | Zegarek jest nadal sparowany ze starym iPhone | Najpierw odparuj zegarek ze starego iPhone (to usuwa eSIM), następnie sparuj ponownie z nowym iPhone i skonfiguruj komórkę ponownie |
+| **Family Setup zawodzi** | Operator nie obsługuje samodzielnych planów | Przełącz się na operatora obsługującego Family Setup (np. T‑Mobile US, Verizon) |
+| **„No cellular plan" na zegarku po konfiguracji** | Plan nie pobrał się prawidłowo | Uruchom ponownie zegarek, przejdź do Ustawienia > Komórka > dotknij planu > pobierz ponownie |
 
-### Ogólne kroki rozwiązywania problemów (iPad i Watch)
+### Ogólne kroki rozwiązywania problemów
 
 | Krok | Działanie |
 | :--- | :--- |
 | **1** | **Uruchom ponownie urządzenie** – proste, ale często naprawia tymczasowe usterki. |
-| **2** | **Zaktualizuj do najnowszego systemu** – aktualizacje iPadOS lub watchOS często zawierają poprawki eSIM. |
-| **3** | **Zresetuj ustawienia sieciowe** – Na iPadzie: Ustawienia > Ogólne > Przenieś lub zresetuj iPada > Resetuj > Resetuj ustawienia sieciowe. (To nie usuwa profili eSIM, ale resetuje Wi‑Fi i Bluetooth.) |
-| **4** | **Sprawdź aktualizację ustawień operatora** – Na iPadzie: Ustawienia > Ogólne > Informacje – jeśli aktualizacja jest dostępna, pojawi się wyskakujące okno. |
-| **5** | **Przełącz tryb samolotowy** – Włącz/Wyłącz na 30 sekund, aby wymusić ponowną rejestrację sieci. |
+| **2** | **Zaktualizuj do najnowszego OS** – aktualizacje iPadOS lub watchOS często zawierają poprawki eSIM. |
+| **3** | **Zresetuj ustawienia sieci** – Na iPad: Ustawienia > Ogólne > Przenieś lub zresetuj iPad > Zresetuj > Zresetuj ustawienia sieci. (To nie usuwa profili eSIM, ale resetuje Wi‑Fi i Bluetooth.) |
+| **4** | **Sprawdź aktualizację ustawień operatora** – Na iPad: Ustawienia > Ogólne > Informacje – jeśli aktualizacja jest dostępna, pojawi się wyskakujące okienko. |
+| **5** | **Przełącz tryb samolotowy** – Wł/Wył na 30 sekund, aby wymusić ponowną rejestrację w sieci. |
 
-Aby uzyskać bardziej zaawansowane rozwiązywanie problemów (w tym problemy z podwójną eSIM na iPhonie/iPadzie), zobacz nasz **[Szczegółowy przewodnik rozwiązywania problemów z eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** i **[Podwójna eSIM nie działa na iPhonie? 12 poprawek](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – wiele zasad ma zastosowanie również do iPada.
+Aby uzyskać głębsze rozwiązywanie problemów (w tym problemy dual‑SIM na iPhone/iPad), zobacz nasz **[Szczegółowy przewodnik rozwiązywania problemów z eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** i **[iPhone Dual eSIM nie działa? 12 poprawek](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – wiele zasad dotyczy również iPada.
 
 
-## Inne urządzenia: smartwatche i telefony składane z eSIM
+## Smartwatche i telefony składane z eSIM
 
-### Smartwatche z eSIM (nie Apple)
+### Smartwatche z eSIM
 
 | Urządzenie | Obsługa eSIM | Uwagi | Metoda aktywacji |
 | :--- | :--- | :--- | :--- |
 | **Samsung Galaxy Watch 5 / 5 Pro** | ✅ Tak | Samodzielny lub sparowany | Aplikacja Galaxy Wearable |
 | **Samsung Galaxy Watch 6 / 6 Classic** | ✅ Tak | Samodzielny lub sparowany | Aplikacja Galaxy Wearable |
-| **Samsung Galaxy Watch 7 / Ultra** | ✅ Tak | Najnowsze modele – pełne wsparcie | Aplikacja Galaxy Wearable |
-| **Google Pixel Watch 1 / 2 / 3** | ✅ Tak | Wymaga sparowanego telefonu z Androidem | Aplikacja Pixel Watch |
-| **Xiaomi Watch 2 Pro** | ✅ Tak | Dostępne w niektórych regionach | Aplikacja Xiaomi Wear |
+| **Samsung Galaxy Watch 7 / Ultra** | ✅ Tak | Najnowsze modele – pełna obsługa | Aplikacja Galaxy Wearable |
+| **Google Pixel Watch 1 / 2 / 3** | ✅ Tak | Wymaga sparowanego telefonu Android | Aplikacja Pixel Watch |
+| **Xiaomi Watch 2 Pro** | ✅ Tak | Dostępny w niektórych regionach | Aplikacja Xiaomi Wear |
 | **Huawei Watch GT (dowolny)** | ❌ Nie | Brak sprzętu eSIM | Nie dotyczy |
 
-Jeśli masz **smartwatch z eSIM**, aktywacja zwykle odbywa się przez aplikację towarzyszącą producenta na telefonie. Proces różni się w zależności od marki – sprawdź ustawienia zegarka w sekcji "Sieć mobilna" lub "Komórkowe".
+Jeśli posiadasz **smartwatch z eSIM**, aktywacja odbywa się zwykle przez aplikację towarzyszącą producenta na telefonie. Proces różni się w zależności od marki – sprawdź ustawienia zegarka w sekcji „Sieć komórkowa" lub „Cellular".
 
 **Jak aktywować eSIM na Samsung Galaxy Watch:**
 1. Otwórz aplikację **Galaxy Wearable** na sparowanym telefonie.
-2. Kliknij **Ustawienia zegarka** > **Plany mobilne**.
-3. Kliknij **Dodaj plan mobilny**.
-4. Postępuj zgodnie z instrukcjami na ekranie, aby zeskanować kod QR lub wybrać operatora.
-5. Zegarek pobierze profil operatora i zarejestruje się w sieci (zazwyczaj 2‑5 minut).
+2. Dotknij **Ustawienia zegarka** > **Plany mobilne**.
+3. Dotknij **Dodaj plan mobilny**.
+4. Postępuj zgodnie z monitami na ekranie, aby zeskanować kod QR lub wybrać operatora.
+5. Zegarek pobierze profil operatora i zarejestruje się w sieci (zwykle 2-5 minut).
 
-Dla użytkowników Samsung Galaxy Watch zobacz nasz **[przewodnik kompatybilności eSIM Samsung Galaxy](/faq/samsung-s20-esim-compatible/)**. Dla użytkowników Google Pixel Watch zobacz nasz **[przewodnik kompatybilności eSIM Google Pixel](/faq/google-pixel-6-esim-compatible/)**.
+Dla użytkowników Samsung Galaxy Watch zobacz nasz **[przewodnik zgodności Samsung Galaxy](/faq/samsung-s20-esim-compatible/)**. Dla użytkowników Google Pixel Watch zobacz nasz **[przewodnik zgodności Google Pixel](/faq/google-pixel-6-esim-compatible/)**.
 
 ### Telefony składane z eSIM
 
-Tak – kilka nowoczesnych telefonów składanych (składanych lub muszlowych) obsługuje eSIM:
+Tak – kilka nowoczesnych telefonów składanych (składanych lub clamshell) obsługuje eSIM:
 
 | Urządzenie | Obsługa eSIM | Uwagi |
 | :--- | :--- | :--- |
 | **Samsung Galaxy Z Flip3** | ✅ Tak | Pierwszy Flip z eSIM |
-| **Samsung Galaxy Z Flip4** | ✅ Tak | Pełne wsparcie |
-| **Samsung Galaxy Z Flip5** | ✅ Tak | Pełne wsparcie |
-| **Samsung Galaxy Z Flip6** | ✅ Tak | Najnowszy – pełne wsparcie |
-| **Samsung Galaxy Z Flip7** | ✅ Tak | Najnowszy – pełne wsparcie |
+| **Samsung Galaxy Z Flip4** | ✅ Tak | Pełna obsługa |
+| **Samsung Galaxy Z Flip5** | ✅ Tak | Pełna obsługa |
+| **Samsung Galaxy Z Flip6** | ✅ Tak | Najnowszy – pełna obsługa |
+| **Samsung Galaxy Z Flip7** | ✅ Tak | Najnowszy – pełna obsługa |
 | **Motorola Razr (2022)** | ✅ Tak | Tylko model Razr+ |
-| **Motorola Razr+ (2023)** | ✅ Tak | Pełne wsparcie |
-| **Motorola Razr+ (2024)** | ✅ Tak | Pełne wsparcie |
+| **Motorola Razr+ (2023)** | ✅ Tak | Pełna obsługa |
+| **Motorola Razr+ (2024)** | ✅ Tak | Pełna obsługa |
 | **TCL Flip 2** | ❌ Nie | Tylko fizyczna SIM – brak eSIM |
 
-> Seria Galaxy Z Flip to najlepszy wybór, jeśli szukasz **telefonu składanego z eSIM**. Są to prawdziwe smartfony, które się składają, a nie stare telefony funkcyjne.
+> Seria Galaxy Z Flip to Twój najlepszy wybór dla **telefonu składanego z eSIM**. To prawdziwe smartfony, które się składają, a nie staromodne telefony feature phone.
 
 ### Jak aktywować eSIM na Galaxy Z Flip
-1. Przejdź do **Ustawienia > Połączenia > Menedżer kart SIM**.
-2. Kliknij **Dodaj eSIM**.
+1. Przejdź do **Ustawienia > Połączenia > Menedżer karty SIM**.
+2. Dotknij **Dodaj eSIM**.
 3. Zeskanuj kod QR dostarczony przez operatora eSIM.
-4. Postępuj zgodnie z instrukcjami na ekranie, aby zakończyć aktywację.
-5. Ustaw eSIM jako domyślną dla danych, połączeń lub obu.
+4. Postępuj zgodnie z monitami na ekranie, aby zakończyć aktywację.
+5. Ustaw eSIM jako domyślny dla danych, połączeń lub obu.
 
-> 💡 **Uwaga:** Seria Galaxy Z Flip obsługuje **dual SIM** – możesz używać jednej fizycznej SIM i jednej eSIM jednocześnie (lub dwóch eSIM na nowszych modelach).
+> 💡 **Uwaga:** Seria Galaxy Z Flip obsługuje **dual SIM** – możesz używać jednej fizycznej SIM i jednego eSIM jednocześnie (lub dwóch eSIM w nowszych modelach).
 
 
 ## Często zadawane pytania
 
 **Czy iPad obsługuje eSIM?**
-Tak – wszystkie modele iPad z komórkową od 7. generacji wzwyż, w tym iPad Pro, iPad Air, iPad mini i iPad 10. generacji, mają wbudowaną eSIM.
+Tak – wszystkie komórkowe modele iPad od 7. generacji wzwyż, w tym iPad Pro, iPad Air, iPad mini i iPad 10. generacji, mają wbudowany eSIM.
 
-**Czy iPad Pro 11‑calowy ma eSIM?**
-Tak. **iPad Pro 11 eSIM** działa na wszystkich wersjach cellular. To samo dotyczy **iPad Pro 12.9 eSIM**.
+**Czy iPad Pro 11‑inch ma eSIM?**
+Tak. **iPad Pro 11 eSIM** działa na wszystkich wersjach komórkowych. To samo dotyczy **iPad Pro 12.9 eSIM**.
 
 **Czy iPad Air M2 lub M3 ma eSIM?**
-Tak. Zarówno **iPad Air M2 eSIM**, jak i **iPad Air M3 eSIM** są w pełni obsługiwane na modelach cellular.
+Tak. Zarówno **iPad Air M2 eSIM**, jak i **iPad Air M3 eSIM** są w pełni obsługiwane na modelach komórkowych.
 
 **Czy iPad mini 6. generacji ma eSIM?**
 Tak. **iPad mini 6 eSIM** działa bez żadnych problemów.
 
 **Czy iPad mini 7 (A17 Pro) ma eSIM?**
-Tak. **iPad mini 7 eSIM** działa od razu po wyjęciu z pudełka. **Ważne:** Model cellular jest **tylko eSIM** – nie ma fizycznej tacki SIM.
+Tak. **iPad mini 7 eSIM** działa od razu po wyjęciu z pudełka. **Ważne:** Model komórkowy jest **tylko eSIM** – nie ma tacki na fizyczną SIM.
 
 **Czy iPad 10. generacji obsługuje eSIM?**
-Tak. **iPad 10. gen eSIM** jest obecny na modelach cellular.
+Tak. **iPad 10. gen eSIM** jest obecny na modelach komórkowych.
 
 **Czy Apple Watch Series 10 ma eSIM?**
-Tak. **Apple Watch Series 10 eSIM** jest standardem na modelu GPS + Cellular.
+Tak. **Apple Watch Series 10 eSIM** jest standardem w modelu GPS + Cellular.
 
 **Czy Apple Watch Series 9 ma eSIM?**
-Tak. **Apple Watch Series 9 eSIM** to standardowa funkcja w wersji GPS + Cellular.
+Tak. **Apple Watch Series 9 eSIM** jest standardową funkcją w wersji GPS + Cellular.
 
 **Czy Apple Watch Ultra ma eSIM?**
-Tak. **Apple Watch Ultra eSIM** działa tak samo jak inne cellular Apple Watche.
+Tak. **Apple Watch Ultra eSIM** działa tak samo jak inne komórkowe Apple Watche.
 
 **Czy Apple Watch Ultra 2 ma eSIM?**
-Tak. **Apple Watch Ultra 2 eSIM** jest w pełni obsługiwany na modelu cellular.
+Tak. **Apple Watch Ultra 2 eSIM** jest w pełni obsługiwany w modelu komórkowym.
 
-**Czy mogę używać tej samej eSIM na iPhonie i iPadzie?**
-Nie – profile eSIM są powiązane z unikalnym EID urządzenia. Potrzebujesz osobnego planu dla każdego urządzenia. Niektórzy operatorzy oferują plany "wielourządzeniowe", ale są one rzadkie.
+**Czy mogę użyć tego samego eSIM na iPhone i iPad?**
+Nie – profile eSIM są powiązane z EID jednego urządzenia. Potrzebujesz osobnego planu dla każdego urządzenia. Niektórzy operatorzy oferują plany „multi‑device", ale są rzadkie.
 
-**Czy eSIM zużywa baterię na Apple Watch?**
-Nieznacznie, ale zegarek jest zaprojektowany, aby sobie z tym radzić. Stałe korzystanie z cellular skróci żywotność baterii, ale przy typowym codziennym użytkowaniu jest w porządku. Spodziewaj się około 10‑15% mniejszej żywotności baterii w dniach z intensywnym użyciem cellular.
+**Czy eSIM zużywa baterię Apple Watch?**
+Trochę, ale zegarek jest zaprojektowany, aby sobie z tym radzić. Ciągłe używanie komórki zmniejszy żywotność baterii, ale przy typowym codziennym użytkowaniu jest w porządku. Spodziewaj się o około 10‑15% mniejszej żywotności baterii w dniach z intensywnym używaniem komórki.
 
 **Czy mogę wykonywać połączenia telefoniczne z iPada za pomocą eSIM?**
-Nie – iPady nie mają aplikacji Telefon. Możesz jednak wykonywać połączenia przez FaceTime Audio, WhatsApp, Skype lub inne aplikacje VoIP przez połączenie danych eSIM.
+Nie – iPady nie mają aplikacji Telefon. Możesz jednak wykonywać połączenia za pomocą FaceTime Audio, WhatsApp, Skype lub innych aplikacji VoIP przez połączenie danych eSIM.
 
 **A co z telefonami składanymi z eSIM?**
-Nowoczesne składane smartfony, takie jak seria Samsung Galaxy Z Flip, obsługują eSIM. Tradycyjne telefony składane nie. Aby uzyskać szczegółowe porównanie, zobacz nasz **[przewodnik kompatybilności eSIM iPhone](/faq/iphone-11-esim-compatible/)**.
+Nowoczesne smartfony składane, takie jak seria Samsung Galaxy Z Flip, obsługują eSIM. Tradycyjne telefony feature phone nie. Aby uzyskać szczegółowe porównanie, zobacz nasz **[przewodnik zgodności eSIM dla iPhone](/faq/iphone-11-esim-compatible/)**.
 
-**Skąd mam wiedzieć, czy mój operator obsługuje Apple Watch eSIM?**
-Sprawdź stronę internetową operatora lub skontaktuj się z obsługą klienta. Poszukaj "planu cellular dla Apple Watch" lub "planu dla urządzeń ubieralnych".
+**Jak sprawdzić, czy mój operator obsługuje Apple Watch eSIM?**
+Sprawdź stronę swojego operatora lub skontaktuj się z obsługą klienta. Poszukaj „plan komórkowy Apple Watch" lub „plan wearable".
 
-**Czy mogę użyć darmowej próbnej eSIM na moim iPadzie?**
-Tak – [Roami oferuje darmową próbną eSIM](/free-esim/), która działa na każdym iPadzie z komórkową.
+**Czy mogę użyć darmowego eSIM próbnego na iPadzie?**
+Tak – [Roami oferuje darmowy eSIM próbny](/free-esim/), który działa na każdym komórkowym iPadzie.
 
 **Ile profili eSIM może przechowywać mój iPad?**
-iPady z iPadOS 16+ mogą przechowywać wiele profili eSIM (zazwyczaj 5 lub więcej, przy czym modele Pro obsługują do 8), ale tylko jedna eSIM może być aktywna na raz obok fizycznej SIM.
+iPady z iPadOS 16+ mogą przechowywać wiele profili eSIM (zwykle 5 lub więcej, a modele Pro obsługują do 8), ale tylko jeden eSIM może być aktywny naraz obok fizycznej SIM.
 
 **Czy iPadOS 18 zmienia coś w eSIM?**
-Tak – iPadOS 18 wprowadza szybsze przełączanie profili z Centrum sterowania, lepsze etykietowanie, uproszczoną aktywację i wyraźniejsze komunikaty błędów.
+Tak – iPadOS 18 wprowadza szybsze przełączanie profili z Centrum sterowania, lepsze etykietowanie, uproszczoną aktywację i jaśniejsze komunikaty błędów.
 
-**Czy Apple Watch Family Setup działa z każdym operatorem?**
-Nie – Family Setup wymaga operatora obsługującego samodzielne plany Apple Watch. W USA T‑Mobile i Verizon oferują to; AT&T ma ograniczone wsparcie. Sprawdź u swojego operatora przed zakupem.
+**Czy Family Setup dla Apple Watch działa z dowolnym operatorem?**
+Nie – Family Setup wymaga operatora obsługującego samodzielne plany Apple Watch. W USA oferują to T‑Mobile i Verizon; AT&T ma ograniczone wsparcie. Sprawdź u swojego operatora przed zakupem.
 
 **Co jeśli mój iPad ma EID w Ustawieniach, ale nadal nie chce aktywować eSIM?**
-Twój iPad może być zablokowany przez operatora. Sprawdź Ustawienia > Ogólne > Informacje > Blokada operatora – musi być napisane "Brak ograniczeń SIM". Jeśli zablokowany, skontaktuj się z operatorem w celu odblokowania.
+Twój iPad może być zablokowany na operatora. Sprawdź Ustawienia > Ogólne > Informacje > Blokada operatora – musi mówić „Brak ograniczeń SIM." Jeśli zablokowany, skontaktuj się z operatorem po odblokowanie.
 
 **Czy Samsung Galaxy Z Flip 5 ma eSIM?**
-Tak – Galaxy Z Flip 5 obsługuje eSIM. Wszystkie modele Z Flip od Flip3 wzwyż mają pełne wsparcie eSIM.
+Tak – Galaxy Z Flip 5 obsługuje eSIM. Wszystkie modele Z Flip od Flip3 wzwyż mają pełną obsługę eSIM.
 
-**Czy mogę używać eSIM tylko z danymi na moim iPadzie podczas podróży międzynarodowych?**
-Tak – większość podróżnych eSIM działa doskonale na iPadach. Wystarczy zeskanować kod QR, włączyć Data Roaming i jesteś połączony.
+**Czy mogę użyć eSIM tylko do danych na iPadzie do podróży międzynarodowych?**
+Tak – większość travel eSIMów działa doskonale na iPadach. Po prostu zeskanuj kod QR, włącz roaming danych i jesteś połączony.
 
-**Jak długo trwa aktywacja eSIM na Apple Watch?**
-Proces konfiguracji trwa 3‑5 minut, ale zegarek może potrzebować dodatkowych 2‑5 minut na rejestrację w sieci. Jeśli trwa to dłużej niż 10 minut, uruchom ponownie oba urządzenia.
+**Ile trwa aktywacja eSIM Apple Watch?**
+Proces konfiguracji zajmuje 3‑5 minut, ale zegarek może potrzebować dodatkowych 2‑5 minut na zarejestrowanie się w sieci. Jeśli trwa dłużej niż 10 minut, uruchom ponownie oba urządzenia.
 
-**Co to jest Number Share?**
-Number Share to funkcja, która pozwala Apple Watch współdzielić ten sam numer telefonu co iPhone. To standardowa konfiguracja dla większości użytkowników Apple Watch. Wymaga wsparcia operatora i różni się od Family Setup (które daje zegarkowi własny numer).
+**Czym jest Number Share?**
+Number Share to funkcja, która pozwala Twojemu Apple Watch dzielić ten sam numer telefonu co Twój iPhone. To standardowa konfiguracja dla większości użytkowników Apple Watch. Wymaga obsługi przez operatora i różni się od Family Setup (który daje zegarkowi własny numer).
 
 👉 **Potrzebujesz planu dla swojego urządzenia?** Zobacz [eSIM dla USA](/united-states-esim/) lub [eSIM dla Europy](/europe-esim/).
 
+---
 
-## Wypróbuj darmową eSIM na swoim iPadzie
+## Wypróbuj darmowe eSIM na swoim iPadzie
 
-Jeśli Twój iPad jest modelem cellular, możesz przetestować jego funkcjonalność eSIM za pomocą **darmowej próbnej eSIM** – bez kosztów, bez zobowiązań.
+Jeśli Twój iPad to model komórkowy, możesz przetestować jego funkcjonalność eSIM z **darmowym eSIM próbnym** – bez kosztów, bez zobowiązań.
 
-👉 [**Zdobądź swoją darmową eSIM**](/free-esim/)
+👉 [**Odbierz swoje darmowe eSIM**](/free-esim/)
 
 ---
 
-*Na podstawie oficjalnej dokumentacji Apple, standardów GSMA i informacji operatorów według stanu na sierpień 2026.*
+*Na podstawie oficjalnej dokumentacji Apple, standardów GSMA i informacji o operatorach na wrzesień 2026.*
 ## Źródła
 
 - [GSMA — specyfikacja eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Apple Support — eSIM na iPhonie](https://support.apple.com/en-us/108072)
-- [Apple Support — O eSIM na iPhonie](https://support.apple.com/en-us/HT209044)
-- [Apple Support — Konfiguracja cellular Apple Watch](https://support.apple.com/en-us/HT205739)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Set up cellular on Apple Watch](https://support.apple.com/guide/watch/set-up-cellular-apd64a9cdb6d/watchos)

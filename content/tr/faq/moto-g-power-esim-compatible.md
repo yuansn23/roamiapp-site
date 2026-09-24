@@ -1,21 +1,23 @@
 ---
-title: "Moto G Power eSIM Destekliyor mu? Tam Kılavuzu"
-h1_title: "Moto G Power eSIM Destekliyor mu? 2026 İçin Tam Bir Kılavuz"
-description: "Moto G Power (2024) ve Moto G Stylus (2024) eSIM'i destekler. Eski modeller (2020-2023) desteklemez. *#06# ile doğrulayın. Ayrıca Edge, Razr ve diğer Moto eSIM telefonlarını da kapsar."
-keywords: ["moto g power esim uyumlu", "moto g stylus esim uyumlu", "motorola esim uyumlu telefonlar", "moto g power 2024 esim", "airalo uyumlu telefonlar", "visible esim uyumlu telefonlar", "verizon esim uyumluluğu", "us mobile esim uyumlu cihazlar", "holafly uyumlu telefonlar", "motorola edge esim", "motorola razr esim", "çift sim uyumlu", "moto g power esim etkinleştirme", "motorola esim kurulumu", "moto g power için en iyi esim", "esim uyumluluğu nasıl kontrol edilir", "moto g power esim çalışmıyor"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
+title: "Moto G Power eSIM Destekliyor mu? Tam Rehber"
+h1_title: "Moto G Power eSIM Destekliyor mu? 2026 İçin Eksiksiz Rehber"
+description: "Moto G Power ve Moto G Stylus (2024) eSIM destekler; 2020-2023 eski modeller desteklemez. *#06# ile doğrulayın. Edge ve Razr modelleri de ele alınmaktadır."
+image: "/img/faq/moto-g-power-esim.webp"
+image-1: "/img/faq/moto-g-power-esim-1.jpg"
+keywords: ["moto g power esim", "moto g power esim uyumlu", "moto g stylus esim", "motorola esim uyumlu telefonlar", "moto g power 2024 esim", "motorola edge esim", "motorola razr esim", "moto g power esim etkinleştirme", "moto g power esim çalışmıyor", "motorola esim kurulum", "moto g power esim qr kodu", "moto g power çift sim", "motorola esim destekleyen cihazlar"]
+date: 2026-09-24T00:00:00Z
+lastmod: 2026-09-24T00:00:00Z
 tags: ["Motorola", "eSIM", "Uyumluluk", "Moto G Power"]
 toc: true
 
-# Site & SEO Temel Sabit Yapılandırması
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI Metin Çevirileri / Sabit Yapılandırma (Çoklu Dil Desteği)
+# UI text translations
 ui_text:
-  updated_on: "Güncellenme Tarihi"
+  updated_on: "Güncellenme tarihi"
   min_read: "dk okuma"
   toc: "İçindekiler"
 
@@ -32,45 +34,45 @@ sidebar_popular:
   title: "Popüler eSIM'ler"
   item_suffix: "eSIM"
   items:
-    - name: "ABD eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Almanya eSIM"
+    - name: "Almanya"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Avrupa eSIM"
+    - name: "Avrupa"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Türkiye eSIM"
+    - name: "Türkiye"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japonya eSIM"
+    - name: "Japonya"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Çin eSIM"
+    - name: "Çin"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Sağ Taraf: Ücretsiz eSIM Yapılandırması (4 ülke)
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Ücretsiz eSIM Alın"
+  title: "Ücretsiz eSIM Talep Et"
   icon: "🎁"
   item_suffix: "Ücretsiz eSIM"
   item_subtitle: "Ücretsiz eSIM"
   items:
-    - name: "Birleşik Krallık eSIM"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Almanya"
@@ -83,203 +85,265 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sağ Taraf: Popüler Sorular Yapılandırması (5 soru)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popüler Sorular"
   items:
     - question: "eSIM etkinleştirme nedir ve nasıl çalışır?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "eSIM nasıl etkinleştirilir?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/faq/how-to-activate-an-esim/"
     - question: "iPhone'da (Tüm Modeller) eSIM nasıl etkinleştirilir?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "En Güncel eSIM Uyumluluk Listesi"
+    - question: "Güncel eSIM Uyumluluk Listesi"
       url: "/compatibility/"
 ---
 
+> **Editör Notu:** Moto G Power 2024 eSIM desteklerken, eski nesiller genel olarak desteklemez. Bu rehber Motorola'nın resmi teknik özellikleriyle doğrulanmıştır ve her nesli kapsar. Telefonunuzun eSIM kullanıp kullanamayacağını teyit etmek için model yılınızı aşağıda kontrol edin.
 
-## Moto G Power eSIM Destekliyor mu? Hızlı Cevap
+Moto G Power, 2024 modelinden itibaren eSIM destekler; 2020–2023 nesilleri ve eski G Stylus modelleri desteklemez. *#06# tuşlayın — 32 haneli bir EID görünüyorsa telefonunuz hazırdır. Tam model tablosu, etkinleştirme adımları ve sorun giderme adımları aşağıdadır.
 
-**Evet —ancak yalnızca Moto G Power (2024) ve daha yenileri için. Eski modeller (2020-2023) eSIM'i DESTEKLEMEZ.** **Moto G Power 2024 eSIM** yeteneği onaylanmıştır ve **Moto G Stylus 2024 eSIM** de çalışır.
+## Moto G Power eSIM Destekliyor mu?
 
-İşte 10 saniyede bilmeniz gerekenler:
+**Evet – ancak yalnızca Moto G Power (2024) ve daha yeni modeller için. Eski modeller (2020–2023) eSIM DESTEKLEMEZ.** Moto G Power 2024 tamamen eSIM uyumludur ve Moto G Stylus 2024 de öyledir.
+
+10 saniyede bilmeniz gerekenler:
 
 1. **Telefonunuzun yılını kontrol edin:**  
-   - **Moto G Power (2024)** ——eSIM desteklenir.  
-   - **Moto G Power (2023, 2022, 2021, 2020)** ——eSIM yok.  
-   - **Moto G Stylus (2024)** ——eSIM desteklenir.  
-   - **Moto G Stylus (2023 ve daha eski)** ——eSIM yok.  
-2. ***#06# ile doğrulayın:** Bu kodu tuşlayın. **32 haneli bir EID** görünüyorsa, telefonunuz eSIM'i destekler.  
-3. **Destekleniyorsa etkinleştirin:** **Ayarlar > Ağ ve İnternet > Mobil Ağ > Operatör Ekle** bölümüne gidin ve bir QR kodu tarayın.
+   - **Moto G Power (2024)** – ✅ eSIM destekli.  
+   - **Moto G Power (2023, 2022, 2021, 2020)** – ❌ eSIM yok.  
+   - **Moto G Stylus (2024)** – ✅ eSIM destekli.  
+   - **Moto G Stylus (2023 ve öncesi)** – ❌ eSIM yok.  
+2. **`*#06#` ile doğrulayın:** Bu kodu tuşlayın. **32 haneli bir EID** görünüyorsa telefonunuz eSIM destekliyordur.  
+3. **Destekliyorsa etkinleştirin:** **Ayarlar > Ağ ve İnternet > Mobil Ağ > Operatör Ekle** bölümüne gidin ve bir QR kodu okutun.
 
-> **Uzman ipucu:** Diğer **motorola esim uyumlu telefonlar** arasında Edge serisi (Edge 40/50/60), Razr katlanabilirler ve bazı Moto G 5G modelleri (G53, G54, G55) bulunur. Her zaman EID testini çalıştırın.
+> **Profesyonel ipucu:** eSIM uyumlu diğer Motorola telefonları arasında Edge serisi (Edge 40/50/60), Razr katlanabilir telefonlar ve bazı Moto G 5G modelleri (G53, G54, G55) yer alır. Her zaman EID testini yapın.
 
-Tüm markalar arasındaki uyumlu cihazların tam listesi için [tam uyumluluk listemize](/compatibility/) bakın. Moto G Power'ınızla seyahat etmeyi planlıyorsanız, uygun fiyatlı küresel bağlantı için [Roami eSIM planlarına](/united-states-esim/) göz atın.
+Tüm markalardaki uyumlu cihazların tam listesi için [tam uyumluluk listemize](/compatibility/) göz atın.
 
-
-## Hangi Moto G Power Modelleri eSIM'i Destekler? Tam Uyumluluk Tablosu
-
-| Model | Yıl | eSIM Desteği | Notlar |
-|-------|------|--------------|-------|
-| Moto G Power (2024) | 2024 | —Evet | ABD ve küresel sürümler —**moto g power 2024 esim** onaylandı |
-| Moto G Power (2023) | 2023 | —Hayır | Yalnızca fiziksel SIM |
-| Moto G Power (2022) | 2022 | —Hayır | Yalnızca fiziksel SIM |
-| Moto G Power (2021) | 2021 | —Hayır | Yalnızca fiziksel SIM |
-| Moto G Power (2020) | 2020 | —Hayır | Yalnızca fiziksel SIM |
-| Moto G Stylus (2024) | 2024 | —Evet | eSIM'i destekler —**moto g stylus esim** yetenekli |
-| Moto G Stylus (2023) | 2023 | —Hayır | eSIM yok |
-| Moto G Stylus (2022) | 2022 | —Hayır | eSIM yok |
-
-Moto G Power 2024 ayrıca **çift sim uyumlu** işlevselliğini destekler —aynı anda bir fiziksel SIM ve bir eSIM kullanabilirsiniz; bu, ev numaralarını aktif tutarken yerel bir veri planı kullanmak isteyen gezginler için idealdir.
+Moto G Power ile seyahat etmeyi planlıyorsanız, uygun fiyatlı bağlantı için [Roami eSIM paketlerine](/united-states-esim/) ya da oraya gidiyorsanız [Japonya için eSIM'e](/japan-esim/) göz atın.
 
 
-## Motorola eSIM Uyumlu Telefonlar: Edge, Razr ve Daha Fazlası
+## Hangi Moto G Power eSIM Senaryosu Telefonunuza Uyuyor?
 
-**"motorola esim uyumlu telefonlar"** diye aradıysanız, işte eSIM'i destekleyen tüm Motorola modelleri (Moto G Power/Stylus 2024'ün yanı sıra).
+Mevcut durumunuza göre tam olarak neye ihtiyacınız olduğunu bulmak için bu karar haritasını kullanın.
 
-| Motorola Modeli | eSIM Desteği | Notlar |
-|----------------|--------------|-------|
-| Edge 60, Edge 60 Pro, Edge 60 Fusion | —Evet | En yeni Edge serisi —**motorola edge esim** çalışır |
-| Edge 50, Edge 50 Fusion, Edge 50 Pro, Edge 50 Neo, Edge 50 Ultra | —Evet | Tam destek |
-| Edge 40, Edge 40 Pro, Edge 40 Neo | —Evet | Tam destek |
-| Edge 30, Edge 30 Pro, Edge 30 Fusion | —Evet | Bazı bölgeler |
-| Edge 2024, Edge 2023, Edge 2022 | —Evet | ABD modelleri çalışır |
-| Razr 60, Razr 60 Ultra | —Evet | En yeni katlanabilirler —**motorola razr esim** desteklenir |
-| Razr 50, Razr 50 Ultra | —Evet | |
-| Razr 40, Razr 40 Ultra | —Evet | |
-| Razr 2024, Razr+ 2024 | —Evet | |
-| Moto G 5G (2025, G53, G54, G55 gibi 2024 modelleri) | —Evet | Seçili 5G modelleri |
-| ThinkPhone 25, ThinkPhone | —Evet | İş serisi |
-
-**Not:** Eski Motorola telefonları (Moto G7, G8, G9, G10, G30, G31, G41, G51, vb.) eSIM'i **desteklemez**. Onaylamak için her zaman `*#06#` tuşlayın.
-
-Diğer Motorola eSIM telefonları için lütfen [tam uyumluluk listemize](/compatibility/#motorola) bakın. [Motorola Destek web sitesi](https://support.motorola.com/) de her model için resmi eSIM uyumluluk bilgileri sağlar.
+| Senaryonuz | Neye İhtiyacınız Var | Buraya Atlayın |
+|---------------|---------------|---------|
+| **Elimde bir Moto G Power var – eSIM uyumlu mu?** | Model/yıl kontrolü | [Uyumluluk tablosu](#moto-g-power-esim-compatibility-table) |
+| **Telefonum eSIM destekliyor – nasıl etkinleştiririm?** | Adım adım kurulum | [etkinleştirme rehberi](#how-to-activate-esim-on-moto-g-power) |
+| **Ayarlarımda "Operatör Ekle" seçeneğini bulamıyorum** | Android sürüm farklılıkları | [Android menü yolu farkları](#why-you-cant-find-add-carrier-on-moto-g-power) |
+| **Seyahate çıkıyorum – hangi paket en uygun?** | Operatör ve paket karşılaştırması | [Seyahat önerileri](#traveling-with-your-moto-g-power-esim) |
+| **Bütçe dostu bir eSIM telefonu almayı düşünüyorum – hangisi en iyisi?** | Alternatif karşılaştırması | [Moto G Power ve rakipleri](#which-budget-esim-phone-should-you-buy) |
+| **Yeni bir telefona geçiyorum – eSIM'ime ne olur?** | Aktarım rehberi | [eSIM aktarım rehberi](#moto-g-power-esim-transfer) |
+| **eSIM'im çalışmıyor / sinyal yok / veri yok** | Sorun giderme | [Sorun giderme](#how-to-fix-moto-g-power-esim-not-working) |
 
 
-## Moto G Power 2024 Neden eSIM'i Destekliyor (ve Eski Modeller Desteklemiyor)
+## Moto G Power 2024 Neden eSIM Destekliyor?
 
-Birçok kullanıcının sorduğu temel soru: **Moto G Power 2024 eSIM'i desteklerken eski modeller neden desteklemiyor?**
-
-Cevap tek bir bileşene dayanır: **eUICC çipi**.
+Cevap tek bir bileşene dayanıyor: SIM profillerini depolayan ve profil indirme ile yönetimini üstlenen fiziksel donanım olan **eUICC çipi** (embedded Universal Integrated Circuit Card).
 
 ### eUICC Nedir ve Neden Önemlidir?
 
-eUICC (gömülü Evrensel Entegre Devre Kartı), telefonun anakartına lehimlenmiş programlanabilir bir çiptir. Bir cihazın birden fazla eSIM profilini saklamasına ve yönetmesine olanak tanıyan şey budur. Bu çip olmadan, bir telefon eSIM'i hiç destekleyemez.
+eUICC, telefonun ana kartına lehimlenmiş programlanabilir bir çiptir. Bir cihazın birden fazla SIM profilini depolamasını ve yönetmesini sağlayan şey budur. Bu çip olmadan bir telefon hiçbir şekilde eSIM destekleyemez – eski Moto G Power modellerinin bunu çalıştıramamasının nedeni budur: donanım hiç yoktur.
 
-- **2024 öncesi**: Motorola, maliyet kaygıları nedeniyle Moto G Power serisine eUICC'yi dahil etmedi. eSIM pazarı hala gelişmekteydi ve bu fiyat segmentinde talep sınırlıydı. Bu fiyat aralığındaki çoğu kullanıcı hala fiziksel SIM kart kullanıyordu.
+- **2024 öncesi**: Motorola, maliyet kaygıları nedeniyle Moto G Power serisine eUICC dahil etmedi. eSIM piyasası henüz gelişme aşamasındaydı ve bu fiyat segmentinde talep sınırlıydı. Bu fiyat aralığındaki kullanıcıların çoğu hâlâ fiziksel SIM kart kullanıyordu.
 
-- **2024'ten itibaren**: eUICC üretim maliyetleri önemli ölçüde düştü ve uygun fiyatlı eSIM uyumlu telefonlara olan gezgin talebi arttı. Motorola, çipi Moto G Power ve Moto G Stylus'a ekleyerek onları pazardaki en uygun fiyatlı **eSIM'li telefonlardan** bazıları haline getirdi.
+- **2024 ve sonrası**: eUICC üretim maliyetleri önemli ölçüde düştü ve gezginlerin uygun fiyatlı eSIM uyumlu telefonlara talebi arttı. Motorola bu çipi Moto G Power ve Moto G Stylus'a ekleyerek onları piyasadaki en uygun fiyatlı eSIM telefonlardan bazıları hâline getirdi.
 
-Bu karar, Moto G Power 2024'ü, bankayı zorlamadan **motorola esim kurulumu** yeteneğine ihtiyaç duyan gezginler için en bütçe dostu seçeneklerden biri haline getirdi.
+- **GSMA standardı**: Moto G Power 2024'te kullanılan eSIM teknolojisi [GSMA SGP.22 spesifikasyonuna](https://www.gsma.com/esim/) uygundur ve tüm dünyada operatörlerle ve seyahat eSIM sağlayıcılarıyla uyumluluğu garanti eder. Bu, Apple, Samsung ve Google'ın kullandığı standardın aynısıdır.
 
-### Önemli Bölgesel Farklılıklar
+**Sonuç:** Moto G Power 2024, sıfır alabileceğiniz en ucuz eSIM destekli telefonlardan biridir; 5G, **çift SIM** (fiziksel + eSIM) ve büyük pil sunar – lansmanda 299,99 $ ve düzenli olarak bunun çok altında satılmaktadır.
 
-Tüm Moto G Power 2024 modelleri aynı değildir. Bölgesel farklılıklar mevcuttur:
-
-- **ABD modelleri**: eSIM tamamen etkin
-- **Avrupa modelleri**: eSIM tamamen etkin
-- **Asya modelleri (Japonya hariç)**: eSIM bölgeye bağlı olarak devre dışı olabilir
-- **Japonya modelleri**: eSIM tamamen etkin (yerel operatör gereksinimi)
-
-Bu, bazı kullanıcıların 2024 modelinde bile "Operatör Ekle" seçeneğini görmemesini açıklar —bu, eSIM desteği olmayan bir Asya varyantı olabilir. [GSMA](https://www.gsma.com/esim/), bu küresel birlikte çalışabilirliği mümkün kılan teknik standartları tanımlar.
+> **Önemli bölgesel fark:** 2024 model ABD ve Avrupa'da eSIM desteklese de bazı Asya varyantları (Japonya hariç) eSIM'i yazılım düzeyinde devre dışı bırakmış olabilir. Yalnızca model adına güvenmek yerine her zaman EID testiyle (`*#06#`) doğrulayın – bu en güvenilir uyumluluk kontrolüdür.
 
 
-## Moto G Power'ınızın eSIM'i Destekleyip Desteklemediğini Kontrol Etme (3 Yöntem)
+## Moto G Power eSIM Uyumluluk Tablosu
 
-### Yöntem 1: EID Kodu (En Güvenilir)
-1. **Telefon arama ekranınızı** açın.  
+| Model | Yıl | eSIM Desteği | Notlar |
+|-------|------|--------------|-------|
+| Moto G Power (2024) | 2024 | ✅ Evet | ABD ve global versiyonlar – eSIM doğrulandı |
+| Moto G Power (2023) | 2023 | ❌ Hayır | Yalnızca fiziksel SIM – eUICC donanımı yok |
+| Moto G Power (2022) | 2022 | ❌ Hayır | Yalnızca fiziksel SIM |
+| Moto G Power (2021) | 2021 | ❌ Hayır | Yalnızca fiziksel SIM |
+| Moto G Power (2020) | 2020 | ❌ Hayır | Yalnızca fiziksel SIM |
+| Moto G Stylus (2024) | 2024 | ✅ Evet | eSIM destekler |
+| Moto G Stylus (2023) | 2023 | ❌ Hayır | eSIM yok |
+| Moto G Stylus (2022) | 2022 | ❌ Hayır | eSIM yok |
+
+**"Moto G Power 5G" hakkında bir not:** Bazı bölgelerde 2024 model "Moto G Power 5G" olarak pazarlanır – aynı cihazdır ve aynı eSIM desteğine sahiptir.
+
+Moto G Power 2024 ayrıca **çift SIM** işlevini de destekler – bir fiziksel SIM ve bir eSIM'i aynı anda kullanabilirsiniz (Dual SIM Dual Standby / DSDS). Bu, yerel bir veri paketi kullanırken ev numaranızı aktif tutmak isteyen gezginler için idealdir. Yani evet – 2024 modelde bir fiziksel SIM ve bir eSIM'i aynı anda çalıştırabilirsiniz.
+
+Motorola eSIM telefonlarının tam listesi için sonraki bölüme bakın.
+
+
+## eSIM Uyumlu Motorola Telefonları
+
+Moto G Power/Stylus 2024 dışında eSIM destekleyen tüm Motorola modelleri şunlardır.
+
+| Motorola Modeli | eSIM Desteği | Notlar |
+|----------------|--------------|-------|
+| Edge 60, Edge 60 Pro, Edge 60 Fusion | ✅ Evet | En yeni Edge serisi – tam destekli |
+| Edge 50, Edge 50 Fusion, Edge 50 Pro, Edge 50 Neo, Edge 50 Ultra | ✅ Evet | Tam eSIM desteği |
+| Edge 40, Edge 40 Pro, Edge 40 Neo | ✅ Evet | Tam eSIM desteği |
+| Edge 30, Edge 30 Pro, Edge 30 Fusion | ✅ Evet | Bazı bölgeler |
+| Edge 2024, Edge 2023, Edge 2022 | ✅ Evet | ABD modelleri çalışır |
+| Razr 60, Razr 60 Ultra | ✅ Evet | En yeni katlanabilir telefonlar – tam destekli |
+| Razr 50, Razr 50 Ultra | ✅ Evet | |
+| Razr 40, Razr 40 Ultra | ✅ Evet | |
+| Razr 2024, Razr+ 2024 | ✅ Evet | |
+| Moto G 5G (2025, 2024 modelleri: G53, G54, G55) | ✅ Evet | Seçili 5G modelleri |
+| ThinkPhone 25, ThinkPhone | ✅ Evet | Kurumsal seri |
+
+**Not:** Eski Motorola telefonları (Moto G7, G8, G9, G10, G30, G31, G41, G51 vb.) eSIM **desteklemez**. Onaylamak için her zaman `*#06#` tuşlayın.
+
+Diğer Motorola eSIM telefonları için lütfen [tam uyumluluk listemize](/compatibility/#motorola) bakın. [Motorola Destek sitesi](https://support.motorola.com/) de her model için resmi eSIM uyumluluk bilgileri sunar.
+
+
+## Moto G Power'ınızın eSIM Destekleyip Desteklemediğini Nasıl Kontrol Edersiniz?
+
+### EID Kodu
+
+Bu, cihazınız için kesin uyumluluk kontrolüdür.
+
+1. **Telefonun tuşlama ekranını** açın.  
 2. `*#06#` girin ve **arama** tuşuna basın.  
 3. Ekrana bakın:  
-   - **EID (32 hane) görünüyor** ——Telefonunuz eSIM'i destekliyor.  
-   - **Yalnızca IMEI numaraları görünüyor** ——eSIM yok (eski model veya desteklenmiyor).  
+   - **EID (32 hane) görünüyorsa** → ✅ Telefonunuz eSIM destekliyor.  
+   - **Yalnızca IMEI numaraları görünüyorsa** → ❌ eSIM yok (eski model veya desteklenmiyor).  
 
-### Yöntem 2: Ayarlarda Kontrol Edin
-**Ayarlar > Ağ ve İnternet > Mobil Ağ** bölümüne gidin. **"eSIM İndir"** veya **"Operatör Ekle"** görüyorsanız, cihazınız eSIM'i destekler. Eksik mi? O zaman eSIM mevcut değildir. Bu, cihazınızda **esim uyumluluğu nasıl kontrol edilir** için hızlı bir yoldur.
+EID (eUICC Identifier), gömülü SIM donanımına ait benzersiz bir tanımlayıcıdır. Onu görüyorsanız telefonunuzda eSIM için gereken çip vardır.
 
-### Yöntem 3: Model Numaranızı Kontrol Edin
-- **Moto G Power 2024** —Model numaraları: XT2415, XT2415-1, XT2415-2 (eSIM yetenekli).  
-- **Eski modeller** —XT2165 (2022), XT2117 (2021), XT2041 (2020) —eSIM yok.
+### Ayarlar İçinden Kontrol
 
-### Operatör Kilidi Kontrolü —Neden Önemlidir
-Moto G Power 2024'ünüz eSIM yetenekli olsa bile, başka bir operatörden (bir seyahat eSIM sağlayıcısı gibi) bir eSIM kabul etmek için **kilidi açılmış** olmalıdır.
+**Ayarlar > Ağ ve İnternet > Mobil Ağ** bölümüne gidin. **"eSIM İndir"** veya **"Operatör Ekle"** seçeneklerini görüyorsanız cihazınız destekliyordur. Yoksa eSIM kullanılamaz.
 
-- **Motorola (stok Android)**: `Ayarlar > Telefon Hakkında > SIM Durumu` —kilit durumunu kontrol edin.
-- Telefonunuz kilitliyse, seyahatinizden önce kilidi açmak için operatörünüzle (ABD: T-Mobile, AT&T, Verizon; Avrupa: Orange, Vodafone, vb.) iletişime geçin. Bu, özellikle yurt dışında bir seyahat eSIM'i kullanmayı planlıyorsanız önemlidir.
+### Model Numaranızı Kontrol Edin
+
+- **Moto G Power 2024** – Model numaraları: XT2415, XT2415-1, XT2415-2 (eSIM uyumlu).  
+- **Eski modeller** – XT2165 (2022), XT2117 (2021), XT2041 (2020) – eSIM yok.
+
+### Operatör Kilidi eSIM Etkinleştirme İçin Neden Önemlidir
+
+Moto G Power 2024'ünüz eSIM uyumlu olsa bile, başka bir sağlayıcıdan (örneğin bir seyahat eSIM hizmeti) gelen QR kodunu kabul edebilmesi için **kilitsiz** olması gerekir.
+
+- **Motorola (stok Android)**: `Ayarlar > Telefon Hakkında > SIM Durumu` – kilit durumunu kontrol edin.
+- Telefonunuz kilitliyse, seyahatinizden önce kilidin açılmasını istemek için operatörünüzle iletişime geçin (ABD: T-Mobile, AT&T, Verizon; Avrupa: Orange, Vodafone vb.). Bu, yurt dışında seyahat verisi kullanmayı planlıyorsanız özellikle önemlidir.
+
+**Operatör kilidi tuzağı:** Bazı operatör kilitli Moto G Power 2024 cihazlarında (örneğin AT&T veya Verizon'dan), donanım desteklese bile eSIM özelliği **yazılım düzeyinde devre dışı bırakılmış** olabilir. "Operatör Ekle" seçeneğini etkinleştirmek için telefonun kilidini açtırmanız veya kilitsiz yazılımı yüklemeniz gerekebilir. Ayrıntılar için operatörünüzle iletişime geçin.
 
 
-## Moto G Power'da eSIM Nasıl Kurulur ve Etkinleştirilir
+## Moto G Power'da Operatör Ekle Seçeneğini Bulamamanızın Nedeni
 
-**Moto G Power eSIM etkinleştirmesi** 2 dakikadan az sürer. **Uçuştan önce** yapın —yalnızca Wi‑Fi'ye ihtiyacınız var. Bu, önerilen **motorola esim kurulumu** yöntemidir.
+Birçok kullanıcı şunu bildiriyor: "Elimde Moto G Power 2024 var ama ayarlarımda `Operatör Ekle` seçeneğini hiçbir yerde bulamıyorum." **Bu bir donanım sorunu değildir – bir Android sürüm farklılığıdır.** Menü yolu Android 13 ile Android 14 arasında değişmiştir.
 
-### Adım Adım Etkinleştirme Kılavuzu
+| Android Sürümü | Menü Yolu |
+|-----------------|-----------|
+| **Android 13 ve altı** | `Ayarlar > Ağ ve İnternet > Mobil Ağ > Gelişmiş > Operatör > eSIM Ekle` |
+| **Android 14 ve üstü** | `Ayarlar > Ağ ve İnternet > SIM Kartlar > eSIM Ekle` (veya "eSIM İndir") |
 
-1. **Bir eSIM planı satın alın** —Seyahat için bir [Roami eSIM](/free-esim/) seçin (ücretsiz deneme mevcuttur) veya Airalo, Holafly veya Google Fi gibi herhangi bir sağlayıcı. ABD seyahati için Roami'den bir [ABD eSIM](/united-states-esim/), T-Mobile, AT&T ve Verizon arasında çoklu operatör geçişi sunar.
-2. **Ayarlar > Ağ ve İnternet > Mobil Ağ > Operatör Ekle** bölümüne gidin.
-3. E‑postanıza gönderilen **QR kodunu tarayın**. (Etkinleştirme ayrıntılarını manuel olarak da girebilirsiniz —bu, taranamayan bir **esim qr kodu** varsa kullanışlıdır.)
-4. eSIM profilini indirmek ve yüklemek için **ekrandaki yönergeleri izleyin**.
-5. **eSIM'inizi mobil veri için varsayılan olarak ayarlayın** ve seyahat ederken **Veri Dolaşımı**'nı açın.
-6. Kolay tanımlama için **eSIM'inizi etiketleyin** (örneğin, "ABD Seyahati" veya "İş").
+**Bulmanın en hızlı yolu:** Menülerde elle gezinmeyin. Bildirim panelini aşağı çekin, Ayarlar'ı açmak için **dişli simgesine** dokunun ve ardından **üstteki arama çubuğunu** kullanın. **"eSIM"** veya **"Ekle"** yazın – sistem, hangi Android sürümünü kullanıyor olursanız olun gizli giriş noktasını doğrudan gösterecektir. Bu tek adım, "Operatör Ekle eksik" durumlarının çoğunu çözer.
 
-> 💡 Bazı Motorola telefonları kurulum sırasında Wi‑Fi'ye bağlı olmanızı gerektirir. Bir **"esim etkinleştirilemiyor"** hatası görürseniz, Wi‑Fi bağlantınızı kontrol edin ve tekrar deneyin.
+**Arama hiçbir şey göstermiyorsa:** Cihazınız ya:
+1. Donanımdan yoksundur (`*#06#` ile kontrol edin – EID yoksa destek yok demektir)
+2. eSIM'i yazılım düzeyinde devre dışı bırakılmış bir operatör kilitli varyanttır
+3. Destek sunmayan bir Asya bölgesel varyantıdır
 
-Etkinleştirme sırasında sorunlarla karşılaşırsanız, **moto g power esim çalışmıyor** ve etkinleştirme başarısızlıkları gibi yaygın sorunları kapsayan [eSIM Derin Sorun Giderme Kılavuzumuza (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
+
+## Moto G Power'da eSIM Nasıl Etkinleştirilir
+
+Etkinleştirme 2 dakikadan az sürer. Bunu **uçmadan önce** yapın – yalnızca Wi‑Fi gerekir.
+
+### Moto G Power eSIM Etkinleştirme
+
+1. **Bir eSIM paketi satın alın** – Seyahat için bir [Roami eSIM](/free-esim/) (ücretsiz deneme mevcut) ya da Airalo, Holafly veya Google Fi gibi herhangi bir sağlayıcı seçin. ABD seyahati için Roami'den bir [USA eSIM](/united-states-esim/), T‑Mobile, AT&T ve Verizon genelinde çoklu operatör geçişi sunar.
+2. **Ayarlar > Ağ ve İnternet > Mobil Ağ > Operatör Ekle** bölümüne gidin (bulamazsanız [menü yolu bölümüne](#why-you-cant-find-add-carrier-on-moto-g-power) bakın).
+3. **E-postanıza gönderilen QR kodunu okutun.** (Okunmazsa etkinleştirme bilgilerini elle de girebilirsiniz – aşağıya bakın.)
+4. Profili indirmek ve yüklemek için **ekrandaki yönergeleri** izleyin – genellikle 30–60 saniye sürer.
+5. eSIM'inizi mobil veri için **varsayılan** olarak ayarlayın ve seyahat ederken **Veri Dolaşımı**'nı açın.
+6. Kolay tanıma için eSIM'inizi **etiketleyin** (örneğin "ABD Seyahat" veya "İş").
+
+> 💡 Bazı Motorola telefonlar, kurulum sırasında Wi‑Fi'ye bağlı olmanızı ister. **"eSIM etkinleştirilemedi"** hatası görürseniz Wi‑Fi bağlantınızı kontrol edin ve tekrar deneyin.
+
+**Kurulum ipucu:** Bir seyahat eSIM'i kuruyorsanız bunu evden çıkmadan **önce** yapın. QR kodu profili indirmek için internet bağlantısı ister – yüklendikten sonra profil, Wi‑Fi olmasa bile telefonunuzda kalır ve varışta yalnızca Veri Dolaşımı'nı açmanız yeterlidir.
+
+### Manuel Giriş
+
+QR kodunu okutamıyorsanız – örneğin kod, kurulum yapmakta olduğunuz telefonda görüntüleniyorsa – **"Bilgileri Manuel Girin"** seçeneğine dokunun ve operatörünüzün e-postasındaki **SM-DP+ Adresi** ile **Etkinleştirme Kodu**'nu girin. Bu yöntem kamerayı tamamen devre dışı bırakır ve en güvenilir alternatiftir.
 
 
 ## Hangi Operatörler Moto G Power eSIM ile Çalışır?
 
-*eSIM etkinleştirilmiş 2024 veya daha yeni bir modele sahip olduğunuzu varsayarak.*
+*2024 veya daha yeni, eSIM etkin bir modele sahip olduğunuzu varsayıyoruz.*
 
 | Sağlayıcı | Uyumlu mu? | Notlar |
 |----------|-------------|-------|
-| **Airalo** | —Evet | 2024 modellerinde mükemmel çalışır —**airalo uyumlu telefonlar** arasında |
-| **Visible** | ⚠️ Sınırlı | Visible resmi olarak yalnızca birkaç Android telefonu destekler; ücretsiz deneme ile test edin |
-| **Google Fi** | —Evet | eSIM mevcutsa çalışır |
-| **Verizon** | —Evet | Verizon markalı Moto G Power (2024) çalışır. **Verizon eSIM uyumluluğu** için bu model desteklenir. |
-| **US Mobile** | —Evet | Hem Warp 5G hem de GSM ağlarında eSIM ile çalışır —**us mobile esim uyumlu cihazlar** arasında |
-| **T-Mobile (ABD)** | —Evet | 2024 modellerinde eSIM'i destekler |
-| **Holafly** | —Evet | Tam uyumlu —en iyi **holafly uyumlu telefonlar** arasında |
-| **Roami** | —Evet | Seyahat eSIM'leri için tam destek —çoklu operatör geçişi ile |
+| **Airalo** | ✅ Evet | 2024 modellerde kutudan çıktığı gibi çalışır |
+| **Visible** | ⚠️ Sınırlı | Visible resmî olarak yalnızca birkaç Android telefonu destekler; ücretsiz denemeyle test edin |
+| **Google Fi** | ✅ Evet | eSIM varsa çalışır |
+| **Verizon** | ✅ Evet | Verizon markalı Moto G Power (2024), eSIM dahil çalışır. |
+| **US Mobile** | ✅ Evet | Hem Warp 5G hem GSM ağlarında eSIM ile çalışır |
+| **T-Mobile (ABD)** | ✅ Evet | 2024 modellerde eSIM destekler |
+| **Holafly** | ✅ Evet | Tam uyumlu |
+| **Roami** | ✅ Evet | Seyahat eSIM'lerine tam destek – çoklu operatör geçişiyle |
+| **AT&T (Ön ödemeli)** | ⚠️ Sınırlı | AT&T ön ödemeli eSIM yaygın değildir; abonelikli kilit açıldıysa çalışır |
+| **Orange (AB)** | ✅ Evet | Uyumlu cihazlarda eSIM destekler |
+| **Vodafone (AB/İngiltere)** | ✅ Evet | eSIM destekler – ancak ön ödemeli için İngiltere adresi gerekebilir |
+| **O2 (İngiltere)** | ✅ Evet | Uyumlu cihazlarda eSIM destekler |
 
-**"moto g power esim uyumlu"** diye aradıysanız —cevap yıla bağlıdır. **2024 = evet, eski = hayır**. Moto G Power 2024 ayrıca **çift sim uyumlu** (bir fiziksel SIM + bir eSIM aktif) destekler.
-
-Avrupa'daki kullanıcılar için Orange, Vodafone ve O2 de uyumlu cihazlarda eSIM'i destekler, böylece Moto G Power 2024'ünüzü yerel Avrupa operatörleriyle de kullanabilirsiniz.
-
-
-## Moto G Power eSIM vs Diğer Uygun Fiyatlı Telefonlar —Hangisi En İyi?
-
-Uygun fiyatlı bir **eSIM uyumlu telefon** arayan gezginler için Moto G Power 2024 diğer bütçe seçenekleriyle şu şekilde karşılaştırılır:
-
-| Telefon | eSIM | Çift SIM | 5G | Fiyat (yeni, 2026) |
-|-------|------|----------|-----|-------------------|
-| **Moto G Power (2024)** | —| —(fiziksel + eSIM) | —| ~$200-250 |
-| **Moto G Stylus (2024)** | —| —| —| ~$250-300 |
-| **Samsung Galaxy A35** | —| —| —| ~$350-400 |
-| **Google Pixel 7a** | —| —| —| ~$350-400 |
-| **OnePlus Nord CE 4** | —| —| —| ~$300-350 |
-| **Xiaomi Redmi Note 13 Pro** | —| Hayır | —| ~$250-300 |
-| **Moto G Power (2023)** | —| Hayır | —| ~$150-200 |
-
-Moto G Power 2024, **kategorisindeki en uygun fiyatlı eSIM uyumlu telefon** olarak öne çıkar ve bütçe bilincine sahip gezginler için mükemmel değer sunar. **Moto g power için en iyi esim** arıyorsanız, Roami'nin seyahat planları mükemmel kapsama alanı ve fiyatlandırma sunar.
-
-Daha geniş bir karşılaştırma için [tam eSIM uyumlu telefonlar listemize](/compatibility/) bakın.
+Özetle: Moto G Power, 2024 modelinden itibaren eSIM destekler. 2024 model ayrıca **çift SIM** destekler (bir fiziksel SIM + bir eSIM aktif).
 
 
-## Sorun Giderme: Yaygın Moto G Power eSIM Sorunları ve Çözümleri
+## Hangi Bütçe Dostu eSIM Telefonunu Almalısınız?
 
-Dikkatli hazırlık yapılsa bile sorunlar ortaya çıkabilir. İşte **moto g power esim etkinleştirme** ve **moto g power esim çalışmıyor** senaryolarıyla ilgili en yaygın sorunlar:
+Moto G Power 2024 ile diğer bütçe telefonları arasında hâlâ karar veremiyor musunuz? İşte gerçek kullanım senaryolarına dayalı doğrudan bir karşılaştırma.
+
+| Durumunuz | **Moto G Power (2024)** seçin | **Xiaomi Redmi Note 13 Pro** seçin (eSIM yok) | **Samsung A35** seçin (eSIM var) |
+|----------------|--------------------------------|-----------------------------------------------|-----------------------------------|
+| **Sıkı bütçe + seyahat için mutlaka eSIM gerekli** | ✅ **En iyi seçim.** En ucuz yeni eSIM uyumlu Android telefon. Bu fiyatta rakipsiz. | ❌ **Kaçının.** Şu an 50 $ tasarruf edersiniz ama yurt dışında eSIM satın alamazsınız – pişman olursunuz. | ❌ 100 $+ daha pahalı. O ek para, 20GB Avrupa verisi alır. Değmez. |
+| **Çoğunlukla evde kullanım + ara sıra seyahat** | ✅ **En iyi değer.** Fiziksel SIM + geçici eSIM – mükemmel çift SIM kurulumu. Eve dönünce fiziksel SIM'e geri dönün. | ⚠️ Hiç seyahat etmiyorsanız harika. Ama bir kez bile seyahat ederseniz cepli Wi‑Fi kiralamak zorunda kalırsınız. | ❌ Fazla. Ara sıra seyahat için fazla para ödemiş olursunuz. |
+| **Kamera önemli (sosyal medya, seyahat fotoğrafları)** | ❌ Kamera QR kodu okutmak ve temel fotoğraflar için yeterli, ama gece çekimleri vasat. | ⚠️ Moto'dan daha iyi kamera ama eSIM yok – seyahat paylaşımlarınızı kısıtlar. | ✅ **Samsung A35.** Belirgin biçimde daha iyi kamera. Seyahat fotoğrafçıları için değer. |
+| **Kilit açma/root sırasında tuğlaya dönüşme endişesi** | ✅ **Moto'nun stok Android'i en stabildir.** BL kilidi açılmasa bile eSIM kusursuz çalışır – çok az hata verir. | ❌ MIUI'nin eSIM desteği zayıftır ve Çin içi versiyonlar eSIM'i genellikle tamamen kaldırır. | ✅ Samsung Knox güvenlidir ancak Knox'u tetiklerseniz (root ile) eSIM kalıcı olarak bozulur – yüksek risk. |
+
+**Karar:** Önceliğiniz bütçe içinde eSIM uyumluluğu ise, Moto G Power 2024 açık ara kazananıdır. Tam eSIM desteğine sahip en uygun fiyatlı Motorola'dır ve gezginler için mükemmel değer sunar.
+
+
+## Moto G Power eSIM Aktarımı
+
+Her eSIM kullanıcısının korktuğu kâbus senaryo budur. Moto G Power (ve çoğu Apple dışı Android telefon) için acı gerçek şu: **profiliniziniz bulut verisi gibi yeni bir telefona senkronize edilemez.** Bundan sonra ne olacağı, sahip olduğunuz eSIM türüne bağlıdır.
+
+Bir profil, telefonunuzdaki eUICC güvenlik çipine **sabitlenmiştir**. Farklı eSIM türlerinin farklı aktarım kuralları vardır:
+
+| eSIM Türü | Aktarılabilir mi? | Ne Yapmalı |
+|-----------|-------------------|------------|
+| **Seyahat eSIM (Roami, Airalo, Holafly, Nomad)** | ❌ **Aktarım yok.** Yüklendikten sonra Moto G Power'ınızın eUICC'sine kilitlenir. | Telefon değiştirmeden önce tüm verinizi kullanın. Artan veriniz varsa desteğe başvurun – bazı sağlayıcılar **tek bir** profil sıfırlamasına izin verir, çoğu vermez. |
+| **Yerel operatör eSIM (T‑Mobile, Verizon, EE, O2)** | ✅ **Evet, ancak doğrudan değil.** Operatör uygulamaları "SIM'i yeni cihaza aktar" sunar – bu, eski profili uzaktan devre dışı bırakır ve yeni telefonunuza taze bir profil verir. | Operatörünüzün uygulamasını açın, aktarım seçeneğini bulun ve yönergeleri izleyin. Eski profil otomatik olarak ölür. |
+
+**Orijinal QR kodunu yeniden kullanmak ne olur?** Telefon değiştiriyorsanız ve etkinleştirme e-postanız hâlâ elinizdeyse son kullanma tarihini kontrol edin. Çoğu seyahat QR kodu 30–90 gün içinde geçerliliğini yitirir – sizinki süresi dolmuşsa yeni bir kod için sağlayıcınızla iletişime geçin veya yeni bir paket satın alın.
+
+> **💰 Satın almadan önce profesyonel ipucu:** Önümüzdeki 6 ay içinde telefonunuzu yükseltmeyi planlıyorsanız, Moto G Power'ınızda uzun süreli (1 yıllık) paketler satın almaktan **kaçının**. Bunun yerine 7 günlük veya 30 günlük seyahat paketleri alın – kullanın, bitirin ve hiç yük olmadan telefon değiştirin. Bu, sık sık yükseltme yapan gezginler için özellikle önemlidir.
+
+
+## Moto G Power eSIM Çalışmıyor Sorunu Nasıl Düzeltilir
+
+Dikkatli hazırlıkla bile sorunlar yaşanabilir. İşte en yaygın sorunlar ve çözümleri:
 
 | Sorun | Olası Neden | Çözüm |
-|-------|--------------|-------|
-| **"Operatör Ekle" görünmüyor** | 2023 modeli veya eSIM'siz Asya varyantı | Model yılını kontrol edin. 2024 ise sistem güncellemesini deneyin. |
-| **eSIM etkinleştirme başarısız** | QR kodunun süresi doldu veya ağ kararsız | Yeni QR kodu isteyin. İstikrarlı Wi-Fi'ye bağlanın. |
-| **Etkinleştirmeden sonra eSIM servis yok** | Veri dolaşımı devre dışı | `Ayarlar > Ağ ve İnternet > Mobil Ağ` —eSIM —`Veri Dolaşımı` (AÇIK). |
-| **QR kodu tanınmıyor** | Kodun süresi doldu veya hasarlı | Manuel girişi kullanın (SM‑DP+ adresi ve etkinleştirme kodu). |
-| **APN yapılandırılmamış** | APN ayarları eksik | APN'yi manuel olarak yapılandırın (aşağıdaki tabloya bakın). |
-| **Operatör kilidi** | Telefon orijinal operatöre kilitli | Cihazın kilidini açmak için operatörünüzle iletişime geçin. |
+|-------|--------------|----------|
+| **"Operatör Ekle" görünmüyor** | Android sürüm farkı veya Asya bölgesel varyantı | Menülerde gezinmeyin – Ayarlar'daki **arama çubuğunu** kullanın ve "eSIM" yazın. Hiçbir şey çıkmıyorsa cihazınızda eSIM donanımı olmayabilir. |
+| **eSIM etkinleştirme başarısız** | QR kodunun süresi dolmuş veya ağ kararsız | Yeni bir QR kodu isteyin. Kararlı Wi‑Fi'ye bağlanın. |
+| **Etkinleştirmeden sonra eSIM'in hizmeti yok** | Veri dolaşımı kapalı veya ağ seçimi sorunu | `Ayarlar > Ağ ve İnternet > Mobil Ağ` → eSIM → `Veri Dolaşımı` (AÇIK). Ayrıca Ağ Seçimi'ni kontrol edin – "Otomatik"i kapatın ve bir operatörü elle seçin. |
+| **eSIM QR kodu tanınmıyor** | Kodun süresi dolmuş veya bozulmuş | Manuel girişi kullanın (SM‑DP+ adresi ve etkinleştirme kodu). |
+| **APN yapılandırılmamış – veri bağlantısı yok** | Eksik APN ayarları | APN'yi elle yapılandırın (aşağıdaki tabloya bakın). |
+| **Operatör kilidi eSIM kullanımını engelliyor** | Telefon orijinal operatöre kilitli | Cihazın kilidini açtırmak için operatörünüzle iletişime geçin. |
+| **"eSIM etkinleştirilemedi" hatası** | Wi‑Fi kararsız veya sunucu meşgul | Telefonu yeniden başlatın, farklı bir Wi‑Fi ağı deneyin, 10 dakika bekleyin ve tekrar deneyin. |
+| **Sistem güncellemesinden sonra eSIM "Hizmet Yok" gösteriyor** | Güncelleme ağ ayarlarını sıfırlamış | eSIM profilini yeniden yükleyin (veri kalmadıysa) veya APN'yi yeniden yapılandırın. |
+| **eSIM profili indirme kurulum ortasında başarısız** | Kararsız Wi‑Fi | Eksik profili silin, yeniden başlatın ve kararlı Wi‑Fi'de tekrar deneyin. |
 
-### Manuel APN Yapılandırması
+### Moto G Power eSIM İçin Manuel APN Yapılandırması
 
-Etkinleştirmeden sonra **servis yok** sorunu yaşarsanız, APN ayarlarını manuel olarak yapılandırmanız gerekebilir:
+Etkinleştirmeden sonra **hizmet yok** durumundaysanız APN ayarlarını elle yapılandırmanız gerekebilir:
 
 **Motorola:** `Ayarlar > Ağ ve İnternet > Mobil Ağ > Erişim Noktası Adları (APN) > Yeni APN`
 
@@ -290,74 +354,107 @@ Etkinleştirmeden sonra **servis yok** sorunu yaşarsanız, APN ayarlarını man
 | **Verizon (ABD)** | vzwinternet | (boş) | (boş) |
 | **Orange (FR)** | orange.fr | (boş) | (boş) |
 | **SFR (FR)** | sl2sfr | (boş) | (boş) |
-| **Vodafone (BK)** | internet | (boş) | (boş) |
+| **Vodafone (İngiltere)** | internet | (boş) | (boş) |
+| **Roami (global)** | internet | (boş) | (boş) |
+| **Airalo** | globaldata | (boş) | (boş) |
+| **Holafly** | holafly | (boş) | (boş) |
 
-Sorunlar devam ederse, [eSIM Derin Sorun Giderme Kılavuzumuza (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
+Sorunlarınız sürüyorsa [eSIM Derin Sorun Giderme Rehberimize (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/) göz atın.
 
 
-## Moto G Power eSIM''inizle Seyahat Etmek —Bilmeniz Gerekenler
+## Moto G Power eSIM ile Seyahat
 
-Moto G Power 2024, eSIM yeteneği ve **çift sim uyumlu** tasarımı sayesinde mükemmel bir seyahat arkadaşıdır. ABD eSIM, Avrupa veya Asya'yı keşfediyor olsanız da, eSIM hazır bir telefona sahip olmak size esneklik ve maliyet tasarrufu sağlar.
+Moto G Power 2024, eSIM yeteneği ve **çift SIM** tasarımı sayesinde mükemmel bir seyahat arkadaşıdır. ABD, Avrupa veya Asya'yı keşfediyor olun, eSIM hazır bir telefona sahip olmak size esneklik ve maliyet tasarrufu sağlar.
 
-### Seyahat Ederken Moto G Power İçin En İyi eSIM
+### Seyahatte Moto G Power İçin En İyi eSIM
 
-- **ABD seyahati için**: Çoklu operatör geçişli (T-Mobile, AT&T, Verizon) [ABD eSIM](/united-states-esim/) en güvenilir seçenektir. Yol gezileri ve şehir keşfi için mükemmeldir.
-- **Avrupa seyahati için**: Tek bir planla birden fazla ülkeyi kapsayan bir [Avrupa eSIM](/europe-esim/) düşünün.
-- **Diğer destinasyonlar için**: 190'dan fazla ülkede kapsama alanı için [küresel eSIM planlarımıza](/plans/) göz atın.
+- **ABD seyahati için**: Çoklu operatör geçişli (T-Mobile, AT&T, Verizon) [USA eSIM](/united-states-esim/) en güvenilir seçenektir. Karayolu yolculukları ve şehir keşifleri için mükemmel.
+- **Avrupa seyahati için**: Tek bir paketle birden fazla ülkeyi kapsayan bir [Avrupa eSIM](/europe-esim/) düşünün.
+- **Diğer destinasyonlar için**: 190'dan fazla ülkedeki kapsama için [global eSIM paketlerimize](/plans/) göz atın.
 
 ### Seyahat İçin Çift SIM Kurulumu
 
-Moto G Power 2024, bir aktif fiziksel SIM ve bir aktif eSIM ile çift SIM'i destekler. Bu şunları yapmanıza olanak tanır:
-- **Ev SIM'inizi** aramalar ve SMS'ler için aktif tutun (ücretlerden kaçınmak için veri dolaşımı devre dışı)
-- **Uygun fiyatlı yerel veri için bir seyahat eSIM'i** kullanın
+Moto G Power 2024, bir aktif fiziksel SIM ve bir aktif eSIM ile **çift SIM** destekler. Bu sayede:
+- **Ev SIM'inizi** aramalar ve SMS için aktif tutabilirsiniz (ücretlerden kaçınmak için veri dolaşımı kapalı)
+- Uygun fiyatlı yerel veri için **bir seyahat eSIM'i** kullanabilirsiniz
 
-Bu, pahalı dolaşım ücretlerinden kaçınarak yurt dışında bağlantıda kalmanın en uygun maliyetli yoludur. Daha fazla ipucu için [Seyahat eSIM 2026 kılavuzumuza](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) bakın.
+**Moto G Power (Android) için yapılandırma:**
+1. `Ayarlar > Bağlantılar > SIM Yöneticisi`
+2. Seyahat hattınızı **veri SIM'i** olarak ayarlayın
+3. Ev fiziksel SIM'inizi **arama/SMS SIM'i** olarak ayarlayın
+4. Ev SIM'inde veri dolaşımını kapatın
+5. Seyahat hattı için Veri Dolaşımı'nı AÇIK tutun
+
+Yurt dışında bağlantıda kalmanın en maliyet etkin yolu budur; pahalı dolaşım ücretlerinden kaçınırsınız. Daha fazla ipucu için [Travel eSIM 2026 rehberimize](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) bakın.
+
+### Moto G Power'ınız eSIM Desteklemiyorsa Ne Yapmalısınız?
+
+Eski bir modeliniz varsa (2023 veya öncesi) panik yok. İki seçeneğiniz var:
+1. **Varış noktanızda fiziksel SIM satın alın** – gayet iyi çalışır, sadece daha az pratik.
+2. **Moto G Power 2024'e geçin** – piyasadaki en ucuz eSIM telefonlardan biridir ve sizi yıllarca geleceğe hazırlar.
+
+Bütçeniz kısıtlıysa fiziksel SIM hâlâ tamamen uygulanabilir bir seçenektir. Birçok havalimanı ve bakkal ön ödemeli SIM satmaktadır.
 
 
-## Sık Sorulan Sorular
+## Moto G Power eSIM SSS
 
-**Moto G Power 2023 eSIM'i destekliyor mu?**
-Hayır —yalnızca 2024 modeli ve daha yenileri eSIM'i destekler. 2023 modeli yalnızca fiziksel SIM'dir. **moto g power esim uyumlu** sorusu tamamen yıla bağlıdır.
+**Moto G Power 2023 eSIM destekliyor mu?**
+Hayır – yalnızca 2024 model ve sonrası eSIM destekler. 2023 model yalnızca fiziksel SIM'dir.
 
-**Moto G Stylus 2024 eSIM'i destekliyor mu?**
-Evet —2024 Moto G Stylus eSIM'i destekler. **moto g stylus esim** yeteneği 2024 için onaylanmıştır.
+**Moto G Stylus 2024 eSIM destekliyor mu?**
+Evet – 2024 Moto G Stylus eSIM destekler.
 
-**Moto G Power 5G (2024) eSIM'i destekliyor mu?**
-Evet —Moto G Power 2024'ün 5G sürümü de eSIM'i destekler.
+**Moto G Power 5G (2024) eSIM destekliyor mu?**
+Evet – Moto G Power 2024'ün 5G versiyonu da eSIM destekler.
 
 **Moto G Power'ımın hangi yıl olduğunu nasıl anlarım?**
-**Ayarlar > Telefon Hakkında > Model Numarası** bölümüne gidin. Ardından bu model numarasını çevrimiçi arayın. Yaygın olanlar: XT2041 (2020), XT2117 (2021), XT2165 (2022), XT2415 (2024).
+**Ayarlar > Telefon Hakkında > Model Numarası** bölümüne gidin. Yaygın olanlar: XT2041 (2020), XT2117 (2021), XT2165 (2022), XT2415 (2024).
 
-**Moto G Power'ım (2024) "Operatör Ekle" göstermiyor —sorun ne?**
-En son Android güncellemesinde olduğunuzdan emin olun. Hala eksikse, bazı operatör kilitli sürümlerde eSIM devre dışı olabilir. Operatörünüzle iletişime geçin veya fabrika ayarlarına sıfırlamayı deneyin.
+**Moto G Power (2024) "Operatör Ekle" göstermiyor – sorun ne?**
+Zamanın %90'ında neden, menü yolunun Android sürümleri arasında değişmiş olmasıdır. **Ayarlar arama çubuğunu kullanın** ve "eSIM" yazın. Hiçbir şey çıkmıyorsa telefonunuzun operatör kilitli mi yoksa bir Asya varyantı mı olduğunu kontrol edin – operatörünüze danışın.
 
-**Motorola Edge eSIM'i destekliyor mu?**
-Evet —çoğu Motorola Edge modeli (Edge 40, 50, 60, 2024) eSIM'i destekler. `*#06#` ile kontrol edin. **motorola edge esim** son modellerde tamamen işlevseldir.
+**Motorola Edge eSIM destekliyor mu?**
+Evet – Motorola Edge modellerinin çoğu (Edge 40, 50, 60, 2024) eSIM destekler. `*#06#` ile kontrol edin.
 
-**Motorola Razr eSIM'i destekliyor mu?**
-Evet —tüm Motorola Razr katlanabilir modelleri (Razr 40/50/60, Razr 2024, Razr+) eSIM'i destekler. **motorola razr esim** tamamen desteklenir.
+**Motorola Razr eSIM destekliyor mu?**
+Evet – tüm Motorola Razr katlanabilir modelleri (Razr 40/50/60, Razr 2024, Razr+) eSIM destekler.
 
-**Holafly Moto G Power 2024 ile uyumlu mu?**
-Evet —Holafly eSIM Moto G Power 2024'te mükemmel çalışır. **Ayarlar > Ağ ve İnternet > Operatör Ekle** bölümünde QR kodunu tarayın. **holafly uyumlu telefonlar** arasındadır.
+**Holafly, Moto G Power 2024 ile uyumlu mu?**
+Evet – Holafly eSIM, Moto G Power 2024'te kusursuz çalışır. Yalnızca QR kodunu okutun.
 
-**Moto G Power 2024'te aynı anda eSIM ve fiziksel SIM kullanabilir miyim?**
-Evet —2024 modeli, bir aktif fiziksel SIM ve bir aktif eSIM ile aynı anda **çift SIM**'i destekler. Bu, onu **çift sim uyumlu** yapar.
+**Moto G Power 2024'te eSIM ve fiziksel SIM'i aynı anda kullanabilir miyim?**
+Evet – 2024 model, bir aktif fiziksel SIM ve bir aktif eSIM ile **çift SIM** destekler.
 
-**Moto G Power için en iyi eSIM hangisidir?**
-ABD seyahati için **Roami** çoklu operatör geçişi sunar (T-Mobile, AT&T, Verizon). Avrupa için **Airalo** veya **Holafly** iyi seçeneklerdir. **Moto g power için en iyi esim** destinasyonunuza bağlıdır.
+**Moto G Power için en iyi eSIM hangisi?**
+ABD seyahati için **Roami**, çoklu operatör geçişi sunar (T-Mobile, AT&T, Verizon). Avrupa için **Airalo** veya **Holafly** iyi seçeneklerdir.
 
-**Moto g power esim çalışmıyor nasıl düzeltilir?**
-Veri dolaşımının etkin olduğunu kontrol edin, APN ayarlarını doğrulayın, telefonunuzu yeniden başlatın ve istikrarlı bir Wi-Fi bağlantınız olduğundan emin olun. Kalıcı sorunlar için yukarıdaki [sorun giderme kılavuzumuza](#-sorun-giderme-yaygin-moto-g-power-esim-sorunlari-ve-cozumleri) bakın.
+**Moto G Power'da eSIM çalışmıyor sorununu nasıl düzeltirim?**
+Veri dolaşımının etkin olduğunu kontrol edin, APN ayarlarını doğrulayın, telefonunuzu yeniden başlatın ve kararlı bir Wi‑Fi bağlantınız olduğundan emin olun. Yukarıdaki [sorun giderme bölümüne](#how-to-fix-moto-g-power-esim-not-working) bakın.
 
-**Moto G Power'da esim uyumluluğu nasıl kontrol edilir?**
-`*#06#` tuşlayın. 32 haneli bir EID görünüyorsa, telefonunuz eSIM uyumludur. Bu, **esim uyumluluğu nasıl kontrol edilir** için en güvenilir yöntemdir.
+**Moto G Power'da eSIM uyumluluğunu nasıl kontrol ederim?**
+`*#06#` tuşlayın. 32 haneli bir EID görünüyorsa telefonunuz eSIM uyumludur – bundan daha güvenilir bir kontrol yoktur.
 
-**Moto G Power Wi-Fi olmadan eSIM etkinleştirmesini destekliyor mu?**
-Hayır —eSIM etkinleştirmesi, profili operatörün sunucusundan indirmek için bir Wi-Fi bağlantısı gerektirir.
+**Moto G Power, Wi‑Fi olmadan eSIM etkinleştirmeyi destekliyor mu?**
+Hayır – eSIM etkinleştirme, profilin operatörün SM-DP+ sunucusundan indirilmesi için Wi‑Fi bağlantısı gerektirir.
 
 **Moto G Power eSIM'imi Avrupa operatörleriyle kullanabilir miyim?**
-Evet —Orange, Vodafone ve O2 gibi Avrupa operatörleri uyumlu cihazlarda eSIM'i destekler. Moto G Power 2024 bu ağlarla çalışır.
+Evet – Orange, Vodafone ve O2 gibi Avrupa operatörleri uyumlu cihazlarda eSIM destekler.
+
+**eSIM'im çalışıyordu ama sistem güncellemesinden sonra durdu – ne oldu?**
+Android güncellemeleri bazen ağ ayarlarını sıfırlayabilir. QR kodunuz hâlâ elinizdeyse APN ayarlarını yeniden girin veya eSIM profilini yeniden yükleyin.
+
+**Yalnızca eSIM için Moto G Power 2024 satın almaya değer mi?**
+Bütçeli, sık seyahat eden biriyseniz evet – eSIM ve 5G'li en ucuz telefondur ve çift SIM destekler; bu da seyahat verisi kullanırken ev numaranızı korumak için idealdir.
+
+**Moto G Power eSIM'imi yeni bir telefona aktarabilir miyim?**
+Seyahat eSIM'leri (Roami, Airalo, Holafly) için: **Hayır** – cihaza kilitlidirler. Yerel operatör eSIM'leri (T‑Mobile, Verizon, EE) için: **Evet** – aktarmak için operatörün uygulamasını kullanın. Yukarıdaki [eSIM aktarım bölümüne](#moto-g-power-esim-transfer) bakın.
 
 ---
 
-*Motorola destek dokümantasyonu, GSMA standartları ve operatör testlerine dayanmaktadır. Güncellenme: Haziran 2026.*
+*Motorola destek dokümantasyonu, GSMA standartları ve operatör testlerine dayanmaktadır. Güncellendi: Eylül 2026.*
+
+## Kaynaklar
+
+- [GSMA — eSIM (SGP.22) spesifikasyonu](https://www.gsma.com/esim/)
+- [Google Destek — Android eSIM](https://support.google.com/android/answer/11241215)
+- [Motorola Destek — eSIM uyumluluğu](https://support.motorola.com/)

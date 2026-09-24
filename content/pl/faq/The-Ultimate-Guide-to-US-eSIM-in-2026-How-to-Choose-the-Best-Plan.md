@@ -1,19 +1,20 @@
 ---
-title: "USA eSIM: jak uniknąć ograniczeń i ukrytych opłat"
-h1_title: "Jak uniknąć ograniczania prędkości i ukrytych opłat w USA z eSIM w 2026 roku"
-description: "Airalo czy Roami dla USA eSIM? Porównaj dane, połączenia i zasady roamingu, aby uzyskać najlepszą wartość dla swojej podróży do USA. Darmowa wersja próbna wliczona."
-keywords: ["US eSIM", "najlepszy esim dla usa", "usa esim prepaid", "t-mobile esim prepaid", "verizon esim kompatybilność", "us esim z nieograniczonymi danymi", "us esim z numerem telefonu", "at&t esim prepaid", "travel eSIM usa", "esim ameryka północna"]
-date: 2026-09-08T10:00:00Z
-lastmod: 2026-09-08T00:00:00Z
-tags: ["eSIM", "iOS", "Android", "Rozwiązywanie problemów", "Konfiguracja podróży"]
+title: "USA eSIM: Unikaj throttlingu i ukrytych opłat"
+h1_title: "Jak uniknąć throttlingu i ukrytych opłat z eSIM USA w 2026"
+description: "Airalo czy Roami dla eSIM USA? Porównaj dane, połączenia i zasady roamingu, aby uzyskać najlepszą wartość na wyjazd do USA. W tym darmowy okres próbny."
+keywords: ["US eSIM", "best esim for usa", "usa esim prepaid", "t-mobile esim prepaid", "verizon esim compatibility", "unlimited data us esim", "us esim with phone number", "at&t esim prepaid", "travel eSIM usa", "north america esim"]
+date: 2026-09-18T00:00:00Z
+lastmod: 2026-09-18T00:00:00Z
+tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
-image: "/img/esim/us-esim-guide-2026.jpg"
+image: "/img/faq/us-esim-guide.webp"
+image-1: "/img/faq/us-esim-guide-1.jpg"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# Tłumaczenia tekstów interfejsu
+# UI text translations
 ui_text:
   updated_on: "Zaktualizowano"
   min_read: "min czytania"
@@ -27,50 +28,50 @@ breadcrumbs:
     text: "Centrum pomocy"
     url: "/faq/"
  
-# Sidebar: Popularne eSIM
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popularne eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "USA eSIM"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Niemcy eSIM"
+    - name: "eSIM Niemcy"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europa eSIM"
+    - name: "eSIM Europa"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turcja eSIM"
+    - name: "eSIM Turcja"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japonia eSIM"
+    - name: "eSIM Japonia"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Chiny eSIM"
+    - name: "eSIM Chiny"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Sidebar: Darmowe oferty eSIM
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Zdobądź darmowy eSIM"
+  title: "Odbierz darmowy eSIM"
   icon: "🎁"
   item_suffix: "Darmowy eSIM"
   item_subtitle: "Darmowy eSIM"
   items:
-    - name: "UK eSIM"
+    - name: "eSIM Wielka Brytania"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Niemcy"
@@ -83,7 +84,7 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sidebar: Popularne pytania
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popularne pytania"
   items:
@@ -93,476 +94,478 @@ sidebar_questions:
       url: "/faq/how-to-activate-an-esim/"
     - question: "Jak aktywować eSIM na iPhone (wszystkie modele)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Najnowsza lista kompatybilności eSIM"
+    - question: "Najnowsza lista zgodności eSIM"
       url: "/compatibility/"
 ---
 
 
-> **Nota redakcyjna:** Roami to amerykański dostawca eSIM oferujący przełączanie między wieloma operatorami (T-Mobile, AT&T i Verizon) w ramach jednego planu. Ten przewodnik porównuje Roami z innymi głównymi dostawcami na podstawie niezależnych testów i danych o zasięgu operatorów. Wszystkie ceny i szczegóły planów są zweryfikowane według stanu na sierpień 2026.
+> **Nota redaktora:** Throttling i ukryte opłaty — a nie cena na etykiecie — to sposób, w jaki większość planów eSIM podróżnych do USA po cichu kosztuje więcej, a dzienne limity i automatyczne odnawianie są zwykłymi sprawcami. Ten przewodnik porównuje Roami z trzema głównymi sieciami w USA, korzystając z danych o zasięgu operatorów, a każda cena została zweryfikowana na wrzesień 2026. Przeczytaj sekcję o ukrytych opłatach przed zakupem.
 
-## 10‑sekundowa matryca decyzyjna dotycząca eSIM w USA – wybierz swój idealny plan
+Na wyjazd do USA wybierz plan przede wszystkim pod kątem zasięgu, a ceny w drugiej kolejności: wycieczki po miastach działają dobrze na planach opartych na T-Mobile, natomiast trasy po parkach narodowych wymagają zasięgu AT&T lub Verizon. Spodziewaj się około 23 dolarów za 10GB/30 dni od dostawców tylko z danymi, z planami wielosieciowymi w podobnej cenie. Macierz decyzyjna, lista ukrytych opłat i pełne porównanie dostawców znajdują się poniżej.
 
-**Nie wiesz, który plan danych podróżnych kupić? Odpowiedz na 2 pytania i gotowe:**
+## Macierz decyzyjna eSIM USA
 
-| Twój styl podróży | Najlepsza sieć | Zalecany plan | Szacunkowy koszt |
+**Nie wiesz, który plan danych podróżnych kupić? Odpowiedz na 2 pytania i działaj:**
+
+| Twój styl podróżowania | Najlepsza sieć | Zalecany plan | Szacowany koszt |
 | :--- | :--- | :--- | :--- |
-| 🏙️ **Wyjazd do miasta (Nowy Jork/LA/Chicago)** – 5–7 dni, okazjonalne dane | T-Mobile (najszybsze 5G) | 3GB–5GB stały | 10–18 USD |
-| 🏜️ **Podróż drogowa / Parki narodowe** – 10–14 dni, GPS + zdjęcia | AT&T lub Verizon (najszerszy zasięg wiejski) | 10GB stały lub nielimitowany | 25–45 USD |
-| 💼 **Podróż służbowa** – 5–10 dni, rozmowy wideo + hotspot | T-Mobile (najniższe opóźnienie) | 10GB–20GB | 20–35 USD |
-| 🌎 **Wielokrajowe (USA+CAN+MEX)** – 7–14 dni | Auto-przełączanie regionalne | 5GB–10GB regionalny | 20–40 USD |
-| 📱 **Intensywny użytkownik** – 15+ dni, strumieniowanie + tethering | Wielosieciowy (dowolny operator) | Nielimitowany (z FUP) | 40–60 USD |
-| 💰 **Podróżnik z budżetem** – 3–5 dni, lekkie użycie | Dowolna sieć (najtańsza za GB) | 1GB–2GB | 3–8 USD |
+| 🏙️ **Wycieczka po mieście (NYC/LA/Chicago)** – 5–7 dni, okazjonalne dane | T-Mobile (najszybsze 5G) | 3GB–5GB stały | $10–$18 |
+| 🏜️ **Road trip / Parki narodowe** – 10–14 dni, GPS + zdjęcia | AT&T lub Verizon (najszerszy zasięg na wsi) | 10GB stały lub nielimitowany | $25–$45 |
+| 💼 **Wyjazd służbowy** – 5–10 dni, rozmowy wideo + hotspot | T-Mobile (najniższe opóźnienia) | 10GB–20GB | $20–$35 |
+| 🌎 **Wiele krajów (USA+KAN+MEX)** – 7–14 dni | Automatyczne przełączanie regionalne | 5GB–10GB regionalny | $20–$40 |
+| 📱 **Intensywny użytkownik** – 15+ dni, streaming + tethering | Wielosieciowy (dowolny operator) | Nielimitowany (z FUP) | $40–$60 |
+| 💰 **Podróżujący z budżetem** – 3–5 dni, lekkie użycie | Dowolna sieć (najtańsza za GB) | 1GB–2GB | $3–$8 |
 
 **Teraz przewiń do swojego dopasowania, aby uzyskać pełne szczegóły.**
 
-Pełną listę urządzeń współpracujących z cyfrowymi planami podróżnymi znajdziesz w naszym **[pełnym przewodniku kompatybilności](/compatibility/)**.
+Pełną listę urządzeń zgodnych z eSIM znajdziesz w naszym **[pełnym przewodniku zgodności](/compatibility/)**.
 
-Poza poradami dotyczącymi danych podróżnych w USA, zobacz nasz **[Przewodnik po eSIM podróżnym](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/)**.
+Szersze wskazówki dotyczące danych podróżnych poza USA znajdziesz w naszym **[przewodniku eSIM podróżnym](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/)**.
 
 
-## Obowiązkowa lektura przed zakupem: Czy twój telefon obsługuje cyfrowe plany podróżne?
+## Czy Twój telefon obsługuje eSIM USA?
 
-To miejsce, w którym większość podróżnych popełnia błąd. Musisz sprawdzić, czy sprzęt twojego telefonu obsługuje łączność cyfrową, zanim zapłacisz. Aby wyświetlić pełną listę kompatybilnych urządzeń, sprawdź zaktualizowaną **[bazę kompatybilności Roami na 2026 rok](/compatibility/)**.
+To miejsce, w którym większość podróżnych się potyka. Musisz zweryfikować, czy sprzęt Twojego telefonu obsługuje eSIM, zanim zapłacisz. Aby zobaczyć pełną listę urządzeń zgodnych z eSIM, sprawdź zaktualizowaną **[bazę zgodności 2026](/compatibility/)** Roami.
 
-### Uniwersalne sprawdzenie EID – `*#06#`
+### Uniwersalne sprawdzenie EID
 
-Najszybsza uniwersalna kontrola: otwórz wybierak numeru w telefonie i wpisz `*#06#`. Jeśli na ekranie pojawi się długi kod kreskowy oznaczony jako **EID**, twój telefon obsługuje plany cyfrowe.
+Najszybsze uniwersalne sprawdzenie: Otwórz dialer swojego telefonu i wpisz `*#06#`. Jeśli na ekranie pojawi się długi kod kreskowy oznaczony **EID**, Twój telefon jest gotowy na eSIM.
 
-### Kompatybilność z iPhone
+### Zgodność iPhone
 
 | Model | Działa? | Uwagi |
 | :--- | :--- | :--- |
-| **iPhone XR / XS / XS Max** | ✅ Tak | Pierwsze modele z obsługą cyfrowej karty SIM |
+| **iPhone XR / XS / XS Max** | ✅ Tak | Pierwsze modele z obsługą eSIM |
 | **iPhone 11 – 16** | ✅ Tak | Wszystkie modele (z wyjątkiem Chin/HK/Makau) |
-| **iPhone 14/15/16 (USA)** | ✅ Tak (tylko cyfrowy) | Brak fizycznej tacy SIM |
-| **iPhone (Chiny/HK/Makau)** | ❌ Nie (z wyjątkiem iPhone 16) | Zamiast tego dwie fizyczne SIM |
-| **iPhone 8 lub starszy** | ❌ Nie | Brak sprzętu do cyfrowej SIM |
+| **iPhone 14/15/16 (USA)** | ✅ Tak (tylko eSIM) | Brak fizycznej tacki na SIM |
+| **iPhone (Chiny/HK/Makau)** | ❌ Nie (z wyjątkiem iPhone 16) | Zamiast tego podwójny fizyczny SIM |
+| **iPhone 8 lub starszy** | ❌ Nie | Brak sprzętu eSIM |
 
-**Jak zweryfikować swojego iPhone'a:**
+**Jak zweryfikować swój iPhone:**
 1. Przejdź do **Ustawienia**.
-2. Stuknij **Ogólne > Informacje**.
-3. Przewiń w dół i poszukaj **Dostępna SIM** lub numeru **EID**.
+2. Dotknij **Ogólne > Informacje**.
+3. Przewiń w dół i poszukaj **Dostępny SIM** lub numeru **EID**.
 4. Jeśli nie możesz znaleźć EID, natychmiast przerwij zakup.
 
-**Krytyczne ostrzeżenie:** Jeśli kupiłeś iPhone'a w **Chinach kontynentalnych, Hongkongu lub Makau**, prawie na pewno NIE obsługuje on planów cyfrowych (Apple montuje dla tych regionów dwie fizyczne tace SIM).
+**Krytyczne ostrzeżenie:** Jeśli kupiłeś iPhone w **Chinach kontynentalnych, Hongkongu lub Makau**, prawie na pewno NIE obsługuje on eSIM (Apple buduje podwójne fizyczne tacki na SIM dla tych konkretnych regionów).
 
-### Kompatybilność z Androidem
+### Zgodność Android
 
-Kompatybilność Androida jest fragmentaryczna. **Google Pixel 3** i nowsze, oraz **Samsung Galaxy S20** i nowsze (z wyłączeniem niektórych modeli FE) zazwyczaj obsługują łączność cyfrową.
+Zgodność Androida jest rozdrobniona. **Google Pixel 3** i nowsze, obok **Samsung Galaxy S20** i nowszych (z wyłączeniem niektórych modeli FE), generalnie obsługują eSIM.
 
 | Model telefonu | Działa? | Uwagi |
 | :--- | :--- | :--- |
 | **Google Pixel 3–9** | ✅ Tak | Wszystkie modele |
 | **Samsung Galaxy S20–S25** | ✅ Tak | Z wyjątkiem niektórych modeli FE |
 | **Samsung Galaxy Z Fold/Flip** | ✅ Tak | Wszystkie modele |
-| **Huawei / Xiaomi / OPPO / vivo** | ⚠️ Sprawdź model | Większość modeli z Chin = brak wsparcia |
+| **Huawei / Xiaomi / OPPO / vivo** | ⚠️ Sprawdź model | Większość modeli chińskich = brak wsparcia |
 
-Podobnie jak w przypadku Apple, telefony wyprodukowane na rynek chiński (Huawei, Xiaomi, OPPO, vivo) zwykle mają fizycznie usunięty moduł cyfrowy.
+Podobnie jak w przypadku Apple, telefony wyprodukowane na chiński rynek krajowy (Huawei, Xiaomi, OPPO, vivo) zwykle mają sprzęt eSIM fizycznie usunięty.
 
-**Jak zweryfikować swojego Androida:**
+**Jak zweryfikować swój Android:**
 1. Przejdź do **Ustawienia**.
-2. Stuknij **Sieć i Internet** (lub **Połączenia**).
-3. Stuknij **Karty SIM** (lub **Menedżer SIM**).
-4. Poszukaj przycisku **Dodaj eSIM** lub **Pobierz kartę SIM zamiast?**. Jeśli istnieje, jesteś bezpieczny.
+2. Dotknij **Sieć i internet** (lub **Połączenia**).
+3. Dotknij **SIM-y** (lub **Menedżer SIM**).
+4. Poszukaj przycisku **Dodaj eSIM** lub **Pobrać SIM zamiast tego?**. Jeśli istnieje, jesteś bezpieczny.
 
-Szczegółowe instrukcje aktywacji dla twojego konkretnego urządzenia znajdziesz w naszym **[przewodniku aktywacji eSIM na iPhone](/faq/how-to-activate-esim-on-iphone/)** lub **[ogólnym przewodniku aktywacji](/faq/how-to-activate-an-esim/)**.
+Szczegółowe instrukcje aktywacji dla konkretnego urządzenia znajdziesz w naszym **[przewodniku aktywacji eSIM na iPhone](/faq/how-to-activate-esim-on-iphone/)** lub **[ogólnym przewodniku aktywacji](/faq/how-to-activate-an-esim/)**.
 
-### Jeśli twój telefon nie obsługuje planów cyfrowych
+### Jeśli Twój telefon nie obsługuje eSIM
 
 Jeśli przeszedłeś przez wszystkie te kroki i nie znalazłeś EID ani menu cyfrowego, masz trzy alternatywy:
-- **Kup fizyczną kartę SIM podróżną** – niektórzy dostawcy wysyłają fizyczne karty na twój adres domowy
-- **Kup lokalną kartę prepaid po przylocie** – działa na każdym odblokowanym telefonie
-- **Skorzystaj z roamingu międzynarodowego swojego operatora** – najdroższa opcja, ale bez konfiguracji
+- **Kup fizyczną kartę SIM podróżną** – niektórzy dostawcy wysyłają fizyczne karty na Twój adres domowy
+- **Kup lokalną kartę prepaid po przyjeździe** – działa na każdym odblokowanym telefonie
+- **Użyj roamingu międzynarodowego swojego operatora domowego** – najdroższa opcja, ale zero konfiguracji
 
 
-## Kompletna ścieżka zakupu eSIM w USA – od decyzji do aktywacji
+## Kompletny przewodnik zakupu eSIM USA
 
-Oto cała podróż od początku do końca, którą podąża większość podróżnych. Użyj tego, aby śledzić, gdzie jesteś.
+Oto kompleksowa droga, którą podąża większość podróżnych. Użyj tego, aby śledzić, gdzie jesteś.
 
 | Krok | Co robisz | Gdzie to znaleźć |
 | :--- | :--- | :--- |
-| **1. Zdecyduj, czy go potrzebujesz** | Sprawdź, czy telefon obsługuje plany cyfrowe (kontrola EID). | [Sekcja kompatybilności powyżej](#must-read-before-buying-does-your-phone-support-digital-travel-plans) |
-| **2. Wybierz sieć** | T‑Mobile (miasta) vs AT&T/Verizon (obszary wiejskie/parki). | [Porównanie sieci](#t-mobile-vs-att-vs-verizon--which-us-network-is-best-for-you) |
-| **3. Wybierz plan** | Dopasuj do długości podróży + nawyków danych. | [Wybór planu](#how-to-choose-the-best-data-plan-for-usa-travel-based-on-your-itinerary) |
-| **4. Porównaj dostawców** | Airalo vs Roami vs Holafly – który jest najtańszy? | [Porównanie dostawców](#airalo-vs-roami-vs-holafly--which-us-data-plan-is-cheaper-in-2026) |
-| **5. Uważaj na ukryte opłaty** | Opłaty aktywacyjne, dopłaty za doładowanie, zasady zwrotów. | [Lista kontrolna ukrytych opłat](#hidden-fees-2026-what-no-one-tells-you-about-us-travel-data-plans) |
-| **6. Kup i aktywuj** | Zeskanuj kod QR przed lądowaniem, włącz po przylocie. | [Przewodnik aktywacji](#step-by-step-guide-how-to-buy-and-activate-a-us-travel-plan) |
-| **7. Rozwiąż problemy, jeśli to konieczne** | Brak sygnału? Wolne prędkości? Napraw to szybko. | [Rozwiązywanie problemów](#us-travel-data-troubleshooting--common-issues-and-fixes) |
+| **1. Zdecyduj, czy potrzebujesz** | Sprawdź, czy Twój telefon obsługuje eSIM (sprawdzenie EID). | [Sekcja zgodności powyżej](#czy-twój-telefon-obsługuje-esim-usa) |
+| **2. Wybierz sieć** | T‑Mobile (miasta) vs AT&T/Verizon (wieś/parki). | [Porównanie sieci](#która-sieć-usa-jest-dla-ciebie-najlepsza-t-mobile-att-czy-verizon) |
+| **3. Wybierz plan** | Dopasuj długość podróży + nawyki dotyczące danych. | [Wybór planu](#jak-wybrać-najlepszy-plan-esim-usa-na-podstawie-twojego-planu-podróży) |
+| **4. Porównaj dostawców** | Airalo vs Roami vs Holafly – który jest najtańszy? | [Porównanie dostawców](#który-plan-esim-usa-jest-tańszy-airalo-roami-czy-holafly) |
+| **5. Uważaj na ukryte opłaty** | Opłaty aktywacyjne, premie za doładowania, polityki zwrotów. | [Lista kontrolna ukrytych opłat](#ukryte-opłaty-w-planach-esim-usa) |
+| **6. Kup i aktywuj** | Zeskanuj kod QR przed lądowaniem, włącz po przybyciu. | [Przewodnik aktywacji](#jak-kupić-i-aktywować-esim-usa) |
+| **7. Rozwiąż problemy w razie potrzeby** | Brak sygnału? Wolne prędkości? Napraw szybko. | [Rozwiązywanie problemów](#typowe-problemy-z-esim-usa-i-poprawki) |
 
 
-## Dlaczego cyfrowy plan podróżny jest niezbędny w 2026 roku
+## Dlaczego eSIM USA jest niezbędny w podróży w 2026
 
-**Cyfrowy plan podróżny** (powszechnie nazywany eSIM) to mikrochip wlutowany bezpośrednio w płytę główną telefonu. Nie potrzebujesz narzędzia do wyjmowania SIM. Wystarczy zeskanować kod QR, aby pobrać i aktywować profil lokalnej sieci operatora w kilka sekund. Technologia ta jest regulowana przez [standard GSMA SGP.22](https://www.gsma.com/esim/), co zapewnia globalną interoperacyjność.
+**eSIM USA** to mikrochip przylutowany bezpośrednio do płyty głównej telefonu. Nie potrzebujesz narzędzia do wyjmowania SIM. Wystarczy zeskanować kod QR, aby pobrać i aktywować profil sieci lokalnego operatora w kilka sekund. Technologia ta jest regulowana przez [standard GSMA SGP.22](https://www.gsma.com/esim/), zapewniający globalną interoperacyjność.
 
-W 2026 roku korzystanie z cyfrowego planu podczas podróży do USA jest praktycznie obowiązkowe. Począwszy od serii iPhone 14, Apple **całkowicie usunął fizyczną tacę SIM** dla wszystkich modeli w USA. Ta rewolucja sprzętowa zmusiła amerykańskich operatorów do całkowitego przejścia na cyfrowość, przez co fizyczne karty prepaid są coraz trudniejsze do znalezienia na lotniskach czy w sklepach. [Oficjalna strona pomocy Apple dotycząca eSIM](https://support.apple.com/en-us/108072) potwierdza tę zmianę.
+W 2026 korzystanie z eSIM USA w podróży jest praktycznie obowiązkowe. Począwszy od serii iPhone 14, Apple **całkowicie usunął fizyczną tackę na SIM** dla wszystkich modeli amerykańskich. Ta rewolucja sprzętowa zmusiła amerykańskich operatorów do całkowitego przejścia na cyfrowe, czyniąc przedpłacone karty fizyczne coraz trudniejszymi do znalezienia na lotniskach lub w sklepach. [Oficjalna strona wsparcia Apple dla eSIM](https://support.apple.com/en-us/HT212780) potwierdza to przejście.
 
-Poleganie na roamingu międzynarodowym twojego operatora domowego gwarantuje wysokie dzienne opłaty i znaczne opóźnienia sieciowe. Kupując z wyprzedzeniem **plan danych podróżnych**, twój telefon automatycznie łączy się z siecią 5G w momencie, gdy samolot dotknie ziemi, co pozwala natychmiast zamówić Ubera.
+Poleganie na roamingu międzynarodowym swojego operatora domowego gwarantuje wysokie dzienne opłaty i znaczne opóźnienia sieci. Kupując **eSIM USA** z wyprzedzeniem, Twój telefon automatycznie łączy się z siecią 5G w sekundzie, gdy samolot wyląduje, pozwalając Ci natychmiast zamówić Ubera.
 
-![Infografika przedstawiająca różnicę między tradycyjną fizyczną kartą SIM a cyfrowym profilem eSIM](/img/us-esim/3.jpg)
+![Infografika pokazująca różnicę między tradycyjną fizyczną kartą SIM a cyfrowym profilem eSIM](/img/us-esim/3.jpg)
 
 
-## T-Mobile vs AT&T vs Verizon – która sieć w USA jest dla ciebie najlepsza?
+## Która sieć USA jest dla Ciebie najlepsza: T-Mobile, AT&T czy Verizon?
 
-Amerykańska infrastruktura telekomunikacyjna jest kontrolowana przez trzech gigantów: **T-Mobile**, **AT&T** i **Verizon**. Plany, które kupujesz, będą korzystać z tych premium sieci bazowych, aby zapewnić jak najlepsze połączenie. Wybór złej sieci zamieni twój telefon w cegłę. Twoja trasa podróży dyktuje, którego operatora musisz użyć.
+Amerykańska infrastruktura telekomunikacyjna jest kontrolowana przez trzech gigantów: **T-Mobile**, **AT&T** i **Verizon**. Plany, które kupujesz, będą kierowane przez te premium sieci bazowe, aby zapewnić najlepsze możliwe połączenie. Wybór niewłaściwej sieci zamienia Twój telefon w cegłę. Twój plan podróży dyktuje, którego operatora musisz użyć.
 
-![Porównanie map zasięgu obok siebie (T-Mobile vs AT&T vs Verizon) podkreślające mocne strony miejskie i wiejskie](/img/us-esim/2.jpg)
+![Porównanie map zasięgu obok siebie (T-Mobile vs AT&T vs Verizon) podkreślające mocne strony miejskie vs wiejskie](/img/us-esim/2.jpg)
 
-### Tabela porównawcza operatorów w USA – kluczowe różnice w skrócie
+### Tabela porównawcza operatorów USA
 
 | Metryka | T-Mobile | AT&T | Verizon |
 | :--- | :--- | :--- | :--- |
-| **Prędkość 5G w miastach** | ⭐⭐⭐⭐⭐ (Najszybszy) | ⭐⭐⭐⭐ | ⭐⭐⭐ |
-| **Zasięg wiejski** | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **Obszar zasięgu krajowego** | ~62% powierzchni USA | ~68% | ~70% |
-| **Częstotliwości niskiego pasma** | Pasmo 71 (600MHz) | Pasmo 12/14 (700MHz) | Pasmo 13 (700MHz) |
-| **Najlepszy dla** | Miast, użytkowników wrażliwych na prędkość | Podróży drogowych, parków narodowych | Gór, odległych obszarów |
+| **Prędkość 5G w miastach** | ⭐⭐⭐⭐⭐ (Najszybsza) | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+| **Zasięg na wsi** | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Krajowy obszar zasięgu** | ~62% powierzchni USA | ~68% | ~70% |
+| **Częstotliwości niskopasmowe** | Pasmo 71 (600MHz) | Pasmo 12/14 (700MHz) | Pasmo 13 (700MHz) |
+| **Najlepsza dla** | Miasta, użytkownicy wrażliwi na prędkość | Road tripy, parki narodowe | Góry, odległe obszary |
 | **Średnie pobieranie 5G** | 150–350 Mbps | 80–180 Mbps | 70–150 Mbps |
 | **Opóźnienie sieci** | 20–35ms | 30–50ms | 35–55ms |
 
-### T-Mobile: Król prędkości 5G i zasięgu miejskiego
+### Prędkość 5G i zasięg miejski T-Mobile
 
-Jeśli zatrzymujesz się w dużych miastach, takich jak Nowy Jork, Los Angeles, San Francisco czy Chicago, **T-Mobile** jest twoim absolutnym pierwszym wyborem. T-Mobile posiada najszerszą i najszybszą sieć 5G w paśmie środkowym w kraju (spektrum 2,5 GHz). Jeśli szukasz konkretnie opcji prepaid T‑Mobile, wiele planów podróżnych korzysta z sieci T‑Mobile.
+Jeśli zatrzymujesz się w dużych miastach, takich jak Nowy Jork, Los Angeles, San Francisco lub Chicago, **T-Mobile** jest Twoim absolutnym pierwszym wyborem. T-Mobile posiada najszerszą i najszybszą sieć 5G w paśmie średnim w kraju (widmo 2,5 GHz). Jeśli szukasz konkretnie opcji prepaid T‑Mobile, wiele planów eSIM kieruje przez sieć T‑Mobile.
 
-**Kluczowa zaleta:** Najniższe opóźnienie (20–35ms) – najlepsze do rozmów wideo, gier i aplikacji czasu rzeczywistego.
+**Kluczowa zaleta:** Najniższe opóźnienia (20–35ms) – najlepsze do rozmów wideo, gier i aplikacji czasu rzeczywistego.
 
-### AT&T i Verizon: Najlepsze wybory dla parków narodowych i odległych obszarów
+### Zasięg AT&T i Verizon dla parków narodowych i odległych obszarów
 
-Jeśli twoja trasa obejmuje podróż Route 66, Yellowstone, Wielki Kanion lub Yosemite, musisz kupić plan oparty na **AT&T** lub **Verizon**. Ci operatorzy dysponują ogromnymi sieciami niskiego pasma (700MHz), które docierają dalej i lepiej przenikają przez budynki i lasy.
+Jeśli Twój plan podróży obejmuje road trip Route 66, Yellowstone, Wielki Kanion lub Yosemite, musisz kupić plan obsługiwany przez **AT&T** lub **Verizon**. Ci starsi operatorzy obsługują ogromne sieci niskopasmowe (700MHz), które podróżują dalej i lepiej przenikają budynki i lasy.
 
-**Kluczowa zaleta:** Infrastruktura FirstNet AT&T i pasmo 13 Verizon zapewniają im lepszy zasięg na obszarach wiejskich i górskich.
+**Kluczowa zaleta:** Infrastruktura FirstNet AT&T i Band 13 Verizon dają im lepszy zasięg w terenie wiejskim i górzystym.
 
-Roami oferuje dostęp do obu sieci, w tym dostępu prepaid przez AT&T i Verizon, dzięki automatycznemu przełączaniu operatorów – nie jesteś zablokowany do jednej sieci.
+Roami oferuje dostęp do obu sieci, w tym dostęp prepaid przez AT&T i Verizon, poprzez automatyczne przełączanie operatorów – nie jesteś zablokowany na jednej sieci.
 
-### Wyniki rzeczywistych testów zasięgu (2026)
+### Wyniki testów zasięgu
 
-| Lokalizacja | T‑Mobile | AT&T | Verizon |
+| Typ lokalizacji | T‑Mobile | AT&T | Verizon |
 | :--- | :--- | :--- | :--- |
-| Times Square, Nowy Jork | ✅ Znakomity (500+ Mbps) | ✅ Dobry | ✅ Dobry |
-| Śródmieście Chicago | ✅ Znakomity | ✅ Dobry | ✅ Dobry |
-| Południowa krawędź Wielkiego Kanionu | ⚠️ Ograniczony | ✅ Dobry | ✅ Dobry |
-| Yellowstone Old Faithful | ⚠️ Sporadyczny | ✅ Dobry | ✅ Znakomity |
+| Times Square, NYC | ✅ Doskonały (500+ Mbps) | ✅ Dobry | ✅ Dobry |
+| Centrum Chicago | ✅ Doskonały | ✅ Dobry | ✅ Dobry |
+| Wielki Kanion South Rim | ⚠️ Ograniczony | ✅ Dobry | ✅ Dobry |
+| Yellowstone Old Faithful | ⚠️ Sporadyczny | ✅ Dobry | ✅ Doskonały |
 | Route 66 (wiejskie AZ/NM) | ⚠️ Martwe strefy | ✅ Dobry | ✅ Dobry |
-| Dolina Yosemite | ⚠️ Ograniczony | ✅ Dobry | ✅ Znakomity |
+| Dolina Yosemite | ⚠️ Ograniczony | ✅ Dobry | ✅ Doskonały |
 
 
-## Jak wybrać najlepszy plan danych dla podróży do USA na podstawie trasy
+## Jak wybrać najlepszy plan eSIM USA na podstawie Twojego planu podróży
 
-Nie kupuj na ślepo najdroższej opcji. Dopasuj plan do dokładnego czasu pobytu i nawyków związanych z danymi, aby zmaksymalizować swoje pieniądze.
+Nie kupuj bezmyślnie najdroższej opcji. Dopasuj swój plan eSIM do dokładnego czasu pobytu i nawyków dotyczących danych, aby zmaksymalizować swoje pieniądze.
 
-### Podróże krótkoterminowe (1-15 dni): Plany ze stałą ilością danych
+### Krótkoterminowe plany danych stałych
 
-W przypadku tygodniowego lub dwutygodniowego urlopu, hotele i restauracje oferują darmowe Wi-Fi. Twoje potrzeby danych na zewnątrz dotyczą wyłącznie Map Google, Ubera, WhatsApp i szybkich wyszukiwań. **Plan stały 5GB do 10GB** jest więcej niż wystarczający.
+Na wakacje trwające tydzień lub dwa hotele i restauracje zapewniają darmowe Wi-Fi. Twoje potrzeby dotyczące danych na zewnątrz są ściśle ograniczone do Google Maps, Ubera, WhatsAppa i szybkich wyszukiwań w sieci. **Plan stały 5GB do 10GB** jest więcej niż wystarczający.
 
-**Szacunkowe zużycie danych dziennie (typowa podróż):**
-- Mapy Google (30 min): ~50MB
-- Przeglądanie Instagram/TikTok (1 godz.): ~200–400MB
+**Szacowane dzienne zużycie danych (typowa podróż):**
+- Google Maps (30 min): ~50MB
+- Przewijanie Instagram/TikTok (1 godz.): ~200–400MB
 - Wiadomości WhatsApp (cały dzień): ~20MB
-- Przejażdżki Uber/Lyft (3–4 przejazdy): ~10MB
+- Przejazdy Uber/Lyft (3–4 przejazdy): ~10MB
 - Jedna 10‑minutowa rozmowa wideo: ~150MB
-- **Łącznie typowy dzień: ~500MB–1GB**
+- **Całkowity typowy dzień: ~500MB–1GB**
 
-### Długie wizyty służbowe/rodzinne (15-30+ dni): Większe lub nielimitowane plany
+### Długoterminowe pobyty z większymi lub nielimitowanymi planami
 
-Jeśli zostajesz ponad pół miesiąca lub zużywasz dużo treści wideo, nielimitowany plan danych usuwa stres związany ze śledzeniem megabajtów. Musisz jednak zrozumieć **Zasady uczciwego użytkowania (FUP)**. Prawie wszystkie plany "nielimitowane" mają ukryty limit wysokiej prędkości. Po przekroczeniu określonego dziennego progu (np. 2GB lub 3GB) operatorzy spowalniają prędkość do poziomu 2G/3G (128kbps - 384kbps). Zawsze sprawdzaj limity FUP w szczegółach planu przed finalizacją.
+Jeśli zostajesz ponad pół miesiąca lub konsumujesz dużo treści wideo, nielimitowany plan eSIM usuwa stres związany ze śledzeniem megabajtów. Musisz jednak zrozumieć **Politykę Sprawiedliwego Użytkowania (FUP)**. Prawie wszystkie plany „nielimitowane" mają ukryty limit wysokiej prędkości. Gdy przekroczysz określony dzienny próg (np. 2GB lub 3GB), operatorzy ograniczają Twoją prędkość do poziomów 2G/3G (128kbps - 384kbps). Zawsze sprawdzaj limity FUP w szczegółach planu przed finalizacją zamówienia.
 
-### Trasy transgraniczne: Plany regionalne Ameryki Północnej (USA, Kanada, Meksyk)
+### Regionalne plany dla Ameryki Północnej dla USA, Kanady i Meksyku
 
-Jeśli podczas podróży do USA odwiedzasz Vancouver lub Cancun, kup **plan regionalny Ameryki Północnej**. Plany te wymuszają na telefonie automatyczne przełączanie na sieci partnerskie podczas przekraczania granic (np. Rogers w Kanadzie, Telcel w Meksyku).
+Jeśli podczas podróży po USA odwiedzasz Vancouver lub Cancun, kup **plan regionalny Ameryki Północnej**. Te plany zmuszają Twój telefon do automatycznego przełączania na sieci partnerskie, gdy przekraczasz granice (np. Rogers w Kanadzie, Telcel w Meksyku).
 
-### Rodzaje planów podróżnych w USA – szybki przegląd
+### Typy planów eSIM USA
 
-| Rodzaj planu | Najlepszy dla | Typowy przedział cenowy | Uważaj na |
+| Typ planu | Najlepszy dla | Typowy zakres cen | Na co uważać |
 | :--- | :--- | :--- | :--- |
-| **Stały GB (1–30 dni)** | Krótkie wyjazdy, lekkie/średnie użycie | 2–40 USD | Skończą się dane = potrzebne doładowanie |
-| **Nielimitowany (dzienny FUP)** | Intensywne użycie, brak stresu z liczeniem | 30–60 USD | Spowolnienie po dziennym limicie FUP |
-| **Regionalny (USA+CAN+MEX)** | Trasy wielokrajowe | 15–50 USD | Sprawdź, czy dane działają we wszystkich 3 krajach |
-| **Z numerem telefonu** | Weryfikacja SMS, połączenia lokalne | 20–50 USD | Często droższy za GB |
-| **Płatny dziennie** | Elastyczne, nieprzewidywalne podróże | 5–12 USD/dzień | Najdroższy za GB |
+| **Stały GB (1–30 dni)** | Krótkie wyjazdy, lekkie/średnie użycie | $2–$40 | Dane się kończą = potrzebne doładowanie |
+| **Nielimitowany (dzienny FUP)** | Intensywne użycie, brak stresu śledzenia | $30–$60 | Throttling po dziennym limicie FUP |
+| **Regionalny (USA+KAN+MEX)** | Plany podróży po wielu krajach | $15–$50 | Sprawdź, czy dane działają we wszystkich 3 krajach |
+| **Z numerem telefonu** | Weryfikacja SMS, lokalne połączenia | $20–$50 | Często droższe za GB |
+| **Płatność za dzień** | Elastyczne, nieprzewidywalne wyjazdy | $5–$12/dzień | Najdroższe za GB |
 
 
-## Ukryte opłaty 2026 – czego nikt ci nie mówi o planach danych podróżnych w USA
+## Ukryte opłaty w planach eSIM USA
 
-Cena reklamowana rzadko jest ceną ostateczną. Oto drobny druk, który większość podróżnych pomija:
+Reklamowana cena rzadko jest ceną ostateczną. Oto drobny druk, który umyka większości podróżnych:
 
-### 1. Opłaty aktywacyjne / serwisowe
-Niektórzy dostawcy pobierają jednorazową **opłatę aktywacyjną** (1–5 USD), która nie jest wliczona w cenę główną. Zawsze sprawdzaj całkowitą kwotę w koszyku przed wprowadzeniem karty kredytowej.
+### Opłaty aktywacyjne i serwisowe
+Niektórzy dostawcy pobierają jednorazową **opłatę aktywacyjną eSIM** ($1–$5), która nie jest wliczona w cenę nagłówkową. Zawsze sprawdzaj sumę przy kasie przed wprowadzeniem karty kredytowej.
 
-### 2. Inflacja cen doładowań
-Najtańszy plan jest często "przynętą". Gdy potrzebujesz dodać więcej danych, cena za GB może być **2–3x wyższa** niż w początkowym planie. Przykład: Plan 1GB/7 dni za 4,99 USD może mieć doładowanie 1GB za 8,99 USD. **Kup wystarczającą ilość danych z góry.**
+### Inflacja cen doładowań
+Najtańszy plan eSIM jest często „produktem wabikiem". Gdy potrzebujesz dodać więcej danych, cena za GB może być **2–3 razy wyższa** niż w początkowym planie. Przykład: Plan 1GB/7‑dni za $4.99 może mieć doładowanie 1GB za $8.99. **Kup wystarczająco dużo danych z góry.**
 
-### 3. Pułapki "nielimitowanych" planów z dziennym limitem
-Jak wspomniano w sekcji FUP, "nielimitowany" zwykle oznacza **1GB–3GB danych o wysokiej prędkości dziennie**, a następnie spowolnienie do 128–256kbps. Jeśli codziennie przesyłasz strumieniowo wideo, każdego dnia osiągniesz ten limit.
+### Dzienne pułapki nielimitowanych planów
+Jak zauważono w sekcji Polityki Sprawiedliwego Użytkowania, „nielimitowany" zwykle oznacza **1GB–3GB danych o wysokiej prędkości dziennie**, potem throttling do 128–256kbps. Jeśli codziennie streamujesz wideo, codziennie osiągniesz ten limit.
 
-### 4. Automatyczne odnowienie
-Większość planów miesięcznych domyślnie włącza automatyczne odnowienie. Jeśli nie anulujesz przed datą odnowienia, twoja karta zostanie obciążona ponownie – nawet jeśli już opuściłeś USA.
+### Rozliczanie automatycznego odnawiania
+Większość miesięcznych planów eSIM odnawia się automatycznie domyślnie. Jeśli nie anulujesz przed datą odnowienia, Twoja karta zostanie ponownie obciążona – nawet jeśli już opuściłeś USA.
 
-**Jak zatrzymać automatyczne odnowienie:**
+**Jak zatrzymać automatyczne odnawianie:**
 - **iPhone:** Ustawienia > Apple ID > Subskrypcje → znajdź plan → Anuluj subskrypcję.
 - **Android:** Google Play > Subskrypcje → znajdź plan → Anuluj.
-- **Aplikacja dostawcy:** Większość aplikacji z planami podróżnymi ma sekcję "Zarządzaj planem", gdzie można wyłączyć automatyczne odnowienie.
+- **Aplikacja dostawcy:** Większość aplikacji planów podróżnych ma sekcję „Zarządzaj planem", w której możesz wyłączyć automatyczne odnawianie.
 
-### 5. Zasady braku zwrotów
-Prawie wszystkie plany danych podróżnych są **bezzwrotne** po wygenerowaniu kodu QR. Jeśli twój telefon okaże się niekompatybilny, twoje pieniądze przepadną. Zawsze sprawdzaj EID **przed** zakupem.
+### Polityki braku zwrotów
+Prawie wszystkie plany eSIM podróżne są **bezzwrotne** po wydaniu kodu QR. Jeśli okaże się, że Twój telefon jest niekompatybilny, Twoje pieniądze przepadły. Zawsze weryfikuj EID **przed** zakupem.
 
 ### Szybka lista kontrolna ukrytych opłat
 
-| Rodzaj opłaty | Co sprawdzić | Czerwona flaga |
+| Typ opłaty | Co sprawdzić | Czerwona flaga |
 | :--- | :--- | :--- |
-| Opłata aktywacyjna | Całkowita kwota w koszyku vs cena reklamowana | Każda opłata > 2 USD |
-| Koszt doładowania za GB | Porównaj z ceną za GB w początkowym planie | Doładowanie > 1,5x ceny za GB w początkowym planie |
-| Automatyczne odnowienie | Sprawdź, czy jest domyślnie włączone | Plany "miesięczne" z automatycznym odnowieniem |
-| Zasady zwrotów | Przeczytaj regulamin przed finalizacją | "Brak zwrotów po wygenerowaniu QR" |
-| Zasady uczciwego użytkowania | Dzienny limit wysokiej prędkości | Limit < 1GB/dzień |
+| Opłata aktywacyjna | Suma przy kasie vs. reklamowana cena | Jakakolwiek opłata > $2 |
+| Koszt doładowania za GB | Porównaj z ceną za GB początkowego planu | Doładowanie > 1,5x początkowej ceny za GB |
+| Automatyczne odnawianie | Sprawdź, czy jest domyślnie włączone | Plany „miesięczne" z automatycznym odnawianiem |
+| Polityka zwrotów | Przeczytaj regulamin przed finalizacją | „Brak zwrotów po wydaniu QR" |
+| Polityka Sprawiedliwego Użytkowania | Dzienny limit wysokiej prędkości | Limit < 1GB/dzień |
 
 ### Jak sprawdzić pozostałe saldo danych
 
-Większość dostawców planów podróżnych ma aplikację lub panel, w którym można sprawdzić pozostałe dane. Alternatywnie:
-- **iPhone:** Ustawienia > Komórkowe > [twój plan] → poszukaj zużycia danych w "Okres bieżący" (zresetuj ręcznie na początku podróży).
+Większość dostawców eSIM ma aplikację lub panel, w którym możesz sprawdzić pozostałe dane. Alternatywnie:
+- **iPhone:** Ustawienia > Komórka > [twój plan] → poszukaj zużycia danych „Bieżący okres" (zresetuj to ręcznie, gdy rozpoczniesz podróż).
 - **Android:** Ustawienia > Połączenia > Zużycie danych > Zużycie danych mobilnych → wybierz swój plan.
 
-### Co się dzieje, gdy twój plan wygasa
+### Co się dzieje, gdy plan wygasa
 
-Gdy twój plan osiągnie datę wygaśnięcia:
+Gdy Twój plan eSIM osiągnie datę wygaśnięcia:
 - **Dane przestają działać** – nie będziesz mógł przeglądać, używać map ani wysyłać wiadomości
-- **Twój numer telefonu (jeśli jest) pozostaje aktywny** – ale tylko dla połączeń przychodzących (nie możesz wykonywać połączeń wychodzących ani używać danych)
+- **Twój numer telefonu (jeśli istnieje) pozostaje aktywny** – ale tylko dla połączeń przychodzących (nie możesz wykonywać połączeń wychodzących ani używać danych)
 - **Doładowanie przedłuża ważność** – dodanie danych zwykle przedłuża datę wygaśnięcia
 - **Jeśli nie doładujesz w ciągu 30-60 dni**, profil zostanie dezaktywowany i będziesz potrzebować nowego kodu QR
 
-**Najlepsza praktyka:** ustaw przypomnienie na 2‑3 dni przed wygaśnięciem planu, aby móc doładować, zanim stracisz łączność.
+**Najlepsza praktyka:** Ustaw przypomnienie 2–3 dni przed wygaśnięciem planu, aby móc doładować, zanim stracisz łączność.
 
 
-## Airalo vs Roami vs Holafly – który plan danych w USA jest tańszy w 2026 roku?
+## Który plan eSIM USA jest tańszy: Airalo, Roami czy Holafly?
 
-Oto bezpośrednie porównanie, którego szukają podróżni. Wszystkie ceny dotyczą planów 10GB / 15 dni (lub najbliższego odpowiednika) według stanu na sierpień 2026.
+Oto bezpośrednie porównanie, którego faktycznie szukają podróżni. Wszystkie ceny oparte są na planach 10GB / 30‑dni (lub najbliższym odpowiedniku) i zweryfikowane na stronach dostawców we wrześniu 2026.
 
 ### Szybkie porównanie obok siebie
 
-| Cecha | Roami | Airalo (Discover+) | Holafly |
+| Funkcja | Roami | Airalo (Discover+) | Holafly |
 | :--- | :--- | :--- | :--- |
-| **Sieć** | T‑Mobile + AT&T + Verizon (auto-przełączanie) | T‑Mobile tylko | AT&T lub T‑Mobile (wybór przy kasie) |
-| **Cena planu 10GB** | 26,99 USD | 34,00 USD | 47,00 USD |
-| **Koszt za GB** | 2,70 USD | 3,40 USD | 4,70 USD |
+| **Sieć** | T‑Mobile + AT&T + Verizon (automatyczne przełączanie) | Tylko T‑Mobile | AT&T lub T‑Mobile (wybór przy kasie) |
+| **Cena planu 10GB** | $26.99 | $23.00 (tylko dane, 10GB/30d; Discover+ z numerem USA ≈ $37) | $47.00 (tylko dane nielimitowane, 30 dni) |
+| **Koszt za GB** | $2.70 | $2.25–2.60 | n/d (nielimitowany) |
 | **Zawiera numer telefonu?** | ❌ Tylko dane | ✅ Tak (plany Discover+) | ❌ Tylko dane |
 | **Ważność** | 30 dni | 30 dni | 15 dni (dla planu 10GB) |
 | **Hotspot/Tethering** | ✅ Tak | ✅ Tak | ✅ Tak |
 | **Dostęp 5G** | ✅ Tak (na T‑Mobile) | ✅ Tak | ✅ Tak |
-| **Obsługa klienta** | Czat 24/7 | E-mail / Czat | Czat 24/7 |
-| **Darmowa wersja próbna** | ✅ 100MB za darmo | ❌ Nie | ❌ Nie |
-| **Zasady zwrotów** | Zwrot, jeśli QR nie zeskanowany | Brak zwrotu po wygenerowaniu QR | Brak zwrotu po wygenerowaniu QR |
-| **Koszt doładowania (1GB)** | 6,99 USD | 8,00 USD | 8,00 USD |
+| **Wsparcie klienta** | Czat 24/7 | E-mail / Czat | Czat 24/7 |
+| **Darmowy okres próbny** | ✅ 100MB gratis | ❌ Nie | ❌ Nie |
+| **Polityka zwrotów** | Zwrot, jeśli QR niezeskanowany | Brak zwrotu po wydaniu QR | Brak zwrotu po wydaniu QR |
+| **Koszt doładowania (1GB)** | $6.99 | $8.00 | $8.00 |
 
-### Który z nich wybrać?
+### Który powinieneś kupić?
 
 | Jeśli... | Wybierz |
 | :--- | :--- |
-| Chcesz **najtańszy za GB** | Roami (2,70 USD/GB) |
-| Potrzebujesz **numeru telefonu w USA** do weryfikacji | Airalo Discover+ |
+| Chcesz **najtaniej za GB** | Roami ($2.70/GB) |
+| Potrzebujesz **numeru telefonu USA** do weryfikacji | Airalo Discover+ |
 | Odwiedzasz **parki narodowe / obszary wiejskie** | Roami (przełączanie wielosieciowe) |
-| Chcesz **darmowej wersji próbnej przed zakupem** | Roami (100MB za darmo) |
-| Preferujesz **konkretnie AT&T** (a nie T‑Mobile) | Holafly (wybierz AT&T) |
-| Potrzebujesz **30-dniowej ważności** planu 10GB | Roami lub Airalo |
+| Chcesz **darmowy okres próbny przed zobowiązaniem** | Roami (100MB gratis) |
+| Wolisz **konkretnie AT&T** (nie T‑Mobile) | Holafly (wybierz AT&T) |
+| Potrzebujesz **ważności 30‑dniowej** na planie 10GB | Roami lub Airalo |
 | Potrzebujesz tylko **numeru telefonu do SMS** | Airalo Discover+ |
 
-> 💡 **Kluczowa uwaga:** Roami jest tańszy niż Airalo dla planów z dużą ilością danych (26,99 USD vs 34,00 USD za 10GB). Holafly jest najdroższy – 47 USD za te same 10GB. Roami oferuje również przełączanie między wieloma operatorami (wszystkie 3 sieci), podczas gdy Airalo i Holafly blokują cię do jednej sieci. Przeczytaj nasze **[pełne porównanie Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)** po więcej szczegółów.
+> 💡 **Kluczowa informacja:** Roami 10GB ($26.99) jest mniej więcej na równi z planem Airalo tylko z danymi ($23.00 za 10GB/30d na wrzesień 2026), ale Roami dodaje automatyczne przełączanie między wszystkimi trzema sieciami, podczas gdy plan Airalo tylko z danymi działa na jednej sieci. Holafly sprzedaje tylko dane nielimitowane — $47 za 30 dni. Przeczytaj nasze **[pełne porównanie Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)**, aby uzyskać więcej szczegółów.
 
 
-## Instrukcja krok po kroku: jak kupić i aktywować plan podróżny w USA
+## Jak kupić i aktywować eSIM USA
 
-Po zweryfikowaniu kompatybilności kup plan. Otrzymasz **kod QR** e-mailem.
+Po zweryfikowaniu zgodności kup swój plan. Otrzymasz **kod QR** pocztą elektroniczną.
 
-### Główna zasada: Kiedy skanować kod QR
+### Kiedy zeskanować kod QR
 
-> ⚠️ **Ważne:** Musisz zeskanować i zainstalować ten profil **będąc podłączonym do stabilnego Wi-Fi w domu** LUB **natychmiast po przylocie do USA, korzystając z Wi-Fi na lotnisku**. NIE czekaj, aż znajdziesz się poza lotniskiem bez dostępu do internetu.
+> ⚠️ **Krytyczne:** Musisz zeskanować i zainstalować ten profil **będąc połączonym ze stabilnym domowym Wi-Fi** LUB **natychmiast po przybyciu do USA z Wi-Fi na lotnisku**. NIE czekaj, aż będziesz poza lotniskiem bez dostępu do internetu.
 
 **Ważne rozróżnienie:**
-- **Zeskanowanie kodu QR** → można wykonać **w dowolnym momencie** (przed lub po przylocie). Instaluje profil.
-- **Aktywacja linii** → włącz **DOPIERO po wylądowaniu w USA**. Jeśli włączysz ją przed wyjazdem, telefon może próbować połączyć się z wieżą w USA z zagranicy, co prowadzi do opłat roamingowych lub błędów aktywacji.
+- **Zeskanuj kod QR** → można to zrobić **w dowolnym momencie** (przed lub po przybyciu). To tylko instaluje profil.
+- **Aktywuj linię** → włącz **ON** tylko **po wylądowaniu w USA**. Jeśli włączysz ją przed wyjazdem, Twój telefon może próbować połączyć się z wieżą USA z zagranicy, prowadząc do opłat roamingowych lub błędów aktywacji.
 
-### Krok 1: Instalacja i konfiguracja na iOS
+### Instalacja eSIM na iPhone
 
-Dla użytkowników iPhone'a instalacja zajmuje 60 sekund:
+Dla użytkowników iPhone instalacja zajmuje 60 sekund:
 
-1. **Zeskanuj, aby zainstalować:** Połącz się z Wi-Fi. Przejdź do **Ustawienia > Komórkowe > Dodaj eSIM**. Wybierz "Użyj kodu QR" i zeskanuj kod QR ze swojego e-maila.
-2. **Zmień nazwę etykiety:** System poprosi o nadanie etykiety nowej linii. Zmień nazwę na **"US Travel"**, aby nie pomylić jej z numerem podstawowym.
-3. **Wyłącz przed lotem:** Będąc jeszcze w domu, przejdź do **Ustawienia > Komórkowe**, dotknij swojej linii podróżnej i wyłącz ją (przełącznik **WYŁ**).
-4. **Aktywuj po wylądowaniu:** Gdy samolot wyląduje i będziesz w USA, włącz linię podróżną (przełącznik **WŁ**). Przełącz **Dane komórkowe** na linię podróżną i MUSISZ włączyć **Roaming danych** w pozycję WŁ.
+1. **Zeskanuj, aby zainstalować:** Połącz się z Wi-Fi. Przejdź do **Ustawienia > Komórka > Dodaj eSIM**. Wybierz „Użyj kodu QR" i zeskanuj kod QR z e-maila.
+2. **Zmień nazwę etykiety:** System prosi o oznaczenie nowej linii. Zmień jej nazwę na **„US Travel"**, aby nie mylić jej z numerem podstawowym.
+3. **Wyłącz przed lotem:** Będąc jeszcze w domu, przejdź do **Ustawienia > Komórka**, dotknij linii podróżnej i przełącz linię na **OFF**.
+4. **Aktywuj po wylądowaniu:** Gdy samolot wyląduje i jesteś w USA, przełącz linię podróżną na **ON**. Przełącz **Dane komórkowe** na linię podróżną i MUSISZ przełączyć **Roaming danych** na pozycję ON.
 
-### Krok 2: Instalacja i konfiguracja na Androidzie
+### Instalacja eSIM na Android
 
 Menu Androida różnią się nieznacznie w zależności od producenta, ale logika jest identyczna:
 
-1. **Zeskanuj, aby zainstalować:** Połącz się z Wi-Fi. Przejdź do **Ustawienia > Sieć i Internet > Karty SIM**. Stuknij ikonę "+" lub "Pobierz kartę SIM zamiast". Zeskanuj kod QR.
-2. **Wyłącz przed lotem:** W menedżerze SIM upewnij się, że nowo pobrany profil jest **WYŁĄCZONY**.
-3. **Aktywuj po wylądowaniu:** Po przylocie do USA włącz plan (przełącznik **WŁ**).
-4. **Krytyczne ustawienia:** Ustaw ten plan jako domyślny dla danych mobilnych. Wejdź w ustawienia planu i włącz **Roaming** w pozycję WŁ. W przeciwnym razie nie połączy się.
+1. **Zeskanuj, aby zainstalować:** Połącz się z Wi-Fi. Przejdź do **Ustawienia > Sieć i internet > SIM-y**. Dotknij ikony „+" lub „Pobierz SIM zamiast tego". Zeskanuj swój kod QR.
+2. **Wyłącz przed lotem:** W menedżerze SIM upewnij się, że ten nowo pobrany profil jest przełączony na **OFF**.
+3. **Aktywuj po wylądowaniu:** Gdy przybędziesz do USA, przełącz plan na **ON**.
+4. **Krytyczne ustawienia:** Ustaw ten plan jako domyślny dla danych mobilnych. Dotknij ustawień planu i przełącz **Roaming** na pozycję ON. W przeciwnym razie się nie połączy.
 
-### Krok 3: Najlepsze praktyki Dual‑SIM (pozostawienie aktywnej domowej SIM)
+### Najlepsze praktyki podwójnego SIM
 
-Jeśli chcesz zachować aktywny numer domowy dla SMS/połączeń, korzystając z planu USA dla danych:
+Jeśli chcesz utrzymać swój domowy numer aktywny dla SMS/połączeń, używając eSIM USA do danych:
 
 | Ustawienie | Zalecana wartość | Dlaczego |
 | :--- | :--- | :--- |
-| **Domyślna linia głosowa** | Domowa SIM (twój zwykły numer) | Zachowaj odbieranie połączeń na numer domowy |
-| **Dane komórkowe** | Plan podróżny USA | Korzystaj z planu danych USA, nie z drogiego roamingu |
-| **Roaming danych (domowa SIM)** | WYŁ | Zapobiega przypadkowym opłatom roamingowym |
-| **Roaming danych (plan USA)** | WŁ | Wymagany do działania danych w USA |
-| **Zezwalaj na przełączanie danych komórkowych** | WŁ | Pozwala na używanie danych z planu USA dla połączeń/SMS na domowej SIM przez Wi‑Fi Calling |
+| **Domyślna linia głosowa** | Domowy SIM (Twój zwykły numer) | Utrzymuj odbieranie połączeń na domowym numerze |
+| **Dane komórkowe** | Plan US Travel | Używaj planu danych USA, nie drogiego roamingu |
+| **Roaming danych (domowy SIM)** | OFF | Zapobiegaj przypadkowym opłatom roamingowym |
+| **Roaming danych (plan USA)** | ON | Wymagane, aby dane USA działały |
+| **Zezwalaj na przełączanie danych komórkowych** | ON | Pozwala połączeniom/SMS na domowym SIM używać danych planu USA do Wi‑Fi Calling |
 
-**Jak to skonfigurować na iPhonie:** Ustawienia > Komórkowe > Dane komórkowe → wybierz plan USA. Następnie Ustawienia > Komórkowe > Domyślna linia głosowa → wybierz swoją domową SIM. Wyłącz roaming danych dla domowej SIM, włącz dla planu USA.
+**Aby to skonfigurować na iPhone:** Ustawienia > Komórka > Dane komórkowe → wybierz plan USA. Następnie Ustawienia > Komórka > Domyślna linia głosowa → wybierz domowy SIM. Wyłącz roaming danych dla domowego SIM, włącz dla planu USA.
 
-### Lista kontrolna przed lotem (zrób zrzut ekranu / wydrukuj)
+### Lista kontrolna aktywacji przed lotem
 
 | Krok | Zrobione? |
 | :--- | :--- |
 | ✅ Zweryfikowano EID (wpisano `*#06#`) | ☐ |
-| ✅ Kupiono plan u dostawcy | ☐ |
+| ✅ Kupiono plan od dostawcy | ☐ |
 | ✅ Zeskanowano kod QR i zainstalowano profil (PRZED lądowaniem) | ☐ |
-| ✅ Zmieniono nazwę planu na "US Travel" | ☐ |
-| ✅ Wyłączono plan USA **przed lotem** | ☐ |
-| ✅ Wyłączono roaming danych **na domowej SIM** | ☐ |
-| ✅ Zapisanego zrzut ekranu kodu QR / kodu aktywacyjnego (kopia zapasowa) | ☐ |
+| ✅ Zmieniono nazwę planu na „US Travel" | ☐ |
+| ✅ Przełączono plan USA na **OFF** przed lotem | ☐ |
+| ✅ Przełączono roaming danych na **OFF** na domowym SIM | ☐ |
+| ✅ Zapisano zrzut ekranu kodu QR / kodu aktywacyjnego (kopia zapasowa) | ☐ |
 
 
-## Rozwiązywanie problemów z danymi podróżnymi w USA – typowe problemy i poprawki
+## Typowe problemy z eSIM USA i poprawki
 
-Nawet przy idealnym wykonaniu zdarzają się nieudane uzgodnienia sieciowe. Oto techniczna lista kontrolna, która zmusi telefon do połączenia. W przypadku zaawansowanych problemów zobacz nasz **[dogłębny przewodnik rozwiązywania problemów eSIM](/faq/esim-deep-troubleshooting-guide-2026/)** i **[poprawki dla dual-eSIM na iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
+Nawet przy doskonałym wykonaniu, uzgadnianie sieci czasami zawodzi. Oto techniczna lista kontrolna, aby zmusić telefon do połączenia. W przypadku zaawansowanych problemów zobacz nasz **[przewodnik głębokiego rozwiązywania problemów z eSIM](/faq/esim-deep-troubleshooting-guide-2026/)** i **[poprawki podwójnego eSIM dla iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
-### Brak sygnału / Brak internetu po wylądowaniu?
+### Brak sygnału lub internetu po wylądowaniu
 
-Jeśli telefon pokazuje "Brak usługi" lub ma kreski, ale nie ma danych, przejdź przez tę sekwencję:
+Jeśli Twój telefon pokazuje „Brak usługi" lub ma słupki, ale brak danych, przejdź przez tę sekwencję:
 
-1. **Sprawdź roaming danych:** To powoduje 90% awarii. Wejdź w ustawienia planu i sprawdź, czy **Roaming danych** jest włączony (WŁ).
-2. **Sprawdź domyślną linię danych:** Upewnij się, że telefon kieruje dane przez plan podróżny, a nie fizyczną kartę SIM z kraju.
-3. **Wyłącz podstawową SIM:** Konflikty Dual‑SIM zdarzają się. Tymczasowo wyłącz swoją domową fizyczną SIM, aby telefon odczytywał tylko plan podróżny.
-4. **Zresetuj połączenie sieciowe:** Włącz tryb samolotowy na 10 sekund, a następnie wyłącz. Jeśli to nie pomoże, uruchom ponownie telefon, aby wymusić nowe połączenie z wieżą.
+1. **Sprawdź roaming danych:** To powoduje 90% awarii. Wejdź w ustawienia swojego planu i zweryfikuj, że **Roaming danych** jest włączony.
+2. **Sprawdź domyślną linię danych:** Upewnij się, że Twój telefon kieruje dane przez plan podróżny, a nie przez fizyczny SIM z kraju ojczystego.
+3. **Wyłącz podstawowy SIM:** Konflikty podwójnego SIM się zdarzają. Tymczasowo przełącz swój domowy fizyczny SIM na **OFF**, aby telefon odczytywał tylko plan podróżny.
+4. **Zresetuj połączenie sieciowe:** Włącz tryb samolotowy na 10 sekund, a następnie wyłącz go. Jeśli to zawiedzie, zrestartuj telefon całkowicie, aby wymusić nowy ping wieży.
 
-### Kreski sygnału, ale brak danych? Sprawdź ustawienia APN
+### Słupki sygnału, ale brak danych – sprawdź ustawienia APN
 
-Jeśli po aktywacji sieć danych jest niedostępna, może być konieczna regulacja ustawień APN:
+Jeśli po aktywacji sieć danych jest niedostępna, ustawienia APN mogą wymagać dostosowania:
 
-1. **iPhone:** Ustawienia > Komórkowe > Sieć danych komórkowych.
-2. **Android:** Ustawienia > Połączenia > Sieci komórkowe > Nazwy punktów dostępowych.
-3. Typowe wartości APN: `globaldata` dla Airalo, `internet` dla Roami. Większość planów podróżnych konfiguruje APN automatycznie, więc sprawdź na stronie swojego dostawcy dokładną wartość.
+1. **iPhone:** Ustawienia > Komórka > Sieć danych komórkowych.
+2. **Android:** Ustawienia > Połączenia > Sieci komórkowe > Nazwy punktów dostępu.
+3. Typowe wartości APN: `globaldata` dla Airalo, `internet` dla Roami. Większość planów podróżnych automatycznie konfiguruje APN, więc sprawdź stronę dostawcy, aby uzyskać dokładną wartość.
 
-### Jak ręcznie wybrać sieć (tryb testowy pola)
+### Jak ręcznie wybrać sieć
 
-Jeśli masz sygnał, ale nie możesz się połączyć, wymuś na telefonie wypróbowanie innej sieci:
+Jeśli masz sygnał, ale nie możesz się połączyć, zmuszaj telefon do wypróbowania innej sieci:
 
-**Na iPhonie:** Ustawienia > Komórkowe > [twój plan] > Wybór sieci → wyłącz "Automatyczny" → poczekaj na listę sieci → wybierz inną (np. jeśli T‑Mobile nie działa, spróbuj AT&T lub Verizon, jeśli twój plan to obsługuje).
+**Na iPhone:** Ustawienia > Komórka > [twój plan] > Wybór sieci → wyłącz „Automatyczny" → poczekaj na listę sieci → wybierz inną (np. jeśli T‑Mobile nie działa, spróbuj AT&T lub Verizon, jeśli Twój plan to obsługuje).
 
-**Na Androidzie:** Ustawienia > Połączenia > Sieci komórkowe > Operatorzy sieci → wyłącz "Wybierz automatycznie" → wybierz inną sieć.
+**Na Android:** Ustawienia > Połączenia > Sieci komórkowe > Operatorzy sieci → wyłącz „Wybierz automatycznie" → wybierz inną sieć.
 
-> ⚠️ **Ostrzeżenie:** Rób to tylko wtedy, gdy twój plan obsługuje wiele sieci. Niektóre plany podróżne są zablokowane na jednego operatora – próba ręcznego wybrania innej sieci pokaże tylko "Brak usługi".
+> ⚠️ **Ostrzeżenie:** Rób to tylko wtedy, gdy Twój plan obsługuje wiele sieci. Niektóre plany podróżne są zablokowane na jednego operatora – próba ręcznego wyboru innej sieci po prostu pokaże „Brak usługi".
 
-### Dlaczego mój "nielimitowany" nagle zwolnił?
+### Dlaczego nielimitowane dane nagle zwalniają
 
-Jeśli przez trzy dni prędkość była błyskawiczna, a nagle nie możesz załadować zdjęcia, osiągnąłeś limit **FUP (Fair Usage Policy)**. Jak wyjaśniono wcześniej, operatorzy spowalniają prędkość do 128kbps, gdy wykorzystasz dzienny limit szybkich danych.
+Jeśli Twoje prędkości były błyskawiczne przez trzy dni, a nagle nie możesz załadować zdjęcia, osiągnąłeś limit **FUP (Polityki Sprawiedliwego Użytkowania)**. Jak wyjaśniono wcześniej, operatorzy ograniczają Twoją prędkość do 128kbps, gdy wypalisz swój dzienny limit wysokiej prędkości.
 
-**Rozwiązanie:** To spowolnienie resetuje się automatycznie o **północy czasu lokalnego**. Jeśli potrzebujesz natychmiast szybkich danych do pracy, jedyną opcją jest zakup i instalacja nowego pakietu danych lub doładowanie.
+**Poprawka:** Ten throttling resetuje się automatycznie o **północy czasu lokalnego**. Jeśli potrzebujesz danych o wysokiej prędkości natychmiast do pracy, Twoją jedyną opcją jest kupno i instalacja świeżej paczki danych lub doładowania.
 
-### Priorytet sieci – dlaczego niektóre plany są wolniejsze od innych
+### Dlaczego niektóre plany eSIM są wolniejsze od innych
 
-Nie wszystkie dane są równe. Plany podróżne są często obniżane w priorytecie w porównaniu z klientami lokalnych operatorów:
+Nie wszystkie dane są równe. eSIM podróżne są często depriorytetyzowane w porównaniu z klientami lokalnych operatorów:
 
-| Typ użytkownika | Priorytet sieci | Prędkość podczas przeciążeń |
+| Typ użytkownika | Priorytet sieci | Prędkość podczas przeciążenia |
 | :--- | :--- | :--- |
-| Klient postpaid lokalnego operatora | Najwyższy | Pełna prędkość |
+| Klient abonamentowy lokalnego operatora | Najwyższy | Pełna prędkość |
 | Klient prepaid lokalnego operatora | Średni | Może zwolnić w godzinach szczytu |
-| Użytkownik planu podróżnego (za pośrednictwem resellera) | Najniższy | Jako pierwszy spowalniany, gdy sieć jest przeciążona |
+| Użytkownik eSIM podróżnego (przez resellera) | Najniższy | Pierwszy do spowolnienia, gdy sieć jest zajęta |
 
-**Co to oznacza dla ciebie:** W zatłoczonych miejscach (Times Square, stadiony sportowe, koncerty) twój plan podróżny może zwolnić, nawet jeśli masz pozostałe dane. Plany wielosieciowe pomagają, ponieważ mogą przełączyć się na mniej przeciążonego operatora.
+**Co to dla Ciebie oznacza:** W zatłoczonych miejscach (Times Square, stadiony sportowe, koncerty) Twój plan podróżny może zwolnić, nawet jeśli masz pozostałe dane. Plany eSIM wielosieciowe pomagają, ponieważ mogą przełączyć się na mniej przeciążonego operatora.
 
 
-## Często zadawane pytania dotyczące planów danych podróżnych w USA
+## Często zadawane pytania o eSIM USA
 
-**Czy Airalo czy Roami jest tańszy w USA?**
-Roami jest generalnie tańszy dla planów z dużą ilością danych (10GB: 26,99 USD vs 34,00 USD dla Airalo). Roami oferuje również przełączanie między wieloma operatorami (T‑Mobile, AT&T, Verizon), podczas gdy Airalo zwykle korzysta z jednej sieci. W przypadku planów nielimitowanych Roami często oferuje lepszą wartość. Przeczytaj nasz **[przewodnik Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)**.
+**Czy Airalo czy Roami jest tańsze dla USA?**
+Plan Airalo tylko z danymi 10GB/30d ($23.00) jest nieco tańszy niż Roami 10GB ($26.99), ale Roami dodaje automatyczne przełączanie między T‑Mobile, AT&T i Verizon, podczas gdy plan Airalo tylko z danymi używa jednej sieci. Dla danych nielimitowanych Roami jest często lepszą wartością. Przeczytaj nasz **[przewodnik Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)**.
 
-**Czy plan podróżny w USA zawiera numer telefonu?**
-Większość planów danych podróżnych to tylko dane. Jeśli potrzebujesz numeru w USA do połączeń lub kodów weryfikacyjnych SMS, poszukaj planu zawierającego numer telefonu (np. Airalo Discover+). Pamiętaj, że takie plany są zwykle droższe za GB.
+**Czy eSIM USA zawiera numer telefonu?**
+Większość planów danych podróżnych to tylko dane. Jeśli potrzebujesz numeru USA do połączeń lub kodów weryfikacyjnych SMS, poszukaj planu, który zawiera numer telefonu (jak Airalo Discover+). Zauważ, że te plany są zwykle droższe za GB.
 
-**Jaki jest najlepszy plan danych dla podróży do USA?**
-Najlepszy wybór zależy od trasy:
+**Jaki jest najlepszy plan eSIM USA do podróży?**
+Najlepszy wybór zależy od Twojego planu podróży:
 - Miasta → sieć T‑Mobile (najszybsze 5G)
-- Parki narodowe → AT&T lub Verizon (lepszy zasięg wiejski)
+- Parki narodowe → AT&T lub Verizon (lepszy zasięg na wsi)
 - Przełączanie wielosieciowe → Roami obejmuje wszystkie trzy
 
-**Czy mogę używać planu USA w Kanadzie lub Meksyku?**
+**Czy mogę używać eSIM USA w Kanadzie lub Meksyku?**
 Tylko jeśli kupisz plan regionalny Ameryki Północnej, który wyraźnie obejmuje te kraje. Standardowe plany USA przestają działać na granicy.
 
-**Dlaczego mój plan pokazuje "Brak usługi" po wylądowaniu?**
-Najczęściej roaming danych nie jest włączony (WŁ) lub telefon nadal używa domowej SIM dla danych. Sprawdź oba ustawienia. Zobacz sekcję rozwiązywania problemów powyżej.
+**Dlaczego mój plan pokazuje „Brak usługi" po wylądowaniu?**
+Najczęściej roaming danych nie jest włączony lub telefon nadal używa domowego SIM do danych. Sprawdź oba ustawienia. Zobacz sekcję rozwiązywania problemów powyżej.
 
-**Co to jest darmowa wersja próbna?**
-Niektórzy dostawcy oferują darmową wersję próbną (np. Roami oferuje 100MB danych), abyś mógł przetestować kompatybilność i zasięg przed zakupem płatnego planu. Możesz **[odebrać swoją darmową wersję próbną tutaj](/free-esim/)**.
+**Czym jest darmowy okres próbny?**
+Niektórzy dostawcy oferują darmowy eSIM próbny (np. Roami oferuje 100MB danych), abyś mógł przetestować zgodność i zasięg przed zakupem płatnego planu. Możesz **[odebrać swój darmowy okres próbny tutaj](/free-esim/)**.
 
-**Jaki jest najtańszy plan danych w USA?**
-Ceny różnią się w zależności od przydziału danych. Według stanu na sierpień 2026:
-- Plan 1GB/7 dni Roami zaczyna się od 1,99 USD.
-- Zawsze porównuj **koszt za GB**, a nie cenę główną, zwłaszcza w przypadku większych planów.
+**Jaki jest najtańszy plan eSIM dla USA?**
+Ceny różnią się w zależności od limitu danych. Na wrzesień 2026:
+- Plan Roami 1GB/7‑dni zaczyna się od $1.99.
+- Zawsze porównuj **koszt za GB**, a nie cenę nagłówkową, zwłaszcza w przypadku większych planów.
 
-**Jak zatrzymać automatyczne odnowienie planu?**
+**Jak zatrzymać automatyczne odnawianie w moim planie?**
 - **iPhone:** Ustawienia > Apple ID > Subskrypcje → znajdź plan → Anuluj subskrypcję.
 - **Android:** Google Play > Subskrypcje → znajdź plan → Anuluj.
-- **Aplikacja dostawcy:** Większość aplikacji z planami podróżnymi ma sekcję "Zarządzaj planem".
+- **Aplikacja dostawcy:** Większość aplikacji planów podróżnych ma sekcję „Zarządzaj planem".
 
-**Czy mogę używać planu USA jako hotspotu dla laptopa?**
-Większość planów w USA zezwala na hotspot/tethering. Sprawdź warunki dostawcy – niektóre ograniczają korzystanie z hotspotu w planach "nielimitowanych".
+**Czy mogę używać eSIM USA jako hotspotu dla mojego laptopa?**
+Większość planów USA pozwala na hotspot/tethering. Sprawdź warunki dostawcy – niektóre ograniczają użycie hotspotu w planach „nielimitowanych".
 
-**Co się stanie, gdy skończą mi się dane?**
-Będziesz musiał kupić pakiet doładowania. Ceny doładowań są zwykle wyższe za GB niż w początkowym planie – kup większy plan początkowy, jeśli nie jesteś pewien zużycia.
+**Co się dzieje, jeśli skończą mi się dane?**
+Będziesz musiał kupić paczkę doładowania. Ceny doładowań są zwykle wyższe za GB niż w początkowym planie – kup większy początkowy plan, jeśli nie jesteś pewien zużycia.
 
-**Czy mogę pozostawić aktywną domową SIM dla iMessage, używając planu USA dla danych?**
-Tak. Na iPhonie ustaw domyślną linię głosową na domową SIM, dane komórkowe na plan USA i włącz Zezwalaj na przełączanie danych komórkowych. Twój numer domowy będzie nadal działać dla iMessage i FaceTime przez połączenie danych planu USA.
+**Czy mogę utrzymać domowy SIM aktywny dla iMessage, używając eSIM USA do danych?**
+Tak. Na iPhone ustaw Domyślną linię głosową na domowy SIM, Dane komórkowe na eSIM USA i włącz Zezwalaj na przełączanie danych komórkowych. Twój domowy numer będzie nadal działał dla iMessage i FaceTime przez połączenie danych planu USA.
 
 **Jak wcześnie powinienem kupić przed podróżą?**
-Kup i zeskanuj kod QR **1–3 dni przed wyjazdem** będąc na stabilnym Wi-Fi. Daje to czas na rozwiązanie problemów z aktywacją przed wyjazdem. NIE czekaj, aż będziesz na lotnisku z niestabilnym Wi-Fi.
+Kup i zeskanuj kod QR **1–3 dni przed wyjazdem** będąc na stabilnym Wi‑Fi. Daje Ci to czas na rozwiązanie problemów z aktywacją przed wyjazdem. NIE czekaj, aż będziesz na lotnisku ze słabym Wi‑Fi.
 
-**Co to jest kod potwierdzający i gdzie go znaleźć?**
-Niektórzy dostawcy wymagają kodu potwierdzającego/aktywacyjnego (zwykle 4–8 cyfr) podczas instalacji. Sprawdź e-mail dostawcy – często jest podany oddzielnie od kodu QR. Jeśli nie możesz go znaleźć, sprawdź aplikację dostawcy lub stronę pomocy.
+**Czym jest kod potwierdzenia i gdzie go znaleźć?**
+Niektórzy dostawcy wymagają kodu potwierdzenia/aktywacji (zwykle 4–8 cyfr) podczas instalacji. Sprawdź e-mail dostawcy – jest często wymieniony osobno od kodu QR. Jeśli nie możesz go znaleźć, sprawdź aplikację lub stronę wsparcia dostawcy.
 
-**Który dostawca ma najlepszy zasięg dla podróży drogowych w USA?**
-Roami (który korzysta z AT&T + Verizon + T‑Mobile) oferuje najlepszy ogólny zasięg podczas podróży drogowych, ponieważ automatycznie przełącza się między wszystkimi trzema sieciami. Plany z jedną siecią, takie jak Airalo (tylko T‑Mobile), będą miały martwe strefy na obszarach wiejskich.
+**Który dostawca eSIM ma najlepszy zasięg dla road tripów po USA?**
+Roami (który używa AT&T + Verizon + T‑Mobile) oferuje najlepszy ogólny zasięg na road tripy, ponieważ automatycznie przełącza się między wszystkimi trzema sieciami. Plany jednosieciowe jak Airalo (tylko T‑Mobile) będą miały martwe strefy na obszarach wiejskich.
 
-**Jaki jest najlepszy plan w USA dla rodzin lub grup?**
+**Jaki jest najlepszy plan eSIM USA dla rodzin lub grup?**
 Jeśli podróżujesz z rodziną:
-- **Opcja 1:** Kup jeden plan z dużym przydziałem danych i korzystaj z Personal Hotspot, aby udostępniać innym.
-- **Opcja 2:** Kup oddzielne plany dla każdej osoby – jest to droższe, ale daje każdemu niezależność.
-- **Rekomendacja:** Dla rodzin opcja 1 jest zwykle bardziej opłacalna. Plan 10–15GB może z łatwością pokryć potrzeby 2‑3 osób na tydzień, jeśli nie są intensywnymi streamerami.
+- **Opcja 1:** Kup jeden plan z hojnym limitem danych i używaj Personal Hotspot do udostępniania innym.
+- **Opcja 2:** Kup osobne plany dla każdej osoby – jest to droższe, ale daje każdemu niezależność.
+- **Zalecenie:** Dla rodzin Opcja 1 jest zwykle bardziej opłacalna. Plan 10‑15GB może łatwo pokryć 2‑3 osoby na tydzień, jeśli nie streamują intensywnie.
 
-**Jaka jest różnica między planem podróżnym a planem prepaid lokalnego operatora?**
-| Cecha | Plan podróżny (Roami/Airalo) | Prepaid lokalnego operatora (T‑Mobile) |
+**Jaka jest różnica między eSIM podróżnym a planem prepaid lokalnego operatora?**
+| Funkcja | eSIM podróżny (Roami/Airalo) | Lokalny operator (T‑Mobile prepaid) |
 | :--- | :--- | :--- |
-| **Zakup przed przyjazdem** | ✅ Tak | ❌ Nie – trzeba kupić w USA |
-| **Wymagany dowód tożsamości** | ❌ Nie | ✅ Tak (paszport) |
-| **Numer telefonu** | ❌ Zazwyczaj nie | ✅ Tak |
-| **Koszt** | Tańszy dla krótkich wyjazdów | Tańszy dla długich pobytów |
+| **Kup przed przyjazdem** | ✅ Tak | ❌ Nie – trzeba kupić w USA |
+| **Wymagany dokument tożsamości** | ❌ Nie | ✅ Tak (paszport) |
+| **Numer telefonu** | ❌ Zwykle nie | ✅ Tak |
+| **Koszt** | Tańszy na krótkie wyjazdy | Tańszy na długie pobyty |
 | **Czas konfiguracji** | 2 minuty | 15‑30 minut w sklepie |
 
-## Podsumowanie – pozostań w kontakcie podczas podróży do USA w 2026 roku
+## Podsumowanie
 
-Korzystanie z internetu w USA nie wymaga już polowania na fizyczną kartę SIM. Sprawdzając EID telefonu, wybierając odpowiednią sieć dla swojej trasy i skanując kod QR przed lotem, gwarantujesz natychmiastowy dostęp do 5G na płycie lotniska.
+Połączenie się z internetem w USA nie wymaga już szukania fizycznej karty SIM. Weryfikując EID telefonu, wybierając właściwą sieć bazową dla swojej trasy i skanując kod QR przed lotem, gwarantujesz natychmiastowy dostęp 5G na płycie lotniska.
 
 Zapamiętaj sekwencję: **Sprawdź EID → Wybierz sieć → Porównaj dostawców → Uważaj na ukryte opłaty → Zeskanuj przed lotem → Włącz roaming**.
 
-### Szybkie rekomendacje końcowe
+### Ostateczne rekomendacje
 
 | Jeśli... | Kup to |
 | :--- | :--- |
-| Chcesz **najtańszy ogólnie** plan w USA | Roami (1,99 USD/1GB lub 26,99 USD/10GB) |
-| Potrzebujesz **numeru telefonu w USA** | Airalo Discover+ |
-| Prowadzisz przez **parki narodowe** | Roami (przełączanie wielosieciowe) |
-| Potrzebujesz **nielimitowanych danych** przez 30+ dni | Roami nielimitowany lub T‑Mobile prepaid |
-| Potrzebujesz tylko **lekkich danych na 3–5 dni** | Plan 1–2GB dowolnego dostawcy (2–6 USD) |
+| Chcesz **najtańszy ogólnie** plan USA | Roami ($1.99/1GB) lub Airalo tylko dane dla 10GB+ |
+| Potrzebujesz **numeru telefonu USA** | Airalo Discover+ |
+| Jedziesz przez **parki narodowe** | Roami (przełączanie wielosieciowe) |
+| Potrzebujesz **danych nielimitowanych** na 30+ dni | Roami nielimitowany lub T‑Mobile prepaid |
+| Potrzebujesz tylko **lekkich danych na 3–5 dni** | Plan 1–2GB dowolnego dostawcy ($2–$6) |
 
-👉 **Gotowy do wyboru?** Zobacz nasze [plany eSIM dla USA](/united-states-esim/) dla natychmiastowej aktywacji lub [eSIM dla Kanady](/canada-esim/), jeśli twoja podróż przekracza granicę.
+👉 **Gotowy do wyboru?** Zobacz nasze [plany eSIM USA](/united-states-esim/) dla natychmiastowej aktywacji lub [eSIM Kanada](/canada-esim/), jeśli Twoja podróż przekracza granicę.
 
 ---
 
-*Na podstawie oficjalnej dokumentacji Apple, standardów GSMA oraz danych o zasięgu operatorów. Wszystkie ceny zweryfikowane według stanu na sierpień 2026.*
+*Na podstawie oficjalnej dokumentacji Apple, standardów GSMA i danych o zasięgu operatorów. Wszystkie ceny zweryfikowane na wrzesień 2026.*
 ## Źródła
 
 - [GSMA — specyfikacja eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Apple Support — eSIM na iPhone](https://support.apple.com/en-us/108072)
-- [Google Support — Konfiguracja eSIM](https://support.google.com/pixelphone/answer/14853135)
-- [Google Support — eSIM na Androidzie](https://support.google.com/android/answer/11241215)
+- [Wsparcie Apple — konfiguracja eSIM na iPhone](https://support.apple.com/en-us/HT212780)
+- [Wsparcie Google — konfiguracja eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Wsparcie Google — eSIM na Androidzie](https://support.google.com/android/answer/11241215)

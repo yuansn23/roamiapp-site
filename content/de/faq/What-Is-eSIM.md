@@ -1,22 +1,24 @@
 ---
-title: "Was ist eine eSIM? Einsteiger-Guide 2026"
-h1_title: "Die eSIM einfach erklärt: Einsteiger-Guide für 2026"
-description: "Neu bei eSIM? Dieser Einsteiger-Guide erklärt die integrierte SIM: Funktion auf iPhone & iPad, Sicherheitsvorteile, Kompatibilität & einfache Einrichtung. Basierend auf Apple-Dokumenten."
-keywords: ["was ist eSIM", "eSIM Definition", "wie funktioniert eSIM", "eSIM vs physische SIM", "Apple eSIM Unterstützung", "Vorteile eSIM", "integrierte SIM-Karte", "eSIM Leitfaden für Anfänger"]
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Fehlerbehebung", "Reise-Setup", "iPhone 17"]
+title: "Was ist eine eSIM? Vorteile einfach erklärt"
+h1_title: "Was ist eine eSIM und warum macht sie die physische SIM-Karte überflüssig?"
+description: "Die winzigen SIM-Karten leid? Erfahren Sie, wie eSIM auf iPhone und Android funktioniert und warum sie sicherer, einfacher und die Zukunft der Reise-Konnektivität ist."
+image: "/img/faq/what-is-esim.webp"
+image-1: "/img/faq/what-is-esim-1.jpg"
+keywords: ["was ist eSIM", "wie funktioniert eSIM", "eSIM vs physische SIM", "eSIM Definition", "eSIM Vorteile", "embedded SIM Karte", "eSIM Einsteiger guide", "Dual-eSIM", "globale eSIM", "eSIM für Reisen", "eSIM Vor- und Nachteile", "esim für Einsteiger", "eSIM Technologie erklärt"]
+date: 2026-09-24T00:00:00Z
+lastmod: 2026-09-24T00:00:00Z
+tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "iPhone 16"]
 toc: true
 
-# 站点 & SEO 基础硬编码配置
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Aktualisiert am"
-  min_read: "Min. Lesedauer"
+  min_read: "Min. Lesezeit"
   toc: "Inhaltsverzeichnis"
 
 breadcrumbs:
@@ -24,53 +26,53 @@ breadcrumbs:
     text: "Startseite"
     url: "/"
   parent:
-    text: "Hilfecenter"
+    text: "Hilfe-Center"
     url: "/faq/"
 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Beliebte eSIMs"
   item_suffix: "eSIM"
   items:
-    - name: "Vereinigte Staaten"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Deutschland"
+    - name: "Deutschland eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europa"
+    - name: "Europa eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Türkei"
+    - name: "Türkei eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japan"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Gratis eSIM sichern"
+  title: "Kostenlose eSIM sichern"
   icon: "🎁"
-  item_suffix: "Gratis eSIM"
+  item_suffix: "Kostenlose eSIM"
   item_subtitle: "Kostenlose eSIM"
   items:
-    - name: "Großbritannien"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Deutschland"
@@ -83,181 +85,228 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Sidebar: Popular questions
 sidebar_questions:
-  title: "Häufige Fragen"
+  title: "Beliebte Fragen"
   items:
-    - question: "Was ist eine eSIM-Aktivierung und wie funktioniert sie?"
+    - question: "Was ist eSIM-Aktivierung und wie funktioniert sie?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Wie aktiviere ich eine eSIM?"
+    - question: "Wie aktiviert man eine eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Wie aktiviere ich eine eSIM auf dem iPhone (Alle Modelle)?"
+    - question: "Wie aktiviert man eSIM auf dem iPhone (alle Modelle)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Aktuelle eSIM-Kompatibilitätsliste"
       url: "/compatibility/"
 ---
 
-Wenn Sie vor kurzem ein neues iPhone oder iPad gekauft haben, haben Sie wahrscheinlich den Begriff **eSIM** gehört. Es klingt technisch, ist aber eigentlich ein einfaches und leistungsstarkes Upgrade gegenüber den Plastik-SIM-Karten, die wir seit Jahrzehnten verwenden. Dieser Leitfaden erklärt alles, was ein Einsteiger wissen muss. Kein Fachchinesisch, keine Verwirrung.
-
-Wer sich fragt, was eine eSIM genau ist und warum sie in immer mehr Geräten verbaut wird, ist hier genau richtig. Wir erklären die **eSIM Definition**, zeigen die **Vorteile der eSIM** gegenüber der physischen SIM und geben eine klare **eSIM Erklärung für Anfänger** – basierend auf den offiziellen technischen Spezifikationen der GSMA und der Dokumentation von Apple.
 
 
-## 📌 Das Wichtigste im Überblick
+> **Hinweis der Redaktion:** Eine eSIM ist eine digitale SIM, die in Ihr Telefon eingebettet ist und die entfernbare Plastikkarte ersetzt — sie speichert Ihr Anbieter-Profil in Software und ermöglicht den Tarifwechsel, ohne Karten zu wechseln. Dieser Erklärartikel folgt der offiziellen Apple-Dokumentation und der eSIM-Spezifikation der GSMA (SGP.22) und ist für absolute Einsteiger geschrieben. Am Ende wissen Sie genau, was eine eSIM ist und ob Sie eine brauchen.
 
-- **eSIM steht für „embedded SIM“** – eine digitale SIM, die fest in Ihr Gerät eingebaut ist.
-- **Keine physische Karte** – Sie aktivieren einen Mobilfunktarif durch Scannen eines QR-Codes oder über eine App.
-- **Sicherer** – eSIMs können nicht entfernt oder geklont werden, was Sie vor SIM-Swap-Angriffen schützt.
-- **Bequemer** – Wechseln Sie den Anbieter oder fügen Sie Reisetarife sofort hinzu, ohne auf Post zu warten.
-- **Funktioniert auf den meisten neueren iPhones und iPads** – ab iPhone XS und neuer sowie vielen iPad-Modellen.
+Eine **eSIM** (embedded SIM) ist eine digitale SIM, die im Inneren Ihres Telefons lebt statt in einem Plastik-Schacht. Wenn Sie kürzlich ein neues iPhone gekauft haben oder eine Reise ins Ausland planen, sind Ihnen der Begriff mit Sicherheit schon begegnet — und es ist ein viel einfacheres Upgrade, als es klingt.
 
+## Was ist eine eSIM?
 
-## 1. Was genau ist eine eSIM? – Die integrierte SIM-Karte einfach erklärt
+Das „e" in eSIM steht für **embedded** (eingebettet). Sie erfüllt dieselbe Aufgabe wie die Plastik-SIM, die Sie seit Jahren verwenden — sie identifiziert Ihr Gerät im Netz eines Anbieters, damit Sie telefonieren, simsen und Daten nutzen können — nur gibt es keine Karte, die man einsetzen, auswerfen oder verlieren könnte. Die SIM existiert rein als Software auf einem winzigen, manipulationssicheren Chip, der auf das Motherboard Ihres Telefons gelötet ist.
 
-**eSIM** (kurz für *embedded Subscriber Identity Module*) ist eine **integrierte SIM-Karte**, die direkt in die Hauptplatine Ihres iPhones oder iPads eingebaut ist. Sie erfüllt dieselbe Aufgabe wie die herkömmliche Plastik-SIM-Karte – sie identifiziert Sie gegenüber dem Mobilfunknetz –, jedoch ohne dass ein winziges Stück Plastik eingelegt oder ausgetauscht werden muss.
+Dieser Chip heißt **eUICC** (embedded Universal Integrated Circuit Card). Stellen Sie ihn sich als sicheren digitalen Tresor vor: Statt eine physische Karte aufzunehmen, kann er mehrere herunterladbare Anbieter-Profile speichern und auf Abruf zwischen ihnen wechseln.
 
-### Der alte Weg: Physische SIM
-- Eine herausnehmbare Karte, die Ihre Telefonnummer und Anbieterinfos speichert.
-- Muss mit einem SIM-Werkzeug (Büroklammer) in das SIM-Fach eingelegt werden.
-- Für einen Anbieterwechsel benötigen Sie eine neue Karte.
+Menschen bezeichnen dieselbe Technologie mit mehreren Namen — „eSIM", „e-SIM", „e-sim", „e.sim", „virtuelle SIM", „digitale SIM-Karte" oder einfach „esim" in Kleinschreibung. Alle bedeuten dieselbe eingebettete SIM; nur die Schreibweise unterscheidet sich. Manche sagen aus Gewohnheit „eSIM-Karte", was aber leicht in die Irre führt, denn es gibt keine Karte, die man Ihnen aushändigt — nur ein digitales Profil, das auf den Chip heruntergeladen wird.
 
-### Der neue Weg: eSIM
-- Ein softwarebasiertes Profil, das in einem Chip namens **eUICC** (embedded Universal Integrated Circuit Card) gespeichert ist.
-- Kein Fach, kein Werkzeug, keine Karte, die man verlieren kann.
-- Für einen Anbieterwechsel laden Sie einfach ein neues eSIM-Profil über WLAN herunter.
+Eine nützliche Analogie: eSIM verhält sich zu SIM-Karten wie Apple Pay zu Plastik-Kreditkarten. Die Nummer bleibt Ihre und der Dienst funktioniert weiterhin — sie hängt nur nicht mehr von einem Stück Plastik ab.
 
-Stellen Sie sich die eSIM wie eine **digitale Brieftasche für Ihre Telefonnummer** vor – so wie Apple Pay physische Kreditkarten ersetzt, ersetzt die eSIM physische SIM-Karten. Die technische Grundlage für diese Technologie wird durch den [GSMA-Standard SGP.22 V3.1](https://www.gsma.com/esim/) definiert, der weltweit die Interoperabilität zwischen Geräten und Anbietern sicherstellt.
+Physisch könnten die beiden nicht unterschiedlicher sein. Eine nano-SIM — die kleinste physische Karte im breiten Einsatz — misst etwa 12,3 mm × 8,8 mm und steckt in einem Schacht, der einen Slot, einen Federmechanismus und ein Auswurfwerkzeug benötigt. Der eUICC-Chip, der sie ersetzt (im gängigsten MFF2-Gehäuse), ist etwa 6 mm × 5 mm groß und wird ab Werk direkt auf die Platine des Telefons gelötet. Kein Schacht, kein Werkzeug, nichts, das beim Fallenlassen herausfallen kann. Dieser eine Chip ist ein Grund, warum Telefone nur mit eSIM etwas dünner und etwas wasserfester sein können als ihre Pendants mit SIM-Schacht.
 
-Für eine Schritt-für-Schritt-Anleitung zur Einrichtung Ihrer ersten eSIM besuchen Sie unseren [eSIM Aktivierungs-Guide](/faq/how-to-activate-an-esim/). Fortgeschrittene Probleme wie Aktivierungsfehler oder fehlendes Netz behandelt unser [eSIM Deep Troubleshooting Guide (16 reale Fälle)](/faq/esim-deep-troubleshooting-guide-2026/).
+## eSIM-Begriffe
 
+Der Name wird auf mindestens ein Dutzend Arten geschrieben, und einige verwandte Begriffe kursieren ebenfalls. Hier ist, was jeder davon tatsächlich bedeutet:
 
-## 2. Wie funktioniert eine eSIM? – Einfach und verständlich
+| Begriff | Bedeutung |
+|---|---|
+| **eSIM** | Die offizielle, bevorzugte Schreibweise von Apple, Google, Samsung und der GSMA. |
+| **e-SIM / e.sim / e-sim** | Dieselbe Technologie, mit Bindestrich oder Punkt geschrieben. Kein Bedeutungsunterschied. |
+| **embedded SIM** | Eine wörtliche Übersetzung — „embedded", weil die SIM ab Werk ins Telefon eingebaut ist. |
+| **digitale SIM / virtuelle SIM** | Marketingbegriffe, die betonen, dass es keine physische Karte gibt. Alle bezeichnen eine eSIM. |
+| **eUICC** | Der eigentliche Chip (embedded Universal Integrated Circuit Card), der die Profile speichert. Die eSIM ist das *Konzept*; die eUICC ist die *Hardware*, auf der sie läuft. |
+| **SIM-Profil** | Die herunterladbare Anbieter-Identität — Ihre Nummer, Ihr Tarif und Ihre Sicherheitsschlüssel — gespeichert auf der eUICC. Ein Chip, viele Profile. |
+| **„eSIM-Karte"** | Eine Angewohnheit aus dem Plastik-SIM-Zeitalter. Leicht irreführend, weil Ihnen nichts Physisches ausgehändigt wird. |
 
-Hinter den Kulissen folgt die eSIM einem globalen Standard. Hier ist der vereinfachte Ablauf:
+Der eine Unterschied, den man sich merken sollte: Eine **eUICC** ist der physische Chip, und eine **eSIM** ist die digitale SIM, die darauf lebt. Im Alltag sagt aber jeder einfach „eSIM".
 
-1. **Ihr Anbieter erstellt ein digitales Profil** für Ihre Telefonnummer. Dieses Profil ist verschlüsselt und auf dem Sicherheitsserver des Anbieters gespeichert.
-2. **Sie installieren das Profil** auf Ihrem Gerät – meist durch Scannen eines QR-Codes, Tippen auf einen Aktivierungslink oder über die App Ihres Anbieters.
-3. **Das Profil wird auf dem eUICC-Chip Ihres Geräts gespeichert** – einer manipulationssicheren Komponente, die weder entfernt noch geklont werden kann.
-4. **Ihr Gerät kommuniziert mit dem Netzwerk** über das eSIM-Profil, genau wie bei einer physischen SIM.
+## Woher kommt die eSIM?
 
-Da das Profil digital ist, können Sie **mehrere eSIMs** auf einem Gerät speichern – das iPhone kann bis zu 20 Profile speichern – und in den Einstellungen zwischen ihnen wechseln. Sie können auch **zwei Leitungen gleichzeitig aktiv** haben – zum Beispiel eine private Nummer und eine Geschäftsnummer oder einen Heimattarif und eine Reise-eSIM für Auslandsreisen.
+Die Plastik-SIM schrumpft seit über 30 Jahren, und die eSIM ist der logische Endpunkt dieser Entwicklung. Die ursprüngliche SIM in Kreditkartengröße kam 1991 mit den ersten GSM-Telefonen auf den Markt; die Mini-SIM, die Mitte der 1990er folgte, ist die, an die die meisten noch denken, wenn sie an eine SIM denken. So wurde die Karte immer kleiner, bis sie vollständig im Telefon verschwand:
 
-Für Nutzer, die eine **eSIM für Reisen** suchen – etwa eine [USA eSIM](/united-states-esim/) oder eine [Europa-eSIM](/europe-esim/) – ist diese Flexibilität besonders wertvoll: Sie können vor Abreise einen Tarif buchen und bei Landung sofort nutzen, ohne nach einem Kiosk suchen zu müssen.
+| Generation | Ungefähre Größe | Epoche |
+|---|---|---|
+| Standard-SIM | 85,6 × 54 mm (Kreditkartengröße) | 1991 |
+| Mini-SIM | 25 × 15 mm | 1996 |
+| Micro-SIM | 15 × 12 mm | 2010 |
+| Nano-SIM | 12,3 × 8,8 mm | 2012 |
+| eSIM (eUICC) | Etwa 6 × 5 mm, eingelötet | ab 2016 |
 
+eSIM als Verbraucherstandard erschien erstmals 2016, als die GSMA die Remote-SIM-Provisioning-Spezifikation (SGP.22) veröffentlichte. Die Samsung Gear S2 Smartwatch war eines der ersten Geräte, die sie nutzten, und Apple brachte sie mit dem iPhone XS und XR 2018 in den Mainstream. In weniger als einem Jahrzehnt wanderte sie von der Nische an den Rand des Standards.
 
-## 3. eSIM vs. physische SIM: Der direkte Vergleich
+## Wie funktioniert eine eSIM?
 
-| Merkmal | Physische SIM-Karte | eSIM |
-|---------|---------------------|------|
-| **Physische Komponente** | Herausnehmbare Plastikkarte | Integrierter Chip (fest verbaut) |
-| **Aktivierung** | Karte einlegen; ggf. Anbieter-Setup | QR-Code scannen oder App nutzen |
-| **Anbieterwechsel** | Neue Karte besorgen (Post oder Shop) | Profil sofort herunterladen |
-| **Mehrere Nummern** | Eine pro SIM; Kartentausch nötig | 20+ Profile speichern, Wechsel via Menü |
-| **Zwei aktive Leitungen** | Erfordert zwei SIM-Slots | Unterstützt durch Dual eSIM (ab iPhone 13) |
-| **Verlust-/Diebstahlrisiko** | SIM kann entnommen werden | Nicht entnehmbar; Ortung bleibt aktiv |
-| **Klon-Risiko** | Möglich (SIM-Swapping Angriffe) | Unmöglich (GSMA SGP.21 Standard) |
-| **Umweltbelastung** | Plastik, Verpackung, Versand | Null physischer Abfall |
+Hinter den Kulissen folgt eSIM einem globalen Standard, der von der **GSMA** gepflegt wird, dem Industrieverband der Mobilfunkbetreiber weltweit. Die Mechanik läuft auf wenige bewegliche Teile hinaus:
 
-Die [Apple Support-Dokumentation](https://support.apple.com/en-us/109317) bestätigt, dass die eSIM-Technologie ab dem iPhone XS und XR in allen neueren Modellen unterstützt wird – mit dem iPhone 14 begann Apple in den USA sogar, das physische SIM-Fach komplett zu entfernen.
+- Ein Anbieter (oder ein eSIM-Anbieter wie Roami) erstellt ein **digitales Profil**, das die Identität Ihres Tarifs und Verschlüsselungsschlüssel enthält.
+- Dieses Profil wird über das Internet an Ihr Telefon übermittelt — meist ausgelöst durch einen QR-Code oder einen Tipp in einer App.
+- Das Profil wird auf dem eUICC-Chip des Telefons installiert, wo es nicht entfernt oder geklont werden kann.
+- Von da an kommuniziert Ihr Telefon über dieses Profil mit dem Netz — genau wie mit einer physischen SIM.
 
-Die Vorteile der eSIM gegenüber der physischen SIM liegen also auf der Hand: mehr Flexibilität, höhere Sicherheit und weniger Umweltbelastung. Für viele Nutzer ist die Frage nicht mehr „ob“, sondern „wann“ sie umsteigen sollten.
+Eine Sache tut das Profil nicht: sich beim Telefonwechsel selbst mitzunehmen — lesen Sie, wie das [Übertragen einer eSIM zwischen iPhone und Android](/faq/how-to-transfer-esim-between-iphone-and-android/) tatsächlich funktioniert.
 
+Der technische Rahmen ist die **SGP.22-Spezifikation** der GSMA — offiziell betitelt „Remote SIM Provisioning for Consumer Devices". Sie standardisiert die gesamte Übergabe, sodass ein iPhone und ein Samsung Galaxy auf dieselbe Weise mit den Servern jedes Anbieters kommunizieren können. Drei Komponenten leisten die Hauptarbeit:
 
-## 4. Welche Apple-Geräte unterstützen eSIM? – Kompatibilität 2026
+- **SM-DP+** (Subscription Manager – Data Preparation Plus) ist der sichere Server des Anbieters. Er verpackt Ihren Tarif in ein Profil, verschlüsselt es, übermittelt es über das Internet an Ihr Gerät und prüft jeden Bestätigungscode, den ein Anbieter Ihrem Tarif beilegt.
+- **Die LPA** (Local Profile Assistant) ist die Software, die bereits in Ihrem Telefon steckt. Sie empfängt das verschlüsselte Profil, schreibt es auf den eUICC-Chip und bietet Ihnen das Menü, mit dem Sie Profile ein- und ausschalten.
+- **Der eUICC-Chip** ist der sichere Speicher. Es ist ein manipulationssicheres Secure Element — zertifiziert nach derselben Sicherheitsklasse wie Zahlungs­karten — das jedes Profil von den anderen isoliert hält.
 
-Laut offizieller Apple-Dokumentation wird die eSIM von einer Vielzahl von Geräten unterstützt. Hier ist die vollständige Liste für 2026:
+Der Anbieterwechsel ist der Punkt, an dem sich der „Software"-Aspekt wirklich auszahlt. Auf einem Telefon mit physischer SIM bedeutet ein Netzwechsel meist, dass eine neue Karte zugeschickt wird oder man im Laden ansteht. Auf einem eSIM-Telefon laden Sie einfach ein neues Profil herunter — das alte bleibt auf dem Chip gespeichert, und Sie können in den Einstellungen zwischen ihnen wechseln, ohne einen Schacht zu berühren.
 
-### iPhones mit eSIM-Unterstützung
+Alles zusammengenommen sieht der Lebenszyklus eines Profils so aus: Es wird einmal **heruntergeladen** (über WLAN oder mobile Daten), **aktiviert**, wenn Sie es nutzen wollen, beim Tarifwechsel durch ein anderes Profil **ersetzt** und erst **gelöscht**, wenn Sie es nicht mehr brauchen. Aktivieren und Deaktivieren ist sofort, weshalb Sie mit wenigen Tipptaps zwischen einer Privatrufnummer und einer Reise-Rufnummer wechseln können.
 
-| Modell | eSIM-Support | Dual eSIM? | Physisches SIM-Fach? |
-|-------|--------------|------------|----------------------|
-| iPhone 17 Serie (USA) | Nur eSIM | Ja | Nein |
-| iPhone 17 Serie (International) | eSIM | Ja | Ja (1 Nano-SIM) |
-| iPhone 17 Air (Global) | Nur eSIM | Ja | Nein |
-| iPhone 16 alle Modelle | eSIM | Ja | Variiert je nach Region |
-| iPhone 15 alle Modelle | eSIM | Ja | Variiert je nach Region |
-| iPhone 14 alle Modelle | eSIM | Ja | Variiert je nach Region |
-| iPhone 13 alle Modelle | eSIM | Ja | Ja |
-| iPhone 11, XS, XR, SE (2. & 3. Gen) | eSIM | Nein | Ja |
+Da Profile Software sind, kann ein Gerät mehrere gleichzeitig speichern. Moderne iPhones fassen acht oder mehr eSIM-Profile, und viele Telefone können zwei Leitungen **gleichzeitig aktiv** halten — etwa eine private Nummer plus einen Reise-Datentarif.
 
-> **Hinweis:** US-Modelle ab dem iPhone 14 haben **kein physisches SIM-Fach** mehr – sie sind reine eSIM-Geräte.
+*Die Aktivierung — der eigentliche Moment, in dem das Profil heruntergeladen und eingeschaltet wird — geht schnell, aber die genauen Schritte unterscheiden sich je nach Gerät. Eine Schritt-für-Schritt-Anleitung finden Sie in unserem [Wie aktiviert man eine eSIM](/faq/how-to-activate-an-esim/)-Guide (oder der [iPhone-Version](/faq/how-to-activate-esim-on-iphone/)).*
 
-### iPads mit eSIM-Unterstützung (mit Mobilfunk)
+*Und wenn Sie vorab genau verstehen möchten, was „Aktivierung" bedeutet, erklärt unser Artikel [Was ist eSIM-Aktivierung?](/faq/what-is-esim-activation-and-how-does-it-work/) das Konzept in einfachen Worten.*
 
-- iPad Pro 11″ (M4) und iPad Pro 13″ (M4)
-- iPad Air (M2) und neuere Modelle
-- iPad (10. Generation) und neuere Modelle
-- iPad mini (A17 Pro) und neuere Modelle
+## eSIM vs. physische SIM
 
-Eine vollständige, ständig aktualisierte Übersicht aller **eSIM-fähigen Geräte** – von Apple über Samsung bis Google Pixel – finden Sie in unserer [eSIM-Kompatibilitätsliste](/compatibility/).
+So schneidet der eingebettete Standard im Vergleich zur bekannten Plastikkarte ab. (Sie planen eine konkrete Reise? Unsere [UK eSIM vs. physische SIM-Analyse](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/) rechnet echte Reiserouten durch.)
 
+| Aspekt | Physische SIM | eSIM |
+|---|---|---|
+| Form | Entfernbare Plastikkarte | Software auf einem eingebauten eUICC-Chip |
+| Physische Größe | Nano-SIM: 12,3 × 8,8 mm, benötigt Schacht + Auswurfwerkzeug | eUICC-Chip: etwa 6 × 5 mm, eingelötet, nichts Externes |
+| Einrichtung | In einen Schacht einsetzen; manche Anbieter benötigen zusätzliche Provisionierung | Profil über WLAN per QR-Code oder App herunterladen |
+| Anbieterwechsel | Neue Karte besorgen und tauschen | Neues Profil in den Einstellungen installieren |
+| Profile pro Telefon | Eine pro Kartenslot | Acht oder mehr, auf Abruf umschaltbar |
+| Zwei aktive Leitungen | Erfordert einen Dual-SIM-Slot | Dual-eSIM auf iPhone 13+ und vielen Android-Geräten |
+| Haltbarkeit | Schacht und Kontakte können sich verbiegen, oxidieren oder Staub sammeln | Keine beweglichen Teile; Chip ist im Telefon versiegelt |
+| Verlust oder Diebstahl | Karte kann ausgeworfen und weiterverwendet werden | Kann nicht entfernt werden; Gerät bleibt ortbar |
+| Klonen / SIM-Swap | Mit billigen Werkzeugen möglich | Durch den GSMA-Standard SGP.22 blockiert |
+| Reisen | Vor Ort eine lokale SIM kaufen | Vor dem Abflug kaufen, bei der Landung verbinden |
+| Abfall | Plastik, Verpackung, Versand | Keiner |
 
-## 5. Warum ist die eSIM sicherer? – Die wichtigsten Sicherheitsvorteile
+**Die Kurzfassung:** eSIM ist bequemer, sicherer und flexibler. Die einzigen echten Nachteile sind, dass einige ältere Telefone und einzelne Anbieter sie noch nicht unterstützen.
 
-### Kein physisches Entfernen möglich
-Bei einer physischen SIM kann ein Dieb diese aus dem Telefon nehmen, in sein eigenes Gerät einlegen und Ihre SMS-Verifizierungscodes (2FA) empfangen. Eine eSIM kann nicht physisch entfernt werden – Ihre Nummer bleibt an Ihr Gerät gebunden und die Ortungsfunktion („Wo ist?“) bleibt aktiv.
+Ein Aspekt, der zu wenig Beachtung findet, sind Haltbarkeit und Abfall. Ein physisches SIM-Fach ist ein mechanisches Bauteil — der Schacht kann sich verbiegen, die Goldkontakte oxidieren, und Staub oder Wasser können eindringen. Eine eSIM hat keine beweglichen Teile und sitzt versiegelt im Telefon, weshalb Geräte nur mit eSIM oft bessere Wasserschutzklassen erreichen. Auch der ökologische Unterschied ist real: Etwa vier bis fünf Milliarden physische SIM-Karten werden jährlich produziert, jede aus Plastik plus Verpackung und Versand. eSIM entfernt die Karte, den Schacht, die Verpackung und das Lieferfahrzeug vollständig aus der Gleichung.
 
-### Schutz vor Klonen
-Die eSIM-Spezifikation **SGP.21** der GSMA verhindert das Exportieren eines Profils von einem Chip auf einen anderen. eSIMs sind im Gegensatz zu älteren SIM-Karten praktisch unmöglich zu klonen.
+### eSIM: Vor- und Nachteile
 
-### Fernlöschung bei Geräteverlust
-Sollten Sie Ihr Gerät verlieren, können Sie die eSIM aus der Ferne über Ihren Anbieter deaktivieren lassen – ohne dass der Finder Zugriff auf Ihre Nummer oder Daten erhält.
+| Vorteile | Nachteile |
+|---|---|
+| Sofortige Aktivierung — keine Wartezeit auf Post | Nicht jedes Telefon unterstützt sie |
+| Nichts Physisches, das verloren gehen oder beschädigt werden kann | Nicht jeder Anbieter bietet sie an |
+| Mehrere Profile auf einem Gerät | Viele Reise-eSIMs sind reine Datentarife |
+| Anbieterwechsel ohne Werkzeug | Die Ersteinrichtung benötigt eine WLAN-Verbindung |
+| Schwerer zu stehlen oder zu klonen | Eine Reise-eSIM lässt sich nicht immer auf ein neues Telefon übertragen |
+| Kein Plastikmüll | Manche Geräte müssen carrier-unlocked sein |
+| Dual-SIM auf den meisten aktuellen Telefonen | Manche Festlandchina-Telefone haben keine eSIM-Hardware |
 
-Die [GSMA](https://www.gsma.com/esim/) als internationale Standardisierungsorganisation für die Mobilfunkbranche hat diese Sicherheitsmechanismen in den letzten Jahren kontinuierlich weiterentwickelt und stellt sicher, dass die eSIM-Technologie den höchsten Sicherheitsanforderungen genügt.
+## Das eSIM-Ökosystem
 
+eSIM gehört keinem einzelnen Unternehmen. Drei Gruppen wirken zusammen, damit sie funktioniert:
 
-## 6. Wie richte ich eine eSIM auf meinem iPhone oder iPad ein? – Schritt für Schritt
+1. **Gerätehersteller** (Apple, Samsung, Google und andere) bauen den eUICC-Chip in Telefone ein und liefern die Software aus, mit der Sie Codes scannen und Profile verwalten.
+2. **Mobilfunkbetreiber** (AT&T, Vodafone, EE und ähnliche) erstellen die digitalen Profile und betreiben die sicheren SM-DP+-Server, die sie an Ihr Telefon übermitteln.
+3. **eSIM-Anbieter** (Roami, Airalo und andere) sind keine Mobilfunkbetreiber — sie kaufen Datenkapazität von vielen Netzen im Großhandel und verpacken sie in einfache Reisestarife. Deshalb können Sie eine Roami-Reise-eSIM nutzen, selbst wenn Ihr Heimatbetreiber eSIM gar nicht unterstützt.
 
-Die Einrichtung ist überraschend einfach:
+## Wie weit ist eSIM verbreitet?
 
-- **Schnellübertragung (iPhone zu iPhone):** Legen Sie Ihr neues iPhone neben das alte und folgen Sie den Anweisungen zur Rufnummernmitnahme. Die eSIM wird automatisch übertragen.
-- **QR-Code scannen:** Gehen Sie zu **Einstellungen** → **Mobilfunk** → **eSIM hinzufügen** und scannen Sie den Code Ihres Anbieters.
-- **Anbieter-App (z. B. Roami):** Laden Sie die App, kaufen Sie einen Tarif und tippen Sie auf „eSIM installieren“ – der Rest erfolgt automatisch.
+Die Technologie hat sich schnell skaliert. Stand 2026 unterstützen deutlich mehr als **350 Anbieter in über 80 Ländern** eSIM (GSMA), und diese Zahl hat sich seit 2022 mehr als verdoppelt. Unterstützung ist inzwischen Standard bei den großen US-Netzen und den meisten großen europäischen und asiatischen Betreibern. Wenn Ihr Anbieter eSIM heute nicht anbietet, wird er es sehr wahrscheinlich innerhalb der nächsten ein bis zwei Jahre tun.
 
-Eine detaillierte Anleitung für jedes iPhone-Modell finden Sie in unserem [iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/). Wenn Sie nach der Installation Probleme haben – etwa **eSIM kein Netz** oder die **eSIM Aktivierung fehlgeschlagen** ist – helfen die Lösungen in unserem [eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/) weiter.
+Auf der Geräteseite ist die Hardware inzwischen Mainstream. Apple hat seit dem **iPhone XS und XR 2018** in jedem iPhone eSIM verbaut, und US-Modelle ab dem **iPhone 14** sind eSIM-only — ganz ohne SIM-Schacht. Googles Pixel-Linie unterstützt eSIM seit dem **Pixel 3**, und Samsung hat sie seit der **S20**-Generation in Galaxy S, Note und Z Fold/Flip-Flaggschiffe verbaut. Motorola- und Huawei-Flaggschiffe zogen nach, und Dutzende Mittelklasse-Androids werden inzwischen ebenfalls damit ausgeliefert.
 
-Für Nutzer, die nach der Einrichtung von **iPhone auf Android** wechseln möchten, erklärt unser [eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/) die plattformübergreifende Übertragung ab iOS 18 und Android 15.
+Auf der Anbieterseite ist eSIM bei den großen Netzen in den USA, Kanada, Großbritannien, Westeuropa, Australien, Japan, Südkorea und großen Teilen Südostasiens verfügbar — und die Liste wächst jedes Quartal. Für die genauen Telefonmodelle und die vollständige Anbieterliste sehen Sie sich unsere [eSIM-Kompatibilitätsliste](/compatibility/) an — diese Seite wird laufend aktualisiert.
 
+## Ist eine eSIM sicher?
 
-## 7. Die besten Gründe für den Wechsel – Besonders auf Reisen
+Sicherheit ist eines der stärksten Verkaufsargumente der eSIM:
 
-Die **Vorteile der eSIM** zeigen sich besonders im Ausland:
+- **Sie kann nicht entfernt werden.** Ein Dieb kann aus einem gestohlenen Telefon eine physische SIM auswerfen und sie zum Abfangen von Zwei-Faktor-Codes nutzen; eine eSIM bleibt eingelötet und „Wo ist?" funktioniert weiter.
+- **Sie kann nicht geklont werden.** Die SGP.22-Spezifikation der GSMA wurde entworfen, um zu verhindern, dass ein Profil von einem Gerät auf ein anderes kopiert wird — anders als bei älteren SIMs, die mit kostengünstiger Hardware geklont werden konnten.
+- **Unternehmen können sie sperren.** Über Geräteverwaltung (MDM) können Firmen Mitarbeitern das Hinzufügen oder Entfernen von eSIMs blockieren, damit eine Firmenleitung bleibt, wo sie ist.
 
-- **Sofortige Verbindung:** Kein Suchen nach SIM-Karten-Kiosken am Flughafen. Kaufen Sie Ihren Tarif vor der Abreise und aktivieren Sie ihn bei der Landung.
-- **Zwei Nummern gleichzeitig:** Behalten Sie Ihre Heimatnummer für SMS/Anrufe aktiv und nutzen Sie eine günstige Reise-eSIM für Daten.
-- **Keine Roaming-Überraschungen:** Transparente Preise ohne die hohen Gebühren Ihres Heimatanbieters.
-- **Flexibilität für Mehrtländerreisen:** Sie können für jedes Land ein separates Profil speichern und zwischen ihnen wechseln, ohne mehrere physische Karten mitführen zu müssen.
+Unter der Haube verankert der SGP.22-Standard Sicherheit von Anfang an. Profile werden über einen verschlüsselten Kanal an Ihr Telefon übermittelt, und der eUICC-Chip selbst ist ein manipulationssicheres Secure Element — dieselbe Familie von Hardware-Zertifizierung wie bei Bankkarten und Reisepässen. Jedes Profil ist kryptografisch isoliert, sodass ein Reise-Datentarif und die Leitung Ihres Heimatbetreibers einander nicht auslesen können. Für Alltaganwender ist die praktische Folge einfach: SIM-Swap-Betrug — bei dem ein Krimineller Ihren Anbieter dazu bringt, Ihre Nummer auf eine Karte zu übertragen, die *er* besitzt — wird deutlich schwieriger, weil Ihre Leitung an den Chip in *Ihrem* Gerät gebunden ist statt an ein Stück Plastik, das in ein anderes Telefon geschoben werden kann.
 
-Beliebte Reiseziele wie die **Türkei**, die **USA** oder **Japan** werden von den meisten großen Reise-eSIM-Anbietern abgedeckt. Wer eine **Reise eSIM USA** oder eine **Türkei eSIM** für den Urlaub sucht, kann diese bequem online kaufen und vor der Abreise installieren.
+## Warum Reisende wechseln
 
+Für Menschen, die Grenzen überqueren, sind die Vorteile unmittelbar:
 
-## 8. Häufige Fragen (FAQ)
+- **Verbinden Sie sich, bevor Sie landen.** Statt am Flughafen einen SIM-Kiosk zu suchen, kaufen Sie vorab eine Daten-eSIM für Ihr Reiseziel — sie funktioniert, sobald Sie ankommen. Roami bietet Tarife für über 190 Länder.
+- **Behalten Sie Ihre private Nummer.** Mit zwei aktiven Leitungen bleibt Ihre reguläre Nummer für Anrufe und SMS erreichbar, während eine günstige Reise-eSIM die Daten übernimmt.
+- **Keine Roaming-Überraschungen.** Reise-eSIMs werben mit einem klaren Preis im Voraus — keine täglichen Roaminggebühren oder versteckte Fair-Use-Drosselung.
 
-**Q: Wird mein Telefon noch funktionieren, wenn ich die eSIM lösche?**
-Ja, aber Sie verlieren die Mobilfunkverbindung dieser Leitung. Sie können sie später jederzeit wieder hinzufügen, sofern der Anbieter dies unterstützt.
+Sie fragen sich, was ein Tarif für Ihr Reiseziel tatsächlich kostet? Starten Sie mit dem [Reise-eSIM-Guide](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) oder dem [US-eSIM-Tarifvergleich](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/).
 
-**Q: Verbraucht die eSIM mehr Akku?**
-Nein – die eSIM verbraucht tendenziell sogar minimal weniger Strom, da kein physisches Kartenlesegerät betrieben werden muss.
+Über die offensichtlichen Vorteile hinaus gibt es leisere Vorzüge, die Reisende unterwegs bemerken:
 
-**Q: Ich bin technisch nicht versiert. Ist die eSIM schwer zu bedienen?**
-Ganz und gar nicht. Wenn Sie einen QR-Code scannen können, können Sie eine eSIM nutzen. Die Aktivierung dauert meist unter 60 Sekunden.
+- **Mehrere Reiseziele, ein Gerät.** Statt mit einer Karte für jedes Land zu jonglieren, laden Sie einen Europa-Tarif, einen Asien-Tarif und eine private Leitung gleichzeitig und wechseln beim Überschreiten von Grenzen.
+- **Kein Flughafenaufschlag.** Lokale SIM-Kioske an Flughäfen sind bequem, aber teuer; der Kauf einer Reise-eSIM online vor dem Abflug eliminiert diesen Aufschlag.
+- **Funktioniert, selbst wenn Ihr Heimatbetreiber hinterherhinkt.** Weil globale eSIM-Anbieter ihre eigene Infrastruktur betreiben, bekommen Sie eSIM-Service auch in Ländern, in denen Ihr eigener Anbieter sie noch nicht eingeführt hat.
+- **Planen Sie von der Couch.** Recherchieren, vergleichen und kaufen Sie einen Tarif zu Hause, statt nach einem langen Flug einen Laden zu suchen.
 
-**Q: Kann ich meine bestehende Rufnummer auf eine eSIM übertragen?**
-Ja, die meisten Anbieter bieten diesen Service an. Sie erhalten einen QR-Code, den Sie scannen, um Ihre Nummer auf die eSIM zu übertragen. In Deutschland bieten dies die **Telekom eSIM**, **Vodafone eSIM** und **O2 eSIM** an.
+> 🎁 **Kostenlos testen:** Roami gibt neuen Nutzern eine kostenlose eSIM, damit Sie bestätigen können, dass Ihr Telefon kompatibel ist, bevor Sie Geld ausgeben. [Holen Sie sich Ihre kostenlose eSIM](/free-esim/).
 
-**Q: Was ist der Unterschied zwischen einer eSIM und einer physischen SIM im Dual-SIM-Betrieb?**
-Beide bieten die gleiche Funktionalität – mit einer eSIM können Sie jedoch Profile aktivieren, deaktivieren oder löschen, ohne eine physische Karte wechseln zu müssen. Das ist besonders nützlich, wenn Sie häufiger zwischen Ländern reisen. Bei Problemen mit zwei aktiven eSIMs hilft unser Guide [Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/).
+## Häufig gestellte Fragen
 
+**Gibt es einen Unterschied zwischen einer „eSIM" und einer „eSIM-Karte"?**
+Nein — es ist dieselbe Technologie. „eSIM-Karte" ist eine Angewohnheit aus dem Zeitalter der physischen SIM; weil sie vollständig digital ist, ist keine Karte beteiligt, nur Software auf dem Chip Ihres Telefons.
 
-## 9. Fazit: Warum die eSIM die Zukunft der mobilen Konnektivität ist
+**Kann ich mehrere eSIMs auf einem Telefon halten?**
+Ja. Sie können mehrere Profile herunterladen — private, geschäftliche und Reiseleitungen — und in den Einstellungen zwischen ihnen wechseln.
 
-Wenn Sie noch eine Plastik-SIM nutzen, verpassen Sie:
-- **Komfort** – Tarife in unter einer Minute hinzufügen.
-- **Sicherheit** – Schutz vor SIM-Swap-Betrug.
-- **Flexibilität** – Reisen ohne Roaming-Gebühren.
+**Verbraucht eine eSIM mehr Akku als eine physische SIM?**
+Nein. Sie verbraucht sogar etwas weniger Strom, weil es keinen physischen Kartenleser gibt; der Unterschied ist vernachlässigbar (etwa 1–2 %).
 
-Die **integrierte SIM-Karte** ist nicht nur eine technische Spielerei, sondern ein echter Fortschritt für jeden Nutzer. Sie vereinfacht den Anbieterwechsel, ermöglicht mehrere Nummern auf einem Gerät und macht Auslandsreisen deutlich unkomplizierter.
+**Kann ich eine eSIM gleichzeitig auf mehreren Geräten nutzen?**
+Nein. Ein Profil ist an ein einzelnes Gerät gebunden. Die Nutzung derselben Nummer auf einem anderen Gerät (etwa einem iPad) erfordert eine separate Anbieter-Funktion wie „Nummer teilen".
 
-**Nächste Schritte:** Prüfen Sie die Kompatibilität Ihres Geräts in unserer [eSIM-Kompatibilitätsliste](/compatibility/) und probieren Sie für Ihre nächste Reise eine eSIM aus. Die Einrichtung ist einfacher, als Sie denken – und der Komfort wird Sie überzeugen.
+**Was bedeutet „Dual-eSIM"?**
+Es bedeutet, dass das Telefon zwei eSIM-Leitungen gleichzeitig aktiv halten kann — zum Beispiel eine private Nummer und einen Reise-Datentarif. Unterstützt wird es ab dem iPhone 13 sowie auf vielen Android-Flaggschiffen. Für einen tieferen Blick, wie Dual-SIM-Einrichtung funktioniert, sehen Sie sich unseren [iPhone-eSIM-Kompatibilitäts-Guide](/faq/iphone-11-esim-compatible/) an.
+
+**Ist eSIM in meinem Land verfügbar?**
+Sehr wahrscheinlich. Hunderte Anbieter weltweit unterstützen sie, und selbst wenn Ihr Heimatbetreiber nicht mitmacht, können Sie eine Reise-eSIM eines globalen Anbieters wie Roami nutzen. Prüfen Sie zur Sicherheit die [Kompatibilitätsliste](/compatibility/).
+
+**Wofür steht „eSIM"?**
+Für „Embedded SIM". Das „e" steht für embedded (eingebettet), bedeutet also, dass sie ins Telefon eingebaut ist statt in einen Schacht eingesetzt zu werden. Manche raten auf „electronic", aber der offizielle Begriff ist embedded SIM.
+
+**Ist eine eSIM dasselbe wie eine eUICC?**
+Es sind zwei Seiten derselben Medaille. Die eUICC ist der physische Chip, der in Ihrem Telefon eingelötet ist; die eSIM ist das digitale SIM-Profil, das auf diesem Chip gespeichert ist. Denken Sie an die eUICC als den Tresor und an die eSIM als das, was darin aufbewahrt wird.
+
+**Bekomme ich mit einer eSIM eine Telefonnummer?**
+Das hängt vom Tarif ab. eSIMs eines klassischen Anbieters enthalten meist eine Telefonnummer für Anrufe und SMS — genau wie eine physische SIM. Viele Reise-eSIMs sind reine Datentarife — gut für Karten, Messaging-Apps und Surfen, aber sie geben Ihnen keine lokale Nummer für Telefonate.
+
+**Kann ich eine physische SIM und eine eSIM gleichzeitig nutzen?**
+Ja, auf den meisten modernen Telefonen. Geräte mit Dual-SIM-Unterstützung können eine physische SIM und eine eSIM gleichzeitig betreiben (oft Dual SIM Dual Standby genannt), und neuere Modelle können sogar zwei eSIMs zugleich laufen lassen. So behalten Reisende ihre private Nummer aktiv, während eine Reise-eSIM die Daten übernimmt.
+
+**Wird eSIM physische SIM-Karten vollständig ersetzen?**
+Sehr wahrscheinlich, und es passiert bereits. Apple verkauft in den USA seit dem iPhone 14 eSIM-only-iPhones, und jedes Jahr wechseln mehr Anbieter und Telefonhersteller. Physische SIMs werden nicht über Nacht verschwinden — ältere Telefone und manche Märkte setzen weiterhin darauf — aber die Richtung ist klar.
+
+**Ist eSIM besser als eine physische SIM?**
+Für die meisten Menschen: ja. Sie ist bequemer, schwerer zu verlieren, sicherer und macht Anbieterwechsel einfacher. Die Hauptgründe, bei einer physischen SIM zu bleiben, sind, wenn Ihr Telefon keine eSIM unterstützt oder Ihr Anbieter sie noch nicht anbietet.
+
+**Wann wurde eSIM eingeführt?**
+Die GSMA veröffentlichte den Verbraucher-eSIM-Standard (SGP.22) 2016. Die Samsung Gear S2 Smartwatch war eines der ersten Geräte, die ihn nutzten, und Apple brachte ihn mit dem iPhone XS und XR 2018 in den Mainstream. Es sind etwa ein Jahrzehnt vergangen, aber die letzten Jahre sind die, in denen er wirklich Mainstream wurde.
+
+**Wie viele eSIM-Profile kann mein Telefon speichern?**
+Das hängt vom Modell ab. Aktuelle iPhones können acht oder mehr eSIM-Profile speichern, und viele Android-Flaggschiffe sind ähnlich. Das heißt nicht, dass alle gleichzeitig aktiv sind — die meisten Telefone halten eine oder zwei Leitungen gleichzeitig aktiv, während Sie die restlichen ein- und ausschalten.
+
+**Ist eSIM nur für Reisen?**
+Nein. eSIM wird für normale Heimattarife, Zweitleitungen, Smartwatches, Tablets und sogar einige Autos und Laptops genutzt. Reisen sind nur der Punkt, an dem Alltaganwender sie zuerst bemerken, weil sie den Kauf einer lokalen Karte an jedem Reiseziel überflüssig macht.
 
 ---
-*Basierend auf offizieller technischer Dokumentation von Apple (2025–2026) und GSMA-Standards. Die eSIM-Kompatibilität kann je nach Anbieter und Region variieren.*
+
+*Basierend auf Apple- und GSMA-Dokumentation. eSIM-Kompatibilität kann je nach Anbieter und Region variieren.*
+
+## Quellen
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

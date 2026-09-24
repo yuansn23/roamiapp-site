@@ -1,20 +1,22 @@
 ---
 title: "eSIM Çalışmıyor mu? 2026'da Uyumluluk Hatalarını Düzeltin"
-h1_title: "2026'da eSIM Uyumluluk Hataları Nasıl Düzeltilir"
-description: "eSIM hatalarında mı takıldınız? iPhone ve Android'de etkinleştirme başarısızlıklarını, aktarım sorunlarını ve önyükleme döngülerini nasıl düzelteceğinizi öğrenin. Telefonunuzu 2 dakikada teşhis edin."
-keywords: ["esim desteklenmiyor", "esim bu iphone ile uyumlu değil", "bu esim bu iphone ile uyumlu değil", "esim iphone'da desteklenmiyor", "esim iphone ile uyumlu değil", "telefonum esim desteklemiyor", "esim ağı mevcut değil", "esim etkinleştirilemiyor", "esim çalışmıyor", "iphone uyumsuz esim'e geçti önyükleme döngüsünde takılı kaldı", "sim'iniz esim aktarımı için desteklenmiyor", "sim'iniz esim aktarımı için desteklenmiyor verizon", "iphone 7'ye esim zorla", "esim ağı mevcut değil verizon", "esim yeni iphone'a aktarılmıyor", "esim'i yanlışlıkla sildim", "esim'i yanlışlıkla sildim", "esim yeni iphone'a aktarılamıyor", "iphone'da esim nasıl düzeltilir", "esim neden etkinleşmiyor", "esim nasıl yeniden etkinleştirilir", "esim android'de çalışmıyor", "samsung esim çalışmıyor", "pixel esim desteklenmiyor", "esim ipad'de çalışmıyor", "esim profili süresi doldu", "esim qr kodu geçersiz", "esim kişisel sıcak nokta çalışmıyor", "esim iMessage çalışmıyor", "esim veri dolaşımı çalışmıyor"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
-tags: ["eSIM", "Sorun Giderme", "Etkinleştirme Hataları", "iPhone", "Android"]
+h1_title: "eSIM Çalışmıyor Nasıl Düzeltilir: 2026'da Uyumluluk Hataları"
+description: "eSIM hatalarına mı takıldınız? iPhone ve Android'de aktivasyon başarısızlıklarını, aktarım sorunlarını ve açılış döngülerini düzeltmeyi öğrenin. Telefonunuzu 2 dakikada teşhis edin."
+image: "/img/faq/esim-activation-errors.webp"
+image-1: "/img/faq/esim-activation-errors-1.jpg"
+keywords: ["esim çalışmıyor", "esim desteklenmiyor", "esim uyumlu değil iphone", "esim etkinleştirilemiyor", "esim şebeke kullanılamıyor", "esim yeni iphone'a aktarılmıyor", "esim yanlışlıkla silindi", "esim profil süresi doldu", "esim qr kodu geçersiz", "iphone'da esim nasıl düzeltilir", "esim aktarım hatası", "esim servis yok"]
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
+tags: ["eSIM", "Sorun Giderme", "Aktivasyon Hataları", "iPhone", "Android"]
 toc: true
 
-# Site & SEO
+# Site ve SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
 ui_text:
-  updated_on: "Güncellenme Tarihi"
+  updated_on: "Son güncelleme"
   min_read: "dk okuma"
   toc: "İçindekiler"
 
@@ -26,55 +28,55 @@ breadcrumbs:
     text: "Yardım Merkezi"
     url: "/faq/"
 
-# Sidebar: Popular eSIMs
+# Sidebar: Popüler eSIM'ler
 sidebar_popular:
   title: "Popüler eSIM'ler"
   item_suffix: "eSIM"
   items:
-    - name: "ABD eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Almanya eSIM"
+    - name: "Germany eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Avrupa eSIM"
+    - name: "Europe eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Türkiye eSIM"
+    - name: "Turkey eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japonya eSIM"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Çin eSIM"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
 sidebar_free:
-  title: "Ücretsiz eSIM Alın"
+  title: "Ücretsiz eSIM Talep Et"
   icon: "🎁"
   item_suffix: "Ücretsiz eSIM"
   item_subtitle: "Ücretsiz eSIM"
   items:
-    - name: "Birleşik Krallık eSIM"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
-    - name: "Almanya"
+    - name: "Germany"
       flag: "/img/flags/de.svg"
       url: "/free-esim/"
-    - name: "Tayland"
+    - name: "Thailand"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
     - name: "Hong Kong"
@@ -84,493 +86,459 @@ sidebar_free:
 sidebar_questions:
   title: "Popüler Sorular"
   items:
-    - question: "eSIM etkinleştirme nedir ve nasıl çalışır?"
+    - question: "eSIM aktivasyonu nedir ve nasıl çalışır?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "eSIM nasıl etkinleştirilir?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "iPhone'da (Tüm Modeller) eSIM nasıl etkinleştirilir?"
+    - question: "iPhone'da eSIM nasıl etkinleştirilir (Tüm Modeller)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "En Güncel eSIM Uyumluluk Listesi"
+    - question: "Güncel eSIM Uyumluluk Listesi"
       url: "/compatibility/"
 ---
 
 
-## eSIM Çalışmıyor mu? En Yaygın Sorunlar ve Çözümler
+> **Editör Notu:** "eSIM'im çalışmıyor" sorunlarının büyük bir kısmı bir telefon sorunu çıkar, plan sorunu değil. Bu rehber her şeyden önce sormanız gereken soruyu yanıtlar: *telefonum eSIM kullanmaya gerçekten uygun mu?* 2 dakikalık donanım kontrolünü, Çin/Hong Kong model istisnalarını ve operatör kilitlerini adım adım anlatacağız — böylece cihazınızda asla işe yaramayacak aktivasyon adımlarına bir saat harcamazsınız.
 
-**eSIM teknolojisi güvenilirdir, ancak etkinleştirme birkaç öngörülebilir nedenden dolayı başarısız olabilir.** İyi haber şu ki, çoğu hatayı neyin yanlış olduğunu anladığınızda düzeltmek kolaydır.
+> **Bir hata kodu çözümü mü arıyorsunuz?** Telefonunuz aşağıdaki donanım kontrolünden geçiyorsa ama belirli bir mesaja bakıyorsanız ("Aktivasyon başarısız", "Servis Yok", "QR geçersiz", kurtarma hatası 4013/4014) bu farklı bir sorundur. Hata bazlı referans için [eSIM Derin Sorun Giderme Rehberimize](/faq/esim-deep-troubleshooting-guide-2026/) atlayın.
 
-İşte kullanıcıların karşılaştığı en önemli sorunlar ve bu kılavuzda öğrenecekleriniz:
+## Telefonum eSIM Kullanmaya Uygun mu?
 
-- "**eSIM desteklenmiyor**" veya "**bu eSIM bu iPhone ile uyumlu değil**" – Cihazınızda eSIM donanımı olmayabilir veya bölge kilitli bir sürümünüz olabilir.
-- Etkinleştirme "Etkinleştiriliyor…" da takılı kalır veya "**eSIM etkinleştirilemiyor**" der – Genellikle bir Wi‑Fi veya sunucu sorunudur.
-- "**eSIM ağı mevcut değil**" – Veri dolaşımı kapalıdır veya APN ayarları eksiktir.
-- eSIM yeni telefona aktarılırken aktarım başarısız olur – "**sim'iniz esim aktarımı için desteklenmiyor**" veya "**esim yeni iphone'a aktarılamıyor**".
-- **eSIM'i yanlışlıkla sildiniz** veya **eSIM'i yanlışlıkla sildim** – Panik yapmayın; kurtarma mümkündür.
-- **iPhone uyumsuz eSIM'e geçti önyükleme döngüsünde takılı kaldı** – Nadir fakat ciddi bir sorun.
-- **Verizon müşterileri** "**sim'iniz esim aktarımı için desteklenmiyor verizon**" görür.
+Ayarları açmadan, tek bir QR kodu okutmadan veya destekle iletişime geçmeden önce telefonunuzun gereken yerleşik SIM donanımına gerçekten sahip olduğunu doğrulayın. Bu tek kontrol, tüm "eSIM çalışmıyor" vakalarının kabaca yarısını anında eler.
 
-Eğer esim nasıl alınır konusunda yeniyseniz, önce [eSIM Nedir? rehberimize](/faq/what-is-esim/) göz atın. Her sorunu adım adım çözelim. **esim çalışmıyor** senaryoları veya **iphone'da esim nasıl düzeltilir** hakkında daha geniş bir genel bakışa ihtiyacınız varsa, bu kılavuz en yaygın çözümleri kapsar.
+### Evrensel EID Kontrolü
 
-Genel eSIM etkinleştirme talimatları için [eSIM nasıl etkinleştirilir kılavuzumuza](/faq/how-to-activate-an-esim/) bakın. Alternatif olarak operatörünüzün esim uygulaması üzerinden de profili doğrudan yükleyebilirsiniz. Telefonunuz burada listelenmemişse, [tam eSIM uyumlu telefonlar listesine (2026)](/compatibility/) göz atın.
+Telefonunuzun çeviricisini açın ve şunu yazın:
 
+> **`*#06#`**
 
-## 1. iPhone'da "eSIM Desteklenmiyor" veya "Uyumlu Değil"
+- 32 haneli bir **EID** (eUICC Tanımlayıcısı) içeren bir ekran görünürse telefonunuzda dijital SIM aktivasyonu için gereken yerleşik çip vardır. ✅
+- Ekranda yalnızca **IMEI** numaraları görünüyor ve EID yoksa donanım mevcut değildir. ❌
 
-**"eSIM desteklenmiyor"**, **"bu eSIM bu iPhone ile uyumlu değil"** veya sadece **"esim iphone ile uyumlu değil"** görüyorsanız, temel neden neredeyse her zaman şu üç şeyden biridir:
+**EID görünmüyorsa ne yapmalı:** Burada durun. Eksik çipi hiçbir yazılım güncellemesi, hile veya "zorlama" yöntemi ekleyemez — bu fiziksel bir donanım yokluğudur. Bunun yerine fiziksel SIM kullanın ya da *eSIM'i desteklemesi gerektiği gibi görünen* ancak desteklemeyen telefonlar için Çözüm #4'e bakın.
 
-### A. iPhone Modelinizde eSIM Donanımı Yok
+### EID, IMEI ve ICCID Açıklandı
 
-Yalnızca **XR, XS, XS Max (2018) ve daha yeni** iPhone'lar eSIM'i destekler. Eski modeller (iPhone 8, 8 Plus, iPhone X) desteklemez. Eski bir cihaz kullanıyorsanız, ne denerseniz deneyin **"esim iphone'da desteklenmiyor"** hatasını alırsınız.
+| Tanımlayıcı | Nedir | Size Ne Söyler |
+| :--- | :--- | :--- |
+| **IMEI** | International Mobile Equipment Identity (15 hane) | Telefonunuzun modelini tanımlar — her telefonun bir tane vardır |
+| **EID** | eUICC Tanımlayıcısı (32 hane) | Yerleşik SIM çipinin mevcut olduğunu doğrular — yalnızca eSIM destekli telefonlarda vardır |
+| **ICCID** | Integrated Circuit Card Identifier (19–20 hane) | Kurulduktan sonra belirli bir eSIM profilini tanımlar |
 
-**Bu neden olur?** eSIM, **eUICC** (gömülü Evrensel Entegre Devre Kartı) adı verilen özel bir donanım çipi gerektirir. 2018 öncesi iPhone'lar bu çipe sahip değildir – bu bir yazılım sınırlaması değil, donanım sınırlamasıdır.
+> **Kilit bilgi:** EID = donanım mevcut. EID görüyorsanız telefonunuz fiziksel olarak eSIM'e uygundur. Görmüyorsanız kurduğunuz hiçbir şey bunu değiştirmez.
 
-**Hızlıca nasıl kontrol edersiniz:** `*#06#` tuşlayın. 32 haneli bir EID görüyorsanız, telefonunuzda eSIM vardır. Yalnızca IMEI görünüyorsa, yoktur.
+### Her Numarayı Nerede Bulursunuz
 
-**Ne yapmalısınız:** Bunun yerine fiziksel bir SIM kullanın veya daha yeni bir iPhone'a yükseltin. [Apple Destek – iPhone'da eSIM](https://support.apple.com/en-us/118670) sayfası resmi uyumluluk listesini sağlar.
+Menüyü bilirseniz üç numara da açıkta durur. Her biri için en kısa yol:
 
-### B. iPhone'unuz Çin Anakara Modeli
+| Tanımlayıcı | En Hızlı Yol | Yedek Konum |
+| :--- | :--- | :--- |
+| **IMEI (15 hane)** | `*#06#` tuşlayın — gösterilen ilk numaradır | iPhone: **Ayarlar > Genel > Hakkında**. Android: **Ayarlar > Telefon hakkında** |
+| **EID (32 hane)** | `*#06#` tuşlayıp kaydırın — **8904** ile başlayan uzun numaradır | iPhone: **Ayarlar > Genel > Hakkında > EID**. Samsung: **Ayarlar > Telefon hakkında > Durum** |
+| **ICCID (19–20 hane)** | Yalnızca bir profil kurulduktan sonra görünür | iPhone: **Ayarlar > Genel > Hakkında**. Android: **Ayarlar > Telefon hakkında > SIM kart durumu** |
 
-Çin anakarasında satılan iPhone'lar **eSIM donanımına sahip değildir** (bunun yerine çift fiziksel SIM). Bunun nedeni, Çin düzenlemelerinin yerel akıllı telefonların çift fiziksel SIM kartı desteklemesini gerektirmesidir. "Hücresel Plan Ekle" seçeneğini görseniz bile çalışmaz. Bu, cihazınızı Çin'den veya belirli satıcılardan satın alan kullanıcılar arasında **"esim bu iphone ile uyumlu değil"** hatasının en yaygın nedenidir.
+> **Faydalı bilgi:** her EID **"8904"** ile başlar — bu önek onu bir eUICC tanımlayıcısı olarak işaretler. Ekrandaki uzun numara başka bir şeyle başlıyorsa yanlış değeri okuyorsunuzdur.
 
-**Nasıl tanımlarsınız:** **Ayarlar > Genel > Hakkında > Model Numarası**'na gidin. "CH/A" ile bitiyorsa, bu bir Çin modelidir.
+### "eSIM Ekle" Düğmesi Testi
 
-**Ne yapmalısınız:** eSIM'i etkinleştiremezsiniz. Fiziksel bir seyahat SIM'i kullanın veya telefonunuzu satıp küresel bir sürüm satın alın.
+`*#06#` bir EID gösteriyorsa ama hâlâ "eSIM desteklenmiyor" görüyorsanız **Ayarlar > Hücresel**'i açın ve **"eSIM Ekle"** ya da **"Hücresel Plan Ekle"** arayın. Seçenek oradaysa ama okuttuğunuzda başarısız oluyorsa büyük olasılıkla bir **operatör kilidi** veya **bölge kısıtlamasıyla** karşı karşıyasınızdır — ikisi de aşağıda ele alınır.
 
-### C. iPhone'unuz Operatör Kilitli
+### Ayarlar Arama Yöntemi
 
-Bazı operatörler (özellikle ABD'de) iPhone'ları kendi ağlarına kilitler. Farklı bir sağlayıcıdan (örneğin, bir seyahat eSIM'i) bir eSIM etkinleştirmeye çalışırsanız, **"eSIM desteklenmiyor"** veya operatörün eSIM'i desteklemediğini belirten bir hata mesajı görürsünüz. Bazı operatörlerin yalnızca fiziksel SIM yuvasını kilitlerken eSIM'i kilitsiz bıraktığını, ancak birçoğunun her ikisini de kilitlediğini unutmayın.
+Elinizde çevirici yoksa (bazı tabletler ve katlanabilirler gizler) veya `*#06#` kafa karıştırıcı bir ekran verdiyse telefonunuzun kendi arama çubuğu ikinci en hızlı kontroldür.
 
-**Nasıl kontrol edersiniz:** **Ayarlar > Genel > Hakkında > Operatör Kilidi**. "SIM kısıtlaması yok" yazmalıdır. "SIM kilitli" yazıyorsa, kilidi açmak için operatörünüzle iletişime geçin.
+- **iPhone:** **Ayarlar**'ı açın, listenin en üstünden aşağı kaydırarak arama kutusunu açın ve **"eSIM"** yazın. **"eSIM Ekle"** veya **"Hücresel Plan Ekle"** sonucu özelliğin aktif olduğu anlamına gelir.
+- **Samsung:** **Ayarlar**'ı açın, üstteki **büyüteç simgesine** dokunun ve **"eSIM"** yazın. **"SIM Kart Yöneticisi"** (veya "Mobil plan ekle") görünüyorsa varyantınızda çip vardır.
+- **Pixel:** **Ayarlar > Ağ ve internet > SIM'ler** yolunu açın. **"Bunun yerine SIM indirilsin mi?"** görüyorsanız hazırsınız. Yalnızca fiziksel SIM'inizi listeleyen, indirme seçeneği olmayan bir ekran, eUICC çipi olmadığı anlamına gelir.
 
-**Ne yapmalısınız:** Kilidi açtıktan sonra (genellikle cihazınızın ödemesi tamamlandığında ücretsizdir), telefonunuzu yeniden başlatın ve tekrar deneyin.
+> **Arama sonucu yok = donanım yok.** Yaklaşık 2018'den sonra satılan bir telefon Ayarlar aramasında "eSIM" için hiçbir şey döndürmüyorsa, elinizde çipsiz gönderilen bir bölge veya bütçe varyantı vardır.
 
-### D. Güncel Olmayan iOS Sürümü
+### Model Numarası Araması
 
-eSIM desteği iOS 16 ve sonrasında önemli ölçüde iyileştirilmiştir. Hala iOS 12 veya 13 kullanıyorsanız, bazı modern eSIM profilleri çalışmaz.
+İkinci el alıyorsunuz ya da açamadığınız bir telefonu kontrol ediyorsunuz? Model numarası saniyeler içinde kesinleştirir.
 
-**Nasıl kontrol edersiniz:** **Ayarlar > Genel > Yazılım Güncelleme**.
+- **iPhone:** **Ayarlar > Genel > Hakkında > Model Numarası**, sonra **A önekli tanımlayıcıya** (örn. **A2111**) çevirmek için numaraya dokunun. Parça numarasında **/A** öncesindeki harfler satış bölgesini kodlar — tam sonek haritası Bölüm 2'dedir.
+- **Samsung:** **Ayarlar > Telefon hakkında > Model numarası** (örn. **SM-S921U1**). Son karakter ipucudur: **U** = ABD operatörü, **U1** = ABD kilitsiz, **B** = Avrupa/global, **0** = Çin/Hong Kong (Snapdragon).
+- **Pixel:** **Ayarlar > Telefon hakkında > Model**. Pixel model dizileri bölgeye ve operatöre göre değişir — Japonya ve bazı ABD operatör varyantları eSIM'i kısıtlar; bu yüzden belirli kodu çapraz kontrol edin veya `*#06#` tuşlayın.
 
-**Ne yapmalısınız:** En son iOS'a güncelleyin. Ardından başarısız olan eSIM profilini (varsa) silin ve QR kodunu yeniden tarayın.
+> **Pratik kural:** model numarası bir Çin/bölge sonekiyle bitiyorsa (veya Samsung'da bir ABD operatör sonekiyle), eSIM'in çalıştığını varsaymadan önce `*#06#` ile doğrulayın. Model numarası artı EID birlikte %100 cevap verir.
 
-Cihaza göre daha ayrıntılı uyumluluk bilgisi için [iPhone eSIM uyumluluk kılavuzumuza](/faq/iphone-11-esim-compatible/) ve [Samsung Galaxy eSIM uyumluluk kılavuzumuza](/faq/samsung-s20-esim-compatible/) bakın. Google Pixel kullanıcıları için ayrıca [Pixel eSIM uyumluluk kılavuzumuz](/faq/google-pixel-6-esim-compatible/) vardır.
+### Bir Telefon EID Gösterirken eSIM'i Neden Yine Reddeder
 
+| Senaryo | EID Var mı? | eSIM Çalışır mı? | Neden? |
+| :--- | :--- | :--- | :--- |
+| iPhone XS/XR ve yenileri (global) | ✅ Evet | ✅ Evet | Dijital SIM profillerine tam destek |
+| iPhone XS/XR (Çin modeli) | ❌ Hayır | ❌ Hayır | Çift fiziksel SIM için donanım kaldırıldı |
+| Samsung S20 FE (ABD operatörü) | ✅ Evet | ❌ Hayır | Operatör özelliği yazılımda kapattı |
+| Google Pixel 4a (Japonya) | ✅ Evet | ❌ Hayır | Operatör işlevi kilitledi |
+| Operatör kilitli iPhone (AT&T/T-Mobile) | ✅ Evet | ❌ Hayır (diğer operatörler için) | Şebeke kilidi diğer sağlayıcıların profillerini bloke eder |
+| Kilitsiz iPhone (her bölge) | ✅ Evet | ✅ Evet | Tam destek |
 
-## 2. eSIM'im Neden Etkinleşmiyor? "eSIM Etkinleştirilemiyor" Hatasını Düzeltin
 
-Bir eSIM eklemeye çalıştığınızda 10 dakikadan fazla "Etkinleştiriliyor…" da takılı kalıyorsa veya **"esim etkinleştirilemiyor"** görüyorsanız, sorun genellikle internet bağlantınız veya operatörün etkinleştirme sunucusudur.
+## iPhone'da eSIM Desteklenmiyor veya Uyumlu Değil
 
-### Bu Neden Olur?
+**"eSIM desteklenmiyor"**, **"bu eSIM bu iPhone ile uyumlu değil"** veya kısaca **"eSIM uyumlu değil iPhone"** görüyorsanız neden neredeyse her zaman şu beş şeyden biridir — ve her biri *planınızla* değil, *cihazınızla* ilgilidir.
 
-eSIM etkinleştirmesi, telefonunuzun operatörünüzün **SM‑DP+ sunucusuna** (Abonelik Yöneticisi Veri Hazırlama) bağlanmasını gerektirir. Bu sunucu, eSIM profilini cihazınıza güvenli bir şekilde teslim eder. Wi‑Fi'niz kararsızsa, sunucu meşgulse veya QR kodu yanlış bilgi içeriyorsa, etkinleştirme takılabilir.
+### iPhone Modeliniz eSIM Donanımından Önceye Ait
 
-### "eSIM'im neden etkinleşmiyor?" için Adım Adım Çözüm
+Yalnızca **XR, XS, XS Max (2018) ve yenisi** iPhone'lar yerleşik çipe sahiptir. iPhone 8, 8 Plus ve iPhone X'te yoktur; bu yüzden ne denersek deneyelim **"eSIM desteklenmiyor"** döner. eUICC çipi o kartlarda basitçe mevcut değildir — bu bir donanım sınırlamasıdır, ayar sorunu değil.
 
-1. **Wi‑Fi'nizi kontrol edin.** eSIM profili internet üzerinden indirilmelidir. Farklı bir Wi‑Fi ağına geçin (halka açık sıcak noktalardan kaçının) veya varsa diğer SIM'inizin mobil verisini kullanın.
-2. **Telefonunuzu yeniden başlatın.** Basit bir yeniden başlatma geçici aksaklıkları giderir.
-3. **Uçak Modu'nu açıp kapatın.** Uçak Modu'nu 30 saniye boyunca açın, ardından kapatın. Bu, ağ yığınını sıfırlar.
-4. **Bekleyin – silmeyin.** Bazen etkinleştirme 5–10 dakika sürebilir çünkü operatörün SM‑DP+ sunucusu meşguldür. Profili etkinleştirme ortasında silerseniz, kalıcı olarak kaybedebilirsiniz.
-5. **Manuel girişi deneyin.** Bir QR kodu kullanıyorsanız, "Ayrıntıları Manuel Gir" seçeneğine dokunun ve e‑postanızdan SM‑DP+ adresini ve etkinleştirme kodunu girin.
+**Hızlı kontrol:** `*#06#` tuşlayın. 32 haneli EID demek hazırsınız demektir; yalnızca IMEI demek değilsiniz demektir.
 
-Bunların hiçbiri işe yaramazsa, eSIM sağlayıcınızla iletişime geçin – QR kodunu yeniden oluşturmaları gerekebilir. Daha gelişmiş etkinleştirme hata ayıklaması için **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/esim-deep-troubleshooting-guide-2026/)** 'ya bakın.
+**Ne yapmalı:** Fiziksel SIM kullanın veya iPhone XR ya da yenisine yükseltin. Resmi liste [Apple Destek — iPhone'da eSIM kurulumu](https://support.apple.com/en-us/118670) sayfasındadır.
 
-[GSMA](https://www.gsma.com/esim/), eSIM etkinleştirmesinin dayandığı teknik standartları sağlar – operatörler ve cihaz üreticileri, sorunsuz etkinleştirme için bu spesifikasyonlara uymalıdır.
+### iPhone'unuz Çin Anakarası Modeli
 
+Çin anakarasında satılan iPhone'lar **iki fiziksel SIM yuvası ve eSIM donanımı olmadan** gelir. Çin düzenlemeleri yerli akıllı telefonları çift fiziksel SIM'e iter; Apple bu cihazlarda yerleşik çipi kaldırmıştır. "Hücresel Plan Ekle" seçeneği görünse bile tamamlanmaz — Çin'de veya belirli satıcılardan cihaz alan alıcılar arasında "bu eSIM bu iPhone ile uyumlu değil" mesajının tek en yaygın nedeni budur.
 
-## 3. Kurulumdan Sonra "eSIM Ağı Mevcut Değil"
+**Nasıl tanımlanır:** **Ayarlar > Genel > Hakkında > Model Numarası**. **"CH/A"** ile bitiyorsa Çin anakarası modelidir. (Tam sonek tablosu aşağıdaki Bölüm 2'de.)
 
-eSIM'i başarıyla kurdunuz, ancak durum çubuğunda **"eSIM ağı mevcut değil"** görünüyor veya sinyaliniz yok. Bu, gezginler arasında son derece yaygındır.
+**Ne yapmalı:** CH/A bir cihazda eSIM'i etkinleştirmenin bir yolu yoktur. Fiziksel bir seyahat SIM'i kullanın ya da telefonu satıp global bir sürüm alın.
 
-### Bu Neden Olur?
+### iPhone'unuz Operatör Kilitli
 
-- **Veri Dolaşımı kapalıdır** – Çoğu seyahat eSIM'i, ortak ağlar üzerinden bağlandıkları için Veri Dolaşımı'nı etkinleştirmenizi gerektirir. Bu teknik bir gerekliliktir, gerçek bir dolaşım ücreti değildir.
-- **APN ayarları eksiktir** – Bazı eSIM sağlayıcıları, veriyi doğru yönlendirmek için APN'yi (Erişim Noktası Adı) manuel olarak girmenizi gerektirir.
-- **Kapsama alanı dışındasınız** – eSIM sağlayıcınızla ortaklık yapan yerel operatörün konumunuzda sinyali yoktur.
-- **eSIM operatör tarafında etkinleştirilmemiştir** – Bazı seyahat eSIM'leri ikinci bir adım gerektirir (örneğin, bir mesaj gönderme veya bir portala giriş yapma).
+Bazı operatörler — özellikle ABD'li olanlar — iPhone'ları kendi şebekelerine kilitler. Farklı bir sağlayıcıdan (seyahat eSIM'i gibi) profil etkinleştirmeye çalışmak o zaman "eSIM desteklenmiyor" veya "operatör desteklemiyor" mesajı döndürür. Bazı operatörlerin yalnızca fiziksel SIM yuvasını kilitleyip eSIM yuvasını açık bıraktığını, çoğunun ise ikisini de kilitlediğini unutmayın.
 
-### "eSIM Ağı Mevcut Değil" Nasıl Düzeltilir
+**Nasıl kontrol edilir:** **Ayarlar > Genel > Hakkında > Operatör Kilidi**. **"SIM kısıtlaması yok"** yazmalıdır. "SIM kilitli" yazıyorsa kilidin açılması gerekir. Tam operatör kilidi rehberi için Bölüm 3'e bakın.
 
-1. **Veri Dolaşımı'nı açın:** **Ayarlar > Hücresel > [eSIM'iniz]** > **Veri Dolaşımı** anahtarını AÇIN. Bu, **"esim ağı mevcut değil verizon"** ve benzeri hatalar için #1 çözümdür.
-2. **APN ayarlarını kontrol edin:** **Ayarlar > Hücresel > [eSIM'iniz] > Hücresel Veri Ağı**'na gidin. eSIM sağlayıcınız tarafından sağlanan APN'yi girin (genellikle "internet" veya "globaldata"). Belirtilmedikçe kullanıcı adı/şifreyi boş bırakın.
-3. **Manuel olarak bir ağ seçin:** **Ayarlar > Hücresel > [eSIM'iniz] > Ağ Seçimi**'nde "Otomatik"i kapatın ve farklı bir ortak ağ seçin.
-4. **Değişiklikleri yaptıktan sonra telefonunuzu yeniden başlatın.**
+### iOS Sürümünüz Güncel Değil
 
-Bir **Verizon** müşterisiyseniz ve Verizon dışı bir eSIM kullanmaya çalışıyorsanız, Verizon bazı cihazlarda eSIM'i kendi profillerine kilitlediği için **"esim ağı mevcut değil verizon"** da görebilirsiniz. Önce cihazınızın kilidini açın.
+Dijital SIM desteği iOS 16 ve sonrasında çok iyileşti. iOS 12 veya 13'te bazı modern operatör profilleri hiç kurulmaz.
 
-Uyumlu cihazların tam listesi için [tam eSIM uyumlu telefonlar listesine (2026)](/compatibility/) bakın.
+**Nasıl kontrol edilir:** **Ayarlar > Genel > Yazılım Güncelleme**.
 
+**Ne yapmalı:** En son iOS'a güncelleyin, yarı kurulmuş herhangi bir profili silin, sonra QR kodunu yeniden okutun.
 
-## 4. "SIM'iniz eSIM Aktarımı İçin Desteklenmiyor" – Aktarım Başarısız Oluyor
+### Bu iPhone iPhone 14'te eSIM'i Desteklemiyor
 
-Bir eSIM'i eski telefondan yenisine taşırken **"sim'iniz esim aktarımı için desteklenmiyor"** veya **"esim yeni iphone'a aktarılamıyor"** görebilirsiniz. Bu, bazı operatörler eSIM aktarımına izin vermediği için olur – eSIM kalıcı olarak orijinal cihazın EID'sine bağlanır.
+Bir iPhone 14 (ABD sürümü) her zaman eSIM'i desteklemelidir — ABD modelinde hiç fiziksel SIM tepsisi yoktur. Yine de bu hatayı döndürüyorsa nadir bir **eUICC donanım arızasıyla** karşı karşıyasınızdır. Ayarları kurcalamak yerine donanım teşhisi için Apple Destek'e başvurun.
 
-### Bu Neden Olur?
+Model model tam iPhone listesi için [iPhone eSIM uyumluluk rehberimize](/faq/iphone-11-esim-compatible/) bakın.
 
-Bir eSIM'i etkinleştirdiğinizde, operatörünüz onu telefonunuzun **EID'sine** (eUICC Tanımlayıcısı) bağlar. Bazı operatörler bu bağlamayı yeni bir cihaza aktarmanıza izin verir; bazıları izin vermez. Seyahat eSIM'leri neredeyse her zaman tasarım gereği aktarılamaz.
+Samsung sahipleri [Samsung Galaxy eSIM rehberine](/faq/samsung-s20-esim-compatible/), Pixel sahipleri [Google Pixel eSIM rehberine](/faq/google-pixel-6-esim-compatible/) bakmalıdır.
 
-**Hem iPhone hem de Android'i kapsayan adım adım talimatlar için (platformlar arası taşımalar dahil), [eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/) bölümüne bakın.**
 
-### Özellikle Verizon Müşterileri İçin
+### eSIM Desteklenmiyor: Donanım Yazılım mı Operatör mü
 
-Verizon kullanıcıları, bir eSIM'i yeni bir telefona taşımaya çalışırken sıklıkla **"sim'iniz esim aktarımı için desteklenmiyor verizon"** hatasını görür. Verizon'un sistemi, yeni cihazda etkinleştirmeden önce **eSIM'i eski cihazdan serbest bırakmanızı** gerektirir.
+Her "eSIM desteklenmiyor" vakası — her telefonda, her operatörde — üç kovadan birine düşer. Kova adını söylemek, sorunun düzeltilebilir olup olmadığını anında bildirir.
 
-**Verizon için çözüm:**
-- Eski telefonda: **Ayarlar > Hücresel > Verizon eSIM'ine dokunun > Hücresel Planı Kaldır** (bu, Verizon'un sunucularından serbest bırakır).
-- Ardından yeni telefonda: **My Verizon uygulamasını** açın, giriş yapın ve **Hesap > Cihazlar > eSIM'i Etkinleştir**'e gidin. Yeni bir eSIM profili indirmek için yönergeleri izleyin.
+| Kova | Görünümü | Düzeltilebilir mi? | Hamleniz |
+| :--- | :--- | :--- | :--- |
+| **Donanım** | `*#06#`'da EID yok; 2018 öncesi iPhone; Çin modeli (CH/A); eUICC'siz bütçe Android | ❌ Hayır | Fiziksel SIM veya telefonu yükseltin |
+| **Yazılım** | EID mevcut ama özellik gizli veya OS eski (operatör kapalı Samsung S20 FE, eski iOS) | ✅ Genellikle | OS'u güncelleyin veya operatör kısıtlamasını kaldırın |
+| **Operatör** | EID mevcut, menü görünüyor ama başka sağlayıcının planı etkinleşmiyor | ✅ Evet | Cihazın kilidini açın (Bölüm 3), sonra yeniden okutun |
 
-### "eSIM Aktarılamıyor" için Genel Çözüm
+**30 saniyelik yönlendirme testi:** `*#06#` tuşlayın.
+- **EID yok** → donanım. Burada durun — kurduğunuz hiçbir şey bunu değiştirmez.
+- **EID var ama "eSIM Ekle" akışı başarısız** → yazılım veya operatör. İkisi de düzeltilebilir; okumaya devam edin.
 
-1. **Yerleşik aktarım seçeneğini deneyin:** Yeni iPhone kurulumu sırasında "Yakındaki iPhone'dan eSIM Aktar" seçeneğini seçin. Her iki telefonu da yakın tutun ve iOS 16+ olsun.
-2. **Operatörün uygulamasını kullanın:** Çoğu büyük operatör (T‑Mobile, AT&T, Google Fi, US Mobile), çevrimiçi hesabınızdan yeni bir eSIM QR kodu talep etmenize olanak tanır. Bu kodu yeni telefonda tarayın.
-3. **Destek ile iletişime geçin:** eSIM bir seyahat sağlayıcısından ise (örneğin, Airalo, Holafly), genellikle aktarımı desteklemezler – yeni bir plan satın almalısınız.
+Bu tek sonuç, Roami'de gördüğümüz "desteklenmiyor" bildirimlerinin yaklaşık 10'da 9'u için doğru çözüme yönlendirir.
 
-### "Force eSIM iPhone 7" Ne Olacak?
 
-Bazı kullanıcılar, desteklenmeyen bir telefonda eSIM'i etkinleştirmeyi umarak **"force esim iphone 7"** arar. **Bu imkansızdır.** iPhone 7'de eSIM donanımı yoktur. Hiçbir yazılım korsanı bunu ekleyemez. Aynısı iPhone 6s, 8 ve iPhone X için de geçerlidir. eSIM'i "zorlamanın" tek yolu, bir iPhone XR veya daha yenisine yükseltmektir.
+## Çin Hong Kong ve Makao Model Rehberi
 
-**"esim yeni iphone'a aktarılmıyor"** sorununuz buysa ve operatörünüz aktarımı destekliyorsa, yerleşik iOS aktarım seçeneği genellikle çalışır. Daha fazla yardım için [platformlar arası aktarım kılavuzuna](/faq/how-to-transfer-esim-between-iphone-and-android/) bakın.
+Telefonunuzun nerede satıldığı hangi donanıma sahip olduğunu belirler. Bu, bölgesel eSIM'sizlik durumunu en hızlı dahil etme/dışlama yoludur.
 
+### Çin Modeli Hızlı Referansı
 
-## 5. eSIM'i Yanlışlıkla Sildiniz mi? Nasıl Yeniden Etkinleştirilir
+| Model Numarası Sonu | Bölge | eSIM Desteği |
+| :--- | :--- | :--- |
+| **CH/A** | Çin anakarası | ❌ Hayır (çift fiziksel SIM) |
+| **HK/A** | Hong Kong | ⚠️ Değişken (bazı modeller fiziksel + dijital SIM destekler) |
+| **LL/A** | ABD | ✅ Evet |
+| **ZA/A** | Kanada | ✅ Evet |
+| **J/A** | Japonya | ✅ Evet (bazı operatör modelleri hariç) |
+| **B/A** | İngiltere/Avrupa | ✅ Evet |
+| **X/A** | Avustralya/Yeni Zelanda | ✅ Evet |
 
-**eSIM'i yanlışlıkla sildiyseniz** veya **eSIM'i yanlışlıkla sildim**, panik yapmayın. Kurtarma, eSIM'in türüne bağlıdır.
+### Çin Anakarası iPhone eSIM Durumu
 
-### Seyahat eSIM'leri (tek seferlik kurulum) İçin
+- **Çin anakarasında satılan tüm iPhone'lar** (iPhone 16 serisi hariç) çift fiziksel SIM'e sahiptir ve eSIM yoktur.
+- **Çinli Android telefonlar** — Xiaomi, Oppo, Vivo, Huawei — yerli satılanlar da tipik olarak eSIM çipinden yoksundur.
+- **Uluslararası bir telefonla Çin'e girerseniz:** uluslararası seyahat eSIM'leriyle çalışır, ama yerel Çin operatörleri turistlere eSIM sunmaz; bu yüzden yine de Roami gibi bir sağlayıcıdan seyahat planı gerekir.
 
-Çoğu seyahat eSIM'i tek kurulum için tasarlanmıştır. Profili silerseniz, aynı QR kodunu yeniden tarayamazsınız – "zaten kullanıldı" veya "geçersiz" diyecektir.
+### Hong Kong iPhone eSIM Durumu
 
-**Ne yapmalısınız:**
-- E‑postanızı kontrol edin: Bazı sağlayıcılar yeni bir QR kodu talep etmenize izin verir (örneğin, Roami desteği yeniden oluşturabilir).
-- Aksi takdirde, yeni bir eSIM planı satın almanız gerekir.
+- **iPhone modelleri:** Hong Kong iPhone'ları genellikle **eSIM + fiziksel SIM** (her birinden bir tane) veya modele göre çift fiziksel SIM destekler. Model sonekinizi kontrol edin.
+- **Operatörler:** bazı Hong Kong operatörleri (CMHK, 1010, SmarTone) abonelere eSIM sunar ama ön ödemeli eSIM nadirdir.
+- **Gezginler için:** uluslararası bir seyahat eSIM'i, yerel Hong Kong eSIM'i edinmeye çalışmaktan daha basit ve güvenilirdir.
 
-### Operatör eSIM'leri (Verizon, T‑Mobile, vb.) İçin
+### Makao iPhone eSIM Durumu
 
-Bunlar genellikle kurtarılabilir. Operatörün uygulamasını açın veya çevrimiçi hesabınıza giriş yapın ve "eSIM'i yeniden indir" veya "Yeni QR kodu al" seçeneğini arayın. Kimliğinizi doğrulamanız gerekebilir.
+- **Hong Kong'ya benzer:** çoğu Makao iPhone'u Hong Kong'dan ithal edilir ve eSIM + fiziksel SIM destekler.
+- **CTM** (Makao'nun ana operatörü) abonelere eSIM sunar ama turistlere sunmaz.
 
-### Fabrika Ayarlarına Sıfırlamadan Sonra eSIM Nasıl Yeniden Etkinleştirilir
+### Çin Modelleri eSIM'i Neden Bırakır
 
-Telefonunuzu önce eSIM'i kaldırmadan sıfırlarsanız, profil hala saklanmış ancak etkin değil olabilir. **Ayarlar > Hücresel > Hücresel Plan Ekle**'ye gidin – bazen eski plan "Mevcut" olarak görünür. Yeniden etkinleştirmek için dokunun.
+Bu Apple veya Android markalarının maliyet kısması değildir — düzenlemedir. Çin anakarası, orada satılan telefonların çift fiziksel SIM için sertifikalandırılmasını şart koşar ve yeniden yazılabilir bir eSIM profili bu yerli çerçeveye uymaz. Pratik sonuç:
 
-Değilse, yukarıdaki kurtarma adımlarını izleyin.
+- **Apple**, Çin anakarası iPhone'ları **iki fiziksel nano-SIM yuvası** ve eUICC çipi olmadan gönderir.
+- **Xiaomi, Oppo, Vivo, Honor ve Huawei**, aynı telefonun global sürümünde olsa bile Çin yerli derlemelerinden eSIM'i söker.
+- **Yurt dışına götürülen bir Çin telefonu eSIM'i geri alamaz** — bu donanım yokluğudur, yazılım engeli değil. Tersi de geçerlidir: Çin'e giren bir uluslararası telefon seyahat eSIM'leriyle çalışır ama üç büyük Çin operatörü (China Mobile, China Unicom, China Telecom) turistlere eSIM satmaz.
 
-Farklı operatörlerde **"esim nasıl yeniden etkinleştirilir"** hakkında genel rehberlik için evrensel cevap: **eSIM sağlayıcınızla sipariş numaranızla iletişime geçin ve yeni bir QR kodu veya yeniden etkinleştirme isteyin.**
+**Çözüm:** telefonu Çin anakarasında aldıysanız fiziksel bir seyahat SIM'i planlayın — ya da global model bir telefon alın. Eksik çipi ekleyen bir kilit açma, jailbreak veya uygulama yoktur.
 
-eSIM'inizi tekrar yanlışlıkla silme konusunda endişeleniyorsanız, QR kodunuzun veya etkinleştirme ayrıntılarınızın bir yedeğini güvenli bir yerde (şifre yöneticisi veya bulut depolama gibi) saklamanızı öneririz. Adım adım kurtarma talimatları için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
+### A-Numarasıyla Modelinizi Tanımlama
 
+Parça numarası soneki (CH/A, LL/A vb.) hızlı filtredir ama **A-numarası** kesin kimliktir. Her neslin izlediği deseni iPhone 11 üzerinden alın:
 
-## 6. iPhone Uyumsuz eSIM'e Geçti – Önyükleme Döngüsünde Takılı Kaldı
+| iPhone 11 Model | Bölge | eSIM? |
+| :--- | :--- | :--- |
+| **A2111** | Amerika Birleşik Devletleri | ✅ Evet |
+| **A2221** | Çin anakarası | ❌ Hayır (çift fiziksel SIM) |
+| **A2223** | Hong Kong / Makao | ✅ Evet (eSIM + fiziksel) |
 
-Bu nadir fakat ciddi bir hatadır: **"iphone uyumsuz esim'e geçti önyükleme döngüsünde takılı kaldı"**. Bu genellikle bozuk olan veya cihazınızın ürün yazılımını desteklemeyen bir operatörden bir eSIM profili yüklemeye çalıştığınızda olur. Telefon Apple logosunda takılı kalır veya sürekli yeniden başlar.
+**Nasıl kullanılır:** A-numaranızı bulun (**Ayarlar > Genel > Hakkında > Model Numarası**, sonra A önekli kodu görmek için numaraya dokunun) ve Apple'ın model listesiyle eşleştirin. Bir satıcı "kilitsiz küresel eSIM iPhone" ilan ettiyse ama A-numarası bir Çin koduysa ilan yanlıştı — uzaklaşın ya da fiziksel SIM planlayın.
 
-### Bu Neden Olur?
 
-Bir eSIM yüklediğinizde, profil cihazınızın hücresel taban bant ürün yazılımında düşük seviyeli değişiklikler yapar. Profil uyumsuzsa (örneğin, cihaz modelinizi veya bölgenizi desteklemeyen bir operatörden), taban bant düzgün başlatılamayabilir ve bu da önyükleme döngüsüne neden olur.
+## Operatör Kilidi ve Nasıl Kaldırılır
 
-### Nasıl Düzeltilir
+Operatör kilidi, tamamen yetenekli bir telefonun eSIM'i reddetmesinin ikinci en yaygın nedenidir. Bu, operatörünüzün cihaza koyduğu bir yazılım kısıtlamasıdır, donanım sınırı değil.
 
-1. **iPhone'unuzu zorla yeniden başlatın:**
-   - **Sesi Aç** düğmesine basın ve hızla bırakın.
-   - **Sesi Kıs** düğmesine basın ve hızla bırakın.
-   - Kurtarma modu ekranını görene kadar **Yan düğmeyi** basılı tutun (daha önce bırakmayın).
-2. **Bir bilgisayara bağlanın** Finder (macOS) veya iTunes (Windows) ile.
-3. **"Güncelle"** seçeneğini seçin ("Geri Yükle" değil) – bu, verilerinizi silmeden iOS'u yeniden yükleyecektir. Bozuk eSIM profili kaldırılabilir.
-4. Bu başarısız olursa, telefonu tamamen silen **"Geri Yükle"** yapmanız gerekebilir. Geri yüklemeden sonra, yeni olarak kurun (kötü eSIM profilini içeren bir yedekten geri yüklemeyin).
+### Operatör Kilidi Ne Yapar
 
-### Önleme
+Bir telefon "SIM kilitli" olduğunda yalnızca onu satan operatörün SIM'lerini ve eSIM profillerini kabul eder. Başka bir sağlayıcıdan seyahat eSIM'i eklemeye çalışmak "eSIM desteklenmiyor" veya "SIM desteklenmiyor" tetikler. Yerleşik çip mevcuttur ve çalışır — operatör yalnızca ona erişimi bloke etmektedir.
 
-eSIM profillerini her zaman güvenilir sağlayıcılardan indirin. İnternette bulunan rastgele QR kodlarını yüklemeye çalışmayın.
+### Kilit Durumunuzu Nasıl Kontrol Edersiniz
 
-iPhone'unuzda iki eSIM kullanıyorsanız ve çakışmalarla karşılaşıyorsanız, **[iPhone Çift eSIM Çalışmıyor mu? 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzu özel çift‑eSIM sorun giderme adımlarını kapsar.
+1. iPhone'da: **Ayarlar > Genel > Hakkında > Operatör Kilidi**. **"SIM kısıtlaması yok"** yazmalıdır.
+2. Android'de (Samsung): **Ayarlar > Telefon hakkında > Durum** yoluna gidin ve SIM kilidi alanına bakın.
+3. Android'de (Pixel): **Ayarlar > Telefon hakkında > SIM durumu**.
 
-iPad ve Apple Watch eSIM sorunları için [iPad ve Apple Watch eSIM kılavuzumuza](/faq/ipad-apple-watch-esim-support-guide/) bakın.
+### ABD Operatör Kilit Açma Politikaları
 
+| Operatör | Kilit Açma Şartı |
+| :--- | :--- |
+| **AT&T** | Kilit açılmadan önce cihaz tamamen ödenmiş ve 60 gün aktif olmalı |
+| **T-Mobile** | Cihaz ödenmiş ve 40 gün aktif; T-Mobile uygulamasından talep edilir |
+| **Verizon** | Çoğu telefon satın alımdan 60 gün sonra otomatik kilidi açılır |
 
-## 7. "eSIM Yeni iPhone'a Aktarılmıyor" – Yaygın Nedenler
+### Cihazınızın Kilidini Nasıl Açarsınız
 
-Yeni bir iPhone'unuz var ve eSIM'inizi taşımak istiyorsunuz, ancak **"esim yeni iphone'a aktarılmıyor"**. İşte nedeni:
+1. **Operatörünüzden kilidi açmasını isteyin** — telefon ödendikten sonra genellikle ücretsizdir ve çoğu ABD operatörü uygulamadan veya web formundan talebe izin verir.
+2. **Onayı bekleyin** — operatör kilit açmayı gönderir; telefonu yeniden başlatmanız gerekebilir.
+3. **Doğrulayın** — Operatör Kilidi alanı "SIM kısıtlaması yok" okuyana kadar yeniden kontrol edin.
+4. **Sonra etkinleştirin** — kilit açıldıktan sonra seyahat eSIM QR kodunuzu yeniden okutun.
 
-- **Eski iPhone'unuz hala aktif** – eSIM aynı anda iki cihazda aktif olamaz. Önce eski telefondan silin (Ayarlar > Hücresel > eSIM'e dokunun > Hücresel Planı Kaldır).
-- **Operatör eSIM aktarımını desteklemiyor** – Bazı operatörler (özellikle ön ödemeli seyahat eSIM'leri) tek seferliktir.
-- **QR kodunun süresi doldu** – Eski bir QR kodunu yeniden kullanıyorsanız, son kullanma tarihini kontrol edin (genellikle 30–90 gün).
-- **Farklı Apple ID'leri** – Yerleşik aktarımın çalışması için her iki cihazın da aynı Apple ID ile oturum açmış olması gerekir.
+> **Not:** operatör kilidi telefon düzeyinde bir kısıtlamadır, plan düzeyinde değil. Cihazınızın kilidini açmak sözleşmenizi iptal etmez — yalnızca cihazı diğer sağlayıcıların SIM'lerini ve eSIM'lerini kullanmaya serbest bırakır.
 
-**Nasıl düzeltilir:** Yukarıdaki "eSIM aktarılamıyor" bölümünü izleyin. iPhone'dan Android'e (veya tam tersi) taşıyorsanız, neredeyse kesinlikle yeni bir eSIM profiline ihtiyacınız olacaktır – platformlar arası aktarım nadiren desteklenir. Ayrıntılı adımlar için **[eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/)** bölümüne bakın.
+### Daha Fazla ABD Operatörü ve MVNO Kilit Açma Politikaları
 
-Bir **Verizon** müşterisiyseniz, Bölüm 4'teki adımlar özellikle **"sim'iniz esim aktarımı için desteklenmiyor verizon"** hataları için geçerlidir. T‑Mobile kullanıcıları için uygulamaları, eSIM'leri cihazlar arasında aktarmanın kolay bir yolunu sağlar.
+Üç büyük, insanların karşılaştığı tek değildir. Ön ödemeli ve MVNO telefonlar genellikle daha uzun süre kilitli kalır; bu da "harika fiyatlı" bir seyahat eSIM'inin kurulmamasının sinsi nedeni olabilir.
 
+| Operatör | Kilit Açma Şartı |
+| :--- | :--- |
+| **Cricket Wireless** | 6 ay ödenmiş hizmet (tam perakende fiyata alınmadıysa) |
+| **Metro by T-Mobile** | 180 gün ödenmiş hizmet |
+| **Boost Mobile** | 12 ay ödenmiş hizmet |
+| **Spectrum Mobile** | 60 gün |
+| **Xfinity Mobile** | 60 gün aktif hizmet |
+| **US Cellular** | 120 gün |
+| **Visible (Verizon ön ödemeli)** | 60 gün ödenmiş hizmet |
 
-## 8. Genel Sorun Giderme: iPhone'da eSIM Nasıl Düzeltilir (Adım Adım)
+### Kilit Açma Talebi için Gerekenler
 
-Hala **"esim çalışmıyor"** görüyorsanız veya **"iphone'da esim nasıl düzeltilir"** arama sorgunuzsa, şu evrensel kontrol listesini izleyin:
+Kilitsiz açmalar hak kazandığınızda ücretsizdir ama talep birkaç şeye hazır olmayı gerektirir:
 
-1. **Cihaz uyumluluğunuzu kontrol edin** – EID için `*#06#` tuşlayın. EID görünmüyorsa, telefonunuz eSIM'i **desteklemiyor**. Bu, **telefonum esim desteklemiyor** için kesin kontroldür.
-2. **Çin modeli olmadığından emin olun** – Model numarası CH/A ile bitiyor = eSIM yok.
-3. **iOS'u güncelleyin** – Ayarlar > Genel > Yazılım Güncelleme.
-4. **Operatör kilidini doğrulayın** – Ayarlar > Genel > Hakkında > Operatör Kilidi "SIM kısıtlaması yok" yazmalıdır.
-5. **Ağ ayarlarını sıfırlayın** – Ayarlar > Genel > iPhone'u Aktar veya Sıfırla > Sıfırla > Ağ Ayarlarını Sıfırla (bu eSIM profillerini silmez ancak Wi‑Fi şifrelerini temizleyebilir).
-6. **Eski eSIM'leri silin** – Çok fazla saklanan profil hatalara neden olabilir. Ayarlar > Hücresel'e gidin ve kullanılmayan eSIM'leri kaldırın.
-7. **eSIM'i yeniden yükleyin** – Eskisinin süresi dolduysa sağlayıcınızdan yeni bir QR kodu talep edin.
-8. **eSIM hattı için Veri Dolaşımı'nı açın.**
+1. **IMEI'niz** — `*#06#` tuşlayın ve 15 haneli numarayı alın (EID'yi değil).
+2. **Hesap numaranız ve hesap PIN/şifreniz** — operatör uygulamanızda veya son bir faturada bulun.
+3. **Telefon tamamen ödenmiş** — operatörler açık taksit bakiyesi olan cihazın kilidini açmaz.
+4. **Uygunluk karşılanmış** — her operatörün minimum aktif gün penceresi vardır (yukarıdaki tablolara bakın).
 
-Yukarıdakilerin hepsini yaptıysanız ve hala **"esim etkinleştirilemiyor"** alıyorsanız, eSIM sağlayıcınızın desteğiyle sipariş ayrıntılarınız ve hatanın ekran görüntüsü ile iletişime geçin.
+**Nereden talep edilir:** AT&T ve T-Mobile'ın çevrimiçi kilit açma portalları ve uygulama içi formları vardır; Verizon çoğu telefonu 60 gün sonra talep gerekmeden otomatik açar. MVNO'lar için (Cricket, Metro, Boost) uygulamalarını kullanın veya desteği doğrudan arayın.
 
-**esim iphone ile uyumlu değil** hataları için ek yardım için [iPhone eSIM uyumluluk kılavuzumuza](/faq/iphone-11-esim-compatible/) bakın. **Android kullanıcıları** için, çoğu durumda aynı adımlar geçerlidir – sadece Android ayarlar menünüzde gezinin.
+**Üçüncü taraf "anında kilit açma" hizmetleri hakkında:** bunlar kumardır. Birçoğu telefonu yeniden kilitleyen sızdırılmış operatör araçları kullanır ve bazıları açık dolandırıcılıktır. Operatörünüz henüz uygun olmadığınızı söylüyorsa bekleyin — bir yabancıya sizin "yerinize" yapsın diye 20 $ ödemeyin.
 
 
-## 9. "Telefonum eSIM Desteklemiyor" – Ama Desteklediğini Sanıyordum
+### Üç Farklı Kilit
 
-Bazen kullanıcılar, eSIM olduğuna inandıkları bir telefonu satın aldıktan sonra **"telefonum esim desteklemiyor"** arar. Bu genellikle şunlarla olur:
+İnsanlar "telefonum kilitli" derken üç tamamen farklı şeyi kastedebilir. Her biri farklı bir çözüm gerektirir; bu yüzden ayırmaya değer.
 
-- **Samsung Galaxy S20 FE** – Birçok bölgesel varyantta eSIM yoktur. Samsung, maliyetleri düşürmek için S20 FE'nin ABD operatör kilitli sürümlerinde eSIM'i devre dışı bıraktı. Ayrıntılar için [Samsung eSIM uyumluluk kılavuzumuza](/faq/samsung-s20-esim-compatible/) bakın.
-- **Google Pixel 4a (Japonya versiyonları)** – Japon operatör modelleri, yerel operatör anlaşmaları nedeniyle eSIM'i devre dışı bırakır. Ayrıntılar için [Pixel eSIM uyumluluk kılavuzumuza](/faq/google-pixel-6-esim-compatible/) bakın.
-- **Xiaomi Redmi Note serisi** – İnternetteki söylentilere rağmen hiçbirinde eSIM yoktur. Xiaomi eSIM'i yalnızca amiral gemisi modellerine ayırır.
-- **iPhone 8 / X** – Eski donanım. Apple eUICC çiplerini yalnızca XS/XR neslinden itibaren eklemiştir.
+| Kilit Türü | Nedir | Nerede Görürsünüz | Çözüm |
+| :--- | :--- | :--- | :--- |
+| **Telefon kilidi (aktivasyon kilidi)** | Hırsızlığa karşı: iCloud Aktivasyon Kilidi (iPhone) veya Google FRP (Android), önceki sahibin hesabına bağlı | Kurulumda "Aktivasyon Kilidi" / "Bu iPhone bir Apple ID'ye bağlıydı" veya Android'de Google hesap sorusu | Yalnızca orijinal sahip kaldırabilir — hâlâ gösteren bir telefonu asla almayın |
+| **Bölge kilidi** | Telefonun satıldığı yerden kaynaklanan bir donanım farkı (Çin modellerinde eUICC çipi yok) | `*#06#`'da EID yok; model numarası CH/A ile bitiyor | Kaldırılamaz — fiziksel SIM veya farklı bir telefon kullanın |
+| **Operatör kilidi** | Telefonu operatörün şebekesiyle sınırlayan, operatörden gelen bir yazılım kısıtlaması | **Ayarlar > Genel > Hakkında > Operatör Kilidi** "SIM kilitli" gösteriyor | Operatörden kilit açma talep edin (Bölüm 3) |
 
-**Ne yapmalısınız:** Bir telefon satın almadan önce resmi özellikleri kontrol edin. EID'yi doğrulamak için cihazda (varsa) `*#06#` tuşlayın. IMEI numarası ile çevrimiçi bir **esim uyumluluk denetleyicisi** kullanın. **[Tam eSIM uyumlu telefonlar listesi (2026)](/compatibility/)** herhangi bir modeli doğrulamak için en iyi kaynağınızdır.
+**Hızlı ayrıştırma:**
+- **Apple ID veya Google hesap sorusu** görüyorsanız = telefon/aktivasyon kilidi (bir sahip sorunu).
+- **Hiç EID yok** = bölge kilidi (bir donanım sorunu).
+- **EID var + "SIM kilitli"** = operatör kilidi (düzeltilebilir; uygun olunca ücretsiz).
 
-Zaten eSIM'i desteklemeyen bir telefonu olanlar için yine de fiziksel bir seyahat SIM'i kullanabilirsiniz. Birçok eSIM sağlayıcısı adresinize gönderilen fiziksel SIM kartları da sunar.
+2 dakikalık kontrolü atlatan "eSIM çalışmıyor" şikayetlerinin çoğu operatör kilidi türündedir — ve bu neredeyse her zaman çözülebilir.
 
 
-## 10. Android eSIM Sorun Giderme: Samsung, Pixel ve Diğer Cihazlar
+## Telefonum eSIM'i Desteklemiyor Ama Desteklemeli
 
-**esim android'de çalışmıyor** sorunları yaşıyorsanız, sorun giderme adımları markaya göre farklılık gösterir. İşte kontrol edilecekler:
+Bazı cihazlar eSIM'le tanıtılır ama belirli bölgesel veya operatör varyantları özelliği sessizce düşürür. Klasik suçlular şunlar:
 
-### Samsung Galaxy eSIM Sorunları
+- **Samsung Galaxy S20 FE** – ABD operatör kilitli sürümler maliyeti düşürmek için özelliği yazılımda kapatır; global model desteklese bile.
+- **Google Pixel 4a (Japonya sürümleri)** – Docomo ve SoftBank yerli operatör anlaşmaları nedeniyle kendi cihazlarında eSIM'i kapatır.
+- **Xiaomi Redmi Note serisi** – çevrimiçi söylentilere rağmen hiçbirinde eUICC çipi yoktur. Xiaomi eSIM'i amiral gemileri için saklar.
+- **iPhone 8 / 8 Plus / X** – eUICC öncesi donanım; Apple çipi yalnızca XS/XR neslinden itibaren ekledi.
+- **Samsung Galaxy A serisi** – yalnızca seçili modellerde (A54, A53) çip vardır; çoğu A-serisinde yoktur.
 
-Samsung kullanıcıları, özellikle operatör kilitli veya bölgeye özel modellerde **samsung esim çalışmıyor** hatalarıyla sıklıkla karşılaşır.
+### eSIM Uyumlu Görünen Ama Olmayan Telefonlar
 
-**Yaygın Samsung eSIM sorunları:**
+| Telefon Modeli | eSIM Desteği | Neden? |
+| :--- | :--- | :--- |
+| **iPhone 8 / 8 Plus / X** | ❌ Hayır | eUICC öncesi donanım |
+| **iPhone XS/XR (Çin)** | ❌ Hayır | Çift fiziksel SIM donanımı |
+| **Samsung Galaxy S20 FE (ABD operatörü)** | ❌ Hayır | Operatör kapalı |
+| **Samsung Galaxy A13 / A23** | ❌ Hayır | Giriş seviyesi model, eUICC yok |
+| **Google Pixel 4a (Japonya)** | ❌ Hayır | Operatör kapalı (Docomo/SoftBank) |
+| **Google Pixel 3 (bazı modeller)** | ⚠️ Değişken | Bölgeyi kontrol edin; bazılarında var, bazılarında yok |
+| **Xiaomi Redmi Note serisi** | ❌ Hayır | eUICC donanımı yok |
+| **Xiaomi 12/13 (Çin)** | ❌ Hayır | Çin yerli sürümlerinde donanım yok |
+| **OnePlus Nord (Çin sürümü)** | ❌ Hayır | Çin bölgesinde donanım yok |
+| **Huawei (tüm Çin yerli)** | ❌ Hayır | Google hizmetleri yok, eSIM donanımı yok |
+| **Motorola G serisi (çoğu)** | ❌ Hayır | Bütçe modellerinde eUICC yok |
 
-- **S20 FE ve A serisi** – Birçok bölgesel varyantta eSIM tamamen yoktur. Bir S20 FE'de **"samsung esim çalışmıyor"** görüyorsanız, model numaranızı kontrol edin. ABD operatör sürümlerinde genellikle eSIM devre dışıdır.
-- **Operatör kilitli Samsung telefonları** – Donanım eSIM'i desteklese bile, AT&T ve T‑Mobile genellikle markalı Samsung cihazlarında devre dışı bırakır. Bir SIM kilidi açma talebinde bulunmanız gerekir.
-- **Android sürümü** – eSIM desteği OneUI 4.0 (Android 12) ile gelişti. Eski bir sürümdeyseniz, önce güncelleyin.
+**Ne yapmalı:** Herhangi bir telefon almadan önce üzerine (elınızdeyse) `*#06#` tuşlayarak EID'yi doğrulayın veya IMEI'yi çevrimiçi bir eSIM uyumluluk denetleyicisinden geçirin. **[eSIM uyumlu telefonların tam listesi (2026)](/compatibility/)** herhangi bir modeli doğrulamak için en iyi kaynağınızdır.
 
-**Samsung'da nasıl kontrol edilir:**
-- **Ayarlar > Bağlantılar > SIM Kart Yöneticisi** – "eSIM Ekle" veya "Mobil plan" seçeneğini arayın. Eksikse, eSIM mevcut değildir.
-- `*#06#` tuşlayın – EID görünmüyorsa, Samsung'unuz eSIM'i desteklemiyor.
 
-**Samsung'a özel çözüm:** Samsung'unuz eSIM'i destekliyor ancak çalışmıyorsa, şunları deneyin:
-1. **Önbellek bölümünü temizleyin** – Telefonu kapatın > Sesi Aç + Güç > Kurtarma modu > Önbellek bölümünü sil.
-2. **Ağ ayarlarını sıfırlayın** – Ayarlar > Genel Yönetim > Sıfırla > Ağ ayarlarını sıfırla.
-3. **Manuel olarak operatör seçin** – Ayarlar > Bağlantılar > Mobil ağlar > Ağ operatörleri > Manuel seçin.
+## Markaya Göre Android eSIM Uyumluluğu
 
-Daha fazla Samsung'a özel rehberlik için [Samsung eSIM uyumluluk kılavuzumuza](/faq/samsung-s20-esim-compatible/) ve [Samsung Destek – eSIM](https://www.samsung.com/us/support/) sayfasına bakın.
+Android'de en büyük değişken işletim sistemi değildir — *sizin belirli varyantınızın* çiple gelip gelmediğidir. Model model tablo şöyle:
 
-### Google Pixel eSIM Sorunları
+### Samsung Galaxy eSIM Uyumluluğu
 
-Pixel kullanıcıları bazen **pixel esim desteklenmiyor** mesajları görür, genellikle bölge veya operatör kısıtlamaları nedeniyle.
+| Model | eSIM Desteği | Notlar |
+| :--- | :--- | :--- |
+| **Galaxy S20 / S21 / S22 / S23 / S24** | ✅ Evet | Tüm küresel varyantlar |
+| **Galaxy S20 FE** | ❌ Hayır (ABD operatörü) / ✅ Evet (global) | Model numarasını kontrol edin |
+| **Galaxy A54 / A53** | ✅ Evet | Yalnızca seçili A-serisi |
+| **Galaxy A13 / A23 / A33** | ❌ Hayır | Bütçe modeller |
+| **Galaxy Z Fold / Flip** | ✅ Evet | Tüm modeller |
+| **Galaxy Note 20** | ✅ Evet | Tüm modeller |
 
-**Yaygın Pixel eSIM sorunları:**
+Samsung'da nasıl kontrol edilir: `*#06#` tuşlayın ve bir EID arayın, ya da **Ayarlar > Bağlantılar > SIM Kart Yöneticisi**'ni açın ve "eSIM Ekle" / "Mobil plan ekle" arayın. İkisi de yoksa varyantınızda özellik yoktur. Daha fazlası için [Samsung eSIM uyumluluk rehberimize](/faq/samsung-s20-esim-compatible/) ve [Samsung Destek](https://www.samsung.com/us/support/) sayfasına bakın.
 
-- **Pixel 4a (Japonya operatör versiyonları)** – Docomo ve SoftBank, Pixel 4a modellerinde eSIM'i devre dışı bırakır. [Google Destek – Pixel'de eSIM](https://support.google.com/pixel/answer/9912709) sayfası hangi modellerin eSIM'i desteklediğini doğrular.
-- **Operatör kilitli Piksel'ler** – Verizon ve AT&T sürümlerinde eSIM devre dışı bırakılmış veya kendi ağlarıyla sınırlandırılmış olabilir.
-- **Android 12 veya daha eski** – eSIM en iyi Android 13 ve daha yenisiyle çalışır.
+### Google Pixel eSIM Uyumluluğu
 
-**Pixel'de nasıl kontrol edilir:**
-- **Ayarlar > Ağ ve İnternet > SIM'ler** – "Bunun yerine SIM indir?" veya "eSIM Ekle" seçeneğini arayın. Eksikse, eSIM mevcut değildir.
-- `*#06#` tuşlayın – EID görünmüyorsa, Pixel'iniz eSIM'i desteklemiyor.
+| Model | eSIM Desteği | Notlar |
+| :--- | :--- | :--- |
+| **Pixel 3 / 3 XL** | ✅ Evet | Özelliğe sahip ilk Pixel |
+| **Pixel 3a / 3a XL** | ✅ Evet | – |
+| **Pixel 4 / 4 XL** | ✅ Evet | – |
+| **Pixel 4a** | ⚠️ Değişken | Japonya operatör sürümleri = HAYIR |
+| **Pixel 5 / 5a** | ✅ Evet | – |
+| **Pixel 6 / 6 Pro / 6a** | ✅ Evet | – |
+| **Pixel 7 / 7 Pro / 7a** | ✅ Evet | – |
+| **Pixel 8 / 8 Pro** | ✅ Evet | – |
 
-**Pixel'e özel çözüm:** Pixel'iniz eSIM'i destekliyor ancak etkinleştirme başarısız olursa:
-1. **"Otomatik ağ seçimi"ni kapatın** – Ayarlar > Ağ ve İnternet > İnternet > dişli simgesine dokunun > Ağ seçimi > otomatik'i kapatın > manuel olarak bir operatör seçin.
-2. **Mobil ağ ayarlarını sıfırlayın** – Ayarlar > Sistem > Sıfırlama seçenekleri > Wi‑Fi, mobil ve Bluetooth'u sıfırla.
+Pixel'de nasıl kontrol edilir: EID için `*#06#` tuşlayın, ya da **Ayarlar > Ağ ve İnternet > SIM'ler** yolunu açın ve "Bunun yerine SIM indirilsin mi?" arayın. Yoksa varyant kilitli veya çipsizdir. Daha fazlası için [Pixel eSIM uyumluluk rehberimize](/faq/google-pixel-6-esim-compatible/) ve [Google Destek — Pixel'de eSIM](https://support.google.com/pixelphone/answer/7086887) sayfasına bakın.
 
-Daha fazla Pixel'e özel rehberlik için [Pixel eSIM uyumluluk kılavuzumuza](/faq/google-pixel-6-esim-compatible/) bakın.
+### OnePlus eSIM Uyumluluğu
 
-### Diğer Android Cihazlar
+OnePlus, eSIM'i **OnePlus 12** ile başlayarak ekledi. OnePlus 11, 10, 9 ve Nord serisi donanımdan yoksundur.
 
-Motorola, OnePlus, Xiaomi ve diğer markalar için bu kılavuzdaki evrensel sorun giderme adımları geçerlidir. Cihazınız `*#06#` tuşladığınızda EID göstermiyorsa, eSIM donanımından yoksundur.
+| Model | eSIM Desteği |
+| :--- | :--- |
+| **OnePlus 12** | ✅ Evet |
+| **OnePlus 11** | ❌ Hayır |
+| **OnePlus 10** | ❌ Hayır |
+| **OnePlus 9** | ❌ Hayır |
+| **OnePlus Nord serisi** | ❌ Hayır (bazı AB varyantları hariç) |
 
+### Xiaomi, Huawei, Motorola ve Diğer eSIM Markaları
 
-## 11. eSIM Profilinin Süresi Doldu veya QR Kodu Geçersiz – Ne Yapmalı
+- **Xiaomi** – amiral gemi modelleri (küresel sürümleriyle Xiaomi 12/13) eSIM'i destekleyebilir ama Çin yerli cihazları desteklemez. Redmi Note hattında hiç eUICC yoktur.
+- **Huawei** – destek birkaç modelle (P40, Mate 40 ve yenileri) sınırlıdır; 2020 sonrası telefonların çoğu ABD yaptırımları nedeniyle eSIM'den yoksundur. **Ayarlar > Mobil Ağ > eSIM** yolunu kontrol edin — seçenek yoksa desteklenmiyordur.
+- **Motorola** – çoğu G serisi bütçe modelinde çip yoktur; Moto G Power ve Edge hattı bölgeye göre değişir.
 
-**"esim profili süresi doldu"** veya **"esim qr kodu geçersiz"** görürseniz, etkinleştirme kodunuz artık kullanılamaz.
+Hepsi için evrensel test aynıdır: `*#06#` tuşlayın ve EID'yi arayın.
 
-### Bu Neden Olur?
 
-- eSIM QR kodlarının süresi genellikle verilişten **30–90 gün** sonra dolar. Bu, yetkisiz etkinleştirmeyi önlemek için bir güvenlik önlemidir.
-- Bazı sağlayıcılar promosyon veya deneme eSIM'leri için daha kısa son kullanma süreleri belirler.
-- Kodu zaten bir kez taradıysanız, güvenlik nedeniyle geçersiz olur – eSIM QR kodları tek kullanımlık olacak şekilde tasarlanmıştır.
+## Android vs iPhone eSIM Yetenek Kontrolü
 
-### eSIM'in Süresi Dolduğunda Ne Yapmalı
+Aynı 2 dakikalık kontrol, iki farklı menü. Bu tabloyu diğer platformdaki bir arkadaşınıza verin.
 
-1. **eSIM sağlayıcınızla iletişime geçin** – Yeni bir QR kodu oluşturabilirler. Bazı sağlayıcılar, uygulamaları veya web siteleri aracılığıyla yeni bir kod talep etmenize izin verir.
-2. **E‑postanızı kontrol edin** – Orijinal etkinleştirme e‑postası, QR kodunu yeniden oluşturmak için bir bağlantı içerebilir.
-3. **Yeni bir plan satın alın** – Sağlayıcı kodu yeniden oluşturamıyorsa, yeni bir plan satın almanız gerekir.
-4. **Operatörünüzle kontrol edin** – Faturalı operatör eSIM'leri (Verizon, T‑Mobile, AT&T) için genellikle uygulamaları veya müşteri hizmetleri aracılığıyla yeni bir eSIM talep edebilirsiniz.
+| Kontrol | iPhone | Android (Samsung) | Android (Pixel) |
+| :--- | :--- | :--- | :--- |
+| **EID** | `*#06#` tuşlayın | `*#06#` tuşlayın | `*#06#` tuşlayın |
+| **eSIM Ekle menüsü** | **Ayarlar > Hücresel > eSIM Ekle** | **Ayarlar > Bağlantılar > SIM Kart Yöneticisi > eSIM Ekle** | **Ayarlar > Ağ ve internet > SIM'ler > Bunun yerine SIM indirilsin mi?** |
+| **Model numarası** | **Ayarlar > Genel > Hakkında > Model Numarası** | **Ayarlar > Telefon hakkında > Model numarası** | **Ayarlar > Telefon hakkında > Model** |
+| **Kilit durumu** | **Ayarlar > Genel > Hakkında > Operatör Kilidi** | **Ayarlar > Telefon hakkında > Durum** | **Ayarlar > Telefon hakkında > SIM durumu** |
 
-### eSIM Süresinin Dolması Nasıl Önlenir
+**Önemli olan tek fark:** iPhone'da eSIM desteği nesne ve bölge bazında ya hep ya hiçtir — tahmin etmesi kolaydır. Android'de ise varyant bazındadır; yani iki "aynı" Galaxy veya Pixel telefonu farklı davranabilir. Android'de şüphede kalırsanız veri sayfasına değil `*#06#` EID'sine güvenin.
 
-- eSIM'inizi satın aldıktan **30 gün içinde** daima yükleyin.
-- Gelecekteki bir seyahat için eSIM satın alıyorsanız, satın almadan önce sağlayıcının son kullanma politikasını kontrol edin.
-- Orijinalin süresi dolsa bile erişebilmek için QR kodunuzu birden fazla yerde kaydedin (e‑posta, bulut depolama, basılı kopya).
 
-Süresi dolmuş eSIM'lerle ilgili daha fazla yardım için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
+## Telefonunuz eSIM'i Destekliyor Ama Aktivasyon Başarısız
 
+Telefonunuz yukarıdaki donanım kontrolünü geçtiyse ama hâlâ belirli bir hata mesajı görüyorsanız sorun artık uyumluluk değildir — bir aktivasyon veya şebeke sorunudur. Bunların kendi özel referansları vardır:
 
-## 12. eSIM iPad veya Apple Watch'ta Çalışmıyor – Cihaza Özel Çözümler
+- **"Aktivasyon başarısız", "Servis Yok", "QR geçersiz", "Hücresel Plan Eklenemiyor", kurtarma hatası 4013/4014 ve diğer tüm ekran hataları** → her mesajı bir çözüme eşleyen [eSIM Derin Sorun Giderme Rehberi 2026](/faq/esim-deep-troubleshooting-guide-2026/) sayfasına bakın.
+- **APN ayarları ve tam sağlayıcı APN tablosu** → asıl APN referansı da [eSIM Derin Sorun Giderme Rehberi 2026](/faq/esim-deep-troubleshooting-guide-2026/) içindedir.
+- **Adım adım aktivasyon (QR / manuel / operatör uygulaması)** → [eSIM Nasıl Etkinleştirilir](/faq/how-to-activate-an-esim/) sayfasına bakın.
+- **Profili yeni bir telefona taşıma** → [eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/) sayfasına bakın.
+- **iPad ve Apple Watch kurulumu** → [iPad ve Apple Watch eSIM rehberine](/faq/ipad-apple-watch-esim-support-guide/) bakın.
 
-**esim ipad'de çalışmıyor** veya **ipad esim çalışmıyor** sorunları yaşıyorsanız, çözümler iPhone sorun gidermeden farklıdır.
 
-### iPad eSIM Sorunları
+## Sıkça Sorulan Sorular
 
-**Yaygın iPad eSIM sorunları:**
+**iPhone XR'ım neden çalışması gerekirken "eSIM desteklenmiyor" diyor?**
+Model numaranız CH/A ile bitiyorsa eSIM çipi olmayan bir Çin anakarası cihazdır. Aksi halde operatör kilit durumunu kontrol edin — kilitli bir XR diğer sağlayıcıların profillerini reddeder.
 
-- **iPad modeli eSIM'i desteklemelidir** – Yalnızca iPad Pro (3. nesil ve daha yeni), iPad Air (3. nesil ve daha yeni), iPad (10. nesil ve daha yeni) ve iPad mini (6. nesil ve daha yeni) eSIM'i destekler.
-- **Yalnızca Hücresel model** – Wi‑Fi yalnızca iPad'lerde eSIM donanımı yoktur.
-- **Operatör kilidi** – Bazı operatörler tarafından satılan iPad'ler belirli bir ağa kilitlidir.
+**iPhone 7'ye eSIM'i zorla ekleyebilir miyim?**
+Hayır. iPhone 7 (ve 6s, 8, X) eUICC çipinden tamamen önceye aittir. Olmayan donanımı hiçbir yazılım hilesi ekleyemez.
 
-**iPad eSIM etkinleştirme sorunları nasıl düzeltilir:**
+**EID ile IMEI arasındaki fark nedir?**
+IMEI (15 hane) telefonunuzun modelini tanımlar — her telefonun bir tane vardır. EID (32 hane) yerleşik SIM çipini tanımlar — yalnızca eSIM destekli telefonlarda vardır. `*#06#` EID göstermiyorsa telefonunuz eSIM kullanamaz.
 
-1. **Operatör kilidini kontrol edin** – Ayarlar > Genel > Hakkında > Operatör Kilidi "SIM kısıtlaması yok" yazmalıdır.
-2. **iPad'i yeniden başlatın** – Basit bir yeniden başlatma genellikle etkinleştirme gecikmelerini çözer.
-3. **Ağ ayarlarını sıfırlayın** – Ayarlar > Genel > iPad'i Aktar veya Sıfırla > Sıfırla > Ağ Ayarlarını Sıfırla.
-4. **QR kodu aracılığıyla yükleyin** – Ayarlar > Hücresel Veri > Hücresel Plan Ekle > QR kodunu tara.
+**`*#06#` tuşladığımda "EID bulunamadı" ne demektir?**
+Telefonunuzun dijital SIM profilleri için gereken eUICC donanım çipinin olmadığı anlamına gelir. Bu bir donanım sınırlamasıdır; bir yazılım güncellemesinin düzeltebileceği bir şey değildir.
 
-### Apple Watch eSIM Sorunları
+**Telefonum eSIM'i desteklemiyor — yine de bir seyahat eSIM'i kullanabilir miyim?**
+Hayır. Yerleşik çip gerekir; bu yüzden tek seçeneğiniz fiziksel SIM'dir. Birçok sağlayıcı (Roami dahil) ayrıca fiziksel SIM kart da satar.
 
-**Yaygın Apple Watch eSIM sorunları:**
+**Samsung Galaxy'mde eSIM olup olmadığını nasıl bilirim?**
+`*#06#` tuşlayın — EID görünüyorsa destekleniyordur. Ayrıca Ayarlar > Bağlantılar > SIM Kart Yöneticisi altında "eSIM Ekle" seçeneğini kontrol edebilirsiniz. Bazı ABD operatör ve A-serisi varyantları onu gizler.
 
-- **Apple Watch hücresel model olmalıdır** – GPS yalnızca saatler eSIM'i desteklemez.
-- **Operatör Apple Watch'u desteklemelidir** – Tüm operatörler Apple Watch eSIM'ini desteklemez. Sağlayıcınızla kontrol edin.
-- **Saat bir iPhone ile eşleştirilmelidir** – eSIM'i iPhone'daki Watch uygulaması aracılığıyla kurarsınız.
+**OnePlus 11 eSIM'i destekliyor mu?**
+Hayır. OnePlus eSIM'i OnePlus 12 ile başlayarak ekledi. 11, 10, 9 ve Nord serisi donanımdan yoksundur.
 
-**Apple Watch eSIM etkinleştirme sorunları nasıl düzeltilir:**
+**iPhone'umun operatör kilitli olup olmadığını nasıl kontrol ederim?**
+Ayarlar > Genel > Hakkında > Operatör Kilidi. "SIM kısıtlaması yok" kilitsiz demektir. Başka bir şey o operatöre kilitli demektir.
 
-1. **iPhone'da Watch uygulamasını açın** > Saatim > Hücresel > Hücreseli Kur.
-2. **Operatör desteğini kontrol edin** – Operatörünüz listelenmiyorsa, bir Apple Watch planı eklemek için onlarla iletişime geçin.
-3. **Her iki cihazı da yeniden başlatın** – Hem iPhone'u hem de Apple Watch'u yeniden başlatın, ardından tekrar deneyin.
-
-Daha fazla iPad ve Apple Watch eSIM rehberliği için [iPad ve Apple Watch eSIM kılavuzumuza](/faq/ipad-apple-watch-esim-support-guide/) bakın.
-
-
-## 13. eSIM ile Veri Dolaşımı, Sıcak Nokta ve iMessage Çalışmıyor
-
-Başarılı eSIM etkinleştirmesinden sonra bile belirli özelliklerle ilgili sorunlar yaşayabilirsiniz. **esim kişisel sıcak nokta çalışmıyor**, **esim iMessage çalışmıyor** ve **esim veri dolaşımı çalışmıyor** nasıl düzeltilir.
-
-### Veri Dolaşımı Çalışmıyor
-
-**esim veri dolaşımı çalışmıyor** sorununuz varsa:
-
-1. **Veri Dolaşımı'nı açın** – Ayarlar > Hücresel > [eSIM'iniz] > Veri Dolaşımı (AÇIK). Bu, çoğu seyahat eSIM'i için gereklidir.
-2. **APN ayarlarını kontrol edin** – Ayarlar > Hücresel > [eSIM'iniz] > Hücresel Veri Ağı > APN'yi girin.
-3. **Uçak Modu'nu açıp kapatın** – 30 saniye boyunca Açık/Kapalı yaparak ağı yeniden kaydolmaya zorlayın.
-4. **Manuel ağ seçimi** – Ayarlar > Hücresel > [eSIM'iniz] > Ağ Seçimi > Otomatik'i kapatın > bir operatör seçin.
-
-### Sıcak Nokta Çalışmıyor
-
-**esim kişisel sıcak nokta çalışmıyor** sorununuz varsa:
-
-1. **Planınızı kontrol edin** – Bazı eSIM planları sıcak nokta kullanımına izin vermez (özellikle bazı sağlayıcıların "sınırsız" planları). Adil Kullanım Politikanızı kontrol edin.
-2. **Sıcak noktayı etkinleştirin** – Ayarlar > Kişisel Sıcak Nokta > Başkalarının Katılmasına İzin Ver (AÇIK).
-3. **APN'yi kontrol edin** – Bazı operatörler sıcak nokta işlevi için belirli bir APN gerektirir. Sağlayıcınızla iletişime geçin.
-4. **Değişiklikleri yaptıktan sonra telefonunuzu yeniden başlatın.**
-5. **Cihazınızı yeniden adlandırmayı deneyin** – Bazı kullanıcılar cihaz adını değiştirmenin bağlantı sorunlarını çözdüğünü bildiriyor.
-
-### iMessage eSIM ile Çalışmıyor
-
-**esim iMessage çalışmıyor** sorununuz varsa:
-
-1. **iMessage etkinleştirmesini kontrol edin** – Ayarlar > Mesajlar > iMessage (AÇIK). "Etkinleştirme bekleniyor" yazıyorsa, kapatıp tekrar açmayı deneyin.
-2. **Telefon numaranızı kontrol edin** – Ayarlar > Mesajlar > Gönder ve Al > eSIM numaranızın seçili olduğundan emin olun.
-3. **Oturumu kapatın ve tekrar açın** – Ayarlar > Apple ID > Oturumu Kapat, ardından tekrar oturum açın.
-4. **Telefonunuzu yeniden başlatın.**
-5. **Apple ID'nizi kontrol edin** – Tüm cihazlarda aynı Apple ID ile oturum açtığınızdan emin olun.
-
-### Wi‑Fi Arama eSIM ile Çalışmıyor
-
-Wi‑Fi Arama eSIM'inizde çalışmıyorsa:
-
-1. **Wi‑Fi Arama'yı etkinleştirin** – Ayarlar > Hücresel > [eSIM'iniz] > Wi‑Fi Arama (AÇIK).
-2. **Acil durum adresi ekleyin** – Bazı operatörler bir acil durum adresi kaydetmenizi gerektirir.
-3. **Operatör desteğini kontrol edin** – Tüm operatörler eSIM'de Wi‑Fi Arama'yı desteklemez.
-
-Bu özelliklerden herhangi biriyle ilgili kalıcı sorunlar için, belirli hata mesajları ve cihaz ayrıntılarınızla eSIM sağlayıcınızın destek ekibiyle iletişime geçin. Daha gelişmiş hata ayıklama adımları için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
-
-
-## 14. Hızlı Başvuru: Hata Mesajları ve Çözümler
-
-| Hata Mesajı | Olası Neden | Çözüm |
-|---------------|--------------|----------|
-| **"eSIM desteklenmiyor"** / **"bu eSIM bu iPhone ile uyumlu değil"** | Telefonda eSIM donanımı yok (Çin modeli, iPhone 8/X veya daha eski) | Fiziksel SIM kullanın veya yükseltin. [Uyumluluk listesini](/compatibility/) kontrol edin |
-| **"esim iphone ile uyumlu değil"** | Yukarıdakiyle aynı | `*#06#` tuşlayın – EID yoksa, eSIM yok |
-| **"eSIM ağı mevcut değil"** | Veri dolaşımı kapalı veya APN eksik | Veri Dolaşımı'nı açın; APN'yi girin |
-| **"esim etkinleştirilemiyor"** | Wi‑Fi sorunu veya sunucu sorunu | Yeniden başlatın, Wi‑Fi'yi kontrol edin, bekleyin, ardından tekrar deneyin |
-| **"sim'iniz esim aktarımı için desteklenmiyor"** | Operatör aktarıma izin vermiyor | Yeni QR kodu için operatör uygulamasını kullanın |
-| **"sim'iniz esim aktarımı için desteklenmiyor verizon"** | Verizon'a özel kilit | Önce eSIM'i eski cihazdan kaldırın |
-| **"esim yeni iphone'a aktarılmıyor"** | Eski eSIM hala aktif veya tek kullanımlık | Eski telefondan silin; yeni QR talep edin |
-| **"esim'i yanlışlıkla sildim"** | Kullanıcı hatası | Değiştirme için sağlayıcıyla iletişime geçin. [Sorun giderme kılavuzuna](/faq/esim-deep-troubleshooting-guide-2026/) bakın |
-| **"iphone uyumsuz esim'e geçti önyükleme döngüsünde takılı kaldı"** | Bozuk profil | Zorla yeniden başlatma > Bilgisayar aracılığıyla Güncelleme |
-| **"esim profili süresi doldu"** | QR kodunun süresi doldu | Yeni QR kodu için sağlayıcıyla iletişime geçin |
-| **"esim qr kodu geçersiz"** | Kod zaten kullanıldı veya süresi doldu | Yeni QR kodu talep edin |
-| **"samsung esim çalışmıyor"** | Operatör kilidi veya bölgesel varyant | Uyumluluğu kontrol edin. [Samsung kılavuzuna](/faq/samsung-s20-esim-compatible/) bakın |
-| **"pixel esim desteklenmiyor"** | Japonya sürümü veya operatör kilidi | Uyumluluğu kontrol edin. [Pixel kılavuzuna](/faq/google-pixel-6-esim-compatible/) bakın |
-
-
-## 15. Hala Takıldınız mı? Daha Derin Yardıma mı İhtiyacınız Var?
-
-Bu kılavuz en yaygın eSIM sorunlarını kapsar. Daha gelişmiş sorun giderme (çift‑eSIM sorunları, APN hata ayıklama ve operatöre özel çözümler dahil) için şunlara bakın:
-
-- **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/esim-deep-troubleshooting-guide-2026/)** – kalıcı etkinleştirme hataları ve ağ hata ayıklama için.
-- **[iPhone Çift eSIM Çalışmıyor mu? 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – iPhone'da aynı anda iki eSIM kullanıyorsanız.
-- **[eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/)** – platformlar arası aktarımlar için adım adım.
-
-Ve hangi telefonların eSIM ile çalıştığına dair eksiksiz bir referans için **[Tam eSIM uyumlu telefonlar listesini (2026)](/compatibility/)** ziyaret edin.
-
-
-## ❓ Sık Sorulan Sorular
-
-**iPhone XR'm "eSIM desteklenmiyor" diyor ama çalışması gerekmiyor mu?**
-Çin anakara modeliniz varsa (model numarası CH/A ile biter), iPhone XR'nizde eSIM donanımı yoktur. Ayrıca operatör kilit durumunu da kontrol edin.
-
-**iPhone 7'de eSIM'i zorlayabilir miyim?**
-Hayır. **Force esim iphone 7** imkansızdır – eSIM donanımı yoktur. Aynısı iPhone 6s, 8 ve iPhone X için de geçerlidir.
-
-**eSIM'imi yanlışlıkla sildim – nasıl geri alabilirim?**
-eSIM sağlayıcınızla iletişime geçin. Seyahat eSIM'leri genellikle yeniden verilebilir; operatör eSIM'leri uygulamalarından yeniden indirilebilir.
-
-**eSIM'im saatlerce "Etkinleştiriliyor" da neden takılı kalıyor?**
-Uçak Modu'nu açıp kapatmayı, telefonunuzu yeniden başlatmayı veya Wi‑Fi ağlarını değiştirmeyi deneyin. Hala takılıysa, profili silin (son çare olarak) ve yeni bir QR kodu talep edin.
-
-**"sim'iniz esim aktarımı için desteklenmiyor verizon" ne anlama gelir?**
-Verizon, yeni bir cihaza aktarmadan önce eSIM'i eski cihazdan kaldırmanızı gerektirir. Bölüm 4'teki Verizon'a özel adımları izleyin.
-
-**Telefonum eSIM'i desteklemiyor – yine de seyahat eSIM'i kullanabilir miyim?**
-Hayır – fiziksel bir SIM'e ihtiyacınız var. Birçok eSIM sağlayıcısı ayrıca fiziksel SIM kartları da satar.
+**Hangi iPad modelleri eSIM'i destekler?**
+iPad Pro (3. nesil ve yenisi), iPad Air (3. nesil ve yenisi), iPad (10. nesil ve yenisi) ve iPad mini (6. nesil ve yenisi) — yalnızca hücresel modeller. Yalnızca Wi-Fi'lı iPad'lerde eSIM donanımı yoktur.
 
 **eSIM uyumlu telefonların listesini nerede bulabilirim?**
-**[Tam eSIM uyumlu telefonlar listesine (2026)](/compatibility/)** bakın – iPhone'lar, Samsung, Pixel, OnePlus, Motorola, Xiaomi ve daha fazlasını kapsar.
+[eSIM uyumlu telefonların tam listesi (2026)](/compatibility/) iPhone, Samsung, Pixel, OnePlus, Motorola, Xiaomi ve daha fazlasını kapsar.
 
-**"esim ağı mevcut değil verizon" görürsem ne yapmalıyım?**
-Bu genellikle bir dolaşım ayarı sorunudur. eSIM hattınız için Veri Dolaşımı'nı açın ve manuel olarak farklı bir ağ seçmeyi deneyin.
+**Telefon kilidi ile operatör kilidi arasındaki fark nedir?**
+Telefon (aktivasyon) kilidi hırsızlığa karşıdır — iPhone'da iCloud, Android'de Google FRP — ve yalnızca orijinal sahip kaldırabilir. Operatör kilidi, telefonunuz ödendikten ve uygun hale geldikten sonra operatörünüzün ücretsiz kaldırdığı bir şebeke kısıtlamasıdır.
 
-**iPhone'da "esim qr kodu geçersiz" nasıl düzeltilir?**
-Sağlayıcınızdan yeni bir QR kodu talep edin. QR kodlarının süresi 30–90 gün sonra dolar ve tarandıktan sonra yeniden kullanılamaz.
+**Çin telefonlarında neden eSIM yok?**
+Çin anakarası, yerli telefonların çift fiziksel SIM için sertifikalandırılmasını şart koşar; bu yüzden Apple ve Android markaları Çin cihazlarını iki nano-SIM yuvasıyla ve eUICC çipi olmadan gönderir. Bu donanımdır — sonradan etkinleştirilemez.
 
-**Etkinleştirmeden sonra "esim kişisel sıcak nokta çalışmıyor" neden olur?**
-Planınızın sıcak nokta kullanımına izin verip vermediğini kontrol edin. Bazı seyahat eSIM'leri sıcak nokta paylaşımını kısıtlar. Ayrıca APN ayarlarını doğrulayın ve telefonunuzu yeniden başlatın.
+**EID'si olmayan bir telefona eSIM ekleyebilir miyim?**
+Hayır. eUICC çipi anakarta lehimlidir. Hiç kurulmamış donanımı ekleyen bir adaptör, uygulama, jailbreak veya yazılım güncellemesi yoktur.
 
-**Samsung cihazlarda "esim android'de çalışmıyor" neye neden olur?**
-Yaygın nedenler arasında operatör kilitli cihazlar, bölgesel varyantlar (ABD operatör sürümleri gibi) veya güncel olmayan Android sürümleri bulunur. EID varlığı için `*#06#` ile kontrol edin.
+**Fabrika ayarlarına sıfırlama "eSIM desteklenmiyor"u düzeltir mi?**
+Hayır. Sıfırlama donanımı değiştirmez veya operatör kilidini kaldırmaz. Ancak bozuk yarı kurulmuş bir profili temizleyebilir; bu yüzden yazılım aksaklıkları için denemeye değer — yedek aldıktan sonra.
 
-**Etkinleştirmeden sonra "esim iMessage çalışmıyor" neden olur?**
-iMessage'ın yeniden etkinleştirilmesi gerekebilir. Ayarlar > Mesajlar > iMessage'ı kapatıp tekrar açın. Ayrıca Gönder ve Al'da telefon numaranızın seçili olduğunu doğrulayın.
+**Bir sağlayıcı EID'yi istediğinde ne için kullanılır?**
+EID, sağlayıcınızın belirli bir eSIM profilini okutmadan önce telefonunuzun çipine bağlamasını sağlar. Planın tam olarak sizin cihazınıza gittiğini bu şekilde bilirler — bunu eSIM'in "adresi" olarak düşünün.
 
-**"esim profili süresi doldu" ne anlama gelir ve nasıl düzeltilir?**
-QR kodunuz geçerlilik süresini geçmiştir (genellikle 30–90 gün). Yeni bir QR kodu talep etmek için sağlayıcınızla iletişime geçin.
+**SIM takmadan telefonumun kilitsiz olduğunu nasıl bilirim?**
+iPhone: Ayarlar > Genel > Hakkında > Operatör Kilidi — "SIM kısıtlaması yok" kilitsiz demektir. Android: Ayarlar > Telefon hakkında > Durum (veya SIM durumu) yoluna gidin ve "SIM kilitli" veya "SIM kilitli değil" ifadesine bakın.
 
-**Hücresel bir iPad'de "esim ipad'de çalışmıyorsa" ne yapmalıyım?**
-Operatör kilit durumunu kontrol edin, iPad'inizi yeniden başlatın ve hücresel modelde olduğunuzdan emin olun. Wi‑Fi yalnızca iPad'ler eSIM'i desteklemez.
-
-**iPhone'da "esim veri dolaşımı çalışmıyor" nasıl düzeltilir?**
-Veri Dolaşımı'nın açık olduğundan, APN ayarlarının doğru olduğundan ve otomatik seçim başarısız olursa manuel olarak bir ağ seçtiğinizden emin olun.
+👉 **Telefonunuzun uygun olduğunu doğruladınız mı?** Bağlanmak için [ABD için bir eSIM](/united-states-esim/) veya [Japonya için eSIM](/japan-esim/) alın.
 
 
-## 🆓 Çözümünüzü Ücretsiz Bir eSIM ile Test Edin
+## Ücretsiz eSIM ile Uyumluluğunuzu Test Edin
 
-eSIM sorunlarınızın çözüldüğünü doğrulamanın en iyi yolu, bir **ücretsiz deneme eSIM** yüklemektir. Hiçbir maliyeti yoktur, 2 dakika sürer ve başarıyla etkinleşirse, telefonunuz herhangi bir eSIM için hazırdır.
+Telefonunuzun eSIM'i gerçekten kullanabildiğini doğrulamanın en hızlı yolu bir **ücretsiz deneme eSIM'i** kurmaktır. Hiçbir maliyeti yoktur, 2 dakika sürer ve kurulup bağlanırsa donanımınız hazırdır.
 
-👉 [**Ücretsiz Roami eSIM'inizi şimdi alın**](/free-esim/)
-
+👉 [**Ücretsiz Roami eSIM'inizi hemen alın**](/free-esim/)
 
 ---
 
-*Gerçek sorunları çözmeye odaklanıyoruz. Özel hatanız burada kapsanmıyorsa, bizimle iletişime geçin, yardımcı olalım.*
+*Belirli cihazınız veya hatanız burada kapsanmıyorsa bize ulaşın; telefonunuzun eSIM'e uygun olup olmadığını doğrulamanıza yardımcı olalım.*
+## Kaynaklar
+
+- [GSMA — eSIM (SGP.22) spesifikasyonu](https://www.gsma.com/esim/)
+- [Apple Destek — iPhone'da eSIM kurulumu](https://support.apple.com/en-us/HT212780)
+- [Google Destek — eSIM kurulumu](https://support.google.com/pixelphone/answer/14853135)
+- [Google Destek — Android eSIM](https://support.google.com/android/answer/11241215)

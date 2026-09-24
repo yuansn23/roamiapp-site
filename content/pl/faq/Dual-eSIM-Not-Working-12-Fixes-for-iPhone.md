@@ -1,11 +1,12 @@
 ---
-title: "Podwójna eSIM nie działa? 12 poprawek na iPhone'a"
-h1_title: "Jak naprawić podwójną eSIM niedziałającą na iPhonie: 12 rozwiązań"
-description: "Podwójna eSIM nie działa? Napraw 12 problemów z iPhone'em: routing połączeń, konfiguracja VoLTE, szybkie rozładowywanie baterii i sprawdzanie blokady operatora dla iPhone 16 i iOS 18."
-image: "/img/esim/usa/usa-esim-dual-sim-setup.jpg"
-keywords: ["podwójna eSIM nie działa", "iPhone dual SIM brak usługi", "problem z sygnałem podwójnej eSIM", "blokada operatora eSIM", "rozwiązywanie problemów z podwójną eSIM", "aktywacja podwójnej eSIM nie powiodła się", "iOS 18 eSIM", "ustawienia APN eSIM", "kod potwierdzający eSIM", "podwójna eSIM brak usługi"]
-date: 2026-09-08T10:00:00Z
-lastmod: 2026-09-08T00:00:00Z
+title: "Podwójny eSIM nie działa? 12 poprawek dla iPhone"
+h1_title: "Jak naprawić niedziałający podwójny eSIM na iPhone: 12 rozwiązań"
+description: "Podwójny eSIM nie działa? Napraw 12 problemów iPhone: routing połączeń, konfiguracja VoLTE, zużycie baterii i blokady operatora dla iPhone 16 i iOS 18."
+image: "/img/faq/dual-esim-not-working.webp"
+image-1: "/img/faq/dual-esim-not-working-1.jpg"
+keywords: ["podwójny eSIM nie działa", "iPhone dual SIM brak usługi", "problem z sygnałem podwójnego eSIM", "blokada operatora eSIM", "rozwiązywanie problemów z podwójnym eSIM", "aktywacja podwójnego eSIM nie powiodła się", "iOS 18 eSIM", "ustawienia APN eSIM", "kod potwierdzenia eSIM", "podwójny eSIM brak usługi"]
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Rozwiązywanie problemów", "Konfiguracja podróży"]
 toc: true
 
@@ -33,45 +34,45 @@ sidebar_popular:
   title: "Popularne eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "USA eSIM"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
     - name: "Niemcy"
       flag: "/img/flags/de.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
     - name: "Europa"
       flag: "/img/flags/eu.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
     - name: "Turcja"
       flag: "/img/flags/tr.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
     - name: "Japonia"
       flag: "/img/flags/jp.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
     - name: "Chiny"
       flag: "/img/flags/cn.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
 # Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Zdobądź darmową eSIM"
+  title: "Odbierz darmowy eSIM"
   icon: "🎁"
-  item_suffix: "Darmowa eSIM"
-  item_subtitle: "Darmowa eSIM"
+  item_suffix: "Darmowy eSIM"
+  item_subtitle: "Darmowy eSIM"
   items:
-    - name: "Wielka Brytania eSIM"
+    - name: "eSIM UK"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Niemcy"
@@ -80,7 +81,7 @@ sidebar_free:
     - name: "Tajlandia"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
+    - name: "Hongkong"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
@@ -92,248 +93,250 @@ sidebar_questions:
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Jak aktywować eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Jak aktywować eSIM na iPhonie (wszystkie modele)?"
+    - question: "Jak aktywować eSIM na iPhone (wszystkie modele)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Najnowsza lista kompatybilności eSIM"
+    - question: "Najnowsza lista zgodności eSIM"
       url: "/compatibility/"
 ---
 
 
-> **Nota redakcyjna:** Roami to marka stojąca za tym przewodnikiem. Wszystkie kroki rozwiązywania problemów opierają się na oficjalnej dokumentacji Apple, standardach GSMA i testach naszego zespołu na iOS 18. Skupiamy się na rzeczywistych poprawkach, które faktycznie działają – a nie na teoretycznych rozwiązaniach.
+> **Uwaga redaktora:** Podwójny eSIM, który traci jedną linię, jest prawie zawsze spowodowany blokadą operatora, błędnie skonfigurowanym APN lub ustawieniem dual-SIM — a nie martwym planem. Każda poprawka poniżej jest zgodna z oficjalną dokumentacją Apple i standardami GSMA i jest ukierunkowana na konkretny objaw. Przejdź przez tabelę diagnostyczną, aby znaleźć dokładne rozwiązanie swojego błędu.
 > 
-> **Kluczowe wnioski:** VoLTE lub limity planu są najczęstszym powodem, dla którego linia nie może wykonywać lub odbierać połączeń. Problemy z routingiem połączeń przychodzących często rozwiązuje przełączenie Wi‑Fi Calling wyłączone i ponownie włączone. iPhone'y są w trybie dual standby, a nie dual active – "Brak usługi" na drugiej linii podczas połączeń jest normalne. Sprawdź Blokadę operatora w Ustawieniach (`Brak ograniczeń SIM`), jeśli nie możesz dodać drugiej eSIM. Zużycie baterii przy podwójnej eSIM można zmniejszyć, wyłączając 5G na linii ze słabszym sygnałem.
+> **Najważniejsze wnioski:** VoLTE lub limity planu to najczęstsza przyczyna, dla której linia nie może wykonywać ani odbierać połączeń. Problemy z routingiem połączeń przychodzących często rozwiązuje się, wyłączając i włączając Wi‑Fi Calling. iPhone'y działają w trybie dual standby, a nie dual active – „Brak usługi" na drugiej linii podczas połączeń jest normalne. Sprawdź Blokadę operatora w Ustawieniach (`Brak ograniczeń SIM`), jeśli nie możesz dodać drugiego eSIM. Zużycie baterii przy podwójnym eSIM można zmniejszyć, wyłączając 5G na linii o słabszym sygnale.
+
+Większość problemów z podwójnym eSIM na iPhone można przypisać pięciu przyczynom: blokadzie operatora, limitowi planu lub VoLTE, ustawieniom roamingu danych lub linii domyślnej, zwykłemu zachowaniu dual standby, które tylko wygląda jak usterka, albo błędowi iOS, który usuwa reset ustawień. Dopasuj swój objaw w poniższym indeksie i zastosuj odpowiednią poprawkę — większość zajmuje mniej niż pięć minut.
 
 
-## Podwójna eSIM nie działa? 10‑sekundowa szybka diagnoza
+## Jak naprawić niedziałający podwójny eSIM
 
-**Twój telefon ma problemy z podwójną eSIM. Który to?**
+**Twój telefon ma problemy z podwójnym eSIM. Który to?**
 
 | Twój objaw | Przejdź do poprawki |
 |--------------|-------------|
-| **Druga eSIM pokazuje "Brak usługi"** ale pierwsza działa | [Poprawka #2](#2-dual-esim-why-one-line-shows-no-service-while-the-other-works) |
-| **Można dzwonić, ale NIE można odbierać połączeń** | [Poprawka #3](#3-dual-esim-one-number-can-call-out-but-cannot-receive-incoming-calls) |
-| **Podczas połączenia druga linia mówi "Brak usługi"** | [Poprawka #4](#4-dual-esim-during-a-call-the-other-line-shows-no-service--this-is-normal) – to normalne! |
-| **Nie można dodać drugiej eSIM – błąd "Blokada operatora"** | [Poprawka #5](#5-dual-esim-not-working-check-carrier-lock-first) |
-| **Bateria rozładowuje się szybciej z dwiema liniami** | [Poprawka #6](#6-dual-esim-battery-drain-how-to-reduce) |
-| **Fizyczna SIM nie jest rozpoznawana** | [Poprawka #7](#7-esim--physical-sim-conflicts-and-tray-issues) |
-| **iPhone z Chin – brak opcji eSIM** | [Poprawka #8](#8-special-regional-cases-china-hong-kong-macau) – ograniczenie sprzętowe |
-| **Dane działają, ale brak internetu (problem z APN)** | [Poprawka #11](#11-how-to-configure-apn-settings-if-your-esim-has-no-data) – konfiguracja APN |
-| **eSIM usunięta przypadkowo** | [FAQ #9](#q9-how-do-i-recover-a-deleted-esim) – zależy od dostawcy |
-| **Nie jesteś pewien – coś innego** | [Pełna tabela rozwiązywania problemów](#10-troubleshooting-table--dual-esim-scenarios) |
+| **Drugi eSIM pokazuje „Brak usługi"**, ale pierwszy działa | [Poprawka #2](#why-one-dual-esim-line-shows-no-service) |
+| **Można dzwonić, ale NIE MOŻNA odbierać połączeń** | [Poprawka #3](#a-dual-esim-line-that-cannot-receive-calls) |
+| **Podczas połączenia druga linia mówi „Brak usługi"** | [Poprawka #4](#one-line-showing-no-service-during-a-call-is-normal) – to normalne! |
+| **Nie można dodać drugiego eSIM – błąd „Blokada operatora"** | [Poprawka #5](#dual-esim-not-working-on-a-carrier-locked-phone) |
+| **Bateria zużywa się szybciej przy dwóch liniach** | [Poprawka #6](#how-to-reduce-dual-esim-battery-drain) |
+| **Fizyczna SIM nie jest rozpoznawana** | [Poprawka #7](#esim-and-physical-sim-conflicts-and-tray-issues) |
+| **iPhone z Chin – brak opcji eSIM** | [Poprawka #8](#dual-esim-in-china-hong-kong-and-macau) – ograniczenie sprzętowe |
+| **Dane działają, ale nie ma internetu (problem z APN)** | [Poprawka #11](#how-to-configure-apn-settings-if-your-esim-has-no-data) – konfiguracja APN |
+| **eSIM usunięty przez przypadek** | [FAQ #9](#frequently-asked-questions) – zależy od dostawcy |
+| **Nie jestem pewien – coś innego** | [Pełna tabela rozwiązywania problemów](#dual-esim-troubleshooting-table) |
 
-> 💡 **Kluczowa wskazówka:** Jeśli używasz **dwóch linii na jednym iPhonie**, iPhone'y są w trybie **dual standby, a nie dual active** – gdy rozmawiasz, druga linia tymczasowo pokaże "Brak usługi". To **normalne zachowanie** (zobacz Poprawkę #4). Nie trać czasu na próby "naprawienia" tego.
+> 💡 **Kluczowa wskazówka:** Jeśli używasz **dwóch linii na jednym iPhonie**, iPhone'y działają w trybie **dual standby, a nie dual active** – gdy rozmawiasz, druga linia tymczasowo pokaże „Brak usługi". To **normalne zachowanie** (patrz Poprawka #4). Nie trać czasu na próby „naprawy" tego.
 
-Aby uzyskać pełny przewodnik po podstawowej konfiguracji eSIM, zobacz **[Kompletny przewodnik eSIM dla iPhone 16](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**. W przypadku zaawansowanych problemów nieobjętych tym przewodnikiem, nasz **[Szczegółowy przewodnik rozwiązywania problemów z eSIM (16 rzeczywistych przypadków)](/faq/esim-deep-troubleshooting-guide-2026/)** zawiera więcej rozwiązań.
+Jeśli Twoje problemy z dual-SIM wynikają z nieudanej instalacji, zacznij od [ogólnego przewodnika po aktywacji eSIM](/faq/how-to-activate-an-esim/), a następnie przejdź przez poniższe poprawki — a w przypadku każdego komunikatu o błędzie, którego ta strona nie wymienia, [Szczegółowy przewodnik rozwiązywania problemów z eSIM](/faq/esim-deep-troubleshooting-guide-2026/) omawia każdy przypadek dogłębnie.
 
 
-## Kompletna ścieżka rozwiązywania problemów z podwójną eSIM – od objawu do poprawki
+## Kompletny przewodnik rozwiązywania problemów z podwójnym eSIM
 
-Oto ścieżka, którą podąża większość użytkowników iPhone'a, gdy podwójna eSIM nie działa. Użyj jej, aby sprawdzić, na którym etapie jesteś.
+Oto ścieżka, którą podąża większość użytkowników iPhone, gdy podwójny eSIM nie działa. Użyj tego, aby śledzić, gdzie jesteś.
 
 | Krok | Co się dzieje | Co zrobić | Gdzie to znaleźć |
 | :--- | :--- | :--- | :--- |
-| **1. Zidentyfikuj objaw** | "Moja druga eSIM nie ma sygnału." / "Nie mogę odbierać połączeń." / "Bateria szybko się rozładowuje." | Dopasuj swój objaw do tabeli Szybkiej diagnozy powyżej. | [10‑sekundowa szybka diagnoza](#dual-esim-not-working-10second-quick-diagnosis) |
-| **2. Sprawdź, czy to normalne zachowanie** | "Podczas połączenia moja druga linia pokazuje Brak usługi." | To **normalne** dla iPhone'ów w trybie dual standby. Przejdź do Poprawki #4. | [Poprawka #4](#4-dual-esim-during-a-call-the-other-line-shows-no-service--this-is-normal) |
-| **3. Wyklucz blokadę operatora** | "W ogóle nie mogę dodać drugiej eSIM." | Sprawdź Blokadę operatora w Ustawieniach. Musi być napisane "Brak ograniczeń SIM." | [Poprawka #5](#5-dual-esim-not-working-check-carrier-lock-first) |
-| **4. Zastosuj poprawkę** | Postępuj zgodnie z konkretną poprawką dla swojego objawu. | Jedna z 12 poprawek poniżej rozwiąże Twój problem. | [Poprawki #1‑#12](#1-what-are-your-dual-esim-options-on-iphone) |
-| **5. Nadal nie działa?** | "Żadna z poprawek nie zadziałała." | Skorzystaj z opcji zapasowych w tabeli rozwiązywania problemów. | [Tabela rozwiązywania problemów](#10-troubleshooting-table--dual-esim-scenarios) |
+| **1. Zidentyfikuj objaw** | „Mój drugi eSIM nie ma sygnału." / „Nie mogę odbierać połączeń." / „Bateria szybko się rozładowuje." | Dopasuj objaw do tabeli szybkiej diagnozy powyżej. | [10-sekundowa szybka diagnoza](#dual-esim-quick-diagnostic-index) |
+| **2. Sprawdź, czy to normalne zachowanie** | „Podczas połączenia druga linia pokazuje Brak usługi." | To jest **normalne** dla iPhone'ów dual standby. Przejdź do Poprawki #4. | [Poprawka #4](#one-line-showing-no-service-during-a-call-is-normal) |
+| **3. Wyklucz blokadę operatora** | „Nie mogę w ogóle dodać drugiego eSIM." | Sprawdź Blokadę operatora w Ustawieniach. Musi być „Brak ograniczeń SIM". | [Poprawka #5](#dual-esim-not-working-on-a-carrier-locked-phone) |
+| **4. Zastosuj poprawkę** | Postępuj zgodnie z konkretną poprawką dla swojego objawu. | Jedna z 12 poprawek poniżej rozwiąże Twój problem. | [Poprawki #1‑#12](#what-are-your-dual-esim-options-on-iphone) |
+| **5. Nadal nie działa?** | „Żadna z poprawek nie zadziałała." | Użyj opcji awaryjnych w tabeli rozwiązywania problemów. | [Tabela rozwiązywania problemów](#dual-esim-troubleshooting-table) |
 
 
-## Szybki indeks diagnostyczny (specyficzny dla podwójnej eSIM)
+## Szybki indeks diagnostyczny podwójnego eSIM
 
 | Objaw | Najbardziej prawdopodobna przyczyna | Sekcja poprawki |
 |---------|-------------------|--------------|
-| Druga eSIM pokazuje "Brak usługi", ale pierwsza działa | VoLTE lub problem z kolejnością linii | [#2](#2-dual-esim-why-one-line-shows-no-service-while-the-other-works) |
-| Jeden numer może dzwonić, ale nie może odbierać połączeń | Niezgodność routingu połączeń przychodzących | [#3](#3-dual-esim-one-number-can-call-out-but-cannot-receive-incoming-calls) |
-| Podczas połączenia druga linia mówi "Brak usługi" | iPhone używa jednej sieci danych na raz (normalne) | [#4](#4-dual-esim-during-a-call-the-other-line-shows-no-service--this-is-normal) |
-| Nie można dodać drugiej eSIM – błąd "Blokada operatora" | Urządzenie zablokowane do pierwszego operatora | [#5](#5-dual-esim-not-working-check-carrier-lock-first) |
-| Podwójna eSIM działa, ale bateria rozładowuje się szybciej | Obie linie aktywnie wyszukują | [#6](#6-dual-esim-battery-drain-how-to-reduce) |
-| eSIM + fizyczna SIM: fizyczna SIM nie jest rozpoznawana | Problem z tacką SIM lub niekompatybilna karta | [#7](#7-esim--physical-sim-conflicts-and-tray-issues) |
-| Dane pokazują paski sygnału, ale brak internetu | Brakujące lub nieprawidłowe ustawienia APN | [#11](#11-how-to-configure-apn-settings-if-your-esim-has-no-data) |
+| Drugi eSIM pokazuje „Brak usługi", ale pierwszy działa | Problem z VoLTE lub kolejnością linii | [#2](#why-one-dual-esim-line-shows-no-service) |
+| Jeden numer może dzwonić, ale nie może odbierać połączeń | Niezgodność routingu połączeń przychodzących | [#3](#a-dual-esim-line-that-cannot-receive-calls) |
+| Podczas połączenia druga linia mówi „Brak usługi" | iPhone używa jednej sieci danych naraz (normalne) | [#4](#one-line-showing-no-service-during-a-call-is-normal) |
+| Nie można dodać drugiego eSIM – błąd „Blokada operatora" | Urządzenie zablokowane na pierwszego operatora | [#5](#dual-esim-not-working-on-a-carrier-locked-phone) |
+| Podwójny eSIM działa, ale szybciej zużywa baterię | Obie linie aktywnie szukają sieci | [#6](#how-to-reduce-dual-esim-battery-drain) |
+| eSIM + fizyczna SIM: fizyczna SIM nie jest rozpoznawana | Problem z tacką SIM lub niekompatybilna karta | [#7](#esim-and-physical-sim-conflicts-and-tray-issues) |
+| Dane pokazują paski sygnału, ale nie ma internetu | Brakujące lub nieprawidłowe ustawienia APN | [#11](#how-to-configure-apn-settings-if-your-esim-has-no-data) |
 
 
-## 1. Jakie są Twoje opcje podwójnej eSIM na iPhonie?
+## Jakie masz opcje podwójnego eSIM na iPhone?
 
-Począwszy od iPhone XS, XR i wszystkich nowszych modeli (w tym iPhone 16), Apple obsługuje podwójną eSIM (dwie eSIM aktywne jednocześnie) na iPhonie 13 i nowszych. Modele spoza USA obsługują również jedną eSIM i jedną fizyczną nano‑SIM. Modele z Chin kontynentalnych z dwoma fizycznymi SIM nie mają obsługi eSIM, z wyjątkiem iPhone 16.
+Począwszy od iPhone XS, XR i wszystkich nowszych modeli (w tym iPhone 16), Apple obsługuje podwójny eSIM (dwa aktywne eSIM jednocześnie) na iPhone 13 i nowszych. Modele spoza USA obsługują również jeden eSIM plus jedną fizyczną nano‑SIM. Modele z Chin kontynentalnych z dwiema fizycznymi SIM nie mają obsługi eSIM, z wyjątkiem iPhone 16.
 
-Twoja konfiguracja **podwójnej eSIM** zależy od modelu iPhone'a i regionu:
+Twoja konfiguracja **podwójnego eSIM** zależy od modelu iPhone i regionu:
 
 | Konfiguracja | Obsługiwane modele | Maks. aktywnych linii |
 |---------------|------------------|------------------|
-| **Podwójna eSIM** | iPhone 13 i nowsze (w tym wszystkie modele iPhone 16) | 2 |
-| **1 eSIM + 1 fizyczna nano‑SIM** | Wszystkie iPhone'y z tacką SIM (modele spoza USA i modele amerykańskie przed iPhone 14) | 2 |
+| **Podwójny eSIM** | iPhone 13 i nowsze (w tym wszystkie modele iPhone 16) | 2 |
+| **1 eSIM + 1 fizyczna nano‑SIM** | Wszystkie iPhone'y z tacką SIM (modele spoza USA i modele USA przed iPhone 14) | 2 |
 | **Tylko 1 fizyczna SIM** | Starsze iPhone'y (przed XS) | 1 |
-| **2 fizyczne SIM** | Specjalne modele z podwójną tacką SIM dla Chin kontynentalnych, Hongkongu, Makau (np. wersja iPhone 16 China) | 2 |
+| **2 fizyczne SIM** | Modele z Chin kontynentalnych, Hongkongu i Makau z podwójną tacką SIM (np. iPhone 16 wersja chińska) | 2 |
 
-Aby uzyskać pełną listę kompatybilnych iPhone'ów, [sprawdź kompatybilność podwójnej eSIM swojego iPhone'a](/compatibility/).
+Aby uzyskać pełną listę kompatybilnych iPhone'ów, [sprawdź zgodność swojego iPhone'a z podwójnym eSIM](/compatibility/).
 
 
-## 2. Podwójna eSIM: dlaczego jedna linia pokazuje "Brak usługi", podczas gdy druga działa
+## Dlaczego jedna linia podwójnego eSIM pokazuje Brak usługi
 
-Jeśli jedna z Twoich linii podwójnej eSIM może używać danych, ale nie może wykonywać ani odbierać połączeń — **lub w ogóle pokazuje "Brak usługi"** — najczęstsze przyczyny w 2026 roku to:
+Jeśli jedna z Twoich linii podwójnego eSIM może używać danych, ale nie może wykonywać ani odbierać połączeń — **lub w ogóle pokazuje „Brak usługi"** — najczęstsze przyczyny w 2026 roku to:
 
-- **VoLTE / VoNR nie jest włączone** dla tej linii. Niektórzy operatorzy wyłączają voice-over-data roaming w planach eSIM, co pozostawia linię tylko z danymi. (Prosty sposób sprawdzenia: jeśli możesz używać danych, ale nie możesz dzwonić, to prawdopodobnie ten problem.)
-- **Kolejność linii**. iOS kieruje głos do *domyślnej linii głosowej*; linia pomocnicza ustawiona tylko na dane nie może wykonywać ani odbierać połączeń.
-- **Plan nie obejmuje rozmów**. Niektóre podróżne eSIM są z założenia tylko z danymi i w ogóle nie mają usług głosowych. W takim przypadku zobaczysz paski sygnału, ale próba połączenia zakończy się niepowodzeniem.
+- **VoLTE / VoNR nie jest włączone** dla tej linii. Niektórzy operatorzy wyłączają roaming głosowy przez dane w planach eSIM, co pozostawia linię tylko do danych. (Prosty sposób sprawdzenia: jeśli możesz używać danych, ale nie możesz dzwonić, to prawdopodobnie ten problem.)
+- **Kolejność linii**. iOS kieruje głos do *domyślnej linii głosowej*; linia dodatkowa ustawiona jako tylko dane nie może wykonywać ani odbierać połączeń.
+- **Plan nie obejmuje rozmów**. Niektóre eSIM podróżne są zaprojektowane wyłącznie do danych i nie mają w ogóle usługi głosowej. W takim przypadku zobaczysz paski sygnału, ale próba połączenia zakończy się niepowodzeniem.
 
-> **Uwaga:** Starsze sieci 3G/CDMA zostały wycofane w USA i Japonii. Verizon i US Cellular zamknęły CDMA w latach 2022-2024, a au/KDDI zakończyło 3G w 2022 roku. W 2026 roku linia z "brakiem usługi dla głosu" to prawie zawsze problem z VoLTE, planem lub kolejnością linii – a nie CDMA.
+> **Uwaga:** Starsze sieci 3G/CDMA zostały wycofane w USA i Japonii. Verizon i US Cellular wyłączyły CDMA w latach 2022-2024, a au/KDDI zakończyło 3G w 2022 roku. W 2026 roku linia z „brakiem usługi głosowej" jest prawie zawsze problemem z VoLTE, planem lub kolejnością linii — a nie CDMA.
 
 ### Poprawki
-- **Ustaw daną linię jako domyślną linię głosową**: `Ustawienia > Komórkowe > Domyślna linia głosowa`.
-- **Włącz VoLTE**: `Ustawienia > Komórkowe > [linia] > Głos i dane`, następnie wybierz LTE lub 5G (VoLTE/VoNR).
-- **Potwierdź, że plan obejmuje rozmowy**. Jeśli jest to podróżna eSIM tylko z danymi, pozostaw swoją domową linię jako linię głosową i używaj eSIM tylko do danych.
-- **Skontaktuj się z operatorem**, aby zweryfikować, czy voice-over-LTE/5G jest włączone dla Twojego numeru podczas roamingu.
+- **Ustaw dotkniętą linię jako domyślną linię głosową**: `Ustawienia > Komórka > Domyślna linia głosowa`.
+- **Włącz VoLTE**: `Ustawienia > Komórka > [linia] > Głos i dane`, następnie wybierz LTE lub 5G (VoLTE/VoNR).
+- **Potwierdź, że plan obejmuje rozmowy**. Jeśli to eSIM podróżny tylko do danych, pozostaw domową linię jako linię głosową, a eSIM używaj tylko do danych.
+- **Skontaktuj się z operatorem**, aby zweryfikować, czy głos przez LTE/5G jest włączony dla Twojego numeru podczas roamingu.
 
-Aby uzyskać głębsze porównanie sieci amerykańskich operatorów, zobacz **[porównanie sieci amerykańskich operatorów](/carriers/united-states-esim-carrier-guide/)**.
+Aby uzyskać głębsze porównanie sieci operatorów amerykańskich, zobacz nasze **porównanie sieci operatorów USA** w [przewodniku po planach eSIM USA](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/).
 
 
-## 3. Podwójna eSIM: jeden numer może dzwonić, ale nie może odbierać połączeń przychodzących
+## Linia podwójnego eSIM, która nie może odbierać połączeń
 
-**Objaw**: Linia A działa dobrze. Linia B może wykonywać połączenia wychodzące, ale połączenia przychodzące do B trafiają prosto na pocztę głosową lub dzwonią jako "niedostępne".
+**Objaw**: Linia A działa dobrze. Linia B może wykonywać połączenia wychodzące, ale połączenia przychodzące do B idą prosto do poczty głosowej lub dzwonią jako „niedostępne".
 
-**Przyczyna**: Niezgodność routingu połączeń sieciowych. Gdy Linia B ostatnio przełączała się między 5G a LTE lub korzystała z Wi‑Fi Calling, sieć operatora może nadal próbować kierować połączenia przychodzące przez niewłaściwą ścieżkę.
+**Główna przyczyna**: Niezgodność routingu połączeń w sieci. Gdy Linia B niedawno przełączała się między 5G a LTE lub używała Wi-Fi Calling, sieć operatora może nadal próbować kierować połączenia przychodzące niewłaściwą ścieżką.
 
-**Analogia:** Wyobraź sobie, że operator ma starą książkę adresową, która nadal podaje Twój telefon pod poprzednim adresem. Gdy ktoś dzwoni, trafia w niewłaściwe miejsce. Przełączenie Wi‑Fi Calling aktualizuje książkę adresową.
+**Analogia:** Wyobraź sobie, że operator ma starą książkę adresową, która nadal wymienia Twój telefon pod poprzednim adresem. Gdy ktoś dzwoni, trafia w złe miejsce. Przełączenie Wi‑Fi Calling aktualizuje książkę adresową.
 
-### Szybka poprawka (po stronie użytkownika)
-1. Wyłącz tymczasowo **Wi‑Fi Calling**: `Ustawienia > Komórkowe > Linia B > Wi‑Fi Calling` → WYŁ.
-2. Uruchom ponownie iPhone'a.
+### Szybka poprawka na telefonie
+1. Tymczasowo wyłącz **Wi‑Fi Calling**: `Ustawienia > Komórka > Linia B > Wi‑Fi Calling` → WYŁ.
+2. Uruchom ponownie iPhone.
 3. Włącz ponownie Wi‑Fi Calling.
 
-### Poprawka po stronie operatora (skontaktuj się z pomocą)
-Poproś operatora o **zresetowanie routingu połączeń** lub **odświeżenie linii** dla tego numeru. Zwykle zaczyna to działać wkrótce po ponownej konfiguracji linii przez operatora. Aby uzyskać więcej problemów z routingiem połączeń i inne problemy związane z połączeniami, zobacz **[Poprawka 14 w naszym przewodniku rozwiązywania problemów](/faq/esim-deep-troubleshooting-guide-2026/#14-dual-sim-one-number-can-call-out-but-cannot-receive-incoming-calls)**.
+### Poprawka operatora przez kontakt z pomocą techniczną
+Poproś operatora o **zresetowanie routingu połączeń** lub **odświeżenie linii** dla tego numeru. Zwykle zaczyna działać wkrótce po ponownym provisioningu linii przez operatora. Aby uzyskać więcej informacji na temat routingu połączeń i innych problemów związanych z połączeniami, zobacz **[Poprawka 3 powyżej](#a-dual-esim-line-that-cannot-receive-calls)**.
 
 ### Zapobieganie nawrotom
-- Unikaj szybkiego przełączania między 5G/LTE (pozostań w jednym trybie przez co najmniej kilka godzin).
-- Jeśli często podróżujesz, wyłącz **Data Roaming** dla linii, która nie potrzebuje danych.
+- Unikaj szybkiego przełączania między 5G/LTE (pozostaw jeden tryb przez co najmniej kilka godzin).
+- Jeśli często podróżujesz, pozostaw **Roaming danych** WYŁ dla linii, która nie potrzebuje danych.
 
 
-## 4. Podwójna eSIM: podczas połączenia druga linia pokazuje "Brak usługi" – to normalne
+## Jedna linia pokazująca Brak usługi podczas połączenia jest normalna
 
-**Objaw**: Rozmawiasz przez linię A. Gdy sprawdzasz, linia B pokazuje "Brak usługi".
+**Objaw**: Rozmawiasz przez Linię A. Gdy sprawdzasz, Linia B pokazuje „Brak usługi".
 
-**Wyjaśnienie**: iPhone'y są w trybie **dual standby, a nie dual active** (znanym również jako DSDS – Dual SIM Dual Standby). Tylko jedna linia może utrzymywać połączenie komórkowe na raz. Podczas rozmowy druga linia jest tymczasowo niedostępna. Gdy rozmowa się kończy, obie linie ponownie się łączą. To **nie jest awaria podwójnej eSIM** – to celowe działanie.
+**Wyjaśnienie**: iPhone'y działają w trybie **dual standby, a nie dual active** (znanym również jako DSDS – Dual SIM Dual Standby). Tylko jedna linia może utrzymywać połączenie komórkowe w danym momencie. Podczas połączenia druga linia jest tymczasowo nieosiągalna. Gdy tylko połączenie się zakończy, obie linie ponownie się łączą. To **nie jest awaria podwójnego eSIM** – to celowe działanie.
 
-### Co możesz zrobić:
-- **Włącz Wi‑Fi Calling na obu liniach** – wtedy bezczynna linia może używać Wi‑Fi do odbierania połączeń, gdy rozmawiasz przez drugą linię. Dokumentacja Apple dotycząca [dual standby](https://support.apple.com/guide/iphone/iph22f1a8af1/ios) wyjaśnia to bardziej szczegółowo.
-- **Włącz "Zezwalaj na przełączanie danych komórkowych"** – w `Ustawienia > Komórkowe > Dane komórkowe`. Pozwala to linii bez danych na korzystanie z połączenia linii danych dla Wi‑Fi Calling.
+### Co możesz zrobić
+- **Włącz Wi‑Fi Calling na obu liniach** – wtedy bezczynna linia może używać Wi‑Fi do odbierania połączeń, gdy rozmawiasz na drugiej linii. Dokumentacja Apple dotycząca [dual standby](https://support.apple.com/guide/iphone/iph22f1a8af1/ios) wyjaśnia to bardziej szczegółowo.
+- **Włącz „Zezwalaj na przełączanie danych komórkowych"** – w `Ustawienia > Komórka > Dane komórkowe`. Pozwala to linii niedanych używać połączenia danych drugiej linii do Wi‑Fi Calling.
 
-> 📌 Uwaga: Niektórzy operatorzy nie obsługują jednoczesnego Wi‑Fi Calling na obu liniach. Sprawdź u swojego operatora.
-
-
-## 5. Podwójna eSIM nie działa? Najpierw sprawdź blokadę operatora
-
-Jeśli nie możesz dodać drugiej eSIM lub fizycznej SIM:
-- Twój iPhone może być **zablokowany przez operatora** do pierwszego operatora.
-- Aby sprawdzić: `Ustawienia > Ogólne > Informacje` → przewiń do **Blokada operatora**. Musi być napisane "Brak ograniczeń SIM".
-
-### Co zrobić, jeśli zablokowany:
-- Skontaktuj się z operatorem, aby poprosić o odblokowanie. Amerykańscy operatorzy muszą odblokować po spłacie urządzenia.
-- Jeśli odblokowany, ale nadal nie działa, może być konieczne zresetowanie ustawień sieciowych: `Ustawienia > Ogólne > Przenieś lub zresetuj iPhone'a > Resetuj > Resetuj ustawienia sieciowe`. (Uwaga: spowoduje to zapomnienie haseł Wi‑Fi.)
-
-Po odblokowaniu możesz również przenieść swoją eSIM między iPhone'em a Androidem – zobacz nasz przewodnik **[Przenoszenie eSIM między platformami 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** po instrukcje krok po kroku.
+> 📌 Uwaga: Niektórzy operatorzy nie obsługują Wi‑Fi Calling jednocześnie na obu liniach. Sprawdź u swojego operatora.
 
 
-## 6. Zużycie baterii przy podwójnej eSIM: jak zmniejszyć
+## Podwójny eSIM nie działa na telefonie zablokowanym przez operatora
 
-Uruchomienie **podwójnej eSIM** lub nawet eSIM + fizycznej SIM może zwiększyć zużycie baterii, ponieważ obie linie pozostają aktywnie połączone z siecią. Oto jak zminimalizować zużycie, zachowując obie linie aktywne:
+Jeśli nie możesz dodać drugiego eSIM lub fizycznej SIM:
+- Twój iPhone może być **zablokowany przez operatora** na pierwszego operatora.
+- Aby sprawdzić: `Ustawienia > Ogólne > Informacje` → przewiń do **Blokada operatora**. Musi być „Brak ograniczeń SIM".
+
+### Co zrobić, jeśli telefon jest zablokowany
+- Skontaktuj się z operatorem, aby poprosić o odblokowanie. Operatorzy w USA muszą odblokować po spłacie urządzenia.
+- Jeśli odblokowany, ale nadal nie działa, może być konieczne zresetowanie ustawień sieci: `Ustawienia > Ogólne > Przenieś lub zresetuj iPhone > Zresetuj > Zresetuj ustawienia sieci`. (Ostrzeżenie: to zapomina hasła Wi‑Fi.)
+
+Po odblokowaniu możesz również przenieść eSIM między iPhone a Android – zobacz nasz **[przewodnik po międzyplatformowym przenoszeniu eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**, aby uzyskać instrukcje krok po kroku.
+
+
+## Jak zmniejszyć zużycie baterii przy podwójnym eSIM
+
+Używanie **podwójnego eSIM** lub nawet eSIM + fizycznej SIM może zwiększyć zużycie baterii, ponieważ obie linie pozostają aktywnie połączone z siecią. Oto jak zminimalizować zużycie, utrzymując obie linie aktywne:
 
 | Strategia | Efekt |
 |----------|--------|
-| Ustaw linię ze słabszym sygnałem na **używanie tylko LTE** (nie 5G) | Umiarkowana oszczędność |
-| Wyłącz **Data Roaming** na linii nieużywanej do danych | Oszczędza skanowanie |
+| Ustaw linię o słabszym sygnale na **tylko LTE** (nie 5G) | Umiarkowane oszczędności |
+| Wyłącz **Roaming danych** na linii nieużywanej do danych | Oszczędza skanowanie |
 | Wyłącz **5G Standalone** (jeśli operator pozwala) | Bardzo pomaga |
-| Użyj **Trybu niskiego zużycia danych** dla aplikacji w tle na linii pomocniczej | Niewielka oszczędność |
-| W obszarach o bardzo słabym sygnale tymczasowo wyłącz linię pomocniczą | Znaczna oszczędność |
+| Użyj **Trybu niskiego zużycia danych** dla aplikacji w tle na linii dodatkowej | Niewielkie oszczędności |
+| W obszarach bardzo słabego sygnału tymczasowo wyłącz linię dodatkową | Znaczące oszczędności |
 
-Aby wyłączyć linię: `Ustawienia > Komórkowe` → kliknij linię → przełącz **Włącz tę linię** na wyłączone. Jeśli często podróżujesz międzynarodowo, [wypróbuj darmową próbną eSIM Roami](/free-esim/) jako alternatywę oszczędzającą baterię.
+Aby wyłączyć linię: `Ustawienia > Komórka` → dotknij linii → wyłącz **Włącz tę linię**. Jeśli często podróżujesz za granicę, [wypróbuj darmowy eSIM od Roami](/free-esim/) jako energooszczędną alternatywę.
 
 
-## 7. Konflikty eSIM + fizycznej SIM i problemy z tacką
+## Konflikty eSIM i fizycznej SIM oraz problemy z tacką
 
-**Objaw**: Twoja nano‑SIM działa w innym telefonie, ale nie w iPhonie. Lub Twoja eSIM działa dobrze, ale fizyczna SIM nie jest rozpoznawana, gdy obie są zainstalowane.
+**Objaw**: Twoja nano‑SIM działa w innym telefonie, ale nie w iPhonie. Lub eSIM działa dobrze, ale fizyczna SIM nie jest rozpoznawana, gdy obie są zainstalowane.
 
-**Typowe przyczyny**:
-- iPhone jest **zablokowany przez operatora** do innej sieci.
-- Tacka SIM nie jest w pełni włożona lub uszkodzona.
+**Częste przyczyny**:
+- iPhone jest **zablokowany przez operatora** na inną sieć.
+- Tacka SIM nie jest całkowicie włożona lub jest uszkodzona.
 - Karta SIM jest **zbyt stara** (przed 4G) lub wygięta.
-- **Konflikt fizycznej SIM**: Na niektórych iPhone'ach włożenie fizycznej SIM może tymczasowo wyłączyć gniazdo eSIM, jeśli urządzenie jest zablokowane przez operatora.
+- **Konflikt fizycznej SIM**: W niektórych iPhone'ach włożenie fizycznej SIM może tymczasowo wyłączyć slot eSIM, jeśli urządzenie jest zablokowane przez operatora.
 
 **Poprawki**:
 1. Wyjmij tackę, wyczyść styki miękką ściereczką.
-2. Włóż ponownie mocno aż do kliknięcia.
-3. Uruchom ponownie iPhone'a.
-4. Jeśli nadal nie jest rozpoznawana, spróbuj włożyć SIM do innego telefonu – jeśli działa, czytnik SIM w iPhonie może być uszkodzony.
-5. Wymień kartę SIM w sklepie operatora (bezpłatne dla większości planów postpaid).
+2. Włóż mocno, aż usłyszysz kliknięcie.
+3. Uruchom ponownie iPhone.
+4. Jeśli nadal nie jest rozpoznawana, wypróbuj SIM w innym telefonie – jeśli działa, czytnik SIM w iPhonie może być uszkodzony.
+5. Wymień kartę SIM w sklepie operatora (bezpłatnie dla większości planów abonamentowych).
 
-> **Jeśli Twoja eSIM znika po włożeniu fizycznej SIM:** Niektóre iPhone'y zablokowane przez operatora wyłączają gniazdo eSIM, gdy włożona jest fizyczna SIM od innego operatora. Wyjmij fizyczną SIM, uruchom ponownie, a Twoja eSIM powinna się pojawić. Następnie skontaktuj się z operatorem, aby odblokować urządzenie.
+> **Jeśli Twój eSIM zniknie po włożeniu fizycznej SIM:** Niektóre iPhone'y zablokowane przez operatora wyłączają slot eSIM, gdy włożona jest fizyczna SIM od innego operatora. Wyjmij fizyczną SIM, uruchom ponownie, a eSIM powinien się pojawić. Następnie skontaktuj się z operatorem, aby odblokować urządzenie.
 
-Jeśli planujesz całkowicie przejść na eSIM, zapoznaj się z naszym **[przewodnikiem eSIM dla iPhone 16](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)** po metody aktywacji.
+Jeśli planujesz całkowicie przejść na eSIM, zapoznaj się z naszym **[przewodnikiem po eSIM dla iPhone 16](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)** w celu poznania metod aktywacji.
 
 
-## 8. Specjalne przypadki regionalne: Chiny, Hongkong, Makau
+## Podwójny eSIM w Chinach, Hongkongu i Makau
 
-iPhone'y z Chin kontynentalnych (z wyjątkiem iPhone 16) mają dwa fizyczne gniazda nano‑SIM i **w ogóle nie obsługują eSIM**. Modele z Hongkongu i Makau zazwyczaj obsługują eSIM + fizyczną SIM. Jeśli kupisz iPhone'a z Chin kontynentalnych z dwiema fizycznymi SIM, nie możesz zainstalować żadnej eSIM, w tym międzynarodowych podróżnych eSIM – to ograniczenie sprzętowe.
+iPhone'y z Chin kontynentalnych (z wyjątkiem iPhone 16) mają dwa fizyczne sloty nano‑SIM i **nie obsługują w ogóle eSIM**. Modele z Hongkongu i Makau zazwyczaj obsługują eSIM + fizyczną SIM. Jeśli kupisz iPhone'a z Chin kontynentalnych z dwiema fizycznymi SIM, nie możesz zainstalować żadnego eSIM, w tym międzynarodowych eSIM podróżnych – to ograniczenie sprzętowe.
 
-Apple sprzedaje specjalne modele z dwiema fizycznymi SIM w **Chinach kontynentalnych**:
-- iPhone 16, 17 Pro, 17 Pro Max: **dwa fizyczne gniazda nano‑SIM** (brak eSIM z wyjątkiem Air).
-- iPhone 16: **tylko eSIM** (globalnie, w tym Chiny).
+Apple sprzedaje określone modele z dwiema fizycznymi SIM w **Chinach kontynentalnych**:
+- iPhone 16, 17 Pro, 17 Pro Max: **dwa fizyczne sloty nano‑SIM** (brak eSIM z wyjątkiem Air).
+- iPhone 16: **tylko eSIM** (globalny, w tym Chiny).
 
-**Modele z Hongkongu i Makau**:
+Modele **Hongkong i Makau**:
 - Obsługują **eSIM + fizyczną SIM** (jak modele międzynarodowe) lub dwie fizyczne SIM w zależności od modelu.
-- Zawsze sprawdzaj przed zakupem, jeśli planujesz używać podróżnych planów eSIM.
+- Zawsze weryfikuj przed zakupem, jeśli planujesz używać planów eSIM podróżnych.
 
-> ⚠️ **Ważne**: Jeśli kupisz iPhone'a z Chin kontynentalnych z dwiema fizycznymi SIM, **nie możesz zainstalować żadnej eSIM** (w tym międzynarodowych podróżnych eSIM) – z wyjątkiem iPhone 16. To ograniczenie sprzętowe, a nie blokada programowa.
+> ⚠️ **Ważne**: Jeśli kupisz iPhone'a z Chin kontynentalnych z dwiema fizycznymi SIM, **nie możesz zainstalować żadnego eSIM** (w tym międzynarodowych eSIM podróżnych) – z wyjątkiem iPhone 16. To ograniczenie sprzętowe, a nie blokada programowa.
 
 
-## 9. Podwójna eSIM dla pracy i życia prywatnego: najlepsze praktyki
+## Podwójny eSIM dla linii służbowej i osobistej
 
-Wielu użytkowników trzyma **numer służbowy** (eSIM) i **numer prywatny** (druga eSIM lub fizyczna SIM). Oto jak skonfigurować **podwójną eSIM** w przejrzysty sposób:
+Wielu użytkowników utrzymuje **numer służbowy** (eSIM) i **numer osobisty** (drugi eSIM lub fizyczna SIM). Oto jak czysto skonfigurować **podwójny eSIM**:
 
-### Wyraźne oznaczanie linii
-`Ustawienia > Komórkowe` → kliknij linię → `Etykieta planu komórkowego` → wybierz "Służbowy" lub "Prywatny" lub utwórz niestandardową etykietę.
+### Wyraźnie oznacz linie
+`Ustawienia > Komórka` → dotknij linii → `Etykieta planu komórkowego` → wybierz „Służbowy" lub „Osobisty" albo utwórz niestandardową etykietę.
 
 ### Wybierz domyślny głos i dane
-- **Domyślna linia głosowa**: Której linii używać, gdy dzwonisz z natywnej aplikacji Telefon (nadal możesz wybrać przy każdym połączeniu).
-- **Dane komórkowe**: Która linia używa danych mobilnych. Włącz **Zezwalaj na przełączanie danych komórkowych**, aby telefon mógł tymczasowo używać danych z drugiej linii, jeśli podstawowa straci sygnał.
+- **Domyślna linia głosowa**: Której linii używać podczas wybierania numeru z natywnej aplikacji Telefon (nadal możesz wybrać dla każdego połączenia).
+- **Dane komórkowe**: Która linia używa danych mobilnych. Włącz **Zezwalaj na przełączanie danych komórkowych**, aby telefon mógł tymczasowo użyć danych drugiej linii, jeśli podstawowa straci sygnał.
 
-### Oddzielne kontakty
-- Przypisz kontakty do konkretnej linii: Edytuj kontakt → `Preferowana linia` → wybierz służbowy lub prywatny.
+### Oddziel kontakty
+- Przypisz kontakty do określonej linii: Edytuj kontakt → `Preferowana linia` → wybierz służbowy lub osobisty.
 
 ### Zapobiegaj przypadkowemu roamingowi
-- Wyłącz **Data Roaming** dla linii służbowej, jeśli ma drogie stawki międzynarodowe.
+- Wyłącz **Roaming danych** dla linii służbowej, jeśli ma drogie stawki międzynarodowe.
 
 
-## 10. Tabela rozwiązywania problemów – scenariusze podwójnej eSIM
+## Tabela rozwiązywania problemów z podwójnym eSIM
 
 | Problem | Natychmiastowy krok | Długoterminowa poprawka | Jeśli nadal nie działa |
 |---------|----------------|----------------|----------------------|
-| Druga eSIM nigdy nie ma sygnału | Uruchom ponownie iPhone'a, następnie przełącz linię wyłącz/włącz | Potwierdź, że plan jest aktywny i linia jest włączona | Skontaktuj się z operatorem, aby ponownie skonfigurować eSIM |
-| Połączenia trafiają na pocztę głosową (brak dzwonka) | Wyłącz "Wycisz nieznanych dzwoniących" i przekierowanie połączeń | Skontaktuj się z operatorem, aby zresetować routing połączeń | Zresetuj ustawienia sieciowe |
-| Nie można odbierać SMS-ów na drugiej linii | Wyślij testowego SMS-a z tej linii na dowolny numer | Upewnij się, że linia nie jest tylko z danymi; operator może potrzebować włączyć SMS | Użyj aplikacji operatora, aby zsynchronizować linię |
-| Dwie eSIM, ale obie pokazują "Brak usługi" | Włącz/wyłącz tryb samolotowy > sprawdź blokadę operatora | Przywróć ustawienia sieciowe | Sprawdź, czy operator nie ma awarii w Twojej okolicy |
-| Przełączono linie i teraz FaceTime/iMessage nie chce się aktywować | Przejdź do `Ustawienia > Wiadomości > Wyślij i odbierz` – ręcznie wybierz numery | Wyloguj się z Apple ID i zaloguj ponownie | Skontaktuj się z Apple Support |
-| Dane pokazują sygnał, ale brak internetu | Sprawdź ustawienia APN (zobacz Poprawkę #11) | Skonfiguruj APN ręcznie | Skontaktuj się z dostawcą eSIM po prawidłowy APN |
-| eSIM usunięta przypadkowo | Sprawdź, czy dostawca pozwala na ponowne pobranie | Skontaktuj się z operatorem po nowy kod QR | Podróżne eSIM: kup nowy plan |
-| Włożono fizyczną SIM, eSIM znika | Telefon zablokowany przez operatora wyłącza eSIM z obcą SIM | Wyjmij fizyczną SIM, uruchom ponownie, eSIM pojawi się ponownie | Skontaktuj się z operatorem, aby odblokować urządzenie |
+| Drugi eSIM nigdy nie dostaje sygnału | Uruchom ponownie iPhone, następnie włącz/wyłącz linię | Potwierdź, że plan jest aktywny, a linia włączona | Skontaktuj się z operatorem, aby ponownie provisionować eSIM |
+| Połączenia idą prosto do poczty głosowej (brak dzwonka) | Wyłącz „Wycisz nieznanych rozmówców" i przekierowanie połączeń | Skontaktuj się z operatorem, aby zresetować routing połączeń | Zresetuj ustawienia sieci |
+| Nie można odbierać SMS-ów na drugiej linii | Wyślij testowy SMS z tej linii na dowolny numer | Upewnij się, że linia nie jest tylko do danych; operator może potrzebować włączyć SMS | Użyj aplikacji operatora, aby zsynchronizować linię |
+| Dwa eSIM, ale oba pokazują „Brak usługi" | Tryb samolotowy wł/wył > sprawdź blokadę operatora | Przywróć ustawienia sieci | Sprawdź, czy operator ma awarię w Twojej okolicy |
+| Przełączyłem linie i teraz FaceTime/iMessage nie chcą się aktywować | Przejdź do `Ustawienia > Wiadomości > Wyślij i odbierz` – ręcznie wybierz numery | Wyloguj się z Apple ID i zaloguj ponownie | Skontaktuj się z pomocą techniczną Apple |
+| Dane pokazują sygnał, ale nie ma internetu | Sprawdź ustawienia APN (patrz Poprawka #11) | Skonfiguruj APN ręcznie | Skontaktuj się z dostawcą eSIM, aby uzyskać poprawny APN |
+| eSIM usunięty przez przypadek | Sprawdź, czy dostawca pozwala na ponowne pobranie | Skontaktuj się z operatorem, aby uzyskać nowy kod QR | eSIM podróżne: kup nowy plan |
+| Włożono fizyczną SIM, eSIM znika | Telefon zablokowany przez operatora wyłącza eSIM z obcą SIM | Wyjmij fizyczną SIM, uruchom ponownie, eSIM wraca | Skontaktuj się z operatorem, aby odblokować urządzenie |
 
 
-## 11. Jak skonfigurować ustawienia APN, jeśli Twoja eSIM nie ma danych
+## Jak skonfigurować ustawienia APN, jeśli Twój eSIM nie ma danych
 
-**Objaw**: Twoja eSIM pokazuje pełne paski sygnału (lub "Brak usługi"), ale nie masz połączenia internetowego – strony nie ładują się, aplikacje mówią "brak połączenia".
+**Objaw**: Twój eSIM pokazuje pełne paski sygnału (lub „Brak usługi"), ale nie masz połączenia z internetem – strony się nie ładują, aplikacje mówią „brak połączenia".
 
-**Przyczyna**: Profil eSIM został zainstalowany poprawnie, ale ustawienia Access Point Name (APN) są brakujące lub nieprawidłowe. Niektórzy dostawcy eSIM automatycznie konfigurują APN; inni wymagają ręcznego wprowadzenia.
+**Główna przyczyna**: Profil eSIM został zainstalowany poprawnie, ale ustawienia Access Point Name (APN) są brakujące lub nieprawidłowe. Niektórzy dostawcy eSIM automatycznie konfigurują APN; inni wymagają ręcznego wprowadzenia.
 
-### Jak skonfigurować APN na iPhonie
+### Jak skonfigurować APN na iPhone
 
-1. Przejdź do **Ustawienia > Komórkowe**.
-2. Kliknij linię eSIM, która nie ma danych.
-3. Kliknij **Sieć danych komórkowych** (jeśli nie widzisz tej opcji, APN jest automatycznie konfigurowany przez operatora – pomiń tę poprawkę).
+1. Przejdź do **Ustawienia > Komórka**.
+2. Dotknij linii eSIM, która nie ma danych.
+3. Dotknij **Sieć danych komórkowych** (jeśli nie widzisz tej opcji, APN jest automatycznie konfigurowany przez operatora – pomiń tę poprawkę).
 4. W sekcji **Dane komórkowe** wypełnij pole **APN**.
-5. Pozostaw **Nazwa użytkownika** i **Hasło** puste, chyba że Twój dostawca określa inaczej.
-6. Wróć, przełącz tryb samolotowy włącz/wyłącz i przetestuj dane.
+5. Pozostaw **Nazwę użytkownika** i **Hasło** puste, chyba że dostawca określi inaczej.
+6. Wróć, przełącz tryb samolotowy wł/wył i przetestuj dane.
 
-### Typowe wartości APN dla podróżnych eSIM
+### Typowe wartości APN dla eSIM podróżnych
 
 | Dostawca | APN | Nazwa użytkownika | Hasło |
 |----------|-----|----------|----------|
@@ -348,19 +351,19 @@ Wielu użytkowników trzyma **numer służbowy** (eSIM) i **numer prywatny** (dr
 | **O2 (UK)** | mobile.o2.co.uk | web | web |
 | **Vodafone (UK)** | internet | (puste) | (puste) |
 | **Three (UK)** | three.co.uk | (puste) | (puste) |
-| **Orange (Francja)** | orange.fr | (puste) | (puste) |
+| **Orange (France)** | orange.fr | (puste) | (puste) |
 
-> **Jeśli pole APN jest wyszarzone:** Twój operator zablokował ustawienia APN. To częste w przypadku eSIM operatorów postpaid (Verizon, T‑Mobile, AT&T). Skontaktuj się z operatorem po pomoc – nie możesz tego zmienić ręcznie.
+> **Jeśli pole APN jest wyszarzone:** Operator zablokował ustawienia APN. Jest to częste w przypadku eSIM abonamentowych (Verizon, T‑Mobile, AT&T). Skontaktuj się z operatorem – nie możesz zmienić ich ręcznie.
 
-> **Jeśli APN jest prawidłowy, ale nadal brak danych:** Uruchom ponownie iPhone'a, przełącz tryb samolotowy lub sprawdź, czy Data Roaming jest włączone (Ustawienia > Komórkowe > [linia] > Data Roaming WŁ.).
+> **Jeśli APN jest poprawny, ale nadal nie ma danych:** Uruchom ponownie iPhone, przełącz tryb samolotowy lub sprawdź, czy roaming danych jest włączony (Ustawienia > Komórka > [linia] > Roaming danych WŁ).
 
 
-## 12. Ostateczne profesjonalne wskazówki dla użytkowników podwójnej eSIM
+## Końcowe wskazówki dla użytkowników podwójnego eSIM
 
-- **Oznacz swoje linie** natychmiast po konfiguracji – oszczędza to nieskończonego zamieszania.
-- **Ustaw różne dzwonki** dla każdej linii: `Ustawienia > Dźwięki i haptyka > Dzwonek` → przewiń w dół, możesz przypisać na linię.
-- **Użyj automatyzacji Skrótów**, aby zmieniać domyślną linię głosową w zależności od czasu (np. godziny pracy = linia służbowa; wieczory = prywatna).
-- **Przed sprzedażą urządzenia**: Przejdź do `Ustawienia > Komórkowe`, usuń **wszystkie** eSIM i wyjmij fizyczną SIM. Następnie wymaż całą zawartość i ustawienia. Aby uzyskać szczegółowy przewodnik po usuwaniu eSIM i anulowaniu planów, zapoznaj się z **[Poprawką #9 w naszym przewodniku rozwiązywania problemów](/faq/esim-deep-troubleshooting-guide-2026/#9-after-deleting-esim-carrier-still-charges--cannot-reactivate)**.
+- **Oznacz swoje linie** natychmiast po skonfigurowaniu – oszczędza to niekończące się zamieszanie.
+- **Ustaw różne dzwonki** dla każdej linii: `Ustawienia > Dźwięki i haptyka > Dzwonek` → przewiń w dół, możesz przypisać dla każdej linii.
+- **Użyj automatyzacji Skrótów**, aby zmieniać domyślną linię głosową na podstawie czasu (np. godziny pracy = linia służbowa; wieczory = osobista).
+- **Przed sprzedażą urządzenia**: Przejdź do `Ustawienia > Komórka`, usuń **wszystkie** eSIM i wyjmij fizyczną SIM. Następnie wyczyść całą zawartość i ustawienia. Aby uzyskać szczegółowy przewodnik po usuwaniu eSIM i anulowaniu planów, zapoznaj się z **[Poprawką #15 w naszym przewodniku rozwiązywania problemów](/faq/esim-deep-troubleshooting-guide-2026/#esim-deleted-by-mistake)**.
 
 
 ## Często zadawane pytania
@@ -369,57 +372,57 @@ Wielu użytkowników trzyma **numer służbowy** (eSIM) i **numer prywatny** (dr
 Tak, o ile operator pozwala na wiele profili eSIM na jednym koncie. Na przykład T‑Mobile US obsługuje do dwóch eSIM na tym samym iPhonie.
 
 **P2: Czy obie linie będą obsługiwać 5G jednocześnie?**  
-Tak, na iPhonie 13 i nowszych (w tym iPhone 16) obie linie mogą być w 5G (dual 5G standby). Jednak tylko jedna linia może używać danych 5G na raz; druga używa 5G do głosu (VoNR).
+Tak, na iPhone 13 i nowszych (w tym iPhone 16) obie linie mogą być w 5G (podwójny standby 5G). Jednak tylko jedna linia może używać danych 5G naraz; druga używa 5G do awaryjnego głosu (VoNR).
 
 **P3: Moja druga linia działa, ale pierwsza przestała działać po jej dodaniu – co się stało?**  
-Być może przypadkowo zamieniłeś ustawienia linii podstawowej. Przejdź do `Ustawienia > Komórkowe > Domyślna linia głosowa` i ustaw ją z powrotem.
+Możliwe, że przypadkowo zamieniłeś ustawienia linii podstawowej. Przejdź do `Ustawienia > Komórka > Domyślna linia głosowa` i ustaw z powrotem.
 
-**P4: Czy podwójna eSIM zużywa więcej baterii niż eSIM + fizyczna SIM?**  
-Ogólnie podwójna eSIM zużywa nieco mniej energii, ponieważ nie ma fizycznego czytnika kart. Ale różnica jest pomijalna (w granicach 2‑3%).
+**P4: Czy podwójny eSIM zużywa więcej baterii niż eSIM + fizyczna SIM?**  
+Ogólnie podwójny eSIM zużywa nieco mniej energii, ponieważ nie ma fizycznego czytnika kart. Ale różnica jest nieznaczna (w granicach 2‑3%).
 
-**P5: Podróżuję – czy mogę używać lokalnej eSIM do danych i zachować domową eSIM do połączeń?**  
+**P5: Podróżuję – czy mogę używać lokalnego eSIM do danych i zachować domowy eSIM do połączeń?**  
 Tak, najlepsza praktyka:  
-- Ustaw lokalną eSIM jako linię **Dane komórkowe**.  
-- Pozostaw domową eSIM jako **Domyślną linię głosową**.  
-- Wyłącz **Data Roaming** na domowej eSIM, aby uniknąć ogromnych opłat.  
-- Włącz **Zezwalaj na przełączanie danych komórkowych**, aby Twoja domowa linia mogła używać danych lokalnej eSIM dla Wi‑Fi Calling i MMS.
+- Ustaw lokalny eSIM jako linię **Dane komórkowe**.  
+- Zachowaj domowy eSIM jako **Domyślną linię głosową**.  
+- Wyłącz **Roaming danych** na domowym eSIM, aby uniknąć ogromnych opłat.  
+- Włącz **Zezwalaj na przełączanie danych komórkowych**, aby Twoja domowa linia mogła używać danych lokalnego eSIM do Wi‑Fi Calling i MMS.
 
-Jeśli często przełączasz się między urządzeniami podczas podróży, **[przewodnik przenoszenia eSIM między platformami](/faq/how-to-transfer-esim-between-iphone-and-android/)** pomoże Ci płynnie przenieść numer.
+Jeśli często przełączasz się między urządzeniami podczas podróży, **[przewodnik po międzyplatformowym przenoszeniu eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** pomoże Ci przenieść numer bezproblemowo.
 
-**P6: Dlaczego druga eSIM czasami znika po aktualizacji iOS?**  
-Rzadki błąd. Przejdź do `Ustawienia > Komórkowe` → jeśli linii brakuje, ale nadal jest widoczna w "Dostępnych kartach SIM", kliknij ją i ponownie aktywuj. Jeśli nie, skontaktuj się z operatorem, aby ponownie przesłał profil.
+**P6: Dlaczego drugi eSIM czasami znika po aktualizacji iOS?**  
+Rzadki błąd. Przejdź do `Ustawienia > Komórka` → jeśli linia zniknęła, ale nadal pojawia się w „Dostępne SIM", dotknij jej i aktywuj ponownie. Jeśli nie, skontaktuj się z operatorem, aby ponownie wysłał profil.
 
-**P7: Czy mogę używać konfiguracji dual SIM z Apple Watch?**  
-Tak. Apple Watch może odzwierciedlać **jedną** z linii iPhone'a. Wybierz, którą linię chcesz na zegarku podczas konfiguracji. Zegarek nie może używać obu linii jednocześnie – odzwierciedla tylko wybraną linię.
+**P7: Czy mogę używać konfiguracji dual-SIM z Apple Watch?**  
+Tak. Apple Watch może odzwierciedlać **jedną** z linii iPhone'a. Wybierz, którą linię chcesz mieć na zegarku podczas konfiguracji. Zauważ, że zegarek nie może używać obu linii jednocześnie – odzwierciedla tylko wybraną linię.
 
-**P8: Gdzie mogę znaleźć oficjalną dokumentację Apple dotyczącą podwójnej eSIM?**  
-Apple udostępnia dwa kluczowe zasoby: [O eSIM na iPhonie](https://support.apple.com/en-us/HT209044) i [Używanie Dual SIM z eSIM](https://support.apple.com/en-us/HT209086). Obejmują one podstawową kompatybilność i konfigurację.
+**P8: Gdzie mogę znaleźć oficjalną dokumentację Apple dotyczącą podwójnego eSIM?**  
+Apple udostępnia dwa kluczowe źródła: [About eSIM on iPhone](https://support.apple.com/en-us/HT209044) i [Use Dual SIM with an eSIM](https://support.apple.com/en-us/HT209086). Obejmują one podstawową zgodność i konfigurację.
 
-**P9: Jak odzyskać usuniętą eSIM?**  
-Jeśli usunąłeś profil eSIM, odzyskanie zależy od operatora. W przypadku podróżnych eSIM (Roami, Airalo itp.) usunięcie jest zwykle trwałe – musisz kupić nowy plan. W przypadku eSIM operatorów postpaid (takich jak Verizon, T‑Mobile, AT&T) skontaktuj się z operatorem – często mogą wydać nowy kod QR. Zawsze przechowuj kopię zapasową oryginalnego e-maila aktywacyjnego i kodu QR.
+**P9: Jak odzyskać usunięty eSIM?**  
+Jeśli usunąłeś profil eSIM, odzyskanie zależy od operatora. W przypadku eSIM podróżnych (Roami, Airalo itp.) usunięcie jest zwykle trwałe – będziesz musiał kupić nowy plan. W przypadku eSIM abonamentowych (takich jak Verizon, T‑Mobile, AT&T) skontaktuj się z operatorem – często mogą ponownie wydać nowy kod QR. Zawsze przechowuj kopię zapasową oryginalnego e-maila aktywacyjnego i kodu QR.
 
-**P10: Dlaczego moja eSIM ma paski sygnału, ale nie ma połączenia danych?**  
-To prawie zawsze problem z APN. Zobacz Poprawkę #11 powyżej po instrukcje krok po kroku.
+**P10: Dlaczego mój eSIM ma paski sygnału, ale brak połączenia z danymi?**  
+To prawie zawsze problem z APN. Zobacz Poprawkę #11 powyżej, aby uzyskać konfigurację krok po kroku.
 
-**P11: Co oznacza "kod potwierdzający eSIM" i gdzie go znaleźć?**  
-Niektóre profile eSIM wymagają kodu potwierdzającego (4‑8 cyfr) podczas aktywacji. Poszukaj go w e-mailu operatora lub instrukcjach aktywacyjnych. Jeśli nie znaleziono, skontaktuj się z operatorem.
+**P11: Co oznacza „kod potwierdzenia eSIM" i gdzie go znaleźć?**  
+Niektóre profile eSIM wymagają kodu potwierdzenia (4‑8 cyfr) podczas aktywacji. Znajdziesz go w e-mailu operatora lub instrukcjach aktywacji. Jeśli go nie ma, skontaktuj się z operatorem.
 
-**P12: Czy mogę mieć dwie aktywne eSIM i fizyczną SIM na iPhonie?**  
-Nie. iPhone obsługuje maksymalnie **dwie aktywne linie** w danym momencie – albo dwie eSIM, albo jedną eSIM + jedną fizyczną SIM. Nie możesz mieć trzech aktywnych linii jednocześnie.
+**P12: Czy mogę mieć dwa aktywne eSIM plus fizyczną SIM na iPhonie?**  
+Nie. iPhone obsługuje maksymalnie **dwie aktywne linie** w danym momencie – albo dwa eSIM, albo jeden eSIM + jedną fizyczną SIM. Nie możesz mieć trzech aktywnych linii jednocześnie.
 
-**P13: Moje 5G na podwójnej eSIM nie działa na jednej linii – co powinienem sprawdzić?**  
-Najpierw upewnij się, że 5G jest włączone dla obu linii: Ustawienia > Komórkowe > [linia] > Głos i dane > wybierz 5G Auto lub 5G Wł. Jeśli jedna linia nadal pokazuje tylko LTE, sprawdź u operatora – niektórzy operatorzy ograniczają 5G tylko do podstawowej linii danych.
+**P13: Mój podwójny eSIM 5G nie działa na jednej linii – co powinienem sprawdzić?**  
+Najpierw upewnij się, że 5G jest włączone dla obu linii: Ustawienia > Komórka > [linia] > Głos i dane > wybierz 5G Auto lub 5G Wł. Jeśli jedna linia nadal pokazuje tylko LTE, sprawdź u swojego operatora – niektórzy operatorzy ograniczają 5G tylko do podstawowej linii danych.
 
-**P14: Włożyłem fizyczną SIM i moja eSIM zniknęła – jak ją odzyskać?**  
-To znane zachowanie na iPhone'ach zablokowanych przez operatora. Wyjmij fizyczną SIM, uruchom ponownie iPhone'a, a eSIM powinna pojawić się ponownie w Ustawienia > Komórkowe. Następnie skontaktuj się z operatorem, aby odblokować urządzenie, aby obie mogły działać jednocześnie.
+**P14: Włożyłem fizyczną SIM i mój eSIM zniknął – jak go odzyskać?**  
+To znane zachowanie w iPhone'ach zablokowanych przez operatora. Wyjmij fizyczną SIM, uruchom ponownie iPhone, a eSIM powinien pojawić się w Ustawienia > Komórka. Następnie skontaktuj się z operatorem, aby odblokować urządzenie, aby oba mogły działać jednocześnie.
 
-👉 **Konfigurujesz podwójną eSIM na podróż?** Przeglądaj [plany eSIM dla USA](/united-states-esim/) lub [eSIM dla Japonii](/japan-esim/) — obie obsługują podwójną eSIM na nowoczesnych iPhone'ach.
+👉 **Konfigurujesz podwójny eSIM do podróży?** Przeglądaj [plany eSIM dla USA](/united-states-esim/) lub [eSIM dla Japonii](/japan-esim/) — oba obsługują podwójny eSIM na nowoczesnych iPhone'ach.
 
 ---
 
-*Na podstawie oficjalnej dokumentacji Apple, standardów GSMA i testów operatorów według stanu na sierpień 2026.*
+*Na podstawie oficjalnej dokumentacji Apple, standardów GSMA i testów operatorów na wrzesień 2026.*
 ## Źródła
 
 - [GSMA — specyfikacja eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Apple Support — eSIM na iPhonie](https://support.apple.com/en-us/108072)
-- [Apple Support — O eSIM na iPhonie](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)

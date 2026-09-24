@@ -3,8 +3,8 @@ title: "Vodafone eSIM: Fiyat ve Aktivasyon Rehberi 2026"
 h1_title: "Vodafone Türkiye eSIM 2026: Nasıl Alınır, Tarifeler ve Cihaz Uyumluluğu"
 description: "Vodafone Türkiye eSIM rehberi 2026: Vodafone eSIM fiyatları, nasıl alınır, Yanımda uygulaması ile aktivasyon, QR kod kurulumu, FreeZone ve Red tarifeleri, hazır kart seçenekleri."
 keywords: ["vodafone esim", "esim vodafone", "vodafone esim nasıl alınır", "vodafone esim fiyat", "vodafone esim aktivasyon", "vodafone esim hazır kart", "vodafone yanımda esim", "vodafone qr kod esim", "vodafone esim destekleyen telefonlar", "vodafone esim turkiye", "vodafone esim 2026", "vodafone esim kurulum", "vodafone red esim", "vodafone freezone esim", "vodafone esim yurt dışı"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T16:00:00Z
+date: 2026-09-24T00:00:00Z
+lastmod: 2026-09-24T12:00:00Z
 tags: ["Vodafone", "eSIM", "Türkiye", "Aktivasyon", "Hazır Kart", "FreeZone", "Red", "5G", "Roaming", "Yanımda"]
 toc: true
 
@@ -96,35 +96,35 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-**Son güncelleme:** 11 Ağustos 2026 | Okuma süresi: 15 dakika
+**Son güncelleme:** 24 Eylül 2026 | Okuma süresi: 15 dakika
 
 
 ## Vodafone Türkiye eSIM Nedir?
 
 Vodafone Türkiye eSIM, global telekomünikasyon devi Vodafone Group'un Türkiye operasyonu tarafından sunulan dijital SIM kart çözümüdür. Fiziksel bir SIM karta ihtiyaç duymadan, cihazınızın eUICC (Embedded Universal Integrated Circuit Card) donanımına dijital operatör profili yükleyerek Vodafone şebekesine bağlanmanızı sağlar.
 
-Vodafone Türkiye, ülkenin **ikinci en büyük mobil operatörüdür**. Bilgi Teknolojileri ve İletişim Kurumu (BTK) 2026 ilk çeyrek raporuna göre, Vodafone Türkiye yaklaşık **%30 pazar payına** ve **31 milyondan fazla mobil aboneye** sahiptir. Vodafone Group'un bir parçası olarak, dünya çapında 20'den fazla ülkede faaliyet gösteren ana şirketin küresel teknoloji altyapısından ve roaming ağından yararlanmaktadır.
+Vodafone Türkiye, ülkenin önde gelen mobil operatörlerinden biridir. Sektör analizlerine göre yaklaşık **25 milyona yakın mobil aboneye** hizmet vermektedir; gelir bazlı pazar payı tahminleri %31 bandındadır. Abone sayısında 2024-2026 döneminde Türk Telekom'un gerisine düşse de, gelir ve kurumsal segmentte en güçlü operatörlerden biri olmayı sürdürmektedir. Vodafone Group'un bir parçası olarak, dünya çapında 20'den fazla ülkede faaliyet gösteren ana şirketin küresel teknoloji altyapısından ve roaming ağından yararlanmaktadır.
 
-Vodafone Türkiye, eSIM hizmetini **2020 yılında** başlatmıştır. Başlangıçta yalnızca faturalı abonelere sunulan eSIM, 2022'den itibaren hazır kart kullanıcılarına da açılmıştır. 2026 yılı itibarıyla Vodafone Türkiye eSIM, tüm bireysel tarifelerde (FreeZone, Red, hazır kart) ve kurumsal planlarda kullanılabilir durumdadır. Aktivasyon işlemleri büyük ölçüde **Vodafone Yanımda** uygulaması üzerinden dijital olarak gerçekleştirilmektedir. Vodafone'un SM-DP+ altyapısı, GSMA'nın en son eSIM spesifikasyonlarına (SGP.22 v2.4) uyumludur.
+Vodafone Türkiye, eSIM hizmetini Türk Telekom'un yıllar öncesinden (2020-2021 döneminde) sunmaya başlamış; önce faturalı abonelerle sınırlı tuttuğu dijital hattı 2022'den itibaren hazır kart kullanıcılarına da açmıştır. 2026 yılı itibarıyla dijital hat, tüm bireysel tarifelerde (FreeZone, Red, hazır kart) ve kurumsal planlarda kullanılabilir durumdadır. Aktivasyon işlemleri büyük ölçüde **Vodafone Yanımda** uygulaması üzerinden dijital olarak gerçekleştirilmektedir. Vodafone'un SM-DP+ altyapısı, [GSMA'nın eSIM standardına](https://www.gsma.com/solutions-and-impact/technologies/esim/) (SGP.22) uyumludur.
 
-Vodafone Türkiye'nin eSIM çözümünün en dikkat çekici özelliği, **Vodafone Global** markası altında sunduğu uluslararası eSIM seçenekleridir. Bu sayede Vodafone müşterileri, yurt dışı seyahatlerinde yerel operatör eSIM'i aramak zorunda kalmadan Vodafone Global eSIM ile anında bağlantı kurabilmektedir.
+Vodafone Türkiye'nin çözümünün en dikkat çekici özelliği, **Vodafone Global** markası altında sunduğu uluslararası seyahat eSIM seçenekleridir. Bu sayede Vodafone müşterileri, yurt dışı seyahatlerinde yerel operatör hattı aramak zorunda kalmadan Vodafone Global eSIM ile anında bağlantı kurabilmektedir. Operatörler arası genel karşılaştırma ve fiyat tabloları için [eSIM Türkiye operatör rehberimize](/faq/esim-turkiye-operator-rehberi/) göz atın.
 
 
 ## Vodafone Türkiye eSIM Avantajları
 
-Vodafone eSIM kullanımının sunduğu başlıca avantajlar:
+Vodafone'un dijital hattının başlıca avantajları:
 
-- **Yanımda Uygulaması ile Kolay Yönetim:** Vodafone'un dijital asistanı **Yanımda** uygulaması üzerinden eSIM siparişi, aktivasyon, tarife değişikliği ve fatura yönetimi tek bir platformdan yapılabilir. 2026 itibarıyla Vodafone eSIM aktivasyonlarının **%90'ı Yanımda uygulaması üzerinden** gerçekleşmektedir ve ortalama aktivasyon süresi **3 dakikanın altındadır**. Uygulama 25 milyondan fazla indirme sayısına ulaşmıştır.
-- **Küresel Roaming Ağı:** Vodafone Group'un 20'den fazla ülkede kendi şebekesi ve dünya genelinde **700'den fazla roaming ortağı** (200+ ülke) sayesinde, Vodafone Türkiye eSIM ile yurt dışında kesintisiz bağlantı deneyimi. Vodafone'un roaming anlaşmaları, Türkiye'den çıkan yolcuların en sık ziyaret ettiği destinasyonların %95'ini kapsar.
-- **Vodafone Global eSIM:** Yurt dışı seyahatleri için özel olarak tasarlanmış, 70'ten fazla ülkede kullanılabilen uluslararası eSIM çözümü.
-- **Çift SIM Esnekliği:** Vodafone eSIM ile aynı cihazda bir fiziksel SIM veya ikinci bir eSIM profili çalıştırarak iş ve özel numaralarınızı tek telefonda taşıyabilirsiniz.
-- **RedBox ile Fiziksel Dağıtım:** Vodafone'un RedBox otomatlarından 7/24 eSIM QR kodu satın alabilme imkanı.
+- **Yanımda Uygulaması ile Kolay Yönetim:** Vodafone'un dijital asistanı **Yanımda** uygulaması üzerinden hat siparişi, aktivasyon, tarife değişikliği ve fatura yönetimi tek bir platformdan yapılabilir. Vodafone eSIM aktivasyonlarının büyük bölümü Yanımda uygulaması üzerinden gerçekleşmekte ve ortalama aktivasyon birkaç dakika sürmektedir. Uygulamanın yapay zekâ destekli asistanı TOBi, eSIM ve tarife işlemlerinin önemli bir bölümünü kendisi tamamlayabiliyor; uygulama 25 milyondan fazla indirilmiştir.
+- **Küresel Roaming Ağı:** Vodafone Group'un 20'den fazla ülkede kendi şebekesi ve dünya genelinde yüzlerce roaming ortağı (200'ü aşan ülke) sayesinde, Vodafone hattınızla yurt dışında kesintisiz bağlantı deneyimi. Vodafone'un roaming anlaşmaları, Türkiye'den çıkan yolcuların en sık ziyaret ettiği destinasyonların neredeyse tamamını kapsamaktadır.
+- **Vodafone Global eSIM:** Yurt dışı seyahatleri için tasarlanmış, 70'ten fazla ülkede kullanılabilen uluslararası çözüm.
+- **Çift SIM Esnekliği:** Dijital hatla aynı cihazda bir fiziksel SIM veya ikinci bir profil çalıştırarak iş ve özel numaralarınızı tek telefonda taşıyabilirsiniz.
+- **RedBox ile Fiziksel Dağıtım:** Vodafone'un RedBox otomatlarından 7/24 QR kodu satın alabilme imkanı.
 - **Çevresel Sürdürülebilirlik:** Vodafone Group'un 2040 net sıfır karbon taahhüdü kapsamında, plastik SIM kart kullanımının azaltılmasına katkıda bulunan eSIM teknolojisi teşvik edilmektedir.
 
 
 ## Vodafone Türkiye eSIM Destekleyen Cihazlar
 
-Vodafone Türkiye eSIM kullanabilmek için cihazınızın eUICC donanımlı, operatör kilitli olmayan (SIM-free/unlocked) ve Vodafone tarafından onaylanmış bir model olması gerekir.
+Vodafone'da dijital hattı kullanabilmek için cihazınızın eUICC donanımlı, operatör kilitli olmayan (SIM-free/unlocked) ve Vodafone tarafından onaylanmış bir model olması gerekir.
 
 ### Vodafone Tarafından Onaylanmış eSIM Uyumlu Telefonlar
 
@@ -141,23 +141,23 @@ Vodafone Türkiye eSIM kullanabilmek için cihazınızın eUICC donanımlı, ope
 
 ### Cihaz Uyumluluğu Nasıl Doğrulanır?
 
-Cihazınızın Vodafone eSIM ile uyumlu olup olmadığını kontrol etmek için:
+Cihazınızın Vodafone hattıyla uyumlu olup olmadığını önce [uyumluluk listemize](/compatibility/) bakarak kontrol edin; kesin test şu yöntemdir:
 
 1. Telefonunuzun **arama uygulamasına** girin
 2. `*#06#` tuşlayarak Sistem Bilgisi ekranını açın
 3. **EID** (Embedded Identity Document) başlığı altında 32 haneli bir numara görünüyorsa cihazınız eSIM destekliyordur
 4. Yalnızca IMEI numaraları görünüyorsa, cihazınız eSIM özelliğine sahip değildir
 
-**Önemli uyarı:** Vodafone Türkiye'den veya başka bir operatörden taahhütlü olarak satın alınmış cihazlarda operatör kilidi (SIM lock) bulunabilir. Operatör kilitli cihazlar, kilit Vodafone tarafından açılmadığı sürece diğer operatörlerin eSIM profillerini kabul etmez. Vodafone, taahhüt süresi biten cihazlarda kilit açma işlemini **ücretsiz** olarak gerçekleştirir.
+**Önemli uyarı:** Vodafone Türkiye'den veya başka bir operatörden taahhütlü olarak satın alınmış cihazlarda operatör kilidi (SIM lock) bulunabilir. Operatör kilitli cihazlar, kilit Vodafone tarafından açılmadığı sürece diğer operatörlerin profillerini kabul etmez. Vodafone, taahhüt süresi biten cihazlarda kilit açma işlemini **ücretsiz** olarak gerçekleştirir.
 
 
 ## Vodafone Türkiye eSIM Nasıl Alınır?
 
-Vodafone Türkiye eSIM edinmek için dört ana kanal bulunur: Vodafone Yanımda uygulaması, Vodafone mağazaları, online satış kanalları ve RedBox otomatları.
+Vodafone'da dijital hat edinmek için dört ana kanal bulunur: Vodafone Yanımda uygulaması, Vodafone mağazaları, online satış kanalları ve RedBox otomatları.
 
 ### Seçenek 1: Vodafone Yanımda Uygulaması (Dijital Kanal, Tavsiye Edilir)
 
-Vodafone Yanımda eSIM yönetimi, operatörün dijital self-servis platformu üzerinden eSIM almanın en hızlı yoludur:
+Yanımda üzerinden hat yönetimi, operatörün dijital self-servis platformuyla eSIM almanın en hızlı yoludur:
 
 1. **Vodafone Yanımda** uygulamasını App Store, Google Play veya Huawei AppGallery'den indirin
 2. Mevcut Vodafone abonesiyseniz telefon numaranız ve şifrenizle giriş yapın
@@ -165,7 +165,7 @@ Vodafone Yanımda eSIM yönetimi, operatörün dijital self-servis platformu üz
 4. Ana ekranda **"Ayarlar" > "SIM İşlemleri"** menüsüne gidin
 5. **"eSIM'e Geç"** veya **"Yeni eSIM Al"** seçeneğini seçin
 6. eSIM QR kodu uygulama içinde görüntülenecek ve aynı zamanda kayıtlı e-posta adresinize gönderilecektir
-7. QR kodu taratarak eSIM profilinizi cihazınıza yükleyin
+7. QR kodu taratarak profilinizi cihazınıza yükleyin
 
 **Yanımda uygulaması** aynı zamanda fatura ödeme, tarife değişikliği, paket satın alma ve müşteri hizmetlerine bağlanma gibi tüm operatör işlemlerini de yönetmenizi sağlar.
 
@@ -176,20 +176,20 @@ Türkiye genelinde **800'den fazla Vodafone mağazası** bulunmaktadır. Mağaza
 1. Size en yakın Vodafone mağazasına gidin
 2. Kimlik belgenizi (T.C. kimlik kartı veya pasaport) ibraz edin
 3. **eSIM** istediğinizi belirtin — hazır kart veya faturalı seçenekler mevcuttur
-4. Görevli, eSIM profilinizi sistem üzerinden oluşturacak ve QR kodunuzu teslim edecektir
+4. Görevli, profilinizi sistem üzerinden oluşturacak ve QR kodunuzu teslim edecektir
 5. QR kodu mağazada taratarak hemen aktif edebilirsiniz
 
 Mağazalar, özellikle numara taşıma işlemleri ve yabancı uyruklu kullanıcılar için en güvenilir kanaldır.
 
 ### Seçenek 3: Vodafone Online Mağaza
 
-Vodafone'un web sitesi üzerinden eSIM siparişi:
+Vodafone'un web sitesi üzerinden hat siparişi:
 
 1. **vodafone.com.tr** adresini ziyaret edin
 2. **"Tarifeler"** menüsünden size uygun planı seçin
 3. Başvuru sırasında **SIM tipi** olarak **"eSIM"** seçeneğini işaretleyin
 4. Kimlik doğrulama adımlarını tamamlayın
-5. Onaylandığında Vodafone eSIM QR kodunuz e-posta adresinize gönderilir
+5. Onaylandığında QR kodunuz e-posta adresinize gönderilir
 
 Online siparişlerde QR kod teslim süresi genellikle **1 ila 24 saat** arasındadır. Çoğu durumda onay dakikalar içinde gelir.
 
@@ -201,19 +201,19 @@ Vodafone'un **RedBox** isimli self-servis kioskları, büyük alışveriş merke
 2. Kimlik doğrulaması yapın (e-Devlet veya kredi kartı ile)
 3. eSIM seçeneğini işaretleyin
 4. QR kod çıktısını cihazdan alın
-5. Hemen taratarak Vodafone eSIM profilinizi yükleyin
+5. Hemen taratarak profilinizi yükleyin
 
 RedBox, mesai saatleri dışında — örneğin gece geç saatte havalimanına iniş yaptığınızda — hızlıca eSIM almanın en pratik yoludur.
 
 
 ## Vodafone Türkiye eSIM Aktivasyonu: QR Kod ile Kurulum
 
-Vodafone eSIM QR kodunuzu aldıktan sonra aktivasyon süreci birkaç dakika içinde tamamlanır. Sabit ve güvenilir bir WiFi bağlantısı altında işlem yapmanız önerilir.
+Vodafone QR kodunuzu aldıktan sonra aktivasyon süreci birkaç dakika içinde tamamlanır. Sabit ve güvenilir bir WiFi bağlantısı altında işlem yapmanız önerilir; iPhone tarafındaki resmi rehber için [Apple'ın eSIM kurulum sayfasına](https://support.apple.com/tr-tr/HT212780) da bakabilirsiniz.
 
 ### iPhone'da Vodafone eSIM Aktivasyonu
 
 1. **Ayarlar > Hücresel > eSIM Ekle** menüsüne gidin
-2. iPhone kameranızla Vodafone eSIM **QR kodunu** taratın
+2. iPhone kameranızla Vodafone **QR kodunu** taratın
 3. "Hücresel Plan Algılandı" mesajına **"Devam"** diyerek yanıt verin
 4. Hücresel plan için açıklayıcı bir etiket girin (örneğin: "Vodafone Ana" veya "Vodafone Seyahat")
 5. Varsayılan hat tercihlerinizi belirleyin (ana hat, veri hattı, iMessage/FaceTime hattı)
@@ -235,7 +235,7 @@ Vodafone eSIM QR kodunuzu aldıktan sonra aktivasyon süreci birkaç dakika içi
 2. QR kod taratıcı ile Vodafone QR kodunu okutun
 3. Ekrandaki yönergeleri tamamlayın
 
-Vodafone QR kod eSIM kurulumu, yukarıdaki adımları takip ettiğinizde birkaç dakika içinde tamamlanır. Profiliniz başarıyla yüklendikten sonra aşağıdaki noktalara dikkat etmeniz önerilir.
+QR kod kurulumu, yukarıdaki adımları takip ettiğinizde birkaç dakika içinde tamamlanır. Profiliniz başarıyla yüklendikten sonra aşağıdaki noktalara dikkat etmeniz önerilir.
 
 ### eSIM Aktivasyonu Sırasında Dikkat Edilmesi Gerekenler
 
@@ -248,7 +248,7 @@ Vodafone QR kod eSIM kurulumu, yukarıdaki adımları takip ettiğinizde birkaç
 
 ## Vodafone Türkiye eSIM Tarife Seçenekleri
 
-Vodafone Türkiye, eSIM kullanıcılarına zengin bir tarife yelpazesi sunar. eSIM'e özel ek ücret alınmaz — yalnızca seçtiğiniz tarifenin bedelini ödersiniz.
+Vodafone Türkiye, kullanıcılarına zengin bir tarife yelpazesi sunar. Dijital hatta özel ek ücret alınmaz — yalnızca seçtiğiniz tarifenin bedelini ödersiniz.
 
 ### Vodafone FreeZone Tarifeleri (Faturalı)
 
@@ -271,14 +271,14 @@ Vodafone Red, premium segment müşteriler için tasarlanmış üst düzey fatur
 |--------|------|---------|-----|---------------|------------|
 | Red 20 | 20 GB | Sınırsız | Sınırsız | ~550 TL | Yurt dışı dakika, Red Asistan |
 | Red 50 | 50 GB | Sınırsız | Sınırsız | ~800 TL | Yurt dışı roaming indirimi, Havaalanı Lounge |
-| Red 100 | 100 GB | Sınırsız | Sınırsız | ~1100 TL | Sınırsız yurt dışı roaming (50 ülke), Öncelikli hat |
+| Red 100 | 100 GB | Sınırsız | Sınırsız | ~1100 TL | Geniş yurt dışı roaming ayrıcalıkları, Öncelikli hat |
 | Red Premium | Sınırsız | Sınırsız | Sınırsız | ~1800 TL | Tüm Red ayrıcalıkları, Kişiye özel asistan |
 
 Vodafone Red aboneleri ayrıca **yurt dışında ücretsiz gelen arama**, seçili ülkelerde **ücretsiz roaming** ve **Vodafone Red Lounge** gibi özel hizmetlerden yararlanır.
 
 ### Vodafone Hazır Kart eSIM Tarifeleri
 
-Taahhütsüz ve kontrollü harcama isteyenler için Vodafone hazır kart eSIM seçenekleri:
+Taahhütsüz ve kontrollü harcama isteyenler için Vodafone hazır kart seçenekleri:
 
 | Tarife | Veri | Konuşma | Fiyat (TL) | Geçerlilik |
 |--------|------|---------|------------|------------|
@@ -286,26 +286,26 @@ Taahhütsüz ve kontrollü harcama isteyenler için Vodafone hazır kart eSIM se
 | Hazır Kart Standart | 8 GB | 500 dk | ~180 TL | 30 gün |
 | Hazır Kart Avantaj | 15 GB | 1000 dk | ~280 TL | 30 gün |
 | Hazır Kart Full | 25 GB | 1500 dk | ~400 TL | 30 gün |
-| Turist Paketi | 30 GB | 1000 dk | ~450 TL | 30 gün |
+| Turist Paketi | 30 GB | 1000 dk | ~800 TL | 30 gün |
 
-Vodafone hazır kart eSIM, özellikle turistler için idealdir. Yabancı uyruklu kullanıcılar pasaport ile Vodafone mağazalarından veya RedBox'lardan kolayca hat alabilir. Hazır kart hatlar için BTK'nın belirlediği IMEI kayıt süresi (120 gün) geçerlidir.
+Vodafone hazır kart hattı, özellikle turistler için idealdir. Yabancı uyruklu kullanıcılar pasaport ile Vodafone mağazalarından veya RedBox'lardan kolayca hat alabilir. Not: Fiyatlar yaklaşıktır ve sık güncellenir; güncel tutarlar ve kampanyalar için [Vodafone'un resmi eSIM sayfasına](https://www.vodafone.com.tr/servisler/e-sim) bakın. Hazır kart hatlar için BTK'nın belirlediği IMEI kayıt süresi (120 gün) geçerlidir.
 
 ### eSIM Aktivasyon Ücreti
 
-Vodafone, eSIM aktivasyonu için **herhangi bir ek ücret talep etmemektedir**. Fiziksel SIM'den eSIM'e geçiş, eSIM'den fiziksel SIM'e dönüş ve yeni eSIM aktivasyonu tamamen ücretsizdir. 2026'da Vodafone Türkiye, dijital dönüşüm stratejisinin bir parçası olarak tüm eSIM işlemlerinde ücret muafiyeti uygulamaktadır.
+Vodafone, aktivasyon için **herhangi bir ek ücret talep etmemektedir**. Fiziksel SIM'den eSIM'e geçiş, tersi yöndeki dönüş ve yeni hat aktivasyonu tamamen ücretsizdir. 2026'da Vodafone Türkiye, dijital dönüşüm stratejisinin bir parçası olarak tüm bu işlemlerde ücret muafiyeti uygulamaktadır.
 
 
-## Vodafone 5G ve Kapsama Alanı
+## Vodafone 5G Kapsaması ve eSIM Performansı
 
-Vodafone Türkiye, ülke genelinde hızla genişleyen bir 5G şebekesine sahiptir.
+Vodafone Türkiye, ticari 5G dönemine ilk günden katılan operatörlerden biridir.
 
 ### 5G Şebeke Durumu
 
-- BTK 2026 verilerine göre Vodafone Türkiye, **70'ten fazla ilde** 5G hizmeti vermektedir
-- Vodafone'un 5G baz istasyonu sayısı **18.000'i aşmıştır**
-- 5G indirme hızları lokasyona göre **400 Mbps ile 1.2 Gbps** arasında değişmektedir
-- Vodafone'un 5G frekansları: 3.5 GHz (n78) ana bant, 700 MHz (n28) kırsal kapsama, 2100 MHz (n1) destek bandı
-- Vodafone eSIM kullanıcıları, 5G uyumlu cihazlarla **hiçbir ek ücret ödemeden** 5G'ye erişebilir
+- Vodafone Türkiye, 1 Nisan 2026'da başlayan ticari 5G dönemine katıldı ve lansmanda 81 ilin tamamında, **922 ilçede** 5G sinyali bildirdi (ayrıntılar için [Avrupa Komisyonu'nun lansman raporuna](https://digital-strategy.ec.europa.eu/en/miscellaneous/turkiye-three-mobile-operators-launch-nationwide-5g-services) bakın)
+- Ekim 2025 frekans ihalesine **627 milyon dolar** taahhüt etti
+- 5G frekansları: 3.5 GHz (n78) ana bant, 700 MHz (n28) kırsal kapsama, 2100 MHz (n1) destek bandı
+- İlçe ve kırsal genişleme 2028-2029'a kadar kademeli yürütülüyor
+- Vodafone hattınızla, 5G uyumlu cihazlarda **hiçbir ek ücret ödemeden** 5G'ye erişebilirsiniz
 
 ### 4.5G Kapsama
 
@@ -318,13 +318,13 @@ Güncel Vodafone kapsama durumunu **vodafone.com.tr/kapsama** adresinden veya Vo
 
 ## Yurt Dışı Kullanım ve Vodafone Global eSIM
 
-Vodafone Türkiye eSIM'in en güçlü yönlerinden biri uluslararası kullanım imkanlarıdır.
+Vodafone Türkiye hattının en güçlü yönlerinden biri uluslararası kullanım imkanlarıdır.
 
 ### Yurt Dışı Roaming
 
-Vodafone Türkiye eSIM kullanıcıları yurt dışında aşağıdaki roaming seçeneklerinden yararlanabilir:
+Vodafone hattınızla yurt dışında aşağıdaki roaming seçeneklerinden yararlanabilirsiniz:
 
-- **Vodafone Red aboneleri:** 50'den fazla ülkede ücretsiz roaming (seçili tarifelerde)
+- **Vodafone Red aboneleri:** seçili ülkelerde ücretsiz roaming (tarifeye göre değişir)
 - **Günlük roaming paketi:** ~250 TL/gün, popüler Avrupa ve ABD destinasyonlarında sınırsız internet
 - **Haftalık roaming paketi:** ~800 TL/hafta, 20 GB veri ve sınırsız konuşma
 - **Aylık roaming paketi:** ~1500 TL/ay, 50 GB veri ve sınırsız konuşma
@@ -333,28 +333,28 @@ Roaming paketleri Vodafone Yanımda uygulaması üzerinden kolayca satın alına
 
 ### Vodafone Global eSIM
 
-Vodafone Global eSIM, fiziksel olarak Vodafone Türkiye abonesi olmasanız bile satın alabileceğiniz uluslararası bir eSIM ürünüdür. 70'ten fazla ülkede geçerlidir ve şu avantajları sunar:
+Vodafone Global eSIM, Vodafone Türkiye abonesi olmasanız bile satın alabileceğiniz uluslararası bir seyahat ürünüdür. 70'ten fazla ülkede geçerlidir ve şu avantajları sunar:
 
 - **Tek eSIM, çok ülke:** Avrupa, Asya ve Amerika'daki popüler destinasyonları kapsar
 - **Kurulum kolaylığı:** QR kod ile dakikalar içinde aktivasyon
 - **Esnek veri paketleri:** 1 GB / 7 gün ~€5'ten başlayan, 20 GB / 30 gün ~€50'ye varan seçenekler
 - **Vodafone güvencesi:** Dünyanın en büyük telekom gruplarından birinin altyapısı
 
-Vodafone Global eSIM, özellikle Avrupa seyahati yapanlar ve sık ülke değiştiren gezginler için maliyet-etkin bir çözümdür. Türkiye'deki Vodafone web sitesi üzerinden satın alınabilir.
+Vodafone Global eSIM, özellikle Avrupa seyahati yapanlar ve sık ülke değiştiren gezginler için maliyet-etkin bir çözümdür; Türkiye'deki Vodafone web sitesi üzerinden satın alınabilir. Yalnızca Türkiye'de veri gereken kısa seyahatlerde ise [Türkiye eSIM paketimizi](/turkey-esim/) uçuş öncesinde kurmak daha ekonomik olabilir.
 
 ### Çift eSIM ile Seyahat Stratejisi
 
 Esnek seyahat bağlantısı için ideal kullanım senaryosu:
 
-1. Vodafone Türkiye eSIM'inizi **ana hat** olarak koruyun (Türkiye'den aramaları almak için)
-2. Gittiğiniz ülke için **ikinci bir eSIM profili** yükleyin (yerel veri paketi veya Vodafone Global eSIM)
+1. Vodafone hattınızı **ana hat** olarak koruyun (Türkiye'den aramaları almak için)
+2. Gittiğiniz ülke için **ikinci bir profil** yükleyin (yerel veri paketi veya Vodafone Global eSIM)
 3. iPhone ve üst düzey Android cihazlarda her iki hat aynı anda aktif kalabilir
 4. Veri kullanımını seyahat eSIM'inden, aramaları Vodafone Türkiye hattınızdan yapabilirsiniz
 
 
 ## Vodafone eSIM'den Fiziksel SIM'e Dönüş
 
-Vodafone eSIM kullanırken fiziksel SIM karta dönmek isterseniz:
+Dijital hattı kullanırken fiziksel SIM karta dönmek isterseniz:
 
 1. **Vodafone Yanımda** uygulamasından "SIM İşlemleri > Fiziksel SIM'e Geç" adımını izleyin
 2. Alternatif olarak **Vodafone mağazasına** giderek fiziksel SIM talep edin
@@ -369,7 +369,7 @@ Vodafone eSIM kullanırken fiziksel SIM karta dönmek isterseniz:
 
 Vodafone Türkiye, işletmeler için kapsamlı kurumsal eSIM çözümleri sunar:
 
-- **Vodafone Business eSIM:** Kurumsal tarifelerde eSIM seçeneği, merkezi hat yönetimi. **500'den fazla çalışanı olan** şirketler için özel kurumsal eSIM havuzu, toplu profil dağıtımı ve uzaktan yönetim paneli. Vodafone Business Türkiye, 2026 itibarıyla **50.000'den fazla kurumsal aboneye** hizmet vermektedir.
+- **Vodafone Business eSIM:** Kurumsal tarifelerde eSIM seçeneği, merkezi hat yönetimi. **500'den fazla çalışanı olan** şirketler için özel kurumsal eSIM havuzu, toplu profil dağıtımı ve uzaktan yönetim paneli. Vodafone Business Türkiye, 2026 itibarıyla on binlerce kurumsal aboneye hizmet vermektedir.
 - **IoT eSIM Çözümleri:** Akıllı sayaç, araç takip, endüstriyel sensör ve POS cihazları için M2M eSIM. Vodafone'un küresel IoT platformu dünya genelinde **160 milyondan fazla IoT bağlantısını** yönetmektedir. Türkiye'de enerji, lojistik ve perakende sektörlerinde aktif IoT eSIM dağıtımları mevcuttur.
 - **Kurumsal APN Yapılandırması:** Özel erişim noktası (APN) tanımlama ve VPN entegrasyonu. **%99.9 SLA** garantisi ile özel APN, IPSec ve MPLS VPN desteği, sektörel uyumluluk (PCI DSS, KVKK, ISO 27001).
 - **Filo Yönetimi:** Araç takip ve lojistik için dayanıklı endüstriyel eSIM çözümleri. Çoklu operatör profili (multi-IMSI) ile sınır ötesi lojistik operasyonlarda kesintisiz bağlantı.
@@ -380,39 +380,39 @@ Vodafone Türkiye, işletmeler için kapsamlı kurumsal eSIM çözümleri sunar:
 
 **Vodafone eSIM ücretli mi?**
 
-Hayır, Vodafone eSIM aktivasyonu, fiziksel SIM'den eSIM'e geçiş ve eSIM'den fiziksel SIM'e dönüş işlemleri tamamen ücretsizdir. Yalnızca seçtiğiniz tarifenin aylık ücretini ödersiniz. eSIM için ek bir ücretlendirme yoktur.
+Hayır, aktivasyon, fiziksel SIM'den eSIM'e geçiş ve tersi yöndeki dönüş işlemleri tamamen ücretsizdir. Yalnızca seçtiğiniz tarifenin aylık ücretini ödersiniz. Dijital hat için ek bir ücretlendirme yoktur.
 
 **Vodafone eSIM nasıl alabilirim?**
 
-Vodafone eSIM'i dört kanaldan edinebilirsiniz: Vodafone Yanımda uygulaması (en hızlısı), Vodafone mağazaları, vodafone.com.tr online mağaza ve RedBox otomatları. Mevcut Vodafone aboneleri Yanımda uygulamasından birkaç dokunuşla eSIM'e geçebilir.
+Dijital hattı dört kanaldan edinebilirsiniz: Vodafone Yanımda uygulaması (en hızlısı), Vodafone mağazaları, vodafone.com.tr online mağaza ve RedBox otomatları. Mevcut Vodafone aboneleri Yanımda uygulamasından birkaç dokunuşla eSIM'e geçebilir.
 
 **Vodafone eSIM hangi telefonlarla uyumlu?**
 
-Vodafone eSIM, iPhone XR ve üstü, Samsung Galaxy S20 ve üstü, Google Pixel 3 ve üstü, Xiaomi 12T Pro ve üstü, OnePlus 10 Pro ve üstü, Oppo Find X5 Pro ve üstü eUICC donanımlı cihazlarla uyumludur. `*#06#` tuşlayarak EID numarası görünüyorsa cihazınız eSIM'i destekliyordur.
+Vodafone hattı, iPhone XR ve sonraki modeller, Galaxy S20 sonrası Samsung'lar, Pixel 3+, Xiaomi 12T Pro+, OnePlus 10 Pro+ ve Oppo Find X5 Pro+ gibi eUICC donanımlı cihazlarla uyumludur. `*#06#` tuşlayarak EID numarası görünüyorsa cihazınız eSIM'i destekliyordur.
 
 **Vodafone eSIM aktivasyonu nasıl yapılır?**
 
-Vodafone eSIM QR kodunu telefon kamerasıyla taratarak aktivasyon başlatılır. iPhone'da Ayarlar > Hücresel > eSIM Ekle; Samsung'da Ayarlar > Bağlantılar > SIM Yöneticisi > eSIM Ekle; Pixel'de Ayarlar > Ağ ve İnternet > Operatör Ekle adımları izlenir. WiFi bağlantısı ile 2-5 dakika içinde hat aktif olur.
+Vodafone QR kodunu kameranızla okutun; menü yolu modele göre değişir. iPhone'da Hücresel, Samsung'da SIM Yöneticisi, Pixel'de Ağ ve İnternet bölümlerinden ilerleyin (ayrıntılı adımlar yukarıdaki aktivasyon bölümünde). Hat, WiFi üzerinden profil indirildikten birkaç dakika sonra aktifleşir.
 
 **Vodafone hazır kart eSIM var mı?**
 
-Evet, Vodafone hazır kart eSIM mevcuttur. 3 GB'tan 30 GB'a kadar veri seçenekleri ve 30 gün geçerlilik süresi ile Vodafone hazır kart eSIM paketleri satın alabilirsiniz. Turist paketi yabancı uyruklu kullanıcılar için pasaport kaydıyla alınabilir.
+Evet, hazır kart seçenekleri mevcuttur; 3 GB'tan 30 GB'a kadar veri seçenekleri 30 gün geçerlilikle satın alınabilir. Turist paketi yabancı uyruklu kullanıcılar için pasaport kaydıyla alınabilir.
 
 **Vodafone Yanımda uygulamasından eSIM nasıl alınır?**
 
-Vodafone Yanımda uygulamasına giriş yapın, "Ayarlar > SIM İşlemleri > eSIM'e Geç" adımlarını izleyin. eSIM profiliniz QR kod olarak uygulama içinde ve e-posta adresinizde görüntülenecektir. Uygulama, eSIM yönetiminin en hızlı ve en pratik yoludur.
+Vodafone Yanımda uygulamasına giriş yapın, "Ayarlar > SIM İşlemleri > eSIM'e Geç" adımlarını izleyin. Profiliniz QR kod olarak uygulama içinde ve e-posta adresinizde görüntülenecektir. Uygulama, hat yönetiminin en hızlı ve en pratik yoludur.
 
 **Vodafone RedBox'tan eSIM nasıl alınır?**
 
-RedBox cihazının ekranındaki yönergeleri takip edin, kimlik doğrulaması yapın, eSIM seçeneğini işaretleyin. QR kod çıktısını cihazdan alın ve telefon kameranızla taratın. RedBox'lar büyük AVM'lerde, havalimanlarında ve üniversite kampüslerinde bulunur.
+RedBox cihazının ekranındaki yönergeleri takip edin, kimlik doğrulaması yapın, eSIM'i işaretleyin. QR kod çıktısını cihazdan alın ve telefon kameranızla taratın. RedBox'lar büyük AVM'lerde, havalimanlarında ve üniversite kampüslerinde bulunur.
 
 **Vodafone eSIM yurt dışında çalışır mı?**
 
-Evet, Vodafone eSIM yurt dışında roaming hizmeti ile çalışır. Red tarifeler seçili ülkelerde ücretsiz roaming içerir. Ayrıca günlük, haftalık ve aylık roaming paketleri Yanımda uygulamasından satın alınabilir. Vodafone Global eSIM ise 70'ten fazla ülkede doğrudan kullanılabilir.
+Evet, Vodafone hattı yurt dışında roaming hizmeti ile çalışır. Red tarifeler seçili ülkelerde ücretsiz roaming içerir. Ayrıca günlük, haftalık ve aylık roaming paketleri Yanımda uygulamasından satın alınabilir. Vodafone Global eSIM ise 70'ten fazla ülkede doğrudan çalışır.
 
 **Vodafone eSIM ile dual SIM kullanabilir miyim?**
 
-Evet, Vodafone eSIM ile çift SIM (dual SIM) kullanımı mümkündür. iPhone 13 ve üstü ile Samsung S22 ve üstü modellerde iki eSIM aynı anda aktif olabilir. Vodafone eSIM ana hat, ikinci hat fiziksel SIM veya seyahat eSIM'i olarak yapılandırılabilir.
+Evet, çift SIM (dual SIM) kullanımı mümkündür. iPhone 13 ve üstü ile Samsung S22 ve üstü modellerde iki eSIM aynı anda aktif olabilir. Vodafone hattı ana hat; ikinci hat fiziksel SIM veya seyahat eSIM'i olarak yapılandırılabilir.
 
 **Vodafone eSIM QR kodumu kaybedersem ne olur?**
 
@@ -420,11 +420,11 @@ QR kodunuzu kaybettiyseniz Vodafone Yanımda uygulamasından yeni bir QR kod tal
 
 **Vodafone eSIM 5G destekliyor mu?**
 
-Evet, Vodafone eSIM, 5G uyumlu bir cihaz ve Vodafone 5G kapsama alanında tam 5G hızları sunar. 2026 itibarıyla 70'ten fazla ilde Vodafone 5G hizmeti mevcuttur. 5G kullanımı için ek ücret alınmaz.
+Evet, 5G uyumlu bir cihaz ve kapsama alanında tam 5G hızları elde edersiniz. Vodafone, 1 Nisan 2026 lansmanında 81 il merkezi ve 922 ilçede 5G sinyali bildirdi; ilçe genişlemesi sürüyor. 5G için ek ücret alınmaz.
 
 **Vodafone eSIM APN ayarları nasıl yapılır?**
 
-Vodafone eSIM aktivasyonu sırasında APN ayarları genellikle otomatik olarak yapılandırılır. Manuel ayar gerekirse APN olarak "internet" veya "vodafone" girilmelidir. Çoğu modern cihazda manuel APN ayarı gerekmez.
+Aktivasyon sırasında APN ayarları genellikle otomatik olarak yapılandırılır. Manuel ayar gerekirse APN olarak "internet" veya "vodafone" girilmelidir. Çoğu modern cihazda manuel APN ayarı gerekmez.
 
 **Vodafone eSIM ile Apple Watch kullanabilir miyim?**
 
@@ -432,25 +432,25 @@ Evet, Vodafone Türkiye, Apple Watch ve Samsung Galaxy Watch için **Vodafone On
 
 **Vodafone'dan Turkcell veya Türk Telekom'a eSIM ile geçebilir miyim?**
 
-Numara taşıma işlemi eSIM ile yapılabilir. Yeni operatöre başvururken eSIM istediğinizi belirtmeniz yeterlidir. Taşıma tamamlandığında yeni operatörün eSIM profili yüklenecek ve Vodafone profili devre dışı kalacaktır.
+Numara taşıma işlemi eSIM ile yapılabilir. Yeni operatöre başvururken eSIM istediğinizi belirtmeniz yeterlidir. Taşıma tamamlandığında yeni operatörün eSIM profili yüklenecek ve Vodafone profili devre dışı kalacaktır. Operatör bazlı taşıma ayrıntıları için [Turkcell eSIM rehberimize](/faq/turkcell-esim-turkiye/) ve [Türk Telekom eSIM rehberimize](/faq/turk-telekom-esim-turkiye/) bakabilirsiniz.
 
 **Vodafone eSIM kaç cihaza yüklenebilir?**
 
-Bir Vodafone eSIM profili yalnızca **bir cihaza** yüklenebilir. Aynı profili birden fazla cihazda kullanmak mümkün değildir. Yeni bir cihaza geçmek için Vodafone'dan yeni bir QR kod almanız gerekir.
+Bir profil yalnızca **bir cihaza** yüklenebilir. Aynı profili birden fazla cihazda kullanmak mümkün değildir. Yeni bir cihaza geçmek için Vodafone'dan yeni bir QR kod almanız gerekir.
 
 
-## Sonuç
+## Sonuç: Vodafone eSIM Türkiye'de Güçlü Bir Seçenek
 
-Vodafone Türkiye eSIM, global bir telekom grubunun yerel pazardaki dijital SIM çözümüdür. 2020'den bu yana sunduğu eSIM hizmetini sürekli geliştiren Vodafone Türkiye, 2026'da hem bireysel hem de kurumsal kullanıcılar için kapsamlı bir eSIM deneyimi sunmaktadır.
+Vodafone Türkiye eSIM, global bir telekom grubunun yerel pazardaki dijital SIM çözümüdür. Yıllar öncesinden başlattığı eSIM hizmetini sürekli geliştiren Vodafone Türkiye, 2026'da hem bireysel hem de kurumsal kullanıcılar için kapsamlı bir dijital SIM deneyimi sunmaktadır.
 
-Vodafone eSIM'in öne çıkan avantajları arasında **Vodafone Yanımda** uygulamasının sağladığı dijital kolaylık, **RedBox** otomatları ile 7/24 erişilebilirlik, **Vodafone Global eSIM** ile uluslararası kullanım esnekliği ve **Red tarifelerinde** yer alan yurt dışı roaming ayrıcalıkları sayılabilir.
+Vodafone'un dijital hattının öne çıkan avantajları arasında **Vodafone Yanımda** uygulamasının sağladığı kolaylık, **RedBox** otomatları ile 7/24 erişilebilirlik, **Vodafone Global eSIM** ile uluslararası kullanım esnekliği ve **Red tarifelerinde** yer alan yurt dışı roaming ayrıcalıkları sayılabilir.
 
-Hazır kart kullanıcılarından premium Red abonelerine, Türkiye'yi ziyaret eden turistlerden kurumsal IoT çözümlerine kadar her segment için uygun bir Vodafone eSIM seçeneği mevcuttur. Fiziksel SIM'den eSIM'e geçişin ücretsiz olması ve dakikalar içinde tamamlanması, Vodafone eSIM'i Türkiye'deki en erişilebilir dijital SIM çözümlerinden biri yapmaktadır.
+Hazır kart kullanıcılarından premium Red abonelerine, Türkiye'yi ziyaret eden turistlerden kurumsal IoT çözümlerine kadar her segment için uygun bir seçenek mevcuttur. Fiziksel SIM'den eSIM'e geçişin ücretsiz olması ve dakikalar içinde tamamlanması, Vodafone eSIM'i Türkiye'deki en erişilebilir dijital SIM çözümlerinden biri yapmaktadır.
 
 ---
 
-*Carlos Mendes tarafından yazılmıştır, mobil bağlantı ve seyahat teknolojisi uzmanı. Bu rehber Ağustos 2026 itibarıyla güncellenmiştir.*
+*Yazan: Carlos Mendes — seyahat bağlantısı ve telekom yazarı. Son derleme: Eylül 2026.*
 
-*Kaynaklar: Bilgi Teknolojileri ve İletişim Kurumu (BTK) 2026 Q1 Pazar Verileri Raporu, Vodafone Türkiye resmi web sitesi (vodafone.com.tr), Vodafone Group 2026 sürdürülebilirlik raporu, Vodafone Yanımda uygulama dokümantasyonu, GSMA eSIM Specification (SGP.22 v2.4). Güncel tarifeler için vodafone.com.tr adresini ziyaret ediniz.*
+*Veri kaynakları: BTK çeyreklik pazar verileri, vodafone.com.tr resmi dokümanları, GSMA eSIM spesifikasyonu, Avrupa Komisyonu 5G lansman notu. Fiyat ve kampanyalar sık değiştiği için vodafone.com.tr üzerinden teyit ediniz.*
 
 

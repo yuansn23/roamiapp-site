@@ -1,12 +1,13 @@
 ---
-title: "Google Pixel eSIM: lista kompatybilności Pixel 2–10"
-h1_title: "Google Pixel eSIM: kompletny przewodnik dla Pixel 2-10"
-description: "Które Google Pixels obsługują eSIM? Pełna lista Pixel 2–10. Obejmuje weryfikację (*#06#), operatorów, ograniczenia japońskie, podwójną eSIM i rozwiązywanie problemów."
-image: "/img/esim/esim-travel.jpg"
+title: "Zgodność Google Pixel z eSIM: Pixel 2–10"
+h1_title: "Zgodność Google Pixel z eSIM: Kompletny przewodnik dla Pixel 2-10"
+description: "Które Google Pixels obsługują eSIM? Pełna lista Pixel 2–10. Zawiera weryfikację (*#06#), operatorów, ograniczenia japońskie, podwójny eSIM i rozwiązywanie problemów."
+image: "/img/faq/google-pixel-6-esim.webp"
+image-1: "/img/faq/google-pixel-6-esim-1.jpg"
 keywords: ["google pixel esim compatible", "pixel 6 esim", "pixel 7 esim", "pixel 8 esim", "pixel esim travel", "pixel dual sim", "pixel esim support", "google fi esim compatible phones", "esim compatible phones", "pixel 9 esim", "pixel 4a esim", "pixel 5 esim"]
-date: 2026-09-08T10:00:00Z
-lastmod: 2026-09-08T00:00:00Z
-tags: ["Google Pixel", "eSIM", "Kompatybilność", "Pixel 6", "Pixel 7", "Pixel 8", "Pixel 9", "Pixel 10"]
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
+tags: ["Google Pixel", "eSIM", "Zgodność", "Pixel 6", "Pixel 7", "Pixel 8", "Pixel 9", "Pixel 10"]
 toc: true
 
 # Site & SEO
@@ -25,7 +26,7 @@ breadcrumbs:
     text: "Strona główna"
     url: "/"
   parent:
-    text: "Kompatybilność eSIM"
+    text: "Zgodność eSIM"
     url: "/compatibility/"
 
 # Sidebar: Popular eSIMs
@@ -33,45 +34,45 @@ sidebar_popular:
   title: "Popularne eSIM"
   item_suffix: "eSIM"
   items:
-    - name: "USA eSIM"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
     - name: "Niemcy eSIM"
       flag: "/img/flags/de.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
     - name: "Europa eSIM"
       flag: "/img/flags/eu.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
     - name: "Turcja eSIM"
       flag: "/img/flags/tr.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
     - name: "Japonia eSIM"
       flag: "/img/flags/jp.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
     - name: "Chiny eSIM"
       flag: "/img/flags/cn.svg"
-      price: "1,99 $"
+      price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
 # Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Zdobądź darmową eSIM"
+  title: "Odbierz darmowe eSIM"
   icon: "🎁"
-  item_suffix: "Darmowa eSIM"
-  item_subtitle: "Darmowa eSIM"
+  item_suffix: "Darmowe eSIM"
+  item_subtitle: "Darmowe eSIM"
   items:
-    - name: "Wielka Brytania eSIM"
+    - name: "eSIM UK"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Niemcy"
@@ -80,7 +81,7 @@ sidebar_free:
     - name: "Tajlandia"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hong Kong"
+    - name: "Hongkong"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
@@ -92,376 +93,378 @@ sidebar_questions:
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Jak aktywować eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Jak aktywować eSIM na iPhonie (wszystkie modele)?"
+    - question: "Jak aktywować eSIM na iPhone (wszystkie modele)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Najnowsza lista kompatybilności eSIM"
+    - question: "Najnowsza lista zgodności eSIM"
       url: "/compatibility/"
 ---
 
 
-> **Nota redakcyjna:** Roami to marka stojąca za tym przewodnikiem. Przetestowaliśmy aktywację eSIM na każdym wymienionym modelu Pixel w ponad 40 krajach i u ponad 20 operatorów. Ten przewodnik opiera się na testach w rzeczywistych warunkach – nie tylko na kartach specyfikacji. Nasz zespół wsparcia pomógł tysiącom użytkowników Pixel w aktywacji cyfrowych profili SIM na całym świecie.
+> **Uwaga redaktora:** Google Pixel 6 i Pixel 6 Pro obsługują eSIM, ale czy możesz go używać, zależy od Twojego regionu i operatora. Ten przewodnik jest zgodny z oficjalną dokumentacją Google i standardami GSMA, a także dekoduje dokładny numer Twojego modelu, aby dać wyraźne tak lub nie. Sprawdź swój model Pixel poniżej, aby potwierdzić w mniej niż minutę.
 
-## 10‑sekundowa szybka kontrola: czy TWÓJ Pixel obsługuje eSIM?
+Każdy Google Pixel od Pixel 6 wzwyż obsługuje eSIM bez ograniczeń regionalnych; Pixel 3 do 5 mają ograniczone wsparcie, a Pixel 2 nie ma żadnego. Najszybsze sprawdzenie to wybranie *#06# — 32-cyfrowy EID oznacza, że Twój Pixel jest gotowy. Kompletna lista Pixel 2–10, uwagi o blokadzie operatora i kroki aktywacji poniżej.
+
+## Czy Twój model Pixel obsługuje eSIM?
 
 **Znajdź swój model Pixel poniżej – natychmiastowa odpowiedź.**
 
-| Twój model Pixel | Obsługa eSIM? | Jednozdaniowy werdykt |
+| Twój model Pixel | Obsługa eSIM? | Werdykt w jednej linii |
 |------------------|---------------|------------------|
-| **Pixel 10 / 10 Pro / 10 Pro XL / 10 Pro Fold** | ✅ Tak | Pełne wsparcie dla cyfrowych profili SIM, bez ograniczeń |
-| **Pixel 9 / 9 Pro / 9 Pro XL / 9 Pro Fold / 9a** | ✅ Tak | Pełne wsparcie, bez ograniczeń |
-| **Pixel 8 / 8 Pro / 8a** | ✅ Tak | Pełne wsparcie, bez ograniczeń |
-| **Pixel 7 / 7 Pro / 7a** | ✅ Tak | Pełne wsparcie, bez ograniczeń |
-| **Pixel 6 / 6 Pro / 6a** | ✅ Tak | Pełne wsparcie, bez ograniczeń (przełomowa generacja) |
-| **Pixel 5 / 5a 5G** | ⚠️ Tak, ALE... | Działa tylko jeśli NIE jest japońskim wariantem operatorskim |
-| **Pixel 4 / 4 XL / 4a / 4a 5G** | ⚠️ Tak, ALE... | Działa tylko jeśli NIE jest japońskim wariantem operatorskim |
-| **Pixel 3 / 3 XL / 3a / 3a XL** | ⚠️ Tak, ALE... | Działa tylko jeśli NIE jest japońskim wariantem operatorskim |
+| **Pixel 10 / 10 Pro / 10 Pro XL / 10 Pro Fold** | ✅ Tak | Pełna obsługa profili cyfrowych SIM, bez ograniczeń |
+| **Pixel 9 / 9 Pro / 9 Pro XL / 9 Pro Fold / 9a** | ✅ Tak | Pełna obsługa, bez ograniczeń |
+| **Pixel 8 / 8 Pro / 8a** | ✅ Tak | Pełna obsługa, bez ograniczeń |
+| **Pixel 7 / 7 Pro / 7a** | ✅ Tak | Pełna obsługa, bez ograniczeń |
+| **Pixel 6 / 6 Pro / 6a** | ✅ Tak | Pełna obsługa, bez ograniczeń (przełomowa generacja) |
+| **Pixel 5 / 5a 5G** | ⚠️ Tak, ALE... | Działa tylko jeśli NIE jest japońskim wariantem operatora |
+| **Pixel 4 / 4 XL / 4a / 4a 5G** | ⚠️ Tak, ALE... | Działa tylko jeśli NIE jest japońskim wariantem operatora |
+| **Pixel 3 / 3 XL / 3a / 3a XL** | ⚠️ Tak, ALE... | Działa tylko jeśli NIE jest japońskim wariantem operatora |
 | **Pixel 2 / 2 XL** | ❌ Nie | Brak sprzętu eSIM – tylko fizyczna SIM |
 | **Pixel 1 / 1 XL** | ❌ Nie | Brak sprzętu eSIM – tylko fizyczna SIM |
 
-**Nie wiesz, który model masz?** Przejdź do **Ustawienia > Informacje o telefonie > Numer modelu**. Następnie dopasuj go do tabeli powyżej.
+**Nie jesteś pewien, który masz model?** Przejdź do **Ustawienia > O telefonie > Numer modelu**. Następnie dopasuj go do tabeli powyżej.
 
-**Nadal nie jesteś pewien, czy Twoje konkretne urządzenie jest zablokowane przez japońskiego operatora?** Wybierz `*#06#` – jeśli zobaczysz numer **EID**, sprzęt wbudowanej SIM jest dostępny. Jeśli pojawią się tylko numery IMEI, funkcja cyfrowej SIM jest wyłączona.
+**Nadal nie jesteś pewien, czy Twoje konkretne urządzenie jest zablokowane japońsko?** Wybierz `*#06#` – jeśli widzisz numer **EID**, sprzęt wbudowanej SIM jest dostępny. Jeśli pojawiają się tylko numery IMEI, funkcja cyfrowej SIM jest wyłączona.
 
 
-## Krótka odpowiedź – które modele Pixel obsługują eSIM?
+## Które modele Pixel obsługują eSIM?
 
 **Począwszy od Pixel 3, większość telefonów Google Pixel obsługuje eSIM – ale z ważnymi ograniczeniami regionalnymi.**
 
 - **Seria Pixel 2:** ❌ Brak obsługi eSIM
-- **Seria Pixel 3/4/5:** ✅ Tak (ale wersje japońskich operatorów są zazwyczaj zablokowane)
-- **Pixel 6 i nowsze:** ✅ Pełne wsparcie, bez ograniczeń regionalnych
+- **Seria Pixel 3/4/5:** ✅ Tak (ale japońskie wersje operatorów są zazwyczaj zablokowane)
+- **Pixel 6 i nowsze:** ✅ Pełna obsługa, bez ograniczeń regionalnych
 
-Jeśli szukasz używanego Pixela specjalnie na podróż, **najbezpieczniejszym wyborem jest Pixel 6 lub nowszy**. Jeśli masz już Pixela 3/4/5 (nie-japońskiego), prawdopodobnie będzie działać.
+Jeśli szukasz używanego Pixel specjalnie do podróży, **najbezpieczniejszym wyborem jest Pixel 6 lub nowszy**. Jeśli masz już Pixel 3/4/5 (nie-japoński), prawdopodobnie będzie działać.
 
-Oficjalna [strona pomocy Google dotycząca eSIM na Pixel](https://support.google.com/pixelphone/answer/7086887) zawiera dodatkowe informacje o kompatybilności. Technologia stojąca za cyfrowymi profilami SIM jest regulowana przez [standard GSMA SGP.22](https://www.gsma.com/esim/), zapewniający globalną interoperacyjność między urządzeniami i operatorami.
+[Oficjalna strona pomocy Google dla eSIM na Pixel](https://support.google.com/pixelphone/answer/7086887) zawiera dodatkowe szczegóły zgodności. Technologia stojąca za cyfrowymi profilami SIM jest regulowana przez [standard GSMA SGP.22](https://www.gsma.com/esim/), zapewniając globalną interoperacyjność między urządzeniami i operatorami.
 
-Pełną listę **telefonów kompatybilnych z eSIM** wszystkich marek znajdziesz na naszej **[kompletnej liście kompatybilności](/compatibility/)**.
+Aby uzyskać pełną listę **telefonów zgodnych z eSIM** wszystkich marek, zobacz naszą **[kompletną listę zgodności](/compatibility/)**.
 
 
-## NOWOŚĆ: Dekoder numeru modelu – sprawdź status eSIM swojego Pixela natychmiast
+## Dekoder numeru modelu Pixel dla eSIM
 
-**Nie zgaduj – odczytaj numer modelu, aby dokładnie wiedzieć, z czym masz do czynienia.**
+**Nie zgaduj – rozszyfruj numer modelu, aby dokładnie wiedzieć, z czym masz do czynienia.**
 
-Numer modelu Pixela mówi, gdzie został sprzedany i czy prawdopodobnie ma ograniczenia eSIM. Przejdź do **Ustawienia > Informacje o telefonie > Numer modelu** i dopasuj poniżej:
+Numer modelu Twojego Pixel mówi, gdzie został sprzedany i czy prawdopodobnie ma ograniczenia eSIM. Przejdź do **Ustawienia > O telefonie > Numer modelu** i dopasuj poniżej:
 
-| Numer modelu | Region/wariant | Status eSIM | Uwagi |
+| Numer modelu | Region/Wariant | Status eSIM | Uwagi |
 |--------------|----------------|-------------|-------|
-| **G025E** | USA / międzynarodowy (Pixel 6) | ✅ Pełny | Standardowe wsparcie dla cyfrowych profili SIM |
-| **G025H** | Japonia (Pixel 6) | ⚠️ Może być ograniczony | Sprawdź przez `*#06#` – niektóre warianty operatorskie zablokowane |
-| **G025I** | USA / Kanada (Pixel 6) | ✅ Pełny | Standardowe wsparcie |
-| **G8V0U** | USA (Verizon Pixel 6) | ✅ Pełny | Zablokowany przez Verizon, ale funkcja działa |
+| **G025E** | USA / Międzynarodowy (Pixel 6) | ✅ Pełny | Standardowa obsługa cyfrowych profili SIM |
+| **G025H** | Japonia (Pixel 6) | ⚠️ Może być ograniczony | Sprawdź przez `*#06#` – niektóre warianty operatorów zablokowane |
+| **G025I** | USA / Kanada (Pixel 6) | ✅ Pełny | Standardowa obsługa |
+| **G8V0U** | USA (Verizon Pixel 6) | ✅ Pełny | Verizon zablokowany, ale funkcja działa |
 | **G9S9B** | USA / Globalny (Pixel 7) | ✅ Pełny | Bez ograniczeń regionalnych |
 | **GP4BC** | USA (Verizon Pixel 7) | ✅ Pełny | Działa nawet na zablokowanym Verizon |
 | **GF5KQ** | Japonia (Pixel 7) | ⚠️ Może być ograniczony | Sprawdź EID przez `*#06#` |
 | **GQML3** | USA / Globalny (Pixel 8) | ✅ Pełny | Bez ograniczeń |
-| **GZPF0** | Japonia (Pixel 8) | ⚠️ Może być ograniczony | Niektóre warianty operatorskie zablokowane |
+| **GZPF0** | Japonia (Pixel 8) | ⚠️ Może być ograniczony | Niektóre warianty operatorów zablokowane |
 | **GE2AE** | USA / Globalny (Pixel 9) | ✅ Pełny | Bez ograniczeń |
-| **GC3VE** | Japonia (Pixel 9) | ⚠️ Może być ograniczony | Warianty SoftBank/au mogą wyłączać funkcję |
+| **GC3VE** | Japonia (Pixel 9) | ⚠️ Może być ograniczony | Warianty SoftBank/au mogą wyłączyć funkcję |
 | **GVU6C** | USA / Globalny (Pixel 10) | ✅ Pełny | Bez ograniczeń |
 
-> **Zasada ogólna:** Jeśli numer modelu kończy się na **E** lub **I** (USA/Globalny), jesteś bezpieczny. Jeśli kończy się na **H**, **K** lub **Q** (Japonia) – sprawdź EID przez `*#06#` przed założeniem, że funkcja działa.
+> **Zasada ogólna:** Jeśli Twój numer modelu kończy się na **E** lub **I** (USA/Globalny), jesteś bezpieczny. Jeśli kończy się na **H**, **K** lub **Q** (Japonia) – sprawdź EID przez `*#06#` przed założeniem, że funkcja działa.
 
-**Jak znaleźć numer modelu na używanym Pixelu (przed zakupem):**
-- Poproś sprzedawcę o przejście do **Ustawienia > Informacje o telefonie > Numer modelu** i wysłanie zrzutu ekranu.
-- LUB: Poproś sprzedawcę o wybranie `*#06#` i wysłanie zrzutu ekranu pokazującego EID.
-- **Nigdy nie kupuj japońskiego Pixela na podróż, chyba że sprzedawca potwierdzi obecność EID.**
+**Jak znaleźć numer modelu na używanym Pixel (przed zakupem):**
+- Poproś sprzedawcę, aby przeszedł do **Ustawienia > O telefonie > Numer modelu** i wysłał zrzut ekranu.
+- LUB: Poproś sprzedawcę, aby wybrał `*#06#` i wysłał zrzut ekranu pokazujący EID.
+- **Nigdy nie kupuj japońskiego Pixel do podróży, chyba że sprzedawca potwierdzi obecność EID.**
 
 
-## Kompletna tabela kompatybilności eSIM – Pixel 2 do Pixel 10
+## Kompletna tabela zgodności Pixel z eSIM
 
 | Model Pixel | Obsługa eSIM | Dual SIM (fizyczna + eSIM) | Limit przechowywania eSIM | Czas pierwszego połączenia | Uwagi |
 |-------------|--------------|----------------------------|--------------------|-----------------------|-------|
-| Pixel 10, 10 Pro, 10 Pro XL, 10 Pro Fold | ✅ Tak | Tak | Do 10 profili | 1-2 min | Pełne wsparcie, bez limitów regionalnych |
-| Pixel 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a | ✅ Tak | Tak | Do 10 profili | 1-2 min | Pełne wsparcie, bez limitów regionalnych |
-| Pixel 8, 8 Pro, 8a | ✅ Tak | Tak | Do 10 profili | 1-2 min | Pełne wsparcie, bez limitów regionalnych |
-| Pixel 7, 7 Pro, 7a | ✅ Tak | Tak | Do 10 profili | 1-3 min | Pełne wsparcie, bez limitów regionalnych |
-| Pixel 6, 6 Pro, 6a | ✅ Tak | Tak | Do 5-8 profili | 2-3 min | Pełne wsparcie, bez limitów regionalnych |
-| Pixel 5, 5a 5G | ✅ Tak | Tak | Do 5 profili | 2-4 min | **Japońskie warianty operatorskie mogą blokować funkcję** |
-| Pixel 4, 4 XL | ✅ Tak | Tak | Do 5 profili | 2-4 min | **Japońskie warianty operatorskie mogą blokować funkcję** |
-| Pixel 4a, 4a 5G | ✅ Tak | Tak | Do 5 profili | 2-4 min | **Japońskie warianty operatorskie mogą blokować funkcję** |
-| Pixel 3, 3 XL | ✅ Tak | Tak | Do 5 profili | 3-5 min | **Japońskie warianty operatorskie mogą blokować funkcję** |
-| Pixel 3a, 3a XL | ✅ Tak | Tak | Do 5 profili | 3-5 min | **Japońskie warianty operatorskie mogą blokować funkcję** |
+| Pixel 10, 10 Pro, 10 Pro XL, 10 Pro Fold | ✅ Tak | Tak | Do 10 profili | 1-2 min | Pełna obsługa, bez limitów regionalnych |
+| Pixel 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a | ✅ Tak | Tak | Do 10 profili | 1-2 min | Pełna obsługa, bez limitów regionalnych |
+| Pixel 8, 8 Pro, 8a | ✅ Tak | Tak | Do 10 profili | 1-2 min | Pełna obsługa, bez limitów regionalnych |
+| Pixel 7, 7 Pro, 7a | ✅ Tak | Tak | Do 10 profili | 1-3 min | Pełna obsługa, bez limitów regionalnych |
+| Pixel 6, 6 Pro, 6a | ✅ Tak | Tak | Do 5-8 profili | 2-3 min | Pełna obsługa, bez limitów regionalnych |
+| Pixel 5, 5a 5G | ✅ Tak | Tak | Do 5 profili | 2-4 min | **Japońskie warianty operatorów mogą zablokować funkcję** |
+| Pixel 4, 4 XL | ✅ Tak | Tak | Do 5 profili | 2-4 min | **Japońskie warianty operatorów mogą zablokować funkcję** |
+| Pixel 4a, 4a 5G | ✅ Tak | Tak | Do 5 profili | 2-4 min | **Japońskie warianty operatorów mogą zablokować funkcję** |
+| Pixel 3, 3 XL | ✅ Tak | Tak | Do 5 profili | 3-5 min | **Japońskie warianty operatorów mogą zablokować funkcję** |
+| Pixel 3a, 3a XL | ✅ Tak | Tak | Do 5 profili | 3-5 min | **Japońskie warianty operatorów mogą zablokować funkcję** |
 | Pixel 2, 2 XL | ❌ Nie | Nie | Nie dotyczy | Nie dotyczy | Brak sprzętu eSIM |
 | Pixel 1, 1 XL | ❌ Nie | Nie | Nie dotyczy | Nie dotyczy | Brak sprzętu eSIM |
 
-> **Co oznacza "japoński wariant operatorski"?** Telefony sprzedawane przez SoftBank, au (KDDI) i innych japońskich operatorów często mają funkcję cyfrowej SIM wyłączoną na poziomie oprogramowania układowego. Nawet modele Pixel 6 i nowsze mogą być zablokowane, jeśli zostały zakupione jako urządzenie na umowę operatorską w Japonii. **Wersje międzynarodowe, amerykańskie i europejskie nie mają takich ograniczeń.**
+> **Co oznacza „japoński wariant operatora"?** Telefony sprzedawane przez SoftBank, au (KDDI) i innych japońskich operatorów często mają funkcję cyfrowej SIM wyłączoną na poziomie firmware. Nawet modele Pixel 6 i nowsze mogą być zablokowane, jeśli zostały zakupione jako urządzenie z kontraktem operatorskim w Japonii. **Wersje międzynarodowe, amerykańskie i europejskie nie mają takich ograniczeń.**
 
-> **Co to jest "Czas pierwszego połączenia"?** To czas, jaki Twój Pixel zazwyczaj potrzebuje na połączenie z siecią komórkową po zainstalowaniu i aktywacji profilu eSIM. Jeśli Twój telefon potrzebuje więcej czasu, spróbuj przełączyć tryb samolotowy lub uruchomić ponownie urządzenie – zobacz sekcję rozwiązywania problemów poniżej.
+> **Czym jest „Czas pierwszego połączenia"?** To, ile czasu Twój Pixel zazwyczaj potrzebuje na połączenie z siecią komórkową po zainstalowaniu i aktywowaniu profilu eSIM. Jeśli telefon potrzebuje dłużej, spróbuj przełączyć tryb samolotowy lub uruchomić ponownie urządzenie – zobacz sekcję rozwiązywania problemów poniżej.
 
 
-## Budżet vs. najlepszy – którego Pixela kupić do eSIM w podróży w 2026
+## Który Pixel kupić do podróży z eSIM
 
-**Chcesz Pixela na podróż. Ile powinieneś wydać?**
+**Chcesz Pixel do podróży. Ile powinieneś wydać?** Po wybraniu poziomu, [przewodnik po planach travel eSIM](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) pokazuje, co zainstalować przed wyjazdem.
 
-| Budżet | Najlepszy model Pixel | Dlaczego | Przybliżona cena używana (2026) |
+| Budżet | Najlepszy model Pixel | Dlaczego | Przybliżona cena używany (2026) |
 |--------|------------------|-----|---------------------------|
-| **< 100 $** | Pixel 5 (nie-japoński) | Funkcja działa, dobra bateria, kompaktowy, 5G niepotrzebne w podróży | ~80-100 $ |
-| **100-150 $** | Pixel 6a | Pełne wsparcie dla cyfrowych profili SIM, 5G, lepsza bateria niż Pixel 5, dłuższe wsparcie aktualizacji | ~120-150 $ |
-| **150-250 $** | Pixel 7 | Obsługa podwójnej eSIM (dwa aktywne profile), lepszy aparat, szybszy procesor | ~180-230 $ |
-| **250-350 $** | Pixel 8 | Podwójna eSIM, 7 lat aktualizacji, najlepsze funkcje AI, lepsza bateria | ~280-340 $ |
-| **350 $+** | Pixel 9 lub 10 | Najnowszy sprzęt, najdłuższe aktualizacje, najlepszy aparat | 400 $+ |
+| **<$100** | Pixel 5 (nie-japoński) | Funkcja działa, dobra bateria, kompaktowy, brak potrzeby 5G do podróży | ~$80-100 |
+| **$100-150** | Pixel 6a | Pełna obsługa cyfrowych profili SIM, 5G, lepsza bateria niż Pixel 5, dłuższe wsparcie aktualizacji | ~$120-150 |
+| **$150-250** | Pixel 7 | Obsługa podwójnego eSIM (dwa aktywne profile), lepszy aparat, szybszy procesor | ~$180-230 |
+| **$250-350** | Pixel 8 | Podwójny eSIM, 7 lat aktualizacji, najlepsze funkcje AI, lepsza bateria | ~$280-340 |
+| **$350+** | Pixel 9 lub 10 | Najnowszy sprzęt, najdłuższe aktualizacje, najlepszy aparat | $400+ |
 
 **Werdykt: Najlepsza wartość dla większości podróżnych = Pixel 6a**
 
-- ✅ Pełne wsparcie dla cyfrowych profili SIM (bez ograniczeń regionalnych)
+- ✅ Pełna obsługa cyfrowych profili SIM (bez ograniczeń regionalnych)
 - ✅ Gotowy na 5G
 - ✅ Doskonała żywotność baterii
-- ✅ Przystępna cena (120-150 $ używany)
-- ✅ Jedna fizyczna SIM + jedna eSIM jednocześnie
-- ⚠️ NIE obsługuje podwójnej eSIM (dwóch aktywnych eSIM) – tylko Pixel 7+ obsługuje to
+- ✅ Przystępny cenowo ($120-150 używany)
+- ✅ Jedna fizyczna SIM + jeden eSIM jednocześnie
+- ⚠️ NIE obsługuje podwójnego eSIM (dwa aktywne eSIM) – tylko Pixel 7+ to obsługuje
 
-**Wybierz Pixel 7+, jeśli potrzebujesz podwójnej eSIM** (np. podróżując przez wiele krajów i chcesz mieć dwa aktywne cyfrowe profile SIM jednocześnie).
+**Wybierz Pixel 7+, jeśli potrzebujesz podwójnego eSIM** (np. podróżujesz przez wiele krajów i chcesz utrzymać dwa aktywne profile cyfrowej SIM jednocześnie).
 
-**Unikaj:** Pixel 2 (brak sprzętu), Pixel 3/4/5 wariantów japońskich (funkcja zablokowana), każdego Pixela, gdzie sprzedawca nie może potwierdzić EID.
+**Unikaj:** Pixel 2 (brak sprzętu), japońskie warianty Pixel 3/4/5 (funkcja zablokowana), każdy Pixel, w którym sprzedawca nie może potwierdzić EID.
 
 
-## Status blokady regionalnej eSIM według operatora (szczegółowa analiza)
+## Regionalny status blokady eSIM według operatora
 
-Nie wszystkie telefony Pixel są równe, jeśli chodzi o dostępność cyfrowej SIM – polityka operatorów i oprogramowanie regionalne odgrywają ogromną rolę. Oto zestawienie według regionu i operatora.
+Nie wszystkie telefony Pixel są równe, jeśli chodzi o dostępność cyfrowej SIM – polityki operatorów i regionalny firmware odgrywają ogromną rolę. Oto podział według regionu i operatora.
 
-### Japonia (SoftBank, au/KDDI, NTT Docomo)
+### Japońska blokada eSIM przez SoftBank, au, KDDI i NTT Docomo
 
-**Status:** Większość japońskich wariantów operatorskich ma eSIM **wyłączoną na poziomie oprogramowania układowego**.
+**Status:** Większość japońskich wariantów operatorów ma eSIM **wyłączone na poziomie firmware**.
 
-- **SoftBank i au (KDDI):** Historycznie obaj operatorzy wyłączają funkcję na wszystkich urządzeniach z Androidem, które sprzedają, w tym Pixelach. To nie jest blokada SIM – to trwałe ograniczenie oprogramowania układowego. Nawet po odblokowaniu SIM do użytku międzynarodowego, funkcja cyfrowej SIM pozostaje niedostępna.
-- **NTT Docomo:** Docomo było bardziej przyjazne eSIM na iPhone'ach, ale urządzenia z Androidem (w tym Pixele) zazwyczaj również mają wyłączoną funkcję.
-- **Jak rozpoznać Pixela od japońskiego operatora:** Sprawdź ekran startowy pod kątem logo operatora lub poszukaj wstępnie zainstalowanych aplikacji operatorskich. Numer modelu może również kończyć się specyficznym dla regionu sufiksem.
+- **SoftBank i au (KDDI):** Historycznie obaj operatorzy wyłączają tę funkcję na wszystkich urządzeniach Android, które sprzedają, w tym Pixel. To nie jest blokada SIM – to trwałe ograniczenie firmware. Nawet po odblokowaniu SIM do użytku międzynarodowego funkcja cyfrowej SIM pozostaje niedostępna.
+- **NTT Docomo:** Docomo był bardziej przyjazny dla eSIM na iPhone'ach, ale urządzenia Android (w tym Pixel) zazwyczaj mają tę funkcję również wyłączoną.
+- **Jak zidentyfikować japoński Pixel operatora:** Sprawdź ekran rozruchowy pod kątem logo operatora lub poszukaj preinstalowanych aplikacji operatora. Numer modelu może również kończyć się sufiksem specyficznym dla regionu.
 
-**Rozwiązanie:** Żadne. Nie możesz ponownie włączyć funkcji na tych urządzeniach. Jeśli jej potrzebujesz, musisz kupić wersję międzynarodową (bezpośrednio ze Sklepu Google) lub używane urządzenie pierwotnie sprzedane poza Japonią.
+**Obejście:** Brak. Nie możesz ponownie włączyć tej funkcji na tych urządzeniach. Jeśli jej potrzebujesz, musisz kupić wersję międzynarodową (bezpośrednio ze sklepu Google) lub używane urządzenie pierwotnie sprzedane poza Japonią.
 
-### Mam japońskiego Pixela – jakie są moje opcje?
+### Jakie mam opcje z japońskim Pixel?
 
-**Problem:** Masz już japońskiego Pixela (SoftBank/au) i właśnie odkryłeś, że funkcja cyfrowej SIM jest wyłączona.
+**Problem:** Masz już japoński Pixel (SoftBank/au) i właśnie odkryłeś, że funkcja cyfrowej SIM jest wyłączona.
 
-**Opcja 1: Użyj fizycznej SIM zamiast**
-- Jeśli Twój Pixel ma tackę na fizyczną SIM (wszystkie japońskie Pixele mają), po prostu kup fizyczną kartę SIM podróżną.
-- W przypadku podróży do wielu krajów będziesz musiał wymieniać fizyczne SIM (mniej wygodne, ale działa).
+**Opcja 1: Użyj fizycznej SIM zamiast tego**
+- Jeśli Twój Pixel ma tackę na fizyczną SIM (wszystkie japońskie Pixele ją mają), po prostu kup fizyczną travel SIM.
+- Do podróży po wielu krajach będziesz musiał wymieniać fizyczne SIM (mniej wygodne, ale działa).
 
-**Opcja 2: Sprzedaj go i kup międzynarodowego Pixela**
+**Opcja 2: Sprzedaj go i kup międzynarodowy Pixel**
 - Japońskie Pixele z wyłączoną funkcją nadal działają doskonale z fizycznymi SIM – nie są zepsute.
-- Sprzedaj na eBay/Mercari (bądź szczery co do ograniczenia) i kup używanego Pixela 6a/7 w wersji międzynarodowej.
+- Sprzedaj na eBay/Mercari (bądź szczery co do ograniczenia) i kup używany Pixel 6a/7 w wersji międzynarodowej.
 
 **Opcja 3: Zachowaj go jako urządzenie zapasowe**
 - Używaj go jako urządzenia tylko z Wi‑Fi lub telefonu zapasowego.
-- Kup osobnego międzynarodowego Pixela na podróż.
+- Kup osobny międzynarodowy Pixel do podróży.
 
 **Czego NIE robić:**
-- ❌ Nie próbuj flashować międzynarodowego oprogramowania – to NIE włącza funkcji eSIM (ograniczenie jest w paśmie podstawowym, nie w systemie operacyjnym).
-- ❌ Nie płac nikomu, kto twierdzi, że może to "odblokować" na japońskich Pixelach – to ograniczenie na poziomie sprzętowym.
-- ❌ Nie kupuj usługi "odblokowania SIM" oczekując, że funkcja eSIM zadziała – odblokowanie SIM i włączenie eSIM to dwie zupełnie różne rzeczy.
+- ❌ Nie próbuj wgrywać międzynarodowego firmware – to NIE włączy ponownie funkcji (ograniczenie jest w baseband, nie w systemie operacyjnym).
+- ❌ Nie płać nikomu twierdzącemu, że może „odblokować" to na japońskich Pixelach – to ograniczenie na poziomie sprzętowym.
+- ❌ Nie kupuj usługi „SIM unlock" oczekując, że funkcja cyfrowej SIM będzie działać – odblokowanie SIM i włączenie eSIM to całkowicie różne rzeczy.
 
-### Blokada operatora vs. blokada funkcji eSIM – dwie różne rzeczy
+### Blokada operatora vs blokada funkcji eSIM
 
-To częsty punkt nieporozumień. Wyjaśnijmy:
+To często mylący punkt. Wyjaśnijmy:
 
-| Rodzaj blokady | Co oznacza | Czy można naprawić? | Wpływ na eSIM |
-|--------------|---------------|------------------|--------------|
-| **Blokada SIM przez operatora** | Telefon może używać tylko SIM od jednego operatora (np. AT&T) | ✅ Tak – poproś o odblokowanie po spłacie | Po odblokowaniu działa z każdym operatorem |
-| **Blokada funkcji eSIM** | Sprzęt eSIM jest wyłączony na poziomie oprogramowania (japońskie Pixele) | ❌ Nie – trwałe | Nigdy nie działa, nawet po odblokowaniu SIM |
-| **Regionalna blokada eSIM** | Ograniczenie specyficzne dla operatora (np. niektóre modele AT&T) | ⚠️ Czasami – może wymagać interwencji operatora | Niektóre profile mogą być blokowane |
+| Typ blokady | Co to oznacza | Czy można to naprawić? | Wpływ na cyfrową SIM |
+|--------------|---------------|------------------|----------------------|
+| **Blokada operatora SIM** | Telefon może używać tylko SIM od jednego operatora (np. AT&T) | ✅ Tak – poproś o odblokowanie po spłacie | Po odblokowaniu działa z każdym operatorem |
+| **Blokada funkcji eSIM** | Sprzęt eSIM jest wyłączony na poziomie firmware (japońskie Pixele) | ❌ Nie – trwałe | Nigdy nie działa, nawet po odblokowaniu SIM |
+| **Regionalna blokada eSIM** | Ograniczenie specyficzne dla operatora (np. niektóre modele AT&T) | ⚠️ Czasami – może wymagać interwencji operatora | Niektóre profile mogą być zablokowane |
 
-**Kluczowe spostrzeżenie:** SIM-odblokowany japoński Pixel wciąż jest E-SIM-zablokowany. Te dwie blokady są niezależne. Zawsze sprawdzaj EID (`*#06#`) – jeśli nie ma EID, funkcja jest trwale wyłączona.
+**Kluczowy wniosek:** Odblokowany SIM w japońskim Pixelu NADAL ma zablokowany eSIM. Te dwie blokady są niezależne. Zawsze sprawdzaj EID (`*#06#`) – jeśli nie ma EID, funkcja jest trwale wyłączona.
 
-### USA (Verizon, AT&T, T-Mobile i odblokowane)
+### Amerykańska blokada eSIM przez Verizon, AT&T i T-Mobile
 
 **Status:** Zablokowane przez operatora Pixele różnią się; odblokowane Pixele mają pełny dostęp.
 
-- **Verizon (zablokowany):** Verizon zezwala na funkcję na swoich zablokowanych Pixelach (Pixel 4 i nowsze). Możesz używać podróżnej eSIM obok fizycznej SIM Verizon bez kontaktu z Verizon. Jednak aktywacja drugiego profilu w sieci Verizon może wymagać ich aplikacji lub obsługi klienta.
-- **AT&T (zablokowany):** Polityka AT&T jest bardziej restrykcyjna. Niektóre Pixele zablokowane przez AT&T (zwłaszcza starsze modele) mogą blokować profile spoza AT&T. Na podróż zdecydowanie zaleca się odblokowanego Pixela.
-- **T‑Mobile (zablokowany):** T‑Mobile zazwyczaj zezwala na funkcję na swoich zablokowanych Pixelach, choć urządzenie musi być spłacone i SIM-odblokowane dla niektórych funkcji.
-- **Odblokowany fabrycznie (bezpośrednio od Google lub sprzedawców takich jak Best Buy):** Pełne wsparcie, bez żadnych ograniczeń. To najlepsza opcja dla podróżnych międzynarodowych.
+- **Verizon (zablokowany):** Verizon zezwala na tę funkcję na swoich zablokowanych Pixelach (Pixel 4 i nowsze). Możesz używać travel eSIM obok fizycznej SIM Verizon bez kontaktu z Verizon. Jednak aktywacja drugiego profilu w samej sieci Verizon może wymagać ich aplikacji lub obsługi klienta.
+- **AT&T (zablokowany):** Polityka AT&T jest bardziej restrykcyjna. Niektóre zablokowane przez AT&T Pixele (zwłaszcza starsze modele) mogą blokować profile inne niż AT&T. Do podróży zdecydowanie zaleca się odblokowany Pixel.
+- **T‑Mobile (zablokowany):** T‑Mobile ogólnie zezwala na tę funkcję na swoich zablokowanych Pixelach, choć urządzenie musi być spłacone i odblokowane SIM dla niektórych funkcji.
+- **Fabrycznie odblokowany (bezpośrednio od Google lub sprzedawców detalicznych takich jak Best Buy):** Pełna obsługa, bez żadnych ograniczeń. To najlepsza opcja dla podróżnych międzynarodowych.
 
-### Europa (UE)
+### Status blokady eSIM w Europie
 
 **Status:** Praktycznie wszystkie Pixele sprzedawane w UE są w pełni kompatybilne.
 
-- Przepisy UE wymagają, aby operatorzy pozwalali na odblokowywanie urządzeń i nie nakazują wyłączania funkcji. Większość europejskich Pixeli jest sprzedawana z odblokowaną SIM zgodnie z prawem.
-- Jedynymi potencjalnymi wyjątkami są urządzenia na umowy od mniejszych operatorów regionalnych (np. niektórzy niemieccy lub francuscy operatorzy). Nawet wtedy funkcja jest rzadko wyłączana.
+- Przepisy UE wymagają od operatorów umożliwienia odblokowania urządzenia i nie nakazują wyłączania tej funkcji. Większość europejskich Pixeli jest sprzedawana z odblokowanym SIM zgodnie z prawem.
+- Jedynymi potencjalnymi wyjątkami są urządzenia z kontraktem operatora od mniejszych dostawców regionalnych (np. niektórzy niemieccy lub francuscy operatorzy). Nawet wtedy funkcja jest rzadko wyłączana.
 
-### Chiny
+### Status blokady eSIM w Chinach
 
-**Status:** Pixele nie są oficjalnie sprzedawane w Chinach kontynentalnych, więc prawie wszystkie Pixele w Chinach to importowane wersje międzynarodowe. Zachowują pełne wsparcie.
+**Status:** Pixele nie są oficjalnie sprzedawane w Chinach kontynentalnych, więc prawie wszystkie Pixele w Chinach to importowane wersje międzynarodowe. Zachowują pełną obsługę.
 
-- Jednak chińscy operatorzy krajowi (China Mobile, China Unicom, China Telecom) **nie oferują eSIM turystom ani nierezydentom**. Nie możesz kupić lokalnego chińskiego planu cyfrowej SIM bez chińskiego dowodu osobistego i długoterminowej umowy.
-- Na podróż w Chinach musisz użyć międzynarodowego dostawcy podróżnego (który działa doskonale na Pixelach, korzystając z umów roamingowych z operatorami spoza Chin).
+- Jednak chińscy operatorzy krajowi (China Mobile, China Unicom, China Telecom) **nie oferują eSIM turystom ani nierezydentom**. Nie możesz kupić lokalnego chińskiego planu cyfrowej SIM bez chińskiego dowodu i długoterminowej umowy.
+- Do podróży po Chinach musisz użyć międzynarodowego dostawcy travel (które działają doskonale na Pixelach, wykorzystując umowy roamingowe z operatorami spoza Chin).
 
-### Indie
+### Status blokady eSIM w Indiach
 
-**Status:** Pixele sprzedawane w Indiach (przez Flipkart, Google Store) są w pełni kompatybilne i z odblokowaną SIM.
+**Status:** Pixele sprzedawane w Indiach (przez Flipkart, Google Store) są w pełni kompatybilne i odblokowane SIM.
 
-- Indyjscy operatorzy, tacy jak Jio i Airtel, oferują konwersję na eSIM dla klientów postpaid. Proces wymaga wizyty w sklepie w celu osobistej weryfikacji (brak zdalnej aktywacji dla cudzoziemców).
+- Indyjscy operatorzy tacy jak Jio i Airtel oferują konwersję eSIM dla klientów abonamentowych. Proces wymaga wizyty w sklepie w celu weryfikacji osobistej (brak zdalnej aktywacji dla obcokrajowców).
 
-### Australia i Kanada
+### Status blokady eSIM w Australii i Kanadzie
 
-**Status:** Odblokowane Pixele od Google lub głównych sprzedawców (JB Hi-Fi, Amazon AU, Best Buy CA) w pełni obsługują funkcję. Urządzenia zablokowane przez operatorów Telstra, Optus, Rogers, Bell mogą mieć ograniczenia – sprawdź u swojego operatora.
+**Status:** Odblokowane Pixele od Google lub głównych sprzedawców detalicznych (JB Hi-Fi, Amazon AU, Best Buy CA) w pełni obsługują tę funkcję. Urządzenia zablokowane przez Telstra, Optus, Rogers, Bell mogą mieć ograniczenia – sprawdź u swojego operatora.
 
 
-## Obsługa podwójnej eSIM na Pixel 7 i nowszych
+## Obsługa podwójnego eSIM na Pixel 7 i nowszych
 
-Począwszy od **Androida 13** i serii **Pixel 7**, Google wprowadził możliwość posiadania **dwóch aktywnych eSIM jednocześnie** – bez potrzeby fizycznej karty SIM.
+Począwszy od **Android 13** i **serii Pixel 7**, Google wprowadził możliwość posiadania **dwóch aktywnych eSIM jednocześnie** – bez potrzeby fizycznej karty SIM. Użytkownicy iPhone zmagający się z konfiguracjami dwuliniowymi mają równoległe odniesienie: nasza [lista poprawek podwójnego eSIM dla iOS](/faq/dual-esim-not-working-12-fixes-for-iphone/).
 
-### Jak włączyć podwójną eSIM na Pixel 7/8/9/10
+### Jak włączyć podwójny eSIM na Pixel
 
-1. Upewnij się, że masz pobrane co najmniej dwa profile eSIM (zapisane na urządzeniu).
-2. Przejdź do **Ustawienia > Sieć i Internet > Karty SIM**.
-3. Kliknij pierwszą eSIM i ustaw ją jako aktywną.
-4. Kliknij drugą eSIM i również ustaw ją jako aktywną.
-5. Jeśli opcja jest wyszarzona, może być konieczne najpierw wyłączenie gniazda fizycznej SIM (jeśli fizyczna SIM jest włożona).
+1. Upewnij się, że masz co najmniej dwa pobrane profile eSIM (przechowywane na urządzeniu).
+2. Przejdź do **Ustawienia > Sieć i internet > SIMy**.
+3. Dotknij pierwszego eSIM i ustaw go jako aktywny.
+4. Dotknij drugiego eSIM i również ustaw go jako aktywny.
+5. Jeśli opcja jest wyszarzona, może być konieczne najpierw wyłączenie slotu fizycznej SIM (jeśli fizyczna SIM jest włożona).
 
-**Uwaga:** Podwójna eSIM działa tylko wtedy, gdy nie jest włożona fizyczna SIM lub gdy gniazdo fizycznej SIM jest wyłączone (Ustawienia > Sieć i Internet > Fizyczna SIM > Wyłącz).
+**Uwaga:** Podwójny eSIM działa tylko wtedy, gdy nie ma włożonej fizycznej SIM lub slot fizycznej SIM jest wyłączony (Ustawienia > Sieć i internet > Fizyczna SIM > Wyłącz).
 
-### Ograniczenia podwójnej eSIM na Pixel
+### Ograniczenia podwójnego eSIM na Pixel
 
-- **Nie wszyscy operatorzy obsługują podwójną eSIM:** Profile niektórych operatorów nie są zaprojektowane do działania obok innego aktywnego profilu. Może pojawić się błąd "profil eSIM nieobsługiwany".
-- **Wpływ na baterię:** Utrzymywanie dwóch aktywnych eSIM zużywa nieco więcej energii niż pojedyncza SIM, ale różnica jest zwykle pomijalna (1-3% dziennie).
-- **Tylko DSDS (Dual SIM Dual Standby):** Oba profile mogą odbierać połączenia i SMS-y, ale gdy jeden aktywnie używa danych, drugi może nie odbierać jednoczesnych danych. To standardowe zachowanie dla wszystkich telefonów z dual SIM.
+- **Nie wszyscy operatorzy obsługują podwójny eSIM:** Profile niektórych operatorów nie są zaprojektowane do pracy obok innego aktywnego profilu. Możesz zobaczyć błąd „eSIM profile not supported".
+- **Wpływ na baterię:** Utrzymywanie dwóch aktywnych cyfrowych SIM zużywa nieco więcej energii niż pojedyncza SIM, ale różnica jest zwykle nieznaczna (1-3% dziennie).
+- **Tylko DSDS (Dual SIM Dual Standby):** Oba profile mogą odbierać połączenia i SMS-y, ale gdy jeden aktywnie używa danych, drugi może nie odbierać jednoczesnych danych. To standardowe zachowanie wszystkich telefonów dual-SIM.
 
-### Zastosowania podwójnej eSIM na Pixel
+### Przypadki użycia podwójnego eSIM na Pixel
 
-- **Podróżowanie przez wiele krajów:** Miej aktywną europejską eSIM, mając jednocześnie przygotowaną eSIM na Japonię (wystarczy przełączać dane między nimi).
-- **Praca i życie prywatne na jednym urządzeniu bez fizycznej SIM:** Używaj dwóch różnych operatorów lub numerów, obu przez eSIM.
-- **Testowanie nowych dostawców bez usuwania głównej eSIM:** Pobierz profil próbny od nowego operatora i aktywuj go obok głównego profilu – bez wymiany.
+- **Podróż przez wiele krajów:** Utrzymuj aktywny europejski eSIM, mając jednocześnie gotowy japoński eSIM (po prostu przełączaj dane między nimi).
+- **Służbowy i osobisty na jednym urządzeniu bez fizycznej SIM:** Używaj dwóch różnych operatorów lub numerów, oba przez eSIM.
+- **Testowanie nowych dostawców bez usuwania głównego eSIM:** Pobierz profil próbny od nowego operatora i aktywuj go obok swojego głównego profilu – bez wymiany.
 
-### Które modele Pixel obsługują podwójną eSIM?
+### Które modele Pixel obsługują podwójny eSIM?
 
-| Model | Obsługa podwójnej eSIM |
+| Model | Obsługa podwójnego eSIM |
 |-------|-------------------|
 | Seria Pixel 10 | ✅ Tak |
 | Seria Pixel 9 | ✅ Tak |
 | Seria Pixel 8 | ✅ Tak |
-| Seria Pixel 7 | ✅ Tak (wymaga Androida 13+) |
-| Seria Pixel 6 | ❌ Nie (tylko jedna eSIM aktywna na raz) |
+| Seria Pixel 7 | ✅ Tak (wymaga Android 13+) |
+| Seria Pixel 6 | ❌ Nie (tylko jeden aktywny eSIM naraz) |
 | Pixel 5 i starsze | ❌ Nie |
 
 
-## Jak przenieść eSIM ze starego Pixela na nowego – krok po kroku
+## Jak przenieść eSIM ze starego Pixel na nowy Pixel
 
-Uaktualniasz do nowego Pixela? Nie chcesz stracić aktywnych profili eSIM. Oto jak bezpiecznie je przenieść.
+Ulepszasz do nowego Pixel? Nie chcesz stracić aktywnych profili eSIM. Oto jak je bezpiecznie przenieść.
 
-### Metoda 1: Korzystanie z aplikacji operatora (najłatwiejsza)
+### Korzystanie z aplikacji operatora
 
-Wielu nowoczesnych dostawców (zwłaszcza podróżnych eSIM) pozwala na ponowne pobranie profilu na nowym urządzeniu za pomocą ich aplikacji.
+Wielu nowoczesnych dostawców (zwłaszcza travel eSIM) pozwala na ponowne pobranie profilu na nowym urządzeniu za pomocą ich aplikacji.
 
-- **Google Fi:** Otwórz aplikację Fi na nowym Pixelu, zaloguj się i postępuj zgodnie z komunikatem "Aktywuj na tym urządzeniu". Profil automatycznie się przeniesie.
+- **Google Fi:** Otwórz aplikację Fi na nowym Pixel, zaloguj się i postępuj zgodnie z monitem „Aktywuj na tym urządzeniu". Profil przeniesie się automatycznie.
 - **Visible:** Zainstaluj aplikację Visible na nowym telefonie, zaloguj się i przejdź do Konto > Urządzenie > Aktywuj eSIM. Stary profil zostanie zdalnie dezaktywowany.
-- **US Mobile:** Użyj aplikacji US Mobile, aby "Zamienić eSIM" na nowe urządzenie.
-- **Airalo, Holafly, Nomad:** Większość planów podróżnych jest jednorazowa. Nie możesz ich przenieść – musisz kupić nowy plan, jeśli już wykorzystałeś dane. Jeśli jednak profil jest nadal niewykorzystany, możesz ponownie zeskanować kod QR na nowym Pixelu.
+- **US Mobile:** Użyj aplikacji US Mobile, aby „Swap eSIM" na nowe urządzenie.
+- **Airalo, Holafly, Nomad:** Większość planów travel jest do jednorazowej instalacji. Nie możesz ich przenieść – będziesz musiał kupić nowy plan, jeśli już użyłeś danych. Jednak jeśli profil jest nadal nieużywany, możesz ponownie zeskanować kod QR na nowym Pixelu.
 
-### Metoda 2: Korzystanie z wbudowanej funkcji "Kopiuj eSIM" (Android 13+)
+### Korzystanie z wbudowanego Copy eSIM w Androidzie
 
 **Uwaga:** Ta funkcja zależy od operatora i nie jest powszechnie obsługiwana.
 
-Na starym Pixelu (jeśli działa na Androidzie 13+):
+Na starym Pixelu (jeśli działa na Android 13+):
 
-1. Przejdź do **Ustawienia > Sieć i Internet > Karty SIM**.
-2. Kliknij eSIM, którą chcesz przenieść.
-3. Poszukaj opcji takiej jak **"Kopiuj eSIM na inne urządzenie"** lub **"Przenieś"**.
-4. Postępuj zgodnie z instrukcjami na ekranie – zazwyczaj będziesz musiał zeskanować kod QR z nowego Pixela.
+1. Przejdź do **Ustawienia > Sieć i internet > SIMy**.
+2. Dotknij eSIM, który chcesz przenieść.
+3. Poszukaj opcji takiej jak **„Kopiuj eSIM na inne urządzenie"** lub **„Przenieś"**.
+4. Postępuj zgodnie z instrukcjami na ekranie – zazwyczaj będziesz musiał zeskanować kod QR z nowego Pixel.
 
 Na nowym Pixelu:
 
-1. Podczas konfiguracji początkowej lub później przez **Ustawienia > Sieć i Internet > Dodaj operatora**.
-2. Wybierz **"Kopiuj z innego urządzenia"** (jeśli dostępne).
-3. Zeskanuj kod QR wyświetlony na starym Pixelu.
+1. Podczas wstępnej konfiguracji lub później przez **Ustawienia > Sieć i internet > Dodaj operatora**.
+2. Wybierz **„Kopiuj z innego urządzenia"** (jeśli dostępne).
+3. Zeskanuj kod QR wyświetlany na starym Pixelu.
 
-### Metoda 3: Ręczna ponowna instalacja (uniwersalna)
+### Ręczna ponowna instalacja
 
 Jeśli powyższe metody zawiodą:
 
-1. **Zlokalizuj oryginalny kod QR lub kod aktywacyjny** – sprawdź swoją skrzynkę e-mail lub aplikację operatora.
-2. Na nowym Pixelu przejdź do **Ustawienia > Sieć i Internet > Dodaj operatora**.
-3. Zeskanuj kod QR lub ręcznie wprowadź kod aktywacyjny.
-4. Profil zostanie pobrany jako nowy na nowym urządzeniu. **Stary profil na poprzednim telefonie pozostanie zainstalowany, ale nieaktywny** (powinieneś go później usunąć, aby uniknąć nieporozumień).
+1. **Znajdź oryginalny kod QR aktywacyjny lub kod aktywacyjny** – sprawdź swój e-mail lub aplikację operatora.
+2. Na nowym Pixelu przejdź do **Ustawienia > Sieć i internet > Dodaj operatora**.
+3. Zeskanuj kod QR lub wprowadź kod aktywacyjny ręcznie.
+4. Profil zostanie pobrany jako nowy na nowym urządzeniu. **Stary profil na poprzednim telefonie pozostanie zainstalowany, ale nieaktywny** (należy go później usunąć, aby uniknąć zamieszania).
 
-### Co zrobić przed sprzedażą lub wymianą starego Pixela
+### Co zrobić przed sprzedażą lub wymianą starego Pixel
 
-- **Nie resetuj do ustawień fabrycznych** – to może usunąć profile eSIM, ale pozostają one powiązane z EID urządzenia i mogą powodować problemy z aktywacją, jeśli nie zostaną prawidłowo usunięte.
-- **Prawidłowe usunięcie:** Przejdź do **Ustawienia > Sieć i Internet > Karty SIM**, kliknij eSIM i wybierz **"Usuń SIM"** lub **"Usuń"**. Informuje to serwer operatora, że profil jest dezaktywowany na tym urządzeniu.
-- **Po usunięciu** możesz bezpiecznie zresetować do ustawień fabrycznych.
+- **Nie rób po prostu resetu fabrycznego** – może to usunąć profile eSIM, ale pozostają one powiązane z EID urządzenia i mogą powodować problemy z aktywacją, jeśli nie zostaną prawidłowo usunięte.
+- **Prawidłowe usunięcie:** Przejdź do **Ustawienia > Sieć i internet > SIMy**, dotknij eSIM i wybierz **„Wymaż SIM"** lub **„Usuń"**. To informuje serwer operatora, że profil jest dezaktywowany na tym urządzeniu.
+- **Po wymazaniu** możesz bezpiecznie zresetować do ustawień fabrycznych.
 
-### Typowe błędy przenoszenia i rozwiązania
+### Częste błędy przenoszenia i rozwiązania
 
 | Komunikat błędu | Prawdopodobna przyczyna | Rozwiązanie |
 |---------------|--------------|----------|
-| "eSIM nieobsługiwana na tym urządzeniu" | Operator nie zezwala na przenoszenie profilu | Zamiast tego kup nowy plan. |
-| "Kod QR wygasł" | Plany podróżne często wygasają po określonym czasie (np. 30 dni) | Skontaktuj się z pomocą operatora po nowy kod QR. |
-| "Profil już użyty" | Profil jednorazowy nie może być ponownie zainstalowany | Kup nowy plan. |
-| "Operator nie obsługuje przenoszenia eSIM" | Niektóre profile operatorów postpaid są powiązane z IMEI | Skontaktuj się z operatorem, aby ponownie wydać na nowy IMEI. |
+| „eSIM not supported on this device" | Operator nie pozwala na przeniesienie profilu | Kup nowy plan. |
+| „QR code expired" | Plany travel często wygasają po określonym czasie (np. 30 dni) | Skontaktuj się z pomocą operatora, aby uzyskać nowy QR. |
+| „Profile already used" | Profil jednorazowej instalacji nie może być ponownie zainstalowany | Kup nowy plan. |
+| „Carrier doesn't support eSIM transfer" | Niektóre profile abonamentowe operatorów są powiązane z IMEI | Skontaktuj się z operatorem, aby ponownie wydał na nowym IMEI. |
 
-Aby przenosić między iPhone'em a Androidem (nie tylko Pixel na Pixel), zobacz nasz przewodnik **[Przenoszenie eSIM między platformami 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
+Aby przenieść między iPhone a Android (nie tylko Pixel do Pixel), zobacz nasz **[przewodnik po międzyplatformowym przenoszeniu eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 
-## Nie możesz zeskanować kodu QR? Ręczna aktywacja na Pixel
+## Ręczna aktywacja eSIM na Pixel
 
-**Problem:** Jesteś w jasnym otoczeniu, kod QR jest na ekranie komputera z odblaskami lub masz wydrukowany kod QR, który jest uszkodzony.
+**Problem:** Jesteś w jasnym otoczeniu, kod QR jest na ekranie komputera z odblaskiem lub masz wydrukowany kod QR, który jest uszkodzony.
 
-**Rozwiązanie:** Wprowadź dane aktywacyjne ręcznie. Każdy kod QR eSIM zawiera te same informacje, które można wpisać ręcznie.
+**Rozwiązanie:** Wprowadź szczegóły aktywacji ręcznie. Każdy kod QR eSIM zawiera te same informacje, które można wpisać ręcznie. Ciekawy, co dzieje się po dotknięciu potwierdzenia? [Objaśnienie aktywacji eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) opisuje pobieranie profilu za kulisami.
 
-### Jak aktywować eSIM ręcznie na Pixel
+### Jak ręcznie aktywować eSIM na Pixel
 
-1. Przejdź do **Ustawienia > Sieć i Internet > Dodaj operatora**.
-2. Kliknij **"Potrzebujesz pomocy?"** lub **"Wprowadź kod ręcznie"** (dokładne sformułowanie może się różnić w zależności od wersji Androida).
+1. Przejdź do **Ustawienia > Sieć i internet > Dodaj operatora**.
+2. Dotknij **„Potrzebujesz pomocy?"** lub **„Wprowadź kod ręcznie"** (dokładne sformułowanie może się różnić w zależności od wersji Android).
 3. Zobaczysz jedno lub więcej pól – zazwyczaj:
    - **Kod aktywacyjny** (często zaczyna się od `LPA:1$` lub jest długim ciągiem liter/cyfr)
-   - **Kod potwierdzający** (opcjonalny, 4-8 cyfr)
+   - **Kod potwierdzenia** (opcjonalny, 4-8 cyfr)
    - **Adres SM-DP+** (czasami wstępnie wypełniony)
-4. Wprowadź dane dokładnie tak, jak pokazano w e-mailu dostawcy.
+4. Wprowadź szczegóły dokładnie tak, jak pokazano w e-mailu od dostawcy.
 
-### Gdzie znaleźć dane do ręcznej aktywacji
+### Gdzie znaleźć szczegóły ręcznej aktywacji
 
-- **Airalo:** W aplikacji kliknij plan eSIM → "Szczegóły" → "Instalacja ręczna" – pokazuje SM-DP+ i kod aktywacyjny.
-- **Roami:** W e-mailu potwierdzającym – poszukaj "Dane do ręcznej aktywacji" lub "Jeśli nie możesz zeskanować kodu QR".
-- **Holafly:** E-mail zawiera sekcję **"Instalacja ręczna"** z SM-DP+ i kodem aktywacyjnym.
-- **Nomad:** W aplikacji → szczegóły eSIM → opcja "Instalacja ręczna".
+- **Airalo:** W aplikacji dotknij planu eSIM → „Details" → „Manual installation" – pokazuje SM-DP+ i Activation Code.
+- **Roami:** W e-mailu potwierdzającym – poszukaj „Manual activation details" lub „If you cannot scan the QR code."
+- **Holafly:** E-mail zawiera sekcję **„Manual installation"** z SM-DP+ i kodem aktywacyjnym.
+- **Nomad:** W aplikacji → szczegóły eSIM → opcja „Manual install".
 - **Google Fi:** Nie możesz wprowadzić ręcznie – musisz użyć aplikacji Fi.
 
-### Profesjonalna wskazówka: Zrób zrzut ekranu danych ręcznych przed wyjazdem
+### Zrób zrzut ekranu ręcznych szczegółów przed wyjazdem
 
-**Jeśli podróżujesz i możesz nie mieć Wi-Fi, aby ponownie otworzyć e-mail, zrób zrzut ekranu danych ręcznej aktywacji i zapisz je w bibliotece zdjęć telefonu.** Dzięki temu, nawet jeśli nie masz połączenia danych, nadal będziesz mieć dostęp do kodu.
+**Jeśli podróżujesz i możesz nie mieć Wi-Fi, aby ponownie otworzyć e-mail, zrób zrzut ekranu ręcznych szczegółów aktywacji i zapisz go w bibliotece zdjęć telefonu.** W ten sposób, nawet jeśli nie masz połączenia z danymi, nadal możesz uzyskać dostęp do kodu.
 
-### Błąd: "Nieprawidłowy kod aktywacyjny"
+### Błąd nieprawidłowego kodu aktywacyjnego
 
 **Możliwe przyczyny:**
-- Źle wpisałeś kod (te są rozróżniane przez wielkość liter).
+- Wpisałeś kod nieprawidłowo (są wrażliwe na wielkość liter).
 - Kod został już użyty na innym urządzeniu.
-- Kod wygasł (niektóre kody podróżne wygasają 30 dni po zakupie).
-- Wprowadzasz **kod potwierdzający** w polu **kodu aktywacyjnego** (lub odwrotnie).
+- Kod wygasł (niektóre kody travel wygasają 30 dni po zakupie).
+- Wprowadzasz **Kod potwierdzenia** w polu **Kod aktywacyjny** (lub odwrotnie).
 
-**Rozwiązanie:** Sprawdź ponownie e-mail/aplikację pod kątem dokładnych wartości. Jeśli nie możesz tego rozwiązać, skontaktuj się z pomocą dostawcy.
+**Poprawka:** Ponownie sprawdź swój e-mail/aplikację pod kątem dokładnych wartości. Jeśli nie możesz tego rozwiązać, skontaktuj się z pomocą techniczną dostawcy.
 
 
-## eSIM aktywowana, ale brak danych? Skonfiguruj APN na Pixel
+## Konfiguracja APN, gdy eSIM Pixel nie ma danych
 
-**Objaw:** Twoja eSIM pokazuje paski sygnału (pełne połączenie sieciowe), ale nie masz internetu – strony nie ładują się, aplikacje mówią "brak połączenia".
+**Objaw:** Twój eSIM pokazuje paski sygnału (pełne połączenie sieciowe), ale nie masz internetu – strony się nie ładują, aplikacje mówią „brak połączenia".
 
-**Przyczyna:** Profil eSIM został zainstalowany, ale ustawienia Access Point Name (APN) są brakujące lub nieprawidłowe. To częste w przypadku podróżnych eSIM – niektóre automatycznie konfigurują APN, inne wymagają ręcznego wprowadzenia.
+**Główna przyczyna:** Profil eSIM został zainstalowany, ale ustawienia Access Point Name (APN) są brakujące lub nieprawidłowe. Jest to częste w przypadku travel eSIM – niektóre automatycznie konfigurują APN, inne wymagają ręcznego wprowadzenia.
 
-### Jak sprawdzić/edytować APN na Pixel
+### Jak sprawdzić lub edytować APN na Pixel
 
-1. Przejdź do **Ustawienia > Sieć i Internet > Karty SIM**.
-2. Kliknij eSIM, która nie ma danych.
-3. Kliknij **Nazwy punktów dostępu** (jeśli tego nie widzisz, przewiń w dół – to tam jest).
-4. Zobaczysz listę APN. Jeśli lista jest pusta, kliknij przycisk **+** (Dodaj), aby utworzyć nowy.
+1. Przejdź do **Ustawienia > Sieć i internet > SIMy**.
+2. Dotknij eSIM, który nie ma danych.
+3. Dotknij **Access Point Names** (jeśli tego nie widzisz, przewiń w dół – tam jest).
+4. Zobaczysz listę APN. Jeśli lista jest pusta, dotknij przycisku **+** (Dodaj), aby utworzyć jeden.
 5. Wypełnij pole **APN** (i ewentualnie **Nazwa użytkownika/Hasło** – sprawdź dokumentację dostawcy).
-6. Kliknij **Zapisz** (trzy kropki > Zapisz).
+6. Dotknij **Zapisz** (trzy kropki > Zapisz).
 7. Wybierz nowo utworzony APN jako aktywny.
-8. Przełącz tryb samolotowy włącz/wyłącz, aby wymusić ponowną rejestrację sieci.
+8. Przełącz tryb samolotowy wł/wył, aby zmusić sieć do ponownej rejestracji.
 
-### Typowe wartości APN dla podróżnych eSIM na Pixel
+### Typowe wartości APN dla travel eSIM na Pixel
 
 | Dostawca | APN | Nazwa użytkownika | Hasło | Uwagi |
 |----------|-----|----------|----------|-------|
-| **Roami** | `internet` | (puste) | (puste) | Automatycznie konfiguruje się na większości Pixel |
-| **Airalo** | `globaldata` | (puste) | (puste) | Automatycznie konfiguruje się na większości Pixel |
-| **Holafly** | `hola` | (puste) | (puste) | Może wymagać ręcznego wprowadzenia na niektórych Pixel |
+| **Roami** | `internet` | (puste) | (puste) | Automatycznie konfiguruje się na większości Pixeli |
+| **Airalo** | `globaldata` | (puste) | (puste) | Automatycznie konfiguruje się na większości Pixeli |
+| **Holafly** | `hola` | (puste) | (puste) | Może wymagać ręcznego wprowadzenia na niektórych Pixelach |
 | **Nomad** | `nbdata` | (puste) | (puste) | Automatycznie konfiguruje się na Pixel 6+ |
-| **Ubigi** | `ubigi` | (puste) | (puste) | Wymaga ręcznego wprowadzenia na starszych Pixel |
+| **Ubigi** | `ubigi` | (puste) | (puste) | Wymaga ręcznego wprowadzenia na starszych Pixelach |
 | **Google Fi** | `h2g2` | (puste) | (puste) | Automatycznie konfigurowane przez aplikację Fi |
 | **T‑Mobile (US)** | `fast.t-mobile.com` | (puste) | (puste) | Automatycznie konfigurowane |
 | **AT&T (US)** | `nxgen` | (puste) | (puste) | Automatycznie konfigurowane |
 | **Verizon (US)** | `vzwinternet` | (puste) | (puste) | Automatycznie konfigurowane |
 | **EE (UK)** | `everywhere` | (puste) | (puste) | Może wymagać ręcznego wprowadzenia |
-| **Orange (Francja)** | `orange.fr` | (puste) | (puste) | Może wymagać ręcznego wprowadzenia |
+| **Orange (France)** | `orange.fr` | (puste) | (puste) | Może wymagać ręcznego wprowadzenia |
 | **O2 (UK)** | `mobile.o2.co.uk` | `web` | `web` | Wymaga nazwy użytkownika/hasła |
 | **Vodafone (UK)** | `internet` | (puste) | (puste) | Automatycznie konfiguruje się |
 | **Three (UK)** | `three.co.uk` | (puste) | (puste) | Może wymagać ręcznego wprowadzenia |
@@ -469,267 +472,269 @@ Aby przenosić między iPhone'em a Androidem (nie tylko Pixel na Pixel), zobacz 
 ### Co jeśli pole APN jest wyszarzone?
 
 Jeśli pole APN jest wyszarzone i nie możesz go edytować:
-- **Używasz eSIM operatora postpaid** (Verizon, AT&T, T‑Mobile itp.) – blokują ustawienia APN. Nie możesz ich zmienić.
-- **Rozwiązanie:** Skontaktuj się z pomocą swojego operatora – mogą potrzebować zdalnego przesłania zaktualizowanych ustawień APN.
+- **Używasz eSIM abonamentowego operatora** (Verizon, AT&T, T‑Mobile itp.) – blokują ustawienia APN. Nie możesz ich zmienić.
+- **Rozwiązanie:** Skontaktuj się z pomocą techniczną operatora – mogą potrzebować zdalnie wysłać zaktualizowane ustawienia APN.
 
-### Profesjonalna wskazówka: Zrób zrzut ekranu ustawień APN przed wyjazdem
+### Zrób zrzut ekranu ustawień APN przed wyjazdem
 
-**Zrób zrzut ekranu ustawień APN swojego dostawcy przed wyjazdem.** Jeśli wylądujesz i nie będziesz mieć danych, nie będziesz mieć internetu, aby je sprawdzić – ale będziesz mieć zrzut ekranu zapisany w telefonie.
+**Zrób zrzut ekranu ustawień APN dostawcy przed wyjazdem.** Jeśli wylądujesz i nie masz danych, nie będziesz mieć internetu, aby je sprawdzić – ale będziesz mieć zrzut ekranu zapisany na telefonie.
 
 ### Nadal brak danych po konfiguracji APN?
 
-1. Przełącz tryb samolotowy WŁ., poczekaj 5 sekund, WYŁ.
-2. Uruchom ponownie Pixela.
-3. Przejdź do **Ustawienia > Sieć i Internet > Karty SIM** → kliknij eSIM → upewnij się, że **Data Roaming** jest WŁ.
-4. Spróbuj ręcznie wybrać sieć: **Ustawienia > Sieć i Internet > Karty SIM > [eSIM] > Operatorzy sieci** → wyłącz Automatyczny → wybierz sieć ręcznie.
+1. Przełącz tryb samolotowy WŁ, poczekaj 5 sekund, WYŁ.
+2. Uruchom ponownie Pixel.
+3. Przejdź do **Ustawienia > Sieć i internet > SIMy** → dotknij eSIM → upewnij się, że **Roaming danych** jest WŁ.
+4. Spróbuj ręcznie wybrać sieć: **Ustawienia > Sieć i internet > SIMy > [eSIM] > Operatorzy sieci** → wyłącz Automatycznie → wybierz sieć ręcznie.
 
 
-## Rozwiązywanie problemów z aktywacją eSIM – kody błędów i poprawki
+## Kody błędów aktywacji eSIM i poprawki
 
-Nawet na kompatybilnych Pixelach aktywacja może czasami się nie powieść. Oto najczęstsze kody błędów i jak je naprawić.
+Nawet na kompatybilnych Pixelach aktywacja może czasami się nie powieść. Oto najczęstsze kody błędów i jak je naprawić. (Jeśli Twój Pixel zawodzi przed pojawieniem się jakiegokolwiek kodu błędu — brak EID, blokada operatora — zacznij od [przewodnika po błędach sprzętu i zgodności](/faq/esim-activation-errors-troubleshooting-guide/) zamiast tego.)
 
-### Błąd 1: "EID nie znaleziono" lub "Brak EID"
+### EID nie znaleziono lub brak EID
 
-**Kiedy się pojawia:** Wybranie `*#06#` pokazuje tylko numery IMEI, brak EID.
+**Kiedy się pojawia:** Wybieranie `*#06#` pokazuje tylko numery IMEI, brak EID.
 
-**Przyczyna:** Twój Pixel to:
-- Japoński wariant operatorski (SoftBank, au) – funkcja jest trwale wyłączona.
-- Bardzo stary Pixel (1 lub 2) – brak sprzętu.
-- Rzadkie uszkodzenie oprogramowania układowego.
+**Przyczyna:** Twój Pixel jest albo:
+- Japońskim wariantem operatora (SoftBank, au) – funkcja jest trwale wyłączona.
+- Bardzo starym Pixel (1 lub 2) – brak sprzętu.
+- Rzadkim uszkodzeniem firmware.
 
-**Rozwiązanie:** Jeśli to japoński wariant, nie ma rozwiązania – używaj tylko fizycznej SIM. Jeśli uważasz, że Twoje urządzenie powinno mieć tę funkcję, spróbuj resetu do ustawień fabrycznych (najpierw wykonaj kopię zapasową). Nadal brak EID? Skontaktuj się z pomocą Google.
+**Rozwiązanie:** Jeśli to japoński wariant, nie ma rozwiązania – używaj tylko fizycznej SIM. Jeśli uważasz, że Twoje urządzenie powinno mieć tę funkcję, spróbuj resetu fabrycznego (najpierw kopia zapasowa). Nadal brak EID? Skontaktuj się z pomocą Google.
 
-### Błąd 2: "Aktywacja nie powiodła się: Nieprawidłowy kod QR"
+### Aktywacja nie powiodła się – nieprawidłowy kod QR
 
 **Kiedy się pojawia:** Po zeskanowaniu kodu QR telefon go odrzuca.
 
 **Możliwe przyczyny i poprawki:**
-- **Kod QR jest uszkodzony lub niskiej jakości:** Spróbuj przybliżyć lub poproś o nowy kod od operatora.
-- **Kod QR wygasł:** Wiele planów podróżnych ma datę ważności (np. 30 dni od zakupu). Sprawdź e-mail – możesz potrzebować nowego planu.
-- **Kod QR jest dla innego typu urządzenia:** Niektóre kody QR są specyficzne dla urządzenia. Upewnij się, że jest dla "Android eSIM" lub "Ogólna eSIM".
-- **Błąd ręcznego wprowadzenia:** Jeśli wprowadzasz kod ręcznie, sprawdź dwukrotnie kod aktywacyjny i kod potwierdzający (często dwa oddzielne pola).
+- **Kod QR jest uszkodzony lub niskiej jakości:** Spróbuj powiększyć lub poproś operatora o nowy kod QR.
+- **Kod QR wygasł:** Wiele planów travel ma datę ważności (np. 30 dni od zakupu). Sprawdź e-mail – może być potrzebny nowy plan.
+- **Kod QR jest dla innego typu urządzenia:** Niektóre kody QR są specyficzne dla urządzenia. Upewnij się, że jest dla „Android eSIM" lub „Generic eSIM".
+- **Błąd ręcznego wprowadzenia:** Jeśli wprowadzasz kod ręcznie, sprawdź dokładnie kod aktywacyjny i kod potwierdzenia (często dwa oddzielne pola).
 
-### Błąd 3: "Profil nieobsługiwany przez to urządzenie"
+### Profil nieobsługiwany przez to urządzenie
 
-**Kiedy się pojawia:** Profil pobiera się, ale nie udaje się go zainstalować.
+**Kiedy się pojawia:** Profil pobiera się, ale potem nie można go zainstalować.
 
-**Przyczyna:** Profil operatora wymaga funkcji, której Twój Pixel nie ma (np. niektórych pasm 5G lub nowszej wersji LPA).
-
-**Rozwiązanie:** 
-- Zaktualizuj Pixela do najnowszej wersji Androida.
-- Skontaktuj się z dostawcą i zapytaj, czy obsługuje Twój konkretny model Pixela (np. "Czy to działa z Pixel 6?").
-- Wypróbuj innego dostawcę.
-
-### Błąd 4: "Zablokowany przez operatora – nie można aktywować eSIM"
-
-**Kiedy się pojawia:** Próbujesz dodać profil spoza operatora (np. podróżną eSIM), a telefon mówi "Urządzenie jest zablokowane przez SIM" lub "Blokada operatora uniemożliwia aktywację eSIM."
-
-**Przyczyna:** Twój Pixel jest zablokowany przez operatora (np. AT&T, T‑Mobile lub japońskiego operatora), a pierwotny operator ogranicza użycie dla niezatwierdzonych profili.
+**Przyczyna:** Profil operatora wymaga funkcji, której Twój Pixel nie ma (np. niektóre pasma 5G lub nowsza wersja LPA).
 
 **Rozwiązanie:**
-- **W przypadku blokad amerykańskich operatorów:** Gdy urządzenie jest spłacone, poproś operatora o trwałe odblokowanie SIM. Po odblokowaniu każdy dostawca powinien działać.
-- **W przypadku blokad japońskich operatorów:** Jak wspomniano wcześniej, funkcja jest trwale wyłączona na poziomie oprogramowania; odblokowanie SIM nie pomaga.
-- **Dla innych regionów:** Skontaktuj się z operatorem, aby zapytać, czy zezwala na funkcję na zablokowanych urządzeniach.
+- Zaktualizuj Pixel do najnowszej wersji Android.
+- Skontaktuj się z dostawcą i zapytaj, czy obsługuje Twój konkretny model Pixel (np. „Czy to działa z Pixel 6?").
+- Wypróbuj innego dostawcę.
 
-### Błąd 5: "Nie można pobrać profilu – błąd sieci"
+### Blokada operatora – nie można aktywować eSIM
 
-**Kiedy się pojawia:** Pobieranie zaczyna się, ale zawiesza lub kończy się niepowodzeniem.
+**Kiedy się pojawia:** Próbujesz dodać profil niebędący operatorem (np. travel eSIM), a telefon mówi „Device is SIM locked" lub „Carrier lock prevents eSIM activation."
+
+**Przyczyna:** Twój Pixel jest zablokowany przez operatora (np. na AT&T, T‑Mobile lub japońskiego operatora), a oryginalny operator ogranicza użycie do niezatwierdzonych profili.
+
+**Rozwiązanie:**
+- **Dla blokad operatorów amerykańskich:** Po spłacie urządzenia poproś o trwałe odblokowanie SIM od operatora. Po odblokowaniu każdy dostawca powinien działać.
+- **Dla blokad operatorów japońskich:** Jak wspomniano wcześniej, funkcja jest trwale wyłączona na poziomie firmware; odblokowanie SIM nie pomaga.
+- **Dla innych regionów:** Skontaktuj się z operatorem, aby zapytać, czy zezwalają na tę funkcję na zablokowanych urządzeniach.
+
+### Nie można pobrać profilu – błąd sieci
+
+**Kiedy się pojawia:** Pobieranie się zaczyna, ale zawiesza się lub kończy niepowodzeniem.
 
 **Przyczyna:** Problemy z połączeniem Wi-Fi lub problemy z serwerem operatora.
 
 **Rozwiązania:**
-- Przełącz na inną sieć Wi-Fi lub użyj mobilnego hotspotu.
+- Przełącz się na inną sieć Wi-Fi lub użyj hotspotu mobilnego.
 - Spróbuj ponownie za 5-10 minut – serwery operatora mogą być tymczasowo przeciążone.
-- Wyłącz VPN lub bloker reklam, które mogą przeszkadzać.
-- Tymczasowo ustaw DNS na 8.8.8.8 (Google DNS).
+- Wyłącz wszelkie VPN lub blokery reklam, które mogłyby przeszkadzać.
+- Ustaw ręcznie DNS na 8.8.8.8 (Google DNS) tymczasowo.
 
-### Błąd 6: "Profil eSIM już użyty"
+### Profil eSIM już użyty
 
-**Kiedy się pojawia:** Skanujesz kod QR, który był wcześniej zainstalowany na innym urządzeniu.
+**Kiedy się pojawia:** Skanujesz kod QR, który został wcześniej zainstalowany na innym urządzeniu.
 
-**Przyczyna:** Większość profili jest jednorazowa. Po zainstalowaniu na urządzeniu nie mogą być ponownie instalowane gdzie indziej (ze względów bezpieczeństwa).
+**Przyczyna:** Większość profili jest jednorazowa. Po zainstalowaniu na urządzeniu nie można ich ponownie zainstalować gdzie indziej (ze względów bezpieczeństwa).
 
-**Rozwiązanie:** 
-- Jeśli nadal masz oryginalne urządzenie, możesz usunąć profil stamtąd (Ustawienia > Sieć i Internet > Karty SIM > Usuń SIM) i czasami to zwalnia go do ponownej instalacji – ale nie zawsze.
+**Rozwiązanie:**
+- Jeśli nadal masz oryginalne urządzenie, możesz usunąć profil z niego (Ustawienia > Sieć i internet > SIMy > Wymaż SIM) i czasami to uwalnia go do ponownej instalacji – ale nie zawsze.
 - W przeciwnym razie kup nowy plan.
 
-### Błąd 7: "Urządzenie nie spełnia wymagań eSIM"
+### Urządzenie nie spełnia wymagań eSIM
 
 **Kiedy się pojawia:** Aplikacja konkretnego operatora (np. Visible, Google Fi) odmawia aktywacji.
 
-**Przyczyna:** Aplikacja operatora sprawdza określone certyfikaty urządzenia lub poziomy poprawek zabezpieczeń Androida.
+**Przyczyna:** Aplikacja operatora sprawdza pewne certyfikaty urządzenia lub poziomy poprawek bezpieczeństwa Android.
 
 **Rozwiązania:**
-- Zaktualizuj Pixela do najnowszej poprawki zabezpieczeń (Ustawienia > System > Aktualizacja systemu).
-- Wyczyść pamięć podręczną i dane aplikacji operatora (Ustawienia > Aplikacje > [aplikacja operatora] > Pamięć > Wyczyść pamięć podręczną/Wyczyść dane).
+- Zaktualizuj Pixel do najnowszej poprawki bezpieczeństwa (Ustawienia > System > Aktualizacja systemu).
+- Wyczyść pamięć podręczną i dane aplikacji operatora (Ustawienia > Aplikacje > [Aplikacja operatora] > Pamięć i pamięć podręczna > Wyczyść pamięć podręczną/Wyczyść dane).
 - Spróbuj aktywować przez kod QR zamiast aplikacji (jeśli operator oferuje taką opcję).
 
-### Ogólne kroki rozwiązywania problemów (wypróbuj je przed kontaktem z pomocą)
+### Ogólne kroki rozwiązywania problemów
 
-1. **Uruchom ponownie Pixela** – proste, ale często działa.
-2. **Sprawdź aktualizacje Androida** – Ustawienia > System > Aktualizacja systemu.
-3. **Zresetuj ustawienia sieciowe** – Ustawienia > System > Opcje resetowania > Resetuj Wi-Fi, mobilne i Bluetooth (to nie usuwa profili eSIM).
-4. **Usuń inne profile eSIM** – Jeśli masz wiele zapisanych, usuń nieużywane, aby zwolnić miejsce (niektóre Pixele mają limit 5–10 zapisanych profili).
-5. **Reset do ustawień fabrycznych** – Ostateczność. Najpierw wykonaj kopię zapasową danych. Po resecie spróbuj aktywować ponownie przed przywróceniem z kopii zapasowej.
+1. **Uruchom ponownie Pixel** – proste, ale często działa.
+2. **Sprawdź aktualizacje Android** – Ustawienia > System > Aktualizacja systemu.
+3. **Zresetuj ustawienia sieci** – Ustawienia > System > Opcje resetowania > Zresetuj Wi-Fi, sieć komórkową i Bluetooth (to nie usuwa profili eSIM).
+4. **Usuń inne profile eSIM** – Jeśli masz wiele przechowywanych, usuń nieużywane, aby zwolnić miejsce (niektóre Pixele mają limit 5–10 przechowywanych profili).
+5. **Reset fabryczny** – Ostatnia deska ratunku. Najpierw zrób kopię zapasową danych. Po resecie spróbuj aktywować ponownie przed przywróceniem z kopii zapasowej.
 
-Aby uzyskać bardziej zaawansowane rozwiązywanie problemów z eSIM, zobacz nasz **[Szczegółowy przewodnik rozwiązywania problemów z eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** .
+Aby uzyskać bardziej zaawansowane rozwiązywanie problemów z eSIM, zobacz nasz **[Szczegółowy przewodnik rozwiązywania problemów z eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 
-## Szczegółowe zestawienie według generacji Pixela
+## Szczegółowy podział według generacji Pixel
 
-### Pixel 2 / 2 XL (Brak eSIM)
+### Pixel 2 i 2 XL – Brak eSIM
 
-Seria Pixel 2 całkowicie nie ma sprzętu eSIM. Żadna aktualizacja oprogramowania ani hack nie może go włączyć. Musisz używać fizycznej SIM.
+Seria Pixel 2 całkowicie nie ma sprzętu eSIM. Żadna aktualizacja oprogramowania ani hack nie może tego włączyć. Musisz używać fizycznej SIM.
 
-- Niezalecany na podróż.
-- Jeśli widzisz taniego Pixela 2 online, nie można go używać z żadnym dostawcą.
+- Niezalecane do podróży.
+- Jeśli widzisz tani Pixel 2 online, nie można go używać z żadnym dostawcą.
 
 **Czas pierwszego połączenia:** Nie dotyczy – brak sprzętu.
 
-### Pixel 3 / 3 XL / 3a / 3a XL (Ograniczone wsparcie)
+### Seria Pixel 3 – Ograniczona obsługa
 
-To były pierwsze telefony Google z obsługą eSIM. **Większość międzynarodowych, amerykańskich i europejskich wariantów działa doskonale**, ale jest jeden główny wyjątek:
+Były to pierwsze telefony Google obsługujące eSIM. **Większość wariantów międzynarodowych, amerykańskich i europejskich działa doskonale**, ale jest jeden ważny wyjątek:
 
-- **Modele japońskie** (SoftBank, au) mają funkcję wyłączoną na poziomie oprogramowania przez operatora.
-- Jak sprawdzić: Wybierz `*#06#`. Jeśli zobaczysz **EID** (32-cyfrowy numer), funkcja jest dostępna. Jeśli pojawią się tylko numery IMEI, jest zablokowana.
+- **Modele japońskie** (SoftBank, au) mają funkcję wyłączoną na poziomie firmware przez operatora.
+- Jak sprawdzić: Wybierz `*#06#`. Jeśli widzisz **EID** (32-cyfrowy numer), funkcja jest dostępna. Jeśli pojawiają się tylko numery IMEI, jest zablokowana.
 
-Jeśli Twój Pixel 3 obsługuje eSIM, działa z wszystkimi głównymi dostawcami podróżnymi. Pixel 3 nie obsługuje 5G (tylko 4G/LTE).
+Jeśli Twój Pixel 3 obsługuje eSIM, działa ze wszystkimi głównymi dostawcami travel. Zauważ, że Pixel 3 nie obsługuje 5G (tylko 4G/LTE).
 
 **Czas pierwszego połączenia:** 3-5 minut na obsługiwanych modelach.
 
-### Pixel 4 / 4 XL / 4a / 4a 5G (Ograniczone wsparcie)
+### Seria Pixel 4 – Ograniczona obsługa
 
-Sytuacja taka sama jak Pixel 3: **wersje międzynarodowe, amerykańskie i europejskie obsługują eSIM; wersje japońskich operatorów są zablokowane.**
+Ta sama sytuacja co Pixel 3: **wersje międzynarodowe, amerykańskie i europejskie obsługują eSIM; japońskie wersje operatorów są zablokowane.**
 
-- Pixel 4a to popularny wybór budżetowy dla podróżnych i obsługuje funkcję.
+- Pixel 4a to popularny wybór budżetowy dla podróżnych i obsługuje tę funkcję.
 - Pixel 4a 5G jest **pixel 4a 5g esim compatible** i dodaje obsługę 5G (choć funkcja jest identyczna jak w 4a).
-- Weryfikacja: Wybierz `*#06#` – EID oznacza, że jest gotowy.
+- Weryfikacja: Wybierz `*#06#` – EID oznacza, że jesteś gotowy.
 
 **Czas pierwszego połączenia:** 2-4 minuty na obsługiwanych modelach.
 
-### Pixel 5 / 5a 5G (Ograniczone wsparcie)
+### Seria Pixel 5 – Ograniczona obsługa
 
-Pixel 5 i 5a podążają tym samym schematem co Pixel 4: **wersje międzynarodowe działają, japońskie zablokowane.**
+Pixel 5 i 5a podążają tym samym wzorcem co Pixel 4: **wersje międzynarodowe działają, japońskie wersje zablokowane.**
 
 - Pixel 5 jest często wymieniany wśród **us mobile eSIM compatible devices** i **google fi eSIM compatible phones**.
-- Jeśli masz nie-japońskiego Pixela 5, to bardzo niezawodny telefon podróżny z dobrą żywotnością baterii.
+- Jeśli masz nie-japoński Pixel 5, to bardzo niezawodny telefon podróżny z dobrą żywotnością baterii.
 
 **Czas pierwszego połączenia:** 2-4 minuty na obsługiwanych modelach.
 
-### Pixel 6 / 6 Pro / 6a (Pełne wsparcie, bez ograniczeń regionalnych)
+### Seria Pixel 6 – Pełna obsługa eSIM
 
-**Począwszy od Pixela 6, Google usunął wszystkie regionalne ograniczenia eSIM.** Każdy telefon z serii Pixel 6 (w tym 6a) sprzedany gdziekolwiek na świecie obsługuje funkcję – niezależnie od operatora.
+**Począwszy od Pixel 6, Google usunął wszystkie regionalne ograniczenia eSIM.** Każdy telefon z serii Pixel 6 (w tym 6a) sprzedawany gdziekolwiek na świecie obsługuje tę funkcję – niezależnie od operatora.
 
-Dlatego Pixel 6 stał się ulubieńcem podróżnych. Poniżej szczegółowa analiza możliwości Pixela 6.
+To dlatego Pixel 6 stał się ulubieńcem wśród podróżnych. Poniżej szczegółowe omówienie możliwości Pixel 6.
 
-#### Tabela kompatybilności rodziny Pixel 6
+#### Tabela zgodności rodziny Pixel 6
 
 | Model | Obsługa eSIM | Dual SIM (fizyczna + eSIM) | Limit przechowywania eSIM | Czas pierwszego połączenia | Uwagi |
 |-------|--------------|----------------------------|--------------------|-----------------------|-------|
-| Pixel 6 | ✅ Tak | Tak (jedna nano-SIM + jedna eSIM) | Do 8 profili | 2-3 min | Działa globalnie |
+| Pixel 6 | ✅ Tak | Tak (jedna nano-SIM + jeden eSIM) | Do 8 profili | 2-3 min | Działa globalnie |
 | Pixel 6 Pro | ✅ Tak | Tak | Do 8 profili | 2-3 min | Działa globalnie |
 | Pixel 6a | ✅ Tak | Tak | Do 8 profili | 2-3 min | Działa globalnie |
 
-Wszystkie trzy modele mogą przechowywać **co najmniej 5-8 profili eSIM**, ale tylko **jedna eSIM może być aktywna na raz** obok jednej fizycznej SIM (DSDS – Dual SIM Dual Standby).
+Wszystkie trzy modele mogą przechowywać **co najmniej 5-8 profili eSIM**, ale tylko **jeden eSIM może być aktywny naraz** obok jednej fizycznej SIM (DSDS – Dual SIM Dual Standby).
 
-#### Podwójna SIM w Pixel 6 wyjaśniona
+#### Wyjaśnienie Dual SIM na Pixel 6
 
 Seria Pixel 6 obsługuje **DSDS (Dual SIM Dual Standby)**, co oznacza:
 
-- Możesz włożyć jedną fizyczną nano‑SIM (np. swojego operatora domowego) i aktywować jeden profil eSIM jednocześnie.
-- Oba numery telefonów pozostają aktywne – możesz odbierać połączenia i SMS-y na obu liniach.
-- Wybierasz, której SIM używać do danych mobilnych, domyślnych połączeń i domyślnych SMS-ów.
+- Możesz włożyć jedną fizyczną nano-SIM (np. domowego operatora) i aktywować jeden profil eSIM jednocześnie.
+- Oba numery telefonu pozostają aktywne – możesz odbierać połączenia i SMS-y na obu liniach.
+- Wybierasz, której SIM użyć do danych mobilnych, domyślnych połączeń i domyślnych SMS-ów.
 
-**Typowe zastosowania:**
-- **Podróże międzynarodowe:** Zachowaj domową fizyczną SIM do połączeń/SMS, dodaj lokalną eSIM do danych po przystępnej cenie.
-- **Podział praca/prywatne:** Fizyczna SIM dla numeru prywatnego, eSIM dla numeru służbowego.
-- **Testowanie nowych operatorów:** Wypróbuj darmową próbę bez usuwania głównej SIM.
+**Typowe przypadki użycia:**
+- **Podróże międzynarodowe:** Zachowaj domową fizyczną SIM do połączeń/SMS-ów, dodaj lokalny eSIM danych dla niedrogiego internetu.
+- **Podział służbowy/personalny:** Fizyczna SIM dla numeru osobistego, eSIM dla numeru służbowego.
+- **Testowanie nowych operatorów:** Wypróbuj darmowy okres próbny bez usuwania głównej SIM.
 
-#### Jak aktywować eSIM na Pixel 6 (uniwersalne kroki – działa również dla Pixel 7/8/9/10)
+#### Jak aktywować eSIM na Pixel 6 (Uniwersalne kroki – działa również dla Pixel 7/8/9/10)
 
-Aktywacja zajmuje mniej niż 2 minuty. **Zrób to przed lotem** – potrzebujesz tylko Wi-Fi.
+Aktywacja zajmuje mniej niż 2 minuty. **Zrób to przed lotem** – potrzebujesz tylko Wi-Fi. Poniższe kroki to ścieżka specyficzna dla Pixel; [ogólny przewodnik po aktywacji](/faq/how-to-activate-an-esim/) obejmuje QR, wprowadzanie ręczne i instalacje przez aplikację operatora w pełni.
 
-1. **Kup plan eSIM** – na podróż wybierz zaufanego dostawcę.
-2. Przejdź do **Ustawienia > Sieć i Internet > Sieć komórkowa > Dodaj operatora**.
+1. **Kup plan eSIM** – Do podróży wybierz niezawodnego dostawcę.
+2. Przejdź do **Ustawienia > Sieć i internet > Sieć komórkowa > Dodaj operatora**.
 3. **Zeskanuj kod QR** wysłany na Twój e-mail (lub wprowadź kod aktywacyjny ręcznie).
-4. Postępuj zgodnie z instrukcjami, aby pobrać profil.
-5. Wybierz domyślną SIM dla połączeń, SMS-ów i danych.
-6. **Włącz Data Roaming** dla linii eSIM podczas podróży.
+4. Postępuj zgodnie z monitami, aby pobrać profil.
+5. Wybierz domyślną SIM do połączeń, SMS-ów i danych.
+6. **Włącz roaming danych** dla linii eSIM podczas podróży.
 
 > 💡 Dla użytkowników Google Fi: Pixel 6 to jeden z najlepszych telefonów dla Google Fi – po prostu zainstaluj aplikację Fi i aktywuj.
 
 #### Zaawansowane zarządzanie eSIM na Pixel 6
 
-- **Pobierz wiele eSIM:** Przechowuj kilka profili (np. jeden dla USA, jeden dla Europy, jeden dla Japonii). Przejdź do **Sieć i Internet → Sieć komórkowa → +**, aby dodać więcej.
-- **Przełączaj między eSIM:** Przejdź do **Sieć komórkowa → Wybierz, której SIM używać do danych** – przełączaj między fizyczną SIM a dowolnym pobranym profilem.
-- **Usuń profil eSIM:** Przejdź do ustawień eSIM → **Usuń SIM** (usuwa profil; możesz ponownie zainstalować tym samym kodem QR, jeśli został zapisany).
-- **Oznacz eSIM etykietami:** Po aktywacji kliknij ikonę koła zębatego obok eSIM i zmień jej nazwę (np. "Japonia Podróż"), aby łatwo ją zidentyfikować.
+- **Pobierz wiele eSIM:** Przechowuj kilka profili (np. jeden dla USA, jeden dla Europy, jeden dla Japonii). Przejdź do **Sieć i internet → Sieć komórkowa → +**, aby dodać więcej.
+- **Przełączaj między eSIM:** Przejdź do **Sieć komórkowa → Wybierz, której SIM użyć do danych** – przełączaj między fizyczną SIM a dowolnym pobranym profilem.
+- **Usuń profil eSIM:** Przejdź do ustawień eSIM → **Wymaż SIM** (usuwa profil; możesz go ponownie zainstalować z tym samym kodem QR, jeśli został zapisany).
+- **Oznacz swoje eSIM:** Po aktywacji dotknij ikony zębatki obok eSIM i zmień nazwę (np. „Japan Travel") dla łatwej identyfikacji.
 
 
-### Pixel 7 / 7 Pro / 7a (Pełne wsparcie)
+### Seria Pixel 7 – Pełna obsługa eSIM
 
-Seria Pixel 7 kontynuuje politykę Pixela 6: **wszystkie modele, wszystkie regiony obsługują eSIM bez żadnych ograniczeń.**
+Seria Pixel 7 kontynuuje politykę Pixel 6: **wszystkie modele, wszystkie regiony obsługują eSIM bez żadnych ograniczeń.**
 
-- Każdy Pixel 7, 7 Pro lub 7a obsługuje funkcję.
-- Pixel 7 obsługuje również **podwójną eSIM** (dwa aktywne profile jednocześnie) jak opisano w sekcji podwójnej eSIM powyżej.
+- Każdy Pixel 7, 7 Pro lub 7a obsługuje tę funkcję.
+- Pixel 7 obsługuje również **podwójny eSIM** (dwa aktywne profile jednocześnie), jak opisano w sekcji podwójnego eSIM powyżej.
 
 **Czas pierwszego połączenia:** 1-3 minuty.
 
-### Pixel 8 / 8 Pro / 8a (Pełne wsparcie)
+### Seria Pixel 8 – Pełna obsługa eSIM
 
-Tak samo jak Pixel 7: **globalne, nieograniczone wsparcie.**
+To samo co Pixel 7: **globalna, nieograniczona obsługa.**
 
-- **pixel 8 eSIM compatible** – tak, w tym przystępny cenowo 8a.
-- Seria Pixel 8 ulepsza interfejs przełączania w "Sieć i Internet", ułatwiając zarządzanie wieloma profilami.
-
-**Czas pierwszego połączenia:** 1-2 minuty.
-
-### Seria Pixel 9 (Pełne wsparcie)
-
-Pixel 9, 9 Pro, 9 Pro XL, 9 Pro Fold i 9a obsługują funkcję. Google oficjalnie ogłosił przy premierze, że "wszystkie telefony z serii Pixel 9 obsługują eSIM z każdym operatorem na świecie."
-
-- Pixel 9 Pro Fold (składany) ma taką samą funkcjonalność jak telefony płaskie.
+- **pixel 8 eSIM compatible** – tak, w tym budżetowy 8a.
+- Seria Pixel 8 ulepsza interfejs przełączania w „Sieć i internet", ułatwiając zarządzanie wieloma profilami.
 
 **Czas pierwszego połączenia:** 1-2 minuty.
 
-### Seria Pixel 10 (Pełne wsparcie)
+### Seria Pixel 9 – Pełna obsługa eSIM
 
-Jako najnowsza generacja, Pixel 10, 10 Pro, 10 Pro XL i 10 Pro Fold naturalnie obsługują funkcję.
+Pixel 9, 9 Pro, 9 Pro XL, 9 Pro Fold i 9a wszystkie obsługują tę funkcję. Google oficjalnie stwierdziło przy premierze, że „wszystkie telefony z serii Pixel 9 obsługują eSIM u każdego operatora na świecie."
+
+- Pixel 9 Pro Fold (składany) ma tę samą funkcjonalność co telefony płaskie.
+
+**Czas pierwszego połączenia:** 1-2 minuty.
+
+### Seria Pixel 10 – Pełna obsługa eSIM
+
+Jako najnowsza generacja, Pixel 10, 10 Pro, 10 Pro XL i 10 Pro Fold naturalnie obsługują tę funkcję.
 
 **Czas pierwszego połączenia:** 1-2 minuty.
 
 
-## Jak zweryfikować eSIM na dowolnym Pixelu (uniwersalna metoda)
+## Jak zweryfikować eSIM na dowolnym Pixel
 
-Niezależnie od tego, który Pixel masz (3/4/5/6/7/8/9/10), użyj tej prostej metody:
+Niezależnie od tego, którego Pixel masz (3/4/5/6/7/8/9/10), użyj tej prostej metody:
 
-1. Otwórz **wybieracz numeru**.
-2. Wybierz `*#06#` i naciśnij przycisk połączenia.
+1. Otwórz **dialer telefonu**.
+2. Wybierz `*#06#` i naciśnij połącz.
 3. Poszukaj **32-cyfrowego EID (Embedded Identity Document)**. Jeśli jest obecny, Twój telefon obsługuje eSIM.
-4. Jeśli widzisz tylko numery IMEI (IMEI1, IMEI2) i brak EID, funkcja jest wyłączona – zazwyczaj w japońskich wersjach operatorskich.
+4. Jeśli widzisz tylko numery IMEI (IMEI1, IMEI2) i brak EID, funkcja jest wyłączona – zazwyczaj na japońskich wersjach operatorów.
 
-Alternatywnie sprawdź przez Ustawienia: **Ustawienia > Sieć i Internet > Sieć komórkowa** – poszukaj **"Pobierz SIM zamiast?"** lub **"Dodaj eSIM"**.
+Alternatywnie sprawdź przez Ustawienia: **Ustawienia > Sieć i internet > Sieć komórkowa** – poszukaj **„Pobrać SIM zamiast tego?"** lub **„Dodaj eSIM"**.
+
+Ta sama sztuczka z wybieraniem `*#06#` działa również na każdym iPhonie — [centrum zgodności iPhone](/faq/iphone-11-esim-compatible/) ma pełną odpowiedź model po modelu.
 
 
-## Kompatybilność eSIM z operatorami – którzy dostawcy działają z Twoim Pixelem?
+## Którzy operatorzy współpracują z Pixel eSIM?
 
-Poniższa tabela pokazuje, którzy dostawcy działają na których generacjach Pixela:
+Poniższa tabela pokazuje, którzy dostawcy działają na których generacjach Pixel:
 
-| Dostawca | Działa na Pixel 3/4/5 (nie-JP) | Działa na Pixel 6+ | Uwagi specjalne |
+| Dostawca | Działa na Pixel 3/4/5 (nie-JP) | Działa na Pixel 6+ | Specjalne uwagi |
 |----------|-------------------------------|-------------------|---------------|
-| **Airalo** | ✅ Tak | ✅ Tak | Najpopularniejsza opcja podróżna |
+| **Airalo** | ✅ Tak | ✅ Tak | Najpopularniejsza opcja travel |
 | **Holafly** | ✅ Tak | ✅ Tak | Plany z nielimitowanymi danymi |
-| **Nomad** | ✅ Tak | ✅ Tak | Konkurencyjne ceny w Azji-Pacyfiku |
+| **Nomad** | ✅ Tak | ✅ Tak | Konkurencyjne ceny w Azji i Pacyfiku |
 | **Visible** | ⚠️ Tylko Pixel 5+ | ✅ Tak | Plan nielimitowany tylko w USA |
 | **Google Fi** | ✅ Tak | ✅ Tak | Natywna integracja; zobacz [Google Fi compatible phones](https://fi.google.com/about/compatible-phones) |
-| **US Mobile** | ✅ Pixel 4+ | ✅ Tak | Plany konfigurowalne |
+| **US Mobile** | ✅ Pixel 4+ | ✅ Tak | Konfigurowalne plany |
 | **T‑Mobile (US)** | ✅ Pixel 4+ | ✅ Tak | Prepaid przez aplikację |
 | **Verizon** | ⚠️ Tylko Pixel 5+ | ✅ Tak | Postpaid wymaga obsługi klienta |
-| **Jio (Indie)** | ❌ Nie | ✅ Tak | Wymaga indyjskiego konta postpaid |
+| **Jio (India)** | ❌ Nie | ✅ Tak | Wymaga indyjskiego konta postpaid |
 
-> **Dla podróżujących do Chin:** Chińscy lokalni operatorzy nie oferują eSIM turystom. Musisz korzystać z dostawców międzynarodowych. Pixel 6 i nowsze działają niezawodnie z tymi planami.
+> **Dla podróżnych do Chin:** Chińscy lokalni operatorzy nie oferują eSIM turystom. Musisz użyć międzynarodowych dostawców. Pixel 6 i nowsze działają niezawodnie z tymi planami.
 
-**Nie masz Pixela?** Dla innych marek z Androidem — OnePlus, Xiaomi, Motorola, Sony i inne — zobacz nasz [przewodnik po eSIM na Androidzie dla innych marek](/faq/android-esim-other-brands-deep-guide/).
+**Nie Pixel?** Dla innych marek Android — OnePlus, Xiaomi, Motorola, Sony i inne — zobacz nasz [przewodnik po eSIM dla innych marek Android](/faq/android-esim-other-brands-deep-guide/).
 
 
 ## Często zadawane pytania
@@ -738,100 +743,102 @@ Poniższa tabela pokazuje, którzy dostawcy działają na których generacjach P
 Nie. Seria Pixel 2 nie ma niezbędnego sprzętu.
 
 **Czy Pixel 3 obsługuje eSIM?**
-Tak, ale tylko na wersjach nie-japońskich. **Pixel 3 eSIM compatible** urządzenia (USA, międzynarodowe) działają. Japońskie wersje SoftBank/au są zablokowane.
+Tak, ale tylko na wersjach nie-japońskich. Urządzenia **Pixel 3 eSIM compatible** (USA, międzynarodowe) działają. Japońskie wersje SoftBank/au są zablokowane.
 
 **Czy Pixel 4a obsługuje eSIM?**
 Tak (wersje nie-japońskie). Wybierz `*#06#`, aby potwierdzić EID.
 
 **Czy Pixel 4a 5G obsługuje eSIM?**
-Tak – tak samo jak Pixel 4a. Status **pixel 4a 5g esim compatible** jest potwierdzony na modelach nie-japońskich. Sprawdź EID przez `*#06#`.
+Tak – to samo co Pixel 4a. Status **pixel 4a 5g esim compatible** jest potwierdzony na modelach nie-japońskich. Sprawdź EID przez `*#06#`.
 
 **Czy Pixel 5 obsługuje eSIM?**
 Tak (wersje nie-japońskie). Status **pixel 5 eSIM compatible** czyni go popularnym wyborem. Jest również często wymieniany wśród **us mobile eSIM compatible devices** i **google fi eSIM compatible phones**.
 
-**Pixel 5 vs Pixel 6a na podróż z eSIM – który wybrać?**
+**Pixel 5 vs Pixel 6a do podróży z eSIM – który powinienem wybrać?**
 | Czynnik | Pixel 5 | Pixel 6a |
 |--------|---------|----------|
 | Obsługa eSIM | ✅ (tylko nie-JP) | ✅ (wszystkie modele) |
 | 5G | ❌ Nie | ✅ Tak |
 | Żywotność baterii | Dobra | Lepsza |
-| Wsparcie aktualizacji | Zakończone (październik 2024) | Do lipca 2027 |
-| Cena używana | ~80-100 $ | ~120-150 $ |
+| Wsparcie aktualizacji | Zakończone (paź 2024) | Do lipca 2027 |
+| Cena używany | ~$80-100 | ~$120-150 |
 | Czas pierwszego połączenia | 2-4 min | 2-3 min |
-| **Werdykt** | Najlepszy poniżej 100 $ | Najlepsza ogólna wartość |
+| **Werdykt** | Najlepszy poniżej $100 | Najlepsza ogólna wartość |
 
 **Czy Pixel 6 obsługuje eSIM?**
-Tak – pełne wsparcie, bez ograniczeń regionalnych. **Pixel 6 eSIM support** jest w 100% potwierdzony. Pixel 6a i 6 Pro są takie same.
+Tak – pełna obsługa, bez ograniczeń regionalnych. **Pixel 6 eSIM support** jest w 100% potwierdzone. Pixel 6a i 6 Pro to samo.
 
 **Czy Pixel 7 / 8 / 9 / 10 obsługuje eSIM?**
 Tak, wszystkie. **Pixel 7 eSIM compatible**, **pixel 8 eSIM compatible**, Pixel 9 i Pixel 10 nie mają blokad regionalnych.
 
 **Czy mogę używać dwóch eSIM jednocześnie na Pixel?**
-- **Pixel 6 i starsze:** Nie. Możesz przechowywać wiele profili, ale aktywować tylko jeden na raz (obok jednej fizycznej SIM).
-- **Pixel 7 i nowsze:** Tak, możesz włączyć **podwójną eSIM** (dwa aktywne profile jednocześnie), wyłączając gniazdo fizycznej SIM. Zobacz sekcję Podwójna eSIM po szczegóły.
+- **Pixel 6 i starsze:** Nie. Możesz przechowywać wiele profili, ale aktywować tylko jeden naraz (obok jednej fizycznej SIM).
+- **Pixel 7 i nowsze:** Tak, możesz włączyć **podwójny eSIM** (dwa aktywne profile jednocześnie), wyłączając slot fizycznej SIM. Zobacz sekcję podwójnego eSIM, aby poznać szczegóły.
 
 **Czy mogę używać fizycznej SIM i eSIM jednocześnie?**
-Tak. Wszystkie modele Pixel 3 i nowsze obsługują DSDS (Dual SIM Dual Standby), pozwalając na jednoczesną aktywność jednej fizycznej SIM i jednej eSIM.
+Tak. Wszystkie modele Pixel 3 i nowsze obsługują DSDS (Dual SIM Dual Standby), pozwalając na jednoczesną aktywność jednej fizycznej SIM i jednego eSIM.
 
 **Czy eSIM na Pixel obsługuje 5G?**
 Tak – Pixel 6 i nowsze obsługują 5G na eSIM. Pixel 5 i starsze są tylko 4G/LTE.
 
-**Dlaczego nie mogę przenieść mojej eSIM ze starego Pixela na nowy?**
-Niektórzy operatorzy wymagają zwolnienia profilu ze starego urządzenia przez swoją aplikację przed aktywacją na nowym. Inni pozwalają na ponowne pobranie przy użyciu oryginalnego kodu QR. Zawsze sprawdzaj politykę przenoszenia swojego dostawcy (zobacz sekcję Przenoszenie eSIM powyżej).
+**Dlaczego nie mogę przenieść eSIM ze starego Pixel na nowy?**
+Niektórzy operatorzy wymagają zwolnienia profilu ze starego urządzenia przez ich aplikację przed aktywacją na nowym. Inni pozwalają na ponowne pobranie przy użyciu oryginalnego kodu QR. Zawsze sprawdzaj politykę przenoszenia swojego dostawcy (zobacz sekcję Przenoszenie eSIM powyżej).
 
-**Który Pixel jest najlepszy na podróż z eSIM w ograniczonym budżecie?**
-**Pixel 6a** oferuje najlepszą wartość: tani, pełne wsparcie, 5G i dobra żywotność baterii. Drugi wybór: **Pixel 5** (nie-japoński), jeśli znajdziesz go w niższej cenie.
+**Który Pixel jest najlepszy do podróży z eSIM w budżecie?**
+**Pixel 6a** oferuje najlepszą wartość: tani, pełna obsługa, 5G i dobra żywotność baterii. Drugi wybór: **Pixel 5** (nie-japoński), jeśli znajdziesz go w niższej cenie.
 
-**Czy mogę używać eSIM z innego kraju niż ten, w którym kupiłem Pixela?**
-Tak. Funkcja jest niezależna od regionu. Pixel 6 zakupiony w USA może zainstalować i używać japońskiej eSIM, europejskiej eSIM lub dowolnego innego globalnego planu, o ile dostawca obsługuje urządzenie.
+**Czy mogę używać eSIM z innego kraju niż ten, w którym kupiłem Pixel?**
+Tak. Funkcja jest niezależna od regionu. Pixel 6 zakupiony w USA może zainstalować i używać japońskiego eSIM, europejskiego eSIM lub dowolnego innego globalnego planu, o ile dostawca obsługuje urządzenie.
 
 **Czy Pixel działa z eSIM w Chinach?**
-Tak – międzynarodowi dostawcy oferują plany na Chiny, które działają na Pixel 6 i nowszych. Lokalni chińscy operatorzy nie oferują funkcji turystom.
+Tak – międzynarodowi dostawcy oferują plany Chin, które działają na Pixel 6 i nowszych. Chińscy lokalni operatorzy nie oferują tej funkcji turystom.
 
-**Co zrobić, jeśli pojawi się błąd "aktywacja nie powiodła się"?**
-Zapoznaj się z sekcją Rozwiązywanie problemów z aktywacją eSIM powyżej, która obejmuje typowe kody błędów i poprawki.
+**Co powinienem zrobić, jeśli widzę błąd „activation failed"?**
+Zapoznaj się z sekcją Rozwiązywanie błędów aktywacji eSIM powyżej, która obejmuje typowe kody błędów i poprawki.
 
-**Czy mogę flashować międzynarodowe oprogramowanie na japońskim Pixelu, aby włączyć eSIM?**
-**Nie.** To częste nieporozumienie. Ograniczenie na japońskich Pixelach jest w **oprogramowaniu podstawowym** (poziom modemu), a nie w systemie operacyjnym Android. Flashowanie międzynarodowych ROM-ów nie włączy funkcji. Jedynym prawdziwym rozwiązaniem jest zakup nie-japońskiego Pixela.
+**Czy mogę wgrać międzynarodowy firmware na japoński Pixel, aby włączyć eSIM?**
+**Nie.** To powszechne błędne przekonanie. Ograniczenie na japońskich Pixelach jest w **firmware baseband** (poziom modemu), a nie w systemie Android. Wgrywanie międzynarodowych ROM-ów nie włączy tej funkcji. Jedynym prawdziwym rozwiązaniem jest kupno nie-japońskiego Pixel.
 
-**Jaki jest najtańszy Pixel z pełnym wsparciem eSIM (bez ograniczeń regionalnych)?**
-**Pixel 6a** – zazwyczaj 120-150 $ używany. Ma pełne wsparcie na każdym urządzeniu, niezależnie od regionu. Starszy Pixel 5 może być tańszy (~80-100 $), ale działa tylko jeśli jest wersją nie-japońską – i musisz to zweryfikować przed zakupem.
+**Jaki jest najtańszy Pixel z pełną obsługą eSIM (bez ograniczeń regionalnych)?**
+**Pixel 6a** – zazwyczaj $120-150 używany. Ma pełną obsługę na każdym urządzeniu, niezależnie od regionu. Starszy Pixel 5 może być tańszy (~$80-100), ale działa tylko jeśli jest wersją nie-japońską – i musisz to zweryfikować przed zakupem.
 
-**Dlaczego mój Pixel pokazuje "Brak usługi" po instalacji eSIM?**
+**Dlaczego mój Pixel pokazuje „No Service" po zainstalowaniu eSIM?**
 To zazwyczaj jeden z trzech problemów:
-1. **Data Roaming jest WYŁĄCZONY** – przejdź do Ustawienia > Sieć i Internet > Karty SIM > [eSIM] i przełącz **Data Roaming** WŁ.
+1. **Roaming danych jest WYŁĄCZONY** – przejdź do Ustawienia > Sieć i internet > SIMy > [eSIM] i włącz **Roaming danych**.
 2. **Ustawienia APN są nieprawidłowe** – zobacz sekcję APN powyżej, aby skonfigurować.
-3. **Potrzebny ręczny wybór sieci** – przejdź do Ustawienia > Sieć i Internet > Karty SIM > [eSIM] > Operatorzy sieci → wyłącz Automatyczny → wybierz sieć ręcznie.
+3. **Potrzebny ręczny wybór sieci** – przejdź do Ustawienia > Sieć i internet > SIMy > [eSIM] > Operatorzy sieci → wyłącz Automatycznie → wybierz sieć ręcznie.
 
 **Ile profili eSIM może przechowywać mój Pixel?**
-- **Pixel 6 i nowsze:** Do 10 profili (choć tylko jeden lub dwa mogą być aktywne na raz).
+- **Pixel 6 i nowsze:** Do 10 profili (choć tylko jeden lub dwa mogą być aktywne jednocześnie).
 - **Pixel 5 i starsze:** Do 5 profili.
 - **Pixel 2:** Nie dotyczy – brak sprzętu eSIM.
 
-**Jak długo trwa połączenie eSIM po aktywacji?**
+**Ile czasu zajmuje połączenie eSIM po aktywacji?**
 - **Pixel 6 i nowsze:** 1-3 minuty.
 - **Pixel 5 i starsze:** 2-5 minut.
-- Jeśli trwa to dłużej niż 15 minut, coś jest nie tak – sprawdź Data Roaming, ustawienia APN i spróbuj ręcznego wyboru sieci.
+- Jeśli trwa dłużej niż 15 minut, coś jest nie tak – sprawdź roaming danych, ustawienia APN i spróbuj ręcznego wyboru sieci.
 
-**Co to jest adres SM-DP+?**
-Adres SM-DP+ (Subscription Manager Data Preparation) to serwer dostarczający profil operatora. Większość użytkowników nie musi go znać – zeskanowanie kodu QR automatycznie go wypełnia. Jeśli wprowadzasz dane ręcznie, będziesz potrzebować adresu SM-DP+ i kodu aktywacyjnego od dostawcy.
+**Czym jest adres SM-DP+?**
+Adres SM-DP+ (Subscription Manager Data Preparation) to serwer, który dostarcza profil operatora. Większość użytkowników nie musi go znać – skanowanie kodu QR automatycznie go wypełnia. Jeśli wprowadzasz szczegóły ręcznie, będziesz potrzebować adresu SM-DP+ i kodu aktywacyjnego od dostawcy.
 
-👉 **Planujesz podróż ze swoim Pixelem?** Zobacz [eSIM na Japonię](/japan-esim/) lub [eSIM na USA](/united-states-esim/). Aby dowiedzieć się, które telefony działają w japońskich sieciach, przeczytaj nasz [przewodnik kompatybilności eSIM w Japonii](/blog/japan-esim-compatibility-guide/).
+👉 **Planujesz podróż z Pixel?** Zobacz [eSIM dla Japonii](/japan-esim/) lub [eSIM dla USA](/united-states-esim/).
+
+Aby dowiedzieć się, które telefony działają w japońskich sieciach, przeczytaj nasz [przewodnik po zgodności eSIM Japonia](/blog/japan-esim-compatibility-guide/).
 
 
-## Wypróbuj darmową eSIM na swoim Pixelu – zerowe ryzyko
+## Wypróbuj darmowe eSIM na swoim Pixel
 
-Najbardziej niezawodnym sposobem na potwierdzenie kompatybilności Twojego Pixela jest instalacja **darmowej próbnej eSIM**. Zajmuje 2 minuty i nic nie kosztuje.
+Najbardziej niezawodny sposób potwierdzenia zgodności Twojego Pixel to zainstalowanie **darmowego eSIM próbnego**. Zajmuje 2 minuty i nic nie kosztuje.
 
-👉 [**Zdobądź swoją darmową eSIM teraz**](/free-esim/)
+👉 [**Zdobądź darmowe eSIM teraz**](/free-esim/)
 
 ---
 
-*Na podstawie oficjalnej dokumentacji Google, standardów GSMA i informacji operatorów. Zaktualizowano: sierpień 2026.*
+*Na podstawie oficjalnej dokumentacji Google, standardów GSMA i informacji o operatorach. Zaktualizowano: wrzesień 2026.*
 ## Źródła
 
 - [GSMA — specyfikacja eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Google Support — Konfiguracja eSIM](https://support.google.com/pixelphone/answer/14853135)
-- [Google Support — eSIM na Androidzie](https://support.google.com/android/answer/11241215)
-- [Google Fi — Kompatybilne telefony](https://fi.google.com/about/compatible-phones)
-- [Google — Specyfikacje sprzętowe Pixel](https://store.google.com/category/phones)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)
+- [Google Fi — Compatible phones](https://fi.google.com/about/compatible-phones)
+- [Google — Pixel hardware specifications](https://store.google.com/category/phones)

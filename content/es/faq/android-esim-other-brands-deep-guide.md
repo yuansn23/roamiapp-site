@@ -1,15 +1,16 @@
 ---
-title: "Móviles Android compatibles con eSIM: lista completa 2026"
-h1_title: "Guía completa de compatibilidad eSIM en Android para 2026"
-description: "Móviles Android compatibles con eSIM 2026: Xiaomi, OnePlus, OPPO, Huawei, Motorola y más. Verifica tu modelo antes de comprar un plan de viaje."
-canonical: ""
-image: "/img/esim-activation-guide.jpg"
-date: 2026-08-11T10:00:00Z
-lastmod: 2026-08-11T10:00:00Z
+title: "Guía de eSIM en Android: ¿Es Compatible Tu Teléfono?"
+h1_title: "La Guía Completa de eSIM en Android en 2026: ¿Es Compatible Tu Teléfono?"
+description: "¿Tu teléfono Android admite eSIM? Consulta nuestra lista de compatibilidad para Xiaomi, OnePlus, Motorola y más. Nota: los modelos chinos suelen ser incompatibles."
+image: "/img/faq/android-esim-other-brands.webp"
+image-1: "/img/faq/android-esim-other-brands-1.jpg"
+keywords: ["esim android", "teléfonos android compatibles con esim", "motorola tiene esim", "oneplus tiene esim", "xiaomi tiene esim", "huawei tiene esim", "sony tiene esim", "mi teléfono android tiene esim", "compatibilidad esim android", "teléfonos compatibles con esim"]
+date: 2026-09-16T00:00:00Z
+lastmod: 2026-09-16T00:00:00Z
 tags: ["Android", "eSIM", "Compatibilidad", "Motorola", "OnePlus", "Xiaomi", "Huawei"]
 toc: true
 
-# Configuración del sitio y SEO
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
@@ -17,7 +18,7 @@ publisher_logo: "/img/logo.png"
 ui_text:
   updated_on: "Actualizado el"
   min_read: "min de lectura"
-  toc: "Tabla de contenidos"
+  toc: "Índice de contenidos"
 
 breadcrumbs:
   home:
@@ -27,48 +28,49 @@ breadcrumbs:
     text: "Compatibilidad eSIM"
     url: "/compatibility/"
 
+# Sidebar: Popular eSIMs
 sidebar_popular:
-  title: "eSIM populares"
+  title: "eSIM Populares"
   item_suffix: "eSIM"
   items:
-    - name: "USA eSIM"
+    - name: "eSIM de EE. UU."
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Alemania"
+    - name: "eSIM de Alemania"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europa"
+    - name: "eSIM de Europa"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turquía"
+    - name: "eSIM de Turquía"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japón"
+    - name: "eSIM de Japón"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "eSIM de China"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
 sidebar_free:
-  title: "Consigue eSIM gratis"
+  title: "Reclama una eSIM Gratis"
   icon: "🎁"
   item_suffix: "eSIM gratis"
   item_subtitle: "eSIM gratis"
   items:
-    - name: "Reino Unido"
+    - name: "eSIM del Reino Unido"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Alemania"
@@ -82,583 +84,347 @@ sidebar_free:
       url: "/free-esim/"
 
 sidebar_questions:
-  title: "Preguntas populares"
+  title: "Preguntas Frecuentes"
   items:
-    - question: "¿Qué es la activación eSIM y cómo funciona?"
+    - question: "¿Qué es la activación de una eSIM y cómo funciona?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "¿Cómo activar una eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "¿Cómo activar eSIM en iPhone (todos los modelos)?"
+    - question: "¿Cómo activar la eSIM en iPhone (todos los modelos)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Lista actualizada de compatibilidad eSIM"
+    - question: "Última lista de compatibilidad eSIM"
       url: "/compatibility/"
-    - question: "Cómo comprobar si mi Android es compatible con eSIM"
-      url: "/faq/android-esim-check/"
+    - question: "¿Cómo saber si mi teléfono Android admite eSIM?"
+      url: "/faq/android-esim-other-brands-deep-guide/"
 ---
 
+> **Nota del editor:** El soporte de eSIM en Android depende de tu modelo exacto, tu región y tu operador — Xiaomi, OnePlus, Huawei y LG cada uno lo gestiona de forma diferente. Todas las afirmaciones siguientes provienen de la documentación oficial de los fabricantes y de los estándares de la GSMA, verificados a septiembre de 2026. Comprueba primero tu número de modelo exacto, porque la respuesta puede cambiar entre variantes del mismo teléfono.
 
-## Resumen rápido: ¿qué Android tiene eSIM?
+Que un teléfono Xiaomi, OnePlus, Huawei o LG admita eSIM se reduce al modelo exacto y a la región para la que se vendió — el mismo nombre de modelo puede diferir entre mercados. Las insignias globales de Xiaomi y los modelos recientes de OnePlus suelen admitirla; Huawei y LG tienen soporte limitado o descontinuado. Esta guía decodifica cada marca y te muestra cómo confirmar tu variante en cuestión de minutos.
 
-Si te estás preguntando **qué es una eSIM** y **cómo funciona una eSIM** en Android, la respuesta es sencilla: se trata de una SIM digital integrada en el teléfono que te permite activar un plan de datos sin insertar una tarjeta física. La tecnología eSIM está impulsada por la [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/esim-specification/), la asociación que define los estándares globales de telecomunicaciones móviles[reference:6].
+## ¿Xiaomi, OnePlus, Huawei o LG Admiten eSIM?
 
-Pero no todos los **móviles compatibles con eSIM** lo son: la disponibilidad varía según la marca, el modelo y la región. La mayoría de los **teléfonos con eSIM** actuales son de gama alta, aunque marcas como Google Pixel y Samsung han ampliado la compatibilidad a modelos más recientes.
+**La respuesta corta:** depende del modelo exacto *y* de dónde se vendió. Estas cuatro marcas rutinariamente envían el mismo nombre de teléfono con hardware y firmware diferentes en distintos mercados. Un Xiaomi 14 vendido en Europa normalmente tiene eSIM; el mismo Xiaomi 14 comprado en China continental no.
 
-La **diferencia entre SIM y eSIM** es clave para entender por qué esta tecnología está ganando terreno: mientras la SIM tradicional es una tarjeta física que puedes extraer y perder, la eSIM está integrada en el hardware y se programa de forma remota. Si buscas información específica para iPhone, consulta nuestra [guía de compatibilidad eSIM en iPhone](/faq/iphone-11-esim-compatible/). Para otros dispositivos como tablets o relojes, tenemos una [guía completa para iPad y Apple Watch](/faq/ipad-apple-watch-esim-support-guide/). Si es tu primera vez con eSIM, consulta [qué es una eSIM y cómo funciona](/faq/what-is-esim/).
+Esta página es un análisis profundo de **Xiaomi, OnePlus, Huawei y LG**. Para Samsung, Google Pixel y Motorola mantenemos guías dedicadas (enlaces abajo).
 
-> **La comprobación más fiable:** abre el marcador de tu teléfono, introduce `*#06#` y busca un número **EID** de 32 dígitos. Si lo ves, tu teléfono es compatible con eSIM – independientemente de la marca o modelo. Si no, no lo es.
+**Por qué importa para los viajeros:** la eSIM te permite comprar un plan de datos antes de salir de casa y conectarte en cuanto aterrizas — sin puesto de SIM en el aeropuerto, sin expulsor. En estas cuatro marcas, el único inconveniente es que tienes que confirmar primero tu variante exacta.
 
+**¿Todavía no estás seguro?** Consigue una **[eSIM de prueba gratuita de Roami](/free-esim/)** — toma 2 minutos y confirma que tu teléfono está listo sin gastar un centavo.
 
-## 🔍 Comprobación universal: ¿mi Android tiene eSIM?
+## Guías de eSIM de Samsung, Pixel y Motorola
 
-A diferencia de los iPhones y Google Pixels (que tienen compatibilidad eSIM consistente en la mayoría de los modelos), el resto del mundo Android es un panorama fragmentado. Algunas marcas ofrecen eSIM en sus teléfonos insignia; otras no lo hacen en absoluto. Muchos teléfonos de gama media y económicos carecen del hardware o firmware necesario.
+Samsung, Pixel y Motorola tienen cada uno su propio centro de ayuda, donde obtendrás una respuesta mucho más clara que cualquier resumen aquí:
 
-**¿Cómo saber si tu móvil tiene eSIM?** Usa este método universal, que funciona en cualquier Android, sea Motorola, OnePlus, Xiaomi, Huawei o Samsung:
+- **Samsung Galaxy (series S / A / Z):** consulta la **[guía de compatibilidad eSIM de Samsung](/faq/samsung-s20-esim-compatible/)**.
+- **Google Pixel:** consulta la **[guía de compatibilidad eSIM de Google Pixel](/faq/google-pixel-6-esim-compatible/)**.
+- **Motorola (Razr / Edge / Moto G):** consulta la **[guía eSIM de Moto G Power](/faq/moto-g-power-esim-compatible/)**.
 
-1. Abre la aplicación **Marcador**.
-2. Marca `*#06#` (como si fuera un número de teléfono) y pulsa llamar.
-3. Mira la pantalla. Si ves un número etiquetado como **EID** (Embedded Identity Document) – normalmente de 32 dígitos – tu teléfono tiene hardware eSIM.
-4. Si solo ves números IMEI (IMEI1, IMEI2) y ningún EID, tu teléfono **no** es compatible con eSIM.
+Para la lista maestra completa de todos los teléfonos con capacidad eSIM, abre la **[lista completa de compatibilidad](/compatibility/)**.
 
-Este código es la forma más rápida y definitiva de obtener una respuesta. El soporte de eSIM en Android está respaldado por el framework estándar de [Android Open Source Project](https://source.android.google.cn/docs/core/connect/esim-overview), que desde Android 9 proporciona APIs nativas para gestionar perfiles eSIM.
+## Cómo Identificar el Número de Modelo y la Variante Exacta de Tu Android
 
-Si estás buscando un teléfono nuevo, las tablas y explicaciones a continuación te indican qué modelos se sabe que funcionan. Para una visión más amplia, también puedes consultar nuestra [lista completa de teléfonos compatibles con eSIM](/compatibility/), que incluye todas las marcas y modelos disponibles en el mercado.
+La mayor razón por la que los dueños de Android se confunden con la eSIM es que no saben qué variante tienen. El mismo nombre de modelo puede admitir eSIM en una región y no en otra, así que identificar el número de modelo exacto es el primer paso para cada marca a continuación.
 
-### ¿Por qué algunos Android tienen eSIM y otros no?
+### Encuentra el Número de Modelo de Tu Android
 
-La razón principal es el costo. El chip eSIM (eUICC) añade un costo adicional al hardware del teléfono[reference:8]. Los fabricantes de gama baja y media suelen omitirlo para mantener precios competitivos. Además, en algunos mercados como China, las regulaciones locales han retrasado la adopción de eSIM en dispositivos domésticos, lo que explica por qué muchas versiones chinas de Xiaomi, Huawei u Oppo carecen de esta funcionalidad, incluso cuando sus equivalentes globales sí la incluyen.
+Abre **Ajustes > Acerca del teléfono > Número de modelo**. El último carácter o dos casi siempre revela la región:
 
-Otro factor es la versión de Android. Desde Android 9, el sistema ofrece APIs estándar para eSIM. Pero la funcionalidad avanzada, como tener dos eSIM activas simultáneamente (MEP - Multiple Enabled Profiles), solo está disponible en Android 13 o superior. Esta característica, definida en la especificación GSMA SGP.22 V3.1[reference:11]， permite que un solo chip eSIM funcione como si tuviera dos SIMs independientes, algo que antes requería dos chips físicos.
+| Marca | Global / internacional (eSIM probable) | China / EE. UU. / Japón (eSIM a menudo deshabilitada) |
+|-------|--------------------------------------|------------------------------------------|
+| **Xiaomi** | termina en `G` o `I` (p. ej., 2211133G) | termina en `C` (p. ej., 2211133C — ROM de China) |
+| **OnePlus** | prefijo `CPH` (p. ej., CPH2581) | modelos de operadores de EE. UU. (T-Mobile) |
+| **Huawei** | `-L29` / `-LX9` (p. ej., LIO-L29) | `-AL00` / `-TL00` (China) |
+| **LG** | modelo `LM-` liberado (p. ej., LM-F100) | con marca de operador (Verizon, AT&T, T-Mobile) |
 
-Si tienes un Motorola, OnePlus, Xiaomi, Huawei, LG, Sony, Nokia, Asus, Honor, Realme, Oppo, Vivo, iQOO, Poco, Infinix, Tecno o itel, esta guía te dirá exactamente qué modelos son compatibles con eSIM, cómo verificar tu propio dispositivo y qué hacer si tu teléfono no tiene eSIM.
+### Decodifica el Sufijo de Región
 
+| Significado del sufijo | Xiaomi | OnePlus | Huawei | LG |
+|----------------|--------|---------|--------|-----|
+| Global / internacional | `...G`, `...I` | `CPH` (global) | `-L29`, `-LX9` | `LM-` liberado |
+| China | `...C` | — | `-AL00`, `-TL00` | — |
+| Operador de EE. UU. | — | modelos bloqueados de T-Mobile | — | `-V` (Verizon), `-ATT` |
+| Japón | — | — | `-Dxx` (Docomo) | `-J` |
 
-## 📱 Compatibilidad eSIM en Motorola
+### Confirma con una Verificación Rápida de EID
 
-### Tabla de referencia rápida
+Marca `*#06#`. Si aparece un número **EID** de 32 dígitos, el hardware está presente; si solo ves números IMEI, no lo está. Para el recorrido completo con los tres métodos (teclado, Ajustes y Añadir plan de datos móviles), consulta el **[verificador de compatibilidad](/compatibility/)**.
 
-| Modelo | Compatibilidad eSIM | Notas |
-|--------|---------------------|-------|
-| Motorola Razr (2019, 2022, 2023, 2024) | ✅ Sí | Versiones globales. **Motorola razr esim** funciona de forma fiable. |
-| Motorola Edge 2022, 2023, 2024, 2025 | ⚠️ Limitada | Solo versiones globales desbloqueadas. Las versiones bloqueadas por operador en EE.UU. pueden tener eSIM deshabilitada. |
-| Motorola Edge+ (2022, 2023) | ✅ Sí | Versiones desbloqueadas. |
-| Moto G Play / G Power / G Stylus | ❌ No | No tienen hardware eSIM. **¿Moto g play tiene esim?** No. **¿Moto g power tiene esim?** No. |
-| Moto E series | ❌ No | Línea económica, sin eSIM. |
-| Modelos Moto antiguos (G7, G8, etc.) | ❌ No | Era pre‑eSIM. |
+**La conclusión:** un número de modelo que termina en `C` (ROM de China de Xiaomi), `-AL00` (Huawei China) o cualquier ROM doméstica china significa que la eSIM casi seguro está deshabilitada en el firmware. Las variantes globales que terminan en `G`, `-L29`, o un OnePlus `CPH` son tus apuestas más seguras.
 
-### Explicación detallada
+> Para dueños de Samsung: tu región se determina por un **código CSC**, no por un sufijo — para eso consulta mejor la **[guía eSIM de Samsung](/faq/samsung-s20-esim-compatible/)**.
 
-Motorola ha sido lenta en adoptar eSIM. Solo unos pocos modelos recientes son compatibles – principalmente los plegables y los teléfonos Edge de gama alta.
+### Dónde está el menú Acerca de en cada capa de Android
 
-**Modelos con compatibilidad eSIM:**
-- **Motorola Razr (2019, 2022, 2023, 2024)** – La serie Razr plegable incluye eSIM en la mayoría de las versiones globales. Si tienes un modelo compatible con **motorola razr esim**, puedes usar eSIM de viaje sin necesidad de SIM física.
-- **Motorola Edge (2022, 2023, 2024, 2025)** – Algunos modelos Edge (ej. Edge 30 Ultra, Edge 40 Pro, Edge 50 Ultra) son compatibles con eSIM. Sin embargo, la compatibilidad varía según la región – las versiones bloqueadas por operador en EE.UU. pueden tener eSIM deshabilitada.
-- **Motorola Edge+ (2022, 2023)** – eSIM está presente en versiones desbloqueadas.
+La ruta al número de modelo es diferente en cada capa de Android, lo que confunde a la gente antes incluso de empezar. Aquí está dónde buscar:
 
-**Modelos SIN eSIM – y qué puedes hacer en su lugar:**
+| Marca | Capa de interfaz | Ruta al número de modelo |
+|-------|---------|--------------------------|
+| Xiaomi / Redmi / POCO | MIUI / HyperOS | Ajustes > Acerca del teléfono > Información detallada y especificaciones |
+| OnePlus | OxygenOS / ColorOS | Ajustes > Acerca del dispositivo > Modelo |
+| Huawei | EMUI / HarmonyOS | Ajustes > Acerca del teléfono > Modelo |
+| LG | LG UX | Ajustes > Acerca del teléfono > Número de modelo |
+| Samsung | One UI | Ajustes > Acerca del teléfono > Número de modelo |
+| Google Pixel | Pixel UI | Ajustes > Acerca del teléfono > Modelo |
+| Motorola | My UX | Ajustes > Acerca del teléfono > Modelo |
 
-**Serie Moto G (G Play, G Power, G Stylus, G54, G84, etc.)** – Estos teléfonos de gama baja y media fueron diseñados sin hardware eSIM para mantener los costes bajos. Usan solo una ranura para SIM física. **¿Qué puedes hacer?** Usa una tarjeta SIM física de viaje. Muchos proveedores de eSIM también ofrecen SIM físicas enviadas a tu domicilio, o puedes comprar una SIM local en tu destino. Si quieres eSIM, considera actualizar a un Motorola Razr usado o un Google Pixel 6a (a menudo a un precio similar).
+La cadena que buscas se ve como `2211133G` (un Xiaomi 13), `CPH2581` (un OnePlus 12) o `LIO-L29` (un Huawei P40 Pro) — ese es el número que determina la eSIM, no el nombre comercial impreso en la caja.
 
-**Serie Moto E y modelos Motorola antiguos (ej. Moto E7, G7, G8)** – Sin eSIM. Estos teléfonos son anteriores a que Motorola añadiera eSIM a cualquiera de sus productos. **¿Qué puedes hacer?** Solo SIM física. Si dependes de eSIM de viaje, es hora de actualizar. Incluso un Motorola Edge 2022 usado se puede encontrar por menos de $150.
+## Compatibilidad eSIM de OnePlus
 
-**Teléfonos Motorola bloqueados por operador (Verizon, AT&T, T‑Mobile)** – Incluso si el hardware es compatible con eSIM, los operadores estadounidenses suelen deshabilitarla en sus teléfonos Motorola con marca. **¿Qué puedes hacer?** Solicita un desbloqueo de SIM a tu operador (si eres elegible). Después del desbloqueo, la eSIM *podría* aparecer, pero no está garantizado. Para una eSIM fiable, compra un Motorola desbloqueado de fábrica directamente de Motorola o de un minorista como Best Buy.
+OnePlus solo añadió eSIM a su serie insignia numérica, empezando por el OnePlus 11. El soporte es real pero depende de la región, y los modelos de operadores de EE. UU. son la excepción habitual.
 
-**Cómo verificar en tu Motorola:** Marca `*#06#`. Si ves un EID, estás bien. Si no, usa una SIM física.
+### Referencia Rápida de OnePlus
 
+| Modelo | eSIM | Notas |
+|-------|------|-------|
+| OnePlus 13 | ✅ Sí | Unidades globales liberadas |
+| OnePlus 12 | ✅ Sí | Globales liberadas; las versiones de T-Mobile pueden deshabilitarla |
+| OnePlus 11 | ✅ Sí | Unidades globales; algunas variantes chinas carecen de ella |
+| OnePlus 10 Pro | ⚠️ Limitado | Solo Europa / India; el T-Mobile de EE. UU. no tiene eSIM |
+| OnePlus Nord (N20, N30, CE) | ❌ No | Gama media, sin hardware eSIM |
+| OnePlus 9 y anteriores | ❌ No | Lanzados antes de la eSIM |
 
-## 📱 Compatibilidad eSIM en OnePlus
+**Dónde funciona:** el OnePlus 12 y 13 admiten eSIM en modelos globales y liberados de EE. UU., y el 11 cubre la mayoría de unidades globales. **Dónde falla:** la línea Nord, la serie 9 y anteriores, y el 10R/10T vienen todos sin hardware eSIM. T-Mobile es el otro bloqueador habitual — deshabilita la eSIM en sus teléfonos OnePlus con marca incluso cuando el hardware existe.
 
-### Tabla de referencia rápida
+**Qué hacer en su lugar:** si tu OnePlus no tiene eSIM, usa una SIM física, o consigue un OnePlus 11 de segunda mano (los precios han bajado) como la ruta eSIM más económica. Marca `*#06#` para confirmar antes de comprar nada.
 
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| OnePlus 13 | ✅ Sí | Global desbloqueado. **Oneplus 13 esim** totalmente compatible. |
-| OnePlus 12 | ✅ Sí | Global desbloqueado. **Oneplus 12 esim** funciona en versiones no bloqueadas por operador. |
-| OnePlus 11 | ✅ Sí | Global desbloqueado. **Oneplus 11 esim** disponible en la mayoría de las unidades globales. |
-| OnePlus 10 Pro | ⚠️ Limitada | Solo versiones Europa/India. La versión T‑Mobile de EE.UU. no tiene eSIM. |
-| Serie OnePlus Nord (N20, N30, CE) | ❌ No | Gama media, sin hardware eSIM. |
-| OnePlus 9 y anteriores | ❌ No | Pre‑eSIM. |
-| OnePlus 10R, 10T | ❌ No | Sin eSIM. |
+**La primera conexión después de la activación** suele tardar 2–3 minutos. Si ves "Buscando red" durante más de 5 minutos, reinicia y activa la Itinerancia de datos.
 
-### Explicación detallada
+### Dónde Está el Menú eSIM en OxygenOS
 
-OnePlus empezó a añadir eSIM con el OnePlus 11, pero la compatibilidad no es universal en todos los modelos o regiones.
+En OxygenOS 13 y 14 (las versiones del OnePlus 11, 12 y 13), abre **Ajustes > Wi-Fi y red > SIM y red > Añadir eSIM**. Una peculiaridad que vale la pena conocer: OnePlus fusionó su software con la base de código ColorOS de Oppo, así que un OnePlus más nuevo con OxygenOS 14 en realidad muestra menús de ColorOS — pero la ruta de la eSIM es idéntica: **Ajustes > Wi-Fi y red > SIM y red > Añadir eSIM**. Si ese botón falta en un teléfono que debería tenerlo, revisa el número de modelo: casi seguro es una variante de T-Mobile o de China, no una unidad global.
 
-**Modelos con compatibilidad eSIM:**
-- **OnePlus 12** – El **oneplus 12 esim** funciona en versiones globales y desbloqueadas de EE.UU. Las versiones bloqueadas por T‑Mobile pueden tener eSIM deshabilitada.
-- **OnePlus 13** – El **oneplus 13 esim** es totalmente compatible en todos los modelos desbloqueados.
-- **OnePlus 11** – **Oneplus 11 esim** está disponible en versiones globales, pero algunas variantes chinas carecen de él.
-- **OnePlus 10 Pro** – **Oneplus 10 pro esim** es compatible en modelos regionales seleccionados (ej. Europa, India). Las versiones de T‑Mobile en EE.UU. generalmente no tienen eSIM.
+### La línea Nord con más detalle
 
-**Modelos SIN eSIM – y qué puedes hacer en su lugar:**
+Cada modelo OnePlus Nord — el N10, N20, N30, N300, CE, CE 2, CE 3, CE 4 y el Nord 4 — viene **sin hardware eSIM**. No hay ningún interruptor oculto ni ninguna actualización que lo añada. Si estás buscando en la línea Nord específicamente para viajar, planea usar una SIM física, o sube a un OnePlus 11 o 12 de segunda mano, que son los teléfonos OnePlus con eSIM más baratos.
 
-**Serie OnePlus Nord (Nord N20, N30, CE, etc.)** – Estos teléfonos de gama media no tienen hardware eSIM. OnePlus reservó eSIM para su serie insignia numerada. **¿Qué puedes hacer?** Usa una SIM física. Alternativamente, considera un OnePlus 11 usado (los precios han bajado) que sí tiene eSIM.
+## Compatibilidad eSIM de Xiaomi
 
-**OnePlus 9 y anteriores (OnePlus 9, 8T, 8, serie 7)** – Sin eSIM. Estos modelos se lanzaron antes de que OnePlus implementara eSIM. **¿Qué puedes hacer?** Solo SIM física. Si quieres eSIM con un presupuesto ajustado, busca un OnePlus 11 usado o cambia a un Google Pixel.
+El soporte eSIM de Xiaomi es el más dependiente de la región de los cuatro — solo una serie de modelos insignia globales lo tienen, y ningún dispositivo con ROM de China lo tiene.
 
-**OnePlus 10R, 10T** – Estas variantes de mitad de año también carecen de eSIM. **¿Qué puedes hacer?** Igual que arriba – SIM física.
+### Referencia Rápida de Xiaomi
 
-**OnePlus bloqueado por operador (T‑Mobile, Verizon)** – T‑Mobile en particular deshabilita eSIM en sus teléfonos OnePlus (incluso el 11 y 12). **¿Qué puedes hacer?** Después de pagar el teléfono, solicita un desbloqueo permanente de SIM a T‑Mobile. Una vez desbloqueado, la eSIM puede estar disponible, pero no está garantizado. Para una eSIM sin estrés, compra un OnePlus desbloqueado de fábrica directamente en OnePlus.com.
+| Modelo | eSIM | Notas |
+|-------|------|-------|
+| Xiaomi 14 (global) | ✅ Sí | Unidades globales de Europa / Asia |
+| Xiaomi 13 (global) | ✅ Sí | Europa / Hong Kong |
+| Xiaomi 13T Pro (global) | ✅ Sí | Solo global |
+| Xiaomi 12 (global) | ⚠️ Inconsistente | Algunas unidades europeas; prueba con `*#06#` |
+| Xiaomi 12T / 12T Pro | ❌ No | Sin eSIM a pesar de la insignia insignia "T" |
+| Xiaomi 11 y anteriores | ❌ No | Pre-eSIM |
+| Redmi / Poco (todos) | ❌ No | Líneas económicas, sin hardware eSIM |
+| ROM de China (cualquier modelo) | ❌ No | El firmware deshabilita la eSIM |
 
-**Variaciones regionales:** OnePlus es conocido por deshabilitar eSIM en modelos bloqueados por operador en EE.UU. Si quieres **usar eSIM en OnePlus**, compra una versión global desbloqueada de fábrica. Si preguntas **"oneplus tiene esim"** para el 12 o 13, la respuesta es sí – pero confírmalo con `*#06#`.
+**Dónde funciona:** el Xiaomi 12, 13, 14 y 13T Pro en sus versiones globales. **Dónde falla:** el 12T/12T Pro, la serie 11, todos los teléfonos Redmi y Poco, y — crucialmente — cualquier Xiaomi con ROM de China, incluso en un modelo cuyo gemelo global tiene eSIM.
 
+**Qué hacer en su lugar:** SIM física, o vender el teléfono con ROM de China y comprar una versión global. Flashear una ROM global en un dispositivo chino es posible pero arriesgado (puede inutilizar el teléfono), así que la mayoría debería simplemente usar una SIM física o actualizar.
 
-## 📱 Compatibilidad eSIM en Xiaomi
+**La primera conexión después de la activación** en un Xiaomi global suele tardar 3–5 minutos; elige la red manualmente si estás en una zona con poca cobertura.
 
-### Tabla de referencia rápida
+### Xiaomi de China vs Modelos Globales
 
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Xiaomi 14 (global) | ✅ Sí | **Xiaomi 14 esim** funciona en versiones globales europeas/asiáticas. La ROM China no tiene eSIM. |
-| Xiaomi 13 (global) | ✅ Sí | **Xiaomi 13 esim** disponible en modelos globales (Europa, Hong Kong). |
-| Xiaomi 12 (global) | ⚠️ Inconsistente | Algunas unidades europeas tienen eSIM; prueba con `*#06#`. |
-| Xiaomi 13T Pro (global) | ✅ Sí | **Xiaomi 13t pro esim** compatible en versiones globales. |
-| Xiaomi 12T / 12T Pro | ❌ No | Sin eSIM a pesar de ser "T" insignia. |
-| Serie Xiaomi 11 | ❌ No | Pre‑eSIM. |
-| Serie Redmi (todas) | ❌ No | Sin eSIM en ningún Redmi. |
-| Serie Poco | ❌ No | Ver sección de Poco más abajo. |
-| ROM China (cualquier modelo) | ❌ No | eSIM deshabilitada por firmware. |
+Si de esta página solo recuerdas una cosa, que sea esta: **en Xiaomi, "global" es un teléfono diferente a "China", incluso cuando el nombre es idéntico.** Un Xiaomi 14 comprado en la tienda europea de Xiaomi es una unidad global (número de modelo que termina en `G`) con eSIM. Un Xiaomi 14 comprado a un revendedor chino por menos dinero es una unidad con ROM de China (termina en `C`) con el mismo hardware eSIM físicamente presente pero deshabilitado en el firmware.
 
-### Explicación detallada
+Por eso el mismo teléfono recibe reseñas opuestas sobre la eSIM — la unidad global funciona, la de China no, y las dos se ven idénticas por fuera. La solución no es un interruptor de ajustes: requiere flashear una ROM global, lo que anula tu garantía y puede inutilizar el teléfono. El consejo práctico es simple — si la eSIM te importa, compra la versión global a un vendedor autorizado incluso si cuesta $50–$100 más, y evita la importación china "demasiado buena para ser verdad".
 
-La compatibilidad eSIM de Xiaomi es extremadamente limitada y dependiente de la región. La mayoría de los teléfonos Xiaomi vendidos globalmente **no** tienen eSIM – solo modelos insignia específicos en mercados seleccionados.
+### Redmi y POCO No Admiten eSIM
 
-**Modelos con compatibilidad eSIM:**
-- **Xiaomi 14** – El **xiaomi 14 esim** funciona en versiones globales vendidas en Europa y algunos mercados asiáticos. Las versiones chinas domésticas no tienen eSIM.
-- **Xiaomi 13** – **Xiaomi 13 esim** está disponible en modelos globales (ej. Europa, Hong Kong). La versión china (ROM China) carece de eSIM.
-- **Xiaomi 12** – **Xiaomi 12 esim** está presente en algunas unidades europeas, pero es inconsistente. Marca `*#06#` para verificar.
-- **Xiaomi 13T Pro** – **Xiaomi 13t pro esim** es compatible en versiones globales (no China).
+Las dos marcas económicas de Xiaomi son la decisión más fácil de esta página: **ningún teléfono Redmi o POCO ha venido jamás con hardware eSIM.** Eso incluye las series Redmi Note 13 y 14, la serie Redmi K, las líneas POCO F6, X6 y M6, y el más nuevo POCO X7. Si un anuncio de Redmi o POCO publica "eSIM", es un error o está usando una app de itinerancia de datos que depende de una SIM física — no una eSIM real. Si tienes presupuesto ajustado y necesitas una, un Pixel 6a de segunda mano o un Xiaomi 13 global es la mejor opción.
 
-**Modelos SIN eSIM – y qué puedes hacer en su lugar:**
+### Encontrar el menú eSIM en HyperOS y MIUI
 
-**Xiaomi 12T, 12T Pro** – A pesar de ser insignia de la serie "T", carecen de eSIM. Xiaomi optó por omitir el hardware. **¿Qué puedes hacer?** Solo SIM física. Si quieres eSIM en el ecosistema Xiaomi, necesitas el 12, 13 o 14 normales (versiones globales), no los modelos T.
+En un Xiaomi global que sí tiene eSIM, la ruta está en **Ajustes > Red móvil > Tarjetas SIM y redes móviles > Añadir eSIM**. Xiaomi comenzó a implementar **HyperOS** (el sucesor de MIUI) en 2024, y en HyperOS la ruta es **Ajustes > Red móvil > eSIM > Añadir eSIM**. Si no ves ninguna de las dos opciones, tu unidad casi seguro carece del hardware — el menú de Ajustes es más fiable que la caja o la ficha técnica. Las insignias globales más nuevas como el Xiaomi 14 Pro, 14 Ultra y la serie 15 siguen el mismo patrón.
 
-**Serie Xiaomi 11 (11, 11 Pro, 11 Ultra, 11T)** – Sin eSIM. Se lanzaron antes de que Xiaomi añadiera eSIM. **¿Qué puedes hacer?** Usa una SIM física. Considera actualizar a un Xiaomi 13 global usado si la eSIM es esencial.
+## Compatibilidad eSIM de Huawei
 
-**Serie Redmi (Redmi Note 10/11/12/13, serie K, etc.)** – Ninguno tiene eSIM. Redmi es la línea económica de Xiaomi, y la eSIM se considera una función premium. **¿Qué puedes hacer?** Solo SIM física. Aun así puedes viajar con una SIM física de viaje o una SIM local.
+Huawei adoptó la eSIM pronto, pero dos cosas complican el panorama: las sanciones de EE. UU. (los modelos más nuevos ejecutan EMUI sin servicios de Google) y el firmware doméstico chino que deshabilita la eSIM.
 
-**Teléfonos Poco** – Ver sección de Poco más abajo.
+### Referencia Rápida de Huawei
 
-**Versiones chinas domésticas (ROM China) de cualquier Xiaomi** – Incluso si la versión global tiene eSIM, la ROM China suele deshabilitarla debido a regulaciones locales. **¿Qué puedes hacer?** Si tienes un Xiaomi con ROM China, podrías flashear una ROM global (avanzado, riesgo de brick). La mayoría de los usuarios deberían simplemente usar una SIM física o vender el teléfono y comprar una versión global.
+| Modelo | eSIM | Notas |
+|-------|------|-------|
+| Huawei P40 / P40 Pro (global) | ✅ Sí | Sin servicios de Google |
+| Huawei P50 / P50 Pro (global) | ✅ Sí | Unidades globales |
+| Huawei Mate 40 / Mate 40 Pro (global) | ✅ Sí | Unidades globales |
+| Huawei P30 y anteriores | ❌ No | Pre-eSIM |
+| Serie Huawei Nova | ❌ No | Sin eSIM |
+| Serie Huawei Y | ❌ No | Línea económica |
+| Doméstico de China (cualquiera) | ❌ No | El firmware deshabilita la eSIM |
 
-**Nota importante para usuarios de Xiaomi:** Incluso si tu Xiaomi tiene hardware eSIM, la **ROM China** deshabilita eSIM. Si compraste tu Xiaomi en China continental, asume que no tiene eSIM. Siempre prueba con `*#06#`. Si buscas **"xiaomi tiene esim"** – solo las versiones globales de 12, 13, 14 y 13T Pro pueden funcionar.
+**Dónde funciona:** el P40, P50 y Mate 40 en versiones globales. **Dónde falla:** el P30 y anteriores, las líneas Nova y Y, y cualquier Huawei de China continental — incluso el P40, P50 y Mate 40 con capacidad global pierden la eSIM en la ROM de China.
 
+**Dos advertencias específicas de Huawei:** como Huawei no puede usar las API de activación eSIM de Google, normalmente activas escaneando un código QR en lugar de hacerlo a través de una app del operador; y la falta de Google Play Services puede interferir con algunas apps de proveedores de eSIM.
 
-## 📱 Compatibilidad eSIM en Huawei
+**Qué hacer en su lugar:** una SIM de viaje física, o actualizar a un P40 Pro global de segunda mano (solo recuerda que no hay servicios de Google).
 
-### Tabla de referencia rápida
+**La primera conexión después de la activación** puede tardar 3–7 minutos en los modelos globales de Huawei — elige manualmente tu operador en Ajustes > Red móvil > Operadores de red si no aparece nada.
 
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Huawei P40 / P40 Pro (global) | ✅ Sí | **Huawei p40 esim** funciona en versiones globales. Sin servicios Google. |
-| Huawei P50 / P50 Pro (global) | ✅ Sí | **Huawei p50 esim** disponible en unidades globales. |
-| Huawei Mate 40 / Mate 40 Pro (global) | ✅ Sí | **Huawei mate 40 esim** funciona. |
-| Serie Huawei P30 | ❌ No | Pre‑eSIM. |
-| Serie Huawei Nova | ❌ No | Sin eSIM en ningún Nova. |
-| Serie Huawei Y | ❌ No | Línea económica, sin eSIM. |
-| Huawei doméstico de China (cualquiera) | ❌ No | eSIM deshabilitada. |
+### Cambios de eSIM en HarmonyOS vs EMUI
 
-### Explicación detallada
+Huawei está migrando sus teléfonos de EMUI (su capa basada en Android) a HarmonyOS, y el menú eSIM difiere entre ambos. En EMUI 11/12, la ruta es **Ajustes > Red móvil > Gestión de SIM > Añadir eSIM**. En HarmonyOS 2.0 y posteriores, es **Ajustes > Red móvil > Gestión de eSIM > Añadir eSIM**. Ambas opciones solo aparecen en unidades globales con el hardware de SIM integrada — las compilaciones de HarmonyOS de China continental ocultan la opción por completo, y ningún cambio de ajustes la recupera.
 
-Huawei fue un adoptante temprano de eSIM, pero debido a las sanciones de EE.UU., los modelos más nuevos carecen de servicios Google – aunque el hardware eSIM puede estar presente.
+### Las series Mate y P con más detalle
 
-**Modelos con compatibilidad eSIM:**
-- **Huawei P40, P40 Pro** – El **huawei p40 esim** funciona en versiones globales. Sin embargo, estos teléfonos funcionan con EMUI sin Google Play Services, lo que puede afectar a algunas aplicaciones de activación eSIM.
-- **Huawei P50, P50 Pro** – **Huawei p50 esim** está disponible en modelos globales. Las versiones chinas pueden carecer de eSIM.
-- **Huawei Mate 40, Mate 40 Pro** – **Huawei mate 40 esim** funciona en unidades globales.
+La línea de Huawei compatible con eSIM es esencialmente una lista corta: el **P40 / P40 Pro**, el **P50 / P50 Pro** y el **Mate 40 / Mate 40 Pro**, todos en formato global. Los más nuevos P60 y Mate 60 son lanzamientos casi exclusivos de China, así que por potentes que sean, no cuentes con la eSIM. El Mate 30 y el P30 preceden por completo al soporte eSIM de Huawei. Un consejo práctico: como estos teléfonos carecen de Google Mobile Services, planea activar escaneando manualmente el código QR del proveedor en lugar de hacerlo a través de una app.
 
-**Modelos SIN eSIM – y qué puedes hacer en su lugar:**
+### Vivir sin servicios de Google
 
-**Huawei P30 y anteriores (P30, P20, P10, etc.)** – Estos teléfonos son anteriores a la implementación de eSIM por parte de Huawei. El P30 se lanzó a principios de 2019, antes de que la eSIM se hiciera común en Android. **¿Qué puedes hacer?** Solo SIM física. Si te encanta tu P30, considera comprar una SIM física de viaje. Si la eSIM es imprescindible, actualiza a un P40 Pro usado (versión global) – pero ten en cuenta la falta de servicios Google.
+El tema de "sin Google" es más que una nota al pie. Como los modelos globales de Huawei P40, P50 y Mate 40 no pueden ejecutar Google Play Services, muchas apps de proveedores de eSIM o no se instalan o no completan la activación. La solución alternativa es activar escaneando el **código QR** del proveedor directamente en Ajustes, o escribiendo manualmente la **dirección SM-DP+ y el código de activación** — ninguno necesita Google. También tendrás que instalar las apps que necesites (WhatsApp, mapas, banca) desde la AppGallery de Huawei o mediante APK. Para la mayoría de los viajeros, un Xiaomi u OnePlus global implica menos fricción — pero si ya tienes el Huawei, funciona perfectamente con la ruta del QR.
 
-**Serie Huawei Nova (Nova 5, 6, 7, 8, 9, 10)** – Ninguno tiene eSIM. La línea Nova es de gama media y no fue diseñada con eSIM. **¿Qué puedes hacer?** Solo SIM física.
+## Compatibilidad eSIM de LG
 
-**Serie Huawei Y (línea económica)** – Sin eSIM. Son teléfonos de nivel básico con características simples. **¿Qué puedes hacer?** Solo SIM física. Si necesitas eSIM, necesitarás otro teléfono.
+LG dejó el negocio de los teléfonos en 2021, pero sus últimas tres insignias incluyen eSIM — con restricciones de operador adjuntas.
 
-**Modelos chinos domésticos de Huawei** – Incluso para modelos que tienen eSIM globalmente (P40, P50, Mate 40), la versión china a menudo carece de eSIM debido a regulaciones locales. **¿Qué puedes hacer?** Comprueba con `*#06#`. Si no hay EID, usa una SIM física. No hay solución por software.
+### Referencia Rápida de LG
 
-**Limitaciones regionales y de SO:** Los teléfonos Huawei vendidos en China continental normalmente no tienen eSIM. Las versiones globales (ej. Europa, Oriente Medio) sí. Además, debido a que Huawei no puede usar las APIs de activación eSIM de Google, es posible que tengas que activar la eSIM mediante escaneo de código QR en lugar de a través de aplicaciones del operador. Si preguntas **"huawei tiene esim"** para P40/P50/Mate 40, la respuesta es sí para versiones globales. Verifica con `*#06#`.
+| Modelo | eSIM | Notas |
+|-------|------|-------|
+| LG Wing (liberado) | ✅ Sí | Unidades liberadas de EE. UU. |
+| LG Velvet (liberado) | ✅ Sí | Unidades liberadas |
+| LG V60 ThinQ (liberado) | ✅ Sí | Unidades liberadas |
+| Series LG G / K / Stylo | ❌ No | Sin hardware eSIM |
+| LG con bloqueo de operador (cualquiera) | ❌ No | Verizon / AT&T / T-Mobile lo deshabilitan |
 
+**Dónde funciona:** el Wing, Velvet y V60 ThinQ en forma liberada. **Dónde falla:** todos los teléfonos G, K y Stylo anteriores, y — notablemente — las versiones con marca de operador incluso de los tres compatibles, ya que los operadores de EE. UU. a menudo eliminaron el menú eSIM del firmware de LG.
 
-## 📱 Compatibilidad eSIM en LG (marca discontinuada)
+**Como LG ya no fabrica teléfonos ni publica actualizaciones,** algunos perfiles eSIM se comportan de forma impredecible en firmwares antiguos. Marca `*#06#`; si ves un EID puedes intentarlo, pero el éxito no está garantizado. La SIM física sigue siendo la alternativa fiable.
 
-### Tabla de referencia rápida
+### El ángulo del mercado de segunda mano
 
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| LG Wing (desbloqueado) | ✅ Sí | **Lg wing esim** funciona en modelos desbloqueados de EE.UU. Las versiones bloqueadas por operador pueden tener eSIM deshabilitada. |
-| LG Velvet (desbloqueado) | ✅ Sí | **Lg velvet esim** en unidades desbloqueadas. |
-| LG V60 ThinQ (desbloqueado) | ✅ Sí | **Lg v60 esim** disponible. |
-| Serie LG G (G8, G7, etc.) | ❌ No | Pre‑eSIM. |
-| Serie LG K, serie Stylo | ❌ No | Sin eSIM. |
-| LG bloqueado por operador (Verizon, AT&T, T‑Mobile) | ❌ No | eSIM deshabilitada incluso en Wing/Velvet/V60. |
+Como LG abandonó por completo los teléfonos, todos los teléfonos LG con eSIM son ahora compras de segunda mano. Los modelos que hay que buscar, todos en forma **liberada de fábrica**, son el **LG V60 ThinQ (LM-V600)**, el **LG Velvet (LM-G900)** y el **LG Wing (LM-F100)**. El anterior **LG G8 ThinQ (LM-G820)** y el **V50 ThinQ** también vinieron con eSIM en algunas unidades globales, pero son lo bastante antiguos como para que el soporte sea variable. En 2026 normalmente pagarás **$90–$180** por un Velvet o V60 en buen estado, y un poco más por un Wing. Comprueba dos cosas antes de comprar: que el anuncio muestre un **EID** de 32 dígitos tras marcar `*#06#`, y que el teléfono **no esté bloqueado por el operador** — las unidades LG con marca de operador (especialmente Verizon y AT&T) tuvieron el menú eSIM eliminado.
 
-### Explicación detallada
+## ¿Cuál de Estas Cuatro Comprar para eSIM?
 
-LG salió del mercado de smartphones en 2021, pero algunos de sus últimos modelos tienen compatibilidad eSIM – aunque las restricciones de operador son comunes.
+Si buscas específicamente un teléfono de viaje entre estas cuatro marcas, aquí está la clasificación honesta:
 
-**Modelos con compatibilidad eSIM:**
-- **LG Wing** – El **lg wing esim** está presente en modelos desbloqueados de EE.UU. Las versiones de Verizon y AT&T pueden tenerlo deshabilitado.
-- **LG Velvet** – **Lg velvet esim** funciona en algunas unidades desbloqueadas. Las variantes de operador (T‑Mobile, Verizon) suelen deshabilitar eSIM.
-- **LG V60 ThinQ** – **Lg v60 esim** está disponible en el modelo desbloqueado. De nuevo, las versiones bloqueadas por operador típicamente carecen de eSIM.
+- **La mejor en general:** un **Xiaomi 13 o 14** global. Hardware sólido, eSIM completa y la mejor relación calidad-precio de las cuatro. Solo asegúrate de que el número de modelo termine en `G`.
+- **La mejor si quieres servicios de Google:** un **OnePlus 11 o 12** de segunda mano (global). OxygenOS limpio, eSIM fiable y actualizaciones regulares de Android.
+- **La mejor si ya tienes una:** un **Huawei P40 Pro o Mate 40 Pro** global — pero sabiendo que vivirás sin apps de Google, y la activación se basa en QR.
+- **Apuesta económica / de segunda mano:** un **LG V60 o Velvet** liberado. La forma más barata de entrar, pero compras un teléfono descontinuado sin más actualizaciones.
 
-**Modelos SIN eSIM – y qué puedes hacer en su lugar:**
+Todos estos admiten **eSIM más una SIM física al mismo tiempo** (doble SIM doble espera), así que puedes conservar tu número de casa y añadir una eSIM de viaje encima — el mismo comportamiento que Samsung y Pixel. Para el panorama completo de todas las marcas, consulta la **[lista completa de compatibilidad](/compatibility/)**.
 
-**Serie LG G (G8, G7, G6) y serie V (V50, V40, etc.)** – Estos antiguos insignia de LG (pre‑2020) no tienen hardware eSIM. LG añadió eSIM solo en sus modelos finales (Wing, Velvet, V60). **¿Qué puedes hacer?** Solo SIM física. Si todavía usas un LG G8, es hora de considerar una actualización – LG ya no proporciona actualizaciones de seguridad, y la eSIM no es posible.
+## Otras Marcas Android de un Vistazo
 
-**Serie LG K, serie Stylo** – Sin eSIM. Estas líneas económicas nunca incluyeron eSIM. **¿Qué puedes hacer?** Solo SIM física.
+Más allá de las cuatro marcas analizadas a fondo arriba — y de Samsung, Pixel y Motorola, que tienen sus propias guías dedicadas — varias marcas más pequeñas admiten eSIM en modelos globales seleccionados. Este es el estado en una línea para cada una:
 
-**Teléfonos LG bloqueados por operador** – Incluso en modelos compatibles (Wing, Velvet, V60), Verizon, AT&T y T‑Mobile solían deshabilitar eSIM en sus versiones con marca. **¿Qué puedes hacer?** Si tu teléfono está pagado, solicita un desbloqueo de SIM. Después del desbloqueo, la eSIM puede aparecer – pero no está garantizado porque el operador puede haber eliminado el menú eSIM por completo en el firmware.
+| Marca | Estado de eSIM | Qué modelos |
+|-------|-------------|--------------|
+| **Sony Xperia** | ✅ Sí (global) | Xperia 1 III y posteriores, 5 IV / 5 V, 10 IV / 10 V / 10 VI |
+| **Nokia (HMD)** | ✅ Sí (seleccionados) | XR20, X30, G60, G42, XR21 |
+| **Asus** | ✅ Sí | Zenfone 9 / 10, Zenfone 11 Ultra, ROG Phone 6 / 7 / 8 |
+| **Honor** | ✅ Sí (global) | Magic 5 Pro, Magic 6 Pro, Magic 7 Pro, Magic V2 / V3, Honor 90 / 200 |
+| **Oppo** | ⚠️ Limitado | Find X5 Pro, serie Find X8, Find N3 Flip (solo global) |
+| **Vivo** | ⚠️ Limitado | X90 Pro, X100, X200 (solo global) |
+| **Realme** | ❌ Mayormente no | Casi ningún modelo Realme viene con hardware eSIM |
+| **POCO** | ❌ No | Ningún modelo POCO ha venido jamás con eSIM |
 
-**Nota importante para usuarios de LG:** Dado que LG ya no produce teléfonos, las actualizaciones de software se han detenido. Algunos perfiles eSIM pueden no funcionar correctamente en firmware antiguo. Si tienes un LG, marca `*#06#` – si ves un EID, puedes probar eSIM, pero el éxito no está garantizado. **¿LG tiene esim**? Sí, en Wing, Velvet y V60 – pero solo versiones desbloqueadas.
+La misma regla que gobierna las cuatro marcas principales aplica también a estas: **los números de modelo globales son tu aliado, las unidades con ROM de China no.** Un Sony Xperia 1 IV vendido en Japón, Europa o EE. UU. admite eSIM; un Xperia del mercado chino, o un Oppo o Vivo con ROM de China, puede que no. Estas marcas más pequeñas también se actualizan con menos frecuencia en las bases de datos de compatibilidad, así que `*#06#` es aún más importante aquí — considera la verificación del EID como la palabra final.
 
+Para Samsung, Pixel y Motorola, dirígete a sus guías dedicadas:
 
-## 📱 Compatibilidad eSIM en Sony Xperia
+- **[Guía eSIM de Samsung](/faq/samsung-s20-esim-compatible/)**
+- **[Guía eSIM de Google Pixel](/faq/google-pixel-6-esim-compatible/)**
+- **[Guía eSIM de Motorola](/faq/moto-g-power-esim-compatible/)**
 
-### Tabla de referencia rápida
+## Rutas del Menú de Activación eSIM en Android por Marca
 
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Xperia 1 VI, 1 V, 1 IV (global) | ✅ Sí | **Sony xperia 1 iv esim** funciona en versiones globales desbloqueadas. |
-| Xperia 5 VI, 5 V, 5 IV (global) | ✅ Sí | **Sony xperia 5 iv esim** compatible de forma similar. |
-| Xperia 1 III y anteriores | ❌ No | Pre‑eSIM. |
-| Serie Xperia 10 (todas) | ❌ No | Gama media, sin eSIM. |
-| Versiones de operador japonés (Docomo, au, SoftBank) | ❌ No | eSIM deshabilitada. |
+Una vez que hayas confirmado que tu teléfono admite eSIM, esta es la ruta exacta de Ajustes para añadir una en cada marca. La activación en sí es igual en todas partes — compras un plan, escaneas el código QR, activas la Itinerancia de datos — pero el menú es donde la gente se pierde.
 
-### Explicación detallada
+| Marca | Ruta en Ajustes para "Añadir eSIM" | Interfaz |
+|-------|-----------------------------|----|
+| Xiaomi | Ajustes > Red móvil > Tarjetas SIM > Añadir eSIM | MIUI 13 / HyperOS |
+| OnePlus | Ajustes > Wi-Fi y red > SIM y red > Añadir eSIM | OxygenOS 13 / 14 |
+| Huawei | Ajustes > Red móvil > Gestión de SIM > Añadir eSIM | EMUI 11 / HarmonyOS |
+| LG | Ajustes > Red e Internet > Red móvil > Añadir eSIM | Android 10–12 |
+| Sony | Ajustes > Red e Internet > SIM > Añadir SIM | Android 13+ |
+| Asus | Ajustes > Red e Internet > SIM > Añadir eSIM | Android 13+ |
+| Honor / Oppo / Vivo | Ajustes > Red móvil > eSIM > Añadir eSIM | MagicOS / ColorOS |
+| Samsung | Ajustes > Conexiones > Gestor de tarjeta SIM > Añadir eSIM | One UI 4.0+ → **[Guía de Samsung](/faq/samsung-s20-esim-compatible/)** |
+| Google Pixel | Ajustes > Red e Internet > SIM > Añadir SIM | Android 12+ → **[Guía de Pixel](/faq/google-pixel-6-esim-compatible/)** |
+| Motorola | Ajustes > Red e Internet > SIM > Añadir eSIM | Android 12+ → **[Guía de Moto](/faq/moto-g-power-esim-compatible/)** |
 
-Sony ha ofrecido eSIM en sus insignia Xperia desde la serie 1 IV. La compatibilidad es consistente en modelos globales.
+Si el botón "Añadir eSIM" falta aunque tu modelo lo admita, es un problema de firmware o de región — no algo que un restablecimiento de fábrica arregle. Consulta primero las secciones de marca de arriba para confirmar tu variante.
 
-**Modelos con compatibilidad eSIM:**
-- **Sony Xperia 1 IV** – El **sony xperia 1 iv esim** funciona en versiones globales y desbloqueadas de EE.UU. Las variantes de operador japonés (Docomo, au) pueden tener eSIM deshabilitada.
-- **Sony Xperia 5 IV** – **Sony xperia 5 iv esim** es compatible de forma similar.
-- **Sony Xperia 1 V, 5 V, 1 VI, 5 VI** – Todos son compatibles con eSIM en modelos globales.
+## Trampas Regionales para Estas Cuatro Marcas
 
-**Modelos SIN eSIM – y qué puedes hacer en su lugar:**
+- **China / Hong Kong:** los dispositivos Xiaomi, Huawei y OnePlus de China continental casi nunca tienen eSIM, sin importar el modelo. Las unidades de Hong Kong suelen contar como "globales" y funcionan.
+- **Estados Unidos:** los teléfonos OnePlus y LG con marca de operador frecuentemente tienen la eSIM eliminada, incluso en modelos cuyos gemelos liberados la admiten. Compra liberado de fábrica.
+- **Japón:** las variantes de operador (Docomo, au, SoftBank) a menudo deshabilitan la eSIM. Una unidad global de Amazon EE. UU. o Europa es la apuesta segura.
+- **Europa / Medio Oriente / Sudeste Asiático:** estas regiones obtienen eSIM completa en las versiones globales — la mejor posición posible.
 
-**Xperia 1 III y anteriores (1 II, 1, 5 II, 5, serie 10)** – Estos no tienen hardware eSIM. Sony introdujo eSIM a partir del 1 IV a mediados de 2022. **¿Qué puedes hacer?** Solo SIM física. Si tienes un Xperia 1 III, no puedes añadir eSIM. Considera actualizar a un 1 IV usado si la eSIM es crítica.
+Para una visión completa de qué operadores y regiones admiten eSIM, consulta la **[página de compatibilidad de operadores y regiones](/compatibility/)**.
 
-**Serie Xperia 10 (10 III, 10 IV, 10 V)** – Ninguno de los teléfonos de gama media Xperia 10 tiene eSIM. Sony reserva eSIM para sus series premium 1 y 5. **¿Qué puedes hacer?** Solo SIM física.
+## Qué Hacer Si Tu Teléfono No Tiene eSIM
 
-**Versiones de operador japonés (Docomo, au, SoftBank)** – Incluso en modelos compatibles (1 IV, 5 IV), los operadores japoneses suelen deshabilitar eSIM en el firmware. **¿Qué puedes hacer?** Si compraste tu Xperia en Japón de un operador, la eSIM probablemente esté bloqueada. Puedes intentar solicitar un desbloqueo, pero el éxito es raro. La única forma fiable es comprar una versión global (ej. de Amazon EE.UU. o Europa).
+Si `*#06#` no muestra un EID, tu teléfono no puede usar eSIM. Tus opciones: usar una SIM de viaje física (proveedores como Roami también envían SIM físicas), comprar una SIM local en tu destino, actualizar a un teléfono de segunda mano con capacidad eSIM (un Pixel 6a o más nuevo es el favorito económico), o usar un hotspot eSIM portátil como GlocalMe.
 
-Si te preguntas **"sony tiene esim"** para el 1 IV o posteriores, la respuesta es sí para unidades globales desbloqueadas.
+¿Todavía estás decidiendo entre eSIM y una SIM física para tu viaje? Consulta nuestra **[comparación de eSIM vs SIM física](/faq/what-is-esim/)**.
 
+## Activar eSIM en Estos Teléfonos
 
-## 📱 Compatibilidad eSIM en Nokia
+Una vez confirmado el soporte, la activación es igual en todas las marcas: compra un plan (empieza con una **[eSIM de prueba gratuita de Roami](/free-esim/)**), abre el menú eSIM en Ajustes, escanea el código QR y activa la Itinerancia de datos. La ruta exacta del menú varía — Xiaomi usa **Ajustes > Red móvil > Tarjetas SIM > Añadir eSIM**, OnePlus usa **Ajustes > Wi-Fi y red > SIM y red > Añadir eSIM**, y Huawei y LG usan ambas una ruta de **Red móvil > eSIM / Añadir eSIM**.
 
-### Tabla de referencia rápida
+Para el recorrido completo paso a paso (QR, entrada manual y app del operador), consulta nuestra **[guía de cómo activar una eSIM](/faq/how-to-activate-an-esim/)**. Si algo falla, nuestra **[guía de solución de problemas de eSIM](/faq/esim-deep-troubleshooting-guide-2026/)** cubre 16 casos reales.
 
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Nokia X30 (global) | ✅ Sí | **Nokia x30 esim** funciona en versiones globales. |
-| Nokia G60 (regiones seleccionadas) | ⚠️ Limitada | Solo modelos europeos. Las versiones de EE.UU. carecen de eSIM. |
-| Serie Nokia G (G10–G50, G42) | ❌ No | Sin eSIM. |
-| Serie Nokia C | ❌ No | Sin eSIM. |
-| Serie Nokia XR (XR20, XR21) | ❌ No | Sorprendentemente, sin eSIM. |
-| Nokia antiguos (serie 1–8) | ❌ No | Pre‑eSIM. |
+## Preguntas Frecuentes
 
-### Explicación detallada
+**¿Xiaomi admite eSIM?**
+Solo en insignias globales seleccionadas — el Xiaomi 12, 13, 14 y 13T Pro. Los teléfonos Xiaomi con ROM de China y todos los modelos Redmi y POCO no.
 
-**Modelos con eSIM:**
-- **Nokia X30** – El **nokia x30 esim** funciona en versiones globales. Es uno de los pocos Nokia con eSIM.
-- **Nokia G60** – **Nokia g60 esim** es compatible en algunos modelos regionales (Europa). Las versiones de EE.UU. pueden carecer de él.
+**¿Redmi o POCO admiten eSIM?**
+No. Ningún teléfono Redmi o POCO ha venido jamás con hardware eSIM, incluidas las líneas Redmi Note 13/14 y POCO F6/X6.
 
-**Modelos SIN eSIM – qué hacer:**
-- **Serie Nokia G (G10, G20, G21, G22, G42, G50)** – Sin eSIM. Estos teléfonos económicos usan solo SIM física. **¿Qué puedes hacer?** Usa una SIM física de viaje. Si quieres eSIM, busca un Nokia X30 usado.
-- **Serie Nokia C (C10, C20, C30, etc.)** – Sin eSIM. Teléfonos de nivel básico.
-- **Serie Nokia XR (XR20, XR21)** – Teléfonos resistentes, pero sin eSIM (sorprendentemente). **¿Qué puedes hacer?** Solo SIM física.
-- **Nokia antiguos (serie 1–8)** – Sin eSIM. Son de la era pre‑eSIM.
+**¿OnePlus admite eSIM?**
+Sí, en los modelos OnePlus 11, 12 y 13 globales/liberados (y algunas unidades europeas del 10 Pro). La línea Nord, la serie 9 y anteriores, y los modelos con marca T-Mobile no.
 
-**¿Nokia tiene esim**? Solo el X30 y G60 (regiones seleccionadas). Siempre comprueba con `*#06#`.
+**¿Huawei admite eSIM?**
+Los modelos globales P40/P50 y Mate 40 sí. Los modelos de China continental, el P30 y anteriores, y las líneas Nova y Y no.
 
+**¿LG admite eSIM?**
+Solo el Wing, Velvet y V60 ThinQ liberados de fábrica (más algunas unidades globales del G8/V50). LG dejó el negocio de los teléfonos en 2021.
 
-## 📱 Compatibilidad eSIM en Asus
+**¿Sony admite eSIM?**
+Sí — los modelos Xperia globales recientes (Xperia 1 III y posteriores, además del 5 IV y 10 IV en adelante) incluyen eSIM.
 
-### Tabla de referencia rápida
+**¿Nokia admite eSIM?**
+Los modelos HMD Nokia seleccionados sí — el XR20, X30, G60, G42 y XR21. La mayoría de los Nokia económicos no.
 
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Zenfone 11, 10, 9 (global) | ✅ Sí | **Asus zenfone esim** funciona en versiones globales desbloqueadas. |
-| ROG Phone 8, 9 (global) | ✅ Sí | **Asus rog phone esim** disponible en modelos globales. |
-| ROG Phone 7, 6 (selectos) | ⚠️ Limitada | Algunas versiones tienen eSIM; prueba con `*#06#`. |
-| Zenfone 8 y anteriores | ❌ No | Pre‑eSIM. |
-| ROG Phone 5 y anteriores | ❌ No | Sin eSIM. |
-| Asus bloqueado por operador (EE.UU.) | ❌ No | eSIM deshabilitada. |
+**¿Asus, Honor, Oppo o Vivo admiten eSIM?**
+Asus (Zenfone 9/10/11, ROG Phone 6+), Honor (Magic 5 Pro y posteriores) y algunas insignias globales de Oppo y Vivo sí — siempre verifica primero el número de modelo global.
 
-### Explicación detallada
+**¿Mi Samsung, Pixel o Motorola admite eSIM?**
+Esas marcas tienen sus propias guías dedicadas — consulta los enlaces de Samsung, Pixel y Motorola cerca del inicio de esta página.
 
-**Modelos con eSIM:**
-- **Asus Zenfone 9, 10, 11** – El **asus zenfone esim** funciona en modelos globales. Las versiones de EE.UU. pueden tener eSIM deshabilitada.
-- **Asus ROG Phone 6, 7, 8, 9** – **Asus rog phone esim** está disponible en algunos modelos, pero no en todos. Comprueba con `*#06#`.
+**¿Cómo confirmo que mi teléfono exacto admite eSIM?**
+Encuentra tu número de modelo en Ajustes > Acerca del teléfono, luego marca `*#06#` y busca un EID de 32 dígitos. Sin EID no hay eSIM, punto.
 
-**Modelos SIN eSIM – qué hacer:**
-- **Zenfone 8 y anteriores (Zenfone 8, 7, 6)** – Sin eSIM. Asus añadió eSIM a partir del Zenfone 9. **¿Qué puedes hacer?** Solo SIM física. Si quieres eSIM, actualiza a un Zenfone 9 usado.
-- **ROG Phone 5 y anteriores** – Sin eSIM.
-- **Modelos económicos de Asus (serie Max, etc.)** – Sin eSIM.
-- **Asus bloqueado por operador (ej. AT&T Zenfone)** – Incluso si la versión global tiene eSIM, las versiones de operador pueden deshabilitarla. **¿Qué puedes hacer?** Solicita un desbloqueo, pero no hay garantía.
+**¿Por qué mi teléfono tiene eSIM en un país pero no en otro?**
+Los fabricantes envían firmware específico por región que puede deshabilitar la eSIM incluso cuando el hardware existe. Las unidades con ROM de China y algunas de operadores de EE. UU. son los culpables habituales.
 
-**¿Asus tiene esim**? Sí en Zenfone recientes y algunos modelos ROG – pero depende de la región.
+**¿Puedo usar una eSIM y una SIM física al mismo tiempo en estas marcas?**
+Sí. Los teléfonos Xiaomi, OnePlus, Huawei y LG que admiten eSIM funcionan con doble SIM doble espera, así que puedes conservar tu SIM física de casa y añadir una eSIM de viaje para datos.
 
+**¿Cuántos perfiles eSIM puedo almacenar?**
+Varía según la marca, pero la mayoría puede almacenar varios perfiles y mantener uno o dos activos a la vez. Puedes instalar una eSIM de Roami junto a tu línea de casa y cambiar cuál está activa en Ajustes.
 
-## 📱 Compatibilidad eSIM en Honor
+**¿Por qué mi Xiaomi 14 comprado en China no muestra la opción de eSIM?**
+Es una unidad con ROM de China (número de modelo que termina en `C`). El hardware existe pero Xiaomi deshabilita la eSIM en el firmware de China. Usa una SIM física o compra la versión global.
 
-### Tabla de referencia rápida
+## Prueba Tu Teléfono con una eSIM Gratis
 
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Honor 90, 80, 70, 60, 50 (global) | ✅ Sí | **Honor 50 esim** y posteriores funcionan en versiones globales. |
-| Serie Honor Magic (global) | ✅ Sí | **Honor magic esim** compatible. |
-| Honor 40 y anteriores | ❌ No | Pre‑eSIM. |
-| Serie Honor X (X7–X9) | ❌ No | Sin eSIM. |
-| Honor doméstico de China | ❌ No | eSIM deshabilitada. |
+La única forma de estar 100 % seguro es probarlo. Instala una **eSIM de prueba gratuita de Roami** — toma 2 minutos, no cuesta nada y funciona en cualquier teléfono con capacidad eSIM.
 
-### Explicación detallada
+👉 [**Consigue tu eSIM gratis de Roami ahora**](/free-esim/)
 
-**Modelos con eSIM:**
-- **Honor 50, 60, 70, 80, 90, serie Magic** – **Honor 50 esim** y **honor magic esim** son compatibles en versiones globales. Las versiones chinas carecen de eSIM.
+---
 
-**Modelos SIN eSIM – qué hacer:**
-- **Honor 40 y anteriores (Honor 20, 30, etc.)** – Sin eSIM. Se lanzaron antes de que Honor añadiera eSIM. **¿Qué puedes hacer?** Solo SIM física.
-- **Serie Honor X (X7, X8, X9)** – Sin eSIM. Gama media, sin hardware eSIM.
-- **Modelos chinos domésticos de Honor** – Incluso para modelos que tienen eSIM globalmente, la versión china a menudo carece de ella. **¿Qué puedes hacer?** Comprueba `*#06#`. Si no hay EID, usa SIM física.
+*Basado en la documentación de los fabricantes, los estándares de la GSMA, . Actualizado: septiembre de 2026.*
 
-**¿Honor tiene esim**? Sí en modelos globales recientes (serie 50 y posteriores). Comprueba con `*#06#`.
+## Fuentes
 
-
-## 📱 Compatibilidad eSIM en Realme
-
-### Tabla de referencia rápida
-
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Realme GT 2 Pro (global) | ✅ Sí | **Realme gt esim** disponible en GT 2 Pro global. |
-| Realme GT 3 (global) | ✅ Sí | Algunas unidades son compatibles con eSIM. |
-| Serie Realme GT Neo | ❌ No | Sin eSIM a pesar del nombre. |
-| Serie Realme numerada (8–13) | ❌ No | Gama media, sin eSIM. |
-| Serie Realme C / Narzo | ❌ No | Económicos, sin eSIM. |
-
-### Explicación detallada
-
-**Modelos con eSIM:**
-- **Serie Realme GT** – **Realme gt esim** está disponible en el Realme GT 2 Pro y GT 3 (versiones globales).
-
-**Modelos SIN eSIM – qué hacer:**
-- **Serie Realme numerada (Realme 8, 9, 10, 11, 12, 13)** – Sin eSIM. Estos teléfonos de gama media carecen de hardware eSIM. **¿Qué puedes hacer?** Solo SIM física.
-- **Serie Realme C, serie Narzo** – Sin eSIM. Líneas económicas.
-- **Serie Realme GT Neo** – Sin eSIM (confusamente, el "GT Neo" no tiene eSIM aunque el GT normal sí). **¿Qué puedes hacer?** Comprueba `*#06#` para estar seguro, pero probablemente no.
-
-**¿Realme tiene esim**? Solo en algunos GT insignia. Muy limitado.
-
-
-## 📱 Compatibilidad eSIM en Oppo
-
-### Tabla de referencia rápida
-
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Oppo Find X8, X7, X6, X5 (global) | ✅ Sí | **Oppo find x5 esim** funciona en versiones globales. |
-| Serie Oppo Reno | ❌ No | Sin eSIM. |
-| Serie Oppo A / F | ❌ No | Sin eSIM. |
-| Oppo doméstico de China | ❌ No | eSIM deshabilitada. |
-
-### Explicación detallada
-
-**Modelos con eSIM:**
-- **Oppo Find X5, X6, X7, X8** – **Oppo find x5 esim** funciona en versiones globales. Los modelos chinos domésticos carecen de eSIM.
-
-**Modelos SIN eSIM – qué hacer:**
-- **Serie Oppo Reno (Reno 8, 9, 10, 11)** – Sin eSIM. Oppo reserva eSIM para la línea insignia Find X. **¿Qué puedes hacer?** Solo SIM física.
-- **Serie Oppo A, serie F** – Sin eSIM. Económicos y gama media.
-- **Oppo doméstico de China** – Incluso los modelos Find X vendidos en China suelen tener eSIM deshabilitada. **¿Qué puedes hacer?** Compra la versión global (ej. de Hong Kong o Europa).
-
-**¿Oppo tiene esim**? Solo en modelos insignia de la serie Find X global.
-
-
-## 📱 Compatibilidad eSIM en Vivo
-
-### Tabla de referencia rápida
-
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Vivo X200 Ultra (global) | ✅ Esperado | **Vivo x200 ultra esim** probablemente compatible. |
-| Vivo X100 / X100 Pro (global) | ✅ Sí | **Vivo x100 esim** funciona en versiones globales. |
-| Vivo X90, X80, X70 | ❌ No | Pre‑eSIM. |
-| Serie Vivo V / Y / T | ❌ No | Gama media y económica, sin eSIM. |
-| Vivo doméstico de China | ❌ No | eSIM deshabilitada. |
-
-### Explicación detallada
-
-**Modelos con eSIM:**
-- **Vivo X100, X100 Pro** – **Vivo x100 esim** funciona en versiones globales.
-- **Vivo X200 Ultra** – Se espera que **Vivo x200 ultra esim** sea compatible con eSIM.
-
-**Modelos SIN eSIM – qué hacer:**
-- **Vivo X90, X80, X70** – Sin eSIM en la mayoría de los modelos. Solo a partir del X100 Vivo añadió eSIM a unidades globales. **¿Qué puedes hacer?** Solo SIM física. Actualiza a X100 si necesitas eSIM.
-- **Serie Vivo V, serie Y, serie T** – Sin eSIM. Son líneas de gama media y económica.
-- **Vivo doméstico de China** – Incluso la versión china del X100 puede carecer de eSIM. **¿Qué puedes hacer?** Compra versión global.
-
-**¿Vivo tiene esim**? Solo en insignia X series globales recientes.
-
-
-## 📱 Compatibilidad eSIM en iQOO
-
-### Tabla de referencia rápida
-
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| iQOO 13 (global) | ✅ Esperado | Probablemente compatible con eSIM. |
-| iQOO 12 (global) | ✅ Sí | **Iqoo 12 esim** funciona en versiones globales. |
-| iQOO 11 y anteriores | ❌ No | Sin eSIM. |
-| Serie iQOO Neo | ❌ No | Sin eSIM. |
-| iQOO doméstico de China | ❌ No | eSIM deshabilitada. |
-
-### Explicación detallada
-
-**Modelos con eSIM:**
-- **iQOO 12** – **Iqoo 12 esim** funciona en versiones globales. Las versiones chinas carecen de eSIM.
-- **iQOO 13** – se espera compatibilidad eSIM en modelos globales.
-
-**Modelos SIN eSIM – qué hacer:**
-- **iQOO 11, 10, 9 y anteriores** – Sin eSIM. iQOO añadió eSIM a partir del 12. **¿Qué puedes hacer?** Solo SIM física.
-- **Serie iQOO Neo, serie Z** – Sin eSIM. Son sublíneas orientadas a presupuesto.
-
-**¿iQOO tiene esim**? Sí en iQOO 12 global y posteriores.
-
-
-## 📱 Compatibilidad eSIM en Poco
-
-### Tabla de referencia rápida
-
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Todos los modelos Poco (series F, X, M) | ❌ No | Sin eSIM en ningún teléfono Poco. |
-
-### Explicación detallada
-
-Poco es la marca económica de Xiaomi para juegos. Para mantener los precios bajos, omiten el hardware eSIM. **¿Poco tiene esim**? Casi nunca. **¿Poco f5 esim**? Generalmente no. **¿Poco x7 pro esim**? Tampoco.
-
-**¿Qué puedes hacer?** Usa una SIM física. Si quieres eSIM, cambia a otra marca (Google Pixel, Samsung o OnePlus).
-
-
-## 📱 Compatibilidad eSIM en Infinix, Tecno, itel
-
-### Tabla de referencia rápida
-
-| Marca | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| Infinix (todos los modelos) | ❌ No | Sin eSIM en ningún teléfono Infinix. |
-| Tecno (todos los modelos) | ❌ No | Sin eSIM en ningún teléfono Tecno. |
-| itel (todos los modelos) | ❌ No | Sin eSIM en ningún teléfono itel. |
-
-### Explicación detallada
-
-Estas marcas (grupo Transsion) se centran en teléfonos económicos para mercados emergentes. No incluyen hardware eSIM en ningún dispositivo – ni siquiera en sus insignia.
-
-**¿Qué puedes hacer?** Solo SIM física. Aun así puedes usar una SIM física de viaje o comprar una SIM local en tu destino. Si la eSIM es esencial, necesitas otro teléfono.
-
-
-## 📱 BlackBerry y Palm (discontinuados / nicho)
-
-### Tabla de referencia rápida
-
-| Modelo | Compatibilidad eSIM | Notas |
-|-------|---------------------|-------|
-| BlackBerry Key2 (ciertas variantes) | ⚠️ Rara | **Blackberry key2 esim** existe en algunas unidades BBF100‑6, pero el teléfono funciona con Android 8 – obsoleto. |
-| Otros BlackBerry | ❌ No | Sin eSIM. |
-| Palm Phone (solo Verizon) | ⚠️ Limitada | **Palm phone esim** funciona solo en Verizon. No para eSIM de viaje. |
-
-### Explicación detallada
-
-Estos dispositivos no se recomiendan para eSIM de viaje. Incluso si la eSIM está presente, el software obsoleto puede no funcionar con perfiles eSIM modernos. Usa una SIM física o actualiza a un teléfono más nuevo.
-
-
-## 📊 Referencia rápida: Marcas que son compatibles con eSIM de forma fiable
-
-| Marca | Modelos eSIM fiables |
-|-------|----------------------|
-| **Motorola** | Serie Razr, Edge (global desbloqueado) |
-| **OnePlus** | 11, 12, 13 (global desbloqueado) |
-| **Xiaomi** | 13, 14, 13T Pro (versiones globales) |
-| **Huawei** | P40, P50, Mate 40 (versiones globales) |
-| **LG** | Wing, Velvet, V60 (solo desbloqueados – discontinuado) |
-| **Sony** | Xperia 1 IV, 1 V, 1 VI, 5 IV, 5 V, 5 VI (global) |
-| **Nokia** | X30 (global), G60 (solo Europa) |
-| **Asus** | Zenfone 9/10/11, ROG Phone 8/9 (global) |
-| **Honor** | 50, 60, 70, 80, 90, Magic (global) |
-| **Realme** | GT 2 Pro, GT 3 (limitado) |
-| **Oppo** | Find X5, X6, X7, X8 (global) |
-| **Vivo** | X100, X200 Ultra (global) |
-| **iQOO** | 12, 13 (global) |
-| **Poco** | Ninguno |
-| **Infinix/Tecno/itel** | Ninguno |
-
-> Esta tabla incluye las marcas más relevantes. Para una visión más detallada de modelos específicos de Samsung y Google Pixel, consulta nuestras guías dedicadas de [compatibilidad eSIM en Samsung Galaxy](/faq/samsung-s20-esim-compatible/) y [compatibilidad eSIM en Google Pixel](/faq/google-pixel-6-esim-compatible/). Para una [lista completa de teléfonos compatibles con eSIM](/compatibility/), incluyendo todas las marcas y modelos disponibles, visita nuestra guía maestra. También puedes consultar listados oficiales de operadores como [Vodafone UK](https://www.vodafone.co.uk/sim-only/esim/esim-compatible-phones) para verificar modelos específicos[reference:13].
-
-
-## 🛠️ ¿Qué hacer si tu Android no tiene eSIM?
-
-Si marcaste `*#06#` y no viste EID, tu teléfono no puede usar eSIM. Pero no todo está perdido. Aquí tienes varias alternativas:
-
-1. **Usa una tarjeta SIM física de viaje** – Muchos proveedores de eSIM también ofrecen SIM físicas enviadas a tu domicilio. Tardan más en llegar pero funcionan en cualquier teléfono, independientemente de si es **móvil compatible con eSIM** o no.
-
-2. **Compra una SIM física local en tu destino** – Casi todos los países venden tarjetas SIM prepago en aeropuertos o tiendas de conveniencia. Puede ser una opción más económica que una **eSIM barata** si no necesitas activación inmediata.
-
-3. **Actualiza a un teléfono más nuevo** – Considera un Google Pixel 6a o posterior (compatibilidad total con eSIM), un Samsung Galaxy S21 o posterior, o uno de los modelos compatibles con eSIM listados en las tablas anteriores. Los precios de segunda mano suelen estar por debajo de $200.
-
-4. **Usa un punto de acceso eSIM portátil** – Dispositivos como GlocalMe o Numen Air crean una red Wi‑Fi usando una eSIM. Tu teléfono se conecta vía Wi‑Fi, por lo que no necesita eSIM propia. Esta es una solución práctica si viajas con un **móvil sin eSIM** pero quieres disfrutar de los beneficios de esta tecnología.
-
-
-## 📲 Cómo activar eSIM en teléfonos Android compatibles
-
-Si tu teléfono superó la prueba de `*#06#` y aparece un EID, puedes **instalar eSIM** sin problemas. El proceso es similar en todas las marcas:
-
-1. **Compra un plan eSIM** – Antes de viajar, adquiere un plan de datos. Puedes empezar con una [prueba gratuita de Roami eSIM](/free-esim/) para verificar que todo funciona correctamente.
-
-2. **Accede a la configuración de red:** Ve a **Ajustes > Red e Internet > Red móvil > Añadir operador**. El texto exacto varía según la marca:
-   - **Motorola:** Ajustes > Red e Internet > Red móvil > Avanzado > Operador > Añadir eSIM
-   - **OnePlus:** Ajustes > Wi‑Fi y red > SIM y red > Añadir eSIM
-   - **Xiaomi (global):** Ajustes > Red móvil > Tarjetas SIM > Añadir eSIM
-   - **Huawei:** Ajustes > Red móvil > eSIM > Añadir perfil eSIM
-   - **Sony:** Ajustes > Red e Internet > Red móvil > Avanzado > Operador > Añadir eSIM
-
-3. **Escanea el código QR** proporcionado por tu proveedor de eSIM.
-
-4. Sigue las indicaciones para descargar el perfil. Es un proceso que lleva menos de 2 minutos.
-
-5. Cuando viajes, activa **Roaming de datos** para la línea eSIM. Así te aseguras de que el teléfono se conecte a las torres locales.
-
-Para más detalles sobre **cómo activar eSIM** paso a paso, consulta nuestra [guía de activación](/faq/how-to-activate-an-esim/).
-
-
-## ❓ Preguntas frecuentes
-
-**P1: ¿Qué es una eSIM y cómo funciona en Android?**
-R: Una eSIM (SIM integrada) es un chip digital soldado a la placa base del teléfono. **¿Cómo funciona una eSIM?** El proceso es sencillo: compras un plan online, escaneas un código QR o usas una aplicación, y el perfil de red se descarga automáticamente en tu dispositivo. La tecnología está basada en el estándar GSMA SGP.22, que define el aprovisionamiento remoto de perfiles[reference:14][reference:15]. No necesitas insertar ni cambiar ninguna tarjeta física.
-
-**P2: ¿Cuál es la diferencia entre SIM y eSIM?**
-R: La **diferencia entre SIM y eSIM** es fundamental: la SIM tradicional es una tarjeta física que puedes extraer y perder, mientras que la eSIM es digital y está integrada en el hardware. La eSIM es más segura, más flexible y te permite cambiar de operador sin cambiar de tarjeta. Desde Android 13, los dispositivos compatibles con MEP (Multiple Enabled Profiles) pueden tener dos eSIM activas simultáneamente, una funcionalidad definida en la especificación GSMA SGP.22 V3.1[reference:16].
-
-**P3: ¿Puedo usar eSIM en cualquier país o necesito una específica para cada destino?**
-R: La eSIM en sí es compatible con redes internacionales, pero necesitas un plan de datos específico para el país o región que visitas. Por ejemplo, si viajas a USA eSIM, necesitarás un plan para ese destino; lo mismo aplica para España, México o cualquier otro país. En [nuestra tienda](/plans/) encontrarás planes por destino y regiones completas, sin necesidad de contratos ni trámites complicados.
-
-**P4: ¿Qué móviles Android tienen eSIM?**
-R: La mayoría de los gama alta lanzados desde 2021, como la serie Samsung Galaxy S21 y posteriores, Google Pixel 4 y modelos más recientes, OnePlus 11, 12 y 13, Xiaomi 13 y 14 en sus versiones globales, Motorola Razr y Edge, y Sony Xperia 1 IV en adelante. Consulta las tablas completas por marca en esta guía para confirmar tu modelo específico. Si tienes un Samsung o Google Pixel, también puedes consultar nuestras guías dedicadas de [compatibilidad Samsung Galaxy](/faq/samsung-s20-esim-compatible/) y [compatibilidad Google Pixel](/faq/google-pixel-6-esim-compatible/).
-
-**P5: ¿Necesito un plan especial para usar eSIM o vale cualquier tarjeta prepago?**
-R: Las eSIM funcionan con planes de datos específicos para este formato. Muchos viajeros optan por **eSIM prepago** para evitar contratos y pagar solo lo que usan. Existen planes desde $1.99 para estancias cortas, y algunos ofrecen **eSIM datos ilimitados** para viajes largos. Consulta las opciones en [nuestros planes](/plans/).
-
-**P6: ¿Es seguro usar eSIM para viajar?**
-R: Sí. Las eSIM siguen los estándares de seguridad de la GSMA, la misma organización que regula las SIM tradicionales[reference:17]. Además, al no ser una tarjeta física, no se puede extraviar ni clonar fácilmente.
-
-**P7: ¿Puedo tener varias eSIM en un mismo teléfono?**
-R: Sí. La mayoría de los **móviles compatibles con eSIM** pueden almacenar múltiples perfiles (normalmente entre 5 y 10). En dispositivos con Android 13 o superior que soporten MEP (Multiple Enabled Profiles), puedes tener dos eSIM activas simultáneamente, conectándote a dos operadores diferentes al mismo tiempo. Esta funcionalidad está definida en la especificación GSMA SGP.22 V3.1[reference:19].
-
-**P8: ¿Puedo usar eSIM en un Apple Watch o iPad?**
-R: Sí, pero requiere modelos específicos con conectividad celular. Si te interesa esta opción, consulta nuestra [guía completa de eSIM en iPad y Apple Watch](/faq/ipad-apple-watch-esim-support-guide/), donde encontrarás todos los detalles sobre compatibilidad y activación.
-
-
-## 🆓 Prueba tu Android con una eSIM gratuita
-
-La única forma de estar 100% seguro de que tu **movil compatible con eSIM** funciona correctamente es probarlo. Instala una **eSIM de prueba gratuita** – tarda 2 minutos, no cuesta nada y funciona en cualquier Android con eSIM.
-
-👉 [**Consigue tu eSIM Roami gratis ahora**](/free-esim/)
+- [GSMA — especificación eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Google Soporte — eSIM de Android](https://support.google.com/android/answer/11241215)
+- [OnePlus Soporte — configuración eSIM](https://www.oneplus.com/support)
+- [Xiaomi Soporte — eSIM en modelos globales](https://www.mi.com/global/support/)

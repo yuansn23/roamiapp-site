@@ -1,21 +1,23 @@
 ---
-title: "iPhone SE eSIM Destekliyor mu? Tam Kılavuz (Güncel)"
-h1_title: "iPhone SE eSIM Destekliyor mu? Tam Bir Kılavuz (Güncellendi)"
-description: "iPhone SE (2020/2022) eSIM'i destekler – orijinal 2016 SE desteklemez. *#06# ile doğrulayın. Büyük operatörler ve küresel eSIM sağlayıcılarıyla çalışır."
-keywords: ["iphone se esim uyumlu", "iphone se 2020 esim uyumlu", "iphone se 2. nesil esim", "iphone se 3. nesil esim", "iphone se 2. nesil esim uyumlu", "airalo uyumlu telefonlar", "visible esim uyumlu telefonlar", "verizon esim uyumluluğu", "us mobile esim uyumlu cihazlar", "holafly uyumlu telefonlar", "jio esim uyumlu telefonlar", "çift sim uyumlu", "esim destekleyen iphone'lar listesi", "esim yetenekli iphone'lar", "iphone esim uyumlu", "esim iphone uyumluluğu", "iphone 6s esim uyumlu", "iphone 7 esim uyumlu", "iphone 8 esim uyumlu", "iphone se esim ile uyumlu", "iphone se'de esim var mı", "iphone se 3. nesil esim desteği", "iphone se 2020 esim yetenekli", "esim iphone se 2020"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
-tags: ["iPhone", "eSIM", "Uyumluluk", "iPhone SE"]
+title: "iPhone SE eSIM Destekliyor mu? Eksiksiz Rehber (Güncelleme)"
+h1_title: "iPhone SE eSIM Destekliyor mu? Eksiksiz Bir Rehber (Güncellendi)"
+description: "iPhone SE (2020/2022) eSIM destekler – orijinal 2016 SE desteklemez. *#06# ile doğrulayın. Büyük operatörler ve global eSIM sağlayıcılarıyla çalışır."
+image: "/img/faq/iphone-se-esim.webp"
+image-1: "/img/faq/iphone-se-esim-1.jpg"
+keywords: ["iphone se esim", "iphone se esim uyumlu", "iphone se'de esim var mı", "iphone se 2020 esim", "iphone se 3. nesil esim", "esim destekli iphone'lar", "iphone se çift sim", "esim destekleyen iphone listesi", "iphone se esim kurulumu", "esim iphone se", "iphone se esim çalışmıyor", "iphone se operatör kilidi açma"]
+date: 2026-09-24T00:00:00Z
+lastmod: 2026-09-24T00:00:00Z
+tags: ["iPhone", "eSIM", "Compatibility", "iPhone SE"]
 toc: true
 
-# Site & SEO Temel Sabit Yapılandırması
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI Metin Çevirileri / Sabit Yapılandırma (Çoklu Dil Desteği)
+# UI text translations
 ui_text:
-  updated_on: "Güncellenme Tarihi"
+  updated_on: "Güncellenme tarihi"
   min_read: "dk okuma"
   toc: "İçindekiler"
 
@@ -27,51 +29,50 @@ breadcrumbs:
     text: "eSIM Uyumluluğu"
     url: "/compatibility/"
 
-# Sağ Taraf: Popüler eSIM Yapılandırması (6 ülke, 1.99 USD)
 # Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popüler eSIM'ler"
   item_suffix: "eSIM"
   items:
-    - name: "ABD eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Almanya eSIM"
+    - name: "Germany eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Avrupa eSIM"
+    - name: "Europe eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Türkiye eSIM"
+    - name: "Turkey eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japonya eSIM"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Çin eSIM"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Sağ Taraf: Ücretsiz eSIM Yapılandırması (4 ülke)
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Ücretsiz eSIM Alın"
+  title: "Ücretsiz eSIM Talep Et"
   icon: "🎁"
   item_suffix: "Ücretsiz eSIM"
   item_subtitle: "Ücretsiz eSIM"
   items:
-    - name: "Birleşik Krallık eSIM"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Almanya"
@@ -84,247 +85,292 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sağ Taraf: Popüler Sorular Yapılandırması (5 soru)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popüler Sorular"
   items:
     - question: "eSIM etkinleştirme nedir ve nasıl çalışır?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "eSIM nasıl etkinleştirilir?"
-      url: "/faq/how-to-activate-an-esim//"
-    - question: "iPhone'da (Tüm Modeller) eSIM nasıl etkinleştirilir?"
+      url: "/faq/how-to-activate-an-esim/"
+    - question: "iPhone'da eSIM nasıl etkinleştirilir (Tüm Modeller)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "En Güncel eSIM Uyumluluk Listesi"
+    - question: "Güncel eSIM Uyumluluk Listesi"
       url: "/compatibility/"
 ---
 
 
-## iPhone SE eSIM Destekliyor mu? Hızlı Cevap
+> **Editör Notu:** iPhone SE 2. ve 3. nesil eSIM destekler; orijinal 2016 SE desteklemez. Aşağıdaki cevap, özellik sayfalarından değil gerçek cihazlardan ve Apple dokümantasyonundan gelir ve Eylül 2026 için güncellenmiştir. Hangi SE modellerinin çalıştığını tam olarak görmek için aşağıda neslinizi kontrol edin.
 
-**Evet – iPhone SE (2. nesil, 2020) ve iPhone SE (3. nesil, 2022) her ikisi de eSIM'i destekler.**
+iPhone SE, 2020 ve 2022 modellerinde eSIM destekler, orijinal 2016 sürümünde desteklemez — ve her neslin anakara Çin üniteleri eSIM'sizdir. Hızlı bir *#06# tuşlaması çözer: 32 haneli bir EID "evet" demektir. Nesil nesil ayrıntılar, kurulum adımları ve operatör kilidi kontrollerinin tümü aşağıdadır.
 
-**Hayır – orijinal iPhone SE (1. nesil, 2016) eSIM'i DESTEKLEMEZ.**
 
-Yani **"iphone se'de esim var mı"** diye soruyorsanız – cevap tamamen hangi nesile sahip olduğunuza bağlıdır.
+## iPhone SE eSIM Destekliyor mu?
 
-İşte 10 saniyede bilmeniz gerekenler:
+**Tamamen nesle bağlıdır.**
 
-1. **Neslinizi kontrol edin:** Kulaklık girişi olan küçük SE (2016) varsa eSIM kullanamazsınız. Kulaklık girişi olmayan büyük SE (2020 veya 2022) varsa, iyisiniz.
-2. ***#06# ile doğrulayın:** Bu kodu tuşlayın. 32 haneli bir EID görünüyorsa, telefonunuz eSIM'e hazırdır.
-3. **Dakikalar içinde etkinleştirin:** Seyahatinizden önce herhangi bir sağlayıcıdan bir QR kodu tarayın.
+- **iPhone SE (1. nesil, 2016)** — ❌ **Hayır.** eSIM donanımı yok; yalnızca fiziksel SIM.
+- **iPhone SE (2. nesil, 2020)** — ✅ **Evet.** iPhone 11 ile aynı tam eSIM desteği.
+- **iPhone SE (3. nesil, 2022)** — ✅ **Evet.** Tam eSIM desteği, artı 5G.
 
-iPhone SE (2020) ve (2022), iPhone 11/12 ile aynı eSIM donanımını kullanır – hiçbir ödün yoktur. **iphone se 2020 esim yetenekli** özelliği iPhone 11 ile aynıdır ve **iphone se 3. nesil esim desteği**, eSIM'in yanı sıra 5G bağlantısını da içerir.
+Yani soru "SE eSIM yapar mı" değil — elinizdeki SE'nin *hangisi* olduğudur. 2020 ve 2022 modellerinin ikisi de çalışır; 2016 modeli asla çalışmayacaktır. Anakara Çin'de satılan her model de nesilden bağımsız olarak eSIM'sizdir.
 
-Markalar arasındaki tüm eSIM uyumlu cihazların tam listesi için [tam uyumluluk kılavuzumuza](/compatibility/) bakın. eSIM'e yeniyseniz, [eSIM Nedir? kılavuzumuz](/faq/what-is-esim/) temel bilgileri kapsar.
 
+## Hangi iPhone SE'ye Sahipsiniz?
 
-## Nesile Göre iPhone SE eSIM Uyumluluğu
+En hızlı ipucu fizikseldir:
 
-| Model | Yıl | eSIM Desteği | Çift SIM | Notlar |
-|-------|------|--------------|----------|-------|
-| iPhone SE (1. nesil) | 2016 | ❌ Hayır | Hayır | A1723, A1662, A1724 modelleri – eSIM donanımı yok |
-| iPhone SE (2. nesil) | 2020 | ✅ Evet | Evet (nano‑SIM + eSIM) | Modeller: A2275 (küresel), A2296 (ABD), A2298 (Japonya) – **iphone se 2. nesil esim uyumlu** |
-| iPhone SE (3. nesil) | 2022 | ✅ Evet | Evet (nano‑SIM + eSIM) | Modeller: A2783, A2784, A2785 – **iphone se 3. nesil esim** 5G ile |
+- **Altta kulaklık jakı** → **2016 modeli** → eSIM yok.
+- **Kulaklık jakı yok** → **2020 veya 2022 modeli** → eSIM çalışır.
 
-**Önemli:** **Çin anakarasında** satılan iPhone'lar (bazı Hong Kong modelleri dahil) – nesilden bağımsız olarak – eSIM'i **desteklemez**. SE'nizi Çin'de satın aldıysanız, eSIM olmadığını varsayın. Bunun nedeni, yerel düzenlemelerin yerel pazar cihazları için çift fiziksel SIM desteği gerektirmesidir.
+Telefonu ters çevirin ve arkaya kazınmış model numarasını kontrol edin (veya Ayarlar > Genel > Hakkında > Model Numarası):
 
-[Apple Destek – iPhone'da eSIM](https://support.apple.com/en-us/118670) sayfası, 2020'den itibaren tüm iPhone SE modelleri için eSIM uyumluluğunu onaylar. **iphone se 2. nesil esim uyumlu** sorusu için Apple'ın resmi dokümantasyonu tam desteği onaylar.
+| Model Numaraları | Nesil | Nerede Satıldı | eSIM? |
+| :--- | :--- | :--- | :--- |
+| A1662, A1723, A1724 | 1. nesil (2016) | A1662 ABD/Kanada · A1723 global · A1724 Çin | ❌ Hayır |
+| A2275, A2296, A2298 | 2. nesil (2020) | A2275 ABD/Kanada · A2296 global · A2298 Çin | ✅ Evet |
+| A2595, A2782, A2783, A2784, A2785 | 3. nesil (2022) | A2595 ABD/Kanada/Meksika · A2782 Japonya · A2783 global · A2784 Rusya · A2785 Çin | ✅ Evet |
 
+**Çin tuzağı:** A1724 (1. nesil), A2298 (2. nesil) ve A2785 (3. nesil), anakara Çin modelleridir — her nesilde çift fiziksel SIM, eSIM yok. Japonya'nın A2782'si ile ABD/global modellerin tümü çalışan bir eSIM çipi taşır.
 
-## iPhone SE 2020/2022 Neden eSIM'i Destekliyor (ve 2016 Desteklemiyor)
+Kesin kontrol yine de EID'dir: `*#06#` tuşlayın. 32 haneli bir **EID**, eSIM çipinin mevcut olduğu anlamına gelir; yalnızca IMEI numaraları olmadığı anlamına gelir. (Üç yöntemli tam anlatım [iPhone eSIM uyumluluk merkezinde](/faq/iphone-11-esim-compatible/) yer alır.)
 
-Temel fark donanıma dayanır: **eUICC** (gömülü Evrensel Entegre Devre Kartı).
 
-Orijinal iPhone SE (2016), Apple eSIM teknolojisini tanıtmadan önce üretildi. O zamanlar Apple, daha düşük fiyatlı iPhone modellerine eUICC çipini henüz eklememişti. Apple, iPhone XS, XR ve daha sonra iPhone SE (2020)'yi piyasaya sürdüğünde, eUICC çipini tüm yeni modellerine dahil etti.
+## Nesle Göre iPhone SE eSIM Uyumluluğu
 
-**eUICC nedir?** Telefonun anakartına lehimlenmiş, cihazın birden fazla eSIM profilini saklamasına ve yönetmesine olanak tanıyan programlanabilir bir çiptir. Bu çip olmadan, hiçbir yazılım güncellemesi eSIM desteği ekleyemez. Bu nedenle **"iphone se'de esim var mı"** sorusu yıla bağlı olarak farklı bir cevap alır.
+| Model | Yıl | eSIM | Çift SIM | 5G | eSIM Depolama |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| iPhone SE (1. nesil) | 2016 | ❌ Hayır | Hayır | ❌ Hayır | Yok |
+| iPhone SE (2. nesil) | 2020 | ✅ Evet | nano-SIM + eSIM | ❌ Hayır (4G LTE) | ~8 profil |
+| iPhone SE (3. nesil) | 2022 | ✅ Evet | nano-SIM + eSIM | ✅ Evet | ~8 profil |
 
-**Çin iPhone'larında neden eSIM yok?** Çin anakarası, yerel akıllı telefonların çift fiziksel SIM kartı desteklemesini gerektirir. Apple, Çin'de satılan iPhone'lardan (bazı Hong Kong/Makao modelleri hariç) eSIM donanımını kaldırarak uyum sağlar. Bu teknik bir sınırlama değil, düzenleyici bir gerekliliktir.
+Hızlı özellik özeti: 1. nesilde **A9** çip ve 4″ ekran; 2. nesil **A13 Bionic**'e (iPhone 11 ile aynı) ve 4.7″ ekrana geçer; 3. nesil aynı 4.7″ gövdede **A15 Bionic** (iPhone 13 ile aynı) çalıştırır. 2026'da 2. ve 3. nesil hâlâ iOS 19 ile desteklenirken 1. nesil büyük güncellemeleri yıllar önce almayı bıraktı.
 
-[GSMA](https://www.gsma.com/esim/), tüm eSIM uyumlu cihazların uyması gereken eUICC standardını tanımlar ve dünya çapında operatörler ve cihazlar arasında birlikte çalışabilirliği sağlar.
+Fiziksel SIM ile birlikte aynı anda yalnızca bir eSIM etkin olabilir — SE çift beklemelidir, çift etkin değildir. Bu, 12 serisine kadar her iPhone ile aynı davranıştır.
 
 
-## eSIM Yetenekli iPhone'ların Tam Listesi – XR'den iPhone 17'ye
+## Neden SE, En Değerli eSIM iPhone'dur
 
-Modelleri karşılaştırıyorsanız veya **"esim destekleyen iphone'lar listesi"** arıyorsanız, işte tam referans:
+SE, Apple'ın eSIM serisindeki bütçe hamlesidir ve alışılmadık kadar iyidir:
 
-| iPhone Modeli | eSIM Desteği | Çift SIM (Fiziksel + eSIM) | Notlar |
-|--------------|--------------|----------------------------|-------|
-| iPhone XR, XS, XS Max | ✅ Evet | Evet | eSIM'li ilk iPhone'lar |
-| iPhone 11, 11 Pro, 11 Pro Max | ✅ Evet | Evet | |
-| **iPhone SE (2020, 2022)** | ✅ Evet | Evet | 2./3. nesil – **esim iphone se 2020** onaylandı |
-| iPhone 12, 12 mini, 12 Pro, 12 Pro Max | ✅ Evet | Evet | |
-| iPhone 13, 13 mini, 13 Pro, 13 Pro Max | ✅ Evet | Evet | |
-| iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | ✅ Evet | ABD modelleri: yalnızca eSIM; diğerleri: fiziksel + eSIM | |
-| iPhone 15, 15 Plus, 15 Pro, 15 Pro Max | ✅ Evet | 14 ile aynı | |
-| iPhone 16, 17 serisi | ✅ Evet | Bazı bölgelerde yalnızca eSIM | |
-| **iPhone 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, iPhone X** | ❌ Hayır | Hayır | eSIM donanımı yok – yalnızca fiziksel SIM |
-| **iPhone SE (1. nesil, 2016)** | ❌ Hayır | Hayır | eSIM yok |
+- **En ucuz *yeni* eSIM iPhone.** SE 3. nesil, eSIM içeren en az maliyetli yeni iPhone'du ve ikinci el bir amiral gemisi almadan eSIM üzerinden 5G almanın en ucuz yoludur.
+- **Tam özellik eşitliği.** SE 2. nesil eSIM davranışını iPhone 11 ile paylaşır; SE 3. nesil 5G modemini iPhone 13 ile paylaşır. Bütçe modelinde kısılmış bir eSIM modu yoktur.
+- **İkinci el pazarın tatlı noktası.** İkinci el bir SE 2. nesil kabaca 120–180 $, bir SE 3. nesil ise 200–280 $ civarındadır; ikisi de en ucuz yeni iPhone'un çok altındadır.
 
-**"iphone 6s esim uyumlu"**, **"iphone 7 esim uyumlu"** veya **"iphone 8 esim uyumlu"** diye aradıysanız, cevap hayırdır – bu modeller Apple eSIM teknolojisini tanıtmadan önce piyasaya sürüldü. Bir iPhone XR veya daha yenisine (veya SE 2020/2022) ihtiyacınız var.
+Ana ödünler, daha küçük 4.7″ ekran ve tek lensli kameradır — bunların hiçbiri eSIM'in ne kadar iyi çalıştığını etkilemez. Sadece ucuz, güvenilir bir eSIM seyahat telefonu istiyorsanız SE genellikle daha pahalı bir amiral gemisinden daha akıllıca bir alımdır. Sıkı bir bütçeyle alışveriş yapıyorsanız [iPhone XR](/faq/iphone-xr-esim-compatible/) ile karşılaştırın.
 
+### 2026 Fiyatları ve Kim Almalı
 
-## Başlamadan Önce Yapmanız Gerekenler – Etkinleştirme Kontrol Listesi
+Apple, Şubat 2025'te SE'nin üretimini durdurdu — iPhone 16e onu bütçe iPhone olarak değiştirdi. Yani 2026'da her SE bir ikinci el veya yenilenmiş pazar alımıdır:
 
-iPhone SE'nizde bir eSIM etkinleştirmeye çalışmadan önce bu hızlı kontrol listesini uygulayın. Bu adımları atlamak, etkinleştirme başarısızlıklarının 1 numaralı nedenidir.
+| Model | Yaklaşık İkinci El Fiyat (Ağu 2026) | Ne Elde Edersiniz |
+| :--- | :--- | :--- |
+| SE 1. nesil (2016) | $40–70 | ❌ eSIM yok — bu kullanım için pas geçin |
+| SE 2. nesil (2020) | $120–180 | ✅ eSIM, 4G LTE, A13 çip |
+| SE 3. nesil (2022) | $200–280 | ✅ eSIM, 5G, A15 çip |
 
-### 1. Telefonunuzun Operatör Kilidinin Açık Olduğunu Doğrulayın
+**eSIM için kim bir SE almalı:**
 
-Kilitli bir iPhone yalnızca orijinal operatörün eSIM'lerini kullanabilir. Kontrol etmek için:
+- **Bütçe seyyarları** — bir SE 2. nesil, hâlâ iOS güncellemesi alan en ucuz *güvenilir* eSIM iPhone'dur.
+- **Bütçeyle 5G** — SE 3. nesil, ikinci el bir amiral gemisi almadan 5G eSIM'e girmenin en az maliyetli yoludur.
+- **Küçük telefon hayranları** — 4.7″ gövde ve Touch ID ana düğmesi, XR veya 11 yerine bir SE seçmenin ana nedenleridir.
+- **Uzun vadeli kullanıcılar** — 3. nesil (A15) hâlâ tam desteklidir, bu yüzden yazılım açısından ikinci el bir XR veya 11'den daha uzun dayanır.
 
-- **Ayarlar > Genel > Hakkında** bölümüne gidin
-- **Operatör Kilidi** kısmına aşağı kaydırın
-- **"SIM kısıtlaması yok"** yazıyorsa – telefonunuzun kilidi açıktır ve hazırdır
-- Bir operatör adı listeleniyorsa – kilidi açmak için o operatörle iletişime geçin
+**Kim geçmeli:** büyük ekran, Face ID veya çift eSIM isteyen herkes (iki eSIM aynı anda iPhone 13 ile başladı). Ve açıkçası, 1. nesil SE tutan herkes — hiç eSIM'i olmadı.
 
-**Bu neden önemlidir:** Çoğu seyahat eSIM'i üçüncü taraf sağlayıcılardandır (Airalo, Roami, Holafly). Telefonunuz kilitliyse, bunları yükleyemezsiniz.
 
-### 2. En Son iOS Sürümüne Güncelleyin
+## eSIM için iPhone SE, XR ve 11 Karşılaştırması
 
-eSIM desteği iOS 16 ve sonrasında önemli ölçüde iyileştirildi. Eski iOS sürümleri daha yeni eSIM profillerini desteklemeyebilir.
+Üçü de 2026'da 300 $ altı eSIM iPhone'lardır, ancak üç farklı yöne ayrılırlar:
 
-- **Ayarlar > Genel > Yazılım Güncelleme** bölümüne gidin
-- Mevcut güncellemeleri yükleyin
+| Özellik | iPhone SE (2. nesil) | iPhone SE (3. nesil) | iPhone XR | iPhone 11 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Yıl** | 2020 | 2022 | 2018 | 2019 |
+| **5G** | ❌ Hayır | ✅ Evet | ❌ Hayır | ❌ Hayır |
+| **eSIM** | ✅ Evet | ✅ Evet | ✅ Evet | ✅ Evet |
+| **Ekran** | 4.7″ | 4.7″ | 6.1″ | 6.1″ |
+| **Biyometri** | Touch ID | Touch ID | Face ID | Face ID |
+| **Çip** | A13 Bionic | A15 Bionic | A12 Bionic | A13 Bionic |
+| **iOS desteği** | ✅ Güncel (iOS 19) | ✅ Güncel (iOS 19) | ⚠️ iOS 18'de duruyor | ✅ Güncel (iOS 19) |
+| **Kamera** | Tek | Tek | Tek | Çift |
+| **Yaklaşık fiyat** | $120–180 | $200–280 | $100–150 | $150–250 |
 
-### 3. İstikrarlı Bir Wi‑Fi Ağına Bağlanın
+**Hızlı okuma:**
 
-Bir eSIM'i internet bağlantısı olmadan etkinleştiremezsiniz. Profil, operatörünüzün güvenli SM‑DP+ sunucusundan indirilmelidir. Güvenilir bir Wi‑Fi ağı kullanın – indirme sırasında zaman aşımına uğrayabilecek halka açık sıcak noktalardan kaçının.
+- **Genel olarak en ucuz:** XR — ancak yalnızca 4G'dir ve şimdiden iOS 18'de sınırlanmıştır.
+- **En iyi küçük telefon:** SE 2. nesil — modern çip, hâlâ destekleniyor, ana düğme.
+- **En iyi 5G değeri:** SE 3. nesil — A15 çip, 5G ve yıllarca iOS güncellemesi.
+- **En iyi büyük ekranlı çok yönlü:** iPhone 11 — XR'den yaklaşık 50 $ fazla için çift kamera ve daha iyi pil.
 
-### 4. QR Kodunuzu Hazır Bulundurun
+5G ve uzun ömür önceliğinizse seçim SE 3. nesildir; saf etiket fiyatıysa XR 50–100 $ ile kazanır. XR'ın tam incelemesi [iPhone XR eSIM rehberimizde](/faq/iphone-xr-esim-compatible/), 11 ise [iPhone 11 uyumluluk rehberimizin](/faq/iphone-11-esim-compatible/) merkezinde yer alır.
 
-eSIM sağlayıcınız size e‑posta ile bir QR kodu gönderecektir. Erişebildiğinizden emin olun (başka bir cihazda açın veya yazdırın).
 
-### 5. Gerçekten eSIM Uyumlu Bir iPhone SE'niz Olduğunu Kontrol Edin
+## ABD Operatörlerine Göre Operatör Kilidi Açma Politikaları
 
-`*#06#` tuşlayın. 32 haneli bir EID görünüyorsa, iyisiniz. Yalnızca IMEI numaraları görünüyorsa, telefonunuz eSIM'i desteklemiyor.
+Kilitli bir iPhone SE yalnızca orijinal operatörünün eSIM'lerini kabul eder. Sizin ki kilitliyse kilidin açılması için gerekenler şunlardır:
 
-Tam uyumluluk ayrıntıları için [iPhone eSIM kılavuzumuza](/faq/iphone-11-esim-compatible/) bakın.
+| Operatör | Kilit Açma Politikası | Nasıl Talep Edilir | Süre |
+| :--- | :--- | :--- | :--- |
+| **AT&T** | Ödendi ve 60+ gün etkin | att.com/deviceunlock | 1–2 iş günü |
+| **T-Mobile** | Ödendi, 40+ gün etkin | T-Mobile uygulaması veya 611'i arayın | 1–2 iş günü |
+| **Verizon** | Satın alımdan 60 gün sonra otomatik açılır | Gerekli değil | Satın alımdan 60 gün |
+| **Visible** | 60 gün sonra otomatik açılır | Gerekli değil | Etkinleştirmeden 60 gün |
+| **Cricket** | 6+ ay etkin | Cricket uygulaması veya destek | 24–48 saat |
+| **Boost Mobile** | 12+ ay etkin | Boost desteğini arayın | 2–5 iş günü |
+| **Tracfone** | 12+ ay etkin | Tracfone desteğini arayın | 2–5 iş günü |
 
+**SE tuzağı:** AT&T, T-Mobile veya Cricket'ten alınan ön ödemeli SE'ler genellikle faturalılardan daha katı kilit açma şartları taşır. Bir eSIM planı satın almadan *önce* Ayarlar > Genel > Hakkında > **Operatör Kilidi**'ni kontrol edin — bir operatör adı listeliyorsa kilitlisiniz. Operatör, cihaz ödenmediği için kilidi açmayacaksa fiziksel bir seyahat SIM'i tek alternatifinizdir.
 
-## iPhone SE'nizde eSIM Olup Olmadığını Kontrol Etme (3 Yöntem)
+("Kilitsiz" olmanın ne anlama geldiği ve nasıl kontrol edildiği [iPhone 11 eSIM merkezinde](/faq/iphone-11-esim-compatible/) daha ayrıntılı ele alınır.)
 
-### Yöntem 1: EID Kodu (En Hızlı ve En Güvenilir)
-1. **Telefon uygulamanızı** (arama ekranı) açın.
-2. `*#06#` girin ve **arama** tuşuna basın.
-3. Ekrana bakın:
-   - **EID (32 hane) görünüyor** → ✅ iPhone SE'niz eSIM'i destekliyor.
-   - **Yalnızca IMEI numaraları görünüyor** → ❌ eSIM yok (ya 1. nesil ya da Çin modeli).
+### Ön Ödemeli ve MVNO Kilit Açma Kuralları
 
-### Yöntem 2: Ayarlarda Kontrol Edin
-**Ayarlar > Genel > Hakkında** bölümüne gidin. Aşağı kaydırın. "Kullanılabilir SIM" veya "Dijital SIM" altında bir **EID** görüyorsanız, eSIM destekleniyor. Bu, **iphone se esim ile uyumlu** olup olmadığını onaylamanın en hızlı yoludur.
+Ön ödemeli SE'ler, kilit açma şartlarının katılaştığı yerdir. Yukarıdaki tablonun ötesinde birkaç ayrıntı daha:
 
-### Yöntem 3: "Hücresel Plan Ekle" Seçeneğini Arayın
-**Ayarlar > Hücresel** bölümüne gidin. **"Hücresel Plan Ekle"** seçeneğini bir seçenek olarak görüyorsanız, telefonunuz eSIM'i destekler. Eksikse, desteklemez.
+| Sağlayıcı | Ön Ödemeli Kilit Açma Kuralı |
+| :--- | :--- |
+| **Metro by T-Mobile** | 180 gün etkin |
+| **AT&T Prepaid** | 6 ay etkin |
+| **Cricket** | 6 ay etkin |
+| **Boost Mobile** | 12 ay etkin |
+| **Tracfone / Straight Talk / Total Wireless** | 12 ay etkin |
 
-Telefonunuz bu kontrolleri geçerse ancak hala sorun yaşıyorsanız, gelişmiş çözümler için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
+Örüntü şu: T-Mobile ağındaki MVNO'lar daha esnek olma eğilimindedir (Metro 180 gün), Tracfone ailesi ve Boost ise tam bir yıla bağlı kalır. İkinci el bir SE satın almadan önce yapmaya değer iki şey:
 
+- **IMEI'yi isteyin**, sonra operatörün çevrimiçi kilit durumu kontrol aracından sorgulayın — çoğu cihazın uygunluğunu anında gösterir.
+- **Telefonun ödendiğini onaylayın.** Hiç ödenmemiş taksitli bir SE, ne kadar süre etkin olursa olsun bakiye kapanana kadar kilidi açılmaz.
 
-## iPhone SE'de (2020/2022) eSIM Nasıl Etkinleştirilir
+("Kilitsiz" olmanın ne anlama geldiği ve doğrulamanın üç yolu [iPhone uyumluluk merkezinde](/faq/iphone-11-esim-compatible/) ele alınır.)
 
-Etkinleştirme 2 dakikadan az sürer. **Uçuştan önce** yapın – yalnızca Wi‑Fi'ye ihtiyacınız var.
 
-1. **Bir eSIM planı satın alın** – Seyahat için bir [Roami eSIM](/free-esim/) seçin (ücretsiz deneme mevcuttur) veya Airalo, Visible veya Google Fi gibi herhangi bir sağlayıcı.
-2. **Ayarlar** → **Hücresel** → **Hücresel Plan Ekle** seçeneğini açın.
-3. E‑postanıza gönderilen **QR kodunu tarayın**.
-4. **Planınızı etiketleyin** – örneğin, "Seyahat", "İş".
-5. **Varsayılan hattı seçin** – Veri, ses ve SMS için hangi hattın (fiziksel SIM veya eSIM) kullanılacağına karar verin.
-6. Geldiğinizde eSIM hattı için **Veri Dolaşımı**'nı açın.
+## iPhone SE'de eSIM Kurulumu
 
-> 💡 **Önemli:** İndikten sonra **Ayarlar > Hücresel > eSIM** bölümüne gidin ve **Veri Dolaşımı**'nı AÇIN. Bu, çoğu seyahat eSIM'inin yerel ağlara bağlanması için gereklidir.
+SE'nin eSIM menüsü diğer tüm iPhone'larla aynıdır — **Ayarlar > Hücresel > eSIM Ekle** (eski iOS'ta **Cep Hattı Ekle**) — ancak SE'nin daha küçük, ana düğmeli tasarımı bilmeye değer birkaç pürüz ekler:
 
-Tüm iPhone modellerinde ayrıntılı etkinleştirme talimatları için [eSIM etkinleştirme kılavuzumuza](/faq/how-to-activate-an-esim/) bakın. Fiziksel bir SIM'den eSIM'e geçiş yapıyorsanız, [fiziksel SIM'den eSIM'e kılavuzumuz](/faq/how-to-activate-esim-on-iphone/) adımları kapsar.
+1. **Uğraşılacak Face ID yok.** QR kodunu taramak için kilidi açmak, ana düğmedeki Touch ID kullanır. Tek biyometrik fark budur; eSIM'in yüklenme şeklini değiştirmez.
+2. **Küçük ekran, küçük kamera hedefi.** 4.7″ ekran, QR taramayı biraz daraltır — telefonu sabit tutun ve birkaç cm geriden tutun veya kamerayı tamamen atlayın ve onay e-postanızdaki SM-DP+ adresi ve etkinleştirme koduyla **Ayrıntıları El ile Gir**'i kullanın.
+3. **"eSIM Ekle" hiç yoksa**, neredeyse kesinlikle bir 2016 SE veya bir Çin modelindesiniz — ikisinde de eSIM çipi yoktur ve hiçbir menü görünmez.
+4. **Seyahat hattını veri olarak ayarlayın.** Yüklemeden sonra seyahat eSIM'ini **Hücresel Veri** varsayılanı olarak ayarlayın ve ev hattını ses/SMS'te bırakın, böylece her ikisi de canlı kalır (çift bekleme).
 
+Ekran görüntüleriyle tam iOS anlatımı [iPhone eSIM etkinleştirme rehberinde](/faq/how-to-activate-esim-on-iphone/); hata düzeltmeleri [eSIM Derin Sorun Giderme Rehberi 2026](/faq/esim-deep-troubleshooting-guide-2026/)'da yer alır.
 
-## Hangi Operatörler iPhone SE eSIM ile Çalışır?
 
-iPhone SE'niz (2020/2022) dünya çapındaki **her eSIM sağlayıcısıyla** çalışır. Aşağıda yaygın aramaların yanıtları bulunmaktadır:
+## Çift SIM ile SE Pil Ömrü
 
-| Sağlayıcı | Uyumlu mu? | Notlar |
-|----------|-------------|-------|
-| **Airalo** | ✅ Tam uyumlu | 2020/2022 SE'de çalışır – **airalo uyumlu telefonlar** arasında |
-| **Visible** | ✅ Evet | iOS 15+ gerektirir (SE'nizi güncelleyin). Uygulamaları aracılığıyla Visible eSIM etkinleştirmesi ile çalışır – **visible esim uyumlu telefonlar** arasında |
-| **Google Fi** | ✅ Evet | Google Fi uygulaması aracılığıyla etkinleştirin |
-| **Verizon** | ✅ Evet | Faturalı ve ön ödemeli eSIM planları çalışır. **Verizon eSIM uyumluluğu** için iPhone SE 2020/2022 tamamen desteklenir (kilit açık veya Verizon cihazı olmalıdır). |
-| **US Mobile** | ✅ Evet | Hem Warp 5G hem de GSM eSIM ile çalışır – **us mobile esim uyumlu cihazlar** arasında |
-| **T-Mobile (ABD)** | ✅ Evet | Uygulama veya QR aracılığıyla eSIM etkinleştirmesini destekler |
-| **Holafly** | ✅ Evet | Tam uyumlu – en iyi **holafly uyumlu telefonlar** arasında |
-| **Jio (Hindistan)** | ✅ Evet | Jio eSIM iPhone SE 2020/2022'de çalışır – **jio esim uyumlu telefonlar** arasında (faturalı Jio bağlantısı ve Hindistan'da şahsen doğrulama gerektirir) |
-| **Roami** | ✅ Evet | Çoklu operatör geçişli seyahat eSIM'leri için tam destek |
+SE, Apple'ın eSIM serisindeki en küçük pile sahiptir — nesle göre kabaca 1.800–2.000 mAh — bu yüzden ikinci bir hat amiral gemisinden biraz daha fazla hissedilir. Her iki hat kayıtlıyken yaklaşık **%5–10 daha hızlı tükenme** bekleyin.
 
-iPhone SE 2020/2022, **çift sim uyumlu** işlevselliğini destekler – aynı anda bir fiziksel SIM ve bir eSIM kullanabilirsiniz; bu, ev numaralarını aktif tutarken yerel bir veri planı kullanmak isteyen gezginler için idealdir.
+Yolda küçük bir pili uzatmak için pratik ipuçları:
 
+- **Seyahatler arasında seyahat hattını kapatın** — Ayarlar > Hücresel > [seyahat hattı] > **Bu Hattı Aç** düğmesini kapatın.
+- **Düşük Güç Modu'nu çalıştırın** — Ayarlar > Pil > Düşük Güç Modu; veriyi veya aramaları etkilemez.
+- Mümkün olduğunda ev hattını **Wi‑Fi Araması**'nda tutun, böylece hücresel radyo yerine Wi‑Fi'ye yaslanır.
+- **Önce pil sağlığını kontrol edin** — Ayarlar > Pil > Pil Sağlığı ve Şarj. İkinci el bir SE'de %80'in altı, uzun bir yolculuktan önce pil servisi (yaklaşık 49–69 $) için bütçe ayırmaya değer demektir.
 
-## iPhone SE'niz eSIM'i DESTEKLEMİYORSA Ne Yapmalısınız?
+Sağlıklı bir pili olan bir SE 2. nesil hafif bir seyahat gününü atlatır; 3. neslin daha verimli A15 çipi aynı boyuttaki hücreyi biraz daha uzatır. Her durumda küçük bir power bank ucuz bir sigortadır.
 
-Bu şunlar için geçerlidir:
-- **iPhone SE 1. nesil (2016)** – eSIM donanımı yok.
-- **Çin anakarasında satın alınan herhangi bir iPhone SE** – bölge nedeniyle eSIM devre dışı.
 
-**Ne yapabilirsiniz?**
+## Çin, Hong Kong ve Makao SE Modelleri
 
-- **Fiziksel bir seyahat SIM'i kullanın** – Birçok eSIM sağlayıcısı dünya çapında gönderilen fiziksel SIM kartlar da sunar.
-- **Daha yeni bir iPhone'a yükseltin** – [iPhone XR](/faq/iphone-xr-esim-compatible/), [iPhone 11](/faq/iphone-11-esim-compatible/) veya daha yeni bir [iPhone SE](/faq/iphone-se-esim-compatible/) uygun fiyatlı eSIM seçenekleridir.
-- **Başka bir markaya geçin** – [Samsung S20](/faq/samsung-s20-esim-compatible/) veya [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) da mükemmel eSIM yetenekli alternatiflerdir.
-- **Gerçekten 2./3. nesil olup olmadığını kontrol edin** – Birçok kişi orijinal SE'yi 2020 modeliyle karıştırır. 2020 SE'nin kulaklık girişi yoktur ve daha büyük bir ekrana sahiptir (4,7″ vs 4″).
+**Anakara Çin SE'leri — eSIM fabrikada kaldırılmış.** Hem 2020 hem 2022 Çin modelleri eSIM çipi olmadan gelir (A2298 CH/A ve A2785 CH/A donanım varyantları çift fiziksel SIM'dir). Hiçbir güncelleme onu geri getiremez.
 
-Cihazınız hakkında hala emin değilseniz, [ücretsiz eSIM denemesi](/free-esim/) ile test edebilirsiniz – 2 dakika sürer ve uyumluluğu anında onaylar.
+**Hong Kong / Makao SE'leri — dikkatlice kontrol edin.** Bazılarında bir fiziksel SIM + eSIM vardır; bazılarında çift fiziksel SIM. Bir eSIM planı satın almadan önce `*#06#` tuşlayın ve bir EID arayın.
 
+Uluslararası bir SE'niz varsa ve *Çin'e seyahat ediyorsanız* durum terstir: seyahat eSIM'iniz oradaki dolaşım ağlarında çalışır (Roami, Airalo vb.), yerel Çin operatörleri ise turistlere eSIM satmaz.
 
-## iPhone SE eSIM vs Fiziksel SIM – Hangisini Kullanmalısınız?
 
-iPhone SE'niz eSIM'i destekliyorsa, bir seçeneğiniz var. İşte farklı kullanım durumları için karşılaştırmaları:
+## iPhone SE eSIM Hatalarını Giderme
 
-| Faktör | eSIM | Fiziksel SIM |
-|--------|------|--------------|
-| **Etkinleştirme süresi** | 2 dakika (QR tara) | 10-30 dakika (mağaza bul, bekle) |
-| **Seyahat kolaylığı** | Gitmeden satın al | Varışta satın al |
-| **Birden fazla plan** | 8+ profil sakla | Kart başına bir plan |
-| **Kayıp/Çalıntı** | Çıkarılamaz | Çıkarılabilir |
-| **Operatör değiştirme** | Ayarlarda anında | Yeni bir karta ihtiyaç var |
-| **Çift SIM** | Evet (fiziksel SIM ile) | Evet (eSIM ile) |
-| **iPhone SE'de kullanılabilirlik** | 2020/2022 modelleri | Tüm modeller |
+| Hata | Neden | Çözüm |
+| :--- | :--- | :--- |
+| **"Cep Hattı Eklenemiyor"** | Çok fazla saklanan profil | Eski profilleri kaldırın (Ayarlar > Hücresel) ve yeniden başlatın |
+| **Taramada "eSIM Desteklenmiyor"** | 2016 modeli veya Çin modeli | Donanım sınırı — fiziksel SIM kullanın |
+| **Etkinleştirdikten sonra "Hizmet Yok"** | Veri Dolaşımı kapalı veya kaydolmamış | Veri Dolaşımı'nı AÇIK konuma getirin, sonra Uçuş Modunu kapatın/açın |
+| **"Geçersiz QR Kodu" / süresi dolmuş** | QR'nin süresi dolmuş veya hasarlı | Yeni bir QR isteyin; "Ayrıntıları El ile Gir"i deneyin |
+| **eSIM Ayarlar'da yok** | Operatör kilitli veya bayat iOS | Operatör Kilidi'ni kontrol edin; iOS'u güncelleyin; yeniden başlatın |
+| **Sinyal çubukları var ama internet yok** | APN eksik veya yanlış | Sağlayıcınızın APN'sini ayarlayın, sonra Uçuş Modunu açıp kapatın |
 
-**Gezginler için öneri:** Uluslararası seyahat için eSIM kullanın. Planınızı kalkıştan önce satın alın, evde yükleyin ve varışta etkinleştirin. Fiziksel ev SIM'inizi ev ülkenizden aramalar ve SMS'ler için saklayın.
+Hata kodu düzeyindeki tam referans için (asıl APN tablosu dahil) [eSIM Derin Sorun Giderme Rehberi 2026](/faq/esim-deep-troubleshooting-guide-2026/)'ya bakın.
 
 
-## Sık Sorulan Sorular
+## iPhone SE'niz eSIM Desteklemiyorsa Ne Yapmalı?
 
-**iPhone SE 2020 eSIM'i destekliyor mu?**
-Evet – tamamen uyumlu. 2. nesil iPhone SE (2020), eSIM'i iPhone 11 ile aynı şekilde destekler. **iphone se 2020 esim uyumlu** sorusu kesin bir evet ile yanıtlanır.
+Bu, **1. nesil (2016)** ve **anakara Çin'de satın alınan herhangi bir SE** için geçerlidir.
 
-**iPhone SE 2022 eSIM'i destekliyor mu?**
-Evet – tamamen uyumlu. 3. nesil iPhone SE (2022), eSIM ve 5G'yi destekler. **iphone se 3. nesil esim desteği** her iki teknolojiyi de içerir.
+- **Fiziksel bir seyahat SIM'i kullanın** — sağlayıcılar dünyaya hâlâ fiziksel SIM gönderiyor.
+- **Bütçe kademesi içinde yükseltin** — [iPhone XR](/faq/iphone-xr-esim-compatible/) veya [iPhone 11](/faq/iphone-11-esim-compatible/) uygun fiyatlı eSIM seçenekleridir.
+- **Android'e geçin** — [Samsung S20](/faq/samsung-s20-esim-compatible/) veya [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) sağlam alternatiflerdir.
+- **Nesli bir daha kontrol edin** — pek çok kişi bir 2016 SE'yi 2020 sanır. 2020 SE'de kulaklık jakı yoktur ve 4.7″ ekrandır (4″ yerine).
 
-**Orijinal iPhone SE (2016) eSIM'i destekliyor mu?**
-Hayır – 1. nesil iPhone SE eSIM donanımına sahip değildir. Fiziksel bir SIM'e ihtiyacınız var.
+Hâlâ emin değilseniz [ücretsiz eSIM denemesiyle](/free-esim/) test edin — iki dakika sürer ve uyumluluğu anında doğrular.
 
-**iPhone SE (2. nesil) çift SIM'i destekliyor mu?**
-Evet – aynı anda bir fiziksel SIM + bir eSIM kullanabilirsiniz. Bu gerçek bir **çift sim uyumlu** kurulumdur.
 
-**iPhone SE (3. nesil) 5G eSIM'i destekliyor mu?**
-Evet – 2022 SE, hem fiziksel SIM hem de eSIM üzerinde 5G'yi destekler. 2020 modeli yalnızca 4G LTE'dir.
+## Sıkça Sorulan Sorular
 
-**iPhone 6s / 7 / 8 eSIM'i destekliyor mu?**
-Hayır. iPhone 6s, 7, 8, 8 Plus ve iPhone X eSIM donanımına sahip değildir. **"iphone 6s esim uyumlu"** veya **"iphone 8 esim uyumlu"** diye aradıysanız, cevap hayırdır – iPhone XR veya daha yenisine (veya SE 2020/2022) ihtiyacınız var. **iphone 7 esim uyumlu** sorusu da olumsuz bir cevap alır.
+**iPhone SE 2020 eSIM destekliyor mu?**
+Evet — 2. nesil (2020), iPhone 11 gibi tam olarak eSIM destekler: bir fiziksel SIM artı bir etkin eSIM.
 
-**iPhone SE'de Jio eSIM ne olacak?**
-Evet – Jio (Hindistan), iPhone SE 2020/2022 için eSIM sunar. Faturalı bir Jio bağlantınızın olması ve doğrulama için bir Jio mağazasını ziyaret etmeniz gerekir. Bundan sonra, fiziksel Jio SIM'inizi SMS veya MyJio uygulaması aracılığıyla eSIM'e dönüştürebilirsiniz.
+**iPhone SE 2022 eSIM destekliyor mu?**
+Evet — 3. nesil (2022) eSIM destekler ve 5G ekler.
 
-**iPhone SE'm "Hücresel Plan Eklenemiyor" gösteriyor – sorun ne?**
-**Ayarlar > Hücresel** bölümünden eski eSIM profillerini kaldırın, telefonunuzu yeniden başlatın ve tekrar deneyin. Sorun devam ederse, operatör kilit durumunuzu kontrol edin. Daha fazla yardım için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
+**Orijinal iPhone SE (2016) eSIM destekliyor mu?**
+Hayır. İlk nesil SE'de eSIM donanımı yoktur. Yalnızca fiziksel SIM.
 
-**iPhone SE'nin eSIM ile uyumlu olup olmadığını nasıl anlarım?**
-`*#06#` tuşlayın. Bir EID görünüyorsa, telefonunuz uyumludur. Bu, **iphone se esim ile uyumlu** sorusunun kesin cevabıdır.
+**iPhone SE çift SIM destekliyor mu?**
+2020 ve 2022 modelleri destekler — bir fiziksel nano-SIM artı bir eSIM aynı anda etkin. 2016 modeli desteklemez.
 
-**Seyahat ederken iPhone SE'de eSIM kullanabilir miyim?**
-Evet – **esim iphone se 2020** ve **iphone se 2020 esim yetenekli** özellikleri, onu mükemmel bir seyahat arkadaşı yapar. Kalkıştan önce bir seyahat eSIM'i yükleyebilir ve varışta etkinleştirebilirsiniz.
+**iPhone SE 3. nesil eSIM üzerinde 5G destekliyor mu?**
+Evet — 2022 SE hem fiziksel SIM'inde hem eSIM'inde 5G destekler. 2020 model yalnızca 4G LTE'dir.
 
-**iPhone SE'de kaç tane eSIM saklayabilirim?**
-iPhone SE, 8 veya daha fazla eSIM profili saklayabilir, ancak aynı anda yalnızca bir eSIM (veya bir fiziksel SIM + bir eSIM) aktif olabilir.
+**Bir iPhone SE kaç eSIM saklayabilir?**
+Yaklaşık sekiz profile kadar, fiziksel SIM ile birlikte aynı anda bir tanesi etkin olacak şekilde.
 
-**iPhone SE 2022 eSIM, Avrupa operatörleriyle uyumlu mu?**
-Evet – Orange, Vodafone, O2 ve EE gibi Avrupa operatörleri iPhone SE 2022'de eSIM'i destekler. **iphone se 3. nesil esim**, tüm büyük Avrupa ağlarıyla çalışır.
+**SE'min eSIM ile uyumlu olduğunu nasıl bilirim?**
+`*#06#` tuşlayın. Bir EID uyumlu demektir; yalnızca IMEI eSIM olmadığı anlamına gelir. Tam doğrulama yöntemleri [iPhone 11 uyumluluk anlatımındadır](/faq/iphone-11-esim-compatible/).
+
+**iPhone SE uluslararası eSIM'lerle çalışıyor mu?**
+Evet — kilitli olmayan bir 2020/2022 SE'de herhangi bir global eSIM sağlayıcısı çalışır. Eksiksiz operatör listesi [uyumluluk sayfamızdadır](/compatibility/).
+
+**eSIM için SE 2020 ile 2022 arasındaki fark nedir?**
+eSIM işlevselliği aynıdır. Tek fark 2022 modeldeki 5G'dir (2020'de 4G LTE).
+
+**Bir eSIM'i iPhone SE'ye aktarabilir miyim?**
+Evet, operatörünüz eSIM aktarımını destekliyorsa. Adımlar [eSIM aktarım rehberimizdedir](/faq/how-to-transfer-esim-between-iphone-and-android/).
+
+**SE'de seyahat eSIM'i kullanırken ev hattımda Wi‑Fi Araması kullanabilir miyim?**
+Evet — ev hattınızda Wi‑Fi Araması'nı etkinleştirin; aramaları ve SMS'leri dolaşım ücretlerinden kaçınarak seyahat eSIM'inin veri bağlantısı üzerinden yönlendirir. Bu, 2020/2022 SE'de çalışır (2016 modelinde değil). Kurulum ayrıntıları [iPhone eSIM etkinleştirme rehberindedir](/faq/how-to-activate-esim-on-iphone/).
+
+**SE'de eSIM etkinleştirmesi ne kadar sürer?**
+Yükleme 10–30 saniye sürer; ağa kaydolma tipik olarak 2–4 dakika. 10 dakikadan sonra hâlâ başarısız oluyorsa yukarıdaki sorun giderme bölümüne bakın.
+
+**Çin'de satılan bir SE eSIM destekliyor mu?**
+Hayır — Çin pazarı SE'lerde eSIM çipi nesilden bağımsız olarak fabrikada kaldırılmıştır.
+
+**iPhone SE 2026'da hâlâ yeni satılıyor mu?**
+Hayır. Apple, iPhone 16e'yi piyasaya sürdüğü Şubat 2025'te SE'nin üretimini durdurdu. Kutusunda yeni SE'ler satışta kalan stoklardır; pazarın geri kalanı ikinci el ve yenilenmiştir.
+
+**iPhone SE 2. nesil iOS 19 alıyor mu?**
+Evet. 2. nesil (A13 çip) ve 3. nesil (A15) ikisi de hâlâ desteklenmektedir, bu yüzden her ikisi de yıllarca iOS güncellemesi almaya devam edecek.
+
+**2026'da eSIM seyahati için hangi SE en iyisidir?**
+Bütçe izin verirse 3. nesil — 5G, daha hızlı bir A15 çip ve daha uzun yazılım desteği ekler. Sadece hâlâ desteklenen en ucuz eSIM iPhone'u istiyorsanız 2. nesil ikinci sırada gelir.
+
+**SE'de aynı anda iki eSIM kullanabilir miyim?**
+Hayır. Her SE bir fiziksel SIM artı bir etkin eSIM'de sona erer. Çift eSIM (iki etkin eSIM) iPhone 13 ile başladı.
+
+**2020 SE ile 2022 SE'yi nasıl ayırt ederim?**
+Aynı görünürler — aynı 4.7″ gövde, aynı ana düğme, aynı tek kamera. Ayırt edici işaret, Ayarlar > Genel > Hakkında altındaki (veya arkaya kazınmış) model numarasıdır: A2275/A2296/A2298 = 2020; A2595/A2782/A2783/A2784/A2785 = 2022. 2022 model ayrıca 5G ekler.
+
+**SE, hücresel bir Apple Watch ile çalışıyor mu?**
+Evet — hücresel bir Apple Watch kendi ayrı eSIM'ini kullanır ve bir 2020/2022 SE ile sorunsuz eşleşir. Ayrıntılar [iPad ve Apple Watch eSIM rehberindedir](/faq/ipad-apple-watch-esim-support-guide/).
+
+👉 **Bir seyahat mi planlıyorsunuz?** [ABD için eSIM](/united-states-esim/) veya [Avrupa için eSIM](/europe-esim/) sayfalarına bakın.
 
 ---
 
-*Apple destek dokümantasyonu ve GSMA standartlarına dayanmaktadır. Güncellenme: Haziran 2026.*
+*Apple destek dokümantasyonu ve GSMA standartlarına dayanmaktadır. Güncellendi: Eylül 2026.*
+## Kaynaklar
+
+- [GSMA — eSIM (SGP.22) spesifikasyonu](https://www.gsma.com/esim/)
+- [Apple Destek — iPhone'da eSIM kurulumu](https://support.apple.com/en-us/HT212780)
+- [Apple Destek — iPhone'da eSIM hakkında](https://support.apple.com/en-us/HT209044)
+- [Apple Destek — eSIM ile Çift SIM kullanımı](https://support.apple.com/en-us/HT209086)

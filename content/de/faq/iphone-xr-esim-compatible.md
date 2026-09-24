@@ -1,19 +1,21 @@
 ---
-title: "iPhone XR eSIM: Vollständige Anleitung 2026"
-h1_title: "Die vollständige Anleitung zur iPhone XR eSIM im Jahr 2026"
-description: "iPhone XR unterstützt eSIM. Prüfen mit *#06#, aktivieren bei Airalo, Visible, Google Fi, Verizon. China-Modelle ohne eSIM. Auch iPhone 8/X und andere Modelle im Vergleich"
-keywords: ["iphone xr esim kompatibel", "iphone xr esim unterstützung", "airalo kompatible telefone", "visible esim kompatible telefone", "google fi esim kompatible telefone", "verizon esim kompatibilität", "dual sim kompatibel", "liste der iphones die esim unterstützen", "iphone xr esim aktivieren", "iphone xr esim einrichten", "iphone xr esim fehlerbehebung", "iphone x esim kompatibel", "iphone 8 esim kompatibel"]
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
+title: "Unterstützt das iPhone XR eSIM? Vollständiger Leitfaden 2026"
+h1_title: "Unterstützt das iPhone XR eSIM? Ein kompletter Leitfaden für 2026"
+description: "Das iPhone XR unterstützt eSIM – prüfe es mit *#06#. Aktivierung bei großen Netzbetreibern. China-Modelle: keine eSIM. Behandelt auch iPhone 8/X und eSIM-iPhones."
+image: "/img/faq/iphone-xr-esim.webp"
+image-1: "/img/faq/iphone-xr-esim-1.jpg"
+keywords: ["iphone xr esim kompatibel", "iphone xr esim unterstützung", "esim kompatible telefone", "liste der iphones mit esim", "airalo kompatible telefone", "google fi esim kompatible telefone", "verizon esim kompatibilität", "dual sim kompatibel", "iphone xr dual sim", "iphone xr esim"]
+date: 2026-09-24T00:00:00Z
+lastmod: 2026-09-24T00:00:00Z
 tags: ["iPhone", "eSIM", "Kompatibilität", "iPhone XR"]
 toc: true
 
-# Site & SEO Basis Hardcodierung
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI Textübersetzung/Hardcodierung (unterstützt Mehrsprachigkeit)
+# UI text translations
 ui_text:
   updated_on: "Aktualisiert am"
   min_read: "Min. Lesezeit"
@@ -27,50 +29,50 @@ breadcrumbs:
     text: "eSIM-Kompatibilität"
     url: "/compatibility/"
 
-# Rechte Seite: Beliebte eSIMs Konfiguration (6 Länder, 1,99 USD)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Beliebte eSIMs"
   item_suffix: "eSIM"
   items:
-    - name: "Vereinigte Staaten"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Deutschland"
+    - name: "Deutschland eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europa"
+    - name: "Europa eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Türkei"
+    - name: "Türkei eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japan"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Rechte Seite: Kostenlose eSIM Konfiguration (4 Länder)
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Kostenlose eSIM sichern"
   icon: "🎁"
   item_suffix: "Kostenlose eSIM"
   item_subtitle: "Kostenlose eSIM"
   items:
-    - name: "Vereinigtes Königreich"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Deutschland"
@@ -83,256 +85,306 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Rechte Seite: Beliebte Fragen Konfiguration (5 Fragen)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Beliebte Fragen"
   items:
-    - question: "Was ist eSIM-Aktivierung und wie funktioniert sie?"
+    - question: "Was ist eine eSIM-Aktivierung und wie funktioniert sie?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Wie aktiviere ich eine eSIM?"
-      url: "/faq/how-to-activate-an-esim//"
-    - question: "Wie aktiviere ich eSIM auf dem iPhone (alle Modelle)?"
+    - question: "Wie aktiviert man eine eSIM?"
+      url: "/faq/how-to-activate-an-esim/"
+    - question: "Wie aktiviert man eSIM auf dem iPhone (alle Modelle)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Aktuelle eSIM-Kompatibilitätsliste"
       url: "/compatibility/"
 ---
 
 
-## Kernzusammenfassung
-
-Ja – das iPhone XR unterstützt eSIM vollständig. Das 2018 veröffentlichte iPhone XR war eines der ersten iPhones, das die eSIM-Technologie zusammen mit dem iPhone XS und XS Max enthielt.
-
-Hier ist, was Sie in 10 Sekunden wissen müssen:
-
-1. Überprüfen Sie Ihre Region: Alle globalen Modelle funktionieren. Festlandchina-Versionen haben keine eSIM. Modelle aus Hongkong/Macau haben teilweise Unterstützung (eine physische SIM + eine eSIM).
-2. Mit *#06# verifizieren: Wählen Sie diesen Code. Wenn eine 32-stellige EID erscheint, ist Ihr Telefon eSIM-bereit.
-3. In Minuten aktivieren: Scannen Sie einen QR-Code von einem beliebigen Anbieter vor Ihrer Reise. Schalten Sie bei der Landung Datenroaming ein.
-
-Auch wenn das iPhone XR älter ist, funktioniert seine eSIM genau wie bei den neuesten iPhones – keine Geschwindigkeits- oder Funktionseinschränkungen. Die [offizielle Apple Support-Dokumentation](https://support.apple.com/en-us/118670) bestätigt, dass das iPhone XR eSIM vollständig unterstützt.
-
-Für eine grundlegende Einführung in die eSIM-Technologie besuchen Sie unseren [Einsteiger-Guide zur eSIM](/faq/what-is-esim-activation-and-how-does-it-work/). Für eine detaillierte Schritt-für-Schritt-Anleitung zur Aktivierung auf verschiedenen Geräten finden Sie in unserem [eSIM Aktivierungs-Guide](/faq/how-to-activate-an-esim/).
+> **Hinweis der Redaktion:** Das iPhone XR unterstützt eSIM als zweite Leitung, ist aber auf 4G beschränkt und hat Stolperfallen, die man kennen sollte — China-Modelle und Netzbetreibersperren. Dieser Leitfaden beantwortet genau diese eine Frage anhand der Apple-Dokumentation und der Aktivierungsdaten von Roami, überprüft Stand September 2026. Bestätige dein Modell unten, bevor du 2026 ein iPhone von 2018 kaufst.
 
 
-## iPhone XR eSIM-Kompatibilität im Überblick
+## Ist das iPhone XR eSIM-kompatibel?
+
+**Ja — ein globales iPhone XR unterstützt eSIM vollständig.** Es war eines der ersten drei iPhones mit eSIM-Chip, zusammen mit XS und XS Max im September 2018. Eine physische Nano-SIM plus eine eSIM können gleichzeitig aktiv sein.
+
+Drei Dinge entscheiden, ob *dein* XR tatsächlich mit eSIM funktioniert:
+
+1. **Wo es verkauft wurde.** Globale Modelle (USA, Europa, Japan und der Großteil der Welt) haben eSIM. Festlandchina-Modelle — Modellnummer endet auf **CH/A**, bzw. Hardware **A2108** — nicht, weil Apple den eSIM-Chip entfernt hat, um Chinas Dual-physische-SIM-Regeln zu erfüllen.
+2. **Netzbetreibersperre.** Unter Einstellungen > Allgemein > Info muss bei **Netzbetreibersperre** „Keine SIM-Beschränkungen" stehen. Ein gesperrtes XR akzeptiert nur eSIMs seines ursprünglichen Netzbetreibers.
+3. **Software.** iOS 12.1 oder höher ist erforderlich; wir empfehlen iOS 16+.
+
+**Die schnellste Prüfung:** Öffne die Telefon-App, wähle `*#06#` und suche nach einer 32-stelligen **EID**. EID vorhanden = eSIM-Hardware vorhanden. Nur IMEI-Nummern = keine eSIM. Die vollständige dreistufige Überprüfungsanleitung findest du in unserem [iPhone-eSIM-Kompatibilitäts-Hub](/faq/iphone-11-esim-compatible/).
+
+
+## iPhone XR eSIM im Überblick
 
 | Funktion | Status |
-|---------|--------|
-| eSIM-Unterstützung | Ja |
-| Dual SIM (physische nano-SIM + eSIM) | Ja |
-| Anzahl gespeicherter eSIM-Profile | Bis zu 8+ (nur eines gleichzeitig aktiv) |
-| Festlandchina-Version | Keine eSIM |
-| Hongkong / Macau Version | Eingeschränkt (Dual SIM mit zwei physischen SIMs, bei einigen keine eSIM) |
+| :--- | :--- |
+| **eSIM-Unterstützung** | ✅ Ja (globale Modelle) |
+| **Dual-SIM** | ✅ 1 physische Nano-SIM + 1 eSIM (Dual-Standby) |
+| **Gleichzeitig aktive Leitungen** | 2 (eine pro Typ) |
+| **5G auf eSIM** | ❌ Nein — nur 4G LTE |
+| **Festlandchina-Version** | ❌ Keine eSIM — nur Dual-physische-SIM |
+| **Erforderliches iOS** | 12.1+ (16+ empfohlen) |
 
-Das iPhone XR unterstützt eSIM ab **iOS 12.1 oder höher** – in der Praxis bedeutet das, dass alle aktuellen iOS-Versionen (iOS 18–20) die eSIM-Funktionalität vollständig unterstützen. Wenn Sie Ihre Software seit Jahren nicht aktualisiert haben, gehen Sie zu Einstellungen > Allgemein > Softwareupdate.
+Die eSIM des XR funktioniert genau wie die in einem neueren iPhone — gleicher Installationsablauf, gleiches Dual-Standby-Verhalten — sie schafft nur maximal 4G LTE.
 
-Die technische Grundlage für die eSIM-Technologie wird durch den [GSMA-Standard SGP.22 V3.1](https://www.gsma.com/esim/) definiert – ein internationaler Rahmen, der die Kompatibilität zwischen Geräten und Anbietern weltweit sicherstellt.
 
+## Warum das iPhone XR auf 4G beschränkt ist
 
-## So überprüfen Sie, ob Ihr iPhone XR eSIM unterstützt (3 Methoden)
+Da das XR vor 5G auf den Markt kam, laufen seine eSIM (und seine physische SIM) nur auf 4G LTE. In der Praxis spielt das für Reisen selten eine Rolle: Karten, Nachrichten, Surfen im Web und Videoanrufe fühlen sich bei starkem LTE-Signal identisch an. Du merkst den Unterschied nur, wenn du explizit 5G-Geschwindigkeiten willst — in diesem Fall ist ein iPhone SE 3. Generation oder ein iPhone 12+ der Schritt nach oben. Der Kompromiss, unten behandelt: Das XR ist der günstigste Einstieg in eSIM überhaupt.
 
-### Methode 1: Der EID-Code (Schnellste und zuverlässigste Methode)
-1. Öffnen Sie Ihre Telefon-App (Wähltastenfeld).
-2. Geben Sie `*#06#` ein und drücken Sie Anruf.
-3. Schauen Sie auf den Bildschirm:
-   - **EID (32 Stellen) erscheint** → Ihr iPhone XR unterstützt eSIM.
-   - Nur IMEI-Nummern erscheinen → Keine eSIM (wahrscheinlich ein China-Modell).
 
-### Methode 2: In den Einstellungen prüfen
-Gehen Sie zu Einstellungen > Allgemein > Info. Scrollen Sie nach unten zum Bereich „Verfügbare SIM“ oder „Digitale SIM“. Wenn dort eine EID aufgelistet ist, ist Ihr Gerät eSIM bereit.
+## Reicht 4G LTE 2026 noch aus?
 
-### Methode 3: Versuchen Sie, einen Mobilfunkplan hinzuzufügen
-Gehen Sie zu Einstellungen > Mobilfunk > Mobilfunkplan hinzufügen. Wenn die Option ausgegraut oder nicht vorhanden ist, unterstützt Ihr Gerät keine eSIM. Wenn Sie darauf tippen können, ist alles gut.
+Kurzfassung: ja, für fast alles, was ein Reisender tut. Das XR schafft maximal 4G LTE — Apples A12-Bionic-Chip gepaart mit einem Gigabit-LTE-Modem — und das reicht 2026 noch völlig für die alltäglichen Aufgaben des Telefons.
 
-Eine vollständige Übersicht aller eSIM-fähigen Geräte – nicht nur von Apple – finden Sie in unserer **[eSIM-Kompatibilitätsliste](/compatibility/)**. Besonders für Besitzer älterer Geräte wie dem [iPhone 11](/faq/iphone-11-esim-compatible/) oder dem [iPhone SE](/faq/iphone-se-esim-compatible/) – beide sind ebenfalls eSIM-fähig.
+Reale Geschwindigkeiten in einem guten LTE-Netz liegen bei etwa **20–100 Mbit/s im Downstream**, was für HD-Videoanrufe, Musik-Streaming und Foto-Uploads ohne Ruckeln ausreicht. Das theoretische Maximum liegt höher, aber du wirst es selten brauchen.
 
+Was 4G LTE auf dem XR problemlos schafft:
 
-## So aktivieren Sie eSIM auf dem iPhone XR – Schritt für Schritt
+| Reiseaufgabe | 4G LTE auf dem XR |
+| :--- | :--- |
+| Karten und Navigation Schritt für Schritt | ✅ Sofort |
+| Messaging (iMessage, WhatsApp, Signal) | ✅ Sofort |
+| E-Mail und Surfen im Web | ✅ Sofort |
+| Videoanrufe (FaceTime, WhatsApp, Zoom) | ✅ Flüssig bei 720p–1080p |
+| Musik- und Podcast-Streaming | ✅ Flüssig |
+| Social Media und Foto-Uploads | ✅ In Ordnung |
+| Große Datei-Downloads / 4K-Streaming | ⚠️ Langsamer — 5G-Territorium |
 
-Die **iphone xr esim aktivieren** dauert weniger als 2 Minuten. Führen Sie sie **vor Ihrem Flug** durch – Sie benötigen nur Wi-Fi.
+Die einzige echte Lücke ist die 5G-spezifische Geschwindigkeit. Wenn deine Reise-eSIM mit 5G wirbt, installiert und nutzt das XR diesen Tarif trotzdem — es verbindet sich nur über LTE statt 5G. Auch die Abdeckung ist kein Problem: 4G LTE ist 2026 die globale Basis, und die Netzbetreiber werden es noch jahrelang neben 5G betreiben.
 
-1. Kaufen Sie einen eSIM-Tarif – Für Reisen wählen Sie eine [USA eSIM](/united-states-esim/), [Europa-eSIM](/europe-esim/) oder [Türkei eSIM](/turkey-esim/) – je nach Reiseziel. Eine [kostenlose Test-eSIM](/free-esim/) ist ebenfalls verfügbar.
-2. Öffnen Sie Einstellungen → Mobilfunk → Mobilfunkplan hinzufügen.
-3. Scannen Sie den QR-Code der Ihnen per E-Mail zugesandt wurde. (Wenn Sie einen manuellen Aktivierungscode haben, tippen Sie auf „Details manuell eingeben“.)
-4. Beschriften Sie Ihren Plan – z.B. „Reisen“, „Arbeit“, „UK Daten“.
-5. Wählen Sie die Standardlinie – Entscheiden Sie, welche Linie (physische SIM oder eSIM) für Mobildaten, Sprache und SMS verwendet werden soll.
-6. Schalten Sie Datenroaming für die eSIM-Linie ein, wenn Sie an Ihrem Zielort ankommen.
+**Fazit:** Die 4G-Grenze des XR ist eine *Geschwindigkeits*beschränkung, keine *Abdeckungs*- oder *Kompatibilitäts*beschränkung. Es ist der Preis für das günstigste eSIM-iPhone — und für die meisten Reisen ist es ein Preis, der sich lohnt. Stattdessen 5G auf einem günstigen eSIM-iPhone? Das [iPhone SE 3. Generation](/faq/iphone-se-esim-compatible/) ist der natürliche Schritt nach oben.
 
-Gehen Sie nach der Landung zu Einstellungen > Mobilfunk > eSIM und schalten Sie Datenroaming ein. Ohne dies wird Ihre eSIM keine Verbindung herstellen – das ist die häufigste Ursache für **eSIM kein Netz** nach der Aktivierung.
 
-Die **iphone xr esim einrichten** ist damit abgeschlossen. Für detaillierte Aktivierungsanleitungen auf anderen Geräten besuchen Sie unseren [iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/) – die Grundlagen gelten analog für das iPhone XR.
+## iPhone-XR-Modellnummern
 
+Die Hardware-Modellnummer deines XR verrät dir, ob es eSIM hat, noch bevor du ein Menü berührst. Apple verkaufte sechs Hardware-Varianten, und sie lassen sich sauber in zwei Lager aufteilen — eSIM oder keine eSIM:
 
-## Welche Anbieter funktionieren mit der iPhone XR eSIM?
+| Modellnummer | Verkaufsort | eSIM-Unterstützung |
+| :--- | :--- | :--- |
+| **A1984** | USA, Kanada, Puerto Rico, Guam, US-Jungferninseln | ✅ Ja |
+| **A2105** | Die meisten anderen Länder (global) | ✅ Ja |
+| **A2106** | Japan | ✅ Ja (möglicherweise mit Netzbetreibersperre) |
+| **A2107** | Festlandchina | ❌ Nein — Dual-physische-SIM |
+| **A2108** | Festlandchina, Hongkong, Macau | ❌ Nein — Dual-physische-SIM |
+| **A2109** | Festlandchina (Netzbetreiber-Variante) | ❌ Nein — Dual-physische-SIM |
 
-Ihr iPhone XR funktioniert mit jedem eSIM-Anbieter weltweit. Die **iphone xr esim unterstützung** ist bei diesem Modell uneingeschränkt gegeben.
+**Die Kurzfassung:** A1984, A2105 und A2106 haben eSIM. A2107, A2108 und A2109 haben stattdessen zwei physische Nano-SIMs — keinen eSIM-Chip. Das ist die ganze Karte.
 
-| Anbieter | Kompatibel? | Hinweise |
-|----------|-------------|-------|
-| **Airalo** | Voll kompatibel | Funktioniert perfekt auf dem iPhone XR – eines der **airalo kompatiblen Telefone** |
-| **Visible** | Ja | Erfordert iOS 15+ (aktualisieren Sie Ihr XR!). Funktioniert mit der Visible eSIM-Aktivierung über deren App – eines der **visible esim kompatiblen Telefone** |
-| **Google Fi** | Ja | Aktivierung über die Google Fi App – eines der **google fi esim kompatiblen Telefone** |
-| **Verizon** | Ja | Postpaid- und Prepaid-eSIM-Tarife funktionieren. Aktivierung über die My Verizon App oder QR-Code von Verizon. Für **Verizon eSIM Kompatibilität** wird das iPhone XR unterstützt |
-| **US Mobile** | Ja | Funktioniert mit deren Warp 5G oder GSM eSIM |
-| **T-Mobile (US)** | Ja | Unterstützt eSIM-Aktivierung per App oder QR |
-| **Holafly** | Ja | Voll kompatibel |
-| **Roami** | Ja | Volle Unterstützung für Reise-eSIMs |
+**So findest du sie:** Einstellungen > Allgemein > Info > Modellnummer. Tippe auf die Nummer, um zwischen dem Hardware-Code „AXXXX" und dem Handelscode „MNXXXX/A" zu wechseln.
 
-Das [Airalo Hilfe-Center](https://help.airalo.com) und die [Holafly FAQ](https://holafly.com/faq/) bieten detaillierte Informationen zur Aktivierung auf dem iPhone XR – ein Vergleich der Fair-Use-Policies lohnt sich vor dem Kauf.
+**Japan-Besonderheit (A2106):** Japan-Modelle *haben* eSIM, aber viele für den japanischen Markt verkaufte XRs wurden an docomo, au oder SoftBank gebunden verkauft. Prüfe **Einstellungen > Allgemein > Info > Netzbetreibersperre**, bevor du davon ausgehst, dass ein gebrauchtes Japan-Gerät entsperrt ist.
 
+**China-Besonderheit (A2107 / A2108 / A2109):** Diese drei sind die Festlandchina- und Hongkong-/Macau-Varianten. Sie werden mit zwei physischen Nano-SIMs und ohne eSIM-Chip ausgeliefert — kein iOS-Update, Reset oder Hack kann das ändern. Wenn du eine dieser drei im Info-Bildschirm siehst, stopp: Dieses Gerät wird nie eine eSIM annehmen.
 
-## Technischer Hintergrund – Warum das iPhone XR eSIM unterstützt
 
-Das iPhone XR war zusammen mit dem iPhone XS und XS Max das erste iPhone, das mit eSIM-Hardware ausgestattet wurde. Apple integrierte damals den **eUICC**-Chip (embedded Universal Integrated Circuit Card) in die Hauptplatine – einen manipulationssicheren Chip, der mehrere digitale SIM-Profile speichern kann.
+## Gebrauchtes iPhone XR für eSIM kaufen
 
-Der entscheidende technische Unterschied zu älteren iPhones (iPhone 8, 8 Plus, iPhone X):
+Das XR ist das günstigste eSIM-iPhone auf dem Gebrauchtmarkt, was es zu einem Magnet für Grauimport- und China-Modelle macht. Führe diese Checkliste persönlich durch, bevor du Geld übergibst:
 
-| Gerät | eUICC-Chip | eSIM-Unterstützung | Begründung |
-|-------|-----------|-------------------|------------|
-| iPhone XR, XS, XS Max | Ja | Ja | Erste iPhones mit eUICC-Hardware |
-| iPhone 8, 8 Plus, iPhone X | Nein | Nein | Kein eUICC-Chip verbaut – nur physische SIM |
+| Schritt | Was zu prüfen ist |
+| :--- | :--- |
+| **1** | **Modellnummer** (Einstellungen > Allgemein > Info) — alles mit Endung **CH/A** bzw. Hardware **A2107/A2108/A2109** ablehnen. |
+| **2** | **`*#06#` wählen** — bestätigen, dass eine 32-stellige **EID** erscheint, nicht nur IMEI-Nummern. |
+| **3** | **Netzbetreibersperre** — muss **„Keine SIM-Beschränkungen"** anzeigen. „SIM gesperrt" bedeutet: Reise-eSIMs sind tabu. |
+| **4** | **Einstellungen > Mobilfunk** — „Mobilfunktarif hinzufügen" muss antippbar sein, nicht ausgegraut. |
+| **5** | **Physischer SIM-Slot** — das XR hat einen Nano-SIM-Slot. Wenn kein Slot vorhanden ist, ist es kein XR. |
+| **6** | **Gratis-Test** — wenn der Verkäufer es erlaubt, eine kostenlose eSIM (wie die von Roami) installieren, um zu beweisen, dass die Aktivierung Ende-zu-Ende funktioniert. |
 
-Das iPhone XR unterstützt **Dual-SIM** (eine physische nano-SIM + eine eSIM) und kann bis zu 8 oder mehr eSIM-Profile speichern – aber nur eine eSIM gleichzeitig aktiv haben. Das Gerät ist damit **dual sim kompatibel** – Sie können Ihre heimische physische SIM für Anrufe und SMS aktiv lassen, während Sie eine Reise-eSIM für Daten nutzen.
+### Warnsignale beim Gebrauchtkauf
 
-Für Besitzer des iPhone X (10) oder iPhone 8, die nach **iphone x esim kompatibel** oder **iphone 8 esim kompatibel** suchen – die Antwort ist leider nein; diese Modelle haben keine eSIM-Hardware.
+| Warnsignal | Warum |
+| :--- | :--- |
+| **Keine EID bei `*#06#`** | China-Modell — keine eSIM-Hardware. |
+| **Netzbetreibersperre zeigt „SIM gesperrt"** | Reise-eSIMs funktionieren nicht, bis es entsperrt ist. |
+| **Verkäufer sagt „einfach iOS aktualisieren, dann gibt's eSIM"** | Falsch — eSIM ist Hardware, kein Software-Feature. |
+| **Mit iCloud gesperrt** | Das Telefon ist ein Ziegelstein — Finger weg. |
 
+### Akkuzustand, Preisspanne und wo man kauft
 
-## iPhone XR eSIM im Vergleich – warum dieses Modell für Reisende geeignet ist
+Abgesehen von EID- und Sperren-Checks entscheiden drei Dinge, ob ein gebrauchtes XR 2026 ein gutes Angebot ist:
 
-Das iPhone XR ist auch 2026 noch ein solides eSIM-Gerät für Reisende. Hier der Vergleich mit anderen eSIM-fähigen iPhones:
+**1. Akkuzustand.** Bei einem so alten Telefon ist das das Erste, was man prüft. Gehe zu **Einstellungen > Batterie > Batteriezustand und Laden** und lies die **Maximale Kapazität** ab. Über 90 % ist hervorragend; 85–90 % ist normal für ein wenig genutztes Gerät; unter 80 % bedeutet, dass Apple einen Batterieaustausch empfiehlt (etwa $69–89 in den USA) und das Telefon einen vollen Reisetag nur mühsam durchhält. Frage den Verkäufer nach dieser Zahl, bevor du zahlst.
 
-| Kriterium | iPhone XR | iPhone 11 | iPhone SE (2022) | iPhone 17 |
-|-----------|-----------|-----------|------------------|-----------|
-| eSIM-Unterstützung | Ja | Ja | Ja | Ja |
-| 5G-Unterstützung | Nein (4G LTE) | Nein (4G LTE) | Ja (5G) | Ja (5G) |
-| Dual-SIM | Ja (physisch + eSIM) | Ja | Ja | Regionenabhängig |
-| Preis (gebraucht, 2026) | Günstig | Günstig | Mittel | Hoch |
-| Für Reisende geeignet? | Ja – ideal für Budget-Reisende | Ja | Ja – kompakte Größe | Ja – High-End |
+**2. Preisspanne (September 2026).** Saubere, entsperrte XRs wechseln derzeit in einer schmalen Spanne den Besitzer:
 
-Das iPhone XR ist besonders für Reisende interessant, die ein erschwingliches eSIM-fähiges iPhone suchen. Die fehlende 5G-Unterstützung ist für die meisten Reiseanwendungen (Navigation, Messaging, Social Media) kein Hindernis – 4G LTE ist in den meisten Ländern weiterhin ausreichend schnell.
+| Zustand | Ungefährer Preis |
+| :--- | :--- |
+| Ordentlich, leichte Gebrauchsspuren, 64GB | $90–120 |
+| Gut, entsperrt, 64GB | $110–140 |
+| Gut, entsperrt, 128GB | $120–155 |
+| Hervorragend + gesunder Akku, 256GB | $140–175 |
 
-Für einen detaillierten Vergleich mit anderen Geräten besuchen Sie unsere spezifischen Guides:
-- [iPhone SE eSIM-Kompatibilität](/faq/iphone-se-esim-compatible/)
-- [iPhone 11 eSIM-Kompatibilität](/faq/iphone-11-esim-compatible/)
-- [Samsung S20 eSIM-Kompatibilität](/faq/samsung-s20-esim-compatible/)
+Alles, was deutlich unter diesen Zahlen liegt, ist meist ein China-Modell, ein Gerät mit Netzbetreibersperre oder ein iCloud-gesperrter Briefbeschwerer.
 
+**3. Wo kaufen.** Die sichersten Anlaufstellen sind Marktplätze, die die IMEI/ESN prüfen und ein Rückgabefenster bieten: **Swappa** (Einzelverkäufer, von den Mitarbeitern geprüfte Angebote), **Back Market** (refurbished mit 12 Monaten Garantie), **Amazon Renewed** und **eBay** (bleib bei Verkäufern mit hohem Feedback, „unlocked" im Angebot und eBay-Käuferschutz). Apple führt XR-Refurbs nicht mehr, daher ist Drittanbieter dein einziger Weg. Vermeide anonyme lokale Angebote und „Bulk-Import"-Verkäufer, die die IMEI vor dem Kauf nicht preisgeben.
 
-## Fehlerbehebung – wenn die iPhone XR eSIM nicht funktioniert
+### Die iOS-18-Grenze
 
-Auch bei sorgfältiger Vorbereitung kann es zu Problemen bei der **iphone xr esim fehlerbehebung** kommen:
+Das XR läuft von iOS 12 bis **iOS 18** — und dort endet es. Apple hat XR, XS und XS Max 2025 aus iOS 19 gestrichen, weil sie den älteren A12-Bionic-Chip teilen. Das Telefon funktioniert unter iOS 18 weiterhin einwandfrei und erhält weiterhin Sicherheitsupdates, aber neue große Features wird es nicht sehen.
 
-| Fehler / Symptom | Mögliche Ursache | Lösung |
-|------------------|------------------|--------|
-| **„Mobilfunkplan kann nicht hinzugefügt werden“** | QR-Code abgelaufen oder bereits verwendet | Neuen QR-Code beim Anbieter anfordern; manuelle Eingabe der SM-DP+ Adresse versuchen |
-| **eSIM zeigt „Kein Netz“ nach Aktivierung** | Daten-Roaming deaktiviert oder falsche APN | Einstellungen > Mobilfunk > eSIM > Daten-Roaming EIN schalten; APN-Einstellungen prüfen |
-| **EID wird nicht angezeigt** | China-Modell (keine eSIM-Hardware) | Physische SIM verwenden oder auf neueres iPhone upgraden |
-| **„Profil kann nicht heruntergeladen werden“** | WLAN-Verbindung instabil | Stabiles WLAN nutzen; VPN deaktivieren; iPhone neu starten |
-| **eSIM nach iOS-Update verschwunden** | Update hat eSIM-Konfiguration zurückgesetzt | eSIM über Original-QR-Code oder Anbieter-App erneut aktivieren |
-| **Dual-SIM funktioniert nicht wie erwartet** | Falsche Standardleitung für Sprache/Daten konfiguriert | Einstellungen > Mobilfunk > Standardleitung für Sprache und Daten prüfen |
-| **Zu viele eSIM-Profile gespeichert** | iPhone kann neue Profile nicht hinzufügen | Einstellungen > Mobilfunk > alte oder ungenutzte eSIMs löschen; iPhone neu starten |
+Für eSIM speziell spielt das keine Rolle: eSIM funktioniert auf iOS 18 und iOS 19 identisch. Es ist nur relevant, wenn du das Telefon mehrere Jahre behalten willst — in diesem Fall ist das [iPhone SE 3. Generation](/faq/iphone-se-esim-compatible/) (weiterhin voll unterstützt) der sicherere Langzeitkauf.
 
-### APN-Einstellungen manuell konfigurieren
 
-Falls nach der Installation kein Datennetz verfügbar ist, müssen oft die APN-Einstellungen manuell angepasst werden:
+## eSIM auf dem iPhone XR einrichten
 
-1. **iPhone**: Einstellungen > Mobilfunk > Mobilfunkdaten-Netzwerk → APN-Felder ausfüllen
+Sobald du bestätigt hast, dass das Telefon eine EID hat, dauert die Einrichtung etwa zwei Minuten. Das XR behält einen physischen Nano-SIM-Slot plus eine eSIM, daher ist die Option immer vorhanden — hier der XR-spezifische Ablauf:
 
-| Netz | APN | Benutzername | Passwort |
-|------|-----|--------------|----------|
-| Telekom (DE) | internet.telekom | (leer) | (leer) |
-| Vodafone (DE) | web.vodafone.de | (leer) | (leer) |
-| O2 (DE) | internet | (leer) | (leer) |
-| T-Mobile (US) | fast.t-mobile.com | (leer) | (leer) |
-| AT&T (US) | nxgen | (leer) | (leer) |
-| Verizon (US) | vzwinternet | (leer) | (leer) |
+1. Kaufe einen Tarif und achte auf die Bestätigungs-E-Mail (Roami liefert einen QR-Code plus eine SM-DP+-Adresse und einen Aktivierungscode).
+2. Öffne **Einstellungen > Mobilfunk > Mobilfunktarif hinzufügen** (iOS 12–15) bzw. **eSIM hinzufügen** (iOS 16–18 — das Label hat sich geändert, die Funktion nicht).
+3. Scanne den QR-Code oder tippe auf **Details manuell eingeben** und gib die SM-DP+-Adresse und den Aktivierungscode ein, falls die Kamera nicht fokussiert.
+4. Benenne die neue Leitung (z. B. „Reise") und wähle deine **Standardleitung** für Daten — lege hier die Reise-eSIM fest und lasse deine Heimleitung als Standard für Anrufe.
+5. Aktiviere **Roaming** für die Reiseleitung nach der Landung.
 
-Die genauen APN-Daten erhalten Sie auch im Kundenportal Ihres eSIM-Anbieters oder durch eine Suche nach „[Anbietername] APN Einstellungen [Land]“.
+Das XR ist Dual-Standby, nicht Dual-Aktiv: Beide Leitungen empfangen Anrufe und Nachrichten, aber nur eine hält gleichzeitig einen Sprachanruf. Das ist normal, kein Defekt.
 
-Falls weiterhin Probleme auftreten – etwa wenn die **eSIM Aktivierung fehlgeschlagen** ist – finden Sie in unserem **[eSIM Deep Troubleshooting Guide (16 reale Fälle)](/faq/esim-deep-troubleshooting-guide-2026/)** erweiterte Lösungen für komplexere Szenarien.
+Die vollständige Schritt-für-Schritt-Anleitung mit Screenshots findest du im [iPhone-eSIM-Aktivierungsleitfaden](/faq/how-to-activate-esim-on-iphone/); wenn während der Installation etwas fehlschlägt, findest du die Lösungen im [eSIM-Deep-Troubleshooting-Leitfaden 2026](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
-## eSIM auf Reisen mit dem iPhone XR – So nutzen Sie es im Ausland
+## XR-Akkulaufzeit mit Dual-SIM
 
-Das iPhone XR ist ein solider Begleiter für internationale Reisen. Die **dual sim kompatible** Funktion ermöglicht es Ihnen, Ihre heimische physische SIM für Anrufe und SMS aktiv zu lassen, während Sie eine günstige Reise-eSIM für Daten nutzen.
+Eine zweite (Reise-)Leitung auf dem XR zu betreiben ist leichtgewichtig, aber nicht gratis: Zwei im Netz registrierte Leitungen kosten täglich ein paar Prozent Akku. Rechne mit etwa **5–10 % schnellerem Akkuverbrauch** bei beiden aktiven Leitungen gegenüber einer.
 
-### Vorbereitung für USA-Reisen
+Die größere Variable bei einem Telefon von 2018 ist der Akku selbst. Ein gesundes XR schafft problemlos einen ganzen Tag gemischter Nutzung; eines mit müdem Akku (unter 85 % Zustand) will schon mittags nachgeladen werden, noch bevor du eine zweite Leitung hinzufügst. Drei einfache Maßnahmen, um ihn zu strecken:
 
-Für die USA ist das iPhone XR ideal – es unterstützt alle großen US-Netze (T-Mobile, AT&T, Verizon) auf 4G LTE. Eine [USA eSIM](/united-states-esim/) kann vor der Abreise gekauft und installiert werden.
+- **Schalte die Reiseleitung ab, wenn du sie nicht nutzt** — Einstellungen > Mobilfunk > [Reiseleitung] > **Diese Rufnummer aktivieren** ausschalten. Nach der Landung in Sekunden wieder aktivieren.
+- **Nutze den Stromsparmodus** — Einstellungen > Batterie > Stromsparmodus. Er begrenzt Hintergrundaktivität, ohne Anrufe oder Daten zu beeinträchtigen.
+- **Lasse nur eine Leitung auf Daten** — lege die Reise-eSIM als Datenstandard fest und lasse die Heimleitung für Anrufe/SMS idle, was das Funkmodul weniger belastet.
 
-### Vorbereitung für Europa-Reisen
+Für einen ganzen Tag Karten und Fotos mit beiden aktiven Leitungen: Nimm eine kleine Powerbank mit — das XR stammt aus der Zeit vor den Großakku-Ära.
 
-Für Reisen nach Europa bietet sich eine [Europa-eSIM](/europe-esim/) an. Das iPhone XR funktioniert mit allen großen europäischen Netzen – die 4G LTE-Abdeckung ist in den meisten europäischen Ländern hervorragend.
 
-### Vorbereitung für die Türkei
+## iPhone XR vs. iPhone 11 vs. iPhone SE für eSIM
 
-Für die [Türkei eSIM](/turkey-esim/) gilt das gleiche Prinzip: Vor der Abreise kaufen, installieren und bei der Landung aktivieren.
+Wenn du ein günstiges iPhone speziell für eSIM-Reisen kaufst, sind diese vier die übliche Shortlist (beide SE-Generationen verdienen einen Platz):
 
-### Dual-SIM-Funktion auf Reisen
+| Funktion | iPhone XR | iPhone 11 | iPhone SE (2. Generation) | iPhone SE (3. Generation) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Erscheinungsjahr** | 2018 | 2019 | 2020 | 2022 |
+| **eSIM-Unterstützung** | ✅ Ja | ✅ Ja | ✅ Ja | ✅ Ja |
+| **5G** | ❌ Nein (4G LTE) | ❌ Nein (4G LTE) | ❌ Nein (4G LTE) | ✅ Ja |
+| **Dual-SIM-Typ** | 1 physisch + 1 eSIM | 1 physisch + 1 eSIM | 1 physisch + 1 eSIM | 1 physisch + 1 eSIM |
+| **Dual-eSIM (ohne physische SIM)** | ❌ Nein | ❌ Nein | ❌ Nein | ❌ Nein |
+| **Gespeicherte eSIM-Profile** | ~5–8 | ~5–8 | ~8 | ~8 |
+| **Display** | 6,1″ LCD | 6,1″ LCD | 4,7″ LCD | 4,7″ LCD |
+| **Akku** | Gut | Besser | Ordentlich | Ordentlich |
+| **Kamera** | Einzelobjektiv | Dualobjektiv | Einzelobjektiv | Einzelobjektiv |
+| **Face ID / Touch ID** | Face ID | Face ID | Touch ID | Touch ID |
+| **Ungefährer Gebrauchtpreis** | $100–150 | $150–250 | $120–180 | $200–280 |
+| **Am besten für** | Günstigster eSIM-Einstieg | Bessere Kamera + Akku | Am kleinsten + Home-Button | 5G + Langlebigkeit |
 
-Das iPhone XR unterstützt **Dual-SIM** mit einer aktiven physischen SIM und einer aktiven eSIM gleichzeitig. So vermeiden Sie teure Roaming-Gebühren und bleiben trotzdem erreichbar.
+**Empfehlung:**
+- **Nimm das XR**, wenn du das absolut günstigste funktionierende eSIM-iPhone willst und dir 5G oder die kürzere Software-Laufbahn egal sind.
+- **Nimm das 11**, wenn dir eine bessere Kamera und Akku ~$50–100 mehr wert sind.
+- **Nimm die SE 2. Generation**, wenn du dieselbe eSIM in einem kleineren Gehäuse mit Home-Button willst (und kein 5G brauchst).
+- **Nimm die SE 3. Generation**, wenn du 5G, längere iOS-Unterstützung willst und planst, das Telefon drei oder mehr Jahre zu behalten.
 
-Wenn Sie nach der Reise Ihr Gerät wechseln möchten, ist die [plattformübergreifende eSIM-Übertragung](/faq/how-to-transfer-esim-between-iphone-and-android/) ab iOS 18 möglich – das iPhone XR unterstützt diese Funktion mit iOS 18 und neuer.
+Für einen Deep-Dive zu den SE-Generationen und Netzbetreiber-Entsperrregeln sieh dir den [iPhone-SE-eSIM-Leitfaden](/faq/iphone-se-esim-compatible/) an.
 
 
-## Liste der iPhones, die eSIM unterstützen – vollständige Modellübersicht
+## Was, wenn dein iPhone XR keine EID zeigt?
 
-Wenn Sie nach **liste der iphones die esim unterstützen** gesucht haben, hier die vollständige Übersicht:
+Das einzige XR ohne eSIM ist eines, das in **Festlandchina** verkauft wurde — und in seltenen Fällen ein Hongkong- oder Macau-Gerät, das über chinesische Kanäle lief.
 
-| iPhone Modell | eSIM-Unterstützung | Dual SIM (Physisch + eSIM) |
-|--------------|--------------|----------------------------|
-| iPhone XR, XS, XS Max | Ja | Ja |
-| iPhone 11, 11 Pro, 11 Pro Max | Ja | Ja |
-| iPhone SE (2020, 2022) | Ja | Ja |
-| iPhone 12, 12 mini, 12 Pro, 12 Pro Max | Ja | Ja |
-| iPhone 13, 13 mini, 13 Pro, 13 Pro Max | Ja | Ja |
-| iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | Ja | US-Modelle: nur eSIM; andere: physisch + eSIM |
-| iPhone 15, 15 Plus, 15 Pro, 15 Pro Max | Ja | Wie bei 14 |
-| iPhone 16, 17 Serie | Ja | Nur eSIM in einigen Regionen |
+### Warum sich das nicht beheben lässt
 
-**Hinweis:** In Festlandchina verkaufte iPhones haben keine eSIM (außer einige limitierte Modelle aus Hongkong/Macau). **iPhone 8, 8 Plus, iPhone X (10)** unterstützen keine eSIM – sie sind nur mit physischer SIM erhältlich.
+Das XR trägt einen eingelöteten Chip namens **eUICC** (embedded Universal Integrated Circuit Card), der eSIM-Profile speichert. Bei China-Markt-Geräten lässt Apple diesen Chip physisch weg oder deaktiviert ihn, um eine lokale Vorschrift zu erfüllen, die zwei physische SIM-Slots verlangt. Das ist Hardware, keine Firmware — kein iOS-Update, Reset oder Hack kann einem A2107, A2108 oder A2109 eSIM hinzufügen.
 
-Wenn Sie nach **iphone x esim kompatibel** gesucht haben – die Antwort ist nein. Das iPhone X (2017) hat keine eSIM-Hardware. Die ersten iPhones mit eSIM sind XR, XS und XS Max. Ziehen Sie ein Upgrade auf ein iPhone XR oder neuer in Betracht, wenn Sie eSIM nutzen möchten.
+### Was du stattdessen tun kannst
 
-Wenn Sie von einem älteren Gerät ohne eSIM upgraden möchten, finden Sie in unserer Übersicht zu [eSIM-fähigen iPhones](/compatibility/) alle unterstützten Modelle.
+| Option | Details |
+| :--- | :--- |
+| **Eine physische Reise-SIM nutzen** | Viele Anbieter versenden weiterhin physische SIMs weltweit — du sitzt nicht fest. |
+| **Auf ein neueres iPhone umsteigen** | Jedes spätere iPhone gibt dir eSIM. Siehe den [iPhone-11-Leitfaden](/faq/iphone-11-esim-compatible/) oder [iPhone-SE-Leitfaden](/faq/iphone-se-esim-compatible/). |
+| **Zu Android wechseln** | Das [Samsung S20](/faq/samsung-s20-esim-compatible/) (Exynos-Version) oder [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) sind solide Alternativen. |
 
+### So bestätigst du ein China-Modell
 
-## Was tun, wenn Ihr iPhone XR KEINE EID anzeigt?
+| Indikator | Worauf du achten solltest |
+| :--- | :--- |
+| **Modellnummer** | Endet auf **CH/A**, bzw. Hardware **A2107 / A2108 / A2109**. |
+| **`*#06#`** | Keine EID — nur IMEI-Nummern. |
+| **Einstellungen > Mobilfunk** | „Mobilfunktarif hinzufügen" fehlt oder ist ausgegraut. |
 
-Das einzige Szenario, in dem einem iPhone XR die eSIM fehlt, ist, wenn es in Festlandchina gekauft wurde (einschließlich einiger Hongkong-Modelle, die über chinesische Kanäle verkauft werden).
 
-**Was können Sie tun?**
+## Fehlerbehebung bei iPhone-XR-eSIM-Problemen
 
-- Verwenden Sie eine physische Reise-SIM – viele Anbieter bieten weltweit versendete physische SIM-Karten an.
-- Upgrade auf ein neueres iPhone – Das [iPhone 11](/faq/iphone-11-esim-compatible/), [iPhone SE](/faq/iphone-se-esim-compatible/) oder jedes spätere Modell bietet Ihnen eSIM.
-- Überprüfen Sie, ob Sie tatsächlich ein Hongkong-Modell haben – Einige Hongkong-iPhones unterstützen Dual SIM (physisch + eSIM). Versuchen Sie es erneut mit `*#06#`. Wenn Sie eine EID sehen, ist alles in Ordnung.
+| Problem | Wahrscheinliche Ursache | Lösung |
+| :--- | :--- | :--- |
+| **„Mobilfunktarif kann nicht hinzugefügt werden"** | Zu viele gespeicherte Profile | Nicht genutzte Profile löschen (Einstellungen > Mobilfunk > Mobilfunktarif entfernen) |
+| **Installiert, aber keine Daten** | Roaming ausgeschaltet | Roaming für diese Leitung aktivieren |
+| **„Deine eSIM wird nicht unterstützt"** | Veraltetes iOS oder inkompatibles Profil | Auf iOS 16+ aktualisieren; Anbieter kontaktieren |
+| **„Keine SIM" nach Aktivierung** | Beschädigtes Profil | Löschen und neu installieren |
+| **QR sagt „Ungültig"** | QR abgelaufen oder bereits verwendet | Neuen QR-Code vom Anbieter anfordern |
+| **Lange „Suchen"** | Außerhalb der Abdeckung | Manuelle Netzauswahl (Einstellungen > Mobilfunk > [Tarif] > Netzauswahl) |
+| **Andere Leitung bricht während eines Anrufs ab** | Normales Dual-Standby-Verhalten | Nichts zu reparieren — nur eine Leitung hält gleichzeitig eine Sprachverbindung |
 
-Wenn Sie immer noch unsicher sind, können Sie eine [kostenlose Test-eSIM](/free-esim/) installieren – es dauert 2 Minuten und kostet nichts. Wenn sie erfolgreich installiert wird, ist Ihr Telefon zu 100 % bereit.
+Für Fehlerbehebungen auf Fehlercode-Ebene siehe den [eSIM-Deep-Troubleshooting-Leitfaden 2026](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
 ## Häufig gestellte Fragen
 
-**Ist das iPhone XR eSIM mit allen Anbietern kompatibel?**
-Ja – jeder Anbieter, der eSIM anbietet (Postpaid, Prepaid oder Reise-eSIM), funktioniert auf dem iPhone XR, sofern Ihr Gerät entsperrt ist. Die **iphone xr esim unterstützung** ist uneingeschränkt.
+**Ist das iPhone XR mit jedem Netzbetreiber eSIM-kompatibel?**
+Ja — jeder Netzbetreiber, der eSIM anbietet (Postpaid, Prepaid oder Reise), funktioniert auf einem globalen, entsperrten XR. Die vollständige Netzbetreiberabdeckung findest du auf unserer [Kompatibilitätsliste](/compatibility/).
 
-**Kann ich auf dem iPhone XR eSIM und physische SIM gleichzeitig verwenden?**
-Ja. Sie können eine aktive eSIM + eine aktive physische SIM gleichzeitig haben – das ist ein echter **Dual-SIM-Betrieb**. Das Gerät ist **dual sim kompatibel**.
+**Unterstützt das iPhone XR 5G auf eSIM?**
+Nein. Das XR ist nur 4G LTE, sowohl auf seiner physischen SIM als auch auf seiner eSIM. eSIM funktioniert einwandfrei auf LTE; du siehst nur keine 5G-Geschwindigkeiten.
 
-**Unterstützt das iPhone XR 5G eSIM?**
-Nein – das iPhone XR unterstützt nur **4G LTE**. eSIM funktioniert perfekt mit LTE, aber Sie erhalten keine 5G-Geschwindigkeiten. Für 5G benötigen Sie ein iPhone 12 oder neuer.
+**Kann ich auf dem XR eSIM und eine physische SIM gleichzeitig nutzen?**
+Ja — eine aktive eSIM plus eine aktive physische SIM, ein echtes Dual-SIM-Dual-Standby-Setup. Wie die Einstellungen funktionieren, ist im [iPhone-eSIM-Kompatibilitäts-Hub](/faq/iphone-11-esim-compatible/) erklärt.
 
-**Mein iPhone XR zeigt „Mobilfunkplan kann nicht hinzugefügt werden“ – was ist falsch?**
-Dies passiert normalerweise, wenn Sie zu viele gespeicherte eSIM-Profile haben. Gehen Sie zu Einstellungen > Mobilfunk und entfernen Sie alle alten oder ungenutzten eSIMs. Starten Sie dann Ihr Telefon neu und versuchen Sie es erneut.
+**Wie viele eSIM-Profile kann ein iPhone XR speichern?**
+Es kann etwa fünf bis acht gespeicherte Profile aufnehmen, aber nur eine eSIM kann gleichzeitig neben der physischen SIM aktiv sein.
 
-**Funktioniert die iPhone XR eSIM in Europa?**
-Ja – aber beachten Sie, dass britische lokale eSIMs (wie EE oder Vodafone) nach dem Brexit tägliche EU-Roaming-Gebühren erheben können. Für mehrtägige Reisen kaufen Sie stattdessen eine [Regional-Europa-eSIM](/europe-esim/).
+**Kann ich auf dem XR zwei eSIMs gleichzeitig nutzen?**
+Nein — Dual-eSIM (zwei aktive eSIMs) begann mit dem iPhone 13. Das XR schafft maximal eine eSIM plus eine physische SIM.
 
-**Unterstützt das iPhone X (iPhone 10) eSIM?**
-Nein. Das iPhone X (veröffentlicht 2017) hat keine eSIM-Hardware. Die ersten iPhones mit eSIM sind XR, XS und XS Max. Wenn Sie nach **iphone x esim kompatibel** gesucht haben – die Antwort ist nein. Ziehen Sie ein Upgrade auf ein iPhone XR oder neuer in Betracht.
+**Was ist das günstigste iPhone mit eSIM?**
+Ein gebrauchtes iPhone XR bei etwa $100–150. Das iPhone SE 3. Generation ist das günstigste *neue* eSIM-iPhone.
 
-**Unterstützen iPhone 8 oder 8 Plus eSIM?**
-Nein. iPhone 8 und 8 Plus (2017) sind nur mit physischer SIM erhältlich. Sie unterstützen keine eSIM. Wenn Sie irgendwo **iphone 8 esim kompatibel** gesehen haben, ist das falsch. Nur iPhone XR und neuer (außer China-Modelle) haben eSIM.
+**Wie prüfe ich, ob mein XR eine Netzbetreibersperre hat?**
+Einstellungen > Allgemein > Info > Netzbetreibersperre. „Keine SIM-Beschränkungen" = entsperrt. Ein Netzbetreibername = gesperrt; kontaktiere diesen Netzbetreiber, um eine Entsperrung anzufordern.
 
-**Kann ich eine eSIM vom iPhone XR auf ein neues iPhone übertragen?**
-Ja – ab iOS 18 ist die eSIM-Schnellübertragung zwischen iPhones möglich. Legen Sie einfach Ihr altes iPhone XR neben Ihr neues iPhone und folgen Sie den Anweisungen. Bei Problemen hilft unser **[eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
+**Warum zeigt mein XR auf einer Leitung „Kein Dienst" während eines Anrufs an?**
+Das ist normales Dual-Standby-Verhalten. Das XR hält eine Sprachverbindung gleichzeitig; die andere Leitung verbindet sich neu, wenn der Anruf endet.
+
+**Hat das iPhone XR einen physischen SIM-Slot?**
+Ja — anders als die US-iPhone 14 und später behält das XR einen Nano-SIM-Slot neben seiner eSIM.
+
+**Hat ein in China gekauftes iPhone XR eSIM?**
+Nein. China-Markt-XRs (A2107/A2108/A2109 bzw. CH/A) haben Dual-physische-SIMs und keinen eSIM-Chip. Das lässt sich nicht ändern.
+
+**Kann ich eSIM auf dem XR genauso aktivieren wie bei einem neueren iPhone?**
+Ja — der Installationsablauf ist identisch. Die vollständige Schritt-für-Schritt-Aktivierung findest du in unserem [iPhone-eSIM-Aktivierungsleitfaden](/faq/how-to-activate-esim-on-iphone/), und APN-Werte im [Troubleshooting-Leitfaden](/faq/esim-deep-troubleshooting-guide-2026/).
+
+**Bekommt das iPhone XR iOS 19?**
+Nein. Apple hat XR, XS und XS Max 2025 aus iOS 19 gestrichen; das letzte große OS für das XR ist iOS 18. Es funktioniert weiterhin für eSIM und erhält weiterhin Sicherheitsupdates.
+
+**Lohnt sich das XR 2026 für eSIM noch?**
+Ja, als günstiges Reise-Telefon. Für $100–150 ist es das günstigste zuverlässige eSIM-iPhone. Prüfe nur zuerst EID, Netzbetreibersperre und Akkuzustand — und wisse, dass du ein 4G-Telefon mit iOS 18 kaufst.
+
+**Funktioniert ein 5G-eSIM-Tarif auf dem XR?**
+Ja, aber nur mit 4G-LTE-Geschwindigkeit. Das XR installiert jeden eSIM-Tarif; es kann sich nur nicht mit 5G verbinden. Ein „5G"-Tarif funktioniert einwandfrei auf dem XR — er ist einfach unnötig.
+
+**Kann sich das XR über eSIM mit einer Cellular Apple Watch koppeln?**
+Ja. Das XR kann eine Cellular Apple Watch koppeln, die ihre eigene separate eSIM verwendet. Watch-Einrichtung und Grenzen sind im [iPad- und Apple-Watch-eSIM-Leitfaden](/faq/ipad-apple-watch-esim-support-guide/) behandelt.
+
+👉 **Mit einem XR unterwegs?** Sieh dir [eSIM für die USA](/united-states-esim/) oder [eSIM für Europa](/europe-esim/) an.
+
+## Eine kostenlose eSIM testen
+
+Der schnellste Weg, die eSIM eines XR zu bestätigen, ist die Installation einer **kostenlosen Testversion-eSIM**. Sie kostet nichts, dauert zwei Minuten, und wenn sie sich installieren lässt, ist das Telefon zu 100 % bereit.
+
+👉 [**Hol dir jetzt deine kostenlose eSIM**](/free-esim/) — funktioniert auf dem iPhone XR (außer China-Modellen).
 
 ---
-*Basierend auf Apple Support-Dokumenten, GSMA-Standards und Anbieterinformationen Stand Juni 2026. Die eSIM-Kompatibilität kann je nach Region und Anbieter variieren.*
+
+*Basierend auf der offiziellen Apple-Dokumentation, GSMA-Standards und Netzbetreiberinformationen Stand September 2026.*
+## Quellen
+
+- [GSMA — eSIM (SGP.22)-Spezifikation](https://www.gsma.com/esim/)
+- [Apple Support — eSIM auf dem iPhone einrichten](https://support.apple.com/en-us/HT212780)
+- [Apple Support — Über eSIM auf dem iPhone](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Dual-SIM mit einer eSIM verwenden](https://support.apple.com/en-us/HT209086)
