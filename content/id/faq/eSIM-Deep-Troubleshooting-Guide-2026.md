@@ -5,8 +5,8 @@ description: "Atasi kegagalan aktivasi eSIM, error transfer, tanpa sinyal, dan m
 image: "/img/faq/esim-troubleshooting-guide.webp"
 image-1: "/img/faq/esim-troubleshooting-guide-1.jpg"
 keywords: ["pemecahan masalah eSIM", "aktivasi eSIM gagal", "eSIM tanpa sinyal", "error transfer eSIM", "transfer eSIM lintas platform", "iOS 18 eSIM", "pengaturan APN eSIM", "kode konfirmasi eSIM", "kunci operator eSIM", "eSIM macet saat mengaktifkan"]
-date: 22026-09-15T00:00:00Z
-lastmod: 22026-09-15T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Pemecahan Masalah", "Travel Setup"]
 toc: true
 

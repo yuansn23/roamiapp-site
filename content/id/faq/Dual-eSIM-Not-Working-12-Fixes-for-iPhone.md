@@ -5,8 +5,8 @@ description: "Dual eSIM tidak berfungsi? Perbaiki 12 masalah iPhone: routing pan
 image: "/img/faq/dual-esim-not-working.webp"
 image-1: "/img/faq/dual-esim-not-working-1.jpg"
 keywords: ["dual eSIM not working", "iPhone dual SIM no service", "dual eSIM signal issue", "eSIM carrier lock", "dual eSIM troubleshooting", "dual eSIM activation failed", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "dual eSIM no service"]
-date: 22026-09-15T00:00:00Z
-lastmod: 22026-09-15T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 

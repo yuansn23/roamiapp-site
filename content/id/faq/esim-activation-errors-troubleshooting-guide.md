@@ -5,8 +5,8 @@ description: "Terjebak dengan kesalahan eSIM? Pelajari cara memperbaiki kegagala
 image: "/img/faq/esim-activation-errors.webp"
 image-1: "/img/faq/esim-activation-errors-1.jpg"
 keywords: ["esim tidak berfungsi", "esim tidak didukung", "esim tidak kompatibel iphone", "tidak dapat mengaktifkan esim", "jaringan esim tidak tersedia", "esim tidak berpindah ke iphone baru", "tidak sengaja menghapus esim", "profil esim kedaluwarsa", "kode qr esim tidak valid", "cara memperbaiki esim di iphone", "kesalahan transfer esim", "esim tanpa layanan"]
-date: 22026-09-15T00:00:00Z
-lastmod: 22026-09-15T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 tags: ["eSIM", "Pemecahan Masalah", "Kesalahan Aktivasi", "iPhone", "Android"]
 toc: true
 

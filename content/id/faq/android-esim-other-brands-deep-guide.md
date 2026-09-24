@@ -5,8 +5,8 @@ description: "Apakah ponsel Android Anda mendukung eSIM? Cek daftar kompatibilit
 image: "/img/faq/android-esim-other-brands.webp"
 image-1: "/img/faq/android-esim-other-brands-1.jpg"
 keywords: ["android esim", "ponsel android kompatibel esim", "apakah motorola punya esim", "apakah oneplus punya esim", "apakah xiaomi punya esim", "apakah huawei punya esim", "apakah sony punya esim", "apakah ponsel android saya punya esim", "kompatibilitas esim android", "ponsel yang mendukung esim"]
-date: 22026-09-15T00:00:00Z
-lastmod: 22026-09-15T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 tags: ["Android", "eSIM", "Kompatibilitas", "Motorola", "OnePlus", "Xiaomi", "Huawei"]
 toc: true
 

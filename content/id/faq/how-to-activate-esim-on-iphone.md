@@ -3,8 +3,8 @@ title: "Cara Mengaktifkan eSIM di iPhone (2026)"
 h1_title: "Cara Mengaktifkan eSIM di iPhone di 2026 – Panduan Lengkap Langkah demi Langkah"
 description: "Panduan lengkap aktivasi eSIM iOS 2026. Tidak perlu menelepon operator Anda. Ikuti instruksi sederhana untuk kode QR, aplikasi Settings, atau aplikasi operator. Cepat & gratis."
 keywords: ["aktivasi eSIM", "cara mengaktifkan eSIM iPhone", "penyiapan eSIM iPhone", "menambahkan eSIM ke iPhone", "kode QR eSIM iPhone", "eSIM perjalanan iPhone", "pemecahan masalah eSIM iPhone", "memindahkan eSIM ke iPhone baru", "aktivasi eSIM gagal iPhone", "eSIM tanpa sinyal iPhone", "eSIM macet saat mengaktifkan"]
-date: 22026-09-15T00:00:00Z
-lastmod: 22026-09-15T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 tags: ["eSIM", "iOS", "Pemecahan Masalah", "Travel Setup"]
 toc: true
 image: "/img/faq/activate-esim-iphone.webp"

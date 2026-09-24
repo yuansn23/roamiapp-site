@@ -3,8 +3,8 @@ title: "Cara Mengaktifkan eSIM di iOS dan Android"
 h1_title: "Cara Mengaktifkan eSIM di iOS dan Android (Langkah demi Langkah)"
 description: "Panduan langkah demi langkah mengaktifkan eSIM di iPhone dan Android: kode QR, entri manual, atau aplikasi operator, plus perbaikan untuk kegagalan aktivasi."
 keywords: ["eSIM activation", "how to activate eSIM", "activate eSIM iPhone", "Android eSIM", "eSIM QR code", "eSIM manual entry", "eSIM troubleshooting", "travel eSIM", "eSIM setup iPhone", "add eSIM to iPhone"]
-date: 22026-09-15T00:00:00Z
-lastmod: 22026-09-15T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/img/faq/how-to-activate-esim.webp"

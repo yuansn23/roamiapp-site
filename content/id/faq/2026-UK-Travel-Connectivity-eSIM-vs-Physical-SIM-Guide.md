@@ -3,8 +3,8 @@ title: "Perjalanan Inggris: eSIM vs SIM Fisik (Panduan Lengkap)"
 h1_title: "Perjalanan Inggris 2026: eSIM vs SIM Fisik – Panduan Lengkap"
 description: "Merencanakan perjalanan ke Inggris? Bingung antara eSIM vs SIM fisik? Panduan bahasa sederhana ini membahas Vodafone UK eSIM, Roami, Airalo, dan lainnya. Tanpa jargon teknis."
 keywords: ["UK eSIM", "travel eSIM UK", "eSIM vs physical SIM UK", "UK eSIM comparison", "Vodafone UK eSIM", "best eSIM for UK travel", "UK mobile data", "cheapest UK eSIM", "UK eSIM activation", "EE eSIM UK", "O2 eSIM UK", "Three eSIM UK", "UK eSIM hotspot"]
-date: 22026-09-15T00:00:00Z
-lastmod: 22026-09-15T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "Vodafone"]
 toc: true
 image: "/img/faq/uk-esim-vs-physical-sim.webp"

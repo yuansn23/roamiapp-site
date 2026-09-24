@@ -5,8 +5,8 @@ description: "Aktifkan Roami eSIM di iPhone 16 dalam waktu kurang dari 30 detik.
 image: "/img/faq/iphone-16-esim-activation.webp"
 image-1: "/img/faq/iphone-16-esim-activation-1.jpg"
 keywords: ["iPhone 16 eSIM", "iPhone 16 compatibility", "activate eSIM iPhone 16", "Roami 5G", "eSIM battery life", "eSIM vs physical SIM", "dual eSIM iPhone"]
-date: 22026-09-15T00:00:00Z
-lastmod: 22026-09-15T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 tags: ["eSIM", "iOS", "Troubleshooting", "Travel Setup", "iPhone 16"]
 toc: true
 aliases:

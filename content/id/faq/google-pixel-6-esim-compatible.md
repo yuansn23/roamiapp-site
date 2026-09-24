@@ -5,8 +5,8 @@ description: "Google Pixel mana yang mendukung eSIM? Daftar lengkap Pixel 2–10
 image: "/img/faq/google-pixel-6-esim.webp"
 image-1: "/img/faq/google-pixel-6-esim-1.jpg"
 keywords: ["google pixel esim kompatibel", "pixel 6 esim", "pixel 7 esim", "pixel 8 esim", "esim perjalanan pixel", "dual sim pixel", "dukungan esim pixel", "google fi ponsel kompatibel esim", "ponsel kompatibel esim", "pixel 9 esim", "pixel 4a esim", "pixel 5 esim"]
-date: 22026-09-15T00:00:00Z
-lastmod: 22026-09-15T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 tags: ["Google Pixel", "eSIM", "Kompatibilitas", "Pixel 6", "Pixel 7", "Pixel 8", "Pixel 9", "Pixel 10"]
 toc: true
 
