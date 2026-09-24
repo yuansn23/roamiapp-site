@@ -1,13 +1,14 @@
 ---
-title: "VS eSIM: Throttling & Verborgen Kosten Vermijden"
-h1_title: "Hoe je Throttling en Verborgen Kosten Vermijdt met een VS eSIM in 2026"
-description: "Airalo of Roami voor VS eSIM? Vergelijk data, oproepen en roamingregels om de beste waarde voor je VS-reis te krijgen. Gratis proefperiode inbegrepen."
-keywords: ["VS eSIM", "beste esim voor vs", "vs esim prepaid", "t-mobile esim prepaid", "verizon esim compatibiliteit", "onbeperkt data vs esim", "vs esim met telefoonnummer", "at&t esim prepaid", "reis eSIM vs", "noord-amerika esim"]
-date: 2026-09-16T10:00:00Z
-lastmod: 2026-09-16T00:00:00Z
-tags: ["eSIM", "iOS", "Android", "Probleemoplossing", "Reisinstallatie"]
+title: "USA eSIM: vermijd throttling en verborgen kosten"
+h1_title: "Hoe vermijd je throttling en verborgen kosten met een USA eSIM in 2026"
+description: "Airalo of Roami voor USA eSIM? Vergelijk data, bellen en roamingregels om de beste waarde voor je USA-reis te krijgen. Gratis proefversie inbegrepen."
+keywords: ["US eSIM", "beste esim voor usa", "usa esim prepaid", "t-mobile esim prepaid", "verizon esim compatibiliteit", "onbeperkte data us esim", "us esim met telefoonnummer", "at&t esim prepaid", "travel eSIM usa", "noord-amerika esim"]
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
+tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
-image: "/img/esim/us-esim-guide-2026.jpg"
+image: "/img/faq/us-esim-guide.webp"
+image-1: "/img/faq/us-esim-guide-1.jpg"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"
@@ -29,10 +30,10 @@ breadcrumbs:
  
 # Sidebar: Popular eSIMs
 sidebar_popular:
-  title: "Populaire eSIMs"
+  title: "Populaire eSIM's"
   item_suffix: "eSIM"
   items:
-    - name: "VS eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -65,7 +66,7 @@ sidebar_popular:
 
 # Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Claim Gratis eSIM"
+  title: "Claim gratis eSIM"
   icon: "🎁"
   item_suffix: "Gratis eSIM"
   item_subtitle: "Gratis eSIM"
@@ -85,484 +86,486 @@ sidebar_free:
 
 # Sidebar: Popular questions
 sidebar_questions:
-  title: "Populaire Vragen"
+  title: "Populaire vragen"
   items:
     - question: "Wat is eSIM-activering en hoe werkt het?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Hoe activeer ik een eSIM?"
+    - question: "Hoe activeer je een eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Hoe activeer ik eSIM op iPhone (alle modellen)?"
+    - question: "Hoe activeer je eSIM op iPhone (alle modellen)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Nieuwste eSIM-compatibiliteitslijst"
+    - question: "Actueelste eSIM-compatibiliteitslijst"
       url: "/compatibility/"
 ---
 
 
-> **Redacteurennoot:** Roami is een in de VS gevestigde eSIM-provider die multi-provider switching biedt (T-Mobile, AT&T en Verizon) op één abonnement. Deze gids vergelijkt Roami met andere grote providers op basis van onafhankelijke tests en providerdekkinggegevens. Alle prijzen en abonnementsdetails zijn geverifieerd per augustus 2026.
+> **Redactionele noot:** Throttling en verborgen kosten — niet de geadverteerde prijs — zijn de manier waarop de meeste Amerikaanse travel eSIM-abonnementen stilletjes meer kosten, en dagelijkse limieten en automatische verlenging zijn meestal de boosdoeners. Deze gids vergelijkt Roami met de drie grote Amerikaanse netwerken op basis van carrier-dekkingsgegevens, waarbij elke prijs is geverifieerd per september 2026. Lees de sectie over verborgen kosten voordat je koopt.
 
-## 10-Seconden VS eSIM Beslissingsmatrix – Kies Je Perfecte Abonnement
+Voor een reis door de VS kies je je abonnement eerst op dekking en pas daarna op prijs: stedentrips werken prima op abonnementen op basis van T-Mobile, terwijl routes door nationale parken het bereik van AT&T of Verizon nodig hebben. Reken op ongeveer $23 voor 10GB/30 dagen bij data-only aanbieders, met multi-netwerkabonnementen op een vergelijkbaar prijsniveau. De beslissingsmatrix, de lijst met verborgen kosten en de volledige aanbiedersvergelijking vind je hieronder.
 
-**Niet zeker welk reisdata-abonnement je moet kopen? Beantwoord 2 vragen en ga:**
+## Beslissingsmatrix voor US eSIM
 
-| Je Reisstijl | Beste Netwerk | Aanbevolen Abonnement | Geschatte Kosten |
+**Niet zeker welk travel data-abonnement je moet kopen? Beantwoord 2 vragen en ga:**
+
+| Jouw reisstijl | Beste netwerk | Aanbevolen abonnement | Geschatte kosten |
 | :--- | :--- | :--- | :--- |
-| 🏙️ **Stedentrip (NYC/LA/Chicago)** – 5–7 dagen, casual data | T-Mobile (snelste 5G) | 3GB–5GB vast | $10–$18 |
-| 🏜️ **Roadtrip / Nationale Parken** – 10–14 dagen, GPS + foto's | AT&T of Verizon (breedste landelijke dekking) | 10GB vast of onbeperkt | $25–$45 |
-| 💼 **Zakenreis** – 5–10 dagen, videogesprekken + hotspot | T-Mobile (laagste latency) | 10GB–20GB | $20–$35 |
-| 🌎 **Meerlanden (VS+CAN+MEX)** – 7–14 dagen | Auto-switching regionaal | 5GB–10GB regionaal | $20–$40 |
-| 📱 **Zware gebruiker** – 15+ dagen, streaming + tethering | Multi-netwerk (elke provider) | Onbeperkt (met FUP) | $40–$60 |
+| 🏙️ **Stedentrip (NYC/LA/Chicago)** – 5–7 dagen, incidenteel datagebruik | T-Mobile (snelste 5G) | 3GB–5GB vast | $10–$18 |
+| 🏜️ **Roadtrip / nationale parken** – 10–14 dagen, GPS + foto's | AT&T of Verizon (breedste dekking op het platteland) | 10GB vast of onbeperkt | $25–$45 |
+| 💼 **Zakenreis** – 5–10 dagen, videogesprekken + hotspot | T-Mobile (laagste latentie) | 10GB–20GB | $20–$35 |
+| 🌎 **Meerdere landen (VS+CAN+MEX)** – 7–14 dagen | Regionaal met automatisch wisselen | 5GB–10GB regionaal | $20–$40 |
+| 📱 **Zwaar gebruiker** – 15+ dagen, streamen + tethering | Multi-netwerk (welke carrier dan ook) | Onbeperkt (met FUP) | $40–$60 |
 | 💰 **Budgetreiziger** – 3–5 dagen, licht gebruik | Elk netwerk (goedkoopste per GB) | 1GB–2GB | $3–$8 |
 
-**Scroll nu naar je match voor volledige details.**
+**Scroll nu naar jouw match voor alle details.**
 
-Voor een complete lijst van apparaten die werken met digitale reisabonnementen, zie onze **[volledige compatibiliteitsgids](/compatibility/)**.
+Voor een complete lijst met eSIM-compatibele apparaten, zie onze **[volledige compatibiliteitsgids](/compatibility/)**.
 
-Voor bredere reisdata-tips buiten de VS, zie onze **[Reis eSIM-gids](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/)**.
+Voor bredere tips over travel data buiten de VS, zie onze **[Travel eSIM-gids](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/)**.
 
 
-## Verplicht Lezen Voor Aankoop: Ondersteunt Je Telefoon Digitale Reisabonnementen?
+## Ondersteunt je telefoon een US eSIM?
 
-Hier raken de meeste reizigers in de problemen. Je moet verifiëren dat de hardware van je telefoon digitale connectiviteit ondersteunt voordat je betaalt. Bekijk de complete lijst van compatibele apparaten in Roami's bijgewerkte **[2026 compatibiliteitsdatabase](/compatibility/)**.
+Dit is waar de meeste reizigers de weg kwijtraken. Je moet verifiëren dat de hardware van je telefoon eSIM ondersteunt voordat je betaalt. Bekijk Roami's bijgewerkte **[compatibiliteitsdatabase 2026](/compatibility/)** voor de volledige lijst met eSIM-compatibele apparaten.
 
-### De Universele EID-check – `*#06#`
+### De universele EID-check
 
-De snelste universele check: Open de kiesschijf van je telefoon en typ `*#06#`. Als een lange barcode met het label **EID** op je scherm verschijnt, ondersteunt je telefoon digitale abonnementen.
+De snelste universele controle: open de belapp van je telefoon en toets `*#06#`. Als er een lange barcode met het label **EID** op je scherm verschijnt, is je telefoon eSIM-klaar.
 
 ### iPhone-compatibiliteit
 
-| Model | Werkt? | Opmerkingen |
+| Model | Werkt het? | Opmerkingen |
 | :--- | :--- | :--- |
-| **iPhone XR / XS / XS Max** | ✅ Ja | Eerste modellen met digitale SIM-ondersteuning |
+| **iPhone XR / XS / XS Max** | ✅ Ja | Eerste modellen met eSIM-ondersteuning |
 | **iPhone 11 – 16** | ✅ Ja | Alle modellen (behalve China/HK/Macau) |
-| **iPhone 14/15/16 (VS)** | ✅ Ja (alleen digitaal) | Geen fysieke SIM-lade |
-| **iPhone (China/HK/Macau)** | ❌ Nee (behalve iPhone 16) | Dual fysieke SIM in plaats daarvan |
-| **iPhone 8 of ouder** | ❌ Nee | Geen digitale SIM-hardware |
+| **iPhone 14/15/16 (VS)** | ✅ Ja (alleen eSIM) | Geen fysieke SIM-sleuf |
+| **iPhone (China/HK/Macau)** | ❌ Nee (behalve iPhone 16) | In plaats daarvan dubbele fysieke SIM |
+| **iPhone 8 of ouder** | ❌ Nee | Geen eSIM-hardware |
 
-**Hoe je je iPhone verifieert:**
-1. Ga naar **Instellingen**.
-2. Tik op **Algemeen > Over**.
-3. Scroll omlaag en zoek naar **Beschikbare SIM** of een **EID**-nummer.
-4. Als je geen EID kunt vinden, breek je aankoop onmiddellijk af.
+**Zo verifieer je je iPhone:**
+1. Ga naar **Settings**.
+2. Tik op **General > About**.
+3. Scroll omlaag en zoek naar **Available SIM** of een **EID**-nummer.
+4. Als je geen EID kunt vinden, breek je aankoop direct af.
 
-**Kritieke waarschuwing:** Als je je iPhone hebt gekocht in **Vasteland-China, Hongkong of Macau**, ondersteunt deze vrijwel zeker GEEN digitale abonnementen (Apple bouwt dual fysieke SIM-lades voor deze specifieke regio's).
+**Kritieke waarschuwing:** Als je je iPhone hebt gekocht in **vasteland-China, Hongkong of Macau**, ondersteunt deze vrijwel zeker GEEN eSIM (Apple bouwt dubbele fysieke SIM-sleuven voor deze specifieke regio's).
 
 ### Android-compatibiliteit
 
-Android-compatibiliteit is gefragmenteerd. **Google Pixel 3** en nieuwer, samen met **Samsung Galaxy S20** en nieuwer (met uitzondering van sommige FE-modellen), ondersteunen over het algemeen digitale connectiviteit.
+Android-compatibiliteit is versnipperd. **Google Pixel 3** en nieuwer, samen met **Samsung Galaxy S20** en nieuwer (exclusief sommige FE-modellen), ondersteunen over het algemeen eSIM.
 
-| Telefoonmodel | Werkt? | Opmerkingen |
+| Telefoonmodel | Werkt het? | Opmerkingen |
 | :--- | :--- | :--- |
 | **Google Pixel 3–9** | ✅ Ja | Alle modellen |
 | **Samsung Galaxy S20–S25** | ✅ Ja | Behalve sommige FE-modellen |
 | **Samsung Galaxy Z Fold/Flip** | ✅ Ja | Alle modellen |
 | **Huawei / Xiaomi / OPPO / vivo** | ⚠️ Controleer model | De meeste China-modellen = geen ondersteuning |
 
-Net als bij Apple hebben telefoons die zijn gefabriceerd voor de Chinese binnenlandse markt (Huawei, Xiaomi, OPPO, vivo) meestal de digitale module fysiek verwijderd.
+Net als bij Apple hebben telefoons die voor de Chinese binnenlandse markt zijn gemaakt (Huawei, Xiaomi, OPPO, vivo) meestal de eSIM-hardware fysiek verwijderd.
 
-**Hoe je je Android verifieert:**
-1. Ga naar **Instellingen**.
-2. Tik op **Netwerk & internet** (of **Verbindingen**).
-3. Tik op **SIMs** (of **SIM-beheer**).
-4. Zoek naar een knop **eSIM toevoegen** of **Een SIM downloaden in plaats daarvan?**. Als die bestaat, ben je veilig.
+**Zo verifieer je je Android:**
+1. Ga naar **Settings**.
+2. Tik op **Network & Internet** (of **Connections**).
+3. Tik op **SIMs** (of **SIM Manager**).
+4. Zoek naar een knop **Add eSIM** of **Download a SIM instead?**. Bestaat die, dan zit je goed.
 
-Voor gedetailleerde activeringsinstructies voor je specifieke apparaat, zie onze **[iPhone eSIM-activeringsgids](/faq/how-to-activate-esim-on-iphone/)** of **[algemene activeringsgids](/faq/how-to-activate-an-esim/)**.
+Voor gedetailleerde activeringsinstructies voor jouw specifieke apparaat, zie onze **[iPhone eSIM-activeringsgids](/faq/how-to-activate-esim-on-iphone/)** of **[algemene activeringsgids](/faq/how-to-activate-an-esim/)**.
 
-### Als Je Telefoon Geen Digitale Abonnementen Ondersteunt
+### Als je telefoon geen eSIM ondersteunt
 
-Als je al deze stappen hebt doorlopen en geen EID of digitaal menu hebt gevonden, heb je drie alternatieven:
-- **Koop een fysieke reis-SIM** – sommige providers verzenden fysieke kaarten naar je huisadres
-- **Koop een lokale prepaid SIM na aankomst** – werkt op elke ontgrendelde telefoon
-- **Gebruik internationale roaming van je thuisprovider** – de duurste optie, maar nul installatie
+Als je alle stappen hebt doorlopen en geen EID of digitaal menu hebt gevonden, heb je drie alternatieven:
+- **Koop een fysieke travel SIM** – sommige aanbieders versturen fysieke kaarten naar je huisadres
+- **Koop een lokale prepaid SIM na aankomst** – werkt op elke simlockvrije telefoon
+- **Gebruik internationaal roamen van je thuisprovider** – de duurste optie, maar nul instellingen
 
 
-## De Complete VS eSIM Aankoopreis – Van Beslissing tot Activering
+## De complete gids voor het kopen van een US eSIM
 
-Hier is de end-to-end reis die de meeste reizigers volgen. Gebruik dit om bij te houden waar je bent.
+Dit is het traject van begin tot eind dat de meeste reizigers volgen. Gebruik dit om bij te houden waar je bent.
 
-| Stap | Wat Je Doet | Waar Je Het Vindt |
+| Stap | Wat je doet | Waar je het vindt |
 | :--- | :--- | :--- |
-| **1. Beslis of je er een nodig hebt** | Controleer of je telefoon digitale abonnementen ondersteunt (EID-check). | [Compatibiliteitssectie hierboven](#verplicht-lezen-voor-aankoop-ondersteunt-je-telefoon-digitale-reisabonnementen) |
-| **2. Kies je netwerk** | T-Mobile (steden) vs AT&T/Verizon (landelijk/parken). | [Netwerkvergelijking](#t-mobile-vs-att-vs-verizon--welk-vs-netwerk-is-het-beste-voor-jou) |
-| **3. Kies je abonnement** | Stem af op je reislengte + datagewoonten. | [Abonnementselectie](#hoe-je-het-beste-data-abonnement-voor-vs-reizen-kiest-op-basis-van-je-reisroute) |
-| **4. Vergelijk providers** | Airalo vs Roami vs Holafly – welke is het goedkoopst? | [Providervergelijking](#airalo-vs-roami-vs-holafly--welk-vs-data-abonnement-is-goedkoper-in-2026) |
-| **5. Let op verborgen kosten** | Activeringskosten, opwaarderingspremies, restitutiebeleid. | [Checklist verborgen kosten](#verborgen-kosten-2026--wat-niemand-je-vertelt-over-vs-reisdata-abonnementen) |
-| **6. Kopen en activeren** | Scan QR-code voor landing, schakel in bij aankomst. | [Activeringsgids](#stap-voor-stap-gids-hoe-je-een-vs-reisabonnement-koopt-en-activeert) |
-| **7. Probleemoplossing indien nodig** | Geen signaal? Langzame snelheden? Los het snel op. | [Probleemoplossing](#vs-reisdata-probleemoplossing--veelvoorkomende-problemen-en-oplossingen) |
+| **1. Bepaal of je er een nodig hebt** | Controleer of je telefoon eSIM ondersteunt (EID-check). | [Compatibiliteitssectie hierboven](#does-your-phone-support-a-us-esim) |
+| **2. Kies je netwerk** | T‑Mobile (steden) vs AT&T/Verizon (platteland/parken). | [Netwerkvergelijking](#which-us-network-is-best-for-you-t-mobile-att-or-verizon) |
+| **3. Kies je abonnement** | Stem af op je reisduur + datagedrag. | [Keuze abonnement](#how-to-choose-the-best-usa-esim-plan-based-on-your-itinerary) |
+| **4. Vergelijk aanbieders** | Airalo vs Roami vs Holafly – welke is het goedkoopst? | [Aanbiedersvergelijking](#which-us-esim-plan-is-cheaper-airalo-roami-or-holafly) |
+| **5. Let op verborgen kosten** | Activeringskosten, opwaardeerpremies, restitutiebeleid. | [Checklist verborgen kosten](#hidden-us-esim-plan-fees) |
+| **6. Koop en activeer** | Scan de QR code vóór de landing, schakel in bij aankomst. | [Activeringsgids](#how-to-buy-and-activate-a-us-esim) |
+| **7. Los problemen op indien nodig** | Geen signaal? Trage snelheden? Los het snel op. | [Troubleshooting](#common-us-esim-issues-and-fixes) |
 
 
-## Waarom een VS Reisdata-abonnement Essentieel is in 2026
+## Waarom een US eSIM in 2026 essentieel is om te reizen
 
-Een **digitaal reisabonnement** (gewoonlijk eSIM genoemd) is een microchip die direct op het moederbord van je telefoon is gesoldeerd. Je hebt geen SIM-ejectietool nodig. Je scant gewoon een QR-code om een netwerkprofiel van een lokale provider te downloaden en binnen enkele seconden te activeren. De technologie wordt beheerst door de [GSMA-standaard SGP.22](https://www.gsma.com/esim/), wat wereldwijde interoperabiliteit garandeert.
+Een **US eSIM** is een microchip dat direct op het moederbord van je telefoon gesoldeerd is. Je hebt geen SIM-uwer nodig. Je scant simpelweg een QR code om in enkele seconden het netwerkprofiel van een lokale provider te downloaden en te activeren. De technologie valt onder de [GSMA-standaard SGP.22](https://www.gsma.com/esim/), wat wereldwijde interoperabiliteit waarborgt.
 
-In 2026 is het gebruik van een digitaal abonnement voor VS-reizen effectief verplicht. Vanaf de iPhone 14-serie verwijderde Apple **volledig de fysieke SIM-lade** voor alle Amerikaanse modellen. Deze hardwarerevolutie dwong Amerikaanse providers om volledig over te stappen op digitaal, waardoor prepaid fysieke kaarten steeds moeilijker te vinden zijn op luchthavens of in gemakswinkels. De [officiële Apple supportpagina voor eSIM](https://support.apple.com/en-us/108072) bevestigt deze overgang.
+In 2026 is het gebruik van een US eSIM om te reizen feitelijk verplicht. Vanaf de iPhone 14-serie heeft Apple de **fysieke SIM-sleuf volledig verwijderd** voor alle Amerikaanse modellen. Deze hardware­revolutie dwong Amerikaanse carriers om volledig over te stappen op digitaal, waardoor prepaid fysieke kaarten steeds moeilijker te vinden zijn op luchthavens of in winkels. De [officiële Apple-supportpagina voor eSIM](https://support.apple.com/en-us/HT212780) bevestigt deze overgang.
 
-Vertrouwen op internationale roaming van je thuisprovider garandeert hoge dagelijkse kosten en aanzienlijke netwerklatency. Door vooraf een **reisdata-abonnement** te kopen, maakt je telefoon automatisch verbinding met een 5G-netwerk op het moment dat je vliegtuig landt, zodat je onmiddellijk een Uber kunt bestellen.
+Vertrouwen op het internationaal roamen van je thuisprovider garandeert hoge dagelijkse kosten en aanzienlijke netwerklatentie. Door vooraf een **US eSIM** aan te schaffen, verbindt je telefoon zich automatisch met een 5G-netwerk zodra je vliegtuig landt, zodat je direct een Uber kunt aanvragen.
 
-![Een infographic die het verschil toont tussen een traditionele fysieke SIM-kaart en een digitaal eSIM-profiel](/img/us-esim/3.jpg)
+![Een infographic dat het verschil toont tussen een traditionele fysieke SIM-kaart en een digitaal eSIM-profiel](/img/us-esim/3.jpg)
 
 
-## T-Mobile vs AT&T vs Verizon – Welk VS Netwerk is het Beste voor Jou?
+## Welk Amerikaans netwerk is het beste voor jou: T-Mobile, AT&T of Verizon?
 
-De Amerikaanse telecommunicatie-infrastructuur wordt beheerst door drie giganten: **T-Mobile**, **AT&T** en **Verizon**. De abonnementen die je koopt, routeren via deze premium basisnetwerken om ervoor te zorgen dat je de best mogelijke verbinding krijgt. Het verkeerde netwerk kiezen verandert je telefoon in een baksteen. Je reisroute bepaalt welke provider je moet gebruiken.
+De Amerikaanse telecominfrastructuur wordt gecontroleerd door drie reuzen: **T-Mobile**, **AT&T** en **Verizon**. De abonnementen die je koopt, worden gerouteerd via deze premium basisnetwerken om de best mogelijke verbinding te garanderen. Het verkeerde netwerk kiezen maakt van je telefoon een baksteen. Je reisroute bepaalt welke carrier je moet gebruiken.
 
-![Een side-by-side vergelijking van dekkingskaarten (T-Mobile vs AT&T vs Verizon) die stedelijke vs. landelijke sterktes benadrukt](/img/us-esim/2.jpg)
+![Een naast-elkaar-vergelijking van dekkingskaarten (T-Mobile vs AT&T vs Verizon) die stedelijke versus landelijke sterke punten uitlicht](/img/us-esim/2.jpg)
 
-### VS Providervergelijkingstabel – Belangrijkste Verschillen in Één Oogopslag
+### Vergelijkingstabel Amerikaanse carriers
 
-| Metriek | T-Mobile | AT&T | Verizon |
+| Metric | T-Mobile | AT&T | Verizon |
 | :--- | :--- | :--- | :--- |
-| **Stedelijke 5G-snelheid** | ⭐⭐⭐⭐⭐ (Snelste) | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+| **Stedelijke 5G-snelheid** | ⭐⭐⭐⭐⭐ (snelste) | ⭐⭐⭐⭐ | ⭐⭐⭐ |
 | **Landelijke dekking** | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **Nationale dekkingsgebied** | ~62% van VS landmassa | ~68% | ~70% |
-| **Laagbandfrequenties** | Band 71 (600MHz) | Band 12/14 (700MHz) | Band 13 (700MHz) |
-| **Beste voor** | Steden, snelheidsgevoelige gebruikers | Roadtrips, nationale parken | Bergen, afgelegen gebieden |
+| **Nationaal dekkingsgebied** | ~62% van het Amerikaanse grondgebied | ~68% | ~70% |
+| **Low-band frequenties** | Band 71 (600MHz) | Band 12/14 (700MHz) | Band 13 (700MHz) |
+| **Geschikt voor** | Steden, snelheidsgevoelige gebruikers | Roadtrips, nationale parken | Bergen, afgelegen gebieden |
 | **Gemiddelde 5G-download** | 150–350 Mbps | 80–180 Mbps | 70–150 Mbps |
-| **Netwerklatency** | 20–35ms | 30–50ms | 35–55ms |
+| **Netwerklatentie** | 20–35ms | 30–50ms | 35–55ms |
 
-### T-Mobile: De Koning van 5G-snelheid en Stedelijke Dekking
+### T-Mobile 5G-snelheid en stedelijke dekking
 
-Als je verblijft in grote steden zoals New York, Los Angeles, San Francisco of Chicago, is **T-Mobile** je absolute eerste keuze. T-Mobile bezit het breedste en snelste mid-band 5G-netwerk van het land (2,5GHz-spectrum). Als je specifiek op zoek bent naar een prepaid T-Mobile-optie, routeren veel reisabonnementen via T-Mobile's netwerk.
+Als je in grote steden zoals New York, Los Angeles, San Francisco of Chicago verblijft, is **T-Mobile** je absolute eerste keuze. T-Mobile heeft het breedste en snelste mid-band 5G-netwerk van het land (2,5GHz-spectrum). Als je specifiek op zoek bent naar een prepaid T‑Mobile-optie, worden veel eSIM-abonnementen via het netwerk van T‑Mobile gerouteerd.
 
-**Belangrijkste voordeel:** Laagste latency (20–35ms) – beste voor videogesprekken, gaming en real-time apps.
+**Belangrijkste voordeel:** Laagste latentie (20–35ms) – het beste voor videogesprekken, gaming en realtime-apps.
 
-### AT&T en Verizon: De Beste Keuzes voor Nationale Parken en Afgelegen Gebieden
+### AT&T- en Verizon-dekking voor nationale parken en afgelegen gebieden
 
-Als je reisroute een Route 66-roadtrip, Yellowstone, de Grand Canyon of Yosemite bevat, moet je een abonnement kopen dat wordt aangedreven door **AT&T** of **Verizon**. Deze legacy-providers exploiteren enorme laagbandnetwerken (700MHz) die verder reiken en beter door gebouwen en bossen dringen.
+Als je route een Route 66-roadtrip, Yellowstone, de Grand Canyon of Yosemite omvat, moet je een abonnement kopen dat draait op **AT&T** of **Verizon**. Deze gevestigde carriers exploiteren enorme low-band netwerken (700MHz) die verder reiken en beter doordringen tot gebouwen en bossen.
 
-**Belangrijkste voordeel:** AT&T's FirstNet-infrastructuur en Verizon's Band 13 geven hen superieure reikwijdte in landelijk en bergachtig terrein.
+**Belangrijkste voordeel:** AT&T's FirstNet-infrastructuur en Verizon's Band 13 geven hen een superieur bereik op het platteland en in bergachtig terrein.
 
-Roami biedt toegang tot beide netwerken, inclusief prepaid toegang via AT&T en Verizon, via automatische provider-switching – je bent niet vastgeklonken aan een enkel netwerk.
+Roami biedt toegang tot beide netwerken, inclusief prepaid toegang via AT&T en Verizon, via automatisch carrier-wisselen – je zit niet vast aan één netwerk.
 
-### Praktijktest Dekkingsresultaten (2026)
+### Resultaten dekkingstest
 
-| Locatietype | T-Mobile | AT&T | Verizon |
+| Locatietype | T‑Mobile | AT&T | Verizon |
 | :--- | :--- | :--- | :--- |
 | Times Square, NYC | ✅ Uitstekend (500+ Mbps) | ✅ Goed | ✅ Goed |
 | Downtown Chicago | ✅ Uitstekend | ✅ Goed | ✅ Goed |
 | Grand Canyon South Rim | ⚠️ Beperkt | ✅ Goed | ✅ Goed |
 | Yellowstone Old Faithful | ⚠️ Sporadisch | ✅ Goed | ✅ Uitstekend |
-| Route 66 (landelijk AZ/NM) | ⚠️ Dode zones | ✅ Goed | ✅ Goed |
+| Route 66 (platteland AZ/NM) | ⚠️ Dode zones | ✅ Goed | ✅ Goed |
 | Yosemite Valley | ⚠️ Beperkt | ✅ Goed | ✅ Uitstekend |
 
 
-## Hoe Je het Beste Data-abonnement voor VS-reizen Kiest op Basis van Je Reisroute
+## Zo kies je het beste USA eSIM-abonnement op basis van je reisschema
 
-Koop niet blind de duurste optie. Stem je abonnement af op je exacte verblijfsduur en datagewoonten om je geld te maximaliseren.
+Koop niet blindelings de duurste optie. Stem je eSIM-abonnement af op je exacte verblijfsduur en datagedrag om je geld te maximaliseren.
 
-### Kortetermijnreizen (1-15 dagen): Vaste Data-abonnementen
+### Vaste dataplannen voor kortdurende reizen
 
-Voor een vakantie van één of twee weken bieden hotels en restaurants gratis Wi-Fi. Je data-behoeften buitenshuis zijn strikt voor Google Maps, Uber, WhatsApp en snelle webzoekopdrachten. Een **5GB tot 10GB vast abonnement** is meer dan genoeg.
+Voor een vakantie van één of twee weken bieden hotels en restaurants gratis wifi. Je behoeften aan data buitenshuis zijn strikt beperkt tot Google Maps, Uber, WhatsApp en snelle zoekopdrachten. Een **vast abonnement van 5GB tot 10GB** is meer dan genoeg.
 
-**Geschat dataverbruik per dag (typische reis):**
+**Geschat dagelijks datagebruik (typisch op reis):**
 - Google Maps (30 min): ~50MB
 - Instagram/TikTok scrollen (1 uur): ~200–400MB
 - WhatsApp-berichten (hele dag): ~20MB
-- Uber/Lyft-ritten (3–4 ritten): ~10MB
+- Uber/Lyft ritten (3–4 ritten): ~10MB
 - Eén videogesprek van 10 min: ~150MB
 - **Totaal typische dag: ~500MB–1GB**
 
-### Langdurige Zaken-/Familiebezoeken (15-30+ dagen): Grotere of Onbeperkte Abonnementen
+### Langdurige verblijven met grotere of onbeperkte abonnementen
 
-Als je langer dan een halve maand verblijft of zware video-inhoud consumeert, verwijdert een onbeperkt data-abonnement de stress van het bijhouden van megabytes. Je moet echter het **Fair Usage Policy (FUP)** begrijpen. Bijna alle "onbeperkte" abonnementen hebben een verborgen hogesnelheidslimiet. Zodra je een specifieke dagelijkse drempel overschrijdt (bijv. 2GB of 3GB), throttelen providers je snelheid naar 2G/3G-niveaus (128kbps - 384kbps). Controleer altijd de FUP-limieten in je abonnementsdetails voordat je afrekent.
+Blijf je langer dan een halve maand of verbruik je veel video, dan haalt een onbeperkt eSIM-abonnement de stress van het bijhouden van megabytes weg. Je moet echter het **Fair Usage Policy (FUP)** begrijpen. Vrijwel alle "onbeperkte" abonnementen hebben een verborgen snelheidslimiet. Zodra je een specifieke dagelijkse drempel overschrijdt (bijv. 2GB of 3GB), remmen carriers je snelheid af tot 2G/3G-niveau (128kbps - 384kbps). Controleer altijd de FUP-limieten in je abonnementsdetails voordat je afrekent.
 
-### Grensoverschrijdende Reisroutes: Noord-Amerika (VS, Canada, Mexico) Regionale Abonnementen
+### Regionale plannen voor Noord-Amerika voor VS, Canada en Mexico
 
-Als je Vancouver of Cancun bezoekt tijdens je VS-reis, koop dan een **Noord-Amerika Regionaal abonnement**. Deze abonnementen dwingen je telefoon om automatisch over te schakelen naar partnernetwerken wanneer je grenzen oversteekt (bijv. Rogers in Canada, Telcel in Mexico).
+Bezoek je Vancouver of Cancún tijdens je reis door de VS, koop dan een **regionaal abonnement voor Noord-Amerika**. Deze abonnementen laten je telefoon automatisch wisselen naar partnernetwerken zodra je de grens over gaat (bijv. Rogers in Canada, Telcel in Mexico).
 
-### VS Reisabonnementstypes – Snelle Referentie
+### Soorten US eSIM-abonnementen
 
-| Abonnementstype | Beste voor | Typisch Prijsbereik | Let Op |
+| Abonnementstype | Geschikt voor | Typisch prijsbereik | Let op |
 | :--- | :--- | :--- | :--- |
-| **Vaste GB (1–30 dagen)** | Korte reizen, licht/medium gebruik | $2–$40 | Data loopt op = opwaardering nodig |
-| **Onbeperkt (dagelijkse FUP)** | Zwaar gebruik, geen tracking stress | $30–$60 | Throttle na dagelijkse FUP-limiet |
-| **Regionaal (VS+CAN+MEX)** | Meerlanden reisroutes | $15–$50 | Controleer of data werkt in alle 3 landen |
-| **Met Telefoonnummer** | SMS-verificatie, lokale oproepen | $20–$50 | Vaak duurder per GB |
-| **Pay-per-day** | Flexibele, onvoorspelbare reizen | $5–$12/dag | Duurste per GB |
+| **Vaste GB (1–30 dagen)** | Korte reizen, licht/gemiddeld gebruik | $2–$40 | Data raakt op = opwaarderen nodig |
+| **Onbeperkt (dagelijkse FUP)** | Zwaar gebruik, geen bijhouden-stress | $30–$60 | Throttling na dagelijkse FUP-limiet |
+| **Regionaal (VS+CAN+MEX)** | Meerdere landen op reisschema | $15–$50 | Controleer of data in alle 3 landen werkt |
+| **Met telefoonnummer** | SMS-verificatie, lokaal bellen | $20–$50 | Meestal duurder per GB |
+| **Betalen per dag** | Flexibel, onvoorspelbare reizen | $5–$12/dag | Duurste per GB |
 
 
-## Verborgen Kosten 2026 – Wat Niemand Je Vertelt Over VS Reisdata-abonnementen
+## Verborgen kosten van US eSIM-abonnementen
 
-De geadverteerde prijs is zelden de uiteindelijke prijs. Hier is de kleine lettertjes die de meeste reizigers missen:
+De geadverteerde prijs is zelden de eindprijs. Dit is de kleine lettertjes die de meeste reizigers missen:
 
-### 1. Activerings-/Servicekosten
-Sommige providers rekenen een eenmalige **activeringskosten** ($1–$5) die niet in de hoofdpijs is inbegrepen. Controleer altijd het afrekentotaal voordat je je creditcard invoert.
+### Activerings- en servicekosten
+Sommige aanbieders rekenen eenmalige **eSIM-activeringskosten** ($1–$5) die niet in de geadverteerde prijs zijn inbegrepen. Controleer altijd het totaalbedrag bij het afrekenen voordat je je creditcard invoert.
 
-### 2. Opwaarderingsprijsinflatie
-Het goedkoopste abonnement is vaak een "loss leader." Wanneer je meer data moet toevoegen, kan de prijs per GB **2–3x hoger** zijn dan het initiële abonnement. Voorbeeld: Een 1GB/7-dagen abonnement voor $4.99 kan een 1GB-opwaardering hebben voor $8.99. **Koop genoeg data vooraf.**
+### Opwaarderprijsinflatie
+Het goedkoopste eSIM-abonnement is vaak een "verliesleider". Als je meer data moet toevoegen, kan de prijs per GB **2–3x hoger** zijn dan het oorspronkelijke abonnement. Voorbeeld: een 1GB/7 dagen-abonnement van $4,99 kan een opwaardering van 1GB voor $8,99 hebben. **Koop vooraf genoeg data.**
 
-### 3. Dagelijkse Limiet "Onbeperkt" Vallen
-Zoals opgemerkt in de Fair Usage Policy-sectie betekent "onbeperkt" meestal **1GB–3GB hogesnelheidsdata per dag**, daarna getthrottled naar 128–256kbps. Als je dagelijks video streamt, zul je deze limiet elke dag bereiken.
+### Daglimietvalkuilen bij onbeperkt
+Zoals vermeld in de sectie Fair Usage Policy betekent "onbeperkt" meestal **1GB–3GB aan snelle data per dag**, daarna afgeremd naar 128–256kbps. Stream je dagelijks video, dan raak je deze limiet elke dag aan.
 
-### 4. Auto-verlenging Facturering
-De meeste maandelijkse abonnementen worden standaard automatisch verlengd. Als je niet opzegt voor de verlengingsdatum, wordt je kaart opnieuw belast – zelfs als je de VS al hebt verlaten.
+### Automatische verlenging
+De meeste maandelijkse eSIM-abonnementen worden standaard automatisch verlengd. Als je niet opzegt vóór de verlengingsdatum, wordt je kaart opnieuw belast – zelfs als je de VS al hebt verlaten.
 
-**Hoe je auto-verlenging stopt:**
-- **iPhone:** Instellingen > Apple ID > Abonnementen → zoek het abonnement → Abonnement opzeggen.
-- **Android:** Google Play > Abonnementen → zoek het abonnement → Opzeggen.
-- **Provider-app:** De meeste reisabonnement-apps hebben een "Abonnement beheren"-sectie waar je auto-verlenging kunt uitschakelen.
+**Zo stop je automatische verlenging:**
+- **iPhone:** Settings > Apple ID > Subscriptions → zoek het abonnement → Cancel Subscription.
+- **Android:** Google Play > Subscriptions → zoek het abonnement → Cancel.
+- **Aanbieder-app:** De meeste travel-abonnementsapps hebben een sectie "Manage Plan" waar je automatische verlenging kunt uitschakelen.
 
-### 5. Geen Restitutiebeleid
-Bijna alle reisdata-abonnementen zijn **niet-restitueerbaar** zodra de QR-code is uitgegeven. Als je telefoon incompatibel blijkt te zijn, is je geld weg. Verifieer altijd EID **voor** aankoop.
+### Geen restitutiebeleid
+Vrijwel alle travel eSIM-abonnementen zijn **niet-restitueerbaar** zodra de QR code is uitgegeven. Blijkt je telefoon incompatibel, dan is je geld weg. Verifieer altijd de EID **vóór** je aankoop.
 
-### Snelle Checklist Verborgen Kosten
+### Snelle checklist verborgen kosten
 
-| Kostensoort | Wat te Controleren | Rode Vlag |
+| Type kosten | Wat te controleren | Rode vlag |
 | :--- | :--- | :--- |
-| Activeringskosten | Afrekentotaal vs. geadverteerde prijs | Elke kosten > $2 |
-| Opwaarderingskosten per GB | Vergelijk met initiële abonnement's per-GB-prijs | Opwaardering > 1,5x initiële per-GB |
-| Auto-verlenging | Controleer of het standaard aan staat | "Maandelijkse" abonnementen met auto-verlenging |
-| Restitutiebeleid | Lees de TOS voor afrekenen | "Geen restituties na QR-uitgifte" |
-| Fair Usage Policy | Dagelijkse hogesnelheidslimiet | Limiet < 1GB/dag |
+| Activeringskosten | Totaal bij afrekenen vs. geadverteerde prijs | Welke kosten > $2 dan ook |
+| Opwaardeerkosten per GB | Vergelijk met per-GB-prijs van het oorspronkelijke abonnement | Opwaardering > 1,5x oorspronkelijke per-GB |
+| Automatische verlenging | Controleer of die standaard aan staat | "Maandelijkse" abonnementen met automatische verlenging |
+| Restitutiebeleid | Lees de TOS vóór het afrekenen | "Geen restitutie na uitgifte QR" |
+| Fair Usage Policy | Dagelijkse snelheidslimiet | Limiet < 1GB/dag |
 
-### Hoe Je Je Resterende Data-saldo Controleert
+### Hoe controleer je je resterende databalans?
 
-De meeste reisabonnement-providers hebben een app of dashboard waar je resterende data kunt controleren. Als alternatief:
-- **iPhone:** Instellingen > Mobiel netwerk > [je abonnement] → zoek naar "Huidige periode" dataverbruik (reset dit handmatig wanneer je je reis begint).
-- **Android:** Instellingen > Verbindingen > Dataverbruik > Mobiel dataverbruik → selecteer je abonnement.
+De meeste eSIM-aanbieders hebben een app of dashboard waar je resterende data kunt controleren. Alternatief:
+- **iPhone:** Settings > Cellular > [jouw abonnement] → zoek naar datagebruik "Current Period" (reset dit handmatig aan het begin van je reis).
+- **Android:** Settings > Connections > Data Usage > Mobile Data Usage → selecteer je abonnement.
 
-### Wat Er Gebeurt Wanneer Je Abonnement Verloopt
+### Wat gebeurt er als je abonnement afloopt?
 
-Wanneer je abonnement zijn vervaldatum bereikt:
-- **Data stopt met werken** – je kunt niet browsen, kaarten gebruiken of berichten verzenden
-- **Je telefoonnummer (indien aanwezig) blijft actief** – maar alleen voor inkomende oproepen (je kunt geen uitgaande oproepen maken of data gebruiken)
-- **Opwaardering verlengt de geldigheid** – data toevoegen verlengt meestal de vervaldatum
-- **Als je niet binnen 30-60 dagen opwaardeert**, wordt het profiel gedeactiveerd en heb je een nieuwe QR-code nodig
+Wanneer je eSIM-abonnement zijn einddatum bereikt:
+- **Data stopt met werken** – je kunt niet meer browsen, kaarten gebruiken of berichten versturen
+- **Je telefoonnummer (indien aanwezig) blijft actief** – maar alleen voor inkomende gesprekken (je kunt niet uitbellen of data gebruiken)
+- **Opwaarderen verlengt de geldigheid** – data toevoegen verlengt meestal de einddatum
+- **Als je niet opwaardeert binnen 30-60 dagen**, wordt het profiel gedeactiveerd en heb je een nieuwe QR code nodig
 
-**Beste praktijk:** Stel een herinnering in 2-3 dagen voordat je abonnement verloopt, zodat je kunt opwaarderen voordat je de connectiviteit verliest.
+**Beste praktijk:** Stel een herinnering in 2-3 dagen voordat je abonnement afloopt, zodat je kunt opwaarderen voordat je je verbinding verliest.
 
 
-## Airalo vs Roami vs Holafly – Welk VS Data-abonnement is Goedkoper in 2026?
+## Welk US eSIM-abonnement is goedkoper: Airalo, Roami of Holafly?
 
-Hier is de directe vergelijking waar reizigers daadwerkelijk naar zoeken. Alle prijzen zijn gebaseerd op 10GB / 15-dagen abonnementen (of dichtstbijzijnde equivalent) per augustus 2026.
+Dit is de directe vergelijking die reizigers daadwerkelijk zoeken. Alle prijzen zijn gebaseerd op 10GB / 30-daagse abonnementen (of het dichtstbijzijnde equivalent) en in september 2026 geverifieerd op de websites van de aanbieders.
 
-### Snelle Side-by-Side Vergelijking
+### Snelle vergelijking naast elkaar
 
-| Functie | Roami | Airalo (Discover+) | Holafly |
+| Kenmerk | Roami | Airalo (Discover+) | Holafly |
 | :--- | :--- | :--- | :--- |
-| **Netwerk** | T-Mobile + AT&T + Verizon (auto-switches) | Alleen T-Mobile | AT&T of T-Mobile (kies bij afrekenen) |
-| **10GB Abonnement Prijs** | $26.99 | $34.00 | $47.00 |
-| **Kosten per GB** | $2.70 | $3.40 | $4.70 |
-| **Inclusief Telefoonnummer?** | ❌ Data-only | ✅ Ja (Discover+ abonnementen) | ❌ Data-only |
-| **Geldigheid** | 30 dagen | 30 dagen | 15 dagen (voor 10GB abonnement) |
+| **Netwerk** | T‑Mobile + AT&T + Verizon (schakelt automatisch) | Alleen T‑Mobile | AT&T of T‑Mobile (kies bij afrekenen) |
+| **Prijs 10GB-abonnement** | $26.99 | $23.00 (data-only, 10GB/30d; Discover+ met VS-nummer ≈ $37) | $47.00 (alleen onbeperkte data, 30 dagen) |
+| **Kosten per GB** | $2.70 | $2.25–2.60 | n.v.t. (onbeperkt) |
+| **Inclusief telefoonnummer?** | ❌ Alleen data | ✅ Ja (Discover+ abonnementen) | ❌ Alleen data |
+| **Geldigheid** | 30 dagen | 30 dagen | 15 dagen (voor 10GB-abonnement) |
 | **Hotspot/Tethering** | ✅ Ja | ✅ Ja | ✅ Ja |
-| **5G Toegang** | ✅ Ja (op T-Mobile) | ✅ Ja | ✅ Ja |
-| **Klantenondersteuning** | 24/7 chat | E-mail / Chat | 24/7 chat |
-| **Gratis Proefperiode** | ✅ 100MB gratis | ❌ Nee | ❌ Nee |
-| **Restitutiebeleid** | Restitutie als QR niet gescand | Geen restitutie na QR-uitgifte | Geen restitutie na QR-uitgifte |
-| **Opwaarderingskosten (1GB)** | $6.99 | $8.00 | $8.00 |
+| **5G-toegang** | ✅ Ja (op T‑Mobile) | ✅ Ja | ✅ Ja |
+| **Klantenservice** | 24/7 chat | E-mail / chat | 24/7 chat |
+| **Gratis proefversie** | ✅ 100MB gratis | ❌ Nee | ❌ Nee |
+| **Restitutiebeleid** | Restitutie als QR niet gescand | Geen restitutie na uitgifte QR | Geen restitutie na uitgifte QR |
+| **Opwaardeerkosten (1GB)** | $6.99 | $8.00 | $8.00 |
 
-### Welke Moet Je Kopen?
+### Welke moet je kopen?
 
 | Als je... | Kies |
 | :--- | :--- |
-| De **goedkoopste per GB** wilt | Roami ($2.70/GB) |
-| Een **VS telefoonnummer** nodig hebt voor verificatie | Airalo Discover+ |
-| **Nationale parken / landelijke gebieden** bezoekt | Roami (multi-netwerk switching) |
-| Een **gratis proefperiode wilt voordat je je vastlegt** | Roami (100MB gratis) |
-| **AT&T specifiek** verkiest (niet T-Mobile) | Holafly (kies AT&T) |
-| **30-dagen geldigheid** nodig hebt op een 10GB abonnement | Roami of Airalo |
+| Het **goedkoopste per GB** wilt | Roami ($2.70/GB) |
+| Een **Amerikaans telefoonnummer** nodig hebt voor verificatie | Airalo Discover+ |
+| **Nationale parken / landelijke gebieden** bezoekt | Roami (multi-netwerk wisselen) |
+| Een **gratis proefversie wilt voordat je committeert** | Roami (100MB gratis) |
+| Specifiek de voorkeur geeft aan **AT&T** (niet T‑Mobile) | Holafly (selecteer AT&T) |
+| **30 dagen geldigheid** nodig hebt op een 10GB-abonnement | Roami of Airalo |
 | Alleen een **telefoonnummer voor SMS** nodig hebt | Airalo Discover+ |
 
-> 💡 **Belangrijk Inzicht:** Roami is goedkoper dan Airalo voor data-zware abonnementen ($26.99 vs $34.00 voor 10GB). Holafly is het duurst op $47 voor dezelfde 10GB. Roami biedt ook multi-provider switching (alle 3 netwerken), terwijl Airalo en Holafly je aan een enkel netwerk binden. Lees onze **[volledige Airalo vs Holafly vergelijking](/blog/best-usa-esim-comparison-airalo-holafly/)** voor meer details.
+> 💡 **Kerninzicht:** Roami's 10GB ($26.99) ligt ongeveer op gelijke hoogte met Airalo's data-only abonnement ($23.00 voor 10GB/30d per september 2026), maar Roami voegt automatisch wisselen over alle drie de netwerken toe, terwijl Airalo's data-only abonnement op één netwerk draait. Holafly verkoopt alleen onbeperkte data — $47 voor 30 dagen. Lees onze **[volledige Airalo vs Holafly-vergelijking](/blog/best-usa-esim-comparison-airalo-holafly/)** voor meer details.
 
 
-## Stap-voor-Stap Gids: Hoe Je een VS Reisabonnement Koopt en Activeert
+## Zo koop en activeer je een US eSIM
 
-Na het verifiëren van compatibiliteit, koop je abonnement. Je ontvangt een **QR-code** via e-mail.
+Na het verifiëren van compatibiliteit koop je je abonnement. Je ontvangt een **QR code** per e-mail.
 
-### Kernregel: Wanneer Je de QR-code Moet Scannen
+### Wanneer moet je de QR code scannen?
 
-> ⚠️ **Kritiek:** Je moet dit profiel scannen en installeren **terwijl je verbonden bent met stabiele thuis-Wi-Fi** OF **onmiddellijk na aankomst in de VS met luchthaven-Wi-Fi**. Wacht NIET tot je buiten de luchthaven bent zonder internettoegang.
+> ⚠️ **Kritiek:** Je moet dit profiel scannen en installeren **terwijl je verbonden bent met stabiele thuis-wifi** OF **direct na aankomst in de VS met luchthaven-wifi**. Wacht NIET tot je buiten de luchthaven bent zonder internettoegang.
 
 **Belangrijk onderscheid:**
-- **QR-code scannen** → kan **altijd** worden gedaan (voor of na aankomst). Het installeert alleen het profiel.
-- **De lijn activeren** → schakel alleen **IN** **nadat je in de VS bent geland**. Als je het voor vertrek inschakelt, kan je telefoon proberen verbinding te maken met een VS-toren vanuit het buitenland, wat leidt tot roamingkosten of activeringsfouten.
+- **QR code scannen** → kan **op elk moment** (voor of na aankomst). Het installeert alleen het profiel.
+- **De lijn activeren** → schakel pas **IN nadat je in de VS bent geland**. Zet je hem aan vóór vertrek, dan kan je telefoon proberen verbinding te maken met een Amerikaanse mast vanuit het buitenland, wat leidt tot roamingkosten of activeringsfouten.
 
-### Stap 1: iOS Installatie en Setup Gids
+### Installeer de eSIM op iPhone
 
 Voor iPhone-gebruikers duurt de installatie 60 seconden:
 
-1. **Scannen om te installeren:** Maak verbinding met Wi-Fi. Ga naar **Instellingen > Mobiel netwerk > eSIM toevoegen**. Selecteer "QR-code gebruiken" en scan de QR-code uit je e-mail.
-2. **Het label hernoemen:** Het systeem vraagt je de nieuwe lijn te labelen. Hernoem het naar **"VS Reis"** zodat je het niet verwart met je primaire nummer.
-3. **Uit houden voor vlucht:** Terwijl je nog thuis bent, ga naar **Instellingen > Mobiel netwerk**, tik op je reislijn, en schakel de lijn **UIT**.
-4. **Activeren bij landing:** Zodra het vliegtuig landt en je in de VS bent, schakel de reislijn **IN**. Schakel je **Mobiele data** over naar de reislijn en je MOET **Data Roaming** naar de AAN-positie schakelen.
+1. **Scan om te installeren:** Maak verbinding met wifi. Ga naar **Settings > Cellular > Add eSIM**. Selecteer "Use QR Code" en scan de QR code uit je e-mail.
+2. **Hernoem het label:** Het systeem vraagt je de nieuwe lijn een label te geven. Hernoem deze naar **"US Travel"** zodat je hem niet verwart met je hoofdnummer.
+3. **Houd uit vóór de vlucht:** Terwijl je nog thuis bent, ga naar **Settings > Cellular**, tik op je reislijn en schakel de lijn **UIT**.
+4. **Activeer bij landing:** Zodra het vliegtuig landt en je in de VS bent, schakel je de reislijn **IN**. Zet je **Cellular Data** over naar de reislijn en je MOET **Data Roaming** op AAN zetten.
 
-### Stap 2: Android Installatie en Setup Gids
+### Installeer de eSIM op Android
 
-Android-menu's variëren enigszins per fabrikant, maar de logica is identiek:
+Android-menu's verschillen enigszins per fabrikant, maar de logica is identiek:
 
-1. **Scannen om te installeren:** Maak verbinding met Wi-Fi. Ga naar **Instellingen > Netwerk & internet > SIMs**. Tik op het "+"-pictogram of "Een SIM downloaden in plaats daarvan". Scan je QR-code.
-2. **Uit houden voor vlucht:** Zorg er in je SIM-beheer voor dat dit nieuw gedownloade profiel **UIT** staat.
-3. **Activeren bij landing:** Wanneer je in de VS aankomt, schakel het abonnement **IN**.
-4. **Kritieke instellingen:** Stel dit abonnement in als je standaard voor Mobiele data. Tik in de instellingen van het abonnement en schakel **Roaming** naar de AAN-positie. Het maakt anders geen verbinding.
+1. **Scan om te installeren:** Maak verbinding met wifi. Ga naar **Settings > Network & Internet > SIMs**. Tik op het "+"-icoon of "Download a SIM instead". Scan je QR code.
+2. **Houd uit vóór de vlucht:** Zorg in je SIM-manager dat dit nieuw gedownloade profiel **UIT** staat.
+3. **Activeer bij landing:** Wanneer je in de VS aankomt, schakel je het abonnement **IN**.
+4. **Kritieke instellingen:** Stel dit abonnement in als je standaard voor Mobile Data. Tik in de instellingen van het abonnement en zet **Roaming** op AAN. Anders maakt hij geen verbinding.
 
-### Stap 3: Dual-SIM Best Practices (Houd Je Thuis-SIM Actief)
+### Beste praktijken voor Dual-SIM
 
-Als je je thuisnummer actief wilt houden voor SMS/oproepen terwijl je het VS-abonnement voor data gebruikt:
+Als je je thuisknop actief wilt houden voor SMS/gesprekken terwijl je je US eSIM voor data gebruikt:
 
-| Instelling | Aanbevolen Waarde | Waarom |
+| Instelling | Aanbevolen waarde | Waarom |
 | :--- | :--- | :--- |
-| **Standaard Spraaklijn** | Thuis-SIM (je gewone nummer) | Blijf oproepen ontvangen op je thuisnummer |
-| **Mobiele data** | VS Reisabonnement | Gebruik VS data-abonnement, niet dure roaming |
-| **Data Roaming (Thuis-SIM)** | UIT | Voorkom onbedoelde roamingkosten |
-| **Data Roaming (VS Abonnement)** | AAN | Vereist voor VS data om te werken |
-| **Mobiele data wisselen toestaan** | AAN | Staat oproepen/SMS op thuis-SIM toe om VS abonnement data te gebruiken voor Wi-Fi Calling |
+| **Default Voice Line** | Thuis-SIM (je gewone nummer) | Blijf gesprekken ontvangen op je thuisknop |
+| **Cellular Data** | US Travel Plan | Gebruik Amerikaans dataplan, niet dure roaming |
+| **Data Roaming (Thuis-SIM)** | UIT | Voorkomt onbedoelde roamingkosten |
+| **Data Roaming (VS-abonnement)** | AAN | Vereist om Amerikaanse data te laten werken |
+| **Allow Cellular Data Switching** | AAN | Maakt het mogelijk dat gesprekken/SMS op de thuis-SIM data van het VS-abonnement gebruiken voor Wi‑Fi Calling |
 
-**Om dit in te stellen op iPhone:** Instellingen > Mobiel netwerk > Mobiele data → selecteer VS abonnement. Dan Instellingen > Mobiel netwerk > Standaard spraaklijn → selecteer je thuis-SIM. Zet Data Roaming UIT voor thuis-SIM, AAN voor VS abonnement.
+**Zo stel je dit in op iPhone:** Settings > Cellular > Cellular Data → selecteer het VS-abonnement. Dan Settings > Cellular > Default Voice Line → selecteer je thuis-SIM. Zet Data Roaming UIT voor de thuis-SIM en AAN voor het VS-abonnement.
 
-### Pre-Vlucht Activeringschecklist (Print/Screenshot Dit)
+### Checklist activering vóór de vlucht
 
 | Stap | Gedaan? |
 | :--- | :--- |
-| ✅ EID geverifieerd (`*#06#` getypt) | ☐ |
-| ✅ Abonnement gekocht bij provider | ☐ |
-| ✅ QR-code gescand en profiel geïnstalleerd (VOOR landing) | ☐ |
-| ✅ Abonnement hernoemd naar "VS Reis" | ☐ |
-| ✅ VS abonnement **UIT** geschakeld voor vlucht | ☐ |
-| ✅ Data Roaming **UIT** geschakeld op thuis-SIM | ☐ |
-| ✅ Screenshot van QR-code / activeringscode opgeslagen (backup) | ☐ |
+| ✅ EID geverifieerd (getypt `*#06#`) | ☐ |
+| ✅ Abonnement gekocht bij aanbieder | ☐ |
+| ✅ QR code gescand en profiel geïnstalleerd (VÓÓR de landing) | ☐ |
+| ✅ Abonnement hernoemd naar "US Travel" | ☐ |
+| ✅ VS-abonnement **UIT** gezet vóór de vlucht | ☐ |
+| ✅ Data Roaming **UIT** gezet op thuis-SIM | ☐ |
+| ✅ Screenshot van QR code / activeringscode opgeslagen (backup) | ☐ |
 
 
-## VS Reisdata Probleemoplossing – Veelvoorkomende Problemen en Oplossingen
+## Veelvoorkomende US eSIM-problemen en oplossingen
 
-Zelfs met perfecte uitvoering falen netwerkhandshakes af en toe. Hier is de technische checklist om je telefoon online te forceren. Voor geavanceerde problemen, zie onze **[eSIM diepgaande probleemoplossingsgids](/faq/esim-deep-troubleshooting-guide-2026/)** en **[dual-eSIM oplossingen voor iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
+Zelfs met perfecte uitvoering mislukt de netwerk-handshake af en toe. Dit is de technische checklist om je telefoon online te forcen. Voor geavanceerde problemen, zie onze **[eSIM deep troubleshooting-gids](/faq/esim-deep-troubleshooting-guide-2026/)** en **[dual-eSIM oplossingen voor iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
-### Geen Signaal/Geen Internet Na Landing?
+### Geen signaal of internet na de landing
 
-Als je telefoon "Geen Service" toont of balken heeft maar geen data, doorloop dan deze volgorde:
+Als je telefoon "No Service" toont of strepen heeft maar geen data, doorloop dan deze reeks:
 
-1. **Controleer Data Roaming:** Dit veroorzaakt 90% van de fouten. Ga in de instellingen van je abonnement en verifieer dat **Data Roaming** AAN staat.
-2. **Controleer Standaard Datalijn:** Zorg ervoor dat je telefoon data routeert via het reisabonnement, niet via de fysieke SIM van je thuisland.
-3. **Schakel Primaire SIM Uit:** Dual-SIM-conflicten komen voor. Schakel tijdelijk je fysieke thuis-SIM **UIT** zodat de telefoon alleen het reisabonnement leest.
-4. **Reset Netwerkverbinding:** Schakel Vliegtuigmodus 10 seconden in en dan uit. Als dat mislukt, herstart de telefoon volledig om een nieuwe toren-ping te forceren.
+1. **Controleer Data Roaming:** Dit veroorzaakt 90% van de storingen. Ga naar de instellingen van je abonnement en verifieer dat **Data Roaming** op AAN staat.
+2. **Controleer de standaard datalijn:** Zorg dat je telefoon data routeert via het reisabonnement, niet via de fysieke SIM van je thuisland.
+3. **Schakel de primaire SIM uit:** Dual-SIM conflicten gebeuren. Zet je fysieke thuis-SIM tijdelijk **UIT** zodat de telefoon alleen het reisabonnement leest.
+4. **Reset netwerkverbinding:** Zet Airplane Mode 10 seconden aan, zet hem daarna uit. Lukt dat niet, herstart de telefoon volledig om een nieuwe mast-ping te forceren.
 
-### Signaalbalken maar Geen Data? Controleer APN-instellingen
+### Signaalstrepen maar geen data? Controleer de APN-instellingen
 
-Als na activering geen datanetwerk beschikbaar is, moeten APN-instellingen mogelijk worden aangepast:
+Als er na activering geen datanetwerk beschikbaar is, moeten de APN-instellingen mogelijk worden aangepast:
 
-1. **iPhone:** Instellingen > Mobiel netwerk > Mobiel datanetwerk.
-2. **Android:** Instellingen > Verbindingen > Mobiele netwerken > Access Point Names.
-3. Veelvoorkomende APN-waarden: `globaldata` voor Airalo, `internet` voor Roami. De meeste reisabonnementen configureren de APN automatisch, dus controleer de website van je provider voor de exacte waarde.
+1. **iPhone:** Settings > Cellular > Cellular Data Network.
+2. **Android:** Settings > Connections > Mobile Networks > Access Point Names.
+3. Veelvoorkomende APN-waarden: `globaldata` voor Airalo, `internet` voor Roami. De meeste travel-abonnementen configureren de APN automatisch, dus check de website van je aanbieder voor de exacte waarde.
 
-### Hoe Je Handmatig een Netwerk Selecteert (Field Test Mode)
+### Zo selecteer je handmatig een netwerk
 
-Als je signaal hebt maar geen verbinding kunt maken, forceer je telefoon om een ander netwerk te proberen:
+Heb je signaal maar geen verbinding, forceer dan dat je telefoon een ander netwerk probeert:
 
-**Op iPhone:** Instellingen > Mobiel netwerk > [je abonnement] > Netwerkselectie → schakel "Automatisch" UIT → wacht op de lijst met netwerken → selecteer een andere (bijv. als T-Mobile niet werkt, probeer AT&T of Verizon als je abonnement het ondersteunt).
+**Op iPhone:** Settings > Cellular > [jouw abonnement] > Network Selection → zet "Automatic" UIT → wacht op de lijst met netwerken → selecteer een ander netwerk (bijv. als T‑Mobile niet werkt, probeer AT&T of Verizon als je abonnement dat ondersteunt).
 
-**Op Android:** Instellingen > Verbindingen > Mobiele netwerken > Netwerkoperators → schakel "Automatisch selecteren" UIT → kies een ander netwerk.
+**Op Android:** Settings > Connections > Mobile Networks > Network Operators → zet "Select automatically" UIT → kies een ander netwerk.
 
-> ⚠️ **Waarschuwing:** Doe dit alleen als je abonnement meerdere netwerken ondersteunt. Sommige reisabonnementen zijn vergrendeld aan een enkele provider – proberen handmatig een ander netwerk te selecteren zal alleen "Geen Service" tonen.
+> ⚠️ **Waarschuwing:** Doe dit alleen als je abonnement meerdere netwerken ondersteunt. Sommige travel-abonnementen zijn vergrendeld op één carrier – handmatig een ander netwerk proberen te selecteren toont alleen maar "No Service".
 
-### Waarom Werden Mijn "Onbeperkte Data" Plotseling Langzamer?
+### Waarom onbeperkte data plotseling traag wordt
 
-Als je snelheden drie dagen lang razendsnel waren en plotseling kun je geen foto laden, heb je de **FUP (Fair Usage Policy)** limiet bereikt. Zoals eerder uitgelegd, throttelen providers je snelheid naar 128kbps zodra je je dagelijkse hogesnelheidstoelage opgebruikt.
+Als je snelheden drie dagen razendsnel waren en je nu plotseling geen foto kunt laden, heb je de **FUP (Fair Usage Policy)**-limiet bereikt. Zoals eerder uitgelegd remmen carriers je snelheid af naar 128kbps zodra je je dagelijkse snelle databudget hebt verbruikt.
 
-**De oplossing:** Deze throttle reset automatisch om **middernacht lokale tijd**. Als je onmiddellijk hogesnelheidsdata nodig hebt voor werk, is je enige optie een nieuw datapakket of opwaardering kopen en installeren.
+**De oplossing:** Deze afremming reset automatisch om **middernacht lokale tijd**. Heb je direct snelle data nodig voor werk, dan is je enige optie een nieuw datapakket of opwaardering te kopen en installeren.
 
-### Netwerkprioriteit – Waarom Sommige Abonnementen Langzamer Zijn Dan Andere
+### Waarom sommige eSIM-abonnementen trager zijn dan andere
 
-Niet alle data is gelijk gemaakt. Reisabonnementen worden vaak gedeprioriteerd in vergelijking met lokale providerklanten:
+Niet alle data is gelijk geschapen. Travel eSIM's worden vaak lager geprioriteerd dan klanten van de lokale carrier:
 
-| Gebruikerstype | Netwerkprioriteit | Snelheid Tijdens Congestie |
+| Gebruikerstype | Netwerkprioriteit | Snelheid bij drukte |
 | :--- | :--- | :--- |
-| Lokale provider postpaid klant | Hoogste | Volledige snelheid |
-| Lokale provider prepaid klant | Medium | Kan vertragen tijdens piektijden |
-| Reisabonnement gebruiker (via reseller) | Laagste | Eerste die wordt vertraagd wanneer netwerk druk is |
+| Postpaid-klant lokale carrier | Hoogste | Volle snelheid |
+| Prepaid-klant lokale carrier | Gemiddeld | Kan vertragen tijdens piektijden |
+| Travel eSIM-gebruiker (via reseller) | Laagste | Eerst afgeremd als het netwerk druk is |
 
-**Wat dit voor jou betekent:** In drukke gebieden (Times Square, sportstadions, concerten) kan je reisabonnement vertragen zelfs als je nog data over hebt. Multi-netwerk abonnementen helpen omdat ze kunnen overschakelen naar een minder overbelaste provider.
+**Wat dit voor je betekent:** In drukke gebieden (Times Square, stadions, concerten) kan je reisabonnement vertragen, zelfs als je nog data over hebt. Multi-netwerk eSIM-abonnementen helpen, omdat ze kunnen overschakelen naar een minder drukke carrier.
 
 
-## Veelgestelde Vragen Over VS Reisdata-abonnementen
+## Veelgestelde vragen over US eSIM
 
 **Is Airalo of Roami goedkoper voor de VS?**
-Roami is over het algemeen goedkoper voor data-zware abonnementen (10GB: $26.99 vs $34.00 voor Airalo). Roami biedt ook multi-provider switching (T-Mobile, AT&T, Verizon) terwijl Airalo doorgaans een enkel netwerk gebruikt. Voor onbeperkte data-abonnementen is Roami vaak de betere waarde. Lees onze **[Airalo vs Holafly gids](/blog/best-usa-esim-comparison-airalo-holafly/)**.
+Airalo's data-only 10GB/30d abonnement ($23.00) is iets goedkoper dan Roami's 10GB ($26.99), maar Roami voegt automatisch wisselen over T‑Mobile, AT&T en Verizon toe, terwijl Airalo's data-only abonnement een enkel netwerk gebruikt. Voor onbeperkte data is Roami vaak de betere keuze. Lees onze **[Airalo vs Holafly-gids](/blog/best-usa-esim-comparison-airalo-holafly/)**.
 
-**Bevat een VS reisabonnement een telefoonnummer?**
-De meeste reisdata-abonnementen zijn data-only. Als je een VS-nummer nodig hebt voor oproepen of SMS-verificatiecodes, zoek dan een abonnement dat een telefoonnummer bevat (zoals Airalo Discover+). Let op dat deze abonnementen meestal duurder zijn per GB.
+**Bevat een US eSIM een telefoonnummer?**
+De meeste travel dataplannen zijn data-only. Heb je een Amerikaans nummer nodig voor gesprekken of SMS-verificatiecodes, zoek dan een abonnement dat een telefoonnummer bevat (zoals Airalo Discover+). Let op: deze abonnementen zijn meestal duurder per GB.
 
-**Wat is het beste data-abonnement voor VS-reizen?**
-De beste keuze hangt af van je reisroute:
-- Steden → T-Mobile netwerk (snelste 5G)
-- Nationale Parken → AT&T of Verizon (betere landelijke dekking)
-- Multi-netwerk switching → Roami dekt alle drie
+**Wat is het beste US eSIM-abonnement om te reizen?**
+De beste keuze hangt af van je reisschema:
+- Steden → T‑Mobile netwerk (snelste 5G)
+- Nationale parken → AT&T of Verizon (betere dekking op het platteland)
+- Multi-netwerk wisselen → Roami dekt alle drie
 
-**Kan ik een VS-abonnement gebruiken in Canada of Mexico?**
-Alleen als je een Noord-Amerika Regionaal abonnement koopt dat die landen expliciet bevat. Standaard VS-abonnementen stoppen met werken bij de grens.
+**Kan ik een US eSIM gebruiken in Canada of Mexico?**
+Alleen als je een regionaal abonnement voor Noord-Amerika koopt dat die landen expliciet bevat. Standaard Amerikaanse abonnementen stoppen met werken bij de grens.
 
-**Waarom toont mijn abonnement "Geen Service" na landing?**
-Meestal staat Data Roaming niet AAN, of de telefoon gebruikt nog steeds je thuis-SIM voor data. Controleer beide instellingen. Zie de probleemoplossingssectie hierboven.
+**Waarom toont mijn abonnement "No Service" na de landing?**
+Meestal staat Data Roaming niet op AAN, of de telefoon gebruikt nog steeds je thuis-SIM voor data. Controleer beide instellingen. Zie de troubleshooting-sectie hierboven.
 
-**Wat is een gratis proefperiode?**
-Sommige providers bieden een gratis proefperiode (bijv. Roami biedt 100MB data) zodat je compatibiliteit en dekking kunt testen voordat je een betaald abonnement koopt. Je kunt **[hier je gratis proefperiode claimen](/free-esim/)**.
+**Wat is een gratis proefversie?**
+Sommige aanbieders bieden een gratis eSIM-proefversie (bijv. Roami biedt 100MB data) zodat je compatibiliteit en dekking kunt testen voordat je een betaald abonnement koopt. Je kunt **[hier je gratis proefversie claimen](/free-esim/)**.
 
-**Wat is het goedkoopste data-abonnement voor de VS?**
-Prijzen variëren per datatoelage. Per augustus 2026:
-- Roami's 1GB/7-dagen abonnement begint bij $1.99.
-- Vergelijk altijd **kosten per GB** in plaats van de hoofdpijs, vooral voor grotere abonnementen.
+**Wat is het goedkoopste eSIM-abonnement voor de VS?**
+Prijzen variëren per databundel. Per september 2026:
+- Roami's 1GB/7 dagen-abonnement begint bij $1.99.
+- Vergelijk altijd de **kosten per GB** in plaats van de geadverteerde prijs, vooral bij grotere abonnementen.
 
-**Hoe stop ik auto-verlenging op mijn abonnement?**
-- **iPhone:** Instellingen > Apple ID > Abonnementen → zoek het abonnement → Abonnement opzeggen.
-- **Android:** Google Play > Abonnementen → zoek het abonnement → Opzeggen.
-- **Provider-app:** De meeste reisabonnement-apps hebben een "Abonnement beheren"-sectie.
+**Hoe stop ik de automatische verlenging van mijn abonnement?**
+- **iPhone:** Settings > Apple ID > Subscriptions → zoek het abonnement → Cancel Subscription.
+- **Android:** Google Play > Subscriptions → zoek het abonnement → Cancel.
+- **Aanbieder-app:** De meeste travel-abonnementsapps hebben een sectie "Manage Plan".
 
-**Kan ik mijn VS-abonnement als hotspot voor mijn laptop gebruiken?**
-De meeste VS-abonnementen staan hotspot/tethering toe. Controleer de voorwaarden van de provider – sommige beperken hotspot-gebruik op "onbeperkte" abonnementen.
+**Kan ik mijn US eSIM als hotspot gebruiken voor mijn laptop?**
+De meeste Amerikaanse abonnementen staan hotspot/tethering toe. Controleer de voorwaarden van de aanbieder – sommige beperken hotspot-gebruik op "onbeperkte" abonnementen.
 
-**Wat gebeurt er als mijn data opraakt?**
-Je moet een opwaarderingspakket kopen. Opwaarderingsprijzen zijn meestal hoger per GB dan het initiële abonnement – koop een groter initieel abonnement als je onzeker bent over het gebruik.
+**Wat gebeurt er als mijn data op raakt?**
+Je moet een opwaardeerpakket kopen. Opwaardeerprijzen zijn meestal hoger per GB dan het oorspronkelijke abonnement – koop een groter startabonnement als je het verbruik niet weet.
 
-**Kan ik mijn thuis-SIM actief houden voor iMessage terwijl ik het VS-abonnement voor data gebruik?**
-Ja. Op iPhone, stel Standaard Spraaklijn in op je thuis-SIM, Mobiele data op het VS-abonnement, en schakel Mobiele data wisselen toestaan in. Je thuisnummer werkt nog steeds voor iMessage en FaceTime via de dataverbinding van het VS-abonnement.
+**Kan ik mijn thuis-SIM actief houden voor iMessage terwijl ik een US eSIM voor data gebruik?**
+Ja. Zet op iPhone Default Voice Line op je thuis-SIM, Cellular Data op je US eSIM, en zet Allow Cellular Data Switching aan. Je thuisknop blijft werken voor iMessage en FaceTime via de dataverbinding van het VS-abonnement.
 
-**Hoe vroeg moet ik kopen voor mijn reis?**
-Koop en scan de QR-code **1–3 dagen voor vertrek** terwijl je op stabiele Wi-Fi zit. Dit geeft je tijd om activeringsproblemen op te lossen voordat je vertrekt. Wacht NIET tot je op de luchthaven bent met onbetrouwbare Wi-Fi.
+**Hoe vroeg moet ik kopen vóór mijn reis?**
+Koop en scan de QR code **1–3 dagen voor vertrek** op stabiele wifi. Zo heb je tijd om activeringsproblemen op te lossen voordat je vertrekt. Wacht NIET tot je op de luchthaven bent met wisselende wifi.
 
 **Wat is een bevestigingscode en waar vind ik die?**
-Sommige providers vereisen een bevestigings-/activeringscode (meestal 4–8 cijfers) tijdens installatie. Controleer de e-mail van je provider – het staat vaak apart vermeld van de QR-code. Als je het niet kunt vinden, controleer de app of supportpagina van de provider.
+Sommige aanbieders vereisen een bevestigings-/activeringscode (meestal 4–8 cijfers) tijdens de installatie. Check de e-mail van je aanbieder – die staat vaak apart van de QR code vermeld. Kun je hem niet vinden, kijk dan in de app of op de supportpagina van de aanbieder.
 
-**Welke provider heeft de beste dekking voor VS-roadtrips?**
-Roami (die AT&T + Verizon + T-Mobile gebruikt) biedt de beste algemene roadtrip-dekking omdat het automatisch schakelt tussen alle drie netwerken. Enkelnetwerk abonnementen zoals Airalo (alleen T-Mobile) hebben dode zones in landelijke gebieden.
+**Welke eSIM-aanbieder heeft de beste dekking voor roadtrips in de VS?**
+Roami (dat AT&T + Verizon + T‑Mobile gebruikt) biedt de beste algemene roadtrip-dekking, omdat het automatisch wisselt tussen alle drie de netwerken. Single-netwerk abonnementen zoals Airalo (alleen T‑Mobile) krijgen dode zones op het platteland.
 
-**Wat is het beste VS-abonnement voor gezinnen of groepen?**
-Als je met familie reist:
-- **Optie 1:** Koop één abonnement met een ruim datatoelage en gebruik Persoonlijke Hotspot om met anderen te delen.
-- **Optie 2:** Koop aparte abonnementen voor elke persoon – dit is duurder maar geeft iedereen onafhankelijkheid.
-- **Aanbeveling:** Voor gezinnen is Optie 1 meestal kosteneffectiever. Een 10-15GB abonnement kan gemakkelijk 2-3 personen een week dekken als ze geen zware streamers zijn.
+**Wat is het beste US eSIM-abonnement voor families of groepen?**
+Reis je met je familie:
+- **Optie 1:** Koop één abonnement met een royale databundel en gebruik Personal Hotspot om te delen met anderen.
+- **Optie 2:** Koop aparte abonnementen voor iedereen – dat is duurder, maar geeft iedereen onafhankelijkheid.
+- **Aanbeveling:** Voor families is optie 1 meestal kosteneffectiever. Een 10–15GB abonnement kan 2–3 mensen makkelijk een week dekken als ze niet veel streamen.
 
-**Wat is het verschil tussen een reisabonnement en een lokale provider prepaid abonnement?**
-| Functie | Reisabonnement (Roami/Airalo) | Lokale Provider (T-Mobile prepaid) |
+**Wat is het verschil tussen een travel eSIM en een prepaid abonnement van een lokale carrier?**
+| Kenmerk | Travel eSIM (Roami/Airalo) | Lokale carrier (T‑Mobile prepaid) |
 | :--- | :--- | :--- |
-| **Kopen voor aankomst** | ✅ Ja | ❌ Nee – moet in VS kopen |
+| **Kopen vóór aankomst** | ✅ Ja | ❌ Nee – moet in de VS worden gekocht |
 | **ID vereist** | ❌ Nee | ✅ Ja (paspoort) |
-| **Telefoonnummer** | ❌ Meestal niet | ✅ Ja |
+| **Telefoonnummer** | ❌ Meestal nee | ✅ Ja |
 | **Kosten** | Goedkoper voor korte reizen | Goedkoper voor lange verblijven |
-| **Installatietijd** | 2 minuten | 15–30 minuten in winkel |
+| **Insteltijd** | 2 minuten | 15–30 minuten in de winkel |
 
-## Conclusie – Blijf Verbonden op Je VS-Reis in 2026
+## Conclusie
 
-Online komen in de VS vereist niet langer het opsporen van een fysieke SIM-kaart. Door de EID van je telefoon te verifiëren, het juiste onderliggende netwerk voor je route te kiezen, en je QR-code te scannen voordat je vliegt, garandeer je directe 5G-toegang op de landingsbaan.
+Online komen in de VS vereist niet langer het achterna zitten van een fysieke SIM-kaart. Door de EID van je telefoon te verifiëren, het juiste onderliggende netwerk voor je route te kiezen en je QR code te scannen voordat je vliegt, garandeer je directe 5G-toegang op het platform.
 
-Onthoud de volgorde: **Controleer EID → Kies Netwerk → Vergelijk Providers → Let op Verborgen Kosten → Scan voor Vlucht → Schakel Roaming In**.
+Onthoud de volgorde: **Controleer EID → Kies netwerk → Vergelijk aanbieders → Let op verborgen kosten → Scan vóór de vlucht → Zet roaming aan**.
 
-### Snelle Eindaanbevelingen
+### Eindaanbevelingen
 
 | Als je... | Koop dit |
 | :--- | :--- |
-| Het **goedkoopste algemene** VS-abonnement wilt | Roami ($1.99/1GB of $26.99/10GB) |
-| Een **VS telefoonnummer** nodig hebt | Airalo Discover+ |
-| Door **nationale parken** rijdt | Roami (multi-netwerk switching) |
-| **Onbeperkte data** nodig hebt voor 30+ dagen | Roami onbeperkt of T-Mobile prepaid |
-| Alleen **lichte data voor 3–5 dagen** nodig hebt | Elk provider's 1–2GB abonnement ($2–$6) |
+| Het **goedkoopste algemene** VS-abonnement wilt | Roami ($1.99/1GB) of Airalo data-only voor 10GB+ |
+| Een **Amerikaans telefoonnummer** nodig hebt | Airalo Discover+ |
+| Rijdt door **nationale parken** | Roami (multi-netwerk wisselen) |
+| **Onbeperkte data** nodig hebt voor 30+ dagen | Roami onbeperkt of T‑Mobile prepaid |
+| Alleen **lichte data nodig hebt voor 3–5 dagen** | 1–2GB abonnement van elke aanbieder ($2–$6) |
 
-👉 **Klaar om te kiezen?** Zie onze [VS eSIM-abonnementen](/united-states-esim/) voor directe activering, of een [Canada eSIM](/canada-esim/) als je reis de grens oversteekt.
+👉 **Klaar om te kiezen?** Bekijk onze [USA eSIM abonnementen](/united-states-esim/) voor directe activering, of een [Canada eSIM](/canada-esim/) als je reis de grens overgaat.
 
 ---
 
-*Gebaseerd op Apple officiële documentatie, GSMA-normen en providerdekkinggegevens. Alle prijzen geverifieerd per augustus 2026.*
+*Gebaseerd op officiële Apple-documentatie, GSMA-standaarden en carrier-dekkingsgegevens. Alle prijzen geverifieerd per september 2026.*
 ## Bronnen
 
 - [GSMA — eSIM (SGP.22) specificatie](https://www.gsma.com/esim/)
-- [Apple Support — eSIM op iPhone](https://support.apple.com/en-us/108072)
-- [Google Support — Een eSIM instellen](https://support.google.com/pixelphone/answer/14853135)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
 - [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

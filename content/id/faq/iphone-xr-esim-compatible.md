@@ -1,19 +1,21 @@
 ---
-title: "Apakah iPhone XR Mendukung eSIM? Panduan Lengkap"
+title: "Apakah iPhone XR Mendukung eSIM? Panduan Lengkap 2026"
 h1_title: "Apakah iPhone XR Mendukung eSIM? Panduan Lengkap untuk 2026"
-description: "iPhone XR mendukung eSIM – verifikasi dengan *#06#. Aktifkan di operator utama. Model China: tidak ada eSIM. Juga mencakup iPhone 8/X dan iPhone eSIM."
-keywords: ["iphone xr kompatibel esim", "dukungan esim iphone xr", "ponsel kompatibel esim", "daftar iphone yang mendukung esim", "ponsel kompatibel airalo", "ponsel kompatibel esim google fi", "kompatibilitas esim verizon", "kompatibel dual sim", "iphone xr dual sim", "iphone xr esim"]
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
-tags: ["iPhone", "eSIM", "Kompatibilitas", "iPhone XR"]
+description: "iPhone XR mendukung eSIM – verifikasi dengan *#06#. Aktifkan di operator besar. Model China: tidak ada eSIM. Juga mencakup iPhone 8/X dan iPhone eSIM."
+image: "/img/faq/iphone-xr-esim.webp"
+image-1: "/img/faq/iphone-xr-esim-1.jpg"
+keywords: ["iphone xr kompatibel esim", "dukungan esim iphone xr", "ponsel kompatibel esim", "daftar iphone yang mendukung esim", "ponsel kompatibel airalo esim", "ponsel kompatibel google fi esim", "kompatibilitas verizon esim", "kompatibel dual sim", "iphone xr dual sim", "esim iphone xr"]
+date: 2026-09-13T00:00:00Z
+lastmod: 2026-09-13T00:00:00Z
+tags: ["iPhone", "eSIM", "Compatibility", "iPhone XR"]
 toc: true
 
-# Situs & SEO
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# Terjemahan teks UI
+# UI text translations
 ui_text:
   updated_on: "Diperbarui pada"
   min_read: "menit baca"
@@ -27,12 +29,12 @@ breadcrumbs:
     text: "Kompatibilitas eSIM"
     url: "/compatibility/"
 
-# Sidebar: eSIM Populer
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIM Populer"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM AS"
+    - name: "eSIM Amerika Serikat"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -57,13 +59,13 @@ sidebar_popular:
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "eSIM Cina"
+    - name: "eSIM China"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Sidebar: Penawaran eSIM Gratis
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Klaim eSIM Gratis"
   icon: "🎁"
@@ -83,7 +85,7 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sidebar: Pertanyaan Populer
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Pertanyaan Populer"
   items:
@@ -91,409 +93,298 @@ sidebar_questions:
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Bagaimana cara mengaktifkan eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Bagaimana cara mengaktifkan eSIM di iPhone (Semua Model)?"
+    - question: "Cara mengaktifkan eSIM di iPhone (Semua Model)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Daftar Kompatibilitas eSIM Terbaru"
       url: "/compatibility/"
 ---
 
 
-> **Catatan Redaksi:** Roami adalah penyedia eSIM berbasis AS. Panduan ini berfokus secara khusus pada iPhone XR – salah satu iPhone pertama dengan dukungan eSIM. Semua informasi diverifikasi per Agustus 2026 berdasarkan dokumentasi resmi Apple dan data aktivasi dunia nyata.
+> **Catatan Editor:** iPhone XR mendukung eSIM sebagai saluran kedua, tetapi terbatas pada 4G dan memiliki jebakan yang perlu diketahui — model China dan kunci operator. Panduan ini menjawab satu pertanyaan itu menggunakan dokumentasi Apple dan data aktivasi Roami, diverifikasi per September 2026. Pastikan model Anda di bawah sebelum membeli iPhone 2018 pada 2026.
 
 
-## Diagnosis Cepat 10 Detik – Skenario eSIM iPhone XR
+## Apakah iPhone XR Kompatibel dengan eSIM?
 
-**Temukan situasi Anda di bawah dan dapatkan jawaban instan.**
+**Ya — iPhone XR global sepenuhnya mendukung eSIM.** Ini adalah salah satu dari tiga iPhone pertama yang dikirim dengan chip eSIM, bersama XS dan XS Max pada September 2018. Satu nano-SIM fisik ditambah satu eSIM dapat aktif pada waktu yang sama.
 
-| Situasi Anda | Dukungan eSIM | Apa yang Harus Dilakukan |
-| :--- | :--- | :--- |
-| **Model global** (dibeli di luar China) | ✅ Ya | Anda siap melakukannya. [Aktifkan sekarang](#cara-mengaktifkan-esim-di-iphone-xr). |
-| **Model China daratan** (model berakhir dengan CH/A) | ❌ Tidak | Tidak ada perangkat keras eSIM – gunakan hanya SIM fisik. [Lihat alternatif](#bagaimana-jika-iphone-xr-anda-tidak-menampilkan-eid). |
-| **Model Hong Kong/Makau** | ⚠️ Sebagian | Beberapa model memiliki eSIM, beberapa tidak. [Periksa dengan `*#06#`](#cara-memverifikasi-iphone-xr-anda-mendukung-esim). |
-| **Tidak yakin dari mana asalnya** | 🤔 Tidak tahu | Tekan `*#06#` – jika EID muncul = ✅, jika hanya IMEI = ❌. |
-| **Membeli XR bekas** | ✅ (jika global) | [Gunakan daftar periksa pembelian](#membeli-iphone-xr-bekas-untuk-perjalanan-esim--daftar-periksa) terlebih dahulu. |
-| **Anda memiliki iPhone 8 atau iPhone X** | ❌ Tidak | Model-model ini tidak memiliki perangkat keras eSIM. [Lihat alternatif kompatibel](#iphone-mana-yang-mendukung-esim--daftar-lengkap-iphone-berkemampuan-esim). |
+Tiga hal menentukan apakah XR *Anda* benar-benar berfungsi dengan eSIM:
 
-Untuk daftar lengkap **ponsel kompatibel eSIM** di semua merek, lihat **[panduan kompatibilitas lengkap](/compatibility/)** kami.
+1. **Di mana ponsel itu dijual.** Model global (AS, Eropa, Jepang, dan sebagian besar dunia) memiliki eSIM. Model China daratan — nomor model berakhiran **CH/A**, atau perangkat keras **A2108** — tidak, karena Apple menghapus chip eSIM untuk mematuhi aturan dual-SIM-fisik China.
+2. **Kunci operator.** Di Pengaturan > Umum > Tentang, **Kunci Operator** harus tertulis "No SIM restrictions." XR yang terkunci hanya akan menerima eSIM dari operator aslinya.
+3. **Perangkat lunak.** Diperlukan iOS 12.1 atau lebih baru; kami merekomendasikan iOS 16+.
+
+**Pemeriksaan tercepat:** buka aplikasi Telepon, tekan `*#06#`, dan cari **EID** 32 digit. Ada EID = ada perangkat keras eSIM. Hanya nomor IMEI = tidak ada eSIM. Untuk panduan verifikasi tiga metode lengkap, lihat [pusat kompatibilitas eSIM iPhone](/faq/iphone-11-esim-compatible/) kami.
 
 
-## Perjalanan iPhone XR Lengkap – Dari Verifikasi hingga Aktivasi
-
-Berikut jalur yang paling sering diikuti pemilik saat menyiapkan eSIM.
-
-| Langkah | Apa yang Anda Lakukan | Di Mana Menemukannya |
-| :--- | :--- | :--- |
-| **1. Periksa wilayah Anda** | Apakah XR Anda dari China daratan? | [Jawaban cepat](#diagnosis-cepat-10-detik--skenario-esim-iphone-xr) |
-| **2. Verifikasi dengan `*#06#`** | Cari EID (bukan hanya IMEI). | [Cara memverifikasi](#cara-memverifikasi-iphone-xr-anda-mendukung-esim) |
-| **3. Perbarui iOS** | Perlu iOS 12.1 atau lebih baru. | Pengaturan > Umum > Pembaruan Perangkat Lunak |
-| **4. Beli paket** | eSIM perjalanan atau eSIM operator. | [Langkah aktivasi](#cara-mengaktifkan-esim-di-iphone-xr) |
-| **5. Pindai dan aktifkan** | Kode QR → Pengaturan > Seluler > Tambahkan Paket Seluler. | [Langkah aktivasi](#cara-mengaktifkan-esim-di-iphone-xr) |
-| **6. Atur dual SIM** | Fisik + eSIM bersama-sama. | [Dual SIM di iPhone XR](#menggunakan-sim-fisik-dan-esim-bersamaan-di-iphone-xr) |
-| **7. Pemecahan masalah jika diperlukan** | Tidak ada sinyal? "Paket Seluler Tidak Dapat Ditambahkan"? | [Pemecahan masalah](#pemecahan-masalah-masalah-esim-iphone-xr) |
-
-
-## Jawaban Cepat: Penjelasan Dukungan eSIM iPhone XR
-
-**Ya – iPhone XR sepenuhnya mendukung eSIM.** Dirilis pada tahun 2018, ini adalah salah satu iPhone pertama yang menyertakan teknologi eSIM bersama XS dan XS Max.
-
-Berikut yang perlu Anda ketahui dalam 10 detik:
-
-1. **Periksa wilayah Anda:** Semua model global berfungsi. Versi China daratan tidak memiliki eSIM. Model Hong Kong/Makau memiliki dukungan parsial (satu SIM fisik + satu eSIM).
-2. **Verifikasi dengan `*#06#`:** Tekan kode ini. Jika EID 32 digit muncul, perangkat Anda siap.
-3. **Aktifkan dalam hitungan menit:** Pindai kode QR dari penyedia mana pun sebelum bepergian. Aktifkan Data Roaming saat mendarat.
-
-**Tips pro:** Meskipun XR lebih tua, eSIM-nya berfungsi persis seperti iPhone terbaru – tidak ada batasan kecepatan atau fitur (kecuali 5G, yang tidak dimiliki XR). Untuk detail lebih lanjut tentang model lain, lihat **[panduan kompatibilitas lengkap](/compatibility/)** kami.
-
-
-## iPhone XR Kompatibel eSIM – Sekilas
+## Ikhtisar eSIM iPhone XR
 
 | Fitur | Status |
 | :--- | :--- |
 | **Dukungan eSIM** | ✅ Ya (model global) |
-| **Dual SIM (nano‑SIM fisik + eSIM)** | ✅ Ya |
-| **Jumlah profil tersimpan** | Hingga 8+ (hanya satu aktif pada satu waktu) |
-| **Jumlah jalur aktif** | 1 fisik + 1 eSIM (dual standby) |
-| **Dukungan 5G pada eSIM** | ❌ Tidak – iPhone XR hanya 4G LTE |
-| **Versi China daratan** | ❌ Tidak ada eSIM – hanya dual SIM fisik |
-| **Versi Hong Kong / Makau** | ⚠️ Terbatas – periksa dengan `*#06#` |
+| **Dual SIM** | ✅ 1 nano-SIM fisik + 1 eSIM (dual standby) |
+| **Saluran aktif sekaligus** | 2 (satu dari masing-masing jenis) |
+| **5G di eSIM** | ❌ Tidak — hanya 4G LTE |
+| **Versi China daratan** | ❌ Tidak ada eSIM — hanya dual SIM fisik |
+| **iOS yang diperlukan** | 12.1+ (16+ direkomendasikan) |
 
-XR mendukung eSIM pada **iOS 12.1 atau lebih baru**. Jika Anda belum memperbarui perangkat lunak selama bertahun-tahun, buka **Pengaturan > Umum > Pembaruan Perangkat Lunak** terlebih dahulu. Untuk pengalaman terbaik, kami merekomendasikan **iOS 16 atau lebih baru**.
-
-### Latar Belakang Perangkat Keras – Mengapa Model China Tidak Memiliki eSIM
-
-Perangkat ini berisi chip fisik yang disebut **eUICC** (embedded Universal Integrated Circuit Card), yang memungkinkan fungsionalitas eSIM. Namun, Apple secara fisik melepas chip ini atau menonaktifkannya pada iPhone yang dijual di China daratan untuk mematuhi peraturan setempat yang mewajibkan slot dual SIM fisik.
-
-**Ini bukan batasan perangkat lunak – ini perangkat keras.** Tidak ada pembaruan iOS yang dapat menambahkan eSIM ke XR model China. Jika Anda membeli unit bekas dari sumber yang tidak dikenal, selalu periksa EID sebelum membeli. Pemerintah China mewajibkan semua ponsel yang dijual di China daratan memiliki slot dual SIM fisik, jadi Apple cukup melepas perangkat keras eSIM dari model tersebut.
-
-**Anggap saja seperti ini:** Ini seperti membeli mobil yang tidak memiliki sunroof. Anda tidak bisa begitu saja "memperbarui" mobil untuk menambahkan sunroof – ini adalah fitur perangkat keras yang disertakan atau tidak. Sama dengan eSIM.
+eSIM XR bekerja persis seperti yang ada di iPhone yang lebih baru — alur pemasangan sama, perilaku dual-standby sama — hanya saja dibatasi 4G LTE.
 
 
-## Cara Memverifikasi iPhone XR Anda Mendukung eSIM
+## Mengapa iPhone XR Dibatasi 4G
 
-Tiga metode – yang pertama adalah yang paling andal.
-
-### Metode 1: Kode EID (Tercepat dan Paling Andal)
-
-1. Buka aplikasi Telepon (dialer) Anda.
-2. Masukkan `*#06#` dan tekan panggil.
-3. Lihat layar:
-   - **EID (32 digit) muncul** → perangkat Anda mendukung eSIM. ✅
-   - **Hanya nomor IMEI yang muncul** → tidak ada eSIM (kemungkinan model China). ❌
-
-**Apa yang Anda cari?**
-- **IMEI** (15 digit) – mengidentifikasi perangkat keras ponsel Anda. Setiap ponsel memilikinya.
-- **EID** (32 digit) – mengidentifikasi chip eSIM Anda. Hanya ponsel berkemampuan eSIM yang memilikinya.
-
-Jika Anda melihat EID, ponsel Anda memiliki perangkat keras. Jika tidak, secara fisik tidak mungkin menggunakan eSIM.
-
-### Metode 2: Periksa di Pengaturan
-
-Buka **Pengaturan > Umum > Tentang**. Gulir ke bawah ke bagian "SIM Tersedia" atau "SIM Digital". Jika Anda melihat EID tercantum, perangkat Anda siap.
-
-### Metode 3: Coba Tambahkan Paket
-
-Buka **Pengaturan > Seluler > Tambahkan Paket Seluler**. Jika opsi berwarna abu-abu atau hilang, perangkat Anda tidak mendukung eSIM. Jika Anda dapat mengetuknya, Anda siap melakukannya.
+Karena XR diluncurkan sebelum 5G, eSIM-nya (dan SIM fisiknya) hanya berjalan di 4G LTE. Dalam praktiknya, hal itu jarang menjadi masalah untuk perjalanan: peta, pesan, penjelajahan web, dan panggilan video semuanya terasa identik pada sinyal LTE yang kuat. Anda hanya akan merasakan kesenjangannya jika Anda secara khusus menginginkan kecepatan 5G — dalam hal ini iPhone SE generasi ke-3 atau iPhone 12+ adalah langkah berikutnya. Imbalannya, sebagaimana dibahas di bawah, adalah bahwa XR adalah cara termurah masuk ke dunia eSIM.
 
 
-## Membeli iPhone XR Bekas untuk Perjalanan eSIM – Daftar Periksa
+## Apakah 4G LTE Masih Cukup pada 2026?
 
-Jika Anda membeli XR bekas khusus untuk eSIM, gunakan daftar periksa ini secara langsung:
+Singkatnya: ya, untuk hampir semua yang dilakukan wisatawan. XR dibatasi 4G LTE — chip A12 Bionic milik Apple dipasangkan dengan modem kelas Gigabit LTE — dan pada 2026 itu masih sangat cukup untuk pekerjaan sehari-hari ponsel.
 
-| Langkah | Apa yang Harus Diperiksa |
+Kecepatan dunia nyata pada jaringan LTE yang baik berada di kisaran **20–100 Mbps unduh**, yang cukup cepat untuk panggilan video HD, streaming musik, dan unggahan foto tanpa kendala. Puncak teoretisnya lebih tinggi, tetapi Anda jarang akan mendekati kebutuhan itu.
+
+Apa yang ditangani 4G LTE dengan mudah di XR:
+
+| Tugas Perjalanan | 4G LTE di XR |
 | :--- | :--- |
-| **1** | **Pengaturan > Umum > Tentang > Nomor Model** – hindari jika berakhir dengan **CH/A** (model China). |
-| **2** | **Tekan `*#06#`** – konfirmasi **EID** muncul (bukan hanya IMEI). |
-| **3** | **Pengaturan > Umum > Tentang > Kunci Operator** – harus bertuliskan **"Tidak ada pembatasan SIM"**. Jika bertuliskan "Terkunci SIM", Anda tidak dapat menggunakan eSIM operator lain. |
-| **4** | **Pengaturan > Seluler** – cari **"Tambahkan Paket Seluler"** – harus dapat diketuk, tidak berwarna abu-abu. |
-| **5** | **Minta struk asli** – membantu memverifikasi bahwa ponsel tidak dicuri atau masih dalam kontrak. |
-| **6** | **Uji dengan uji coba gratis** – jika penjual mengizinkan, instal eSIM gratis (seperti Roami) untuk mengonfirmasi aktivasi berfungsi. |
+| Peta dan navigasi arah-belokan | ✅ Instan |
+| Pesan (iMessage, WhatsApp, Signal) | ✅ Instan |
+| Email dan penjelajahan web | ✅ Instan |
+| Panggilan video (FaceTime, WhatsApp, Zoom) | ✅ Lancar pada 720p–1080p |
+| Streaming musik dan podcast | ✅ Lancar |
+| Media sosial dan unggahan foto | ✅ Baik |
+| Unduhan file besar / streaming 4K | ⚠️ Lebih lambat — wilayah 5G |
+
+Satu-satunya kesenjangan nyata adalah kecepatan khusus 5G. Jika eSIM perjalanan Anda mengiklankan 5G, XR tetap memasang dan menggunakan paket tersebut — hanya saja terhubung melalui LTE. Cakupan juga bukan masalah: 4G LTE adalah baseline global pada 2026, dan operator akan terus menjalankannya selama bertahun-tahun bersama 5G.
+
+**Kesimpulan:** batas 4G XR adalah keterbatasan *kecepatan*, bukan *cakupan* atau *kompatibilitas*. Itu adalah harga yang Anda bayar untuk iPhone eSIM termurah — dan untuk sebagian besar perjalanan, itu adalah harga yang layak dibayar. Menginginkan 5G pada iPhone eSIM hemat biaya? [iPhone SE generasi ke-3](/faq/iphone-se-esim-compatible/) adalah langkah alami berikutnya.
+
+
+## Nomor Model iPhone XR
+
+Nomor model perangkat keras XR Anda memberi tahu Anda apakah ia memiliki eSIM bahkan sebelum Anda menyentuh menu apa pun. Apple menjual enam varian perangkat keras, dan semuanya terbagi rapi menjadi dua kubu — eSIM atau tanpa eSIM:
+
+| Nomor Model | Tempat Penjualan | Dukungan eSIM |
+| :--- | :--- | :--- |
+| **A1984** | AS, Kanada, Puerto Rico, Guam, Kepulauan Virgin AS | ✅ Ya |
+| **A2105** | Sebagian besar negara lain (global) | ✅ Ya |
+| **A2106** | Jepang | ✅ Ya (mungkin terkunci operator) |
+| **A2107** | China daratan | ❌ Tidak — dual SIM fisik |
+| **A2108** | China daratan, Hong Kong, Makau | ❌ Tidak — dual SIM fisik |
+| **A2109** | China daratan (varian operator) | ❌ Tidak — dual SIM fisik |
+
+**Versi singkatnya:** A1984, A2105, dan A2106 memiliki eSIM. A2107, A2108, dan A2109 membawa dua nano-SIM fisik sebagai gantinya — tanpa chip eSIM. Itulah seluruh peta lengkapnya.
+
+**Cara menemukannya:** Pengaturan > Umum > Tentang > Nomor Model. Ketuk nomornya untuk beralih antara kode perangkat keras "AXXXX" dan kode ritel "MNXXXX/A".
+
+**Nuansa Jepang (A2106):** model Jepang *memang* memiliki eSIM, tetapi banyak XR pasar Jepang yang dijual terkunci ke docomo, au, atau SoftBank. Periksa **Pengaturan > Umum > Tentang > Kunci Operator** sebelum berasumsi unit Jepang bekas sudah terbuka.
+
+**Nuansa China (A2107 / A2108 / A2109):** ketiganya adalah varian China daratan dan Hong Kong / Makau. Mereka dikirim dengan dua nano-SIM fisik dan tanpa chip eSIM — tidak ada pembaruan iOS, reset, atau trik yang dapat menambahkannya. Jika Anda melihat salah satu dari ketiganya di layar Tentang, berhenti: unit itu tidak akan pernah bisa menerima eSIM.
+
+
+## Membeli iPhone XR Bekas untuk eSIM
+
+XR adalah iPhone eSIM termurah di pasar bekas, yang menjadikannya magnet bagi unit pasar abu-abu dan model China. Jalankan daftar periksa ini secara langsung sebelum menyerahkan uang:
+
+| Langkah | Yang Perlu Diperiksa |
+| :--- | :--- |
+| **1** | **Nomor Model** (Pengaturan > Umum > Tentang) — tolak apa pun yang berakhiran **CH/A**, atau perangkat keras **A2107/A2108/A2109**. |
+| **2** | **Tekan `*#06#`** — pastikan **EID** 32 digit muncul, bukan hanya nomor IMEI. |
+| **3** | **Kunci Operator** — harus tertulis **"No SIM restrictions."** "SIM locked" berarti eSIM perjalanan tidak mungkin. |
+| **4** | **Pengaturan > Seluler** — "Add Cellular Plan" harus dapat diketuk, bukan berwarna abu-abu. |
+| **5** | **Baki SIM fisik** — XR memiliki baki nano-SIM. Jika tidak ada baki, itu bukan XR. |
+| **6** | **Uji coba gratis** — jika penjual mengizinkan, pasang eSIM gratis (seperti milik Roami) untuk membuktikan aktivasi bekerja dari awal hingga akhir. |
 
 ### Tanda Bahaya Saat Membeli Bekas
 
-| Tanda Bahaya | Mengapa |
+| Tanda Bahaya | Alasan |
 | :--- | :--- |
-| **Tidak ada EID pada `*#06#`** | Model China – tidak ada perangkat keras eSIM. |
-| **Kunci Operator mengatakan "Terkunci SIM"** | Anda tidak akan dapat menggunakan eSIM perjalanan. |
-| **Penjual mengatakan "perbarui iOS untuk mendapatkan eSIM"** | Salah – eSIM adalah perangkat keras, bukan perangkat lunak. |
-| **Tidak ada baki SIM fisik yang terlihat** | XR memiliki baki SIM – jika hilang, itu bukan XR. |
-| **Terkunci iCloud** | Ponsel pada dasarnya adalah batu bata – jangan beli. |
+| **Tidak ada EID di `*#06#`** | Model China — tanpa perangkat keras eSIM. |
+| **Kunci Operator tertulis "SIM locked"** | eSIM perjalanan tidak akan berfungsi sampai dibuka kuncinya. |
+| **Penjual berkata "tinggal perbarui iOS untuk mendapatkan eSIM"** | Salah — eSIM adalah perangkat keras, bukan fitur perangkat lunak. |
+| **Terkunci iCloud** | Ponsel itu bata — pergilah. |
 
-### Nomor Model iPhone XR – Referensi Cepat
+### Kesehatan Baterai, Rentang Harga, dan Tempat Berbelanja
 
-| Nomor Model | Wilayah | Dukungan eSIM |
-| :--- | :--- | :--- |
-| **A2105** | Global (AS, Kanada, Jepang, dll.) | ✅ Ya |
-| **A2106** | Global | ✅ Ya |
-| **A2107** | Global | ✅ Ya |
-| **A2108** | China Daratan | ❌ Tidak ada eSIM |
-| **A2109** | Jepang (operator) | ⚠️ Mungkin terkunci operator |
+Di luar pemeriksaan EID dan kunci, tiga hal menentukan apakah XR bekas merupakan tawaran bagus pada 2026:
 
-**Cara menemukan nomor model Anda:** Pengaturan > Umum > Tentang > Nomor Model. Ketuk nomor untuk beralih antara format "AXXXX" dan "MNXXXXX/A".
+**1. Kesehatan baterai.** Pada ponsel setua ini, itu adalah hal pertama yang harus diperiksa. Buka **Pengaturan > Baterai > Kesehatan Baterai & Pengisian** dan baca **Kapasitas Maksimum**. Di atas 90% sangat baik; 85–90% normal untuk unit yang sedikit digunakan; di bawah 80% berarti Apple merekomendasikan layanan baterai (sekitar $69–89 di AS) dan ponsel akan kesulitan melewati hari perjalanan penuh. Minta angka ini kepada penjual sebelum Anda membayar.
 
+**2. Rentang harga (September 2026).** XR yang bersih dan terbuka kini diperdagangkan dalam rentang sempit:
 
-## Cara Mengaktifkan eSIM di iPhone XR
-
-Aktivasi memakan waktu kurang dari 2 menit. Lakukan sebelum terbang – Anda hanya memerlukan Wi‑Fi. Untuk petunjuk detail di semua model iPhone, periksa **[panduan aktivasi eSIM iPhone](/faq/how-to-activate-esim-on-iphone/)** kami.
-
-### Aktivasi Langkah demi Langkah
-
-| Langkah | Tindakan |
+| Kondisi | Perkiraan Harga |
 | :--- | :--- |
-| **1** | Beli paket eSIM – untuk perjalanan, pilih penyedia mana pun. Uji coba gratis juga tersedia dari Roami. |
-| **2** | Buka **Pengaturan > Seluler > Tambahkan Paket Seluler**. |
-| **3** | Pindai kode QR yang dikirim ke email Anda. (Jika Anda memiliki kode aktivasi manual, ketuk "Masukkan Detail Secara Manual".) |
-| **4** | Beri label paket Anda – mis., "Perjalanan", "Kerja", "Data Inggris". |
-| **5** | Pilih jalur default – putuskan jalur mana yang akan digunakan untuk Data Seluler, Suara, dan SMS. |
-| **6** | **Langkah penting:** Setelah mendarat di tujuan Anda, buka **Pengaturan > Seluler > [paket Anda]** dan aktifkan **Data Roaming AKTIF**. Tanpa ini, tidak akan terhubung. |
+| Cukup, keausan ringan, 64GB | $90–120 |
+| Baik, terbuka, 64GB | $110–140 |
+| Baik, terbuka, 128GB | $120–155 |
+| Sangat baik + baterai sehat, 256GB | $140–175 |
 
-### Pengaturan APN (Jika Koneksi Data Tidak Muncul)
+Apa pun yang jauh di bawah angka-angka ini biasanya merupakan model China, unit terkunci operator, atau pembebani kertas yang terkunci iCloud.
 
-Jika setelah aktivasi tidak ada jaringan data yang tersedia, pengaturan APN mungkin perlu disesuaikan:
+**3. Tempat membeli.** Tarikan paling aman adalah marketplace yang memverifikasi IMEI/ESN dan menawarkan periode pengembalian: **Swappa** (penjual individu, daftar diverifikasi staf), **Back Market** (refurbish dengan garansi 12 bulan), **Amazon Renewed**, dan **eBay** (tetap pada penjual dengan reputasi tinggi yang mencantumkan "unlocked" di daftar dan menawarkan eBay Money Back Guarantee). Apple tidak lagi menyediakan XR refurbish, jadi pihak ketiga adalah satu-satunya jalur Anda. Hindari daftar lokal anonim dan penjual "impor massal" yang tidak mau membagikan IMEI sebelum pembelian.
 
-1. Buka **Pengaturan > Seluler > Jaringan Data Seluler**.
-2. Isi bidang APN – periksa situs web penyedia Anda untuk nilai yang benar.
-3. Simpan dan mulai ulang iPhone Anda.
+### Batas Atas iOS 18
 
-| Penyedia | APN | Nama Pengguna | Kata Sandi |
-| :--- | :--- | :--- | :--- |
-| **Roami** | internet | (kosong) | (kosong) |
-| **Airalo** | globaldata | (kosong) | (kosong) |
-| **Holafly** | hola | (kosong) | (kosong) |
-| **Nomad** | nbdata | (kosong) | (kosong) |
-| **Google Fi** | h2g2 | (kosong) | (kosong) |
-| **Verizon** | vzwinternet | (kosong) | (kosong) |
-| **T‑Mobile (AS)** | fast.t-mobile.com | (kosong) | (kosong) |
-| **AT&T** | nxgen | (kosong) | (kosong) |
-| **Orange (Prancis)** | orange.fr | (kosong) | (kosong) |
-| **Vodafone (global)** | internet | (kosong) | (kosong) |
+XR menjalankan iOS 12 hingga **iOS 18** — dan berhenti di situ. Apple mengeluarkan XR, XS, dan XS Max dari iOS 19 pada 2025, karena keduanya berbagi chip A12 Bionic yang lebih lama. Ponsel masih bekerja dengan baik di iOS 18 dan terus mendapatkan patch keamanan, tetapi tidak akan melihat fitur besar baru.
 
-> **Tips Pro:** Jika bidang APN berwarna abu-abu, operator Anda telah mengunci pengaturan APN – Anda tidak dapat mengubahnya secara manual. Hubungi penyedia Anda untuk bantuan.
+Untuk eSIM secara khusus, itu tidak masalah: eSIM bekerja identik di iOS 18 dan iOS 19. Itu hanya penting jika Anda berencana mempertahankan ponsel selama beberapa tahun, dalam hal ini [iPhone SE generasi ke-3](/faq/iphone-se-esim-compatible/) (masih didukung penuh) adalah pembelian jangka panjang yang lebih aman.
 
 
-## Menggunakan SIM Fisik dan eSIM Bersamaan
+## Mengatur eSIM di iPhone XR
 
-iPhone XR mendukung **dual SIM dual standby (DSDS)** – Anda dapat memiliki satu SIM fisik dan satu eSIM aktif secara bersamaan.
+Setelah Anda memastikan ponsel memiliki EID, pengaturan hanya memakan waktu sekitar dua menit. XR mempertahankan satu slot nano-SIM fisik ditambah satu eSIM, jadi opsinya selalu tersedia — berikut jalur khusus XR:
 
-### Apa Arti "Dual Standby"
+1. Beli paket dan perhatikan email konfirmasi (Roami mengirimkan kode QR plus alamat SM-DP+ dan kode aktivasi).
+2. Buka **Pengaturan > Seluler > Add Cellular Plan** (iOS 12–15) atau **Add eSIM** (iOS 16–18 — labelnya berubah, fiturnya tidak).
+3. Pindai kode QR, atau ketuk **Enter Details Manually** dan ketik alamat SM-DP+ dan kode aktivasi jika kamera tidak bisa fokus.
+4. Beri label pada saluran baru (misalnya, "Travel") dan pilih **Saluran Default** Anda untuk data — atur eSIM perjalanan di sini, dan pertahankan saluran rumah Anda sebagai default suara.
+5. Nyalakan **Data Roaming** untuk saluran perjalanan saat Anda mendarat.
 
-| Fitur | Cara Kerjanya |
-| :--- | :--- |
-| **Kedua jalur aktif** | Ponsel Anda terhubung ke kedua jaringan secara bersamaan |
-| **Selama panggilan** | Jalur lain menampilkan "Tidak Ada Layanan" – ini **normal** (dual standby, bukan dual aktif) |
-| **Data** | Anda memilih jalur mana yang menyediakan data seluler |
-| **Panggilan/SMS** | Anda memilih jalur mana yang menjadi jalur suara default |
+XR bersifat dual-standby, bukan dual-active: kedua saluran menerima panggilan dan pesan, tetapi hanya satu yang memegang panggilan suara pada satu waktu. Itu normal, bukan cacat.
 
-### Pengaturan yang Direkomendasikan untuk Perjalanan
-
-| Pengaturan | Nilai yang Direkomendasikan | Mengapa |
-| :--- | :--- | :--- |
-| **Jalur Suara Default** | SIM fisik Rumah | Tetap menerima panggilan di nomor rumah Anda |
-| **Data Seluler** | eSIM Perjalanan | Gunakan paket data lokal, bukan roaming mahal |
-| **Data Roaming (SIM Rumah)** | NONAKTIF | Mencegah biaya roaming yang tidak disengaja |
-| **Data Roaming (eSIM Perjalanan)** | AKTIF | Diperlukan agar eSIM perjalanan berfungsi |
-
-### Berapa Banyak Profil eSIM yang Dapat Disimpan iPhone XR?
-
-XR dapat menyimpan **hingga 8 profil eSIM**, tetapi **hanya satu eSIM yang dapat aktif pada satu waktu** bersama dengan SIM fisik Anda.
-
-**Untuk menghapus profil yang tidak digunakan:**
-1. Pengaturan > Seluler > ketuk paket yang ingin dihapus.
-2. Gulir ke bawah dan ketuk **Hapus Paket Seluler**.
-3. Ini membebaskan ruang untuk profil baru.
-
-**Untuk beralih antar profil tersimpan:**
-1. Pengaturan > Seluler > ketuk paket yang diinginkan.
-2. Aktifkan **Aktifkan Jalur Ini**.
+Panduan langkah demi langkah lengkap dengan tangkapan layar ada di [panduan aktivasi eSIM iPhone](/faq/how-to-activate-esim-on-iphone/); jika terjadi kesalahan di tengah pemasangan, perbaikannya ada di [Panduan Pemecahan Masalah eSIM Mendalam 2026](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
-## Operator Mana yang Bekerja dengan eSIM iPhone XR?
+## Daya Tahan Baterai XR dengan Dual SIM
 
-Perangkat ini berfungsi dengan setiap penyedia eSIM di seluruh dunia – selama ponsel Anda tidak terkunci (Kunci Operator = "Tidak ada pembatasan SIM").
+Menjalankan saluran kedua (perjalanan) di XR tergolong ringan, tetapi tidak gratis: mempertahankan dua saluran terdaftar ke jaringan memakan beberapa poin baterai per hari. Perkirakan **drainase sekitar 5–10% lebih cepat** dengan kedua saluran aktif dibandingkan satu.
 
-### Operator AS
+Variabel yang lebih besar pada ponsel 2018 adalah baterainya sendiri. XR yang sehat dengan mudah menjalani penggunaan campuran seharian; yang baterainya lelah (kesehatan di bawah 85%) akan membutuhkan pengisian tengah hari bahkan sebelum Anda menambahkan saluran kedua. Tiga langkah mudah untuk memperpanjangnya:
 
-| Penyedia | Kompatibel? | Metode Aktivasi |
-| :--- | :--- | :--- |
-| **Roami** | ✅ Ya | Kode QR atau aplikasi |
-| **Airalo** | ✅ Ya | Kode QR atau aplikasi |
-| **Visible** | ✅ Ya | Memerlukan iOS 15+ (perbarui XR Anda!) |
-| **Google Fi** | ✅ Ya | Aplikasi Google Fi |
-| **Verizon** | ✅ Ya | Aplikasi My Verizon atau kode QR |
-| **US Mobile** | ✅ Ya | Aplikasi US Mobile |
-| **T‑Mobile (AS)** | ✅ Ya | Aplikasi T‑Mobile atau kode QR |
-| **AT&T** | ✅ Ya | Aplikasi AT&T atau kode QR |
-| **Mint Mobile** | ✅ Ya | Aplikasi Mint |
-| **Boost Mobile** | ✅ Ya | Aplikasi Boost |
-| **Cricket Wireless** | ✅ Ya | Aplikasi Cricket |
+- **Matikan saluran perjalanan saat tidak digunakan** — Pengaturan > Seluler > [saluran perjalanan] > matikan sakelar **Turn On This Line**. Aktifkan kembali dalam hitungan detik saat mendarat.
+- **Gunakan Mode Daya Rendah** — Pengaturan > Baterai > Mode Daya Rendah. Mode ini membatasi aktivitas latar belakang tanpa memengaruhi panggilan atau data.
+- **Pertahankan satu saluran pada data** — atur eSIM perjalanan sebagai default data dan biarkan saluran rumah menganggur pada suara/SMS, yang lebih ringan bagi radio.
 
-### Operator Internasional
-
-| Penyedia | Kompatibel? | Wilayah |
-| :--- | :--- | :--- |
-| **Orange (Prancis)** | ✅ Ya | Prancis / Eropa |
-| **Free Mobile (Prancis)** | ✅ Ya | Prancis |
-| **SFR (Prancis)** | ✅ Ya | Prancis |
-| **Bouygues (Prancis)** | ✅ Ya | Prancis |
-| **O2 (Inggris)** | ✅ Ya | Inggris |
-| **EE (Inggris)** | ✅ Ya | Inggris |
-| **Vodafone** | ✅ Ya | Global |
-| **Deutsche Telekom** | ✅ Ya | Jerman / Eropa |
-| **Jio (India)** | ✅ Ya | India (kunjungi toko untuk QR) |
-| **Airtel (India)** | ✅ Ya | India (melalui aplikasi) |
-| **NTT Docomo (Jepang)** | ✅ Ya | Jepang |
-| **Telstra (Australia)** | ✅ Ya | Australia |
-| **Optus (Australia)** | ✅ Ya | Australia |
-
-> **Catatan:** Untuk Verizon, ini berfungsi selama perangkat tidak terkunci atau dibeli dari Verizon. Operator Prancis termasuk Orange, SFR, Free Mobile, dan Bouygues sepenuhnya kompatibel.
-
-Untuk pandangan lebih luas tentang merek lain – termasuk Samsung, Xiaomi, dan Huawei – lihat **[panduan kompatibilitas eSIM](/compatibility/)** lengkap kami.
+Untuk satu hari penuh peta dan foto dengan kedua saluran aktif, bawa power bank kecil — XR mendahului era baterai besar.
 
 
-## iPhone XR vs iPhone 11 vs iPhone SE untuk eSIM – Mana yang Harus Anda Pilih?
+## iPhone XR vs iPhone 11 vs iPhone SE untuk eSIM
 
-Jika Anda membeli iPhone bekas khusus untuk perjalanan eSIM, beginilah perbandingan XR dengan iPhone eSIM hemat lainnya:
+Jika Anda membeli iPhone hemat khusus untuk perjalanan eSIM, keempat ini adalah daftar pendek yang biasa (kedua generasi SE mendapat tempat):
 
-| Fitur | iPhone XR | iPhone 11 | iPhone SE (gen 3) |
-| :--- | :--- | :--- | :--- |
-| **Dukungan eSIM** | ✅ Ya | ✅ Ya | ✅ Ya |
-| **5G** | ❌ Tidak (4G LTE) | ❌ Tidak (4G LTE) | ✅ Ya |
-| **Fisik + eSIM** | ✅ Ya | ✅ Ya | ✅ Ya |
-| **Dual eSIM (tanpa fisik)** | ❌ Tidak | ❌ Tidak | ❌ Tidak |
-| **Daya tahan baterai** | Baik | Lebih baik | Baik |
-| **Kamera** | Lensa tunggal | Lensa ganda | Lensa tunggal |
-| **Perkiraan harga bekas** | $100–150 | $150–250 | $200–280 |
-| **Terbaik untuk** | iPhone eSIM termurah | Kamera + baterai lebih baik | 5G + tahan masa depan |
+| Fitur | iPhone XR | iPhone 11 | iPhone SE (generasi ke-2) | iPhone SE (generasi ke-3) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tahun rilis** | 2018 | 2019 | 2020 | 2022 |
+| **Dukungan eSIM** | ✅ Ya | ✅ Ya | ✅ Ya | ✅ Ya |
+| **5G** | ❌ Tidak (4G LTE) | ❌ Tidak (4G LTE) | ❌ Tidak (4G LTE) | ✅ Ya |
+| **Jenis dual SIM** | 1 fisik + 1 eSIM | 1 fisik + 1 eSIM | 1 fisik + 1 eSIM | 1 fisik + 1 eSIM |
+| **Dual eSIM (tanpa fisik)** | ❌ Tidak | ❌ Tidak | ❌ Tidak | ❌ Tidak |
+| **Profil eSIM tersimpan** | ~5–8 | ~5–8 | ~8 | ~8 |
+| **Layar** | 6.1″ LCD | 6.1″ LCD | 4.7″ LCD | 4.7″ LCD |
+| **Baterai** | Baik | Lebih baik | Cukup | Cukup |
+| **Kamera** | Lensa tunggal | Lensa ganda | Lensa tunggal | Lensa tunggal |
+| **Face ID / Touch ID** | Face ID | Face ID | Touch ID | Touch ID |
+| **Perkiraan harga bekas** | $100–150 | $150–250 | $120–180 | $200–280 |
+| **Terbaik untuk** | Pintu masuk eSIM termurah | Kamera + baterai lebih baik | Terkecil + tombol home | 5G + keawetan |
 
 **Rekomendasi:**
-- **Pilih XR** jika Anda menginginkan iPhone eSIM termurah mutlak.
-- **Pilih 11** jika Anda menginginkan kamera dan baterai yang lebih baik dengan harga sedikit lebih tinggi.
-- **Pilih SE (gen 3)** jika Anda menginginkan 5G dan berencana menyimpan ponsel selama 3+ tahun.
+- **Pilih XR** jika Anda menginginkan iPhone eSIM yang berfungsi dengan harga termurah absolut dan tidak peduli dengan 5G atau dukungan perangkat lunak yang lebih pendek.
+- **Pilih 11** jika kamera dan baterai yang lebih baik sepadan dengan ~$50–100 lebih mahal.
+- **Pilih SE generasi ke-2** jika Anda menginginkan eSIM yang sama dalam bodi lebih kecil dengan tombol home (dan tidak butuh 5G).
+- **Pilih SE generasi ke-3** jika Anda menginginkan 5G, dukungan iOS lebih lama, dan berencana mempertahankan ponsel tiga tahun atau lebih.
+
+Untuk pembahasan mendalam tentang generasi SE dan aturan buka kunci operator, lihat [panduan eSIM iPhone SE](/faq/iphone-se-esim-compatible/).
 
 
-## iPhone Mana yang Mendukung eSIM? – Daftar Lengkap
+## Bagaimana Jika iPhone XR Anda Tidak Menampilkan EID?
 
-| Model iPhone | Dukungan eSIM | Tipe Dual SIM |
-| :--- | :--- | :--- |
-| **iPhone XR, XS, XS Max** | ✅ Ya | Fisik + eSIM |
-| **iPhone 11, 11 Pro, 11 Pro Max** | ✅ Ya | Fisik + eSIM |
-| **iPhone SE (2020, 2022)** | ✅ Ya | Fisik + eSIM |
-| **iPhone 12, 12 mini, 12 Pro, 12 Pro Max** | ✅ Ya | Fisik + eSIM |
-| **iPhone 13, 13 mini, 13 Pro, 13 Pro Max** | ✅ Ya | Fisik + eSIM ATAU dual eSIM |
-| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Ya | AS: hanya eSIM; global: fisik + eSIM |
-| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Ya | AS: hanya eSIM; global: fisik + eSIM |
-| **Seri iPhone 16, 17** | ✅ Ya | Hanya eSIM di beberapa wilayah |
+Satu-satunya XR yang tidak memiliki eSIM adalah yang dijual di **China daratan** — dan, dalam kasus yang jarang, unit Hong Kong atau Makau yang diedarkan melalui saluran China.
 
-> **Penting:** iPhone yang dijual di China daratan tidak memiliki eSIM (kecuali iPhone 16 yang memiliki eSIM di China). **iPhone 8, 8 Plus, dan iPhone X TIDAK mendukung eSIM** – mereka hanya SIM fisik.
+### Mengapa Ini Tidak Dapat Diperbaiki
 
-Jika Anda mencari alternatif, **iPhone 11** dan **iPhone SE** adalah peningkatan yang sangat baik. Lihat panduan detail kami untuk **[kompatibilitas eSIM iPhone 11](/faq/iphone-11-esim-compatible/)** dan **[kompatibilitas eSIM iPhone SE](/faq/iphone-se-esim-compatible/)**.
+XR membawa chip yang disolder bernama **eUICC** (embedded Universal Integrated Circuit Card) yang menyimpan profil eSIM. Pada unit pasar China, Apple secara fisik menghilangkan atau menonaktifkan chip itu untuk memenuhi aturan setempat yang mewajibkan dua slot SIM fisik. Ini adalah perangkat keras, bukan firmware — tidak ada pembaruan iOS, reset, atau trik yang dapat menambahkan eSIM ke A2107, A2108, atau A2109.
 
-
-## Bagaimana Jika iPhone XR Anda TIDAK Menampilkan EID?
-
-Satu-satunya skenario di mana XR tidak memiliki eSIM adalah jika dibeli di **China daratan** (termasuk beberapa model Hong Kong yang dijual melalui saluran China).
-
-### Apa yang Dapat Anda Lakukan?
+### Apa yang Bisa Anda Lakukan Sebagai Gantinya
 
 | Opsi | Detail |
 | :--- | :--- |
-| **Gunakan SIM fisik perjalanan** | Banyak penyedia masih menawarkan kartu SIM fisik yang dikirim ke seluruh dunia – Anda tidak sepenuhnya terjebak. |
-| **Tingkatkan ke iPhone yang lebih baru** | iPhone 11, iPhone SE, atau model selanjutnya akan memberi Anda eSIM. Lihat **[panduan iPhone 11 eSIM](/faq/iphone-11-esim-compatible/)** dan **[panduan iPhone SE eSIM](/faq/iphone-se-esim-compatible/)** untuk detailnya. |
-| **Beralih ke perangkat Android** | **[Samsung S20](/faq/samsung-s20-esim-compatible/)** (versi Exynos internasional) atau **[Google Pixel 6](/faq/google-pixel-6-esim-compatible/)** adalah alternatif yang bagus. |
-| **Periksa apakah Anda sebenarnya memiliki model Hong Kong** | Beberapa iPhone Hong Kong mendukung dual SIM (fisik + eSIM). Coba `*#06#` lagi. Jika Anda melihat EID, Anda baik-baik saja. |
+| **Gunakan SIM perjalanan fisik** | Banyak penyedia masih mengirim SIM fisik ke seluruh dunia — Anda tidak terjebak. |
+| **Upgrade ke iPhone yang lebih baru** | iPhone yang lebih baru mana pun memberi Anda eSIM. Lihat [panduan iPhone 11](/faq/iphone-11-esim-compatible/) atau [panduan iPhone SE](/faq/iphone-se-esim-compatible/). |
+| **Beralih ke Android** | [Samsung S20](/faq/samsung-s20-esim-compatible/) (versi Exynos) atau [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) adalah alternatif yang solid. |
 
-### Cara Mengidentifikasi Model China
+### Cara Memastikan Model China
 
-| Indikator | Apa yang Harus Diperiksa |
+| Indikator | Yang Perlu Dicari |
 | :--- | :--- |
-| **Nomor Model** | Pengaturan > Umum > Tentang > Nomor Model. Jika berakhir dengan **CH/A**, itu adalah model China daratan. |
-| **`*#06#`** | Tidak ada EID yang muncul – hanya nomor IMEI. |
-| **Pengaturan** | Pengaturan > Seluler > "Tambahkan Paket Seluler" hilang atau berwarna abu-abu. |
+| **Nomor Model** | Berakhiran **CH/A**, atau perangkat keras **A2107 / A2108 / A2109**. |
+| **`*#06#`** | Tidak ada EID — hanya nomor IMEI. |
+| **Pengaturan > Seluler** | "Add Cellular Plan" hilang atau berwarna abu-abu. |
 
 
-## Pemecahan Masalah Masalah eSIM iPhone XR
+## Memecahkan Masalah eSIM iPhone XR
 
 | Masalah | Kemungkinan Penyebab | Solusi |
 | :--- | :--- | :--- |
-| **"Paket Seluler Tidak Dapat Ditambahkan"** | Terlalu banyak profil tersimpan | Hapus profil yang tidak digunakan (Pengaturan > Seluler > Hapus Paket Seluler) |
-| **Terinstal tetapi tidak ada data** | Data Roaming mati | Aktifkan Data Roaming untuk jalur itu |
-| **"eSIM Anda Tidak Didukung"** | iOS kedaluwarsa atau profil tidak kompatibel | Perbarui ke iOS 16+; hubungi penyedia |
-| **"Tidak Ada SIM" setelah aktivasi** | Profil rusak | Hapus dan instal ulang |
-| **Kode QR mengatakan "Tidak Valid"** | QR kedaluwarsa atau sudah digunakan | Minta QR baru dari penyedia |
-| **Menampilkan "Mencari" untuk waktu lama** | Di luar jangkauan | Coba pemilihan jaringan manual (Pengaturan > Seluler > [paket] > Pemilihan Jaringan) |
-| **Panggilan masuk ke voicemail di jalur eSIM** | Jalur Suara Default salah diatur | Pengaturan > Seluler > Jalur Suara Default – pilih jalur yang benar |
-| **Selama panggilan, jalur lain mengatakan Tidak Ada Layanan** | Perilaku dual-standby normal | Tidak ada yang perlu diperbaiki – ini cara kerjanya |
+| **"Cellular Plan Cannot Be Added"** | Terlalu banyak profil tersimpan | Hapus profil yang tidak digunakan (Pengaturan > Seluler > Remove Cellular Plan) |
+| **Terpasang tetapi tidak ada data** | Data Roaming mati | Nyalakan Data Roaming untuk saluran tersebut |
+| **"Your eSIM is Not Supported"** | iOS kedaluwarsa atau profil tidak kompatibel | Perbarui ke iOS 16+; hubungi penyedia |
+| **"No SIM" setelah aktivasi** | Profil rusak | Hapus dan pasang ulang |
+| **QR tertulis "Invalid"** | QR kedaluwarsa atau sudah digunakan | Minta QR baru dari penyedia |
+| **"Searching" dalam waktu lama** | Di luar cakupan | Pemilihan jaringan manual (Pengaturan > Seluler > [paket] > Network Selection) |
+| **Saluran lain terputus saat panggilan** | Perilaku normal dual-standby | Tidak ada yang perlu diperbaiki — hanya satu saluran yang memegang koneksi suara pada satu waktu |
 
-Untuk pemecahan masalah lebih lanjut, lihat **[Panduan Pemecahan Masalah Mendalam eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** .
+Untuk perbaikan tingkat kode kesalahan, lihat [Panduan Pemecahan Masalah eSIM Mendalam 2026](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
 ## Pertanyaan yang Sering Diajukan
 
-**Apakah iPhone XR kompatibel eSIM dengan semua operator?**
-Ya – operator mana pun yang menawarkan eSIM (pascabayar, prabayar, atau eSIM perjalanan) akan berfungsi, selama perangkat Anda tidak terkunci.
+**Apakah iPhone XR kompatibel dengan eSIM di semua operator?**
+Ya — operator mana pun yang menawarkan eSIM (pascabayar, prabayar, atau perjalanan) berfungsi pada XR global yang tidak terkunci. Cakupan operator secara lengkap ada di [daftar kompatibilitas](/compatibility/) kami.
 
-**Bisakah saya menggunakan eSIM dan SIM fisik secara bersamaan?**
-Ya. Anda dapat memiliki satu eSIM aktif + satu SIM fisik aktif secara bersamaan – ini adalah pengaturan dual SIM dual standby yang sebenarnya.
+**Apakah iPhone XR mendukung 5G di eSIM?**
+Tidak. XR hanya 4G LTE, baik di SIM fisik maupun eSIM-nya. eSIM bekerja dengan baik di LTE; Anda hanya tidak akan melihat kecepatan 5G.
 
-**Apakah iPhone XR mendukung eSIM 5G?**
-Tidak – iPhone XR hanya mendukung 4G LTE. eSIM berfungsi sempurna di LTE, tetapi Anda tidak akan mendapatkan kecepatan 5G.
+**Dapatkah saya menggunakan eSIM dan SIM fisik secara bersamaan di XR?**
+Ya — satu eSIM aktif ditambah satu SIM fisik aktif, pengaturan dual-SIM dual-standby yang sejati. Cara kerja pengaturannya dibahas di [pusat kompatibilitas eSIM iPhone](/faq/iphone-11-esim-compatible/).
 
-**Perangkat saya menampilkan "Paket Seluler Tidak Dapat Ditambahkan" – apa yang salah?**
-Ini biasanya terjadi jika Anda memiliki terlalu banyak profil tersimpan. Buka Pengaturan > Seluler dan hapus profil lama atau yang tidak digunakan. Lalu mulai ulang dan coba lagi. XR dapat menyimpan sekitar 8 profil.
+**Berapa banyak profil eSIM yang dapat disimpan iPhone XR?**
+Ia dapat menampung sekitar lima hingga delapan profil tersimpan, tetapi hanya satu eSIM yang dapat aktif pada satu waktu di samping SIM fisik.
 
-**Apakah eSIM iPhone XR berfungsi di Eropa?**
-Ya – tetapi waspadalah bahwa eSIM lokal berbasis Inggris sekarang mengenakan biaya roaming EU harian setelah Brexit. Untuk perjalanan multi-negara, beli eSIM Regional Eropa sebagai gantinya.
-
-**Apakah iPhone X (iPhone 10) mendukung eSIM?**
-Tidak. iPhone X (dirilis 2017) tidak memiliki perangkat keras eSIM. iPhone pertama dengan eSIM adalah XR, XS, dan XS Max.
-
-**Apakah iPhone 8 atau 8 Plus mendukung eSIM?**
-Tidak. iPhone 8 dan 8 Plus hanya SIM fisik. Mereka tidak mendukung eSIM.
-
-**Berapa banyak profil eSIM yang dapat disimpan iPhone XR saya?**
-Ini dapat menyimpan hingga 8 profil, tetapi hanya satu yang dapat aktif pada satu waktu bersama dengan SIM fisik Anda.
-
-**Bisakah saya menggunakan dua eSIM sekaligus di iPhone XR?**
-Tidak – XR hanya mendukung satu eSIM aktif pada satu waktu (plus satu SIM fisik). Dual eSIM (dua eSIM aktif) dimulai dengan iPhone 13.
+**Dapatkah saya menggunakan dua eSIM sekaligus di XR?**
+Tidak — dual eSIM (dua eSIM aktif) dimulai dengan iPhone 13. XR maksimal satu eSIM ditambah satu SIM fisik.
 
 **Apa iPhone termurah dengan eSIM?**
-iPhone XR (bekas) adalah iPhone berkemampuan eSIM termurah dengan harga sekitar $100–150. iPhone SE (gen 3) adalah iPhone eSIM baru termurah.
+iPhone XR bekas dengan harga sekitar $100–150. iPhone SE generasi ke-3 adalah iPhone eSIM *baru* termurah.
 
-**Bagaimana cara memeriksa apakah iPhone XR saya terkunci operator?**
-Pengaturan > Umum > Tentang > Kunci Operator. Jika bertuliskan "Tidak ada pembatasan SIM", iPhone Anda tidak terkunci. Jika bertuliskan "Terkunci SIM", hubungi operator Anda untuk membuka kunci.
+**Bagaimana cara memeriksa apakah XR saya terkunci operator?**
+Pengaturan > Umum > Tentang > Kunci Operator. "No SIM restrictions" = terbuka. Ada nama operator = terkunci; hubungi operator tersebut untuk meminta pembukaan kunci.
 
-**Bisakah saya menggunakan eSIM T‑Mobile di iPhone XR?**
-Ya. T‑Mobile mendukung eSIM di XR. Anda dapat mengaktifkan melalui aplikasi T‑Mobile atau dengan kode QR dari T‑Mobile.
-
-**Bisakah saya menggunakan eSIM Verizon di iPhone XR?**
-Ya. Verizon mendukung eSIM di XR. Aktifkan melalui aplikasi My Verizon atau dengan kode QR dari Verizon.
-
-**Apa eSIM terbaik untuk perjalanan iPhone XR?**
-Opsi terbaik tergantung pada tujuan Anda. Untuk perjalanan AS, Roami (multi-jaringan) atau Airalo (jaringan tunggal) sama-sama berfungsi. Untuk Eropa, Roami Eropa atau Airalo Eropa adalah pilihan yang baik. Cari paket multi-jaringan jika Anda menginginkan jangkauan terbaik.
+**Mengapa XR saya menampilkan "No Service" pada satu saluran saat panggilan?**
+Itu adalah perilaku normal dual-standby. XR memegang satu koneksi suara pada satu waktu; saluran lain terhubung kembali saat panggilan berakhir.
 
 **Apakah iPhone XR memiliki baki SIM fisik?**
-Ya – tidak seperti model iPhone 14 AS dan yang lebih baru, XR memiliki baki nano‑SIM fisik di samping dukungan eSIM.
+Ya — berbeda dengan iPhone 14 AS dan seterusnya, XR mempertahankan baki nano-SIM di samping eSIM-nya.
 
-**Bisakah saya mengonversi SIM fisik ke eSIM di iPhone XR?**
-Ya – di iOS 16+, buka Pengaturan > Seluler > Tambahkan Paket Seluler > "Konversi dari SIM fisik". Ini mentransfer SIM fisik Anda ke eSIM di perangkat yang sama.
+**Apakah iPhone XR yang dibeli di China memiliki eSIM?**
+Tidak. XR pasar China (A2107/A2108/A2109, atau CH/A) memiliki dual SIM fisik dan tanpa chip eSIM. Ini tidak dapat diubah.
 
-**Mengapa iPhone XR saya mengatakan "Tidak Ada Layanan" pada satu jalur selama panggilan di jalur lainnya?**
-Ini adalah perilaku normal. XR adalah dual standby, bukan dual aktif – hanya satu jalur yang dapat mempertahankan koneksi seluler pada satu waktu. Saat panggilan berakhir, kedua jalur terhubung kembali secara otomatis.
+**Dapatkah saya mengaktifkan eSIM di XR dengan cara yang sama seperti iPhone yang lebih baru?**
+Ya — alur pemasangannya identik. Aktivasi langkah demi langkah lengkap ada di [panduan aktivasi eSIM iPhone](/faq/how-to-activate-esim-on-iphone/) kami, dan nilai APN ada di [panduan pemecahan masalah](/faq/esim-deep-troubleshooting-guide-2026/).
 
-**Bagaimana dengan merek ponsel lain? Apakah Samsung / Xiaomi / Huawei saya kompatibel eSIM?**
-Samsung Galaxy S20 FE, Xiaomi 11T Pro, dan Huawei P30 Pro mendukung eSIM tergantung pada wilayah dan model. Untuk daftar lengkap, lihat **[panduan kompatibilitas eSIM](/compatibility/)** lengkap kami.
+**Apakah iPhone XR akan mendapatkan iOS 19?**
+Tidak. Apple mengeluarkan XR, XS, dan XS Max dari iOS 19 pada 2025; OS besar terakhir XR adalah iOS 18. Ia masih berfungsi untuk eSIM dan terus mendapatkan patch keamanan.
 
+**Apakah XR masih layak dibeli pada 2026 untuk eSIM?**
+Ya, sebagai ponsel perjalanan hemat. Dengan $100–150, ini adalah iPhone eSIM andal termurah. Cukup periksa EID, kunci operator, dan kesehatan baterai terlebih dahulu — dan ketahui bahwa Anda membeli ponsel 4G dengan iOS 18.
 
-## Masih Belum Yakin? Coba eSIM Gratis
+**Apakah paket eSIM 5G akan berfungsi di XR?**
+Ya, tetapi hanya pada kecepatan 4G LTE. XR memasang paket eSIM apa pun; ia hanya tidak dapat terhubung ke 5G. Paket "5G" bekerja dengan baik di XR — cukup tidak diperlukan.
 
-Cara terbaik untuk mengonfirmasi kompatibilitas adalah dengan menginstal **uji coba eSIM gratis**. Tidak ada biaya, hanya butuh 2 menit, dan jika berhasil diinstal, ponsel Anda 100% siap.
+**Dapatkah XR dipasangkan dengan Apple Watch seluler menggunakan eSIM?**
+Ya. XR dapat memasangkan Apple Watch seluler, yang menggunakan eSIM terpisah sendiri. Pengaturan dan batasan Watch dibahas di [panduan eSIM iPad & Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
 
-👉 [**Dapatkan eSIM gratis Anda sekarang**](/free-esim/) – berfungsi di iPhone XR (kecuali model China).
+👉 **Bepergian dengan XR?** Lihat [eSIM untuk Amerika Serikat](/united-states-esim/) atau [eSIM untuk Eropa](/europe-esim/).
+
+## Coba eSIM Gratis
+
+Cara tercepat untuk memastikan eSIM XR adalah dengan memasang **eSIM uji coba gratis**. Tidak berbiaya apa pun, hanya butuh dua menit, dan jika terpasang, ponsel 100% siap.
+
+👉 [**Dapatkan eSIM gratis Anda sekarang**](/free-esim/) — berfungsi di iPhone XR (kecuali model China).
 
 ---
 
-*Berdasarkan dokumentasi resmi Apple, standar GSMA, dan informasi operator per Agustus 2026.*
+*Berdasarkan dokumentasi resmi Apple, standar GSMA, dan informasi operator per September 2026.*
 ## Sumber
 
-- [GSMA — Spesifikasi eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Apple Support — eSIM di iPhone](https://support.apple.com/en-us/108072)
-- [Apple Support — Tentang eSIM di iPhone](https://support.apple.com/en-us/HT209044)
+- [GSMA — spesifikasi eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Dukungan Apple — Menyiapkan eSIM di iPhone](https://support.apple.com/en-us/HT212780)
+- [Dukungan Apple — Tentang eSIM di iPhone](https://support.apple.com/en-us/HT209044)
+- [Dukungan Apple — Menggunakan Dual SIM dengan eSIM](https://support.apple.com/en-us/HT209086)

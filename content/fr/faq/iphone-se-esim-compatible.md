@@ -1,18 +1,21 @@
 ---
-title: "iPhone SE eSIM : compatibilité & guide 2026"
-h1_title: "iPhone SE et eSIM : compatibilité et guide complet pour 2026"
-description: "iPhone SE eSIM compatible : SE 2020 (2e génération) et SE 2022 (3e génération) avec puce eUICC. Double SIM nano-SIM + eSIM. Activation en 60s, compatible Orange, SFR, Bouygues, Free."
-keywords: ["iphone se esim compatible", "iphone se 2020 esim compatible", "iphone se 2nd gen esim", "iphone se 3rd gen esim", "iphone se 2nd generation esim compatible", "dual sim compatible", "list of iphones that support esim", "esim capable iphones"]
+title: "L'iPhone SE prend-il en charge l'eSIM ? Guide complet (mis à jour)"
+h1_title: "L'iPhone SE prend-il en charge l'eSIM ? Un guide complet (mis à jour)"
+description: "L'iPhone SE (2020/2022) prend en charge l'eSIM – le SE original de 2016 non. Vérifiez avec *#06#. Fonctionne avec les principaux opérateurs et les fournisseurs eSIM mondiaux."
+image: "/img/faq/iphone-se-esim.webp"
+image-1: "/img/faq/iphone-se-esim-1.jpg"
+keywords: ["iphone se esim", "iphone se esim compatible", "does iphone se have esim", "iphone se 2020 esim", "iphone se 3rd gen esim", "esim capable iphones", "iphone se dual sim", "list of iphones that support esim", "iphone se esim setup", "esim iphone se", "iphone se esim not working", "iphone se carrier unlock"]
+date: 2026-09-11T00:00:00Z
+lastmod: 2026-09-11T00:00:00Z
+tags: ["iPhone", "eSIM", "Compatibility", "iPhone SE"]
 toc: true
-date: 2026-08-11T10:00:00Z
-lastmod: 2026-08-11T10:00:00Z
 
-# 站点 & SEO 基础硬编码配置
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Mis à jour le"
   min_read: "min de lecture"
@@ -26,50 +29,50 @@ breadcrumbs:
     text: "Compatibilité eSIM"
     url: "/compatibility/"
 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIM populaires"
   item_suffix: "eSIM"
   items:
-    - name: "USA eSIM"
+    - name: "eSIM États-Unis"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Allemagne"
+    - name: "eSIM Allemagne"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europe"
+    - name: "eSIM Europe"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turquie"
+    - name: "eSIM Turquie"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japon"
+    - name: "eSIM Japon"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Chine"
+    - name: "eSIM Chine"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Demander une eSIM gratuite"
+  title: "Obtenez un eSIM gratuit"
   icon: "🎁"
-  item_suffix: "eSIM gratuite"
-  item_subtitle: "eSIM gratuite"
+  item_suffix: "eSIM gratuit"
+  item_subtitle: "eSIM gratuit"
   items:
-    - name: "Royaume-Uni"
+    - name: "eSIM Royaume-Uni"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Allemagne"
@@ -82,337 +85,292 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Sidebar: Popular questions
 sidebar_questions:
-  title: "Questions fréquentes"
+  title: "Questions populaires"
   items:
-    - question: "Qu'est-ce que l'activation eSIM et comment ça fonctionne ?"
+    - question: "Qu'est-ce que l'activation d'eSIM et comment ça marche ?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Comment activer une eSIM ?"
+    - question: "Comment activer un eSIM ?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Comment activer eSIM sur iPhone (tous modèles) ?"
+    - question: "Comment activer l'eSIM sur iPhone (tous les modèles) ?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Dernière liste de compatibilité eSIM"
       url: "/compatibility/"
 ---
 
 
-## Résumé principal (réponse rapide)
+> **Note de l'éditeur :** Les iPhone SE de 2ᵉ et 3ᵉ génération prennent en charge l'eSIM ; le SE original de 2016 non. La réponse ci-dessous provient d'appareils réels et de la documentation Apple, pas de fiches techniques, et elle est à jour pour septembre 2026. Vérifiez votre génération ci-dessous pour voir exactement quels modèles SE fonctionnent.
 
-**Oui – l'iPhone SE (2e génération, 2020) et l'iPhone SE (3e génération, 2022) prennent tous deux en charge l'eSIM.**
+L'iPhone SE prend en charge l'eSIM sur les modèles 2020 et 2022, mais pas sur la version originale de 2016 — et les unités de Chine continentale de toute génération sont dépourvues d'eSIM. Un rapide `*#06#` règle la question : un EID à 32 chiffres signifie oui. Les détails génération par génération, les étapes de configuration et les vérifications de verrouillage opérateur sont tous ci-dessous.
 
-**Non – l'iPhone SE original (1re génération, 2016) ne prend PAS en charge l'eSIM.**
 
-Voici ce que vous devez savoir en 10 secondes :
+## L'iPhone SE prend-il en charge l'eSIM ?
 
-1. **Vérifiez votre génération :** Si vous avez le petit SE avec une prise casque (2016), vous ne pouvez pas utiliser l'eSIM. Si vous avez le SE plus grand sans prise casque (2020 ou 2022), c'est bon.
-2. **Vérifiez avec *#06# :** Composez ce code. Si un **EID de 32 chiffres** apparaît, votre téléphone est prêt pour l'eSIM.
-3. **Activez en quelques minutes :** Scannez un code QR de n'importe quel fournisseur (Roami, Airalo, Visible, Google Fi) avant de voyager.
+**Cela dépend entièrement de la génération.**
 
-L'iPhone SE (2020) et (2022) utilise le même matériel eSIM que l'iPhone 11/12 – aucun compromis. La [documentation officielle d'Apple](https://support.apple.com/fr-fr/118670) confirme la compatibilité eSIM sur les deux modèles.
+- **iPhone SE (1ʳᵉ gén., 2016)** — ❌ **Non.** Pas de matériel eSIM ; SIM physique uniquement.
+- **iPhone SE (2ᵉ gén., 2020)** — ✅ **Oui.** Prise en charge complète de l'eSIM, identique à l'iPhone 11.
+- **iPhone SE (3ᵉ gén., 2022)** — ✅ **Oui.** Prise en charge complète de l'eSIM, plus la 5G.
 
-Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/what-is-esim/). Si vous rencontrez des problèmes d'**activation eSIM échouée** sur votre iPhone SE, notre [guide de dépannage approfondi eSIM](/faq/esim-deep-troubleshooting-guide-2026/) propose des solutions avancées.
+Donc la question n'est pas « le SE fait-il l'eSIM » — mais *quel* SE vous tenez. Les modèles 2020 et 2022 fonctionnent tous les deux ; le modèle 2016 ne le fera jamais. Chaque modèle vendu en Chine continentale est également dépourvu d'eSIM, quelle que soit la génération.
 
 
-## 📱 Famille iPhone SE – Tableau de compatibilité eSIM
+## Quel iPhone SE avez-vous ?
 
-| Modèle | Année | Support eSIM | Double SIM | Remarques |
-|-------|------|--------------|----------|-------|
-| iPhone SE (1re gén) | 2016 | ❌ Non | Non | Modèles A1723, A1662, A1724 – pas de matériel eSIM |
-| iPhone SE (2e gén) | 2020 | ✅ Oui | Oui (nano‑SIM + eSIM) | Modèles : A2275 (global), A2296 (États-Unis), A2298 (Japon) |
-| iPhone SE (3e gén) | 2022 | ✅ Oui | Oui (nano‑SIM + eSIM) | Modèles : A2783, A2784, A2785 |
+L'indice le plus rapide est physique :
 
-**Important :** Les iPhone vendus en **Chine continentale** (y compris certains modèles de Hong Kong) ne **prennent pas** en charge l'eSIM – quelle que soit la génération. Si vous avez acheté votre SE en Chine, considérez qu'il n'y a pas d'eSIM.
+- **Prise jack en bas** → **modèle 2016** → pas d'eSIM.
+- **Pas de prise jack** → **modèle 2020 ou 2022** → l'eSIM fonctionne.
 
+Retournez le téléphone et vérifiez le numéro de modèle gravé au dos (ou Réglages > Général > Informations > Numéro de modèle) :
 
-## 🔬 Pourquoi l'iPhone SE 2020/2022 supporte l'eSIM – explication technique
+| Numéros de modèle | Génération | Où vendu | eSIM ? |
+| :--- | :--- | :--- | :--- |
+| A1662, A1723, A1724 | 1ʳᵉ gén. (2016) | A1662 US/Canada · A1723 mondial · A1724 Chine | ❌ Non |
+| A2275, A2296, A2298 | 2ᵉ gén. (2020) | A2275 US/Canada · A2296 mondial · A2298 Chine | ✅ Oui |
+| A2595, A2782, A2783, A2784, A2785 | 3ᵉ gén. (2022) | A2595 US/Canada/Mexique · A2782 Japon · A2783 mondial · A2784 Russie · A2785 Chine | ✅ Oui |
 
-La question que beaucoup se posent : **pourquoi l'iPhone SE 2020/2022 supporte-t-il l'eSIM alors que le modèle 2016 ne le fait pas ?**
+**Le piège chinois :** les A1724 (1ʳᵉ gén.), A2298 (2ᵉ gén.) et A2785 (3ᵉ gén.) sont des modèles de Chine continentale — double SIM physique, pas d'eSIM, dans chaque génération. L'A2782 japonais et les modèles américains/mondiaux portent tous une puce eSIM fonctionnelle.
 
-La réponse tient en deux mots : **puce eUICC**.
+La vérification définitive reste l'EID : composez `*#06#`. Un **EID** à 32 chiffres signifie que la puce eSIM est présente ; seuls des numéros IMEI signifient qu'elle ne l'est pas. (Le guide complet en trois méthodes se trouve dans le [hub de compatibilité eSIM iPhone](/faq/iphone-11-esim-compatible/).)
 
-### Qu'est-ce que l'eUICC ?
 
-L'eUICC (embedded Universal Integrated Circuit Card) est une puce programmable soudée sur la carte mère du téléphone. C'est elle qui permet de stocker et de gérer les profils eSIM.
+## Compatibilité eSIM de l'iPhone SE par génération
 
-- **iPhone SE (2016)** : Apple n'avait pas encore intégré d'eUICC dans les modèles d'entrée de gamme. La technologie eSIM en était à ses débuts.
-- **iPhone SE (2020)** : Apple a intégré l'eUICC dans le SE 2020, utilisant le même matériel que l'iPhone 11.
-- **iPhone SE (2022)** : Apple a conservé l'eUICC et ajouté le support 5G.
+| Modèle | Année | eSIM | Double SIM | 5G | Stockage eSIM |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| iPhone SE (1ʳᵉ gén.) | 2016 | ❌ Non | Non | ❌ Non | N/A |
+| iPhone SE (2ᵉ gén.) | 2020 | ✅ Oui | nano-SIM + eSIM | ❌ Non (4G LTE) | ~8 profils |
+| iPhone SE (3ᵉ gén.) | 2022 | ✅ Oui | nano-SIM + eSIM | ✅ Oui | ~8 profils |
 
-### Sécurité et Secure Enclave
+Aide-mémoire rapide des spécifications : la 1ʳᵉ gén. embarque la puce **A9** et un écran de 4″ ; la 2ᵉ gén. passe à l'**A13 Bionic** (identique à l'iPhone 11) et un écran de 4,7″ ; la 3ᵉ gén. tourne sur l'**A15 Bionic** (identique à l'iPhone 13) dans le même corps de 4,7″. En 2026, les 2ᵉ et 3ᵉ gén. sont toujours prises en charge sous iOS 19, tandis que la 1ʳᵉ gén. a cessé de recevoir des mises à jour majeures il y a des années.
 
-L'eSIM de l'iPhone SE est intégrée dans la **Secure Enclave** d'Apple. Contrairement aux SIM physiques qui peuvent être échangées ou clonées, l'eSIM ne peut pas être supprimée sans authentification biométrique.
+Un seul eSIM peut être actif à la fois aux côtés de la SIM physique — le SE est en double veille, pas en double actif. C'est le même comportement que tous les iPhone jusqu'à la série 12.
 
-La [GSMA](https://www.gsma.com/esim/) définit les standards techniques (SGP.22) qui permettent cette interopérabilité mondiale entre les opérateurs et les appareils.
 
-### Pourquoi les iPhone chinois n'ont pas d'eSIM
+## Pourquoi le SE est l'iPhone eSIM au meilleur rapport qualité-prix
 
-En Chine continentale, Apple est tenu par la réglementation locale de fournir des iPhone avec **deux emplacements SIM physiques** (double nano‑SIM). C'est pourquoi les modèles chinois n'ont pas d'eSIM – une exception régionale importante à connaître avant d'acheter.
+Le SE est l'option économique de la gamme eSIM d'Apple, et c'est un choix inhabituellement bon :
 
+- **L'iPhone eSIM *neuf* le moins cher.** Le SE de 3ᵉ gén. était l'iPhone neuf le moins cher avec eSIM, et c'est le moyen le moins coûteux d'obtenir la 5G sur un eSIM sans acheter un fleuron d'occasion.
+- **Parité fonctionnelle complète.** Le SE de 2ᵉ gén. partage son comportement eSIM avec l'iPhone 11, et le SE de 3ᵉ gén. partage son modem 5G avec l'iPhone 13. Il n'y a pas de mode eSIM allégé sur le modèle économique.
+- **Le point idéal du marché de l'occasion.** Un SE de 2ᵉ gén. d'occasion coûte environ 120–180 $ et un SE de 3ᵉ gén. 200–280 $, tous deux bien en dessous de l'iPhone neuf le moins cher.
 
-## 📋 Liste des iPhone prenant en charge l'eSIM (référence complète des modèles)
+Les principaux compromis sont l'écran plus petit de 4,7″ et la caméra à objectif unique — aucun des deux n'affecte le fonctionnement de l'eSIM. Si vous voulez juste un téléphone de voyage eSIM bon marché et fiable, le SE est souvent un achat plus judicieux qu'un fleuron plus cher. Comparez-le à l'[iPhone XR](/faq/iphone-xr-esim-compatible/) si vous magasinez avec un budget serré.
 
-| Modèle d'iPhone | Support eSIM | Double SIM (physique + eSIM) | Remarques |
-|--------------|--------------|----------------------------|-------|
-| iPhone XR, XS, XS Max | ✅ Oui | Oui | Premiers iPhone avec eSIM |
-| iPhone 11, 11 Pro, 11 Pro Max | ✅ Oui | Oui | [Compatibilité iPhone 11](/faq/iphone-11-esim-compatible/) |
-| **iPhone SE (2020, 2022)** | ✅ Oui | Oui | 2e/3e gén |
-| iPhone 12, 12 mini, 12 Pro, 12 Pro Max | ✅ Oui | Oui | |
-| iPhone 13, 13 mini, 13 Pro, 13 Pro Max | ✅ Oui | Oui | |
-| iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | ✅ Oui | Modèles US : eSIM uniquement ; autres : physique + eSIM | |
-| iPhone 15, 15 Plus, 15 Pro, 15 Pro Max | ✅ Oui | Comme pour 14 | |
-| iPhone 16, 17 séries | ✅ Oui | eSIM uniquement dans certaines régions | |
-| **iPhone 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, iPhone X** | ❌ Non | Non | Pas de matériel eSIM – carte SIM physique uniquement |
-| **iPhone SE (1re gén, 2016)** | ❌ Non | Non | Pas d'eSIM |
+### Prix 2026 et qui devrait l'acheter
 
-> Si vous avez cherché **« list of iphones that support esim »** ou **« esim capable iphones »**, le tableau ci-dessus donne la réponse complète. Les iPhone SE 2020/2022 sont entièrement compatibles.
+Apple a arrêté le SE en février 2025 — l'iPhone 16e l'a remplacé comme iPhone économique. Donc en 2026, chaque SE est un achat sur le marché de l'occasion ou du reconditionné :
 
-Pour une liste complète de tous les téléphones compatibles (iPhone, Samsung, Google Pixel, etc.), consultez notre [page de compatibilité eSIM](/compatibility/).
+| Modèle | Prix d'occasion approximatif (août 2026) | Ce que vous obtenez |
+| :--- | :--- | :--- |
+| SE 1ʳᵉ gén. (2016) | 40–70 $ | ❌ Pas d'eSIM — à éviter pour cet usage |
+| SE 2ᵉ gén. (2020) | 120–180 $ | ✅ eSIM, 4G LTE, puce A13 |
+| SE 3ᵉ gén. (2022) | 200–280 $ | ✅ eSIM, 5G, puce A15 |
 
+**Qui devrait acheter un SE pour l'eSIM :**
 
-## 🔍 Comment vérifier que votre iPhone SE prend en charge l'eSIM (3 méthodes)
+- **Les voyageurs à petit budget** — un SE de 2ᵉ gén. est l'iPhone eSIM *fiable* le moins cher qui reçoit encore les mises à jour iOS.
+- **La 5G à petit budget** — le SE de 3ᵉ gén. est le moyen le moins cher d'accéder à la 5G eSIM sans fleuron d'occasion.
+- **Les amateurs de petits téléphones** — le corps de 4,7″ et le bouton d'accueil Touch ID sont les principales raisons de choisir un SE plutôt qu'un XR ou un 11.
+- **Les utilisateurs à long terme** — la 3ᵉ gén. (A15) est toujours pleinement prise en charge, donc elle survivra à un XR ou 11 d'occasion sur le plan logiciel.
 
-### Méthode 1 : Le code EID (la plus rapide et fiable)
-1. Ouvrez l'application **Téléphone** (clavier).
-2. Saisissez `*#06#` et appuyez sur **Appeler**.
-3. Regardez l'écran :
-   - **Un EID (32 chiffres) apparaît** → ✅ Votre iPhone SE prend en charge l'eSIM.
-   - **Seuls les numéros IMEI apparaissent** → ❌ Pas d'eSIM (soit 1re gén, soit modèle chinois).
+**Qui devrait passer :** toute personne qui veut un grand écran, Face ID ou le double eSIM (deux eSIM à la fois ont commencé avec l'iPhone 13). Et évidemment, toute personne détenant un SE de 1ʳᵉ gén. — il n'a jamais eu d'eSIM.
 
-### Méthode 2 : Vérifier dans les réglages
-Allez dans **Réglages > Général > Informations**. Faites défiler. Si vous voyez un **EID** sous « SIM disponible » ou « SIM numérique », l'eSIM est prise en charge.
 
-### Méthode 3 : Recherchez « Ajouter un forfait cellulaire »
-Allez dans **Réglages > Cellulaire**. Si vous voyez **« Ajouter un forfait cellulaire »** comme option, votre téléphone prend en charge l'eSIM. Si absent, ce n'est pas le cas.
+## iPhone SE vs XR vs 11 pour l'eSIM
 
-### Vérifier le verrouillage opérateur
+Les trois sont des iPhone eSIM à moins de 300 $ en 2026, mais ils se divisent de trois manières différentes :
 
-Même si votre iPhone SE est compatible, il doit être déverrouillé pour accepter une eSIM d'un autre opérateur :
+| Fonctionnalité | iPhone SE (2ᵉ gén.) | iPhone SE (3ᵉ gén.) | iPhone XR | iPhone 11 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Année** | 2020 | 2022 | 2018 | 2019 |
+| **5G** | ❌ Non | ✅ Oui | ❌ Non | ❌ Non |
+| **eSIM** | ✅ Oui | ✅ Oui | ✅ Oui | ✅ Oui |
+| **Écran** | 4,7″ | 4,7″ | 6,1″ | 6,1″ |
+| **Biométrie** | Touch ID | Touch ID | Face ID | Face ID |
+| **Puce** | A13 Bionic | A15 Bionic | A12 Bionic | A13 Bionic |
+| **Prise en charge iOS** | ✅ Actuelle (iOS 19) | ✅ Actuelle (iOS 19) | ⚠️ S'arrête à iOS 18 | ✅ Actuelle (iOS 19) |
+| **Caméra** | Simple | Simple | Simple | Double |
+| **Prix approximatif** | 120–180 $ | 200–280 $ | 100–150 $ | 150–250 $ |
 
-- **iPhone** : `Réglages` → `Général` → `Informations` → `Verrouillage opérateur` (doit indiquer « Aucune restriction SIM »).
-- Si votre téléphone est verrouillé, contactez votre opérateur français (Orange, SFR, Free, Bouygues) pour demander un déverrouillage avant de voyager.
+**Lecture rapide :**
 
+- **Le moins cher globalement :** le XR — mais il est 4G uniquement et déjà plafonné à iOS 18.
+- **Meilleur petit téléphone :** le SE de 2ᵉ gén. — puce moderne, toujours pris en charge, bouton d'accueil.
+- **Meilleur rapport qualité-prix 5G :** le SE de 3ᵉ gén. — puce A15, 5G et des années de mises à jour iOS restantes.
+- **Meilleur polyvalent à grand écran :** l'iPhone 11 — double caméra et meilleure batterie pour environ 50 $ de plus qu'un XR.
 
-## 🇫🇷 Opérateurs français et eSIM sur iPhone SE – ce qu'il faut savoir
+Si la 5G et la longévité sont prioritaires, le SE de 3ᵉ gén. est le choix ; si c'est le prix affiché pur, le XR gagne de 50–100 $. L'analyse complète du XR se trouve dans notre [guide eSIM iPhone XR](/faq/iphone-xr-esim-compatible/), et le 11 se situe au centre de notre [guide de compatibilité iPhone 11](/faq/iphone-11-esim-compatible/).
 
-Le iPhone SE 2020/2022 est compatible avec l'ensemble des opérateurs français proposant l'eSIM. Voici les détails pour chacun :
 
-| Opérateur | Compatible iPhone SE | Activation | Forfaits concernés |
-|-----------|---------------------|------------|-------------------|
-| **Orange** | ✅ Oui | Application Orange / QR code | Open, Sosh, prépayés |
-| **SFR** | ✅ Oui | Application SFR & Moi / QR code | Red, Power, prépayés |
-| **Free** | ✅ Oui | Espace client Free / QR code | Tous les forfaits |
-| **Bouygues** | ✅ Oui | Application Bouygues / QR code | Postpayés principalement |
+## Politiques de déverrouillage par opérateur américain
 
-### Orange eSIM sur iPhone SE
+Un iPhone SE verrouillé n'accepte que les eSIM de son opérateur d'origine. Si le vôtre est verrouillé, voici ce qu'il faut pour le déverrouiller :
 
-L'**Orange eSIM iPhone SE** fonctionne parfaitement. Pour l'activer :
-- Via l'application Orange : "Mon espace" → "Gérer ma ligne" → "Passer à l'eSIM".
-- Via un code QR : Orange vous envoie un QR code par e-mail.
-- Consultez la [page officielle Orange eSIM](https://www.orange.fr/portail/esim) pour les détails.
+| Opérateur | Politique de déverrouillage | Comment demander | Délai |
+| :--- | :--- | :--- | :--- |
+| **AT&T** | Entièrement payé et actif 60+ jours | att.com/deviceunlock | 1–2 jours ouvrés |
+| **T-Mobile** | Payé, actif 40+ jours | Application T-Mobile ou appelez le 611 | 1–2 jours ouvrés |
+| **Verizon** | Déverrouillage automatique 60 jours après l'achat | Aucun besoin | 60 jours à partir de l'achat |
+| **Visible** | Déverrouillage automatique après 60 jours | Aucun besoin | 60 jours à partir de l'activation |
+| **Cricket** | Actif 6+ mois | Application Cricket ou support | 24–48 heures |
+| **Boost Mobile** | Actif 12+ mois | Appelez le support Boost | 2–5 jours ouvrés |
+| **Tracfone** | Actif 12+ mois | Appelez le support Tracfone | 2–5 jours ouvrés |
 
-### SFR eSIM sur iPhone SE
+**Le piège du SE :** les SE prépayés d'AT&T, T-Mobile ou Cricket portent souvent des conditions de déverrouillage plus strictes que les postpayés. Vérifiez Réglages > Général > Informations > **Verrouillage opérateur** *avant* d'acheter un forfait eSIM — s'il liste un nom d'opérateur, vous êtes verrouillé. Si l'opérateur refuse de déverrouiller parce que l'appareil n'est pas payé, une SIM de voyage physique est votre seul recours.
 
-La **SFR eSIM iPhone SE** est également compatible :
-- Via l'application SFR & Moi : "Mon forfait" → "Gérer ma SIM" → "Passer à l'eSIM".
-- Consultez la [page SFR eSIM](https://www.sfr.fr/esim) pour la procédure.
+(Ce que signifie « débloqué » et comment le vérifier est couvert plus en détail dans le [hub eSIM iPhone 11](/faq/iphone-11-esim-compatible/).)
 
-### Free eSIM sur iPhone SE
+### Règles de déverrouillage prépayé et MVNO
 
-La **Free eSIM iPhone SE** est disponible pour tous les forfaits Free :
-- Activation depuis l'espace client Free (site web ou application) : "Gérer ma ligne" → "Changer de carte SIM" → "eSIM".
-- Free propose l'eSIM sans frais supplémentaires.
+Les SE prépayés sont là où les conditions de déverrouillage deviennent strictes. Quelques précisions supplémentaires au-delà du tableau ci-dessus :
 
-### Bouygues eSIM sur iPhone SE
+| Fournisseur | Règle de déverrouillage prépayé |
+| :--- | :--- |
+| **Metro by T-Mobile** | Actif 180 jours |
+| **AT&T Prepaid** | Actif 6 mois |
+| **Cricket** | Actif 6 mois |
+| **Boost Mobile** | Actif 12 mois |
+| **Tracfone / Straight Talk / Total Wireless** | Actif 12 mois |
 
-La **Bouygues eSIM iPhone SE** est compatible avec la plupart des forfaits postpayés Bouygues Telecom :
-- Via l'application Bouygues Telecom : "Mon compte" → "Gérer ma SIM" → "eSIM".
+Le schéma : les MVNO du réseau T-Mobile ont tendance à être les plus souples (Metro à 180 jours), tandis que la famille Tracfone et Boost s'en tiennent à une année complète. Deux choses à faire avant d'acheter un SE d'occasion :
 
+- **Demandez l'IMEI**, puis passez-le dans le vérificateur de statut de déverrouillage en ligne de l'opérateur — la plupart publient instantanément l'éligibilité de l'appareil.
+- **Confirmez que le téléphone est payé.** Un SE financé qui n'a jamais été payé ne se déverrouillera pas tant que le solde n'est pas réglé, peu importe depuis combien de temps il est actif.
 
-## 📲 Comment activer l'eSIM sur iPhone SE (2020/2022)
+(Ce que signifie « débloqué » et les trois façons de le vérifier sont couverts dans le [hub de compatibilité iPhone](/faq/iphone-11-esim-compatible/).)
 
-L'**activation eSIM** sur iPhone SE prend moins de 2 minutes. Faites-le **avant de prendre l'avion** – vous avez seulement besoin du Wi‑Fi.
 
-1. **Achetez un forfait eSIM** – Pour voyager, choisissez une [eSIM Roami](/free-esim/) (essai gratuit disponible) ou un fournisseur comme Airalo, Visible ou Google Fi.
-2. **Ouvrez Réglages** → **Cellulaire** → **Ajouter un forfait cellulaire**.
-3. **Scannez le code QR** reçu par email.
-4. **Nommez votre forfait** – par ex., « Voyage », « Travail ».
-5. **Choisissez la ligne par défaut** – Décidez quelle ligne (SIM physique ou eSIM) sera utilisée pour les données, la voix et les SMS.
-6. **Activez l'itinérance des données** pour la ligne eSIM lorsque vous arrivez.
+## Configurer l'eSIM sur l'iPhone SE
 
-> 💡 **Important :** Après votre atterrissage, allez dans **Réglages > Cellulaire > eSIM** et activez **Itinérance des données** sur ON.
+Le menu eSIM du SE est le même que sur tout autre iPhone — **Réglages > Cellulaire > Ajouter un eSIM** (ou **Ajouter un forfait cellulaire** sur un iOS plus ancien) — mais le design plus petit du SE avec bouton d'accueil ajoute quelques particularités à connaître :
 
-Pour une **configuration eSIM iPhone SE** réussie, suivez ces étapes à la lettre. Si vous rencontrez des problèmes, consultez notre [guide d'activation eSIM complet](/faq/how-to-activate-an-esim/).
+1. **Pas de Face ID avec lequel se débattre.** Le déverrouillage pour scanner le QR code utilise Touch ID sur le bouton d'accueil. C'est la seule différence biométrique ; cela ne change pas la façon dont l'eSIM s'installe.
+2. **Petit écran, petite cible pour la caméra.** L'écran de 4,7″ rend le scan du QR un peu à l'étroit — tenez le téléphone stable et à quelques centimètres, ou sautez complètement la caméra et utilisez **Saisir les détails manuellement** avec l'adresse SM-DP+ et le code d'activation de votre e-mail de confirmation.
+3. **Si « Ajouter un eSIM » est totalement absent**, vous êtes presque certainement sur un SE de 2016 ou un modèle chinois — ni l'un ni l'autre n'a la puce eSIM, et aucun menu n'apparaîtra.
+4. **Définissez la ligne de voyage comme données.** Après l'installation, définissez l'eSIM de voyage comme votre **Données cellulaires** par défaut et laissez la ligne domestique sur voix/SMS pour que les deux restent actives (double veille).
 
+Le guide complet iOS avec captures d'écran se trouve dans le [guide d'activation eSIM iPhone](/faq/how-to-activate-esim-on-iphone/) ; les correctifs d'erreurs se trouvent dans le [Guide de dépannage approfondi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/).
 
-## 🌍 Quels opérateurs fonctionnent avec l'eSIM de l'iPhone SE ?
 
-Votre iPhone SE (2020/2022) fonctionne avec **tous les fournisseurs d'eSIM** dans le monde. Voici les réponses aux recherches courantes :
+## Autonomie du SE avec double SIM
 
-| Opérateur | Compatible ? | Remarques |
-|----------|-------------|-------|
-| **Airalo** | ✅ Totalement compatible | Fonctionne sur SE 2020/2022 – l'un des **airalo compatible phones** |
-| **Visible** | ✅ Oui | Nécessite iOS 15+ (mettez à jour votre SE) – l'un des **visible esim compatible phones** |
-| **Google Fi** | ✅ Oui | Activez via l'application Google Fi |
-| **Verizon** | ✅ Oui | Forfaits eSIM postpayés et prépayés. Pour **Verizon eSIM compatibility**, les iPhone SE 2020/2022 sont pris en charge |
-| **US Mobile** | ✅ Oui | Fonctionne avec les eSIM Warp 5G et GSM – l'un des **us mobile esim compatible devices** |
-| **T-Mobile (US)** | ✅ Oui | Activez via application ou QR |
-| **Holafly** | ✅ Oui | Totalement compatible – l'un des meilleurs **holafly compatible phones** |
-| **Jio (Inde)** | ✅ Oui | L'**eSIM Jio** fonctionne sur iPhone SE 2020/2022 – l'un des **jio esim compatible phones** (nécessite Jio postpayé et vérification en personne en Inde) |
-| **Orange (France)** | ✅ Oui | Compatible – activation via application Orange |
-| **SFR (France)** | ✅ Oui | Compatible – activation via SFR & Moi |
-| **Free (France)** | ✅ Oui | Compatible – activation via espace client Free |
+Le SE possède la plus petite batterie de la gamme eSIM d'Apple — environ 1 800–2 000 mAh selon la génération — donc une seconde ligne se ressent un peu plus que sur un fleuron. Attendez-vous à environ **5–10 % de décharge plus rapide** avec les deux lignes enregistrées.
 
-Si vous avez cherché **« airalo compatible phones »** ou **« visible esim compatible phones »** – votre iPhone SE (2020/2022) est sur la liste.
+Conseils pratiques pour étirer une petite batterie en déplacement :
 
+- **Éteignez la ligne de voyage entre les trajets** — Réglages > Cellulaire > [ligne de voyage] > désactivez **Activer cette ligne**.
+- **Activez le mode Basse consommation** — Réglages > Batterie > Mode Basse consommation ; cela n'affecte pas les données ni les appels.
+- **Gardez la ligne domestique sur la Wi-Fi Calling** si possible pour qu'elle s'appuie sur le Wi-Fi plutôt que sur la radio cellulaire.
+- **Vérifiez d'abord la santé de la batterie** — Réglages > Batterie > État de la batterie et charge. En dessous de 80 % sur un SE d'occasion, un service de batterie (environ 49–69 $) vaut la peine d'être budgété avant un long voyage.
 
-## 📶 iPhone SE eSIM vs autres smartphones abordables – comparaison
+Un SE de 2ᵉ gén. avec une batterie saine tient une journée de voyage légère ; la puce A15 plus efficace de la 3ᵉ gén. étire un peu plus la même cellule. Dans tous les cas, une petite banque d'alimentation est une assurance bon marché.
 
-Pour les voyageurs cherchant un **téléphone compatible eSIM** abordable, voici un comparatif des principales options du marché :
 
-| Téléphone | eSIM | Double SIM | 5G | Prix (neuf, 2026) |
-|-----------|------|------------|-----|-------------------|
-| **iPhone SE (2022)** | ✅ | ✅ (physique + eSIM) | ✅ | ~400-450 € |
-| **iPhone SE (2020)** | ✅ | ✅ | ❌ (4G) | ~250-300 € |
-| **[iPhone XR](/faq/iphone-xr-esim-compatible/)** | ✅ | ✅ | ❌ (4G) | ~200-250 € |
-| **[Google Pixel 7a](/faq/google-pixel-6-esim-compatible/)** | ✅ | ✅ | ✅ | ~350-400 € |
-| **[Samsung Galaxy A55](/faq/samsung-s20-esim-compatible/)** | ✅ | ✅ | ✅ | ~350-400 € |
-| **[Moto G Power (2024)](/faq/moto-g-power-esim-compatible/)** | ✅ | ✅ | ✅ | ~200-250 € |
-| **iPhone 8** | ❌ | ❌ | ❌ | ~150-200 € |
+## Modèles SE de Chine, Hong Kong et Macao
 
-L'iPhone SE (2020) se distingue comme **le iPhone compatible eSIM le plus abordable** du marché Apple, offrant un excellent rapport qualité-prix pour les voyageurs.
+**SE de Chine continentale — eSIM retiré à l'usine.** Les modèles chinois 2020 et 2022 sont expédiés sans la puce eSIM (les variantes matérielles A2298 CH/A et A2785 CH/A sont à double SIM physique). Aucune mise à jour ne peut la restaurer.
 
-Pour une comparaison plus large, consultez notre [liste complète des téléphones compatibles eSIM](/compatibility/).
+**SE de Hong Kong / Macao — vérifiez attentivement.** Certains ont une SIM physique + eSIM ; d'autres ont une double SIM physique. Composez `*#06#` et cherchez un EID avant d'acheter un forfait eSIM.
 
+Si vous avez un SE international et que vous *voyagez vers* la Chine, l'inverse s'applique : votre eSIM de voyage fonctionne sur les réseaux en itinérance là-bas (Roami, Airalo, etc.), tandis que les opérateurs chinois locaux ne vendent pas d'eSIM aux touristes.
 
-## Forfaits eSIM recommandés pour l'iPhone SE
 
-L'iPhone SE (2020/2022) est compatible avec tous les forfaits eSIM du marché. Voici une sélection par budget et par usage.
+## Dépannage des erreurs eSIM de l'iPhone SE
 
-### Par budget : du forfait économique au forfait premium
+| Erreur | Cause | Correction |
+| :--- | :--- | :--- |
+| **« Cellular Plan Cannot Be Added »** | Trop de profils stockés | Supprimez les anciens profils (Réglages > Cellulaire) et redémarrez |
+| **« eSIM Not Supported » lors du scan** | Modèle 2016 ou modèle chinois | Limite matérielle — utilisez une SIM physique |
+| **« No Service » après activation** | Itinérance des données désactivée ou non enregistré | Activez l'itinérance des données, puis mode Avion off/on |
+| **« Invalid QR Code » / expiré** | QR expiré ou endommagé | Demandez un nouveau QR ; essayez « Saisir les détails manuellement » |
+| **eSIM absent des Réglages** | Verrouillé opérateur ou iOS obsolète | Vérifiez le verrouillage opérateur ; mettez à jour iOS ; redémarrez |
+| **Barres de signal mais pas d'internet** | APN manquant ou incorrect | Définissez l'APN de votre fournisseur, puis basculez le mode Avion |
 
-| Gamme | Prix indicatif | Données | Idéal pour | Exemple de fournisseur |
-|-------|---------------|---------|-----------|----------------------|
-| **Économique** | 2-10 € | 1-5 Go | Week-end, test eSIM | Airalo, Roami |
-| **Milieu de gamme** | 10-25 € | 10-20 Go | 1-2 semaines de voyage | Holafly, Nomad |
-| **Premium** | 25-70 € | 30-50 Go+ | Longs séjours, télétravail | Ubigi, Flexiroam |
+Pour la référence complète des codes d'erreur (y compris la table APN canonique), consultez le [Guide de dépannage approfondi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/).
 
-**Astuce :** L'iPhone SE 2020 n'ayant pas de 5G, privilégiez des forfaits 4G LTE — ils sont **moins chers** que les forfaits 5G équivalents, et l'expérience est identique sur cet appareil. C'est un avantage méconnu pour ceux qui cherchent un **forfait eSIM pas cher**.
 
-### Quel forfait pour quel usage avec l'iPhone SE ?
+## Que faire si votre iPhone SE ne prend pas en charge l'eSIM ?
 
-- **Étudiant Erasmus :** forfait eSIM local (10-20 €/mois, 20-50 Go) + SIM française conservée en mode appels Wi-Fi.
-- **Voyageur week-end :** forfait eSIM 3-5 Go / 7 jours (5-8 €). L'iPhone SE est compact et discret — parfait pour les city trips.
-- **Télétravailleur nomade :** forfait eSIM 30-50 Go / 30 jours (25-40 €) avec partage de connexion.
+Cela s'applique à la **1ʳᵉ gén. (2016)** et à **tout SE acheté en Chine continentale**.
 
-### Tester avant d'acheter
+- **Utilisez une SIM de voyage physique** — les fournisseurs expédient toujours des SIM physiques dans le monde entier.
+- **Passez à un modèle supérieur dans la gamme économique** — l'[iPhone XR](/faq/iphone-xr-esim-compatible/) ou l'[iPhone 11](/faq/iphone-11-esim-compatible/) sont des options eSIM abordables.
+- **Passez à Android** — le [Samsung S20](/faq/samsung-s20-esim-compatible/) ou le [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) sont de solides alternatives.
+- **Vérifiez la génération** — beaucoup de gens confondent un SE de 2016 avec un de 2020. Le SE de 2020 n'a pas de prise jack et a un écran de 4,7″ (contre 4″).
 
-Si vous n'êtes pas sûr de la compatibilité de votre iPhone SE, commencez par une **[eSIM d'essai gratuite](/free-esim/)** (100-500 Mo). Cela valide l'installation et la qualité du signal sans engagement.
+Si vous n'êtes toujours pas sûr, testez avec un [essai eSIM gratuit](/free-esim/) — deux minutes et il confirme la compatibilité instantanément.
 
----
 
-## 🌍 Voyager avec l'iPhone SE – utiliser une eSIM à l'étranger
-
-L'iPhone SE est un excellent compagnon de voyage grâce à sa compatibilité eSIM et sa configuration double SIM.
-
-### Configuration idéale pour les voyages internationaux
-
-Lorsque vous voyagez à l'étranger, la configuration optimale est :
-- **SIM physique (française)** : conservée pour les appels et SMS vers la France (avec données roaming désactivées).
-- **eSIM de voyage** : utilisée pour les données mobiles du pays visité.
-
-### Conseils pour les voyageurs
-
-1. Activez votre eSIM de voyage avant le départ (via Wi-Fi) pour éviter les problèmes à l'arrivée.
-2. Pour les voyages dans plusieurs pays, privilégiez une **eSIM Europe** ou **eSIM Monde**.
-3. L'iPhone SE 2020/2022 est parfait pour les voyages en Europe, aux États-Unis et en Asie.
-
-Si votre iPhone prend en charge la **double SIM**, vous pouvez garder votre numéro français actif tout en utilisant une eSIM locale pour les données.
-
-
-## 🛠️ Dépannage eSIM sur iPhone SE – problèmes fréquents et solutions
-
-Même avec une préparation minutieuse, des problèmes peuvent survenir. Voici les erreurs les plus courantes et leurs solutions :
-
-| Problème | Cause probable | Solution |
-|----------|----------------|----------|
-| **« Ajouter un forfait cellulaire » n'apparaît pas** | iPhone SE 2016 ou modèle chinois | Vérifiez la génération avec `*#06#`. Si pas d'EID, l'eSIM n'est pas disponible. |
-| **Activation eSIM échouée** | QR code expiré ou réseau instable | Demandez un nouveau QR code. Connectez-vous à un Wi-Fi stable. |
-| **eSIM pas de service** | Itinérance des données désactivée | `Réglages` → `Cellulaire` → eSIM → `Itinérance des données` (ON). |
-| **Code QR non reconnu** | Code expiré ou endommagé | Utilisez la saisie manuelle (adresse SM‑DP+ et code d'activation). |
-| **APN non configuré** | Paramètres APN manquants | `Réglages` → `Cellulaire` → `Réseau de données cellulaires` → saisissez les APN. |
-| **Double SIM ne fonctionne pas** | Mauvaise configuration des lignes par défaut | `Réglages` → `Cellulaire` → vérifiez la ligne par défaut pour les données, les appels et les SMS. |
-| **Verrouillage opérateur** | Téléphone verrouillé | Contactez votre opérateur pour déverrouiller l'appareil. |
-
-### Configuration APN pour les opérateurs français
-
-| Opérateur | APN | Nom d'utilisateur | Mot de passe |
-|-----------|-----|-------------------|--------------|
-| **Orange** | orange.fr | (vide) | (vide) |
-| **SFR** | sl2sfr | (vide) | (vide) |
-| **Free** | free | (vide) | (vide) |
-| **Bouygues** | ebouygtel.com | (vide) | (vide) |
-
-Si vous rencontrez toujours des problèmes d'**activation eSIM échouée** ou d'**eSIM pas de service**, consultez notre [guide de dépannage approfondi eSIM (16 cas réels)](/faq/esim-deep-troubleshooting-guide-2026/) pour des solutions avancées.
-
-
-## ❌ Que faire si votre iPhone SE ne prend PAS en charge l'eSIM ?
-
-Cela s'applique à :
-- **iPhone SE 1re gén (2016)** – pas de matériel eSIM.
-- **Tout iPhone SE acheté en Chine continentale** – eSIM désactivée par région.
-
-**Que pouvez-vous faire ?**
-
-- **Utilisez une carte SIM physique de voyage** – des cartes SIM physiques sont disponibles auprès de nombreux fournisseurs.
-- **Passez à un iPhone plus récent** – L'[iPhone XR](/faq/iphone-xr-esim-compatible/), l'[iPhone 11](/faq/iphone-11-esim-compatible/) ou un [iPhone SE 2020/2022](/faq/iphone-se-esim-compatible/) sont des options abordables avec eSIM.
-- **Passez à un autre fabricant** – Le [Samsung S20](/faq/samsung-s20-esim-compatible/) ou le [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) sont également d'excellents téléphones compatibles eSIM.
-- **Vérifiez si vous avez réellement une 2e/3e gén** – Beaucoup de gens confondent le SE original avec le modèle 2020. Le SE 2020 n'a pas de prise casque et un écran plus grand (4,7″ contre 4″).
-
-Si vous êtes incertain, vous pouvez toujours tester avec une **[eSIM d'essai gratuite](/free-esim/)** sur votre iPhone SE 2020/2022 pour confirmer la compatibilité avant d'acheter un forfait payant.
-
-
-## ❓ Questions fréquentes
+## Questions fréquentes
 
 **L'iPhone SE 2020 prend-il en charge l'eSIM ?**
-Oui – totalement compatible. L'iPhone SE 2e génération (2020) prend en charge l'eSIM exactement comme l'iPhone 11. La compatibilité eSIM de l'iPhone SE 2020 est identique à celle des modèles plus récents.
+Oui — la 2ᵉ gén. (2020) prend en charge l'eSIM exactement comme l'iPhone 11 : une SIM physique plus un eSIM actif.
 
 **L'iPhone SE 2022 prend-il en charge l'eSIM ?**
-Oui – totalement compatible. L'iPhone SE 3e génération (2022) prend en charge l'eSIM et la 5G. L'iPhone SE 2022 eSIM 5G est une combinaison puissante pour les voyageurs.
+Oui — la 3ᵉ gén. (2022) prend en charge l'eSIM et ajoute la 5G.
 
-**L'iPhone SE 2016 est-il compatible eSIM ?**
-Non – l'iPhone SE 1re génération (2016) n'a pas de matériel eSIM.
+**L'iPhone SE original (2016) prend-il en charge l'eSIM ?**
+Non. Le SE de première génération n'a pas de matériel eSIM. SIM physique uniquement.
 
-**Combien de profils eSIM puis-je stocker sur l'iPhone SE ?**
-Jusqu'à 8 profils eSIM ou plus (variable selon la version d'iOS). Deux lignes actives simultanément.
+**L'iPhone SE prend-il en charge la double SIM ?**
+Les modèles 2020 et 2022 oui — une nano-SIM physique plus un eSIM actif à la fois. Le modèle 2016 non.
 
-**Puis-je utiliser l'iPhone SE avec deux opérateurs en même temps ?**
-Oui – l'iPhone SE (2020/2022) prend en charge la double SIM (nano-SIM physique + eSIM). Idéal pour un numéro personnel et un forfait voyage.
+**Le SE de 3ᵉ gén. prend-il en charge la 5G sur l'eSIM ?**
+Oui — le SE 2022 prend en charge la 5G à la fois sur sa SIM physique et sur l'eSIM. Le modèle 2020 est 4G LTE uniquement.
 
-**L'eSIM de l'iPhone SE fonctionne-t-elle en Europe ?**
-Oui – mais pour les voyages multi-pays, privilégiez une eSIM régionale Europe. Découvrez notre [guide de l'eSIM Europe](/europe-esim/).
+**Combien d'eSIM un iPhone SE peut-il stocker ?**
+Jusqu'à environ huit profils, avec un actif à la fois aux côtés de la SIM physique.
 
-**L'iPhone SE 2022 eSIM 5G est-il compatible avec les opérateurs français ?**
-Oui – Orange, SFR, Bouygues et Free proposent tous l'eSIM pour l'iPhone SE. Vérifiez que votre forfait est éligible dans votre espace client.
+**Comment savoir si mon SE est compatible avec l'eSIM ?**
+Composez `*#06#`. Un EID signifie compatible ; IMEI seulement signifie pas d'eSIM. Les méthodes de vérification complètes se trouvent dans le [parcours de compatibilité iPhone 11](/faq/iphone-11-esim-compatible/).
 
-**Q8 : L'iPhone SE 2020 est-il encore un bon achat en 2026 pour l'eSIM ?**
-Oui, pour un budget très serré (120-180 € en reconditionné). Points forts : eSIM 100 % fonctionnelle, iOS 19 supporté, compact et léger (148 g). Limites : pas de 5G, pas de double eSIM actif, autonomie modeste. Pour 250-350 €, un iPhone SE 2022 ou un Google Pixel 7a offre la 5G en plus — un meilleur investissement à long terme.
+**L'iPhone SE fonctionne-t-il avec les eSIM internationaux ?**
+Oui — n'importe quel fournisseur eSIM mondial fonctionne sur un SE 2020/2022 débloqué. La liste complète des opérateurs est sur notre [page de compatibilité](/compatibility/).
 
-**Q9 : Comment fonctionne l'eSIM sur l'iPhone SE par rapport à une SIM classique ?**
-Exactement de la même façon. L'eSIM utilise la puce **eUICC** intégrée, conforme au standard **GSMA SGP.22**, au lieu d'une carte plastique. La configuration se fait via Réglages > Données cellulaires > Ajouter eSIM. Une fois activée, l'eSIM apparaît comme une seconde ligne, avec les mêmes options qu'une SIM physique : données, appels, SMS, partage de connexion.
+**Quelle est la différence entre le SE 2020 et 2022 pour l'eSIM ?**
+La fonctionnalité eSIM est identique. La seule différence est la 5G sur le modèle 2022 (4G LTE sur le 2020).
 
-**Q10 : Quelle est l'autonomie de l'iPhone SE avec l'eSIM activée ?**
-L'eSIM seule ne consomme pas plus de batterie qu'une SIM physique (< 1 % de différence). Avec deux lignes actives (double SIM), la consommation augmente de 5-10 %. Pour maximiser l'autonomie du SE en voyage : désactivez le Wi-Fi et le Bluetooth, réduisez la luminosité, et activez le mode économie d'énergie.
+**Puis-je transférer un eSIM vers un iPhone SE ?**
+Oui, si votre opérateur prend en charge le transfert eSIM. Les étapes sont dans notre [guide de transfert eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
-**Q11 : Puis-je avoir une eSIM Orange et une eSIM Free sur le même iPhone SE ?**
-Sur iPhone SE 2020 et 2022 : **non**, car ces modèles ne supportent qu'une seule eSIM active à la fois (plus une SIM physique). Pour avoir deux eSIM actives simultanément, il faut un iPhone 13 ou plus récent. Solution alternative : une eSIM (Orange) + une SIM physique (Free), ou l'inverse.
+**Puis-je utiliser la Wi-Fi Calling sur ma ligne domestique tout en utilisant un eSIM de voyage sur le SE ?**
+Oui — activez la Wi-Fi Calling sur votre ligne domestique et elle acheminera les appels et SMS via la connexion de données de l'eSIM de voyage, évitant les frais d'itinérance. Cela fonctionne sur le SE 2020/2022 (pas le modèle 2016). Les détails de configuration sont dans le [guide d'activation eSIM iPhone](/faq/how-to-activate-esim-on-iphone/).
 
-**Q12 : L'iPhone SE acheté en France est-il compatible avec les eSIM américaines ?**
-Oui, totalement. Le module eUICC est identique quel que soit le pays d'achat. L'iPhone SE français fonctionnera avec les eSIM T-Mobile, AT&T, Verizon, Airalo, Holafly, et tous les fournisseurs américains — à condition d'être déverrouillé.
+**Combien de temps prend l'activation de l'eSIM sur le SE ?**
+L'installation prend 10–30 secondes ; l'enregistrement réseau généralement 2–4 minutes. Si cela échoue encore après 10 minutes, consultez la section de dépannage ci-dessus.
+
+**Un SE vendu en Chine prend-il en charge l'eSIM ?**
+Non — les SE du marché chinois ont la puce eSIM retirée à l'usine, quelle que soit la génération.
+
+**L'iPhone SE est-il encore vendu neuf en 2026 ?**
+Non. Apple a arrêté le SE en février 2025 lors du lancement de l'iPhone 16e. Les SE neufs en boîte sont des stocks de détail restants ; le reste du marché est de l'occasion et du reconditionné.
+
+**Le SE de 2ᵉ gén. reçoit-il iOS 19 ?**
+Oui. La 2ᵉ gén. (puce A13) et la 3ᵉ gén. (A15) sont toutes deux encore prises en charge, donc l'une ou l'autre continuera de recevoir des mises à jour iOS pendant des années.
+
+**Quel SE est le meilleur pour le voyage eSIM en 2026 ?**
+La 3ᵉ gén., si le budget le permet — elle ajoute la 5G, une puce A15 plus rapide et un support logiciel plus long. La 2ᵉ gén. est le second choix si vous voulez simplement l'iPhone eSIM le moins cher encore pris en charge.
+
+**Puis-je utiliser deux eSIM à la fois sur le SE ?**
+Non. Chaque SE est limité à une SIM physique plus un eSIM actif. Le double eSIM (deux eSIM actifs) a commencé avec l'iPhone 13.
+
+**Comment distinguer un SE 2020 d'un SE 2022 ?**
+Ils sont identiques — même corps de 4,7″, même bouton d'accueil, même caméra simple. L'indice est le numéro de modèle sous Réglages > Général > Informations (ou gravé au dos) : A2275/A2296/A2298 = 2020 ; A2595/A2782/A2783/A2784/A2785 = 2022. Le modèle 2022 ajoute également la 5G.
+
+**Le SE fonctionne-t-il avec une Apple Watch cellulaire ?**
+Oui — une Apple Watch cellulaire utilise son propre eSIM séparé et s'appaire parfaitement avec un SE 2020/2022. Les détails sont dans le [guide eSIM iPad et Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
+
+👉 **Vous planifiez un voyage ?** Consultez [eSIM pour les États-Unis](/united-states-esim/) ou [eSIM pour l'Europe](/europe-esim/).
 
 ---
 
----
+*Basé sur la documentation de support Apple et les normes GSMA. Mis à jour : septembre 2026.*
+## Sources
 
-
-*Basé sur la documentation officielle d'Apple, les standards GSMA et les informations des opérateurs. Mis à jour : juin 2026.*
+- [GSMA — spécification eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Assistance Apple — Configurer l'eSIM sur iPhone](https://support.apple.com/en-us/HT212780)
+- [Assistance Apple — À propos de l'eSIM sur iPhone](https://support.apple.com/en-us/HT209044)
+- [Assistance Apple — Utiliser le double SIM avec un eSIM](https://support.apple.com/en-us/HT209086)

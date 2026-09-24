@@ -1,22 +1,24 @@
 ---
-title: "iPhone 16 eSIM: Kompatibilitas & Aktivasi Global"
-h1_title: "iPhone 16 eSIM: Kompatibilitas Global dan Aktivasi di 2026"
-description: "Aktifkan eSIM Roami di iPhone 16 dalam waktu kurang dari 30 detik. Quick Transfer, dorongan operator, atau kode QR. Perbaiki error 'Tidak Dapat Mengaktifkan'. Roaming 5G di iPhone 16."
-keywords: ["iPhone 16 eSIM", "kompatibilitas iPhone 16", "aktifkan eSIM iPhone 16", "Roami 5G", "masa pakai baterai eSIM", "eSIM vs SIM fisik", "dual eSIM iPhone"]
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
-tags: ["eSIM", "iOS", "Pemecahan Masalah", "Pengaturan Perjalanan", "iPhone 16"]
+title: "iPhone 16 eSIM: Kompatibilitas Global & Aktivasi"
+h1_title: "iPhone 16 eSIM: Kompatibilitas Global dan Aktivasi pada 2026"
+description: "Aktifkan Roami eSIM di iPhone 16 dalam waktu kurang dari 30 detik. Quick Transfer, push operator, atau kode QR. Perbaiki error 'Unable to Activate'. Roaming 5G di iPhone 16."
+image: "/img/faq/iphone-16-esim-activation.webp"
+image-1: "/img/faq/iphone-16-esim-activation-1.jpg"
+keywords: ["iPhone 16 eSIM", "iPhone 16 compatibility", "activate eSIM iPhone 16", "Roami 5G", "eSIM battery life", "eSIM vs physical SIM", "dual eSIM iPhone"]
+date: 22026-09-15T00:00:00Z
+lastmod: 22026-09-15T00:00:00Z
+tags: ["eSIM", "iOS", "Troubleshooting", "Travel Setup", "iPhone 16"]
 toc: true
 aliases:
-# Situs & SEO
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# Terjemahan teks UI
+# UI text translations
 ui_text:
   updated_on: "Diperbarui pada"
-  min_read: "menit membaca"
+  min_read: "menit baca"
   toc: "Daftar Isi"
 
 breadcrumbs:
@@ -27,50 +29,50 @@ breadcrumbs:
     text: "Pusat Bantuan"
     url: "/faq/"
     
-# Sidebar: eSIM Populer
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIM Populer"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM AS"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "eSIM Jerman"
+    - name: "Germany eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "eSIM Eropa"
+    - name: "Europe eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "eSIM Turki"
+    - name: "Turkey eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "eSIM Jepang"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "eSIM China"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Sidebar: Penawaran eSIM Gratis
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Klaim eSIM Gratis"
   icon: "🎁"
   item_suffix: "eSIM Gratis"
   item_subtitle: "eSIM Gratis"
   items:
-    - name: "eSIM Inggris"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Jerman"
@@ -83,7 +85,7 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sidebar: Pertanyaan Populer
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Pertanyaan Populer"
   items:
@@ -91,349 +93,223 @@ sidebar_questions:
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Bagaimana cara mengaktifkan eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Bagaimana cara mengaktifkan eSIM di iPhone (Semua Model)?"
+    - question: "Cara mengaktifkan eSIM di iPhone (Semua Model)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Daftar Kompatibilitas eSIM Terbaru"
       url: "/compatibility/"
 ---
 
 
-> **Catatan Editor:** Roami adalah merek di balik panduan ini. Kami telah mengaktifkan dan menguji eSIM di setiap model iPhone 16 — varian AS, Eropa, dan internasional — di 40+ negara. Setiap langkah dalam panduan ini telah diverifikasi pada perangkat nyata yang menjalankan iOS 18.
+> **Catatan Editor:** Setiap iPhone 16 mendukung dual eSIM, dan model AS hanya eSIM tanpa slot SIM sama sekali. Panduan ini mengikuti dokumentasi resmi Apple dan standar GSMA, sehingga setiap langkah aktivasi cocok dengan model dan wilayah Anda yang persis. Pilih model Anda di bawah dan Anda akan tersambung dalam waktu kurang dari sepuluh menit.
 
-Dengan dirilisnya seri iPhone 16, teknologi eSIM telah memasuki fase adopsi penuh. Model AS sepenuhnya menghilangkan baki SIM fisik, sementara model internasional sepenuhnya mendukung dual eSIM aktif secara bersamaan. Panduan ini mencakup kompatibilitas, keamanan, aktivasi, perjalanan, manajemen perusahaan, dan transfer lintas platform.
+iPhone 16 adalah iPhone pertama di mana eSIM bukan sekadar opsi — bagi banyak pembeli, itu satu-satunya opsi. Model AS dikirim tanpa slot SIM fisik sama sekali, dan seluruh lini mendukung dua eSIM aktif sekaligus. Panduan ini spesifik untuk seri 16: apa yang berubah, apa yang bermasalah, dan cara memperbaikinya.
 
-Teknologi di balik eSIM diatur oleh [standar GSMA SGP.22](https://www.gsma.com/esim/). [Halaman dukungan resmi Apple untuk eSIM](https://support.apple.com/en-us/108072) menyediakan informasi terperinci tentang model iPhone yang kompatibel. Untuk pengguna yang ingin memindahkan eSIM dari ponsel Android, lihat panduan **[Transfer Lintas Platform eSIM 2026 kami](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
+Untuk menu aktivasi langkah demi langkah (sama di iPhone 16 seperti iPhone lainnya), lihat [panduan aktivasi eSIM iPhone](/faq/how-to-activate-esim-on-iphone/). Untuk model iPhone lebih lama, mulai dari [pusat kompatibilitas iPhone](/faq/iphone-11-esim-compatible/).
 
-Jika Anda berencana menggunakan dua jalur secara bersamaan — misalnya, menjaga nomor rumah Anda tetap aktif sambil menggunakan eSIM perjalanan untuk data — panduan **[Dual eSIM Tidak Berfungsi? 12 Perbaikan untuk iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kami mencakup masalah konfigurasi umum dan solusinya.
+## Apakah iPhone 16 mendukung eSIM?
 
+Ya — setiap model dalam lini (iPhone 16, 16 Plus, 16 Pro, 16 Pro Max) mendukung eSIM. Yang berbeda adalah SIM fisiknya:
 
-## Alur Keputusan Cepat – Bagian Mana yang Menjawab Pertanyaan Anda?
+| Wilayah pembelian | Konfigurasi | Artinya |
+|---|---|---|
+| AS, Kanada, Jepang, UAE | Hanya eSIM, tanpa baki | Setiap operator harus berupa eSIM |
+| Eropa, Inggris, Asia Tenggara, Australia | 1 nano-SIM + eSIM | Hibrida: SIM rumah + eSIM perjalanan bersamaan |
+| Tiongkok daratan | Dual nano-SIM, tanpa eSIM | Tidak ada perangkat keras eSIM sama sekali |
 
-Gunakan peta keputusan ini untuk langsung melompat ke bagian yang memecahkan masalah spesifik Anda.
+Berpergian ke Tiongkok dengan iPhone 16 model AS? Operator lokal tidak akan menjual eSIM kepada Anda, jadi siapkan eSIM perjalanan global (seperti Roami) sebelum keberangkatan — ia menjangkau jaringan Tiongkok lewat roaming.
 
-| Pertanyaan Anda | Pergi Ke |
-|---------------|-------|
-| **Apakah iPhone 16 mendukung eSIM?** | [Bagian 1](#1-apakah-iphone-16-mendukung-esim--penjelasan-kompatibilitas) |
-| **Saya membeli iPhone saya di AS / Eropa / China – apa bedanya?** | [Bagian 2](#2-kompatibilitas-esim-iphone-16--perbandingan-model-global) |
-| **Bagaimana cara mengaktifkan eSIM di iPhone 16 saya?** | [Bagian 4](#4-cara-mengaktifkan-esim-di-iphone-16--3-cara-mudah) |
-| **Aktivasi macet / tidak berfungsi** | [Bagian 10 FAQ](#10-pertanyaan-yang-sering-diajukan--pemecahan-masalah-khusus-iphone-16) – cari error Anda |
-| **Bisakah saya menggunakan dua eSIM secara bersamaan?** | [Bagian 8](#8-dual-esim-di-iphone-16--cara-menggunakan-dua-jalur-aktif) |
-| **Bagaimana cara memindahkan eSIM dari Android ke iPhone?** | [Bagian 9](#9-transfer-esim-lintas-platform--iphone-ke-android-dan-sebaliknya) |
-| **Saya admin TI – bagaimana cara menyebarkan eSIM ke tim saya?** | [Bagian 7](#7-penyebaran--manajemen-perusahaan-untuk-admin-mdm) |
-| **Apakah eSIM lebih aman daripada SIM fisik?** | [Bagian 5](#5-keunggulan-keamanan-esim-mengapa-lebih-handal-dari-sim-fisik) |
-| **Saya bepergian – haruskah saya menggunakan eSIM atau SIM fisik?** | [Bagian 6](#6-esim-vs-sim-fisik--mana-yang-lebih-baik-untuk-perjalanan) |
-| **Apa yang baru di iOS 18 untuk eSIM?** | [Bagian 3](#3-apa-yang-baru-di-ios-18-untuk-manajemen-esim) |
+## Model iPhone 16 mana yang masih punya slot SIM?
 
+Jawaban sesingkat mungkin: **nomor model yang menentukan, bukan ukuran atau warna.** Apple mengirim tiga konfigurasi perangkat keras iPhone 16 di seluruh dunia, dan nasib slot SIM sudah ditentukan di pabrik. Inilah peta lengkapnya, dengan nomor model yang bisa dicari di Pengaturan > Umum > Tentang > Nomor Model.
 
-## 1. Apakah iPhone 16 mendukung eSIM? – penjelasan kompatibilitas
+| Konfigurasi | Wilayah | Nomor model | Situasi SIM |
+|---|---|---|---|
+| Hanya eSIM | AS, Kanada, Meksiko, Jepang, Arab Saudi, UAE, Puerto Rico, Kepulauan Virgin AS, Guam | iPhone 16: A3286, A3287 · Plus: A3290, A3291 · Pro: A3294, A3295 · Pro Max: A3298, A3299 | Tidak ada baki fisik sama sekali — dua eSIM aktif adalah satu-satunya jalan |
+| Hibrida (nano-SIM + eSIM) | Eropa, Inggris, Asia Tenggara, Australia, sebagian besar dunia | iPhone 16: A3288 · Plus: A3292 · Pro: A3296 · Pro Max: A3300 | Satu slot SIM fisik plus eSIM, jadi SIM rumah dan eSIM perjalanan hidup bersama |
+| Dual nano-SIM, tanpa eSIM | Tiongkok daratan, Hong Kong, Makau | iPhone 16: A3289 · Plus: A3293 · Pro: A3297 · Pro Max: A3301 | Dua kartu SIM fisik, tanpa perangkat keras eSIM |
 
-**Jawaban Langsung: Ya** – setiap model di lini iPhone 16 – iPhone 16 standar, iPhone 16 Plus, Pro, dan Pro Max – sepenuhnya mendukung teknologi eSIM.
+Nuansa yang sering membuat orang keliru: **Kanada dan Jepang mengikuti AS dalam menghilangkan slot SIM pada seri 16.** Jika Anda membeli iPhone 16 di Toronto atau Tokyo dan masih mengharapkan slot SIM, slot itu tidak ada — kedua pasar kini hanya eSIM. Model A3287/A3291/A3295/A3299 (Jepang) dan model AS A3286/A3290/A3294/A3298 sama-sama tanpa baki.
 
-Sejak iPhone 14, Apple telah menghentikan penggunaan slot SIM fisik di pasar tertentu. Dengan generasi ke-16, pendekatan digital‑pertama ini telah diperluas:
+Untuk mengonfirmasi milik Anda dalam sepuluh detik: panggil `*#06#`. Adanya **EID** di layar berarti eSIM tersedia. Ada baki yang bisa dibuka dengan pin berarti model hibrida. Ada baki *dan* tidak ada EID berarti varian dual-nano Tiongkok/HK — eSIM tidak akan bekerja di situ.
 
-- **Amerika Utara & UEA:** Model sepenuhnya tanpa SIM (hanya eSIM).
-- **Pasar internasional (UE, Inggris, Australia):** Sebagian besar model mendukung **dual eSIM** atau pengaturan hybrid (1 Nano‑SIM + 1 eSIM).
-- **China Daratan:** Model menggunakan **dual Nano‑SIM fisik** sebagai pengganti eSIM.
+## Mengapa Apple menghilangkan slot SIM
 
-**Intinya:** Jika Anda membeli iPhone 16 di AS, Anda **tidak memiliki slot SIM fisik** – eSIM adalah satu-satunya pilihan Anda. Jika Anda membelinya di Eropa atau Inggris, Anda memiliki kedua opsi. Jika Anda membelinya di China daratan, Anda tidak dapat menggunakan eSIM sama sekali di perangkat tersebut.
+Menghilangkan baki, pembaca, dan mekanisme pegas membebaskan ruang internal untuk baterai lebih besar dan menghilangkan satu titik potensi kerusakan. Saluran yang sepenuhnya digital juga menghilangkan beban daya menggerakkan pembaca SIM fisik, dan pengguna melaporkan daya tahan baterai 5–10% lebih baik pada model iPhone 16 hanya eSIM. Keamanan juga meningkat: eSIM berada di chip eUICC khusus, sehingga ponsel curian tidak bisa ditukar nomornya untuk mengalahkan Find My.
 
-Untuk daftar lengkap perangkat kompatibel eSIM di semua merek, lihat **[panduan kompatibilitas lengkap kami](/compatibility/)**.
+## Yang baru di iOS 18 untuk iPhone 16
 
+- **Quick Transfer lebih andal** antar iPhone, dengan indikator progres lebih jelas.
+- **Tampilan dual-eSIM lebih bersih** yang menunjukkan sekilas saluran mana yang menangani data, suara, dan SMS.
+- **Pembaruan operator di latar belakang** — tanpa perlu restart.
+- **Layar Tambah eSIM yang didesain ulang** dengan panduan cahaya redup lebih baik dan tombol entri manual lebih jelas.
+- **Optimasi baterai** untuk chip A18 saat dua eSIM aktif.
 
-## 2. Kompatibilitas eSIM iPhone 16 – perbandingan model global
+## Mengaktifkan eSIM di iPhone 16
 
-Untuk memastikan koneksi yang mulus, verifikasi konfigurasi perangkat Anda berdasarkan wilayah pembelian:
+Menunya sama seperti iPhone terbaru mana pun, jadi panduan lengkapnya ada di [panduan aktivasi eSIM iPhone](/faq/how-to-activate-esim-on-iphone/). Pintasan iPhone 16 yang paling penting:
 
-| Nama Model | Wilayah Pembelian | Konfigurasi Seluler | Artinya bagi Anda |
-| :--- | :--- | :--- | :--- |
-| **iPhone 16 / Pro / Max** | AS, Kanada, Jepang, UEA | **Hanya eSIM** (tanpa baki SIM) | Anda harus menggunakan eSIM untuk semua operator. Aktifkan segera setelah membuka kotak. Tidak ada kartu SIM fisik yang dapat dimasukkan. |
-| **iPhone 16 / Pro / Max** | Eropa, Inggris, Asia Tenggara, Australia | **1 Nano‑SIM fisik + eSIM** | Mode hybrid: Pertahankan nomor negara asal Anda di SIM fisik, gunakan eSIM untuk data perjalanan terjangkau. Keduanya berfungsi secara bersamaan. |
-| **iPhone 16 / Pro / Max** | China Daratan | **dual Nano‑SIM fisik** | Keterbatasan perangkat keras: eSIM **tidak tersedia** pada model ini. Anda tidak dapat menginstal profil eSIM apa pun, termasuk eSIM perjalanan. |
+- **Aplikasi operator paling cepat** — di Roami, Airalo, atau aplikasi operator, ketuk "Install to this device" dan profil masuk dalam waktu kurang dari 30 detik.
+- **Quick Transfer** memindahkan eSIM yang sudah ada dari iPhone lama saat penyiapan — tanpa perlu menghubungi operator.
+- **QR atau entri manual** tetap bekerja lewat Pengaturan > Seluler > Tambah eSIM.
 
-> **Untuk pengguna model AS yang bepergian ke China:** Anda tidak dapat menggunakan eSIM operator lokal China karena operator lokal memerlukan KTP China. Sebagai gantinya, beli **eSIM perjalanan global** (seperti Roami atau Airalo) sebelum keberangkatan – ini terhubung ke jaringan China melalui roaming dan berfungsi di iPhone 16 hanya-eSIM Anda.
+## Cara Memperbaiki Unable to Activate di iPhone 16
 
+Pemilik iPhone 16 paling sering menghadapi **"Unable to Activate"** atau layar **"Activating…"** yang macet. Secara berurutan, coba:
 
-## 3. Apa yang baru di iOS 18 untuk manajemen eSIM?
+1. Konfirmasikan Pengaturan > Umum > Tentang > Carrier Lock tertulis "No SIM restrictions."
+2. Pastikan Anda berada di Wi-Fi stabil, bukan seluler atau Wi-Fi bandara.
+3. Nyalakan Mode Pesawat selama 30 detik, lalu matikan.
+4. Jika masih macet, hapus profil yang tertunda dan pindai ulang di jaringan yang lebih baik.
 
-iPhone 16 hadir dengan **iOS 18**, yang memperkenalkan beberapa peningkatan untuk pengguna eSIM. Berikut yang baru dan bagaimana pengaruhnya terhadap **pengaturan eSIM iPhone 16** Anda:
+### Saat Perbaikan Cepat Tidak Berfungsi
 
-### Baru di iOS 18:
-- **Peningkatan eSIM Quick Transfer:** iOS 18 meningkatkan keandalan transfer eSIM antar iPhone, dengan penanganan error dan indikator kemajuan yang lebih baik.
-- **Antarmuka Dual eSIM yang Disederhanakan:** Halaman pengaturan Seluler sekarang lebih jelas menunjukkan jalur mana yang aktif untuk data, suara, dan SMS, memudahkan pengelolaan konfigurasi **dual eSIM**.
-- **Pembaruan Profil Operator Lebih Cepat:** iOS 18 dapat memperbarui pengaturan operator di latar belakang tanpa memerlukan restart, artinya profil eSIM dapat disegarkan lebih cepat.
-- **Alur "Tambahkan eSIM" yang Ditingkatkan:** Antarmuka pemindaian kode QR sekarang mencakup panduan cahaya rendah yang lebih baik dan opsi "Masukkan Detail Secara Manual" yang lebih menonjol.
-- **Optimasi Baterai eSIM:** iOS 18 mencakup optimasi untuk chip A18 yang mengurangi konsumsi baterai saat dua eSIM aktif secara bersamaan.
+Empat langkah itu menyelesaikan sebagian besar kasus. Saat tidak berhasil, inilah tangga lengkap yang benar-benar dikerjakan tim dukungan kami — mulai dari anak tangga lima:
 
-### Apa yang tidak berubah:
-- Transfer lintas platform (iPhone ↔ Android) masih memerlukan kode QR baru dari operator Anda.
-- Model China masih kekurangan perangkat keras eSIM.
-- Pembatasan kunci operator masih berlaku.
+5. **Periksa profil ganda** — Pengaturan > Seluler dan cari paket yang sama terdaftar dua kali. Dua salinan yang terpasang setengah saling mengganggu; hapus yang lebih lama.
+6. **Pasang pembaruan pengaturan operator** — Pengaturan > Umum > Tentang akan memunculkan prompt jika ada yang tertunda. Paket operator yang kedaluwarsa adalah pemicu umum "Unable to Activate".
+7. **Perbarui iOS** — Pengaturan > Umum > Pembaruan Perangkat Lunak. Build iOS 18 awal punya bug registrasi eSIM yang dikenal dan diperbaiki di rilis titik berikutnya.
+8. **Reset pengaturan jaringan** — Pengaturan > Umum > Transfer atau Reset iPhone > Reset > Reset Pengaturan Jaringan. Ini menghapus kata sandi Wi-Fi tetapi membersihkan tumpukan seluler yang rusak. Sambungkan ulang Wi-Fi setelahnya dan coba lagi.
+9. **Pastikan eSIM belum kedaluwarsa** — paket yang sudah lewat masa berlaku, atau kode QR yang sudah pernah dipakai sekali, tidak akan pernah aktif.
+10. **Hubungi penyedia** — jika semua langkah sebelumnya gagal, masalahnya ada di server SM-DP+ operator, dan mereka bisa mendorong ulang profilnya.
 
+Jika muncul kode error spesifik ("Cellular Plan Cannot Be Added," "Invalid QR code") — atau Anda mendapat bar sinyal tapi tidak ada data — perbaikan per error, termasuk nilai APN, ada di [Panduan Penanganan Masalah eSIM Mendalam](/faq/esim-deep-troubleshooting-guide-2026/).
 
-## 4. Penyelaman Teknis Mendalam: Mengapa iPhone 16 Menghilangkan Slot SIM
+## Menyiapkan Dual eSIM di iPhone 16
 
-### 4.1 Mengapa Apple menghapus slot SIM
-Komponen SIM fisik – baki, pembaca, dan mekanisme pegas – menghabiskan ruang internal berharga yang seharusnya dapat digunakan untuk perangkat keras lainnya. Dengan menghapusnya pada model hanya-eSIM, insinyur Apple mendapatkan kembali ruang untuk baterai yang lebih besar dan komponen lainnya.
+Seri 16 menjaga dua eSIM tetap aktif sekaligus — dan pada model AS tidak ada SIM fisik untuk diandalkan, jadi kedua saluran adalah eSIM secara default. Inilah cara sebagian besar pelancong menjalankan saluran rumah plus eSIM data.
 
-**Manfaat teknis**: Desain mulus tanpa lubang mengurangi interferensi elektromagnetik dan mengurangi titik kegagalan.
+1. **Pasang saluran rumah terlebih dahulu.** Gunakan aplikasi operator Anda, kode QR mereka, atau eSIM Carrier Activation (masuk dengan akun operator Anda saat penyiapan dan profil muncul otomatis).
+2. **Pasang eSIM perjalanan kedua.** Buka Roami (atau aplikasi penyedia Anda), ketuk **Install to this device**, dan izinkan promptnya. Atau pindai QR dari email konfirmasi Anda.
+3. **Beri label kedua saluran.** Pengaturan > Seluler, ketuk setiap saluran, dan gunakan "Cellular Plan Label" untuk menamainya "Rumah" dan "Roami Travel."
+4. **Arahkan Cellular Data ke eSIM perjalanan.** Pengaturan > Seluler > Cellular Data.
+5. **Arahkan Default Voice Line ke rumah.** Ini menjaga panggilan, iMessage, dan FaceTime tetap di nomor reguler Anda.
+6. **Data Roaming NYALA untuk saluran perjalanan, MATI untuk rumah.** eSIM perjalanan butuh roaming untuk menjangkau jaringan mitra; saluran rumah tidak, dan membiarkannya mati mencegah biaya tak disengaja.
+7. **Biarkan Allow Cellular Data Switching MATI.** Penurunan sinyal sesaat bisa membalikkan data ke saluran yang salah dan memicu biaya.
 
-### 4.2 Efisiensi Baseband dan Masa Pakai Baterai
-Mempertahankan koneksi dengan chip SIM fisik memerlukan daya konstan ke pembaca. Di iPhone 16, koneksi digital sepenuhnya menghilangkan overhead penggerak pembaca SIM fisik, yang dapat mengurangi konsumsi daya siaga baseband dan memperpanjang masa pakai baterai. Untuk iPhone 16 yang terbatas daya, ini dapat menambah masa pakai baterai yang berarti selama penggunaan data aktif. Ini adalah faktor kunci bagi wisatawan yang mengandalkan ponsel mereka untuk navigasi dan komunikasi sepanjang hari.
+Selesai — dua eSIM aktif, satu ponsel, tanpa baki.
 
-**Dampak dunia nyata:** Pengguna melaporkan masa pakai baterai 5‑10% lebih baik pada model iPhone 16 hanya-eSIM dibandingkan dengan penggunaan SIM fisik setara pada perangkat lama.
+### Mengapa setiap pengaturan dual-eSIM penting
 
-### 4.3 Keamanan: Anti‑Perusakan dan eUICC
-Tidak seperti SIM fisik yang dapat ditukar atau dikloning, eSIM iPhone 16 disimpan pada chip **eUICC** khusus. Bahkan jika perangkat Anda dicuri, nomor eSIM Anda tidak dapat dihapus tanpa autentikasi biometrik, memastikan "Find My" tetap beroperasi 24/7.
+Langkah di atas menyetel empat sakelar, dan masing-masing punya alasannya. **Cellular Data → eSIM perjalanan** mengirim lalu lintas Anda lewat paket data yang benar-benar Anda bayar, alih-alih roaming saluran rumah. **Default Voice Line → rumah** menjaga panggilan, iMessage, dan FaceTime tetap di nomor reguler Anda sehingga kontak dan pesan 2FA tetap menemukan Anda. **Data Roaming NYALA hanya untuk saluran perjalanan** itulah yang memungkinkan eSIM perjalanan menjangkau jaringan mitranya di luar negeri — sementara membiarkan roaming saluran rumah mati mencegah biaya kejutan. Dan **Allow Cellular Data Switching MATI** paling penting dari semuanya: saat menyala, penurunan sinyal sesaat bisa diam-diam membalikkan data Anda ke saluran yang salah di tengah sesi.
 
+## Memindahkan eSIM Anda ke iPhone 16 saat penyiapan
 
-## 5. Cara mengaktifkan eSIM di iPhone 16 – 3 cara mudah
+Upgrade ke seri 16 dan ingin eSIM lama Anda ikut pindah? Lakukan saat penyiapan awal, sebelum Anda selesai mengonfigurasi ponsel.
 
-Ada tiga jalur aktivasi tanpa gesekan untuk pengguna iPhone 16. Untuk panduan lengkap, lihat **[panduan aktivasi eSIM iPhone kami](/faq/how-to-activate-esim-on-iphone/)**.
+1. Nyalakan iPhone 16 baru dan dekatkan ke iPhone lama Anda (keduanya menjalankan iOS 16+).
+2. Saat layar **Quick Start** muncul di ponsel lama, ikuti prompt untuk menyiapkan perangkat baru.
+3. Di ponsel baru, saat Anda sampai ke langkah seluler, pilih **Transfer eSIM from nearby iPhone**.
+4. Jaga kedua ponsel tetap dekat, dengan Bluetooth dan Wi-Fi menyala, hingga transfer selesai — biasanya satu hingga dua menit per saluran.
 
-### Metode 1: Instalasi Aplikasi Operator (Tercepat)
-1. Pilih paket Anda di aplikasi operator Anda (Roami, Airalo, T‑Mobile, dll.).
-2. Setelah pembelian, ketuk **"Instal ke perangkat ini"**.
-3. iPhone 16 Anda secara otomatis mendeteksi konfigurasi; saat notifikasi sistem muncul, ketuk **"Izinkan"**.
-4. Profil diunduh dan diaktifkan dalam waktu kurang dari 30 detik.
+Beberapa catatan khusus untuk seri 16. Jika Anda melewatkannya saat penyiapan, Anda tetap bisa melakukannya nanti: Pengaturan > Seluler > Tambah eSIM > **Transfer from Nearby iPhone**. Jika iPhone lama **dijual, hilang, atau direset**, Quick Transfer tidak bisa berjalan — hubungi operator Anda untuk menerbitkan ulang eSIM. Dan jika transfer berhasil tapi menampilkan "No Service," hapus dulu profilnya dari ponsel lama, karena sebagian operator mensyaratkan salinan lama dilepaskan. Pindahan lintas platform (Android → iPhone) melalui operator Anda, bukan aplikasi Pengaturan — lihat [panduan transfer](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
-**Terbaik untuk:** eSIM perjalanan dan operator dengan aktivasi berbasis aplikasi. Tidak perlu kode QR.
-
-### Metode 2: Transfer Cepat (Saat meningkatkan dari iPhone lama)
-- Saat menyiapkan iPhone 16 baru Anda, letakkan di dekat iPhone lama Anda.
-- Selama pengaturan, Anda akan melihat prompt: **"Transfer eSIM dari iPhone di dekatnya"**.
-- Ikuti petunjuk di layar – eSIM berpindah secara nirkabel ke perangkat baru Anda.
-- Tidak perlu kontak operator.
-
-**Terbaik untuk:** Pengguna yang meningkatkan dari iPhone 12/13/14/15 ke iPhone 16.
-
-### Metode 3: Kode QR atau Entri Manual
-1. Buka **Pengaturan** > **Seluler** > **Tambahkan eSIM**.
-2. Pindai kode QR resolusi tinggi yang dikirim ke email Anda.
-3. Jika pemindaian tidak memungkinkan, pilih **"Masukkan Detail Secara Manual"** dan tempelkan **alamat SM‑DP+** dan **Kode Aktivasi** yang disediakan.
-
-**Terbaik untuk:** Operator yang mengirim kode QR melalui email daripada menggunakan aplikasi.
-
-> **Setelah aktivasi:** Beri label eSIM Anda (misalnya, "Perjalanan" atau "Kerja") dan atur jalur default Anda – lihat [Bagian 8](#8-dual-esim-di-iphone-16--cara-menggunakan-dua-jalur-aktif) untuk konfigurasi dual‑SIM.
-
-
-## 6. Keunggulan Keamanan eSIM: Mengapa Lebih Handal Dari SIM Fisik
-
-| Fitur Keamanan | SIM Fisik | eSIM |
-|------------------|--------------|------|
-| Anti-pencurian fisik | Dapat dilepas untuk menerima kode verifikasi SMS | Tidak dapat dilepas; bahkan jika perangkat dicuri, nomor tidak dapat digunakan |
-| Anti-kloning/perusakan | Dapat disalin (beberapa teknologi lama) | Mematuhi GSMA SGP.22, tidak dapat dikloning atau dimodifikasi |
-| Kontrol jarak jauh perusahaan | Memerlukan pertukaran fisik | Tambah/hapus/batasi jarak jauh melalui MDM |
-| Pelacakan setelah hilang | Offline setelah SIM dilepas | Tidak bisa offline (model hanya-eSIM) |
-
-**Perlindungan perusahaan**: MDM dapat mengaktifkan batasan `AllowESIMModification` untuk mencegah pengguna menambah atau menghapus eSIM, menghindari transfer nomor perusahaan yang tidak disengaja.
-
-
-## 7. eSIM vs SIM fisik – mana yang lebih baik untuk perjalanan?
-
-| Perbandingan | SIM Fisik | eSIM |
-|------------|--------------|------|
-| Konektivitas instan | Perlu membeli di bandara atau menunggu pengiriman | Instal segera setelah pembelian |
-| Biaya | Biaya roaming mahal atau mengantre untuk SIM lokal | Perbandingan real‑time, bayar sesuai kebutuhan |
-| Banyak profil | Ganti kartu setiap kali | Simpan 8‑10 profil, ganti dengan satu ketukan |
-| Risiko fisik | Mudah hilang atau merusak baki | Nol risiko fisik |
-
-Bagi wisatawan, eSIM adalah pemenang yang jelas – terutama saat mengunjungi banyak negara. Untuk perbandingan penyedia yang komprehensif, lihat **[opsi eSIM AS terbaik untuk 2026](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/)** kami.
-
-
-## 8. Penyebaran & Manajemen Perusahaan (Untuk Admin MDM)
-
-Untuk administrator TI, eSIM sangat menyederhanakan penyebaran perangkat skala besar.
-
-> **Untuk siapa bagian ini:** Admin TI, manajer pengadaan, dan tim mobilitas perusahaan yang menyebarkan perangkat iPhone 16 kepada karyawan.
-
-### Pertanyaan Kunci Saat Memilih Operator
-- Berapa lama waktu yang dibutuhkan untuk membuat dan menyediakan eSIM setelah menandatangani perjanjian?
-- Apakah operator mendukung **Aktivasi Operator eSIM** (instalasi otomatis saat pertama kali dinyalakan)?
-- Apakah operator mengizinkan pengguna mentransfer eSIM antara iPhone/iPad?
-- Berikan **URL server SM‑DP+** (pastikan akses firewall).
-- Apakah ada batas antrean simultan untuk penyediaan eSIM?
-
-### Pendaftaran Otomatis Apple School Manager / Business Manager
-Saat perangkat bergabung dengan MDM melalui DEP (Pendaftaran Perangkat Otomatis), jika operator mendukungnya, eSIM dapat **diinstal secara otomatis** selama pengaturan – tanpa interaksi pengguna.
-
-### Kemampuan Manajemen Jarak Jauh MDM
-- Instalasi eSIM jarak jauh
-- Perubahan operator jarak jauh
-- Batasi modifikasi pengguna (`AllowESIMModification`)
-- Segarkan paket seluler (`RefreshCellularPlansCommand`)
-
-**Pemecahan masalah untuk admin MDM:** Jika pengguna melaporkan tidak dapat menambahkan eSIM, periksa bahwa batasan `AllowESIMModification` Anda tidak memblokirnya. Jika pengguna melaporkan "Aktivasi macet", verifikasi bahwa firewall perusahaan Anda mengizinkan koneksi keluar ke server SM‑DP+ operator.
-
-
-## 9. Dual eSIM di iPhone 16 – cara menggunakan dua jalur aktif
-
-iPhone 16 mendukung **dua eSIM aktif secara bersamaan**. Berikut cara mengkonfigurasinya untuk perjalanan:
-
-### Langkah 1: Atur jalur default Anda
-- **Data Seluler:** Pilih eSIM perjalanan Anda (ini adalah sumber internet).
-- **Jalur Suara Default:** Pilih SIM rumah Anda (ini adalah sumber panggilan dan SMS).
-
-### Langkah 2: Konfigurasikan Roaming Data
-- **Pada eSIM perjalanan Anda:** Roaming Data = NYALA (diperlukan untuk terhubung ke jaringan lokal).
-- **Pada SIM rumah Anda:** Roaming Data = MATI (mencegah biaya roaming yang tidak disengaja).
-
-### Langkah 3: MATIKAN "Izinkan Pengalihan Data Seluler"
-Ini mencegah iPhone Anda secara otomatis beralih ke SIM rumah Anda untuk data saat sinyal eSIM perjalanan lemah – yang dapat memicu biaya roaming.
-
-### Masalah dual‑SIM umum di iPhone 16
-
-| Masalah | Perbaikan |
-|-------|-----|
-| Satu jalur menunjukkan "Tidak Ada Layanan" | Matikan dan nyalakan kembali setiap jalur di Pengaturan > Seluler |
-| Panggilan masuk ke jalur yang salah | Periksa pengaturan Jalur Suara Default |
-| Tidak ada data di eSIM perjalanan | Periksa bahwa Data Seluler diatur ke eSIM perjalanan |
-| Roaming Data tidak mau menyala | Beberapa operator membatasi roaming – periksa ketentuan paket Anda |
-
-
-## 10. Transfer eSIM lintas platform – iPhone ke Android dan sebaliknya
-
-Tidak ada transfer eSIM iOS‑ke‑Android bawaan. Untuk memindahkan eSIM antar platform, gunakan aplikasi operator Anda atau minta operator menerbitkan ulang eSIM Anda sebagai kode QR baru. Untuk panduan lengkap, lihat **[panduan transfer lintas platform eSIM kami](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
-
-### Dari Android ke iPhone
-1. Hubungi operator Anda (atau buka aplikasi mereka) dan minta transfer eSIM ke iPhone baru Anda.
-2. Berikan **EID** dan **IMEI** iPhone, atau pindai kode QR yang dikirim operator.
-3. Nomor tersebut aktif di iPhone dan dinonaktifkan di Android.
-
-### Dari iPhone ke Android
-1. Hubungi operator Anda (atau buka aplikasi mereka) dan minta transfer eSIM ke ponsel Android baru Anda.
-2. Berikan **EID** dan **IMEI** Android, atau pindai kode QR yang dikirim operator.
-3. Nomor tersebut aktif di Android dan dinonaktifkan di iPhone.
-
-> **Catatan**: Transfer lintas platform hanya didukung oleh operator tertentu (misalnya, AS: AT&T, T‑Mobile, Verizon; Inggris: EE; JP: KDDI). Jika tidak didukung, hubungi operator Anda untuk kode QR baru. Untuk langkah terperinci dan pemecahan masalah, kunjungi panduan **[Transfer Lintas Platform eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** khusus kami.
-
-
-## 11. iPhone 16 vs iPhone 15 eSIM – apa yang berubah?
-
-Jika Anda meningkatkan dari iPhone 15 ke iPhone 16, berikut yang berbeda untuk pengguna eSIM:
+## Perubahan eSIM iPhone 16 vs iPhone 15
 
 | Fitur | iPhone 15 | iPhone 16 |
-|---------|-----------|-----------|
-| **Dukungan eSIM** | Ya | Ya |
-| **Dual eSIM aktif** | Ya | Ya (stabilitas ditingkatkan) |
-| **Hanya-eSIM (AS)** | Ya | Ya |
-| **SIM fisik (global)** | Ya | Ya |
-| **Transfer Cepat** | Ya | Ditingkatkan di iOS 18 |
-| **Pembaruan profil operator** | Memerlukan restart | Pembaruan latar belakang di iOS 18 |
-| **Efisiensi baterai** | Baik | Lebih baik (optimasi chip A18) |
-| **Keamanan** | eUICC | eUICC + anti‑perusakan ditingkatkan |
+|---|---|---|
+| Dukungan eSIM | Ya | Ya |
+| Dual eSIM aktif | Ya | Ya (lebih stabil) |
+| Hanya eSIM di AS | Ya | Ya |
+| Quick Transfer | Ya | Ditingkatkan di iOS 18 |
+| Pembaruan operator | Perlu restart | Latar belakang |
+| Baterai | Bagus | Lebih baik (optimasi A18) |
+| Keamanan | eUICC | eUICC + anti-pengutikan ditingkatkan |
 
-**Intinya:** Jika Anda sudah menggunakan eSIM di iPhone 15, transisi ke iPhone 16 akan mulus. Profil eSIM Anda yang ada akan ditransfer melalui Transfer Cepat selama pengaturan.
+Upgrade dari seri 15 mulus — eSIM yang sudah ada berpindah lewat Quick Transfer saat penyiapan.
 
+## Perbedaan eSIM iPhone 16 vs 15 vs 14
 
-## 12. Pertanyaan yang Sering Diajukan & Pemecahan Masalah (Khusus iPhone 16)
+Jika Anda datang dari ponsel lebih lama, inilah perbandingan tiga generasi terakhir pada poin-poin spesifik eSIM.
 
-### Masalah Aktivasi
+| Fitur | iPhone 14 | iPhone 15 | iPhone 16 |
+|---|---|---|---|
+| Dukungan eSIM | Ya | Ya | Ya |
+| Dua eSIM aktif | Ya (iPhone 13+) | Ya | Ya |
+| Baki model AS | Hanya eSIM | Hanya eSIM | Hanya eSIM |
+| Pasar lain hanya eSIM | — | — | Kanada, Jepang, Meksiko, UAE, Arab Saudi |
+| Slot SIM di tempat lain | Dipertahankan | Dipertahankan | Dipertahankan (hibrida) |
+| Quick Transfer | Ya (iOS 16) | Ya | Ya, ditingkatkan di iOS 18 |
+| Pembaruan operator | Perlu restart | Perlu restart | Latar belakang |
+| 5G / mmWave | Ya | Ya | Ya (A18, lebih efisien) |
+| Baterai dengan dual eSIM | Bagus | Bagus | Lebih baik (optimasi A18) |
 
-**Q: Mengapa eSIM saya macet pada "Mengaktifkan" selama lebih dari 10 menit?**
-A: Ini biasanya disebabkan oleh koneksi Wi‑Fi yang tidak stabil atau server aktivasi yang sibuk.
-- Pastikan Anda berada di jaringan Wi‑Fi yang stabil.
-- Aktifkan Mode Pesawat selama 30 detik, lalu nonaktifkan.
-- Jika masih macet, hapus eSIM yang tertunda (`Pengaturan > Seluler > ketuk eSIM > Hapus`), restart iPhone Anda, dan coba lagi.
+Intinya: kemampuan eSIM sudah matang sejak seri 14, tetapi pada seri 16-lah hanya eSIM berhenti menjadi keanehan AS dan menjadi default global. Jika Anda naik dari 14 atau 15, satu-satunya perubahan nyata yang perlu direncanakan adalah lebih banyak pasar kini menghilangkan baki fisik — jadi periksa wilayah Anda sebelum berasumsi masih bisa memasukkan SIM lokal.
 
-**Q: Kode QR mengatakan "Tidak Valid" atau "Kadaluwarsa" setelah dipindai?**
-A: Kode QR eSIM sekali pakai dan terbatas waktu (biasanya 30‑90 hari). Hubungi operator Anda untuk menerbitkan ulang kode QR baru, lalu aktifkan segera.
+## Dukungan 5G dan mmWave eSIM iPhone 16
 
-**Q: "Paket Seluler Tidak Dapat Ditambahkan" – apa artinya ini?**
-A: iPhone Anda mungkin terkunci operator, atau Anda mungkin memiliki terlalu banyak profil eSIM yang tersimpan. Periksa `Pengaturan > Umum > Tentang > Kunci Operator` – harus tertulis "Tidak ada batasan SIM." Jika terkunci, hubungi operator Anda. Jika tidak terkunci, hapus profil eSIM yang tidak digunakan di `Pengaturan > Seluler`.
+Kekhawatiran umum: apakah beralih ke hanya eSIM mengorbankan 5G? Tidak. eSIM hanyalah kredensial — tidak berpengaruh sama sekali pada radio yang dipakai ponsel. Setiap model iPhone 16 mendukung 5G, model AS tambahan mendukung **mmWave**, dan keduanya bekerja baik lewat eSIM.
 
-**Q: "Aktivasi eSIM iPhone 16 gagal" – apa yang harus saya coba pertama kali?**
-A: Perbaikan paling umum adalah memastikan iPhone Anda tidak terkunci operator dan Anda berada di jaringan Wi‑Fi yang stabil. Kemudian restart iPhone Anda dan coba metode entri manual (alamat SM‑DP+) jika kode QR terus gagal.
+Yang benar-benar penting untuk roaming 5G:
 
-### Masalah Koneksi
+- **Penyedia Anda harus menawarkan 5G di tujuan Anda.** Roami dan merek eSIM perjalanan besar menawarkan 5G di daftar negara yang terus bertambah; di negara lain Anda tersambung lewat LTE, yang tetap cukup cepat untuk apa pun kecuali streaming 4K.
+- **Jaringan lokal harus mendukungnya.** Sebagian jaringan mitra membatasi roaming 5G untuk pelanggan mereka sendiri.
+- **Pengaturan Anda harus mengizinkannya.** Pengaturan > Seluler > Opsi Cellular Data > Voice & Data, dan pilih **5G Auto** atau **5G On**. Ada juga sakelar **5G Standalone** yang diaktifkan sebagian operator.
+- **mmWave adalah fitur model AS**, dan bahkan saat itu sebagian besar adalah teknologi penerapan AS — di luar negeri Anda akan berada di 5G sub-6 GHz atau LTE, itulah sebabnya roaming mmWave hampir tidak pernah muncul.
 
-**Q: eSIM menunjukkan "Tidak Ada Layanan" – apa yang bisa saya lakukan?**
-A: Ini biasanya berarti Roaming Data mati, atau ponsel belum terdaftar di jaringan lokal.
-- Buka `Pengaturan > Seluler` > ketuk eSIM > nyalakan **Roaming Data**.
-- Jika masih tidak ada layanan, buka `Pilihan Jaringan`, matikan "Otomatis", pilih operator secara manual, tunggu hingga gagal, lalu kembali ke "Otomatis" untuk memaksa registrasi ulang.
+Satu trade-off yang perlu diketahui: 5G mmWave berjalan lebih panas dan menguras baterai lebih banyak daripada LTE, meskipun chip A18 menanganinya lebih efisien daripada seri 15. Bagi sebagian besar pelancong, membiarkan Voice & Data di **5G Auto** adalah keputusan yang tepat — memakai 5G saat cepat dan turun ke LTE untuk menghemat baterai saat tidak.
 
-**Q: Bilah sinyal penuh tetapi tidak ada koneksi internet?**
-A: Ini hampir selalu merupakan masalah APN. Buka `Pengaturan > Seluler > Jaringan Data Seluler` dan masukkan pengaturan APN penyedia Anda. Nilai umum:
-- Roami: `internet`
-- Airalo: `globaldata`
-- Holafly: `holafly`
-- Nomad: `nomad`
+## Penerapan perusahaan dan MDM
 
-**Q: eSIM saya berfungsi di rumah tetapi tidak saat saya bepergian ke luar negeri?**
-A: Paket eSIM Anda mungkin tidak mencakup negara yang Anda kunjungi, atau mungkin ada masalah perjanjian roaming. Hubungi penyedia Anda untuk mengonfirmasi cakupan. Pastikan juga Roaming Data NYALA untuk jalur tersebut setelah Anda mendarat.
+Bagi tim IT yang meluncurkan armada iPhone 16, eSIM menghilangkan kerja kasar penukaran SIM. Konfirmasikan operator Anda mendukung **eSIM Carrier Activation** (instalasi tanpa sentuh saat pendaftaran DEP/Apple Business Manager), minta **URL SM-DP+** dan kapasitas provisioning di muka, dan gunakan MDM untuk mendorong profil dari jauh. Pembatasan `AllowESIMModification` memblokir pengguna menambah atau menghapus eSIM, dan `RefreshCellularPlansCommand` menyinkronkan ulang paket. Jika aktivasi macet di perangkat terkelola, periksa bahwa firewall perusahaan mengizinkan lalu lintas keluar ke server SM-DP+ operator.
 
-**Q: Roaming 5G eSIM iPhone 16 tidak berfungsi?**
-A: Pastikan 5G diaktifkan di Pengaturan > Seluler > Opsi Data Seluler > Suara & Data > pilih 5G Otomatis atau 5G Menyala. Konfirmasikan juga bahwa penyedia eSIM Anda mendukung roaming 5G di negara tujuan Anda.
+Dua poin khusus iPhone 16 bagi admin. Pertama, **A18 + iOS 18 menjadikan dual eSIM sebagai norma** — armada model AS tidak punya SIM fisik sama sekali, jadi anggarkan dua eSIM per perangkat (saluran operator plus eSIM data cadangan) sejak hari pertama. Kedua, **iOS 18 menambahkan perintah manajemen seluler yang lebih granular**, jadi kunci server MDM Anda ke rilis terbaru sebelum penerapan — profil MDM lama yang mendahului iOS 18 kadang gagal mendorong eSIM ke seri 16 tanpa konfigurasi tambahan.
 
-### Penghapusan dan Pemulihan
+## Yang tidak dibahas halaman ini
 
-**Q: Apakah menghapus eSIM membatalkan paket saya?**
-A: **Tidak.** Menghapus eSIM hanya menghapus profil dari ponsel Anda. Anda harus menghubungi operator Anda secara terpisah untuk membatalkan paket. Untuk eSIM perjalanan, paket berjalan hingga data habis digunakan atau masa berlaku berakhir – menghapus profil tidak mengembalikan dana untuk data yang tidak terpakai.
+- **eSIM vs SIM fisik** sebagai konsep umum → [Apa itu eSIM?](/faq/what-is-esim/)
+- **Transfer lintas platform** (iPhone ↔ Android) → [panduan transfer eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)
+- **Daftar lengkap perangkat dan operator eSIM** → [daftar kompatibilitas](/compatibility/)
 
-**Q: Dapatkah saya memulihkan eSIM yang telah dihapus?**
-A: Untuk eSIM operator pascabayar, ya – hubungi operator Anda dan mereka biasanya dapat menerbitkan ulang kode QR baru. Untuk eSIM perjalanan (Roami, Airalo, dll.), penghapusan biasanya permanen – Anda perlu membeli paket baru. Selalu simpan cadangan email aktivasi asli dan kode QR Anda.
+## Pertanyaan yang Sering Diajukan
 
-**Q: Masih ditagih setelah menghapus eSIM?**
-A: Menghapus eSIM **tidak** membatalkan paket Anda. Pertama hubungi operator Anda untuk membatalkan nomor/paket, lalu hapus eSIM. Jika Anda sudah menghapusnya, berikan EID Anda dan minta penerbitan ulang profil.
+**Mengapa iPhone 16 saya macet di "Activating"?**
+Biasanya Wi-Fi tidak stabil atau server aktivasi sedang sibuk. Mode Pesawat selama 30 detik, lalu matikan; jika masih macet, hapus eSIM yang tertunda dan coba lagi di jaringan yang lebih kuat. Jangan menghapus paket yang aktif di tengah perjalanan.
 
-### Pertanyaan Khusus Model AS
+**Saya punya iPhone 16 model AS. Bisakah saya memakai SIM fisik dengan adaptor?**
+Tidak — model AS tidak memiliki perangkat keras slot SIM sama sekali. eSIM adalah satu-satunya jalan.
 
-**Q: Saya memiliki iPhone 16 model AS (hanya-eSIM). Bagaimana cara menggunakannya di China?**
-A: Beli **eSIM perjalanan global** (seperti Roami) sebelum keberangkatan – ini terhubung ke jaringan China melalui roaming. Operator lokal China (China Mobile, China Unicom) tidak menawarkan eSIM kepada pengunjung asing, jadi eSIM perjalanan adalah satu-satunya pilihan Anda.
+**Saya punya iPhone 16 model AS dan akan bepergian ke Tiongkok. Apa yang harus saya lakukan?**
+Beli eSIM perjalanan global (seperti Roami) sebelum berangkat. Operator Tiongkok tidak menerbitkan eSIM untuk pengunjung asing, jadi eSIM perjalanan roaming adalah satu-satunya pilihan Anda.
 
-**Q: Saya memiliki iPhone 16 model AS. Dapatkah saya menggunakan SIM fisik dengan adaptor?**
-A: Tidak. Model AS tidak memiliki perangkat keras baki SIM fisik. SIM fisik tidak dapat digunakan sama sekali di perangkat ini.
+**Roaming 5G iPhone 16 tidak berfungsi?**
+Periksa Pengaturan > Seluler > Opsi Cellular Data > Voice & Data berada di 5G Auto atau 5G On, dan konfirmasikan penyedia eSIM Anda menawarkan roaming 5G di tujuan Anda.
 
-### Error Pemulihan
+**Apakah menghapus eSIM membatalkan paket saya?**
+Tidak — itu hanya menghapus profil dari ponsel. Batalkan paket dengan operator Anda secara terpisah. eSIM perjalanan tidak dikembalikan untuk data yang tidak terpakai.
 
-**Q: Error pemulihan 4013 atau 4014?**
-A: Error pemulihan 4013 dan 4014 biasanya menunjukkan masalah perangkat keras atau firmware selama pemulihan perangkat lunak, **bukan** masalah eSIM. Coba kabel dan port USB yang berbeda, perbarui Mac atau iTunes Anda, lalu hubungi Dukungan Apple jika error masih berlanjut.
+**Apakah error pemulihan 4013/4014 berarti eSIM saya rusak?**
+Tidak — 4013 dan 4014 adalah error pemulihan perangkat keras/firmware, bukan masalah eSIM. Coba kabel dan port lain, perbarui Mac atau iTunes Anda, lalu hubungi Apple jika berlanjut.
 
-### Baterai dan Kinerja
+**Apakah dual eSIM menguras baterai iPhone 16 lebih cepat?**
+Minimal. Dua saluran aktif memakai daya sedikit lebih banyak, tetapi chip A18 dioptimalkan untuk dual-SIM, dan satu eSIM menarik daya sedikit lebih sedikit daripada SIM fisik (tidak ada pembaca untuk diberi daya).
 
-**Q: Apakah dual eSIM menguras baterai lebih cepat?**
-A: Menjalankan dua jalur aktif dapat menggunakan daya sedikit lebih banyak, tetapi perbedaannya minimal. Chip A18 iPhone 16 dioptimalkan untuk operasi dual‑SIM. Satu eSIM sebenarnya mengonsumsi daya sedikit lebih rendah daripada SIM fisik karena tidak ada pembaca kartu fisik yang perlu diberi daya.
+**Apakah iPhone 16 saya mendukung personal hotspot pada eSIM perjalanan?**
+Sebagian besar paket eSIM perjalanan menyertakan hotspot, dan chip A18 menjaga tethering tetap sejuk. Periksa paket Anda — beberapa opsi murah membatasinya.
 
-**Q: Bagaimana iOS 18 meningkatkan masa pakai baterai eSIM?**
-A: iOS 18 mencakup optimasi untuk chip A18 yang mengurangi pemindaian latar belakang saat dua eSIM aktif, menghasilkan masa pakai baterai 5‑10% lebih baik dibandingkan iOS 17 pada perangkat keras yang sama.
+**Model iPhone 16 mana yang masih punya slot SIM fisik?**
+Model hibrida yang dijual di Eropa, Inggris, Asia Tenggara, Australia, dan sebagian besar dunia mempertahankan satu slot nano-SIM. Model AS, Kanada, Meksiko, Jepang, Arab Saudi, dan UAE hanya eSIM, dan model Tiongkok/Hong Kong dual nano-SIM tanpa eSIM. Periksa nomor model Anda di Pengaturan > Umum > Tentang.
 
-### Pertanyaan eSIM Perjalanan
+**Bisakah saya menjalankan dua eSIM perjalanan sekaligus di iPhone 16 saya?**
+Ya — seri 16 mendukung dua eSIM aktif bersamaan, jadi Anda bisa mempertahankan eSIM rumah dan eSIM perjalanan, atau dua eSIM perjalanan untuk perjalanan multi-negara. Ganti mana yang membawa data di Pengaturan > Seluler > Cellular Data.
 
-**Q: Dapatkah saya menggunakan eSIM perjalanan dan SIM rumah saya secara bersamaan di iPhone 16?**
-A: Ya – iPhone 16 mendukung dual eSIM aktif. Atur eSIM rumah Anda untuk suara/SMS dan eSIM perjalanan untuk data. Lihat [Bagian 8](#8-dual-esim-di-iphone-16--cara-menggunakan-dua-jalur-aktif) untuk konfigurasi.
+**Apakah mmWave bekerja pada eSIM perjalanan?**
+Di iPhone 16 model AS, mmWave bekerja terlepas dari eSIM, tetapi mmWave adalah teknologi penerapan AS — di luar negeri Anda akan tersambung pada 5G sub-6 GHz atau LTE, yang normal dan diharapkan.
 
-**Q: Apakah eSIM saya mendukung berbagi hotspot pribadi di iPhone 16?**
-A: Sebagian besar paket eSIM perjalanan mencakup dukungan hotspot pribadi penuh, dioptimalkan untuk chip A18 untuk meminimalkan pembangkitan panas selama tethering. Periksa ketentuan paket Anda – beberapa paket hemat membatasi hotspot.
+👉 **Ingin mengujinya di iPhone 16 Anda?** Klaim [eSIM gratis](/free-esim/) dan coba seluruh alurnya.
 
-**Q: Bagaimana jika data di eSIM perjalanan saya habis?**
-A: Anda dapat mengisi ulang langsung di aplikasi operator Anda (Roami, Airalo, dll.) – data tambahan dikreditkan secara otomatis tanpa memindai kode QR baru.
+Lalu jelajahi halaman tujuan kami:
 
-**Q: Apakah iPhone 16 saya terkunci operator?**
-A: Buka `Pengaturan` > `Umum` > `Tentang` dan gulir ke bawah ke **Kunci Operator**. Seharusnya tertulis "Tidak ada batasan SIM." Jika terkunci, hubungi operator rumah Anda untuk meminta pembukaan kunci. Operator AS secara hukum diwajibkan untuk membuka kunci perangkat setelah dilunasi penuh.
-
-**Q: Bagaimana cara memeriksa EID iPhone 16 saya untuk kompatibilitas eSIM?**
-A: Tekan `*#06#` di aplikasi Telepon. Jika nomor EID 32 digit muncul, iPhone 16 Anda mendukung eSIM. Jika hanya nomor IMEI yang muncul, model Anda tidak mendukung eSIM (model China).
-
-**Q: Apa perbedaan antara menghapus eSIM dan mematikannya di iPhone 16?**
-A: Mematikan eSIM menjaga profil tetap di ponsel Anda tetapi menonaktifkan jalur – Anda dapat menyalakannya kembali kapan saja. Menghapus eSIM secara permanen menghapus profil – Anda tidak dapat memulihkannya tanpa kode QR baru. Hapus hanya ketika paket sudah sepenuhnya kedaluwarsa.
-
-
-## 13. Kesimpulan & Praktik Terbaik
-
-Seri iPhone 16 menjadikan eSIM sebagai standar – bukan hanya pilihan. Baik Anda pengguna pribadi atau administrator TI perusahaan, ikuti praktik terbaik ini:
-
-- **Sebelum membeli perangkat**: Konfirmasikan bahwa operator Anda mendukung eSIM dan transfer lintas platform. Jika Anda membeli model AS, pahami bahwa itu hanya-eSIM.
-- **Saat meningkatkan perangkat**: Gunakan eSIM Quick Transfer – tidak perlu menghubungi dukungan pelanggan.
-- **Sebelum bepergian ke luar negeri**: Beli eSIM data terlebih dahulu, instal di rumah melalui Wi‑Fi, dan aktifkan saat tiba dengan menyalakan Roaming Data.
-- **Untuk penyebaran perusahaan**: Berkomunikasi dengan operator Anda tentang alamat SM‑DP+ dan kapasitas penyediaan, lalu gunakan MDM untuk aktivasi tanpa sentuhan.
-- **Pengingat keamanan**: Sebelum menjual atau memberikan iPhone Anda, hapus semua eSIM di `Pengaturan` > `Seluler` dan beri tahu operator Anda untuk membatalkan paket terkait.
-
-**Masa depan telah tiba**: eSIM bukan hanya evolusi teknologi tetapi juga revolusi dalam manajemen identitas digital. Seri iPhone 16 dan penyedia eSIM global siap menyediakan konektivitas tanpa batas di seluruh dunia.
+- [eSIM untuk Amerika Serikat](/united-states-esim/)
+- [eSIM untuk Jepang](/japan-esim/)
+- [eSIM untuk Eropa](/europe-esim/)
 
 ---
-*Berdasarkan dokumentasi Apple dan GSMA. Fitur aktual dapat bervariasi tergantung pada kebijakan operator, wilayah, dan model perangkat.*
+
+*Berdasarkan dokumentasi Apple dan GSMA. Fitur aktual dapat bervariasi tergantung kebijakan operator, wilayah, dan model perangkat.*
 
 ## Sumber
 
-- [GSMA — Spesifikasi eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Dukungan Apple — eSIM di iPhone](https://support.apple.com/en-us/108072)
-- [Dukungan Apple — Tentang eSIM di iPhone](https://support.apple.com/en-us/HT209044)
+- [GSMA — spesifikasi eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Use Dual SIM with an eSIM](https://support.apple.com/en-us/HT209086)

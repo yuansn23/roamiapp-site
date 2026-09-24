@@ -1,12 +1,13 @@
 ---
-title: "Ondersteunt iPhone XR eSIM? Volledige Gids 2026"
-h1_title: "Ondersteunt de iPhone XR eSIM? Een Complete Gids voor 2026"
-description: "iPhone XR ondersteunt eSIM – verifieer met *#06#. Activeer bij grote providers. China-modellen: geen eSIM. Behandelt ook iPhone 8/X en eSIM iPhones."
-image: "/img/esim/esim-travel.jpg"
-keywords: ["iphone xr esim compatibel", "iphone xr esim ondersteuning", "esim compatibele telefoons", "lijst van iphones die esim ondersteunen", "airalo compatibele telefoons", "google fi esim compatibele telefoons", "verizon esim compatibiliteit", "dual sim compatibel", "iphone xr dual sim", "iphone xr esim"]
-date: 2026-09-16T10:00:00Z
-lastmod: 2026-09-16T00:00:00Z
-tags: ["iPhone", "eSIM", "Compatibiliteit", "iPhone XR"]
+title: "Ondersteunt de iPhone XR eSIM? Volledige gids 2026"
+h1_title: "Ondersteunt de iPhone XR eSIM? Een complete gids voor 2026"
+description: "iPhone XR ondersteunt eSIM – verifieer met *#06#. Activeer bij grote providers. China-modellen: geen eSIM. Behandelt ook iPhone 8/X en eSIM-iPhones."
+image: "/img/faq/iphone-xr-esim.webp"
+image-1: "/img/faq/iphone-xr-esim-1.jpg"
+keywords: ["iphone xr esim compatible", "iphone xr esim support", "esim compatible phones", "list of iphones that support esim", "airalo compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "iphone xr dual sim", "iphone xr esim"]
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
+tags: ["iPhone", "eSIM", "Compatibility", "iPhone XR"]
 toc: true
 
 # Site & SEO
@@ -22,7 +23,7 @@ ui_text:
 
 breadcrumbs:
   home:
-    text: "Home"
+    text: "Startpagina"
     url: "/"
   parent:
     text: "eSIM-compatibiliteit"
@@ -30,7 +31,7 @@ breadcrumbs:
 
 # Sidebar: Popular eSIMs
 sidebar_popular:
-  title: "Populaire eSIMs"
+  title: "Populaire eSIM's"
   item_suffix: "eSIM"
   items:
     - name: "VS eSIM"
@@ -66,7 +67,7 @@ sidebar_popular:
 
 # Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Claim Gratis eSIM"
+  title: "Gratis eSIM claimen"
   icon: "🎁"
   item_suffix: "Gratis eSIM"
   item_subtitle: "Gratis eSIM"
@@ -86,303 +87,304 @@ sidebar_free:
 
 # Sidebar: Popular questions
 sidebar_questions:
-  title: "Populaire Vragen"
+  title: "Populaire vragen"
   items:
     - question: "Wat is eSIM-activering en hoe werkt het?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Hoe activeer ik een eSIM?"
+    - question: "Hoe activeer je een eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Hoe activeer ik eSIM op iPhone (alle modellen)?"
+    - question: "Hoe activeer je eSIM op iPhone (alle modellen)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Nieuwste eSIM-compatibiliteitslijst"
+    - question: "Actuele eSIM-compatibiliteitslijst"
       url: "/compatibility/"
 ---
 
 
-> **Redacteurennoot:** Roami is een in de VS gevestigde eSIM-provider. Deze gids beantwoordt één vraag — *ondersteunt de iPhone XR eSIM?* — en richt zich op de valkuilen die ertoe doen wanneer u in 2026 een iPhone uit 2018 koopt: China-modellen, provider-locks, en het 4G-only plafond van de XR. Feiten zijn geverifieerd per augustus 2026 tegen Apple-documentatie en Roami's activeringsgegevens.
+> **Redactionele noot:** De iPhone XR ondersteunt eSIM als tweede lijn, maar hij is beperkt tot 4G en heeft valkuilen die goed om te weten zijn — China-modellen en carrier locks. Deze gids beantwoordt die ene vraag met Apple-documentatie en de activeringsgegevens van Roami, geverifieerd per september 2026. Bevestig hieronder je model voordat je in 2026 een iPhone van 2018 koopt.
 
 
-## Is de iPhone XR eSIM-compatibel? Het Directe Antwoord
+## Is de iPhone XR eSIM-compatibel?
 
-**Ja — een globale iPhone XR ondersteunt volledig eSIM.** Het was een van de eerste drie iPhones die werden geleverd met een eSIM-chip, naast de XS en XS Max in september 2018. Eén fysieke nano-SIM plus één eSIM kunnen tegelijk actief zijn.
+**Ja — een wereldwijde iPhone XR ondersteunt eSIM volledig.** Het was een van de eerste drie iPhones die met een eSIM-chip werd geleverd, naast de XS en XS Max in september 2018. Eén fysieke nano-SIM plus één eSIM kan tegelijkertijd actief zijn.
 
-Drie dingen bepalen of *uw* XR daadwerkelijk met eSIM werkt:
+Drie dingen bepalen of *jouw* XR daadwerkelijk met eSIM werkt:
 
-1. **Waar het werd verkocht.** Globale modellen (VS, Europa, Japan en het grootste deel van de wereld) hebben eSIM. Vasteland-China modellen — modelnummer eindigend op **CH/A**, of hardware **A2108** — niet, omdat Apple de eSIM-chip verwijderde om te voldoen aan China's regels voor twee fysieke SIM-slots.
-2. **Provider-lock.** Onder Instellingen > Algemeen > Over moet **Provider-lock** "Geen SIM-beperkingen" aangeven. Een vergrendelde XR accepteert alleen eSIMs van zijn oorspronkelijke provider.
-3. **Software.** iOS 12.1 of later is vereist; we raden iOS 16+ aan.
+1. **Waar het verkocht is.** Wereldwijde modellen (VS, Europa, Japan en het grootste deel van de wereld) hebben eSIM. Modellen uit vasteland-China — modelnummer eindigend op **CH/A**, of hardware **A2108** — niet, omdat Apple de eSIM-chip verwijderde om te voldoen aan de dual-fysiek-SIM-regels van China.
+2. **Carrier lock.** Onder Instellingen > Algemeen > Info moet **Simlock** zeggen "Geen SIM-beperkingen". Een vergrendelde XR accepteert alleen eSIM's van zijn oorspronkelijke provider.
+3. **Software.** iOS 12.1 of later is vereist; wij raden iOS 16+ aan.
 
-**De snelste controle:** open de Telefoon-app, kies `*#06#`, en zoek naar een 32-cijferige **EID**. EID aanwezig = eSIM-hardware aanwezig. Alleen IMEI-nummers = geen eSIM. Voor de volledige drie-methode verificatie-uitleg, zie onze [iPhone eSIM-compatibiliteitshub](/faq/iphone-11-esim-compatible/).
+**De snelste controle:** open de Telefoon-app, toets `*#06#` in en zoek naar een **EID** van 32 cijfers. EID aanwezig = eSIM-hardware aanwezig. Alleen IMEI-nummers = geen eSIM. Voor de volledige verificatiewalkthrough met drie methoden, zie onze [iPhone eSIM-compatibiliteitshub](/faq/iphone-11-esim-compatible/).
 
 
-## iPhone XR eSIM in één Oogopslag
+## iPhone XR eSIM-overzicht
 
-| Functie | Status |
+| Kenmerk | Status |
 | :--- | :--- |
-| **eSIM-ondersteuning** | ✅ Ja (globale modellen) |
+| **eSIM-ondersteuning** | ✅ Ja (wereldwijde modellen) |
 | **Dual SIM** | ✅ 1 fysieke nano-SIM + 1 eSIM (dual standby) |
 | **Actieve lijnen tegelijk** | 2 (één van elk type) |
 | **5G op eSIM** | ❌ Nee — alleen 4G LTE |
-| **Vasteland-China versie** | ❌ Geen eSIM — alleen dual fysieke SIM |
-| **Vereist iOS** | 12.1+ (16+ aanbevolen) |
+| **Versie vasteland-China** | ❌ Geen eSIM — alleen dual fysieke SIM |
+| **iOS vereist** | 12.1+ (16+ aanbevolen) |
 
-De eSIM van de XR werkt precies zoals die in een nieuwere iPhone — zelfde installatieflow, zelfde dual-standby gedrag — het topt alleen bij 4G LTE.
-
-
-## De Ene Echte Beperking van de XR: Het is 4G-Only
-
-Omdat de XR werd gelanceerd vóór 5G, draaien zijn eSIM (en zijn fysieke SIM) alleen op 4G LTE. In de praktijk maakt dat zelden uit voor reizen: kaarten, berichten, surfen op het web en videogesprekken voelen allemaal identiek op een sterk LTE-signaal. U zult de kloof alleen opmerken als u specifiek 5G-snelheden wilt — in welk geval een iPhone SE 3e gen of een iPhone 12+ de upgrade is. De afweging, hieronder behandeld, is dat de XR de goedkoopste manier is om eSIM überhaupt te gebruiken.
+De eSIM van de XR werkt precies zoals die in een nieuwere iPhone — zelfde installatieproces, zelfde dual-standby-gedrag — hij stopt alleen bij 4G LTE.
 
 
-## Is 4G LTE Nog Steeds Genoeg in 2026?
+## Waarom de iPhone XR beperkt is tot 4G
 
-Korte versie: ja, voor bijna alles wat een reiziger doet. De XR topt bij 4G LTE — Apple's A12 Bionic-chip gekoppeld aan een Gigabit-klasse LTE-modem — en in 2026 is dat nog steeds ruim voldoende voor de dagelijkse taak van de telefoon.
+Omdat de XR vóór 5G uitkwam, draait zijn eSIM (en zijn fysieke SIM) alleen op 4G LTE. In de praktijk maakt dat voor reizen zelden uit: kaarten, berichten, webbrowsing en videogesprekken voelen op een sterk LTE-signaal identiek. Je merkt het gat alleen als je specifiek 5G-snelheden wilt — in dat geval is een iPhone SE 3e generatie of een iPhone 12+ de stap omhoog. De afweging, hieronder behandeld, is dat de XR de goedkoopste toegang tot eSIM überhaupt is.
 
-Praktijksnelheden op een goed LTE-netwerk liggen ongeveer op **20-100 Mbps down**, wat snel genoeg is voor HD-videogesprekken, muziekstreaming en fotouploads zonder hapering. De theoretische piek is hoger, maar u zult zelden in de buurt komen van de behoefte eraan.
 
-Wat 4G LTE gemakkelijk aankan op de XR:
+## Is 4G LTE in 2026 nog steeds genoeg?
 
-| Reis Taak | 4G LTE op de XR |
+Korte versie: ja, voor bijna alles wat een reiziger doet. De XR stopt bij 4G LTE — de A12 Bionic-chip van Apple gepaard met een Gigabit-klasse LTE-modem — en in 2026 is dat nog steeds ruim voldoende voor de dagelijkse taak van de telefoon.
+
+Echte snelheden op een goed LTE-netwerk liggen grofweg op **20–100 Mbps omlaag**, wat snel genoeg is voor HD-videogesprekken, muziekstreaming en foto-uploads zonder hapering. Het theoretische maximum is hoger, maar je komt er zelden dicht bij in de buurt.
+
+Wat 4G LTE moeiteloos aankan op de XR:
+
+| Reistaak | 4G LTE op de XR |
 | :--- | :--- |
-| Kaarten en turn-by-turn navigatie | ✅ Direct |
+| Kaarten en navigatie stap voor stap | ✅ Direct |
 | Berichten (iMessage, WhatsApp, Signal) | ✅ Direct |
-| E-mail en surfen op het web | ✅ Direct |
-| Videogesprekken (FaceTime, WhatsApp, Zoom) | ✅ Soepel bij 720p-1080p |
-| Muziek- en podcaststreaming | ✅ Soepel |
-| Sociale media en fotouploads | ✅ Prima |
-| Grote bestandsdownloads / 4K-streaming | ⚠️ Langzamer — 5G-territorium |
+| E-mail en webbrowsing | ✅ Direct |
+| Videogesprekken (FaceTime, WhatsApp, Zoom) | ✅ Vlot op 720p–1080p |
+| Muziek- en podcaststreaming | ✅ Vlot |
+| Sociale media en foto-uploads | ✅ Prima |
+| Grote bestandsdownloads / 4K-streaming | ⚠️ Trager — 5G-gebied |
 
-De enige echte kloof is 5G-specifieke snelheid. Als uw reis-eSIM adverteert met 5G, installeert de XR dat abonnement nog steeds en gebruikt het — het maakt alleen verbinding op LTE in plaats daarvan. Dekking is ook geen probleem: 4G LTE is de wereldwijde basislijn in 2026, en providers blijven het jarenlang naast 5G draaien.
+Het enige echte gat is 5G-specifieke snelheid. Als je reis-eSIM 5G adverteert, installeert de XR dat abonnement nog steeds en gebruikt het — hij verbindt alleen via LTE. Dekking is ook geen probleem: 4G LTE is in 2026 de wereldwijde basislijn, en providers blijven het nog jaren naast 5G draaien.
 
-**Bottom line:** het 4G-plafond van de XR is een *snelheids*beperking, geen *dekkings*- of *compatibiliteits*beperking. Het is de prijs die u betaalt voor de goedkoopste eSIM-iPhone — en voor de meeste reizen is het een prijs die het waard is. Wilt u in plaats daarvan 5G op een budget-eSIM-iPhone? De [iPhone SE 3e gen](/faq/iphone-se-esim-compatible/) is de natuurlijke volgende stap.
+**Conclusie:** het 4G-plafond van de XR is een *snelheids*beperking, geen *dekking* of *compatibiliteit*. Het is de prijs die je betaalt voor de goedkoopste eSIM-iPhone — en voor de meeste reizen is het een prijs waard. Liever 5G op een budget-eSIM-iPhone? De [iPhone SE 3e generatie](/faq/iphone-se-esim-compatible/) is de logische stap omhoog.
 
 
-## iPhone XR Modelnummers (A1984-A2109)
+## iPhone XR-modelnummers
 
-Het hardware-modelnummer van uw XR vertelt u of het eSIM heeft voordat u zelfs maar een menu aanraakt. Apple verkocht zes hardware-varianten, en ze splitsen netjes in twee kampen — eSIM of geen eSIM:
+Het hardwaremodelnummer van je XR vertelt je of hij eSIM heeft voordat je ook maar een menu aanraakt. Apple verkocht zes hardwarevarianten, en ze splitsen netjes in twee kampen — eSIM of geen eSIM:
 
-| Modelnummer | Waar Het Werd Verkocht | eSIM-ondersteuning |
+| Modelnummer | Waar verkocht | eSIM-ondersteuning |
 | :--- | :--- | :--- |
 | **A1984** | VS, Canada, Puerto Rico, Guam, Amerikaanse Maagdeneilanden | ✅ Ja |
-| **A2105** | De meeste andere landen (globaal) | ✅ Ja |
-| **A2106** | Japan | ✅ Ja (kan provider-locked zijn) |
+| **A2105** | De meeste andere landen (wereldwijd) | ✅ Ja |
+| **A2106** | Japan | ✅ Ja (mogelijk gecarrierevergrendeld) |
 | **A2107** | Vasteland-China | ❌ Nee — dual fysieke SIM |
 | **A2108** | Vasteland-China, Hongkong, Macau | ❌ Nee — dual fysieke SIM |
 | **A2109** | Vasteland-China (providervariant) | ❌ Nee — dual fysieke SIM |
 
-**De korte versie:** A1984, A2105 en A2106 hebben eSIM. A2107, A2108 en A2109 dragen in plaats daarvan twee fysieke nano-SIMs — geen eSIM-chip. Dat is de hele kaart.
+**De korte versie:** A1984, A2105 en A2106 hebben eSIM. A2107, A2108 en A2109 hebben in plaats daarvan twee fysieke nano-SIM's — geen eSIM-chip. Dat is de hele kaart.
 
-**Hoe u het vindt:** Instellingen > Algemeen > Over > Modelnummer. Tik op het nummer om te schakelen tussen de "AXXXX" hardwarecode en de "MNXXXX/A" retailcode.
+**Zo vind je het:** Instellingen > Algemeen > Info > Modelnummer. Tik op het nummer om te schakelen tussen de "AXXXX"-hardwarecode en de "MNXXXX/A"-verkoopcode.
 
-**Japan nuance (A2106):** Japan-modellen *hebben* eSIM, maar veel Japan-markt XRs werden verkocht vergrendeld aan docomo, au of SoftBank. Controleer **Instellingen > Algemeen > Over > Provider-lock** voordat u aanneemt dat een gebruikte Japan-eenheid ontgrendeld is.
+**Japan-kanttekening (A2106):** Japanse modellen *hebben* wel eSIM, maar veel XRs voor de Japanse markt werden verkocht vergrendeld bij docomo, au of SoftBank. Controleer **Instellingen > Algemeen > Info > Simlock** voordat je ervan uitgaat dat een tweedehands Japans toestel ontgrendeld is.
 
-**China nuance (A2107 / A2108 / A2109):** deze drie zijn de vasteland-China en Hongkong/Macau varianten. Ze worden geleverd met twee fysieke nano-SIMs en geen eSIM-chip — geen iOS-update, reset of hack kan er een toevoegen. Als u een van deze drie op het Over-scherm ziet, stop: die eenheid zal nooit een eSIM accepteren.
+**China-kanttekening (A2107 / A2108 / A2109):** deze drie zijn de varianten voor vasteland-China en Hongkong/Macau. Ze worden geleverd met twee fysieke nano-SIM's en geen eSIM-chip — geen enkele iOS-update, reset of hack kan er een toevoegen. Als je een van deze drie op het Info-scherm ziet, stop: dat toestel zal nooit een eSIM nemen.
 
 
-## Een Gebruikte iPhone XR Kopen voor eSIM — Checklist
+## Een tweedehands iPhone XR kopen voor eSIM
 
-De XR is de goedkoopste eSIM-iPhone op de gebruikte markt, wat het een magneet maakt voor grijze markt- en China-model eenheden. Doorloop deze checklist persoonlijk voordat u contant geld overhandigt:
+De XR is de goedkoopste eSIM-iPhone op de tweedehandsmarkt, wat hem een magneet maakt voor grijsmarkt- en China-modeltoestellen. Doorloop deze checklist persoonlijk voordat je geld overhandigt:
 
-| Stap | Wat Te Controleren |
+| Stap | Wat te controleren |
 | :--- | :--- |
-| **1** | **Modelnummer** (Instellingen > Algemeen > Over) — weiger alles eindigend op **CH/A**, of hardware **A2107/A2108/A2109**. |
-| **2** | **Kies `*#06#`** — bevestig dat een 32-cijferige **EID** verschijnt, niet alleen IMEI-nummers. |
-| **3** | **Provider-lock** — moet **"Geen SIM-beperkingen"** aangeven. "SIM vergrendeld" betekent dat reis-eSIMs van tafel zijn. |
+| **1** | **Modelnummer** (Instellingen > Algemeen > Info) — wijs alles af dat eindigt op **CH/A**, of hardware **A2107/A2108/A2109**. |
+| **2** | **Toets `*#06#` in** — bevestig dat een **EID** van 32 cijfers verschijnt, niet alleen IMEI-nummers. |
+| **3** | **Simlock** — moet zeggen **"Geen SIM-beperkingen"**. "SIM-vergrendeld" betekent dat reis-eSIM's van tafel zijn. |
 | **4** | **Instellingen > Mobiel netwerk** — "Mobiel abonnement toevoegen" moet aantikbaar zijn, niet grijs. |
-| **5** | **Fysieke SIM-lade** — de XR heeft een nano-SIM-lade. Als er geen lade is, is het geen XR. |
-| **6** | **Gratis proefperiode test** — als de verkoper het toestaat, installeer een gratis eSIM (zoals Roami's) om te bewijzen dat activering van begin tot eind werkt. |
+| **5** | **Fysieke SIM-sleuf** — de XR heeft een nano-SIM-sleuf. Als er geen sleuf is, is het geen XR. |
+| **6** | **Gratis-proeftest** — als de verkoper het toestaat, installeer een gratis eSIM (zoals die van Roami) om te bewijzen dat de activering end-to-end werkt. |
 
-### Rode Vlaggen bij het Kopen van Gebruikt
+### Rode vlaggen bij het kopen van tweedehands
 
-| Rode Vlag | Waarom |
+| Rode vlag | Waarom |
 | :--- | :--- |
 | **Geen EID op `*#06#`** | China-model — geen eSIM-hardware. |
-| **Provider-lock zegt "SIM vergrendeld"** | Reis-eSIMs werken niet tot het ontgrendeld is. |
-| **Verkoper zegt "update gewoon iOS voor eSIM"** | Onwaar — eSIM is hardware, geen softwarefunctie. |
-| **iCloud vergrendeld** | De telefoon is een baksteen — loop weg. |
+| **Simlock zegt "SIM-vergrendeld"** | Reis-eSIM's werken pas nadat hij ontgrendeld is. |
+| **Verkoper zegt "werk iOS bij om eSIM te krijgen"** | Onwaar — eSIM is hardware, geen softwarefunctie. |
+| **iCloud-vergrendeld** | De telefoon is een baksteen — loop weg. |
 
-### Batterijconditie, Prijsbereik en Waar Te Kopen
+### Batterijconditie, prijzen en waar te winkelen
 
-Naast de EID- en lock-controles bepalen drie dingen of een gebruikte XR een goede deal is in 2026:
+Naast de EID- en lock-controles bepalen drie dingen of een tweedehands XR in 2026 een goede deal is:
 
-**1. Batterijconditie.** Op een telefoon zo oud is het het eerste om te controleren. Ga naar **Instellingen > Batterij > Batterijconditie & opladen** en lees **Maximale capaciteit**. Boven 90% is uitstekend; 85-90% is normaal voor een licht gebruikte eenheid; onder 80% betekent dat Apple een batterijservice aanbeveelt (ongeveer $69-89 in de VS) en de telefoon zal worstelen door een volledige reisdag. Vraag de verkoper om dit nummer voordat u betaalt.
+**1. Batterijconditie.** Bij een telefoon van deze leeftijd is het het eerste wat je moet controleren. Ga naar **Instellingen > Batterij > Batterijconditie en opladen** en lees **Maximale capaciteit**. Boven 90% is uitstekend; 85–90% is normaal voor een licht gebruikt toestel; onder 80% betekent dat Apple een batterijservice aanbeveelt (ongeveer $69–89 in de VS) en de telefoon een volledige reisdag zal worstelen. Vraag de verkoper om dit nummer voordat je betaalt.
 
-**2. Prijsbereik (augustus 2026).** Schone, ontgrendelde XRs verhandelen nu in een smalle band:
+**2. Prijzen (september 2026).** Schone, ontgrendelde XRs handelen nu in een smalle band:
 
-| Conditie | Ongeveer Prijs |
+| Conditie | Geschatte prijs |
 | :--- | :--- |
-| Redelijk, kleine slijtage, 64GB | $90-120 |
-| Goed, ontgrendeld, 64GB | $110-140 |
-| Goed, ontgrendeld, 128GB | $120-155 |
-| Uitstekend + gezonde batterij, 256GB | $140-175 |
+| Redelijk, lichte slijtage, 64GB | $90–120 |
+| Goed, ontgrendeld, 64GB | $110–140 |
+| Goed, ontgrendeld, 128GB | $120–155 |
+| Uitstekend + gezonde batterij, 256GB | $140–175 |
 
-Alles ver onder deze nummers is meestal een China-model, een provider-locked eenheid, of een iCloud-locked presse-papier.
+Alles ver onder deze bedragen is meestal een China-model, een gecarrierevergrendeld toestel of een iCloud-vergrendelde baksteen.
 
-**3. Waar te kopen.** De veiligste opties zijn marktplaatsen die de IMEI/ESN verifiëren en een retourvenster bieden: **Swappa** (individuele verkopers, personeel-geverifieerde vermeldingen), **Back Market** (refurbished met 12 maanden garantie), **Amazon Renewed**, en **eBay** (houd vast aan verkopers met hoge feedback met "ontgrendeld" in de vermelding en eBay Money Back Guarantee). Apple heeft geen XR-refurbs meer op voorraad, dus derde partij is uw enige route. Vermijd anonieme lokale vermeldingen en "bulk import" verkopers die de IMEI niet willen delen voor aankoop.
+**3. Waar te kopen.** De veiligste opties zijn marktplaatsen die de IMEI/ESN verifiëren en een retourperiode bieden: **Swappa** (individuele verkopers, door medewerkers geverifieerde advertenties), **Back Market** (gerenoveerd met 12 maanden garantie), **Amazon Renewed** en **eBay** (blijf bij verkopers met hoge feedback en "unlocked" in de advertentie plus de eBay Money Back Guarantee). Apple stockt de XR niet meer als refurb, dus derden zijn je enige route. Vermijd anonieme lokale advertenties en "bulkimport"-verkopers die de IMEI niet delen vóór aankoop.
 
-### Het iOS 18 Plafond (een 2026-specifieke Vlag)
+### Het iOS 18-plafond
 
-De XR draait iOS 12 tot en met **iOS 18** — en stopt daar. Apple verwijderde de XR, XS en XS Max uit iOS 19 in 2025, omdat ze de oudere A12 Bionic-chip delen. De telefoon werkt nog steeds prima op iOS 18 en blijft beveiligingspatches ontvangen, maar zal geen nieuwe grote functies zien.
+De XR draait iOS 12 tot en met **iOS 18** — en stopt daar. Apple liet de XR, XS en XS Max in 2025 vallen uit iOS 19, omdat ze de oudere A12 Bionic-chip delen. De telefoon werkt nog prima op iOS 18 en krijgt doorlopend beveiligingspatches, maar hij zal geen nieuwe grote functies zien.
 
-Voor eSIM specifiek maakt dat niet uit: eSIM werkt identiek op iOS 18 en iOS 19. Het maakt alleen uit als u van plan bent de telefoon meerdere jaren te behouden, in welk geval de [iPhone SE 3e gen](/faq/iphone-se-esim-compatible/) (nog volledig ondersteund) de veiligere langetermijn aankoop is.
-
-
-## eSIM Instellen op de iPhone XR
-
-Zodra u hebt bevestigd dat de telefoon een EID heeft, duurt het instellen ongeveer twee minuten. De XR behoudt één fysiek nano-SIM-slot plus één eSIM, dus de optie is altijd aanwezig — hier is het XR-specifieke pad:
-
-1. Koop een abonnement en let op de bevestigings-e-mail (Roami levert een QR-code plus een SM-DP+-adres en activeringscode).
-2. Open **Instellingen > Mobiel netwerk > Mobiel abonnement toevoegen** (iOS 12-15) of **eSIM toevoegen** (iOS 16-18 — het label veranderde, de functie niet).
-3. Scan de QR-code, of tik op **Gegevens handmatig invoeren** en typ het SM-DP+-adres en de activeringscode als de camera niet scherpstelt.
-4. Label de nieuwe lijn (bijv. "Reizen") en kies uw **Standaardlijn** voor data — stel de reis-eSIM hier in, en houd uw thuislijn als de spraakstandaard.
-5. Schakel **Data Roaming** in voor de reislijn wanneer u landt.
-
-De XR is dual-standby, niet dual-active: beide lijnen ontvangen oproepen en berichten, maar slechts één houdt tegelijk een spraakgesprek. Dat is normaal, geen fout.
-
-De volledige stap-voor-stap met schermafbeeldingen staat in de [iPhone eSIM-activeringsgids](/faq/how-to-activate-esim-on-iphone/); als er iets mislukt tijdens de installatie, staan de oplossingen in de [eSIM Diepgaande Probleemoplossingsgids 2026](/faq/esim-deep-troubleshooting-guide-2026/).
+Voor eSIM specifiek maakt dat niet uit: eSIM werkt identiek op iOS 18 en iOS 19. Het telt alleen als je de telefoon enkele jaren wilt houden, in welk geval de [iPhone SE 3e generatie](/faq/iphone-se-esim-compatible/) (nog steeds volledig ondersteund) de veiligere langetermijnaankoop is.
 
 
-## XR Batterijduur met Dual SIM
+## eSIM instellen op de iPhone XR
 
-Een tweede (reis)lijn draaien op de XR is lichtgewicht, maar het is niet gratis: twee lijnen geregistreerd houden bij het netwerk kost een paar punten batterij per dag. Verwacht ongeveer **5-10% snellere ontlading** met beide lijnen actief versus één.
+Zodra je hebt bevestigd dat de telefoon een EID heeft, duurt de installatie ongeveer twee minuten. De XR behoudt één fysieke nano-SIM-sleuf plus één eSIM, dus de optie is altijd aanwezig — hier is het XR-specifieke pad:
 
-De grotere variabele op een telefoon uit 2018 is de batterij zelf. Een gezonde XR doet gemakkelijk een hele dag gemengd gebruik; een met een vermoeide batterij (onder 85% gezondheid) wil een middagopladning zelfs voordat u een tweede lijn toevoegt. Drie eenvoudige zetten om het te rekken:
+1. Koop een abonnement en let op de bevestigingsmail (Roami levert een QR code plus een SM-DP+-adres en activeringscode).
+2. Open **Instellingen > Mobiel netwerk > Mobiel abonnement toevoegen** (iOS 12–15) of **eSIM toevoegen** (iOS 16–18 — het label veranderde, de functie niet).
+3. Scan de QR code, of tik op **Details handmatig invoeren** en typ het SM-DP+-adres en de activeringscode als de camera niet wil scherpstellen.
+4. Geef de nieuwe lijn een label (bijv. "Reis") en kies je **Standaardlijn** voor data — stel hier de reis-eSIM in en houd je thuislijn als spraakstandaard.
+5. Zet **Dataroaming** aan voor de reislijn zodra je landt.
 
-- **Schakel de reislijn uit wanneer u deze niet gebruikt** — Instellingen > Mobiel netwerk > [reislijn] > schakel **Deze lijn inschakelen** uit. Opnieuw inschakelen in seconden bij landing.
-- **Gebruik Lage-energiemodus** — Instellingen > Batterij > Lage-energiemodus. Het beperkt achtergrondactiviteit zonder oproepen of data te beïnvloeden.
-- **Houd één lijn op data** — stel de reis-eSIM in als de datastandaard en laat de thuislijn inactief op spraak/sms, wat lichter is voor de radio.
+De XR is dual-standby, niet dual-actief: beide lijnen ontvangen oproepen en berichten, maar maar één houdt tegelijk een spraakoproep vast. Dat is normaal, geen storing.
 
-Voor een volledige dag kaarten en foto's met beide lijnen live, draag een kleine powerbank — de XR dateert van vóór het grote-batterij tijdperk.
+De volledige stapsgewijze handleiding met schermafbeeldingen staat in de [iPhone eSIM-activeringsgids](/faq/how-to-activate-esim-on-iphone/); als er tijdens de installatie iets fout gaat, staan de oplossingen in de [eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
-## iPhone XR vs iPhone 11 vs iPhone SE — Welke voor eSIM?
+## Batterijduur van de XR met dual SIM
 
-Als u een budget-iPhone koopt specifiek voor eSIM-reizen, zijn deze vier de gebruikelijke shortlist (beide SE-generaties verdienen een plek):
+Een tweede (reis)lijn draaien op de XR is licht, maar niet gratis: het kost per dag een paar procent batterij om twee lijnen op het netwerk geregistreerd te houden. Reken op ongeveer **5–10% snellere leegloop** met beide lijnen actief versus één.
 
-| Functie | iPhone XR | iPhone 11 | iPhone SE (2e gen) | iPhone SE (3e gen) |
+De grotere variabele op een telefoon van 2018 is de batterij zelf. Een gezonde XR haalt gemakkelijk een hele dag gemengd gebruik; eentje met een moe batterij (onder 85% conditie) wil al een tussendoortje stroom vóórdat je een tweede lijn toevoegt. Drie eenvoudige zetten om hem te rekken:
+
+- **Zet de reislijn uit wanneer je hem niet gebruikt** — Instellingen > Mobiel netwerk > [reislijn] > zet **Deze lijn inschakelen** uit. Binnen enkele seconden weer aanzetten bij aankomst.
+- **Gebruik de Energiebesparingsmodus** — Instellingen > Batterij > Energiebesparingsmodus. Hij beperkt achtergrondactiviteit zonder oproepen of data te beïnvloeden.
+- **Houd één lijn op data** — stel de reis-eSIM in als datadefault en laat de thuislijn op spraak/SMS idle staan, wat lichter is voor de radio.
+
+Voor een volledige dag kaarten en foto's met beide lijnen actief, neem een kleine powerbank mee — de XR dateert van vóór het tijdperk van de grote batterij.
+
+
+## iPhone XR versus iPhone 11 versus iPhone SE voor eSIM
+
+Als je een budget-iPhone specifiek voor eSIM-reizen koopt, zijn dit de gebruikelijke vier op de shortlist (beide SE-generaties verdienen een plek):
+
+| Kenmerk | iPhone XR | iPhone 11 | iPhone SE (2e generatie) | iPhone SE (3e generatie) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Releasedatum** | 2018 | 2019 | 2020 | 2022 |
+| **Uitgiftjaar** | 2018 | 2019 | 2020 | 2022 |
 | **eSIM-ondersteuning** | ✅ Ja | ✅ Ja | ✅ Ja | ✅ Ja |
 | **5G** | ❌ Nee (4G LTE) | ❌ Nee (4G LTE) | ❌ Nee (4G LTE) | ✅ Ja |
-| **Dual SIM-type** | 1 fysiek + 1 eSIM | 1 fysiek + 1 eSIM | 1 fysiek + 1 eSIM | 1 fysiek + 1 eSIM |
+| **Type dual SIM** | 1 fysiek + 1 eSIM | 1 fysiek + 1 eSIM | 1 fysiek + 1 eSIM | 1 fysiek + 1 eSIM |
 | **Dual eSIM (geen fysiek)** | ❌ Nee | ❌ Nee | ❌ Nee | ❌ Nee |
-| **Opgeslagen eSIM-profielen** | ~5-8 | ~5-8 | ~8 | ~8 |
-| **Scherm** | 6,1" LCD | 6,1" LCD | 4,7" LCD | 4,7" LCD |
+| **Opgeslagen eSIM-profielen** | ~5–8 | ~5–8 | ~8 | ~8 |
+| **Scherm** | 6.1″ LCD | 6.1″ LCD | 4.7″ LCD | 4.7″ LCD |
 | **Batterij** | Goed | Beter | Redelijk | Redelijk |
 | **Camera** | Enkele lens | Dubbele lens | Enkele lens | Enkele lens |
 | **Face ID / Touch ID** | Face ID | Face ID | Touch ID | Touch ID |
-| **Ongeveer gebruikte prijs** | $100-150 | $150-250 | $120-180 | $200-280 |
-| **Beste voor** | Goedkoopste eSIM-instap | Betere camera + batterij | Kleinste + homeknop | 5G + levensduur |
+| **Geschatte tweedehandsprijs** | $100–150 | $150–250 | $120–180 | $200–280 |
+| **Beste voor** | Goedkoopste eSIM-toegang | Betere camera + batterij | Kleinste + home-knop | 5G + lange levensduur |
 
 **Aanbeveling:**
-- **Kies de XR** als u de absoluut goedkoopste werkende eSIM-iPhone wilt en niet geeft om 5G of de kortere softwarebaan.
-- **Kies de 11** als een betere camera en batterij ~$50-100 meer waard zijn.
-- **Kies de SE 2e gen** als u dezelfde eSIM wilt in een kleiner lichaam met een homeknop (en geen 5G nodig heeft).
-- **Kies de SE 3e gen** als u 5G, langere iOS-ondersteuning wilt en van plan bent de telefoon drie jaar of langer te behouden.
+- **Kies de XR** als je de absolute goedkoopste werkende eSIM-iPhone wilt en je niets geeft om 5G of de kortere softwarelooptijd.
+- **Kies de 11** als een betere camera en batterij ~$50–100 meer waard zijn.
+- **Kies de SE 2e generatie** als je dezelfde eSIM wilt in een kleiner lichaam met een home-knop (en geen 5G nodig hebt).
+- **Kies de SE 3e generatie** als je 5G wilt, langere iOS-ondersteuning, en de telefoon drie jaar of langer wilt houden.
 
-Voor een diepgaande duik in de generaties van de SE en provider-ontgrendelingsregels, zie de [iPhone SE eSIM-gids](/faq/iphone-se-esim-compatible/).
+Voor een diepgaande blik op de generaties en simlockregels van de SE, zie de [iPhone SE eSIM-gids](/faq/iphone-se-esim-compatible/).
 
 
-## Wat Als Uw XR Geen EID Toont? (China Modellen)
+## Wat als je iPhone XR geen EID toont?
 
-De enige XR die eSIM mist is een verkocht in **vasteland-China** — en, bij zeldzame gelegenheid, een Hongkong- of Macau-eenheid die via Chinese kanalen is geleid.
+De enige XR zonder eSIM is er één die verkocht is in **vasteland-China** — en, zelden, een Hongkong- of Macau-toestel dat via Chinese kanalen is gegaan.
 
-### Waarom Dit Niet Kan Worden Opgelost
+### Waarom dit niet te repareren is
 
-De XR draagt een gesoldeerde chip genaamd de **eUICC** (embedded Universal Integrated Circuit Card) die eSIM-profielen opslaat. Op China-markt eenheden laat Apple die chip fysiek weg of schakelt deze uit om te voldoen aan een lokale regel die twee fysieke SIM-slots vereist. Dit is hardware, geen firmware — geen iOS-update, reset of hack kan eSIM toevoegen aan een A2107, A2108 of A2109.
+De XR draagt een ingesoldeerde chip genaamd de **eUICC** (embedded Universal Integrated Circuit Card) die eSIM-profielen opslaat. Bij toestellen voor de Chinese markt laat Apple die chip fysiek weg of schakelt hem uit om te voldoen aan een lokale regel die twee fysieke SIM-sleuven vereist. Dit is hardware, geen firmware — geen iOS-update, reset of hack kan eSIM toevoegen aan een A2107, A2108 of A2109.
 
-### Wat U in Plaats Daarvan Kunt Doen
+### Wat je in plaats daarvan kunt doen
 
 | Optie | Details |
 | :--- | :--- |
-| **Gebruik een fysieke reis-SIM** | Tal van providers verzenden nog steeds fysieke SIMs wereldwijd — u zit niet vast. |
-| **Upgrade naar een nieuwere iPhone** | Elke latere iPhone geeft u eSIM. Zie de [iPhone 11-gids](/faq/iphone-11-esim-compatible/) of [iPhone SE-gids](/faq/iphone-se-esim-compatible/). |
-| **Stap over naar Android** | De [Samsung S20](/faq/samsung-s20-esim-compatible/) (Exynos-versie) of [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) zijn solide alternatieven. |
+| **Gebruik een fysieke reis-SIM** | Veel providers verzenden nog steeds fysieke SIM's wereldwijd — je zit niet vast. |
+| **Upgrade naar een nieuwere iPhone** | Elke latere iPhone geeft je eSIM. Zie de [iPhone 11-gids](/faq/iphone-11-esim-compatible/) of [iPhone SE-gids](/faq/iphone-se-esim-compatible/). |
+| **Schakel over naar Android** | De [Samsung S20](/faq/samsung-s20-esim-compatible/) (Exynos-versie) of [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) zijn solide alternatieven. |
 
-### Hoe U een China-model in één Oogopslag Bevestigt
+### Hoe je een China-model bevestigt
 
-| Indicator | Waar Te Zoeken |
+| Indicator | Waar je op let |
 | :--- | :--- |
 | **Modelnummer** | Eindigt op **CH/A**, of hardware **A2107 / A2108 / A2109**. |
 | **`*#06#`** | Geen EID — alleen IMEI-nummers. |
 | **Instellingen > Mobiel netwerk** | "Mobiel abonnement toevoegen" ontbreekt of is grijs. |
 
 
-## Probleemoplossing van iPhone XR eSIM-problemen
+## Problemen oplossen met iPhone XR eSIM
 
-| Probleem | Waarschijnlijke Oorzaak | Oplossing |
+| Probleem | Waarschijnlijke oorzaak | Oplossing |
 | :--- | :--- | :--- |
 | **"Mobiel abonnement kan niet worden toegevoegd"** | Te veel opgeslagen profielen | Verwijder ongebruikte profielen (Instellingen > Mobiel netwerk > Mobiel abonnement verwijderen) |
-| **Geïnstalleerd maar geen data** | Data Roaming uit | Schakel Data Roaming in voor die lijn |
-| **"Uw eSIM wordt niet ondersteund"** | Verouderde iOS of incompatibel profiel | Update naar iOS 16+; neem contact op met provider |
-| **"Geen SIM" na activering** | Beschadigd profiel | Verwijder en herinstalleer |
-| **QR zegt "Ongeldig"** | QR verlopen of al gebruikt | Vraag een nieuwe QR aan bij provider |
-| **"Zoeken" gedurende lange tijd** | Buiten dekking | Handmatige netwerkselectie (Instellingen > Mobiel netwerk > [abonnement] > Netwerkselectie) |
-| **Andere lijn valt weg tijdens een gesprek** | Normaal dual-standby gedrag | Niets op te lossen — slechts één lijn houdt tegelijk een spraakverbinding |
+| **Geïnstalleerd maar geen data** | Dataroaming uit | Zet Dataroaming aan voor die lijn |
+| **"Je eSIM wordt niet ondersteund"** | Verouderde iOS of incompatibel profiel | Update naar iOS 16+; neem contact op met de provider |
+| **"Geen SIM" na activering** | Beschadigd profiel | Verwijder en installeer opnieuw |
+| **QR zegt "Ongeldig"** | QR verlopen of al gebruikt | Vraag een nieuwe QR aan bij de provider |
+| **Lang "Zoeken"** | Buiten dekking | Handmatige netwerkselectie (Instellingen > Mobiel netwerk > [abonnement] > Netwerkselectie) |
+| **Andere lijn valt weg tijdens een oproep** | Normaal dual-standby-gedrag | Niets te repareren — maar één lijn houdt tegelijk een spraakverbinding vast |
 
-Voor oplossingen op foutcodeniveau, zie de [eSIM Diepgaande Probleemoplossingsgids 2026](/faq/esim-deep-troubleshooting-guide-2026/).
+Voor oplossingen op foutcodeniveau, zie de [eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
-## Veelgestelde Vragen
+## Veelgestelde vragen
 
 **Is de iPhone XR eSIM-compatibel met elke provider?**
-Ja — elke provider die eSIM aanbiedt (postpaid, prepaid of reis) werkt op een globale, ontgrendelde XR. Providerdekking in het algemeen staat op onze [compatibiliteitslijst](/compatibility/).
+Ja — elke provider die eSIM aanbiedt (postpaid, prepaid of reis) werkt op een wereldwijde, ontgrendelde XR. De volledige providerdekking staat op onze [compatibiliteitslijst](/compatibility/).
 
 **Ondersteunt de iPhone XR 5G op eSIM?**
-Nee. De XR is alleen 4G LTE, op zowel zijn fysieke SIM als zijn eSIM. eSIM werkt prima op LTE; u zult alleen geen 5G-snelheden zien.
+Nee. De XR is alleen 4G LTE, op zowel zijn fysieke SIM als zijn eSIM. eSIM werkt prima op LTE; je ziet alleen geen 5G-snelheden.
 
 **Kan ik eSIM en een fysieke SIM tegelijk gebruiken op de XR?**
-Ja — één actieve eSIM plus één actieve fysieke SIM, een echte dual-SIM dual-standby installatie. Hoe de instellingen werken wordt behandeld in de [iPhone eSIM-compatibiliteitshub](/faq/iphone-11-esim-compatible/).
+Ja — één actieve eSIM plus één actieve fysieke SIM, een echte dual-SIM-dual-standby-opstelling. Hoe de instellingen werken, wordt behandeld in de [iPhone eSIM-compatibiliteitshub](/faq/iphone-11-esim-compatible/).
 
 **Hoeveel eSIM-profielen kan een iPhone XR opslaan?**
-Het kan ongeveer vijf tot acht opgeslagen profielen bevatten, maar slechts één eSIM kan tegelijk actief zijn naast de fysieke SIM.
+Hij kan ruwweg vijf tot acht profielen opslaan, maar er kan maar één eSIM tegelijk actief zijn naast de fysieke SIM.
 
-**Kan ik twee eSIMs tegelijk gebruiken op de XR?**
-Nee — dual eSIM (twee actieve eSIMs) begon met de iPhone 13. De XR topt bij één eSIM plus één fysieke SIM.
+**Kan ik twee eSIM's tegelijk gebruiken op de XR?**
+Nee — dual eSIM (twee actieve eSIM's) begon met de iPhone 13. De XR stopt bij één eSIM plus één fysieke SIM.
 
 **Wat is de goedkoopste iPhone met eSIM?**
-Een gebruikte iPhone XR voor ongeveer $100-150. De iPhone SE 3e gen is de goedkoopste *nieuwe* eSIM-iPhone.
+Een tweedehands iPhone XR voor ongeveer $100–150. De iPhone SE 3e generatie is de goedkoopste *nieuwe* eSIM-iPhone.
 
-**Hoe controleer ik of mijn XR provider-locked is?**
-Instellingen > Algemeen > Over > Provider-lock. "Geen SIM-beperkingen" = ontgrendeld. Een providernaam = vergrendeld; neem contact op met die provider om een ontgrendeling aan te vragen.
+**Hoe controleer ik of mijn XR gecarrierevergrendeld is?**
+Instellingen > Algemeen > Info > Simlock. "Geen SIM-beperkingen" = ontgrendeld. Een providernaam = vergrendeld; neem contact op met die provider om een ontgrendeling aan te vragen.
 
-**Waarom zegt mijn XR "Geen Service" op één lijn tijdens een gesprek?**
-Dat is normaal dual-standby gedrag. De XR houdt één spraakverbinding tegelijk; de andere lijn maakt opnieuw verbinding wanneer het gesprek eindigt.
+**Waarom zegt mijn XR "Geen service" op één lijn tijdens een oproep?**
+Dat is normaal dual-standby-gedrag. De XR houdt één spraakverbinding tegelijk vast; de andere lijn verbindt opnieuw wanneer het gesprek eindigt.
 
-**Heeft de iPhone XR een fysieke SIM-lade?**
-Ja — in tegenstelling tot Amerikaanse iPhone 14 en later, behoudt de XR een nano-SIM-lade naast zijn eSIM.
+**Heeft de iPhone XR een fysieke SIM-sleuf?**
+Ja — in tegenstelling tot de Amerikaanse iPhone 14 en later, behoudt de XR een nano-SIM-sleuf naast zijn eSIM.
 
 **Heeft een iPhone XR gekocht in China eSIM?**
-Nee. China-markt XRs (A2107/A2108/A2109, of CH/A) hebben dual fysieke SIMs en geen eSIM-chip. Dit kan niet worden gewijzigd.
+Nee. XRs voor de Chinese markt (A2107/A2108/A2109, of CH/A) hebben dual fysieke SIM's en geen eSIM-chip. Dit is niet te veranderen.
 
-**Kan ik eSIM op de XR activeren op dezelfde manier als een nieuwere iPhone?**
-Ja — de installatieflow is identiek. Volledige stap-voor-stap activering staat in onze [iPhone eSIM-activeringsgids](/faq/how-to-activate-esim-on-iphone/), en APN-waarden staan in de [probleemoplossingsgids](/faq/esim-deep-troubleshooting-guide-2026/).
+**Kan ik eSIM op de XR op dezelfde manier activeren als op een nieuwere iPhone?**
+Ja — het installatieproces is identiek. De volledige stapsgewijze activering staat in onze [iPhone eSIM-activeringsgids](/faq/how-to-activate-esim-on-iphone/), en APN-waarden staan in de [gids voor probleemoplossing](/faq/esim-deep-troubleshooting-guide-2026/).
 
 **Krijgt de iPhone XR iOS 19?**
-Nee. Apple verwijderde de XR, XS en XS Max uit iOS 19 in 2025; de laatste grote OS van de XR is iOS 18. Het werkt nog steeds voor eSIM en blijft beveiligingspatches ontvangen.
+Nee. Apple liet de XR, XS en XS Max in 2025 vallen uit iOS 19; het laatste grote OS van de XR is iOS 18. Hij werkt nog steeds voor eSIM en krijgt doorlopend beveiligingspatches.
 
-**Is de XR in 2026 nog steeds het kopen waard voor eSIM?**
-Ja, als een budget-reistelefoon. Voor $100-150 is het de goedkoopste betrouwbare eSIM-iPhone. Controleer gewoon eerst de EID, provider-lock en batterijconditie — en weet dat u een 4G, iOS-18 telefoon koopt.
+**Is de XR in 2026 nog de moeite waard voor eSIM?**
+Ja, als budget-reistentelefoon. Voor $100–150 is hij de goedkoopste betrouwbare eSIM-iPhone. Controleer alleen eerst de EID, de simlock en de batterijconditie — en weet dat je een 4G-, iOS-18-telefoon koopt.
 
 **Werkt een 5G eSIM-abonnement op de XR?**
-Ja, maar alleen op 4G LTE-snelheden. De XR installeert elk eSIM-abonnement; het kan alleen geen verbinding maken met 5G. Een "5G"-abonnement werkt prima op de XR — het is gewoon onnodig.
+Ja, maar alleen op 4G LTE-snelheden. De XR installeert elk eSIM-abonnement; hij kan alleen geen verbinding maken met 5G. Een "5G"-abonnement werkt prima op de XR — het is gewoon onnodig.
 
-**Kan de XR koppelen met een cellular Apple Watch met eSIM?**
-Ja. De XR kan koppelen met een cellular Apple Watch, die zijn eigen aparte eSIM gebruikt. Horloge-installatie en limieten worden behandeld in de [iPad & Apple Watch eSIM-gids](/faq/ipad-apple-watch-esim-support-guide/).
+**Kan de XR koppelen met een cellular Apple Watch via eSIM?**
+Ja. De XR kan een cellular Apple Watch koppelen, die zijn eigen aparte eSIM gebruikt. Watch-instellingen en -limieten worden behandeld in de [iPad & Apple Watch eSIM-gids](/faq/ipad-apple-watch-esim-support-guide/).
 
-👉 **Reist u met een XR?** Zie [eSIM voor de VS](/united-states-esim/) of [eSIM voor Europa](/europe-esim/).
+👉 **Reizen met een XR?** Zie [eSIM voor de VS](/united-states-esim/) of [eSIM voor Europa](/europe-esim/).
 
-## Nog Steeds Onzeker? Probeer een Gratis eSIM
+## Probeer een gratis eSIM
 
 De snelste manier om de eSIM van een XR te bevestigen is het installeren van een **gratis proef-eSIM**. Het kost niets, duurt twee minuten, en als het installeert, is de telefoon 100% klaar.
 
-👉 [**Haal nu uw gratis eSIM**](/free-esim/) — werkt op iPhone XR (behalve China-modellen).
+👉 [**Claim nu je gratis eSIM**](/free-esim/) — werkt op de iPhone XR (behalve China-modellen).
 
 ---
 
-*Gebaseerd op Apple officiële documentatie, GSMA-normen en providerinformatie per augustus 2026.*
+*Gebaseerd op officiële Apple-documentatie, GSMA-standaarden en providerinformatie per september 2026.*
 ## Bronnen
 
-- [GSMA — eSIM (SGP.22) specificatie](https://www.gsma.com/esim/)
-- [Apple Support — eSIM op iPhone](https://support.apple.com/en-us/108072)
+- [GSMA — eSIM (SGP.22)-specificatie](https://www.gsma.com/esim/)
+- [Apple Support — Stel eSIM in op iPhone](https://support.apple.com/en-us/HT212780)
 - [Apple Support — Over eSIM op iPhone](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Gebruik dual SIM met een eSIM](https://support.apple.com/en-us/HT209086)

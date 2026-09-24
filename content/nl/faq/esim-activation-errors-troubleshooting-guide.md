@@ -1,12 +1,13 @@
 ---
-title: "eSIM werkt niet? Los compatibiliteitsfouten op"
-h1_title: "Hoe je eSIM werkt niet oplost: Compatibiliteitsfouten in 2026"
-description: "Vastgelopen met eSIM-fouten? Leer activeringsfouten, overdrachtsproblemen en boot-loops op iPhone & Android op te lossen. Diagnosticeer je telefoon in 2 minuten."
-image: "/img/esim/esim-troubleshooting-guide.jpg"
-keywords: ["esim werkt niet", "esim niet ondersteund", "esim niet compatibel iphone", "kan esim niet activeren", "esim netwerk niet beschikbaar", "esim wordt niet overgedragen naar nieuwe iphone", "esim per ongeluk verwijderd", "esim profiel verlopen", "esim qr-code ongeldig", "hoe esim op iphone repareren", "esim overdrachtsfout", "esim geen service"]
-date: 2026-09-16T10:00:00Z
-lastmod: 2026-09-16T00:00:00Z
-tags: ["eSIM", "Probleemoplossing", "Activeringsfouten", "iPhone", "Android"]
+title: "eSIM werkt niet? Los compatibiliteitsfouten op in 2026"
+h1_title: "Hoe los je eSIM die niet werkt op: compatibiliteitsfouten in 2026"
+description: "Vastgelopen met eSIM-fouten? Leer hoe je activeringsstoringen, overdrachtsproblemen en bootloops oplost op iPhone & Android. Diagnoseer je telefoon in 2 minuten."
+image: "/img/faq/esim-activation-errors.webp"
+image-1: "/img/faq/esim-activation-errors-1.jpg"
+keywords: ["esim werkt niet", "esim niet ondersteund", "esim niet compatibel iphone", "kan esim niet activeren", "esim netwerk niet beschikbaar", "esim niet overzetten naar nieuwe iphone", "per ongeluk esim verwijderd", "esim profiel verlopen", "esim qr code ongeldig", "hoe esim op iphone te fixen", "esim overdrachtsfout", "esim geen service"]
+date: 2026-09-20T00:00:00Z
+lastmod: 2026-09-20T00:00:00Z
+tags: ["eSIM", "Troubleshooting", "Activation Errors", "iPhone", "Android"]
 toc: true
 
 # Site & SEO
@@ -27,12 +28,12 @@ breadcrumbs:
     text: "Helpcentrum"
     url: "/faq/"
 
-# Sidebar: Populaire eSIMs
+# Sidebar: Popular eSIMs
 sidebar_popular:
-  title: "Populaire eSIMs"
+  title: "Populaire eSIM's"
   item_suffix: "eSIM"
   items:
-    - name: "VS eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -91,341 +92,343 @@ sidebar_questions:
       url: "/faq/how-to-activate-an-esim/"
     - question: "Hoe activeer je eSIM op iPhone (alle modellen)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Nieuwste eSIM-compatibiliteitslijst"
+    - question: "Actueelste eSIM-compatibiliteitslijst"
       url: "/compatibility/"
 ---
 
 
-> **Redactienoot:** Roami verwerkt elke maand duizenden "mijn eSIM werkt niet"-tickets, en een groot deel blijkt een telefoonprobleem te zijn, niet een abonnementsprobleem. Deze gids beantwoordt de vraag die je vóór alles zou moeten stellen: *is mijn telefoon überhaupt in staat om een eSIM te gebruiken?* We leiden je door de hardwarecheck van 2 minuten, uitzonderingen voor China/Hongkong-modellen en providerlocks — zodat je geen uur verspilt aan activeringsstappen die nooit op jouw apparaat kunnen werken.
+> **Redactionele noot:** Een groot deel van de klachten "mijn eSIM werkt niet" blijkt een telefoonprobleem, geen abonnementsprobleem. Deze gids beantwoordt de vraag die je vóór alles moet stellen: *is mijn telefoon überhaupt geschikt voor een eSIM?* We leiden je door de 2-minuten hardwarecheck, China/Hongkong-modeluitzonderingen en carrier-locks — zodat je geen uur verspilt aan activeringsstappen die nooit kunnen werken op je apparaat.
 
-> **Zoek je een foutcode-oplossing?** Als je telefoon de onderstaande hardwarecheck doorstaat maar je staart naar een specifiek bericht ("Activering mislukt", "Geen Service", "QR ongeldig", herstelfout 4013/4014), is dat een ander probleem. Ga naar onze [eSIM Diepgaande Probleemoplossingsgids](/faq/esim-deep-troubleshooting-guide-2026/) voor de fout-per-fout referentie.
+> **Op zoek naar een foutcode-oplossing?** Als je telefoon de hardwarecheck hieronder doorstaat maar je kijkt naar een specifieke melding ("Activation failed", "No Service", "QR invalid", herstelfout 4013/4014), is dat een ander probleem. Ga naar onze [eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/) voor de fout-voor-fout naslag.
 
-## Begin hier: de 2-minuten "Is mijn telefoon überhaupt in staat?"-check
+## Is mijn telefoon überhaupt geschikt voor eSIM?
 
-Voordat je Instellingen opent, een QR-code scant of contact opneemt met support, bevestig dat je telefoon daadwerkelijk de vereiste embedded-SIM hardware heeft. Deze ene check sluit ongeveer de helft van alle "eSIM werkt niet"-gevallen onmiddellijk uit.
+Voordat je Settings opent, een enkele QR code scant of contact opneemt met support, bevestig dat je telefoon daadwerkelijk de vereiste embedded-SIM-hardware heeft. Deze ene controle sluit direct ongeveer de helft van alle "eSIM werkt niet"-gevallen uit.
 
-### De universele EID-check (werkt op elke telefoon)
+### De universele EID-check
 
-Open de kiezer van je telefoon en typ:
+Open de belapp van je telefoon en toets:
 
 > **`*#06#`**
 
-- Als een scherm verschijnt met een **32-cijferige EID** (eUICC Identifier), heeft je telefoon de embedded chip die nodig is voor digitale SIM-activering. ✅
-- Als het scherm alleen **IMEI**-nummers toont en geen EID, is de hardware er niet. ❌
+- Verschijnt er een scherm met een **32-cijferige EID** (eUICC Identifier), dan heeft je telefoon de ingebouwde chip die nodig is voor digitale SIM-activering. ✅
+- Toont het scherm alleen **IMEI**-nummers en geen EID, dan is de hardware er niet. ❌
 
-**Wat te doen als er geen EID verschijnt:** Stop hier. Geen software-update, hack of "forceer"-methode kan de ontbrekende chip toevoegen — het is een fysieke hardware-afwezigheid. Gebruik in plaats daarvan een fysieke SIM, of bekijk Oplossing #4 voor telefoons die *lijken* op eSIM-ondersteuning maar het niet hebben.
+**Wat te doen als er geen EID verschijnt:** Stop hier. Geen enkele software-update, hack of "force"-methode kan de ontbrekende chip toevoegen — het is een fysieke afwezigheid van hardware. Gebruik een fysieke SIM, of bekijk oplossing #4 voor telefoons die *lijken* alsof ze eSIM zouden moeten ondersteunen maar dat niet doen.
 
-### EID vs IMEI vs ICCID – Wat elk nummer betekent
+### EID vs IMEI vs ICCID uitgelegd
 
-| Identificatie | Wat het is | Wat het je vertelt |
+| Identifier | Wat het is | Wat het je vertelt |
 | :--- | :--- | :--- |
 | **IMEI** | International Mobile Equipment Identity (15 cijfers) | Identificeert je telefoonmodel — elke telefoon heeft er een |
-| **EID** | eUICC Identifier (32 cijfers) | Bevestigt dat de embedded-SIM chip aanwezig is — alleen eSIM-capabele telefoons hebben er een |
+| **EID** | eUICC Identifier (32 cijfers) | Bevestigt dat de embedded-SIM-chip aanwezig is — alleen eSIM-geschikte telefoons hebben er een |
 | **ICCID** | Integrated Circuit Card Identifier (19–20 cijfers) | Identificeert een specifiek eSIM-profiel nadat het is geïnstalleerd |
 
-> **Belangrijk inzicht:** EID = hardware aanwezig. Als je een EID ziet, is je telefoon fysiek in staat tot eSIM. Als je die niet ziet, verandert niets wat je installeert dat.
+> **Kerninzicht:** EID = hardware aanwezig. Zie je een EID, dan is je telefoon fysiek geschikt voor eSIM. Zie je er geen, dan verandert niets wat je installeert dat.
 
-### Waar je elk nummer vindt (snelle routes)
+### Waar vind je elk nummer
 
-Alle drie nummers liggen in het zicht zodra je het menu kent. Hier is de kortste route naar elk:
+Alle drie de nummers zitten in het zicht zodra je het menu kent. Hier is de kortste route naar elk:
 
-| Identificatie | Snelste manier | Back-uplocatie |
+| Identifier | Snelste weg | Back-uplocatie |
 | :--- | :--- | :--- |
-| **IMEI (15 cijfers)** | Bel `*#06#` — het is het eerste nummer dat wordt getoond | iPhone: **Instellingen > Algemeen > Over**. Android: **Instellingen > Over telefoon** |
-| **EID (32 cijfers)** | Bel `*#06#` en scroll — het is het lange dat begint met **8904** | iPhone: **Instellingen > Algemeen > Over > EID**. Samsung: **Instellingen > Over telefoon > Status** |
-| **ICCID (19–20 cijfers)** | Verschijnt alleen nadat een profiel is geïnstalleerd | iPhone: **Instellingen > Algemeen > Over**. Android: **Instellingen > Over telefoon > SIM-kaartstatus** |
+| **IMEI (15 cijfers)** | Toets `*#06#` — het is het eerste getoonde nummer | iPhone: **Settings > General > About**. Android: **Settings > About phone** |
+| **EID (32 cijfers)** | Toets `*#06#` en scroll — het is het lange nummer dat begint met **8904** | iPhone: **Settings > General > About > EID**. Samsung: **Settings > About phone > Status** |
+| **ICCID (19–20 cijfers)** | Verschijnt pas nadat een profiel is geïnstalleerd | iPhone: **Settings > General > About**. Android: **Settings > About phone > SIM card status** |
 
-> **Handig weetje:** elke EID begint met **"8904"** — dat voorvoegsel markeert het als een eUICC-identificatie. Als het lange nummer op het scherm met iets anders begint, lees je de verkeerde waarde.
+> **Handig weetje:** elke EID begint met **"8904"** — dat prefix markeert hem als eUICC-identifier. Begint het lange nummer op het scherm met iets anders, dan lees je de verkeerde waarde.
 
-### De "eSIM toevoegen"-knoptest (iPhone)
+### De Add eSIM-knop test
 
-Als `*#06#` een EID toont maar je ziet nog steeds "eSIM niet ondersteund", open **Instellingen > Mobiel netwerk** en zoek naar **"eSIM toevoegen"** of **"Mobiel abonnement toevoegen"**. Als de optie er is maar faalt wanneer je scant, heb je hoogstwaarschijnlijk te maken met een **providerlock** of een **regiobeperking** — beide hieronder behandeld.
+Toont `*#06#` een EID maar je ziet nog steeds "eSIM not supported", open dan **Settings > Cellular** en zoek naar **"Add eSIM"** of **"Add Cellular Plan"**. Staat de optie er maar mislukt hij bij het scannen, dan heb je hoogstwaarschijnlijk te maken met een **carrier lock** of een **regiobeperking** — beide hieronder behandeld.
 
-### De Instellingen-zoekmethode (iPhone & Android)
+### De Settings-zoekmethode
 
-Geen kiezer bij de hand (sommige tablets en foldables begraven die), of gaf `*#06#` je een verwarrend scherm? De zoekbalk van je telefoon is de op één na snelste check.
+Geen belapp bij de hand (sommige tablets en klaptelefoons verbergen hem), of gaf `*#06#` een verwarrend scherm? De eigen zoekbalk van je telefoon is de op één na snelste controle.
 
-- **iPhone:** Open **Instellingen**, veeg vanaf de bovenkant van de lijst naar beneden om het zoekvak te tonen, en typ **"eSIM"**. Een resultaat van **"eSIM toevoegen"** of **"Mobiel abonnement toevoegen"** betekent dat de functie actief is.
-- **Samsung:** Open **Instellingen**, tik op het **vergrootglas-pictogram** bovenaan en typ **"eSIM"**. Als **"SIM-kaartbeheer"** (of "Mobiel abonnement toevoegen") opduikt, heeft jouw variant de chip.
-- **Pixel:** Open **Instellingen > Netwerk & internet > SIM's**. Als je **"Een SIM downloaden in plaats daarvan?"** ziet, ben je goed. Een scherm dat alleen je fysieke SIM vermeldt — zonder downloadoptie — betekent geen eUICC-chip.
+- **iPhone:** Open **Settings**, swipe omlaag vanaf de bovenkant van de lijst om het zoekvak te tonen, en typ **"eSIM"**. Een resultaat van **"Add eSIM"** of **"Add Cellular Plan"** betekent dat de functie actief is.
+- **Samsung:** Open **Settings**, tik op het **vergrootglas-icoon** bovenaan en typ **"eSIM"**. Verschijnt **"SIM Card Manager"** (of "Add mobile plan"), dan heeft jouw variant de chip.
+- **Pixel:** Open **Settings > Network & internet > SIMs**. Zie je **"Download a SIM instead?"**, dan zit je goed. Een scherm dat alleen je fysieke SIM toont — zonder downloadoptie — betekent geen eUICC-chip.
 
-> **Geen zoekresultaat = geen hardware.** Als een telefoon die na ongeveer 2018 is verkocht niets retourneert voor "eSIM" in Instellingen-zoeken, heb je bijna zeker een regio- of budgetvariant die zonder de chip is geleverd.
+> **Geen zoekresultaat = geen hardware.** Geeft een telefoon die na ongeveer 2018 is verkocht niets terug op "eSIM" in Settings-zoeken, dan houd je vrijwel zeker een regio- of budgetvariant vast die zonder de chip is verscheept.
 
-### De modelnummer-opzoeking (snelste bevestiging)
+### Het modelnummer opzoeken
 
-Koop je tweedehands, of controleer je een telefoon die je niet kunt aanzetten? Het modelnummer beslecht het in seconden.
+Gebruikt kopen, of een telefoon controleren die je niet aan kunt zetten? Het modelnummer beslist het in seconden.
 
-- **iPhone:** **Instellingen > Algemeen > Over > Modelnummer**, tik dan op het nummer om het naar de **A-voorvoegsel identificatie** te schakelen (bijv. **A2111**). De letters vóór **/A** in het onderdeelnummer coderen de verkoopregio — de volledige suffixkaart staat in Sectie 2.
-- **Samsung:** **Instellingen > Over telefoon > Modelnummer** (bijv. **SM-S921U1**). Het laatste teken is de verklikker: **U** = VS-provider, **U1** = VS unlocked, **B** = Europa/globaal, **0** = China/Hongkong (Snapdragon).
-- **Pixel:** **Instellingen > Over telefoon > Model**. Pixel-modelstrings verschillen per regio en provider — Japan en sommige VS-provider varianten beperken eSIM, dus kruiscontroleer de specifieke code of bel `*#06#`.
+- **iPhone:** **Settings > General > About > Model Number**, tik daarna op het nummer om het om te schakelen naar de **met A-beginnende identifier** (bijv. **A2111**). De letters vóór **/A** in het partnummer coderen de verkoopregio — de volledige suffixkaart staat in Sectie 2.
+- **Samsung:** **Settings > About phone > Model number** (bijv. **SM-S921U1**). Het laatste teken is de giveaway: **U** = VS-carrier, **U1** = VS simlockvrij, **B** = Europa/globaal, **0** = China/Hongkong (Snapdragon).
+- **Pixel:** **Settings > About phone > Model**. Pixel-modelstrings verschillen per regio en carrier — Japan en sommige VS-carriervarianten beperken eSIM, dus check de specifieke code of toets `*#06#`.
 
-> **Vuistregel:** als het modelnummer eindigt op een China/regio-suffix (of een VS-provider suffix op een Samsung), verifieer met `*#06#` voordat je aanneemt dat eSIM werkt. Modelnummer plus EID samen geven je een 100% antwoord.
+> **Vuistregel:** eindigt het modelnummer op een China-/regiosuffix (of een VS-carriersuffix bij Samsung), verifieer dan met `*#06#` voordat je aanneemt dat eSIM werkt. Modelnummer plus EID samen geven je een 100% antwoord.
 
-### Waarom een telefoon EID kan tonen maar toch eSIM weigert
+### Waarom een telefoon een EID kan tonen maar eSIM toch weigert
 
-| Scenario | EID aanwezig? | eSIM werkt? | Waarom? |
+| Scenario | EID aanwezig? | Werkt eSIM? | Waarom? |
 | :--- | :--- | :--- | :--- |
 | iPhone XS/XR en nieuwer (globaal) | ✅ Ja | ✅ Ja | Volledige ondersteuning voor digitale SIM-profielen |
 | iPhone XS/XR (China-model) | ❌ Nee | ❌ Nee | Hardware verwijderd voor dubbele fysieke SIM |
-| Samsung S20 FE (VS-provider) | ✅ Ja | ❌ Nee | Provider heeft de functie in software uitgeschakeld |
-| Google Pixel 4a (Japan) | ✅ Ja | ❌ Nee | Provider heeft de functionaliteit buitengesloten |
-| Provider-locked iPhone (AT&T/T-Mobile) | ✅ Ja | ❌ Nee (voor andere providers) | Netwerk lock blokkeert profielen van andere providers |
-| Unlocked iPhone (elke regio) | ✅ Ja | ✅ Ja | Volledige ondersteuning |
+| Samsung S20 FE (VS-carrier) | ✅ Ja | ❌ Nee | Carrier heeft de functie in software uitgeschakeld |
+| Google Pixel 4a (Japan) | ✅ Ja | ❌ Nee | Carrier heeft de functionaliteit geblokkeerd |
+| Carrier-gelockte iPhone (AT&T/T-Mobile) | ✅ Ja | ❌ Nee (voor andere carriers) | Netwerklock blokkeert profielen van andere aanbieders |
+| Simlockvrije iPhone (elke regio) | ✅ Ja | ✅ Ja | Volledige ondersteuning |
 
 
-## 1. "eSIM niet ondersteund" / "Niet compatibel" op iPhone
+## eSIM niet ondersteund of niet compatibel op iPhone
 
-Als je **"eSIM niet ondersteund"**, **"deze eSIM is niet compatibel met deze iPhone"**, of simpelweg **"eSIM niet compatibel iPhone"** ziet, is de oorzaak bijna altijd een van vijf dingen — en elk gaat over je *apparaat*, niet over het abonnement.
+Zie je **"eSIM not supported"**, **"this eSIM is not compatible with this iPhone"**, of simpelweg **"eSIM not compatible iPhone"**, dan is de oorzaak bijna altijd een van vijf dingen — en elk gaat over je *apparaat*, niet het abonnement.
 
-### A. Je iPhone-model is ouder dan eSIM-hardware
+### Je iPhone-model is ouder dan eSIM-hardware
 
-Alleen iPhones vanaf de **XR, XS, XS Max (2018) en nieuwer** hebben de embedded chip. De iPhone 8, 8 Plus en iPhone X niet, dus die retourneren **"eSIM niet ondersteund"** wat je ook probeert. De eUICC-chip is simpelweg niet aanwezig op die borden — dit is een hardwarebeperking, geen instellingsprobleem.
+Alleen iPhones vanaf de **XR, XS, XS Max (2018) en nieuwer** hebben de ingebouwde chip. De iPhone 8, 8 Plus en iPhone X niet, dus die geven **"eSIM not supported"** terug wat je ook probeert. De eUICC-chip is simpelweg niet aanwezig op die borden — dit is een hardwarebeperking, geen instellingenprobleem.
 
-**Snelle check:** Bel `*#06#`. Een 32-cijferige EID betekent dat je goed zit; alleen IMEI betekent dat je dat niet bent.
+**Snelle controle:** Toets `*#06#`. Een 32-cijferige EID betekent dat je goed zit; alleen IMEI betekent dat je niet goed zit.
 
-**Wat te doen:** Gebruik een fysieke SIM, of upgrade naar een iPhone XR of nieuwer. De officiële lijst staat op [Apple Support — eSIM op iPhone](https://support.apple.com/en-us/118670).
+**Wat te doen:** Gebruik een fysieke SIM, of upgrade naar een iPhone XR of nieuwer. De officiële lijst staat op [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/118670).
 
-### B. Je iPhone is een vasteland-China model
+### Je iPhone is een vasteland-China model
 
-iPhones die in het vasteland van China worden verkocht, worden geleverd met **twee fysieke SIM-sleuven en geen eSIM-hardware**. Chinese regelgeving duwt binnenlandse smartphones naar dubbele fysieke SIM, dus Apple verwijderde de embedded chip op deze eenheden. Zelfs als de optie "Mobiel abonnement toevoegen" verschijnt, wordt deze niet voltooid — dit is de meest voorkomende reden voor "eSIM niet compatibel met deze iPhone" onder kopers die hun apparaat in China of via bepaalde verkopers hebben gekocht.
+In vasteland-China verkochte iPhones worden geleverd met **twee fysieke SIM-sleuven en geen eSIM-hardware**. Chinese regelgeving duwt binnenlandse smartphones richting dubbele fysieke SIM, dus Apple heeft de ingebouwde chip op deze toestellen verwijderd. Zelfs als de optie "Add Cellular Plan" verschijnt, wordt hij niet voltooid — dit is de allerbelangrijkste reden voor "eSIM not compatible with this iPhone" bij kopers die hun apparaat in China of via bepaalde wederverkopers hebben gekocht.
 
-**Hoe te identificeren:** **Instellingen > Algemeen > Over > Modelnummer**. Als het eindigt op **"CH/A"**, is het een vasteland-China model. (Volledige suffix-tabel in Sectie 2 hieronder.)
+**Hoe te herkennen:** **Settings > General > About > Model Number**. Eindigt hij op **"CH/A"**, dan is het een vasteland-China model. (Volledige suffixtabel in Sectie 2 hieronder.)
 
-**Wat te doen:** Er is geen manier om eSIM in te schakelen op een CH/A-apparaat. Gebruik een fysieke reis-SIM, of verkoop de telefoon en koop een wereldwijde versie.
+**Wat te doen:** Er is geen manier om eSIM op een CH/A-apparaat in te schakelen. Gebruik een fysieke travel SIM, of verkoop de telefoon en koop een globale versie.
 
-### C. Je iPhone is provider-locked
+### Je iPhone heeft een carrier-lock
 
-Sommige providers — vooral Amerikaanse — vergrendelen iPhones aan hun eigen netwerk. Proberen een profiel van een andere aanbieder te activeren (zoals een reis-eSIM) retourneert dan "eSIM niet ondersteund" of een "provider ondersteunt niet"-bericht. Merk op dat sommige providers alleen de fysieke SIM-sleuf vergrendelen terwijl de eSIM-sleuf open blijft, maar velen vergrendelen beide.
+Sommige carriers — vooral Amerikaanse — locken iPhones op hun eigen netwerk. Het activeren van een profiel van een andere aanbieder (zoals een travel eSIM) geeft dan "eSIM not supported" of een "carrier does not support"-melding. Let op: sommige carriers locken alleen de fysieke SIM-sleuf en laten de eSIM-sleuf open, maar velen locken beide.
 
-**Hoe te controleren:** **Instellingen > Algemeen > Over > Providerlock**. Het moet **"Geen SIM-beperkingen"** zeggen. Als het "SIM vergrendeld" zegt, heb je een unlock nodig. Zie Sectie 3 voor de volledige providerlock-uitleg.
+**Hoe te controleren:** **Settings > General > About > Carrier Lock**. Hij zou **"No SIM restrictions"** moeten zeggen. Staat er "SIM locked", dan heb je een ontgrendeling nodig. Zie Sectie 3 voor de volledige carrier-lock-uitleg.
 
-### D. Verouderde iOS-versie
+### Je iOS-versie is verouderd
 
-Digitale SIM-ondersteuning is sterk verbeterd in iOS 16 en later. Op iOS 12 of 13 zullen sommige moderne providerprofielen simpelweg niet installeren.
+Digitale SIM-ondersteuning verbeterde sterk in iOS 16 en later. Op iOS 12 of 13 worden sommige moderne carrier-profielen simpelweg niet geïnstalleerd.
 
-**Hoe te controleren:** **Instellingen > Algemeen > Software-update**.
+**Hoe te controleren:** **Settings > General > Software Update**.
 
-**Wat te doen:** Werk bij naar de nieuwste iOS, verwijder elk half-geïnstalleerd profiel en scan de QR-code opnieuw.
+**Wat te doen:** Werk bij naar de nieuwste iOS, verwijder een eventueel half-geïnstalleerd profiel en scan de QR code opnieuw.
 
-### E. "Deze iPhone ondersteunt geen eSIM" – op een iPhone 14?
+### Deze iPhone ondersteunt geen eSIM op een iPhone 14
 
-Een iPhone 14 (VS-versie) zou altijd eSIM moeten ondersteunen — het Amerikaanse model heeft helemaal geen fysieke SIM-lade. Als deze toch deze fout retourneert, kijk je naar een zeldzame **eUICC-hardwarestoring**. Neem contact op met Apple Support voor een hardwarediagnose in plaats van instellingen na te jagen.
+Een iPhone 14 (VS-versie) zou altijd eSIM moeten ondersteunen — het Amerikaanse model heeft helemaal geen fysieke SIM-sleuf. Geeft hij desondanks deze fout, dan kijk je naar een zeldzame **eUICC-hardwarestoring**. Neem contact op met Apple Support voor een hardware-diagnose in plaats van instellingen achterna te zitten.
 
-Voor de volledige model-per-model iPhone-lijst, zie onze [iPhone eSIM-compatibiliteitsgids](/faq/iphone-11-esim-compatible/). Voor Samsung, zie de [Samsung Galaxy eSIM-gids](/faq/samsung-s20-esim-compatible/), en voor Pixel de [Google Pixel eSIM-gids](/faq/google-pixel-6-esim-compatible/).
+Voor de volledige model-voor-model iPhone-lijst, zie onze [iPhone eSIM-compatibiliteitsgids](/faq/iphone-11-esim-compatible/).
+
+Samsung-eigenaren moeten de [Samsung Galaxy eSIM-gids](/faq/samsung-s20-esim-compatible/) checken, en Pixel-eigenaren de [Google Pixel eSIM-gids](/faq/google-pixel-6-esim-compatible/).
 
 
-## "eSIM niet ondersteund" – Hardware vs Software vs Provider
+### eSIM niet ondersteund: hardware, software of carrier
 
-Elk "eSIM niet ondersteund"-geval — op elke telefoon, elke provider — valt in een van drie emmers. De emmer benoemen vertelt je onmiddellijk of het probleem oplosbaar is.
+Elk "eSIM not supported"-geval — op elke telefoon, elke carrier — valt in een van drie categorieën. De categorie benoemen vertelt je direct of het probleem oplosbaar is.
 
-| Emmer | Hoe het eruitziet | Oplosbaar? | Jouw zet |
+| Categorie | Hoe het eruitziet | Oplosbaar? | Jouw zet |
 | :--- | :--- | :--- | :--- |
-| **Hardware** | Geen EID op `*#06#`; iPhone van vóór 2018; China-model (CH/A); budget-Android zonder eUICC | ❌ Nee | Fysieke SIM, of upgrade de telefoon |
-| **Software** | EID aanwezig, maar de functie is verborgen of het OS is oud (provider-uitgeschakelde Samsung S20 FE, verouderde iOS) | ✅ Meestal | Werk het OS bij, of verwijder de providerbeperking |
-| **Provider** | EID aanwezig, menu zichtbaar, maar activering van een abonnement van een andere aanbieder mislukt | ✅ Ja | Ontgrendel het apparaat (Sectie 3) en scan opnieuw |
+| **Hardware** | Geen EID op `*#06#`; iPhone vóór 2018; China-model (CH/A); budget Android zonder eUICC | ❌ Nee | Fysieke SIM, of upgrade de telefoon |
+| **Software** | EID aanwezig, maar de functie is verborgen of het OS is oud (carrier-uitgeschakelde Samsung S20 FE, verouderde iOS) | ✅ Meestal | Werk het OS bij, of verwijder de carrierbeperking |
+| **Carrier** | EID aanwezig, menu zichtbaar, maar activering van het abonnement van een andere aanbieder mislukt | ✅ Ja | Ontgrendel het apparaat (Sectie 3), scan dan opnieuw |
 
-**De 30-seconden routingtest:** bel `*#06#`.
+**De 30-seconden routeringstest:** toets `*#06#`.
 - **Geen EID** → hardware. Stop hier — niets wat je installeert verandert dat.
-- **EID aanwezig, maar de "eSIM toevoegen"-flow mislukt** → software of provider. Beide zijn oplosbaar, dus lees verder.
+- **EID aanwezig, maar de "Add eSIM"-stroom mislukt** → software of carrier. Beide zijn oplosbaar, dus blijf lezen.
 
-Dat ene resultaat verwijst je naar de juiste oplossing voor ongeveer 9 van de 10 "niet ondersteund"-meldingen die we bij Roami zien.
+Dat ene resultaat stuurt je naar de juiste oplossing voor ongeveer 9 van de 10 "not supported"-meldingen die we bij Roami zien.
 
 
-## 2. De China / Hongkong / Macau modelgids
+## De China-, Hongkong- en Macau-modelgids
 
-Waar je telefoon werd verkocht bepaalt welke hardware deze heeft. Dit is de snelste manier om een regionale geen-eSIM-situatie in of uit te sluiten.
+Waar je telefoon is verkocht bepaalt welke hardware hij heeft. Dit is de snelste manier om een regionale no-eSIM-situatie uit te sluiten of te bevestigen.
 
-### China model snelreferentie (per modelnummer-suffix)
+### China-model snelle naslag
 
-| Modelnummer eindigt op | Regio | eSIM-ondersteuning |
+| Eindigt modelnummer op | Regio | eSIM-ondersteuning |
 | :--- | :--- | :--- |
-| **CH/A** | Vasteland van China | ❌ Nee (dubbele fysieke SIM) |
+| **CH/A** | Vasteland-China | ❌ Nee (dubbele fysieke SIM) |
 | **HK/A** | Hongkong | ⚠️ Varieert (sommige modellen ondersteunen fysieke + digitale SIM) |
 | **LL/A** | VS | ✅ Ja |
 | **ZA/A** | Canada | ✅ Ja |
-| **J/A** | Japan | ✅ Ja (behalve sommige provider-modellen) |
+| **J/A** | Japan | ✅ Ja (behalve sommige carrier-modellen) |
 | **B/A** | VK/Europa | ✅ Ja |
 | **X/A** | Australië/Nieuw-Zeeland | ✅ Ja |
 
-### Vasteland van China
+### eSIM-status vasteland-China iPhone
 
-- **Alle iPhones die in het vasteland van China worden verkocht** (behalve de iPhone 16-serie) hebben dubbele fysieke SIM en geen eSIM.
-- **Chinese Android-telefoons** — Xiaomi, Oppo, Vivo, Huawei — die binnenlands worden verkocht, missen ook meestal de eSIM-chip.
-- **Als je een internationale telefoon mee naar China neemt:** deze werkt met internationale reis-eSIM's, maar lokale Chinese providers bieden geen eSIM aan toeristen, dus je hebt nog steeds een reisabonnement nodig van een aanbieder zoals Roami.
+- **Alle iPhones verkocht in vasteland-China** (behalve de iPhone 16-serie) hebben dubbele fysieke SIM en geen eSIM.
+- **Chinese Android-telefoons** — Xiaomi, Oppo, Vivo, Huawei — die nationaal worden verkocht, missen doorgaans ook de eSIM-chip.
+- **Als je een internationale telefoon meeneemt naar China:** hij werkt met internationale travel eSIM's, maar lokale Chinese carriers bieden geen eSIM aan toeristen aan, dus je hebt nog steeds een reisabonnement nodig van een aanbieder zoals Roami.
 
-### Hongkong
+### eSIM-status Hongkong iPhone
 
-- **iPhone-modellen:** Hongkong iPhones ondersteunen meestal **eSIM + fysieke SIM** (één van elk) of dubbele fysieke SIM, afhankelijk van het exacte model. Controleer je model-suffix.
-- **Providers:** sommige Hongkong-providers (CMHK, 1010, SmarTone) bieden eSIM aan postpaid-klanten, maar prepaid eSIM is zeldzaam.
-- **Reizigers:** een internationale reis-eSIM is eenvoudiger en betrouwbaarder dan proberen een lokale Hongkong eSIM te verkrijgen.
+- **iPhone-modellen:** Hongkong-iPhones ondersteunen meestal **eSIM + fysieke SIM** (één van elk) of dubbele fysieke SIM, afhankelijk van het exacte model. Controleer je modelsuffix.
+- **Carriers:** sommige Hongkong-carriers (CMHK, 1010, SmarTone) bieden eSIM aan postpaid-klanten aan, maar prepaid eSIM is zeldzaam.
+- **Reizigers:** een internationale travel eSIM is eenvoudiger en betrouwbaarder dan het proberen te bemachtigen van een lokale Hongkong-eSIM.
 
-### Macau
+### eSIM-status Macau iPhone
 
-- **Vergelijkbaar met Hongkong:** de meeste Macau iPhones worden geïmporteerd uit Hongkong en ondersteunen eSIM + fysieke SIM.
-- **CTM** (Macau's belangrijkste provider) biedt eSIM aan postpaid-klanten maar niet aan toeristen.
+- **Vergelijkbaar met Hongkong:** de meeste Macau-iPhones zijn geïmporteerd uit Hongkong en ondersteunen eSIM + fysieke SIM.
+- **CTM** (Macau's grootste carrier) biedt eSIM aan postpaid-klanten aan, maar niet aan toeristen.
 
-### Waarom Chinese modellen eSIM laten vallen (de "waarom" achter de CH/A-regel)
+### Waarom Chinese modellen eSIM schrappen
 
-Het is geen kostenbesparende zet van Apple of de Android-merken — het is regelgeving. Het vasteland van China vereist dat telefoons die daar worden verkocht gecertificeerd zijn voor dubbele fysieke SIM, en een herschrijfbaar eSIM-profiel past niet in dat binnenlandse kader. Het praktische resultaat:
+Het is geen kostenbesparende zet van Apple of de Android-merken — het is regelgeving. Vasteland-China vereist dat daar verkochte telefoons worden gecertificeerd voor dubbele fysieke SIM, en een herschrijfbaar eSIM-profiel past niet in dat binnenlandse raamwerk. Het praktische resultaat:
 
 - **Apple** levert vasteland-China iPhones met **twee fysieke nano-SIM-sleuven** en geen eUICC-chip.
-- **Xiaomi, Oppo, Vivo, Honor en Huawei** strippen eSIM uit hun binnenlandse China-builds, zelfs wanneer de wereldwijde versie van dezelfde telefoon het heeft.
-- **Een China-telefoon die naar het buitenland wordt gebracht kan eSIM nog steeds niet terugkrijgen** — het is een hardware-afwezigheid, geen softwareblokkade. Het omgekeerde is ook waar: een internationale telefoon die China binnenkomt werkt met reis-eSIM's, maar de drie grote Chinese providers (China Mobile, China Unicom, China Telecom) verkopen geen eSIM aan toeristen.
+- **Xiaomi, Oppo, Vivo, Honor en Huawei** schrappen eSIM uit hun nationale China-builds, zelfs wanneer de globale versie van dezelfde telefoon hem heeft.
+- **Een Chinese telefoon die mee het buitenland in gaat, krijgt eSIM nog steeds niet terug** — het is een afwezigheid van hardware, geen softwareblokkade. Het omgekeerde geldt ook: een internationale telefoon die China binnenkomt, werkt met travel eSIM's, maar de grote drie Chinese carriers (China Mobile, China Unicom, China Telecom) verkopen geen eSIM aan toeristen.
 
-**De oplossing:** als je de telefoon in het vasteland van China hebt gekocht, reken op een fysieke reis-SIM — of koop een wereldwijd model. Er is geen unlock, jailbreak of app die de ontbrekende chip toevoegt.
+**De oplossing:** heb je de telefoon in vasteland-China gekocht, reken dan op een fysieke travel SIM — of koop een telefoon met een globaal model. Er is geen unlock, jailbreak of app die de ontbrekende chip toevoegt.
 
-### Je model identificeren via A-nummer (voorbeelden)
+### Je model identificeren via het A-nummer
 
-De onderdeelnummer-suffix (CH/A, LL/A, enzovoort) is het snelle filter, maar het **A-nummer** is de precieze ID. Neem de iPhone 11 als het patroon dat elke generatie volgt:
+Het partnummersuffix (CH/A, LL/A, enzovoort) is de snelle filter, maar het **A-nummer** is de precieze ID. Neem de iPhone 11 als het patroon dat elke generatie volgt:
 
-| iPhone 11-model | Regio | eSIM? |
+| iPhone 11 model | Regio | eSIM? |
 | :--- | :--- | :--- |
 | **A2111** | Verenigde Staten | ✅ Ja |
-| **A2221** | Vasteland van China | ❌ Nee (dubbele fysieke SIM) |
-| **A2223** | Hongkong / Macau | ✅ Ja (eSIM + fysieke) |
+| **A2221** | Vasteland-China | ❌ Nee (dubbele fysieke SIM) |
+| **A2223** | Hongkong / Macau | ✅ Ja (eSIM + fysiek) |
 
-**Hoe het te gebruiken:** vind je A-nummer (**Instellingen > Algemeen > Over > Modelnummer**, tik dan op het nummer om de A-voorvoegsel code te tonen), en vergelijk het met Apple's modellijst. Als een verkoper adverteerde met een "unlocked global eSIM iPhone" maar het A-nummer is een China-code, dan was de advertentie fout — loop weg of reken op een fysieke SIM.
+**Hoe te gebruiken:** vind je A-nummer (**Settings > General > About > Model Number**, tik daarna op het nummer om de met A-beginnende code te tonen) en match het met Apple's modellenlijst. Adverteerde een verkoper met een "simlockvrije globale eSIM iPhone" maar het A-nummer is een China-code, dan klopte de advertentie niet — loop weg of reken op een fysieke SIM.
 
 
-## 3. Providerlock – Wat het is en hoe je het verwijdert
+## Carrier-lock en hoe je hem verwijdert
 
-Een providerlock is de op één na meest voorkomende reden waarom een perfect capabele telefoon een eSIM weigert. Het is een softwarebeperking die je provider op het apparaat plaatst, geen hardwarelimiet.
+Een carrier-lock is de op één na meest voorkomende reden dat een volledig geschikte telefoon een eSIM weigert. Het is een softwarebeperking die je carrier op het apparaat plaatst, geen hardwarelimiet.
 
-### Wat een providerlock doet
+### Wat een carrier-lock doet
 
-Wanneer een telefoon "SIM vergrendeld" is, accepteert deze alleen SIM's en eSIM-profielen van de provider die hem heeft verkocht. Proberen een reis-eSIM van een andere aanbieder toe te voegen, triggert "eSIM niet ondersteund" of "SIM niet ondersteund". De embedded chip is aanwezig en werkt — de provider blokkeert alleen de toegang ertoe.
+Wanneer een telefoon "SIM locked" is, accepteert hij alleen SIM's en eSIM-profielen van de carrier die hem verkocht heeft. Het toevoegen van een travel eSIM van een andere aanbieder activeert "eSIM not supported" of "SIM not supported". De ingebouwde chip is aanwezig en werkt — de carrier blokkeert alleen de toegang.
 
-### Hoe je je lockstatus controleert
+### Hoe controleer je je lockstatus
 
-1. Op iPhone: **Instellingen > Algemeen > Over > Providerlock**. Het moet **"Geen SIM-beperkingen"** zeggen.
-2. Op Android (Samsung): **Instellingen > Over telefoon > Status** en zoek naar het SIM-lockveld.
-3. Op Android (Pixel): **Instellingen > Over telefoon > SIM-status**.
+1. Op iPhone: **Settings > General > About > Carrier Lock**. Hij zou **"No SIM restrictions"** moeten zeggen.
+2. Op Android (Samsung): **Settings > About phone > Status** en zoek naar het SIM lock-veld.
+3. Op Android (Pixel): **Settings > About phone > SIM status**.
 
-### Amerikaanse provider unlock-beleid
+### Ontgrendelingsbeleid Amerikaanse carriers
 
-| Provider | Unlock-vereiste |
+| Carrier | Ontgrendelingsvereiste |
 | :--- | :--- |
-| **AT&T** | Apparaat volledig afbetaald en 60 dagen actief voor ontgrendeling |
+| **AT&T** | Apparaat volledig afbetaald en 60 dagen actief vóór ontgrendeling |
 | **T-Mobile** | Apparaat afbetaald en 40 dagen actief; aanvragen via de T-Mobile-app |
 | **Verizon** | De meeste telefoons ontgrendelen automatisch 60 dagen na aankoop |
 
-### Hoe je je apparaat ontgrendelt
+### Zo ontgrendel je je apparaat
 
-1. **Vraag de unlock aan bij je provider** — het is meestal gratis zodra de telefoon is afbetaald, en de meeste Amerikaanse providers laten je het aanvragen via de app of een webformulier.
-2. **Wacht op bevestiging** — de provider pusht de unlock; je moet de telefoon mogelijk opnieuw opstarten.
-3. **Verifieer** — controleer het Providerlock-veld opnieuw tot het "Geen SIM-beperkingen" zegt.
-4. **Activeer dan** — zodra ontgrendeld, scan je reis-eSIM QR-code opnieuw.
+1. **Vraag de ontgrendeling aan bij je carrier** — het is meestal gratis zodra de telefoon is afbetaald, en de meeste Amerikaanse carriers laten je het via de app of een webformulier aanvragen.
+2. **Wacht op bevestiging** — de carrier pusht de ontgrendeling; mogelijk moet je de telefoon herstarten.
+3. **Verifieer** — controleer het Carrier Lock-veld opnieuw totdat het "No SIM restrictions" leest.
+4. **Activeer dan** — eenmaal ontgrendeld, scan je je travel eSIM QR code opnieuw.
 
-> **Opmerking:** een providerlock is een beperking op telefoonniveau, niet op abonnementsniveau. Het ontgrendelen van je apparaat annuleert je contract niet — het maakt het apparaat alleen vrij om SIM's en eSIM's van andere providers te gebruiken.
+> **Notitie:** een carrier-lock is een beperking op telefoonniveau, niet op abonnementsniveau. Het ontgrendelen van je apparaat zegt je contract niet op — het geeft het apparaat alleen de vrijheid om SIM's en eSIM's van andere aanbieders te gebruiken.
 
-### Meer Amerikaanse providers & prepaid (MVNO) unlock-beleid
+### Meer Amerikaanse carriers en MVNO-ontgrendelingsbeleid
 
-De grote drie zijn niet de enige die mensen tegenkomen. Prepaid- en MVNO-telefoons zijn vaak langer vergrendeld, en dat kan de sluipende reden zijn waarom een "geweldige deal" reis-eSIM niet installeert.
+De grote drie zijn niet de enigen waar mensen tegenaan lopen. Prepaid- en MVNO-telefoons worden vaak langer gelockt, en dat kan de sluwe reden zijn dat een "topdeal" travel eSIM niet installeert.
 
-| Provider | Unlock-vereiste |
+| Carrier | Ontgrendelingsvereiste |
 | :--- | :--- |
-| **Cricket Wireless** | 6 maanden betaalde service (tenzij gekocht tegen volledige retailprijs) |
-| **Metro by T-Mobile** | 180 dagen betaalde service |
-| **Boost Mobile** | 12 maanden betaalde service |
+| **Cricket Wireless** | 6 maanden betaalde dienst (tenzij gekocht voor volledige winkelprijs) |
+| **Metro by T-Mobile** | 180 dagen betaalde dienst |
+| **Boost Mobile** | 12 maanden betaalde dienst |
 | **Spectrum Mobile** | 60 dagen |
-| **Xfinity Mobile** | 60 dagen actieve service |
+| **Xfinity Mobile** | 60 dagen actieve dienst |
 | **US Cellular** | 120 dagen |
-| **Visible (Verizon prepaid)** | 60 dagen betaalde service |
+| **Visible (Verizon prepaid)** | 60 dagen betaalde dienst |
 
-### Wat je nodig hebt om een unlock aan te vragen
+### Wat je nodig hebt om een ontgrendeling aan te vragen
 
-Unlocks zijn gratis zodra je in aanmerking komt, maar de aanvraag heeft een paar dingen klaar nodig:
+Ontgrendelingen zijn gratis zodra je in aanmerking komt, maar het verzoek vereist een paar dingen klaar:
 
-1. **Je IMEI** — bel `*#06#` en pak het 15-cijferige nummer (niet de EID).
-2. **Je accountnummer en account-PIN/wachtwoord** — vind deze in je provider-app of op een recente factuur.
-3. **De telefoon volledig afbetaald** — providers ontgrendelen geen apparaat met een openstaand termijnsaldo.
-4. **In aanmerking komend** — elke provider heeft een minimum aantal actieve dagen (zie de tabellen hierboven).
+1. **Je IMEI** — toets `*#06#` en grijp het 15-cijferige nummer (niet de EID).
+2. **Je accountnummer en account-PIN/wachtwoord** — vind deze in je carrier-app of op een recente rekening.
+3. **De telefoon volledig afbetaald** — carriers ontgrendelen geen apparaat met een openstaand saldo op een afbetalingsregeling.
+4. **Geschiktheid behaald** — elke carrier heeft een minimale venster van actieve dagen (zie de tabellen hierboven).
 
-**Waar aan te vragen:** AT&T en T-Mobile hebben online unlock-portalen en in-app formulieren; Verizon ontgrendelt de meeste telefoons automatisch na 60 dagen zonder aanvraag. Voor MVNO's (Cricket, Metro, Boost), gebruik hun app of bel direct support.
+**Waar aan te vragen:** AT&T en T-Mobile hebben online ontgrendelingsportalen en formulieren in de app; Verizon ontgrendelt de meeste telefoons automatisch na 60 dagen zonder aanvraag. Voor MVNO's (Cricket, Metro, Boost), gebruik hun app of bel support direct.
 
-**Over diensten van derden voor "directe unlock":** het is een gok. Velen gebruiken gelekte provider-tools waardoor de telefoon opnieuw wordt vergrendeld, en sommige zijn ronduit oplichting. Als je provider zegt dat je nog niet in aanmerking komt, wacht het af — betaal geen vreemde $20 om het "voor" je te doen.
+**Over externe "instant unlock"-diensten:** het is een gok. Velen gebruiken gelekte carrier-tools waardoor de telefoon opnieuw wordt gelockt, en sommige zijn pure oplichting. Zegt je carrier dat je nog niet in aanmerking komt, wacht het dan uit — betaal geen vreemde $20 om het "voor" je te doen.
 
 
-## De drie verschillende "locks" (en waarom ze belangrijk zijn)
+### De drie verschillende locktypes
 
-Mensen zeggen "mijn telefoon is vergrendeld" en bedoelen drie compleet verschillende dingen. Elk heeft een andere oplossing nodig, dus het is de moeite waard ze te scheiden.
+Mensen zeggen "mijn telefoon is gelockt" en bedoelen drie compleet verschillende dingen. Elk heeft een andere oplossing nodig, dus het is de moeite waard ze te scheiden.
 
-| Lock-type | Wat het is | Waar je het ziet | Oplossing |
+| Locktype | Wat het is | Waar je het ziet | Oplossing |
 | :--- | :--- | :--- | :--- |
-| **Telefoonlock (activeringslock)** | Anti-diefstal: iCloud Activation Lock (iPhone) of Google FRP (Android), gekoppeld aan het account van de vorige eigenaar | "Activation Lock" / "Deze iPhone was gekoppeld aan een Apple ID" bij installatie, of een Google-accountprompt op Android | Alleen de oorspronkelijke eigenaar kan het verwijderen — koop nooit een telefoon die het nog toont |
-| **Regiolock** | Een hardwareverschil van waar de telefoon werd verkocht (China-modellen missen de eUICC-chip) | Geen EID op `*#06#`; modelnummer eindigt op CH/A | Kan niet worden verwijderd — gebruik een fysieke SIM of een andere telefoon |
-| **Providerlock** | Een softwarebeperking van je provider die de telefoon beperkt tot hun netwerk | **Instellingen > Algemeen > Over > Providerlock** toont "SIM vergrendeld" | Vraag een unlock aan bij de provider (Sectie 3) |
+| **Telefoonlock (activation lock)** | Anti-diefstal: iCloud Activation Lock (iPhone) of Google FRP (Android), gekoppeld aan het account van de vorige eigenaar | "Activation Lock" / "This iPhone was linked to an Apple ID" bij setup, of een Google-accountprompt op Android | Alleen de oorspronkelijke eigenaar kan het verwijderen — koop nooit een telefoon die het nog toont |
+| **Regiolock** | Een hardwareverschil met waar de telefoon is verkocht (China-modellen missen de eUICC-chip) | Geen EID op `*#06#`; modelnummer eindigt op CH/A | Kan niet worden verwijderd — gebruik een fysieke SIM of een andere telefoon |
+| **Carrier lock** | Een softwarebeperking van je carrier die de telefoon beperkt tot hun netwerk | **Settings > General > About > Carrier Lock** toont "SIM locked" | Vraag een ontgrendeling aan bij de carrier (Sectie 3) |
 
-**De snelle disambiguatie:**
-- Een **Apple ID- of Google-accountprompt** zien = telefoon/activeringslock (een eigenaarsprobleem).
+**De snelle verduidelijking:**
+- Een **Apple ID- of Google-accountprompt** zien = telefoon-/activation lock (een eigenaarsprobleem).
 - **Helemaal geen EID** = regiolock (een hardwareprobleem).
-- **EID aanwezig + "SIM vergrendeld"** = providerlock (oplosbaar, gratis zodra in aanmerking komend).
+- **EID aanwezig + "SIM locked"** = carrier lock (oplosbaar, gratis zodra je in aanmerking komt).
 
-De meeste "eSIM werkt niet"-klachten die de 2-minuten check overleven, zijn van het providerlock-type — en dat is bijna altijd oplosbaar.
+De meeste "eSIM werkt niet"-klachten die de 2-minutencontrole overleven, zijn het carrier-lock-type — en dat is bijna altijd oplosbaar.
 
 
-## 4. "Mijn telefoon ondersteunt geen eSIM" – Maar dat zou wel moeten
+## Mijn telefoon ondersteunt geen eSIM maar zou dat moeten
 
-Sommige apparaten worden geadverteerd met eSIM, maar specifieke regionale of provider-varianten laten de functie stil vallen. Dit zijn de gebruikelijke boosdoeners:
+Sommige apparaten worden aangekondigd met eSIM, maar specifieke regionale of carriervarianten schrappen de functie stilletjes. Dit zijn de gebruikelijke boosdoeners:
 
-- **Samsung Galaxy S20 FE** – Amerikaanse provider-locked versies hebben de functie in software uitgeschakeld om kosten te besparen, zelfs hoewel het wereldwijde model het ondersteunt.
-- **Google Pixel 4a (Japanse versies)** – Docomo en SoftBank schakelen eSIM uit op hun eenheden vanwege lokale providerovereenkomsten.
-- **Xiaomi Redmi Note-serie** – geen enkele heeft de eUICC-chip, ondanks online geruchten. Xiaomi reserveert eSIM voor zijn flagships.
+- **Samsung Galaxy S20 FE** – VS-carrier-gelockte versies hebben de functie in software uitgeschakeld om kosten te besparen, zelfs al ondersteunt het globale model hem.
+- **Google Pixel 4a (Japan-versies)** – Docomo en SoftBank schakelen eSIM uit op hun toestellen vanwege lokale carrier-afspraken.
+- **Xiaomi Redmi Note-serie** – geen enkele heeft de eUICC-chip, ondanks online geruchten. Xiaomi reserveert eSIM voor zijn vlaggenschipmodellen.
 - **iPhone 8 / 8 Plus / X** – pre-eUICC hardware; Apple voegde de chip pas toe vanaf de XS/XR-generatie.
-- **Samsung Galaxy A-serie** – alleen geselecteerde modellen (A54, A53) hebben de chip; de meeste A-series niet.
+- **Samsung Galaxy A-serie** – alleen geselecteerde modellen (A54, A53) hebben de chip; de meeste A-serie niet.
 
-### "Ziet eruit alsof het eSIM zou moeten ondersteunen maar doet het eigenlijk niet" – volledige lijst
+### Telefoons die er eSIM-compatibel uitzien maar het niet zijn
 
 | Telefoonmodel | eSIM-ondersteuning | Waarom? |
 | :--- | :--- | :--- |
 | **iPhone 8 / 8 Plus / X** | ❌ Nee | Pre-eUICC hardware |
-| **iPhone XS/XR (China)** | ❌ Nee | Dubbele fysieke SIM-hardware |
-| **Samsung Galaxy S20 FE (VS-provider)** | ❌ Nee | Provider-uitgeschakeld |
-| **Samsung Galaxy A13 / A23** | ❌ Nee | Entry-level model, geen eUICC |
-| **Google Pixel 4a (Japan)** | ❌ Nee | Provider-uitgeschakeld (Docomo/SoftBank) |
-| **Google Pixel 3 (sommige modellen)** | ⚠️ Varieert | Controleer regio; sommige hebben het, sommige niet |
-| **Xiaomi Redmi Note-serie** | ❌ Nee | Geen eUICC-hardware |
-| **Xiaomi 12/13 (China)** | ❌ Nee | Chinese binnenlandse versies missen de hardware |
+| **iPhone XS/XR (China)** | ❌ Nee | Dubbele fysieke SIM hardware |
+| **Samsung Galaxy S20 FE (VS-carrier)** | ❌ Nee | Door carrier uitgeschakeld |
+| **Samsung Galaxy A13 / A23** | ❌ Nee | Instapmodel, geen eUICC |
+| **Google Pixel 4a (Japan)** | ❌ Nee | Door carrier uitgeschakeld (Docomo/SoftBank) |
+| **Google Pixel 3 (sommige modellen)** | ⚠️ Varieert | Controleer regio; sommigen hebben het, anderen niet |
+| **Xiaomi Redmi Note-serie** | ❌ Nee | Geen eUICC hardware |
+| **Xiaomi 12/13 (China)** | ❌ Nee | Nationale China-versies missen de hardware |
 | **OnePlus Nord (China-versie)** | ❌ Nee | China-regio mist de hardware |
-| **Huawei (alle Chinese binnenlandse)** | ❌ Nee | Geen Google-services, geen eSIM-hardware |
+| **Huawei (alle nationaal China)** | ❌ Nee | Geen Google-diensten, geen eSIM-hardware |
 | **Motorola G-serie (de meeste)** | ❌ Nee | Budgetmodellen missen eUICC |
 
-**Wat te doen:** Voordat je een telefoon koopt, bel `*#06#` erop (als je hem in de hand hebt) om de EID te bevestigen, of voer de IMEI door een online eSIM-compatibiliteitschecker. De **[volledige lijst van eSIM-compatibele telefoons (2026)](/compatibility/)** is je beste bron voor het verifiëren van elk model.
+**Wat te doen:** Voordat je een telefoon koopt, toets `*#06#` erop (als je hem in handen hebt) om de EID te bevestigen, of voer de IMEI door een online eSIM-compatibiliteitschecker. De **[volledige lijst met eSIM-compatibele telefoons (2026)](/compatibility/)** is je beste bron om elk model te verifiëren.
 
 
-## 5. Android-hardwarecompatibiliteit per merk
+## Android eSIM-compatibiliteit per merk
 
-Als je op Android zit, is de grootste variabele niet het OS — het is of *jouw specifieke variant* met de chip is geleverd. Hier is het beeld model per model.
+Ben je op Android, dan is de grootste variabele niet het OS — maar of *jouw specifieke variant* met de chip is verscheept. Hier is het beeld per model.
 
-### Samsung Galaxy
+### Samsung Galaxy eSIM-compatibiliteit
 
 | Model | eSIM-ondersteuning | Opmerkingen |
 | :--- | :--- | :--- |
-| **Galaxy S20 / S21 / S22 / S23 / S24** | ✅ Ja | Alle wereldwijde varianten |
-| **Galaxy S20 FE** | ❌ Nee (VS-provider) / ✅ Ja (globaal) | Controleer modelnummer |
-| **Galaxy A54 / A53** | ✅ Ja | Alleen geselecteerde A-series |
+| **Galaxy S20 / S21 / S22 / S23 / S24** | ✅ Ja | Alle globale varianten |
+| **Galaxy S20 FE** | ❌ Nee (VS-carrier) / ✅ Ja (globaal) | Controleer modelnummer |
+| **Galaxy A54 / A53** | ✅ Ja | Alleen geselecteerde A-serie |
 | **Galaxy A13 / A23 / A33** | ❌ Nee | Budgetmodellen |
 | **Galaxy Z Fold / Flip** | ✅ Ja | Alle modellen |
 | **Galaxy Note 20** | ✅ Ja | Alle modellen |
 
-**Hoe te controleren op Samsung:** Bel `*#06#` en zoek naar een EID, of open **Instellingen > Verbindingen > SIM-kaartbeheer** en zoek naar "eSIM toevoegen" / "Mobiel abonnement toevoegen". Als geen van beide aanwezig is, mist je variant de functie. Voor meer, zie onze [Samsung eSIM-compatibiliteitsgids](/faq/samsung-s20-esim-compatible/) en [Samsung Support](https://www.samsung.com/us/support/).
+**Hoe te controleren op Samsung:** Toets `*#06#` en zoek naar een EID, of open **Settings > Connections > SIM Card Manager** en zoek naar "Add eSIM" / "Add mobile plan". Staat er geen van beide, dan mist jouw variant de functie. Voor meer, zie onze [Samsung eSIM-compatibiliteitsgids](/faq/samsung-s20-esim-compatible/) en [Samsung Support](https://www.samsung.com/us/support/).
 
-### Google Pixel
+### Google Pixel eSIM-compatibiliteit
 
 | Model | eSIM-ondersteuning | Opmerkingen |
 | :--- | :--- | :--- |
 | **Pixel 3 / 3 XL** | ✅ Ja | Eerste Pixel met de functie |
 | **Pixel 3a / 3a XL** | ✅ Ja | – |
 | **Pixel 4 / 4 XL** | ✅ Ja | – |
-| **Pixel 4a** | ⚠️ Varieert | Japanse provider-versies = NEE |
+| **Pixel 4a** | ⚠️ Varieert | Japan-carrierversies = NEE |
 | **Pixel 5 / 5a** | ✅ Ja | – |
 | **Pixel 6 / 6 Pro / 6a** | ✅ Ja | – |
 | **Pixel 7 / 7 Pro / 7a** | ✅ Ja | – |
 | **Pixel 8 / 8 Pro** | ✅ Ja | – |
 
-**Hoe te controleren op Pixel:** Bel `*#06#` voor de EID, of open **Instellingen > Netwerk & internet > SIM's** en zoek naar "Een SIM downloaden in plaats daarvan?". Als het ontbreekt, is de variant vergrendeld of mist de chip. Voor meer, zie onze [Pixel eSIM-compatibiliteitsgids](/faq/google-pixel-6-esim-compatible/) en de [Google Support — eSIM op Pixel](https://support.google.com/pixelphone/answer/7086887) pagina.
+**Hoe te controleren op Pixel:** Toets `*#06#` voor de EID, of open **Settings > Network & Internet > SIMs** en zoek naar "Download a SIM instead?". Ontbreekt hij, dan is de variant gelockt of mist de chip. Voor meer, zie onze [Pixel eSIM-compatibiliteitsgids](/faq/google-pixel-6-esim-compatible/) en de [Google Support — eSIM on Pixel](https://support.google.com/pixelphone/answer/7086887)-pagina.
 
-### OnePlus
+### OnePlus eSIM-compatibiliteit
 
 OnePlus voegde eSIM pas toe vanaf de **OnePlus 12**. De OnePlus 11, 10, 9 en Nord-serie missen de hardware.
 
@@ -437,105 +440,105 @@ OnePlus voegde eSIM pas toe vanaf de **OnePlus 12**. De OnePlus 11, 10, 9 en Nor
 | **OnePlus 9** | ❌ Nee |
 | **OnePlus Nord-serie** | ❌ Nee (behalve sommige EU-varianten) |
 
-### Xiaomi, Huawei, Motorola en anderen
+### Xiaomi, Huawei, Motorola en andere eSIM-merken
 
-- **Xiaomi** – flagshipmodellen (Xiaomi 12/13 wereldwijde versies) ondersteunen mogelijk eSIM, maar binnenlandse China-eenheden niet. De Redmi Note-lijn heeft helemaal geen eUICC.
-- **Huawei** – ondersteuning is beperkt tot een paar modellen (P40, Mate 40 en nieuwer); veel telefoons van na 2020 missen eSIM vanwege Amerikaanse sancties. Controleer **Instellingen > Mobiel netwerk > eSIM** — als de optie ontbreekt, wordt het niet ondersteund.
+- **Xiaomi** – vlaggenschipmodellen (Xiaomi 12/13 globale versies) kunnen eSIM ondersteunen, maar nationale China-toestellen niet. De Redmi Note-lijn heeft helemaal geen eUICC.
+- **Huawei** – ondersteuning is beperkt tot enkele modellen (P40, Mate 40 en nieuwer); veel telefoons na 2020 missen eSIM vanwege Amerikaanse sancties. Controleer **Settings > Mobile Network > eSIM** — ontbreekt de optie, dan wordt hij niet ondersteund.
 - **Motorola** – de meeste G-serie budgetmodellen missen de chip; de Moto G Power en Edge-lijn variëren per regio.
 
-De universele test voor elk van deze is hetzelfde: bel `*#06#` en zoek naar de EID.
+De universele test voor elk van deze is hetzelfde: toets `*#06#` en zoek naar de EID.
 
 
-## Android vs iPhone: de capaciteitscheck, zij aan zij
+## Android vs iPhone eSIM-geschiktheidscheck
 
-Dezelfde 2-minuten check, twee verschillende menu's. Geef deze tabel aan een vriend op het andere platform.
+Dezelfde 2-minutencontrole, twee verschillende menu's. Geef deze tabel aan een vriend op het andere platform.
 
-| Check | iPhone | Android (Samsung) | Android (Pixel) |
+| Controle | iPhone | Android (Samsung) | Android (Pixel) |
 | :--- | :--- | :--- | :--- |
-| **EID** | Bel `*#06#` | Bel `*#06#` | Bel `*#06#` |
-| **eSIM toevoegen-menu** | **Instellingen > Mobiel netwerk > eSIM toevoegen** | **Instellingen > Verbindingen > SIM-kaartbeheer > eSIM toevoegen** | **Instellingen > Netwerk & internet > SIM's > Een SIM downloaden in plaats daarvan?** |
-| **Modelnummer** | **Instellingen > Algemeen > Over > Modelnummer** | **Instellingen > Over telefoon > Modelnummer** | **Instellingen > Over telefoon > Model** |
-| **Lockstatus** | **Instellingen > Algemeen > Over > Providerlock** | **Instellingen > Over telefoon > Status** | **Instellingen > Over telefoon > SIM-status** |
+| **EID** | Toets `*#06#` | Toets `*#06#` | Toets `*#06#` |
+| **Add eSIM-menu** | **Settings > Cellular > Add eSIM** | **Settings > Connections > SIM Card Manager > Add eSIM** | **Settings > Network & internet > SIMs > Download a SIM instead?** |
+| **Modelnummer** | **Settings > General > About > Model Number** | **Settings > About phone > Model number** | **Settings > About phone > Model** |
+| **Lockstatus** | **Settings > General > About > Carrier Lock** | **Settings > About phone > Status** | **Settings > About phone > SIM status** |
 
-**Het ene verschil dat belangrijk is:** op iPhone is eSIM-ondersteuning alles-of-niets per generatie en regio — gemakkelijk te voorspellen. Op Android is het per variant, dus twee "dezelfde" Galaxy- of Pixel-telefoons kunnen zich anders gedragen. Bij twijfel op Android, vertrouw de `*#06#` EID boven het specblad.
+**Het ene verschil dat ertoe doet:** op iPhone is eSIM-ondersteuning alles-of-niets per generatie en regio — makkelijk te voorspellen. Op Android is het per variant, dus twee "dezelfde" Galaxy- of Pixel-telefoons kunnen zich anders gedragen. Twijfel je op Android, vertrouw dan de `*#06#`-EID boven de specificatiepagina.
 
 
-## 6. Je telefoon is capabel — wat nu? (Foutcode-oplossingen)
+## Je telefoon ondersteunt eSIM maar de activering mislukt
 
-Als je telefoon de bovenstaande hardwarecheck heeft doorstaan en je ziet nog steeds een specifiek foutbericht, is het probleem niet langer compatibiliteit — het is een activerings- of netwerkprobleem. Die hebben hun eigen speciale referentie:
+Als je telefoon de hardwarecheck hierboven doorstond en je nog steeds een specifieke foutmelding ziet, is het probleem niet langer compatibiliteit — het is een activerings- of netwerkprobleem. Die hebben hun eigen speciale naslag:
 
-- **"Activering mislukt", "Geen Service", "QR ongeldig", "Mobiel abonnement kan niet worden toegevoegd", herstelfout 4013/4014, en elke andere fout op het scherm** → zie de [eSIM Diepgaande Probleemoplossingsgids 2026](/faq/esim-deep-troubleshooting-guide-2026/), die elk bericht aan een oplossing koppelt.
-- **APN-instellingen en de volledige provider APN-tabel** → de canonieke APN-referentie staat ook in de [eSIM Diepgaande Probleemoplossingsgids 2026](/faq/esim-deep-troubleshooting-guide-2026/).
-- **Stapsgewijze activering (QR / handmatig / provider-app)** → zie [Hoe een eSIM te activeren](/faq/how-to-activate-an-esim/).
-- **Een profiel naar een nieuwe telefoon verplaatsen** → zie [Hoe eSIM over te dragen tussen iPhone en Android](/faq/how-to-transfer-esim-between-iphone-and-android/).
-- **iPad en Apple Watch installatie** → zie de [iPad en Apple Watch eSIM-gids](/faq/ipad-apple-watch-esim-support-guide/).
+- **"Activation failed", "No Service", "QR invalid", "Cellular Plan Cannot Be Added", herstelfout 4013/4014 en elke andere schermmelding** → zie de [eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/), die elke melding aan een oplossing koppelt.
+- **APN-instellingen en de volledige provider-APN-tabel** → de canonieke APN-naslag staat ook in de [eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/).
+- **Stapsgewijze activering (QR / handmatig / carrier-app)** → zie [How to Activate an eSIM](/faq/how-to-activate-an-esim/).
+- **Een profiel verplaatsen naar een nieuwe telefoon** → zie [How to Transfer eSIM Between iPhone and Android](/faq/how-to-transfer-esim-between-iphone-and-android/).
+- **iPad- en Apple Watch-setup** → zie de [iPad- en Apple Watch eSIM-gids](/faq/ipad-apple-watch-esim-support-guide/).
 
 
 ## Veelgestelde vragen
 
-**Waarom zegt mijn iPhone XR "eSIM niet ondersteund" terwijl het zou moeten werken?**
-Als je modelnummer eindigt op CH/A, is het een vasteland-China eenheid zonder eSIM-chip. Controleer anders de providerlock-status — een vergrendelde XR weigert profielen van andere providers.
+**Waarom zegt mijn iPhone XR "eSIM not supported" terwijl het zou moeten werken?**
+Eindigt je modelnummer op CH/A, dan is het een vasteland-China toestel zonder eSIM-chip. Zo niet, controleer dan de carrier-lock-status — een gelockte XR weigert profielen van andere aanbieders.
 
 **Kan ik eSIM forceren op een iPhone 7?**
-Nee. De iPhone 7 (en 6s, 8 en X) zijn van vóór de eUICC-chip. Geen softwarehack kan hardware toevoegen die er niet is.
+Nee. De iPhone 7 (en 6s, 8 en X) dateren van vóór de eUICC-chip. Geen enkele softwarehack kan hardware toevoegen die er niet is.
 
 **Wat is het verschil tussen EID en IMEI?**
-IMEI (15 cijfers) identificeert je telefoonmodel — elke telefoon heeft er een. EID (32 cijfers) identificeert de embedded-SIM chip — alleen eSIM-capabele telefoons hebben er een. Als `*#06#` geen EID toont, kan je telefoon geen eSIM gebruiken.
+IMEI (15 cijfers) identificeert je telefoonmodel — elke telefoon heeft er een. EID (32 cijfers) identificeert de embedded-SIM-chip — alleen eSIM-geschikte telefoons hebben er een. Toont `*#06#` geen EID, dan kan je telefoon geen eSIM gebruiken.
 
-**Wat betekent "EID niet gevonden" wanneer ik `*#06#` bel?**
-Het betekent dat je telefoon de eUICC-hardwarechip mist die nodig is voor digitale SIM-profielen. Het is een hardwarebeperking, niet iets wat een software-update kan oplossen.
+**Wat betekent "EID not found" wanneer ik `*#06#` intoets?**
+Het betekent dat je telefoon de eUICC-hardwarechip mist die nodig is voor digitale SIM-profielen. Het is een hardwarebeperking, geen software-update kan dit fixen.
 
-**Mijn telefoon ondersteunt geen eSIM — kan ik nog steeds een reis-eSIM gebruiken?**
-Nee. Je hebt de embedded chip nodig, dus een fysieke SIM is je enige optie. Veel aanbieders (inclusief Roami) verkopen ook fysieke SIM-kaarten.
+**Mijn telefoon ondersteunt geen eSIM — kan ik nog steeds een travel eSIM gebruiken?**
+Nee. Je hebt de ingebouwde chip nodig, dus een fysieke SIM is je enige optie. Veel aanbieders (inclusief Roami) verkopen ook fysieke SIM-kaarten.
 
 **Hoe weet ik of mijn Samsung Galaxy eSIM heeft?**
-Bel `*#06#` — als een EID verschijnt, wordt het ondersteund. Je kunt ook Instellingen > Verbindingen > SIM-kaartbeheer controleren op een "eSIM toevoegen"-optie. Sommige Amerikaanse provider- en A-serie varianten verbergen het.
+Toets `*#06#` — verschijnt een EID, dan wordt hij ondersteund. Je kunt ook controleren of Settings > Connections > SIM Card Manager een "Add eSIM"-optie heeft. Sommige VS-carrier- en A-serie-varianten verbergen hem.
 
 **Ondersteunt de OnePlus 11 eSIM?**
 Nee. OnePlus voegde eSIM toe vanaf de OnePlus 12. De 11, 10, 9 en Nord-serie missen de hardware.
 
-**Hoe controleer ik of mijn iPhone provider-locked is?**
-Instellingen > Algemeen > Over > Providerlock. "Geen SIM-beperkingen" betekent dat het ontgrendeld is. Al het andere betekent dat het aan die provider is vergrendeld.
+**Hoe controleer ik of mijn iPhone een carrier-lock heeft?**
+Settings > General > About > Carrier Lock. "No SIM restrictions" betekent simlockvrij. Alles anders betekent gelockt op die carrier.
 
 **Welke iPad-modellen ondersteunen eSIM?**
-iPad Pro (3e gen en nieuwer), iPad Air (3e gen en nieuwer), iPad (10e gen en nieuwer), en iPad mini (6e gen en nieuwer) — alleen cellular-modellen. Wi-Fi-only iPads hebben geen eSIM-hardware.
+iPad Pro (3e gen en nieuwer), iPad Air (3e gen en nieuwer), iPad (10e gen en nieuwer) en iPad mini (6e gen en nieuwer) — alleen cellulair modellen. Alleen-wifi iPads hebben geen eSIM-hardware.
 
-**Waar kan ik een lijst vinden van eSIM-compatibele telefoons?**
-De [volledige lijst van eSIM-compatibele telefoons (2026)](/compatibility/) behandelt iPhone, Samsung, Pixel, OnePlus, Motorola, Xiaomi en meer.
+**Waar vind ik een lijst met eSIM-compatibele telefoons?**
+De [volledige lijst met eSIM-compatibele telefoons (2026)](/compatibility/) dekt iPhone, Samsung, Pixel, OnePlus, Motorola, Xiaomi en meer.
 
-**Wat is het verschil tussen een telefoonlock en een providerlock?**
-Een telefoon(activerings)lock is anti-diefstal — iCloud op iPhone, Google FRP op Android — en alleen de oorspronkelijke eigenaar kan het verwijderen. Een providerlock is een netwerkbeperking die je provider gratis opheft zodra de telefoon is afbetaald en in aanmerking komt.
+**Wat is het verschil tussen een telefoonlock en een carrier-lock?**
+Een telefoon- (activation) lock is anti-diefstal — iCloud op iPhone, Google FRP op Android — en alleen de oorspronkelijke eigenaar kan hem verwijderen. Een carrier-lock is een netwerkbeperking die je carrier gratis opheft zodra de telefoon is afbetaald en in aanmerking komt.
 
 **Waarom hebben Chinese telefoons geen eSIM?**
-Het vasteland van China vereist dat binnenlandse telefoons gecertificeerd zijn voor dubbele fysieke SIM, dus Apple en Android-merken leveren China-eenheden met twee nano-SIM-sleuven en geen eUICC-chip. Het is hardware — het kan later niet worden ingeschakeld.
+Vasteland-China vereist dat nationale telefoons worden gecertificeerd voor dubbele fysieke SIM, dus Apple en Android-merken verschepen China-toestellen met twee nano-SIM-sleuven en geen eUICC-chip. Het is hardware — het kan niet later worden ingeschakeld.
 
-**Kan ik eSIM toevoegen aan een telefoon die geen EID heeft?**
+**Kan ik eSIM toevoegen aan een telefoon zonder EID?**
 Nee. De eUICC-chip is op het moederbord gesoldeerd. Er is geen adapter, app, jailbreak of software-update die hardware toevoegt die nooit is geïnstalleerd.
 
-**Lost een fabrieksreset "eSIM niet ondersteund" op?**
-Nee. Een reset verandert de hardware niet en verwijdert geen providerlock. Het kan echter wel een beschadigd half-geïnstalleerd profiel wissen, dus het is de moeite waard om te proberen voor softwareglitches — na back-up.
+**Lost een factory reset "eSIM not supported" op?**
+Nee. Een reset verandert geen hardware en verwijdert geen carrier-lock. Hij kan wel een beschadigd half-geïnstalleerd profiel wissen, dus het is een poging waard voor software-glitches — na een backup.
 
-**Waarvoor wordt de EID gebruikt wanneer een aanbieder erom vraagt?**
-De EID laat je aanbieder een specifiek eSIM-profiel aan de chip van je telefoon binden voordat je scant. Het is hoe ze weten dat het abonnement voor jouw exacte apparaat bestemd is — zie het als het "adres" van de eSIM.
+**Waarvoor wordt de EID gebruikt als een aanbieder erom vraagt?**
+Met de EID kan je aanbieder een specifiek eSIM-profiel aan de chip van je telefoon binden voordat je scant. Zo weten ze dat het abonnement bestemd is voor jouw exacte apparaat — zie het als het "adres" van de eSIM.
 
-**Hoe weet ik of mijn telefoon ontgrendeld is zonder een SIM in te voeren?**
-iPhone: Instellingen > Algemeen > Over > Providerlock — "Geen SIM-beperkingen" betekent ontgrendeld. Android: Instellingen > Over telefoon > Status (of SIM-status) en zoek naar de formulering "SIM vergrendeld" of "SIM niet vergrendeld".
+**Hoe weet ik of mijn telefoon simlockvrij is zonder een SIM in te voegen?**
+iPhone: Settings > General > About > Carrier Lock — "No SIM restrictions" betekent simlockvrij. Android: Settings > About phone > Status (of SIM status) en zoek naar de formulering "SIM locked" of "SIM not locked".
 
-👉 **Bevestigd dat je telefoon capabel is?** Pak een [eSIM voor de VS](/united-states-esim/) of [eSIM voor Japan](/japan-esim/) om verbonden te raken.
+👉 **Bevestigd dat je telefoon geschikt is?** Pak een [eSIM voor de VS](/united-states-esim/) of [eSIM voor Japan](/japan-esim/) om verbonden te worden.
 
 
 ## Test je compatibiliteit met een gratis eSIM
 
-De snelste manier om te bevestigen dat je telefoon daadwerkelijk eSIM kan gebruiken, is een **gratis proef-eSIM** installeren. Het kost niets, duurt 2 minuten, en als het installeert en verbindt, is je hardware klaar.
+De snelste manier om te bevestigen dat je telefoon eSIM daadwerkelijk kan gebruiken, is het installeren van een **gratis proefversie eSIM**. Het kost niets, duurt 2 minuten, en installeert en verbindt hij, dan is je hardware in orde.
 
-👉 [**Ontvang nu je gratis Roami eSIM**](/free-esim/)
+👉 [**Pak nu je gratis Roami eSIM**](/free-esim/)
 
 ---
 
-*Als je specifieke apparaat of fout hier niet wordt behandeld, neem contact met ons op en we helpen je bevestigen of je telefoon eSIM-capabel is.*
+*Wordt jouw specifieke apparaat of fout hier niet behandeld, neem dan contact met ons op en wij helpen je bevestigen of je telefoon eSIM-geschikt is.*
 ## Bronnen
 
-- [GSMA — eSIM (SGP.22)-specificatie](https://www.gsma.com/esim/)
-- [Apple Support — eSIM op iPhone](https://support.apple.com/en-us/108072)
-- [Google Support — Een eSIM instellen](https://support.google.com/pixelphone/answer/14853135)
+- [GSMA — eSIM (SGP.22) specificatie](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
 - [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

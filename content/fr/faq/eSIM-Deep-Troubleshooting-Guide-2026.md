@@ -1,18 +1,21 @@
 ---
-title: "Guide de dépannage eSIM 2026 : résoudre tous les problèmes"
-h1_title: "Guide de dépannage eSIM 2026 : résoudre tous les problèmes courants"
-description: "Dépannage eSIM 2026 : 16 scénarios réels résolus. Activation impossible, QR code invalide, pas de réseau, erreur EID, conflit double SIM, APN mal configuré. iPhone et Android."
-keywords: ["dépannage esim", "esim ne fonctionne pas", "esim pas de réseau", "qr code esim invalide", "esim activation impossible", "problème esim iphone", "problème esim android", "esim erreur activation"]
+title: "Guide de dépannage approfondi eSIM 2026"
+h1_title: "Le guide complet du dépannage eSIM en 2026 – 18 solutions concrètes"
+description: "Corrigez les échecs d'activation eSIM, les erreurs de transfert, l'absence de service et les problèmes de scan QR sur iPhone et Android avec ce guide de dépannage 2026."
+image: "/img/faq/esim-troubleshooting-guide.webp"
+image-1: "/img/faq/esim-troubleshooting-guide-1.jpg"
+keywords: ["dépannage eSIM", "échec activation eSIM", "eSIM pas de service", "erreur transfert eSIM", "transfert inter-plateformes eSIM", "iOS 18 eSIM", "paramètres APN eSIM", "code de confirmation eSIM", "verrouillage opérateur eSIM", "eSIM bloqué sur activation"]
+date: 2026-09-12T00:00:00Z
+lastmod: 2026-09-12T00:00:00Z
+tags: ["eSIM", "iOS", "Android", "Dépannage", "Configuration voyage"]
 toc: true
-date: 2026-08-11T10:00:00Z
-lastmod: 2026-08-11T10:00:00Z
 
-# Configuration hardcodée du site & SEO
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# Traduction du texte d'interface (supporte le multilinguisme)
+# UI text translations
 ui_text:
   updated_on: "Mis à jour le"
   min_read: "min de lecture"
@@ -23,53 +26,53 @@ breadcrumbs:
     text: "Accueil"
     url: "/"
   parent:
-    text: "FAQ"
+    text: "Centre d'aide"
     url: "/faq/"
-
-# Barre latérale droite : eSIM populaires (6 pays, 1,99 USD)
+    
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIM populaires"
   item_suffix: "eSIM"
   items:
-    - name: "USA eSIM"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Allemagne"
+    - name: "eSIM Allemagne"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europe"
+    - name: "eSIM Europe"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turquie"
+    - name: "eSIM Turquie"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japon"
+    - name: "eSIM Japon"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Chine"
+    - name: "eSIM Chine"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Barre latérale droite : eSIM gratuites (4 pays)
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Obtenez une eSIM gratuite"
+  title: "Obtenez un eSIM gratuit"
   icon: "🎁"
-  item_suffix: "eSIM gratuite"
-  item_subtitle: "eSIM gratuite"
+  item_suffix: "eSIM gratuit"
+  item_subtitle: "eSIM gratuit"
   items:
-    - name: "Royaume-Uni"
+    - name: "eSIM UK"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Allemagne"
@@ -82,589 +85,508 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Barre latérale droite : questions populaires (5 questions)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Questions populaires"
   items:
     - question: "Qu'est-ce que l'activation eSIM et comment fonctionne-t-elle ?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Comment activer une eSIM ?"
+    - question: "Comment activer un eSIM ?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Comment activer l'eSIM sur iPhone (tous les modèles) ?"
+    - question: "Comment activer l'eSIM sur iPhone (tous modèles) ?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Dernière liste de compatibilité eSIM"
       url: "/compatibility/"
 ---
 
-L'eSIM simplifie la vie des voyageurs et des utilisateurs multi-lignes, mais comme toute technologie, elle peut parfois poser problème. Une activation qui échoue, un QR code qui ne scanne pas, des données mobiles absentes — ces désagréments surviennent souvent au pire moment, quand vous venez d'atterrir dans un pays étranger.
 
-Ce guide de dépannage eSIM couvre **tous les problèmes courants** avec des solutions pas à pas, classés par catégorie et par gravité. Il est régulièrement mis à jour avec les retours d'utilisateurs réels et les évolutions logicielles (iOS 19, Android 16). Pour les problèmes de double SIM, consultez notre **[guide des 12 correctifs pour double eSIM](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
+> **Note de l'éditeur :** Roami gère le service d'assistance derrière cette référence. Lorsqu'un voyageur rencontre une erreur spécifique à l'écran — « Activation failed », « No Service », « Cellular Plan Cannot Be Added », erreur de restauration 4013/4014 — c'est la page que notre propre équipe ouvre pour la décoder. Chaque entrée ci-dessous associe un message d'erreur exact à sa cause réelle et à une solution concrète, testée sur iOS 18 et Android 14/15 en septembre 2026.
 
----
+> **Mauvaise page ?** Si votre question est « mon téléphone prend-il en charge l'eSIM » — modèle Chine/Hong Kong, verrouillage opérateur, EID manquant — c'est une question matérielle, pas une erreur. Rendez-vous sur notre [guide matériel eSIM et codes d'erreur](/faq/esim-activation-errors-troubleshooting-guide/). Cette page suppose que votre téléphone peut utiliser l'eSIM et que le problème est un message d'erreur spécifique.
 
-## 📌 Résumé : diagnostic rapide
+## Flux de diagnostic rapide eSIM
 
-Avant de plonger dans les solutions détaillées, commencez par ce diagnostic en 3 étapes :
+Utilisez cette carte de décision pour accéder directement à la solution du message exact sur votre écran.
 
-1. **Vérifiez la compatibilité** — `*#06#` pour voir l'EID. Pas d'EID = pas d'eSIM.
-2. **Redémarrez le téléphone** — 40 % des problèmes eSIM se résolvent avec un simple redémarrage.
-3. **Vérifiez l'itinérance des données** — elle doit être **activée** pour la ligne eSIM, même si vous n'êtes pas en « roaming » au sens classique.
+| Ce que vous voyez / rencontrez | Ce qui est probablement cassé | Urgence | Aller à la solution |
+|---------------------------|----------------------|---------|-------------|
+| **Le code QR ne scanne pas / dit invalide** | Code QR expiré ou endommagé | Faible | [Section 3](#esim-qr-code-invalid-or-expired) |
+| **« Unable to Activate » ou « Activation failed »** | Délai d'attente réseau ou erreur serveur | Moyenne | [Section 1](#esim-activation-failed-or-unable-to-activate) |
+| **« No Service » après installation** | Itinérance des données désactivée ou APN manquant | Élevée | [Section 2](#esim-no-service-after-installation) |
+| **Barres de signal complètes mais pas d'internet** | APN mal configuré | Élevée | [Section 8](#esim-no-data-connection-after-activation) |
+| **« Cellular Plan Cannot Be Added »** | Trop d'eSIM stockés ou restriction matérielle | Moyenne | [Section 5](#esim-cellular-plan-cannot-be-added) |
+| **« eSIM already in use »** | Profil toujours lié à l'ancien appareil | Élevée | [Section 4](#esim-already-in-use-or-bound-to-another-device) |
+| **Popup de code de confirmation** | Le profil nécessite un code PIN | Faible | [Section 6](#esim-confirmation-code-required) |
+| **« SIM not supported »** | Téléphone verrouillé opérateur | Élevée | [Section 7](#esim-sim-not-supported-on-a-carrier-locked-device) |
+| **Bloqué sur « Activating » pendant >10 minutes** | Téléchargement bloqué | Moyenne | [Section 9](#esim-stuck-on-activating) |
+| **Dual SIM : une ligne n'a pas de signal** | Conflit de routage | Moyenne | [Section 10](#dual-esim-with-one-line-showing-no-service) |
+| **eSIM transféré vers un nouveau téléphone, échoue** | Transfert inter-plateformes non pris en charge | Élevée | [Section 11](#esim-transfer-failed) |
+| **Erreur de restauration iPhone 4013/4014** | Problème matériel/firmware, pas eSIM | Élevée | [Section 12](#iphone-esim-restore-error-4013-or-4014) |
+| **« Profile expired »** | Code QR expiré | Faible | [Section 13](#esim-profile-expired) |
+| **Itinérance ne fonctionne pas à l'étranger** | Bascule d'itinérance des données désactivée | Élevée | [Section 14](#esim-data-roaming-not-working) |
+| **eSIM supprimé accidentellement** | Erreur utilisateur | Élevée | [Section 15](#esim-deleted-by-mistake) |
+| **MDM bloque les modifications eSIM** | Politique d'appareil professionnel | Moyenne | [Section 16](#mdm-or-enterprise-restrictions-block-esim) |
+| **eSIM a disparu après redémarrage** | Bug logiciel iOS/Android | Élevée | [Section 17](#esim-disappeared-after-restart) |
+| **Wi-Fi Calling fonctionne mais pas les données eSIM** | Conflit de routage entre Wi-Fi et cellulaire | Moyenne | [Section 18](#wi-fi-calling-works-but-esim-data-does-not) |
+| **SIM physique insérée, eSIM ne fonctionne pas** | Conflit de tiroir SIM | Élevée | [Section 19](#esim-vs-physical-sim-conflict) |
+| **eSIM Apple Watch ne se connecte pas** | Problème d'appairage ou d'opérateur | Moyenne | [Section 20](#apple-watch-esim-not-working) |
 
-Si ces trois vérifications ne résolvent rien, poursuivez avec les sections ci-dessous.
 
----
+## Tableau de référence rapide
 
-## Arbre de diagnostic : identifier la cause racine
+| Symptôme | Cause la plus probable | Solution |
+|---------|-------------------|-----|
+| « Unable to Activate » / « Activation failed » | Wi-Fi instable ou erreur serveur opérateur | Réseau stable + réessayer, puis réinstaller (Section 1) |
+| « No Service » après installation | Itinérance des données désactivée / APN manquant | Activer l'itinérance, vérifier l'APN (Section 2) |
+| Code QR « Invalid » / « Expired » | Code QR expiré ou déjà utilisé | Demander un nouveau code QR (Section 3) |
+| « eSIM already in use » | Profil non libéré de l'ancien appareil | Supprimer de l'ancien appareil ou libération par l'opérateur (Section 4) |
+| « Cellular Plan Cannot Be Added » | Trop d'eSIM stockés | Supprimer les eSIM inutilisés (Section 5) |
+| Code de confirmation requis | Le profil a un code obligatoire | Trouver le code à 4–8 chiffres dans l'e-mail de l'opérateur (Section 6) |
+| « SIM not supported » | Appareil verrouillé opérateur | Débloquer l'appareil ou contacter l'opérateur (Section 7) |
+| Pas de données après activation | APN non configuré | Saisir l'APN manuellement (Section 8) |
+| Bloqué sur « Activating » | Téléchargement du profil bloqué | Basculer le mode Avion, réinstaller (Section 9) |
+| Une ligne dual-SIM « No Service » | Conflit de routage appels/données | Vérifier le routage des lignes et les bascules (Section 10) |
+| Échec du transfert eSIM | L'opérateur ne prend pas en charge le transfert | Utiliser le code QR de l'opérateur en secours (Section 11) |
+| Erreur de restauration 4013 / 4014 | Matériel/firmware pendant la restauration | Câble différent, mettre à jour l'ordinateur (Section 12) |
+| « Profile expired » | Code QR limité dans le temps | Demander un nouveau code QR (Section 13) |
+| Itinérance des données ne fonctionne pas | Itinérance désactivée pour la ligne eSIM | Activer l'itinérance des données (Section 14) |
+| eSIM supprimé par erreur | Profil supprimé localement | Contacter l'opérateur / acheter un nouveau forfait (Section 15) |
+| MDM bloque les modifications eSIM | Restriction d'entreprise | Contacter votre administrateur IT (Section 16) |
+| eSIM a disparu après redémarrage | Bug logiciel iOS/Android | Vérifier les paramètres, rajouter le profil (Section 17) |
+| Wi-Fi Calling fonctionne mais pas les données | Conflit de routage | Désactiver temporairement Wi-Fi Calling (Section 18) |
+| SIM physique insérée, eSIM cesse de fonctionner | Conflit tiroir/lecteur | Retirer la SIM physique, redémarrer (Section 19) |
+| eSIM Apple Watch ne se connecte pas | Problème d'appairage ou d'opérateur | Ré-appairer la montre, contacter l'opérateur (Section 20) |
 
-Utilisez cet arbre de décision pour cibler votre problème :
 
-```
-Problème eSIM
-├── L'eSIM ne s'installe PAS du tout
-│   ├── Message « Impossible d'ajouter le forfait » → Section 1
-│   ├── QR code non reconnu / flou → Section 2
-│   ├── Erreur « Code d'activation invalide » → Section 2
-│   └── L'option « Ajouter eSIM » est absente/grise → Section 3
-│
-├── L'eSIM est installée mais ne fonctionne PAS
-│   ├── « Aucun service » / « Pas de réseau » → Section 4
-│   ├── Données mobiles absentes (mais signal affiché) → Section 5
-│   ├── Appels OK mais pas de données → Section 5 (APN)
-│   └── Données OK mais pas d'appels → Section 6
-│
-├── Problèmes intermittents
-│   ├── Coupures aléatoires → Section 7
-│   ├── Lenteur / débit faible → Section 7
-│   └── L'eSIM se désactive toute seule → Section 8
-│
-└── Problèmes avancés
-    ├── eSIM supprimée après mise à jour iOS/Android → Section 9
-    ├── Transfert eSIM vers nouveau téléphone impossible → Section 10
-    └── Conflit double SIM → Section 11
-```
+## Échec d'activation eSIM ou impossible d'activer
 
----
-
-## Section 1 : « Impossible d'ajouter le forfait cellulaire »
-
-C'est le message d'erreur le plus fréquent lors de l'installation d'une eSIM. Il apparaît généralement pour l'une de ces raisons.
-
-### Cause 1 : Trop de profils eSIM stockés
-
-L'iPhone et la plupart des Android ont une limite de profils eSIM stockés (généralement 8 à 10). Si vous avez accumulé des profils d'anciens voyages, vous avez peut-être atteint cette limite.
-
-**Solution :**
-1. Allez dans **Réglages > Données cellulaires** (iPhone) ou **Paramètres > Connexions > Gestionnaire de carte SIM** (Android).
-2. Identifiez les anciens profils eSIM inutilisés.
-3. Sélectionnez chaque profil obsolète et appuyez sur **Supprimer le forfait**.
-4. Réessayez d'ajouter la nouvelle eSIM.
-
-> ⚠️ **Attention :** Une fois supprimé, un profil eSIM ne peut pas être récupéré. Assurez-vous de ne pas supprimer un profil actif.
-
-### Cause 2 : Connexion Wi-Fi instable
-
-L'installation d'une eSIM nécessite une connexion Internet stable (Wi-Fi ou données cellulaires) pour télécharger le profil depuis le serveur SM-DP+ de l'opérateur. Un Wi-Fi instable ou un VPN activé peut bloquer la communication.
+**Cause :** Presque toujours une connexion Wi-Fi instable ou une erreur temporaire du serveur de l'opérateur (SM-DP+), pas un problème avec votre téléphone. Le SM-DP+ (Subscription Manager - Data Preparation Plus) est le serveur sécurisé qui livre votre profil eSIM à votre appareil — s'il est injoignable, l'activation échoue.
 
 **Solution :**
-1. Désactivez temporairement tout VPN ou proxy.
-2. Connectez-vous à un réseau Wi-Fi stable (pas de Wi-Fi public d'aéroport ou d'hôtel — ils bloquent souvent les ports nécessaires).
-3. Passez en 4G/5G sur votre SIM principale si le Wi-Fi est indisponible.
-4. Réessayez l'installation.
+1. Passez à une connexion Wi-Fi ou de données cellulaires stable.
+2. Activez et désactivez le mode Avion pour rafraîchir la bande de base.
+3. Si l'erreur se répète, supprimez l'eSIM en attente sous `Réglages > Cellulaire`, redémarrez et scannez à nouveau le code QR.
 
-### Cause 3 : QR code déjà utilisé ou expiré
+**Spécifique iOS 18 :** Sur iOS 18, le message peut indiquer « Unable to Complete Activation » avec un bouton Réessayer. Appuyez d'abord sur Réessayer — le flux d'activation amélioré d'iOS 18 résout souvent le problème sans réinstallation complète.
 
-Les codes QR eSIM sont généralement à usage unique et ont une date d'expiration (souvent 30 à 90 jours après l'achat). Un QR code déjà scanné ou expiré génère cette erreur.
+---
+
+## eSIM aucun service après installation
+
+**Cause :** Le profil est installé mais le téléphone ne s'est pas enregistré sur un réseau local — généralement parce que l'itinérance des données est désactivée ou l'APN est manquant.
 
 **Solution :**
-1. Contactez le support de votre fournisseur eSIM. La plupart (Airalo, Holafly, Nomad) répondent en moins de 30 minutes.
-2. Demandez un **nouveau QR code** ou un **code d'activation manuelle** (adresse SM-DP+ et code à 32 caractères).
-3. Utilisez l'option « Saisir les détails manuellement » dans le menu d'ajout eSIM.
+1. Activez l'**itinérance des données** pour la ligne eSIM.
+2. Sous `Réglages > Cellulaire > [votre eSIM] > Sélection du réseau`, désactivez « Automatique », sélectionnez manuellement un opérateur, attendez l'échec, puis revenez à « Automatique » pour forcer le ré-enregistrement.
+3. S'il n'y a toujours pas de données, vérifiez l'APN (Section 8).
 
 ---
 
-## Section 2 : Problèmes de QR code
+## Code QR eSIM invalide ou expiré
 
-### Le QR code ne scanne pas
+**Cause :** Les codes QR eSIM sont à usage unique et limités dans le temps. Le code a soit déjà été utilisé, soit expiré.
 
-**Causes possibles :**
-- Objectif de l'appareil photo sale ou rayé
-- Mauvaise luminosité ambiante
-- QR code affiché sur un écran avec une luminosité trop faible ou des reflets
-- Fichier image compressé ou de mauvaise résolution
-- QR code endommagé (impression papier de mauvaise qualité)
+**Solution :** Contactez votre fournisseur eSIM et demandez-lui de réémettre un nouveau code QR, puis scannez-le immédiatement.
 
-**Solutions :**
-
-1. **Nettoyez l'objectif** avec un chiffon microfibre.
-2. **Augmentez la luminosité** de l'écran affichant le QR code au maximum.
-3. **Utilisez l'appareil photo natif** (pas une application tierce) — pointez simplement, sans appuyer sur le déclencheur. Sur iPhone, maintenez le QR code au centre du viseur pendant 2-3 secondes.
-4. **Imprimez le QR code** si vous le visualisez sur un écran — les reflets d'écran sont la cause n°1 d'échec de scan.
-5. **Utilisez la saisie manuelle** comme solution de secours. Dans le menu « Ajouter eSIM », choisissez « Saisir les détails manuellement » au lieu de scanner.
-
-### « Code d'activation invalide » ou « Ce code n'est plus valide »
-
-Ce message indique que le serveur SM-DP+ (le serveur de l'opérateur qui délivre les profils eSIM) a rejeté votre code.
-
-**Solutions :**
-1. Vérifiez que la date d'expiration du forfait eSIM n'est pas dépassée. La plupart des fournisseurs indiquent la date limite d'activation dans l'email de confirmation.
-2. Vérifiez que vous n'avez pas déjà activé ce profil sur un autre appareil. Les eSIM sont généralement liées à un seul téléphone.
-3. Si vous avez acheté l'eSIM il y a plus de 30 jours, le code a probablement expiré. Contactez le support pour un renouvellement.
+**Si vous scannez depuis l'écran de votre téléphone :** Enregistrez d'abord l'image du code QR dans Photos, puis dans Réglages > Cellulaire > Ajouter un eSIM, choisissez « Utiliser le code QR » et appuyez sur « Choisir une photo » pour sélectionner l'image enregistrée. Cela évite le problème « impossible de scanner son propre écran ».
 
 ---
 
-## Section 3 : L'option « Ajouter eSIM » est absente ou grisée
+## eSIM déjà utilisé ou lié à un autre appareil
 
-Ce problème est généralement lié à l'appareil lui-même.
-
-### Cause 1 : Appareil non compatible eSIM
-
-Tous les téléphones ne supportent pas l'eSIM. Même certains modèles récents peuvent avoir des restrictions régionales (les iPhone chinois, par exemple, ont deux SIM physiques).
-
-**Diagnostic :**
-1. Composez `*#06#`. Si un numéro **EID** de 32 chiffres apparaît, votre téléphone supporte l'eSIM.
-2. Si seuls les IMEI apparaissent, votre appareil n'a pas de module eSIM.
-
-Consultez notre **[liste complète des appareils compatibles eSIM](/compatibility/)** pour vérifier votre modèle.
-
-### Cause 2 : Téléphone verrouillé par un opérateur
-
-Un iPhone ou Android acheté avec un contrat subventionné peut être verrouillé, limitant les eSIM à celles du même opérateur.
-
-**Diagnostic (iPhone) :**
-Allez dans **Réglages > Général > Informations > Verrouillage opérateur**.
-- **« Aucune restriction SIM »** = déverrouillé ✅
-- **Nom de l'opérateur affiché** = verrouillé ❌
-
-**Solution :** Contactez votre opérateur pour demander le déverrouillage. En France, le déverrouillage est gratuit après 3 mois d'ancienneté.
-
-### Cause 3 : Restriction de gestion d'appareil (MDM)
-
-Si votre téléphone est fourni par votre entreprise, un profil MDM (Mobile Device Management) peut bloquer l'ajout d'eSIM.
-
-**Solution :** Contactez le service informatique de votre entreprise. Cette restriction ne peut pas être contournée sans leur intervention.
-
----
-
-## Section 4 : « Aucun service » ou « Pas de réseau » après installation
-
-L'eSIM est installée mais aucun réseau n'apparaît. C'est le problème le plus fréquent à l'arrivée en voyage.
-
-### Étape 1 : Activez l'itinérance des données
-
-C'est la cause n°1. Même si vous êtes dans le pays de destination de l'eSIM, l'itinérance doit être activée car l'eSIM utilise un réseau partenaire, pas votre réseau domestique.
-
-1. Allez dans **Réglages > Données cellulaires** (iPhone) ou **Paramètres > Connexions > Cartes SIM** (Android).
-2. Sélectionnez votre eSIM.
-3. Activez **Itinérance des données**.
-
-### Étape 2 : Vérifiez la sélection du réseau
-
-Le mode automatique peut parfois verrouiller un réseau distant avec un signal faible.
-
-1. Allez dans **Réglages > Données cellulaires > [votre eSIM] > Sélection du réseau**.
-2. Désactivez **Automatique**.
-3. Attendez 30 secondes que la liste des réseaux disponibles s'affiche.
-4. Sélectionnez manuellement un réseau partenaire (par exemple T-Mobile ou AT&T pour une eSIM USA).
-
-### Étape 3 : Activez/désactivez le mode avion
-
-1. Activez le **Mode avion** pendant 30 secondes.
-2. Désactivez-le.
-3. Cela force le téléphone à rechercher tous les réseaux disponibles.
-
-### Étape 4 : Vérifiez la couverture réelle
-
-Tous les forfaits eSIM ne couvrent pas toutes les zones. Un forfait « USA » peut ne pas inclure Porto Rico ou les Îles Vierges. Un forfait « Europe » peut exclure la Suisse ou les Balkans.
-
-**Solution :** Consultez la liste des pays couverts sur le site de votre fournisseur eSIM. Si votre destination n'est pas couverte, contactez le support pour un remboursement ou un changement de forfait.
-
----
-
-## Section 5 : Données mobiles absentes (mais signal affiché)
-
-Vous voyez des barres de signal, parfois même la 4G ou 5G, mais rien ne se charge. C'est presque toujours un problème d'APN.
-
-### Configuration de l'APN
-
-L'APN (Access Point Name) est la passerelle entre votre téléphone et le réseau de données. Sans APN correct, vos données mobiles ne peuvent pas atteindre Internet.
-
-**iPhone :**
-1. Allez dans **Réglages > Données cellulaires > [votre eSIM] > Réseau de données cellulaires**.
-2. Dans le champ **APN**, saisissez l'APN fourni par votre opérateur eSIM.
-3. Laissez les champs « Nom d'utilisateur » et « Mot de passe » vides, sauf indication contraire.
-4. Redémarrez l'iPhone.
-
-**Android (Samsung) :**
-1. **Paramètres > Connexions > Réseaux mobiles > Noms des points d'accès**.
-2. Sélectionnez votre eSIM.
-3. Appuyez sur **+** ou **Ajouter**.
-4. Saisissez le nom et l'APN.
-5. Enregistrez et sélectionnez ce nouvel APN.
-
-**APN courants des fournisseurs eSIM :**
-
-| Fournisseur | APN | Nom d'utilisateur | Mot de passe | Type d'authentification |
-|------------|-----|-------------------|--------------|------------------------|
-| Airalo | `airalo` | (vide) | (vide) | Aucune |
-| Holafly | `holafly` | (vide) | (vide) | Aucune |
-| Nomad | `global` | (vide) | (vide) | Aucune |
-| Roami | `internet` | (vide) | (vide) | Aucune |
-| Ubigi | `ubigi` | (vide) | (vide) | Aucune |
-| Bouygues | `mmsbouygtel.com` | (vide) | (vide) | Aucune |
-| Orange | `orange.fr` | `orange` | `orange` | PAP |
-| SFR | `sl2sfr` | (vide) | (vide) | Aucune |
-| Free | `free` | (vide) | (vide) | Aucune |
-
-### Autres causes de données absentes
-
-- **Forfait épuisé :** Vérifiez votre consommation dans l'application ou le tableau de bord de votre fournisseur.
-- **Limitation de débit :** Certains forfaits réduisent le débit à 128 kbps après épuisement du quota haut débit. À cette vitesse, les pages mettent 30 à 60 secondes à charger.
-- **DNS bloqué :** Essayez de changer les DNS dans les réglages réseau avancés (utilisez `8.8.8.8` de Google ou `1.1.1.1` de Cloudflare).
-
----
-
-## Section 6 : Appels et SMS impossibles via l'eSIM
-
-Toutes les eSIM ne supportent pas les appels et les SMS. La plupart des eSIM de voyage sont **data-only** (données uniquement).
-
-### Vérifiez le type de votre forfait
-
-- **Data-only :** Internet uniquement. Pas de numéro de téléphone, pas d'appels, pas de SMS. Utilisez WhatsApp, FaceTime, Signal ou Telegram pour communiquer.
-- **Voice + Data :** Inclut un numéro de téléphone. Vérifiez que la ligne est sélectionnée comme ligne par défaut pour la voix dans les réglages.
-
-### Si votre forfait supporte les appels mais qu'ils ne fonctionnent pas
-
-1. Allez dans **Réglages > Données cellulaires > Forfait par défaut**.
-2. Assurez-vous que votre eSIM est sélectionnée pour les appels vocaux.
-3. Vérifiez que l'option **Appels Wi-Fi** est activée si disponible.
-4. Redémarrez.
-
----
-
-## Section 7 : Lenteur et déconnexions intermittentes
-
-### Problème de débit
-
-**Causes fréquentes :**
-- Forfait en throttling (débit réduit après épuisement du quota)
-- Réseau surchargé (aéroport, centre-ville dense, événement)
-- Mauvaise couverture réseau à votre emplacement
-
-**Solutions :**
-1. **Vérifiez votre quota** dans l'application du fournisseur.
-2. **Changez de réseau manuellement** — même fournisseur eSIM, autre réseau partenaire.
-3. **Désactivez la 5G** si disponible — en zone de couverture 5G limite, la 4G LTE est souvent plus stable. Allez dans Réglages > Données cellulaires > [eSIM] > Voix et données > 4G.
-4. **Testez votre débit** sur [speedtest.net](https://speedtest.net) — moins de 2 Mbps = probablement du throttling.
-
-### Coupures aléatoires
-
-**Causes possibles :**
-- Basculement automatique entre réseaux partenaires
-- Conflit avec la SIM physique
-- iOS/Android désactive l'eSIM inactive pour économiser la batterie
-
-**Solutions :**
-1. **Désactivez la sélection automatique du réseau** et verrouillez sur un réseau stable (Section 4, Étape 2).
-2. **Désactivez temporairement la SIM physique** pour isoler le problème (Réglages > Données cellulaires > [SIM physique] > Désactiver cette ligne).
-3. **Vérifiez l'économiseur de batterie** — certains modes d'économie d'énergie limitent les données en arrière-plan.
-
----
-
-## Section 8 : L'eSIM se désactive toute seule
-
-C'est un problème frustrant qui a plusieurs causes possibles.
-
-### Cause 1 : Conflit double SIM
-
-Si vos deux lignes sont configurées pour utiliser la même fonction (ex. les deux pour les données), iOS/Android peut basculer de façon inattendue.
+**Cause :** Le profil n'a jamais été libéré de l'ancien appareil, donc l'opérateur l'associe encore à ce téléphone.
 
 **Solution :**
-1. Définissez des rôles clairs : une ligne pour les données, l'autre pour la voix/SMS.
-2. Dans Réglages > Données cellulaires, assurez-vous qu'une seule ligne est sélectionnée pour les données.
+1. Sur l'ancien appareil, supprimez l'eSIM sous `Réglages > Cellulaire`.
+2. Attendez environ cinq minutes et réessayez sur le nouvel appareil.
+3. Si l'ancien appareil est perdu ou cassé, contactez votre opérateur et demandez-lui de libérer de force le profil de son côté.
 
-### Cause 2 : « Permettre le basculement des données »
+---
 
-Sur iPhone, l'option « Permettre le basculement des données cellulaires » peut automatiquement passer à l'autre ligne si la connexion est mauvaise.
+## Impossible d'ajouter le forfait cellulaire eSIM
 
-**Solution :** Désactivez cette option si vous souhaitez utiliser exclusivement votre eSIM.
+**Cause :** Le téléphone a atteint sa limite de profils eSIM stockés (généralement 8–10, selon le modèle), ou l'appareil est un modèle de Chine continentale sans matériel eSIM.
 
-### Cause 3 : Bug logiciel
+**Solution :** Supprimez les eSIM inutilisés sous `Réglages > Cellulaire`, puis ajoutez le nouveau. Si votre appareil a été acheté en Chine continentale, il utilise deux emplacements SIM physiques et ne peut pas ajouter d'eSIM — pour savoir comment identifier un modèle Chine ou Hong Kong et confirmer que votre téléphone a le matériel, voir notre [guide de vérification matérielle et d'erreurs](/faq/esim-activation-errors-troubleshooting-guide/).
 
-Des bugs d'iOS ou d'Android peuvent désactiver aléatoirement une eSIM.
+---
+
+## Code de confirmation eSIM requis
+
+**Cause :** Certains profils eSIM ont un code de confirmation obligatoire requis avant le téléchargement du profil. C'est un code PIN de 4 à 8 chiffres qui vérifie votre identité.
+
+**Solution :** Recherchez un code à 4–8 chiffres dans l'e-mail que votre opérateur a envoyé avec le code QR. Si vous ne le trouvez pas, contactez l'opérateur.
+
+**Endroits courants pour trouver le code de confirmation :**
+- Ligne d'objet de l'e-mail d'activation
+- Près du bas de l'e-mail, sous « Détails d'activation »
+- Dans l'application de l'opérateur sous « Mes forfaits » > « Détails »
+
+---
+
+## SIM eSIM non pris en charge sur un appareil verrouillé opérateur
+
+**Cause :** Le téléphone est verrouillé sur un autre opérateur et ne peut pas accepter un profil d'un fournisseur différent.
+
+**Solution :** Vérifiez `Réglages > Général > Informations > Verrouillage opérateur`. S'il n'est pas indiqué « Aucune restriction SIM », contactez votre opérateur d'origine pour demander un déblocage. Pour un guide complet des verrouillages opérateur — comment vérifier le statut, les politiques de déblocage des opérateurs américains et comment obtenir le déblocage de l'appareil — voir notre [guide matériel et verrouillage opérateur](/faq/esim-activation-errors-troubleshooting-guide/).
+
+---
+
+## eSIM pas de connexion de données après activation
+
+**Cause :** Le nom du point d'accès (APN) n'a pas été configuré automatiquement, donc le téléphone n'a pas de route vers le réseau de données.
 
 **Solution :**
-1. Mettez à jour votre système d'exploitation vers la dernière version.
-2. Réinitialisez les réglages réseau : **Réglages > Général > Transférer ou réinitialiser > Réinitialiser > Réinitialiser les réglages réseau**. Cela ne supprime pas vos eSIM mais efface les mots de passe Wi-Fi.
+1. Allez dans `Réglages > Cellulaire > Réseau de données cellulaires`.
+2. Saisissez la valeur APN du site web de votre fournisseur eSIM (par exemple, `globaldata` pour Airalo).
+3. La plupart des eSIM de voyage configurent automatiquement l'APN, donc confirmez la valeur correcte auprès de votre fournisseur.
+
+**Valeurs APN courantes par fournisseur (si la configuration automatique échoue) :**
+
+| Fournisseur | APN | Nom d'utilisateur | Mot de passe |
+|----------|-----|----------|----------|
+| Roami | internet | (vide) | (vide) |
+| Airalo | globaldata | (vide) | (vide) |
+| Holafly | hola | (vide) | (vide) |
+| Nomad | nbdata | (vide) | (vide) |
+| Ubigi | ubigi | (vide) | (vide) |
+| Google Fi | h2g2 | (vide) | (vide) |
+| T-Mobile (US) | fast.t-mobile.com | (vide) | (vide) |
+| AT&T (US) | nxgen | (vide) | (vide) |
+| Verizon (US) | vzwinternet | (vide) | (vide) |
+| EE (UK) | everywhere | (vide) | (vide) |
+| O2 (UK) | mobile.o2.co.uk | web | web |
+| Vodafone (UK) | internet | (vide) | (vide) |
+| Three (UK) | three.co.uk | (vide) | (vide) |
 
 ---
 
-## Section 9 : Profil eSIM supprimé après mise à jour
+## eSIM bloqué sur l'activation
 
-Les mises à jour majeures d'iOS (ex. iOS 18 → iOS 19) ou d'Android peuvent dans de rares cas supprimer les profils eSIM. C'est un bug connu, documenté par Apple et Google.
+**Cause :** Le téléchargement du profil s'est bloqué, souvent en raison d'un signal faible ou d'un serveur d'activation occupé.
 
-**Prévention :**
-1. Avant toute mise à jour majeure, **sauvegardez vos QR codes eSIM** (capture d'écran, impression, ou conservation de l'email).
-2. Notez les **identifiants d'activation manuelle** (adresse SM-DP+ et code).
-
-**Si le profil a déjà été supprimé :**
-1. Contactez votre fournisseur eSIM pour obtenir un nouveau QR code. La plupart le font gratuitement.
-2. Pour une eSIM d'opérateur traditionnel (Orange, SFR, etc.), rendez-vous en boutique avec une pièce d'identité.
+**Solution :**
+1. Assurez-vous d'être sur un réseau stable.
+2. Activez et désactivez le mode Avion.
+3. S'il reste bloqué plus de 10 minutes, supprimez l'eSIM et réinstallez-le à partir du code QR.
 
 ---
 
-## Section 10 : Transfert eSIM vers un nouveau téléphone
+## Dual eSIM avec une ligne affichant « No Service »
 
-Le transfert d'une eSIM d'un ancien téléphone vers un nouveau peut être problématique.
+**Cause :** Avec deux eSIM actifs, le routage des appels entrants et des données peut entrer en conflit, laissant une ligne sans service. C'est un **problème de signal dual eSIM** courant qui affecte les utilisateurs avec deux lignes actives.
 
-**iPhone → iPhone (iOS 19) :**
-1. Placez les deux iPhone à proximité pendant la configuration du nouveau.
-2. L'option « Transférer votre eSIM » apparaît automatiquement.
-3. Si elle n'apparaît pas, le transfert n'est pas supporté par votre opérateur — contactez-le.
-
-**Android → Android :**
-La procédure varie selon le fabricant. Samsung, Google Pixel et Xiaomi supportent le transfert eSIM via leurs assistants de configuration respectifs.
-
-**Si le transfert échoue :**
-- Supprimez l'eSIM de l'ancien téléphone.
-- Contactez l'opérateur pour un nouveau QR code.
-- Scannez-le sur le nouveau téléphone.
-
-Pour un guide complet, consultez notre **[guide de transfert eSIM entre iPhone et Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
+**Solution :**
+1. Sous `Réglages > Cellulaire`, confirmez quelle ligne est définie pour les **données cellulaires** et laquelle pour la **ligne vocale par défaut**.
+2. Désactivez et réactivez chaque ligne.
+3. Pour une solution plus approfondie, consultez notre guide **[Dual eSIM ne fonctionne pas ? 12 correctifs pour iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 ---
 
-## Section 11 : Résoudre les conflits double SIM
+## Échec du transfert eSIM
 
-Utiliser une eSIM + une SIM physique simultanément peut créer des conflits.
+**Cause :** Il n'existe pas de transfert eSIM inter-plateformes intégré, et votre opérateur peut ne pas prendre en charge le transfert via application.
 
-### Problème : Les appels arrivent sur la mauvaise ligne
-
-**Solution iPhone :**
-1. **Réglages > Données cellulaires > Forfait par défaut**.
-2. Sélectionnez la ligne souhaitée pour les appels vocaux.
-3. Dans Contacts, vous pouvez aussi définir une ligne préférée par contact.
-
-### Problème : Les données basculent automatiquement
-
-**Solution :** Désactivez « Permettre le basculement des données cellulaires » dans les réglages Données cellulaires.
-
-### Problème : iMessage/FaceTime se désactive
-
-iMessage et FaceTime sont liés à votre numéro de téléphone principal. Si vous changez de ligne par défaut, ils peuvent se désactiver temporairement. Allez dans Réglages > Messages pour les réactiver (ils utiliseront votre identifiant Apple en attendant).
+**Solution :** Demandez à votre opérateur de réémettre l'eSIM sous forme de nouveau code QR et scannez-le sur le nouvel appareil. Après le transfert, WhatsApp, iMessage et les codes à deux facteurs SMS continuent de fonctionner car votre numéro n'a pas changé. Pour les instructions complètes étape par étape, voir notre **[guide de transfert eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 
-## Codes d'erreur eSIM et leur signification
+## Erreur de restauration eSIM iPhone 4013 ou 4014
 
-| Code d'erreur | Signification | Solution |
-|:---|:---|:---|
-| **8.1** | Profil déjà installé sur un autre appareil | Supprimez l'ancien profil ou contactez l'opérateur |
-| **8.2** | Mémoire eUICC pleine | Supprimez des profils inutilisés |
-| **8.3** | Code d'activation expiré | Demandez un nouveau code à l'opérateur |
-| **8.4** | Erreur de communication SM-DP+ | Vérifiez votre connexion Internet, désactivez le VPN |
-| **8.5** | Profil corrompu | Redemandez le QR code — le profil est irrécupérable |
-| **8.6** | Conflit de profil | Supprimez toute ancienne version du même profil |
-| **8.7** | Politique de l'opérateur — non autorisé | Vérifiez le déverrouillage du téléphone |
-| **"Forfait non compatible"** | L'opérateur ne supporte pas votre modèle | Vérifiez la liste de compatibilité de l'opérateur |
+**Cause :** Ces erreurs indiquent un problème matériel ou de firmware lors d'une restauration logicielle, pas un problème eSIM. Elles sont souvent causées par un câble USB défectueux ou un logiciel informatique obsolète.
 
-Ces codes d'erreur sont standardisés par la spécification **GSMA SGP.22** qui régit le provisionnement à distance des eSIM. Tous les opérateurs et fabricants doivent s'y conformer.
+**Solution :** Essayez un autre câble et port USB, mettez à jour le système d'exploitation de votre ordinateur, puis retentez la restauration. Contactez l'assistance Apple si l'erreur persiste.
 
 ---
 
-## Problèmes spécifiques aux opérateurs
+## Profil eSIM expiré
 
-### Opérateurs français
+**Cause :** Le code QR ou le code d'activation eSIM était limité dans le temps et a expiré.
 
-| Opérateur | Problème connu | Solution |
-|-----------|---------------|----------|
-| **Orange** | eSIM parfois non reconnue après restauration iCloud | Réinstaller via l'app Orange et Moi |
-| **SFR** | Délai d'activation jusqu'à 4h pour nouvelle eSIM | Attendre ; redémarrer après 4h |
-| **Bouygues** | eSIM prépayée non compatible iPhone 11 et antérieurs | Vérifier la compatibilité avant achat |
-| **Free** | QR code unique — si perdu, obligation de passer en boutique | Conserver précieusement le QR code |
-
-### Fournisseurs eSIM de voyage
-
-| Fournisseur | Problème connu | Solution |
-|------------|---------------|----------|
-| **Airalo** | Lenteur en heures de pointe aux USA (T-Mobile) | Basculer manuellement sur AT&T si disponible |
-| **Holafly** | APN non fourni automatiquement sur Android | Configurer l'APN `holafly` manuellement |
-| **Nomad** | Activation impossible si Wi-Fi instable | Utiliser les données cellulaires de la SIM principale |
-| **Ubigi** | Profil parfois supprimé après mise à jour Android | Réinstaller depuis l'app Ubigi |
+**Solution :** Contactez votre fournisseur eSIM et demandez un nouveau code QR, puis activez-le rapidement.
 
 ---
 
-## 16 scénarios réels de dépannage
+## Itinérance des données eSIM ne fonctionne pas
 
-Ces scénarios sont basés sur des retours d'utilisateurs réels compilés depuis les forums, les réseaux sociaux et les tickets de support.
+**Cause :** L'itinérance des données est désactivée pour la ligne eSIM de voyage, donc elle ne peut pas se connecter au réseau local.
 
-### 1. Atterrissage à New York, eSIM installée mais « Aucun service »
-
-**Situation :** Vous avez installé votre eSIM USA à Paris avant le départ. À l'atterrissage à JFK, l'eSIM affiche « Aucun service » alors qu'elle était bien configurée.
-
-**Diagnostic probable :** L'itinérance des données n'est pas activée sur l'eSIM.
-
-**Solution :** Activez l'itinérance des données pour la ligne eSIM, puis passez en mode avion 30 secondes.
-
-### 2. QR code scanné mais installation bloquée à 90 %
-
-**Situation :** Le scan du QR code fonctionne, l'installation commence, mais reste bloquée indéfiniment sur « Activation en cours... ».
-
-**Diagnostic probable :** Connexion au serveur SM-DP+ interrompue (Wi-Fi instable, VPN, pare-feu).
-
-**Solution :** Désactivez le VPN. Si vous utilisez un Wi-Fi public, passez en 4G sur votre ligne principale. Réessayez.
-
-### 3. eSIM fonctionnait parfaitement, soudainement plus de données
-
-**Situation :** L'eSIM a fonctionné 5 jours sans problème, puis soudainement plus aucune donnée ne passe, bien que le signal soit affiché.
-
-**Diagnostic probable :** Forfait épuisé ou limitation de débit.
-
-**Solution :** Vérifiez votre consommation. Si le forfait est épuisé, achetez un rechargement.
-
-### 4. L'eSIM fonctionne mais certains sites sont inaccessibles
-
-**Situation :** Google et WhatsApp fonctionnent, mais certains sites ou services ne se chargent pas.
-
-**Diagnostic probable :** Problème de DNS ou de routage.
-
-**Solution :** Changez les DNS. Sur iPhone : Réglages > Wi-Fi > (i) > Configurer DNS > Manuel. Ajoutez `1.1.1.1` et `8.8.8.8`.
-
-### 5. Double SIM : la SIM physique consomme les données
-
-**Situation :** Vous avez configuré l'eSIM pour les données, mais votre facture affiche des frais de roaming sur la SIM physique.
-
-**Diagnostic probable :** L'option « Permettre le basculement des données » est activée.
-
-**Solution :** Désactivez cette option ET désactivez l'itinérance des données sur votre SIM physique.
-
-### 6. eSIM installée, « E » ou « 3G » seulement
-
-**Situation :** La connexion est établie mais uniquement en Edge ou 3G, pas en 4G/5G.
-
-**Diagnostic probable :** Le réseau partenaire ne supporte pas la 4G à votre emplacement OU votre forfait est bridé.
-
-**Solution :** Changez manuellement de réseau partenaire (Section 4, Étape 2) ou activez la 4G/5G dans Réglages > Données cellulaires > [eSIM] > Voix et données.
-
-### 7. eSIM USA fonctionne à New York, pas à San Francisco
-
-**Situation :** Tout fonctionnait à NYC. Après un vol vers SFO, plus rien.
-
-**Diagnostic probable :** Changement de réseau nécessaire. Votre eSIM était verrouillée sur un réseau de la côte Est.
-
-**Solution :** Activez le mode avion 30 secondes, ou forcez une recherche manuelle de réseau.
-
-### 8. Appels Wi-Fi impossibles avec l'eSIM
-
-**Situation :** Vous voulez recevoir des appels sur votre numéro français via les données de l'eSIM (Wi-Fi Calling).
-
-**Diagnostic probable :** Le Wi-Fi Calling nécessite une configuration spécifique et n'est pas supporté par tous les opérateurs.
-
-**Solution :** Vérifiez que le Wi-Fi Calling est activé et que votre opérateur français le supporte à l'étranger. Sur iPhone : Réglages > Téléphone > Appels Wi-Fi.
-
-### 9. eSIM fonctionne sur iPhone mais pas de partage de connexion
-
-**Situation :** Les données fonctionnent, mais l'option « Partage de connexion » est absente ou grisée.
-
-**Diagnostic probable :** L'APN n'a pas la configuration pour le hotspot, ou le forfait eSIM ne supporte pas le partage de connexion.
-
-**Solution :** Vérifiez les conditions du forfait. Si le partage est inclus, configurez l'APN pour le hotspot : Réglages > Données cellulaires > [eSIM] > Réseau de données > renseignez « Partage de connexion ».
-
-### 10. Message « Carte SIM non provisionnée »
-
-**Situation :** Après installation, le téléphone affiche « Carte SIM non provisionnée » ou l'équivalent.
-
-**Diagnostic probable :** Le profil eSIM n'a pas été complètement téléchargé ou activé côté opérateur.
-
-**Solution :** Redémarrez. Si le problème persiste après 30 minutes, supprimez le profil et réinstallez-le avec un nouveau QR code.
-
-### 11. eSIM bloquée après réinitialisation d'usine
-
-**Situation :** Vous avez réinitialisé votre téléphone et l'eSIM a disparu.
-
-**Diagnostic probable :** Sur iPhone, la réinitialisation vous demande si vous souhaitez conserver les eSIM. Si vous répondez « Supprimer », elles sont effacées définitivement.
-
-**Solution :** Contactez tous vos opérateurs eSIM pour obtenir de nouveaux QR codes.
-
-### 12. Deux eSIM de voyage — une seule fonctionne
-
-**Situation :** Vous avez installé une eSIM Europe et une eSIM Maroc, mais une seule est active.
-
-**Diagnostic probable :** Selon votre modèle de téléphone, seul un nombre limité d'eSIM peut être actif simultanément.
-
-**Solution :** Activez/désactivez manuellement la ligne souhaitée. Sur iPhone : Réglages > Données cellulaires > activez/désactivez chaque ligne.
-
-### 13. eSIM reçue par email ne contient pas de QR code
-
-**Situation :** L'email de confirmation ne contient qu'un long code, pas de QR code à scanner.
-
-**Diagnostic probable :** L'image du QR code est bloquée par votre client email (fréquent avec Gmail et Outlook en mode « sécurité renforcée »).
-
-**Solution :** Affichez l'email en mode « Afficher les images » ou utilisez l'option « Saisir manuellement » avec le code fourni.
-
-### 14. Connexion 5G affichée mais débit 4G
-
-**Situation :** L'icône 5G est affichée mais le débit est identique à la 4G.
-
-**Diagnostic probable :** Vous êtes connecté en 5G NSA (Non-Standalone), qui utilise un cœur de réseau 4G.
-
-**Solution :** C'est normal. La 5G NSA est très répandue et offre des performances similaires à une bonne 4G+. Testez votre débit — si supérieur à 20 Mbps, tout va bien.
-
-### 15. Profil eSIM « verrouillé » après changement de code PIN
-
-**Situation :** Vous avez changé le code PIN de l'eSIM et maintenant elle est bloquée.
-
-**Diagnostic probable :** Trois tentatives de PIN erronées bloquent la carte SIM (physique ou eSIM).
-
-**Solution :** Vous avez besoin du code PUK (Personal Unblocking Key). Contactez votre opérateur eSIM pour l'obtenir.
-
-### 16. Impossible de supprimer un profil eSIM
-
-**Situation :** Vous voulez supprimer une ancienne eSIM mais l'option « Supprimer le forfait » est grisée.
-
-**Diagnostic probable :** Restriction de profil MDM ou bug temporaire.
-
-**Solution :** Redémarrez et réessayez. Si l'option reste grisée, allez dans Réglages > Général > Profils et gestion de l'appareil pour vérifier la présence d'un profil de gestion.
+**Solution :** Allez dans `Réglages > Cellulaire > [votre eSIM]` et activez l'**itinérance des données**. C'est requis pour que la plupart des eSIM de voyage fonctionnent à l'étranger.
 
 ---
 
-## Tableau de diagnostic rapide par symptôme
+## eSIM supprimé par erreur
 
-| Symptôme | Cause la plus probable | Action immédiate |
-|----------|----------------------|------------------|
-| « Impossible d'ajouter eSIM » | Mémoire eUICC pleine | Supprimer anciens profils |
-| QR code ne scanne pas | Problème d'affichage/écran | Saisie manuelle ou impression |
-| « Aucun service » | Itinérance désactivée | Activer itinérance + mode avion |
-| Barres OK, pas de données | APN manquant/incorrect | Configurer APN |
-| Débit très lent | Quota épuisé ou throttling | Vérifier consommation |
-| eSIM disparue | Mise à jour iOS/Android | Contacter opérateur, nouveau QR |
-| Appels impossibles | Forfait data-only | Utiliser WhatsApp/FaceTime |
-| Coupures fréquentes | Sélection réseau auto | Sélection manuelle du réseau |
+**Cause :** La suppression d'un eSIM retire le profil du téléphone mais n'annule pas le forfait.
+
+**Solution :**
+- Pour les eSIM d'opérateur postpayé, contactez l'opérateur — il peut généralement réémettre le code QR.
+- Pour les eSIM de voyage (Roami, Airalo et similaires), la suppression est généralement permanente, donc vous devrez acheter un nouveau forfait.
+- Conservez toujours une sauvegarde de votre e-mail d'activation original et du code QR.
 
 ---
 
-## FAQ — Dépannage eSIM
+## MDM ou restrictions d'entreprise bloquent l'eSIM
 
-**Q1 : Puis-je réinstaller la même eSIM plusieurs fois ?**
-La plupart des QR codes eSIM sont à usage unique. Une fois installé, le profil est lié à votre téléphone. Si vous devez le réinstaller (changement de téléphone, réinitialisation), vous aurez besoin d'un nouveau QR code de votre opérateur.
+**Cause :** Sur un appareil géré (professionnel), une politique de gestion des appareils mobiles telle que `AllowESIMModification` peut bloquer l'ajout ou la suppression d'eSIM.
 
-**Q2 : Est-ce que le support Apple/Google peut m'aider avec une eSIM de voyage ?**
-Apple et Google peuvent diagnostiquer les problèmes matériels et logiciels de votre téléphone, mais pas les problèmes liés au profil eSIM lui-même (code expiré, réseau partenaire, etc.). Pour ces problèmes, contactez directement votre fournisseur eSIM.
-
-**Q3 : Comment tester mon eSIM avant de voyager ?**
-Si votre eSIM couvre votre pays de résidence, vous pouvez l'activer brièvement chez vous, vérifier la connexion, puis la désactiver. Attention : certains forfaits démarrent leur période de validité dès l'activation. Lisez les conditions.
-
-**Q4 : L'eSIM se désactive-t-elle automatiquement à la fin du forfait ?**
-Non. Le profil eSIM reste installé même après expiration du forfait. Il affichera « Aucun service » mais restera dans vos réglages. Vous devez le supprimer manuellement.
-
-**Q5 : Pourquoi mon eSIM affiche-t-elle un réseau différent de celui attendu ?**
-Les eSIM de voyage utilisent des accords de roaming avec plusieurs opérateurs partenaires. Votre téléphone sélectionne automatiquement le réseau avec le meilleur signal. Si vous préférez un réseau spécifique, utilisez la sélection manuelle (Section 4, Étape 2).
-
-**Q6 : La batterie se décharge plus vite avec une eSIM — est-ce normal ?**
-L'eSIM elle-même ne consomme pas plus de batterie qu'une SIM physique (différence < 1 %). En revanche, une double SIM active ou un signal faible peuvent augmenter la consommation de 5 à 15 %. Désactivez la ligne inutilisée pour économiser la batterie.
+**Solution :** Contactez votre administrateur IT pour activer les modifications eSIM, ou utilisez un appareil non géré.
 
 ---
 
-Besoin d'aide pour un problème spécifique non couvert ici ? Consultez nos autres guides : **[12 correctifs double eSIM](/faq/dual-esim-not-working-12-fixes-for-iphone/)** pour les problèmes de double ligne, et le **[guide d'activation eSIM](/faq/how-to-activate-an-esim/)** pour une procédure pas à pas.
+## eSIM a disparu après redémarrage
+
+**Symptôme :** Vous avez redémarré votre téléphone et l'eSIM n'est plus listé sous Réglages > Cellulaire. Il a disparu.
+
+**Cause :** Un bug logiciel sur iOS ou Android peut parfois rendre les profils eSIM masqués ou illisibles après un redémarrage, surtout après une mise à jour du système d'exploitation. Le profil est toujours sur l'appareil, mais le système n'a pas réussi à le monter.
+
+**Solution :**
+1. **iPhone :** Allez dans Réglages > Général > Informations et faites défiler jusqu'à « SIM disponible » ou « SIM numérique ». Si l'eSIM apparaît là mais pas dans Cellulaire, redémarrez à nouveau le téléphone.
+2. **iPhone :** Si le redémarrage ne fonctionne pas, allez dans Réglages > Cellulaire > Ajouter un eSIM. Parfois le téléphone détecte le profil existant et propose de le rajouter sans nouveau code QR.
+3. **Android (Samsung) :** Allez dans Réglages > Connexions > Gestionnaire SIM. L'eSIM peut apparaître comme « Inactif ». Appuyez dessus et activez-le.
+4. **Android (Pixel) :** Allez dans Réglages > Réseau et Internet > SIM. Si l'eSIM est manquant, appuyez sur « Ajouter un opérateur » — le téléphone peut détecter le profil existant.
+5. Si rien de tout cela ne fonctionne, contactez votre opérateur et demandez un nouveau code QR. L'ancien profil peut être corrompu.
+
+**Prévention :** Avant de redémarrer, assurez-vous que toutes les lignes eSIM sont désactivées, puis redémarrez, puis réactivez-les. Cela réduit le risque que le système perde la trace du profil.
 
 ---
-*Basé sur la documentation technique officielle de la [GSMA SGP.22](https://www.gsma.com/esim/sgp-22-specification/), les pages d'assistance d'[Apple](https://support.apple.com/fr-fr/108072) et les retours d'utilisateurs compilés. Dernière révision : août 2026.*
+
+## Wi-Fi Calling fonctionne mais pas les données eSIM
+
+**Symptôme :** Vous avez Wi-Fi Calling actif sur votre ligne personnelle, mais votre eSIM de voyage n'a pas de connexion de données. Ou l'eSIM fonctionne en Wi-Fi mais pas en cellulaire.
+
+**Cause :** Un conflit de routage entre Wi-Fi Calling et les données cellulaires. Lorsque Wi-Fi Calling est actif, le téléphone peut prioriser le réseau Wi-Fi pour toutes les communications, y compris les données, et échouer à router correctement les données cellulaires via l'eSIM.
+
+**Solution :**
+1. Désactivez temporairement Wi-Fi Calling sur votre ligne personnelle : Réglages > Cellulaire > [ligne personnelle] > Wi-Fi Calling > désactiver.
+2. Activez et désactivez le mode Avion pour forcer le téléphone à se ré-enregistrer sur le réseau cellulaire.
+3. Testez la connexion de données eSIM. Si elle fonctionne, vous pouvez réactiver Wi-Fi Calling — le routage devrait maintenant être correct.
+4. Si le problème réapparaît, vérifiez que votre ligne personnelle a l'**itinérance des données désactivée** et l'eSIM de voyage a l'**itinérance des données activée**.
+
+**Alternative :** Sur iPhone, allez dans Réglages > Cellulaire > Données cellulaires et assurez-vous que l'eSIM de voyage est sélectionné. Puis activez « Autoriser le basculement des données cellulaires » — cela permet au téléphone d'utiliser l'eSIM de voyage pour les données Wi-Fi Calling même si la ligne personnelle est la ligne vocale.
+
+---
+
+## Conflit eSIM vs SIM physique
+
+**Symptôme :** Vous insérez une carte SIM physique dans votre téléphone, et votre eSIM précédemment fonctionnel affiche soudainement « No Service » ou disparaît complètement des Réglages.
+
+**Cause :** C'est un comportement connu sur les appareils verrouillés opérateur. Lorsqu'un iPhone verrouillé détecte une SIM physique d'un autre opérateur, il peut désactiver l'emplacement eSIM pour empêcher une utilisation non autorisée. Sur certains appareils Android, l'insertion d'une SIM physique peut également amener le système à prioriser la SIM physique sur l'eSIM pour toutes les fonctions. Nouveau dans le mélange des deux formats ? La [comparaison eSIM vs SIM physique](/faq/what-is-esim/) explique comment ils coexistent.
+
+**Solution :**
+1. Retirez la carte SIM physique du tiroir.
+2. Redémarrez votre téléphone.
+3. L'eSIM devrait réapparaître dans Réglages > Cellulaire (iPhone) ou Réglages > Connexions > Gestionnaire SIM (Android).
+4. Si l'eSIM réapparaît mais affiche toujours « No Service », activez l'itinérance des données pour la ligne eSIM.
+5. Si vous avez besoin que la SIM physique et l'eSIM fonctionnent simultanément, contactez votre opérateur pour débloquer votre appareil.
+
+> **Alternative :** Certains utilisateurs rapportent que désactiver puis réactiver la ligne eSIM (sans retirer la SIM physique) résout le conflit. Essayez ceci d'abord avant de retirer la SIM physique.
+
+---
+
+## eSIM Apple Watch ne fonctionne pas
+
+**Symptôme :** Vous avez configuré le cellulaire sur votre Apple Watch, mais elle affiche « No Service » ou « Recherche » — ou le forfait eSIM n'apparaît pas du tout dans l'app Watch.
+
+**Cause :** L'activation eSIM Apple Watch nécessite la prise en charge par l'opérateur du type de forfait spécifique de la montre, et la configuration nécessite que votre iPhone soit à proximité avec une connexion internet stable.
+
+**Solution :** Vérifiez que votre opérateur prend en charge l'eSIM Apple Watch, puis dissociez et réassociez la montre, en gardant votre iPhone à proximité tout au long. Si elle ne s'active toujours pas, contactez votre opérateur avec l'**EID** et l'**IMEI** de la montre pour qu'il puisse la provisionner manuellement. Pour un guide complet — incluant quels modèles d'iPad et d'Apple Watch prennent en charge l'eSIM — voir notre [guide eSIM iPad et Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
+
+---
+
+## Référence des codes d'erreur eSIM
+
+| Code d'erreur | Plateforme | Signification | Solution |
+|------------|----------|---------|-----|
+| **4013** | iPhone (restauration) | Défaillance matérielle/firmware pendant la restauration | Changer câble, port USB, mettre à jour macOS/iTunes |
+| **4014** | iPhone (restauration) | Similaire à 4013 ; généralement un problème de communication USB | Idem ci-dessus |
+| **-8** | Android (activation) | Délai d'attente réseau | Attendre et réessayer, ou changer de Wi‑Fi |
+| **-100** | Android (scan QR) | Format de code QR non pris en charge | Utiliser la saisie manuelle |
+| **0xE8000001** | iPhone (activation) | Serveur opérateur injoignable | Réessayer après 5 minutes ou utiliser la saisie manuelle |
+| **« eSIM configuration not supported »** | Android (Samsung) | L'opérateur ne prend pas en charge l'eSIM sur ce modèle | Vérifier avec l'opérateur |
+| **« Invalid SM‑DP+ address »** | Les deux | L'adresse de saisie manuelle est erronée | Revérifier l'adresse auprès de votre fournisseur |
+| **« LPA error -1 »** | Android | Erreur générique LPA (Local Profile Assistant) | Redémarrer le téléphone, réessayer. Si persiste, utiliser une autre application eSIM. |
+| **« EID mismatch »** | Les deux | Le profil est lié à un autre appareil | Contacter l'opérateur pour libérer le profil (Section 4) |
+| **« No EID » lors de la composition de `*#06#`** | Les deux | L'appareil ne prend pas en charge l'eSIM | Votre téléphone manque du matériel eSIM — voir notre [guide de vérification matérielle](/faq/esim-activation-errors-troubleshooting-guide/) |
+| **« eSIM management not available »** | Android (OnePlus) | Bug Oxygen OS | Mettre à jour vers la dernière version d'Oxygen OS |
+| **« Profile cannot be deleted »** | iPhone | eSIM bloqué en état d'attente | Redémarrer l'iPhone, puis réessayer de supprimer. Si bloqué, contacter l'opérateur. |
+| **-1** | Les deux | Échec générique d'activation | Redémarrer le téléphone, assurer la connectivité réseau, réessayer |
+| **-2** | Android | Code d'activation invalide | Ressaisir le code ou en demander un nouveau à l'opérateur |
+
+
+## Erreurs qui cassent votre eSIM
+
+Ce sont les erreurs utilisateur les plus courantes qui transforment un eSIM fonctionnel en brique. Évitez-les à tout prix — la plupart remontent à la façon dont l'activation fonctionne réellement, ce que l'[explication de l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) couvre étape par étape.
+
+| Erreur | Ce qui se passe | Comment éviter |
+|---------|--------------|--------------|
+| **Supprimer l'eSIM pour « corriger » un problème de connexion** | Le profil est définitivement supprimé — vous perdez toutes les données restantes et devez acheter un nouveau forfait | Ne touchez jamais « Supprimer l'eSIM » à moins que le forfait ne soit entièrement expiré. La suppression ne « rafraîchit » pas — elle détruit. |
+| **Scanner le code QR avec l'app Appareil photo** | L'appareil photo reconnaît le code mais ne fait rien — aucun profil ne s'installe | Ouvrez toujours d'abord Réglages > Cellulaire > Ajouter un eSIM — n'utilisez jamais l'app Appareil photo autonome. |
+| **Installer à l'aéroport avec un Wi-Fi faible** | Le téléchargement s'interrompt en pleine installation, corrompant le profil | Installez chez vous sur votre propre Wi-Fi stable avant de partir. |
+| **Attendre d'atterrir pour installer** | Vous arrivez sans Wi-Fi et ne pouvez pas télécharger le profil | Installez le profil avant le départ (il reste inactif jusqu'à ce que vous activiez l'itinérance des données). |
+| **Oublier d'activer l'itinérance des données pour l'eSIM** | Barres de signal complètes mais zéro internet | Après l'atterrissage, allez dans Réglages > Cellulaire > [votre eSIM] et activez l'itinérance des données. |
+| **Réinitialiser les paramètres réseau en pensant que cela « rafraîchira » l'eSIM** | La réinitialisation réseau ne supprime pas les eSIM, mais elle retire les mots de passe Wi-Fi et les appairages Bluetooth — vous perdez tous les réseaux enregistrés | Ne réinitialisez les paramètres réseau qu'en dernier recours, et sachez que cela ne corrigera pas les problèmes d'activation eSIM. |
+| **Désactiver la ligne eSIM au lieu de simplement désactiver l'itinérance des données** | L'eSIM est entièrement désactivé et ne s'enregistrera pas lorsque vous le réactiverez | Désactivez l'itinérance des données, pas toute la ligne. Gardez la ligne activée mais l'itinérance désactivée lorsqu'elle n'est pas utilisée. |
+
+
+## Plusieurs problèmes eSIM à la fois
+
+Parfois vous n'avez pas un seul problème — vous en avez deux ou trois à la fois. Voici comment diagnostiquer les symptômes combinés :
+
+| Combinaison de symptômes | Ce qui se passe réellement | Ordre de correction |
+|---------------------|---------------------------|-----------|
+| **Le code QR scanne mais ensuite « Activation failed »** | Le code QR est valide, mais le serveur de téléchargement est injoignable | Corrigez d'abord le réseau (Section 1), puis re-scannez |
+| **L'eSIM affiche des barres de signal mais pas de données ET « No Service » sur la ligne personnelle** | L'APN est manquant ET vous avez un conflit de routage dual-SIM | Corrigez d'abord l'APN (Section 8), puis le routage dual-SIM (Section 10) |
+| **Le transfert a fonctionné mais le nouveau téléphone a « No Service »** | Le profil a été transféré mais ne s'est pas enregistré sur le nouveau réseau | Supprimez l'eSIM de l'ancien téléphone, puis redémarrez le nouveau téléphone (Section 4 + Section 2) |
+| **Wi-Fi Calling fonctionne mais l'eSIM n'a pas de données ET la ligne personnelle a des frais d'itinérance** | Plusieurs conflits de routage plus l'itinérance des données laissée activée sur la ligne personnelle | Désactivez l'itinérance des données de la ligne personnelle, corrigez le conflit Wi-Fi Calling (Section 18), puis vérifiez l'APN |
+| **L'eSIM a disparu après redémarrage ET « Cellular Plan Cannot Be Added »** | Le profil est corrompu ET le stockage est plein | Supprimez d'abord les eSIM inutilisés (Section 5), puis essayez de rajouter (Section 17) |
+
+**Règle générale :** Corrigez d'abord les **problèmes de réseau** (Wi-Fi, itinérance des données, APN), puis les **problèmes de profil** (code QR, activation), puis les **problèmes spécifiques à l'appareil** (verrouillage opérateur, MDM). N'essayez pas de tout corriger en même temps — traitez les symptômes un par un.
+
+
+## Où trouver Ajouter un eSIM sur chaque téléphone
+
+La solution pour la plupart des erreurs est la même, mais le chemin du menu pour atteindre les contrôles eSIM varie selon la marque. Voici les chemins exacts plus les particularités d'erreur qui n'apparaissent que sur des appareils spécifiques. (Pour les méthodes d'installation complètes derrière ces menus, le [guide d'activation général](/faq/how-to-activate-an-esim/) contient chaque étape.)
+
+### Chemin du menu eSIM iPhone
+- **« Ajouter un eSIM » grisé** – votre iPhone peut être verrouillé opérateur. Vérifiez Réglages > Général > Informations > Verrouillage opérateur ; pour la solution complète du verrouillage opérateur, voir notre [guide verrouillage opérateur et matériel](/faq/esim-activation-errors-troubleshooting-guide/).
+- **Échec du transfert rapide** – assurez-vous que les deux téléphones sont sur le même Apple ID, ont le Bluetooth activé et sont à moins de 10 cm l'un de l'autre.
+- **Après mise à jour iOS, l'eSIM affiche « No Service »** – allez dans Réglages > Cellulaire > appuyez sur l'eSIM > désactivez et réactivez « Activer cette ligne ». Vérifiez également que l'itinérance des données est toujours activée.
+- **eSIM a disparu après mise à jour iOS** – voir Section 17. C'est plus courant sur iOS que sur Android après les mises à jour majeures.
+- **Spécifique iOS 18 :** Le flux « Ajouter un eSIM » a été repensé avec une option de saisie manuelle plus visible. Si vous êtes sur iOS 18 et le code QR ne scanne pas, le bouton de saisie manuelle est maintenant plus facile à trouver au bas de l'écran.
+
+### Chemin du menu eSIM Samsung Galaxy
+- **Le chemin du menu varie selon la version One UI :**
+  - **One UI 5 (Android 13) :** Réglages > Connexions > Gestionnaire SIM > Ajouter un eSIM
+  - **One UI 6/6.1 (Android 14) :** Réglages > Connexions > Gestionnaire SIM > Ajouter un eSIM (même chemin)
+  - **One UI 7 (Android 15) :** Réglages > Connexions > Gestionnaire SIM > Ajouter un forfait mobile
+- **Échec du scan du code QR** – essayez la saisie manuelle (appuyez sur « Saisir le code d'activation manuellement »). Samsung nécessite souvent l'adresse SM‑DP+ et le code d'activation séparément.
+- **Conflit dual SIM** – si vous avez une SIM physique et un eSIM, vérifiez que l'eSIM est défini comme SIM de données dans le Gestionnaire SIM.
+
+### Chemin du menu eSIM Google Pixel
+- **« Télécharger une SIM à la place ? »** – cette option apparaît au bas de l'écran des paramètres SIM. Si vous ne la voyez pas, votre Pixel peut être verrouillé opérateur.
+- **eSIM n'apparaît pas après le scan** – redémarrez le téléphone. Pixel a parfois besoin d'un redémarrage après le téléchargement du profil.
+- **Les paramètres APN ne s'enregistrent pas** – sur Pixel, les paramètres APN sont sous Réseau et Internet > SIM > [votre eSIM] > Noms des points d'accès. S'ils ne s'enregistrent pas :
+  1. Ajoutez un nouvel APN avec un **nom différent** (par exemple, « Airalo 2 » au lieu de « Airalo »).
+  2. Enregistrez-le, puis sélectionnez-le manuellement.
+  3. Activez et désactivez le mode Avion pour forcer le nouvel APN à prendre effet.
+- **eSIM disparaît après redémarrage sur Pixel** – voir Section 17. Les utilisateurs de Pixel le signalent plus fréquemment que les utilisateurs de Samsung.
+
+### Chemin du menu eSIM OnePlus
+- **Chemin du menu :** Réglages > Wi-Fi et réseau > SIM et réseau > Ajouter un eSIM
+- **Problème courant :** Les appareils OnePlus affichent parfois « eSIM non disponible » après une mise à jour Oxygen OS. Solution : Allez dans Réglages > Système > Mise à jour du système et installez le dernier correctif.
+- **Paramètres APN :** Situés sous Réglages > Wi-Fi et réseau > SIM et réseau > [eSIM] > Noms des points d'accès.
+
+### Chemin du menu eSIM Xiaomi
+- **Chemin du menu :** Réglages > Cartes SIM et réseaux mobiles > Ajouter un eSIM
+- **Paramètres APN :** Situés sous Réglages > Cartes SIM et réseaux mobiles > [eSIM] > Noms des points d'accès.
+
+### Chemin du menu eSIM Oppo et Realme
+- **Chemin du menu :** Réglages > Réseau mobile > Ajouter un eSIM
+
+**Vous n'êtes pas sûr que votre modèle exact possède le matériel eSIM** (Xiaomi pour le marché chinois, Huawei, Samsung A-series désactivé par l'opérateur) ? C'est une question de compatibilité — voir notre [guide de prise en charge matérielle et modèles](/faq/esim-activation-errors-troubleshooting-guide/), qui couvre la prise en charge modèle par modèle.
+
+
+## eSIM fonctionne chez vous mais pas à l'étranger
+
+**Symptôme :** Vous avez installé l'eSIM chez vous, il affiche des barres de signal, mais lorsque vous atterrissez à destination, il n'y a pas de service. Les particularités spécifiques aux destinations — réseaux partenaires, verrouillages régionaux, listes de contrôle à l'arrivée — sont rassemblées dans notre [guide eSIM de voyage](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
+
+**Cause racine :** Le profil eSIM a été activé alors que vous étiez sur votre réseau domestique, et il ne s'est pas enregistré sur le réseau de destination.
+
+**Solution :**
+1. Désactivez la ligne eSIM (`Réglages > Cellulaire > désactiver`).
+2. Attendez 10 secondes, puis réactivez-la.
+3. Allez dans Sélection du réseau, désactivez « Automatique », sélectionnez manuellement un réseau partenaire de votre fournisseur (demandez la liste des partenaires à votre fournisseur).
+4. Si cela échoue, désactivez et réactivez l'itinérance des données.
+5. Redémarrez le téléphone.
+
+Si cela ne fonctionne toujours pas, contactez votre fournisseur — votre forfait eSIM peut ne pas inclure le pays où vous êtes, ou il peut y avoir un problème d'accord d'itinérance.
+
+
+## eSIM fonctionne sur un opérateur mais pas un autre
+
+**Symptôme :** Vous avez un eSIM qui fonctionne bien, mais lorsque vous essayez d'ajouter un deuxième eSIM d'un autre opérateur, il échoue ou affiche « No Service ».
+
+**Cause racine :** Certains modèles de téléphones (surtout les plus anciens) ont des limitations sur les profils d'opérateurs qui peuvent coexister. C'est plus courant sur les appareils Android avec un firmware modem plus ancien.
+
+**Solution :**
+1. Vérifiez que votre téléphone prend en charge le dual eSIM (iPhone 13 et plus récents, Pixel 7 et plus récents, Samsung S23 et plus récents).
+2. Si vous avez une SIM physique insérée, essayez de la retirer — certains téléphones limitent le nombre de profils actifs lorsqu'une SIM physique est présente.
+3. Mettez à jour le firmware de votre téléphone (les mises à jour des paramètres de l'opérateur corrigent souvent cela).
+4. Contactez le deuxième opérateur et demandez si son profil eSIM prend en charge la coexistence dual-SIM.
+
+
+## Quand contacter votre fournisseur eSIM vs. votre fabricant de téléphone
+
+| Problème | Contact |
+|---------|---------|
+| Code QR expiré / invalide | Fournisseur eSIM |
+| « Activation failed » de façon répétée | Fournisseur eSIM |
+| Pas de données après configuration APN | Fournisseur eSIM |
+| L'appareil affiche « No Service » après l'atterrissage | Fournisseur eSIM (vérifier l'accord d'itinérance) |
+| eSIM n'apparaît pas dans les paramètres | Fabricant de téléphone (si bug logiciel) ou problème de verrouillage opérateur |
+| Problèmes matériels (appareil photo, écran, batterie) | Fabricant de téléphone |
+| Verrouillage / déverrouillage opérateur | Votre opérateur d'origine |
+| Restriction MDM | Votre service IT |
+| eSIM a disparu après redémarrage | Les deux — essayez les solutions de la Section 17, puis contactez le fournisseur |
+| « eSIM already in use » | Fournisseur eSIM (pour libérer de force le profil) |
+| eSIM Apple Watch ne se connecte pas | Opérateur (pour le provisionnement) ou assistance Apple (pour les problèmes d'appairage) |
+
+
+## Foire aux questions
+
+**Q1 : La suppression d'un eSIM annule-t-elle mon forfait ?**
+Non. La suppression de l'eSIM ne fait que retirer le profil du téléphone. Vous devez contacter l'opérateur séparément pour annuler le forfait.
+
+**Q2 : Puis-je récupérer un eSIM supprimé ?**
+Pour les eSIM d'opérateur postpayé, oui — l'opérateur peut réémettre le profil. Pour les eSIM de voyage, la suppression est généralement permanente et nécessite un nouvel achat.
+
+**Q3 : Pourquoi mon eSIM fonctionne-t-il en Wi-Fi mais pas en cellulaire ?**
+C'est presque toujours un problème d'APN ou d'itinérance des données. Suivez la Section 8 et la Section 14.
+
+**Q4 : Un eSIM vide-t-il ma batterie plus vite ?**
+Non. Faire tourner deux lignes actives en même temps peut utiliser légèrement plus d'énergie, mais un seul eSIM ne vide pas la batterie.
+
+**Q5 : Combien d'eSIM puis-je stocker sur mon téléphone ?**
+Généralement 8–10 profils sur iPhone et la plupart des appareils Android. Vous pouvez en stocker beaucoup plus mais n'en avoir que deux actifs à la fois (dual‑SIM).
+
+**Q6 : Pourquoi mon eSIM perd-il constamment le signal ?**
+Cela peut être dû à la congestion du réseau, une couverture faible ou un bug logiciel. Essayez de basculer le mode Avion, de redémarrer ou de sélectionner manuellement un réseau.
+
+**Q7 : Je vois « Activation Required » sur mon eSIM après un redémarrage – qu'est-ce que cela signifie ?**
+Le téléphone a perdu la connexion au serveur d'activation de l'opérateur. Redémarrez le téléphone et assurez-vous d'avoir une connexion réseau. Si cela persiste, supprimez et réinstallez l'eSIM.
+
+**Q8 : Et si mon opérateur dit qu'il ne prend pas en charge l'eSIM ?**
+Vous pouvez toujours utiliser des fournisseurs eSIM de voyage comme Roami, Airalo ou Holafly — ils fonctionnent indépendamment de votre opérateur d'origine et ne nécessitent pas sa prise en charge.
+
+**Q9 : Mon eSIM s'est transféré sur mon nouvel iPhone mais je ne peux pas passer d'appels – seules les données fonctionnent.**
+Vérifiez que l'eSIM est défini comme ligne vocale par défaut. Assurez-vous également que votre opérateur prend en charge VoLTE pour cette ligne.
+
+**Q10 : Le scan du code QR fonctionne mais le téléchargement prend une éternité – est-ce normal ?**
+Non. Cela devrait prendre 1–2 minutes. Si cela prend plus longtemps, votre Wi‑Fi est trop lent. Changez de réseau ou utilisez la saisie manuelle.
+
+**Q11 : Mon eSIM est actif mais je ne peux pas envoyer ou recevoir de SMS.**
+Certains eSIM de voyage sont uniquement pour les données et ne prennent pas en charge les SMS. Si vous avez besoin de SMS, achetez un forfait qui inclut explicitement un numéro de téléphone.
+
+**Q12 : J'ai accidentellement réinitialisé mes paramètres réseau – maintenant mon eSIM a disparu.**
+La réinitialisation des paramètres réseau ne supprime pas les profils eSIM. Votre eSIM devrait toujours être là. Allez dans Réglages > Cellulaire et réactivez la ligne. S'il a disparu, vous l'avez peut-être supprimé accidentellement — voir alors la Section 15.
+
+**Q13 : Quelle est la différence entre supprimer un eSIM et le désactiver ?**
+Désactiver un eSIM conserve le profil sur le téléphone mais désactive la ligne. Vous pouvez le réactiver à tout moment. Supprimer un eSIM retire définitivement le profil — vous ne pouvez pas le récupérer sans un nouveau code QR. Ne supprimez que lorsque le forfait est entièrement expiré.
+
+**Q14 : Un VPN peut-il interférer avec l'activation eSIM ?**
+Oui — les VPN peuvent interférer avec la connexion au serveur d'activation. Désactivez votre VPN avant d'activer un eSIM.
+
+**Q15 : Mon forfait eSIM indique « illimité » mais je n'ai plus de données après avoir utilisé 5GB.**
+De nombreux forfaits « illimités » ont une politique d'utilisation équitable (FUP) qui limite les vitesses après un certain seuil de données. Vérifiez les conditions de votre fournisseur — vous devrez peut-être acheter un forfait de recharge pour plus de données haut débit.
+
+👉 **Dépannage terminé ?** Choisissez un [forfait eSIM USA](/united-states-esim/) ou un [forfait eSIM Europe](/europe-esim/) pour vous reconnecter.
+
+---
+
+## Sources
+
+- [GSMA — spécification eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

@@ -1,20 +1,20 @@
 ---
-title: "Cara Membeli Paket eSIM Inggris Terbaik (Panduan)"
-h1_title: "Cara Membeli Paket eSIM Inggris Terbaik dan Mengaktifkannya di 2026"
-description: "Mencari eSIM Inggris untuk perjalanan atau kerja? Bandingkan paket terbaik untuk data, harga, dan jangkauan. Pelajari cara membeli online secara instan dan mengaktifkan di iPhone/Android."
-keywords: ["eSIM Inggris", "beli eSIM online Inggris", "eSIM perjalanan Inggris", "eSIM Inggris terbaik", "eSIM Inggris untuk turis", "eSIM Inggris bayar sesuai pemakaian", "EE eSIM", "O2 eSIM", "Vodafone eSIM", "eSIM Inggris dengan nomor telepon"]
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
-tags: ["eSIM", "iOS", "Android", "Pemecahan Masalah", "Pengaturan Perjalanan"]
+title: "UK eSIM : Cara Membeli Paket Terbaik & Mengaktifkannya"
+h1_title: "Cara Membeli Paket eSIM Inggris Terbaik dan Mengaktifkannya pada 2026"
+description: "Ingin membeli eSIM Inggris untuk perjalanan atau kerja? Bandingkan paket terbaik dari sisi data, harga, dan cakupan. Pelajari cara membeli online seketika dan mengaktifkan di iPhone/Android."
+keywords: ["UK eSIM", "buy eSIM online UK", "travel eSIM UK", "best UK eSIM", "UK eSIM for tourists", "UK eSIM pay as you go", "EE eSIM", "O2 eSIM", "Vodafone eSIM", "UK eSIM with phone number"]
+date: 22026-09-15T00:00:00Z
+lastmod: 22026-09-15T00:00:00Z
+tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
-image: "/images/esim-activation-guide.jpg"
-
-# Situs & SEO
+image: "/img/faq/buy-uk-esim-guide.webp"
+image-1: "/img/faq/buy-uk-esim-guide-1.jpg"
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# Terjemahan teks UI
+# UI text translations
 ui_text:
   updated_on: "Diperbarui pada"
   min_read: "menit baca"
@@ -28,12 +28,12 @@ breadcrumbs:
     text: "Pusat Bantuan"
     url: "/faq/"
 
-# Sidebar: eSIM Populer
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIM Populer"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM AS"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -58,20 +58,20 @@ sidebar_popular:
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Cina"
+    - name: "Tiongkok"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Sidebar: Penawaran eSIM Gratis
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Klaim eSIM Gratis"
   icon: "🎁"
   item_suffix: "eSIM Gratis"
   item_subtitle: "eSIM Gratis"
   items:
-    - name: "eSIM Inggris"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Jerman"
@@ -84,7 +84,7 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sidebar: Pertanyaan Populer
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Pertanyaan Populer"
   items:
@@ -92,512 +92,374 @@ sidebar_questions:
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Bagaimana cara mengaktifkan eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Bagaimana cara mengaktifkan eSIM di iPhone (Semua Model)?"
+    - question: "Cara mengaktifkan eSIM di iPhone (Semua Model)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Daftar Kompatibilitas eSIM Terbaru"
       url: "/compatibility/"
 ---
 
 
-> **Catatan Redaksi:** Roami adalah merek di balik panduan ini. Semua perbandingan jaringan dan rekomendasi didasarkan pada pengujian dunia nyata tim kami di seluruh Inggris pada tahun 2026. Kami berupaya menyajikan kekuatan dan keterbatasan sebenarnya dari setiap operator agar Anda dapat membuat pilihan yang tepat.
+> **Catatan Editor:** Membeli eSIM Inggris butuh kurang dari sepuluh menit — pilih paket, bayar, dan kode QR tiba via email. Harga dan jatah data di bawah berasal dari data resmi operator dan angka Ofcom, sehingga Anda membandingkan paket nyata tanpa bumbu pemasaran. Putuskan jatah data Anda dulu, lalu ikuti langkah checkout-nya.
 
-## Pengambil Keputusan eSIM Inggris 30 Detik
+Membeli eSIM Inggris memakan waktu sekitar sepuluh menit: pastikan ponsel Anda tidak terkunci, pilih paket yang cocok dengan durasi perjalanan Anda, bayar online, dan pindai kode QR yang tiba via email. Seminggu penggunaan wisatawan tipikal biayanya sekitar $5–20. Panduan ini membandingkan paket-paket 2026 yang layak dibeli dan membahas setiap langkah pembelian dan aktivasi.
 
-**Sedang terburu-buru? Ini jawaban Anda dalam hitungan detik:**
+## Cara Membeli eSIM Inggris
 
-| Durasi Perjalanan Anda | Pilihan Terbaik Anda | Mengapa |
-|------------------------|----------------------|---------|
-| **1‑30 hari, turis** | Beli eSIM perjalanan online sebelum berangkat | Lebih murah, aktivasi instan, tidak perlu KTP |
-| **3+ bulan, pelajar/pekerja** | Mulai dengan eSIM perjalanan, lalu beralih ke paket lokal dengan nomor Inggris | Anda akan memerlukan nomor Inggris untuk perbankan dan menyewa |
-| **Inggris + Eropa multi-negara** | Beli paket regional Eropa yang mencakup Inggris | Menghindari biaya roaming EU £2/hari |
-| **Perjalanan darat (Highlands, Lakes)** | Pilih paket multi-jaringan yang menggunakan EE | EE memiliki jangkauan pedesaan terluas |
+Anda tidak perlu ke toko atau menyerahkan paspor. Seluruh pembelian terjadi online dalam tiga langkah:
 
-**Masih tidak yakin apakah ponsel Anda berfungsi?** Langsung ke bagian pemeriksaan kompatibilitas di bawah, atau ambil eSIM uji coba gratis untuk mengonfirmasi dalam 2 menit.
+1. **Periksa kompatibilitas** — panggil `*#06#`; adanya EID berarti ponsel Anda bisa menerima eSIM. (Daftar perangkat lengkap di [halaman kompatibilitas](/compatibility/) kami.)
+2. **Pilih paket** — cocokkan kebutuhan data dan durasi perjalanan Anda di tabel perbandingan di bawah.
+3. **Pindai dan jalan** — pasang profilnya di Wi-Fi sebelum terbang, lalu nyalakan Data Roaming saat mendarat.
 
+Belum yakin eSIM adalah format yang tepat untuk perjalanan Anda? Keputusan itu — eSIM vs SIM fisik, kapan masing-masing menang — dibahas di [panduan eSIM Inggris vs SIM fisik](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/) kami.
 
-## Cara Cerdas untuk Tetap Terhubung di Inggris – Tanpa Berburu SIM di Bandara
+![Infografis sederhana menampilkan langkah inti: Periksa Kompatibilitas -> Beli eSIM Perjalanan Online -> Pindai untuk Memasang -> Aktifkan Saat Mendarat](/img/uk-esim/1.jpg)
 
-Jika Anda pergi ke Inggris, Anda memiliki tiga opsi untuk tetap online: membayar biaya roaming operator rumah Anda (mahal), berburu SIM fisik di bandara (memakan waktu dan markup harga), atau membeli paket digital sebelum berangkat.
 
-**Pilihan cerdas sudah jelas:** beli paket digital secara online, instal di ponsel Anda, dan Anda akan terhubung saat mendarat. Tidak ada antrean di Heathrow, tidak ada SIM bandara yang terlalu mahal, tidak ada hambatan bahasa.
+## Di Mana Membeli eSIM Inggris
 
-Berikut cara mempersiapkannya dalam tiga langkah:
+Anda bisa membeli eSIM Inggris dari dua tempat: **penyedia perjalanan** (Roami, Airalo, Holafly, Nomad, Lebara) atau **operator Inggris langsung** (EE, O2, Three lewat aplikasi mereka). Yang tidak boleh Anda lakukan adalah membeli di bandara.
 
-1. **Periksa apakah ponsel Anda berfungsi** – Tekan `*#06#`. Jika nomor EID muncul, Anda siap melakukannya. (Model iPhone 14/15/16 AS hanya mendukung eSIM.)
-2. **Pilih paket yang sesuai dengan perjalanan Anda** – Perjalanan singkat? Dapatkan paket perjalanan khusus data. Tinggal jangka panjang? Anda akan menginginkan paket lokal dengan nomor Inggris.
-3. **Pindai dan jalankan** – Pindai kode QR dari email Anda sebelum terbang. Saat mendarat di Heathrow, aktifkan Data Roaming dan Anda akan online dalam waktu 60 detik.
+**Mengapa SIM bandara adalah pilihan terburuk:**
 
-Teknologi yang mendasarinya dibangun di atas [standar GSMA SGP.22](https://www.gsma.com/esim/), yang memastikan kompatibilitas di seluruh perangkat dan operator di seluruh dunia. Jika Anda benar-benar baru mengenal SIM digital, [panduan pengantar](/faq/what-is-esim/) kami mencakup dasar-dasarnya.
+| Jebakan | Apa yang sebenarnya terjadi |
+|---|---|
+| Harga melar | SIM £10 di toko kota harganya £15–18 di Heathrow atau Gatwick |
+| Wi-Fi verifikasi SMS | Wi-Fi bandara sering mengirim kode via SMS yang tak bisa Anda terima tanpa nomor Inggris |
+| Kios tutup | Mendarat larut dan toko ponsel sudah tutup; mendarat ramai dan Anda mengantre 20–30 menit |
 
-![Infografis sederhana yang menunjukkan langkah-langkah inti: Periksa Kompatibilitas -> Beli eSIM Perjalanan Online -> Pindai untuk Instal -> Aktifkan Saat Mendarat](/img/uk-esim/1.jpg)
+**Solusinya:** beli online sebelum terbang. Profilnya sudah terpasang sebelum lepas landas dan Anda tersambung dalam satu menit setelah mendarat.
 
+**Angkanya, berdampingan:**
 
-## Mengapa Anda Tidak Perlu Menunggu Sampai Mendarat – Tiga Jebakan yang Perlu Dihindari
+| Di mana Anda membeli | Paket 5 GB yang sama | Mengapa |
+|---|---|---|
+| Online, sebelum terbang | $8–15 | Tanpa markup, tanpa ID, terpasang sebelum lepas landas |
+| Toko kota setelah mendarat | £10–15 (~$13–19) | Masuk akal, tetapi biaya kunjungan toko + antrean |
+| Kios bandara | £15–18 (~$19–23) | Kartu sama, markup 30–50% demi kenyamanan |
 
-Banyak pelancong berpikir, "Saya akan ambil SIM saja nanti di sana." Inilah mengapa hal itu menjadi bumerang:
+Membeli online bukan hanya lebih murah — itu satu-satunya opsi di mana Anda sudah tersambung begitu mendarat.
 
-**Jebakan 1: Harga selangit di bandara.** SIM yang berharga £10 di toko kota bisa berharga £15‑18 di Heathrow atau Gatwick. Pengecer bandara tahu Anda adalah pelanggan yang terperangkap tanpa pilihan lain.
+**Di mana setiap jenis paket dijual:**
 
-**Jebakan 2: Wi‑Fi bandara yang tidak dapat diandalkan.** Anda memerlukan koneksi internet yang stabil untuk mengunduh dan menginstal paket digital Anda. Wi‑Fi gratis bandara terkenal sering terputus, memerlukan verifikasi SMS (yang belum Anda miliki), dan berjalan lambat saat ratusan orang menggunakannya. Jika instalasi Anda gagal di tengah unduhan, Anda terjebak dengan profil yang rusak dan tidak ada cara untuk memperbaikinya.
+- **eSIM perjalanan** — beli dari situs web atau aplikasi penyedia; tanpa ID, tanpa alamat Inggris. Kode QR tiba via email dalam hitungan detik.
+- **eSIM prabayar EE / O2 / Three** — unduh aplikasi operator, daftar dengan alamat Inggris (hotel pun bisa), dan verifikasi ID dengan paspor.
+- **SIM PAYG fisik** — toko operator mana pun atau toko serba ada setelah Anda di Inggris.
 
-**Jebakan 3: Toko tutup dan antrean panjang.** Mendarat jam 10 malam? Sebagian besar toko ponsel di area kedatangan tutup. Bahkan pada jam sibuk, Anda akan mengantre 20‑30 menit sementara teman bepergian Anda sudah menuju hotel.
 
-**Solusinya sederhana:** beli dan instal paket Anda sebelum berangkat. Anda akan terhubung dalam satu menit setelah mendarat, tanpa antrean, tanpa markup harga, dan tanpa stres.
+## Apa yang Tiba di Email Anda Setelah Membeli
 
+Setelah Anda membayar, metode dan waktu pengiriman bervariasi antar penyedia — dan mengetahui apa yang bisa diharapkan menghentikan kepanikan "di mana eSIM saya?" di bandara.
 
-## Jenis Koneksi Mana yang Tepat untuk Perjalanan Anda?
+| Penyedia | Apa yang Anda dapatkan | Cara tibanya | Pengiriman umum |
+|---|---|---|---|
+| Roami | Kode QR + detail manual SM-DP+ | Email (juga di aplikasi) | Detik hingga beberapa menit |
+| Airalo | Kode QR | Aplikasi + email | Instan |
+| Holafly | Kode QR | Email | Menit |
+| Nomad | Kode QR | Aplikasi + email | Instan |
+| EE / O2 / Three | eSIM di aplikasi operator | Di aplikasi setelah pemeriksaan ID | Menit hingga beberapa jam (verifikasi ID) |
+| Lebara / Giffgaff | Kode QR atau eSIM aplikasi | Email / aplikasi | Menit |
 
-Tidak ada satu jawaban terbaik – semuanya tergantung pada berapa lama Anda tinggal dan ke mana Anda pergi. Berikut kerangka keputusan untuk membantu Anda memilih:
+**Yang harus dilakukan jika tidak tiba:** periksa spam dulu — email QR cukup sering mendarat di sana. Lalu pastikan pembelian benar-benar berjalan (pembayaran tertagih) dan hubungi dukungan dengan nomor pesanan Anda. Membeli beberapa menit sebelum penerbangan adalah satu-satunya cara pasti membuat Anda stres; beri satu jam cadangan.
 
-**Skenario 1: Perjalanan singkat (1‑30 hari) – turis atau pelancong bisnis**
+**Dua detail pengiriman yang sering menjebak orang:**
 
-Anda memerlukan data untuk peta, aplikasi pesan, media sosial, dan email. Anda tidak memerlukan nomor telepon Inggris.
+- **Kode QR kedaluwarsa.** Kode QR kebanyakan penyedia sekali pakai dan kedaluwarsa setelah 30–90 hari. Pasang begitu tiba, bukan di gerbang keberangkatan.
+- **Satu QR = satu instalasi.** Jika Anda memindai kodenya di ponsel yang nanti hilang, kode itu tidak akan bekerja lagi. Pasang di ponsel yang benar-benar akan Anda bawa bepergian.
 
-**Apa yang harus dilakukan:** Beli paket perjalanan khusus data dari penyedia global. Tanpa KTP, tanpa alamat Inggris, tanpa kontrak. Cukup beli online, pindai kode QR, dan Anda siap.
 
-**Skenario 2: Perjalanan singkat tetapi Anda memerlukan nomor Inggris untuk SMS**
+## Harga, Data, dan Cakupan Paket eSIM Inggris
 
-Beberapa layanan (seperti jaringan Wi‑Fi bandara tertentu atau tiket acara lokal) mungkin memerlukan nomor Inggris untuk verifikasi SMS.
+Inilah perbandingan opsi utama dari sisi harga, jatah, 5G, dan dukungan hotspot per 2026:
 
-**Apa yang harus dilakukan:** Dapatkan paket prabayar dari EE atau O2 yang menyertakan nomor Inggris. Anda harus membelinya setelah tiba dengan paspor Anda.
+| Paket | Data / masa berlaku | Jaringan & roaming UE | 5G | Hotspot | Perkiraan harga | Terbaik untuk |
+|---|---|---|---|---|---|---|
+| Roami | 1–20 GB / 7–30 hari | Multi-jaringan (EE/O2/Vodafone) / UE termasuk | Ya | Ya | ~$2–20 | Perjalanan Inggris + Eropa; beralih otomatis EE/O2/Vodafone |
+| Airalo | 1–20 GB / 7–30 hari | O2 atau Three / hanya Inggris | Ya | Ya | ~$5–30 | Perjalanan singkat hanya Inggris; cakupan negara luas |
+| Holafly | Unlimited / 7–30 hari | O2 atau Vodafone / hanya Inggris | Ya | Terbatas | ~$27+ | Pengguna data berat; unlimited (penggunaan wajar berlaku) |
+| Nomad | 5–20 GB / 7–30 hari | O2 / hanya Inggris | Ya | Ya | ~$8–25 | Perjalanan hemat; paket pendek murah |
+| Lebara UK | 5–20 GB / 30 hari | Vodafone / UE termasuk (FUP) | Ya | Ya | £5–15 (~$6–19) | Tinggal lama; nomor +44, panggilan ke Tiongkok/India |
+| Giffgaff | 5–100 GB / 30 hari | O2 / UE £2/hari | Ya | Ya | £6–20 (~$8–25) | Pay-as-you-go fleksibel, tanpa kontrak, nomor +44 |
+| EE (langsung) | 5–100 GB / 30 hari | EE / biaya UE £2/hari | Ya | Ya | £10–20 (~$13–25) | 5G Inggris tercepat, juara pedesaan |
+| O2 (langsung) | 5–100 GB / 30 hari | O2 / biaya UE £2/hari | Ya | Ya | £10–15 (~$13–19) | Sinyal dalam ruangan terbaik |
+| Three (langsung) | 5–100 GB / 30 hari | Three / biaya UE untuk pelanggan baru | Ya | Terbatas | £8–15 (~$10–19) | Perjalanan kota hemat |
+| Vodafone (langsung) | Hanya kontrak pascabayar | Vodafone / UE termasuk di beberapa paket | Ya | Ya | £15–30 (~$19–38) | Penduduk dengan alamat Inggris (tanpa eSIM prabayar) |
 
-**Skenario 3: Pindah ke Inggris (1 bulan+) – pelajar, ekspatriat, atau pekerja**
+**Termurah langsung:** paket 1 GB / 7 hari Roami mulai di bawah $2 (dengan kode `web20`). **Nilai terbaik untuk tinggal lama:** paket 20 GB / 30 hari Lebara seharga £10, karena menyertakan nomor +44.
 
-Anda akan memerlukan nomor Inggris untuk membuka rekening bank, menyewa flat, mendaftar ke dokter umum (GP), dan layanan lokal lainnya. Anda juga menginginkan tarif per-GB yang lebih murah untuk penggunaan berkelanjutan.
+**Giffgaff dalam satu baris:** itulah MVNO "goodybag" di jaringan O2 — paket pay-as-you-go mulai £6 dengan nomor +44 sungguhan dan tanpa kontrak, ideal untuk tinggal menengah di mana Anda ingin punya nomor tanpa komitmen.
 
-**Apa yang harus dilakukan:** Gunakan paket perjalanan untuk bulan pertama Anda sambil mengurus akomodasi dan rekening bank. Kemudian beralih ke paket prabayar lokal (Lebara, EE, atau O2) dengan nomor Inggris.
+**Waspadai jebakan "unlimited".** Banyak paket unlimited melakukan throttling ke ~128 Kbps setelah batas harian 2–5 GB. Jika Anda butuh data kecepatan tinggi yang stabil, paket data tetap lebih andal daripada paket "unlimited" yang dibatasi.
 
-**Skenario 4: Perjalanan multi-negara Eropa (Inggris + Prancis + Italia, dll.)**
+**Perpanjangan otomatis:** sebagian besar paket lokal bulanan (tingkat bulanan Holafly, prabayar EE/O2/Three) diperpanjang otomatis secara default — batalkan sebelum tanggal perpanjangan atau Anda akan ditagih lagi setelah pergi. eSIM perjalanan dari Roami, Airalo, dan Nomad adalah pembelian sekali tanpa perpanjangan otomatis.
 
-Anda memerlukan data yang berfungsi melintasi batas negara tanpa biaya roaming harian. Pasca-Brexit, sebagian besar operator lokal Inggris mengenakan biaya £2/hari untuk penggunaan EU.
 
-**Apa yang harus dilakukan:** Beli paket regional Eropa yang secara eksplisit mencakup Inggris. Beberapa paket "Eropa" tidak mencakup Inggris, jadi periksa daftar cakupan dengan cermat.
+## Perbandingan Jaringan EE vs O2 vs Vodafone vs Three
 
-**Skenario 5: Tidak yakin apakah ponsel Anda berfungsi**
+Jaringan di balik paket Anda lebih penting daripada nama merek paketnya. Cocokkan rute Anda dengan jaringan yang tepat:
 
-Anda pernah mendengar tentang SIM digital tetapi tidak yakin apakah ponsel Anda mendukungnya.
+| Rute | Jaringan terbaik | Mengapa |
+|---|---|---|
+| Pelancong kota (London, Manchester, Birmingham) | O2 | Sinyal dalam ruangan terbaik menembus tembok tebal |
+| Penjelajah pedesaan (Highlands, Lake District, Wales) | EE | Cakupan pedesaan terluas lewat 800 MHz |
+| Perjalanan kota hemat | Three | Termurah; hindari di luar kota |
+| Pengguna London Underground | Vodafone | Wi-Fi calling di beberapa jalur Tube (hanya pascabayar) |
+| Sinyal terbaik di mana saja, tanpa berpikir | Multi-jaringan | Beralih otomatis EE/O2/Vodafone |
 
-**Apa yang harus dilakukan:** Klaim paket uji coba gratis – hanya butuh 2 menit, mengonfirmasi ponsel Anda berfungsi, dan tidak ada biaya.
+### Skor uji lapangan 2026
 
-👉 **[Dapatkan uji coba eSIM Roami gratis](/free-esim/)**
+| Jaringan | 5G perkotaan | Pedesaan | Dalam ruangan | eSIM prabayar? |
+|---|---|---|---|---|
+| EE | ⭐⭐⭐⭐⭐ (120–150 Mbps) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Ya (via aplikasi) |
+| O2 | ⭐⭐⭐⭐ (80–110 Mbps) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Ya (via aplikasi) |
+| Vodafone | ⭐⭐⭐⭐ (100–130 Mbps) | ⭐⭐ | ⭐⭐⭐ | Tidak (hanya pascabayar) |
+| Three | ⭐⭐⭐⭐ (90–120 Mbps) | ⭐ | ⭐⭐ | Ya (via aplikasi) |
 
+**Tiga jaringan dalam satu baris masing-masing:**
+- **EE** — juara pedesaan. Jika Anda mengemudi di Highlands atau Lake District, beli paket yang menjangkau EE.
+- **O2** — raja dalam ruangan. Museum, pub, dan restoran basement tetap tersambung di pita rendah O2.
+- **Three** — pilihan hemat. Baik di kota, hampir tak berguna di pedesaan.
+- **Vodafone** — tanpa eSIM prabayar untuk wisatawan, jadi hanya relevan sebagai mitra roaming penyedia perjalanan.
 
-## Cara Memeriksa Apakah Ponsel Anda Akan Bekerja dengan Paket Digital
+**Mengapa multi-jaringan mengalahkan pilihan tunggal mana pun:** paket satu jaringan mati begitu Anda keluar dari cakupannya. Dalam uji 2026 kami, paket Three saja putus total di kereta London–Edinburgh, sementara paket multi-jaringan menahan koneksi 4G stabil sepanjang jalan dengan beralih ke EE. Jika Anda ingin cakupan di mana saja tanpa merencanakan di sekitarnya, beli multi-jaringan.
 
-Sebelum membeli apa pun, verifikasi bahwa perangkat Anda kompatibel. Ini akan menyelamatkan Anda dari pembelian yang sia-sia dan frustrasi.
+Untuk cakupan resmi, gunakan [pengecek cakupan seluler Ofcom](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker).
 
-### Pemeriksaan Universal – `*#06#`
 
-1. Buka aplikasi ponsel (dialer) ponsel Anda.
-2. Tekan `*#06#` dan tekan panggil.
-3. Jika nomor **EID 32 digit** muncul di layar, ponsel Anda mendukung SIM digital.
-4. Jika hanya nomor IMEI yang muncul, maka tidak mendukung.
+## Berapa Banyak Data eSIM Inggris yang Benar-Benar Anda Butuhkan?
 
-### Kompatibilitas iPhone
+Beli jatah yang tepat di kesempatan pertama — kelebihan beli membuang uang, kekurangan beli berarti isi ulang yang canggung di tengah perjalanan.
 
-| Model | Berfungsi? | Catatan |
-|-------|------------|---------|
-| iPhone XS, XS Max, XR | ✅ Ya | Model pertama dengan dukungan SIM digital |
-| iPhone 11, 11 Pro, 11 Pro Max | ✅ Ya | |
-| iPhone SE (2020, 2022) | ✅ Ya | |
-| iPhone 12, 13, 14, 15, 16, 17 series | ✅ Ya | Model AS (14+) hanya eSIM – tidak ada baki SIM fisik |
-| iPhone 8, 8 Plus, iPhone X | ❌ Tidak | Tidak ada perangkat keras SIM digital |
-| Model Cina daratan (semua) | ❌ Tidak | Hanya dual SIM fisik |
+| Tingkat penggunaan | Apa yang Anda lakukan | Per minggu | Paket yang disarankan |
+|---|---|---|---|
+| Ringan | Peta, WhatsApp, email, penjelajahan ringan | 1–3 GB | 3 GB / 7 hari |
+| Sedang | Instagram, TikTok, musik, peta sering | 5–10 GB | 5–10 GB / 7–15 hari |
+| Berat | Panggilan video, streaming, hotspot laptop | 10–20 GB | 10–20 GB |
+| Sangat berat | Panggilan harian, tethering multi-perangkat, kreator | 20–50 GB | 20 GB+ atau unlimited |
 
-### Kompatibilitas Samsung Galaxy
+### Penggunaan nyata per jam
 
-| Model | Berfungsi? | Catatan |
-|-------|------------|---------|
-| Galaxy S20, S21, S22, S23, S24, S25 | ✅ Ya | Hanya versi Global/Exynos |
-| Galaxy Z Fold, Z Flip (semua generasi) | ✅ Ya | |
-| Galaxy A55, A54, A53 (wilayah tertentu) | ✅ Ya | Periksa varian spesifik Anda |
-| Galaxy S20 FE (operator AS) | ❌ Tidak | Dinonaktifkan pada banyak versi operator |
+| Aktivitas | Data terpakai |
+|---|---|
+| Google Maps (lalu lintas langsung) | 50–80 MB |
+| Spotify (kualitas normal) | ~70 MB |
+| Instagram | 150–250 MB |
+| TikTok | 250–400 MB |
+| YouTube 480p / 1080p | 500 MB / 1–2 GB |
+| Panggilan video Zoom | 1–1.5 GB |
 
-### Kompatibilitas Google Pixel
+**Aturan praktisnya:** sebagian besar wisatawan melebih-lebihkan. Paket 5–10 GB mencakup perjalanan 7–10 hari dengan nyaman. Isi ulang online jika kurang — tetapi paket lebih besar di muka lebih murah daripada dua kali isi ulang.
 
-| Model | Berfungsi? | Catatan |
-|-------|------------|---------|
-| Pixel 3, 3a dan yang lebih baru | ✅ Ya | Sebagian besar wilayah |
-| Pixel 4a (operator Jepang) | ❌ Tidak | Terkunci operator |
+### Contoh Anggaran Perjalanan
 
-Halaman [Google Support – eSIM di Pixel](https://support.google.com/pixelphone/answer/7086887) memberikan detail tambahan untuk pengguna Pixel. Untuk daftar lengkap semua perangkat yang kompatibel, lihat **[daftar kompatibilitas lengkap](/compatibility/)** kami.
+| Perjalanan | Hari | Penggunaan harian tipikal | Total yang kemungkinan terpakai | Paket yang disarankan |
+|---|---|---|---|---|
+| Liburan kota London | 3 | Peta + Instagram + WhatsApp | 2–4 GB | 3–5 GB |
+| Wisatawan klasik 7 hari | 7 | Peta, sosial, musik, sesekali video | 5–10 GB | 10 GB |
+| 2 minggu campuran (kota + pedesaan) | 14 | Sosial, navigasi, sedikit streaming | 12–20 GB | 20 GB |
+| Pelajar / pekerja 1 bulan | 30 | Panggilan harian, perbankan, sedikit video | 25–50 GB | 50 GB atau unlimited |
+| Keluarga empat, satu hotspot | 7 | Dua ponsel + dua tablet anak | 20–40 GB | 30–50 GB |
 
-**Masih belum yakin?** Ambil uji coba gratis untuk menguji kompatibilitas tanpa mengeluarkan uang sepeser pun.
+**Sehari dalam hidup, dalam data:** WhatsApp bangun tidur (20 MB), Google Maps pagi dengan lalu lintas langsung (60 MB), satu jam Instagram (200 MB), video YouTube saat makan siang (500 MB), gulir TikTok malam (300 MB), plus panggilan Zoom 20 menit (400 MB) ≈ **1,5 GB sehari**. Bulatkan ke 2 GB sehari demi aman, dan Anda punya angka perencanaan yang andal: *hari × 2 GB = jatah Anda.*
 
 
-## Apa yang Harus Dilakukan Jika Ponsel Anda Tidak Bekerja dengan Paket Digital
+## Apakah Anda Butuh Nomor Telepon Inggris?
 
-Jika Anda menekan `*#06#` dan tidak melihat EID, Anda tidak dapat menggunakan paket digital. Tetapi Anda masih memiliki pilihan bagus untuk tetap terhubung di Inggris:
+eSIM perjalanan data saja — tanpa nomor +44, tanpa SMS. Untuk sebagian besar perjalanan singkat itu cukup. Anda butuh nomor sungguhan saat:
 
-1. **Beli SIM fisik perjalanan sebelum berangkat** – Beberapa penyedia (termasuk Roami) mengirimkan kartu SIM fisik ke alamat rumah Anda. Ini berfungsi di ponsel apa pun yang tidak terkunci.
-2. **Beli SIM fisik lokal setelah tiba** – EE, O2, Vodafone, dan Three semuanya menjual SIM prabayar di bandara, toko serba ada, dan toko ponsel. Perkirakan biaya £10‑20 dan tunjukkan paspor Anda.
-3. **Gunakan roaming internasional operator rumah Anda** – Periksa tarif roaming paket Anda. Ini biasanya opsi paling mahal, tetapi tidak memerlukan pengaturan apa pun.
-4. **Tingkatkan ponsel Anda** – Google Pixel 6a bekas, Samsung Galaxy S21, atau iPhone XR (semuanya di bawah $200 bekas) semuanya mendukung paket digital.
+| Situasi | Perlu nomor Inggris? |
+|---|---|
+| Wisatawan, 1–2 minggu | Tidak — WhatsApp dan iMessage lewat data cukup |
+| Perjalanan bisnis singkat | Tidak |
+| Pelajar, 6+ bulan | Ya — bank, sewa, registrasi NHS |
+| Membuka rekening bank Inggris | Ya — bank mengirim kode verifikasi via SMS |
+| Menyewa apartemen | Ya — agen menelepon Anda |
 
+**Paket yang menyertakan nomor +44:**
 
-## Paket Perjalanan vs Operator Lokal – Mana yang Tepat untuk Anda?
+| Opsi | Nomor + data | Biaya | ID |
+|---|---|---|---|
+| eSIM prabayar EE | Ya | £10–20/bulan | Paspor |
+| eSIM prabayar O2 | Ya | £10–15/bulan | Paspor |
+| eSIM prabayar Lebara | Ya + panggilan internasional | £5–15/bulan | Paspor |
+| Vodafone pascabayar | Ya (kontrak) | £15–30/bulan | Alamat + bank Inggris |
+| eSIM perjalanan (Roami, dll.) | Hanya data | $5–20 | Tidak ada |
 
-Pilihannya bermuara pada satu pertanyaan: **berapa lama Anda tinggal?**
+**Urutan cerdas untuk pelajar dan ekspatriat:** gunakan eSIM perjalanan data saja untuk bulan pertama sambil mengurus tempat tinggal dan rekening bank, lalu beralih ke paket prabayar EE/O2/Lebara untuk nomor +44.
 
-### Opsi 1: Paket Perjalanan (1‑30 hari)
 
-Untuk pengunjung jangka pendek, paket perjalanan adalah solusi paling efisien. Tidak perlu KTP, alamat Inggris, atau pemeriksaan kredit. Cukup beli online, pindai, dan mulai.
+## Cara Membeli dan Mengaktifkan eSIM Inggris
 
-**Apa yang Anda dapatkan:**
-- ✅ Tidak perlu KTP atau alamat Inggris
-- ✅ Beli sebelum berangkat dari rumah
-- ✅ Aktivasi instan saat tiba
-- ✅ Sering mencakup multi-negara (Inggris + Eropa)
-- ✅ Tanpa kontrak atau pemeriksaan kredit
+Inilah alur beli-online persisnya untuk eSIM perjalanan:
 
-**Apa yang tidak Anda dapatkan:**
-- ❌ Khusus data (tidak ada nomor telepon Inggris)
-- ❌ Biasanya lebih mahal per GB daripada paket lokal
+1. **Beli** — pilih paket Anda, bayar online, dan terima kode QR via email (biasanya dalam hitungan detik).
+2. **Pasang** — di Wi-Fi rumah atau hotel (idealnya sebelum penerbangan), buka **Pengaturan > Seluler (Data Seluler) > Tambah eSIM** dan pindai kode QR. Profilnya terunduh dan tidur sampai Anda siap.
+3. **Aktifkan** — setelah mendarat, pilih saluran baru dan nyalakan **Data Roaming**. Anda akan tersambung dalam ~60 detik.
 
-**Terbaik untuk:** Turis, pelancong bisnis, pengunjung jangka pendek.
+### Di mana tombol "Tambah eSIM" berada
 
-### Opsi 2: Paket Operator Lokal (1 bulan+)
+| Perangkat | Jalur |
+|---|---|
+| iPhone (iOS 16+) | Pengaturan > Seluler > Tambah eSIM > Gunakan Kode QR |
+| iPhone (iOS 15 atau lebih lama) | Pengaturan > Seluler > Tambah Paket Seluler |
+| Samsung (One UI 5+) | Pengaturan > Koneksi > SIM Card Manager > Tambah eSIM |
+| Google Pixel | Pengaturan > Jaringan & Internet > Jaringan Seluler > Tambah Operator |
+| OnePlus | Pengaturan > Wi-Fi & Jaringan > SIM & Jaringan > Tambah eSIM |
 
-Jika Anda pindah ke Inggris, paket lokal memberi Anda nomor telepon Inggris (+44) – penting untuk perbankan, menyewa, dan layanan lokal.
+**Dua aturan yang mencegah 90% masalah:** pasang di Wi-Fi stabil sebelum terbang (bukan Wi-Fi bandara), dan nyalakan Data Roaming hanya setelah mendarat. Untuk panduan lengkap per perangkat, lihat [panduan cara mengaktifkan eSIM](/faq/how-to-activate-an-esim/) kami.
 
-**Apa yang Anda dapatkan:**
-- ✅ Termasuk nomor telepon Inggris (+44)
-- ✅ Lebih murah per GB untuk penggunaan jangka panjang
-- ✅ Dapat diisi ulang setiap bulan
 
-**Apa yang tidak Anda dapatkan:**
-- ❌ Memerlukan alamat Inggris dan terkadang KTP
-- ❌ Roaming EU mungkin dikenakan biaya tambahan (pasca-Brexit)
-- ❌ Harus dibeli setelah tiba
-- ❌ Sering memerlukan kunjungan ke toko atau alamat IP Inggris untuk memesan
+## Apa yang Diisi saat Checkout
 
-**Terbaik untuk:** Pelajar, ekspatriat, penduduk jangka panjang.
+Membeli eSIM perjalanan butuh kurang dari satu menit karena hampir tidak ada yang perlu diisi:
 
-**Jika Anda memerlukan nomor Inggris untuk verifikasi SMS**, Anda harus membeli paket lokal. Sebagian besar paket perjalanan hanya khusus data.
+- **Penyedia perjalanan (Roami, Airalo, Holafly, Nomad):** alamat email dan metode pembayaran. Itu saja. Tanpa ID, tanpa alamat Inggris, tanpa pemeriksaan kredit. Sebagian meminta nomor telepon untuk pembaruan pesanan — opsional.
+- **Operator Inggris (EE, O2, Three, Lebara, Giffgaff):** nama, email, alamat Inggris (alamat hotel atau akomodasi bisa), dan unggahan paspor atau ID untuk verifikasi. Lebara dan Giffgaff lebih ringan daripada EE/O2.
 
+**Mengapa penyedia perjalanan bisa melewatkan ID:** mereka menjual paket data saja tanpa nomor telepon, sehingga hukum telekomunikasi Inggris tidak mensyaratkan pemeriksaan identitas yang sama seperti paket yang menerbitkan nomor +44. Begitu Anda ingin nomor Inggris, bersiap menunjukkan ID.
 
-## Mendapatkan Nomor Telepon Inggris – Siapa yang Membutuhkannya dan Cara Mendapatkannya
+**Catatan soal alur checkout:** sebagian penyedia secara default memilih paket tingkat lebih tinggi atau isi ulang otomatis di langkah pembayaran. Baca baris terakhir sebelum menekan "Bayar" — itu asuransi termurah yang ada.
 
-Ini adalah salah satu poin kebingungan yang paling umum. Berikut jawaban langsungnya:
 
-### Apakah Anda memerlukan nomor Inggris?
+## Perjalanan Membeli Anda, dari Awal sampai Akhir
 
-| Situasi Anda | Perlu Nomor Inggris? | Mengapa |
-|--------------|----------------------|---------|
-| Turis berkunjung 1‑2 minggu | ❌ Tidak | WhatsApp, iMessage, FaceTime berfungsi melalui data |
-| Pelancong bisnis dalam perjalanan singkat | ❌ Tidak | Sama – gunakan aplikasi data |
-| Pelajar pindah selama 6+ bulan | ✅ Ya | Perlukan untuk rekening bank, sewa, pendaftaran NHS |
-| Ekspatriat / pekerja yang pindah | ✅ Ya | Perlukan untuk lamaran kerja, layanan lokal |
-| Siapa pun yang membuka rekening bank Inggris | ✅ Ya | Bank mengirimkan kode verifikasi SMS |
-| Siapa pun yang menyewa flat di Inggris | ✅ Ya | Agen dan tuan tanah menelepon Anda di nomor Inggris Anda |
+| Langkah | Apa yang Anda putuskan | Yang harus dilakukan | Di mana |
+|---|---|---|---|
+| 1. Format | eSIM atau SIM fisik? | Kurang dari sebulan: eSIM. Butuh nomor +44: fisik atau paket lokal | [Panduan eSIM vs fisik](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/) |
+| 2. Kompatibilitas | Apakah ponsel saya bekerja? | Panggil `*#06#`, cari EID | [Daftar kompatibilitas](/compatibility/) |
+| 3. Jaringan | Jaringan Inggris mana? | EE (pedesaan), O2 (dalam ruangan), multi-jaringan (di mana saja) | [Pemilih jaringan](#ee-vs-o2-vs-vodafone-vs-three-network-comparison) |
+| 4. Data | Berapa banyak? | Cocokkan dengan tingkat penggunaan Anda | [Bagian data](#how-much-uk-esim-data-do-you-actually-need) |
+| 5. Paket | Paket mana? | Bandingkan harga dan jatah | [Perbandingan 2026](#uk-esim-plan-prices-data-and-coverage) |
+| 6. Beli | Di mana? | Situs penyedia atau aplikasi operator — jangan bandara | [Di mana membeli](#where-to-buy-a-uk-esim) |
+| 7. Pasang | Bagaimana memasukkannya ke ponsel? | Pindai QR di Wi-Fi, aktifkan saat mendarat | [Pembelian + aktivasi](#how-to-purchase-and-activate-a-uk-esim) |
 
-### Cara mendapatkan nomor Inggris
 
-| Opsi | Apa yang Anda Dapatkan | Biaya | KTP Diperlukan | Terbaik Untuk |
-|------|------------------------|-------|----------------|---------------|
-| **Paket digital prabayar EE** | Nomor Inggris + data | £10‑20/bulan | Paspor | Penduduk jangka pendek |
-| **Paket digital prabayar O2** | Nomor Inggris + data | £10‑15/bulan | Paspor | Penduduk jangka pendek |
-| **Paket prabayar Lebara** | Nomor Inggris + data + panggilan internasional | £5‑15/bulan | Paspor | Pelajar, ekspatriat |
-| **Pascabayar Vodafone** | Nomor Inggris + data (kontrak) | £15‑30/bulan | Alamat Inggris + rekening bank | Penduduk jangka panjang |
-| **Paket perjalanan (Roami, Airalo, dll.)** | Khusus data | $5‑20 | Tidak ada | Turis (tidak perlu nomor) |
+## Cara Mengenali Penyedia yang Andal
 
-### Strategi cerdas untuk pelajar dan ekspatriat
+Sebelum menyerahkan uang, jalankan daftar periksa ini:
 
-**Bulan 1:** Gunakan paket perjalanan (khusus data) sambil mencari akomodasi dan membuka rekening bank. WhatsApp dan iMessage menangani semua komunikasi Anda.
+**Tanda bahaya:**
+- "Unlimited" dengan throttle harian tersembunyi
+- Biaya aktivasi atau koneksi ditambahkan saat checkout
+- Kode QR yang kedaluwarsa di bawah 30 hari
+- Tanpa hotspot pada paket yang Anda perlukan untuk tethering
+- Terkunci satu jaringan
+- Harga ditampilkan dalam mata uang berbeda dari yang benar-benar ditagih saat checkout
 
-**Bulan 2+:** Setelah Anda memiliki alamat Inggris dan rekening bank, beralihlah ke paket prabayar lokal (EE atau O2) atau paket pascabayar (Vodafone) dengan nomor Inggris.
+**Tanda bagus:**
+- Harga jelas tanpa biaya kejutan
+- Kebijakan penggunaan wajar dinyatakan terbuka, dengan angka dalam GB (bukan sekadar "unlimited*")
+- Hotspot diizinkan (atau ditandai jelas jika tidak)
+- Akses multi-jaringan untuk cakupan
+- Dukungan manusia 24/7, bukan hanya chatbot
+- Uji coba gratis agar bisa menguji sebelum membayar
 
-Pendekatan ini menghindari kerumitan mendapatkan nomor Inggris sebelum Anda menetap, tetapi Anda tetap memilikinya saat Anda membutuhkannya untuk perbankan dan aplikasi sewa.
+Saat ragu, uji uji-coba-gratis menyelesaikannya lebih cepat daripada ulasan apa pun: jika penyedia tidak membiarkan Anda mencoba sebelum membeli, itu sendiri sudah tanda bahaya.
 
+👉 **[Coba Roami gratis](/free-esim/)** — uji 2 menit memastikan ponsel Anda bekerja sebelum Anda mengeluarkan apa pun.
 
-## EE vs O2 vs Vodafone vs Three – Jaringan Mana yang Bekerja Terbaik untuk Rencana Perjalanan Anda?
 
-Memilih jaringan yang tepat lebih penting daripada memilih merek paket yang tepat. Begini cara keempat jaringan Inggris benar-benar berkinerja di dunia nyata.
+## Jebakan Perpanjangan Otomatis
 
-### Pemilih Jaringan – Berdasarkan Gaya Perjalanan Anda
+Keluhan paling umum yang kami dengar dari pembeli eSIM Inggris bukan soal cakupan — melainkan tagihan kedua yang mengejutkan. Beberapa paket memperpanjang dirinya sendiri secara otomatis, dan saat Anda menyadarinya, Anda sudah membayar sebulan data yang tak akan pernah terpakai.
 
-| Rencana Perjalanan Anda | Jaringan Terbaik | Mengapa |
-|-------------------------|------------------|---------|
-| **Pelancong kota** (London, Manchester, Birmingham) | **O2** | Sinyal dalam ruangan terbaik untuk museum, pub, dan hotel bersejarah |
-| **Penjelajah pedesaan** (Highlands, Lake District, Wales) | **EE** | Jangkauan pedesaan terluas – 800MHz pita rendah menjangkau jauh |
-| **Perjalanan kota hemat** | **Three** | Paling murah, tetapi hindari di luar kota |
-| **Komuter London Underground** | **Vodafone** | Panggilan Wi‑Fi eksklusif di beberapa jalur Tube (tetapi hanya pascabayar) |
-| **Saya ingin sinyal terbaik di mana saja tanpa memikirkannya** | **Multi‑jaringan** | Beralih otomatis antara EE, O2, dan Vodafone untuk jangkauan maksimum |
+**Paket mana yang diperpanjang otomatis:**
 
-### Kinerja Jaringan Terperinci (Berdasarkan Uji Lapangan 2026 Kami)
+- **Paket prabayar operator (EE, O2, Three, Lebara, Giffgaff)** — sebagian besar paket "bulanan" diperpanjang secara default, dengan penagihan berulang disetel saat pembelian.
+- **Tingkat bulanan Holafly** — paket bulanan unlimited diperpanjang sampai Anda membatalkan.
+- **Sebagian paket regional Airalo/Nomad** — kebanyakan sekali, tetapi periksa ulang jika Anda memilih opsi "langganan" atau "isi ulang otomatis" saat checkout.
 
-| Jaringan | Kecepatan 5G Perkotaan | Jangkauan Pedesaan | Sinyal Dalam Ruangan | Paket Digital Prabayar Tersedia? |
-|----------|------------------------|--------------------|----------------------|----------------------------------|
-| **EE** | ⭐⭐⭐⭐⭐ (120‑150 Mbps) | ⭐⭐⭐⭐⭐ (terluas) | ⭐⭐⭐⭐ | ✅ Ya (melalui aplikasi EE) |
-| **O2** | ⭐⭐⭐⭐ (80‑110 Mbps) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ Ya (melalui aplikasi O2) |
-| **Vodafone** | ⭐⭐⭐⭐ (100‑130 Mbps) | ⭐⭐ | ⭐⭐⭐ | ❌ Tidak (hanya pascabayar) |
-| **Three** | ⭐⭐⭐⭐ (90‑120 Mbps) | ⭐ | ⭐⭐ | ✅ Ya (melalui aplikasi Three) |
+**Paket mana yang tidak:**
 
-### Apa yang Terbaik dari Setiap Jaringan
+- **Roami, dan sebagian besar eSIM perjalanan sekali pakai** — pembelian tunggal, kedaluwarsa di akhir masa berlaku, tanpa kartu tersimpan, tanpa apa pun untuk dibatalkan.
 
-**EE – Pemimpin jangkauan pedesaan.** EE menggunakan frekuensi pita rendah 800MHz yang menjangkau lebih jauh dan menembus lebih baik di area pedesaan. Jika perjalanan Anda mencakup mengemudi melalui Scottish Highlands, Lake District, atau pedesaan Wales, EE adalah jaringan paling andal.
+**Cara mengatasinya:**
 
-**O2 – Raja sinyal dalam ruangan.** O2 menggunakan frekuensi 900MHz yang unggul dalam menembus dinding tebal. Bangunan tua Inggris – pub Victoria, restoran bawah tanah, hotel bersejarah – adalah pembunuh sinyal untuk 5G pita tinggi. Frekuensi pita rendah O2 menembus di mana yang lain gagal.
+1. **Sebelum membeli**, cari kata "auto-renew" atau "recurring" saat checkout. Jika Anda hanya butuh datanya sekali, cari opsi "one-time" atau "pay-as-you-go" sebagai gantinya.
+2. **Setel pengingat kalender** dua hari sebelum tanggal perpanjangan. Batalkan dari aplikasi atau situs web penyedia — sebagian besar bisa dibatalkan dalam beberapa ketukan.
+3. **Gunakan kartu virtual atau matikan auto-pay** jika Anda tidak menemukan tombol batal. Sebagian bank memungkinkan Anda memblokir pedagang tertentu.
+4. **Screenshot konfirmasi** yang menunjukkan Anda membatalkan, kalau-kalau tagihan tetap muncul.
 
-**Vodafone – Perangkap turis.** Vodafone UK tidak menawarkan paket digital prabayar. Anda hanya bisa mendapatkan paket digital Vodafone dengan kontrak pascabayar (alamat Inggris, pemeriksaan kredit, komitmen 12 bulan). Turis tidak dapat membelinya secara langsung.
+eSIM perjalanan sekali pakai dari Roami, Airalo, dan Nomad adalah cara paling sederhana untuk sepenuhnya menghindari masalah: beli sekali, mati di akhir masa berlaku, dan tidak ada yang menagih Anda lagi.
 
-**Three – Opsi kota hemat.** Three menawarkan paket termurah dengan data benar-benar tak terbatas. Namun, Three memiliki jangkauan pedesaan terburuk dari keempatnya. Jika Anda hanya mengunjungi London, Manchester, atau Birmingham, Three berfungsi dengan baik. Jika Anda meninggalkan kota, hindari.
 
-### Di Mana Multi‑Jaringan Paling Masuk Akal
+## Apa yang Perlu Diperiksa Segera Setelah Membeli
 
-Masalah dengan memilih hanya satu jaringan: **jangkauan Anda sepenuhnya tergantung di mana Anda pergi.** EE bagus di pedesaan tetapi lebih lemah di dalam ruangan. O2 kuat di dalam ruangan tetapi terputus-putus di area pedesaan. Three murah tetapi tidak berguna di luar kota.
+Jika paket baru Anda tidak mau tersambung, jalankan ketiga pemeriksaan ini sebelum apa pun:
 
-Paket multi‑jaringan (seperti Roami) memecahkan masalah ini dengan secara otomatis menghubungkan Anda ke **menara terkuat yang tersedia** – beralih antara EE, O2, Vodafone, dan Three secara real-time. Anda tidak perlu memikirkannya. Anda hanya mendapatkan sinyal terbaik, di mana pun Anda berada.
+1. **Data Roaming** NYALA untuk saluran baru.
+2. **Jaringan yang tepat** dipilih (atau setel otomatis untuk paket multi-jaringan).
+3. **APN** disetel dengan benar jika data tetap tidak mengalir.
 
-> **Contoh dunia nyata:** Dalam pengujian 2026 kami, paket jaringan tunggal di Three kehilangan sinyal sepenuhnya di kereta dari London ke Edinburgh. Paket multi‑jaringan secara otomatis beralih ke EE dan mempertahankan koneksi 4G yang stabil untuk seluruh perjalanan. **Itulah perbedaan antara ponsel yang berfungsi dan batu bata yang tidak berguna.**
+Jika itu tidak menyelesaikannya, [panduan penanganan masalah mendalam eSIM](/faq/esim-deep-troubleshooting-guide-2026/) kami punya daftar perbaikan lengkap per error dan tabel APN selengkapnya.
 
-Untuk data jangkauan resmi, periksa [pemeriksa jangkauan seluler Ofcom UK](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker).
-
-
-## Pemeriksaan Realitas Jangkauan Jaringan – Apa yang Sebenarnya Berfungsi di Mana
-
-Berikut rincian lebih granular di mana setiap jaringan berkinerja terbaik:
-
-| Lokasi | Jaringan Terbaik | Terbaik Kedua | Hindari |
-|--------|------------------|---------------|---------|
-| **London Pusat (jalanan)** | O2 | EE | Three (kemacetan) |
-| **London Underground (stasiun dalam)** | Vodafone (panggilan Wi‑Fi) | EE (4G di beberapa stasiun) | Three (terbatas) |
-| **Pub London / restoran bawah tanah** | O2 | EE | Three |
-| **Pusat kota Edinburgh** | O2 | EE | Three |
-| **Scottish Highlands** | EE | O2 (terbatas) | Three (hampir tidak ada) |
-| **Lake District** | EE | O2 (terputus-putus) | Three (tidak ada) |
-| **Cardiff / Wales** | EE | O2 | Three |
-| **Manchester / Birmingham** | O2 | EE | Three |
-| **Perjalanan kereta (London ke Edinburgh)** | EE (paling andal) | O2 (beberapa area) | Three (zona mati) |
-
-**Kesimpulan utama:** Jika Anda hanya mengunjungi London, O2 atau EE sama-sama berfungsi dengan baik. Jika Anda meninggalkan London, prioritaskan EE atau solusi multi‑jaringan. Hindari Three untuk perjalanan pedesaan.
-
-
-## Perjalanan Multi‑Negara Inggris + Eropa – Hindari Biaya Roaming Pasca-Brexit
-
-Banyak pengunjung ke Inggris juga bepergian ke daratan Eropa – London, lalu Paris dan Roma, misalnya.
-
-**Waspadai biaya roaming pasca-Brexit.** Sejak Brexit, operator lokal Inggris utama (EE, Vodafone, Three) telah memberlakukan kembali biaya roaming EU. Beli paket lokal Inggris dari EE, dan Anda akan dikenakan biaya tambahan **£2 per hari** untuk menggunakan data Anda di Prancis, Spanyol, atau Jerman. Vodafone mengenakan biaya harian serupa. Three telah memberlakukan kembali biaya untuk pelanggan baru.
-
-**Solusinya:** Jika Anda melakukan perjalanan multi‑negara, beli **paket regional Eropa** yang mencakup Inggris ditambah 30+ negara Eropa dalam satu paket. Melewati perbatasan melalui Eurostar ke Paris, dan ponsel Anda tetap terhubung – tidak ada biaya tambahan harian, tidak perlu mengganti paket.
-
-**Apa yang harus diperhatikan:** Saat membandingkan paket, periksa daftar jangkauan dengan cermat. Beberapa paket "Eropa" tidak mencakup Inggris pasca-Brexit. Selalu verifikasi bahwa Inggris secara eksplisit tercantum sebelum membeli.
-
-### Strategi Perjalanan Multi‑Negara
-
-| Rencana Perjalanan | Strategi Terbaik | Perkiraan Biaya | Catatan |
-|--------------------|------------------|-----------------|---------|
-| **Inggris saja** | Paket Inggris satu negara | $5‑20 | Sederhana dan termurah |
-| **Inggris + 1 negara EU** (mis., London + Paris) | Paket regional Eropa yang mencakup Inggris | $20‑35 | Lebih baik daripada membeli dua paket terpisah |
-| **Inggris + 3+ negara EU** | Paket regional Eropa | $25‑50 | Paling hemat biaya |
-| **Inggris 2 minggu, lalu EU 1 minggu** | Paket Inggris + paket Eropa terpisah | $15 + $15 = ~$30 | Lebih fleksibel tetapi lebih mahal |
-| **Inggris 1 bulan, lalu EU 1 bulan** | Paket lokal Inggris + paket Eropa terpisah | £10 + $25 | Terbaik dari keduanya – nomor Inggris untuk panggilan, paket Eropa untuk perjalanan |
-
-**Rekomendasi:** Untuk sebagian besar pelancong yang melakukan Inggris + Eropa, beli paket regional Eropa yang secara eksplisit mencakup Inggris. Ini lebih sederhana, sering lebih murah, dan Anda tidak perlu mengelola dua instalasi terpisah.
-
-
-## Berapa Banyak Data yang Sebenarnya Akan Anda Gunakan?
-
-Salah satu pertanyaan paling umum: "Berapa banyak data yang harus saya beli?" Berikut rincian realistisnya.
-
-| Tingkat Penggunaan | Aktivitas Khas | Data yang Dibutuhkan (per minggu) | Ukuran Paket yang Direkomendasikan |
-|--------------------|----------------|-----------------------------------|-----------------------------------|
-| **Ringan** | Peta, aplikasi pesan, sesekali menjelajah, email | 1‑3 GB | Paket 3GB / 7 hari |
-| **Sedang** | Media sosial (Instagram, TikTok), streaming musik, peta sering | 5‑10 GB | Paket 5‑10GB / 7‑15 hari |
-| **Berat** | Panggilan video, streaming Netflix/YouTube, hotspot untuk laptop | 10‑20 GB | Paket 10‑20GB |
-| **Sangat Berat** | Panggilan video harian, menghubungkan beberapa perangkat, kreator konten | 20‑50 GB | Paket 20GB+ atau tak terbatas |
-
-### Penggunaan data dunia nyata per jam
-
-| Aktivitas | Data yang Digunakan (per jam) |
-|-----------|-------------------------------|
-| Navigasi Google Maps (lalu lintas langsung) | 50‑80 MB |
-| Streaming Spotify (kualitas normal) | 70 MB |
-| Menggulir Instagram (video putar otomatis) | 150‑250 MB |
-| TikTok | 250‑400 MB |
-| YouTube (480p) | 500 MB |
-| YouTube (1080p) | 1‑2 GB |
-| Panggilan video Zoom | 1‑1.5 GB |
-
-**Rekomendasi kami:** Sebagian besar turis melebih-lebihkan kebutuhan data mereka. Paket 5‑10GB untuk perjalanan 7‑10 hari biasanya cukup. Beli lebih banyak jika Anda menggunakan hotspot untuk beberapa perangkat atau bekerja jarak jauh. Sebagian besar penyedia memungkinkan Anda mengisi ulang secara online jika kehabisan – tetapi lebih murah untuk membeli paket yang lebih besar di muka.
-
-
-## Perbandingan Paket Inggris 2026 – Harga, Jangkauan, dan Fitur Utama
-
-| Merek/Platform | Terbaik Untuk | Data & Durasi | Jaringan / Roaming EU | Perkiraan Harga (USD) | Fitur Utama |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roami** | Perjalanan Inggris & Eropa | 10GB / 15 Hari | Multi‑jaringan / EU termasuk | ~$15 | Beralih otomatis antara EE/O2/Vodafone |
-| **Airalo** | Perjalanan singkat khusus Inggris | 5GB / 30 Hari | O2 atau Three / Inggris saja | ~$15 | Jangkauan negara terluas |
-| **Holafly** | Pengguna data berat | Tak terbatas / 7 Hari | O2 atau Vodafone / Inggris saja | ~$27 | Data tak terbatas (dengan kebijakan penggunaan wajar) |
-| **Lebara UK** | Tinggal jangka panjang | 20GB / 30 Hari | Vodafone / EU termasuk (FUP) | £10 (~$13) | Nomor Inggris + panggilan gratis ke Cina/India |
-| **EE** | Kebutuhan lokal berkecepatan tinggi | 15GB / 30 Hari | EE / biaya EU £2 harian | £15 (~$19) | Kecepatan 5G Inggris tercepat |
-| **O2** | Pelancong kota | 10GB / 30 Hari | O2 / biaya EU £2 harian | £12 (~$15) | Sinyal dalam ruangan terbaik |
-| **Nomad** | Pelancong hemat | 5GB / 7 Hari | O2 / Inggris saja | ~$8 | Paket jangka pendek murah |
-
-**Untuk opsi termurah:** Paket 1GB/7 hari Roami mulai di bawah $2 dengan kode `web20`. Untuk nilai terbaik dengan data lebih banyak, paket 20GB/30 hari Lebara seharga £10 sulit dikalahkan untuk masa tinggal jangka panjang.
-
-**Penting: Perangkap "Tak Terbatas".** Banyak paket "tak terbatas" menerapkan kebijakan penggunaan wajar yang memperlambat kecepatan hingga 128 Kbps setelah 2‑5GB per hari. Jika Anda memerlukan kecepatan tinggi yang konsisten, paket data tetap sering lebih andal daripada paket "tak terbatas" yang diperlambat.
-
-
-## Cara Menginstal dan Mengaktifkan – Langkah demi Langkah
-
-Menginstal paket digital sekarang semudah menambahkan boarding pass ke dompet digital Anda. Tidak perlu lagi repot dengan alat pengeluaran SIM kecil.
-
-1. **Beli dan terima** – Beli paket Anda secara online dan terima kode QR melalui email.
-2. **Pindai untuk menginstal** – Saat terhubung ke Wi‑Fi (idealnya sebelum penerbangan Anda), buka **Pengaturan > Seluler (atau Data Seluler) > Tambahkan eSIM**, dan pindai kode QR.
-3. **Aktifkan saat tiba** – Setelah mendarat di Inggris, pilih jalur baru Anda di pengaturan dan aktifkan **Data Roaming**. Anda akan terhubung ke jaringan lokal dalam waktu 60 detik.
-
-### Jalur Instalasi berdasarkan Perangkat
-
-| Perangkat | Jalur ke "Tambahkan eSIM" |
-|-----------|---------------------------|
-| **iPhone (iOS 16+)** | Pengaturan > Seluler > Tambahkan eSIM > Gunakan Kode QR |
-| **iPhone (iOS 15 atau lebih lama)** | Pengaturan > Seluler > Tambahkan Paket Seluler > Gunakan Kode QR |
-| **Samsung (One UI 5+)** | Pengaturan > Koneksi > Manajer Kartu SIM > Tambahkan eSIM |
-| **Samsung (One UI 4)** | Pengaturan > Koneksi > Manajer Kartu SIM > Tambahkan eSIM (mungkin di bawah "Jaringan seluler") |
-| **Google Pixel** | Pengaturan > Jaringan & Internet > Jaringan Seluler > Tambahkan Operator |
-| **OnePlus** | Pengaturan > Wi‑Fi & Jaringan > SIM & Jaringan > Tambahkan eSIM |
-
-**Tips Pro:** Instal sebelum terbang – Anda memerlukan koneksi Wi‑Fi yang stabil untuk unduhan. Profil akan tidak aktif di ponsel Anda sampai Anda mengaktifkan Data Roaming saat tiba.
-
-Untuk panduan lengkap iPhone, lihat **[Panduan Lengkap iPhone 16 eSIM](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)** kami. Jika Anda beralih dari SIM fisik, [panduan SIM fisik ke eSIM](/faq/how-to-activate-esim-on-iphone/) kami mencakup langkah-langkah spesifik untuk setiap model iPhone.
-
-
-## SIM Digital vs SIM Fisik – Mana yang Sebenarnya Menghemat Uang Anda?
-
-Jika ponsel Anda mendukung keduanya, berikut perbandingannya untuk perjalanan ke Inggris:
-
-| Faktor | Paket Digital (Penyedia Perjalanan) | SIM Fisik (Operator Lokal) |
-|--------|--------------------------------------|----------------------------|
-| **Waktu aktivasi** | 2 menit (pindai QR) | 10‑30 menit (cari toko, antre, instal) |
-| **Biaya (7 hari, 5GB)** | $5‑10 | £15‑25 ($19‑32) |
-| **Biaya (30 hari, 10GB)** | $10‑18 | £12‑20 ($15‑25) |
-| **Beli sebelum berangkat?** | ✅ Ya | ❌ Tidak – harus beli di Inggris |
-| **Nomor telepon Inggris** | ❌ Khusus data (biasanya) | ✅ Ya (untuk layanan lokal) |
-| **KTP diperlukan?** | ❌ Tidak | ✅ Ya (paspor sering diperlukan) |
-| **Hambatan bahasa** | ✅ Aplikasi dalam bahasa Anda | ⚠️ Semua dalam bahasa Inggris |
-| **Hotspot diizinkan?** | Tergantung penyedia | Biasanya ya |
-| **Multi‑negara** | ✅ Ya (paket Inggris + EU) | ❌ Hanya Inggris (roaming EU biaya tambahan) |
-
-**Kesimpulan:** Untuk pengunjung jangka pendek (1‑30 hari), paket perjalanan digital hampir selalu lebih murah, lebih cepat, dan lebih nyaman. Untuk penduduk jangka panjang (3+ bulan), SIM fisik lokal dengan nomor Inggris menawarkan nilai lebih baik untuk panggilan dan verifikasi SMS – tetapi Anda harus mengunjungi toko secara langsung.
-
-
-## Perjalanan Pembeli Lengkap – Dari Pencarian hingga Pengaturan
-
-| Langkah | Apa yang Anda Pikirkan | Apa yang Harus Dilakukan | Di Mana Menemukannya |
-| :--- | :--- | :--- | :--- |
-| **1. Kesadaran** | "Saya bepergian ke Inggris – bagaimana cara mendapatkan data seluler?" | Pelajari tentang paket digital sebagai alternatif yang lebih murah dan nyaman daripada roaming atau SIM fisik. | Panduan ini – mulai dari atas |
-| **2. Pemeriksaan kompatibilitas** | "Apakah ponsel saya akan berfungsi?" | Tekan `*#06#` untuk memeriksa nomor EID. Atau ambil uji coba gratis untuk menguji. | [Bagian Kompatibilitas](#cara-memeriksa-apakah-pon-sel-anda-akan-bekerja-dengan-paket-digital) + [Uji coba gratis](/free-esim/) |
-| **3. Kerangka keputusan** | "Jenis paket apa yang sebenarnya saya butuhkan?" | Cocokkan durasi dan tujuan perjalanan Anda dengan salah satu skenario di atas. | [Kerangka keputusan](#jenis-koneksi-mana-yang-tepat-untuk-perjalanan-anda) |
-| **4. Pemilihan jaringan** | "Jaringan Inggris mana yang memiliki jangkauan terbaik untuk rencana perjalanan saya?" | Bandingkan EE (pedesaan), O2 (dalam ruangan/kota), Three (hemat), atau multi‑jaringan (terbaik di mana saja). | [Perbandingan jaringan](#ee-vs-o2-vs-vodafone-vs-three--jaringan-mana-yang-bekerja-terbaik-untuk-rencana-perjalanan-anda) |
-| **5. Pemilihan paket** | "Paket mana yang memberi saya nilai terbaik untuk kebutuhan data saya?" | Tinjau tabel perbandingan – cocokkan jumlah data dan durasi Anda. | [Perbandingan paket Inggris 2026](#perbandingan-paket-inggris-2026--harga-jangkauan-dan-fitur-utama) |
-| **6. Pembelian** | "Saya sudah memilih satu – di mana saya membelinya?" | Klik ke penyedia pilihan Anda. Untuk Roami, beli langsung di situs kami. | Tautan di tabel perbandingan di atas |
-| **7. Instalasi** | "Bagaimana cara memasang ini di ponsel saya?" | Pindai kode QR sebelum penerbangan, aktifkan Data Roaming saat tiba. | [Panduan instalasi](#cara-menginstal-dan-mengaktifkan--langkah-demi-langkah) |
-| **8. Pemecahan masalah** | "Ini tidak berfungsi – apa yang harus saya lakukan?" | Periksa masalah umum: sakelar Data Roaming, pengaturan APN, pemilihan jaringan. | [Bagian pemecahan masalah di bawah](#masalah-umum-dan-cara-memperbaikinya) |
-
-
-## Masalah Umum dan Cara Memperbaikinya
-
-| Masalah | Kemungkinan Penyebab | Solusi | Jika Masih Tidak Berfungsi |
-|---------|----------------------|--------|---------------------------|
-| **Menampilkan "Tidak Ada Layanan"** | Data Roaming tidak diaktifkan | Buka Pengaturan > Seluler > paket > aktifkan Data Roaming | Nyalakan ulang ponsel, periksa pemilihan jaringan |
-| **Kode QR tidak dikenali** | Kode QR kedaluwarsa atau rusak | Minta kode QR baru dari penyedia Anda; coba masukkan manual | Hubungi penyedia untuk kode aktivasi manual |
-| **Tidak ada data setelah aktivasi** | Pengaturan APN hilang | Konfigurasi APN secara manual (lihat di bawah) | Hubungi penyedia untuk APN yang benar |
-| **Kecepatan lambat di area pedesaan** | Jaringan yang salah dipilih | Beralih secara manual ke EE (jangkauan pedesaan terbaik) | Jika pada paket jaringan tunggal, pertimbangkan multi‑jaringan lain kali |
-| **Hotspot tidak berfungsi** | Paket membatasi tethering | Periksa syarat paket Anda – beberapa paket hemat membatasi hotspot | Tingkatkan ke paket yang mengizinkan hotspot |
-| **Menampilkan "Mengaktifkan" berjam-jam** | Koneksi Wi‑Fi tidak stabil | Nyalakan ulang ponsel, aktifkan Mode Pesawat, coba Wi‑Fi lain | Tunggu 15 menit, hubungi dukungan jika masih macet |
-| **Paket tidak berfungsi setelah pembaruan iOS** | Pembaruan mengatur ulang pengaturan | Hapus profil (jika tidak ada data tersisa) dan instal ulang dari kode QR | Hubungi penyedia untuk kode QR baru |
-| **Tidak dapat menerima verifikasi SMS** | Anda membeli paket perjalanan khusus data | Paket perjalanan tidak menyertakan nomor telepon | Beli paket lokal dengan nomor Inggris (EE/O2/Lebara) |
-
-### Pengaturan APN – Jika Koneksi Data Tidak Muncul
-
-Jika Anda tidak memiliki data setelah aktivasi, pengaturan APN mungkin perlu disesuaikan:
-
-**Di iPhone:** `Pengaturan > Seluler > Jaringan Data Seluler` → isi bidang APN.
-
-**Di Android:** `Pengaturan > Koneksi > Jaringan Seluler > Nama Titik Akses` → buat APN baru.
-
-| Penyedia | APN | Nama Pengguna | Kata Sandi |
-|----------|-----|---------------|------------|
-| **Roami** | internet | (kosong) | (kosong) |
-| **Airalo** | globaldata | (kosong) | (kosong) |
-| **EE** | everywhere | (kosong) | (kosong) |
-| **O2** | mobile.o2.co.uk | web | web |
-| **Vodafone** | internet | (kosong) | (kosong) |
-| **Three** | three.co.uk | (kosong) | (kosong) |
-
-Untuk pemecahan masalah lebih lanjut, lihat **[Panduan Pemecahan Masalah Mendalam eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** dan **[Dual eSIM Tidak Berfungsi? 12 Perbaikan untuk iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
-
-
-## Cara Mengenali Penyedia Terpercaya – 6 Hal yang Perlu Diperiksa
-
-Sebelum membeli paket apa pun, waspadai jebakan umum ini:
-
-**Jebakan 1: "Tak Terbatas" dengan pembatasan tersembunyi.** Sebagian besar paket "tak terbatas" menerapkan kebijakan penggunaan wajar. Setelah ambang batas harian (biasanya 2‑5GB), kecepatan turun menjadi 128 Kbps – hampir tidak cukup untuk pesan. Baca cetakan kecil.
-
-**Jebakan 2: Biaya aktivasi tersembunyi.** Beberapa penyedia mengenakan biaya koneksi atau aktivasi di atas harga yang diiklankan. Ini dapat menambahkan $5‑10 ke total Anda. Selalu periksa harga akhir saat checkout.
-
-**Jebakan 3: Kedaluwarsa kode QR.** Kode QR biasanya kedaluwarsa 30‑90 hari setelah pembelian. Jika Anda membeli terlalu awal untuk perjalanan mendatang, kode mungkin tidak berlaku saat Anda mencoba mengaktifkan. Periksa tanggal kedaluwarsa sebelum membeli, atau beli lebih dekat dengan tanggal perjalanan Anda.
-
-**Jebakan 4: Tidak ada berbagi hotspot.** Beberapa paket hemat membatasi penggunaan hotspot pribadi. Jika Anda perlu berbagi data dengan laptop atau teman bepergian, konfirmasikan bahwa hotspot diizinkan sebelum membeli.
-
-**Jebakan 5: Terkunci jaringan tunggal.** Beberapa paket murah mengunci Anda ke satu jaringan (sering Three atau O2). Jika jaringan itu memiliki titik mati di rute Anda, Anda terjebak. Paket multi‑jaringan secara otomatis beralih antar jaringan untuk sinyal terbaik.
-
-**Cara mengenali penyedia terpercaya:**
-- ✅ Harga jelas tanpa biaya tersembunyi
-- ✅ Kebijakan penggunaan wajar yang transparan dan dinyatakan dengan jelas
-- ✅ Hotspot diizinkan (atau dinyatakan dengan jelas jika tidak)
-- ✅ Akses multi‑jaringan untuk jangkauan lebih baik
-- ✅ Dukungan pelanggan 24/7 (manusia, bukan hanya chatbot)
-- ✅ Uji coba gratis tersedia untuk menguji kompatibilitas
+Memindahkan eSIM Anda ke ponsel baru? Itu proses terpisah — lihat [panduan transfer eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/) kami.
 
 
 ## Pertanyaan yang Sering Diajukan
 
-**Apakah paket saya akan berfungsi di London Underground?**
-Secara historis, Tube tidak memiliki sinyal seluler sama sekali di bawah tanah. Namun, pada 2025/2026, jangkauan 4G dan 5G berkembang pesat di jalur Jubilee, Central, dan Northern. Untuk stasiun tanpa layanan seluler, sebagian besar menawarkan Wi‑Fi. Vodafone memiliki panggilan Wi‑Fi eksklusif di beberapa jalur Tube.
+**Seberapa jauh sebelumnya saya harus membeli eSIM Inggris saya?**
+Beli 1–2 minggu sebelum bepergian. Kode QR biasanya kedaluwarsa dalam 30–90 hari, jadi jangan membeli lebih dari ~3 bulan di muka, dan beli cukup awal untuk memasang di Wi-Fi rumah sebelum keberangkatan.
 
-**Bisakah saya menggunakan paket saya sebagai hotspot pribadi?**
-Ya. Sebagian besar paket perjalanan mendukung Hotspot Pribadi. Periksa syarat paket Anda untuk memastikan – beberapa paket hemat membatasinya.
+**Apakah saya butuh alamat Inggris untuk membeli eSIM perjalanan?**
+Tidak. Paket perjalanan (Roami, Airalo, Holafly, Nomad) tidak butuh alamat Inggris, ID, atau pemeriksaan kredit. Hanya paket operator langsung (EE, O2, Vodafone) yang meminta alamat Inggris dan paspor.
 
-**Apakah paket perjalanan menyertakan nomor telepon Inggris?**
-Tidak. Paket perjalanan khusus data. Anda tetap dapat menggunakan WhatsApp, FaceTime, iMessage, dan Skype dengan mulus. Jika Anda benar-benar memerlukan verifikasi SMS dari bank Inggris, beli paket lokal dengan nomor +44.
+**Apa eSIM Inggris termurah saat ini?**
+Paket 1 GB / 7 hari Roami mulai di bawah $2 dengan kode `web20`. Untuk tinggal lama, paket 20 GB / 30 hari Lebara seharga £10 menyertakan nomor +44 dan sulit dikalahkan per gigabyte.
 
-**Bagaimana jika saya kehabisan data?**
-Anda dapat mengisi ulang secara online. Masuk ke situs web atau aplikasi tempat Anda membeli paket, beli tambahan, dan data akan dikreditkan secara otomatis – tidak perlu memindai kode QR baru.
+**Bisakah saya membeli eSIM Inggris yang juga bekerja di Eropa?**
+Ya — beli paket regional Eropa yang secara eksplisit mencantumkan Inggris. Pasca-Brexit, pastikan Inggris ada di daftar cakupan; paket khusus Inggris tidak akan roaming UE gratis.
 
-**Bisakah saya mentransfer paket saya ke ponsel baru?**
-Sebagian besar paket perjalanan adalah instalasi sekali pakai dan tidak dapat ditransfer. Untuk paket operator pascabayar (EE, Vodafone), hubungi operator Anda. Untuk langkah detail tentang transfer antar perangkat, lihat **[panduan Transfer Lintas Platform eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** kami.
+**Apakah paket saya bekerja di London Underground?**
+4G/5G sedang digulirkan di seluruh jalur Jubilee, Central, dan Northern sepanjang 2025–2026. Di stasiun tanpa sinyal, sebagian besar menawarkan Wi-Fi; Vodafone punya Wi-Fi calling eksklusif di beberapa jalur (hanya pascabayar).
 
-**Mengapa paket saya menampilkan "Tidak Ada Layanan" setelah mendarat di Inggris?**
-Paling umum, Data Roaming tidak diaktifkan, atau ponsel Anda masih menggunakan SIM rumah untuk data. Periksa kembali kedua pengaturan. Pastikan juga ponsel Anda diatur untuk memilih jaringan secara otomatis.
+**Bisakah saya memakai paket saya sebagai personal hotspot?**
+Di sebagian besar paket, ya. Beberapa paket murah atau "unlimited" membatasi tethering — periksa ketentuan sebelum membeli jika Anda berencana membagikan data.
 
-**Bisakah saya menggunakan paket Inggris di negara Eropa lainnya?**
-Hanya jika paket Anda menyertakan roaming EU. Paket perjalanan seperti Roami sering menyertakan roaming EU, sementara paket lokal Inggris (EE, O2, Vodafone) biasanya mengenakan biaya £2/hari untuk penggunaan EU. Periksa syarat paket Anda sebelum bepergian.
+**Bagaimana jika data saya habis?**
+Isi ulang online dari situs atau aplikasi penyedia; data tambahan dikreditkan otomatis, tanpa kode QR baru.
 
-**Apa opsi termurah yang tersedia?**
-Harga bervariasi, tetapi paket 5GB/7 hari Roami mulai di bawah $7 dengan uji coba gratis tersedia. Untuk masa tinggal lebih lama, Lebara UK menawarkan 20GB/30 hari seharga £10. Selalu bandingkan total biaya termasuk biaya aktivasi apa pun.
+**Bisakah saya memindahkan paket saya ke ponsel baru?**
+Sebagian besar eSIM perjalanan adalah instalasi sekali dan tidak bisa dipindahkan. Untuk paket operator, hubungi operatornya — langkah lengkap ada di [panduan transfer eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/) kami.
 
-**Mengapa paket saya menampilkan "Mengaktifkan" lebih dari 10 menit?**
-Server aktivasi operator mungkin sibuk, atau Wi‑Fi Anda tidak stabil. Tunggu hingga 15 menit. Jika masih macet, aktifkan dan nonaktifkan Mode Pesawat. Jika tidak berhasil, nyalakan ulang ponsel dan coba pindai kode QR lagi.
+**Apakah ponsel pasar Tiongkok saya bekerja dengan eSIM Inggris?**
+Biasanya tidak — iPhone Tiongkok daratan dan banyak model Android tidak memiliki perangkat keras eSIM. Panggil `*#06#`; tanpa EID berarti tanpa eSIM.
 
-**Bisakah saya menggunakan paket Inggris dengan ponsel yang dibeli di Cina?**
-Sebagian besar iPhone dan ponsel Android yang dibeli di Cina daratan TIDAK mendukung SIM digital karena peraturan setempat yang mewajibkan dukungan dual SIM fisik. Periksa dengan `*#06#` – jika tidak ada EID yang muncul, ponsel Anda tidak dapat menggunakan paket digital apa pun.
+**Bagaimana cara mendapat pengembalian dana jika tidak bekerja?**
+Hubungi dukungan penyedia dengan nomor pesanan dan deskripsi masalahnya; sebagian besar penyedia bereputasi mengembalikan dana jika masalahnya di pihak mereka dalam jendela waktu singkat.
 
-**Seberapa jauh sebelumnya saya harus membeli?**
-Beli 1‑2 minggu sebelum perjalanan Anda. Kode QR biasanya kedaluwarsa dalam 30‑90 hari, jadi jangan membeli lebih dari 90 hari sebelumnya. Membeli terlalu awal berisiko kode kedaluwarsa; membeli terlalu lambat berisiko tidak memiliki Wi‑Fi yang stabil untuk menginstal sebelum keberangkatan.
+**Apakah saya membayar PPN atau biaya tersembunyi pada eSIM Inggris?**
+Penyedia perjalanan bereputasi menyertakan semua pajak dalam harga tercantum — yang Anda lihat saat checkout adalah yang Anda bayar. Waspadai "biaya aktivasi" atau "biaya koneksi" yang ditambahkan di langkah terakhir; itu ciri penyedia yang sebaiknya dihindari. Paket operator Inggris langsung menyertakan PPN dalam harga yang diiklankan.
 
-**Apakah saya memerlukan alamat Inggris untuk membeli paket perjalanan?**
-Tidak. Paket perjalanan (Roami, Airalo, Holafly) tidak memerlukan alamat Inggris, KTP, atau pemeriksaan kredit. Hanya paket operator lokal (EE, O2, Vodafone) yang memerlukan alamat Inggris dan KTP.
+**Bisakah saya membayar dalam dolar AS atau mata uang rumah saya?**
+Ya. Penyedia perjalanan (Roami, Airalo, Holafly, Nomad) memungkinkan pembayaran dalam USD, EUR, dan mata uang utama lainnya, dengan Apple Pay, Google Pay, dan kartu. Penerbit kartu Anda mungkin menambahkan sedikit biaya transaksi luar negeri jika Anda membeli dari operator Inggris dalam GBP — periksa kebijakan kartu Anda.
 
-Masih belum yakin tentang kompatibilitas atau ingin menguji sebelum membeli? Coba **[uji coba eSIM gratis](/free-esim/)** terlebih dahulu – hanya butuh 2 menit dan mengonfirmasi ponsel Anda siap.
+**Apakah Giffgaff pilihan eSIM yang bagus?**
+Untuk pay-as-you-go yang fleksibel, ya. Giffgaff berjalan di jaringan O2 (sinyal dalam ruangan hebat) dan menjual paket "goodybag" mulai £6 dengan nomor +44 sungguhan dan tanpa kontrak. Ini tengah yang solid antara eSIM perjalanan data saja dan kontrak penuh EE/O2 — ideal untuk tinggal menengah di mana Anda ingin nomor tetapi bukan komitmen.
+
+**Haruskah saya membeli dari Roami atau langsung dari EE?**
+Keduanya menyelesaikan masalah berbeda. Roami (dan penyedia perjalanan serupa) menjual eSIM data saja seketika tanpa ID, tanpa alamat Inggris, dan cakupan multi-jaringan — terbaik untuk perjalanan di bawah sebulan. EE langsung memberi Anda nomor +44 dan 5G Inggris tercepat, tetapi Anda mendaftar dengan alamat dan paspor Inggris serta membayar lebih per gigabyte. Sebagian besar pelancong singkat memulai dengan eSIM perjalanan; penduduk tinggal lama naik kelas ke EE/O2/Lebara. Keputusan ini dibahas lengkap di [panduan eSIM vs SIM fisik](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/) kami.
+
+**Bisakah saya membeli eSIM Inggris untuk orang lain?**
+Ya. Dengan penyedia perjalanan Anda cukup membeli paket dan meneruskan email QR ke penerima — paketnya aktif di ponsel mana pun yang memasang kodenya lebih dulu. Dengan operator Inggris, pemeriksaan ID mengikat paket ke orang yang tercantum, jadi pembeli biasanya perlu mendaftar atas nama pelancongnya.
+
+
+## Siap Membeli?
+
+Anda kini tahu harganya, jaringannya, hitungan datanya, dan langkah-langkah persisnya. Inilah cara tercepat bertindak:
+
+👉 **Bandingkan dan beli [paket eSIM Inggris](/united-kingdom-esim/)**, atau ambil [eSIM Eropa](/europe-esim/) jika perjalanan Anda berlanjut ke UE.
+
+👉 **Masih memutuskan eSIM vs SIM fisik?** Lihat [panduan eSIM Inggris vs SIM fisik](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/) kami.
+
+👉 **Uji sebelum berkomitmen** dengan [eSIM uji coba gratis](/free-esim/).
 
 ---
 
-*Berdasarkan dokumentasi resmi Apple, standar GSMA, dan informasi operator. Diperbarui: Agustus 2026.*
+*Berdasarkan dokumentasi resmi Apple, standar GSMA, dan informasi operator. Diperbarui: September 2026.*
 ## Sumber
 
-- [GSMA — Spesifikasi eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Apple Support — eSIM di iPhone](https://support.apple.com/en-us/108072)
-- [Google Support — Menyiapkan eSIM](https://support.google.com/pixelphone/answer/14853135)
-- [Google Support — eSIM Android](https://support.google.com/android/answer/11241215)
+- [GSMA — spesifikasi eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

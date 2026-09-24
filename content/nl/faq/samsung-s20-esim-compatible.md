@@ -1,12 +1,13 @@
 ---
-title: "Samsung Galaxy eSIM: Gids voor S/A/Z-series"
-h1_title: "De complete gids voor Samsung Galaxy eSIM voor de S-, A- en Z-series"
-description: "Volledige Samsung eSIM-ondersteuning: S21-S25 (ja), S20 (alleen globaal), A54/A55/A35 (ja), A15/A16/A32 (nee), Z-serie (ja). Verifieer, activeer & providerlijst."
-image: "/img/esim/esim-travel.jpg"
-keywords: ["samsung esim", "samsung-telefoons met esim", "samsung esim-compatibele telefoons", "samsung galaxy esim", "heeft samsung esim", "samsung s21 esim", "samsung esim activering", "samsung a-serie esim", "samsung dubbele esim", "samsung esim-telefoons lijst", "samsung esim werkt niet", "samsung esim qr-code", "samsung esim vs", "samsung s20 esim"]
-date: 2026-09-16T10:00:00Z
-lastmod: 2026-09-16T00:00:00Z
-tags: ["Samsung", "eSIM", "Compatibiliteit", "Galaxy S21", "Galaxy S22", "Galaxy S23", "Galaxy S24", "Galaxy S25", "Galaxy A-serie", "Galaxy Z-serie"]
+title: "Samsung Galaxy eSIM: gids voor de S/A/Z-serie"
+h1_title: "De complete gids voor Samsung Galaxy eSIM voor de S-, A- en Z-serie"
+description: "Volledige Samsung eSIM-ondersteuning: S21-S25 (ja), S20 (alleen wereldwijd), A54/A55/A35 (ja), A15/A16/A32 (nee), Z-serie (ja). Verifiëren, activeren & providerlijst."
+image: "/img/faq/samsung-s20-esim.webp"
+image-1: "/img/faq/samsung-s20-esim-1.jpg"
+keywords: ["samsung esim", "samsung phones with esim", "samsung esim compatible phones", "samsung galaxy esim", "does samsung have esim", "samsung s21 esim", "samsung esim activation", "samsung a series esim", "samsung dual esim", "samsung esim phones list", "samsung esim not working", "samsung esim qr code", "samsung esim usa", "samsung s20 esim"]
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
+tags: ["Samsung", "eSIM", "Compatibility", "Galaxy S21", "Galaxy S22", "Galaxy S23", "Galaxy S24", "Galaxy S25", "Galaxy A series", "Galaxy Z series"]
 toc: true
 
 # Site & SEO
@@ -14,7 +15,7 @@ site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI tekstvertalingen
+# UI text translations
 ui_text:
   updated_on: "Bijgewerkt op"
   min_read: "min leestijd"
@@ -22,15 +23,15 @@ ui_text:
 
 breadcrumbs:
   home:
-    text: "Home"
+    text: "Startpagina"
     url: "/"
   parent:
     text: "eSIM-compatibiliteit"
     url: "/compatibility/"
 
-# Sidebar: Populaire eSIMs
+# Sidebar: Popular eSIMs
 sidebar_popular:
-  title: "Populaire eSIMs"
+  title: "Populaire eSIM's"
   item_suffix: "eSIM"
   items:
     - name: "VS eSIM"
@@ -64,9 +65,9 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# Sidebar: Gratis eSIM-aanbiedingen
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Claim gratis eSIM"
+  title: "Gratis eSIM claimen"
   icon: "🎁"
   item_suffix: "Gratis eSIM"
   item_subtitle: "Gratis eSIM"
@@ -84,7 +85,7 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sidebar: Populaire vragen
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Populaire vragen"
   items:
@@ -94,119 +95,49 @@ sidebar_questions:
       url: "/faq/how-to-activate-an-esim/"
     - question: "Hoe activeer je eSIM op iPhone (alle modellen)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Nieuwste eSIM-compatibiliteitslijst"
+    - question: "Actuele eSIM-compatibiliteitslijst"
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Ondersteunt de Galaxy S21-serie eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja. Alle modellen in de S21-familie – waaronder de S21, S21+, S21 Ultra en S21 FE – ondersteunen eSIM in alle regio's."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Ondersteunt de Galaxy S24 Ultra eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja. De S24 Ultra bevat standaard eSIM-functionaliteit – bel * # 06 # om de EID te zien."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Ondersteunt de Galaxy A15 eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Nee. De A15 heeft geen eSIM-hardware. Het is een toestel met alleen fysieke SIM."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Ondersteunt de Galaxy A35 eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja. De A35 is een van de weinige A-serie modellen met eSIM."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Ondersteunen Galaxy Z Fold- of Z Flip-toestellen eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja voor de meeste modellen vanaf de Z Fold2 en Z Flip3. Controleer met * # 06 # om te bevestigen."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Hoe controleer ik of mijn Samsung eSIM ondersteunt?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bel * # 06 # op het toetsenblok van je telefoon. Als er een 32-cijferig EID-nummer verschijnt, ondersteunt je telefoon eSIM."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Ondersteunt de Note 20 Ultra eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Alleen de internationale Exynos-versie. Amerikaanse Snapdragon-modellen niet."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Waarom is de optie 'eSIM toevoegen' grijs op mijn Samsung?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dit is bijna altijd een firmwarebeperking van de provider. AT&T-branded Samsung-telefoons hebben dit probleem vaak. Neem contact op met je provider of koop een ontgrendelde telefoon."
-      }
-    }
-  ]
-}
-</script>
 
-> **Redactienoot:** Roami is het merk achter deze gids. Alle compatibiliteitsinformatie is gebaseerd op Samsung's officiële documentatie, GSMA-standaarden en onze apparaattests in 2026. We streven ernaar duidelijke, nauwkeurige begeleiding te bieden zodat je met vertrouwen kunt bepalen of jouw Samsung-telefoon eSIM ondersteunt.
+> **Redactionele noot:** De Samsung Galaxy S20 ondersteunt eSIM op de meeste varianten, maar sommige regionale en providerversies schakelen het uit. Deze gids volgt de officiële documentatie van Samsung en de GSMA-standaarden. Controleer hieronder je exacte modelnummer om te bevestigen of je S20 eSIM kan gebruiken.
 
-## Samsung eSIM snel antwoord – Ondersteunt jouw Galaxy het?
+Voor Samsung is de korte versie dit: de Galaxy S21 en nieuwer ondersteunen eSIM in elke regio, de internationale Exynos S20 ook, maar Amerikaanse S20-toestellen, de meeste Galaxy A-serie-telefoons en China/Hongkong-modellen niet. *#06# intoetsen en controleren op een EID bevestigt het jouwe. De uitsplitsing per serie begint hieronder.
 
-**Het korte antwoord:** Als je een Galaxy S21 of nieuwer hebt (S21, S22, S23, S24, S25), **ja** — je telefoon ondersteunt eSIM in alle regio's, inclusief de VS. Oudere en goedkopere modellen zijn een geval-per-geval verhaal.
+## Ondersteunt jouw Samsung Galaxy eSIM?
 
-**Waarom dit belangrijk is:** eSIM laat je een abonnement toevoegen zonder fysieke SIM-kaart, zodat reizigers een lokaal data-abonnement kunnen kopen voordat ze vertrekken en dit kunnen activeren zodra ze landen.
+**Het korte antwoord:** Als je een Galaxy S21 of nieuwer hebt (S21, S22, S23, S24, S25), **ja** — je telefoon ondersteunt eSIM in alle regio's, inclusief de VS. Oudere en goedkopere modellen zijn een geval-voor-geval-verhaal.
 
-**Nog niet zeker?** Pak een **[gratis proef-eSIM](/free-esim/)** — het duurt 2 minuten en bevestigt dat je telefoon klaar is zonder een cent uit te geven.
+**Waarom dit belangrijk is:** met eSIM kun je een abonnement toevoegen zonder fysieke SIM-kaart, zodat reizigers vóór vertrek een lokaal dataplan kunnen kopen en het activeren zodra ze landen.
 
-## Hoe je jouw Samsung identificeert: Modelnummer, CSC en chipset
+**Nog steeds niet zeker?** Pak een **[gratis proef-eSIM](/free-esim/)** — het duurt 2 minuten en bevestigt dat je telefoon klaar is zonder ook maar één cent uit te geven.
 
-Samsung is het lastigste Android-merk voor eSIM omdat dezelfde telefoonnaam zich per regio anders gedraagt. Drie dingen bepalen of jouw Galaxy eSIM heeft: het **modelnummer-suffix**, de **CSC-code** en de **chipset (Exynos vs Snapdragon)**.
+## Hoe identificeer je je Samsung-modelnummer
 
-### Stap 1: Zoek je modelnummer
+Samsung is het lastigste Android-merk voor eSIM omdat dezelfde telefoonnaam zich per regio anders gedraagt. Drie dingen bepalen of je Galaxy eSIM heeft: het **modelnummerachtervoegsel**, de **CSC-code** en de **chipset (Exynos versus Snapdragon)**.
 
-Ga naar **Instellingen > Over telefoon > Modelnummer**. Je ziet iets als `SM-S918B` of `SM-S918U`.
+### Vind je modelnummer
 
-### Stap 2: Decodeer het modelnummer-suffix
+Ga naar **Instellingen > Over de telefoon > Modelnummer**. Je ziet zoiets als `SM-S918B` of `SM-S918U`.
 
-| Suffix | Betekenis | eSIM-ondersteuning |
+### Ontcijfer het achtervoegsel van het modelnummer
+
+| Achtervoegsel | Betekenis | eSIM-ondersteuning |
 |--------|---------|--------------|
-| **SM-S9xxB, SM-S9xxE** | Internationaal / globaal (Exynos) | ✅ Ja (S20 en nieuwer) |
+| **SM-S9xxB, SM-S9xxE** | Internationaal / Wereldwijd (Exynos) | ✅ Ja (S20 en nieuwer) |
 | **SM-S9xxU, SM-S9xxU1** | VS (Snapdragon) | ⚠️ S20 nee, S21+ ja |
 | **SM-S9xxW** | Canada | ⚠️ Gemengd — controleer met `*#06#` |
 | **SM-S9xx0** | China / Hongkong | ❌ Geen eSIM (China-modellen) |
-| **SM-S9xxN** | Korea | ✅ Ja (de meeste modellen) |
+| **SM-S9xxN** | Korea | ✅ Ja (meeste modellen) |
 | **SC-xx** | Japan (Docomo) | ❌ Vaak uitgeschakeld |
 | **SM-AxxE, SM-AxxB** | Internationale A-serie | ⚠️ Alleen A54/A55/A35 hebben eSIM |
-| **SM-AxxU** | VS A-serie | ❌ Geen eSIM op enige VS A-serie |
+| **SM-AxxU** | VS A-serie | ❌ Geen eSIM op enige Amerikaanse A-serie |
 
-### Stap 3: Controleer je CSC-code
+### Controleer je CSC-code
 
-De CSC (Customer Service Code) vertelt je welke firmware van welke regio je telefoon draait:
+De CSC (Customer Service Code) vertelt voor welke regio's firmware je telefoon draait:
 
-1. Ga naar **Instellingen > Over telefoon > Software-informatie**.
+1. Ga naar **Instellingen > Over de telefoon > Software-informatie**.
 2. Scroll naar **Service Provider SW Ver**.
 3. Lees de laatste drie letters van de CSC:
 
@@ -220,33 +151,33 @@ De CSC (Customer Service Code) vertelt je welke firmware van welke regio je tele
 | **KOO, KTC, SKC** | Korea | ✅ Ja |
 | **DCM, SBM, KDI** | Japan | ❌ Vaak uitgeschakeld |
 
-### Stap 4: Exynos vs Snapdragon — waarom het je S20 bepaalt
+### Exynos versus Snapdragon op de Galaxy S20
 
 De chipset is de grootste factor op oudere flagships:
 
 - **Exynos (internationaal) S20, S20+, S20 Ultra en Note 20 Ultra** — hebben eSIM, ingeschakeld door de One UI 3.1-update.
-- **Snapdragon (VS) S20 en Note 20 Ultra** — geen eSIM, en geen oplossing: Samsung heeft het in firmware uitgeschakeld, dus zelfs "ontgrendelde" VS-modellen missen het.
-- **S21 en nieuwer** — zowel Exynos- als Snapdragon-versies ondersteunen eSIM, dus de chipset maakt niet langer uit.
+- **Snapdragon (VS) S20 en Note 20 Ultra** — geen eSIM, en geen oplossing: Samsung schakelde het uit in de firmware, dus zelfs "ontgrendelde" Amerikaanse modellen missen het.
+- **S21 en nieuwer** — zowel Exynos- als Snapdragon-versies ondersteunen eSIM, dus de chipset telt niet meer.
 
-**De bodemregel:** een model dat eindigt op `U` (VS) op een S20 = geen eSIM. Een model dat eindigt op `B` of `E` (internationaal) = eSIM beschikbaar. Een China-model (`0` of CSC `CHC`) = geen eSIM, geen oplossing.
+**De kern:** een model dat eindigt op `U` (VS) op een S20 = geen eSIM. Een model dat eindigt op `B` of `E` (internationaal) = digitale SIM beschikbaar. Een China-model (`0` of CSC `CHC`) = geen eSIM, geen oplossing.
 
 Voor een vergelijkbaar Android-alternatief, zie onze **[Google Pixel eSIM-compatibiliteitsgids](/faq/google-pixel-6-esim-compatible/)**.
 
-## Samsung snelle beslisflow
+## Welke Samsung-serie ondersteunt eSIM
 
-| Jouw Samsung-model | eSIM-ondersteuning | Wat nu te doen |
+| Je Samsung-model | eSIM-ondersteuning | Wat nu te doen |
 | :--- | :--- | :--- |
-| **Galaxy S21, S22, S23, S24 of S25 (elke variant)** | ✅ Ja | Activeer maar — zie de activeringsnotitie hieronder. |
-| **Galaxy S20 (internationaal/Exynos)** | ✅ Ja (na One UI 3.1) | Werk software bij, bel dan `*#06#`. |
+| **Galaxy S21, S22, S23, S24 of S25 (elke variant)** | ✅ Ja | Activeer gerust — zie de activeringsnotitie hieronder. |
+| **Galaxy S20 (internationaal/Exynos)** | ✅ Ja (na One UI 3.1) | Werk de software bij, toets dan `*#06#` in. |
 | **Galaxy S20 (VS/Snapdragon)** | ❌ Nee | Alleen fysieke SIM. |
-| **Galaxy A54, A55 of A35** | ✅ Ja | De weinige A-serie modellen met eSIM. |
+| **Galaxy A54, A55 of A35** | ✅ Ja | De weinige A-serie-modellen met eSIM. |
 | **Galaxy A15, A16, A32, A53 of oudere A-serie** | ❌ Nee | Alleen fysieke SIM. |
-| **Galaxy Z Fold2+ / Z Flip3+** | ✅ Ja (de meeste regio's) | Controleer provider-locked versies zorgvuldig. |
+| **Galaxy Z Fold2+ / Z Flip3+** | ✅ Ja (meeste regio's) | Controleer gecarrierevergrendelde versies zorgvuldig. |
 | **Galaxy Note 20 Ultra (Exynos)** | ✅ Ja | Na One UI 3.1. |
 | **Galaxy Note 20 Ultra (VS)** | ❌ Nee | Geen eSIM. |
 | **Galaxy S10 of ouder / Note 10 of ouder** | ❌ Nee | Te oud. |
 
-**Wil je testen zonder te kopen?** Probeer eerst een **[gratis proef-eSIM](/free-esim/)**.
+**Zonder te kopen testen?** Probeer eerst een **[gratis proef-eSIM](/free-esim/)**.
 
 ## Complete Samsung eSIM-compatibiliteitstabel
 
@@ -256,70 +187,70 @@ Voor een vergelijkbaar Android-alternatief, zie onze **[Google Pixel eSIM-compat
 | **S24** | S24, S24+, S24 Ultra, S24 FE | ✅ Ja (alle regio's) | Volledige ondersteuning; **Samsung Galaxy S24 Ultra eSIM-ondersteuning** bevestigd |
 | **S23** | S23, S23+, S23 Ultra, S23 FE | ✅ Ja (alle regio's) | Volledige ondersteuning |
 | **S22** | S22, S22+, S22 Ultra | ✅ Ja (alle regio's) | **Samsung S22 Ultra eSIM** werkt wereldwijd |
-| **S21** | S21, S21+, S21 Ultra, S21 FE | ✅ Ja (alle regio's) | Eerste VS-modellen met volledige eSIM |
-| **S20** | S20, S20+, S20 Ultra (Exynos) | ✅ Ja (alleen globaal) | One UI 3.1+ vereist |
+| **S21** | S21, S21+, S21 Ultra, S21 FE | ✅ Ja (alle regio's) | Eerste Amerikaanse modellen met volledige eSIM |
+| **S20** | S20, S20+, S20 Ultra (Exynos) | ✅ Ja (alleen wereldwijd) | One UI 3.1+ vereist |
 | **S20** | S20, S20+, S20 Ultra (VS Snapdragon) | ❌ Nee | Uitgeschakeld door Samsung |
 | **S20 FE** | S20 FE (alle regio's) | ❌ Nee | Geen eSIM-hardware |
 | **S10** | S10, S10+, S10e, S10 5G | ⚠️ Beperkt | Zeldzame internationale Exynos-modellen |
 | **S9 / Note 9** | S9, S9+, Note 9 | ❌ Nee | Geen eSIM-hardware |
 | **A-serie (nieuwer)** | A54, A55, A35 | ✅ Ja | **Samsung A35 eSIM** en **Samsung A54 eSIM** ondersteund |
 | **A-serie (ouder)** | A15, A16, A32, A33, A51, A52, A53, A71, A72, A73 | ❌ Nee | Missen eSIM-hardware |
-| **Z Fold** | Z Fold2–Fold7 | ✅ Ja (de meeste) | Internationaal en VS ontgrendeld |
+| **Z Fold** | Z Fold2–Fold7 | ✅ Ja (de meeste) | Internationaal en VS-ontgrendeld |
 | **Z Flip** | Z Flip3–Flip7 | ✅ Ja (de meeste) | Zelfde als Fold-serie |
 | **Note 20** | Note 20, Note 20 Ultra (Exynos) | ✅ Ja | Alleen internationaal |
 | **Note 20** | Note 20, Note 20 Ultra (VS) | ❌ Nee | Snapdragon-modellen missen eSIM |
 
 ## S-serie, A-serie en Z-serie in detail
 
-### Galaxy S21 tot en met S25 (volledige ondersteuning)
+### Galaxy S21 tot en met S25 volledige ondersteuning
 
-Elk flagship vanaf de S21-generatie ondersteunt eSIM op beide chipsets — de S21, S21+, S21 Ultra, S21 FE; de S22, S22+, S22 Ultra; de S23, S23+, S23 Ultra, S23 FE; de S24, S24+, S24 Ultra, S24 FE; en de S25-serie. Vooral de Ultra-modellen (**Samsung S22 Ultra eSIM**, **Samsung S23 Ultra eSIM** en **Samsung Galaxy S24 Ultra eSIM-ondersteuning**) werken wereldwijd en met elke grote reis-eSIM-aanbieder (Roami, Airalo, Holafly en VS-providers zoals Verizon, T-Mobile en Google Fi).
+Elk flagship vanaf de S21-generatie ondersteunt eSIM op beide chipsets — de S21, S21+, S21 Ultra, S21 FE; de S22, S22+, S22 Ultra; de S23, S23+, S23 Ultra, S23 FE; de S24, S24+, S24 Ultra, S24 FE; en de S25-serie. Vooral de Ultra-modellen (S22 Ultra, S23 Ultra en S24 Ultra) werken wereldwijd en met elke grote reis-eSIM-aanbieder (Roami, Airalo, Holafly, en Amerikaanse providers zoals Verizon, T-Mobile en Google Fi).
 
-### Galaxy S20 (gedeeltelijk — de Exynos/Snapdragon-splitsing)
+### Galaxy S20 gedeeltelijke ondersteuning
 
-De S20-serie is de eerste Galaxy met eSIM-hardware, maar alleen internationale Exynos-eenheden kregen de software. Werk een internationale S20 bij naar One UI 3.1 (Android 11) of later en bel dan `*#06#` om de EID te bevestigen. Amerikaanse Snapdragon-modellen en de S20 FE hebben helemaal geen eSIM.
+De S20-serie is de eerste Galaxy met eSIM-hardware, maar alleen internationale Exynos-toestellen kregen de software. Werk een internationale S20 bij naar One UI 3.1 (Android 11) of later, en toets dan `*#06#` in om de EID te bevestigen. Amerikaanse Snapdragon-modellen en de S20 FE hebben helemaal geen eSIM.
 
-### Galaxy A-serie (meestal nee)
+### Galaxy A-serie meestal geen eSIM
 
-De A-serie is het meest verwarrend: bijna alle modellen missen eSIM, maar Samsung voegde het vanaf 2024 toe aan een paar hogere modellen. **Galaxy A54**, **A55** en **A35** ondersteunen eSIM; de A15, A16, A32, A33, A51, A52, A52s, A53, A71, A72, A73, A12, A22 en A13 niet. Let op: 5G betekent niet automatisch eSIM — de A15 5G en A16 5G hebben 5G maar geen eSIM.
+De A-serie is het meest verwarrend: vrijwel alle modellen missen eSIM, maar Samsung voegde het vanaf 2024 toe aan enkele duurdere modellen. **Galaxy A54**, **A55** en **A35** ondersteunen eSIM; de A15, A16, A32, A33, A51, A52, A52s, A53, A71, A72, A73, A12, A22 en A13 niet. Merk op dat 5G geen eSIM impliceert — de A15 5G en A16 5G hebben 5G maar geen ingebouwde SIM.
 
-### Galaxy Z-serie (foldables)
+### Galaxy Z-serie vouwtelefoons
 
-De meeste foldables vanaf de Z Fold2 en Z Flip3 ondersteunen eSIM — de Fold2 tot en met Fold7 en Flip3 tot en met Flip7. Internationale en VS-ontgrendelde eenheden zijn betrouwbaar; provider-locked VS-modellen kunnen het uitgeschakeld hebben. Foldables ondersteunen ook dubbele SIM (één fysieke + één eSIM, of dubbele eSIM op nieuwere modellen).
+De meeste vouwtelefoons vanaf de Z Fold2 en Z Flip3 ondersteunen eSIM — de Fold2 tot en met Fold7 en Flip3 tot en met Flip7. Internationale en VS-ontgrendelde toestellen zijn betrouwbaar; gecarrierevergrendelde Amerikaanse modellen kunnen het uitgeschakeld hebben. Vouwtelefoons ondersteunen ook dual SIM (één fysiek + één eSIM, of dual eSIM op nieuwere modellen).
 
 ### Galaxy Note-serie
 
 De Note 20 Ultra in zijn internationale Exynos-vorm ondersteunt eSIM na One UI 3.1; de Amerikaanse Snapdragon-versie en de Note 10/Note 9 niet.
 
-## Galaxy S-serie: eSIM en dubbele SIM in één oogopslag
+## Galaxy S-serie eSIM en dual SIM
 
-De S-serie tabel hierboven vertelt je *of* een telefoon eSIM heeft. Deze voegt de tweede vraag toe die mensen eigenlijk stellen: **kan hij twee lijnen tegelijk draaien?** "Dubbele SIM" op Samsung betekent twee van de volgende drie dingen, afhankelijk van het model.
+De S-serietabel hierboven vertelt je *of* een telefoon eSIM heeft. Deze voegt de tweede vraag toe die mensen werkelijk stellen: **kan hij twee lijnen tegelijk draaien?** "Dual SIM" op Samsung betekent twee van de volgende drie dingen, afhankelijk van het model.
 
 | Generatie | eSIM | eSIM + fysieke SIM (DSDS) | Twee eSIM's tegelijk |
 |-----------|------|---------------------------|-------------------|
 | Galaxy S25 / S25+ / S25 Ultra | ✅ | ✅ | ✅ |
 | Galaxy S24 / S24+ / S24 Ultra / S24 FE | ✅ | ✅ | ✅ |
 | Galaxy S23 / S23+ / S23 Ultra / S23 FE | ✅ | ✅ | ✅ (S23 en later) |
-| Galaxy S22 / S22+ / S22 Ultra | ✅ | ✅ | ❌ alleen eSIM + één fysieke |
-| Galaxy S21 / S21+ / S21 Ultra / S21 FE | ✅ | ✅ | ❌ alleen eSIM + één fysieke |
-| Galaxy S20 (Exynos, globaal) | ✅ | ✅ | ❌ |
+| Galaxy S22 / S22+ / S22 Ultra | ✅ | ✅ | ❌ eSIM + één fysiek only |
+| Galaxy S21 / S21+ / S21 Ultra / S21 FE | ✅ | ✅ | ❌ eSIM + één fysiek only |
+| Galaxy S20 (Exynos, wereldwijd) | ✅ | ✅ | ❌ |
 | Galaxy S20 (VS Snapdragon) | ❌ | ❌ | ❌ |
 | Galaxy S20 FE | ❌ | ❌ | ❌ |
 | Galaxy Note 20 Ultra (Exynos) | ✅ | ✅ | ❌ |
 | Galaxy Note 20 Ultra (VS) | ❌ | ❌ | ❌ |
 
-De praktische uitkomst: op een S21 of S22 kun je je fysieke thuis-SIM behouden en één reis-eSIM toevoegen. Vanaf de S23 kun je verder gaan — twee eSIM's en helemaal geen fysieke SIM, wat handig is als je thuisprovider al eSIM-only is.
+Het praktische gevolg: op een S21 of S22 kun je je fysieke thuis-SIM houden en één reis-eSIM toevoegen. Vanaf de S23 kun je verder gaan — twee eSIM's en helemaal geen fysieke SIM, handig als je thuisprovider al volledig digitaal is.
 
-## Galaxy A-serie: De volledige eSIM-lijst
+## Galaxy A-serie eSIM-lijst
 
-Samsung's A-serie is zijn bestverkochte lijn, dus het is de lijn waar we het meest naar gevraagd worden. Hier is de volledige uiteenzetting, nieuwste naar oudste, zodat je kunt stoppen met gissen:
+De A-serie van Samsung is de bestverkochte, dus het is de lijn waar we het meest over gevraagd worden. Hier is de volledige opsomming, van nieuw naar oud, zodat je kunt stoppen met gokken:
 
 | Model | eSIM | Opmerkingen |
 |-------|------|-------|
-| Galaxy A56 / A36 (2025) | ✅ Ja | Nieuwere A-serie modellen met eSIM |
-| Galaxy A55 (2024) | ✅ Ja | Internationale eenheden |
-| Galaxy A54 (2023) | ✅ Ja | Internationale eenheden |
-| Galaxy A35 (2024) | ✅ Ja | Internationale eenheden |
+| Galaxy A56 / A36 (2025) | ✅ Ja | Nieuwere A-serie-modellen met eSIM |
+| Galaxy A55 (2024) | ✅ Ja | Internationale toestellen |
+| Galaxy A54 (2023) | ✅ Ja | Internationale toestellen |
+| Galaxy A35 (2024) | ✅ Ja | Internationale toestellen |
 | Galaxy A34 (2023) | ❌ Nee | Geen eSIM-hardware |
 | Galaxy A53 / A52 / A52s | ❌ Nee | Geen eSIM-hardware |
 | Galaxy A33 / A32 | ❌ Nee | Geen eSIM-hardware |
@@ -327,53 +258,53 @@ Samsung's A-serie is zijn bestverkochte lijn, dus het is de lijn waar we het mee
 | Galaxy A73 / A72 / A71 | ❌ Nee | Geen eSIM-hardware |
 | Galaxy A14 / A13 / A12 | ❌ Nee | Geen eSIM-hardware |
 
-Twee dingen om te onthouden. Ten eerste, **5G betekent niet eSIM** — de A15 5G, A16 5G en A25 zijn 5G-telefoons zonder eSIM. Ten tweede, zelfs de A-serie modellen die *wel* eSIM hebben, hebben het alleen op **internationale** eenheden; de VS-varianten van de A54 en A55 kunnen vergrendeld zijn. Bel altijd `*#06#` voordat je koopt.
+Twee dingen om te onthouden. Ten eerste, **5G betekent geen eSIM** — de A15 5G, A16 5G en A25 zijn 5G-telefoons zonder ingebouwde SIM. Ten tweede ondersteunen zelfs de A-serie-modellen die het *wel* hebben het alleen op **internationale** toestellen; de Amerikaanse varianten van de A54 en A55 kunnen worden afgesloten. Toets altijd `*#06#` in voordat je koopt.
 
-## Galaxy Z Fold en Flip: eSIM in één oogopslag
+## Galaxy Z Fold en Flip eSIM
 
-Samsung's foldables zijn de meest betrouwbaar eSIM-capabele niet-S-telefoons. Hier is het volledige beeld:
+De vouwtelefoons van Samsung zijn de meest betrouwbaar eSIM-capabele niet-S-telefoons. Hier is het volledige beeld:
 
-| Model | eSIM | Dubbele SIM |
+| Model | eSIM | Dual SIM |
 |-------|------|----------|
-| Z Fold7 / Z Flip7 (2025) | ✅ | ✅ Dubbele eSIM |
-| Z Fold6 / Z Flip6 (2024) | ✅ | ✅ Dubbele eSIM |
-| Z Fold5 / Z Flip5 (2023) | ✅ | ✅ Dubbele eSIM |
-| Z Fold4 / Z Flip4 (2022) | ✅ | ✅ eSIM + fysieke |
-| Z Fold3 / Z Flip3 (2021) | ✅ | ✅ eSIM + fysieke |
-| Z Fold2 (2020) | ✅ | ✅ eSIM + fysieke |
-| Originele Fold (2019) / eerste gen Z Flip | ⚠️ | Onbetrouwbaar — reken er niet op |
+| Z Fold7 / Z Flip7 (2025) | ✅ | ✅ Dual eSIM |
+| Z Fold6 / Z Flip6 (2024) | ✅ | ✅ Dual eSIM |
+| Z Fold5 / Z Flip5 (2023) | ✅ | ✅ Dual eSIM |
+| Z Fold4 / Z Flip4 (2022) | ✅ | ✅ eSIM + fysiek |
+| Z Fold3 / Z Flip3 (2021) | ✅ | ✅ eSIM + fysiek |
+| Z Fold2 (2020) | ✅ | ✅ eSIM + fysiek |
+| Originele Fold (2019) / eerste generatie Z Flip | ⚠️ | Onbetrouwbaar — vertrouw er niet op |
 
-Internationale en VS-ontgrendelde foldables zijn betrouwbaar; de grootste valkuil is **provider-locked** VS-modellen, waar AT&T met name bekend staat om het verwijderen of verbergen van het eSIM-menu. Als je een gebruikte Fold of Flip koopt voor reizen, is factory-unlocked de veilige keuze.
+Internationale en VS-ontgrendelde vouwtelefoons zijn betrouwbaar; de belangrijkste valkuil zijn **gecarrierevergrendelde** Amerikaanse modellen, waar AT&T in het bijzonder bekend staat om het eSIM-menu te verwijderen of verbergen. Als je een tweedehands Fold of Flip voor reizen koopt, is fabrieksontgrendeld de veilige keuze.
 
-## Exynos vs Snapdragon: Het volledige verhaal
+## Exynos versus Snapdragon eSIM-ondersteuning
 
-Als je hebt gelezen dat "alleen Exynos Samsung-telefoons eSIM ondersteunen", is dat half waar — en alleen voor telefoons uit 2020. Hier is de volledige geschiedenis:
+Als je hebt gelezen dat "alleen Exynos Samsung-telefoons eSIM ondersteunen," dat is half waar — en alleen voor telefoons uit 2020. Hier is de complete geschiedenis:
 
-- **Galaxy S20 en Note 20 Ultra (2020):** de enige generatie waar de chipset beslist. Internationale Exynos-modellen kregen eSIM via de One UI 3.1 (Android 11)-update; Amerikaanse Snapdragon-modellen nooit, en er is geen oplossing — de hardware is aanwezig maar Samsung heeft het in firmware uitgeschakeld.
-- **Galaxy S21 en S22 (2021–2022):** beide chipsets ondersteunen eSIM. De VS gebruikte Snapdragon, Europa gebruikte Exynos, en beide werken prima.
-- **Galaxy S23 (2023):** Samsung verplaatste de hele S23-lijn wereldwijd naar Snapdragon — elke S23 heeft eSIM, geen Exynos-variant om je zorgen over te maken.
-- **Galaxy S24 (2024):** de splitsing keerde terug — Exynos 2400 in Europa voor de S24 en S24+, Snapdragon in de VS en op de S24 Ultra — en opnieuw ondersteunen beide eSIM.
-- **Galaxy S25 (2025):** allemaal Snapdragon 8 Elite wereldwijd, allemaal met eSIM.
+- **Galaxy S20 en Note 20 Ultra (2020):** de ene generatie waarin de chipset beslist. Internationale Exynos-modellen kregen eSIM via de One UI 3.1-update (Android 11); Amerikaanse Snapdragon-modellen nooit, en er is geen oplossing — de hardware is aanwezig maar Samsung schakelde het uit in de firmware.
+- **Galaxy S21 en S22 (2021–2022):** beide chipsets ondersteunen eSIM. De VS gebruikte Snapdragon, Europa Exynos, en beide werken prima.
+- **Galaxy S23 (2023):** Samsung verplaatste de hele S23-lijn naar Snapdragon wereldwijd — elke S23 heeft eSIM, er bestaat geen Exynos-variant om je zorgen over te maken.
+- **Galaxy S24 (2024):** de splitsing keerde terug — Exynos 2400 in Europa voor de S24 en S24+, Snapdragon in de VS en op de S24 Ultra — en wederom ondersteunen beide eSIM.
+- **Galaxy S25 (2025):** overal Snapdragon 8 Elite, allemaal met eSIM.
 
-**De vuistregel:** de chipset maakt alleen uit voor de S20 en Note 20 Ultra. Voor alles nieuwer, negeer het Exynos-vs-Snapdragon-debat volledig en kijk naar het modelnummer-suffix en de CSC-code.
+**De vuistregel:** de chipset telt alleen voor de S20 en Note 20 Ultra. Voor alles wat nieuwer is, negeer het Exynos-versus-Snapdragon-debat volledig en kijk in plaats daarvan naar het modelnummerachtervoegsel en de CSC-code.
 
-## CSC-codes uitgelegd: Wat ze zijn en hoe je de jouwe vindt
+## CSC-codes uitgelegd
 
-### Wat een CSC eigenlijk is
+### Wat een CSC werkelijk is
 
-De CSC (Customer Service Code) is een drieletterige tag ingebakken in Samsung's firmware die de telefoon vertelt voor welke regio en provider hij is gebouwd. Het regelt meer dan eSIM — het bepaalt ook welke banden zijn ingeschakeld, welke bloatware vooraf is geïnstalleerd en welke providerfuncties verschijnen. Voor eSIM is de CSC de schakelaar die het "eSIM toevoegen"-menu verbergt of toont.
+De CSC (Customer Service Code) is een driecijferige code die in Samsung's firmware is gebakken en de telefoon vertelt voor welke regio en provider hij is gebouwd. Het beheerst meer dan eSIM — het bepaalt ook welke banden zijn ingeschakeld, welke bloatware vooraf is geladen en welke providerfuncties verschijnen. Voor eSIM is de CSC de schakelaar die het "eSIM toevoegen"-menu verbergt of toont.
 
-### Hoe je je CSC vindt (twee manieren)
+### Zo vind je je CSC
 
-1. **Via Instellingen:** open **Instellingen > Over telefoon > Software-informatie** en kijk naar de regel **Service Provider SW Ver**. Deze luidt meestal iets als `XAA/XAA/XAA` — de laatste drie letters zijn je CSC.
-2. **Via het toetsenblok:** typ `*#1234#` en lees de "CSC"-regel (dit toont de firmwarebuild in plaats van de actieve regio, maar het is een nuttige kruiscontrole).
+1. **Via Instellingen:** open **Instellingen > Over de telefoon > Software-informatie** en kijk naar de regel **Service Provider SW Ver**. Hij leest doorgaans zoiets als `XAA/XAA/XAA` — de laatste drie letters zijn je CSC.
+2. **Via de beltoetsen:** typ `*#1234#` en lees de regel "CSC" (dit toont de firmware-build in plaats van de actieve regio, maar het is een nuttige dubbele controle).
 
 ### Veelvoorkomende CSC's en wat ze betekenen voor eSIM
 
 | Regio | Veelvoorkomende CSC-codes | eSIM |
 |--------|------------------|------|
 | VS (ontgrendeld) | XAA, XAR | ✅ Ja (S21+) |
-| VS (provider) | TMB (T-Mobile), VZW (Verizon), ATT (AT&T), SPR (Sprint), TMK (Metro) | ⚠️ T-Mobile/Verizon ja op S21+; AT&T het meest restrictief |
+| VS (provider) | TMB (T-Mobile), VZW (Verizon), ATT (AT&T), SPR (Sprint), TMK (Metro) | ⚠️ T-Mobile/Verizon ja op S21+; AT&T het meest beperkend |
 | VK | BTU (ontgrendeld), EVR (EE), O2U (O2), VOD (Vodafone), H3G (Three) | ✅ Ja |
 | Europa | EUX, EUY, DBT (Duitsland), ITV (Italië), XEF (Frankrijk), PHE (Spanje), NEE (Noordse landen) | ✅ Ja |
 | India | INS, INU | ✅ Ja |
@@ -382,67 +313,67 @@ De CSC (Customer Service Code) is een drieletterige tag ingebakken in Samsung's 
 | Japan | DCM (Docomo), SBM (SoftBank), KDI (au) | ❌ Vaak uitgeschakeld |
 | Australië / Singapore / Taiwan | XSA, XSP, BRI | ✅ Ja |
 
-Een waarschuwing: er is geen veilige, ondersteunde manier om je CSC te wijzigen om eSIM te "ontgrendelen" op een China- of VS-provider model. De gidsen die je vertellen een andere CSC te flashen riskeren Samsung's Knox-beveiliging te triggeren en kunnen de telefoon brick maken. Als je CSC geen eSIM ondersteunt, is een fysieke SIM de realistische fallback.
+Een waarschuwing: er is geen veilige, ondersteunde manier om je CSC te wijzigen om eSIM te "ontgrendelen" op een China- of Amerikaans providermodel. De gidsen die je vertellen een andere CSC te flashen riskeren het activeren van Samsung's Knox-beveiliging en kunnen de telefoon bricken. Als je CSC geen eSIM ondersteunt, is een fysieke SIM de realistische fallback.
 
-## Dubbele SIM op Samsung (korte versie)
+## Dual SIM op Samsung
 
-De meeste eSIM-capabele Galaxies draaien **DSDS (Dual SIM Dual Standby)** — één fysieke nano-SIM plus één eSIM tegelijk, met jouw keuze welke lijn oproepen, sms en data verwerkt. Nieuwere modellen (S23 en later) ondersteunen ook dubbele eSIM. De volledige installatie-uitleg staat op de **[dual-SIM uitleg](/faq/iphone-11-esim-compatible/)** — het principe is identiek op alle platforms. Twijfel je tussen eSIM en een fysieke SIM? Zie onze **[eSIM vs fysieke SIM vergelijking](/faq/what-is-esim/)**.
+De meeste eSIM-capabele Galaxy's draaien **DSDS (Dual SIM Dual Standby)** — één fysieke nano-SIM plus één eSIM tegelijk, met jouw keuze welke lijn oproepen, berichten en data afhandelt. Nieuwere modellen (S23 en later) ondersteunen ook dual eSIM. De volledige installatiewalkthrough staat in de **[dual-SIM-uitlegger](/faq/iphone-11-esim-compatible/)** — het principe is identiek op alle platforms. Twijfel je tussen ingebouwd en fysiek? Zie onze **[eSIM versus fysieke SIM-vergelijking](/faq/what-is-esim/)**.
 
-### eSIM + fysieke vs dubbele eSIM: welke Samsung doet wat
+### eSIM plus fysiek versus dual eSIM op Samsung
 
-- **eSIM + één fysieke SIM (DSDS):** elke eSIM-capabele Galaxy vanaf de S20. Dit is de sweet spot voor reizigers — behoud je thuisnummer op de fysieke SIM en voeg een reis-eSIM toe voor data.
-- **Twee eSIM's tegelijk (dubbele eSIM):** de S23 en nieuwer, plus de Fold5/Flip5 en later. Helemaal geen fysieke kaart nodig.
-- **Eén telefoonnummer per lijn:** Samsung laat je niet één nummer naar twee SIM's klonen. Elke lijn heeft zijn eigen nummer nodig.
+- **eSIM + één fysieke SIM (DSDS):** elke eSIM-capabele Galaxy vanaf de S20. Dit is de zoete plek voor reizigers — houd je thuisnummer op de fysieke SIM en voeg een reis-eSIM toe voor data.
+- **Twee eSIM's tegelijk (dual eSIM):** de S23 en nieuwer, plus de Fold5/Flip5 en later. Helemaal geen fysieke kaart nodig.
+- **Eén telefoonnummer per lijn:** Samsung staat niet toe dat je één nummer kloont op twee SIM's. Elke lijn heeft zijn eigen nummer nodig.
 
-Om te kiezen welke SIM data, oproepen en sms verwerkt, open **Instellingen > Verbindingen > SIM-kaartbeheer** en stel de "Primaire SIM" in voor elke functie.
+Om te kiezen welke SIM data, oproepen en berichten afhandelt, open **Instellingen > Verbindingen > SIM-kaartbeheer** en stel de "Primaire SIM" voor elke functie in.
 
 ## eSIM activeren op je Samsung
 
-Nadat je ondersteuning hebt bevestigd, open **Instellingen > Verbindingen > SIM-kaartbeheer > eSIM toevoegen**, scan de QR-code van je provider en schakel Dataroaming in wanneer je reist. Het menupad is hetzelfde op recente One UI-versies:
+Nadat je de ondersteuning hebt bevestigd, open **Instellingen > Verbindingen > SIM-kaartbeheer > eSIM toevoegen**, scan de QR code van je provider en zet Dataroaming aan wanneer je reist. Het menupad is hetzelfde over recente One UI-versies:
 
 | One UI-versie | Pad naar "eSIM toevoegen" |
 |----------------|-------------------|
 | **One UI 6.0+ (Android 14+)** | Instellingen > Verbindingen > SIM-kaartbeheer > eSIM toevoegen |
 | **One UI 5.0–5.1 (Android 13)** | Instellingen > Verbindingen > SIM-kaartbeheer > eSIM toevoegen |
-| **One UI 4.0–4.1 (Android 12)** | Instellingen > Verbindingen > SIM-kaartbeheer > eSIM toevoegen (kan onder "Mobiele netwerken" staan) |
+| **One UI 4.0–4.1 (Android 12)** | Instellingen > Verbindingen > SIM-kaartbeheer > eSIM toevoegen (mogelijk onder "Mobiele netwerken") |
 | **One UI 3.1 (Android 11)** | Instellingen > Verbindingen > SIM-kaartbeheer > eSIM toevoegen (alleen S20 internationaal) |
 
-Voor de volledige stap-voor-stap (QR, handmatige invoer en de provider-app), zie onze **[gids voor het activeren van een eSIM](/faq/how-to-activate-an-esim/)**.
+Voor de complete stapsgewijze handleiding (QR, handmatige invoer en de provider-app), zie onze **[gids voor het activeren van een eSIM](/faq/how-to-activate-an-esim/)**.
 
-**Pro-tip:** installeer je eSIM op stabiele Wi-Fi voordat je thuis vertrekt — het profiel blijft inactief tot je Dataroaming inschakelt bij aankomst.
+**Protip:** installeer je eSIM op stabiel Wi-Fi voordat je huis verlaat — het profiel blijft inactief totdat je Dataroaming aanzet bij aankomst.
 
 **Later van telefoon wisselen?** De meeste reis-eSIM's zijn eenmalige installaties — zie onze **[gids voor het overzetten van een eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
-## Hoe je een eSIM activeert op je Samsung: Stap voor stap
+### Samsung eSIM-activering van aankoop tot eerste signaal
 
-Hier is de Samsung-specifieke flow, van het kopen van het abonnement tot het eerste signaal:
+Hier is het Samsung-specifieke proces, stap voor stap:
 
-1. **Bevestig eerst ondersteuning.** Bel `*#06#` en zoek naar een 32-cijferige EID. Geen EID = stop hier; je telefoon kan geen eSIM.
-2. **Koop je abonnement en vind de QR-code.** Begin met een **[gratis Roami eSIM-proefperiode](/free-esim/)** zodat het niets kost om te testen. Je provider e-mailt je een QR-code (en meestal een SM-DP+-adres plus activeringscode voor handmatige invoer).
-3. **Verbind met Wi-Fi.** Het eSIM-profiel wordt via internet gedownload, dus doe dit voordat je thuis vertrekt of op hotel-Wi-Fi — niet in het vliegtuig.
+1. **Bevestig eerst de ondersteuning.** Toets `*#06#` in en zoek naar een EID van 32 cijfers. Geen EID = stop hier; je telefoon kan geen eSIM.
+2. **Koop je abonnement en vind de QR code.** Begin met een **[gratis Roami eSIM-proefversie](/free-esim/)** zodat testen niets kost. Je provider e-mailt je een QR code (en meestal een SM-DP+-adres plus activeringscode voor handmatige invoer).
+3. **Verbind met Wi-Fi.** Het eSIM-profiel wordt via internet gedownload, dus doe dit vóórdat je huis verlaat of op hotel-Wi-Fi — niet in het vliegtuig.
 4. **Open het menu.** Ga naar **Instellingen > Verbindingen > SIM-kaartbeheer > eSIM toevoegen**.
-5. **Scan de QR-code.** Richt de camera op de code. Als scannen mislukt, kies "Gegevens handmatig invoeren" en typ het SM-DP+-adres en de activeringscode uit de e-mail.
-6. **Label en stel het abonnement in.** Noem het iets als "Roami Europa", bevestig dan welke SIM data verwerkt. Stel je **primaire SIM** in voor oproepen/sms naar je thuislijn als je die wilt blijven ontvangen.
-7. **Schakel Dataroaming in** voor de reislijn onder **SIM-kaartbeheer > [je eSIM] > Dataroaming** — dit is de stap die de meeste mensen vergeten, en het is waarom "geen signaal" optreedt bij aankomst.
-8. **Test het.** Schakel Vliegtuigmodus aan en uit en open dan een browser. De meeste Samsung-telefoons verbinden binnen 1–3 minuten.
+5. **Scan de QR code.** Richt de camera op de code. Als het scannen mislukt, kies "Details handmatig invoeren" en typ het SM-DP+-adres en de activeringscode uit de e-mail.
+6. **Geef een label en stel het abonnement in.** Noem het bijvoorbeeld "Roami Europa" en bevestig welke SIM de data afhandelt. Stel je **primaire SIM** voor oproepen/berichten in op je thuislijn als je die wilt blijven ontvangen.
+7. **Zet Dataroaming aan** voor de reislijn onder **SIM-kaartbeheer > [jouw eSIM] > Dataroaming** — dit is de stap die de meeste mensen vergeten, en daarom gebeurt "geen signaal" bij aankomst.
+8. **Test het.** Zet de Vliegtuigmodus aan en uit en open een browser. De meeste Samsung-telefoons verbinden binnen 1–3 minuten.
 
-Als de knop "eSIM toevoegen" ontbreekt of grijs is, ga naar de probleemoplossingstabel hieronder.
+Als de knop "eSIM toevoegen" ontbreekt of grijs is, spring naar de tabel voor probleemoplossing hieronder.
 
 ## 5G en eSIM op Samsung
 
-Vanaf de S21 ondersteunt elke Galaxy (en de internationale Exynos S20) 5G op eSIM, zonder prestatieverschil ten opzichte van een fysieke SIM. Als 5G niet verbindt, controleer of **Instellingen > Verbindingen > Mobiele netwerken > Netwerkmodus** is ingesteld op 5G/LTE/3G/2G auto, bevestig dat je abonnement 5G bevat (sommige reis-eSIM's zijn alleen LTE) en herstart. Onthoud: 5G betekent niet eSIM — de A15 5G en A16 5G hebben 5G maar geen eSIM.
+Vanaf de S21 ondersteunt elke Galaxy (en de internationale Exynos S20) 5G op eSIM, zonder prestatieverschil met een fysieke SIM. Als 5G geen verbinding maakt, controleer of **Instellingen > Verbindingen > Mobiele netwerken > Netwerkmodus** is ingesteld op 5G/LTE/3G/2G automatisch, bevestig dat je abonnement 5G bevat (sommige reis-eSIM's zijn LTE-only) en herstart. Onthoud: 5G betekent geen eSIM — de A15 5G en A16 5G bewijzen het.
 
-## Probleemoplossing eSIM op Samsung
+## Problemen oplossen met eSIM op Samsung
 
 | Probleem | Waarschijnlijke oorzaak | Oplossing |
 |---------|--------------|-----|
-| **Geen "eSIM toevoegen"-optie** | VS S20, providerlock of China-CSC | Controleer **Instellingen > Over telefoon > Status > SIM-lockstatus**; als het een VS S20 of China-model is, is er geen oplossing. |
-| **"Je provider ondersteunt deze functie niet"** | Provider-locked telefoon, VS S20 of China-CSC | Bevestig het modelnummer en de lockstatus zoals hierboven. |
-| **"eSIM toevoegen" is grijs** | Firmwarebeperking van provider (AT&T is de gebruikelijke boosdoener) | Neem contact op met je provider of koop een ontgrendelde telefoon. |
-| **Geen EID maar je weet zeker dat het model het ondersteunt** | Software-update of CSC-mismatch | Installeer updates en controleer dan de CSC-code opnieuw. |
-| **eSIM-profiel downloadt maar geen signaal** | Dataroaming uit of APN ontbreekt | Schakel Dataroaming in; controleer de APN bij je provider. |
+| **Geen "eSIM toevoegen"-optie** | VS S20, carrier lock of China CSC | Controleer **Instellingen > Over de telefoon > Status > SIM-vergrendelingsstatus**; bij een VS S20 of China-model is er geen oplossing. |
+| **"Je provider ondersteunt deze functie niet"** | Gecarrierevergrendelde telefoon, VS S20 of China CSC | Bevestig het modelnummer en de vergrendelingsstatus zoals hierboven. |
+| **"eSIM toevoegen" is grijs** | Carrier-firmwarebeperking (AT&T is de gebruikelijke boosdoener) | Neem contact op met je provider, of koop een ontgrendelde telefoon. |
+| **Geen EID maar je bent zeker dat het model het ondersteunt** | Software-update of CSC-verkeerde match | Installeer updates en controleer de CSC-code opnieuw. |
+| **eSIM-profiel gedownload maar geen signaal** | Dataroaming uit of APN ontbreekt | Zet Dataroaming aan; controleer de APN met je provider. |
 
-Voor de volledige fout-per-fout referentie (inclusief de complete APN-tabel), zie de **[eSIM Diepgaande Probleemoplossingsgids 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
+Voor de volledige naslag per fout (inclusief de complete APN-tabel), zie de **[eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ## Veelgestelde vragen over Samsung eSIM
 
@@ -456,18 +387,18 @@ Ja, wereldwijd, inclusief Amerikaanse providerversies.
 Ja — de hele S23-serie heeft volledige eSIM-ondersteuning.
 
 **Ondersteunt de Galaxy S24 Ultra eSIM?**
-Ja — bel `*#06#` om de EID te zien.
+Ja — toets `*#06#` in om zijn EID te zien.
 
 **Ondersteunt de Galaxy S20 FE eSIM?**
-Nee. In tegenstelling tot de rest van de S20-familie heeft de S20 FE geen eSIM-hardware in welke regio dan ook.
+Nee. In tegenstelling tot de rest van de S20-familie heeft de S20 FE in geen enkele regio eSIM-hardware.
 
-**Ondersteunt de Galaxy A15 / A16 / A32 eSIM?**
-Nee. Deze modellen missen eSIM-hardware en zijn alleen fysieke SIM — zelfs de 5G-versies.
+**Ondersteunen de Galaxy A15 / A16 / A32 eSIM?**
+Nee. Deze modellen missen eSIM-hardware en zijn fysiek-SIM-only — zelfs de 5G-versies.
 
-**Ondersteunt de Galaxy A35 / A54 eSIM?**
-Ja. De A35 en A54 behoren tot de weinige A-serie modellen met eSIM (op internationale eenheden).
+**Ondersteunen de Galaxy A35 / A54 eSIM?**
+Ja. De A35 en A54 behoren tot de weinige A-serie-modellen met eSIM (op internationale toestellen).
 
-**Ondersteunen Galaxy Z Fold- of Z Flip-toestellen eSIM?**
+**Ondersteunen Galaxy Z Fold- of Z Flip-apparaten eSIM?**
 Ja voor de meeste modellen vanaf de Z Fold2 en Z Flip3 — bevestig met `*#06#`.
 
 **Ondersteunt de Note 20 Ultra eSIM?**
@@ -476,40 +407,42 @@ Alleen de internationale Exynos-versie; Amerikaanse Snapdragon-modellen niet.
 **Welke Samsung-telefoons zijn zeker eSIM-compatibel?**
 Alle S21/S22/S23/S24/S25-modellen (inclusief FE en Ultra), de internationale Exynos S20, de A54/A55/A35, de Z Fold2+/Flip3+ en de internationale Note 20 Ultra.
 
-**Hoe controleer ik of mijn Samsung provider-locked is?**
-**Instellingen > Over telefoon > Status > SIM-lockstatus** — "Netwerk vergrendeld" betekent provider-locked; vraag een unlock aan bij je provider.
+**Hoe controleer ik of mijn Samsung gecarrierevergrendeld is?**
+**Instellingen > Over de telefoon > Status > SIM-vergrendelingsstatus** — "Netwerk vergrendeld" betekent gecarrierevergrendeld; vraag een ontgrendeling aan bij je provider.
 
-**Wat betekent "eSIM niet ondersteund in jouw land"?**
-Je CSC (regiocode) ondersteunt geen eSIM — komt veel voor bij China- en VS-provider modellen. Er is geen gemakkelijke oplossing.
+**Wat betekent "eSIM wordt niet ondersteund in je land"?**
+Je CSC (regiocode) ondersteunt geen eSIM — gebruikelijk op China- en Amerikaanse providermodellen. Er is geen eenvoudige oplossing.
 
 **Kan ik een eSIM en een fysieke SIM tegelijk gebruiken?**
-Ja, op elke eSIM-capabele Galaxy (DSDS). Behoud je thuisnummer op de fysieke SIM en gebruik de eSIM voor reisdata.
+Ja, op elke eSIM-capabele Galaxy (DSDS). Houd je thuisnummer op de fysieke SIM en gebruik de eSIM voor reisdata.
 
 **Kan ik twee eSIM's tegelijk gebruiken op mijn Samsung?**
-Ja, op de S23 en nieuwer en de Fold5/Flip5 en later. Oudere modellen zijn alleen eSIM + één fysieke SIM.
+Ja, op de S23 en nieuwer en de Fold5/Flip5 en later. Oudere modellen zijn eSIM + één fysieke SIM only.
 
 **Hoeveel eSIM-profielen kan ik opslaan?**
-De meeste Samsung-telefoons kunnen meerdere eSIM-profielen opslaan (vaak 5 of meer), maar slechts één of twee kunnen tegelijk actief zijn, afhankelijk van het model.
+De meeste Samsung-telefoons kunnen meerdere eSIM-profielen opslaan (vaak 5 of meer), maar er kan er maar één of twee tegelijk actief zijn, afhankelijk van het model.
 
-**Waarom toont mijn S20 eSIM in instellingen maar is het grijs?**
-Je hebt bijna zeker een VS Snapdragon S20. Samsung heeft eSIM op die modellen in firmware uitgeschakeld, en geen update of instelling schakelt het weer in.
+**Waarom toont mijn S20 eSIM in de instellingen maar is het grijs?**
+Je hebt vrijwel zeker een Amerikaanse Snapdragon S20. Samsung schakelde eSIM op die modellen uit in de firmware, en geen enkele update of instelling schakelt het weer in.
 
 **Kan ik mijn CSC wijzigen om eSIM in te schakelen?**
-Niet veilig. CSC wijzigen vereist firmware flashen, wat Knox triggert en de telefoon kan brick maken. Als je CSC geen eSIM ondersteunt, gebruik een fysieke SIM.
+Niet veilig. Het wijzigen van de CSC vereist het flashen van firmware, wat Knox activeert en de telefoon kan bricken. Als je CSC geen eSIM ondersteunt, gebruik dan een fysieke SIM.
 
-👉 **Plan je te reizen met je Samsung?** Zie [eSIM voor de VS](/united-states-esim/) of [eSIM voor Japan](/japan-esim/).
+👉 **Plannen om met je Samsung te reizen?** Zie [eSIM voor de VS](/united-states-esim/) of [eSIM voor Japan](/japan-esim/).
 
 ## Test met een gratis eSIM
 
-Als je Samsung een EID toont na het bellen van `*#06#`, probeer een **gratis proef-eSIM** om te bevestigen dat alles werkt voordat je een betaald abonnement koopt.
+Als je Samsung een EID toont na het intoetsen van `*#06#`, probeer dan een **gratis proef-eSIM** om alles te bevestigen voordat je een betaald abonnement koopt.
 
 👉 [**Claim je gratis eSIM**](/free-esim/)
 
 ---
 
-*Gebaseerd op Samsung officiële documentatie, GSMA-standaarden en providerinformatie. Bijgewerkt: augustus 2026.*
+*Gebaseerd op officiële Samsung-documentatie, GSMA-standaarden en providerinformatie. Bijgewerkt: september 2026.*
 
 ## Bronnen
 
 - [GSMA — eSIM (SGP.22)-specificatie](https://www.gsma.com/esim/)
 - [Samsung Support — eSIM](https://www.samsung.com/us/support/)
+- [Apple Support — Stel eSIM in op iPhone](https://support.apple.com/en-us/HT212780)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

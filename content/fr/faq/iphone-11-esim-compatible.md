@@ -1,18 +1,20 @@
 ---
-title: "iPhone 11 compatible eSIM ? Guide complet 2026"
-h1_title: "L'iPhone 11 est-il compatible avec l'eSIM ? Guide complet 2026"
-description: "iPhone 11 compatible eSIM ? Vérifiez votre EID (*#06#), activez en 60s. Double SIM nano-SIM + eSIM sur 11/Pro/Pro Max. Compatible Orange, SFR, Bouygues, Free et eSIM de voyage."
-keywords: ["iphone 11 esim compatible", "iphone 11 esim support", "esim iphone 11", "activer esim iphone 11", "iphone 11 double sim", "iphone esim compatible", "esim capable iphones", "iphone 11 pro esim"]
+title: "iPhone eSIM : Guide complet de compatibilité et de configuration"
+h1_title: "Le guide complet de la compatibilité et de la configuration eSIM sur iPhone"
+description: "Vérifiez la compatibilité eSIM de l'iPhone (méthode EID) et les étapes de configuration. Couvre le double SIM, les fonctionnalités iPhone 13+ et les différences entre les modèles chinois et américains. Inclut des tableaux."
+image: "/img/faq/iphone-11-esim.webp"
+image-1: "/img/faq/iphone-11-esim-1.jpg"
+keywords: ["iphone esim", "esim iphone", "quels iphone supportent esim", "iphone esim compatible", "iphone 11 a-t-il esim", "iphone esim uniquement", "iphone double esim", "premier iphone avec esim", "iphone avec esim", "configuration iphone esim", "iphone 16e esim", "iphone 17 esim", "comment transférer esim vers nouveau iphone"]
+date: 2026-09-11T00:00:00Z
+lastmod: 2026-09-11T00:00:00Z
+tags: ["iPhone", "eSIM", "Double SIM", "Activation", "Compatibilité"]
 toc: true
-date: 2026-08-11T10:00:00Z
-lastmod: 2026-08-11T10:00:00Z
 
-# Configuration hardcodée du site & SEO
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# Traduction du texte d'interface (supporte le multilinguisme)
 ui_text:
   updated_on: "Mis à jour le"
   min_read: "min de lecture"
@@ -26,50 +28,49 @@ breadcrumbs:
     text: "Compatibilité eSIM"
     url: "/compatibility/"
 
-# Barre latérale droite : eSIM populaires (6 pays, 1,99 USD)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIM populaires"
   item_suffix: "eSIM"
   items:
-    - name: "USA eSIM"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Allemagne"
+    - name: "eSIM Allemagne"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europe"
+    - name: "eSIM Europe"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turquie"
+    - name: "eSIM Turquie"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japon"
+    - name: "eSIM Japon"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Chine"
+    - name: "eSIM Chine"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Barre latérale droite : eSIM gratuites (4 pays)
 sidebar_free:
-  title: "Obtenez une eSIM gratuite"
+  title: "Obtenez un eSIM gratuit"
   icon: "🎁"
-  item_suffix: "eSIM gratuite"
-  item_subtitle: "eSIM gratuite"
+  item_suffix: "eSIM gratuit"
+  item_subtitle: "eSIM gratuit"
   items:
-    - name: "Royaume-Uni"
+    - name: "eSIM Royaume-Uni"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Allemagne"
@@ -82,311 +83,420 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Barre latérale droite : questions populaires (5 questions)
 sidebar_questions:
   title: "Questions populaires"
   items:
-    - question: "Qu'est-ce que l'activation eSIM et comment fonctionne-t-elle ?"
+    - question: "Qu'est-ce que l'activation eSIM et comment ça marche ?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Comment activer une eSIM ?"
+    - question: "Comment activer un eSIM ?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Comment activer l'eSIM sur iPhone (tous les modèles) ?"
+    - question: "Comment activer un eSIM sur iPhone (tous modèles) ?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Dernière liste de compatibilité eSIM"
       url: "/compatibility/"
----
-
-L'iPhone 11, sorti en 2019 avec la puce A13 Bionic, a marqué une étape importante dans la démocratisation de l'eSIM. Contrairement à son prédécesseur l'iPhone XR, l'iPhone 11 a bénéficié d'un support logiciel prolongé et d'une intégration eSIM améliorée. La réponse est claire : **oui, l'iPhone 11, l'iPhone 11 Pro et l'iPhone 11 Pro Max prennent tous en charge l'eSIM**, à l'exception des modèles vendus en Chine continentale. La technologie eSIM est régie par le [standard GSMA SGP.22](https://www.gsma.com/esim/), garantissant une compatibilité mondiale. La [documentation officielle d'Apple](https://support.apple.com/fr-fr/108072) confirme que tous les iPhone à partir du XS/XR supportent l'eSIM.
-
-Une liste complète des appareils compatibles est disponible dans notre **[liste de compatibilité eSIM](/compatibility/)**.
-
----
-
-## 📌 Résumé : iPhone 11 eSIM en bref
-
-Voici l'essentiel en 30 secondes :
-
-1. **Compatibilité confirmée** — tous les iPhone 11 (standard, Pro, Pro Max) supportent l'eSIM, sauf modèles Chine continentale.
-2. **Vérifiez avec `*#06#`** — si un EID de 32 chiffres apparaît, votre iPhone 11 est prêt pour l'eSIM.
-3. **Double SIM fonctionnelle** — vous pouvez utiliser une nano-SIM physique + une eSIM simultanément. L'iPhone 11 gère jusqu'à 8 profils eSIM stockés, un seul actif à la fois.
-4. **4G LTE uniquement** — l'iPhone 11 ne supporte pas la 5G, mais la 4G LTE reste excellente pour tous les usages courants en voyage.
-5. **Activation en 2 minutes** — scannez un QR code avant le départ, activez l'itinérance à l'arrivée.
-
----
-
-## Compatibilité eSIM de l'iPhone 11 — vue d'ensemble
-
-| Fonctionnalité | iPhone 11 | iPhone 11 Pro | iPhone 11 Pro Max |
-|---------------|-----------|---------------|-------------------|
-| **Support eSIM** | ✅ Oui | ✅ Oui | ✅ Oui |
-| **Double SIM** | nano-SIM + eSIM | nano-SIM + eSIM | nano-SIM + eSIM |
-| **Profils eSIM stockables** | Jusqu'à 8+ | Jusqu'à 8+ | Jusqu'à 8+ |
-| **Puce** | A13 Bionic | A13 Bionic | A13 Bionic |
-| **5G** | ❌ Non (4G LTE) | ❌ Non (4G LTE) | ❌ Non (4G LTE) |
-| **Bandes 4G LTE** | Jusqu'à 28 bandes | Jusqu'à 28 bandes | Jusqu'à 28 bandes |
-| **Version Chine continentale** | ❌ Pas d'eSIM | ❌ Pas d'eSIM | ❌ Pas d'eSIM |
-| **iOS minimum requis** | iOS 13.1+ (recommandé : iOS 18+) | iOS 13.1+ | iOS 13.1+ |
-| **Wi-Fi Calling (VoWiFi)** | ✅ Oui | ✅ Oui | ✅ Oui |
-| **Partage de connexion** | ✅ Oui | ✅ Oui | ✅ Oui |
-
-L'iPhone 11 a été lancé avec iOS 13, qui a apporté des améliorations significatives à la gestion de l'eSIM par rapport à iOS 12. Si votre iPhone 11 tourne encore sous une version ancienne d'iOS, mettez-le à jour vers iOS 18 ou iOS 19 pour bénéficier des dernières optimisations eSIM, notamment le transfert rapide et l'assistant de voyage.
-
----
-
-## iPhone 11 vs iPhone XR vs iPhone 12 : le match eSIM
-
-Beaucoup d'utilisateurs hésitent entre ces trois générations. Voici les différences clés pour l'eSIM :
-
-| Critère | [iPhone XR](/faq/iphone-xr-esim-compatible/) (2018) | iPhone 11 (2019) | iPhone 12 (2020) |
-|---------|-----------------|------------------|------------------|
-| **Support eSIM** | ✅ | ✅ | ✅ |
-| **Double eSIM actif** | ❌ (1 eSIM + 1 SIM) | ❌ (1 eSIM + 1 SIM) | ❌ (1 eSIM + 1 SIM) |
-| **Double eSIM simultané** | ❌ | ❌ | ❌ (à partir d'iPhone 13) |
-| **5G** | ❌ | ❌ | ✅ (5G NR) |
-| **Puce** | A12 Bionic | A13 Bionic | A14 Bionic |
-| **Bandes LTE supportées** | 26 bandes | 28 bandes | 30+ bandes |
-| **iOS actuel (2026)** | iOS 18 supporté | iOS 19 supporté | iOS 19 supporté |
-| **Performances eSIM** | Identiques | Identiques | Identiques |
-| **Rapport qualité-prix eSIM** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-
-**Verdict :** L'iPhone 11 représente un excellent compromis. Il bénéficie d'un support logiciel plus long que l'XR, de meilleures bandes LTE pour les voyages internationaux, et les fonctionnalités eSIM sont rigoureusement identiques à celles des modèles plus récents. Le seul compromis est l'absence de 5G — mais pour une eSIM de voyage, la 4G LTE reste amplement suffisante.
-
----
-
-## Comment vérifier que votre iPhone 11 est compatible eSIM ?
-
-Trois méthodes de vérification, de la plus rapide à la plus complète :
-
-### Méthode 1 : Le code EID (30 secondes, infaillible)
-
-1. Ouvrez l'application **Téléphone** (clavier).
-2. Composez `*#06#`.
-3. Résultat :
-   - ✅ Un **EID** de 32 chiffres apparaît → eSIM supportée.
-   - ❌ Seuls les numéros **IMEI** apparaissent → pas d'eSIM (probablement un modèle chinois).
-
-### Méthode 2 : Vérification dans les Réglages
-
-Allez dans **Réglages > Général > Informations**. Faites défiler jusqu'à la section **« SIM disponible »** ou **« SIM numérique »**. Si un numéro EID est affiché, votre iPhone 11 est prêt.
-
-### Méthode 3 : Test d'ajout de forfait
-
-Allez dans **Réglages > Données cellulaires > Ajouter eSIM**. Si l'option est disponible et active, votre iPhone 11 supporte l'eSIM. Si l'option est grisée ou absente, il s'agit probablement d'un modèle chinois ou verrouillé.
-
----
-
-## Activer l'eSIM sur iPhone 11 — guide étape par étape
-
-L'activation d'une eSIM sur iPhone 11 prend moins de 2 minutes. Pour un guide complet tous modèles, consultez notre **[guide d'activation eSIM sur iPhone](/faq/how-to-activate-esim-on-iphone/)**.
-
-1. **Achetez un forfait eSIM** — via un fournisseur de voyage (Roami, Airalo, Holafly, Nomad) ou votre opérateur français. Une **[eSIM d'essai gratuite](/free-esim/)** est disponible pour tester.
-2. **Ouvrez Réglages > Données cellulaires > Ajouter eSIM**.
-3. **Scannez le code QR** reçu par email. Alternative : appuyez sur « Saisir les détails manuellement » pour entrer l'adresse SM-DP+ et le code d'activation.
-4. **Nommez votre forfait** — choisissez un libellé distinctif (« Voyage USA », « Pro », « France Orange »).
-5. **Définissez les lignes par défaut** — quelle ligne pour les données, la voix et les SMS. Vous pouvez configurer « Utiliser la ligne principale pour les appels » et l'eSIM pour les données.
-6. **Activez l'itinérance des données** sur l'eSIM à l'arrivée (Réglages > Données cellulaires > sélectionnez l'eSIM > Itinérance des données).
-
-> **Important :** L'iPhone 11 nécessite une connexion Wi-Fi pour l'installation initiale du profil eSIM. Faites-le avant de quitter la maison — pas à l'aéroport.
-
-### Configurer l'APN sur iPhone 11
-
-Si les données mobiles ne fonctionnent pas après l'activation :
-
-1. Allez dans **Réglages > Données cellulaires > [votre eSIM] > Réseau de données cellulaires**.
-2. Saisissez l'APN fourni par votre opérateur eSIM.
-3. Redémarrez l'iPhone si nécessaire.
-
-**APN courants pour les eSIM de voyage :**
-- Airalo : `airalo` | Holafly : `holafly` | Nomad : `global`
-- Roami : `internet` (nom d'utilisateur/mot de passe : vide)
-
----
-
-## Quels opérateurs eSIM sont compatibles avec l'iPhone 11 ?
-
-Votre iPhone 11 est compatible avec tous les opérateurs proposant l'eSIM dans le monde :
-
-| Opérateur | Compatible ? | Remarques |
-|-----------|:-----------:|-----------|
-| **Orange / Sosh** | ✅ | Activation via application Orange et Moi |
-| **SFR / Red** | ✅ | Application SFR & Moi, eSIM gratuite pour nouveaux abonnés |
-| **Bouygues / B&YOU** | ✅ | Forfaits prépayés éligibles |
-| **Free Mobile** | ✅ | Gratuit pour abonnés Freebox |
-| **Airalo** | ✅ | Fonctionne parfaitement sur iPhone 11 |
-| **Holafly** | ✅ | Entièrement compatible |
-| **Nomad** | ✅ | Entièrement compatible |
-| **Roami** | ✅ | Multi-réseau avec commutation intelligente |
-| **Ubigi** | ✅ | Bon support 5G (non applicable sur iPhone 11) |
-| **T-Mobile (US)** | ✅ | Activation via application ou QR code |
-| **AT&T (US)** | ✅ | Forfaits prépayés et postpayés |
-| **Verizon (US)** | ✅ | Compatible avec l'iPhone 11 |
-| **EE (UK)** | ✅ | Meilleure couverture britannique |
-| **O2 (UK)** | ✅ | Excellente couverture indoor |
-| **Vodafone (UK)** | ✅ | Forfaits eSIM disponibles |
-| **NTT Docomo (JP)** | ✅ | QR code à l'arrivée ou en ligne |
-
----
-
-## Voyager avec un iPhone 11 et une eSIM
-
-L'iPhone 11 est un excellent compagnon de voyage pour les utilisateurs d'eSIM. Voici comment en tirer le meilleur parti :
-
-### Avant le départ
-- **Installez votre eSIM** de voyage à la maison, en Wi-Fi. Désactivez-la temporairement (Réglages > Données cellulaires > désactivez la ligne).
-- **Vérifiez le verrouillage opérateur** dans Réglages > Général > Informations. Il doit indiquer « Aucune restriction SIM ».
-- **Téléchargez les cartes hors ligne** Google Maps de votre destination — l'iPhone 11 n'a pas de 5G, mais la 4G LTE + cartes hors ligne est un combo gagnant.
-
-### À l'arrivée
-- **Activez l'eSIM** et l'itinérance des données.
-- **Basculez les données cellulaires** sur l'eSIM de voyage.
-- **Désactivez l'itinérance** de votre ligne française pour éviter les frais.
-
-### Astuce batterie
-L'iPhone 11 a une autonomie correcte (jusqu'à 17 heures de lecture vidéo). L'utilisation de l'eSIM ne consomme pas plus de batterie qu'une SIM physique — la différence est inférieure à 1 %. Pour maximiser l'autonomie en voyage, désactivez le Wi-Fi et le Bluetooth quand vous êtes en déplacement.
-
----
-
-## Cas concrets d'utilisation de l'iPhone 11 avec eSIM
-
-### Scénario 1 : Emma, étudiante à Barcelone (semestre Erasmus)
-
-Emma possède un iPhone 11 et part 5 mois à Barcelone. Sa configuration :
-- **Ligne 1 (eSIM Free) :** conservée pour recevoir les appels et SMS français. Configurée en mode « appels Wi-Fi » via les données de la ligne 2.
-- **Ligne 2 (eSIM Vodafone Espagne) :** 25 Go / mois pour 10 €. Utilisée pour toutes les données et les appels locaux.
-
-**Résultat :** Emma garde son numéro français sans frais de roaming, et dispose d'une ligne espagnole économique. Pas de jonglage avec des cartes SIM physiques.
-
-### Scénario 2 : Marc, photographe en road trip aux États-Unis
-
-Marc utilise un iPhone 11 Pro pour éditer et partager ses photos. Pendant son road trip de 2 semaines dans l'Ouest américain :
-- **eSIM USA multi-réseau** avec commutation intelligente (T-Mobile + AT&T + Verizon).
-- **20 Go / 30 jours** pour uploader ses photos.
-
-**Résultat :** connexion stable même dans les parcs nationaux, partage de connexion pour son iPad, économie de 200 € par rapport au roaming Orange.
-
----
-
-## Forfaits eSIM recommandés pour l'iPhone 11 en 2026
-
-L'iPhone 11 est compatible avec tous les forfaits eSIM. Voici une sélection par usage, avec des données vérifiées sur les prix et les performances réseau.
-
-### Tableau comparatif par type de voyageur
-
-| Profil | Forfait recommandé | Données | Durée | Prix indicatif | Réseau |
-|--------|-------------------|---------|------|---------------|--------|
-| **Week-end Europe** | Forfait économique | 3 Go | 7 jours | 5-7 € | Multi-réseau |
-| **Semaine Europe** | Forfait standard | 10 Go | 15 jours | 10-15 € | Multi-réseau |
-| **Road trip USA** | Forfait premium | 20 Go | 30 jours | 25-35 € | T-Mobile/AT&T/Verizon |
-| **Japon découverte** | Forfait Asie | 10 Go | 15 jours | 12-18 € | NTT Docomo/SoftBank |
-| **Tour du monde** | Forfait global | 20 Go | 30 jours | 35-50 € | 100+ pays couverts |
-
-### Pourquoi l'iPhone 11 est parfait pour les forfaits eSIM économiques
-
-L'absence de 5G sur l'iPhone 11 a un avantage inattendu : les forfaits eSIM 4G LTE sont systématiquement **moins chers** que les forfaits 5G équivalents. Comme l'iPhone 11 ne peut pas utiliser la 5G, vous ne payez pas pour une technologie que vous n'utilisez pas. Résultat : un **forfait eSIM pas cher** en 4G LTE offre exactement la même expérience sur iPhone 11 qu'un forfait 5G premium.
-
-**Exemple concret :** Un forfait eSIM Japon 10 Go / 15 jours en 4G LTE coûte environ 12 €, contre 18-22 € pour l'équivalent 5G. Sur iPhone 11, les performances sont identiques puisque le téléphone utilise la 4G LTE dans les deux cas.
-
----
-
-## Comment l'iPhone 11 gère-t-il la sécurité eSIM ?
-
-L'eSIM de l'iPhone 11 bénéficie du même niveau de sécurité que les modèles plus récents. La puce **eUICC** intégrée à l'A13 Bionic est gérée par la **Secure Enclave**, le coprocesseur de sécurité dédié d'Apple. Concrètement :
-
-- **Chiffrement matériel** : le profil eSIM est stocké dans une zone mémoire chiffrée et isolée du système d'exploitation principal. Même un iPhone jailbreaké ne peut pas extraire le profil eSIM.
-- **Protection anti-clonage** : contrairement à une carte SIM physique qui peut être dupliquée avec un lecteur de carte, l'eSIM ne peut pas être clonée. Le profil est lié cryptographiquement à l'eUICC de votre iPhone 11.
-- **Authentification biométrique** : toute modification du profil eSIM (suppression, désactivation) nécessite le code d'accès de l'iPhone ou l'authentification Face ID / Touch ID.
-- **Effacement à distance** : en cas de perte ou de vol, le mode Perdu d'iCloud permet de désactiver les lignes eSIM à distance via Localiser mon iPhone.
-
-Cette architecture de sécurité est conforme au standard **GSMA SGP.22** et aux exigences de la [norme eSIM de la GSMA](https://www.gsma.com/esim/). C'est la même puce eUICC qu'on retrouve dans les iPhone 12, 13, et les modèles plus récents.
-
----
-
-## Problèmes connus et solutions spécifiques à l'iPhone 11
-
-| Problème | Cause possible | Solution |
-|----------|---------------|----------|
-| **« Impossible d'ajouter le forfait cellulaire »** | Trop de profils eSIM stockés | Supprimez les anciens profils inutilisés : Réglages > Données cellulaires > sélectionnez > Supprimer |
-| **eSIM installée mais « Aucun service »** | Itinérance des données désactivée | Activez l'itinérance pour la ligne eSIM (même sans être en « roaming » au sens classique) |
-| **Données mobiles absentes** | APN non configuré | Configurez manuellement l'APN dans Réglages > Données cellulaires > Réseau de données cellulaires |
-| **QR code non reconnu** | Objectif de l'appareil photo sale, mauvaise luminosité | Nettoyez l'objectif, scannez dans un endroit bien éclairé, ou utilisez la saisie manuelle (SM-DP+) |
-| **L'eSIM ne survit pas à une mise à jour iOS** | Rare, mais possible sur iPhone 11 | Redémarrez ; si le profil a disparu, réinstallez-le avec le QR code de l'opérateur |
-| **Signal plus faible que la SIM physique** | Sélection réseau automatique sous-optimale | Basculez en sélection manuelle : Réglages > Données cellulaires > [eSIM] > Sélection du réseau |
-
----
-
-## L'iPhone 11 en 2026 : toujours pertinent pour l'eSIM ?
-
-En 2026, l'iPhone 11 a 7 ans. Apple continue de le prendre en charge avec iOS 19, ce qui signifie que toutes les fonctionnalités eSIM modernes sont disponibles :
-
-- ✅ **Transfert rapide eSIM** (introduit avec iOS 16, amélioré dans iOS 19)
-- ✅ **Assistant de voyage iOS 19** (détection automatique du pays et proposition d'activation)
-- ✅ **Appels Wi-Fi** (voWiFi) sur eSIM
-- ✅ **Partage de connexion** (hotspot) via eSIM
-- ❌ **5G** — pas de support matériel, définitivement
-- ❌ **Double eSIM actif** — réservé aux iPhone 13 et plus récents
-
-**Conclusion :** Si vous possédez un iPhone 11, ne le changez pas uniquement pour l'eSIM. Il fait tout ce dont un voyageur a besoin. La seule vraie limitation est l'absence de 5G, qui n'est pas un problème pour 95 % des usages en voyage (navigation, messagerie, réseaux sociaux, streaming occasionnel). Si vous changez de téléphone, les modèles à partir de l'iPhone 13 apportent la double eSIM active — pratique pour gérer deux lignes sans aucune carte physique.
-
----
-
-## FAQ — iPhone 11 et eSIM
-
-**Q1 : L'iPhone 11 peut-il utiliser deux eSIM en même temps ?**
-Non. L'iPhone 11 supporte une configuration **nano-SIM + eSIM**. La double eSIM simultanée (deux eSIM actives, sans carte physique) n'est disponible qu'à partir de l'iPhone 13. Vous pouvez toutefois stocker jusqu'à 8 profils eSIM et basculer entre eux.
-
-**Q2 : Mon iPhone 11 est verrouillé par Orange. Puis-je utiliser une eSIM d'un autre opérateur ?**
-Non. Un iPhone verrouillé n'accepte que les eSIM de l'opérateur qui l'a verrouillé. Contactez Orange pour demander le **déverrouillage** (gratuit après 3 mois d'ancienneté en France). La procédure prend 24-48 heures.
-
-**Q3 : L'iPhone 11 chinois supporte-t-il l'eSIM ?**
-Non. Les iPhone 11 vendus en Chine continentale ont deux emplacements nano-SIM physiques et **pas de module eSIM**. Vérifiez avec `*#06#` — si aucun EID n'apparaît, votre iPhone ne supporte pas l'eSIM.
-
-**Q4 : L'eSIM de l'iPhone 11 fonctionne-t-elle en 5G ?**
-Non. L'iPhone 11 ne possède pas de modem 5G. L'eSIM fonctionne en **4G LTE**, ce qui est largement suffisant pour tous les usages courants (navigation, streaming HD, visioconférence).
-
-**Q5 : Comment transférer mon eSIM de l'iPhone 11 vers un nouvel iPhone ?**
-Avec iOS 19, le transfert d'eSIM se fait automatiquement pendant la configuration du nouvel iPhone (placez les deux appareils à proximité). Si le transfert échoue, contactez votre opérateur pour obtenir un nouveau QR code. Consultez notre **[guide de transfert eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
-
-**Q6 : L'iPhone 11 est-il compatible avec les eSIM de tous les pays ?**
-Oui, dans la limite des bandes 4G LTE supportées (28 bandes). L'iPhone 11 couvre toutes les bandes utilisées en Europe, en Amérique du Nord, en Asie (Japon, Corée, Chine, Asie du Sud-Est), en Océanie et dans la plupart des pays d'Afrique et d'Amérique latine.
-
-**Q7 : Puis-je utiliser FaceTime et iMessage avec une eSIM de voyage ?**
-Oui. iMessage et FaceTime sont liés à votre identifiant Apple, pas à votre carte SIM. Ils fonctionneront parfaitement via les données de votre eSIM de voyage, même si votre ligne française est désactivée.
-
-**Q8 : Comment savoir si mon iPhone 11 est déverrouillé ?**
-Allez dans **Réglages > Général > Informations**. Faites défiler jusqu'à **« Verrouillage opérateur »**. Si vous voyez **« Aucune restriction SIM »**, votre iPhone est déverrouillé. Si un opérateur est listé, contactez-le pour le déblocage.
-
-**Q9 : L'iPhone 11 Pro Max a-t-il un meilleur support eSIM que l'iPhone 11 standard ?**
-Non. Les trois modèles (iPhone 11, 11 Pro, 11 Pro Max) partagent exactement le même module eSIM et les mêmes capacités. La seule différence est l'autonomie de la batterie (meilleure sur le Pro Max) et la qualité de l'écran, sans impact sur les fonctionnalités eSIM.
-
-**Q10 : Puis-je utiliser une eSIM de voyage et ma SIM physique Orange en même temps ?**
-Oui, c'est la configuration idéale en voyage. Gardez votre SIM Orange pour les appels/SMS (en mode appels Wi-Fi pour éviter le roaming), et utilisez l'eSIM pour toutes les données mobiles. C'est ce qu'on appelle le mode double SIM, parfaitement supporté par l'iPhone 11.
-
-**Q11 : L'iPhone 11 reconditionné est-il un bon choix pour l'eSIM en 2026 ?**
-Excellent. Un iPhone 11 reconditionné déverrouillé coûte 150-220 € en 2026 sur Back Market ou Certideal. Vérifiez impérativement : (1) le statut de déverrouillage (« Aucune restriction SIM »), (2) l'absence de verrouillage iCloud, et (3) que l'EID apparaît avec `*#06#`. Les reconditionneurs certifiés testent le module eSIM, ce qui n'est pas garanti avec un achat entre particuliers.
-
-**Q12 : Puis-je utiliser l'iPhone 11 comme hotspot avec une eSIM de voyage ?**
-Oui. L'iPhone 11 supporte le **partage de connexion** (hotspot) via l'eSIM. Configuration : Réglages > Données cellulaires > [votre eSIM] > Partage de connexion. Attention : certains forfaits eSIM économiques limitent le hotspot ou le briddent après quelques gigaoctets. Vérifiez les conditions avant d'acheter si vous comptez partager votre connexion avec une tablette ou un PC.
-
-**Q13 : La 4G LTE de l'iPhone 11 est-elle assez rapide pour le télétravail en voyage ?**
-Oui. La 4G LTE Advanced de l'iPhone 11 (jusqu'à 1 Gbps théorique, 50-150 Mbps en pratique) supporte sans problème la visioconférence (Zoom, Teams, FaceTime), le VPN d'entreprise, et le transfert de fichiers. La latence typique de 20-40 ms est comparable à une connexion Wi-Fi domestique. Pour le télétravail, privilégiez un forfait eSIM avec un quota de données suffisant (20-50 Go/mois) et un APN correctement configuré.
-
----
-
-## Conclusion
-
-L'iPhone 11 reste en 2026 un excellent choix pour les utilisateurs d'eSIM, malgré ses 7 ans. Son support logiciel maintenu par Apple (iOS 19), sa compatibilité avec tous les opérateurs eSIM mondiaux, et ses 28 bandes LTE en font un compagnon de voyage fiable et économique.
-
-**Ce qu'il faut retenir :**
-- ✅ L'iPhone 11 (standard, Pro, Pro Max) est **100 % compatible eSIM**, sauf modèles chinois.
-- ✅ La vérification EID (`*#06#`) est la méthode la plus fiable pour confirmer la compatibilité.
-- ✅ L'activation prend **moins de 2 minutes** — scannez le QR code avant le départ.
-- ⚠️ Pas de 5G ni de double eSIM actif — les seules limitations notables.
-- 💡 L'iPhone 11 + une eSIM de voyage = **économies de 80 à 95 %** par rapport au roaming traditionnel.
-
-**Besoin d'aide ?** Consultez nos autres guides : **[iPhone XR compatible eSIM ?](/faq/iphone-xr-esim-compatible/)** pour les modèles 2018, **[iPhone SE eSIM](/faq/iphone-se-esim-compatible/)** pour les SE, ou notre **[guide d'activation eSIM](/faq/how-to-activate-an-esim/)** pour une procédure détaillée.
-
----
+    - question: "Comment utiliser le double SIM sur iPhone (physique + eSIM) ?"
+      url: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
 ---
 
 
-*Basé sur la documentation officielle d'Apple, les standards GSMA et les informations des opérateurs français (Orange, SFR, Bouygues, Free). Dernière révision : août 2026.*
+> **Note de l'éditeur :** L'iPhone 11 prend en charge le double SIM avec eSIM, et ce guide couvre les modèles exacts et les étapes de configuration. Il suit la documentation officielle Apple, les normes GSMA et les données d'activation réelles de notre équipe de support, vérifiées en septembre 2026. Utilisez le tableau de compatibilité ci-dessous pour confirmer votre iPhone et le configurer.
+
+Oui — l'iPhone 11, 11 Pro et 11 Pro Max prennent tous en charge l'eSIM, tout comme chaque iPhone haut de gamme depuis la génération XR/XS. Composez *#06# et cherchez un EID de 32 chiffres pour confirmer le vôtre en quelques secondes. Le tableau de compatibilité complet ci-dessous va de l'iPhone 8 à l'iPhone 17, y compris les exceptions de Chine continentale.
+
+
+## Comment identifier votre modèle d'iPhone pour l'eSIM
+
+**Vous n'êtes pas sûr que votre iPhone prenne en charge l'eSIM ? Trouvez votre modèle ci-dessous et obtenez votre réponse instantanée.**
+
+| Votre modèle d'iPhone | Support eSIM | Réponse rapide |
+| :--- | :--- | :--- |
+| **iPhone 8, 8 Plus, iPhone X** | ❌ Non | SIM physique uniquement – pas de matériel eSIM. [Passer aux alternatives](#which-iphones-support-esim) |
+| **iPhone XR, XS, XS Max** | ✅ Oui | Premiers iPhone avec eSIM. SIM physique + eSIM. |
+| **iPhone 11, 11 Pro, 11 Pro Max** | ✅ Oui | SIM physique + eSIM. ⚠️ Modèles chinois = PAS d'eSIM. |
+| **iPhone SE (2e ou 3e génération)** | ✅ Oui | SIM physique + eSIM. Option eSIM économique. |
+| **iPhone 12, 12 mini, 12 Pro, 12 Pro Max** | ✅ Oui | SIM physique + eSIM. Premier 5G + eSIM. |
+| **iPhone 13, 13 mini, 13 Pro, 13 Pro Max** | ✅ Oui | SIM physique + eSIM OU double eSIM. Premier support double eSIM. |
+| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Oui | US = eSIM uniquement. Mondial = physique + eSIM. |
+| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Oui | US = eSIM uniquement. Mondial = physique + eSIM. |
+| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Oui | US = eSIM uniquement. Mondial = physique + eSIM. |
+| **iPhone 16e** | ✅ Oui | Nouveau modèle économique – support eSIM. Vérifiez la région pour la SIM physique. |
+| **iPhone 17, 17 Pro, 17 Pro Max, 17 Air** | ✅ Oui | US = eSIM uniquement. Mondial = physique + eSIM (attendu). |
+| **Pas sûr – vérifiez simplement mon téléphone** | Composez `*#06#` – cherchez l'EID | [Comment vérifier votre iPhone](#how-to-verify-if-your-iphone-has-esim) |
+
+
+## Guide complet de l'eSIM sur iPhone
+
+Voici le chemin que la plupart des utilisateurs suivent lors de la configuration de l'eSIM sur iPhone.
+
+| Étape | Ce que vous faites | Où le trouver |
+| :--- | :--- | :--- |
+| **1. Vérifier la compatibilité de l'appareil** | Vérifiez si votre modèle d'iPhone spécifique dispose du matériel eSIM. | [Diagnostic rapide](#how-to-identify-your-iphone-model-for-esim) |
+| **2. Vérifier la région et le verrouillage opérateur** | Modèle chinois ? Verrouillé opérateur ? | [Différences régionales](#iphone-esim-regional-differences) |
+| **3. Trouver l'EID** | Confirmez que le matériel eSIM est présent. | [Comment vérifier](#how-to-verify-if-your-iphone-has-esim) |
+| **4. Activer votre eSIM** | Scannez le code QR ou utilisez l'application de l'opérateur. | [Étapes d'activation](#how-to-activate-esim-on-iphone) |
+| **5. Configurer le double SIM** | Physique + eSIM ou double eSIM. | [Utiliser la SIM physique et l'eSIM ensemble](#using-physical-sim-and-esim-together) |
+| **6. Dépanner si nécessaire** | Pas de signal ? Échec d'activation ? | [Dépannage](#common-esim-problems-on-iphone) |
+
+
+## Quels iPhone prennent en charge l'eSIM ?
+
+**L'eSIM est arrivé sur les iPhone avec les modèles 2018 : iPhone XR, XS et XS Max. Tous les iPhone ultérieurs (11, 12, 13, 14, 15, 16, 17 et SE 2e/3e génération) prennent également en charge l'eSIM – avec une exception régionale majeure : les modèles de Chine continentale (y compris Hong Kong dans certains cas) soit manquent du matériel SIM intégré, soit utilisent deux emplacements SIM physiques.**
+
+- **iPhone XR, XS, XS Max (2018) :** ✅ Premiers iPhone avec eSIM
+- **iPhone 11, 11 Pro, 11 Pro Max :** ✅ Support complet eSIM (Chine continentale : double SIM physique à la place)
+- **iPhone SE (2e génération 2020, 3e génération 2022) :** ✅ Support eSIM
+- **iPhone 12, 12 mini, 12 Pro, 12 Pro Max :** ✅ eSIM + premier support 5G
+- **iPhone 13, 13 mini, 13 Pro, 13 Pro Max :** ✅ eSIM + capacités double ligne améliorées
+- **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max :** ✅ Les modèles US sont **eSIM uniquement** (pas de tiroir SIM physique) ; les autres régions ont les deux
+- **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max :** ✅ Identique à l'iPhone 14 – US eSIM uniquement, mondial conserve le tiroir
+- **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max :** ✅ Support continué ; US reste eSIM uniquement
+- **iPhone 16e :** ✅ Nouveau modèle économique – prend en charge l'eSIM (dépend de la région pour la SIM physique)
+- **iPhone 17, 17 Pro, 17 Pro Max, 17 Air :** ✅ Support complet attendu ; modèles US probablement eSIM uniquement
+
+> **L'iPhone 8, 8 Plus et iPhone X (2017) ne prennent PAS en charge l'eSIM** – ils utilisent uniquement une SIM physique. Si vous en possédez un, vous ne pouvez utiliser aucun service SIM numérique.
+
+La [page de support officielle Apple pour l'eSIM](https://support.apple.com/en-us/HT212780) fournit des détails supplémentaires sur les modèles compatibles. La technologie est régie par la [norme GSMA SGP.22](https://www.gsma.com/esim/), assurant l'interopérabilité mondiale entre les appareils et les opérateurs.
+
+Pour la liste complète des téléphones compatibles toutes marques confondues, voir notre **[liste de compatibilité complète](/compatibility/)**.
+
+
+## Tableau complet de compatibilité eSIM iPhone
+
+| Modèle iPhone | Support eSIM | Type de double SIM | Emplacement SIM physique | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| iPhone 8, 8 Plus, iPhone X | ❌ Non | SIM physique uniquement | ✅ Oui | Pas de matériel eSIM |
+| **iPhone XR, XS, XS Max** | ✅ Oui | Physique + eSIM | ✅ Oui | Premiers iPhone avec eSIM |
+| **iPhone 11, 11 Pro, 11 Pro Max** | ✅ Oui | Physique + eSIM | ✅ Oui | Chine continentale : double SIM physique |
+| **iPhone SE (2e et 3e génération)** | ✅ Oui | Physique + eSIM | ✅ Oui | Option eSIM économique |
+| **iPhone 12, 12 mini, 12 Pro, 12 Pro Max** | ✅ Oui | Physique + eSIM | ✅ Oui | Premiers iPhone 5G eSIM |
+| **iPhone 13, 13 mini, 13 Pro, 13 Pro Max** | ✅ Oui | Physique + eSIM (ou double eSIM) | ✅ Oui | Prend en charge le **double eSIM** (deux eSIM actifs) |
+| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Oui | US : eSIM uniquement ; mondial : physique + eSIM | US : ❌ Non ; mondial : ✅ Oui | **iPhone 14 eSIM uniquement** aux US |
+| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Oui | US : eSIM uniquement ; mondial : physique + eSIM | US : ❌ Non ; mondial : ✅ Oui | **iPhone 15 eSIM ou SIM physique** dépend de la région |
+| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Oui | US : eSIM uniquement ; mondial : physique + eSIM | US : ❌ Non ; mondial : ✅ Oui | **iPhone 16 eSIM uniquement** aux US |
+| **iPhone 16e** | ✅ Oui | US : eSIM uniquement ; mondial : physique + eSIM | US : ❌ Non ; mondial : ✅ Oui | Nouveau modèle économique – support eSIM complet |
+| **iPhone 17, 17 Pro, 17 Pro Max, 17 Air** | ✅ Oui | US : eSIM uniquement ; mondial : physique + eSIM (attendu) | US : ❌ Non (attendu) ; mondial : ✅ Oui (attendu) | **iPhone 17 eSIM** – dernière génération |
+
+
+## Quand les iPhone ont-ils commencé à utiliser l'eSIM ?
+
+- **2017 et avant (iPhone 8, X, etc.)** – Pas d'eSIM. SIM physique uniquement.
+- **2018 (iPhone XR, XS, XS Max)** – Premiers iPhone eSIM. Double SIM : une nano‑SIM physique + un eSIM.
+- **2019 (série iPhone 11)** – Même fonctionnalité eSIM que les modèles 2018 ; la Chine continentale reçoit une double SIM physique à la place.
+- **2020 (iPhone SE 2e génération, série iPhone 12)** – L'eSIM continue ; l'iPhone 12 ajoute le support 5G.
+- **2021 (série iPhone 13)** – Premier support pour **deux lignes actives** (double eSIM) chez certains opérateurs.
+- **2022 (iPhone SE 3e génération, série iPhone 14)** – Les modèles US deviennent **eSIM uniquement** (pas de tiroir SIM physique).
+- **2023 (série iPhone 15)** – Les US continuent eSIM uniquement ; le mondial conserve le tiroir physique.
+- **2024 (série iPhone 16)** – Identique à l'iPhone 15 ; **iPhone 16e** introduit comme modèle eSIM économique.
+- **2025 (série iPhone 17)** – Devrait continuer la même répartition régionale.
+
+Donc le **premier iPhone avec eSIM** était l'iPhone XR/XS en septembre 2018.
+
+
+## Comment vérifier si votre iPhone a l'eSIM
+
+### Composez *#06# pour vérifier l'eSIM
+1. Ouvrez l'application Téléphone.
+2. Composez `*#06#` et appuyez sur appel.
+3. Cherchez un **EID de 32 chiffres** (Embedded Identity Document – pensez-y comme au numéro de série SIM numérique de votre téléphone). S'il est présent, votre iPhone a le matériel eSIM.
+4. Si vous ne voyez que des numéros IMEI (IMEI1, IMEI2) et pas d'EID, votre appareil manque du matériel (typique des modèles de Chine continentale ou des iPhone plus anciens que le XR).
+
+### Vérifiez dans les Réglages
+Allez dans **Réglages > Général > Informations**. Faites défiler vers le bas. Si vous voyez **« SIM disponible »** ou **« SIM numérique »** avec un numéro **EID**, l'eSIM est présent.
+
+### Essayez d'ajouter un forfait cellulaire
+Allez dans **Réglages > Cellulaire > Ajouter un forfait cellulaire**. Si l'option est visible et cliquable, votre téléphone prend en charge l'eSIM. Si elle est grisée ou manquante, pas de chance.
+
+### Ce qu'il faut rechercher
+
+| Ce que vous voyez | Ce que cela signifie |
+| :--- | :--- |
+| **EID (32 chiffres) + IMEI** | ✅ Votre iPhone a le matériel eSIM |
+| **IMEI uniquement (pas d'EID)** | ❌ Pas d'eSIM – SIM physique uniquement |
+| **« Ajouter un forfait cellulaire » visible** | ✅ L'eSIM est disponible |
+| **« Ajouter un forfait cellulaire » grisé/manquant** | ❌ Pas d'eSIM ou verrouillé opérateur |
+
+
+## Répartition détaillée par génération d'iPhone
+
+### iPhone 8, 8 Plus et iPhone X
+Ces modèles précèdent entièrement le matériel SIM intégré. Si vous possédez un **iPhone 8 ou iPhone X**, vous ne pouvez utiliser aucune SIM numérique – SIM physique uniquement. Il en va de même pour l'**iPhone 7 et les modèles antérieurs**.
+
+### iPhone XR, XS et XS Max
+Les **iPhone XR, XS et XS Max** sont les premiers iPhone avec support eSIM. Les trois modèles fonctionnent avec une SIM physique et une SIM numérique simultanément (double SIM double veille). Ils ne prennent pas en charge la 5G. Pour les numéros de modèle exacts du XR (A2105–A2109) et une liste de vérification d'achat d'occasion, voir notre **[guide eSIM iPhone XR](/faq/iphone-xr-esim-compatible/)** dédié.
+
+### iPhone 11, 11 Pro et 11 Pro Max
+La **série iPhone 11** (y compris le Pro et le Pro Max) prend en charge l'eSIM mondialement. Cependant, les versions de Chine continentale ont deux emplacements SIM physiques et pas de SIM numérique. Si vous avez un **iPhone 11** mondial, vous pouvez utiliser l'eSIM pour les données 4G LTE.
+
+### iPhone SE
+Les deux générations de l'**iPhone SE** prennent en charge l'eSIM. Ce sont d'excellentes options économiques, offrant la même fonctionnalité SIM numérique que les modèles haut de gamme à un prix inférieur. Pour la répartition génération par génération du SE, les numéros de modèle et les politiques de déverrouillage opérateur, voir notre **[guide eSIM iPhone SE](/faq/iphone-se-esim-compatible/)** dédié.
+
+### Série iPhone 12
+L'**iPhone 12, 12 mini, 12 Pro et 12 Pro Max** prennent tous en charge l'eSIM. Ils ont été les premiers iPhone à offrir la 5G sur une SIM numérique. Le double SIM fonctionne comme une SIM physique + un eSIM.
+
+### Série iPhone 13
+La **série iPhone 13** (y compris mini, Pro, Pro Max) introduit la capacité **double eSIM** – vous pouvez avoir deux lignes actives simultanément (pas de SIM physique nécessaire). C'est aussi la première génération où l'**iPhone 13 double eSIM** est devenu une fonctionnalité standard.
+
+### Série iPhone 14
+Tous les **modèles iPhone 14** le prennent en charge, mais avec un changement majeur : les modèles US n'ont pas de tiroir SIM physique du tout. Les modèles mondiaux offrent toujours un emplacement SIM physique plus l'eSIM. **iPhone 14 eSIM uniquement** est la réalité pour les clients américains.
+
+### Série iPhone 15
+La **série iPhone 15** suit la même répartition régionale : les modèles US sont eSIM uniquement ; les modèles mondiaux ont les deux. Donc si vous avez besoin d'**iPhone 15 eSIM ou SIM physique** dépend entièrement de l'endroit où vous l'achetez.
+
+### Série iPhone 16
+La **série iPhone 16** continue le même schéma. Les modèles US sont **eSIM uniquement** ; les versions internationales conservent l'emplacement SIM physique. L'**iPhone 16 double eSIM** est standard sur toute la gamme.
+
+### iPhone 16e
+L'**iPhone 16e** est le nouveau modèle économique d'Apple, positionné en dessous de la gamme principale iPhone 16. Il prend en charge l'eSIM sur tous les modèles – les versions US sont expédiées sans tiroir SIM, tandis que les versions mondiales conservent un emplacement physique à côté.
+
+### Série iPhone 17
+La **série iPhone 17** (y compris 17, 17 Pro, 17 Pro Max et 17 Air) continue la même répartition régionale établie avec l'iPhone 14. Les modèles US devraient supprimer le tiroir physique ; les modèles mondiaux conservent les deux options.
+
+
+## Comment activer l'eSIM sur iPhone
+
+Une fois que vous avez confirmé que votre iPhone est compatible (un EID apparaît sous `*#06#`) et déverrouillé opérateur, l'activation elle-même prend environ deux minutes. En bref : achetez un forfait — un [eSIM d'essai gratuit Roami](/free-esim/) est le moyen le plus rapide de tester — puis, sur Wi‑Fi, allez dans **Réglages > Cellulaire > Ajouter un forfait cellulaire** et scannez le code QR. Activez l'**itinérance des données** pour ce forfait après votre atterrissage.
+
+Pour le guide complet étape par étape — y compris le flux redessiné d'iOS 18, le transfert rapide et la réinscription d'iMessage/FaceTime — voir notre **[guide d'activation eSIM iPhone](/faq/how-to-activate-esim-on-iphone/)**. Pour les méthodes d'activation spécifiques aux opérateurs (Verizon, T‑Mobile, AT&T et fournisseurs internationaux), voir notre **[liste de compatibilité des opérateurs](/compatibility/)**.
+
+
+## Combien de profils eSIM un iPhone peut-il stocker ?
+
+Les iPhone peuvent stocker **jusqu'à huit profils SIM** à la fois, mais le nombre exact dépend du modèle d'iPhone et de la version d'iOS.
+
+| Modèle iPhone | Max de profils eSIM stockés | Actifs simultanément |
+| :--- | :--- | :--- |
+| **iPhone XR, XS, XS Max** | ~5 | 1 (plus SIM physique) |
+| **Série iPhone 11** | ~5 | 1 (plus SIM physique) |
+| **iPhone SE (2e/3e génération)** | ~5 | 1 (plus SIM physique) |
+| **Série iPhone 12** | ~8 | 1 (plus SIM physique) |
+| **Série iPhone 13 et plus récents** | ~8 | 2 (double eSIM) |
+| **iPhone 14–17 (US eSIM uniquement)** | ~8 | 2 (double eSIM uniquement – pas de SIM physique) |
+
+### Comment gérer plusieurs profils eSIM
+- **Supprimer les profils inutilisés :** Réglages > Cellulaire > touchez le forfait > Supprimer le forfait cellulaire. Cela libère de l'espace pour de nouveaux profils.
+- **Basculer entre les eSIM stockés :** Réglages > Cellulaire > touchez le forfait souhaité > Activer cette ligne.
+- **Renommer les profils :** Réglages > Cellulaire > touchez le forfait > Étiquette du forfait cellulaire – choisissez un nom personnalisé (ex. « Voyage au Japon »).
+
+
+## Utiliser la SIM physique et l'eSIM ensemble
+
+Tous les iPhone du XR au 13 (mondiaux) et les 14–17 mondiaux prennent en charge **une SIM physique + un eSIM** actifs en même temps. Les modèles US eSIM uniquement (14–17) utilisent **deux lignes numériques** à la place.
+
+### Comment configurer le double SIM
+1. Insérez votre SIM physique (ou ayez votre premier eSIM actif).
+2. Ajoutez une seconde ligne via **Réglages > Cellulaire > Ajouter un forfait cellulaire**.
+3. Dans **Réglages > Cellulaire**, attribuez :
+   - **Ligne vocale par défaut** – quelle ligne passe les appels
+   - **Ligne de données par défaut** – quelle ligne utilise l'internet mobile
+   - **Basculement des données cellulaires** – autoriser le basculement automatique si la ligne de données principale perd le signal (à utiliser avec prudence à l'étranger pour éviter les frais d'itinérance)
+
+### Paramètres double SIM recommandés pour les voyages
+
+| Paramètre | Valeur recommandée | Pourquoi |
+| :--- | :--- | :--- |
+| **Ligne vocale par défaut** | SIM d'origine (votre numéro habituel) | Continuez à recevoir les appels sur votre numéro d'origine |
+| **Données cellulaires** | Travel eSIM | Utilisez un forfait de données local, pas une itinérance coûteuse |
+| **Itinérance des données (SIM d'origine)** | OFF | Éviter les frais d'itinérance accidentels |
+| **Itinérance des données (Travel eSIM)** | ON | Nécessaire pour que la ligne de voyage fonctionne |
+| **Autoriser le basculement des données cellulaires** | ON | Permet aux appels/SMS sur la SIM d'origine d'utiliser les données du travel eSIM pour l'appel Wi‑Fi |
+
+### Voyager des États-Unis vers le Japon
+- Gardez votre SIM physique américaine (ou eSIM d'origine) pour les appels/SMS.
+- Achetez un eSIM de voyage Japon pour les données.
+- Définissez la ligne Japon comme **Ligne de données par défaut** et activez l'**itinérance des données** pour cette ligne.
+
+
+## eSIM vs SIM physique
+
+La version courte : une SIM intégrée change d'opérateur instantanément et ne peut pas être physiquement volée ; une SIM physique fonctionne sur tous les téléphones et sert de secours là où la couverture SIM numérique est limitée. Pour une comparaison complète fonctionnalité par fonctionnalité, voir notre **[guide Qu'est-ce que l'eSIM ?](/faq/what-is-esim/)**.
+
+
+## Différences régionales eSIM iPhone
+
+- **Modèles de Chine continentale** (numéro de modèle se terminant par CH/A) : Pas d'eSIM – double SIM physique à la place.
+- **Modèles Hong Kong et Macao** : Généralement SIM physique + eSIM (identique au mondial).
+- **Modèles US (iPhone 14–17)** : eSIM uniquement – pas de tiroir SIM physique.
+- **Modèles mondiaux (Europe, Asie hors Chine, etc.)** : SIM physique + eSIM.
+
+| Région | Suffixe du modèle | SIM physique | eSIM | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Chine continentale** | CH/A | 2 SIM physiques | ❌ Non | Aucun matériel eSIM du tout |
+| **Hong Kong** | HK/A | 1 SIM physique | ✅ Oui | Identique au mondial |
+| **Macao** | ZP/A | 1 SIM physique | ✅ Oui | Identique au mondial |
+| **USA** | LL/A | ❌ Non (14+) | ✅ Oui | eSIM uniquement depuis l'iPhone 14 |
+| **Canada** | VC/A | 1 SIM physique | ✅ Oui | Identique au mondial |
+| **UK/Europe** | B/A | 1 SIM physique | ✅ Oui | Identique au mondial |
+| **Japon** | J/A | 1 SIM physique | ✅ Oui | Identique au mondial |
+| **Australie/NZ** | X/A | 1 SIM physique | ✅ Oui | Identique au mondial |
+
+Si vous voyagez fréquemment, une **version mondiale** (physique + eSIM) offre plus de flexibilité qu'un modèle US sans tiroir.
+
+
+## iPhone eSIM uniquement
+
+### Ce que signifie « eSIM uniquement »
+- Pas d'emplacement SIM physique.
+- Vous devez activer au moins une SIM numérique pour utiliser la téléphonie mobile.
+- Le double SIM fonctionne via deux lignes numériques (double eSIM).
+
+### Configuration initiale pour iPhone eSIM uniquement
+- Transférez un profil SIM depuis votre ancien iPhone lors de la configuration.
+- Ou activez via l'application de l'opérateur.
+- Ou ignorez et ajoutez plus tard via **Réglages > Cellulaire > Ajouter un forfait cellulaire**.
+
+### Voyager avec un iPhone eSIM uniquement
+- Installez votre profil de voyage avant le départ (sur Wi‑Fi).
+- À destination, définissez-le comme **Ligne de données par défaut** et activez l'**itinérance des données**.
+- Gardez votre ligne d'origine active pour les appels (mais attention aux frais d'itinérance si vous répondez).
+
+### Que faire si votre iPhone eSIM uniquement tombe en panne à l'étranger ?
+Vous ne pouvez pas insérer de SIM physique en secours. Vos options :
+- Achetez une nouvelle SIM numérique auprès d'un opérateur local qui prend en charge l'achat en ligne.
+- Utilisez uniquement le Wi‑Fi.
+- Gardez un code QR de secours dans votre e-mail.
+- Emportez un appareil secondaire (ancien téléphone) avec un emplacement SIM physique en secours.
+
+### Transférer l'eSIM vers un nouvel iPhone
+
+Le déplacement d'un eSIM vers un nouvel iPhone se fait généralement automatiquement via le transfert rapide lors de la configuration (iOS 16+), ou via l'application de votre opérateur. Les profils de voyage sont souvent à installation unique, donc gardez votre code QR original. Les méthodes complètes — y compris la conversion SIM physique et la solution de suppression/réinstallation — sont couvertes dans notre **[guide de transfert](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
+
+
+## Acheter un iPhone d'occasion pour voyager avec eSIM
+
+| Modèle | Pourquoi recommandé | Prix d'occasion approximatif (USD) |
+| :--- | :--- | :--- |
+| **iPhone SE (3e génération)** | Bon marché, 5G, eSIM complet | 200–280 $ |
+| **iPhone 13** | Double eSIM, bonne batterie | 350–450 $ |
+| **iPhone 12** | 5G + eSIM le moins cher | 250–350 $ |
+| **iPhone 11** | Très bon marché, 4G uniquement | 150–250 $ |
+| **iPhone XR** | iPhone eSIM le moins cher absolu | 100–150 $ |
+
+### Ce qu'il faut éviter
+- Modèles de Chine continentale (CH/A) – pas d'eSIM.
+- iPhone 8, X – pas d'eSIM du tout.
+- iPhone verrouillés opérateur – risqué pour le travel eSIM.
+- Modèles US eSIM uniquement comme téléphone de secours (pas d'emplacement SIM physique).
+
+### Liste de vérification en personne
+
+| Étape | Quoi vérifier |
+| :--- | :--- |
+| **1** | Composez `*#06#` – confirmez que l'**EID** apparaît (pas seulement l'IMEI) |
+| **2** | Réglages > Général > Informations – vérifiez le **Numéro de modèle** (évitez CH/A) |
+| **3** | Réglages > Général > Informations – **Verrouillage opérateur** doit indiquer « Aucune restriction SIM » |
+| **4** | Réglages > Cellulaire – cherchez **« Ajouter un forfait cellulaire »** – doit être cliquable |
+| **5** | (Optionnel) Essayez d'installer un eSIM gratuit comme celui de Roami – s'il fonctionne, l'eSIM est pleinement fonctionnel |
+
+Pour les alternatives Android, voir notre **[guide de compatibilité Samsung Galaxy](/faq/samsung-s20-esim-compatible/)** et notre **[guide de compatibilité Google Pixel](/faq/google-pixel-6-esim-compatible/)**.
+
+
+## Que devient l'eSIM quand vous vendez ou réinitialisez votre iPhone ?
+
+### Étapes d'effacement sécurisé avant de vendre votre iPhone
+
+| Étape | Action |
+| :--- | :--- |
+| **1** | Réglages > Cellulaire > touchez chaque eSIM > **Supprimer le forfait cellulaire** (cela libère le profil de l'appareil) |
+| **2** | Retirez toute carte SIM physique |
+| **3** | Réglages > Général > Transférer ou réinitialiser l'iPhone > **Effacer tout le contenu et les réglages** |
+| **4** | Cela supprime tous les profils SIM définitivement – le prochain propriétaire ne peut pas accéder à vos lignes |
+
+### Que se passe-t-il si vous ne supprimez pas les profils avant la réinitialisation ?
+- Le profil SIM devient orphelin – il est toujours lié à votre opérateur mais inactif sur l'appareil.
+- Le prochain propriétaire ne pourra pas l'utiliser (il est toujours lié à votre compte).
+- Vous pourriez encore être facturé pour le forfait s'il est actif.
+
+### Pouvez-vous réactiver une ligne après une réinitialisation d'usine ?
+- **Forfaits de voyage :** Généralement non – ils sont à installation unique. Contactez votre fournisseur pour un nouveau code QR.
+- **Lignes d'opérateurs (Verizon, T‑Mobile, etc.) :** Oui – utilisez l'application de l'opérateur pour re-télécharger le profil.
+- **Si vous avez gardé le code QR original :** Vous pouvez peut-être le re-scanner (s'il n'a pas expiré).
+
+> ⚠️ **Avertissement :** Supprimez toujours les profils SIM avant d'effacer votre iPhone. Les profils orphelins peuvent causer des problèmes d'activation pour le prochain propriétaire et des problèmes de facturation pour vous.
+
+
+## Problèmes eSIM courants sur iPhone
+
+| Problème | Cause probable | Solution |
+| :--- | :--- | :--- |
+| **« Cellular Plan Cannot Be Added »** | Trop de profils stockés ou QR expiré | Supprimez les inutilisés ; demandez un nouveau QR |
+| **eSIM installé mais pas de données** | Itinérance des données désactivée | Activez l'itinérance des données pour cette ligne |
+| **« Your eSIM is Not Supported »** | iOS obsolète ou profil incompatible | Mettez à jour iOS ; contactez le fournisseur |
+| **« No SIM » après activation** | Profil corrompu | Supprimez et réinstallez |
+| **Fonctionne sur iPhone 12 mais pas iPhone 14** | Ancien profil incompatible avec eSIM uniquement | Demandez un nouveau profil |
+| **Le code QR dit « Invalid »** | QR expiré ou déjà utilisé | Demandez un nouveau QR au fournisseur |
+| **« Unable to Activate eSIM »** | Problème Wi‑Fi ou serveur | Redémarrez, vérifiez le Wi‑Fi, attendez, puis réessayez |
+| **L'eSIM affiche « Searching » longtemps** | Hors couverture | Sélection manuelle du réseau |
+| **Double eSIM – une ligne tombe pendant les appels** | L'iPhone est en double veille, pas double actif | Comportement normal – voir [guide double eSIM](/faq/dual-esim-not-working-12-fixes-for-iphone/) |
+| **L'eSIM n'apparaît pas dans les Réglages** | Bug logiciel après mise à jour | Allez dans Réglages > Général > Informations – si l'EID apparaît mais pas l'option cellulaire, redémarrez le téléphone |
+
+Ce tableau couvre les bases spécifiques à l'iPhone. Pour la référence complète erreur par erreur (QR invalide, tableaux APN, erreurs de restauration 4013/4014 et 16 autres cas), voir le [Guide de dépannage approfondi eSIM](/faq/esim-deep-troubleshooting-guide-2026/). Si le problème est matériel — pas d'EID, un modèle Chine/Hong Kong, ou un verrouillage opérateur — le [guide matériel et erreurs eSIM](/faq/esim-activation-errors-troubleshooting-guide/) est la bonne page à la place.
+
+
+## Foire aux questions
+
+**La série iPhone 11 prend-elle en charge l'eSIM ?**
+Oui – l'iPhone 11, 11 Pro et 11 Pro Max prennent tous en charge l'eSIM, à condition d'avoir la version mondiale (pas la Chine continentale). Vous pouvez vérifier en composant `*#06#` – si un EID apparaît, vous êtes prêt.
+
+**L'iPhone 12 prend-il en charge l'eSIM tout en utilisant une SIM physique ?**
+Oui. Tous les modèles iPhone 12 (versions mondiales) permettent à une SIM physique et une SIM numérique d'être actives en même temps. Définissez la SIM physique pour les appels/SMS et la ligne numérique pour les données.
+
+**L'iPhone 13 a-t-il la capacité double eSIM ?**
+Oui. La série iPhone 13 (y compris Pro et Pro Max) prend en charge deux lignes actives simultanément. Cela signifie que vous pouvez exécuter deux forfaits de voyage, ou une ligne d'origine plus un profil de voyage, sans aucune carte physique.
+
+**L'iPhone 14 (modèle US) a-t-il un emplacement SIM physique ?**
+Non. Les modèles US de l'iPhone 14, 15, 16 et 17 sont **eSIM uniquement**. Ils n'ont pas de tiroir SIM physique. Les modèles mondiaux incluent toujours un emplacement SIM physique aux côtés de la SIM numérique.
+
+**L'iPhone 16e prend-il en charge l'eSIM ?**
+Oui. L'iPhone 16e prend en charge l'eSIM sur tous les modèles. Les versions US sont expédiées sans tiroir SIM ; les versions mondiales ajoutent un emplacement physique.
+
+**Puis-je voyager en Chine avec un iPhone US eSIM uniquement ?**
+Oui, mais vous ne pouvez pas utiliser l'eSIM d'un opérateur local chinois (ils ne l'offrent pas aux touristes). Vous devez acheter un forfait de voyage international avant de partir. Installez-le sur Wi‑Fi, puis activez l'itinérance des données à l'arrivée – il fonctionnera sur des partenaires d'itinérance comme China Unicom.
+
+**Quel est le premier iPhone avec eSIM ?**
+L'iPhone XR, XS et XS Max (sortis en septembre 2018) sont les premiers iPhone à le prendre en charge. Si vous avez un iPhone 8 ou iPhone X, vous ne pouvez pas utiliser l'eSIM.
+
+**Pourquoi mon iPhone dit-il « Cellular Plan Cannot Be Added » ?**
+Vous avez peut-être trop de profils stockés (les iPhone peuvent en stocker environ 8). Allez dans **Réglages > Cellulaire**, supprimez les forfaits inutilisés, redémarrez votre téléphone et réessayez. Assurez-vous également que le code QR n'a pas expiré.
+
+**Que signifie « eSIM uniquement » sur les iPhone US ?**
+Cela signifie que l'iPhone n'a pas de tiroir SIM physique – vous devez utiliser des profils téléchargés pour le service cellulaire. Le double SIM fonctionne via deux lignes numériques (double eSIM).
+
+**Combien de profils eSIM puis-je stocker sur mon iPhone ?**
+L'iPhone peut stocker **jusqu'à 8 profils**, mais un ou deux seulement peuvent être actifs à la fois (selon le modèle). Voir le tableau des limites de stockage ci-dessus.
+
+**Que devient mon eSIM si je réinitialise mon iPhone ?**
+Si vous effacez tout le contenu et les réglages sans d'abord supprimer votre ligne, le profil devient orphelin. Supprimez toujours les profils SIM avant de réinitialiser (Réglages > Cellulaire > Supprimer le forfait cellulaire).
+
+**L'iPhone 8 prend-il en charge l'eSIM ?**
+Non – l'iPhone 8, 8 Plus et iPhone X n'ont pas de matériel eSIM. Ils utilisent uniquement une SIM physique.
+
+**Quel est l'iPhone le moins cher avec eSIM ?**
+L'iPhone XR (d'occasion) est l'iPhone compatible eSIM le moins cher à environ 100–150 $. L'iPhone SE (3e génération) est l'option neuve la moins chère. Voir notre [guide iPhone XR](/faq/iphone-xr-esim-compatible/) et [guide iPhone SE](/faq/iphone-se-esim-compatible/) pour la répartition complète.
+
+**Quelle est la différence entre l'iPhone 13 double eSIM et l'iPhone 12 double SIM ?**
+L'iPhone 12 prend en charge une SIM physique + un eSIM. L'iPhone 13 prend en charge deux lignes numériques actives (pas de SIM physique nécessaire) OU une SIM physique + un eSIM. Cela fait de l'iPhone 13 le premier modèle avec une véritable capacité double ligne.
+
+**Puis-je utiliser un eSIM sur iPhone 17 si je l'ai acheté aux US ?**
+Oui – mais les modèles iPhone 17 US sont eSIM uniquement (pas d'emplacement SIM physique). Vous aurez besoin d'une ligne numérique pour tout service cellulaire.
+
+**Comment corriger l'eSIM qui n'apparaît pas dans les Réglages après une mise à jour iOS ?**
+C'est un bug iOS connu. Allez dans Réglages > Général > Informations – si votre numéro EID apparaît mais que la ligne ne s'affiche pas dans Cellulaire, redémarrez votre iPhone. Si cela ne fonctionne pas, allez dans Réglages > Cellulaire > Ajouter un eSIM – parfois le téléphone détecte le profil existant et le rajoute automatiquement.
+
+👉 **Prêt à voyager avec votre iPhone 11 ?** Obtenez un [eSIM USA](/united-states-esim/) ou un [eSIM Japon](/japan-esim/).
+
+---
+
+## Testez avec un eSIM gratuit
+
+Le moyen le plus fiable de confirmer que votre iPhone est prêt est d'installer un **eSIM d'essai gratuit**. Cela prend 2 minutes, ne coûte rien, et s'il s'active avec succès, votre téléphone est prêt à 100 %.
+
+👉 [**Obtenez votre eSIM d'essai Roami gratuit**](/free-esim/)
+
+---
+
+*Basé sur la documentation officielle Apple, les normes GSMA et les informations des opérateurs en septembre 2026.*
+## Sources
+
+- [GSMA — spécification eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)

@@ -1,22 +1,24 @@
 ---
-title: "Kompatibilitas eSIM Google Pixel: Panduan Lengkap"
+title: "Kompatibilitas eSIM Google Pixel: Pixel 2–10"
 h1_title: "Kompatibilitas eSIM Google Pixel: Panduan Lengkap untuk Pixel 2-10"
 description: "Google Pixel mana yang mendukung eSIM? Daftar lengkap Pixel 2–10. Termasuk verifikasi (*#06#), operator, pembatasan Jepang, dual eSIM, dan pemecahan masalah."
-keywords: ["google pixel esim compatible", "pixel 6 esim", "pixel 7 esim", "pixel 8 esim", "pixel esim travel", "pixel dual sim", "pixel esim support", "google fi esim compatible phones", "esim compatible phones", "pixel 9 esim", "pixel 4a esim", "pixel 5 esim"]
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+image: "/img/faq/google-pixel-6-esim.webp"
+image-1: "/img/faq/google-pixel-6-esim-1.jpg"
+keywords: ["google pixel esim kompatibel", "pixel 6 esim", "pixel 7 esim", "pixel 8 esim", "esim perjalanan pixel", "dual sim pixel", "dukungan esim pixel", "google fi ponsel kompatibel esim", "ponsel kompatibel esim", "pixel 9 esim", "pixel 4a esim", "pixel 5 esim"]
+date: 22026-09-15T00:00:00Z
+lastmod: 22026-09-15T00:00:00Z
 tags: ["Google Pixel", "eSIM", "Kompatibilitas", "Pixel 6", "Pixel 7", "Pixel 8", "Pixel 9", "Pixel 10"]
 toc: true
 
-# Situs & SEO
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# Terjemahan teks UI
+# UI text translations
 ui_text:
   updated_on: "Diperbarui pada"
-  min_read: "menit membaca"
+  min_read: "menit baca"
   toc: "Daftar Isi"
 
 breadcrumbs:
@@ -27,7 +29,7 @@ breadcrumbs:
     text: "Kompatibilitas eSIM"
     url: "/compatibility/"
 
-# Sidebar: eSIM Populer
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIM Populer"
   item_suffix: "eSIM"
@@ -57,13 +59,13 @@ sidebar_popular:
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "eSIM Cina"
+    - name: "eSIM Tiongkok"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
-# Sidebar: Penawaran eSIM Gratis
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Klaim eSIM Gratis"
   icon: "🎁"
@@ -83,7 +85,7 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Sidebar: Pertanyaan Populer
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Pertanyaan Populer"
   items:
@@ -91,235 +93,237 @@ sidebar_questions:
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Bagaimana cara mengaktifkan eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Bagaimana cara mengaktifkan eSIM di iPhone (Semua Model)?"
+    - question: "Cara mengaktifkan eSIM di iPhone (Semua Model)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Daftar Kompatibilitas eSIM Terbaru"
       url: "/compatibility/"
 ---
 
 
-> **Catatan Editor:** Roami adalah merek di balik panduan ini. Kami telah menguji aktivasi eSIM pada setiap model Pixel yang disebutkan di sini di 40+ negara dan 20+ operator. Panduan ini didasarkan pada pengujian dunia nyata – bukan hanya lembar spesifikasi. Tim dukungan kami telah membantu ribuan pengguna Pixel mengaktifkan profil SIM digital di seluruh dunia.
+> **Catatan Editor:** Google Pixel 6 dan Pixel 6 Pro mendukung eSIM, tetapi apakah Anda bisa menggunakannya bergantung pada wilayah dan operator Anda. Panduan ini mengikuti dokumentasi resmi Google dan standar GSMA, dan menguraikan nomor model persis Anda untuk memberikan ya atau tidak yang pasti. Periksa model Pixel Anda di bawah untuk memastikan dalam waktu kurang dari satu menit.
 
-## Pemeriksaan Cepat 10 Detik: Apakah Pixel ANDA Mendukung eSIM?
+Setiap Google Pixel dari Pixel 6 ke atas mendukung eSIM tanpa pembatasan regional; Pixel 3 hingga 5 memiliki dukungan terbatas, dan Pixel 2 tidak sama sekali. Pemeriksaan tercepat adalah menghubungi *#06# — EID 32 digit berarti Pixel Anda siap. Daftar lengkap Pixel 2–10, catatan kunci operator, dan langkah aktivasi mengikuti di bawah.
+
+## Apakah Model Pixel Anda Mendukung eSIM?
 
 **Temukan model Pixel Anda di bawah – jawaban instan.**
 
 | Model Pixel Anda | Dukungan eSIM? | Putusan Satu Baris |
 |------------------|---------------|------------------|
-| **Pixel 10 / 10 Pro / 10 Pro XL / 10 Pro Fold** | ✅ Ya | Dukungan penuh untuk profil SIM digital, tanpa batasan |
-| **Pixel 9 / 9 Pro / 9 Pro XL / 9 Pro Fold / 9a** | ✅ Ya | Dukungan penuh, tanpa batasan |
-| **Pixel 8 / 8 Pro / 8a** | ✅ Ya | Dukungan penuh, tanpa batasan |
-| **Pixel 7 / 7 Pro / 7a** | ✅ Ya | Dukungan penuh, tanpa batasan |
-| **Pixel 6 / 6 Pro / 6a** | ✅ Ya | Dukungan penuh, tanpa batasan (generasi terobosan) |
-| **Pixel 5 / 5a 5G** | ⚠️ Ya, TAPI... | Hanya berfungsi jika BUKAN varian operator Jepang |
-| **Pixel 4 / 4 XL / 4a / 4a 5G** | ⚠️ Ya, TAPI... | Hanya berfungsi jika BUKAN varian operator Jepang |
-| **Pixel 3 / 3 XL / 3a / 3a XL** | ⚠️ Ya, TAPI... | Hanya berfungsi jika BUKAN varian operator Jepang |
+| **Pixel 10 / 10 Pro / 10 Pro XL / 10 Pro Fold** | ✅ Ya | Dukungan penuh untuk profil SIM digital, tanpa pembatasan |
+| **Pixel 9 / 9 Pro / 9 Pro XL / 9 Pro Fold / 9a** | ✅ Ya | Dukungan penuh, tanpa pembatasan |
+| **Pixel 8 / 8 Pro / 8a** | ✅ Ya | Dukungan penuh, tanpa pembatasan |
+| **Pixel 7 / 7 Pro / 7a** | ✅ Ya | Dukungan penuh, tanpa pembatasan |
+| **Pixel 6 / 6 Pro / 6a** | ✅ Ya | Dukungan penuh, tanpa pembatasan (generasi terobosan) |
+| **Pixel 5 / 5a 5G** | ⚠️ Ya, TETAPI... | Hanya berfungsi jika BUKAN varian operator Jepang |
+| **Pixel 4 / 4 XL / 4a / 4a 5G** | ⚠️ Ya, TETAPI... | Hanya berfungsi jika BUKAN varian operator Jepang |
+| **Pixel 3 / 3 XL / 3a / 3a XL** | ⚠️ Ya, TETAPI... | Hanya berfungsi jika BUKAN varian operator Jepang |
 | **Pixel 2 / 2 XL** | ❌ Tidak | Tidak ada perangkat keras eSIM – hanya SIM fisik |
 | **Pixel 1 / 1 XL** | ❌ Tidak | Tidak ada perangkat keras eSIM – hanya SIM fisik |
 
-**Tidak yakin model mana yang Anda miliki?** Buka **Pengaturan > Tentang Ponsel > Nomor Model**. Kemudian cocokkan dengan tabel di atas.
+**Tidak yakin model apa yang Anda miliki?** Buka **Settings > About Phone > Model Number**. Lalu cocokkan dengan tabel di atas.
 
-**Masih tidak yakin apakah perangkat spesifik Anda terkunci Jepang?** Tekan `*#06#` – jika Anda melihat nomor **EID**, perangkat keras SIM tertanam tersedia. Jika hanya nomor IMEI yang muncul, fungsionalitas SIM digital dinonaktifkan.
+**Masih tidak yakin apakah perangkat spesifik Anda terkunci Jepang?** Hubungi `*#06#` – jika Anda melihat nomor **EID**, perangkat keras SIM tersemat tersedia. Jika hanya nomor IMEI yang muncul, fungsi SIM digital dinonaktifkan.
 
 
-## Jawaban cepat – model Pixel mana yang mendukung eSIM?
+## Model Pixel Mana yang Mendukung eSIM?
 
-**Mulai dari Pixel 3, sebagian besar ponsel Google Pixel mendukung eSIM – tetapi dengan pembatasan regional yang penting.**
+**Dimulai dari Pixel 3, sebagian besar ponsel Google Pixel mendukung eSIM – tetapi dengan pembatasan regional penting.**
 
-- **Seri Pixel 2:** ❌ Tidak ada dukungan eSIM
+- **Seri Pixel 2:** ❌ Tanpa dukungan eSIM
 - **Seri Pixel 3/4/5:** ✅ Ya (tetapi versi operator Jepang biasanya terkunci)
-- **Pixel 6 dan yang lebih baru:** ✅ Dukungan penuh, tanpa batasan regional
+- **Pixel 6 dan lebih baru:** ✅ Dukungan penuh, tanpa pembatasan regional
 
-Jika Anda mencari Pixel bekas khusus untuk perjalanan, **pilihan teraman adalah Pixel 6 atau yang lebih baru**. Jika Anda sudah memiliki Pixel 3/4/5 (non-Jepang), kemungkinan besar akan berfungsi.
+Jika Anda ingin membeli Pixel bekas khusus untuk perjalanan, **pilihan teraman adalah Pixel 6 atau lebih baru**. Jika Anda sudah memiliki Pixel 3/4/5 (non-Jepang), kemungkinan besar akan berfungsi.
 
-Halaman [dukungan resmi Google untuk eSIM di Pixel](https://support.google.com/pixelphone/answer/7086887) menyediakan detail kompatibilitas tambahan. Teknologi di balik profil SIM digital diatur oleh [standar GSMA SGP.22](https://www.gsma.com/esim/), memastikan interoperabilitas global di seluruh perangkat dan operator.
+[Halaman dukungan resmi Google untuk eSIM di Pixel](https://support.google.com/pixelphone/answer/7086887) memberikan detail kompatibilitas tambahan. Teknologi di balik profil SIM digital diatur oleh [standar GSMA SGP.22](https://www.gsma.com/esim/), memastikan interoperabilitas global di seluruh perangkat dan operator.
 
-Untuk daftar lengkap **ponsel yang kompatibel dengan eSIM** di semua merek, lihat **[daftar kompatibilitas lengkap](/compatibility/)** kami.
+Untuk daftar lengkap **ponsel kompatibel eSIM** di semua merek, lihat **[daftar kompatibilitas lengkap](/compatibility/)** kami.
 
 
-## BARU: Dekoder Nomor Model – Identifikasi Status eSIM Pixel Anda Secara Instan
+## Dekoder Nomor Model eSIM Pixel
 
-**Jangan menebak – dekode nomor model Anda untuk mengetahui secara pasti apa yang Anda hadapi.**
+**Jangan menduga – uraikan nomor model Anda untuk tahu persis apa yang Anda hadapi.**
 
-Nomor model Pixel Anda memberi tahu di mana ia dijual dan apakah kemungkinan memiliki batasan eSIM. Buka **Pengaturan > Tentang Ponsel > Nomor Model** dan cocokkan di bawah ini:
+Nomor model Pixel Anda memberi tahu Anda di mana ponsel itu dijual dan apakah kemungkinan memiliki pembatasan eSIM. Buka **Settings > About Phone > Model Number** dan cocokkan di bawah:
 
 | Nomor Model | Wilayah/Varian | Status eSIM | Catatan |
 |--------------|----------------|-------------|-------|
 | **G025E** | AS / Internasional (Pixel 6) | ✅ Penuh | Dukungan standar untuk profil SIM digital |
-| **G025H** | Jepang (Pixel 6) | ⚠️ Mungkin terbatas | Periksa dengan `*#06#` – beberapa varian operator terkunci |
+| **G025H** | Jepang (Pixel 6) | ⚠️ Mungkin dibatasi | Periksa dengan `*#06#` – beberapa varian operator terkunci |
 | **G025I** | AS / Kanada (Pixel 6) | ✅ Penuh | Dukungan standar |
-| **G8V0U** | AS (Verizon Pixel 6) | ✅ Penuh | Terkunci Verizon tetapi fitur berfungsi |
-| **G9S9B** | AS / Global (Pixel 7) | ✅ Penuh | Tidak ada batasan regional |
-| **GP4BC** | AS (Verizon Pixel 7) | ✅ Penuh | Berfungsi bahkan pada Verizon terkunci |
-| **GF5KQ** | Jepang (Pixel 7) | ⚠️ Mungkin terbatas | Periksa EID melalui `*#06#` |
-| **GQML3** | AS / Global (Pixel 8) | ✅ Penuh | Tidak ada batasan |
-| **GZPF0** | Jepang (Pixel 8) | ⚠️ Mungkin terbatas | Beberapa varian operator terkunci |
-| **GE2AE** | AS / Global (Pixel 9) | ✅ Penuh | Tidak ada batasan |
-| **GC3VE** | Jepang (Pixel 9) | ⚠️ Mungkin terbatas | Varian SoftBank/au mungkin menonaktifkan fitur |
-| **GVU6C** | AS / Global (Pixel 10) | ✅ Penuh | Tidak ada batasan |
+| **G8V0U** | AS (Verizon Pixel 6) | ✅ Penuh | Terkunci Verizon tetapi fiturnya berfungsi |
+| **G9S9B** | AS / Global (Pixel 7) | ✅ Penuh | Tanpa pembatasan regional |
+| **GP4BC** | AS (Verizon Pixel 7) | ✅ Penuh | Berfungsi bahkan di Verizon terkunci |
+| **GF5KQ** | Jepang (Pixel 7) | ⚠️ Mungkin dibatasi | Periksa EID via `*#06#` |
+| **GQML3** | AS / Global (Pixel 8) | ✅ Penuh | Tanpa pembatasan |
+| **GZPF0** | Jepang (Pixel 8) | ⚠️ Mungkin dibatasi | Beberapa varian operator terkunci |
+| **GE2AE** | AS / Global (Pixel 9) | ✅ Penuh | Tanpa pembatasan |
+| **GC3VE** | Jepang (Pixel 9) | ⚠️ Mungkin dibatasi | Varian SoftBank/au mungkin menonaktifkan fitur |
+| **GVU6C** | AS / Global (Pixel 10) | ✅ Penuh | Tanpa pembatasan |
 
-> **Aturan praktis:** Jika nomor model Anda diakhiri dengan **E** atau **I** (AS/Global), Anda aman. Jika diakhiri dengan **H**, **K**, atau **Q** (Jepang) – periksa EID melalui `*#06#` sebelum berasumsi fitur berfungsi.
+> **Patokan praktis:** Jika nomor model Anda berakhiran **E** atau **I** (AS/Global), Anda aman. Jika berakhiran **H**, **K**, atau **Q** (Jepang) – periksa EID via `*#06#` sebelum mengasumsikan fiturnya berfungsi.
 
-**Cara menemukan nomor model pada Pixel bekas (sebelum membeli):**
-- Minta penjual untuk membuka **Pengaturan > Tentang Ponsel > Nomor Model** dan kirim tangkapan layar.
-- ATAU: Minta penjual untuk menekan `*#06#` dan kirim tangkapan layar yang menunjukkan EID.
-- **Jangan pernah membeli Pixel Jepang untuk perjalanan kecuali penjual mengonfirmasi EID ada.**
+**Cara menemukan nomor model di Pixel bekas (sebelum membeli):**
+- Minta penjual membuka **Settings > About Phone > Model Number** dan mengirim tangkapan layar.
+- ATAU: Minta penjual menghubungi `*#06#` dan mengirim tangkapan layar yang menunjukkan EID.
+- **Jangan pernah membeli Pixel Jepang untuk perjalanan kecuali penjual mengonfirmasi EID tersedia.**
 
 
-## Tabel kompatibilitas eSIM lengkap – Pixel 2 hingga Pixel 10
+## Tabel Kompatibilitas eSIM Pixel Lengkap
 
 | Model Pixel | Dukungan eSIM | Dual SIM (Fisik + eSIM) | Batas Penyimpanan eSIM | Waktu Koneksi Pertama | Catatan |
 |-------------|--------------|----------------------------|--------------------|-----------------------|-------|
-| Pixel 10, 10 Pro, 10 Pro XL, 10 Pro Fold | ✅ Ya | Ya | Hingga 10 profil | 1-2 mnt | Dukungan penuh, tanpa batasan regional |
-| Pixel 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a | ✅ Ya | Ya | Hingga 10 profil | 1-2 mnt | Dukungan penuh, tanpa batasan regional |
-| Pixel 8, 8 Pro, 8a | ✅ Ya | Ya | Hingga 10 profil | 1-2 mnt | Dukungan penuh, tanpa batasan regional |
-| Pixel 7, 7 Pro, 7a | ✅ Ya | Ya | Hingga 10 profil | 1-3 mnt | Dukungan penuh, tanpa batasan regional |
-| Pixel 6, 6 Pro, 6a | ✅ Ya | Ya | Hingga 5-8 profil | 2-3 mnt | Dukungan penuh, tanpa batasan regional |
-| Pixel 5, 5a 5G | ✅ Ya | Ya | Hingga 5 profil | 2-4 mnt | **Varian operator Jepang dapat mengunci fitur** |
-| Pixel 4, 4 XL | ✅ Ya | Ya | Hingga 5 profil | 2-4 mnt | **Varian operator Jepang dapat mengunci fitur** |
-| Pixel 4a, 4a 5G | ✅ Ya | Ya | Hingga 5 profil | 2-4 mnt | **Varian operator Jepang dapat mengunci fitur** |
-| Pixel 3, 3 XL | ✅ Ya | Ya | Hingga 5 profil | 3-5 mnt | **Varian operator Jepang dapat mengunci fitur** |
-| Pixel 3a, 3a XL | ✅ Ya | Ya | Hingga 5 profil | 3-5 mnt | **Varian operator Jepang dapat mengunci fitur** |
+| Pixel 10, 10 Pro, 10 Pro XL, 10 Pro Fold | ✅ Ya | Ya | Hingga 10 profil | 1-2 mnt | Dukungan penuh, tanpa batas regional |
+| Pixel 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a | ✅ Ya | Ya | Hingga 10 profil | 1-2 mnt | Dukungan penuh, tanpa batas regional |
+| Pixel 8, 8 Pro, 8a | ✅ Ya | Ya | Hingga 10 profil | 1-2 mnt | Dukungan penuh, tanpa batas regional |
+| Pixel 7, 7 Pro, 7a | ✅ Ya | Ya | Hingga 10 profil | 1-3 mnt | Dukungan penuh, tanpa batas regional |
+| Pixel 6, 6 Pro, 6a | ✅ Ya | Ya | Hingga 5-8 profil | 2-3 mnt | Dukungan penuh, tanpa batas regional |
+| Pixel 5, 5a 5G | ✅ Ya | Ya | Hingga 5 profil | 2-4 mnt | **Varian operator Jepang mungkin mengunci fiturnya** |
+| Pixel 4, 4 XL | ✅ Ya | Ya | Hingga 5 profil | 2-4 mnt | **Varian operator Jepang mungkin mengunci fiturnya** |
+| Pixel 4a, 4a 5G | ✅ Ya | Ya | Hingga 5 profil | 2-4 mnt | **Varian operator Jepang mungkin mengunci fiturnya** |
+| Pixel 3, 3 XL | ✅ Ya | Ya | Hingga 5 profil | 3-5 mnt | **Varian operator Jepang mungkin mengunci fiturnya** |
+| Pixel 3a, 3a XL | ✅ Ya | Ya | Hingga 5 profil | 3-5 mnt | **Varian operator Jepang mungkin mengunci fiturnya** |
 | Pixel 2, 2 XL | ❌ Tidak | Tidak | N/A | N/A | Tidak ada perangkat keras eSIM |
 | Pixel 1, 1 XL | ❌ Tidak | Tidak | N/A | N/A | Tidak ada perangkat keras eSIM |
 
-> **Apa arti "varian operator Jepang"?** Ponsel yang dijual oleh SoftBank, au (KDDI), dan operator Jepang lainnya sering menonaktifkan fitur SIM digital di tingkat firmware. Bahkan Pixel 6 dan model yang lebih baru dapat terkunci jika dibeli sebagai perangkat kontrak operator di Jepang. **Versi internasional, AS, dan Eropa tidak memiliki batasan semacam itu.**
+> **Apa maksud "varian operator Jepang"?** Ponsel yang dijual oleh SoftBank, au (KDDI), dan operator Jepang lainnya sering memiliki fitur SIM digital dinonaktifkan di tingkat firmware. Bahkan Pixel 6 dan yang lebih baru bisa terkunci jika dibeli sebagai perangkat berkontrak operator di Jepang. **Versi internasional, AS, dan Eropa tidak memiliki pembatasan semacam itu.**
 
-> **Apa itu "Waktu Koneksi Pertama"?** Ini adalah waktu yang biasanya dibutuhkan Pixel Anda untuk terhubung ke jaringan seluler setelah Anda menginstal dan mengaktifkan profil eSIM. Jika ponsel Anda memakan waktu lebih lama dari ini, coba alihkan Mode Pesawat atau restart perangkat – lihat bagian pemecahan masalah di bawah.
+> **Apa itu "Waktu Koneksi Pertama"?** Ini adalah berapa lama Pixel Anda biasanya membutuhkan waktu untuk terhubung ke jaringan seluler setelah Anda menginstal dan mengaktifkan profil eSIM. Jika ponsel Anda lebih lama dari itu, coba nyalakan-matikan Mode Pesawat atau restart perangkat – lihat bagian pemecahan masalah di bawah.
 
 
-## Anggaran vs. Terbaik – Pixel Mana yang Harus Dibeli untuk Perjalanan eSIM di 2026
+## Pixel Mana yang Harus Dibeli untuk Perjalanan eSIM
 
-**Anda menginginkan Pixel untuk perjalanan. Berapa banyak yang harus Anda keluarkan?**
+**Anda menginginkan Pixel untuk perjalanan. Berapa yang harus Anda belanjakan?** Setelah Anda memilih tingkatan, [panduan paket eSIM perjalanan](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) menunjukkan apa yang perlu diinstal sebelum keberangkatan. 
 
 | Anggaran | Model Pixel Terbaik | Mengapa | Perkiraan Harga Bekas (2026) |
 |--------|------------------|-----|---------------------------|
-| **<$100** | Pixel 5 (non-Jepang) | Fitur berfungsi, baterai bagus, ringkas, tidak perlu 5G untuk perjalanan | ~$80-100 |
-| **$100-150** | Pixel 6a | Dukungan penuh untuk profil SIM digital, 5G, baterai lebih baik daripada Pixel 5, dukungan pembaruan lebih lama | ~$120-150 |
-| **$150-250** | Pixel 7 | Dual eSIM (dua profil aktif), kamera lebih baik, prosesor lebih cepat | ~$180-230 |
-| **$250-350** | Pixel 8 | Dual eSIM, pembaruan 7 tahun, fitur AI terbaik, baterai lebih baik | ~$280-340 |
+| **<$100** | Pixel 5 (non-Jepang) | Fiturnya berfungsi, baterai bagus, ringkas, tidak butuh 5G untuk perjalanan | ~$80-100 |
+| **$100-150** | Pixel 6a | Dukungan penuh untuk profil SIM digital, 5G, baterai lebih baik dari Pixel 5, dukungan pembaruan lebih lama | ~$120-150 |
+| **$150-250** | Pixel 7 | Dukungan dual eSIM (dua profil aktif), kamera lebih baik, prosesor lebih cepat | ~$180-230 |
+| **$250-350** | Pixel 8 | Dual eSIM, 7 tahun pembaruan, fitur AI terbaik, baterai lebih baik | ~$280-340 |
 | **$350+** | Pixel 9 atau 10 | Perangkat keras terbaru, pembaruan terlama, kamera terbaik | $400+ |
 
-**Putusan: Nilai terbaik untuk sebagian besar wisatawan = Pixel 6a**
+**Putusan: Nilai terbaik untuk sebagian besar pelancong = Pixel 6a**
 
-- ✅ Dukungan penuh untuk profil SIM digital (tanpa batasan regional)
+- ✅ Dukungan penuh untuk profil SIM digital (tanpa pembatasan regional)
 - ✅ Siap 5G
 - ✅ Daya tahan baterai sangat baik
 - ✅ Terjangkau ($120-150 bekas)
 - ✅ Satu SIM fisik + satu eSIM secara bersamaan
-- ⚠️ TIDAK mendukung dual eSIM (dua eSIM aktif) – hanya Pixel 7+ yang mendukung itu
+- ⚠️ TIDAK mendukung dual eSIM (dua eSIM aktif) – hanya Pixel 7+ yang mendukungnya
 
-**Pilih Pixel 7+ jika Anda memerlukan dual eSIM** (mis., bepergian ke beberapa negara dan ingin menjaga dua profil SIM digital tetap aktif secara bersamaan).
+**Pilih Pixel 7+ jika Anda membutuhkan dual eSIM** (mis., bepergian melintasi banyak negara dan ingin menjaga dua profil SIM digital aktif secara bersamaan).
 
-**Hindari:** Pixel 2 (tidak ada perangkat keras), varian Jepang Pixel 3/4/5 (fitur terkunci), Pixel mana pun di mana penjual tidak dapat mengonfirmasi EID.
+**Hindari:** Pixel 2 (tanpa perangkat keras), varian Jepang Pixel 3/4/5 (fitur terkunci), Pixel mana pun yang penjualnya tidak bisa mengonfirmasi EID.
 
 
-## Status kunci eSIM regional berdasarkan operator (pembahasan mendalam)
+## Status Kunci eSIM Regional Berdasarkan Operator
 
-Tidak semua ponsel Pixel sama dalam hal ketersediaan SIM digital – kebijakan operator dan firmware regional memainkan peran besar. Berikut rinciannya berdasarkan wilayah dan operator.
+Tidak semua ponsel Pixel setara ketika menyangkut ketersediaan SIM digital – kebijakan operator dan firmware regional memainkan peran besar. Berikut rinciannya berdasarkan wilayah dan operator.
 
-### Jepang (SoftBank, au/KDDI, NTT Docomo)
+### Kunci eSIM Jepang oleh SoftBank, au, KDDI, dan NTT Docomo
 
 **Status:** Sebagian besar varian operator Jepang memiliki eSIM **dinonaktifkan di tingkat firmware**.
 
-- **SoftBank dan au (KDDI):** Secara historis, kedua operator menonaktifkan fitur ini pada semua perangkat Android yang mereka jual, termasuk Pixel. Ini bukan kunci SIM – ini adalah batasan firmware permanen. Bahkan setelah membuka kunci SIM untuk penggunaan internasional, fungsionalitas SIM digital tetap tidak dapat diakses.
-- **NTT Docomo:** Docomo lebih ramah eSIM pada iPhone, tetapi perangkat Android (termasuk Pixel) biasanya juga menonaktifkan fitur ini.
-- **Cara mengidentifikasi Pixel operator Jepang:** Periksa layar boot untuk logo operator, atau cari aplikasi khusus operator yang sudah terinstal. Nomor model juga dapat diakhiri dengan sufiks khusus wilayah.
+- **SoftBank dan au (KDDI):** Secara historis, kedua operator menonaktifkan fitur ini di semua perangkat Android yang mereka jual, termasuk Pixel. Ini bukan kunci SIM – ini pembatasan firmware permanen. Bahkan setelah membuka kunci SIM untuk penggunaan internasional, fungsi SIM digital tetap tidak dapat diakses.
+- **NTT Docomo:** Docomo lebih ramah eSIM pada iPhone, tetapi perangkat Android (termasuk Pixel) biasanya juga memiliki fitur ini dinonaktifkan.
+- **Cara mengidentifikasi Pixel operator Jepang:** Periksa layar boot untuk logo operator, atau cari aplikasi khusus operator yang terinstal bawaan. Nomor modelnya juga mungkin berakhiran sufiks khusus wilayah.
 
-**Solusi:** Tidak ada. Anda tidak dapat mengaktifkan kembali fitur ini pada perangkat ini. Jika Anda membutuhkannya, Anda harus membeli versi internasional (langsung dari Google Store) atau perangkat bekas yang awalnya dijual di luar Jepang.
+**Solusi alternatif:** Tidak ada. Anda tidak dapat mengaktifkan kembali fitur ini di perangkat-perangkat ini. Jika Anda membutuhkannya, Anda harus membeli versi internasional (langsung dari Google Store) atau perangkat bekas yang aslinya dijual di luar Jepang.
 
-### Saya Memiliki Pixel Jepang – Apa Pilihan Saya?
+### Apa Pilihan Saya dengan Pixel Jepang?
 
-**Masalah:** Anda sudah memiliki Pixel Jepang (SoftBank/au) dan baru mengetahui bahwa fitur SIM digital dinonaktifkan.
+**Masalah:** Anda sudah memiliki Pixel Jepang (SoftBank/au) dan baru saja mengetahui fitur SIM digitalnya dinonaktifkan.
 
 **Opsi 1: Gunakan SIM fisik sebagai gantinya**
-- Jika Pixel Anda memiliki baki SIM fisik (semua Pixel Jepang memilikinya), beli saja SIM perjalanan fisik.
+- Jika Pixel Anda memiliki baki SIM fisik (semua Pixel Jepang punya), cukup beli SIM perjalanan fisik.
 - Untuk perjalanan multi-negara, Anda perlu mengganti SIM fisik (kurang nyaman tetapi berfungsi).
 
 **Opsi 2: Jual dan beli Pixel internasional**
-- Pixel Jepang dengan fitur dinonaktifkan masih berfungsi sempurna dengan SIM fisik – tidak rusak.
-- Jual di eBay/Mercari (jujur tentang batasannya) dan beli Pixel 6a/7 bekas versi internasional.
+- Pixel Jepang dengan fitur yang dinonaktifkan tetap bekerja sempurna dengan SIM fisik – ponselnya tidak rusak.
+- Jual di eBay/Mercari (jujur tentang keterbatasannya) dan beli Pixel 6a/7 bekas versi internasional.
 
-**Opsi 3: Pertahankan sebagai perangkat cadangan**
-- Gunakan sebagai perangkat media hanya Wi‑Fi atau ponsel cadangan.
+**Opsi 3: Simpan sebagai perangkat cadangan**
+- Gunakan sebagai perangkat media khusus Wi‑Fi atau ponsel cadangan.
 - Beli Pixel internasional terpisah untuk perjalanan.
 
-**Apa yang TIDAK boleh dilakukan:**
-- ❌ Jangan mencoba mem-flash firmware internasional – ini TIDAK akan mengaktifkan kembali fitur tersebut (batasannya ada di baseband, bukan OS).
-- ❌ Jangan bayar siapa pun yang mengklaim dapat "membuka kunci" pada Pixel Jepang – ini adalah batasan tingkat perangkat keras.
-- ❌ Jangan membeli layanan "buka kunci SIM" dengan harapan fitur SIM digital akan berfungsi – buka kunci SIM dan aktivasi eSIM adalah hal yang sangat berbeda.
+**Yang TIDAK boleh dilakukan:**
+- ❌ Jangan mencoba mem-flash firmware internasional – ini TIDAK mengaktifkan kembali fiturnya (pembatasannya ada di baseband, bukan di OS).
+- ❌ Jangan bayar siapa pun yang mengklaim bisa "membuka kunci" di Pixel Jepang – itu pembatasan tingkat perangkat keras.
+- ❌ Jangan membeli layanan "SIM unlock" dengan berharap fitur SIM digital berfungsi – pembukaan kunci SIM dan pengaktifan eSIM adalah dua hal yang sepenuhnya berbeda.
 
-### Kunci Operator vs. Kunci Fungsi eSIM – Dua Hal Berbeda
+### Kunci Operator vs Kunci Fungsi eSIM
 
-Ini adalah titik kebingungan umum. Mari kita perjelas:
+Ini adalah titik kebingungan yang umum. Mari kita perjelas:
 
-| Jenis Kunci | Arti | Dapat Diperbaiki? | Dampak pada SIM Digital |
+| Jenis Kunci | Artinya | Bisakah Diperbaiki? | Dampak pada SIM Digital |
 |--------------|---------------|------------------|----------------------|
-| **Kunci Operator SIM** | Ponsel hanya dapat menggunakan SIM dari satu operator (mis., AT&T) | ✅ Ya – minta buka kunci setelah lunas | Setelah dibuka, berfungsi dengan operator mana pun |
-| **Kunci Fungsi eSIM** | Perangkat keras eSIM dinonaktifkan di tingkat firmware (Pixel Jepang) | ❌ Tidak – permanen | Tidak pernah berfungsi, bahkan setelah buka kunci SIM |
-| **Blokir eSIM Regional** | Batasan khusus operator (mis., beberapa model AT&T) | ⚠️ Terkadang – mungkin memerlukan intervensi operator | Profil tertentu mungkin diblokir |
+| **Kunci Operator SIM** | Ponsel hanya bisa menggunakan SIM dari satu operator (mis., AT&T) | ✅ Ya – minta pembukaan kunci setelah lunas | Setelah dibuka kuncinya, bekerja dengan operator mana pun |
+| **Kunci Fungsi eSIM** | Perangkat keras eSIM dinonaktifkan di tingkat firmware (Pixel Jepang) | ❌ Tidak – permanen | Tidak pernah berfungsi, bahkan setelah pembukaan kunci SIM |
+| **Blokir eSIM Regional** | Pembatasan khusus operator (mis., beberapa model AT&T) | ⚠️ Kadang-kadang – mungkin membutuhkan intervensi operator | Profil tertentu mungkin diblokir |
 
-**Kesimpulan utama:** Pixel Jepang yang sudah dibuka kunci SIM tetap TERKUNCI eSIM. Kedua kunci itu independen. Selalu periksa EID (`*#06#`) – jika tidak ada EID, fitur tersebut dinonaktifkan secara permanen.
+**Kesimpulan penting:** Pixel Jepang yang SIM-nya sudah dibuka kuncinya TETAP terkunci eSIM. Dua kunci ini independen. Selalu periksa EID (`*#06#`) – jika tidak ada EID, fiturnya dinonaktifkan permanen.
 
-### AS (Verizon, AT&T, T-Mobile, dan tidak terkunci)
+### Kunci eSIM AS oleh Verizon, AT&T, dan T-Mobile
 
-**Status:** Pixel yang terkunci operator bervariasi; Pixel yang tidak terkunci memiliki akses penuh.
+**Status:** Pixel terkunci operator bervariasi; Pixel tidak terkunci memiliki akses penuh.
 
-- **Verizon (terkunci):** Verizon mengizinkan fitur ini pada Pixel terkunci mereka (Pixel 4 dan yang lebih baru). Anda dapat menggunakan eSIM perjalanan bersama SIM fisik Verizon tanpa menghubungi Verizon. Namun, mengaktifkan profil kedua di jaringan Verizon sendiri mungkin memerlukan aplikasi atau layanan pelanggan mereka.
-- **AT&T (terkunci):** Kebijakan AT&T lebih restriktif. Beberapa Pixel terkunci AT&T (terutama model yang lebih lama) dapat memblokir profil non-AT&T. Untuk perjalanan, Pixel yang tidak terkunci sangat disarankan.
-- **T‑Mobile (terkunci):** T‑Mobile umumnya mengizinkan fitur ini pada Pixel terkunci mereka, meskipun perangkat harus lunas dan dibuka kunci SIM untuk beberapa fitur.
-- **Tidak terkunci pabrik (langsung dari Google atau pengecer seperti Best Buy):** Dukungan penuh, tanpa batasan apa pun. Ini adalah opsi terbaik untuk wisatawan internasional.
+- **Verizon (terkunci):** Verizon mengizinkan fitur ini pada Pixel terkuncinya (Pixel 4 dan lebih baru). Anda bisa menggunakan eSIM perjalanan di samping SIM fisik Verizon tanpa menghubungi Verizon. Namun, mengaktifkan profil kedua di jaringan Verizon sendiri mungkin membutuhkan aplikasi mereka atau layanan pelanggan.
+- **AT&T (terkunci):** Kebijakan AT&T lebih ketat. Beberapa Pixel terkunci AT&T (terutama model lama) mungkin memblokir profil non-AT&T. Untuk perjalanan, Pixel tidak terkunci sangat direkomendasikan.
+- **T‑Mobile (terkunci):** T‑Mobile umumnya mengizinkan fitur ini pada Pixel terkuncinya, meskipun perangkat harus lunas dan SIM-nya dibuka kunci untuk beberapa fitur.
+- **Factory unlocked (langsung dari Google atau pengecer seperti Best Buy):** Dukungan penuh, tanpa pembatasan apa pun. Ini adalah opsi terbaik untuk pelancong internasional.
 
-### Eropa (UE)
+### Status Kunci eSIM di Eropa
 
 **Status:** Hampir semua Pixel yang dijual di UE sepenuhnya kompatibel.
 
-- Peraturan UE mengharuskan operator untuk mengizinkan pembukaan kunci perangkat dan tidak mewajibkan penonaktifan fitur ini. Sebagian besar Pixel Eropa dijual dalam keadaan tidak terkunci SIM secara hukum.
-- Satu-satunya pengecualian potensial adalah perangkat kontrak operator dari penyedia regional yang lebih kecil (mis., beberapa operator Jerman atau Prancis). Bahkan kemudian, fitur ini jarang dinonaktifkan.
+- Regulasi UE mewajibkan operator mengizinkan pembukaan kunci perangkat dan tidak mewajibkan penonaktifan fitur. Sebagian besar Pixel Eropa dijual tanpa kunci SIM berdasarkan hukum.
+- Satu-satunya pengecualian potensial adalah perangkat berkontrak operator dari penyedia regional yang lebih kecil (mis., beberapa operator Jerman atau Prancis). Bahkan begitu, fiturnya jarang dinonaktifkan.
 
-### China
+### Status Kunci eSIM di Tiongkok
 
-**Status:** Pixel tidak dijual secara resmi di China daratan, sehingga hampir semua Pixel di China adalah versi internasional impor. Ini tetap mempertahankan dukungan penuh.
+**Status:** Pixel tidak dijual resmi di Tiongkok daratan, sehingga hampir semua Pixel di Tiongkok adalah versi internasional impor. Mereka mempertahankan dukungan penuh.
 
-- Namun, operator domestik China (China Mobile, China Unicom, China Telecom) **tidak menawarkan eSIM kepada turis atau non-penduduk**. Anda tidak dapat membeli paket SIM digital lokal China tanpa KTP China dan kontrak jangka panjang.
-- Untuk perjalanan di China, Anda harus menggunakan penyedia perjalanan internasional (yang berfungsi sempurna di Pixel, menggunakan perjanjian roaming dengan operator di luar China).
+- Namun, operator domestik Tiongkok (China Mobile, China Unicom, China Telecom) **tidak menawarkan eSIM kepada wisatawan atau non-penduduk**. Anda tidak bisa membeli paket SIM digital lokal Tiongkok tanpa ID Tiongkok dan kontrak jangka panjang.
+- Untuk perjalanan di Tiongkok, Anda harus menggunakan penyedia perjalanan internasional (yang bekerja sempurna di Pixel, menggunakan perjanjian roaming dengan operator di luar Tiongkok).
 
-### India
+### Status Kunci eSIM di India
 
-**Status:** Pixel yang dijual di India (melalui Flipkart, Google Store) sepenuhnya kompatibel dan tidak terkunci SIM.
+**Status:** Pixel yang dijual di India (via Flipkart, Google Store) sepenuhnya kompatibel dan tanpa kunci SIM.
 
-- Operator India seperti Jio dan Airtel menawarkan konversi eSIM untuk pelanggan pascabayar. Prosesnya memerlukan kunjungan ke toko untuk verifikasi langsung (tidak ada aktivasi jarak jauh untuk orang asing).
+- Operator India seperti Jio dan Airtel menawarkan konversi eSIM untuk pelanggan pascabayar. Prosesnya membutuhkan kunjungan ke toko untuk verifikasi langsung (tanpa aktivasi jarak jauh untuk orang asing).
 
-### Australia & Kanada
+### Status Kunci eSIM di Australia dan Kanada
 
-**Status:** Pixel yang tidak terkunci dari Google atau pengecer utama (JB Hi-Fi, Amazon AU, Best Buy CA) mendukung fitur ini sepenuhnya. Perangkat yang terkunci operator dari Telstra, Optus, Rogers, Bell mungkin memiliki batasan – periksa dengan operator Anda.
+**Status:** Pixel tanpa kunci dari Google atau pengecer besar (JB Hi-Fi, Amazon AU, Best Buy CA) mendukung fitur ini sepenuhnya. Perangkat terkunci operator dari Telstra, Optus, Rogers, Bell mungkin memiliki pembatasan – konfirmasi dengan operator Anda.
 
 
-## Dukungan dual eSIM pada Pixel 7 dan yang lebih baru
+## Dukungan Dual eSIM di Pixel 7 dan lebih baru
 
-Mulai dari **Android 13** dan **seri Pixel 7**, Google memperkenalkan kemampuan untuk memiliki **dua eSIM aktif secara bersamaan** – tanpa memerlukan kartu SIM fisik.
+Dimulai dari **Android 13** dan **seri Pixel 7**, Google memperkenalkan kemampuan untuk memiliki **dua eSIM aktif secara bersamaan** – tanpa kartu SIM fisik. Pengguna iPhone yang berjuang dengan penyiapan dua lini memiliki referensi paralel: [daftar perbaikan dual eSIM kami untuk iOS](/faq/dual-esim-not-working-12-fixes-for-iphone/). 
 
-### Cara Mengaktifkan Dual eSIM pada Pixel 7/8/9/10
+### Cara Mengaktifkan Dual eSIM di Pixel
 
 1. Pastikan Anda memiliki setidaknya dua profil eSIM yang diunduh (tersimpan di perangkat).
-2. Buka **Pengaturan > Jaringan & Internet > SIM**.
+2. Buka **Settings > Network & Internet > SIMs**.
 3. Ketuk eSIM pertama dan atur sebagai aktif.
 4. Ketuk eSIM kedua dan atur juga sebagai aktif.
-5. Jika opsi berwarna abu-abu, Anda mungkin perlu menonaktifkan slot SIM fisik terlebih dahulu (jika SIM fisik dimasukkan).
+5. Jika opsinya berwarna abu-abu, Anda mungkin perlu menonaktifkan slot SIM fisik terlebih dahulu (jika SIM fisik terpasang).
 
-**Catatan:** Dual eSIM hanya berfungsi ketika tidak ada SIM fisik yang dimasukkan, atau slot SIM fisik dimatikan (Pengaturan > Jaringan & Internet > SIM Fisik > Matikan).
+**Catatan:** Dual eSIM hanya bekerja ketika tidak ada SIM fisik terpasang, atau slot SIM fisik dimatikan (Settings > Network & Internet > Physical SIM > Turn off).
 
-### Keterbatasan Dual eSIM pada Pixel
+### Keterbatasan Dual eSIM di Pixel
 
-- **Tidak semua operator mendukung dual eSIM:** Profil beberapa operator tidak dirancang untuk bekerja bersama dengan profil aktif lainnya. Anda mungkin melihat error "profil eSIM tidak didukung".
-- **Dampak baterai:** Menjaga dua SIM digital tetap aktif menggunakan daya sedikit lebih banyak daripada satu SIM, tetapi perbedaannya biasanya dapat diabaikan (1-3% per hari).
-- **Hanya DSDS (Dual SIM Dual Standby):** Kedua profil dapat menerima panggilan dan SMS, tetapi ketika satu sedang aktif menggunakan data, yang lain mungkin tidak menerima data secara bersamaan. Ini adalah perilaku standar untuk semua ponsel dual-SIM.
+- **Tidak semua operator mendukung dual eSIM:** Profil beberapa operator tidak dirancang untuk bekerja di samping profil aktif lain. Anda mungkin melihat error "eSIM profile not supported".
+- **Dampak baterai:** Menjaga dua SIM digital aktif menggunakan daya sedikit lebih banyak daripada satu SIM, tetapi selisihnya biasanya dapat diabaikan (1-3% per hari).
+- **Hanya DSDS (Dual SIM Dual Standby):** Kedua profil dapat menerima panggilan dan pesan, tetapi ketika satu sedang aktif menggunakan data, yang lain mungkin tidak menerima data secara bersamaan. Ini adalah perilaku standar untuk semua ponsel dual-SIM.
 
-### Kasus Penggunaan Dual eSIM pada Pixel
+### Kasus Penggunaan Dual eSIM di Pixel
 
-- **Bepergian ke beberapa negara:** Pertahankan eSIM Eropa tetap aktif sementara juga memiliki eSIM Jepang yang siap (cukup alihkan data di antara keduanya).
-- **Kerja dan pribadi dalam satu perangkat tanpa SIM fisik:** Gunakan dua operator atau nomor berbeda, keduanya melalui eSIM.
-- **Menguji penyedia baru tanpa menghapus eSIM utama Anda:** Unduh profil uji coba dari operator baru dan aktifkan bersama profil utama Anda – tanpa perlu mengganti.
+- **Bepergian melintasi banyak negara:** Jaga eSIM Eropa tetap aktif sambil juga menyiapkan eSIM Jepang (cukup alihkan data di antara keduanya).
+- **Kerja dan pribadi dalam satu perangkat tanpa SIM fisik:** Gunakan dua operator atau nomor berbeda, keduanya via eSIM.
+- **Menguji penyedia baru tanpa menghapus eSIM utama Anda:** Unduh profil uji coba dari operator baru dan aktifkan di samping profil utama Anda – tanpa perlu bertukar.
 
 ### Model Pixel Mana yang Mendukung Dual eSIM?
 
@@ -328,298 +332,298 @@ Mulai dari **Android 13** dan **seri Pixel 7**, Google memperkenalkan kemampuan 
 | Seri Pixel 10 | ✅ Ya |
 | Seri Pixel 9 | ✅ Ya |
 | Seri Pixel 8 | ✅ Ya |
-| Seri Pixel 7 | ✅ Ya (memerlukan Android 13+) |
-| Seri Pixel 6 | ❌ Tidak (hanya satu eSIM aktif dalam satu waktu) |
-| Pixel 5 dan yang lebih lama | ❌ Tidak |
+| Seri Pixel 7 | ✅ Ya (membutuhkan Android 13+) |
+| Seri Pixel 6 | ❌ Tidak (hanya satu eSIM aktif pada satu waktu) |
+| Pixel 5 dan lebih lama | ❌ Tidak |
 
 
-## Cara mentransfer eSIM dari Pixel lama ke Pixel baru – langkah demi langkah
+## Cara Memindahkan eSIM dari Pixel Lama ke Pixel Baru
 
-Meningkat ke Pixel baru? Anda tidak ingin kehilangan profil eSIM aktif Anda. Berikut cara mentransfernya dengan aman.
+Upgrade ke Pixel baru? Anda tidak ingin kehilangan profil eSIM aktif Anda. Berikut cara memindahkannya dengan aman.
 
-### Metode 1: Menggunakan Aplikasi Operator (Paling Mudah)
+### Menggunakan Aplikasi Operator
 
-Banyak penyedia modern (terutama eSIM perjalanan) mengizinkan Anda mengunduh ulang profil di perangkat baru menggunakan aplikasi mereka.
+Banyak penyedia modern (terutama eSIM perjalanan) memungkinkan Anda mengunduh ulang profil di perangkat baru menggunakan aplikasi mereka.
 
-- **Google Fi:** Buka aplikasi Fi di Pixel baru Anda, masuk, dan ikuti petunjuk "Aktifkan di perangkat ini". Profil akan ditransfer secara otomatis.
-- **Visible:** Instal aplikasi Visible di ponsel baru, masuk, dan buka Akun > Perangkat > Aktifkan eSIM. Profil lama akan dinonaktifkan dari jarak jauh.
-- **US Mobile:** Gunakan aplikasi US Mobile untuk "Tukar eSIM" ke perangkat baru.
-- **Airalo, Holafly, Nomad:** Sebagian besar paket perjalanan hanya instalasi sekali. Anda tidak dapat mentransfernya – Anda perlu membeli paket baru jika sudah menggunakan data. Namun, jika profil masih belum digunakan, Anda dapat memindai ulang kode QR di Pixel baru.
+- **Google Fi:** Buka aplikasi Fi di Pixel baru Anda, masuk, dan ikuti petunjuk "Activate on this device". Profil akan berpindah secara otomatis.
+- **Visible:** Instal aplikasi Visible di ponsel baru, masuk, dan buka Account > Device > Activate eSIM. Profil lama akan dinonaktifkan dari jarak jauh.
+- **US Mobile:** Gunakan aplikasi US Mobile untuk "Swap eSIM" ke perangkat baru.
+- **Airalo, Holafly, Nomad:** Sebagian besar paket perjalanan hanya bisa diinstal sekali. Anda tidak bisa memindahkannya – Anda perlu membeli paket baru jika data sudah terpakai. Namun, jika profilnya masih belum dipakai, Anda bisa memindai ulang kode QR di Pixel baru.
 
-### Metode 2: Menggunakan "Salin eSIM" Bawaan Android (Android 13+)
+### Menggunakan Salin eSIM Bawaan Android
 
 **Perhatian:** Fitur ini bergantung pada operator dan tidak didukung secara universal.
 
 Di Pixel lama Anda (jika menjalankan Android 13+):
 
-1. Buka **Pengaturan > Jaringan & Internet > SIM**.
-2. Ketuk eSIM yang ingin Anda transfer.
-3. Cari opsi seperti **"Salin eSIM ke perangkat lain"** atau **"Transfer"**.
-4. Ikuti petunjuk di layar – Anda biasanya perlu memindai kode QR dari Pixel baru.
+1. Buka **Settings > Network & Internet > SIMs**.
+2. Ketuk eSIM yang ingin Anda pindahkan.
+3. Cari opsi seperti **"Copy eSIM to another device"** atau **"Transfer"**.
+4. Ikuti instruksi di layar – Anda biasanya perlu memindai kode QR dari Pixel baru Anda.
 
 Di Pixel baru Anda:
 
-1. Selama pengaturan awal atau nanti melalui **Pengaturan > Jaringan & Internet > Tambahkan Operator**.
-2. Pilih **"Salin dari perangkat lain"** (jika tersedia).
+1. Selama penyiapan awal atau nanti via **Settings > Network & Internet > Add Carrier**.
+2. Pilih **"Copy from another device"** (jika tersedia).
 3. Pindai kode QR yang ditampilkan di Pixel lama.
 
-### Metode 3: Instalasi Ulang Manual (Universal)
+### Instalasi Ulang Manual
 
 Jika metode di atas gagal:
 
 1. **Temukan kode QR aktivasi asli atau kode aktivasi** – periksa email atau aplikasi operator Anda.
-2. Di Pixel baru, buka **Pengaturan > Jaringan & Internet > Tambahkan Operator**.
+2. Di Pixel baru, buka **Settings > Network & Internet > Add Carrier**.
 3. Pindai kode QR atau masukkan kode aktivasi secara manual.
-4. Profil akan diunduh sebagai yang baru di perangkat baru. **Profil lama di ponsel sebelumnya akan tetap terinstal tetapi tidak aktif** (Anda harus menghapusnya nanti untuk menghindari kebingungan).
+4. Profil akan terunduh sebagai profil baru di perangkat baru. **Profil lama di ponsel sebelumnya akan tetap terinstal tetapi tidak aktif** (Anda sebaiknya menghapusnya nanti untuk menghindari kebingungan).
 
-### Apa yang Harus Dilakukan Sebelum Menjual atau Menukarkan Pixel Lama Anda
+### Yang Harus Dilakukan Sebelum Menjual atau Menukar Pixel Lama Anda
 
-- **Jangan hanya reset pabrik** – ini dapat menghapus profil eSIM, tetapi tetap terikat ke EID perangkat dan dapat menyebabkan masalah aktivasi jika tidak dihapus dengan benar.
-- **Penghapusan yang benar:** Buka **Pengaturan > Jaringan & Internet > SIM**, ketuk eSIM, dan pilih **"Hapus SIM"** atau **"Hapus"**. Ini memberi tahu server operator bahwa profil dinonaktifkan pada perangkat itu.
-- **Setelah menghapus,** Anda dapat reset pabrik dengan aman.
+- **Jangan hanya melakukan factory reset** – ini mungkin menghapus profil eSIM, tetapi mereka tetap terikat ke EID perangkat dan bisa menyebabkan masalah aktivasi jika tidak dihapus dengan benar.
+- **Penghapusan yang benar:** Buka **Settings > Network & Internet > SIMs**, ketuk eSIM, dan pilih **"Erase SIM"** atau **"Remove"**. Ini memberi tahu server operator bahwa profil dinonaktifkan di perangkat itu.
+- **Setelah menghapus,** Anda bisa melakukan factory reset dengan aman.
 
-### Error Transfer Umum dan Solusi
+### Error Transfer Umum dan Solusinya
 
 | Pesan Error | Kemungkinan Penyebab | Solusi |
 |---------------|--------------|----------|
-| "eSIM tidak didukung pada perangkat ini" | Operator tidak mengizinkan transfer profil | Beli paket baru sebagai gantinya. |
-| "Kode QR kedaluwarsa" | Paket perjalanan sering kedaluwarsa setelah periode tertentu (mis., 30 hari) | Hubungi dukungan operator untuk QR baru. |
-| "Profil sudah digunakan" | Profil instalasi sekali tidak dapat diinstal ulang | Beli paket baru. |
-| "Operator tidak mendukung transfer eSIM" | Beberapa profil operator pascabayar terikat ke IMEI | Hubungi operator untuk menerbitkan ulang pada IMEI baru. |
+| "eSIM not supported on this device" | Operator tidak mengizinkan transfer profil | Beli paket baru sebagai gantinya. |
+| "QR code expired" | Paket perjalanan sering kedaluwarsa setelah periode tertentu (mis., 30 hari) | Hubungi dukungan operator untuk QR baru. |
+| "Profile already used" | Profil sekali instal tidak bisa diinstal ulang | Beli paket baru. |
+| "Carrier doesn't support eSIM transfer" | Beberapa profil operator pascabayar terikat ke IMEI | Hubungi operator untuk menerbitkan ulang di IMEI baru. |
 
-Untuk transfer antara iPhone dan Android (bukan hanya Pixel ke Pixel), lihat **[panduan Transfer Lintas Platform eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** kami.
+Untuk memindahkan antara iPhone dan Android (bukan hanya Pixel ke Pixel), lihat **[panduan Transfer eSIM Lintas Platform 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** kami.
 
 
-## Tidak Dapat Memindai Kode QR? Aktivasi Manual pada Pixel
+## Aktivasi eSIM Manual di Pixel
 
-**Masalah:** Anda berada di lingkungan yang terang, kode QR ada di layar komputer dengan silau, atau Anda memiliki kode QR cetak yang rusak.
+**Masalah:** Anda berada di lingkungan yang terang, kode QR ada di layar komputer dengan pantulan cahaya, atau Anda memiliki kode QR cetak yang rusak.
 
-**Solusi:** Masukkan detail aktivasi secara manual. Setiap kode QR eSIM berisi informasi yang sama yang dapat diketik secara manual.
+**Solusi:** Masukkan detail aktivasi secara manual. Setiap kode QR eSIM berisi informasi yang sama yang dapat diketik secara manual. Penasaran apa yang terjadi setelah Anda mengetuk konfirmasi? [Penjelas aktivasi eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) menjelaskan proses unduhan profil di balik layar. 
 
-### Cara Mengaktifkan eSIM Secara Manual pada Pixel
+### Cara Mengaktifkan eSIM Secara Manual di Pixel
 
-1. Buka **Pengaturan > Jaringan & Internet > Tambahkan Operator**.
-2. Ketuk **"Perlu bantuan?"** atau **"Masukkan kode secara manual"** (kata-kata persis dapat bervariasi tergantung versi Android).
-3. Anda akan melihat satu atau lebih bidang – biasanya:
-   - **Kode Aktivasi** (sering dimulai dengan `LPA:1$` atau berupa string panjang huruf/angka)
-   - **Kode Konfirmasi** (opsional, 4-8 digit)
-   - **Alamat SM-DP+** (terkadang sudah diisi sebelumnya)
-4. Masukkan detail persis seperti yang ditunjukkan di email penyedia Anda.
+1. Buka **Settings > Network & Internet > Add Carrier**.
+2. Ketuk **"Need help?"** atau **"Enter code manually"** (rumusan persisnya bisa berbeda antar versi Android).
+3. Anda akan melihat satu atau beberapa kolom – biasanya:
+   - **Activation Code** (sering dimulai dengan `LPA:1$` atau berupa deretan panjang huruf/angka)
+   - **Confirmation Code** (opsional, 4-8 digit)
+   - **SM-DP+ Address** (kadang sudah terisi)
+4. Masukkan detailnya persis seperti yang ditampilkan di email penyedia Anda.
 
 ### Di Mana Menemukan Detail Aktivasi Manual
 
-- **Airalo:** Di aplikasi, ketuk paket eSIM → "Detail" → "Instalasi manual" – menunjukkan SM-DP+ dan Kode Aktivasi.
-- **Roami:** Di email konfirmasi – cari "Detail aktivasi manual" atau "Jika Anda tidak dapat memindai kode QR."
-- **Holafly:** Email menyertakan bagian **"Instalasi manual"** dengan SM-DP+ dan kode aktivasi.
-- **Nomad:** Di aplikasi → detail eSIM → opsi "Instal manual".
-- **Google Fi:** Anda tidak dapat memasukkan secara manual – Anda harus menggunakan aplikasi Fi.
+- **Airalo:** Di aplikasi, ketuk paket eSIM → "Details" → "Manual installation" – menampilkan SM-DP+ dan Activation Code.
+- **Roami:** Di email konfirmasi – cari "Manual activation details" atau "If you cannot scan the QR code."
+- **Holafly:** Email menyertakan bagian **"Manual installation"** dengan SM-DP+ dan kode aktivasi.
+- **Nomad:** Di aplikasi → detail eSIM → opsi "Manual install".
+- **Google Fi:** Anda tidak bisa memasukkan secara manual – Anda harus menggunakan aplikasi Fi.
 
-### Tip Pro: Ambil Tangkapan Layar Detail Manual Sebelum Keberangkatan
+### Tangkap Layar Detail Manual Sebelum Keberangkatan
 
-**Jika Anda bepergian dan mungkin tidak memiliki Wi-Fi untuk membuka email lagi, ambil tangkapan layar detail aktivasi manual dan simpan ke pustaka foto ponsel Anda.** Dengan cara ini, bahkan jika Anda tidak memiliki koneksi data, Anda masih dapat mengakses kode.
+**Jika Anda bepergian dan mungkin tidak memiliki Wi-Fi untuk membuka email Anda lagi, ambil tangkapan layar detail aktivasi manual dan simpan ke galeri foto ponsel Anda.** Dengan begitu, bahkan jika Anda tidak punya koneksi data, Anda tetap bisa mengakses kodenya.
 
-### Error: "Kode Aktivasi Tidak Valid"
+### Error Kode Aktivasi Tidak Valid
 
 **Kemungkinan penyebab:**
-- Anda salah mengetik kode (ini peka huruf besar/kecil).
-- Kode sudah digunakan pada perangkat lain.
+- Anda salah mengetik kodenya (kodenya peka huruf besar-kecil).
+- Kode sudah digunakan di perangkat lain.
 - Kode kedaluwarsa (beberapa kode perjalanan kedaluwarsa 30 hari setelah pembelian).
-- Anda memasukkan **Kode Konfirmasi** di bidang **Kode Aktivasi** (atau sebaliknya).
+- Anda memasukkan **Confirmation Code** di kolom **Activation Code** (atau sebaliknya).
 
-**Perbaikan:** Periksa ulang email/aplikasi Anda untuk nilai yang tepat. Jika Anda tidak dapat menyelesaikannya, hubungi dukungan penyedia Anda.
+**Perbaikan:** Periksa kembali email/aplikasi Anda untuk nilai yang persis. Jika tidak bisa diselesaikan, hubungi dukungan penyedia Anda.
 
 
-## eSIM Diaktifkan tetapi Tidak Ada Data? Konfigurasi APN pada Pixel
+## Mengonfigurasi APN Saat eSIM Pixel Tidak Punya Data
 
-**Gejala:** eSIM Anda menunjukkan bilah sinyal (koneksi jaringan penuh) tetapi Anda tidak memiliki internet – situs web tidak mau dimuat, aplikasi mengatakan "tidak ada koneksi."
+**Gejala:** eSIM Anda menampilkan batang sinyal (koneksi jaringan penuh) tetapi Anda tidak punya internet – situs web tidak dimuat, aplikasi mengatakan "no connection."
 
-**Penyebab:** Profil eSIM terinstal, tetapi pengaturan Access Point Name (APN) hilang atau salah. Ini umum terjadi pada eSIM perjalanan – beberapa mengonfigurasi APN secara otomatis, yang lain memerlukan entri manual.
+**Akar penyebab:** Profil eSIM terinstal, tetapi pengaturan Access Point Name (APN) tidak ada atau salah. Ini umum pada eSIM perjalanan – beberapa mengonfigurasi APN otomatis, yang lain membutuhkan entri manual.
 
-### Cara Memeriksa/Mengedit APN pada Pixel
+### Cara Memeriksa atau Mengedit APN di Pixel
 
-1. Buka **Pengaturan > Jaringan & Internet > SIM**.
-2. Ketuk eSIM yang tidak memiliki data.
-3. Ketuk **Nama Titik Akses** (jika Anda tidak melihat ini, gulir ke bawah – ada di sana).
-4. Anda akan melihat daftar APN. Jika daftar kosong, ketuk tombol **+** (Tambah) untuk membuat satu.
-5. Isi bidang **APN** (dan mungkin **Nama Pengguna/Kata Sandi** – periksa dokumentasi penyedia Anda).
-6. Ketuk **Simpan** (tiga titik > Simpan).
+1. Buka **Settings > Network & Internet > SIMs**.
+2. Ketuk eSIM yang tidak punya data.
+3. Ketuk **Access Point Names** (jika tidak melihatnya, gulir ke bawah – ada di sana).
+4. Anda akan melihat daftar APN. Jika daftarnya kosong, ketuk tombol **+** (Add) untuk membuat satu.
+5. Isi kolom **APN** (dan mungkin **Username/Password** – periksa dokumentasi penyedia Anda).
+6. Ketuk **Save** (tiga titik > Save).
 7. Pilih APN yang baru dibuat sebagai aktif.
-8. Alihkan Mode Pesawat on/off untuk memaksa jaringan mendaftar ulang.
+8. Nyalakan-matikan Mode Pesawat untuk memaksa jaringan mendaftar ulang.
 
-### Nilai APN Umum untuk eSIM Perjalanan pada Pixel
+### Nilai APN Umum untuk eSIM Perjalanan di Pixel
 
-| Penyedia | APN | Nama Pengguna | Kata Sandi | Catatan |
+| Penyedia | APN | Nama pengguna | Kata sandi | Catatan |
 |----------|-----|----------|----------|-------|
-| **Roami** | `internet` | (kosong) | (kosong) | Mengonfigurasi otomatis di sebagian besar Pixel |
-| **Airalo** | `globaldata` | (kosong) | (kosong) | Mengonfigurasi otomatis di sebagian besar Pixel |
-| **Holafly** | `hola` | (kosong) | (kosong) | Mungkin memerlukan entri manual di beberapa Pixel |
-| **Nomad** | `nbdata` | (kosong) | (kosong) | Mengonfigurasi otomatis di Pixel 6+ |
-| **Ubigi** | `ubigi` | (kosong) | (kosong) | Memerlukan entri manual di Pixel yang lebih lama |
-| **Google Fi** | `h2g2` | (kosong) | (kosong) | Dikonfigurasi otomatis oleh aplikasi Fi |
-| **T‑Mobile (AS)** | `fast.t-mobile.com` | (kosong) | (kosong) | Dikonfigurasi otomatis |
-| **AT&T (AS)** | `nxgen` | (kosong) | (kosong) | Dikonfigurasi otomatis |
-| **Verizon (AS)** | `vzwinternet` | (kosong) | (kosong) | Dikonfigurasi otomatis |
-| **EE (Inggris)** | `everywhere` | (kosong) | (kosong) | Mungkin memerlukan entri manual |
-| **Orange (Prancis)** | `orange.fr` | (kosong) | (kosong) | Mungkin memerlukan entri manual |
-| **O2 (Inggris)** | `mobile.o2.co.uk` | `web` | `web` | Memerlukan nama pengguna/kata sandi |
-| **Vodafone (Inggris)** | `internet` | (kosong) | (kosong) | Mengonfigurasi otomatis |
-| **Three (Inggris)** | `three.co.uk` | (kosong) | (kosong) | Mungkin memerlukan entri manual |
+| **Roami** | `internet` | (kosong) | (kosong) | Terkonfigurasi otomatis di sebagian besar Pixel |
+| **Airalo** | `globaldata` | (kosong) | (kosong) | Terkonfigurasi otomatis di sebagian besar Pixel |
+| **Holafly** | `hola` | (kosong) | (kosong) | Mungkin butuh entri manual di beberapa Pixel |
+| **Nomad** | `nbdata` | (kosong) | (kosong) | Terkonfigurasi otomatis di Pixel 6+ |
+| **Ubigi** | `ubigi` | (kosong) | (kosong) | Membutuhkan entri manual di Pixel lama |
+| **Google Fi** | `h2g2` | (kosong) | (kosong) | Terkonfigurasi otomatis oleh aplikasi Fi |
+| **T‑Mobile (US)** | `fast.t-mobile.com` | (kosong) | (kosong) | Terkonfigurasi otomatis |
+| **AT&T (US)** | `nxgen` | (kosong) | (kosong) | Terkonfigurasi otomatis |
+| **Verizon (US)** | `vzwinternet` | (kosong) | (kosong) | Terkonfigurasi otomatis |
+| **EE (UK)** | `everywhere` | (kosong) | (kosong) | Mungkin butuh entri manual |
+| **Orange (France)** | `orange.fr` | (kosong) | (kosong) | Mungkin butuh entri manual |
+| **O2 (UK)** | `mobile.o2.co.uk` | `web` | `web` | Membutuhkan nama pengguna/kata sandi |
+| **Vodafone (UK)** | `internet` | (kosong) | (kosong) | Terkonfigurasi otomatis |
+| **Three (UK)** | `three.co.uk` | (kosong) | (kosong) | Mungkin butuh entri manual |
 
-### Bagaimana Jika Bidang APN Berwarna Abu-abu?
+### Bagaimana Jika Kolom APN Berwarna Abu-Abu?
 
-Jika bidang APN berwarna abu-abu dan Anda tidak dapat mengeditnya:
-- **Anda menggunakan eSIM operator pascabayar** (Verizon, AT&T, T‑Mobile, dll.) – mereka mengunci pengaturan APN. Anda tidak dapat mengubahnya.
-- **Solusi:** Hubungi dukungan operator Anda – mereka mungkin perlu mengirim pengaturan APN yang diperbarui dari jarak jauh.
+Jika kolom APN berwarna abu-abu dan Anda tidak bisa mengeditnya:
+- **Anda menggunakan eSIM operator pascabayar** (Verizon, AT&T, T‑Mobile, dll.) – mereka mengunci pengaturan APN. Anda tidak bisa mengubahnya.
+- **Solusi:** Hubungi dukungan operator Anda – mereka mungkin perlu mendorong pengaturan APN yang diperbarui dari jarak jauh.
 
-### Tip Pro: Ambil Tangkapan Layar Pengaturan APN Sebelum Bepergian
+### Tangkap Layar Pengaturan APN Sebelum Bepergian
 
-**Ambil tangkapan layar pengaturan APN penyedia Anda sebelum keberangkatan.** Jika Anda mendarat dan tidak memiliki data, Anda tidak akan memiliki internet untuk mencarinya – tetapi Anda akan memiliki tangkapan layar yang tersimpan di ponsel Anda.
+**Ambil tangkapan layar pengaturan APN penyedia Anda sebelum keberangkatan.** Jika Anda mendarat dan tidak punya data, Anda tidak akan punya internet untuk mencarinya – tetapi Anda akan memiliki tangkapan layar yang tersimpan di ponsel Anda.
 
 ### Masih Tidak Ada Data Setelah Konfigurasi APN?
 
-1. Alihkan Mode Pesawat NYALA, tunggu 5 detik, MATI.
+1. Nyalakan Mode Pesawat, tunggu 5 detik, matikan.
 2. Restart Pixel Anda.
-3. Buka **Pengaturan > Jaringan & Internet > SIM** → ketuk eSIM → pastikan **Data Roaming** NYALA.
-4. Coba pilih jaringan secara manual: **Pengaturan > Jaringan & Internet > SIM > [eSIM] > Operator Jaringan** → matikan Otomatis → pilih jaringan secara manual.
+3. Buka **Settings > Network & Internet > SIMs** → ketuk eSIM → pastikan **Data Roaming** ON.
+4. Coba pilih jaringan secara manual: **Settings > Network & Internet > SIMs > [eSIM] > Network Operators** → matikan Automatic → pilih jaringan secara manual.
 
 
-## Pemecahan masalah error aktivasi eSIM – kode error dan perbaikan
+## Kode Error Aktivasi eSIM dan Perbaikannya
 
-Bahkan pada Pixel yang kompatibel, aktivasi terkadang dapat gagal. Berikut adalah kode error paling umum dan cara memperbaikinya.
+Bahkan di Pixel yang kompatibel, aktivasi kadang bisa gagal. Berikut kode error paling umum dan cara memperbaikinya. (Jika Pixel Anda gagal sebelum kode error apa pun muncul — tanpa EID, kunci operator — mulailah dari [panduan error perangkat keras & kompatibilitas](/faq/esim-activation-errors-troubleshooting-guide/) sebagai gantinya.) 
 
-### Error 1: "EID tidak ditemukan" atau "Tidak ada EID"
+### EID Tidak Ditemukan atau Tanpa EID
 
-**Kapan muncul:** Menekan `*#06#` hanya menunjukkan nomor IMEI, tidak ada EID.
+**Kapan muncul:** Menghubungi `*#06#` hanya menampilkan nomor IMEI, tanpa EID.
 
-**Penyebab:** Pixel Anda adalah:
-- Varian operator Jepang (SoftBank, au) – fitur dinonaktifkan secara permanen.
+**Penyebab:** Pixel Anda adalah salah satu dari:
+- Varian operator Jepang (SoftBank, au) – fiturnya dinonaktifkan permanen.
 - Pixel yang sangat lama (1 atau 2) – tidak ada perangkat keras.
 - Kerusakan firmware yang jarang terjadi.
 
-**Solusi:** Jika itu varian Jepang, tidak ada solusi – gunakan hanya SIM fisik. Jika Anda yakin perangkat Anda seharusnya memiliki fitur ini, coba reset pabrik (cadangkan dulu). Masih tidak ada EID? Hubungi dukungan Google.
+**Solusi:** Jika varian Jepang, tidak ada solusi – gunakan hanya SIM fisik. Jika Anda yakin perangkat Anda seharusnya memiliki fitur ini, coba factory reset (cadangkan dulu). Masih tanpa EID? Hubungi dukungan Google.
 
-### Error 2: "Aktivasi gagal: Kode QR tidak valid"
+### Aktivasi Gagal Kode QR Tidak Valid
 
 **Kapan muncul:** Setelah memindai kode QR, ponsel menolaknya.
 
 **Kemungkinan penyebab dan perbaikan:**
-- **Kode QR rusak atau kualitas rendah:** Coba perbesar atau minta QR baru dari operator.
-- **Kode QR kedaluwarsa:** Banyak paket perjalanan memiliki tanggal kedaluwarsa (mis., 30 hari dari pembelian). Periksa email – Anda mungkin memerlukan paket baru.
-- **Kode QR untuk jenis perangkat yang berbeda:** Beberapa kode QR khusus perangkat. Pastikan itu untuk "eSIM Android" atau "eSIM Generik".
-- **Kesalahan entri manual:** Jika memasukkan kode secara manual, periksa ulang kode aktivasi dan kode konfirmasi (sering dua bidang terpisah).
+- **Kode QR rusak atau berkualitas rendah:** Coba perbesar atau minta QR baru dari operator.
+- **Kode QR kedaluwarsa:** Banyak paket perjalanan memiliki tanggal kedaluwarsa (mis., 30 hari dari pembelian). Periksa email – Anda mungkin membutuhkan paket baru.
+- **Kode QR untuk jenis perangkat berbeda:** Beberapa kode QR spesifik perangkat. Pastikan itu untuk "Android eSIM" atau "Generic eSIM".
+- **Kesalahan entri manual:** Jika memasukkan kode secara manual, periksa kembali kode aktivasi dan kode konfirmasi (sering dua kolom terpisah).
 
-### Error 3: "Profil tidak didukung oleh perangkat ini"
+### Profil Tidak Didukung oleh Perangkat Ini
 
-**Kapan muncul:** Profil diunduh tetapi kemudian gagal diinstal.
+**Kapan muncul:** Profil terunduh tetapi kemudian gagal diinstal.
 
-**Penyebab:** Profil operator memerlukan fitur yang tidak dimiliki Pixel Anda (mis., pita 5G tertentu, atau versi LPA yang lebih baru).
+**Penyebab:** Profil operator membutuhkan fitur yang tidak dimiliki Pixel Anda (mis., band 5G tertentu, atau versi LPA yang lebih baru).
 
 **Solusi:** 
 - Perbarui Pixel Anda ke versi Android terbaru.
-- Hubungi penyedia dan tanyakan apakah mereka mendukung model Pixel spesifik Anda (mis., "Apakah ini berfungsi dengan Pixel 6?").
-- Coba penyedia yang berbeda.
+- Hubungi penyedia dan tanyakan apakah mereka mendukung model Pixel spesifik Anda (mis., "Apakah ini bekerja dengan Pixel 6?").
+- Coba penyedia lain.
 
-### Error 4: "Terkunci operator – tidak dapat mengaktifkan eSIM"
+### Terkunci Operator Tidak Bisa Mengaktifkan eSIM
 
-**Kapan muncul:** Anda mencoba menambahkan profil non-operator (mis., eSIM perjalanan) dan ponsel mengatakan "Perangkat terkunci SIM" atau "Kunci operator mencegah aktivasi eSIM."
+**Kapan muncul:** Anda mencoba menambahkan profil non-operator (mis., eSIM perjalanan) dan ponsel berkata "Device is SIM locked" atau "Carrier lock prevents eSIM activation."
 
-**Penyebab:** Pixel Anda terkunci operator (mis., ke AT&T, T‑Mobile, atau operator Jepang) dan operator asli membatasi penggunaan untuk profil yang tidak disetujui.
+**Penyebab:** Pixel Anda terkunci operator (mis., ke AT&T, T‑Mobile, atau operator Jepang) dan operator aslinya membatasi penggunaan untuk profil yang tidak disetujui.
 
 **Solusi:**
-- **Untuk kunci operator AS:** Setelah perangkat lunas, minta buka kunci SIM permanen dari operator Anda. Setelah dibuka, penyedia mana pun akan berfungsi.
-- **Untuk kunci operator Jepang:** Seperti disebutkan sebelumnya, fitur dinonaktifkan secara permanen di tingkat firmware; buka kunci SIM tidak membantu.
+- **Untuk kunci operator AS:** Setelah perangkat lunas, minta pembukaan kunci SIM permanen dari operator Anda. Setelah dibuka kuncinya, penyedia mana pun seharusnya bekerja.
+- **Untuk kunci operator Jepang:** Seperti disebutkan sebelumnya, fiturnya dinonaktifkan permanen di tingkat firmware; pembukaan kunci SIM tidak membantu.
 - **Untuk wilayah lain:** Hubungi operator Anda untuk menanyakan apakah mereka mengizinkan fitur ini pada perangkat terkunci.
 
-### Error 5: "Tidak dapat mengunduh profil – error jaringan"
+### Tidak Bisa Mengunduh Profil Error Jaringan
 
-**Kapan muncul:** Unduhan dimulai tetapi macet atau gagal.
+**Kapan muncul:** Unduhan dimulai tetapi menggantung atau gagal.
 
 **Penyebab:** Masalah koneksi Wi-Fi atau masalah server operator.
 
 **Solusi:**
-- Beralih ke jaringan Wi-Fi yang berbeda atau gunakan hotspot seluler.
+- Beralih ke jaringan Wi-Fi berbeda atau gunakan hotspot seluler.
 - Coba lagi dalam 5-10 menit – server operator mungkin sementara kelebihan beban.
-- Nonaktifkan VPN atau pemblokir iklan yang dapat mengganggu.
+- Nonaktifkan VPN atau pemblokir iklan yang bisa mengganggu.
 - Atur DNS secara manual ke 8.8.8.8 (Google DNS) sementara.
 
-### Error 6: "Profil eSIM sudah digunakan"
+### Profil eSIM Sudah Digunakan
 
-**Kapan muncul:** Anda memindai kode QR yang sebelumnya diinstal di perangkat lain.
+**Kapan muncul:** Anda memindai kode QR yang sebelumnya sudah diinstal di perangkat lain.
 
-**Penyebab:** Sebagian besar profil sekali pakai. Setelah diinstal di perangkat, mereka tidak dapat diinstal ulang di tempat lain (untuk alasan keamanan).
+**Penyebab:** Sebagian besar profil hanya sekali pakai. Setelah diinstal di perangkat, mereka tidak bisa diinstal ulang di tempat lain (untuk alasan keamanan).
 
 **Solusi:** 
-- Jika Anda masih memiliki perangkat asli, Anda dapat menghapus profil dari sana (Pengaturan > Jaringan & Internet > SIM > Hapus SIM) dan terkadang itu membebaskannya untuk instalasi ulang – tetapi tidak selalu.
+- Jika Anda masih memiliki perangkat aslinya, Anda bisa menghapus profil dari sana (Settings > Network & Internet > SIMs > Erase SIM) dan kadang itu membebaskannya untuk diinstal ulang – tetapi tidak selalu.
 - Jika tidak, beli paket baru.
 
-### Error 7: "Perangkat tidak memenuhi persyaratan eSIM"
+### Perangkat Tidak Memenuhi Persyaratan eSIM
 
-**Kapan muncul:** Aplikasi operator tertentu (mis., Visible, Google Fi) menolak untuk mengaktifkan.
+**Kapan muncul:** Aplikasi operator tertentu (mis., Visible, Google Fi) menolak mengaktifkan.
 
-**Penyebab:** Aplikasi operator memeriksa sertifikasi perangkat tertentu atau tingkat patch keamanan Android.
+**Penyebab:** Aplikasi operator memeriksa sertifikasi perangkat tertentu atau level patch keamanan Android.
 
 **Solusi:**
-- Perbarui Pixel Anda ke patch keamanan terbaru (Pengaturan > Sistem > Pembaruan Sistem).
-- Hapus cache dan data aplikasi operator (Pengaturan > Aplikasi > [Aplikasi operator] > Penyimpanan & Cache > Hapus Cache/Hapus Data).
-- Coba aktifkan melalui kode QR alih-alih aplikasi (jika operator menawarkan opsi itu).
+- Perbarui Pixel Anda ke patch keamanan terbaru (Settings > System > System Update).
+- Bersihkan cache dan data aplikasi operator (Settings > Apps > [Aplikasi operator] > Storage & Cache > Clear Cache/Clear Data).
+- Coba aktivasi via kode QR alih-alih aplikasi (jika operator menawarkan opsi itu).
 
-### Langkah Pemecahan Masalah Umum (coba ini sebelum menghubungi dukungan)
+### Langkah Pemecahan Masalah Umum
 
 1. **Restart Pixel Anda** – sederhana tetapi sering berhasil.
-2. **Periksa pembaruan Android** – Pengaturan > Sistem > Pembaruan Sistem.
-3. **Reset pengaturan jaringan** – Pengaturan > Sistem > Opsi Reset > Reset Wi-Fi, seluler & Bluetooth (ini tidak menghapus profil eSIM).
-4. **Hapus profil eSIM lainnya** – Jika Anda memiliki banyak yang tersimpan, hapus yang tidak digunakan untuk mengosongkan ruang (beberapa Pixel memiliki batas 5–10 profil tersimpan).
-5. **Reset pabrik** – Upaya terakhir. Cadangkan data Anda terlebih dahulu. Setelah reset, coba aktifkan lagi sebelum memulihkan dari cadangan.
+2. **Periksa pembaruan Android** – Settings > System > System Update.
+3. **Reset pengaturan jaringan** – Settings > System > Reset Options > Reset Wi-Fi, mobile & Bluetooth (ini tidak menghapus profil eSIM).
+4. **Hapus profil eSIM lain** – Jika Anda menyimpan banyak, hapus yang tidak terpakai untuk membebaskan ruang (beberapa Pixel memiliki batas 5–10 profil tersimpan).
+5. **Factory reset** – Upaya terakhir. Cadangkan data Anda dulu. Setelah reset, coba aktifkan lagi sebelum memulihkan dari cadangan.
 
-Untuk pemecahan masalah eSIM yang lebih lanjut, lihat **[Panduan Pemecahan Masalah Mendalam eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** .
+Untuk pemecahan masalah eSIM yang lebih lanjut, lihat **[Panduan Pemecahan Masalah eSIM Mendalam 2026](/faq/esim-deep-troubleshooting-guide-2026/)** kami.
 
 
-## Rincian berdasarkan generasi Pixel
+## Rincian mendalam per generasi Pixel
 
-### Pixel 2 / 2 XL (Tidak ada eSIM)
+### Pixel 2 dan 2 XL Tanpa eSIM
 
-Seri Pixel 2 tidak memiliki perangkat keras eSIM sama sekali. Tidak ada pembaruan perangkat lunak atau peretasan yang dapat mengaktifkannya. Anda harus menggunakan SIM fisik.
+Seri Pixel 2 sepenuhnya tidak memiliki perangkat keras eSIM. Tidak ada pembaruan perangkat lunak atau hack yang bisa mengaktifkannya. Anda harus menggunakan SIM fisik.
 
 - Tidak direkomendasikan untuk perjalanan.
-- Jika Anda melihat Pixel 2 murah secara online, itu tidak dapat digunakan dengan penyedia mana pun.
+- Jika Anda melihat Pixel 2 murah secara online, ponsel itu tidak bisa digunakan dengan penyedia mana pun.
 
 **Waktu koneksi pertama:** N/A – tidak ada perangkat keras.
 
-### Pixel 3 / 3 XL / 3a / 3a XL (Dukungan Terbatas)
+### Seri Pixel 3 Dukungan Terbatas
 
-Ini adalah ponsel pertama Google yang mendukung eSIM. **Sebagian besar varian internasional, AS, dan Eropa berfungsi sempurna**, tetapi ada satu pengecualian utama:
+Ini adalah ponsel pertama Google yang mampu eSIM. **Sebagian besar varian internasional, AS, dan Eropa bekerja sempurna**, tetapi ada satu pengecualian besar:
 
-- **Model Jepang** (SoftBank, au) menonaktifkan fitur ini di tingkat firmware oleh operator.
-- Cara memeriksa: Tekan `*#06#`. Jika Anda melihat **EID** (nomor 32 digit), fitur tersedia. Jika hanya nomor IMEI yang muncul, itu terkunci.
+- **Model Jepang** (SoftBank, au) memiliki fitur yang dinonaktifkan di tingkat firmware oleh operator.
+- Cara memeriksa: Hubungi `*#06#`. Jika Anda melihat **EID** (nomor 32 digit), fiturnya tersedia. Jika hanya nomor IMEI yang muncul, terkunci.
 
-Jika Pixel 3 Anda mendukung eSIM, ia berfungsi dengan semua penyedia perjalanan utama. Perhatikan bahwa Pixel 3 tidak mendukung 5G (hanya 4G/LTE).
+Jika Pixel 3 Anda mendukung eSIM, ponsel itu bekerja dengan semua penyedia perjalanan utama. Perhatikan bahwa Pixel 3 tidak mendukung 5G (hanya 4G/LTE).
 
 **Waktu koneksi pertama:** 3-5 menit pada model yang didukung.
 
-### Pixel 4 / 4 XL / 4a / 4a 5G (Dukungan Terbatas)
+### Seri Pixel 4 Dukungan Terbatas
 
 Situasi yang sama dengan Pixel 3: **versi internasional, AS, dan Eropa mendukung eSIM; versi operator Jepang terkunci.**
 
-- Pixel 4a adalah pilihan anggaran populer untuk wisatawan, dan mendukung fitur ini.
-- Pixel 4a 5G adalah **pixel 4a 5g esim compatible** dan menambahkan dukungan 5G (meskipun fungsinya identik dengan 4a).
-- Verifikasi: Tekan `*#06#` – EID berarti siap digunakan.
+- Pixel 4a adalah pilihan anggaran populer bagi pelancong, dan mendukung fitur ini.
+- Pixel 4a 5G **kompatibel esim pixel 4a 5g** dan menambahkan dukungan 5G (meskipun fungsinya identik dengan 4a).
+- Verifikasi: Hubungi `*#06#` – EID berarti siap dipakai.
 
 **Waktu koneksi pertama:** 2-4 menit pada model yang didukung.
 
-### Pixel 5 / 5a 5G (Dukungan Terbatas)
+### Seri Pixel 5 Dukungan Terbatas
 
-Pixel 5 dan 5a mengikuti pola yang sama dengan Pixel 4: **versi internasional berfungsi, versi Jepang terkunci.**
+Pixel 5 dan 5a mengikuti pola yang sama dengan Pixel 4: **versi internasional bekerja, versi Jepang terkunci.**
 
-- Pixel 5 sering terdaftar di antara **perangkat yang kompatibel dengan us mobile eSIM** dan **ponsel yang kompatibel dengan google fi eSIM**.
+- Pixel 5 sering tercantum di antara **perangkat kompatibel esim us mobile** dan **ponsel kompatibel esim google fi**.
 - Jika Anda memiliki Pixel 5 non-Jepang, itu adalah ponsel perjalanan yang sangat andal dengan daya tahan baterai yang baik.
 
 **Waktu koneksi pertama:** 2-4 menit pada model yang didukung.
 
-### Pixel 6 / 6 Pro / 6a (Dukungan Penuh, Tanpa Batasan Regional)
+### Seri Pixel 6 Dukungan eSIM Penuh
 
-**Mulai dari Pixel 6, Google menghapus semua batasan eSIM regional.** Setiap ponsel seri Pixel 6 (termasuk 6a) yang dijual di mana pun di dunia mendukung fitur ini – terlepas dari operator.
+**Dimulai dari Pixel 6, Google menghapus semua pembatasan eSIM regional.** Setiap ponsel seri Pixel 6 (termasuk 6a) yang dijual di mana pun di dunia mendukung fitur ini – apa pun operatornya.
 
-Inilah sebabnya mengapa Pixel 6 menjadi favorit di kalangan wisatawan. Di bawah ini adalah pembahasan mendalam tentang kemampuan Pixel 6.
+Inilah sebabnya Pixel 6 menjadi favorit di kalangan pelancong. Berikut pembahasan mendalam tentang kemampuan Pixel 6.
 
 #### Tabel Kompatibilitas Keluarga Pixel 6
 
@@ -629,104 +633,108 @@ Inilah sebabnya mengapa Pixel 6 menjadi favorit di kalangan wisatawan. Di bawah 
 | Pixel 6 Pro | ✅ Ya | Ya | Hingga 8 profil | 2-3 mnt | Berfungsi secara global |
 | Pixel 6a | ✅ Ya | Ya | Hingga 8 profil | 2-3 mnt | Berfungsi secara global |
 
-Ketiga model dapat menyimpan **setidaknya 5-8 profil eSIM**, tetapi hanya **satu eSIM yang dapat aktif dalam satu waktu** bersama satu SIM fisik (DSDS – Dual SIM Dual Standby).
+Ketiga model dapat menyimpan **setidaknya 5-8 profil eSIM**, tetapi hanya **satu eSIM yang bisa aktif pada satu waktu** di samping satu SIM fisik (DSDS – Dual SIM Dual Standby).
 
 #### Dual SIM Pixel 6 Dijelaskan
 
-Seri Pixel 6 mendukung **DSDS (Dual SIM Dual Standby)**, yang berarti:
+Seri Pixel 6 mendukung **DSDS (Dual SIM Dual Standby)**, artinya:
 
-- Anda dapat memasukkan satu nano-SIM fisik (mis., operator rumah Anda) dan mengaktifkan satu profil eSIM secara bersamaan.
-- Kedua nomor telepon tetap aktif – Anda dapat menerima panggilan dan SMS di kedua jalur.
-- Anda memilih SIM mana yang akan digunakan untuk data seluler, panggilan default, dan SMS default.
+- Anda bisa memasukkan satu nano-SIM fisik (mis., operator rumah Anda) dan mengaktifkan satu profil eSIM secara bersamaan.
+- Kedua nomor telepon tetap aktif – Anda bisa menerima panggilan dan SMS di kedua lini.
+- Anda memilih SIM mana yang digunakan untuk data seluler, panggilan default, dan SMS default.
 
 **Kasus penggunaan umum:**
-- **Perjalanan internasional:** Pertahankan SIM fisik rumah Anda untuk panggilan/SMS, tambahkan eSIM data lokal untuk internet terjangkau.
+- **Perjalanan internasional:** Pertahankan SIM fisik rumah Anda untuk panggilan/SMS, tambahkan eSIM data lokal untuk internet yang terjangkau.
 - **Pemisahan kerja/pribadi:** SIM fisik untuk nomor pribadi, eSIM untuk nomor kerja.
 - **Menguji operator baru:** Coba uji coba gratis tanpa menghapus SIM utama Anda.
 
-#### Cara Mengaktifkan eSIM pada Pixel 6 (Langkah Universal – juga berfungsi untuk Pixel 7/8/9/10)
+#### Cara Mengaktifkan eSIM di Pixel 6 (Langkah Universal – juga berfungsi untuk Pixel 7/8/9/10)
 
-Aktivasi memakan waktu kurang dari 2 menit. **Lakukan sebelum terbang** – Anda hanya memerlukan Wi-Fi.
+Aktivasi memakan waktu kurang dari 2 menit. **Lakukan sebelum Anda terbang** – Anda hanya butuh Wi-Fi. Langkah-langkah di bawah adalah jalur spesifik Pixel; [panduan aktivasi umum](/faq/how-to-activate-an-esim/) mencakup QR, entri manual, dan instal aplikasi operator secara lengkap. 
 
-1. **Beli paket eSIM** – Untuk perjalanan, pilih penyedia tepercaya.
-2. Buka **Pengaturan > Jaringan & Internet > Jaringan Seluler > Tambahkan Operator**.
+1. **Beli paket eSIM** – Untuk perjalanan, pilih penyedia yang andal.
+2. Buka **Settings > Network & Internet > Mobile Network > Add Carrier**.
 3. **Pindai kode QR** yang dikirim ke email Anda (atau masukkan kode aktivasi secara manual).
-4. Ikuti petunjuk untuk mengunduh profil.
+4. Ikuti petunjuk untuk mengunduh profilnya.
 5. Pilih SIM default Anda untuk panggilan, SMS, dan data.
-6. **Nyalakan Data Roaming** untuk jalur eSIM saat bepergian.
+6. **Nyalakan Data Roaming** untuk lini eSIM saat bepergian.
 
 > 💡 Untuk pengguna Google Fi: Pixel 6 adalah salah satu ponsel terbaik untuk Google Fi – cukup instal aplikasi Fi dan aktifkan.
 
-#### Manajemen eSIM Lanjutan pada Pixel 6
+#### Manajemen eSIM Lanjutan di Pixel 6
 
-- **Unduh banyak eSIM:** Simpan beberapa profil (mis., satu untuk AS, satu untuk Eropa, satu untuk Jepang). Buka **Jaringan & Internet → Jaringan Seluler → +** untuk menambahkan lebih banyak.
-- **Beralih antar eSIM:** Buka **Jaringan Seluler → Pilih SIM mana yang akan digunakan untuk data** – alihkan antara SIM fisik dan profil yang diunduh.
-- **Hapus profil eSIM:** Buka pengaturan eSIM → **Hapus SIM** (menghapus profil; Anda dapat menginstal ulang dengan kode QR yang sama jika disimpan).
-- **Beri label eSIM Anda:** Setelah aktivasi, ketuk ikon roda gigi di sebelah eSIM dan ganti namanya (mis., "Perjalanan Jepang") untuk identifikasi mudah.
+- **Unduh beberapa eSIM:** Simpan beberapa profil (mis., satu untuk AS, satu untuk Eropa, satu untuk Jepang). Buka **Network & Internet → Mobile Network → +** untuk menambahkan lebih banyak.
+- **Beralih antar eSIM:** Buka **Mobile Network → Pilih SIM mana yang digunakan untuk data** – alihkan antara SIM fisik dan profil terunduh mana pun.
+- **Hapus profil eSIM:** Buka pengaturan eSIM → **Erase SIM** (menghapus profil; Anda bisa menginstal ulang dengan kode QR yang sama jika disimpan).
+- **Beri label eSIM Anda:** Setelah aktivasi, ketuk ikon gerigi di sebelah eSIM dan ganti namanya (mis., "Japan Travel") untuk identifikasi mudah.
 
 
-### Pixel 7 / 7 Pro / 7a (Dukungan Penuh)
+### Seri Pixel 7 Dukungan eSIM Penuh
 
-Seri Pixel 7 melanjutkan kebijakan Pixel 6: **semua model, semua wilayah mendukung eSIM tanpa batasan.**
+Seri Pixel 7 melanjutkan kebijakan Pixel 6: **semua model, semua wilayah mendukung eSIM dengan nol pembatasan.**
 
 - Pixel 7, 7 Pro, atau 7a mana pun mendukung fitur ini.
-- Pixel 7 juga mendukung **dual eSIM** (dua profil aktif secara bersamaan) seperti yang dijelaskan di bagian dual eSIM di atas.
+- Pixel 7 juga mendukung **dual eSIM** (dua profil aktif bersamaan) seperti dijelaskan di bagian dual eSIM di atas.
 
 **Waktu koneksi pertama:** 1-3 menit.
 
-### Pixel 8 / 8 Pro / 8a (Dukungan Penuh)
+### Seri Pixel 8 Dukungan eSIM Penuh
 
-Sama seperti Pixel 7: **dukungan global, tanpa batasan.**
+Sama seperti Pixel 7: **dukungan global, tanpa pembatasan.**
 
-- **pixel 8 eSIM compatible** – ya, termasuk 8a yang ramah anggaran.
-- Seri Pixel 8 meningkatkan UI peralihan di "Jaringan & Internet", membuatnya lebih mudah untuk mengelola banyak profil.
+- **pixel 8 eSIM kompatibel** – ya, termasuk 8a yang ramah anggaran.
+- Seri Pixel 8 meningkatkan UI pergantian di "Network & Internet", memudahkan pengelolaan beberapa profil.
 
 **Waktu koneksi pertama:** 1-2 menit.
 
-### Seri Pixel 9 (Dukungan Penuh)
+### Seri Pixel 9 Dukungan eSIM Penuh
 
 Pixel 9, 9 Pro, 9 Pro XL, 9 Pro Fold, dan 9a semuanya mendukung fitur ini. Google secara resmi menyatakan saat peluncuran bahwa "semua ponsel seri Pixel 9 mendukung eSIM dengan operator mana pun di seluruh dunia."
 
-- Pixel 9 Pro Fold (lipat) memiliki fungsionalitas yang sama dengan ponsel slab.
+- Pixel 9 Pro Fold (lipat) memiliki fungsi yang sama dengan ponsel biasa.
 
 **Waktu koneksi pertama:** 1-2 menit.
 
-### Seri Pixel 10 (Dukungan Penuh)
+### Seri Pixel 10 Dukungan eSIM Penuh
 
-Sebagai generasi terbaru, Pixel 10, 10 Pro, 10 Pro XL, dan 10 Pro Fold secara alami mendukung fitur ini.
+Sebagai generasi terbaru, Pixel 10, 10 Pro, 10 Pro XL, dan 10 Pro Fold tentu saja mendukung fitur ini.
 
 **Waktu koneksi pertama:** 1-2 menit.
 
 
-## Cara memverifikasi eSIM pada Pixel mana pun (metode universal)
+## Cara Memverifikasi eSIM di Pixel Apa Pun
 
-Terlepas dari Pixel mana yang Anda miliki (3/4/5/6/7/8/9/10), gunakan metode sederhana ini:
+Apa pun Pixel yang Anda miliki (3/4/5/6/7/8/9/10), gunakan metode sederhana ini:
 
-1. Buka aplikasi **Panggil**.
-2. Tekan `*#06#` dan tekan panggil.
-3. Cari **EID 32 digit (Embedded Identity Document)**. Jika ada, ponsel Anda mendukung eSIM.
-4. Jika Anda hanya melihat nomor IMEI (IMEI1, IMEI2) dan tidak ada EID, fitur dinonaktifkan – biasanya pada versi operator Jepang.
+1. Buka **dialer Telepon**.
+2. Hubungi `*#06#` dan tekan panggil.
+3. Cari **EID (Embedded Identity Document) 32 digit**. Jika ada, ponsel Anda mendukung eSIM.
+4. Jika Anda hanya melihat nomor IMEI (IMEI1, IMEI2) dan tanpa EID, fiturnya dinonaktifkan – biasanya pada versi operator Jepang.
 
-Atau, periksa melalui Pengaturan: **Pengaturan > Jaringan & Internet > Jaringan Seluler** – cari **"Unduh SIM sebagai gantinya?"** atau **"Tambahkan eSIM"**.
+Alternatifnya, periksa lewat Settings: **Settings > Network & Internet > Mobile Network** – cari **"Download a SIM instead?"** atau **"Add eSIM"**.
+
+Trik menghubungi `*#06#` yang sama juga bekerja di setiap iPhone — [hub kompatibilitas iPhone](/faq/iphone-11-esim-compatible/) memiliki jawaban lengkap model demi model.
 
 
-## Kompatibilitas operator eSIM – penyedia mana yang berfungsi dengan Pixel Anda?
+## Operator Mana yang Bekerja dengan eSIM Pixel?
 
-Tabel berikut menunjukkan penyedia mana yang berfungsi pada generasi Pixel mana:
+Tabel berikut menunjukkan penyedia mana yang bekerja di generasi Pixel mana:
 
-| Penyedia | Berfungsi pada Pixel 3/4/5 (non-JP) | Berfungsi pada Pixel 6+ | Catatan Khusus |
+| Penyedia | Bekerja di Pixel 3/4/5 (non-JP) | Bekerja di Pixel 6+ | Catatan Khusus |
 |----------|-------------------------------|-------------------|---------------|
 | **Airalo** | ✅ Ya | ✅ Ya | Opsi perjalanan paling populer |
-| **Holafly** | ✅ Ya | ✅ Ya | Paket data tak terbatas |
+| **Holafly** | ✅ Ya | ✅ Ya | Paket data unlimited |
 | **Nomad** | ✅ Ya | ✅ Ya | Harga kompetitif di Asia-Pasifik |
-| **Visible** | ⚠️ Pixel 5+ saja | ✅ Ya | Paket tak terbatas hanya AS |
-| **Google Fi** | ✅ Ya | ✅ Ya | Integrasi asli; lihat [ponsel kompatibel Google Fi](https://fi.google.com/about/compatible-phones) |
-| **US Mobile** | ✅ Pixel 4+ | ✅ Ya | Paket yang dapat disesuaikan |
-| **T‑Mobile (AS)** | ✅ Pixel 4+ | ✅ Ya | Prabayar melalui aplikasi |
-| **Verizon** | ⚠️ Pixel 5+ saja | ✅ Ya | Pascabayar memerlukan layanan pelanggan |
-| **Jio (India)** | ❌ Tidak | ✅ Ya | Memerlukan akun pascabayar India |
+| **Visible** | ⚠️ Hanya Pixel 5+ | ✅ Ya | Paket unlimited hanya AS |
+| **Google Fi** | ✅ Ya | ✅ Ya | Integrasi bawaan; lihat [ponsel kompatibel Google Fi](https://fi.google.com/about/compatible-phones) |
+| **US Mobile** | ✅ Pixel 4+ | ✅ Ya | Paket yang bisa disesuaikan |
+| **T‑Mobile (US)** | ✅ Pixel 4+ | ✅ Ya | Prabayar via aplikasi |
+| **Verizon** | ⚠️ Hanya Pixel 5+ | ✅ Ya | Pascabayar membutuhkan layanan pelanggan |
+| **Jio (India)** | ❌ Tidak | ✅ Ya | Membutuhkan akun pascabayar India |
 
-> **Untuk wisatawan yang pergi ke China:** Operator lokal China tidak menawarkan eSIM kepada turis. Anda harus menggunakan penyedia internasional. Pixel 6 dan yang lebih baru bekerja dengan andal dengan paket-paket ini.
+> **Untuk pelancong ke Tiongkok:** Operator lokal Tiongkok tidak menawarkan eSIM kepada wisatawan. Anda harus menggunakan penyedia internasional. Pixel 6 dan lebih baru bekerja andal dengan paket-paket ini.
+
+**Bukan Pixel?** Untuk merek Android lain — OnePlus, Xiaomi, Motorola, Sony, dan lainnya — lihat [panduan eSIM Android kami untuk merek lain](/faq/android-esim-other-brands-deep-guide/).
 
 
 ## Pertanyaan yang Sering Diajukan
@@ -735,98 +743,102 @@ Tabel berikut menunjukkan penyedia mana yang berfungsi pada generasi Pixel mana:
 Tidak. Seri Pixel 2 tidak memiliki perangkat keras yang diperlukan.
 
 **Apakah Pixel 3 mendukung eSIM?**
-Ya, tetapi hanya pada versi non-Jepang. Perangkat **Pixel 3 eSIM compatible** (AS, internasional) berfungsi. Versi SoftBank/au Jepang terkunci.
+Ya, tetapi hanya pada versi non-Jepang. Perangkat **Pixel 3 kompatibel eSIM** (AS, internasional) bekerja. Versi SoftBank/au Jepang terkunci.
 
 **Apakah Pixel 4a mendukung eSIM?**
-Ya (versi non-Jepang). Tekan `*#06#` untuk mengonfirmasi EID.
+Ya (versi non-Jepang). Hubungi `*#06#` untuk memastikan EID.
 
 **Apakah Pixel 4a 5G mendukung eSIM?**
-Ya – sama seperti Pixel 4a. Status **pixel 4a 5g esim compatible** dikonfirmasi pada model non-Jepang. Periksa EID melalui `*#06#`.
+Ya – sama seperti Pixel 4a. Status **kompatibel esim pixel 4a 5g** terkonfirmasi pada model non-Jepang. Periksa EID via `*#06#`.
 
 **Apakah Pixel 5 mendukung eSIM?**
-Ya (versi non-Jepang). Status **pixel 5 eSIM compatible** menjadikannya pilihan populer. Ini juga sering terdaftar di antara **perangkat yang kompatibel dengan us mobile eSIM** dan **ponsel yang kompatibel dengan google fi eSIM**.
+Ya (versi non-Jepang). Status **pixel 5 kompatibel esim** menjadikannya pilihan populer. Juga sering tercantum di antara **perangkat kompatibel esim us mobile** dan **ponsel kompatibel esim google fi**.
 
 **Pixel 5 vs Pixel 6a untuk perjalanan eSIM – mana yang harus saya pilih?**
 | Faktor | Pixel 5 | Pixel 6a |
 |--------|---------|----------|
 | Dukungan eSIM | ✅ (hanya non-JP) | ✅ (semua model) |
 | 5G | ❌ Tidak | ✅ Ya |
-| Daya Tahan Baterai | Baik | Lebih baik |
-| Dukungan Pembaruan | Berakhir (Okt 2024) | Hingga Juli 2027 |
+| Daya Tahan Baterai | Bagus | Lebih baik |
+| Dukungan Pembaruan | Berakhir (Okt 2024) | Sampai Juli 2027 |
 | Harga Bekas | ~$80-100 | ~$120-150 |
 | Waktu Koneksi Pertama | 2-4 mnt | 2-3 mnt |
 | **Putusan** | Terbaik di bawah $100 | Nilai keseluruhan terbaik |
 
 **Apakah Pixel 6 mendukung eSIM?**
-Ya – dukungan penuh, tanpa batasan regional. **Dukungan Pixel 6 eSIM** 100% dikonfirmasi. Pixel 6a dan 6 Pro sama.
+Ya – dukungan penuh, tanpa pembatasan regional. **Dukungan eSIM Pixel 6** 100% terkonfirmasi. Pixel 6a dan 6 Pro sama.
 
 **Apakah Pixel 7 / 8 / 9 / 10 mendukung eSIM?**
-Ya, semuanya. **Pixel 7 eSIM compatible**, **pixel 8 eSIM compatible**, Pixel 9, dan Pixel 10 tidak memiliki kunci regional.
+Ya, semuanya. **Pixel 7 kompatibel eSIM**, **pixel 8 kompatibel eSIM**, Pixel 9, dan Pixel 10 tidak memiliki kunci regional.
 
-**Bisakah saya menggunakan dua eSIM pada saat yang sama di Pixel?**
-- **Pixel 6 dan yang lebih lama:** Tidak. Anda dapat menyimpan banyak profil tetapi hanya mengaktifkan satu dalam satu waktu (bersama satu SIM fisik).
-- **Pixel 7 dan yang lebih baru:** Ya, Anda dapat mengaktifkan **dual eSIM** (dua profil aktif secara bersamaan) dengan menonaktifkan slot SIM fisik. Lihat bagian Dual eSIM untuk detailnya.
+**Bisakah saya menggunakan dua eSIM sekaligus di Pixel?**
+- **Pixel 6 dan lebih lama:** Tidak. Anda bisa menyimpan beberapa profil tetapi hanya mengaktifkan satu pada satu waktu (di samping satu SIM fisik).
+- **Pixel 7 dan lebih baru:** Ya, Anda bisa mengaktifkan **dual eSIM** (dua profil aktif bersamaan) dengan menonaktifkan slot SIM fisik. Lihat bagian Dual eSIM untuk detailnya.
 
-**Bisakah saya menggunakan SIM fisik dan eSIM pada saat yang sama?**
-Ya. Semua Pixel 3 dan model yang lebih baru mendukung DSDS (Dual SIM Dual Standby), memungkinkan satu SIM fisik dan satu eSIM aktif secara bersamaan.
+**Bisakah saya menggunakan SIM fisik dan eSIM sekaligus?**
+Ya. Semua model Pixel 3 dan lebih baru mendukung DSDS (Dual SIM Dual Standby), memungkinkan satu SIM fisik dan satu eSIM aktif bersamaan.
 
 **Apakah eSIM di Pixel mendukung 5G?**
-Ya – Pixel 6 dan yang lebih baru mendukung 5G di eSIM. Pixel 5 dan yang lebih lama hanya 4G/LTE.
+Ya – Pixel 6 dan lebih baru mendukung 5G di eSIM. Pixel 5 dan lebih lama hanya 4G/LTE.
 
-**Mengapa saya tidak dapat mentransfer eSIM dari Pixel lama ke Pixel baru?**
-Beberapa operator mengharuskan Anda melepaskan profil dari perangkat lama melalui aplikasi mereka sebelum mengaktifkan di yang baru. Yang lain mengizinkan unduh ulang menggunakan kode QR asli. Selalu periksa kebijakan transfer penyedia Anda (lihat bagian Transfer eSIM di atas).
+**Mengapa saya tidak bisa memindahkan eSIM saya dari Pixel lama ke yang baru?**
+Beberapa operator mengharuskan Anda melepaskan profil dari perangkat lama melalui aplikasi mereka sebelum mengaktifkan di perangkat baru. Yang lain mengizinkan pengunduhan ulang menggunakan kode QR asli. Selalu periksa kebijakan transfer penyedia Anda (lihat bagian Transfer eSIM di atas).
 
 **Pixel mana yang terbaik untuk perjalanan eSIM dengan anggaran terbatas?**
 **Pixel 6a** menawarkan nilai terbaik: murah, dukungan penuh, 5G, dan daya tahan baterai yang baik. Pilihan kedua: **Pixel 5** (non-Jepang) jika ditemukan dengan harga lebih rendah.
 
-**Bisakah saya menggunakan eSIM dari negara yang berbeda dari tempat saya membeli Pixel?**
-Ya. Fitur ini tidak terikat wilayah. Pixel 6 yang dibeli di AS dapat menginstal dan menggunakan eSIM Jepang, eSIM Eropa, atau paket global lainnya, selama penyedia mendukung perangkat.
+**Bisakah saya menggunakan eSIM dari negara berbeda dari tempat saya membeli Pixel saya?**
+Ya. Fiturnya tidak terikat wilayah. Pixel 6 yang dibeli di AS bisa menginstal dan menggunakan eSIM Jepang, eSIM Eropa, atau paket global lainnya, asalkan penyedianya mendukung perangkat tersebut.
 
-**Apakah Pixel berfungsi dengan eSIM di China?**
-Ya – penyedia internasional menawarkan paket China yang berfungsi di Pixel 6 dan yang lebih baru. Operator lokal China tidak menawarkan fitur ini kepada turis.
+**Apakah Pixel bekerja dengan eSIM di Tiongkok?**
+Ya – penyedia internasional menawarkan paket Tiongkok yang bekerja di Pixel 6 dan lebih baru. Operator lokal Tiongkok tidak menawarkan fitur ini kepada wisatawan.
 
-**Apa yang harus saya lakukan jika melihat error "aktivasi gagal"?**
-Lihat bagian Pemecahan Masalah Error Aktivasi eSIM di atas, yang mencakup kode error umum dan perbaikan.
+**Apa yang harus saya lakukan jika saya melihat error "activation failed"?**
+Lihat bagian Pemecahan Masalah Error Aktivasi eSIM di atas, yang mencakup kode error umum dan perbaikannya.
 
-**Bisakah saya mem-flash firmware internasional pada Pixel Jepang untuk mengaktifkan eSIM?**
-**Tidak.** Ini adalah kesalahpahaman umum. Batasan pada Pixel Jepang ada di **firmware baseband** (tingkat modem), bukan OS Android. Mem-flash ROM internasional tidak akan mengaktifkan fitur ini. Satu-satunya solusi nyata adalah membeli Pixel non-Jepang.
+**Bisakah saya mem-flash firmware internasional di Pixel Jepang untuk mengaktifkan eSIM?**
+**Tidak.** Ini adalah miskonsepsi yang umum. Pembatasan pada Pixel Jepang ada di **firmware baseband** (tingkat modem), bukan di OS Android. Mem-flash ROM internasional tidak akan mengaktifkan fiturnya. Satu-satunya solusi nyata adalah membeli Pixel non-Jepang.
 
-**Apa Pixel termurah dengan dukungan eSIM penuh (tanpa batasan regional)?**
-**Pixel 6a** – biasanya $120-150 bekas. Ini memiliki dukungan penuh pada setiap perangkat, terlepas dari wilayahnya. Pixel 5 yang lebih lama bisa lebih murah (~$80-100) tetapi hanya berfungsi jika itu versi non-Jepang – dan Anda perlu memverifikasi sebelum membeli.
+**Apa Pixel termurah dengan dukungan eSIM penuh (tanpa pembatasan regional)?**
+**Pixel 6a** – biasanya $120-150 bekas. Ponsel ini memiliki dukungan penuh di setiap perangkat, apa pun wilayahnya. Pixel 5 yang lebih lama bisa lebih murah (~$80-100) tetapi hanya bekerja jika versi non-Jepang – dan Anda perlu memverifikasi sebelum membeli.
 
-**Mengapa Pixel saya menunjukkan "Tidak Ada Layanan" setelah menginstal eSIM?**
+**Mengapa Pixel saya menampilkan "No Service" setelah menginstal eSIM?**
 Ini biasanya salah satu dari tiga masalah:
-1. **Data Roaming MATI** – buka Pengaturan > Jaringan & Internet > SIM > [eSIM] dan aktifkan **Data Roaming** NYALA.
-2. **Pengaturan APN salah** – lihat bagian APN di atas untuk mengonfigurasi.
-3. **Pemilihan jaringan manual diperlukan** – buka Pengaturan > Jaringan & Internet > SIM > [eSIM] > Operator Jaringan → matikan Otomatis → pilih jaringan secara manual.
+1. **Data Roaming OFF** – buka Settings > Network & Internet > SIMs > [eSIM] dan nyalakan **Data Roaming** ON.
+2. **Pengaturan APN salah** – lihat bagian APN di atas untuk konfigurasi.
+3. **Perlu pemilihan jaringan manual** – buka Settings > Network & Internet > SIMs > [eSIM] > Network Operators → matikan Automatic → pilih jaringan secara manual.
 
-**Berapa banyak profil eSIM yang dapat disimpan oleh Pixel saya?**
-- **Pixel 6 dan yang lebih baru:** Hingga 10 profil (meskipun hanya satu atau dua yang dapat aktif dalam satu waktu).
-- **Pixel 5 dan yang lebih lama:** Hingga 5 profil.
+**Berapa banyak profil eSIM yang bisa disimpan Pixel saya?**
+- **Pixel 6 dan lebih baru:** Hingga 10 profil (meskipun hanya satu atau dua yang bisa aktif pada satu waktu).
+- **Pixel 5 dan lebih lama:** Hingga 5 profil.
 - **Pixel 2:** Tidak berlaku – tidak ada perangkat keras eSIM.
 
 **Berapa lama waktu yang dibutuhkan eSIM saya untuk terhubung setelah aktivasi?**
-- **Pixel 6 dan yang lebih baru:** 1-3 menit.
-- **Pixel 5 dan yang lebih lama:** 2-5 menit.
-- Jika memakan waktu lebih dari 15 menit, ada yang salah – periksa Data Roaming, pengaturan APN, dan coba pemilihan jaringan manual.
+- **Pixel 6 dan lebih baru:** 1-3 menit.
+- **Pixel 5 dan lebih lama:** 2-5 menit.
+- Jika lebih dari 15 menit, ada yang salah – periksa Data Roaming, pengaturan APN, dan coba pemilihan jaringan manual.
 
 **Apa itu alamat SM-DP+?**
-Alamat SM-DP+ (Subscription Manager Data Preparation) adalah server yang mengirimkan profil operator Anda. Sebagian besar pengguna tidak perlu mengetahuinya – memindai kode QR secara otomatis mengisinya. Jika Anda memasukkan detail secara manual, Anda akan memerlukan alamat SM-DP+ dan kode aktivasi dari penyedia Anda.
+Alamat SM-DP+ (Subscription Manager Data Preparation) adalah server yang mengirimkan profil operator Anda. Sebagian besar pengguna tidak perlu mengetahuinya – memindai kode QR otomatis mengisinya. Jika Anda memasukkan detail secara manual, Anda membutuhkan alamat SM-DP+ dan kode aktivasi dari penyedia Anda.
+
+👉 **Berencana bepergian dengan Pixel Anda?** Lihat [eSIM untuk Jepang](/japan-esim/) atau [eSIM untuk AS](/united-states-esim/).
+
+Untuk ponsel mana yang bekerja di jaringan Jepang, baca [panduan kompatibilitas eSIM Jepang](/blog/japan-esim-compatibility-guide/) kami.
 
 
-## Coba eSIM gratis di Pixel Anda – tanpa risiko
+## Coba eSIM Gratis di Pixel Anda
 
-Cara paling andal untuk mengonfirmasi kompatibilitas Pixel Anda adalah dengan menginstal **uji coba gratis eSIM**. Hanya butuh 2 menit dan tidak ada biaya.
+Cara paling andal untuk memastikan kompatibilitas Pixel Anda adalah menginstal **eSIM uji coba gratis**. Hanya butuh 2 menit dan tanpa biaya.
 
 👉 [**Dapatkan eSIM gratis Anda sekarang**](/free-esim/)
 
 ---
 
-*Berdasarkan dokumentasi resmi Google, standar GSMA, dan informasi operator. Diperbarui: Agustus 2026.*
+*Berdasarkan dokumentasi resmi Google, standar GSMA, dan informasi operator. Diperbarui: September 2026.*
 ## Sumber
 
-- [GSMA — Spesifikasi eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [GSMA — spesifikasi eSIM (SGP.22)](https://www.gsma.com/esim/)
 - [Google Support — Menyiapkan eSIM](https://support.google.com/pixelphone/answer/14853135)
-- [Google Support — eSIM Android](https://support.google.com/android/answer/11241215)
-- [Google Fi — Ponsel yang kompatibel](https://fi.google.com/about/compatible-phones)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)
+- [Google Fi — Ponsel kompatibel](https://fi.google.com/about/compatible-phones)
 - [Google — Spesifikasi perangkat keras Pixel](https://store.google.com/category/phones)

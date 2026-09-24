@@ -1,14 +1,14 @@
 ---
-title: "Cara Mengaktifkan eSIM di iOS dan Android (Panduan)"
+title: "Cara Mengaktifkan eSIM di iOS dan Android"
 h1_title: "Cara Mengaktifkan eSIM di iOS dan Android (Langkah demi Langkah)"
-description: "Panduan langkah demi langkah untuk mengaktifkan eSIM di iPhone dan Android. Pindai kode QR, masukkan detail secara manual, atau gunakan aplikasi operator, serta perbaikan untuk kegagalan aktivasi."
-keywords: ["aktivasi eSIM", "cara mengaktifkan eSIM", "aktifkan eSIM iPhone", "Android eSIM", "kode QR eSIM", "masukan manual eSIM", "pemecahan masalah eSIM", "eSIM perjalanan", "pengaturan eSIM iPhone", "tambah eSIM ke iPhone"]
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
-tags: ["eSIM", "iOS", "Android", "Pemecahan Masalah", "Pengaturan Perjalanan"]
+description: "Panduan langkah demi langkah mengaktifkan eSIM di iPhone dan Android: kode QR, entri manual, atau aplikasi operator, plus perbaikan untuk kegagalan aktivasi."
+keywords: ["eSIM activation", "how to activate eSIM", "activate eSIM iPhone", "Android eSIM", "eSIM QR code", "eSIM manual entry", "eSIM troubleshooting", "travel eSIM", "eSIM setup iPhone", "add eSIM to iPhone"]
+date: 22026-09-15T00:00:00Z
+lastmod: 22026-09-15T00:00:00Z
+tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
-image: "/images/esim-activation-guide.jpg"
-
+image: "/img/faq/how-to-activate-esim.webp"
+image-1: "/img/faq/how-to-activate-esim-1.jpg"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"
@@ -33,32 +33,32 @@ sidebar_popular:
   title: "eSIM Populer"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM AS"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "eSIM Jerman"
+    - name: "Germany eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "eSIM Eropa"
+    - name: "Europe eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "eSIM Turki"
+    - name: "Turkey eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "eSIM Jepang"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "eSIM Cina"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
@@ -71,7 +71,7 @@ sidebar_free:
   item_suffix: "eSIM Gratis"
   item_subtitle: "eSIM Gratis"
   items:
-    - name: "eSIM Inggris"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Jerman"
@@ -92,463 +92,272 @@ sidebar_questions:
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Bagaimana cara mengaktifkan eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Bagaimana cara mengaktifkan eSIM di iPhone (Semua Model)?"
+    - question: "Cara mengaktifkan eSIM di iPhone (Semua Model)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Daftar Kompatibilitas eSIM Terbaru"
       url: "/compatibility/"
 ---
 
 
-> **Catatan Editor:** Roami adalah merek di balik panduan ini. Kami telah mengaktifkan eSIM pada ribuan perangkat di berbagai merek besar dan lebih dari 40 negara. Setiap langkah dalam panduan ini telah diuji pada perangkat keras nyata yang menjalankan iOS 17/18 dan Android 13/14/15. Kami fokus pada apa yang benar-benar berhasil — bukan teori.
+> **Catatan Editor:** Mengaktifkan eSIM butuh sekitar lima menit — Anda memindai kode QR atau memasukkan alamat SM-DP+ dan membiarkan profilnya diunduh. Langkah-langkah di bawah adalah yang persis dipakai tim dukungan kami, diuji di iOS 17/18 dan Android 13/14/15. Ikuti jalur untuk ponsel Anda dan Anda akan online sebelum lepas landas.
 
-**Intinya:** Untuk mengaktifkan eSIM, Anda memerlukan ponsel yang tidak terkunci operator, koneksi Wi-Fi yang stabil, dan kode QR eSIM dari penyedia Anda. Navigasikan ke pengaturan seluler ponsel Anda, pilih "Tambah eSIM" atau "Tambah Paket Data", pindai kode QR, dan tunggu 1-2 menit hingga profil digital diunduh dan diinstal. Jika Anda mengalami kesalahan **aktivasi eSIM gagal**, panduan ini mencakup semua perbaikannya.
+**Kesimpulan di Depan:** Mengaktifkan eSIM berarti mengunduh profil operator digital ke ponsel Anda. Apa pun mereknya, resepnya sama: ponsel yang tidak terkunci, koneksi Wi-Fi stabil, dan kode QR (atau detail entri manualnya) dari penyedia Anda. Buka pengaturan seluler Anda, ketuk "Tambah eSIM," pindai atau ketik, dan tunggu sekitar dua menit.
 
-Untuk pengenalan umum tentang teknologi eSIM, lihat panduan [Apa itu eSIM?](/faq/what-is-esim/) kami. Jika Anda masih mengalami masalah setelah mengikuti panduan ini, [Panduan Pemecahan Masalah Mendalam eSIM (16 kasus nyata)](/faq/esim-deep-troubleshooting-guide-2026/) kami mencakup skenario lanjutan.
+Jika ini pertama kalinya, panduan [Apa itu eSIM?](/faq/what-is-esim/) kami menjelaskan teknologinya, dan [Apa itu aktivasi eSIM?](/faq/what-is-esim-activation-and-how-does-it-work/) menjelaskan apa yang sebenarnya terjadi di balik layar saat Anda memindai.
 
+> **Memakai iPhone?** Halaman ini mencakup kedua platform, tetapi panduan iOS-nya lebih dalam. Untuk perbedaan versi iOS, Quick Transfer, dan registrasi ulang iMessage/FaceTime, baca [Cara Mengaktifkan eSIM di iPhone](/faq/how-to-activate-esim-on-iphone/). Memakai iPhone 16 dan melihat "Unable to Activate"? Lihat [panduan eSIM iPhone 16](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/).
 
-## Pemeriksaan Cepat 10 Detik – Apakah Ponsel Anda Mendukung eSIM?
+## Apakah ponsel Anda mendukung eSIM?
 
-Sebelum memulai, verifikasi perangkat Anda mendukung eSIM. Begini caranya — hanya butuh 10 detik.
+Pemeriksaan 10 detik: panggil `*#06#` dan cari **EID** 32 digit. Jika ada, Anda siap. Untuk daftar lengkap per perangkat — setiap merek Android dan iPhone lama — lihat [daftar kompatibilitas eSIM lengkap](/compatibility/).
 
-| Merek Perangkat | Cara Memeriksa | Putusan Dukungan eSIM |
-|--------------|--------------|---------------------|
-| **iPhone** | Tekan `*#06#` — cari nomor **EID** | EID ada = ✅ siap eSIM. Tidak ada EID = ❌ tidak ada eSIM (iPhone X atau lebih lama, atau model China) |
-| **Samsung Galaxy** | Pengaturan > Koneksi > Manajer SIM — cari **Tambah eSIM** | Opsi terlihat = ✅ siap eSIM. S20 dan lebih baru (model global) mendukung eSIM |
-| **Google Pixel** | Pengaturan > Jaringan & Internet > SIM — cari ikon **+** | Opsi terlihat = ✅ siap eSIM. Pixel 3 dan lebih baru mendukung eSIM |
-| **OnePlus** | Pengaturan > Wi-Fi & Jaringan > SIM & Jaringan — cari **Tambah eSIM** | Opsi terlihat = ✅ siap eSIM. Seri Nord, 9, 10, 11 mendukung eSIM |
-| **Xiaomi** | Pengaturan > Kartu SIM & Jaringan Seluler — cari **Tambah eSIM** | Opsi terlihat = ✅ siap eSIM. Seri 12, 13, 14 mendukung eSIM |
-| **Motorola** | Pengaturan > Jaringan & Internet > Jaringan Seluler — cari **Tambah Operator** | Opsi terlihat = ✅ siap eSIM. Seri Edge dan yang lebih baru mendukung eSIM |
-| **iPad (Seluler)** | Pengaturan > Data Seluler — cari **Tambah Paket Seluler** | Opsi terlihat = ✅ siap eSIM. Pro (gen ke-3+), Air (gen ke-3+), mini (gen ke-6+) |
-| **Apple Watch** | Aplikasi Watch > Watch Saya > Seluler — cari **Atur Seluler** | Opsi terlihat = ✅ siap eSIM. Seri 4+ (model seluler) mendukung eSIM |
+## Daftar Periksa Pra-Penerbangan Aktivasi eSIM
 
-**Jika perangkat Anda tidak menampilkan EID atau opsi eSIM:** Perangkat tersebut tidak memiliki perangkat keras eSIM. Anda perlu menggunakan SIM fisik sebagai gantinya. Untuk daftar lengkap, periksa [daftar perangkat yang kompatibel dengan eSIM lengkap](/compatibility/).
+Sebagian besar kegagalan aktivasi bisa dicegah sebelum Anda memindai apa pun. Jalankan keenam pemeriksaan ini terlebih dahulu.
 
+| Pemeriksaan | Lolos jika |
+|---|---|
+| Ponsel tidak terkunci | iPhone: Pengaturan > Umum > Tentang > Carrier Lock tertulis "No SIM restrictions" |
+| Wi-Fi stabil | Tersambung ke Wi-Fi rumah atau kantor, bukan bandara atau hotel |
+| Kode sandi diketahui | Anda bisa mengetik kode sandi layar kunci saat diminta |
+| QR terjangkau | Email terbuka di laptop, tablet, atau halaman tercetak |
+| Layar terang | Perangkat yang menampilkan QR berada di 100% kecerahan |
+| EID tersedia | `*#06#` mengembalikan EID |
 
-## Alur Keputusan Aktivasi Cepat – Metode eSIM Mana yang Sesuai dengan Situasi Anda?
+Lewati salah satu dari ini dan Anda kemungkinan besar akan masuk antrean penanganan masalah. Tiga penyebab kegagalan paling umum, berurutan: ponsel terkunci operator, Wi-Fi lemah di tengah unduhan, dan memindai dengan aplikasi Kamera alih-alih lewat Pengaturan.
 
-Tidak yakin metode aktivasi mana yang berlaku untuk Anda? Gunakan peta keputusan ini untuk menemukan jalur yang tepat dalam hitungan detik.
+### Tindakan persiapan yang layak dilakukan sebelum memindai
 
-| Situasi Anda | Yang Anda Butuhkan | Lompat Ke |
-|----------------|---------------|---------|
-| **"Saya punya kode QR dari operator saya – apa yang harus saya lakukan?"** | Pemindaian kode QR | [Pindai QR iPhone](#cara-mengaktifkan-esim-di-iphone-ios) atau [Pindai QR Android](#cara-mengaktifkan-esim-di-android) |
-| **"Saya tidak bisa memindai kode QR – kode itu ada di ponsel yang sama yang saya gunakan"** | Masukan manual (alamat SM-DP+) | [Bagian masukan manual](#cara-mengaktifkan-esim-di-iphone-ios) (iPhone) atau [Bagian masukan manual](#cara-mengaktifkan-esim-di-android) (Android) |
-| **"Saya membeli eSIM melalui aplikasi – tidak ada kode QR"** | Aktivasi dalam aplikasi | [Aktivasi melalui aplikasi operator](#aktifkan-esim-melalui-aplikasi-operator--alternatif-selain-kode-qr) |
-| **"Saya menyiapkan iPhone baru – dapatkah saya memindahkan eSIM saya?"** | Transfer Cepat | [Transfer eSIM ke ponsel baru](#cara-mentransfer-esim-ke-ponsel-baru-ios--android) |
-| **"Saya baru saja menginstalnya tetapi tidak ada sinyal"** | Pemecahan masalah pasca-aktivasi | [Pemecahan Masalah](#pemecahan-masalah-kesalahan-aktivasi-esim-gagal--perbaikan-umum) |
-| **"Saya beralih dari Android ke iPhone (atau sebaliknya)"** | Transfer lintas platform | [Transfer lintas platform](#transfer-lintas-platform-iphone--android) |
-| **"Saya ingin menggunakan SIM rumah dan eSIM perjalanan bersama-sama"** | Pengaturan Dual SIM | [Menggunakan Dual SIM dengan eSIM dan SIM Fisik](#menggunakan-dual-sim-dengan-esim-dan-sim-fisik--praktik-terbaik) |
+Tabel di atas tentang *pemeriksaan*. Daftar ini tentang *tindakan* — hal-hal yang layak dilakukan sebelum Anda mengetuk "Tambah eSIM" agar Anda tidak perlu terburu-buru di tengah penyiapan.
 
+1. **Simpan kode QR ke Foto.** Screenshot atau unduh gambarnya, sehingga Anda bisa memakai "Choose Photo" alih-alih mengarahkan kamera ke layar lain. Jika kodenya di email, ini juga berarti Anda tidak perlu membuka ulang kotak masuk saat itu.
+2. **Screenshot alamat SM-DP+ dan kode aktivasi.** Dua string ini adalah cadangan offline Anda. Dengan keduanya tersimpan, kode QR yang rusak tidak bisa menghentikan Anda.
+3. **Unduh aplikasi penyedia dan masuk.** Roami, Airalo, dan Holafly semuanya menawarkan instalasi sekali ketuk dari dalam aplikasinya — tetapi hanya jika Anda sudah masuk sebelum meninggalkan Wi-Fi yang layak.
+4. **Isi daya ponsel di atas 50%.** Unduhan profil kecil, tetapi ponsel yang mati saat instalasi bisa meninggalkan profil setengah tertulis yang lalu harus Anda hapus dan tambahkan lagi.
+5. **Ketahui kode sandi layar kunci Anda.** iOS dan Android sama-sama memintanya untuk mengizinkan instalasi. Jika Anda selama ini memakai Face ID atau sidik jari, ketik kode sandinya sekali dulu untuk memastikan Anda ingat.
+6. **Pastikan ponsel tidak terkunci.** Di iPhone: Pengaturan > Umum > Tentang > Carrier Lock. Di Android: tanyakan ke operator Anda, atau uji SIM milik teman dari jaringan lain.
+7. **Pasang di Wi-Fi rumah, bukan Wi-Fi bandara.** Anda bisa memasang berminggu-minggu sebelum perjalanan; paketnya tetap tidak aktif sampai ponsel Anda tersambung ke jaringan di tujuan.
+8. **Putuskan saluran mana yang menjalankan apa.** Jika Anda mempertahankan SIM rumah, rencanakan sekarang: eSIM perjalanan menangani data, SIM rumah menangani panggilan dan pesan. Kami membahas ini di bawah.
 
-## Daftar Periksa Pra-Penerbangan 60 Detik Aktivasi – Jangan Lewatkan 6 Pemeriksaan Ini
+## Cara Mengaktifkan eSIM di iPhone
 
-**Sebelum Anda memindai kode QR itu, jalankan daftar periksa ini. Hanya butuh 60 detik dan akan menyelamatkan Anda dari kegagalan aktivasi yang paling umum.**
+Setiap iPhone sejak XS mengikuti satu jalur. Buka **Pengaturan > Seluler**, ketuk **Tambah eSIM** (atau **Tambah Paket Data**), pilih **Gunakan Kode QR**, dan jaga ponsel tetap stabil sekitar 15 cm dari kodenya. Saat "Cellular Setup Complete" muncul, Anda selesai — unduhannya biasanya memakan 30–60 detik.
 
-| Pemeriksaan | Cara Memverifikasi | Lulus/Gagal |
-|-------|---------------|-----------|
-| **Tidak terkunci operator?** | iPhone: Pengaturan > Umum > Tentang > Kunci Operator → harus mengatakan "Tidak ada batasan SIM" | ☐ |
-| **Wi-Fi terhubung?** | Hubungkan ke jaringan Wi-Fi yang stabil. Hindari Wi-Fi publik/hotel. | ☐ |
-| **Tahu kode sandi Anda?** | iOS akan meminta kode sandi layar kunci Anda selama instalasi. | ☐ |
-| **Kode QR dapat diakses?** | Buka email dengan kode QR di laptop, tablet, atau salinan cetak. | ☐ |
-| **Kecerahan kode QR maksimal?** | Jika memindai dari layar, atur kecerahan ke 100%. | ☐ |
-| **EID ada?** | Tekan `*#06#` — EID = siap eSIM. Tidak ada EID = gunakan SIM fisik. | ☐ |
+Tidak ada kamera? Ketuk **Enter Details Manually** dan tempel alamat SM-DP+ serta kode aktivasi dari email penyedia Anda.
 
-**Jika semua kotak dicentang, Anda siap untuk mengaktifkan.** Jika ada kotak yang tidak dicentang, perbaiki masalah itu terlebih dahulu sebelum melanjutkan.
-
----
-
-**Mengapa pemeriksaan ini penting:** Penyebab #1 dari kesalahan **aktivasi eSIM gagal** adalah ponsel yang terkunci operator. Penyebab #2 adalah mencoba mengaktifkan tanpa koneksi Wi-Fi yang stabil. Penyebab #3 adalah memindai kode QR dengan aplikasi Kamera alih-alih melalui Pengaturan. Jalankan daftar periksa ini dan Anda akan menghindari 90% kegagalan aktivasi.
-
----
-
-## Cara Mengaktifkan eSIM di iPhone (iOS)
-
-Apple telah menyederhanakan proses **pengaturan eSIM iPhone** dalam pembaruan iOS terbaru. Ikuti langkah-langkah tepat ini untuk menginstal profil eSIM Anda dan menyelesaikan proses **tambah eSIM ke iPhone** Anda.
-
-1. **Langkah 1:** Buka **Pengaturan > Seluler** (atau **Data Seluler** tergantung wilayah Anda).
-2. **Langkah 2:** Ketuk **Tambah eSIM** (atau **Tambah Paket Data** pada versi iOS lama). Jika opsi ini berwarna abu-abu, iPhone Anda mungkin terkunci operator.
-3. **Langkah 3:** Ketuk **Gunakan Kode QR** di bagian bawah layar.
-4. **Langkah 4:** Posisikan **kode QR eSIM** dalam bingkai kamera. Pegang ponsel dengan stabil pada jarak sekitar 15cm. Pastikan kode QR cukup terang dan layar yang menampilkannya pada kecerahan penuh (jika kode QR ditampilkan di layar lain).
-5. **Langkah 5:** Setelah dikenali, ketuk **Lanjutkan** dan tunggu pesan "Pengaturan Seluler Selesai". **Unduhan profil eSIM** biasanya memakan waktu 30-60 detik.
-
-**Khusus iOS 18:** Jika Anda menggunakan iOS 18, antarmuka "Tambah eSIM" telah didesain ulang dengan tombol masukan manual yang lebih menonjol di bagian bawah layar pemindaian. Alur aktivasi lebih lancar — Anda akan melihat indikator kemajuan selama unduhan profil.
-
-Jika Anda tidak dapat memindai kode (misalnya, kode QR ada di ponsel yang Anda gunakan), ketuk **Masukkan Detail Secara Manual** di bagian bawah layar pemindaian. Tempelkan **Alamat SM-DP+** dan **Kode Aktivasi** yang disediakan dalam email operator Anda. Metode **masukan manual eSIM** ini menghindari kode QR sepenuhnya dan merupakan cadangan yang andal ketika pemindaian **kode QR eSIM** gagal — ini adalah cara paling umum untuk **cara mengaktifkan eSIM** ketika kamera tidak mau bekerja sama.
-
-**Setelah instalasi, konfigurasikan pengaturan penting ini:**
-- Beri label eSIM dengan jelas (misalnya, "Perjalanan", "Kerja", "Perjalanan AS")
-- Tetapkan jalur default untuk panggilan/SMS (biasanya pertahankan SIM utama sebagai default)
-- Tetapkan eSIM perjalanan sebagai jalur **Data Seluler**
-- MATIKAN **Izinkan Peralihan Data Seluler** untuk mencegah biaya roaming yang tidak disengaja
-- Biarkan Data Roaming MATI pada eSIM sampai Anda tiba di tujuan, lalu aktifkan
-
-> 💡 **Tips Pelancong:** Anda dapat menginstal **eSIM perjalanan** di rumah saat Anda masih memiliki Wi-Fi yang andal. Profil eSIM tetap tidak aktif di ponsel Anda sampai Anda tiba di tujuan dan menyalakan Data Roaming untuk jalur tersebut. Dengan cara ini, Anda turun dari pesawat sudah terhubung.
-
+Untuk alur iOS 18 yang didesain ulang, Quick Transfer antar iPhone, dan registrasi ulang iMessage/FaceTime setelah beralih saluran, lihat [Cara Mengaktifkan eSIM di iPhone](/faq/how-to-activate-esim-on-iphone/).
 
 ## Cara Mengaktifkan eSIM di Android
 
-Menu Android sedikit bervariasi tergantung pada pabrikan perangkat Anda. Berikut adalah jalur yang tepat untuk merek Android paling populer, bersama dengan instruksi umum untuk **aktifkan eSIM Android**.
+Label menunya berubah tergantung merek, tetapi setiap jalur eSIM Android adalah "buka pengaturan, cari Tambah eSIM, pindai atau ketik."
 
-### Untuk Perangkat Samsung Galaxy (One UI 5, 6, 6.1, 7):
+| Merek | Jalur ke "Tambah eSIM" |
+|---|---|
+| Samsung Galaxy (One UI 5–7) | Pengaturan > Koneksi > SIM Manager > Tambah eSIM |
+| Google Pixel (Android 13–15) | Pengaturan > Jaringan & internet > + di samping SIM > Unduh SIM saja? |
+| OnePlus (OxygenOS 13–14) | Pengaturan > Wi-Fi & Jaringan > SIM & Jaringan > Tambah eSIM |
+| Xiaomi (MIUI/HyperOS) | Pengaturan > Kartu SIM & Jaringan Seluler > Tambah eSIM |
+| Motorola | Pengaturan > Jaringan & Internet > Jaringan Seluler > Tambah Operator |
+| Merek lain | Cari "eSIM" di Pengaturan |
 
-1. **Langkah 1:** Buka **Pengaturan > Koneksi**.
-2. **Langkah 2:** Ketuk **Manajer SIM**.
-3. **Langkah 3:** Pilih **Tambah eSIM** (mungkin juga muncul sebagai "Tambah paket seluler").
-4. **Langkah 4:** Ketuk **Pindai kode QR dari penyedia layanan**.
-5. **Langkah 5:** Posisikan **kode QR eSIM** dalam bingkai kamera. Setelah dipindai, ketuk **Tambah** saat diminta.
-6. **Langkah 6:** Ikuti petunjuk di layar untuk menyelesaikan unduhan. Beri label eSIM Anda dan atur preferensi Anda untuk data dan panggilan.
+Jika opsinya tidak ada, model Anda kemungkinan tidak punya perangkat keras eSIM — konfirmasikan dengan [daftar kompatibilitas perangkat](/compatibility/).
 
-### Untuk Perangkat Google Pixel (Android 13, 14, 15):
+### Entri manual di Android
 
-1. **Langkah 1:** Buka **Pengaturan > Jaringan & internet**.
-2. **Langkah 2:** Ketuk ikon **+ (tambah)** di samping **SIM**.
-3. **Langkah 3:** Ketuk **Unduh SIM sebagai gantinya?** di bagian bawah layar.
-4. **Langkah 4:** Ketuk **Berikutnya** dan pindai kode QR Anda saat diminta.
-5. **Langkah 5:** Tunggu hingga **unduhan profil eSIM** selesai. Setelah selesai, buka pengaturan **Jaringan seluler** untuk mengkonfigurasi SIM mana yang menangani data dan panggilan.
+Saat QR tidak bisa dipindai, cari "Masukkan kode aktivasi secara manual" atau "Butuh bantuan?" di layar Tambah eSIM, lalu ketik alamat SM-DP+ dan kode aktivasi. Ini bekerja di setiap ponsel eSIM Android dan merupakan cadangan paling andal.
 
-Halaman [Google Support – eSIM di Pixel](https://support.google.com/pixelphone/answer/7086887) menyediakan detail tambahan untuk pengguna Pixel. Untuk pengguna Samsung, halaman [Samsung Support – eSIM](https://www.samsung.com/us/support/) menawarkan panduan khusus model.
+### Jalur menu Android, merek demi merek
 
-### Untuk Perangkat OnePlus (Oxygen OS 13, 14):
+Tabel di atas membawa Anda ke sana; ini detailnya di bawahnya. Setiap merek menamai fitur yang sama sedikit berbeda, dan jalurnya bergeser sedikit antar versi perangkat lunak.
 
-1. **Langkah 1:** Buka **Pengaturan > Wi-Fi & Jaringan**.
-2. **Langkah 2:** Ketuk **SIM & Jaringan**.
-3. **Langkah 3:** Ketuk **Tambah eSIM**.
-4. **Langkah 4:** Pindai kode QR Anda atau masukkan detail secara manual.
+| Merek & perangkat lunak | Jalur persisnya | Catatan |
+|---|---|---|
+| Samsung (One UI 7) | Pengaturan > Koneksi > SIM Manager > **Tambah eSIM** | One UI 6.0 memindahkan "SIM card manager" ke "SIM Manager"; One UI 5.x yang lebih lama masih menulis "SIM card manager." |
+| Samsung (One UI 5) | Pengaturan > Koneksi > **SIM card manager** > Tambah paket seluler | Labelnya berubah menjadi "Tambah paket seluler" alih-alih "Tambah eSIM." |
+| Google Pixel (Android 15) | Pengaturan > Jaringan & internet > **SIM** > Tambah SIM > Unduh SIM saja? > Berikutnya | Pixel adalah merek paling konsisten — jalurnya nyaris tak berubah sejak Android 12. |
+| Google Pixel (Android 12) | Pengaturan > Jaringan & internet > Jaringan seluler > **Tambah eSIM** | Pixel lama memakai label sederhana "Tambah eSIM" sebelum layar SIM hadir. |
+| Xiaomi / Redmi / POCO (HyperOS) | Pengaturan > **Kartu SIM & jaringan seluler** > eSIM > Tambah eSIM | eSIM hanya ada di model global tertentu (Xiaomi 13/13T, 14/14T, 15); sebagian besar unit Redmi/POCO tidak punya perangkat keras eSIM. |
+| OnePlus (OxygenOS 14) | Pengaturan > Jaringan seluler > **SIM & jaringan** > Tambah eSIM | OxygenOS 13 menyembunyikannya di "Wi-Fi & jaringan"; 14 merapikannya ke "Jaringan seluler." |
+| Motorola | Pengaturan > Jaringan & internet > Jaringan seluler > **Tambah operator** | Hanya model tertentu (razr dan sebagian Edge) yang membawa eSIM; banyak model Moto G tidak. |
+| Honor / Oppo / Vivo / Realme | Cari "eSIM" di Pengaturan | Dukungannya tidak merata dan spesifik model — periksa [daftar kompatibilitas eSIM](/compatibility/) sebelum berasumsi ada. |
 
-**Pemecahan masalah OnePlus eSIM:** Jika Anda tidak melihat "Tambah eSIM," periksa pembaruan Oxygen OS — versi lama menyembunyikan opsi eSIM untuk beberapa wilayah. Buka Pengaturan > Sistem > Pembaruan Sistem.
+Jika Anda tidak melihat salah satu dari ini, cari "eSIM" di bilah pencarian Pengaturan. Jika tidak muncul apa pun, ponsel itu hampir pasti tidak punya perangkat keras eSIM — detail lengkap tingkat model ada di [panduan merek eSIM Android](/faq/android-esim-other-brands-deep-guide/) dan [daftar perangkat lengkap](/compatibility/).
 
-### Untuk Perangkat Xiaomi (MIUI / HyperOS):
+## Di mana menemukan alamat SM-DP+ dan kode aktivasi
 
-1. **Langkah 1:** Buka **Pengaturan > Kartu SIM & Jaringan Seluler**.
-2. **Langkah 2:** Ketuk **Tambah eSIM**.
-3. **Langkah 3:** Pindai kode QR Anda atau masukkan detail secara manual.
+Entri manual membutuhkan dua string yang ada di email konfirmasi Anda atau aplikasi penyedia.
 
-**Pemecahan masalah Xiaomi eSIM:** Ponsel Xiaomi yang dijual di Cina daratan tidak memiliki perangkat keras eSIM. Jika Anda membeli Xiaomi di Cina, eSIM tidak akan berfungsi terlepas dari pengaturannya.
+| Penyedia | Di mana mencari |
+|---|---|
+| Roami | Email konfirmasi — "Manual installation details" / "SM-DP+ Address" |
+| Airalo | Aplikasi: paket > Detail > Instalasi manual |
+| Holafly | Email konfirmasi — "Manual installation" |
+| Nomad | Aplikasi: detail eSIM > Instalasi manual |
+| Google Fi | Entri manual tidak didukung — gunakan aplikasi Fi |
+| US Mobile | Aplikasi: Akun > eSIM > Kode aktivasi manual |
+| T-Mobile (AS) | Email konfirmasi atau aplikasi T-Mobile |
 
-### Untuk Perangkat Motorola:
+Screenshot semuanya sebelum terbang — tanpa Wi-Fi saat mendarat, Anda tidak bisa mencarinya.
 
-1. **Langkah 1:** Buka **Pengaturan > Jaringan & Internet**.
-2. **Langkah 2:** Ketuk **Jaringan Seluler**.
-3. **Langkah 3:** Ketuk **Tambah Operator**.
-4. **Langkah 4:** Pindai kode QR Anda atau masukkan detail secara manual.
+## Bagaimana setiap penyedia besar mengirimkan eSIM Anda
 
-### Untuk Perangkat Android Lainnya (jalur umum):
+"Aktivasi" berarti sedikit berbeda tergantung siapa yang menjual paket Anda. Inilah yang bisa diharapkan dari lima penyedia eSIM perjalanan paling umum, sehingga Anda tahu persis apa yang ada di kotak masuk Anda dan bagaimana Anda akan memasangnya.
 
-Jika merek Anda tidak tercantum di atas, coba jalur umum ini:
-- **Pengaturan > Jaringan & Internet > Jaringan Seluler > Lanjutan > Operator > Tambah Operator**
-- **Pengaturan > Kartu SIM & jaringan seluler > Tambah eSIM**
-- Cari "eSIM" di bilah pencarian Pengaturan
+| Penyedia | Metode instalasi | Apa yang tiba di email | Waktu pengiriman umum |
+|---|---|---|---|
+| Roami | Sekali ketuk di aplikasi **atau** kode QR / entri manual | Kode QR plus blok "instalasi manual" (alamat SM-DP+ + kode aktivasi) | Instan — biasanya di bawah 2 menit |
+| Airalo | Sekali ketuk di aplikasi **atau** QR dari dalam aplikasi | Tanda terima pesanan + instruksi instalasi; QR-nya sendiri ada di aplikasi di My eSIMs > Detail | Instan (QR dibuat di layar paket) |
+| Holafly | Sekali ketuk di aplikasi **atau** QR di email | Kode QR plus detail paket unlimited-data Anda | Instan; banyak paket otomatis aktif begitu tersambung ke jaringan mitra |
+| Nomad | Sekali ketuk di aplikasi **atau** QR / entri manual | Kode QR + kode aktivasi | Instan, dengan beberapa paket yang baru memulai jam berlaku pada penggunaan pertama |
+| Saily | Instalasi hanya via aplikasi (aplikasi Saily) | Tanda terima + tautan untuk membuka aplikasi Saily | Instan — profil didorong lewat aplikasi, bukan QR |
 
-Jika tidak ada hasil yang muncul, model ponsel Anda mungkin tidak mendukung eSIM. Selalu periksa spesifikasi perangkat Anda atau tekan `*#06#` untuk memverifikasi.
+Pola umumnya: kelima penyedia mengirim QR atau profilnya hampir seketika, dan instalasi tercepat selalu lewat aplikasi penyedia sendiri. Yang berbeda adalah *di mana* QR berada (email vs aplikasi) dan *kapan* jam paket mulai berjalan (saat instalasi vs saat koneksi pertama). Jika Anda ragu, email Roami menyertakan QR sekaligus string entri manual, penyiapan paling ramah untuk pemula.
 
-[GSMA](https://www.gsma.com/esim/) menyediakan standar teknis yang membuat aktivasi eSIM berfungsi di semua merek Android yang berbeda ini.
+## Aktivasi lewat aplikasi operator
 
-### Masukan Manual di Android – Saat Pemindaian QR Gagal
+Penyedia seperti Roami, Airalo, dan Holafly memungkinkan Anda melewati QR sepenuhnya. Unduh aplikasinya, buka paket yang dibeli, ketuk **Install** atau **Activate**, dan izinkan ponsel menambahkan paket seluler. Sama persis di iPhone dan Android, dan ini jalur paling bersih bagi pemula karena aplikasi tidak bisa memindai layarnya sendiri.
 
-Sama seperti di iPhone, Android mendukung **masukan manual eSIM** sebagai cadangan:
+## Metode Aktivasi eSIM Mana yang Harus Anda Pakai?
 
-1. Di layar "Tambah eSIM", cari **"Masukkan kode aktivasi secara manual"** atau **"Perlu bantuan?"** di bagian bawah.
-2. Masukkan **Alamat SM-DP+** dan **Kode Aktivasi** yang disediakan dalam email operator Anda.
-3. Ketuk **Berikutnya** dan tunggu profil diunduh.
+Anda punya tiga jalan masuk, dan ketiganya tidak selalu dapat dipertukarkan. Pilih berdasarkan konteks.
 
-Masukan manual berfungsi di semua perangkat Android yang mendukung eSIM dan merupakan cadangan paling andal ketika pemindaian QR gagal.
+| Metode | Terbaik saat | Waspadai |
+|---|---|---|
+| Aplikasi operator (sekali ketuk) | Anda pemula yang ingin tanpa repot | Butuh aplikasi terpasang dan sudah masuk sebelum meninggalkan Wi-Fi yang bagus |
+| Kode QR | Kodenya ada di perangkat lain atau halaman tercetak | Tidak bisa memindai kode di layar ponsel yang sama; cahaya redup mengganggu |
+| Entri manual | QR rusak, atau ada di ponsel yang sedang diaktifkan | String SM-DP+ panjang dan peka huruf besar-kecil — tempel, jangan ketik ulang |
 
-### Di Mana Menemukan Alamat SM-DP+ dan Kode Aktivasi
+Saran kami: gunakan jalur aplikasi sekali ketuk penyedia untuk eSIM pertama Anda, dan simpan screenshot *keduanya* — QR dan string entri manual — sebagai cadangan. Aplikasi paling cepat, tetapi string manual adalah satu-satunya hal yang tak akan mengecewakan jika segalanya kacau.
 
-Jika Anda melakukan masukan manual, berikut adalah tempat menemukan detail ini:
+## Cara memastikan aktivasi berhasil
 
-| Penyedia | Di Mana Menemukan Detail Masukan Manual |
-|----------|-------------------------------------|
-| **Roami** | Di email konfirmasi — cari "Detail instalasi manual" atau "Alamat SM-DP+" |
-| **Airalo** | Di aplikasi: ketuk paket eSIM → "Detail" → "Instalasi manual" |
-| **Holafly** | Di email konfirmasi — bagian "Instalasi manual" |
-| **Nomad** | Di aplikasi: detail eSIM → opsi "Instal manual" |
-| **Google Fi** | Masukan manual tidak didukung — gunakan aplikasi Fi |
-| **US Mobile** | Di aplikasi: Akun → eSIM → "Kode aktivasi manual" |
-| **T-Mobile (AS)** | Di email konfirmasi atau aplikasi T-Mobile — "Detail aktivasi eSIM" |
+Jangan percaya pesan "Cellular Setup Complete" saja. Verifikasi tiga hal:
 
-**Tips pro:** Ambil tangkapan layar atau simpan detail ini sebelum Anda bepergian. Jika Anda mendarat dan tidak memiliki Wi-Fi, Anda tidak akan dapat mencarinya secara online.
+1. **Bilah status** — Anda melihat bar sinyal (dan set kedua jika kedua saluran menyala).
+2. **Pengaturan** — saluran eSIM tertulis "On" atau "Active," bukan "No Service."
+3. **Uji nyata** — matikan Wi-Fi, setel eSIM sebagai saluran data Anda, dan muat sebuah halaman web.
 
+Beri waktu hingga dua menit untuk mendaftar di jaringan lokal. Jika masih tertulis "Searching," lihat petunjuk penanganan masalah di bawah.
 
-## Aktifkan eSIM Melalui Aplikasi Operator – Alternatif Selain Kode QR
+## Berapa lama aktivasi sebenarnya butuh waktu?
 
-Banyak penyedia eSIM perjalanan (seperti Roami, Airalo, atau Holafly) dan operator domestik besar menawarkan aktivasi dalam aplikasi. Ini menghindari kode QR sepenuhnya dan sering kali merupakan cara tercepat untuk menyelesaikan **aktivasi eSIM**.
+Singkatnya: *pengunduhan* butuh di bawah dua menit, tetapi *koneksi pertama* bisa memakan hingga 15 menit setelah Anda mendarat. Itu dua hal berbeda, dan orang sering mencampuradukkannya.
 
-1. Unduh aplikasi resmi penyedia Anda dari App Store atau Google Play Store.
-2. Masuk ke akun Anda dan temukan paket yang Anda beli di bawah "eSIM Saya" atau "Paket Saya".
-3. Ketuk tombol **Aktifkan** atau **Instal eSIM**.
-4. Ponsel Anda akan meminta izin untuk mengizinkan aplikasi menginstal paket seluler. Ketuk **Izinkan** atau **Lanjutkan**.
-5. Aplikasi secara otomatis berkomunikasi dengan pengaturan ponsel Anda untuk menginstal profil — tidak perlu pemindaian QR.
+| Tahap | Apa yang terjadi | Waktu umum |
+|---|---|---|
+| Pengiriman QR / profil | Sistem penyedia membuat eSIM Anda dan mengirim via email | Detik hingga ~15 menit saat beban tinggi |
+| Pengunduhan profil | Ponsel Anda menarik profil dari server SM-DP+ | 30–60 detik, hingga 2 menit |
+| Registrasi jaringan pertama | Saat tiba, ponsel Anda memindai jaringan lokal dan bernegosiasi dengan operator mitra | 2–15 menit, biasanya di bawah 5 |
+| Data mengalir | Anda memuat halaman dengan Data Roaming NYALA | Segera setelah terdaftar |
 
-Metode ini direkomendasikan ketika Anda menerima **kode QR eSIM** di ponsel yang sama yang Anda aktifkan, karena menghindari dilema "tidak bisa memindai layar sendiri" sepenuhnya.
+Mengapa sebagian operator lebih lambat mendaftar daripada yang lain? Tiga alasan. **Operator kecil memprovisi secara batch** — profil Anda secara teknis "tertunda" sampai sistem mereka memprosesnya di backend. **Jaringan mitra sedang padat** — mendarat di bandara sibuk pukul 6 sore berarti ponsel Anda satu dari ribuan yang mendaftar sekaligus. Dan **beberapa paket baru memulai jamnya saat koneksi pertama**, jadi jabat tangan jaringan sengaja ditunda sampai sesi data pertama. Tidak ada dari ini yang merupakan kesalahan — hanya perbedaan antara "terpasang" dan "aktif."
 
-> 💡 **Tips transisi:** Jika Anda menggunakan aplikasi operator untuk aktivasi, prosesnya sama di iPhone dan Android — aplikasi menangani instalasi langsung melalui pengaturan ponsel Anda. Ini sering kali merupakan metode paling lancar untuk pengguna pertama kali.
+## Kesalahan Umum yang Merusak Aktivasi eSIM
 
+| Kesalahan | Mengapa merusak | Perbaikan |
+|---|---|---|
+| Memindai dengan aplikasi Kamera | Mengenali kode, tidak memasang apa pun | Lewati Pengaturan > Tambah eSIM terlebih dahulu |
+| Mengaktifkan di Wi-Fi lemah | Unduhan terputus dan merusak profil | Pasang di rumah sebelum bandara |
+| Menghapus eSIM untuk "menyegarkan" | Menghancurkan profil secara permanen beserta data tersisa | Jangan pernah menghapus kecuali paket sudah kedaluwarsa |
+| Menunggu sampai mendarat untuk memasang | Tidak ada Wi-Fi untuk mengunduh profil | Pasang sebelum keberangkatan; tetap tidak aktif sampai Anda tiba |
+| Membiarkan Data Roaming mati | Sinyal penuh, internet nol | Nyalakan Data Roaming untuk eSIM perjalanan setelah mendarat |
+| Lupa kode sandi | Instalasi macet di tengah jalan | Pastikan kode sandi Anda sebelum mulai |
+| Memindai kode di layar sendiri | Kamera tidak bisa mengarah ke dirinya sendiri | Simpan ke Foto dan gunakan "Choose Photo," atau gunakan entri manual |
 
-## Aktivasi eSIM iPad dan Apple Watch – Pengaturan Khusus Perangkat
+## Apa yang Harus Dilakukan Saat Aktivasi eSIM Macet
 
-eSIM tidak hanya untuk iPhone. Berikut cara mengaturnya di perangkat Apple lainnya untuk **aktivasi eSIM iPad** dan **pengaturan eSIM Apple Watch**.
+Jika Anda terdiam di "Activating…" atau "Searching," kerjakan tangga ini dari atas ke bawah — menyelesaikan sebagian besar aktivasi macet tanpa menyentuh dukungan.
 
-### Mengaktifkan eSIM di iPad (Model Seluler)
+1. **Restart ponselnya.** Kedengarannya terlalu sederhana, tetapi boot bersih memicu ulang jabat tangan jaringan dan mengatasi profil yang macet setengah waktu.
+2. **Nyalakan Mode Pesawat 30 detik, lalu matikan.** Ini memaksa ponsel memindai ulang jaringan lokal dari awal.
+3. **Pindai ulang QR-nya.** Hapus profil yang *tertunda* (belum aktif) dan tambahkan lagi di jaringan yang lebih kuat. Jangan pernah menghapus paket aktif yang sudah bekerja.
+4. **Ketik ulang alamat SM-DP+ dengan persis.** Entri manual peka huruf besar-kecil dan spasi — satu karakter nyasar mengirim ponsel ke server mati. Tempel, jangan ketik ulang.
+5. **Nyalakan Data Roaming untuk eSIM perjalanan.** "No Service" dengan bar sinyal penuh hampir selalu karena ini.
+6. **Pindah ke Wi-Fi stabil.** Jika unduhan terus tertahan, Anda mungkin punya profil setengah tertulis yang hanya terpasang bersih di koneksi bagus.
 
-Hanya model iPad seluler yang mendukung eSIM — iPad Wi-Fi saja tidak.
+Jika errornya kode spesifik — "Invalid QR code," "Cellular Plan Cannot Be Added," masalah APN — itu ranah per error, dan perbaikannya (dengan nilai APN) ada di [Panduan Penanganan Masalah eSIM Mendalam](/faq/esim-deep-troubleshooting-guide-2026/).
 
-**Langkah demi langkah untuk iPad:**
-1. Buka **Pengaturan > Data Seluler**.
-2. Ketuk **Tambah Paket Seluler**.
-3. Pindai **kode QR eSIM** menggunakan kamera iPad.
-4. Ikuti petunjuk untuk menyelesaikan **unduhan profil eSIM**.
-5. Beri label paket Anda dan konfigurasikan pengaturan Anda.
+## Aktivasi di tablet Android atau hotspot portabel
 
-**iPad mana yang mendukung eSIM?**
-- iPad Pro (generasi ke-3 dan lebih baru)
-- iPad Air (generasi ke-3 dan lebih baru)
-- iPad (generasi ke-10 dan lebih baru)
-- iPad mini (generasi ke-6 dan lebih baru)
+eSIM bukan hanya untuk ponsel. **Tablet Android seluler** — seperti Samsung Galaxy Tab seri S atau Lenovo seluler — memakai jalur yang persis sama dengan saudara ponselnya: Pengaturan > Koneksi (atau Jaringan & internet) > SIM Manager > Tambah eSIM. Jika tablet Anda punya EID dari `*#06#`, ia bisa menerima eSIM.
 
-**Pemecahan masalah iPad eSIM:**
-- Jika Anda tidak melihat "Tambah Paket Seluler," iPad Anda mungkin terkunci operator atau model Wi-Fi saja.
-- Mulai ulang iPad Anda setelah instalasi jika eSIM tidak terhubung.
-- Pastikan Data Roaming AKTIF untuk jalur eSIM.
+**Hotspot portabel (MiFi)** lebih beragam. Sebagian besar hotspot perjalanan masih menerima kartu SIM fisik, tetapi segelintir unit premium — seperti seri Netgear Nighthawk M6 dan beberapa model ZTE dan GlocalMe — mendukung eSIM. Jika Anda menambatkan satu keluarga, eSIM hotspot bisa jadi solusi rapi, meskipun biasanya Anda mendapat fleksibilitas lebih (dan paket lebih murah) dengan menaruh eSIM di satu ponsel dan membagikan hotspotnya.
 
-### Mengaktifkan eSIM di Apple Watch (Model Seluler)
+**iPad seluler dan Apple Watch** milik Apple mengikuti aturannya sendiri — Watch mencerminkan saluran ponsel alih-alih menerima eSIM perjalanan langsung. Itu dibahas di [panduan eSIM iPad & Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
 
-eSIM Apple Watch diatur melalui aplikasi Watch di iPhone Anda — Anda tidak dapat mengaktifkannya langsung di jam tangan.
+## Mitos Aktivasi eSIM yang Umum
 
-**Langkah demi langkah untuk Apple Watch:**
-1. Buka aplikasi **Watch** di iPhone Anda.
-2. Ketuk **Watch Saya** > **Seluler**.
-3. Ketuk **Atur Seluler**.
-4. Ikuti petunjuk di layar untuk menambahkan paket eSIM Anda.
-5. Operator Anda mungkin mengirimkan kode verifikasi — masukkan saat diminta.
+Beberapa hal yang dipercaya orang tentang aktivasi yang sebenarnya tidak benar:
 
-**Apple Watch mana yang mendukung eSIM?**
-- Apple Watch Ultra (semua model)
-- Apple Watch Seri 4 dan lebih baru (model seluler)
-- Apple Watch SE (model seluler)
+- **"Saya perlu menelepon operator untuk mengaktifkan."** Tidak — memasang profil tidak butuh telepon. Anda hanya menghubungi operator untuk *menerbitkan ulang* profil setelah menghapusnya atau mengganti ponsel.
+- **"Saya harus berada di tujuan saya untuk mengaktifkan."** Anda memasang di rumah; paketnya baru aktif saat ponsel Anda tersambung ke jaringan di tujuan.
+- **"Menghapus eSIM mereset paket saya."** Menghapus menghancurkan profil secara permanen — dan kode QR sekali pakai, jadi Anda butuh paket yang benar-benar baru.
+- **"Saya bisa berbagi satu eSIM di dua ponsel."** Tidak — profil hidup di satu perangkat pada satu waktu. Anda sering bisa *memindahkannya* antar ponsel, tetapi tidak bisa menjalankan profil yang sama di dua perangkat sekaligus.
+- **"eSIM lebih lambat daripada SIM fisik."** Kredensialnya identik; tidak ada perbedaan kecepatan. Kecepatan data Anda datang dari jaringan dan paketnya, bukan format SIM.
 
-**Pemecahan masalah Apple Watch eSIM:**
-- Hanya model seluler (GPS + Seluler) yang mendukung eSIM — model GPS saja tidak.
-- Operator Anda harus mendukung eSIM Apple Watch — tidak semua operator mendukung.
-- Pastikan iPhone Anda di dekatnya dengan koneksi Wi-Fi yang stabil selama pengaturan.
-- Mulai ulang kedua perangkat jika eSIM tidak muncul.
+## Sisanya ada di halamannya masing-masing
 
-Jika operator Anda tidak tercantum di aplikasi Watch, hubungi mereka langsung untuk menambahkan paket Apple Watch ke akun Anda. Untuk panduan eSIM iPad dan Apple Watch lebih lanjut, lihat [panduan eSIM iPad dan Apple Watch](/faq/ipad-apple-watch-esim-support-guide/) kami.
+Agar panduan ini tetap fokus, topik terkait berikut punya panduan khusus:
 
-
-## Cara Mentransfer eSIM ke Ponsel Baru (iOS & Android)
-
-Jika Anda meningkatkan ke perangkat baru, Anda mungkin perlu **mentransfer eSIM ke ponsel baru**. Begini cara kerjanya di setiap platform.
-
-### iOS ke iOS (iPhone ke iPhone)
-
-Transfer Cepat bawaan Apple adalah metode termudah:
-
-1. Selama pengaturan iPhone baru Anda, pilih "Transfer eSIM dari iPhone terdekat" saat diminta.
-2. Jaga kedua ponsel tetap dekat dengan Bluetooth dan Wi-Fi diaktifkan.
-3. Konfirmasi transfer di iPhone lama Anda.
-4. Tunggu 1-2 menit hingga **unduhan profil eSIM** selesai di perangkat baru.
-
-**Jika Transfer Cepat tidak berfungsi:** Buka Pengaturan > Seluler di iPhone baru Anda > Tambah eSIM > Transfer dari iPhone terdekat.
-
-**Jika Transfer Cepat gagal:** Hapus eSIM dari iPhone lama terlebih dahulu (Pengaturan > Seluler > [eSIM] > Hapus eSIM), lalu mulai ulang iPhone baru dan coba lagi. Beberapa operator mengharuskan profil lama dihapus sebelum profil baru akan aktif.
-
-### Android ke Android
-
-Metode transfer Android bervariasi menurut merek, tetapi Samsung dan Google Pixel menawarkan opsi serupa:
-
-**Samsung:** Pengaturan > Koneksi > Manajer SIM > Tambah eSIM > Transfer eSIM dari perangkat lama (ikuti petunjuk di layar).
-
-**Google Pixel:** Selama pengaturan, Anda mungkin diminta untuk mentransfer eSIM Anda. Atau, gunakan aplikasi operator atau minta kode QR baru.
-
-**Jika transfer Android gagal:** Hubungi operator Anda untuk meminta kode QR baru untuk perangkat baru. Sebagian besar eSIM perjalanan tidak dapat ditransfer antar perangkat Android — Anda perlu membeli paket baru.
-
-### Transfer Lintas Platform (iPhone ↔ Android)
-
-Mentransfer **eSIM antara iPhone dan Android** jarang didukung. Sebagian besar operator dan penyedia eSIM perjalanan tidak mengizinkan transfer lintas platform karena profil eSIM terikat pada EID perangkat asli.
-
-**Apa yang harus dilakukan sebagai gantinya:**
-1. Hubungi operator Anda untuk meminta kode QR eSIM baru untuk perangkat baru.
-2. Atau, jika menggunakan eSIM perjalanan, beli paket baru untuk perangkat baru.
-
-**Pengecualian:** Beberapa operator (seperti Google Fi, US Mobile) mengizinkan Anda mengunduh kode QR baru dari aplikasi mereka setelah menonaktifkan perangkat lama. Periksa kebijakan operator Anda sebelum berasumsi Anda perlu paket baru.
-
-Untuk instruksi transfer lintas platform yang mendetail, lihat [Cara Mentransfer eSIM Antara iPhone dan Android](/faq/how-to-transfer-esim-between-iphone-and-android/).
-
-
-## Menggunakan Dual SIM dengan eSIM dan SIM Fisik – Praktik Terbaik
-
-Banyak ponsel pintar modern mendukung **dual SIM** dengan satu SIM fisik dan satu eSIM aktif secara bersamaan. Berikut cara mengkonfigurasi **pengaturan dual SIM eSIM** untuk perjalanan.
-
-### Cara Kerja Dual SIM (DSDS Dijelaskan)
-
-Ponsel Anda mendukung **Dual SIM Dual Standby (DSDS)**. Kedua jalur tetap aktif dan dapat menerima panggilan/SMS, tetapi hanya satu jalur yang dapat menggunakan data pada satu waktu. Saat Anda melakukan panggilan di satu jalur, jalur lainnya untuk sementara tidak tersedia. Ini adalah perilaku normal — bukan cacat.
-
-### Praktik Terbaik untuk Pelancong Internasional (SIM Fisik + eSIM)
-
-**Pertahankan SIM rumah untuk panggilan/SMS:** Tetapkan SIM fisik Anda sebagai jalur default untuk panggilan suara dan SMS. Matikan Data Roaming di jalur ini untuk menghindari biaya tinggi.
-
-**Gunakan eSIM perjalanan untuk data:** Tetapkan **eSIM perjalanan** Anda sebagai jalur default untuk Data Seluler. Biarkan Data Roaming AKTIF untuk jalur ini.
-
-**Konfigurasi untuk iPhone:**
-1. Pengaturan > Seluler > Data Seluler > pilih eSIM perjalanan Anda.
-2. Pengaturan > Seluler > Jalur Suara Default > pilih SIM rumah Anda.
-3. MATIKAN Izinkan Peralihan Data Seluler.
-
-**Konfigurasi untuk Android (Samsung):**
-1. Pengaturan > Koneksi > Manajer SIM.
-2. Tetapkan eSIM perjalanan Anda sebagai SIM data.
-3. Tetapkan SIM fisik rumah Anda sebagai SIM panggilan/SMS.
-4. Matikan data roaming di SIM rumah.
-
-### Praktik Terbaik untuk Dual eSIM (Tanpa SIM Fisik – iPhone 14+ Model AS)
-
-Jika Anda menggunakan iPhone khusus eSIM (iPhone AS 14 dan lebih baru), berikut cara mengkonfigurasi dua eSIM aktif:
-
-**Konfigurasi untuk iPhone (dual eSIM):**
-1. Pengaturan > Seluler > Data Seluler > pilih eSIM perjalanan Anda.
-2. Pengaturan > Seluler > Jalur Suara Default > pilih eSIM rumah Anda.
-3. MATIKAN Izinkan Peralihan Data Seluler.
-4. MATIKAN Data Roaming di eSIM rumah.
-5. AKTIFKAN Data Roaming di eSIM perjalanan.
-
-**Kapan menggunakan setiap konfigurasi:**
-- **Di rumah:** eSIM rumah = data + suara. eSIM perjalanan = MATI.
-- **Bepergian:** eSIM perjalanan = data. eSIM rumah = suara saja (dengan Data Roaming MATI).
-- **Negara transit:** Jika Anda transit melalui suatu negara dan menginginkan data, aktifkan eSIM perjalanan negara itu dan alihkan data ke sana.
-
-### Masalah Dual SIM Umum dan Perbaikannya
-
-| Masalah | Kemungkinan Penyebab | Perbaikan |
-|-------|--------------|-----|
-| **Tidak ada data di eSIM** | Data Seluler ditetapkan ke jalur yang salah | Periksa Pengaturan > Seluler > Data Seluler |
-| **Panggilan masuk ke jalur yang salah** | Jalur Suara Default salah konfigurasi | Periksa Pengaturan > Seluler > Jalur Suara Default |
-| **Biaya roaming tidak disengaja** | Data Roaming AKTIF di SIM rumah | MATIKAN Data Roaming di SIM rumah |
-| **"Tidak Ada Layanan" di satu jalur selama panggilan** | Batasan DSDS (perilaku normal) | Aktifkan Wi-Fi Calling di kedua jalur |
-| **Kedua eSIM menunjukkan "Tidak Ada Layanan"** | Mode Pesawat atau masalah jaringan | Alihkan Mode Pesawat, mulai ulang ponsel |
-
-Untuk pemecahan masalah dual SIM lebih lanjut, lihat panduan [Dual eSIM Tidak Berfungsi? 12 Perbaikan untuk iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/) kami.
-
-
-## Cara Mengonfirmasi Aktivasi eSIM Anda Berhasil
-
-Setelah Anda menyelesaikan langkah-langkah di atas, berikut cara memverifikasi bahwa eSIM baru Anda siap digunakan:
-
-- **Periksa Status Bar:** Lihat sudut kanan atas layar Anda. Jika Anda memiliki SIM fisik dan eSIM yang aktif, Anda akan melihat dua set batang sinyal seluler yang terpisah. Di iPhone, jalur utama ditampilkan di atas dengan jalur sekunder sedikit di bawahnya.
-- **Periksa Menu Pengaturan:** Buka pengaturan Seluler/Jaringan Anda. Anda akan melihat kedua jalur tercantum, dan status eSIM yang baru ditambahkan harus mengatakan **"Aktif"** atau **"Aktif"**. Jika mengatakan "Tidak Ada Layanan," pastikan Data Roaming diaktifkan untuk jalur eSIM tersebut.
-- **Tunggu registrasi jaringan:** Setelah instalasi, dibutuhkan **30-60 detik** untuk eSIM mendaftar di jaringan lokal. Dalam beberapa kasus, mungkin memakan waktu hingga **2 menit**. Bersabarlah sebelum melakukan pemecahan masalah.
-- **Tes Dunia Nyata:** Matikan Wi-Fi Anda, alihkan Data Seluler utama Anda ke jalur eSIM baru, dan coba muat halaman web atau buka aplikasi. Jika terhubung dengan lancar, **aktivasi eSIM** Anda 100% berhasil!
-- **Periksa Nama Jaringan:** eSIM harus menampilkan nama jaringan lokal yang terhubung (misalnya, "T-Mobile", "EE", "SoftBank") daripada tetap pada "Mencari" atau "Tidak Ada Layanan."
-
-> 💡 **Tips transisi:** Jika eSIM Anda menunjukkan "Mencari" selama lebih dari 2 menit, jangan panik — langsung ke bagian Pemecahan Masalah di bawah untuk langkah-langkah tepat untuk mengatasinya.
-
-
-## 7 Kesalahan Kritis yang Merusak Aktivasi eSIM – Dan Cara Menghindarinya
-
-*Menargetkan kegagalan pengguna paling umum berdasarkan tiket dukungan nyata.*
-
-| Kesalahan | Apa yang Terjadi | Cara Menghindari |
-|---------|--------------|---------|
-| **Memindai kode QR dengan aplikasi Kamera alih-alih Pengaturan** | Kamera mengenali kode tetapi tidak melakukan apa-apa — tidak ada profil yang terinstal | Selalu buka Pengaturan > Seluler > Tambah eSIM terlebih dahulu — **jangan pernah** menggunakan aplikasi Kamera standalone untuk eSIM |
-| **Mengaktifkan di bandara dengan Wi-Fi lemah** | Unduhan terputus di tengah instalasi, merusak profil | Instal di rumah di jaringan Wi-Fi stabil Anda sendiri sebelum berangkat ke bandara |
-| **Menghapus eSIM untuk "memperbaiki" masalah koneksi** | eSIM hancur secara permanen — Anda kehilangan semua sisa data dan harus membeli paket baru | **Jangan pernah mengetuk Hapus eSIM** kecuali paket sudah kedaluwarsa. Hapus hanya menghapus profil — tidak "menyegarkannya" |
-| **Menunggu sampai mendarat untuk menginstal** | Anda tiba tanpa Wi-Fi dan tidak dapat mengunduh profil | Instal profil sebelum keberangkatan (tetap tidak aktif sampai Anda tiba). Anda hanya perlu Wi-Fi untuk unduhan awal |
-| **Lupa menyalakan Data Roaming untuk jalur eSIM** | Batang sinyal penuh tetapi tidak ada koneksi internet | Setelah mendarat, buka Pengaturan > Seluler > [eSIM Anda] dan aktifkan Data Roaming. Ini wajib untuk **semua** eSIM perjalanan |
-| **Tidak mengetahui kode sandi iPhone sebelum memulai** | Instalasi terhenti dan meminta kode sandi — Anda terjebak | Pastikan Anda mengetahui kode sandi layar kunci sebelum memulai instalasi eSIM |
-| **Mencoba memindai kode QR dari layar ponsel sendiri** | Tidak dapat memindai kode di perangkat yang sama | Simpan kode QR ke Foto, lalu gunakan "Pilih Foto" selama aktivasi, atau gunakan masukan manual |
-
-
-## Pemecahan Masalah Kesalahan Aktivasi eSIM Gagal – Perbaikan Umum
-
-Jika eSIM Anda gagal diaktifkan atau terhubung, jangan panik. Coba perbaikan teknis ini sebelum menghubungi dukungan pelanggan. Langkah-langkah ini membahas skenario **pemecahan masalah eSIM** yang paling umum.
-
-### Kesalahan 1: "Paket Seluler Tidak Dapat Ditambahkan"
-- **Perbaikannya:** Ini biasanya berarti ponsel Anda terkunci operator, atau kode QR telah dipindai. Kode QR bersifat sekali pakai untuk alasan keamanan. Jika ponsel Anda tidak terkunci dan Anda mendapatkan kesalahan ini, Anda harus menghubungi penyedia Anda untuk membuat kode QR baru. Pertama verifikasi: Pengaturan > Umum > Tentang > Kunci Operator harus mengatakan "Tidak ada batasan SIM."
-- **Pemeriksaan tambahan:** Hapus profil eSIM lama yang tidak digunakan dari Pengaturan > Seluler. Terlalu banyak profil yang tersimpan terkadang dapat mencegah profil baru ditambahkan.
-
-### Kesalahan 2: "Kode QR Tidak Valid" atau Kode Tidak Dapat Dipindai
-- **Perbaikannya:** Kode QR mungkin sudah kedaluwarsa (sebagian besar memiliki masa berlaku 72 jam), rusak, atau kamera Anda tidak dapat fokus. Pastikan Anda memindai di area yang cukup terang dan layar yang menampilkan kode pada kecerahan maksimum. Jika masih gagal, ketuk **"Masukkan Detail Secara Manual"** dan ketik **Alamat SM-DP+** dan **Kode Aktivasi** yang disediakan oleh operator Anda. Ini sepenuhnya menghindari kode QR — solusi yang andal untuk kesalahan **aktivasi eSIM gagal**.
-
-### Masalah 1: eSIM Terinstal, tetapi Menunjukkan "Tidak Ada Layanan"
-- **Perbaikannya:** Profil berhasil diunduh, tetapi ponsel Anda belum mendaftar ke menara seluler lokal. Pertama, pastikan jalur eSIM diaktifkan **AKTIF** di pengaturan Anda. Selanjutnya, aktifkan **Mode Pesawat** selama 30 detik, lalu matikan. Ini memaksa antena ponsel Anda untuk memulai ulang dan mencari sinyal.
-- **Jika masih tidak ada layanan:** Periksa Pengaturan > Seluler > [eSIM Anda] > Pilihan Jaringan. MATIKAN "Otomatis" dan pilih secara manual jaringan dari daftar. Terkadang ponsel perlu diberi tahu secara eksplisit jaringan mana yang akan digunakan.
-
-### Masalah 2: Berhasil Diaktifkan, Tetapi Tidak Ada Koneksi Internet
-- **Perbaikannya:** Jika Anda memiliki batang sinyal tetapi halaman tidak mau dimuat, periksa tiga hal:
-  1. **Nyalakan Data Roaming:** Buka pengaturan eSIM Anda dan pastikan sakelar "Data Roaming" AKTIF (ini wajib untuk sebagian besar eSIM perjalanan — banyak pelancong melewatkan langkah ini).
-  2. **Periksa Pengaturan APN:** Temukan menu **APN (Nama Titik Akses)** di pengaturan seluler Anda. Tanyakan kepada penyedia Anda untuk detail APN yang benar dan ketik secara manual. *(Langkah ini terutama umum untuk perangkat Android).* Nilai APN perjalanan umum adalah "globaldata" atau "internet" — periksa dengan penyedia spesifik Anda.
-  3. **Verifikasi Jalur Data:** Periksa kembali bahwa "Data Seluler" utama ponsel Anda benar-benar ditetapkan ke eSIM baru, bukan SIM rumah Anda.
-
-### Masalah 3: Profil eSIM Rusak Selama Pengunduhan
-- **Perbaikannya:** Jika koneksi Wi-Fi Anda terputus di tengah pengunduhan, **instalasi eSIM** mungkin tidak lengkap atau rusak. Pertama, hapus eSIM yang tidak lengkap: Pengaturan > Seluler > ketuk eSIM yang tidak lengkap > Hapus eSIM. Kemudian mulai ulang ponsel Anda dan pindai ulang kode QR (Anda mungkin memerlukan kode baru dari penyedia Anda). Kali ini, pastikan Anda berada di koneksi Wi-Fi yang cepat dan stabil selama seluruh proses pengunduhan.
-
-### Masalah 4: eSIM Terinstal tetapi Tidak Muncul di Pengaturan
-- **Perbaikannya:** Ini adalah gangguan perangkat lunak di iOS atau Android.
-  1. **iPhone:** Buka Pengaturan > Umum > Tentang dan gulir ke "SIM Tersedia" atau "SIM Digital." Jika eSIM muncul di sana tetapi tidak di Seluler, mulai ulang ponsel.
-  2. **Android:** Buka Pengaturan > Jaringan & Internet > SIM — eSIM mungkin muncul sebagai "Tidak Aktif." Ketuk dan aktifkan.
-  3. Jika memulai ulang tidak berhasil, buka Pengaturan > Seluler > Tambah eSIM. Terkadang ponsel akan mendeteksi profil yang ada dan menawarkan untuk menambahkannya kembali tanpa kode QR baru.
-
-### Masalah 5: eSIM Menunjukkan "Mencari" Selama Lebih dari 2 Menit
-- **Perbaikannya:** Ini berbeda dengan "Tidak Ada Layanan." "Mencari" berarti ponsel secara aktif mencari jaringan. Coba langkah-langkah ini secara berurutan:
-  1. Aktifkan Mode Pesawat selama 10 detik, lalu matikan.
-  2. Buka Pilihan Jaringan dan pilih secara manual jaringan (lihat Masalah 1 di atas).
-  3. Jika eSIM untuk perjalanan, periksa apakah Anda telah mendarat di negara yang benar — beberapa eSIM hanya aktif di wilayah tertentu.
-  4. Mulai ulang ponsel Anda.
-  5. Jika masih "Mencari" setelah 5 menit, hubungi penyedia eSIM Anda — mungkin ada masalah perjanjian jaringan di lokasi Anda saat ini.
-
-> **PERINGATAN KRITIS:** Jangan pernah mengetuk **Hapus eSIM** atau **Hapus Paket Data** jika Anda mencoba memperbaiki masalah koneksi. Menghapus eSIM secara permanen menghancurkan profil digital, dan Anda harus membeli yang baru. Hanya hapus eSIM ketika Anda benar-benar yakin paket sudah kedaluwarsa dan Anda tidak akan pernah membutuhkannya lagi. Jika Anda menghapus **eSIM perjalanan** yang aktif di tengah perjalanan, Anda tidak dapat memulihkannya.
-
-Jika perbaikan ini tidak menyelesaikan masalah Anda, konsultasikan [Panduan Pemecahan Masalah Mendalam eSIM (16 kasus nyata)](/faq/esim-deep-troubleshooting-guide-2026/) kami untuk skenario yang lebih lanjut seperti **aktivasi eSIM gagal** pada perangkat yang terkunci operator atau pembatasan regional.
-
+- **Penanganan masalah error spesifik** ("Invalid QR code," macet "Activating," "No Service," pengaturan APN) → [Panduan Penanganan Masalah eSIM Mendalam](/faq/esim-deep-troubleshooting-guide-2026/)
+- **Memindahkan eSIM ke ponsel baru** (iOS-ke-iOS, Android-ke-Android, lintas platform) → [Transfer eSIM antara iPhone dan Android](/faq/how-to-transfer-esim-between-iphone-and-android/)
+- **Memakai dua saluran sekaligus** (dual SIM / DSDS) → [pusat kompatibilitas eSIM iPhone](/faq/iphone-11-esim-compatible/)
+- **eSIM iPad dan Apple Watch** → [panduan eSIM iPad & Apple Watch](/faq/ipad-apple-watch-esim-support-guide/)
+- **Operator dan perangkat mana yang mendukung eSIM** → [daftar kompatibilitas lengkap](/compatibility/)
 
 ## Pertanyaan yang Sering Diajukan
 
-**Apakah ada biaya untuk mengaktifkan eSIM?** Tidak, operator tidak mengenakan "biaya aktivasi" hanya untuk memindai dan menginstal profil eSIM. Anda hanya membayar paket data atau paket seluler yang sebenarnya Anda beli. Jika operator mencoba mengenakan biaya aktivasi untuk eSIM, itu bukan praktik standar.
+**Apakah ada biaya untuk mengaktifkan eSIM?**
+Tidak. Operator tidak mengenakan biaya untuk memindai dan memasang profil — Anda hanya membayar paket datanya sendiri. Siapa pun yang menagih "biaya aktivasi" berada di luar praktik normal.
 
-**Dapatkah saya mengaktifkan eSIM sebelum bepergian?** Ya, dan sangat disarankan. Anda harus menginstal eSIM di rumah saat Anda memiliki Wi-Fi yang andal. Paket data hanya akan tetap tidak aktif (atau "mencari") sampai Anda tiba di negara tujuan dan ponsel Anda terhubung ke jaringan lokal yang didukung. Ingatlah untuk mengaktifkan Data Roaming setelah tiba.
+**Bisakah saya mengaktifkan eSIM saya sebelum bepergian?**
+Ya, dan Anda sebaiknya melakukannya. Pasang di rumah dengan Wi-Fi andal; paketnya tetap tidak aktif sampai ponsel Anda tersambung ke jaringan di tujuan. Hanya ingat menyalakan Data Roaming setelah mendarat.
 
-**Bagaimana cara beralih antara SIM fisik dan eSIM saya?** Buka pengaturan seluler Anda. Anda akan melihat kedua jalur tercantum. Anda dapat mengetuk SIM fisik untuk mematikannya, atau menetapkan SIM fisik sebagai default untuk Suara/SMS, dan eSIM sebagai default untuk Data Seluler. Untuk iPhone: Pengaturan > Seluler > Data Seluler > pilih jalur yang Anda inginkan untuk internet.
+**Berapa lama aktivasi eSIM memakan waktu?**
+Pengunduhan profil butuh di bawah dua menit. Koneksi pertama ke jaringan lokal bisa memakan hingga 10–15 menit tergantung sinyal. Lebih dari itu, restart ponselnya.
 
-**Berapa lama waktu yang dibutuhkan untuk aktivasi eSIM?** Biasanya, **unduhan profil eSIM** dan proses aktivasi memakan waktu kurang dari 2 menit. Namun, terhubung ke jaringan lokal untuk pertama kalinya terkadang dapat memakan waktu hingga 10-15 menit tergantung pada kekuatan sinyal dan registrasi jaringan. Jika sudah lebih dari 15 menit, mulai ulang ponsel Anda.
+**Apakah saya butuh Wi-Fi untuk mengaktifkan eSIM?**
+Untuk pengunduhan profil awal, ya — profilnya datang dari server SM-DP+ aman milik penyedia Anda, dan sinyal seluler lemah tidak akan andal menariknya. Pasang di Wi-Fi rumah sebelum berangkat, dan paketnya tetap tidur sampai Anda mendarat.
 
-**Dapatkah saya menggunakan SIM fisik dan eSIM secara bersamaan?** Ya — sebagian besar ponsel pintar modern mendukung Dual SIM Dual Standby (DSDS). Anda dapat menjaga SIM fisik tetap aktif untuk panggilan dan SMS dari rumah, sambil menggunakan **eSIM perjalanan** murni untuk data seluler lokal. Ini adalah pengaturan yang direkomendasikan untuk pelancong internasional yang perlu menerima kode verifikasi SMS.
+**Berapa banyak eSIM yang bisa saya simpan di ponsel, dan bisakah saya beralih di antara mereka?**
+Sebagian besar ponsel modern menyimpan delapan atau lebih profil eSIM, meskipun hanya satu atau dua yang bisa *aktif* pada satu waktu. Anda bisa beralih profil mana yang aktif dari layar Pengaturan yang sama saat Anda menambahkannya — berguna untuk perjalanan multi-negara.
 
-**Bagaimana jika aktivasi eSIM saya berulang kali gagal?** Pertama, konfirmasikan ponsel Anda tidak terkunci (Pengaturan > Umum > Tentang > Kunci Operator). Kedua, coba di jaringan Wi-Fi yang berbeda. Ketiga, minta penyedia eSIM Anda untuk mengirim ulang kode QR — terkadang kode pertama rusak. Jika semua gagal, coba metode **masukan manual eSIM** dengan **alamat SM-DP+**. Untuk masalah yang lebih lanjut, lihat [Panduan Pemecahan Masalah Mendalam eSIM (16 kasus nyata)](/faq/esim-deep-troubleshooting-guide-2026/) kami.
+**Apa bedanya kode QR dan entri manual?**
+Pemindaian QR adalah jalur standar — lebih cepat dan lebih sulit salah ketik. Entri manual (alamat SM-DP+ + kode aktivasi) adalah cadangan yang bekerja saat kamera atau kodenya gagal.
 
-**Apa perbedaan antara kode QR eSIM dan masukan manual?** Pemindaian kode QR adalah metode standar — lebih cepat dan tidak rentan kesalahan. **Masukan manual eSIM** (menggunakan alamat SM-DP+ dan kode aktivasi) adalah cadangan ketika pemindaian gagal. Masukan manual berfungsi di iPhone dan Android dan menghindari kamera sepenuhnya, menjadikannya metode **cara mengaktifkan eSIM** yang paling andal ketika kode QR tidak mau dipindai.
+**Bisakah saya menelepon dan mengirim SMS dengan eSIM data saja?**
+eSIM perjalanan data saja membawa internet tetapi tanpa nomor telepon, jadi tidak bisa menelepon tradisional atau SMS. Anda tetap terjangkau di nomor rumah Anda (lewat Wi-Fi Calling) sementara eSIM perjalanan menangani data — begitulah cara sebagian besar pelancong menjalankannya.
 
-**Apakah saya perlu menyalakan Data Roaming agar eSIM berfungsi?** Ya — untuk sebagian besar eSIM perjalanan, Data Roaming harus AKTIF untuk jalur eSIM. Ini adalah persyaratan teknis karena eSIM perjalanan terhubung melalui jaringan mitra. Anda tidak akan dikenakan biaya roaming; ini hanya cara kerja teknologi.
+**eSIM saya macet di "Activating" — berapa lama saya harus menunggu?**
+Hingga 10–15 menit saat tiba, terutama di bandara sibuk. Jika masih macet setelah itu, restart ponselnya, nyalakan Mode Pesawat 30 detik, atau hapus profil yang tertunda dan pindai ulang di Wi-Fi lebih kuat.
 
-**Dapatkah saya menggunakan eSIM perjalanan tanpa SIM fisik terpasang?** Ya — jika ponsel Anda mendukung eSIM, Anda dapat menggunakannya tanpa SIM fisik. Ini sangat berguna untuk model iPhone AS (14 dan lebih baru) yang tidak memiliki slot SIM fisik.
+**Apakah saya perlu Data Roaming menyala untuk eSIM perjalanan?**
+Ya — eSIM perjalanan menjangkau jaringan lewat operator mitra, jadi Data Roaming harus NYALA untuk saluran itu. Ini tidak menimbulkan biaya roaming; hanya begitulah cara kerja koneksinya.
 
-**Mengapa eSIM saya menunjukkan "Mengaktifkan" untuk waktu yang lama?** Server aktivasi mungkin sibuk, atau koneksi Wi-Fi Anda tidak stabil. Tunggu hingga 10 menit. Jika masih macet, aktifkan dan matikan Mode Pesawat. Jika itu tidak berhasil, mulai ulang ponsel Anda dan coba lagi.
+**Apa arti alamat SM-DP+?**
+SM-DP+ (Subscription Manager – Data Preparation Plus) adalah server aman yang mengirimkan profil eSIM Anda. Pada entri manual, ia memberi tahu ponsel Anda dari mana mengunduh profilnya.
 
-**Dapatkah saya mentransfer eSIM ke ponsel baru sendiri?** Ya, tetapi tergantung pada operator Anda. Transfer Cepat Apple berfungsi untuk iPhone ke iPhone. Android memiliki opsi serupa. Untuk transfer lintas platform, Anda memerlukan kode QR baru dari operator Anda. Lihat bagian **Cara Mentransfer eSIM ke Ponsel Baru** di atas.
+**Bisakah saya memakai eSIM perjalanan saya dengan Wi-Fi Calling?**
+Ya — Wi-Fi Calling milik saluran *rumah* Anda, bukan eSIM perjalanan. Biarkan Wi-Fi Calling menyala untuk nomor rumah Anda dan itu akan bekerja lewat data eSIM perjalanan (atau Wi-Fi apa pun), sehingga Anda tetap terjangkau tanpa biaya roaming.
 
-**Apakah iPad mendukung eSIM?** Hanya model iPad seluler yang mendukung eSIM. iPad Wi-Fi saja tidak. Periksa model iPad Anda di Pengaturan > Umum > Tentang — jika menunjukkan "Data Seluler" di menu, itu mendukung eSIM.
+**Bagaimana jika saya sama sekali tidak punya sinyal setelah aktivasi?**
+Tidak ada bar sama sekali biasanya berarti Anda berada di luar cakupan jaringan mitra, atau ponsel belum mendaftar. Nyalakan Mode Pesawat 30 detik, pastikan Data Roaming NYALA untuk eSIM perjalanan, dan keluar ke luar jika Anda sedang di dalam ruangan. "No Service" yang menetap adalah masalah APN atau provisioning — lihat [panduan penanganan masalah mendalam](/faq/esim-deep-troubleshooting-guide-2026/).
 
-**Apakah Apple Watch mendukung eSIM?** Hanya model Apple Watch seluler (GPS + Seluler) yang mendukung eSIM. Periksa bagian belakang jam tangan Anda — jika memiliki cincin merah di sekitar Digital Crown, itu adalah model seluler.
+👉 **Siap mencobanya sendiri?** Ambil [eSIM gratis](/free-esim/) dan jalankan langkah-langkah ini tanpa risiko.
 
-**Apa alasan paling umum untuk kegagalan aktivasi eSIM?** Dua alasan: (1) ponsel terkunci operator, atau (2) Data Roaming tidak diaktifkan setelah instalasi. Keduanya tercakup dalam bagian pemecahan masalah di atas.
+Lalu jelajahi tujuan paling populer kami:
 
-**Dapatkah saya memindai kode QR dari layar laptop?** Ya — pastikan layar pada kecerahan penuh dan kode bersih. Pegang ponsel Anda sekitar 15cm. Jika tidak dapat dipindai, gunakan masukan manual (alamat SM-DP+ + kode aktivasi).
-
-**Bagaimana jika eSIM saya berfungsi di Wi-Fi tetapi tidak di seluler?** Ini hampir selalu masalah APN atau Data Roaming. Periksa bahwa Data Roaming AKTIF untuk eSIM, dan verifikasi pengaturan APN sudah benar. Lihat bagian pemecahan masalah di atas untuk langkah-langkah mendetail.
-
-**Bagaimana jika saya menginstal eSIM tetapi tidak muncul di Pengaturan sama sekali?** Ini dapat terjadi setelah restart atau pembaruan iOS/Android. Buka Pengaturan > Umum > Tentang (iPhone) atau Pengaturan > Jaringan & Internet > SIM (Android) — eSIM mungkin terdaftar sebagai tidak aktif atau tersembunyi. Jika tidak ada, hubungi operator Anda — profil mungkin perlu diterbitkan ulang.
-
-**Apa perbedaan antara mematikan eSIM dan menghapusnya?** Mematikan eSIM menjaga profil tetap di ponsel Anda tetapi menonaktifkan jalur — Anda dapat menyalakannya kembali kapan saja. Menghapus eSIM secara permanen menghapus profil — Anda tidak dapat memulihkannya tanpa kode QR baru. Hanya hapus ketika paket benar-benar kedaluwarsa.
-
-**Dapatkah saya memiliki dua eSIM dari negara yang berbeda aktif secara bersamaan?** Di iPhone 13 dan lebih baru, ya — Anda dapat memiliki dua eSIM aktif secara bersamaan (dual eSIM). Di iPhone lama dan sebagian besar perangkat Android, Anda dapat memiliki satu eSIM dan satu SIM fisik aktif, tetapi tidak dua eSIM. Periksa spesifikasi perangkat Anda.
-
-**Apa arti "alamat SM-DP+ eSIM"?** SM-DP+ (Subscription Manager - Data Preparation Plus) adalah alamat server aman yang mengirimkan profil eSIM Anda ke ponsel Anda. Saat Anda melakukan masukan manual, alamat ini memberi tahu ponsel Anda di mana mengunduh profil. Penyedia Anda memberikan alamat ini bersama dengan kode aktivasi.
+- [eSIM untuk Amerika Serikat](/united-states-esim/)
+- [eSIM untuk Jepang](/japan-esim/)
+- [eSIM untuk Eropa](/europe-esim/)
 
 ---
 
-*Berdasarkan dokumentasi Apple, Google, dan GSMA. Diperbarui: Agustus 2026.*
+*Berdasarkan dokumentasi Apple, Google, dan GSMA. Diperbarui: September 2026.*
 
 ## Sumber
 
-- [GSMA — Spesifikasi eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Dukungan Apple — eSIM di iPhone](https://support.apple.com/en-us/108072)
-- [Dukungan Google — Atur eSIM](https://support.google.com/pixelphone/answer/14853135)
-- [Dukungan Google — eSIM Android](https://support.google.com/android/answer/11241215)
+- [GSMA — spesifikasi eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)
