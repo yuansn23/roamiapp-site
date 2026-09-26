@@ -1,333 +1,312 @@
 ---
-title: "Jak uzyskać eSIM w Kanadzie: instalacja i aktywacja"
-description: "Jak uzyskać eSIM Roami w Kanadzie: sprawdź zgodność, zainstaluj na iPhone i Android, aktywuj i szybko napraw typowe błędy."
-keywords: ["jak uzyskać eSIM w Kanadzie", "konfiguracja eSIM Kanada", "aktywacja eSIM Kanada", "instalacja eSIM Kanada iPhone", "rozwiązywanie problemów eSIM Kanada"]
-date: 2026-09-15T00:00:00Z
-lastmod: 2026-09-15T00:00:00Z
+title: "Jak zdobyć eSIM w Kanadzie: przewodnik konfiguracji i aktywacji"
+description: "Jak zdobyć eSIM Roami w Kanadzie: sprawdź zgodność, zainstaluj na iPhonie i Androidzie, aktywuj i szybko napraw typowe błędy."
+keywords: ["jak zdobyć eSIM w Kanadzie", "konfiguracja eSIM Kanada", "aktywacja eSIM Kanada", "instalacja eSIM Kanada iPhone", "rozwiązywanie problemów eSIM Kanada"]
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami oferuje niezawodne plany eSIM, obsługując ponad 1 milion podróżnych rocznie, i obsługuje automatyczne przełączanie między lokalnymi sieciami, aby pomóc podróżnym pozostać w kontakcie na całym świecie."
+authorBio: "Roami oferuje niezawodne pakiety eSIM, obsługując ponad milion podróżnych rocznie, i wspiera automatyczne przełączanie lokalnych sieci, aby pomóc podróżnym pozostać w kontakcie na całym świecie."
 image: "/img/esim/canada/how-to-get-esim-in-canada-guide.jpg"
 categories: ["eSIM", "Podróże", "Kanada"]
-tags: ["eSIM do Kanady"]
+tags: ["eSIM Kanada"]
 readingTime: 8
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Jak uzyskać eSIM w Kanadzie: konfiguracja, aktywacja i rozwiązywanie problemów"
+h1title: "Jak zdobyć eSIM w Kanadzie: przewodnik po konfiguracji, aktywacji i rozwiązywaniu problemów"
 
 # Sidebar module titles
-productsTitle: "Popularne plany eSIM"
+productsTitle: "Popularne pakiety eSIM"
 hotPostsTitle: "Popularne artykuły"
-recentPostsTitle: "Ostatnie posty"
+recentPostsTitle: "Ostatnie wpisy"
 
 # Right sidebar products (6 items)
 products:
   - name: "eSIM USA"
     flag: "/img/flags/us.svg"
-    price: "Od $1.99"
+    price: "od $1.99"
     is_highlight: false
     slug: "united-states"
   - name: "eSIM Japonia"
     flag: "/img/flags/jp.svg"
-    price: "Od $1.99"
+    price: "od $1.99"
     is_highlight: false
     slug: "japan"
   - name: "eSIM Europa"
     flag: "/img/flags/eu.svg"
-    price: "Od $1.99"
+    price: "od $1.99"
     is_highlight: true
     slug: "europe"
   - name: "eSIM Korea Południowa"
     flag: "/img/flags/kr.svg"
-    price: "Od $1.99"
+    price: "od $1.99"
     is_highlight: false
     slug: "south-korea"
   - name: "eSIM Tajlandia"
     flag: "/img/flags/th.svg"
-    price: "Od $1.99"
+    price: "od $1.99"
     is_highlight: false
     slug: "thailand"
   - name: "eSIM Hongkong"
     flag: "/img/flags/hk.svg"
-    price: "Od $1.99"
+    price: "od $1.99"
     is_highlight: false
     slug: "hong-kong"
 
 # Recent posts (sidebar)
 recentPosts:
-  - title: "Dogłębny przewodnik rozwiązywania problemów z eSIM (16 prawdziwych przypadków)"
+  - title: "Zaawansowany przewodnik rozwiązywania problemów z eSIM (16 rzeczywistych przypadków)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
-  - title: "Transfer eSIM między platformami w 2026"
+  - title: "Przenoszenie eSIM między platformami w 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM nie działa? 12 poprawek dla iPhone"
+  - title: "Podwójny eSIM nie działa? 12 rozwiązań dla iPhone'a"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "eSIM w iPad i Apple Watch: kompletny przewodnik"
+  - title: "eSIM na iPadzie i Apple Watch: kompletny przewodnik"
     permalink: "/faq/ipad-apple-watch-esim-support-guide/"
     date: "2026-05-23"
-  - title: "Przewodnik po zgodności eSIM z iPhone SE"
+  - title: "Przewodnik zgodności eSIM dla iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Kompletny przewodnik konfiguracji eSIM w iPhone 11"
+  - title: "Kompletny przewodnik konfiguracji eSIM dla iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "Najlepszy przewodnik 2026: rozwiązania aktywacji eSIM w iPhone 16"
+  - title: "Ostateczny przewodnik 2026: rozwiązania aktywacji eSIM dla iPhone 16"
     permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
-## Szybka odpowiedź: jak uzyskać eSIM w Kanadzie
+Zdobycie eSIM Kanada zajmuje około piętnastu minut przygotowań i działa najlepiej, jeśli zakończysz je przed odlotem, ponieważ Wi-Fi na lotnisku jest zawodne, a lokalny punkt sprzedaży kart SIM oznacza kolejkę. Cały proces dzieli się na pięć kroków — sprawdź zgodność, kup pakiet, zainstaluj profil, aktywuj po przylocie, potem przetestuj i rozwiąż problemy — a każdy z nich łatwiej wykonać na domowym Wi-Fi niż po przylocie. Ten przewodnik przeprowadza przez wszystkie pięć kroków, a następnie obejmuje typowe błędy i ich rozwiązania.
 
-Uzyskanie eSIM do Kanady zajmuje pięć kroków:
+## Krótka odpowiedź: jak zdobyć eSIM w Kanadzie
 
-1. **Sprawdź zgodność** — wybierz `*#06#` i poszukaj EID. Potwierdź, że telefon jest odblokowany przez operatora.
-2. **Kup plan** — wybierz dane na podstawie długości podróży. Zainstaluj przed wyjazdem na domowym Wi-Fi.
-3. **Zainstaluj eSIM** — zeskanuj kod QR lub wprowadź ręczny kod aktywacyjny.
-4. **Aktywuj w Kanadzie** — włącz roaming danych, ustaw eSIM jako domyślną linię danych.
-5. **Przetestuj i rozwiąż problemy** — jeśli coś nie działa, najpierw użyj ręcznego wyboru sieci.
+Zdobycie eSIM Kanada zajmuje pięć kroków:
 
-**Potrzebny czas:** 15 minut. **Gdzie zainstalować:** w domu, przed lotem. **Kiedy się aktywuje:** automatycznie po połączeniu z kanadyjską siecią.
+1. **Sprawdź zgodność** — wybierz `*#06#` i poszukaj EID. Potwierdź, że Twój telefon jest odblokowany od operatora.
+2. **Kup pakiet** — wybierz dane według długości wyjazdu. Zainstaluj przed wyjazdem na domowym Wi-Fi.
+3. **Zainstaluj eSIM** — zeskanuj kod QR lub wpisz ręczny kod aktywacyjny.
+4. **Aktywuj w Kanadzie** — włącz roaming danych i ustaw eSIM jako domyślną linię danych.
+5. **Przetestuj i rozwiąż problemy** — jeśli coś zawiedzie, najpierw użyj ręcznego wyboru sieci.
 
-**Chcesz przetestować przed zakupem?** Skorzystaj z [darmowego eSIM trial](/free-esim/) lub [planu eSIM Roami do Kanady](/canada-esim/) od **$1.99**, aby przejść przez konfigurację i sprawdzić zasięg przed podróżą. Nowi użytkownicy otrzymują **20% zniżki** z kodem `web20`, a **całodobowe wsparcie ludzkie** Roami jest gotowe, jeśli konfiguracja się zatrzyma.
+**Potrzebny czas:** 15 minut. **Gdzie instalować:** w domu, przed odlotem. **Kiedy się aktywuje:** automatycznie po połączeniu z kanadyjską siecią.
 
-Ten przewodnik obejmuje każdy krok, każdy typowy błąd i każdą poprawkę. Aby zapoznać się z cenami dostawców, zobacz naszą [pełną bazę danych porównania eSIM do Kanady](/blog/canada-esim-comparison-2026/). Aby zapoznać się ze zgodnością urządzeń, zobacz nasz [przewodnik po zgodności telefonów](/blog/esim-compatible-phones-canada-guide/).
+**Chcesz przetestować, zanim się zdecydujesz?** Weź [bezpłatną wersję próbną eSIM](/free-esim/) lub [pakiet eSIM Kanada od Roami](/canada-esim/) już od **$1.99**, aby przejść przez konfigurację i zasięg przed wyjazdem. Nowi użytkownicy otrzymują **rabat 20%** z kodem `web20`, a **całodobowe wsparcie Roami z prawdziwymi ludźmi** jest gotowe, jeśli konfiguracja się zatrzyma.
 
-## Zgodność i przygotowanie eSIM w Kanadzie
+Ten przewodnik obejmuje każdy krok, każdy typowy błąd i każde rozwiązanie. Ceny dostawców znajdziesz w naszej [pełnej bazie porównawczej eSIM Kanada](/blog/canada-esim-comparison-2026/). Zgodność urządzeń sprawdzisz w naszej [weryfikacji zgodności](/compatibility/).
 
-Przed zakupem jakiegokolwiek planu eSIM do Kanady potwierdź, że Twój telefon obsługuje eSIM i jest odblokowany przez operatora. Ta sekcja pokazuje najszybsze kontrole, ścieżki ustawień dla głównych marek i kroki przygotowawcze, które zapobiegają większości problemów z instalacją.
+## Zgodność i przygotowanie eSIM Kanada
 
-### Zgodność eSIM w Kanadzie: 30-sekundowa kontrola EID
+Przed zakupem jakiegokolwiek pakietu eSIM Kanada potwierdź, że Twój telefon obsługuje eSIM i jest odblokowany od operatora. Ta sekcja pokazuje najszybsze testy, ścieżki ustawień głównych marek oraz kroki przygotowania, które zapobiegają większości problemów z instalacją później.
 
-Przed zakupem jakiegokolwiek planu potwierdź, że Twój telefon obsługuje eSIM. Najszybsza metoda działa zarówno na iPhone, jak i Android:
+### Zgodność eSIM Kanada: 30-sekundowy test EID
 
-1. Otwórz **dialer**.
-2. Wpisz **`*#06#`**.
-3. Poszukaj **EID** (eSIM Identifier), 32-cyfrowego kodu.
+Przed zakupem jakiegokolwiek pakietu potwierdź, że Twój telefon może przechowywać pobrany profil SIM. Wybranie **`*#06#`** to najszybszy test na każdym telefonie: wśród pojawiających się identyfikatorów poszukaj **EID** — 32-cyfrowego identyfikatora eSIM. Jeśli go widzisz, możesz instalować; ekran pokazujący tylko numery IMEI oznacza brak sprzętu wbudowanej karty SIM.
 
-**Jeśli widzisz EID:** Twój telefon ma sprzęt eSIM.  
-**Jeśli widzisz tylko IMEI:** Twój telefon nie obsługuje eSIM.
+Testy przez menu — linia „Dostępna karta SIM” w sekcji „Informacje” na iPhonie, SIM Manager u Samsunga, ekran „Pobrać kartę SIM zamiast tego?” u Pixela — są opisane w naszym [przewodniku zgodności telefonów](/blog/esim-compatible-phones-canada-guide/), wraz z pełną listą 40+ urządzeń i uwagami o wersjach regionalnych.
 
-**Na co zwrócić uwagę:** Na iPhone EID pojawia się pod IMEI. Na Samsungu może pojawić się jako „EID" lub „eSIM ID". Jeśli widzisz tylko dwa numery IMEI (IMEI1 i IMEI2), Twój telefon nie ma sprzętu eSIM.
+eSIM to standard zdefiniowany przez [GSMA](https://www.gsma.com/esim/), a 32-cyfrowy EID to identyfikator, którego Twoje urządzenie używa przy rejestracji profilu.
 
-Aby zapoznać się z pełną listą urządzeń według marki i regionu, zobacz nasz [przewodnik po zgodności telefonów](/blog/esim-compatible-phones-canada-guide/).
+Nie chcesz wybierać kodu? Aplikacja Ustawienia mówi to samo, choć ścieżka menu różni się według marki — nasza [weryfikacja zgodności urządzeń](/compatibility/) wymienia wszystkie. Jedna pułapka regionalna jest ważna dla odwiedzających z Azji: iPhone'y sprzedawane w Chinach kontynentalnych i Hongkongu nie mają sprzętu eSIM, z wyjątkiem tylko kilku nowszych modeli (iPhone 17e, iPhone Air, iPhone 18 Pro/Pro Max) sprzedawanych w Chinach kontynentalnych.
 
-eSIM to standard zdefiniowany przez [GSMA](https://www.gsma.com/esim/), a 32-cyfrowy EID to identyfikator, którego Twoje urządzenie używa do rejestracji profilu eSIM.
+### Test odblokowania operatora dla eSIM Kanada
 
-### Szybka kontrola ustawień eSIM według marki
+Blokada operatora uniemożliwia instalację każdego podróżniczego profilu, więc zweryfikuj ją przed finalizacją zakupu. iPhone'y pokazują stan blokady w **Ustawienia → Ogólne → Informacje**; Android ukrywa ją w **Informacje o telefonie → Stan**. Kanadyjskie przepisy sprzyjają podróżnym: Wireless Code CRTC zobowiązuje Bell, Rogers, Telus i Freedom Mobile do odblokowania urządzeń bez opłat — zobacz [Wireless Code CRTC](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
 
-Jeśli wolisz nie dzwonić, użyj aplikacji Ustawienia:
+**Pro tip:** Jeśli kupiłeś używanego Samsunga od kanadyjskiego operatora, eSIM może być domyślnie wyłączona. Sprawdź u operatora przed zakupem. Kroki usunięcia blokady operatora znajdziesz w naszych [uwagach o zgodności](/compatibility/).
 
-- **iPhone:** Ustawienia → Ogólne → Informacje → poszukaj „Dostępna karta SIM" lub „Blokada operatora".
-- **Samsung:** Ustawienia → Połączenia → Menedżer SIM → poszukaj „Dodaj eSIM".
-- **Google Pixel:** Ustawienia → Sieć i internet → Karty SIM → poszukaj „Pobrać kartę SIM zamiast tego?"
-- **Inne marki Android:** wyszukaj „eSIM" w Ustawieniach.
+### Przygotuj się do konfiguracji eSIM
 
-Jeśli widzisz tę opcję, Twój telefon obsługuje eSIM. Jeśli nie, sprawdź uwagi regionalne w naszej [bazie danych zgodności urządzeń](/blog/esim-compatible-phones-canada-guide/).
+Instalacja eSIM wymaga połączenia internetowego. **Zrób to w domu przed wyjazdem.** Wi-Fi na lotnisku jest często powolne i niestabilne. Jeśli poczekasz do wylądowania, możesz mieć trudność z instalacją.
 
-**Ważne:** iPhone'y sprzedawane w Chinach kontynentalnych i Hongkongu nie obsługują eSIM. Jedynymi wyjątkami w Chinach kontynentalnych są iPhone 17e i iPhone Air. Aby uzyskać szczegóły, zobacz nasz [przewodnik po urządzeniach](/blog/esim-compatible-phones-canada-guide/).
-
-### Kontrola odblokowania operatora eSIM w Kanadzie
-
-Nawet jeśli Twój telefon obsługuje eSIM, musi być odblokowany przez operatora.
-
-- **iPhone:** Ustawienia → Ogólne → Informacje → **Blokada operatora** powinna mówić „Brak ograniczeń SIM".
-- **Android:** Ustawienia → Informacje o telefonie → Status → sprawdź status sieci/SIM.
-
-W Kanadzie CRTC wymaga, aby Bell, Rogers, Telus i Freedom Mobile odblokowywały urządzenia bezpłatnie. Zobacz [Kodeks bezprzewodowy CRTC](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
-
-**Wskazówka:** Jeśli kupiłeś używanego Samsunga od kanadyjskiego operatora, eSIM może być domyślnie wyłączony. Sprawdź u operatora przed zakupem. Zobacz nasz [przewodnik po urządzeniach](/blog/esim-compatible-phones-canada-guide/), aby poznać kroki usuwania blokady operatora.
-
-### Przygotowanie do konfiguracji eSIM
-
-Instalacja eSIM wymaga połączenia internetowego. **Zrób to w domu przed wyjazdem.** Wi-Fi na lotnisku jest często wolne i niestabilne. Jeśli poczekasz do przylotu, możesz mieć trudności z instalacją.
-
-Przed rozpoczęciem upewnij się, że:
+Zanim zaczniesz, upewnij się, że:
 
 - **Wi-Fi:** Stabilne domowe Wi-Fi. Nie używaj publicznego Wi-Fi.
-- **Zasilanie:** Bateria telefonu powyżej 50% lub podłączona do ładowania.
+- **Zasilanie:** Bateria telefonu powyżej 50% albo podłączony do ładowarki.
 - **Pamięć:** Co najmniej 1GB wolnego miejsca.
 - **Kod QR:** Zapisany i dostępny.
-- **Ręczny kod aktywacyjny:** Zapisany jako kopia zapasowa.
+- **Ręczny kod aktywacyjny:** Zapisany jako zapasowy.
 
-**Typowy raport użytkownika:** Podróżni zgłaszali przylot na Toronto Pearson i próbę instalacji eSIM na Wi-Fi lotniska, aby odkryć, że Wi-Fi wymagało kanadyjskiego numeru telefonu do weryfikacji. Niektórzy spędzili 40 minut na lotnisku, zanim znaleźli otwartą sieć w kawiarni.
+**Typowy raport użytkowników:** Podróżni zgłaszali, że po wylądowaniu na Toronto Pearson próbowali zainstalować eSIM na Wi-Fi lotniska, tylko po to, by odkryć, że Wi-Fi wymagało kanadyjskiego numeru telefonu do weryfikacji. Niektórzy spędzili 40 minut na lotnisku, zanim znaleźli otwartą sieć w kawiarni.
 
 ### Co potrzebujesz przed konfiguracją eSIM
 
-- Twój telefon (kompatybilny i odblokowany)
+- Twój telefon (zgodny i odblokowany)
 - Stabilne połączenie Wi-Fi
 - Metoda płatności (karta kredytowa, PayPal, Apple Pay, Google Pay)
-- Kod QR dostawcy lub ręczny kod aktywacyjny
+- Kod QR lub ręczny kod aktywacyjny od Twojego dostawcy
 - 10–15 minut czasu
 
-## Zakup właściwego planu eSIM do Kanady
+## Zakup właściwego pakietu eSIM Kanada
 
-Zakup właściwego planu polega głównie na dopasowaniu danych, ważności, zasięgu i tego, czy potrzebujesz kanadyjskiego numeru telefonu. Ceny zmieniają się co miesiąc, więc korzystaj z bazy danych porównania, zamiast polegać na stronie jednego dostawcy.
+Zakup właściwego pakietu to głównie dopasowanie danych, ważności, zasięgu oraz tego, czy potrzebujesz kanadyjskiego numeru telefonu. Ceny zmieniają się co miesiąc, więc korzystaj z bazy porównawczej zamiast polegać na stronie jednego dostawcy.
 
-### Gdzie kupić eSIM do Kanady
+### Gdzie kupić eSIM Kanada
 
 **Zalecane:** strona internetowa lub aplikacja dostawcy.  
-**Dostępne również:** platformy podróżne innych firm, takie jak Trip.com, Klook i KKday.  
-**Lokalni operatorzy:** Bell, Rogers, Telus i Freedom Mobile zwykle wymagają kanadyjskiego adresu lub wizyty w sklepie, co nie jest idealne na krótkie wycieczki. [Plany eSIM Roami do Kanady](/canada-esim/) zaczynają się od **$1.99** z **całodobowym wsparciem ludzkim** i **20% zniżką dla nowych użytkowników**, jeśli wolisz prostszy zakup online.
+**Dostępne też:** zewnętrzne platformy podróżnicze, takie jak Trip.com, Klook i KKday.  
+**Lokalni operatorzy:** Bell, Rogers, Telus i Freedom Mobile zwykle wymagają kanadyjskiego adresu lub wizyty w sklepie, co nie jest idealne na krótkie wyjazdy. [Pakiety eSIM Kanada](/canada-esim/) od Roami zaczynają się od **$1.99** z **całodobowym wsparciem z prawdziwymi ludźmi** i **rabatem 20% dla nowych użytkowników**, jeśli wolisz prostszy zakup online.
 
-Aby zapoznać się z pełnym porównaniem cen i sieci dostawców, zobacz naszą [bazę danych porównania eSIM do Kanady](/blog/canada-esim-comparison-2026/). Nie wymieniamy tutaj konkretnych dostawców, ponieważ ceny zmieniają się co miesiąc.
+Pełne porównanie cen i sieci dostawców znajdziesz w naszej [bazie porównawczej eSIM Kanada](/blog/canada-esim-comparison-2026/). Nie wymieniamy tu konkretnych dostawców, ponieważ ceny zmieniają się co miesiąc.
 
-### Wybierz dane eSIM do Kanady według długości podróży
+### Wybór danych eSIM Kanada według długości wyjazdu
 
-| Długość podróży | Zalecane dane | Uwagi |
+| Długość wyjazdu | Zalecane dane | Uwagi |
 |-------------|------------------|-------|
-| 1–3 dni | 1–3GB | Lekka nawigacja i wiadomości |
-| 4–7 dni | 3–5GB | Średnie użycie; nielimitowane przy intensywnym |
-| 1–2 tygodnie | 5–10GB | Lub nielimitowane do pracy zdalnej |
+| 1–3 dni | 1–3GB | Lekka nawigacja i komunikatory |
+| 4–7 dni | 3–5GB | Umiarkowane użycie; nielimitowane przy intensywnym |
+| 1–2 tygodnie | 5–10GB | Albo nielimitowane przy pracy zdalnej |
 | 2+ tygodnie | 10GB+ lub nielimitowane | Nielimitowane często opłacalne |
 
-**Rzeczywiste szacunki użycia:**
-- Nawigacja + wiadomości: 100–300MB/dzień
+**Rzeczywiste szacunki zużycia:**
+- Nawigacja + komunikatory: 100–300MB/dzień
 - Media społecznościowe + muzyka: 300MB–1GB/dzień
 - Wideo + hotspot: 1GB+/dzień
 
-**Bufor danych:** Zawsze kupuj 20–50% więcej niż myślisz, że potrzebujesz. Wi-Fi na autostradzie nie jest niezawodne. Jeśli skończą Ci się dane w odległym obszarze, nie możesz łatwo doładować.
+**Zapas danych:** Zawsze kupuj o 20–50% więcej, niż myślisz, że potrzebujesz. Wi-Fi na autostradach nie jest niezawodne. Jeśli wyczerpiesz dane na odludziu, nie łatwo doładujesz pakiet.
 
 Jeśli potrzebujesz kanadyjskiego numeru telefonu do kodów bankowych lub Ubera, zobacz nasz [przewodnik po eSIM z numerem telefonu](/blog/canada-esim-with-phone-number-guide/).
 
-### Instalacja vs aktywacja eSIM
+### Instalacja a aktywacja eSIM
 
-To miejsce, w którym większość pierwszych użytkowników się myli.
+Tu większość początkujących użytkowników się gubi.
 
-**Instalacja:** Pobiera profil eSIM na Twój telefon. Wymaga Wi-Fi. Można ją wykonać przed wyjazdem. eSIM pojawia się na liście komórkowej, ale **nie łączy się, nie używa danych i nie uruchamia zegara ważności**.
+**Instalacja:** Pobiera profil na Twój telefon. Wymaga Wi-Fi. Można zrobić przed wyjazdem. eSIM pojawia się na liście komórkowych, ale **nie łączy się, nie używa danych i nie uruchamia zegara ważności**.
 
-**Aktywacja:** Automatycznie uruchamia się, gdy eSIM po raz pierwszy łączy się z kanadyjską siecią. Okres ważności się rozpoczyna, a zużycie danych zaczyna być liczone.
+**Aktywacja:** Automatycznie następuje, gdy eSIM po raz pierwszy połączy się z kanadyjską siecią. Rozpoczyna się okres ważności i zaczyna się liczenie zużycia danych.
 
-**Co to oznacza:** Możesz zainstalować tydzień lub dwa wcześniej bez marnowania ważności. Większość podróżnych eSIM aktywuje się przy pierwszym połączeniu z siecią. Niektórzy dostawcy wymagają instalacji tylko po przylocie — **przeczytaj politykę aktywacji przed zakupem**.
+**Co to oznacza:** Możesz zainstalować tydzień lub dwa wcześniej bez marnowania ważności. Większość podróżniczych eSIM aktywuje się przy pierwszym połączeniu z siecią. Kilku dostawców wymaga instalacji dopiero po przylocie — **przeczytaj politykę aktywacji przed zakupem**.
 
-**Typowy raport użytkownika:** Podróżny zainstalował swój eSIM w Londynie dwa tygodnie przed lotem do Vancouver. Plan był ważny 30 dni od aktywacji. Przyleciał, włączył roaming danych, a zegar 30 dni zaczął się dopiero, gdy telefon połączył się z Bell. Zaoszczędzili 14 dni ważności.
+**Typowy raport użytkowników:** Podróżny zainstalował eSIM w Londynie dwa tygodnie przed lotem do Vancouver. Pakiet był ważny 30 dni od aktywacji. Wylądował, włączył roaming danych, a zegar 30 dni wystartował dopiero, gdy telefon połączył się z Bell. Zaoszczędził 14 dni ważności.
 
-Aby zapoznać się z politykami aktywacji poszczególnych dostawców, zobacz naszą [bazę danych porównania](/blog/canada-esim-comparison-2026/).
+Polityki aktywacji poszczególnych dostawców znajdziesz w naszej [bazie porównawczej](/blog/canada-esim-comparison-2026/).
 
 ### Co otrzymujesz po zakupie eSIM
 
 - **Kod QR** do instalacji (najważniejszy)
-- **Ręczny kod aktywacyjny** (kopia zapasowa)
+- **Ręczny kod aktywacyjny** (zapasowy)
 - **Instrukcje instalacji**
-- **Szczegóły planu** (dane, ważność)
+- **Szczegóły pakietu** (dane, ważność)
 
-Sprawdź spam, jeśli nie widzisz e-maila w ciągu kilku minut. Niektórzy dostawcy pokazują również kod QR w swojej aplikacji.
+Sprawdź spam, jeśli nie widzisz e-maila w ciągu kilku minut. Niektórzy dostawcy pokazują też kod QR w swojej aplikacji.
 
-### Przebieg zakupu eSIM do Kanady
+### Proces zakupu eSIM Kanada
 
-1. Przejdź na stronę internetową lub aplikację dostawcy.
+1. Wejdź na stronę dostawcy lub otwórz aplikację.
 2. Wybierz **Kanadę** jako miejsce docelowe.
-3. Wybierz plan według ilości danych i ważności.
+3. Wybierz pakiet według ilości danych i ważności.
 4. Zapłać kartą kredytową, PayPal, Apple Pay lub Google Pay.
 5. Otrzymaj kod QR e-mailem (i często w aplikacji).
 6. Zapisz kod QR i ręczny kod aktywacyjny.
 
-**Wskazówka:** Zrób zrzut ekranu kodu QR i zapisz go w albumie zdjęć telefonu oraz w chmurze. Jeśli przypadkowo usuniesz e-mail, nadal masz kod. Zapisz także ręczny kod aktywacyjny — zawiera adres SM-DP+ i kod aktywacyjny.
+**Pro tip:** Zrób zrzut ekranu kodu QR i zapisz go w albumie zdjęć telefonu oraz w chmurze. Jeśli przypadkowo usuniesz e-mail, wciąż masz kod. Zapisz też ręczny kod aktywacyjny — zawiera adres SM-DP+ i kod aktywacyjny.
 
-### Unikaj niewłaściwego planu eSIM do Kanady
+### Unikaj niewłaściwego pakietu eSIM Kanada
 
 **Typowe błędy:**
-- Kupowanie planu tylko z danymi, gdy potrzebujesz kanadyjskiego numeru telefonu do SMS-ów bankowych.
-- Kupowanie planu jednokrajowego, gdy przekraczasz granicę do USA.
-- Kupowanie eSIM tylko z Rogers, gdy Twoja podróż obejmuje Banff lub Góry Skaliste.
-- Kupowanie zbyt małej ilości danych na road trip.
+- Kupno pakietu tylko na dane, gdy potrzebujesz kanadyjskiego numeru telefonu do SMS z banku.
+- Kupno pakietu na jeden kraj, gdy przekraczasz granicę do USA.
+- Kupno eSIM tylko-Rogers, gdy Twój wyjazd obejmuje Banff lub Skaliste Góry.
+- Kupno zbyt małej ilości danych na road trip.
 
 **Lista kontrolna decyzji:**
-1. Czy potrzebujesz kanadyjskiego numeru telefonu? Jeśli tak, zobacz nasze [opcje eSIM do Kanady z numerem](/blog/canada-esim-with-phone-number-guide/).
-2. Czy przekroczysz granicę do USA? Jeśli tak, zobacz nasz [przewodnik po eSIM transgranicznym](/blog/usa-and-canada-esim-guide/).
-3. Czy odwiedzisz Banff, Jasper lub Góry Skaliste? Jeśli tak, wybierz Bell/Telus. Zobacz nasz [przewodnik po zasięgu sieci](/blog/canada-esim-coverage-guide/).
-4. Jak długa jest Twoja podróż? Dopasuj dane do długości podróży (zobacz tabelę planowania danych powyżej).
+1. Czy potrzebujesz kanadyjskiego numeru telefonu? Jeśli tak, zobacz nasze [opcje eSIM Kanada z numerem](/blog/canada-esim-with-phone-number-guide/).
+2. Czy przekroczysz granicę do USA? Jeśli tak, zobacz nasz [przewodnik po eSIM transgranicznej](/blog/usa-and-canada-esim-guide/).
+3. Czy odwiedzisz Banff, Jasper lub Skaliste Góry? Jeśli tak, wybierz Bell/Telus. Zobacz nasz [przewodnik po zasięgu sieci](/blog/canada-esim-coverage-guide/).
+4. Jak długi jest Twój wyjazd? Dopasuj dane do długości wyjazdu (zobacz tabelę planowania danych powyżej). Zostajesz na miesiąc lub dłużej? [Przewodnik eSIM na długi pobyt](/blog/best-canada-esim-for-travelers/) porównuje opcje miesięczne.
 
-## Instalacja eSIM na iPhone: krok po kroku
+## Instalacja eSIM na iPhonie: krok po kroku
 
-Proces konfiguracji eSIM na iPhone jest podobny w iOS 16 i nowszych. Poniższe kroki odpowiadają standardowym ścieżkom menu Apple dla dodawania podróżnego eSIM.
+Proces konfiguracji eSIM na iPhonie jest podobny w iOS 16 i nowszych. Poniższe kroki odpowiadają standardowym ścieżkom menu Apple do dodania podróżniczej eSIM.
 
-### Standardowa instalacja eSIM przez kod QR (iOS 16+)
+### Standardowa instalacja eSIM przez QR (iOS 16+)
 
 1. Otwórz **Ustawienia**.
-2. Dotknij **Komórka** (lub Dane komórkowe).
+2. Dotknij **Cellular** (lub Mobile Data).
 3. Dotknij **Dodaj eSIM**.
 4. Wybierz **Użyj kodu QR**.
 5. Zeskanuj kod QR z e-maila dostawcy.
-6. Nazwij eSIM (np. „Kanada Podróż").
+6. Nazwij eSIM (np. „Kanada — podróż”).
 7. Potwierdź instalację.
 
-**Co zobaczysz:** Po zeskanowaniu iPhone pobiera profil eSIM. Zajmuje to 10–30 sekund. Zobaczysz „eSIM dodano" lub podobne.
+**Co zobaczysz:** Po skanowaniu iPhone pobiera profil. To zajmuje 10–30 sekund. Zobaczysz „Dodano eSIM” lub podobny komunikat.
 
-**Co pokazuje ekran:** Ekran „Dodaj eSIM" pokazuje opcje: „Użyj kodu QR", „Przenieś z pobliskiego iPhone" i „Wprowadź szczegóły ręcznie". Wybierz „Użyj kodu QR". Po zeskanowaniu iOS pokazuje spinner postępu, a następnie „eSIM dodano".
+**Co pokazuje ekran:** Ekran „Dodaj eSIM” pokazuje opcje: „Użyj kodu QR”, „Przenieś z pobliskiego iPhone'a” i „Wpisz dane ręcznie”. Wybierz „Użyj kodu QR”. Po skanowaniu iOS pokazuje wskaźnik postępu, a potem „Dodano eSIM”.
 
 ### Automatyczna instalacja eSIM (niektórzy operatorzy)
 
-Jeśli widzisz **„Plan komórkowy operatora gotowy do instalacji"** w Ustawieniach, dotknij go i postępuj zgodnie z instrukcjami. Dotyczy to niektórych modeli iPhone 17 i nowszych oraz niektórych eSIM operatorów.
+Jeśli widzisz **„Plan komórkowy operatora gotowy do instalacji”** w Ustawieniach, dotknij go i postępuj zgodnie z instrukcjami. Dotyczy to niektórych modeli iPhone 17 i nowszych oraz niektórych eSIM operatorów.
 
-**Ważne:** To nie to samo co instalacja podróżnego eSIM. Podróżne eSIM prawie zawsze używają kodu QR lub ręcznej aktywacji.
+**Ważne:** To nie to samo co instalacja podróżniczej eSIM. Podróżnicze eSIM prawie zawsze używają kodu QR lub ręcznej aktywacji.
 
 ### Ręczny kod aktywacyjny eSIM
 
-1. Ustawienia → Komórka → Dodaj eSIM.
-2. Wybierz **Wprowadź szczegóły ręcznie**.
-3. Wprowadź adres SM-DP+ i kod aktywacyjny z e-maila.
+1. Ustawienia → Cellular → Dodaj eSIM.
+2. Wybierz **Wpisz dane ręcznie**.
+3. Wpisz adres SM-DP+ i kod aktywacyjny ze swojego e-maila.
 4. Postępuj zgodnie z instrukcjami.
 
-**Co zobaczysz:** iOS pyta o „Adres SM-DP+" i „Kod aktywacyjny". Znajdziesz je w e-mailu dostawcy. Kopiuj i wklejaj ostrożnie.
+**Co zobaczysz:** iOS prosi o „Adres SM-DP+” i „Kod aktywacyjny”. Znajdziesz je w e-mailu od dostawcy. Kopiuj i wklejaj ostrożnie.
 
-### Kontrola eSIM po instalacji
+### Sprawdzenie eSIM po instalacji
 
-- Ustawienia → Komórka → potwierdź, że nowy eSIM się pojawia.
-- Potwierdź, że **„Włącz tę linię"** jest włączone.
-- **Nie włączaj jeszcze roamingu danych** — poczekaj do przylotu do Kanady.
+- Ustawienia → Cellular → potwierdź, że nowa eSIM się pojawia.
+- Potwierdź, że **„Włącz tę linię”** jest włączone.
+- **Jeszcze nie włączaj roamingu danych** — poczekaj, aż przyjedziesz do Kanady.
 
-**Co pokazuje ekran:** eSIM pojawia się w „Planach komórkowych" z nazwą, którą mu nadałeś. „Włącz tę linię" jest przełączone na włączone. „Roaming danych" jest przełączony na wyłączone.
+**Co pokazuje ekran:** eSIM pojawia się w „Plany komórkowe” pod nadaną przez Ciebie nazwą. „Włącz tę linię” jest włączone. „Roaming danych” jest wyłączone.
 
-### Różnice w wersjach iOS dla eSIM
+**Uwaga o pamięci:** Nowsze iPhone'y mogą przechowywać osiem lub więcej profili eSIM jednocześnie (dwa aktywne równocześnie), więc nie musisz usuwać starego podróżniczego profilu przed dodaniem kanadyjskiego. Trzymaj nieużywane profile wyłączone zamiast je usuwać — po usunięciu profilu zwykle nie można go pobrać ponownie bez ponownego zakupu pakietu.
+
+### Różnice wersji iOS dla eSIM
 
 | Wersja iOS | Ścieżka | Uwagi |
 |-------------|------|-------|
-| iOS 16 | Ustawienia → Komórka → Dodaj eSIM | Standardowa |
-| iOS 17 | Ustawienia → Komórka → Dodaj eSIM | Taka sama |
-| iOS 18 | Ustawienia → Komórka → Dodaj eSIM | Taka sama, ale „Dostępna karta SIM" w Informacjach pokazuje więcej szczegółów |
-| iOS 19 (przyszłość) | Ustawienia → Komórka → Dodaj eSIM | Sprawdź dokumentację Apple |
+| iOS 16 | Ustawienia → Cellular → Dodaj eSIM | Standardowa |
+| iOS 17 | Ustawienia → Cellular → Dodaj eSIM | Taka sama |
+| iOS 18 | Ustawienia → Cellular → Dodaj eSIM | Taka sama, ale „Dostępna karta SIM” w Informacjach pokazuje więcej szczegółów |
+| iOS 19 (przyszłość) | Ustawienia → Cellular → Dodaj eSIM | Sprawdź dokumentację Apple |
 
-**Wskazówka:** Jeśli nie możesz znaleźć „Dodaj eSIM", wyszukaj „eSIM" w Ustawieniach. Wyszukiwanie iOS je znajdzie.
+**Pro tip:** Jeśli nie możesz znaleźć „Dodaj eSIM”, wyszukaj „eSIM” w Ustawieniach. Wyszukiwanie iOS je znajdzie.
 
-### iPhone tylko z eSIM 14 lub nowszy (USA)
+### iPhone 14 lub nowszy tylko z eSIM (USA)
 
-Wersje amerykańskie iPhone 14, 15, 16 i 17 mogą być tylko z eSIM (bez fizycznej tacki SIM). Jeśli masz amerykańskiego iPhone, nie możesz użyć fizycznej kanadyjskiej karty SIM. Musisz użyć eSIM. Ten przewodnik nadal obowiązuje. W przypadku kanadyjskich modeli iPhone większość zachowuje fizyczną tackę SIM, więc możesz używać zarówno fizycznej karty SIM, jak i eSIM. Sprawdź swój model w naszym [przewodniku po zgodności urządzeń](/blog/esim-compatible-phones-canada-guide/).
+Amerykańskie wersje iPhone 14, 15, 16 i 17 mogą być tylko z eSIM (bez tacki na fizyczną kartę SIM). Jeśli masz amerykańskiego iPhone'a, nie możesz użyć fizycznej kanadyjskiej karty SIM. Musisz użyć eSIM. Ten przewodnik nadal obowiązuje. Kanadyjskie modele iPhone w większości zachowują tackę na fizyczną kartę SIM, więc możesz używać i fizycznej karty SIM, i eSIM. Sprawdź swój model w naszym [przewodniku zgodności urządzeń](/compatibility/) i zobacz [dokumentację Dual SIM Apple](https://support.apple.com/en-us/109317) dla pełnego obrazu.
 
-## Instalacja eSIM na Android: krok po kroku
+## Instalacja eSIM na Androidzie: krok po kroku
 
-Instalacja eSIM na Androidzie różni się w zależności od marki, ale podstawowe kroki są podobne. Samsung, Google i inni producenci używają nieco innych nazw menu, więc użyj poniższych ścieżek jako wskazówki.
+Instalacja eSIM na Androidzie różni się według marki, ale podstawowe kroki są podobne. Samsung, Google i inni producenci używają nieco innych nazw menu, więc używaj poniższych ścieżek jako wskazówki.
 
 ### Instalacja eSIM na Samsung Galaxy
 
-1. **Ustawienia → Połączenia → Menedżer SIM**.
+1. **Ustawienia → Połączenia → SIM Manager**.
 2. Dotknij **Dodaj eSIM**.
-3. Wybierz **Skanuj kod QR**.
+3. Wybierz **Zeskanuj kod QR**.
 4. Zeskanuj kod QR.
 5. Postępuj zgodnie z instrukcjami, aby pobrać i aktywować.
 
-**Co zobaczysz:** Samsung pokazuje „Pobieranie SIM", a następnie „SIM dodano". eSIM pojawia się w Menedżerze SIM.
+**Co zobaczysz:** Samsung pokazuje „Pobieranie SIM”, a potem „Dodano kartę SIM”. eSIM pojawia się w SIM Manager.
 
-**Co pokazuje ekran:** W One UI 6 „Dodaj eSIM" znajduje się na dole Menedżera SIM. Po zeskanowaniu pojawia się pasek postępu, a następnie „SIM dodano".
+**Co pokazuje ekran:** W One UI 6 „Dodaj eSIM” znajduje się na dole SIM Manager. Po skanowaniu pojawia się pasek postępu, a potem „Dodano kartę SIM”.
 
 ### Instalacja eSIM na Google Pixel
 
 1. **Ustawienia → Sieć i internet → Karty SIM**.
-2. Dotknij **Dodaj eSIM** (lub Pobierz SIM).
-3. Zeskanuj kod QR lub wprowadź kod aktywacyjny ręcznie.
+2. Dotknij **Dodaj eSIM** (lub Pobierz kartę SIM).
+3. Zeskanuj kod QR lub wpisz kod aktywacyjny ręcznie.
 4. Postępuj zgodnie z instrukcjami.
 
-**Co zobaczysz:** Pixel pokazuje „Pobieranie SIM", a następnie „SIM dodano". eSIM pojawia się w Kartach SIM.
+**Co zobaczysz:** Pixel pokazuje „Pobieranie SIM”, a potem „Dodano kartę SIM”. eSIM pojawia się w sekcji kart SIM.
 
-### Instalacja eSIM na innych markach Android
+### Instalacja eSIM na innych markach Androida
 
-- Znajdź ustawienia **Sieć/Połączenie**.
-- Znajdź **Menedżer SIM** lub **Sieć komórkowa**.
-- Wybierz **Dodaj eSIM** lub **Pobierz SIM**.
-- Zeskanuj kod QR lub wprowadź kod aktywacyjny.
+- Znajdź ustawienia **Sieć/Połączenia**.
+- Znajdź **SIM Manager** lub **Sieć komórkowa**.
+- Wybierz **Dodaj eSIM** lub **Pobierz kartę SIM**.
+- Zeskanuj QR lub wpisz kod aktywacyjny.
 
-**Wskazówka:** wyszukaj „eSIM" w Ustawieniach, jeśli nie możesz znaleźć ścieżki.
+**Wskazówka:** wyszukaj „eSIM” w Ustawieniach, jeśli nie możesz znaleźć ścieżki.
 
 **Uwagi dotyczące marek:**
 - **OnePlus:** Ustawienia → Wi-Fi i sieć → SIM i sieć → Dodaj eSIM.
@@ -335,251 +314,247 @@ Instalacja eSIM na Androidzie różni się w zależności od marki, ale podstawo
 - **OPPO:** Ustawienia → Karta SIM i dane komórkowe → Dodaj eSIM.
 - **Motorola:** Ustawienia → Sieć i internet → Karty SIM → Dodaj eSIM.
 
-### Kontrola eSIM na Android po instalacji
+### Sprawdzenie eSIM na Androidzie po instalacji
 
-- Potwierdź, że eSIM pojawia się w Menedżerze SIM.
-- Potwierdź, że jest włączony.
-- Nie włączaj roamingu danych do przylotu do Kanady.
+- Potwierdź, że eSIM pojawia się w SIM Manager.
+- Potwierdź, że jest włączona.
+- Nie włączaj roamingu danych, dopóki nie przyjedziesz do Kanady.
 
-### Różnice w wersjach Android dla eSIM
+### Różnice wersji Androida dla eSIM
 
-| Wersja Android | Ścieżka | Uwagi |
+| Wersja Androida | Ścieżka | Uwagi |
 |-----------------|------|-------|
 | Android 13 | Ustawienia → Sieć i internet → Karty SIM | Standardowa |
 | Android 14 | Ustawienia → Sieć i internet → Karty SIM | Taka sama |
 | Android 15 | Ustawienia → Sieć i internet → Karty SIM | Taka sama, ale niektóre marki przenoszą ją |
-| Android 16 (przyszłość) | Ustawienia → Sieć i internet → Karty SIM | Sprawdź producenta |
+| Android 16 (przyszłość) | Ustawienia → Sieć i internet → Karty SIM | Sprawdź u producenta |
 
-## Aktywacja eSIM w Kanadzie
+## Aktywuj eSIM w Kanadzie
 
-Aktywacja rozpoczyna się, gdy eSIM po raz pierwszy łączy się z kanadyjską siecią. W większości przypadków dzieje się to automatycznie po przylocie i włączeniu roamingu danych. Kluczowe jest prawidłowe ustawienie opcji dual-SIM, aby nie wywołać kosztownych opłat roamingowych na domowej karcie SIM.
+Aktywacja zaczyna się, gdy Twoja eSIM po raz pierwszy połączy się z kanadyjską siecią. W większości przypadków dzieje się to automatycznie po wylądowaniu i włączeniu roamingu danych. Kluczem jest poprawne ustawienie opcji dual-SIM, aby nie wywołać kosztownych opłat za roaming na swojej krajowej karcie SIM.
 
-### Aktywacja eSIM do Kanady po przylocie
+### Aktywacja eSIM Kanada po wylądowaniu
 
 1. **Włącz roaming danych**
-   - iPhone: Ustawienia → Komórka → dotknij eSIM → włącz roaming danych.
-   - Android: Ustawienia → Sieć i internet → dotknij eSIM → włącz roaming danych.
+   - iPhone: Ustawienia → Cellular → dotknij eSIM → włącz Roaming danych.
+   - Android: Ustawienia → Sieć i internet → dotknij eSIM → włącz Roaming danych.
 
 2. **Ustaw domyślną linię danych**
-   - iPhone: Ustawienia → Komórka → Dane komórkowe → wybierz eSIM do Kanady.
-   - Android: Ustawienia → Sieć i internet → Karty SIM → wybierz eSIM do Kanady.
+   - iPhone: Ustawienia → Cellular → Dane komórkowe → wybierz eSIM Kanada.
+   - Android: Ustawienia → Sieć i internet → Karty SIM → wybierz eSIM Kanada.
 
-3. **Zachowaj oryginalny numer do połączeń głosowych**
-   - iPhone: Ustawienia → Komórka → Domyślna linia głosowa → wybierz oryginalny numer.
+3. **Zachowaj oryginalny numer do rozmów**
+   - iPhone: Ustawienia → Cellular → Domyślna linia głosowa → wybierz oryginalny numer.
    - Android: Ustawienia → Sieć i internet → Karty SIM → ustaw linię głosową.
 
 4. **Przetestuj połączenie**
    - Otwórz przeglądarkę lub aplikację map.
 
-**Czas aktywacji:** Zwykle 1–5 minut po połączeniu z kanadyjską siecią partnerską. Jeśli nie ma danych po 5 minutach, zobacz sekcję rozwiązywania problemów.
+**Czas aktywacji:** Zwykle 1–5 minut po połączeniu z kanadyjską siecią partnerską. Jeśli po 5 minutach nie ma danych, zobacz sekcję rozwiązywania problemów.
 
-**Co pokazuje ekran:** Po włączeniu roamingu danych nazwa operatora pojawia się na pasku stanu (Bell, Rogers lub Telus). Linia eSIM pokazuje „Roaming danych: Wł."
+**Co pokazuje ekran:** Po włączeniu roamingu danych nazwa operatora pojawia się na pasku stanu (Bell, Rogers lub Telus). Linia eSIM pokazuje „Roaming danych: włączony”.
 
-### Zalecane ustawienia dual-SIM eSIM
+### Zalecane ustawienia dual-SIM dla eSIM
 
 | Ustawienie | Zalecane | Dlaczego |
 |---------|-------------|-----|
-| Domyślna linia danych | eSIM do Kanady | Unikaj opłat roamingowych |
-| Domyślna linia głosowa | Oryginalny numer | Otrzymuj kody bankowe i połączenia |
-| Roaming danych na oryginalnym numerze | Wył. | Zapobiegaj przypadkowym opłatom |
-| Zezwalaj na przełączanie danych komórkowych | Wył. | Zapobiegaj przełączaniu danych na oryginalny numer |
+| Domyślna linia danych | eSIM Kanada | Unikaj opłat za roaming |
+| Domyślna linia głosowa | Oryginalny numer | Odbieraj kody bankowe i rozmowy |
+| Roaming danych na oryginalnym numerze | Wyłączony | Zapobiegaj przypadkowym opłatom |
+| Zezwalaj na przełączanie danych komórkowych | Wyłączone | Zapobiegaj przełączaniu danych na oryginalny numer |
 
-**Ważne:** Jeśli ustawisz „Zezwalaj na przełączanie danych komórkowych" na WŁ., Twój telefon może przełączyć się na domową kartę SIM, gdy eSIM do Kanady ma słaby sygnał. Może to wywołać opłaty roamingowe. Pozostaw to WYŁ.
+**Ważne:** Jeśli ustawisz „Zezwalaj na przełączanie danych komórkowych” na WŁ., Twój telefon może przełączyć się na krajową kartę SIM, gdy eSIM Kanada ma słaby sygnał. To może wywołać opłaty za roaming. Trzymaj to WYŁ.
 
-### Wi-Fi Calling z eSIM
+### Wi-Fi calling z eSIM
 
-Jeśli Twój domowy operator obsługuje Wi-Fi Calling, możesz wykonywać połączenia na oryginalnym numerze przez Wi-Fi bez opłat roamingowych. Włącz to w Ustawienia → Telefon → Wi-Fi Calling. Działa najlepiej na stabilnym Wi-Fi w hotelu lub kawiarni.
+Jeśli Twój krajowy operator obsługuje Wi-Fi Calling, możesz dzwonić na swoim oryginalnym numerze przez Wi-Fi bez opłat za roaming. Włącz to w Ustawienia → Telefon → Wi-Fi Calling. Działa najlepiej na stabilnym Wi-Fi hotelowym lub kawiarnianym.
 
-**Zastrzeżenie:** Jakość Wi-Fi Calling zależy od Wi-Fi. Jeśli Wi-Fi jest słabe, połączenia mogą się przerywać. W przypadku ważnych połączeń użyj linii głosowej eSIM do Kanady, jeśli jest dostępna.
+**Zastrzeżenie:** Jakość Wi-Fi Calling zależy od Wi-Fi. Jeśli Wi-Fi jest słabe, rozmowy mogą się urywać. Na ważnych rozmowach użyj linii głosowej eSIM Kanada, jeśli jest dostępna.
 
-### Wskazówki oszczędzania danych eSIM do Kanady
+### Wskazówki oszczędzania danych eSIM Kanada
 
 - Pobierz mapy offline na Wi-Fi (Google Maps, Apple Maps).
 - Wyłącz automatyczne aktualizacje aplikacji.
-- Buforuj wideo i muzykę na Wi-Fi.
-- Sprawdź użycie danych przez aplikacje w Ustawieniach.
+- Zapisz wideo i muzykę na Wi-Fi do pamięci podręcznej.
+- Sprawdzaj zużycie danych per aplikacja w Ustawieniach.
 - Wyłącz odświeżanie aplikacji w tle.
-- Używaj WhatsApp/iMessage zamiast wideorozmów.
-- Używaj trybu czytnika przeglądarki do artykułów.
+- Używaj WhatsApp/iMessage zamiast rozmów wideo.
+- Używaj trybu czytania przeglądarki dla artykułów.
 - Wyłącz automatyczne odtwarzanie wideo w mediach społecznościowych.
 
-**Dzienny budżet danych dla turystów:**
+**Dzienny budżet danych dla turystów** ([przewodnik dla turystów](/blog/best-canada-esim-for-tourists-guide/) ma pełny obraz planowania):
 - Nawigacja: 100–200MB
 - Media społecznościowe: 150–300MB
 - Streaming muzyki: 150–300MB
 - Przesyłanie zdjęć: 50–100MB
 - Pogoda/aplikacje: 20–50MB
-- **Całkowity lekki dzień:** ~500MB–1GB
-- **Całkowity intensywny dzień:** 1–2GB+
+- **Suma — lekki dzień:** ~500MB–1GB
+- **Suma — intensywny dzień:** 1–2GB+
 
-### Test połączenia eSIM do Kanady
+### Przetestuj połączenie eSIM Kanada
 
 Po aktywacji wykonaj te testy:
 
 1. **Otwórz stronę internetową** — potwierdza, że dane działają.
 2. **Otwórz Google Maps** — potwierdza, że dane nawigacyjne działają.
-3. **Wyślij wiadomość WhatsApp** — potwierdza, że wiadomości działają.
-4. **Sprawdź operatora sieci** — Ustawienia → Komórka → powinno pokazywać Bell/Rogers/Telus.
-5. **Wykonaj test prędkości** — użyj Speedtest.net lub Fast.com. Oczekiwane: 20–150 Mbps w miastach, 5–50 Mbps na obszarach wiejskich.
+3. **Wyślij wiadomość WhatsApp** — potwierdza, że komunikatory działają.
+4. **Sprawdź operatora sieci** — Ustawienia → Cellular → powinno pokazywać Bell/Rogers/Telus.
+5. **Wykonaj test prędkości** — użyj Speedtest.net lub Fast.com. Oczekiwane: 20–150 Mbps w miastach, 5–50 Mbps na terenach wiejskich.
 
 Jeśli którykolwiek test się nie powiedzie, przejdź do rozwiązywania problemów.
 
-### eSIM do Kanady nie łączy się
+### eSIM Kanada nie łączy się
 
 1. **Poczekaj 2–3 minuty.** Telefon potrzebuje czasu na rejestrację w kanadyjskiej sieci.
 2. **Przełącz tryb samolotowy** na 30 sekund.
-3. **Ręcznie wybierz sieć:** Ustawienia → Komórka → Wybór sieci → wyłącz Automatyczny → wybierz Bell, Rogers lub Telus.
-4. **Uruchom ponownie telefon.**
-5. **Sprawdź, czy roaming danych jest WŁ.** dla eSIM.
-6. **Sprawdź status planu** w aplikacji dostawcy.
-7. **Skontaktuj się ze wsparciem**, jeśli nadal nie działa.
+3. **Ręcznie wybierz sieć:** Ustawienia → Cellular → Wybór sieci → wyłącz Automatycznie → wybierz Bell, Rogers lub Telus.
+4. **Zrestartuj telefon.**
+5. **Sprawdź, czy roaming danych jest WŁĄCZONY** dla eSIM.
+6. **Sprawdź status swojego pakietu** w aplikacji dostawcy.
+7. **Skontaktuj się z pomocą techniczną**, jeśli nadal nie działa.
 
-Większość problemów z połączeniem rozwiązuje się przez ręczny wybór sieci.
+Większość problemów z połączeniem rozwiązuje ręczny wybór sieci.
 
-## Rozwiązywanie problemów z eSIM do Kanady
+## Rozwiązywanie problemów z eSIM Kanada
 
-Większość problemów z eSIM do Kanady należy do kilku kategorii: błędy instalacji, brak sygnału, brak danych, problemy z APN lub wybór operatora. Przejdź przez poniższe poprawki w kolejności.
+Większość problemów z eSIM Kanada należy do kilku kategorii: błędy instalacji, brak sygnału, brak danych, problemy z APN lub wybór operatora. Przejdź przez poniższe rozwiązania w kolejności.
 
-### Kod QR eSIM do Kanady nie skanuje się
+### Kod QR eSIM Kanada nie skanuje się
 
-- Użyj **ręcznego kodu aktywacyjnego** zamiast tego.
-- Sprawdź, czy kod QR nie wygasł.
-- Zwiększ jasność ekranu lub wydrukuj kod QR.
-- Poproś o nowy kod QR od wsparcia dostawcy.
-- Spróbuj zeskanować z ekranu innego urządzenia.
+- Przejdź na **ręczny kod aktywacyjny** wydrukowany w e-mailu od dostawcy — instaluje się nawet, gdy QR jest nieczytelny.
+- Kod QR ma krótki okres ważności; jeśli konfiguracja się zatrzymała, poproś o nowy u pomocy technicznej.
+- Zwiększenie jasności ekranu albo skanowanie z ekranu innego urządzenia usuwa większość awarii kamery.
 
-**Typowy błąd:** „Nieprawidłowy kod QR" — zwykle oznacza, że kod QR wygasł lub został nieprawidłowo zeskanowany. Ręczny kod aktywacyjny zawsze działa.
+**Typowy błąd:** „Nieprawidłowy kod QR” — zwykle oznacza, że QR wygasł lub został niepoprawnie zeskanowany. Ręczny kod aktywacyjny zawsze działa.
 
-### eSIM zainstalowany, ale brak sygnału
+### eSIM zainstalowana, ale brak sygnału
 
-**Krok 1:** Potwierdź, że eSIM jest włączony.  
-**Krok 2:** Potwierdź, że roaming danych jest WŁ.  
-**Krok 3:** Wyłącz automatyczny wybór sieci i ręcznie wybierz **Bell / Rogers / Telus**.  
-**Krok 4:** Przełącz tryb samolotowy na 30 sekund.  
-**Krok 5:** Uruchom ponownie telefon.  
-**Krok 6:** Sprawdź status planu w aplikacji dostawcy — może wygasł lub został wykorzystany.
+**Krok 1:** Potwierdź, że profil jest włączony, a Roaming danych jest WŁĄCZONY.  
+**Krok 2:** Przełącz tryb samolotowy na 30 sekund, potem zrestartuj telefon.  
+**Krok 3:** Wyłącz Automatyczny wybór sieci i wybierz ręcznie **Bell / Rogers / Telus** — samo ręczne wybranie przywraca większość „martwych” linii danych.  
+**Krok 4:** Wciąż offline? Otwórz aplikację dostawcy; pakiet mógł wygasnąć lub się wyczerpać.
 
-**Ręczny wybór sieci to najskuteczniejsza poprawka na „sygnał, ale brak danych".** Rozwiązuje to większość przypadków.
+**Ręczny wybór sieci to pojedynczo najskuteczniejsze rozwiązanie problemu „sygnał, ale brak danych”.** To rozwiązuje większość przypadków.
 
 **Jak ręcznie wybrać sieć:**
-- iPhone: Ustawienia → Komórka → Wybór sieci → wyłącz Automatyczny → wybierz Bell/Rogers/Telus.
-- Android: Ustawienia → Sieć i internet → Karty SIM → Operator → wyłącz Automatyczny → wybierz sieć.
+- iPhone: Ustawienia → Cellular → Wybór sieci → wyłącz Automatycznie → wybierz Bell/Rogers/Telus.
+- Android: Ustawienia → Sieć i internet → Karty SIM → Operator → wyłącz Automatycznie → wybierz sieć.
 
-### eSIM sygnał, ale brak danych
+### eSIM ma sygnał, ale brak danych
 
-- Sprawdź ustawienia APN w e-mailu dostawcy.
-- Potwierdź, że domyślna linia danych to eSIM do Kanady.
+- Sprawdź ustawienia APN w e-mailu od dostawcy.
+- Potwierdź, że domyślna linia danych to eSIM Kanada.
 - Tymczasowo wyłącz VPN.
 - Przełącz tryb samolotowy.
-- Uruchom ponownie telefon.
-- Sprawdź, czy roaming danych jest WŁ. dla eSIM.
+- Zrestartuj telefon.
+- Sprawdź, czy roaming danych jest WŁĄCZONY dla eSIM.
 
-**Ustawienia APN:** Niektórzy dostawcy wymagają ręcznego APN. APN znajduje się w e-mailu dostawcy. Przejdź do Ustawienia → Komórka → eSIM → Sieć danych komórkowych → wprowadź APN.
+**Ustawienia APN:** Niektórzy dostawcy wymagają ręcznego APN. APN jest w e-mailu od dostawcy. Przejdź do Ustawienia → Cellular → eSIM → Sieć danych komórkowych → wpisz APN.
 
 ### Nie można aktywować eSIM
 
-1. Uruchom ponownie telefon.
+1. Zrestartuj telefon.
 2. Potwierdź stabilne Wi-Fi.
 3. Zaktualizuj iOS/Android.
-4. Spróbuj **Zresetuj ustawienia sieci** (iPhone: Ustawienia → Ogólne → Przenieś lub zresetuj → Zresetuj → Zresetuj ustawienia sieci).
+4. Spróbuj **Zresetuj ustawienia sieci** (iPhone: Ustawienia → Ogólne → Przenieś lub wyzeruj → Resetuj → Resetuj ustawienia sieci).
 
-**Typowy błąd:** „Nie można aktywować eSIM" często pojawia się, gdy Wi-Fi jest niestabilne. Przenieś się bliżej routera lub użyj innej sieci Wi-Fi.
+**Typowy błąd:** „Nie można aktywować eSIM” często pojawia się, gdy Wi-Fi jest niestabilne. Zbliż się do routera lub użyj innej sieci Wi-Fi.
 
 ### Reset wszystkich sieci dla eSIM
 
-**Co robi:** Czyści hasła Wi-Fi, parowania Bluetooth, profile VPN i ustawienia komórkowe.
+**Co robi:** Usuwa hasła Wi-Fi, parowania Bluetooth, profile VPN i ustawienia komórkowe.
 
-**Ostrzeżenie:** Na niektórych urządzeniach Android może to usunąć zainstalowane profile eSIM. Potwierdź z dostawcą przed użyciem. Na iPhone nie usuwa eSIM.
+**Ostrzeżenie:** Na niektórych urządzeniach Android może to usunąć zainstalowane profile eSIM. Potwierdź u swojego dostawcy przed użyciem. Na iPhonie nie usuwa eSIM.
 
-### Typowe kody błędów eSIM do Kanady
+### Typowe kody błędów eSIM Kanada
 
-| Objaw | Prawdopodobna przyczyna | Poprawka |
+| Objaw | Prawdopodobna przyczyna | Rozwiązanie |
 |---------|--------------|-----|
-| „eSIM nie zainstalowany" | Przerwana instalacja | Usuń i zainstaluj ponownie |
-| „SOS" lub „Tylko połączenia alarmowe" | Brak sieci | Ręcznie wybierz operatora |
-| „Aktywowanie" w nieskończoność | Opóźnienie sieci | Poczekaj 5–10 min, uruchom ponownie |
-| Niezgodność zużycia danych | Aplikacje w tle | Sprawdź użycie aplikacji |
-| „Nieprawidłowy kod QR" | Wygasły lub zły kod QR | Poproś o nowy kod QR lub użyj ręcznego kodu |
-| „eSIM już zainstalowany" | Zduplikowane skanowanie | Sprawdź istniejące eSIM; usuń jeśli trzeba |
-| „Zablokowany przez operatora" | Telefon nieodblokowany | Skontaktuj się z operatorem, aby odblokować |
-| „Brak SIM" | eSIM nie włączony | Włącz linię w ustawieniach |
-| Brak „Sieci danych komórkowych" | APN nie ustawiony | Wprowadź APN ręcznie |
-| „Roaming danych" wył. | Roaming wyłączony | Włącz roaming danych |
-| „Nie można połączyć się z serwerem" | Problem z serwerem dostawcy | Poczekaj, spróbuj ponownie, skontaktuj się ze wsparciem |
-| „SIM nieobsługiwany" | eSIM niekompatybilny | Sprawdź zgodność urządzenia |
+| „eSIM nie zainstalowana” | Przerwana instalacja | Usuń i zainstaluj ponownie |
+| „SOS” lub „Tylko połączenia alarmowe” | Brak sieci | Ręcznie wybierz operatora |
+| „Aktywowanie” w nieskończoność | Opóźnienie sieci | Poczekaj 5–10 min, zrestartuj |
+| Niezgodność zużycia danych | Aplikacje w tle | Sprawdź zużycie aplikacji |
+| „Nieprawidłowy kod QR” | Wygasły lub zły QR | Poproś o nowy QR lub użyj ręcznego kodu |
+| „eSIM już zainstalowana” | Podwójne skanowanie | Sprawdź istniejące eSIM; usuń w razie potrzeby |
+| „Zablokowane przez operatora” | Telefon nieodblokowany | Skontaktuj się z operatorem, aby odblokować |
+| „Brak karty SIM” | eSIM nie jest włączona | Włącz linię w ustawieniach |
+| Brak „Sieć danych komórkowych” | APN nie ustawiony | Wpisz APN ręcznie |
+| „Roaming danych” wyłączony | Roaming wyłączony | Włącz roaming danych |
+| „Nie można połączyć z serwerem” | Problem z serwerem dostawcy | Poczekaj, spróbuj ponownie, skontaktuj się z pomocą |
+| „Karta SIM nie jest obsługiwana” | eSIM niezgodna | Sprawdź zgodność urządzenia |
 
-### Kiedy skontaktować się ze wsparciem eSIM
+### Kiedy skontaktować się z pomocą techniczną eSIM
 
 Przygotuj:
 - Numer zamówienia
 - ICCID (w ustawieniach eSIM)
 - Model urządzenia
-- Kroki już wypróbowane
+- Kroki, które już wypróbowałeś
 - Zrzuty ekranu komunikatów o błędach
 
-**Gdzie znaleźć ICCID:** iPhone: Ustawienia → Komórka → dotknij eSIM → ICCID. Android: Ustawienia → Menedżer SIM → dotknij eSIM → ICCID.
+**Gdzie znaleźć ICCID:** iPhone: Ustawienia → Cellular → dotknij eSIM → ICCID. Android: Ustawienia → SIM Manager → dotknij eSIM → ICCID.
 
-Jeśli rozwiązywanie problemów staje się frustrujące, [eSIM Roami do Kanady](/canada-esim/) zawiera **całodobowe wsparcie ludzkie**, które może przeprowadzić Cię przez aktywację w czasie rzeczywistym.
+Jeśli rozwiązywanie problemów staje się frustrujące, [eSIM Kanada](/canada-esim/) od Roami zawiera **całodobowe wsparcie z prawdziwymi ludźmi**, które przeprowadzi Cię przez aktywację w czasie rzeczywistym.
 
 ### eSIM nie pojawia się po instalacji
 
 Jeśli eSIM nie pojawia się w ustawieniach komórkowych po instalacji:
 
-1. Uruchom ponownie telefon.
-2. Sprawdź Ustawienia → Ogólne → Informacje → poszukaj „Dostępna karta SIM" lub „eSIM".
-3. Jeśli nadal brak, usuń częściowy eSIM i zainstaluj ponownie.
-4. Skontaktuj się ze wsparciem dostawcy z ICCID.
+1. Zrestartuj telefon.
+2. Sprawdź Ustawienia → Ogólne → Informacje → poszukaj „Dostępna karta SIM” lub „eSIM”.
+3. Jeśli nadal brak, usuń wszelkie częściowe eSIM i zainstaluj ponownie.
+4. Skontaktuj się z pomocą techniczną dostawcy z numerem ICCID.
 
-### Wolne dane eSIM do Kanady
+### Wolne dane eSIM Kanada
 
-- Sprawdź, czy osiągnąłeś dzienny FUP (Fair Use Policy).
+- Sprawdź, czy nie osiągnąłeś dziennego FUP (polityki fair use).
 - Ręcznie wybierz innego operatora.
 - Sprawdź, czy VPN nie spowalnia połączenia.
-- Uruchom ponownie telefon.
+- Zrestartuj telefon.
 - Wykonaj test prędkości, aby potwierdzić.
-- Sprawdź, czy nie jesteś w obszarze o niskim zasięgu.
+- Sprawdź, czy nie jesteś w obszarze o słabym zasięgu.
 
-**FUP:** Wiele „nielimitowanych" planów ogranicza prędkość po 1–3GB dziennie. Sprawdź Fair Use Policy swojego dostawcy.
+**FUP:** Wiele „nielimitowanych” pakietów ogranicza prędkość po 1–3GB dziennie. Sprawdź politykę fair use swojego dostawcy.
 
 ### eSIM działa w mieście, nie w parkach
 
-**Przyczyna:** Wybrałeś eSIM tylko z Rogers, a jesteś w obszarze Bell/Telus.
+**Przyczyna:** Wybrałeś eSIM tylko-Rogers, a jesteś w obszarze Bell/Telus.
 
-**Poprawka:** Przełącz się na eSIM Bell/Telus. Zobacz nasz [przewodnik po zasięgu sieci w Kanadzie](/blog/canada-esim-coverage-guide/).
+**Rozwiązanie:** Przełącz się na eSIM Bell/Telus. Zobacz nasz [przewodnik po zasięgu sieci w Kanadzie](/blog/canada-esim-coverage-guide/).
 
-### Awaryjna poprawka eSIM do Kanady
+### Awaryjne rozwiązanie dla eSIM Kanada
 
-Jeśli wypróbowałeś wszystko i nadal nie masz danych:
+Jeśli wypróbowałeś wszystko i wciąż nie masz danych:
 
-1. **Znajdź Wi-Fi** (hotel, kawiarnia, lotnisko) i skontaktuj się ze wsparciem dostawcy.
-2. **Użyj planu zapasowego:** Jeśli masz fizyczną kartę SIM z domu, tymczasowo włącz roaming danych, aby uzyskać dostęp do internetu i skontaktować się ze wsparciem.
-3. **Kup lokalną fizyczną kartę SIM** w sklepie convenience lub sklepie operatora w ostateczności.
-4. **Użyj map offline** i wcześniej pobranych treści, aby kontynuować podróż.
+1. **Znajdź Wi-Fi** (hotel, kawiarnia, lotnisko) i skontaktuj się z pomocą techniczną swojego dostawcy.
+2. **Użyj planu zapasowego:** Jeśli masz fizyczną kartę SIM z domu, tymczasowo włącz roaming danych, aby wejść online i skontaktować się z pomocą.
+3. **Kup lokalną fizyczną kartę SIM** w sklepie z przekąskami lub sklepie operatora jako ostateczność.
+4. **Używaj map offline** i wcześniej pobranych treści, aby kontynuować podróż.
 
-Nie panikuj. Większość problemów z eSIM rozwiązuje się przez ręczny wybór sieci lub restart.
+Nie panikuj. Większość problemów z eSIM rozwiązuje ręczny wybór sieci lub restart.
 
 ## Najlepsze praktyki po konfiguracji eSIM
 
-Gdy Twój eSIM do Kanady jest aktywny, kilka nawyków utrzyma Cię w kontakcie i pomoże uniknąć niepotrzebnych opłat.
+Gdy Twoja eSIM Kanada jest aktywna, kilka nawyków utrzyma Cię w kontakcie i pomoże uniknąć niepotrzebnych opłat.
 
 ### Zainstaluj eSIM przed wyjazdem
 
-Domowe Wi-Fi jest bardziej stabilne. Będziesz mieć dane natychmiast po przylocie. Nie czekaj do lotniska.
+Domowe Wi-Fi jest stabilniejsze. Będziesz mieć dane natychmiast po wylądowaniu. Nie czekaj do lotniska.
 
 ### Zarządzaj wieloma eSIM
 
-- Nazwij każdy eSIM wyraźnie (np. „Kanada Podróż", „Domowa SIM").
-- Wyłącz nieużywane eSIM zamiast je usuwać.
-- Usuń tylko wtedy, gdy jesteś pewien, że nie użyjesz ponownie.
-- Zanotuj, który eSIM jest do którego kraju.
+- Jasno nazywaj każdą eSIM (np. „Kanada — podróż”, „Krajowa SIM”).
+- Wyłączaj nieużywane eSIM zamiast je usuwać.
+- Usuwaj tylko, gdy masz pewność, że nie użyjesz ponownie.
+- Notuj, która eSIM służy do którego kraju.
 
-### Doładuj lub przedłuż swój eSIM
+### Doładuj lub przedłuż swoją eSIM
 
-Większość dostawców pozwala dodać dane lub przedłużyć ważność w ich aplikacji lub na stronie internetowej. Doładuj przed wyczerpaniem, aby uniknąć przerwy.
+Większość dostawców pozwala dodać dane lub przedłużyć ważność w aplikacji lub na stronie. Doładuj, zanim się wyczerpią, aby uniknąć przerwy.
 
 **Jak doładować:**
 - Otwórz aplikację dostawcy.
-- Wybierz swój eSIM.
+- Wybierz swoją eSIM.
 - Wybierz kwotę doładowania.
 - Zapłać.
 - Dane są dodawane automatycznie.
@@ -590,87 +565,87 @@ Większość dostawców pozwala dodać dane lub przedłużyć ważność w ich a
 - Usuń, jeśli nie jest już potrzebny.
 - Usuniętych eSIM nie można przywrócić.
 
-### Transfer eSIM na nowy telefon
+### Przenieś eSIM na nowy telefon
 
-Jeśli zmieniasz telefon, może być konieczne skontaktowanie się z dostawcą w celu przeniesienia eSIM. Niektórzy dostawcy obsługują samodzielny transfer w swojej aplikacji. Sprawdź przed zakupem.
+Jeśli zmieniasz telefon, może być konieczny kontakt z dostawcą, aby przenieść eSIM. Niektórzy dostawcy obsługują samodzielne przenoszenie w aplikacji. Sprawdź przed zakupem.
 
-**Transfer iPhone:** Niektórzy operatorzy obsługują transfer eSIM przez Bluetooth. Transfer Android różni się w zależności od producenta.
+**Przenoszenie na iPhone:** Niektórzy operatorzy obsługują przenoszenie eSIM przez Bluetooth. Przenoszenie na Androidzie różni się według producenta.
 
 ### Bezpieczeństwo kodu QR eSIM
 
-- Nie udostępniaj publicznie swojego kodu QR.
-- Jeśli ktoś zeskanuje go przed Tobą, może aktywować Twój plan.
+- Nie udostępniaj swojego kodu QR publicznie.
+- Jeśli ktoś zeskanuje go przed Tobą, może aktywować Twój pakiet.
 - Przechowuj kod QR bezpiecznie.
 - Usuń e-maile z kodem QR po instalacji.
 
-W przypadku road tripów zobacz nasz [przewodnik po eSIM na road trip w Kanadzie](/blog/best-esim-canada-road-trip-guide/).
+Wielodniowa trasa samochodowa? [Przewodnik po eSIM na road trip po Kanadzie](/blog/best-esim-canada-road-trip-guide/) rozkłada dane według autostrad.
 
-## FAQ dotyczące eSIM do Kanady
+## FAQ: eSIM Kanada
 
 ### Czy mogę zainstalować eSIM przed rozpoczęciem podróży?
 
-**Tak.** Instalacja pobiera profil na Twój telefon, ale nie łączy się ani nie uruchamia zegara ważności. Możesz zainstalować dni lub tygodnie przed wyjazdem. Plan aktywuje się, gdy po raz pierwszy połączysz się z kanadyjską siecią. Zobacz sekcję instalacja vs. aktywacja eSIM powyżej.
+**Tak.** Instalacja pobiera profil na Twój telefon, ale nie łączy się i nie uruchamia zegara ważności. Możesz zainstalować na dni lub tygodnie przed wyjazdem. Pakiet aktywuje się, gdy po raz pierwszy połączysz się z kanadyjską siecią. Zobacz sekcję instalacja a aktywacja eSIM powyżej.
 
 ### Czy instalacja eSIM wymaga połączenia internetowego?
 
-**Tak.** Potrzebujesz Wi-Fi, aby pobrać profil eSIM. Zainstaluj w domu na stabilnym Wi-Fi przed wyjazdem. Wi-Fi na lotnisku jest często zawodne. Zobacz sekcję przygotowania powyżej.
+**Tak.** Potrzebujesz Wi-Fi, aby pobrać profil eSIM. Zainstaluj w domu na stabilnym Wi-Fi przed wyjazdem. Wi-Fi na lotniskach jest często zawodne. Zobacz sekcję przygotowania powyżej.
 
-### Jak długo trwa aktywacja po przylocie?
+### Ile trwa aktywacja po wylądowaniu?
 
-Zwykle **1–5 minut** po połączeniu telefonu z kanadyjską siecią. Jeśli trwa dłużej, spróbuj ręcznego wyboru sieci w sekcji rozwiązywania problemów. Większość opóźnień rozwiązuje się przez restart lub ręczny wybór operatora.
+Zwykle **1–5 minut** po połączeniu telefonu z kanadyjską siecią. Jeśli trwa dłużej, spróbuj ręcznego wyboru sieci z sekcji rozwiązywania problemów. Większość opóźnień rozwiązuje restart lub ręczny wybór operatora.
 
-### Czy mogę zachować oryginalny numer telefonu podczas korzystania z eSIM do Kanady?
+### Czy mogę zachować swój oryginalny numer telefonu podczas używania eSIM Kanada?
 
-**Tak.** eSIM współistnieje z Twoją fizyczną kartą SIM. Ustaw go jako domyślną linię danych i zachowaj oryginalny numer jako domyślną linię głosową. Zobacz sekcję ustawień dual-SIM powyżej.
+**Tak.** eSIM współistnieje z Twoją fizyczną kartą SIM. Ustaw ją jako domyślną linię danych, a oryginalny numer zachowaj jako domyślną linię głosową. Zobacz sekcję ustawień dual-SIM powyżej.
 
-### Co powinienem zrobić, jeśli mój eSIM przestanie działać w trakcie podróży?
+### Co zrobić, jeśli moja eSIM przestanie działać w trakcie podróży?
 
-Rozwiąż problemy w tej kolejności:
+Rozwiązuj w tej kolejności:
 1. Przełącz tryb samolotowy na 30 sekund.
-2. Ręcznie wybierz sieć (Ustawienia → Komórka → Wybór sieci).
-3. Uruchom ponownie telefon.
-4. Sprawdź, czy roaming danych jest WŁ. dla eSIM.
-5. Sprawdź status planu w aplikacji dostawcy.
-6. Skontaktuj się ze wsparciem dostawcy z numerem zamówienia i ICCID.
+2. Ręcznie wybierz sieć (Ustawienia → Cellular → Wybór sieci).
+3. Zrestartuj telefon.
+4. Sprawdź, czy Roaming danych jest WŁĄCZONY dla eSIM.
+5. Sprawdź status pakietu w aplikacji dostawcy.
+6. Skontaktuj się z pomocą techniczną dostawcy z numerem zamówienia i ICCID.
 
-### Czy mogę ponownie zainstalować eSIM, jeśli przypadkowo go usunę?
+### Czy mogę zainstalować eSIM ponownie, jeśli przypadkowo ją usunę?
 
-**Zwykle nie.** Po usunięciu większość profili eSIM nie może być przywrócona. Musisz skontaktować się ze wsparciem dostawcy lub kupić nowy plan. Zawsze potwierdź przed usunięciem. Zobacz wskazówki dotyczące zarządzania eSIM powyżej.
+**Zwykle nie.** Po usunięciu większości profili eSIM nie można przywrócić. Musisz skontaktować się z pomocą techniczną dostawcy lub kupić nowy pakiet. Zawsze potwierdzaj przed usunięciem. Zobacz wskazówki zarządzania eSIM powyżej.
 
 ### Czy mogę używać eSIM i fizycznej karty SIM jednocześnie?
 
-**Tak.** Większość nowoczesnych telefonów obsługuje dual SIM (jedna fizyczna karta SIM plus jeden profil wbudowany lub dwa profile wbudowane). Możesz zachować domową kartę SIM do połączeń głosowych i używać eSIM do Kanady do danych. Zobacz sekcję ustawień dual-SIM powyżej.
+**Tak.** Większość nowoczesnych telefonów obsługuje dual SIM (jedna fizyczna karta SIM plus jeden wbudowany profil albo dwa wbudowane profile). Możesz zachować krajową kartę SIM do rozmów i używać eSIM Kanada do danych. Zobacz sekcję ustawień dual-SIM powyżej.
 
 ### Czy mogę udostępniać dane eSIM laptopowi lub tabletowi?
 
-**Tak, jeśli Twój dostawca obsługuje hotspot.** Większość podróżnych eSIM obsługuje hotspot. Niektóre plany go ograniczają lub blokują. Sprawdź politykę hotspotu przed zakupem. Zobacz wskazówki dotyczące oszczędzania danych powyżej.
+**Tak, jeśli Twój dostawca obsługuje hotspot.** Większość podróżniczych eSIM obsługuje hotspot. Niektóre pakiety go ograniczają lub blokują. Sprawdź politykę hotspotu przed zakupem. Zobacz wskazówki oszczędzania danych powyżej.
 
-## Podsumowanie i lista kontrolna eSIM do Kanady
+## Podsumowanie i lista kontrolna eSIM Kanada
 
-Uzyskanie eSIM do Kanady jest proste, jeśli przygotujesz się przed wyjazdem.
+Zdobycie eSIM Kanada jest proste, jeśli przygotujesz się przed wyjazdem.
 
 1. **Sprawdź zgodność** — `*#06#` dla EID.
-2. **Wybierz plan** — dopasuj dane do długości podróży.
+2. **Wybierz pakiet** — dopasuj dane do długości wyjazdu.
 3. **Kup i zainstaluj** — na Wi-Fi w domu.
 4. **Aktywuj w Kanadzie** — włącz roaming danych, ustaw domyślną linię danych.
-5. **Ciesz się łącznością** — bez kolejek, bez wymiany kart.
+5. **Ciesz się łącznością** — bez kolejki, bez wymiany kart.
 
 **Ostateczna lista kontrolna:**
 - ✅ Zainstaluj przed wyjazdem.
 - ✅ Pobierz mapy offline.
-- ✅ Ustaw dual SIM poprawnie.
-- ✅ Zapisz zamówienie i kontakt wsparcia.
+- ✅ Poprawnie ustaw dual SIM.
+- ✅ Zapisz zamówienie i kontakt do pomocy technicznej.
 - ✅ Monitoruj zużycie danych.
-- ✅ Przetestuj połączenie po przylocie.
+- ✅ Przetestuj połączenie po wylądowaniu.
 - ✅ Zapisz ICCID i numer zamówienia.
-- ✅ Przechowuj kod QR bezpiecznie.
-- ✅ Sprawdź Fair Use Policy dla planów nielimitowanych.
-- ✅ Wybierz Bell/Telus dla Gór Skalistych, Rogers dla Trans-Canada.
+- ✅ Trzymaj kod QR w bezpiecznym miejscu.
+- ✅ Sprawdź politykę fair use dla pakietów nielimitowanych.
+- ✅ Wybierz Bell/Telus na Skaliste Góry, Rogers na Trans-Canada.
 
-**Przed zakupem:** Jeśli nie jesteś pewien, który dostawca pasuje do Twojej podróży, zacznij od [darmowego eSIM trial](/free-esim/) lub [planu eSIM Roami do Kanady](/canada-esim/) od **$1.99**, aby przetestować zasięg. Nowi użytkownicy otrzymują **20% zniżki** z kodem `web20`, a **całodobowe wsparcie ludzkie** Roami pomaga w każdym problemie z konfiguracją.
+**Przed zakupem:** nie masz pewności, który dostawca pasuje do Twojej podróży? [Bezpłatna wersja próbna eSIM](/free-esim/) pozwala przeprowadzić całą tę konfigurację — instalację, aktywację, pierwsze połączenie — na rzeczywistym zasięgu, zanim zapłacisz za pełny pakiet.
 
 **Uwaga o danych:** Kroki konfiguracji i ceny zostały zweryfikowane we wrześniu 2026 i mogą się zmienić. Potwierdź aktualne ceny przed zakupem.
 
-Życzymy udanej podróży po Kanadzie z pełnym sygnałem! 📶🍁
+Życzymy Ci udanej podróży po Kanadzie z pełnym sygnałem! 📶🍁
 
 **Kontakt:** Jeśli zauważysz błąd, skontaktuj się z nami. Poprawiamy w ciągu 48 godzin.

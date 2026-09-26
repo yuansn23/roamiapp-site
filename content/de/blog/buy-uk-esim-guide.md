@@ -1,366 +1,436 @@
 ---
-title: "UK eSIM: Beste Tarife und Abdeckung ohne Roaming-Falle"
-description: "UK eSIM: automatischer Wechsel zwischen EE, Vodafone, O2 und Three. Sofortige Aktivierung, keine SIM-Hassle am Flughafen."
+title: "UK eSIM: Beste Tarife und Abdeckung - Keine EU-Roaming-Fallen"
+description: "Reisen Sie in die UK? Die Roami eSIM wechselt automatisch EE, Vodafone, O2 und Three - sofortige Aktivierung, kein Flughafen-SIM-Ärger. Kostenloser Test."
 keywords: ["roami uk", "uk esim brexit roaming", "ee vs vodafone vs o2 vs three"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami ist spezialisiert auf eSIM-Technologie und bietet globale Konnektivitätslösungen. Dieser Leitfaden basiert auf unabhängigen Netzanbieter-Abdeckungsdaten und echtem Reisenden-Feedback für Großbritannien."
+authorBio: "Roami bietet zuverlässige eSIM-Tarife an, bedient über 1 Million Reisende jährlich und unterstützt den automatischen Wechsel zum lokalen Netz, damit Reisende weltweit vernetzt bleiben."
 image: "/img/esim/uk-esim-guide-2026.jpg"
 categories: ["UK", "eSIM", "Reisen"]
-tags: ["UK eSIM", "Brexit Roaming", "EE vs Vodafone", "Heathrow SIM Falle", "Multi-Carrier-Wechsel"]
+tags: ["UK eSIM", "Brexit-Roaming", "EE vs Vodafone", "Heathrow-SIM-Falle", "netzübergreifendes Umschalten"]
 readingTime: 16
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "UK-eSIM 2026: Intelligentes 5G über EE, Vodafone, O2 & Three – Brexit-Roaming vermeiden"
+h1title: "UK eSIM 2026: Smartes 5G über EE, Vodafone, O2 & Three – Brexit-Roaming vermeiden"
 
-# Titel der Seitenleisten-Module
+# Sidebar module titles
 productsTitle: "Beliebte eSIM-Tarife"
-hotPostsTitle: "Heiße Artikel"
+hotPostsTitle: "Beliebte Artikel"
 recentPostsTitle: "Neueste Beiträge"
 
-# Rechte Seitenleiste – Produkte (6 Einträge)
+# Right sidebar products (6 items)
 products:
   - name: "USA eSIM"
     flag: "/img/flags/us.svg"
-    price: "Ab 1,99 $"
+    price: "Ab $1.99"
     is_highlight: false
     slug: "united-states"
   - name: "Japan eSIM"
     flag: "/img/flags/jp.svg"
-    price: "Ab 1,99 $"
+    price: "Ab $1.99"
     is_highlight: false
     slug: "japan"
   - name: "Europa eSIM"
     flag: "/img/flags/eu.svg"
-    price: "Ab 1,99 $"
+    price: "Ab $1.99"
     is_highlight: true
     slug: "europe"
   - name: "Südkorea eSIM"
     flag: "/img/flags/kr.svg"
-    price: "Ab 1,99 $"
+    price: "Ab $1.99"
     is_highlight: false
     slug: "south-korea"
   - name: "Thailand eSIM"
     flag: "/img/flags/th.svg"
-    price: "Ab 1,99 $"
+    price: "Ab $1.99"
     is_highlight: false
     slug: "thailand"
   - name: "Hongkong eSIM"
     flag: "/img/flags/hk.svg"
-    price: "Ab 1,99 $"
+    price: "Ab $1.99"
     is_highlight: false
     slug: "hong-kong"
 
-# Neueste Beiträge (Seitenleiste)
+# Recent posts (sidebar)
 recentPosts:
-  - title: "eSIM-Detaillierte Fehlerbehebungsanleitung (16 echte Fälle)"
+  - title: "ESIM-Tiefergehende Fehlerbehebung (16 echte Fälle)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
-  - title: "2026 Plattformübergreifende eSIM-Übertragung"
+  - title: "2026 Plattformübergreifender eSIM-Transfer"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Duale eSIM funktioniert nicht? 12 Lösungen für iPhone"
+  - title: "Dual eSIM funktioniert nicht? 12 Lösungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
+  - title: "iPhone SE eSIM-Kompatibilitätshandbuch"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM – Vollständige Einrichtungsanleitung"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimativer Leitfaden: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 
-## UK-eSIM 2026: Der vollständige Leitfaden für Konnektivität nach dem Brexit
-
 > **Die wichtigsten Erkenntnisse**
-> - **Der Brexit hat alles an der UK-eSIM verändert** – seit 2021 bieten britische Mobilfunknetze kein kostenloses EU-Roaming mehr an. Wenn Sie eine Nur-UK-eSIM kaufen und dann mit dem Eurostar nach Paris fahren, wird Ihre Datenverbindung sofort nach Verlassen des Tunnels unterbrochen. Für eine Reiseroute, die Großbritannien und Europa umfasst, müssen Sie eine **Europa-Regional-eSIM** kaufen.
-> - **EE hat die breiteste UK-Abdeckung, während Vodafone auf Teilen der London Underground besseres Signal bietet** – EE hat die breiteste 4G/5G-Abdeckung (Schottisches Hochland, Lake District, ländliches Wales), aber Vodafone hat exklusives Signal auf Teilen der Jubilee Line und einigen tiefen U-Bahn-Stationen.
-> - **Heathrow-Flughafen-SIMs sind die teuerste Option für UK-Reisende** – £20-30 ($25-38) für 5 GB, das sind 400-600 % mehr als bei einem Online-Vorkauf. Vermeiden Sie diese **Heathrow-SIM-Falle**, indem Sie eine **Reise-eSIM UK** online kaufen.
-> - **Die Roami UK-eSIM 7 Tage 5 GB kostet 5,59 $ nach Rabattcode web20**, mit intelligentem Wechsel zwischen EE, Vodafone, O2 und Three. Verwenden Sie den Rabattcode **web20** für 20 % Rabatt. Kostenlose Testversion verfügbar.
+> - **Der Brexit hat alles über die UK-eSIM verändert** — seit 2021 enthalten die UK-Mobilfunknetze kein kostenloses EU-Roaming mehr. Wenn Sie eine typische rein britische eSIM kaufen und dann mit dem Eurostar nach Paris fahren, stoppt Ihre Datenverbindung, sobald Sie den Tunnel verlassen. **Roamis UK-eSIM ist die Ausnahme — sie beinhaltet EU-Roaming**, sodass derselbe Tarif auf dem Kontinent weiter funktioniert. Für andere Anbieter erfordert eine UK-Plus-Europa-Reise eine **europäische regionale eSIM**.
+> - **EE hat die breiteste UK-Abdeckung, während Vodafone besseres Signal in Teilen der Londoner U-Bahn bietet** — EE hat die breiteste 4G/5G-Abdeckung (Schottische Highlands, Lake District, ländliches Wales), aber Vodafone hat exklusives Signal in Teilen der Jubilee Line und einiger tiefer gelegener Tube-Stationen.
+> - **Heathrow-Flughafen-SIMs sind die teuerste Option für UK-Reisende** — £12–18 ($15–23) für 5 GB, 100–200 % mehr als der Online-Vorabkauf. Vermeiden Sie die Heathrow-SIM-Falle, indem Sie eine Reise-eSIM online vor dem Flug kaufen.
+> - **Roami UK eSIM 5 GB ist $4.79 nach Rabattcode web20** (3-Tage-Tarif), mit intelligentem Wechsel über EE, Vodafone und O2. Nutzen Sie den Rabattcode **web20** für 20 % Rabatt. Kostenloser Test verfügbar.
 
-Wenn Sie für Ihre Reise eine **UK-eSIM** suchen, ist es unerlässlich, die Post-Brexit-Roaming-Regeln zu verstehen. Eine vollständige Einführung in die eSIM-Technologie finden Sie in unserem [Was ist eSIM?-Leitfaden](/faq/what-is-esim/). Hilfe zur Aktivierung finden Sie in unserem [eSIM-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/).
+Wenn Sie eine UK-eSIM für Ihre Reise abwägen, sind die Roaming-Regeln nach dem Brexit das Erste, was Sie verstehen müssen. Für das größere Bild — Datalogistik, Netze, Gerätesupport und grenzüberschreitende Planung — beginnen Sie mit unserem [UK-eSIM-Komplettführer](/blog/uk-esim-complete-guide/).
 
-Die [GSMA](https://www.gsma.com/esim/) definiert die technischen Standards, die **Reise-eSIM-UK**-Tarife über verschiedene Netze hinweg ermöglichen. Die Seite [Apple Support – eSIM auf dem iPhone](https://support.apple.com/en-us/118670) bestätigt die eSIM-Kompatibilität für alle iPhone-Modelle ab XS/XR, einschließlich aller aktuellen iPhone-15-, 16- und 17-Serien.
-
-
-## Der Brexit hat die UK-eSIM verändert – Was Reisende wissen müssen
-
-Am 1. Januar 2021 verließ die UK-eSIM formell die Europäische Union. Für die meisten Reisenden schien die praktische Auswirkung weit entfernt – bis Sie den Eurostar am London St Pancras besteigen, unter dem Ärmelkanal hindurchfahren, in Calais ankommen und auf Ihrem Telefonbildschirm „Kein Dienst“ angezeigt wird.
-
-Das ist die neue Realität der britischen Mobilfunknetze nach dem Brexit: **UK-eSIMs und physische SIMs können nicht mehr kostenlos in EU-Ländern roamen.** Vor dem Brexit funktionierte eine UK-SIM in 27 EU-Ländern nahtlos ohne zusätzliche Kosten. Im Jahr 2026, wenn Sie eine **Nur-UK-eSIM** kaufen – sei es von EE, Vodafone oder einem beliebigen Reise-eSIM-Anbieter – und den Kanal nach Frankreich, Belgien oder in die Niederlande überqueren, werden Sie mit täglichen Roaming-Zuschlägen von £2-5 konfrontiert oder, wahrscheinlicher, verlieren komplett Ihre Datenverbindung. Das ist die **UK-eSIM-Brexit-Roaming**-Falle, in die viele Reisende tappen.
-
-Dies schafft eine einzigartige Situation: **Die Wahl der eSIM muss dem geografischen Reiseverlauf entsprechen, nicht den persönlichen Vorlieben.** Wenn Sie Großbritannien und Europa besuchen, benötigen Sie einen **UK-eSIM-Europa**-Regionaltarif – keinen Nur-UK-Tarif.
-
-Ofcom, die britische Regulierungsbehörde für Kommunikation, veröffentlicht detaillierte [Mobilfunkabdeckungsberichte](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker), die die Abdeckungsunterschiede zwischen den Netzen bestätigen – eine unverzichtbare Ressource für die Reiseplanung.
+Die [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) legt die technischen Standards fest, die es einer Reise-eSIM ermöglichen, über verschiedene Netze zu funktionieren. Die [Apple-Support-Seite – eSIM auf iPhone](https://support.apple.com/en-us/118669) bestätigt die eSIM-Kompatibilität auf allen iPhone-Modellen ab XS/XR, einschließlich aller aktuellen iPhone-15-, 16- und 17-Serien.
 
 
-## EE vs. Vodafone vs. O2 vs. Three – Welches UK-Netz ist am besten?
+## Der Brexit hat die UK-eSIM verändert – was Reisende wissen müssen
 
-Der britische Mobilfunkmarkt wird von vier Betreibern dominiert – EE, Vodafone, O2 und Three. Kein einzelnes Netzwerk deckt perfekt die typische Route eines jeden Reisenden ab. Dieser **EE vs. Vodafone vs. O2 vs. Three**-Vergleich hilft Ihnen bei der Wahl der richtigen **Reise-eSIM UK** für Ihre Reiseroute.
+Seit dem 1. Januar 2021 steht das UK außerhalb der EU-Regel „Roam Like at Home". Für die meisten Reisenden schien die praktische Auswirkung fern — bis Sie am Londoner St Pancras in den Eurostar steigen, durch den Kanaltunnel fahren, in Calais ankommen und Ihr Telefon „Kein Netz" anzeigt.
 
-### EE (BT Group): Breiteste Abdeckung, am besten für ländliche Gebiete
+Das ist die neue Realität der britischen Mobilfunknetze nach dem Brexit: **UK-eSIMs und physische SIMs roamen nicht mehr kostenlos in EU-Ländern.** Vor dem Brexit funktionierte eine UK-SIM nahtlos in 27 EU-Ländern ohne Zusatzkosten. Im Jahr 2026, wenn Sie eine typische **rein britische eSIM** kaufen – sei es ein lokales EE- oder Vodafone-Bundle oder eine Reise-eSIM ohne EU-Abdeckung – werden Sie, sobald Sie den Kanal nach Frankreich, Belgien oder den Niederlanden überqueren, tägliche Roaming-Aufschläge von £2–5 oder, wahrscheinlicher, die Datenverbindung vollständig verlieren. Das ist die Falle, die die meisten Reisenden fängt, die vor einer mehrländischen Reise einen rein britischen Tarif kaufen.
 
-EE ist das größte Mobilfunknetz im Vereinigten Königreich und vollständig im Besitz von BT. Im Jahr 2026 deckt das 5G-Netz von EE mehr als 85 % der geografischen Fläche Großbritanniens ab – die breiteste Abdeckung aller Betreiber. Für Reisende bietet EE:
+Das schafft eine einzigartige Situation: **die Wahl der eSIM muss zur geografischen Route passen, nicht zu persönlichen Vorlieben.** Wenn Sie das UK und Europa besuchen, zwingen die meisten Anbieter Sie in einen regionalen **UK-Plus-Europa**-Tarif statt in einen rein britischen. Die eine Ausnahme, die wir verifiziert haben: Roamis UK-eSIM beinhaltet EU-Roaming, sodass ein einziger UK-Tarif eine London-plus-Paris-Reise abdecken kann.
 
-**Stadtleistung:** In Großstädten wie London, Manchester, Birmingham und Glasgow liegen die durchschnittlichen 5G-Download-Geschwindigkeiten von EE bei 120-150 Mbit/s, mit dem breitesten 4G-Fallback-Netz. In den Stadtzentren sind die Unterschiede zwischen EE und den anderen drei Netzen gering.
-
-**Vorteil bei der ländlichen Abdeckung:** Hier sticht EE hervor. Für Roadtrips im Schottischen Hochland, Wanderungen im Lake District oder die Erkundung des Snowdonia-Nationalparks in Wales bietet EE das durchgehendste 4G-Signal in diesen Gebieten. Die anderen drei – insbesondere Three und O2 – haben auf abgelegenen Straßen wie der A838 und A894 im Hochland erhebliche Signallücken.
-
-**London Underground:** Auf tiefen U-Bahn-Linien (Central, Piccadilly, Northern) hat im Jahr 2026 kein britischer Betreiber Plattformsignal. Einige Stationen der Jubilee Line bieten WLAN, das jedoch getrennt von der Mobilfunknetzabdeckung ist.
-
-### Vodafone UK: Vorteil bei der London Underground und Roaming über den Kanal – Aber keine Touristen-eSIM!
-
-Die 5G-Geschwindigkeiten von Vodafone in städtischen Gebieten sind mit denen von EE vergleichbar (100-130 Mbit/s), mit zwei spezifischen Vorteilen:
-
-**Exklusive London-Underground-WLAN-Telefonie:** Vodafone ist der einzige Betreiber, der WLAN-Telefonie auf Teilen der London Underground (Jubilee Line von Westminster bis Canning Town) unterstützt. Für tägliche U-Bahn-Pendler oder Sightseer ermöglicht Vodafone Konnektivität unter der Erde – die anderen drei nicht.
-
-**Grenzüberschreitende Roaming-Fähigkeit in Europa:** Das globale Netzwerk von Vodafone ist das stärkste unter den britischen Betreibern. Für Reiserouten, die Großbritannien und mehrere EU-Länder umfassen, bewältigt das Vodafone-Netz in der Regel grenzüberschreitende Übergänge reibungsloser als EE oder O2.
-
-**⚠️ WICHTIGE WARNUNG FÜR TOURISTEN: Vodafone UK bietet KEINE Prepaid-eSIM an.** Im Gegensatz zu Vodafone Deutschland, Italien oder Spanien – die alle Prepaid-eSIM anbieten – **bietet Vodafone UK eSIM nur für Postpaid-Vertragskunden an.** Das bedeutet, Sie benötigen ein britisches Bankkonto, eine britische Adresse, eine Bonitätsprüfung und einen 12-Monats-Vertrag. Wenn Sie als Tourist einen Vodafone-Shop betreten, werden sie Ihnen eine physische SIM verkaufen – keine eSIM. Wenn Sie als Tourist nach **"vodafone esim uk"** oder **"vodafone uk esim"** suchen, suchen Sie nach etwas, das es nicht gibt.
-
-**Was Sie stattdessen tun sollten:** Sie benötigen keinen direkten Vodafone-Vertrag, um deren Netz zu nutzen. Viele **Reise-eSIM-UK**-Anbieter (einschließlich Roami) haben Vereinbarungen mit Vodafone. Ihre Daten werden über deren Masten übertragen, ohne dass Sie jemals direkt mit Vodafone sprechen. Ein Haken: Reise-eSIMs erhalten eine niedrigere Priorität als direkte Vodafone-Kunden. Wenn das Netz überlastet ist (Rushhour, Konzert, Bahnhof), kann Ihre Geschwindigkeit sinken, während ein Vodafone-Vertragskunde volle Geschwindigkeit erhält. Das ist der Kompromiss für keinen Vertrag, keine Bonitätsprüfung.
-
-### O2: Budget-Option für Städtereisen
-
-O2 bietet eine solide Abdeckung in Großstädten – insbesondere London, Edinburgh und Cardiff – sowie großzügige Datenpakete. Die städtischen 5G-Geschwindigkeiten von O2 liegen bei 80-110 Mbit/s. Für Reisende, die die meiste Zeit in Stadtzentren verbringen (z. B. Museumsviertel, historische Viertel), ist O2 eine wettbewerbsfähige Wahl.
-
-**Zusätzlicher Vorteil:** Die O2 Priority-App bietet Vorverkaufszugang zu Veranstaltungen, Restaurantrabatte und kostenlosen Kaffee.
-
-**Einschränkungen der Abdeckung:** O2 liegt bei den vier britischen Netzen auf Platz drei. Im Schottischen Hochland, im ländlichen Wales und in abgelegenen Teilen des Lake District kann das O2-Signal plötzlich ausfallen. Für Roadtrips oder Outdoor-Aktivitäten wird O2 nicht als primäres Netz empfohlen.
-
-### Three UK: Unbegrenzte Daten, aber schwächste ländliche Abdeckung
-
-Der Wettbewerbsvorteil von Three ist der Preis – es bietet wirklich unbegrenzte Datentarife, und seine 5G-Geschwindigkeiten in Städten sind solide (90-120 Mbit/s). Für preisbewusste Reisende, die nur in Großstädten bleiben, bietet Three ein gutes Preis-Leistungs-Verhältnis.
-
-Allerdings hat **Three die schwächste ländliche Abdeckung der vier.** Wenn Sie sich im ländlichen Großbritannien auf das Three-Netz verlassen, werden Sie die meisten Signalausfälle erleben. Für Roadtrips, Wanderungen oder Küstenfahrten ist Three nicht geeignet.
-
-Weitere detaillierte Informationen zu den Anbietern finden Sie auf [EEs offizieller eSIM-Seite](https://ee.co.uk/), [Vodafones UK-Website](https://www.vodafone.co.uk/), [O2s UK-Website](https://www.o2.co.uk/) und [Threes UK-Website](https://www.three.co.uk/).
+Der unabhängige [Opensignal UK Mobile Network Experience Report](https://www.opensignal.com/reports/2026/01/uk/mobile-network-experience) bestätigt, wie sehr sich die Abdeckung zwischen den Netzen unterscheidet – eine wesentliche Ressource für die Reiseplanung.
 
 
-## Heathrow-SIM vs. Online-eSIM – Was spart mehr Geld?
+## EE vs. Vodafone vs. O2 vs. Three: Welches UK-eSIM-Netz ist am besten?
 
-Die folgenden Daten werden in Reiseführern oft weggelassen. Kostenvergleich für eine 7-tägige Reise nach Großbritannien (5 GB Daten) im Jahr 2026:
+Der UK-Mobilfunkmarkt wird von vier Betreibern dominiert – EE, Vodafone, O2 und Three. Dieser direkte Vergleich — EE gegen Vodafone, O2 und Three — zeigt, welches zu Ihrer Route passt; die Tiefenversion mit Abdeckungstabellen, Regionalaufschlüsselungen und betreiberspezifischen Reisetipps finden Sie in unserem [UK-Netz- und MVNO-Leitfaden](/blog/uk-esim-network-mvno-guide/).
 
-| Kaufkanal | Preis für 5 GB/7 Tage | Zeitaufwand | Ausweis nötig? | Sprache | Installation vor Abreise |
-|-----------|-----------------------|-------------|----------------|---------|--------------------------|
-| **Heathrow-SIM-Automat** | £20-30 ($25-38) | 5 Min. | Nein | Englisch | ❌ |
-| **Heathrow-SIM-Schalter** | £20-30 | 15-30 Min. (Schlange) | Manchmal Reisepass | Englisch | ❌ |
-| **EE-/Vodafone-/O2-Filiale** | £10-15 ($12-18) | 30-60 Min. (Anreise+Schlange+Registrierung) | Reisepass nötig | Englisch | ❌ |
-| **eSIM online im Voraus kaufen** | **5,59 $ (nach Rabattcode web20)** | 2 Min. | Nein | Jede Sprache | ✅ |
-| **Heimatanbieter-Roaming** | $70-105 ($10-15/Tag) | 0 | Nein | N/A | N/A |
+- **EE (BT Group):** der ländliche Champion. Etwa 88 % 4G-Festlandabdeckung und die stärkste 5G-Verfügbarkeit aller Betreiber — die breiteste Reichweite insgesamt, mit urbanem 5G im Schnitt 120–150 Mbit/s. Wenn Ihre Reise die Schottischen Highlands, den Lake District oder ländliches Wales einschließt, ist EE das Netz, das Sie wollen.
+- **Vodafone UK:** stark in Städten und unter den ersten Netzen, die beim Londoner U-Bahn-Ausbau live gingen, mit den reibungslosesten grenzüberschreitenden Übergaben für Routen, die in die EU weitergehen. Seine Pay-as-you-go-Plus-Tarife unterstützen nun eSIM ohne Bonitätsprüfung, obwohl eine Reise-eSIM über Vodafones Masten weiterhin der einfachere Weg ist — keine britische Kasse, und Sie installieren vor dem Flug.
+- **O2:** solide Stadt-Abdeckung (80–110 Mbit/s urbanes 5G) mit großzügigen Kontingenten und O2-Priority-Vorteilen. Es rangiert auf Platz drei bei ländlicher Reichweite, behandeln Sie es also als Stadt-Reise-Netz.
+- **Three UK:** der Preisführer mit echten unbegrenzten Datentarifen und solidem urbanem 5G (90–120 Mbit/s) — aber die schwächste ländliche Abdeckung der vier. Richtig für Städtetrips, falsch für Autoreisen.
 
-**Fazit: Der Kauf einer UK-eSIM online im Voraus ist sowohl die günstigste als auch die bequemste Option.** Die Zeit, die Sie mit Anstehen am Flughafen verbringen, reicht aus, um mehrere eSIMs zu installieren. Vermeiden Sie die **Heathrow-SIM-Falle**, indem Sie eine **Reise-eSIM UK** vor Ihrer Abreise online kaufen.
+Welches Netz Sie auch bevorzugen: Wo Sie kaufen, ist wichtiger als das Logo in der Signalanzeige: Die Preislücke zwischen Heathrow und Online unten wird Ihre Gesamtkosten weit mehr schwenken, als EE-gegen-O2 das je könnte.
 
 
-## UK-eSIM vs. physische SIM – Was ist besser für Ihre Reise?
+## Heathrow-SIM vs. Online-eSIM – was spart Geld?
 
-Wenn Ihr Telefon beides unterstützt, hier ein Vergleich zwischen einer **Reise-eSIM UK** und einer physischen SIM für Reisen nach Großbritannien:
+Die folgenden Daten werden in Reiseführern oft weggelassen. Kostenvergleich für eine 7-tägige UK-Reise (5 GB Daten) im Jahr 2026:
 
-| Faktor | UK-eSIM (Reiseanbieter) | UK-physische SIM (Lokaler Anbieter) |
-|--------|-------------------------|-------------------------------------|
-| **Aktivierungszeit** | 2 Minuten (QR-Code scannen) | 10-30 Minuten (Geschäft finden, anstehen, registrieren) |
-| **Kosten (7 Tage, 5 GB)** | $5-10 | £15-25 ($19-32) |
-| **Vor Abreise kaufen?** | ✅ Ja | ❌ Nein – muss in UK gekauft werden |
-| **UK-Rufnummer** | ❌ Nur Daten (in der Regel) | ✅ Ja (für lokale Dienste) |
-| **Ausweis erforderlich?** | ❌ Nein | ✅ Ja (Reisepass oft erforderlich) |
-| **Hotspot erlaubt?** | Je nach Anbieter | Normalerweise ja |
-| **Mehrere Länder** | ✅ Ja (UK + EU-Tarife) | ❌ Nur UK (EU-Roaming kostet extra) |
+| Kaufkanal | 5GB/7-Tage-Preis | Benötigte Zeit | Ausweis nötig? | Sprache | Vor Abreise installieren |
+|-----------------|----------------|---------------|------------|----------|--------------------------|
+| **Heathrow-SIM-Automat** | £20–30 ($25–38) | 5 Min | Nein | Englisch | ❌ |
+| **Heathrow-SIM-Schalter** | £20–30 | 15–30 Min (Schlange) | Manchmal Reisepass | Englisch | ❌ |
+| **EE/Vodafone/O2-Store** | £10–15 ($12–18) | 30–60 Min (Anfahrt+Schlange+Registrierung) | Reisepass nötig | Englisch | ❌ |
+| **eSIM online im Voraus kaufen** | **$4.79 (nach Rabatt)** | 2 Min | Nein | Beliebige Sprache | ✅ |
+| **Heim-Carrier-Roaming** | $70–105 ($10–15/Tag) | 0 | Nein | N/A | N/A |
 
-**Das Fazit:** Für Kurzzeitbesucher (1-30 Tage) ist eine **UK-eSIM** fast immer günstiger, schneller und bequemer. Für Langzeitbewohner (3+ Monate) bietet eine lokale physische SIM mit UK-Rufnummer einen besseren Wert für Anrufe und SMS-Verifizierung – aber Sie müssen persönlich ein Geschäft aufsuchen.
-
-Weitere Informationen zur Wahl zwischen eSIM und physischer SIM für Reisen finden Sie in unserem [eSIM vs. physische SIM-Leitfaden](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
+**Fazit: Der Kauf einer UK-eSIM online im Voraus ist sowohl die günstigste als auch bequemste Option.** Die Zeit, die Sie am Flughafen in Schlangen stehen, reicht aus, um mehrere eSIMs zu installieren. Vermeiden Sie die Heathrow-SIM-Falle, indem Sie eine Reise-eSIM online vor der Abreise kaufen.
 
 
-## Roami UK-eSIM vs. Airalo vs. Holafly – Preis- & Abdeckungsvergleich
+## Wo Sie eine UK-eSIM kaufen – jeder Kanal im Vergleich
 
-Nachfolgend finden Sie die offiziellen **UK-eSIM**-Preise von Roami für Juni 2026. Alle Roami-Preise können mit dem Rabattcode **web20** um weitere 20 % reduziert werden. Äquivalente UK-Tarife von Airalo und Holafly (basierend auf öffentlichen Daten) sind zum direkten Vergleich aufgeführt.
+Wo Sie eine UK-eSIM kaufen, verändert den Preis weit mehr als das gewählte Netz. Dieselben 5 GB Daten kosten über einen Kanal unter $5 und über einen anderen £20–30, und die teuren Kanäle sind die, die Sie zuerst finden, wenn Sie vom Flughafen aus suchen.
 
-### 7-Tage-Tarife (Standard-Reisedauer)
+| Kanal | Typischer Preis (5 GB / 7 Tage) | Sofortlieferung? | Benötigt UK-Ausweis oder Adresse? | Hinweise |
+|---|---|---|---|---|
+| **Reise-eSIM-Anbieter-Website** | **$4.79–10** | Ja — QR per E-Mail | Nein | Günstigst und stornierbar; vor dem Flug installieren |
+| **Eigene Website des Netzes (EE, Vodafone, O2, Three)** | £10–25 | Meist — QR per E-Mail | Nein für Prepaid | Am besten, wenn Sie eine UK-Nummer brauchen; siehe unseren [UK-Carrier-eSIM-Leitfaden](/blog/uk-carrier-esim-guide/) |
+| **Flughafenschalter oder -automat (Heathrow, Gatwick)** | £20–30 ($25–38) | Ja, vor Ort | Manchmal Reisepass | Die Heathrow-SIM-Falle — 100–200 % Aufschlag |
+| **Netz-High-Street-Store** | £10–15 + Wartezeit | Vor Ort | Reisepass meist nötig | 30–60 Min von Tür zu Tür |
+| **OTA- und Buchungsplattformen (Klook, KKday, Trip.com)** | $8–25 | Variiert | Nein | Bequem, wenn Sie dort schon Touren buchen; Klook UK-eSIM-Bewertungen sind bei ländlicher Abdeckung gemischt |
+| **Bank- und Super-App-eSIMs (Revolut)** | Ab ~$3–10 | In der App | Nein, aber Konto nötig | Revolut-eSIM-UK-Preis liegt am unteren Ende; bündeln, wenn Sie dort ohnehin bankgeschäftlich tätig sind |
+| **Vergleichsportale (Uswitch)** | — | Nein | Nein | Nützlich für lokale Vertragspreise, nicht für Kurzbesucher-Tarife |
+| **Geschenkkarten- und Krypto-Marktplätze (Bitrefill)** | Variiert | Ja | Nein | Zahlen ohne Karte; Nische, aber legitim |
+| **eSIM-Marktplätze (Mobimatter)** | Variiert nach Wiederverkäufer | Ja | Nein | Verkauft mehrere Anbieter; Netz vor Kauf prüfen |
+| **E-Commerce-Marktplätze (Shopee und lokale Wiederverkäufer)** | Variiert | Variiert | Variiert | Qualitätskontrolle ist der Schwachpunkt — verifizieren Sie, dass der Anbieter ein autorisierter Verkäufer ist |
+
+**Wie man diese Tabelle liest:** Die zwei Kanäle, die für eine typische Reise wichtig sind, sind die eigene Website des Anbieters und der Flughafen. Alles dazwischen ist ein Bequemlichkeitskauf. Wenn Sie ein Klook-KKday-artiges Aktivitäts-Bundle buchen und eine Transaktion weniger wollen, ist eine OTA-eSIM vertretbar; wenn der Preis das Kriterium ist, gewinnt sie nie.
+
+Ein Hinweis zur eigenen Website des Netzes: Der Direktkauf ist die richtige Entscheidung, wenn Sie eine UK-Telefonnummer für Anrufe und SMS benötigen, und die falsche Entscheidung, wenn Sie nur Daten brauchen. Direkte Käufe beinhalten eine UK-orientierte Kasse und einen im Netz-App verwalteten Tarif, was ein Besucher nicht nutzt. Vergleichen Sie die beiden Wege ordentlich in unserem [UK-Netz- und MVNO-Leitfaden](/blog/uk-esim-network-mvno-guide/).
+
+
+## Erstattungen, Stornierungen und Aktivierungsfenster für eine UK-eSIM
+
+Eine UK-eSIM ist ein digitaler Kauf auf Distanz, fällt also unter die Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 — die Regeln, die Online-Käufern eine 14-tägige Widerrufsfrist geben. Es gibt eine Ausnahme, die Sie kennen müssen, und sie ist der Grund, warum Reise-eSIM-Erstattungen anders funktionieren als fast jeder andere Online-Kauf.
+
+**Ihr 14-tägiges Widerrufsrecht endet in dem Moment, in dem der Tarif bereitgestellt wird.** Gemäß [Regulation 37 dieser Verordnungen](https://www.legislation.gov.uk/uksi/2013/3134/regulation/37) darf ein Händler mit der Bereitstellung digitaler Inhalte innerhalb des Widerrufsfensters nur beginnen, wenn Sie ausdrücklich zugestimmt haben und anerkannt haben, dass Sie Ihr Widerrufsrecht verlieren. Sobald beide Bedingungen erfüllt sind und die Bereitstellung begonnen hat, fällt das Widerrufsrecht weg. In der Praxis bedeutet das: In dem Moment, in dem Sie den QR-Code scannen und das Profil installieren, schließt das 14-Tage-Fenster — der Kauf hört auf, eine retournierbare Bestellung zu sein, und wird zu einer erbrachten Dienstleistung.
+
+| Phase | Widerrufsposition | Praktische Bedeutung |
+|---|---|---|
+| Bezahlt, QR geliefert, nicht installiert | 14-Tage-Fenster offen | Sie können normalerweise aus anderem Grund stornieren |
+| Installiert, aber nicht verbunden | Meist als bereitgestellt behandelt | Fragen Sie vor der Installation, wenn Ihre Pläne unsicher sind |
+| Verbunden und in Benutzung | Widerrufsrecht verloren | Nur Qualitätsremedien greifen ab hier |
+| Tarif funktionierte gar nicht | Kein anderer Grund | Käuferrechte nach dem Consumer Rights Act 2015 gelten weiter |
+
+Drei Gewohnheiten folgen aus dieser Tabelle, und sie sparen häufiger Geld als jeder Rabattcode.
+
+**Kaufen Sie am Tag vor dem Flug, nicht vierzehn Tage vorher.** Die Falle ist, früh „zur Organisation" zu kaufen und dann die Pläne zu ändern. Da die Bereitstellung beginnt, wenn Sie das Profil installieren, hat ein drei Wochen vor der Abreise gekaufter und sofort installierter Tarif sein Widerrufsrecht lange vor der Reise verloren. Lassen Sie die Installation bis zum Tag vor der Abreise.
+
+**Installieren Sie keinen Tarif, den Sie möglicherweise nicht nutzen.** Wenn die Reise sich verschieben könnte, lassen Sie den QR-Code ungescannt. Die E-Mail ist nicht die Uhr; die Installation ist es.
+
+**Wenn der Tarif tatsächlich versagt, ist das ein anderer Anspruch.** Ein Tarif, der bei der Ankunft nie verbindet, ist kein anderer Grund, und der Consumer Rights Act 2015 verlangt vom Verkäufer, ihn zu beheben — zuerst Reparatur oder Ersatz, dann eine Erstattung, wenn das fehlschlägt. Behalten Sie die Beweise: Screenshots des Fehlerzustands, die Zeit des Versuchs und das Support-Gespräch. Diese Datei ist es, die aus einer Beschwerde ein Remedium macht.
+
+Ein praktischer Hinweis zur Fairness: Anbieter, die über eine App verkaufen, bieten manchmal eher eine Kulanz-Ersatzlieferung an, statt über den Widerrufspunkt zu streiten, besonders für einen Tarif, der am ersten Tag versagte. Fragen Sie nach der Lösung, die Sie brauchen, statt nach der Erstattung, die Sie zu bekommen glauben — Sie kommen meist weiter.
+
+
+## UK-eSIM-Zahlungsmethoden, Währungen und versteckte Gebühren nach Kanal
+
+Zwei Menschen können dieselbe 5-GB-UK-eSIM am selben Tag kaufen und merklich unterschiedliche Beträge zahlen, weil der Kanal entscheidet, in welcher Währung Sie belastet werden und wer die Umrechnung absorbiert. Davon erscheint nichts im Hauptpreis.
+
+| Kanal | Typische Währungen | Kartenakzeptanz | Wo versteckte Kosten lauern |
+|---|---|---|---|
+| Reise-eSIM-Anbieter-Seite | USD, EUR, GBP | Visa, Mastercard, Amex, PayPal, Apple Pay | Dynamische Währungsumrechnung, wenn Sie in Ihrer Heimatwährung zu schlechtem Kurs zahlen |
+| Eigene Website des Netzes | Nur GBP | Meist UK-Ausgabekarten erwartet | Nicht-UK-Karten bei Kasse abgelehnt; UK-Rechnungsadresse kann nötig sein |
+| Flughafenschalter oder -automat | GBP | Karte und manchmal Bargeld | Aufschlag bereits im Preis einkalkuliert; keine Gebührenzeile sichtbar |
+| OTA- und Buchungsplattformen | Plattformwährung | Plattform-Wallet, Karten | Servicegebühr, plus Aufschlag im Listenpreis versteckt |
+| Bank- und Super-App-eSIMs | Meist Ihre Kontowährung | Nur in App | Bequemlichkeitskosten statt Gebühr — Sie tauschen Preis gegen eine Kasse weniger |
+| Geschenkkarten-Marktplätze | Krypto oder Prepaid-Wert | Keine Karte nötig | Wechselkurs-Spanne beim Krypto-Teil |
+
+**Achten Sie auf die Währungsfalle.** Das Zahlen in Ihrer eigenen Währung an der Kasse kann eine dynamische Währungsumrechnung auslösen, bei der der Händler oder ein Zahlungsabwickler den Wechselkurs wählt. Der Kurs ist selten zu Ihren Gunsten. Wenn die Seite die Wahl lässt, zahlen Sie in der Währung, in der der Tarif preisgegeben ist, und lassen Sie Ihre eigene Bank umrechnen — der Kurs Ihres Kartenausstellers ist normalerweise besser als ein vom Händler gelieferter.
+
+**Rechnen Sie damit, dass 3-D Secure nach einem Code fragt.** Die meisten UK- und EU-Kartenaussteller setzen nun Strong Customer Authentication durch, was bedeutet, dass ein großer Anteil der eSIM-Kassen Sie in die App Ihrer Bank oder per SMS an Ihre registrierte Nummer einen Einmalcode senden. Das ist vor der Reise wissenswert: Wenn die Nummer, die Ihre Bank textet, dort, wo Sie sind, nicht erreichbar ist, stockt der Kauf. Das Sortieren der app-basierten Freigabe Ihrer Bank vor dem Flug beseitigt das Problem vollständig — unser [UK-eSIM-mit-Telefonnummer-Leitfaden](/blog/uk-esim-with-phone-number/) behandelt, wie sich diese Verifizierungsabläufe im Ausland verhalten.
+
+**Eine UK-Kasse bedeutet meist eine UK-Karte.** Der Direktkauf von der eigenen Website eines Netzes ist dort, wo Nicht-UK-Karten am häufigsten fehlschlagen, und wo eine Rechnungsadresse im UK verlangt werden kann. Wenn Sie von außerhalb des UK für eine Reise kaufen, die noch nicht begonnen hat, wird die eigene Website des Anbieters oder eine in Ihrer Landeswährung verkaufte Reise-eSIM fast immer die reibungsvollere Transaktion sein.
+
+**Die Mehrwertsteuer ist im angezeigten Preis enthalten.** UK-Verbraucherpreise werden inklusive Mehrwertsteuer ausgewiesen, sodass ein bei 20 GBP gelisteter Tarif eines UK-basierten Verkäufers am Ende keine überraschende Steuerzeile aufpickt. Anbieter, die von außerhalb des UK verkaufen, handhaben Steuern anders, was ein weiterer Grund ist, warum die Summen über diese Kanäle nicht sauber übereinstimmen.
+
+
+## UK-eSIM-Tarife und Prepaid-Optionen – was die Bezeichnungen wirklich bedeuten
+
+Suchen Sie nach einer UK-eSIM, begegnen Sie demselben Produkt unter einem halben Dutzend Namen: eine UK-eSIM-Karte, eine UK-Prepaid-eSIM, ein UK-eSIM-Pay-as-you-go-Tarif, eine sofortige eSIM, ein Reisearif. Sie sind nicht alle dasselbe, und die Unterschiede entscheiden, ob der Tarif für Ihre Reise funktioniert.
+
+| Wie es heißt | Was es ist | Wer es passt | Wobei Vorsicht geboten ist |
+|---|---|---|---|
+| **eSIM-Karte** | Eine Daten-eSIM, installiert als digitales Profil — es gibt keine Plastikkarte | Fast jeder Besucher | Einige Führer verkaufen weiterhin eine „Karte", die physisch versendet wird; nicht nötig |
+| **Prepaid-eSIM** | Im Voraus bezahlt, kein Vertrag, läuft an einem festen Datum ab | Reisen von 3–30 Tagen | Ablaufdaten beginnen bei manchen Tarifen bei Kauf, bei anderen bei erster Verbindung |
+| **Pay-as-you-go (PAYG)-eSIM** | Aufladungsbasiert, pro MB oder pro Bundle berechnet | Leichte Nutzer, lange Aufenthalte | Pro-MB-Sätze (10p/MB bei manchen Netzen) verbrennen Guthaben schnell |
+
+| **Reisearif** | Feste Daten und Gültigkeit, an Besucher verkauft | Touristen | Meist rein datenbasiert — keine UK-Nummer |
+| **Sofort-eSIM** | QR-Code Minuten nach dem Kauf ausgestellt | Jeder, der spät bucht | „Sofort" bezieht sich auf Lieferung, nicht auf Aktivierung bei Ankunft |
+| **Mobilfunktarif / Telefontarif** | Ein monatlicher Tarif mit Anrufen, SMS und Daten | Aufenthalte über einem Monat | Erfordert bei manchen Netzen eine UK-Zahlungsmethode |
+
+**Der eine Unterschied, der am meisten zählt:** rein datenbasiert versus Vollservice. Ein UK-eSIM-Reisearif gibt Ihnen Internet und nichts weiter, was für Karten, Messaging-Apps und Buchungen in Ordnung ist. Ein UK-eSIM-Mobilfunktarif von einem Netz gibt Ihnen eine UK-Nummer, die Sie für ein Bankkonto, eine GP-Registrierung oder jeden Dienst brauchen, der einen SMS-Verifizierungscode sendet. Wenn eine UK-Nummer auf Ihrer Liste steht, budgetieren Sie sie als separates Produkt — unser [UK-eSIM-mit-Telefonnummer-Leitfaden](/blog/uk-esim-with-phone-number/) vergleicht die realistischen Kombinationen.
+
+Sie können online aus jedem Land, in jeder Währung, die Ihre Karte unterstützt, kaufen und — bei Reise-eSIMs — vor der Installation stornieren oder upgraden. „Beantragen Sie eine eSIM" ist eine Formulierung, die in einigen Suchergebnissen auftaucht, aber es gibt keinen Bewerbungsprozess für eine Prepaid-eSIM: Sie kaufen sie, und sie gehört Ihnen. Wenn eine Seite Sie bittet, einen Antrag zu stellen, verkauft sie etwas anderes.
+
+
+## Aufladen, Verlängern und was passiert, wenn eine UK-eSIM abläuft
+
+Wie sich eine UK-eSIM am Ende ihrer Gültigkeit verhält, ist dort, wo günstige Tarife aufhören, günstig auszusehen, und es ist die häufigste Überraschung für Reisende, die annahmen, sie könnten später einfach Daten hinzufügen.
+
+**Die Gültigkeit ist meist eine Wand, kein rollierendes Guthaben.** Die meisten Reise-eSIMs geben Ihnen ein festes Fenster — 3, 7, 15 oder 30 Tage — und ungenutzte Daten werden nicht übertragen. Kaufen Sie einen 30-GB-Tarif für eine zweiwöchige Reise, nutzen Sie 8 GB und fliegen nach Hause, dann hören die verbleibenden 22 GB einfach auf zu existieren. Das ist die Arithmetik hinter der Entscheidung fest versus unbegrenzt: Ein übergroßer Festtarif ist keine Versicherung, er ist Verschwendung.
+
+**Das Aufladen einer Reise-eSIM ist möglich, aber nicht immer elegant.** Anbieter lassen Sie im Allgemeinen einen zweiten Tarif kaufen und ihn neben oder nach dem ersten installieren, aber der neue Tarif startet seine eigene Gültigkeitsuhr ab seiner eigenen Aktivierung. Auf einer langen Reise ist das in Ordnung. Mitten in der Reise bedeutet es einen kurzen Wechsel zwischen Profilen und einen zweiten zu scannenden QR-Code. Prüfen Sie, ob Ihr Anbieter Aufladungen auf demselben Profil unterstützt, bevor Sie sich darauf verlassen — Netze, die ihre eigene Prepaid-eSIM verkaufen, haben einen klareren Aufladeweg als die meisten Reiseanbieter, und unser [UK-Carrier-eSIM-Leitfaden](/blog/uk-carrier-esim-guide/) geht darauf ein.
+
+**Unbegrenzte Tarife versagen anders als gezählte.** Ein gezählter Tarif läuft leer; ein unbegrenzter wird langsamer. Die meisten „unbegrenzten" UK-eSIMs wenden ein tägliches High-Speed-Kontingent an und drosseln dann auf eine niedrige Geschwindigkeit, statt Sie abzuschneiden — das Muster, die Schwellenwerte und die Tethering-Regeln werden in unserem [UK-eSIM-unbegrenzte-Daten-Leitfaden](/blog/uk-esim-unlimited-data-guide/) verglichen. Was beim Aufladen zählt, ist zu wissen, welche der beiden Sie gekauft haben: Wenn Sie auf einem unbegrenzten Tarif sind und die Geschwindigkeiten eingebrochen sind, brauchen Sie keine weiteren Daten, Sie müssen auf den täglichen Reset warten.
+
+| Was leer ging | Was tatsächlich passiert | Was zu kaufen ist |
+|---|---|---|
+| Gezählte Daten aufgebraucht | Tarif stoppt Datenverbindung | Aufladung oder neuer Tarif auf demselben Profil, falls unterstützt |
+| Gültigkeitszeitraum abgelaufen | Tarif stoppt, ungenutzte Daten verloren | Ein neuer Tarif — das alte Kontingent kehrt nicht zurück |
+| Tägliches High-Speed-Kontingent bei unbegrenztem Tarif | Geschwindigkeit fällt, typischerweise auf wenige hundert Kbit/s | Nichts; setzt am nächsten Tag zurück |
+| Monatliches Prepaid-Bundle auf Netz-eSIM | Bundle endet, Guthaben bleibt | Nächstes Bundle vom Guthaben oder ein neues Bundle |
+| Tarif ist okay, aber die Nummer nicht | Sprache und SMS brauchen separate Leitung | Siehe das Hybrid-Setup in unserem [UK-eSIM-mit-Telefonnummer-Leitfaden](/blog/uk-esim-with-phone-number/) |
+
+**Eines, das Sie vor dem Kauf eines Langzeit-Tarifs tun sollten.** Prüfen Sie das Datum, an dem Ihre Gültigkeit beginnt. Wenn sie bei Kauf statt bei erster Verbindung beginnt, kostet ein 30-Tage-Tarif, eine Woche vor der Abreise gekauft, eine Woche des Monats, für den Sie bezahlt haben. Wo der Anbieter die Uhr bei erster Verbindung startet, ist früher Kauf sicher. Wo sie bei Kauf startet, kaufen Sie spät.
+
+Wenn Sie einen größeren Festtarif gegen eine unbegrenzte Stufe für eine lange Reise abwägen, sind die Break-even-Rechnung und die Tageskosten jedes einzelnen in unserem [UK-eSIM-Preisleitfaden](/blog/uk-esim-price-guide/) aufgeschlüsselt.
+
+
+## UK-eSIM vs. physische SIM – was ist besser für Ihre Reise?
+
+Wenn Ihr Telefon beides unterstützt, hier der Vergleich einer Reise-eSIM mit einer physischen SIM für UK-Reisen:
+
+| Faktor | UK-eSIM (Reiseanbieter) | UK-physische SIM (lokaler Carrier) |
+|--------|---------------------------|--------------------------------|
+| **Aktivierungszeit** | 2 Minuten (QR scannen) | 10–30 Minuten (Store finden, Schlange, registrieren) |
+| **Kosten (5 GB, 3–7 Tage)** | $4.79–10 | £15–25 ($19–32) |
+| **Vor der Abreise kaufen?** | ✅ Ja | ❌ Nein – muss im UK kaufen |
+| **UK-Telefonnummer** | ❌ Nur Daten (meist) | ✅ Ja (für lokale Dienste) |
+| **Ausweis nötig?** | ❌ Nein | ✅ Ja (Reisepass oft nötig) |
+| **Hotspot erlaubt?** | Hängt vom Anbieter ab | Meist ja |
+| **Mehrere Länder** | ✅ Ja (Roami UK-Tarife beinhalten EU-Roaming) | ❌ Nur UK (EU-Roaming kostet extra) |
+
+**Das Urteil:** Für Kurzzeitbesucher (1–30 Tage) ist eine **UK-eSIM** fast immer günstiger, schneller und bequemer. Für Langzeitbewohner (3+ Monate) bietet eine lokale physische SIM mit UK-Nummer besseren Wert für Anrufe und SMS-Verifizierung – aber Sie müssen persönlich in einen Store.
+
+Für eine vollständigere Gegenüberstellung siehe unseren [UK-eSIM-vs-physische-SIM-Leitfaden](/blog/uk-esim-vs-physical-sim/).
+
+
+## Roami UK eSIM vs. Airalo vs. Holafly – Preis- & Abdeckungsvergleich
+
+Im Folgenden finden Sie Roamis offizielle Preise für September 2026. Alle Roami-Preise können mit dem Rabattcode **web20** weitere 20 % Rabatt erhalten. Entsprechende UK-Tarife von Airalo und Holafly (basierend auf öffentlichen Daten) sind zum direkten Vergleich aufgeführt.
+
+### 3-Tage-Tarife (verifiziert September 2026)
 
 | Tarif | Listenpreis | Rabattierter Preis | Airalo-Äquivalent | Holafly-Äquivalent |
-|-------|-------------|-------------------|-------------------|---------------------|
-| 100 MB | 1,99 $ | **1,59 $** | — | — |
-| 1 GB | 2,99 $ | **2,39 $** | 5,00 $ (1 GB/7 T.) | — |
-| 3 GB | 4,99 $ | **3,99 $** | 8,00 $ (3 GB/7 T.) | — |
-| 5 GB | 6,99 $ | **5,59 $** | 10,00 $ (5 GB/7 T.) | — |
-| 10 GB | 9,99 $ | **7,99 $** | 18,00 $ (10 GB/7 T.) | — |
-| 20 GB | 15,99 $ | **12,79 $** | — | — |
-| Unbegrenzt | 18,99 $ | **15,19 $** | — | 27,30 $ (7 T. unbegrenzt) |
+|------|-----------|-------------------------------|-------------------|---------------------|
+| 1 GB | $1.99 | **$1.59** | $4.00 (1GB/3T) | — |
+| 3 GB | $3.99 | **$3.19** | $9.00 (3GB/7T) | — |
+| 5 GB | $5.99 | **$4.79** | $13.00 (5GB/30T) | — |
+| 10 GB | $7.99 | **$6.39** | $19.00 (10GB/30T) | — |
+| Unbegrenzt | $8.99 | **$7.19** | — | $27.50 (7T unbegrenzt) |
 
-### 15-Tage-Tarife
+Roami verkauft auch 7-, 15- und 30-Tage-UK-Tarife für längere Reisen. Diese Sätze werden an der Kasse dynamisch berechnet auf Roamis offizieller Seite – längere Laufzeiten kosten mehr als die obigen 3-Tage-Preise – daher listen wir nur die Zahlen auf, die wir im September 2026 tatsächlich verifiziert haben, statt Schätzungen.
 
-| Tarif | Listenpreis | Rabattierter Preis |
-|-------|-------------|-------------------|
-| 3 GB | 5,99 $ | **4,79 $** |
-| 5 GB | 7,99 $ | **6,39 $** |
-| 10 GB | 12,99 $ | **10,39 $** |
-| 20 GB | 17,99 $ | **14,39 $** |
-| 30 GB | 25,99 $ | **20,79 $** |
-| Unbegrenzt | 36,99 $ | **29,59 $** |
+Roamis Vorteil ist nicht nur der Preis – das Kernmerkmal ist das intelligente Umschalten über drei große Netze: EE, Vodafone und O2. Auf abgelegenen Straßen in den Schottischen Highlands, in den Bergen von Wales und in den tiefen Tälern des Lake District schaltet das Gerät automatisch auf das stärkste verfügbare Signal um. Airalo- und Holafly-UK-Tarife unterstützen typischerweise nur 1–2 Netze ohne intelligentes Umschalten. Für Reisende, die durch ländliches Großbritannien fahren, kann dieser Unterschied entscheidend sein.
 
-### 30-Tage-Tarife (Lange Aufenthalte / Studenten / Geschäftsreisen)
-
-| Tarif | Listenpreis | Rabattierter Preis | Airalo-Äquivalent | Holafly-Äquivalent |
-|-------|-------------|-------------------|-------------------|---------------------|
-| 3 GB | 6,99 $ | **5,59 $** | — | — |
-| 5 GB | 9,99 $ | **7,99 $** | — | — |
-| 10 GB | 14,99 $ | **11,99 $** | 24,00 $ (10 GB/30 T.) | — |
-| 20 GB | 18,99 $ | **15,19 $** | — | — |
-| 30 GB | 29,99 $ | **23,99 $** | — | — |
-| 50 GB | 35,99 $ | **28,79 $** | 40,00 $ (50 GB/30 T.) | — |
-| 100 GB | 54,99 $ | **43,99 $** | — | — |
-| Unbegrenzt | 71,99 $ | **57,59 $** | — | 74,90 $ (30 T. unbegrenzt) |
-
-Der Vorteil von Roamis **UK-eSIM** liegt nicht nur im Preis – das Hauptmerkmal ist der intelligente Wechsel zwischen allen vier großen Netzen: EE, Vodafone, O2 und Three. Auf abgelegenen Straßen im Schottischen Hochland, in den Bergen von Wales und in den tiefen Tälern des Lake District wechselt das Gerät automatisch zum stärksten verfügbaren Signal. Airalo- und Holafly-UK-Tarife unterstützen in der Regel nur 1-2 Netze ohne intelligenten Wechsel. Für Reisende, die durch das ländliche Großbritannien fahren, kann dieser Unterschied entscheidend sein.
-
-Erstnutzer können mit einem [kostenlosen eSIM-Dienst](/free-esim/) starten, um die Abdeckungsqualität auf Ihrer geplanten Route zu testen. Alle **[UK-eSIM-Tarife anzeigen →](/plans/)** für eine vollständige Übersicht.
+Erstbesucher können das Netz entlang ihrer geplanten Route mit einem [kostenlosen eSIM-Test](/free-esim/) testen, bevor sie sich auf einen Tarif festlegen. Unser [UK-eSIM-Preisleitfaden](/blog/uk-esim-price-guide/) schlüsselt dann jede Stufe nach Kosten pro GB auf.
 
 
 ## Beste UK-eSIM für jedes Reiseszenario
 
-### Szenario 1: Kurze Städtereise (3-5 Tage in London oder Edinburgh)
+### Szenario 1: Kurzer Städtetrip (3–5 Tage in London oder Edinburgh)
 
-**Typische Aktivitäten:** Museen, Sehenswürdigkeiten, Theaterviertel, Einkaufsbereiche besuchen. Die meiste Zeit verbringen Sie in zentralen Zonen, mit öffentlichen Verkehrsmitteln und zu Fuß als Hauptfortbewegungsmittel. Hotels und Cafés bieten kostenloses WLAN.
+**Typische Aktivitäten:** Museen, Wahrzeichen, Theaterviertel, Einkaufsstraßen besuchen. Meiste Zeit in zentralen Zonen, mit öffentlichen Verkehrsmitteln und zu Fuß als Haupttransport. Hotels und Cafés bieten kostenloses WiFi.
 
-**Datenbedarf:** 500 MB-1 GB pro Tag. Hauptnutzung: Karten für die Navigation zu Fuß, Fahrdienst-Apps, Restaurantbuchungen, Teilen in sozialen Medien.
+**Datenbedarf:** 500 MB–1 GB pro Tag. Hauptnutzung: Karten für Fußgängernavigation, Ride-Hailing-Apps, Restaurantbuchungen, Social-Media-Teilen.
 
-**Empfohlene eSIM:** Roami UK-eSIM 3 GB/7-Tage-Tarif, 3,99 $ nach Rabattcode web20. Über der Erde ist die 4G/5G-Abdeckung in großen britischen Städten nahezu 100 % – jedes Netzwerk funktioniert. Auf tiefen U-Bahn-Linien **laden Sie Offline-Karten in Navigations-Apps herunter** – kein Betreibersignal erreicht die unterirdischen Tunnel.
+**Empfohlene eSIM:** Roami UK eSIM 3 GB/3-Tage-Tarif, $3.19 nach Rabatt. Über der Erde ist die 4G/5G-Abdeckung in großen UK-Städten nahezu 100 % – jedes Netz funktioniert. Auf tiefen Tube-Linien **laden Sie Offline-Karten in Navigations-Apps herunter** – kein Signal eines Betreibers erreicht unterirdische Tunnel.
 
-Wenn Sie auf Installations- oder Verbindungsprobleme mit der eSIM stoßen, lesen Sie den [iPhone-eSIM-Aktivierungsleitfaden](/faq/how-to-activate-esim-on-iphone/) oder den [allgemeinen Einrichtungsleitfaden](/faq/how-to-activate-an-esim/).
+Die Installation auf iPhone und Android unterscheidet sich geringfügig — unser [UK-eSIM-Einrichtungsleitfaden](/blog/uk-esim-setup-guide/) geht beiden Schritt für Schritt durch.
 
-### Szenario 2: Ländlicher Roadtrip (z. B. Schottisches Hochland, 7-10 Tage)
+### Szenario 2: Ländliche Autoreise (z. B. Schottische Highlands, 7–10 Tage)
 
-**Typische Route:** Fahrt durch abgelegene Gebiete mit geringer Bevölkerungsdichte und eingeschränkter Infrastruktur. Täglich mehrere Stunden Fahrt, Durchquerung kleiner Dörfer.
+**Typische Route:** Durch abgelegene Gebiete mit spärlicher Bevölkerung und begrenzter Infrastruktur fahren. Tägliches Fahren von mehreren Stunden, durch kleine Dörfer.
 
-**Datenbedarf:** 1-2 GB pro Tag. Kontinuierliche GPS-Navigation, Musik-/Podcast-Streaming, Hochladen von Fotos an Orten mit Signal, Notfallkommunikation.
+**Datenbedarf:** 1–2 GB pro Tag. Kontinuierliche GPS-Navigation, Musik/Podcast-Streaming, Foto-Uploads an Stellen mit Signal, Notfallkommunikation.
 
-**Empfohlene eSIM:** Roami UK-eSIM 20 GB/7-Tage-Tarif, 12,79 $ nach Rabatt. **In abgelegenen Gebieten wie dem Schottischen Hochland bietet EE auf vielen abgelegenen Straßen das durchgehendste Signal.** Vodafone und O2 haben auf langen Strecken erhebliche Funklöcher, während Three in den meisten ländlichen Gebieten unzuverlässig ist.
+**Empfohlene eSIM:** Roami Unbegrenzt-Tarif – $7.19 für 3 Tage, mit 7-Tage- und längeren Versionen an der Kasse preisgegeben. **In abgelegenen Gebieten wie den Schottischen Highlands hält EE das kontinuierlichste Signal entlang vieler abgelegener Straßen.** Vodafone und O2 haben erhebliche Funklöcher auf langen Strecken, während Three in den meisten ländlichen Gebieten unzuverlässig ist.
 
-**Wichtig:** Selbst mit EE kann das Signal in tiefen Tälern aussetzen. Laden Sie vor der Abreise Offline-Karten für die gesamte Route herunter. In Städten mit Signal laden Sie Fotos stapelweise hoch und aktualisieren soziale Medien.
+**Wichtig:** Selbst mit EE kann das Signal in tiefen Tälern abfallen. Laden Sie Offline-Karten für die gesamte Route vor der Abreise herunter. In Orten mit Signal, laden Sie Fotos gebündelt hoch und aktualisieren Sie Social Media.
 
-### Szenario 3: Großbritannien und mehrere EU-Länder (Längere Reise)
+### Szenario 3: UK und mehrere EU-Länder (verlängerte Reise)
 
-**Typische Reiseroute:** Mehrere Tage in Großbritannien, dann Weiterreise nach Kontinentaleuropa mit dem Zug oder Flugzeug. Besuch mehrerer Länder über einen Zeitraum von zwei Wochen oder mehr.
+**Typische Route:** Einige Tage im UK, dann mit Zug oder Flug auf den Kontinent. Mehrere Länder über einen Zeitraum von zwei Wochen oder mehr besuchen.
 
-**Datenbedarf:** Etwa 1 GB pro Tag pro Land. Hauptsächlich Stadtnavigation, Restaurantsuche, Foto-Sharing.
+**Datenbedarf:** Etwa 1 GB pro Tag pro Land. Meist Stadtnavigation, Restaurantsuche, Foto-Teilen.
 
-**Empfohlene eSIM: Europa-Regional-eSIM, keine Nur-UK-eSIM.** Eine Nur-UK-eSIM hat in EU-Ländern keine Datenverbindung – sie wird bei Verlassen Großbritanniens getrennt. Eine [Europa-eSIM](/europe-esim/) (die Großbritannien + 30 EU-Länder abdeckt) bietet nahtlose Konnektivität für die gesamte Reise, ohne dass Sie in jedem Land einen neuen Tarif kaufen müssen. Europa-Regionaltarife sind in der Regel nur 20-30 % teurer als Nur-UK-Tarife, weitaus günstiger als der Kauf von zwei separaten Tarifen.
+**Empfohlene eSIM: Europäische regionale eSIM, nicht eine rein britische eSIM.** Bei den meisten Anbietern hat eine rein britische eSIM keine Daten in EU-Ländern – sie trennt beim Verlassen des UK. (Roamis UK-eSIM ist eine Ausnahme, mit enthaltenem EU-Roaming – aber prüfen Sie vor dem Kauf, ob Ihr Anbieter dasselbe bietet.) Eine [Europa-eSIM](/europe-esim/) (UK + 30 EU-Länder abdeckend) bietet nahtlose Konnektivität für die gesamte Reise, ohne in jedem Land einen neuen Tarif kaufen zu müssen. Regionale Europa-Tarife sind typischerweise nur 20–30 % teurer als rein britische, weit günstiger als zwei separate Tarife zu kaufen.
 
-**Alternative:** Für sehr knappe Budgets kaufen Sie eine Nur-UK-eSIM für den UK-Teil und eine Europa-Regional-eSIM für den EU-Teil. Ein nahtloser Wechsel an der Grenze ist jedoch nicht möglich.
+**Alternative:** Für sehr knappe Budgets kaufen Sie eine rein britische eSIM für den UK-Abschnitt und eine europäische regionale eSIM für den EU-Abschnitt. Nahtloses Umschalten an der Grenze ist jedoch nicht möglich.
 
 ### Szenario 4: Besuch einer Großveranstaltung (z. B. Fußballspiel, Konzert, 3 Tage)
 
-**Typische Situation:** Reise speziell zur Teilnahme an einer Großveranstaltung. Zwei Tage Stadtbesichtigung, ein Tag am Veranstaltungsort. Zehntausende Menschen verbinden sich gleichzeitig am Veranstaltungsort, was zu Netzüberlastung führt.
+**Typische Situation:** Reise speziell, um eine Großveranstaltung zu besuchen. Zwei Tage Stadtsightseeing, ein Tag an der Arena. Zehntausende von Menschen, die gleichzeitig an der Arena verbinden, erzeugen Netzstau.
 
-**Datenbedarf:** 2-3 GB am Veranstaltungstag (soziale Medien, Videoanrufe, Instant Messaging). Etwa 500 MB an den anderen Tagen.
+**Datenbedarf:** 2–3 GB am Veranstaltungstag (Social Media, Videoanrufe, Instant Messaging). Etwa 500 MB an Nicht-Veranstaltungstagen.
 
-**Empfohlene eSIM:** Roami UK-eSIM 10 GB/3-Tage-Tarif, 6,39 $ nach Rabatt. Am Veranstaltungstag in einem großen Stadion wird jedes einzelne Netz stark überlastet sein. Der intelligente Vier-Netz-Wechsel von Roami bietet einen Vorteil – wenn zwei Netze durch eine große Menschenmenge überlastet sind, wechselt die eSIM automatisch zu anderen Netzen, um verfügbare Bandbreite zu finden.
+**Empfohlene eSIM:** Roamis 10 GB/3-Tage-Tarif für $6.39 nach Rabatt, der Spielraum für schwere Stadion-Uploads lässt. Am Veranstaltungstag in einem großen Stadion wird jedes einzelne Netz stark überlastet sein. Roamis drei-Netz-intelligentes Umschalten bietet einen Vorteil – wenn zwei Netze von einer großen Menge überlastet sind, schaltet die eSIM automatisch auf andere Netze um, um verfügbare Bandbreite zu finden.
 
-### Szenario 5: Langzeitaufenthalt (Student oder Arbeitsauftrag, 90+ Tage)
+### Szenario 5: Langzeitaufenthalt (Student oder Arbeitszuweisung, 90+ Tage)
 
-**Typische Situation:** Semesterbasierter Studienaufenthalt oder langfristige Arbeitsstelle. Benötigen eine UK-Rufnummer für die Eröffnung eines lokalen Bankkontos, die Registrierung beim Gesundheitswesen und die alltägliche lokale Kommunikation. Datenverbrauch stabil bei 1-2 GB pro Tag.
+**Typische Situation:** Semesterbasiertes Studium oder langfristige Arbeitszuweisung. Benötigen eine UK-Telefonnummer für lokale Bankkontoeröffnung, Gesundheitsregistrierung und alltägliche lokale Kommunikation. Datenverbrauch stabil bei 1–2 GB pro Tag.
 
-**Empfohlene eSIM: Hybrider Ansatz.** Nutzen Sie die Roami UK-eSIM 100 GB/30-Tage-Tarif (43,99 $ nach Rabatt) als primäre Datenquelle – der Vier-Netz-Wechsel gewährleistet Konnektivität auf dem Campus, bei der Arbeit oder an Wochenendausflügen. Kaufen Sie separat einen kostengünstigen Sprach+SMS-Tarif in einer EE- oder Vodafone-Filiale (etwa £5-10/Monat) – dieser dient nur für lokale Anrufe und SMS, ein Bedarf, den reine Daten-eSIMs nicht decken können, da britische Banken und Gesundheitsverifizierungssysteme in der Regel eine lokale britische Mobilfunknummer erfordern.
+**Empfohlene eSIM: Hybrid-Ansatz.** Nutzen Sie einen Roami 30-Tage-Tarif als primäre Datenquelle (aktuelle Langzeit-Sätze an der Kasse gezeigt) – drei-Netz-Umschalten sichert Konnektivität auf dem Campus, bei der Arbeit oder an Wochenendausflügen. Separat kaufen Sie einen günstigen Sprache+SMS-Tarif von einem EE- oder Vodafone-Store (etwa £5–10/Monat) – dieser ist nur für lokale Anrufe und SMS, ein Bedarf, den Reisedaten-eSIMs nicht erfüllen können, da UK-Banken und Gesundheitsverifizierungssysteme typischerweise eine lokale UK-Mobilnummer verlangen.
 
-Weitere detaillierte Anleitungen zu Reise-eSIMs finden Sie in unserem [Reise-eSIM-2026-Leitfaden](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
+Wenn Sie eine lokale Nummer neben Ihrem Daten-Tarif brauchen, vergleicht unser [UK-eSIM-mit-Telefonnummer-Leitfaden](/blog/uk-esim-with-phone-number/) die realistischen Optionen. Für die Vertrags-, keine-Bonitätsprüfung- und 90-Tage- oder Jahres-Tarifformen, die nach der 90-Tage-Marke übernehmen, siehe unseren [UK-eSIM-für-lange-Aufenthalte-Leitfaden](/blog/uk-esim-business-digital-nomad/).
 
 
 ## So aktivieren Sie Ihre UK-eSIM – 4 einfache Schritte
 
-Die Aktivierung dauert weniger als 2 Minuten. Führen Sie sie **vor dem Abflug** durch – Sie benötigen nur WLAN.
+Die Aktivierung dauert weniger als 2 Minuten. Tun Sie es **vor dem Flug** – Sie brauchen nur WiFi.
 
-1. **Kaufen Sie Ihren UK-eSIM-Tarif** – Wählen Sie einen Tarif von Roami oder Ihrem bevorzugten Anbieter.
-2. **Scannen Sie den QR-Code** – Gehen Sie zu Einstellungen > Mobilfunk > eSIM hinzufügen und scannen Sie den QR-Code, der an Ihre E-Mail gesendet wurde.
+1. **Kaufen Sie Ihren Tarif** – Wählen Sie einen Tarif von Roami oder Ihrem bevorzugten Anbieter.
+2. **Scannen Sie den QR-Code** – Gehen Sie zu Einstellungen > Mobilfunk > eSIM hinzufügen und scannen Sie den an Ihre E-Mail gesendeten QR-Code.
 3. **Installieren Sie das Profil** – Folgen Sie den Bildschirmanweisungen, um den Download abzuschließen.
-4. **Benennen Sie Ihre eSIM** – Nennen Sie sie „UK-Reise“ zur einfachen Identifizierung.
+4. **Beschriften Sie Ihre eSIM** – Nennen Sie sie „UK-Reise" zur leichten Identifikation.
 
-**Nach der Ankunft in Großbritannien:** Gehen Sie zu Einstellungen > Mobilfunk > [Ihre eSIM] > Datenroaming einschalten. Legen Sie den Tarif als Mobilfunkdaten-Leitung fest. Schalten Sie Datenroaming auf der Heim-SIM AUS. Schalten Sie „Mobilfunkdatenwechsel zulassen“ AUS.
+**Nach der Ankunft im UK:** Gehen Sie zu Einstellungen > Mobilfunk > [Ihre eSIM] > Datenroaming einschalten. Setzen Sie den Tarif als Mobilfunkdaten-Leitung. Schalten Sie Datenroaming für die Heim-SIM AUS. Schalten Sie „Cellular Data Switching zulassen" AUS.
 
-**Wichtig:** Installieren Sie die eSIM vor dem Abflug – Sie benötigen eine stabile WLAN-Verbindung für den Download. Löschen Sie während der Reise kein aktives eSIM-Profil. Wenn „Kein Dienst“ angezeigt wird, schalten Sie den Flugmodus ein/aus oder starten Sie das Telefon neu – löschen Sie nicht das Profil.
+**Wichtig:** Installieren Sie die eSIM vor dem Flug – Sie brauchen eine stabile WiFi-Verbindung für den Download. Löschen Sie kein aktives eSIM-Profil während der Reise. Wenn „Kein Netz" erscheint, schalten Sie den Flugmodus um oder starten Sie das Telefon neu – löschen Sie das Profil nicht.
 
-Detaillierte Anweisungen für das iPhone finden Sie in unserem [iPhone-17-eSIM-Vollständiger Leitfaden](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/). Wenn Sie auf Probleme stoßen, überprüfen Sie die [Gerätekompatibilität](/compatibility/), um zu bestätigen, dass Ihr Telefon eSIM unterstützt.
+Für detaillierte iPhone-Anweisungen prüfen Sie die [Gerätekompatibilität](/compatibility/), um zu bestätigen, dass Ihr Telefon eSIM unterstützt.
 
 
 ## UK-eSIM funktioniert nicht? Häufige Probleme und schnelle Lösungen
 
-Selbst mit einer guten eSIM können Probleme auftreten. Hier erfahren Sie, wie Sie die häufigsten **UK-eSIM funktioniert nicht**-Probleme beheben:
+Selbst mit einer guten eSIM können Probleme auftreten. Hier ist, wie Sie die häufigsten **UK-eSIM-funktioniert-nicht**-Probleme beheben:
 
 | Problem | Wahrscheinliche Ursache | Lösung |
-|---------|------------------------|--------|
-| **Kein Signal nach der Landung** | Datenroaming nicht aktiviert | Einstellungen > Mobilfunk > eSIM > Datenroaming EIN schalten |
-| **QR-Code wird nicht erkannt** | QR-Code abgelaufen oder beschädigt | Neuen QR-Code vom Anbieter anfordern; manuelle Eingabe versuchen |
+|---------|--------------|----------|
+| **Kein Signal nach Landung** | Datenroaming nicht aktiviert | Einstellungen > Mobilfunk > eSIM > Datenroaming EIN schalten |
+| **QR-Code nicht erkannt** | QR-Code abgelaufen oder beschädigt | Neuen QR-Code vom Anbieter anfordern; manuelle Eingabe versuchen |
 | **Keine Daten nach Aktivierung** | APN-Einstellungen fehlen | APN manuell konfigurieren (siehe Tabelle unten) |
-| **Langsame Geschwindigkeiten in ländlichen Gebieten** | Falsches Netz ausgewählt | Manuell zu EE wechseln (beste ländliche Abdeckung) |
-| **Hotspot funktioniert nicht** | Tarif schränkt Tethering ein | Überprüfen Sie die Tarifbedingungen – einige Anbieter begrenzen Hotspot |
-| **eSIM zeigt stundenlang „Aktivierung“ an** | WLAN-Verbindung instabil | Telefon neu starten, Flugmodus ein/aus schalten, anderes WLAN versuchen |
-| **„Kein Dienst“ in der London Underground** | Tiefe U-Bahn hat kein Mobilfunksignal | Laden Sie vor Ihrer Abfahrt Offline-U-Bahn-Karten herunter |
+| **Langsame Geschwindigkeiten in ländlichen Gebieten** | Falsches Netz gewählt | Manuell auf EE wechseln (beste ländliche Abdeckung) |
+| **Hotspot funktioniert nicht** | Tarif schränkt Tethering ein | Prüfen Sie die Tarifbedingungen – einige Anbieter begrenzen Hotspot |
+| **eSIM zeigt „Aktivierung" stundenlang** | WiFi-Verbindung instabil | Telefon neu starten, Flugmodus umschalten, anderes WiFi versuchen |
+| **„Kein Netz" in der Londoner U-Bahn** | Tiefer Tube hat kein Mobilfunksignal | Offline-Tube-Karten vor der Abfahrt herunterladen |
 
 ### APN-Einstellungen für UK-eSIMs
 
-Wenn Sie nach der Aktivierung keine Daten haben, konfigurieren Sie die APN manuell:
+Wenn Sie nach der Aktivierung keine Daten haben, konfigurieren Sie den APN manuell. Dies sind die Werte, die die Netze veröffentlichen — einschließlich der Benutzername- und Passwortfelder, die die meisten Führer weglassen:
 
 | Anbieter | APN | Benutzername | Passwort |
-|----------|-----|--------------|----------|
+|----------|-----|----------|----------|
 | **Roami** | roami | (leer) | (leer) |
-| **EE** | everywhere | (leer) | (leer) |
-| **O2** | mobile.o2.co.uk | web | web |
-| **Vodafone** | internet | (leer) | (leer) |
+| **EE** | everywhere | eesecure | secure |
+| **O2** | mobile.o2.co.uk (Vertrag) / payandgo.o2.co.uk (PAYG) | o2web | password |
+| **Vodafone** | wap.vodafone.co.uk (PAYG) / internet (Vertrag) | wap | wap |
 | **Three** | three.co.uk | (leer) | (leer) |
+| **giffgaff** | giffgaff.com | giffgaff | (leer) |
 
-Wenn weiterhin Probleme auftreten, lesen Sie unseren [eSIM-Detaillierten Fehlerbehebungsleitfaden (16 echte Fälle)](/faq/esim-deep-troubleshooting-guide-2026/) für fortgeschrittene Lösungen. Bei Konflikten mit dualer SIM nach der Aktivierung deckt unser Leitfaden [Duale eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/) CDMA-Konflikte und Akkuprobleme ab.
+Die Anbieterspalte zählt hier mehr als die Netzspalte: Eine Reise-eSIM trägt ihren eigenen APN, also ist das Überschreiben mit dem Wert eines UK-Netzes der schnellste Weg, einen bereits funktionierenden Tarif zu zerstören.
 
-
-## Datenverbrauchsrichtlinien für Reisen nach Großbritannien
-
-| Reiseart | Tage | Typischer täglicher Verbrauch | Empfohlener Tarif | Rabattierter Preis (mit web20) | Offline-Backup nötig? |
-|----------|------|-------------------------------|-------------------|-------------------------------|------------------------|
-| Städtereise (z. B. London) | 3 | 500 MB-1 GB | 3 GB / 7 Tage | **3,99 $** | Offline-ÖPNV-Karte |
-| Eine Woche in Großbritannien | 7 | 700 MB-1,5 GB | 10 GB / 7 Tage | **7,99 $** | Offline-Karten |
-| Ländlicher Roadtrip (z. B. Highlands) | 7-10 | 1-2 GB | 20 GB / 7 Tage | **12,79 $** | Vollständige Offline-Karten Pflicht |
-| UK + mehrere EU-Länder | 14+ | 1 GB/Tag | Europa-Regional 20 GB | Regionalpreis | Offline-Karten pro Land |
-| Langzeitaufenthalt / Student | 30+ | 1-2 GB/Tag | 100 GB / 30 Tage | **43,99 $** | Nach Bedarf für Wochenendausflüge |
+Wenn die Lösung nicht hält, arbeitet unser [UK-eSIM-Fehlerbehebungsleitfaden](/blog/uk-esim-troubleshooting/) die verbleibenden Ursachen der Reihe nach ab, und Dual-Leitung-Konflikte sind in unserem [UK-eSIM-Dual-SIM-Einrichtungsleitfaden](/blog/uk-esim-dual-sim-setup/) abgedeckt.
 
 
-## Häufig gestellte Fragen zur UK-eSIM
+## Datenverbrauchs-Richtlinien für Ihre UK-eSIM-Reise
+
+| Reiseart | Tage | Typischer täglicher Verbrauch | Empfohlener Tarif | Startpreis (nach Rabatt) | Offline-Backup nötig? |
+|-------------|------|---------------------|------------------|-------------------------------|------------------------|
+| Städtetrip (z. B. London) | 3 | 500 MB–1 GB | 3 GB / 3 Tage | **$3.19** | Offline-ÖPNV-Karte |
+| Eine Woche im UK | 7 | 700 MB–1,5 GB | 10 GB / 3 Tage* | **$6.39** | Offline-Karten |
+| Ländliche Autoreise (z. B. Highlands) | 7–10 | 1–2 GB | Unbegrenzt / 3 Tage* | **$7.19** | Volle Offline-Karten zwingend |
+| UK + mehrere EU-Länder | 14+ | 1 GB/Tag | Europa regional 20 GB | Regionale Preise | Offline-Karten pro Land |
+| Langer Aufenthalt / Student | 30+ | 1–2 GB/Tag | Roami 30-Tage-Tarif | An Kasse preisgegeben | Nach Bedarf für Wochenendausflüge |
+
+\*3-Tage-Sätze gezeigt; 7- und 15-Tage-Versionen derselben Tarife kosten mehr und sind an der Kasse preisgegeben.
+
+
+## UK-eSIM-Kauf: Häufig gestellte Fragen
 
 **Funktioniert eine UK-eSIM in Europa?**
-Nein. Nach dem Brexit bieten britische Mobilfunknetze kein kostenloses EU-Roaming mehr an. Eine Nur-UK-eSIM wird in EU-Ländern (z. B. Frankreich, Deutschland, Italien) nicht funktionieren oder es fallen tägliche Roaming-Gebühren von £2-5 an. Wenn die Reiseroute Großbritannien und Europa umfasst, ist eine [Europa-Regional-eSIM](/europe-esim/) erforderlich – kaufen Sie keine Nur-UK-eSIM.
+
+Meist nicht. Nach dem Brexit enthalten die UK-Mobilfunknetze kein kostenloses EU-Roaming mehr, sodass die meisten rein britischen eSIMs entweder in EU-Ländern (z. B. Frankreich, Deutschland, Italien) nicht funktionieren oder tägliche Roaming-Gebühren von £2–5 verursachen. Die eine Ausnahme, die wir im September 2026 verifiziert haben, ist Roami, dessen UK-eSIM EU-Roaming beinhaltet. Wenn Ihr Anbieter dasselbe nicht bietet und Ihre Route UK und Europa einschließt, ist eine [europäische regionale eSIM](/europe-esim/) erforderlich.
 
 **Kann ich eine Prepaid-Vodafone-eSIM für eine zweiwöchige Reise kaufen?**
-Nein. Vodafone UK bietet überhaupt keine Prepaid-eSIM an. Nur Postpaid-Verträge mit einer britischen Adresse und Bonitätsprüfung. Wenn Sie als Tourist nach **"vodafone esim uk"** oder **"vodafone uk esim"** suchen, suchen Sie nach etwas, das es nicht gibt. Nutzen Sie stattdessen eine Reise-eSIM von Roami, Airalo oder Holafly – sie haben alle Vereinbarungen mit dem Vodafone-Netzwerk.
+
+Ja — das hat sich geändert, und ältere Leitfäden haben das nicht mitbekommen. Vodafone UKs Pay-as-you-go-Plus-Bundles unterstützen eSIM an der Online-Kasse ohne Vertrag und ohne Bonitätsprüfung, und der Tarif wird nach der Landung in der My Vodafone App verwaltet. Was Vodafone weiterhin nicht anbietet, ist eine Touristen-eSIM über den Schalter im Laden, und seine Vertragstarife bleiben UK-Wohnsitz-only. Wenn Sie Vodafone-Abdeckung ohne Kassen- und App-Reibung wollen, gibt Ihnen eine Reise-eSIM, die über Vodafones Netz durch eine Großhandelsvereinbarung läuft, dieselben Masten.
 
 **Kann ich eine eSIM am Heathrow kaufen?**
-Ja, aber der Preis ist 400-600 % höher als bei einem Online-Vorkauf. Automaten und Schalter am Flughafen verlangen £20-30 ($25-38) für einen 5-GB-Tarif, während dieselbe Datenmenge bei einem Online-Vorkauf ab 5,59 $ erhältlich ist. Vermeiden Sie die **Heathrow-SIM-Falle**.
 
-**Brauche ich eine UK-Rufnummer?**
-Für die überwiegende Mehrheit der Reisenden nein. Messaging-Apps (WhatsApp, iMessage, FaceTime, WeChat) funktionieren einwandfrei über eine Datenverbindung. Eine UK-Nummer wird nur benötigt für: die Eröffnung eines UK-Bankkontos, die Registrierung bei einem Hausarzt oder die Anmeldung bei bestimmten lokalen Liefer-Apps.
+Ja, aber der Preis ist typischerweise 100–200 % höher als der Online-Vorabkauf. Flughafenschalter und -automaten verlangen £20–30 ($25–38) für einen 5-GB-Tarif, während dieselben Daten online im Voraus ab $4.79 beginnen. Vermeiden Sie die **Heathrow-SIM-Falle**.
+
+**Wo kann ich im UK eine eSIM kaufen?**
+
+Online, von überall, vor dem Flug — das ist der günstigste und schnellste Weg mit weitem Abstand. Im UK selbst können Sie eine von der eigenen Website oder App eines Netzes, von einem Netz-Store oder von den Flughafenschaltern und -automaten kaufen, die 100–200 % Aufschlag verlangen. Zur Referenz beginnt eine UK-Pay-as-you-go-eSIM im Voraus bei $1.59 für 1 GB, während dieselben Daten am Heathrow £12–18 kosten.
+
+**Brauche ich eine UK-Telefonnummer?**
+
+Für die große Mehrheit der Reisenden, nein. Messaging-Apps (WhatsApp, iMessage, FaceTime, WeChat) funktionieren perfekt über eine Datenverbindung. Eine UK-Nummer wird nur gebraucht für: Eröffnung eines UK-Bankkontos, Registrierung bei einem GP (Hausarzt) oder Anmeldung bei bestimmten lokalen Liefer-Apps.
 
 **Was ist der Unterschied zwischen einer UK-eSIM und einer Europa-eSIM?**
-Eine Nur-UK-eSIM funktioniert nur in Großbritannien. Eine [RegionaleSIM für Europa](/europe-esim/) deckt Großbritannien plus 30+ EU-Länder mit einem einzigen Tarif ab. Wenn Ihre Reiseroute beides umfasst, ist der Europa-Tarif günstiger als der Kauf von zwei separaten Tarifen.
 
-**Funktioniert meine eSIM in der London Underground?**
-In tiefen U-Bahn-Tunneln (Central, Piccadilly, Northern Line usw.) erreicht kein Betreibersignal die Gleise. Auf einigen Bahnsteigen und auf der Jubilee Line von Westminster bis Canning Town unterstützt Vodafone WLAN-Telefonie. Das Herunterladen von Offline-U-Bahn-Karten vor der Abreise ist die beste Lösung. Vodafones exklusive WLAN-Telefonie ist nur direkten Vodafone-Kunden vorbehalten – nicht für Reise-eSIM-Nutzer.
+In den meisten Fällen funktioniert eine rein britische eSIM nur im UK (Roamis UK-Tarif ist die Ausnahme, mit enthaltenem EU-Roaming). Eine [regionale eSIM für Europa](/europe-esim/) deckt das UK plus 30+ EU-Länder mit einem einzigen Tarif ab. Wenn Ihre Route beides einschließt, ist der Europa-Tarif günstiger als zwei separate Tarife zu kaufen.
 
-**Was ist die beste UK-eSIM für Roadtrips in Schottland?**
-Roami ist die beste Wahl, da sie automatisch zu EE wechselt – dem einzigen Netzwerk mit zuverlässiger Abdeckung im Schottischen Hochland. Einzelnetz-eSIMs, die nur O2 oder Three verwenden, werden Sie in vielen abgelegenen Gebieten ohne Signal dastehen lassen.
+**Funktioniert meine eSIM in der Londoner U-Bahn?**
 
-**Wie viel Daten brauche ich für eine 7-tägige Reise nach Großbritannien?**
-Planen Sie insgesamt 5-10 GB ein. An Londoner Städtetagen verbrauchen Sie 1-1,5 GB, an Reisetagen zwischen Städten verbrauchen Sie 2-3 GB. Wählen Sie einen Tarif mit zusätzlicher Kapazität – Sie können jederzeit online aufladen.
+Meist ja im Jahr 2026. Der Boldyn-Networks-Ausbau hat 4G und 5G zu den meisten Tube-Stationen und einem wachsenden Anteil an Tunnelabschnitten gebracht, und alle vier Netze fahren darauf — also bekommt eine Reise-eSIM dasselbe Signal wie ein lokales Telefon. Die Abdeckung ist auf den tiefsten Strecken noch lückenhaft, also screenshotten Sie Ihre Route und laden Sie Offline-Tube-Karten herunter, bevor Sie hinabsteigen.
 
-**Welche UK-eSIM ist die günstigste?**
-Roamis 1-GB/7-Tage-Tarif startet bei 2,39 $ nach Rabatt. Für mehr Daten kostet Roamis 5-GB/7-Tage-Tarif 5,59 $ – deutlich günstiger als Airalo (10,00 $) und Holafly (27,30 $ für unbegrenzt).
+**Was ist die beste UK-eSIM für Autoreisen in Schottland?**
+
+Roami ist die beste Wahl, weil es automatisch auf EE umschaltet – das einzige Netz mit zuverlässiger Abdeckung in den Schottischen Highlands. Single-Netz-eSIMs, die nur O2 oder Three nutzen, lassen Sie in vielen abgelegenen Gebieten ohne Signal.
+
+**Wie viel Daten brauche ich für eine 7-tägige UK-Reise?**
+
+Planen Sie 5–10 GB insgesamt. An Londons Stadt-Tagen nutzen Sie 1–1,5 GB, an Reisetagen zwischen Städten 2–3 GB. Wählen Sie einen Tarif mit Extra-Kapazität – Sie können immer online aufladen.
+
+**Welche UK-eSIM ist am günstigsten?**
+
+Roamis 1 GB/3-Tage-Tarif beginnt bei $1.59 nach Rabatt. Für mehr Daten ist Roamis 5 GB/3-Tage-Tarif $4.79 – deutlich günstiger als Airalo ($13.00 für 5 GB) und Holafly ($27.50 für 7-Tage unbegrenzt).
 
 **Kann ich meine UK-eSIM als persönlichen Hotspot nutzen?**
-Ja – die meisten Reise-eSIMs unterstützen die Hotspot-Freigabe. Überprüfen Sie die Tarifbedingungen, um sicherzugehen. Roami unterstützt die vollständige Hotspot-Freigabe für alle Tarife.
+
+Ja – die meisten Reise-eSIMs unterstützen Hotspot-Sharing. Prüfen Sie die Tarifbedingungen zur Sicherheit. Roami unterstützt volles Hotspot-Sharing auf allen Tarifen.
 
 **Wie übertrage ich meine UK-eSIM auf ein neues Telefon?**
-Die meisten Reise-eSIMs sind für die einmalige Installation bestimmt und können nicht übertragen werden. Bei Postpaid-Anbieter-eSIMs (EE, Vodafone usw.) wenden Sie sich an Ihren Anbieter. Detaillierte Schritte zur Übertragung von eSIMs zwischen Geräten finden Sie in unserem [eSIM-Plattformübergreifender Transfer-2026-Leitfaden](/faq/how-to-transfer-esim-between-iphone-and-android/).
+
+Die meisten Reise-eSIMs sind Einmal-Installation und können nicht übertragen werden. Für Postpaid-Carrier-eSIMs (EE, Vodafone usw.) kontaktieren Sie Ihren Betreiber. Für detaillierte Schritte zum Übertragen von eSIMs zwischen Geräten siehe unseren [eSIM-Plattformübergreifender-Transfer-2026-Leitfaden](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 ---
 
-*Dieser Leitfaden basiert auf öffentlichen Netzanbieter-Abdeckungsdaten für Großbritannien, Ofcom-Mobilfunknetzberichten, Reisenden-Feldtests und eSIM-Marktinformationen vom Juni 2026. Alle Roami-Preise basieren auf offiziellen Preisangaben; verwenden Sie den Rabattcode web20 für 20 % Rabatt. EE, Vodafone, O2 und Three sind Marken ihrer jeweiligen Eigentümer. Airalo- und Holafly-Preise basieren auf öffentlich zugänglichen Informationen; sie sind Marken ihrer jeweiligen Eigentümer.*
+*Dieser Leitfaden basiert auf öffentlichen Betreiber-Abdeckungsdaten für das UK, Ofcom-Mobilfunknetzberichten, Reisenden-Feldtests und eSIM-Marktinformationen vom September 2026. Alle Roami-Preise stammen aus offiziellen Preisen; der 20 %-Rabattcode gilt an der Kasse. EE, Vodafone, O2 und Three sind Marken ihrer jeweiligen Eigentümer. Airalo- und Holafly-Preise stammen aus öffentlichen Informationen; sie sind Marken ihrer jeweiligen Eigentümer.*

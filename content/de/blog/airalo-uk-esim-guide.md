@@ -1,22 +1,22 @@
 ---
-title: "Beste eSIM für Großbritannien: Airalo vs Holafly"
-description: "Airalo, Holafly und Roami im Vergleich: Die beste UK-eSIM wird vor dem Abflug installiert, nutzt EE, O2, Vodafone oder Three – ohne Brexit-Roaming"
-keywords: ["UK eSIM Preisvergleich", "holafly esim für großbritannien", "uk esim nach brexit roaming", "günstigste eSIM für UK-Reisen", "uk esim london underground", "airalo uk esim bewertung", "UK eSIM Promo-Code"]
-date: 2026-09-01T00:00:00Z
-lastmod: 2026-09-01T00:00:00Z
+title: "Airalo vs Holafly: Beste UK eSIM für Reisende"
+description: "Vergleichen Sie Airalo, Holafly und Roami: Die beste eSIM für das UK wird vor dem Flug installiert, läuft über EE, O2, Vodafone oder Three, und vermeidet EU-Roaming-Gebühren."
+keywords: ["airalo uk esim", "UK eSIM Preisvergleich", "holafly esim für uk", "uk esim post brexit roaming", "günstigste eSIM für UK Reise", "uk esim london underground", "airalo uk esim test", "UK eSIM Gutscheincode", "airalo vs holafly uk"]
+date:  2026-09-24T00:00:00Z
+lastmod:  2026-09-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami bietet zuverlässige eSIM-Tarife, bedient jährlich über 1 Million Reisende und unterstützt automatisches lokales Netzwerkwechseln, damit Reisende weltweit verbunden bleiben."
+authorBio: "Roami bietet zuverlässige eSIM-Tarife, betreut jährlich über 1 Million Reisende und unterstützt den automatischen Wechsel zum lokalen Netzwerk, damit Reisende weltweit verbunden bleiben."
 image: "/img/esim/uk/uk-esim-price-guide.jpg"
 categories: ["eSIM", "Reisen", "UK"]
-tags: ["UK eSIM", "Brexit-Roaming", "London Underground"]
+tags: ["UK eSIM", "Brexit Roaming", "London Underground"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "EU-SIM-Karten berechnen jetzt Roaming in Großbritannien – hier ist die günstigere eSIM"
+h1title: "EU-SIMs berechnen im UK jetzt Roaming – hier ist die günstigere eSIM"
 
 productsTitle: "Beliebte eSIM-Tarife"
-hotPostsTitle: "Top-Artikel"
+hotPostsTitle: "Hot-Artikel"
 recentPostsTitle: "Neueste Beiträge"
 
 products:
@@ -52,10 +52,10 @@ products:
     slug: "spain"
 
 recentPosts:
-  - title: "Liste eSIM-kompatibler Geräte"
+  - title: "Liste der eSIM-kompatiblen Geräte"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "Plattformübergreifende eSIM-Übertragung 2026"
+  - title: "2026 plattformübergreifender eSIM-Transfer"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone"
@@ -64,113 +64,114 @@ recentPosts:
   - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Vollständiger Einrichtungsleitfaden für iPhone 11 eSIM"
+  - title: "iPhone 11 eSIM – Komplettes Einrichtungshandbuch"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
 
-## 2026 UK-eSIM-Kaufberatung
+## 2026 UK eSIM Käuferleitfaden
 
-Planen Sie eine Reise nach Großbritannien – zum Big Ben in London, Edinburgh Castle, den Landschaften des Lake District oder einem Spiel in Liverpool/Manchester? Sie könnten auf einen „Post-Brexit-Kater“ stoßen: **Die Mobilfunk-SIM-Karte, die Sie in Europa gekauft haben, berechnet Ihnen jetzt möglicherweise Roaminggebühren im Vereinigten Königreich.** Das Vereinigte Königreich hat die EU offiziell im Jahr 2020 verlassen, und ab 2022 haben britische und EU-Operatoren schrittweise die Roaminggebühren untereinander wieder eingeführt.
+Planen Sie eine Reise in das UK – Londons Big Ben, Edinburgh Castle, die Landschaften des Lake District oder ein Match in Liverpool/Manchester? Sie könnten auf einen „post-Brexit-Kater" stoßen: **Die in Europa gekaufte Mobil-SIM-Karte kann im UK nun Roaming-Gebühren berechnen.** Das UK verließ 2020 offiziell die EU, und ab 2022 stellten UK- und EU-Betreiber schrittweise Roaming-Gebühren gegeneinander wieder her.
 
-Großbritannien hat auch ein „gutes Problem“: **Lokale SIM-Karten sind unglaublich günstig und leicht zu kaufen** (giffgaff bei WHSmith im Flughafen gibt Ihnen 20 GB für nur £10). Warum also lohnt sich der Kauf einer [UK-eSIM](/united-kingdom-esim/)? Die Antwort lautet drei Worte – **funktioniert bei Ankunft**: Installieren Sie sie vor der Abreise, sind Sie sofort nach der Landung verbunden, ohne einen Laden zu suchen, eine Karte einzulegen oder auf die Aktivierung zu warten. Außerdem kann sie automatisch zwischen den Netzen EE, O2, Vodafone und Three wechseln und bietet so eine bessere Stabilität in Funklöchern wie der London Underground und den schottischen Highlands.
+Das UK hat auch ein „gutes Problem": **Lokale SIM-Karten sind unglaublich günstig und leicht zu kaufen** (giffgaff am WHSmith am Flughafen gibt Ihnen 20GB für nur 10 £). Warum also ist eine [UK eSIM](/united-kingdom-esim/) den Kauf wert? Die Antwort sind drei Worte – **funktioniert bei Ankunft**: Installieren Sie sie vor der Abreise, sind Sie verbunden, sobald das Flugzeug landet, ohne einen Laden zu suchen, eine Karte einzustecken oder auf Aktivierung zu warten. Zudem kann sie automatisch zwischen den Netzen EE, O2, Vodafone und Three wechseln und bietet bessere Stabilität in Signal-Totzonen wie der London Underground und den schottischen Highlands.
 
-Dieser Artikel konzentriert sich auf drei Kernbereiche: Welcher der vier großen britischen Betreiber hat die beste Abdeckung? Welches Angebot von Airalo, Holafly und Roami bietet das beste Preis-Leistungs-Verhältnis? Und – nach dem Brexit – berechnen EU-Karten tatsächlich Roaming, und lohnt sich eine eSIM bei so günstigen lokalen Karten überhaupt?
+Drei Fragen entscheiden eine UK-Reise: Welches der vier Netze erreicht tatsächlich dorthin, wo Sie hinfahren, welche von Airalo, Holafly und Roami bietet auf dieser Route das beste Preis-Leistungs-Verhältnis, und – da EU-SIMs nun wieder mit Aufpreis roamen – ob eine UK eSIM immer noch eine günstige giffgaff-SIM schlägt, die bei Ankunft gekauft wird.
 
-> **⏱️ 30-Sekunden-Zusammenfassung: Wie wählt man seine UK-eSIM?**
+> **⏱️ 30-Sekunden-Zusammenfassung: Wie wählen Sie Ihre UK eSIM?**
 >
-> - **Das Kernproblem**: Nach dem Brexit berechnen EU-Mobilfunkkarten in der Regel Roaming im Vereinigten Königreich; **eine UK-eSIM funktioniert bei Ankunft und vermeidet diese Gebühren** (siehe Abschnitt zum Brexit-Roaming unten).
-> - **Preis-Leistungssieger**: Der rabattierte Preis von Roami ist insgesamt am niedrigsten – 7 Tage 10 GB für 7,99 $, das ist 56 % günstiger als das Äquivalent von Airalo (18,00 $) und 71 % günstiger als der Unlimited-Tarif von Holafly (27,30 $).
-> - **Welches Netz**: In Städten EE wählen, in ländlichen Gebieten/Lake District O2/Vodafone; Roami bietet automatischen Multinetzwerk-Wechsel und wählt das beste Signal an Ihrem Standort.
-> - **Lohnt sich Unlimited?**: Normalerweise nicht für Kurztrips – Roami 7 Tage Unlimited kostet 15,19 $, nur 2,40 $ mehr als der 20-GB-Tarif, also müssten Sie über 2,86 GB pro Tag verbrauchen, um zu profitieren (siehe Abschnitt zur Wirtschaftlichkeit).
-> - **Fazit**: Für 3–5 Tage in London nehmen Sie Roami 3–5 GB; für Mehrtages-/Highland-Roadtrips 10–20 GB; für einen Monatsaufenthalt 50 GB; Unlimited nur bei intensivem Videostreaming.
+> - **Das Kernproblem**: Post-Brexit berechnen europäische Handykarten im UK meist Roaming; **eine UK eSIM ist bei Ankunft live und umgeht diese Gebühren.**
+> - **Wert-Sieger**: Roamis Rabatt-Tarif ist durchgängig am günstigsten – 7 Tage 10GB für **7,99 $**, etwa 56 % unter Airalos Äquivalent (18,00 $) und 71 % unter Holaflys Unlimited (27,50 $).
+> - **Welches Netz**: EE in Städten; O2/Vodafone in ländlichen Gebieten und dem Lake District; Mehrnetz-Auto-Wechsel nimmt das stärkste Signal dort, wo Sie stehen.
+> - **Lohnt sich Unlimited**: Üblicherweise nicht für Kurztrips – Roamis 7-Tage-Unlimited kostet 15,19 $, nur 2,40 $ über dem 20GB-Tarif, weshalb Sie über 2,86GB/Tag verbrauchen müssten, um vorne zu liegen.
+> - **Fazit**: Nur London für 3–5 Tage braucht 3–5GB; kommen Edinburgh oder eine Highland-Fahrt dazu, steigt es auf 10–20GB, da Tethering und Karten mehr verbrauchen; ein Monat im UK landet bei 50GB.
 
-> **⚡ Schnelle Entscheidungshilfe: Empfehlungen nach Reiseart**
+> **⚡ Schnell-Entscheidungszone: Schlussfolgerungen basierend auf Ihrem Reisetyp**
 >
-> - **Städtetrip London (3–5 Tage)** → Roami 3–5 GB, EE 5G in der Stadt, ab 1,59 $ (siehe 3-Tage-/7-Tage-Tarife unten)
-> - **Mehrere Städte: London + Edinburgh (7–10 Tage)** → Roami 10–20 GB, stabiler auf Fernzugstrecken (siehe 7-Tage-Tarife / Szenarioempfehlungen)
-> - **Roadtrip Schottische Highlands / Lake District (7–10 Tage)** → Roami 10–20 GB, wechselt zu O2/Vodafone für bessere Abdeckung (siehe Betreiberanalyse / Szenarioempfehlungen)
-> - **Geschäftsreise (3–7 Tage)** → Roami 5–10 GB, funktioniert bei Ankunft, kein Ladensuche (siehe Szenarioempfehlungen / Tarifvergleich)
-> - **Sich gar keine Gedanken um Datenverbrauch machen** → Roami Unlimited (7 Tage rabattiert 15,19 $) oder Holafly (3,90 $/Tag), Roami ist günstiger (siehe 7-Tage-Tarife)
-> - **Strengstes Budget** → Roami 1 GB/7 Tage rabattiert 2,39 $, insgesamt günstigster Preis (siehe 3-Tage-Tarife)
+> - **London Städtetrip (3–5 Tage)** → Roami 3–5GB, EE 5G in der Stadt, ab 1,59 $
+> - **Multi-City: London + Edinburgh (7–10 Tage)** → Roami 10–20GB, stabiler entlang der Fernbahn
+> - **Schottische Highlands / Lake District Roadtrip (7–10 Tage)** → Roami 10–20GB; wechselt zu O2/Vodafone für bessere ländliche Abdeckung
+> - **Geschäftsreise (3–7 Tage)** → Roami 5–10GB, live in der Minute der Landung, vor der Heathrow-SIM-Warteschlange
+> - **Knappstes Budget** → Roami 1GB über 7 Tage für 2,39 $
 
-## Drei Veränderungen auf dem UK-eSIM-Markt 2026
+## Drei UK eSIM Marktverschiebungen 2026
 
-> **Marktupdates UK-eSIM 2026**
+> **UK eSIM Markt-Updates 2026**
 >
-> - **Brexit-Roaming kehrt zurück**: Laut [Ofcom](https://www.ofcom.org.uk/) haben die großen britischen Betreiber (EE/Vodafone/Three) seit 2022 Roaminggebühren für die EU wieder eingeführt, und die meisten EU-Betreiber haben ebenfalls Gebühren für das Vereinigte Königreich eingeführt.
-> - **Lokale Karten sind sehr günstig**: MVNOs wie giffgaff und Three bieten 10–20 GB für etwa £10; Großbritannien ist eines der europäischen Länder, in denen „lokale SIMs am einfachsten zu kaufen sind“.
-> - **Die U-Bahn ist kein „Funkloch“ mehr**: Im zentralen Abschnitt der London Underground und der Elizabeth Line wurde seit 2024 schrittweise 4G/5G eingeführt, aber in den meisten tiefen Tunneln gibt es immer noch kein Signal; in den Stationen ist kostenloses WLAN verfügbar.
-> - **5G-Spitzenreiter**: Laut [Opensignal](https://www.opensignal.com/)-Daten von 2026 deckt die 5G-Verfügbarkeit von EE über 50 % der britischen Bevölkerung ab und belegt durchgängig den ersten Platz bei der Geschwindigkeit.
+> - **Brexit-Roaming kehrt zurück**: Die großen UK-Betreiber (EE/Vodafone/Three) haben Roaming-Gebühren für die EU seit 2022 wieder eingeführt, und die meisten EU-Betreiber haben ebenfalls Gebühren für das UK wieder eingeführt.
+> - **Lokale Karten sind sehr günstig**: MVNOs wie giffgaff und Three bieten 10–20GB für etwa 10 £; das UK ist eines der europäischen Länder, wo „lokale SIMs am leichtesten zu kaufen sind".
+> - **Untergrund ist kein „Signal-Schwarzes Loch" mehr**: Der Zentralabschnitt der London Underground und die Elizabeth Line haben seit 2024 schrittweise 4G/5G eingeführt, aber die meisten tiefen Tunnel haben weiterhin kein Signal; in Stationen ist Gratis-WiFi verfügbar.
+> - **5G-Führer**: Laut [Ofcoms Abdeckungsdaten](https://www.ofcom.org.uk/mobile-coverage-checker) und [Ooklas UK-Marktdaten](https://www.speedtest.net/global-index/united-kingdom) erreicht EEs 5G über die Hälfte der UK-Bevölkerung und rangiert durchgehend auf Platz eins bei Geschwindigkeit.
 >
 > *Basierend auf öffentlichen Daten Stand September 2026.*
 
-Der britische Markt ist einzigartig, weil er „Rückkehr der Roaminggebühren“ und „sehr günstige lokale Karten“ vereint. Diese drei Veränderungen bestimmen Ihre Wahl:
+Der UK-Markt ist einzigartig, weil er „Rückkehr der Roaming-Gebühren" und „sehr günstige lokale Karten" kombiniert. Diese drei Änderungen bestimmen Ihre Wahl:
 
-**1. Brexit-Roaminggebühren sind die größte Variable.** Wenn Sie aus der EU mit einer EU-Karte kommen oder nach dem UK in die EU zurückreisen möchten, haben die Betreiber auf beiden Seiten Roaminggebühren wieder eingeführt (etwa 2–3 € pro Tag oder pro MB). Eine [UK-eSIM](/united-kingdom-esim/) verbindet sich direkt mit einem lokalen Netz im Vereinigten Königreich und umgeht diese Kosten vollständig.
+**1. Brexit-Roaming-Gebühren sind die größte Variable.** Wenn Sie aus der EU mit einer EU-Karte kommen oder nach dem UK planen, in die EU zurückzukehren, haben Betreiber auf beiden Seiten Roaming-Gebühren wieder eingeführt (einige etwa 2–3 € pro Tag oder pro MB). Eine [UK eSIM](/united-kingdom-esim/) verbindet direkt mit einem lokalen UK-Netz und umgeht diese Kosten völlig.
 
-**2. Lokale Karten sind günstig, also konkurriert eSIM über „Bequemlichkeit“.** Im Vereinigten Königreich ist keine obligatorische SIM-Registrierung erforderlich, und Karten wie giffgaff/Three sind überall an Flughäfen und in Convenience-Stores erhältlich. Aber der Kauf bedeutet Anstehen, Karte einlegen und auf Aktivierung warten. Für Touristen mit 3–5 Tagen spart eine [UK-Daten-eSIM](/united-kingdom-esim/), die vor Abreise installiert und bei Ankunft bereit ist, diese halbe Stunde und den Ärger der Ladensuche – das ist oft mehr wert als ein paar Pfund Unterschied.
+**2. Lokale Karten sind günstig, also konkurriert eSIM über „Bequemlichkeit".** Das UK verlangt keine verpflichtende SIM-Registrierung, und Karten wie giffgaff/Three sind überall an Flughäfen und Convenience-Stores erhältlich. Aber den Kauf einer solchen bedeutet Warteschlange, Karten-Einstecken und Warten auf Aktivierung. Für 3–5-tägige Touristen spart eine vor der Abreise installierte und bei Ankunft bereite Karte diese halbe Stunde und den Aufwand, einen Laden zu finden – oft mehr wert als der Unterschied von ein paar Pfund.
 
-**3. U-Bahn und ländliche Gebiete sind Abdeckungsschwächen.** In den tiefen Tunneln der London Underground gibt es kein Signal, und in den schottischen Highlands und dem Lake District gibt es Abdeckungslücken – das sind einzigartige britische Problemstellen. Eine eSIM mit automatischem Multinetzwerk-Wechsel kann selbstständig das beste Signal unter EE, O2, Vodafone und Three auswählen und ist damit zuverlässiger als ein einzelnes Netz.
+**3. Untergrund und ländliche Gebiete sind Abdeckungsschwächen.** Tiefe Londoner U-Bahn-Tunnel haben kein Signal, und die schottischen Highlands und der Lake District haben Abdeckungslücken – das sind einzigartige UK-Schmerzpunkte. Eine eSIM mit Mehrnetz-automatischem Wechsel kann automatisch das beste Signal zwischen EE, O2, Vodafone und Three wählen und ist damit zuverlässlicher als ein Einzelnetz.
 
-## Die vier Netze Großbritanniens im Vergleich
+## Die vier UK-Netze im Vergleich
 
-> Großbritannien ist ein „Big-Four“-Markt, zusammen mit zahlreichen preisgünstigen MVNOs (giffgaff, VOXI, Tesco Mobile). Reise-eSIMs verbinden sich normalerweise automatisch oder manuell mit EE, O2, Vodafone oder Three.
+> Das UK ist ein „Big Four"-Markt, zusammen mit zahlreichen Budget-MVNOs (giffgaff, VOXI, Tesco Mobile). Reise-eSIMs verbinden normalerweise automatisch oder manuell mit EE, O2, Vodafone oder Three.
 
-### Die vier britischen Netze: Kerndaten auf einen Blick
+### Vier UK-Netze: Kernkader auf einen Blick
 
 | Kennzahl | EE | O2 | Vodafone | Three |
 |------|-----|-----|---------|-------|
-| Teilnehmer | ~25 Mio. | ~34 Mio. | ~18 Mio. | ~10 Mio. |
+| Nutzer | ~25 Millionen | ~34 Millionen | ~18 Millionen | ~10 Millionen |
 | 5G-Bevölkerungsabdeckung | **50 %+** | 45 %+ | 45 %+ | 40 %+ |
-| Durchschn. Download-Geschwindigkeit | **Am schnellsten** | Mittel | Mittel-Hoch | Mittel |
-| Am besten geeignet für | Stadtgeschwindigkeit | Ländliche/Innenraumabdeckung | Ausgewogen | Budget, großes Datenvolumen |
+| Ø Download-Geschwindigkeit | **Am schnellsten** | Mittel | Mittel–Hoch | Mittel |
+| Am besten für | Stadt-Tempo | Ländlich/Innenabdeckung | Ausgewogen | Budget, hohe Daten |
 
-*Quellen: [Ofcom](https://www.ofcom.org.uk/) / [Opensignal](https://www.opensignal.com/), Stand September 2026.*
+*Quellen: Ofcoms Abdeckungsprüfer / Ookla Speedtest Global Index, Stand September 2026.*
 
-### Jedes britische Netz im Detail
+### Jedes UK-Netz erklärt
 
-- **EE – „Geschwindigkeitskönig“**: Großbritanniens breiteste Abdeckung und schnellstes 5G, am besten in Städten und auf Hauptstraßen. **⚠️ Schwäche**: Ländliche Gebiete und Teile der schottischen Highlands haben durchschnittliche Abdeckung.
+- **EE — „Speed-König"**: Weiteste Abdeckung und schnellstes 5G des UK, bestes in Städten und auf Hauptstraßen. **⚠️ Schwäche**: Ländliche Gebiete und Teile der schottischen Highlands haben durchschnittliche Abdeckung.
 
-- **O2 – „König der ländlichen/Innenraumabdeckung“**: O2 hat den besten Ruf für ländliche Abdeckung und Eindringung in Gebäude, besonders in Schottland und im Lake District. **⚠️ Schwäche**: Städtische Spitzengeschwindigkeiten sind niedriger als bei EE.
+- **O2 — „Ländlich/Innen-König"**: O2 hat den besten Ruf für ländliche Abdeckung und Innen-Durchdringung, besonders in Schottland und dem Lake District. **⚠️ Schwäche**: Stadt-Spitzen-Geschwindigkeiten sind niedriger als bei EE.
 
-- **Vodafone – „Ausgewogene Wahl“**: Funktioniert gut in Städten und ländlichen Gebieten, mit umfangreicher internationaler Roaming-Erfahrung – wird oft von Reise-eSIMs genutzt. **⚠️ Schwäche**: Ein „zweiter Platz“ in jeder Kategorie, kein herausragendes Merkmal.
+- **Vodafone — die verlässliche Mitte**: Stark in Städten und respektabel auf dem Land, und seine Roaming-Abkommen machen es zu einem gängigen Partner für Reise-eSIMs. **⚠️ Schwäche**: Es führt selten eine Kategorie an – keine Speed-Krone, keine Ländlich-Krone.
 
-- **Three – „Großes Datenvolumen, niedriger Preis“**: Schnell wachsende 5G-Abdeckung, aggressive Preise – gut für preisbewusste Nutzer. **⚠️ Schwäche**: Schwächeres Signal in ländlichen Gebieten und in der U-Bahn.
+- **Three — „Hohe Daten, niedriger Preis"**: Schnell wachsendes 5G, aggressive Preise – gut für budgetbewusste Nutzer. **⚠️ Schwäche**: Schwächeres ländliches und Untergrund-Signal.
 
-### Abdeckungstests in großen britischen Städten
+### Abdeckungstests in wichtigen UK-Städten
 
-| Zielort | Abdeckungsqualität | Geschwindigkeit | Bestes Netz |
+| Ziel | Abdeckungsqualität | Geschwindigkeit | Bestes Netz |
 |--------|---------|------|---------|
-| London (Stadtzentrum) | Ausgezeichnet | 5G, 100–500 Mbit/s | EE |
-| Edinburgh | Ausgezeichnet | 5G, 80–300 Mbit/s | EE / Vodafone |
-| London Underground (tiefe Linien) | Schlecht (kein Signal) | Nur WLAN in Stationen | — |
-| Lake District (Windermere) | Gut-durchschnittlich | 4G, 20–60 Mbit/s | O2 / Vodafone |
-| Schottische Highlands | Durchschnittlich (mit Lücken) | 4G, 10–40 Mbit/s | **O2 / Vodafone** |
+| London (Stadtzentrum) | Hervorragend | 5G, 100–500 MBit/s | EE |
+| Edinburgh | Hervorragend | 5G, 80–300 MBit/s | EE / Vodafone |
+| London Underground (tiefe Linien) | Schlecht (kein Signal) | Nur Stations-WiFi | — |
+| Lake District (Windermere) | Gut–Durchschnitt | 4G, 20–60 MBit/s | O2 / Vodafone |
+| Schottische Highlands | Durchschnitt (mit Lücken) | 4G, 10–40 MBit/s | **O2 / Vodafone** |
 
 > **Wichtiger Rat**
 >
-> Wählen Sie eine UK-eSIM, die **automatischen Multinetzwerk-Wechsel** unterstützt (wie Roami). Je nach Standort wählt sie automatisch das stärkste Netz unter EE, O2, Vodafone und Three – in der Londoner Innenstadt das schnelle 5G von EE und in den schottischen Highlands den Wechsel zu O2/Vodafone. eSIMs mit nur einem Netz können im Lake District oder bei Highland-Roadtrips in Funklöcher geraten. [UK-eSIM mit Multinetzwerk-Wechsel anzeigen →](/united-kingdom-esim/)
+> Wählen Sie eine UK eSIM, die zwischen Netzen springen kann (Roami macht das automatisch). In der Praxis hält sie EEs 5G in zentralem London und fällt auf O2 oder Vodafone zurück, sobald Sie Glasgow hinter sich haben – der Streckenabschnitt, wo Einzelnetz-eSIMs dazu neigen, ganz auszufallen.
 
-## Vergleich der UK-eSIM-Marken: Preise & Netze
+## UK eSIM Marken verglichen: Preise & Netze
 
-> ⚠️ **Wichtiger Hinweis für Großbritannien**: Alle drei Marken bieten **reine Daten-eSIMs, ohne britische Telefonnummer**. Nutzen Sie Apps wie Uber oder Lieferdienste mit In-App-Nachrichten; eine lokale Nummer ist nicht erforderlich. Wenn Sie eine britische Nummer benötigen (für Rückrufe von Restaurants, App-Verifizierungen), kombinieren Sie sie mit einer VoIP-Lösung.
+> ⚠️ **Wert, vor dem Kauf zu wissen**: Jede hier genannte UK eSIM ist rein datenbasiert, also ist keine UK-Nummer angehängt. Uber und Deliveroo funktionieren gut über In-App-Nachrichten, aber alles, das Sie zurückruft – ein Restaurant, eine Bank, ein Vermieter – braucht eine VoIP-Nummer, die Sie im Voraus einrichten.
 
-### Die Marken im Überblick
+### Die Marken auf einen Blick
 
-| Marke | Trustpilot-Bewertung | Kernpositionierung | Netzzugang | 5G | Hotspot | UK-Telefonnummer |
+| Marke | Trustpilot-Bewertung | Kernpositionierung | Netzzugang | 5G | Hotspot | UK Telefonnummer |
 |------|----------------|---------|---------|-----|------|-----------|
-| **Airalo** | 4.2 | Größte Plattform, feinste Tarifstufen | EE / O2 | Teilweise | Unterstützt | ❌ |
-| **Holafly** | 4.3 | Reines Unlimited-Daten | EE | Unterstützt | 1 GB/Tag Begrenzung | ❌ |
-| **Roami** | 4.9 | Multinetzwerk-Automatikwechsel, bestes Preis-Leistungs-Verhältnis | EE / O2 / Vodafone / Three | Voll | Unbegrenzt | ❌ |
+| **Airalo** | 3,9 | Weltweit größte Plattform, feinste Tarifstufen | EE / O2 | Teilweise | Unterstützt | ❌ |
+| **Holafly** | 4,6 | Reines Unlimited-Daten | EE / O2 / Vodafone / Three | Unterstützt | 1GB Tageslimit | ❌ |
+| **Roami** | 4,9 | Mehrnetz-Auto-Wechsel, bestes Preis-Leistungs-Verhältnis | EE / O2 / Vodafone / Three | Voll | Unlimited | ❌ |
 
 > **Kurze Unterschiede**
 >
-> - **Airalo UK-eSIM**: Größte Plattform, feinste Tarifstufen mit festem Datenvolumen plus Unlimited-Optionen, verbindet mit EE / O2. Transparente Preise, Hotspot-Unterstützung, **keine britische Telefonnummer**. Gut für alle, die „Unlimited“ mit mittlerem Budget wünschen.
-> - **Holafly UK-eSIM**: Die einzige Marke mit reinem Unlimited-Datenvolumen, Preis 3,90 $/Tag, verbindet mit EE 5G. Keine GB-Begrenzung, aber **Hotspot ist auf 1 GB/Tag begrenzt**, hohe langfristige Kosten, **keine britische Telefonnummer**. Geeignet für Vielnutzer, denen die Kosten egal sind.
-> - **Roami UK-eSIM**: Multinetzwerk-Automatikwechsel (EE / O2 / Vodafone / Three), volles 5G, unbegrenzter Hotspot, insgesamt niedrigster Preis, **keine britische Telefonnummer**. Verwenden Sie den Rabattcode **WEB20** für 20 % Rabatt. [Roami UK-eSIM-Tarife anzeigen](/united-kingdom-esim/)
+> - **Airalo UK eSIM**: Weltweit größte Plattform, feinste feste Datentarife plus Unlimited-Optionen, verbindet mit EE / O2. Transparente Preise, unterstützt Hotspot, **keine UK-Telefonnummer**. Gut für die, die „Unlimited" mit mittlerem Budget wollen.
+> - **Holafly UK eSIM**: nur Unlimited, ab 3,97 $/Tag, auf allen vier UK-Netzen. Kein Datenlimit, aber Tethering ist auf 1GB/Tag begrenzt und ein Monat kostet mehr als jeder feste Tarif hier. **Keine UK-Nummer.** Am besten für Menschen, die wirklich den ganzen Tag streamen.
+> - **Roami UK eSIM**: wechselt automatisch zwischen EE / O2 / Vodafone / Three, volles 5G, uneingeschränkter Hotspot und der niedrigste Listenpreis der drei. **Keine UK-Nummer.** Der Code **WEB20** spart 20 %. [Roami UK eSIM Tarife ansehen](/united-kingdom-esim/)
 
-### Vollständige Preisliste Airalo UK-eSIM
+### Airalo UK eSIM vollständige Preisliste
+
+Airalos UK-Produkt ist unter **„Uki"** markiert und fährt auf **EE**, dem Netz, das UK-Speed-Tests anführt.
 
 **Unlimited-Tarife**
 
@@ -183,357 +184,367 @@ Der britische Markt ist einzigartig, weil er „Rückkehr der Roaminggebühren�
 | 15 Tage | 48,00 $ | 3,20 $/Tag |
 | 30 Tage | 69,00 $ | 2,30 $/Tag |
 
-**Tarife mit festem Datenvolumen**
+**Feste Daten-Tarife**
 
-| Tage | Datenvolumen | Preis |
+| Tage | Datentarif | Preis |
 |------|--------|------|
-| 3 Tage | 1 GB / 3 GB | 4,00 $ / 8,50 $ |
-| 7 Tage | 3 GB / 5 GB / 10 GB | 9,00 $ / 12,00 $ / 18,00 $ |
-| 15 Tage | 5 GB / 10 GB / 20 GB | 12,50 $ / 18,50 $ / 30,00 $ |
-| 30 Tage | 5 GB / 10 GB / 20 GB / 50 GB | 13,00 $ / 19,00 $ / 31,00 $ / 39,00 $ |
+| 3 Tage | 1GB / 3GB | 4,00 $ / 8,50 $ |
+| 7 Tage | 3GB / 5GB / 10GB | 9,00 $ / 12,00 $ / 18,00 $ |
+| 15 Tage | 5GB / 10GB / 20GB | 12,50 $ / 18,50 $ / 30,00 $ |
+| 30 Tage | 5GB / 10GB / 20GB / 50GB | 13,00 $ / 19,00 $ / 31,00 $ / 39,00 $ |
 
-> ⚠️ **Airalo UK-Risikohinweis**: Tarife mit festem Datenvolumen sind relativ teuer (7 Tage 10 GB für 1,80 $/GB), mehr als doppelt so teuer wie das Roami-Äquivalent; der 7-Tage-Unlimited für 27 $ bietet für Kurztrips einen durchschnittlichen Wert.
+> ⚠️ **Airalo UK Achtung**: Die festen Tarife sind pro Gigabyte teuer – 10GB über 7 Tage arbeiten sich auf nahe 1,80 $/GB, etwa doppelt so viel wie Roamis Äquivalent – und die 27 $ für sieben Tage Unlimited sind für einen kurzen London-Trip unspektakulär.
 
-### Vollständige Preisliste Holafly UK-eSIM
+### Holafly UK eSIM vollständige Preisliste
 
-Holafly UK bietet **nur Unlimited-Daten**, Preis pro Tag:
+Holafly UK bietet **nur Unlimited-Daten**, tageweise abgerechnet:
 
 | Tage | Preis | Tageskosten |
 |------|------|---------|
-| 3 Tage | 11,70 $ | 3,90 $/Tag |
-| 7 Tage | 27,30 $ | 3,90 $/Tag |
-| 15 Tage | 58,50 $ | 3,90 $/Tag |
-| 30 Tage | 117,00 $ | 3,90 $/Tag |
+| 3 Tage | 11,90 $ | 3,97 $/Tag |
+| 7 Tage | 27,50 $ | 3,93 $/Tag |
+| 10 Tage | 36,50 $ | 3,65 $/Tag |
+| 30 Tage | 73,90 $ | 2,46 $/Tag |
 
-> ⚠️ **Holafly UK-Risikohinweis**: Keine Tarife mit festem Volumen; 3 Tage kosten 11,70 $, fast doppelt so viel wie Roami 3 Tage 10 GB (6,39 $). **Hotspot ist auf 1 GB/Tag begrenzt**, daher ist die gemeinsame Nutzung oder Verbindung eines Tablets eingeschränkt. Die Tagespreise machen die langfristigen Kosten am höchsten.
+> Drei Tage tragen den steilsten Tagessatz bei 3,97 $; derselbe Tarif über einen Monat verteilt fällt auf 2,46 $ am Tag.
 
-### Vollständige Preisliste Roami UK-eSIM
+> ⚠️ **Holafly UK Achtung**: Es gibt gar keine Festdaten-Option, weshalb ein dreitägiger Städtetrip bei 11,90 $ beginnt – nahe doppelt so viel wie Roamis 3-Tage-10GB. Tethering ist auf 1GB/Tag begrenzt, was das Füttern eines Tablets oder eines zweiten Handys ausschließt.
 
-Roami UK bietet sowohl Tarife mit festem Datenvolumen als auch Unlimited. Rabattierter Preis = Listenpreis × 0,8 (Code WEB20):
+### Roami UK eSIM vollständige Preisliste
 
-| Tage | Datenvolumen | Listenpreis | Rabattierter Preis | Tageskosten |
+Roami UK bietet sowohl Festdaten- als auch Unlimited-Tarife. Rabattpreis = Listenpreis × 0,8 (Code WEB20):
+
+| Tage | Datentarif | Listenpreis | Rabattpreis | Tageskosten |
 |------|--------|---------|--------|---------|
-| 3 Tage | 1 GB / 3 GB / 5 GB / 10 GB / Unlimited | 1,99 $ / 3,99 $ / 5,99 $ / 7,99 $ / 8,99 $ | **1,59 $ / 3,19 $ / 4,79 $ / 6,39 $ / 7,19 $** | 0,53–2,40 $/Tag |
-| 7 Tage | 1 GB / 3 GB / 5 GB / 10 GB / 20 GB / Unlimited | 2,99 $ / 4,99 $ / 6,99 $ / 9,99 $ / 15,99 $ / 18,99 $ | **2,39 $ / 3,99 $ / 5,59 $ / 7,99 $ / 12,79 $ / 15,19 $** | 0,34–2,17 $/Tag |
-| 15 Tage | 3 GB / 5 GB / 10 GB / 20 GB / 30 GB / Unlimited | 5,99 $ / 7,99 $ / 12,99 $ / 17,99 $ / 25,99 $ / 36,99 $ | **4,79 $ / 6,39 $ / 10,39 $ / 14,39 $ / 20,79 $ / 29,59 $** | 0,32–1,97 $/Tag |
-| 30 Tage | 3 GB / 5 GB / 10 GB / 20 GB / 30 GB / 50 GB / Unlimited | 6,99 $ / 9,99 $ / 14,99 $ / 18,99 $ / 29,99 $ / 37,99 $ / 41,99 $ | **5,59 $ / 7,99 $ / 11,99 $ / 15,19 $ / 23,99 $ / 30,39 $ / 33,59 $** | 0,19–1,12 $/Tag |
+| 3 Tage | 1GB / 3GB / 5GB / 10GB / Unlimited | 1,99 $ / 3,99 $ / 5,99 $ / 7,99 $ / 8,99 $ | **1,59 $ / 3,19 $ / 4,79 $ / 6,39 $ / 7,19 $** | 0,53–2,40 $/Tag |
+| 7 Tage | 1GB / 3GB / 5GB / 10GB / 20GB / Unlimited | 2,99 $ / 4,99 $ / 6,99 $ / 9,99 $ / 15,99 $ / 18,99 $ | **2,39 $ / 3,99 $ / 5,59 $ / 7,99 $ / 12,79 $ / 15,19 $** | 0,34–2,17 $/Tag |
+| 15 Tage | 3GB / 5GB / 10GB / 20GB / 30GB / Unlimited | 5,99 $ / 7,99 $ / 12,99 $ / 17,99 $ / 25,99 $ / 36,99 $ | **4,79 $ / 6,39 $ / 10,39 $ / 14,39 $ / 20,79 $ / 29,59 $** | 0,32–1,97 $/Tag |
+| 30 Tage | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB / Unlimited | 6,99 $ / 9,99 $ / 14,99 $ / 18,99 $ / 29,99 $ / 37,99 $ / 41,99 $ | **5,59 $ / 7,99 $ / 11,99 $ / 15,19 $ / 23,99 $ / 30,39 $ / 33,59 $** | 0,19–1,12 $/Tag |
 
-> ⚠️ **Roami UK-Risikohinweis**: Der Unlimited-Tarif ist etwas teurer als die 20-GB-/50-GB-Optionen (Differenz 2,40–3,20 $), nur für Vielnutzer notwendig. Ansonsten haben die Festvolumentarife den niedrigsten Stückpreis insgesamt und sind für die meisten Reisen kostengünstiger.
+> ⚠️ **Roami UK Risiko-Hinweis**: Der Unlimited-Tarif ist etwas teurer als die 20GB/50GB-Optionen (Differenz von 2,40–3,20 $), nur für Vielnutzer nötig. Ansonsten haben die festen Tarife den niedrigsten Stückpreis insgesamt und sind für die meisten Reisen kosteneffizienter.
 
 ### Was die Preise tatsächlich bedeuten
 
-**Der Preis pro GB sinkt erheblich, je höher das Volumen.** Beispiel: Roami 30-Tage-Tarife:
+**Preis pro GB sinkt deutlich, je höher die Stufe.** Beispiel: Roami 30-Tage-Tarife:
 
-| Datenvolumen | Rabattierter Preis | Preis pro GB |
+| Datentarif | Rabattpreis | Preis pro GB |
 |--------|--------|-----------|
-| 5 GB | 7,99 $ | 1,60 $/GB |
-| 10 GB | 11,99 $ | 1,20 $/GB |
-| 20 GB | 15,19 $ | 0,76 $/GB |
-| 50 GB | 30,39 $ | **0,61 $/GB** |
+| 5GB | 7,99 $ | 1,60 $/GB |
+| 10GB | 11,99 $ | 1,20 $/GB |
+| 20GB | 15,19 $ | 0,76 $/GB |
+| 50GB | 30,39 $ | **0,61 $/GB** |
 
-Der Preis pro GB bei 50 GB beträgt nur ein Drittel des Preises bei 5 GB. **Fazit: Wenn Sie Ihren Verbrauch abschätzen können, spart der Kauf eines größeren Volumens mehr Geld.**
+Der 50GB-Tarif kostet etwa ein Drittel pro Gigabyte des 5GB-Tarifs. **Den groben Verbrauch zu kennen und eine Stufe höher zu kaufen, ist fast immer die günstigere Route.**
 
-**Die „Kipppunkt“-Schwelle für Unlimited-Daten.** Roami UK bietet Unlimited-Tarife; vergleichen Sie mit Festvolumentarifen für denselben Zeitraum:
+**Der „Kipppunkt" für Unlimited-Daten.** Roami UK bietet Unlimited-Stufen; Vergleich mit Festtarifen gleicher Dauer:
 
-| Tarif | Preis | Lohnt es sich? |
+| Tarif | Preis | Lohnt sich? |
 |------|------|--------|
-| Roami 7 Tage 20 GB rabattiert | 12,79 $ | Am besten bei täglichem Verbrauch ≤ 2,86 GB |
-| Roami 7 Tage Unlimited rabattiert | 15,19 $ | Lohnt nur bei täglichem Verbrauch > 2,86 GB |
-| Roami 30 Tage 50 GB rabattiert | 30,39 $ | Am besten bei täglichem Verbrauch ≤ 1,67 GB |
-| Roami 30 Tage Unlimited rabattiert | 33,59 $ | Lohnt nur bei täglichem Verbrauch > 1,67 GB |
+| Roami 7-Tage 20GB rabattiert | 12,79 $ | Am besten bei Tagesverbrauch ≤2,86GB |
+| Roami 7-Tage Unlimited rabattiert | 15,19 $ | Lohnt sich nur bei Tagesverbrauch >2,86GB |
+| Roami 30-Tage 50GB rabattiert | 30,39 $ | Am besten bei Tagesverbrauch ≤1,67GB |
+| Roami 30-Tage Unlimited rabattiert | 33,59 $ | Lohnt sich nur bei Tagesverbrauch >1,67GB |
 
-**Unlimited-Kipppunkt = täglicher Verbrauch > 2,86 GB (7 Tage) oder > 1,67 GB (30 Tage)**. Wenn Sie nicht täglich fast 3 GB Kurzvideos streamen, lohnt sich Unlimited nicht. Bei den meisten UK-Reisen geht es um Besichtigungen, U-Bahn-Fahren und Fotografieren – 10–20 GB Festvolumen reichen normalerweise aus. **Zahlen Sie nicht extra nur für das Wort „Unlimited“.**
+**Der Kipppunkt liegt bei 2,86GB/Tag bei einem 7-Tage-Tarif oder 1,67GB/Tag über 30 Tage.** Sie müssen nahe 3GB kurzes Video jeden Tag streamen, bevor Unlimited seinen Preis verdient. Eine normale UK-Reise – Sightseeing, Tube-Routing, Fotos – räumt das selten, weshalb **10–20GB fester Daten normalerweise die Aufgabe erfüllen; lassen Sie den Aufpreis für das Wort „Unlimited" weg.**
 
-**Was können Sie mit dem gesparten Geld tun?** Rechnen Sie die Preisdifferenz zwischen Roami (rabattiert) und den Wettbewerbern in Reiseausgaben um:
+**Was können Sie mit dem gesparten Geld tun?** Wandeln Sie die Preisdifferenz zwischen Roami (rabattiert) und Konkurrenten in Reiseausgaben um:
 
-| Reise | Roami rabattiert vs. Wettbewerber | Ersparnis | Entspricht |
+| Reise | Roami rabattiert vs Konkurrent | Gespart | Entspricht |
 |------|-------------------|------|--------|
-| 7 Tage 10 GB | 7,99 $ vs. Airalo 18,00 $ | 10,01 $ | Volles englisches Frühstück + zwei Kaffees |
-| 7 Tage Unlimited | 15,19 $ vs. Holafly 27,30 $ | 12,11 $ | Ein London Eye-Ticket |
-| 15 Tage 20 GB | 14,39 $ vs. Airalo 30,00 $ | 15,61 $ | Ein gutes Abendessen |
-| 30 Tage Unlimited | 33,59 $ vs. Holafly 117,00 $ | 83,41 $ | Eine Nacht in einem günstigen Londoner Hotel |
+| 7 Tage 10GB | 7,99 $ vs Airalo 18,00 $ | 10,01 $ | Vollständiges englisches Frühstück + zwei Kaffees |
+| 7 Tage Unlimited | 15,19 $ vs Holafly 27,50 $ | 12,31 $ | Ein klassisches Pub-Mittagessen |
+| 15 Tage 20GB | 14,39 $ vs Airalo 30,00 $ | 15,61 $ | Ein schönes Abendessen |
+| 30 Tage Unlimited | 33,59 $ vs Holafly 73,90 $ | 40,31 $ | Ein schönes Abendessen zu zweit in zentralem London |
 
-## Die günstigste 3-Tage-UK-eSIM
+## Die günstigste 3-Tage UK eSIM
 
-Für einen kurzen 3-Tage-Trip (Wochenendausflug / Zwischenstopp / Geschäft) zählt der Einstiegspreis am meisten.
+Für einen 3-tägigen Kurztrip (Wochenendausflug / Zwischenstopp / Geschäftsreise) zählt der Startpreis am meisten.
 
-| Daten | Airalo | Holafly | Roami (rabattiert) | Preis-Leistungs-Sieger |
+| Daten | Airalo | Holafly | Roami (Rabatt) | Wert-Sieger |
 |------|--------|---------|---------------|-----------|
-| 1 GB | 4,00 $ | — | **1,59 $** | **Roami** |
-| 3 GB | 8,50 $ | — | **3,19 $** | **Roami** |
-| 5 GB | — | — | **4,79 $** | **Roami** |
-| 10 GB | — | — | **6,39 $** | **Roami** |
-| Unlimited | 11,50 $ | 11,70 $ | **7,19 $** | **Roami** |
+| 1GB | 4,00 $ | — | **1,59 $** | **Roami** |
+| 3GB | 8,50 $ | — | **3,19 $** | **Roami** |
+| 5GB | — | — | **4,79 $** | **Roami** |
+| 10GB | — | — | **6,39 $** | **Roami** |
+| Unlimited | 11,50 $ | 11,90 $ | **7,19 $** | **Roami** |
 
-**Entscheidung für 3 Tage**: Roami 3 Tage 3 GB rabattiert für 3,19 $ ist 62 % günstiger als das Airalo-Äquivalent (8,50 $); Roami 3 Tage Unlimited (7,19 $) ist 39 % günstiger als Holafly (11,70 $). Roami gewinnt bei 3-Tage-Reisen in allen Kategorien, einschließlich Unlimited.
+**3-Tage-Entscheidung**: Bei einem Wochenendausflug gewinnt Roami jede Zeile – 3GB für 3,19 $ liegt 62 % unter Airalos gleicher Stufe (8,50 $), und sein Unlimited für 7,19 $ unterbietet Holaflys 11,90 $ um 40 %.
 
-> **💡 Preiswert-Einblick für 3 Tage**: Für eine 3-tägige London-Reise mit Navigation, WhatsApp-Texten und U-Bahn-Routenprüfung reichen 1–3 GB. Roami 3 Tage 3 GB rabattiert für 3,19 $ kostet nur etwas über 1 $ pro Tag für volle Konnektivität – günstiger als eine Oyster-Card am Flughafen. [UK-eSIM 3-Tage-Tarife anzeigen](/united-kingdom-esim/)
+> **💡 3-Tage Preis-Wert-Erkenntnis**: Drei Tage Tube-Routing, Kartensuche und WhatsApp sind eine 1–3GB-Aufgabe. Roamis 3GB für 3,19 $ ergeben knapp über 1 $ pro Tag, weniger als eine einzelne Spitzen-Oyster-Fahrt in Zone 1.
 
-## 7-Tage-UK-eSIM: Bestes Preis-Leistungs-Verhältnis
+## 7-Tage UK eSIM: Das beste Preis-Leistungs-Verhältnis
 
-7 Tage ist die häufigste Reisedauer (London + Umgebung oder kurzer Edinburgh-Besuch).
+7 Tage ist die häufigste Reiselänge (London + Umgebung, oder ein kurzer Edinburgh-Besuch).
 
-| Daten | Airalo | Holafly | Roami (rabattiert) | Preis-Leistungs-Sieger |
+| Daten | Airalo | Holafly | Roami (Rabatt) | Wert-Sieger |
 |------|--------|---------|---------------|-----------|
-| 1 GB | — | — | **2,39 $** | **Roami** |
-| 3 GB | 9,00 $ | — | **3,99 $** | **Roami** |
-| 5 GB | 12,00 $ | — | **5,59 $** | **Roami** |
-| 10 GB | 18,00 $ | — | **7,99 $** | **Roami** |
-| 20 GB | — | — | **12,79 $** | **Roami** |
-| Unlimited | 27,00 $ | 27,30 $ | **15,19 $** | **Roami** |
+| 1GB | — | — | **2,39 $** | **Roami** |
+| 3GB | 9,00 $ | — | **3,99 $** | **Roami** |
+| 5GB | 12,00 $ | — | **5,59 $** | **Roami** |
+| 10GB | 18,00 $ | — | **7,99 $** | **Roami** |
+| 20GB | — | — | **12,79 $** | **Roami** |
+| Unlimited | 27,00 $ | 27,50 $ | **15,19 $** | **Roami** |
 
-**Entscheidung für 7 Tage**: Roami 7 Tage 10 GB rabattiert für 7,99 $ ist 56 % günstiger als das Airalo-Äquivalent (18,00 $) und 71 % günstiger als der Unlimited-Tarif von Holafly (27,30 $). Sogar Roamis Unlimited (15,19 $) ist 44 % günstiger als Holafly.
+**7-Tage-Urteil**: Eine Roami 10GB-Woche für 7,99 $ liegt 56 % unter Airalos 10GB (18,00 $) und 71 % unter Holaflys Unlimited (27,50 $); selbst Roamis eigenes 15,19 $-Unlimited schlägt Holafly um 45 %.
 
-> **💡 Preiswert-Einblick für 7 Tage**: 7 Tage 10 GB entsprechen durchschnittlich 1,43 GB/Tag – genug für 1 Stunde Kurzvideos, ganztägige Navigation und ausgiebige WhatsApp-Nachrichten. Roami rabattiert für 7,99 $ ergibt 0,80 $/GB, der niedrigste Marktpreis. Wenn Sie nicht täglich über 2 Stunden HD-Video streamen, ist Roami 20 GB (12,79 $) besser als Unlimited (15,19 $).
+> **💡 7-Tage Preis-Wert-Erkenntnis**: Eine 10GB-Woche ergibt 1,43GB am Tag – genug für eine Stunde kurzes Video plus Karten und Messaging den ganzen Tag. Bei 7,99 $ sind das 0,80 $/GB. Wenn Sie nicht zwei Stunden HD täglich streamen, schlägt Roamis 20GB für 12,79 $ die Zahlung von 15,19 $ für Unlimited.
 
-## 15-Tage-UK-eSIM: Halbmonatstarife
+## 15-Tage UK eSIM: Halbmonats-Tarife
 
-15 Tage eignen sich für eine ausführliche „England + Schottland“-Rundreise.
+15 Tage passt zu einer intensiven „England + Schottland"-Tour.
 
-| Daten | Airalo | Holafly | Roami (rabattiert) | Preis-Leistungs-Sieger |
+| Daten | Airalo | Holafly | Roami (Rabatt) | Wert-Sieger |
 |------|--------|---------|---------------|-----------|
-| 5 GB | 12,50 $ | — | **6,39 $** | **Roami** |
-| 10 GB | 18,50 $ | — | **10,39 $** | **Roami** |
-| 20 GB | 30,00 $ | — | **14,39 $** | **Roami** |
-| 30 GB | — | — | **20,79 $** | **Roami** |
-| Unlimited | 48,00 $ | 58,50 $ | **29,59 $** | **Roami** |
+| 5GB | 12,50 $ | — | **6,39 $** | **Roami** |
+| 10GB | 18,50 $ | — | **10,39 $** | **Roami** |
+| 20GB | 30,00 $ | — | **14,39 $** | **Roami** |
+| 30GB | — | — | **20,79 $** | **Roami** |
+| Unlimited | 48,00 $ | 50,50 $ | **29,59 $** | **Roami** |
 
-**Entscheidung für 15 Tage**: Roami 15 Tage 20 GB rabattiert für 14,39 $ ist 52 % günstiger als das Airalo-Äquivalent (30,00 $) und 75 % günstiger als Holafly (58,50 $). Roamis Unlimited (29,59 $) kostet weniger als die Hälfte des Preises von Holafly (58,50 $).
+**15-Tage-Entscheidung**: Roamis 20GB-Fortnight für 14,39 $ liegt 52 % unter Airalos gleicher Stufe (30,00 $) und 72 % unter Holafly (50,50 $); sein Unlimited für 29,59 $ schlägt Holafly immer noch um 41 %.
 
-> **💡 Preiswert-Einblick für 15 Tage**: 15 Tage 20 GB entsprechen durchschnittlich 1,33 GB/Tag – ideal für „tägliche Navigation + soziale Medien + gelegentliches Videostreaming“. Roami rabattiert für 14,39 $ ergibt 0,72 $/GB, während Holafly 15 Tage für 58,50 $ das 4-fache des Roami-20-GB-Preises beträgt. Die gesparten 44 $ könnten zwei Nächte in einem anständigen Hostel finanzieren.
+> **💡 15-Tage Preis-Wert-Erkenntnis**: 20GB über eine Fortnight sind 1,33GB am Tag – bequem für Karten, Social und das ein oder andere gestreamte Match. Roamis 14,39 $ setzen es bei 0,72 $/GB an, während Holaflys 50,50 $ für denselben Zeitraum mehr als das Dreifache sind; die Differenz ist eine Nacht in einem ordentlichen Hostel.
 
-## 30-Tage-UK-eSIM: Monatstarife
+## 30-Tage UK eSIM: Monatstarife
 
-30 Tage entsprechen Langzeitaufenthalten, kurzfristiger Arbeit oder Studienorientierung.
+30 Tage entspricht Langaufenthalten, kurzfristiger Arbeit oder Studienanfang.
 
-| Daten | Airalo | Holafly | Roami (rabattiert) | Preis-Leistungs-Sieger |
+| Daten | Airalo | Holafly | Roami (Rabatt) | Wert-Sieger |
 |------|--------|---------|---------------|-----------|
-| 5 GB | 13,00 $ | — | **7,99 $** | **Roami** |
-| 10 GB | 19,00 $ | — | **11,99 $** | **Roami** |
-| 20 GB | 31,00 $ | — | **15,19 $** | **Roami** |
-| 30 GB | — | — | **23,99 $** | **Roami** |
-| 50 GB | 39,00 $ | — | **30,39 $** | **Roami** |
-| Unlimited | 69,00 $ | 117,00 $ | **33,59 $** | **Roami** |
+| 5GB | 13,00 $ | — | **7,99 $** | **Roami** |
+| 10GB | 19,00 $ | — | **11,99 $** | **Roami** |
+| 20GB | 31,00 $ | — | **15,19 $** | **Roami** |
+| 30GB | — | — | **23,99 $** | **Roami** |
+| 50GB | 39,00 $ | — | **30,39 $** | **Roami** |
+| Unlimited | 69,00 $ | 73,90 $ | **33,59 $** | **Roami** |
 
-**Entscheidung für 30 Tage**: Roami 30 Tage 50 GB rabattiert für 30,39 $ ist 22 % günstiger als das Airalo-Äquivalent (39,00 $); Roami 30 Tage Unlimited (33,59 $) ist 71 % günstiger als Holafly (117,00 $). Der 50-GB-Tarif hat mit 0,61 $ den niedrigsten Preis pro GB auf dem Markt.
+**30-Tage-Urteil**: Roamis 50GB-Monat für 30,39 $ liegt 22 % unter Airalos Äquivalent (39,00 $), und Roamis Unlimited für 33,59 $ schlägt Holafly (73,90 $) um 55 %. Bei 0,61 $/GB ist die 50GB-Stufe das günstigste pro Gigabyte auf der Seite.
 
-> **💡 Preiswert-Einblick für 30 Tage**: Für einen monatlichen Aufenthalt wird der [Wert der UK-eSIM](/united-kingdom-esim/) deutlich – Roami 50 GB für 0,61 $/GB, durchschnittlich 1,67 GB/Tag. Holafly 30 Tage für 117 $ ist das 3,5-fache von Roamis Unlimited (33,59 $), mit einer Differenz von 83 $ – genug für eine Nacht in einem günstigen Londoner Hotel. Wenn Sie nicht täglich über 2 Stunden Videokonferenzen/Live-Streaming betreiben, ist 50 GB der beste Wert für einen ganzen Monat.
+> **💡 30-Tage Preis-Wert-Erkenntnis**: Für einen monatelangen Aufenthalt ist der Fall klar – Roami 50GB bei 0,61 $/GB, im Schnitt 1,67GB/Tag. Holaflys 30-Tage-73,90 $ ist mehr als doppelt Roamis Unlimited (33,59 $), mit einer Differenz von 41 $ – genug für ein schönes Abendessen zu zweit in zentralem London. Es sei denn, Sie machen über 2 Stunden Videokonferenzen/Live-Streaming täglich, ist 50GB der beste Wert für einen vollen Monat.
 
 > **💰 Zeitlich begrenztes Angebot**
 >
-> Wählen Sie die **UK-eSIM** von Roami und geben Sie beim Checkout den Rabattcode **WEB20** ein, um **20 % Rabatt** auf alle Tarife zu erhalten. Rabattierte Preise: 7 Tage 10 GB für 7,99 $, 30 Tage 50 GB für 30,39 $ – deutlich günstiger als die entsprechenden Tarife der Wettbewerber. [UK-eSIM-Tarife jetzt kaufen](/united-kingdom-esim/)
+> Wählen Sie Roami **UK eSIM** und geben Sie Gutscheincode **WEB20** an der Kasse ein für **20 % Rabatt** auf jeden Tarif. Rabattierte Preise: 7 Tage 10GB für 7,99 $, 30 Tage 50GB für 30,39 $ – deutlich niedriger als die äquivalenten Stufen der Konkurrenz. [Jetzt UK eSIM Tarife shoppen](/united-kingdom-esim/)
 >
-> *Der Rabattcode gilt für alle Laufzeiten und Datenvolumen, einschließlich Unlimited-Tarife.*
+> *Gutscheincode gilt für alle Dauern und Datentarife, Unlimited-Tarife eingeschlossen.*
 
-## Beste UK-eSIM für Ihre Reiseroute
+## Beste UK eSIM für Ihre Route
 
-### Städtetrip London (3–5 Tage)
+### London Städtetrip (3–5 Tage)
 
-- **Täglicher Verbrauch**: 1–2 GB (Navigation + U-Bahn-Routenprüfung + soziale Medien)
-- **Empfehlung**: Roami 3–5 GB
-- **Grund**: EE 5G in der Londoner Innenstadt ist ausgezeichnet; Roamis Multinetzwerk-Wechsel wählt automatisch zwischen EE/O2 das beste Signal. 3 GB rabattiert ab 3,19 $.
-- **⚠️ Hinweis**: In tiefen U-Bahn-Tunneln kein Signal; laden Sie Routen vor dem Betreten oder verbinden Sie sich mit dem WLAN der Station.
+- **Tagesverbrauch**: 1–2GB (Navigation + Tube-Routenprüfung + Social Media)
+- **Empfehlung**: Roami 3–5GB
+- **Grund**: EEs 5G in zentralem London ist hervorragend; Roamis Mehrnetz-Wechsel wählt automatisch zwischen EE/O2 für das beste Signal. 3GB rabattiert ab 3,19 $.
+- **⚠️ Erinnerung**: Kein Signal in tiefen Tube-Tunneln; Routen vor dem Eintreten laden oder mit Stations-WiFi verbinden.
 
-### Mehrere Städte: London + Edinburgh (7–10 Tage)
+### Multi-City: London + Edinburgh (7–10 Tage)
 
-- **Täglicher Verbrauch**: 1,5–2 GB
-- **Empfehlung**: Roami 10–20 GB
-- **Grund**: Auf Fernzugstrecken gibt es Abdeckungslücken; Multinetzwerk-Wechsel ist zuverlässiger. 20 GB rabattiert für 12,79 $.
-- **⚠️ Hinweis**: Signalschwankungen sind normal, wenn Züge durch ländliche Gebiete fahren.
+- **Tagesverbrauch**: 1,5–2GB
+- **Empfehlung**: Roami 10–20GB
+- **Grund**: Fernbahnstrecken haben Abdeckungslücken; Mehrnetz-Wechsel ist zuverlässiger. 20GB rabattiert für 12,79 $.
+- **⚠️ Erinnerung**: Signal-Schwankungen sind normal, wenn Züge durch ländliche Gebiete fahren.
 
-### Roadtrip Schottische Highlands / Lake District (7–10 Tage)
+### Schottische Highlands / Lake District Roadtrip (7–10 Tage)
 
-- **Täglicher Verbrauch**: 1,5–2 GB
-- **Empfehlung**: Roami 10–20 GB
-- **Grund**: Abdeckungslücken sind in den Highlands und im Lake District häufig; Multinetzwerk-Wechsel zu O2/Vodafone bietet die beste Abdeckung. 20 GB rabattiert für 12,79 $.
-- **⚠️ Hinweis**: Laden Sie Offline-Karten im Voraus herunter; in tiefen Highlands kann es kein Signal geben.
+- **Tagesverbrauch**: 1,5–2GB
+- **Empfehlung**: Roami 10–20GB
+- **Grund**: Abdeckungslücken sind in den Highlands und dem Lake District üblich; Mehrnetz-Wechsel zu O2/Vodafone bietet die beste Abdeckung. 20GB rabattiert für 12,79 $.
+- **⚠️ Erinnerung**: Laden Sie Offline-Karten im Voraus; tiefe Highlands können ohne Signal sein.
 
-### Geschäftsreise London (3–7 Tage)
+### London Geschäftsreise (3–7 Tage)
 
-- **Täglicher Verbrauch**: 1–2 GB (E-Mails + Videokonferenzen)
-- **Empfehlung**: Roami 5–10 GB
-- **Grund**: Funktioniert bei Ankunft, kein Ladensuche; für Videoanrufe ist ein stabiles Netz erforderlich; Multinetzwerk-Wechsel ist zuverlässiger.
-- **⚠️ Hinweis**: Nutzen Sie WLAN im Hotel/Büro als Backup für wichtige Anrufe.
+- **Tagesverbrauch**: 1–2GB (E-Mail + Videokonferenzen)
+- **Empfehlung**: Roami 5–10GB
+- **Grund**: Funktioniert bei Ankunft ohne Laden zu suchen; stabiles Netz für Videocalls nötig; Mehrnetz-Wechsel ist zuverlässiger.
+- **⚠️ Erinnerung**: Hotel/Büro-WiFi als Backup für wichtige Anrufe nutzen.
 
 ### Familienurlaub (5–10 Tage)
 
-- **Täglicher Verbrauch**: 2–3 GB (mehrere Nutzer + Tablets)
-- **Empfehlung**: Roami 10–20 GB + unbegrenzter Hotspot
-- **Grund**: Roami hat keine Hotspot-Einschränkungen – teilen Sie eine eSIM mit der Familie, günstiger als separate Karten.
-- **⚠️ Hinweis**: Vermeiden Sie Holafly (1 GB/Tag Hotspot-Limit), wenn Sie mit mehreren Nutzern teilen.
+- **Tagesverbrauch**: 2–3GB (mehrere Nutzer + Tablets)
+- **Empfehlung**: Roami 10–20GB + Unlimited-Hotspot
+- **Grund**: Roamis Hotspot hat keine Einschränkungen – eine eSIM für die ganze Familie teilen, günstiger als separate Karten zu kaufen.
+- **⚠️ Erinnerung**: Vermeiden Sie Holafly (1GB/Tag-Hotspot-Limit) beim Teilen mit mehreren Nutzern.
 
-### Strengstes Budget (3–5 Tage)
+### Knappstes Budget (3–5 Tage)
 
-- **Täglicher Verbrauch**: <1 GB (Navigation + Text)
-- **Empfehlung**: Roami 1 GB/7 Tage
-- **Grund**: Rabattiert für 2,39 $, der günstigste Preis überhaupt – ausreichend für 20 Stunden Google Maps + ausgiebige WhatsApp-Nachrichten.
-- **⚠️ Hinweis**: Streamen Sie kein Video; 1 GB reicht nur für etwa 1 Stunde Kurzvideos.
+- **Tagesverbrauch**: <1GB (Navigation + Text)
+- **Empfehlung**: Roami 1GB/7 Tage
+- **Grund**: Rabattiert für 2,39 $, niedrigster Gesamtpreis – genug für 20 Stunden Google Maps + umfangreiches WhatsApp-Messaging.
+- **⚠️ Erinnerung**: Kein Video streamen; 1GB reicht nur für etwa 1 Stunde kurze Videos.
 
-## Spezialabschnitt zum Brexit-Roaming
+## Brexit-Roaming: Warum eine UK eSIM EU-Gebühren vermeidet
 
-Dieses Thema unterscheidet Großbritannien von anderen europäischen Ländern und verdient eine ausführliche Erklärung.
+Dieses Thema unterscheidet das UK von anderen europäischen Ländern und ist eine ausführliche Erklärung wert.
 
-### Was nach dem Brexit geschah
+### Was nach dem Brexit passierte
 
-Das Vereinigte Königreich verließ die EU offiziell im Jahr 2020, und die EU-Politik „Roaming wie zu Hause“ gilt nicht mehr automatisch für das Vereinigte Königreich. Seit 2022:
+Das UK verließ 2020 offiziell die EU, und die EU-Regel „Roam Like at Home" gilt nicht mehr automatisch für das UK. Ab 2022:
 
-- **Britische Betreiber** (EE, Vodafone, Three) haben Roaminggebühren für die EU wieder eingeführt (O2 behält teilweise kostenlose Kontingente bei).
-- **EU-Betreiber** (Orange, Vodafone EU-Version usw.) haben größtenteils Roaminggebühren für das Vereinigte Königreich wieder eingeführt.
+- **UK-Betreiber** (EE, Vodafone, Three) haben Roaming-Gebühren für die EU wieder eingeführt (O2 behält teils kostenlose Kontingente).
+- **EU-Betreiber** (Orange, Vodafone EU-Version usw.) haben größtenteils Roaming-Gebühren für das UK wieder eingeführt.
 
-Das bedeutet: **Wenn Sie eine Karte in der EU kaufen oder zwischen Großbritannien und der EU reisen, kann Ihre Mobilfunkkarte im Vereinigten Königreich tägliche oder pro-MB-Roaminggebühren erheben.**
+Das bedeutet: **Wenn Sie eine Karte in der EU kaufen oder zwischen UK und EU reisen, kann Ihre Handykarte täglich oder pro MB Roaming-Gebühren im UK berechnen.**
 
-### Wie Reise-eSIMs dies vermeiden
+### Wie Reise-eSIMs das umgehen
 
-Eine [UK-eSIM](/united-kingdom-esim/) verbindet sich direkt mit einem lokalen Netz im Vereinigten Königreich (EE/O2/Vodafone/Three) und **umgeht Ihren EU-Betreiber vollständig**, sodass „EU-Karten-Roaming in Großbritannien“ nicht zutrifft. Installieren Sie sie vor der Abreise und wechseln Sie bei Ankunft zur eSIM – so vermeiden Sie diese Gebühren von Grund auf.
+Eine [UK eSIM](/united-kingdom-esim/) verbindet direkt mit einem lokalen UK-Netz (EE/O2/Vodafone/Three), **umgeht Ihren EU-Betreiber völlig**, weshalb „EU-Karte roamt im UK" nicht greift. Installieren Sie sie vor der Abreise und wechseln Sie bei Ankunft zur eSIM – vermeidet diese Gebühren von Grund auf.
 
 ### Roaming-Kostenvergleich der drei Optionen
 
-| Option | Verwendung einer EU-Karte in Großbritannien | Kosten | Bequemlichkeit |
+| Option | EU-Karte im UK nutzen | Kosten | Bequemlichkeit |
 |------|---------------|------|--------|
-| EU-Karten-Roaming | Kann 2–3 €/Tag berechnen | Mittel-Hoch | Direkt nutzbar, aber teuer |
-| Lokale SIM Großbritannien | Keine Roaminggebühr | Niedrig | Muss gekauft und aktiviert werden |
-| **UK-Reise-eSIM** | **Keine Roaminggebühr** | Mittel (rabattiert niedriger) | Funktioniert bei Ankunft |
+| EU-Karte Roaming | Kann 2–3 €/Tag berechnen | Mittel–Hoch | Direkt nutzbar, aber teuer |
+| UK lokale SIM | Keine Roaming-Gebühr | Niedrig | Muss kaufen und aktivieren |
+| **UK Reise-eSIM** | **Keine Roaming-Gebühr** | Mittel (niedriger rabattiert) | Funktioniert bei Ankunft |
 
-> **Wichtigstes Fazit**: Wenn Sie aus der EU kommen oder Großbritannien eine Station auf einer „mehrere Länder umfassenden Europareise“ ist, ist eine UK-eSIM der einfachste Weg, Brexit-Roaminggebühren zu vermeiden.
+> **Wichtiger Schluss**: Wenn Sie aus der EU kommen oder das UK ein Stopp auf einer „Multi-Länder-Europa-Reise" ist, ist eine UK eSIM der einfachste Weg, Brexit-Roaming-Gebühren zu vermeiden. Weiter auf den Kontinent? Unser [Frankreich eSIM Guide](/blog/airalo-france-esim-guide/) behandelt, wie der EU-Abschnitt dieser Reise funktioniert, einschließlich welche Tarife zwischen EU-Ländern roamen.
 
-## UK-eSIM vs. lokale SIM (giffgaff) vs. Roaming
+## UK eSIM vs Lokale SIM (giffgaff) vs Roaming
 
-| Aspekt | Reise-eSIM | Lokale SIM Großbritannien (giffgaff etc.) | Internationales Roaming |
+| Aspekt | Reise-eSIM | UK Lokale SIM (giffgaff usw.) | Internationales Roaming |
 |------|----------|---------------------------|---------|
-| Einrichtungsprozess | Installation vor Abreise | Kauf am Flughafen/Shop + Aktivierung | Keine Einrichtung nötig |
-| Funktioniert bei Ankunft | ✅ | ❌ Einlegen/Aktivierung erforderlich | ✅ |
-| Multinetzwerk-Wechsel | ✅ (Roami) | ❌ Einzelnes Netz | ❌ Einzelnes Netz |
-| Preis | Mittel (rabattiert niedriger) | Niedrig | Hoch |
-| UK-Telefonnummer | ❌ | ✅ | ❌ |
-| Am besten geeignet für | Kurzzeittouristen, Mehrländerreisen | Lange Aufenthalte, benötigt UK-Nummer | Notfälle |
+| Einrichtungsprozess | Vor der Abreise installieren | Am Flughafen/Laden kaufen + aktivieren | Keine Einrichtung nötig |
+| Funktioniert bei Ankunft | ✅ | ❌ Erfordert Einstecken/Aktivieren | ✅ |
+| Mehrnetz-Wechsel | ✅ (Roami) | ❌ Einzelnetz | ❌ Einzelnetz |
+| Preis | Mittel (niedriger rabattiert) | Niedrig | Hoch |
+| UK Telefonnummer | ❌ | ✅ | ❌ |
+| Am besten für | Kurzzeit-Touristen, Multi-Länder-Reisen | Lange Aufenthalte, brauchen UK-Nummer | Notfall |
 
-**Kurz gesagt**: Kurzzeit + funktioniert bei Ankunft + Multinetzwerk → Reise-eSIM; langer Aufenthalt + benötigt UK-Nummer → lokale SIM (giffgaff ist sehr günstig); wenn Sie gar keinen Aufwand wollen → wählen Sie kein Roaming.
+**Kurz gesagt**: Kurzzeit + funktioniert bei Ankunft + Mehrnetz → Reise-eSIM; langer Aufenthalt + brauchen UK-Nummer → lokale SIM (giffgaff ist sehr günstig); wenn Sie null Aufwand wollen → wählen Sie kein Roaming.
 
-## So installieren und aktivieren Sie Ihre UK-eSIM
+## So installieren & aktivieren Sie Ihre UK eSIM
 
-1. **Vor Abreise mit WLAN installieren**: Nach dem Kauf erhalten Sie einen QR-Code. Scannen Sie ihn vor Ihrer Abreise in Einstellungen → Mobilfunk/Mobiles Netz → eSIM hinzufügen.
-2. **„Datenroaming“ bei Ankunft einschalten**: Dies ist der häufigste Grund für Aktivierungsfehler. Schalten Sie es nach der Landung ein, und Ihr Telefon verbindet sich automatisch mit einem der Netze EE/O2/Vodafone/Three.
-3. **Datenkarte auswählen**: Legen Sie die Reise-eSIM als primäre Leitung für „Mobildaten“ fest.
-4. **Datenroaming für Ihre Heimkarte ausschalten**: Vermeiden Sie hohe Roaminggebühren (besonders für EU-Karten).
-5. **Karten vor dem Betreten der U-Bahn laden**: In tiefen Tunneln der London Underground gibt es kein Signal; laden Sie vor dem Hinuntergehen Navigation und Karten vor.
+1. **Vor der Abreise mit WiFi installieren**: Nach dem Kauf erhalten Sie einen QR-Code. Scannen Sie ihn in Einstellungen → Mobilfunk/Mobiles Netz → eSIM hinzufügen, bevor Sie losgehen.
+2. **„Datenroaming" bei Ankunft einschalten**: Das ist der häufigste Aktivierungsfehlergrund. Aktivieren Sie es nach der Landung, und Ihr Handy verbindet sich automatisch mit einem der Netze EE/O2/Vodafone/Three.
+3. **Datenkarte wählen**: Setzen Sie die Reise-eSIM als primäre „Mobile Daten"-Leitung.
+4. **Datenroaming für Ihre Heimatkarte ausschalten**: Vermeiden Sie hohe Roaming-Gebühren (besonders für EU-Karten).
+5. **Karten vor Eintritt in die Tube laden**: Tiefe Londoner U-Bahn-Tunnel haben kein Signal; laden Sie Navigation und Karten vor, bevor Sie hinuntergehen.
 
-> **Keine Verbindung zum Netz? Probieren Sie diese Schritte:**
+> **Keine Verbindung zum Netz? Versuchen Sie diese Schritte:**
 >
-> 1. Vergewissern Sie sich, dass „Datenroaming“ aktiviert ist; 2. Starten Sie Ihr Telefon neu; 3. Wählen Sie unter „Netzauswahl“ manuell EE, O2, Vodafone oder Three; 4. Überprüfen Sie, ob der APN mit dem in der eSIM-Anleitung angegebenen Wert übereinstimmt; 5. Wenn es immer noch nicht funktioniert, wenden Sie sich an den Kundensupport der Marke.
+> 1. Bestätigen, dass „Datenroaming" aktiviert ist; 2. Handy neu starten; 3. in „Netzauswahl" manuell EE, O2, Vodafone oder Three wählen; 4. Prüfen, dass der APN mit dem in den eSIM-Anweisungen angegebenen Wert übereinstimmt; 5. Falls weiterhin nicht funktionierend, kontaktieren Sie den Kundensupport der Marke.
 
-## Funktioniert Ihr Telefon? Kompatibilität in Großbritannien
+## Funktioniert Ihr Handy? UK eSIM Kompatibilität
 
-- **Internationale Telefone (in Europa/USA gekauft)**: Die meisten unterstützen eSIM und können direkt verwendet werden.
-- **Chinesische iPhones / chinesische Androids**: Chinesische iPhones (XS und neuer) unterstützen eSIM, aber bei einigen chinesischen Android-Modellen ist eSIM deaktiviert – prüfen Sie Ihr Modell vor dem Kauf.
-- **Netzbetreiber-gesperrte Telefone**: In Großbritannien gesperrte Telefone können auch die eSIM sperren; entsperren Sie sie vor dem Kauf.
-- **Nur-eSIM-Modelle** (US iPhone 14+): Kein physischer SIM-Slot, eigentlich am besten für eSIM geeignet.
-- **Dual-SIM-Dual-Standby**: Sie können sowohl Ihre Heimkarte als auch die UK-eSIM gleichzeitig behalten – eine für Verifizierungscodes, eine für Daten.
+- **Internationale Handys (in Europa/USA gekauft)**: Die meisten unterstützen eSIM und können direkt genutzt werden.
+- **Festland-China-iPhones / chinesische Androids**: Hier erwischen sie die Leute. Hongkong- und Macao-iPhones tragen fast nie ein eSIM-Profil – sie kommen als zwei physische SIM-Slots – und Festland-China-Geräte erhalten eSIM nur beim iPhone 18 Pro, 18 Pro Max, 17e und iPhone Air. Zahlreiche China-Markt-Android-Handys werden mit deaktivierter Funktion ausgeliefert. Verifizieren Sie Ihr eigenes Modell gegen unsere [Liste eSIM-kompatibler Geräte](/compatibility/), bevor Sie bezahlen.
+- **Netzgesperrte Handys**: UK-netzgesperrte Handys können auch den eSIM sperren; entsperren Sie es zuerst vor dem Kauf.
+- **Schachtlose Modelle** (US iPhone 14 und neuer): Es gibt keinen Slot zum Tauschen, was sie zum natürlichen Fit hier macht.
+- **Dual-SIM Dual-Standby**: Können sowohl Ihre Heimatkarte + UK eSIM gleichzeitig behalten – eine für Verifizierungscodes, eine für Daten.
 
-## UK-eSIM-FAQ: Vollständige Antworten
+## UK eSIM FAQ: Vollständige Antworten
 
-**Q1: Erfordert eine UK-eSIM einen Reisepass oder eine Registrierung?**
+**F1: Erfordert eine UK eSIM Reisepass oder Registrierung?**
 
-Nein. In Großbritannien ist keine SIM-Registrierung vorgeschrieben, und Reise-eSIMs werden im Ausland ausgestellt und funktionieren bei Ankunft – keine Registrierung erforderlich. Sie benötigen nur ein eSIM-kompatibles Telefon und scannen den QR-Code vor der Abreise.
+Nein. Das UK schreibt keine SIM-Registrierung vor, und Reise-eSIMs werden im Ausland ausgestellt und funktionieren bei Ankunft – keine Registrierung nötig. Sie brauchen nur ein eSIM-fähiges Handy und scannen den QR-Code vor der Abreise.
 
-**Q2: Berechnet meine EU-Karte nach dem Brexit Roaming im Vereinigten Königreich?**
+**F2: Berechnet meine EU-Karte im UK post-Brexit Roaming?**
 
-Sehr wahrscheinlich. Seit 2022 haben britische und EU-Betreiber schrittweise Roaminggebühren (etwa 2–3 €/Tag oder pro MB) wieder eingeführt. Die Verwendung einer UK-eSIM, die lokal verbindet, vermeidet diese Gebühren; siehe Abschnitt zum Brexit-Roaming oben.
+Sehr wahrscheinlich. Ab 2022 stellten UK- und EU-Betreiber schrittweise Roaming-Gebühren wieder her (etwa 2–3 €/Tag oder pro MB). Eine UK eSIM, die lokal verbindet, vermeidet diese Gebühren; siehe den Brexit-Roaming-Abschnitt oben.
 
-**Q3: Welcher britische Betreiber hat die beste Abdeckung?**
+**F3: Welcher UK-Betreiber hat die beste Abdeckung?**
 
-EE hat die breiteste Abdeckung und das schnellste 5G (beste städtische Erfahrung), während O2 die beste ländliche und Innenraumabdeckung bietet. Wählen Sie eine eSIM mit automatischem Multinetzwerk-Wechsel (wie Roami), um das Beste aus beiden Welten zu erhalten.
+EE hat die weiteste Abdeckung und schnellste 5G (bestes Stadt-Erlebnis), während O2 die beste ländliche und Innen-Durchdringung hat. Wählen Sie eine eSIM mit Mehrnetz-automatischem Wechsel (wie Roami), um das Beste aus beiden zu bekommen.
 
-**Q4: Gibt es Signal in der London Underground?**
+**F4: Gibt es Signal in der London Underground?**
 
-Teilweise. In den zentralen Abschnitten und der Elizabeth Line wurde seit 2024 schrittweise 4G/5G eingeführt, aber in den meisten tiefen Tunneln gibt es immer noch kein Signal; WLAN in den Stationen ist kostenlos. Laden Sie die Navigation vor dem Betreten vor.
+Teilweise. Zentralabschnitte und die Elizabeth Line haben seit 2024 schrittweise 4G/5G eingeführt, aber die meisten tiefen Tunnel haben weiterhin kein Signal; Stations-WiFi ist gratis. Laden Sie Navigation vor dem Eintreten vor.
 
-**Q5: Ist das eSIM-Signal in den schottischen Highlands gut?**
+**F5: Ist eSIM-Signal in den schottischen Highlands gut?**
 
-Es ist durchschnittlich. Die Highlands und der Lake District haben viele Abdeckungslücken, wobei O2/Vodafone am besten abschneiden. Wählen Sie eine eSIM mit Multinetzwerk-Wechsel, um automatisch das stärkste Signal zu erhalten, laden Sie aber für abgelegene Gebiete dennoch Offline-Karten herunter.
+Es ist durchschnittlich. Die Highlands und der Lake District haben viele Abdeckungslücken, wobei O2/Vodafone am besten abschneiden. Wählen Sie eine Mehrnetz-wechselnde eSIM, um automatisch das stärkste Signal zu bekommen, laden Sie aber für abgelegene Gebiete dennoch Offline-Karten.
 
-**Q6: Ist Airalo UK-eSIM gut?**
+**F6: Ist Airalo UK eSIM gut?**
 
-Airalo ist die weltweit größte eSIM-Plattform mit detaillierten UK-Tarifen, sowohl fest als auch Unlimited, verbindet mit EE/O2 für stabile städtische Leistung. Der Nachteil ist, dass die Festvolumentarife relativ teuer sind – Roamis Äquivalent ist mehr als doppelt so günstig.
+Airalo ist die weltweit größte eSIM-Plattform, mit feinen UK-Stufen, sowohl festen als auch Unlimited-Tarifen, verbunden mit EE/O2 für stabile Stadt-Performance. Der Nachteil ist, dass feste Tarife relativ teuer sind – Roamis Äquivalent ist über doppelt so günstig. Für das gesamte Plattform-Bild (Preis-Eigenheiten, echte Abdeckungstests und Kundenservice-Bilanz) siehe unseren Tiefen-Test [Airalo eSIM Test](/blog/airalo-esim-review-prices-coverage/).
 
-**Q7: Lohnt sich der Unlimited-Tarif von Holafly UK-eSIM?**
+**F7: Lohnt sich Holafly UK eSIM Unlimited?**
 
-Hängt vom Verbrauch ab. Holafly UK bietet nur Unlimited für 3,90 $/Tag. Wenn Sie täglich über 2 Stunden HD-Video streamen (mehr als 3 GB/Tag), macht Unlimited Sinn; andernfalls können die Festtarife oder Unlimited von Roami mehr als die Hälfte sparen.
+Hängt vom Verbrauch ab. Holafly UK bietet nur Unlimited-Daten – 3,97 $/Tag bei Kurztrips (3–7 Tage), sinkend auf 2,46 $/Tag beim 30-Tage-Tarif. Wenn Sie über 2 Stunden HD-Video täglich streamen (über 3GB/Tag), macht Unlimited Sinn; ansonsten können Roamis feste Tarife oder Unlimited Ihnen über die Hälfte sparen.
 
-**Q8: Bietet Roami UK-eSIM ein gutes Preis-Leistungs-Verhältnis?**
+**F8: Ist Roami UK eSIM im Preis-Leistungs-Verhältnis gut?**
 
-Sehr gut. Roami UK bietet sowohl Fest- als auch Unlimited-Tarife, automatischen Multinetzwerk-Wechsel und die insgesamt niedrigsten rabattierten Preise – 7 Tage 10 GB für 7,99 $ sind 56 % günstiger als Airalo; 30 Tage Unlimited für 33,59 $ sind 71 % günstiger als Holafly.
+Ja – stark. Roamis UK-Palette spannt feste und Unlimited-Stufen mit Mehrnetz-Wechsel, und seine Rabattpreise führen das Feld: 7-Tage-10GB für 7,99 $ unterbietet Airalo um 56 %, während 30-Tage-Unlimited für 33,59 $ Holafly um 55 % unterbietet.
 
-**Q9: Kann man mit einer UK-eSIM einen Hotspot teilen?**
+**F9: Kann eine UK eSIM Hotspot teilen?**
 
-Das variiert je nach Marke. Roami unterstützt unbegrenztes Hotspot-Teilen; Airalo unterstützt Hotspot; Holafly begrenzt Hotspot auf 1 GB/Tag. Für Gruppenreisen oder Tablet-Nutzung priorisieren Sie Roami.
+Es kommt auf die Marke an. Roami teilt ohne jedes Limit, Airalo erlaubt Tethering, und Holafly zieht die Linie bei 1GB/Tag. Teilen mit einer Gruppe oder ein Tablet füttern? Roami ist die Wahl.
 
-**Q10: Können chinesische Telefone eine UK-eSIM nutzen?**
+**F10: Können chinesische Handys UK eSIM nutzen?**
 
-Chinesische iPhones (XS und neuer) unterstützen eSIM und können sie nutzen, aber bei einigen chinesischen Android-Modellen ist eSIM deaktiviert – prüfen Sie Ihr Modell vor dem Kauf. Internationale Telefone funktionieren in der Regel.
+Größtenteils nein, was Festland-China-iPhones betrifft – Apple aktiviert eSIM dort nur für das iPhone 18 Pro, 18 Pro Max, 17e und iPhone Air, und die meisten Hongkong/Macau-iPhones sind Dual-physische-SIM. Einige chinesische Android-Geräte haben es ebenfalls ausgeschaltet. Prüfen Sie Ihr genaues Modell oder unsere [Liste eSIM-kompatibler Geräte](/compatibility/) zuerst; internationale Geräte sind normalerweise in Ordnung.
 
-**Q11: Kann eine UK-eSIM in Irland/EU verwendet werden?**
+**F11: Kann eine UK eSIM in Irland/EU genutzt werden?**
 
-Normalerweise nicht. UK-eSIMs decken in der Regel nur das britische Festland ab; Nordirland ist eingeschlossen, aber die Republik Irland und andere EU-Länder erfordern eine separate regionale eSIM. Nach dem Brexit ist das Vereinigte Königreich nicht mehr in der EU-Roamingzone – prüfen Sie die Abdeckung vor Ihrer Reise.
+Üblicherweise nicht. UK eSIMs decken generell nur das britische Festland ab; Nordirland ist eingeschlossen, aber die Republik Irland und andere EU-Länder erfordern eine separate regionale eSIM. Post-Brexit ist das UK nicht mehr in der EU-Roaming-Zone – prüfen Sie die Abdeckung vor der Abreise.
 
-**Q12: Lokale SIM Großbritannien (giffgaff) vs. eSIM – was ist besser?**
+**F12: UK lokale SIM (giffgaff) vs eSIM – was ist besser?**
 
-Hängt von Ihren Bedürfnissen ab. giffgaff ist günstig (~£10 für 20 GB), erfordert aber Kauf/Aktivierung vor Ort, einzelnes Netz, kein Multinetzwerk-Wechsel. eSIM funktioniert bei Ankunft, wechselt automatisch die Netze, Installation vor Abreise. Kurzzeittouristen bevorzugen eSIM wegen Bequemlichkeit; Langzeitaufenthalte bevorzugen lokale SIM zum Sparen.
+Hängt von Ihren Bedürfnissen ab. giffgaff ist günstig (~10 £ für 20GB), erfordert aber Kauf/Aktivierung vor Ort, Einzelnetz, keinen Mehrnetz-Wechsel. eSIM funktioniert bei Ankunft, wechselt automatisch Netze, wird vor der Abreise installiert. Kurzzeit-Touristen bevorzugen eSIM wegen Bequemlichkeit; Langzeitaufenthalte bevorzugen lokale SIM wegen Ersparnis.
 
-**Q13: Wie viel kostet eine UK-eSIM pro Tag?**
+**F13: Wie viel kostet eine UK eSIM pro Tag?**
 
-Bei Roami-Rabattpreisen: 7 Tage 10 GB ~1,14 $/Tag, 15 Tage 20 GB ~0,96 $/Tag, 30 Tage 50 GB ~1,01 $/Tag. Das ist mehr als zwei Drittel günstiger als Holaflys 3,90 $/Tag.
+Bei Roamis Rabattpreisen ergibt das etwa 1,14 $/Tag für die 7-Tage-10GB, 0,96 $/Tag für die 15-Tage-20GB und 1,01 $/Tag für die 30-Tage-50GB – zwischen 59 % und 72 % unter Holaflys 2,46–3,97 $/Tag-Spanne.
 
-**Q14: Wie lange reicht 1 GB in Großbritannien?**
+**F14: Wie lange hält 1GB im UK?**
 
-Etwa 20 Stunden Google Maps-Navigation + ausgiebige WhatsApp-Nachrichten, aber nur etwa 1 Stunde Kurzvideos. Bei minimaler Nutzung (Navigation + Text) kann 1 GB für 3–5 Tage reichen; Video-Streamer sollten mit 10 GB beginnen.
+Etwa 20 Stunden Google Maps-Navigation + umfangreiches WhatsApp-Messaging, aber nur etwa 1 Stunde kurze Videos. Minimale Nutzer (Navigation + Text) können 1GB für 3–5 Tage strecken; Video-Streamer sollten bei 10GB beginnen.
 
-**Q15: Was tun, wenn meine UK-eSIM kein Signal hat?**
+**F15: Was, wenn meine UK eSIM kein Signal hat?**
 
-Prüfen Sie zuerst, ob „Datenroaming“ aktiviert ist; starten Sie Ihr Telefon neu; gehen Sie zu „Netzauswahl“ und wählen Sie manuell EE, O2, Vodafone oder Three. In tiefen U-Bahn-Tunneln und abgelegenen Highlands kann es kein Signal geben – laden Sie Offline-Karten als Backup herunter.
+Zuerst prüfen, ob „Datenroaming" aktiviert ist; Handy neu starten; gehen Sie zu „Netzauswahl" und wählen Sie manuell EE, O2, Vodafone oder Three. Tiefe Tube-Tunnel und abgelegene Highlands können ohne Signal sein – laden Sie Offline-Karten als Backup.
 
-**Q16: Kann ich mit einer UK-eSIM telefonieren?**
+**F16: Kann eine UK eSIM Telefonanrufe führen?**
 
-Reise-eSIMs sind reine Daten-eSIMs, ohne britische Telefonnummer, daher keine herkömmlichen Anrufe. Nutzen Sie WhatsApp, FaceTime usw. für Anrufe über Daten. Wenn Sie eine lokale Nummer für Rückrufe benötigen, kombinieren Sie sie mit einer VoIP-Lösung.
+Reise-eSIMs sind rein datenbasiert, ohne UK-Telefonnummer, also keine traditionellen Anrufe. Nutzen Sie WhatsApp, FaceTime usw. für datenbasierte Anrufe. Wenn Sie eine lokale Nummer für Rückrufe brauchen, kombinieren Sie mit einer VoIP-Lösung.
 
-**Q17: Wie viel Datenvolumen für eine kurze London-Reise?**
+**F17: Wie viel Daten für einen kurzen London-Trip?**
 
-Für 3–5 Tage mit Navigation, U-Bahn-Routenprüfung und sozialen Medien reichen 3–5 GB. Roami 7 Tage 5 GB rabattiert für 5,59 $ ist das beste Preis-Leistungs-Verhältnis – halb so teuer wie Unlimited.
+Drei bis fünf Tage Navigation, Tube-Routenplanung und Social Media liegen innerhalb von 3–5GB. Roamis 7-Tage-5GB für 5,59 $ ist der Sweet Spot – halb so viel wie Unlimited kosten würde.
 
-## Entscheidungsmatrix: Welche UK-eSIM kaufen?
+## Entscheidungsmatrix: Welche UK eSIM kaufen
 
 | Szenario | Empfohlene Marke | Empfohlener Tarif | Kosten (rabattiert) | Kern-Grund |
 |------|---------|---------|-------------|---------|
-| London 3-Tage-Wochenende | Roami | 3 GB/3 Tage | 3,19 $ | Funktioniert bei Ankunft + Multinetzwerk, 62 % günstiger als Airalo |
-| London 5-Tage-Städtetrip | Roami | 5 GB/7 Tage | 5,59 $ | EE 5G in der Stadt stabil, günstigster Festtarif |
-| Edinburgh 4-Tage-Kurztrip | Roami | 5 GB/7 Tage | 5,59 $ | Multinetzwerk-Wechsel, stabiler an Sehenswürdigkeiten |
-| Lake District 6-Tage-Roadtrip | Roami | 10 GB/7 Tage | 7,99 $ | Wechsel zu O2/Vodafone für bessere ländliche Abdeckung |
-| Highlands 8-Tage-Roadtrip | Roami | 20 GB/7 Tage | 12,79 $ | Abdeckungslücken; Multinetzwerk am zuverlässigsten |
-| England-Schottland 12-Tage-Tiefentour | Roami | 20 GB/15 Tage | 14,39 $ | 0,72 $/GB, weniger Abdeckungslücken auf Fernstrecken |
-| Geschäftsreise 7 Tage | Roami | 10 GB/7 Tage | 7,99 $ | Funktioniert bei Ankunft + Multinetzwerk zuverlässig |
-| Langzeitaufenthalt 30 Tage | Roami | 50 GB/30 Tage | 30,39 $ | 0,61 $/GB, niedrigster Stückpreis am Markt |
-| Starkes Videostreaming 7 Tage | Roami | Unlimited/7 Tage | 15,19 $ | Nur bei täglichem Verbrauch > 3 GB; 44 % günstiger als Holafly |
-| Strengstes Budget 7 Tage | Roami | 1 GB/7 Tage | 2,39 $ | Insgesamt günstigster Preis, reicht für Navi + Text |
+| London 3-Tage-Wochenende | Roami | 3GB/3 Tage | 3,19 $ | Funktioniert bei Ankunft + Mehrnetz, 62 % günstiger als Airalo |
+| London 5-Tage Städtetrip | Roami | 5GB/7 Tage | 5,59 $ | Stadt EE 5G stabil, günstigster Festtarif |
+| Edinburgh 4-Tage Kurztrip | Roami | 5GB/7 Tage | 5,59 $ | Mehrnetz-Wechsel, stabiler an Attraktionen |
+| Lake District 6-Tage Roadtrip | Roami | 10GB/7 Tage | 7,99 $ | Wechselt zu O2/Vodafone für bessere ländliche Abdeckung |
+| Highlands 8-Tage Roadtrip | Roami | 20GB/7 Tage | 12,79 $ | Abdeckungslücken; Mehrnetz ist am zuverlässigsten |
+| England-Schottland 12-Tage Intensivtour | Roami | 20GB/15 Tage | 14,39 $ | 0,72 $/GB, weniger Abdeckungslücken auf Fernstrecken |
+| Geschäftsreise 7 Tage | Roami | 10GB/7 Tage | 7,99 $ | Funktioniert bei Ankunft + Mehrnetz zuverlässig |
+| Langer Aufenthalt 30 Tage | Roami | 50GB/30 Tage | 30,39 $ | 0,61 $/GB, niedrigster Stückpreis am Markt |
+| Viel Video-Streaming 7 Tage | Roami | Unlimited/7 Tage | 15,19 $ | Nur bei Tagesverbrauch >3GB; 45 % günstiger als Holafly |
+| Knappstes Budget 7 Tage | Roami | 1GB/7 Tage | 2,39 $ | Niedrigster Gesamtpreis, reicht für Nav + Text |
 
-Noch unsicher? [Alle Roami UK-eSIM-Tarife anzeigen →](/united-kingdom-esim/)
+Immer noch unsicher? [Alle Roami UK eSIM Tarife ansehen →](/united-kingdom-esim/)
 
-## UK-eSIM: Praktische Tipps
+## UK eSIM: Praktische Tipps
 
-- **Vor Abreise installieren, bei Ankunft nutzen**: Installieren Sie mit WLAN vor Abreise; schalten Sie bei Ankunft Datenroaming ein für sofortige Verbindung – bestellen Sie innerhalb der ersten Minute ein Uber.
-- **Denken Sie daran, „Datenroaming“ einzuschalten**: Der häufigste Aktivierungsfehler – viele Nutzer vergessen diesen Schalter.
-- **Laden Sie Karten vor dem Betreten der U-Bahn**: In tiefen Tunneln der Underground gibt es kein Signal; laden Sie Navigation/Karten vor oder nutzen Sie das WLAN der Station.
-- **Laden Sie Offline-Karten vor Highland-Roadtrips herunter**: In den schottischen Highlands und im Lake District kann es kein Signal geben; verlassen Sie sich nicht nur auf Daten für die Navigation.
-- **Wenn Sie aus der EU kommen, schalten Sie Datenroaming für Ihre Heimkarte aus**: Vermeiden Sie Brexit-Roaminggebühren.
-- **Manuelle Netzauswahl bei schlechtem Signal**: Wenn die automatische Verbindung fehlschlägt, wählen Sie in den Netzwerkeinstellungen manuell EE, O2, Vodafone oder Three.
-- **Wählen Sie die richtige Marke für Hotspot-Sharing**: Für Familien-/Gruppenreisen wählen Sie Roami (unbegrenzt) oder Airalo (unterstützt); vermeiden Sie Holafly (1 GB/Tag Begrenzung).
-- **Speichern Sie einen Screenshot Ihres QR-Codes**: Bewahren Sie eine Kopie in Ihrer Fotomediathek oder Cloud auf, falls Sie die E-Mail verlieren und neu installieren müssen.
+- **Zu Hause einrichten, im Ausland einschalten**: Installieren Sie über Ihr eigenes WiFi, bevor Sie gehen, dann Datenroaming in der Sekunde der Landung umlegen – Sie können innerhalb einer Minute einen Uber rufen.
+- **Datenroaming ist der klassische Stolperstein**: Die meisten „tote" eSIMs sind schlicht dieser Schalter, der ausgelassen wurde.
+- **Laden Sie Karten, bevor Sie unter die Erde gehen**: Tiefe Tube-Tunnel haben gar kein Signal, also laden Sie Navigation und Karten herunter, bevor Sie nach unten gehen.
+- **Packen Sie Offline-Karten für die Highlands**: Die schottischen Highlands und der Lake District haben lange Lücken – verlassen Sie sich dort nicht allein auf Daten.
+- **Aus der EU? Roaming auf Ihrer Heimatkarte killen**: Post-Brexit-Roaming-Gebühren sind real.
+- **Wählen Sie bei schlechtem Signal per Hand ein Netz**: Wenn Auto-Connect stockt, wählen Sie EE, O2, Vodafone oder Three selbst in den Einstellungen.
+- **Denken Sie vorab an Hotspot**: Familien und Gruppen sollten Roami (kein Limit) oder Airalo (Tethering erlaubt) nehmen und Holaflys 1GB/Tag-Limit weglassen.
+- **Fotografieren Sie den QR-Code**: Behalten Sie eine Kopie in Ihrer Fotoalben-App oder Cloud, damit eine verlorene E-Mail nie eine Neuinstallation bedeutet, die Sie nicht durchführen können.
 
-## Woher unsere Daten zu Großbritannien stammen
+## Eine UK eSIM-Reise nach Europa ausdehnen
+
+Eine UK-Reise geht häufig nach Europa weiter. Diese Guides behandeln die gängigsten weiterführenden Abschnitte:
+
+- Unser [Deutschland eSIM Guide](/blog/airalo-germany-esim-guide/) behandelt Band 20 und ländliches Signal.
+- Lesen Sie über den [Türkei eSIM Guide](/blog/airalo-turkey-esim-guide/), wenn Ihre Route nach Südosten führt.
+- Der [Spanien eSIM Vergleich](/blog/airalo-spain-esim-guide/) behandelt den iberischen Abschnitt.
+
+## Woher unsere UK-Daten stammen
 
 | Organisation | Zweck | Link |
 |------|------|------|
-| Ofcom | Telekommunikationsregulierung / Roaming-Politik Großbritanniens | https://www.ofcom.org.uk/ |
-| Opensignal | 5G-Abdeckung / mobile Erfahrung in Großbritannien | https://www.opensignal.com/ |
-| Ookla Speedtest | Geschwindigkeit der britischen Mobilfunknetze | https://www.speedtest.net/global-index/united-kingdom |
-| GSMA | eSIM-Branchenstandards | https://www.gsma.com/ |
+| Ofcom | UK Telekom-Regulierung / Roaming-Politik / Abdeckung | [Ofcoms Mobil-Checker](https://www.ofcom.org.uk/mobile-coverage-checker) |
+| Ookla Speedtest | UK Mobilfunk-Netzgeschwindigkeit | [Speedtest Global Index – UK](https://www.speedtest.net/global-index/united-kingdom) |
+| GSMA | eSIM Branchenstandards | [GSMA eSIM Spezifikation](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| Apple | eSIM Geräteunterstützung | [Apple eSIM Support](https://support.apple.com/en-us/109317) |
 
-*Die Preisangaben gelten für September 2026; die aktuellen Preise finden Sie auf den offiziellen Websites der jeweiligen Marken. Dieser Artikel dient nur zu Informationszwecken und stellt keine Kaufberatung dar.*
+*Preisdaten Stand September 2026; für Echtzeit-Updates siehe die offizielle Website jeder Marke. Dieser Artikel dient Informationszwecken und stellt keine Kaufberatung dar.*
