@@ -1,51 +1,51 @@
 ---
-title: "eSIM Estados Unidos: Airalo vs Holafly"
-description: "Compara Airalo, Holafly y Roami: la mejor eSIM para EE. UU. se instala antes de volar y salta entre AT&T, T-Mobile y Verizon"
-keywords: ["guía de precios eSIM Estados Unidos", "holafly esim usa", "esim estados unidos sin numero", "eSIM más barato para viajar a Estados Unidos", "plan de datos ilimitados eSIM USA", "comparativa de precios eSIM Estados Unidos", "esim para moviles bloqueados", "código descuento eSIM USA"]
-date: 2026-09-02T00:00:00Z
-lastmod: 2026-09-02T00:00:00Z
+title: "Mejor eSIM para EE. UU.: Airalo vs Holafly comparados"
+description: "Las eSIM de viaje de EE. UU. son de solo datos, sin número estadounidense. Consulta qué plan de Airalo, Holafly o Roami te mantiene conectado para transporte, mapas y parques."
+keywords: ["airalo usa esim", "USA eSIM price guide", "holafly esim for usa", "usa esim no phone number", "cheapest eSIM for USA travel", "USA eSIM unlimited data plan", "USA eSIM cost comparison", "usa esim carrier locked phone", "USA eSIM promo code", "airalo vs holafly usa"]
+date:  2026-09-25T00:00:00Z
+lastmod:  2026-09-25T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami ofrece planes eSIM fiables, con más de un millón de viajeros al año, y conmutación automática entre redes para que estés siempre conectado."
+authorBio: "Roami ofrece planes eSIM confiables, atendiendo a más de 1 millón de viajeros al año, y admite el cambio automático entre redes locales para ayudar a los viajeros a mantenerse conectados en todo el mundo."
 image: "/img/esim/usa/usa-esim-coverage-guide.jpg"
-categories: ["eSIM", "Viajes", "Estados Unidos"]
-tags: ["eSIM Estados Unidos", "número de teléfono USA", "móvil bloqueado"]
+categories: ["eSIM", "Travel", "USA"]
+tags: ["USA eSIM", "US Phone Number", "Carrier Locked"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Airalo vs Holafly: la mejor eSIM para Estados Unidos"
+h1title: "Airalo vs Holafly: La mejor eSIM para EE. UU. para viajeros"
 
 productsTitle: "Planes eSIM populares"
-hotPostsTitle: "Artículos destacados"
-recentPostsTitle: "Entradas recientes"
+hotPostsTitle: "Artículos populares"
+recentPostsTitle: "Artículos recientes"
 
 products:
-  - name: "eSIM Estados Unidos"
+  - name: "USA eSIM"
     flag: "/img/flags/us.svg"
     price: "Desde $1.99"
     is_highlight: true
     slug: "usa"
-  - name: "eSIM Canadá"
+  - name: "Canada eSIM"
     flag: "/img/flags/ca.svg"
     price: "Desde $1.99"
     is_highlight: false
     slug: "canada"
-  - name: "eSIM México"
+  - name: "Mexico eSIM"
     flag: "/img/flags/mx.svg"
     price: "Desde $1.99"
     is_highlight: false
     slug: "mexico"
-  - name: "eSIM Reino Unido"
+  - name: "UK eSIM"
     flag: "/img/flags/gb.svg"
     price: "Desde $1.99"
     is_highlight: false
     slug: "uk"
-  - name: "eSIM Francia"
+  - name: "France eSIM"
     flag: "/img/flags/fr.svg"
     price: "Desde $1.99"
     is_highlight: false
     slug: "france"
-  - name: "eSIM Japón"
+  - name: "Japan eSIM"
     flag: "/img/flags/jp.svg"
     price: "Desde $1.99"
     is_highlight: false
@@ -55,161 +55,160 @@ recentPosts:
   - title: "Lista de dispositivos compatibles con eSIM"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "Transferencia de eSIM multiplataforma 2026"
+  - title: "Transferencia de eSIM entre plataformas en 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
+  - title: "¿La doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Guía de compatibilidad eSIM para iPhone SE"
+  - title: "Guía de compatibilidad eSIM del iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Guía completa de configuración eSIM para iPhone 11"
+  - title: "Guía completa de configuración de eSIM del iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
 
-## Guía de eSIM para Estados Unidos 2026: precios y comparativa
+## Guía y precios de eSIM para EE. UU. 2026
 
-Si estás planeando un viaje a Estados Unidos –ya sea a Times Square en Nueva York, a Hollywood en Los Ángeles, al Parque Nacional de Yellowstone o a recorrer la Ruta 66– enseguida te topas con un obstáculo que no existe en Europa: los planes de **eSIM para Estados Unidos** casi nunca incluyen un número de teléfono local.
+Si estás planeando un viaje a EE. UU.—Times Square en Nueva York, Hollywood en Los Ángeles, el Parque Nacional de Yellowstone, o una ruta cross-country por la Ruta 66—pronto te toparás con un obstáculo completamente distinto al de Europa: **los planes de [eSIM para EE. UU.](/united-states-esim/) casi nunca incluyen un número de teléfono estadounidense.**
 
-Esto es tanto un tema de datos como una necesidad práctica para el viajero.
+Esto es tanto una cuestión de datos como una necesidad esencial de viaje.
 
-Las aplicaciones de transporte (Uber/Lyft), de comida a domicilio (DoorDash/Uber Eats), las reservas de restaurantes e incluso algunas entradas electrónicas suelen enviar códigos de verificación por SMS o exigen un número de Estados Unidos que pueda recibir mensajes. Pero la gran mayoría de las eSIM de viaje –Airalo, Holafly, Roami– son **servicios solo de datos, sin número local**. Así que tienes que decidir entre “datos baratos” y “número imprescindible”.
+Las apps de transporte de EE. UU. (Uber/Lyft), la comida a domicilio (DoorDash/Uber Eats), las reservas de restaurantes e incluso algunos billetes electrónicos de atracciones están acostumbrados a enviar códigos de verificación por SMS o a exigir un número estadounidense que pueda recibir mensajes. Pero la gran mayoría de las eSIM de viaje—Airalo, Holafly, Roami—son **servicios de solo datos que no proporcionan un número de teléfono estadounidense.** Esto significa que debes hacer un equilibrio claro entre "datos baratos" y "número imprescindible".
 
-**Esta es la diferencia clave entre el mercado de eSIM en Estados Unidos y el de Francia, España o Turquía.** Las eSIM europeas solo se preocupan por la calidad de la señal y el precio, pero en Estados Unidos también tienes que preguntarte: “¿Necesito un número que pueda recibir SMS?”
+**Esta es la diferencia más fundamental entre el mercado de eSIM de EE. UU. y el de Francia, España o Turquía.** Las eSIM de viaje europeas solo se preocupan por "calidad de señal y precio", pero en EE. UU. también tienes que preguntarte: "¿Necesito un número que pueda recibir SMS?"
 
-Este artículo gira en torno a esa pregunta: cuál de los tres grandes operadores (Verizon, T‑Mobile, AT&T) tiene mejor cobertura, qué marca (Airalo, Holafly o Roami) ofrece mejor relación calidad‑precio, cómo sortear los problemas típicos de Estados Unidos (parques nacionales, móviles bloqueados, dispositivos solo eSIM) y, sobre todo, **si de verdad necesitas un número local y cómo apañarte sin él**.
+Este artículo gira en torno a esta diferencia central: ¿cuál de los tres grandes operadores estadounidenses (Verizon/T-Mobile/AT&T) tiene la mejor cobertura? ¿Cuál ofrece el mejor valor en datos entre Airalo, Holafly y Roami? ¿Cómo navegar por los obstáculos específicos de EE. UU. como los parques nacionales, los teléfonos con bloqueo de operador y los dispositivos solo eSIM (sin SIM física)? Y—**¿realmente necesitas un número estadounidense y, si no, cómo arreglárselas con una eSIM de solo datos.**
 
-> **⏱️ Resumen en 30 segundos: cómo elegir tu eSIM para Estados Unidos**
+> **⏱️ Resumen de 30 segundos: ¿cómo elegir tu eSIM para EE. UU.?**
 >
-> - **El mayor inconveniente**: Airalo, Holafly y Roami –las tres grandes– **no incluyen número de teléfono estadounidense**. Para usar Uber, pedir comida o recibir códigos de verificación necesitarás soluciones alternativas (mira la sección de número de teléfono más abajo).
-> - **La mejor relación calidad‑precio**: Roami con descuento es lo más barato –7 días y 10 GB por $8.79, un 59% menos que Airalo ($21.50) y un 68% menos que el ilimitado de Holafly ($27.30).
-> - **Qué red elegir**: T‑Mobile 5G para ciudades, Verizon para parques nacionales y viajes por carretera; la conmutación multi‑red de Roami elige automáticamente la mejor señal.
-> - **¿Merece la pena el ilimitado?**: Para la mayoría, no –solo si ves más de 2 GB de vídeo al día (consulta la sección de valor).
-> - **Conclusión final**: Para 3‑7 días en ciudades, elige Roami de 3‑10 GB; para parques nacionales o carretera, 10‑20 GB; para estancias de un mes, 50 GB. Si necesitas número local, combina “eSIM de datos + Google Voice”.
+> - **El mayor inconveniente**: Airalo, Holafly y Roami son todos **de solo datos—ninguno incluye un número de teléfono estadounidense**, así que el transporte, la comida a domicilio y los códigos de verificación por SMS requieren una alternativa como Google Voice.
+> - **Campeón del valor**: el precio con descuento de Roami es el más bajo en general—7 días 10GB por **$8.79**, aproximadamente un 59% por debajo del equivalente de Airalo ($21.50) y un 68% por debajo del ilimitado de Holafly ($27.50).
+> - **Qué red**: 5G de T-Mobile en las ciudades, Verizon para los parques nacionales y las rutas por carretera; el cambio multi-red elige la señal más fuerte automáticamente.
+> - **¿Vale la pena el ilimitado?**: para la mayoría, no—solo compensa para usuarios intensivos de vídeo en streaming que superan los 2GB/día.
+> - **En resumen**: 3–7 días en ciudades → 3–10GB; rutas por carretera y parques nacionales → 10–20GB; estancias de un mes → 50GB.
 
-> **⚡ Decisión rápida según tu tipo de viaje**
+> **⚡ Zona de decisión rápida: conclusiones según tu tipo de viaje**
 >
-> - **Ciudades de la costa este/oeste (3‑7 días)** → Roami 3‑10 GB, T‑Mobile 5G en ciudades, desde $3.19 (ver planes de 3 y 7 días).
-> - **Parques nacionales / Ruta 66 (7‑15 días)** → Roami 10‑20 GB, conmutación automática a Verizon (ver análisis de operadores).
-> - **Necesitas número local (Uber / comida a domicilio)** → eSIM de datos + Google Voice (ver sección de número de teléfono).
-> - **Estancia de un mes / teletrabajo** → Roami 50 GB, solo $0.64/GB (ver planes de 30 días).
-> - **No quieres preocuparte por los datos (corto plazo)** → Holafly ilimitado a $3.90/día, pero el hotspot tiene límite de 1 GB/día (ver comparativa de precios).
-> - **Presupuesto muy ajustado** → Roami 1 GB/7 días con descuento a $1.59, el precio más bajo (ver planes de 3 días).
+> - **Escapada urbana costa Este/Oeste (3-7 días)** → Roami 3-10GB, 5G de T-Mobile en las ciudades, desde $3.19
+> - **Parques nacionales / Ruta 66 (7-15 días)** → Roami 10-20GB; cambia automáticamente a Verizon donde T-Mobile se debilita
+> - **Necesitas un número de EE. UU. (transporte / comida a domicilio)** → eSIM de datos + Google Voice
+> - **Estancia de un mes / trabajo remoto** → Roami 50GB, aproximadamente $0.64/GB
+> - **Presupuesto más estricto** → Roami 1GB/7 días a $1.59
 
-## Mercado de eSIM en Estados Unidos: novedades en 2026
+## Mercado de eSIM de EE. UU.: novedades en 2026
 
-> **📌 Resumen**: El mercado estadounidense ya es solo eSIM –los iPhone de allí ya no tienen ranura para SIM física, así que la eSIM de viaje pasa de ser un “extra” a ser un “imprescindible”. Sin embargo, ninguna de las tres grandes marcas ofrece número local. En 2026, la decisión clave ya no es “¿puedo usarla?” sino “¿cómo equilibrar datos baratos y la necesidad de un número?”. [Ver las últimas comparativas de precios →](/united-states-esim/)
+> **📌 Resumen de decisión rápida**: el mercado de eSIM de EE. UU. ha entrado en la era "sin SIM física"—los iPhone estadounidenses son ahora completamente solo eSIM, convirtiendo las eSIM de viaje en un "imprescindible" en lugar de un "agradable extra". Sin embargo, ninguna de las tres grandes marcas de viaje ofrece un número de teléfono estadounidense. En 2026, la decisión central ha pasado de "¿puedo usarla?" a "cómo equilibrar datos baratos frente a la necesidad de un número". [Ver la última comparación de precios de planes →](/united-states-esim/)
 
-Antes de comparar marcas, tómate dos minutos para entender tres cambios estructurales en el mercado de eSIM de Estados Unidos –afectarán todas tus decisiones.
+Antes de adentrarnos en la comparación de marcas, dedica dos minutos a entender tres cambios estructurales en el mercado de eSIM de EE. UU.—afectarán todas tus decisiones posteriores.
 
-**Primero, Estados Unidos ya es solo eSIM.** Desde el iPhone 14, los modelos vendidos allí **no tienen ranura para tarjeta física**, solo admiten eSIM ([documentación oficial de Apple](https://support.apple.com/en-us/109317)). Eso significa que todos los iPhone 14 y posteriores de Estados Unidos **no pueden comprar una SIM física al llegar** –la eSIM de viaje es la única opción. La [eSIM de datos para Estados Unidos](/united-states-esim/) ha pasado de ser “una opción para ahorrar” a “la única opción”.
+**Primero, EE. UU. ha entrado oficialmente en la era solo eSIM.** A partir del iPhone 14, los modelos de Apple vendidos en EE. UU. **eliminaron por completo la ranura de tarjeta SIM física**, admitiendo solo eSIM ([documentación oficial de Apple](https://support.apple.com/en-us/109317)). Esto significa que todos los usuarios de iPhone 14 o posterior en EE. UU. **no tienen la opción de "comprar una SIM física local"** al llegar—la eSIM de viaje es el único camino. Así, una eSIM de datos para EE. UU. ha pasado de ser una "elección de ahorro" a "la única elección".
 
-**Segundo, el número de teléfono local se ha vuelto una necesidad oculta.** Las apps de transporte, comida, reservas y verificación de entradas dependen mucho de los SMS. Pero Airalo, Holafly y Roami –las tres grandes– **ninguna ofrece número de teléfono estadounidense** (solo datos). Esto crea un problema único en Estados Unidos –las guías de Europa no lo mencionan, pero aquí hay que empezar preguntando “¿necesitas número?”.
+**Segundo, los números de teléfono estadounidenses se han vuelto una necesidad oculta para los viajeros.** El transporte, la comida a domicilio, las reservas de restaurantes y la verificación de billetes en EE. UU. dependen en gran medida del SMS. Pero Airalo, Holafly y Roami—las tres grandes marcas de eSIM de viaje—**ninguna ofrece un número de teléfono estadounidense** (solo datos). Esto crea un punto de dolor único del mercado estadounidense—las guías europeas nunca hablan de esto, pero las guías de EE. UU. deben poner "¿necesitas un número?" en primer plano.
 
-**Tercero, el 5G madura y la guerra de precios se intensifica.** Según [Opensignal](https://www.opensignal.com/) 2026, la cobertura 5G de T‑Mobile supera el 85% de la población, y la competencia entre los tres grandes es feroz. Los precios de entrada han bajado hasta $1.99 (Roami 1 GB/7 días con descuento a $1.59), pero las marcas se diferencian cada vez más en si admiten 5G, a qué red se conectan y si limitan la velocidad. La [comparativa de precios](/united-states-esim/) lo muestra claramente.
+**Tercero, la cobertura 5G madura + las guerras de precios se intensifican.** Según [el informe de Opensignal sobre la experiencia de redes móviles en EE. UU.](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience), la disponibilidad 5G de T-Mobile cubre a más del 85% de la población estadounidense, y la competencia entre los tres grandes operadores ha alcanzado niveles febriles. Los precios de entrada de las eSIM de viaje han bajado hasta $1.99 (Roami 1GB/7 días con descuento a $1.59), pero las marcas difieren cada vez más en "si admiten 5G", "a qué red acceden" y "si limitan la velocidad". La comparación de precios de eSIM para EE. UU. siguiente muestra claramente esta divergencia.
 
-## Los tres grandes operadores de Estados Unidos, comparados
+## Los tres grandes operadores de EE. UU.: ¿cuáles usan las marcas de eSIM?
 
-> **📌 Resumen**: Verizon tiene la cobertura más amplia (ideal para parques nacionales y zonas rurales), T‑Mobile tiene el 5G más potente (mejor para velocidad en ciudades) y AT&T es la opción equilibrada. Para ciudades, elige redes T‑Mobile; para parques nacionales o carretera, elige Verizon; para todo, elige conmutación multi‑red. [Ver comparativa de acceso por marca →](/united-states-esim/)
+> **📌 Resumen de decisión rápida**: Verizon posee el mapa rural, T-Mobile gana la carrera de velocidad 5G, y AT&T queda en medio. En la práctica: planes respaldados por T-Mobile para escapadas urbanas, planes respaldados por Verizon para el circuito de parques nacionales, y un plan que pueda cambiar entre los tres si tu ruta mezcla ambos.
 
-Cuando compras una [eSIM de datos para Estados Unidos](/united-states-esim/), en realidad estás alquilando acceso a una o varias de estas tres redes. Saber cómo funcionan en la práctica es clave para elegir bien.
+Una eSIM de viaje de EE. UU. nunca es propietaria de una antena—alquila capacidad a uno o más de los tres operadores nacionales siguientes. A cuál de los tres puede llegar tu plan decide si mantienes señal en Yellowstone o en plena Ruta 66, así que es lo primero que merece la pena comprobar.
 
-### Comparativa de métricas clave
+### Tres operadores: métricas clave comparadas
 
-| Métrica | Verizon | T‑Mobile | AT&T |
+| Métrica | Verizon | T-Mobile | AT&T |
 |------|---------|----------|------|
-| Clientes | ~140 millones | ~110 millones | ~120 millones |
+| Suscriptores | ~140 millones | ~110 millones | ~120 millones |
 | Cuota de mercado | ~31% | ~25% | ~28% |
 | Cobertura 4G/5G de población | **~99%** | ~98% | ~98% |
 | Disponibilidad 5G | ~75% | **~85%** | ~72% |
-| Velocidad media de descarga | ~85 Mbps | **~95 Mbps** | ~80 Mbps |
-| Mejor para | **Todo el país, sobre todo parques y zonas rurales** | Ciudades, prioridad 5G | Equilibrio, viajes de negocios |
+| Velocidad mediana de descarga | ~85 Mbps | **~95 Mbps** | ~80 Mbps |
+| Mejor para | **Todo el país, especialmente parques nacionales/zonas rurales** | Ciudades, prioridad a velocidad 5G | Equilibrado, viaje de negocios |
 
-*Fuentes: [Informe de cobertura de la FCC](https://www.fcc.gov/), informe de Opensignal, índice global de Ookla Speedtest*
+*Fuentes: reglas de desbloqueo de teléfonos de la FCC, informe de Opensignal sobre la experiencia de redes móviles en EE. UU., Speedtest Global Index de Ookla*
 
-### Detalle de cada operador
+### Operador por operador: los detalles
 
-**Verizon – el rey de la cobertura en Estados Unidos**
+**Verizon — El Rey de la Cobertura de EE. UU.**
 
-Verizon tiene la cobertura más amplia, con la señal más fiable en **parques nacionales, desiertos del oeste y zonas rurales**. Si visitas Yellowstone, el Gran Cañón, Yosemite o recorres la Ruta 66, Verizon es la única red que te acompañará de forma fiable durante todo el viaje. Las [eSIM que usan Verizon](/united-states-esim/) son las mejores en estos casos.
+Verizon tiene la mayor cobertura de EE. UU., con la señal más fiable en **parques nacionales, desiertos del oeste y zonas rurales**. Si vas a Yellowstone, el Gran Cañón, Yosemite o conduces la Ruta 66, Verizon es la única red que puede acompañarte de forma fiable durante todo el trayecto. Las eSIM de EE. UU. que usan la red de Verizon rinden mejor en estos escenarios.
 
-**Ideal para**: viajes por carretera a parques nacionales, zonas remotas del oeste, rutas largas donde necesites “señal en todas partes”.
-**⚠️ Punto débil**: velocidad 5G en ciudades ligeramente inferior a T‑Mobile; precios más altos.
+**Mejor para**: rutas por carretera a parques nacionales, zonas remotas del oeste, rutas profundas donde necesitas "señal en todas partes".
+**⚠️ Punto débil**: las velocidades 5G urbanas quedan ligeramente detrás de T-Mobile; los precios tienden a ser más altos.
 
-**T‑Mobile – el rey del 5G en Estados Unidos**
+**T-Mobile — El Rey del 5G de EE. UU.**
 
-T‑Mobile tiene la **cobertura 5G más extensa** y lidera en velocidad 5G urbana. Según [Ookla Speedtest](https://www.speedtest.net/global-index), su velocidad media de descarga 5G supera los 200 Mbps. En Nueva York, Los Ángeles, Las Vegas y otras grandes ciudades ofrece la mejor experiencia 5G del país.
+T-Mobile tiene la **mayor cobertura 5G** de EE. UU. y lidera en velocidad 5G urbana. Según [los datos de mercado de Ookla para EE. UU.](https://www.speedtest.net/global-index/united-states), la velocidad mediana de descarga 5G de T-Mobile supera los 200 Mbps. Nueva York, Los Ángeles, Las Vegas y otras grandes ciudades ofrecen la mejor experiencia 5G del país.
 
-**Ideal para**: viajeros que se mueven por grandes ciudades, que priorizan la velocidad 5G y hacen muchas videollamadas o streaming.
-**⚠️ Punto débil**: en parques nacionales y algunas zonas rurales, la cobertura es más débil que Verizon.
+**Mejor para**: viajeros centrados en grandes ciudades, quienes priorizan la velocidad 5G, usuarios intensivos de videollamadas y streaming.
+**⚠️ Punto débil**: los parques nacionales y algunas zonas rurales tienen menor cobertura que Verizon.
 
-**AT&T – el competidor equilibrado**
+**AT&T — El Contendiente Equilibrado**
 
-AT&T está en el punto medio en cobertura y velocidad, con un rendimiento estable en ciudades y carreteras –no es la más rápida, pero es fiable. Viajeros de negocios y los que recorren varios estados suelen elegir AT&T.
+AT&T queda en medio tanto en cobertura como en velocidad, con un rendimiento estable en ciudades y autopistas—una opción "no la más rápida pero fiable". Los viajeros de negocios y quienes hacen rutas entre estados suelen elegir AT&T.
 
-**Ideal para**: itinerarios mixtos ciudad‑región, viajes de negocios interestatales.
-**⚠️ Punto débil**: no es la número uno en nada –cobertura inferior a Verizon, 5G inferior a T‑Mobile.
+**Mejor para**: itinerarios mixtos de ciudad y región, viajes de negocios entre estados.
+**⚠️ Punto débil**: ninguna métrica individual de nº 1—cobertura por debajo de Verizon, 5G por debajo de T-Mobile.
 
-### Cobertura en parques nacionales y zonas remotas
+### Prueba de cobertura en parques nacionales / zonas remotas de EE. UU.
 
-Uno de los mayores problemas en Estados Unidos son los puntos sin señal en los parques nacionales. Estos son datos de pruebas reales:
+Uno de los mayores obstáculos del viaje a EE. UU. son las zonas muertas de señal en los parques nacionales. A continuación, datos de cobertura basados en pruebas reales:
 
 | Destino | Calidad de cobertura | Velocidad | Mejor operador |
 |--------|---------|------|-----------|
-| Parque Nacional de Yellowstone | Media (sin señal en algunas zonas) | 4G, 10‑30 Mbps | **Verizon** (el único fiable siempre) |
-| Gran Cañón (borde sur) | Buena | 4G, 20‑50 Mbps | Verizon |
+| Parque Nacional de Yellowstone | Regular (sin señal en algunas zonas) | 4G, 10-30 Mbps | **Verizon** (el único consistentemente fiable) |
+| Gran Cañón (South Rim) | Buena | 4G, 20-50 Mbps | Verizon |
 | Yosemite (fondo del valle) | Buena | 4G | AT&T / Verizon |
-| Great Smoky Mountains | Media | 4G | Verizon |
-| Parque Nacional de Zion | Media | 4G | T‑Mobile / Verizon |
-| Corredor de la Ruta 66 | Buena‑media | 4G, 10‑40 Mbps | **Verizon** (mejor en desiertos del oeste) |
+| Great Smoky Mountains | Regular | 4G | Verizon |
+| Parque Nacional de Zion | Regular | 4G | T-Mobile / Verizon |
+| Corredor de la Ruta 66 | Buena-Regular | 4G, 10-40 Mbps | **Verizon** (el mejor para los desiertos del oeste) |
 
-**Nota importante**: muchas zonas dentro de los parques **no tienen señal en absoluto** (cañones de Yellowstone, áreas remotas de Yosemite). **Descarga mapas sin conexión antes de salir** –no confíes solo en los datos para orientarte.
+**Nota especial**: muchas zonas dentro de los parques nacionales **no tienen señal alguna** (los cañones de Yellowstone, las zonas remotas de Yosemite). **Descarga mapas sin conexión antes de ir**—no dependas por completo de los datos para navegar.
 
-### Pruebas 5G en las principales ciudades
+### Pruebas 5G en las principales ciudades de EE. UU.
 
 | Ciudad | Cobertura 5G | Velocidad media de descarga | Mejor operador |
 |------|--------|--------------|-----------|
-| Nueva York | Excelente | 200‑400 Mbps | T‑Mobile |
-| Los Ángeles | Excelente | 180‑350 Mbps | T‑Mobile |
-| Chicago | Excelente | 150‑300 Mbps | T‑Mobile / Verizon |
-| San Francisco | Excelente | 160‑320 Mbps | T‑Mobile |
-| Las Vegas | Muy buena | 150‑280 Mbps | AT&T / T‑Mobile |
+| Nueva York | Excelente | 200-400 Mbps | T-Mobile |
+| Los Ángeles | Excelente | 180-350 Mbps | T-Mobile |
+| Chicago | Excelente | 150-300 Mbps | T-Mobile / Verizon |
+| San Francisco | Excelente | 160-320 Mbps | T-Mobile |
+| Las Vegas | Muy buena | 150-280 Mbps | AT&T / T-Mobile |
 
-**Recomendación práctica**: en ciudades, la experiencia 5G de T‑Mobile es la mejor. Elige una [eSIM con conmutación multi‑red](/united-states-esim/) (como Roami) que elija automáticamente la mejor señal entre T‑Mobile, AT&T y Verizon –T‑Mobile 5G en ciudades, Verizon al entrar en parques nacionales.
+**Consejo real**: en las ciudades, la experiencia 5G de T-Mobile es en general la mejor. Elige una eSIM de EE. UU. con cambio multi-red (como Roami) que elija automáticamente la señal más fuerte entre T-Mobile/AT&T/Verizon—usa el 5G de T-Mobile en las ciudades y cambia automáticamente a Verizon al entrar en los parques nacionales.
 
 > **Consejo clave**
 >
-> Elige una eSIM que admita **conmutación automática entre redes** (como Roami). Según tu ubicación, seleccionará la mejor señal entre T‑Mobile / AT&T / Verizon –T‑Mobile 5G en ciudades, Verizon en parques. Las eSIM de una sola red pueden dejarte sin señal en Yellowstone o la Ruta 66. [Ver eSIM con conmutación multi‑red →](/united-states-esim/)
+> Elige una eSIM de EE. UU. que admita el **cambio automático multi-red** (como Roami). Según tu ubicación en tiempo real, seleccionará automáticamente la red más fuerte entre T-Mobile / AT&T / Verizon—5G de T-Mobile en las ciudades, Verizon al entrar en los parques nacionales. Las eSIM de una sola red pueden topar con zonas muertas de señal en lugares como Yellowstone o la Ruta 66.
 
-## Marcas de eSIM para Estados Unidos: comparativa completa de precios
+## Marcas de eSIM para EE. UU.: comparación completa de precios
 
-> **📌 Resumen**: Diferencias clave –Airalo ofrece la mayor variedad de planes, pero algunos son solo 4G; Holafly es puro ilimitado pero caro para estancias largas; Roami ofrece conmutación multi‑red a los precios más bajos. En el nivel de 10 GB/7 días: Roami con descuento $8.79 vs Airalo $21.50 vs Holafly ilimitado $27.30. **Ninguna ofrece número local.** [Ver tabla completa →](/united-states-esim/)
+> **📌 Resumen de decisión rápida**: las tres marcas se dividen en un eje—cuántas redes estadounidenses pueden alcanzar. El producto de Airalo para EE. UU. (vendido como **Change**) circula por T-Mobile y Verizon; Holafly circula por AT&T y T-Mobile; Roami cambia entre las tres. En el nivel de 7 días 10GB, Roami queda en $8.79 frente a los $21.50 de Airalo, mientras que Holafly solo vende ilimitado a $27.50. **Ninguna de ellas emite un número de teléfono estadounidense.**
 
-Las marcas de [eSIM para Estados Unidos](/united-states-esim/) más populares son **Airalo, Holafly y Roami**. Aquí tienes una comparación objetiva basada en datos públicos (septiembre 2026) para que elijas rápido entre los [últimos precios](/united-states-esim/).
+Las tres marcas que realmente encontrarás en los foros de viajes a EE. UU. son **Airalo, Holafly y Roami**. Todo lo siguiente está tomado de sus propias páginas publicadas de planes para EE. UU. y de puntuaciones públicas de reseñas, verificado en septiembre de 2026. Para saber cómo se comporta Airalo fuera de EE. UU., consulta nuestra [reseña en profundidad de eSIM de Airalo](/blog/airalo-esim-review-prices-coverage/).
 
-### Vista rápida de las marcas
+### Vista rápida: las marcas
 
-| Marca | Puntuación en Trustpilot | Posicionamiento | Red en Estados Unidos | 5G | Hotspot | Número local |
+| Marca | Valoración Trustpilot | Posicionamiento central | Red de EE. UU. | Soporte 5G | Hotspot | Número de teléfono de EE. UU. |
 |------|---------------|----------|----------|--------|----------|-----------|
-| **Airalo** | 4.0/5 (más de 28.000 reseñas) | Plataforma más grande, más variedad de planes | T‑Mobile / Verizon | Algunos planes | ✅ Sí | ❌ No |
-| **Holafly** | 4.6/5 (más de 94.000 reseñas) | Única marca puramente ilimitada, sin preocupación por los GB | T‑Mobile | ✅ Sí | ⚠️ Límite 1 GB/día | ❌ No |
-| **Roami** | 4.8/5 (App Store) | Conmutación multi‑red, 5G completo | T‑Mobile/AT&T/Verizon | ✅ Sí | ✅ Ilimitado | ❌ No |
+| **Airalo** | 3.9/5 (28k+ reseñas) | Plataforma de eSIM más grande del mundo, selección de planes más rica | T-Mobile / Verizon | Algunos planes | ✅ Admitido | ❌ Ninguno |
+| **Holafly** | 4.6/5 (94k+ reseñas) | Única marca puramente ilimitada, sin preocupaciones de exceso | AT&T / T-Mobile | ✅ Completo | ⚠️ Límite de 1GB/día | ❌ Ninguno |
+| **Roami** | 4.8/5 (App Store) | Cambio multi-red, cobertura 5G completa | T-Mobile/AT&T/Verizon | ✅ Completo | ✅ Ilimitado | ❌ Ninguno |
 
-> ⚠️ **Atención**: Ninguna de las tres marcas **ofrece número de teléfono estadounidense**. Si necesitas uno (para Uber, reservas, etc.), tendrás que combinarlo con una solución VoIP como Google Voice o con una eSIM con número local –más abajo tienes la sección específica.
+> ⚠️ **Recordatorio crucial del mercado de EE. UU.**: ninguna de las tres marcas **ofrece un número de teléfono estadounidense**. Si necesitas un número de EE. UU. (verificación de transporte, reservas de restaurantes, registro de apps), tendrás que combinarla con una solución VoIP como Google Voice o una eSIM con número local de EE. UU.—consulta la sección del número de teléfono más abajo.
 
-> **Diferencias rápidas**
+> **Diferencias rápidas entre marcas**
 >
-> - **Airalo eSIM Estados Unidos**: plataforma más grande, niveles muy granulares, se conecta a T‑Mobile / Verizon, algunos planes solo 4G. Precios claros, hotspot permitido, **sin número local**. Ideal si valoras la variedad de planes y no necesitas 5G.
-> - **Holafly eSIM Estados Unidos**: única marca puramente ilimitada, se conecta a T‑Mobile 5G, a $3.90/día. Sin límite de GB, pero **hotspot limitado a 1 GB/día**, caro para estancias largas, **sin número local**. Bueno para uso intensivo personal si no te importa el coste.
-> - **Roami eSIM Estados Unidos**: conmutación automática entre T‑Mobile, AT&T y Verizon, 5G completo sin reducción, hotspot ilimitado, precios más bajos, **sin número local**. Usa el código **WEB20** para 20% de descuento. [Ver planes Roami →](/united-states-esim/)
+> - **eSIM de Airalo para EE. UU.**: plataforma más grande del mundo, niveles más granulares, se conecta a T-Mobile / Verizon, algunos planes solo 4G. Precios transparentes, admite hotspot, **sin número de teléfono estadounidense**. Buena para usuarios que valoran la variedad de planes y no necesitan 5G.
+> - **eSIM de Holafly para EE. UU.**: la única marca puramente ilimitada, se conecta al 5G de AT&T / T-Mobile, desde $3.97/día (bajando a $2.46/día en 30 días). Sin límite de GB, pero **hotspot limitado a 1GB/día**, coste alto a largo plazo, **sin número de teléfono estadounidense**. Apta para usuarios intensivos de teléfono personal que no les importa el coste.
+> - **eSIM de Roami para EE. UU.**: cambio automático multi-red (T-Mobile/AT&T/Verizon), 5G completo sin throttling, hotspot ilimitado admitido, el precio más bajo en general, **sin número de teléfono estadounidense**. Usa el código de descuento **WEB20** para un 20% de descuento.
 
-### Lista de precios de Airalo eSIM Estados Unidos
+### Lista de precios completa de la eSIM de Airalo para EE. UU.
 
-Airalo ofrece dos tipos: **planes ilimitados** y **planes con datos fijos**.
+Airalo ofrece dos tipos de planes: **planes ilimitados** y **planes de datos fijos**.
 
-**Planes ilimitados (todos “Unlimited GB”):**
+**Planes ilimitados (todos "Unlimited GB"):**
 
 | Días | Precio (USD) | Coste diario |
 |------|------------|----------|
@@ -220,578 +219,587 @@ Airalo ofrece dos tipos: **planes ilimitados** y **planes con datos fijos**.
 | 15 días | $46.00 | $3.07 |
 | 30 días | $68.00 | $2.27 |
 
-**Planes con datos fijos:**
+**Planes de datos fijos:**
 
 | Días | Datos | Precio (USD) |
 |------|------|------------|
-| 3 días | 1 GB | $4.00 |
-| 3 días | 3 GB | $8.50 |
-| 7 días | 3 GB | $9.00 |
-| 7 días | 5 GB | $12.50 |
-| 7 días | 10 GB | $21.50 |
-| 15 días | 5 GB | $13.00 |
-| 15 días | 10 GB | $22.00 |
-| 15 días | 20 GB | $36.00 |
-| 30 días | 5 GB | $13.50 |
-| 30 días | 10 GB | $22.50 |
-| 30 días | 20 GB | $36.50 |
-| 30 días | 50 GB | $42.00 |
+| 3 días | 1GB | $4.00 |
+| 3 días | 3GB | $8.50 |
+| 7 días | 3GB | $9.00 |
+| 7 días | 5GB | $12.50 |
+| 7 días | 10GB | $21.50 |
+| 15 días | 5GB | $13.00 |
+| 15 días | 10GB | $22.00 |
+| 15 días | 20GB | $36.00 |
+| 30 días | 5GB | $13.50 |
+| 30 días | 10GB | $22.50 |
+| 30 días | 20GB | $36.50 |
+| 30 días | 50GB | $42.00 |
 
-**Características clave de Airalo**:
-- Mayor plataforma del mundo, mayor variedad de planes.
-- Se conecta a T‑Mobile / Verizon, algunos planes con 5G.
-- Permite compartir hotspot.
-- **Sin número local.**
-- ⚠️ Ojo: algunos planes fijos son solo 4G, por lo que la experiencia 5G en ciudades es inferior a Roami/Holafly; los ilimitados son caros a largo plazo.
+**Características principales de Airalo**:
+- Plataforma de eSIM más grande del mundo, selección de planes más granular
+- Se conecta a T-Mobile / Verizon, algunos planes admiten 5G
+- Admite compartir por hotspot
+- **Sin número de teléfono estadounidense**
+- ⚠️ Nota de riesgo: algunos planes de datos fijos son solo 4G, así que la experiencia 5G urbana queda detrás de Roami/Holafly; los planes ilimitados tienen un coste más alto a largo plazo.
 
-### Lista de precios de Holafly eSIM Estados Unidos
+### Lista de precios completa de la eSIM de Holafly para EE. UU.
 
-Holafly ofrece **solo datos ilimitados**, con un precio fijo por día ($3.90/día):
+Holafly en EE. UU. ofrece **solo datos puramente ilimitados**, con precio por duración – desde $3.97/día en viajes cortos, con la tarifa diaria bajando en los planes más largos:
 
 | Días | Precio (USD) | Coste diario |
 |------|------------|----------|
-| 3 días | $11.70 | $3.90 |
-| 5 días | $19.50 | $3.90 |
-| 7 días | $27.30 | $3.90 |
-| 10 días | $39.00 | $3.90 |
-| 15 días | $58.50 | $3.90 |
-| 30 días | $117.00 | $3.90 |
+| 3 días | $11.90 | $3.97 |
+| 7 días | $27.50 | $3.93 |
+| 10 días | $36.50 | $3.65 |
+| 15 días | $50.50 | $3.37 |
+| 30 días | $73.90 | $2.46 |
 
-**Características clave de Holafly**:
-- **Datos realmente ilimitados** –sin límite de GB, adiós a la ansiedad por los datos.
-- Se conecta a T‑Mobile 5G.
-- ⚠️ Ojo: **hotspot limitado a 1 GB/día**, no vale para compartir entre varios; el precio diario dispara el coste en viajes de más de 10 días (30 días a $117 son casi el triple del ilimitado con descuento de Roami).
-- **Sin número local.**
+**Características principales de Holafly**:
+- **Datos ilimitados de verdad**—sin límite de GB, eliminando por completo la ansiedad por los datos
+- Se conecta al 5G de AT&T / T-Mobile
+- ⚠️ Nota de riesgo: **hotspot limitado a 1GB/día**, no apto para compartir entre varios usuarios; los costes se mantienen altos en viajes largos (30 días a $73.90 sigue siendo un 85% más que el ilimitado con descuento de Roami)
+- **Sin número de teléfono estadounidense**
 
-### Lista de precios de Roami eSIM Estados Unidos
+### Lista de precios completa de la eSIM de Roami para EE. UU.
 
-La gran ventaja de Roami es la **conmutación automática entre redes** –elige la mejor señal entre T‑Mobile, AT&T y Verizon. En todas las comparativas, Roami ofrece precios con descuento (código WEB20 = 20% menos).
+El diferenciador clave de Roami es el **cambio automático multi-red**—seleccionando automáticamente la señal más fuerte entre T-Mobile, AT&T y Verizon. En todas las comparaciones de precios siguientes, Roami ofrece precios con descuento (código de descuento WEB20 para un 20% de descuento).
 
 **Planes de 3 días:**
 
 | Datos | Precio (USD) | Con descuento (WEB20) | Mejor para |
 |------|------------|----------------|----------|
-| 1 GB | $2.99 | $2.39 | Solo navegación y mensajes |
-| 3 GB | $3.99 | $3.19 | Redes sociales ligeras |
-| 5 GB | $5.99 | $4.79 | Navegación + redes |
-| 10 GB | $7.99 | $6.39 | Vídeo + navegación |
-| Ilimitado | $8.99 | $7.19 | Todo sin preocupaciones |
+| 1GB | $2.99 | $2.39 | Solo navegación + mensajes |
+| 3GB | $3.99 | $3.19 | Redes sociales ligeras |
+| 5GB | $5.99 | $4.79 | Navegación + redes sociales |
+| 10GB | $7.99 | $6.39 | Vídeo + navegación |
+| Ilimitado | $8.99 | $7.19 | Todos los escenarios sin preocupaciones |
 
 **Planes de 7 días:**
 
 | Datos | Precio (USD) | Con descuento (WEB20) | Mejor para |
 |------|------------|----------------|----------|
-| 1 GB | $1.99 | $1.59 | Muy ligero |
-| 3 GB | $4.99 | $3.99 | Redes sociales ligeras |
-| 5 GB | $6.99 | $5.59 | Uso moderado |
-| 10 GB | $10.99 | $8.79 | Vídeo + navegación |
-| 20 GB | $15.99 | $12.79 | Teletrabajo |
-| Ilimitado | $21.99 | $17.59 | Todo sin preocupaciones |
+| 1GB | $1.99 | $1.59 | Extremadamente ligero |
+| 3GB | $4.99 | $3.99 | Redes sociales ligeras |
+| 5GB | $6.99 | $5.59 | Uso moderado |
+| 10GB | $10.99 | $8.79 | Vídeo + navegación |
+| 20GB | $15.99 | $12.79 | Trabajo remoto |
+| Ilimitado | $21.99 | $17.59 | Todos los escenarios sin preocupaciones |
 
 **Planes de 15 días:**
 
 | Datos | Precio (USD) | Con descuento (WEB20) | Mejor para |
 |------|------------|----------------|----------|
-| 3 GB | $5.99 | $4.79 | Redes sociales ligeras |
-| 5 GB | $8.99 | $7.19 | Uso moderado |
-| 10 GB | $14.99 | $11.99 | Vídeo + navegación |
-| 20 GB | $18.99 | $15.19 | Teletrabajo |
-| 30 GB | $23.99 | $19.19 | Alto consumo |
-| Ilimitado | $35.99 | $28.79 | Todo sin preocupaciones |
+| 3GB | $5.99 | $4.79 | Redes sociales ligeras |
+| 5GB | $8.99 | $7.19 | Uso moderado |
+| 10GB | $14.99 | $11.99 | Vídeo + navegación |
+| 20GB | $18.99 | $15.19 | Trabajo remoto |
+| 30GB | $23.99 | $19.19 | Alta demanda de datos |
+| Ilimitado | $35.99 | $28.79 | Todos los escenarios sin preocupaciones |
 
 **Planes de 30 días:**
 
 | Datos | Precio (USD) | Con descuento (WEB20) | Mejor para |
 |------|------------|----------------|----------|
-| 3 GB | $6.99 | $5.59 | Muy ligero diario |
-| 5 GB | $8.99 | $7.19 | Uso básico diario |
-| 10 GB | $12.99 | $10.39 | Redes sociales diarias |
-| 20 GB | $22.99 | $18.39 | Uso moderado |
-| 30 GB | $24.99 | $19.99 | Uso intensivo |
-| 50 GB | $39.99 | $31.99 | Creadores de contenido |
-| Ilimitado | $49.99 | $39.99 | Todo sin preocupaciones |
+| 3GB | $6.99 | $5.59 | Diario muy ligero |
+| 5GB | $8.99 | $7.19 | Diario básico |
+| 10GB | $12.99 | $10.39 | Redes sociales diarias |
+| 20GB | $22.99 | $18.39 | Uso moderado |
+| 30GB | $24.99 | $19.99 | Uso intensivo |
+| 50GB | $39.99 | $31.99 | Creadores de contenido |
+| Ilimitado | $49.99 | $39.99 | Todos los escenarios sin preocupaciones |
 
-**Características clave de Roami**:
-- **Conmutación automática multi‑red** (T‑Mobile/AT&T/Verizon) –T‑Mobile 5G en ciudades, cambio automático a Verizon en parques nacionales.
-- **5G completo a máxima velocidad**, sin reducción.
-- **Hotspot ilimitado**, sin límite diario.
-- **Sin número local.**
-- Código **WEB20** para 20% de descuento.
-- Ventajas: precio más bajo de los tres (sobre todo con descuento), cobertura más estable gracias a la conmutación multi‑red.
-- Desventaja: menos conocida que Airalo y Holafly.
+**Características principales de Roami**:
+- **Cambio automático multi-red** (T-Mobile/AT&T/Verizon)—5G de T-Mobile en las ciudades, cambio automático a Verizon en los parques nacionales
+- **5G completo a alta velocidad**, sin throttling
+- **Compartir por hotspot ilimitado**, sin límite diario
+- **Sin número de teléfono estadounidense**
+- Aplica el código promocional **WEB20** para un 20% de descuento
+- Fortalezas: el precio más bajo entre las tres marcas (especialmente con descuento), la cobertura más estable con el cambio multi-red
+- Debilidades: reconocimiento de marca algo inferior al de Airalo y Holafly
 
-[Ver los últimos planes de Roami →](/united-states-esim/)
+[Ver los últimos planes de la eSIM de Roami para EE. UU. →](/united-states-esim/)
 
-### Cómo comprar una eSIM para Estados Unidos
+### Cómo comprar una eSIM para EE. UU.
 
-Mucha gente solo mira el precio total, pero la verdadera clave está en tres “costes unitarios”: **precio por GB, coste diario y si vale la pena pagar extra por “datos ilimitados”**. Vamos a desglosarlo.
+Mucha gente solo mira el precio total, pero la verdadera respuesta a los precios de eSIM para EE. UU. está en tres "costes unitarios"—**precio por GB, coste diario y si "datos ilimitados" vale el dinero extra.** A continuación desglosamos los precios de las tres marcas en dimensiones que los usuarios pueden percibir de verdad.
 
-**① Precio por GB: los paquetes grandes son los que realmente ahorran**
+**① Precio por GB: los niveles más grandes son los que de verdad ahorran**
 
-Comprar más GB sale mucho más barato por GB. Ejemplo con los planes de 7 días de Roami (con descuento):
+Para los mismos datos, comprar un nivel más grande es mucho más barato por GB. Ejemplo: planes de 7 días de Roami (con descuento):
 
-| Datos | Con descuento (WEB20) | Precio por GB | Ahorro vs 1 GB |
+| Datos | Con descuento (WEB20) | Precio por GB | Ahorro frente a 1GB |
 |------|----------------|-----------|-------------|
-| 1 GB | $1.59 | $1.59/GB | — |
-| 3 GB | $3.99 | $1.33/GB | 16% |
-| 5 GB | $5.59 | $1.12/GB | 30% |
-| 10 GB | $8.79 | $0.88/GB | **45%** |
-| 20 GB | $12.79 | $0.64/GB | **60%** |
+| 1GB | $1.59 | $1.59/GB | — |
+| 3GB | $3.99 | $1.33/GB | 16% |
+| 5GB | $5.59 | $1.12/GB | 30% |
+| 10GB | $8.79 | $0.88/GB | **45%** |
+| 20GB | $12.79 | $0.64/GB | **60%** |
 
-**Conclusión**: el plan de 1 GB es un “precio de emergencia”. El de 10 GB ya reduce el precio por GB a la mitad, y 20 GB es la mejor relación ($0.64/GB). Para una semana, elige 10 GB; los usuarios intensivos, directo a 20 GB. No compres 1 GB para ahorrar unos dólares y luego tener que recargar varias veces.
+**Conclusión**: el nivel de 1GB es un "precio de emergencia". El nivel de 10GB ya reduce a la mitad el precio por GB, y 20GB es el mejor valor ($0.64/GB). Para un viaje de una semana, elige 10GB; los usuarios intensivos van directos a 20GB. No compres 1GB solo por ahorrar unos dólares y luego tengas que recargar repetidamente.
 
-Comparado con Airalo, el precio por GB de Roami es solo un tercio:
+Horizontalmente, el precio por GB de Roami es solo alrededor de un tercio del de Airalo:
 
-| Datos | Precio/GB de Roami (con descuento) | Precio/GB de Airalo | Diferencia |
+| Datos | Precio/GB de Roami (Descuento) | Precio/GB de Airalo | Diferencia |
 |------|----------------------|-----------------|------|
-| 5 GB | $1.12/GB | $2.50/GB | Roami ahorra 55% |
-| 10 GB | $0.88/GB | $2.15/GB | Roami ahorra 59% |
+| 5GB | $1.12/GB | $2.50/GB | Roami ahorra 55% |
+| 10GB | $0.88/GB | $2.15/GB | Roami ahorra 59% |
 
 **② Coste diario: cuanto más largo el viaje, más ahorra Roami**
 
-| Días | Roami Ilimitado (desc.) | Diario | Airalo Ilimitado | Diario | Holafly | Diario |
+A mucha gente le cuesta decidir si los planes "ilimitados" valen la pena—la clave está en el coste diario:
+
+| Días | Roami Ilimitado (Desc.) | Diario | Airalo Ilimitado | Diario | Holafly | Diario |
 |------|-------------------|------|-------------|------|---------|------|
-| 3 días | $7.19 | $2.40 | $11.50 | $3.83 | $11.70 | $3.90 |
-| 7 días | $17.59 | $2.51 | $25.00 | $3.57 | $27.30 | $3.90 |
-| 15 días | $28.79 | $1.92 | $46.00 | $3.07 | $58.50 | $3.90 |
-| 30 días | $39.99 | $1.33 | $68.00 | $2.27 | $117.00 | $3.90 |
+| 3 días | $7.19 | $2.40 | $11.50 | $3.83 | $11.90 | $3.97 |
+| 7 días | $17.59 | $2.51 | $25.00 | $3.57 | $27.50 | $3.93 |
+| 15 días | $28.79 | $1.92 | $46.00 | $3.07 | $50.50 | $3.37 |
+| 30 días | $39.99 | $1.33 | $68.00 | $2.27 | $73.90 | $2.46 |
 
-**Conclusión**: Holafly es fijo a $3.90/día, sin descuento. Roami baja el coste diario cuanto más días coges –30 días ilimitado a solo $1.33/día, un tercio de Holafly. **Cuanto más tiempo estés, mayor será el ahorro de Roami frente a Holafly** (ahorro de $77 en 30 días).
+**Conclusión**: el coste diario de Holafly apenas se mueve—de $3.97/día en viajes cortos a $2.46/día en 30 días. El coste diario con descuento de Roami disminuye cuanto más largo el viaje—el ilimitado de 30 días es solo $1.33/día, poco más de la mitad de la tarifa efectiva de Holafly. **Cuanto más tiempo te quedas en EE. UU., mayor es la brecha de precio entre Roami y Holafly** (ahorro de $34 en 30 días).
 
-**③ El punto de inflexión del “ilimitado”: ¿merece la pena pagar por la tranquilidad?**
+**③ El "punto de inflexión" de los "datos ilimitados": ¿deberías pagar por "tranquilidad"?**
 
-El ilimitado es un “impuesto por la tranquilidad”. Merece la pena si tu uso diario supera el punto de equilibrio:
+Los datos ilimitados son esencialmente un "impuesto de tranquilidad". Si pagarlo depende de si tu uso diario supera el punto de inflexión del plan fijo:
 
-- **7 días**: Roami 20 GB ($12.79) vs Ilimitado ($17.59) –diferencia de $4.80. Solo vale la pena si usas más de **2.86 GB/día**.
-- **30 días**: Roami 50 GB ($31.99) vs Ilimitado ($39.99) –diferencia de $8.00. Solo vale la pena si usas más de **1.67 GB/día**.
+- **7 días**: Roami 20GB ($12.79) vs Ilimitado ($17.59)—diferencia de $4.80. Solo vale la pena subir si el uso diario supera los **2,86GB**.
+- **30 días**: Roami 50GB ($31.99) vs Ilimitado ($39.99)—diferencia de $8.00. Solo vale la pena subir si el uso diario supera los **1,67GB**.
 
-En la práctica, **la mayoría de los turistas usan alrededor de 1 GB/día** (navegación + redes sociales) –ni siquiera gastan todo el plan fijo. Comprar [datos ilimitados](/united-states-esim/) es pagar por “ansiedad”. Solo los **usuarios muy intensivos (más de 2 horas de videoconferencias o vídeos cortos al día)** deberían pagar por la “tranquilidad”. Calcula tu consumo diario antes de pedir.
+Según el uso real, **la mayoría de turistas usan alrededor de 1GB/día** (navegación + redes sociales)—ni siquiera llegan a agotar un plan fijo. Comprar datos ilimitados es pagar por "ansiedad". Solo los **usuarios intensivos que hacen más de 2 horas diarias de videollamada/vídeos cortos** deberían pagar por la "tranquilidad". Calcula tu uso diario antes de pedir.
 
-**④ ¿Cuánto dura realmente 1 GB?**
+**④ ¿Cuánto dura de verdad 1GB?**
 
 | Actividad | Consumo aproximado |
 |----------|----------|
-| Navegación con Google Maps | 30‑50 MB/hora |
-| WhatsApp (texto/voz) | <5 MB/hora |
-| Instagram / redes sociales | 150‑250 MB/hora |
-| Vídeos cortos (TikTok, etc.) | 500 MB‑1 GB/hora |
-| Videollamadas | 300‑600 MB/hora |
-| Streaming de vídeo en 1080p | 1.5‑3 GB/hora |
+| Navegación con Google Maps | 30-50MB/hora |
+| WhatsApp texto/voz | <5MB/hora |
+| Instagram / feeds sociales | 150-250MB/hora |
+| Vídeos cortos (TikTok, etc.) | 500MB-1GB/hora |
+| Videollamadas | 300-600MB/hora |
+| Streaming de vídeo 1080p | 1,5-3GB/hora |
 
-**En resumen**: 1 GB da para 20 horas de navegación + muchos mensajes, pero solo 1‑2 horas de vídeos cortos. Si eres de uso mínimo, 1 GB puede valer; si ves vídeos, empieza por 10 GB.
+**En resumen**: 1GB alcanza para 20 horas de navegación + mucha mensajería de texto, pero solo cerca de 1-2 horas de vídeos cortos. Los usuarios mínimos pueden arreglárselas con 1GB; si haces streaming de vídeo, empieza en 10GB. Para más detalle, consulta los desgloses de planes de 3/7/15/30 días siguientes.
 
-## eSIM de 3 días para viajes cortos
+## eSIM para EE. UU. de 3 días para viajes cortos
 
-> **📌 Resumen**: Para un viaje exprés de 3 días a Nueva York o Los Ángeles, elige Roami 3 GB (con descuento $3.19) –un 62% más barato que Airalo. Si quieres ilimitado, Roami ilimitado con descuento a $7.19 es un 39% más barato que Holafly. Para compartir en grupo, ojo con el límite de 1 GB/día de Holafly. [Ver comparativa completa de 3 días →](/united-states-esim/)
-
-| Marca | Plan | Precio (USD) | Con descuento | Red | 5G | Hotspot |
-|------|------|------------|--------|------|----|------|
-| **Roami** | 1 GB | $2.99 | $2.39 | Multi‑red | ✅ | ✅ |
-| **Roami** | 3 GB | $3.99 | $3.19 | Multi‑red | ✅ | ✅ |
-| **Roami** | 5 GB | $5.99 | $4.79 | Multi‑red | ✅ | ✅ |
-| **Roami** | 10 GB | $7.99 | $6.39 | Multi‑red | ✅ | ✅ |
-| **Roami** | Ilimitado | $8.99 | $7.19 | Multi‑red | ✅ | ✅ |
-| **Airalo** | 1 GB | $4.00 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | 3 GB | $8.50 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | Ilimitado | $11.50 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Holafly** | Ilimitado | $11.70 | — | T‑Mobile | ✅ | ⚠️1 GB/día |
-
-**🏆 Recomendaciones para 3 días:**
-
-- **Presupuesto mínimo**: Roami 1 GB ($2.99 con descuento $2.39) –40% más barato que Airalo, solo para navegación + mensajes.
-- **Mejor relación calidad‑precio**: Roami 3 GB ($3.99 con descuento $3.19) –62% más barato que Airalo, suficiente para 3 días en ciudad.
-- **Sin preocupaciones**: Roami ilimitado ($8.99 con descuento $7.19) –37% más barato que Airalo y 39% que Holafly.
-- **Compartir con compañeros**: Roami tiene hotspot ilimitado, Holafly solo 1 GB/día –Roami gana claramente.
-
-**💡 Clave**: Roami 3 GB con descuento a $3.19 son solo $1.06/día, más barato que un café. El ilimitado solo merece si ves más de 2 horas de vídeo al día. Roami ilimitado a $7.19 ahorra $4.51 frente a Holafly –suficiente para dos sándwiches en el aeropuerto.
-
-## eSIM de 7 días para una semana
-
-> **📌 Resumen**: Para 7 días, Roami 10 GB con descuento a $8.79 es solo el 41% del equivalente de Airalo y el 32% del ilimitado de Holafly. Si usas menos de 1 GB/día, elige Roami 5 GB (descuento $5.59); si usas más, 10 GB o ilimitado. [Ver comparativa de 7 días →](/united-states-esim/)
+> **📌 Resumen de decisión rápida**: tres días en Nueva York o Los Ángeles son un viaje de pocos datos—los 3GB de Roami a $3.19 rebajan un 62% al nivel comparable de Airalo. La opción ilimitada de Roami a $7.19 también supera los $11.90 de Holafly y comparte sin límite diario.
 
 | Marca | Plan | Precio (USD) | Con descuento | Red | 5G | Hotspot |
 |------|------|------------|--------|------|----|------|
-| **Roami** | 3 GB | $4.99 | $3.99 | Multi‑red | ✅ | ✅ |
-| **Roami** | 5 GB | $6.99 | $5.59 | Multi‑red | ✅ | ✅ |
-| **Roami** | 10 GB | $10.99 | $8.79 | Multi‑red | ✅ | ✅ |
-| **Roami** | 20 GB | $15.99 | $12.79 | Multi‑red | ✅ | ✅ |
-| **Roami** | Ilimitado | $21.99 | $17.59 | Multi‑red | ✅ | ✅ |
-| **Airalo** | 3 GB | $9.00 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | 5 GB | $12.50 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | 10 GB | $21.50 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | Ilimitado | $25.00 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Holafly** | Ilimitado | $27.30 | — | T‑Mobile | ✅ | ⚠️1 GB/día |
+| **Roami** | 1GB | $2.99 | $2.39 | Multi-red | ✅ | ✅ |
+| **Roami** | 3GB | $3.99 | $3.19 | Multi-red | ✅ | ✅ |
+| **Roami** | 5GB | $5.99 | $4.79 | Multi-red | ✅ | ✅ |
+| **Roami** | 10GB | $7.99 | $6.39 | Multi-red | ✅ | ✅ |
+| **Roami** | Ilimitado | $8.99 | $7.19 | Multi-red | ✅ | ✅ |
+| **Airalo** | 1GB | $4.00 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | 3GB | $8.50 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | Ilimitado | $11.50 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Holafly** | Ilimitado | $11.90 | — | AT&T / T-Mobile | ✅ | ⚠️1GB/día |
 
-**🏆 Recomendaciones para 7 días:**
+**🏆 Recomendaciones de planes de 3 días:**
 
-- **Semana en ciudad (<1 GB/día)**: Roami 5 GB ($6.99 con descuento $5.59) –55% más barato que Airalo.
-- **Uso intensivo (vídeo + navegación + redes)**: Roami 10 GB ($10.99 con descuento $8.79) –solo el 41% de Airalo, 68% más barato que Holafly.
-- **Ilimitado**: Roami ilimitado ($21.99 con descuento $17.59) –30% más barato que Airalo, 36% que Holafly.
-- **Estabilidad de señal**: la conmutación multi‑red de Roami supera a Airalo/Holafly en ciudades y parques.
+- **Presupuesto más bajo**: Roami 1GB ($2.99 con descuento $2.39)—un 40% más barato que el Airalo 1GB ($4.00), lo mejor para solo navegación + mensajería
+- **Mejor valor**: Roami 3GB ($3.99 con descuento $3.19)—un 62% más barato que el Airalo 3GB ($8.50), de sobra para una escapada urbana de 3 días
+- **No quieras vigilar los datos**: Roami ilimitado ($8.99 con descuento $7.19)—un 37% más barato que el ilimitado de Airalo ($11.50), un 40% más barato que Holafly ($11.90)
+- **Compartir hotspot con acompañantes**: el hotspot ilimitado de Roami frente al límite de 1GB/día de Holafly—Roami es notablemente mejor en escenarios grupales
 
-**💡 Clave**: Roami 10 GB a $0.88/GB es el punto dulce. Para que merezca el ilimitado, tendrías que gastar más de 20 GB en 7 días (2.86 GB/día); si no, mejor 20 GB fijo ($12.79) que ahorra $4.80. Elegir 10 GB en Roami en lugar de Airalo ahorra $12.71 –dos cafés de Starbucks y una comida rápida en Nueva York.
+**💡 Perspectiva de valor de precio de 3 días**: la verdad sobre los precios de eSIM para EE. UU. en viajes cortos—los 3GB de Roami con descuento a $3.19 salen a solo $1.06/día, más barato que un café. El ilimitado solo tiene sentido para usuarios que "hacen streaming de más de 2 horas de vídeo al día". El ilimitado de Roami con descuento a $7.19 ahorra $4.71 frente a Holafly—suficiente para dos bocadillos en el aeropuerto.
 
-## eSIM de 15 días, comparada
+## eSIM para EE. UU. de 7 días para una semana fuera
 
-> **📌 Resumen**: Para medio mes, Roami 10 GB con descuento a $11.99 es un 45% más barato que Airalo. Roami ilimitado a $28.79 es un 51% más barato que Holafly (ahorro de $29.71 –varias comidas buenas). Solo considera ilimitado si gastas más de 2 GB/día. [Ver comparativa de 15 días →](/united-states-esim/)
-
-| Marca | Plan | Precio (USD) | Con descuento | Red | 5G | Hotspot |
-|------|------|------------|--------|------|----|------|
-| **Roami** | 3 GB | $5.99 | $4.79 | Multi‑red | ✅ | ✅ |
-| **Roami** | 5 GB | $8.99 | $7.19 | Multi‑red | ✅ | ✅ |
-| **Roami** | 10 GB | $14.99 | $11.99 | Multi‑red | ✅ | ✅ |
-| **Roami** | 20 GB | $18.99 | $15.19 | Multi‑red | ✅ | ✅ |
-| **Roami** | 30 GB | $23.99 | $19.19 | Multi‑red | ✅ | ✅ |
-| **Roami** | Ilimitado | $35.99 | $28.79 | Multi‑red | ✅ | ✅ |
-| **Airalo** | 5 GB | $13.00 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | 10 GB | $22.00 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | 20 GB | $36.00 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | Ilimitado | $46.00 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Holafly** | Ilimitado | $58.50 | — | T‑Mobile | ✅ | ⚠️1 GB/día |
-
-**🏆 Recomendaciones para 15 días:**
-
-- **Viaje en profundidad (1 GB/día)**: Roami 10 GB ($14.99 con descuento $11.99) –45% más barato que Airalo.
-- **Uso intensivo (1.5‑2 GB/día)**: Roami 20 GB ($18.99 con descuento $15.19) –58% más barato que Airalo 20 GB.
-- **Ilimitado**: Roami ilimitado ($35.99 con descuento $28.79) –37% más barato que Airalo, 51% que Holafly.
-- **Ojo**: Holafly 15 días a $58.50 es más del doble que Roami con descuento ($28.79) –ahorro de $29.71.
-
-**💡 Clave**: Roami 20 GB a $0.76/GB es una ganga. El ilimitado de Roami a $28.79 ahorra $29.71 frente a Holafly –suficiente para una entrada al Met más una comida rápida. Un turista medio que usa 1 GB/día consumiría 15 GB en 15 días –el plan de 20 GB es justo, no hace falta pagar extra por “ilimitado”.
-
-## eSIM de 30 días, con precios detallados
-
-> **📌 Resumen**: Para un mes, Roami 50 GB con descuento a $31.99 es un 24% más barato que Airalo 50 GB e incluye 5G + multi‑red. Holafly 30 días a $117 es casi 3 veces el ilimitado de Roami ($39.99) –solo considera Holafly si usas más de 5 GB/día; si no, los planes fijos son mucho más rentables. [Ver comparativa de 30 días →](/united-states-esim/)
+> **📌 Resumen de decisión rápida**: una semana es donde se abre la brecha de precio: los 10GB de Roami a $8.79 son el 41% del 10GB de Airalo y menos de un tercio del ilimitado de Holafly. Si te mantienes por debajo de 1GB al día, los 5GB de Roami ($5.59) bastan; si haces streaming de vídeo, querrás 10GB o ilimitado.
 
 | Marca | Plan | Precio (USD) | Con descuento | Red | 5G | Hotspot |
 |------|------|------------|--------|------|----|------|
-| **Roami** | 10 GB | $12.99 | $10.39 | Multi‑red | ✅ | ✅ |
-| **Roami** | 20 GB | $22.99 | $18.39 | Multi‑red | ✅ | ✅ |
-| **Roami** | 30 GB | $24.99 | $19.99 | Multi‑red | ✅ | ✅ |
-| **Roami** | 50 GB | $39.99 | $31.99 | Multi‑red | ✅ | ✅ |
-| **Roami** | Ilimitado | $49.99 | $39.99 | Multi‑red | ✅ | ✅ |
-| **Airalo** | 10 GB | $22.50 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | 20 GB | $36.50 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | 50 GB | $42.00 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Airalo** | Ilimitado | $68.00 | — | T‑Mobile/Verizon | ❌ | ✅ |
-| **Holafly** | Ilimitado | $117.00 | — | T‑Mobile | ✅ | ⚠️1 GB/día |
+| **Roami** | 3GB | $4.99 | $3.99 | Multi-red | ✅ | ✅ |
+| **Roami** | 5GB | $6.99 | $5.59 | Multi-red | ✅ | ✅ |
+| **Roami** | 10GB | $10.99 | $8.79 | Multi-red | ✅ | ✅ |
+| **Roami** | 20GB | $15.99 | $12.79 | Multi-red | ✅ | ✅ |
+| **Roami** | Ilimitado | $21.99 | $17.59 | Multi-red | ✅ | ✅ |
+| **Airalo** | 3GB | $9.00 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | 5GB | $12.50 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | 10GB | $21.50 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | Ilimitado | $25.00 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Holafly** | Ilimitado | $27.50 | — | AT&T / T-Mobile | ✅ | ⚠️1GB/día |
 
-**🏆 Recomendaciones para 30 días:**
+**🏆 Recomendaciones de planes de 7 días:**
 
-- **Un mes (1 GB/día)**: Roami 30 GB ($24.99 con descuento $19.99) –más flexible que Airalo (no tiene 30 GB).
-- **Teletrabajo (1.5‑2 GB/día)**: Roami 50 GB ($39.99 con descuento $31.99) –24% más barato que Airalo 50 GB e incluye 5G + multi‑red.
-- **Ilimitado**: Roami ilimitado ($49.99 con descuento $39.99) –41% más barato que Airalo, 66% que Holafly.
-- **⚠️ Ojo**: Holafly 30 días a $117 es casi 3 veces Roami ilimitado ($39.99). A menos que uses más de 5 GB/día, los planes fijos son mucho más rentables.
+- **Escapada urbana de una semana (menos de 1GB/día)**: Roami 5GB ($6.99 con descuento $5.59)—un 55% más barato que el Airalo 5GB ($12.50)
+- **Uso intensivo de una semana (vídeo + navegación + redes sociales)**: Roami 10GB ($10.99 con descuento $8.79)—solo el 41% del Airalo 10GB ($21.50), un 68% más barato que el ilimitado de Holafly ($27.50)
+- **Ilimitado de una semana**: Roami ilimitado ($21.99 con descuento $17.59)—un 30% más barato que el ilimitado de Airalo ($25.00), un 36% más barato que Holafly ($27.50)
+- **Estabilidad de señal**: el cambio de tres redes de Roami cubre más terreno que las configuraciones de dos redes de Airalo y Holafly en ciudades, parques nacionales y otros escenarios
 
-**💡 Clave**: Roami 50 GB a $0.64/GB, ilimitado a solo $1.33/día. Holafly 30 días a $117 es $77 más caro que Roami –suficiente para una noche en un hotel económico. A menos que hagas más de 2 horas de videoconferencia o streaming al día (>1.67 GB/día), 50 GB es la mejor opción; no pagues $8 extra solo por la palabra “ilimitado”.
+**💡 Perspectiva de valor de precio de 7 días**: el punto óptimo de valor para un viaje de una semana es el Roami 10GB—solo $0.88/GB, el 40% de los $2.15/GB de Airalo. En cuanto a si vale la pena el ilimitado: tendrías que superar los 20GB en 7 días (2,86GB/día) para justificar la subida al ilimitado. De lo contrario, el Roami 20GB ($12.79) ahorra otros $4.80 frente al ilimitado ($17.59). Elegir 10GB en lugar de Airalo ahorra $12.71—suficiente para dos cafés de Starbucks y una comida rápida en Nueva York.
+
+## eSIM para EE. UU. de 15 días, comparada
+
+> **📌 Resumen de decisión rápida**: dos semanas de viaje por EE. UU. normalmente rondan 1–1,5GB al día, así que los 10GB de Roami a $11.99 cubren el viaje típico un 45% por debajo de Airalo. Su nivel ilimitado a $28.79 es $22 más barato que Holafly en el mismo periodo—aproximadamente dos comidas sentadas.
+
+| Marca | Plan | Precio (USD) | Con descuento | Red | 5G | Hotspot |
+|------|------|------------|--------|------|----|------|
+| **Roami** | 3GB | $5.99 | $4.79 | Multi-red | ✅ | ✅ |
+| **Roami** | 5GB | $8.99 | $7.19 | Multi-red | ✅ | ✅ |
+| **Roami** | 10GB | $14.99 | $11.99 | Multi-red | ✅ | ✅ |
+| **Roami** | 20GB | $18.99 | $15.19 | Multi-red | ✅ | ✅ |
+| **Roami** | 30GB | $23.99 | $19.19 | Multi-red | ✅ | ✅ |
+| **Roami** | Ilimitado | $35.99 | $28.79 | Multi-red | ✅ | ✅ |
+| **Airalo** | 5GB | $13.00 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | 10GB | $22.00 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | 20GB | $36.00 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | Ilimitado | $46.00 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Holafly** | Ilimitado | $50.50 | — | AT&T / T-Mobile | ✅ | ⚠️1GB/día |
+
+**🏆 Recomendaciones de planes de 15 días:**
+
+- **Viaje profundo de medio mes (1GB/día)**: Roami 10GB ($14.99 con descuento $11.99)—un 45% más barato que el Airalo 10GB ($22.00)
+- **Uso intensivo de medio mes (1,5-2GB/día)**: Roami 20GB ($18.99 con descuento $15.19)—un 58% más barato que el Airalo 20GB ($36.00)
+- **Ilimitado de medio mes**: Roami ilimitado ($35.99 con descuento $28.79)—un 37% más barato que el ilimitado de Airalo ($46.00), un 43% más barato que Holafly ($50.50)
+- **Nota**: Holafly 15 días a $50.50 es un 75% más que el ilimitado con descuento de Roami a $28.79—una diferencia de $22
+
+**💡 Perspectiva de valor de precio de 15 días**: dos cosas determinan el "valor" para viajes de medio mes. Primera, el Roami 20GB a solo $0.76/GB ($15.19/20)—un 58% más barato que el Airalo 20GB ($36). Segunda, la brecha del precio ilimitado—el ilimitado de Roami con descuento a $28.79 es $22 más barato que Holafly, suficiente para un almuerzo consistente más billetes de metro. Un turista medio que use 1GB/día consumiría unos 15GB en 15 días—el nivel de 20GB es justo, sin necesidad de pagar extra por "ilimitado".
+
+## eSIM para EE. UU. de 30 días, con el precio calculado
+
+> **📌 Resumen de decisión rápida**: en una estancia de un mes gana la vía de los datos fijos: los 50GB de Roami a $31.99 son un 24% por debajo de los 50GB de Airalo y además cambian de red. Los $73.90 de Holafly por 30 días cuestan un 85% más que el ilimitado de Roami ($39.99) y solo compensan por encima de unos 3GB al día.
+
+| Marca | Plan | Precio (USD) | Con descuento | Red | 5G | Hotspot |
+|------|------|------------|--------|------|----|------|
+| **Roami** | 10GB | $12.99 | $10.39 | Multi-red | ✅ | ✅ |
+| **Roami** | 20GB | $22.99 | $18.39 | Multi-red | ✅ | ✅ |
+| **Roami** | 30GB | $24.99 | $19.99 | Multi-red | ✅ | ✅ |
+| **Roami** | 50GB | $39.99 | $31.99 | Multi-red | ✅ | ✅ |
+| **Roami** | Ilimitado | $49.99 | $39.99 | Multi-red | ✅ | ✅ |
+| **Airalo** | 10GB | $22.50 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | 20GB | $36.50 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | 50GB | $42.00 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Airalo** | Ilimitado | $68.00 | — | T-Mobile/Verizon | ❌ | ✅ |
+| **Holafly** | Ilimitado | $73.90 | — | AT&T / T-Mobile | ✅ | ⚠️1GB/día |
+
+**🏆 Recomendaciones de planes de 30 días:**
+
+- **Estancia de un mes (1GB/día)**: Roami 30GB ($24.99 con descuento $19.99)—más flexible que Airalo (sin nivel de 30GB)
+- **Trabajo remoto de un mes (1,5-2GB/día)**: Roami 50GB ($39.99 con descuento $31.99)—un 24% más barato que el Airalo 50GB ($42.00) e incluye 5G+multi-red
+- **Ilimitado de un mes**: Roami ilimitado ($49.99 con descuento $39.99)—un 41% más barato que el ilimitado de Airalo ($68.00), un 46% más barato que Holafly ($73.90)
+- **⚠️ Nota especial para estancias largas**: Holafly 30 días a $73.90 es un 85% más que el ilimitado con descuento de Roami a $39.99. Salvo que uses bastante más de 3GB/día, los planes fijos son mucho más rentables que el ilimitado de Holafly.
+
+**💡 Perspectiva de valor de precio de 30 días**: la respuesta para las estancias de un mes está clara—Roami 50GB a $0.64/GB, e ilimitado a solo $1.33/día. Holafly 30 días a $73.90 es un 85% más que el ilimitado de Roami ($39.99)—una diferencia de $34, suficiente para una buena cena en Manhattan. Salvo que hagas más de 2 horas diarias de videollamada/streaming (superando 1,67GB/día), 50GB es la mejor solución para un mes completo—no pagues los $8 extra solo por la palabra "ilimitado".
 
 > **💰 Oferta por tiempo limitado**
 >
-> Elige la **eSIM para Estados Unidos** de Roami y aplica el código **WEB20** para un **20% de descuento** en todos los planes. Precios con descuento: ilimitado 7 días a $17.59, ilimitado 30 días a $39.99 –muy por debajo de la competencia. [Compra ahora →](/united-states-esim/)
+> El código **WEB20** quita un 20% a cualquier plan de Roami para EE. UU. al pagar, incluidos los niveles ilimitados. Aplicado a las tablas anteriores, deja el ilimitado de 7 días en $17.59 y el ilimitado de 30 días en $39.99. [Compra planes de eSIM para EE. UU. ahora](/united-states-esim/)
+
+## eSIM para EE. UU. para cada tipo de viaje
+
+No existe una única mejor eSIM para EE. UU.—solo el plan que encaja con la ruta que realmente has reservado. Los escenarios siguientes siguen la forma en que la mayoría de viajes a EE. UU. se componen de verdad.
+
+> **📌 Resumen de decisión rápida**:
+> - **Escapada urbana Nueva York / Costa Este (3-5 días)** → Roami 3GB/3 días ($3.99 con descuento $3.19)
+> - **Ruta por la Costa Oeste (7-10 días)** → Roami 10GB/7 días ($10.99 con descuento $8.79)
+> - **Viaje a parques nacionales** → Roami 10-20GB, cambia automáticamente multi-red a Verizon
+> - **Necesitas un número de EE. UU. (transporte / comida a domicilio)** → eSIM de datos + Google Voice (consulta la sección del número de teléfono)
+> - **Trabajo remoto de un mes** → Roami 50GB ($39.99 con descuento $31.99)
+> - **No quieras preocuparte por los datos (1-7 días)** → Holafly ilimitado, desde $3.97/día
+> - **Viaje familiar / en grupo** → plan de grandes datos de Roami, compartir por hotspot ilimitado
+> - **Presupuesto más estricto** → Roami 1GB/7 días ($1.99 con descuento $1.59)
 >
-> *El código descuento se aplica a todas las duraciones y niveles, incluidos los ilimitados.*
 
-## eSIM para cada tipo de viaje
+### Escapada urbana Nueva York / Costa Este (3-5 días)
 
-No hay una única “mejor” [eSIM para Estados Unidos](/united-states-esim/) –solo la que mejor encaja con tu itinerario. Estas son recomendaciones para escenarios reales.
+- **Uso diario**: ~500MB–1GB (navegación, búsqueda de restaurantes, publicaciones sociales, apps de museos)
+- **Recomendación**: Roami 3GB/3 días ($3.99 con descuento $3.19) o Roami 5GB/7 días ($6.99 con descuento $5.59)
+- **Razón**: los tres operadores tienen buena cobertura en Nueva York—elige el mejor valor. El cambio multi-red de Roami en la ciudad elige automáticamente el 5G de T-Mobile.
 
-> **📌 Resumen rápido**:
-> - **Nueva York / Costa Este (3‑5 días)** → Roami 3 GB/3 días ($3.99 con descuento $3.19)
-> - **Costa Oeste en carretera (7‑10 días)** → Roami 10 GB/7 días ($10.99 con descuento $8.79)
-> - **Parques nacionales** → Roami 10‑20 GB, conmutación automática a Verizon
-> - **Necesitas número local (Uber / comida)** → eSIM de datos + Google Voice (ver sección específica)
-> - **Teletrabajo un mes** → Roami 50 GB ($39.99 con descuento $31.99)
-> - **Sin preocupaciones (1‑7 días)** → Holafly ilimitado, $3.90/día
-> - **Familia / grupo** → Roami con muchos datos, hotspot ilimitado
-> - **Presupuesto mínimo** → Roami 1 GB/7 días ($1.99 con descuento $1.59)
+### Ruta por Los Ángeles / Costa Oeste (7-10 días)
 
-### Nueva York / Costa Este (3‑5 días)
+- **Uso diario**: ~1–1,5GB (navegación + música + videollamadas ocasionales)
+- **Recomendación**: Roami 10GB/7 días ($10.99 con descuento $8.79) o Roami 10GB/15 días ($14.99 con descuento $11.99)
+- **Razón**: las rutas por la Costa Oeste atraviesan ciudades y desiertos—el cambio multi-red de Roami usa el 5G de T-Mobile en las ciudades y cambia automáticamente a Verizon al salir de las áreas urbanas. Holafly no circula por Verizon, así que puede sufrir en los tramos de desierto.
 
-- **Consumo diario**: ~500 MB‑1 GB (navegación, restaurantes, redes, apps de museos)
-- **Recomendación**: Roami 3 GB/3 días ($3.99 con descuento $3.19) o 5 GB/7 días ($6.99 con descuento $5.59)
-- **Motivo**: los tres operadores van bien en Nueva York –elige el más barato. La conmutación multi‑red de Roami te dará T‑Mobile 5G en ciudad.
+### Viaje a parques nacionales (Yellowstone / Gran Cañón / Yosemite, 7-14 días)
 
-### Los Ángeles / Costa Oeste en carretera (7‑10 días)
+- **Uso diario**: ~1GB (navegación + planificación del viaje + contacto de emergencia—la señal es débil en los parques, así que en realidad usas menos datos)
+- **Recomendación**: Roami 10-20GB (cambio multi-red)
+- **Razón**: Verizon tiene la mejor cobertura en los parques nacionales (consulta los datos de pruebas de operadores más arriba). El cambio multi-red de Roami cambia automáticamente a Verizon al entrar en los parques—algo que las eSIM de una sola red no pueden hacer. **Recuerda descargar mapas sin conexión con antelación**—en el interior de los parques puede que no haya señal alguna.
 
-- **Consumo diario**: ~1‑1.5 GB (navegación + música + alguna videollamada)
-- **Recomendación**: Roami 10 GB/7 días ($10.99 con descuento $8.79) o 10 GB/15 días ($14.99 con descuento $11.99)
-- **Motivo**: la Costa Oeste combina ciudades y desiertos –Roami cambia a T‑Mobile 5G en ciudad y a Verizon al salir. Airalo/Holafly de una sola red pueden fallar en tramos desérticos.
+### Ruta cross-country por la Ruta 66 (10-20 días)
 
-### Parques nacionales (Yellowstone, Gran Cañón, Yosemite – 7‑14 días)
+- **Uso diario**: ~1,5GB (navegación + retransmisión en directo desde la carretera + vídeos cortos)
+- **Recomendación**: Roami 20GB/15 días ($18.99 con descuento $15.19)
+- **Razón**: la Ruta 66 cruza el Medio Oeste y los desiertos—Verizon es la única red que puede cubrir todo el trayecto. El cambio multi-red de Roami elige automáticamente Verizon en el desierto, más estable que una sola red.
 
-- **Consumo diario**: ~1 GB (navegación + planificación + emergencias –la señal es débil, así que usas menos datos)
-- **Recomendación**: Roami 10‑20 GB (conmutación multi‑red)
-- **Motivo**: Verizon es el mejor en parques (ver datos de pruebas). Roami cambia automáticamente a Verizon al entrar –algo que las eSIM de una sola red no pueden hacer. **Recuerda descargar mapas sin conexión** –dentro del parque puede no haber señal.
+### Necesitas un número de EE. UU. (Transporte / Comida a domicilio / Códigos de verificación)
 
-### Ruta 66 (10‑20 días)
+- **Necesidad principal**: un número de EE. UU. que pueda recibir SMS (registro en Uber/Lyft, pedir en DoorDash, reservas de restaurantes)
+- **Recomendación**: plan de datos de Roami + Google Voice (o TextNow y otras soluciones VoIP, regístrate antes de salir)
+- **Razón**: las tres grandes marcas de eSIM de viaje **no ofrecen números de teléfono estadounidenses**. La combinación más rentable es eSIM de datos + número VoIP para códigos de verificación—consulta la sección del número de teléfono más abajo.
 
-- **Consumo diario**: ~1.5 GB (navegación + directos en carretera + vídeos cortos)
-- **Recomendación**: Roami 20 GB/15 días ($18.99 con descuento $15.19)
-- **Motivo**: la Ruta 66 atraviesa el medio oeste y desiertos –Verizon es la única red que cubre toda la ruta. La conmutación multi‑red de Roami elige Verizon en el desierto, más estable.
+### Vacaciones familiares en EE. UU.
 
-### Necesitas número de Estados Unidos (Uber, comida a domicilio, códigos de verificación)
+- **Necesidades principales**: varios dispositivos conectados a la vez, compartir por hotspot, repartir costes
+- **Recomendación**: plan de grandes datos de Roami (20-50GB) o ilimitado
+- **Razón**: Roami permite hacer tethering sin límite, así que una eSIM de EE. UU. puede alimentar todo el coche. Airalo también permite el hotspot, pero sus niveles más baratos de EE. UU. son solo 4G, y la franquicia de 1GB/día de Holafly se agota antes de la primera parada de descanso.
 
-- **Necesidad**: un número que pueda recibir SMS (registro en Uber/Lyft, pedidos en DoorDash, reservas en OpenTable)
-- **Recomendación**: plan de datos de Roami + Google Voice (o TextNow, regístrate antes de salir)
-- **Motivo**: las tres grandes marcas **no ofrecen número local**. La combinación más rentable es eSIM de datos + número VoIP para códigos –más abajo tienes la sección específica.
+### Presupuesto más estricto: solo mapas + mensajería
 
-### Vacaciones en familia
+- **Recomendación**: Roami 1GB/7 días ($1.99 con descuento $1.59)
+- **Razón**: el precio de entrada más bajo entre las tres marcas—incluso más barato que el Airalo 3 días 1GB ($4.00).
 
-- **Necesidades**: varios dispositivos a la vez, compartir hotspot, repartir gastos
-- **Recomendación**: plan de muchos datos de Roami (20‑50 GB) o ilimitado
-- **Motivo**: Roami admite **hotspot ilimitado** –uno compra, todos usan. Airalo también, pero algunos planes son solo 4G. Holafly tiene límite de 1 GB/día –no vale para grupos.
+## Sección especial: número de teléfono de la eSIM de EE. UU.
 
-### Presupuesto mínimo: solo mapas y mensajes
+> **📌 Resumen de decisión rápida**: un número de EE. UU. no es un "agradable extra"—es un "requisito estricto" para el transporte, la comida a domicilio y la reserva de billetes. Pero ninguna de las tres grandes marcas de eSIM de viaje ofrece un número de EE. UU. La mejor combinación = eSIM de datos de Roami + Google Voice (regístrate antes de salir). Solo considera una eSIM con número local de EE. UU. si "necesitas imprescindiblemente un número local para llamadas/SMS de banco".
 
-- **Recomendación**: Roami 1 GB/7 días ($1.99 con descuento $1.59)
-- **Motivo**: el precio de entrada más bajo entre las tres marcas –incluso más barato que Airalo 1 GB de 3 días ($4.00).
+Ningún destino europeo fuerza esta pregunta, y es exactamente por eso que EE. UU. se lleva una sección propia.
 
-## Sección especial: número de teléfono en eSIM para Estados Unidos
+### ¿Qué escenarios requieren un número de teléfono de EE. UU.?
 
-> **📌 Resumen**: Un número local no es un “extra”, es un **requisito** para Uber, comida a domicilio y reservas. Pero ninguna de las tres grandes marcas lo ofrece. La mejor combinación = eSIM de datos de Roami + Google Voice (regístrate antes de viajar). Solo considera una eSIM con número local si necesitas llamadas y SMS bancarios. [Ver últimos planes →](/united-states-esim/)
-
-Esta es la mayor diferencia con Europa –merece una sección completa.
-
-### ¿Qué escenarios requieren número de Estados Unidos?
-
-| Escenario | ¿Número necesario? | Notas |
+| Escenario | ¿Se requiere número de EE. UU.? | Notas |
 |------|---------------|------|
-| Uber / Lyft | ⚠️ Probablemente sí | El registro y algunas verificaciones piden SMS |
-| DoorDash / Uber Eats | ⚠️ Probablemente sí | Para pedidos y contacto con el repartidor |
-| Reservas en restaurantes | ⚠️ A veces | Plataformas como OpenTable piden verificación por teléfono |
-| Códigos de verificación bancarios | ❌ Usa tu número de casa | Los códigos llegan a tu número habitual |
-| Llamadas a locales | ❌ La eSIM de datos no puede | Necesitas VoIP o número local |
+| Transporte (Uber/Lyft) | ⚠️ Probablemente necesario | El registro y algunas verificaciones requieren un número capaz de recibir SMS |
+| Comida a domicilio (DoorDash/Uber Eats) | ⚠️ Probablemente necesario | Pedir y contactar con el repartidor dependen del SMS |
+| Reservas de restaurantes | ⚠️ A veces necesario | Plataformas como OpenTable requieren verificación telefónica |
+| Códigos de verificación de banco/tarjeta de crédito | ❌ Usa tu número de origen | Los códigos de verificación a tu número de origen funcionan bien |
+| Llamar/SMS a residentes de EE. UU. | ❌ La eSIM de datos no puede hacerlo | Necesitas VoIP o un número local |
 
-### Comparativa de soluciones
+### Comparación de soluciones
 
-| Solución | Coste | ¿Recibe SMS? | ¿Hace llamadas? | Mejor para |
+| Solución | Coste | ¿Puede recibir SMS? | ¿Puede llamar? | Mejor para |
 |------|------|-----------|-----------|------|
-| **eSIM de datos + Google Voice** | Número gratuito + coste de datos de eSIM | ✅ Sí (algunos códigos) | ✅ Llamadas VoIP | La mayoría de viajeros (mejor relación) |
-| **eSIM con número local** (ej. T‑Mobile/Verizon prepago) | Más alto (10 GB/mes ~$40+) | ✅ Completo | ✅ Completo | Si necesitas número local sí o sí, estancias >1 mes |
-| **eSIM solo datos (sin número)** | Más bajo | ❌ | ❌ | Viajeros minimalistas que no usan Uber, solo navegación y WhatsApp |
+| **eSIM de datos + Google Voice** | Número gratis + coste de datos de la eSIM | ✅ Puede recibir algunos códigos de verificación | ✅ Llamadas VoIP | La mayoría de viajeros (mejor valor) |
+| **eSIM con número local de EE. UU.** (p. ej., eSIM prepago de T-Mobile/Verizon) | Más alto (10GB/mes ~$40+) | ✅ Completo | ✅ Completo | Número local imprescindible, estancias de más de 1 mes |
+| **eSIM de solo datos (sin número)** | El más bajo | ❌ | ❌ | Viajeros minimalistas que no usan transporte/comida a domicilio, solo navegación + WhatsApp |
 
-**Recomendación**: antes de salir, regístrate en Google Voice (número gratuito de Estados Unidos) usando tu red de casa. Al llegar, usa la red de datos de tu eSIM para recibir códigos de Uber y hacer llamadas VoIP –la combinación más rentable.
+**Recomendación**: antes de salir, registra un número de Google Voice (número de EE. UU. gratis) usando tu red de casa. Tras aterrizar, usa la red de datos de tu eSIM de EE. UU. para recibir códigos de verificación de transporte y hacer llamadas VoIP—la combinación más rentable.
 
-## Roaming Estados Unidos‑Canadá‑México
+## Roaming EE. UU.-Canadá-México
 
-> **📌 Resumen**: Una eSIM para Estados Unidos no es lo mismo que una eSIM para Norteamérica. La mayoría de los planes locales no incluyen Canadá ni México, pero las eSIM de viaje suelen ofrecer planes para los tres países. Si viajas a “Estados Unidos + Canadá” o “Estados Unidos + México”, asegúrate de elegir un plan etiquetado como Norteamérica –si no, al cruzar la frontera te quedas sin conexión. [Ver planes →](/united-states-esim/)
+> **📌 Resumen de decisión rápida**: una eSIM de EE. UU. no es lo mismo que una eSIM de Norteamérica. La mayoría de planes locales de EE. UU. no incluyen Canadá/México, pero las eSIM de viaje principales suelen admitir los tres. Si planeas un viaje multipaís "EE. UU.+Canadá" o "EE. UU.+México", asegúrate de seleccionar un plan etiquetado como Norteamérica—de lo contrario perderás la conexión al cruzar la frontera.
 
-### Comparativa de políticas de roaming
+### Comparación de la política de roaming en Norteamérica de las marcas
 
-| Marca | ¿El plan de Estados Unidos incluye Canadá/México? | Notas |
+| Marca | ¿El plan de EE. UU. incluye Canadá/México? | Notas |
 |------|------------------------------|------|
-| **Roami** | ✅ Algunos planes cubren Norteamérica | Elige el plan Norteamérica para los tres países |
-| **Airalo** | ✅ Ofrece niveles de Estados Unidos / Norteamérica | Debes elegir el plan de Estados Unidos o el de Norteamérica |
-| **Holafly** | ⚠️ El plan de Estados Unidos no incluye los vecinos | Para cruzar la frontera necesitas un plan separado de Canadá o México |
+| **Roami** | ✅ Algunos planes cubren Norteamérica | Selecciona el plan Norteamérica para los tres |
+| **Airalo** | ✅ Ofrece niveles EE. UU./Norteamérica | Debes elegir el plan USA o North America |
+| **Holafly** | ⚠️ El plan de EE. UU. no incluye los vecinos | Cruzar la frontera requiere un plan separado de Canadá/México |
 
-### Preguntas frecuentes sobre roaming
+### FAQ de roaming
 
-- **Viaje Estados Unidos‑Canadá** (Nueva York + Toronto): elige plan Norteamérica –una eSIM para todos.
-- **Viaje Estados Unidos‑México** (California + Cancún): igual, elige plan Norteamérica que incluya México.
-- **¿Se reducen los datos?** La mayoría de los planes Norteamérica comparten la cuota sin reducción.
+- **Viaje EE. UU.-Canadá** (Nueva York + Toronto): elige el plan Norteamérica—una eSIM para los tres.
+- **Viaje EE. UU.-México** (California + Cancún): igualmente, elige un plan Norteamérica que incluya México.
+- **¿Se reducen los datos?** La mayoría de planes Norteamérica comparten la cuota de datos entre los tres países sin reducción.
 
-## Cuándo NO comprar una eSIM para Estados Unidos
+## Cuándo NO deberías comprar una eSIM para EE. UU.
 
-### Casos en los que no es suficiente
+### Casos en que la eSIM se queda corta
 
-- **Tu móvil está bloqueado por un operador de Estados Unidos**: los móviles bloqueados solo aceptan la SIM de ese operador –las eSIM de viaje no funcionarán. Desbloquéalo antes de salir.
-- **Necesitas muchas llamadas y SMS locales**: las eSIM de datos no dan llamadas ni SMS –para estancias largas necesitas una eSIM con número local o una SIM local.
-- **Estancia de más de 3 meses**: las eSIM con número local o los planes locales tienen tarifas mensuales más baratas.
+- **Tu teléfono está bloqueado a un operador de EE. UU.**: los teléfonos bloqueados solo reconocen la SIM de ese operador—las eSIM de viaje normalmente no se pueden grabar. Libéralo antes de salir, o confirma que tu teléfono está libre.
+- **Necesitas muchas llamadas/SMS locales**: las eSIM de datos no proporcionan llamadas ni SMS—para estancias largas, necesitas una eSIM con número local o una SIM local.
+- **Te quedas más de 3 meses**: las eSIM/planes locales con número tienen tarifas mensuales más baratas.
 
-### Lista de comprobación rápida
+### Lista de verificación rápida para comprar o no
 
-1. ✅ ¿Tu teléfono está **desbloqueado** (especialmente si es de un operador de Estados Unidos)?
-2. ✅ ¿Tu teléfono **admite eSIM** (los iPhone de China/Hong Kong no)?
-3. ✅ ¿Necesitas **número de teléfono de Estados Unidos** (Uber, comida a domicilio)?
-4. ✅ ¿Planeas viajar a **Canadá o México** (elige plan Norteamérica)?
-5. ✅ ¿Visitas **parques nacionales** (descarga mapas sin conexión)?
+1. ✅ ¿Tu teléfono está **libre** (especialmente común en teléfonos bloqueados por operadores de EE. UU.)?
+2. ✅ ¿Tu teléfono **admite eSIM** (los iPhone de China continental/Hong Kong en su mayoría no)?
+3. ✅ ¿Necesitas un **número de teléfono de EE. UU.** (transporte/comida a domicilio)?
+4. ✅ ¿Planeas un **viaje EE. UU.-Canadá-México** (elige el plan Norteamérica)?
+5. ✅ ¿Visitas **parques nacionales** (descarga mapas sin conexión con antelación)?
 
-## eSIM vs otras opciones de conectividad
+## eSIM frente a otras opciones de conectividad en EE. UU.: comparación completa
 
-| Opción | Coste (7 días) | Comodidad | Calidad de red | Número local |
+| Opción | Coste (7 días) | Comodidad | Calidad de red | Número de EE. UU. |
 |------|------------|--------|----------|-----------|
-| **eSIM de viaje (Roami 10 GB)** | $8.79 (con descuento) | ⭐⭐⭐⭐⭐ Funciona al llegar | Multi‑red, 5G completo | ❌ |
-| **SIM prepago local de Estados Unidos** | $25‑50 | ⭐⭐ Requiere activación en tienda | Una sola red | ✅ |
-| **Roaming internacional de tu operador** | ~¥30/día | ⭐⭐⭐ Requiere activación | Depende del socio | ✅ (tu número) |
-| **WiFi portátil** | $40‑80/semana | ⭐⭐ Requiere alquiler/devolución | Media | ❌ |
+| **eSIM de viaje (Roami 10GB)** | $8.79 (con descuento) | ⭐⭐⭐⭐⭐ Funciona al llegar | Multi-red, 5G completo | ❌ |
+| **SIM prepago local de EE. UU.** | $25-50 | ⭐⭐ Requiere activación en tienda | Una sola red | ✅ |
+| **Roaming internacional de tu operador** | ~¥30/día | ⭐⭐⭐ Requiere activación | Depende del socio | ✅ (número de origen) |
+| **WiFi de bolsillo** | $40-80/semana | ⭐⭐ Requiere alquiler/devolución | Regular | ❌ |
 
-**Conclusión**: para viajes cortos (7‑15 días), la eSIM de viaje gana en coste y comodidad. Si necesitas número local, la combinación “eSIM de viaje + número VoIP” es la mejor. Según la [GSMA](https://www.gsma.com/), la penetración de eSIM sigue creciendo y ya es la solución principal para conectar en el extranjero.
+**Conclusión**: para viajes cortos (7-15 días), la eSIM de viaje supera a las SIM locales y al WiFi de bolsillo tanto en coste como en comodidad. Si necesitas un número de EE. UU., la combinación "eSIM de viaje + número VoIP" es la más rentable. Según [los datos de Mobile Economy de GSMA](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/), los envíos de teléfonos compatibles con eSIM siguen creciendo año tras año, razón por la cual una eSIM de datos es hoy la opción por defecto para un viaje corto a EE. UU. y no una alternativa de nicho.
 
-## Configuración y activación de la eSIM para Estados Unidos
+## Configuración y activación de la eSIM para EE. UU.
 
-### El primer paso es clave
+### El primer paso es lo más importante
 
-**Instala tu eSIM antes de salir, con WiFi.** Al aterrizar en Estados Unidos, activa el roaming de datos y se conecta automáticamente. Así podrás pedir un Uber en el primer minuto –sin buscar un mostrador en el aeropuerto.
+**Instala tu eSIM de EE. UU. antes de salir con WiFi.** Tras aterrizar en EE. UU., activa el roaming de datos y se activa automáticamente. Esto te permite pedir un Uber en el primer minuto—sin necesidad de buscar un mostrador en el aeropuerto.
 
-### Instalación en iPhone y Android
+### Instalación en iPhone vs Android
 
-1. **iPhone**: Ajustes → Datos móviles → Añadir eSIM → Escanear código QR → Etiquetar como “Viaje” o “Datos”.
-2. **Android**: Ajustes → Conexiones → Administrador de tarjetas SIM → Añadir eSIM → Escanear código QR (las rutas pueden variar).
-3. **Activación**: al llegar a Estados Unidos, activa “Roaming de datos” en ajustes y asegúrate de que la eSIM esté seleccionada como tarjeta de datos principal. El registro en la red suele tardar 2 minutos.
+1. **iPhone**: Ajustes → Datos móviles → Añadir eSIM → Escanear código QR → Etiquetar como "Viaje" o "Datos".
+2. **Android**: Ajustes → Conexiones → Gestor de tarjetas SIM → Añadir eSIM → Escanear código QR (las rutas pueden variar según la marca).
+3. **Activación**: al llegar a EE. UU., activa "Roaming de datos" en ajustes y asegúrate de que la eSIM está seleccionada como tarjeta de datos principal. El registro en la red suele ocurrir en un plazo de 2 minutos.
 
-### Activación según la marca
+### Los pasos de activación varían según la marca
 
-- **Airalo**: instalación desde la App, sin necesidad de escanear QR manualmente; la App te guía.
-- **Holafly**: envían QR por correo, también se puede instalar desde la App. Importante: asegúrate de que la fecha/hora del teléfono esté en “Automático” antes de activar.
-- **Roami**: QR por correo; escanéalo para instalar. Tras la instalación, se activa automáticamente al llegar a Estados Unidos –sin pasos extra.
+- **Airalo (Change)**: instala directamente desde la app de Airalo—no hace falta escanear QR, y la app te guía en la descarga del perfil.
+- **Holafly**: el QR llega por correo y también se puede extraer en la app. Configura primero la fecha y hora del teléfono en "Automático"—un reloj manual es la causa más común de que un perfil de Holafly se niegue a activarse.
+- **Roami**: el QR llega a tu bandeja de entrada; escanéalo una vez y la línea se activa en cuanto toques una red de EE. UU.
 
-### Si falla la activación: seis soluciones
+### Cuando falla la activación: seis soluciones
 
-> ① **Activar Roaming de datos**: Ajustes → Datos móviles → Opciones de datos móviles → Roaming de datos (ACTIVAR).
+> ① **Roaming de datos**: Ajustes → Datos móviles → Opciones de datos móviles → Roaming de datos (actívalo)
 >
-> ② **Selección manual de red**: Ajustes → Datos móviles → Selección de red → desactivar “Automático” → elegir manualmente T‑Mobile, Verizon o AT&T.
+> ② **Elige una red manualmente**: Ajustes → Datos móviles → Selección de red → desactiva "Automático" → elige tú mismo T-Mobile, Verizon o AT&T
 >
-> ③ **Reiniciar el teléfono**: simple pero efectivo.
+> ③ **Reinicia el teléfono**: poco glamuroso, pero desbloquea la mayoría de registros atascados
 >
-> ④ **Comprobar ajustes APN**: algunas marcas requieren configuración manual (normalmente “internet” o “wholesale”); consulta tu correo de compra.
+> ④ **Comprueba el APN**: algunas marcas aún necesitan un APN manual ("internet" o "wholesale")—está en tu correo de compra
 >
-> ⑤ **Confirmar el período de activación**: algunos planes tienen fecha de caducidad.
+> ⑤ **Comprueba la ventana de validez**: un plan caducado se ve exactamente igual que un plan que nunca se activó
 >
-> ⑥ **Contactar con soporte**: si nada funciona, contacta con el servicio al cliente de la marca.
+> ⑥ **Escala a soporte**: si nada de lo anterior funciona, contacta con la marca y facilita tu EID para que puedan ver el perfil por su lado
 
-## Compatibilidad de dispositivos y móviles bloqueados
+## Compatibilidad de dispositivos y teléfonos bloqueados con la eSIM de EE. UU.
 
-### Tres problemas específicos de Estados Unidos
+### Tres obstáculos específicos de EE. UU.
 
-1. **Móviles bloqueados por operador**: los iPhone/Android bloqueados por operadores de Estados Unidos no pueden usar eSIM de otros. Confirma que tu teléfono está **desbloqueado** antes de salir.
-2. **Solo eSIM (sin SIM física)**: los iPhone 14 y posteriores de Estados Unidos **no tienen ranura para SIM física** –solo eSIM. No es un problema (vas a usar eSIM), pero no esperes comprar una SIM física al llegar.
-3. **iPhone de China/Hong Kong**: los iPhone de China continental y Hong Kong **no admiten eSIM** –necesitas un modelo de Estados Unidos u otro internacional.
+1. **Teléfonos con bloqueo de operador**: los iPhone/Android bloqueados por operadores de EE. UU. no pueden usar eSIM de otros operadores. Confirma que tu teléfono está **libre** antes de salir.
+2. **Solo eSIM (sin SIM física)**: el iPhone 14 de EE. UU. y posteriores **no tienen ranura de SIM física**—solo eSIM. Esto no es un problema (de todos modos usarás una eSIM de viaje), pero no esperes poder comprar una SIM física al llegar.
+3. **Terminales comprados en China continental o Hong Kong**: estos son los modelos con más probabilidades de fallar en un viaje a EE. UU., porque un iPhone de China continental suele venir con la eSIM desactivada y uno de Hong Kong a menudo lleva dos bandejas de SIM física en su lugar. Si ese es tu terminal, comprueba el modelo exacto contra nuestra [lista de dispositivos compatibles con eSIM](/compatibility/) antes de comprar un plan.
 
-### Cómo comprobar la compatibilidad de tu teléfono
+### Comprueba si tu teléfono admite eSIM
 
-Marca `*#06#` en el teclado. Si en la pantalla aparece un número **EID**, tu teléfono admite eSIM; si no, no.
-- iPhone XS/XR y superiores (versiones de Estados Unidos/internacionales) → sí.
-- Google Pixel 3 y superiores → sí.
-- Samsung Galaxy S20 y superiores (versiones globales) → sí.
+Marca `*#06#` en el teclado. Si la pantalla muestra un número **EID**, tu teléfono admite eSIM; sin EID, no lo admite.
+- iPhone XS/XR y superiores (versiones de EE. UU./internacionales) admiten eSIM
+- Google Pixel 3 y superiores admiten eSIM
+- Samsung Galaxy S20 y superiores (versiones globales) admiten eSIM
 
-## Preguntas frecuentes sobre eSIM para Estados Unidos
+## eSIM para EE. UU.: preguntas frecuentes
 
-> **📌 Resumen rápido**: Ninguna marca pide pasaporte, y ninguna da número local. Roami y Airalo permiten hotspot ilimitado; Holafly tiene límite de 1 GB/día. La validez empieza al conectarse a la red (excepto Holafly). Puedes recargar en línea cuando se acaben los datos. [Ver todas las preguntas →](/united-states-esim/)
+> **📌 Resumen de decisión rápida**: casi toda pregunta sobre EE. UU. vuelve a los números y el tethering—ninguna marca pide pasaporte, ninguna te da un número de EE. UU., Roami y Airalo permiten hotspot ilimitado mientras que Holafly limita el compartir a 1GB/día, y todos los planes salvo Holafly empiezan a contar desde la primera conexión a la red.
 
-**P1: ¿La eSIM para Estados Unidos pide pasaporte o identificación?**
+**P1: ¿Requiere una eSIM de EE. UU. pasaporte o identificación?**
 
-No. Las eSIM de viaje son solo datos, no requieren identificación –protegen tu privacidad. Si necesitas número local, tendrás que comprar un producto de operador local (que sí pide identificación).
+Absolutamente no. Las eSIM de viaje de EE. UU. son productos de solo datos que no requieren identificación personal al comprar—protegiendo tu privacidad. Si necesitas un número de teléfono estadounidense, necesitarás un producto de operador local (que sí requiere verificación de identidad).
 
-**P2: ¿La eSIM para Estados Unidos incluye número de teléfono local?**
+**P2: ¿Incluye una eSIM de EE. UU. un número de teléfono estadounidense?**
 
-**No.** Airalo, Holafly y Roami son **servicios solo de datos, sin número de teléfono estadounidense**. Esta es la gran diferencia con Europa. Si necesitas número (Uber, comida, códigos), combínalo con Google Voice (regístrate antes) o compra una eSIM con número local. Mira la sección específica.
+**No.** Airalo, Holafly y Roami—las tres grandes marcas de viaje—son todos **servicios de solo datos que no proporcionan un número de teléfono estadounidense.** Esta es la mayor diferencia entre el mercado de EE. UU. y el europeo. Si necesitas un número de EE. UU. (transporte/comida a domicilio/códigos de verificación), combínala con una solución VoIP como Google Voice (regístrate antes de salir) o compra una eSIM con número local. Consulta la sección del número de teléfono más abajo.
 
 **P3: ¿Las tres marcas admiten 5G?**
 
-No todas. Algunos planes de Airalo son solo 4G (T‑Mobile/Verizon 4G); Holafly admite T‑Mobile 5G; Roami admite 5G multi‑red con conmutación automática. Consulta los indicadores al revisar [los últimos precios](/united-states-esim/).
+No del todo. Algunos planes de Airalo solo admiten 4G (4G de T-Mobile/Verizon); Holafly admite el 5G de T-Mobile; Roami admite el cambio automático multi-red 5G. Consulta los indicadores de soporte 5G en las tablas de precios anteriores.
 
-**P4: ¿Se permite compartir hotspot?**
+**P4: ¿Se permite el hotspot (tethering)?**
 
-Airalo y Roami permiten hotspot ilimitado. Holafly lo permite pero con límite de 1 GB/día. Para viajes en familia o si necesitas compartir, prioriza Roami o Airalo.
+Airalo y Roami admiten ambos compartir por hotspot ilimitado. Holafly lo admite pero con un límite de 1GB/día. Para viajes familiares o usuarios que necesitan compartir, prioriza Roami o Airalo.
 
-**P5: ¿El “ilimitado” de Holafly es realmente ilimitado?**
+**P5: ¿El "ilimitado" de Holafly es de verdad ilimitado?**
 
-Sí –Holafly es realmente ilimitado, sin tope de GB. Esa es su principal ventaja frente a los planes fijos de Airalo y Roami. Pero el precio diario ($3.90/día) hace que para viajes de más de 10 días sea muy caro, y el hotspot está limitado a 1 GB/día.
+Sí—Holafly es verdaderamente ilimitado, sin límite de GB. Esta es su diferencia central frente a los planes de datos fijos de Airalo y Roami. Sin embargo, el precio diario parte de $3.97/día (bajando a $2.46/día en 30 días), y el hotspot está limitado a 1GB/día.
 
-**P6: ¿Qué ventaja tiene la conmutación multi‑red de Roami?**
+**P6: ¿Cuál es la ventaja del cambio multi-red de Roami?**
 
-Los tres grandes operadores tienen puntos fuertes distintos –Verizon es mejor en parques nacionales (ver análisis), T‑Mobile es más rápido en ciudades. Roami elige automáticamente la mejor señal en cada lugar: T‑Mobile 5G en ciudad, Verizon al entrar en parques –evitando puntos ciegos. [Elige la mejor eSIM según tu itinerario](/united-states-esim/). Si vas a hacer carretera o visitar parques, esta función es aún más valiosa.
+Los tres grandes operadores de EE. UU. tienen fortalezas de cobertura distintas—Verizon es el mejor en los parques nacionales (consulta el análisis de operadores), T-Mobile es el más rápido en 5G urbano. Roami selecciona automáticamente la señal más fuerte en tu ubicación: 5G de T-Mobile en las ciudades, Verizon al entrar en los parques nacionales—evitando las zonas muertas de una sola red. Si vas a hacer una ruta por carretera o visitar parques nacionales, el cambio multi-red es aún más valioso.
 
-**P7: ¿Cuándo empieza la validez de la eSIM?**
+**P7: ¿Cuándo empieza el periodo de validez de la eSIM de EE. UU.?**
 
-Empieza cuando te **conectas por primera vez a una red local en Estados Unidos**, no al comprar ni al instalar. Puedes comprar e instalar días antes; se activa automáticamente al llegar. En Holafly es diferente –debes elegir una fecha de inicio al comprar.
+Empieza cuando **te conectas por primera vez a una red local en EE. UU.**, no en la compra ni la instalación. Puedes comprar e instalarla días antes; se activa automáticamente al llegar. Holafly es algo distinto—necesitas especificar una fecha de inicio al comprar.
 
-**P8: ¿Qué pasa si mi móvil está bloqueado por un operador?**
+**P8: ¿Qué pasa si mi teléfono está bloqueado por el operador?**
 
-Los móviles bloqueados no pueden usar eSIM de otros operadores. Antes de salir, contacta con tu operador para que te lo **desbloquee**, o usa un móvil desbloqueado. Este es un problema muy común en Estados Unidos (muchos móviles bloqueados).
+Los teléfonos bloqueados no pueden usar eSIM de otros operadores. Antes de salir, contacta con tu operador original para **liberarlo**, o usa un teléfono libre. Este es un problema especialmente común en el mercado de EE. UU. (muchos teléfonos bloqueados por operadores estadounidenses).
 
-**P9: ¿Qué hago si me quedo sin datos?**
+**P9: ¿Qué pasa si me quedo sin datos en mi eSIM de EE. UU.?**
 
-Puedes recargar en línea al instante –la recarga se activa sin cambiar la eSIM. Todas las marcas admiten recargas online.
+Puedes recargar en línea de inmediato—el complemento surte efecto al instante sin cambiar la eSIM. Todas las marcas principales admiten recargas en línea.
 
-**P10: Llegada nocturna al aeropuerto de Nueva York o Los Ángeles –¿puedo usar la eSIM inmediatamente?**
+**P10: Llegada tardía al aeropuerto de Nueva York/Los Ángeles—¿puedo usarla de inmediato?**
 
-Sí. Si has [instalado la eSIM antes](/united-states-esim/), al aterrizar activas el roaming de datos y en 2 minutos estás conectado para pedir un Uber. Los mostradores de SIM en los aeropuertos suelen estar cerrados por la noche y son caros –la eSIM es la mejor opción.
+Sí. Tras instalar tu eSIM de EE. UU. por adelantado, activa el roaming de datos al aterrizar—estarás en línea en un plazo de 2 minutos para pedir un Uber. Los mostradores de SIM de los aeropuertos estadounidenses suelen estar cerrados de madrugada y con precios inflados—la eSIM es la mejor solución para llegadas tardías.
 
-**P11: ¿Se puede usar la eSIM de Estados Unidos en Canadá o México?**
+**P11: ¿Se puede usar una eSIM de EE. UU. en Canadá/México?**
 
-Depende del plan. Los planes locales de Estados Unidos no suelen incluir Canadá ni México, pero las eSIM de viaje ofrecen planes de Norteamérica que comparten datos entre los tres países. Si viajas a varios, elige un plan Norteamérica (ver sección de roaming).
+Depende del plan. La mayoría de planes locales de EE. UU. no incluyen Canadá/México, pero las eSIM de viaje principales ofrecen planes Norteamérica que comparten datos entre los tres. Si planeas un viaje multipaís EE. UU.-Canadá-México, asegúrate de seleccionar un plan Norteamérica (consulta la sección de roaming EE. UU.-Canadá-México).
 
-**P12: ¿Se cobrará algo automáticamente al caducar?**
+**P12: ¿Se me cobrará automáticamente después de que expire la eSIM de EE. UU.?**
 
-No. Todos los planes son de pago único; al caducar se desconectan sin cargos ocultos.
+No. Todos los planes son pagos únicos; se desconectan automáticamente al expirar sin cargos ocultos.
 
-**P13: ¿Los iPhone de China o Hong Kong pueden usar eSIM en Estados Unidos?**
+**P13: ¿Pueden los iPhone de China/Hong Kong usar una eSIM de EE. UU.?**
 
-No. Los iPhone de China continental y Hong Kong **no admiten eSIM**. Necesitas un iPhone de Estados Unidos (XS/XR o superior) u otro modelo internacional que sí lo admita.
+En su mayoría no. Los iPhone de China continental **no admiten eSIM** salvo unos pocos modelos (iPhone 18 Pro, 18 Pro Max, 17e y iPhone Air), y los modelos de Hong Kong vienen con dos ranuras de SIM física. Necesitarás un iPhone de EE. UU. (XS/XR o superior) u otro modelo internacional que admita eSIM—consulta nuestra [lista de dispositivos compatibles con eSIM](/compatibility/) para el detalle completo.
 
-**P14: ¿La señal es mala en los parques nacionales?**
+**P14: ¿Es mala la señal en los parques nacionales?**
 
-Sí. Yellowstone, el Gran Cañón, Yosemite y otros parques tienen muchas zonas sin señal. Elige una eSIM que use Verizon (como Roami con multi‑red) para la mejor cobertura, pero **descarga mapas sin conexión antes** –dentro del parque puede que no haya señal en absoluto.
+Sí. Yellowstone, el Gran Cañón, Yosemite y otros parques nacionales tienen muchas zonas muertas de señal. Elige una eSIM que use la red de Verizon (como Roami con cambio multi-red) para la mejor cobertura, pero **asegúrate de descargar mapas sin conexión con antelación**—en el interior de los parques puede que no haya señal alguna.
 
-**P15: ¿El código WEB20 de Roami se puede usar para recargas?**
+**P15: ¿Se puede usar el código de descuento WEB20 de Roami para recargas?**
 
-El código descuento se aplica a compras nuevas de cualquier plan. Para renovaciones, si haces un nuevo pedido, puedes volver a usarlo; consulta los términos oficiales.
+El código de descuento aplica a la primera compra de cualquier plan. Para renovaciones, si es un pedido nuevo, puedes volver a usarlo; consulta los términos oficiales para las reglas actuales.
 
-**P16: ¿Se puede usar el roaming de operadores chinos en Estados Unidos?**
+**P16: ¿Se puede usar el roaming de operadores chinos en EE. UU.? ¿Qué debo tener en cuenta?**
 
-Sí, los tres grandes operadores chinos ofrecen roaming internacional que cubre Estados Unidos –hay que activarlo antes. El precio es de unos ¥30/día, pero el coste es mucho mayor que la eSIM (7 días ~$28 vs Roami 10 GB con descuento a $8.79), y algunos servicios pueden tener restricciones.
+Sí. Los tres grandes operadores de China ofrecen roaming internacional que cubre EE. UU.—necesitas activarlo con antelación. El precio de referencia es de unos ¥30/día. Pero los costes de roaming son mucho más altos que la eSIM (7 días ~$28 frente al Roami 10GB con descuento a $8.79), y algunos servicios internacionales pueden tener restricciones de acceso.
 
-**P17: ¿Cuánto cuesta una eSIM para Estados Unidos al día?**
+**P17: ¿Cuánto cuesta al día una eSIM de EE. UU.?**
 
-Depende del plan y la marca. Según los precios con descuento: Roami ilimitado 7 días a $2.51/día, 30 días a $1.33/día; Airalo ilimitado 7 días a $3.57/día; Holafly fijo a $3.90/día. Los planes fijos son más baratos –Roami 10 GB/7 días con descuento a $8.79 sale a unos $1.26/día. **Conclusión**: la mayoría de la gente gasta **$1‑2 al día** en conectividad en Estados Unidos –mucho menos que el roaming de tu operador (~$4/día).
+Depende del nivel y la marca. Según las tarifas con descuento anteriores: Roami ilimitado 7 días $2.51/día, 30 días $1.33/día; Airalo ilimitado 7 días $3.57/día; Holafly desde $3.97/día. Los planes de datos fijos son más baratos—el Roami 10GB/7 días con descuento a $8.79 sale a unos $1.26/día. **Conclusión**: el coste diario de conectividad en EE. UU. para la mayoría es de **$1-2**—muy por debajo del roaming del operador de origen (~$4/día).
 
-**P18: ¿Merece la pena contratar datos ilimitados?**
+**P18: ¿Vale la pena comprar la eSIM de EE. UU. con datos ilimitados?**
 
-Para la mayoría, no. El ilimitado es un “impuesto por la tranquilidad” –Roami 7 días ilimitado ($17.59) cuesta $4.80 más que 20 GB ($12.79), pero el turista medio usa 1 GB/día, menos de 7 GB en una semana. Solo los que ven más de 2 horas de vídeo al día podrían necesitarlo. **Calcula tu consumo antes de decidir si pagar el extra.**
+Para la mayoría, no. El ilimitado es un "impuesto de tranquilidad"—el ilimitado de 7 días de Roami ($17.59) cuesta $4.80 más que el de 20GB ($12.79), pero el turista medio usa 1GB/día—menos de 7GB en una semana. Solo los usuarios intensivos que hacen streaming de vídeos cortos/videollamadas más de 2 horas al día podrían superar los límites de un plan fijo. **Calcula primero tu uso diario—y luego decide si pagas el extra.**
 
-**P19: ¿Cuánto dura 1 GB de datos?**
+**P19: ¿Cuánto dura 1GB de datos de una eSIM de EE. UU.?**
 
-1 GB da para unas 20 horas de Google Maps + muchos mensajes de WhatsApp, pero solo 1‑2 horas de vídeos cortos o 30 minutos de vídeo en 1080p. Los usuarios mínimos (navegación + texto) pueden estirar 1 GB durante 3‑5 días; si ves redes sociales o vídeos, empieza con 10 GB. Si dudas, elige el nivel intermedio (5 GB) –siempre puedes recargar después.
+1GB equivale a unas 20 horas de navegación con Google Maps + mucha mensajería por WhatsApp, pero solo cerca de 1-2 horas de vídeos cortos o 30 minutos de vídeo 1080p. Los usuarios mínimos (navegación+texto) pueden estirar 1GB durante 3-5 días; si navegas por redes sociales/haces streaming, empieza en 10GB. Si tienes dudas, elige el nivel intermedio (5GB)—siempre puedes recargar en línea más tarde.
 
-## Guía de decisión para eSIM en Estados Unidos
+## Guía de decisión de eSIM para EE. UU.
 
-| Tu viaje | Marca recomendada | Plan recomendado | Precio con descuento | Motivo |
+| Tu viaje | Marca recomendada | Plan recomendado | Precio con descuento | Razón principal |
 |---------|---------|---------|--------|----------|
-| Nueva York / Los Ángeles 3 días | **Roami** | 3 GB | $3.19 | Buena cobertura en ciudades –elige el más barato |
-| Costa Oeste en carretera 7 días | **Roami** | 10 GB | $8.79 | Cambia a T‑Mobile en ciudad y a Verizon en desiertos |
-| Parques nacionales 7 días | **Roami** | 10 GB | $8.79 | Cambia a Verizon –mejor cobertura en parques |
-| Ruta 66 10‑15 días | **Roami** | 20 GB | $15.19 | Verizon es la única red fiable en el oeste |
-| Viaje en familia | **Roami** | 10‑20 GB | $8.79‑$15.19 | Hotspot ilimitado para todos |
-| Necesitas número local | **Roami + Google Voice** | Plan de datos | $3.19+ | eSIM de datos + VoIP –la opción más rentable |
-| No quieres controlar datos (corto plazo) | **Holafly** | Ilimitado 7 días | $27.30 | Realmente ilimitado, sin reducción |
-| Teletrabajo 30 días | **Roami** | 50 GB | $31.99 | Alta velocidad + conmutación triple red |
-| Presupuesto mínimo | **Roami** | 1 GB/7 días | $1.59 | El precio de entrada más bajo |
-| Viaje Estados Unidos‑Canadá‑México | **Roami/Airalo** | Plan Norteamérica | Varía | Datos compartidos entre los tres países |
+| Nueva York/Los Ángeles 3 días | **Roami** | 3GB | $3.19 | Buena cobertura en ciudades—elige el más barato |
+| Ruta por la Costa Oeste 7 días | **Roami** | 10GB | $8.79 | Cambia automáticamente a T-Mobile para ciudades, Verizon para desiertos |
+| Parques nacionales 7 días | **Roami** | 10GB | $8.79 | Cambia automáticamente a Verizon—la mejor cobertura en parques |
+| Ruta 66 10-15 días | **Roami** | 20GB | $15.19 | Verizon es la única red fiable en los desiertos del oeste |
+| Viaje en familia | **Roami** | 10-20GB | $8.79-$15.19 | Compartir por hotspot ilimitado |
+| Necesitas un número de EE. UU. | **Roami + Google Voice** | Plan de datos | $3.19+ | eSIM de datos + número VoIP—lo más rentable |
+| No quieras vigilar los datos (corto plazo) | **Holafly** | Ilimitado 7 días | $27.50 | Ilimitado de verdad, sin throttling |
+| Trabajo remoto 30 días | **Roami** | 50GB | $31.99 | Velocidad completa + cambio de tres redes |
+| Presupuesto más estricto | **Roami** | 1GB/7 días | $1.59 | El precio de entrada más bajo entre las tres marcas |
+| Viaje EE. UU.-Canadá-México | **Roami/Airalo** | Plan Norteamérica | Según plan | Datos compartidos entre los tres |
 
-¿Aún dudas? [Ver todos los planes de Roami →](/united-states-esim/)
+¿Sigues indeciso después de todas las comparaciones? [Ver todos los planes eSIM de Roami para EE. UU. →](/united-states-esim/)
 
-## Consejos de uso de la eSIM en Estados Unidos
+## Consejos de uso de la eSIM para EE. UU.
 
-- **Instala antes de salir, actívala al llegar**: instala con WiFi; al aterrizar, activa el roaming de datos y conecta en el primer minuto –pide un Uber al momento.
-- **No olvides activar “Roaming de datos”**: es el fallo más común.
-- **Parques nacionales: descarga mapas sin conexión**: dentro de Yellowstone o el Gran Cañón puede no haber señal –no confíes solo en los datos.
-- **Si necesitas número local, regístrate en Google Voice antes de viajar**: consigue un número gratuito de Estados Unidos con tu red de casa. Al llegar, usa la eSIM para recibir códigos y hacer llamadas VoIP.
-- **Mantén tu SIM de casa para los códigos bancarios**: los códigos de verificación de tu banco llegan a tu número habitual –no necesitas un número local solo para eso.
-- **Si la señal es mala, prueba a seleccionar la red manualmente**: elige T‑Mobile, Verizon o AT&T en los ajustes.
-- **Para compartir internet, elige la marca adecuada**: en grupo, Roami (ilimitado) o Airalo (permitido); evita Holafly (límite de 1 GB/día).
-- **Guarda una captura de pantalla del código QR**: por si pierdes el correo y necesitas reinstalar.
+- **Instala antes de salir, usa al llegar**: instala con WiFi antes de partir; activa el Roaming de datos al aterrizar y conéctate al instante—pide un Uber en el primer minuto.
+- **Recuerda activar el "Roaming de datos"**: el fallo de activación más común—muchos usuarios olvidan este interruptor.
+- **Parques nacionales: descarga mapas sin conexión con antelación**: en el interior de Yellowstone, el Gran Cañón, etc., puede que no haya señal alguna—no dependas por completo de los datos para navegar.
+- **¿Necesitas un número de EE. UU.? Registra Google Voice antes**: registra un número de EE. UU. gratuito usando tu red de casa antes de salir. Tras aterrizar, usa la red de tu eSIM de datos para recibir códigos de verificación y hacer llamadas VoIP.
+- **Mantén tu SIM de origen para los códigos de verificación**: los códigos de verificación de bancos y tarjetas de crédito llegan a tu número de origen—no hace falta comprar un número local de EE. UU. solo por eso.
+- **Selección manual de red si la señal es mala**: si la conexión automática falla, elige manualmente T-Mobile, Verizon o AT&T en la configuración de red.
+- **Elige bien la marca para compartir hotspot**: para viajes en grupo, elige Roami (ilimitado) o Airalo (admitido); evita Holafly (límite de 1GB/día).
+- **Guarda una captura de tu código QR**: almacena el código QR en tu galería de fotos o en la nube por si pierdes el correo y necesitas reinstalar.
+
+## Otros países que cubrir después de una eSIM de EE. UU.
+
+EE. UU. suele ser un tramo de un viaje más largo. Para los otros tramos:
+
+- Si lo siguiente es el Reino Unido, consulta [nuestra guía de eSIM para Reino Unido](/blog/airalo-uk-esim-guide/).
+- La [guía de eSIM para Alemania](/blog/airalo-germany-esim-guide/) cubre el tramo europeo.
+- Nuestra [guía de eSIM para Turquía](/blog/airalo-turkey-esim-guide/) explica la política de bloqueo antes de volar.
 
 ## Fuentes de esta guía
 
-Esta guía se basa en información verificada de las siguientes fuentes:
+Esta guía se basa en información contrastada de las siguientes fuentes autorizadas para garantizar la precisión:
 
-| Fuente | Propósito | Enlace |
+| Fuente de datos | Propósito | Enlace |
 |----------|------|------|
-| **FCC** (Comisión Federal de Comunicaciones) | Cobertura de operadores, estadísticas 5G | fcc.gov |
-| **Opensignal** (pruebas independientes) | Ranking de velocidad y disponibilidad 5G | opensignal.com |
-| **Ookla Speedtest** (pruebas globales) | Verificación de velocidad media de descarga 5G | speedtest.net |
-| **GSMA** (Asociación Global de Móviles) | Penetración de eSIM y tendencias del sector | gsma.com |
+| **FCC** (Federal Communications Commission) | Desbloqueo de teléfonos, protección al consumidor | [fcc.gov](https://www.fcc.gov/consumers/guides/cell-phone-unlocking) |
+| **Opensignal** (pruebas de red independientes) | Rankings de velocidad de operadores, disponibilidad 5G | [Informe de Opensignal sobre EE. UU.](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience) |
+| **Ookla Speedtest** (pruebas de velocidad globales) | Verificación de la velocidad mediana de descarga 5G | [Speedtest Global Index – USA](https://www.speedtest.net/global-index/united-states) |
+| **GSMA** (Asociación GSMA) | Penetración del mercado eSIM, estándares de la industria | [Especificación eSIM de GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| **Apple** | Soporte de dispositivos eSIM y lista de operadores | [Soporte eSIM de Apple](https://support.apple.com/en-us/118669) |
 
-Todos los precios se han recopilado de las webs oficiales de Airalo, Holafly y Roami a 1 de septiembre de 2026. **Cálculo del precio con descuento**: precio Roami con descuento = precio oficial × 0.8 (20% con WEB20); los precios oficiales de Roami ya tienen un ~33% de descuento sobre el precio tachado, y con WEB20 el ahorro total puede llegar al ~47%. Holafly tiene precio fijo de $3.90/día; Airalo mantiene los precios de su web. Los precios y políticas están sujetos a cambios; consulta las webs oficiales antes de comprar.
+Todos los datos de precios fueron recogidos directamente de los sitios web oficiales de cada marca (Airalo, Holafly, Roami) a fecha del 1 de septiembre de 2026. **Cálculo del precio con descuento**: precio con descuento de Roami = precio oficial × 0,8 (20% de descuento con el código WEB20); los precios oficiales de Roami ya están ~33% por debajo del precio de lista (tachado), y apilados con WEB20 llegan a ahorrar hasta ~47% sobre el precio de lista. Holafly se precio a $3.97/día; Airalo son precios del sitio web oficial. Los precios y las políticas están sujetos a cambios; consulta los sitios web oficiales para información en tiempo real antes de comprar.
 
-> **¿Listo para viajar a Estados Unidos?**
+> **¿Listo para EE. UU.?**
 >
-> **Roami eSIM Estados Unidos** ofrece planes desde 1 GB hasta ilimitado de alta velocidad. Usa el código **WEB20** para un 20% de descuento. Conmutación automática entre T‑Mobile, AT&T y Verizon, 5G completo, sin reducción de velocidad, hotspot ilimitado.
+> **La eSIM de Roami para EE. UU.**, todos los planes (1GB–ilimitado de alta velocidad). Usa el código de descuento **WEB20** para un 20% de descuento. Admite el cambio automático multi-red T-Mobile/AT&T/Verizon, 5G completo a alta velocidad, sin throttling, compartir por hotspot ilimitado.
 >
-> [➜ Compra planes Roami eSIM Estados Unidos →](/united-states-esim/)
+> [➜ Compra los planes eSIM de Roami para EE. UU. →](/united-states-esim/)
 >
-> Código **WEB20** · 5G multi‑red · Velocidad máxima · Hotspot ilimitado
+> **WEB20** · Cambio automático T-Mobile / AT&T / Verizon · 5G a máxima velocidad · hotspot sin límite
 
 ---
 
-*Esta guía se basa en datos públicos de septiembre de 2026, con fuentes como la FCC, Opensignal, Ookla, GSMA y las páginas oficiales de las marcas. Los precios y políticas pueden cambiar; consulta las webs oficiales para información actualizada. Todas las comparativas son orientativas y no constituyen asesoramiento de compra.*
+*Esta guía se basa en datos públicos a septiembre de 2026, con fuentes de datos que incluyen datos regulatorios de la FCC, informes de Opensignal sobre EE. UU., Ookla Speedtest, informes de la industria de GSMA y los sitios web oficiales de las marcas. Los precios y las políticas están sujetos a cambios; por favor, consulta el sitio web oficial de cada marca para información en tiempo real. Todas las comparaciones son solo de referencia y no constituyen asesoramiento de compra.*

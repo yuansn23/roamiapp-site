@@ -1,52 +1,53 @@
 ---
 title: "Türkiye eSIM'iniz Arama, SMS ve Hotspot Yapabilir mi?"
-description: "Türkiye eSIM'lerinin arama, SMS, 2FA ve hotspot için gerçekte neler yapabileceğini ve Roami'nin kısıtlanmamış tethering'inin sizi nasıl bağlı tuttuğunu görün."
-keywords: ["turkey esim phone number", "turkey esim calls and sms", "turkey esim hotspot", "turkey esim 2fa", "turkey esim wifi calling", "turkey esim data only", "turkey esim voice calls"]
-date: 2026-09-19T00:00:00Z
-lastmod: 2026-09-19T00:00:00Z
+description: "Türkiye eSIM'lerinin arama, SMS, 2FA ve hotspot için gerçekte neler yapabildiğini ve Roami'nin sınırsız tethering'inin sizi nasıl bağlı tuttuğunu görün."
+keywords: ["türkiye esim telefon numarası", "türkiye esim arama ve sms", "türkiye esim hotspot", "türkiye esim 2fa", "türkiye esim wifi arama", "türkiye esim yalnızca veri", "türkiye esim sesli arama"]
+date:  2026-09-26T00:00:00Z
+lastmod:  2026-09-26T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami güvenilir eSIM paketleri sunar, yılda 1 milyondan fazla gezgine hizmet verir ve gezginlerin dünya çapında bağlantıda kalması için otomatik yerel ağ geçişini destekler."
+authorBio: "Roami, yılda 1 milyondan fazla yolcuya hizmet veren güvenilir eSIM paketleri sunar ve gezginlerin dünya genelinde bağlantıda kalmasına yardımcı olmak için otomatik yerel ağ geçişini destekler."
 image: "/img/esim/turkey/turkey-esim-number-calls-sms-hotspot.jpg"
-categories: ["eSIM", "Travel", "Turkey"]
-tags: ["Turkey eSIM"]
+categories: ["eSIM", "Seyahat", "Türkiye"]
+tags: ["Türkiye eSIM"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
 h1title: "Türkiye eSIM Arama Yapabilir, Numara Alabilir ve Hotspot Paylaşabilir mi?"
-productsTitle: "Popüler eSIM Planları"
-hotPostsTitle: "Öne Çıkan Makaleler"
+
+productsTitle: "Popüler eSIM Paketleri"
+hotPostsTitle: "Popüler Yazılar"
 recentPostsTitle: "Son Yazılar"
 
 products:
   - name: "İspanya eSIM"
     flag: "/img/flags/es.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: true
     slug: "spain"
   - name: "Portekiz eSIM"
     flag: "/img/flags/pt.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "portugal"
   - name: "Fransa eSIM"
     flag: "/img/flags/fr.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "france"
   - name: "İtalya eSIM"
     flag: "/img/flags/it.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "italy"
-  - name: "Birleşik Krallık eSIM"
+  - name: "İngiltere eSIM"
     flag: "/img/flags/gb.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "uk"
   - name: "Hollanda eSIM"
     flag: "/img/flags/nl.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "netherlands"
 
@@ -57,167 +58,173 @@ recentPosts:
   - title: "2026 Platformlar Arası eSIM Aktarımı"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone İçin 12 Çözüm"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Uyumluluk Kılavuzu"
+  - title: "iPhone SE eSIM Uyumluluk Rehberi"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Tam Kurulum Kılavuzu"
+  - title: "iPhone 11 eSIM Eksiksiz Kurulum Rehberi"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-## Numara, Arama, SMS ve Hotspot ile Türkiye eSIM: Neler Çalışıyor
+
+
+Çoğu seyahat eSIM'i size yalnızca veri verir; bu da gerçek bir Türk telefon numarası anlamına gelmez ve numaralı Türkiye eSIM arama sonuçları, sağlayıcılar bu kelimeyi farklı şekillerde kullandığı için birbiriyle çelişir. Birkaçı Türk bankalarından SMS alamayan sanal numaralar tanıtırken, diğerleri tamamen yalnızca veridir ve aramalar için WhatsApp veya FaceTime gibi VoIP uygulamalarına güvenir. Bu rehber, bir IMSI ile bir MSISDN arasındaki farkı, gerçekten bir Türk numarasına ne zaman ihtiyacınız olduğunu, Wi-Fi Calling'in ana numaranızı eSIM'in veri bağlantısı üzerinden nasıl taşıyabildiğini ve tether yapmadan önce her büyük sağlayıcının hotspot politikasının neye izin verdiğini açıklar.
+
+## Numaralı, Aramalı, SMS'li ve Hotspot'lu Türkiye eSIM: Çalışanlar
 
 Çoğu seyahat eSIM'i size yalnızca veri verir — Türk telefon numarası yok. Bu rehber, eSIM'inizin kendi numarası olmadığında nasıl arama yapacağınızı, SMS alacağınızı ve hotspot kullanacağınızı açıklar.
 
-## Bir Bakışta
+## Türkiye eSIM Numaraları, Aramalar ve Hotspot'lara Genel Bakış
 
-- Çoğu seyahat eSIM'i yalnızca veridir, yani gerçek bir Türk telefon numarası içermezler.
+- Çoğu seyahat eSIM'i yalnızca veridir; bu, gerçek bir Türk telefon numarası ile gelmedikleri anlamına gelir.
 - eSIM'inizin verisi üzerinden arama yapmak için WhatsApp ve FaceTime gibi VoIP uygulamalarını kullanabilirsiniz.
-- Wi-Fi Calling, ev numaranızı eSIM'inizin veri bağlantısına taşıyabilir.
-- 2FA SMS için ev SIM'inizi aktif tutun ve tethering yapmadan önce hotspot politikasını kontrol edin.
+- Wi-Fi Calling, ana numaranızı eSIM'inizin veri bağlantısına getirebilir.
+- 2FA SMS için ana SIM'inizi etkin tutun ve tether yapmadan önce hotspot politikasını kontrol edin.
 
-## Bu Numara, Arama ve Hotspot Rehberi Neyi Çözüyor?
+## Bu Türkiye eSIM Numara, Arama ve Hotspot Rehberi Neyi Çözüyor?
 
-Bu rehber özellik katmanını çözer: Türkiye eSIM'iniz numara, arama, SMS ve hotspot için gerçekte ne yapabilir — ve ne yapamaz? "Numaralı Türkiye eSIM" arama sorgusu çelişkili sonuçlar verir. Bazı sağlayıcılar bir telefon numarasının dahil olduğunu iddia eder. Diğerleri yalnızca veri olduğunu söyler. Birkaçı Türk bankalarından SMS alamayan sanal numaralar reklamı yapar. eSIM'inizin hangi ağı kullandığını öğrenmek için [operatör karşılaştırmasını](/blog/turkcell-vodafone-turk-telekom-esim/) okuyun ve telefonunuzun ikinci bir hattı desteklediğini [cihaz uyumluluk rehberinde](/blog/turkey-esim-device-compatibility/) doğrulayın.
+Bu rehber özellik katmanını çözer: Türkiye eSIM'iniz numara, arama, SMS ve hotspot için gerçekte ne yapabilir — ve ne yapamaz? "Numaralı Türkiye eSIM" arama sorgusu çelişen sonuçlar döndürür. Bazı sağlayıcılar bir telefon numarası dahil olduğunu iddia eder. Diğerleri yalnızca veri der. Birkaç, Türk bankalarından SMS alamayan sanal numaralar tanıtır. eSIM'inizin hangi ağı kullandığı için [operatör karşılaştırmasını](/blog/turkcell-vodafone-turk-telekom-esim/) okuyun.
 
-Bu sayfa kafa karışıklığını giderir. Neyin çalıştığını, neyin çalışmadığını ve bunun yerine ne yapılacağını açıklar. IMSI ile MSISDN arasındaki farkı, üç ürün türünü, gerçek numaralı yerel Türk operatör eSIM planlarını, gerçekte ne zaman bir Türk numarasına ihtiyacınız olduğunu, sanal numaraları ve 2FA gerçekliğini, eSIM verisi üzerinden VoIP aramayı, eSIM verisi üzerinden Wi-Fi Calling'i, çift SIM SMS geçici çözümünü, sağlayıcıya göre hotspot politikalarını ve gezgin türüne göre kurulumu kapsar.
+Ve telefonunuzun ikinci bir hattı desteklediğini [cihaz uyumluluk rehberinde](/blog/turkey-esim-device-compatibility/) veya model model [uyumluluk denetleyicisinden](/compatibility/) doğrulayın.
 
-Kısa versiyon: seyahat eSIM'leri yalnızca veridir, VoIP uygulamaları veri üzerinden aramaları yönetir, Wi-Fi Calling ev numaranızı geri getirebilir ve ev SIM'iniz 2FA için aktif kalır.
+Bu sayfa karışıklığı giderir. Neyin çalıştığını, neyin çalışmadığını ve bunun yerine ne yapılacağını açıklar. IMSI ve MSISDN karşılaştırmasını, üç ürün türünü, gerçek numaralı yerel Türk operatör eSIM paketlerini, gerçekten bir Türk numarasına ne zaman ihtiyacınız olduğunu, sanal numaraları ve 2FA gerçekliğini, eSIM verisi üzerinden VoIP aramayı, eSIM verisi üzerinden Wi-Fi Calling'i, çift SIM SMS geçici çözümünü, sağlayıcıya göre hotspot politikalarını ve gezgin türüne göre kurulumu kapsar.
 
-## IMSI vs MSISDN: Çoğu eSIM Neden Yalnızca Veridir?
+Kısacası: seyahat eSIM'leri yalnızca veridir, VoIP uygulamaları veri üzerinden aramaları yönetir, Wi-Fi Calling ana numaranızı geri getirebilir ve ana SIM'iniz 2FA için etkin kalır.
 
-Çoğu seyahat eSIM'i yalnızca veridir çünkü doğrulanmış bir yerel aboneye atanmış bir MSISDN yerine toptan dolaşım anlaşmasına bağlı bir IMSI kullanırlar. Bu farkı anlamak, bu sayfadaki her sınırlamayı açıklar.
+## IMSI ve MSISDN: Çoğu eSIM Neden Yalnızca Veridir?
 
-### Bir Türkiye eSIM'i Yerel Bir Ağa Nasıl Bağlanır?
+Çoğu seyahat eSIM'i yalnızca veridir çünkü doğrulanmış yerel bir aboneye atanmış bir MSISDN değil, toptan dolaşım anlaşmasına bağlı bir IMSI kullanırlar. Bu farkı anlamak, bu sayfadaki her sınırlamayı açıklar.
 
-Seyahat eSIM'inizin bir IMSI'si vardır. Bu, sağlayıcının bir Türk operatörüyle olan toptan anlaşmasına bağlı benzersiz bir tanımlayıcıdır. Telefonunuz Turkcell, Vodafone veya Türk Telekom'a bağlandığında, operatör IMSI'yi doğrular ve veri oturumunu yönlendirir.
+### Türkiye eSIM Yerel Ağa Nasıl Bağlanır?
 
-Yerel bir abone olmadığınız için, operatör size bir MSISDN atamaz. +90 5XX ile başlayan bir Türk telefon numarası, doğrulanmış yerel abonelere tahsis edilir. Böyle bir numarayı dolaşımdaki bir IMSI'ye atamak, sağlayıcının sizin adınıza pasaport kaydını tamamlamasını gerektirir. Çoğu seyahat eSIM sağlayıcısı bunu yapamaz.
+Seyahat eSIM'inizin bir IMSI'si vardır. Bu, sağlayıcının bir Türk operatörle yaptığı toptan anlaşmaya bağlı benzersiz bir tanımlayıcıdır. Telefonunuz Turkcell, Vodafone veya Türk Telekom'a bağlandığında, operatör IMSI'yi doğrular ve veri oturumunu yönlendirir.
 
-### GSMA Spesifikasyonu Türkiye eSIM Sesi Hakkında Ne Diyor?
+Yerel bir abone olmadığınız için, operatör size bir MSISDN atamaz. +90 5XX ile başlayan bir Türk telefon numarası, doğrulanmış yerel abonelere tahsis edilir. Bir dolaşımlı IMSI'ye numara atamak, sağlayıcının sizin adınıza pasaport kaydını tamamlamasını gerektirir. Çoğu seyahat eSIM sağlayıcısı bunu yapamaz.
 
-[GSMA SGP.22 eSIM spesifikasyonu](https://www.gsma.com/esim/), eSIM profillerinin nasıl sağlandığını ve değiştirildiğini tanımlar. Ses veya SMS desteğini zorunlu kılmaz. Bunlar isteğe bağlı özelliklerdir. Bu yüzden aynı eSIM teknolojisi bir ülkede tam özellikli bir plan, diğerinde yalnızca veri planı sunabilir.
+### GSMA Spesifikasyonu Türkiye eSIM Ses Hakkında Ne Diyor?
+
+[GSMA SGP.22 eSIM spesifikasyonu](https://www.gsma.com/esim/), eSIM profillerinin nasıl sağlandığını ve değiştirildiğini tanımlar. Ses veya SMS desteğini zorunlu kılmaz. Bunlar isteğe bağlı özelliklerdir. Bu yüzden aynı eSIM teknolojisi bir ülkede tam özellikli bir paket, başka bir ülkede yalnızca veri bir paket sunabilir.
 
 ### Üç Türkiye eSIM Ürün Türü Karşılaştırması
 
 | Ürün | Telefon numarası | Yerel aramalar | SMS | Hotspot | Kayıt | En uygun |
 |---|---|---|---|---|---|---|
 | Yalnızca veri seyahat eSIM | ❌ Hayır | ❌ Hayır | ❌ Hayır | Genellikle evet | Yok | Çoğu turist |
-| Ses destekli eSIM | Yalnızca sanal | VoIP üzerinden | VoIP üzerinden | Değişir | Yok | VoIP arama ihtiyaçları |
-| Yerel Türk SIM'i | ✅ Evet (+90) | ✅ Evet | ✅ Evet | Genellikle evet | Pasaport + IMEI | Uzun konaklamalar, yerel numara |
+| Ses destekli eSIM | Yalnızca sanal | VoIP ile | VoIP ile | Değişken | Yok | VoIP arama ihtiyaçları |
+| Yerel Türk SIM | ✅ Evet (+90) | ✅ Evet | ✅ Evet | Genellikle evet | Pasaport + IMEI | Uzun konaklamalar, yerel numara |
 
-## Gerçek Numaralı Yerel Türk Operatör Planları
+## Gerçek Numaralı Yerel Türk Operatör Paketleri
 
-Gerçek bir Türk telefon numarasına ihtiyacınız varsa, yerel bir operatör eSIM'i veya fiziksel SIM'e ihtiyacınız vardır. Turkcell, Vodafone Turkey ve Türk Telekom'un tümü turist paketleri sunar. Her biri şahsen pasaport kaydı gerektirir ve 120 günlük IMEI sayacını tetikler.
+Gerçek bir Türk telefon numarasına ihtiyacınız varsa, yerel operatör eSIM'i veya fiziksel SIM gerekir. Turkcell, Vodafone Türkiye ve Türk Telekom'un tümü turist paketleri sunar. Her biri şahsen pasaport kaydı gerektirir ve 120 günlük IMEI sayacını tetikler.
 
-### Türkiye eSIM Kullanıcıları için Turkcell Tourist Welcome Pack
+### Turkcell Tourist Welcome Pack
 
 - **Veri:** 20 GB
-- **Dakika:** 200 yurt içi
+- **Dakika:** 200 yerli
 - **SMS:** Dahil değil
 - **Geçerlilik:** 28 gün
-- **Resmi fiyat:** 1.800 TL (~$38)
+- **Resmi fiyat:** 1.800 TL (~38 $)
 - **Kayıt:** Pasaport gerekli
 
-Turkcell en iyi ülke çapında kapsama sahiptir. Havaalanı gişe toplamları SIM kart ücretlerini, aktivasyon ücretlerini ve bayi fiyat farklarını içerebilir.
+Turkcell'in en iyi ulusal kapsaması vardır. Havalimanı tezgah toplamları SIM kart ücretlerini, aktivasyon masraflarını ve bayi kârlarını içerebilir.
 
-### Türkiye eSIM Kullanıcıları için Vodafone Welcome to Turkey
+### Vodafone Welcome to Turkey
 
 - **Veri:** 20 GB
-- **Dakika:** 750 yurt içi
-- **SMS:** 1.000 yurt içi
+- **Dakika:** 750 yerli
+- **SMS:** 1.000 yerli
 - **WhatsApp:** WhatsApp için sınırsız veri
 - **Geçerlilik:** 28 gün
-- **Fiyat:** Mağazaya göre değişir, ₺5 radyo kullanım vergisi içerir
+- **Fiyat:** Mağazaya göre değişir, 5 ₺ radyo kullanım vergisi dahildir
 - **Kayıt:** Yabancı pasaport; konaklama adresi istenebilir
 
-Vodafone en güçlü İngilizce turist desteğine sahiptir.
+Vodafone'un en güçlü İngilizce turist desteği vardır.
 
-### Türkiye eSIM Kullanıcıları için Türk Telekom Tourist Welcome
+### Türk Telekom Tourist Welcome
 
 - **Veri:** 25 GB
-- **Dakika:** 750 yurt içi
-- **SMS:** 750 yurt içi
+- **Dakika:** 750 yerli
+- **SMS:** 750 yerli
 - **Geçerlilik:** 28 gün
-- **Resmi fiyat:** 420 TL (~$9)
+- **Resmi fiyat:** 420 TL (~9 $)
 - **Kayıt:** Pasaport veya kabul edilen kimlik
 
-Türk Telekom en ucuz yerel seçenektir ancak daha zayıf kırsal kapsamaya sahiptir. Tam ağ dökümü için [üç ağ dökümüne](/blog/turkcell-vodafone-turk-telekom-esim/) bakın.
+Türk Telekom en ucuz yerel seçenektir ancak kırsal kapsaması daha zayıftır. Tam ağ dökümü için [üç ağ dökümüne](/blog/turkcell-vodafone-turk-telekom-esim/) bakın.
 
-### Yerel Operatör Türkiye eSIM Plan Karşılaştırması
+### Yerel Operatör Türkiye eSIM Paket Karşılaştırması
 
 | Paket | Veri | Dakika | SMS | Geçerlilik | Fiyat | Kayıt |
 |---|---|---|---|---|---|---|
-| Turkcell Tourist Welcome | 20 GB | 200 | — | 28 gün | ~$38 | Pasaport |
-| Vodafone Welcome to Turkey | 20 GB | 750 | 1.000 | 28 gün | Değişir | Pasaport |
-| Türk Telekom Tourist Welcome | 25 GB | 750 | 750 | 28 gün | ~$9 | Pasaport |
+| Turkcell Tourist Welcome | 20 GB | 200 | — | 28 gün | ~38 $ | Pasaport |
+| Vodafone Welcome to Turkey | 20 GB | 750 | 1.000 | 28 gün | Değişken | Pasaport |
+| Türk Telekom Tourist Welcome | 25 GB | 750 | 750 | 28 gün | ~9 $ | Pasaport |
 
 ### Türkiye eSIM GB Başına Fiyat Karşılaştırması
 
 | Paket | Fiyat | Veri | GB başına fiyat |
 |---|---|---|---|
-| Turkcell Tourist Welcome | ~$38 | 20 GB | $1.90 |
-| Vodafone Welcome to Turkey | Değişir | 20 GB | Değişir |
-| Türk Telekom Tourist Welcome | ~$9 | 25 GB | $0.36 |
+| Turkcell Tourist Welcome | ~38 $ | 20 GB | 1,90 $ |
+| Vodafone Welcome to Turkey | Değişken | 20 GB | Değişken |
+| Türk Telekom Tourist Welcome | ~9 $ | 25 GB | 0,36 $ |
 
-Türk Telekom en düşük GB başına fiyatı sunar. Turkcell'in primi, kapsama avantajının maliyetidir.
+Türk Telekom en düşük GB başına fiyatı sunar. Turkcell'in primi, kapsam avantajının maliyetidir.
 
-## Gerçekte Ne Zaman Bir Türk Telefon Numarasına İhtiyacınız Var?
+## Gerçekte Bir Türk Telefon Numarasına Ne Zaman İhtiyacınız Var?
 
-Türk +90 numarası çoğu turist kullanımı için gerekli değildir. Yalnızca Türk bankalarından veya devlet hizmetlerinden SMS almanız, VoIP kabul etmeyen Türk sabit hatlarını aramanız, caller ID ile filtreleme yapan işletmeleri aramanız, Türk numarası gerektiren yerel hizmetlere kaydolmanız veya SMS ile doğrulama yapan Türk uygulamalarını kullanmanız gerekiyorsa bir numaraya ihtiyacınız vardır.
+Türk +90 numarası çoğu turist kullanımı için gerekli değildir. Yalnızca Türk bankalarından veya devlet hizmetlerinden SMS almanız gerekiyorsa, VoIP kabul etmeyen Türk sabit hatlarını aramanız gerekiyorsa, arayan kimliğine göre elemesi yapan işletmeleri aramanız gerekiyorsa, Türk numarası gerektiren yerel hizmetlere kayıt olmanız gerekiyorsa veya SMS ile doğrulama yapan Türk uygulamalarını kullanmanız gerekiyorsa bir numaraya ihtiyacınız vardır.
 
-### Bir Türk Numarasının Türkiye eSIM Kullanıcıları için Yapamayacakları
+### Bir Türk Numarasının Yapamadığı Şeyler
 
-- Yabancı eSIM platformlarındaki BTK engelini atlamaz.
+- Yabancı eSIM platformlarına uygulanan BTK engelini önlemez.
 - 120 günlük IMEI kayıt sayacını kaldırmaz.
-- Türkiye içinden yabancı eSIM sağlayıcı uygulamalarına erişim sağlamaz. Tam düzenleyici resim için [engel ve IMEI kurallarını](/blog/turkey-esim-ban-availability-rules/) okuyun.
+- Türkiye içinden yabancı eSIM sağlayıcı uygulamalarına erişim sağlamaz. Tam düzenleyici tablo için [engel ve IMEI kurallarını](/blog/turkey-esim-ban-availability-rules/) okuyun.
 
-### Türkiye eSIM Yerel Numara Kullanım Durumları
+### Türkiye eSIM Yerel Numara Kullanım Senaryoları
 
-| Kullanım durumu | Türk numarası gerekli mi? | Alternatif |
+| Kullanım senaryosu | Türk numarası gerekir mi? | Alternatif |
 |---|---|---|
-| Banka 2FA | Genellikle evet | Ev SIM'i dolaşım SMS'i |
+| Banka 2FA | Genellikle evet | Ana SIM dolaşım SMS'i |
 | Devlet hizmetleri | Evet | Yerel SIM |
 | Restoran rezervasyonları | Bazen | WhatsApp |
 | Araç çağırma | Bazen | Uber, BiTaksi |
-| Yemek teslimatı | Bazen | WhatsApp |
+| Yemek siparişi | Bazen | WhatsApp |
 | Otel iletişimi | Hayır | WhatsApp, e-posta |
-| Acil servisler | Hayır | 112 |
+| Acil durum hizmetleri | Hayır | 112 |
 
-## Sanal Numaralar 2FA için Gerçekten Çalışır mı?
+## Sanal Numaralar Türk 2FA İçin Gerçekten Çalışıyor mu?
 
-Bazı uygulamalar SMS doğrulama kodları alabilen sanal numaralar sunar. Bunlar Türkiye eSIM'inizden ayrıdır. Çoğu Türk bankası sanal bir numaraya 2FA kodu göndermez ve Türk devlet hizmetleri genellikle sanal numaraları doğrudan reddeder.
+Bazı uygulamalar, SMS doğrulama kodları alabilen sanal numaralar sunar. Bunlar Türkiye eSIM'inizden ayrıdır. Çoğu Türk bankası, 2FA kodlarını bir sanal numaraya göndermez ve Türk devlet hizmetleri genellikle sanal numaraları tamamen reddeder.
 
-### Türkiye eSIM Kullanıcıları için Sanal Numara Hizmetleri
+### Popüler Sanal Numara Hizmetleri
 
 - Google Voice
 - TextNow
 - Burner
 - Hushed
 
-### Türkiye eSIM Kullanıcıları için Sanal Numara Sınırlamaları
+### Sanal Numaraların Nerede Yetersiz Kaldığı
 
-- Çoğu Türk bankası sanal bir numaraya 2FA kodu göndermez.
+- Çoğu Türk bankası, 2FA kodlarını bir sanal numaraya göndermez.
 - Türk devlet hizmetleri genellikle sanal numaraları reddeder.
 - Sanal numaralar gerçek +90 mobil numaraları değildir.
 - Veri üzerinden çalışırlar, bu yüzden Türkiye eSIM bağlantınıza bağlıdırlar.
 
-### Türkiye eSIM ile 2FA için Gerçekte Ne Çalışır?
+### Türkiye eSIM ile 2FA İçin Gerçekte Çalışan
 
-Banka ve WhatsApp 2FA için güvenilir kurulum şudur:
+Banka ve WhatsApp 2FA için güvenilir kurulum:
 
-1. Ev SIM'inizi Voice & SMS için aktif tutun.
-2. Türkiye eSIM'i Mobile Data hattı olarak ayarlayın.
-3. "Allow Mobile Data Switching"i devre dışı bırakın.
-4. Ev numaranız dolaşım yoluyla SMS alır.
+1. Ana SIM'inizi Ses ve SMS için etkin tutun.
+2. Türkiye eSIM'i Mobil Veri hattı olarak ayarlayın.
+3. "Mobil Veri Geçişine İzin Ver"i devre dışı bırakın.
+4. Ana numaranız SMS'leri dolaşım üzerinden alır.
 
 Tam çift SIM kurulumu için [çift SIM kurulumunu](/blog/how-turkey-esim-works-activation/) okuyun.
 
-## Veri Üzerinden Arama Yapabilir misiniz?
+## eSIM Verisi Üzerinden Arama Yapabilir misiniz?
 
-Türkiye'de arama yapmak için bir Türk telefon numarasına ihtiyacınız yok. Bir veri bağlantısına ve doğru uygulamaya ihtiyacınız var. VoIP uygulamaları, Türkiye eSIM veri bağlantınız üzerinden sesli ve görüntülü aramaları yönetir.
+Türkiye'de arama yapmak için bir Türk telefon numarasına ihtiyacınız yoktur. Bir veri bağlantısına ve doğru uygulamaya ihtiyacınız vardır. VoIP uygulamaları, sesli ve görüntülü aramaları Türkiye eSIM veri bağlantınız üzerinden yönetir.
 
 ### Türkiye eSIM Üzerinden Çalışan VoIP Uygulamaları
 
@@ -230,165 +237,171 @@ Türkiye'de arama yapmak için bir Türk telefon numarasına ihtiyacınız yok. 
 - Microsoft Teams — iş aramaları
 - Signal — şifreli aramalar
 
+### Türkiye eSIM'den Uluslararası Aramalar
+
+Türkiye dışına aramalar da aynı şekilde ayrılır. Yalnızca veri bir Türkiye eSIM'in telefon numarası yoktur, bu yüzden geleneksel uluslararası aramaları hiç yapamaz — ancak veri üzerinden, WhatsApp ve Skype gibi uygulamalar gerçek telefon numaralarına uluslararası aramayı yönetir; uygulama-uygulamaya genellikle ücretsiz ve bakiyeyle sabit hatlara dakika başına ucuz. Gerçek numaralı yerel bir Türk SIM taşıyorsanız, geleneksel uluslararası aramalar çalışır ama Türk operatör tarifesiyle, ki ucuz olacak şekilde tasarlanmamıştır. Çoğu gezgin için pratik örüntü: gelen aramalar için ana SIM'inizi ulaşılabilir tutun ve giden uluslararası aramaları eSIM'in verisi üzerinden bir uygulamayla yapın. Gerçek bir Türk numarasına ihtiyacınız olduğuna karar verirseniz, yerel operatörler turist ses paketlerini çevrimiçi olarak da şehir mağazalarında olduğu gibi satar — ödemeden önce bunları yukarıdaki ürün türleriyle karşılaştırın.
+
 ### Türkiye eSIM Arama Kalitesi Değişkenleri
 
 | Faktör | Etki |
 |---|---|
 | Sinyal gücü | Güçlü 4G/5G net aramalar sağlar |
-| FUP kısıtlaması | 1 Mbps ses için kullanılabilir, video için zayıf |
-| Ağ tıkanıklığı | Yoğun saatler kaliteyi düşürür |
-| APN yanlış yapılandırması | Veri akmazsa aramalar başarısız olur |
+| FUP yavaşlatması | 1 Mbps ses için kullanılabilir, video için zayıf |
+| Ağ yoğunluğu | Yoğun saatlerde kalite düşer |
+| APN yanlış yapılandırması | Veri akmıyorsa aramalar başarısız olur |
 
-### Türkiye eSIM Kullanıcıları için VoIP vs Yerel Arama
+### VoIP ve Yerel Arama Karşılaştırması
 
-| Özellik | eSIM üzerinden VoIP | Yerel SIM üzerinden yerel |
+| Özellik | eSIM üzerinden VoIP | Yerel SIM ile yerel |
 |---|---|---|
-| Türk sabit hatlarını arama | Evet, yabancı caller ID | Evet |
-| Türk mobil hatlarını arama | Evet, yabancı caller ID | Evet |
-| Arama alma | Yalnızca uygulama üzerinden | Evet, yerel |
-| Acil çağrılar (112) | Evet, dialer üzerinden | Evet |
+| Türk sabit hatlarını arama | Evet, yabancı arayan kimliği | Evet |
+| Türk mobil hatlarını arama | Evet, yabancı arayan kimliği | Evet |
+| Arama alma | Yalnızca uygulama ile | Evet, yerel |
+| Acil çağrılar (112) | Evet, çevirici ile | Evet |
 | Arama kalitesi | Veri hızına bağlı | Tutarlı |
-| Maliyet | Ücretsiz veya düşük | Plana dahil |
+| Maliyet | Ücretsiz veya düşük | Pakete dahil |
 | Yerel numara gerektirir | Hayır | Evet |
 
-### Türkiye eSIM Kullanıcıları için Türkiye'de VoIP Kuralları
+### Türkiye'de VoIP Engelli mi?
 
 VoIP uygulamaları Türkiye'de yaygın olarak kullanılır. WhatsApp, Telegram ve FaceTime veri üzerinden çalışır. Bazı kurumsal ağlar ve oteller VoIP portlarını engeller. Türk mobil ağlarında VoIP, BTK tarafından engellenmez. BTK engeli eSIM sağlayıcı platformlarını hedefler, VoIP hizmetlerini değil.
 
-## Wi-Fi Calling Veri Üzerinden Nasıl Çalışır?
+## Wi-Fi Calling Bir eSIM Üzerinden Nasıl Çalışır?
 
-Ev operatörünüz Wi-Fi Calling'i (VoWiFi) destekliyorsa ve Türkiye'de izin veriyorsa, ev numaranızda arama yapmak ve almak ve SMS almak için Türkiye eSIM veri bağlantınızı kullanabilirsiniz. Bu, yalnızca veri olan bir Türkiye eSIM'inde yerel numara deneyimine en yakın şeydir.
+Ana operatörünüz Wi-Fi Calling (VoWiFi) destekliyorsa ve Türkiye'de buna izin veriyorsa, ana numaranızda arama ve SMS yapmak ve almak için Türkiye eSIM veri bağlantınızı kullanabilirsiniz. Bu, yalnızca veri bir Türkiye eSIM'de yerel numara deneyimine en yakın şeydir.
 
-### Wi-Fi Calling Türkiye eSIM Üzerinden Nasıl Çalışır?
+### Wi-Fi Calling Veri Üzerinden Nasıl Yönlendirilir?
 
-1. Ev SIM'i Voice & SMS için aktif kalır.
-2. Türkiye eSIM'i Mobile Data'yı yönetir.
+1. Ana SIM, Ses ve SMS için etkin kalır.
+2. Türkiye eSIM, Mobil Veri'yi yönetir.
 3. Wi-Fi Calling, aramaları ve SMS'leri veri bağlantısı üzerinden yönlendirir.
-4. Ev numaralarını arayabilir, banka SMS'leri alabilir ve ev ağınızdaymış gibi aramaları yanıtlayabilirsiniz.
+4. Ana numaraları arayabilir, banka SMS'leri alabilir ve ana ağınızdaymışsınız gibi aramalara cevap verebilirsiniz.
 
-### Türkiye eSIM için Wi-Fi Calling Gereksinimleri
+### Wi-Fi Calling Gereksinimleri
 
-- Ev operatörü Wi-Fi Calling'i destekler
-- Telefon Wi-Fi Calling'i destekler
-- Wi-Fi Calling ayarlarda etkin
-- Operatör Türkiye'de Wi-Fi Calling'e izin verir
+- Ana operatör Wi-Fi Calling destekler
+- Telefon Wi-Fi Calling destekler
+- Ayarlarda Wi-Fi Calling etkin
+- Operatör Türkiye'de Wi-Fi Calling'e izin veriyor
 
-### Türkiye eSIM için Operatör Wi-Fi Calling Desteği
+### Operatör Wi-Fi Calling Desteği
 
 | Operatör | Türkiye'de Wi-Fi Calling? | Notlar |
 |---|---|---|
-| EE (UK) | Değişir | Kalkıştan önce kontrol edin |
-| O2 (UK) | Değişir | Bazı planlar coğrafi kısıtlama yapar |
-| Vodafone (UK) | Değişir | Kontrol edin |
-| Three (UK) | Değişir | Kontrol edin |
-| Verizon (US) | Genellikle evet | Uluslararası koşulları kontrol edin |
-| AT&T (US) | Genellikle evet | Kontrol edin |
-| T-Mobile (US) | Genellikle evet | Kontrol edin |
-| Deutsche Telekom | Değişir | Kontrol edin |
-| Orange (FR) | Değişir | Kontrol edin |
-| Vodafone (DE) | Değişir | Kontrol edin |
+| EE (İngiltere) | Değişken | Yola çıkmadan önce kontrol edin |
+| O2 (İngiltere) | Değişken | Bazı paketler coğrafi kısıtlar |
+| Vodafone (İngiltere) | Değişken | Kontrol edin |
+| Three (İngiltere) | Değişken | Kontrol edin |
+| Verizon (ABD) | Genellikle evet | Uluslararası koşulları kontrol edin |
+| AT&T (ABD) | Genellikle evet | Kontrol edin |
+| T-Mobile (ABD) | Genellikle evet | Kontrol edin |
+| Deutsche Telekom | Değişken | Kontrol edin |
+| Orange (FR) | Değişken | Kontrol edin |
+| Vodafone (DE) | Değişken | Kontrol edin |
 
-Wi-Fi Calling kullanılabilirliği değişir. Kalkıştan önce ev operatörünüzle doğrulayın.
+Wi-Fi Calling kullanılabilirliği değişir. Yola çıkmadan önce ana operatörünüzle doğrulayın.
 
-### Türkiye eSIM Kullanıcıları için Uydu İletişimi
+### Uydu SOS: Güzel Bir Yedek, Plan Değil
 
-iPhone 14 ve daha yenileri uydu üzerinden Emergency SOS'u destekler. Türkiye'de uydu ortak kapsama alanı olmayabilir. Birincil güvenlik aracı olarak ona güvenmeyin.
+iPhone 14 ve yenisi, uydu üzerinden Acil SOS'u destekler. Türkiye'nin uydu ortağı kapsaması olmayabilir. Birincil güvenlik aracı olarak ona güvenmeyin.
 
-## Hızlı Özet
+Bu kurulumların tümünü kapsayan bir uyarı vardır. Tethering, telefonun kendisiyle aynı veri limitinden çeker, veri üzerinden arama kalitesi için başlık hızından çok gecikme önemlidir ve kapsam haritası iddiaları, gezi için yalnızca VoIP aramaya karar vermeden önce spesifik kıyı şeridiniz için kontrol edilmeyi hak eder.
 
-Artık IMSI ile MSISDN, gerçek numaralı yerel operatör planları, sanal numaralar ve Wi-Fi Calling'i ele aldınız. Desen, gerçek bir Türk numarasının bir seyahat eSIM'i değil, yerel bir operatör planı anlamına geldiğidir. Ardından, çift SIM SMS ve 2FA geçici çözümünü ve hotspot politikalarını ele alıyoruz.
+## Hızlı Özet: Numara ve Veri Kurulumu
+
+Şimdiye kadar IMSI ve MSISDN'i, gerçek numaralı yerel operatör paketlerini, sanal numaraları ve Wi-Fi Calling'i ele aldık. Örüntü şudur: gerçek bir Türk numarası, bir seyahat eSIM'i değil, yerel bir operatör paketi demektir. Sıradaki, çift SIM SMS ve 2FA geçici çözümünü ve hotspot politikalarını ele alıyoruz.
 
 ## SMS ve 2FA Çift SIM Geçici Çözümü
 
-Yalnızca veri olan bir Türkiye eSIM'inin MSISDN'i yoktur ve SMS alamaz. Çözüm basittir: ev SIM'inizi Voice ve SMS için aktif tutun, Türkiye eSIM'i Mobile Data için ayarlayın ve mobil veri geçişini devre dışı bırakın.
+Yalnızca veri bir Türkiye eSIM'in MSISDN'i yoktur ve SMS alamaz. Çözüm basittir: ana SIM'inizi Ses ve SMS için etkin tutun, Türkiye eSIM'i Mobil Veri olarak ayarlayın ve mobil veri geçişini devre dışı bırakın.
 
-### Çift SIM SMS Teslimatı Türkiye eSIM ile Nasıl Çalışır?
+### Türkiye eSIM ile Çift SIM SMS Teslimatı Nasıl Çalışır?
 
-Hem bir ev SIM'i hem de bir Türkiye eSIM'i yüklüyse, telefonunuz iki aktif hattı destekler. SMS, alıcı numarasıyla ilişkili hatta teslim edilir.
+Hem bir ana SIM hem de bir Türkiye eSIM yüklüyken, telefonunuz iki aktif hattı destekler. SMS, alıcı numarasıyla ilişkili hatta teslim edilir.
 
 **Önerilen yapılandırma:**
 
-- Ev SIM: Voice & SMS
-- Türkiye eSIM: Mobile Data
-- "Allow Mobile Data Switching"i devre dışı bırakın
+- Ana SIM: Ses ve SMS
+- Türkiye eSIM: Mobil Veri
+- "Mobil Veri Geçişine İzin Ver"i devre dışı bırakın
 
-### Türkiye eSIM SMS için Neleri Yapamaz?
+### eSIM SMS İçin Yapamadığı Şey
 
-Yalnızca veri olan bir Türkiye eSIM'inin MSISDN'i yoktur ve SMS alamaz. Ev SIM'inizi 2FA için aktif tutun.
+Yalnızca veri bir Türkiye eSIM'in MSISDN'i yoktur ve SMS alamaz. 2FA için ana SIM'inizi etkin tutun.
 
-### Türkiye eSIM için SMS Yetenek Karşılaştırması
+### Türkiye eSIM SMS Yeteneği Karşılaştırması
 
-| Yetenek | Ev SIM (dolaşım) | Türkiye eSIM | Yerel Türk SIM |
+| Yetenek | Ana SIM (dolaşım) | Türkiye eSIM | Yerel Türk SIM |
 |---|---|---|---|
 | SMS alma | ✅ Evet | ❌ Hayır | ✅ Evet |
-| SMS gönderme | ✅ Evet (dolaşım ücretleri) | ❌ Hayır | ✅ Evet |
+| SMS gönderme | ✅ Evet (dolaşım tarifesi) | ❌ Hayır | ✅ Evet |
 | Bankadan 2FA alma | ✅ Evet | ❌ Hayır | ✅ Evet |
-| WhatsApp doğrulama | ✅ Evet | ❌ Hayır | ✅ Evet |
-| Yerel aramalar | ✅ Evet (dolaşım ücretleri) | ❌ Hayır | ✅ Evet |
+| WhatsApp doğrulaması | ✅ Evet | ❌ Hayır | ✅ Evet |
+| Yerel aramalar | ✅ Evet (dolaşım tarifesi) | ❌ Hayır | ✅ Evet |
 
-### Türkiye eSIM ile Ev SIM Dolaşım Maliyeti
+### Türkiye eSIM ile Ana SIM Dolaşım Maliyeti
 
-Gelen SMS genellikle ücretsiz veya düşük maliyetlidir. Giden SMS ve aramalar dolaşım ücretlerine tabidir. Veri ücretlerinden kaçınmak için ev SIM'inde veri dolaşımını kapalı tutun. Ağ düzeyinde seçimler için [arıza modu rehberine](/blog/best-turkey-esim-providers/) bakın.
+Gelen SMS genellikle ücretsiz veya düşük maliyetlidir. Giden SMS ve aramalar dolaşım tarifesi oluşturur. Veri ücretlerinden kaçınmak için ana SIM'de veri dolaşımını kapalı tutun. Ağ düzeyindeki seçimler için [hata modları rehberine](/blog/best-turkey-esim-providers/) bakın.
 
-## Sağlayıcıya Göre Hotspot ve Tethering Politikaları
+## Sağlayıcıya Göre Türkiye eSIM Hotspot ve Tethering Politikaları
 
-Hotspot yeteneği, Türkiye eSIM planları arasındaki en önemli farklardan biridir. Genellikle küçük yazılarda gizlidir. Kısıtlanmamış hotspot ve şeffaf FUP'lu bir [Türkiye veri planı](/turkey-esim/), tethering kurallarını net tutar.
+Hotspot yeteneği, Türkiye eSIM paketleri arasındaki en önemli farklardan biridir. Genellikle ince yazıya gömülüdür. Sınırsız hotspotlu ve basit günlük veri kotalı bir [Türkiye veri paketi](/turkey-esim/), tethering kurallarını net tutar.
 
 ### Sağlayıcıya Göre Türkiye eSIM Hotspot Politikaları
 
-| Sağlayıcı | Sabit veri hotspot | Sınırsız hotspot | Notlar |
+| Sağlayıcı | Sabit verili hotspot | Sınırsız hotspot | Notlar |
 |---|---|---|---|
-| Saily | Kısıtlanmamış | Sınırsız | Aile paylaşımı için en iyi |
-| Airalo | Kısıtlanmamış | Değişir | Plan ayrıntılarını kontrol edin |
-| Nomad | Kısıtlanmamış | N/A | Yalnızca sabit veri planları |
-| Holafly | N/A | 500 MB/gün sınırı | Dizüstü paylaşımı için uygun değil |
-| Ubigi | Kısıtlanmamış | Değişir | Plan ayrıntılarını kontrol edin |
-| Roami | Kısıtlanmamış | Kısıtlanmamış | Tüm planlar hotspot içerir |
-| Klook | Değişir | Değişir | Plan ayrıntılarını kontrol edin |
-| Yesim | Kısıtlanmamış | Değişir | Plan ayrıntılarını kontrol edin |
+| Saily | Sınırsız | Sınırsız | Aile paylaşımı için en iyi |
+| Airalo | Sınırsız | Değişken | Paket ayrıntılarını kontrol edin |
+| Nomad | Sınırsız | Yok | Yalnızca sabit verili paketler |
+| Holafly | Yok | Günde 1 GB limit | Dizüstü paylaşımı için uygun değil |
+| Ubigi | Sınırsız | Değişken | Paket ayrıntılarını kontrol edin |
+| Roami | Sınırsız | Sınırsız | Tüm paketler hotspot içerir |
+| Klook | Değişken | Değişken | Paket ayrıntılarını kontrol edin |
+| Yesim | Sınırsız | Değişken | Paket ayrıntılarını kontrol edin |
 
-### Sınırsız Türkiye eSIM Planları Hotspot'u Neden Kısıtlar?
+### Sınırsız Türkiye eSIM Paketleri Hotspot'u Neden Kısıtlar?
 
-Tethering, yalnızca telefon kullanımından daha fazla veri tüketir. Görüntülü aramalar, bulut senkronizasyonu ve web taraması yapan bir dizüstü bilgisayar günde 3–5 GB tüketebilir. Sağlayıcılar, orantısız ağ kullanımını önlemek için hotspot'u sınırlar.
+Tethering, yalnızca telefon kullanımından daha fazla veri tüketir. Görüntülü aramalar, bulut senkronizasyonu ve web gezinmesi yapan bir dizüstü bilgisayar günde 3–5 GB tüketebilir. Sağlayıcılar, orantısız ağ kullanımını önlemek için hotspot'u sınırlar.
 
-### Sağlayıcılar Türkiye eSIM Hotspot'unu Nasıl Algılar?
+### Sağlayıcılar Türkiye eSIM Hotspot'u Nasıl Tespit Eder?
 
-- TTL denetimi — tethering trafiği farklı bir TTL'ye sahiptir
-- User-Agent analizi — masaüstü tarayıcıları farklı başlıklar gönderir
-- Veri hacmi desenleri — ani artışlar
-- Derin paket denetimi — masaüstü işletim sistemi trafiğini tanımlama
+- TTL incelemesi — tether edilmiş trafik farklı bir TTL'e sahiptir
+- User-Agent analizi — masaüstü tarayıcılar farklı başlıklar gönderir
+- Veri hacmi örüntüleri — ani sıçramalar
+- Derin paket incelemesi — masaüstü işletim sistemi trafiğini tanımlama
 
-Bazı sağlayıcılar algılandığında hotspot'u kısıtlar veya engeller. Plan koşullarını kontrol edin.
+Bazı sağlayıcılar tespit edildiğinde hotspot'u yavaşlatır veya engeller. Paket koşullarını kontrol edin.
 
-### Aktiviteye Göre Türkiye eSIM Hotspot Veri Tüketimi
+### Etkinliğe Göre Türkiye eSIM Hotspot Veri Tüketimi
 
-| Aktivite | Saat başına veri |
+| Etkinlik | Saatlik veri |
 |---|---|
-| Web taraması | 50–100 MB |
+| Web gezinme | 50–100 MB |
 | E-posta ve mesajlaşma | 10–30 MB |
 | Görüntülü aramalar (Zoom, Meet) | 500 MB – 1,5 GB |
 | Bulut senkronizasyonu | 100–500 MB |
 | Video akışı (HD) | 1–3 GB |
 | Yazılım güncellemeleri | 1–5 GB |
 
-Görüntülü aramalar, bulut senkronizasyonu ve web taraması yapan bir dizüstü bilgisayar günde 3–5 GB tüketir.
+Görüntülü aramalar, bulut senkronizasyonu ve web gezinmesi yapan bir dizüstü bilgisayar günde 3–5 GB tüketir.
 
 ### Aile ve Grup Türkiye eSIM Hotspot Stratejisi
 
-1. Kısıtlanmamış hotspot'lu bir yüksek verili eSIM (20 GB+) satın alın.
-2. Ana gezginin telefonuna yükleyin.
+1. Sınırsız hotspotlu yüksek verili tek bir eSIM (20 GB+) satın alın.
+2. Birincil gezginin telefonuna yükleyin.
 3. Hotspot'u etkinleştirin.
 4. Diğer cihazlar Wi-Fi üzerinden bağlanır.
 
-50 GB / 30 günlük bir plan yaklaşık €19,99–$30'a mal olur ve dört kişilik bir aileyi iki haftalık bir gezi için kapsayabilir. GB başına maliyet hesabı için [GB başına maliyet rehberini](/blog/cheapest-turkey-esim/) okuyun.
+50 GB / 30 günlük bir paket yaklaşık 19,99 € – 30 $ tutar ve iki haftalık bir gezi için dört kişilik bir aileyi kapsayabilir. Önce suları test etmek mi? Birkaç sağlayıcı, aile paketine taahhüt etmeden önce deneyebileceğiniz [ücretsiz eSIM denemeleri](/free-esim/) yürütür. GB başına maliyet hesabı için [GB başına maliyet rehberini](/blog/cheapest-turkey-esim/) okuyun.
 
 ### Türkiye eSIM Hotspot Pil ve Hız Etkisi
 
-Hotspot pili daha hızlı tüketir. 10.000 mAh'lik bir power bank 2–3 tam telefon şarjı sağlar. Hotspot hızı, yalnızca telefon hızından daha düşük olabilir.
+Hotspot pili daha hızlı tüketir. 10.000 mAh bir power bank, 2–3 tam telefon şarjı sağlar. Hotspot hızı, yalnızca telefon hızından daha düşük olabilir.
 
-## Acil Çağrılar ve Güvenlik
+## Türkiye eSIM'de Acil Aramalar ve Güvenlik
 
-Acil durum numarası 112, SIM olmasa bile her ağda çalışır. Türkiye eSIM'i aktif olmasa bile telefonunuzdan 112'yi arayabilirsiniz. Arama mevcut herhangi bir ağ üzerinden yönlendirilir.
+Acil numara 112, SIM olmasa bile her ağda çalışır. Türkiye eSIM etkin olmasa bile telefonunuzdan 112'yi çevirebilirsiniz. Arama, mevcut herhangi bir ağ üzerinden yönlendirilir.
 
 ### eSIM Kullanıcıları için Türkiye Acil Numaraları
 
@@ -396,151 +409,151 @@ Acil durum numarası 112, SIM olmasa bile her ağda çalışır. Türkiye eSIM'i
 |---|---|---|
 | Tüm acil durumlar | 112 | Ambulans, polis, itfaiye |
 | Turist Polisi | 0212 527 45 03 | İstanbul |
-| Büyükelçilik | Çevrimdışı kaydedin | Kalkıştan önce iletişime geçin |
+| Büyükelçilik | Çevrimdışı kaydedin | Yola çıkmadan önce iletişim |
 
 ### Türkiye eSIM Acil Durum Uygulamaları
 
 - AFAD — Türk afet ve acil durum uygulaması. [AFAD afet ve acil durum uygulamasına](https://www.afad.gov.tr/) bakın.
-- 112 Acil — acil servisler uygulaması
-- WhatsApp — Türkiye'de ana mesajlaşma uygulaması
+- 112 Acil — acil durum hizmetleri uygulaması
+- WhatsApp — Türkiye'deki ana mesajlaşma uygulaması
 - Google Translate — acil durumlar için çevrimdışı mod
 
-## Gezgin Türüne Göre Kurulum Rehberi
+## Gezgin Türüne Göre Türkiye eSIM Kurulum Rehberi
 
-Her gezgin türü farklı bir veri, ses ve hotspot kombinasyonuna ihtiyaç duyar. Doğru kurulum, gezi uzunluğuna, bir Türk numarasına ihtiyacınız olup olmadığına ve veri paylaşmayı planlayıp planlamadığınıza bağlıdır.
+Her gezgin türü farklı bir veri, ses ve hotspot kombinasyonuna ihtiyaç duyar. Doğru kurulum, gezi süresine, Türk numarasına ihtiyacınız olup olmadığına ve veri paylaşmayı planlayıp planlamadığınıza bağlıdır.
 
-### Kısa Süreli Turist Türkiye eSIM Kurulumu (1–2 Hafta)
+### Kısa Konaklama Turist Kurulumu (1–2 Hafta)
 
 - Yalnızca veri Türkiye eSIM (5–10 GB)
-- Voice & SMS için ev SIM
+- Ses ve SMS için ana SIM
 - Aramalar için WhatsApp, Telegram, FaceTime
 - Hotspot isteğe bağlı
 - Operatör destekliyorsa Wi-Fi Calling
 
-### Dijital Göçebe Türkiye eSIM Kurulumu (1–3 Ay)
+### Dijital Göçebe Kurulumu (1–3 Ay)
 
 - Yalnızca veri Türkiye eSIM (20 GB veya FUP'lu sınırsız)
-- Voice & SMS için ev SIM
+- Ses ve SMS için ana SIM
 - Kişisel ve iş aramaları için VoIP
 - Türk numarasına ihtiyacınız varsa yerel SIM
 - Hotspot gerekli
-- Wi-Fi Calling faydalı
+- Wi-Fi Calling yararlı
 
-### İş Gezgini Türkiye eSIM Kurulumu
+### İş Gezgini Kurulumu
 
 - Yalnızca veri Türkiye eSIM (10–20 GB)
-- Voice & SMS için ev SIM
+- Ses ve SMS için ana SIM
 - Yerel Türk aramalarına ihtiyacınız varsa yerel SIM
 - Dizüstü bağlantısı için hotspot
-- Ev ofis aramaları için Wi-Fi Calling
+- Ev ofisi aramaları için Wi-Fi Calling
 
-### Aile veya Grup Türkiye eSIM Kurulumu
+### Aile veya Grup Kurulumu
 
-- Ana telefonda hotspot'lu bir Türkiye eSIM
+- Birincil telefonda hotspotlu tek Türkiye eSIM
 - Diğerleri için yerel SIM'ler veya yalnızca veri eSIM'ler
 - Herkes için VoIP
-- Her gezgin 2FA için ev SIM'ini korur
-- Ana telefon Wi-Fi üzerinden veri paylaşır
+- Her gezgin 2FA için ana SIM'i tutar
+- Birincil telefon veriyi Wi-Fi üzerinden paylaşır
 
-### Uzun Süreli Ziyaretçi Türkiye eSIM Kurulumu (3+ Ay)
+### Uzun Konaklama Ziyaretçisi Kurulumu (3+ Ay)
 
-- Ses ve SMS için yerel Türk SIM'i
-- İkincil cihazda veri için seyahat eSIM'i
+- Ses ve SMS için yerel Türk SIM
+- İkincil cihazda veri için seyahat eSIM
 - Yerel SIM üzerinden yerel arama
 - 120 günlük IMEI sayacını izleyin
-- Veri eSIM'inde hotspot
+- Veri eSIM'de hotspot
 
-### Öğrenci veya Expat Türkiye eSIM Kurulumu (6+ Ay)
+### Öğrenci veya Expat Kurulumu (6+ Ay)
 
-- Birincil ses ve SMS için yerel Türk SIM'i
-- İkincil veri için seyahat eSIM'i veya yerel veri planı
+- Birincil ses ve SMS için yerel Türk SIM
+- İkincil veri için seyahat eSIM veya yerel veri paketi
 - Yerel SIM üzerinden yerel aramalar
 - Türk hizmetleri için yerel SIM
-- IMEI kaydı planlayın veya Türk cihazı kullanın
+- IMEI kaydı için plan yapın veya Türk cihaz kullanın
 
-## Arama, SMS ve Hotspot Sorun Giderme
+## eSIM Aramaları, SMS ve Hotspot Sorun Giderme
 
-Her arıza kategorisinin belirli bir nedeni ve belirli bir çözümü vardır. Destekle iletişime geçmeden önce semptomunuz için tabloyu inceleyin.
+Her hata kategorisinin belirli bir nedeni ve belirli bir çözümü vardır. Desteğe başvurmadan önce belirtinize göre tabloyu inceleyin.
 
 ### Türkiye eSIM VoIP Aramaları Çalışmıyor
 
 | Neden | Çözüm |
 |---|---|
-| Veri hattı seçilmedi | Türkiye eSIM'i Mobile Data için ayarlayın |
-| Dolaşım kapalı | eSIM için Data Roaming'i etkinleştirin |
-| FUP kısıtlandı | Kullanımı kontrol edin; sabit veri planına geçin |
-| APN yanlış | Doğru APN'yi girin |
-| Ağ tıkanıklığı | Manuel ağ seçimini deneyin |
+| Veri hattı seçilmemiş | Türkiye eSIM'i Mobil Veri olarak ayarlayın |
+| Dolaşım kapalı | eSIM için Veri Dolaşımını etkinleştirin |
+| FUP yavaşlatmış | Kullanımı kontrol edin; sabit verili pakete geçin |
+| APN yanlış | Doğru APN'i girin |
+| Ağ yoğunluğu | Manuel ağ seçimini deneyin |
 | Uygulama izinleri | Mikrofon ve ağ izinlerini kontrol edin |
 
-### Türkiye eSIM SMS Ev SIM'inde Alınmıyor
+### Türkiye eSIM SMS Ana SIM'de Alınmıyor
 
 | Neden | Çözüm |
 |---|---|
-| Ev SIM aktif değil | Ev SIM'i Voice & SMS için etkinleştirin |
-| Veri geçişi açık | Allow Mobile Data Switching'i devre dışı bırakın |
-| Operatör sorunu | Ev operatörüyle iletişime geçin |
-| Wi-Fi Calling çakışması | Wi-Fi Calling'i geçici olarak devre dışı bırakın |
+| Ana SIM etkin değil | Ana SIM'i Ses ve SMS için etkinleştirin |
+| Veri geçişi açık | Mobil Veri Geçişine İzin Ver'i devre dışı bırakın |
+| Operatör sorunu | Ana operatörle iletişime geçin |
+| Wi-Fi Calling çatışması | Wi-Fi Calling'i geçici olarak devre dışı bırakın |
 
 ### Türkiye eSIM Hotspot Çalışmıyor
 
 | Neden | Çözüm |
 |---|---|
-| Hotspot izin verilmiyor | Plan koşullarını kontrol edin; sağlayıcı değiştirin |
-| Hotspot sınırına ulaşıldı | Ertesi günü bekleyin veya plan değiştirin |
-| APN yanlış | Hotspot için APN'yi kontrol edin |
-| TTL algılama | Bazı sağlayıcılar engeller; sağlayıcı değiştirin |
-| Cihaz sınırı | Bazı telefonlar hotspot istemcilerini sınırlar |
+| Hotspot'a izin verilmiyor | Paket koşullarını kontrol edin; sağlayıcı değiştirin |
+| Hotspot limitine ulaşıldı | Ertesine kadar bekleyin veya paket değiştirin |
+| APN yanlış | Hotspot için APN'i kontrol edin |
+| TTL tespiti | Bazı sağlayıcılar engeller; sağlayıcı değiştirin |
+| Cihaz limiti | Bazı telefonlar hotspot istemcisini sınırlar |
 
 ### Türkiye eSIM Hotspot Hızı Yavaş
 
 | Neden | Çözüm |
 |---|---|
-| FUP kısıtlandı | Günlük kullanımı kontrol edin |
-| Ağ tıkanıklığı | Manuel ağ seçimini deneyin |
+| FUP yavaşlatmış | Günlük kullanımı kontrol edin |
+| Ağ yoğunluğu | Manuel ağ seçimini deneyin |
 | Wi-Fi girişimi | Hotspot bandını 5 GHz'e değiştirin |
-| Telefon işleme | Arka plan uygulamalarını kapatın |
-| Sağlayıcı kısıtlaması | Sabit veri planına geçin |
+| Telefon işlemcisi | Arka plan uygulamalarını kapatın |
+| Sağlayıcı yavaşlatması | Sabit verili pakete geçin |
 
-## Operatör Wi-Fi Calling Veritabanı
+## Türk Operatör Wi-Fi Calling Veritabanı
 
-Bu bölüm Türkiye'deki büyük operatörler için Wi-Fi Calling desteğini izler. Üç ayda bir güncellenir. Wi-Fi Calling, yalnızca veri olan bir Türkiye eSIM'inde yerel numara deneyimine en yakın şeydir.
+Bu bölüm, Türkiye'deki büyük operatörler için Wi-Fi Calling desteğini takip eder. Üç ayda bir güncellenir. Wi-Fi Calling, yalnızca veri bir Türkiye eSIM'de yerel numara deneyimine en yakın şeydir.
 
 | Operatör | Ülke | Türkiye'de Wi-Fi Calling? | Notlar |
 |---|---|---|---|
-| EE | UK | Değişir | Bazı planlar coğrafi kısıtlama yapar |
-| O2 | UK | Değişir | Kalkıştan önce kontrol edin |
-| Vodafone | UK | Değişir | Kontrol edin |
-| Three | UK | Değişir | Kontrol edin |
-| Verizon | US | Genellikle evet | Uluslararası koşulları kontrol edin |
-| AT&T | US | Genellikle evet | Kontrol edin |
-| T-Mobile | US | Genellikle evet | Kontrol edin |
-| Deutsche Telekom | Almanya | Değişir | Kontrol edin |
-| Orange | Fransa | Değişir | Kontrol edin |
-| Vodafone | Almanya | Değişir | Kontrol edin |
-| Telstra | Avustralya | Değişir | Kontrol edin |
-| Bell | Kanada | Değişir | Kontrol edin |
+| EE | Birleşik Krallık | Değişken | Bazı paketler coğrafi kısıtlar |
+| O2 | Birleşik Krallık | Değişken | Yola çıkmadan önce kontrol edin |
+| Vodafone | Birleşik Krallık | Değişken | Kontrol edin |
+| Three | Birleşik Krallık | Değişken | Kontrol edin |
+| Verizon | ABD | Genellikle evet | Uluslararası koşulları kontrol edin |
+| AT&T | ABD | Genellikle evet | Kontrol edin |
+| T-Mobile | ABD | Genellikle evet | Kontrol edin |
+| Deutsche Telekom | Almanya | Değişken | Kontrol edin |
+| Orange | Fransa | Değişken | Kontrol edin |
+| Vodafone | Almanya | Değişken | Kontrol edin |
+| Telstra | Avustralya | Değişken | Kontrol edin |
+| Bell | Kanada | Değişken | Kontrol edin |
 
-### Kalkıştan Önce Türkiye eSIM Wi-Fi Calling Nasıl Doğrulanır?
+### Yola Çıkmadan Önce Türkiye eSIM Wi-Fi Calling Nasıl Doğrulanır?
 
 1. Operatör hesabınıza giriş yapın.
-2. "Wi-Fi Calling" veya "VoWiFi international" arayın.
-3. Türkiye'nin desteklenen ülkeler listesinde olup olmadığını kontrol edin.
-4. Listede yoksa müşteri hizmetlerini arayın.
-5. Uçmadan önce evde etkinleştirerek Wi-Fi Calling'i test edin.
+2. "Wi-Fi Calling" veya "VoWiFi uluslararası" arayın.
+3. Türkiye'nin desteklenen ülke listesinde olup olmadığını kontrol edin.
+4. Listelenmemişse, müşteri hizmetlerini arayın.
+5. Uçmadan önce Wi-Fi Calling'i evde etkinleştirerek test edin.
 
-## 2FA Banka SMS Veritabanı
+## Türk Bankası 2FA SMS Veritabanı
 
-Bu bölüm hangi bankaların Türkiye'deki dolaşım numaralarına 2FA SMS gönderdiğini izler. Üç ayda bir güncellenir. Türkiye eSIM'iniz SMS alamaz, ancak ev SIM'iniz alabilir.
+Bu bölüm, hangi bankaların Türkiye'de dolaşımlı numaralara 2FA SMS gönderdiğini takip eder. Üç ayda bir güncellenir. Türkiye eSIM'iniz SMS alamaz, ancak ana SIM'iniz alabilir.
 
 | Banka | Ülke | Türkiye'de 2FA SMS? | Notlar |
 |---|---|---|---|
-| Chase | US | ✅ Evet | Gelen SMS ücretsiz |
-| Bank of America | US | ✅ Evet | Gelen SMS ücretsiz |
-| Wells Fargo | US | ✅ Evet | Dolaşım koşullarını kontrol edin |
-| Barclays | UK | ✅ Evet | Gelen SMS ücretsiz |
-| HSBC | UK | ✅ Evet | Kontrol edin |
-| Lloyds | UK | ✅ Evet | Gelen SMS ücretsiz |
+| Chase | ABD | ✅ Evet | Gelen SMS ücretsiz |
+| Bank of America | ABD | ✅ Evet | Gelen SMS ücretsiz |
+| Wells Fargo | ABD | ✅ Evet | Dolaşım koşullarını kontrol edin |
+| Barclays | Birleşik Krallık | ✅ Evet | Gelen SMS ücretsiz |
+| HSBC | Birleşik Krallık | ✅ Evet | Kontrol edin |
+| Lloyds | Birleşik Krallık | ✅ Evet | Gelen SMS ücretsiz |
 | Deutsche Bank | Almanya | ✅ Evet | Kontrol edin |
 | BNP Paribas | Fransa | ✅ Evet | Kontrol edin |
 | Commerzbank | Almanya | ✅ Evet | Kontrol edin |
@@ -548,127 +561,127 @@ Bu bölüm hangi bankaların Türkiye'deki dolaşım numaralarına 2FA SMS gönd
 
 ### Türkiye eSIM 2FA Başarısız Olursa Ne Yapmalı?
 
-1. Ev SIM'inizin Voice & SMS için aktif olduğunu kontrol edin.
-2. "Allow Mobile Data Switching"i devre dışı bırakın.
+1. Ana SIM'inizin Ses ve SMS için etkin olduğunu kontrol edin.
+2. "Mobil Veri Geçişine İzin Ver"i devre dışı bırakın.
 3. Telefonunuzu yeniden başlatın.
-4. Uluslararası SMS'in etkin olduğunu doğrulamak için bankanızla iletişime geçin.
-5. Bankanız yerel bir numara gerektiriyorsa yerel bir Türk SIM'i düşünün.
+4. Bankanızla iletişime geçerek uluslararası SMS'in etkin olduğunu doğrulayın.
+5. Bankanız yerel bir numara gerektiriyorsa yerel bir Türk SIM düşünün.
 
-## Gerçek Örnek: Wei, Hareket Halinde Banka 2FA
+## Gerçek Örnek: Yol Üzerinde Banka 2FA'sı Wei
 
-Wei gezinin ortasında ev bankasının SMS koduna ihtiyaç duydu. Ev SIM'ini aktif tuttuğu ve eSIM'i veri hattı olarak ayarladığı için, kod Wi-Fi Calling üzerinden geldi ve verisi eSIM üzerinden çalıştı.
+Wei, gezi ortasında ana bankasının SMS koduna ihtiyaç duydu. Ana SIM'ini etkin tuttuğu ve eSIM'i veri hattı olarak ayarladığı için, kodu Wi-Fi calling üzerinden geldi; verisi eSIM üzerinden çalışıyordu.
 
-## Neye İhtiyacınız Var vs Kurulum
+## İhtiyacınız Olan ve Kurulum
 
-| Neye ihtiyacınız var | Kurulumunuz | Notlar |
+| İhtiyacınız olan | Kurulumunuz | Notlar |
 | --- | --- | --- |
 | Yalnızca veri | Seyahat eSIM | En basit seçenek |
-| Veri artı 2FA | eSIM verisi + ev SIM aktif | Ev SIM'inde veri dolaşımını kapalı tutun |
+| Veri artı 2FA | eSIM veri + ana SIM etkin | Ana SIM'de veri dolaşımını kapalı tutun |
 | Yerel Türk numarası | Pasaportlu yerel SIM | IMEI sayacını tetikler |
 
-## SSS: Numara, Arama, SMS ve Hotspot
+## SSS: Türkiye eSIM Numara, Arama, SMS ve Hotspot
 
 ### eSIM ile Türk telefon numarası alabilir miyim?
 
-Evet, ancak yalnızca Turkcell, Vodafone Turkey veya Türk Telekom'dan yerel bir Türk operatör eSIM'i aracılığıyla. Satın alma, pasaportla şahsen kayıt gerektirir. Seyahat eSIM'leri yalnızca veridir.
+Evet, ancak yalnızca Turkcell, Vodafone Türkiye veya Türk Telekom'dan yerel Türk operatör eSIM'iyle. Satın alma, pasaportla şahsen kayıt gerektirir. Seyahat eSIM'leri yalnızca veridir.
 
-### Türkiye eSIM SMS'i destekliyor mu?
+### Türkiye eSIM SMS destekliyor mu?
 
-Hayır. Yalnızca veri seyahat eSIM'leri SMS gönderemez veya alamaz. SMS doğrulama kodları ve banka uyarıları için ev SIM'inizi aktif tutun.
+Hayır. Yalnızca veri seyahat eSIM'leri SMS gönderemez veya alamaz. SMS doğrulama kodları ve banka uyarıları için ana SIM'inizi etkin tutun.
 
 ### Türkiye eSIM ile arama yapabilir miyim?
 
-Evet, veri bağlantınız üzerinden WhatsApp, Telegram, Skype veya FaceTime gibi VoIP uygulamalarını kullanarak. Yerel hücresel aramalar, telefon numaralı yerel bir Türk SIM'i gerektirir.
+Evet, veri bağlantınız üzerinden WhatsApp, Telegram, Skype veya FaceTime gibi VoIP uygulamalarını kullanarak. Yerel hücresel aramalar, telefon numarası olan yerel bir Türk SIM gerektirir.
 
-### Türkiye eSIM WhatsApp ile çalışır mı?
+### Türkiye eSIM WhatsApp ile çalışıyor mu?
 
-Evet. WhatsApp, bir Türkiye eSIM veri bağlantısı üzerinden çalışır. Sesli ve görüntülü aramalar yapabilir, mesaj gönderebilir ve medya paylaşabilirsiniz.
+Evet. WhatsApp, bir Türkiye eSIM veri bağlantısı üzerinden çalışır. Sesli ve görüntülü aramalar yapabilir, mesajlar gönderebilir ve medya paylaşabilirsiniz.
 
 ### Türkiye eSIM'i 2FA için kullanabilir miyim?
 
-Türkiye eSIM'iniz SMS alamaz, ancak ev SIM'iniz alabilir. Ev SIM'ini Voice & SMS için aktif tutun ve Türkiye eSIM'i Mobile Data için ayarlayın.
+Türkiye eSIM'iniz SMS alamaz, ancak ana SIM'iniz alabilir. Ana SIM'i Ses ve SMS için etkin tutun ve Türkiye eSIM'i Mobil Veri olarak ayarlayın.
 
-### Türkiye eSIM hotspot'u destekliyor mu?
+### Türkiye eSIM hotspot destekliyor mu?
 
-Çoğu sabit veri planı hotspot'a izin verir. Bazı sınırsız planlar tethering'i kısıtlar veya sınırlar. Satın almadan önce plan ayrıntılarını kontrol edin.
+Çoğu sabit verili paket hotspot'a izin verir. Bazı sınırsız paketler tethering'i kısıtlar veya sınırlar. Satın almadan önce paket ayrıntılarını kontrol edin.
 
 ### Wi-Fi Calling bir Türkiye eSIM üzerinden çalışır mı?
 
-Ev operatörünüz Wi-Fi Calling'i destekliyorsa ve Türkiye'de izin veriyorsa çalışabilir. Telefonunuz aramaları ve SMS'leri Türkiye eSIM veri bağlantısı üzerinden yönlendirir. Kalkıştan önce ev operatörünüzle kontrol edin. iPhone kurulum adımları için [Apple'ın Wi-Fi Calling destek belgelerine](https://support.apple.com/en-us/HT203032) bakın.
+Çalışabilir, ana operatörünüz Wi-Fi Calling destekliyorsa ve Türkiye'de buna izin veriyorsa. Telefonunuz aramaları ve SMS'leri Türkiye eSIM veri bağlantısı üzerinden yönlendirir. Yola çıkmadan önce ana operatörünüzle kontrol edin. iPhone kurulum adımları için [Apple'ın Wi-Fi Calling destek belgelerine](https://support.apple.com/en-us/HT203032) bakın.
 
-### Türkiye'de bir aile için en iyi hotspot planı nedir?
+### Türkiye'de bir aile için en iyi hotspot paketi hangisidir?
 
-Kısıtlanmamış hotspot ve en az 20 GB içeren bir plan arayın. Saily ve Roami kısıtlanmamış hotspot'a izin verir. Holafly hotspot'u 500 MB/gün ile sınırlar.
+Sınırsız hotspotlu ve en az 20 GB'lı bir paket arayın. Saily ve Roami sınırsız hotspot'a izin verir. Holafly hotspot'u günde 1 GB ile sınırlar.
 
 ### Türkiye'de 2FA almak için en iyi kurulum nedir?
 
-Ev SIM'inizi fiziksel yuvada Voice & SMS için aktif tutun, Türkiye eSIM'i Mobile Data hattı olarak ayarlayın ve Allow Mobile Data Switching'i devre dışı bırakın.
+Fiziksel yuvada ana SIM'inizi Ses ve SMS için etkin tutun, Türkiye eSIM'i Mobil Veri hattı olarak ayarlayın ve Mobil Veri Geçişine İzin Ver'i devre dışı bırakın.
 
-### Bir Türkiye eSIM'i hotspot için kullanıp yine de SMS alabilir miyim?
+### Türkiye eSIM'i hotspot için kullanırken hâlâ SMS alabilir miyim?
 
-Evet. Ev SIM'inizi Voice & SMS için aktif tutun. Türkiye eSIM'i veriyi ve hotspot'u yönetir. SMS ev numaranıza gelir.
+Evet. Ana SIM'inizi Ses ve SMS için etkin tutun. Türkiye eSIM veriyi ve hotspot'u yönetir. SMS ana numaranıza gelir.
 
-### Hangi yerel Türk operatörü en iyi turist ses planına sahiptir?
+### Hangi yerel Türk operatörün turist ses paketi en iyisi?
 
-Türk Telekom 25 GB, 750 dakika ve 750 SMS için 420 TL (~$9) ile en ucuzdur. Vodafone 20 GB, 750 dakika ve 1.000 SMS'i daha güçlü İngilizce desteğiyle sunar. Turkcell en iyi kapsamaya sahiptir ancak ~$38'e mal olur.
+Türk Telekom, 25 GB, 750 dakika ve 750 SMS için 420 TL (~9 $) ile en ucuzdur. Vodafone, daha güçlü İngilizce destekle 20 GB, 750 dakika ve 1.000 SMS sunar. Turkcell'in en iyi kapsaması vardır ama ~38 $ tutar.
 
-### Türk banka 2FA'sı için sanal numara kullanabilir miyim?
+### Türk bankası 2FA için sanal bir numara kullanabilir miyim?
 
-Çoğu Türk bankası sanal numaralara 2FA kodu göndermez. Ev SIM'inizi veya yerel bir Türk SIM'ini kullanın.
+Çoğu Türk bankası, 2FA kodlarını sanal numaralara göndermez. Ana SIM'inizi veya yerel bir Türk SIM kullanın.
 
-### Türkiye'de VoIP yasal mı?
+### VoIP Türkiye'de yasal mı?
 
-Evet. WhatsApp, Telegram ve FaceTime veri üzerinden çalışır. Bazı kurumsal ağlar VoIP portlarını engeller, ancak Türk mobil ağları VoIP'i engellemez.
+Evet. WhatsApp, Telegram ve FaceTime veri üzerinden çalışır. Bazı kurumsal ağlar VoIP portlarını engeller, ancak Türk mobil ağları VoIP'yi engellemez.
 
-### Türkiye eSIM kullandığımda ev SIM'ime ne olur?
+### Türkiye eSIM kullandığımda ana SIM'ime ne olur?
 
-Ev SIM'iniz dolaşım yoluyla Voice & SMS için aktif kalır. Gelen SMS genellikle ücretsiz veya düşük maliyetlidir. Veri ücretlerinden kaçınmak için ev SIM'inde veri dolaşımını kapalı tutun.
+Ana SIM'iniz dolaşım üzerinden Ses ve SMS için etkin kalır. Gelen SMS genellikle ücretsiz veya düşük maliyetlidir. Veri ücretlerinden kaçınmak için ana SIM'de veri dolaşımını kapalı tutun.
 
-### Dolaşımdayken Türkiye eSIM'i hotspot için kullanabilir miyim?
+### Türkiye eSIM'i dolaşımda hotspot için kullanabilir miyim?
 
-Evet. Türkiye eSIM'i, hangi ağa bağlandığınızdan bağımsız olarak veriyi ve hotspot'u yönetir. Ev SIM'inizi Voice & SMS için aktif tutun ve dolaşım ücretlerinden kaçınmak için mobil veri geçişini devre dışı bırakın.
+Evet. Türkiye eSIM, hangi ağa bağlandığınıza bakmaksızın veriyi ve hotspot'u yönetir. Dolaşım ücretlerinden kaçınmak için ana SIM'inizi Ses ve SMS için etkin tutun ve mobil veri geçişini devre dışı bırakın.
 
-## Son Kontrol Listesi: Arama, SMS ve Hotspot
+## Son Kontrol Listesi: Türkiye eSIM Aramaları, SMS ve Hotspot
 
-Türkiye eSIM kurulumunuzu doğrulamak, inişe hazırlanmak ve bir şey başarısız olursa kurtarmak için bu son kontrol listesini kullanın.
+Türkiye eSIM kurulumunuzu doğrulamak, inişe hazırlanmak ve bir şey ters giderse kurtarmak için bu son kontrol listesini kullanın.
 
 ### Türkiye eSIM ile Uçmadan Önce
 
-- [ ] Yalnızca veri bir Türkiye eSIM satın alın (gezi uzunluğuna bağlı olarak 5–20 GB). [Sağlayıcı özetinde](/blog/best-turkey-esim-providers/) seçenekleri karşılaştırın.
-- [ ] eSIM'i kalkıştan önce Wi-Fi'de yükleyin. [Kurulum adımlarına](/blog/how-turkey-esim-works-activation/) bakın.
-- [ ] Hattı "Turkey" olarak etiketleyin
-- [ ] Türkiye eSIM'i Mobile Data için ayarlayın
-- [ ] Ev SIM'ini Voice & SMS için ayarlayın
-- [ ] Ev SIM'inde veri dolaşımını kapatın
-- [ ] Allow Mobile Data Switching'i devre dışı bırakın
-- [ ] VoIP aramaları için WhatsApp, Telegram veya Skype yükleyin
-- [ ] Ev SIM'inin 2FA SMS için aktif olduğunu doğrulayın
-- [ ] Ev operatörünün Türkiye'de Wi-Fi Calling'i destekleyip desteklemediğini kontrol edin
+- [ ] Yalnızca veri bir Türkiye eSIM satın alın (gezi süresine göre 5–20 GB). Seçenekleri [sağlayıcı derlemesinde](/blog/best-turkey-esim-providers/) karşılaştırın.
+- [ ] Yola çıkmadan önce eSIM'i Wi-Fi'da yükleyin. [kurulum adımlarına](/blog/how-turkey-esim-works-activation/) bakın.
+- [ ] Hattı "Türkiye" olarak etiketleyin
+- [ ] Türkiye eSIM'i Mobil Veri olarak ayarlayın
+- [ ] Ana SIM'i Ses ve SMS olarak ayarlayın
+- [ ] Ana SIM'de veri dolaşımını kapatın
+- [ ] Mobil Veri Geçişine İzin Ver'i devre dışı bırakın
+- [ ] VoIP aramalar için WhatsApp, Telegram veya Skype yükleyin
+- [ ] Ana SIM'in 2FA SMS için etkin olduğunu doğrulayın
+- [ ] Ana operatörün Türkiye'de Wi-Fi Calling destekleyip desteklemediğini kontrol edin
 - [ ] Veri paylaşmayı planlıyorsanız hotspot'u test edin
 
-### Türkiye eSIM ile İndikten Sonra
+### Türkiye eSIM ile İnişten Sonra
 
 - [ ] Türkiye eSIM için veri dolaşımını etkinleştirin
-- [ ] Bir harita veya tarayıcı ile veriyi test edin
-- [ ] Bir VoIP aramasını test edin
-- [ ] Ev SIM'inizde SMS alabildiğinizi doğrulayın
+- [ ] Bir harita veya tarayıcıyla veriyi test edin
+- [ ] Bir VoIP araması test edin
+- [ ] Ana SIM'inizde SMS alabildiğinizi doğrulayın
 - [ ] Veri paylaşmayı planlıyorsanız hotspot'u test edin
 - [ ] Operatör adını ve ağ kaydını kontrol edin
 
-### Türkiye eSIM ile Bir Şey Başarısız Olursa
+### Türkiye eSIM ile Bir Şey Ters Giderse
 
 - [ ] Veri hattı seçimini kontrol edin
 - [ ] Dolaşım ayarlarını kontrol edin
-- [ ] APN'yi kontrol edin
+- [ ] APN'i kontrol edin
 - [ ] Telefonu yeniden başlatın
 - [ ] Manuel ağ seçimini deneyin
-- [ ] ICCID ve sipariş numarasıyla destekle iletişime geçin
+- [ ] ICCID ve sipariş numarasıyla desteğe başvurun
 
-Gerçek bir Türk numarasına ihtiyacınız varsa, eSIM yanlış araçtır — bunun yerine yerel bir SIM satın alın. Veri, VoIP üzerinden aramalar ve hotspot için [Roami'nin veri planı](/turkey-esim/) $1,99'dan başlar, yeni kullanıcılar için %20 indirim ve her planda kısıtlanmamış hotspot. Tam kurulum için [tam genel bakışa](/blog/turkey-esim-ultimate-guide/) bakın.
+Gerçek bir Türk numarasına ihtiyacınız varsa, eSIM yanlış araçtır — bunun yerine yerel bir SIM satın alın. Veri, VoIP üzerinden aramalar ve hotspot için, [Roami'nin veri paketi](/turkey-esim/) 2,99 $'dan başlar, yeni kullanıcılar için %20 indirim ve her pakette sınırsız hotspot. Eksiksiz kurulum için [tam genel bakışa](/blog/turkey-esim-ultimate-guide/) bakın.
 
-## Alt Satır
+## Sonuç: Aramalar, Numaralar ve Veri Halledildi
 
-- Bir seyahat eSIM'i size veri verir, Türk numarası değil — bir numaraya ihtiyacınız varsa, yerel bir SIM doğru seçimdir.
-- Aramalar için veriniz üzerinden VoIP kullanın; 2FA için ev SIM'inizi aktif tutun.
-- Yerel bir numaraya ihtiyacınız varsa, Turkcell, Vodafone veya Türk Telekom'dan yerel bir operatör planı satın alın.
-- Hotspot politikasını kontrol edin, çünkü bazı sınırsız planlar tethering'i kısıtlar.
+- Bir seyahat eSIM size veri verir, Türk numarası değil — birine ihtiyacınız varsa, yerel SIM doğru tercihtir.
+- Aramalar için veriniz üzerinden VoIP kullanın; 2FA için ana SIM'inizi etkin tutun.
+- Yerel bir numaraya ihtiyacınız varsa, Turkcell, Vodafone veya Türk Telekom'dan yerel bir operatör paketi satın alın.
+- Hotspot politikasını kontrol edin, çünkü bazı sınırsız paketler tethering'i kısıtlar.

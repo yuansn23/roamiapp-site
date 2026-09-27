@@ -1,53 +1,53 @@
 ---
-title: "eSIM de Canadá con Número de Teléfono: SMS y Uber"
-description: "Roami eSIM de Canadá con número de teléfono: qué proveedores incluyen uno real, SMS bancarios, registro en Uber y llamadas."
-keywords: ["eSIM Canadá número de teléfono", "eSIM Canadá con número", "eSIM Canadá SMS bancarios", "eSIM Canadá Uber", "eSIM Canadá activación de número"]
-date: 2026-09-11T00:00:00Z
-lastmod: 2026-09-11T00:00:00Z
-author: "Roami Team"
-authorBio: "Roami ofrece planes eSIM confiables, atendiendo a más de 1 millón de viajeros anualmente, y admite el cambio automático de red local para ayudar a los viajeros a mantenerse conectados globalmente."
+title: "eSIM de Canadá con número: SMS bancarios y llamadas"
+description: "eSIM para Canadá con número de teléfono de Roami: qué proveedores incluyen uno real, cómo recibir SMS bancarios, registrarte en Uber y hacer llamadas."
+keywords: ["Canada eSIM phone number", "Canada eSIM with number", "Canada eSIM bank SMS", "Canada eSIM Uber", "Canada eSIM number activation"]
+date:  2026-09-23T00:00:00Z
+lastmod:  2026-09-23T00:00:00Z
+author: "Equipo Roami"
+authorBio: "Roami ofrece planes eSIM confiables, atendiendo a más de 1 millón de viajeros al año, y admite el cambio automático de red local para ayudar a los viajeros a mantenerse conectados en todo el mundo."
 image: "/img/esim/canada/canada-esim-with-phone-number.jpg"
-categories: ["eSIM", "Viajes", "Canadá"]
-tags: ["Canadá eSIM"]
+categories: ["eSIM", "Travel", "Canada"]
+tags: ["Canada eSIM"]
 readingTime: 5
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "eSIM de Canadá con Número de Teléfono: SMS Bancarios, Uber y Llamadas Explicados"
+h1title: "eSIM para Canadá con Número de Teléfono: SMS Bancarios, Uber y Llamadas Explicados"
 
 # Sidebar module titles
 productsTitle: "Planes eSIM Populares"
-hotPostsTitle: "Artículos Populares"
-recentPostsTitle: "Artículos Recientes"
+hotPostsTitle: "Artículos Destacados"
+recentPostsTitle: "Publicaciones Recientes"
 
 # Right sidebar products (6 items)
 products:
-  - name: "eSIM USA"
+  - name: "USA eSIM"
     flag: "/img/flags/us.svg"
     price: "Desde $1.99"
     is_highlight: false
     slug: "united-states"
-  - name: "eSIM Japón"
+  - name: "Japan eSIM"
     flag: "/img/flags/jp.svg"
     price: "Desde $1.99"
     is_highlight: false
     slug: "japan"
-  - name: "eSIM Europa"
+  - name: "Europe eSIM"
     flag: "/img/flags/eu.svg"
     price: "Desde $1.99"
     is_highlight: true
     slug: "europe"
-  - name: "eSIM Corea del Sur"
+  - name: "South Korea eSIM"
     flag: "/img/flags/kr.svg"
     price: "Desde $1.99"
     is_highlight: false
     slug: "south-korea"
-  - name: "eSIM Tailandia"
+  - name: "Thailand eSIM"
     flag: "/img/flags/th.svg"
     price: "Desde $1.99"
     is_highlight: false
     slug: "thailand"
-  - name: "eSIM Hong Kong"
+  - name: "Hong Kong eSIM"
     flag: "/img/flags/hk.svg"
     price: "Desde $1.99"
     is_highlight: false
@@ -55,88 +55,90 @@ products:
 
 # Recent posts (sidebar)
 recentPosts:
-  - title: "Guía Completa de Solución de Problemas eSIM (16 Casos Reales)"
+  - title: "Guía Avanzada de Solución de Problemas de eSIM (16 Casos Reales)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
-  - title: "Transferencia eSIM Multiplataforma 2026"
+  - title: "Transferencia de eSIM entre Plataformas 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "¿Doble eSIM No Funciona? 12 Soluciones para iPhone"
+  - title: "¿La eSIM Dual No Funciona? 12 Soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "eSIM iPad y Apple Watch: Guía Completa"
+  - title: "eSIM para iPad y Apple Watch: Guía Completa"
     permalink: "/faq/ipad-apple-watch-esim-support-guide/"
     date: "2026-05-23"
-  - title: "Guía de Compatibilidad eSIM iPhone SE"
+  - title: "Guía de Compatibilidad de eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Guía Completa de Configuración eSIM iPhone 11"
+  - title: "Guía Completa de Configuración de eSIM para iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "Guía Definitiva 2026: Soluciones de Activación eSIM iPhone 16"
+  - title: "Guía Definitiva 2026: Soluciones de Activación de eSIM para iPhone 16"
     permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
+
+La mayoría de las eSIM de viaje vendidas para Canadá son de solo datos, lo cual está bien hasta que necesitas recibir un mensaje de texto, y en Canadá ese momento llega rápido. Bancos como RBC, TD, Scotiabank, BMO y CIBC envían códigos de verificación por SMS, y también lo hacen Uber, DoorDash, Lyft, portales gubernamentales y sistemas de solicitud universitaria y laboral, ninguno de los cuales puede recibir una eSIM de solo datos. Esa única limitación decide si necesitas un plan con número o si puedes ahorrar con uno de solo datos. La lista de verificación y la tabla siguientes te ayudan a resolver la duda en menos de un minuto.
 
 ## Respuesta Rápida: ¿Necesitas un Número de Teléfono Canadiense?
 
 **Necesitas un número canadiense si:**
 - Te registras en Uber, DoorDash o Lyft en Canadá
-- Recibes códigos de verificación bancaria (RBC, TD, Scotiabank, BMO, CIBC)
+- Recibes códigos de verificación bancarios (RBC, TD, Scotiabank, BMO, CIBC)
 - Te registras en servicios gubernamentales, sistemas escolares o solicitudes de empleo
 - Permites que anfitriones de Airbnb u hoteles te contacten por SMS
 - Usas autenticación de dos factores para servicios canadienses
 
 **NO necesitas un número canadiense si:**
-- Solo usas WhatsApp, WeChat o FaceTime por datos
-- Te quedas en un viaje corto a la ciudad (3–7 días)
+- Solo usas WhatsApp, WeChat o FaceTime sobre datos
+- Te quedas en un viaje urbano corto (3–7 días)
 - Solo usas navegación y mensajería
 
-**Mejores opciones de eSIM con número:**
+**Mejores selecciones de eSIM con número:**
 
-| Tu Situación | Mejor Elección | Por Qué |
+| Tu Situación | Mejor Opción | Por Qué |
 |----------------|-------------|-----|
 | Estancia larga (1+ mes), grandes datos | **CanadianSIM** | CA$40/95GB/30 días, número canadiense real |
-| Viajero a medio plazo, negocios | **ByteSIM** | Desde $18.90, número real +1, llamadas a 30+ países |
-| Estudiante / nuevo inmigrante | **CanadianSIM** | Sin verificación de crédito, activar antes de la salida |
+| Viajero mediano plazo, negocios | **ByteSIM** | Desde $18.90, número +1 real, llamadas a 30+ países |
+| Estudiante / inmigrante reciente | **CanadianSIM** | Sin verificación de crédito, activación antes de salir |
 | Datos ilimitados + número | **Holafly** (plan Unlimited) | Verdaderamente ilimitado, algunos planes incluyen número |
-| Ya en Canadá, puede visitar tienda | **Koodo / Lucky / Chatr** | Precio local más bajo, número canadiense real |
-| Transfronterizo EE. UU.-Canadá | **Saily** (número de EE. UU.) | US +1 opcional, desde $0.84/mes |
-| Solo llamadas/SMS ocasionales | **Airalo + add-on** | Flexible, desde $8/3 días |
+| Ya en Canadá, puedes ir a una tienda | **Koodo / Lucky / Chatr** | El precio local más bajo, número canadiense real |
+| Transfronterizo EE.UU.-Canadá | **Saily** (número de EE.UU.) | US +1 opcional, desde $0.84/mes |
+| Solo llamadas/SMS ocasionales | **Airalo + complemento** | Flexible, desde $8/3 días |
 
-**Dato clave:** Se requiere un número canadiense real para códigos de verificación bancaria, registro en Uber/DoorDash y servicios gubernamentales. Las eSIM solo datos no pueden recibir SMS estándar.
+**Dato clave:** Un número canadiense real es necesario para códigos de verificación bancarios, registro en Uber/DoorDash y servicios gubernamentales. Las eSIM de solo datos no pueden recibir SMS estándar.
 
-**¿Quieres probar antes de comprometerte?** Prueba una [prueba eSIM gratuita](/free-esim/) o un [plan eSIM de Canadá de Roami](/canada-esim/) desde **$1.99** para confirmar que tu teléfono recibe SMS en Canadá. Los nuevos usuarios obtienen **20% de descuento** con el código `web20`, y el **soporte humano 24/7** de Roami puede verificar la configuración del número.
+**¿Quieres probar antes de comprometerte?** Prueba una [prueba gratuita de eSIM](/free-esim/) o un [plan de eSIM para Canadá de Roami](/canada-esim/) desde **$1.99** para confirmar que tu teléfono recibe SMS en Canadá. Los usuarios nuevos obtienen un **20% de descuento** con el código `web20`, y el **soporte humano 24/7** de Roami puede verificar la configuración del número.
 
-Para una comparación completa de proveedores, consulta nuestra [Base de datos de proveedores eSIM de Canadá](/blog/canada-esim-comparison-2026/). Para pasos de instalación, consulta nuestra [guía de configuración eSIM](/blog/how-to-get-esim-in-canada-guide/).
+Para una comparación completa de proveedores, consulta nuestra [base de datos de proveedores de eSIM para Canadá](/blog/canada-esim-comparison-2026/). Para pasos de instalación, consulta nuestra [guía de configuración de eSIM](/blog/how-to-get-esim-in-canada-guide/).
 
 ## Por Qué Necesitas un Número Canadiense para la eSIM
 
-Estás planeando un viaje, estudios en el extranjero o un viaje de negocios a Canadá. Has oído hablar de los beneficios de la eSIM: sin cambio de tarjeta, activación instantánea, menor costo. Pero cuando abres los sitios web de los proveedores, aparece una pregunta clave:
+Estás planeando un viaje, estudios en el extranjero o un viaje de negocios a Canadá. Has oído hablar de los beneficios de la eSIM: sin cambio de tarjeta, activación instantánea, menor costo. Pero al abrir los sitios web de los proveedores, aparece una pregunta clave:
 
-**"¿Incluye esta eSIM un número de teléfono canadiense?"**
+**"¿Esta eSIM incluye un número de teléfono canadiense?"**
 
-La mayoría de las eSIM de viaje son **solo datos**. Te dan internet de alta velocidad, pero sin número canadiense real. Para viajes cortos, WhatsApp, WeChat y FaceTime pueden ser suficientes.
+La mayoría de las eSIM de viaje son **de solo datos**. Te dan internet de alta velocidad, pero no un número canadiense real. Para viajes cortos, WhatsApp, WeChat y FaceTime pueden ser suficientes.
 
 Pero si necesitas:
 - Registrarte en Uber, DoorDash o apps locales
-- Recibir códigos de verificación bancaria
+- Recibir códigos de verificación bancarios
 - Permitir que anfitriones de Airbnb u hoteles te contacten
-- Dejar un número local cuando buscas trabajo
+- Dejar un número local al buscar trabajo
 - Registrarte en servicios gubernamentales o sistemas escolares
 
 **Entonces un número de teléfono canadiense real es esencial.**
 
-Esta guía se centra solo en **eSIM de Canadá con número de teléfono**. Explica qué proveedores incluyen un número, cómo probarlo y qué tener en cuenta. No repite los pasos generales de instalación; para eso, consulta nuestra [guía de configuración paso a paso](/blog/how-to-get-esim-in-canada-guide/). No repite la base de datos completa de precios de proveedores; para eso, consulta nuestra [Base de datos de comparación eSIM de Canadá](/blog/canada-esim-comparison-2026/).
+Esta guía se enfoca únicamente en la **eSIM para Canadá con número de teléfono**. Explica qué proveedores incluyen un número, cómo probarlo y qué tener en cuenta. No repite los pasos generales de instalación; para eso, consulta nuestra [guía de configuración paso a paso](/blog/how-to-get-esim-in-canada-guide/). No repite la base de datos completa de precios de proveedores; para eso, consulta nuestra [base de datos comparativa de eSIM para Canadá](/blog/canada-esim-comparison-2026/).
 
-**Una nota sobre nuestras fuentes de datos:** Esta guía combina información de proveedores disponible públicamente, informes de usuarios de Reddit y Trustpilot, y documentación oficial de la CRTC. Cuando hacemos referencia a resultados de SMS bancarios o registro de apps, los etiquetamos claramente como informes públicos de usuarios en lugar de nuestras propias pruebas. No presentamos afirmaciones de pruebas no verificables.
+**Una nota sobre nuestras fuentes de datos:** Esta guía combina información pública de proveedores, reportes de usuarios de Reddit y Trustpilot, y las [regulaciones móviles oficiales del CRTC](https://crtc.gc.ca/eng/phone/mobile/). Donde hacemos referencia a SMS bancarios o resultados de registro en apps, los etiquetamos claramente como reportes públicos de usuarios, no como nuestras propias pruebas. No presentamos afirmaciones de pruebas no verificables.
 
 **Lo que cubre esta guía:**
 - Quién necesita un número canadiense (y quién no)
-- eSIM solo datos vs eSIM con número
-- Proveedores que incluyen un número canadiense o estadounidense
-- Expectativas sobre SMS bancarios y registro de apps
-- Reglas de la CRTC sobre tarifas de activación
+- eSIM de solo datos vs. eSIM con número
+- Proveedores que incluyen un número canadiense o de EE.UU.
+- Expectativas de SMS bancarios y registro en apps
+- Reglas del CRTC sobre tarifas de activación
 - Cómo probar tu número después de la activación
 - Errores comunes a evitar
 
@@ -144,191 +146,191 @@ Esta guía se centra solo en **eSIM de Canadá con número de teléfono**. Expli
 
 | Grupo | ¿Necesita Número? | Razón |
 |-------|--------------|--------|
-| Turista de 3–7 días | ❌ Normalmente no | WhatsApp/WeChat suficientes |
-| Viajero de 2+ semanas | ⚠️ Recomendado | Taxis, restaurantes, contacto con homestay |
-| Estudiante internacional | ✅ Debe tener | Universidad, banco, alquiler |
-| Nuevo inmigrante | ✅ Debe tener | Trabajo, seguro social, banco |
-| Viajero de negocios | ✅ Debe tener | Los clientes locales necesitan número local |
-| Nómada digital / estancia larga | ✅ Debe tener | Trabajo y vida diarios |
-| Transfronterizo EE. UU.-Canadá | ⚠️ Opcional | El número de EE. UU. puede funcionar parcialmente; los servicios canadienses necesitan número canadiense |
+| Turista de 3–7 días | ❌ Generalmente no | WhatsApp/WeChat suficiente |
+| Viajero de 2+ semanas | ⚠️ Recomendado | Taxis, restaurantes, contacto con hospedajes |
+| Estudiante internacional | ✅ Imprescindible | Escuela, banco, alquiler |
+| Inmigrante reciente | ✅ Imprescindible | Trabajo, seguro social, banco |
+| Viajero de negocios | ✅ Imprescindible | Los clientes locales necesitan un número local |
+| Nómada digital / estancia larga | ✅ Imprescindible | Trabajo y vida diaria |
+| Transfronterizo EE.UU.-Canadá | ⚠️ Opcional | El número de EE.UU. puede funcionar parcialmente; los servicios canadienses requieren número canadiense |
 
 ### Formato del Número Canadiense para eSIM
 
-Los números móviles canadienses utilizan el **Plan de Numeración de América del Norte (NANP)**: **+1 (XXX) XXX-XXXX**
-- **+1**: código de país (compartido con EE. UU.)
+Los números móviles canadienses usan el **Plan de Numeración de Norteamérica (NANP)**: **+1 (XXX) XXX-XXXX**
+- **+1**: código de país (compartido con EE.UU.)
 - **Código de área (3 dígitos)**: 416 (Toronto), 604 (Vancouver), 514 (Montreal), 403 (Calgary), 613 (Ottawa)
 - **Número local (7 dígitos)**
 
-Cuando obtienes un número eSIM canadiense, recibes un número de 10 dígitos (excluyendo +1), exactamente como los números locales canadienses.
+Cuando obtienes un número de eSIM canadiense, recibes un número de 10 dígitos (excluyendo el +1), exactamente como los números locales canadienses.
 
 ### Escenarios Reales Sin un Número Canadiense
 
 **Escenario 1: Uber desde el aeropuerto**
-Aterrizas en Toronto Pearson. Quieres Uber. Uber requiere verificación por SMS. Una eSIM solo datos no puede recibirla. Esperas un taxi, que cuesta más.
+Aterrizas en Toronto Pearson. Quieres Uber. Uber requiere verificación por SMS. Una eSIM para Canadá de solo datos no puede recibirlo. Esperas un taxi, que cuesta más.
 
 **Escenario 2: Check-in de Airbnb**
-Tu anfitrión envía el código de la puerta por SMS. Sin un número canadiense, nunca lo recibes. Debes llamar por VoIP, que requiere datos y puede fallar.
+Tu anfitrión envía el código de la puerta por SMS. Sin un número canadiense, nunca lo recibes. Debes llamar por VoIP, lo que requiere datos y puede fallar.
 
 **Escenario 3: Apertura de cuenta bancaria**
 Intentas abrir una cuenta bancaria. El banco envía un código de verificación por SMS. Sin un número canadiense, no puedes completar el proceso en línea. Debes visitar una sucursal en persona.
 
 **Escenario 4: Solicitud de empleo**
-Solicitas un trabajo. El empleador quiere llamarte. Sin un número local, pierdes la oportunidad.
+Aplicas a un trabajo. El empleador quiere llamarte. Sin un número local, pierdes la oportunidad.
 
-**Conclusión:** Para estancias de más de 2 semanas, una eSIM con número a menudo se amortiza en pocos días.
+**Conclusión:** Para estancias de más de 2 semanas, una eSIM para Canadá con número suele pagarse por sí sola en cuestión de días.
 
 ### Costo Real de No Tener un Número
 
 | Escenario | Problema | Costo de la Solución Alternativa |
 |----------|---------|-------------------|
-| Viaje en Uber desde el aeropuerto | No se puede verificar SMS | El taxi cuesta más |
+| Uber desde el aeropuerto | No se puede verificar el SMS | El taxi cuesta más |
 | Check-in de Airbnb | No se puede recibir el código de la puerta | Llamar al anfitrión por VoIP (requiere datos, puede fallar) |
 | Apertura de cuenta bancaria | No se puede recibir la verificación | Visitar la sucursal en persona (costo de tiempo) |
-| Solicitud de empleo | Sin número local para devolución de llamada | Oportunidades perdidas |
+| Solicitud de empleo | Sin número local para devolver la llamada | Oportunidades perdidas |
 | Reserva de restaurante | Sin número local | No se puede reservar en línea |
 
-## eSIM Solo Datos vs con Número: Diferencia Crítica
+## eSIM de Solo Datos vs. eSIM con Número: La Diferencia Crítica
 
-### Características de eSIM Solo Datos vs con Número
+### Funciones: eSIM de Solo Datos vs. eSIM con Número
 
-| Característica | eSIM Solo Datos | eSIM con Número |
+| Función | eSIM de Solo Datos | eSIM con Número |
 |---------|----------------|------------------|
 | Recibir SMS bancarios | ❌ | ✅ |
 | Llamadas estándar (no VoIP) | ❌ | ✅ |
-| Registrarse en Uber/DoorDash | ❌ | ✅ |
+| Registro en Uber/DoorDash | ❌ | ✅ |
 | Contacto con anfitrión de Airbnb | ❌ | ✅ |
-| Número de devolución de llamada 911 | ⚠️ Sin número de devolución | ✅ Tiene número de devolución |
+| Número de devolución de llamada al 911 | ⚠️ Sin número de devolución | ✅ Tiene número de devolución |
 | Contacto para búsqueda de empleo | ❌ | ✅ |
 | Precio | Bajo (desde $2) | Medio-alto (desde $18.90) |
-| Cobertura de red | Normalmente multi-red | Normalmente única/dual |
-| Activación | Escaneo de QR | QR o EID push |
-| Mejor para | Turistas cortos | Estancias largas/negocios/estudios |
+| Cobertura de red | Usualmente multi-red | Usualmente única/doble |
+| Activación | Escaneo de QR | QR o push de EID |
+| Ideal para | Turistas de corto plazo | Estancias largas/negocios/estudios |
 
-### Comparación de Precios de eSIM: Solo Datos vs con Número
+### Comparación de Precios de eSIM: Solo Datos vs. Con Número
 
 | Tipo | Proveedor | Precio Más Bajo | ¿Número? |
 |------|----------|--------------|---------|
-| Solo datos básico | Jetpac | **$2/1GB/4 días** | ❌ |
-| Solo datos completo | Ubigi | $5/1GB/7 días | ❌ |
-| Con número de viaje | ByteSIM | **Desde $18.90** | ✅ |
-| Con número a largo plazo | CanadianSIM | CA$40/95GB/30 días | ✅ |
-| Con número local | Koodo | CA$19/30 días | ✅ |
+| Solo datos, entrada | Jetpac | **$2/1GB/4 días** | ❌ |
+| Solo datos, integral | Ubigi | $5/1GB/7 días | ❌ |
+| Con número, viaje | ByteSIM | **Desde $18.90** | ✅ |
+| Con número, largo plazo | CanadianSIM | CA$40/95GB/30 días | ✅ |
+| Con número, local | Koodo | CA$19/30 días | ✅ |
 
-**Conclusión clave:** Las eSIM con número comienzan en $18.90+, las de solo datos en $2+. La prima paga la asignación del número, el acceso a la red de voz/SMS y el cumplimiento normativo. Para el análisis de costo por GB, consulta nuestra [Base de datos de planes eSIM de Canadá](/blog/canada-esim-comparison-2026/).
+**Idea clave:** Las eSIM con número empiezan en $18.90+, las de solo datos en $2+. La prima paga por la asignación del número, el acceso a la red de voz/SMS y el cumplimiento regulatorio. Para un análisis de costo por GB, consulta nuestra [base de datos de planes eSIM para Canadá](/blog/canada-esim-comparison-2026/).
 
 ### Por Qué las eSIM con Número Cuestan Más
 
-La diferencia de precio no es arbitraria. Esto es por lo que estás pagando:
+La diferencia de precio no es arbitraria. Esto es lo que estás pagando:
 
-- **Asignación de número:** Un número canadiense real debe asignarse desde el grupo de un operador.
-- **Acceso a red de voz y SMS:** Las llamadas estándar y los SMS requieren interconexión con operadores canadienses.
-- **Cumplimiento normativo:** Reglas de la CRTC, soporte para servicios de emergencia (911) y requisitos de portabilidad de números.
+- **Asignación de número:** Un número canadiense real debe asignarse del pool de una operadora.
+- **Acceso a la red de voz y SMS:** Las llamadas y SMS estándar requieren interconexión con las operadoras canadienses.
+- **Cumplimiento regulatorio:** Reglas del CRTC, soporte de servicios de emergencia (911) y requisitos de portabilidad numérica.
 - **Señalización:** Señalización de red para establecimiento de llamadas, entrega de SMS y roaming.
-- **Soporte al cliente:** Las eSIM con número a menudo requieren más soporte para activación y solución de problemas.
+- **Soporte al cliente:** Las eSIM con número suelen requerir más soporte para activación y solución de problemas.
 
-**Por lo que NO estás pagando:** Los datos en sí. Un plan con número de $18.90 y un plan solo datos de $2 pueden usar la misma cantidad de datos. La diferencia es el número. Si estás indeciso entre los dos, los [planes eSIM de Canadá](/canada-esim/) de Roami comienzan en **$1.99** para que puedas probar el servicio solo datos antes de pagar por un número.
+**Lo que NO estás pagando:** Los datos en sí. Un plan con número de $18.90 y un plan de solo datos de $2 pueden usar la misma cantidad de datos. La diferencia es el número. Si estás indeciso entre los dos, los [planes de eSIM para Canadá](/canada-esim/) de Roami empiezan en **$1.99** para que puedas probar el servicio de solo datos antes de pagar por un número.
 
 ## Proveedores de eSIM con Números Canadienses
 
-Esta sección compara proveedores que ofrecen **números canadienses reales o +1**. Para detalles completos de planes, consulta nuestra [Comparación de proveedores eSIM de Canadá](/blog/canada-esim-comparison-2026/). Esta sección se centra en características específicas del número.
+Esta sección compara proveedores que ofrecen **números canadienses o +1 reales**. Para detalles completos de planes, consulta nuestra [comparación de proveedores de eSIM para Canadá](/blog/canada-esim-comparison-2026/). Esta sección se enfoca en las funciones específicas del número.
 
-| Proveedor | Tipo de Número | Precio Inicial | Red | Llamadas | SMS | Mejor Para |
+| Proveedor | Tipo de Número | Precio Inicial | Red | Llamadas | SMS | Ideal Para |
 |----------|-------------|----------------|---------|-------|-----|----------|
-| **CanadianSIM** | Canadiense +1 | CA$40 / 95GB / 30 días | Rogers/Fido/Chatr | Ilimitadas Canadá | Ilimitados | Estancias largas, estudiantes, inmigrantes |
-| **ByteSIM** | Canadiense +1 | $18.90 USD | TELUS 5G | Ilimitadas locales + 30+ países | Ilimitados | Viajeros a medio plazo, negocios |
-| **Saily** | EE. UU. +1 | $0.84/mes + plan | Multi-red | VoIP | Limitados | Privacidad, transfronterizo EE. UU.-Canadá |
-| **Airalo** | Canadiense +1 add-on | Desde $8 / 3 días | Bell (LTE) | Add-on | Add-on | Flexible a corto plazo |
-| **Holafly** | Canadiense/EE. UU./Reino Unido (algunos planes) | Desde ~$28.90 / 7 días | Bell+Telus+SaskTel | VoIP | Limitados | Datos ilimitados + número |
-| **PhoneBox** | Canadiense +1 | CA$25 / 5GB / mes | Telus | Ilimitadas Canadá | Ilimitados | Grandes datos, estancias largas |
-| **Koodo / Lucky / Chatr** | Canadiense +1 | Desde CA$19 / 30 días | Telus / Bell / Rogers | Ilimitadas Canadá | Ilimitados | Ya en Canadá, visita a tienda |
+| **CanadianSIM** | Canadiense +1 | CA$40 / 95GB / 30 días | Rogers/Fido/Chatr | Canadá ilimitado | Ilimitados | Estancias largas, estudiantes, inmigrantes |
+| **ByteSIM** | Canadiense +1 | $18.90 USD | TELUS 5G | Local ilimitado + 30+ países | Ilimitados | Viajeros mediano plazo, negocios |
+| **Saily** | US +1 | $0.84/mes + plan | Red múltiple | VoIP | Limitados | Privacidad, transfronterizo EE.UU.-Canadá |
+| **Airalo** | Complemento canadiense +1 | Desde $8 / 3 días | Bell (LTE) | Complemento | Complemento | Corto plazo flexible |
+| **Holafly** | Canadiense/EE.UU./Reino Unido (algunos planes) | Desde ~$36.90 / 7 días | Bell+Telus+SaskTel | VoIP | Limitados | Datos ilimitados + número |
+| **PhoneBox** | Canadiense +1 | CA$25 / 5GB / mes | Telus | Canadá ilimitado | Ilimitados | Grandes datos, estancias largas |
+| **Koodo / Lucky / Chatr** | Canadiense +1 | Desde CA$19 / 30 días | Telus / Bell / Rogers | Canadá ilimitado | Ilimitados | Ya en Canadá, visita a tienda |
 
-### CanadianSIM: Mejor para Estancias Largas y Nuevos Inmigrantes
+### CanadianSIM: Lo Mejor para Estancias Largas e Inmigrantes Recientes
 
-**Por qué destaca:** Número canadiense real +1, sin verificación de crédito, activación antes de la salida. Utiliza la red Rogers/Fido/Chatr, la cobertura rural más amplia. Para viajes por carretera, consulta nuestra [guía eSIM para viajes por carretera en Canadá](/blog/best-esim-canada-road-trip-guide/).
+**Por qué destaca:** Número canadiense +1 real, sin verificación de crédito, activación antes de salir. Usa la red Rogers/Fido/Chatr, la mayor cobertura rural. ¿Planeas un viaje de varios días en auto? Nuestra [guía de eSIM para road trips en Canadá](/blog/best-esim-canada-road-trip-guide/) presupuesta los datos ruta por ruta.
 
 **Planes clave (CAD):**
 
 | Plan | Datos | Validez | Precio | Número | Llamadas | SMS |
 |------|------|----------|-------|--------|-------|-----|
-| Chatr prepago | 95GB (4G) | 30 días | **CA$40** | ✅ | Ilimitadas Canadá | Ilimitados |
-| Chatr prepago | 150GB (4G) | 90 días | **CA$75** | ✅ | Ilimitadas Canadá | Ilimitados |
-| Rogers postpago | 100GB (5G, hasta 250Mbps) | Mensual | **CA$40/mes** | ✅ | Ilimitadas Canadá | Ilimitados |
-| Fido postpago | 50GB (5G) | Mensual | **CA$30/mes** | ✅ | Ilimitadas Canadá | Ilimitados |
+| Chatr prepagado | 95GB (4G) | 30 días | **CA$40** | ✅ | Canadá ilimitado | Ilimitados |
+| Chatr prepagado | 150GB (4G) | 90 días | **CA$75** | ✅ | Canadá ilimitado | Ilimitados |
+| Rogers pospago | 100GB (5G, hasta 250Mbps) | Mensual | **CA$40/mes** | ✅ | Canadá ilimitado | Ilimitados |
+| Fido pospago | 50GB (5G) | Mensual | **CA$30/mes** | ✅ | Canadá ilimitado | Ilimitados |
 
 **Pros:**
-- ✅ Número canadiense real +1
+- ✅ Número canadiense +1 real
 - ✅ Sin contrato, sin verificación de crédito
-- ✅ Código QR por email; activar antes de la salida
-- ✅ 1,000 minutos internacionales (postpago)
-- ✅ Hotspot compatible
+- ✅ Código QR por email; activación antes de salir
+- ✅ 1,000 minutos internacionales (pospago)
+- ✅ Hotspot soportado
 
 **Contras:**
-- ❌ El prepago es solo 4G
-- ❌ Precios en CAD; más alto para viajes cortos
-- ❌ Mejor para estancias de 1+ mes
+- ❌ El prepagado es solo 4G
+- ❌ Precios en CAD; más caro para viajes cortos
+- ❌ Ideal para estancias de 1+ mes
 
-**Mejor para:** Estudiantes, nuevos inmigrantes, viajeros de negocios a largo plazo (1+ mes).
+**Ideal para:** Estudiantes, inmigrantes recientes, viajeros de negocios de larga estancia (1+ mes).
 
-### ByteSIM: Mejor para Viajeros a Medio Plazo y Negocios
+### ByteSIM: Lo Mejor para Viajeros de Mediano Plazo y Negocios
 
-**Por qué destaca:** Número canadiense real +1, TELUS 5G exclusivo, llamadas ilimitadas a 30+ países. EID push automático, sin necesidad de código QR.
+**Por qué destaca:** Número canadiense +1 real, TELUS 5G exclusivo, llamadas ilimitadas a 30+ países. Push automático de EID, sin necesidad de código QR.
 
 **Parámetros clave:**
 
 | Parámetro | Detalles |
 |-----------|---------|
 | Precio inicial | **$18.90 USD** |
-| Número | Real +1 canadiense |
-| Llamadas | Ilimitadas locales + 30+ países |
+| Número | Canadiense +1 real |
+| Llamadas | Local ilimitado + 30+ países |
 | SMS | Ilimitados |
-| Red | **TELUS Exclusive (5G)** |
+| Red | **TELUS Exclusivo (5G)** |
 | Enrutamiento IP | IP nativa local (baja latencia) |
-| Entrega | EID push automático |
+| Entrega | Push automático de EID |
 | Política de datos | Cuota fija de alta velocidad; se detiene al agotarse |
 
 **Pros:**
-- ✅ Número canadiense real +1
-- ✅ Llamadas ilimitadas locales y a 30+ países
+- ✅ Número canadiense +1 real
+- ✅ Llamadas locales y a 30+ países ilimitadas
 - ✅ TELUS 5G
 - ✅ Sin necesidad de código QR
 
 **Contras:**
-- ❌ Más caro que solo datos ($18.90 vs $2.90)
-- ❌ Sin búfer limitado después de que terminan los datos
+- ❌ Más caro que solo datos ($18.90 vs $2)
+- ❌ Sin búfer limitado tras agotarse los datos
 
-**Mejor para:** Viajeros de corto a medio plazo que necesitan un número, viajeros de negocios, usuarios que quieren llamadas a precio moderado.
+**Ideal para:** Viajeros de corto a mediano plazo que necesitan un número, viajeros de negocios, usuarios que quieren llamadas a precio moderado.
 
-### Saily: Mejor para Privacidad y Transfronterizo EE. UU.-Canadá
+### Saily: Lo Mejor para Privacidad y Transfronterizo EE.UU.-Canadá
 
-**Por qué destaca:** Creado por el equipo de NordVPN. Número US +1 opcional. Fuertes características de seguridad. Para planes transfronterizos, consulta nuestra [guía eSIM EE. UU. y Canadá](/blog/usa-and-canada-esim-guide/).
+**Por qué destaca:** Creada por el equipo de NordVPN. Número US +1 opcional. Fuertes funciones de seguridad. Para planes transfronterizos, consulta nuestra [guía de eSIM para EE.UU. y Canadá](/blog/usa-and-canada-esim-guide/).
 
 **Planes clave:**
 
 | Plan | Precio | Número |
 |------|-------|--------|
-| 1GB / 7 días | **$4.50** (con código) | US +1 opcional |
+| 1GB / 7 días | **$5.29** | US +1 opcional |
 | Ilimitado / 5 días | **$16.99** | US +1 opcional |
 | Ilimitado / 30 días | **$76.49** | US +1 opcional |
 
 **Función de número:** Número US +1 desde **$0.84/mes**, de larga duración, global.
 
 **Pros:**
-- ✅ Equipo NordVPN, alta seguridad
+- ✅ Equipo de NordVPN, alta seguridad
 - ✅ Número US +1 opcional
-- ✅ eSIM multi-viaje
-- ✅ Hasta 35% de descuento en planes de América del Norte
+- ✅ eSIM multiviaje
+- ✅ Hasta 35% de descuento en planes de Norteamérica
 
 **Contras:**
-- ❌ Número de EE. UU., no canadiense; los bancos/gobierno canadienses pueden no aceptarlo
+- ❌ Número de EE.UU., no canadiense; bancos/gobierno canadienses pueden no aceptarlo
 - ❌ Precio ilimitado más alto que Ubigi
 
-**Importante:** Los bancos, el gobierno y las escuelas canadienses generalmente requieren códigos de área canadienses. Si necesitas un número canadiense real (416, 604, 514), Saily puede no funcionar.
+**Importante:** Los bancos, el gobierno y las escuelas canadienses suelen requerir códigos de área canadienses. Si necesitas un número canadiense real (416, 604, 514), Saily puede no funcionar.
 
-**Mejor para:** Viajeros enfocados en privacidad, viajeros transfronterizos EE. UU.-Canadá, usuarios que ya tienen un número canadiense y necesitan datos suplementarios.
+**Ideal para:** Viajeros enfocados en la privacidad, viajeros transfronterizos EE.UU.-Canadá, usuarios que ya tienen un número canadiense y necesitan datos complementarios.
 
-### Airalo: Mejor para Add-On de Llamadas/SMS Flexibles
+### Airalo: Lo Mejor para Complementos Flexibles de Llamadas/SMS
 
-**Por qué destaca:** Plataforma eSIM global con add-on opcional de llamadas/SMS. Buena para viajes cortos donde solo necesitas un número ocasionalmente.
+**Por qué destaca:** Plataforma global de eSIM con complemento opcional de llamadas/SMS. Bueno para viajes cortos donde solo ocasionalmente necesitas un número.
 
 **Planes clave:**
 
@@ -341,26 +343,26 @@ Esta sección compara proveedores que ofrecen **números canadienses reales o +1
 | Ilimitado / 3 días | **$17** | ❌ |
 | Ilimitado / 30 días | **$75.50** | ❌ |
 
-**Add-on de llamadas/SMS:** Llamadas y SMS de Canadá desde **$8/3 días**.
+**Complemento de llamadas/SMS:** Llamadas y SMS a Canadá desde **$8/3 días**.
 
-**Red:** Bell (mayormente LTE).
+**Red:** Bell (principalmente LTE).
 
 **Pros:**
-- ✅ La plataforma eSIM más grande, excelente app
-- ✅ Add-on bajo demanda
-- ✅ Planes regionales de América del Norte
+- ✅ La mayor plataforma de eSIM, excelente app
+- ✅ Complemento bajo demanda
+- ✅ Planes regionales de Norteamérica
 - ✅ Soporte 24/7 por WhatsApp
 
 **Contras:**
-- ❌ Los planes base no tienen número
-- ❌ El add-on no es barato
-- ❌ Mayormente LTE, 5G limitado
+- ❌ Planes base sin número
+- ❌ El complemento no es barato
+- ❌ Principalmente LTE, 5G limitado
 
-**Mejor para:** Turistas a corto plazo que necesitan llamadas/SMS ocasionales, principiantes en eSIM, usuarios flexibles. Para la reputación real, consulta nuestra [guía de reputación en Reddit de eSIM de Canadá](/blog/best-canada-esim-reddit-guide/).
+**Ideal para:** Turistas de corto plazo que necesitan llamadas/SMS ocasionales, principiantes en eSIM, usuarios flexibles. Para reputación real, consulta nuestra [guía de reputación en Reddit de eSIM para Canadá](/blog/best-canada-esim-reddit-guide/).
 
-### Holafly: Mejor para Datos Ilimitados + Número
+### Holafly: Lo Mejor para Datos Ilimitados + Número
 
-**Por qué destaca:** Datos ilimitados verdaderamente sin limitación. Algunos planes Unlimited comprados después del 4 de noviembre de 2025 incluyen un número canadiense/estadounidense/británico. Cobertura de tres redes (Bell+Telus+SaskTel). Para detalles de cobertura, consulta nuestra [guía de cobertura de red eSIM de Canadá](/blog/canada-esim-coverage-guide/).
+**Por qué destaca:** Datos ilimitados verdaderamente sin limitación. Algunos planes Unlimited comprados después del 4 de noviembre de 2025 incluyen un número canadiense/de EE.UU./del Reino Unido. Cobertura de tres redes (Bell+Telus+SaskTel). Para detalles de cobertura, consulta nuestra [guía de cobertura de red de eSIM para Canadá](/blog/canada-esim-coverage-guide/).
 
 **Planes clave (todos ilimitados):**
 
@@ -368,7 +370,7 @@ Esta sección compara proveedores que ofrecen **números canadienses reales o +1
 |------|-------|------------------|
 | 3 días | **$20.90** | ⚠️ Depende de la fecha de compra |
 | 5 días | ~**$19** | ⚠️ Depende |
-| 7 días | ~**$28.90** | ⚠️ Depende |
+| 7 días | ~**$36.90** | ⚠️ Depende |
 | 15 días | ~**$50.50** | ⚠️ Depende |
 | 30 días | **$93.90** | ⚠️ Depende |
 
@@ -378,19 +380,19 @@ Esta sección compara proveedores que ofrecen **números canadienses reales o +1
 - ✅ Ilimitado verdaderamente sin limitación
 - ✅ Cobertura de tres redes
 - ✅ Algunos planes incluyen número
-- ✅ Recibir SMS y VoIP
+- ✅ Recibe SMS y VoIP
 
 **Contras:**
-- ❌ Número no en todos los planes
+- ❌ El número no está en todos los planes
 - ❌ Precio alto (30 días $93.90)
 - ❌ Hotspot limitado
 - ❌ Soporte por IA/tickets
 
-**Mejor para:** Usuarios con alto consumo de datos que necesitan ilimitado + número ocasional.
+**Ideal para:** Usuarios intensivos de datos que necesitan ilimitado + número ocasional.
 
-### PhoneBox: Mejor para Grandes Datos + Número Local
+### PhoneBox: Lo Mejor para Grandes Datos + Número Local
 
-**Por qué destaca:** Proveedor de eSIM local canadiense enfocado en grandes datos + número local. Red Telus.
+**Por qué destaca:** Proveedor local canadiense de eSIM enfocado en grandes datos + número local. Red Telus.
 
 **Planes clave (CAD):**
 
@@ -400,7 +402,7 @@ Esta sección compara proveedores que ofrecen **números canadienses reales o +1
 | Estándar | 30GB | Mensual | **CA$28** | ✅ |
 | Grande | 75GB | Mensual | **CA$30** | ✅ |
 | Extra Grande | 100GB | Mensual | **CA$35** | ✅ |
-| Insignia | 120GB | Mensual | **CA$50** | ✅ |
+| Tope de Gama | 120GB | Mensual | **CA$50** | ✅ |
 
 **Pros:**
 - ✅ Número local canadiense
@@ -409,25 +411,25 @@ Esta sección compara proveedores que ofrecen **números canadienses reales o +1
 
 **Contras:**
 - ❌ Precios en CAD; caro para viajes cortos
-- ❌ Mejor para estancias de 1+ mes
+- ❌ Ideal para estancias de 1+ mes
 
-**Mejor para:** Estudiantes, nuevos inmigrantes, viajeros de negocios a largo plazo, usuarios con alto consumo de datos.
+**Ideal para:** Estudiantes, inmigrantes recientes, viajeros de negocios de larga estancia, usuarios intensivos de datos.
 
-### eSIM Prepago de Operadores Locales: Koodo, Lucky Mobile, Chatr
+### eSIM Prepagada de Operadoras Locales: Koodo, Lucky Mobile, Chatr
 
-Si ya estás en Canadá, las eSIM prepago de operadores locales son formas confiables de obtener un número canadiense.
+Si ya estás en Canadá, las eSIM prepagadas de operadoras locales son formas confiables de obtener un número canadiense.
 
 | Marca | Red Matriz | Precio Inicial | Datos | Número | Llamadas | Tarifa eSIM |
 |-------|----------------|----------------|------|--------|-------|----------|
-| **Koodo** | Telus | CA$19/30 días | 4GB+ (5GB con Auto Top-Up) | ✅ | Ilimitadas Canadá | **CA$5** |
-| **Lucky Mobile** | Bell | CA$25/30 días | 25GB (con bono Auto Top-Up) | ✅ | Ilimitadas Canadá | **CA$10** (SIM física) |
-| **Chatr** | Rogers | CA$25/30 días | 4GB+1GB bono Auto-Pay | ✅ | Ilimitadas Canadá | **CA$25** (eSIM) |
+| **Koodo** | Telus | CA$19/30 días | 4GB+ (5GB con Auto Top-Up) | ✅ | Canadá ilimitado | **CA$5** |
+| **Lucky Mobile** | Bell | CA$25/30 días | 25GB (con bono Auto Top-Up) | ✅ | Canadá ilimitado | **CA$10** (SIM física) |
+| **Chatr** | Rogers | CA$25/30 días | 4GB+1GB bono Auto-Pay | ✅ | Canadá ilimitado | **CA$25** (eSIM) |
 
-**Koodo:** Planes CA$19–$35, llamadas ilimitadas en Canadá, SMS internacionales. Requiere dirección canadiense para tarjeta de pago.
+**Koodo:** Planes de CA$19–$35, llamadas ilimitadas a Canadá, SMS internacionales. Requiere dirección canadiense para la tarjeta de pago.
 
-**Lucky Mobile:** Plan CA$25 25GB, CA$29 35GB, CA$34 80GB. Llamadas ilimitadas en Canadá, SMS internacionales, hotspot. Velocidad completa hasta 150Mbps, limitada a 128Kbps después.
+**Lucky Mobile:** Plan de CA$25 con 25GB, CA$29 con 35GB, CA$34 con 80GB. Llamadas ilimitadas a Canadá, SMS internacionales, hotspot. Velocidad completa hasta 150Mbps, limitado a 128Kbps después.
 
-**Chatr:** Plan CA$25 4GB+1GB Auto-Pay. Red Rogers. Tarifa eSIM incluida.
+**Chatr:** Plan de CA$25 con 4GB+1GB Auto-Pay. Red Rogers. Tarifa eSIM incluida.
 
 **Pros:**
 - ✅ Número canadiense real
@@ -435,11 +437,11 @@ Si ya estás en Canadá, las eSIM prepago de operadores locales son formas confi
 - ✅ Sin contrato a largo plazo
 
 **Contras:**
-- ❌ Debe gestionarse después de la llegada
+- ❌ Debe gestionarse después de llegar
 - ❌ Algunos requieren dirección/tarjeta de crédito canadiense
 - ❌ Más complicado que las eSIM de viaje
 
-**Mejor para:** Personas de estancia larga que ya están en Canadá, usuarios a quienes no les importa visitar una tienda.
+**Ideal para:** Estancias largas de quienes ya están en Canadá, usuarios que no les importa ir a una tienda.
 
 ## SMS Bancarios con eSIM Canadiense
 
@@ -447,30 +449,30 @@ La verificación por SMS bancario es una de las principales razones por las que 
 
 ### Qué Proveedores de eSIM Funcionan con SMS Bancarios
 
-Según informes públicos de usuarios y documentación de proveedores, los números canadienses de **CanadianSIM**, **ByteSIM**, **Airalo add-on** y **Holafly** generalmente se reportan como compatibles con los principales bancos canadienses como RBC, TD, Scotiabank, BMO y CIBC.
+Según reportes públicos de usuarios y documentación de proveedores, los números canadienses de **CanadianSIM**, **ByteSIM**, el **complemento de Airalo** y **Holafly** generalmente se reportan como funcionales con los principales bancos canadienses como RBC, TD, Scotiabank, BMO y CIBC.
 
-**Los números de EE. UU.** (como el US +1 opcional de Saily) generalmente **no son aceptados** por los bancos canadienses, porque requieren un código de área canadiense.
+Los **números de EE.UU.** (como el US +1 opcional de Saily) generalmente **no son aceptados** por los bancos canadienses, porque requieren un código de área canadiense.
 
-**Los números basados en VoIP** (algunos planes de Holafly) pueden funcionar para algunos servicios pero son menos confiables para SMS bancarios. Confirma siempre con tu proveedor antes de depender de un número VoIP para verificación bancaria.
+Los **números basados en VoIP** (algunos planes de Holafly) pueden funcionar para algunos servicios pero son menos confiables para SMS bancarios. Confirma siempre con tu proveedor antes de depender de un número VoIP para verificación bancaria.
 
 ### Qué Probar Después de la Activación de la eSIM
 
-Una vez que tu eSIM con número esté activa, realiza estas pruebas. La [eSIM de Canadá](/canada-esim/) de Roami incluye **soporte humano 24/7** si alguna falla.
+Una vez que tu eSIM para Canadá con número esté activa, ejecuta estas pruebas. La [eSIM para Canadá](/canada-esim/) de Roami incluye **soporte humano 24/7** si alguna falla.
 
 1. **Recibir SMS:** Pide a un amigo o familiar que te envíe un SMS. Confirma que llega.
-2. **Llamada local:** Llama a un número local (recepción del hotel, amigo). Confirma audio bidireccional.
-3. **Llamada internacional (si está incluida):** Si tu plan incluye minutos internacionales (CanadianSIM 1,000 min, ByteSIM 30+ países), prueba una llamada para confirmar calidad y facturación.
+2. **Llamada local:** Llama a un número local (recepción de un hotel, un amigo). Confirma audio bidireccional.
+3. **Llamada internacional (si está incluida):** Si tu plan incluye minutos internacionales (CanadianSIM 1,000 min, ByteSIM 30+ países), haz una llamada de prueba para confirmar calidad y facturación.
 
 **Si una prueba falla:**
-- Confirma que la línea eSIM esté habilitada.
-- Confirma que la línea de voz predeterminada esté configurada en la eSIM.
+- Confirma que la línea eSIM está habilitada.
+- Confirma que la línea de voz predeterminada es la eSIM.
 - Selecciona manualmente una red (Bell/Rogers/Telus).
 - Reinicia tu teléfono.
 - Contacta al soporte del proveedor.
 
 ### Tabla de Resultados de Pruebas de SMS Bancarios
 
-| Banco | CanadianSIM | ByteSIM | Airalo Add-On | Holafly | Saily (EE. UU.) |
+| Banco | CanadianSIM | ByteSIM | Complemento Airalo | Holafly | Saily (EE.UU.) |
 |------|-------------|---------|---------------|---------|------------|
 | **RBC** | ✅ | ✅ | ✅ | ✅ | ❌ |
 | **TD** | ✅ | ✅ | ✅ | ✅ | ❌ |
@@ -482,57 +484,57 @@ Una vez que tu eSIM con número esté activa, realiza estas pruebas. La [eSIM de
 
 ## Registro en Uber, DoorDash y Lyft con eSIM
 
-Las apps canadienses de transporte y entrega generalmente requieren un número canadiense para verificación por SMS.
+Las apps canadienses de transporte y entrega generalmente requieren un número canadiense para la verificación por SMS.
 
 | Proveedor | Uber Canadá | DoorDash | Lyft |
 |----------|-------------|----------|------|
 | **CanadianSIM** | ✅ | ✅ | ✅ |
 | **ByteSIM** | ✅ | ✅ | ✅ |
-| **Airalo Add-On** | ✅ | ✅ | ✅ |
+| **Complemento Airalo** | ✅ | ✅ | ✅ |
 | **Holafly** | ✅ | ✅ | ✅ |
-| **Saily (EE. UU.)** | ❌ | ❌ | ❌ |
+| **Saily (EE.UU.)** | ❌ | ❌ | ❌ |
 
-**Hallazgo clave:** Se requieren números canadienses para las apps canadienses de transporte y entrega. Los números de EE. UU. generalmente son rechazados.
+**Hallazgo clave:** Los números canadienses son necesarios para las apps canadienses de transporte y entrega. Los números de EE.UU. generalmente son rechazados.
 
-**Por qué esto importa:** Si planeas usar Uber, DoorDash o Lyft en Canadá, necesitas un número canadiense. Un número de EE. UU. no funcionará. Esta es una de las razones más comunes por las que los viajeros compran una eSIM con número.
+**Por qué importa:** Si planeas usar Uber, DoorDash o Lyft en Canadá, necesitas un número canadiense. Un número de EE.UU. no funcionará. Esta es una de las razones más comunes por las que los viajeros compran una eSIM para Canadá con número.
 
-## Reglas de la CRTC sobre Tarifas de Activación de eSIM
+## Reglas del CRTC Sobre Tarifas de Activación de eSIM
 
-El 12 de junio de 2026, entraron en vigor las reglas de la CRTC que **prohíben a los operadores cobrar tarifas por activar, modificar o cancelar planes móviles**. Las tarifas de SIM/eSIM "pueden considerarse tarifas de activación" y están prohibidas.
+El 12 de junio de 2026 entraron en vigencia reglas del CRTC que **prohíben a las operadoras cobrar tarifas por activar, modificar o cancelar planes móviles**. Las tarifas de SIM/eSIM "pueden considerarse tarifas de activación" y están prohibidas.
 
-**Qué significa esto:** Si obtienes una eSIM con número de un operador canadiense (Bell, Rogers, Telus), **no** deberían cobrarte tarifas adicionales de activación de eSIM o SIM. Telus intentó una "tarifa de compra de SIM" de $15 el 11 de junio de 2026; la CRTC envió una carta formal diciendo que podría violar las reglas. Puedes rechazar cualquier "tarifa de activación" relacionada con eSIM. Consulta el [Código Inalámbrico de la CRTC](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
+**Lo que esto significa:** Si obtienes una eSIM con número de una operadora canadiense (Bell, Rogers, Telus), no se te debería cobrar tarifas extra de activación de eSIM o de SIM. Telus intentó una "tarifa de compra de SIM" de $15 el 11 de junio de 2026; el CRTC envió una carta formal indicando que podría violar las reglas. Puedes rechazar cualquier "tarifa de activación" relacionada con la eSIM. Consulta el [Código Inalámbrico del CRTC](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
 
-**Nota:** Los precios de los proveedores de eSIM de viaje (Airalo, Ubigi, etc.) son precios de producto, no tarifas de activación de operadores. Esta regla te protege cuando obtienes un número de un operador canadiense.
+**Nota:** Los precios de los proveedores de eSIM de viaje (Airalo, Ubigi, etc.) son precios de producto, no tarifas de activación de operadoras. Esta regla te protege al obtener un número de una operadora canadiense.
 
 **Qué hacer si te cobran una tarifa:**
-1. Pide al operador que explique la tarifa.
-2. Haz referencia al fallo de la CRTC.
+1. Pide a la operadora que explique la tarifa.
+2. Menciona el fallo del CRTC.
 3. Si se niegan a eliminarla, presenta una queja ante el [CCTS](https://www.ccts-cprst.ca/).
 
-## Cómo Elegir la eSIM con Número Correcta
+## Cómo Elegir la eSIM con Número Adecuada
 
 ### Matriz de Decisión Rápida para eSIM con Número
 
-| Tu Situación | Mejor Elección | Alternativa | Por Qué |
+| Tu Situación | Mejor Opción | Alternativa | Por Qué |
 |----------------|-------------|-------------|-----|
-| Viaje corto (1–2 semanas), número ocasional | **ByteSIM** | Airalo add-on | Precio moderado, número + llamadas |
+| Viaje corto (1–2 semanas), número ocasional | **ByteSIM** | Complemento Airalo | Precio moderado, número + llamadas |
 | Estancia larga (1+ mes), grandes datos | **CanadianSIM** | PhoneBox | Grandes datos + número estable |
-| Estudiante / nuevo inmigrante | **CanadianSIM** | Koodo/Lucky | Sin verificación de crédito, activación antes de la salida |
-| Privacidad y seguridad | **Saily** | — | Equipo NordVPN, opción de número de EE. UU. |
+| Estudiante / inmigrante reciente | **CanadianSIM** | Koodo/Lucky | Sin verificación de crédito, activación antes de salir |
+| Privacidad y seguridad | **Saily** | — | Equipo de NordVPN, opción de número de EE.UU. |
 | Datos ilimitados + número | **Holafly** (Unlimited) | — | Datos ilimitados + algunos números |
-| Ya en Canadá, visita a tienda OK | **Koodo/Lucky/Chatr** | — | Precio local más bajo |
-| Transfronterizo EE. UU.-Canadá | **Saily** (número de EE. UU.) | Airalo América del Norte | Número de EE. UU. para algunos servicios |
+| Ya en Canadá, visita a tienda posible | **Koodo/Lucky/Chatr** | — | El precio local más bajo |
+| Transfronterizo EE.UU.-Canadá | **Saily** (número de EE.UU.) | Norteamérica de Airalo | Número de EE.UU. para algunos servicios |
 
 ### Elegir por Duración del Viaje
 
 **3–7 días:**
 - Sin número: Jetpac $2, Ubigi $5
-- Necesita número: **ByteSIM** ($18.90) o Airalo add-on ($8/3 días)
+- Con número: **ByteSIM** ($18.90) o complemento de Airalo ($8/3 días)
 - Presupuesto: $2–$20
 
 **1–2 semanas:**
-- Sin número: Ubigi $29/7 días ilimitado
-- Necesita número: **ByteSIM** o **Holafly** Unlimited
+- Sin número: Ubigi $25/7 días ilimitados
+- Con número: **ByteSIM** o **Holafly** Unlimited
 - Presupuesto: $20–$50
 
 **1+ mes:**
@@ -542,24 +544,24 @@ El 12 de junio de 2026, entraron en vigor las reglas de la CRTC que **prohíben 
 
 ### Elegir por Escenario
 
-**Estudiante / nuevo inmigrante:**
-- Necesita número canadiense para universidad, banco, alquiler, trabajo
-- ✅ **CanadianSIM** — sin verificación de crédito, activación antes de la salida
-- Alternativa: Koodo o Lucky después de la llegada
+**Estudiante / inmigrante reciente:**
+- Necesitas número canadiense para escuela, banco, alquiler, trabajo
+- ✅ **CanadianSIM** — sin verificación de crédito, activación antes de salir
+- Alternativa: Koodo o Lucky después de llegar
 - Presupuesto: CA$40/mes
-- Compatibilidad de dispositivos: consulta nuestra [guía de teléfonos compatibles con eSIM](/blog/esim-compatible-phones-canada-guide/)
+- Compatibilidad del dispositivo: consulta nuestro [verificador de compatibilidad de dispositivos](/compatibility/)
 
 **Viaje de negocios:**
-- Necesita número local para clientes, posiblemente llamadas internacionales
+- Necesitas número local para clientes, posiblemente llamadas internacionales
 - ✅ **CanadianSIM** (1,000 minutos internacionales) o **ByteSIM** (30+ países)
 - Presupuesto: $18.90–$40
 
-**Viaje en profundidad de 2 semanas:**
-- Uber, códigos de DoorDash, contacto con anfitrión de Airbnb
+**Viaje a fondo de 2 semanas:**
+- Códigos de Uber y DoorDash, contacto con anfitrión de Airbnb
 - ✅ **ByteSIM** desde $18.90
-- Alternativa: **Airalo** + add-on ($6.50 + $8)
+- Alternativa: **Airalo** + complemento ($7 + $8)
 - Presupuesto: $15–$30
-- Viaje por carretera: consulta nuestra [guía eSIM para viajes por carretera en Canadá](/blog/best-esim-canada-road-trip-guide/)
+- Road trip: consulta nuestra [guía de eSIM para road trips en Canadá](/blog/best-esim-canada-road-trip-guide/)
 
 **Grandes datos + número:**
 - Trabajo remoto, video, streaming + número ocasional
@@ -567,45 +569,45 @@ El 12 de junio de 2026, entraron en vigor las reglas de la CRTC que **prohíben 
 - Alternativa: **CanadianSIM** 95GB/CA$40
 - Presupuesto: $30–$95
 
-**Transfronterizo EE. UU.-Canadá:**
-- Necesita número +1 de EE. UU./Canadá
+**Transfronterizo EE.UU.-Canadá:**
+- Necesitas número +1 de EE.UU./Canadá
 - ✅ **Saily** (US +1, desde $0.84/mes)
-- Alternativa: **Airalo América del Norte**
-- Nota: el número de EE. UU. puede no funcionar para servicios locales canadienses
-- Consulta nuestra [guía eSIM EE. UU. y Canadá](/blog/usa-and-canada-esim-guide/)
+- Alternativa: **Norteamérica de Airalo**
+- Nota: El número de EE.UU. puede no funcionar para servicios locales canadienses
+- Consulta nuestra [guía de eSIM para EE.UU. y Canadá](/blog/usa-and-canada-esim-guide/)
 
 ## Activación, Pruebas y Errores Comunes de eSIM
 
-### Instalación de eSIM vs Activación
+### Instalación vs. Activación de eSIM
 
-**Instalación:** Descarga el perfil eSIM. Requiere Wi-Fi. Se puede hacer antes de la salida. La eSIM aparece en la lista celular pero **no se conecta, no usa datos ni inicia el reloj de validez**.
+**Instalación:** Descarga el perfil de la eSIM. Requiere Wi-Fi. Se puede hacer antes de salir. La eSIM aparece en la lista celular pero **no se conecta, no usa datos ni inicia el reloj de validez**.
 
-**Activación:** Se activa cuando la eSIM se conecta por primera vez a la red canadiense. Comienza la validez, se cuentan los datos, **el número se activa**.
+**Activación:** Se dispara cuando tu eSIM para Canadá se conecta por primera vez a la red canadiense. Comienza la validez, cuentan los datos, **el número se activa**.
 
-**Para eSIM con número:** La asignación del número generalmente ocurre en la activación. Puede que no veas el número hasta que aterrices y actives. Si necesitas el número con antelación (por ejemplo, para formularios de entrada), contacta al soporte del proveedor.
+**Para eSIM con número:** La asignación del número suele ocurrir en la activación. Puede que no veas el número hasta que aterrices y actives. Si necesitas el número por adelantado (p. ej., para formularios de entrada), contacta al soporte del proveedor.
 
-Para pasos completos de instalación, consulta nuestra [guía de instalación de eSIM](/blog/how-to-get-esim-in-canada-guide/).
+Para los pasos completos de instalación, consulta nuestra [guía de instalación de eSIM](/blog/how-to-get-esim-in-canada-guide/).
 
-### Probar tu Número eSIM Canadiense
+### Prueba Tu Número de eSIM Canadiense
 
-Después de activar una eSIM con número, realiza tres pruebas:
+Después de activar una eSIM para Canadá con número, realiza tres pruebas:
 
 **Prueba 1: Llamada local**
-- Llama a un número local (recepción del hotel, amigo)
+- Llama a un número local (recepción de un hotel, un amigo)
 - Confirma audio bidireccional
 
 **Prueba 2: Recibir SMS**
 - Pide a un amigo/familiar que envíe un SMS
 - Confirma la recepción
-- **La más crítica**: los códigos bancarios y los registros de apps dependen de los SMS
+- **La más crítica**: los códigos bancarios y registros en apps dependen del SMS
 
 **Prueba 3: Llamada internacional**
-- Si el plan incluye internacional (CanadianSIM 1,000 min, ByteSIM 30+ países), prueba una llamada
+- Si el plan incluye internacional (CanadianSIM 1,000 min, ByteSIM 30+ países), haz una llamada de prueba
 - Confirma calidad y facturación
 
 **Si las pruebas fallan:**
-1. Confirma que la línea eSIM esté habilitada y el roaming de datos activado
-2. Confirma que la línea de voz predeterminada esté configurada en la eSIM
+1. Confirma que la línea eSIM está habilitada y el roaming de datos activado
+2. Confirma que la línea de voz predeterminada es la eSIM
 3. Selecciona manualmente la red (Bell/Rogers/Telus)
 4. Reinicia el teléfono
 5. Contacta al soporte del proveedor
@@ -614,111 +616,125 @@ Después de activar una eSIM con número, realiza tres pruebas:
 
 | Configuración | Recomendado | Por Qué |
 |---------|-------------|-----|
-| Línea de datos predeterminada | eSIM de Canadá | Todos los datos por eSIM |
-| Línea de voz predeterminada | eSIM de Canadá o número original | Depende del número principal de llamadas |
-| Roaming de datos en número original | Desactivado | Evitar cargos inesperados |
-| Permitir cambio de datos celulares | Desactivado | Evitar que los datos cambien al número original |
+| Línea de datos predeterminada | eSIM Canadá | Todos los datos vía eSIM |
+| Línea de voz predeterminada | eSIM Canadá o número original | Depende del número principal de llamadas |
+| Roaming de datos en el número original | Desactivado | Evitar cargos inesperados |
+| Permitir cambio de datos celulares | Desactivado | Prevenir que los datos cambien al número original |
 
-**Si usas principalmente el número canadiense para llamadas:** configura la línea de voz en la eSIM, el número original solo para SMS.
-**Si usas principalmente el número original para llamadas:** configura la línea de voz en el original, el número canadiense para SMS locales y registros.
+**Si usas principalmente el número canadiense para llamadas:** pon la línea de voz en la eSIM y el número original solo para SMS.
+**Si usas principalmente el número original para llamadas:** pon la línea de voz en el original y el número canadiense para SMS locales y registros.
 
-Para la configuración completa dual-SIM, consulta nuestra [guía de configuración dual-SIM](/blog/how-to-get-esim-in-canada-guide/).
+Para la configuración dual-SIM completa, consulta nuestro [paso a paso de configuración dual-SIM](/blog/how-to-get-esim-in-canada-guide/).
 
 ### Errores Comunes de eSIM a Evitar
 
 | Error | Consecuencia | Solución |
 |---------|-------------|----------|
-| Comprar solo datos cuando necesitas un número | No se pueden recibir SMS bancarios, verificación de Uber | Comprar eSIM con número |
-| Comprar número de EE. UU. para servicios canadienses | Los bancos rechazan, Uber rechaza | Comprar número canadiense |
-| No probar los SMS antes de depender de ellos | La verificación bancaria falla en el momento crítico | Probar inmediatamente después de la activación |
-| No configurar la línea de voz predeterminada | Las llamadas pasan por el número equivocado | Configurar la línea de voz en la eSIM canadiense |
-| Olvidar desactivar el roaming de datos en la SIM de casa | Cargos inesperados | Desactivar el roaming en la SIM original |
-| Asumir que "número" significa SMS estándar | Los números solo VoIP pueden no recibir SMS bancarios | Confirmar soporte de SMS estándar antes de comprar |
+| Comprar solo datos cuando necesitas un número | No se pueden recibir SMS bancarios ni verificación de Uber | Compra eSIM con número |
+| Comprar número de EE.UU. para servicios canadienses | Los bancos rechazan, Uber rechaza | Compra número canadiense |
+| No probar el SMS antes de depender de él | La verificación bancaria falla en un momento crítico | Prueba inmediatamente después de la activación |
+| No configurar la línea de voz predeterminada | Las llamadas salen por el número equivocado | Pon la línea de voz en la eSIM canadiense |
+| Olvidar desactivar el roaming de datos en la SIM local | Cargos inesperados | Desactiva el roaming en la SIM original |
+| Asumir que "número" significa SMS estándar | Los números solo-VoIP pueden no recibir SMS bancarios | Confirma el soporte de SMS estándar antes de comprar |
 
-## Preguntas Frecuentes sobre eSIM de Canadá con Número de Teléfono
+## Preguntas Frecuentes Sobre eSIM para Canadá con Número de Teléfono
 
-### ¿Cuál es la diferencia entre eSIM con número y solo datos?
+### ¿Cuál es la diferencia entre una eSIM con número y una de solo datos?
 
-Solo datos: solo internet; sin llamadas/SMS estándar. Con número: canadiense real +1; puede recibir SMS bancarios, hacer llamadas, registrar apps locales.
+Solo datos: únicamente internet; sin llamadas/SMS estándar. Con número: canadiense +1 real; puede recibir SMS bancarios, hacer llamadas y registrar apps locales.
 
-### ¿Qué eSIM de Canadá incluye un número de teléfono?
+### ¿Qué eSIM para Canadá incluye un número de teléfono?
 
 - **CanadianSIM:** todos los planes
 - **ByteSIM:** Premium Native Plan
-- **Holafly:** algunos planes Unlimited (después del 4 de noviembre de 2025)
-- **Airalo:** add-on
+- **Holafly:** algunos planes Unlimited (después del 4 de nov de 2025)
+- **Airalo:** complemento
 - **PhoneBox:** todos los planes
 - **Saily:** solo US +1 (no canadiense)
 
-### ¿Puedo activar antes de la salida?
+### ¿Puedo activar antes de salir?
 
-Sí, la mayoría de las eSIM de viaje con número (CanadianSIM, ByteSIM, Holafly, Airalo add-on) se pueden instalar antes de la salida y se activan al aterrizar. Los operadores locales prepago (Koodo, Lucky, Chatr) generalmente requieren la llegada.
+Sí, la mayoría de las eSIM de viaje con número (CanadianSIM, ByteSIM, Holafly, complemento de Airalo) pueden instalarse antes de salir y activarse al aterrizar. El prepagado de operadoras locales (Koodo, Lucky, Chatr) generalmente requiere haber llegado.
 
-### ¿Puedo recibir códigos de verificación bancaria?
+**Vale la pena saber:** Canadá no requiere registro de identificación gubernamental para SIMs prepagadas, a diferencia de Alemania, Japón o Indonesia. Puedes entrar a una tienda de conveniencia, comprar un vale prepagado de Lucky Mobile o Chatr en efectivo y activarlo sin mostrar pasaporte. Esto hace que una SIM prepagada local sea una alternativa viable el mismo día si tu eSIM falla al llegar, aunque sacrificas la configuración previa que ofrecen las eSIM de viaje.
 
-Sí, si el plan incluye SMS estándar (CanadianSIM, ByteSIM incluyen SMS ilimitados), el banco admite números canadienses y la eSIM está activa. Confirma el soporte de SMS antes de comprar; algunos "números" son solo VoIP.
+### ¿Puedo recibir códigos de verificación bancarios?
 
-### ¿Se puede usar el número de EE. UU. de Saily en Canadá?
+Sí, si el plan incluye SMS estándar (CanadianSIM y ByteSIM incluyen SMS ilimitados), el banco soporta números canadienses y la eSIM está activa. Confirma el soporte de SMS antes de comprar; algunos "números" son solo VoIP.
 
-Número US +1. Funciona para WhatsApp y SMS/llamadas de EE. UU. Los bancos/gobierno canadienses a menudo requieren código de área canadiense. Uber Canadá puede no aceptar número de EE. UU. Para servicios locales canadienses, elige CanadianSIM o ByteSIM.
+### ¿Se puede usar el número de EE.UU. de Saily en Canadá?
 
-### ¿Las eSIM con número admiten 5G?
+Número US +1. Funciona para WhatsApp y SMS/llamadas de EE.UU. Los bancos/gobierno canadienses suelen requerir código de área canadiense. Uber Canadá puede no aceptar el número de EE.UU. Para servicios locales canadienses, elige CanadianSIM o ByteSIM.
+
+### ¿Las eSIM con número soportan 5G?
 
 | Proveedor | 5G |
 |----------|-----|
 | ByteSIM (con número) | ✅ TELUS 5G |
-| CanadianSIM prepago | ❌ 4G (postpago 5G opcional) |
+| CanadianSIM prepagado | ❌ 4G (pospago 5G opcional) |
 | Holafly Unlimited | ✅ |
 | Saily | ✅ |
-| Airalo | ⚠️ Mayormente LTE |
+| Airalo | ⚠️ Principalmente LTE |
 | Koodo/Lucky/Chatr | ⚠️ Depende del plan |
 
 ### ¿Necesito un número canadiense para un viaje turístico corto?
 
-Normalmente no. WhatsApp, WeChat y FaceTime funcionan por datos. Sin embargo, si necesitas registrarte en Uber Canadá, recibir SMS bancarios o contactar a un anfitrión de Airbnb por teléfono, necesitas un número canadiense. Para viajes cortos, un Airalo add-on o ByteSIM pueden ser suficientes.
+Generalmente no. WhatsApp, WeChat y FaceTime funcionan sobre datos. Sin embargo, si necesitas registrarte en Uber Canadá, recibir SMS bancarios o contactar a un anfitrión de Airbnb por teléfono, necesitas un número canadiense. Para viajes cortos, un complemento de Airalo o ByteSIM puede ser suficiente.
 
 ### ¿Puedo usar una eSIM con número para autenticación de dos factores?
 
-Sí, si el número admite SMS estándar. CanadianSIM, ByteSIM y Airalo add-on admiten SMS estándar. Algunos números basados en VoIP pueden no funcionar con todos los servicios. Prueba antes de depender de ellos.
+Sí, si el número soporta SMS estándar. CanadianSIM, ByteSIM y el complemento de Airalo soportan SMS estándar. Algunos números basados en VoIP pueden no funcionar con todos los servicios. Prueba antes de depender de él.
 
-## Conclusión: eSIM de Canadá con Número de Teléfono
+### ¿Puedo mantener mi número actual y aun así usar una eSIM para Canadá?
 
-Si necesitas una eSIM de Canadá con número de teléfono depende de la duración de tu estancia y tus necesidades.
+Sí — esa es la configuración normal. Tu SIM local conserva su número para llamadas, mensajes y códigos de un solo uso mientras la eSIM para Canadá maneja los datos, así que no hay nada que "conservar" del lado de la eSIM. Solo deja tu línea principal activa para roaming de SMS; recibir textos en el extranjero suele ser gratis incluso cuando las llamadas no lo son.
+
+### ¿Las eSIM para Canadá soportan llamadas Wi-Fi, voz y texto?
+
+Las llamadas Wi-Fi dependen de la operadora que posee el número, no de la eSIM que lleva tus datos. Un número canadiense de una marca prepagada local o de un plan de viaje con número puede soportar voz y texto sobre la red celular; las eSIM de solo datos no soportan ninguna de las dos y enrutan todo a través de WhatsApp o FaceTime. Si la calidad de voz te importa, confirma el soporte de VoLTE y llamadas Wi-Fi con el proveedor antes de comprar; varía más entre los MVNO que entre las tres grandes redes.
+
+### ¿Puedo obtener un número canadiense nuevo en lugar de mantener el mío?
+
+Sí. Los planes con número como CanadianSIM, ByteSIM y PhoneBox asignan un número canadiense +1 nuevo en la activación, que es exactamente lo que recién llegados y visitantes de larga estancia necesitan para registros locales. Un número nuevo no recibirá códigos SMS enviados a tu número anterior, así que reenvía primero los servicios críticos.
+
+## Conclusión: eSIM para Canadá con Número de Teléfono
+
+Si necesitas una eSIM para Canadá con número de teléfono depende de la duración de tu estancia y tus necesidades.
 
 ### Guía de Decisión Rápida para eSIM con Número
 
-| Tu Situación | Mejor Elección | Por Qué |
+| Tu Situación | Mejor Opción | Por Qué |
 |----------------|-------------|-----|
 | Primera vez, necesitas número | **ByteSIM** | Precio moderado, número + llamadas |
 | Estancia larga, grandes datos | **CanadianSIM** | CA$40/95GB, mejor valor |
-| Estudiante / nuevo inmigrante | **CanadianSIM** | Sin verificación de crédito, activación antes de la salida |
+| Estudiante / inmigrante reciente | **CanadianSIM** | Sin verificación de crédito, activación antes de salir |
 | Datos ilimitados + número | **Holafly** Unlimited | Ilimitado + algunos números |
-| Llamadas/SMS ocasionales | **Airalo** + add-on | Flexible |
-| Privacidad | **Saily** | Equipo NordVPN, opción de número de EE. UU. |
-| Ya en Canadá | **Koodo/Lucky/Chatr** | Precio local más bajo |
+| Llamadas/SMS ocasionales | **Airalo** + complemento | Flexible |
+| Privacidad | **Saily** | Equipo de NordVPN, opción de número de EE.UU. |
+| Ya en Canadá | **Koodo/Lucky/Chatr** | El precio local más bajo |
 
 ### Tres Reglas para Elegir una eSIM con Número
 
-1. **Confirma las necesidades de número antes de la salida.** ¿Uber? ¿Airbnb? ¿Banco? Compra la eSIM con número con antelación.
-2. **eSIM con número ≠ solo datos + VoIP.** WhatsApp/WeChat no pueden reemplazar los SMS estándar. Los códigos bancarios requieren SMS estándar.
-3. **El precio refleja el costo.** $2 solo datos vs $18.90 con número: la diferencia es el número. No esperes que una eSIM de $2 proporcione un número canadiense.
+1. **Confirma tus necesidades de número antes de salir.** ¿Uber? ¿Airbnb? ¿Banco? Compra la eSIM con número por adelantado.
+2. **eSIM con número ≠ solo datos + VoIP.** WhatsApp/WeChat no pueden reemplazar el SMS estándar. Los códigos bancarios requieren SMS estándar.
+3. **El precio refleja el costo.** $2 de solo datos vs. $18.90 con número: la diferencia es el número. No esperes que una eSIM de $2 proporcione un número canadiense.
 
-### Lista de Verificación Antes de la Salida para eSIM con Número
+### Lista de Verificación Pre-Salida para eSIM con Número
 
-- ✅ Confirma que el teléfono admita eSIM (`*#06#` para EID)
-- ✅ Confirma que el teléfono esté desbloqueado del operador
-- ✅ Elige la eSIM con número según la duración del viaje y las necesidades
+- ✅ Confirma que tu teléfono soporta eSIM (`*#06#` para el EID)
+- ✅ Confirma que tu teléfono está liberado de operadora
+- ✅ Elige la eSIM con número según la duración del viaje y tus necesidades
 - ✅ Instala la eSIM en el Wi-Fi de casa
-- ✅ Guarda la confirmación del pedido y el contacto del servicio al cliente
-- ✅ Configura la línea de voz predeterminada en la eSIM canadiense
-- ✅ Desactiva el roaming de datos en la SIM de casa
-- ✅ Prueba los SMS después de la activación
-- ✅ Prueba una llamada local después de la activación
+- ✅ Guarda la confirmación del pedido y el contacto de atención al cliente
+- ✅ Pon la línea de voz predeterminada en la eSIM canadiense
+- ✅ Desactiva el roaming de datos en la SIM local
+- ✅ Prueba el SMS después de la activación
+- ✅ Prueba la llamada local después de la activación
 
-**¿No estás seguro de necesitar un número?** La mayoría de los viajeros se arreglan bien con solo datos. Si estás indeciso, comienza con una [prueba eSIM gratuita](/free-esim/) o un [plan eSIM de Canadá de Roami](/canada-esim/) desde **$1.99**, y añade un número más tarde solo si la banca o Uber lo exigen. Los nuevos usuarios obtienen **20% de descuento** con el código `web20`, más el **soporte humano 24/7** de Roami.
+**¿No estás seguro de necesitar un número?** La mayoría de los viajeros se las arregla bien con solo datos. Si estás indeciso, empieza con una [prueba gratuita de eSIM](/free-esim/) y añade un número después solo si la banca o Uber te obligan a ello.
 
 **Disponibilidad verificada en septiembre de 2026.** Los planes con número canadiense se agotan y cambian de precio con frecuencia; confirma antes de comprar.
 
-**La eSIM facilita la conectividad en Canadá. Elige la solución correcta, con número o solo datos, para un viaje sin problemas.** 📶🍁
+**La eSIM facilita la conectividad en Canadá. Elige la solución adecuada —con número o de solo datos— para un viaje sin contratiempos.** 📶🍁
 
-**Contacto:** Si detectas un error, contáctanos. Corregimos en un plazo de 48 horas.
+**Contacto:** Si detectas un error, contáctanos. Lo corregimos en 48 horas.

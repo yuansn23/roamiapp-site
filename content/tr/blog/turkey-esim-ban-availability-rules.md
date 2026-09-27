@@ -1,11 +1,11 @@
 ---
-title: "Türkiye eSIM Yasak mı? Neler Çalışıyor ve Neler Çalışmıyor"
-description: "Türkiye'nin BTK eSIM engelini, IMEI kayıt kurallarını ve hâlâ nelerin çalıştığını anlayın, ayrıca önceden yüklenmiş bir Roami eSIM'in neden bağlandığını öğrenin."
-keywords: ["türkiye esim yasak", "türkiye esim yasak mı", "türkiye esim btk kuralları", "türkiye esim imei kaydı", "türkiye esim kullanılabilirliği", "türkiye esim yasal mı", "türkiye esim engellenen sağlayıcılar"]
-date: 2026-09-19T00:00:00Z
-lastmod: 2026-09-19T00:00:00Z
+title: "Türkiye eSIM Yasağı Var mı? Kurallar ve Çözümler"
+description: "Türkiye'nin BTK eSIM engelini, IMEI kayıt kurallarını ve hâlâ neyin çalıştığını, ayrıca önceden yüklenmiş bir Roami eSIM'in neden bağlandığını anlayın."
+keywords: ["türkiye esim yasağı", "türkiye esim yasak mı", "türkiye esim btk kuralları", "türkiye esim imei kaydı", "türkiye esim kullanılabilirliği", "türkiye esim yasal mı", "türkiye esim engellenen sağlayıcılar"]
+date:  2026-09-26T00:00:00Z
+lastmod:  2026-09-26T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami güvenilir eSIM paketleri sunar, yılda 1 milyondan fazla gezgine hizmet verir ve gezginlerin dünya çapında bağlantıda kalması için otomatik yerel ağ geçişini destekler."
+authorBio: "Roami, yılda 1 milyondan fazla yolcuya hizmet veren güvenilir eSIM paketleri sunar ve gezginlerin dünya genelinde bağlantıda kalmasına yardımcı olmak için otomatik yerel ağ geçişini destekler."
 image: "/img/esim/turkey/turkey-esim-ban-availability-rules.jpg"
 categories: ["eSIM", "Seyahat", "Türkiye"]
 tags: ["Türkiye eSIM"]
@@ -13,40 +13,41 @@ readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Türkiye eSIM Yasak mı? BTK Kuralları ve Hâlâ Çalışanlar"
-productsTitle: "Popüler eSIM Planları"
-hotPostsTitle: "Öne Çıkan Makaleler"
+h1title: "Türkiye eSIM Yasağı Var mı? BTK Kuralları ve Hâlâ Çalışanlar"
+
+productsTitle: "Popüler eSIM Paketleri"
+hotPostsTitle: "Popüler Yazılar"
 recentPostsTitle: "Son Yazılar"
 
 products:
   - name: "İspanya eSIM"
     flag: "/img/flags/es.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: true
     slug: "spain"
   - name: "Portekiz eSIM"
     flag: "/img/flags/pt.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "portugal"
   - name: "Fransa eSIM"
     flag: "/img/flags/fr.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "france"
   - name: "İtalya eSIM"
     flag: "/img/flags/it.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "italy"
-  - name: "Birleşik Krallık eSIM"
+  - name: "İngiltere eSIM"
     flag: "/img/flags/gb.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "uk"
   - name: "Hollanda eSIM"
     flag: "/img/flags/nl.svg"
-    price: "1,99 $'dan başlayan"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "netherlands"
 
@@ -57,161 +58,165 @@ recentPosts:
   - title: "2026 Platformlar Arası eSIM Aktarımı"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone İçin 12 Çözüm"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Uyumluluk Kılavuzu"
+  - title: "iPhone SE eSIM Uyumluluk Rehberi"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Tam Kurulum Kılavuzu"
+  - title: "iPhone 11 eSIM Eksiksiz Kurulum Rehberi"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-## Türkiye eSIM Yasağı ve Kullanılabilirliği: BTK Kuralları, IMEI Riskleri ve Neler Çalışıyor
 
-eSIM Türkiye'de yasaldır, ancak hükümetin BTK engeli indikten sonra bir plan satın almanızı veya yönetmenizi hâlâ engelleyebilir. Bu rehber, gerçekte neyin yasaklandığını, IMEI kuralının ne anlama geldiğini ve nelerin hâlâ çalıştığını açıklar.
 
-## Bir Bakışta
+Türkiye'de eSIM yasaldır, ancak hükümetin BTK engeli, indikten sonra paket satın almanızı veya yönetmenizi yine de durdurabilir ve bu ayrım çoğu gezginin ayağına dolanır. Kural, eSIM teknolojisinin kendisini değil, Türk mobil ağları üzerindeki yabancı eSIM sağlayıcı web sitelerini ve uygulamalarını hedefler; dolayısıyla halihazırda yüklenmiş bir profil, vardığınızda normal şekilde bağlanır. Türkiye ayrıca iki ayrı düzenleyici takip yürütür — BTK platform engeli ve 120 gün sonra yabancı telefonları Türk ağlarından çıkaran IMEI kaydı kuralı — ve bir gezgin birine uymasına rağmen diğerine takılabilir. Bu rehber gerçekte neyin engellendiğini, neyin hâlâ çalıştığını ve yola çıkmadan önce ne yapmanız gerektiğini açıklar.
 
-- eSIM Türkiye'de yasaldır ve BTK engeli yalnızca yabancı sağlayıcı web sitelerini ve uygulamalarını hedef alır, yüklü profilleri değil.
+## Türkiye eSIM Yasağı ve Kullanılabilirliği: BTK Kuralları, IMEI Riskleri ve Çalışanlar
+
+Türkiye'de eSIM yasaldır, ancak hükümetin BTK engeli, indikten sonra paket satın almanızı veya yönetmenizi yine de durdurabilir. Bu rehber gerçekte neyin yasaklandığını, IMEI kuralının ne anlama geldiğini ve neyin hâlâ çalıştığını açıklar.
+
+## Türkiye'nin eSIM Kurallarına Genel Bakış
+
+- eSIM Türkiye'de yasaldır ve BTK engeli yalnızca yabancı sağlayıcı web sitelerini ve uygulamalarını hedefler, yüklenmiş profilleri değil.
 - Önceden yüklenmiş bir eSIM, indikten sonra normal şekilde bağlanır.
-- IMEI 120 gün kuralı uzun süreli telefonları etkiler, kısa bir seyahatteki turistleri değil.
-- eSIM'inizi gelmeden önce satın alın ve yükleyin, çünkü Türkiye içinde sağlayıcı uygulamasına güvenemezsiniz.
+- 120 günlük IMEI kuralı uzun süreli konaklayan telefonları etkiler, kısa gezideki turistleri değil.
+- eSIM'inizi varmadan önce satın alın ve yükleyin, çünkü Türkiye içinde sağlayıcı uygulamasına güvenemezsiniz.
 
-## Bu Yasak Rehberi Neyi Çözüyor?
+## Bu Türkiye eSIM Yasağı Rehberi Neyi Çözüyor?
 
-Bu rehber düzenleyici katmanı çözer: Türkiye eSIM'inizin çalışıp çalışmayacağını gerçekte ne belirler ve bu konuda yasal olarak ne yapabilirsiniz. [Kurulum adımlarını](/blog/how-turkey-esim-works-activation/), cihaz kontrollerini, [sağlayıcı karşılaştırmalarını](/blog/best-turkey-esim-providers/) veya fiyatlandırmayı tekrarlamaz. Bunlar bağlantılı derinlemesine makalelerde ele alınmıştır.
+Bu rehber düzenleyici katmanı ele alır: Türkiye eSIM'inizin çalışıp çalışmayacağını gerçekte ne belirler ve bunun hakkında yasal olarak ne yapabilirsiniz. [kurulum adımlarını](/blog/how-turkey-esim-works-activation/), cihaz kontrollerini, [sağlayıcı karşılaştırmalarını](/blog/best-turkey-esim-providers/) veya fiyatlandırmayı tekrarlamaz. Bunlar bağlantılı derinlemesine makalelerde ele alınmaktadır.
 
-Türkiye'nin iki ayrı düzenleyici yolu vardır. Bağımsız olarak çalışırlar. Bir gezgin birine uyarken diğerine yakalanabilir:
+Türkiye'nin iki ayrı düzenleyici takibi vardır. Bunlar bağımsız çalışır. Bir gezgin birine uyabilir ve yine de diğerine takılabilir:
 
-1. **BTK platform engeli** — yabancı eSIM sağlayıcı web sitelerini ve uygulamalarını Türk mobil ağlarından engeller.
-2. **IMEI kayıt kuralı** — yabancı telefonları 120 gün sonra Türk ağlarından engeller.
+1. **BTK platform engeli** — Türk mobil ağlarından yabancı eSIM sağlayıcı web sitelerini ve uygulamalarını engeller.
+2. **IMEI kaydı kuralı** — 120 gün sonra yabancı telefonları Türk ağlarından engeller.
 
-Pratik çıkarım: önceden yüklenmiş bir Türkiye eSIM'i indikten sonra normal çalışır. Engel, eSIM satın almayı ve yönetmeyi hedefler, kullanmayı değil.
+Pratik sonuç: Önceden yüklenmiş bir Türkiye eSIM, indikten sonra normal şekilde çalışır. Engel, eSIM satın almayı ve yönetmeyi hedefler, kullanmayı değil.
 
-## BTK Platform Engeli Tam Olarak Nedir?
+## BTK eSIM Platform Engeli Tam Olarak Nedir?
 
-BTK engeli bir platform engelidir, teknoloji yasağı değildir. Yabancı eSIM sağlayıcı web sitelerini ve uygulamalarını Türk mobil ağlarından hedef alır. eSIM donanımını devre dışı bırakmaz veya yüklü profillerin bağlanmasını durdurmaz.
+BTK engeli bir platform engelidir, teknoloji yasağı değildir. Türk mobil ağlarından yabancı eSIM sağlayıcı web sitelerini ve uygulamalarını hedefler. eSIM donanımını devre dışı bırakmaz veya yüklenmiş profillerin bağlanmasını durdurmaz.
 
-### BTK Türkiye eSIM Piyasasında Neyi Düzenler?
+### BTK Aslında Neyi Düzenliyor?
 
-BTK, Türkiye'nin Bilgi ve İletişim Teknolojileri Kurumu'dur. Elektronik iletişimi, hizmet kaydını, lisanslamayı ve platform uyumunu düzenler. Engelleme kararları yabancı eSIM sağlayıcı web sitelerini ve uygulamalarını hedef alır, eSIM teknolojisinin kendisini değil. BTK'nın yetkisi, Elektronik İletişim Hakkında 5809 sayılı Kanun'dan gelir. Türk işletme lisansı olmayan yabancı eSIM sağlayıcıları bu yaptırım kapsamına girer.
+BTK, Türkiye'nin Bilgi Teknolojileri ve İletişim Kurumu'dur. Elektronik haberleşmeyi, hizmet kaydını, lisanslamayı ve platform uyumunu düzenler. Engelleme kararları yabancı eSIM sağlayıcı web sitelerini ve uygulamalarını hedefler, eSIM teknolojisinin kendisini değil. BTK'nın yetkisi 5809 sayılı Elektronik Haberleşme Kanunu'ndan gelir. Türk işletme lisansı olmayan yabancı eSIM sağlayıcıları bu yaptırım kapsamına girer.
 
-### Türkiye eSIM için Resmi BTK Karar Numaraları
+### Üç BTK Karar Numarası
 
-Engelleme kararları üç dalga halinde yayınlandı. İki ay içinde üç dalga, tek seferlik bir teknik eylem değil, kasıtlı bir düzenleyici sürece işaret eder.
+Engelleme kararları üç dalga halinde çıkarıldı. İki ay içinde üç dalga, kasıtlı bir düzenleyici sürece işaret eder; tek seferlik teknik bir harekete değil.
 
 | Karar numarası | Tarih | Kapsam |
 |---|---|---|
-| E-98966759-450.08-36681 | 10 Temmuz 2025 | Birinci dalga — ilk sağlayıcı listesi |
+| E-98966759-450.08-36681 | 10 Temmuz 2025 | İlk dalga — ilk sağlayıcı listesi |
 | E-98966759-450.08-37512 | 17 Temmuz 2025 | İkinci dalga — genişletilmiş liste |
 | E-98966759-450.08-48093 | 15 Eylül 2025 | Üçüncü dalga — ek sağlayıcılar |
 
-### Türkiye eSIM Engeli Neden Oldu?
+### Engelin Neden Gerçekleştiği
 
-BTK'nın belirtilen gerekçesi: yabancı eSIM sağlayıcıları Türk lisansı olmadan ve kimlik doğrulama, veri saklama ve yasal dinleme konusundaki yerel kurallara uymadan faaliyet gösteriyordu. Engel, lisanssız operatörlere karşı yaptırım olarak çerçevelenmiştir, eSIM teknolojisi veya Türk vatandaşlarının eSIM kullanma yeteneği üzerinde bir kısıtlama olarak değil.
+BTK'nın açıkladığı gerekçe: yabancı eSIM sağlayıcıları, Türk lisansı olmadan ve kimlik doğrulama, veri saklama ve yasal dinleme konusundaki yerel kurallara uymadan faaliyet gösteriyordu. Engel, lisanssız işletmecilere karşı bir yaptırım olarak çerçevelenmiştir; eSIM teknolojisine veya Türk vatandaşlarının eSIM kullanımına bir kısıtlama olarak değil.
 
-### Türkiye eSIM için DNS Yaptırımı Nasıl Çalışır?
+### DNS Uygulaması Nasıl Çalışır?
 
-BTK engeli DNS düzeyinde uygular. Türk mobil ağındaki bir cihaz engellenen bir sağlayıcının alan adını çözmeye çalıştığında, DNS sorgusu geçerli bir sonuç döndürmez. Web sitesi yüklenmez. Uygulama arka ucuna ulaşamaz.
+BTK engeli DNS düzeyinde uygular. Türk mobil ağı üzerindeki bir cihaz, engellenmiş bir sağlayıcının alan adını çözmeye çalıştığında, DNS sorgusu geçerli bir sonuç döndürmez. Web sitesi yüklenmez. Uygulama arka ucuna ulaşamaz.
 
-Yüklü bir eSIM profili DNS çözümlemesine bağlı değildir. Profil, cihazın eUICC yongasında saklanır. Turkcell, Vodafone veya Türk Telekom'a operatörün kendi ağ altyapısı üzerinden bağlanır. Sağlayıcının alan adı veri oturumuna dahil değildir. [GSMA SGP.22 spesifikasyonu](https://www.gsma.com/esim/), bu provizyonun sağlayıcının web sitesinden bağımsız olarak nasıl çalıştığını tanımlar.
+Yüklenmiş bir eSIM profili DNS çözümlemesine bağlı değildir. Profil, cihazın eUICC çipinde saklanır. Turkcell, Vodafone veya Türk Telekom'a operatörün kendi ağ altyapısı üzerinden bağlanır. Veri oturumunda sağlayıcının alan adı devreye girmez. [GSMA SGP.22 spesifikasyonu](https://www.gsma.com/esim/), bu sağlama işleminin sağlayıcının web sitesinden bağımsız olarak nasıl çalıştığını tanımlar.
 
-### Türkiye eSIM Engeli Neleri Yapmaz?
+### Engelin Dokunmadığı Şeyler
 
 - eSIM donanımını devre dışı bırakmaz
-- Yüklü eSIM profillerinin bağlanmasını durdurmaz
-- Türk operatörlerin yerel olarak eSIM satmasını durdurmaz
-- BTK dışı DNS kullanan Wi-Fi'yi etkilemez
+- Yüklenmiş eSIM profillerinin bağlanmasını durdurmaz
+- Türk operatörlerinin yerel olarak eSIM satmasını durdurmaz
+- BTK dışı DNS kullanan Wi-Fi'ı etkilemez
 - Acil çağrıları (112) engellemez
-- Yabancı operatörlerin dolaşım profillerini etkilemez
+- Yabancı operatörlerden gelen dolaşım (roaming) profillerini etkilemez
 
-### Türkiye eSIM Engeli Neleri Yapar?
+### Engelin Hedeflediği Şeyler
 
 - Türk mobil ağlarında sağlayıcı web sitelerini engeller
 - Türk mobil ağlarında sağlayıcı uygulamalarını engeller
-- Türkiye içinde engellenen sağlayıcılardan yeni satın alımları engeller
-- Engellenen platformlar aracılığıyla ek yükleme ve hesap yönetimini engeller
+- Türkiye içinde engellenmiş sağlayıcılardan yeni satın alımları engeller
+- Engellenmiş platformlar aracılığıyla kontör yükleme ve hesap yönetimini engeller
 - Sağlayıcının arka ucuna dayanan uygulama içi destek sohbetlerini engeller
 
-## Şu Anda Hangi Sağlayıcılar Engelli?
+## Hangi Türkiye eSIM Sağlayıcıları Şu Anda Engellenmiş Durumda?
 
-2026 ortası itibarıyla 50'den fazla sağlayıcının engellendiği onaylanmıştır. Liste tüm büyük uluslararası seyahat eSIM markalarını içerir. Az sayıda sağlayıcı erişilebilir durumda kalır, ancak liste sık sık değişir.
+2026 ortası itibarıyla 50'den fazla sağlayıcının engellendiği doğrulanmıştır. Liste, tüm büyük uluslararası seyahat eSIM markalarını içerir. Az sayıda sağlayıcı erişilebilir kalıyor, ancak liste sık sık değişiyor.
 
 ### Türkiye'de Engellenen Büyük Uluslararası Markalar
 
 Airalo, Holafly, Saily, Nomad, Ubigi, GigSky, Flexiroam, Yesim, Jetpac, Maya Mobile, Roamless, BNESIM, Alosim, Instabridge, Mobimatter, Airhub, Sim Local, Keepgo, Roamify, eTravelSim, RedteaGo, GoMoWorld.
 
-### Onaylanmış Ek Engelli Türkiye eSIM Sağlayıcıları
+### Engellendiği Doğrulanan Diğer Sağlayıcılar
 
 Holiday eSIM, GlobaleSIM, esim.io, CMLink, BetterRoaming, USIMS, AIRSIMe, EnjoyeSIM, Eskimo, SimOptions, OneSimCard, Soracom Mobile, eSIM Go, UPeSIM, Global YO, KnowRoaming, Pocket eSIM, Roafly, Romio, Surfroam, VIA eSIM, WorldSIM, YO Mobile.
 
-### Onaylanmış Türkiye eSIM Engel Listesinde Olmayan Sağlayıcılar
+### Engelleme Listesinde Olmayan Sağlayıcılar
 
-Az sayıda sağlayıcı Türk ağlarından erişilebilir durumda kalır. Klook en dikkat çekenidir. Türk Telekom üzerinde çalışır ve 10 günlük günlük 1 GB için yaklaşık $4,60'tan başlayan planlar sunar. Klook, indikten sonra satın alması gereken gezginler için bir yedek seçenektir.
+Az sayıda sağlayıcı Türk ağlarından erişilebilir kalıyor. En dikkat çekeni Klook. Türk Telekom üzerinde çalışır ve günlük 1 GB ile 10 gün için yaklaşık 4,60 $'dan başlayan paketler sunar. Klook, indikten sonra satın alması gereken gezginler için bir yedek seçenektir.
 
-Engellenmeyen liste değişir. Bugün erişilebilen bir sağlayıcı gelecek ay engellenebilir. Engellenmemiş durumu uzun vadeli bir strateji olarak görmeyin.
+Engellenmemiş liste değişkendir. Bugün erişilebilir bir sağlayıcı gelecek ay engellenmiş olabilir. Engellenmemiş durumu uzun vadeli bir strateji olarak görmeyin.
 
-### Türkiye eSIM Sağlayıcı Durumu Nasıl Takip Edilir?
+### Sağlayıcı Durumunu Kendiniz Nasıl Takip Edersiniz?
 
 1. Sağlayıcının web sitesini Türk mobil verisinde test edin.
-2. Aynı web sitesini otel veya havaalanı Wi-Fi'sinde test edin.
+2. Aynı web sitesini otel veya havalimanı Wi-Fi'sında test edin.
 3. Uygulamanın yüklenip yüklenmediğini ve girişin çalışıp çalışmadığını kontrol edin.
 4. Wi-Fi ağının kullandığı DNS sunucusunu kaydedin.
-5. Sonucu tarih ve konumla ekran görüntüsü alın.
+5. Sonucun tarih ve konumla birlikte ekran görüntüsünü alın.
 
-Bu, statik bir engelli listesine güvenmekten daha kullanışlıdır.
+Bu, statik bir engellenmiş listeye güvenmekten daha yararlıdır.
 
-### Türkiye eSIM için İstanbul Saha Testi Kanıtı
+### İstanbul Saha Testi: 15+ eSIM, Sıfır Hata
 
-Mayıs 2026'da İstanbul'da yapılan bir saha testi, farklı sağlayıcılardan on beşten fazla önceden yüklenmiş eSIM'i test etti. Hiçbiri bağlanamadı. Bu, engelin ağ bağlantısını değil, satın alma ve yönetimi hedeflediğini doğrular.
+Mayıs 2026'da İstanbul'da yapılan bir saha testi, farklı sağlayıcılardan on beşten fazla önceden yüklenmiş eSIM'i test etti. Hiçbiri bağlanamadı. Bu, engelin satın alma ve yönetimi hedeflediğini, ağ bağlantısını değil, doğrular.
 
-Aynı test, Google DNS (8.8.8.8) veya Cloudflare DNS (1.1.1.1) kullanan otel Wi-Fi'sinin BTK filtresini atlayabildiğini buldu. Bu güvenilir değildir çünkü bir otelin DNS'ini kontrol edemezsiniz.
+Aynı test, Google DNS (8.8.8.8) veya Cloudflare DNS (1.1.1.1) kullanan otel Wi-Fi'ının BTK filtresini aşabileceğini buldu. Bu güvenilir değildir çünkü bir otelin DNS'ini kontrol edemezsiniz.
 
-Sağlayıcı bazında tam bir arıza haritası için [sağlayıcı karşılaştırmasını](/blog/best-turkey-esim-providers/) okuyun.
+Sağlayıcı başına tam bir hata haritası için [sağlayıcı karşılaştırmasına](/blog/best-turkey-esim-providers/) göz atın.
 
-## IMEI Kuralı Turistleri Nasıl Etkiler?
+## Türk IMEI Kuralı Turistleri Nasıl Etkiler?
 
-IMEI kuralı BTK engelinden ayrıdır. Türk ağlarında 120 günden fazla kullanılan yabancı telefonlar için geçerlidir. İki haftalık bir turist bu eşiğe asla ulaşmaz. Uzun süreli ziyaretçiler ve dijital göçebeler bunu planlamalıdır.
+IMEI kuralı BTK engelinden ayrıdır. Türk ağlarında 120 günden fazla kullanılan yabancı telefonlar için geçerlidir. İki haftalık bir turist bu eşiğe asla ulaşmaz. Uzun süreli ziyaretçiler ve dijital göçebeler buna hazırlıklı olmalıdır.
 
 ### 120 Günlük IMEI Sayacı Nasıl Başlar?
 
-Yabancı bir telefon ilk kez bir Türk mobil ağına bağlandığında, BTK IMEI'sini kaydeder ve 120 günlük geri sayımı başlatır. BTK bir uyarı SMS'i gönderir. Bu SMS tarihi resmi başlangıçtır.
+Yabancı bir telefon ilk kez bir Türk mobil ağına bağlandığında, BTK IMEI'sini kaydeder ve 120 günlük geri sayımı başlatır. BTK bir uyarı SMS'i gönderir. O SMS tarihi resmi başlangıçtır.
 
-120 gün sonra, kayıtsız bir cihaz tüm Türk mobil ağlarından engellenir. Wi-Fi'de hâlâ çalışır. Hiçbir Türk operatöründe arama yapamaz, SMS gönderemez veya mobil veri kullanamaz.
+120 gün sonra, kayıtsız bir cihaz tüm Türk mobil ağlarından engellenir. Wi-Fi üzerinde hâlâ çalışır. Hiçbir Türk operatöründe arama yapamaz, SMS gönderemez veya mobil veri kullanamaz.
 
 ### 240 Günlük eSIM Uzatması Kapatıldı (Mayıs 2026)
 
-Mayıs 2026'dan önce, çift SIM veya eSIM telefon, her SIM yuvasını ayrı bir 120 günlük pencere için kullanarak IMEI sayacını 240 güne kadar uzatabiliyordu. BTK bu açığı 1 Mayıs 2026'dan itibaren kapattı. Yabancı bir telefon artık kaç SIM yuvası olursa olsun tek bir 120 günlük sayaç alır.
+Mayıs 2026'ya kadar, çift SIM'li veya eSIM'li bir telefon, her SIM yuvasını ayrı bir 120 günlük pencere için kullanarak IMEI sayacını 240 güne kadar uzatabiliyordu. BTK bu açığı 1 Mayıs 2026'da yürürlüğe girecek şekilde kapattı. Artık yabancı bir telefon, kaç SIM yuvası olursa olsun tek bir 120 günlük sayaç alıyor.
 
 ### Türkiye'de IMEI Kayıt Ücreti ve Süreci
 
-2026 IMEI kayıt ücreti 54.258 Türk Lirası, yaklaşık 1.200 ABD dolarıdır. Ödeme [e-Devlet IMEI kayıt portalı](https://www.turkiye.gov.tr/) üzerinden yapılır. Ödemeden sonra bir kayıt başvurusu yapılmalı ve onaylanmalıdır. Ayrıca bir sıklık kısıtlaması vardır. Daha önce bir telefon kaydettirdiyseniz, genellikle başka bir telefon kaydettirmeden önce en az üç takvim yılı beklemeniz gerekir.
+2026 IMEI kayıt ücreti 54.258 Türk Lirası, yaklaşık 1.200 ABD dolarıdır. Ödeme [e-Devlet IMEI kayıt portalı](https://www.turkiye.gov.tr/) üzerinden yapılır. Ödemeden sonra bir kayıt başvurusu yapılmalı ve onaylanmalıdır. Ayrıca bir frekans kısıtlaması vardır. Daha önce bir telefon kaydettirdiyseniz, genellikle bir başkasını kaydettirmeden önce en az üç takvim yılı beklemeniz gerekir.
 
 ### IMEI Engellendikten Sonra Ne Olur?
 
 - Cihaz hiçbir Türk operatöründe arama yapamaz, SMS gönderemez veya mobil veri kullanamaz.
-- Wi-Fi'de hâlâ çalışır.
-- Wi-Fi üzerinden kamera, harita cihazı ve mesajlaşma aracı olarak işlev görmeye devam eder.
+- Wi-Fi üzerinde hâlâ çalışır.
+- Wi-Fi üzerinden kamera, harita cihazı ve mesajlaşma aracı olarak hâlâ işlev görür.
 - Acil çağrılar (112) bazı ağlarda hâlâ çalışabilir.
-- Engel SIM veya eSIM'e değil, IMEI'ye uygulanır. SIM'i çıkarıp yeniden takmak yardımcı olmaz.
+- Engelleme IMEI'ye uygulanır, SIM'e veya eSIM'e değil. SIM'i çıkarıp yeniden takmak yardımcı olmaz.
 
-### Seyahat eSIM IMEI Sayacını Tetikler mi?
+### Seyahat eSIM'i IMEI Sayacını Tetikler mi?
 
-Uluslararası bir sağlayıcıdan seyahat eSIM'i dolaşım yoluyla çalışır. BTK sayacı tipik olarak yabancı bir cihaza Türk SIM'i takılarak tetiklenir. Uluslararası bir eSIM profili genellikle bu tetikleyiciden kaçınır.
+Uluslararası bir sağlayıcıdan alınan seyahat eSIM'i dolaşım (roaming) üzerinden çalışır. BTK sayacı genellikle yabancı bir cihaza Türk SIM takıldığında tetiklenir. Uluslararası bir eSIM profili genellikle bu tetikleyiciden kaçınır.
 
-Yerel bir numara için yerel bir Türk SIM'i de kullanırsanız, bu IMEI sayacını tetikler. eSIM ve fiziksel SIM aynı IMEI'yi paylaşır. IMEI daha sonra engellenirse, her ikisi de Türk ağlarında çalışmayı durdurur.
+Yerel bir numara için ayrıca yerel bir Türk SIM kullanıyorsanız, bu IMEI sayacını tetikler. eSIM ve fiziksel SIM aynı IMEI'yi paylaşır. IMEI daha sonra engellenirse, ikisi de Türk ağlarında çalışmayı durdurur.
 
-### Kimler IMEI Kaydı Planlamalı?
+### Kimler IMEI Kaydı İçin Plan Yapmalı?
 
 | Gezgin türü | IMEI riski | Ne yapmalı |
 |---|---|---|
-| Turist 1–4 hafta | Yok | 120 günlük sayaç dolmaz |
-| Turist 1–3 ay | Düşük | Yerel SIM kullanıyorsanız sayacı izleyin |
-| Dijital göçebe 3–6 ay | Yüksek | Kayıt planlayın veya Türkiye'den alınmış cihaz kullanın |
-| Uzun süreli ikamet | Kritik | Cihazı kaydettirin veya yerel kayıtlı telefon alın |
-| İş gezgini kısa geziler | Yok | Seyahat eSIM kullanın; yerel SIM'den kaçının |
-| Öğrenci 1+ yıl | Kritik | Kaydettirin veya Türk cihazı alın |
+| 1–4 haftalık turist | Yok | 120 günlük sayaç dolmayacak |
+| 1–3 aylık turist | Düşük | Yerel SIM kullanıyorsanız sayacı izleyin |
+| 3–6 aylık dijital göçebe | Yüksek | Kayıt için plan yapın veya Türkiye'den satın alınmış cihaz kullanın |
+| Uzun süreli yerleşik | Kritik | Cihazı kaydettirin veya yerel olarak kayıtlı telefon satın alın |
+| Kısa iş seyahatleri | Yok | Seyahat eSIM kullanın; yerel SIM'den kaçının |
+| 1+ yıllık öğrenci | Kritik | Kaydettirin veya Türk cihazı satın alın |
 
 ### e-Devlet IMEI Kayıt Süreci
 
@@ -220,481 +225,485 @@ Yerel bir numara için yerel bir Türk SIM'i de kullanırsanız, bu IMEI sayacı
 3. Kayıt ücretini ödeyin (2026'da 54.258 TL).
 4. Kayıt başvurusunu gönderin.
 5. Onay bekleyin.
-6. IMEI kalıcı olarak kaydedilir.
+6. IMEI kalıcı olarak kayıtlı hale gelir.
 
-Kısa süreli turistler için bu süreç önemsizdir. İki haftalık bir tatilde 120 günlük sayaç dolmaz. Dört aydan fazla kalan herkes için IMEI kaydı veya yerel olarak satın alınan bir telefon bir planlama gerekliliği haline gelir.
+Kısa süreli turistler için bu süreç alakasızdır. 120 günlük sayaç, iki haftalık bir tatilde dolmayacaktır. Dört aydan fazla kalan herkes için IMEI kaydı veya yerel satın alınmış bir telefon planlama zorunluluğu haline gelir.
 
-IMEI yolundan tamamen kaçınmak istiyorsanız, önceden yüklenmiş bir seyahat eSIM'i daha basit yoldur. Roami'den [Türkiye eSIM veri planları](/turkey-esim/) $1,99'dan başlar, %20 yeni kullanıcı indirimi vardır ve yerel SIM kayıt sayacını tetiklemez.
+IMEI takibinden tamamen kaçınmak istiyorsanız, önceden yüklenmiş bir seyahat eSIM'i daha basit yoldur. Roami'nin [Türkiye eSIM veri paketleri](/turkey-esim/) %20 yeni kullanıcı indirimiyle (web20 kodu) 2,99 $'dan başlar ve yerel SIM kayıt sayacını tetiklemez.
 
-## FCDO Erişim Danışmanlığı
+## eSIM Erişimi Hakkında FCDO Uyarısı
 
-İngiltere FCDO, Türkiye seyahat tavsiyesini eSIM kısıtlamalarını içerecek şekilde güncelledi. Bu, engelin geçici bir arıza değil, sürekli bir düzenleyici eylem olduğunu doğrular. Danışmanlık, kalkıştan önce eSIM'inizi indirmenizi, yapılandırmanızı ve etkinleştirmenizi önerir.
+İngiltere FCDO, Türkiye seyahat tavsiyesini eSIM kısıtlamalarını içerecek şekilde güncelledi. Bu, engelin geçici bir arıza değil, sürekli bir düzenleyici eylem olduğunu doğrular. Uyarı, eSIM'inizi yola çıkmadan önce indirmenizi, yapılandırmanızı ve etkinleştirmenizi önerir.
 
-### Türkiye eSIM için FCDO Danışmanlık İfadesi
+### FCDO Aslında Ne Diyor?
 
-Danışmanlık, Türkiye içinde bazı bağımsız, uluslararası eSIM hizmetlerine erişimin kısıtlandığını belirtir. İngiliz tatilcilerin indikten sonra belirli yeni eSIM'leri etkinleştiremeyebileceği konusunda uyarır. Öneri özeldir: kalkıştan önce hâlâ İngiltere ağlarına bağlıyken eSIM'inizin tamamen indirildiğinden, yapılandırıldığından ve etkinleştirildiğinden emin olun. [UK FCDO Türkiye seyahat tavsiyesine](https://www.gov.uk/foreign-travel-advice/turkey) bakın.
+Uyarı, bazı bağımsız, uluslararası eSIM hizmetlerine Türkiye içinde erişimin kısıtlandığını belirtir. İngiliz tatilcilerin indikten sonra bazı yeni eSIM'leri etkinleştiremeyebileceği konusunda uyarır — şimdiye kadar eSIM etkinleştirmeyi özellikle adıyla anan İngiliz gezginlere yönelik tek resmi seyahat uyarısı. Öneri spesifiktir: eSIM'inizin yola çıkmadan önce, hâlâ Birleşik Krallık ağlarına bağlıyken tamamen indirilmiş, yapılandırılmış ve etkinleştirilmiş olduğundan emin olun. Ayrıca Türkiye'nin eSIM düzenlemesinin ülkeden dışarıdan nasıl okunduğuna dair en net dış tanımaktır. [UK FCDO Türkiye seyahat tavsiyesine](https://www.gov.uk/foreign-travel-advice/turkey) bakın.
 
-### FCDO Danışmanlığı Neleri Söylemez?
+### FCDO Uyarısının Söylemediği Şeyler
 
-- Türkiye'de eSIM'lerin yasak olduğunu söylemez.
-- Türkiye'nin bağlantılı seyahat için güvensiz olduğunu söylemez.
+- eSIM'lerin Türkiye'de yasak olduğunu söylemez.
+- Türkiye'nin bağlı seyahat için güvensiz olduğunu söylemez.
 - Gezginlerin Türkiye'den kaçınması gerektiğini söylemez.
-- Kısıtlamanın tüm eSIM hizmetleri için geçerli olduğunu söylemez.
-- Engelin yüklü eSIM profillerini etkilediğini söylemez.
+- Kısıtlamanın tüm eSIM hizmetlerine uygulandığını söylemez.
+- Engelin yüklenmiş eSIM profillerini etkilediğini söylemez.
 
-### FCDO Danışmanlığı Türkiye eSIM için Neden Önemlidir?
+### FCDO Güncellemesi Neden Önemli?
 
 FCDO güncellemesi iki şeyi doğrular:
 
-1. BTK engeli geçici bir arıza değil, sürekli bir düzenleyici eylemdir.
-2. İngiltere hükümeti bunu gezgin koruma bilgisi olarak ele alır.
+1. BTK engeli sürekli bir düzenleyici eylemdir, geçici bir arıza değildir.
+2. İngiltere hükümeti bunu gezgin koruma bilgisi olarak değerlendirir.
 
-ABD Dışişleri Bakanlığı danışmanlığı şu anda eSIM'e özgü rehberlik içermemektedir. GSMA, SGP.22 eSIM spesifikasyonunu yayınlar ancak seyahat danışmanlığı yayınlamaz.
+ABD Dışişleri Bakanlığı uyarısı şu anda eSIM'e özgü rehberlik içermemektedir. GSMA, SGP.22 eSIM spesifikasyonunu yayınlar ancak seyahat uyarısı yayınlamaz.
 
-### Türkiye eSIM Hakkında Diğer Danışmanlık Kaynakları
+### Diğer Hükümetler Ne Diyor?
 
 | Kaynak | Ülke | eSIM rehberliği |
 |---|---|---|
-| FCDO | İngiltere | Evet, özel eSIM danışmanlığı |
+| FCDO | Birleşik Krallık | Evet, eSIM'e özgü uyarı |
 | Dışişleri Bakanlığı | ABD | eSIM'e özgü rehberlik yok |
 | Auswärtiges Amt | Almanya | eSIM'e özgü rehberlik yok |
 | DFAT | Avustralya | eSIM'e özgü rehberlik yok |
 | Global Affairs | Kanada | eSIM'e özgü rehberlik yok |
 
-## Düzenleyici Zaman Çizelgesi ve Gelecek Görünümü
+## Türkiye eSIM Düzenleyici Zaman Çizelgesi ve Gelecek Görünümü
 
-Engel Temmuz 2025'ten beri yürürlüktedir ve birden fazla BTK kararıyla genişletilmiştir. Yakın vadede kaldırılacağına dair bir işaret yoktur. Gezginler engelin 2026 ve sonrasında yürürlükte kalacağını planlamalıdır.
+Engel Temmuz 2025'ten beri yürürlükte ve birden fazla BTK kararıyla genişledi. Yakın zamanda kaldırılacağına dair bir işaret yok. Gezginler, engelin 2026 boyunca ve ötesinde yürürlükte kalacağını planlamalıdır.
 
-### Türkiye eSIM Düzenleyici Zaman Çizelgesi
+### Düzenleyici Zaman Çizelgesi: Temmuz 2025'ten Bugüne
 
 | Tarih | Olay | Etki |
 |---|---|---|
-| 10 Temmuz 2025 | BTK engelleme kararlarının ilk dalgası | İlk sağlayıcı listesi engellendi |
-| 17 Temmuz 2025 | BTK engelleme kararlarının ikinci dalgası | Genişletilmiş sağlayıcı listesi |
-| 15 Eylül 2025 | BTK engelleme kararlarının üçüncü dalgası | Ek sağlayıcılar |
-| Ekim 2025 sonu | 2,95 milyar ABD doları 5G spektrum ihalesi | Turkcell, Vodafone, Türk Telekom |
+| 10 Temmuz 2025 | İlk dalga BTK engelleme kararları | İlk sağlayıcı listesi engellendi |
+| 17 Temmuz 2025 | İkinci dalga BTK engelleme kararları | Genişletilmiş sağlayıcı listesi |
+| 15 Eylül 2025 | Üçüncü dalga BTK engelleme kararları | Ek sağlayıcılar |
+| Ekim sonu 2025 | 2,95 milyar ABD doları 5G spektrum ihalesi | Turkcell, Vodafone, Türk Telekom |
 | 1 Nisan 2026 | Ticari 5G lansmanı | Önce İstanbul, Ankara, İzmir |
 | Mayıs 2026 | İstanbul saha testi | 15+ önceden yüklenmiş eSIM bağlandı |
 | 2026 ortası | 50+ sağlayıcı engellendi | Kaldırılacağına dair işaret yok |
 
-### Türkiye eSIM Erişimi için Gelecek Görünümü
+### Bundan Sonrası Nereye Gidiyor?
 
 Olası gelecekteki gelişmeler:
 
-- **Daha fazla sağlayıcı engellendi:** Liste şu anda erişilebilir olan sağlayıcıları içerecek şekilde genişleyebilir.
-- **VPN protokolü engelleme:** Türkiye engelini VPN protokollerine genişletebilir, bu da VPN geçici çözümlerini daha az güvenilir hale getirir.
-- **Yerel eSIM genişlemesi:** Türk operatörler turistler için eSIM tekliflerini genişletebilir.
-- **Bölgesel eSIM adaptasyonu:** Bazı sağlayıcılar mevcut müşteriler için Türkiye'ye özgü geçici çözümler sunabilir.
+- **Daha fazla sağlayıcının engellenmesi:** Liste, şu anda erişilebilir olan sağlayıcıları içerecek şekilde genişleyebilir.
+- **VPN protokol engelleme:** Türkiye engelini VPN protokolleri genişletebilir ve VPN geçici çözümlerini daha az güvenilir hale getirebilir.
+- **Yerel eSIM genişlemesi:** Türk operatörleri turistler için eSIM tekliflerini genişletebilir.
+- **Bölgesel eSIM uyumu:** Bazı sağlayıcılar mevcut müşterileri için Türkiye'ye özgü geçici çözümler sunabilir.
 
-### Türkiye eSIM Değişiklikleri için Neler İzlenmeli?
+### Bundan Sonra Neyi İzlemelisiniz?
 
 1. Yeni engelleme kararları için BTK resmi duyuruları.
-2. Yeni eSIM rehberliği için FCDO danışmanlık güncellemeleri.
-3. Engel güncellemeleri için sağlayıcı durum sayfaları.
-4. Gerçek dünya raporları için Reddit ve seyahat forumları.
+2. Yeni eSIM rehberliği için FCDO uyarı güncellemeleri.
+3. Engelleme güncellemeleri için sağlayıcı durum sayfaları.
+4. Türkiye eSIM ile ilgili gerçek dünya haberleri ve raporları için Reddit ve seyahat forumları.
 5. Yeni turist eSIM seçenekleri için yerel operatör duyuruları.
 
-Ağ düzeyinde hız verileri ve 5G kullanıma sunma ayrıntıları için [OpenSignal Türkiye mobil ağ raporuna](https://www.opensignal.com/reports/turkey) bakın.
+Ağ düzeyindeki hız verileri ve 5G yayılımı ayrıntıları için [OpenSignal'in küresel ağ içgörülerine](https://www.opensignal.com/) bakın.
 
-## Hızlı Özet
+Turist paketlerindeki ince yazı, engelleme kurallarıyla aynı mantığı izler. Veri limiti ve adil kullanım (FUP) maddesi, tam olarak kendi ülkenizdeki gibi uygulanır; hız kısıtlama limiti regülatörden değil limitten gelir ve satıcının BTK durumu değişmişse kontör yüklemesi reddedilebilir — ki yazılı iade koşullarının klişe olmayı bıraktığı an tam da budur.
 
-Artık BTK platform engelini, IMEI sayacını ve FCDO seyahat danışmanlığını ele aldınız. Sonuç, engelin bir eSIM kullanmanızı değil, satın almanızı ve yönetmenizi engellediğidir. Ardından, VPN'lerin ve DNS'nin neleri düzeltip düzeltemeyeceğine ve bağlantıda kalmanın yasal yollarına bakıyoruz.
+## Hızlı Özet: Kurallar İçinde Kalmak
 
-## VPN ve DNS Geçici Çözümleri
+Şimdiye kadar BTK platform engelini, IMEI sayacını ve FCDO seyahat uyarısını ele aldık. Sonuç şu: engel size eSIM satın almayı ve yönetmeyi durdurur, kullanmayı değil. Şimdi VPN ve DNS'in neyi düzeltebileceğini ve neyi düzeltemeyeceğini ve bağlantıda kalmanın yasal yollarını inceliyoruz.
 
-Bir VPN, engellenen sağlayıcı web sitelerine erişimi geri yükleyebilir. Bir DNS değişikliği kontrol ettiğiniz Wi-Fi'de çalışabilir. Hiçbiri kalkıştan önce kurulumun yerini tutmaz. Güvenilir çözüm, kalkıştan önce satın almak ve yüklemektir.
+## Türkiye'de VPN ve DNS Geçici Çözümleri
 
-### Türkiye eSIM Web Siteleri için DNS Atlatma
+VPN, engellenmiş sağlayıcı web sitelerine erişimi geri getirebilir. DNS değişikliği, kontrol ettiğiniz Wi-Fi üzerinde çalışabilir. Hiçbiri yola çıkmadan önce kurulumun yerini tutmaz. Güvenilir çözüm, yola çıkmadan önce satın almak ve yüklemektir.
+
+### DNS Atlatma: Ne Zaman Çalışır?
 
 BTK engeli DNS düzeyinde uygulanır. BTK tarafından kontrol edilmeyen bir DNS sunucusu kullanılarak atlatılabilir. Google DNS (8.8.8.8) ve Cloudflare DNS (1.1.1.1) yaygın alternatiflerdir.
 
 **iPhone'da DNS nasıl değiştirilir:**
-1. Ayarlar → Wi-Fi'yi açın.
+1. Ayarlar → Wi-Fi yolunu açın.
 2. Wi-Fi ağınızın yanındaki (i) simgesine dokunun.
 3. DNS Yapılandır → Manuel'e dokunun.
 4. 8.8.8.8 veya 1.1.1.1 ekleyin.
 5. Kaydedin ve yeniden bağlanın.
 
 **Android'de DNS nasıl değiştirilir:**
-1. Ayarlar → Ağ ve İnternet'i açın.
+1. Ayarlar → Ağ ve İnternet yolunu açın.
 2. Özel DNS'e dokunun.
 3. `dns.google` veya `1dot1dot1dot1.cloudflare-dns.com` girin.
 4. Kaydedin.
 
-**Sınırlamalar:** DNS atlatma yalnızca Wi-Fi'de çalışır. Operatörün BTK DNS'ini uyguladığı Türk mobil ağlarında çalışmaz. Ayrıca Wi-Fi ağının DNS ayarlarını kontrol etmenizi gerektirir, ki bunu çoğu otelde ve havaalanında yapamazsınız.
+**Sınırlamalar:** DNS atlatma yalnızca Wi-Fi'da çalışır. Operatörün BTK DNS'ini uyguladığı Türk mobil ağlarında çalışmaz. Ayrıca Wi-Fi ağının DNS ayarlarını kontrol etmenizi gerektirir; bu, çoğu otel ve havalimanında yapamazsınız.
 
-### Türkiye eSIM Platformları için VPN Atlatma
+### VPN Atlatma: Neyi Geri Getirir?
 
-Bir VPN, trafiğinizi Türkiye dışındaki bir sunucu üzerinden yönlendirir ve bu da engellenen sağlayıcı web sitelerine ve uygulamalarına erişimi geri yükler.
+VPN, trafiğinizi Türkiye dışındaki bir sunucu üzerinden yönlendirir ve bu, engellenmiş sağlayıcı web sitelerine ve uygulamalarına erişimi geri getirir.
 
 **VPN nasıl kurulur:**
-1. Kalkıştan önce bir VPN uygulaması yükleyin.
-2. Saygın bir VPN hizmetine abone olun.
-3. Uçmadan önce VPN'i Wi-Fi'de test edin.
+1. Yola çıkmadan önce bir VPN uygulaması yükleyin.
+2. Güvenilir bir VPN hizmetine abone olun.
+3. Uçmadan önce VPN'i Wi-Fi üzerinde test edin.
 4. İndikten sonra, Wi-Fi veya mobil veri üzerinden VPN'e bağlanın.
 
 **Sınırlamalar:**
 - VPN'ler pil tüketir ve bağlantınızı yavaşlatabilir.
-- Bazı VPN protokolleri Türkiye'de engellenir veya kısıtlanır.
-- Sağlayıcının uygulaması doğrudan bağlantı gerektiriyorsa bir VPN hesap yönetimini geri yüklemez.
-- Bir VPN uygulama içi destek sohbetlerini geri yüklemez.
-- eSIM profiliniz hiç yüklenmediyse bir VPN yardımcı olmaz.
+- Bazı VPN protokolleri Türkiye'de engellenir veya yavaşlatılır.
+- Sağlayıcının uygulaması doğrudan bağlantı gerektiriyorsa VPN hesap yönetimini geri getirmez.
+- VPN uygulama içi destek sohbetlerini geri getirmez.
+- eSIM profiliniz hiç yüklenmediyse VPN işe yaramaz.
 
-### Bir VPN Türkiye eSIM için Neleri Düzeltemez?
+### VPN'in Düzeltemeyeceği Şeyler
 
-- Operatöre kilitli bir telefon
-- Eksik bir eUICC yongası
-- Zaten kullanılmış bir QR kodu
-- Çalışmayan bir sağlayıcı arka ucu
-- Engellenen bir sağlayıcıyla iade anlaşmazlığı
+- Operatör kilidini telefon
+- Eksik eUICC çipi
+- Halihazırda kullanılmış bir QR kodu
+- Çökmüş bir sağlayıcı arka ucu
+- Engellenmiş bir sağlayıcıyla iade anlaşmazlığı
 
-### Bir VPN Türkiye eSIM için Neleri Düzeltebilir?
+### VPN'in Düzeltebileceği Şeyler
 
 - Hesabınızı kontrol etmek için sağlayıcının web sitesine erişim
-- Ek yükleme yapmak için sağlayıcının web sitesine erişim
+- Kontör yüklemek için sağlayıcının web sitesine erişim
 - E-posta desteğine erişim
 - Web tabanlı sohbet desteğine erişim
 - Yardım belgelerini okuma
 
-### Türkiye eSIM için DNS vs VPN Karşılaştırması
+### DNS mü VPN mi: Hangisi Neyi Açar?
 
-| Yöntem | Wi-Fi'de çalışır | Mobilde çalışır | Hız etkisi | Pil etkisi | Güvenilirlik |
+| Yöntem | Wi-Fi'da çalışır | Mobilde çalışır | Hız etkisi | Pil etkisi | Güvenilirlik |
 |---|---|---|---|---|---|
-| DNS değişikliği | ✅ Evet | ❌ Hayır | Yok | Yok | Wi-Fi'de yüksek |
+| DNS değişikliği | ✅ Evet | ❌ Hayır | Yok | Yok | Wi-Fi'da yüksek |
 | VPN | ✅ Evet | ✅ Evet | Orta | Orta | Orta |
 | DNS + VPN | ✅ Evet | ✅ Evet | Orta | Orta | Yüksek |
 
-## Yasal Bağlantı Seçenekleri
+## Türkiye'de Yasal eSIM Bağlantı Seçenekleri
 
-Önceden yüklenmiş bir seyahat eSIM'i en basit yasal seçenektir. Her iki düzenleyici yoldan da kaçınır: IMEI tetikleyicisi yok ve kurulumdan sonra BTK etkileşimi yok. Yerel SIM'ler bir Türk numarası sağlar ancak IMEI sayacını tetikler.
+Önceden yüklenmiş bir seyahat eSIM'i en basit yasal seçenektir. Her iki düzenleyici takipten de kaçınır: kurulumdan sonra ne IMEI tetikleyicisi ne de BTK etkileşimi. Yerel SIM'ler Türk numarası sağlar ancak IMEI sayacını tetikler.
 
-### Türkiye için Önceden Yüklenmiş Seyahat eSIM
+### Seçenek 1: Önceden Yüklenmiş Seyahat eSIM
 
-Kalkıştan önce satın alın, Wi-Fi'de yükleyin, inişte etkinleştirin. Bu en basit seçenektir. BTK engeli zaten yüklü bir eSIM'i etkilemez.
+Yola çıkmadan önce satın alın, Wi-Fi'da yükleyin, indikten sonra etkinleştirin. Bu en basit seçenektir. BTK engeli, halihazırda yüklenmiş bir eSIM'i etkilemez.
 
 **Düzenleyici profil:** IMEI tetikleyicisi yok, kayıt yok, kurulumdan sonra BTK etkileşimi yok.
-**Maliyet:** $1,99'dan başlar.
-**En uygun:** 1–4 hafta kalan turistler.
+**Maliyet:** 2,99 $'dan itibaren.
+**En uygun:** 1–4 hafta kalan turistler için.
 
-### Türkiye eSIM için Engellenmemiş Sağlayıcı
+### Seçenek 2: İndikten Sonra Engellenmemiş Sağlayıcı
 
-Az sayıda sağlayıcı Türk ağlarından erişilebilir durumda kalır. Klook en dikkat çekenidir. Bu, geldikten sonra satın alması gereken gezginler için bir yedek seçenektir.
+Az sayıda sağlayıcı Türk ağlarından erişilebilir kalıyor. En dikkat çekeni Klook. Bu, varış sonrası satın alması gereken gezginler için bir yedek seçenektir.
 
 **Düzenleyici profil:** IMEI tetikleyicisi yok, kayıt yok.
 **Maliyet:** Sağlayıcıya göre değişir.
-**En uygun:** İnişten sonra acil satın alma.
+**En uygun:** İniş sonrası acil satın alma için.
 
-### Türkiye eSIM Kullanıcıları için Yerel Türk SIM'i
+### Seçenek 3: Yerel Türk SIM'i
 
-Bu, bir Türk telefon numarası sağlayan tek seçenektir. Pasaport kaydı gerektirir ve IMEI sayacını tetikler.
+Bu, Türk telefon numarası sağlayan tek seçenektir. Pasaport kaydı gerektirir ve IMEI sayacını tetikler.
 
 **Düzenleyici profil:** IMEI tetikleyicisi başlar, pasaport kaydı gerekir.
-**Maliyet:** Aktivasyon ücretlerinden sonra $20–$38.
-**En uygun:** Uzun konaklamalar ve Türk numarası gerektiren iş ihtiyaçları.
+**Maliyet:** Aktivasyon ücretlerinden sonra 20–38 $.
+**En uygun:** Türk numarası gerektiren uzun konaklamalar ve iş ihtiyaçları için.
 
-### Türkiye eSIM için Ev Operatörü Dolaşımı
+### Seçenek 4: Ana Operatör Dolaşımı
 
-Türkiye'de ev SIM'inizi kullanın. Kurulum yok, kayıt yok, IMEI sorunu yok. Dolaşım ücretleri aşırı olabilir.
+Türkiye'de ana SIM'inizi kullanın. Kurulum yok, kayıt yok, IMEI sorunu yok. Dolaşım ücretleri aşırı olabilir.
 
 **Düzenleyici profil:** IMEI tetikleyicisi yok, kayıt yok.
-**Maliyet:** Birçok İngiltere operatörü için günde £6–£8.
-**En uygun:** Maliyetin sorun olmadığı çok kısa geziler.
+**Maliyet:** Birçok İngiliz operatörü için günde 6–8 £.
+**En uygun:** Maliyetin önemli olmadığı çok kısa geziler için.
 
-### Türkiye eSIM için Wi-Fi Artı VPN
+### Seçenek 5: Wi-Fi Artı VPN
 
-Önceden yüklenmiş bir eSIM'iniz varsa ve ek yükleme yapamıyorsanız, bir VPN sağlayıcının web sitesine erişimi geri yükleyebilir. Bu bir geçici çözümdür, birincil çözüm değildir.
+Önceden yüklenmiş bir eSIM'iniz varsa ve kontör yükleyemiyorsanız, VPN sağlayıcının web sitesine erişimi geri getirebilir. Bu bir geçici çözümdür, birincil çözüm değil.
 
 **Düzenleyici profil:** IMEI tetikleyicisi yok, kayıt yok.
 **Maliyet:** VPN aboneliğiyle ücretsiz.
-**En uygun:** Yalnızca yedek bağlantı.
+**En uygun:** Yalnızca yedek bağlantı için.
 
-### Türkiye eSIM için Uydu İletişimi
+### Seçenek 6: Uydu Mesajlaşma
 
-Bazı yeni telefonlar acil durumlar için uydu mesajlaşmasını destekler. Bu birincil bir bağlantı seçeneği değildir, ancak hücresel kapsama olmayan uzak bölgelerde bir güvenlik yedeği olabilir.
+Bazı yeni telefonlar acil durumlar için uydu mesajlaşmasını destekler. Bu birincil bir bağlantı seçeneği değildir, ancak hücresel kapsamanın olmadığı uzak bölgelerde bir güvenlik yedeği olabilir.
 
 **Düzenleyici profil:** IMEI tetikleyicisi yok, kayıt yok.
-**Maliyet:** Sağlayıcıya ve plana göre değişir.
-**En uygun:** Uzak bölgelerde acil durum yedeği.
+**Maliyet:** Sağlayıcıya ve pakete göre değişir.
+**En uygun:** Uzak bölgelerde acil durum yedeği için.
 
-### Yasal Türkiye eSIM Seçenekleri Karşılaştırması
+### Altı Yasal Seçeneğin Karşılaştırılması
 
-| Seçenek | Kurulum | Yerel numara | IMEI tetikleyicisi | Maliyet | En uygun |
+Bu çözümlerin hiçbiri Türk kurallarını bükmeyi gerektirmez — her biri regülatörün izin verdiği sınırlar içinde kalır.
+
+| Seçenek | Kurulum | Yerel numara | IMEI tetikleyici | Maliyet | En uygun |
 |---|---|---|---|---|---|
-| Önceden yüklenmiş seyahat eSIM | Kalkıştan önce | Hayır | Hayır | $1,99'dan itibaren | Çoğu turist |
-| Engellenmemiş sağlayıcı | Geldikten sonra | Hayır | Hayır | Değişir | Acil satın alma |
-| Yerel operatör SIM'i | Mağazada, pasaport | Evet | Evet | $20–$38 | Uzun konaklamalar, yerel numara |
-| Ev SIM'i dolaşımı | Yok | Ev numarası | Hayır | £6–8/gün | Kısa geziler, maliyet önemsiz |
-| Wi-Fi artı VPN | Varışta | Hayır | Hayır | VPN ile ücretsiz | Yalnızca yedek |
-| Uydu mesajlaşması | Yok | Hayır | Hayır | Değişir | Acil durum yedeği |
+| Önceden yüklenmiş seyahat eSIM | Yola çıkmadan önce | Hayır | Hayır | 2,99 $'dan itibaren | Çoğu turist |
+| Engellenmemiş sağlayıcı | Vardıktan sonra | Hayır | Hayır | Değişken | Acil satın alma |
+| Yerel operatör SIM | Mağazada, pasaportlu | Evet | Evet | 20–38 $ | Uzun konaklamalar, yerel numara |
+| Ana SIM dolaşımı | Yok | Ana numara | Hayır | Günde 6–8 £ | Kısa geziler, maliyet önemsiz |
+| Wi-Fi artı VPN | Varış yerinde | Hayır | Hayır | VPN ile ücretsiz | Yalnızca yedek |
+| Uydu mesajlaşma | Yok | Hayır | Hayır | Değişken | Acil durum yedeği |
 
-Önceden yüklenmiş bir eSIM hem platform engelinden hem de IMEI sayacından aynı anda kaçınır, bu yüzden çoğu gezgin için varsayılan seçenektir.
+Önceden yüklenmiş bir eSIM, hem platform engelini hem de IMEI sayacını tek seferde önler; bu yüzden çoğu gezgin için varsayılan seçimdir.
 
-## BTK Mitleri ve Gerçekler
+## BTK eSIM Mitleri ve Gerçekler
 
-En yaygın yanılgı, eSIM'in Türkiye'de yasak olduğudur. Gerçek daha dardır: BTK yabancı sağlayıcı platformlarına erişimi engelledi, teknolojiyi değil. Önceden yüklenmiş bir eSIM normal çalışır.
+En yaygın yanılgı, eSIM'in Türkiye'de yasak olduğudur. Gerçek daha dardır: BTK, yabancı sağlayıcı platformlarına erişimi engelledi, teknolojiyi değil. Önceden yüklenmiş bir eSIM normal şekilde çalışır.
 
 ### Mit: eSIM Türkiye'de Yasak
 
-**Gerçek:** eSIM teknolojisi yasaldır ve çalışır durumdadır. Türk operatörler eSIM satar. BTK yabancı sağlayıcı platformlarına erişimi engelledi, teknolojiyi değil.
+**Gerçek:** eSIM teknolojisi yasal ve çalışır durumdadır. Türk operatörleri eSIM satmaktadır. BTK, yabancı sağlayıcı platformlarına erişimi engelledi; teknolojiyi değil.
 
-### Mit: Türkiye eSIM'iniz İndiğinizde Çalışmayı Durdurur
+### İndiğinizde eSIM'iniz Çalışmayı Durdurur mu?
 
 **Gerçek:** Mayıs 2026 İstanbul saha testinde, on beşten fazla önceden yüklenmiş eSIM başarıyla bağlandı. Engel satın almayı hedefler, kullanmayı değil.
 
-### Mit: İstanbul Havaalanında Türkiye eSIM Satın Alabilirsiniz
+### İstanbul Havalimanında eSIM Satın Alabilir misiniz?
 
-**Gerçek:** Havaalanı Wi-Fi'si engellenen siteleri tutarsız şekilde yükleyebilir. Havaalanı SIM gişeleri yerel SIM'leri pasaport kaydıyla premium fiyatlarla satar. Havaalanı satın alımları etrafında plan yapmayın.
+**Gerçek:** Havalimanı Wi-Fi'ı engellenmiş siteleri tutarsız şekilde yükleyebilir. Havalimanı SIM tezgahları, pasaport kaydıyla yerel SIM'leri yüksek fiyatlarla satar. Planınızı havalimanı satın alımlarına göre yapmayın.
 
-### Mit: Türkiye eSIM Yasağı Yalnızca Airalo ve Holafly'yi Etkiler
+### Mit: Sadece Airalo ve Holafly'yi Etkiler
 
-**Gerçek:** 50'den fazla sağlayıcının engellendiği onaylanmıştır, bunlar arasında Saily, Nomad, Ubigi, Instabridge, Mobimatter, Alosim, BNESIM, Jetpac, Maya Mobile, Roamless, Yesim, GigSky, Flexiroam, Airhub, Sim Local, Keepgo, Roamify, eTravelSim, RedteaGo ve GoMoWorld bulunur.
+**Gerçek:** Saily, Nomad, Ubigi, Instabridge, Mobimatter, Alosim, BNESIM, Jetpac, Maya Mobile, Roamless, Yesim, GigSky, Flexiroam, Airhub, Sim Local, Keepgo, Roamify, eTravelSim, RedteaGo ve GoMoWorld dahil 50'den fazla sağlayıcının engellendiği doğrulanmıştır.
 
-### Mit: Türkiye eSIM Engeli Geçicidir
+### Engel Kalıcı Olarak Gitmiyor
 
-**Gerçek:** Engel 10 Temmuz 2025'ten beri yürürlüktedir ve üç resmi BTK kararıyla genişletilmiştir. 2026 ortası itibarıyla yürürlükte kalmaktadır.
+**Gerçek:** Engel 10 Temmuz 2025'ten beri yürürlükte ve üç resmi BTK kararıyla genişledi. 2026 ortası itibarıyla yürürlükte kalıyor.
 
-### Mit: Bir VPN Türkiye eSIM için Her Şeyi Çözer
+### VPN Her Şeyi Çözer mi?
 
-**Gerçek:** Bir VPN web sitesi erişimi için engeli atlayabilir. Sağlayıcı platformu engelliyse hesap yönetimini, ek yüklemeyi veya desteği geri yüklemez. Güvenilir çözüm, kalkıştan önce satın almak ve yüklemektir.
+**Gerçek:** VPN, web sitesi erişimi için engeli aşabilir. Sağlayıcı platformu engellenmişse hesap yönetimini, kontör yüklemeyi veya desteği geri getirmez. Güvenilir çözüm, yola çıkmadan önce satın almak ve yüklemektir.
 
-### Mit: Türkiye eSIM Yasa Dışıdır
+### Mit: Türkiye'de eSIM Kullanmak Yasadışıdır
 
-**Gerçek:** Türkiye'de eSIM kullanmak yasa dışı değildir. Kısıtlamalar lisanssız yabancı eSIM platformları için geçerlidir. Bir turistin kullandığı önceden yüklenmiş seyahat eSIM'i yasaldır.
+**Gerçek:** Türkiye'de eSIM kullanmak yasadışı değildir. Kısıtlamalar, Türk ağları içinde çalışan lisanssız yabancı eSIM platformlarına uygulanır. Bir turist tarafından kullanılan önceden yüklenmiş bir seyahat eSIM'i yasaldır.
 
-### Mit: IMEI Kuralı Türkiye eSIM Turistleri için Geçerlidir
+### Mit: IMEI Kuralı Turistler için Geçerlidir
 
-**Gerçek:** IMEI kuralı Türk ağlarında 120 günden fazla kullanılan yabancı telefonlar için geçerlidir. İki haftalık bir turist bu eşiğe asla ulaşmaz. Kural uzun süreli ziyaretçileri ve dijital göçebeleri etkiler.
+**Gerçek:** IMEI kuralı, Türk ağlarında 120 günden fazla kullanılan yabancı telefonlar için geçerlidir. İki haftalık bir turist bu eşiğe asla ulaşmaz. Kural, uzun süreli ziyaretçileri ve dijital göçebeleri etkiler.
 
-### Mit: Seyahat eSIM IMEI Sayacını Tetikler
+### Mit: Seyahat eSIM'i IMEI Sayacını Tetikler
 
-**Gerçek:** Uluslararası bir sağlayıcıdan seyahat eSIM'i dolaşım yoluyla çalışır ve tipik olarak IMEI sayacını tetiklemez. Sayaç, yabancı bir cihaza Türk SIM'i takılarak tetiklenir.
+**Gerçek:** Uluslararası bir sağlayıcıdan alınan seyahat eSIM'i dolaşım üzerinden çalışır ve genellikle IMEI sayacını tetiklemez. Sayaç, yabancı bir cihaza Türk SIM takıldığında tetiklenir.
 
-### Mit: Yerel Türk eSIM'leri Engellidir
+### Yerel Türk eSIM'leri de Engelleniyor mu?
 
-**Gerçek:** Turkcell, Vodafone Turkey ve Türk Telekom'dan yerel Türk eSIM'leri yurt içinde satılır ve yabancı platformlara yönelik engelden etkilenmez.
+**Gerçek:** Turkcell, Vodafone Türkiye ve Türk Telekom'un yerel Türk eSIM'leri yurt içinde satılır ve yabancı platformlara uygulanan engelden etkilenmez.
 
-### Mit: BTK Engeli Wi-Fi'yi Etkiler
+### Mit: BTK Engeli Wi-Fi'ı Etkiler
 
-**Gerçek:** Engel Türk mobil ağlarında DNS düzeyinde uygulanır. Google DNS veya Cloudflare DNS kullanan otel ve havaalanı Wi-Fi'si filtreyi atlayabilir. Bu güvenilir değildir.
+**Gerçek:** Engelleme, Türk mobil ağlarında DNS düzeyinde uygulanır. Google DNS veya Cloudflare DNS kullanan otel ve havalimanı Wi-Fi'ları filtreyi aşabilir. Bu güvenilir değildir.
 
-### Mit: Türkiye İçinden Bir Türkiye eSIM'e Ek Yükleme Yapabilirsiniz
+### İndikten Sonra Kontör Yükleyebilir misiniz?
 
-**Gerçek:** Sağlayıcınız engelliyse, Türk mobil ağlarından web sitelerine veya uygulamalarına erişemezsiniz. Tüm gezinizi kapsayacak kadar veriyi önceden satın alın.
+**Gerçek:** Sağlayıcınız engellendiyse, Türk mobil ağlarından web sitesine veya uygulamasına erişemezsiniz. Tüm gezinizi kapsayacak kadar veriyi baştan satın alın.
 
-## Hâlâ Çalışanlar
+## Türkiye'de Hâlâ Çalışanlar
 
-Pratik kurallar basittir: kalkıştan önce satın alın, kırsal rotalar için Turkcell'i seçin, SMS için ev SIM'inizi koruyun, ek yükleme bağımlılığından kaçının ve destek erişimini bir özellik olarak görün. Bu beş kural çoğu gezgin senaryosunu kapsar.
+Pratik kurallar basittir: yola çıkmadan önce satın alın, kırsal rotalar için Turkcell'i seçin, SMS için ana SIM'inizi canlı tutun, kontör yüklemeye bağımlı kalmayın ve desteğe erişimi bir özellik olarak değerlendirin. Bu beş kural, gezgin senaryolarının çoğunu kapsar.
 
-### Türkiye eSIM için Kalkıştan Önce Satın Alın
+### Kural 1: Yola Çıkmadan Önce Satın Alın ve Yükleyin
 
-Engellenen sağlayıcılar için tek güvenilir yol, kalkıştan önce satın alma ve kurulumdur. Wi-Fi'de yükleyin, QR kodunu çevrimdışı kaydedin ve inişe kadar dolaşımı kapalı tutun. Tam satın alma iş akışı için [satın alma rehberini](/blog/buy-turkey-esim-online/) okuyun.
+Engellenmiş sağlayıcılar için tek güvenilir yol, yola çıkmadan önce satın alma ve yüklemedir. Wi-Fi'da yükleyin, QR kodunu çevrimdışı kaydedin ve inişe kadar dolaşımı kapalı tutun. Tam satın alma iş akışı için [satın alma rehberini](/blog/buy-turkey-esim-online/) okuyun.
 
-### Kırsal Türkiye eSIM Rotaları için Turkcell'i Seçin
+### Kural 2: Kırsal Rotalar İçin Turkcell'i Seçin
 
-Turkcell, özellikle Kapadokya, Doğu Türkiye, Karadeniz kıyısı ve kırsal otoyollarda en iyi ülke çapında kapsama sağlar. Vodafone Ege ve Akdeniz kıyılarında güçlüdür. Türk Telekom şehirlerde en güçlüdür. [Üç ağ karşılaştırmasına](/blog/turkcell-vodafone-turk-telekom-esim/) bakın.
+Turkcell, özellikle Kapadokya, doğu Türkiye, Karadeniz kıyısı ve kırsal karayollarında en iyi ulusal kapsamaya sahiptir. Vodafone, Ege ve Akdeniz kıyılarında güçlüdür. Türk Telekom şehirlerde en güçlüdür. [Üç ağ karşılaştırmasına](/blog/turkcell-vodafone-turk-telekom-esim/) bakın.
 
-### Türkiye eSIM'de SMS için Ev SIM'ini Koruyun
+### Kural 3: SMS İçin Ana SIM'inizi Canlı Tutun
 
-Seyahat eSIM'i yalnızca veridir. Banka 2FA kodlarını ve WhatsApp doğrulamasını alabilmek için ev SIM'inizi Sesli Arama ve SMS için aktif tutun. [Yalnızca veri rehberini](/blog/turkey-esim-number-calls-sms-hotspot/) okuyun.
+Bir seyahat eSIM'i yalnızca veridir. Banka 2FA kodlarını ve WhatsApp doğrulamasını alabilmeniz için ana SIM'inizi Ses ve SMS için etkin tutun. [Yalnızca veri rehberini](/blog/turkey-esim-number-calls-sms-hotspot/) okuyun.
 
-### Türkiye eSIM'de Ek Yükleme Bağımlılığından Kaçının
+### Kural 4: Asla Kontör Yüklemeye Göre Plan Yapmayın
 
-Sağlayıcınız engelliyse, Türkiye içinden ek yükleme yapamazsınız. Tüm gezi için yeterli veriyi önceden satın alın. Plan boyutu hesaplaması için [plan boyutu rehberini](/blog/cheapest-turkey-esim/) okuyun.
+Sağlayıcınız engellendiyse, Türkiye içinden kontör yükleyemezsiniz. Tüm gezi için gereken veriyi baştan satın alın. Paket boyutlandırma hesabı için [paket boyutlandırma rehberini](/blog/cheapest-turkey-esim/) okuyun.
 
-### Türkiye eSIM için Destek Erişimini Bir Özellik Olarak Görün
+### Kural 5: Destek Erişimini Bir Özellik Olarak Değerlendirin
 
-İnişten sonra etkinleştirme başarısız olursa, desteğe ulaşılabilmelidir. Wi-Fi üzerinden çalışan insan sohbeti olan bir sağlayıcı, Türkiye'de yalnızca e-posta desteği olan daha ucuz bir sağlayıcıdan daha kullanışlıdır.
+İnişten sonra aktivasyon başarısız olursa, desteğe ulaşılabilir olmalıdır. Wi-Fi üzerinden çalışan insanlı sohbeti olan bir sağlayıcı, Türkiye'de yalnızca e-posta desteği olan daha ucuz bir sağlayıcıdan daha yararlıdır. Destek erişimi açığı, en çok belgelenen şikayet örüntüsüdür — gerçekte neyin ters gittiği için [Türkiye eSIM Reddit şikayet ve güvenilirlik kontrollerine](/blog/turkey-esim-reddit-reviews-legit/) bakın.
 
-### Türkiye eSIM ile Uçmadan Önce Test Edin
+### Uçmadan Önce Kurulumu Test Edin
 
-eSIM'i Wi-Fi'de yükleyin, Ayarlar'da göründüğünü doğrulayın, ICCID'nin görünür olduğunu doğrulayın ve veri dolaşımını kapalı tutun. Profil, inişten sonra dolaşımı etkinleştirene kadar pasif kalır. Bu test çoğu kurulum hatasını önler. Tam aktivasyon iş akışı için [APN sorun giderme rehberini](/blog/how-turkey-esim-works-activation/) okuyun.
+eSIM'i Wi-Fi'da yükleyin, Ayarlar'da göründüğünü doğrulayın, ICCID'nin göründüğünü doğrulayın ve veri dolaşımını kapalı tutun. Profil, inişten sonra dolaşımı etkinleştirene kadar uykuda kalır. Bu test, kurulum hatalarının çoğunu önler. Tam aktivasyon iş akışı için [APN sorun giderme rehberini](/blog/how-turkey-esim-works-activation/) okuyun.
 
-### Yedek Türkiye eSIM Yükleyin
+### Güvenlik Ağı Olarak Yedek eSIM Yükleyin
 
-Telefonunuz çift eSIM destekliyorsa, Klook gibi engellenmemiş bir sağlayıcıdan yedek bir eSIM yükleyin. Bu, birincil eSIM'iniz başarısız olursa size bir geri dönüş sağlar. Çift eSIM uyumluluğu için [Apple'ın eSIM uyumluluk belgelerine](https://support.apple.com/en-us/HT209096) bakın.
+Telefonunuz çift eSIM destekliyorsa, Klook gibi engellenmemiş bir sağlayıcıdan yedek bir eSIM yükleyin. Bu, birincil eSIM'iniz başarısız olursa size bir çözüm sağlar. Sıfır maliyetli bir sürüm de işe yarar: bazı sağlayıcılar deneme verisi verir ve [ücretsiz eSIM deneme seçenekleri](/free-esim/) sayfası hangilerinin kart gerektirmediğini toplar. Çift eSIM uyumluluğu için [Apple'ın eSIM uyumluluk belgelerine](https://support.apple.com/en-us/HT209096) bakın.
 
-### Türkiye eSIM için Çevrimdışı Haritalar İndirin
+### Sigorta Olarak Çevrimdışı Haritaları İndirin
 
-Uçmadan önce varış noktalarınız için çevrimdışı haritalar indirin. Bu Kapadokya, Blue Cruise rotaları ve güvenilmez sinyali olan herhangi bir yer için gereklidir. [Türkiye eSIM turist varış noktası rehberine](/blog/turkey-esim-tourists-istanbul-antalya/) bakın.
+Uçmadan önce varış yerleriniz için çevrimdışı haritaları indirin. Bu, Kapadokya, Mavi Yolculuk rotaları ve sinyalin güvenilmez olduğu her yer için gereklidir. [Türkiye eSIM turist destinasyon rehberine](/blog/turkey-esim-tourists-istanbul-antalya/) bakın.
 
-## Gerçek Örnek: Priya, Beş Aylık Konaklamada Dijital Göçebe
+## Gerçek Örnek: Beş Aylık Konaklamada Dijital Göçebe Priya
 
-Priya geldiğinde yerel bir SIM aldı ve farkında olmadan 120 günlük IMEI sayacını tetikledi. Önceden yüklenmiş bir seyahat eSIM'i onu kayıt olmadan, IMEI riski olmadan ve sonunda sürpriz bir ücret olmadan çevrimiçi tutardı.
+Priya, varışta yerel bir SIM satın aldı ve farkında olmadan 120 günlük IMEI sayacını tetikledi. Önceden yüklenmiş bir seyahat eSIM'i, kayıt olmadan, IMEI riski olmadan ve sonunda sürpriz ücret olmadan onu çevrimiçi tutardı.
 
-## Konaklama Sürenizin Değiştirdikleri
+## Konaklama Süreniz eSIM'iniz İçin Neyi Değiştirir?
 
-| Konaklama süresi | Neye ihtiyacınız var | En iyi seçim |
+| Konaklama süresi | İhtiyacınız olan | En iyi seçim |
 | --- | --- | --- |
-| 30 günün altında | Yalnızca veri | Önceden yüklenmiş seyahat eSIM |
-| Bir ila dört ay | Veri artı 2FA | eSIM verisi + SMS için ev SIM'i |
-| Dört ay artı | Yerel numara, kayıtlı IMEI | Pasaportlu yerel SIM |
+| 30 günden az | Yalnızca veri | Önceden yüklenmiş seyahat eSIM |
+| Bir ila dört ay | Veri artı 2FA | eSIM veri + SMS için ana SIM |
+| Dört ay ve üzeri | Yerel numara, kayıtlı IMEI | Pasaportlu yerel SIM |
 
-## SSS: Yasak ve IMEI
+## SSS: Türkiye eSIM Yasağı ve IMEI
 
-### Türkiye'de eSIM yasak mı?
+### eSIM Türkiye'de yasak mı?
 
-Hayır. eSIM teknolojisi yasaldır ve çalışır durumdadır. BTK, 50'den fazla uluslararası eSIM sağlayıcısının web sitelerine ve uygulamalarına Türkiye içinden erişimi engelledi.
+Hayır. eSIM teknolojisi yasal ve çalışır durumdadır. BTK, 50'den fazla uluslararası eSIM sağlayıcının web sitelerine ve uygulamalarına Türkiye içinden erişimi engelledi.
 
 ### Platform engeli nedir?
 
-Bir platform engeli belirli web sitelerine ve uygulamalara erişimi engeller. Bir teknoloji yasağı, eSIM profillerinin Türk ağlarında çalışmasını engellerdi. Türkiye bir platform engeli uygulamıştır.
+Platform engeli, belirli web sitelerine ve uygulamalara erişimi engeller. Bir teknoloji yasağı, eSIM profillerinin Türk ağlarında çalışmasını engellerdi. Türkiye bir platform engeli uygulamıştır.
 
 ### Resmi BTK karar numaraları nelerdir?
 
-Üç engelleme kararı E-98966759-450.08-36681 (10 Temmuz 2025), E-98966759-450.08-37512 (17 Temmuz 2025) ve E-98966759-450.08-48093 (15 Eylül 2025)'tir.
+Üç engelleme kararı şunlardır: E-98966759-450.08-36681 (10 Temmuz 2025), E-98966759-450.08-37512 (17 Temmuz 2025) ve E-98966759-450.08-48093 (15 Eylül 2025).
 
-### Hangi sağlayıcılar engellidir?
+### Hangi sağlayıcılar engellenmiş?
 
-Airalo, Holafly, Saily, Nomad, Ubigi, GigSky, Flexiroam, Yesim, Jetpac, Maya Mobile, Roamless, BNESIM, Alosim, Instabridge, Mobimatter ve daha birçokları. 50'den fazla sağlayıcının engellendiği onaylanmıştır.
+Airalo, Holafly, Saily, Nomad, Ubigi, GigSky, Flexiroam, Yesim, Jetpac, Maya Mobile, Roamless, BNESIM, Alosim, Instabridge, Mobimatter ve diğer birçok sağlayıcı. 50'den fazla sağlayıcının engellendiği doğrulanmıştır.
 
-### Hangi sağlayıcılar engelli değildir?
+### Hangi sağlayıcılar engellenmemiş?
 
-Klook, onaylanmış BTK engel listesinde olmayan birkaç sağlayıcıdan biridir. Engellenmeyen liste sık sık değişir, bu yüzden uzun vadeli bir strateji olarak ona güvenmeyin.
+Klook, doğrulanmış BTK engelleme listesinde olmayan birkaç sağlayıcıdan biridir. Engellenmemiş liste sık sık değiştiği için bunu uzun vadeli bir strateji olarak görmeyin.
 
 ### İndikten sonra eSIM'imi kullanabilir miyim?
 
-Evet, kalkıştan önce yüklendiyse. Önceden yüklenmiş eSIM'ler normal şekilde bağlanır. Engel, eSIM satın almayı ve yönetmeyi hedefler, kullanmayı değil.
+Evet, yola çıkmadan önce yüklendiyse. Önceden yüklenmiş eSIM'ler normal şekilde bağlanır. Engel, eSIM satın almayı ve yönetmeyi hedefler, kullanmayı değil.
 
-### Geldikten sonra Türkiye eSIM satın alabilir miyim?
+### Vardıktan sonra Türkiye eSIM satın alabilir miyim?
 
-Çoğu engellenen sağlayıcı için hayır. Havaalanı Wi-Fi'si tutarsızdır. Havaalanı SIM gişeleri pahalıdır ve pasaport kaydı gerektirir. Klook yedek olarak erişilebilir olabilir.
+Engellenmiş çoğu sağlayıcı için hayır. Havalimanı Wi-Fi'ı tutarsızdır. Havalimanı SIM tezgahları pahalıdır ve pasaport kaydı gerektirir. Klook yedek olarak erişilebilir olabilir.
 
-### Türkiye içinden ek yükleme yapabilir miyim?
+### Türkiye içinden kontör yükleyebilir miyim?
 
-Hayır, sağlayıcınız engelliyse yapamazsınız. Tüm gezinizi kapsayacak kadar veriyi önceden satın alın.
+Hayır, sağlayıcınız engellendiyse. Tüm gezinizi kapsayacak kadar veriyi baştan satın alın.
 
-### BTK engeli Wi-Fi'yi etkiler mi?
+### BTK engeli Wi-Fi'ı etkiler mi?
 
-Engel Türk mobil ağlarında DNS düzeyinde uygulanır. Google DNS veya Cloudflare DNS kullanan otel ve havaalanı Wi-Fi'si filtreyi atlayabilir. Bu güvenilir değildir.
+Engelleme, Türk mobil ağlarında DNS düzeyinde uygulanır. Google DNS veya Cloudflare DNS kullanan otel ve havalimanı Wi-Fi'ları filtreyi aşabilir. Bu güvenilir değildir.
 
-### Bir VPN engeli atlayabilir mi?
+### VPN engeli aşabilir mi?
 
-Bir VPN trafiği Türkiye dışına yönlendirebilir ve web sitesi erişimini geri yükleyebilir. Hesap yönetimini, ek yüklemeyi veya desteği geri yüklemez. Bu bir geçici çözümdür, birincil çözüm değildir.
+VPN, trafiği Türkiye dışına yönlendirebilir ve web sitesi erişimini geri getirebilir. Hesap yönetimini, kontör yüklemeyi veya desteği geri getirmez. Bu bir geçici çözümdür, birincil çözüm değildir.
 
 ### 120 günlük IMEI kuralı nedir?
 
-Türk ağlarında 120 günden fazla kullanılan yabancı telefonlar BTK'ya kaydettirilmelidir veya Türk mobil ağlarından engellenir. 2026 ücreti 54.258 TL, yaklaşık 1.200 ABD dolarıdır.
+Türk ağlarında 120 günden fazla kullanılan yabancı telefonların BTK'ya kaydettirilmesi gerekir, aksi halde Türk mobil ağlarından engellenir. 2026 ücreti 54.258 TL, yaklaşık 1.200 ABD dolarıdır.
 
-### Seyahat eSIM IMEI sayacını tetikler mi?
+### Seyahat eSIM'i IMEI sayacını tetikler mi?
 
-Uluslararası bir sağlayıcıdan seyahat eSIM'i dolaşım yoluyla çalışır ve tipik olarak IMEI sayacını tetiklemez. Yerel bir Türk SIM'i onu tetikler.
+Uluslararası bir sağlayıcıdan alınan seyahat eSIM'i dolaşım üzerinden çalışır ve genellikle IMEI sayacını tetiklemez. Yerel bir Türk SIM ise tetikler.
 
 ### 240 günlük eSIM uzatması neydi?
 
-Çift SIM ve eSIM telefonların her SIM yuvasını ayrı bir 120 günlük pencere için kullanarak IMEI sayacını 240 güne uzatmasına izin veren bir açıktı. BTK bunu 1 Mayıs 2026'dan itibaren kapattı, böylece yabancı bir telefon artık tek bir 120 günlük sayaç alır.
+Çift SIM'li ve eSIM'li telefonların, her SIM yuvasını ayrı bir 120 günlük pencere için kullanarak IMEI sayacını 240 güne kadar uzatmasını sağlayan bir açıktı. BTK bunu 1 Mayıs 2026'da yürürlüğe girerek kapattı; artık yabancı bir telefon tek bir 120 günlük sayaç alıyor.
 
 ### IMEI kayıt ücreti nedir?
 
-Ücret 54.258 Türk Lirası, yaklaşık 1.200 ABD dolarıdır. Ödeme e-Devlet üzerinden yapılır, ardından bir başvuru ve onay gelir.
+Ücret 54.258 Türk Lirası, yaklaşık 1.200 ABD dolarıdır. Ödeme e-Devlet üzerinden yapılır, ardından başvuru ve onay gelir.
 
-### IMEI kuralı yalnızca eSIM telefonlar için geçerli mi?
+### IMEI kuralı yalnızca eSIM'li telefonlar için geçerli mi?
 
-Evet. Bir Türk mobil ağına bağlanan her yabancı telefon IMEI kuralına tabidir. Uluslararası bir sağlayıcıdan seyahat eSIM'i sayacı tetiklemez.
+Evet. Türk mobil ağına bağlanan her yabancı telefon IMEI kuralına tabidir. Uluslararası bir sağlayıcıdan alınan seyahat eSIM'i sayacı tetiklemez.
 
-### FCDO Türkiye eSIM'leri hakkında ne diyor?
+### FCDO, Türkiye eSIM'leri hakkında ne diyor?
 
-FCDO, Türkiye içinde bazı uluslararası eSIM hizmetlerine erişimin kısıtlandığı konusunda uyarır. Gezginlere kalkıştan önce eSIM'lerini indirmelerini, yapılandırmalarını ve etkinleştirmelerini tavsiye eder.
+FCDO, bazı uluslararası eSIM hizmetlerine Türkiye içinde erişimin kısıtlandığı konusunda uyarır. Gezginlere eSIM'lerini yola çıkmadan önce indirmelerini, yapılandırmalarını ve etkinleştirmelerini önerir.
 
-### Yerel Türk eSIM'leri engelden etkilenir mi?
+### Yerel Türk eSIM'leri engelden etkileniyor mu?
 
-Hayır. Turkcell, Vodafone Turkey ve Türk Telekom'dan yerel Türk eSIM'leri yurt içinde satılır ve yabancı platformlara yönelik engelden etkilenmez.
+Hayır. Turkcell, Vodafone Türkiye ve Türk Telekom'un yerel Türk eSIM'leri yurt içinde satılır ve yabancı platformlara uygulanan engelden etkilenmez.
 
-### Türkiye eSIM yasa dışı mı?
+### Türkiye eSIM yasadışı mı?
 
-Hayır. Türkiye'de eSIM kullanmak yasa dışı değildir. Kısıtlamalar Türk ağlarında faaliyet gösteren lisanssız yabancı eSIM platformları için geçerlidir.
+Hayır. Türkiye'de eSIM kullanmak yasadışı değildir. Kısıtlamalar, Türk ağları içinde çalışan lisanssız yabancı eSIM platformlarına uygulanır.
 
 ### Türkiye eSIM engeli kalıcı mı?
 
-Engel Temmuz 2025'ten beri yürürlüktedir ve birden fazla BTK kararıyla genişletilmiştir. 2026 ortası itibarıyla kaldırılacağına dair bir işaret yoktur.
+Engel Temmuz 2025'ten beri yürürlükte ve birden fazla BTK kararıyla genişledi. 2026 ortası itibarıyla kaldırılacağına dair bir işaret yok.
 
-### eSIM olmadan gelirsem ne olur?
+### eSIM'siz varışlarımsa ne olur?
 
-Havaalanı Wi-Fi'sini kullanabilir, engellenmemiş bir sağlayıcı deneyebilir veya havaalanı gişesinden yerel bir SIM satın alabilirsiniz. Tüm seçenekler kalkıştan önce satın almaktan daha az uygun ve daha pahalıdır.
+Havalimanı Wi-Fi'ını kullanabilir, engellenmemiş bir sağlayıcı deneyebilir veya havalimanı tezgahından yerel SIM satın alabilirsiniz. Tüm seçenekler, yola çıkmadan önce satın almaktan daha az pratik ve daha pahalıdır.
 
 ### IMEI'm engellenirse ne olur?
 
-Cihaz hiçbir Türk operatöründe arama yapamaz, SMS gönderemez veya mobil veri kullanamaz. Wi-Fi'de hâlâ çalışır. Acil çağrılar (112) bazı ağlarda hâlâ çalışabilir. Engel IMEI'ye uygulanır, SIM veya eSIM'e değil.
+Cihaz hiçbir Türk operatöründe arama yapamaz, SMS gönderemez veya mobil veri kullanamaz. Wi-Fi üzerinde hâlâ çalışır. Acil çağrılar (112) bazı ağlarda hâlâ çalışabilir. Engelleme IMEI'ye uygulanır, SIM'e veya eSIM'e değil.
 
 ### Sadece iki hafta kalıyorsam IMEI'mi kaydettirebilir miyim?
 
-Gerek yok. İki haftalık bir gezide 120 günlük sayaç dolmaz. IMEI kaydı yalnızca 120 günden uzun konaklamalar için geçerlidir.
+Gerekmiyor. 120 günlük sayaç, iki haftalık bir gezi sırasında dolmayacaktır. IMEI kaydı yalnızca 120 günden uzun konaklamalar için geçerlidir.
 
-### eSIM engeli kruvaziyer yolcuları için geçerli mi?
+### eSIM engeli cruise yolcuları için geçerli mi?
 
-Kruvaziyer gemileri tipik olarak uydu interneti kullanır. Türk limanlarına yanaştıklarında, önceden yüklenmiş bir seyahat eSIM'i normal şekilde bağlanır. Yunan adası durakları için hem Türkiye hem de Yunanistan'ı kapsayan bölgesel bir eSIM önerilir. [Bölgesel eSIM ülke listesi rehberine](/blog/turkey-esim-europe-greece-egypt/) bakın.
+Cruise gemileri genellikle uydu interneti kullanır. Türk limanlarında demirliyken, önceden yüklenmiş bir seyahat eSIM'i normal şekilde bağlanır. Yunan adası durakları için hem Türkiye'yi hem de Yunanistan'ı kapsayan bölgesel bir eSIM önerilir. [Bölgesel eSIM ülke listesi rehberine](/blog/turkey-esim-europe-greece-egypt/) bakın.
 
 ### Kilitli bir telefonda Türkiye eSIM kullanabilir miyim?
 
-Hayır. Operatöre kilitli bir telefon üçüncü taraf bir eSIM profili yükleyemez. Önce telefonun kilidini açmalısınız. [EID ve operatör kilidi kontrol rehberine](/blog/turkey-esim-device-compatibility/) bakın.
+Hayır. Operatör kilidi bir telefon, üçüncü taraf bir eSIM profili yükleyemez. Önce telefonun kilidini açmalısınız. [EID ve operatör kilidi kontrol rehberine](/blog/turkey-esim-device-compatibility/) bakın.
 
-### Türkiye'de Avrupa eSIM kullanabilir miyim?
+### Avrupa eSIM'ini Türkiye'de kullanabilir miyim?
 
-Yalnızca plan ülke listesinde Türkiye'yi açıkça içeriyorsa. Birçok "Avrupa" eSIM'i Türkiye'yi hariç tutar. Nomad'ın 36 ülkeli Avrupa planı Türkiye'yi içerir; 35 ülkeli planı içermez.
+Yalnızca paket, ülke listesinde açıkça Türkiye'yi içeriyorsa. Birçok "Avrupa" eSIM'i Türkiye'yi hariç tutar. Nomad'ın 36 ülkeli Avrupa paketi Türkiye'yi içerir; 35 ülkeli paket içermez.
 
-### Türkiye eSIM 5G'yi destekliyor mu?
+### Türkiye eSIM 5G destekliyor mu?
 
-Evet. Türkiye 1 Nisan 2026'da ticari 5G'yi başlattı. Erken 5G hızları ortalama 201 Mbps idi. Turkcell 5G hızında liderdir. Kapsama büyük şehirlerin dışında hâlâ sınırlıdır. Gerçek dünya 5G verileri için [OpenSignal Türkiye raporuna](https://www.opensignal.com/reports/turkey) bakın.
+Evet. Türkiye 1 Nisan 2026'da ticari 5G'yi başlattı. Erken 5G hızları ortalama 201 Mbps'ydi. Turkcell 5G hızında liderdir. Kapsam, büyük şehirlerin dışında hâlâ sınırlıdır. Gerçek dünya 5G verileri için [OpenSignal'in hız ölçümlerine](https://www.opensignal.com/) bakın.
 
 ### BTK engeli ile IMEI kuralı arasındaki fark nedir?
 
-BTK engeli yabancı eSIM sağlayıcı platformlarına erişimi kısıtlar. IMEI kuralı 120 gün sonra cihaz ağ erişimini kısıtlar. Bunlar farklı yaptırım mekanizmalarına sahip ayrı düzenleyici yollardır.
+BTK engeli, yabancı eSIM sağlayıcı platformlarına erişimi kısıtlar. IMEI kuralı, 120 gün sonra cihazın ağ erişimini kısıtlar. Bunlar, farklı uygulama mekanizmalarına sahip ayrı düzenleyici takiplerdir.
 
 ### BTK engeli tüm eSIM sağlayıcılarına uygulanıyor mu?
 
-Hayır. 2026 ortası itibarıyla 20'den fazla sağlayıcı Türk ağlarından erişilebilir durumda kalır. Engel kapsamlı değildir. Ancak liste sık sık değişir, bu yüzden önceden planlama için güvenilir bir strateji değildir.
+Hayır. 2026 ortası itibarıyla 20'den fazla sağlayıcı Türk ağlarından erişilebilir kalıyor. Engel kapsamlı değildir. Ancak liste sık sık değiştiği için önceden planlama için güvenilir bir strateji değildir.
 
-### Uzun bir konaklama için bağlantıda kalmanın en iyi yolu nedir?
+### Uzun konaklama için bağlantıda kalmanın en iyi yolu nedir?
 
-Uzun konaklamalar için, sesli/SMS için yerel bir Türk SIM'i artı veri için bir seyahat eSIM'i en iyi kombinasyondur. 120 günlük IMEI sayacını izleyin ve konaklamanızı uzatırsanız kayıt için plan yapın.
+Uzun konaklamalar için ses/SMS için yerel bir Türk SIM artı veri için bir seyahat eSIM'i en iyi kombinasyondur. 120 günlük IMEI sayacını izleyin ve konaklamanızı uzatırsanız kayıt için plan yapın.
 
-## Son Kontrol Listesi: BTK Engeline Rağmen Bağlantıda Kalmak
+## Son Kontrol Listesi: Türkiye eSIM Engeline Rağmen Bağlı Kalmak
 
-BTK engeli hazırlıkla yönetilebilir. Kalkış öncesi kurulumunuzu doğrulamak, inişe hazırlanmak ve uzun konaklamalar veya acil durumlar için plan yapmak için bu son kontrol listesini kullanın.
+BTK engeli hazırlıkla yönetilebilir. Yola çıkmadan önce kurulumunuzu doğrulamak, inişe hazırlanmak ve uzun konaklamalar veya acil durumlar için plan yapmak için bu son kontrol listesini kullanın.
 
-### Türkiye eSIM ile Uçmadan Önce
+### Uçmadan Önce
 
-- [ ] Kalkıştan önce satın alma ve kuruluma izin veren bir sağlayıcı seçin
-- [ ] eSIM'i güvenilir Wi-Fi'de satın alın
-- [ ] Profili QR kodunu tarayarak yükleyin
-- [ ] eSIM hattını "Turkey" olarak etiketleyin
+- [ ] Yola çıkmadan önce satın almaya ve yüklemeye izin veren bir sağlayıcı seçin
+- [ ] eSIM'i güvenilir Wi-Fi'da satın alın
+- [ ] QR kodunu tarayarak profili yükleyin
+- [ ] eSIM hattını "Türkiye" olarak etiketleyin
 - [ ] İnişe kadar veri dolaşımını KAPALI tutun
 - [ ] QR kodunu ve destek iletişimini çevrimdışı kaydedin
-- [ ] Çevrimdışı haritalar indirin
-- [ ] Arama ve SMS için ev SIM'inizi aktif tutun
-- [ ] Telefonunuzun eSIM uyumlu ve operatör kilidi açık olduğunu doğrulayın
+- [ ] Çevrimdışı haritaları indirin
+- [ ] Arama ve SMS için ana SIM'inizi etkin tutun
+- [ ] Telefonunuzun eSIM uyumlu ve operatör kilidi açılmış olduğunu doğrulayın — emin değilseniz [tam eSIM cihaz listesine](/compatibility/) bakın
 - [ ] Sipariş onayından APN değerini kaydedin
-- [ ] Kalkıştan önce eSIM kurulumunu test edin
+- [ ] Yola çıkmadan önce eSIM kurulumunu test edin
 - [ ] Telefonunuz çift eSIM destekliyorsa yedek bir eSIM yükleyin
 
-### Türkiye eSIM ile İndikten Sonra
+### İnişten Sonra
 
 - [ ] Türkiye eSIM için veri dolaşımını etkinleştirin
 - [ ] Türkiye eSIM'i Mobil Veri hattı olarak ayarlayın
 - [ ] Ağ kaydı için iki ila beş dakika bekleyin
-- [ ] Bir harita veya tarayıcı ile veriyi test edin
-- [ ] Ev SIM'inizde SMS'in çalıştığını doğrulayın
-- [ ] Veri yoksa: APN'yi kontrol edin, telefonu yeniden başlatın, manuel ağ seçimini deneyin
+- [ ] Bir harita veya tarayıcıyla veriyi test edin
+- [ ] SMS'in ana SIM'inizde çalıştığını doğrulayın
+- [ ] Veri yoksa: APN'i kontrol edin, telefonu yeniden başlatın, manuel ağ seçimini deneyin
 
-### Türkiye'de 120 Günden Uzun Konaklamalar için
+### Türkiye'de 120 Günden Uzun Konaklamalar İçin
 
-- [ ] Yerel bir Türk SIM'i kullanıyorsanız IMEI sayacını izleyin
-- [ ] IMEI kaydı planlayın veya Türkiye'den alınmış bir cihaz kullanın
-- [ ] IMEI sayacını tetiklememek için veri için bir seyahat eSIM'i kullanın
-- [ ] Uzun vadeli kullanım için Türkiye'den alınmış bir cihaz düşünün
+- [ ] Yerel Türk SIM kullanıyorsanız IMEI sayacını izleyin
+- [ ] IMEI kaydı için plan yapın veya Türkiye'den satın alınmış bir cihaz kullanın
+- [ ] IMEI sayacını tetiklememek için veri için seyahat eSIM kullanın
+- [ ] Uzun süreli kullanım için Türkiye'den satın alınmış bir cihaz düşünün
 
-### Türkiye'de Acil Durumlar için
+### Türkiye'de Acil Durumlar İçin
 
 - [ ] Acil durum numaralarını çevrimdışı kaydedin (112)
-- [ ] Büyükelçilik iletişiminizi çevrimdışı kaydedin
-- [ ] Daha uzun pil ömrü için bir power bank bulundurun
-- [ ] Telefonunuz destekliyorsa uydu mesajlaşmasını düşünün
+- [ ] Büyükelçinizin iletişimini çevrimdışı kaydedin
+- [ ] Uzatılmış pil ömrü için bir power bank bulundurun
+- [ ] Telefonunuz destekliyorsa uydu mesajlaşmayı düşünün
 - [ ] Afet uyarıları için [AFAD afet ve acil durum uygulamasını](https://www.afad.gov.tr/) indirin
 
-Engel yalnızca inişe kadar beklerseniz ısırır. Roami'den [Türkiye veri planları](/turkey-esim/) kalkıştan önce yüklenir, böylece tüm sorunu atlarlar — $1,99'dan başlayarak yeni kullanıcılar için %20 indirim ve Wi-Fi üzerinden 7/24 destek ile. Tek bir yerde tam resim için [tam Türkiye eSIM rehberine](/blog/turkey-esim-ultimate-guide/) bakın.
+Engel yalnızca inişe kadar beklerseniz etkili olur. Roami'nin [Türkiye veri paketleri](/turkey-esim/) yola çıkmadan önce yüklenir, böylece tüm sorunu atlarsınız — 2,99 $'dan itibaren, yeni kullanıcı paketlerinde web20 koduyla %20 indirim ve Wi-Fi üzerinden 7/24 destek. Her şeyi tek bir yerde tam olarak görmek için [tam Türkiye eSIM rehberine](/blog/turkey-esim-ultimate-guide/) bakın.
 
-## Alt Satır
+## Sonuç: Neyin Engellendiği ve Neyin Engellenmediği
 
-- Bir Türk telefon numarasına ihtiyacınız varsa, eSIM tartışmasını tamamen atlayın ve pasaport kaydıyla yerel bir SIM satın alın.
-- Yalnızca veri seyahati için eSIM Türkiye'de yasaldır — engel bir platform engelidir, teknoloji yasağı değil.
-- Kalkıştan önce yükleyin ve indikten sonra normal şekilde bağlanır; IMEI sayacı yalnızca uzun süreli kullanıcıları etkiler.
-- Bir VPN sağlayıcınızın uygulamasının kilidini açmaz, ancak önceden yüklenmiş bir eSIM gerçek çözümdür.
+- Türk telefon numarasına ihtiyacınız varsa, eSIM tartışmasını tamamen atlayın ve pasaport kaydıyla yerel SIM satın alın.
+- Yalnızca veri seyahati için, eSIM Türkiye'de yasaldır — engel bir platform engelidir, teknoloji yasağı değildir.
+- Yola çıkmadan önce yükleyin ve indikten sonra normal şekilde bağlanır; IMEI sayacı yalnızca uzun süreli kullanıcıları etkiler.
+- VPN, sağlayıcınızın uygulamasını açmaz; gerçek çözüm önceden yüklenmiş bir eSIM'dir.

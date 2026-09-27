@@ -1,63 +1,64 @@
 ---
-title: "Turkey eSIM è vietata? Cosa funziona e cosa no"
-description: "Comprendi il blocco BTK eSIM della Turchia, le regole di registrazione IMEI e cosa funziona ancora, e perché un eSIM Roami preinstallato si connette."
-keywords: ["turkey esim ban", "is turkey esim banned", "turkey esim btk rules", "turkey esim imei registration", "turkey esim availability", "is turkey esim legal", "turkey esim blocked providers"]
-date: 2026-09-20T00:00:00Z
-lastmod: 2026-09-20T00:00:00Z
+title: "La eSIM è vietata in Turchia? Cosa funziona e cosa no"
+description: "Capisci il blocco BTK sulle eSIM in Turchia, le regole di registrazione IMEI e cosa continua a funzionare, più perché una eSIM Roami preinstallata si connette."
+keywords: ["divieto esim turchia", "la esim è vietata in turchia", "regole btk esim turchia", "registrazione imei esim turchia", "disponibilità esim turchia", "la esim è legale in turchia", "operatori esim bloccati in turchia"]
+date: 2026-09-17T00:00:00Z
+lastmod: 2026-09-17T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offre piani eSIM affidabili, servendo oltre 1 milione di viaggiatori all'anno, e supporta il passaggio automatico alla rete locale per aiutare i viaggiatori a restare connessi in tutto il mondo."
+authorBio: "Roami offre piani eSIM affidabili, servendo ogni anno oltre 1 milione di viaggiatori, e supporta il cambio automatico di rete locale per aiutare i viaggiatori a restare connessi in tutto il mondo."
 image: "/img/esim/turkey/turkey-esim-ban-availability-rules.jpg"
 categories: ["eSIM", "Viaggi", "Turchia"]
-tags: ["Turkey eSIM"]
+tags: ["eSIM Turchia"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Turkey eSIM è vietata? Regole BTK e cosa funziona ancora"
+h1title: "La eSIM è vietata in Turchia? Regole BTK e cosa funziona ancora"
+
 productsTitle: "Piani eSIM popolari"
-hotPostsTitle: "Articoli di tendenza"
+hotPostsTitle: "Articoli popolari"
 recentPostsTitle: "Articoli recenti"
 
 products:
   - name: "eSIM Spagna"
     flag: "/img/flags/es.svg"
-    price: "Da 1,99 $"
+    price: "Da $1,99"
     is_highlight: true
     slug: "spain"
   - name: "eSIM Portogallo"
     flag: "/img/flags/pt.svg"
-    price: "Da 1,99 $"
+    price: "Da $1,99"
     is_highlight: false
     slug: "portugal"
   - name: "eSIM Francia"
     flag: "/img/flags/fr.svg"
-    price: "Da 1,99 $"
+    price: "Da $1,99"
     is_highlight: false
     slug: "france"
   - name: "eSIM Italia"
     flag: "/img/flags/it.svg"
-    price: "Da 1,99 $"
+    price: "Da $1,99"
     is_highlight: false
     slug: "italy"
   - name: "eSIM Regno Unito"
     flag: "/img/flags/gb.svg"
-    price: "Da 1,99 $"
+    price: "Da $1,99"
     is_highlight: false
     slug: "uk"
   - name: "eSIM Paesi Bassi"
     flag: "/img/flags/nl.svg"
-    price: "Da 1,99 $"
+    price: "Da $1,99"
     is_highlight: false
     slug: "netherlands"
 
 recentPosts:
-  - title: "Lista dei dispositivi compatibili con eSIM"
+  - title: "Elenco dei dispositivi compatibili con eSIM"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "Trasferimento eSIM multipiattaforma 2026"
+  - title: "Trasferimento eSIM tra piattaforme nel 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "eSIM duale non funziona? 12 soluzioni per iPhone"
+  - title: "La dual eSIM non funziona? 12 soluzioni per iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Guida alla compatibilità eSIM di iPhone SE"
@@ -67,253 +68,259 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-## Blocco e disponibilità Turkey eSIM: regole BTK, rischi IMEI e cosa funziona
 
-L'eSIM è legale in Turchia, ma il blocco BTK del governo può comunque impedirti di acquistare o gestire un piano dopo l'atterraggio. Questa guida spiega cosa è effettivamente vietato, cosa significa la regola IMEI e cosa funziona ancora.
 
-## In breve
+La eSIM è legale in Turchia, ma il blocco del governo tramite BTK può comunque impedirti di acquistare o gestire un piano dopo l'atterraggio, e questa distinzione mette in difficoltà la maggior parte dei viaggiatori. La regola mira ai siti web e alle app dei fornitori di eSIM stranieri sulle reti mobili turche, non alla tecnologia eSIM in sé, quindi un profilo già installato si connette normalmente una volta arrivato. La Turchia opera inoltre su due binari regolatori separati — il blocco di piattaforme della BTK e la regola di registrazione IMEI che rimuove i telefoni stranieri dalle reti turche dopo 120 giorni — e un viaggiatore può essere in regola con l'uno e cadere comunque nell'altro. Questa guida spiega cosa è effettivamente bloccato, cosa continua a funzionare e cosa fare prima della partenza.
 
-- L'eSIM è legale in Turchia e il blocco BTK prende di mira solo siti web e app di fornitori stranieri, non i profili installati.
-- Un eSIM preinstallato si connette normalmente una volta atterrati.
-- La regola IMEI dei 120 giorni riguarda i telefoni per soggiorni lunghi, non i turisti in viaggio breve.
-- Acquista e installa il tuo eSIM prima di arrivare, perché non puoi fare affidamento sull'app del fornitore all'interno della Turchia.
+## Divieto eSIM in Turchia e disponibilità: regole BTK, rischi IMEI e cosa funziona
 
-## Cosa risolve questa guida sul blocco
+La eSIM è legale in Turchia, ma il blocco del governo tramite BTK può comunque impedirti di acquistare o gestire un piano dopo l'atterraggio. Questa guida spiega cosa è effettivamente vietato, cosa significa la regola IMEI e cosa continua a funzionare.
 
-Questa guida risolve il livello normativo: cosa determina effettivamente se il tuo Turkey eSIM funzionerà e cosa puoi legalmente fare al riguardo. Non ripete i [passaggi di installazione](/blog/how-turkey-esim-works-activation/), i controlli del dispositivo, i [confronti tra fornitori](/blog/best-turkey-esim-providers/) o i prezzi. Questi sono trattati negli articoli di approfondimento collegati.
+## Le regole eSIM della Turchia a colpo d'occhio
 
-La Turchia ha due binari normativi separati. Operano indipendentemente. Un viaggiatore può rispettarne uno e essere comunque catturato dall'altro:
+- La eSIM è legale in Turchia, e il blocco della BTK mira solo ai siti web e alle app dei fornitori stranieri, non ai profili installati.
+- Una eSIM preinstallata si connette normalmente una volta atterrato.
+- La regola IMEI dei 120 giorni riguarda i telefoni di chi soggiorna a lungo, non i turisti in viaggio breve.
+- Acquista e installa la tua eSIM prima di arrivare, perché dentro la Turchia non puoi contare sull'app del fornitore.
 
-1. **Blocco della piattaforma BTK** — blocca siti web e app di fornitori eSIM stranieri dalle reti mobili turche.
+## Cosa risolve questa guida sul divieto eSIM in Turchia
+
+Questa guida risolve il livello regolatorio: cosa determina effettivamente se la tua eSIM Turchia funzionerà, e cosa puoi fare legalmente al riguardo. Non ripete i [passaggi di installazione](/blog/how-turkey-esim-works-activation/), i controlli dei dispositivi, i [confronti tra fornitori](/blog/best-turkey-esim-providers/) né i prezzi. Quelli sono trattati negli articoli approfonditi collegati.
+
+La Turchia ha due binari regolatori separati. Operano in modo indipendente. Un viaggiatore può essere in regola con l'uno e cadere comunque nell'altro:
+
+1. **Blocco di piattaforme della BTK** — blocca i siti web e le app dei fornitori di eSIM stranieri sulle reti mobili turche.
 2. **Regola di registrazione IMEI** — blocca i telefoni stranieri dalle reti turche dopo 120 giorni.
 
-Il messaggio pratico: un Turkey eSIM preinstallato funziona normalmente dopo l'atterraggio. Il blocco prende di mira l'acquisto e la gestione degli eSIM, non il loro utilizzo.
+La conclusione pratica: una eSIM Turchia preinstallata funziona normalmente dopo l'atterraggio. Il blocco mira all'acquisto e alla gestione delle eSIM, non al loro uso.
 
-## Cos'è esattamente il blocco della piattaforma BTK?
+## Cosa blocca esattamente la piattaforma eSIM della BTK?
 
-Il blocco BTK è un blocco della piattaforma, non un divieto tecnologico. Prende di mira siti web e app di fornitori eSIM stranieri dalle reti mobili turche. Non disabilita l'hardware eSIM né impedisce ai profili installati di connettersi.
+Il blocco della BTK è un blocco di piattaforme, non un divieto tecnologico. Mira ai siti web e alle app dei fornitori di eSIM stranieri sulle reti mobili turche. Non disabilita l'hardware eSIM né impedisce ai profili installati di connettersi.
 
-### Cosa regola il BTK nel mercato Turkey eSIM
+### Cosa regola effettivamente la BTK
 
-Il BTK è l'Autorità per le Tecnologie dell'Informazione e della Comunicazione della Turchia. Regola le comunicazioni elettroniche, la registrazione dei servizi, le licenze e la conformità della piattaforma. Le sue decisioni di blocco prendono di mira siti web e app di fornitori eSIM stranieri, non la tecnologia eSIM stessa. L'autorità del BTK deriva dalla Legge n. 5809 sulle comunicazioni elettroniche. I fornitori eSIM stranieri senza licenza operativa turca rientrano in questa applicazione.
+La BTK è l'Autorità turca per le tecnologie dell'informazione e della comunicazione. Regola le comunicazioni elettroniche, la registrazione dei servizi, le licenze e la conformità delle piattaforme. Le sue decisioni di blocco mirano ai siti web e alle app dei fornitori di eSIM stranieri, non alla tecnologia eSIM in sé. L'autorità della BTK deriva dalla Legge n. 5809 sulle Comunicazioni Elettroniche. I fornitori di eSIM stranieri senza licenze operative turche rientrano in questa applicazione.
 
-### Numeri ufficiali delle decisioni BTK per Turkey eSIM
+### I tre numeri di decisione della BTK
 
-Le decisioni di blocco sono state emesse in tre ondate. Tre ondate in due mesi indicano un processo normativo deliberato, non un'azione tecnica una tantum.
+Le decisioni di blocco sono state emesse in tre ondate. Tre ondate nell'arco di due mesi indicano un processo regolatorio deliberato, non un'azione tecnica una tantum.
 
-| Numero decisione | Data | Ambito |
+| Numero di decisione | Data | Ambito |
 |---|---|---|
-| E-98966759-450.08-36681 | 10 luglio 2025 | Prima ondata — elenco iniziale dei fornitori |
+| E-98966759-450.08-36681 | 10 luglio 2025 | Prima ondata — elenco iniziale di fornitori |
 | E-98966759-450.08-37512 | 17 luglio 2025 | Seconda ondata — elenco ampliato |
 | E-98966759-450.08-48093 | 15 settembre 2025 | Terza ondata — fornitori aggiuntivi |
 
-### Perché è avvenuto il blocco Turkey eSIM
+### Perché è avvenuto il blocco
 
-La motivazione dichiarata del BTK: i fornitori eSIM stranieri operavano senza licenza turca e senza rispettare le regole locali su verifica dell'identità, conservazione dei dati e intercettazione legale. Il blocco è inquadrato come applicazione contro operatori non autorizzati, non come restrizione alla tecnologia eSIM o alla capacità dei cittadini turchi di utilizzare eSIM.
+La motivazione dichiarata della BTK: i fornitori di eSIM stranieri operavano senza licenze turche e senza rispettare le regole locali su verifica dell'identità, conservazione dei dati e intercettazione legittima. Il blocco è presentato come un'azione contro gli operatori senza licenza, non come una restrizione alla tecnologia eSIM o alla capacità dei cittadini turchi di usare le eSIM.
 
-### Come funziona l'applicazione DNS per Turkey eSIM
+### Come funziona l'applicazione tramite DNS
 
-Il BTK applica il blocco a livello DNS. Quando un dispositivo su una rete mobile turca tenta di risolvere il dominio di un fornitore bloccato, la query DNS non restituisce alcun risultato valido. Il sito web non si carica. L'app non riesce a raggiungere il suo backend.
+La BTK applica il blocco a livello DNS. Quando un dispositivo su una rete mobile turca prova a risolvere il dominio di un fornitore bloccato, la query DNS non restituisce alcun risultato valido. Il sito non si carica. L'app non riesce a raggiungere il suo backend.
 
-Un profilo eSIM installato non dipende dalla risoluzione DNS. Il profilo è memorizzato sul chip eUICC del dispositivo. Si connette a Turkcell, Vodafone o Türk Telekom attraverso l'infrastruttura di rete dell'operatore stesso. Il dominio del fornitore non è coinvolto nella sessione dati. La [specifica GSMA SGP.22](https://www.gsma.com/esim/) definisce come questo provisioning funzioni indipendentemente dal sito web del fornitore.
+Un profilo eSIM installato non dipende dalla risoluzione DNS. Il profilo è memorizzato sul chip eUICC del dispositivo. Si connette a Turkcell, Vodafone o Türk Telekom attraverso l'infrastruttura di rete propria dell'operatore. Il dominio del fornitore non è coinvolto nella sessione dati. La [specifica GSMA SGP.22](https://www.gsma.com/esim/) definisce come funziona questo provisioning indipendentemente dal sito web del fornitore.
 
-### Cosa non fa il blocco Turkey eSIM
+### Cosa il blocco non tocca
 
 - Non disabilita l'hardware eSIM
 - Non impedisce ai profili eSIM installati di connettersi
 - Non impedisce agli operatori turchi di vendere eSIM localmente
-- Non influisce sul Wi-Fi che utilizza DNS non BTK
+- Non influenza il Wi-Fi che usa DNS non-BTK
 - Non impedisce le chiamate di emergenza (112)
-- Non influisce sui profili roaming di operatori stranieri
+- Non influenza i profili in roaming degli operatori stranieri
 
-### Cosa fa il blocco Turkey eSIM
+### Cosa il blocco mira invece
 
 - Blocca i siti web dei fornitori sulle reti mobili turche
 - Blocca le app dei fornitori sulle reti mobili turche
-- Blocca nuovi acquisti da fornitori bloccati all'interno della Turchia
-- Blocca ricariche e gestione dell'account tramite piattaforme bloccate
-- Blocca le chat di supporto in-app che si basano sul backend del fornitore
+- Blocca i nuovi acquisti da fornitori bloccati dentro la Turchia
+- Blocca le ricariche e la gestione dell'account attraverso le piattaforme bloccate
+- Blocca le chat di supporto in-app che dipendono dal backend del fornitore
 
-## Quali fornitori sono attualmente bloccati?
+## Quali fornitori di eSIM Turchia sono attualmente bloccati?
 
-Più di 50 fornitori sono confermati bloccati a metà 2026. L'elenco include tutti i principali marchi internazionali di eSIM da viaggio. Un piccolo numero di fornitori rimane accessibile, ma l'elenco cambia frequentemente.
+Più di 50 fornitori sono confermati come bloccati a metà 2026. L'elenco include tutti i principali marchi internazionali di eSIM di viaggio. Un piccolo numero di fornitori rimane accessibile, ma l'elenco cambia frequentemente.
 
 ### Principali marchi internazionali bloccati in Turchia
 
 Airalo, Holafly, Saily, Nomad, Ubigi, GigSky, Flexiroam, Yesim, Jetpac, Maya Mobile, Roamless, BNESIM, Alosim, Instabridge, Mobimatter, Airhub, Sim Local, Keepgo, Roamify, eTravelSim, RedteaGo, GoMoWorld.
 
-### Altri fornitori Turkey eSIM confermati bloccati
+### Altri fornitori confermati come bloccati
 
 Holiday eSIM, GlobaleSIM, esim.io, CMLink, BetterRoaming, USIMS, AIRSIMe, EnjoyeSIM, Eskimo, SimOptions, OneSimCard, Soracom Mobile, eSIM Go, UPeSIM, Global YO, KnowRoaming, Pocket eSIM, Roafly, Romio, Surfroam, VIA eSIM, WorldSIM, YO Mobile.
 
-### Fornitori non nell'elenco di blocco Turkey eSIM confermato
+### Fornitori ancora fuori dall'elenco dei bloccati
 
-Un piccolo numero di fornitori rimane accessibile dalle reti turche. Klook è il più notevole. Opera su Türk Telekom e offre piani da circa $4.60 per 10 giorni di 1 GB giornaliero. Klook è un'opzione di backup per i viaggiatori che devono acquistare dopo l'atterraggio.
+Un piccolo numero di fornitori rimane accessibile dalle reti turche. Klook è il più notevole. Opera su Türk Telekom e offre piani da circa $4,60 per 10 giorni di 1 GB al giorno. Klook è un'opzione di riserva per i viaggiatori che devono acquistare dopo l'atterraggio.
 
-L'elenco dei non bloccati cambia. Un fornitore accessibile oggi potrebbe essere bloccato il mese prossimo. Non trattare lo stato non bloccato come una strategia a lungo termine.
+L'elenco dei non bloccati cambia. Un fornitore accessibile oggi può essere bloccato il mese prossimo. Non trattare lo status di "non bloccato" come una strategia a lungo termine.
 
-### Come monitorare lo stato dei fornitori Turkey eSIM
+### Come monitorare tu stesso lo stato dei fornitori
 
-1. Testa il sito web del fornitore sui dati mobili turchi.
-2. Testa lo stesso sito web sul Wi-Fi dell'hotel o dell'aeroporto.
+1. Prova il sito web del fornitore sui dati mobili turchi.
+2. Prova lo stesso sito sul Wi-Fi dell'hotel o dell'aeroporto.
 3. Controlla se l'app si carica e il login funziona.
-4. Registra il server DNS utilizzato dalla rete Wi-Fi.
+4. Annota il server DNS usato dalla rete Wi-Fi.
 5. Fai uno screenshot del risultato con data e luogo.
 
-Questo è più utile che affidarsi a un elenco statico di bloccati.
+È più utile che fare affidamento su un elenco statico di bloccati.
 
-### Prove sul campo a Istanbul per Turkey eSIM
+### Test sul campo a Istanbul: 15+ eSIM, zero fallimenti
 
-Un test sul campo a Istanbul a maggio 2026 ha testato più di quindici eSIM preinstallati da diversi fornitori. Nessuno ha fallito la connessione. Questo conferma che il blocco prende di mira l'acquisto e la gestione, non la connessione di rete.
+Un test sul campo a Istanbul a maggio 2026 ha provato più di quindici eSIM preinstallate di diversi fornitori. Non una sola ha fallito la connessione. Questo conferma che il blocco mira all'acquisto e alla gestione, non alla connessione di rete.
 
-Lo stesso test ha scoperto che il Wi-Fi dell'hotel che utilizzava Google DNS (8.8.8.8) o Cloudflare DNS (1.1.1.1) poteva bypassare il filtro BTK. Questo non è affidabile perché non puoi controllare il DNS di un hotel.
+Lo stesso test ha rilevato che il Wi-Fi degli hotel che usa Google DNS (8.8.8.8) o Cloudflare DNS (1.1.1.1) poteva aggirare il filtro BTK. Non è affidabile, perché non puoi controllare il DNS di un hotel.
 
-Per una mappa completa dei guasti fornitore per fornitore, leggi il [confronto tra fornitori](/blog/best-turkey-esim-providers/).
+Per una mappa completa dei fallimenti fornitore per fornitore, leggi il [confronto tra fornitori](/blog/best-turkey-esim-providers/).
 
-## Come influisce la regola IMEI sui turisti?
+## In che modo la regola IMEI turca influenza i turisti?
 
-La regola IMEI è separata dal blocco BTK. Si applica ai telefoni stranieri utilizzati sulle reti turche per più di 120 giorni. Un turista di due settimane non raggiunge mai questa soglia. I visitatori di lungo periodo e i nomadi digitali devono pianificarlo.
+La regola IMEI è separata dal blocco della BTK. Si applica ai telefoni stranieri usati sulle reti turche per più di 120 giorni. Un turista di due settimane non raggiunge mai questa soglia. I visitatori di lungo soggiorno e i nomadi digitali devono pianificarla.
 
-### Come inizia il conto alla rovescia IMEI di 120 giorni
+### Come parte il conteggio IMEI dei 120 giorni
 
-Quando un telefono straniero si connette per la prima volta a una rete mobile turca, il BTK registra il suo IMEI e avvia un conto alla rovescia di 120 giorni. Il BTK invia un SMS di avviso. La data di quell'SMS è l'inizio ufficiale.
+Quando un telefono straniero si connette per la prima volta a una rete mobile turca, la BTK registra il suo IMEI e avvia un conto alla rovescia di 120 giorni. La BTK invia un SMS di avviso. La data di quell'SMS è l'inizio ufficiale.
 
-Dopo 120 giorni, un dispositivo non registrato viene bloccato da tutte le reti mobili turche. Funziona ancora su Wi-Fi. Non può effettuare chiamate, inviare SMS o utilizzare dati mobili su nessun operatore turco.
+Dopo 120 giorni, un dispositivo non registrato viene bloccato da tutte le reti mobili turche. Continua a funzionare sul Wi-Fi. Non può fare chiamate, inviare SMS né usare i dati mobili su alcun operatore turco.
 
-### L'estensione eSIM di 240 giorni è chiusa (maggio 2026)
+### L'estensione eSIM dei 240 giorni è chiusa (maggio 2026)
 
-Prima di maggio 2026, un telefono dual-SIM o eSIM poteva estendere il conto alla rovescia IMEI a 240 giorni utilizzando ciascuno slot SIM per una finestra separata di 120 giorni. Il BTK ha chiuso questa scappatoia con effetto dal 1 maggio 2026. Un telefono straniero ora ottiene un singolo conto alla rovescia di 120 giorni, indipendentemente da quanti slot SIM abbia.
+Prima di maggio 2026, un telefono dual-SIM o eSIM poteva allungare il conteggio IMEI fino a 240 giorni usando ciascuno slot SIM per una finestra separata di 120 giorni. La BTK ha chiuso questa scappatoia dal 1° maggio 2026. Un telefono straniero ora ha un unico conteggio di 120 giorni, indipendentemente da quanti slot SIM abbia.
 
-### Tassa e processo di registrazione IMEI in Turchia
+### Costo e procedura di registrazione IMEI in Turchia
 
-La tassa di registrazione IMEI del 2026 è di 54.258 lire turche, circa 1.200 dollari USA. Il pagamento viene effettuato tramite il [portale di registrazione IMEI e-Devlet](https://www.turkiye.gov.tr/). Dopo il pagamento, deve essere presentata e approvata una domanda di registrazione. Esiste anche una restrizione di frequenza. Se hai già registrato un telefono, di solito devi attendere almeno tre anni di calendario prima di registrarne un altro.
+Il costo di registrazione IMEI nel 2026 è di 54.258 lire turche, circa 1.200 dollari USA. Il pagamento avviene tramite il [portale di registrazione IMEI e-Devlet](https://www.turkiye.gov.tr/). Dopo il pagamento, va presentata e approvata una richiesta di registrazione. Esiste anche una restrizione di frequenza. Se hai già registrato un telefono, di solito devi attendere almeno tre anni solari prima di registrarne un altro.
 
-### Cosa succede dopo che l'IMEI è bloccato
+### Cosa accade dopo il blocco dell'IMEI
 
-- Il dispositivo non può effettuare chiamate, inviare SMS o utilizzare dati mobili su nessun operatore turco.
-- Funziona ancora su Wi-Fi.
-- Funziona ancora come fotocamera, dispositivo mappe e strumento di messaggistica tramite Wi-Fi.
-- Le chiamate di emergenza (112) potrebbero ancora funzionare su alcune reti.
-- Il blocco si applica all'IMEI, non alla SIM o all'eSIM. Rimuovere e reinserire la SIM non aiuta.
+- Il dispositivo non può fare chiamate, inviare SMS né usare i dati mobili su alcun operatore turco.
+- Continua a funzionare sul Wi-Fi.
+- Continua a funzionare come fotocamera, dispositivo per mappe e strumento di messaggistica via Wi-Fi.
+- Le chiamate di emergenza (112) possono funzionare ancora su alcune reti.
+- Il blocco si applica all'IMEI, non alla SIM o alla eSIM. Togliere e reinserire la SIM non serve.
 
-### Un eSIM da viaggio attiva il conto alla rovescia IMEI?
+### Una eSIM di viaggio avvia il conteggio IMEI?
 
-Un eSIM da viaggio di un fornitore internazionale opera tramite roaming. Il conto alla rovescia BTK è tipicamente attivato inserendo una SIM turca in un dispositivo straniero. Un profilo eSIM internazionale di solito evita questo trigger.
+Una eSIM di viaggio di un fornitore internazionale funziona tramite roaming. Il conteggio della BTK viene in genere avviato dall'inserimento di una SIM turca in un dispositivo straniero. Un profilo eSIM internazionale di solito evita questo innesco.
 
-Se utilizzi anche una SIM turca locale per un numero locale, questa attiverà il conto alla rovescia IMEI. L'eSIM e la SIM fisica condividono lo stesso IMEI. Se l'IMEI viene successivamente bloccato, entrambi smettono di funzionare sulle reti turche.
+Se usi anche una SIM turca locale per un numero locale, quella avvierà il conteggio IMEI. La eSIM e la SIM fisica condividono lo stesso IMEI. Se l'IMEI viene poi bloccato, entrambe smettono di funzionare sulle reti turche.
 
 ### Chi deve pianificare la registrazione IMEI
 
 | Tipo di viaggiatore | Rischio IMEI | Cosa fare |
 |---|---|---|
-| Turista 1–4 settimane | Nessuno | Il conto alla rovescia di 120 giorni non scadrà |
-| Turista 1–3 mesi | Basso | Monitora il conto alla rovescia se usi SIM locale |
-| Nomade digitale 3–6 mesi | Alto | Pianifica la registrazione o usa un dispositivo acquistato in Turchia |
-| Residente di lungo periodo | Critico | Registra il dispositivo o acquista un telefono registrato localmente |
-| Viaggiatore d'affari brevi viaggi | Nessuno | Usa eSIM da viaggio; evita SIM locale |
+| Turista 1-4 settimane | Nessuno | Il conteggio di 120 giorni non scadrà |
+| Turista 1-3 mesi | Basso | Monitora il conteggio se usi una SIM locale |
+| Nomade digitale 3-6 mesi | Alto | Pianifica la registrazione o usa un dispositivo acquistato in Turchia |
+| Residente a lungo termine | Critico | Registra il dispositivo o acquista un telefono registrato localmente |
+| Viaggiatore di lavoro, viaggi brevi | Nessuno | Usa una eSIM di viaggio; evita la SIM locale |
 | Studente 1+ anno | Critico | Registra o acquista un dispositivo turco |
 
-### Il processo di registrazione IMEI e-Devlet
+### La procedura di registrazione IMEI su e-Devlet
 
-1. Crea un account e-Devlet (richiede carta d'identità turca o permesso di soggiorno).
-2. Naviga alla sezione registrazione IMEI.
-3. Paga la tassa di registrazione (54.258 TL nel 2026).
-4. Invia la domanda di registrazione.
+1. Crea un account e-Devlet (richiede un documento d'identità turco o un permesso di soggiorno).
+2. Vai alla sezione di registrazione IMEI.
+3. Paga il costo di registrazione (54.258 TL nel 2026).
+4. Presenta la richiesta di registrazione.
 5. Attendi l'approvazione.
-6. L'IMEI diventa permanentemente registrato.
+6. L'IMEI diventa registrato in modo permanente.
 
-Per i turisti di breve periodo, questo processo è irrilevante. Il conto alla rovescia di 120 giorni non scadrà durante una vacanza di due settimane. Per chi soggiorna più di quattro mesi, la registrazione IMEI o un telefono acquistato localmente diventa una necessità di pianificazione.
+Per i turisti di breve soggiorno, questa procedura è irrilevante. Il conteggio di 120 giorni non scadrà durante una vacanza di due settimane. Per chiunque rimanga più di quattro mesi, la registrazione IMEI o un telefono acquistato localmente diventano una necessità da pianificare.
 
-Se vuoi evitare del tutto il binario IMEI, un eSIM da viaggio preinstallato è il percorso più semplice. [Piani dati Turkey eSIM](/turkey-esim/) di Roami iniziano da $1.99 con uno sconto del 20% per i nuovi utenti e non attivano il conto alla rovescia di registrazione della SIM locale.
+Se vuoi evitare del tutto il binario IMEI, una eSIM di viaggio preinstallata è la strada più semplice. I [piani dati eSIM Turchia](/turkey-esim/) di Roami partono da $2,99 con uno sconto del 20% per nuovi utenti (codice web20) e non avviano il conteggio di registrazione della SIM locale.
 
-## Avviso FCDO sull'accesso
+## L'avviso FCDO sull'accesso alle eSIM
 
-Il FCDO del Regno Unito ha aggiornato il suo avviso di viaggio per la Turchia per includere le restrizioni eSIM. Questo conferma che il blocco è un'azione normativa sostenuta, non un glitch temporaneo. L'avviso raccomanda di scaricare, configurare e attivare il tuo eSIM prima della partenza.
+Il FCDO britannico ha aggiornato i suoi consigli di viaggio per la Turchia includendo le restrizioni sulle eSIM. Questo conferma che il blocco è un'azione regolatoria prolungata, non un guasto temporaneo. L'avviso raccomanda di scaricare, configurare e attivare la tua eSIM prima della partenza.
 
-### Testo dell'avviso FCDO per Turkey eSIM
+### Cosa dice realmente il FCDO
 
-L'avviso afferma che l'accesso ad alcuni servizi eSIM internazionali indipendenti è limitato all'interno della Turchia. Avverte che i vacanzieri britannici potrebbero non essere in grado di attivare alcuni nuovi eSIM dopo l'atterraggio. La raccomandazione è specifica: assicurati che il tuo eSIM sia completamente scaricato, configurato e attivato mentre sei ancora connesso alle reti del Regno Unito prima della partenza. Vedi l'[avviso di viaggio UK FCDO Turkey](https://www.gov.uk/foreign-travel-advice/turkey).
+L'avviso afferma che l'accesso ad alcuni servizi eSIM indipendenti e internazionali è limitato dentro la Turchia. Avverte che i vacanzieri britannici potrebbero non riuscire ad attivare certe nuove eSIM dopo l'atterraggio — finora l'unico avviso di viaggio ufficiale a viaggiatori britannici che nomina specificamente l'attivazione delle eSIM. La raccomandazione è precisa: assicurati che la tua eSIM sia completamente scaricata, configurata e attivata mentre sei ancora connesso alle reti britanniche, prima di partire. È anche il riconoscimento esterno più chiaro di come la regolamentazione eSIM della Turchia sia ora letta dall'esterno del paese. Vedi i [consigli di viaggio per la Turchia del FCDO britannico](https://www.gov.uk/foreign-travel-advice/turkey).
 
-### Cosa non dice l'avviso FCDO
+### Cosa l'avviso del FCDO non dice
 
-- Non dice che gli eSIM sono vietati in Turchia.
+- Non dice che le eSIM sono vietate in Turchia.
 - Non dice che la Turchia è pericolosa per i viaggi connessi.
-- Non dice che i viaggiatori dovrebbero evitare la Turchia.
+- Non dice ai viaggiatori di evitare la Turchia.
 - Non dice che la restrizione si applica a tutti i servizi eSIM.
-- Non dice che il blocco influisce sui profili eSIM installati.
+- Non dice che il blocco influenza i profili eSIM installati.
 
-### Perché l'avviso FCDO è importante per Turkey eSIM
+### Perché l'aggiornamento del FCDO conta
 
-L'aggiornamento FCDO conferma due cose:
+L'aggiornamento del FCDO conferma due cose:
 
-1. Il blocco BTK è un'azione normativa sostenuta, non un glitch temporaneo.
-2. Il governo britannico lo tratta come informazione per la protezione dei viaggiatori.
+1. Il blocco della BTK è un'azione regolatoria prolungata, non un guasto temporaneo.
+2. Il governo britannico lo tratta come informazione di protezione dei viaggiatori.
 
-L'avviso del Dipartimento di Stato degli Stati Uniti attualmente non include una guida specifica per eSIM. La GSMA pubblica la specifica eSIM SGP.22 ma non emette avvisi di viaggio.
+L'avviso del Dipartimento di Stato USA attualmente non include indicazioni specifiche sulle eSIM. La GSMA pubblica la specifica eSIM SGP.22 ma non emette avvisi di viaggio.
 
-### Altre fonti di avviso su Turkey eSIM
+### Cosa dicono gli altri governi
 
-| Fonte | Paese | Guida eSIM |
+| Fonte | Paese | Indicazioni eSIM |
 |---|---|---|
-| FCDO | Regno Unito | Sì, avviso specifico eSIM |
-| Dipartimento di Stato | Stati Uniti | Nessuna guida specifica eSIM |
-| Auswärtiges Amt | Germania | Nessuna guida specifica eSIM |
-| DFAT | Australia | Nessuna guida specifica eSIM |
-| Global Affairs | Canada | Nessuna guida specifica eSIM |
+| FCDO | Regno Unito | Sì, avviso specifico sulle eSIM |
+| Dipartimento di Stato | USA | Nessuna indicazione specifica sulle eSIM |
+| Auswärtiges Amt | Germania | Nessuna indicazione specifica sulle eSIM |
+| DFAT | Australia | Nessuna indicazione specifica sulle eSIM |
+| Affari globali | Canada | Nessuna indicazione specifica sulle eSIM |
 
-## Cronologia normativa e prospettive future
+## Cronologia regolatoria della eSIM in Turchia e prospettive future
 
-Il blocco è in vigore da luglio 2025 e si è ampliato attraverso molteplici decisioni BTK. Non c'è indicazione che verrà revocato a breve termine. I viaggiatori dovrebbero pianificare che il blocco rimanga in vigore fino al 2026 e oltre.
+Il blocco è in vigore da luglio 2025 e si è ampliato attraverso più decisioni della BTK. Non c'è alcuna indicazione che verrà revocato nel breve termine. I viaggiatori dovrebbero pianificare che il blocco resti in vigore nel 2026 e oltre.
 
-### Cronologia normativa Turkey eSIM
+### Cronologia regolatoria: luglio 2025 a oggi
 
 | Data | Evento | Impatto |
 |---|---|---|
-| 10 luglio 2025 | Prima ondata di decisioni di blocco BTK | Elenco iniziale dei fornitori bloccati |
-| 17 luglio 2025 | Seconda ondata di decisioni di blocco BTK | Elenco fornitori ampliato |
-| 15 settembre 2025 | Terza ondata di decisioni di blocco BTK | Fornitori aggiuntivi |
-| Fine ottobre 2025 | Asta spettro 5G da 2,95 miliardi di dollari | Turkcell, Vodafone, Türk Telekom |
-| 1 aprile 2026 | Lancio commerciale 5G | Istanbul, Ankara, Izmir per primi |
-| Maggio 2026 | Test sul campo a Istanbul | Oltre 15 eSIM preinstallati connessi |
-| Metà 2026 | Oltre 50 fornitori bloccati | Nessuna indicazione di revoca |
+| 10 luglio 2025 | Prima ondata di decisioni di blocco della BTK | Elenco iniziale di fornitori bloccato |
+| 17 luglio 2025 | Seconda ondata di decisioni di blocco della BTK | Elenco di fornitori ampliato |
+| 15 settembre 2025 | Terza ondata di decisioni di blocco della BTK | Fornitori aggiuntivi |
+| Fine ottobre 2025 | Asta dello spettro 5G da 2,95 miliardi di dollari USA | Turkcell, Vodafone, Türk Telekom |
+| 1° aprile 2026 | Lancio commerciale del 5G | Prima Istanbul, Ankara, Izmir |
+| Maggio 2026 | Test sul campo a Istanbul | 15+ eSIM preinstallate connesse |
+| Metà 2026 | 50+ fornitori bloccati | Nessuna indicazione di revoca |
 
-### Prospettive future per l'accesso Turkey eSIM
+### Quali sono i prossimi passi
 
 Possibili sviluppi futuri:
 
-- **Più fornitori bloccati:** L'elenco potrebbe ampliarsi per includere fornitori attualmente accessibili.
-- **Blocco dei protocolli VPN:** La Turchia potrebbe ampliare il blocco ai protocolli VPN, rendendo le soluzioni alternative VPN meno affidabili.
-- **Espansione eSIM locale:** Gli operatori turchi potrebbero ampliare le loro offerte eSIM per i turisti.
-- **Adattamento eSIM regionale:** Alcuni fornitori potrebbero offrire soluzioni specifiche per la Turchia per i clienti esistenti.
+- **Più fornitori bloccati:** l'elenco potrebbe ampliarsi per includere fornitori attualmente accessibili.
+- **Blocco dei protocolli VPN:** la Turchia potrebbe estendere il blocco ai protocolli VPN, rendendo le soluzioni VPN meno affidabili.
+- **Espansione delle eSIM locali:** gli operatori turchi potrebbero ampliare le loro offerte eSIM per i turisti.
+- **Adattamento delle eSIM regionali:** alcuni fornitori potrebbero offrire soluzioni specifiche per la Turchia ai clienti esistenti.
 
-### Cosa monitorare per i cambiamenti Turkey eSIM
+### Cosa monitorare in avanti
 
-1. Annunci ufficiali BTK per nuove decisioni di blocco.
-2. Aggiornamenti dell'avviso FCDO per nuove guide eSIM.
-3. Pagine di stato dei fornitori per aggiornamenti sui blocchi.
-4. Reddit e forum di viaggio per resoconti reali.
-5. Annunci degli operatori locali per nuove opzioni eSIM turistiche.
+1. Gli annunci ufficiali della BTK per nuove decisioni di blocco.
+2. Gli aggiornamenti dell'avviso del FCDO per nuove indicazioni sulle eSIM.
+3. Le pagine di stato dei fornitori per aggiornamenti sul blocco.
+4. Reddit e i forum di viaggio per notizie e segnalazioni reali sulle eSIM in Turchia.
+5. Gli annunci degli operatori locali per nuove opzioni eSIM per turisti.
 
-Per dati sulle velocità a livello di rete e dettagli sul rollout 5G, vedi il [rapporto sulla rete mobile OpenSignal Turkey](https://www.opensignal.com/reports/turkey).
+Per i dati di velocità a livello di rete e i dettagli del rollout 5G, vedi le [informazioni globali di rete di OpenSignal](https://www.opensignal.com/).
 
-## Riepilogo rapido
+Le clausole in piccolo sui piani per turisti seguono la stessa logica delle regole di blocco. Un limite dati e la sua clausola di fair use (FUP) si applicano esattamente come a casa, il throttling segue il limite e non il regolatore, e una ricarica può essere rifiutata se lo status BTK del venditore è cambiato — che è proprio il momento in cui i termini di rimborso scritti smettono di essere testo standard.
 
-Hai ora coperto il blocco della piattaforma BTK, il conto alla rovescia IMEI e l'avviso di viaggio FCDO. La conclusione è che il blocco impedisce di acquistare e gestire un eSIM, non di usarne uno. Successivamente, esaminiamo cosa possono e non possono risolvere VPN e DNS, e i modi legali per rimanere connessi.
+## Riepilogo rapido: restare nelle regole
 
-## Soluzioni alternative VPN e DNS
+Hai ormai coperto il blocco di piattaforme della BTK, il conteggio IMEI e l'avviso di viaggio del FCDO. La conclusione è che il blocco impedisce di acquistare e gestire una eSIM, non di usarne una. Di seguito, vediamo cosa possono e non possono sistemare VPN e DNS, e i modi legali per restare connessi.
 
-Una VPN può ripristinare l'accesso ai siti web dei fornitori bloccati. Un cambio DNS può funzionare sul Wi-Fi che controlli. Nessuno dei due sostituisce l'installazione prima della partenza. La soluzione affidabile è acquistare e installare prima della partenza.
+## Soluzioni VPN e DNS in Turchia
 
-### Bypass DNS per i siti web Turkey eSIM
+Una VPN può ripristinare l'accesso ai siti web dei fornitori bloccati. Un cambio DNS può funzionare sul Wi-Fi che controlli. Nessuna delle due sostituisce l'installazione prima della partenza. La soluzione affidabile è acquistare e installare prima di partire.
 
-Il blocco BTK è applicato a livello DNS. Può essere aggirato utilizzando un server DNS non controllato dal BTK. Google DNS (8.8.8.8) e Cloudflare DNS (1.1.1.1) sono alternative comuni.
+### L'aggiramento DNS: quando funziona
+
+Il blocco della BTK è applicato a livello DNS. Può essere aggirato usando un server DNS non controllato dalla BTK. Google DNS (8.8.8.8) e Cloudflare DNS (1.1.1.1) sono alternative comuni.
 
 **Come cambiare DNS su iPhone:**
 1. Apri Impostazioni → Wi-Fi.
 2. Tocca l'icona (i) accanto alla tua rete Wi-Fi.
 3. Tocca Configura DNS → Manuale.
 4. Aggiungi 8.8.8.8 o 1.1.1.1.
-5. Salva e riconnettiti.
+5. Salva e riconnetti.
 
 **Come cambiare DNS su Android:**
 1. Apri Impostazioni → Rete e Internet.
@@ -321,380 +328,382 @@ Il blocco BTK è applicato a livello DNS. Può essere aggirato utilizzando un se
 3. Inserisci `dns.google` o `1dot1dot1dot1.cloudflare-dns.com`.
 4. Salva.
 
-**Limitazioni:** Il bypass DNS funziona solo su Wi-Fi. Non funziona sulle reti mobili turche, dove l'operatore applica il DNS BTK. Richiede inoltre di controllare le impostazioni DNS della rete Wi-Fi, cosa che non puoi fare nella maggior parte degli hotel e aeroporti.
+**Limiti:** l'aggiramento DNS funziona solo sul Wi-Fi. Non funziona sulle reti mobili turche, dove l'operatore applica il DNS della BTK. richiede inoltre che tu controlli le impostazioni DNS della rete Wi-Fi, cosa che non puoi fare nella maggior parte degli hotel e degli aeroporti.
 
-### Bypass VPN per le piattaforme Turkey eSIM
+### L'aggiramento VPN: cosa ripristina
 
 Una VPN instrada il tuo traffico attraverso un server fuori dalla Turchia, il che ripristina l'accesso ai siti web e alle app dei fornitori bloccati.
 
 **Come configurare una VPN:**
 1. Installa un'app VPN prima della partenza.
-2. Sottoscrivi un servizio VPN affidabile.
-3. Testa la VPN su Wi-Fi prima di volare.
-4. Dopo l'atterraggio, connettiti alla VPN tramite Wi-Fi o dati mobili.
+2. Abbonati a un servizio VPN affidabile.
+3. Prova la VPN sul Wi-Fi prima di volare.
+4. Dopo l'atterraggio, connettiti alla VPN via Wi-Fi o dati mobili.
 
-**Limitazioni:**
+**Limiti:**
 - Le VPN consumano batteria e possono rallentare la connessione.
 - Alcuni protocolli VPN sono bloccati o limitati in Turchia.
 - Una VPN non ripristina la gestione dell'account se l'app del fornitore richiede una connessione diretta.
 - Una VPN non ripristina le chat di supporto in-app.
-- Una VPN non aiuta se il tuo profilo eSIM non è mai stato installato.
+- Una VPN non serve se il profilo eSIM non è mai stato installato.
 
-### Cosa una VPN non può risolvere per Turkey eSIM
+### Cosa una VPN non può sistemare
 
 - Un telefono bloccato dall'operatore
 - Un chip eUICC mancante
-- Un codice QR già utilizzato
-- Un backend del fornitore non disponibile
-- Una controversia sul rimborso con un fornitore bloccato
+- Un codice QR già usato
+- Un backend del fornitore fuori servizio
+- Una controversia di rimborso con un fornitore bloccato
 
-### Cosa una VPN può risolvere per Turkey eSIM
+### Cosa una VPN può sistemare
 
-- Accedere al sito web del fornitore per controllare il tuo account
-- Accedere al sito web del fornitore per ricaricare
+- Accedere al sito del fornitore per controllare l'account
+- Accedere al sito del fornitore per ricaricare
 - Accedere al supporto via email
-- Accedere al supporto chat basato sul web
+- Accedere al supporto via chat web
 - Leggere la documentazione di aiuto
 
-### Confronto DNS vs VPN per Turkey eSIM
+### DNS vs VPN: cosa sblocca cosa
 
-| Metodo | Funziona su Wi-Fi | Funziona su mobile | Impatto sulla velocità | Impatto sulla batteria | Affidabilità |
+| Metodo | Funziona sul Wi-Fi | Funziona sul mobile | Impatto sulla velocità | Impatto sulla batteria | Affidabilità |
 |---|---|---|---|---|---|
-| Cambio DNS | ✅ Sì | ❌ No | Nessuno | Nessuno | Alta su Wi-Fi |
+| Cambio DNS | ✅ Sì | ❌ No | Nessuno | Nessuno | Alta sul Wi-Fi |
 | VPN | ✅ Sì | ✅ Sì | Moderato | Moderato | Media |
 | DNS + VPN | ✅ Sì | ✅ Sì | Moderato | Moderato | Alta |
 
-## Opzioni di connettività legale
+## Opzioni legali di connettività eSIM in Turchia
 
-Un eSIM da viaggio preinstallato è l'opzione legale più semplice. Evita entrambi i binari normativi: nessun trigger IMEI e nessuna interazione BTK dopo l'installazione. Le SIM locali forniscono un numero turco ma attivano il conto alla rovescia IMEI.
+Una eSIM di viaggio preinstallata è l'opzione legale più semplice. Evita entrambi i binari regolatori: nessun innesco IMEI e nessuna interazione con la BTK dopo l'installazione. Le SIM locali forniscono un numero turco ma avviano il conteggio IMEI.
 
-### eSIM da viaggio preinstallato per la Turchia
+### Opzione 1: eSIM di viaggio preinstallata
 
-Acquista prima della partenza, installa su Wi-Fi, attiva all'atterraggio. Questa è l'opzione più semplice. Il blocco BTK non influisce su un eSIM già installato.
+Acquista prima della partenza, installa sul Wi-Fi, attiva all'atterraggio. È l'opzione più semplice. Il blocco della BTK non influenza una eSIM già installata.
 
-**Profilo normativo:** Nessun trigger IMEI, nessuna registrazione, nessuna interazione BTK dopo l'installazione.
-**Costo:** Da $1.99.
-**Ideale per:** Turisti che soggiornano 1–4 settimane.
+**Profilo regolatorio:** nessun innesco IMEI, nessuna registrazione, nessuna interazione con la BTK dopo l'installazione.
+**Costo:** da $2,99.
+**Ideale per:** turisti che restano 1-4 settimane.
 
-### Fornitore non bloccato per Turkey eSIM
+### Opzione 2: fornitore non bloccato dopo l'atterraggio
 
-Un piccolo numero di fornitori rimane accessibile dalle reti turche. Klook è il più notevole. Questa è un'opzione di backup per i viaggiatori che devono acquistare dopo l'arrivo.
+Un piccolo numero di fornitori rimane accessibile dalle reti turche. Klook è il più notevole. È un'opzione di riserva per i viaggiatori che devono acquistare dopo l'arrivo.
 
-**Profilo normativo:** Nessun trigger IMEI, nessuna registrazione.
-**Costo:** Varia per fornitore.
-**Ideale per:** Acquisto di emergenza dopo l'atterraggio.
+**Profilo regolatorio:** nessun innesco IMEI, nessuna registrazione.
+**Costo:** varia a seconda del fornitore.
+**Ideale per:** acquisto d'emergenza dopo l'atterraggio.
 
-### SIM turca locale per utenti Turkey eSIM
+### Opzione 3: SIM turca locale
 
-Questa è l'unica opzione che fornisce un numero di telefono turco. Richiede la registrazione del passaporto e attiva il conto alla rovescia IMEI.
+È l'unica opzione che fornisce un numero di telefono turco. Richiede la registrazione con il passaporto e avvia il conteggio IMEI.
 
-**Profilo normativo:** Inizia il trigger IMEI, richiesta la registrazione del passaporto.
-**Costo:** $20–$38 dopo le tasse di attivazione.
-**Ideale per:** Soggiorni lunghi e esigenze business che richiedono un numero turco.
+**Profilo regolatorio:** avvio del conteggio IMEI, registrazione con passaporto obbligatoria.
+**Costo:** $20-$38 dopo le spese di attivazione.
+**Ideale per:** soggiorni lunghi ed esigenze di lavoro che richiedono un numero turco.
 
-### Roaming operatore di casa per Turkey eSIM
+### Opzione 4: roaming con l'operatore di casa
 
-Usa la tua SIM di casa in Turchia. Nessuna configurazione, nessuna registrazione, nessun problema IMEI. Le spese di roaming possono essere estreme.
+Usa la tua SIM di casa in Turchia. Nessuna configurazione, nessuna registrazione, nessun problema IMEI. I costi di roaming possono essere estremi.
 
-**Profilo normativo:** Nessun trigger IMEI, nessuna registrazione.
-**Costo:** £6–£8 al giorno per molti operatori britannici.
-**Ideale per:** Viaggi molto brevi dove il costo non è una preoccupazione.
+**Profilo regolatorio:** nessun innesco IMEI, nessuna registrazione.
+**Costo:** £6-£8 al giorno per molti operatori britannici.
+**Ideale per:** viaggi brevissimi in cui il costo non è un problema.
 
-### Wi-Fi più VPN per Turkey eSIM
+### Opzione 5: Wi-Fi più VPN
 
-Se hai un eSIM preinstallato e non puoi ricaricare, una VPN può ripristinare l'accesso al sito web del fornitore. Questa è una soluzione alternativa, non una soluzione primaria.
+Se hai una eSIM preinstallata e non puoi ricaricare, una VPN può ripristinare l'accesso al sito del fornitore. È una soluzione alternativa, non primaria.
 
-**Profilo normativo:** Nessun trigger IMEI, nessuna registrazione.
-**Costo:** Gratuito con abbonamento VPN.
-**Ideale per:** Solo connettività di backup.
+**Profilo regolatorio:** nessun innesco IMEI, nessuna registrazione.
+**Costo:** gratuito con un abbonamento VPN.
+**Ideale per:** solo connettività di riserva.
 
-### Comunicazione satellitare per Turkey eSIM
+### Opzione 6: messaggistica satellitare
 
-Alcuni telefoni più recenti supportano la messaggistica satellitare per le emergenze. Questa non è un'opzione di connettività primaria, ma può essere un backup di sicurezza in aree remote senza copertura cellulare.
+Alcuni telefoni più recenti supportano la messaggistica satellitare per le emergenze. Non è un'opzione di connettività primaria, ma può essere una riserva di sicurezza in aree remote senza copertura cellulare.
 
-**Profilo normativo:** Nessun trigger IMEI, nessuna registrazione.
-**Costo:** Varia per fornitore e piano.
-**Ideale per:** Backup di emergenza in aree remote.
+**Profilo regolatorio:** nessun innesco IMEI, nessuna registrazione.
+**Costo:** varia a seconda del fornitore e del piano.
+**Ideale per:** riserva d'emergenza in aree remote.
 
-### Confronto delle opzioni legali Turkey eSIM
+### Confronto tra le sei opzioni legali
 
-| Opzione | Configurazione | Numero locale | Trigger IMEI | Costo | Ideale per |
+Nessuna di queste soluzioni richiede di piegare le regole turche — ognuna resta entro ciò che il regolatore ha consentito.
+
+| Opzione | Configurazione | Numero locale | Innesco IMEI | Costo | Ideale per |
 |---|---|---|---|---|---|
-| eSIM da viaggio preinstallato | Prima della partenza | No | No | Da $1.99 | La maggior parte dei turisti |
-| Fornitore non bloccato | Dopo l'arrivo | No | No | Variabile | Acquisto di emergenza |
-| SIM operatore locale | In negozio, passaporto | Sì | Sì | $20–$38 | Soggiorni lunghi, numero locale |
-| Roaming SIM di casa | Nessuna | Numero di casa | No | £6–8/giorno | Viaggi brevi, costo non un problema |
-| Wi-Fi più VPN | A destinazione | No | No | Gratuito con VPN | Solo backup |
-| Messaggistica satellitare | Nessuna | No | No | Variabile | Backup di emergenza |
+| eSIM di viaggio preinstallata | Prima della partenza | No | No | Da $2,99 | La maggior parte dei turisti |
+| Fornitore non bloccato | Dopo l'arrivo | No | No | Variabile | Acquisto d'emergenza |
+| SIM di un operatore locale | In negozio, con passaporto | Sì | Sì | $20-$38 | Soggiorni lunghi, numero locale |
+| Roaming della SIM di casa | Nessuna | Numero di casa | No | £6-8/giorno | Viaggi brevi, costo non rilevante |
+| Wi-Fi più VPN | A destinazione | No | No | Gratuito con VPN | Solo riserva |
+| Messaggistica satellitare | Nessuna | No | No | Variabile | Riserva d'emergenza |
 
-Un eSIM preinstallato evita contemporaneamente sia il blocco della piattaforma che il conto alla rovescia IMEI, motivo per cui è la scelta predefinita per la maggior parte dei viaggiatori.
+Una eSIM preinstallata evita in una volta sola sia il blocco di piattaforme sia il conteggio IMEI, ed è per questo che è la scelta predefinita per la maggior parte dei viaggiatori.
 
-## Miti vs fatti sul BTK
+## Miti vs fatti sul blocco eSIM della BTK
 
-L'equivoco più comune è che l'eSIM sia vietata in Turchia. La realtà è più ristretta: il BTK ha bloccato l'accesso alle piattaforme dei fornitori stranieri, non la tecnologia. Un eSIM preinstallato funziona normalmente.
+L'idea sbagliata più comune è che la eSIM sia vietata in Turchia. La realtà è più ristretta: la BTK ha bloccato l'accesso alle piattaforme dei fornitori stranieri, non la tecnologia. Una eSIM preinstallata funziona normalmente.
 
-### Mito: l'eSIM è vietata in Turchia
+### Mito: la eSIM è vietata in Turchia
 
-**Fatto:** La tecnologia eSIM è legale e operativa. Gli operatori turchi vendono eSIM. Il BTK ha bloccato l'accesso alle piattaforme dei fornitori stranieri, non la tecnologia.
+**Fatto:** la tecnologia eSIM è legale e operativa. Gli operatori turchi vendono eSIM. La BTK ha bloccato l'accesso alle piattaforme dei fornitori stranieri, non la tecnologia.
 
-### Mito: il tuo Turkey eSIM smette di funzionare quando atterri
+### La tua eSIM smette di funzionare quando atterri?
 
-**Fatto:** Nel test sul campo di Istanbul di maggio 2026, più di quindici eSIM preinstallati si sono connessi con successo. Il blocco prende di mira l'acquisto, non l'uso.
+**Fatto:** nel test sul campo di maggio 2026 a Istanbul, più di quindici eSIM preinstallate si sono connesse con successo. Il blocco mira all'acquisto, non all'uso.
 
-### Mito: puoi acquistare un Turkey eSIM all'aeroporto di Istanbul
+### Si può acquistare una eSIM all'aeroporto di Istanbul?
 
-**Fatto:** Il Wi-Fi dell'aeroporto può caricare siti bloccati in modo incoerente. I banchi SIM dell'aeroporto vendono SIM locali a prezzi premium con registrazione del passaporto. Non pianificare acquisti all'aeroporto.
+**Fatto:** il Wi-Fi dell'aeroporto può caricare i siti bloccati in modo incoerente. I banchi SIM dell'aeroporto vendono SIM locali a prezzi maggiorati con registrazione del passaporto. Non pianificare intorno agli acquisti in aeroporto.
 
-### Mito: il divieto Turkey eSIM riguarda solo Airalo e Holafly
+### Mito: riguarda solo Airalo e Holafly
 
-**Fatto:** Più di 50 fornitori sono confermati bloccati, inclusi Saily, Nomad, Ubigi, Instabridge, Mobimatter, Alosim, BNESIM, Jetpac, Maya Mobile, Roamless, Yesim, GigSky, Flexiroam, Airhub, Sim Local, Keepgo, Roamify, eTravelSim, RedteaGo e GoMoWorld.
+**Fatto:** più di 50 fornitori sono confermati come bloccati, tra cui Saily, Nomad, Ubigi, Instabridge, Mobimatter, Alosim, BNESIM, Jetpac, Maya Mobile, Roamless, Yesim, GigSky, Flexiroam, Airhub, Sim Local, Keepgo, Roamify, eTravelSim, RedteaGo e GoMoWorld.
 
-### Mito: il blocco Turkey eSIM è temporaneo
+### Il blocco non scomparirà
 
-**Fatto:** Il blocco è in vigore dal 10 luglio 2025 e si è ampliato attraverso tre decisioni ufficiali BTK. A metà 2026, rimane in vigore.
+**Fatto:** il blocco è in vigore dal 10 luglio 2025 e si è ampliato attraverso tre decisioni ufficiali della BTK. A metà 2026, resta in vigore.
 
-### Mito: una VPN risolve tutto per Turkey eSIM
+### Una VPN risolverà tutto?
 
-**Fatto:** Una VPN può bypassare il blocco per l'accesso al sito web. Non ripristina la gestione dell'account, le ricariche o il supporto se la piattaforma del fornitore è bloccata. La soluzione affidabile è acquistare e installare prima della partenza.
+**Fatto:** una VPN può aggirare il blocco per l'accesso ai siti web. Non ripristina la gestione dell'account, le ricariche o il supporto se la piattaforma del fornitore è bloccata. La soluzione affidabile è acquistare e installare prima di partire.
 
-### Mito: Turkey eSIM è illegale
+### Mito: usare una eSIM in Turchia è illegale
 
-**Fatto:** Usare un eSIM in Turchia non è illegale. Le restrizioni si applicano alle piattaforme eSIM straniere non autorizzate. Un eSIM da viaggio preinstallato utilizzato da un turista è legale.
+**Fatto:** usare una eSIM in Turchia non è illegale. Le restrizioni si applicano alle piattaforme eSIM straniere senza licenza. Una eSIM di viaggio preinstallata usata da un turista è legale.
 
-### Mito: la regola IMEI si applica ai turisti Turkey eSIM
+### Mito: la regola IMEI si applica ai turisti
 
-**Fatto:** La regola IMEI si applica ai telefoni stranieri utilizzati sulle reti turche per più di 120 giorni. Un turista di due settimane non raggiunge mai questa soglia. La regola riguarda i visitatori di lungo periodo e i nomadi digitali.
+**Fatto:** la regola IMEI si applica ai telefoni stranieri usati sulle reti turche per più di 120 giorni. Un turista di due settimane non raggiunge mai questa soglia. La regola influenza i visitatori di lungo soggiorno e i nomadi digitali.
 
-### Mito: un eSIM da viaggio attiva il conto alla rovescia IMEI
+### Mito: una eSIM di viaggio avvia il conteggio IMEI
 
-**Fatto:** Un eSIM da viaggio di un fornitore internazionale opera tramite roaming e tipicamente non attiva il conto alla rovescia IMEI. Il conto alla rovescia viene attivato inserendo una SIM turca in un dispositivo straniero.
+**Fatto:** una eSIM di viaggio di un fornitore internazionale funziona tramite roaming e in genere non avvia il conteggio IMEI. Il conteggio è avviato dall'inserimento di una SIM turca in un dispositivo straniero.
 
-### Mito: gli eSIM turchi locali sono bloccati
+### Anche le eSIM locali turche sono bloccate?
 
-**Fatto:** Gli eSIM turchi locali di Turkcell, Vodafone Turkey e Türk Telekom sono venduti a livello nazionale e non sono influenzati dal blocco sulle piattaforme straniere.
+**Fatto:** le eSIM locali turche di Turkcell, Vodafone Turchia e Türk Telekom sono vendute a livello nazionale e non sono influenzate dal blocco sulle piattaforme straniere.
 
-### Mito: il blocco BTK influisce sul Wi-Fi
+### Mito: il blocco della BTK influenza il Wi-Fi
 
-**Fatto:** Il blocco è applicato a livello DNS sulle reti mobili turche. Il Wi-Fi di hotel e aeroporti che utilizza Google DNS o Cloudflare DNS può bypassare il filtro. Questo non è affidabile.
+**Fatto:** il blocco è applicato a livello DNS sulle reti mobili turche. Il Wi-Fi di hotel e aeroporti che usa Google DNS o Cloudflare DNS può aggirare il filtro. Non è affidabile.
 
-### Mito: puoi ricaricare un Turkey eSIM dall'interno della Turchia
+### Si può ricaricare dopo l'atterraggio?
 
-**Fatto:** Se il tuo fornitore è bloccato, non puoi accedere al suo sito web o alla sua app dalle reti mobili turche. Acquista dati sufficienti in anticipo per coprire l'intero viaggio.
+**Fatto:** se il tuo fornitore è bloccato, non puoi accedere al suo sito o alla sua app dalle reti mobili turche. Acquista abbastanza dati in anticipo per coprire l'intero viaggio.
 
-## Cosa funziona ancora
+## Cosa continua a funzionare in Turchia
 
-Le regole pratiche sono semplici: acquista prima della partenza, scegli Turkcell per i percorsi rurali, mantieni la SIM di casa per gli SMS, evita la dipendenza dalle ricariche e tratta l'accesso al supporto come una funzionalità. Queste cinque regole coprono la maggior parte degli scenari dei viaggiatori.
+Le regole pratiche sono semplici: acquista prima di partire, scegli Turkcell per le tratte rurali, mantieni la SIM di casa per gli SMS, evita di dipendere dalle ricariche e tratta l'accesso al supporto come una caratteristica. Queste cinque regole coprono la maggior parte degli scenari dei viaggiatori.
 
-### Acquista prima della partenza per Turkey eSIM
+### Regola 1: acquista e installa prima della partenza
 
-L'unico percorso affidabile per i fornitori bloccati è l'acquisto e l'installazione prima della partenza. Installa su Wi-Fi, salva il codice QR offline e mantieni il roaming disattivato fino all'atterraggio. Per il flusso completo di acquisto, leggi la [guida all'acquisto](/blog/buy-turkey-esim-online/).
+L'unica strada affidabile per i fornitori bloccati è l'acquisto e l'installazione prima della partenza. Installa sul Wi-Fi, salva il codice QR offline e mantieni il roaming disattivato fino all'atterraggio. Per il flusso d'acquisto completo, leggi la [guida all'acquisto](/blog/buy-turkey-esim-online/).
 
-### Scegli Turkcell per i percorsi rurali Turkey eSIM
+### Regola 2: scegli Turkcell per le tratte rurali
 
-Turkcell ha la migliore copertura nazionale, specialmente in Cappadocia, Turchia orientale, costa del Mar Nero e autostrade rurali. Vodafone è forte sulle coste egee e mediterranee. Türk Telekom è più forte nelle città. Vedi il [confronto tra tre reti](/blog/turkcell-vodafone-turk-telekom-esim/).
+Turkcell ha la miglior copertura nazionale, specialmente in Cappadocia, nella Turchia orientale, sulla costa del Mar Nero e sulle strade rurali. Vodafone è forte sulle coste egee e del Mediterraneo. Türk Telekom è la più forte nelle città. Vedi il [confronto tra le tre reti](/blog/turkcell-vodafone-turk-telekom-esim/).
 
-### Mantieni la SIM di casa per gli SMS su Turkey eSIM
+### Regola 3: mantieni attiva la SIM di casa per gli SMS
 
-Un eSIM da viaggio è solo dati. Mantieni la tua SIM di casa attiva per Voce & SMS in modo da poter ricevere codici 2FA bancari e verifiche WhatsApp. Leggi la [guida solo dati](/blog/turkey-esim-number-calls-sms-hotspot/).
+Una eSIM di viaggio è data-only. Mantieni la SIM di casa attiva per voce e SMS così puoi ricevere i codici 2FA della banca e la verifica di WhatsApp. Leggi la [guida data-only](/blog/turkey-esim-number-calls-sms-hotspot/).
 
-### Evita la dipendenza dalle ricariche su Turkey eSIM
+### Regola 4: non pianificare mai intorno alle ricariche
 
-Se il tuo fornitore è bloccato, non puoi ricaricare dall'interno della Turchia. Acquista dati sufficienti in anticipo per l'intero viaggio. Per il calcolo delle dimensioni del piano, leggi la [guida alle dimensioni del piano](/blog/cheapest-turkey-esim/).
+Se il tuo fornitore è bloccato, non puoi ricaricare dall'interno della Turchia. Acquista abbastanza dati in anticipo per l'intero viaggio. Per i calcoli sulla dimensione del piano, leggi la [guida alla dimensione del piano](/blog/cheapest-turkey-esim/).
 
-### Tratta l'accesso al supporto come una funzionalità per Turkey eSIM
+### Regola 5: tratta l'accesso al supporto come una caratteristica
 
-Se l'attivazione fallisce dopo l'atterraggio, il supporto deve essere raggiungibile. Un fornitore con chat umana che funziona via Wi-Fi è più utile in Turchia di un fornitore più economico con supporto solo email.
+Se l'attivazione fallisce dopo l'atterraggio, il supporto deve essere raggiungibile. Un fornitore con chat umana che funziona via Wi-Fi è più utile in Turchia di un fornitore più economico con supporto solo via email. Il divario nell'accesso al supporto è il modello di reclamo più documentato — vedi i [reclami Reddit sulle eSIM Turchia e i controlli di legittimità](/blog/turkey-esim-reddit-reviews-legit/) per cosa va storto realmente.
 
-### Testa prima di volare con Turkey eSIM
+### Prova l'installazione prima di volare
 
-Installa l'eSIM su Wi-Fi, conferma che appaia in Impostazioni, conferma che l'ICCID sia visibile e mantieni il roaming dati disattivato. Il profilo rimane dormiente fino a quando abiliti il roaming dopo l'atterraggio. Questo test previene la maggior parte dei fallimenti di installazione. Per il flusso completo di attivazione, leggi la [guida alla risoluzione dei problemi APN](/blog/how-turkey-esim-works-activation/).
+Installa l'eSIM sul Wi-Fi, conferma che appaia in Impostazioni, conferma che l'ICCID sia visibile e mantieni il roaming dati disattivato. Il profilo resta dormiente finché non attivi il roaming dopo l'atterraggio. Questo test previene la maggior parte dei fallimenti d'installazione. Per il flusso di attivazione completo, leggi la [guida alla risoluzione dei problemi APN](/blog/how-turkey-esim-works-activation/).
 
-### Installa un Turkey eSIM di backup
+### Installa una eSIM di riserva come rete di sicurezza
 
-Se il tuo telefono supporta dual eSIM, installa un eSIM di backup da un fornitore non bloccato come Klook. Questo ti dà un fallback se il tuo eSIM principale fallisce. Controlla la [documentazione sulla compatibilità eSIM di Apple](https://support.apple.com/en-us/HT209096) per la compatibilità dual eSIM.
+Se il tuo telefono supporta la dual eSIM, installa una eSIM di riserva di un fornitore non bloccato come Klook. Questo ti dà un ripiego se la tua eSIM principale fallisce. Funziona anche una versione a costo zero: alcuni fornitori regalano dati di prova, e la pagina delle [opzioni di prova eSIM gratuite](/free-esim/) raccoglie quali non richiedono carta. Consulta la [documentazione di compatibilità eSIM di Apple](https://support.apple.com/en-us/HT209096) per la compatibilità dual eSIM.
 
-### Scarica mappe offline per Turkey eSIM
+### Scarica le mappe offline come assicurazione
 
-Scarica mappe offline per le tue destinazioni prima di volare. Questo è essenziale per Cappadocia, rotte Blue Cruise e qualsiasi località con segnale inaffidabile. Vedi la [guida alle destinazioni turistiche Turkey eSIM](/blog/turkey-esim-tourists-istanbul-antalya/).
+Scarica le mappe offline per le tue destinazioni prima di volare. È essenziale per la Cappadocia, le rotte della Blue Cruise e qualsiasi luogo con segnale inaffidabile. Vedi la [guida alle destinazioni turistiche eSIM Turchia](/blog/turkey-esim-tourists-istanbul-antalya/).
 
 ## Esempio reale: Priya, nomade digitale in un soggiorno di cinque mesi
 
-Priya ha acquistato una SIM locale all'arrivo e ha attivato il conto alla rovescia IMEI di 120 giorni senza rendersene conto. Un eSIM da viaggio preinstallato l'avrebbe mantenuta online senza registrazione, senza rischio IMEI e senza costi imprevisti alla fine.
+Priya ha acquistato una SIM locale all'arrivo e ha avviato il conteggio IMEI dei 120 giorni senza rendersene conto. Una eSIM di viaggio preinstallata l'avrebbe tenuta online senza registrazione, senza rischio IMEI e senza una sorpresa sul costo alla fine.
 
-## Cosa cambia la durata del tuo soggiorno
+## Cosa cambia la durata del tuo soggiorno per la tua eSIM
 
-| Durata del soggiorno | Cosa ti serve | Scelta migliore |
+| Durata del soggiorno | Cosa ti serve | Miglior scelta |
 | --- | --- | --- |
-| Meno di 30 giorni | Solo dati | eSIM da viaggio preinstallato |
-| Da uno a quattro mesi | Dati più 2FA | eSIM dati + SIM di casa per SMS |
-| Più di quattro mesi | Numero locale, IMEI registrato | SIM locale con passaporto |
+| Meno di 30 giorni | Solo dati | eSIM di viaggio preinstallata |
+| Da uno a quattro mesi | Dati più 2FA | eSIM dati + SIM di casa per gli SMS |
+| Quattro mesi e più | Numero locale, IMEI registrato | SIM locale con passaporto |
 
-## FAQ: Blocco e IMEI
+## FAQ: divieto eSIM in Turchia e IMEI
 
-### L'eSIM è vietata in Turchia?
+### La eSIM è vietata in Turchia?
 
-No. La tecnologia eSIM è legale e operativa. Il BTK ha bloccato l'accesso ai siti web e alle app di più di 50 fornitori eSIM internazionali dall'interno della Turchia.
+No. La tecnologia eSIM è legale e operativa. La BTK ha bloccato l'accesso ai siti web e alle app di più di 50 fornitori di eSIM internazionali dall'interno della Turchia.
 
-### Cos'è un blocco della piattaforma?
+### Cos'è un blocco di piattaforme?
 
-Un blocco della piattaforma impedisce l'accesso a specifici siti web e app. Un divieto tecnologico impedirebbe ai profili eSIM di funzionare sulle reti turche. La Turchia ha implementato un blocco della piattaforma.
+Un blocco di piattaforme impedisce l'accesso a siti web e app specifici. Un divieto tecnologico impedirebbe ai profili eSIM di funzionare sulle reti turche. La Turchia ha implementato un blocco di piattaforme.
 
-### Quali sono i numeri ufficiali delle decisioni BTK?
+### Quali sono i numeri di decisione ufficiali della BTK?
 
 Le tre decisioni di blocco sono E-98966759-450.08-36681 (10 luglio 2025), E-98966759-450.08-37512 (17 luglio 2025) e E-98966759-450.08-48093 (15 settembre 2025).
 
 ### Quali fornitori sono bloccati?
 
-Airalo, Holafly, Saily, Nomad, Ubigi, GigSky, Flexiroam, Yesim, Jetpac, Maya Mobile, Roamless, BNESIM, Alosim, Instabridge, Mobimatter e molti altri. Più di 50 fornitori sono confermati bloccati.
+Airalo, Holafly, Saily, Nomad, Ubigi, GigSky, Flexiroam, Yesim, Jetpac, Maya Mobile, Roamless, BNESIM, Alosim, Instabridge, Mobimatter e molti altri. Più di 50 fornitori sono confermati come bloccati.
 
 ### Quali fornitori non sono bloccati?
 
-Klook è uno dei pochi fornitori non nell'elenco di blocco BTK confermato. L'elenco dei non bloccati cambia frequentemente, quindi non fare affidamento su di esso come strategia a lungo termine.
+Klook è uno dei pochi fornitori non presenti nell'elenco confermato dei bloccati della BTK. L'elenco dei non bloccati cambia frequentemente, quindi non fare affidamento su di esso come strategia a lungo termine.
 
-### Posso usare il mio eSIM dopo l'atterraggio?
+### Posso usare la mia eSIM dopo l'atterraggio?
 
-Sì, se è stato installato prima della partenza. Gli eSIM preinstallati si connettono normalmente. Il blocco prende di mira l'acquisto e la gestione degli eSIM, non il loro utilizzo.
+Sì, se è stata installata prima della partenza. Le eSIM preinstallate si connettono normalmente. Il blocco mira all'acquisto e alla gestione delle eSIM, non al loro uso.
 
-### Posso acquistare un Turkey eSIM dopo l'arrivo?
+### Posso acquistare una eSIM Turchia dopo l'arrivo?
 
-Per la maggior parte dei fornitori bloccati, no. Il Wi-Fi dell'aeroporto è incoerente. I banchi SIM dell'aeroporto sono costosi e richiedono la registrazione del passaporto. Klook potrebbe essere accessibile come backup.
+Per la maggior parte dei fornitori bloccati, no. Il Wi-Fi dell'aeroporto è incoerente. I banchi SIM dell'aeroporto sono costosi e richiedono la registrazione del passaporto. Klook può essere accessibile come riserva.
 
 ### Posso ricaricare dall'interno della Turchia?
 
-No, non se il tuo fornitore è bloccato. Acquista dati sufficienti in anticipo per coprire l'intero viaggio.
+No, non se il tuo fornitore è bloccato. Acquista abbastanza dati in anticipo per coprire l'intero viaggio.
 
-### Il blocco BTK influisce sul Wi-Fi?
+### Il blocco della BTK influenza il Wi-Fi?
 
-Il blocco è applicato a livello DNS sulle reti mobili turche. Il Wi-Fi di hotel e aeroporti che utilizza Google DNS o Cloudflare DNS può bypassare il filtro. Questo non è affidabile.
+Il blocco è applicato a livello DNS sulle reti mobili turche. Il Wi-Fi di hotel e aeroporti che usa Google DNS o Cloudflare DNS può aggirare il filtro. Non è affidabile.
 
-### Una VPN può bypassare il blocco?
+### Una VPN può aggirare il blocco?
 
-Una VPN può instradare il traffico fuori dalla Turchia e ripristinare l'accesso al sito web. Non ripristina la gestione dell'account, le ricariche o il supporto. È una soluzione alternativa, non una soluzione primaria.
+Una VPN può instradare il traffico fuori dalla Turchia e ripristinare l'accesso ai siti web. Non ripristina la gestione dell'account, le ricariche o il supporto. È una soluzione alternativa, non primaria.
 
 ### Cos'è la regola IMEI dei 120 giorni?
 
-I telefoni stranieri utilizzati sulle reti turche per più di 120 giorni devono essere registrati presso il BTK o essere bloccati dalle reti mobili turche. La tassa del 2026 è di 54.258 TL, circa 1.200 dollari USA.
+I telefoni stranieri usati sulle reti turche per più di 120 giorni devono essere registrati presso la BTK o vengono bloccati dalle reti mobili turche. Il costo nel 2026 è di 54.258 TL, circa 1.200 dollari USA.
 
-### Un eSIM da viaggio attiva il conto alla rovescia IMEI?
+### Una eSIM di viaggio avvia il conteggio IMEI?
 
-Un eSIM da viaggio di un fornitore internazionale opera tramite roaming e tipicamente non attiva il conto alla rovescia IMEI. Una SIM turca locale lo attiva.
+Una eSIM di viaggio di un fornitore internazionale funziona tramite roaming e in genere non avvia il conteggio IMEI. Una SIM turca locale lo avvia.
 
-### Cos'era l'estensione eSIM di 240 giorni?
+### Cos'era l'estensione eSIM dei 240 giorni?
 
-Era una scappatoia che permetteva ai telefoni dual-SIM e eSIM di estendere il conto alla rovescia IMEI a 240 giorni utilizzando ciascuno slot SIM per una finestra separata di 120 giorni. Il BTK l'ha chiusa con effetto dal 1 maggio 2026, quindi un telefono straniero ora ottiene un singolo conto alla rovescia di 120 giorni.
+Era una scappatoia che permetteva ai telefoni dual-SIM e eSIM di allungare il conteggio IMEI fino a 240 giorni usando ciascuno slot SIM per una finestra separata di 120 giorni. La BTK l'ha chiusa dal 1° maggio 2026, quindi un telefono straniero ora ha un unico conteggio di 120 giorni.
 
-### Qual è la tassa di registrazione IMEI?
+### Qual è il costo di registrazione IMEI?
 
-La tassa è di 54.258 lire turche, circa 1.200 dollari USA. Il pagamento viene effettuato tramite e-Devlet, seguito da una domanda e approvazione.
+Il costo è di 54.258 lire turche, circa 1.200 dollari USA. Il pagamento avviene tramite e-Devlet, seguito da una richiesta e dall'approvazione.
 
 ### La regola IMEI si applica ai telefoni solo eSIM?
 
-Sì. Qualsiasi telefono straniero che si connette a una rete mobile turca è soggetto alla regola IMEI. Un eSIM da viaggio di un fornitore internazionale non attiva il conto alla rovescia.
+Sì. Qualsiasi telefono straniero che si connette a una rete mobile turca è soggetto alla regola IMEI. Una eSIM di viaggio di un fornitore internazionale non avvia il conteggio.
 
-### Cosa dice il FCDO sugli Turkey eSIM?
+### Cosa dice il FCDO sulle eSIM Turchia?
 
-Il FCDO avverte che l'accesso ad alcuni servizi eSIM internazionali è limitato all'interno della Turchia. Consiglia ai viaggiatori di scaricare, configurare e attivare il proprio eSIM prima della partenza.
+Il FCDO avverte che l'accesso ad alcuni servizi eSIM internazionali è limitato dentro la Turchia. Consiglia ai viaggiatori di scaricare, configurare e attivare la loro eSIM prima della partenza.
 
-### Gli eSIM turchi locali sono influenzati dal blocco?
+### Le eSIM locali turche sono influenzate dal blocco?
 
-No. Gli eSIM turchi locali di Turkcell, Vodafone Turkey e Türk Telekom sono venduti a livello nazionale e non sono influenzati dal blocco sulle piattaforme straniere.
+No. Le eSIM locali turche di Turkcell, Vodafone Turchia e Türk Telekom sono vendute a livello nazionale e non sono influenzate dal blocco sulle piattaforme straniere.
 
-### Turkey eSIM è illegale?
+### La eSIM in Turchia è illegale?
 
-No. Usare un eSIM in Turchia non è illegale. Le restrizioni si applicano alle piattaforme eSIM straniere non autorizzate che operano all'interno delle reti turche.
+No. Usare una eSIM in Turchia non è illegale. Le restrizioni si applicano alle piattaforme eSIM straniere senza licenza che operano nelle reti turche.
 
-### Il blocco Turkey eSIM è permanente?
+### Il blocco eSIM della Turchia è permanente?
 
-Il blocco è in vigore da luglio 2025 e si è ampliato attraverso molteplici decisioni BTK. A metà 2026, non c'è indicazione che verrà revocato.
+Il blocco è in vigore da luglio 2025 e si è ampliato attraverso più decisioni della BTK. A metà 2026, non c'è alcuna indicazione che verrà revocato.
 
-### Cosa succede se arrivo senza un eSIM?
+### Cosa accade se arrivo senza una eSIM?
 
-Puoi usare il Wi-Fi dell'aeroporto, provare un fornitore non bloccato o acquistare una SIM locale al banco dell'aeroporto. Tutte le opzioni sono meno convenienti e più costose dell'acquisto prima della partenza.
+Puoi usare il Wi-Fi dell'aeroporto, provare un fornitore non bloccato o acquistare una SIM locale a un banco dell'aeroporto. Tutte le opzioni sono meno comode e più costose che acquistare prima della partenza.
 
-### Cosa succede se il mio IMEI è bloccato?
+### Cosa accade se il mio IMEI viene bloccato?
 
-Il dispositivo non può effettuare chiamate, inviare SMS o utilizzare dati mobili su nessun operatore turco. Funziona ancora su Wi-Fi. Le chiamate di emergenza (112) potrebbero ancora funzionare su alcune reti. Il blocco si applica all'IMEI, non alla SIM o all'eSIM.
+Il dispositivo non può fare chiamate, inviare SMS né usare i dati mobili su alcun operatore turco. Continua a funzionare sul Wi-Fi. Le chiamate di emergenza (112) possono funzionare ancora su alcune reti. Il blocco si applica all'IMEI, non alla SIM o alla eSIM.
 
-### Posso registrare il mio IMEI se rimango solo due settimane?
+### Devo registrare il mio IMEI se resto solo due settimane?
 
-Non è necessario. Il conto alla rovescia di 120 giorni non scadrà durante un viaggio di due settimane. La registrazione IMEI è rilevante solo per soggiorni superiori a 120 giorni.
+Non ti serve. Il conteggio di 120 giorni non scadrà durante un viaggio di due settimane. La registrazione IMEI è rilevante solo per soggiorni superiori a 120 giorni.
 
-### Il blocco eSIM si applica ai passeggeri di navi da crociera?
+### Il blocco eSIM si applica ai passeggeri delle navi da crociera?
 
-Le navi da crociera in genere utilizzano Internet satellitare. Quando attraccate nei porti turchi, un eSIM da viaggio preinstallato si connette normalmente. Per le soste nelle isole greche, si consiglia un eSIM regionale che copra sia la Turchia che la Grecia. Vedi la [guida all'elenco dei paesi eSIM regionali](/blog/turkey-esim-europe-greece-egypt/).
+Le navi da crociera usano in genere internet satellitare. Quando sono attraccate nei porti turchi, una eSIM di viaggio preinstallata si connette normalmente. Per le tappe nelle isole greche, è raccomandata una eSIM regionale che copra Turchia e Grecia. Vedi la [guida all'elenco dei paesi delle eSIM regionali](/blog/turkey-esim-europe-greece-egypt/).
 
-### Posso usare un Turkey eSIM su un telefono bloccato?
+### Posso usare una eSIM Turchia su un telefono bloccato?
 
 No. Un telefono bloccato dall'operatore non può installare un profilo eSIM di terze parti. Devi prima sbloccare il telefono. Vedi la [guida al controllo EID e blocco operatore](/blog/turkey-esim-device-compatibility/).
 
-### Posso usare un eSIM Europa in Turchia?
+### Posso usare una eSIM Europa in Turchia?
 
-Solo se il piano include esplicitamente la Turchia nel suo elenco di paesi. Molti eSIM "Europa" escludono la Turchia. Il piano Europa a 36 paesi di Nomad include la Turchia; il suo piano a 35 paesi no.
+Solo se il piano include esplicitamente la Turchia nell'elenco dei paesi. Molte eSIM "Europa" escludono la Turchia. Il piano Europa a 36 paesi di Nomad include la Turchia; quello a 35 paesi no.
 
-### Turkey eSIM supporta il 5G?
+### La eSIM Turchia supporta il 5G?
 
-Sì. La Turchia ha lanciato il 5G commerciale il 1 aprile 2026. Le velocità 5G iniziali erano in media di 201 Mbps. Turkcell è leader sulla velocità 5G. La copertura è ancora limitata al di fuori delle grandi città. Per dati 5G reali, vedi il [rapporto OpenSignal Turkey](https://www.opensignal.com/reports/turkey).
+Sì. La Turchia ha lanciato il 5G commerciale il 1° aprile 2026. Le prime velocità 5G erano in media 201 Mbps. Turkcell è in testa nella velocità 5G. La copertura è ancora limitata fuori dalle grandi città. Per dati reali sul 5G, vedi le [misurazioni di velocità di OpenSignal](https://www.opensignal.com/).
 
-### Qual è la differenza tra il blocco BTK e la regola IMEI?
+### Qual è la differenza tra il blocco della BTK e la regola IMEI?
 
-Il blocco BTK limita l'accesso alle piattaforme dei fornitori eSIM stranieri. La regola IMEI limita l'accesso alla rete del dispositivo dopo 120 giorni. Sono binari normativi separati con meccanismi di applicazione diversi.
+Il blocco della BTK limita l'accesso alle piattaforme dei fornitori di eSIM stranieri. La regola IMEI limita l'accesso alla rete del dispositivo dopo 120 giorni. Sono binari regolatori separati con meccanismi di applicazione diversi.
 
-### Il blocco BTK è applicato a tutti i fornitori eSIM?
+### Il blocco della BTK si applica a tutti i fornitori di eSIM?
 
-No. Più di 20 fornitori rimangono accessibili dalle reti turche a metà 2026. Il blocco non è completo. Tuttavia, l'elenco cambia frequentemente, quindi non è una strategia affidabile per la pianificazione anticipata.
+No. Più di 20 fornitori rimangono accessibili dalle reti turche a metà 2026. Il blocco non è completo. Tuttavia, l'elenco cambia frequentemente, quindi non è una strategia affidabile per la pianificazione in anticipo.
 
-### Qual è il modo migliore per rimanere connessi per un soggiorno lungo?
+### Qual è il miglior modo per restare connessi durante un soggiorno lungo?
 
-Per soggiorni lunghi, una SIM turca locale per voce/SMS più un eSIM da viaggio per i dati è la combinazione migliore. Monitora il conto alla rovescia IMEI di 120 giorni e pianifica la registrazione se estendi il soggiorno.
+Per i soggiorni lunghi, una SIM turca locale per voce/SMS più una eSIM di viaggio per i dati è la combinazione migliore. Monitora il conteggio IMEI dei 120 giorni e pianifica la registrazione se estendi il soggiorno.
 
-## Lista di controllo finale: rimanere connessi nonostante il blocco BTK
+## Checklist finale: restare connessi nonostante il blocco eSIM turco
 
-Il blocco BTK è gestibile con la preparazione. Usa questa lista di controllo finale per confermare la tua configurazione prima della partenza, prepararti all'atterraggio e pianificare soggiorni lunghi o emergenze.
+Il blocco della BTK è gestibile con la preparazione. Usa questa checklist finale per confermare la configurazione pre-partenza, prepararti all'atterraggio e pianificare soggiorni lunghi o emergenze.
 
-### Prima di volare con Turkey eSIM
+### Prima di volare
 
-- [ ] Scegli un fornitore che consenta l'acquisto e l'installazione prima della partenza
-- [ ] Acquista l'eSIM su Wi-Fi affidabile
+- [ ] Scegli un fornitore che consenta acquisto e installazione prima della partenza
+- [ ] Acquista l'eSIM su un Wi-Fi affidabile
 - [ ] Installa il profilo scansionando il codice QR
-- [ ] Etichetta la linea eSIM "Turkey"
-- [ ] Mantieni il roaming dati OFF fino all'atterraggio
-- [ ] Salva il codice QR e il contatto di supporto offline
-- [ ] Scarica mappe offline
-- [ ] Mantieni la tua SIM di casa attiva per chiamate e SMS
-- [ ] Conferma che il tuo telefono sia compatibile con eSIM e sbloccato dall'operatore
-- [ ] Salva il valore APN dalla conferma dell'ordine
-- [ ] Testa l'installazione dell'eSIM prima della partenza
-- [ ] Installa un eSIM di backup se il tuo telefono supporta dual eSIM
+- [ ] Etichetta la linea eSIM "Turchia"
+- [ ] Mantieni il roaming dati DISATTIVATO fino all'atterraggio
+- [ ] Salva il codice QR e il contatto del supporto offline
+- [ ] Scarica le mappe offline
+- [ ] Mantieni attiva la SIM di casa per chiamate e SMS
+- [ ] Conferma che il tuo telefono sia compatibile eSIM e sbloccato dall'operatore — consulta l'[elenco completo dei dispositivi eSIM](/compatibility/) in caso di dubbio
+- [ ] Salva il valore APN dalla conferma d'ordine
+- [ ] Prova l'installazione della eSIM prima della partenza
+- [ ] Installa una eSIM di riserva se il tuo telefono supporta la dual eSIM
 
-### Dopo l'atterraggio con Turkey eSIM
+### Dopo l'atterraggio
 
-- [ ] Abilita il roaming dati per il Turkey eSIM
-- [ ] Imposta il Turkey eSIM come linea Dati cellulari
-- [ ] Attendi da due a cinque minuti per la registrazione sulla rete
-- [ ] Testa i dati con una mappa o un browser
-- [ ] Conferma che gli SMS funzionino sulla tua SIM di casa
-- [ ] Se non ci sono dati: controlla l'APN, riavvia il telefono, prova la selezione manuale della rete
+- [ ] Attiva il roaming dati per la eSIM Turchia
+- [ ] Imposta la eSIM Turchia come linea Dati mobili
+- [ ] Attendi da due a cinque minuti per la registrazione alla rete
+- [ ] Prova i dati con una mappa o un browser
+- [ ] Conferma che gli SMS funzionino sulla SIM di casa
+- [ ] Se nessun dato: controlla l'APN, riavvia il telefono, prova la selezione manuale della rete
 
-### Per soggiorni lunghi oltre 120 giorni in Turchia
+### Per soggiorni oltre i 120 giorni in Turchia
 
-- [ ] Monitora il conto alla rovescia IMEI se usi una SIM turca locale
+- [ ] Monitora il conteggio IMEI se usi una SIM turca locale
 - [ ] Pianifica la registrazione IMEI o usa un dispositivo acquistato in Turchia
-- [ ] Usa un eSIM da viaggio per i dati per evitare di attivare il conto alla rovescia IMEI
-- [ ] Considera un dispositivo acquistato in Turchia per uso a lungo termine
+- [ ] Usa una eSIM di viaggio per i dati per evitare di avviare il conteggio IMEI
+- [ ] Valuta un dispositivo acquistato in Turchia per l'uso a lungo termine
 
 ### Per le emergenze in Turchia
 
 - [ ] Salva i numeri di emergenza offline (112)
 - [ ] Salva il contatto della tua ambasciata offline
-- [ ] Tieni un power bank per una durata della batteria prolungata
-- [ ] Considera la messaggistica satellitare se il tuo telefono la supporta
-- [ ] Scarica l'[app AFAD per disastri ed emergenze](https://www.afad.gov.tr/) per avvisi di disastri
+- [ ] Tieni una power bank per una maggiore autonomia
+- [ ] Valuta la messaggistica satellitare se il tuo telefono la supporta
+- [ ] Scarica l'[app AFAD per disastri ed emergenze](https://www.afad.gov.tr/) per gli allerti di disastro
 
-Il blocco morde solo se aspetti di atterrare. [Piani dati Turkey](/turkey-esim/) di Roami si installano prima della partenza, quindi aggirano l'intero problema — da $1.99 con il 20% di sconto per i nuovi utenti e supporto 24/7 via Wi-Fi. Per il quadro completo in un unico posto, vedi la [guida completa Turkey eSIM](/blog/turkey-esim-ultimate-guide/).
+Il blocco morde solo se aspetti l'atterraggio. I [piani dati Turchia](/turkey-esim/) di Roami si installano prima della partenza, così aggirano l'intero problema — da $2,99, con il codice web20 per il 20% di sconto sui piani nuovi utenti e supporto 24/7 via Wi-Fi. Per il quadro completo in un unico punto, vedi la [guida completa eSIM Turchia](/blog/turkey-esim-ultimate-guide/).
 
-## Conclusione
+## In sintesi: cosa è e cosa non è bloccato
 
-- Se hai bisogno di un numero di telefono turco, salta del tutto il dibattito sugli eSIM e acquista una SIM locale con registrazione del passaporto.
-- Per viaggi solo dati, l'eSIM è legale in Turchia — il blocco è un blocco della piattaforma, non un divieto tecnologico.
-- Installalo prima della partenza e si connetterà normalmente dopo l'atterraggio; il conto alla rovescia IMEI riguarda solo gli utenti di lungo periodo.
-- Una VPN non sbloccherà l'app del tuo fornitore, ma un eSIM preinstallato è la vera soluzione.
+- Se ti serve un numero di telefono turco, salta del tutto la discussione sulla eSIM e acquista una SIM locale con registrazione del passaporto.
+- Per i viaggi data-only, la eSIM è legale in Turchia — il blocco è un blocco di piattaforme, non un divieto tecnologico.
+- Installa prima di partire e si connetterà normalmente dopo l'atterraggio; il conteggio IMEI influenza solo gli utenti di lungo soggiorno.
+- Una VPN non sbloccherà l'app del tuo fornitore, ma una eSIM preinstallata è la vera soluzione.

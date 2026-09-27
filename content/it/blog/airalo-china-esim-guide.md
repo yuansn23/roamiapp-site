@@ -1,19 +1,19 @@
 ---
-title: "Migliore eSIM Cina: Airalo vs Holafly a confronto"
-description: "In Cina una eSIM da viaggio sblocca Google e WhatsApp senza VPN. Confronta Airalo e Holafly su dati, prezzo, rete e hotspot."
-keywords: ["guida prezzi eSIM Cina", "holafly esim per cina", "eSIM Cina bypass firewall", "eSIM più economica per viaggiare in Cina", "eSIM Cina Google WhatsApp", "recensione airalo cina esim", "codice promo eSIM Cina"]
-date: 2026-09-02T00:00:00Z
-lastmod: 2026-09-02T00:00:00Z
+title: "Migliore eSIM per la Cina: Airalo vs Holafly a confronto"
+description: "Confronta Airalo e Holafly: la migliore eSIM per la Cina si installa prima di volare, mantiene Google e WhatsApp raggiungibili e funziona su China Mobile o Unicom"
+keywords: ["guida prezzi eSIM Cina", "airalo china esim", "chinacom esim", "eSIM più economica per viaggiare in Cina", "china esim google whatsapp", "china esim vs sim locale", "codice promo eSIM Cina"]
+date:  2026-09-22T00:00:00Z
+lastmod:  2026-09-22T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offre piani eSIM affidabili, servendo oltre 1 milione di viaggiatori all'anno, e supporta il passaggio automatico tra reti locali per aiutare i viaggiatori a rimanere connessi in tutto il mondo."
+authorBio: "Roami offre piani eSIM affidabili, servendo oltre 1 milione di viaggiatori all'anno, e supporta il passaggio automatico tra reti locali per aiutare i viaggiatori a restare connessi in tutto il mondo."
 image: "/img/esim/china/china-esim-complete-guide.jpg"
 categories: ["eSIM", "Viaggi", "Cina"]
-tags: ["eSIM Cina", "Grande Muraglia del Fuoco", "Google WhatsApp"]
+tags: ["eSIM Cina", "Google WhatsApp", "eSIM da viaggio"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "La Cina blocca Google e WhatsApp — questa eSIM aggira il firewall"
+h1title: "Cosa fa davvero un'eSIM Cina per Google e WhatsApp"
 
 productsTitle: "Piani eSIM popolari"
 hotPostsTitle: "Articoli popolari"
@@ -22,516 +22,490 @@ recentPostsTitle: "Articoli recenti"
 products:
   - name: "eSIM Cina"
     flag: "/img/flags/cn.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: true
     slug: "china"
   - name: "eSIM Hong Kong"
     flag: "/img/flags/hk.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: false
     slug: "hong-kong"
   - name: "eSIM Giappone"
     flag: "/img/flags/jp.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: false
     slug: "japan"
   - name: "eSIM Thailandia"
     flag: "/img/flags/th.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: false
     slug: "thailand"
   - name: "eSIM Corea del Sud"
     flag: "/img/flags/kr.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: false
     slug: "south-korea"
   - name: "eSIM Singapore"
     flag: "/img/flags/sg.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: false
     slug: "singapore"
 
 recentPosts:
-  - title: "Elenco dispositivi compatibili con eSIM"
+  - title: "Elenco dei dispositivi compatibili con eSIM"
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "Trasferimento eSIM multipiattaforma 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Doppia eSIM non funziona? 12 soluzioni per iPhone"
+  - title: "Dual eSIM non funziona? 12 soluzioni per iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Guida compatibilità eSIM per iPhone SE"
+  - title: "Guida alla compatibilità eSIM di iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Guida completa configurazione eSIM per iPhone 11"
+  - title: "Guida completa alla configurazione eSIM di iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
 
 ## Guida eSIM Cina 2026
 
-Stai pianificando un viaggio in Cina—la Città Proibita di Pechino, il Bund di Shanghai, i Guerrieri di Terracotta di Xi'an, le montagne di Guilin o i panda di Chengdu? All'arrivo ti imbatterai in un muro che non esiste in altri paesi: **Google, WhatsApp, Instagram e Gmail sul tuo telefono sono tutti bloccati in Cina.** A causa della "Grande Muraglia del Fuoco" (Great Firewall) cinese, le normali SIM locali e il roaming internazionale fanno passare i dati attraverso di essa.
+Stai pianificando un viaggio in Cina—la Città Proibita di Pechino, il Bund di Shanghai, i Guerrieri di Terracotta di Xi'an, le montagne di Guilin o i panda di Chengdu? All'arrivo ti imbatterai in qualcosa che non esiste in altri paesi: **Google, WhatsApp, Instagram e Gmail sul tuo telefono non si comportano come a casa.** Le SIM locali e il roaming internazionale su una rete della Cina continentale instradano i tuoi dati attraverso gateway continentali, quindi quelle app semplicemente non si caricano.
 
-Un'[eSIM Cina](/china-esim/) (eSIM da viaggio), invece, utilizza un **percorso dati internazionale**—si connette ai segnali dei tre principali operatori cinesi, ma i dati escono all'estero, quindi **Google, WhatsApp, Gmail e altre app funzionano non appena atterri.** Questo è il motivo numero uno per scegliere un'eSIM Cina, molto più importante di "quale è più economica".
+Un'[eSIM Cina](/china-esim/) (eSIM da viaggio), tuttavia, usa una **rotta dati internazionale**—si connette ai segnali dei tre grandi operatori cinesi, ma i dati escono verso l'estero, quindi **Google, WhatsApp, Gmail e le altre app funzionano appena atterri.** Questo è il motivo numero uno per scegliere un'eSIM Cina, molto più importante di "quale costa meno".
 
-Questo articolo ruota attorno a questa differenza fondamentale: quale dei tre principali operatori cinesi (China Mobile / China Unicom / China Telecom) ha la migliore copertura? Qual è il più conveniente tra Airalo, Holafly e Roami? Cosa blocca la Grande Muraglia del Fuoco e come fa un'eSIM da viaggio a aggirarla? E—le SIM locali richiedono registrazione con passaporto—quanti dati servono per un breve viaggio di transito senza visto di 144 ore?
+Questo articolo ruota attorno a questa differenza fondamentale: quale dei tre grandi operatori cinesi (China Mobile / China Unicom / China Telecom) ha la migliore copertura? Quale è il più conveniente tra Airalo, Holafly e Roami? Quali app di tutti i giorni si comportano diversamente su una rete della Cina continentale, e come cambia tutto ciò l'instradamento di un'eSIM da viaggio? E—le SIM locali richiedono la registrazione del passaporto—quanti dati ti servono per un breve viaggio di transito senza visto di 144 ore?
 
-> **⏱️ Riepilogo in 30 secondi: come scegliere un'eSIM per la Cina?**
+> **⏱️ Riassunto in 30 secondi: come scegliere un'eSIM Cina?**
 >
-> - **Il punto più critico**: la Cina ha la Grande Muraglia del Fuoco; Google / WhatsApp / Instagram / Gmail sono bloccati; **le eSIM da viaggio usano instradamento internazionale, quindi queste app funzionano all'arrivo** (vedi sezione Firewall sotto).
-> - **Miglior rapporto qualità-prezzo**: i prezzi scontati di Roami sono i più bassi in assoluto—7 giorni 10GB a $9.59, 61% più economico dell'equivalente Airalo ($24.50) e 65% più economico dell'illimitato Holafly ($27.30).
-> - **Quale rete scegliere**: in città, scegli China Unicom / China Mobile; la commutazione multi-rete automatica di Roami sceglie il segnale più forte disponibile.
-> - **L'illimitato vale la pena?** Per la maggior parte delle persone, no—Roami Cina non offre nemmeno l'illimitato; i livelli a dati fissi sono molto più economici (vedi "Il valore dietro i prezzi" sotto).
-> - **In sintesi**: per un breve viaggio di 3-7 giorni, acquista Roami 3-10GB; per un tour multi-città di 10-15 giorni, acquista 20-30GB; per soggiorni lunghi, acquista 50GB; considera Airalo/Holafly illimitato solo se non vuoi assolutamente pensare ai dati.
+> - **Il punto più critico**: sulle reti locali della Cina continentale Google, WhatsApp, Instagram e Gmail non si caricano; **le eSIM da viaggio usano l'instradamento internazionale, quindi quelle app funzionano dal momento in cui atterri.**
+> - **Dove sta il valore**: la linea scontata di Roami batte entrambi i rivali su tutta la linea—7 giorni 10GB a **$9,59**, circa il 61% sotto il livello comparabile di Airalo ($24,50) e il 65% sotto l'illimitato di Holafly ($27,50).
+> - **Quale rete**: China Unicom e China Mobile sono entrambe forti in città; il passaggio automatico ti consegna la più forte dove ti trovi.
+> - **Vale la pena l'illimitato**: per la maggior parte delle persone no—Roami Cina non offre affatto l'illimitato, e i livelli a dati fissi sono molto più economici.
+> - **In sintesi**: 3–7 giorni → 3–10GB; un giro multi-città di 10–15 giorni → 20–30GB; soggiorni lunghi → 50GB.
 
 > **⚡ Zona di decisione rapida: scegli in base al tuo stile di viaggio**
 >
-> - **Viaggio a Pechino / Shanghai (3-5 giorni)** → Roami 3-5GB, buon segnale in città, da $1.59 (vedi piani 3 giorni / 7 giorni)
-> - **Xi'an / Guilin / Chengdu (5-7 giorni)** → Roami 5-10GB, commutazione multi-rete automatica tra Unicom e Mobile (vedi piani 7 giorni / raccomandazioni per scenario)
-> - **Tour multi-città (10-15 giorni)** → Roami 20-30GB, prezzo per GB fino a $0.77 (vedi piani 15 giorni / 30 giorni)
-> - **Viaggio d'affari (3-7 giorni)** → Roami 5-10GB, funziona all'arrivo—niente code per la registrazione ID (vedi raccomandazioni per scenario / confronto)
-> - **Non vuoi pensare affatto ai dati** → Airalo Illimitato (7 giorni $27) o Holafly Illimitato ($3.90/giorno), ma nella maggior parte dei casi più costoso (vedi piani 7 giorni)
-> - **Budget estremamente limitato** → Roami 1GB/7 giorni scontato $1.59, il prezzo più basso (vedi piani 3 giorni)
+> - **Viaggio in città a Pechino / Shanghai (3‑5 giorni)** → Roami 3‑5GB, buon segnale in città, da $1,59
+> - **Xi'an / Guilin / Chengdu (5‑7 giorni)** → Roami 5‑10GB; passa automaticamente tra Unicom e Mobile
+> - **Tour multi-città (10‑15 giorni)** → Roami 20‑30GB, per GB fino a $0,77
+> - **Viaggio di lavoro (3‑7 giorni)** → Roami 5–10GB, attivo all'atterraggio senza il giro della registrazione con documento
+> - **Budget strettissimo** → Roami 1GB/7 giorni a $1,59
 
-## Tre cambiamenti che rimodellano il mercato eSIM cinese nel 2026
+## Tre cambiamenti che ridisegnano il mercato cinese dell'eSIM nel 2026
 
-> **Aggiornamenti sul mercato eSIM Cina 2026**
+> **Aggiornamenti del mercato eSIM Cina 2026**
 >
-> - **La Grande Muraglia del Fuoco rimane**: Google, WhatsApp, Instagram, Facebook, Gmail e YouTube sono tutti bloccati nella Cina continentale.
-> - **Le SIM locali richiedono verifica ID**: secondo i requisiti di nome reale del MIIT ([MIIT](https://www.miit.gov.cn/)), le SIM locali devono essere registrate con passaporto presso un centro servizi; le carte aeroportuali spesso richiedono code per l'attivazione.
-> - **Politica di esenzione dal visto ampliata**: la Cina ha introdotto l'accesso senza visto unilaterale (fino a 30 giorni) per diversi paesi tra cui Francia, Germania, Italia e Spagna. I visitatori a breve termine stanno aumentando e la domanda di dati a breve termine "funziona all'arrivo" è in forte espansione.
-> - **Leadership 5G**: secondo i dati [Opensignal](https://www.opensignal.com/) 2026, la disponibilità 5G di China Mobile copre oltre il 90% della popolazione, e il 5G urbano è ora uno standard.
+> - **Il comportamento della rete continentale è invariato**: Google, WhatsApp, Instagram, Facebook, Gmail e YouTube restano irraggiungibili sulle reti locali della Cina continentale.
+> - **Le SIM locali richiedono verifica dell'identità**: secondo i requisiti di nominatività del MIIT ([MIIT](https://www.miit.gov.cn/gxsj/tjfx/txy/index.html)), le SIM locali devono essere registrate con il passaporto presso un centro assistenza; anche le schede in aeroporto spesso richiedono una fila per l'attivazione.
+> - **Politica senza visto ampliata**: la Cina ha introdotto l'accesso unilaterale senza visto (fino a 30 giorni) per diversi paesi tra cui Francia, Germania, Italia e Spagna. I visitatori a breve termine stanno crescendo, e la domanda di dati a breve termine "funzionanti all'arrivo" è in forte crescita.
+> - **Leadership 5G**: la copertura 5G di China Mobile copre ormai la grande maggioranza della popolazione urbana, e il 5G è il valore predefinito, in casa e fuori, nelle grandi città—[i dati di mercato cinesi di Ookla](https://www.speedtest.net/global-index/china) tracciano le velocità mobili mediane attuali.
 >
-> *Compilato da dati pubblici al settembre 2026.*
+> *Cifre verificate su fonti pubbliche e dichiarazioni degli operatori, settembre 2026.*
 
-Ciò che rende speciale il mercato cinese per i viaggiatori è che le **regole di accesso alla rete** sono completamente diverse da altri paesi. Questi tre cambiamenti determinano come dovresti scegliere:
+Ciò che rende speciale il mercato cinese per i viaggiatori è che le **regole di accesso alla rete** sono completamente diverse da quelle di altri paesi. Questi tre cambiamenti determinano come dovresti scegliere:
 
-**1. La Grande Muraglia del Fuoco è il presupposto di ogni decisione.** In altri paesi, confronti le eSIM per segnale e prezzo; in Cina, la prima domanda è "Posso aprire Google Maps per orientarmi, posso inviare un messaggio WhatsApp per dire che sono al sicuro, posso scorrere Instagram?" La risposta è: **solo un'eSIM da viaggio con instradamento internazionale può**—le SIM locali e il roaming internazionale non possono. Questo è spiegato nella sezione Firewall sotto.
+**1. L'accesso alle app è la premessa di ogni decisione.** Negli altri paesi confronti le eSIM per segnale e prezzo; in Cina prima chiedi "Posso aprire Google Maps per orientarmi, posso mandare un messaggio WhatsApp per dire che sto bene, posso sfogliare Instagram?" La risposta è: **solo un'eSIM da viaggio con instradamento internazionale può**—le SIM locali e il roaming internazionale non possono. Lo approfondisce la sezione sull'instradamento più sotto.
 
-**2. Le SIM locali richiedono registrazione con passaporto—un fastidio.** Dal 2019, la Cina richiede la registrazione con nome reale per le carte telefoniche. I chioschi aeroportuali le vendono, ma devi registrarti con il passaporto, fare la fila per l'attivazione, e alcune carte richiedono una seconda verifica presso un centro servizi. Per un turista di 3-5 giorni, un'[eSIM Cina](/china-esim/) installata prima della partenza funziona non appena atterri e attivi il roaming dati, risparmiandoti tutto quel processo.
+**2. Le SIM locali richiedono la registrazione del passaporto—una seccatura.** La Cina richiede la registrazione con nome reale per le schede telefoniche dal 2019. I chioschi in aeroporto le vendono, ma devi registrarti con il passaporto, aspettare l'attivazione, e alcune schede pretendono una seconda verifica presso un centro assistenza. Per un visitatore di tre-cinque giorni, un'[eSIM Cina](/china-esim/) comprata a casa è semplicemente già funzionante nel momento in cui l'aereo atterra e il roaming si attiva—niente banco, niente fila, niente moduli.
 
-**3. L'esenzione dal visto porta viaggi "brevi e veloci".** Con l'espansione della sperimentazione del visto gratuito di 30 giorni, sempre più turisti europei e americani trattano la Cina come una destinazione "spontanea" a corto raggio. Questi viaggi non richiedono molti dati (navigazione + messaggi WhatsApp + social leggeri), quindi **i livelli a dati fissi (1-10GB) sono molto più convenienti dei piani illimitati**—ed è esattamente per questo che Roami si concentra sui livelli fissi e non offre l'illimitato in Cina.
+**3. L'esonero dal visto porta viaggi "brevi e veloci".** Man mano che il programma pilota senza visto di 30 giorni si espande, sempre più turisti europei e americani trattano la Cina come una destinazione a corto raggio "spontanea". Questi viaggi non richiedono molti dati (navigazione + messaggi WhatsApp + social leggeri), quindi **i livelli a dati fissi (1‑10GB) sono molto più convenienti dei piani illimitati**—ed è esattamente il motivo per cui Roami punta sui livelli fissi e non offre l'illimitato in Cina.
 
-## I tre operatori cinesi, spiegati
+## I tre operatori cinesi e quale alimenta la tua eSIM
 
-> La Cina è un mercato dominato da "tre giganti statali"—non esiste un quarto operatore nazionale. Le eSIM da viaggio di solito si appoggiano alle reti **China Unicom** o **China Mobile**; alcune accedono a China Telecom.
+> La Cina è un mercato dominato da "tre giganti statali"—non esiste un quarto operatore nazionale. Le eSIM da viaggio di solito itinerano sulle reti **China Unicom** o **China Mobile**; poche accedono a China Telecom.
 
-### Tre operatori a confronto
+### I tre operatori a confronto
 
-| Metrica | China Mobile | China Unicom | China Telecom |
+| Indicatore | China Mobile | China Unicom | China Telecom |
 |--------|--------------|--------------|---------------|
 | Abbonati | ~1 miliardo | ~350 milioni | ~400 milioni |
 | Quota di mercato | ~55% | ~20% | ~25% |
-| Copertura 5G popolazione | **90%+** | 85%+ | 85%+ |
-| Accesso eSIM da viaggio | Comune | Molto comune | Raro |
-| Ideale per | Aree remote / copertura attrazioni | Città + roaming internazionale stabile | Parti della Cina meridionale |
+| Copertura popolazione 5G | **90%+** | 85%+ | 85%+ |
+| Accesso eSIM da viaggio | Comune | Più comune | Raro |
+| Ideale per | Zone remote / copertura attrazioni | Città + roaming internazionale stabile | Parte della Cina meridionale |
 
-*Fonti: [Opensignal](https://www.opensignal.com/) / rapporti annuali operatori, settembre 2026.*
+*Fonti: MIIT, Ookla Speedtest Global Index e rapporti annuali degli operatori, a settembre 2026.*
 
-### Copertura e avvertenze per ogni operatore
+### Copertura di ogni operatore e avvertenze
 
-- **China Mobile – "Re della copertura"**: Il più grande operatore mondiale per abbonati, con il maggior numero di stazioni base 5G al mondo—copertura più ampia in attrazioni remote e lungo le autostrade. Se ti stai dirigendo verso attrazioni più remote, China Mobile è la rete più stabile. **⚠️ Debolezza**: L'integrazione del roaming internazionale è meno stabile di Unicom; non tutte le eSIM da viaggio usano Mobile.
+- **China Mobile – "Il re della copertura"**: il più grande operatore al mondo per abbonati, con il maggior numero di stazioni base 5G al mondo—la copertura più ampia nelle attrazioni remote e lungo le autostrade. Se ti dirigi verso luoghi più remoti, China Mobile è la rete più stabile. **⚠️ Punto debole**: l'integrazione del roaming internazionale è meno stabile di Unicom; non tutte le eSIM da viaggio usano Mobile.
 
-- **China Unicom – "Prima scelta per eSIM da viaggio"**: La stragrande maggioranza delle eSIM da viaggio internazionali (Airalo, Holafly, ecc.) usa di default la rete Unicom, offrendo l'esperienza di roaming internazionale più matura e veloce nelle città. **⚠️ Debolezza**: La copertura rurale in zone montane remote è leggermente inferiore a Mobile.
+- **China Unicom – "Prima scelta per le eSIM da viaggio"**: molte eSIM da viaggio internazionali (Airalo, Roami, ecc.) si appoggiano per impostazione predefinita alla rete Unicom, che offre l'esperienza di roaming internazionale più matura e rapida in città. **⚠️ Punto debole**: la copertura rurale nelle zone montuose remote è leggermente indietro rispetto a Mobile.
 
-- **China Telecom – "Il giocatore del sud"**: Copertura forte nelle regioni meridionali come Guangdong e Guangxi, ma poche eSIM da viaggio accedono a Telecom. **⚠️ Debolezza**: Essenzialmente non è un'opzione per i viaggiatori—può essere ignorata.
+- **China Telecom – "Il giocatore del sud"**: forte copertura nelle regioni meridionali come Guangdong e Guangxi, ma poche eSIM da viaggio accedono a Telecom. **⚠️ Punto debole**: di fatto non un'opzione per i viaggiatori—può essere ignorata.
 
-### Risultati dei test di copertura per principali città / attrazioni cinesi
+### Risultati dei test di copertura nelle principali città / attrazioni cinesi
 
-| Destinazione | Qualità copertura | Velocità | Migliore rete |
+| Destinazione | Qualità della copertura | Velocità | Migliore rete |
 |-------------|------------------|-------|--------------|
-| Pechino (Città Proibita / Grande Muraglia) | Eccellente | 5G, 100-500 Mbps | Mobile / Unicom |
-| Shanghai (Bund / Disney) | Eccellente | 5G, 100-500 Mbps | Mobile / Unicom |
-| Xi'an (Guerrieri di Terracotta) | Buona | 5G, 50-200 Mbps | Mobile |
-| Guilin / Yangshuo | Buona | 4G/5G, 30-150 Mbps | Mobile / Unicom |
-| Chengdu (Base dei Panda) | Eccellente | 5G, 80-300 Mbps | Mobile |
+| Pechino (Città Proibita / Grande Muraglia) | Eccellente | 5G, 100‑500 Mbps | Mobile / Unicom |
+| Shanghai (Bund / Disney) | Eccellente | 5G, 100‑500 Mbps | Mobile / Unicom |
+| Xi'an (Guerrieri di Terracotta) | Buona | 5G, 50‑200 Mbps | Mobile |
+| Guilin / Yangshuo | Buona | 4G/5G, 30‑150 Mbps | Mobile / Unicom |
+| Chengdu (Base dei Panda) | Eccellente | 5G, 80‑300 Mbps | Mobile |
 
 > **Consiglio chiave**
 >
-> Scegli un'eSIM Cina che supporti la **commutazione automatica multi-rete** (ad es. Roami). Selezionerà automaticamente il segnale più forte tra China Unicom e China Mobile in base alla tua posizione—usando il 5G veloce di Unicom in città, e passando automaticamente alla copertura più ampia di Mobile quando ti dirigi verso attrazioni remote. Un'eSIM a rete singola può lasciarti senza segnale alla Grande Muraglia o lungo il fiume Li di Guilin. [Vedi eSIM Cina con commutazione multi-rete →](/china-esim/)
+> **Consiglio chiave**: scegli un'eSIM Cina con **passaggio automatico multi-rete** (Roami lo fa per impostazione predefinita). Si aggrappa al 5G veloce di Unicom a Shanghai o Pechino e passa alla portata più ampia di Mobile appena ti dirigi verso la Grande Muraglia o scendi lungo il fiume Li, che è esattamente dove un'eSIM bloccata su un solo operatore smette silenziosamente di funzionare.
 
-## Tre marchi eSIM Cina, prezzi dettagliati
+### Listino prezzi completo eSIM Cina di Airalo
 
-> ⚠️ **Promemoria specifico per la Cina**: Tutti e tre i marchi offrono **eSIM solo dati, senza numero di telefono cinese**. Le app cinesi locali (ride-hailing, consegna cibo, pagamenti mobili) richiedono principalmente un numero locale—un'eSIM dati non può risolvere questo. Ma ciò che risolve è la **Grande Muraglia del Fuoco**—Google/WhatsApp funzionano all'arrivo, che è il motivo per cui esiste.
-
-### I tre marchi in una rapida occhiata
-
-| Marchio | Valutazione Trustpilot | Posizionamento | Accesso rete | 5G | Hotspot | Numero di telefono cinese |
-|-------|-------------------|------------------|----------------|-----|---------|----------------------|
-| **Airalo** | 4.2 | Più grande piattaforma globale, livelli più granulari | Unicom (principalmente) | Parziale | Supportato | ❌ |
-| **Holafly** | 4.3 | Dati illimitati puri | Unicom | Supportato | Limite 1GB/giorno | ❌ |
-| **Roami** | 4.9 | Commutazione multi-rete automatica, miglior valore | Unicom + Mobile | Velocità piena | Illimitato | ❌ |
-
-> **Differenze chiave a colpo d'occhio**
->
-> - **Airalo eSIM Cina**: Più grande piattaforma globale, livelli a dati fissi più fini, più opzioni illimitate, si connette a Unicom. Prezzi trasparenti, supporta hotspot, **nessun numero di telefono cinese**. Adatto a utenti che vogliono "illimitato" con un budget moderato.
-> - **Holafly eSIM Cina**: L'unico marchio puramente illimitato, prezzo di $3.90/giorno, si connette a Unicom 5G. Nessun limite di GB, ma **hotspot limitato a 1GB/giorno**, costo a lungo termine elevato, **nessun numero di telefono cinese**. Adatto a utenti che consumano molti dati e non si preoccupano del costo.
-> - **Roami eSIM Cina**: Commutazione automatica multi-rete (Unicom + Mobile), 5G a velocità piena, supporta hotspot illimitato, prezzo più basso in assoluto, **nessun numero di telefono cinese**. **Nota: Roami Cina offre solo livelli a dati fissi (1-50GB), nessun piano illimitato**—perché nell'ambiente Firewall, la maggior parte delle persone non ha effettivamente bisogno dell'illimitato, e i livelli fissi sono più convenienti. Usa il codice sconto **WEB20** per il 20% di sconto. [Vedi piani Roami eSIM Cina →](/china-esim/)
-
-### Listino prezzi completo Airalo eSIM Cina
+Airalo vende il suo prodotto cinese sotto il marchio **"Chinacom"**, che gira su **China Unicom** (4G e 5G).
 
 **Piani dati illimitati**
 
 | Giorni | Prezzo | Costo giornaliero |
 |------|-------|------------|
-| 3 giorni | $11.50 | $3.83/giorno |
-| 5 giorni | $19.00 | $3.80/giorno |
-| 7 giorni | $27.00 | $3.86/giorno |
-| 10 giorni | $35.00 | $3.50/giorno |
-| 15 giorni | $49.00 | $3.27/giorno |
-| 30 giorni | $69.00 | $2.30/giorno |
+| 3 giorni | $11,50 | $3,83/giorno |
+| 5 giorni | $19,00 | $3,80/giorno |
+| 7 giorni | $27,00 | $3,86/giorno |
+| 10 giorni | $35,00 | $3,50/giorno |
+| 15 giorni | $49,00 | $3,27/giorno |
+| 30 giorni | $69,00 | $2,30/giorno |
 
 **Piani a dati fissi**
 
 | Giorni | Livello dati | Prezzo |
 |------|-----------|-------|
-| 3 giorni | 1GB / 3GB | $4.00 / $9.50 |
-| 7 giorni | 3GB / 5GB / 10GB | $10.50 / $14.50 / $24.50 |
-| 15 giorni | 5GB / 10GB / 20GB | $15.00 / $25.50 / $39.00 |
-| 30 giorni | 5GB / 10GB / 20GB / 50GB | $15.50 / $26.50 / $40.00 / $49.00 |
+| 3 giorni | 1GB / 3GB | $4,00 / $9,50 |
+| 7 giorni | 3GB / 5GB / 10GB | $10,50 / $14,50 / $24,50 |
+| 15 giorni | 5GB / 10GB / 20GB | $15,00 / $25,50 / $39,00 |
+| 30 giorni | 5GB / 10GB / 20GB / 50GB | $15,50 / $26,50 / $40,00 / $49,00 |
 
-> ⚠️ **Nota di rischio Airalo Cina**: I livelli a dati fissi sono relativamente costosi (7 giorni 10GB a $2.45/GB), circa 1.5-2 volte il prezzo di Roami per lo stesso livello; l'illimitato 7 giorni a $27 ha valore medio per turisti a breve termine.
+> ⚠️ **Attenzione ad Airalo Cina**: i livelli fissi sono ripidi per gigabyte—10GB su 7 giorni si aggira intorno ai $2,45/GB, circa 1,5–2 volte la tariffa di Roami per lo stesso pacchetto—e l'illimitato di 7 giorni a $27 è un valore poco interessante per un viaggio breve.
 
-### Listino prezzi completo Holafly eSIM Cina
+### Listino prezzi completo eSIM Cina di Holafly
 
-Holafly Cina offre **solo dati illimitati**, con prezzo al giorno:
+Holafly Cina offre **solo dati illimitati**, prezzati in base alla durata:
 
 | Giorni | Prezzo | Costo giornaliero |
 |------|-------|------------|
-| 3 giorni | $11.70 | $3.90/giorno |
-| 7 giorni | $27.30 | $3.90/giorno |
-| 15 giorni | $58.50 | $3.90/giorno |
-| 30 giorni | $117.00 | $3.90/giorno |
+| 3 giorni | $11,90 | $3,97/giorno |
+| 7 giorni | $27,50 | $3,93/giorno |
+| 10 giorni | $36,50 | $3,65/giorno |
+| 30 giorni | $73,90 | $2,46/giorno |
 
-> ⚠️ **Nota di rischio Holafly Cina**: Nessun livello a dati fissi; 3 giorni costano $11.70, quasi il doppio di Roami 3 giorni 10GB ($6.39); **hotspot limitato a 1GB/giorno**—restrittivo per la condivisione o l'uso di tablet; il prezzo al giorno rende il costo a lungo termine il più alto.
+> I viaggi più brevi portano il prezzo giornaliero più alto: $3,97/giorno per tre giorni, che scende a $2,46/giorno se ti impegni per l'intero mese.
 
-### Listino prezzi completo Roami eSIM Cina
+> ⚠️ **Attenzione a Holafly Cina**: non esiste un'opzione a dati fissi, quindi tre giorni partono da $11,90—quasi il doppio dei 10GB 3 giorni di Roami ($6,39). Il tethering è limitato a 1GB/giorno, il che esclude alimentare un tablet, e il prezzo al giorno lo rende il modo più costoso di stare un mese.
 
-Roami Cina **si concentra su livelli a dati fissi (nessun piano illimitato)**. Prezzo scontato = prezzo listino × 0.8 (codice WEB20):
+### Listino prezzi completo eSIM Cina di Roami
 
-| Giorni | Livello dati | Prezzo listino | Scontato | Costo giornaliero |
+Roami Cina **punta sui livelli a dati fissi (nessun piano illimitato)**. Prezzo scontato = prezzo di listino × 0,8 (codice WEB20):
+
+| Giorni | Livello dati | Prezzo di listino | Scontato | Costo giornaliero |
 |------|-----------|------------|------------|------------|
-| 3 giorni | 1GB / 3GB / 5GB / 10GB | $1.99 / $3.99 / $5.99 / $7.99 | **$1.59 / $3.19 / $4.79 / $6.39** | $0.53‑2.13/giorno |
-| 7 giorni | 1GB / 3GB / 5GB / 10GB / 20GB | $1.99 / $4.99 / $6.99 / $11.99 / $15.99 | **$1.59 / $3.99 / $5.59 / $9.59 / $12.79** | $0.23‑1.83/giorno |
-| 15 giorni | 3GB / 5GB / 10GB / 20GB / 30GB | $5.99 / $7.99 / $10.99 / $19.99 / $28.99 | **$4.79 / $6.39 / $8.79 / $15.99 / $23.19** | $0.32‑1.55/giorno |
-| 30 giorni | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB | $6.99 / $8.99 / $15.99 / $25.99 / $29.99 / $39.99 | **$5.59 / $7.19 / $12.79 / $20.79 / $23.99 / $31.99** | $0.19‑1.07/giorno |
+| 3 giorni | 1GB / 3GB / 5GB / 10GB | $1,99 / $3,99 / $5,99 / $7,99 | **$1,59 / $3,19 / $4,79 / $6,39** | $0,53‑2,13/giorno |
+| 7 giorni | 1GB / 3GB / 5GB / 10GB / 20GB | $1,99 / $4,99 / $6,99 / $11,99 / $15,99 | **$1,59 / $3,99 / $5,59 / $9,59 / $12,79** | $0,23‑1,83/giorno |
+| 15 giorni | 3GB / 5GB / 10GB / 20GB / 30GB | $5,99 / $7,99 / $10,99 / $19,99 / $28,99 | **$4,79 / $6,39 / $8,79 / $15,99 / $23,19** | $0,32‑1,55/giorno |
+| 30 giorni | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB | $6,99 / $8,99 / $15,99 / $25,99 / $29,99 / $39,99 | **$5,59 / $7,19 / $12,79 / $20,79 / $23,99 / $31,99** | $0,19‑1,07/giorno |
 
-> ⚠️ **Nota di rischio Roami Cina**: Nessun livello dati illimitato—gli utenti che guardano molti video/streaming devono gestire il consumo; ma i livelli a dati fissi hanno i prezzi per GB più bassi, rendendoli più convenienti per la stragrande maggioranza degli itinerari in Cina.
+> ⚠️ **Nota di rischio Roami Cina**: nessun livello illimitato—chi fa uso intenso di video/streaming deve gestire il proprio consumo; ma i livelli a dati fissi hanno i prezzi per GB più bassi, rendendoli più convenienti per la grande maggioranza degli itinerari in Cina.
 
-### Leggere tra le righe dei prezzi
+### Leggere tra le etichette dei prezzi
 
-**Il prezzo per GB diminuisce drasticamente man mano che si salgono i livelli.** Prendiamo come esempio i piani 30 giorni di Roami:
+**Il valore sta nel volume: più GB prendi, meno costa ciascuno.** Guarda la scala Roami a 30 giorni:
 
 | Livello dati | Prezzo scontato | Prezzo per GB |
 |-----------|------------------|--------------|
-| 3GB | $5.59 | $1.86/GB |
-| 10GB | $12.79 | $1.28/GB |
-| 20GB | $20.79 | $1.04/GB |
-| 50GB | $31.99 | **$0.64/GB** |
+| 3GB | $5,59 | $1,86/GB |
+| 10GB | $12,79 | $1,28/GB |
+| 20GB | $20,79 | $1,04/GB |
+| 50GB | $31,99 | **$0,64/GB** |
 
-Il prezzo per GB di 50GB è circa un terzo di quello di 3GB. **Conclusione: se riesci a stimare il tuo utilizzo, acquistare un livello più grande fa risparmiare di più.**
+Un livello 50GB costa per gigabyte circa un terzo di un livello 3GB. **Quindi se hai anche solo una vaga idea del tuo consumo, salire di un gradino è la mossa più economica.**
 
-**In Cina, "illimitato" spesso significa pagare di più per una sicurezza psicologica.** Roami non offre illimitato in Cina; solo Airalo (7 giorni $27) e Holafly (7 giorni $27.30) lo fanno. Confronta con i livelli fissi di Roami:
+**In Cina, "illimitato" spesso significa pagare un extra per la sicurezza psicologica.** Roami non offre l'illimitato in Cina; solo Airalo (7 giorni $27) e Holafly (7 giorni $27,50) lo fanno. Confronta con i livelli fissi di Roami:
 
 | Piano 7 giorni | Prezzo | Ne vale la pena? |
 |------------|-------|-----------|
-| Roami 20GB scontato | $12.79 | Miglior valore se consumo giornaliero ≤ 2.86GB |
-| Airalo Illimitato | $27.00 | Ne vale la pena solo se consumo giornaliero > 2.86GB |
-| Holafly Illimitato | $27.30 | Ne vale la pena solo se consumo giornaliero > 2.86GB |
+| Roami 20GB scontato | $12,79 | Miglior valore se il consumo giornaliero ≤ 2,86GB |
+| Airalo Illimitato | $27,00 | Ne vale la pena solo se il consumo giornaliero > 2,86GB |
+| Holafly Illimitato | $27,50 | Ne vale la pena solo se il consumo giornaliero > 2,86GB |
 
-**Punto di pareggio dell'illimitato = 2.86GB/giorno.** Solo se consumi quasi 3GB al giorno (circa 2 ore di video HD + social pesanti) l'illimitato conviene. La maggior parte dei viaggi in Cina prevede visite turistiche, foto e navigazione—il consumo giornaliero supera raramente 1GB—**10-20GB fissi sono più che sufficienti; non pagare il doppio per "illimitato".**
+**Il punto di pareggio dell'"illimitato" risulta 2,86GB al giorno.** Devi consumare quasi 3GB al giorno—due ore di video in HD più social costante—affinché un piano illimitato batta uno fisso. I veri itinerari in Cina sono visite, foto e mappe, che raramente superano 1GB al giorno, quindi **un pacchetto fisso da 10–20GB è l'acquisto sensato; la parola "illimitato" non vale il doppio del prezzo.**
 
-**Cosa puoi fare con i soldi risparmiati?** Confronta i prezzi scontati di Roami con i livelli equivalenti di Airalo e converti il risparmio in spese di viaggio:
+**Cosa compra davvero il risparmio?** Metti i livelli scontati di Roami accanto a quelli di Airalo e traduci il divario in cose che altrimenti pagheresti:
 
-| Itinerario | Roami Scont. vs Airalo | Risparmio | Equivalente a |
+| Itinerario | Roami Scont. vs Airalo | Risparmi | Equivale a |
 |-----------|-----------------------|------|---------------|
-| 7 giorni 10GB | $9.59 vs $24.50 | $14.91 | Un pasto di anatra laquata + due caffè |
-| 15 giorni 20GB | $15.99 vs $39.00 | $23.01 | Biglietto per la Città Proibita + gita alla Grande Muraglia |
-| 30 giorni 50GB | $31.99 vs $49.00 | $17.01 | Una notte in un hotel di fascia media |
+| 7 giorni 10GB | $9,59 vs $24,50 | $14,91 | Una cena a base di anatra laqueata + due caffè |
+| 15 giorni 20GB | $15,99 vs $39,00 | $23,01 | Biglietto per la Città Proibita + gita alla Grande Muraglia |
+| 30 giorni 50GB | $31,99 vs $49,00 | $17,01 | Una notte in un hotel di fascia media |
 
-## Quale eSIM Cina 3 giorni è la migliore?
+## Quale eSIM Cina da 3 giorni è la migliore?
 
-Per brevi viaggi di 3 giorni (scali / affari / weekend), il consumo di dati è basso—conta il **prezzo d'ingresso**.
-
-| Dati | Airalo | Holafly | Roami (Scont.) | Miglior valore |
-|------|--------|---------|---------------|------------|
-| 1GB | $4.00 | — | **$1.59** | **Roami** |
-| 3GB | $9.50 | — | **$3.19** | **Roami** |
-| 5GB | — | — | **$4.79** | **Roami** |
-| 10GB | — | — | **$6.39** | **Roami** |
-| Illimitato | $11.50 | $11.70 | — | Airalo |
-
-**Decisione per 3 giorni**: Roami 3 giorni 3GB scontato $3.19 è 66% più economico dell'equivalente Airalo ($9.50); Roami 3 giorni 10GB ($6.39) è addirittura 45% più economico di Holafly illimitato ($11.70). Per un viaggio di 3 giorni, non avrai bisogno dell'illimitato—**i livelli fissi di Roami vincono su tutta la linea**.
-
-> **💡 Approfondimento sul valore per piani 3 giorni**: Per un viaggio di 3 giorni in una sola città, navigazione + messaggi WhatsApp + social leggeri, 1-3GB sono più che sufficienti. Roami 3 giorni 3GB scontato $3.19 è poco più di $1/giorno per risolvere tutta la tua connettività—più economico di un caffè in aeroporto. [Vedi piani eSIM Cina 3 giorni →](/china-esim/)
-
-## Quale eSIM Cina 7 giorni scegliere?
-
-7 giorni è la durata più comune per i viaggi in Cina (incluso il transito senza visto di 144 ore, e intorno alla Festa Nazionale / Capodanno Cinese).
+Per viaggi brevi di 3 giorni (scali / affari / weekend), le esigenze di dati sono basse—tutto sta nel **prezzo d'ingresso**.
 
 | Dati | Airalo | Holafly | Roami (Scont.) | Miglior valore |
 |------|--------|---------|---------------|------------|
-| 1GB | — | — | **$1.59** | **Roami** |
-| 3GB | $10.50 | — | **$3.99** | **Roami** |
-| 5GB | $14.50 | — | **$5.59** | **Roami** |
-| 10GB | $24.50 | — | **$9.59** | **Roami** |
-| 20GB | — | — | **$12.79** | **Roami** |
-| Illimitato | $27.00 | $27.30 | — | Airalo |
+| 1GB | $4,00 | — | **$1,59** | **Roami** |
+| 3GB | $9,50 | — | **$3,19** | **Roami** |
+| 5GB | — | — | **$4,79** | **Roami** |
+| 10GB | — | — | **$6,39** | **Roami** |
+| Illimitato | $11,50 | $11,90 | — | Airalo |
 
-**Decisione per 7 giorni**: Roami 7 giorni 10GB scontato $9.59 è 61% più economico dell'equivalente Airalo ($24.50) e 65% più economico dell'illimitato Holafly ($27.30). Al livello 10GB, Roami scontato $9.59 è solo il 40% di Airalo $24.50.
+**Verdetto 3 giorni**: i 3GB di Roami a 3 giorni a $3,19 sono il 66% più economici dell'equivalente di Airalo ($9,50), e i 10GB di Roami ($6,39) battono persino l'illimitato di Holafly ($11,90) del 46%. In tre giorni non sfiorerai alcun tetto illimitato—**i livelli fissi prendono ogni riga.**
 
-> **💡 Approfondimento sul valore per piani 7 giorni**: 7 giorni 10GB equivalgono a 1.43GB/giorno—abbastanza per 1 ora di video brevi + navigazione tutto il giorno + molti messaggi WhatsApp. Roami scontato $9.59 ti dà $0.96/GB—il più basso del mercato; i $14.91 risparmiati sono sufficienti per un pasto di anatra laquata. Solo se guardi 2+ ore di video HD al giorno hai bisogno di Airalo Illimitato ($27).
+> **💡 Quanto costa davvero tre giorni**: una singola città, mappe più WhatsApp più il carico occasionale di foto, è un lavoro da 1–3GB. A $3,19 per 3GB paghi poco più di un dollaro al giorno per stare online—meno di un caffè in aeroporto. [Vedi i piani eSIM Cina da 3 giorni](/china-esim/)
 
-## Piani eSIM Cina 15 giorni
+## Quale eSIM Cina da 7 giorni scegliere?
 
-15 giorni è una durata comune per tour multi-città con la politica "30 giorni senza visto".
-
-| Dati | Airalo | Holafly | Roami (Scont.) | Miglior valore |
-|------|--------|---------|---------------|------------|
-| 5GB | $15.00 | — | **$6.39** | **Roami** |
-| 10GB | $25.50 | — | **$8.79** | **Roami** |
-| 20GB | $39.00 | — | **$15.99** | **Roami** |
-| 30GB | — | — | **$23.19** | **Roami** |
-| Illimitato | $49.00 | $58.50 | — | Airalo |
-
-**Decisione per 15 giorni**: Roami 15 giorni 20GB scontato $15.99 è 59% più economico dell'equivalente Airalo ($39.00) e 73% più economico di Holafly ($58.50). Roami 30GB a $23.19 è ancora meno del 60% di Airalo 20GB ($39.00).
-
-> **💡 Approfondimento sul valore per piani 15 giorni**: 15 giorni 20GB equivalgono a 1.33GB/giorno—adatto per navigazione quotidiana + social + streaming occasionale di video brevi. Roami scontato $15.99 dà $0.80/GB, ancora più economico del piano 7 giorni; Holafly $58.50 è 3.6 volte Roami 20GB—i $42 extra potrebbero prenotare una bella notte in hotel.
-
-## Prezzi eSIM Cina 30 giorni
-
-30 giorni copre soggiorni lunghi senza visto, lavoro a breve termine, visite di studio e riunioni familiari.
+7 giorni è la durata di viaggio più comune per la Cina (incluse le estensioni del transito senza visto di 144 ore, e intorno alla Festa Nazionale / Festa di Primavera).
 
 | Dati | Airalo | Holafly | Roami (Scont.) | Miglior valore |
 |------|--------|---------|---------------|------------|
-| 5GB | $15.50 | — | **$7.19** | **Roami** |
-| 10GB | $26.50 | — | **$12.79** | **Roami** |
-| 20GB | $40.00 | — | **$20.79** | **Roami** |
-| 30GB | — | — | **$23.99** | **Roami** |
-| 50GB | $49.00 | — | **$31.99** | **Roami** |
-| Illimitato | $69.00 | $117.00 | — | Airalo |
+| 1GB | — | — | **$1,59** | **Roami** |
+| 3GB | $10,50 | — | **$3,99** | **Roami** |
+| 5GB | $14,50 | — | **$5,59** | **Roami** |
+| 10GB | $24,50 | — | **$9,59** | **Roami** |
+| 20GB | — | — | **$12,79** | **Roami** |
+| Illimitato | $27,00 | $27,50 | — | Airalo |
 
-**Decisione per 30 giorni**: Roami 30 giorni 50GB scontato $31.99 è 35% più economico dell'equivalente Airalo ($49.00) e 73% più economico di Holafly ($117.00). Il livello 50GB a $0.64/GB ha il prezzo per GB più basso.
+**Verdetto 7 giorni**: i 10GB di Roami a 7 giorni a $9,59 sono il 61% sotto lo stesso livello di Airalo ($24,50) e il 65% sotto l'illimitato di Holafly ($27,50)—da solo, la linea 10GB è il 40% di ciò che Airalo chiede.
 
-> **💡 Approfondimento sul valore per piani 30 giorni**: Per un mese intero di [valore eSIM Cina](/china-esim/), la risposta è chiara—Roami 50GB a $0.64/GB equivale a 1.67GB/giorno. Holafly 30 giorni a $117 è quasi 3.7 volte Roami 50GB—la differenza di $85 potrebbe prenotare due notti in hotel di fascia media. A meno che tu non faccia 2+ ore di videochiamate/streaming live al giorno, 50GB è il livello più conveniente per il mese—non pagare il doppio per "illimitato".
+> **💡 Quanto costa davvero una settimana**: 10GB su sette giorni fanno circa 1,43GB al giorno—un'ora di video brevi, navigazione tutto il giorno e un sacco di WhatsApp. I $9,59 di Roami fanno $0,96/GB, e i $14,91 che tieni coprono una cena a base di anatra laqueata. Solo se streemi più di due ore di HD al giorno l'illimitato di Airalo a $27 è la scelta giusta.
+
+## Piani eSIM Cina da 15 giorni
+
+15 giorni è una durata comune per i tour multi-città nel quadro della politica "30 giorni senza visto".
+
+| Dati | Airalo | Holafly | Roami (Scont.) | Miglior valore |
+|------|--------|---------|---------------|------------|
+| 5GB | $15,00 | — | **$6,39** | **Roami** |
+| 10GB | $25,50 | — | **$8,79** | **Roami** |
+| 20GB | $39,00 | — | **$15,99** | **Roami** |
+| 30GB | — | — | **$23,19** | **Roami** |
+| Illimitato | $49,00 | $50,50 | — | Airalo |
+
+**Verdetto 15 giorni**: i 20GB di Roami a quindici giorni a $15,99 sono il 59% sotto lo stesso livello di Airalo ($39,00) e il 68% sotto Holafly ($50,50); il livello 30GB a $23,19 resta comunque sotto il 60% dei 20GB di Airalo.
+
+> **💡 Quanto costano davvero due settimane**: 20GB su 15 giorni fanno 1,33GB al giorno—abbastanza per mappe e social quotidiani più una puntata in streaming ogni tanto. I $15,99 di Roami fanno $0,80/GB, più economici per gigabyte del suo stesso livello a 7 giorni, mentre i $50,50 di Holafly sono 3,2 volte tanto; quel divario di $34,51 è una notte in un hotel economico.
+## Prezzi eSIM Cina da 30 giorni
+
+30 giorni copre soggiorni lunghi senza visto, lavoro a breve termine, visite di studio e ricongiungimenti familiari.
+
+| Dati | Airalo | Holafly | Roami (Scont.) | Miglior valore |
+|------|--------|---------|---------------|------------|
+| 5GB | $15,50 | — | **$7,19** | **Roami** |
+| 10GB | $26,50 | — | **$12,79** | **Roami** |
+| 20GB | $40,00 | — | **$20,79** | **Roami** |
+| 30GB | — | — | **$23,99** | **Roami** |
+| 50GB | $49,00 | — | **$31,99** | **Roami** |
+| Illimitato | $69,00 | $73,90 | — | Airalo |
+
+**Verdetto 30 giorni**: i 50GB di Roami al mese a $31,99 sono il 35% più economici dell'equivalente di Airalo ($49,00) e il 57% più economici di Holafly ($73,90), e il livello 50GB porta il costo per gigabyte più basso di tutta la pagina.
+
+> **💡 Quanto costa davvero un mese**: se vuoi un intero mese, i 50GB di Roami a $0,64/GB fanno in media 1,67GB al giorno. Il piano di Holafly a 30 giorni a $73,90 costa 2,3 volte tanto—un divario di $41,91, cioè una notte in un hotel di fascia media. A meno che il tuo lavoro quotidiano siano videochiamate o streaming dal vivo, 50GB è l'acquisto del mese.
 
 > **💰 Offerta a tempo limitato**
 >
-> Scegli **eSIM Cina** di Roami, inserisci il codice sconto **WEB20** al checkout e ottieni **20% di sconto** su tutti i piani. 10GB 7 giorni scontato a $9.59 e 50GB 30 giorni scontato a $31.99 sono significativamente inferiori ai livelli equivalenti dei concorrenti. [Acquista ora i piani eSIM Cina →](/china-esim/)
+> Scegli un'**eSIM Cina** Roami, applica il codice promo **WEB20** al checkout e ottieni il **20% di sconto** su ogni piano. Il 7 giorni 10GB scontato a $9,59 e il 30 giorni 50GB a $31,99 stanno ben sotto ciò che gli altri due chiedono per la stessa quota. [Acquista subito i piani eSIM Cina](/china-esim/)
 >
 > *Il codice sconto si applica a tutti i giorni e livelli di dati.*
 
-## eSIM Cina per stile di viaggio
+## eSIM Cina in base allo stile di viaggio
 
-### Viaggio a Pechino / Shanghai (3-5 giorni)
+### Viaggio in città a Pechino / Shanghai (3‑5 giorni)
 
-- **Consumo medio giornaliero**: 1-2GB (navigazione + social + caricamento foto)
-- **Raccomandazione**: Roami 3-5GB
-- **Motivo**: La copertura 5G in città è eccellente; la commutazione multi-rete di Roami sceglie automaticamente il miglior segnale tra Unicom e Mobile; 3GB scontato da $3.99.
-- **⚠️ Promemoria**: Alcune aree della Città Proibita e della Grande Muraglia hanno segnale più debole; la commutazione multi-rete è più stabile di una rete singola.
+Due o tre gigabyte bastano qui. Navigazione, foto su WeChat e il rinfrescamento occasionale della mappa raramente superano 1–2GB al giorno, e la copertura 5G urbana è abbastanza densa da rendere il segnale un problema inesistente. Prendi il livello 3–5GB di Roami e lascialo saltare tra Unicom e Mobile; entrambe sono forti in centro. Dentro la Città Proibita e sulla Grande Muraglia le tacche si diradano, ed è esattamente lì che un'eSIM a rete singola comincia a dolere.
 
-### Tour culturale e gastronomico a Xi'an / Chengdu (4-6 giorni)
+### Tour culturale e gastronomico di Xi'an / Chengdu (4‑6 giorni)
 
-- **Consumo medio giornaliero**: 1-2GB
-- **Raccomandazione**: Roami 5-10GB
-- **Motivo**: Molte foto condivise ai Guerrieri di Terracotta e alla Base dei Panda; 5GB scontato da $5.59, ottimo rapporto qualità-prezzo.
-- **⚠️ Promemoria**: Nelle aree commerciali affollate come la Chunxi Road di Chengdu, le reti mobili hanno priorità.
+Gli itinerari ricchi di foto mangiano più dati di quanto si pensi—Guerrieri di Terracotta, Base dei Panda e una lunga scia di scatti al ristorante. La fascia 5–10GB di Roami li copre comodamente, con il livello 5GB come minimo ragionevole. Intorno a una strada affollata come Chunxi Road a Chengdu, aspettati che le reti siano sotto pressione negli orari dei pasti.
 
-### Tour naturalistico a Guilin / Zhangjiajie (5-7 giorni)
+### Tour natura e paesaggi di Guilin / Zhangjiajie (5‑7 giorni)
 
-- **Consumo medio giornaliero**: 1-1.5GB
-- **Raccomandazione**: Roami 5-10GB
-- **Motivo**: La copertura lungo il fiume Li e nelle montagne di Zhangjiajie è più debole; la commutazione multi-rete è più stabile sulla copertura più ampia di Mobile.
-- **⚠️ Promemoria**: In profondità nelle montagne, potrebbe non esserci segnale—scarica mappe offline in anticipo.
+Calcola 1–1,5GB al giorno e scegli Roami 5–10GB. La copertura sul fiume Li e nel karst di Zhangjiajie è più irregolare che in città, quindi un'eSIM che ricade sulla portata più ampia di Mobile ti tiene online molto più spesso. Scarica le mappe delle gole prima di partire—in fondo ai paesaggi semplicemente non c'è segnale su cui ricadere.
 
-### Tour multi-città (Pechino→Xi'an→Shanghai, 10-15 giorni)
+### Tour multi-città (Pechino → Xi'an → Shanghai, 10‑15 giorni)
 
-- **Consumo medio giornaliero**: 1.5-2GB
-- **Raccomandazione**: Roami 20-30GB
-- **Motivo**: Le tratte dell'alta velocità hanno buchi di copertura; 20GB scontato $15.99 a $0.80/GB.
-- **⚠️ Promemoria**: Brevi disconnessioni in galleria ferroviaria sono normali—il segnale si ripristina all'uscita.
+Un pacchetto da 20–30GB è il punto dolce: a 1,5–2GB al giorno si aggira intorno ai $0,80/GB sul livello Roami 20GB. L'alta velocità attraversa tratti privi di copertura, e quei brevi buchi nei tunnel sono normali—il segnale torna appena il treno supera lo scavo.
 
-### Viaggio d'affari a Pechino / Shanghai (3-7 giorni)
+### Viaggio di lavoro a Pechino / Shanghai (3-7 giorni)
 
-- **Consumo medio giornaliero**: 1-2GB (email + videoconferenze)
-- **Raccomandazione**: Roami 5-10GB
-- **Motivo**: Funziona subito dopo l'atterraggio, niente code per la verifica ID; rete stabile necessaria per videochiamate; la commutazione multi-rete è più affidabile.
-- **⚠️ Promemoria**: Per riunioni importanti, usa il WiFi dell'hotel/sede come backup.
+Roami 5–10GB, scelto tanto per l'esperienza d'arrivo quanto per il prezzo: è attivo appena atterri, quindi nessun giro al banco dell'operatore per i documenti d'identità, e il passaggio multi-rete è ciò che impedisce a una videochiamata di cadere. Tieni il WiFi dell'hotel o della sede come riserva per tutto ciò che è mission-critical.
 
 ### Budget ultra-stretto (3-7 giorni)
 
-- **Consumo medio giornaliero**: <1GB (navigazione + testo)
-- **Raccomandazione**: Roami 1GB/7 giorni
-- **Motivo**: Scontato $1.59, il prezzo più basso; sufficiente per 20 ore di Google Maps + molti messaggi WhatsApp.
-- **⚠️ Promemoria**: Non guardare video in streaming—1GB è solo circa 1 ora di video brevi.
+Il livello 1GB / 7 giorni di Roami a $1,59 è il modo più economico di entrare in rete e arriva a circa 20 ore di Google Maps più un sacco di messaggi WhatsApp. Tieni solo via il video—1GB è circa un'ora di video brevi.
 
-## Sezione sulla Grande Muraglia del Fuoco per eSIM Cina
+## eSIM Cina e le app che usi ogni giorno
 
-Questo è il problema centrale che distingue la Cina da tutti gli altri paesi—vale la pena approfondirlo.
+Questo è il tema che distingue la Cina da tutti gli altri paesi—vale la pena approfondirlo in dettaglio.
 
-### Cosa blocca la Grande Muraglia del Fuoco
+### Quali app si comportano diversamente nella Cina continentale
 
-Nella Cina continentale, usando reti normali, i seguenti contenuti sono **bloccati di default**: Google (Ricerca/Gmail/Maps/YouTube), WhatsApp, Instagram, Facebook, X (Twitter) e alcuni siti di notizie estere. Per i turisti europei e americani abituati a queste app, l'esperienza di essere "tagliati fuori" all'arrivo è sconvolgente.
+Sulle reti locali della Cina continentale, i seguenti servizi sono **irraggiungibili per impostazione predefinita**: Google (Ricerca/Gmail/Maps/YouTube), WhatsApp, Instagram, Facebook, X (Twitter) e alcuni siti di notizie stranieri. Per i viaggiatori che si affidano a queste app ogni giorno, le prime ore dopo l'atterraggio possono sembrare di completa disconnessione.
 
-### Perché un'eSIM da viaggio può accedervi
+### Come cambia il percorso dei dati
 
-La chiave è **il percorso che i dati seguono**:
+La chiave è **quale percorso prendono i dati**:
 
-- **SIM locale / Roaming internazionale**: I dati escono tramite gateway locali cinesi—**passano attraverso il Firewall**—quindi le app sopra sono bloccate.
-- **eSIM da viaggio**: Anche se i segnali si connettono alle stazioni base China Unicom/Mobile, i dati vengono instradati attraverso **nodi internazionali** (il cosiddetto "i dati non atterrano in Cina"), con uscita all'estero—**non passano attraverso il Firewall**—quindi Google/WhatsApp/Instagram funzionano direttamente.
+- **SIM locale / roaming internazionale**: i dati escono attraverso gateway continentali, quindi le app sopra si comportano esattamente come su una rete locale della Cina continentale.
+- **eSIM da viaggio**: il profilo si aggancia ancora alle stazioni base di China Unicom o China Mobile, ma il traffico è instradato attraverso **nodi internazionali**, con uscita fuori dalla Cina continentale—ed è per questo che Google, WhatsApp e Instagram continuano a funzionare come ti aspetti.
 
-Quindi un'[eSIM Cina](/china-esim/) non è solo una "carta dati"—è una **"soluzione per bypassare il Firewall"** —per i turisti normali che non vogliono preoccuparsi di VPN, è la scelta più semplice.
+Quindi un'[eSIM Cina](/china-esim/) non è solo una "scheda dati"—per la maggior parte dei visitatori a breve termine elimina del tutto la necessità di pianificare intorno alle restrizioni di rete.
 
 ### Confronto delle capacità di accesso delle tre opzioni
 
 | Opzione | Google/WhatsApp | App locali cinesi | Costo | Comodità |
 |--------|----------------|---------------------|------|-------------|
-| SIM locale Cina | ❌ Bloccato | ✅ Funzionano | Basso | Richiede registrazione passaporto |
-| Roaming internazionale | ❌ Bloccato | ✅ Funzionano | Alto | Funziona direttamente |
-| **eSIM da viaggio** | **✅ Funzionano** | Alcune richiedono numero locale | Medio | Funziona all'arrivo |
-| VPN + SIM locale | ✅ Funzionano | ✅ Funzionano | Basso + fastidio | Necessita VPN, con rischi |
+| SIM locale cinese | ❌ Irraggiungibile | ✅ Funziona | Basso | Richiede registrazione del passaporto |
+| Roaming internazionale | ❌ Irraggiungibile | ✅ Funziona | Alto | Funziona direttamente |
+| **eSIM da viaggio** | **✅ Funziona** | Alcune richiedono numero locale | Medio | Funziona all'arrivo |
+| **SIM locale + eSIM da viaggio (dual SIM)** | ✅ Funziona | ✅ Funziona | Basso + un piano dati | Richiede un telefono dual SIM |
 
-> **Conclusione chiave**: Un'eSIM da viaggio è il modo più semplice per "accedere sia a Google/WhatsApp che non preoccuparsi di una VPN." Il compromesso è che non fornisce un numero di telefono cinese—le app locali cinesi (pagamenti mobili, ride-hailing) necessitano di altri accordi.
+> **Punto chiave**: un'eSIM da viaggio è il modo più semplice per tenere Google e WhatsApp funzionanti dal momento in cui atterri. La contropartita è che arriva senza un numero di telefono della Cina continentale—le app locali che lo richiedono (pagamenti mobili, trasporti con app) necessitano di un accordo separato.
 
-## eSIM Cina vs SIM locale vs Roaming internazionale
+## eSIM Cina vs SIM locale vs roaming internazionale
 
-| Dimensione | eSIM da viaggio | SIM locale Cina | Roaming internazionale |
+| Dimensione | eSIM da viaggio | SIM locale cinese | Roaming internazionale |
 |-----------|-------------|-----------------|-----------------------|
-| Google/WhatsApp | ✅ Funzionano | ❌ Bloccati | ❌ Bloccati |
-| Processo di configurazione | Installa prima della partenza | Registrazione passaporto + code | Nessuna configurazione |
+| Google/WhatsApp | ✅ Funziona | ❌ Irraggiungibile | ❌ Irraggiungibile |
+| Procedura di configurazione | Installa prima della partenza | Registrazione passaporto + fila | Nessuna configurazione |
 | Funziona all'arrivo | ✅ | ❌ Richiede attivazione | ✅ |
 | Numero di telefono cinese | ❌ | ✅ | ❌ |
 | Prezzo | Medio (più basso con sconto) | Basso | Alto |
-| Ideale per | Turisti a breve termine, chi ha bisogno di app estere | Lunghi soggiorni, chi ha bisogno di numero locale | Emergenza |
+| Ideale per | Turisti a breve termine, chi ha bisogno di app straniere | Soggiorni lunghi, chi ha bisogno di un numero locale | Emergenze |
 
-**In sintesi**: viaggio breve + necessità Google/WhatsApp → eSIM da viaggio; soggiorno lungo + necessità numero cinese → SIM locale; non vuoi nessuno dei due → non comprare roaming (costoso e non bypassa il Firewall).
+**In sintesi**: viaggio breve + serve Google/WhatsApp → eSIM da viaggio; soggiorno lungo + serve un numero cinese → SIM locale; nessuna delle due → non comprare il roaming (costoso, e percorre comunque un gateway continentale).
 
 ## Installare la tua eSIM Cina
 
-1. **Installa con WiFi prima della partenza**: Dopo l'acquisto, riceverai un codice QR. Prima di partire, vai su "Impostazioni → Cellulare/Rete mobile → Aggiungi eSIM" e scansiona il codice QR o inserisci il codice di attivazione.
-2. **Attiva "Roaming dati" all'arrivo**: Assicurati di attivare l'interruttore "Roaming dati" dopo l'atterraggio—questa è la causa più comune di fallimento dell'attivazione. Il telefono si connetterà automaticamente a China Unicom/Mobile.
-3. **Scegli la SIM dati**: Imposta l'eSIM da viaggio come linea "Dati cellulare" principale, e mantieni la tua SIM domestica per "Solo voce/SMS" se vuoi conservarla.
-4. **Disattiva il roaming dati sulla tua SIM domestica**: Evita costi di roaming elevati sulla tua SIM domestica.
-5. **Testa Google/WhatsApp**: Una volta connesso, apri Google Maps e WhatsApp per confermare che il percorso internazionale funzioni.
+1. **Aggiungi il profilo mentre hai ancora il WiFi di casa**: il tuo codice QR arriva in casella entro pochi minuti. Apri "Impostazioni → Cellulare/Rete mobile → Aggiungi eSIM" e aggiungilo prima di volare—il WiFi degli aeroporti continentali di solito vuole un codice SMS che potresti non poter ancora ricevere.
+2. **Attiva il Roaming dati dopo l'atterraggio**: un profilo che non si connette mai è quasi sempre un interruttore del roaming lasciato spento. Una volta attivato, l'eSIM si aggancia a China Unicom o China Mobile entro circa due minuti.
+3. **Nomina l'eSIM come tua linea dati**: lascia attiva la SIM nazionale per chiamate e SMS, perché i codici di verifica di banche e carte continuano ad arrivare lì.
+4. **Disattiva il roaming sulla SIM nazionale**: altrimenti stai pagando la tariffa continentale del tuo operatore invece di usare l'eSIM appena comprata.
+5. **Apri Google Maps e WhatsApp**: se entrambi si caricano, la rotta internazionale è attiva; se no, ripercorri i passaggi 1–3.
 
-> **Non riesci a connetterti? Prova questi passaggi:**
+> **Ancora nessuna connessione? Percorri questa lista:**
 >
-> 1. Conferma che "Roaming dati" sia ATTIVO; 2. Riavvia il telefono; 3. In "Selezione rete", scegli manualmente "China Unicom" o "China Mobile"; 4. Controlla che l'APN corrisponda alle istruzioni del provider eSIM; 5. Se ancora non funziona, contatta l'assistenza clienti.
+> ① conferma che l'interruttore del Roaming dati sia attivo; ② riavvia il telefono; ③ sotto "Selezione rete" scegli a mano China Unicom o China Mobile; ④ confronta l'APN con l'email del tuo fornitore; ⑤ se è ancora morto, apri un ticket all'assistenza e cita l'EID.
 
-## Quali telefoni funzionano con eSIM Cina?
+## Quali telefoni funzionano con un'eSIM Cina?
 
-- **Telefoni internazionali (acquistati in Europa/US)**: La maggior parte supporta eSIM—pronti all'uso.
-- **iPhone Cina continentale / Android cinese**: Gli iPhone della Cina continentale (XS e successivi) supportano eSIM, ma **alcuni modelli Android cinesi hanno l'eSIM disabilitata**—verifica il tuo modello prima dell'acquisto.
-- **Telefoni bloccati da operatore**: I telefoni bloccati da operatori US potrebbero bloccare anche l'eSIM—sbloccali prima.
-- **Modelli solo eSIM** (iPhone 14+ US): Nessuno slot per SIM fisica—in realtà i più adatti per l'eSIM.
-- **Doppia SIM dual standby**: Puoi mantenere sia la tua SIM domestica che l'eSIM Cina—una per i codici di verifica, l'altra per i dati.
+- **Telefoni comprati in Europa o negli USA**: la grande maggioranza supporta già l'eSIM—niente da preparare.
+- **iPhone della Cina continentale / Android cinesi**: il caso scomodo. Apple abilita l'eSIM sui modelli continentali solo per iPhone 18 Pro, 18 Pro Max, 17e e iPhone Air, e numerosi dispositivi Android del mercato cinese hanno la funzione completamente disattivata. Fai il controllo sulla pagina di compatibilità di Apple o sul nostro [elenco dei dispositivi compatibili con eSIM](/compatibility/) prima di ordinare qualsiasi cosa.
+- **Dispositivi bloccati all'operatore**: un blocco di un operatore statunitense può estendersi anche allo slot eSIM, quindi chiedi al tuo operatore di sbloccare il telefono prima di partire.
+- **Telefoni senza vassoio SIM** (iPhone 14 USA e successivi): sono solo-eSIM per progetto, il che in realtà li rende la soluzione più semplice qui.
+- **Usare due linee contemporaneamente**: la SIM nazionale conserva i codici di verifica mentre l'eSIM Cina porta i dati—non devi scegliere tra le due.
 
 ## FAQ eSIM Cina: tutto ciò che devi sapere
 
-**D1: Ho bisogno di verifica ID o passaporto per un'eSIM Cina?**
+**D1: Serve una verifica dell'identità o del passaporto per un'eSIM Cina?**
 
-No. Le eSIM da viaggio sono emesse all'estero e funzionano all'arrivo—nessuna registrazione con passaporto come le SIM locali cinesi. Ti serve solo un telefono compatibile con eSIM, scansionare il codice QR prima della partenza e sei a posto.
+No. Le eSIM da viaggio vengono emesse fuori dalla Cina continentale e semplicemente funzionano all'arrivo—non serve la registrazione del passaporto richiesta da una SIM locale cinese. Ti serve solo un telefono compatibile eSIM e un codice QR scansionato prima di volare.
 
 **D2: Posso accedere a Google e WhatsApp con un'eSIM in Cina?**
 
-Sì. Questa è la più grande differenza tra un'eSIM da viaggio e una SIM locale/roaming—utilizza un percorso dati internazionale che bypassa la Grande Muraglia del Fuoco, quindi Google, WhatsApp, Instagram e Gmail funzionano normalmente. Vedi la sezione Firewall sopra per i dettagli.
+Sì. Questa è la differenza più grande tra un'eSIM da viaggio e una SIM locale o il roaming—usa una rotta dati internazionale, quindi Google, WhatsApp, Instagram e Gmail funzionano tutti normalmente. Vedi la sezione sull'instradamento sopra per i dettagli.
 
-**D3: La Grande Muraglia del Fuoco bloccherà la mia eSIM Cina?**
+**D3: Le restrizioni di rete della Cina continentale influenzano la mia eSIM Cina?**
 
-Generalmente no. Le eSIM da viaggio instradano i dati in uscita dalla Cina e di solito forniscono accesso stabile alle app estere. In rari casi, se le reti locali si irrigidiscono, le velocità potrebbero fluttuare, ma per la stragrande maggioranza degli utenti l'esperienza è normale.
+In genere no. Le eSIM da viaggio instradano l'uscita dei dati fuori dalla Cina continentale e di solito forniscono un accesso stabile alle app straniere. In rari casi, se le reti locali si irrigidiscono, le velocità possono fluttuare, ma per la grande maggioranza degli utenti l'esperienza è normale.
 
 **D4: Quale operatore ha la migliore copertura in Cina?**
 
-China Mobile ha la copertura più ampia (soprattutto in attrazioni remote); China Unicom è la rete più comune per le eSIM da viaggio e offre l'esperienza di roaming internazionale più matura. Scegliere un'eSIM con commutazione automatica multi-rete (come Roami) ti dà il meglio di entrambi.
+China Mobile arriva nelle aree più ampie, in particolare nelle attrazioni più remote; China Unicom è l'operatore su cui si appoggiano di default la maggior parte delle eSIM da viaggio e offre il roaming internazionale più fluido in città. Un'eSIM con passaggio automatico multi-rete (Roami, per esempio) ti consegna la più forte delle due.
 
-**D5: L'eSIM avrà un buon segnale a Pechino/Shanghai?**
+**D5: Un'eSIM avrà un buon segnale a Pechino/Shanghai?**
 
-Eccellente. Città di primo livello come Pechino e Shanghai hanno una copertura 5G matura con velocità di 100-500 Mbps; le eSIM da viaggio funzionano all'arrivo con praticamente nessuna differenza rispetto alle SIM locali.
+Eccellente. Le città di prima fascia come Pechino e Shanghai hanno una copertura 5G matura con velocità di 100‑500 Mbps; le eSIM da viaggio funzionano all'arrivo praticamente senza differenze rispetto alle SIM locali.
 
-**D6: L'eSIM Airalo Cina è buona?**
+**D6: L'eSIM Cina di Airalo è buona?**
 
-Airalo è la più grande piattaforma eSIM mondiale, con livelli molto granulari in Cina—opzioni fisse e illimitate, si connette a Unicom e fornisce un'esperienza stabile in città. Lo svantaggio è che i livelli fissi sono relativamente costosi—circa 1.5-2 volte il prezzo di Roami per lo stesso livello.
+Airalo—venduta qui come **Chinacom** su China Unicom—è la più grande piattaforma delle tre e offre i livelli fissi più granulari insieme a un'opzione illimitata, con prestazioni cittadine affidabili. Il problema è il prezzo: i suoi livelli fissi costano circa 1,5–2 volte quelli di Roami per la stessa quota.
 
-**D7: L'illimitato Holafly eSIM Cina vale la pena?**
+**D7: Vale la pena l'illimitato di Holafly Cina?**
 
-Dipende dal tuo utilizzo. Holafly Cina offre solo illimitato a $3.90/giorno. Se guardi 2+ ore di video HD al giorno e usi oltre 3GB/giorno, l'illimitato conviene; altrimenti, i livelli fissi di Roami possono farti risparmiare più della metà.
+Dipende da cosa consumi. Il prodotto cinese di Holafly è solo illimitato, a $3,97/giorno. Se consumi davvero più di 3GB al giorno—più di due ore di video HD—può ripagare; per tutti gli altri, i livelli fissi di Roami tagliano la bolletta di oltre la metà.
 
-**D8: Roami eSIM Cina offre dati illimitati?**
+**D8: L'eSIM Cina di Roami offre dati illimitati?**
 
-No. Roami Cina si concentra su livelli a dati fissi (1-50GB) e non offre piani illimitati. Questo non è un difetto—nel contesto di viaggio in Cina, la maggior parte delle persone usa 1-2GB/giorno, quindi 10-20GB fissi sono più che sufficienti, e i livelli fissi sono effettivamente più economici.
+No. Roami Cina punta sui livelli a dati fissi (1‑50GB) e non offre piani illimitati. Non è un difetto—nel contesto dei viaggi in Cina, la maggior parte delle persone usa 1‑2GB/giorno, quindi 10‑20GB fissi sono abbondanti, e i livelli fissi sono in realtà più economici.
 
-**D9: Posso condividere l'hotspot da un'eSIM Cina?**
+**D9: Posso fare hotspot da un'eSIM Cina?**
 
-Varia da marchio a marchio. Roami supporta hotspot illimitato; Airalo supporta hotspot; Holafly limita l'hotspot a 1GB/giorno. Per famiglie o se devi connettere un tablet, scegli Roami.
+Dipende dal marchio. Roami condivide la connessione senza limite, Airalo consente il tethering sui suoi piani, e Holafly limita la condivisione a 1GB/giorno. Se verranno con te un tablet o un secondo telefono, Roami è la scelta pratica.
 
 **D10: Un telefono della Cina continentale può usare un'eSIM Cina?**
 
-Gli iPhone della Cina continentale (XS e successivi) supportano eSIM e possono usarla; ma alcuni modelli Android cinesi hanno l'eSIM disabilitata—verifica il tuo modello prima dell'acquisto. I telefoni internazionali generalmente funzionano bene.
+Gli iPhone della Cina continentale in genere **non possono**—Apple abilita l'eSIM lì solo su iPhone 18 Pro, 18 Pro Max, 17e e iPhone Air, e la maggior parte dei modelli di Hong Kong/Macao arriva come dual SIM fisica senza eSIM. Anche una parte dei modelli Android cinesi arriva con l'eSIM disattivata. Controlla prima il nostro [elenco dei dispositivi compatibili con eSIM](/compatibility/); i dispositivi internazionali di solito vanno bene.
 
-**D11: Un'eSIM Cina può essere usata a Hong Kong/Macau?**
+**D11: Un'eSIM Cina si può usare a Hong Kong/Macao?**
 
-Di solito no. Le eSIM della Cina continentale coprono tipicamente solo la Cina continentale; Hong Kong e Macau sono territori doganali separati con reti indipendenti, che richiedono eSIM Hong Kong/Macau separate o pacchetti che le includano. Verifica la copertura prima della partenza.
+Di solito no. Le eSIM della Cina continentale in genere coprono solo il continente; Hong Kong e Macao sono territori doganali separati con reti indipendenti, e richiedono eSIM o pacchetti Hong Kong/Macao separati che li includano. Verifica la copertura prima della partenza.
 
-**D12: Qual è meglio, SIM locale o eSIM in Cina?**
+**D12: Cosa conviene di più, SIM locale o eSIM in Cina?**
 
-Dipende dal tuo bisogno principale. Necessità Google/WhatsApp + funziona all'arrivo → vince l'eSIM; necessità numero di telefono cinese (pagamenti mobili, ride-hailing) + soggiorno lungo → vince la SIM locale (ma richiede registrazione con passaporto e non può bypassare il Firewall).
+Dipende dalla tua esigenza principale. Serve Google/WhatsApp + funziona all'arrivo → vince l'eSIM; serve un numero di telefono cinese (pagamenti mobili, trasporti con app) + soggiorno lungo → vince la SIM locale (ma richiede la registrazione del passaporto e percorre un gateway continentale).
 
 **D13: Quanto costa un'eSIM Cina al giorno?**
 
-Con i prezzi scontati di Roami: 7 giorni 10GB ~$1.37/giorno, 15 giorni 20GB ~$1.07/giorno, 30 giorni 50GB ~$1.07/giorno—quasi due terzi in meno rispetto ai $3.90/giorno di Holafly.
+Usando i prezzi scontati di Roami: 7 giorni 10GB ~$1,37/giorno, 15 giorni 20GB ~$1,07/giorno, 30 giorni 50GB ~$1,07/giorno—quindi quasi due terzi più economico dei $3,97/giorno di Holafly.
 
 **D14: Quanto dura 1GB in Cina?**
 
-Circa 20 ore di navigazione Google Maps + molti messaggi WhatsApp, ma solo circa 1 ora di video brevi. Gli utenti minimi (navigazione + testo) possono far durare 1GB per 3-5 giorni; se guardi video in streaming, inizia con 10GB.
+Circa 20 ore di navigazione su Google Maps più un flusso costante di messaggi WhatsApp—e solo circa un'ora di video brevi. Gli utenti leggeri che si limitano a mappe e messaggi possono far durare 1GB su 3–5 giorni; chiunque pensi di streemare dovrebbe partire da 10GB.
 
-**D15: Cosa fare se la mia eSIM Cina non ha segnale?**
+**D15: E se la mia eSIM Cina non ha segnale?**
 
-Prima controlla che "Roaming dati" sia ATTIVO, riavvia il telefono, poi vai in "Selezione rete" e scegli manualmente "China Unicom" o "China Mobile." In zone montane remote, potrebbe non esserci segnale—scarica mappe offline in anticipo.
+Parti dall'interruttore del Roaming dati, poi riavvia, poi apri "Selezione rete" e scegli a mano China Unicom o China Mobile. Nelle zone montuose remote può semplicemente non esserci copertura—scarica le mappe offline prima di partire.
 
 **D16: La mia eSIM Cina smetterà improvvisamente di funzionare?**
 
-Normalmente no. Le eSIM da viaggio sono valide per la durata acquistata; se i dati finiscono, le velocità potrebbero rallentare o la connessione cadere, e puoi ricaricare online. In rari casi di irrigidimento delle politiche, l'accesso estero potrebbe fluttuare, ma la connessione dati in sé rimane invariata.
+Normalmente no. Le eSIM da viaggio sono valide per la durata acquistata; se i dati si esauriscono, le velocità possono rallentare o la connessione cadere, e puoi ricaricare online. In rari casi di irrigidimento delle politiche, l'accesso straniero può fluttuare, ma la connessione dati stessa resta invariata.
 
-**D17: Per un transito senza visto di 144 ore, quanti dati servono?**
+**D17: Per un transito senza visto di 144 ore, quanti dati mi servono?**
 
-Un viaggio di transito di 144 ore (6 giorni) di solito copre 1-2 città—navigazione + social + foto, 3-5GB sono sufficienti. Roami 7 giorni 5GB scontato $5.59 è il miglior valore, risparmiando la metà rispetto all'illimitato.
+Un viaggio di transito di 144 ore (6 giorni) copre di solito 1‑2 città—navigazione + social + foto, 3‑5GB bastano. Roami 7 giorni 5GB scontato $5,59 è il miglior valore, risparmiando la metà rispetto all'illimitato.
 
 ## eSIM Cina: il verdetto finale
 
 | Scenario | Marchio consigliato | Piano consigliato | Costo (Scont.) | Motivo principale |
 |----------|-------------------|-------------------|--------------|-------------|
-| Scalo 3 giorni a Pechino | Roami | 3GB / 3 giorni | $3.19 | Funziona all'arrivo + multi-rete, 66% più economico di Airalo |
-| Viaggio 5 giorni a Shanghai | Roami | 5GB / 7 giorni | $5.59 | 5G urbano stabile, livello fisso più economico |
-| Tour culturale 4 giorni a Xi'an | Roami | 5GB / 7 giorni | $5.59 | Multi-rete passa a Mobile per migliore copertura attrazioni |
-| Tour naturalistico 6 giorni a Guilin | Roami | 10GB / 7 giorni | $9.59 | Copertura montana più debole, multi-rete più stabile |
-| Tour gastronomico 5 giorni a Chengdu | Roami | 5GB / 7 giorni | $5.59 | Aree commerciali affollate, priorità rete Mobile |
-| Tour multi-città 12 giorni | Roami | 20GB / 15 giorni | $15.99 | $0.80/GB, meno buchi di copertura tra città |
-| Viaggio d'affari 7 giorni | Roami | 10GB / 7 giorni | $9.59 | Videochiamate necessitano stabilità, multi-rete affidabile |
-| Soggiorno lungo 30 giorni | Roami | 50GB / 30 giorni | $31.99 | $0.64/GB, prezzo per GB più basso |
-| Streaming video pesante 7 giorni | Airalo | Illimitato / 7 giorni | $27.00 | Ne vale la pena solo se consumo giornaliero > 3GB |
-| Budget strettissimo 7 giorni | Roami | 1GB / 7 giorni | $1.59 | Prezzo più basso, sufficiente per navigazione + testo |
+| Scalo di 3 giorni a Pechino | Roami | 3GB / 3 giorni | $3,19 | Funziona all'arrivo + multi-rete, 66% più economico di Airalo |
+| Viaggio in città di 5 giorni a Shanghai | Roami | 5GB / 7 giorni | $5,59 | 5G cittadino stabile, livello fisso più economico |
+| Viaggio culturale di 4 giorni a Xi'an | Roami | 5GB / 7 giorni | $5,59 | Il multi-rete passa a Mobile per una migliore copertura delle attrazioni |
+| Viaggio paesaggistico di 6 giorni a Guilin | Roami | 10GB / 7 giorni | $9,59 | Copertura montana più debole, multi-rete più stabile |
+| Viaggio gastronomico di 5 giorni a Chengdu | Roami | 5GB / 7 giorni | $5,59 | Zone commerciali affollate, priorità alla rete Mobile |
+| Tour multi-città 12 giorni | Roami | 20GB / 15 giorni | $15,99 | $0,80/GB, meno buchi di copertura tra le città |
+| Viaggio di lavoro 7 giorni | Roami | 10GB / 7 giorni | $9,59 | Le videochiamate richiedono stabilità, multi-rete affidabile |
+| Lungo soggiorno 30 giorni | Roami | 50GB / 30 giorni | $31,99 | $0,64/GB, prezzo per GB più basso |
+| Streaming video intenso 7 giorni | Airalo | Illimitato / 7 giorni | $27,00 | Ne vale la pena solo se il consumo giornaliero > 3GB |
+| Budget strettissimo 7 giorni | Roami | 1GB / 7 giorni | $1,59 | Prezzo più basso, basta per navigazione + messaggi |
 
-Ancora indeciso? [Vedi tutti i piani Roami eSIM Cina →](/china-esim/)
+Ancora in dubbio? [Vedi tutti i piani Roami eSIM Cina →](/china-esim/)
 
-## eSIM Cina: consigli utili
+## eSIM Cina: consigli da esperti
 
-- **Installa prima della partenza, usa all'arrivo**: Installa l'eSIM su WiFi prima di partire; attiva il roaming dati all'atterraggio e si connetterà automaticamente—puoi inviare un WhatsApp "Sono al sicuro" nel primo minuto.
-- **Ricordati di attivare "Roaming dati"**: Questa è la causa più comune di fallimento dell'attivazione—molti dimenticano di attivare l'interruttore Roaming dati.
-- **Testa prima Google Maps e WhatsApp**: Dopo la connessione, testa queste due app per confermare che il percorso internazionale funzioni.
-- **Hai bisogno di un numero cinese? Pianifica in anticipo**: Ride-hailing, consegna cibo e pagamenti mobili richiedono principalmente un numero locale—considera di noleggiare un numero o chiedi assistenza al tuo hotel.
-- **Scarica mappe offline per le attrazioni**: Nelle zone profonde della Grande Muraglia, del fiume Li o di Zhangjiajie, il segnale potrebbe essere assente—non fare affidamento solo sui dati per la navigazione.
-- **Mantieni la tua SIM domestica per i codici di verifica**: I codici di verifica bancari e delle carte di credito sono legati al tuo numero domestico—non serve acquistare un numero cinese locale per quelli.
-- **Scegli il marchio giusto per l'hotspot**: Per famiglie/viaggi con più persone, scegli Roami (illimitato) o Airalo (supportato)—evita Holafly (limite 1GB/giorno).
-- **Salva uno screenshot del tuo codice QR**: Conserva lo screenshot del codice QR nella galleria fotografica o nel cloud, nel caso l'email venga persa e tu non possa reinstallare.
+- **Aggiungila a casa, non al cancello**: installa sul tuo WiFi prima di volare. Il WiFi degli aeroporti continentali spesso richiede un codice SMS che non puoi ancora ricevere, quindi cercare un'email col codice QR vecchia è l'ultima cosa che vuoi fare.
+- **L'interruttore del roaming frega tutti**: se il profilo si installa ma non aggancia mai una rete, il Roaming dati è il colpevole nove volte su dieci.
+- **Fai il test delle due app**: apri Google Maps e WhatsApp appena atterri. Se entrambi si caricano, la tua rotta internazionale funziona e puoi smettere di preoccuparti.
+- **Sistema un numero locale separatamente se ti serve**: trasporti con app, consegna di cibo e pagamenti mobili si appoggiano a un numero continentale. Un'eSIM dati non ne fornisce uno—affittane uno o chiedi alla reception dell'hotel.
+- **Metti in cache le mappe per le deviazioni panoramiche**: sulla Grande Muraglia, lungo il fiume Li o dentro Zhangjiajie le tacche possono sparire; scarica la zona prima di partire.
+- **Mantieni attiva la SIM nazionale per i codici**: i messaggi di verifica di banche e carte sono legati al tuo numero nazionale, non a nulla che compri in Cina.
+- **Abbina il marchio alle tue esigenze di hotspot**: viaggi in gruppo? Roami condivide senza limite e Airalo consente il tethering, mentre Holafly ti tiene a 1GB/giorno.
+- **Fotografa il codice QR**: tienine una copia nell'album foto o nel cloud, così un'email perduta non significa mai un viaggio inutile.
 
-## Fonti dei dati eSIM Cina
+## Dove ti porta dopo un'eSIM Cina
 
-| Organizzazione | Scopo | Collegamento |
+Molti viaggi in Cina continuano altrove in Asia, o verso gli USA e l'Europa. Queste guide coprono le tappe successive:
+
+- Una [guida eSIM Giappone per la tappa asiatica del viaggio](/blog/airalo-japan-esim-guide/) confronta pocket WiFi ed eSIM per la prossima tappa.
+- Vedi [come un'eSIM USA gestisce il problema del numero di telefono](/blog/airalo-usa-esim-guide/) prima di pianificare una tappa negli Stati Uniti.
+- Se segue l'Europa, leggi [cosa ha cambiato la Brexit per le eSIM britanniche](/blog/airalo-uk-esim-guide/).
+
+## Fonti dei dati sull'eSIM Cina
+
+| Organizzazione | Scopo | Link |
 |--------------|---------|------|
-| MIIT (Ministero dell'Industria e dell'Informazione) | Politica nome reale Cina / regolamentazione telecom | https://www.miit.gov.cn/ |
-| Opensignal | Copertura 5G Cina / esperienza mobile | https://www.opensignal.com/ |
-| Ookla Speedtest | Velocità mobili Cina | https://www.speedtest.net/global-index/china |
-| GSMA | Standard di settore eSIM | https://www.gsma.com/ |
+| MIIT (Ministero dell'Industria e della Tecnologia dell'Informazione) | Politica di nominatività continentale / regolamentazione delle telecomunicazioni | [Statistiche telecomunicazioni MIIT](https://www.miit.gov.cn/gxsj/tjfx/txy/index.html) |
+| Ookla Speedtest | Velocità mobili in Cina | [Speedtest Global Index – Cina](https://www.speedtest.net/global-index/china) |
+| GSMA | Standard di settore eSIM | [Specifica eSIM GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| Apple | Supporto dispositivi eSIM | [Supporto eSIM Apple](https://support.apple.com/en-us/109317) |
 
-*Dati prezzi aggiornati a settembre 2026, basati sui siti ufficiali dei marchi. Questo articolo è a scopo informativo e non costituisce un consiglio di acquisto.*
+*Dati sui prezzi a settembre 2026, basati sui siti ufficiali dei marchi. Questo articolo è a scopo informativo e non costituisce un consiglio d'acquisto.*

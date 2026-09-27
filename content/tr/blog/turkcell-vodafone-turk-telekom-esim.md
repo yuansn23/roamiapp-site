@@ -1,53 +1,53 @@
 ---
-title: "Seyahatiniz İçin Hangi Türkiye eSIM Ağı En İyisi?"
-description: "Roami eSIM'inizin kullanması gereken ağı seçmek için Turkcell, Vodafone ve Türk Telekom kapsama alanını, 5G'yi ve turist planlarını karşılaştırın."
-keywords: ["türkiye esim ağ karşılaştırması", "turkcell vs vodafone vs türk telekom", "türkiye esim kapsama alanı", "esim için en iyi türk ağı", "türkiye esim 5g", "turkcell esim kapsama alanı", "esim için hangi türk ağı"]
-date: 2026-09-19T00:00:00Z
-lastmod: 2026-09-19T00:00:00Z
+title: "Geziniz İçin Hangi Türkiye eSIM Ağı En İyisidir?"
+description: "Turkcell, Vodafone ve Türk Telekom kapsamasını, 5G'yi ve turist planlarını karşılaştırın ve Roami eSIM'inizin hangi ağı kullanması gerektiğini seçin."
+keywords: ["türkiye esim ağ karşılaştırması", "turkcell mi vodafone mu türk telekom mu", "türkiye esim kapsama", "esim için en iyi türk ağı", "türkiye esim 5g", "turkcell esim kapsama", "esim için hangi türk ağı"]
+date:  2026-09-26T00:00:00Z
+lastmod:  2026-09-26T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami güvenilir eSIM paketleri sunar, yılda 1 milyondan fazla gezgine hizmet verir ve gezginlerin dünya çapında bağlantıda kalması için otomatik yerel ağ geçişini destekler."
+authorBio: "Roami, yılda 1 milyondan fazla yolcuya hizmet veren güvenilir eSIM planları sunar ve gezginlerin küresel olarak bağlantıda kalmasına yardımcı olmak için yerel ağlar arasında otomatik geçişi destekler."
 image: "/img/esim/turkey/turkcell-vodafone-turk-telekom-esim.jpg"
 categories: ["eSIM", "Seyahat", "Türkiye"]
-tags: ["Turkey eSIM"]
+tags: ["Türkiye eSIM"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Hangi Türkiye eSIM Ağı En İyisi? Turkcell vs Vodafone vs Türk Telekom"
+h1title: "Hangi Türkiye eSIM Ağı En İyi? Turkcell mi Vodafone mu Türk Telekom mu"
 
 productsTitle: "Popüler eSIM Planları"
-hotPostsTitle: "Popüler Makaleler"
-recentPostsTitle: "Son Makaleler"
+hotPostsTitle: "Öne Çıkan Yazılar"
+recentPostsTitle: "Son Yazılar"
 
 products:
   - name: "İspanya eSIM"
     flag: "/img/flags/es.svg"
-    price: "$1.99'dan başlayan fiyatlarla"
+    price: "1,99 $'dan itibaren"
     is_highlight: true
     slug: "spain"
   - name: "Portekiz eSIM"
     flag: "/img/flags/pt.svg"
-    price: "$1.99'dan başlayan fiyatlarla"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "portugal"
   - name: "Fransa eSIM"
     flag: "/img/flags/fr.svg"
-    price: "$1.99'dan başlayan fiyatlarla"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "france"
   - name: "İtalya eSIM"
     flag: "/img/flags/it.svg"
-    price: "$1.99'dan başlayan fiyatlarla"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "italy"
-  - name: "Birleşik Krallık eSIM"
+  - name: "İngiltere eSIM"
     flag: "/img/flags/gb.svg"
-    price: "$1.99'dan başlayan fiyatlarla"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "uk"
   - name: "Hollanda eSIM"
     flag: "/img/flags/nl.svg"
-    price: "$1.99'dan başlayan fiyatlarla"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "netherlands"
 
@@ -55,176 +55,182 @@ recentPosts:
   - title: "eSIM Uyumlu Cihazlar Listesi"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Platformlar Arası eSIM Transferi"
+  - title: "2026 Platformlar Arası eSIM Aktarımı"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone İçin 12 Çözüm"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Uyumluluk Kılavuzu"
+  - title: "iPhone SE eSIM Uyumluluk Rehberi"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Tam Kurulum Kılavuzu"
+  - title: "iPhone 11 eSIM Eksiksiz Kurulum Rehberi"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-## Turkcell vs Vodafone vs Türk Telekom: Türkiye eSIM Ağ Kılavuzu
 
-eSIM'inizin Türkiye'deki gerçek performansı, üç ulusal ağdan hangisinde çalıştığına bağlıdır. Bu kılavuz, gerçekten gittiğiniz yer için doğru ağı seçmenize yardımcı olur.
 
-## Kısaca
+Türkiye eSIM'inizin gerçek dünya performansı, üç ulusal ağdan hangisi üzerinde çalıştığına bağlıdır ve plandaki sağlayıcı markası bundan çok daha az önemlidir. Turkcell en uzağa içerilere ulaşır; bu da onu Kapadokya, doğu Anadolu ve Karadeniz kıyısı için en güvenli seçim yapar; Vodafone İstanbul ve kıyı tatil beldelerinde en güçlüsüdür; Türk Telekom ise şehir odaklı gezginler için en ucuz ön ödemeli paketleri sunan bütçe seçeneğidir. Bu rehber üç operatörü kapsama, hız ve 5G stratejisine göre karşılaştırır, bölgesel performansı varış noktasına göre haritalar ve ödeme yapmadan önce eSIM'inizin hangi ağı gerçekten kullandığını nasıl doğrulayacağınızı gösterir.
 
-- Turkcell, kırsal Türkiye, Kapadokya, Doğu Anadolu ve Karadeniz kıyısı için en güvenli seçimdir çünkü kapsama alanı iç kesimlere daha fazla ulaşır.
-- Vodafone, kıyı tatil köyleri ve İstanbul için en iyi seçimdir; burada 5G ve İngilizce desteği en çok önemlidir.
-- Türk Telekom, çoğunlukla şehirlerde kalan gezginler için en ucuz ön ödemeli paketlerle bütçe seçeneğidir.
-- Satın almadan önce eSIM'inizin gerçekte hangi ağı kullandığını kontrol edin, çünkü kapsama alanınızı sağlayıcı markası değil, ağ belirler.
+## Turkcell, Vodafone, Türk Telekom: Türkiye eSIM Ağ Rehberi
 
-## Bu Ağ Kılavuzu Neyi Çözer
+eSIM'inizin Türkiye'deki gerçek performansı, üç ulusal ağdan hangisi üzerinde çalıştığına bağlıdır. Bu rehber, gerçekten gittiğiniz yer için doğru ağı seçmenize yardımcı olur.
 
-Bu kılavuz ağ katmanını çözer: eSIM'iniz hangi Türk ağına bağlanmalı ve satın almadan önce bunu nasıl doğrularsınız? Sağlayıcı bir bayiidir. Ağ, altyapıdır. Yanlış ağdaki ucuz bir eSIM, Kapadokya'da sizi sinyalsiz bırakır. Doğru ağdaki pahalı bir eSIM her yerde çalışır.
+## Üç Türk Ağı Bir Bakışta
 
-Bu sayfa size üç operatörün kapsama, hız ve 5G stratejisine göre karşılaştırmasını, destinasyona göre bölgesel kapsama matrisini, ön ödemeli turist planı karşılaştırmasını, İngilizce destek karşılaştırmasını, hangi eSIM sağlayıcılarının hangi ağı kullandığını, ağ kapsama testi iş akışını ve manuel ağ seçimi adımlarını sunar. Aktivasyon, cihaz uyumluluğu, [BTK kuralları](/blog/turkey-esim-ban-availability-rules/) veya [sağlayıcı arıza modlarını](/blog/best-turkey-esim-providers/) kapsamaz. Bunlar bağlantılı derinlemesine makalelerde ele alınmıştır.
+- Turkcell, kırsal Türkiye, Kapadokya, doğu Anadolu ve Karadeniz kıyısı için en güvenli seçimdir, çünkü kapsaması içerilere daha uzağa ulaşır.
+- Vodafone, 5G'sinin ve İngilizce desteğinin en önemli olduğu kıyı tatil beldeleri ve İstanbul için en uygun olandır.
+- Türk Telekom bütçe seçeneğidir; çoğunlukla şehirlerde kalan gezginler için en ucuz ön ödemeli paketlere sahiptir.
+- Satın almadan önce eSIM'inizin hangi ağı gerçekten kullandığını kontrol edin, çünkü ağ — sağlayıcı markası değil — kapsamanızı belirler.
 
-Kısa versiyon: kırsal seyahat, Kapadokya, Doğu Türkiye ve Karadeniz kıyısı için Turkcell'i seçin. Kıyı tatil köyleri ve İstanbul için Vodafone'u seçin. Bütçe şehir gezileri için Türk Telekom'u seçin.
+## Bu Türk eSIM Ağ Rehberi Neyi Çözüyor?
 
-## Türkiye Mobil Pazarına Genel Bakış
+Bu rehber ağ katmanını çözer: eSIM'iniz hangi Türk ağına bağlanmalı ve bunu satın almadan önce nasıl doğrularsınız? Sağlayıcı bir bayidir. Ağ ise altyapıdır. Yanlış ağdaki ucuz bir eSIM, sizi Kapadokya'da sinyalsiz bırakır. Doğru ağdaki pahalı bir eSIM her yerde çalışır.
 
-Türkiye pazarında üç operatör var: [Turkcell](https://www.turkcell.com.tr), [Vodafone Turkey](https://www.vodafone.com.tr) ve [Türk Telekom](https://www.turktelekom.com.tr). Turkcell kapsama ve hızda liderdir. Vodafone 5G kullanılabilirliği ve İngilizce destekte liderdir. Türk Telekom fiyat ve 5G güvenilirliğinde liderdir.
+Bu sayfa size üç operatörün kapsama, hız ve 5G stratejisine göre karşılaştırmasını, varış noktasına göre bölgesel kapsama matrisini, ön ödemeli turist planı karşılaştırmasını, İngilizce destek karşılaştırmasını, hangi eSIM sağlayıcıların hangi ağı kullandığını, ağ kapsama test iş akışını ve elle ağ seçim adımlarını sunar. Aktivasyonu, cihaz uyumluluğunu, [BTK kurallarını](/blog/turkey-esim-ban-availability-rules/) veya [sağlayıcı arıza modlarını](/blog/best-turkey-esim-providers/) kapsamaz. Bunlar bağlantılı derinlemesine makalelerde ele alınmaktadır.
 
-| Operatör | Aboneler | Pazar payı | 4G kapsama | Medyan indirme | En uygun |
+Kısa özeti: kırsal seyahat, Kapadokya, doğu Türkiye ve Karadeniz kıyısı için Turkcell'i seçin. Kıyı tatil beldeleri ve İstanbul için Vodafone'u seçin. Bütçe şehir gezileri için Türk Telekom'u seçin.
+
+## Türkiye Mobil Pazarı Bir Bakışta
+
+Türk pazarında üç operatör vardır: [Turkcell](https://www.turkcell.com.tr), [Vodafone Türkiye](https://www.vodafone.com.tr) ve [Türk Telekom](https://www.turktelekom.com.tr). Turkcell kapsama ve hızda liderdir. Vodafone 5G bulunabilirliği ve İngilizce desteğinde öndedir. Türk Telekom fiyat ve 5G güvenilirliğinde liderdir.
+
+| Operatör | Abone | Pazar payı | 4G kapsama | Medyan indirme | En uygun |
 |---|---|---|---|---|---|
-| Turkcell | ~40 milyon | ~%41 | ~%98+ | 67.4 Mbps | Ülke çapında, Doğu/kırsal Türkiye, Kapadokya, Karadeniz |
-| Vodafone Turkey | ~25 milyon | ~%31 | ~%95+ | 19.4 Mbps | Batı kıyısı, Ege, Akdeniz, büyük şehirler |
-| Türk Telekom | ~28.5 milyon | ~%28 | ~%93+ | 27.8 Mbps | Şehir gezileri, İstanbul, Ankara, İzmir |
+| Turkcell | ~40 milyon | ~%41 | ~%98+ | 67,4 Mbps | Ülke geneli, doğu/kırsal Türkiye, Kapadokya, Karadeniz |
+| Vodafone Türkiye | ~25 milyon | ~%31 | ~%95+ | 19,4 Mbps | Batı kıyısı, Ege, Akdeniz, büyük şehirler |
+| Türk Telekom | ~28,5 milyon | ~%28 | ~%93+ | 27,8 Mbps | Şehir gezileri, İstanbul, Ankara, İzmir |
 
-Kaynaklar: [OpenSignal Türkiye Raporu](https://www.opensignal.com/reports/turkey), [Ookla Speedtest Global Index](https://www.speedtest.net/global-index), operatör yatırımcı raporları, nPerf kapsama verileri.
+Kaynaklar: [Opensignal'ın bağımsız ağ testleri](https://www.opensignal.com/), [Ookla Speedtest Global Index](https://www.speedtest.net/global-index), operatör yatırımcı raporları, nPerf kapsama verileri.
 
-### Türkiye eSIM Manşet Rakamlarının Gizledikleri
+### Başlık Rakamlarının Gizlediği
 
-Tablo, nüfus kapsama alanını ve medyan hızları ölçer. Gezginler için eşit derecede önemli iki faktör daha var. Kırsal kapsama derinliği, Kapadokya vadilerinde sinyaliniz olup olmayacağını belirler. 5G dağıtım stratejisi, tepe hız ile tutarlı kullanılabilirliği belirler.
+Tablo nüfus kapsamasını ve medyan hızları ölçer. Gezginler için eşit derecede önemli iki faktör daha vardır. Kırsal kapsama derinliği, Kapadokya vadilerinde sinyalinizin olup olmadığını belirler. 5G konuşlandırma stratejisi, zirve hız ile tutarlı bulunabilirliği belirler.
 
-**Kırsal kapsama derinliği.** Turkcell'in %98 nüfus kapsaması, Vodafone ve Türk Telekom'un ulaşamadığı yerlerde sinyale dönüşür. Turkcell genellikle Kapadokya vadilerinde, Karadeniz kıyısında ve Doğu Türkiye'de güvenilir kapsama sahip tek operatördür.
+**Kırsal kapsama derinliği.** Turkcell'in %98 nüfus kapsaması, Vodafone ve Türk Telekom'un ulaşamadığı yerlerde sinyal anlamına gelir. Turkcell çoğu zaman Kapadokya vadilerinde, Karadeniz kıyısında ve doğu Türkiye'de güvenilir kapsaması olan tek operatördür.
 
-**5G dağıtım stratejisi.** Üç operatör farklı yaklaşımlar benimsedi. Turkcell ham hıza öncelik verdi. Vodafone kullanılabilirliğe öncelik verdi. Türk Telekom güvenilirliğe öncelik verdi.
+**5G konuşlandırma stratejisi.** Üç operatör farklı yaklaşımlar aldı. Turkcell ham hızı önceliklendirdi. Vodafone bulunabilirliği önceliklendirdi. Türk Telekom güvenilirliği önceliklendirdi.
 
-### Türkiye eSIM Spektrum Tahsisleri Açıklandı
+### Spektrum Tahsisleri Açıklandı
 
-2025 spektrum ihalesi 3.5 GHz ve 700 MHz bantlarını tahsis etti. 3.5 GHz bandı daha kısa menzilde daha yüksek hızlar sağlar. 700 MHz bandı daha yavaş hızlarda daha geniş kapsama sağlar. Vodafone'un 700 MHz odağı, 5G Kullanılabilirliği liderliğini açıklar. Turkcell'in 3.5 GHz tahsisi, hız liderliğini açıklar.
+2025 spektrum ihalesi 3,5 GHz ve 700 MHz bantlarını tahsis etti. 3,5 GHz bandı daha kısa menzilde daha yüksek hız sağlar. 700 MHz bandı daha yavaş hızda daha geniş kapsama sağlar. Vodafone'un 700 MHz odağı, 5G Bulunabilirliği liderliğini açıklar. Turkcell'in 3,5 GHz tahsisi, hız liderliğini açıklar.
 
-| Operatör | 3.5 GHz tahsisi | 700 MHz tahsisi | Strateji |
+| Operatör | 3,5 GHz tahsisi | 700 MHz tahsisi | Strateji |
 |---|---|---|---|
 | Turkcell | 1×140 MHz | Değişken | Ham hız |
-| Vodafone | 1×80 MHz | Öncelikli | Kullanılabilirlik |
+| Vodafone | 1×80 MHz | Önceliklendirilmiş | Bulunabilirlik |
 | Türk Telekom | 1×120 MHz | Değişken | Güvenilirlik |
 
-## Turkcell Kapsaması Ne Kadar Ulaşır?
+## Turkcell Kapsaması Türkiye'de Ne Kadar Uzağa Ulaşır?
 
-Turkcell kapsama lideridir. Vodafone ve Türk Telekom'un ulaşamadığı yerlerde çalışır. Ödünleşimler fiyat, İngilizce destek tutarlılığı ve yerleşik olmayanlar için daha yavaş eSIM aktivasyonudur.
+Turkcell kapsama lideridir. Vodafone ve Türk Telekom'un ulaşamadığı yerlerde çalışır. Bedeli fiyat, İngilizce desteğinin tutarlılığı ve ikametgâhı olmayanlar için daha yavaş eSIM aktivasyonudur.
 
-### Turkcell Türkiye eSIM'in En İyi Çalıştığı Yerler
+### Turkcell En İyi Nerede Çalışır?
 
-- **Kapadokya.** Göreme, Derinkuyu ve Kaymaklı'nın mağara vadileri ve yeraltı şehirleri. Turkcell, bölge genelinde tutarlı sinyale sahip tek operatördür.
-- **Doğu Anadolu ve Karadeniz kıyısı.** İstanbul'dan Kars'a araba sürmek veya Karadeniz yaylalarını keşfetmek. Vodafone ve Türk Telekom boşlukları büyük kasabaların dışında hızla ortaya çıkar.
-- **Kırsal otoyollar.** İstanbul ile Antalya veya İzmir ile Kapadokya arasındaki uzun sürüşler. Yalnızca Turkcell sürekli kapsama sağlar.
+- **Kapadokya.** Göreme, Derinkuyu ve Kaymaklı'nın mağara vadileri ve yeraltı şehirleri. Turkcell, bölgede tutarlı sinyali olan tek operatördür.
+- **Doğu Anadolu ve Karadeniz kıyısı.** İstanbul'dan Kars'a araç sürmek veya Karadeniz yaylalarını keşfetmek. Vodafone ve Türk Telekom boşlukları, büyük kasabaların dışında hızla ortaya çıkar.
+- **Kırsal otoyollar.** İstanbul ile Antalya arasındaki veya İzmir ile Kapadokya arasındaki uzun sürüşler. Yalnızca Turkcell kesintisiz kapsama sağlar.
 
-### Turkcell Türkiye eSIM'in Başarısız Olduğu Yerler
+### Turkcell Neyde Zayıftır?
 
-- Fiyat — üçün en pahalı turist paketi
+- Fiyat — üçünün en pahalı turist paketi
 - İngilizce destek — Vodafone'dan daha az tutarlı
-- Yerleşik olmayanlar için eSIM aktivasyonu — daha yavaş, tüm mağaza temsilcileri eğitilmemiş
+- İkametgâhı olmayanlar için eSIM aktivasyonu — daha yavaş, tüm mağaza görevlileri eğitimli değil
 
-### Türkiye eSIM Kullanıcıları için Turkcell 5G
+### Turkcell 5G Performansı
 
-OpenSignal'ın Mayıs 2026 analizi, Turkcell 5G indirme hızlarını yaklaşık 249 Mbps olarak kaydetti — Türk Telekom'dan yaklaşık %24 daha hızlı ve Vodafone'un 140 Mbps'inin önemli ölçüde önünde. Turkcell ayrıca 33.6 Mbps ile 5G Yükleme Hızında liderdi; Vodafone'da 29.5 Mbps ve Türk Telekom'da 25.7 Mbps ile karşılaştırıldığında.
+OpenSignal'ın Mayıs 2026 analizi, Turkcell 5G indirme hızını yaklaşık 249 Mbps olarak kaydetti — Türk Telekom'dan yaklaşık %24 daha hızlı ve Vodafone'un 140 Mbps'sinin oldukça önünde. Turkcell ayrıca 33,6 Mbps ile 5G Yükleme Hızında da öndeydi; Vodafone'da 29,5 Mbps ve Türk Telekom'da 25,7 Mbps vardı.
 
-### Türkiye eSIM Kullanıcıları için Turkcell Turist Planları
+### Turkcell Turist Planları
 
-- **Tourist Welcome Pack:** 20 GB veri + 200 yurt içi dakika, 28 gün
-- **Resmi fiyat:** 1.800 TL (~$38)
-- **Kayıt:** Pasaport gerekli, Turkcell mağazasında yüz yüze
-- **eSIM aktivasyonu:** %85 dijital, ancak yabancı ziyaretçiler hâlâ mağaza içi kayda ihtiyaç duyar
+- **Tourist Welcome Pack:** 20 GB veri + 200 yerli dakika, 28 gün
+- **Resmi fiyat:** 1.800 TL (~38 $)
+- **Kayıt:** Pasaport gerekli, Turkcell mağazasında bizzat
+- **eSIM aktivasyonu:** %85 dijital, ancak yabancı ziyaretçiler hâlâ mağazada kayıt gerektirir
 
-### Türkiye eSIM için Turkcell'i Kim Seçmeli
+### Kimler Turkcell'i Seçmeli?
 
-Kapadokya, Doğu Türkiye, Karadeniz kıyısı veya kırsal otoyolları ziyaret eden gezginler. Kapsama güvenilirliğini fiyatın üstünde tutan gezginler. Şehirlerde en hızlı 5G'ye ihtiyaç duyan gezginler.
+Kapadokya, doğu Türkiye, Karadeniz kıyısı veya kırsal otoyolları ziyaret eden gezginler. Kapsama güvenilirliğini fiyata öncelik veren gezginler. Şehirlerde en hızlı 5G'ye ihtiyaç duyan gezginler.
 
-## Vodafone Turkey Kıyı ve Şehir Seçimi
+## Vodafone Türkiye Kıyı ve Şehir Seçimi
 
-Vodafone kıyı ve şehir seçimidir. İstanbul, Antalya, Bodrum ve Marmaris'te güçlü performans gösterir. 5G kullanılabilirliğinde liderdir ve en gelişmiş İngilizce turist desteğine sahiptir. Ödünleşim, Doğu Türkiye ve Karadeniz kıyısında daha zayıf kırsal kapsamadır.
+Vodafone kıyı ve şehir seçimidir. İstanbul, Antalya, Bodrum ve Marmaris'te güçlü performans gösterir. 5G bulunabilirliğinde öndedir ve en gelişmiş İngilizce turist desteğine sahiptir. Bedeli, doğu Türkiye ve Karadeniz kıyısında daha zayıf kırsal kapsamadır.
 
-### Vodafone Turkey eSIM'in En İyi Çalıştığı Yerler
+### Vodafone En İyi Nerede Çalışır?
 
-- **İstanbul.** Boğaz köprüleri ve Metrobüs koridorları dahil şehir genelinde güçlü kapsama.
+- **İstanbul.** Boğaz köprüleri ve Metrobus koridorları dahil şehir geniçinde güçlü kapsama.
 - **Antalya, Bodrum, Marmaris.** Ege ve Akdeniz kıyıları boyunca güçlü.
-- **5G Kullanılabilirliği.** Kullanıcıların 5G'ye bağlı geçirdiği zaman oranında lider.
+- **5G Bulunabilirliği.** Kullanıcıların 5G'ye bağlı geçirdiği zaman oranında öndedir.
 - **İngilizce destek.** En gelişmiş İngilizce turist altyapısı.
 
-### Vodafone Turkey eSIM'in Başarısız Olduğu Yerler
+### Vodafone Neyde Zayıftır?
 
-- Doğu Türkiye, Karadeniz kıyısı, kırsal dağlık alanlar
-- Kapadokya — kapsama bazı vadilerde Turkcell dolaşımına bağlı olabilir
-- Büyük kasabaların dışındaki uzak alanlar
+- Doğu Türkiye, Karadeniz kıyısı, kırsal dağlık bölgeler
+- Kapadokya — bazı vadilerde kapsama Turkcell dolaşımına bel bağlayabilir
+- Büyük kasabaların dışındaki uzak bölgeler
 
-### Türkiye eSIM Kullanıcıları için Vodafone 5G
+### Vodafone 5G Performansı
 
-Vodafone 5G Kullanılabilirliğinde liderdir. 700 MHz spektrum odağı, daha yavaş hızlarda daha geniş kapsama sağlar. Şehirlerdeki kullanıcılar, tepe hız Turkcell'inkinden düşük olsa bile 5G sinyalini daha tutarlı bulabilir.
+Vodafone 5G Bulunabilirliğinde öndedir. 700 MHz spektrum odağı, daha yavaş hızda daha geniş kapsama sağlar. Şehirlerdeki kullanıcılar, zirve hız Turkcell'den düşük olsa bile 5G sinyalini daha tutarlı şekilde bulabilir.
 
-### Türkiye eSIM Kullanıcıları için Vodafone Turist Planları
+### Vodafone Turist Planları
 
-- **Welcome to Turkey:** 20 GB veri, 750 yurt içi dakika, 1.000 yurt içi SMS, sınırsız WhatsApp verisi, 28 gün
-- **Fiyat:** Mağazaya göre değişir, ₺5 radyo kullanım vergisi dahil
+- **Welcome to Turkey:** 20 GB veri, 750 yerli dakika, 1.000 yerli SMS, sınırsız WhatsApp verisi, 28 gün
+- **Fiyat:** Mağazaya göre değişir, 5 ₺ radyo kullanım vergisi dahildir
 - **Kayıt:** Yabancı pasaport, konaklama adresi istenebilir
-- **eSIM:** FreeZone, Red ve ön ödemeli planlarda mevcut
+- **eSIM:** FreeZone, Red ve ön ödemeli planların tamamında mevcut
 
-### Türkiye eSIM için Vodafone'u Kim Seçmeli
+### Kimler Vodafone'u Seçmeli?
 
-İstanbul, Antalya, Bodrum, Marmaris veya diğer kıyı tatil köylerinde kalan gezginler. İngilizce desteğine değer veren gezginler. Tepe hız yerine 5G kullanılabilirliği isteyen gezginler. Evde zaten Vodafone kullanan gezginler.
+İstanbul, Antalya, Bodrum, Marmaris veya diğer kıyı tatil beldelerinde kalan gezginler. İngilizce desteğe değer veren gezginler. Zirve hız yerine 5G bulunabilirliği isteyen gezginler. Zaten evinde Vodafone kullanan gezginler.
 
-## Türk Telekom Bütçe Şehir Seçeneği
+## Türk Telekom Bütçe Şehir eSIM Seçeneği
 
-Türk Telekom bütçe şehir seçeneğidir. Büyük şehirlerde en güçlü kapsamaya, en ucuz turist paketine ve en güçlü 5G güvenilirlik puanına sahiptir. Ödünleşimler daha zayıf kırsal kapsama, Kapadokya için en zayıf seçim ve en az gelişmiş İngilizce destektir.
+Türk Telekom bütçe şehir seçeneğidir. Büyük şehirlerde en güçlü kapsamaya, en ucuz turist paketine ve en güçlü 5G güvenilirlik puanına sahiptir. Bedelleri daha zayıf kırsal kapsama, Kapadokya için en zayıf seçim ve en az gelişmiş İngilizce destektir.
 
-### Türk Telekom Türkiye eSIM'in En İyi Çalıştığı Yerler
+### Türk Telekom En İyi Nerede Çalışır?
 
 - **İstanbul, Ankara, İzmir.** Büyük şehirlerde en güçlü kapsama.
 - **5G Güvenilirliği.** Üç operatör arasında en güçlü güvenilirlik puanı.
-- **Travel eSIM ortaklıkları.** Uluslararası travel eSIM sağlayıcıları tarafından en yaygın kullanılan.
-- **Bütçe fiyatlandırması.** Üçün en ucuz turist paketi.
+- **Seyahat eSIM ortaklıkları.** Uluslararası seyahat eSIM sağlayıcıları tarafından en sık kullanılır.
+- **Bütçe fiyatlandırması.** Üçünün en ucuz turist paketi.
 
-### Türk Telekom Türkiye eSIM'in Başarısız Olduğu Yerler
+### Türk Telekom Neyde Zayıftır?
 
-- Turkcell'e kıyasla uzak alanlarda daha fazla kapsama boşluğu
+- Turkcell'e kıyasla uzak bölgelerde daha fazla kapsama boşluğu
 - Kapadokya vadileri için en zayıf seçim
 - En az gelişmiş İngilizce destek
 
-### Türkiye eSIM Kullanıcıları için Türk Telekom 5G
+### Türk Telekom 5G Performansı
 
-Türk Telekom, OpenSignal testinde en güçlü 5G Güvenilirlik puanını kaydetti. 5G indirme hızları ortalama yaklaşık 201 Mbps — Turkcell'in 249 Mbps'i ile Vodafone'un 140 Mbps'i arasında.
+Türk Telekom, OpenSignal testinde en güçlü 5G Güvenilirlik puanını kaydetti. 5G indirme hızları ortalama yaklaşık 201 Mbps — Turkcell'in 249 Mbps'si ile Vodafone'un 140 Mbps'si arasında.
 
-### Türkiye eSIM Kullanıcıları için Türk Telekom Turist Planları
+### Türk Telekom Turist Planları
 
 - **Tourist Welcome:** 25 GB veri, 750 dakika, 750 SMS, 28 gün
-- **Resmi fiyat:** 420 TL (~$9)
+- **Resmi fiyat:** 420 TL (~9 $)
 - **Kayıt:** Pasaport veya kabul edilen kimlik gerekli
 - **eSIM:** Ön ödemeli ve faturalı için mevcut
 
-### Türkiye eSIM Sağlayıcıları için Türk Telekom Avantajı
+### eSIM Sağlayıcıları için Türk Telekom Avantajı
 
-Türk Telekom, uluslararası travel eSIM sağlayıcıları için tercih edilen ortaktır. Airalo ve Klook her ikisi de Türk Telekom üzerinde çalışır. Şehir gezileri için uygun. Kırsal seyahat için dezavantaj. Tam sağlayıcı düzeyinde arıza haritası için [sağlayıcı arıza haritasını](/blog/best-turkey-esim-providers/) okuyun.
+Türk Telekom, uluslararası seyahat eSIM sağlayıcılarının tercih ettiği ortaktır. Airalo ve Klook her ikisi de Türk Telekom üzerinde çalışır. Şehir gezileri için uygun. Kırsal seyahat için dezavantaj. Tam sağlayıcı düzeyi arıza haritası için [sağlayıcı arıza haritasını](/blog/best-turkey-esim-providers/) okuyun.
 
-### Türkiye eSIM için Türk Telekom'u Kim Seçmeli
+### Kimler Türk Telekom'u Seçmeli?
 
-Öncelikle İstanbul, Ankara veya İzmir'de kalan gezginler. Kapsamadan önce fiyata öncelik veren gezginler. Kırsal kapsamaya ihtiyaç duymayan gezginler. Türk numaralı en ucuz yerel SIM'i isteyen gezginler.
+Öncelikle İstanbul, Ankara veya İzmir'de kalan gezginler. Kapsamı fiyata öncelik veren gezginler. Kırsal kapsamaya ihtiyaç duymayan gezginler. Türk numaralı en ucuz yerel SIM isteyen gezginler.
 
-## Hızlı Özet
+Ağ seçimi, küçük yazıyı da belirler. Her operatör, planın veri limitine ulaşıldığında kendi adil kullanım eşiğini (FUP) uygular; hız düşürme genellikle haritalardan önce videoda ortaya çıkar ve gecikme genellikle başlık hızlarının ima ettiğinden daha iyi dayanır. Yüklemeler, planı satan uygulamanın içinde yapılır ve telefonunuzun ayarlarında gösterilen EID, bir profilin yeniden düzenlenmesi gerektiğinde desteğin isteyeceği tanımlayıcıdır.
 
-Şimdiye kadar Turkcell, Vodafone ve Türk Telekom'un kafa kafaya nasıl karşılaştırıldığını gördünüz. Turkcell kapsamada, Vodafone 5G ve İngilizce destekte, Türk Telekom fiyatta kazanır. Ardından, bu farklılıkların bölge bölge nasıl ortaya çıktığını, sonra 5G'nin gerçekliğini ve gerçekten satın alabileceğiniz ön ödemeli turist planlarını göstereceğiz.
+## Hızlı Özet: Hangi Ağ Nerede Kazanır
 
-## Bölgesel Kapsama Matrisi
+Şu ana kadar Turkcell, Vodafone ve Türk Telekom'un karşılaştırmasını gördünüz. Turkcell kapsamada, Vodafone 5G ve İngilizce destekte, Türk Telekom fiyatta kazanır. Sıradaki adımda bu farkların bölge bölge nasıl ortaya çıktığını, ardından 5G'nin gerçekliğini ve gerçekte satın alabileceğiniz ön ödemeli turist planlarını gösteriyoruz.
 
-Bu, bir ağ seçmenin en hızlı yoludur. Destinasyonunuzu bulun, en iyi ve ikinci en iyi ağı okuyun ve en zayıf seçenekten kaçının.
+## Türkiye eSIM Bölgesel Kapsama Matrisi
 
-| Destinasyon | En iyi | İkinci en iyi | En zayıf |
+Ağ seçmenin en hızlı yolu budur. Varış noktanızı bulun, en iyi ve ikinci en iyi ağı okuyun ve en zayıf seçenekten kaçının.
+
+| Varış noktası | En iyi | İkinci en iyi | En zayıf |
 |---|---|---|---|
 | İstanbul | Turkcell / Vodafone | Türk Telekom | — |
 | Antalya / Bodrum / Marmaris | Vodafone | Turkcell | Türk Telekom |
@@ -236,456 +242,464 @@ Bu, bir ağ seçmenin en hızlı yoludur. Destinasyonunuzu bulun, en iyi ve ikin
 | İzmir | Turkcell / Vodafone | Türk Telekom | — |
 | Likya Yolu | Turkcell | — | Vodafone / Türk Telekom |
 
-### İstanbul Türkiye eSIM Kapsaması
+### İstanbul Kapsaması
 
-Üç operatör de mükemmel kapsama sağlar. Turkcell ve Vodafone, Boğaz köprüleri ve Metrobüs koridorları dahil şehir genelinde iyi performans gösterir. Türk Telekom merkezi İstanbul'da güçlüdür.
+Üç operatör de mükemmel kapsama sağlar. Turkcell ve Vodafone her ikisi de Boğaz köprüleri ve Metrobus koridorları dahil şehir geniçinde iyi performans gösterir. Türk Telekom, İstanbul merkezinde güçlüdür.
 
-**Zayıf noktalar:** Eski taş binalarda iç mekân kapsaması, alışveriş merkezi bodrumları, Boğaz vapuru nehrin ortasında.
+**Zayıf noktalar:** Eski taş binalarda iç mekân kapsaması, AVM bodrum katları, Boğaz vapurunda nehir ortası.
 
-### Antalya, Bodrum ve Marmaris Türkiye eSIM Kapsaması
+### Antalya, Bodrum ve Marmaris Kapsaması
 
-Vodafone, Ege ve Akdeniz kıyıları boyunca güçlü performans gösterir. Turkcell de iyi kapsamaya sahiptir. Türk Telekom tatil köyü alanlarında yeterlidir ancak uzak kıyı şeritlerinde boşluklar olabilir.
+Vodafone, Ege ve Akdeniz kıyıları boyunca güçlü performans gösterir. Turkcell'in de kapsaması iyidir. Türk Telekom tatil bölgelerinde yeterlidir ancak uzak kıyı şeritlerinde boşluklar olabilir.
 
-**Gerçek dünya hızları:** Tatil köyü alanlarında 40–100 Mbps. Otel Wi-Fi'si genellikle yüzlerce misafir arasında paylaşılan 5–10 Mbps ile daha yavaştır. Destinasyon düzeyinde ayrıntı için [destinasyon hızları ve çevrimdışı hazırlık](/blog/turkey-esim-tourists-istanbul-antalya/) makalesini okuyun.
+**Gerçek dünya hızları:** Tatil bölgelerinde 40–100 Mbps. Otel Wi-Fi'ı genellikle yüzlerce misafir arasında paylaşılan 5–10 Mbps ile daha yavaştır. Varış noktası düzeyinde detay için [varış noktası hızları ve çevrimdışı hazırlık](/blog/turkey-esim-tourists-istanbul-antalya/) makalesini okuyun.
 
-### Kapadokya Türkiye eSIM Kapsaması
+### Kapadokya Kapsaması
 
-Ağ seçiminin en çok önem kazandığı yer burasıdır. Mağara vadileri ve yeraltı şehirleri zayıf sinyale sahip olabilir.
+Ağ seçiminin en çok önemli olduğu yer burasıdır. Mağara vadileri ve yeraltı şehirlerinde sinyal zayıf olabilir.
 
 - **Turkcell** — bölgedeki en iyi kapsama
-- **Vodafone** — Göreme ve ana turistik alanlarda iyi, uzak vadilerde düşebilir
+- **Vodafone** — Göreme ve ana turist bölgelerinde iyi, uzak vadilerde kesilebilir
 - **Türk Telekom** — en zayıf seçim
 
 Ağdan bağımsız olarak varıştan önce çevrimdışı haritaları indirin. Yeraltı şehirlerinde hiçbir operatörde sinyal yoktur.
 
-### Doğu Anadolu ve Karadeniz Türkiye eSIM Kapsaması
+### Doğu Anadolu ve Karadeniz Kapsaması
 
-Turkcell birçok yerde güvenilir kapsamaya sahip tek ağdır. Vodafone ve Türk Telekom boşlukları büyük kasabaların dışında hızla ortaya çıkar.
+Turkcell, birçok yerde güvenilir kapsaması olan tek ağdır. Vodafone ve Türk Telekom boşlukları, büyük kasabaların dışında hızla ortaya çıkar.
 
-### Kırsal Otoyollar Türkiye eSIM Kapsaması
+### Kırsal Otoyol Kapsaması
 
-İstanbul, Ankara, İzmir ve Antalya arasındaki uzun mesafe otobüs ve araba güzergâhları kırsal alanlardan geçer. Turkcell en sürekli kapsamayı korur. Vodafone ve Türk Telekom'un boşlukları olabilir.
+İstanbul, Ankara, İzmir ve Antalya arasındaki uzun mesafe otobüs ve araba rotaları kırsal bölgelerden geçer. Turkcell en kesintisiz kapsamayı korur. Vodafone ve Türk Telekom'da boşluklar olabilir.
 
-## Türkiye'de 5G Gerçek mi Yoksa Hâlâ Kâğıt Üzerinde mi?
+## Türkiye'de 5G Gerçek mi, Hâlâ Kağıt Üzerinde mi?
 
-Türkiye'nin 5G lansmanı, Ekim 2025 sonunda 2.95 milyar dolarlık bir spektrum ihalesini takip etti. Ticari hizmet 1 Nisan 2026'da başladı. 2026 için Türkiye ağırlıklı olarak bir 4G ülkesi olmaya devam ediyor. 5G hız farklılıkları esas olarak büyük şehirlerde önemlidir.
+Türkiye'nin 5G lansmanı, Ekim 2025 sonunda 2,95 milyar $'lık bir spektrum ihalesini izledi. Ticari servis 1 Nisan 2026'da başladı. 2026 için Türkiye hâlâ büyük ölçüde bir 4G ülkesidir. 5G hız farkları esas olarak büyük şehirlerde önemlidir.
 
-### Türkiye eSIM 5G Hız Artışı
+### 5G Hız Artışı
 
-OpenSignal, 4G'deki 38.5 Mbps'e kıyasla ortalama 201.3 Mbps 5G indirme hızı kaydetti — 5.2× artış. Yükleme hızları 4G'deki 13.6 Mbps'e karşı 5G'de 29.8 Mbps'e ulaştı.
+OpenSignal, ortalama 5G indirme hızını 201,3 Mbps kaydetti; 4G'de 38,5 Mbps — 5,2× artış. Yükleme hızları 5G'de 29,8 Mbps'ye ulaşırken 4G'de 13,6 Mbps'ydi.
 
-### Türkiye eSIM Operatör 5G Stratejileri
+### Operatör 5G Stratejileri
 
-- **Turkcell: Hız lideri.** En büyük 3.5 GHz tahsisi (1×140 MHz). 5G indirme (249 Mbps) ve yüklemede (33.6 Mbps) lider.
-- **Vodafone: Kullanılabilirlik lideri.** 5G kullanılabilirliği ve 700 MHz kullanımında lider. Daha yavaş hızlarda daha geniş kapsama.
-- **Türk Telekom: Güvenilirlik lideri.** En güçlü 5G güvenilirlik puanı. Tepe hız yerine tutarlı, güvenilir bağlantılar.
+- **Turkcell: Hız lideri.** En büyük 3,5 GHz tahsisi (1×140 MHz). 5G indirmede (249 Mbps) ve yüklemekte (33,6 Mbps) öndedir.
+- **Vodafone: Bulunabilirlik lideri.** 5G bulunabilirliğinde ve 700 MHz kullanımında öndedir. Daha yavaş hızda daha geniş kapsama.
+- **Türk Telekom: Güvenilirlik lideri.** En güçlü 5G güvenilirlik puanı. Zirve hız yerine tutarlı, güvenilir bağlantılar.
 
-### Gezginler için Türkiye eSIM 5G Gerçekliği
+### 5G Gezginler İçin Ne Anlama Gelir?
 
-5G kapsaması hâlâ sınırlıdır. Ticari 5G ilk olarak İstanbul, Ankara ve İzmir'de başladı ve genişleme devam ediyor. 5G hız farklılıkları esas olarak büyük şehirlerde önemlidir. Kapadokya, Karadeniz kıyısı ve kırsal Türkiye'de, Turkcell'in lider olduğu 4G kapsaması deneyiminizi belirler.
+5G kapsaması hâlâ sınırlıdır. Ticari 5G önce İstanbul, Ankara ve İzmir'de başladı; genişleme sürüyor. 5G hız farkları esas olarak büyük şehirlerde önemlidir. Kapadokya, Karadeniz kıyısı ve kırsal Türkiye'de, Turkcell'in önde olduğu 4G kapsama deneyiminizi belirler.
 
-### Türkiye eSIM 5G Karşılaştırma Tablosu
+### 5G Karşılaştırma Tablosu
 
-| Operatör | 5G indirme | 5G yükleme | 5G kullanılabilirlik | 5G güvenilirlik |
+| Operatör | 5G indirme | 5G yükleme | 5G bulunabilirliği | 5G güvenilirliği |
 |---|---|---|---|---|
-| Turkcell | 249 Mbps | 33.6 Mbps | Güçlü | Güçlü |
-| Vodafone | 140 Mbps | 29.5 Mbps | Lider | Güçlü |
-| Türk Telekom | 201 Mbps | 25.7 Mbps | Güçlü | Lider |
+| Turkcell | 249 Mbps | 33,6 Mbps | Güçlü | Güçlü |
+| Vodafone | 140 Mbps | 29,5 Mbps | Lider | Güçlü |
+| Türk Telekom | 201 Mbps | 25,7 Mbps | Güçlü | Lider |
 
-## Ön Ödemeli Turist Planları Karşılaştırması
+## Türk Ön Ödemeli Turist eSIM Planları Karşılaştırıldı
 
-Her operatör veri, dakika ve SMS içeren bir turist paketi satar. Hepsi bir mağazada veya havaalanı bankosunda yüz yüze pasaport kaydı gerektirir. Yayınlanan fiyat her zaman bankodaki nihai fiyat değildir.
+Her operatör veri, dakika ve SMS içeren bir turist paketi satar. Hepsi mağazada veya havalimanı gişesinde bizzat pasaport kaydı gerektirir. Yayınlanan fiyat her zaman gişedeki nihai fiyat değildir.
 
-### Türkiye eSIM için Turkcell Tourist Welcome
+### Turkcell Tourist Welcome
 
 | Özellik | Detaylar |
 |---|---|
 | Veri | 20 GB |
-| Dakika | 200 yurt içi |
+| Dakika | 200 yerli |
 | SMS | Dahil değil |
 | Geçerlilik | 28 gün |
-| Fiyat | 1.800 TL (~$38) |
+| Fiyat | 1.800 TL (~38 $) |
 | Kayıt | Pasaport gerekli |
 
-En pahalı. Premium ağ konumunu yansıtır. Havaalanı bankosundaki nihai toplam SIM kart ücretlerini, aktivasyon ücretlerini ve bayi kâr marjlarını içerebilir.
+En pahalı. Premium ağ konumunu yansıtır. Havalimanı gişesindeki nihai toplam, SIM kart ücretlerini, aktivasyon masraflarını ve bayi zam paylarını içerebilir.
 
-### Türkiye eSIM için Vodafone Welcome to Turkey
+### Vodafone Welcome to Turkey
 
 | Özellik | Detaylar |
 |---|---|
 | Veri | 20 GB |
-| Dakika | 750 yurt içi |
-| SMS | 1.000 yurt içi |
+| Dakika | 750 yerli |
+| SMS | 1.000 yerli |
 | WhatsApp | WhatsApp için sınırsız veri |
 | Geçerlilik | 28 gün |
-| Fiyat | Mağazaya göre değişir, ₺5 radyo kullanım vergisi dahil |
+| Fiyat | Mağazaya göre değişir, 5 ₺ radyo kullanım vergisi dahildir |
 | Kayıt | Pasaport, konaklama adresi istenebilir |
 
-Dakika ve SMS'te Turkcell'den daha cömert. Sınırsız WhatsApp verisi, mesajlaşma yoğun gezginler için pratiktir.
+Turkcell'den dakika ve SMS'te daha cömert. Sınırsız WhatsApp verisi, mesajlaşma ağırlıklı gezginler için pratiktir.
 
-### Türkiye eSIM için Türk Telekom Tourist Welcome
+### Türk Telekom Tourist Welcome
 
 | Özellik | Detaylar |
 |---|---|
 | Veri | 25 GB |
-| Dakika | 750 yurt içi |
-| SMS | 750 yurt içi |
+| Dakika | 750 yerli |
+| SMS | 750 yerli |
 | Geçerlilik | 28 gün |
-| Fiyat | 420 TL (~$9) |
+| Fiyat | 420 TL (~9 $) |
 | Kayıt | Pasaport veya kabul edilen kimlik |
 
-Üçün en ucuzu. Turkcell'in paketinin yaklaşık dörtte biri fiyatında.
+Üçünün en ucuzu. Turkcell'in paketinin kabaca çeyreği.
 
-### Türkiye eSIM Havaalanı Bankosu Gerçekliği
+### Havalimanı Gişesi Gerçeği
 
-Bir operatörün yayınlanan paket fiyatı, İstanbul Havalimanı'nda yeni bir fiziksel hat için alınan tutar değildir. Bankodaki nihai toplam, SIM veya başlangıç kartı ücretini, yeni hat vergilerini, aktivasyon maliyetlerini veya bayi marjını içerebilir.
+Bir operatörün yayınlanan paket fiyatı, İstanbul Havalimanı'nda yeni bir fiziksel hat için alınan tutar olmak zorunda değildir. Gişedeki nihai toplam, SIM veya başlangıç kartı ücreti, yeni hat vergileri, aktivasyon maliyetleri veya bayi marjı içerebilir.
 
-Havaalanı SIM paketleri €35–€55 olarak bildirilmiştir. Satış temsilcisinden kayıt başlamadan önce tam tutarı belirtmesini isteyin ve makbuzun paket fiyatını SIM ücretinden ayırdığını onaylayın.
+Havalimanı SIM paketleri 35–55 € olarak bildirilmiştir. Kayıt başlamadan önce satıcıdan tutarın tamamını söylemesini isteyin ve fişin paket fiyatını SIM ücretinden ayırdığını teyit edin.
 
-### Türkiye eSIM Paket Karşılaştırma Tablosu
+### Paket Karşılaştırma Tablosu
 
 | Paket | Veri | Dakika | SMS | Geçerlilik | Fiyat | Kayıt |
 |---|---|---|---|---|---|---|
-| Turkcell Tourist Welcome | 20 GB | 200 | — | 28 gün | 1.800 TL (~$38) | Pasaport |
+| Turkcell Tourist Welcome | 20 GB | 200 | — | 28 gün | 1.800 TL (~38 $) | Pasaport |
 | Vodafone Welcome to Turkey | 20 GB | 750 | 1.000 | 28 gün | Değişken | Pasaport |
-| Türk Telekom Tourist Welcome | 25 GB | 750 | 750 | 28 gün | 420 TL (~$9) | Pasaport |
+| Türk Telekom Tourist Welcome | 25 GB | 750 | 750 | 28 gün | 420 TL (~9 $) | Pasaport |
 
-### Türkiye eSIM GB Başına Fiyat Karşılaştırması
+### GB Başına Fiyat Karşılaştırması
 
 | Paket | Fiyat | Veri | GB başına fiyat |
 |---|---|---|---|
-| Turkcell Tourist Welcome | ~$38 | 20 GB | $1.90 |
+| Turkcell Tourist Welcome | ~38 $ | 20 GB | 1,90 $ |
 | Vodafone Welcome to Turkey | Değişken | 20 GB | Değişken |
-| Türk Telekom Tourist Welcome | ~$9 | 25 GB | $0.36 |
+| Türk Telekom Tourist Welcome | ~9 $ | 25 GB | 0,36 $ |
 
-Türk Telekom en düşük GB başına fiyatı sunar. Turkcell'in primi, kapsama avantajının maliyetidir.
+Türk Telekom en düşük GB başına fiyatı sunar. Turkcell'in farkı, kapsama avantajının maliyetidir.
 
-### Türkiye eSIM Travel eSIM Alternatifi
+### Seyahat eSIM Alternatifi
 
-Travel eSIM fiyatları temel bir plan için $1.99'dan 20 GB / 30 günlük bir plan için $22.50'ye kadar değişir. GB başına en iyi değer yaklaşık $0.67'dir. Kayıt yok, IMEI tetikleyici yok. GB başına maliyet hesabı için [GB başına maliyet hesabını](/blog/cheapest-turkey-esim/) okuyun.
+Seyahat eSIM fiyatları, temel plan için 2,99 $ ile 20 GB / 30 günlük plan için 22,50 $ arasında değişir. GB başına en iyi değer yaklaşık 0,67 $'dır. Kayıt yok, IMEI tetikleyicisi yok. Taahhüte hazır değil misiniz? [Ücretsiz deneme planları](/free-esim/) ödeme yapmadan önce ağı test etmenizi sağlar. GB başına maliyet matematiği için [GB başına maliyet matematiğini](/blog/cheapest-turkey-esim/) okuyun.
 
-## İngilizce Destek ve Turist Dostu Olma
+## Türk Ağlarında İngilizce Destek ve Turist Dostluğu
 
-Vodafone en gelişmiş İngilizce turist desteğine sahiptir. Turkcell güçlü dijital yatırıma sahiptir ancak İngilizce desteği daha zayıftır. Türk Telekom en az turist dostudur ancak en ucuzudur.
+Vodafone'un en gelişmiş İngilizce turist desteği vardır. Turkcell güçlü dijital yatırıma sahiptir ancak İngilizce desteği daha zayıftır. Türk Telekom en az turist dostu olandır ama en ucuzdur.
 
-### Vodafone Turkey eSIM İngilizce Destek
+### Vodafone İngilizce Desteği
 
-En gelişmiş İngilizce turist altyapısı. Turist planları için özel İngilizce sayfalar. IST ve SAW'daki havaalanı bankoları genellikle İngilizce konuşan temsilcilerle donatılmıştır. "Welcome to Turkey" paketi uluslararası ziyaretçiler için tasarlanmıştır.
+En gelişmiş İngilizce turist altyapısı. Turist planları için özel İngilizce sayfalar. IST ve SAW havalimanı gişeleri genellikle İngilizce konuşan görevlilerle doludur. Uluslararası ziyaretçiler için tasarlanmış "Welcome to Turkey" paketi.
 
-### Turkcell Turkey eSIM İngilizce Destek
+### Turkcell İngilizce Desteği
 
-Yoğun eSIM yatırımı — aktivasyonların %85'i dijital. İngilizce turist desteği Vodafone'dan daha az tutarlı. Mağaza temsilcileri İngilizce konuşabilir veya konuşmayabilir. Yerleşik olmayanlar için eSIM aktivasyonu daha yavaş olabilir.
+Yoğun eSIM yatırımı — aktivasyonların %85'i dijital. İngilizce turist desteği Vodafone'dan daha az tutarlı. Mağaza görevlileri İngilizce konuşabilir veya konuşmayabilir. İkametgâhı olmayanlar için eSIM aktivasyonu daha yavaş olabilir.
 
-### Türk Telekom Turkey eSIM İngilizce Destek
+### Türk Telekom İngilizce Desteği
 
-En az gelişmiş turist destek altyapısı. En ucuz paket, ancak mağazalarda ve web sitesinde İngilizce destek sınırlıdır. Fiyat için Türk Telekom'u seçen gezginler hands-off bir deneyim beklemelidir.
+En az gelişmiş turist destek altyapısı. En ucuz paket, ancak mağazalarda ve web sitesinde İngilizce destek sınırlıdır. Fiyat için Türk Telekom'u seçen gezginler, kendinden özensiz bir deneyim beklemelidir.
 
-### Türkiye eSIM İngilizce Destek Karşılaştırması
+### İngilizce Destek Karşılaştırması
 
-| Operatör | Web sitesi İngilizce | Havaalanı personeli İngilizce | Mağaza personeli İngilizce | Turist paketi |
+| Operatör | Web sitesi İngilizce | Havalimanı personeli İngilizce | Mağaza personeli İngilizce | Turist paketi |
 |---|---|---|---|---|
 | Vodafone | ✅ Tam | ✅ Evet | ✅ Genellikle | Welcome to Turkey |
 | Turkcell | ⚠️ Kısmi | ⚠️ Bazen | ⚠️ Bazen | Tourist Welcome |
 | Türk Telekom | ❌ Sınırlı | ❌ Nadiren | ❌ Nadiren | Tourist Welcome |
 
-### İngilizce Destek için Türkiye eSIM Travel eSIM Alternatifi
+### Dil Bariyerini Tamamen Atlamak
 
-Kalkıştan önce çevrimiçi satın alınan bir travel eSIM, Türk operatör mağazalarıyla etkileşim ihtiyacını ortadan kaldırır. Satın alma, kurulum ve aktivasyon kendi dilinizde gerçekleşir.
+Yola çıkmadan önce çevrim içi satın alınan bir seyahat eSIM'i, Türk operatör mağazalarıyla etkileşim kurma gereğini ortadan kaldırır. Satın alma, kurulum ve aktivasyon kendi dilinizde gerçekleşir.
 
-## Travel eSIM vs Yerel Türk SIM
+## Seyahat eSIM ve Yerel Türk SIM Karşılaştırması
 
-Travel eSIM'ler bir aydan kısa geziler için daha ucuz ve kurulumu daha hızlıdır. Yerel SIM'ler, Türk telefon numarasına, yerel aramalara veya Türk numaralarına SMS'e ihtiyacınız varsa tek seçenektir.
+Seyahat eSIM'leri, bir aydan kısa geziler için daha ucuz ve kurulumu daha hızlıdır. Yerel SIM'ler, Türk bir telefon numarasına, Türk numaralarına yerel aramaya veya SMS'e ihtiyacınız varsa tek seçenektir. Son birkaç yıldan itibaren cihazların çoğu bunları alır — [uyumluluk rehberi](/compatibility/) size tek bakışta cevap verir.
 
-### Türkiye eSIM Travel eSIM'in Mantıklı Olduğu Durumlar
+### Seyahat eSIM Ne Zaman Mantıklıdır?
 
-- Bir aydan kısa süre kalmak
+- Bir aydan az kalmak
 - Türk telefon numarasına ihtiyaç duymamak
-- Kalkıştan önce kurmak istemek (BTK bloğu nedeniyle zorunlu). [Sağlayıcı engel kurallarını](/blog/turkey-esim-ban-availability-rules/) okuyun.
+- Yola çıkmadan önce kurmak istemek (BTK engeli nedeniyle zorunlu). [Sağlayıcı engelleme kurallarını](/blog/turkey-esim-ban-availability-rules/) okuyun.
 - Öncelikle WhatsApp, Telegram veya e-posta ile iletişim kurmak
-- GB başına en düşük maliyeti istemek
-- Pasaport kaydı ve IMEI risklerinden kaçınmak istemek
+- En düşük GB başına maliyet istemek
+- Pasaport kaydını ve IMEI risklerini önlemek istemek
 
-### Yerel Türk SIM'in Mantıklı Olduğu Durumlar
+### Yerel Türk SIM Ne Zaman Mantıklıdır?
 
-- Banka doğrulaması, yerel hizmetler veya uzun süreli kullanım için Türk telefon numarasına ihtiyaç duymak
+- Banka doğrulaması, yerel hizmetler veya uzun vadeli kullanım için Türk telefon numarası gerekiyor
 - Bir aydan fazla kalmak ve yerel bir abonelik istemek
-- Türk numaralarına yerel arama ve SMS'e ihtiyaç duymak
-- Pasaport kaydı için bir mağazada 30–60 dakika geçirmeye istekli olmak
+- Türk numaralarına yerel arama ve SMS gerekiyor
+- Pasaport kaydı için mağazada 30–60 dakika geçirmeye istekli olmak
 
-### Türkiye eSIM Maliyet Karşılaştırması
+### Maliyet Karşılaştırması
 
-| Faktör | Travel eSIM | Yerel Türk SIM |
+| Faktör | Seyahat eSIM | Yerel Türk SIM |
 |---|---|---|
-| Kurulum süresi | Wi-Fi'de 60 saniye | Mağazada 30–60 dakika |
+| Kurulum süresi | Wi-Fi'da 60 saniye | Mağazada 30–60 dakika |
 | Kayıt | Yok | Pasaport gerekli |
-| IMEI tetikleyici | Hayır | Evet (120 günlük saat) |
+| IMEI tetikleyicisi | Hayır | Evet (120 günlük saat) |
 | Yerel numara | Hayır, yalnızca veri | Evet (+90) |
 | Yerel arama/SMS | Hayır, yalnızca VoIP | Evet |
-| 10 GB fiyat | $9.30–$15.50 | $20–$38 |
-| BTK engel riski | Ön kurulum bunu önler | N/A |
-| Hotspot | Genellikle izin verilir | Genellikle izin verilir |
-| 2FA SMS | Ev SIM'i üzerinden | Yerel numara üzerinden |
+| 10 GB fiyatı | 9,30–15,50 $ | 20–38 $ |
+| BTK engel riski | Önceden kurulum önler | Yok |
+| Hotspot | Genellikle izinli | Genellikle izinli |
+| 2FA SMS | Ev SIM ile | Yerel numara ile |
 
-### Türkiye eSIM Pratik Öneri
+### Pratik Öneri
 
-Haritalar, mesajlaşma ve navigasyon için veriye ihtiyaç duyan bir ila dört hafta kalan turistler için bir travel eSIM açık kazanandır. Daha ucuz, kurulumu daha hızlı, düzenleyici karmaşıklıktan kaçınır.
+Haritalar, mesajlaşma ve navigasyon için veriye ihtiyaç duyan, bir ila dört hafta kalan turistler için seyahat eSIM net kazananıdır. Daha ucuz, kurulumu daha hızlı, mevzuat karmaşıklığını önler.
 
-Türk numarasına ihtiyaç duyan dijital göçebeler ve uzun süreli ziyaretçiler için yerel SIM yolu kaçınılmazdır. Birçoğu ikisini birleştirir: ses ve SMS için yerel SIM, ikincil bir cihazda veri için travel eSIM.
+Türk numarasına ihtiyaç duyan dijital göçebeler ve uzun süreli konuklar için yerel SIM yolu kaçınılmazdır. Birçoğu ikisini birleştirir: ses ve SMS için yerel SIM, ikincil cihazda veri için seyahat eSIM.
 
-## Hangi Sağlayıcılar Hangi Ağı Kullanır
+## Hangi eSIM Sağlayıcı Hangi Ağı Kullanır
 
-Bu, sayfadaki en önemli tablodur. Her büyük travel eSIM sağlayıcısını Türk ağ ortağına eşler. Kırsal kapsamayı sağlayıcı markası değil, ağ ortağı belirler.
+Bu, sayfadaki en önemli tablodur. Her büyük seyahat eSIM sağlayıcısını Türk ağ ortağına eşler. Kırsal kapsamayı ağ ortağı belirler, sağlayıcı markası değil.
 
 | Sağlayıcı | Türkiye ağı | Son doğrulama | Notlar |
 |---|---|---|---|
 | Airalo | Yalnızca Türk Telekom | Eylül 2026 | En zayıf kırsal kapsama |
-| Nomad | Turkcell | Eylül 2026 | En iyi bütçe kırsal |
+| Nomad | Turkcell | Eylül 2026 | Bütçe kırsal için en iyi |
 | Holafly | Turkcell + Türk Telekom | Eylül 2026 | Airalo'dan daha iyi kırsal |
 | Yesim | Yalnızca Vodafone | Eylül 2026 | Kıyılar için iyi |
-| Roami | Turkcell + Vodafone | Eylül 2026 | Otomatik geçiş |
+| Roami | Turkcell + Vodafone + Türk Telekom | Eylül 2026 | Otomatik geçiş |
 | Saily | Açıklanmamış çoklu ağ | Eylül 2026 | Satın almadan önce doğrulanamaz |
-| Klook | Türk Telekom | Eylül 2026 | BTK tarafından engellenmemiş |
+| Klook | Türk Telekom | Eylül 2026 | BTK engelli değil |
 | Ubigi | Çoklu ağ | Eylül 2026 | Plana göre değişir |
 | GigSky | Çoklu ağ | Eylül 2026 | Avrupa planı Türkiye'yi kapsar |
 
-### Satın Almadan Önce Türkiye eSIM Ağı Nasıl Doğrulanır
+### Satın Almadan Önce Ağı Nasıl Doğrularsınız?
 
 1. Sağlayıcının plan sayfasını açın.
-2. "Network" veya "Coverage" bölümünü bulun.
-3. Türk operatör adını arayın.
-4. Listelenmemişse, destekle iletişime geçin ve sorun.
-5. Destek onaylayamazsa, farklı bir sağlayıcı seçin.
+2. "Ağ" veya "Kapsama" bölümünü bulun.
+3. Türk operatörün adını arayın.
+4. Listelenmemişse, desteğe başvurup sorun.
+5. Destek teyit edemiyorsa, farklı bir sağlayıcı seçin.
 
-Kırsal seyahat için, açıklanmış Turkcell kapsamasına sahip bir sağlayıcı seçin. Şehir gezileri için herhangi bir ağ çalışır. İkisi arasında otomatik geçiş için, [Roami'nin Türkiye eSIM'i](/turkey-esim/) yeni kullanıcı indirimi %20 ile $1.99'dan başlar ve inişten sonra Wi-Fi üzerinden çalışan 7/24 insan desteği sunar.
+Kırsal seyahat için, Turkcell kapsamasını açıklayan bir sağlayıcı seçin. Şehir gezileri için her ağ çalışır. Üç ağ arasında otomatik geçiş için [Roami'nin Türkiye eSIM'i](/turkey-esim/), %20 yeni kullanıcı indirimiyle (web20 kodu) 2,99 $'dan başlar ve iniş sonrası Wi-Fi üzerinden çalışan 7/7 insan destek sunar.
 
-## Varışta Ağ Kapsama Testi
+## Türkiye'de Ev Operatörünüzü Kullanmak: EE, O2, Three ve Giffgaff
 
-Kapsama testi beş dakikadan az sürer. Veri dolaşımını etkinleştirin, operatör adını kontrol edin, bir harita veya tarayıcı açın, manuel ağ seçimini deneyin ve hızları karşılaştırın.
+Bir şey satın almadan önce, birçok İngiliz gezgin önce sahip olduğu SIM'in Türkiye'de basitçe çalışıp çalışmayacağını sorar. Kısa cevap: evet, bağlanır ancak Türkiye, İngiliz operatörlerin ücretsiz verdiği veya ucuza paketlediği AB dolaşım bölgesinin dışındadır; bu yüzden bölge dışı ücretlere veya ücretli bir dolaşım pasına girersiniz. EE, O2, Three, Vodafone UK, Giffgaff, ID Mobile ve Virgin hepsi Türkiye'ye bu şekilde davranır; aynı şey Orange, Telenor gibi diğer Avrupa ev operatörleri ve daha uzaktaki Freedom Mobile için de geçerlidir.
 
-### Varışta Türkiye eSIM Kapsaması Nasıl Test Edilir
+Bunun pratikte anlamı operatöre göre değişir. Sesli aramalar ve SMS genellikle normal şekilde çalışmaya devam eder — numaranız her zaman olduğu gibi arama alır — çünkü ev SIM'iniz bir Türk ortak ağına dolaşıma çıkar. Maliyetin yoğunlaştığı yer veridir: günlük bir dolaşım pası, tam bir seyahat eSIM'inin gigabayt başına maliyetini kolayca aşabilir ve bazı operatörler eklentilerinin dışında şaşırtıcı biçimde kısıtlar veya fatura eder. Uçmadan önce operatörünüzün Türkiye ücret sayfasını kontrol edin ve pas fiyatı sizi canlandırdıysa, onu [Türkiye eSIM maliyet rehberindeki](/blog/cheapest-turkey-esim/) GB başına matematiyle karşılaştırmanın tam zamanıdır.
+
+Çoğu İngiliz gezgin için akıllı hibrit: aramalar ve 2FA mesajları için ev SIM'ini aktif tutun ve veriyi bir seyahat eSIM'e koyun — bu tam olarak [aktivasyon rehberinde](/blog/how-turkey-esim-works-activation/) anlatılan çift SIM kurulumudur. Türkiye'nin AB dolaşımı dışında olmasının teknik nedeni için [bölgesel planlar rehberinin](/blog/turkey-esim-europe-greece-egypt/) AB dolaşım sınırı bölümüne bakın.
+
+## Varışta Türk Ağ Kapsama Testi
+
+Kapsama testi beş dakikanın altında sürer. Veri dolaşımını etkinleştirin, operatör adını kontrol edin, bir harita veya tarayıcı açın, elle ağ seçimini deneyin ve hızları karşılaştırın.
+
+### Varışta Kapsama Nasıl Test Edilir?
 
 1. Türkiye eSIM için veri dolaşımını etkinleştirin.
 2. Durum çubuğundaki operatör adını kontrol edin.
-3. Veri akışını onaylamak için bir harita veya tarayıcı açın.
-4. Yavaşsa, manuel ağ seçimini deneyin.
-5. Mevcut her ağdaki hızı karşılaştırın.
+3. Verinin aktığını teyit etmek için bir harita veya tarayıcı açın.
+4. Yavaşsa, elle ağ seçimini deneyin.
+5. Mevcut her ağda hızı karşılaştırın.
 6. Bölgeniz için en hızlı ağı seçin.
 
-### Türkiye eSIM için Manuel Ağ Seçimi
+### Elle Ağ Seçim Adımları
 
-**iPhone:** Ayarlar → Mobil Veri → eSIM → Ağ Seçimi → Otomatik'i kapat → ağ seç.
+**iPhone:** Ayarlar → Mobil Veri → eSIM → Ağ Seçimi → Otomatik'i kapatın → ağı seçin.
 
-**Android:** Ayarlar → Ağ → SIM'ler → eSIM → Ağ Operatörleri → Manuel ara.
+**Android:** Ayarlar → Ağ → SIM'ler → eSIM → Ağ Operatörleri → Elle ara.
 
-### Türkiye eSIM Hız Testi Referansı
+### Hız Testi Referansı
 
-| Ağ | Beklenen medyan | En uygun |
+| Ağ | Beklenen medyan | Ne için iyi |
 |---|---|---|
-| Turkcell | 67.4 Mbps | Her şey, özellikle kırsal |
-| Türk Telekom | 27.8 Mbps | Şehirler, bütçe |
-| Vodafone | 19.4 Mbps | Kıyılar, şehirler |
+| Turkcell | 67,4 Mbps | Her şey, özellikle kırsal |
+| Türk Telekom | 27,8 Mbps | Şehirler, bütçe |
+| Vodafone | 19,4 Mbps | Kıyılar, şehirler |
 
-### Türkiye eSIM Ağı Ne Zaman Manuel Değiştirilmeli
+### Ağları Ne Zaman Elle Değiştirmeli?
 
-- Otomatik seçim zayıf bir operatör seçiyor
-- Kırsal bir alandasınız ve Turkcell'e ihtiyacınız var
-- Bir sınıra yakınsınız ve plan dışı bir ağdan kaçınmak istiyorsunuz
-- Veri mevcut ağda yavaş akıyor
+- Otomatik seçim zayıf bir operatör seçtiğinde
+- Kırsal bir böldedesiniz ve Turkcell gerekiyorsa
+- Sınır yakınındasınız ve plan dışı bir ağdan kaçınmak istiyorsanız
+- Veri mevcut ağda yavaş akıyorsa
 
 Tam aktivasyon ve sorun giderme iş akışı için [aktivasyon ve APN adımlarını](/blog/how-turkey-esim-works-activation/) okuyun.
 
-## Doğru Ağı Nasıl Seçersiniz?
+## Doğru eSIM Ağını Nasıl Seçersiniz?
 
-Her gezgin türünün farklı bir en iyi ağı vardır. Güzergâhınızı doğru seçimle eşleştirmek için bu bölümü kullanın.
+Her gezgin türünün farklı bir en iyi ağı vardır. Programınızı doğru seçimle eşleştirmek için bu bölümü kullanın.
 
 | Gezgin türü | En iyi ağ | En iyi seçenek |
 |---|---|---|
-| Kısa turist (1–2 hafta) | Turkcell veya Vodafone | Travel eSIM |
-| Şehir odaklı | Vodafone veya Türk Telekom | Travel eSIM |
-| Kırsal seyahat | Turkcell | Travel eSIM |
-| Türk numarası gerekli | Herhangi biri | Yerel SIM |
-| Dijital göçebe | Turkcell | Yerel SIM + travel eSIM |
-| Aile/grup | Turkcell veya Vodafone | Hotspotlu travel eSIM |
+| Kısa süreli turist (1–2 hafta) | Turkcell veya Vodafone | Seyahat eSIM |
+| Şehir odaklı | Vodafone veya Türk Telekom | Seyahat eSIM |
+| Kırsal seyahat | Turkcell | Seyahat eSIM |
+| Türk numarası gerekiyor | Herhangi biri | Yerel SIM |
+| Dijital göçebe | Turkcell | Yerel SIM + seyahat eSIM |
+| Aile/grup | Turkcell veya Vodafone | Hotspot'lu seyahat eSIM |
 | Yedek seçenek | Türk Telekom | Klook eSIM |
 
-### Kısa Süreli Turist Türkiye eSIM Ağı
+### Kısa Süreli Turistler
 
-**En iyi:** Turkcell veya Vodafone'da travel eSIM.
+**En iyi:** Turkcell veya Vodafone üzerinde seyahat eSIM.
 
-Türk numarası gerekmez. Travel eSIM daha ucuz, kurulumu daha hızlı, BTK bloğu ve IMEI kaydından kaçınır. Güzergâh kırsal alanları içeriyorsa Turkcell'i seçin.
+Türk numarası gerekmez. Seyahat eSIM daha ucuz, kurulumu daha hızlı, BTK engelini ve IMEI kaydını önler. Program kırsal bölgeler içeriyorsa Turkcell seçin.
 
-### İstanbul ve Batı Kıyısı Türkiye eSIM Ağı
+### İstanbul ve Batı Kıyısı
 
-**En iyi:** Vodafone veya Türk Telekom'da travel eSIM.
+**En iyi:** Vodafone veya Türk Telekom üzerinde seyahat eSIM.
 
-İstanbul, Antalya, Bodrum ve Marmaris'te kapsama üçünde de mükemmeldir. Turkcell'in kırsal avantajına gerek yok. Türk Telekom şehir odaklı geziler için en düşük fiyatı sunar.
+İstanbul, Antalya, Bodrum ve Marmaris'te kapsama üçünde de mükemmeldir. Turkcell'in kırsal avantajına gerek yok. Türk Telekom, şehir odaklı geziler için en düşük fiyatı sunar.
 
-### Kapadokya, Doğu Türkiye veya Karadeniz Türkiye eSIM Ağı
+### Kapadokya, Doğu Türkiye veya Karadeniz
 
-**En iyi:** Turkcell'de travel eSIM.
+**En iyi:** Turkcell üzerinde seyahat eSIM.
 
-Turkcell bu bölgelerde güvenilir kapsamaya sahip tek ağdır. Güzergâh uzak alanları içeriyorsa ağ seçiminden ödün vermeyin.
+Turkcell bu bölgelerde güvenilir kapsaması olan tek ağdır. Program uzak bölgeler içeriyorsa ağ seçiminden ödün vermeyin.
 
-### Türk Telefon Numarası Gerekli Türkiye eSIM Ağı
+### Türk Telefon Numarası Gerekiyorsa
 
 **En iyi:** Turkcell, Vodafone veya Türk Telekom'dan yerel Türk SIM.
 
-Travel eSIM'ler yalnızca veridir. Yerel aramalar, SMS veya banka doğrulaması için +90 numara için yerel SIM tek seçenektir. Tam çözüm için [arama ve SMS kılavuzunu](/blog/turkey-esim-number-calls-sms-hotspot/) okuyun.
+Seyahat eSIM'leri yalnızca veri sunar. Yerel arama, SMS veya banka doğrulaması için +90 numara için yerel SIM tek seçenektir. Tam çözüm için [arama ve SMS rehberini](/blog/turkey-esim-number-calls-sms-hotspot/) okuyun.
 
-### Dijital Göçebe Türkiye eSIM Ağı (1–3 Ay)
+### Dijital Göçebeler (1–3 Ay)
 
-**En iyi:** Ses/SMS için yerel Türk SIM + veri için travel eSIM.
+**En iyi:** Ses/SMS için yerel Türk SIM + veri için seyahat eSIM.
 
-Yerel SIM yerel hizmetler için Türk numarası verir. Travel eSIM ikincil bir cihazda daha ucuz veri sağlar. 120 günlük IMEI saatini izleyin.
+Yerel SIM, yerel hizmetler için Türk numarası verir. Seyahat eSIM, ikincil cihazda daha ucuz veri sağlar. 120 günlük IMEI saatini izleyin.
 
-### Aile veya Grup Türkiye eSIM Ağı
+### Aileler ve Gruplar
 
-**En iyi:** Birincil gezginin telefonunda sınırsız hotspotlu travel eSIM.
+**En iyi:** Birincil gezginin telefonunda kısıtlamasız hotspot'lu seyahat eSIM.
 
-Hotspotlu bir yüksek verili eSIM, en düşük toplam maliyetle cihazlar arasında veri paylaşır. Roami ve Saily her ikisi de sınırsız hotspot'a izin verir.
+Hotspot'lu bir yüksek verili eSIM, veriyi en düşük toplam maliyetle cihazlar arasında paylaşır. Roami ve Saily ikisi de kısıtlamasız hotspot'a izin verir.
 
-### Yedek Türkiye eSIM Ağı Seçeneği
+### Yedek Seçenek
 
 **En iyi:** Yedek eSIM olarak Klook.
 
-Onaylanmış BTK engel listesinde değil. Türk Telekom üzerinde çalışır. Birincil eSIM başarısız olursa inişten sonra etkinleştirilebilir.
+Doğrulanmış BTK engel listesinde değil. Türk Telekom üzerinde çalışır. Birincil eSIM başarısız olursa inişten sonra aktive edilebilir.
 
 ## Gerçek Örnek: Elena, Kapadokya'dan Kıyıya
 
-Elena'nın yalnızca şehir planı, Türk Telekom üzerinde çalıştığı için Göreme'nin vadilerinde sinyal kaybetti. Turkcell'deki bir sağlayıcı — veya otomatik olarak ona geçen bir sağlayıcı — haritalarını ve balon rezervasyon uygulamalarını canlı tutardı.
+Elena'nın yalnızca şehir planı, Türk Telekom üzerinde çalıştığı için Göreme vadilerinde sinyali kesti. Turkcell üzerinde bir sağlayıcı — veya ona otomatik geçen biri — haritalarını ve balon rezervasyon uygulamalarını canlı tutabilirdi.
 
-## Destinasyon vs Ağ
+## Varış Noktası ve Ağ
 
-| Destinasyon | İhtiyacınız olan ağ | Neden |
+| Varış noktası | İhtiyacınız olan ağ | Neden |
 | --- | --- | --- |
 | İstanbul, İzmir | Herhangi biri | Üçü de şehirlerde çalışır |
 | Kapadokya, kırsal doğu | Turkcell | En geniş kapsama |
-| Ege ve Akdeniz tatil köyleri | Vodafone | En güçlü kıyı sinyali |
+| Ege ve Akdeniz tatil beldeleri | Vodafone | En güçlü kıyı sinyali |
 
-## SSS: Turkcell vs Vodafone vs Türk Telekom
+## SSS: Turkcell mi Vodafone mu Türk Telekom mu eSIM
 
-### Turistler için en iyi Türk ağı hangisi?
+### Turistler için en iyi Türk ağı hangisidir?
 
-Turkcell en geniş ülke çapında kapsamaya sahiptir ve kırsal seyahat, Kapadokya, Doğu Türkiye ve Karadeniz kıyısı için en iyisidir. Vodafone kıyı tatil köyleri ve İstanbul için mükemmeldir. Türk Telekom şehir gezileri için bütçe seçeneğidir.
+Turkcell en geniş ülke çapında kapsamaya sahiptir ve kırsal seyahat, Kapadokya, doğu Türkiye ve Karadeniz kıyısı için en iyisidir. Vodafone kıyı tatil beldeleri ve İstanbul için mükemmeldir. Türk Telekom şehir gezileri için bütçe seçeneğidir.
 
 ### Turkcell'in turistler için eSIM'i var mı?
 
-Evet. Ön ödemeli ve faturalı. Turist eSIM'leri bir Turkcell mağazasında pasaportla yüz yüze kayıt gerektirir. 30–60 dakika sürer. Kayıt olmadan yalnızca veri bağlantısı için, bir travel eSIM daha hızlıdır.
+Evet. Ön ödemeli ve faturalı. Turist eSIM'leri, pasaportla Turkcell mağazasında bizzat kayıt gerektirir. 30–60 dakika sürer. Kayıtsız yalnızca veri bağlantısı için seyahat eSIM daha hızlıdır.
 
-### Vodafone Turkey'in eSIM'i var mı?
+### Vodafone Türkiye'nin eSIM'i var mı?
 
 Evet. Ön ödemeli dahil tüm bireysel tarifelerde. Turist eSIM'leri pasaport kaydı gerektirir. Vodafone üçü arasında en güçlü İngilizce turist desteğine sahiptir.
 
 ### Türk Telekom'un eSIM'i var mı?
 
-Evet. Ön ödemeli ve faturalı. Airalo ve Klook gibi uluslararası travel eSIM sağlayıcıları tarafından en yaygın kullanılan ağ. Turist eSIM'leri pasaport kaydı gerektirir.
+Evet. Ön ödemeli ve faturalı. Airalo ve Klook gibi uluslararası seyahat eSIM sağlayıcılarının en sık kullandığı ağ. Turist eSIM'leri pasaport kaydı gerektirir.
 
-### Hangi Türk ağı en iyi 5G'ye sahip?
+### En iyi 5G'ye sahip Türk ağı hangisidir?
 
-Turkcell ortalama 249 Mbps ile 5G hızında lider. Vodafone 5G kullanılabilirliği ve 700 MHz spektrum kullanımında lider. Türk Telekom en güçlü 5G güvenilirlik puanını kaydetti.
+Turkcell 249 Mbps ortalama ile 5G hızında öndedir. Vodafone 5G bulunabilirliğinde ve 700 MHz spektrum kullanımında öndedir. Türk Telekom en güçlü 5G güvenilirlik puanını kaydetti.
 
-### Hangi Türk ağı en iyi kırsal kapsamaya sahip?
+### En iyi kırsal kapsamaya sahip Türk ağı hangisidir?
 
-Turkcell önemli bir farkla en iyi kırsal kapsamaya sahiptir. Genellikle Doğu Türkiye, Karadeniz kıyısı ve uzak dağlık bölgelerde güvenilir sinyale sahip tek operatördür.
+Turkcell kırsal kapsamada açık ara en iyisidir. Genellikle doğu Türkiye, Karadeniz kıyısı ve uzak dağlık bölgelerde güvenilir sinyali olan tek operatördür.
 
-### İstanbul'da Turkcell mi yoksa Vodafone mu daha iyi?
+### İstanbul'da Turkcell mi Vodafone mu daha iyi?
 
-Her ikisi de mükemmel. Turkcell biraz daha hızlı medyan indirme hızlarına sahiptir. Vodafone güçlü kentsel kapsama ve 5G kullanılabilirlik liderliğine sahiptir. Şehir odaklı bir gezi için her ikisi de çalışır.
+İkisi de mükemmel. Turkcell'in medyan indirme hızları biraz daha hızlıdır. Vodafone'un güçlü kentsel kapsaması ve 5G bulunabilirliği liderliği vardır. Şehir odaklı gezi için herhangi biri çalışır.
 
-### Kapadokya için en iyi Türk ağı hangisi?
+### Kapadokya için en iyi Türk ağı hangisidir?
 
-Turkcell. Mağara vadileri ve uzak alanlar genellikle yalnızca Turkcell'de sinyale sahiptir. Ağdan bağımsız olarak varıştan önce çevrimdışı haritaları indirin.
+Turkcell. Mağara vadileri ve uzak bölgelerde sinyal genellikle yalnızca Turkcell'dedir. Ağdan bağımsız olarak varıştan önce çevrimdışı haritaları indirin.
 
-### Antalya için en iyi Türk ağı hangisi?
+### Antalya için en iyi Türk ağı hangisidir?
 
-Vodafone Antalya'da ve Akdeniz kıyısı boyunca güçlü performans gösterir. Turkcell de iyi kapsamaya sahiptir. Tatil köyü tabanlı bir tatil için her ikisi de çalışır.
+Vodafone, Antalya'da ve Akdeniz kıyısı boyunca güçlü performans gösterir. Turkcell'in de kapsaması iyidir. Tatil merkezli bir tatil için herhangi biri çalışır.
 
-### Hangi Türk ağı en iyi İngilizce desteğe sahip?
+### En iyi İngilizce desteğe sahip Türk ağı hangisidir?
 
-Vodafone en gelişmiş İngilizce turist desteğine sahiptir; özel İngilizce sayfalar ve havaalanı bankolarında İngilizce konuşan temsilciler.
+Vodafone, özel İngilizce sayfaları ve havalimanı gişelerinde İngilizce konuşan görevlilerle en gelişmiş İngilizce turist desteğine sahiptir.
 
-### Bir travel eSIM yerel Türk SIM'den daha ucuz mu?
+### Seyahat eSIM yerel Türk SIM'den daha mı ucuz?
 
-Evet, yalnızca veri bağlantısı için. 10 GB'lık bir travel eSIM $9.30–$15.50 tutarındadır. Eşdeğer veriye sahip yerel bir Türk SIM aktivasyon ücretlerinden sonra $20–$38 tutarındadır. eSIM ayrıca pasaport kaydı ve IMEI risklerinden kaçınır.
+Evet, yalnızca veri bağlantısı için. 10 GB'lık bir seyahat eSIM 9,30–15,50 $ tutar. Eşdeğer veriye sahip yerel bir Türk SIM, aktivasyon ücretleri sonrasında 20–38 $ tutar. eSIM ayrıca pasaport kaydını ve IMEI risklerini de önler.
 
-### Türkiye eSIM Turkcell mi yoksa Vodafone mu kullanır?
+### Türkiye eSIM Turkcell mi Vodafone mu kullanır?
 
-Sağlayıcıya bağlıdır. Airalo Türk Telekom kullanır. Nomad Turkcell kullanır. Yesim Vodafone kullanır. Roami otomatik geçişle hem Turkcell hem de Vodafone kullanır. Satın almadan önce sağlayıcının ağ ortağını kontrol edin.
+Sağlayıcıya bağlıdır. Airalo Türk Telekom kullanır. Nomad Turkcell kullanır. Yesim Vodafone kullanır. Roami, Turkcell, Vodafone Türkiye ve Türk Telekom arasında otomatik geçiş yapar. Satın almadan önce sağlayıcının ağ ortağını kontrol edin.
 
-### Turistler için en ucuz Türk ağı hangisi?
+### Turistler için en ucuz Türk ağı hangisidir?
 
-Türk Telekom'un Tourist Welcome'u 25 GB, 750 dakika ve 750 SMS için 420 TL (~$9) ile en ucuzudur. Yalnızca veri bağlantısı için, travel eSIM'ler $1.99'dan başlar.
+Türk Telekom'un Tourist Welcome'ı, 25 GB, 750 dakika ve 750 SMS için 420 TL (~9 $) ile en ucuzdur. Yalnızca veri bağlantısı için seyahat eSIM'leri 2,99 $'dan başlar.
 
-### Likya Yolu için en iyi ağ hangisi?
+### Likya Yolu için en iyi ağ hangisidir?
 
-Turkcell Likya Yolu boyunca en güvenilir kapsamaya sahiptir. Vodafone uzak bölümlerde boşluklara sahip olabilir. Başlamadan önce çevrimdışı haritaları indirin.
+Turkcell, Likya Yolu boyunca en güvenilir kapsamaya sahiptir. Vodafone uzak bölümlerde boşluklar olabilir. Başlamadan önce çevrimdışı haritaları indirin.
 
 ### Bir eSIM'de iki Türk ağı kullanabilir miyim?
 
-Roami gibi bazı sağlayıcılar otomatik geçişle birden fazla ağı entegre eder. Çoğu travel eSIM tek bir ağa bağlanır.
+Roami gibi bazı sağlayıcılar otomatik geçişle birden fazla ağı entegre eder. Çoğu seyahat eSIM tek bir ağa bağlanır.
 
 ### eSIM'im hangi ağı kullanıyor?
 
 Aktivasyondan sonra telefonunuzun durum çubuğundaki operatör adını kontrol edin. Veya satın almadan önce sağlayıcının plan sayfasını kontrol edin. Açıklanmamışsa, desteğe sorun.
 
-### Ağları manuel olarak değiştirebilir miyim?
+### Ağları elle değiştirebilir miyim?
 
-Evet. Ayarlar'da manuel ağ seçimini kullanın. Bu, otomatik seçim zayıf bir operatör seçtiğinde kullanışlıdır.
+Evet. Ayarlar'da elle ağ seçimini kullanın. Bu, otomatik seçimin zayıf bir operatör seçtiği durumlarda faydalıdır.
 
 ### Yanlış ağı seçersem ne olur?
 
-eSIM'iniz Türk Telekom'a bağlanırsa ancak kırsal Kapadokya'daysanız, sinyal çubuklarınız olabilir ancak veri akışı olmayabilir. Manuel ağ seçimine geçin ve Turkcell'i deneyin.
+eSIM'iniz Türk Telekom'a bağlanıyorsa ama kırsal Kapadokya'daysanız, sinyal çubukları olabilir ama veri verimi olmayabilir. Elle ağ seçimine geçin ve Turkcell'i deneyin.
 
-### Türkiye eSIM aile gezisi için en iyi ağ hangisi?
+### Aile gezisi için en iyi ağ hangisidir?
 
-Sınırsız hotspotlu Turkcell veya Vodafone. Birincil gezginin telefonunda bir yüksek verili eSIM, Wi-Fi üzerinden diğer cihazlara paylaşılır. Roami ve Saily her ikisi de sınırsız hotspot'a izin verir.
+Kısıtlamasız hotspot'lu Turkcell veya Vodafone. Birincil gezginin telefonunda bir yüksek verili eSIM, diğer cihazlara Wi-Fi ile paylaşılır. Roami ve Saily ikisi de kısıtlamasız hotspot'a izin verir.
 
-### Türkiye eSIM iş gezisi için en iyi ağ hangisi?
+### İş seyahati için en iyi ağ hangisidir?
 
-Ülke çapında kapsama için Turkcell veya otomatik Turkcell ve Vodafone geçişi için Roami. İş gezginleri en ucuz plan yerine güvenilir kapsama ve tutarlı hıza ihtiyaç duyar.
+Ülke çapında kapsama için Turkcell veya Turkcell, Vodafone ve Türk Telekom arasında otomatik geçiş için Roami. İş gezginleri, en ucuz plandan daha çok güvenilir kapsama ve tutarlı hız ister.
 
 ## Son Kontrol Listesi: Türk Ağınızı Seçmek
 
-Ağ seçiminizi onaylamak, sağlayıcının ağ ortağını doğrulamak ve kalkıştan önce Türkiye eSIM'inizi hazırlamak için bu son kontrol listesini kullanın.
+Bu son kontrol listesini, ağ seçiminizi teyit etmek, sağlayıcının ağ ortağını doğrulamak ve yola çıkmadan önce Türkiye eSIM'inizi hazırlamak için kullanın.
 
-### Türkiye eSIM Ağı Seçmeden Önce
+### Ağ Seçmeden Önce
 
-- [ ] Destinasyonları belirleyin (kırsal vs kentsel, kıyı vs iç bölge)
-- [ ] Bir ağla eşleştirin (kırsal için Turkcell, kıyı için Vodafone, bütçe şehirleri için Türk Telekom)
-- [ ] Türk telefon numarasına ihtiyacınız olup olmadığına karar verin (evet ise, yerel SIM). [Numara kılavuzunu](/blog/turkey-esim-number-calls-sms-hotspot/) okuyun.
-- [ ] Veri ihtiyaçlarını tahmin edin (haftada 5 GB, 2 haftada 10–20 GB). [Maliyet analizini](/blog/cheapest-turkey-esim/) okuyun.
-- [ ] Güzergâhın 5G (çoğunlukla şehirler) veya 4G (ülke çapında) gerektirip gerektirmediğini kontrol edin
-- [ ] Telefonun eSIM'i desteklediğini ve operatör kilidinin açık olduğunu onaylayın. [Uyumluluk kontrollerini](/blog/turkey-esim-device-compatibility/) okuyun.
+- [ ] Varış noktalarını belirleyin (kırsal mı şehir mi, kıyı mı iç kesim mi)
+- [ ] Bir ağla eşleştirin (kırsal için Turkcell, kıyı için Vodafone, bütçe şehirler için Türk Telekom)
+- [ ] Türk telefon numarasına ihtiyacınız olup olmadığına karar verin (varsa yerel SIM). [Numara rehberini](/blog/turkey-esim-number-calls-sms-hotspot/) okuyun.
+- [ ] Veri ihtiyaçlarınızı tahmin edin (haftada 5 GB, 2 haftada 10–20 GB). [Maliyet analizini](/blog/cheapest-turkey-esim/) okuyun.
+- [ ] Programın 5G (çoğunlukla şehirler) mi 4G (ülke geneli) mi gerektirdiğini kontrol edin
+- [ ] Telefonun eSIM desteklediğini ve operatör kilidinin açık olduğunu teyit edin. [Uyumluluk kontrollerini](/blog/turkey-esim-device-compatibility/) okuyun.
 - [ ] Sağlayıcının ağ ortağı açıklamasını kontrol edin
 - [ ] Sağlayıcının BTK engel durumunu kontrol edin. [BTK engel durumunu](/blog/turkey-esim-ban-availability-rules/) okuyun.
 - [ ] Sağlayıcının destek kanalı erişilebilirliğini kontrol edin. [Arıza modu karşılaştırmasını](/blog/best-turkey-esim-providers/) okuyun.
 
-### Türkiye eSIM ile Uçmadan Önce
+### Uçmadan Önce
 
-- [ ] Travel eSIM'i Wi-Fi üzerinden satın alın ve kurun. [Çevrimiçi satın alma kılavuzunu](/blog/buy-turkey-esim-online/) okuyun.
-- [ ] Hattı "Turkey" olarak etiketleyin
+- [ ] Seyahat eSIM'i Wi-Fi'da satın alın ve kurun. [Çevrim içi satın alma rehberini](/blog/buy-turkey-esim-online/) okuyun.
+- [ ] Hattı "Türkiye" olarak etiketleyin
 - [ ] eSIM'i Mobil Veri için ayarlayın
 - [ ] Ev SIM'ini Ses ve SMS için ayarlayın
 - [ ] İnişe kadar veri dolaşımını KAPALI tutun
-- [ ] Destinasyonlar için çevrimdışı haritaları indirin
-- [ ] QR kodu e-postasını çevrimdışı kaydedin
+- [ ] Varış noktaları için çevrimdışı haritaları indirin
+- [ ] QR kod e-postasını çevrimdışı kaydedin
 - [ ] Sipariş onayından APN değerini kaydedin
 
-### Türkiye eSIM ile İnişten Sonra
+### İnişten Sonra
 
 - [ ] Türkiye eSIM için Veri Dolaşımını etkinleştirin
 - [ ] Ağ kaydı için 2–5 dakika bekleyin
 - [ ] Operatör adının Turkcell, Vodafone TR veya Türk Telekom gösterdiğini doğrulayın
-- [ ] Harita veya tarayıcıyla veriyi test edin
-- [ ] Ev SIM'inde SMS'in çalıştığını onaylayın
-- [ ] Veri yoksa: APN'yi kontrol edin, telefonu yeniden başlatın, manuel ağ seçimini deneyin
-- [ ] Kapsama zayıfsa: operatör değiştirmek için manuel ağ seçimini deneyin
+- [ ] Veriyi bir harita veya tarayıcıyla test edin
+- [ ] Ev SIM'inizde SMS'in çalıştığını teyit edin
+- [ ] Veri yoksa: APN'i kontrol edin, telefonu yeniden başlatın, elle ağ seçimini deneyin
+- [ ] Kapsama zayıfsa: operatör değiştirmek için elle ağ seçimini deneyin
 
-Yalnızca bir şehirde veriye ihtiyacınız varsa, üç ağdan herhangi biri çalışır — fazla düşünmenize gerek yok. Kırsal güzergâhlar ve kıyıdan Kapadokya'ya geziler için, [Roami'nin ağ eSIM'i](/turkey-esim/) Turkcell ve Vodafone arasında otomatik geçiş yapar, yeni kullanıcılar için %20 indirimle $1.99'dan başlar. Şüphe duyduğunuzda, [ana kılavuzla](/blog/turkey-esim-ultimate-guide/) başlayın.
+Yalnızca bir şehirde veriye ihtiyacınız varsa, üç ağdan herhangi biri çalışır — bunun üzerinde çok düşünmenize gerek yok. Kırsal rotalar ve kıyıdan Kapadokya'ya geziler için [Roami'nin ağ eSIM'i](/turkey-esim/), %20 indirim için web20 koduyla 2,99 $'dan başlayarak Turkcell, Vodafone ve Türk Telekom arasında otomatik geçiş yapar. Şüphedeyseniz, [ana rehberle](/blog/turkey-esim-ultimate-guide/) başlayın.
 
-## Sonuç
+## Sonuç: Turkcell, Vodafone veya Türk Telekom
 
-- Tek şehirli bir gezi için en ucuz ağı seçin ve orada durun — farklar marjinaldir.
-- Kırsal Türkiye ve Kapadokya için Turkcell'i, tatil köyleri ve İstanbul için Vodafone'u seçin ve bütçe şehir gezileri için Türk Telekom tolere edilebilir.
-- Turkcell ve Vodafone arasında otomatik geçiş yapan bir sağlayıcı, tahminlerin çoğunu ortadan kaldırır.
-- İniş yaptığınızda, otomatik seçim başarısız olursa eSIM'inizi manuel ağ seçimiyle test edin.
+- Tek şehir gezisi için, en ucuz ağı seçin ve orada durun — farklar marjinaldir.
+- Kırsal Türkiye ve Kapadokya için Turkcell, tatil beldeleri ve İstanbul için Vodafone, bütçe şehir gezileri için Türk Telekom tolere edilebilir.
+- Turkcell, Vodafone ve Türk Telekom arasında otomatik geçiş yapan bir sağlayıcı, tahmin etmenin çoğunu ortadan kaldırır.
+- İniş yaptığınızda, otomatik seçim başarısız olursa eSIM'inizi elle ağ seçimiyle test edin.

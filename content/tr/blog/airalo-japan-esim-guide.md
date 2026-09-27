@@ -1,53 +1,53 @@
 ---
-title: "Japonya eSIM Rehberi: Airalo vs Holafly Karşılaştırması"
-description: "Japonya'da her yerde tam bar 5G var, bu yüzden asıl soru Haritalar ve Çeviri için veri. Airalo, Holafly ve Roami'yi karşılaştırın - pocket WiFi'yi atlayın."
-keywords: ["Japonya eSIM fiyat rehberi", "holafly esim japonya", "japonya esim vs pocket wifi", "Japonya seyahati için en ucuz eSIM", "japonya esim google translate maps", "airalo japonya esim yorum", "Japonya eSIM promosyon kodu"]
-date: 2026-09-03T00:00:00Z
-lastmod: 2026-09-03T00:00:00Z
-author: "Roami Ekibi"
-authorBio: "Roami, yılda 1 milyondan fazla gezgine hizmet veren güvenilir eSIM planları sunar ve gezginlerin dünya çapında bağlantıda kalmasına yardımcı olmak için otomatik yerel ağ geçişini destekler."
+title: "Japonya eSIM Rehberi: Airalo ve Holafly Karşılaştırma"
+description: "Japonya'da 5G tam çubuklu, gerçek soru Haritalar ve Çeviri için veridir. Airalo, Holafly ve Roami'yi karşılaştırın - cepte WiFi'yi atlayın."
+keywords: ["airalo japan esim", "Japonya eSIM fiyat rehberi", "holafly esim for japan", "japonya esim ve cepte wifi", "Japonya seyahati için en ucuz eSIM", "japonya esim google translate maps", "airalo japan esim incelemesi", "Japonya eSIM promosyon kodu", "airalo vs holafly japonya"]
+date:  2026-09-27T00:00:00Z
+lastmod:  2026-09-27T00:00:00Z
+author: "Roami Team"
+authorBio: "Roami, yılda 1 milyondan fazla gezgine hizmet veren güvenilir eSIM planları sunar ve gezginlerin dünya genelinde bağlantıda kalmasına yardımcı olmak için otomatik yerel şebeke geçişini destekler."
 image: "/img/esim/japan/best-japan-esim-guide.jpg"
 categories: ["eSIM", "Seyahat", "Japonya"]
-tags: ["Japonya eSIM", "Pocket WiFi", "Google Çeviri"]
-readingTime: 5
+tags: ["Japonya eSIM", "Cepte WiFi", "Google Çeviri"]
+readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Japonya'nın Her Yerdeki 5G'si eSIM'i Daha Ucuz ve Hafif Bir Seçenek Haline Getiriyor"
+h1title: "Japonya'nın Tam Çubuklu 5G'si, eSIM'i Daha Ucuz ve Daha Hafif Seçim Yapıyor"
 
 productsTitle: "Popüler eSIM Planları"
-hotPostsTitle: "Popüler Makaleler"
-recentPostsTitle: "Son Makaleler"
+hotPostsTitle: "Popüler Yazılar"
+recentPostsTitle: "Son Yazılar"
 
 products:
   - name: "Japonya eSIM"
     flag: "/img/flags/jp.svg"
-    price: "$1.99'dan itibaren"
+    price: "1,99 $'dan itibaren"
     is_highlight: true
     slug: "japan"
   - name: "Güney Kore eSIM"
     flag: "/img/flags/kr.svg"
-    price: "$1.99'dan itibaren"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "south-korea"
   - name: "Tayvan eSIM"
     flag: "/img/flags/tw.svg"
-    price: "$1.99'dan itibaren"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "taiwan"
   - name: "Hong Kong eSIM"
     flag: "/img/flags/hk.svg"
-    price: "$1.99'dan itibaren"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "hong-kong"
   - name: "Tayland eSIM"
     flag: "/img/flags/th.svg"
-    price: "$1.99'dan itibaren"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "thailand"
   - name: "Singapur eSIM"
     flag: "/img/flags/sg.svg"
-    price: "$1.99'dan itibaren"
+    price: "1,99 $'dan itibaren"
     is_highlight: false
     slug: "singapore"
 
@@ -55,499 +55,475 @@ recentPosts:
   - title: "eSIM Uyumlu Cihazlar Listesi"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Çapraz Platform eSIM Transferi"
+  - title: "2026 Platformlar Arası eSIM Aktarımı"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "iPhone SE eSIM Uyumluluk Rehberi"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Kurulum Rehberi"
+  - title: "iPhone 11 eSIM Eksiksiz Kurulum Rehberi"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
 
-## 2026 Japonya eSIM Rehberi
+## Japonya eSIM Rehberi 2026
 
-Japonya'ya bir seyahat planlıyor musunuz—Tokyo'da Shibuya ve Senso-ji, Kyoto'da Fushimi Inari'nin bin torii kapısı, Osaka'da Dotonbori, Nara'da geyikler veya Kawaguchi Gölü'nden Fuji Dağı? Muhtemelen "eski kafalı" tavsiyeyi duymuşsunuzdur: **bir pocket WiFi kiralayın**. Ama şarj gerektiren, havalimanında teslim alıp iade etme derdi olan ve sık sık pili biten o küçük kutu çoktan bir [Japonya eSIM](/japan-esim/) ile değiştirilmiş olmalıydı.
+Japonya'ya bir seyahat planlıyorsunuz — Tokyo'da Shibuya ve Sensō-ji, Kyoto'da Fushimi Inari'nin bin kırmızı torii kapısı, Osaka'da Dotonbori, Nara'nın geyikleri ya da Kawaguchi Gölü'nden Fuji Dağı? Muhtemelen "eski usul" tavsiyeyi duymuşsunuzdur: **cep WiFi kiralayın**. Ama ekstra şarj, havalimanı teslim/iade gerektiren ve sık sık şarjı biten o küçük kutu çoktan bir [Japonya eSIM](/japan-esim/) tarafından yerini bırakmış olmalıydı.
 
-Japonya çoğu ülkeden farklıdır çünkü sinyali **inanılmaz derecede iyidir**—metro tünelleri, Shinkansen vagonları, hatta Fuji Dağı'nın eteğindeki Hakone—neredeyse her yerde tam bar 5G vardır. Yani Japonya'da endişeniz **"sinyal alacak mıyım?" değil, "anlamadığım menüleri nasıl okurum, okuyamadığım aktarmalarda nasıl gezerim ve Japonca nasıl yol sorarım?"** olmalıdır. Bu üç şeyin hepsi Google Çeviri'ye (kamerayı menüye doğrultun ve anında çevirir) ve Google Haritalar'a dayanır—ve bu iki uygulama gerçek veri canavarlarıdır.
+Japonya, çoğu ülkeden farklıdır çünkü sinyali **saçma derecede iyidir** — metro tünelleri, shinkansen vagonları, hatta Fuji Dağı'nın eteğindeki Hakone — neredeyse her yerde tam çubuklu 5G vardır. Bu yüzden Japonya'da endişeniz **"sinyalim olur mu?" değil, "anlayamadığım menüleri nasıl okurum, okuyamadığım aktarmalarda nasıl yön bulurum ve Japonca yol sorarım?"** olur. Bu üç şey Google Çeviri'ye (kamerayı menüye doğrultun, anında çevirir) ve Google Maps'e dayanır — ve bu iki uygulama asıl veri yiyicilerdir.
 
-Bu makale bu temel fark etrafında şekilleniyor: Japonya'nın dört büyük operatöründen (Docomo / au / SoftBank / Rakuten) hangisi en kararlı? eSIM vs pocket WiFi ne kadar ucuz ve pocket WiFi'yi bırakmalı mısınız? Airalo, Holafly ve Roami arasında en iyi değer hangisi? Ve—Japonya yerel SIM'leri pasaport kaydı gerektirir—seyahat eSIM'i tüm bu zahmetten sizi nasıl kurtarır?
+Bu makale o temel farka odaklanıyor: Japonya'nın dört büyük operatöründen (Docomo / au / SoftBank / Rakuten) hangisi en istikrarlı? eSIM vs cep WiFi ne kadar daha ucuz ve cep WiFi'den vazgeçmeli misiniz? Airalo, Holafly ve Roami arasında en iyi değer hangisinde? Bir de — Japonya yerel SIM'leri pasaport kaydı gerektiriyor — seyahat eSIM'i bütün bu zahmetten sizi nasıl kurtarıyor?
 
 > **⏱️ 30 saniyelik özet: Japonya eSIM'inizi nasıl seçersiniz?**
 >
-> - **Anahtar nokta**: Japonya'da her yerde tam bar sinyal var (metro/Shinkansen'de 5G var), bu yüzden asıl göreviniz **Google Çeviri + Google Haritalar'ı yeterli veriyle beslemek** (aşağıdaki pocket WiFi bölümüne bakın).
-> - **Pocket WiFi kiralamayın**: Pocket WiFi günde ~$3.5-7 artı depozito ve teslim alıp iade etme derdi—7 gün için en az $25; **Roami eSIM 7 gün 10GB sadece $7.99**—%70 tasarruf ve fazladan cihaz yok (pocket WiFi bölümüne bakın).
-> - **Değer şampiyonu**: Roami'nin indirimli fiyatı genel olarak en düşük—7 gün 10GB için $7.99, Airalo'nun muadilinden (%17.00) %53 ve Holafly'nin sınırsızından (%27.30) %71 daha ucuz.
-> - **Japonya'ya özel bir detay**: Roami'nin 7 günlük kademesinde **20GB ($13.59) ve sınırsız ($15.19) arasında sadece $1.60 fark var**—yoğun kullanıcılar sadece $1.60 ekstra karşılığında sınırsıza geçebilir. Ancak 30 günlük sınırsız ($57.59), 50GB'ın ($30.39) neredeyse iki katı—uzun konaklamalar için sınırsızdan kaçının (değer bölümüne bakın).
-> - **Sonuç**: Tokyo/Kansai 3-5 gün için Roami 3-10GB alın; Shinkansen çok şehirli 10-15 gün için 20-30GB alın; uzun konaklamalar için 50GB alın; yalnızca yoğun video izliyorsanız 7 günlük sınırsızı tercih edin.
+> - **Kilit nokta**: sinyal asla sorun değildir — metro tünelleri ve shinkansen vagonları tam çubuklu 5G ile çalışır. Gerçek göreviniz **Google Çeviri + Google Maps'i beslemektir**; veri oraya gider.
+> - **Cep WiFi'yi atlayın**: ~3,5-7 $/gün artı depozito ve havalimanı teslim/iade, bir hafta için 25 $+ eder; Roami 7 günlük 10GB eSIM 7,99 $'dır ve şarj edilecek ya da iade edilecek ekstra cihaz yoktur.
+> - **Değer şampiyonu**: Roami'nin indirimli hattı her bantta en düşüktür — 7 günlük 10GB **7,99 $**, Airalo'nun eşdeğerinden (17,00 $) yaklaşık %53, Holafly'nin sınırsızından (27,50 $) %71 daha ucuz.
+> - **Bant matematiğine dikkat**: 7 günlük planlarda 20GB (13,59 $) ile sınırsız (15,19 $) arasında yalnızca 1,60 $ fark vardır, bu yüzden yoğun kullanıcılar ucuza sınırsıza geçebilir — ama 30 günlük planlarda sınırsız (57,59 $), 50GB'ın (30,39 $) neredeyse iki katıdır, bu yüzden uzun konaklamalar sabitte kalmalıdır.
+> - **Özet**: Tokyo ya da Kansai'de 3–5 gün 3–10GB ister; 10–15 günlük bir shinkansen turu 20–30GB ister; daha uzun konaklamalar 50GB'ya oturur.
 
-> **⚡ Hızlı Karar Bölgesi: Seyahat Türünüze Göre Sonuçlar**
+> **⚡ Hızlı Karar Alanı: Seyahat Türünüz Neyi İşaret Ediyor**
 >
-> - **Tokyo şehir gezisi (3-5 gün)** → Roami 3-5GB, metroda bile 5G, $1.59'dan itibaren (3 günlük planlar / senaryo önerilerine bakın)
-> - **Kyoto / Osaka / Nara Kansai gezisi (5-7 gün)** → Roami 10GB, menüler ve tabelalar için Google Çeviri kamerası en büyük veri tüketicisidir (7 günlük planlar / senaryo önerilerine bakın)
-> - **Tokyo → Kyoto Shinkansen çok şehirli (7-10 gün)** → Roami 10-20GB, Shinkansen vagonlarında her yerde tam bar 5G (7 günlük planlar / pocket WiFi bölümüne bakın)
-> - **Fuji Dağı / Hakone / Kawaguchi Gölü (3-5 gün)** → Roami 5-10GB, Docomo Fuji Beş Gölü çevresinde en iyi kapsamaya sahiptir (operatör analizi / senaryo önerilerine bakın)
-> - **Aile gezisi (5-10 gün)** → Roami 10-20GB + sınırsız hotspot, tek bir eSIM'i tüm aileyle paylaşın (7 günlük planlar / senaryo önerilerine bakın)
-> - **Hiç veri endişesi yok** → Roami 7 gün sınırsız (indirimli $15.19), pocket WiFi'den daha ucuz (7 günlük planlar / pocket WiFi bölümüne bakın)
-> - **En sıkı bütçe** → Roami 1GB/7 gün indirimli $1.59, genel olarak en düşük fiyat (3 günlük planlara bakın)
+> - **Tokyo şehir gezisi (3-5 gün)** → Roami 3-5GB, metronun içinde bile 5G, 1,59 $'dan itibaren
+> - **Kyoto / Osaka / Nara Kansai gezisi (5-7 gün)** → Roami 10GB; menülere ve tabelalara çevrilen Google Çeviri kamerası en büyük veri çeken şeydir
+> - **Tokyo → Kyoto shinkansen çok şehirli (7-10 gün)** → Roami 10-20GB, tüm yol boyunca tam çubuklu 5G
+> - **Fuji Dağı / Hakone / Kawaguchi Gölü (3-5 gün)** → Roami 5-10GB; Docomo, Fuji Beş Gölü çevresinde en iyi kapsamaya sahiptir
+> - **Aile gezisi (5-10 gün)** → Roami 10-20GB hotspot paylaşımıyla, tüm grup için tek eSIM
+> - **En katı bütçe** → Roami 1GB/7 gün indirimli 1,59 $
 
-## Japonya eSIM Pazarı Güncellemeleri
+## Japonya eSIM Piyasa Güncellemeleri
 
-> **2026 Japonya eSIM Pazarı Güncellemeleri**
+> **2026 Japonya eSIM Piyasa Güncellemeleri**
 >
-> - **5G kapsaması dünyanın en iyileri arasında**: [Opensignal](https://www.opensignal.com/) 2026 verilerine göre, Japonya'nın dört büyük operatörünün 5G nüfus kapsaması genel olarak %95'in üzerinde, metro tünellerinde ve Shinkansen vagonlarında sinyal tekrarlayıcılar var—Asya'da en üst seviye.
-> - **Pocket WiFi bir "atalet seçeneği" olmaya devam ediyor**: Japonya küresel olarak en güçlü pocket WiFi kiralama kültürüne sahip, havalimanı kontuarlarında sürekli kuyruklar olsa da, günlük ücretler (~$3.5-7/gün) + depozitolar + cihaz ağırlığı eSIM tarafından tamamen geride bırakılıyor.
-> - **Yerel SIM'ler pasaport kaydı gerektirir**: [MIC (İçişleri ve İletişim Bakanlığı)](https://www.soumu.go.jp/)'na göre, yerel bir Japon SIM'i (turist veri kartları dahil) satın almak, satın alma sırasında pasaport kaydı gerektirir—havalimanı/elektronik mağaza prosedürleri zahmetlidir.
-> - **Google Çeviri "olmazsa olmaz bir veri kara deliğidir"**: Japonya'da İngilizce yeterliliği düşüktür, menüler ve tabelalar neredeyse tamamen Japoncadır. Turistler, Google Çeviri'nin kamera gerçek zamanlı çevirisine ve Google Haritalar'ın karmaşık aktarmalar için kullanımına büyük ölçüde güvenir—bunlar seyahat sırasındaki en büyük veri tüketicileridir.
+> - **5G kapsaması dünyanın en iyilerinden**: [Ookla'nın Japonya pazar verilerine](https://www.speedtest.net/global-index/japan) ve operatör raporlarına göre Japonya'nın dört büyük operatörünün 5G nüfus kapsaması genellikle %95 üzerindedir; metro tünellerinde ve shinkansen vagonlarında sinyal tekrarlayıcıları vardır — Asya'nın zirvesi.
+> - **Cep WiFi bir "atalet tercihi" olmaya devam ediyor**: Japonya, küresel olarak en güçlü cep WiFi kiralama kültürüne sahiptir; havalimanı gişelerinde sürekli kuyruk vardır, ancak günlük ücretler (~3,5-7 $/gün) + depozito + cihaz ağırlığı, eSIM tarafından iyice geride bırakılıyor.
+> - **Yerel SIM'ler pasaport kaydı gerektiriyor**: [MIC'e (İçişleri ve Haberleşme Bakanlığı)](https://www.soumu.go.jp/english/) göre, yerel bir Japon SIM (turist veri kartları dahil) satın almak, satın alma sırasında pasaport kaydı gerektirir — havalimanı/elektronik mağaza prosedürleri zahmetlidir.
+> - **Google Çeviri "olmazsa olmaz veri kara deliği"dir**: Japonya'da İngilizce yeterliliği düşüktür, menüler ve tabelalar neredeyse tamamen Japoncadır. Turistler, karmaşık aktarmalar için Google Çeviri'nin kamera gerçek zamanlı çevirisine + Google Maps'e ağır biçimde yaslanır — bunlar seyahat sırasında en büyük veri tüketicileridir.
 >
-> *Eylül 2026 itibarıyla kamu verilerine dayanmaktadır.*
+> *Eylül 2026 itibarıyla kamuya açık kaynaklardan derlenmiştir.*
 
-Japonya pazarı benzersizdir çünkü "sinyal endişesini" "veri endişesi" ile değiştirir. Bu üç şey nasıl satın almanız gerektiğini belirler:
+Japonya'nın pazarı eşsizdir çünkü "sinyal kaygısını" "veri kaygısıyla" değiştirir. Bu üç şey, nasıl satın alacağınızı belirler:
 
-**1. Sinyal konusunda endişelenmeyin—veri için bütçe ayırın.** Japonya'da metro tünellerinde 4K video izleyebilir ve Shinkansen vagonlarında video konferans yapabilirsiniz—sinyal asla sorun değildir. Asıl sorun şudur: günde üç öğün yemek yersiniz, her biri menüyü taramak için Google Çeviri gerektirir ve karmaşık aktarmalarda gezinmek için Google Haritalar'a ihtiyacınız vardır—**bunlar verinizi tüketen şeylerdir.** "İnternet var mı?" diye endişelenmek yerine, "kaç GB'a ihtiyacım var?" diye hesaplayın.
+**1. Sinyal için endişelenmeyin — veriye bütçe ayırın.** Japonya'da metro tünellerinde 4K video izleyebilir ve shinkansen vagonlarında video konferans yapabilirsiniz — sinyal asla sorun değildir. Asıl sorun şudur: günde üç öğün yiyorsunuz, her biri menüyü taramak için Google Çeviri gerektiriyor ve labirent gibi aktarmalarda yön bulmak için Google Maps'e ihtiyacınız var — **verinizi yiyen bunlardır.** "İnternet var mı" diye endişelenmek yerine "kaç GB gerekli"yi hesaplayın.
 
-**2. Pocket WiFi emekli olmalı.** Pocket WiFi günlük şarj gerektirir, havalimanında teslim alma/iade için kuyruklar, depozito iadeleri ve birden fazla kişi arasında paylaşıldığında pili kolayca biter ve bağlantı kesilir. Bir [Japonya veri eSIM'i](/japan-esim/) doğrudan telefonunuza kurulur—fazladan cihaz yok, şarj yok, iade yok ve fiyatı pocket WiFi'nin yalnızca üçte biri ile yarısı arasındadır.
+**2. Cep WiFi emekli olmalı.** Cep WiFi günlük şarj, havalimanı kuyruklarında teslim/iade, depozito iadesi ister ve birden fazla kişi arasında paylaşıldığında kolayca şarjı biter ve bağlantı kesilir. Bir eSIM doğrudan telefonunuza kurulur — ekstra cihaz yok, şarj yok, iade yok ve fiyat cep WiFi'nin yalnızca üçte biri ile yarısı arasındadır.
 
-**3. Yerel SIM'ler pasaport gerektirir—zahmetlidir.** Japonya'nın "turist veri kartları" (B-Mobile, IIJmio, vb.) satın alırken pasaport kaydı gerektirir ve havalimanı kontuarları ile elektronik mağazalarında (Bic Camera, Yodobashi) kuyruklar vardır. 3-5 günlük turistler için, kalkıştan önce kurulan ve inişte etkinleştirilen bir [Japonya eSIM](/japan-esim/) hemen çalışır—tüm süreci atlar.
+**3. Yerel SIM'ler pasaport ister — zahmetli.** Japonya'nın "turist veri kartları" (B-Mobile, IIJmio vb.) satın alım sırasında pasaport kaydı gerektirir ve havalimanı gişeleri ile elektronik mağazalarda (Bic Camera, Yodobashi) kuyruk vardır. 3-5 günlük turistler için, yola çıkmadan önce kurulan ve inişle etkinleşen bir [Japonya eSIM](/japan-esim/) anında çalışır — tüm süreci atlar.
 
-## Japonya'nın Dört Büyük Operatörü: Derinlemesine Analiz
+## Japonya'nın Dört Büyük Mobil Operatörü: eSIM'inizi Hangisi Taşıyor?
 
-> Japonya pazarı "Üç Büyük + yeni bir fiyat savaşçısı"dır: NTT Docomo, KDDI (au) ve SoftBank pazarı bölerken, Rakuten Mobile ucuz sınırsız veri sunan yeni bir oyuncudur. Seyahat eSIM'leri genellikle otomatik veya manuel olarak Docomo, au (KDDI) veya SoftBank'a bağlanır; bazıları Rakuten'i kullanır.
+> Japonya "üç büyük artı bir rakip" yapısıyla çalışır: NTT Docomo, KDDI (au) ve SoftBank pazarı paylaşırken, Rakuten Mobile indirimli sınırsız veriyi zorlar. Bir seyahat eSIM'i Docomo, au ya da SoftBank'a tutunur, ara sıra Rakuten'e.
 
-### Japonya'nın Dört Ağı Rakamlarla
+### Japonya'nın Dört Şebekesi Rakamlarla
 
-| Metrik | NTT Docomo | KDDI (au) | SoftBank | Rakuten Mobile |
+| Ölçüt | NTT Docomo | KDDI (au) | SoftBank | Rakuten Mobile |
 |------|-----------|-----------|----------|----------------|
-| Abone | ~44 milyon | ~28 milyon | ~24 milyon | ~7 milyon |
-| Pazar Payı | ~%37 | ~%24 | ~%21 | ~%6 |
+| Abone sayısı | ~44 milyon | ~28 milyon | ~24 milyon | ~7 milyon |
+| Pazar payı | ~%37 | ~%24 | ~%21 | ~%6 |
 | 5G Nüfus Kapsaması | **%95+** | %95+ | %95+ | %60+ |
 | Ortalama Hız | **En hızlı** | Hızlı | Hızlı | Orta |
-| En İyi Olduğu Alan | Ülke çapı + Fuji bölgesi | Şehirler + Kansai | Dengeli + değer | Bütçe bilinci |
+| En Uygun Olduğu Alan | Ülke geneli + Fuji bölgesi | Şehirler + Kansai | Dengeli + değer | Bütçe bilinçli |
 
-*Kaynaklar: [MIC](https://www.soumu.go.jp/) / [Opensignal](https://www.opensignal.com/), Eylül 2026 itibarıyla.*
+*Kaynaklar: MIC / Ookla Speedtest Global Index, Eylül 2026 itibarıyla.*
 
-### Dört Operatör, Tek Tek
+### Dört Operatör Tek Tek
 
-- **NTT Docomo — "Kapsama Kralı"**: Japonya'nın en büyük operatörü, en geniş kapsama, en hızlı 5G—Fuji Dağı eteğinde, Hakone'de ve uzak turistik yerlerde en kararlı. Docomo'ya öncelik veren bir seyahat eSIM'i artıdır. **⚠️ Zayıf yön**: Kendi planları pahalıdır; tek ağ, çok derin yeraltı noktalarında zayıf olabilir.
+- **NTT Docomo — "Kapsama Kralı"**: Japonya'nın en büyük operatörü, en geniş kapsama, en hızlı 5G — Fuji Dağı eteğinde, Hakone'de ve uzak turistik noktalarda en istikrarlısı. Docomo'ya öncelik veren bir seyahat eSIM'i artıdır. **⚠️ Zayıf yön**: Kendi planları pahalıdır; tek şebeke, son derece derin yeraltı noktalarında zayıf kalabilir.
 
-- **KDDI (au) — "Kansai Güçlüsü"**: Abone sayısında ikinci, şehirlerde ve Kansai'de (Osaka, Kyoto) güçlü, hızları Docomo ile karşılaştırılabilir. **⚠️ Zayıf yön**: Kırsal kapsama Docomo'ya göre biraz daha düşüktür.
+- **KDDI (au) — "Kansai Güçlü"**: Abone sayısında ikinci, şehirlerde ve Kansai'de (Osaka, Kyoto) güçlü, Docomo ile karşılaştırılabilir hızlar. **⚠️ Zayıf yön**: Kırsal kapsam Docomo'nun biraz gerisindedir.
 
-- **SoftBank — "Dengeli + Değer"**: Hem şehirlerde hem kırsalda iyi, hızlı 5G yayılımı, geniş uluslararası dolaşım deneyimi—birçok seyahat eSIM'i bunu kullanır. **⚠️ Zayıf yön**: Her kategoride "ikinci sırada", öne çıkan bir özelliği yok.
+- **SoftBank — "Dengeli + Değer"**: Hem şehirlerde hem kırsalda saygın, hızlı 5G yaygınlaştırması, geniş uluslararası dolaşım deneyimi — birçok seyahat eSIM'i onu kullanır. **⚠️ Zayıf yön**: Her kategoride "ikinci", öne çıkan bir özelliği yok.
 
-- **Rakuten Mobile — "Fiyat Savaşçısı"**: Ucuz sınırsız veriye odaklanır, au'nun ağını + kendi baz istasyonlarını kullanır—bütçe dostu. **⚠️ Zayıf yön**: Kendi ağ kapsaması eksiktir; uzak bölgeler dolaşıma güvenir, seyahat eSIM'leri tarafından nadiren kullanılır.
+- **Rakuten Mobile — "Fiyat Savaşçısı"**: Ucuz sınırsız veriye odaklanır, au'nun şebekesi + kendi baz istasyonlarını kullanır — bütçe dostu. **⚠️ Zayıf yön**: Kendi inşa ettiği şebeke kapsaması eksiktir; uzak bölgeler dolaşıma dayanır, seyahat eSIM'leri nadiren kullanır.
 
 ### Japonya'nın Büyük Şehirlerinde Kapsama Verileri
 
-| Destinasyon | Kapsama Kalitesi | Hız | En İyi Ağ |
+| Destinasyon | Kapsama Kalitesi | Hız | En İyi Şebeke |
 |--------|---------|------|---------|
 | Tokyo (Shibuya / Asakusa) | Mükemmel | 5G, 150-800 Mbps | Docomo / SoftBank |
 | Kyoto / Osaka | Mükemmel | 5G, 100-500 Mbps | au / Docomo |
-| Tokyo Metrosu (tüneller) | Mükemmel | 4G/5G tam bar | Docomo |
-| Shinkansen (vagonlar) | Mükemmel | 4G/5G kararlı | Docomo / au |
+| Tokyo Metrosu (tüneller) | Mükemmel | 4G/5G tam çubuk | Docomo |
+| Shinkansen (vagonlar) | Mükemmel | 4G/5G istikrarlı | Docomo / au |
 | Fuji Dağı / Hakone / Kawaguchi Gölü | İyi | 4G/5G, 50-200 Mbps | **Docomo** |
 | Hokkaido (Sapporo / Otaru) | Mükemmel | 5G, 80-300 Mbps | Docomo / au |
 
 > **Önemli Tavsiye**
 >
-> Japonya'da sinyal genellikle mükemmeldir. **Bir eSIM seçmenin özü "kapsama" değil, "çoklu ağ otomatik geçişi + veri değeridir."** Çoklu ağ geçişine sahip bir eSIM (Roami gibi), konumunuza göre Docomo / au / SoftBank arasından en hızlı ağı otomatik olarak seçer—Shibuya yoğun saatlerinde SoftBank'a, Fuji Dağı eteğinde Docomo'ya geçer—sizi her yerde tam bar tutar. Daha da önemlisi, paranızı **veriye** harcamanızı sağlar, **cebinizde şarj gerektiren bir cihaza** değil. [Çoklu ağ geçişli Japonya eSIM'ini görüntüle →](/japan-esim/)
+> Japonya'da kapsam neredeyse verilidir, bu yüzden **gerçek karar "çok şebeke geçişi artı veri değeri"dir, "hangi operatör" değil.** Docomo, au ve SoftBank arasında atlayan bir eSIM — Roami yaptığı gibi — fark etmeden sizi kalabalık bir Shibuya kavşağından Fuji Beş Gölü'ne taşır ve **şarj edilmesi gereken çantadaki bir cihaza** değil, **veriye** harcamanıza izin verir.
 
-## Japonya eSIM Markaları: Yan Yana
+## Japonya eSIM Markaları Karşılaştırması: Airalo vs Holafly vs Roami
 
-> ⚠️ **Japonya İçin Kritik Hatırlatma**: Her üç marka da **yalnızca veri eSIM'leri sunar, Japon telefon numarası yoktur**. Araç çağırma (Uber / DiDi) ve yemek teslimatı çoğunlukla uygulama içi mesajlaşma kullanır—yerel numara gerekmez. Bir Japon numarasına ihtiyacınız varsa (restoran rezervasyonları için geri aramalar, uygulama doğrulaması), bir VoIP çözümü ile birleştirin. Gerçekten önemli olan, **Google Çeviri ve Haritalar'ı besleyecek yeterli veridir.**
+> ⚠️ **Önce bilinmesi gereken Japonya'ya özgü şey**: üç marka da **yalnızca veridir, Japon telefon numarası yoktur**. Uber ve DiDi çoğunlukla işi uygulama içinde halleder, bu yüzden numara nadiren şarttır; restoran geri araması ya da bir uygulama kontrolü için gerçekten numara gerekirse, eSIM'i bir VoIP hattıyla eşleştirin — [Airalo ABD eSIM rehberimizde](/blog/airalo-usa-esim-guide/) ele aldığımız aynı çözüm. Asıl önemli olan **Google Çeviri ve Maps'i beslemeye yetecek kadar veridir.**
 
 ### Markalar Yan Yana
 
-| Marka | Trustpilot Puanı | Temel Konumlandırma | Ağ Erişimi | 5G | Hotspot | Japon Numarası |
+| Marka | Trustpilot Puanı | Temel Konumlanma | Şebeke Erişimi | 5G | Hotspot | Japon Numarası |
 |------|----------------|---------|---------|-----|------|-----------|
-| **Airalo** | 4.2 | Dünyanın en büyük platformu, en ayrıntılı kademeler | Docomo / SoftBank | Bazı | Desteklenir | ❌ |
-| **Holafly** | 4.3 | Saf sınırsız veri | Docomo | Desteklenir | 1GB günlük sınır | ❌ |
-| **Roami** | 4.9 | Çoklu ağ otomatik geçişi, en iyi değer | Docomo / au / SoftBank | Tam | Sınırsız | ❌ |
+| **Airalo** | 3,9 | Dünyanın en büyük platformu, en ince ayrıntılı bantlar | SoftBank / KDDI (au) | Bazıları | Destekli | ❌ |
+| **Holafly** | 4,6 | Saf sınırsız veri | KDDI (au) / SoftBank | Destekli | Günlük 1GB sınırı | ❌ |
+| **Roami** | 4,9 | Çok şebeke otomatik geçiş, en iyi değer | Docomo / au / SoftBank | Tam | Sınırsız | ❌ |
 
 > **Hızlı Marka Farkları**
 >
-> - **Airalo Japonya eSIM**: Dünyanın en büyük platformu, en ayrıntılı sabit veri kademeleri artı sınırsız seçenekler, Docomo / SoftBank'a bağlanır. Şeffaf fiyatlandırma, hotspot desteği, **Japon numarası yok**. Orta bütçeyle "sınırsız" isteyenler için iyidir.
-> - **Holafly Japonya eSIM**: Günde $3.90 fiyatla saf sınırsız veri sunan tek marka, Docomo 5G'ye bağlanır. GB sınırı yok, ancak **hotspot günde 1GB ile sınırlıdır**, uzun vadeli maliyeti yüksek, **Japon numarası yok**. Maliyetten çekinmeyen yoğun kullanıcılar için uygundur.
-> - **Roami Japonya eSIM**: Çoklu ağ otomatik geçişi (Docomo / au / SoftBank), tam 5G, sınırsız hotspot, genel olarak en düşük fiyat, **Japon numarası yok**. **Japonya'ya özel detay: 7 günlük kademede 20GB ve sınırsız arasında sadece $1.60 fark var**—yoğun kullanıcılar küçük bir ekstra maliyetle sınırsıza geçebilir, pocket WiFi kiralamaktan çok daha ucuz. İndirim kodu **WEB20** ile %20 indirim kazanın. [Roami Japonya eSIM planlarını görüntüle →](/japan-esim/)
+> - **Airalo Japonya eSIM**: en büyük platform, **Moshi Moshi** adıyla SoftBank ve KDDI (au) üzerinde satılır, en ince sabit bant yelpazesi artı sınırsız seçeneklerle. Şeffaf fiyatlandırma ve tethering çalışır, ama Japon numarası yoktur ve 3,9 Trustpilot puanı hâlâ alanın gerisindedir — [Airalo eSIM incelememize](/blog/airalo-esim-review-prices-coverage/) bakın.
+> - **Holafly Japonya eSIM**: tek tüm-sınırsız seçenek, 3,97 $/gün, KDDI (au) ve SoftBank 5G üzerinde. Hiçbir şey ölçülmez ve hiçbir şey kısıtlanmaz, ama tethering 1GB/gün'de durur, bir ay pahalıdır ve Japon numarası yoktur — sürekli yayın yapanlara göre bir tercih.
+> - **Roami Japonya eSIM**: Docomo, au ve SoftBank arasında otomatik geçiş yapar, tam 5G çalıştırır, veriyi sınır olmadan paylaşır ve üçünün en ucuzudur — yine Japon numarası yok. **Japonya'ya özgü bir quirk: 7 günlük bantta 20GB ile sınırsız arasındaki fark yalnızca 1,60 $**, bu yüzden yoğun kullanıcılar rahatça sınırsızı alabilir — hâlâ cep WiFi kiralamaktan çok daha ucuz. **WEB20** %20 düşürür. [Roami Japonya eSIM planlarını görüntüleyin](/japan-esim/)
 
 ### Airalo Japonya eSIM Tam Fiyat Listesi
+
+Airalo, Japonya ürününü **"Moshi Moshi"** markası altında satar; KDDI (au) ve SoftBank üzerinde çalışır.
 
 **Sınırsız Planlar**
 
 | Gün | Fiyat | Günlük Maliyet |
 |------|------|---------|
-| 3 gün | $11.50 | $3.83/gün |
-| 5 gün | $17.00 | $3.40/gün |
-| 7 gün | $27.00 | $3.86/gün |
-| 10 gün | $34.50 | $3.45/gün |
-| 15 gün | $48.00 | $3.20/gün |
-| 30 gün | $69.00 | $2.30/gün |
+| 3 gün | 11,50 $ | 3,83 $/gün |
+| 5 gün | 17,00 $ | 3,40 $/gün |
+| 7 gün | 27,00 $ | 3,86 $/gün |
+| 10 gün | 34,50 $ | 3,45 $/gün |
+| 15 gün | 48,00 $ | 3,20 $/gün |
+| 30 gün | 69,00 $ | 2,30 $/gün |
 
 **Sabit Veri Planları**
 
-| Gün | Veri Kademesi | Fiyat |
+| Gün | Veri Bandı | Fiyat |
 |------|--------|------|
-| 3 gün | 1GB / 3GB | $4.00 / $7.50 |
-| 7 gün | 3GB / 5GB / 10GB | $8.00 / $10.00 / $17.00 |
-| 15 gün | 5GB / 10GB / 20GB | $10.50 / $17.50 / $24.00 |
-| 30 gün | 5GB / 10GB / 20GB | $11.00 / $18.00 / $25.00 |
+| 3 gün | 1GB / 3GB | 4,00 $ / 7,50 $ |
+| 7 gün | 3GB / 5GB / 10GB | 8,00 $ / 10,00 $ / 17,00 $ |
+| 15 gün | 5GB / 10GB / 20GB | 10,50 $ / 17,50 $ / 24,00 $ |
+| 30 gün | 5GB / 10GB / 20GB | 11,00 $ / 18,00 $ / 25,00 $ |
 
-> ⚠️ **Airalo Japonya Risk Notu**: Sabit veri kademeleri nispeten pahalıdır (7 gün 10GB $1.70/GB), Roami'nin muadilinin iki katından fazla; 7 günlük sınırsız $27 ortalama değer sunar ve 30 günlük sabit kademeler 20GB ile sınırlıdır.
+> ⚠️ **Airalo Japonya risk notu**: Sabit veri bantları görece pahalıdır (7 günlük 10GB, GB başına 1,70 $), Roami'nin eşdeğerinin iki katından fazla; 27 $'lık 7 günlük sınırsız ortalama bir değer sunar ve 30 günlük sabit bantlar 20GB'de tavan yapar.
 
 ### Holafly Japonya eSIM Tam Fiyat Listesi
 
-Holafly Japonya **yalnızca sınırsız veri** sunar, günlük fiyatlandırma:
+Holafly Japonya **yalnızca sınırsız veri** sunar ve süre bazında fiyatlandırılır:
 
 | Gün | Fiyat | Günlük Maliyet |
 |------|------|---------|
-| 3 gün | $11.70 | $3.90/gün |
-| 7 gün | $27.30 | $3.90/gün |
-| 15 gün | $58.50 | $3.90/gün |
-| 30 gün | $117.00 | $3.90/gün |
+| 3 gün | 11,90 $ | 3,97 $/gün |
+| 7 gün | 27,50 $ | 3,93 $/gün |
+| 10 gün | 36,50 $ | 3,65 $/gün |
+| 30 gün | 73,90 $ | 2,46 $/gün |
 
-> ⚠️ **Holafly Japonya Risk Notu**: Sabit kademe yok; 3 gün $11.70, Roami'nin 3 gün 10GB'ından ($7.19) %63 daha pahalı. **Hotspot günde 1GB ile sınırlıdır**, bu nedenle aile paylaşımı kısıtlıdır. Günlük fiyatlandırma uzun vadeli maliyetleri en yüksek yapar.
+> Kısa seyahatler en dik günlük fiyatı öder — üç günde 3,97 $/gün — tam aya bağlı kalırsanız 2,46 $/güne iner.
+
+> ⚠️ **Holafly Japonya risk notu**: Sabit bant yok; 3 gün 11,90 $ tutarındadır, Roami'nin 3 günlük 10GB'sından (7,19 $) %66 daha fazla. **Hotspot 1GB/gün ile sınırlıdır**, bu yüzden aile paylaşımı kısıtlanır. Gün başına fiyatlandırma uzun vadeli maliyeti en yüksek yapar.
 
 ### Roami Japonya eSIM Tam Fiyat Listesi
 
-Roami Japonya hem sabit veri hem de sınırsız planlar sunar. İndirimli fiyat = liste fiyatı × 0.8 (kod WEB20):
+Roami'nin Japonya yelpazesi hem sabit bantları hem sınırsızı kapsar; indirimli rakam, liste fiyatının %80'idir (WEB20 kodu kullanılarak):
 
-| Gün | Veri Kademesi | Liste Fiyatı | İndirimli Fiyat | Günlük Maliyet |
+| Gün | Veri Bandı | Liste Fiyatı | İndirimli Fiyat | Günlük Maliyet |
 |------|--------|---------|--------|---------|
-| 3 gün | 1GB / 3GB / 5GB / 10GB / Sınırsız | $1.99 / $2.99 / $5.99 / $8.99 / $9.99 | **$1.59 / $2.39 / $4.79 / $7.19 / $7.99** | $0.53-2.66/gün |
-| 7 gün | 1GB / 3GB / 5GB / 10GB / 20GB / Sınırsız | $1.99 / $3.99 / $5.99 / $9.99 / $16.99 / $18.99 | **$1.59 / $3.19 / $4.79 / $7.99 / $13.59 / $15.19** | $0.23-2.17/gün |
-| 15 gün | 3GB / 5GB / 10GB / 20GB / 30GB / Sınırsız | $4.99 / $6.99 / $10.99 / $17.99 / $25.99 / $42.99 | **$3.99 / $5.59 / $8.79 / $14.39 / $20.79 / $34.39** | $0.27-2.29/gün |
-| 30 gün | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB / Sınırsız | $5.99 / $7.99 / $11.99 / $20.99 / $25.99 / $37.99 / $71.99 | **$4.79 / $6.39 / $9.59 / $16.79 / $20.79 / $30.39 / $57.59** | $0.16-1.92/gün |
+| 3 gün | 1GB / 3GB / 5GB / 10GB / Sınırsız | 1,99 $ / 2,99 $ / 5,99 $ / 8,99 $ / 9,99 $ | **1,59 $ / 2,39 $ / 4,79 $ / 7,19 $ / 7,99 $** | 0,53-2,66 $/gün |
+| 7 gün | 1GB / 3GB / 5GB / 10GB / 20GB / Sınırsız | 1,99 $ / 3,99 $ / 5,99 $ / 9,99 $ / 16,99 $ / 18,99 $ | **1,59 $ / 3,19 $ / 4,79 $ / 7,99 $ / 13,59 $ / 15,19 $** | 0,23-2,17 $/gün |
+| 15 gün | 3GB / 5GB / 10GB / 20GB / 30GB / Sınırsız | 4,99 $ / 6,99 $ / 10,99 $ / 17,99 $ / 25,99 $ / 42,99 $ | **3,99 $ / 5,59 $ / 8,79 $ / 14,39 $ / 20,79 $ / 34,39 $** | 0,27-2,29 $/gün |
+| 30 gün | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB / Sınırsız | 5,99 $ / 7,99 $ / 11,99 $ / 20,99 $ / 25,99 $ / 37,99 $ / 71,99 $ | **4,79 $ / 6,39 $ / 9,59 $ / 16,79 $ / 20,79 $ / 30,39 $ / 57,59 $** | 0,16-1,92 $/gün |
 
-> ⚠️ **Roami Japonya Risk Notu**: 7 günlük kademede, 20GB ve sınırsız arasında sadece $1.60 fark var—yoğun kullanıcılar küçük bir ekstra maliyetle sınırsıza geçebilir. Ancak 30 günlük sınırsız kademe ($57.59), 50GB'ın ($30.39) neredeyse iki katı—uzun konaklamalar için sınırsızdan kaçının. Aksi takdirde, sabit kademeler genel olarak en düşük birim fiyata sahiptir.
+> ⚠️ **Roami Japonya uyarısı**: 7 günlük bantta 20GB ile sınırsız arasındaki fark yalnızca 1,60 $'dır, bu yüzden yoğun kullanıcılar rahatça yükseltmeye gidebilir. 30 günlük bantta iş tersine döner — 57,59 $'lık sınırsız, 30,39 $'lık 50GB'nin neredeyse iki katına gelir, bu yüzden uzun konaklamalar onu atlamalıdır. Her yerde başka türlü, sabit bantlar daha düşük birim fiyatı taşır.
 
-### Değer, Sadece Fiyat Değil
+### Yalnızca Değil, Değer
 
-**Kademelerde yükseldikçe GB başına fiyat önemli ölçüde düşer.** Örnek: Roami 30 günlük planlar:
+**Bir bant yukarı çıkın, GB başına maliyet düşer.** Roami'nin 30 günlük merdivenini alın:
 
-| Veri Kademesi | İndirimli Fiyat | GB Başına Fiyat |
+| Veri Bandı | İndirimli Fiyat | GB Başına Fiyat |
 |--------|--------|-----------|
-| 5GB | $6.39 | $1.28/GB |
-| 10GB | $9.59 | $0.96/GB |
-| 20GB | $16.79 | $0.84/GB |
-| 30GB | $20.79 | $0.69/GB |
-| 50GB | $30.39 | **$0.61/GB** |
+| 5GB | 6,39 $ | 1,28 $/GB |
+| 10GB | 9,59 $ | 0,96 $/GB |
+| 20GB | 16,79 $ | 0,84 $/GB |
+| 30GB | 20,79 $ | 0,69 $/GB |
+| 50GB | 30,39 $ | **0,61 $/GB** |
 
-50GB'ın GB başına fiyatı, 5GB'ınkinin yalnızca yarısıdır. **Sonuç: Kullanımınızı tahmin edebiliyorsanız, daha büyük bir kademe satın almak daha fazla para tasarrufu sağlar.**
+50GB bandı, 5GB bandının GB başına neredeyse yarısı fiyatına gelir. **Kullanımınızı kabaca biliyorsanız, bir bant yukarı çıkmak daha iyi alımdır.**
 
-**Japonya bağlamında, "sınırsız değer mi?" sorusu süreye bağlıdır.** Bu asimetrik bir olgudur:
+**Japonya bağlamında "sınırsız buna değer mi?" süreye bağlıdır.** Bu asimetrik bir olgudur:
 
 | Plan | Fiyat | Değer mi? |
 |------|------|--------|
-| Roami 7 gün 20GB indirimli | $13.59 | Günlük kullanım ≤2.86GB ise en iyisi |
-| Roami 7 gün sınırsız indirimli | $15.19 | **Sadece $1.60 daha fazla**; günlük kullanım >2.86GB ise değer |
-| Roami 30 gün 50GB indirimli | $30.39 | Günlük kullanım ≤1.67GB ise en iyisi |
-| Roami 30 gün sınırsız indirimli | $57.59 | **$27.20 daha fazla**; günlük kullanım >3GB ise ancak başabaş |
+| Roami 7 günlük 20GB indirimli | 13,59 $ | Günlük kullanım ≤2,86GB ise en iyisi |
+| Roami 7 günlük sınırsız indirimli | 15,19 $ | **Yalnızca 1,60 $ daha fazla**; günlük kullanım >2,86GB ise değer |
+| Roami 30 günlük 50GB indirimli | 30,39 $ | Günlük kullanım ≤1,67GB ise en iyisi |
+| Roami 30 günlük sınırsız indirimli | 57,59 $ | **27,20 $ daha fazla**; günlük kullanım >3GB ise ancak zar zor başabaş |
 
-**Sonuç: 7 günlük sınırsız "değerli küçük bir yükseltmedir"; 30 günlük sınırsız ise "tuzaktır."** 7 günlük kademede, 20GB ve sınırsız arasında sadece $1.60 fark var—yoğun kullanıcılar tereddüt etmeden yükseltmeli. Ancak 30 günlük kademede, sınırsız 50GB'dan $27.20 daha pahalı—ayda 90GB+ kullanmadığınız sürece, 50GB en iyi tam ay çözümüdür.
+**Sonuç: 7 günlük sınırsız "değerli küçük bir yükseltmedir"; 30 günlük sınırsız bir "tuzaktır."** 7 günlük bantta 20GB ile sınırsız arasındaki fark yalnızca 1,60 $'dır — yoğun kullanıcılar tereddütsüz yükseltmelidir. Ama 30 günlük bantta sınırsız, 50GB'den 27,20 $ daha pahalıdır — ayda 90GB+ kullanmayacaksanız, 50GB en iyi tam ay çözümüdür.
 
-**Tasarruf ettiğiniz parayla ne yapabilirsiniz?** Roami (indirimli) ile rakipler arasındaki fiyat farkını Japonya seyahat harcamalarına dönüştürün:
+**O tasarruf yerde neye benziyor?** Roami'nin indirimli bantlarını rekabetle yan yana dizin ve fark gerçek yemeklere ve biletlere dönüşür:
 
-| Seyahat | Roami indirimli vs rakip | Tasarruf | Eşdeğeri |
+| Gezi | Roami indirimli vs rakip | Tasarruf | Denk Geldiği Şey |
 |------|-------------------|------|--------|
-| 7 gün 10GB | $7.99 vs Airalo $17.00 | $9.01 | Bir kase ramen + bir matcha içeceği |
-| 7 gün sınırsız | $15.19 vs Holafly $27.30 | $12.11 | Bir gece izakaya'da |
-| 15 gün 20GB | $14.39 vs Airalo $24.00 | $9.61 | Tokyo Metro 3 günlük kartı |
-| 30 gün sınırsız | $57.59 vs Holafly $117.00 | $59.41 | Bir iş otelinde bir gece |
+| 7 gün 10GB | 7,99 $ vs Airalo 17,00 $ | 9,01 $ | Bir kase ramen + bir matcha içeceği |
+| 7 gün sınırsız | 15,19 $ vs Holafly 27,50 $ | 12,31 $ | Bir izakayada menü ile akşam yemeği |
+| 15 gün 20GB | 14,39 $ vs Airalo 24,00 $ | 9,61 $ | Tokyo Metro 3 günlük kart |
+| 30 gün sınırsız | 57,59 $ vs Holafly 73,90 $ | 16,31 $ | Shinjuku'da düzgün bir akşam yemeği |
 
-## 3 Günlük Japonya eSIM, Sıralama
+## 3 Günlük Japonya eSIM, Sıralamalı
 
-3 günlük kısa bir gezi için (Tokyo hafta sonu / aktarma / iş), başlangıç fiyatı en önemlidir.
-
-| Veri | Airalo | Holafly | Roami (İndirimli) | Değer Şampiyonu |
-|------|--------|---------|---------------|-----------|
-| 1GB | $4.00 | — | **$1.59** | **Roami** |
-| 3GB | $7.50 | — | **$2.39** | **Roami** |
-| 5GB | — | — | **$4.79** | **Roami** |
-| 10GB | — | — | **$7.19** | **Roami** |
-| Sınırsız | $11.50 | $11.70 | **$7.99** | **Roami** |
-
-**3 gün kararı**: Roami 3 gün 3GB indirimli $2.39, Airalo'nun muadilinden ($7.50) %68 daha ucuz; Roami 3 gün 10GB ($7.19), Holafly'nin sınırsızından ($11.70) %39 daha ucuz. Roami 3 günlük gezilerde her alanda kazanır, 10GB bile rakiplerin sınırsızından daha ucuzdur.
-
-> **💡 3 Günlük Fiyat Değeri İçgörüsü**: Menüleri taramak için Google Çeviri + aktarmalar için Google Haritalar + WhatsApp mesajlaşma ile 3 günlük bir Tokyo gezisinde 1-3GB yeterlidir. Roami 3 gün 3GB indirimli $2.39, tam bağlantı için günde 1$'dan azdır (bir market onigiri fiyatı civarında). [Japonya eSIM 3 günlük planlarını görüntüle →](/japan-esim/)
-
-## 7 Günlük Japonya eSIM, Karşılaştırma
-
-7 gün en yaygın seyahat süresidir (Tokyo + Kansai veya tek şehir derinlemesine).
+Üç günlük bir atlamada — bir Tokyo hafta sonu, bir aktarma, hızlı bir iş görüşmesi — önemli olan, en az harcayarak kurtulabilmektir.
 
 | Veri | Airalo | Holafly | Roami (İndirimli) | Değer Şampiyonu |
 |------|--------|---------|---------------|-----------|
-| 1GB | — | — | **$1.59** | **Roami** |
-| 3GB | $8.00 | — | **$3.19** | **Roami** |
-| 5GB | $10.00 | — | **$4.79** | **Roami** |
-| 10GB | $17.00 | — | **$7.99** | **Roami** |
-| 20GB | — | — | **$13.59** | **Roami** |
-| Sınırsız | $27.00 | $27.30 | **$15.19** | **Roami** |
+| 1GB | 4,00 $ | — | **1,59 $** | **Roami** |
+| 3GB | 7,50 $ | — | **2,39 $** | **Roami** |
+| 5GB | — | — | **4,79 $** | **Roami** |
+| 10GB | — | — | **7,19 $** | **Roami** |
+| Sınırsız | 11,50 $ | 11,90 $ | **7,99 $** | **Roami** |
 
-**7 gün kararı**: Roami 7 gün 10GB indirimli $7.99, Airalo'nun muadilinden ($17.00) %53 ve Holafly'nin sınırsızından ($27.30) %71 daha ucuz. Roami'nin sınırsızı ($15.19) bile Holafly'den %44 daha ucuz ve pocket WiFi kiralamanın yarısından fazla.
+**3 günlük karar**: Roami'nin 3 günlük 3GB'sı 2,39 $ ile Airalo'nun eşdeğerini (7,50 $) %48 geride bırakır, 10GB'sı ise 7,19 $ ile Holafly'nin sınırsızını (11,90 $) %40 yener. Roami her satırı alır ve hatta 10GB'sı bile bir rakibin sınırsızından daha ucuzdur.
 
-> **💡 7 Günlük Fiyat Değeri İçgörüsü**: Google Çeviri + Haritalar Japonya'da "veri kara delikleridir"—günde üç öğün menü tarama, tüm gün navigasyon ve aktarmalar—1.43GB/gün güvenli bir temel çizgidir. Roami indirimli $7.99 ile $0.80/GB sunar, piyasanın en düşüğü; tasarruf edilen $9.01 bir kase ramen + bir matcha içeceği için yeterlidir. Yoğun video izleyiciler sadece $1.60 ekstra ile sınırsıza geçebilir ($15.19)—pocket WiFi'den bile daha ucuz.
+> **💡 3 Günlük Fiyat Değer Çıkarımı**: Google Çeviri'nin menüleri taraması + aktarmalar için Google Maps + WhatsApp mesajlaşması olan 3 günlük bir Tokyo gezisi için 1-3GB yeterlidir. 2,39 $ indirimli Roami 3 günlük 3GB, tam bağlantı için günde 1 $'ın altına (yaklaşık bir bakkal onigiri fiyatı) denk gelir.
 
-## 15 Günlük Japonya eSIM - İki Haftalık Geziler
+## 7 Günlük Japonya eSIM, Karşılaştırmalı
 
-15 gün klasik "Tokyo + Kansai + Hiroşima" tam rotasına uygundur.
-
-| Veri | Airalo | Holafly | Roami (İndirimli) | Değer Şampiyonu |
-|------|--------|---------|---------------|-----------|
-| 5GB | $10.50 | — | **$5.59** | **Roami** |
-| 10GB | $17.50 | — | **$8.79** | **Roami** |
-| 20GB | $24.00 | — | **$14.39** | **Roami** |
-| 30GB | — | — | **$20.79** | **Roami** |
-| Sınırsız | $48.00 | $58.50 | **$34.39** | **Roami** |
-
-**15 gün kararı**: Roami 15 gün 20GB indirimli $14.39, Airalo'nun muadilinden ($24.00) %40 ve Holafly'den ($58.50) %75 daha ucuz. Roami'nin sınırsızı ($34.39), Airalo'nun sınırsızından ($48.00) %28 daha ucuz.
-
-> **💡 15 Günlük Fiyat Değeri İçgörüsü**: Google Çeviri + Haritalar her zaman çalışırken Tokyo→Kyoto→Osaka→Hiroşima'yı kapsayan 15 gün—1.33GB/gün yeterlidir. Roami indirimli $14.39 ile $0.72/GB sunar; Holafly'nin 15 günlük $58.50'si, Roami'nin 20GB fiyatının 4 katıdır. Tasarruf edilen 44$ ekstra, düzgün bir pansiyonda iki gece kalabilir.
-
-## 30 Günlük Japonya eSIM - Aylık Konaklamalar
-
-30 gün uzun konaklama, kısa süreli iş, dil okulu veya dijital göçebelere karşılık gelir.
+Bir hafta, çoğu Japonya seyahatinin oturduğu süredir; ister Tokyo artı Kansai, ister tek bir şehrin usulca gezilmesi olsun.
 
 | Veri | Airalo | Holafly | Roami (İndirimli) | Değer Şampiyonu |
 |------|--------|---------|---------------|-----------|
-| 5GB | $11.00 | — | **$6.39** | **Roami** |
-| 10GB | $18.00 | — | **$9.59** | **Roami** |
-| 20GB | $25.00 | — | **$16.79** | **Roami** |
-| 30GB | — | — | **$20.79** | **Roami** |
-| 50GB | — | — | **$30.39** | **Roami** |
-| Sınırsız | $69.00 | $117.00 | **$57.59** | **Roami** |
+| 1GB | — | — | **1,59 $** | **Roami** |
+| 3GB | 8,00 $ | — | **3,19 $** | **Roami** |
+| 5GB | 10,00 $ | — | **4,79 $** | **Roami** |
+| 10GB | 17,00 $ | — | **7,99 $** | **Roami** |
+| 20GB | — | — | **13,59 $** | **Roami** |
+| Sınırsız | 27,00 $ | 27,50 $ | **15,19 $** | **Roami** |
 
-**30 gün kararı**: Roami 30 gün 50GB indirimli $30.39 en iyi tam ay çözümüdür ($0.61/GB); Roami sınırsız indirimli $57.59, Airalo'dan ($69.00) %17 ve Holafly'den ($117.00) %51 daha ucuz. Ancak dikkat: **30 günlük sınırsız 50GB'ın neredeyse iki katı—ayda 90GB+ kullanmadığınız sürece 50GB daha uygun maliyetlidir.**
+**7 günlük karar**: Roami'nin 7,99 $'lık 10GB haftası, Airalo'nun aynı bandından (17,00 $) %53, Holafly'nin sınırsızından (27,50 $) %71 daha düşüktür. Roami'nin kendi sınırsızı bile 15,19 $ ile Holafly'den %45 daha ucuzdur ve bir cep WiFi kiralamasının yarısından azdır.
 
-> **💡 30 Günlük Fiyat Değeri İçgörüsü**: Bir aylık konaklama için [Japonya eSIM değeri](/japan-esim/) açıktır—50GB $0.61/GB, ortalama 1.67GB/gün. Holafly'nin 30 günlük $117'si, Roami'nin 50GB'ının neredeyse 4 katı—87$ fark bir iş otelinde bir gece için yeterlidir. Günde 3 saatten fazla video konferans/canlı yayın yapmadığınız sürece, 50GB en iyi tam ay çözümüdür—30 günlük sınırsızdan kaçının.
+> **💡 7 Günlük Fiyat Değer Çıkarımı**: Google Çeviri + Maps Japonya'da "veri kara delikleri"dir — günde üç öğün menü tarama, tüm gün navigasyon ve aktarmalar — 1,43GB/gün güvenli bir tabandır. 7,99 $ indirimli Roami, pazardaki en düşük olan 0,80 $/GB verir; kazanılan 9,01 $ bir kase ramen + bir matcha içeceğine yeter. Yoğun video izleyiciler yalnızca 1,60 $ ek ödeyerek (15,19 $) sınırsıza geçebilir — cep WiFi'den bile ucuz.
 
-> **💰 Süreli Teklif**
+## İki Haftalık Seyahatler İçin 15 Günlük Japonya eSIM'i
+
+15 gün, klasik "Tokyo + Kansai + Hiroşima" tam rotasına uyar.
+
+| Veri | Airalo | Holafly | Roami (İndirimli) | Değer Şampiyonu |
+|------|--------|---------|---------------|-----------|
+| 5GB | 10,50 $ | — | **5,59 $** | **Roami** |
+| 10GB | 17,50 $ | — | **8,79 $** | **Roami** |
+| 20GB | 24,00 $ | — | **14,39 $** | **Roami** |
+| 30GB | — | — | **20,79 $** | **Roami** |
+| Sınırsız | 48,00 $ | 50,50 $ | **34,39 $** | **Roami** |
+
+**15 günlük karar**: Roami'nin 14,39 $'lık 20GB yarım ayı, Airalo'nun aynı bandından (24,00 $) %40, Holafly'den (50,50 $) %72 daha düşüktür; Roami'nin 34,39 $'lık sınırsızı ise Airalo'nunkinden (48,00 $) %28 altında kalır.
+
+> **💡 İki hafta aslında neye mal olur**: Çeviri ve Maps sürekli açıkken Tokyo → Kyoto → Osaka → Hiroşima, 1,33GB/gün'dür ve Roami'nin 14,39 $'ı 0,72 $/GB'ya oturur. Holafly'nin 15 günlük 50,50 $'ı bunun 3,5 katıdır; cebinizde kalan 36 $, iyi bir hostelde bir gecedir.
+
+## Aylık Konaklamalar İçin 30 Günlük Japonya eSIM'i
+
+Otuz gün, uzun konaklama dilimidir: uzatılmış ziyaretler, kısa süreli çalışma, dil okulu ya da dijital göçebe hayatı.
+
+| Veri | Airalo | Holafly | Roami (İndirimli) | Değer Şampiyonu |
+|------|--------|---------|---------------|-----------|
+| 5GB | 11,00 $ | — | **6,39 $** | **Roami** |
+| 10GB | 18,00 $ | — | **9,59 $** | **Roami** |
+| 20GB | 25,00 $ | — | **16,79 $** | **Roami** |
+| 30GB | — | — | **20,79 $** | **Roami** |
+| 50GB | — | — | **30,39 $** | **Roami** |
+| Sınırsız | 69,00 $ | 73,90 $ | **57,59 $** | **Roami** |
+
+**30 günlük karar**: 30,39 $'lık Roami'nin 50GB'sı, 0,61 $/GB ile sayfadaki en iyi tam ay alımıdır ve 57,59 $'lık sınırsız bandı Airalo'yu (69,00 $) %17, Holafly'yi (73,90 $) %22 alt eder. Ama asimetriye dikkat: **30 günlük sınırsız, 50GB'nin neredeyse iki katına mal olur — ayda 90GB aşmayacaksanız, 50GB kazanır.**
+
+> **💡 Bir ay aslında neye mal olur**: tam bir ay için durum nettir — 0,61 $/GB ile 50GB, yani günde 1,67GB. Holafly'nin 30 günlük 73,90 $'ı, Roami'nin 50GB'sının 2,4 katıdır; o 43,51 $'lık fark, Osaka'da birkaç iyi akşam yemeğidir. Günde 3+ saat video görüşmesi ya da canlı yayın yapmıyorsanız, 50GB ayın en iyi cevabıdır — sınırsız bandı atlayın.
+
+> **💰 Süre Sınırlı Fırsat**
 >
-> Roami **Japonya eSIM**'ini seçin ve ödeme sırasında **WEB20** indirim kodunu girerek tüm planlarda **%20 indirim** kazanın. İndirimli fiyatlar: 7 gün 10GB $7.99, 30 gün 50GB $30.39—her ikisi de rakiplerden ve pocket WiFi'den önemli ölçüde daha düşük. [Şimdi Japonya eSIM planlarını satın alın →](/japan-esim/)
+> Roami **Japonya eSIM**'i seçin ve ödeme sırasında **WEB20** promosyon kodunu girin; her planda **%20 indirim** alın. İndirimli: 7 günlük 10GB 7,99 $ ve 30 günlük 50GB 30,39 $ — ikisi de rekabetin ve cep WiFi kiralamasının rahatça altında. [Japonya eSIM planlarına şimdi göz atın](/japan-esim/)
 >
-> *İndirim kodu tüm süreler ve veri kademeleri için geçerlidir, sınırsız planlar dahil.*
+> *Promosyon kodu, sınırsız planlar dahil her süre ve veri bandını kapsar.*
 
-## Japonya eSIM, Gezi Gezi
+## Seyahatten Seyaha Japonya eSIM'i
 
-### Tokyo Şehir Gezisi (3-5 gün)
+**Tokyo, üç ila beş gün.** Günde bir ila iki gigabayt çalışma rakamıdır — menülere doğrultulan Google Çeviri, metro için Maps ve düzenli bir sosyal medya akışı. Roami'nin 3–5GB bandı bunu karşılar ve 3GB bandı 2,39 $'dan başlar. Yoğun saatlerde Shibuya ve Shinjuku her şebekeyi ezer — otomatik geçişin değerini gösterdiği yer tam olarak burasıdır.
 
-- **Günlük kullanım**: 1-2GB (Google Çeviri + Haritalar + sosyal medya)
-- **Öneri**: Roami 3-5GB
-- **Nedeni**: Tokyo metro tünellerinde bile tam bar 5G; Roami'nin çoklu ağ geçişi Docomo/SoftBank arasından en hızlısını otomatik olarak seçer. 3GB indirimli $2.39'dan başlar.
-- **⚠️ Hatırlatma**: Shibuya ve Shinjuku yoğun saatlerde kalabalıktır; çoklu ağ geçişi tek ağdan daha kararlıdır.
+**Kansai — Kyoto, Osaka, Nara, beş ila yedi gün.** Günde 1,5–2GB bütçeleyin: tabelalar ve menüler neredeyse tamamen Japoncadır, bu yüzden Çeviri'nin kamerası sürekli bir veri çeken şey haline gelir. Roami'nin 7,99 $'lık 10GB'sı mantıklı tercihtir. Fushimi Inari ve Kiyomizu-dera çevresinde ağır fotoğraf yükleme bekleyin, kendinize pay bırakın.
 
-### Kyoto / Osaka / Nara Kansai Gezisi (5-7 gün)
+**Shinkansen turu, Tokyo'dan Kyoto'ya, yedi ila on gün.** Vagonlar tekrarlayıcı taşır, bu yüzden günde 1,5–2GB sandığınızdan daha uzağa gider — ülke akarken video izleyin ve rehberlere göz atın. Roami'nin 10–20GB'sı doğru aralıktır; 20GB 13,59 $'dır. Çok derin tüneller kısa bir titremeye yol açabilir; bu normaldir, arıza değildir.
 
-- **Günlük kullanım**: 1.5-2GB (menüler/tabelalar için Google Çeviri kamerası + tapınak navigasyonu)
-- **Öneri**: Roami 10GB
-- **Nedeni**: Kansai'de menüler ve tabelalar neredeyse tamamen Japoncadır; Google Çeviri'nin gerçek zamanlı kamera çevirisi en büyük veri tüketicisidir. 10GB indirimli $7.99.
-- **⚠️ Hatırlatma**: Fushimi Inari ve Kiyomizu-dera kalabalıktır; fotoğraf yüklemeleri daha fazla veri kullanır—bir tampon bırakın.
+**Fuji Dağı, Hakone ve Kawaguchi Gölü, üç ila beş gün.** Günde yaklaşık 1–1,5GB. Fuji Beş Gölü ve Hakone, Docomo toprağıdır ve çok şebeke geçişi otomatik olarak Docomo'ya savrulur; 4,79 $'lık 5GB fazlasıyla yeterlidir. Dağın yakınındaki seyir noktaları sinyali iyi tutar, ancak bazı orman parkurları tutmaz — yürüyüşe çıkmadan önce haritaları önbelleğe alın.
 
-### Tokyo → Kyoto Shinkansen Çok Şehirli (7-10 gün)
+**Hokkaido — Sapporo, Otaru, Hakodate, beş ila yedi gün.** Günde 1,5–2GB bekleyin: Sapporo ve Otaru mükemmel şehir 5G'sine sahiptir ve Hakodate gece manzarası çok yükleme üretir. Roami'nin 7,99 $'lık 10GB'sı uyar. Kış, telefon bataryalarını dışarıda hızla tüketir, bu yüzden bir güç bankası alın — şebeke geçişinin batarya ömrüyle ilgisi yoktur.
 
-- **Günlük kullanım**: 1.5-2GB
-- **Öneri**: Roami 10-20GB
-- **Nedeni**: Shinkansen vagonlarında her yerde tam bar 5G—yol boyunca video izleyin ve rehberlere göz atın. 20GB indirimli $13.59.
-- **⚠️ Hatırlatma**: Shinkansen'de tünellerde sinyal var, ancak çok derin tünellerde kısa dalgalanmalar olabilir—normal.
+**Aile olarak seyahat, beş ila on gün.** Birkaç kişi ve bir tablet paylaştığında günde iki ila üç gigabayt. Roami'nin 10–20GB'sını alın ve sınırsız hotspot'unu kullanın: tek bir plan, kişi başı cep WiFi kiralamaktan çok daha ucuza herkesi çevrimiçi tutar. Holafly'den burada kaçının — 1GB/gün paylaşım sınırı grubu bunaltır.
 
-### Fuji Dağı / Hakone / Kawaguchi Gölü (3-5 gün)
+**En mümkün olan en dar bütçede, üç ila beş gün.** Çeviri ve metin tabanlı navigasyona bağlı kalırsanız günde 1GB altı gerçektir. Roami'nin 1,59 $'lık 1GB/7 günlük bandı, pazardaki en ucuz girişidir ve bol miktarda menü taramasına uzar. Videoyu tamamen dışarıda tutun — 1GB kabaca bir saatlik kısa kliptir.
 
-- **Günlük kullanım**: 1-1.5GB
-- **Öneri**: Roami 5-10GB
-- **Nedeni**: Fuji Beş Gölü ve Hakone, Docomo'nun güçlü alanlarıdır; çoklu ağ geçişi otomatik olarak Docomo'ya bağlanır. 5GB indirimli $4.79.
-- **⚠️ Hatırlatma**: Fuji Dağı eteğindeki bakış noktalarında sinyal iyidir, ancak bazı orman yolları daha zayıf olabilir—haritaları önceden önbelleğe alın.
+## Cep WiFi vs eSIM Özel Bölümü
 
-### Hokkaido (Sapporo / Otaru / Hakodate, 5-7 gün)
+Bu, çoğu ülkeye kıyasla Japonya'ya özgü bir "kültürel atalet" sorunudur; ayrıntılı bir açıklamayı hak eder.
 
-- **Günlük kullanım**: 1.5-2GB
-- **Öneri**: Roami 10GB
-- **Nedeni**: Sapporo ve Otaru mükemmel şehir 5G'sine sahiptir; Hakodate gece manzaraları birçok fotoğraf yüklemesi içerir. 10GB indirimli $7.99.
-- **⚠️ Hatırlatma**: Kışın, telefonlar dışarıda hızlı pil tüketir; çoklu ağ geçişi pili etkilemez, ancak bir powerbank getirin.
+### Cep WiFi'nin Dört Eksiği
 
-### Çocuklu Aile Gezisi (5-10 gün)
-
-- **Günlük kullanım**: 2-3GB (birden fazla kullanıcı + tabletler)
-- **Öneri**: Roami 10-20GB + sınırsız hotspot
-- **Nedeni**: Roami'nin hotspot'unda kısıtlama yok—tek bir eSIM'i aile genelinde paylaşın, kişi başı pocket WiFi kiralamaya kıyasla %70+ tasarruf.
-- **⚠️ Hatırlatma**: Birden fazla kullanıcıyla paylaşıyorsanız Holafly'den (günde 1GB hotspot sınırı) kaçının.
-
-### Minimum Bütçe (3-5 gün)
-
-- **Günlük kullanım**: <1GB (Google Çeviri + metin)
-- **Öneri**: Roami 1GB/7 gün
-- **Nedeni**: İndirimli $1.59, genel olarak en düşük fiyat—kapsamlı Google Çeviri menü taraması + metin navigasyonu için yeterlidir.
-- **⚠️ Hatırlatma**: Video izlemeyin; 1GB yalnızca yaklaşık 1 saat kısa video için yeterlidir.
-
-## Pocket WiFi vs eSIM Özel Bölümü
-
-Bu, Japonya'ya özgü, çoğu ülkeye kıyasla "kültürel atalet" sorunudur, ayrıntılı bir açıklamayı hak eder.
-
-### Pocket WiFi'nin Dört Dezavantajı
-
-- **Şarj gerektirir**: Günlük şarj gerektiren ekstra bir cihaz—dışarı çıkmadan önce şarj etmeyi unutursanız, tüm grup çevrimdışı olur.
-- **Teslim alma ve iade + depozito**: Teslim almak için havalimanı kontuarında kuyruk, iade etmek için kalkıştan önce tekrar kuyruk ve depozito iadelerini bekleyin.
-- **Günlük fiyatlandırma ucuz değil**: ~$3.5-7/gün—7 gün $25-49, cihaz depozitosu hariç.
-- **Çoklu paylaşım bozulabilir**: 5 veya 8 kişi için bir cihaz—ana telefon ayrılırsa bağlantı kopar.
+- **Şarj ister**: Günlük şarj gerektiren ek bir cihaz — çıkmadan önce şarj etmeyi unutursanız, tüm grup çevrimdışı kalır.
+- **Teslim ve iade + depozito**: Teslim için havalimanı gişelerinde sıraya girin, iade için yine sıraya girin ve depozito iadesini bekleyin.
+- **Günlük fiyatlandırma ucuz değil**: ~3,5-7 $/gün — 7 gün 25-49 $ eder, cihaz depozitosu hariç.
+- **Çoklu paylaşım kopabilir**: 5 ya da 8 kişiye tek cihaz — birincil telefon uzaklaşırsa bağlantı düşer.
 
 ### eSIM Nasıl Kazanır
 
-Bir [Japonya eSIM](/japan-esim/) doğrudan telefonunuza kurulur: şarj yok, teslim alma/iade yok, depozito yok ve **çoklu ağ otomatik geçişi** içerir (Docomo / au / SoftBank arasından en hızlısını otomatik olarak seçer). Fiyat karşılaştırması daha da ikna edicidir:
+Bir [Japonya eSIM](/japan-esim/) doğrudan telefonunuza kurulur: şarj yok, teslim/iade yok, depozito yok ve **çok şebeke otomatik geçişi** içerir (Docomo / au / SoftBank arasında otomatik olarak en hızlıyı seçer). Fiyat karşılaştırması daha da ikna edicidir:
 
 | Seçenek | 7 Günlük Maliyet | Cihaz/Depozito | Sonuç |
 |------|---------|----------|------|
-| Pocket WiFi (kiralık) | $25-49 | Depozito + teslim alma/iade | Pahalı + zahmetli |
-| Roami eSIM 10GB | **$7.99** | Yok | **%70-80 Tasarruf** |
-| Roami eSIM sınırsız | **$15.19** | Yok | **Yarı yarıya tasarruf** |
+| Cep WiFi (kiralama) | 25-49 $ | Depozito + teslim/iade | Pahalı + zahmet |
+| Roami eSIM 10GB | **7,99 $** | Yok | **%70-80 kazanç** |
+| Roami eSIM sınırsız | **15,19 $** | Yok | **Yarısını kazanç** |
 
 ### Gerçek Veri Kara Deliği
 
 Japonya'da en çok ihtiyacınız olan şey "daha fazla sinyal" değil, "iki uygulamayı beslemektir":
 
-- **Google Çeviri**: Kamerayı menülere, tabelalara, talimatlara doğrultun—gerçek zamanlı çeviri—sipariş vermek ve gezinmek için cankurtaran, ancak çok fazla veri tüketir.
-- **Google Haritalar**: Tokyo ve Osaka'da karmaşık aktarmalar vardır; tüm gün çalışan gerçek zamanlı navigasyon + saat çizelgesi sorguları sürekli veri tüketir.
+- **Google Çeviri**: Kamerayı menülere, tabelalara, talimatlara doğrultun — gerçek zamanlı çeviri — sipariş vermek ve yön bulmak için cankurtaran, ama çok veri tüketir.
+- **Google Maps**: Tokyo ve Osaka girift aktarmalara sahiptir; gerçek zamanlı navigasyon + tarife aramaları tüm gün çalışır ve sürekli veri tüketir.
 
-Yani Japonya eSIM'i seçme mantığı Almanya'nın tam tersidir (sinyalin sorun olduğu yer): **burada rekabet "GB başına fiyat"tır, "hangi operatörün sinyali daha iyi" değil.** [Japonya eSIM GB başına fiyatı görüntüle →](/japan-esim/)
+Bu yüzden bir Japonya eSIM seçme mantığı, Almanya'nınkiyle (orada kaygı sinyaldir — ICE tren kör noktaları için [Airalo Almanya eSIM rehberimize](/blog/airalo-germany-esim-guide/) bakın) tamamen zıttır: **burada rekabet "GB başına fiyat"tır, "hangi operatörün sinyali daha iyi" değil.**
 
 ## Japonya eSIM vs Yerel SIM vs Dolaşım
 
 | Yön | Seyahat eSIM | Japonya Yerel SIM | Uluslararası Dolaşım |
 |------|----------|-------------|---------|
-| Kurulum süreci | Kalkıştan önce kurun | Havalimanı/elektronik mağazası + pasaport kaydı | Kurulum gerekmez |
-| İnişte çalışır | ✅ | ❌ Kayıt/aktivasyon gerektirir | ✅ |
-| Çoklu ağ geçişi | ✅ (Roami) | ❌ Tek ağ | ❌ Tek ağ |
+| Kurulum süreci | Yola çıkmadan önce kurulum | Havalimanı/elektronik mağaza + pasaport kaydı | Kurulum gerekmez |
+| Varışta çalışır | ✅ | ❌ Kayıt/aktivasyon gerektirir | ✅ |
+| Çok şebeke geçişi | ✅ (Roami) | ❌ Tek şebeke | ❌ Tek şebeke |
 | Japon telefon numarası | ❌ | ✅ | ❌ |
-| Fiyat | Orta (indirimli daha düşük) | Düşük-Orta | Yüksek |
-| En iyi olduğu alan | Kısa süreli turistler, çok ülke seyahatleri | Uzun konaklamalar, Japon numarası ihtiyacı | Acil durum |
+| Fiyat | Orta (indirimle daha düşük) | Düşük-Orta | Yüksek |
+| En uygun olduğu alan | Kısa vadeli turistler, çok ülkeli geziler | Uzun konaklamalar, Japon numarası gerektirenler | Acil durum |
 
-**Kısacası**: Kısa gezi + inişte çalışır + Google Çeviri'yi besle → seyahat eSIM; uzun konaklama + Japon numarası ihtiyacı → yerel SIM (ancak pasaport kaydı gerekir); hiç zahmet istemiyorsanız → dolaşımı seçmeyin (pahalı ve tek ağ).
+**Kısacası**: Kısa seyahat + varışta çalışsın + Google Çeviri'yi beslesin → seyahat eSIM'i; uzun konaklama + Japon numarası gerekli → yerel SIM (ama pasaport kaydı gerektirir); sıfır zahmet istiyorsanız → dolaşımı seçmeyin (pahalı ve tek şebekelidir).
 
-## Japonya eSIM Kurulum Adımları
+## Japonya eSIM Kurulum Adım Adım
 
-1. **Kalkıştan önce WiFi ile kurun**: Satın aldıktan sonra bir QR kodu alacaksınız. Kalkıştan önce Ayarlar → Hücresel/Mobil Ağ → eSIM Ekle'de QR kodunu tarayın veya aktivasyon kodunu manuel olarak girin.
-2. **İnişte "Veri Dolaşımı"nı açın**: Bu en yaygın aktivasyon başarısızlık nedenidir—inişten sonra etkinleştirin, telefonunuz otomatik olarak Docomo/au/SoftBank'tan birine bağlanacaktır.
-3. **Veri kartını seçin**: Seyahat eSIM'ini birincil "Hücresel Veri" hattı olarak ayarlayın; ev kartınızı "Yalnızca Ses/SMS" olarak ayarlayın (korumak istiyorsanız).
-4. **Ev kartınız için veri dolaşımını kapatın**: Ev operatörünüzün yüksek dolaşım ücretlerinden kaçının.
-5. **Önce Google Çeviri + Haritalar'ı test edin**: Bağlandıktan sonra, gerçek zamanlı çeviri ve navigasyonun çalıştığını doğrulamak için bu iki uygulamayı hemen test edin.
+1. **Uçmadan önce ev WiFi'sinde ekleyin**: planı satın alın, QR'yi kutunuzdan alın, hâlâ güvenilir bir bağlantınız varken Ayarlar → Şebeke/Mobil Ağ → eSIM Ekle yolunu kullanın. Narita'da varış WiFi'sinde yapmak, Tokyo'daki ilk yarım saatinizi boşa harcar.
+2. **İndikten sonra Veri Dolaşımını etkinleştirin**: dolaşım açılana kadar profil orada öylece durur — tek bir anahtar, "eSIM'im bozuk" raporlarının çoğunun ardındadır. Daha sonra kendi kendine Docomo, au ya da SoftBank'a kilitlenir.
+3. **Veri hattınızı eSIM'e yönlendirin**: ev SIM'i aramalar ve SMS için telefonda kalsın, Japonya profili diğer her şeyi halletsin.
+4. **Ev SIM'inde dolaşımı kapatın**: eSIM işi yaparken kendi operatörünüzün Japon dolaşım tarifesi ödemesini böyle önlersiniz.
+5. **Google Çeviri ve Google Maps'i açın**: Çeviri'nin kamerasını bir menüye doğrultun; İngilizce geri okursa, veri yolunuz kullanıma hazırdır.
 
-> **Ağa bağlanamıyor musunuz? Şu adımları deneyin:**
+> **Hâlâ bağlanmıyor mu? Şunları sırayla deneyin:**
 >
-> 1. "Veri Dolaşımı"nın etkin olduğunu doğrulayın; 2. Telefonunuzu yeniden başlatın; 3. "Ağ Seçimi"nde manuel olarak Docomo, au veya SoftBank'ı seçin; 4. APN'nin eSIM talimatlarında belirtilen değerle eşleştiğini kontrol edin; 5. Hala çalışmıyorsa, markanın müşteri desteğiyle iletişime geçin.
+> ① Veri Dolaşımı anahtarını açın; ② cihazı yeniden başlatın; ③ "Şebeke Seçimi"nde Docomo, au ya da SoftBank'ı elle seçin; ④ APN'yi sağlayıcınızın e-postasındaki değerle eşleştirin; ⑤ hiçbir şey işe yaramazsa, EID'nizle birlikte markanın desteğine başvurun.
 
 ## Japonya eSIM Cihaz Uyumluluğu
 
-- **Uluslararası telefonlar (Avrupa/ABD'den alınan)**: Çoğu eSIM'i destekler ve doğrudan kullanılabilir.
-- **Çin iPhone'ları / Çin Android'leri**: Çin iPhone'ları (XS ve sonrası) eSIM'i destekler, ancak bazı Çin Android modellerinde eSIM devre dışıdır—satın almadan önce modelinizi kontrol edin.
-- **Operatör kilidi olan telefonlar**: ABD operatör kilidi olan telefonlar eSIM'i de kilitleyebilir; satın almadan önce kilidi açın.
-- **Yalnızca eSIM modelleri** (ABD iPhone 14+): Fiziksel SIM yuvası yok, aslında eSIM için en uygunudur.
-- **Çift SIM çift bekleme**: Ev kartınızı ve Japonya eSIM'ini aynı anda tutabilirsiniz—biri doğrulama kodları için, diğeri veri için.
+- **Avrupa'da ya da ABD'de alınan cihazlar**: neredeyse hepsi eSIM'i zaten halleder — ayarlanacak bir şey yok.
+- **Çinli iPhone'lar / Çinli Android'ler**: gerçek tek tuzak. Apple, ana kara Çin cihazlarında eSIM'i yalnızca iPhone 18 Pro, 18 Pro Max, 17e ve iPhone Air için açar ve Hong Kong/Makau iPhone'larının çoğu, hiç eSIM'i olmayan çift fiziksel SIM olarak gelir. Bir kısım Çinli Android modeli bu özellik kapalı gelir. Ödemeden önce Apple'ın uyumluluk sayfasına ya da bizim [eSIM uyumlu cihazlar listemize](/compatibility/) göre doğrulayın.
+- **Operatör kilitli cihazlar**: bir ABD operatör kilidi eSIM yuvasını da kapsayabilir, bu yüzden telefonu önce açtırın.
+- **Yucasız modeller** (ABD iPhone 14 ve sonrası): değiştirilecek bir şey yok — bunun için inşa edildiler.
+- **Aynı anda iki hat**: kodlar için ev kartı, veri için Japonya eSIM'i, yan yana çalışır.
 
 ## Japonya eSIM SSS: Hızlı Cevaplar
 
-**S1: Japonya eSIM pasaport veya kayıt gerektirir mi?**
+**S1: Bir Japonya eSIM'i pasaport ya da kayıt gerektirir mi?**
 
-Hayır. Seyahat eSIM'leri yurtdışında verilir ve inişte çalışır—Japon yerel SIM'lerinin gerektirdiği pasaport kaydına gerek yoktur. Tek ihtiyacınız olan eSIM uyumlu bir telefon ve kalkıştan önce QR kodunu taramak.
+Hayır. Bir seyahat eSIM'i Japonya dışında satılır ve indinizde olduğu gibi çalışır — Japon yerel SIM'inin istediği pasaport evrakı yoktur. eSIM uyumlu bir telefon ve evde taranmış bir QR kodu gerekir.
 
 **S2: Japonya'da eSIM sinyali iyi mi?**
 
-Mükemmel. Japonya'da metro tünellerinde ve Shinkansen vagonlarında sinyal tekrarlayıcılar vardır, 5G nüfus kapsaması %95'in üzerindedir—Asya'da en üst seviye. "Sinyal yok" diye endişelenmenize neredeyse hiç gerek yok—bunun yerine "kaç GB'a ihtiyacım var" diye hesaplayın.
+Mükemmel. Japonya'da metro tünellerinde ve shinkansen vagonlarında sinyal tekrarlayıcıları vardır; 5G nüfus kapsaması %95 üzerindedir — Asya'nın zirvesi. "Sinyal yok" için neredeyse hiç endişelenmenize gerek yok — onun yerine "kaç GB gerekli"yi hesaplayın.
 
-**S3: Japonya'da pocket WiFi kiralamalı mıyım?**
+**S3: Japonya'da cep WiFi kiralamalı mıyım?**
 
-Hayır. Pocket WiFi şarj, teslim alma/iade, depozito gerektirir—günde ~$3.5-7, 7 gün için en az $25. Roami eSIM 7 gün 10GB sadece $7.99. eSIM daha ucuz, daha hafif ve fazladan cihaz yok.
+Hayır. Cep WiFi şarj, teslim/iade, depozito ister — yaklaşık 3,5-7 $/gün, 7 gün için en az 25 $. Roami eSIM 7 günlük 10GB yalnızca 7,99 $'dır. eSIM daha ucuz, daha hafif ve ekstra cihazsızdır.
 
-**S4: Japonya'da hangi operatör en iyi kapsamaya sahip?**
+**S4: Japonya'da hangi operatörün kapsaması en iyi?**
 
-NTT Docomo en geniş kapsama ve en hızlı 5G'ye sahiptir (Fuji Dağı ve uzak turistik yerlerde en kararlı); au (KDDI) Kansai'de güçlüdür; SoftBank dengelidir. En iyisini almak için çoklu ağ otomatik geçişli (Roami gibi) bir eSIM seçin.
+NTT Docomo en geniş kapsamaya ve en hızlı 5G'ye sahiptir (Fuji Dağı ve uzak turistik noktalarda en istikrarlı); au (KDDI) Kansai'de güçlüdür; SoftBank dengelidir. Hepsinin en iyisini almak için çok şebeke otomatik geçişli bir eSIM (Roami gibi) seçin.
 
-**S5: Japonya'da Google Çeviri ve Google Haritalar kullanılabilir mi?**
+**S5: Google Çeviri ve Google Maps Japonya'da kullanılabilir mi?**
 
-Evet ve bunlar Japonya'daki "can simidi uygulamalarınızdır". Menüler ve tabelalar neredeyse tamamen Japoncadır—Google Çeviri'nin kamera gerçek zamanlı çevirisi + Google Haritalar'ın karmaşık aktarmalar için kullanımı şarttır. Ancak bunlar aynı zamanda en büyük veri tüketicileridir—plan seçerken yeterli veri bırakın.
+Evet ve Japonya'daki "cankurtaran uygulamalarınız"dır. Menüler ve tabelalar neredeyse tamamen Japoncadır — karmaşık aktarmalar için Google Çeviri'nin kamera gerçek zamanlı çevirisi + Google Maps vazgeçilmezdir. Ama aynı zamanda en büyük veri tüketicileridirler — plan seçerken yeterli veri bırakın.
 
-**S6: Fuji Dağı ve Hakone'de eSIM sinyali iyi mi?**
+**S6: Fuji Dağı ve Hakone'da eSIM sinyali iyi mi?**
 
-İyi. Fuji Beş Gölü ve Hakone, Docomo'nun güçlü alanlarıdır ve iyi 5G kapsamasına sahiptir. Çoklu ağ geçişli bir eSIM otomatik olarak Docomo'ya bağlanır. Orman yolları için haritaları önceden önbelleğe alın.
+İyi. Fuji Beş Gölü ve Hakone, Docomo'nun güçlü alanlarıdır ve iyi 5G kapsamasına sahiptir. Çok şebeke geçişli bir eSIM, Docomo'ya otomatik bağlanır. Orman parkurları için haritaları önceden önbelleğe alın.
 
 **S7: Shinkansen'de sinyal var mı?**
 
-Evet. Japon Shinkansen vagonlarında genellikle sinyal tekrarlayıcılar bulunur—her yerde tam bar 5G, böylece yol boyunca video izleyebilir ve rehberlere göz atabilirsiniz. Bu, bazı rotalarda bağlantıyı kaybedebilen Almanya'nın ICE treninin tam tersidir.
+Evet. Japon shinkansen vagonları genellikle sinyal tekrarlayıcılarına sahiptir — tüm yol boyunca tam çubuklu 5G, yol boyunca video izleyebilir ve rehberlere göz atabilirsiniz. Bu, bazı hatlarda bağlantıyı kaybedebilen Almanya'nın ICE'sinin zıttıdır.
 
-**S8: Airalo Japonya eSIM iyi mi?**
+**S8: Airalo Japonya eSIM'i iyi mi?**
 
-Airalo, dünyanın en büyük eSIM platformudur, Japonya için ayrıntılı kademelere, hem sabit hem de sınırsız planlara sahiptir, Docomo/SoftBank'a bağlanarak kararlı şehir performansı sunar. Dezavantajı, sabit kademelerin nispeten pahalı olmasıdır—Roami'nin muadili iki katından daha ucuzdur.
+Airalo — burada **Moshi Moshi** markasıyla — pazardaki en büyük isimdir ve SoftBank ile KDDI (au) üzerinde hem sabit hem sınırsız, en geniş Japonya bant yelpazesini satar; şehir performansı istikrarlıdır. Zayıf noktası fiyattır: sabit bantlar, aynı hak için Roami'nin iki katından fazla çalışır ve 3,9 Trustpilot puanı yavaş desteğe işaret eder.
 
-**S9: Holafly Japonya eSIM sınırsız değer mi?**
+**S9: Holafly Japonya eSIM sınırsızlığına değer mi?**
 
-Süre ve kullanıma bağlıdır. Holafly Japonya yalnızca günde $3.90 ile sınırsız sunar. Kısa süreli yoğun kullanıcılar bunu düşünebilir, ancak Roami 7 gün sınırsız indirimli $15.19 (günlük $2.17) Holafly'den %44 daha ucuzdur.
+Süreye ve kullanıma bağlıdır. Holafly Japonya yalnızca 3,97 $/gün fiyattan sınırsız sunar. Kısa vadeli yoğun kullanıcılar düşünebilir, ama 15,19 $ indirimli (günlük 2,17 $) Roami 7 günlük sınırsız, Holafly'den %45 daha ucuzdur.
 
-**S10: Roami Japonya eSIM iyi bir değer mi?**
+**S10: Roami Japonya eSIM'i değer mi?**
 
-Kesinlikle. Roami Japonya hem sabit hem de sınırsız kademeler, çoklu ağ otomatik geçişi (Docomo/au/SoftBank) ve genel olarak en düşük indirimli fiyatları sunar—7 gün 10GB $7.99, Airalo'dan %53 daha ucuz; 30 gün 50GB $30.39, Holafly'den %74 daha ucuz.
+Son derece. Roami Japonya hem sabit hem sınırsız bantlar sunar, çok şebeke otomatik geçiş yapar (Docomo/au/SoftBank) ve genel olarak en düşük indirimli fiyatlara sahiptir — 7 günlük 10GB 7,99 $, Airalo'dan %53 daha ucuz; 30 günlük 50GB 30,39 $, Holafly'den %59 daha ucuz.
 
-**S11: Japonya eSIM hotspot paylaşabilir mi?**
+**S11: Bir Japonya eSIM'i hotspot paylaşabilir mi?**
 
-Markaya göre değişir. Roami sınırsız hotspot'u destekler; Airalo hotspot'u destekler; Holafly hotspot'u günde 1GB ile sınırlar. Aile/grup seyahatleri için Roami'yi önceliklendirin.
+Markaya bağlıdır. Roami sınır olmadan paylaşmanıza izin verir, Airalo tethering'e izin verir, Holafly paylaşımı 1GB/gün ile sınırlar. Aileyle mi seyahat ediyorsunuz ya da çantada tablet mi var? Roami'yi seçin.
 
-**S12: Japonya eSIM Güney Kore / Tayvan'da kullanılabilir mi?**
+**S12: Bir Japonya eSIM'i Güney Kore / Tayvan'da kullanılabilir mi?**
 
-Genellikle hayır. Japonya eSIM'leri genellikle yalnızca Japonya'nın yerel topraklarını kapsar; Güney Kore, Tayvan, Hong Kong vb. için ayrı ülke eSIM'leri veya Asya bölgesel planları gerekir. Gitmeden önce kapsamayı kontrol edin.
+Genellikle hayır. Japonya eSIM'leri genellikle yalnızca Japonya'nın yurt içi toprağını kapsar; Güney Kore, Tayvan, Hong Kong vb. ayrı ülke eSIM'leri ya da Asya bölgesel planları gerektirir. Gitmeden önce kapsamayı kontrol edin.
 
-**S13: Japonya yerel SIM vs eSIM—hangisi daha iyi?**
+**S13: Japonya yerel SIM vs eSIM — hangisi daha iyi?**
 
-İhtiyaçlara bağlıdır. Yerel SIM'ler (B-Mobile, IIJmio, vb.) ucuzdur ancak yerinde satın alma + pasaport kaydı + tek ağ gerektirir. eSIM inişte çalışır, çoklu ağ otomatik geçişi, kalkıştan önce kurulum. Kısa süreli turistler eSIM'i rahatlık için tercih eder; uzun konaklamalar tasarruf için yerel SIM'i tercih eder.
+Ne gerektiğinize indirgenir. Yerel bir kart (B-Mobile, IIJmio ve benzerleri) ucuzdur ama yerinde satın alma, pasaport kaydı ve kilitli tek bir şebeke anlamına gelir. Bir seyahat eSIM'i evde kurulur ve varışta çok şebeke geçişiyle canlıdır. Kısa ziyaretler eSIM'i favori eder; en düşük fiyatın peşinde koşan uzun konaklamalar yerel bir kartı tercih edebilir.
 
-**S14: Japonya eSIM günlük maliyeti ne kadardır?**
+**S14: Bir Japonya eSIM'i günlük ne kadara mal olur?**
 
-Roami indirimli fiyatları kullanarak: 7 gün 10GB ~$1.14/gün, 15 gün 20GB ~$0.96/gün, 30 gün 50GB ~$1.01/gün. Bu, Holafly'nin $3.90/gün'ünün ve pocket WiFi'nin $3.5-7/gün'ünün üçte ikisinden fazla daha ucuzdur.
+Roami'nin indirimli tarifeleriyle: 7 günlük 10GB'de yaklaşık 1,14 $/gün, 15 günlük 20GB'de 0,96 $/gün ve 30 günlük 50GB'de 1,01 $/gün — Holafly'nin 3,97 $/gün ücretinin kabaca üçte biri ve cep WiFi'nin kiraladığı 3,5–7 $/gün'ün çok altında.
 
-**S15: Japonya'da 1GB ne kadar dayanır?**
+**S15: 1GB Japonya'da ne kadar sürer?**
 
-Yaklaşık 20 saat Google Çeviri menü taraması + Google Haritalar navigasyonu, ancak yalnızca yaklaşık 1 saat kısa video. Minimum kullanıcılar (çeviri + metin navigasyonu) 1GB'ı 3-5 gün uzatabilir; günlük çeviri ve video izliyorsanız 10GB ile başlayın.
+Kabaca 20 saatlik menülere doğrultulan Google Çeviri artı Google Maps navigasyonu — ve yaklaşık bir saatlik kısa video. Yalnızca çeviri yapar ve mesajlaşırsanız 1GB 3–5 gün sürebilir; her gün çeviri yapar ve yayın yaparsanız 10GB'dan başlayın.
 
-**S16: Japonya eSIM'imin sinyali yoksa ne yapmalıyım?**
+**S16: Japonya eSIM'im sinyal vermiyorsa ne yapmalıyım?**
 
-Önce "Veri Dolaşımı"nın etkin olup olmadığını kontrol edin; telefonu yeniden başlatın; "Ağ Seçimi"ne gidin ve manuel olarak Docomo, au veya SoftBank'ı seçin. Japonya'nın sinyali genellikle mükemmeldir—yeniden başlatma genellikle düzeltir. Çok az orman yolunda, çevrimdışı haritaları indirin.
+Veri Dolaşımı anahtarıyla başlayın, yeniden başlatın, sonra "Şebeke Seçimi" altından Docomo, au ya da SoftBank'ı elle seçin. Japon kapsaması mükemmeldir, bu yüzden yeniden başlatma genellikle çözer; yalnızca birkaç orman parkurunda çevrimdışı haritaya ihtiyacınız olur.
 
 **S17: Kısa bir Tokyo + Kyoto gezisi için ne kadar veri gerekir?**
 
-7 günlük iki şehir gezisi için Shinkansen gidiş-dönüş, Google Çeviri menüler + Haritalar aktarmalar + fotoğraflar, 5-10GB yeterlidir. Roami 7 gün 10GB indirimli $7.99 en iyi değerdir—pocket WiFi fiyatının yarısından fazlası.
+Shinkansen gidiş dönüşlü 7 günlük bir iki şehir gezisinde Google Çeviri menüleri + Maps aktarmaları + fotoğraflar için 5-10GB yeterlidir. 7,99 $ indirimli Roami 7 günlük 10GB en iyi değerdir — cep WiFi fiyatının yarısından fazlasını kazandırır.
 
-## Japonya eSIM: Son Tavsiye
+## Japonya eSIM: Nihai Tavsiye
 
-| Senaryo | Önerilen Marka | Önerilen Plan | Maliyet (İndirimli) | Ana Neden |
+| Senaryo | Önerilen Marka | Önerilen Plan | Maliyet (İndirimli) | Ana Sebep |
 |------|---------|---------|-------------|---------|
-| Tokyo 3 gün hafta sonu | Roami | 3GB/3 gün | $2.39 | Metroda tam bar 5G, en ucuz sabit kademe |
-| Tokyo 5 gün derinlemesine | Roami | 5GB/7 gün | $4.79 | Çoklu ağ geçişi, pocket WiFi'den %70 daha ucuz |
-| Kansai 6 gün gezi | Roami | 10GB/7 gün | $7.99 | Google Çeviri menü taraması en çok veriyi tüketir |
-| Shinkansen çok şehirli 8 gün | Roami | 20GB/7 gün | $13.59 | Vagonlarda tam bar 5G, yol boyunca video izleyin |
-| Fuji Dağı Hakone 4 gün | Roami | 5GB/7 gün | $4.79 | Otomatik olarak Docomo'ya geçer, Fuji Beş Gölü çevresinde en kararlı |
-| Hokkaido 7 gün | Roami | 10GB/7 gün | $7.99 | Mükemmel şehir 5G'si, birçok fotoğraf yüklemesi |
-| Aile gezisi 7 gün | Roami | 20GB/7 gün | $13.59 | Sınırsız hotspot, tüm aile için tek eSIM paylaşın |
-| Yoğun video izleme 7 gün | Roami | Sınırsız/7 gün | $15.19 | 20GB'dan sadece $1.60 daha fazla—tereddüt etmeden sınırsıza geçin |
-| Uzun konaklama 30 gün | Roami | 50GB/30 gün | $30.39 | $0.61/GB, en iyi tam ay çözümü |
-| En sıkı bütçe 7 gün | Roami | 1GB/7 gün | $1.59 | Genel olarak en düşük fiyat, çeviri + metin için yeterli |
+| Tokyo 3 günlük hafta sonu | Roami | 3GB/3 gün | 2,39 $ | Metronun içinde tam çubuklu 5G, en ucuz sabit bant |
+| Tokyo 5 günlük derinlemesine | Roami | 5GB/7 gün | 4,79 $ | Çok şebeke geçişi, cep WiFi'den %70 ucuz |
+| Kansai 6 günlük gezi | Roami | 10GB/7 gün | 7,99 $ | Google Çeviri menü taraması en çok veri tüketir |
+| Shinkansen çok şehirli 8 gün | Roami | 20GB/7 gün | 13,59 $ | Vagonlarda tam çubuklu 5G, yol boyunca video |
+| Fuji Dağı Hakone 4 gün | Roami | 5GB/7 gün | 4,79 $ | Docomo'ya otomatik geçer, Fuji Beş Gölü çevresinde en istikrarlı |
+| Hokkaido 7 gün | Roami | 10GB/7 gün | 7,99 $ | Mükemmel şehir 5G, çok fotoğraf yükleme |
+| Aile gezisi 7 gün | Roami | 20GB/7 gün | 13,59 $ | Sınırsız hotspot, tüm aile tek eSIM paylaşır |
+| Yoğun video yayın 7 gün | Roami | Sınırsız/7 gün | 15,19 $ | 20GB'den yalnızca 1,60 $ daha fazla — tereddütsüz sınırsız |
+| 30 günlük uzun konaklama | Roami | 50GB/30 gün | 30,39 $ | 0,61 $/GB, en iyi tam ay çözümü |
+| En katı bütçe 7 gün | Roami | 1GB/7 gün | 1,59 $ | Genel olarak en düşük fiyat, çeviri + metin için yeterli |
 
-Hala emin değil misiniz? [Tüm Roami Japonya eSIM planlarını görüntüle →](/japan-esim/)
+Hâlâ emin değil misiniz? [Tüm Roami Japonya eSIM planlarını görüntüleyin →](/japan-esim/)
 
-## Japonya eSIM'inizden En İyi Şekilde Yararlanma
+## Japonya eSIM'inizden En İyi Şekilde Yararlanmak
 
-- **Kalkıştan önce kurun, inişte kullanın**: Kalkıştan önce WiFi ile kurun; inişte Veri Dolaşımı'nı etkinleştirin ve hemen bağlanın—ilk dakikada Google Çeviri ile yemek sipariş etmeye başlayın.
-- **"Veri Dolaşımı"nı açmayı unutmayın**: En yaygın aktivasyon başarısızlığı—birçok kullanıcı bu anahtarı unutur.
-- **Önce Google Çeviri ve Haritalar'ı yükleyin**: Bunlar Japonya'daki can simidi uygulamalarınızdır. Kalkıştan önce yükleyin ve oturum açın, böylece inişte hazır olurlar.
-- **Pocket WiFi kiralamayın**: Şarj, teslim alma/iade ve depozito gerektiren bir cihaz—eSIM fiyatının 3-4 katı—tamamen atalet harcaması.
-- **Çevrimdışı çeviri paketlerini + çevrimdışı haritaları indirin**: Kalkıştan önce, aşırı durumlar için yedek olarak Japonca çevrimdışı çeviri paketini ve gidilecek yerlerin çevrimdışı haritalarını indirin.
-- **Doğrulama kodları için ev SIM'ini saklayın**: Banka ve kredi kartı doğrulama kodları ev numaranıza gelir—bunun için Japon yerel numarası satın almanıza gerek yok.
-- **Hotspot paylaşımı için doğru markayı seçin**: Aile/grup seyahatleri için Roami (sınırsız) veya Airalo (desteklenir) seçin; Holafly'den (günde 1GB sınır) kaçının.
-- **QR kodunuzun ekran görüntüsünü kaydedin**: E-postayı kaybedip yeniden yüklemeniz gerekirse diye QR kodunu fotoğraf galerinize veya buluta kaydedin.
+- **Evde kurun, yurtdışında açın**: kendi WiFi'nizde kurulum yapın, inişten sonra Veri Dolaşımını çevirin — bir dakika içinde Google Çeviri üzerinden öğle yemeği sipariş edebiliyor olursunuz.
+- **Veri Dolaşımı her zamanki suçludur**: profil ölü görünüyorsa, neden neredeyse her zaman bu anahtardır.
+- **Gitmeden önce Çeviri ve Maps'i yükleyin**: Japonya'nın üzerine kurulduğu iki uygulama bunlardır. Evde kurup giriş yapın, böylece kapıda hazır olsunlar.
+- **Cep WiFi'yi geride bırakın**: şarj etmeyi, teslim almayı, iade etmeyi ve depozito gerektiren, üç-dört kat fiyatlı bir kutu, saf alışkanlıktır.
+- **Sigorta olarak çevrimdışı paketleri indirin**: Japon çevrimdışı çeviri paketini ve şehirlerinizin haritalarını alın — orman parkurları ve tüneller için ucuz koruma.
+- **Kodlar için ev SIM'inizi tutun**: banka ve kart doğrulama metinleri hâlâ ev numaranıza gelir, bu yüzden bunun için Japon numarasına asla ihtiyacınız olmaz.
+- **Satın almadan önce hotspot'u düşünün**: gruplar Roami (sınırsız) ya da Airalo (tethering izinli) ile en iyi sonucu alır; Holafly'nin 1GB/gün sınırı bir aileyi bunaltır.
+- **QR kodun fotoğrafını çekin**: albümünüzde ya da bulut sürücünüzde bir kopya, kaybolan bir e-postanın sizi asla açıkta bırakmamasını sağlar.
+
+## Japonya eSIM'inizi İkinci Bir Durakla Eşleştirmek
+
+Bir Japonya seyahati sık sık ikinci bir destinasyonla eşleşir. Ülkeden ülkeye değişen şey şunlardır:
+
+- Birleşik Krallık gelirse, [Brexit sonrası Birleşik Krallık eSIM kurallarına](/blog/airalo-uk-esim-guide/) bakın.
+- Asya'ya mı devam ediyorsunuz? [Çin'in uluslararası uygulamalar için eSIM yönlendirmesini](/blog/airalo-china-esim-guide/) okuyun.
+- Bir Avrupa bacağı için [İspanya eSIM rehberimiz](/blog/airalo-spain-esim-guide/) planları yan yana karşılaştırır.
 
 ## Referanslar ve Kaynaklar
 
 | Kuruluş | Amaç | Bağlantı |
 |------|------|------|
-| MIC  | Japonya telekom düzenlemesi / kayıt politikası | https://www.soumu.go.jp/ |
-| Opensignal | Japonya 5G kapsaması / mobil deneyim | https://www.opensignal.com/ |
-| Ookla Speedtest | Japonya mobil ağ hızı | https://www.speedtest.net/global-index/japan |
-| GSMA | eSIM endüstri standartları | https://www.gsma.com/ |
+| MIC | Japonya telekom düzenlemesi / kayıt politikası | [soumu.go.jp/english](https://www.soumu.go.jp/english/) |
+| Ookla Speedtest | Japonya mobil şebeke hızı | [Speedtest Global Index – Japan](https://www.speedtest.net/global-index/japan) |
+| GSMA | eSIM sektör standartları | [GSMA eSIM şartnamesi](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| Apple | eSIM cihaz desteği | [Apple eSIM desteği](https://support.apple.com/en-us/109317) |
 
-*Fiyatlandırma verileri Eylül 2026 itibarıyladır; gerçek zamanlı güncellemeler için her markanın resmi web sitesine bakın. Bu makale yalnızca bilgilendirme amaçlıdır ve satın alma tavsiyesi teşkil etmez.*
+*Fiyatlandırma verileri Eylül 2026 itibarıyla; güncel bilgiler için her markanın resmi web sitesine başvurun. Bu makale bilgilendirme amaçlıdır ve satın alma tavsiyesi teşkil etmez.*

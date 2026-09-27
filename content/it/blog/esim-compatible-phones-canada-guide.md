@@ -1,240 +1,244 @@
 ---
-title: "Telefoni eSIM Compatibili in Canada: Lista Completa"
-description: "Telefoni compatibili con eSIM Roami in Canada: lista completa dei dispositivi, verifica EID e rimozione del blocco operatore."
-keywords: ["telefoni compatibili eSIM Canada", "verifica EID eSIM Canada", "lista telefoni eSIM Canada", "blocco operatore eSIM Canada", "iPhone Samsung eSIM Canada"]
-date: 2026-09-13T00:00:00Z
-lastmod: 2026-09-13T00:00:00Z
+title: "Telefoni compatibili eSIM in Canada: elenco completo dei dispositivi"
+description: "eSIM Canada di Roami: telefoni compatibili, elenco completo dei dispositivi, verifica EID, rimozione del blocco operatore e insidie regionali da tenere d'occhio."
+keywords: ["telefoni compatibili eSIM Canada", "verifica EID eSIM Canada", "elenco telefoni eSIM Canada", "blocco operatore eSIM Canada", "iPhone Samsung eSIM Canada"]
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offre piani eSIM affidabili, servendo oltre 1 milione di viaggiatori all'anno, e supporta la commutazione automatica della rete locale per aiutare i viaggiatori a rimanere connessi in tutto il mondo."
+authorBio: "Roami offre piani eSIM affidabili, servendo oltre 1 milione di viaggiatori ogni anno, e supporta il passaggio automatico alle reti locali per aiutare i viaggiatori a restare connessi in tutto il mondo."
 image: "/img/esim/canada/canada-esim-compatible-phones.jpg"
 categories: ["eSIM", "Viaggi", "Canada"]
-tags: ["Canada eSIM"]
+tags: ["eSIM Canada"]
 readingTime: 7
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Telefoni Compatibili con eSIM in Canada: Lista Completa dei Dispositivi & Come Verificare il Tuo EID"
+h1title: "Telefoni compatibili eSIM in Canada: elenco completo dei dispositivi e come verificare il tuo EID"
 
 # Sidebar module titles
-productsTitle: "Piani eSIM Popolari"
-hotPostsTitle: "Articoli Popolari"
-recentPostsTitle: "Articoli Recenti"
+productsTitle: "Piani eSIM popolari"
+hotPostsTitle: "Articoli popolari"
+recentPostsTitle: "Articoli recenti"
 
 # Right sidebar products (6 items)
 products:
   - name: "eSIM USA"
     flag: "/img/flags/us.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: false
     slug: "united-states"
   - name: "eSIM Giappone"
     flag: "/img/flags/jp.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: false
     slug: "japan"
   - name: "eSIM Europa"
     flag: "/img/flags/eu.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: true
     slug: "europe"
   - name: "eSIM Corea del Sud"
     flag: "/img/flags/kr.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: false
     slug: "south-korea"
   - name: "eSIM Thailandia"
     flag: "/img/flags/th.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: false
     slug: "thailand"
   - name: "eSIM Hong Kong"
     flag: "/img/flags/hk.svg"
-    price: "Da $1.99"
+    price: "Da $1,99"
     is_highlight: false
     slug: "hong-kong"
 
 # Recent posts (sidebar)
 recentPosts:
-  - title: "Guida Approfondita alla Risoluzione dei Problemi eSIM (16 Casi Reali)"
+  - title: "Guida avanzata alla risoluzione dei problemi eSIM (16 casi reali)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
-  - title: "Trasferimento eSIM Cross-Platform 2026"
+  - title: "Trasferimento eSIM multipiattaforma 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Non Funziona? 12 Soluzioni per iPhone"
+  - title: "La doppia eSIM non funziona? 12 soluzioni per iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "eSIM iPad & Apple Watch: Guida Completa"
+  - title: "eSIM iPad e Apple Watch: guida completa"
     permalink: "/faq/ipad-apple-watch-esim-support-guide/"
     date: "2026-05-23"
-  - title: "Guida alla Compatibilità eSIM iPhone SE"
+  - title: "Guida alla compatibilità eSIM dell'iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Guida Completa alla Configurazione eSIM iPhone 11"
+  - title: "Guida completa alla configurazione dell'eSIM su iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "Guida Definitiva 2026: Soluzioni per l'Attivazione eSIM iPhone 16"
+  - title: "Guida definitiva 2026: soluzioni di attivazione eSIM iPhone 16"
     permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
-## Risposta Rapida: Il Tuo Telefono Supporta la eSIM?
+Prima di comprare qualsiasi eSIM Canada, dovresti confermare che il tuo telefono abbia davvero l'hardware SIM integrato, perché la risposta non è così ovvia come sembra. La maggior parte dei telefoni venduti dal 2018 o 2020 supporta l'eSIM, ma ci sono importanti eccezioni regionali e degli operatori, e un blocco dell'operatore impedirà l'installazione di qualsiasi profilo di viaggio, non importa quanto capace sia il dispositivo. Il controllo più rapido richiede una trentina di secondi. I passaggi qui sotto attraversano il codice di composizione EID e i percorsi dei menù per iPhone, Samsung e Google Pixel, poi coprono le insidie regionali e la rimozione del blocco dell'operatore.
 
-**Verifica più veloce:** Apri il dialer, digita `*#06#` e cerca **EID** (un codice di 32 cifre).
+## Risposta rapida: il tuo telefono supporta l'eSIM?
+
+**Controllo più rapido:** apri il tastierino, digita `*#06#` e cerca **EID** (un codice a 32 cifre).
 
 - **EID presente** → il tuo telefono ha l'hardware eSIM.
-- **Solo IMEI, nessun EID** → il tuo telefono non supporta la eSIM.
+- **Solo IMEI, nessun EID** → il tuo telefono non supporta l'eSIM.
 
-**Verifica dalle Impostazioni:**
+**Controllo nelle impostazioni:**
 - **iPhone:** Impostazioni → Generali → Info → cerca "SIM disponibile" o "Blocco operatore".
-- **Samsung:** Impostazioni → Connessioni → Gestione SIM → cerca "Aggiungi eSIM".
-- **Google Pixel:** Impostazioni → Rete e Internet → SIM → cerca "Scaricare invece una SIM?"
+- **Samsung:** Impostazioni → Connessioni → Gestore SIM → cerca "Aggiungi eSIM".
+- **Google Pixel:** Impostazioni → Rete e Internet → SIM → cerca "Scaricare una SIM invece?"
 
-**La maggior parte dei telefoni dal 2018–2020 supporta la eSIM**, ma ci sono eccezioni regionali e degli operatori critiche. Questa guida copre oltre 40 dispositivi, insidie delle versioni regionali, rimozione del blocco operatore canadese e cosa fare se il tuo telefono non supporta la eSIM.
+**La maggior parte dei telefoni dal 2018–2020 in poi supporta l'eSIM**, ma ci sono eccezioni critiche regionali e degli operatori. Questa guida copre 40+ dispositivi, le insidie delle versioni regionali, la rimozione del blocco degli operatori canadesi e cosa fare se il tuo telefono non supporta l'eSIM.
 
-**Vuoi testare prima la copertura?** Prova una [prova eSIM gratuita](/free-esim/) o un [piano eSIM Canada Roami](/canada-esim/) da **$1.99** per confermare la compatibilità sul tuo modello esatto. I nuovi utenti ottengono il **20% di sconto** con il codice `web20`, con il **supporto umano 24/7** di Roami per assistenza alla configurazione.
+**Vuoi testare prima la copertura?** Prova una [eSIM di prova gratuita](/free-esim/) o un [piano eSIM Canada di Roami](/canada-esim/) da **$1,99** per confermare la compatibilità sul tuo modello esatto. I nuovi utenti ottengono il **20% di sconto** con il codice `web20`, con l'**assistenza umana 24/7** di Roami per aiuto nella configurazione.
 
-Se il tuo telefono supporta la eSIM, il passo successivo è l'installazione. Consulta la nostra [guida alla configurazione passo-passo](/blog/how-to-get-esim-in-canada-guide/). Se hai prima bisogno di un confronto tra fornitori, consulta il nostro [Database dei fornitori eSIM Canada](/blog/canada-esim-comparison-2026/).
+Se il tuo telefono supera i controlli qui sopra, il passo successivo è l'installazione. Vedi la nostra [guida alla configurazione passo a passo](/blog/how-to-get-esim-in-canada-guide/). Se prima ti serve un confronto tra fornitori, vedi il nostro [database fornitori eSIM Canada](/blog/canada-esim-comparison-2026/).
 
-## Verifica EID eSIM Canada in 30 Secondi
+## Verifica EID eSIM Canada in 30 secondi
 
-Prima di acquistare qualsiasi eSIM, conferma che il tuo telefono abbia l'hardware eSIM. Il metodo più veloce funziona sia su iPhone che su Android.
+Prima di acquistare, conferma che il telefono abbia l'hardware SIM integrato. Il metodo più rapido funziona sia su iPhone sia su Android.
 
-### Digita `*#06#` per Verificare l'EID
+### Componi `*#06#` per verificare l'EID
 
-1. Apri il **dialer**.
+1. Apri il **tastierino**.
 2. Digita **`*#06#`**.
-3. Cerca **EID** (eSIM Identifier), un codice di 32 cifre.
+3. Cerca **EID** (Identificatore eSIM), un codice a 32 cifre.
 
-**Se vedi EID:** il tuo telefono ha l'hardware eSIM.  
-**Se vedi solo IMEI:** il tuo telefono non supporta la eSIM.
+**Se vedi l'EID:** il tuo telefono ha l'hardware eSIM.  
+**Se vedi solo l'IMEI:** il tuo telefono non supporta l'eSIM.
 
-**Cosa vedrai:** Su iPhone, l'EID appare sotto l'IMEI. Su Samsung, può apparire come "EID" o "eSIM ID". Se vedi solo due numeri IMEI (IMEI1 e IMEI2), il tuo telefono non ha l'hardware eSIM.
+**Cosa vedrai:** su iPhone, l'EID compare sotto l'IMEI. Su Samsung, può comparire come "EID" o "eSIM ID". Se vedi solo due numeri IMEI (IMEI1 e IMEI2), all'interno non c'è hardware SIM integrato.
 
-### Verifica le Impostazioni eSIM per Marca di Telefono
+### Verifica le impostazioni eSIM in base alla marca del telefono
 
 - **iPhone:** Impostazioni → Generali → Info → cerca "SIM disponibile" o "Blocco operatore".
-- **Samsung:** Impostazioni → Connessioni → Gestione SIM → cerca "Aggiungi eSIM".
-- **Google Pixel:** Impostazioni → Rete e Internet → SIM → cerca "Scaricare invece una SIM?"
+- **Samsung:** Impostazioni → Connessioni → Gestore SIM → cerca "Aggiungi eSIM".
+- **Google Pixel:** Impostazioni → Rete e Internet → SIM → cerca "Scaricare una SIM invece?"
 - **Altre marche Android:** cerca "eSIM" nelle Impostazioni.
 
-Se vedi l'opzione, il tuo telefono supporta la eSIM. In caso contrario, controlla le note regionali nelle tabelle sottostanti — alcuni modelli hanno l'hardware eSIM ma è disabilitato dall'operatore o mancante in alcune versioni regionali.
+Vedere l'opzione significa che il telefono è compatibile. Se non la vedi, controlla le note regionali nelle tabelle qui sotto—alcuni modelli hanno l'hardware ma è disattivato dall'operatore o assente in certe versioni regionali.
 
-### Verifica lo Stato del Blocco Operatore
+### Verifica lo stato del blocco operatore
 
-Anche se il tuo telefono supporta la eSIM, deve essere sbloccato dall'operatore.
+Anche un telefono completamente compatibile deve essere sbloccato dall'operatore.
 
 - **iPhone:** Impostazioni → Generali → Info → **Blocco operatore** dovrebbe dire "Nessuna restrizione SIM".
-- **Android:** Impostazioni → Info sul telefono → Stato → controlla lo stato della rete/SIM.
+- **Android:** Impostazioni → Info sul telefono → Stato → controlla lo stato rete/SIM.
 
-In Canada, la CRTC richiede a Bell, Rogers, Telus e Freedom Mobile di sbloccare i dispositivi gratuitamente. Consulta il [CRTC Wireless Code](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
+In Canada, il CRTC obbliga Bell, Rogers, Telus e Freedom Mobile a sbloccare i dispositivi gratuitamente. Vedi il [Codice wireless del CRTC](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
 
-**Importante:** Gli iPhone venduti in Cina continentale e Hong Kong non supportano la eSIM, con solo due eccezioni lì — **iPhone 17e (modello A3635)** e **iPhone Air (modello A3518)**. Tutti gli altri modelli iPhone della Cina continentale non possono utilizzarla.
+**Importante:** gli iPhone venduti nella Cina continentale in genere non supportano l'eSIM. Secondo la [documentazione ufficiale di Apple](https://support.apple.com/en-us/109317), le uniche eccezioni della Cina continentale sono **iPhone 18 Pro, iPhone 18 Pro Max, iPhone 17e (modello A3635) e iPhone Air (modello A3518)**. A Hong Kong e Macao, certi modelli di iPhone vengono venduti con due slot nano-SIM invece del supporto eSIM. Verifica sempre il tuo numero di modello esatto.
 
-## Perché la Compatibilità eSIM è Importante in Canada
+## Perché la compatibilità eSIM conta in Canada
 
-### La eSIM è Hardware, Non Software
+### L'eSIM è hardware, non software
 
-La eSIM richiede un **chip eUICC** (embedded Universal Integrated Circuit Card) integrato nel telefono. Questo chip è separato dallo slot SIM fisico. La [GSMA](https://www.gsma.com/esim/) sviluppa specifiche eSIM globali per garantire l'interoperabilità tra dispositivi e operatori.
+L'eSIM richiede un **chip eUICC** (Universal Integrated Circuit Card integrato) costruito nel telefono. Questo chip è separato dallo slot per la SIM fisica. La [GSMA](https://www.gsma.com/esim/) sviluppa le specifiche eSIM globali per garantire l'interoperabilità tra dispositivi e operatori.
 
 Questo significa:
-- Un aggiornamento software non può aggiungere la eSIM se manca l'hardware.
-- Lo stesso modello di telefono può avere un supporto eSIM diverso in regioni diverse.
-- Gli operatori possono disabilitare la eSIM tramite blocchi software, anche quando l'hardware esiste.
+- Un aggiornamento software non può aggiungere l'eSIM se manca l'hardware.
+- Lo stesso modello può supportare la tecnologia in una regione ma non in un'altra.
+- Gli operatori possono disattivare l'eSIM con blocchi software, anche quando l'hardware esiste.
 
-### Cambiamenti eSIM 2026 che Dovresti Conoscere
+### Modifiche eSIM del 2026 che dovresti conoscere
 
-**I telefoni eSIM-only sono ormai mainstream.**
-- **iPhone 17 Air:** eSIM-only a livello globale.
-- **iPhone 17 / 17 Pro / 17 Pro Max / 17e:** eSIM-only in 12 paesi, inclusi USA, Canada, Giappone, Messico, Arabia Saudita, UAE, Bahrein, Kuwait, Oman, Qatar, Guam e Isole Vergini Americane.
-- **iPhone 14–16 (versioni USA):** eSIM-only. Le versioni canadesi di iPhone 14, 15 e 16 mantengono il vassoio SIM fisico.
-- **Google Pixel 10 (versione USA):** eSIM-only.
-- **Samsung Galaxy S26 (alcuni mercati):** in transizione verso eSIM-only.
+**I telefoni solo eSIM sono ormai mainstream.**
+- **iPhone 17 Air:** solo eSIM a livello globale.
+- **iPhone 17 / 17 Pro / 17 Pro Max / 17e:** solo eSIM in 12 paesi, tra cui USA, Canada, Giappone, Messico, Arabia Saudita, Emirati Arabi Uniti, Bahrein, Kuwait, Oman, Qatar, Guam e Isole Vergini Americane.
+- **iPhone 14–16 (versioni USA):** solo eSIM. Le versioni canadesi di iPhone 14, 15 e 16 mantengono il vassoio per la SIM fisica.
+- **Google Pixel 10 (versione USA):** solo eSIM.
+- **Samsung Galaxy S26 (alcuni mercati):** in movimento verso il solo eSIM.
 
-**Correzione importante:** Le versioni canadesi di iPhone 14, iPhone 15 e iPhone 16 hanno un vassoio SIM fisico. Solo la serie iPhone 17 canadese è eSIM-only. Questa è una fonte comune di confusione in molte guide online.
+**Correzione importante:** le versioni canadesi di iPhone 14, iPhone 15 e iPhone 16 hanno un vassoio per la SIM fisica. Solo la serie iPhone 17 canadese è solo eSIM. Questa è una fonte comune di confusione in molte guide online.
 
-**I telefoni di fascia media ora supportano la eSIM.**
-La serie Samsung A (A54, A55, A56, A57) e la serie Google Pixel a (8a, 9a, 10a) ora supportano la eSIM.
+**I telefoni di fascia media ora supportano l'eSIM.**
+La serie A di Samsung (A54, A55, A56, A57) e la serie a di Google Pixel (8a, 9a, 10a) ora supportano l'eSIM.
 
-**Le differenze regionali rimangono enormi.**
-Lo stesso telefono può supportare la eSIM in Canada ma non in Cina continentale, Taiwan o Corea. Conferma sempre la versione regionale esatta.
+**Le differenze regionali restano enormi.**
+Lo stesso telefono può supportare l'eSIM in Canada ma non nella Cina continentale, a Taiwan o in Corea. Conferma sempre la versione regionale esatta.
 
-**Una nota sulle nostre fonti:** Le informazioni sulla compatibilità dei dispositivi di seguito si basano su documentazione pubblicamente disponibile dei produttori, specifiche GSMA e segnalazioni degli utenti da comunità come Reddit. Non presentiamo le nostre affermazioni di test.
+**Una nota sulle nostre fonti:** le informazioni di compatibilità dei dispositivi qui sotto si basano su documentazione pubblica dei produttori — inclusa la [pagina ufficiale di supporto eSIM di Apple](https://support.apple.com/en-us/109317) — sulle specifiche GSMA e sulle segnalazioni degli utenti di community come Reddit. Non presentiamo affermazioni di test nostri.
 
-### eSIM vs SIM Fisica: Cosa Significano i Termini
+### eSIM vs SIM fisica: cosa significano i termini
 
-Prima di acquistare, è utile conoscere gli identificatori che vedrai sul tuo telefono:
+Prima di acquistare, aiuta conoscere gli identificatori che vedrai sul tuo telefono:
 
-- **IMEI (International Mobile Equipment Identity):** un numero di 15 cifre che identifica il dispositivo fisico. Un telefono ha un IMEI per slot SIM.
-- **EID (eSIM Identifier):** un numero di 32 cifre che identifica il chip eUICC integrato. Se il tuo telefono ha un EID, ha l'hardware necessario.
-- **ICCID (Integrated Circuit Card Identifier):** il numero di serie di uno specifico profilo SIM — fisico o integrato.
-- **Blocco operatore:** una restrizione software che lega un telefono a una rete fino allo sblocco.
-- **Dual SIM:** l'esecuzione di due linee contemporaneamente, di solito una nano-SIM fisica più un profilo integrato, o due profili integrati.
+- **IMEI (International Mobile Equipment Identity):** un numero a 15 cifre che identifica il dispositivo fisico. Un telefono ha un IMEI per ogni slot SIM.
+- **EID (eSIM Identifier):** un numero a 32 cifre che identifica il chip eUICC integrato. Se il tuo telefono ha un EID, ha l'hardware necessario.
+- **ICCID (Integrated Circuit Card Identifier):** il numero di serie di un profilo SIM specifico — fisico o integrato.
+- **Blocco operatore:** una restrizione software che lega un telefono a una rete fino a quando non viene sbloccato.
+- **Dual SIM:** gestire due linee contemporaneamente, di solito una nano-SIM fisica più un profilo integrato, o due profili integrati.
 
-Conoscere questi termini rende le verifiche di compatibilità di seguito più veloci da seguire e ti aiuta a leggere le note sulle versioni regionali senza confusione.
+Conoscere questi termini rende i controlli di compatibilità qui sotto più veloci da seguire, e ti aiuta a leggere le note sulle versioni regionali senza confusione.
 
 ## Compatibilità eSIM iPhone e iPad
 
-### Modelli iPhone che Supportano la eSIM
+### Modelli iPhone che supportano l'eSIM
 
-Ogni iPhone da iPhone XR (2018) supporta la eSIM.
+Ogni iPhone dalla XR (2018) in poi include il chip SIM integrato.
 
-| Modello iPhone | Supporto eSIM | SIM Fisica | Note Regionali |
+| Modello iPhone | Supporto eSIM | SIM fisica | Note regionali |
 |--------------|--------------|--------------|----------------|
-| iPhone 17 Air | ✅ Sì | ❌ Nessuna | eSIM-only a livello globale |
-| iPhone 17 / Pro / Pro Max / 17e | ✅ Sì | ❌ Nessuna in 12 paesi | eSIM-only in USA, Canada, Giappone, Messico e altri |
-| iPhone 16 / Plus / Pro / Pro Max / 16e | ✅ Sì | ⚠️ Nessuna sulla versione USA | Versione USA eSIM-only; **versione Canada ha SIM fisica** |
-| iPhone 15 / Plus / Pro / Pro Max | ✅ Sì | ⚠️ Nessuna sulla versione USA | Versione USA eSIM-only; **versione Canada ha SIM fisica** |
-| iPhone 14 / Plus / Pro / Pro Max | ✅ Sì | ⚠️ Nessuna sulla versione USA | Versione USA eSIM-only; **versione Canada ha SIM fisica** |
+| iPhone 17 Air | ✅ Sì | ❌ Nessuna | Solo eSIM a livello globale |
+| iPhone 17 / Pro / Pro Max / 17e | ✅ Sì | ❌ Nessuna in 12 paesi | Solo eSIM in USA, Canada, Giappone, Messico e altri |
+| iPhone 16 / Plus / Pro / Pro Max / 16e | ✅ Sì | ⚠️ Assente nella versione USA | Versione USA solo eSIM; **versione Canada ha SIM fisica** |
+| iPhone 15 / Plus / Pro / Pro Max | ✅ Sì | ⚠️ Assente nella versione USA | Versione USA solo eSIM; **versione Canada ha SIM fisica** |
+| iPhone 14 / Plus / Pro / Pro Max | ✅ Sì | ⚠️ Assente nella versione USA | Versione USA solo eSIM; **versione Canada ha SIM fisica** |
 | iPhone 13 / Mini / Pro / Pro Max | ✅ Sì | ✅ Sì | Dual SIM: nano-SIM + eSIM |
 | iPhone 12 / Mini / Pro / Pro Max | ✅ Sì | ✅ Sì | Dual SIM: nano-SIM + eSIM |
 | iPhone 11 / Pro / Pro Max | ✅ Sì | ✅ Sì | Dual SIM: nano-SIM + eSIM |
 | iPhone XR / XS / XS Max | ✅ Sì | ✅ Sì | Dual SIM: nano-SIM + eSIM |
 | iPhone SE (2ª, 3ª generazione) | ✅ Sì | ✅ Sì | Dual SIM: nano-SIM + eSIM |
 
-**Avvertenza Cina continentale e Hong Kong:** Gli iPhone venduti in Cina continentale e Hong Kong non supportano la eSIM. Le uniche eccezioni in Cina continentale sono **iPhone 17e (modello A3635)** e **iPhone Air (modello A3518)**. Tutti gli altri modelli iPhone della Cina continentale non possono utilizzarla.
+**Avvertenza Cina continentale e Hong Kong:** gli iPhone venduti nella Cina continentale in genere non supportano l'eSIM. Le eccezioni confermate sono **iPhone 18 Pro, iPhone 18 Pro Max, iPhone 17e (modello A3635) e iPhone Air (modello A3518)**. I modelli di Hong Kong e Macao della più recente generazione solo eSIM usano vassoi dual nano-SIM invece — nessun supporto eSIM. Tutti gli altri modelli iPhone della Cina continentale non possono usarla.
 
-### iPhone eSIM-Only in Canada
+### iPhone solo eSIM in Canada
 
-A partire da iPhone 14, Apple ha venduto modelli eSIM-only negli USA. **In Canada, la serie iPhone 17 (17, 17 Pro, 17 Pro Max, 17e) e iPhone Air sono eSIM-only — nessuno slot per SIM fisica.**
+A partire dall'iPhone 14, Apple ha venduto modelli solo eSIM negli USA. **In Canada, la serie iPhone 17 (17, 17 Pro, 17 Pro Max, 17e) e iPhone Air sono solo eSIM—niente slot per la SIM fisica.**
 
-**Cosa significa:** Se acquisti un iPhone 17 in Canada, devi usare la eSIM. Non puoi inserire una SIM fisica.
+**Cosa significa:** se compri un iPhone 17 in Canada, devi usare l'eSIM. Non puoi inserire una SIM fisica.
 
 **E gli iPhone 14, 15 e 16 in Canada?**  
-Le versioni canadesi di iPhone 14, 15 e 16 **mantengono un vassoio SIM fisico**. Supportano sia nano-SIM che eSIM, consentendo la funzionalità dual-SIM.
+Le versioni canadesi di iPhone 14, 15 e 16 **mantengono un vassoio per la SIM fisica**. Supportano sia nano-SIM sia eSIM, consentendo la funzionalità dual SIM.
 
-Se hai bisogno di mantenere il tuo numero originale mentre usi i dati canadesi, consulta la nostra [guida eSIM con numero](/blog/canada-esim-with-phone-number-guide/).
+Se devi mantenere il tuo numero originale mentre usi i dati canadesi, vedi la nostra [guida eSIM con numero](/blog/canada-esim-with-phone-number-guide/).
+
+**Una nota per i possessori di Apple Watch:** un Apple Watch cellulare non può usare un'eSIM di viaggio. I piani per l'orologio devono provenire da un operatore presente nell'elenco supportato da Apple e replicano il numero del tuo iPhone — i fornitori di eSIM di viaggio non emettono profili per orologi. In pratica non è un problema: l'orologio si accoppia via Bluetooth e sfrutta la connessione dell'iPhone, inclusa la sua eSIM di viaggio canadese. Gli orologi solo GPS non sono mai stati interessati.
 
 ### Supporto eSIM iPad
 
 | Modello iPad | Supporto eSIM | Note |
 |------------|--------------|-------|
-| iPad Pro 11" & 13" (M4, M5) | ✅ Sì | eSIM-only |
-| iPad Air 11" & 13" (M3, M4) | ✅ Sì | eSIM-only |
-| iPad mini (7ª generazione) | ✅ Sì | eSIM-only |
-| iPad (11ª generazione) | ✅ Sì | eSIM-only |
+| iPad Pro 11" e 13" (M4, M5) | ✅ Sì | Solo eSIM |
+| iPad Air 11" e 13" (M3, M4) | ✅ Sì | Solo eSIM |
+| iPad mini (7ª generazione) | ✅ Sì | Solo eSIM |
+| iPad (11ª generazione) | ✅ Sì | Solo eSIM |
 
-### Domande Frequenti su iPhone eSIM
+### Domande comuni sull'eSIM iPhone
 
-**iPhone XR supporta la eSIM in Canada?**  
+**L'iPhone XR supporta l'eSIM in Canada?**  
 Sì. iPhone XR e XS sono i primi iPhone con eSIM. Funzionano con tutti i fornitori canadesi.
 
-**Posso usare la dual SIM su iPhone 13?**  
-Sì. iPhone 13 supporta una nano-SIM fisica e una eSIM. Puoi usare la tua SIM di casa per la voce e una eSIM Canada per i dati.
+**Posso usare la dual SIM sull'iPhone 13?**  
+Sì. iPhone 13 supporta una nano-SIM fisica e una eSIM. Puoi usare la SIM di casa per la voce e un'eSIM Canada per i dati.
 
-**iPhone SE 2022 è compatibile con la eSIM?**  
-Sì. iPhone SE (2ª e 3ª generazione) supportano la eSIM.
+**L'iPhone SE 2022 è compatibile con l'eSIM?**  
+Sì. iPhone SE (2ª e 3ª generazione) supportano l'eSIM.
 
-**L'iPhone 16 canadese ha uno slot SIM fisico?**  
-Sì. L'iPhone 16 canadese mantiene un vassoio SIM fisico. Solo la versione USA è eSIM-only. Questo è un comune punto di confusione.
+**L'iPhone 16 canadese ha uno slot per la SIM fisica?**  
+Sì. L'iPhone 16 canadese mantiene un vassoio per la SIM fisica. Solo la versione USA è solo eSIM. Questo è un punto comune di confusione.
 
 ## Compatibilità eSIM Samsung Galaxy
 
-**Samsung è la marca con le maggiori differenze regionali.** Lo stesso modello può avere la eSIM in una regione e nessuna in un'altra. Controlla attentamente le note regionali.
+**Samsung è la marca con le più grandi differenze regionali.** Lo stesso modello può avere l'eSIM in una regione e non averla in un'altra. Controlla attentamente le note regionali.
 
-### Modelli Samsung che Supportano la eSIM
+### Modelli Samsung che supportano l'eSIM
 
-I seguenti modelli supportano la eSIM **in specifiche versioni regionali**:
+I modelli seguenti supportano l'eSIM **in versioni regionali specifiche**:
 
 **Serie S:** S26 / S26+ / S26 Ultra; S25 / S25+ / S25 Ultra / S25 Edge / S25 FE; S24 / S24+ / S24 Ultra / S24 FE; S23 / S23+ / S23 Ultra / S23 FE; S22 / S22+ / S22 Ultra; S21 / S21+ / S21 Ultra / S21 FE; S20 / S20+ / S20 Ultra.
 
@@ -244,51 +248,51 @@ I seguenti modelli supportano la eSIM **in specifiche versioni regionali**:
 
 **Serie A:** A57 / A56 / A55 / A54 / A37 / A36 / A35 / A17 / A16.
 
-### Insidie delle Versioni Regionali Samsung
+### Insidie delle versioni regionali Samsung
 
-| Regione | Note sul Supporto eSIM |
+| Regione | Note sul supporto eSIM |
 |--------|-------------------|
-| Taiwan | La maggior parte dei modelli Galaxy Taiwan non ha chip eSIM |
-| USA | Le versioni USA di S20 / S21 non supportano la eSIM |
-| Corea | La versione coreana di S22 non supporta la eSIM; la maggior parte dei modelli N non ha eSIM |
-| Cina / Hong Kong | Le versioni Cina/Hong Kong di S23 FE non supportano la eSIM |
-| Canada | I dispositivi di Bell, Rogers, Telus, Freedom Mobile possono avere la eSIM disabilitata per impostazione predefinita |
+| Taiwan | La maggior parte dei modelli Galaxy di Taiwan non ha il chip eSIM |
+| USA | Le versioni USA di S20 / S21 non supportano l'eSIM |
+| Corea | La versione coreana di S22 non supporta l'eSIM; la maggior parte dei modelli N non ha l'eSIM |
+| Cina / Hong Kong | Le versioni Cina/Hong Kong di S23 FE non supportano l'eSIM |
+| Canada | I dispositivi di Bell, Rogers, Telus, Freedom Mobile possono avere l'eSIM disattivata di default |
 
-**Come identificare:** Controlla il suffisso del numero di modello sulla scatola.
-- **U / U1** = versione USA (la maggior parte ha eSIM)
+**Come identificare:** controlla il suffisso del numero di modello sulla confezione.
+- **U / U1** = versione USA (la maggior parte ha l'eSIM)
 - **EUX** = versione europea
-- **N** = versione coreana (la maggior parte non ha eSIM)
-- **B/DS** = dual-SIM internazionale (di solito ha eSIM)
+- **N** = versione coreana (la maggior parte non ha l'eSIM)
+- **B/DS** = dual SIM internazionale (di solito ha l'eSIM)
 - **W** = versione canadese (controlla l'operatore)
 
-### Rimozione del Blocco Operatore eSIM Samsung in Canada
+### Rimozione del blocco operatore eSIM Samsung in Canada
 
-I dispositivi Samsung venduti dagli operatori canadesi spesso hanno la eSIM disabilitata. Ecco come risolvere:
+I dispositivi Samsung venduti dagli operatori canadesi hanno spesso l'eSIM disattivata. Ecco come risolvere:
 
 1. **Chiama il tuo operatore:** Bell, Rogers, Telus o Freedom Mobile.
-2. **Richiedi l'abilitazione eSIM e lo sblocco di rete.** La CRTC richiede lo sblocco gratuito.
-3. **Fornisci il tuo IMEI:** Digita `*#06#` per ottenerlo.
-4. **Attendi la conferma:** Di solito 1–2 giorni lavorativi.
-5. **Riavvia il telefono e controlla Gestione SIM:** Dovrebbe apparire "Aggiungi eSIM".
+2. **Richiedi l'attivazione dell'eSIM e lo sblocco di rete.** Il CRTC richiede lo sblocco gratuito.
+3. **Fornisci il tuo IMEI:** componi `*#06#` per ottenerlo.
+4. **Attendi la conferma:** di solito 1–2 giorni lavorativi.
+5. **Riavvia il telefono e controlla il Gestore SIM:** "Aggiungi eSIM" dovrebbe comparire.
 
-**Se l'operatore rifiuta:** Presenta un reclamo al CCTS (Commission for Complaints for Telecom-television Services).
+**Se l'operatore rifiuta:** presenta un reclamo al CCTS (Commission for Complaints for Telecom-television Services).
 
-### Domande Frequenti su Samsung eSIM
+### Domande comuni sull'eSIM Samsung
 
-**Samsung S21 supporta la eSIM in Canada?**  
-La maggior parte dei modelli S21 internazionali sì, ma alcune versioni USA e canadesi degli operatori no. Verifica l'EID con `*#06#`.
+**Il Samsung S21 supporta l'eSIM in Canada?**  
+La maggior parte dei modelli S21 internazionali sì, ma alcune versioni USA e di operatori canadesi no. Verifica l'EID con `*#06#`.
 
-**Posso usare la eSIM su Samsung A54?**  
-Sì, A54 supporta la eSIM nella maggior parte delle regioni. Controlla la versione regionale.
+**Posso usare l'eSIM su un Samsung A54?**  
+Sì, l'A54 supporta l'eSIM nella maggior parte delle regioni. Controlla la versione regionale.
 
 **Perché il mio Samsung mostra l'EID ma nessuna opzione eSIM?**  
-L'operatore potrebbe aver disabilitato la eSIM. Contatta l'operatore per abilitarla.
+L'operatore potrebbe aver disattivato l'eSIM. Contatta l'operatore per attivarla.
 
 ## Compatibilità eSIM Google Pixel
 
-**Google Pixel ha il supporto eSIM più stabile tra le marche Android.** Ogni Pixel da Pixel 3a supporta la eSIM.
+**Google Pixel ha il track record più stabile tra le marche Android.** Ogni Pixel dal 3a in poi lo include.
 
-### Modelli Pixel che Supportano la eSIM
+### Modelli Pixel che supportano l'eSIM
 
 - Pixel 10 / 10 Pro / 10 Pro XL / 10 Pro Fold / 10a
 - Pixel 9 / 9a / 9 Pro / 9 Pro XL / 9 Pro Fold
@@ -300,36 +304,36 @@ L'operatore potrebbe aver disabilitato la eSIM. Contatta l'operatore per abilita
 - Pixel 3 / 3a / 3 XL / 3a XL
 - Pixel 2 / 2 XL
 
-### Note Regionali Pixel
+### Note regionali Pixel
 
-- Pixel 3 non supporta la eSIM in Australia, Giappone o Taiwan.
-- Pixel 3a non supporta la eSIM nel Sud-est asiatico o in Giappone.
-- La versione USA di Pixel 10 è eSIM-only (Pixel 10 Pro Fold mantiene la SIM fisica).
+- Pixel 3 non supporta l'eSIM in Australia, Giappone o Taiwan.
+- Pixel 3a non supporta l'eSIM nel Sud-est asiatico o in Giappone.
+- Pixel 10 versione USA è solo eSIM (Pixel 10 Pro Fold mantiene la SIM fisica).
 
-### Domande Frequenti su Pixel eSIM
+### Domande comuni sull'eSIM Pixel
 
-**Pixel 6a supporta la eSIM?**  
-Sì. Pixel 6a supporta la eSIM in tutte le regioni.
+**Il Pixel 6a supporta l'eSIM?**  
+Sì. Pixel 6a supporta l'eSIM in tutte le regioni.
 
-**Posso usare la dual SIM su Pixel 8?**  
+**Posso usare la dual SIM sul Pixel 8?**  
 Sì. Pixel 8 supporta una SIM fisica e una eSIM.
 
-**Pixel 3 è compatibile con la eSIM in Canada?**  
-Pixel 3 supporta la eSIM in Canada, ma non in Australia, Giappone o Taiwan.
+**Il Pixel 3 è compatibile con l'eSIM in Canada?**  
+Pixel 3 supporta l'eSIM in Canada, ma non in Australia, Giappone o Taiwan.
 
-## Altre Marche Android Compatibili con eSIM
+## Altre marche Android compatibili eSIM
 
 ### Motorola
 
-Supporta la eSIM in:
+Supporta l'eSIM su:
 - Serie Razr: Razr (2019+), Razr+, Razr Ultra, serie Razr 60/50/40
 - Serie Edge: Edge 60, serie Edge 50, Edge (2023+)
 
-**Nota:** Il supporto eSIM varia a seconda della regione.
+**Nota:** la disponibilità varia per regione.
 
 ### OnePlus
 
-Supporta la eSIM in:
+Supporta l'eSIM su:
 - OnePlus 12 / 12R
 - OnePlus 11
 - OnePlus Open
@@ -337,89 +341,89 @@ Supporta la eSIM in:
 
 ### OPPO
 
-Supporta la eSIM in:
-- Find X5 Pro e serie Find X più recenti
+Supporta l'eSIM su:
+- Find X5 Pro e serie Find X successive
 - Find N2 Flip, Find N5
-- Serie Reno 14 e più recenti
+- Serie Reno 14 e successive
 
-**Nota:** Limitato a regioni specifiche.
+**Nota:** limitato a regioni specifiche.
 
 ### Xiaomi
 
-Supporta la eSIM in:
+Supporta l'eSIM su:
 - Xiaomi 15 / 15 Ultra
 - Xiaomi 14 / 14 Pro / 14T / 14T Pro
 - Xiaomi 13 / 13 Pro / 13 Lite / 13T / 13T Pro
 - Serie Redmi Note 14
 
-**Nota:** Limitato a mercati specifici.
+**Nota:** limitato a mercati specifici.
 
-### Altre Marche
+### Altre marche
 
-- **Huawei:** Le versioni Hong Kong/Macau di P40, P40 Pro, Mate 40 Pro, Pura 70 Pro supportano la eSIM.
-- **Honor:** La linea flagship (es. Honor Magic V3) supporta la eSIM.
-- **Vivo:** X90 e più recenti supportano la eSIM.
-- **Sony Xperia:** A maggio 2026, non supporta ancora la eSIM.
-- **Nothing:** Phone 2, Phone 2a supportano la eSIM.
+- **Huawei:** le versioni Hong Kong/Macao di P40, P40 Pro, Mate 40 Pro, Pura 70 Pro supportano l'eSIM.
+- **Honor:** la linea flagship (es. Honor Magic V3) supporta l'eSIM.
+- **Vivo:** X90 e successivi supportano l'eSIM.
+- **Sony Xperia:** a maggio 2026, ancora senza supporto eSIM.
+- **Nothing:** Phone 2, Phone 2a supportano l'eSIM.
 
-### Domande Frequenti su Android eSIM
+### Domande comuni sull'eSIM Android
 
-**OnePlus 11 supporta la eSIM in Canada?**  
-Sì, OnePlus 11 supporta la eSIM nella maggior parte delle regioni. Controlla il numero di modello.
+**Il OnePlus 11 supporta l'eSIM in Canada?**  
+Sì, il OnePlus 11 supporta l'eSIM nella maggior parte delle regioni. Controlla il numero di modello.
 
-**Posso usare la eSIM su Xiaomi 14?**  
-Sì, Xiaomi 14 supporta la eSIM nella maggior parte dei mercati. Alcune versioni regionali potrebbero no.
+**Posso usare l'eSIM su uno Xiaomi 14?**  
+Sì, lo Xiaomi 14 supporta l'eSIM nella maggior parte dei mercati. Alcune versioni regionali potrebbero no.
 
-**Sony Xperia supporta la eSIM?**  
-No. A maggio 2026, Sony Xperia non supporta la eSIM.
+**Sony Xperia supporta l'eSIM?**  
+No. A maggio 2026, Sony Xperia non supporta l'eSIM.
 
-## Blocco Operatore Canadese e Passaggi per lo Sblocco eSIM
+## Blocco degli operatori canadesi e passaggi per lo sblocco eSIM
 
-Anche se il tuo telefono supporta la eSIM, deve essere sbloccato dall'operatore per usare una eSIM di terze parti.
+Anche se il tuo telefono supporta l'eSIM, deve essere sbloccato dall'operatore per usare un fornitore di terze parti.
 
-In Canada, la CRTC richiede a Bell, Rogers, Telus e Freedom Mobile di sbloccare i dispositivi gratuitamente. Consulta il [CRTC Wireless Code](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
+In Canada, il CRTC obbliga Bell, Rogers, Telus e Freedom Mobile a sbloccare i dispositivi gratuitamente. Vedi il [Codice wireless del CRTC](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
 
-### Come Verificare se il Tuo Telefono è Bloccato
+### Come verificare se il tuo telefono è bloccato
 
 - **iPhone:** Impostazioni → Generali → Info → **Blocco operatore**. Dovrebbe dire "Nessuna restrizione SIM".
-- **Android:** Impostazioni → Info sul telefono → Stato → controlla lo stato della rete/SIM.
+- **Android:** Impostazioni → Info sul telefono → Stato → controlla lo stato rete/SIM.
 
-### Come Rimuovere un Blocco Operatore Canadese
+### Come rimuovere un blocco operatore canadese
 
 1. **Controlla lo stato del blocco** (vedi sopra).
 2. **Contatta il tuo operatore:** Bell, Rogers, Telus o Freedom Mobile.
-3. **Richiedi uno sblocco gratuito.** La CRTC lo richiede.
-4. **Fornisci il tuo IMEI:** Digita `*#06#` per ottenerlo.
-5. **Attendi la conferma:** Di solito 1–2 giorni lavorativi.
-6. **Inserisci una SIM non dell'operatore** o prova a installare una eSIM di terze parti. Se funziona, il telefono è sbloccato.
-7. **Se la eSIM rimane disabilitata (Samsung):** Chiedi all'operatore di abilitare specificamente la eSIM. Alcuni operatori la disabilitano per impostazione predefinita.
+3. **Richiedi lo sblocco gratuito.** Il CRTC lo richiede.
+4. **Fornisci il tuo IMEI:** componi `*#06#` per ottenerlo.
+5. **Attendi la conferma:** di solito 1–2 giorni lavorativi.
+6. **Inserisci una SIM di un altro operatore** o prova a installare un'eSIM di terze parti. Se funziona, il telefono è sbloccato.
+7. **Se l'eSIM resta disattivata (Samsung):** chiedi all'operatore di attivarla specificamente. Alcuni operatori la disattivano di default.
 
-**Consiglio professionale:** Se hai acquistato un Samsung usato da un operatore canadese, la eSIM potrebbe essere permanentemente disabilitata. Verifica con l'operatore prima di acquistare.
+**Consiglio da esperti:** se hai comprato un Samsung usato da un operatore canadese, l'eSIM potrebbe essere disattivata in modo permanente. Verifica con l'operatore prima di acquistare.
 
-### Checklist per l'Acquisto di un Telefono Usato per eSIM
+### Checklist per l'acquisto di un telefono usato per l'eSIM
 
-Acquisti un telefono usato? Usa questa checklist per evitare dispositivi con eSIM disabilitata:
+Compri un telefono usato? Usa questa checklist per evitare dispositivi con eSIM disattivata:
 
-| Verifica | Come Verificare | Segnale d'Allarme |
+| Controllo | Come verificare | Campanello d'allarme |
 |-------|---------------|----------|
-| EID presente | Digita `*#06#`, cerca EID | Nessun EID = nessun hardware eSIM |
-| Operatore sbloccato | Impostazioni → Generali → Info → Blocco operatore (iPhone) | "Blocco operatore attivo" = impossibile usare eSIM di terze parti |
-| Versione regionale | Controlla il suffisso del numero di modello sulla scatola o nelle impostazioni | I modelli Taiwan/Corea/Cina potrebbero non avere eSIM |
-| eSIM disabilitata dall'operatore | Prova a installare una eSIM di terze parti | Samsung dagli operatori canadesi spesso disabilitata |
-| Vassoio SIM fisico | Controlla lo slot SIM | Alcuni modelli iPhone 14+ USA non hanno vassoio |
-| Operatore originale | Chiedi al venditore | Bell/Rogers/Telus/Freedom potrebbero bloccare la eSIM |
+| EID presente | Componi `*#06#`, cerca l'EID | Nessun EID = nessun hardware eSIM |
+| Sbloccato dall'operatore | Impostazioni → Generali → Info → Blocco operatore (iPhone) | "Operator Locked" = non puoi usare eSIM di terze parti |
+| Versione regionale | Controlla il suffisso del numero di modello sulla confezione o nelle impostazioni | I modelli Taiwan/Corea/Cina potrebbero non avere l'eSIM |
+| eSIM disattivata dall'operatore | Prova a installare un'eSIM di terze parti | I Samsung di operatori canadesi sono spesso disattivati |
+| Vassoio SIM fisica | Controlla lo slot SIM | Alcuni modelli iPhone 14+ USA non hanno il vassoio |
+| Operatore originale | Chiedi al venditore | Bell/Rogers/Telus/Freedom possono bloccare l'eSIM |
 
-**Consiglio professionale:** Incontra il venditore in un negozio dell'operatore. Chiedi all'operatore di verificare lo stato della eSIM prima di pagare.
+**Consiglio da esperti:** incontra il venditore in un negozio di un operatore. Chiedi all'operatore di verificare lo stato dell'eSIM prima di pagare.
 
-## Insidie delle Versioni Regionali eSIM
+## Insidie delle versioni regionali eSIM
 
 Lo stesso modello di telefono può avere un supporto eSIM diverso a seconda di dove è stato venduto. Questa è la ragione più comune per cui un telefono mostra l'EID ma nessuna opzione eSIM.
 
-### Restrizioni Regionali Note
+### Restrizioni regionali note
 
 | Marca / Modello | Regione | Restrizione eSIM |
 |---------------|--------|------------------|
-| iPhone (tutti i modelli) | Cina continentale, Hong Kong | Nessuna eSIM (tranne iPhone 17e e iPhone Air in Cina continentale) |
+| iPhone (tutti i modelli) | Cina continentale, Hong Kong, Macao | Cina continentale: eSIM solo su iPhone 18 Pro/Pro Max, 17e, Air; HK/Macao: dual nano-SIM invece |
 | Samsung Galaxy S20 / S21 | USA | Nessuna eSIM |
 | Samsung Galaxy S22 | Corea | Nessuna eSIM |
 | Samsung Galaxy S23 FE | Cina / Hong Kong | Nessuna eSIM |
@@ -429,115 +433,115 @@ Lo stesso modello di telefono può avere un supporto eSIM diverso a seconda di d
 | Google Pixel 3a | Sud-est asiatico, Giappone | Nessuna eSIM |
 | Sony Xperia | Tutte le regioni | Nessuna eSIM (a maggio 2026) |
 
-### Come Identificare la Tua Versione Regionale
+### Come identificare la tua versione regionale
 
-Controlla il suffisso del numero di modello sulla scatola o nelle Impostazioni:
+Controlla il suffisso del numero di modello sulla confezione o nelle Impostazioni:
 - **U / U1** = versione USA
 - **EUX** = versione europea
 - **N** = versione coreana
-- **B/DS** = dual-SIM internazionale
+- **B/DS** = dual SIM internazionale
 - **W** = versione canadese
 - **CH/A** = versione Cina continentale
 - **ZP/A** = versione Hong Kong
 - **TA/A** = versione Taiwan
 
-## Se il Tuo Telefono Non Supporta la eSIM
+## Se il tuo telefono non supporta l'eSIM
 
-Se hai verificato e non hai trovato EID o nessuna opzione eSIM, hai quattro opzioni:
+Se hai controllato e non hai trovato nessun EID o nessuna opzione eSIM, hai quattro opzioni:
 
-### Usa una SIM Fisica
+### Usa una scheda SIM fisica
 
-Gli operatori canadesi (Bell, Rogers, Telus, Freedom Mobile) e alcuni fornitori di SIM da viaggio offrono SIM fisiche. Acquista in un negozio dopo l'arrivo o ordina online prima della partenza.
+Gli operatori canadesi (Bell, Rogers, Telus, Freedom Mobile) e alcuni fornitori di SIM di viaggio offrono schede SIM fisiche. Compra in negozio dopo l'arrivo, oppure ordina online prima della partenza.
 
-**Pro:** Funziona con tutti i telefoni.  
-**Contro:** Devi cambiare carta; potresti dover fare la fila; non puoi mantenere il numero originale a meno che il telefono non abbia doppi slot fisici.
+**Pro:** funziona con tutti i telefoni.  
+**Contro:** serve cambiare scheda; potrebbe servire fare la coda; non puoi mantenere il numero originale a meno che il telefono non abbia due slot fisici.
 
-### Noleggia un Dispositivo Wi-Fi Portatile
+### Noleggia un dispositivo Wi-Fi portatile
 
 Un router Wi-Fi tascabile si connette a una rete canadese e condivide internet via Wi-Fi.
 
-**Pro:** Condivisione multi-dispositivo; nessuna dipendenza dall'hardware del telefono.  
-**Contro:** Dispositivo extra da portare e caricare; costo di noleggio di solito superiore alla eSIM.
+**Pro:** condivisione multi-dispositivo; nessuna dipendenza dall'hardware del telefono.  
+**Contro:** un dispositivo in più da trasportare e ricaricare; il costo del noleggio di solito è più alto dell'eSIM.
 
-### Usa un Telefono di Backup o Acquista un Telefono Compatibile con eSIM
+### Usa un telefono di riserva o compra un telefono compatibile eSIM
 
-Se viaggi spesso, un telefono che supporta la eSIM è una soluzione a lungo termine. Nel 2026, è disponibile anche nei modelli di fascia media.
+Se viaggi spesso, un telefono che supporta l'eSIM è una soluzione a lungo termine. Nel 2026, è disponibile anche in modelli di fascia media.
 
-**Consigli per l'acquisto:**
-- Conferma il supporto eSIM (controlla l'EID).
+**Consigli d'acquisto:**
+- Conferma il supporto eSIM (verifica l'EID).
 - Conferma che il telefono sia sbloccato.
-- Controlla la versione regionale — **l'iPhone 17 canadese è eSIM-only; gli iPhone 14, 15 e 16 canadesi hanno vassoi SIM fisici.**
+- Controlla la versione regionale — **l'iPhone 17 canadese è solo eSIM; gli iPhone 14, 15 e 16 canadesi hanno vassoi SIM fisici.**
 
-### Affidati al Wi-Fi e alle App VoIP
+### Affidati al Wi-Fi e alle app VoIP
 
-Per viaggi brevi con basse esigenze di dati, usa il Wi-Fi di hotel/caffè/aeroporto con WhatsApp, WeChat o FaceTime.
+Per viaggi brevi con basi esigenze di dati, usa il Wi-Fi di hotel/caffè/aeroporti con WhatsApp, WeChat o FaceTime.
 
-**Pro:** Costo zero.  
-**Contro:** Dipende dal Wi-Fi; nessuna navigazione o ride-hailing in movimento; inaffidabile in emergenza.
+**Pro:** costo zero.  
+**Contro:** dipende dal Wi-Fi; niente navigazione o trasporti su richiesta in movimento; inaffidabile nelle emergenze.
 
-## Checklist Finale per l'Acquisto della eSIM
+## Checklist finale per l'acquisto dell'eSIM
 
-1. **Conferma il supporto eSIM** — `*#06#` per EID.
-2. **Conferma che il telefono sia sbloccato** — la CRTC richiede agli operatori canadesi di sbloccare gratuitamente.
-3. **Conferma che il piano copra il Canada** — controlla "Canada" o "Nord America" nella descrizione del piano. Consulta la nostra [guida eSIM transfrontaliera](/blog/usa-and-canada-esim-guide/) per i piani regionali. La [eSIM Canada](/canada-esim/) di Roami copre il Canada e include **supporto umano 24/7** se la configurazione incontra intoppi.
-4. **Conferma la quantità di dati e la validità** — breve viaggio in città: 1–3GB; road trip: 10–20GB. Consulta la nostra [guida alla pianificazione del road trip in Canada](/blog/best-esim-canada-road-trip-guide/).
-5. **Conferma se hai bisogno di un numero canadese** — per codici bancari o Uber, consulta la nostra [guida eSIM con numero](/blog/canada-esim-with-phone-number-guide/).
-6. **Controlla le recensioni reali degli utenti** — consulta il nostro [riepilogo della reputazione su Reddit](/blog/best-canada-esim-reddit-guide/).
+1. **Conferma il supporto eSIM** — `*#06#` per l'EID.
+2. **Conferma che il telefono sia sbloccato** — il CRTC richiede agli operatori canadesi di sbloccare gratuitamente.
+3. **Conferma che il piano copra il Canada** — controlla "Canada" o "Nord America" nella descrizione del piano. Vedi la nostra [guida eSIM transfrontaliera](/blog/usa-and-canada-esim-guide/) per i piani regionali. L'[eSIM Canada](/canada-esim/) di Roami copre il Canada e include **assistenza umana 24/7** se la configurazione incontra un intoppo.
+4. **Conferma quantità di dati e validità** — breve viaggio in città: 1–3GB; viaggio in auto: 10–20GB. Vedi la nostra [guida alla pianificazione per viaggi in auto in Canada](/blog/best-esim-canada-road-trip-guide/).
+5. **Conferma se ti serve un numero canadese** — per codici bancari o Uber, vedi la nostra [guida eSIM con numero](/blog/canada-esim-with-phone-number-guide/).
+6. **Controlla le recensioni di utenti reali** — vedi il nostro [riepilogo della reputazione su Reddit](/blog/best-canada-esim-reddit-guide/).
 
-**Prima di acquistare:** Se vuoi testare la copertura senza impegnarti in un piano completo, prova una [prova eSIM gratuita](/free-esim/) o un [piano eSIM Canada Roami](/canada-esim/) da **$1.99**. I nuovi utenti ottengono il **20% di sconto** con il codice `web20`, con il **supporto umano 24/7** di Roami per la configurazione.
+**Prima di comprare:** se vuoi testare la copertura senza impegnarti in un piano completo, prova una [eSIM di prova gratuita](/free-esim/) o un [piano eSIM Canada di Roami](/canada-esim/) da **$1,99**. I nuovi utenti ottengono il **20% di sconto** con il codice `web20`, con l'**assistenza umana 24/7** di Roami per la configurazione.
 
-## FAQ Compatibilità eSIM Canada
+## FAQ compatibilità eSIM Canada
 
-### Il mio telefono supporta la eSIM?
+### Il mio telefono supporta l'eSIM?
 
-Controlla `*#06#` per EID. iPhone XS/XR e successivi supportano la eSIM, tranne i modelli Cina continentale/Hong Kong. Samsung S20+ (versioni regionali), Pixel 2+, alcuni Motorola/Huawei. Lista completa sopra.
+Verifica l'EID con `*#06#`. Gli iPhone XS/XR e successivi supportano l'eSIM, eccetto i modelli Cina continentale/Hong Kong. Samsung S20+ (versioni regionali), Pixel 2+, alcuni Motorola/Huawei. Elenco completo qui sopra.
 
-### Posso usare una eSIM su un telefono acquistato in un altro paese?
+### Posso usare un'eSIM su un telefono comprato in un altro paese?
 
-Dipende dal modello e dalla versione regionale. Se l'hardware supporta la eSIM e il telefono è sbloccato, di solito funziona. Alcune versioni regionali (iPhone Cina continentale, Samsung Taiwan) non supportano la eSIM. Controlla l'EID con `*#06#`.
+Dipende dal modello e dalla versione regionale. Se l'hardware lo supporta e il telefono è sbloccato, di solito funziona. Alcune versioni regionali (iPhone Cina continentale, Samsung Taiwan) non supportano l'eSIM. Verifica l'EID con `*#06#`.
 
-### iPhone 17 è eSIM-only in Canada?
+### L'iPhone 17 è solo eSIM in Canada?
 
-Sì. iPhone 17, 17 Pro, 17 Pro Max e 17e sono eSIM-only negli USA, Canada, Giappone, Messico e altri paesi. Nessuno slot SIM fisico.
+Sì. iPhone 17, 17 Pro, 17 Pro Max e 17e sono solo eSIM in USA, Canada, Giappone, Messico e altri paesi. Nessuno slot per la SIM fisica.
 
-### L'iPhone 16 canadese ha uno slot SIM fisico?
+### L'iPhone 16 canadese ha uno slot per la SIM fisica?
 
-Sì. L'iPhone 16 canadese ha un vassoio SIM fisico. Solo la versione USA è eSIM-only. Lo stesso vale per iPhone 14 e iPhone 15 canadesi.
+Sì. L'iPhone 16 canadese ha un vassoio per la SIM fisica. Solo la versione USA è solo eSIM. Lo stesso vale per gli iPhone 14 e iPhone 15 canadesi.
 
-### Il mio telefono ha l'EID ma nessuna opzione eSIM nelle Impostazioni. Cosa devo fare?
+### Il mio telefono ha l'EID ma nessuna opzione eSIM nelle impostazioni. Cosa devo fare?
 
 Possibili ragioni:
-1. L'operatore ha disabilitato la eSIM (comune sui Samsung degli operatori canadesi) — contatta l'operatore per sbloccare.
+1. L'operatore ha disattivato l'eSIM (comune sui Samsung di operatori canadesi) — contatta l'operatore per lo sblocco.
 2. Versione di sistema troppo vecchia — aggiorna.
-3. Restrizione della versione regionale — alcune versioni disabilitano la eSIM anche con l'hardware.
+3. Restrizione della versione regionale — alcune versioni disattivano l'eSIM anche con l'hardware.
 
-### Un telefono bloccato dall'operatore può usare la eSIM?
+### Un telefono bloccato dall'operatore può usare l'eSIM?
 
-No. Il telefono deve essere sbloccato dall'operatore. In Canada, la CRTC richiede a Bell, Rogers, Telus e Freedom Mobile di sbloccare gratuitamente.
+No. Il telefono deve essere sbloccato dall'operatore. In Canada, il CRTC obbliga Bell, Rogers, Telus e Freedom Mobile a sbloccare gratuitamente.
 
-### Quali telefoni sono eSIM-only nel 2026?
+### Quali telefoni sono solo eSIM nel 2026?
 
-- **iPhone Air:** eSIM-only a livello globale.
-- **iPhone 17 / Pro / Pro Max / 17e:** eSIM-only in USA, Canada, Giappone, Messico e altri paesi.
-- **iPhone 14–16 (versioni USA):** eSIM-only. Le versioni canadesi hanno vassoi SIM fisici.
-- **Google Pixel 10 (versione USA):** eSIM-only.
-- **Samsung Galaxy S26 (alcuni mercati):** in transizione verso eSIM-only.
+- **iPhone Air:** solo eSIM a livello globale.
+- **iPhone 17 / Pro / Pro Max / 17e:** solo eSIM in USA, Canada, Giappone, Messico e altri paesi.
+- **iPhone 14–16 (versioni USA):** solo eSIM. Le versioni canadesi hanno vassoi SIM fisici.
+- **Google Pixel 10 (versione USA):** solo eSIM.
+- **Samsung Galaxy S26 (alcuni mercati):** in movimento verso il solo eSIM.
 
-### Come verifico la compatibilità eSIM per un modello specifico?
+### Come verifico la compatibilità eSIM di un modello specifico?
 
-Digita `*#06#` e cerca EID. Se appare l'EID, l'hardware supporta la eSIM. Poi controlla se il tuo operatore l'ha disabilitata o se la versione regionale la blocca.
+Componi `*#06#` e cerca l'EID. Se compare l'EID, l'hardware supporta l'eSIM. Poi controlla se il tuo operatore l'ha disattivata o se la versione regionale la blocca.
 
-## Riepilogo Compatibilità eSIM Canada
+## Riepilogo compatibilità eSIM Canada
 
-### Tabella Rapida di Compatibilità dei Dispositivi
+### Tabella rapida di compatibilità dei dispositivi
 
 | Dispositivo | Supporto eSIM? | Note |
 |--------|---------------|-------|
-| iPhone XS / XR e successivi | ✅ Sì | Cina continentale: solo iPhone 17e e iPhone Air |
-| Serie iPhone 17 (versioni canadesi) | ✅ Sì | eSIM-only, nessuno slot SIM fisico |
+| iPhone XS / XR e successivi | ✅ Sì | Cina continentale: solo iPhone 18 Pro/Pro Max, 17e e Air |
+| Serie iPhone 17 (versioni canadesi) | ✅ Sì | Solo eSIM, niente slot SIM fisico |
 | iPhone 14–16 (versioni canadesi) | ✅ Sì | **Vassoio SIM fisico mantenuto** |
-| Samsung Galaxy S20+ (internazionale) | ✅ Sì | Versioni Taiwan/Corea/alcune USA potrebbero non supportare |
-| Samsung Galaxy (versioni operatori canadesi) | ⚠️ Potrebbe essere disabilitata | Contatta l'operatore per sbloccare |
+| Samsung Galaxy S20+ (internazionale) | ✅ Sì | Le versioni Taiwan/Corea/alcune USA potrebbero non supportare |
+| Samsung Galaxy (versioni di operatori canadesi) | ⚠️ Potrebbe essere disattivata | Contatta l'operatore per lo sblocco |
 | Google Pixel 2 e successivi | ✅ Sì | Eccezioni Pixel 3/3a in alcune regioni |
 | Motorola Razr / Edge | ⚠️ Dipende dalla regione | Controlla la versione regionale |
 | OnePlus 11 e successivi | ⚠️ Dipende dalla regione | Conferma il modello |
@@ -545,15 +549,15 @@ Digita `*#06#` e cerca EID. Se appare l'EID, l'hardware supporta la eSIM. Poi co
 | Xiaomi 13 e successivi | ⚠️ Dipende dalla regione | Mercati limitati |
 | Sony Xperia | ❌ No | A maggio 2026 |
 
-### Tre Regole Prima di Acquistare un Telefono
+### Le tre regole prima di comprare un telefono
 
-1. **Controlla prima l'EID** — `*#06#` è il metodo più veloce e affidabile.
-2. **Attenzione alle versioni regionali** — stesso modello, supporto eSIM diverso a seconda della regione. Gli iPhone 14–16 canadesi hanno vassoi SIM fisici; l'iPhone 17 canadese è eSIM-only.
+1. **Verifica prima l'EID** — `*#06#` è il metodo più rapido e affidabile.
+2. **Attenzione alle versioni regionali** — stesso modello, supporto eSIM diverso per regione. Gli iPhone 14–16 canadesi hanno vassoi SIM fisici; l'iPhone 17 canadese è solo eSIM.
 3. **Conferma che il telefono sia sbloccato** — i telefoni bloccati dall'operatore non possono usare eSIM di terze parti.
 
-Se il tuo telefono supporta la eSIM, installa il tuo piano prima della partenza. Consulta la nostra [guida alla configurazione passo-passo](/blog/how-to-get-esim-in-canada-guide/).
+Se il tuo telefono supporta l'eSIM, installa il tuo piano prima della partenza. Vedi la nostra [guida alla configurazione passo a passo](/blog/how-to-get-esim-in-canada-guide/).
 
-**Nota sui dati:** La compatibilità dei dispositivi è stata verificata a settembre 2026. Apple e Android aggiungono regolarmente nuovi modelli eSIM.
+**Nota sui dati:** la compatibilità dei dispositivi è stata verificata a settembre 2026. Apple e Android aggiungono regolarmente nuovi modelli eSIM.
 
 
-**Contatto:** Se noti un errore, contattaci. Correggiamo entro 48 ore.
+**Contatti:** se trovi un errore, contattaci. Correggiamo entro 48 ore.

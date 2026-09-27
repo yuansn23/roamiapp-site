@@ -1,28 +1,28 @@
 ---
-title: "eSIM de EE.UU. y Canadá: Planes Transfronterizos"
-description: "Roami eSIM de EE.UU. y Canadá: planes transfronterizos, cambio de red y cobertura. Dual-SIM y evitar tarifas de roaming."
-keywords: ["eSIM EE.UU. Canadá", "eSIM transfronteriza EE.UU. Canadá", "plan eSIM Norteamérica", "cambio de red eSIM EE.UU. Canadá", "eSIM EE.UU. Canadá dual SIM"]
-date: 2026-09-11T00:00:00Z
-lastmod: 2026-09-11T00:00:00Z
-author: "Roami Team"
-authorBio: "Roami ofrece planes eSIM confiables, sirviendo a más de 1 millón de viajeros anualmente, y admite el cambio automático de red local para ayudar a los viajeros a mantenerse conectados globalmente."
+title: "eSIM para EE. UU. y Canadá: mejores planes compartidos"
+description: "eSIM de Roami para EE. UU. y Canadá: mejores planes transfronterizos, cambio de red y cobertura. Configuración de SIM dual y cómo evitar cargos de roaming."
+keywords: ["USA Canada eSIM", "US Canada cross border eSIM", "North America eSIM plan", "USA Canada eSIM network switching", "USA Canada eSIM dual SIM"]
+date:  2026-09-23T00:00:00Z
+lastmod:  2026-09-23T00:00:00Z
+author: "Equipo de Roami"
+authorBio: "Roami ofrece planes de eSIM fiables, atendiendo a más de 1 millón de viajeros al año, y admite el cambio automático de red local para ayudar a los viajeros a mantenerse conectados en todo el mundo."
 image: "/img/esim/canada/usa-canada-esim-guide.jpg"
-categories: ["eSIM", "Viajes", "Canadá"]
-tags: ["eSIM Canadá"]
+categories: ["eSIM", "Travel", "Canada"]
+tags: ["Canada eSIM"]
 readingTime: 10
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "eSIM de EE.UU. y Canadá: Mejores Planes Transfronterizos y Cómo Funciona el Cambio de Red"
+h1title: "eSIM para EE. UU. y Canadá: los mejores planes transfronterizos y cómo funciona el cambio de red"
 
 # Sidebar module titles
-productsTitle: "Planes eSIM Populares"
-hotPostsTitle: "Artículos Populares"
-recentPostsTitle: "Artículos Recientes"
+productsTitle: "Planes de eSIM populares"
+hotPostsTitle: "Artículos destacados"
+recentPostsTitle: "Publicaciones recientes"
 
 # Right sidebar products (6 items)
 products:
-  - name: "eSIM EE.UU."
+  - name: "eSIM EE. UU."
     flag: "/img/flags/us.svg"
     price: "Desde $1.99"
     is_highlight: false
@@ -55,556 +55,560 @@ products:
 
 # Recent posts (sidebar)
 recentPosts:
-  - title: "eSIM Deep Troubleshooting Guide (16 Real Cases)"
+  - title: "Guía avanzada de solución de problemas de eSIM (16 casos reales)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
+  - title: "Transferencia de eSIM multiplataforma 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
+  - title: "¿La eSIM dual no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPad & Apple Watch eSIM: Complete Guide"
+  - title: "eSIM para iPad y Apple Watch: guía completa"
     permalink: "/faq/ipad-apple-watch-esim-support-guide/"
     date: "2026-05-23"
-  - title: "iPhone SE eSIM Compatibility Guide"
+  - title: "Guía de compatibilidad eSIM del iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
+  - title: "Guía completa de configuración de eSIM para iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 16 eSIM Activation Solutions"
+  - title: "Guía definitiva 2026: soluciones de activación de eSIM para iPhone 16"
     permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
-## Respuesta Rápida: ¿Necesita una eSIM Regional de EE.UU.-Canadá?
+Si tu itinerario toca tanto Estados Unidos como Canadá, la primera decisión es si comprar un plan regional o dos de un solo país. Una eSIM regional cubre ambos países con una sola compra y una sola instalación, y cambia de red automáticamente en la frontera, así que nunca tendrás que cambiar de tarjeta ni comprar un nuevo plan a mitad del viaje. Si te quedas dentro de un solo país todo el tiempo, un plan de un solo país suele ser más barato y sencillo. La siguiente tabla asigna cada situación transfronteriza a un proveedor recomendado, seguida de los cuatro datos que más importan al compararlos.
 
-**Si su viaje cruza la frontera aunque sea una vez, una eSIM regional de EE.UU.-Canadá suele ser la opción más conveniente.**  
-Si se queda solo en un país, una eSIM de un solo país suele ser más barata.
+## Respuesta rápida: ¿necesitas una eSIM regional de EE. UU. y Canadá?
 
-| Su Situación | Elección Recomendada | Por Qué |
+**Si tu viaje cruza la frontera aunque sea una vez, una eSIM regional de EE. UU. y Canadá suele ser la opción más práctica.**  
+Si solo te quedas en un país, una eSIM de un solo país suele ser más barata.
+
+| Tu situación | Opción recomendada | Por qué |
 |----------------|---------------------|-----|
 | Viaje transfronterizo corto, precio más bajo | **Lumbus** | Desde $1.99 / 500MB / 1 día |
-| Datos verdaderamente ilimitados, sin FUP | **BLIVALE** | Ilimitado EE.UU. + Canadá |
-| Mejor en general Norteamérica | **Nomad** | Multi-red, buen valor |
-| Ilimitado EE.UU. + Canadá más barato | **Ubigi** | $29 / 7 días ilimitado |
-| Necesita un número local | **SimCorner** (algunos planes) o **Saily** (EE.UU. +1) | Recibir códigos de verificación |
-| Tres países EE.UU.-Canadá-México | **OVOSIM** | Una tarjeta cubre los tres |
-| Privacidad + seguridad | **Saily** | Equipo NordVPN |
-| App para principiantes | **Airalo** | Configuración fácil, planes flexibles |
-| Comodidad respaldada por operador | **AT&T eSIM** | Turbo Live, llamadas/SMS |
+| Datos verdaderamente ilimitados, sin FUP | **BLIVALE** | EE. UU. + Canadá ilimitados |
+| Mejor opción general para Norteamérica | **Nomad** | Multirred, buena relación calidad-precio |
+| Ilimitado más barato para EE. UU. + Canadá | **Ubigi** | $25 / 7 días ilimitados |
+| Necesitas un número local | **SimCorner** (algunos planes) o **Saily** (EE. UU. +1) | Recibir códigos de verificación |
+| Tres países: EE. UU.-Canadá-México | **OVOSIM** | Una sola tarjeta cubre los tres |
+| Privacidad + seguridad | **Saily** | Equipo de NordVPN |
+| App fácil para principiantes | **Airalo** | Configuración sencilla, planes flexibles |
+| Comodidad respaldada por operador | **eSIM de AT&T** | Turbo Live, llamadas/SMS |
 
 **Datos clave:**
-- Una eSIM regional cubre ambos países con una compra, una instalación y cambio automático de red en la frontera.
-- **No** necesita cambiar tarjetas, reactivar o comprar un nuevo plan al cruzar.
+- Una eSIM regional cubre ambos países con una sola compra, una sola instalación y cambio de red automático en la frontera.
+- **No** necesitas cambiar de tarjeta, reactivar ni comprar un nuevo plan al cruzar.
 - Las eSIM transfronterizas suelen costar mucho menos que el roaming internacional.
-- La mayoría de las eSIM regionales son solo datos. Si necesita un número de teléfono, consulte nuestra [guía de eSIM Canadá con número](/blog/canada-esim-with-phone-number-guide/).
+- La mayoría de las eSIM regionales son solo de datos. Si necesitas un número de teléfono, consulta nuestra [guía de eSIM para Canadá con número](/blog/canada-esim-with-phone-number-guide/).
 
-**¿Quiere probar la cobertura antes de su viaje?** Pruebe una [prueba eSIM gratuita](/free-esim/) o un [plan eSIM Canadá de Roami](/canada-esim/) desde **$1.99** para verificar la señal en ambos lados de la frontera. Los nuevos usuarios obtienen **20% de descuento** con el código `web20`, más el **soporte humano 24/7** de Roami.
+**¿Quieres probar la cobertura antes de tu viaje?** Prueba una [eSIM de prueba gratuita](/free-esim/) o un [plan de eSIM para Canadá de Roami](/canada-esim/) desde **$1.99** para comprobar la señal a ambos lados de la frontera. Introduce `web20` al pagar para obtener un **20 % de descuento** en tu primer plan — el equipo de soporte de Roami responde a cualquier hora.
 
-**Una nota sobre nuestras fuentes de datos:** Esta guía combina información de proveedores disponible públicamente, informes de cruce de frontera de viajeros en Reddit y Trustpilot, y documentación oficial de [CRTC](https://crtc.gc.ca/eng/phone/mobile/) y [FCC](https://www.fcc.gov/). Etiquetamos claramente de dónde proviene la información. No presentamos nuestras propias pruebas de velocidad o tiempos de cambio porque no podemos verificarlos según estándares científicos.
+**Una nota sobre nuestras fuentes de datos:** esta guía combina información pública de proveedores, informes de cruces fronterizos de viajeros en Reddit y Trustpilot, y documentación oficial de la [CRTC](https://crtc.gc.ca/eng/phone/mobile/) y la [FCC](https://www.fcc.gov/). Indicamos claramente de dónde proviene cada información. No presentamos nuestras propias pruebas de velocidad ni tiempos de cambio porque no podemos verificarlos con estándares científicos.
 
-Para una base de datos completa de proveedores con planes solo Canadá, consulte nuestra [base de datos de comparación de eSIM Canadá](/blog/canada-esim-comparison-2026/). Para mapas de cobertura en Canadá, consulte nuestra [guía de cobertura de eSIM Canadá](/blog/canada-esim-coverage-guide/).
+Para una base de datos completa de proveedores con planes solo para Canadá, consulta nuestra [base de datos comparativa de eSIM para Canadá](/blog/canada-esim-comparison-2026/). Para mapas de cobertura en Canadá, consulta nuestra [guía de cobertura de eSIM para Canadá](/blog/canada-esim-coverage-guide/).
 
-## Por Qué los Viajeros Transfronterizos Necesitan una eSIM de EE.UU.-Canadá
+## Por qué los viajeros transfronterizos necesitan una eSIM de EE. UU. y Canadá
 
-Su itinerario abarca Estados Unidos y Canadá—quizás un viaje de negocios de Nueva York a Toronto, una escapada de fin de semana de Seattle a Vancouver, una visita a dos países en las Cataratas del Niagara, o un desplazamiento entre EE.UU. y Canadá para un gran evento. Sea cual sea el caso, enfrenta una pregunta común:
+Tu itinerario abarca Estados Unidos y Canadá —quizás un viaje de negocios de Nueva York a Toronto, una escapada de fin de semana de Seattle a Vancouver, una visita de dos países a las Cataratas del Niágara, o trayectos entre EE. UU. y Canadá para un evento importante. Sea cual sea el caso, te enfrentas a una pregunta común:
 
-**Cuando viaja entre los dos países, ¿cómo conecta su teléfono?**
+**Al viajar entre los dos países, ¿cómo conectas tu teléfono a internet?**
 
-Si planea comprar una eSIM de EE.UU. y una eSIM de Canadá por separado, eso significa dos compras, dos instalaciones, dos activaciones: problemático y propenso a errores. Si planea usar el roaming internacional de su operador de origen, las tarifas diarias tanto en EE.UU. como en Canadá suelen estar entre $10 y $15, y un solo viaje transfronterizo podría costar más de $200 solo en roaming. Si planea cambiar una tarjeta cada vez que cruza la frontera—Detroit a Windsor, Seattle a Vancouver—cruzar la frontera toma solo unos minutos, pero cambiar tarjetas toma una eternidad.
+Si planeas comprar una eSIM de EE. UU. y otra de Canadá por separado, eso significa dos compras, dos instalaciones, dos activaciones: engorroso y propenso a errores. Si planeas usar el roaming internacional de tu operador de origen, las tarifas diarias tanto en EE. UU. como en Canadá suelen estar entre $10 y $15, y un solo viaje transfronterizo podría costar más de $200 solo en roaming. Si planeas cambiar de tarjeta cada vez que cruces la frontera —de Detroit a Windsor, de Seattle a Vancouver— cruzar la frontera toma solo unos minutos, pero cambiar de tarjeta lleva una eternidad.
 
-**Una eSIM regional de EE.UU.-Canadá es la respuesta.**
+**Una eSIM regional de EE. UU. y Canadá es la respuesta.**
 
-Una eSIM, una compra, una instalación, que cubre tanto Estados Unidos como Canadá. Al cruzar la frontera, no hay necesidad de cambiar tarjetas, no hay necesidad de reactivar y no hay necesidad de preocuparse por las tarifas de roaming—su teléfono cambia automáticamente de red, y puede que ni siquiera note que ha cruzado la frontera.
+Una eSIM, una compra, una instalación, cubriendo Estados Unidos y Canadá. Al cruzar la frontera, no hay que cambiar de tarjeta, no hay que reactivar y no hay que preocuparse por cargos de roaming: tu teléfono cambia de red automáticamente, y puede que ni siquiera notes que cruzaste la frontera.
 
-### Escenarios Transfronterizos Comunes EE.UU.-Canadá
+### Escenarios transfronterizos comunes entre EE. UU. y Canadá
 
-Los viajes transfronterizos entre EE.UU. y Canadá son mucho más frecuentes de lo que la mayoría de la gente imagina. Canadá es el mayor socio comercial y vecino de Estados Unidos, con decenas de millones de cruces entre los dos países cada año.
+Los viajes transfronterizos entre EE. UU. y Canadá son mucho más frecuentes de lo que la mayoría imagina. Canadá es el mayor socio comercial y vecino de Estados Unidos, con decenas de millones de cruces entre ambos países cada año.
 
-- **Ruta clásica de la Costa Este:** Nueva York → Toronto → Montreal, o Nueva York → Cataratas del Niagara (ambos lados) → Toronto. Conducir de Nueva York a Toronto toma unas 8 horas.
-- **Ruta corta de la Costa Oeste:** Seattle → Vancouver, a solo unos 230 km de distancia, un viaje de 3 horas. Los viajes de ida y vuelta en el mismo día son comunes.
-- **Conducción transfronteriza:** Detroit a Windsor toma solo unos 10 minutos en auto. Búfalo a las Cataratas del Niagara es aún más corto.
-- **Viajes de negocios:** Ida y vuelta en una semana—reuniones en Nueva York, ferias comerciales en Toronto, visitas a clientes en Vancouver.
-- **Grandes eventos:** Eventos deportivos, conciertos y conferencias atraen regularmente a viajeros a través de la frontera.
+- **Ruta clásica de la costa este:** Nueva York → Toronto → Montreal, o Nueva York → Cataratas del Niágara (ambos lados) → Toronto. Conducir de Nueva York a Toronto toma unas 8 horas.
+- **Ruta corta de la costa oeste:** Seattle → Vancouver, a solo unos 230 km de distancia, 3 horas en coche. Los viajes de ida y vuelta en el mismo día son habituales.
+- **Ruta de Alaska:** conducir por la Alaska Highway o navegar en un crucero por el Inside Passage implica largos tramos dentro de Canadá; un plan de EE. UU. y Canadá te mantiene conectado en esos tramos, mientras que un plan solo de EE. UU. se apaga en cuanto cruzas a Yukón o Columbia Británica.
+- **Autodesplazamiento transfronterizo:** de Detroit a Windsor se llega en unos 10 minutos en coche. De Búfalo a las Cataratas del Niágara es aún más corto.
+- **Viajes de negocios:** idas y vueltas en una semana —reuniones en Nueva York, ferias comerciales en Toronto, visitas a clientes en Vancouver.
+- **Eventos importantes:** eventos deportivos, conciertos y conferencias atraen regularmente a viajeros que cruzan la frontera.
 
-### eSIM EE.UU.-Canadá vs eSIM Separadas por País
+### eSIM de EE. UU. y Canadá frente a eSIM de países separados
 
-| Elemento de Comparación | eSIM Regional EE.UU.-Canadá | Comprar EE.UU. + Canadá por Separado | Roaming Internacional |
+| Concepto de comparación | eSIM regional de EE. UU. y Canadá | Comprar EE. UU. + Canadá por separado | Roaming internacional |
 |----------------|------------------------|------------------------------|----------------------|
 | Número de compras | **1** | 2 | No se necesita compra |
 | Número de instalaciones | **1** | 2 | No se necesita instalación |
-| Acción en la frontera | **Ninguna** (automática) | Cambiar o reactivar | Ninguna (roaming automático) |
-| Precio | Un precio único | Suma de dos países | Extremadamente alto ($10–15/día/país) |
-| Riesgo de tarifas de roaming | **Ninguno** | Ninguno | Extremadamente alto |
-| Escenario adecuado | Viajes en ambos países | Viajes en un solo país | Cualquier escenario (pero caro) |
+| Acción en la frontera | **Ninguna** (automático) | Cambiar o reactivar | Ninguna (roaming automático) |
+| Precio | Un precio fijo | Suma de dos países | Extremadamente alto ($10–15/día/país) |
+| Riesgo de cargos de roaming | **Ninguno** | Ninguno | Extremadamente alto |
+| Escenario adecuado | Viajes por ambos países | Viajes de un solo país | Cualquier escenario (pero caro) |
 
-**Conclusión principal:** Si planea desplazarse entre EE.UU. y Canadá, una eSIM regional es la única opción que ahorra tanto dinero como problemas. Comprar dos eSIM separadas no solo desperdicia tiempo de instalación, sino que también hace fácil olvidar cambiar la línea de datos en la frontera.
+**Conclusión clave:** si planeas trasladarte entre EE. UU. y Canadá, una eSIM regional es la única opción que ahorra dinero y molestias. Comprar dos eSIM separadas no solo desperdicia tiempo de instalación, sino que facilita olvidar cambiar la línea de datos en la frontera.
 
-### Cómo Funcionan las eSIM Regionales en la Frontera
+### Cómo funcionan las eSIM regionales en la frontera
 
-Las eSIM regionales son técnicamente idénticas a las eSIM de un solo país—ambas instalan un perfil digital en su teléfono y se conectan a redes móviles locales. Las especificaciones eSIM de [GSMA](https://www.gsma.com/esim/) garantizan la interoperabilidad.
+Las eSIM regionales son técnicamente idénticas a las eSIM de un solo país: ambas instalan un perfil digital en tu teléfono y se conectan a redes móviles locales. Las especificaciones eSIM de la [GSMA](https://www.gsma.com/esim/) garantizan la interoperabilidad.
 
-**La diferencia clave:** El perfil de una eSIM regional tiene **información de acceso a la red para múltiples países precargada**. Cuando entra a Canadá desde Estados Unidos:
+**La diferencia clave:** el perfil de una eSIM regional tiene **información de acceso a redes de varios países precargada**. Cuando entras a Canadá desde Estados Unidos:
 
-1. Su teléfono detecta que la señal de la red de EE.UU. se está debilitando y la señal de la red canadiense se está fortaleciendo.
-2. El perfil de la eSIM se conecta automáticamente a la red del operador asociado canadiense preestablecido.
+1. Tu teléfono detecta que la señal de la red estadounidense se debilita y la de la red canadiense se fortalece.
+2. El perfil de la eSIM se conecta automáticamente a la red del operador canadiense asociado predefinido.
 3. Todo el proceso suele tomar **1–5 minutos**.
-4. En áreas de cobertura superpuesta como Detroit-Windsor o Búfalo-Toronto, el cambio puede completarse **antes** del cruce físico de la frontera.
+4. En zonas de cobertura superpuesta como Detroit-Windsor o Búfalo-Toronto, el cambio puede completarse **antes del cruce físico de la frontera**.
 
-**No necesita hacer nada**—sin volver a escanear códigos QR, sin reactivación, sin contactar al servicio al cliente. El servicio de datos se reanuda automáticamente después de un breve cambio. Para las diferencias de cobertura entre las tres principales redes de Canadá, consulte nuestra [guía de cobertura de red de eSIM Canadá](/blog/canada-esim-coverage-guide/).
+**No necesitas hacer nada** —ni reescanear códigos QR, ni reactivar, ni contactar al servicio al cliente. El servicio de datos se reanuda automáticamente tras un breve cambio. Para las diferencias de cobertura entre las tres grandes redes canadienses, consulta nuestra [guía de cobertura de redes de eSIM para Canadá](/blog/canada-esim-coverage-guide/).
 
-### Comparación de Costos de eSIM EE.UU.-Canadá
+### Comparación de costes de eSIM de EE. UU. y Canadá
 
-| Método | Viaje Transfronterizo de 7 Días (5GB) | Viaje Transfronterizo de 14 Días (10GB) | Ventaja Clave |
+| Método | Viaje transfronterizo de 7 días (5GB) | Viaje transfronterizo de 14 días (10GB) | Ventaja principal |
 |--------|-------------------------------|--------------------------------|---------------|
-| Verizon TravelPass | $120+ | $280+ | Ninguna—caro |
-| AT&T International Day Pass | $70+ | $140+ | Operador familiar |
-| Pase prepago de T-Mobile | $25/7 días | $50/30 días | Respaldado por operador |
-| SIM local (EE.UU. + Canadá por separado) | $80–$120 | $120–$180 | Confiabilidad local |
-| **eSIM regional (Lumbus)** | **$10.99** | **$16.99** | **Bajo costo** |
-| **eSIM regional (Nomad)** | **$14–18** | **$25** | **Buena cobertura** |
-| **eSIM regional (Ubigi ilimitado)** | **$29** | **$45** | **Datos ilimitados** |
+| Verizon TravelPass | $120+ | $280+ | Ninguna — caro |
+| AT&T International Day Pass | $70+ | $140+ | Operador conocido |
+| Pase de prepago de T-Mobile | $25/7 días | $50/30 días | Respaldado por operador |
+| SIM local (EE. UU. + Canadá por separado) | $80–$120 | $120–$180 | Fiabilidad local |
+| **eSIM regional (Lumbus)** | **$10.99** | **$16.99** | **Bajo coste** |
+| **eSIM regional (Nomad)** | **$13–17** | **$17** | **Buena cobertura** |
+| **eSIM regional (Ubigi ilimitado)** | **$25** | **$39** | **Datos ilimitados** |
 
-**Los ahorros pueden ser significativos.** Para una familia de cuatro, usar una eSIM regional en lugar del roaming del operador podría ahorrar cientos de dólares. Para empezar poco a poco, los [planes eSIM Canadá](/canada-esim/) de Roami comienzan en **$1.99** con un **20% de descuento para nuevos usuarios** — útil para una prueba rápida de cruce de frontera.
+**El ahorro puede ser significativo.** Para una familia de cuatro, usar una eSIM regional en lugar del roaming del operador podría ahorrar cientos de dólares. Para empezar con poco, los [planes de eSIM para Canadá](/canada-esim/) de Roami comienzan en **$1.99** con un **descuento del 20 % para nuevos usuarios** — útil para una prueba rápida de cruce fronterizo.
 
-**Nuevas opciones de operadores para 2026:** AT&T lanzó "eSIM by AT&T" en mayo de 2026, ofreciendo pases de 1 día, 7 días, 15 días y 30 días con datos ilimitados, 5GB de hotspot y próximamente llamadas/SMS ilimitados. Los pases diarios prepago de T-Mobile comienzan en $25 por siete días y $50 por 30 días. Estas opciones de operadores son convenientes pero suelen costar 3–5× más que los proveedores de eSIM de viaje por la misma cobertura.
+**Nuevas opciones de operadores para 2026:** AT&T lanzó "eSIM by AT&T" en mayo de 2026, ofreciendo pases de 1, 7, 15 y 30 días con datos ilimitados, 5GB de punto de acceso y, próximamente, llamadas/SMS ilimitadas. Los pases diarios de prepago de T-Mobile comienzan en $25 por siete días y $50 por 30 días. Estas opciones de operadores son prácticas, pero suelen costar entre 3 y 5 veces más que los proveedores de eSIM de viaje para la misma cobertura.
 
-### Cuándo una eSIM de un Solo País Es Más Barata
+**Antes de comprar nada, revisa tu plan actual.** Muchos planes de pospago en EE. UU. — T-Mobile Go5G y superiores, AT&T Unlimited Ultimate, Verizon Unlimited Plus — ya incluyen roaming en Canadá sin coste adicional. Si ese es tu caso, comprar una eSIM de viaje para Canadá significa pagar dos veces. Confirma los términos canadienses y las velocidades de datos de tu plan en la aplicación del operador antes de gastar nada; una comprobación de cinco minutos puede ahorrarte el coste completo de la opción más barata de esta guía.
 
-No todos los viajeros necesitan una eSIM regional. Si su itinerario solo toca un país, una eSIM de un solo país es casi siempre más barata.
+### Cuándo es más barata una eSIM de un solo país
 
-| Su Viaje | Mejor Elección | Por Qué |
+No todos los viajeros necesitan una eSIM regional. Si tu itinerario solo toca un país, una eSIM de un solo país es casi siempre más barata.
+
+| Tu viaje | Mejor opción | Por qué |
 |-----------|-------------|-----|
-| Solo Canadá, sin cruce a EE.UU. | eSIM solo Canadá | Comienza en $2; sin prima transfronteriza |
-| Solo EE.UU., sin cruce a Canadá | eSIM solo EE.UU. | Comienza en $1.99; no se necesita acceso a red canadiense |
-| EE.UU. + Canadá, uno o más cruces | **eSIM regional** | Una compra, una instalación, cambio automático |
-| EE.UU. + Canadá + México | **eSIM regional de tres países** | Una tarjeta cubre los tres; ideal para eventos multi-país |
+| Solo Canadá, sin cruce a EE. UU. | eSIM solo de Canadá | Desde $2; sin sobrecoste transfronterizo |
+| Solo EE. UU., sin cruce a Canadá | eSIM solo de EE. UU. | Desde $1.99; sin necesidad de acceso a redes canadienses |
+| EE. UU. + Canadá, uno o más cruces | **eSIM regional** | Una compra, una instalación, cambio automático |
+| EE. UU. + Canadá + México | **eSIM regional de tres países** | Una tarjeta cubre los tres; ideal para eventos multipaís |
 
-**Regla general:** Si cruza la frontera aunque sea una vez, la conveniencia de una eSIM regional generalmente justifica la pequeña diferencia de precio. Si nunca cruza, compre de un solo país.
+**Regla práctica:** si cruzas la frontera aunque sea una vez, la comodidad de una eSIM regional suele justificar la pequeña diferencia de precio. Si nunca cruzas, compra de un solo país.
 
-## Comparación de Proveedores de eSIM EE.UU.-Canadá
+## Comparación de proveedores de eSIM para EE. UU. y Canadá
 
-Esta sección se centra **solo en proveedores que ofrecen verdaderos planes regionales EE.UU.-Canadá**—no proveedores que venden EE.UU. y Canadá por separado. Para la base de datos completa de proveedores con planes solo Canadá, consulte nuestra [base de datos de planes eSIM Canadá](/blog/canada-esim-comparison-2026/).
+Esta sección se centra **solo en los proveedores que ofrecen verdaderos planes regionales de EE. UU. y Canadá** — no en proveedores que venden EE. UU. y Canadá por separado. Para la base de datos completa de proveedores con planes solo para Canadá, consulta nuestra [base de datos de planes de eSIM para Canadá](/blog/canada-esim-comparison-2026/).
 
-### Tabla de Filtro de Proveedores de eSIM Transfronteriza
+### Tabla de filtrado de proveedores de eSIM transfronterizos
 
-| Proveedor | Mejor Para | Precio Inicial | Países Cubiertos | Red | Llamadas/SMS | Hotspot | 5G | Veredicto Transfronterizo |
+| Proveedor | Mejor para | Precio inicial | Países cubiertos | Red | Llamadas/SMS | Punto de acceso | 5G | Veredicto transfronterizo |
 |----------|----------|----------------|-------------------|---------|-----------|---------|-----|----------------------|
-| **Lumbus** | Precio de entrada más bajo | $1.99 / 500MB / 1 día | EE.UU. + Canadá | 4G/5G | ❌ | ✅ | ✅ | Mejor para cruces cortos económicos |
-| **BLIVALE** | Verdaderamente ilimitado | Planes ilimitados | EE.UU. + Canadá | Grandes tres de EE.UU. + grandes cuatro de Canadá | ❌ | ✅ (ilimitado) | ✅ | Mejor para datos intensivos, sin FUP |
-| **SimCorner** | Multi-red + número | Desde AU$5 | EE.UU. + Canadá + México | Cambio automático de 8 redes | Algunos planes incluyen número | ✅ (hasta 30GB) | ✅ | Mejor para estabilidad de cobertura y soporte humano |
-| **OVOSIM** | Tres países una tarjeta | €6.99 / 1GB / 7 días | EE.UU. + Canadá + México | EE.UU./Canadá 5G, México 4G | ❌ | ✅ | ✅ | Mejor para viajes EE.UU.-Canadá-México |
-| **Nomad** | Mejor en general Norteamérica | Desde ~€8 | Norteamérica | Multi-red | ❌ | ✅ | ✅ | Mejor elección transfronteriza integral |
-| **Saily** | Seguridad + número de EE.UU. | Desde ~€7 | Norteamérica | Multi-red | EE.UU. +1 opcional | ✅ | ✅ | Mejor para privacidad y número de EE.UU. |
-| **Ubigi** | Ilimitado EE.UU.-Canadá más barato | $5 / 1GB / 7 días | EE.UU. + Canadá | T-Mobile 5G + Bell/Telus | ❌ | ✅ (ilimitado) | ✅ | Mejor valor ilimitado |
-| **Airalo** | Mejor app + planes flexibles | $6.50 / 1GB / 3 días | Norteamérica | Multi-red | Complemento disponible | ✅ | ⚠️LTE | Mejor para principiantes y complementos flexibles |
+| **Lumbus** | Precio de entrada más bajo | $1.99 / 500MB / 1 día | EE. UU. + Canadá | 4G/5G | ❌ | ✅ | ✅ | Mejor para cruces cortos con presupuesto ajustado |
+| **BLIVALE** | Verdaderamente ilimitado | Planes ilimitados | EE. UU. + Canadá | Los tres grandes de EE. UU. + los cuatro grandes de Canadá | ❌ | ✅ (ilimitado) | ✅ | Mejor para uso intensivo de datos, sin FUP |
+| **SimCorner** | Multirred + número | Desde AU$5 | EE. UU. + Canadá + México | Cambio automático entre 8 redes | Algunos planes incluyen número | ✅ (hasta 30GB) | ✅ | Mejor para estabilidad de cobertura y soporte humano |
+| **OVOSIM** | Tres países, una tarjeta | €6.99 / 1GB / 7 días | EE. UU. + Canadá + México | 5G en EE. UU./Canadá, 4G en México | ❌ | ✅ | ✅ | Mejor para viajes EE. UU.-Canadá-México |
+| **Nomad** | Mejor opción general para Norteamérica | Desde ~€8 | Norteamérica | Multirred | ❌ | ✅ | ✅ | Mejor elección transfronteriza todoterreno |
+| **Saily** | Seguridad + número de EE. UU. | Desde ~€7 | Norteamérica | Multirred | Opcional EE. UU. +1 | ✅ | ✅ | Mejor para privacidad y número de EE. UU. |
+| **Ubigi** | Ilimitado más barato para EE. UU.-Canadá | $5 / 1GB / 7 días | EE. UU. + Canadá | T-Mobile 5G + Bell/Telus | ❌ | ✅ (ilimitado) | ✅ | Mejor valor ilimitado |
+| **Airalo** | Mejor app + planes flexibles | $6.50 / 1GB / 3 días | Norteamérica | Multirred | Complemento disponible | ✅ | ⚠️LTE | Mejor para principiantes y complementos flexibles |
 
-*Precios verificados el 1 de septiembre de 2026. Los proveedores que venden EE.UU. y Canadá por separado (ej. Holafly) no se incluyen como opciones transfronterizas—vea la advertencia a continuación.*
+*Precios verificados el 1 de septiembre de 2026. Los proveedores que venden EE. UU. y Canadá por separado (p. ej., Holafly) no se incluyen como opciones transfronterizas — consulta la advertencia a continuación.*
 
-### Cómo Leer la Tabla de eSIM EE.UU.-Canadá
+### Cómo leer la tabla de eSIM de EE. UU. y Canadá
 
-- **Países Cubiertos:** Debe listar explícitamente "EE.UU. + Canadá" o "Norteamérica". No asuma que un plan "Norteamérica" cubre Canadá—algunos proveedores usan el término de manera imprecisa.
-- **Red:** El acceso multi-red significa que la eSIM puede cambiar entre operadores para una mejor cobertura en la frontera.
-- **Llamadas/SMS:** La mayoría de las eSIM de viaje transfronterizo son solo datos. Si necesita un número, consulte nuestras [opciones de eSIM Canadá con número](/blog/canada-esim-with-phone-number-guide/).
-- **Hotspot:** Importante si comparte datos con una laptop o la familia.
-- **5G:** El 5G urbano es común; las áreas rurales pueden bajar a 4G.
+- **Países cubiertos:** debe listar explícitamente "EE. UU. + Canadá" o "Norteamérica". No asumas que un plan de "Norteamérica" cubre Canadá — algunos proveedores usan el término de manera imprecisa.
+- **Red:** el acceso multirred significa que la eSIM puede cambiar entre operadores para mejorar la cobertura en la frontera.
+- **Llamadas/SMS:** la mayoría de las eSIM de viaje transfronterizas son solo de datos. Si necesitas un número, consulta nuestras [opciones de eSIM para Canadá con número](/blog/canada-esim-with-phone-number-guide/).
+- **Punto de acceso:** importante si compartes datos con un portátil o con la familia.
+- **5G:** el 5G urbano es común; las zonas rurales pueden bajar a 4G.
 
-### Advertencia: Proveedores de eSIM EE.UU.-Canadá que Venden por Separado
+### Advertencia: proveedores de eSIM de EE. UU. y Canadá que venden por separado
 
-Algunos proveedores venden planes de EE.UU. y Canadá **por separado**. Si su itinerario abarca ambos países, necesita comprar dos planes—dos instalaciones, dos activaciones. Esto anula el propósito de una eSIM regional.
+Algunos proveedores venden los planes de EE. UU. y Canadá **por separado**. Si tu itinerario abarca ambos países, necesitas comprar dos planes — dos instalaciones, dos activaciones. Esto anula el propósito de una eSIM regional.
 
-**Holafly** es el ejemplo más citado. Los planes de EE.UU. de Holafly (2026) tienen precios separados de los planes de Canadá. Si cruza la frontera, debe comprar dos planes.
+**Holafly** es el ejemplo más citado. Los planes de Holafly para EE. UU. (2026) tienen un precio separado de los de Canadá. Si cruzas la frontera, debes comprar dos planes.
 
-**Veredicto:** Los proveedores que venden por separado son mejores para viajeros que se quedan solo en EE.UU. o solo en Canadá. **No recomendados para viajes transfronterizos.** Para datos ilimitados solo Canadá, consulte nuestra [comparación de proveedores de eSIM Canadá](/blog/canada-esim-comparison-2026/).
+**Veredicto:** los proveedores que venden por separado son mejores para viajeros que se quedan solo en EE. UU. o solo en Canadá. **No recomendado para viajes transfronterizos.** Para datos ilimitados solo de Canadá, consulta nuestra [comparación de proveedores de eSIM para Canadá](/blog/canada-esim-comparison-2026/).
 
-### Pases eSIM de Operadores vs Proveedores de eSIM de Viaje
+### Pases de viaje de eSIM de operadores frente a proveedores de eSIM de viaje
 
-AT&T y T-Mobile lanzaron pases eSIM de viaje en 2026. Así se comparan con los proveedores dedicados de eSIM de viaje:
+AT&T y T-Mobile lanzaron ambos pases de viaje eSIM en 2026. Así se comparan con proveedores de eSIM de viaje dedicados:
 
-| Característica | AT&T eSIM | T-Mobile Pass | Lumbus | Nomad | SimCorner |
+| Característica | eSIM de AT&T | Pase de T-Mobile | Lumbus | Nomad | SimCorner |
 |---------|-----------|---------------|--------|-------|-----------|
-| Precio 1 día EE.UU. | $3.99 | — | $1.99 | — | — |
-| Precio 7 días | ~$20 | $25 | $3.99 (1GB) | $14–18 (5GB) | AU$32 (5 días) |
-| Precio 30 días NA | $59.99 | $50 | $16.99 (5GB) | $25 (10GB) | — |
+| Precio de 1 día en EE. UU. | $3.99 | — | $1.99 | — | — |
+| Precio de 7 días | ~$20 | $25 | $3.99 (1GB) | $14–18 (5GB) | AU$32 (5 días) |
+| Precio de 30 días en Norteamérica | $59.99 | $50 | $16.99 (5GB) | $25 (10GB) | — |
 | Datos ilimitados | ✅ | ❌ | ❌ | ✅ (FUP) | ✅ (3GB/día) |
-| Hotspot | 5GB | — | Algunos planes | ✅ | ✅ (hasta 30GB) |
+| Punto de acceso | 5GB | — | Algunos planes | ✅ | ✅ (hasta 30GB) |
 | Llamadas/SMS | Próximamente | ✅ | ❌ | ❌ | Algunos planes |
 | Red | AT&T | T-Mobile | Multi | Multi | 8 redes |
-| Función de prioridad en multitudes | ✅ Turbo Live | — | ❌ | ❌ | ❌ |
+| Función de prioridad ante aglomeraciones | ✅ Turbo Live | — | ❌ | ❌ | ❌ |
 
-**Conclusión clave:** Los pases eSIM de operadores (AT&T, T-Mobile) son convenientes e incluyen llamadas/SMS, pero cuestan 3–5× más que los proveedores de eSIM de viaje por la misma cobertura. La función Turbo Live de AT&T—que prioriza los datos en lugares concurridos como estadios—es una ventaja única para los asistentes a eventos. Los proveedores de eSIM de viaje ganan en precio, diversidad de red y volumen de datos.
+**Idea clave:** los pases de eSIM de operadores (AT&T, T-Mobile) son prácticos e incluyen llamadas/SMS, pero cuestan entre 3 y 5 veces más que los proveedores de eSIM de viaje para la misma cobertura. La función Turbo Live de AT&T —que prioriza los datos en lugares concurridos como estadios— es una ventaja única para quienes asisten a eventos. Los proveedores de eSIM de viaje ganan en precio, diversidad de redes y volumen de datos.
 
-## Cómo Funciona el Cambio de Red en la Frontera
+## Cómo funciona el cambio de red en la frontera
 
-Este es el núcleo de los viajes con eSIM transfronteriza. Entender cómo funciona el cambio le ayuda a evitar el pánico cuando su teléfono pierde brevemente la señal.
+Este es el núcleo del viaje transfronterizo con eSIM. Entender cómo funciona el cambio te ayuda a evitar el pánico cuando tu teléfono pierde brevemente la señal.
 
-### Qué Sucede Durante un Cambio de Red en la Frontera
+### Qué ocurre durante un cambio de red en la frontera
 
-Cuando entra a Canadá desde EE.UU. (o viceversa), una eSIM regional completa automáticamente el cambio de red.
+Cuando entras a Canadá desde EE. UU. (o viceversa), una eSIM regional completa el cambio de red automáticamente.
 
 **Proceso típico:**
-1. Su teléfono detecta que la señal de la red actual se está debilitando.
-2. El perfil de la eSIM busca el operador asociado canadiense preestablecido.
-3. Se conecta a la nueva red—generalmente **1–5 minutos**.
-4. En áreas superpuestas (Detroit-Windsor, Búfalo-Toronto), el cambio puede completarse **antes** de la frontera física.
-5. Puede ocurrir una breve pérdida de conexión (1–5 minutos).
-6. El servicio de datos se reanuda automáticamente—**no se requiere acción**.
+1. Tu teléfono detecta que la señal de la red actual se debilita.
+2. El perfil de la eSIM busca el operador canadiense asociado predefinido.
+3. Se conecta a la nueva red —normalmente **1–5 minutos**.
+4. En zonas superpuestas (Detroit-Windsor, Búfalo-Toronto), el cambio puede completarse **antes** de la frontera física.
+5. Puede producirse una breve pérdida de conexión (1–5 minutos).
+6. El servicio de datos se reanuda automáticamente —**no se requiere ninguna acción**.
 
-**Lo que puede ver en su teléfono:**
+**Lo que puedes ver en tu teléfono:**
 - Las barras de señal bajan a cero durante 1–5 minutos.
 - El nombre del operador cambia de T-Mobile/AT&T/Verizon a Rogers/Bell/Telus.
 - Un breve mensaje de "Sin servicio" o "Solo llamadas de emergencia".
-- Los datos se reanudan sin que usted toque nada.
+- Los datos se reanudan sin que toques nada.
 
-**Lo que NO debe hacer:**
-- No reinicie su teléfono repetidamente.
-- No elimine y reinstale la eSIM.
-- No entre en pánico y compre un nuevo plan.
-- No active el roaming de datos en su SIM de origen.
+**Lo que NO debes hacer:**
+- No reinicies el teléfono repetidamente.
+- No elimines y reinstales la eSIM.
+- No entren en pánico y compres un nuevo plan.
+- No actives el roaming de datos en tu SIM de origen.
 
-### Configuración de eSIM EE.UU.-Canadá Antes y Después del Cruce
+### Configuración de la eSIM de EE. UU. y Canadá antes y después de cruzar
 
-**Antes de la salida:**
-1. Instale la eSIM en Wi-Fi.
-2. Confirme que se agregó a su teléfono.
-3. Guarde la información del pedido y el contacto del servicio al cliente.
-4. **Importante:** Mantenga el cambio automático de datos DESACTIVADO. Su eSIM regional cambiará de red por sí sola—no necesita activar el roaming de datos en su SIM de origen.
-5. Descargue indicaciones fronterizas y mapas offline antes del viaje.
+**Antes de salir:**
+1. Instala la eSIM con Wi-Fi.
+2. Confirma que está añadida a tu teléfono.
+3. Guarda la información del pedido y el contacto del servicio al cliente.
+4. **Importante:** mantén el cambio automático de datos DESACTIVADO. Tu eSIM regional cambiará de red por sí sola — no necesitas activar el roaming de datos en tu SIM de origen.
+5. Descarga las indicaciones para la frontera y mapas sin conexión antes del viaje.
 
 **En la frontera:**
-1. **No se requiere acción.**
-2. Si la conexión no se reanuda después de 5 minutos:
-   - Active/desactive el modo avión durante 30 segundos.
-   - Seleccione manualmente el operador de red (Ajustes → Celular → Selección de red).
-   - Espere otros 2–3 minutos.
+1. **No se requiere ninguna acción.**
+2. Si la conexión no se reanuda tras 5 minutos:
+   - Activa y desactiva el modo avión durante 30 segundos.
+   - Selecciona manualmente el operador de red (Ajustes → Datos móviles → Selección de red).
+   - Espera otros 2–3 minutos.
 
-**Después del cruce:**
-1. Confirme que el servicio de datos se reanudó.
-2. Verifique que está en la red local correcta.
-3. Continúe con el uso normal.
+**Después de cruzar:**
+1. Confirma que el servicio de datos se reanudó.
+2. Comprueba que estás en la red local correcta.
+3. Continúa el uso normal.
 
-### Configuración Dual-SIM para Viajes Transfronterizos
+### Configuración de SIM dual para viajes transfronterizos
 
-| Configuración | Recomendado | Por Qué |
+| Ajuste | Recomendado | Por qué |
 |---------|-------------|-----|
-| Línea de datos predeterminada | eSIM regional | Todos los datos a través del plan transfronterizo |
+| Línea de datos predeterminada | eSIM regional | Todos los datos mediante el plan transfronterizo |
 | Línea de voz predeterminada | Número original | Recibir llamadas y SMS de casa |
-| Roaming de datos en número original | **DESACTIVADO** | Prevenir cargos de roaming accidentales |
-| Permitir cambio de datos celulares | **DESACTIVADO** | Prevenir que los datos cambien a la SIM de origen |
-| Roaming de datos en eSIM regional | **ACTIVADO** (cuando se indique) | Algunos proveedores lo requieren para la activación |
+| Roaming de datos en el número original | **DESACTIVADO** | Evitar cargos de roaming accidentales |
+| Permitir cambio de datos móviles | **DESACTIVADO** | Evitar que los datos cambien a la SIM de origen |
+| Roaming de datos en la eSIM regional | **ACTIVADO** (cuando se indique) | Algunos proveedores lo requieren para la activación |
 
-**Importante:** Si "Permitir cambio de datos celulares" está ACTIVADO, su teléfono puede cambiar a su SIM de origen cuando la eSIM regional tiene señal débil. Esto puede activar cargos de roaming de $10–$15/día. Manténgalo DESACTIVADO.
+**Importante:** si "Permitir cambio de datos móviles" está ACTIVADO, tu teléfono puede cambiar a tu SIM de origen cuando la eSIM regional tenga señal débil. Esto puede generar cargos de roaming de $10–$15/día. Mantenlo DESACTIVADO.
 
-### Zonas Horarias y Validez de la eSIM
+### Zonas horarias y validez de la eSIM
 
-EE.UU. y Canadá abarcan múltiples zonas horarias. Los cambios de zona horaria no afectan el cambio de red—el cambio se basa en la intensidad de la señal, no en el tiempo. Pero los cambios de zona horaria afectan la visualización de la hora de su teléfono, lo que afecta su juicio sobre la validez restante.
+EE. UU. y Canadá abarcan múltiples zonas horarias. Los cambios de zona horaria no afectan al cambio de red — el cambio se basa en la intensidad de la señal, no en la hora. Pero los cambios de zona horaria afectan la visualización de la hora en tu teléfono, lo que afecta tu cálculo de la validez restante.
 
-**Consejo:** Después de cruzar, confirme que la hora de su teléfono se actualizó a la hora local. La mayoría de los períodos de validez de eSIM se calculan en hora local (ej. "7 días" = 168 horas desde la activación). Los cambios de zona horaria no acortan ni extienden la validez real.
+**Consejo:** tras cruzar, confirma que la hora de tu teléfono se actualizó a la hora local. La mayoría de los períodos de validez de las eSIM se calculan en hora local (p. ej., "7 días" = 168 horas desde la activación). Los cambios de zona horaria no acortan ni prolongan la validez real.
 
-### Tiempos de Cambio Reportados por Usuarios en Principales Cruces Fronterizos
+### Tiempos de cambio reportados por usuarios en los principales cruces fronterizos
 
-Basado en informes públicos de usuarios, esto es lo que los viajeros experimentan comúnmente en los principales cruces fronterizos EE.UU.-Canadá:
+Según informes públicos de usuarios, esto es lo que los viajeros suelen experimentar en los principales cruces fronterizos entre EE. UU. y Canadá:
 
-| Cruce Fronterizo | Tiempo de Cambio Reportado | Cambio de Red | Notas |
+| Cruce fronterizo | Tiempo de cambio reportado | Cambio de red | Notas |
 |-----------------|----------------------|----------------|-------|
-| Detroit-Windsor (Ambassador Bridge) | Unos minutos | T-Mobile → Rogers | Generalmente automático |
-| Búfalo-Cataratas del Niagara | Unos minutos | Verizon → Bell | Posible pérdida breve de señal |
+| Detroit-Windsor (Ambassador Bridge) | Unos minutos | T-Mobile → Rogers | Normalmente automático |
+| Búfalo-Cataratas del Niágara | Unos minutos | Verizon → Bell | Posible breve pérdida de señal |
 | Seattle-Vancouver (Peace Arch) | 1–3 minutos | T-Mobile → Telus | A menudo se completa antes de la frontera física |
-| Blaine, WA — Surrey, BC | 2–3 minutos | AT&T → Bell | Generalmente fluido |
-| Llegada a Toronto Pearson (YYZ) | En minutos | Bell LTE | 5G disponible en la terminal |
-| Llegada a Vancouver International (YVR) | En minutos | Telus 5G | Los datos funcionan rápidamente después de aterrizar |
+| Blaine, WA — Surrey, BC | 2–3 minutos | AT&T → Bell | Generalmente sin problemas |
+| Llegada a Toronto Pearson (YYZ) | En cuestión de minutos | Bell LTE | 5G disponible en la terminal |
+| Llegada a Vancouver International (YVR) | En cuestión de minutos | Telus 5G | Los datos funcionan rápidamente tras aterrizar |
 
-**Nota:** Estos son patrones generales de informes públicos de usuarios, no nuestros propios resultados de pruebas. Los tiempos de cambio reales varían según la ubicación, el dispositivo y las condiciones de la red.
+**Nota:** estos son patrones generales de informes públicos de usuarios, no resultados de nuestras propias pruebas. Los tiempos de cambio reales varían según la ubicación, el dispositivo y las condiciones de la red.
 
-### Si el Cambio de eSIM en la Frontera Toma Más de 5 Minutos
+### Si el cambio de eSIM en la frontera tarda más de 5 minutos
 
-Si su conexión no se reanuda después de 5 minutos:
+Si tu conexión no se reanuda tras 5 minutos:
 
-1. **Active/desactive el Modo Avión** durante 30 segundos. Esto fuerza al teléfono a escanear redes nuevamente.
-2. **Seleccione la red manualmente:** Ajustes → Celular → Selección de red → desactive Automático → seleccione Rogers/Bell/Telus.
-3. **Reinicie su teléfono.** Esto elimina problemas temporales de registro de red.
-4. **Verifique que su línea eSIM esté habilitada** y el roaming de datos esté ACTIVADO.
-5. **Verifique el estado de su plan** en la app del proveedor—puede estar vencido o los datos agotados.
-6. **Contacte al soporte del proveedor** con su número de pedido e ICCID.
+1. **Activa y desactiva el modo avión** durante 30 segundos. Esto obliga al teléfono a reescanear las redes.
+2. **Selecciona la red manualmente:** Ajustes → Datos móviles → Selección de red → desactiva Automático → selecciona Rogers/Bell/Telus.
+3. **Reinicia tu teléfono.** Esto limpia problemas temporales de registro en la red.
+4. **Comprueba que tu línea eSIM está activada** y que el roaming de datos está ACTIVADO.
+5. **Revisa el estado de tu plan** en la aplicación del proveedor — puede estar caducado o con los datos agotados.
+6. **Contacta al soporte del proveedor** con tu número de pedido e ICCID.
 
-**Solución única más efectiva:** Selección manual de red. Esto resuelve muchos casos de "señal pero sin datos" en la frontera.
+**La solución individual más eficaz:** la selección manual de red. Resuelve muchos casos de "señal pero sin datos" en la frontera.
 
-## Cómo Elegir la Mejor eSIM de EE.UU.-Canadá
+## Cómo elegir la mejor eSIM de EE. UU. y Canadá
 
-### Matriz de Decisión Rápida
+### Matriz de decisión rápida
 
-| Su Situación | Mejor Elección | Respaldo | Razón |
+| Tu situación | Mejor opción | Respaldo | Razón |
 |----------------|-------------|--------|--------|
-| Presupuesto limitado, viaje transfronterizo corto | **Lumbus** | eSIM-Now | Desde $1.99, precio más bajo |
-| Necesita datos verdaderamente ilimitados | **BLIVALE** | — | Sin FUP, sin throttling |
-| Necesita cobertura de tres países EE.UU.-Canadá-México | **OVOSIM** | Nomad | Una tarjeta cubre tres países |
-| Necesita un número local | **SimCorner** (algunos planes) o **Saily** (número de EE.UU.) | — | Recibir códigos de verificación |
-| Valora seguridad y privacidad | **Saily** | — | Equipo NordVPN |
-| Mejor en general Norteamérica | **Nomad** | Airalo | Buen rendimiento en frontera y viajes por carretera |
-| Enfocado en EE.UU., viajes ocasionales a Canadá | **Airalo** | Nomad | Planes flexibles, app excelente |
-| Ilimitado más barato para EE.UU.-Canadá | **Ubigi** | — | $29/7 días ilimitado |
-| Viaje lento / estancias largas | **Saily** | — | Validez larga |
-| Comodidad respaldada por operador | **AT&T eSIM** | T-Mobile Pass | Turbo Live, llamadas/SMS |
+| Presupuesto limitado, viaje transfronterizo corto | **Lumbus** | eSIM-Now | Desde $1.99, el precio más bajo |
+| Necesitas datos verdaderamente ilimitados | **BLIVALE** | — | Sin FUP, sin limitación de velocidad |
+| Necesitas cobertura de tres países: EE. UU.-Canadá-México | **OVOSIM** | Nomad | Una tarjeta cubre tres países |
+| Necesitas un número local | **SimCorner** (algunos planes) o **Saily** (número de EE. UU.) | — | Recibir códigos de verificación |
+| Valoras la seguridad y la privacidad | **Saily** | — | Equipo de NordVPN |
+| Mejor opción general para Norteamérica | **Nomad** | Airalo | Buen rendimiento en fronteras y viajes por carretera |
+| Enfoque en EE. UU., viajes ocasionales a Canadá | **Airalo** | Nomad | Planes flexibles, excelente app |
+| Ilimitado más barato para EE. UU.-Canadá | **Ubigi** | — | $25/7 días ilimitados |
+| Viaje lento / estancias largas | **Saily** | — | Larga validez |
+| Comodidad respaldada por operador | **eSIM de AT&T** | Pase de T-Mobile | Turbo Live, llamadas/SMS |
 
-### Elegir eSIM EE.UU.-Canadá por Tipo de Itinerario
+### Elige la eSIM de EE. UU. y Canadá según el tipo de itinerario
 
-**Viaje a ciudades de la Costa Este EE.UU.-Canadá** (Nueva York → Toronto → Montreal)
+**Viaje urbano por la costa este de EE. UU. y Canadá** (Nueva York → Toronto → Montreal)
 - Recomendado: **Nomad** o **Airalo**
 - Datos: 5–10GB
-- Razón: Excelente 5G urbano; ambos funcionan de manera estable en ciudades.
+- Razón: excelente 5G urbano; ambos funcionan de forma estable en las ciudades.
 
-**Viaje corto a la Costa Oeste EE.UU.-Canadá** (Seattle → Vancouver)
+**Viaje corto por la costa oeste de EE. UU. y Canadá** (Seattle → Vancouver)
 - Recomendado: **Lumbus** (desde $1.99) o **Nomad**
 - Datos: 1–3GB
-- Razón: Los viajes cortos necesitan pocos datos.
+- Razón: los viajes cortos necesitan pocos datos.
 
-**Viaje por carretera EE.UU.-Canadá** (auto multi-ciudad)
-- Recomendado: **SimCorner** (cambio automático de 8 redes) o **Nomad**
-- Datos: 10–20GB o ilimitado
-- Razón: Los viajes por carretera requieren la cobertura de red más amplia. Para consejos específicos de ruta, consulte nuestra [guía de eSIM para viajes por carretera en Canadá](/blog/best-esim-canada-road-trip-guide/).
+**Viaje por carretera entre EE. UU. y Canadá** (autodesplazamiento multiciudad)
+- Recomendado: **SimCorner** (cambio automático entre 8 redes) o **Nomad**
+- Datos: 10–20GB o ilimitados
+- Razón: los viajes por carretera requieren la cobertura de red más amplia. Para consejos específicos de ruta, consulta nuestra [guía de eSIM para viajes por carretera en Canadá](/blog/best-esim-canada-road-trip-guide/).
 
-**Viaje para eventos en tres países** (EE.UU., Canadá, México)
+**Viaje a eventos de tres países** (EE. UU., Canadá, México)
 - Recomendado: **OVOSIM** (tres países, una tarjeta) o **Nomad**
-- Datos: 10GB+ o ilimitado
-- Razón: Desplazarse entre tres países; una tarjeta es lo más cómodo.
+- Datos: 10GB+ o ilimitados
+- Razón: traslados entre tres países; una sola tarjeta es la opción más cómoda.
 
-**Viajes de negocios (ida y vuelta EE.UU.-Canadá)**
-- Recomendado: **SimCorner** (opción de número) o **Saily** (número de EE.UU.)
+**Viajes de negocios (idas y vueltas entre EE. UU. y Canadá)**
+- Recomendado: **SimCorner** (opción con número) o **Saily** (número de EE. UU.)
 - Datos: 5–10GB
-- Razón: Conectividad estable y posiblemente un número local.
+- Razón: conectividad estable y posiblemente un número local.
 
-### Elegir eSIM EE.UU.-Canadá por Necesidades de Datos
+### Elige la eSIM de EE. UU. y Canadá según la necesidad de datos
 
-| Necesidad de Datos | Plan Recomendado | Presupuesto |
+| Necesidad de datos | Plan recomendado | Presupuesto |
 |-----------|------------------|--------|
-| Ligero (navegación, mensajería, correo) | **Lumbus** 1GB/$3.99/7 días | $4–$10 |
-| Medio (redes sociales, fotos, navegación web) | **Nomad** o **Airalo** 5GB | $10–$25 |
-| Intensivo (videollamadas, streaming, trabajo remoto) | **BLIVALE** ilimitado o **SimCorner** ilimitado | $30–$60+ |
-| Ilimitado + más barato | **Ubigi** $29/7 días ilimitado | $29–$59 |
+| Ligera (navegación, mensajería, correo) | **Lumbus** 1GB/$3.99/7 días | $4–$10 |
+| Media (redes sociales, fotos, navegación web) | **Nomad** o **Airalo** 5GB | $10–$25 |
+| Intensiva (videollamadas, streaming, trabajo remoto) | **BLIVALE** ilimitado o **SimCorner** ilimitado | $30–$60+ |
+| Ilimitado + más barato | **Ubigi** $25/7 días ilimitados | $25–$65 |
 
-### Verificación de Compatibilidad de Dispositivo para eSIM EE.UU.-Canadá
+### Comprobación de compatibilidad de dispositivos para la eSIM de EE. UU. y Canadá
 
-Antes de comprar, confirme que su teléfono admite eSIM y está desbloqueado. Verificación más rápida: marque **`*#06#`** y busque el EID. Para la lista completa de dispositivos, consulte nuestra [guía de teléfonos compatibles con eSIM en Canadá](/blog/esim-compatible-phones-canada-guide/).
+Antes de comprar, confirma que tu teléfono admite eSIM y está libre de operador. La comprobación más rápida: marca **`*#06#`** y busca el EID. Para la lista completa de dispositivos, consulta nuestro [verificador de compatibilidad de dispositivos](/compatibility/).
 
-## Guía de Configuración de eSIM EE.UU.-Canadá
+## Guía de configuración de la eSIM de EE. UU. y Canadá
 
-**Paso 1: Verificar compatibilidad (2 minutos)**
-- Marque `*#06#` → Busque EID → Si está presente, su teléfono admite eSIM.
+**Paso 1: comprueba la compatibilidad (2 minutos)**
+- Marca `*#06#` → Busca el EID → Si aparece, tu teléfono admite eSIM.
 
-**Paso 2: Comprar su eSIM (5 minutos)**
-- Visite el sitio web/app del proveedor → Seleccione "Norteamérica" o "EE.UU. + Canadá" → Elija el plan → Pague → Reciba el código QR por correo electrónico.
+**Paso 2: compra tu eSIM (5 minutos)**
+- Visita el sitio web o la app del proveedor → Selecciona "Norteamérica" o "EE. UU. + Canadá" → Elige el plan → Paga → Recibe el código QR por correo electrónico.
 
-**Paso 3: Instalar en Wi-Fi de casa (5 minutos)**
-- iPhone: Ajustes → Celular → Añadir eSIM → Escanear código QR
-- Android: Ajustes → Red e Internet → SIM → Añadir eSIM → Escanear código QR
-- Nombre la eSIM "EE.UU.-Canadá Viaje" para una fácil identificación
+**Paso 3: instala con el Wi-Fi de casa (5 minutos)**
+- iPhone: Ajustes → Datos móviles → Añadir eSIM → Escanea el código QR
+- Android: Ajustes → Red e Internet → SIM → Añadir eSIM → Escanea el código QR
+- Nombra la eSIM "Viaje EE. UU.-Canadá" para identificarla fácilmente
 
-**Paso 4: Configurar dual SIM (3 minutos)**
-- Establezca la línea de datos predeterminada en su nueva eSIM
-- Mantenga la línea de voz predeterminada como su número original
-- DESACTIVE el roaming de datos en su SIM original
-- DESACTIVE el cambio automático de datos
+**Paso 4: configura la SIM dual (3 minutos)**
+- Establece la línea de datos predeterminada en tu nueva eSIM
+- Mantén la línea de voz predeterminada como tu número original
+- Desactiva el roaming de datos en tu SIM original
+- Desactiva el cambio automático de datos
 
-**Paso 5: Probar antes de la salida (2 minutos)**
-- Habilite temporalmente la eSIM y verifique que aparece en la configuración celular
-- Desactívela nuevamente hasta aterrizar (para preservar la validez)
-- Guarde la confirmación del pedido y el contacto del servicio al cliente
+**Paso 5: prueba antes de salir (2 minutos)**
+- Activa temporalmente la eSIM y comprueba que aparece en tus ajustes móviles
+- Desactívala de nuevo hasta aterrizar (para preservar la validez)
+- Guarda la confirmación del pedido y el contacto del servicio al cliente
 
-**Paso 6: Activar al llegar (automático)**
-- Active la línea eSIM
-- Active el roaming de datos para la eSIM
-- Espere 1–5 minutos para la conexión de red
-- Pruebe con un navegador o app de mapas
+**Paso 6: activa al llegar (automático)**
+- Activa la línea de la eSIM
+- Activa el roaming de datos para la eSIM
+- Espera 1–5 minutos para la conexión de red
+- Prueba con un navegador o una app de mapas
 
-Para los pasos completos de instalación y activación, consulte nuestro [tutorial de instalación de eSIM](/blog/how-to-get-esim-in-canada-guide/).
+Para los pasos completos de instalación y activación, consulta nuestro [paso a paso de instalación de eSIM](/blog/how-to-get-esim-in-canada-guide/).
 
-## Solución de Problemas de eSIM Transfronteriza
+## Solución de problemas de eSIM transfronteriza
 
-### eSIM EE.UU.-Canadá No Se Conecta Después del Cruce Fronterizo
+### La eSIM de EE. UU. y Canadá no se conecta tras cruzar la frontera
 
-**Síntomas:** Sin barra de señal, mensaje "Sin servicio" o "Solo llamadas de emergencia".
+**Síntomas:** sin barras de señal, mensaje de "Sin servicio" o "Solo llamadas de emergencia".
 
 **Solución paso a paso:**
-1. Confirme que la línea eSIM está habilitada (Ajustes → Celular → toque eSIM → "Activar esta línea")
-2. Confirme que el Roaming de Datos está ACTIVADO para la eSIM
-3. Active/desactive el Modo Avión durante 30 segundos
-4. Seleccione la red manualmente (Ajustes → Celular → Selección de red → desactive Automático → seleccione Rogers/Bell/Telus)
-5. Reinicie el teléfono
-6. Verifique el estado de la eSIM en la app del proveedor—el plan puede estar vencido o los datos agotados
+1. Confirma que la línea eSIM está activada (Ajustes → Datos móviles → toca la eSIM → "Activar esta línea")
+2. Confirma que el roaming de datos está ACTIVADO para la eSIM
+3. Activa y desactiva el modo avión durante 30 segundos
+4. Selecciona la red manualmente (Ajustes → Datos móviles → Selección de red → desactiva Automático → selecciona Rogers/Bell/Telus)
+5. Reinicia el teléfono
+6. Comprueba el estado de la eSIM en la app del proveedor — el plan puede estar caducado o con los datos agotados
 
-**Solución única más efectiva:** Selección manual de red. Esto resuelve muchos casos de "señal pero sin datos".
+**La solución individual más eficaz:** la selección manual de red. Resuelve muchos casos de "señal pero sin datos".
 
-### Los Datos Funcionan en EE.UU. Pero No en Canadá
+### Los datos funcionan en EE. UU. pero no en Canadá
 
-**Causas posibles:**
-- El plan no cubre realmente ambos países (verifique la descripción del plan)
-- Retraso en la autenticación de la red asociada canadiense
-- La configuración de APN necesita actualizarse
-
-**Solución:**
-- Verifique la cobertura del plan en la app del proveedor
-- Verifique la configuración de APN en el correo electrónico del proveedor
-- Contacte al soporte del proveedor con su número de pedido e ICCID
-
-### Datos Lentos Después del Cruce Fronterizo
-
-**Causas posibles:**
-- FUP diaria alcanzada (común con planes "ilimitados")
-- Congestión de red en el área fronteriza
-- Teléfono conectado a una red más débil
+**Posibles causas:**
+- El plan realmente no cubre ambos países (revisa la descripción del plan)
+- Retraso de autenticación en la red canadiense asociada
+- Los ajustes de APN necesitan actualizarse
 
 **Solución:**
-- Verifique la asignación diaria de alta velocidad (ej. SimCorner 3GB/día)
-- Seleccione manualmente un operador diferente
-- Espere el reinicio diario (generalmente 24 horas desde la activación)
+- Verifica la cobertura del plan en la app del proveedor
+- Revisa los ajustes de APN en el correo del proveedor
+- Abre un ticket con tu número de pedido y el ICCID del perfil para que el soporte pueda verificar el aprovisionamiento en su lado
 
-### El Código QR de la eSIM Transfronteriza No Se Escanea
+### Datos lentos tras cruzar la frontera
+
+**Posibles causas:**
+- FUP diario alcanzado (habitual en planes "ilimitados")
+- Congestión de red en la zona fronteriza
+- El teléfono se conectó a una red más débil
 
 **Solución:**
-- Use el código de activación manual en su lugar
-- Verifique si el QR ha caducado
-- Aumente el brillo de la pantalla o imprima el QR
-- Solicite un nuevo QR al soporte del proveedor
+- Comprueba la asignación diaria de alta velocidad (p. ej., SimCorner 3GB/día)
+- Selecciona manualmente otro operador
+- Espera el reinicio diario (normalmente 24 horas desde la activación)
 
-### Cuándo Contactar al Soporte de eSIM Transfronteriza
+### El código QR de la eSIM transfronteriza no se escanea
 
-**Prepare antes de contactar:**
+**Solución:**
+- Instala con el código de activación manual de tu correo de confirmación
+- Las instalaciones en zonas fronterizas suelen agotar el tiempo de espera — solicita un QR nuevo antes de viajar
+- Escanea frente a una segunda pantalla (portátil, tableta) si la cámara del teléfono tiene dificultades
+
+### Cuándo contactar al soporte de eSIM transfronteriza
+
+**Prepara antes de contactar:**
 - Número de pedido
-- ICCID (en la configuración de la eSIM)
+- ICCID (en los ajustes de la eSIM)
 - Modelo del dispositivo
-- Pasos ya intentados
+- Pasos ya probados
 - Capturas de pantalla de los mensajes de error
 
-Un proveedor con **soporte humano 24/7** — como la [eSIM Canadá](/canada-esim/) de Roami — significa que no está atrapado en una zona muerta sin forma de contactar a nadie.
+Un proveedor con **soporte humano 24/7** — como la [eSIM para Canadá](/canada-esim/) de Roami — significa que no quedarás atrapado en una zona sin cobertura sin forma de contactar a nadie.
 
-### Tabla de Problemas Específicos de eSIM en la Frontera
+### Tabla de problemas de eSIM específicos de la frontera
 
-| Problema | Causa Probable | Solución |
+| Problema | Causa probable | Solución |
 |-------|--------------|-----|
-| Sin señal después del cruce | El teléfono no cambió | Active/desactive el modo avión; seleccione el operador manualmente |
-| Aún muestra red de EE.UU. | Superposición de señal en el área fronteriza | Espere unos minutos; el teléfono cambiará a la red más fuerte |
-| Roaming de datos no habilitado | Algunos proveedores lo requieren | Las eSIM regionales generalmente **no** requieren roaming de datos. Manténgalo desactivado a menos que se indique. |
-| Datos lentos después del cruce | Congestión de red o throttling | Verifique la FUP diaria; pruebe la selección manual de red |
-| eSIM no aparece | Instalación incompleta | Elimine y reinstale; use el código de activación manual |
-| Mensaje "Bloqueo de operador" | Teléfono no desbloqueado | Contacte al operador para desbloquear |
-| Los datos funcionan solo en un país | El plan no cubre ambos | Verifique la descripción del plan; compre un verdadero plan regional |
-| Hotspot no funciona | Restricción del proveedor | Verifique la política de hotspot; algunos planes limitan o bloquean el hotspot |
+| Sin señal tras cruzar | El teléfono no cambió de red | Activa y desactiva el modo avión; selecciona el operador manualmente |
+| Sigue mostrando la red de EE. UU. | Superposición de señal en la zona fronteriza | Espera unos minutos; el teléfono cambiará a la red más fuerte |
+| Roaming de datos no activado | Algunos proveedores lo requieren | Las eSIM regionales normalmente **no** requieren roaming de datos. Mantenlo desactivado salvo indicación contraria. |
+| Datos lentos tras cruzar | Congestión de red o limitación de velocidad | Comprueba el FUP diario; prueba la selección manual de red |
+| La eSIM no aparece | Instalación incompleta | Elimina y reinstala; usa el código de activación manual |
+| Mensaje "Teléfono bloqueado por operador" | Teléfono no liberado | Contacta al operador para liberarlo |
+| Los datos funcionan solo en un país | El plan no cubre ambos | Revisa la descripción del plan; compra un plan verdaderamente regional |
+| El punto de acceso no funciona | Restricción del proveedor | Comprueba la política de punto de acceso; algunos planes lo limitan o bloquean |
 
-## Documentos y Preparación para Conducir Transfronterizamente
+## Documentos y preparación para conducir al otro lado de la frontera
 
-Si planea conducir a través de la frontera, prepare estos documentos y artículos antes de ir.
+Si planeas cruzar la frontera en coche, prepara estos documentos y artículos antes de salir.
 
-### Documentos Requeridos para el Cruce Fronterizo EE.UU.-Canadá
+### Documentos requeridos para el cruce fronterizo entre EE. UU. y Canadá
 
-- **Pasaporte:** Los ciudadanos estadounidenses/canadienses pueden usar una Licencia de Conducir Mejorada (EDL) o una tarjeta NEXUS. Otros ciudadanos necesitan un pasaporte.
-- **Registro del vehículo:** Original o copia.
-- **Seguro de auto:** Confirme que su póliza cubre la conducción transfronteriza. Algunas aseguradoras requieren un endoso adicional.
-- **Carta de autorización:** Si conduce un auto de alquiler a través de la frontera, verifique con la compañía de alquiler. Algunas prohíben los viajes transfronterizos.
-- **Tarjeta NEXUS (opcional):** Acelera el cruce fronterizo para viajeros frecuentes.
+- **Pasaporte:** los ciudadanos de EE. UU./Canadá pueden usar una licencia de conducir mejorada (EDL) o una tarjeta NEXUS. Los demás ciudadanos necesitan pasaporte.
+- **Registro del vehículo:** original o copia.
+- **Seguro de automóvil:** confirma que tu póliza cubre la conducción transfronteriza. Algunas aseguradoras requieren un endoso adicional.
+- **Carta de autorización:** si cruzas la frontera en un coche de alquiler, consulta con la empresa de alquiler. Algunas prohíben los viajes transfronterizos.
+- **Tarjeta NEXUS (opcional):** agiliza el cruce fronterizo para viajeros frecuentes.
 
-### Tiempos de Espera en la Frontera
+### Tiempos de espera en la frontera
 
-Consulte [US Customs and Border Protection (CBP)](https://www.cbp.gov/) para tiempos de espera en tiempo real. Los puertos concurridos (Detroit-Windsor, Búfalo-Niagara) pueden tener esperas de 30+ minutos durante las horas pico. Planifique su cruce fuera de las horas de mayor afluencia si es posible.
+Consulta la [Aduana y Protección Fronteriza de EE. UU. (CBP)](https://www.cbp.gov/) para conocer los tiempos de espera en tiempo real. Los puertos concurridos (Detroit-Windsor, Búfalo-Niágara) pueden tener esperas de más de 30 minutos en horas pico. Planifica tu cruce fuera de las horas punta si es posible.
 
-### Preparación del Vehículo para Viajes Transfronterizos
+### Preparación del vehículo para viajes transfronterizos
 
 - Estado y presión de los neumáticos
-- Neumático de repuesto y herramientas
+- Rueda de repuesto y herramientas
 - Aceite, refrigerante, líquido de frenos
-- Kit de emergencia: linterna, primeros auxilios, manta
+- Kit de emergencia: linterna, botiquín, manta
 - Invierno: neumáticos de nieve, cadenas, anticongelante
 - Mapas en papel como respaldo
 
-### Moneda y Pago para Viajes Transfronterizos
+### Moneda y pagos para viajes transfronterizos
 
-- **Dólares estadounidenses y canadienses:** Algunas ciudades fronterizas aceptan ambos, pero los tipos de cambio pueden ser desfavorables.
-- **Tarjetas de crédito:** La mayoría acepta tarjetas estadounidenses y canadienses, pero notifique a su banco antes del viaje para evitar bloqueos por fraude.
+- **Dólares estadounidenses y canadienses:** algunos pueblos fronterizos aceptan ambos, pero los tipos de cambio pueden ser desfavorables.
+- **Tarjetas de crédito:** la mayoría acepta tarjetas de EE. UU. y Canadá, pero avisa a tu banco antes de viajar para evitar bloqueos por fraude.
 - **Pagos móviles:** Apple Pay y Google Pay funcionan en ambos países.
 
-## FAQ de eSIM EE.UU.-Canadá
+## FAQ sobre la eSIM de EE. UU. y Canadá
 
-### ¿Cuál es la diferencia entre una eSIM regional EE.UU.-Canadá y una eSIM normal?
+### ¿Cuál es la diferencia entre una eSIM regional de EE. UU. y Canadá y una eSIM normal?
 
-Una eSIM regional tiene información de acceso a la red tanto para EE.UU. como para Canadá precargada. En la frontera, el teléfono cambia automáticamente de red sin reinstalación ni reactivación. Una eSIM normal de un solo país solo funciona en un país.
+Una eSIM regional tiene precargada la información de acceso a redes tanto de EE. UU. como de Canadá. En la frontera, el teléfono cambia de red automáticamente sin reinstalación ni reactivación. Una eSIM normal de un solo país solo funciona en un país.
 
 ### ¿Necesito reinstalar la eSIM o cambiar de plan al cruzar la frontera?
 
-**No.** Una eSIM regional cubre ambos países con una tarjeta y cambia automáticamente de red. No necesita reinstalar, reactivar o comprar un nuevo plan en la frontera.
+**No.** Una eSIM regional cubre ambos países con una sola tarjeta y cambia de red automáticamente. No necesitas reinstalar, reactivar ni comprar un nuevo plan en la frontera.
 
-### ¿Puedo instalar una eSIM regional antes de la salida y mantener mi número original?
+### ¿Puedo instalar una eSIM regional antes de salir y conservar mi número original?
 
-**Sí.** La mayoría de las eSIM regionales admiten la compra e instalación antes de la salida. Instale en Wi-Fi; se activa automáticamente después de la llegada. La eSIM coexiste con su SIM física, por lo que puede mantener su número original para voz mientras usa la eSIM regional para datos.
+**Sí.** La mayoría de las eSIM regionales permiten la compra y la instalación antes de salir. Instala con Wi-Fi; se activa automáticamente tras la llegada. La eSIM coexiste con tu SIM física, así que puedes conservar tu número original para voz mientras usas la eSIM regional para datos.
 
-### ¿Debería comprar una eSIM regional o una eSIM de un solo país?
+### ¿Debería comprar una eSIM regional o una de un solo país?
 
-**Si cruza la frontera aunque sea una vez, compre una eSIM regional.** Si se queda solo en un país, una eSIM de un solo país suele ser más barata. Por ejemplo, una eSIM solo Canadá comienza en $2, mientras que un plan regional EE.UU.-Canadá comienza en $1.99 pero con menos datos.
+**Si cruzas la frontera aunque sea una vez, compra una eSIM regional.** Si solo te quedas en un país, una eSIM de un solo país suele ser más barata. Por ejemplo, una eSIM solo de Canadá empieza en $2, mientras que un plan regional de EE. UU. y Canadá empieza en $1.99 pero con menos datos.
 
-### ¿Se puede usar un número de EE.UU. en Canadá?
+### ¿Se puede usar un número de EE. UU. en Canadá?
 
 Depende del uso:
-- ✅ Registro en WhatsApp
-- ✅ Recibir SMS/llamadas desde EE.UU.
-- ⚠️ Los bancos y servicios gubernamentales canadienses generalmente requieren un código de área canadiense
-- ⚠️ Los servicios locales canadienses (Uber Canadá) pueden no aceptar un número de EE.UU.
+- ✅ Registro de WhatsApp
+- ✅ Recibir SMS/llamadas desde EE. UU.
+- ⚠️ Los bancos y servicios gubernamentales canadienses suelen requerir un código de área canadiense
+- ⚠️ Los servicios locales canadienses (Uber Canada) pueden no aceptar un número de EE. UU.
 
-Si necesita un número canadiense, elija una eSIM que lo proporcione. Consulte nuestras [opciones de eSIM Canadá con número](/blog/canada-esim-with-phone-number-guide/).
+Si necesitas un número canadiense, elige una eSIM que lo proporcione. Consulta nuestras [opciones de eSIM para Canadá con número](/blog/canada-esim-with-phone-number-guide/).
 
 ### ¿Qué pasa si mi teléfono solo admite una eSIM?
 
-Algunos teléfonos más antiguos solo admiten una eSIM a la vez. En este caso, no puede usar tanto una eSIM regional como su SIM de origen simultáneamente. Deberá elegir: usar la eSIM regional para datos y perder temporalmente su número de origen, o encontrar un teléfono dual-SIM. La mayoría de los teléfonos modernos (iPhone XS+, Samsung S20+, Pixel 2+) admiten dual SIM (física + eSIM).
+Algunos teléfonos más antiguos admiten solo una eSIM a la vez. En ese caso, no puedes usar una eSIM regional y tu SIM de origen al mismo tiempo. Tendrás que elegir: o usar la eSIM regional para datos y perder temporalmente tu número de origen, o buscar un teléfono de SIM dual. La mayoría de los teléfonos modernos (iPhone XS+, Samsung S20+, Pixel 2+) admiten SIM dual (física + eSIM).
 
-### ¿Cómo verifico que mi eSIM cubre ambos países y qué pasa si me quedo sin datos?
+### ¿Cómo verifico que mi eSIM cubre ambos países y qué hago si me quedo sin datos?
 
-Verifique cuidadosamente la descripción del plan. Debe listar explícitamente "EE.UU. y Canadá" o "Norteamérica". No asuma que un plan "Norteamérica" cubre Canadá—algunos proveedores usan este término de manera imprecisa. Si se queda sin datos, la mayoría de los proveedores admiten recarga en su app o sitio web. Ubigi, Nomad, Airalo y SimCorner ofrecen recarga fácil. Si tiene un plan con reinicio diario (como SimCorner 3GB/día), no necesita preocuparse por quedarse sin datos—solo espere el próximo ciclo de 24 horas.
+Revisa cuidadosamente la descripción del plan. Debe listar explícitamente "EE. UU. y Canadá" o "Norteamérica". No asumas que un plan de "Norteamérica" cubre Canadá — algunos proveedores usan este término de manera imprecisa. Si te quedas sin datos, la mayoría de los proveedores permiten recargar en su app o sitio web. Ubigi, Nomad, Airalo y SimCorner ofrecen recargas fáciles. Si tienes un plan con reinicio diario (como SimCorner 3GB/día), no necesitas preocuparte por quedarte sin datos — solo espera el siguiente ciclo de 24 horas.
 
-### ¿Puedo usar la misma eSIM regional para múltiples dispositivos?
+### ¿Puedo usar la misma eSIM regional en varios dispositivos?
 
-La mayoría de las eSIM están vinculadas a un dispositivo. Puede usar el hotspot para compartir datos con otros dispositivos. Verifique la política de hotspot antes de comprar.
+La mayoría de las eSIM están vinculadas a un dispositivo. Puedes usar el punto de acceso para compartir datos con otros dispositivos. Comprueba la política de punto de acceso antes de comprar.
 
-## Resumen y Lista de Verificación de eSIM EE.UU.-Canadá
+## Resumen y lista de verificación de la eSIM de EE. UU. y Canadá
 
-Para viajes transfronterizos EE.UU.-Canadá, la lógica es simple: **si su itinerario cruza la frontera, elija una eSIM regional; si solo está en un país, elija una eSIM de un solo país.**
+Para los viajes transfronterizos entre EE. UU. y Canadá, la lógica es simple: **si tu itinerario cruza la frontera, elige una eSIM regional; si solo estás en un país, elige una eSIM de un solo país.**
 
-### Guía de Decisión Rápida
+### Guía de decisión rápida
 
-| Su Situación | Mejor Elección |
+| Tu situación | Mejor opción |
 |----------------|-------------|
 | Presupuesto limitado, viaje transfronterizo corto | **Lumbus** (desde $1.99) |
-| Necesita datos verdaderamente ilimitados | **BLIVALE** |
-| Ilimitado EE.UU.-Canadá más barato | **Ubigi** ($29/7 días) |
-| Viaje de tres países EE.UU.-Canadá-México | **OVOSIM** o **Nomad** |
-| Necesita un número local | **SimCorner** (algunos planes) o **Saily** (número de EE.UU.) |
-| Valora privacidad y seguridad | **Saily** |
-| Mejor en general Norteamérica | **Nomad** |
-| Enfocado en EE.UU., viajes ocasionales a Canadá | **Airalo** |
-| Respaldado por operador con prioridad en multitudes | **AT&T eSIM** |
+| Necesitas datos verdaderamente ilimitados | **BLIVALE** |
+| Ilimitado más barato para EE. UU.-Canadá | **Ubigi** ($25/7 días) |
+| Viaje de tres países: EE. UU.-Canadá-México | **OVOSIM** o **Nomad** |
+| Necesitas un número local | **SimCorner** (algunos planes) o **Saily** (número de EE. UU.) |
+| Valoras la privacidad y la seguridad | **Saily** |
+| Mejor opción general para Norteamérica | **Nomad** |
+| Enfoque en EE. UU., viajes ocasionales a Canadá | **Airalo** |
+| Respaldado por operador con prioridad ante aglomeraciones | **eSIM de AT&T** |
 
-### Tres Consejos Más Importantes para eSIM EE.UU.-Canadá
+### Los tres consejos más importantes sobre la eSIM de EE. UU. y Canadá
 
-1. **Confirme si su itinerario realmente cruza ambos países.** Si solo un país, una eSIM de un solo país es más barata.
-2. **Complete la instalación antes de la salida.** Instale en Wi-Fi; no espere hasta el aeropuerto.
-3. **No se requiere acción en la frontera.** La eSIM regional cambia automáticamente. Si la conexión no se reanuda después de 5 minutos, active/desactive el modo avión durante 30 segundos y seleccione la red manualmente.
+1. **Confirma si tu itinerario realmente cruza ambos países.** Si es solo uno, una eSIM de un solo país es más barata.
+2. **Completa la instalación antes de salir.** Instala con Wi-Fi; no esperes hasta el aeropuerto.
+3. **No se requiere ninguna acción en la frontera.** La eSIM regional cambia automáticamente. Si la conexión no se reanuda tras 5 minutos, activa y desactiva el modo avión durante 30 segundos y selecciona la red manualmente.
 
-### Lista de Verificación Previa a la Salida Transfronteriza
+### Lista de verificación previa a la salida para viajes transfronterizos
 
-- ✅ Verifique que el teléfono admite eSIM (`*#06#` para EID)
-- ✅ Confirme que el teléfono está desbloqueado por el operador
-- ✅ Compre la eSIM regional correcta para su itinerario
-- ✅ Instale la eSIM en el Wi-Fi de casa
-- ✅ Establezca la línea de datos predeterminada en la eSIM regional
-- ✅ Desactive el roaming de datos en la SIM de origen
-- ✅ Desactive el cambio automático de datos
-- ✅ Descargue mapas offline para áreas fronterizas
-- ✅ Guarde la confirmación del pedido y el contacto del servicio al cliente
-- ✅ Capture pantalla de documentos fronterizos (pasaporte, registro del vehículo)
-- ✅ Comparta el itinerario con alguien
+- ✅ Comprueba que tu teléfono admite eSIM (`*#06#` para el EID)
+- ✅ Confirma que tu teléfono está libre de operador
+- ✅ Compra la eSIM regional adecuada para tu itinerario
+- ✅ Instala la eSIM con el Wi-Fi de casa
+- ✅ Establece la línea de datos predeterminada en la eSIM regional
+- ✅ Desactiva el roaming de datos en la SIM de origen
+- ✅ Desactiva el cambio automático de datos
+- ✅ Descarga mapas sin conexión para las zonas fronterizas
+- ✅ Guarda la confirmación del pedido y el contacto del servicio al cliente
+- ✅ Haz capturas de los documentos fronterizos (pasaporte, registro del vehículo)
+- ✅ Comparte el itinerario con alguien
 
-**Una verificación rápida primero:** si su itinerario nunca cruza la frontera, un plan de un solo país es más barato. De lo contrario, comience con una [prueba eSIM gratuita](/free-esim/) o una [eSIM Canadá de Roami](/canada-esim/) desde **$1.99**. Los nuevos usuarios obtienen **20% de descuento** con el código `web20`, más el **soporte humano 24/7** de Roami.
+**Una comprobación rápida primero:** si tu itinerario nunca cruza la frontera, un plan de un solo país es más barato. Si lo cruza, compra regional — una sola instalación vale más que gestionar dos perfiles en la frontera.
 
-**Precios verificados en septiembre de 2026.** Los planes regionales transfronterizos cambian de precio con frecuencia — confirme antes de comprar.
+**Precios verificados en septiembre de 2026.** Los planes regionales transfronterizos cambian de precio con frecuencia — confirma antes de comprar.
 
-**Las eSIM regionales EE.UU.-Canadá están cambiando la forma en que los viajeros transfronterizos se conectan.** Una tarjeta, una compra, una instalación—de Nueva York a Toronto, de Seattle a Vancouver, cruzar la frontera es perfecto. 📶🇺🇸🇨🇦
+**Las eSIM regionales de EE. UU. y Canadá están cambiando la forma en que los viajeros transfronterizos se conectan.** Una tarjeta, una compra, una instalación — de Nueva York a Toronto, de Seattle a Vancouver, cruzar la frontera es fluido. 📶🇺🇸🇨🇦
 
-**Contacto:** Si detecta un error, contáctenos. Corregimos en 48 horas.
+**Contacto:** si detectas un error, contáctanos. Lo corregimos en 48 horas.
