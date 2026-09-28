@@ -1,53 +1,53 @@
 ---
-title: "Guia eSIM Japão: Airalo vs Holafly Comparados"
-description: "O Japão tem 5G com sinal máximo em todo o lado, por isso a verdadeira questão são os dados para Mapas e Tradutor. Compare Airalo, Holafly e Roami - dispense o pocket WiFi."
-keywords: ["guia de preços eSIM Japão", "holafly esim para japão", "eSIM Japão vs pocket wifi", "eSIM mais barata para viajar no Japão", "eSIM Japão google tradutor mapas", "avaliação airalo japão eSIM", "código promocional eSIM Japão"]
-date: 2026-09-03T00:00:00Z
-lastmod: 2026-09-03T00:00:00Z
+title: "Guia de eSIM no Japão: Airalo vs Holafly Comparados"
+description: "O Japão tem 5G de barra cheia, então a questão real é dados para Maps e Translate. Compare Airalo, Holafly e Roami - deixe o pocket WiFi de lado."
+keywords: ["esim japao airalo", "guia de preço de esim no japao", "esim holafly para japao", "esim japao vs pocket wifi", "esim mais barato para viagem ao japao", "esim japao google translate mapas", "analise do esim japao airalo", "codigo promocional esim japao", "airalo vs holafly japao"]
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
 author: "Roami Team"
-authorBio: "A Roami oferece planos eSIM fiáveis, servindo mais de 1 milhão de viajantes por ano, e suporta a comutação automática entre redes locais para ajudar os viajantes a manterem-se ligados em todo o mundo."
+authorBio: "A Roami oferece planos eSIM confiáveis, atendendo mais de 1 milhão de viajantes por ano, e suporta troca automática de rede local para ajudar viajantes a se manterem conectados globalmente."
 image: "/img/esim/japan/best-japan-esim-guide.jpg"
-categories: ["eSIM", "Viagens", "Japão"]
-tags: ["eSIM Japão", "Pocket WiFi", "Google Tradutor"]
-readingTime: 5
+categories: ["eSIM", "Travel", "Japan"]
+tags: ["Japan eSIM", "Pocket WiFi", "Google Translate"]
+readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "A 5G com sinal máximo no Japão torna a eSIM a escolha mais barata e leve"
+h1title: "O 5G de Barra Cheia do Japão Torna o eSIM a Escolha Mais Barata e Leve"
 
 productsTitle: "Planos eSIM Populares"
-hotPostsTitle: "Artigos Populares"
-recentPostsTitle: "Artigos Recentes"
+hotPostsTitle: "Artigos em Alta"
+recentPostsTitle: "Posts Recentes"
 
 products:
   - name: "eSIM Japão"
     flag: "/img/flags/jp.svg"
-    price: "A partir de $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: true
     slug: "japan"
   - name: "eSIM Coreia do Sul"
     flag: "/img/flags/kr.svg"
-    price: "A partir de $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "south-korea"
   - name: "eSIM Taiwan"
     flag: "/img/flags/tw.svg"
-    price: "A partir de $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "taiwan"
   - name: "eSIM Hong Kong"
     flag: "/img/flags/hk.svg"
-    price: "A partir de $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "hong-kong"
   - name: "eSIM Tailândia"
     flag: "/img/flags/th.svg"
-    price: "A partir de $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "thailand"
   - name: "eSIM Singapura"
     flag: "/img/flags/sg.svg"
-    price: "A partir de $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "singapore"
 
@@ -55,125 +55,126 @@ recentPosts:
   - title: "Lista de Dispositivos Compatíveis com eSIM"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "Transferência eSIM Multiplataforma 2026"
+  - title: "Transferência de eSIM entre Plataformas 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Não Funciona? 12 Correções para iPhone"
+  - title: "eSIM Duplo não Funciona? 12 Correções para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Guia de Compatibilidade eSIM para iPhone SE"
+  - title: "Guia de Compatibilidade eSIM do iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Guia Completo de Configuração eSIM para iPhone 11"
+  - title: "Guia Completo de Configuração de eSIM no iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
 
-## Guia eSIM Japão 2026
+## Guia de eSIM no Japão 2026
 
-A planear uma viagem ao Japão—Shibuya e Senso-ji em Tóquio, os mil portões torii de Fushimi Inari em Quioto, Dotonbori em Osaka, os veados de Nara, ou o Monte Fuji visto do Lago Kawaguchi? Provavelmente já ouviu o conselho "à moda antiga": **alugue um pocket WiFi**. Mas aquela pequena caixa que precisa de carregamento extra, recolha/entrega no aeroporto, e frequentemente fica sem bateria já devia ter sido substituída por uma [eSIM Japão](/japan-esim/) há muito tempo.
+Planejando uma viagem ao Japão—Shibuya e Senso-ji em Tóquio, os mil portões torii de Fushimi Inari em Quioto, Dotonbori em Osaka, os cervos de Nara, ou o Monte Fuji visto do Lago Kawaguchi? Você provavelmente já ouviu o conselho "old-school": **alugue um pocket WiFi**. Mas aquela caixinha que precisa de carga extra, retirada/devolução no aeroporto, e frequentemente acaba a bateria deveria ter sido substituída por um [eSIM do Japão](/japan-esim/) há muito tempo.
 
-O Japão é diferente da maioria dos países porque o seu sinal é **incrivelmente bom**—túneis do metro, vagões do Shinkansen, até Hakone aos pés do Monte Fuji—quase em todo o lado há 5G com sinal máximo. Portanto, no Japão, a sua preocupação **não é "vou ter sinal?" mas "como leio menus que não entendo, navego em transferências que não consigo ler, e peço direções em japonês?"** Estas três coisas dependem todas do Google Tradutor (aponte a câmara para um menu e ele traduz instantaneamente) e do Google Maps—e estas duas aplicações são os verdadeiros consumidores de dados.
+O Japão é diferente da maioria dos países porque seu sinal é **ridiculamente bom**—túneis de metrô, composições Shinkansen, até Hakone aos pés do Monte Fuji—quase todo lugar tem 5G de barra cheia. Assim, no Japão, sua preocupação não é "eu terei sinal?" mas "como eu leio cardápios que não entendo, navego por baldeações que não consigo ler, e peço direções em japonês?" Essas três coisas dependem do Google Translate (aponte a câmera no cardápio e ele traduz na hora) e do Google Maps—e esses dois apps são os verdadeiros devoradores de dados.
 
-Este artigo foca-se nessa diferença fundamental: qual dos quatro principais operadores japoneses (Docomo / au / SoftBank / Rakuten) é mais estável? Quanto mais barata é a eSIM vs pocket WiFi, e deve abandonar o pocket WiFi? Qual é a melhor relação custo-benefício entre Airalo, Holafly e Roami? E—as SIM locais japonesas exigem registo de passaporte—como é que a eSIM de viagem o poupa a todo esse incómodo?
+Este artigo foca nessa diferença central: qual das quatro grandes operadoras do Japão (Docomo / au / SoftBank / Rakuten) é mais estável? Quão mais barato é o eSIM vs pocket WiFi, e você deve abandonar o pocket WiFi? Qual é o melhor custo-benefício entre Airalo, Holafly e Roami? E—SIMs locais do Japão exigem registro de passaporte—como um eSIM de viagem poupa todo esse incômodo?
 
-> **⏱️ Resumo em 30 segundos: como escolher a sua eSIM Japão?**
+> **⏱️ Resumo de 30 segundos: Como escolher seu eSIM do Japão?**
 >
-> - **O ponto chave**: O Japão tem sinal máximo em todo o lado (metro/Shinkansen têm 5G), por isso a sua verdadeira tarefa é **alimentar o Google Tradutor + Google Maps com dados suficientes** (veja a secção pocket WiFi abaixo).
-> - **Não alugue pocket WiFi**: O pocket WiFi custa ~$3.5-7/dia mais depósito e recolha/entrega—pelo menos $25 por 7 dias; **a eSIM Roami 7 dias 10GB custa apenas $7.99**—poupança de 70% e sem dispositivo extra (veja secção pocket WiFi).
-> - **Campeão de valor**: O preço com desconto da Roami é o mais baixo globalmente—7 dias 10GB por $7.99, 53% mais barato que o equivalente da Airalo ($17.00) e 71% mais barato que o ilimitado da Holafly ($27.30).
-> - **Um detalhe específico do Japão**: O nível de 7 dias da Roami tem **20GB ($13.59) e ilimitado ($15.19) com apenas $1.60 de diferença**—utilizadores intensivos podem optar pelo ilimitado por apenas $1.60 extra. Mas o ilimitado de 30 dias ($57.59) é quase o dobro do 50GB ($30.39)—dispense o ilimitado para estadias longas (veja secção de valor).
-> - **Conclusão final**: Para Tóquio/Kansai 3-5 dias, escolha Roami 3-10GB; para Shinkansen multi-cidade 10-15 dias, escolha 20-30GB; para estadias longas, escolha 50GB; opte pelo ilimitado de 7 dias apenas se consumir muitos vídeos em streaming.
+> - **O ponto-chave**: sinal nunca é o problema—túneis de metrô e composições Shinkansen têm 5G de barra cheia. Sua tarefa real é **alimentar Google Translate + Google Maps**, que é onde os dados vão.
+> - **Deixe o pocket WiFi de lado**: ~$3,5-7/dia mais depósito e retirada/devolução no aeroporto somam $25+ por uma semana; um eSIM Roami 7 dias 10GB é $7.99 sem dispositivo extra para carregar ou devolver.
+> - **Campeão de custo-benefício**: A linha com desconto da Roami é a mais baixa em geral—7 dias 10GB por **$7.99**, cerca de 53% abaixo do equivalente da Airalo ($17.00) e 71% abaixo do ilimitado da Holafly ($27.50).
+> - **Fique de olho na matemática das faixas**: em planos de 7 dias, 20GB ($13.59) e ilimitado ($15.19) diferem em apenas $1.60, então usuários pesados podem ir para o ilimitado barato—mas em planos de 30 dias o ilimitado ($57.59) é quase o dobro de 50GB ($30.39), então estadias longas devem ficar no fixo.
+> - **Resumo**: 3–5 dias em Tóquio ou Kansai precisa de 3–10GB; uma corrida Shinkansen de 10–15 dias quer 20–30GB; estadias mais longas ficam nos 50GB.
 
-> **⚡ Zona de Decisão Rápida: Conclusões com Base no Seu Tipo de Viagem**
+> **⚡ Zona de Decisão Rápida: Para Onde Seu Tipo de Viagem Aponta**
 >
-> - **Viagem a Tóquio (3-5 dias)** → Roami 3-5GB, 5G mesmo no metro, a partir de $1.59 (veja planos de 3 dias / recomendações por cenário)
-> - **Viagem Kansai a Quioto / Osaka / Nara (5-7 dias)** → Roami 10GB, a câmara do Google Tradutor para menus e placas é o maior consumidor de dados (veja planos de 7 dias / recomendações por cenário)
-> - **Tóquio → Quioto Shinkansen multi-cidade (7-10 dias)** → Roami 10-20GB, 5G com sinal máximo em todos os vagões do Shinkansen (veja planos de 7 dias / secção pocket WiFi)
-> - **Monte Fuji / Hakone / Lago Kawaguchi (3-5 dias)** → Roami 5-10GB, a Docomo tem a melhor cobertura nos Cinco Lagos do Fuji (veja análise de operadores / recomendações por cenário)
-> - **Viagem em família (5-10 dias)** → Roami 10-20GB + hotspot ilimitado, partilhe uma eSIM com toda a família (veja planos de 7 dias / recomendações por cenário)
-> - **Sem preocupações com dados** → Roami ilimitado 7 dias (com desconto $15.19), mais barato que pocket WiFi (veja planos de 7 dias / secção pocket WiFi)
-> - **Orçamento mais rigoroso** → Roami 1GB/7 dias com desconto $1.59, preço mais baixo globalmente (veja planos de 3 dias)
+> - **Viagem urbana Tóquio (3-5 dias)** → Roami 3-5GB, 5G até no metrô, a partir de $1.59
+> - **Viagem Kansai Quioto / Osaka / Nara (5-7 dias)** → Roami 10GB; a câmera do Google Translate em cardápios e placas é o maior consumo de dados
+> - **Viagem Shinkansen Tóquio → Quioto multi-cidades (7-10 dias)** → Roami 10-20GB, 5G de barra cheia o caminho todo
+> - **Monte Fuji / Hakone / Lago Kawaguchi (3-5 dias)** → Roami 5-10GB; a Docomo tem a melhor cobertura ao redor dos Cinco Lagos de Fuji
+> - **Viagem de família (5-10 dias)** → Roami 10-20GB com compartilhamento de hotspot, um eSIM para o grupo todo
+> - **Orçamento mais rigoroso** → Roami 1GB/7 dias com desconto de $1.59
 
-## Atualizações do Mercado eSIM Japão
+## Atualizações do Mercado de eSIM do Japão
 
-> **Atualizações do Mercado eSIM Japão 2026**
+> **Atualizações do Mercado de eSIM do Japão 2026**
 >
-> - **Cobertura 5G entre as melhores do mundo**: De acordo com dados da [Opensignal](https://www.opensignal.com/) 2026, os quatro principais operadores japoneses têm cobertura 5G da população geralmente acima de 95%, com repetidores de sinal em túneis de metro e vagões do Shinkansen—nível superior na Ásia.
-> - **Pocket WiFi continua a ser uma "escolha de inércia"**: O Japão tem a cultura de aluguer de pocket WiFi mais forte do mundo, com filas constantes nos balcões dos aeroportos, mas as taxas diárias (~$3.5-7/dia) + depósitos + peso do dispositivo estão a ser completamente superadas pela eSIM.
-> - **As SIM locais exigem registo de passaporte**: De acordo com o [MIC (Ministério dos Assuntos Internos e Comunicações)](https://www.soumu.go.jp/), a compra de uma SIM local japonesa (incluindo cartões de dados turísticos) requer registo de passaporte no momento da compra—os procedimentos no aeroporto/lojas de eletrónica são complicados.
-> - **O Google Tradutor é um "buraco negro de dados indispensável"**: O nível de inglês é baixo no Japão, menus e placas são quase totalmente em japonês. Os turistas dependem fortemente da tradução em tempo real por câmara do Google Tradutor + Google Maps para transferências complexas—estes são os maiores consumidores de dados durante a viagem.
+> - **Cobertura 5G entre as melhores do mundo**: Segundo [dados de mercado do Japão da Ookla](https://www.speedtest.net/global-index/japan) e relatórios de operadoras, as quatro grandes operadoras do Japão têm cobertura 5G da população geralmente acima de 95%, com repetidores de sinal em túneis de metrô e composições Shinkansen—faixa superior na Ásia.
+> - **Pocket WiFi continua sendo uma "escolha por inércia"**: O Japão tem a cultura de aluguel de pocket WiFi mais forte do mundo, com balcões de aeroporto constantemente em fila, mas as taxas diárias (~$3,5-7/dia) + depósitos + peso do dispositivo estão sendo amplamente superados pelo eSIM.
+> - **SIMs locais exigem registro de passaporte**: Segundo o [MIC (Ministério das Comunicações Internas e Telecomunicações)](https://www.soumu.go.jp/english/), a compra de um SIM japonês local (incluindo cartões de dados para turistas) exige registro de passaporte no momento da compra—procedimentos de aeroporto/lojas de eletrônicos são trabalhosos.
+> - **Google Translate é um "buraco negro de dados indispensável"**: A proficiência em inglês é baixa no Japão, cardápios e placas são quase inteiramente em japonês. Turistas dependem muito da tradução em tempo real por câmera do Google Translate + Google Maps para baldeações complexas—estes são os maiores consumidores de dados durante a viagem.
 >
-> *Com base em dados públicos até setembro de 2026.*
+> *Extraído de fontes públicas, setembro de 2026.*
 
-O mercado japonês é único porque troca a "ansiedade do sinal" pela "ansiedade dos dados". Estas três coisas determinam como deve comprar:
+O mercado do Japão é único porque troca "ansiedade de sinal" por "ansiedade de dados". Essas três coisas determinam como você deve comprar:
 
-**1. Não se preocupe com o sinal—faça orçamento para os dados.** No Japão, pode ver vídeos 4K em túneis de metro e fazer videoconferências em vagões do Shinkansen—o sinal nunca é o problema. A verdadeira questão é: come três refeições por dia, cada uma exigindo que o Google Tradutor digitalize o menu, e precisa do Google Maps para navegar nas transferências complexas—**estes são os que consomem os seus dados.** Em vez de se preocupar com "se há internet", descubra "quantos GB precisa."
+**1. Não se preocupe com sinal—orçe dados.** No Japão, você pode transmitir vídeo 4K em túneis de metrô e fazer videoconferências em composições Shinkansen—sinal nunca é o problema. O problema real é: você come três refeições por dia, cada uma exigindo o Google Translate para escanear o cardápio, e precisa do Google Maps para navegar pelas intrincadas baldeações—**estas é que comem seus dados.** Em vez de se preocupar com "se há internet", descubra "quantos GB você precisa".
 
-**2. O pocket WiFi devia reformar-se.** O pocket WiFi precisa de carregamento diário, filas no aeroporto para recolha/entrega, reembolsos de depósito e, quando partilhado entre várias pessoas, fica facilmente sem bateria e desliga-se. Uma [eSIM de dados Japão](/japan-esim/) instala-se diretamente no seu telefone—sem dispositivo extra, sem carregamento, sem devolução, e o preço é apenas um terço a metade do pocket WiFi.
+**2. O pocket WiFi deveria se aposentar.** O pocket WiFi precisa de carga diária, filas de aeroporto para retirada/devolução, reembolso de depósito, e quando compartilhado entre várias pessoas, fácil acaba a bateria e desconecta. Um eSIM instala direto no seu telefone—sem dispositivo extra, sem carga, sem devolução, e o preço é apenas um terço a metade do pocket WiFi.
 
-**3. As SIM locais exigem passaporte—um incómodo.** Os "cartões de dados turísticos" do Japão (B-Mobile, IIJmio, etc.) exigem registo de passaporte na compra, e os balcões dos aeroportos e lojas de eletrónica (Bic Camera, Yodobashi) têm filas. Para turistas de 3-5 dias, uma [eSIM Japão](/japan-esim/) instalada antes da partida e ativada à chegada funciona imediatamente—saltando todo o processo.
+**3. SIMs locais exigem passaporte—incômodo.** Os "cartões de dados para turistas" do Japão (B-Mobile, IIJmio, etc.) exigem registro de passaporte na compra, e balcões de aeroporto e lojas de eletrônicos (Bic Camera, Yodobashi) têm filas. Para turistas de 3-5 dias, um [eSIM do Japão](/japan-esim/) instalado antes da partida e ativado ao pousar funciona imediatamente—pulando todo o processo.
 
-## Os Quatro Principais Operadores do Japão: Análise Aprofundada
+## As Quatro Grandes Operadoras Móveis do Japão: Qual Alimenta Seu eSIM?
 
-> O mercado japonês é "Três Grandes + um novo guerreiro dos preços": NTT Docomo, KDDI (au) e SoftBank dividem o mercado, enquanto a Rakuten Mobile é um novo operador que oferece dados ilimitados baratos. As eSIM de viagem geralmente ligam-se automática ou manualmente à Docomo, au (KDDI) ou SoftBank; algumas usam a Rakuten.
+> O Japão roda em uma estrutura de "três gigantes mais um desafiante": NTT Docomo, KDDI (au) e SoftBank dividem o mercado enquanto a Rakuten Mobile empurra dados ilimitados a preço baixo. Um eSIM de viagem se conectará à Docomo, au ou SoftBank, ocasionalmente Rakuten.
 
-### As Quatro Redes Japonesas em Números
+### As Quatro Redes do Japão em Números
 
 | Métrica | NTT Docomo | KDDI (au) | SoftBank | Rakuten Mobile |
 |------|-----------|-----------|----------|----------------|
 | Assinantes | ~44 milhões | ~28 milhões | ~24 milhões | ~7 milhões |
-| Quota de Mercado | ~37% | ~24% | ~21% | ~6% |
-| Cobertura 5G População | **95%+** | 95%+ | 95%+ | 60%+ |
+| Participação de Mercado | ~37% | ~24% | ~21% | ~6% |
+| Cobertura Populacional 5G | **95%+** | 95%+ | 95%+ | 60%+ |
 | Velocidade Média | **Mais rápida** | Rápida | Rápida | Média |
-| Melhor para | Todo o país + área do Fuji | Cidades + Kansai | Equilibrado + valor | Conscientes do orçamento |
+| Melhor Para | Nacional + área Fuji | Cidades + Kansai | Equilibrado + custo | Consciente do orçamento |
 
-*Fontes: [MIC](https://www.soumu.go.jp/) / [Opensignal](https://www.opensignal.com/), setembro de 2026.*
+*Fontes: MIC / Ookla Speedtest Global Index, a partir de setembro de 2026.*
 
-### As Quatro Operadoras, Uma por Uma
+### As Quatro Operadoras, Uma a Uma
 
-- **NTT Docomo — "Rei da Cobertura"**: Maior operador do Japão, cobertura mais ampla, 5G mais rápida—mais estável aos pés do Monte Fuji, em Hakone e em atrações remotas. Uma eSIM de viagem que dá prioridade à Docomo é uma vantagem. **⚠️ Fraqueza**: Os seus próprios planos são caros; a rede única pode ser fraca em pontos subterrâneos muito profundos.
+- **NTT Docomo — "Rainha da Cobertura"**: A maior operadora do Japão, cobertura mais ampla, 5G mais rápido—mais estável aos pés do Monte Fuji, Hakone e atrações remotas. Um eSIM de viagem que prioriza a Docomo é um plus. **⚠️ Fraqueza**: Seus próprios planos são caros; rede única pode ser fraca em pontos subterrâneos muito profundos.
 
-- **KDDI (au) — "Forte no Kansai"**: Segundo em assinantes, forte em cidades e no Kansai (Osaka, Quioto), velocidades comparáveis à Docomo. **⚠️ Fraqueza**: Cobertura rural ligeiramente inferior à Docomo.
+- **KDDI (au) — "Forte no Kansai"**: Segunda em assinantes, forte em cidades e Kansai (Osaka, Quioto), velocidades comparáveis à Docomo. **⚠️ Fraqueza**: Cobertura rural ligeiramente inferior à Docomo.
 
-- **SoftBank — "Equilibrado + Valor"**: Decente tanto em cidades como em áreas rurais, implementação 5G rápida, vasta experiência em roaming internacional—muitas eSIM de viagem usam-na. **⚠️ Fraqueza**: Um "segundo lugar" em todas as categorias, sem característica distintiva.
+- **SoftBank — "Equilibrada + Custo"**: Razoável tanto em cidades quanto em áreas rurais, implementação 5G rápida, extensa experiência de roaming internacional—muitos eSIMs de viagem a usam. **⚠️ Fraqueza**: "Segundo lugar" em toda categoria, sem recurso de destaque.
 
-- **Rakuten Mobile — "Guerreiro dos Preços"**: Foca-se em dados ilimitados baratos, usando a rede da au + as suas próprias estações base—económica. **⚠️ Fraqueza**: A cobertura da sua própria rede é incompleta; as áreas remotas dependem de roaming, raramente usada por eSIM de viagem.
+- **Rakuten Mobile — "Guerreira de Preço"**: Foca em dados ilimitados baratos, usando a rede da au + suas próprias estações base—amigável ao orçamento. **⚠️ Fraqueza**: Cobertura de rede própria incompleta; áreas remotas dependem de roaming, raramente usada por eSIMs de viagem.
 
 ### Dados de Cobertura nas Principais Cidades do Japão
 
-| Destino | Qualidade da Cobertura | Velocidade | Melhor Rede |
+| Destino | Qualidade de Cobertura | Velocidade | Melhor Rede |
 |--------|---------|------|---------|
 | Tóquio (Shibuya / Asakusa) | Excelente | 5G, 150-800 Mbps | Docomo / SoftBank |
 | Quioto / Osaka | Excelente | 5G, 100-500 Mbps | au / Docomo |
-| Metro de Tóquio (túneis) | Excelente | 4G/5G sinal máximo | Docomo |
-| Shinkansen (vagões) | Excelente | 4G/5G estável | Docomo / au |
-| Monte Fuji / Hakone / Lago Kawaguchi | Bom | 4G/5G, 50-200 Mbps | **Docomo** |
+| Metrô de Tóquio (túneis) | Excelente | 4G/5G barra cheia | Docomo |
+| Shinkansen (composições) | Excelente | 4G/5G estável | Docomo / au |
+| Monte Fuji / Hakone / Lago Kawaguchi | Boa | 4G/5G, 50-200 Mbps | **Docomo** |
 | Hokkaido (Sapporo / Otaru) | Excelente | 5G, 80-300 Mbps | Docomo / au |
 
-> **Conselho Chave**
+> **Conselho Principal**
 >
-> O sinal no Japão é geralmente excelente. O **essencial da escolha de uma eSIM não é a "cobertura" mas a "comutação automática multi-rede + valor dos dados".** Uma eSIM com comutação multi-rede (como a Roami) escolherá automaticamente a rede mais rápida entre Docomo / au / SoftBank com base na sua localização—mudando para SoftBank nas horas de ponta em Shibuya, para Docomo aos pés do Monte Fuji—mantendo-o com sinal máximo em todo o lado. Mais importante ainda, permite-lhe gastar dinheiro em **dados**, não num **dispositivo no seu bolso que precisa de ser carregado.** [Veja eSIM Japão com comutação multi-rede →](/japan-esim/)
+> A cobertura no Japão está próxima de garantida, então a **decisão real é "troca multirrede mais custo-benefício de dados", não "qual operadora".** Um eSIM que salta entre Docomo, au e SoftBank—a Roami faz isso—vai com você de uma movimentada travessia de Shibuya aos Cinco Lagos de Fuji sem você notar, e deixa você gastar com **dados** em vez de com **um dispositivo na bolsa que precisa de carga.**
 
-## Marcas eSIM Japão: Lado a Lado
+## Marcas de eSIM do Japão Comparadas: Airalo vs Holafly vs Roami
 
-> ⚠️ **Aviso Crucial para o Japão**: As três marcas oferecem **eSIM apenas dados, sem número de telefone japonês**. Os serviços de transporte (Uber / DiDi) e entrega de comida usam principalmente mensagens na aplicação—não é necessário número local. Se precisar de um número japonês (para chamadas de volta de reservas de restaurantes, verificação de aplicações), combine com uma solução VoIP. O que realmente importa é **dados suficientes para alimentar o Google Tradutor e os Mapas.**
+> ⚠️ **O específico do Japão a saber primeiro**: as três marcas são **somente dados, sem número de telefone japonês**. Uber e DiDi lidam com a maioria das coisas no app, então um número raramente é essencial; se você precisar de um para ligação de retorno de restaurante ou verificação de app, combine o eSIM com uma linha VoIP—a mesma solução que cobrimos em nosso [guia de eSIM dos EUA Airalo](/blog/airalo-usa-esim-guide/). O que realmente importa é **dados suficientes para manter Google Translate e Maps alimentados.**
 
 ### Marcas Lado a Lado
 
-| Marca | Classificação Trustpilot | Posicionamento | Acesso à Rede | 5G | Hotspot | Número Japonês |
+| Marca | Avaliação Trustpilot | Posicionamento Principal | Acesso de Rede | 5G | Hotspot | Número Japonês |
 |------|----------------|---------|---------|-----|------|-----------|
-| **Airalo** | 4.2 | Maior plataforma mundial, níveis mais granulados | Docomo / SoftBank | Alguns | Suportado | ❌ |
-| **Holafly** | 4.3 | Dados ilimitados puros | Docomo | Suportado | Limite 1GB/dia | ❌ |
-| **Roami** | 4.9 | Comutação multi-rede automática, melhor valor | Docomo / au / SoftBank | Completo | Ilimitado | ❌ |
+| **Airalo** | 3.9 | Maior plataforma do mundo, faixas mais granulares | SoftBank / KDDI (au) | Alguns | Suportado | ❌ |
+| **Holafly** | 4.6 | Dados puramente ilimitados | KDDI (au) / SoftBank | Suportado | limite de 1GB/dia | ❌ |
+| **Roami** | 4.9 | Troca automática multirrede, melhor custo | Docomo / au / SoftBank | Completo | Ilimitado | ❌ |
 
-> **Diferenças Rápidas entre Marcas**
+> **Diferenças Rápidas por Marca**
 >
-> - **Airalo eSIM Japão**: Maior plataforma mundial, níveis de dados fixos mais granulados mais opções ilimitadas, liga-se a Docomo / SoftBank. Preços transparentes, suporta hotspot, **sem número japonês**. Bom para quem quer "ilimitado" com um orçamento médio.
-> - **Holafly eSIM Japão**: A única marca puramente ilimitada, com preço de $3.90/dia, liga-se a Docomo 5G. Sem limite de GB, mas **hotspot limitado a 1GB/dia**, custo elevado a longo prazo, **sem número japonês**. Adequado para utilizadores intensivos que não se importam com o custo.
-> - **Roami eSIM Japão**: Comutação multi-rede automática (Docomo / au / SoftBank), 5G completo, hotspot ilimitado, preço mais baixo globalmente, **sem número japonês**. **Detalhe específico do Japão: no nível de 7 dias, 20GB e ilimitado diferem apenas $1.60**—utilizadores intensivos podem optar pelo ilimitado por um custo extra muito pequeno, muito mais barato que alugar pocket WiFi. Use o código de desconto **WEB20** para 20% de desconto. [Veja planos Roami eSIM Japão →](/japan-esim/)
+> - **eSIM Japão Airalo**: a maior plataforma, vendida como **Moshi Moshi** na SoftBank e KDDI (au), com a maior variedade de faixas fixas mais opções ilimitadas. Preços transparentes e tethering funcionam, mas não há número japonês, e sua pontuação Trustpilot 3.9 ainda fica atrás do campo—veja nossa [análise de eSIM Airalo](/blog/airalo-esim-review-prices-coverage/).
+> - **eSIM Japão Holafly**: a única opção totalmente ilimitada, $3.97/dia na KDDI (au) e SoftBank 5G. Nada é medido e nada é limitado, mas o tethering para em 1GB/dia, um mês é caro e não há número japonês—uma para quem transmite constantemente.
+> - **eSIM Japão Roami**: troca automaticamente entre Docomo, au e SoftBank, roda 5G completo, compartilha dados sem limite e vem mais barato das três—novamente sem número japonês. **Uma peculiaridade só do Japão: na faixa de 7 dias, 20GB e ilimitado ficam a apenas $1.60 de distância**, então usuários pesados podem muito bem pegar o ilimitado—ainda muito mais barato que alugar pocket WiFi. **WEB20** tira 20% de desconto. [Veja planos de eSIM Japão Roami](/japan-esim/)
 
-### Lista Completa de Preços Airalo eSIM Japão
+### Lista Completa de Preços do eSIM Japão Airalo
+
+A Airalo vende seu produto Japão sob a marca **"Moshi Moshi"**, rodando na KDDI (au) e SoftBank.
 
 **Planos Ilimitados**
 
@@ -188,46 +189,48 @@ O mercado japonês é único porque troca a "ansiedade do sinal" pela "ansiedade
 
 **Planos de Dados Fixos**
 
-| Dias | Nível de Dados | Preço |
+| Dias | Faixa de Dados | Preço |
 |------|--------|------|
 | 3 dias | 1GB / 3GB | $4.00 / $7.50 |
 | 7 dias | 3GB / 5GB / 10GB | $8.00 / $10.00 / $17.00 |
 | 15 dias | 5GB / 10GB / 20GB | $10.50 / $17.50 / $24.00 |
 | 30 dias | 5GB / 10GB / 20GB | $11.00 / $18.00 / $25.00 |
 
-> ⚠️ **Nota de Risco Airalo Japão**: Os níveis de dados fixos são relativamente caros (7 dias 10GB a $1.70/GB), mais do dobro do preço do equivalente Roami; o ilimitado de 7 dias a $27 oferece valor médio, e os níveis fixos de 30 dias têm máximo de 20GB.
+> ⚠️ **Nota de Risco Airalo Japão**: Faixas de dados fixos são relativamente caras (7 dias 10GB a $1.70/GB), mais do dobro do preço do equivalente da Roami; o ilimitado de 7 dias a $27 oferece valor médio, e as faixas fixas de 30 dias chegam no máximo a 20GB.
 
-### Lista Completa de Preços Holafly eSIM Japão
+### Lista Completa de Preços do eSIM Japão Holafly
 
-A Holafly Japão oferece **apenas dados ilimitados**, com preço por dia:
+O eSIM Japão Holafly oferece **apenas dados ilimitados**, precificado por duração:
 
 | Dias | Preço | Custo Diário |
 |------|------|---------|
-| 3 dias | $11.70 | $3.90/dia |
-| 7 dias | $27.30 | $3.90/dia |
-| 15 dias | $58.50 | $3.90/dia |
-| 30 dias | $117.00 | $3.90/dia |
+| 3 dias | $11.90 | $3.97/dia |
+| 7 dias | $27.50 | $3.93/dia |
+| 10 dias | $36.50 | $3.65/dia |
+| 30 dias | $73.90 | $2.46/dia |
 
-> ⚠️ **Nota de Risco Holafly Japão**: Não há níveis fixos disponíveis; 3 dias custam $11.70, 63% mais que o 10GB 3 dias da Roami ($7.19). **O hotspot está limitado a 1GB/dia**, pelo que a partilha em família é restrita. O preço por dia torna os custos a longo prazo os mais elevados.
+> Viagens curtas pagam o maior preço por dia—$3.97/dia em três dias—enquanto comprometer o mês inteiro reduz para $2.46/dia.
 
-### Lista Completa de Preços Roami eSIM Japão
+> ⚠️ **Nota de Risco Holafly Japão**: Nenhuma faixa fixa disponível; 3 dias custam $11.90, 66% a mais que o 10GB de 3 dias da Roami ($7.19). **O hotspot é limitado a 1GB/dia**, então o compartilhamento familiar é restrito. A precificação por dia torna os custos de longo prazo os mais altos.
 
-A Roami Japão oferece planos de dados fixos e ilimitados. Preço com desconto = preço listado × 0.8 (código WEB20):
+### Lista Completa de Preços do eSIM Japão Roami
 
-| Dias | Nível de Dados | Preço Listado | Preço com Desconto | Custo Diário |
+A linha Japão da Roami cobre tanto faixas fixas quanto ilimitado, com o valor com desconto em 80% do de tabela (usando o código WEB20):
+
+| Dias | Faixa de Dados | Preço de Tabela | Preço com Desconto | Custo Diário |
 |------|--------|---------|--------|---------|
 | 3 dias | 1GB / 3GB / 5GB / 10GB / Ilimitado | $1.99 / $2.99 / $5.99 / $8.99 / $9.99 | **$1.59 / $2.39 / $4.79 / $7.19 / $7.99** | $0.53-2.66/dia |
 | 7 dias | 1GB / 3GB / 5GB / 10GB / 20GB / Ilimitado | $1.99 / $3.99 / $5.99 / $9.99 / $16.99 / $18.99 | **$1.59 / $3.19 / $4.79 / $7.99 / $13.59 / $15.19** | $0.23-2.17/dia |
 | 15 dias | 3GB / 5GB / 10GB / 20GB / 30GB / Ilimitado | $4.99 / $6.99 / $10.99 / $17.99 / $25.99 / $42.99 | **$3.99 / $5.59 / $8.79 / $14.39 / $20.79 / $34.39** | $0.27-2.29/dia |
 | 30 dias | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB / Ilimitado | $5.99 / $7.99 / $11.99 / $20.99 / $25.99 / $37.99 / $71.99 | **$4.79 / $6.39 / $9.59 / $16.79 / $20.79 / $30.39 / $57.59** | $0.16-1.92/dia |
 
-> ⚠️ **Nota de Risco Roami Japão**: No nível de 7 dias, 20GB e ilimitado diferem apenas $1.60—utilizadores intensivos podem optar pelo ilimitado por um custo extra muito pequeno. Mas o nível ilimitado de 30 dias ($57.59) é quase o dobro do 50GB ($30.39)—dispense o ilimitado para estadias longas. Caso contrário, os níveis fixos têm o preço unitário mais baixo globalmente.
+> ⚠️ **Atenção Roami Japão**: na faixa de 7 dias, 20GB e ilimitado ficam a apenas $1.60 de distância, então usuários pesados podem muito bem fazer upgrade. Na faixa de 30 dias inverte—o ilimitado a $57.59 custa quase o dobro dos 50GB a $30.39, então estadias longas devem evitá-lo. Em todos os outros lugares, as faixas fixas têm o menor preço unitário.
 
-### Valor, Não Apenas Preço
+### Custo-benefício, Não Apenas Preço
 
-**O preço por GB diminui significativamente à medida que se sobem os níveis.** Exemplo: planos de 30 dias da Roami:
+**Suba uma faixa e o custo por gigabyte cai.** Pegue a escada de 30 dias da Roami:
 
-| Nível de Dados | Preço com Desconto | Preço por GB |
+| Faixa de Dados | Preço com Desconto | Preço por GB |
 |--------|--------|-----------|
 | 5GB | $6.39 | $1.28/GB |
 | 10GB | $9.59 | $0.96/GB |
@@ -235,319 +238,292 @@ A Roami Japão oferece planos de dados fixos e ilimitados. Preço com desconto =
 | 30GB | $20.79 | $0.69/GB |
 | 50GB | $30.39 | **$0.61/GB** |
 
-O preço por GB do 50GB é apenas metade do preço do 5GB. **Conclusão: se conseguir estimar o seu uso, comprar um nível maior poupa mais dinheiro.**
+A faixa 50GB custa pouco mais da metade por gigabyte da faixa 5GB. **Se você sabe aproximadamente seu uso, subir uma faixa é o melhor negócio.**
 
-**No contexto japonês, "o ilimitado vale a pena?" depende da duração.** Este é um fenómeno assimétrico:
+**No contexto do Japão, "o ilimitado vale a pena?" depende da duração.** Este é um fenômeno assimétrico:
 
 | Plano | Preço | Vale a pena? |
 |------|------|--------|
 | Roami 7 dias 20GB com desconto | $13.59 | Melhor se uso diário ≤2.86GB |
-| Roami 7 dias ilimitado com desconto | $15.19 | **Apenas $1.60 mais**; vale a pena se uso diário >2.86GB |
+| Roami 7 dias ilimitado com desconto | $15.19 | **Apenas $1.60 a mais**; vale a pena se uso diário >2.86GB |
 | Roami 30 dias 50GB com desconto | $30.39 | Melhor se uso diário ≤1.67GB |
-| Roami 30 dias ilimitado com desconto | $57.59 | **$27.20 mais**; só se paga se uso diário >3GB |
+| Roami 30 dias ilimitado com desconto | $57.59 | **$27.20 a mais**; só quase equilibra se uso diário >3GB |
 
-**Conclusão: o ilimitado de 7 dias é um "pequeno upgrade que vale a pena"; o ilimitado de 30 dias é uma "armadilha."** No nível de 7 dias, 20GB e ilimitado estão separados por apenas $1.60—utilizadores intensivos devem atualizar sem hesitação. Mas no nível de 30 dias, o ilimitado custa $27.20 mais que 50GB—a menos que use 90GB+ por mês, 50GB é a melhor solução para um mês completo.
+**Conclusão: o ilimitado de 7 dias é um "pequeno upgrade que vale a pena"; o ilimitado de 30 dias é uma "armadilha".** Na faixa de 7 dias, 20GB e ilimitado ficam a apenas $1.60 de distância—usuários pesados devem fazer upgrade sem hesitar. Mas na faixa de 30 dias, o ilimitado é $27.20 a mais que 50GB—a menos que você use 90GB+ por mês, 50GB é a melhor solução de mês inteiro.
 
-**O que pode fazer com o dinheiro poupado?** Converta a diferença de preço entre a Roami (com desconto) e os concorrentes em despesas de viagem no Japão:
+**Como essa economia aparece no terreno?** Alinhe as faixas com desconto da Roami contra a concorrência e a diferença vira refeições e ingressos reais:
 
-| Viagem | Roami com desconto vs concorrente | Poupança | Equivalente a |
+| Viagem | Roami com desconto vs concorrente | Economizado | Equivalente A |
 |------|-------------------|------|--------|
-| 7 dias 10GB | $7.99 vs Airalo $17.00 | $9.01 | Uma tigela de ramen + uma bebida matcha |
-| 7 dias ilimitado | $15.19 vs Holafly $27.30 | $12.11 | Uma noite num izakaya |
-| 15 dias 20GB | $14.39 vs Airalo $24.00 | $9.61 | Passe de 3 dias do Metro de Tóquio |
-| 30 dias ilimitado | $57.59 vs Holafly $117.00 | $59.41 | Uma noite num hotel de negócios |
+| 7 dias 10GB | $7.99 vs Airalo $17.00 | $9.01 | Uma tigela de ramen + uma bebida de matcha |
+| 7 dias ilimitado | $15.19 vs Holafly $27.50 | $12.31 | Um jantar a la carte em um izakaya |
+| 15 dias 20GB | $14.39 vs Airalo $24.00 | $9.61 | Passe de 3 dias do Metrô de Tóquio |
+| 30 dias ilimitado | $57.59 vs Holafly $73.90 | $16.31 | Um jantar de verdade em Shinjuku |
 
-## eSIM Japão de 3 Dias, Classificada
+## eSIM Japão de 3 Dias, Ranqueado
 
-Para uma viagem curta de 3 dias (fim de semana em Tóquio / escala / negócios), o preço de entrada é o mais importante.
+Em um pulo de três dias—um fim de semana em Tóquio, uma escala, uma chamada de negócios rápida—o que conta é o quanto você consegue gastar o mínimo.
 
-| Dados | Airalo | Holafly | Roami (com Desconto) | Campeão de Valor |
+| Dados | Airalo | Holafly | Roami (Com Desconto) | Campeão de Valor |
 |------|--------|---------|---------------|-----------|
 | 1GB | $4.00 | — | **$1.59** | **Roami** |
 | 3GB | $7.50 | — | **$2.39** | **Roami** |
 | 5GB | — | — | **$4.79** | **Roami** |
 | 10GB | — | — | **$7.19** | **Roami** |
-| Ilimitado | $11.50 | $11.70 | **$7.99** | **Roami** |
+| Ilimitado | $11.50 | $11.90 | **$7.99** | **Roami** |
 
-**Decisão de 3 dias**: Roami 3 dias 3GB com desconto a $2.39 é 68% mais barato que o equivalente Airalo ($7.50); Roami 3 dias 10GB ($7.19) é 39% mais barato que o ilimitado Holafly ($11.70). A Roami vence em todos os aspetos para viagens de 3 dias, mesmo 10GB é mais barato que o ilimitado dos concorrentes.
+**Veredito de 3 dias**: os 3GB de 3 dias da Roami a $2.39 ficam 68% abaixo do equivalente da Airalo ($7.50), e seus 10GB a $7.19 superam o ilimitado da Holafly ($11.90) em 40%. A Roami leva cada linha, e até seus 10GB custam menos que o ilimitado de um rival.
 
-> **💡 Informação sobre o Valor do Preço de 3 Dias**: Para uma viagem de 3 dias a Tóquio com Google Tradutor a digitalizar menus + Google Maps para transferências + mensagens WhatsApp, 1-3GB são suficientes. Roami 3 dias 3GB com desconto a $2.39 é menos de $1/dia (cerca do preço de um onigiri de loja de conveniência) por conectividade total. [Veja planos eSIM Japão de 3 dias →](/japan-esim/)
+> **💡 Insight de Valor de Preço de 3 Dias**: Para uma viagem de 3 dias a Tóquio com Google Translate escaneando cardápios + Google Maps para baldeações + mensagens WhatsApp, 1-3GB é suficiente. Os 3GB de 3 dias da Roami com desconto a $2.39 são menos de $1/dia (cerca do preço de um onigiri de conveniência) para conectividade total.
 
-## eSIM Japão de 7 Dias, Comparada
+## eSIM Japão de 7 Dias, Comparado
 
-7 dias é a duração mais comum (Tóquio + Kansai, ou uma única cidade em profundidade).
+Uma semana é a duração que a maioria das viagens ao Japão adota, seja Tóquio mais Kansai ou uma cidade explorada direito.
 
-| Dados | Airalo | Holafly | Roami (com Desconto) | Campeão de Valor |
+| Dados | Airalo | Holafly | Roami (Com Desconto) | Campeão de Valor |
 |------|--------|---------|---------------|-----------|
 | 1GB | — | — | **$1.59** | **Roami** |
 | 3GB | $8.00 | — | **$3.19** | **Roami** |
 | 5GB | $10.00 | — | **$4.79** | **Roami** |
 | 10GB | $17.00 | — | **$7.99** | **Roami** |
 | 20GB | — | — | **$13.59** | **Roami** |
-| Ilimitado | $27.00 | $27.30 | **$15.19** | **Roami** |
+| Ilimitado | $27.00 | $27.50 | **$15.19** | **Roami** |
 
-**Decisão de 7 dias**: Roami 7 dias 10GB com desconto a $7.99 é 53% mais barato que o equivalente Airalo ($17.00) e 71% mais barato que o ilimitado Holafly ($27.30). Mesmo o ilimitado da Roami ($15.19) é 44% mais barato que o da Holafly e mais de metade do preço de alugar pocket WiFi.
+**Veredito de 7 dias**: a semana de 10GB da Roami a $7.99 fica 53% abaixo da mesma faixa da Airalo ($17.00) e 71% abaixo do ilimitado da Holafly ($27.50). O próprio ilimitado da Roami a $15.19 ainda é 45% mais barato que a Holafly e menos da metade de um aluguel de pocket WiFi.
 
-> **💡 Informação sobre o Valor do Preço de 7 Dias**: Google Tradutor + Mapas são "buracos negros de dados" no Japão—três refeições por dia a digitalizar menus, navegação e transferências o dia todo—1.43GB/dia é uma base segura. Roami com desconto a $7.99 dá $0.80/GB, o mais baixo do mercado; os $9.01 poupados são suficientes para uma tigela de ramen + uma bebida matcha. Os utilizadores intensivos de vídeo podem optar pelo ilimitado por apenas $1.60 extra ($15.19)—ainda mais barato que o pocket WiFi.
+> **💡 Insight de Valor de Preço de 7 Dias**: Google Translate + Maps são "buracos negros de dados" no Japão—três refeições por dia escaneando cardápios, navegação e baldeações o dia todo—1.43GB/dia é uma base segura. Os $7.99 com desconto da Roami dão $0.80/GB, o menor do mercado; os $9.01 economizados são suficientes para uma tigela de ramen + uma bebida de matcha. Transmissores pesados de vídeo podem ir para o ilimitado por apenas $1.60 extra ($15.19)—até mais barato que o pocket WiFi.
 
 ## eSIM Japão de 15 Dias para Viagens de Duas Semanas
 
-15 dias adequa-se à rota clássica "Tóquio + Kansai + Hiroshima".
+15 dias servem para a rota clássica "Tóquio + Kansai + Hiroshima".
 
-| Dados | Airalo | Holafly | Roami (com Desconto) | Campeão de Valor |
+| Dados | Airalo | Holafly | Roami (Com Desconto) | Campeão de Valor |
 |------|--------|---------|---------------|-----------|
 | 5GB | $10.50 | — | **$5.59** | **Roami** |
 | 10GB | $17.50 | — | **$8.79** | **Roami** |
 | 20GB | $24.00 | — | **$14.39** | **Roami** |
 | 30GB | — | — | **$20.79** | **Roami** |
-| Ilimitado | $48.00 | $58.50 | **$34.39** | **Roami** |
+| Ilimitado | $48.00 | $50.50 | **$34.39** | **Roami** |
 
-**Decisão de 15 dias**: Roami 15 dias 20GB com desconto a $14.39 é 40% mais barato que o equivalente Airalo ($24.00) e 75% mais barato que Holafly ($58.50). O ilimitado da Roami ($34.39) é 28% mais barato que o ilimitado da Airalo ($48.00).
+**Veredito de 15 dias**: os 20GB quinzenais da Roami a $14.39 ficam 40% abaixo da mesma faixa da Airalo ($24.00) e 72% abaixo da Holafly ($50.50), enquanto o ilimitado da Roami a $34.39 fica 28% abaixo da Airalo ($48.00).
 
-> **💡 Informação sobre o Valor do Preço de 15 Dias**: 15 dias a cobrir Tóquio→Quioto→Osaka→Hiroshima com Google Tradutor + Mapas a funcionar o tempo todo—1.33GB/dia é suficiente. Roami com desconto a $14.39 dá $0.72/GB; Holafly 15 dias $58.50 é 4× o preço do 20GB da Roami. Os $44 extras poupados poderiam cobrir duas noites num albergue decente.
+> **💡 O que duas semanas realmente custam**: Tóquio → Quioto → Osaka → Hiroshima com Translate e Maps rodando constantemente é 1.33GB/dia, e os $14.39 da Roami ficam em $0.72/GB. Os 15 dias da Holafly a $50.50 são 3,5× isso; os $36 que você mantém são uma noite em um hostel decente.
 
-## eSIM Japão de 30 Dias para Estadas Mensais
+## eSIM Japão de 30 Dias para Estadias Mensais
 
-30 dias corresponde a estadias longas, trabalho de curta duração, escola de línguas ou nómadas digitais.
+Trinta dias é a faixa de estadia longa: visitas estendidas, trabalho de curto prazo, escola de idiomas ou vida como nômade digital.
 
-| Dados | Airalo | Holafly | Roami (com Desconto) | Campeão de Valor |
+| Dados | Airalo | Holafly | Roami (Com Desconto) | Campeão de Valor |
 |------|--------|---------|---------------|-----------|
 | 5GB | $11.00 | — | **$6.39** | **Roami** |
 | 10GB | $18.00 | — | **$9.59** | **Roami** |
 | 20GB | $25.00 | — | **$16.79** | **Roami** |
 | 30GB | — | — | **$20.79** | **Roami** |
 | 50GB | — | — | **$30.39** | **Roami** |
-| Ilimitado | $69.00 | $117.00 | **$57.59** | **Roami** |
+| Ilimitado | $69.00 | $73.90 | **$57.59** | **Roami** |
 
-**Decisão de 30 dias**: Roami 30 dias 50GB com desconto a $30.39 é a melhor solução para um mês completo ($0.61/GB); Roami ilimitado com desconto a $57.59 é 17% mais barato que Airalo ($69.00) e 51% mais barato que Holafly ($117.00). Mas note: **o ilimitado de 30 dias é quase o dobro do 50GB—a menos que use 90GB+ por mês, 50GB é mais rentável.**
+**Veredito de 30 dias**: os 50GB da Roami a $30.39 são a melhor compra de mês inteiro da página a $0.61/GB, e sua faixa ilimitada a $57.59 fica 17% abaixo da Airalo ($69.00) e 22% abaixo da Holafly ($73.90). Veja a assimetria, porém: **o ilimitado de 30 dias custa quase o dobro dos 50GB—a menos que você ultrapasse 90GB no mês, 50GB vence.**
 
-> **💡 Informação sobre o Valor do Preço de 30 Dias**: Para uma estadia de um mês, o [valor da eSIM Japão](/japan-esim/) é claro—50GB a $0.61/GB, em média 1.67GB/dia. Holafly 30 dias $117 é quase 4× o 50GB da Roami—a diferença de $87 é suficiente para uma noite num hotel de negócios. A menos que faça mais de 3 horas de videoconferência/streaming ao vivo por dia, 50GB é a melhor solução para um mês completo—evite o ilimitado de 30 dias.
+> **💡 O que um mês realmente custa**: para um mês inteiro, o caso é direto—50GB a $0.61/GB, ou 1.67GB por dia. Os 30 dias da Holafly a $73.90 são 2,4× os 50GB da Roami; essa diferença de $43.51 são alguns bons jantares em Osaka. A menos que você rode 3+ horas de chamadas de vídeo ou transmissão ao vivo diariamente, 50GB é a melhor resposta do mês—deixe a faixa ilimitada de lado.
 
 > **💰 Oferta por Tempo Limitado**
 >
-> Escolha a **eSIM Japão** da Roami e insira o código de desconto **WEB20** no checkout para obter **20% de desconto** em todos os planos. Preços com desconto: 7 dias 10GB por $7.99, 30 dias 50GB por $30.39—ambos significativamente mais baixos que os concorrentes e o pocket WiFi. [Compre planos eSIM Japão agora →](/japan-esim/)
+> Escolha um **eSIM Japão Roami** e aplique o código promocional **WEB20** no checkout para **20% de desconto** em todos os planos. Com desconto: 7 dias 10GB a $7.99 e 30 dias 50GB a $30.39—ambos confortavelmente abaixo da concorrência, e abaixo de um aluguel de pocket WiFi. [Compre planos de eSIM Japão agora](/japan-esim/)
 >
-> *O código de desconto aplica-se a todas as durações e níveis de dados, incluindo planos ilimitados.*
+> *O código promocional cobre todas as durações e faixas de dados, incluindo planos ilimitados.*
 
-## eSIM Japão, Viagem a Viagem
+## eSIM Japão, Viagem por Viagem
 
-### Viagem a Tóquio (3-5 dias)
+**Tóquio, três a cinco dias.** Um a dois gigabytes por dia é a cifra de trabalho—Google Translate apontado em cardápios, Maps para o metrô e um fluxo constante de posts sociais. A faixa 3–5GB da Roami cobre, e a faixa 3GB começa a $2.39. Horários de pico em Shibuya e Shinjuku martelam toda rede, que é exatamente onde a troca automática ganha seu lugar.
 
-- **Uso diário**: 1-2GB (Google Tradutor + Mapas + redes sociais)
-- **Recomendação**: Roami 3-5GB
-- **Motivo**: 5G com sinal máximo mesmo nos túneis do metro de Tóquio; a comutação multi-rede da Roami escolhe automaticamente a mais rápida entre Docomo/SoftBank. 3GB com desconto a partir de $2.39.
-- **⚠️ Aviso**: As horas de ponta em Shibuya e Shinjuku são movimentadas; a comutação multi-rede é mais estável que a rede única.
+**Kansai—Quioto, Osaka, Nara, cinco a sete dias.** Orçe 1,5–2GB diários: sinalização e cardápios são quase inteiramente japoneses, então a câmera do Translate se torna um consumo de dados constante. Os 10GB da Roami a $7.99 são a escolha sensata. Ao redor de Fushimi Inari e Kiyomizu-dera espere uploads pesados de fotos, então deixe uma margem.
 
-### Viagem Kansai a Quioto / Osaka / Nara (5-7 dias)
+**A corrida Shinkansen, Tóquio a Quioto, sete a dez dias.** As composições levam repetidores, então 1,5–2GB por dia vão mais longe do que você pensaria—transmita vídeo e navegue guias enquanto o país passa. A faixa 10–20GB da Roami é o lugar certo, com 20GB a $13.59. Túneis muito profundos podem causar um breve oscilo; isso é normal, não uma falha.
 
-- **Uso diário**: 1.5-2GB (câmara do Google Tradutor para menus/placas + navegação em templos)
-- **Recomendação**: Roami 10GB
-- **Motivo**: Os menus e placas no Kansai são quase totalmente em japonês; a tradução em tempo real por câmara do Google Tradutor é o maior consumidor de dados. 10GB com desconto a $7.99.
-- **⚠️ Aviso**: Fushimi Inari e Kiyomizu-dera estão cheios; os carregamentos de fotos usam mais dados—deixe uma margem.
+**Monte Fuji, Hakone e Lago Kawaguchi, três a cinco dias.** Cerca de 1–1,5GB por dia. Os Cinco Lagos de Fuji e Hakone são território Docomo, e a troca multirrede derivará para a Docomo automaticamente; 5GB a $4.79 é amplo. Pontos de vista perto da montanha mantêm sinal bem, embora algumas trilhas de floresta não—carregue os mapas antes de caminhar.
 
-### Tóquio → Quioto Shinkansen Multi-Cidade (7-10 dias)
+**Hokkaido—Sapporo, Otaru, Hakodate, cinco a sete dias.** Espere 1,5–2GB diários: Sapporo e Otaru têm excelente 5G urbano, e a vista noturna de Hakodate gera muitos uploads. Os 10GB da Roami a $7.99 servem. O inverno drena baterias de telefone rápido ao ar livre, então leve uma power bank—embora trocar de rede não afete a vida da bateria.
 
-- **Uso diário**: 1.5-2GB
-- **Recomendação**: Roami 10-20GB
-- **Motivo**: 5G com sinal máximo em todos os vagões do Shinkansen—veja vídeos em streaming e consulte guias ao longo do caminho. 20GB com desconto a $13.59.
-- **⚠️ Aviso**: Os túneis no Shinkansen têm sinal, mas túneis muito profundos podem ter breves flutuações—normal.
+**Viajando em família, cinco a dez dias.** Dois a três gigabytes por dia uma vez que várias pessoas e um tablet estejam compartilhando. Pegue os 10–20GB da Roami e use seu hotspot sem limite: um plano mantém todos online por uma fração de alugar um pocket WiFi por pessoa. Evite a Holafly aqui—seu limite de 1GB/dia de compartilhamento frustrará um grupo.
 
-### Monte Fuji / Hakone / Lago Kawaguchi (3-5 dias)
+**No orçamento mais apertado possível, três a cinco dias.** Menos de 1GB por dia é realista se você se limitar a Translate e navegação baseada em texto. A faixa 1GB/7 dias da Roami a $1.59 é a entrada mais barata do mercado e se estende a muito escaneamento de cardápios. Mantenha vídeo totalmente fora—1GB é cerca de uma hora de clipes curtos.
 
-- **Uso diário**: 1-1.5GB
-- **Recomendação**: Roami 5-10GB
-- **Motivo**: Os Cinco Lagos do Fuji e Hakone são áreas fortes da Docomo; a comutação multi-rede liga-se automaticamente à Docomo. 5GB com desconto a $4.79.
-- **⚠️ Aviso**: Os miradouros aos pés do Monte Fuji têm bom sinal, mas alguns trilhos florestais podem ser mais fracos—coloque mapas em cache com antecedência.
+## Seção Especial Pocket WiFi vs eSIM
 
-### Hokkaido (Sapporo / Otaru / Hakodate, 5-7 dias)
-
-- **Uso diário**: 1.5-2GB
-- **Recomendação**: Roami 10GB
-- **Motivo**: Sapporo e Otaru têm excelente 5G urbana; as vistas noturnas de Hakodate envolvem muitos carregamentos de fotos. 10GB com desconto a $7.99.
-- **⚠️ Aviso**: No inverno, os telefones gastam bateria rapidamente ao ar livre; a comutação multi-rede não afeta a bateria, mas traga um power bank.
-
-### Viagem em Família com Crianças (5-10 dias)
-
-- **Uso diário**: 2-3GB (vários utilizadores + tablets)
-- **Recomendação**: Roami 10-20GB + hotspot ilimitado
-- **Motivo**: O hotspot da Roami não tem restrições—partilhe uma eSIM em família, poupando 70%+ em comparação com alugar um pocket WiFi por pessoa.
-- **⚠️ Aviso**: Evite Holafly (limite de 1GB/dia para hotspot) se partilhar com vários utilizadores.
-
-### Orçamento Mínimo (3-5 dias)
-
-- **Uso diário**: <1GB (Google Tradutor + texto)
-- **Recomendação**: Roami 1GB/7 dias
-- **Motivo**: Com desconto a $1.59, o preço mais baixo globalmente—suficiente para digitalização extensa de menus no Google Tradutor + navegação por texto.
-- **⚠️ Aviso**: Não veja vídeos em streaming; 1GB só dá para cerca de 1 hora de vídeos curtos.
-
-## Secção Especial: Pocket WiFi vs eSIM
-
-Esta é uma questão de "inércia cultural" única no Japão em comparação com a maioria dos países, que merece uma explicação detalhada.
+Esta é uma questão de "inércia cultural" única do Japão comparada à maioria dos países, que vale uma explicação detalhada.
 
 ### Quatro Desvantagens do Pocket WiFi
 
-- **Precisa de carregamento**: Um dispositivo extra que precisa de carregamento diário—se se esquecer de carregar antes de sair, todo o grupo fica offline.
-- **Recolha e entrega + depósito**: Fila nos balcões do aeroporto para recolher, fila novamente antes da partida para devolver, e esperar pelos reembolsos de depósito.
-- **O preço diário não é barato**: ~$3.5-7/dia—7 dias custam $25-49, sem incluir o depósito do dispositivo.
-- **A partilha multi-utilizador pode falhar**: Um dispositivo para 5 ou 8 pessoas—se o telefone principal se afastar, a ligação cai.
+- **Precisa de carga**: Um dispositivo extra que precisa de carga diária—se você esquece de carregar antes de sair, o grupo todo fica offline.
+- **Retirada e devolução + depósito**: Fila em balcões de aeroporto para retirada, fila de novo antes da partida para devolução, e espera pelo reembolso do depósito.
+- **Preço diário não é barato**: ~$3,5-7/dia—7 dias é $25-49, sem incluir o depósito do dispositivo.
+- **Compartilhamento múltiplo pode quebrar**: Um dispositivo para 5 ou 8 pessoas—se o telefone principal sai, a conexão cai.
 
-### Como a eSIM Ganha
+### Como o eSIM Vence
 
-Uma [eSIM Japão](/japan-esim/) instala-se diretamente no seu telefone: sem carregamento, sem recolha/entrega, sem depósito, e inclui **comutação automática multi-rede** (escolhe automaticamente a mais rápida entre Docomo / au / SoftBank). A comparação de preços é ainda mais convincente:
+Um [eSIM do Japão](/japan-esim/) instala direto no seu telefone: sem carga, sem retirada/devolução, sem depósito, e inclui **troca automática multirrede** (escolhe automaticamente a mais rápida entre Docomo / au / SoftBank). A comparação de preço é ainda mais convincente:
 
 | Opção | Custo de 7 Dias | Dispositivo/Depósito | Conclusão |
 |------|---------|----------|------|
-| Pocket WiFi (aluguer) | $25-49 | Depósito + recolha/entrega | Caro + incómodo |
-| Roami eSIM 10GB | **$7.99** | Nenhum | **Poupança de 70-80%** |
-| Roami eSIM ilimitado | **$15.19** | Nenhum | **Poupança de metade** |
+| Pocket WiFi (aluguel) | $25-49 | Depósito + retirada/devolução | Caro + incômodo |
+| Roami eSIM 10GB | **$7.99** | Nenhum | **Economize 70-80%** |
+| Roami eSIM ilimitado | **$15.19** | Nenhum | **Economize metade** |
 
 ### O Verdadeiro Buraco Negro de Dados
 
-No Japão, o que mais precisa não é "mais sinal" mas "alimentar duas aplicações":
+No Japão, do que você mais precisa não é "mais sinal" mas "alimentar dois apps":
 
-- **Google Tradutor**: Aponte a câmara para menus, placas, instruções—tradução em tempo real—um salva-vidas para pedir e navegar, mas consome muitos dados.
-- **Google Maps**: Tóquio e Osaka têm transferências complexas; a navegação em tempo real + consultas de horários a funcionar o dia todo consomem dados continuamente.
+- **Google Translate**: Aponte a câmera em cardápios, placas, instruções—tradução em tempo real—um salva-vidas para pedir e navegar, mas consome muitos dados.
+- **Google Maps**: Tóquio e Osaka têm baldeações intrincadas; navegação em tempo real + consultas de horários rodando o dia todo consomem dados contínuos.
 
-Portanto, a lógica para escolher uma eSIM Japão é completamente oposta à da Alemanha (onde o sinal é uma preocupação): **aqui, a competição é "preço por GB", não "qual operador tem melhor sinal".** [Veja o preço por GB da eSIM Japão →](/japan-esim/)
+Assim, a lógica para escolher um eSIM do Japão é completamente oposta à Alemanha (onde o sinal é uma preocupação – veja nosso [guia de eSIM Alemanha Airalo](/blog/airalo-germany-esim-guide/) para suas zonas mortas de trem ICE): **aqui, a competição é "preço por GB", não "qual operadora tem melhor sinal".**
 
 ## eSIM Japão vs SIM Local vs Roaming
 
-| Aspeto | eSIM de Viagem | SIM Local Japão | Roaming Internacional |
+| Aspecto | eSIM de Viagem | SIM Local do Japão | Roaming Internacional |
 |------|----------|-------------|---------|
-| Processo de configuração | Instalar antes da partida | Aeroporto/loja eletrónica + registo de passaporte | Sem configuração |
-| Funciona à chegada | ✅ | ❌ Requer registo/ativação | ✅ |
-| Comutação multi-rede | ✅ (Roami) | ❌ Rede única | ❌ Rede única |
+| Processo de configuração | Instalar antes da partida | Aeroporto/loja de eletrônicos + registro de passaporte | Nenhuma configuração necessária |
+| Funciona na chegada | ✅ | ❌ Requer registro/ativação | ✅ |
+| Troca multirrede | ✅ (Roami) | ❌ Rede única | ❌ Rede única |
 | Número de telefone japonês | ❌ | ✅ | ❌ |
-| Preço | Médio (mais baixo com desconto) | Baixo-Médio | Alto |
-| Melhor para | Turistas de curta duração, viagens multi-país | Longas estadias, necessidade de número japonês | Emergência |
+| Preço | Médio (menor com desconto) | Baixo-Médio | Alto |
+| Melhor para | Turistas de curto prazo, viagens multi-país | Estadias longas, precisam de número japonês | Emergência |
 
-**Em resumo**: Viagem curta + funciona à chegada + alimenta Google Tradutor → eSIM de viagem; longa estadia + necessidade de número japonês → SIM local (mas requer registo de passaporte); se não quiser incómodos → não escolha roaming (caro e rede única).
+**Em resumo**: Viagem curta + funciona na chegada + alimenta Google Translate → eSIM de viagem; estadia longa + precisa de número japonês → SIM local (mas exige registro de passaporte); se você quer zero incômodo → não escolha roaming (caro e rede única).
 
-## Guia de Instalação da eSIM Japão
+## Passo a Passo de Instalação do eSIM Japão
 
-1. **Instale com WiFi antes da partida**: Após a compra, receberá um código QR. Digitalize-o em Definições → Rede móvel/Celular → Adicionar eSIM antes de partir, ou insira o código de ativação manualmente.
-2. **Ative o "Roaming de dados" à chegada**: Esta é a razão mais comum de falha de ativação—ative-o após aterrar, e o seu telefone ligar-se-á automaticamente a uma das redes Docomo/au/SoftBank.
-3. **Selecione o cartão de dados**: Defina a eSIM de viagem como a linha principal de "Dados móveis"; defina o seu cartão doméstico para "Apenas Voz/SMS" se quiser mantê-lo.
-4. **Desative o roaming de dados do seu cartão doméstico**: Evite custos elevados de roaming do seu operador doméstico.
-5. **Teste primeiro o Google Tradutor + Mapas**: Uma vez ligado, teste estas duas aplicações imediatamente para confirmar que a tradução em tempo real e a navegação funcionam.
+1. **Adicione no WiFi de casa antes de voar**: compre o plano, colete o QR da sua caixa de entrada, depois use Configurações → Celular/Rede Móvel → Adicionar eSIM enquanto ainda tem conexão confiável. Fazer isso em Narita no WiFi da chegada desperdiça sua meia hora inicial em Tóquio.
+2. **Ative o Roaming de Dados ao pousar**: o perfil ficará lá sem fazer nada até o roaming ser ligado—esse único interruptor está por trás da maioria dos relatos "meu eSIM está quebrado". Ele então se prenderá à Docomo, au ou SoftBank sozinho.
+3. **Aponte sua linha de dados para o eSIM**: mantenha o SIM doméstico no telefone para chamadas e SMS, e deixe o perfil Japão cuidar de todo o resto.
+4. **Desligue o roaming no SIM doméstico**: é assim que você evita a tarifa de roaming japonês da sua própria operadora enquanto o eSIM faz o trabalho.
+5. **Abra Google Translate e Google Maps**: aponte a câmera do Translate em um cardápio; se ele responder em inglês, seu caminho de dados está bom para uso.
 
-> **Não consegue ligar-se à rede? Tente estes passos:**
+> **Ainda não conecta? Tente estes em ordem:**
 >
-> 1. Confirme que o "Roaming de dados" está ativado; 2. Reinicie o telefone; 3. Em "Seleção de rede", escolha manualmente Docomo, au ou SoftBank; 4. Verifique se o APN corresponde ao valor especificado nas instruções da eSIM; 5. Se ainda não funcionar, contacte o apoio ao cliente da marca.
+> ① Interruptor de Roaming de Dados ligado; ② reinicie o aparelho; ③ em "Seleção de Rede" escolha Docomo, au ou SoftBank manualmente; ④ iguale o APN ao valor no e-mail do seu provedor; ⑤ se nada funcionar, contate o suporte da marca com seu EID.
 
-## Compatibilidade de Dispositivos com eSIM Japão
+## Compatibilidade de Dispositivo do eSIM Japão
 
-- **Telefones internacionais (comprados na Europa/EUA)**: A maioria suporta eSIM e pode ser usada diretamente.
-- **iPhones chineses / Androids chineses**: Os iPhones chineses (XS e posteriores) suportam eSIM, mas alguns modelos Android chineses têm a eSIM desativada—verifique o seu modelo antes de comprar.
-- **Telefones bloqueados por operadora**: Os telefones bloqueados por operadoras dos EUA podem bloquear também a eSIM; desbloqueie primeiro antes de comprar.
-- **Modelos apenas eSIM** (iPhone 14+ dos EUA): Sem slot para SIM físico, na verdade os mais adequados para eSIM.
-- **Dual SIM dual standby**: Pode manter tanto o seu cartão doméstico como a eSIM Japão simultaneamente—um para códigos de verificação, outro para dados.
+- **Aparelhos comprados na Europa ou EUA**: quase todos já suportam eSIM—nada a providenciar.
+- **iPhones chineses / Androids chineses**: a única armadilha real. A Apple liga o eSIM em unidades da China continental apenas no iPhone 18 Pro, 18 Pro Max, 17e e iPhone Air, e a maioria dos iPhones de Hong Kong/Macao chega como dual SIM físicos sem eSIM nenhum. Uma fatia de modelos Android chineses vem com o recurso desligado. Confirme na página de compatibilidade da Apple ou em nossa [lista de dispositivos compatíveis com eSIM](/compatibility/) antes de pagar.
+- **Aparelhos bloqueados por operadora**: um bloqueio de operadora dos EUA pode cobrir o slot eSIM também, então desbloqueie o telefone primeiro.
+- **Modelos sem bandeja** (iPhone 14 dos EUA e posteriores): nada para trocar—foram feitos para isso.
+- **Duas linhas ao mesmo tempo**: cartão doméstico para códigos, eSIM Japão para dados, rodando lado a lado.
 
-## FAQ eSIM Japão: Respostas Rápidas
+## FAQ do eSIM Japão: Respostas Rápidas
 
-**P1: Uma eSIM Japão requer passaporte ou registo?**
+**P1: Um eSIM do Japão exige passaporte ou registro?**
 
-Não. As eSIM de viagem são emitidas no estrangeiro e funcionam à chegada—sem necessidade do registo de passaporte exigido pelas SIM locais japonesas. Só precisa de um telefone compatível com eSIM e digitalizar o código QR antes da partida.
+Não. Um eSIM de viagem é vendido fora do Japão e simplesmente funciona quando você pousa—nenhum dos trâmites de passaporte que um SIM local japonês exige. Você precisa de um telefone compatível com eSIM e um QR code escaneado em casa.
 
-**P2: O sinal da eSIM é bom no Japão?**
+**P2: O sinal de eSIM é bom no Japão?**
 
-Excelente. O Japão tem repetidores de sinal em túneis de metro e vagões do Shinkansen, com cobertura 5G da população acima de 95%—nível superior na Ásia. Quase nunca precisa de se preocupar com "falta de sinal"—em vez disso, calcule "quantos GB precisa."
+Excelente. O Japão tem repetidores de sinal em túneis de metrô e composições Shinkansen, com cobertura 5G da população acima de 95%—faixa superior na Ásia. Você quase nunca precisa se preocupar com "sem sinal"—em vez disso, calcule "quantos GB você precisa".
 
 **P3: Devo alugar pocket WiFi no Japão?**
 
-Não. O pocket WiFi precisa de carregamento, recolha/entrega, depósito—cerca de $3.5-7/dia, pelo menos $25 por 7 dias. A eSIM Roami 7 dias 10GB custa apenas $7.99. A eSIM é mais barata, mais leve e sem dispositivo extra.
+Não. O pocket WiFi precisa de carga, retirada/devolução, depósito—cerca de $3,5-7/dia, pelo menos $25 por 7 dias. O eSIM Roami 7 dias 10GB é apenas $7.99. eSIM é mais barato, mais leve, e sem dispositivo extra.
 
-**P4: Qual operador tem a melhor cobertura no Japão?**
+**P4: Qual operadora tem a melhor cobertura no Japão?**
 
-A NTT Docomo tem a cobertura mais ampla e a 5G mais rápida (mais estável no Monte Fuji e atrações remotas); a au (KDDI) é forte no Kansai; a SoftBank é equilibrada. Escolha uma eSIM com comutação automática multi-rede (como a Roami) para obter o melhor de todas.
+A NTT Docomo tem a cobertura mais ampla e 5G mais rápido (mais estável no Monte Fuji e atrações remotas); a au (KDDI) é forte no Kansai; a SoftBank é equilibrada. Escolha um eSIM com troca automática multirrede (como a Roami) para ter o melhor de tudo.
 
-**P5: O Google Tradutor e o Google Maps podem ser usados no Japão?**
+**P5: O Google Translate e o Google Maps podem ser usados no Japão?**
 
-Sim, e são as suas "aplicações de salvação" no Japão. Os menus e placas são quase totalmente em japonês—a tradução em tempo real por câmara do Google Tradutor + Google Maps para transferências complexas são essenciais. Mas também são os maiores consumidores de dados—deixe dados suficientes ao escolher um plano.
+Sim, e eles são seus "apps de salvação" no Japão. Cardápios e placas são quase inteiramente em japonês—a tradução em tempo real por câmera do Google Translate + Google Maps para baldeações complexas são essenciais. Mas eles também são os maiores consumidores de dados—deixe dados suficientes ao escolher um plano.
 
-**P6: O sinal da eSIM é bom no Monte Fuji e em Hakone?**
+**P6: O sinal de eSIM é bom no Monte Fuji e Hakone?**
 
-Bom. Os Cinco Lagos do Fuji e Hakone são áreas fortes da Docomo com boa cobertura 5G. Uma eSIM com comutação multi-rede ligar-se-á automaticamente à Docomo. Coloque mapas em cache com antecedência para trilhos florestais.
+Bom. Os Cinco Lagos de Fuji e Hakone são áreas fortes da Docomo com boa cobertura 5G. Um eSIM de troca multirrede se conectará automaticamente à Docomo. Carregue mapas com antecedência para trilhas de floresta.
 
 **P7: Há sinal no Shinkansen?**
 
-Sim. Os vagões do Shinkansen japonês geralmente têm repetidores de sinal—5G com sinal máximo em todo o lado, para que possa ver vídeos em streaming e consultar guias ao longo do caminho. Isto é o oposto do ICE alemão, que pode perder a ligação em algumas rotas.
+Sim. As composições Shinkansen japonesas geralmente têm repetidores de sinal—5G de barra cheia por toda parte, então você pode transmitir vídeos e navegar guias pelo caminho. Isto é o oposto do ICE da Alemanha, que pode perder conexão em algumas rotas.
 
-**P8: A Airalo eSIM Japão é boa?**
+**P8: O eSIM Japão Airalo é bom?**
 
-A Airalo é a maior plataforma eSIM mundial, com níveis granulares para o Japão, planos fixos e ilimitados, ligando-se a Docomo/SoftBank para um desempenho estável em cidade. A desvantagem é que os níveis fixos são relativamente caros—o equivalente da Roami é mais do dobro mais barato.
+A Airalo—marca **Moshi Moshi** aqui—é o maior nome do mercado e vende a maior variedade de faixas Japão, fixas e ilimitadas, na SoftBank e KDDI (au), com desempenho urbano estável. Seu ponto fraco é o preço: faixas fixas custam mais do dobro das da Roami para a mesma franquia, e a pontuação Trustpilot 3.9 aponta para suporte lento.
 
-**P9: O ilimitado da Holafly eSIM Japão vale a pena?**
+**P9: O ilimitado do eSIM Japão Holafly vale a pena?**
 
-Depende da duração e do uso. A Holafly Japão oferece apenas ilimitado a $3.90/dia. Utilizadores intensivos a curto prazo podem considerá-la, mas Roami 7 dias ilimitado com desconto a $15.19 (diário $2.17) é 44% mais barato que Holafly.
+Depende da duração e uso. O eSIM Japão Holafly oferece apenas ilimitado a $3.97/dia. Usuários pesados de curto prazo podem considerá-lo, mas o ilimitado de 7 dias da Roami com desconto a $15.19 (diário $2.17) é 45% mais barato que a Holafly.
 
-**P10: A Roami eSIM Japão tem boa relação custo-benefício?**
+**P10: O eSIM Japão Roami tem bom custo-benefício?**
 
-Sim. A Roami Japão oferece níveis fixos e ilimitados, comutação multi-rede automática (Docomo/au/SoftBank) e os preços com desconto mais baixos globalmente—7 dias 10GB $7.99 é 53% mais barato que Airalo; 30 dias 50GB $30.39 é 74% mais barato que Holafly.
+Altamente. O eSIM Japão Roami oferece tanto faixas fixas quanto ilimitadas, troca automática multirrede (Docomo/au/SoftBank), e os menores preços com desconto em geral—7 dias 10GB $7.99 é 53% mais barato que a Airalo; 30 dias 50GB $30.39 é 59% mais barato que a Holafly.
 
-**P11: Uma eSIM Japão pode partilhar hotspot?**
+**P11: Um eSIM do Japão pode compartilhar hotspot?**
 
-Varia por marca. A Roami suporta hotspot ilimitado; a Airalo suporta hotspot; a Holafly limita o hotspot a 1GB/dia. Para viagens em família/grupo, dê prioridade à Roami.
+Depende da marca. A Roami deixa você compartilhar sem limite, a Airalo permite tethering, e a Holafly mantém o compartilhamento em 1GB/dia. Viajando em família ou com um tablet na bolsa? A Roami é a escolha.
 
-**P12: Uma eSIM Japão pode ser usada na Coreia do Sul / Taiwan?**
+**P12: Um eSIM do Japão pode ser usado na Coreia do Sul / Taiwan?**
 
-Geralmente não. As eSIM Japão normalmente cobrem apenas o território doméstico do Japão; Coreia do Sul, Taiwan, Hong Kong, etc., requerem eSIM específicas de cada país ou planos regionais da Ásia. Verifique a cobertura antes de partir.
+Normalmente não. eSIMs do Japão geralmente cobrem apenas o território doméstico do Japão; Coreia do Sul, Taiwan, Hong Kong, etc., exigem eSIMs de país separados ou planos regionais da Ásia. Verifique a cobertura antes de ir.
 
 **P13: SIM local do Japão vs eSIM—qual é melhor?**
 
-Depende das necessidades. As SIM locais (B-Mobile, IIJmio, etc.) são baratas, mas exigem compra no local + registo de passaporte + rede única. A eSIM funciona à chegada, comutação multi-rede automática, instalação antes da partida. Os turistas de curta duração preferem a eSIM pela conveniência; as longas estadias preferem a SIM local para poupar.
+Depende do que você precisa. Um cartão local (B-Mobile, IIJmio e similares) é barato, mas significa comprar no local, registro de passaporte e uma rede bloqueada. Um eSIM de viagem instala em casa e está ativo na chegada com troca multirrede. Visitas curtas favorecem o eSIM; estadias longas buscando o menor preço podem favorecer um cartão local.
 
-**P14: Quanto custa uma eSIM Japão por dia?**
+**P14: Quanto custa um eSIM do Japão por dia?**
 
-Usando os preços com desconto da Roami: 7 dias 10GB ~$1.14/dia, 15 dias 20GB ~$0.96/dia, 30 dias 50GB ~$1.01/dia. Isto é mais de dois terços mais barato que os $3.90/dia da Holafly e os $3.5-7/dia do pocket WiFi.
+Nas taxas com desconto da Roami: cerca de $1.14/dia nos 7 dias 10GB, $0.96/dia nos 15 dias 20GB e $1.01/dia nos 30 dias 50GB—cerca de um terço do que a Holafly cobra a $3.97/dia, e muito abaixo dos $3,5–7/dia que um pocket WiFi aluga.
 
-**P15: Quanto tempo dura 1GB no Japão?**
+**P15: Quanto dura 1GB no Japão?**
 
-Cerca de 20 horas de digitalização de menus no Google Tradutor + navegação Google Maps, mas apenas cerca de 1 hora de vídeos curtos. Utilizadores mínimos (tradução + navegação por texto) podem esticar 1GB por 3-5 dias; se traduzir e ver vídeos diariamente, comece com 10GB.
+Cerca de 20 horas de Google Translate apontado em cardápios mais navegação Google Maps—e cerca de uma hora de vídeo curto. Se você só traduz e manda mensagem, 1GB pode durar 3–5 dias; se você traduz e transmite todo dia, comece em 10GB.
 
-**P16: O que fazer se a minha eSIM Japão não tiver sinal?**
+**P16: E se meu eSIM do Japão não tiver sinal?**
 
-Primeiro, verifique se o "Roaming de dados" está ativado; reinicie o telefone; vá a "Seleção de rede" e escolha manualmente Docomo, au ou SoftBank. O sinal no Japão é geralmente excelente—um reinício geralmente resolve. Para muito poucos trilhos florestais, descarregue mapas offline.
+Comece com o interruptor de Roaming de Dados, reinicie, depois escolha Docomo, au ou SoftBank manualmente em "Seleção de Rede". A cobertura japonesa é excelente, então uma reinicialização geralmente resolve; apenas em algumas trilhas de floresta você vai querer um mapa offline.
 
-**P17: Quantos dados para uma curta viagem Tóquio + Quioto?**
+**P17: Quantos dados para uma viagem curta Tóquio + Quioto?**
 
-Para uma viagem de 7 dias a duas cidades com ida e volta no Shinkansen, Google Tradutor menus + Mapas transferências + fotos, 5-10GB são suficientes. Roami 7 dias 10GB com desconto a $7.99 é o melhor valor—mais de metade do preço do pocket WiFi.
+Para uma viagem de 7 dias em duas cidades com ida e volta de Shinkansen, cardápios Google Translate + baldeações Maps + fotos, 5-10GB é suficiente. Os 7 dias 10GB da Roami com desconto a $7.99 são o melhor valor—mais da metade do preço do pocket WiFi.
 
 ## eSIM Japão: Recomendação Final
 
-| Cenário | Marca Recomendada | Plano Recomendado | Custo (com Desconto) | Motivo Principal |
+| Cenário | Marca Recomendada | Plano Recomendado | Custo (Com Desconto) | Razão Central |
 |------|---------|---------|-------------|---------|
-| Fim de semana de 3 dias em Tóquio | Roami | 3GB/3 dias | $2.39 | 5G com sinal máximo no metro, nível fixo mais barato |
-| 5 dias em profundidade em Tóquio | Roami | 5GB/7 dias | $4.79 | Comutação multi-rede, 70% mais barato que pocket WiFi |
-| Viagem de 6 dias ao Kansai | Roami | 10GB/7 dias | $7.99 | A digitalização de menus no Google Tradutor consome mais dados |
-| Shinkansen multi-cidade 8 dias | Roami | 20GB/7 dias | $13.59 | 5G com sinal máximo nos vagões, veja vídeos em streaming |
-| Monte Fuji Hakone 4 dias | Roami | 5GB/7 dias | $4.79 | Comuta automaticamente para Docomo, mais estável nos Cinco Lagos |
-| Hokkaido 7 dias | Roami | 10GB/7 dias | $7.99 | Excelente 5G urbana, muitos carregamentos de fotos |
-| Viagem em família 7 dias | Roami | 20GB/7 dias | $13.59 | Hotspot ilimitado, partilhe uma eSIM para toda a família |
-| Streaming de vídeo intensivo 7 dias | Roami | Ilimitado/7 dias | $15.19 | Apenas $1.60 mais que 20GB—opte pelo ilimitado sem hesitar |
-| Longa estadia 30 dias | Roami | 50GB/30 dias | $30.39 | $0.61/GB, melhor solução para um mês |
-| Orçamento mais rigoroso 7 dias | Roami | 1GB/7 dias | $1.59 | Preço mais baixo globalmente, suficiente para traduzir + texto |
+| Fim de semana Tóquio 3 dias | Roami | 3GB/3 dias | $2.39 | 5G de barra cheia no metrô, faixa fixa mais barata |
+| Tóquio 5 dias aprofundado | Roami | 5GB/7 dias | $4.79 | Troca multirrede, 70% mais barato que pocket WiFi |
+| Viagem Kansai 6 dias | Roami | 10GB/7 dias | $7.99 | Escaneamento de cardápio Google Translate consome mais dados |
+| Shinkansen multi-cidades 8 dias | Roami | 20GB/7 dias | $13.59 | 5G de barra cheia nas composições, transmita vídeos pelo caminho |
+| Monte Fuji Hakone 4 dias | Roami | 5GB/7 dias | $4.79 | Troca automática para Docomo, mais estável ao redor dos Cinco Lagos de Fuji |
+| Hokkaido 7 dias | Roami | 10GB/7 dias | $7.99 | Excelente 5G urbano, muitos uploads de fotos |
+| Viagem de família 7 dias | Roami | 20GB/7 dias | $13.59 | Hotspot ilimitado, compartilhe um eSIM para a família toda |
+| Transmissão pesada de vídeo 7 dias | Roami | Ilimitado/7 dias | $15.19 | Apenas $1.60 a mais que 20GB—vá ilimitado sem hesitar |
+| Estadia longa 30 dias | Roami | 50GB/30 dias | $30.39 | $0.61/GB, melhor solução de mês inteiro |
+| Orçamento mais rigoroso 7 dias | Roami | 1GB/7 dias | $1.59 | Menor preço geral, suficiente para traduzir + texto |
 
-Ainda indeciso? [Veja todos os planos Roami eSIM Japão →](/japan-esim/)
+Ainda não tem certeza? [Veja todos os planos de eSIM Japão Roami →](/japan-esim/)
 
-## Tirar o Máximo Partido da Sua eSIM Japão
+## Aproveitando ao Máximo Seu eSIM Japão
 
-- **Instale antes da partida, use à chegada**: Instale com WiFi antes da partida; ative o Roaming de Dados ao aterrar e ligue-se imediatamente—comece a pedir comida com o Google Tradutor no primeiro minuto.
-- **Lembre-se de ativar o "Roaming de dados"**: A falha de ativação mais comum—muitos utilizadores esquecem-se deste interruptor.
-- **Instale primeiro o Google Tradutor e os Mapas**: Estas são as suas aplicações de salvação no Japão. Instale e inicie sessão antes da partida para que estejam prontas à chegada.
-- **Não alugue pocket WiFi**: Um dispositivo que precisa de carregamento, recolha/entrega e depósito—custando 3-4× o preço da eSIM—pura despesa de inércia.
-- **Descarregue pacotes de tradução offline + mapas offline**: Antes da partida, descarregue o pacote de tradução offline japonês e os mapas offline dos seus destinos como backup em casos extremos.
-- **Mantenha a SIM doméstica para códigos de verificação**: Os códigos de verificação bancários e de cartões de crédito chegam ao seu número doméstico—não precisa de comprar um número local japonês para isso.
-- **Escolha a marca certa para partilha de hotspot**: Para viagens em família/grupo, escolha Roami (ilimitado) ou Airalo (suportado); evite Holafly (limite de 1GB/dia).
-- **Guarde uma captura de ecrã do seu código QR**: Armazene o código QR na sua galeria de fotos ou na nuvem, caso perca o email e precise de reinstalar.
+- **Configure em casa, ligue no exterior**: instale no seu próprio WiFi, depois acione o Roaming de Dados após pousar—você pode estar pedindo almoço pelo Google Translate em um minuto.
+- **Roaming de Dados é o culpado usual**: se o perfil parece morto, este interruptor é quase sempre o porquê.
+- **Carregue Translate e Maps antes de ir**: eles são os dois apps que o Japão roda. Instale e faça login em casa para estarem prontos no portão.
+- **Deixe o pocket WiFi para trás**: uma caixa que precisa de carga, coleta, devolução e depósito, a três ou quatro vezes o preço, é puro hábito.
+- **Baixe pacotes offline como seguro**: pegue o pacote de tradução offline do japonês e os mapas para suas cidades—proteção barata para trilhas de floresta e túneis.
+- **Mantenha seu SIM doméstico para códigos**: textos de verificação de banco e cartão ainda chegam no seu número doméstico, então você nunca precisa de um japonês para isso.
+- **Pense em hotspot antes de comprar**: grupos se saem melhor com Roami (sem limite) ou Airalo (tethering permitido); o limite de 1GB/dia da Holafly frustrará uma família.
+- **Fotografe o QR code**: uma cópia no seu álbum ou nuvem significa que um e-mail perdido nunca o deixa na mão.
+
+## Combinando Seu eSIM Japão Com uma Segunda Parada
+
+Uma viagem ao Japão frequentemente se combina com um segundo destino. Veja o que muda de país para país:
+
+- Se o Reino Unido vier a seguir, verifique [as regras de eSIM do Reino Unido pós-Brexit](/blog/airalo-uk-esim-guide/).
+- Continuando para a Ásia? Leia [o roteamento de eSIM da China para apps internacionais](/blog/airalo-china-esim-guide/).
+- Para uma etapa europeia, nosso [guia de eSIM da Espanha](/blog/airalo-spain-esim-guide/) compara os planos lado a lado.
 
 ## Referências e Fontes
 
-| Organização | Propósito | Ligação |
+| Organização | Finalidade | Link |
 |------|------|------|
-| MIC  | Regulamentação de telecomunicações do Japão / política de registo | https://www.soumu.go.jp/ |
-| Opensignal | Cobertura 5G do Japão / experiência móvel | https://www.opensignal.com/ |
-| Ookla Speedtest | Velocidade das redes móveis do Japão | https://www.speedtest.net/global-index/japan |
-| GSMA | Normas da indústria eSIM | https://www.gsma.com/ |
+| MIC | Regulação de telecomunicações do Japão / política de registro | [soumu.go.jp/english](https://www.soumu.go.jp/english/) |
+| Ookla Speedtest | Velocidade de rede móvel do Japão | [Speedtest Global Index – Japan](https://www.speedtest.net/global-index/japan) |
+| GSMA | Padrões da indústria eSIM | [Especificação eSIM GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| Apple | Suporte de dispositivo eSIM | [Suporte eSIM Apple](https://support.apple.com/en-us/109317) |
 
-*Dados de preços em setembro de 2026; consulte o site oficial de cada marca para atualizações em tempo real. Este artigo é apenas para fins informativos e não constitui aconselhamento de compra.*
+*Dados de preços a partir de setembro de 2026; consulte o site oficial de cada marca para atualizações em tempo real. Este artigo é para fins informativos e não constitui aconselhamento de compra.*

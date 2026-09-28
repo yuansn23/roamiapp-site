@@ -1,53 +1,53 @@
 ---
-title: "Como ativar seu eSIM da Turquia: guia passo a passo"
-description: "Ativação passo a passo do Turkey eSIM: instale o código QR, configure o APN, corrija erros de falta de internet e obtenha ajuda humana 24/7 da Roami."
-keywords: ["how to activate turkey esim", "turkey esim activation", "turkey esim qr code", "turkey esim apn settings", "turkey esim not working", "turkey esim setup", "turkey esim troubleshooting"]
-date: 2026-09-22T00:00:00Z
-lastmod: 2026-09-22T00:00:00Z
+title: "Como Ativar Seu eSIM da Turquia Sem Problemas"
+description: "Ativação de eSIM da Turquia passo a passo: instale o código QR, configure seu APN, corrija erros de falta de internet e receba ajuda humana 24/7 da Roami."
+keywords: ["como ativar esim turquia", "ativação esim turquia", "esim turquia código qr", "configurações apn esim turquia", "esim turquia não funciona", "configurar esim turquia", "solução de problemas esim turquia"]
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
-authorBio: "A Roami oferece planos eSIM confiáveis, atendendo mais de 1 milhão de viajantes anualmente, e suporta troca automática de rede local para ajudar os viajantes a permanecerem conectados globalmente."
+authorBio: "A Roami oferece planos de eSIM confiáveis, atendendo mais de 1 milhão de viajantes por ano, e suporta a troca automática de rede local para ajudar os viajantes a ficarem conectados no mundo todo."
 image: "/img/esim/turkey/how-turkey-esim-works-activation.jpg"
-categories: ["eSIM", "Viagens", "Turquia"]
+categories: ["eSIM", "Travel", "Turkey"]
 tags: ["Turkey eSIM"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Como Ativar um Turkey eSIM: Código QR, APN e Correções"
+h1title: "Como Ativar um eSIM da Turquia: QR Code, APN e Soluções"
 
-productsTitle: "Planos eSIM Populares"
-hotPostsTitle: "Artigos Populares"
-recentPostsTitle: "Artigos Recentes"
+productsTitle: "Planos de eSIM Populares"
+hotPostsTitle: "Artigos em Destaque"
+recentPostsTitle: "Postagens Recentes"
 
 products:
-  - name: "Spain eSIM"
+  - name: "eSIM Espanha"
     flag: "/img/flags/es.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: true
     slug: "spain"
-  - name: "Portugal eSIM"
+  - name: "eSIM Portugal"
     flag: "/img/flags/pt.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "portugal"
-  - name: "France eSIM"
+  - name: "eSIM França"
     flag: "/img/flags/fr.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "france"
-  - name: "Italy eSIM"
+  - name: "eSIM Itália"
     flag: "/img/flags/it.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "italy"
-  - name: "UK eSIM"
+  - name: "eSIM Reino Unido"
     flag: "/img/flags/gb.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "uk"
-  - name: "Netherlands eSIM"
+  - name: "eSIM Holanda"
     flag: "/img/flags/nl.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "netherlands"
 
@@ -55,131 +55,135 @@ recentPosts:
   - title: "Lista de Dispositivos Compatíveis com eSIM"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "Transferência de eSIM Entre Plataformas 2026"
+  - title: "Transferência de eSIM entre Plataformas em 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Não Funciona? 12 Correções para iPhone"
+  - title: "eSIM Duplo Não Funciona? 12 Soluções para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Guia de Compatibilidade do iPhone SE com eSIM"
+  - title: "Guia de Compatibilidade de eSIM do iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Guia Completo de Configuração do eSIM no iPhone 11"
+  - title: "Guia Completo de Configuração de eSIM do iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-## Ativação do Turkey eSIM: Código QR, APN e Solução de Problemas
 
-A maioria dos Turkey eSIM 'quebrados' não está quebrada de forma alguma — eles simplesmente nunca foram ativados corretamente. Este guia orienta você na instalação, ativação e correção do seu eSIM para que você fique online sem esperar pelo suporte.
 
-## Em Resumo
+A maioria dos eSIMs da Turquia que "não funcionam" na verdade não estão quebrados — eles simplesmente nunca foram ativados corretamente, e na Turquia você não pode contar com o aplicativo do provedor para corrigir um erro depois de pousar. O bloqueio da BTK remove a rede de segurança habitual, então se o seu eSIM aparece sem conexão porque o roaming de dados está desativado, o campo APN está em branco ou a linha errada está gerenciando os dados, você precisa saber a solução de cor. Este guia aborda a instalação no Wi-Fi antes da partida, a ativação somente na chegada, a configuração de SIM duplo, as configurações de APN, os conflitos de pacote da operadora, os códigos de erro e a árvore de decisão de "barras de sinal sem internet", para que você consiga se recuperar sozinho sem esperar pelo suporte.
 
-- Instale seu eSIM em casa no Wi-Fi e espere até pousar para ativá-lo.
-- Instalação e ativação são etapas separadas, então a maioria dos eSIM 'quebrados' está na verdade apenas adormecida.
-- Se você vir barras de sinal, mas sem internet, verifique a linha de dados, o roaming e o APN nessa ordem.
-- Como o bloqueio BTK pode cortar aplicativos de provedores após o pouso, aprenda essas correções de memória antes de viajar.
+## Ativação de eSIM na Turquia: QR Code, APN e Solução de Problemas
 
-## O Que Este Guia de Ativação Resolve
+A maioria dos eSIMs da Turquia "quebrados" na verdade não estão quebrados — eles apenas nunca foram ativados corretamente. Este guia orienta você na instalação, ativação e correção do seu eSIM para que você fique online sem esperar pelo suporte.
 
-Este guia resolve a camada de execução técnica: como instalar, ativar e solucionar problemas de um Turkey eSIM quando você não consegue abrir o aplicativo do seu provedor após o pouso. O bloqueio BTK significa que você não pode confiar no aplicativo do provedor para corrigir um erro de configuração após a chegada. Se o eSIM não conectar porque o roaming está desligado, o APN está em branco ou a linha de dados errada está selecionada, você precisa saber a correção de memória.
+## Ativação de eSIM na Turquia em Resumo
 
-Esta página fornece a distinção entre instalar e ativar, instalação por código QR e manual, configuração de dual SIM, configurações de APN, correções de conflito de carrier bundle, referência de códigos de erro, a árvore de decisão de barras de sinal sem internet, comportamento de registro de rede e recuperação por reinstalação. Não cobre [compatibilidade de dispositivo](/blog/turkey-esim-device-compatibility/), seleção de provedor, preços, reembolsos ou [regras BTK](/blog/turkey-esim-ban-availability-rules/). Esses são abordados nos artigos aprofundados vinculados.
+- Instale seu eSIM em casa no Wi-Fi e espere pousar para ativá-lo.
+- Instalação e ativação são etapas separadas, então a maioria dos eSIMs "quebrados" na verdade está apenas inativa.
+- Se você vê barras de sinal mas sem internet, verifique a linha de dados, o roaming e o APN, nessa ordem.
+- Como o bloqueio da BTK pode cortar o acesso aos aplicativos dos provedores depois de pousar, aprenda estas soluções de cor antes de viajar.
 
-A versão curta: instale em casa no Wi-Fi, mantenha o roaming de dados desligado até o pouso, ative habilitando o roaming e corrija a maioria das falhas verificando a linha de dados, a configuração de roaming e o APN.
+## O Que Este Guia de Ativação de eSIM na Turquia Resolve
 
-## Instalar vs Ativar: Qual é a Diferença?
+Este guia resolve a camada de execução técnica: como instalar, ativar e solucionar problemas de um eSIM da Turquia quando você não consegue abrir o aplicativo do provedor depois de pousar. O bloqueio da BTK significa que você não pode contar com o aplicativo do provedor para corrigir um erro de configuração após a chegada. Se o eSIM não conecta porque o roaming está desativado, o APN está em branco ou a linha de dados errada está selecionada, você precisa saber a solução de cor.
 
-Instalação e ativação são duas etapas separadas. A instalação baixa o perfil para o chip eUICC do seu telefone. A ativação registra esse perfil em uma rede móvel turca. Confundir os dois é o motivo mais comum pelo qual os viajantes pensam que seu eSIM está quebrado quando ele está simplesmente adormecido.
+Esta página traz a distinção entre instalar e ativar, instalação por QR code e manual, configuração de SIM duplo, configurações de APN, correções de conflitos de pacote da operadora, referência de códigos de erro, a árvore de decisão de barras de sinal sem internet, o comportamento de registro na rede e a recuperação por reinstalação. Ela não cobre [compatibilidade de dispositivos](/blog/turkey-esim-device-compatibility/), seleção de provedores, preços, reembolsos ou [regras da BTK](/blog/turkey-esim-ban-availability-rules/). Esses temas são abordados nos artigos detalhados vinculados.
 
-### O Que a Instalação do Turkey eSIM Faz
+Em resumo: instale em casa no Wi-Fi, mantenha o roaming de dados desativado até pousar, ative habilitando o roaming e resolva a maioria das falhas verificando a linha de dados, a configuração de roaming e o APN.
 
-A instalação baixa um perfil do servidor SM-DP+ do seu provedor para o chip eUICC dentro do seu telefone. Após a instalação, o eSIM aparece nas Configurações como uma linha secundária. Ele tem um ICCID e um valor de APN.
+## Instalar vs. Ativar um eSIM na Turquia: Qual é a Diferença?
 
-A instalação não conecta o eSIM a nenhuma rede. Um eSIM instalado com roaming de dados desligado permanece inerte.
+Instalação e ativação são duas etapas separadas. A instalação baixa o perfil para o chip eUICC do seu telefone. A ativação registra esse perfil em uma rede móvel turca. Confundir as duas é a razão mais comum pela qual os viajantes acham que seu eSIM está quebrado quando ele está simplesmente inativo.
 
-### O Que a Ativação do Turkey eSIM Faz
+### O Que a Instalação do eSIM na Turquia Faz
 
-A ativação é o momento em que o perfil se registra em uma rede móvel turca. Isso acontece quando você habilita o roaming de dados para a linha eSIM após chegar à Turquia. O telefone procura uma operadora parceira — Turkcell, Vodafone Turkey ou Türk Telekom — e estabelece uma sessão de dados.
+A instalação baixa um perfil do servidor SM-DP+ do seu provedor para o chip eUICC dentro do seu telefone. Após a instalação, o eSIM aparece nos Ajustes como uma linha secundária. Ele tem um ICCID e um valor de APN.
 
-O registro geralmente leva de 2 a 5 minutos. O nome da operadora então aparece na barra de status e os dados fluem.
+A instalação não conecta o eSIM a nenhuma rede. Um eSIM instalado com o roaming de dados desativado permanece inerte.
 
-### Tabela de Sequência de Ativação Segura do Turkey eSIM
+### O Que a Ativação do eSIM na Turquia Faz
+
+A ativação é o momento em que o perfil é registrado em uma rede móvel turca. Isso acontece quando você habilita o roaming de dados para a linha do eSIM após chegar à Turquia. O telefone procura uma operadora parceira — Turkcell, Vodafone Turkey ou Türk Telekom — e estabelece uma sessão de dados.
+
+O registro geralmente leva de 2 a 5 minutos. O nome da operadora então aparece na barra de status e os dados começam a fluir.
+
+### Tabela da Sequência Segura de Ativação do eSIM na Turquia
 
 | Etapa | Quando | Onde | O que fazer |
 |---|---|---|---|
-| Instalar | Antes da partida | Wi-Fi de casa | Escaneie o código QR, rotule a linha como "Turkey" |
-| Configurar | Antes da partida | Casa | SIM local para Voz e SMS, Turkey eSIM para Dados Móveis |
-| Manter roaming desligado | Até o pouso | — | Não habilite o roaming de dados |
-| Ativar | Após o pouso | Aeroporto turco | Habilite o roaming de dados para o Turkey eSIM |
-| Verificar | Após a ativação | Aeroporto | Abra um mapa ou navegador |
+| Instalar | Antes da partida | Wi-Fi de casa | Escanear o código QR, nomear a linha "Turquia" |
+| Configurar | Antes da partida | Em casa | SIM local para Voz e SMS, eSIM da Turquia para Dados Móveis |
+| Manter roaming desativado | Até pousar | — | Não habilitar o roaming de dados |
+| Ativar | Depois de pousar | Aeroporto na Turquia | Habilitar o roaming de dados para o eSIM da Turquia |
+| Verificar | Depois da ativação | Aeroporto | Abrir um mapa ou navegador |
 
-### Por Que o Momento da Ativação do Turkey eSIM Importa
+### Por Que o Momento da Ativação do eSIM na Turquia é Importante
 
-Se você habilitar o roaming de dados em casa, o eSIM pode se conectar a uma rede parceira no seu país de origem e consumir seus dados da Turquia antes de embarcar. Alguns provedores impedem isso. Outros não. Mantenha o roaming desligado até o pouso.
+Se você habilitar o roaming de dados em casa, o eSIM pode se conectar a uma rede parceira no seu país de origem e consumir seus dados da Turquia antes de você embarcar. Alguns provedores impedem isso. Outros não. Mantenha o roaming desativado até pousar.
 
-## Verificações Pré-Instalação
+## Verificações Prévias à Instalação do eSIM na Turquia
 
-Execute estas verificações antes de comprar ou instalar qualquer Turkey eSIM. Elas previnem as falhas de ativação mais comuns: sem EID, bloqueio de operadora, sem slot eSIM livre e Wi-Fi instável durante a instalação.
+Execute estas verificações antes de comprar ou instalar qualquer eSIM da Turquia. Elas evitam as falhas de ativação mais comuns: ausência de EID, bloqueio de operadora, ausência de slot de eSIM livre e Wi-Fi instável durante a instalação.
 
-### EID Presente para Instalação do Turkey eSIM
+### Verifique Primeiro o EID
 
-**iPhone:** Ajustes → Geral → Sobre → role até "EID". Se você vir um número de 32 dígitos, seu dispositivo suporta eSIM.
+**iPhone:** Ajustes → Geral → Sobre → role até "EID". Se você vir um número de 32 dígitos, seu dispositivo é compatível com eSIM.
 
-**Android:** Configurações → Sobre o telefone → Informações de status → "EID". Alguns fabricantes colocam em Configurações → Rede e Internet → SIMs.
+**Android:** Configurações → Sobre o Telefone → Informações de Status → "EID". Alguns fabricantes o colocam em Configurações → Rede e Internet → SIMs.
 
-### Operadora Desbloqueada para Instalação do Turkey eSIM
+### Confirme que o Telefone Está Desbloqueado
 
-**iPhone:** Ajustes → Geral → Sobre → "Bloqueio de Operadora". Deve dizer "Sem restrições de SIM".
+**iPhone:** Ajustes → Geral → Sobre → "Bloqueio da Operadora". Deve constar "Sem restrições de SIM".
 
-**Android:** Configurações → Sobre o telefone → Bloqueio de SIM, ou insira um SIM que não seja da operadora e veja se o dispositivo aceita.
+**Android:** Configurações → Sobre o Telefone → Bloqueio de SIM, ou insira um SIM de outra operadora e veja se o dispositivo o aceita.
 
-### Slot eSIM Livre para Perfis Turkey eSIM
+### Certifique-se de Ter um Slot Livre
 
-A maioria dos telefones suporta um ou dois perfis eSIM ativos. Se você já tem um eSIM ativo, pode precisar desativar uma linha para adicionar outra.
+A maioria dos telefones suporta um ou dois perfis de eSIM ativos. Se você já tem um eSIM ativo, pode ser necessário desativar uma linha para adicionar outra.
 
-**iPhone 13 e mais recentes:** Dois eSIMs ativos suportados.
+**iPhone 13 ou mais recente:** Dois eSIMs ativos suportados.
 
 **iPhone XS até iPhone 12:** Um eSIM mais um SIM físico.
 
 **A maioria dos telefones Android:** Um eSIM mais um SIM físico.
 
-### Wi-Fi Estável e Código QR Offline para Turkey eSIM
+### Wi-Fi Estável e um QR Code Offline
 
-A instalação requer uma conexão de internet estável. Use o Wi-Fi de casa, não um hotspot móvel ou Wi-Fi público com portal cativo. Salve o e-mail ou PDF do código QR offline antes de começar. Se a instalação falhar e você precisar tentar novamente, você não quer depender do acesso ao e-mail.
+A instalação exige uma conexão estável com a internet. Use o Wi-Fi de casa, não um hotspot móvel ou Wi-Fi público com portal cativo. Salve o e-mail ou PDF do código QR offline antes de começar. Se a instalação falhar e você precisar tentar novamente, você não vai querer depender do acesso ao e-mail.
 
-### Lista de Verificação Pré-Instalação do Turkey eSIM
+### Checklist Pré-Instalação do eSIM na Turquia
 
 - [ ] EID presente
-- [ ] Operadora desbloqueada
-- [ ] Slot eSIM livre disponível
+- [ ] Desbloqueado da operadora
+- [ ] Slot de eSIM livre disponível
 - [ ] Conexão Wi-Fi estável
 - [ ] Código QR salvo offline
 - [ ] Valor do APN salvo offline
 - [ ] Telefone carregado acima de 50%
 
-Para o fluxo completo de compatibilidade de dispositivo, leia o [guia de verificação de EID e bloqueio de operadora](/blog/turkey-esim-device-compatibility/).
+Para o fluxo completo de compatibilidade de dispositivos, leia o [guia de verificação de EID e bloqueio de operadora](/blog/turkey-esim-device-compatibility/). Não sabe se seu aparelho se qualifica? A [lista de compatibilidade de dispositivos](/compatibility/) resolve isso em segundos.
 
-## Instalação por Código QR
+## Instalação de eSIM na Turquia por Código QR
 
-A instalação por código QR é a maneira mais rápida de adicionar um Turkey eSIM. O telefone contata o servidor SM-DP+ do provedor e baixa o perfil para o chip eUICC. O processo leva cerca de 60 segundos em Wi-Fi estável.
+A instalação por código QR é a forma mais rápida de adicionar um eSIM da Turquia. O telefone contata o servidor SM-DP+ do provedor e baixa o perfil para o chip eUICC. O processo leva cerca de 60 segundos em um Wi-Fi estável.
 
-### Instalação por QR no iPhone para Turkey eSIM
+### Instalação por QR no iPhone
 
-1. Abra **Ajustes**.
+1. Abra os **Ajustes**.
 2. Toque em **Dados Móveis** ou **Celular**.
 3. Toque em **Adicionar Plano de Dados** ou **Adicionar eSIM**.
 4. Selecione **Usar Código QR**.
 5. Escaneie o código QR do e-mail do seu provedor.
 6. O telefone contata o servidor SM-DP+ e baixa o perfil.
 7. Toque em **Adicionar** para instalar.
-8. Rotule a linha como "Turkey".
-9. Defina-a como a linha **Dados Móveis** padrão.
+8. Nomeie a linha como "Turquia".
+9. Defina-a como linha padrão de **Dados Móveis**.
 10. Não habilite o roaming de dados ainda.
 
-### Instalação por QR no Android para Turkey eSIM
+### Instalação por QR no Android
 
-1. Abra **Configurações**.
-2. Toque em **Rede e Internet** → **SIMs**. No Samsung: **Conexões** → **Gerenciador do Cartão SIM**.
+1. Abra as **Configurações**.
+2. Toque em **Rede e Internet** → **SIMs**. Na Samsung: **Conexões** → **Gerenciador de Cartão SIM**.
 3. Toque em **Adicionar eSIM** ou **Baixar SIM**.
 4. Selecione **Usar Código QR**.
 5. Escaneie o código QR.
@@ -188,39 +192,39 @@ A instalação por código QR é a maneira mais rápida de adicionar um Turkey e
 8. Selecione o eSIM para **Dados Móveis**.
 9. Não habilite o roaming de dados ainda.
 
-### O Que Você Deve Ver Após a Instalação do Turkey eSIM
+### O Que Você Deve Ver Após a Instalação do eSIM na Turquia
 
 - Um indicador de progresso enquanto o perfil é baixado.
-- Uma tela de confirmação com o nome da operadora e detalhes do plano.
-- O eSIM aparecendo nas Configurações como uma linha secundária.
+- Uma tela de confirmação com o nome da operadora e os detalhes do plano.
+- O eSIM aparecendo nos Ajustes como uma linha secundária.
 - O ICCID visível nos detalhes do eSIM.
-- O campo APN possivelmente preenchido.
+- O campo APN possivelmente pré-preenchido.
 
-### O Que Você Não Deve Ver Após a Instalação do Turkey eSIM
+### O Que Você Não Deve Ver Após a Instalação do eSIM na Turquia
 
 - "Operadora não suportada."
 - "eSIM não suportado."
-- Uma tela em branco ou indicador de progresso congelado.
-- "Já usado" ou "expirado."
+- Uma tela em branco ou um indicador de progresso congelado.
+- "Já utilizado" ou "expirado".
 
-### Limites de QR de Uso Único para Turkey eSIM
+### Limites de Uso Único do QR Code para eSIM na Turquia
 
-O código QR é uma credencial de uso único. Uma vez que um perfil é baixado para o EID de um dispositivo, o mesmo código QR não pode instalar o perfil em outro dispositivo. Se você vir "já usado" ou "expirado", entre em contato com seu provedor para uma substituição. Não faça uma redefinição de fábrica no telefone como primeira solução. Uma redefinição de fábrica não ajuda e apaga suas configurações.
+O código QR é uma credencial de uso único. Depois que um perfil é baixado para o EID de um dispositivo, o mesmo código QR não pode instalar o perfil em outro dispositivo. Se você vir "já utilizado" ou "expirado", contate seu provedor para uma reposição. Não restaure o telefone de fábrica como primeira solução. A restauração de fábrica não ajuda e apaga suas configurações.
 
-## Instalação Manual e Entrada SM-DP+
+## Instalação Manual de eSIM na Turquia e Inserção do SM-DP+
 
-A instalação manual é o recurso quando o código QR não escaneia ou a câmera não está disponível. Você precisa do endereço SM-DP+ e do código de ativação da confirmação do pedido do seu provedor.
+A instalação manual é o plano B quando o código QR não escaneia ou a câmera está indisponível. Você precisa do endereço SM-DP+ e do código de ativação da confirmação do pedido do seu provedor.
 
-### Instalação Manual no iPhone para Turkey eSIM
+### Instalação Manual no iPhone
 
 1. Abra **Ajustes** → **Dados Móveis**.
 2. Toque em **Adicionar eSIM**.
 3. Toque em **Inserir Detalhes Manualmente**.
-4. Insira o **Endereço SM-DP+** e o **Código de Ativação** do seu provedor.
+4. Insira o **Endereço SM-DP+** e o **Código de Ativação** fornecidos pelo seu provedor.
 5. Toque em **Avançar** e confirme.
-6. Rotule a linha como "Turkey" e defina para Dados Móveis.
+6. Nomeie a linha como "Turquia" e defina-a para Dados Móveis.
 
-### Instalação Manual no Android para Turkey eSIM
+### Instalação Manual no Android
 
 1. Abra **Configurações** → **Rede e Internet** → **SIMs**.
 2. Toque em **Adicionar eSIM**.
@@ -229,244 +233,246 @@ A instalação manual é o recurso quando o código QR não escaneia ou a câmer
 5. Confirme e instale.
 6. Habilite a linha e selecione-a para Dados Móveis.
 
-### SM-DP+ e Código de Ativação para Turkey eSIM
+### Onde Encontrar o Endereço SM-DP+
 
-O endereço SM-DP+ é o servidor que contém seu perfil eSIM. O código de ativação é um token de uso único que autoriza o download. Ambos estão vinculados ao seu pedido e ao EID do seu dispositivo.
+O endereço SM-DP+ é o servidor que armazena seu perfil de eSIM. O código de ativação é um token de uso único que autoriza o download. Ambos estão vinculados ao seu pedido e ao EID do seu dispositivo.
 
-Se o e-mail do provedor não mostrar o endereço SM-DP+, verifique a confirmação do pedido ou a página de suporte. A [especificação GSMA SGP.22 eSIM](https://www.gsma.com/esim/) define como esse provisionamento funciona.
+Se o e-mail do provedor não mostrar o endereço SM-DP+, verifique a confirmação do pedido ou a página de suporte. A [especificação de eSIM GSMA SGP.22](https://www.gsma.com/esim/) define como esse provisionamento funciona.
 
-### Formato do Código QR para Turkey eSIM
+### Formato do Código QR para eSIM na Turquia
 
-Um código QR eSIM compatível com GSMA contém uma string como esta:
+Um código QR de eSIM compatível com a GSMA contém uma string como esta:
 
 `LPA:1$sm-dp-plus.example.com$ACTIVATION-CODE`
 
-- **LPA** — Local Profile Assistant, o componente de software que gerencia perfis eSIM.
+- **LPA** — Local Profile Assistant, o componente de software que gerencia os perfis de eSIM.
 - **1** — número da versão.
 - **Endereço SM-DP+** — endereço do servidor.
 - **Código de ativação** — token de uso único.
 
 Se você escanear um código QR que não segue este formato, a instalação falhará.
 
-### Códigos de Erro de Instalação Manual para Turkey eSIM
+### Códigos de Erro da Instalação Manual para eSIM na Turquia
 
-| Erro | Causa | Correção |
+| Erro | Causa | Solução |
 |---|---|---|
 | "Código de ativação inválido" | Código errado ou expirado | Verifique a confirmação do pedido |
 | "Servidor inacessível" | Problema de Wi-Fi ou SM-DP+ fora do ar | Tente novamente em outro Wi-Fi |
-| "Perfil já instalado" | Código QR usado antes | Entre em contato com o provedor |
-| "EID não reconhecido" | Dispositivo errado ou incompatibilidade de EID | Verifique o EID nas Configurações |
+| "Perfil já instalado" | QR code usado anteriormente | Contate o provedor |
+| "EID não reconhecido" | Dispositivo errado ou EID incompatível | Verifique o EID nos Ajustes |
 
-## Configuração de Dual SIM
+## Configuração de SIM Duplo
 
-A configuração de dual SIM é onde a maioria das falhas pós-pouso se origina. O Turkey eSIM deve ser a linha de dados. O SIM local deve lidar com Voz e SMS. A troca de dados móveis deve estar desabilitada.
+A configuração de SIM duplo é onde a maioria das falhas pousagem tem origem. O eSIM da Turquia deve ser a linha de dados. O SIM local deve gerenciar Voz e SMS. A troca de dados móveis deve estar desativada.
 
-### Dual SIM no iPhone para Turkey eSIM
+### SIM Duplo no iPhone para eSIM na Turquia
 
 1. Abra **Ajustes** → **Dados Móveis**.
-2. Em **Dados Celulares**, selecione o **Turkey eSIM**.
-3. Em **Linha de Voz Padrão**, selecione seu **SIM local**.
-4. Desligue **roaming de dados** para o SIM local.
-5. Ligue **roaming de dados** para o Turkey eSIM após o pouso.
-6. Desligue **"Permitir Troca de Dados Móveis"**.
+2. Em **Dados Celulares**, selecione o **eSIM da Turquia**.
+3. Em **Linha Padrão de Voz**, selecione seu **SIM local**.
+4. Desative o roaming de dados para o SIM local.
+5. Ative o roaming de dados para o eSIM da Turquia após pousar.
+6. Desative "Permitir Troca de Dados Móveis".
 
-### Dual SIM no Android para Turkey eSIM
+### SIM Duplo no Android para eSIM na Turquia
 
-**Samsung:** Configurações → Conexões → Gerenciador do Cartão SIM. Selecione o Turkey eSIM para **Dados Móveis**. Selecione o SIM local para **Chamadas** e **Mensagens de Texto**. Desligue o roaming no SIM local e ligue no eSIM.
+**Samsung:** Configurações → Conexões → Gerenciador de Cartão SIM. Selecione o eSIM da Turquia para **Dados Móveis**. Selecione o SIM local para **Chamadas** e **Mensagens de Texto**. Desative o roaming no SIM local e ative no eSIM.
 
-**Google Pixel:** Configurações → Rede e Internet → SIMs. Toque no Turkey eSIM e habilite **Dados Móveis**. Toque no SIM local e desabilite **Dados Móveis** e **Roaming**. Veja [suporte eSIM do Google Pixel](https://support.google.com/pixelphone/answer/10280747) para etapas específicas do modelo.
+**Google Pixel:** Configurações → Rede e Internet → SIMs. Toque no eSIM da Turquia e habilite **Dados Móveis**. Toque no SIM local e desative **Dados Móveis** e **Roaming**. Consulte a [central de ajuda do Google Pixel](https://support.google.com/pixelphone) para etapas específicas de cada modelo.
 
-### Três Erros Custosos de Dual SIM com Turkey eSIM
+### Três Erros Caros de SIM Duplo com eSIM na Turquia
 
-**Deixar Dados Móveis no SIM local.** Sua operadora local cobra tarifas de roaming por cada megabyte. Confirme que o Turkey eSIM é a linha de dados.
+**Deixar os Dados Móveis no SIM local.** Sua operadora local cobra tarifas de roaming por cada megabyte. Confirme que o eSIM da Turquia é a linha de dados.
 
-**Esquecer o roaming no eSIM.** Um eSIM de viagem opera como um perfil de roaming. Sem o roaming habilitado, ele não se conectará a uma rede turca.
+**Esquecer o roaming no eSIM.** Um eSIM de viagem funciona como um perfil em roaming. Sem o roaming habilitado, ele não conectará a uma rede turca.
 
-**Habilitar "Permitir Troca de Dados Móveis".** Isso permite que o telefone mude para a linha com melhor sinal. Na Turquia, isso pode rotear dados pelo seu SIM local e acionar cobranças de roaming.
+**Ativar "Permitir Troca de Dados Móveis".** Isso permite que o telefone mude para a linha com melhor sinal. Na Turquia, isso pode rotear os dados pelo seu SIM local e gerar cobranças de roaming.
 
-### Matriz de Dual SIM do Turkey eSIM
+### Matriz de SIM Duplo para eSIM na Turquia
 
-| Configuração | SIM Local | Turkey eSIM |
+| Configuração | SIM local | eSIM da Turquia |
 |---|---|---|
-| Dados Móveis | DESLIGADO | LIGADO |
-| Roaming de Dados | DESLIGADO | LIGADO após o pouso |
-| Voz e SMS | LIGADO | DESLIGADO |
-| Permitir Troca de Dados Móveis | DESLIGADO | DESLIGADO |
-| Chamadas Wi-Fi | Opcional | N/A |
+| Dados Móveis | DESATIVADO | ATIVADO |
+| Roaming de Dados | DESATIVADO | ATIVADO após pousar |
+| Voz e SMS | ATIVADO | DESATIVADO |
+| Permitir Troca de Dados Móveis | DESATIVADO | DESATIVADO |
+| Chamadas por Wi-Fi | Opcional | N/D |
 
-## Por Que os Dados Precisam de uma Configuração de APN?
+## Por Que um eSIM Precisa de uma Configuração de APN?
 
-O APN é a causa mais comum de "barras de sinal, mas sem internet" em um Turkey eSIM. Sem o APN correto, o telefone pode se registrar na rede e mostrar barras cheias, mas os dados não fluirão. O valor do APN depende do seu provedor de eSIM, não da operadora turca local.
+O APN é a causa mais comum de "barras de sinal mas sem internet" em um eSIM da Turquia. Sem o APN correto, o telefone pode se registrar na rede e mostrar barras completas, mas os dados não fluirão. O valor do APN depende do seu provedor de eSIM, não da operadora turca local.
 
-### O Que o APN Faz pelo Turkey eSIM
+### O Que o APN Realmente Faz
 
-O APN informa ao seu telefone qual gateway usar para dados móveis. Sem um APN correto, o telefone pode se registrar na rede e mostrar barras de sinal, mas os dados não fluirão. Esta é a causa mais comum de "barras de sinal, mas sem internet".
+O APN informa ao seu telefone qual gateway usar para os dados móveis. Sem um APN correto, o telefone pode se registrar na rede e mostrar barras de sinal, mas os dados não fluirão. Esta é a causa mais comum de "barras de sinal mas sem internet".
 
-### Quando Verificar o APN no Turkey eSIM
+### Quando Verificar o APN no eSIM da Turquia
 
 Verifique o APN se:
 
 - O telefone mostra barras de sinal e um nome de operadora
-- O indicador LTE ou 5G está visível
+- O indicador de LTE ou 5G está visível
 - Sites e aplicativos não carregam
-- Reiniciar e alternar o Modo Avião não corrigiu
+- Reiniciar e alternar o Modo Avião não resolveu
 
-Se não houver barras de sinal, o problema é o registro de rede, não o APN. Tente a seleção manual de rede primeiro.
+Se não há barras de sinal nenhuma, o problema é o registro na rede, não o APN. Tente primeiro a seleção manual de rede.
 
-### Configuração de APN no iPhone para Turkey eSIM
+### Configuração de APN no iPhone
 
 1. Abra **Ajustes** → **Dados Móveis**.
-2. Selecione o **Turkey eSIM**.
-3. Toque em **Rede de Dados Móveis**. Se este menu não estiver visível, o APN é gerenciado automaticamente pelo carrier bundle.
+2. Selecione o **eSIM da Turquia**.
+3. Toque em **Rede de Dados Móveis**. Se este menu não estiver visível, o APN é gerenciado automaticamente pelo pacote da operadora.
 4. Insira o valor do APN da confirmação do seu pedido.
-5. Confirme que o Turkey eSIM está selecionado como a linha de dados.
+5. Confirme que o eSIM da Turquia está selecionado como linha de dados.
 6. Habilite o Roaming de Dados para o eSIM.
 7. Alterne o Modo Avião para ligado e desligado.
 
-### Configuração de APN no Android para Turkey eSIM
+### Configuração de APN no Android
 
 1. Abra **Configurações** → **Rede e Internet** → **SIMs**.
-2. Selecione o **Turkey eSIM**.
+2. Selecione o **eSIM da Turquia**.
 3. Abra **Nomes de Pontos de Acesso**.
-4. Toque em **adicionar** ou **mais**.
+4. Toque em **adicionar** ou no sinal de **mais**.
 5. Insira um nome e o valor do APN do seu provedor.
-6. Deixe o nome de usuário e a senha em branco, salve e selecione o perfil.
-7. Habilite dados móveis e roaming de dados para o eSIM.
+6. Deixe usuário e senha em branco, salve e selecione o perfil.
+7. Habilite os dados móveis e o roaming de dados para o eSIM.
 8. Alterne o Modo Avião.
 
-### Valores de APN por Provedor de Turkey eSIM
+### Valores de APN por Provedor de eSIM na Turquia
 
-| Provedor | Valor do APN | Notas |
+| Provedor | Valor do APN | Observações |
 |---|---|---|
-| NoveSIM | data.esim | APN do provedor de viagem |
+| NoveSIM | data.esim | APN de provedor de viagem |
 | Airalo | airalo | Verifique a confirmação do pedido |
 | Holafly | holafly | Verifique a confirmação do pedido |
 | Nomad | nomad | Verifique a confirmação do pedido |
 | Saily | saily | Verifique a confirmação do pedido |
 | Roami | roam | Verifique a confirmação do pedido |
-| Local Turkcell | internet | APN da operadora local |
-| Local Vodafone | internet | APN da operadora local |
-| Local Türk Telekom | internet | APN da operadora local |
+| Turkcell local | internet | APN de operadora local |
+| Vodafone local | internet | APN de operadora local |
+| Türk Telekom local | internet | APN de operadora local |
 
-### Campos do APN Explicados para Turkey eSIM
+### Campos do APN Explicados para eSIM na Turquia
 
 | Campo | O que faz | Valor típico |
 |---|---|---|
-| Nome | Rótulo para o perfil APN | "Turkey eSIM" |
+| Nome | Rótulo do perfil de APN | "eSIM Turquia" |
 | APN | Endereço do gateway | Específico do provedor |
-| Nome de usuário | Nome de usuário de autenticação | Geralmente em branco |
+| Nome de usuário | Usuário de autenticação | Geralmente em branco |
 | Senha | Senha de autenticação | Geralmente em branco |
 | MCC | Código de País Móvel | 286 (Turquia) |
 | MNC | Código de Rede Móvel | Varia por operadora |
 | Tipo de APN | Tipo de tráfego | default,supl |
-| Protocolo APN | Versão de IP | IPv4/IPv6 |
+| Protocolo de APN | Versão do IP | IPv4/IPv6 |
 
-### Conflitos de Carrier Bundle no Turkey eSIM
+### Conflitos de Pacote da Operadora no eSIM da Turquia
 
-Um carrier bundle contém configurações de APN, configurações de MMS e outras configurações de rede. Problemas acontecem quando o bundle está desatualizado, ausente ou entra em conflito com as configurações do provedor de eSIM.
+Um pacote de operadora (carrier bundle) contém configurações de APN, configurações de MMS e outras configurações de rede. Os problemas acontecem quando o pacote está desatualizado, ausente ou conflita com as configurações do provedor de eSIM.
 
 Sintomas:
 
-- Campo APN em branco e não pode ser editado
-- Dados funcionam em algumas redes, mas não em outras
-- Configurações de MMS estão erradas
-- Nome da operadora exibido incorretamente
+- O campo APN está em branco e não pode ser editado
+- Os dados funcionam em algumas redes, mas não em outras
+- As configurações de MMS estão erradas
+- O nome da operadora aparece incorretamente
 
-Correções:
+Soluções:
 
 1. Reinicie o telefone.
 2. Alterne o Modo Avião.
-3. Atualize o iOS ou Android.
-4. Remova e reinstale o perfil eSIM.
-5. Entre em contato com o provedor para uma atualização do carrier bundle.
+3. Atualize o iOS ou o Android.
+4. Remova e reinstale o perfil do eSIM.
+5. Contate o provedor para uma atualização do pacote da operadora.
 
-## Resumo Rápido
+Dois hábitos evitam a maioria dos chamados de suporte posteriores. Faça uma captura de tela do EID e do IMEI antes de voar, para que uma solicitação de reemissão nunca dependa do Wi-Fi do aeroporto, e teste o compartilhamento de internet (tethering) uma vez em casa — alguns planos contam as conexões compartilhadas dentro do mesmo limite de dados, e descobrir isso no hotel é o momento errado.
 
-Você agora cobriu instalar versus ativar, as verificações pré-instalação, instalação por QR e manual, dual SIM e configuração de APN. O padrão é que a maioria das falhas são problemas de configuração, não defeitos de hardware. Em seguida, trabalhamos na árvore de decisão de barras de sinal sem internet e nos códigos de erro.
+## Resumo Rápido: Ativando Antes de Voar
 
-## Barras de Sinal, mas Sem Internet
+Você já viu a diferença entre instalar e ativar, as verificações pré-instalação, a instalação por QR e manual, o SIM duplo e a configuração de APN. O padrão é que a maioria das falhas são problemas de configuração, não defeitos de hardware. A seguir, abordamos a árvore de decisão de barras de sinal sem internet e os códigos de erro.
 
-Siga estas etapas em ordem. A maioria das falhas de conexão do Turkey eSIM é resolvida na Etapa 1, Etapa 2 ou Etapa 3. Se nenhuma dessas etapas funcionar, o problema provavelmente é uma falha de provisionamento que requer intervenção do provedor.
+## eSIM na Turquia: Barras de Sinal, mas Sem Internet
 
-### Etapa 1: Confirme a Linha de Dados do Turkey eSIM
+Siga estas etapas em ordem. A maioria das falhas de conexão de eSIM na Turquia se resolve na Etapa 1, Etapa 2 ou Etapa 3. Se nenhuma dessas etapas funcionar, o problema provavelmente é uma falha de provisionamento que exige intervenção do provedor.
 
-Abra Configurações → Dados Móveis. Confirme que o Turkey eSIM está selecionado como a linha de dados. Essa única mudança resolve a maioria dos problemas de conexão.
+### Etapa 1: Confirme a Linha de Dados do eSIM da Turquia
 
-### Etapa 2: Confirme o Roaming para o Turkey eSIM
+Abra Ajustes → Dados Móveis. Confirme que o eSIM da Turquia está selecionado como linha de dados. Essa única alteração resolve a maioria dos problemas de conexão.
 
-Abra Configurações → Dados Móveis → Turkey eSIM → Opções de Dados Móveis. Confirme que o Roaming de Dados está LIGADO para a linha eSIM.
+### Etapa 2: Confirme que o Roaming Está Ativado
 
-### Etapa 3: Alterne o Modo Avião para o Turkey eSIM
+Abra Ajustes → Dados Móveis → eSIM da Turquia → Opções de Dados Móveis. Confirme que o Roaming de Dados está ATIVADO para a linha do eSIM.
 
-Ligue o Modo Avião por 10 segundos e depois desligue. Isso força o telefone a cancelar o registro e se registrar novamente na rede.
+### Etapa 3: Alterne o Modo Avião para o eSIM da Turquia
 
-### Etapa 4: Reinicie o Telefone com o Turkey eSIM
+Ative o Modo Avião por 10 segundos e desative em seguida. Isso força o telefone a desregistrar e registrar novamente na rede.
 
-Um desligamento completo e reinicialização corrigem a maioria dos problemas de registro de rede. Após o pouso, o telefone pode estar mantendo um estado de rede anterior.
+### Etapa 4: Reinicie o Telefone com o eSIM da Turquia
 
-### Etapa 5: Seleção Manual de Rede para Turkey eSIM
+Um desligamento completo e reinicialização resolve a maioria dos problemas de registro na rede. Após pousar, o telefone pode estar mantendo um estado de rede anterior.
 
-**iPhone:** Ajustes → Dados Móveis → eSIM → Seleção de Rede → desligue Automático → escolha Turkcell, Vodafone TR ou Türk Telekom.
+### Etapa 5: Tente a Seleção Manual de Rede
 
-**Android:** Configurações → Rede → SIMs → eSIM → Operadoras de Rede → Pesquisar manualmente.
+**iPhone:** Ajustes → Dados Móveis → eSIM → Seleção de Rede → desative o Automático → escolha Turkcell, Vodafone TR ou Türk Telekom.
 
-Tente cada rede. Turkcell tem a cobertura nacional mais forte. Vodafone pode ter melhor desempenho em áreas costeiras específicas. Veja a [comparação Turkcell vs Vodafone vs Türk Telekom](/blog/turkcell-vodafone-turk-telekom-esim/).
+**Android:** Configurações → Rede → SIMs → eSIM → Operadoras de Rede → Buscar manualmente.
 
-### Etapa 6: Verifique o APN para o Turkey eSIM
+Teste cada rede. A Turkcell tem a melhor cobertura nacional. A Vodafone pode ter melhor desempenho em áreas costeiras específicas. Veja a [comparação Turkcell vs Vodafone vs Türk Telekom](/blog/turkcell-vodafone-turk-telekom-esim/).
 
-Se as barras de sinal e o registro de rede estiverem bons, mas os dados não fluírem, verifique o APN em relação ao e-mail do provedor.
+### Etapa 6: Verifique o APN do eSIM da Turquia
 
-### Etapa 7: Verifique o Carrier Bundle para o Turkey eSIM
+Se as barras de sinal e o registro na rede estão normais, mas os dados não fluem, verifique o APN contra o e-mail do provedor.
 
-Se o campo APN estiver em branco e você não puder editá-lo, o carrier bundle pode estar ausente ou desatualizado. Reinicie, alterne o Modo Avião, remova e reinstale o perfil, ou entre em contato com o provedor.
+### Etapa 7: Verifique o Pacote da Operadora do eSIM da Turquia
 
-### Etapa 8: Entre em Contato com o Suporte para Turkey eSIM
+Se o campo APN está em branco e você não consegue editá-lo, o pacote da operadora pode estar ausente ou desatualizado. Reinicie, alterne o Modo Avião, remova e reinstale o perfil, ou contate o provedor.
 
-Se nada funcionar, entre em contato com o suporte com seu ICCID e número do pedido. O ICCID é o número de 19 a 20 dígitos no perfil eSIM. Um [eSIM para a Turquia](/turkey-esim/) com suporte humano 24/7 que funciona via Wi-Fi dá a você uma pessoa real para contatar se as etapas de autoatendimento falharem.
+### Etapa 8: Contate o Suporte para o eSIM da Turquia
 
-### Tabela de Sintoma para Causa do Turkey eSIM
+Se nada funcionar, contate o suporte com seu ICCID e número do pedido. O ICCID é o número de 19–20 dígitos do perfil do eSIM. Um [eSIM para a Turquia](/turkey-esim/) com suporte humano 24/7 que funciona via Wi-Fi oferece uma pessoa real para contatar se as etapas de autoatendimento falharem.
 
-| Sintoma | Causa provável | Correção |
+### Tabela de Sintoma-Causa do eSIM na Turquia
+
+| Sintoma | Causa provável | Solução |
 |---|---|---|
-| Barras, mas sem dados | Linha de dados errada | Selecione Turkey eSIM para Dados Móveis |
-| Barras, mas sem dados | Roaming desligado | Habilite Roaming de Dados para o eSIM |
+| Barras, mas sem dados | Linha de dados errada | Selecione o eSIM da Turquia para Dados Móveis |
+| Barras, mas sem dados | Roaming desativado | Habilite o Roaming de Dados para o eSIM |
 | Barras, mas sem dados | APN em branco ou incorreto | Insira o APN correto |
-| Barras, mas sem dados | Carrier bundle ausente | Reinicie, reinstale o perfil |
-| Sem serviço ou SOS | Falha no registro de rede | Reinicie, seleção manual de rede |
-| SIM local usando dados | Troca de dados habilitada | Desabilite Permitir Troca de Dados Móveis |
-| Velocidade lenta após uso | Limitação da Política de Uso Justo | Aceite ou mude para plano de dados fixos |
-| Dados funcionam e depois param | Registro de rede caiu | Reinicie, seleção manual de rede |
+| Barras, mas sem dados | Pacote da operadora ausente | Reinicie, reinstale o perfil |
+| Sem serviço ou SOS | Falha no registro na rede | Reinicie, seleção manual de rede |
+| SIM local consumindo dados | Troca de dados habilitada | Desative Permitir Troca de Dados Móveis |
+| Velocidade lenta após uso | Limitação da Política de Uso Justo | Aceite ou mude para um plano de dados fixos |
+| Dados funcionam e param | Registro na rede perdido | Reinicie, seleção manual de rede |
 | Dados funcionam apenas no Wi-Fi | Problema de APN | Verifique as configurações de APN |
 
-### Referência de Códigos de Erro do Turkey eSIM
+### Referência de Códigos de Erro do eSIM na Turquia
 
-| Erro | Significado | Correção |
+| Erro | Significado | Solução |
 |---|---|---|
-| "Operadora não suportada" | Telefone bloqueado por operadora | Desbloqueie com a operadora |
-| "eSIM não suportado" | Sem hardware eUICC | Use um dispositivo diferente |
-| "Código QR já usado" | QR de uso único consumido | Solicite um novo código QR |
+| "Operadora não suportada" | Telefone bloqueado pela operadora | Desbloqueie com a operadora |
+| "eSIM não suportado" | Sem hardware eUICC | Use outro dispositivo |
+| "Código QR já utilizado" | QR de uso único já consumido | Solicite um novo código QR |
 | "Não foi possível conectar ao servidor" | Problema de Wi-Fi durante a instalação | Reconecte a um Wi-Fi estável |
 | "Perfil não encontrado" | Endereço SM-DP+ errado | Verifique a confirmação do pedido |
 | "Falha na instalação" | Download interrompido | Reinicie o telefone, tente novamente |
-| "Sem EID" | Hardware ausente | Use SIM físico ou pocket Wi-Fi |
-| "Erro de conexão TLS" | Bloqueio BTK ou backend fora do ar | Use dados normalmente, contate por e-mail |
+| "Sem EID" | Hardware ausente | Use SIM físico ou Wi-Fi portátil |
+| "Erro de conexão TLS" | Bloqueio da BTK ou backend fora do ar | Use os dados normalmente, contate por e-mail |
 | "Código de ativação inválido" | Código expirado ou errado | Solicite um novo código |
-| "Falha no registro de rede" | Problema de operadora ou lacuna de cobertura | Seleção manual de rede |
+| "Falha no registro na rede" | Problema da operadora ou lacuna de cobertura | Seleção manual de rede |
 
-## Registro de Rede
+## Registro na Rede do eSIM
 
-O registro de rede é separado da configuração de APN. O telefone deve primeiro se registrar em uma operadora turca antes que qualquer sessão de dados possa começar. A seleção automática geralmente funciona, mas a seleção manual é a correção quando não funciona.
+O registro na rede é separado da configuração de APN. O telefone deve primeiro se registrar em uma operadora turca antes que qualquer sessão de dados possa começar. A seleção automática geralmente funciona, mas a seleção manual é a solução quando ela não funciona.
 
-### Como o Telefone Seleciona uma Rede Turkey eSIM
+### Como o Telefone Seleciona uma Rede para o eSIM na Turquia
 
 Quando você habilita o roaming de dados, o telefone procura redes disponíveis e tenta se registrar. A seleção segue esta prioridade:
 
-1. Redes preferenciais do carrier bundle
-2. Força do sinal
-3. Tecnologia de rede
+1. Redes preferenciais do pacote da operadora
+2. Intensidade do sinal
+3. Tecnologia da rede
 4. Acordos de roaming
 
-### Por Que a Seleção Automática do Turkey eSIM Falha
+### Por Que a Seleção Automática do eSIM na Turquia Falha
 
 A seleção automática pode falhar quando:
 
@@ -474,17 +480,17 @@ A seleção automática pode falhar quando:
 - O sinal está fraco
 - O acordo de roaming não está configurado corretamente
 - O telefone está mantendo um estado de rede anterior
-- O HLR/HSS da operadora está lento para responder
+- O HLR/HSS da operadora demora a responder
 
-### Qual Rede Turkey eSIM Escolher
+### Qual Rede Escolher para o eSIM na Turquia
 
-| Rede | Melhor para | Notas |
+| Rede | Melhor para | Observações |
 |---|---|---|
-| Turkcell | Rural, leste da Turquia, Capadócia | Velocidade mediana mais rápida |
+| Turkcell | Áreas rurais, leste da Turquia, Capadócia | Maior velocidade mediana |
 | Vodafone TR | Resorts costeiros, Istambul | Forte suporte em inglês |
-| Türk Telekom | Cidades, viagens econômicas | A maioria dos eSIMs de viagem usa esta |
+| Türk Telekom | Cidades, viagens econômicas | Mais usada por eSIMs de viagem |
 
-### Tempos de Registro do Turkey eSIM
+### Tempos de Registro do eSIM na Turquia
 
 | Cenário | Tempo típico |
 |---|---|
@@ -492,195 +498,197 @@ A seleção automática pode falhar quando:
 | Re-registro após reinicialização | 1–3 minutos |
 | Seleção manual de rede | 1–2 minutos |
 | Negociação de acordo de roaming | Até 15 minutos |
-| Congestionamento de rede | Até 30 minutos |
+| Congestionamento da rede | Até 30 minutos |
 
-Para dados de velocidade em nível de rede, veja o [relatório de experiência de rede móvel OpenSignal Turkey](https://www.opensignal.com/reports/turkey).
+Para dados de velocidade em nível de rede, veja as [medições de rede independentes da Opensignal](https://www.opensignal.com/).
 
 ## Você Deve Reinstalar Seu eSIM?
 
-A reinstalação é o último recurso antes de comprar um SIM local. É necessária quando o perfil está corrompido, o carrier bundle está quebrado ou o eSIM para de funcionar após uma atualização do telefone. O código QR original é de uso único, então você precisa de um novo código QR ou de um processo de transferência do provedor.
+A reinstalação é o último recurso antes de comprar um SIM local. Ela é necessária quando o perfil está corrompido, o pacote da operadora está quebrado ou o eSIM para de funcionar após uma atualização do telefone. O QR code original é de uso único, então você precisa de um novo QR code ou de um processo de transferência do provedor.
 
-### Quando Reinstalar o Turkey eSIM
+### Quando Reinstalar o eSIM da Turquia
 
-Você pode precisar reinstalar o perfil eSIM se:
+Você pode precisar reinstalar o perfil do eSIM se:
 
 - O perfil foi excluído acidentalmente
-- O carrier bundle está corrompido
+- O pacote da operadora está corrompido
 - As configurações de APN não podem ser editadas
 - O eSIM para de funcionar após uma atualização do telefone
 
-### Excluir e Reinstalar o Turkey eSIM
+### Excluir e Reinstalar o eSIM da Turquia
 
 **iPhone:**
 1. Ajustes → Dados Móveis.
-2. Toque no Turkey eSIM.
+2. Toque no eSIM da Turquia.
 3. Toque em "Remover Plano Celular".
 4. Confirme.
 5. Instale o novo código QR.
 
 **Android:**
 1. Configurações → Rede e Internet → SIMs.
-2. Toque no Turkey eSIM.
+2. Toque no eSIM da Turquia.
 3. Toque em "Excluir" ou "Remover".
 4. Confirme.
 5. Instale o novo código QR.
 
-### Se Você Não Conseguir um Novo Código QR do Turkey eSIM
+### Se Você Não Conseguir um Novo QR Code de eSIM da Turquia
 
-Se seu provedor estiver bloqueado pela BTK e você não puder acessar o site deles, você não poderá solicitar um novo código QR de dentro da Turquia. Opções:
+Se seu provedor está bloqueado pela BTK e você não consegue acessar o site dele, você não pode solicitar um novo QR code de dentro da Turquia. Opções:
 
-1. Espere até sair da Turquia e acesse o site do provedor.
+1. Espere sair da Turquia e acesse o site do provedor.
 2. Use uma VPN para acessar o site do provedor.
 3. Compre um SIM turco local.
-4. Compre um eSIM de um provedor não bloqueado como a Klook.
+4. Compre um eSIM de um provedor não bloqueado, como o Klook.
 
-Para o contexto regulatório completo por trás dessa limitação, leia as [regras de proibição e disponibilidade da BTK](/blog/turkey-esim-ban-availability-rules/).
+Para o contexto regulatório completo por trás desta limitação, leia as [regras de bloqueio da BTK e disponibilidade](/blog/turkey-esim-ban-availability-rules/).
 
-## Solução de Problemas Avançada de Ativação
+## Solução de Problemas Avançada de Ativação do eSIM na Turquia
 
-A solução de problemas avançada cobre as falhas que sobrevivem à árvore de decisão básica. Cada cenário mapeia para uma causa específica e uma correção específica.
+A solução de problemas avançada cobre as falhas que sobrevivem à árvore de decisão básica. Cada cenário corresponde a uma causa específica e a uma solução específica.
 
-### Turkey eSIM Conecta, mas Nenhum Dado Flui
+### eSIM da Turquia Conecta, mas os Dados Não Fluem
 
-Causas: APN em branco ou incorreto, roaming desligado, linha de dados errada, carrier bundle ausente, sessão de dados não estabelecida.
+Causas: APN em branco ou incorreto, roaming desativado, linha de dados errada, pacote da operadora ausente, sessão de dados não estabelecida.
 
-Correções: Verifique o APN, habilite o roaming, selecione o Turkey eSIM como linha de dados, reinicie, seleção manual de rede, entre em contato com o suporte.
+Soluções: Verifique o APN, habilite o roaming, selecione o eSIM da Turquia como linha de dados, reinicie, seleção manual de rede, contate o suporte.
 
-### A Velocidade do Turkey eSIM Está Muito Lenta
+### eSIM da Turquia Muito Lento
 
-Causas: Limitação da Política de Uso Justo, congestionamento de rede, sinal fraco, rede errada.
+Causas: Limitação da Política de Uso Justo, congestionamento da rede, sinal fraco, rede errada.
 
-Correções: Verifique o limite de FUP, seleção manual de rede, mova para um sinal mais forte, mude para plano de dados fixos. Para cálculos de tamanho de plano, leia a [matemática de tamanho de plano](/blog/cheapest-turkey-esim/).
+Soluções: Verifique o limite da FUP, seleção manual de rede, mude para um sinal mais forte, mude para um plano de dados fixos. Para o cálculo do dimensionamento do plano, leia o [cálculo de dimensionamento do plano](/blog/cheapest-turkey-esim/).
 
-### Turkey eSIM Funciona e Depois Para
+### eSIM da Turquia Funciona e Depois Para
 
-Causas: Registro de rede caiu, limitação de FUP, telefone mudou para o SIM local, conflito de carrier bundle.
+Causas: Registro na rede perdido, limitação da FUP, telefone mudou para o SIM local, conflito do pacote da operadora.
 
-Correções: Reinicie, verifique a linha de dados, verifique a FUP, seleção manual de rede, reinstale se necessário.
+Soluções: Reinicie, verifique a linha de dados, verifique a FUP, seleção manual de rede, reinstale se necessário.
 
-### Turkey eSIM Não Instala
+### eSIM da Turquia Não Instala
 
-Causas: Telefone bloqueado por operadora, sem hardware eUICC, problema de Wi-Fi, código QR usado, SM-DP+ fora do ar.
+Causas: Telefone bloqueado pela operadora, sem hardware eUICC, problema de Wi-Fi, QR code usado, SM-DP+ fora do ar.
 
-Correções: Verifique o bloqueio de operadora, verifique o EID, tente outro Wi-Fi, solicite um novo QR, entre em contato com o suporte.
+Soluções: Verifique o bloqueio da operadora, verifique o EID, tente outro Wi-Fi, solicite um novo QR, contate o suporte.
 
-### Turkey eSIM Instala, mas Não Está Visível
+### eSIM da Turquia Instala, mas Não Aparece
 
-Causas: Instalação incompleta, telefone precisa reiniciar, eSIM desabilitado.
+Causas: Instalação incompleta, telefone precisa reiniciar, eSIM desativado.
 
-Correções: Reinicie o telefone, verifique Configurações → Dados Móveis, verifique SIMs, reinstale.
+Soluções: Reinicie o telefone, verifique Ajustes → Dados Móveis, verifique os SIMs, reinstale.
 
 ## Exemplo Real: Daniel, Primeira Viagem no Aeroporto de Istambul
 
-Daniel pousou no IST com seu eSIM ainda adormecido porque havia deixado o roaming de dados desligado. Em vez de reinstalar, ele habilitou o roaming, reiniciou o telefone e teve sinal em dois minutos — a ordem de correção salvou sua viagem.
+Daniel pousou no IST com seu eSIM ainda inativo porque havia deixado o roaming de dados desativado. Em vez de reinstalar, ele ativou o roaming, reiniciou o telefone e teve sinal em dois minutos — a ordem das soluções salvou sua viagem.
 
-## Qual Cenário de Configuração Corresponde a Você
+## Qual Cenário de Configuração de eSIM na Turquia Combinou com Você
 
 | Situação de configuração | Sua ação | Por quê |
 | --- | --- | --- |
-| Vai voar em breve, eSIM já comprado | Instale no Wi-Fi antes de embarcar | Evita o bloqueio após o pouso |
-| Barras de sinal, mas sem internet | Habilite o roaming, depois verifique o APN | Correção mais comum |
-| Instalado, mas ainda sem rede | Tente seleção manual de rede | Um perfil adormecido precisa de um empurrão |
+| Voo em breve, eSIM já comprado | Instale no Wi-Fi antes de embarcar | Evita o bloqueio após o pouso |
+| Barras de sinal, mas sem internet | Ative o roaming e depois verifique o APN | Solução mais comum |
+| Instalado, mas ainda sem rede | Tente a seleção manual de rede | Um perfil inativo precisa de um empurrão |
 
-## FAQ: Ativação, QR e APN
+## FAQ: Ativação, QR e APN do eSIM na Turquia
 
-### Qual é a diferença entre instalar e ativar um Turkey eSIM?
+### Qual é a diferença entre instalar e ativar um eSIM da Turquia?
 
-A instalação baixa o perfil para o seu chip eUICC. A ativação registra esse perfil em uma rede turca. Instale em casa no Wi-Fi. Ative no pouso habilitando o roaming de dados.
+A instalação baixa o perfil para o seu chip eUICC. A ativação registra esse perfil em uma rede turca. Instale em casa no Wi-Fi. Ative ao pousar habilitando o roaming de dados.
 
-### Como instalo um Turkey eSIM no iPhone?
+### Como instalo um eSIM da Turquia no iPhone?
 
-Ajustes → Dados Móveis → Adicionar Plano de Dados, escaneie o código QR, rotule a linha como "Turkey", defina para Dados Móveis, mantenha o roaming desligado até o pouso. Veja a [documentação oficial de suporte eSIM da Apple](https://support.apple.com/en-us/HT209096) para etapas específicas do modelo.
+Ajustes → Dados Móveis → Adicionar Plano de Dados, escaneie o código QR, nomeie a linha como "Turquia", defina para Dados Móveis, mantenha o roaming desativado até pousar. Consulte a [documentação oficial de suporte de eSIM da Apple](https://support.apple.com/en-us/HT209096) para etapas específicas de cada modelo.
 
-### Como instalo um Turkey eSIM no Android?
+### Como instalo um eSIM da Turquia no Android?
 
-Configurações → Rede e Internet → SIMs → Adicionar eSIM, escaneie o código QR, habilite a linha, selecione para Dados Móveis. Habilite o roaming após o pouso.
+Configurações → Rede e Internet → SIMs → Adicionar eSIM, escaneie o código QR, habilite a linha, selecione para Dados Móveis. Habilite o roaming após pousar.
 
-### Por que meu Turkey eSIM mostra barras de sinal, mas sem internet?
+### Por que meu eSIM da Turquia mostra barras de sinal, mas não tem internet?
 
-As três causas mais comuns são linha de dados errada, roaming desligado para o eSIM e APN em branco ou incorreto. Trabalhe na árvore de decisão acima.
+As três causas mais comuns são linha de dados errada, roaming desativado para o eSIM e APN em branco ou incorreto. Siga a árvore de decisão acima.
 
-### Qual APN devo usar para um Turkey eSIM?
+### Qual APN devo usar para um eSIM da Turquia?
 
-O APN depende do seu provedor de eSIM, não da operadora turca local. Verifique seu e-mail de confirmação do pedido. Não presuma que deve usar um APN da Turkcell ou Vodafone.
+O APN depende do seu provedor de eSIM, não da operadora turca local. Verifique o e-mail de confirmação do seu pedido. Não presuma que você deve usar um APN da Turkcell ou Vodafone.
 
-### O código QR diz "já usado" — e agora?
+### O código QR diz "já utilizado" — e agora?
 
-O código QR é de uso único. Entre em contato com seu provedor para uma substituição. Não faça uma redefinição de fábrica no telefone como primeira solução.
+O código QR é de uso único. Contate seu provedor para uma reposição. Não restaure o telefone de fábrica como primeira solução.
 
-### Quanto tempo leva a ativação do Turkey eSIM?
+### Quanto tempo leva a ativação do eSIM na Turquia?
 
-A instalação leva cerca de 60 segundos no Wi-Fi. O registro de rede após o pouso geralmente leva de 2 a 5 minutos.
+A instalação leva cerca de 60 segundos no Wi-Fi. O registro na rede após pousar geralmente leva de 2 a 5 minutos.
 
-### Qual é o endereço SM-DP+ para Turkey eSIM?
+### Qual é o endereço SM-DP+ para o eSIM da Turquia?
 
-O endereço SM-DP+ é o servidor que contém seu perfil eSIM. É um nome de domínio ou endereço IP que seu telefone contata durante a instalação. O código de ativação é um token de uso único.
+O endereço SM-DP+ é o servidor que armazena seu perfil de eSIM. É um nome de domínio ou endereço IP que seu telefone contata durante a instalação. O código de ativação é um token de uso único.
 
-### Posso ativar um Turkey eSIM sem o aplicativo do provedor?
+### Posso ativar um eSIM da Turquia sem o aplicativo do provedor?
 
-Sim. A ativação é feita através das configurações do seu telefone, não do aplicativo do provedor. Habilite o roaming de dados para a linha eSIM e aguarde de 2 a 5 minutos pelo registro de rede.
+Sim. A ativação é feita pelas configurações do seu telefone, não pelo aplicativo do provedor. Habilite o roaming de dados para a linha do eSIM e espere de 2 a 5 minutos pelo registro na rede.
 
-### E se meu Turkey eSIM não conectar após o pouso?
+### E se meu eSIM da Turquia não conectar depois de pousar?
 
-Verifique a linha de dados, habilite o roaming, reinicie, tente seleção manual de rede, verifique o APN. Se nada funcionar, entre em contato com o suporte. Se o provedor estiver bloqueado, use suporte baseado em Wi-Fi. Para o fluxo completo de solução de problemas, leia as [etapas de solução de problemas](/blog/how-turkey-esim-works-activation/).
+Verifique a linha de dados, habilite o roaming, reinicie, tente a seleção manual de rede, verifique o APN. Se nada funcionar, contate o suporte. Se o provedor estiver bloqueado, use o suporte via Wi-Fi.
 
-### Qual rede devo selecionar manualmente para Turkey eSIM?
+### Qual rede devo selecionar manualmente para o eSIM na Turquia?
 
 Turkcell para áreas rurais, Capadócia e leste da Turquia. Vodafone TR para resorts costeiros e Istambul. Türk Telekom para cidades e viagens econômicas.
 
-### Posso reinstalar um Turkey eSIM após excluí-lo?
+### Posso reinstalar um eSIM da Turquia depois de excluí-lo?
 
-Somente se você tiver um novo código QR ou seu provedor suportar transferência de eSIM. O código QR original é de uso único. Se o provedor estiver bloqueado pela BTK, você não poderá solicitar um novo código QR de dentro da Turquia.
+Somente se você tiver um novo código QR ou se seu provedor suportar a transferência de eSIM. O QR code original é de uso único. Se o provedor estiver bloqueado pela BTK, você não pode solicitar um novo QR code de dentro da Turquia.
 
-### A ativação do Turkey eSIM funciona sem um código QR?
+### A ativação do eSIM na Turquia funciona sem código QR?
 
-Sim, se o provedor fornecer um endereço SM-DP+ e código de ativação. A instalação manual é usada quando a câmera do QR não escaneia. Ambos os métodos baixam o mesmo perfil para o mesmo chip eUICC.
+Sim, se o provedor fornecer um endereço SM-DP+ e um código de ativação. A instalação manual é usada quando a câmera não escaneia o QR. Ambos os métodos baixam o mesmo perfil para o mesmo chip eUICC.
 
-## Lista de Verificação Final: Ativação e Solução de Problemas
+## Checklist Final: Ativação e Solução de Problemas do eSIM na Turquia
 
-Use esta lista de verificação final para confirmar sua configuração antes da partida, preparar-se para o pouso e recuperar se algo falhar. O bloqueio BTK torna a instalação antes da partida obrigatória para a maioria dos provedores.
+Use este checklist final para confirmar sua configuração pré-partida, preparar-se para o pouso e se recuperar se algo falhar. O bloqueio da BTK torna a instalação pré-partida obrigatória para a maioria dos provedores.
 
-### Antes da Partida com Turkey eSIM
+### Antes da Partida com o eSIM da Turquia
 
-- [ ] Verifique o EID e o bloqueio de operadora. Veja a [verificação de EID](/blog/turkey-esim-device-compatibility/).
-- [ ] Compre o plano Turkey eSIM. Compare [opções seguras de compra e reembolso](/blog/buy-turkey-esim-online/).
+- [ ] Verifique o EID e o bloqueio da operadora. Veja a [verificação de EID](/blog/turkey-esim-device-compatibility/).
+- [ ] Compre o plano de eSIM da Turquia. Compare [compra segura e opções de reembolso](/blog/buy-turkey-esim-online/).
 - [ ] Salve o código QR offline
 - [ ] Instale o perfil
-- [ ] Rotule a linha como "Turkey"
-- [ ] Defina o Turkey eSIM para Dados Móveis
+- [ ] Nomeie a linha como "Turquia"
+- [ ] Defina o eSIM da Turquia para Dados Móveis
 - [ ] Defina o SIM local para Voz e SMS
-- [ ] Desabilite "Permitir Troca de Dados Móveis"
-- [ ] Mantenha o roaming de dados DESLIGADO para o Turkey eSIM
+- [ ] Desative "Permitir Troca de Dados Móveis"
+- [ ] Mantenha o roaming de dados DESATIVADO para o eSIM da Turquia
 - [ ] Salve o valor do APN
-- [ ] Confirme que o eSIM aparece nas Configurações
-- [ ] Salve ICCID e EID
+- [ ] Confirme que o eSIM aparece nos Ajustes
+- [ ] Salve o ICCID e o EID
 - [ ] Baixe mapas offline
 
-### Após o Pouso com Turkey eSIM
+### Após Pousar com o eSIM da Turquia
 
-- [ ] Habilite o Roaming de Dados para o Turkey eSIM
-- [ ] Aguarde 2–5 minutos para o registro de rede
+- [ ] Habilite o Roaming de Dados para o eSIM da Turquia
+- [ ] Espere de 2 a 5 minutos pelo registro na rede
 - [ ] Verifique o nome da operadora
 - [ ] Teste os dados com um mapa ou navegador
 - [ ] Confirme que o SMS funciona no SIM local
-- [ ] Teste chamada VoIP se necessário
-- [ ] Se não houver dados: verifique a linha de dados, roaming, APN, reinicie, seleção manual de rede
+- [ ] Teste uma chamada VoIP se necessário
+- [ ] Se não houver dados: verifique a linha de dados, o roaming, o APN, reinicie, seleção manual de rede
 
-### Se Algo Der Errado com o Turkey eSIM
+### Se Algo Der Errado com o eSIM da Turquia
 
 - [ ] Verifique a seleção da linha de dados
 - [ ] Verifique as configurações de roaming
-- [ ] Verifique o APN em relação ao e-mail do provedor
+- [ ] Verifique o APN contra o e-mail do provedor
 - [ ] Reinicie o telefone
-- [ ] Tente seleção manual de rede
-- [ ] Verifique o carrier bundle
-- [ ] Entre em contato com o suporte com ICCID e número do pedido
+- [ ] Tente a seleção manual de rede
+- [ ] Verifique o pacote da operadora
+- [ ] Contate o suporte com o ICCID e o número do pedido
 
-Se a configuração de autoatendimento parecer arriscada, [o Turkey eSIM da Roami](/turkey-esim/) instala a partir de um único código QR e apoia você com suporte 24/7 que funciona via Wi-Fi — novos usuários ganham 20% de desconto no plano de entrada de $1.99. Para o panorama completo em uma página, leia a [visão geral do Turkey eSIM](/blog/turkey-esim-ultimate-guide/).
+Compradores prudentes podem [testar um eSIM gratuito primeiro](/free-esim/) e ensaiar toda a instalação no Wi-Fi de casa antes de pagar por um plano. Se a configuração por autoatendimento parecer arriscada, o [eSIM da Turquia da Roami](/turkey-esim/) é instalado a partir de um único código QR e conta com suporte 24/7 que funciona via Wi-Fi — novos usuários têm 20% de desconto no plano inicial de $2.99.
 
-## Conclusão
+Para todo o panorama em uma página, leia a [visão geral do eSIM da Turquia](/blog/turkey-esim-ultimate-guide/).
 
-- Um SIM físico de um balcão de aeroporto pula todo esse processo — se você prefere não mexer nas configurações, essa é uma escolha razoável.
-- Para todos os outros, um eSIM instalado no Wi-Fi antes de sair conecta-se em minutos após o pouso.
-- Lembre-se da ordem de correção — linha de dados, roaming, APN, carrier bundle, depois suporte — e tire capturas de tela do seu código QR e valores de APN.
+## Conclusão: Ativação Sem Surpresas
+
+- Um SIM físico de um balcão do aeroporto pula todo esse processo — se você preferir não mexer nas configurações, é uma escolha razoável.
+- Para todos os outros, um eSIM instalado no Wi-Fi antes de sair conecta em minutos após o pouso.
+- Lembre-se da ordem das soluções — linha de dados, roaming, APN, pacote da operadora e depois o suporte — e faça capturas de tela do seu código QR e dos valores de APN.
 - Trate a reinstalação como último recurso, porque seu código QR pode funcionar apenas uma vez.

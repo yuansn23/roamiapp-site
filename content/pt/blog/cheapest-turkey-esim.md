@@ -1,11 +1,11 @@
 ---
-title: "O eSIM mais barato para a Turquia: seu guia de custos"
-description: "Encontre o eSIM verdadeiramente mais barato para a Turquia com nosso cálculo de preço por GB e auditoria de custos ocultos, depois veja como a Roami mantém os custos de viagem baixos."
-keywords: ["eSIM Turquia mais barato", "eSIM Turquia preço por GB", "ofertas eSIM Turquia", "eSIM Turquia barato", "custo eSIM Turquia", "eSIM Turquia custos ocultos", "desconto eSIM Turquia"]
-date: 2026-09-22T00:00:00Z
-lastmod: 2026-09-22T00:00:00Z
+title: "O eSIM mais Barato para a Turquia: Seu Guia Completo de Custos"
+description: "Encontre o eSIM para a Turquia verdadeiramente mais barato com nossa matemática de preço por GB e auditoria de custos ocultos, e veja como a Roami mantém os custos da viagem baixos."
+keywords: ["esim turquia mais barato", "preco de esim turquia por gb", "ofertas de esim turquia", "esim turquia barato", "custo de esim turquia", "custos ocultos de esim turquia", "desconto de esim turquia"]
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "A Roami oferece planos de eSIM confiáveis, atendendo mais de 1 milhão de viajantes por ano, e suporta troca automática de rede local para ajudar os viajantes a permanecerem conectados globalmente."
 image: "/img/esim/turkey/cheapest-turkey-esim.jpg"
 categories: ["eSIM", "Travel", "Turkey"]
 tags: ["Turkey eSIM"]
@@ -13,198 +13,205 @@ readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Qual É o eSIM Mais Barato para a Turquia? Custos Reais Explicados"
+h1title: "Qual é o eSIM mais Barato para a Turquia? Custos Reais Explicados"
 
-productsTitle: "Popular eSIM Plans"
-hotPostsTitle: "Hot Articles"
-recentPostsTitle: "Recent Posts"
+productsTitle: "Planos de eSIM Populares"
+hotPostsTitle: "Artigos em Alta"
+recentPostsTitle: "Publicações Recentes"
 
 products:
-  - name: "Spain eSIM"
+  - name: "eSIM da Espanha"
     flag: "/img/flags/es.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: true
     slug: "spain"
-  - name: "Portugal eSIM"
+  - name: "eSIM de Portugal"
     flag: "/img/flags/pt.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "portugal"
-  - name: "France eSIM"
+  - name: "eSIM da França"
     flag: "/img/flags/fr.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "france"
-  - name: "Italy eSIM"
+  - name: "eSIM da Itália"
     flag: "/img/flags/it.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "italy"
-  - name: "UK eSIM"
+  - name: "eSIM do Reino Unido"
     flag: "/img/flags/gb.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "uk"
-  - name: "Netherlands eSIM"
+  - name: "eSIM da Holanda"
     flag: "/img/flags/nl.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "netherlands"
 
 recentPosts:
-  - title: "eSIM Compatible Devices List"
+  - title: "Lista de Dispositivos Compatíveis com eSIM"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
+  - title: "Transferência de eSIM entre Plataformas em 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
+  - title: "eSIM Duplo Não Funciona? 12 Correções para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Compatibility Guide"
+  - title: "Guia de Compatibilidade de eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
+  - title: "Guia Completo de Configuração de eSIM para iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
 
-## eSIM Turquia Mais Barato: Preço por GB, Custos Ocultos e Melhores Ofertas
 
-O eSIM mais barato para a Turquia raramente é aquele com o preço de etiqueta mais baixo — é aquele com o menor custo por gigabyte utilizável. Este guia mostra como fazer esse cálculo para que você não pague a mais por um plano que só parece barato.
+O eSIM mais barato para a Turquia raramente é aquele com o menor preço de etiqueta; é aquele com o menor custo por gigabyte utilizável. O preço de entrada recompença o viajante que para no primeiro gigabyte, mas o principal fator de custo é o último, e os limites baixos de uso justo em planos ditos ilimitados podem fazer um plano caro parecer barato. Este guia mostra a curva de preço por GB entre os principais provedores, os custos ocultos que infla o total real — marcações de aeroporto, risco de registro de IMEI, dados ilimitados limitados e taxas de câmbio — e como escolher o maior plano de dados fixos que você realmente usará, para parar de pagar demais por um plano que apenas parece barato.
 
-## Em Resumo
+## eSIM mais Barato para a Turquia: Preço por GB, Custos Ocultos e Melhores Ofertas
+
+O eSIM mais barato para a Turquia raramente é aquele com o menor preço de etiqueta — é aquele com o menor custo por gigabyte utilizável. Este guia mostra como fazer essa matemática para que você não pague demais por um plano que apenas parece barato.
+
+## Preços de eSIM para a Turquia em Resumo
 
 - O plano mais barato é aquele com o menor custo por gigabyte utilizável, não o menor preço de entrada.
-- Você deve comprar o maior plano de dados fixos que realmente vai usar e evitar planos "ilimitados" com um limite baixo de uso justo.
-- Fique atento a custos ocultos como taxas de aeroporto, risco de registro de IMEI, dados ilimitados com throttling e taxas de câmbio.
-- Use um cartão sem taxa de transação internacional e acumule todos os descontos disponíveis.
+- Você deve comprar o maior plano de dados fixos que realmente usará e evitar planos "ilimitados" com limite de uso justo baixo.
+- Fique atento a custos ocultos como marcações de aeroporto, risco de registro de IMEI, dados ilimitados limitados e taxas de câmbio.
+- Use um cartão sem taxa de transação externa e acumule quaisquer descontos disponíveis.
 
-## O Que Este Guia de Custos Resolve
+## O Que Este Guia de Custo de eSIM para a Turquia Resolve
 
-Este guia resolve a camada de custos: qual é o eSIM mais barato para a Turquia para a sua viagem, medido em custo por gigabyte utilizável? Ele não classifica provedores por marca — para isso, leia a [comparação dos melhores provedores](/blog/best-turkey-esim-providers/). Ele não cobre ativação, dispositivos ou [restrições do BTK](/blog/turkey-esim-ban-availability-rules/). Esses são abordados nos artigos aprofundados vinculados.
+Este guia resolve a camada de custo: qual é o eSIM para a Turquia realmente mais barato para sua viagem, medido em custo por gigabyte utilizável? Ele não classifica provedores por marca — para isso, leia a [comparação dos melhores provedores](/blog/best-turkey-esim-providers/). Ele não cobre ativação, dispositivos ou [restrições da BTK](/blog/turkey-esim-ban-availability-rules/). Esses tópicos estão nos artigos aprofundados vinculados.
 
-O insight central: o plano mais barato não é aquele com o menor preço de entrada, a maior duração ou a maior alegação de "ilimitado". É o plano que minimiza o custo total da viagem dividido pelos gigabytes utilizáveis. O fator de custo dominante não é o primeiro gigabyte. É o último gigabyte.
+O insight central: o plano mais barato não é aquele com o menor preço de entrada, a maior duração ou a maior promessa de "ilimitado". É o plano que minimiza o custo total da viagem dividido pelos gigabytes utilizáveis. O principal fator de custo não é o primeiro gigabyte. É o último gigabyte.
 
-Esta página fornece a curva de preço por GB, custos ocultos que inflam o preço real, análise de dados mortos, a fórmula de custo efetivo por GB utilizável, comparação de custo total entre canais, ordem de acumulação de descontos, decisões de tamanho de plano por duração de viagem e ofertas atuais. A versão curta: compre o maior plano de dados fixos que você realisticamente precisa, evite planos ilimitados com FUP baixo e use um cartão sem taxa de transação internacional.
+Esta página oferece a curva de preço por GB, custos ocultos que infla o preço real, análise de dados mortos, a fórmula de custo efetivo por GB utilizável, comparação de custo total entre canais, ordem de acúmulo de descontos, decisões de tamanho de plano por duração da viagem e ofertas atuais. A versão resumida: compre o maior plano de dados fixos que realistamente precisa, evite planos ilimitados com FUP baixo e use um cartão sem taxa de transação externa.
 
-## Por Que o Preço por GB Cai Quando Você Compra Mais?
+## Por Que o Preço por GB do eSIM para a Turquia Cai à Medida que Você Compra Mais?
 
-A curva de preço por GB é íngreme porque os dados no atacado são negociados em grandes volumes. Um provedor que se compromete com um pool de dados maior obtém uma taxa por GB mais baixa. O custo marginal de cada gigabyte adicional cai à medida que o tamanho do plano aumenta. Para o viajante, isso significa que a decisão sobre o tamanho do plano domina a decisão sobre a escolha do provedor.
+A curva de preço por GB é acentuada porque os dados no atacado são negociados em massa. Um provedor que se compromete com um pool de dados maior obtém uma taxa por GB menor. O custo marginal de cada gigabyte adicional cai à medida que o tamanho do plano aumenta. Para o viajante, isso significa que a decisão de tamanho de plano domina a decisão de escolha do provedor.
 
-### Curva Completa de Preço por GB do eSIM Turquia
+### A Curva Completa de Preço por GB
 
-| Plano | Preço típico | Preço por GB | Melhor para |
+| Plan | Typical price | Price per GB | Best for |
 |---|---|---|---|
-| 1 GB / 7 dias | $1.99–$3.99 | $1.99–$3.99 | Backup de emergência, viagens de 1–2 dias |
-| 3 GB / 30 dias | $4.65–$7.15 | $1.55–$2.38 | Viagens de fim de semana |
-| 5 GB / 30 dias | $6.28–$9.74 | $1.26–$1.95 | Viagens de uma semana |
-| 10 GB / 30 dias | $9.30–$15.50 | $0.93–$1.55 | Viagens de duas semanas |
-| 20 GB / 30 dias | $13.32–$22.50 | $0.67–$1.13 | Usuários intensos, viagens de duas semanas |
-| 50 GB / 30 dias | $28.79–$39.45 | $0.58–$0.79 | Nômades digitais, estadias de um mês |
+| 1 GB / 7 dias | US$ 2,64–US$ 3,99 | US$ 2,64–US$ 3,99 | Backup de emergência, viagens de 1–2 dias |
+| 3 GB / 30 dias | US$ 4,65–US$ 7,15 | US$ 1,55–US$ 2,38 | Viagens de fim de semana |
+| 5 GB / 30 dias | US$ 6,28–US$ 9,74 | US$ 1,26–US$ 1,95 | Viagens de uma semana |
+| 10 GB / 30 dias | US$ 9,30–US$ 15,50 | US$ 0,93–US$ 1,55 | Viagens de duas semanas |
+| 20 GB / 30 dias | US$ 13,32–US$ 22,50 | US$ 0,67–US$ 1,13 | Usuários pesados, viagens de duas semanas |
+| 50 GB / 30 dias | US$ 28,79–US$ 39,45 | US$ 0,58–US$ 0,79 | Nômades digitais, estadas de um mês |
 
-### Por Que a Curva do eSIM Turquia É Íngreme
+### Por Que a Curva é Acentuada
 
-Dados no atacado são negociados em grandes volumes. Um provedor que se compromete com um pool de dados maior obtém uma taxa por GB mais baixa. O custo marginal de cada gigabyte adicional cai à medida que o tamanho do plano aumenta. Comprar 20 GB de um provedor de preço médio é mais barato por GB do que comprar 1 GB do provedor mais barato. Esta é a mesma dinâmica de atacado que rege os preços de dados em todo o [ecossistema eSIM da GSMA](https://www.gsma.com/esim/).
+Dados no atacado são negociados em massa. Um provedor que se compromete com um pool de dados maior obtém uma taxa por GB menor. O custo marginal de cada gigabyte adicional cai à medida que o tamanho do plano aumenta. Comprar 20 GB de um provedor de preço médio é mais barato por GB do que comprar 1 GB do provedor mais barato. Esta é a mesma dinâmica de atacado que rege o preço dos dados em todo o [ecossistema eSIM da GSMA](https://www.gsma.com/esim/).
 
-### A Armadilha do Plano Pequeno do eSIM Turquia
+### A Armadilha do Plano Pequeno
 
-Um viajante planejando uma viagem de 7 dias a Istambul estima 1 GB por dia, compra um plano de 3 GB e fica sem no quarto dia. O bloqueio do BTK impede a recarga. Opções: SIM turco local com registro de passaporte e 30–60 minutos em uma loja, apenas Wi-Fi de hotel e café, ou sem dados para navegação, chamadas de transporte e mensagens. Os $5 economizados no plano menor são consumidos pela primeira compra de SIM local.
+Um viajante planejando uma viagem de 7 dias a Istambul estima 1 GB por dia, compra um plano de 3 GB e fica sem dados no quarto dia. O bloqueio da BTK impede recargas. Opções: SIM turco local com registro de passaporte e 30–60 minutos em uma loja, apenas Wi-Fi de hotel e café, ou nenhum dado para navegação, transporte por app e mensagens. Os US$ 5 economizados no plano menor são consumidos pela primeira compra de SIM local.
 
-### A Regra do Buffer do eSIM Turquia
+### A Regra do Buffer de 30%
 
-Compre o tamanho do plano para sua necessidade estimada mais 30%, depois arredonde para cima. Uma viagem de 7 dias a 1 GB/dia = 7 GB + 30% = 9,1 GB. Arredonde para 10 GB.
+Compre o tamanho de plano para sua necessidade estimada mais 30%, depois arredonde para cima. Uma viagem de 7 dias a 1 GB/dia = 7 GB + 30% = 9,1 GB. Arredonde para 10 GB.
 
-### Preço por GB do eSIM Turquia por Provedor
+### Preço por GB por Provedor
 
-| Provedor | Preço de entrada | Melhor plano de valor | Preço por GB |
+| Provider | Entry price | Best value plan | Price per GB |
 |---|---|---|---|
-| Roami | $1.99 | 50 GB / 30 dias | ~$0.58–$1.00 |
-| eSIM-Now | ~$2.64 | 20 GB / 30 dias | $0.67 |
-| Saily | $3.39 com código | 20 GB / 30 dias | $0.98 |
-| Nomad | ~$5.20 | 10 GB / 30 dias | ~$1.90–$2.60 |
-| Ubigi | $4 | 10 GB / 30 dias | $1.40 |
-| Airalo | €4 | 20 GB / 30 dias | €0.89–€4.00 |
-| Holafly | ~$19 | Ilimitado 7 dias | $1.29–$1.93 por GB utilizável |
+| Roami | US$ 2,99 | 50 GB / 30 dias | ~US$ 0,58–US$ 1,00 |
+| eSIM-Now | ~US$ 2,64 | 20 GB / 30 dias | US$ 0,67 |
+| Saily | US$ 3,99 (US$ 3,39 com código) | 20 GB / 30 dias | US$ 0,98 com código |
+| Nomad | ~US$ 4 | 10 GB / 30 dias | ~US$ 1,30 |
+| Ubigi | US$ 4 | 10 GB / 30 dias | US$ 1,60–US$ 1,80 |
+| Airalo | ¥1.850 (~US$ 12), ilimitado 3d | Somente ilimitado | N/A – planos ilimitados |
+| Holafly | ~US$ 11,90, ilimitado 3d | Ilimitado 7 dias | US$ 1,31–US$ 1,96 por GB utilizável |
 
 O padrão é consistente: planos maiores custam menos por GB. A escolha do provedor importa menos que o tamanho do plano.
 
-## Quais Custos Ocultos Inflam o Preço Real?
+## Quais Custos Ocultos Inflam o Preço Real do eSIM?
 
-O preço anunciado do plano não é o custo total de se conectar. Seis custos ocultos podem dobrar o preço efetivo de um eSIM Turquia barato.
+O preço anunciado do plano não é o custo total de se conectar. Seis custos ocultos podem dobrar o preço efetivo de um eSIM barato para a Turquia.
 
-### Taxa do Balcão do Aeroporto para eSIM Turquia
+### Marcação do Balcão de Aeroporto
 
-O [Tourist Welcome Pack](https://www.turkcell.com.tr) da Turkcell custa 1.800 TL (~$38) por 20 GB + 200 minutos em 28 dias. O total final no balcão pode incluir taxas de cartão SIM, impostos de nova linha, custos de ativação e margem do revendedor. Relatórios independentes colocam os pacotes de SIM de aeroporto em €35–€55 com filas de passaporte de até 45 minutos. A taxa sobre um eSIM online para dados equivalentes é de 70–150%.
+O [Tourist Welcome Pack](https://www.turkcell.com.tr) da Turkcell custa 1.800 TL (~US$ 38) por 20 GB + 200 minutos em 28 dias. O total final do balcão pode incluir taxas de chip, impostos de nova linha, custos de ativação e margem do revendedor. Relatos independentes colocam os pacotes de SIM de aeroporto em €35–€55 com filas de passaporte de até 45 minutos. A marcação sobre um eSIM online para dados equivalentes é de 70–150%.
 
-### Surpresa da Taxa de Ativação para eSIM Turquia
+### Surpresa da Taxa de Ativação
 
-SIMs turcos locais da Turkcell, Vodafone e Türk Telekom frequentemente incluem taxas de ativação não mostradas no preço anunciado. Fóruns de reclamações em turco relatam taxas de ativação de 200–300 TL (~$5–$8) além do custo do plano. Um usuário relatou 350 TL por um eSIM descrito como "gratuito", com 280 TL adicionais na fatura.
+SIMs turcos locais da Turkcell, Vodafone e Türk Telekom frequentemente incluem taxas de ativação não mostradas no preço anunciado. Fóruns de reclamação em turco relatam taxas de ativação de 200–300 TL (~US$ 5–US$ 8) além do custo do plano. Um usuário relatou 350 TL por um eSIM descrito como "gratuito", com mais 280 TL adicionados à conta.
 
-### Risco de Registro de IMEI para eSIM Turquia
+### O Risco de IMEI de 120 Dias
 
-Usar um SIM turco local em um telefone estrangeiro aciona o relógio de registro de IMEI de 120 dias. Após 120 dias, o dispositivo é bloqueado de todas as redes turcas, a menos que o proprietário pague 54.258 TL (~$1.200). Para um turista de duas semanas, isso nunca entra em jogo. Para um nômade digital em uma estadia de seis meses, é um custo de $1.200 que não aparece em lugar nenhum no preço anunciado do SIM. Leia o [bloqueio da plataforma BTK](/blog/turkey-esim-ban-availability-rules/) para o quadro completo do IMEI.
+Usar um SIM turco local em um telefone estrangeiro dispara o relógio de registro de IMEI de 120 dias. Após 120 dias, o dispositivo é bloqueado de todas as redes turcas, a menos que o proprietário pague 54.258 TL (~US$ 1.200). Para um turista de duas semanas, isso nunca entra em jogo. Para um nômade digital em uma estada de seis meses, é um custo de US$ 1.200 que não aparece em lugar nenhum no preço anunciado do SIM. Leia o [bloqueio da plataforma BTK](/blog/turkey-esim-ban-availability-rules/) para o quadro completo de IMEI.
 
-### Custo do Throttling Ilimitado no eSIM Turquia
+### O Custo da Limitação Ilimitada
 
-Planos ilimitados baratos têm limites de Política de Uso Justo. Após o limite, a velocidade cai para 128 Kbps–1 Mbps. A 1 Mbps, a conexão lida com WhatsApp e mapas básicos. Não lida com streaming de vídeo, chamadas de vídeo ou hotspot. Um plano ilimitado de $25 por 7 dias pode entregar apenas 7–14 GB de dados de alta velocidade utilizáveis antes do throttling. Isso é mais caro por GB utilizável do que um plano de dados fixos.
+Planos ilimitados baratos têm limites de Fair Use Policy (FUP). Após o limite, a velocidade cai para 128 Kbps–1 Mbps. A 1 Mbps, a conexão suporta WhatsApp e mapas básicos. Não suporta streaming de vídeo, chamadas de vídeo ou hotspot. Um plano ilimitado de US$ 25 para 7 dias pode entregar apenas 7–14 GB de dados utilizáveis de alta velocidade antes da limitação. Isso é mais caro por GB utilizável do que um plano de dados fixos.
 
-### Taxa de Conversão de Moeda no eSIM Turquia
+### Taxas de Conversão de Moeda
 
-Alguns provedores cobram em moeda estrangeira, e seu banco adiciona uma taxa de transação internacional de 2–3%. Em um plano de $20, isso é $0,40–$0,60. Use um cartão sem taxas de transação internacional (Revolut, Monzo, Wise) para evitar isso.
+Alguns provedores cobram em moeda estrangeira, e seu banco adiciona uma taxa de transação externa de 2–3%. Em um plano de US$ 20, isso é US$ 0,40–US$ 0,60. Use um cartão sem taxas de transação externa (Revolut, Monzo, Wise) para evitar isso.
 
-### Custo da Recusa de Reembolso no eSIM Turquia
+### Pagando em GBP e EUR
 
-Se o seu eSIM falhar e o provedor recusar um reembolso porque o plano foi "ativado", você perde o custo total do plano. Isso dobra o custo efetivo: você paga pelo plano que falhou e depois paga novamente por uma substituição. Provedores com políticas de reembolso restritivas são a categoria de maior risco. Se um plano nunca foi ativado, uma disputa no [PayPal Buyer Protection](https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security) pode recuperar o pagamento quando o provedor não o faz. Leia o [guia de compra de eSIM Turquia online](/blog/buy-turkey-esim-online/) para a comparação completa de reembolsos.
+A maioria dos provedores de viagem preça planos da Turquia em dólares americanos, mas a moeda que você realmente é cobrado depende da vitrine: alguns mostram GBP ou EUR no checkout para cartões do Reino Unido e da UE, e poucos deixam mudar a moeda de exibição. Duas coisas decidem o que um plano de "£4" realmente custa. Primeiro, se a cobrança é processada em dólares ou euros, seu banco adiciona uma taxa de transação externa de 2–3% a menos que você use um cartão sem taxa. Segundo, a própria taxa de conversão do provedor pode estar um ou dois pontos acima da taxa de mercado, o que é invisível no checkout e só aparece no extrato do cartão. Para comparações de preço, converta cada plano para uma única moeda primeiro — um plano que parece 10% mais barato em EUR pode ser mais caro uma vez aplicada a taxa do seu banco. Para o lado do método de pagamento, veja o [guia de proteção de pagamento de eSIM para a Turquia](/blog/buy-turkey-esim-online/).
 
-## Quanto dos Seus Dados É Realmente Utilizável?
+### Negação de Reembolso: o Pagamento Duplo
 
-A curva de preço por GB assume que um gigabyte é um gigabyte. Na prática, quatro fatores reduzem a capacidade utilizável: limites de FUP, limites de hotspot, expiração de dados não utilizados e incompatibilidade de rede.
+Se seu eSIM falhar e o provedor se recusar a reembolsar porque o plano foi "ativado", você perde o custo total do plano. Isso dobra o custo efetivo: você paga pelo plano falho e depois paga de novo por um substituto. Provedores com políticas de reembolso restritivas são a categoria de maior risco. Se um plano nunca foi ativado, uma disputa da [Proteção ao Comprador do PayPal](https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security) pode recuperar o pagamento quando o provedor não quer. Leia o [guia de compra de eSIM para a Turquia online](/blog/buy-turkey-esim-online/) para a comparação completa de reembolsos.
 
-### Limites de FUP em Planos Ilimitados de eSIM Turquia
+## Quantos dos Seus Dados de eSIM São Realmente Utilizáveis?
 
-Um plano ilimitado anunciado a $25 por 7 dias não entrega dados de alta velocidade ilimitados. Ele entrega uma cota diária em velocidade total — tipicamente 1–5 GB por dia — e depois faz throttling.
+A curva de preço por GB assume que um gigabyte é um gigabyte. Na prática, quatro fatores reduzem a capacidade utilizável: limites de FUP, limites de hotspot, expiração de dados não usados e incompatibilidade de rede.
 
-| Plano | Anunciado | FUP diário | Alta velocidade utilizável | Preço efetivo por GB utilizável |
+### Limites de FUP em Planos Ilimitados
+
+Um plano ilimitado anunciado a US$ 25 para 7 dias não entrega dados ilimitados de alta velocidade. Ele entrega uma franquia diária em velocidade máxima — tipicamente 1–5 GB por dia — e então limita.
+
+| Plan | Advertised | Daily FUP | Usable high-speed | Effective price per usable GB |
 |---|---|---|---|---|
-| Holafly 7 dias ilimitado | Ilimitado | 2–3 GB | 14–21 GB | $1.29–$1.93 |
-| Saily 7 dias ilimitado | Ilimitado | 5 GB | 35 GB | $0.71 |
-| 10 GB fixo | 10 GB | Nenhum | 10 GB | $0.93 |
-| 20 GB fixo | 20 GB | Nenhum | 20 GB | $0.67 |
+| Holafly ilimitado 7 dias | US$ 27,50 | 2–3 GB | 14–21 GB | US$ 1,31–US$ 1,96 |
+| Saily ilimitado 30 dias | US$ 48,99 | 5 GB | 35 GB | US$ 1,40 |
+| 10 GB fixo | 10 GB | Nenhum | 10 GB | US$ 0,93 |
+| 20 GB fixo | 20 GB | Nenhum | 20 GB | US$ 0,67 |
 
-Planos de dados fixos frequentemente entregam um preço efetivo melhor por GB utilizável do que planos ilimitados. Para o detalhamento completo do FUP, leia o [guia de FUP e hotspot](/blog/turkey-esim-number-calls-sms-hotspot/).
+Planos de dados fixos geralmente entregam um melhor preço efetivo por GB utilizável do que planos ilimitados. Para a análise completa de FUP, leia o [guia de FUP e hotspot](/blog/turkey-esim-number-calls-sms-hotspot/).
 
-### Limites de Hotspot em Planos de eSIM Turquia
+### Limites de Hotspot
 
-Alguns planos limitam o hotspot separadamente. A Holafly limita o hotspot a 500 MB por dia em planos ilimitados. Se você precisa compartilhar dados com um laptop ou companheiro de viagem, esse limite diário de 500 MB se torna o fator limitante — não a cota geral de dados. Um plano de dados fixos de 20 GB com hotspot irrestrito entrega mais dados de hotspot utilizáveis do que um plano ilimitado com um limite diário de 500 MB.
+Alguns planos limitam o hotspot separadamente. A Holafly limita o hotspot a 1 GB por dia em planos ilimitados. Se você precisa compartilhar dados com um notebook ou companheiro de viagem, esse limite diário de 1 GB torna-se o fator limitante — não a franquia de dados geral. Um plano de dados fixos de 20 GB com hotspot irrestrito entrega mais dados de hotspot utilizáveis do que um plano ilimitado com limite diário de 1 GB.
 
-### Expiração de Dados Não Utilizados em Planos de eSIM Turquia
+### Expiração de Dados Não Usados
 
-Planos de curta duração expiram dados não utilizados. Um plano de 10 GB / 7 dias usado em uma viagem de 5 dias desperdiça 2 dias de validade e potencialmente vários GB não utilizados. Planos de maior duração (30 dias) oferecem mais flexibilidade para viagens mais curtas do que o planejado. Ao comparar um plano de 7 dias a $6,28 e um plano de 30 dias a $9,30, o plano de 30 dias é $3 mais caro, mas cobre uma gama mais ampla de durações de viagem sem desperdício.
+Planos de curta duração expiram dados não usados. Um plano de 10 GB / 7 dias usado em uma viagem de 5 dias desperdiça 2 dias de validade e potencialmente vários GB não usados. Planos de maior duração (30 dias) oferecem mais flexibilidade para viagens mais curtas do que o planejado. Ao comparar um plano de 7 dias a US$ 6,28 e um de 30 dias a US$ 9,30, o plano de 30 dias custa US$ 3 a mais, mas cobre uma faixa maior de durações de viagem sem desperdício.
 
-### Desperdício por Incompatibilidade de Rede em Planos de eSIM Turquia
+### Desperdício por Incompatibilidade de Rede
 
-Se o eSIM se conectar a uma rede que não cobre seu destino, os dados que você pagou são inutilizáveis. Um eSIM na Türk Telekom nos vales da Capadócia pode ter barras de sinal, mas nenhuma taxa de transferência de dados. Os gigabytes estão "lá", mas não podem ser usados. Esta é a forma mais invisível de dados mortos: você pagou por 10 GB, mas apenas 6 GB eram utilizáveis devido a lacunas de cobertura. Leia o [mapa de cobertura](/blog/turkcell-vodafone-turk-telekom-esim/) para o quadro completo. Para cobertura medida e velocidades de download em toda a Turquia, consulte o [relatório de rede da OpenSignal Turquia](https://www.opensignal.com/reports/turkey).
+Se o eSIM conecta-se a uma rede que não cobre seu destino, os dados que você pagou são inutilizáveis. Um eSIM na Türk Telekom nos vales da Capadócia pode ter barras de sinal, mas sem throughput de dados. Os gigabytes estão "lá", mas não podem ser usados. Esta é a forma mais invisível de dados mortos: você pagou por 10 GB, mas apenas 6 GB eram utilizáveis devido a lacunas de cobertura. Leia o [mapa de cobertura](/blog/turkcell-vodafone-turk-telekom-esim/) para o quadro completo. Para cobertura medida e velocidades de download em toda a Turquia, veja as [medições independentes de rede da Opensignal](https://www.opensignal.com/).
 
-### Fórmula de Custo Efetivo do eSIM Turquia
+### Fórmula de Custo Efetivo de eSIM para a Turquia
 
-**Custo efetivo por GB utilizável = Preço do plano ÷ (FUP diário × Dias de viagem, ou GB total, o que for menor)**
+**Custo efetivo por GB utilizável = Preço do plano ÷ (FUP diário × dias de viagem, ou Total de GB, o menor)**
 
 Para uma viagem de 7 dias:
 
-| Plano | Preço | GB utilizável | Custo efetivo por GB |
+| Plan | Price | Usable GB | Effective cost per GB |
 |---|---|---|---|
-| Holafly ilimitado 7d | ~$27 | 14–21 GB | $1.29–$1.93 |
-| Saily ilimitado 7d | ~$25 | 35 GB | $0.71 |
-| 5 GB fixo | $6.28 | 5 GB | $1.26 |
-| 10 GB fixo | $9.30 | 10 GB | $0.93 |
-| 20 GB fixo | $13.32 | 20 GB | $0.67 |
+| Holafly ilimitado 7d | US$ 27,50 | 14–21 GB | US$ 1,31–US$ 1,96 |
+| Saily ilimitado 30d | US$ 48,99 | 35 GB | US$ 1,40 |
+| 5 GB fixo | US$ 6,28 | 5 GB | US$ 1,26 |
+| 10 GB fixo | US$ 9,30 | 10 GB | US$ 0,93 |
+| 20 GB fixo | US$ 13,32 | 20 GB | US$ 0,67 |
 
-O plano de dados fixos de 20 GB entrega o menor custo efetivo por GB utilizável a $0,67. Os planos ilimitados "baratos" não são mais baratos nessa métrica.
+O plano de dados fixos de 20 GB entrega o menor custo efetivo por GB utilizável a US$ 0,67. Os planos ilimitados "baratos" não são mais baratos nessa métrica.
 
-### Calculadora de Dados Mortos do eSIM Turquia
+### A Calculadora de Dados Mortos
 
-**GB utilizável = (FUP diário × Dias de viagem) − (Dias de lacuna de cobertura × Uso diário) − (Limite de hotspot × Dias de hotspot)**
+**GB utilizável = (FUP diário × dias de viagem) − (dias de lacuna de cobertura × uso diário) − (limite de hotspot × dias de hotspot)**
 
 Exemplo: Holafly ilimitado em uma viagem de 7 dias à Capadócia.
 
@@ -212,376 +219,388 @@ Exemplo: Holafly ilimitado em uma viagem de 7 dias à Capadócia.
 - Dias de viagem: 7
 - Dias de lacuna de cobertura: 2
 - Uso diário: 1 GB
-- Limite de hotspot: 500 MB/dia
+- Limite de hotspot: 1 GB/dia
 - Dias de hotspot: 3
 
-GB utilizável = (2 × 7) − (2 × 1) − (0,5 × 3) = 14 − 2 − 1,5 = 10,5 GB utilizáveis de 14 GB anunciados.
+GB utilizável = (2 × 7) − (2 × 1) − (1 × 3) = 14 − 2 − 3 = 9 GB utilizável de 14 GB anunciados.
 
-Custo efetivo por GB utilizável = $27 ÷ 10,5 = $2,57/GB.
+Custo efetivo por GB utilizável = US$ 27,50 ÷ 9 = ~US$ 3,06/GB.
 
-## Resumo Rápido
+## Resumo Rápido: Pagando o Preço Certo
 
-Você agora viu a curva de preço por gigabyte, os custos ocultos e quanto de dados é desperdiçado. A ideia central é que o seu último gigabyte determina o custo real, não o primeiro. Em seguida, comparamos o custo total de um SIM de aeroporto, um SIM local, um eSIM online e roaming doméstico.
+Você já viu a curva de preço por gigabyte, os custos ocultos e quanto dado é desperdiçado. A ideia central é que seu último gigabyte dirige o custo real, não o primeiro. A seguir, comparamos o custo total de um SIM de aeroporto, um SIM local, um eSIM online e o roaming de casa.
 
 ## Custo Total: Aeroporto vs Online vs SIM Local
 
-A comparação de custos que importa é o custo total de se conectar, incluindo taxas, custos de tempo e riscos regulatórios. Para qualquer viagem inferior a 30 dias, o eSIM de viagem online é a opção mais barata com uma margem ampla.
+A comparação de custo que importa é o custo total de se conectar, incluindo taxas, custos de tempo e riscos regulatórios. Para qualquer viagem abaixo de 30 dias, o eSIM de viagem online é a opção mais barata por uma ampla margem.
 
-### Custo Total do Balcão de SIM do Aeroporto para eSIM Turquia
+### Balcão de SIM de Aeroporto: Custo Total
 
-| Componente de custo | Valor típico |
+| Cost component | Typical amount |
 |---|---|
-| Preço do plano (Turkcell 20 GB + 200 min) | ~$38 oficial |
-| Taxa de cartão SIM / número | $10–$20 |
-| Taxa de ativação | $5–$8 |
-| Margem do revendedor | Variável |
-| **Total** | **$50–$70+** |
+| Preço do plano (Turkcell 20 GB + 200 min) | ~US$ 38 oficial |
+| Taxa de chip / número | US$ 10–US$ 20 |
+| Taxa de ativação | US$ 5–US$ 8 |
+| Marca do revendedor | Variável |
+| **Total** | **US$ 50–US$ 70+** |
 | Custo de tempo | 30–60 minutos na fila |
 
-### Custo Total do SIM Turco Local de Loja na Cidade
+### Custo Total de SIM Turco Local de Loja na Cidade
 
-| Componente de custo | Valor típico |
+| Cost component | Typical amount |
 |---|---|
-| Preço do plano (Turkcell pré-pago) | $15–$30 |
-| Taxa de ativação | $5–$8 |
+| Preço do plano (Turkcell pré-pago) | US$ 15–US$ 30 |
+| Taxa de ativação | US$ 5–US$ 8 |
 | Registro de passaporte | Obrigatório |
-| Relógio IMEI inicia | Sim |
-| **Total** | **$20–$38** |
+| Relógio de IMEI inicia | Sim |
+| **Total** | **US$ 20–US$ 38** |
 | Custo de tempo | 30–60 minutos |
 
-### Custo Total do eSIM Turquia Online
+### eSIM de Viagem Online: Custo Total
 
-| Componente de custo | Valor típico |
+| Cost component | Typical amount |
 |---|---|
-| Preço do plano (10 GB / 30 dias) | $9.30–$15.50 |
+| Preço do plano (10 GB / 30 dias) | US$ 9,30–US$ 15,50 |
 | Taxa de ativação | Nenhuma |
 | Registro de passaporte | Nenhum |
-| Relógio IMEI | Não inicia |
-| **Total** | **$9.30–$15.50** |
-| Custo de tempo | 60 segundos no Wi-Fi |
+| Relógio de IMEI | Não inicia |
+| **Total** | **US$ 9,30–US$ 15,50** |
+| Custo de tempo | 60 segundos via Wi-Fi |
 
-### Custo Total do Roaming da Operadora Doméstica para eSIM Turquia
+### Roaming da Operadora de Casa: Custo Total
 
-| Componente de custo | Valor típico |
+| Cost component | Typical amount |
 |---|---|
 | Taxa de roaming diária | £6–£8 por dia |
-| Viagem de 7 dias | £42–£56 (~$53–$70) |
-| Viagem de 14 dias | £84–£112 (~$106–$140) |
+| Viagem de 7 dias | £42–£56 (~US$ 53–US$ 70) |
+| Viagem de 14 dias | £84–£112 (~US$ 106–US$ 140) |
 
-### Custo Total do Aluguel de Pocket Wi-Fi para eSIM Turquia
+### Aluguel de Wi-Fi de Bolso: Custo Total
 
-| Componente de custo | Valor típico |
+| Cost component | Typical amount |
 |---|---|
-| Taxa de aluguel diária | $6–$10 por dia |
-| Viagem de 7 dias | $42–$70 |
-| Depósito do dispositivo | $50–$100 reembolsável |
-| **Total** | **$42–$70** |
+| Taxa de aluguel diária | US$ 6–US$ 10 por dia |
+| Viagem de 7 dias | US$ 42–US$ 70 |
+| Depósito do dispositivo | US$ 50–US$ 100 reembolsável |
+| **Total** | **US$ 42–US$ 70** |
 
-### Veredito do Custo Total do eSIM Turquia
+### Veredito de Custo Total
 
-Para qualquer viagem inferior a 30 dias, o eSIM de viagem online é a opção mais barata com uma margem ampla. O único cenário em que um SIM local faz sentido é se você precisa de um número de telefone turco para verificação bancária, serviços locais ou estadias prolongadas. Para conectividade apenas de dados, o eSIM vence em todas as métricas de custo. Para o fluxo completo de compra, leia o [fluxo de compra](/blog/buy-turkey-esim-online/).
+Para qualquer viagem abaixo de 30 dias, o eSIM de viagem online é a opção mais barata por uma ampla margem. O único cenário em que um SIM local faz sentido é se você precisa de um número de telefone turco para verificação bancária, serviços locais ou estadas longas. Para conectividade somente dados, o eSIM vence em toda métrica de custo. Para o fluxo completo de compra, leia o [fluxo de compra](/blog/buy-turkey-esim-online/).
 
-## Planos Ilimitados Baratos: Quando o Rótulo Custa Mais
+## Planos de eSIM Ilimitados Baratos: Quando o Rótulo Custa Mais
 
-Dados ilimitados soam como o hack de orçamento definitivo. O cálculo de custo efetivo mostra o contrário. Quase todos os planos ilimitados fazem throttling após um limite diário — tipicamente 1–2 GB por dia, às vezes até 5 GB. Após o limite, a velocidade cai para 128 Kbps–1 Mbps.
+Dados ilimitados soam como o truque final de orçamento. A matemática de custo efetivo mostra o contrário. Quase todos os planos ilimitados limitam após um limite diário — tipicamente 1–2 GB por dia, às vezes até 5 GB. Após o limite, a velocidade cai para 128 Kbps–1 Mbps.
 
-### Como o FUP Funciona em Planos Ilimitados de eSIM Turquia
+### Como o FUP Funciona em Planos Ilimitados
 
-Quase todos os planos ilimitados fazem throttling após um limite diário — tipicamente 1–2 GB por dia, às vezes até 5 GB. Após o limite, a velocidade cai para 128 Kbps–1 Mbps. A 1 Mbps, a conexão lida com mensagens do WhatsApp e carregamento básico de mapas. Não lida com streaming de vídeo, chamadas de vídeo ou uso eficaz de hotspot.
+O ponto de limitação é o número que importa, e varia mais do que a maioria dos compradores espera: a Saily limita a 5 GB/dia, a GigSky a 3,5 GB/dia, a maioria dos outros a 1–2 GB. Após a linha, a velocidade cai para 128 Kbps–1 Mbps. Nessa velocidade a conexão suporta mensagens do WhatsApp e carregamento básico de mapas — não streaming de vídeo, chamadas de vídeo ou uso efetivo de hotspot.
 
-### Custo da Velocidade Reduzida no eSIM Turquia
+### O Custo da Velocidade Limitada
 
-Se um viajante em uma viagem de 7 dias tem um plano ilimitado que faz throttling após 1 GB por dia, os dados de alta velocidade utilizáveis são 7 GB. Um plano de dados fixos de 10 GB custa menos e entrega 10 GB de dados em velocidade total.
+Se um viajante em uma viagem de 7 dias tem um plano ilimitado que limita após 1 GB por dia, os dados utilizáveis de alta velocidade são 7 GB. Um plano de dados fixos de 10 GB custa menos e entrega 10 GB de dados em velocidade máxima.
 
-| Tipo de plano | Preço | Dados de alta velocidade utilizáveis | Velocidade reduzida |
+| Plan type | Price | Usable high-speed data | Throttled speed |
 |---|---|---|---|
-| Ilimitado 7 dias (Holafly) | ~$27 | 14–21 GB | 0,148 Mbps |
-| Ilimitado 7 dias (Saily) | ~$25 | 35 GB | 1 Mbps |
-| 10 GB fixo | $9.30 | 10 GB | Nenhum, velocidade total |
-| 20 GB fixo | $13.32 | 20 GB | Nenhum, velocidade total |
+| Ilimitado 7 dias (Holafly) | ~US$ 27 | 14–21 GB | 0,148 Mbps |
+| Ilimitado 30 dias (Saily) | US$ 48,99 | 35 GB | 1 Mbps |
+| 10 GB fixo | US$ 9,30 | 10 GB | Nenhum, velocidade máxima |
+| 20 GB fixo | US$ 13,32 | 20 GB | Nenhum, velocidade máxima |
 
-### Variável do Hotspot em Planos Ilimitados de eSIM Turquia
+### A Variável de Hotspot
 
-A maioria dos planos ilimitados baratos restringe ou limita o hotspot. A Holafly limita o hotspot a 500 MB por dia. A Saily permite tethering ilimitado. A Roami permite hotspot irrestrito em todos os planos, incluindo ilimitado. Se você precisa compartilhar dados com um laptop ou companheiro de viagem, a política de hotspot muda o cálculo. Um plano de dados fixos com uma grande cota (20 GB+) e hotspot irrestrito é geralmente a melhor escolha.
+A maioria dos planos ilimitados baratos restringe ou limita o hotspot. A Holafly limita o hotspot a 1 GB por dia. A Saily permite tethering ilimitado. A Roami permite hotspot irrestrito em todos os planos, incluindo ilimitados. Se você precisa compartilhar dados com um notebook ou companheiro de viagem, a política de hotspot muda o cálculo. Um plano de dados fixos com franquia grande (20 GB+) e hotspot irrestrito geralmente é a melhor escolha.
 
-### Quando o eSIM Turquia Ilimitado Faz Sentido
+### Quando Ilimitado Realmente Faz Sentido
 
-Ilimitado faz sentido apenas se você usar consistentemente mais de 5 GB por dia. Isso é raro para uso turístico típico. Mapas, mensagens, redes sociais e chamadas de vídeo ocasionais consomem cerca de 1–2 GB por dia. Viajantes que fazem streaming de vídeo diariamente ou usam hotspot para um laptop podem se aproximar de 5 GB por dia. Mesmo assim, um plano de dados fixos de 50 GB a $28,79–$39,45 entrega mais dados de alta velocidade utilizáveis do que um plano ilimitado com um FUP diário de 2 GB.
+Ilimitado faz sentido apenas se você usa consistentemente mais de 5 GB por dia. Isso é raro para uso típico de turista. Mapas, mensagens, redes sociais e chamadas de vídeo ocasionais consomem cerca de 1–2 GB por dia. Viajantes que fazem streaming de vídeo diário ou usam hotspot para notebook podem chegar a 5 GB por dia. Mesmo assim, um plano de dados fixos de 50 GB a US$ 28,79–US$ 39,45 entrega mais dados utilizáveis de alta velocidade do que um plano ilimitado com FUP diário de 2 GB. Em outras palavras, internet ilimitada raramente é o caminho mais barato — é o mais simples.
 
-### Cálculo do Ponto de Equilíbrio do eSIM Turquia
+### O Cálculo de Ponto de Equilíbrio
 
-Para que o ilimitado seja mais barato que os dados fixos, você deve usar mais do que a cota do plano de dados fixos a um custo inferior ao preço do plano de dados fixos.
+Para ilimitado ser mais barato que dados fixos, você deve usar mais do que a franquia do plano de dados fixos a um custo menor que o preço do plano de dados fixos.
 
-Exemplo: Saily ilimitado a $25 por 7 dias vs um plano fixo de 20 GB a $13,32.
+Exemplo: Ilimitado 7 dias da Holafly a US$ 27,50 vs plano fixo de 20 GB a US$ 13,32.
 
-- Saily ilimitado: 35 GB de alta velocidade utilizáveis a 5 GB/dia
-- 20 GB fixo: 20 GB utilizáveis em velocidade total
+- Holafly ilimitado: 14–21 GB utilizáveis de alta velocidade (FUP 2–3 GB/dia) com limite de hotspot de 1 GB/dia
+- 20 GB fixo: 20 GB utilizáveis em velocidade máxima, hotspot irrestrito
 
-O plano ilimitado entrega mais dados utilizáveis, mas custa $11,68 mais. O ponto de equilíbrio é 20 GB de uso. Se você usar menos de 20 GB, o plano fixo é mais barato. Se mais, o plano ilimitado vence — mas apenas se você não precisar de hotspot além do limite.
+O plano ilimitado custa US$ 14,18 a mais por dados utilizáveis praticamente iguais — menos ainda quando se considera o limite de hotspot. A menos que você realmente consuma 5 GB todos os dias, o plano fixo vence no custo por gigabyte utilizável.
 
-Para o melhor valor de dados utilizáveis, um [plano de dados Turquia](/turkey-esim/) com hotspot irrestrito e FUP transparente mantém o custo por GB previsível.
+Para o melhor valor de dados utilizáveis, um [plano de dados para a Turquia](/turkey-esim/) com hotspot irrestrito e uma cota diária de uso justo publicada mantém o custo por GB previsível.
 
-## Tamanho do Plano por Duração da Viagem
+## Tamanho de Plano de eSIM por Duração da Viagem
 
 Cada duração de viagem tem um tamanho de plano ideal diferente. A regra do buffer se aplica: estime sua necessidade mais 30%, depois arredonde para o próximo nível.
 
-### Plano de eSIM Turquia para Viagem de Fim de Semana (2–3 Dias)
+### Planos de eSIM para a Turquia de Um Dia e 24 Horas
 
-**Opção mais barata:** Plano de 3 GB / 30 dias a $4,65 ($1,55/GB) ou Roami basic a $1,99.
+Planos de eSIM para a Turquia de um dia verdadeiros são raros entre os grandes provedores de viagem, cujos produtos mais curtos geralmente começam em três dias. Se você só precisa de 24 horas de conectividade — uma escala em Istambul, uma transferência de ônibus noturna — tem três rotas realistas. Listagens de marketplace com dados limitados por dia (produtos estilo KKday de "1 GB por dia" na Türk Telekom ou Vodafone) chegam mais perto de um passe diário, e seu relógio de 24 horas começa na ativação, não na compra. O plano de 3 dias e 1 GB da Roami a US$ 2,99 dá cerca de um dólar por dia e deixa uma margem de segurança, que um plano estrito de 24 horas não oferece. Os passes diários de aeroporto são o pior valor: você paga a marcação do balcão pelo mesmo gigabyte.
 
-**Estimativa de dados:** 3 dias × 1 GB/dia = 3 GB + 30% de buffer = 3,9 GB. Arredonde para 5 GB.
+### Viagem de Fim de Semana (2–3 Dias)
 
-### Plano de eSIM Turquia para Viagem de Uma Semana (7 Dias)
+**Opção mais barata:** plano de 3 GB da eSIM-Now a US$ 4,59 (US$ 1,53/GB) ou o inicial de 1 GB da Roami a US$ 2,99.
 
-**Opção mais barata:** Plano de 5 GB / 30 dias a $6,28 ($1,26/GB).
+**Estimativa de dados:** 3 dias × 1 GB/dia = 3 GB + buffer de 30% = 3,9 GB. Arredonde para 5 GB.
 
-**Estimativa de dados:** 7 dias × 1 GB/dia = 7 GB + 30% de buffer = 9,1 GB. Arredonde para 10 GB.
+### Viagem de Uma Semana (7 Dias)
 
-Se você faz streaming ou usa hotspot, vá para 10 GB a $9,30.
+**Opção mais barata:** plano de 5 GB / 30 dias a US$ 6,28 (US$ 1,26/GB).
 
-### Plano de eSIM Turquia para Viagem de Duas Semanas (14 Dias)
+**Estimativa de dados:** 7 dias × 1 GB/dia = 7 GB + buffer de 30% = 9,1 GB. Arredonde para 10 GB.
 
-**Opção mais barata:** Plano de 10 GB / 30 dias a $9,30 ($0,93/GB) ou Ubigi a $14.
+Se você faz streaming ou usa hotspot, vá para 10 GB a US$ 9,30.
 
-**Estimativa de dados:** 14 dias × 1 GB/dia = 14 GB + 30% de buffer = 18,2 GB. Arredonde para 20 GB.
+### Viagem de Duas Semanas (14 Dias)
 
-20 GB a $13,32 é melhor valor se você faz streaming ou usa hotspot.
+**Opção mais barata:** plano de 10 GB / 30 dias a US$ 9,30 (US$ 0,93/GB) ou 10 GB da Ubigi a US$ 16 (validade de 7 dias).
 
-### Plano de eSIM Turquia para Viagem de Um Mês para Nômades Digitais
+**Estimativa de dados:** 14 dias × 1 GB/dia = 14 GB + buffer de 30% = 18,2 GB. Arredonde para 20 GB.
 
-**Opção mais barata:** Plano de 20 GB / 30 dias a $13,32 ($0,67/GB) ou 50 GB a $28,79–$39,45.
+20 GB a US$ 13,32 tem melhor valor se você faz streaming ou usa hotspot.
 
-**Estimativa de dados:** 30 dias × 2 GB/dia = 60 GB. Um plano de 50 GB é o mínimo. Para uso mais intenso, considere ilimitado com um limite de FUP alto.
+### Viagem de Um Mês para Nômades Digitais
 
-### Plano de eSIM Turquia para Família ou Grupo
+**Opção mais barata:** plano de 20 GB / 30 dias a US$ 13,32 (US$ 0,67/GB) ou 50 GB a US$ 28,79–US$ 39,45.
 
-**Estratégia mais barata:** Um eSIM de 20 GB+ com hotspot no telefone do viajante principal. Os outros se conectam via Wi-Fi.
+**Estimativa de dados:** 30 dias × 2 GB/dia = 60 GB. Um plano de 50 GB é o mínimo. Para uso mais pesado, considere ilimitado com um limite de FUP alto.
 
-**Comparação de custos para uma família de quatro pessoas, 14 dias:**
+### Viagens em Família ou Grupo
 
-| Abordagem | Custo total | Notas |
+**Estratégia mais barata:** um eSIM de 20 GB+ com hotspot no telefone do viajante principal. Os outros conectam via Wi-Fi.
+
+**Comparação de custo para uma família de quatro, 14 dias:**
+
+| Approach | Total cost | Notes |
 |---|---|---|
-| 4 eSIMs separados de 10 GB | $37–$62 | Cada pessoa tem seus próprios dados |
-| 1 × 50 GB eSIM + hotspot | $20–$30 | Compartilhar via Wi-Fi |
-| Roaming da operadora doméstica | $840 | $15/dia × 4 pessoas × 14 dias |
-| Aluguel de Pocket Wi-Fi | $84–$140 | Aluguel de $6–10/dia |
+| 4 eSIMs separados de 10 GB | US$ 37–US$ 62 | Cada pessoa tem seus dados |
+| 1 × 50 GB eSIM + hotspot | US$ 20–US$ 30 | Compartilhe via Wi-Fi |
+| Roaming da operadora de casa | US$ 840 | US$ 15/dia × 4 pessoas × 14 dias |
+| Aluguel de Wi-Fi de bolso | US$ 84–US$ 140 | Aluguel de US$ 6–10/dia |
 
-### Plano de eSIM Turquia para Viajante de Negócios
+### Viajantes de Negócios
 
-**Opção confiável mais barata:** Plano de 10 GB na Turkcell (Nomad) ou um provedor com troca automática de rede (Roami).
+**Opção confiável mais barata:** plano de 10 GB na Turkcell (Nomad) ou um provedor com troca automática de rede (Roami).
 
-Viajantes de negócios precisam de cobertura confiável e velocidade consistente. O plano mais barato é inútil se perder sinal durante uma chamada com um cliente. A Turkcell tem a cobertura nacional mais ampla e a velocidade de download mediana mais rápida a 67,4 Mbps. Leia o [guia de comparação de provedores](/blog/best-turkey-esim-providers/) para o mapa completo de modos de falha.
+Viajantes de negócios precisam de cobertura confiável e velocidade consistente. O plano mais barato não vale nada se perder sinal durante uma ligação com cliente. A Turkcell tem a mais ampla cobertura nacional e a velocidade mediana de download mais rápida, a 67,4 Mbps. Leia o [guia de comparação de provedores](/blog/best-turkey-esim-providers/) para o mapa completo de modos de falha.
 
-## Histórico de Preços e Ofertas Atuais
+### Opções Mensais e Pré-Pagas (Pay-As-You-Go) de eSIM para a Turquia
 
-Esta seção rastreia mudanças de preços e códigos de desconto verificados. É atualizada mensalmente. Os preços têm sido estáveis durante 2026. Sem quedas ou aumentos significativos.
+Um eSIM mensal para a Turquia, na prática, significa um plano de 30 dias — e é exatamente o que a maioria dos provedores vende, por isso estadas de um mês são as mais baratas por GB. Um eSIM pré-pago (pay-as-you-go) genuíno para a Turquia, cobrado por megabyte sem expiração, está quase inexistente entre os provedores de viagem; os equivalentes mais próximos são planos de recarga que deixam você adicionar dados a um perfil ativo, e produtos locais recarregáveis como o eSIM Merhaba baseado na Türk Telekom, vendido por revendedores. Se você quer um comportamento PAYG verdadeiro sem se comprometer com um SIM local, escolha um provedor com recargas pagas em vez de um modelo de QR novo a cada compra, e verifique o preço de recarga antes de comprar, porque pode ter pior valor que o plano base. Além de 30 dias, algumas marcas comercializam planos de longa validade — até um ano — que só valem a pena se você realmente retornar dentro da janela; os planos estilo ilimitado de 180 dias da Maya Mobile a US$ 1,67/dia, perfilados no [guia de provedores](/blog/best-turkey-esim-providers/), preenchem exatamente esse nicho. Operadoras locais também vendem pacotes turísticos fixos em lojas e online, mas esses carregam a marcação documentada anteriormente neste guia. Lembre-se de que um SIM pré-pago turco local inicia o relógio de registro de IMEI de 120 dias, enquanto um eSIM de viagem não.
 
-### Histórico de Preços do eSIM Turquia: Plano de 20 GB / 30 Dias
+## Histórico de Preços de eSIM para a Turquia e Ofertas Atuais
 
-| Mês | eSIM-Now | Saily | Nomad | Roami |
+Esta seção acompanha mudanças de preço e códigos de desconto verificados. É atualizada mensalmente. Os preços estão estáveis ao longo de 2026. Nenhuma queda ou alta significativa.
+
+### Histórico de Preços: Planos de 20 GB / 30 Dias
+
+| Month | eSIM-Now | Saily | Nomad | Roami |
 |---|---|---|---|---|
-| Janeiro 2026 | $13.32 | $19.54 | ~$30 | ~$14 |
-| Abril 2026 | $13.32 | $19.54 | ~$30 | ~$14 |
-| Julho 2026 | $13.32 | $19.54 | ~$30 | ~$14 |
-| Outubro 2026 | $13.32 | $19.54 | ~$30 | ~$14 |
+| Janeiro de 2026 | US$ 13,32 | US$ 22,99 | ~US$ 20 | ~US$ 14 |
+| Abril de 2026 | US$ 13,32 | US$ 22,99 | ~US$ 20 | ~US$ 14 |
+| Julho de 2026 | US$ 13,32 | US$ 22,99 | ~US$ 20 | ~US$ 14 |
+| Outubro de 2026 | US$ 13,32 | US$ 22,99 | ~US$ 20 | ~US$ 14 |
 
-### Códigos de Desconto Verificados para eSIM Turquia
+### Códigos de Desconto de eSIM para a Turquia Verificados
 
-| Provedor | Código | Desconto | Verificado |
+| Provider | Code | Discount | Verified |
 |---|---|---|---|
-| Saily | GIZMODO | 20 GB por $19,54 | Setembro 2026 |
-| Roami | Novo usuário | 20% de desconto | Setembro 2026 |
-| Nomad | ESIMPNOMAD20 | Até 20% de desconto | Setembro 2026 |
-| Holafly | STEPHANDPETE | 5% de desconto | Setembro 2026 |
-| Yesim | ESIMP | 15% de desconto | Setembro 2026 |
-| Airalo | ESIMP15 | 15% de desconto | Setembro 2026 |
-| GigSky | ESIMP | 15% de desconto | Setembro 2026 |
+| Saily | GIZMODO | 15% de desconto – 20 GB US$ 22,99 → US$ 19,54 | Setembro de 2026 |
+| Roami | web20 | 20% de desconto na primeira compra | Setembro de 2026 |
+| Nomad | ESIMPNOMAD20 | Até 20% de desconto | Setembro de 2026 |
+| Yesim | ESIMP | 15% de desconto | Setembro de 2026 |
+| Airalo | ESIMP15 | 15% de desconto | Setembro de 2026 |
+| GigSky | ESIMP | 15% de desconto | Setembro de 2026 |
 
-### O Que Realmente Reduz o Custo do eSIM Turquia
+### O que Realmente Reduz o Custo
 
 1. Verifique o site do provedor para códigos promocionais atuais.
-2. Procure um link de indicação de um amigo ou comunidade de viagens.
-3. Verifique aplicativos de cashback para oportunidades de acumulação.
-4. Compre o maior plano que você realisticamente precisa. A economia por GB de um plano maior ofusca qualquer desconto percentual.
+2. Procure um link de indicação de um amigo ou comunidade de viagem.
+3. Verifique aplicativos de cashback para oportunidades de acúmulo.
+4. Compre o maior plano que realistamente precisa. A economia por GB de um plano maior ofusca qualquer desconto percentual.
 
-Um desconto de 20% em um plano de 1 GB economiza $0,60. Comprar um plano de 10 GB em vez de um plano de 1 GB economiza $12,30 por GB. A decisão sobre o tamanho do plano importa muito mais do que o código de desconto.
+Um desconto de 20% em um plano de 1 GB economiza US$ 0,60. Comprar um plano de 10 GB em vez de 1 GB economiza US$ 12,30 por GB. A decisão de tamanho de plano importa muito mais que o código de desconto.
 
-### Ordem de Acumulação de Descontos do eSIM Turquia
+### Ordem de Acúmulo de Descontos
 
-1. Upgrade do tamanho do plano (maior economia por GB)
-2. Desconto para novo usuário (20% de desconto)
+1. Upgrade de tamanho de plano (maior economia por GB)
+2. Desconto para novos usuários (20% de desconto)
 3. Código de indicação (10–15% de desconto)
 4. Cashback (2–5% de volta)
-5. Cartão sem taxa de transação internacional (2–3% de economia)
+5. Cartão sem taxa de transação externa (economia de 2–3%)
 
-### Armadilha do Desconto do eSIM Turquia
+### A Armadilha do Desconto
 
-Alguns provedores inflam o preço base antes de aplicar um desconto. Uma oferta de "50% de desconto" em um plano que já estava 25% acima da taxa de mercado não é uma oferta. Sempre compare o preço com desconto com a taxa de mercado por GB.
+Alguns provedores infla o preço base antes de aplicar um desconto. Uma oferta de "50% de desconto" em um plano que já estava 25% acima da taxa de mercado não é oferta. Sempre compare o preço com desconto com a taxa de mercado por GB.
 
-## Armadilhas de Preço a Evitar
+### Compilações de Ofertas e Money Saving Expert
 
-Seis armadilhas de preço inflam o custo total de um eSIM Turquia barato. Cada uma tem uma correção específica.
+Leitores do Reino Unido frequentemente chegam a esta página a partir de compilações de ofertas como o Money Saving Expert, na esperança de uma listagem de eSIM barato para a Turquia. Esses sites concentram-se em contratos de telefone e banda larga do mercado local, e os preços de eSIM de viagem mudam com muita frequência para que mantenham listagens confiáveis de entrada para a Turquia. Sites agregadores de cupons são igualmente pouco confiáveis: seus códigos de eSIM para a Turquia estão frequentemente expirados ou bloqueados por região. As fontes confiáveis são a própria página de checkout do provedor e a tabela de descontos verificados acima, que reconfirmamos mensalmente. Se um site de ofertas cotar um preço de eSIM para a Turquia, trate-o como uma pista, não uma cotação, e confirme antes de comprar.
 
-### Comprar um Plano de eSIM Turquia Muito Pequeno
+## Armadilhas de Preço de eSIM para a Turquia a Evitar
+
+Seis armadilhas de preço infla o custo total de um eSIM barato para a Turquia. Cada uma tem uma correção específica.
+
+### Armadilha 1: Comprar um Plano Pequeno Demais
 
 Um plano de 1 GB ou 3 GB acaba no meio da viagem e você não pode recarregar. **Correção:** Compre sua necessidade estimada mais 30%, arredonde para o próximo nível.
 
-### Comprar eSIM Turquia Ilimitado Sem Verificar o FUP
+### Armadilha 2: Comprar Ilimitado sem Verificar o FUP
 
-O plano ilimitado faz throttling após 1–2 GB por dia e você não pode fazer streaming ou usar hotspot. **Correção:** Verifique o limite diário de FUP antes de comprar. Se não for divulgado, assuma o pior.
+O plano ilimitado limita após 1–2 GB por dia e você não pode fazer streaming ou usar hotspot. **Correção:** Verifique o limite diário de FUP antes de comprar. Se não for divulgado, assuma o pior.
 
-### Comprar eSIM Turquia de um Provedor Sem Acesso ao Suporte
+### Armadilha 3: Escolher um Provedor que Você Não Consegue Contatar
 
-O eSIM falha após o pouso e você não consegue alcançar o suporte porque o aplicativo está bloqueado. **Correção:** Escolha um provedor com chat humano que funcione via Wi-Fi. Teste o canal de suporte antes da partida.
+O eSIM falha após o pouso e você não consegue contatar o suporte porque o aplicativo está bloqueado. **Correção:** Escolha um provedor com chat humano que funciona via Wi-Fi. Teste o canal de suporte antes da partida.
 
-### Comprar um Plano de eSIM Turquia na Rede Errada
+### Armadilha 4: Comprar na Rede Errada
 
-O eSIM se conecta a uma rede que não cobre seu destino. **Correção:** Verifique o parceiro de rede antes de comprar. Para viagens rurais, escolha a Turkcell.
+O eSIM conecta-se a uma rede que não cobre seu destino. **Correção:** Verifique o parceiro de rede antes de comprar. Para viagens rurais, escolha a Turkcell.
 
-### Comprar eSIM Turquia no Aeroporto
+### Armadilha 5: Comprar no Aeroporto
 
-O balcão de SIM do aeroporto cobra 70–150% mais do que um eSIM online. **Correção:** Compre um eSIM antes de voar. Instale no Wi-Fi. Ative no pouso.
+O balcão de SIM do aeroporto cobra 70–150% a mais do que um eSIM online. **Correção:** Compre um eSIM antes de voar. Instale via Wi-Fi. Ative ao pousar.
 
-### Comprar eSIM Turquia de um Provedor com Política de Reembolso Ruim
+### Armadilha 6: Ignorar a Política de Reembolso
 
-O eSIM falha e o provedor recusa um reembolso. **Correção:** Leia a política de reembolso antes de comprar. Escolha um provedor com uma política publicada que cubra falha de ativação.
+O eSIM falha e o provedor se recusa a reembolsar. **Correção:** Leia a política de reembolso antes de comprar. Escolha um provedor com política publicada que cubra falha de ativação.
 
 ## Exemplo Real: Tom, Duas Semanas na Capadócia
 
-Tom escolheu um SIM de aeroporto de $5 em vez de um eSIM de viagem de $9,30 apenas pelo preço de etiqueta. Com throttling para 128 Kbps após 2 GB, ele pagou mais por gigabyte utilizável do que o eSIM teria custado — e perdeu o streaming na segunda semana.
+Tom escolheu um SIM de aeroporto de US$ 5 em vez de um eSIM de viagem de US$ 9,30 apenas pelo preço de etiqueta. Limitado a 128 Kbps após 2 GB, ele pagou mais por gigabyte utilizável do que o eSIM teria custado — e perdeu o streaming na segunda semana.
 
-## Qual Viagem, Qual Preço
+## Qual Viagem, Qual Preço de eSIM para a Turquia
 
-| Viagem | Necessidade de dados | Opção real mais barata |
+| Trip | Data need | Cheapest real option |
 | --- | --- | --- |
-| City break de sete dias | 5 GB | eSIM fixo de 5 GB |
+| Feriado de sete dias na cidade | 5 GB | eSIM fixo de 5 GB |
 | Duas semanas mistas | 10–15 GB | eSIM fixo de 10 GB |
-| Streamer intenso | 20 GB mais | 20 GB fixo, não ilimitado |
+| Streamer pesado | 20 GB ou mais | 20 GB fixo, não ilimitado |
 
-## FAQ: Opções Mais Baratas
+## Perguntas Frequentes: As Opções de eSIM mais Barato para a Turquia
 
-### Qual é o eSIM Turquia mais barato?
+### Qual é o eSIM mais barato para a Turquia?
 
-O plano de entrada mais barato é da Roami a $1,99, com 20% de desconto para novo usuário. Para planos maiores, a eSIM-Now oferece o menor preço por GB a $0,67 para um plano de 20 GB / 30 dias. A Saily tem o plano de entrada mais barato amplamente disponível a $3,39 com o código GIZMODO.
+O plano inicial mais barato é o de 1 GB da Roami a US$ 2,99, com 20% de desconto para novos usuários (código web20). A eSIM-Now fica abaixo da faixa baixa a US$ 2,64 para 1 GB / 7 dias e oferece o menor preço por GB no geral — US$ 0,67 em seu plano de 20 GB / 30 dias. Com o código GIZMODO, o plano de 1 GB da Saily cai de US$ 3,99 para US$ 3,39.
 
-### Um eSIM Turquia barato é confiável?
+### Um eSIM barato para a Turquia é confiável?
 
-A confiabilidade depende da rede, não do preço. Um eSIM barato que se conecta à Turkcell pode ser mais confiável em áreas rurais do que um eSIM caro na Türk Telekom. Verifique o parceiro de rede antes de comprar, não apenas o preço.
+A confiabilidade depende da rede, não do preço. Um eSIM barato que conecta à Turkcell pode ser mais confiável em áreas rurais do que um eSIM caro na Türk Telekom. Verifique o parceiro de rede antes de comprar, não apenas o preço.
 
-### Qual é o eSIM Turquia ilimitado mais barato?
+### Qual é o eSIM ilimitado mais barato para a Turquia?
 
-Os planos ilimitados da Saily começam a $25 por 7 dias com FUP de 5 GB/dia e hotspot ilimitado. O plano ilimitado de 5 dias da Holafly é aproximadamente $19, mas tem um limite de hotspot de 500 MB/dia. A Roami oferece FUP transparente sem throttling oculto para os primeiros 30 GB.
+O plano ilimitado de 30 dias da Saily custa US$ 48,99 com FUP de 5 GB/dia e hotspot ilimitado. O plano ilimitado de 5 dias da Holafly é de aproximadamente US$ 20,50, mas carrega um limite de hotspot de 1 GB/dia. A Roami publica sua cota de uso justo antecipadamente — 1–2 GB por dia em velocidade máxima, reiniciando à meia-noite — sem limitação oculta.
 
-### Por que meu eSIM Turquia barato não está funcionando?
+### Por que meu eSIM barato para a Turquia não funciona?
 
-A causa mais comum é que você não o instalou antes da partida. O bloqueio do BTK impede o acesso às plataformas dos provedores de dentro da Turquia. Outras causas incluem seleção errada da linha de dados, roaming desativado ou problemas de APN. Leia o [guia de ativação](/blog/how-turkey-esim-works-activation/).
+A causa mais comum é que você não o instalou antes da partida. O bloqueio da BTK impede o acesso às plataformas dos provedores de dentro da Turquia. Outras causas incluem seleção errada da linha de dados, roaming desativado ou problemas de APN. Leia o [guia de ativação](/blog/how-turkey-esim-works-activation/).
 
-### É mais barato comprar um eSIM Turquia ou um SIM local?
+### É mais barato comprar um eSIM para a Turquia ou um SIM local?
 
-Para viagens inferiores a 30 dias e necessidades apenas de dados, um eSIM de viagem é sempre mais barato. Um eSIM de viagem de 10 GB custa $9,30–$15,50. Um SIM turco local com dados equivalentes custa $20–$38 após taxas de ativação. O eSIM também evita registro de passaporte e riscos de IMEI.
+Para viagens abaixo de 30 dias e necessidades somente dados, um eSIM de viagem é sempre mais barato. Um eSIM de viagem de 10 GB custa US$ 9,30–US$ 15,50. Um SIM turco local com dados equivalentes custa US$ 20–US$ 38 após taxas de ativação. O eSIM também evita registro de passaporte e riscos de IMEI.
 
-### Posso recarregar um eSIM Turquia barato de dentro da Turquia?
+### Posso recarregar um eSIM barato para a Turquia de dentro da Turquia?
 
-Não, não se o seu provedor estiver bloqueado pelo BTK. A maioria dos principais provedores está confirmada como bloqueada. Compre dados suficientes com antecedência para cobrir toda a sua viagem. A Klook não está na lista de bloqueados se você precisar de um backup.
+Não, não se seu provedor estiver bloqueado pela BTK. A maioria dos grandes provedores está confirmada como bloqueada. Compre dados suficientes antecipadamente para cobrir toda a viagem. A Klook não está na lista de bloqueio se você precisar de um backup.
 
-### Qual é o eSIM Turquia mais barato para uma viagem de 7 dias?
+### Qual é o eSIM mais barato para a Turquia para uma viagem de 7 dias?
 
-Um plano de 5 GB / 30 dias a $6,28 ($1,26/GB) é o melhor valor para uma viagem de 7 dias. Se você faz streaming ou usa hotspot, um plano de 10 GB a $9,30 é o próximo passo.
+Um plano de 5 GB / 30 dias a US$ 6,28 (US$ 1,26/GB) é o melhor valor para uma viagem de 7 dias. Se você faz streaming ou usa hotspot, um plano de 10 GB a US$ 9,30 é o próximo passo.
 
-### Existem taxas ocultas com eSIMs Turquia baratos?
+### Existem taxas ocultas em eSIMs baratos para a Turquia?
 
-eSIMs de viagem respeitáveis não cobram taxas de ativação ocultas. Custos ocultos aparecem quando você compra SIMs turcos locais (taxas de ativação, registro de IMEI) ou SIMs de aeroporto (margens do revendedor, taxas de cartão SIM).
+eSIMs de viagem de reputação não cobram taxas de ativação ocultas. Custos ocultos aparecem quando você compra SIMs turcos locais (taxas de ativação, registro de IMEI) ou SIMs de aeroporto (marcações de revendedor, taxas de chip).
 
-### Qual é o eSIM Turquia mais barato com cobertura da Turkcell?
+### Qual é o eSIM mais barato para a Turquia com cobertura Turkcell?
 
-A Nomad oferece 10 GB / 30 dias por aproximadamente $19–$20 com cobertura da Turkcell. A HelloRoam também se conecta à Turkcell e Vodafone, com planos a partir de $3,35 por dia.
+A Nomad oferece 10 GB / 30 dias por US$ 13 com cobertura Turkcell — cerca de US$ 1,30 por GB. A HelloRoam usa Vodafone e Türk Telekom, com planos ilimitados a partir de US$ 3,35 por dia e uma janela de reembolso de 180 dias em eSIMs não ativados.
 
-### O Trip.com é realmente $0,13 por dia?
+### O Trip.com realmente custa US$ 0,13 por dia?
 
-O Trip.com anuncia planos diários ultra-baratos, mas a cota de dados por dia é tipicamente muito pequena (100–500 MB). Para uso prático, você precisa de pelo menos 1 GB por dia. O plano de $0,13/dia não é adequado para uso típico de viagem.
+O Trip.com anuncia planos diários ultrac baratos, mas a franquia de dados por dia é tipicamente muito pequena (100–500 MB). Para uso prático, você precisa de pelo menos 1 GB por dia. O plano de US$ 0,13/dia não é adequado para uso típico de viagem.
 
-### Qual é a maneira mais barata de obter dados para uma viagem em família à Turquia?
+### Qual é a forma mais barata de obter dados para uma viagem em família à Turquia?
 
-Compre um eSIM de alto volume de dados (20 GB+) com hotspot irrestrito no telefone do viajante principal e compartilhe dados via Wi-Fi. Isso é mais barato do que comprar eSIMs separados para cada membro da família. Roami e Saily permitem hotspot irrestrito.
+Compre um eSIM de alto volume (20 GB+) com hotspot irrestrito no telefone do viajante principal e compartilhe dados via Wi-Fi. Isso é mais barato do que comprar eSIMs separados para cada membro da família. Roami e Saily permitem hotspot irrestrito.
 
-### Um eSIM Turquia barato inclui chamadas e SMS?
+### Um eSIM barato para a Turquia inclui chamadas e SMS?
 
-Não. eSIMs de viagem são apenas de dados. Eles não incluem um número de telefone turco, chamadas nativas ou SMS. Use aplicativos VoIP para chamadas via dados. Para chamadas nativas e SMS, você precisa de um SIM turco local. Leia o [guia de hotspot e chamadas](/blog/turkey-esim-number-calls-sms-hotspot/).
+Não. eSIMs de viagem são somente dados. Não incluem um número de telefone turco, chamadas nativas ou SMS. Use aplicativos VoIP para chamadas via dados. Para chamadas e SMS nativos, você precisa de um SIM turco local. Leia o [guia de hotspot e chamadas](/blog/turkey-esim-number-calls-sms-hotspot/).
 
-### O que acontece se eu comprar um eSIM Turquia barato e ele não funcionar?
+### O que acontece se eu comprar um eSIM barato para a Turquia e ele não funcionar?
 
-Entre em contato com o suporte do provedor. Se o eSIM foi instalado corretamente e o telefone é compatível, a maioria dos problemas é resolvida verificando a linha de dados, ativando o roaming ou reiniciando o telefone. A Roami oferece suporte humano 24 horas por dia, 7 dias por semana. Se o provedor estiver bloqueado e você não conseguir alcançar o suporte, um reembolso pode não ser possível de dentro da Turquia.
+Contate o suporte do provedor. Se o eSIM foi instalado corretamente e o telefone é compatível, a maioria dos problemas é resolvida verificando a linha de dados, ativando o roaming ou reiniciando o telefone. A Roami oferece suporte humano 24/7. Se o provedor estiver bloqueado e você não conseguir contatar o suporte, um reembolso pode não ser possível de dentro da Turquia — uma razão pela qual viajantes cautelosos testam sua configuração com um [eSIM grátis](/free-esim/) antes de pagar por um plano completo.
 
-### É mais barato comprar um eSIM Turquia antes ou depois da chegada?
+### É mais barato comprar um eSIM para a Turquia antes ou após a chegada?
 
-Antes da chegada, sem exceção. O bloqueio do BTK impede a compra de dentro da Turquia para a maioria dos provedores. Os balcões de SIM do aeroporto cobram 70–150% mais do que os eSIMs online. Comprar antes de voar é mais barato e a única opção confiável.
+Antes da chegada, sem exceção. O bloqueio da BTK impede a compra de dentro da Turquia para a maioria dos provedores. Balcões de SIM de aeroporto cobram 70–150% a mais do que eSIMs online. Comprar antes de voar é tanto mais barato quanto a única opção confiável.
 
 ### Qual é o eSIM mais barato para dados ilimitados na Turquia?
 
-O plano ilimitado da Saily com FUP de 5 GB/dia é a opção ilimitada mais barata amplamente disponível a $25 por 7 dias. A Roami oferece planos ilimitados com FUP transparente e sem throttling oculto para os primeiros 30 GB, com 20% de desconto para novo usuário.
+O plano ilimitado da Saily com FUP de 5 GB/dia custa US$ 48,99 por 30 dias — o menor custo por dia entre os planos ilimitados amplamente disponíveis. A Roami publica sua cota de uso justo antecipadamente (1–2 GB por dia em velocidade máxima, reiniciando à meia-noite) com 20% de desconto para novos usuários.
 
 ### A Turquia tem ofertas de eSIM baratas para turistas?
 
-Sim. As melhores ofertas para turistas são o código GIZMODO da Saily (20 GB por $19,54), o desconto de 20% para novo usuário da Roami (entrada de $1,99) e o plano de 20 GB da eSIM-Now a $13,32 ($0,67/GB). Todos exigem compra antes da partida devido ao bloqueio do BTK.
+Sim. As melhores ofertas para turistas são o código GIZMODO da Saily (15% de desconto — 20 GB cai para US$ 19,54), o desconto de 20% para novos usuários da Roami (entrada a US$ 2,99, código web20) e o plano de 20 GB da eSIM-Now a US$ 13,32 (US$ 0,67/GB). Todos exigem compra pré-partida devido ao bloqueio da BTK.
 
-### Qual é o eSIM Turquia mais barato para 10 dias?
+### Qual é o eSIM mais barato para a Turquia para 10 dias?
 
-Um plano de 10 GB / 30 dias a $9,30 ou Ubigi a $14 cobre uma viagem de 10 dias com margem. Se você precisar de mais dados, um plano de 20 GB a $13,32 é melhor valor por GB.
+Um plano de 10 GB / 30 dias a US$ 9,30 ou 10 GB da Ubigi a US$ 16 (7 dias) cobre uma viagem de 10 dias com margem. Se você precisa de mais dados, um plano de 20 GB a US$ 13,32 tem melhor valor por GB.
 
-### Posso obter um eSIM Turquia barato com um número do Reino Unido?
+### Posso obter um eSIM barato para a Turquia com número do Reino Unido?
 
-eSIMs de viagem são apenas de dados e não incluem um número do Reino Unido. Seu SIM doméstico do Reino Unido permanece ativo para chamadas e SMS enquanto o eSIM Turquia lida com os dados. Esta configuração dual SIM permite manter seu número do Reino Unido para 2FA e alertas bancários sem pagar taxas de roaming de dados.
+eSIMs de viagem são somente dados e não incluem um número do Reino Unido. Seu SIM de casa do Reino Unido permanece ativo para chamadas e SMS enquanto o eSIM da Turquia cuida dos dados. Essa configuração dual SIM permite manter seu número do Reino Unido para 2FA e alertas bancários sem pagar tarifas de dados de roaming.
 
-### Quanto de dados eu preciso para uma semana na Turquia?
+### Quantos dados preciso para uma semana na Turquia?
 
-Para uso típico (mapas, mensagens, redes sociais leves), 1–3 GB por semana geralmente é suficiente. Para uma viagem de 5–7 dias a Istambul, 5–10 GB são recomendados. Se você faz tethering para um laptop ou streaming diário, mire em 10 GB ou mais.
+Para uso típico (mapas, mensagens, redes sociais leves), 1–3 GB por semana costuma ser suficiente. Para uma viagem de 5–7 dias a Istambul, recomenda-se 5–10 GB. Se você usa tethering para notebook ou faz streaming diário, mire 10 GB ou mais.
 
-### Qual é o melhor eSIM Turquia barato para uma viagem de negócios?
+### Qual é o melhor eSIM barato para a Turquia para uma viagem de negócios?
 
-Um plano de 10 GB na Turkcell (Nomad) ou um provedor com troca automática de rede (Roami). Viajantes de negócios precisam de cobertura confiável e velocidade consistente. O plano mais barato é inútil se perder sinal durante uma chamada com um cliente.
+Um plano de 10 GB na Turkcell (Nomad) ou um provedor com troca automática de rede (Roami). Viajantes de negócios precisam de cobertura confiável e velocidade consistente. O plano mais barato não vale nada se perder sinal durante uma ligação com cliente.
 
-## Lista de Verificação Final: Encontrando a Opção Verdadeiramente Mais Barata
+## Lista de Verificação Final: Encontrando o eSIM mais Barato de Verdade para a Turquia
 
-Use esta lista de verificação final para confirmar o tamanho do plano, verificar custos ocultos e preparar seu eSIM Turquia mais barato antes da partida.
+Use esta lista de verificação final para confirmar o tamanho do plano, verificar custos ocultos e preparar seu eSIM mais barato para a Turquia antes da partida.
 
-### Antes de Comprar um eSIM Turquia Barato
+### Antes de Comprar um eSIM Barato para a Turquia
 
 - [ ] Estime a necessidade total de dados para a viagem
-- [ ] Calcule o preço por GB para pelo menos três planos
-- [ ] Verifique a qual rede turca o eSIM se conecta. Leia o [detalhamento das operadoras](/blog/turkcell-vodafone-turk-telekom-esim/).
+- [ ] Confirme que seu aparelho está na [lista de compatibilidade eSIM](/compatibility/)
+- [ ] Calcule o preço por GB de pelo menos três planos
+- [ ] Verifique a qual rede turca o eSIM conecta. Leia o [detalhamento de operadoras](/blog/turkcell-vodafone-turk-telekom-esim/).
 - [ ] Verifique a política de hotspot se precisar compartilhar dados
-- [ ] Verifique o limite de FUP se estiver considerando ilimitado
+- [ ] Verifique o limite de FUP se considerar ilimitado
 - [ ] Procure códigos de desconto
-- [ ] Confirme que o provedor não está bloqueado (ou instale antes da partida). Leia as [regras de disponibilidade do BTK](/blog/turkey-esim-ban-availability-rules/).
+- [ ] Confirme que o provedor não está bloqueado (ou instale antes da partida). Leia as [regras de disponibilidade da BTK](/blog/turkey-esim-ban-availability-rules/).
 - [ ] Verifique a política de reembolso antes de pagar
-- [ ] Verifique a acessibilidade do canal de suporte da Turquia. Leia o [guia dos melhores provedores](/blog/best-turkey-esim-providers/).
-- [ ] Use um cartão sem taxas de transação internacional, se possível
+- [ ] Verifique a acessibilidade do canal de suporte a partir da Turquia. Leia o [guia dos melhores provedores](/blog/best-turkey-esim-providers/).
+- [ ] Use um cartão sem taxas de transação externa se possível
 
-### Antes de Voar com um eSIM Turquia Barato
+### Antes de Voar com eSIM Barato para a Turquia
 
-- [ ] Instale o eSIM no Wi-Fi. Leia o [guia de configuração de APN](/blog/how-turkey-esim-works-activation/).
-- [ ] Rotule a linha como "Turkey"
+- [ ] Instale o eSIM via Wi-Fi. Leia o [guia de configuração de APN](/blog/how-turkey-esim-works-activation/).
+- [ ] Rotule a linha "Turquia"
 - [ ] Defina o eSIM para Dados Móveis
-- [ ] Defina o SIM doméstico para Voz e SMS
+- [ ] Defina o SIM de casa para Voz e SMS
 - [ ] Mantenha o roaming de dados DESLIGADO até o pouso
-- [ ] Baixe mapas offline para reduzir o uso de dados. Leia o [guia de eSIM Turquia para turistas](/blog/turkey-esim-tourists-istanbul-antalya/).
+- [ ] Baixe mapas offline para reduzir o uso de dados. Leia o [guia de eSIM para turistas na Turquia](/blog/turkey-esim-tourists-istanbul-antalya/).
 - [ ] Salve o e-mail do código QR offline
-- [ ] Instale um eSIM de backup se o seu telefone suportar dual eSIM
+- [ ] Instale um eSIM de backup se seu telefone suportar dual eSIM
 
-### Após o Pouso com um eSIM Turquia Barato
+### Após o Pouso com eSIM Barato para a Turquia
 
-- [ ] Ative o Roaming de Dados para o eSIM Turquia
+- [ ] Ative o Roaming de Dados para o eSIM da Turquia
 - [ ] Aguarde 2–5 minutos para o registro na rede
 - [ ] Teste os dados com um mapa ou navegador
-- [ ] Confirme que o SMS funciona no seu SIM doméstico
+- [ ] Confirme que o SMS funciona no seu SIM de casa
 - [ ] Monitore o uso de dados para evitar ficar sem
-- [ ] Se não houver dados: verifique o APN, reinicie o telefone, tente seleção manual de rede
+- [ ] Se não houver dados: verifique APN, reinicie o telefone, tente seleção manual de rede
 
-A opção mais barata nem sempre é um eSIM — um SIM local pode vencer se você precisar de um número turco para uma estadia longa. Para dados puros em uma viagem curta, [os planos de dados da Roami](/turkey-esim/) começam a $1,99 com 20% de desconto para novos usuários, sem throttling oculto para os primeiros 30 GB e hotspot irrestrito. Veja o [guia completo](/blog/turkey-esim-ultimate-guide/) para o quadro completo.
+A opção mais barata nem sempre é um eSIM — um SIM local pode vencer se você precisar de um número turco para uma estada longa. Para dados puros em uma viagem curta, os [planos de dados da Roami](/turkey-esim/) começam em US$ 2,99 com 20% de desconto para novos usuários (código web20), uma cota diária de uso justo publicada em vez de limitação surpresa e hotspot irrestrito. Veja o [guia completo](/blog/turkey-esim-ultimate-guide/) para o quadro completo.
 
-## Conclusão
+## Resumo Final: Quanto Deve Custar um eSIM para a Turquia
 
 - Se você precisa de um número turco ou vai ficar meses, um SIM local pode superar qualquer eSIM de viagem no custo total.
-- Para uma viagem curta apenas de dados, eSIMs online superam os balcões de aeroporto com uma margem ampla — compare o preço por gigabyte utilizável, não a etiqueta.
-- Planos de dados fixos superam planos ilimitados com throttling para a maioria das viagens.
-- Dimensione o plano para a sua viagem, adicione um buffer de 20–30% e verifique o limite de uso justo antes de comprar qualquer coisa ilimitada.
+- Para uma viagem curta somente dados, eSIMs online superam os balcões de aeroporto por ampla margem — compare o preço por gigabyte utilizável, não o de etiqueta.
+- Planos de dados fixos vencem planos ilimitados limitados para a maioria das viagens.
+- Dimensione o plano para sua viagem, adicione um buffer de 20–30% e verifique o limite de uso justo antes de comprar qualquer ilimitado.

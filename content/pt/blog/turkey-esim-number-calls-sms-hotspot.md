@@ -1,11 +1,11 @@
 ---
-title: "eSIM da Turquia: chamadas, SMS e ponto de acesso?"
+title: "O Seu eSIM da Turquia Faz Chamadas, SMS e Hotspot?"
 description: "Veja o que os eSIMs da Turquia realmente podem fazer para chamadas, SMS, 2FA e hotspot, e como o tethering irrestrito da Roami mantém você conectado."
-keywords: ["turkey esim phone number", "turkey esim calls and sms", "turkey esim hotspot", "turkey esim 2fa", "turkey esim wifi calling", "turkey esim data only", "turkey esim voice calls"]
-date: 2026-09-22T00:00:00Z
-lastmod: 2026-09-22T00:00:00Z
+keywords: ["número de telefone eSIM turquia", "chamadas e sms eSIM turquia", "hotspot eSIM turquia", "2fa eSIM turquia", "wifi calling eSIM turquia", "eSIM turquia somente dados", "chamadas de voz eSIM turquia"]
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "A Roami oferece planos eSIM confiáveis, atendendo mais de 1 milhão de viajantes anualmente, e suporta troca automática de rede local para ajudar viajantes a manterem-se conectados globalmente."
 image: "/img/esim/turkey/turkey-esim-number-calls-sms-hotspot.jpg"
 categories: ["eSIM", "Travel", "Turkey"]
 tags: ["Turkey eSIM"]
@@ -13,107 +13,113 @@ readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Um eSIM da Turquia Pode Fazer Chamadas, Obter um Número e Compartilhar Hotspot?"
+h1title: "Um eSIM da Turquia Faz Chamadas, Obtém um Número e Compartilha Hotspot?"
 
-productsTitle: "Popular eSIM Plans"
-hotPostsTitle: "Hot Articles"
-recentPostsTitle: "Recent Posts"
+productsTitle: "Planos eSIM Populares"
+hotPostsTitle: "Artigos em Destaque"
+recentPostsTitle: "Publicações Recentes"
 
 products:
-  - name: "Spain eSIM"
+  - name: "eSIM Espanha"
     flag: "/img/flags/es.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: true
     slug: "spain"
-  - name: "Portugal eSIM"
+  - name: "eSIM Portugal"
     flag: "/img/flags/pt.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "portugal"
-  - name: "France eSIM"
+  - name: "eSIM França"
     flag: "/img/flags/fr.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "france"
-  - name: "Italy eSIM"
+  - name: "eSIM Itália"
     flag: "/img/flags/it.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "italy"
-  - name: "UK eSIM"
+  - name: "eSIM Reino Unido"
     flag: "/img/flags/gb.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "uk"
-  - name: "Netherlands eSIM"
+  - name: "eSIM Holanda"
     flag: "/img/flags/nl.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "netherlands"
 
 recentPosts:
-  - title: "eSIM Compatible Devices List"
+  - title: "Lista de Dispositivos Compatíveis com eSIM"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
+  - title: "Transferência de eSIM entre Plataformas 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
+  - title: "eSIM Duplo Não Funciona? 12 Correções para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Compatibility Guide"
+  - title: "Guia de Compatibilidade eSIM do iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
+  - title: "Guia Completo de Configuração eSIM do iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
+
+
+A maioria dos eSIMs de viagem oferece apenas dados, o que significa nenhum número de telefone turco real, e os resultados de busca por eSIM da Turquia com número se contradizem porque os provedores usam a palavra de maneiras diferentes. Alguns anunciam números virtuais que não conseguem receber SMS de bancos turcos, enquanto outros são simplesmente somente dados e dependem de aplicativos VoIP como WhatsApp ou FaceTime para chamadas. Este guia explica a diferença entre um IMSI e um MSISDN, quando você realmente precisa de um número turco, como o Wi-Fi Calling pode transportar o seu número de casa pela conexão de dados do eSIM, e o que a política de hotspot de cada provedor importante permite antes de fazer tethering.
+
 ## eSIM da Turquia com Número, Chamadas, SMS e Hotspot: O Que Funciona
 
-A maioria dos eSIMs de viagem oferece apenas dados — sem número de telefone turco. Este guia explica como fazer chamadas, receber SMS e usar um hotspot quando seu eSIM não tem um número próprio.
+A maioria dos eSIMs de viagem oferece apenas dados — nenhum número de telefone turco. Este guia explica como fazer chamadas, receber SMS e usar um hotspot quando o seu eSIM não tem número próprio.
 
-## Em Resumo
+## Números, Chamadas e Hotspots de eSIM da Turquia em Resumo
 
-- A maioria dos eSIMs de viagem é apenas de dados, o que significa que eles não vêm com um número de telefone turco real.
-- Você pode usar aplicativos VoIP como WhatsApp e FaceTime para fazer chamadas através dos dados do seu eSIM.
-- O Wi-Fi Calling pode trazer seu número residencial para a conexão de dados do seu eSIM.
-- Mantenha seu SIM doméstico ativo para SMS de 2FA e verifique a política de hotspot antes de fazer tethering.
+- A maioria dos eSIMs de viagem são somente dados, o que significa que não vêm com um número de telefone turco real.
+- Você pode usar aplicativos VoIP como WhatsApp e FaceTime para fazer chamadas pelos dados do seu eSIM.
+- O Wi-Fi Calling pode trazer o seu número de casa para a conexão de dados do seu eSIM.
+- Mantenha o seu SIM de casa ativo para SMS de 2FA, e verifique a política de hotspot antes de fazer tethering.
 
-## O Que Este Guia de Número, Chamadas e Hotspot Resolve
+## O Que Este Guia de Número, Chamadas e Hotspot de eSIM da Turquia Resolve
 
-Este guia resolve a camada de recursos: o que seu eSIM da Turquia realmente pode fazer para número, chamadas, SMS e hotspot — e o que ele não faz? A consulta de pesquisa "eSIM Turquia com número" retorna resultados contraditórios. Alguns provedores afirmam que um número de telefone está incluído. Outros dizem apenas dados. Alguns anunciam números virtuais que não podem receber SMS de bancos turcos. Para saber qual rede seu eSIM usa, leia a [comparação de operadoras](/blog/turkcell-vodafone-turk-telekom-esim/), e confirme que seu telefone suporta uma segunda linha no [guia de compatibilidade de dispositivos](/blog/turkey-esim-device-compatibility/).
+Este guia resolve a camada de recursos: o que o seu eSIM da Turquia realmente pode fazer para número, chamadas, SMS e hotspot — e o que ele não faz? A consulta de busca "eSIM da Turquia com número" retorna resultados contraditórios. Alguns provedores afirmam que um número de telefone está incluído. Outros dizem somente dados. Alguns anunciam números virtuais que não conseguem receber SMS de bancos turcos. Para saber qual rede o seu eSIM usa, leia a [comparação de operadoras](/blog/turkcell-vodafone-turk-telekom-esim/).
 
-Esta página resolve a confusão. Explica o que funciona, o que não funciona e o que fazer em vez disso. Abrange IMSI versus MSISDN, os três tipos de produtos, planos de eSIM de operadoras turcas locais com números reais, quando você realmente precisa de um número turco, números virtuais e a realidade do 2FA, chamadas VoIP através de dados do eSIM, Wi-Fi Calling através de dados do eSIM, a solução alternativa de SMS dual-SIM, políticas de hotspot por provedor e configuração por tipo de viajante.
+E confirme que o seu celular suporta uma segunda linha no [guia de compatibilidade de dispositivos](/blog/turkey-esim-device-compatibility/) ou via [verificador de compatibilidade](/compatibility/) modelo a modelo.
 
-A versão curta: eSIMs de viagem são apenas de dados, aplicativos VoIP lidam com chamadas através de dados, Wi-Fi Calling pode restaurar seu número residencial, e seu SIM doméstico permanece ativo para 2FA.
+Esta página resolve a confusão. Ela explica o que funciona, o que não funciona e o que fazer em vez disso. Cobre IMSI versus MSISDN, os três tipos de produto, planos eSIM de operadoras locais turcas com números reais, quando você realmente precisa de um número turco, números virtuais e a realidade do 2FA, chamadas VoIP pelos dados do eSIM, Wi-Fi Calling pelos dados do eSIM, a solução alternativa de SMS dual-SIM, políticas de hotspot por provedor e configuração por tipo de viajante.
 
-## IMSI vs MSISDN: Por Que a Maioria dos eSIMs É Apenas de Dados
+A versão resumida: eSIMs de viagem são somente dados, aplicativos VoIP cuidam das chamadas pelos dados, o Wi-Fi Calling pode restaurar o seu número de casa, e o seu SIM de casa permanece ativo para 2FA.
 
-A maioria dos eSIMs de viagem é apenas de dados porque usam um IMSI vinculado a um acordo de roaming por atacado, não um MSISDN atribuído a um assinante local verificado. Entender essa diferença explica todas as limitações nesta página.
+## IMSI vs MSISDN: Por Que a Maioria dos eSIMs São Somente Dados
 
-### Como um eSIM da Turquia se Conecta a uma Rede Local
+A maioria dos eSIMs de viagem são somente dados porque usam um IMSI vinculado a um acordo de roaming atacadista, não um MSISDN atribuído a um assinante local verificado. Entender essa diferença explica toda a limitação nesta página.
 
-Seu eSIM de viagem tem um IMSI. É um identificador único vinculado ao acordo por atacado do provedor com uma operadora turca. Quando seu telefone se conecta à Turkcell, Vodafone ou Türk Telekom, a operadora autentica o IMSI e roteia a sessão de dados.
+### Como um eSIM da Turquia Conecta-se a uma Rede Local
 
-Como você não é um assinante local, a operadora não lhe atribui um MSISDN. Um número de telefone turco começando com +90 5XX é alocado para assinantes locais verificados. Atribuir um a um IMSI em roaming exige que o provedor complete o registro de passaporte em seu nome. A maioria dos provedores de eSIM de viagem não pode fazer isso.
+O seu eSIM de viagem tem um IMSI. É um identificador único vinculado ao acordo atacadista do provedor com uma operadora turca. Quando o seu celular conecta-se à Turkcell, Vodafone ou Türk Telekom, a operadora autentica o IMSI e roteia a sessão de dados.
 
-### O Que a Especificação GSMA Diz Sobre Voz no eSIM da Turquia
+Como você não é um assinante local, a operadora não atribui a você um MSISDN. Um número de telefone turco começando com +90 5XX é alocado a assinantes locais verificados. Atribuir um a um IMSI em roaming exige que o provedor conclua o registro de passaporte em seu nome. A maioria dos provedores de eSIM de viagem não pode fazer isso.
 
-A [especificação eSIM GSMA SGP.22](https://www.gsma.com/esim/) define como os perfis de eSIM são provisionados e trocados. Ela não exige suporte a voz ou SMS. Esses são recursos opcionais. É por isso que a mesma tecnologia eSIM pode entregar um plano completo em um país e um plano apenas de dados em outro.
+### O Que a Especificação GSMA Diz Sobre a Voz do eSIM da Turquia
 
-### Três Tipos de Produtos eSIM da Turquia Comparados
+A [especificação eSIM GSMA SGP.22](https://www.gsma.com/esim/) define como os perfis eSIM são provisionados e trocados. Ela não exige suporte a voz ou SMS. Esses são recursos opcionais. É por isso que a mesma tecnologia eSIM pode entregar um plano completo em um país e um plano somente dados em outro.
 
-| Produto | Número de telefone | Chamadas nativas | SMS | Hotspot | Registro | Melhor para |
+### Três Tipos de Produto de eSIM da Turquia Comparados
+
+| Produto | Número de telefone | Chamadas nativas | SMS | Hotspot | Registro | Ideal para |
 |---|---|---|---|---|---|---|
-| eSIM de viagem apenas de dados | ❌ Não | ❌ Não | ❌ Não | Geralmente sim | Nenhum | A maioria dos turistas |
-| eSIM com capacidade de voz | Apenas virtual | Via VoIP | Via VoIP | Varia | Nenhum | Necessidades de chamadas VoIP |
-| SIM turco local | ✅ Sim (+90) | ✅ Sim | ✅ Sim | Geralmente sim | Passaporte + IMEI | Estadias longas, número local |
+| eSIM de viagem somente dados | ❌ Não | ❌ Não | ❌ Não | Geralmente sim | Nenhum | Maioria dos turistas |
+| eSIM com capacidade de voz | Apenas virtual | Via VoIP | Via VoIP | Varia | Nenhum | Necessidade de chamadas VoIP |
+| SIM local turco | ✅ Sim (+90) | ✅ Sim | ✅ Sim | Geralmente sim | Passaporte + IMEI | Estadias longas, número local |
 
-## Planos de Operadoras Turcas Locais com Números Reais
+## Planos de Operadoras Locais Turcas com Números Reais
 
-Se você precisa de um número de telefone turco real, você precisa de um eSIM ou SIM físico de operadora local. Turkcell, Vodafone Turkey e Türk Telekom oferecem pacotes para turistas. Cada um exige registro presencial de passaporte e aciona o relógio de IMEI de 120 dias.
+Se você precisa de um número de telefone turco real, precisa de um eSIM de operadora local ou SIM físico. Turkcell, Vodafone Turkey e Türk Telekom oferecem pacotes para turistas. Cada um exige registro presencial com passaporte e aciona o relógio de IMEI de 120 dias.
 
-### Turkcell Tourist Welcome Pack para Usuários de eSIM da Turquia
+### Turkcell Tourist Welcome Pack
 
 - **Dados:** 20 GB
 - **Minutos:** 200 domésticos
@@ -122,32 +128,32 @@ Se você precisa de um número de telefone turco real, você precisa de um eSIM 
 - **Preço oficial:** 1.800 TL (~$38)
 - **Registro:** Passaporte necessário
 
-A Turkcell tem a melhor cobertura nacional. Os totais no balcão do aeroporto podem incluir taxas de cartão SIM, cobranças de ativação e margens do revendedor.
+A Turkcell tem a melhor cobertura nacional. Totais de balcão de aeroporto podem incluir taxas de cartão SIM, taxas de ativação e markup de revendedor.
 
-### Vodafone Welcome to Turkey para Usuários de eSIM da Turquia
+### Vodafone Welcome to Turkey
 
 - **Dados:** 20 GB
 - **Minutos:** 750 domésticos
 - **SMS:** 1.000 domésticos
 - **WhatsApp:** Dados ilimitados para WhatsApp
 - **Validade:** 28 dias
-- **Preço:** Varia por loja, inclui taxa de uso de rádio de ₺5
-- **Registro:** Passaporte estrangeiro; endereço de hospedagem pode ser solicitado
+- **Preço:** Varia por loja, inclui ₺5 de imposto de uso de rádio
+- **Registro:** Passaporte estrangeiro; endereço de acomodação pode ser solicitado
 
 A Vodafone tem o suporte turístico em inglês mais forte.
 
-### Türk Telekom Tourist Welcome para Usuários de eSIM da Turquia
+### Türk Telekom Tourist Welcome
 
 - **Dados:** 25 GB
 - **Minutos:** 750 domésticos
 - **SMS:** 750 domésticos
 - **Validade:** 28 dias
 - **Preço oficial:** 420 TL (~$9)
-- **Registro:** Passaporte ou ID aceito
+- **Registro:** Passaporte ou documento aceito
 
-A Türk Telekom é a opção local mais barata, mas tem cobertura rural mais fraca. Veja o [detalhamento das três redes](/blog/turkcell-vodafone-turk-telekom-esim/) para o detalhamento completo da rede.
+A Türk Telekom é a opção local mais barata, mas tem cobertura rural mais fraca. Veja a [análise das três redes](/blog/turkcell-vodafone-turk-telekom-esim/) para o detalhamento completo.
 
-### Comparação de Planos de eSIM de Operadoras Locais da Turquia
+### Comparação de Planos eSIM de Operadora Local da Turquia
 
 | Pacote | Dados | Minutos | SMS | Validade | Preço | Registro |
 |---|---|---|---|---|---|---|
@@ -155,72 +161,72 @@ A Türk Telekom é a opção local mais barata, mas tem cobertura rural mais fra
 | Vodafone Welcome to Turkey | 20 GB | 750 | 1.000 | 28 dias | Varia | Passaporte |
 | Türk Telekom Tourist Welcome | 25 GB | 750 | 750 | 28 dias | ~$9 | Passaporte |
 
-### Comparação de Preço por GB do eSIM da Turquia
+### Comparação de Preço por GB de eSIM da Turquia
 
 | Pacote | Preço | Dados | Preço por GB |
 |---|---|---|---|
-| Turkcell Tourist Welcome | ~$38 | 20 GB | $1.90 |
+| Turkcell Tourist Welcome | ~$38 | 20 GB | $1,90 |
 | Vodafone Welcome to Turkey | Varia | 20 GB | Varia |
-| Türk Telekom Tourist Welcome | ~$9 | 25 GB | $0.36 |
+| Türk Telekom Tourist Welcome | ~$9 | 25 GB | $0,36 |
 
-A Türk Telekom oferece o menor preço por GB. O prêmio da Turkcell é o custo de sua vantagem de cobertura.
+A Türk Telekom oferece o menor preço por GB. O prêmio da Turkcell é o custo da sua vantagem de cobertura.
 
 ## Quando Você Realmente Precisa de um Número de Telefone Turco
 
-Um número turco +90 não é necessário para a maioria dos usos turísticos. Você precisa de um apenas se precisar receber SMS de bancos turcos ou serviços governamentais, ligar para telefones fixos turcos que não aceitam VoIP, ligar para empresas que filtram por identificador de chamadas, registrar-se em serviços locais que exigem um número turco, ou usar aplicativos turcos que verificam por SMS.
+Um número turco +90 não é exigido para a maioria dos usos turísticos. Você precisa de um apenas se tiver que receber SMS de bancos turcos ou serviços governamentais, ligar para linhas fixas turcas que não aceitam VoIP, ligar para empresas que filtram por identificador de chamadas, registrar-se em serviços locais que exigem um número turco, ou usar aplicativos turcos que verificam por SMS.
 
-### O Que um Número Turco Não Pode Fazer para Usuários de eSIM da Turquia
+### O Que um Número Turco Não Consegue Fazer
 
-- Não evita o bloqueio do BTK em plataformas estrangeiras de eSIM.
-- Não remove o relógio de registro de IMEI de 120 dias.
-- Não dá acesso a aplicativos de provedores estrangeiros de eSIM de dentro da Turquia. Leia as [regras de bloqueio e IMEI](/blog/turkey-esim-ban-availability-rules/) para o quadro regulatório completo.
+- Ele não evita o bloqueio BTK em plataformas de eSIM estrangeiras.
+- Ele não remove o relógio de registro de IMEI de 120 dias.
+- Ele não dá acesso aos aplicativos de provedores de eSIM estrangeiros de dentro da Turquia. Leia as [regras de bloqueio e IMEI](/blog/turkey-esim-ban-availability-rules/) para o quadro regulatório completo.
 
-### Casos de Uso do Número Local do eSIM da Turquia
+### Casos de Uso de Número Local de eSIM da Turquia
 
 | Caso de uso | Precisa de número turco? | Alternativa |
 |---|---|---|
-| 2FA bancário | Frequentemente sim | SMS de roaming do SIM doméstico |
+| 2FA bancário | Frequentemente sim | SMS de roaming do SIM de casa |
 | Serviços governamentais | Sim | SIM local |
-| Reservas em restaurantes | Às vezes | WhatsApp |
-| Chamadas de transporte | Às vezes | Uber, BiTaksi |
+| Reservas de restaurante | Às vezes | WhatsApp |
+| Aplicativos de transporte | Às vezes | Uber, BiTaksi |
 | Entrega de comida | Às vezes | WhatsApp |
-| Contato com hotel | Não | WhatsApp, e-mail |
+| Contato de hotel | Não | WhatsApp, e-mail |
 | Serviços de emergência | Não | 112 |
 
-## Números Virtuais Realmente Funcionam para 2FA?
+## Números Virtuais Realmente Funcionam para 2FA Turco?
 
-Alguns aplicativos oferecem números virtuais que podem receber códigos de verificação por SMS. Estes são separados do seu eSIM da Turquia. A maioria dos bancos turcos não enviará códigos de 2FA para um número virtual, e os serviços governamentais turcos frequentemente rejeitam números virtuais completamente.
+Alguns aplicativos oferecem números virtuais que podem receber códigos de verificação SMS. Eles são separados do seu eSIM da Turquia. A maioria dos bancos turcos não enviará códigos 2FA para um número virtual, e serviços governamentais turcos frequentemente rejeitam números virtuais de forma absoluta.
 
-### Serviços de Números Virtuais para Usuários de eSIM da Turquia
+### Serviços Populares de Número Virtual
 
 - Google Voice
 - TextNow
 - Burner
 - Hushed
 
-### Limitações dos Números Virtuais para Usuários de eSIM da Turquia
+### Onde os Números Virtuais Falham
 
-- A maioria dos bancos turcos não enviará códigos de 2FA para um número virtual.
-- Os serviços governamentais turcos frequentemente rejeitam números virtuais.
-- Números virtuais não são números móveis reais +90.
-- Eles funcionam através de dados, então dependem da sua conexão de eSIM da Turquia.
+- A maioria dos bancos turcos não enviará códigos 2FA para um número virtual.
+- Serviços governamentais turcos frequentemente rejeitam números virtuais.
+- Números virtuais não são números móveis +90 reais.
+- Eles funcionam via dados, então dependem da sua conexão de eSIM da Turquia.
 
 ### O Que Realmente Funciona para 2FA com eSIM da Turquia
 
-A configuração confiável para 2FA bancário e WhatsApp é:
+A configuração confiável para 2FA bancário e do WhatsApp é:
 
-1. Mantenha seu SIM doméstico ativo para Voz e SMS.
+1. Mantenha o seu SIM de casa ativo para Voz e SMS.
 2. Defina o eSIM da Turquia como a linha de Dados Móveis.
-3. Desative "Permitir Alternância de Dados Móveis".
-4. Seu número residencial recebe SMS via roaming.
+3. Desative "Permitir Troca de Dados Móveis".
+4. O seu número de casa recebe SMS via roaming.
 
-Para a configuração completa de dual-SIM, leia a [configuração de dual-SIM](/blog/how-turkey-esim-works-activation/).
+Para a configuração dual-SIM completa, leia a [configuração dual-SIM](/blog/how-turkey-esim-works-activation/).
 
-## Você Pode Fazer Chamadas Através de Dados?
+## Você Pode Fazer Chamadas Pelos Dados do eSIM?
 
-Você não precisa de um número de telefone turco para fazer chamadas na Turquia. Você precisa de uma conexão de dados e o aplicativo certo. Aplicativos VoIP lidam com chamadas de voz e vídeo através da sua conexão de dados do eSIM da Turquia.
+Você não precisa de um número de telefone turco para fazer chamadas na Turquia. Você precisa de uma conexão de dados e do aplicativo certo. Aplicativos VoIP cuidam de chamadas de voz e vídeo pela conexão de dados do seu eSIM da Turquia.
 
-### Aplicativos VoIP Que Funcionam Através do eSIM da Turquia
+### Aplicativos VoIP Que Funcionam no eSIM da Turquia
 
 - WhatsApp — chamadas de voz e vídeo
 - Telegram — chamadas de voz e vídeo
@@ -231,445 +237,451 @@ Você não precisa de um número de telefone turco para fazer chamadas na Turqui
 - Microsoft Teams — chamadas de negócios
 - Signal — chamadas criptografadas
 
-### Variáveis de Qualidade de Chamada do eSIM da Turquia
+### Chamadas Internacionais a Partir de um eSIM da Turquia
+
+Ligar para fora da Turquia se divide do mesmo modo. Um eSIM da Turquia somente dados não tem número de telefone, então ele não pode fazer chamadas internacionais convencionais de forma alguma — mas via dados, aplicativos como WhatsApp e Skype cuidam da discagem internacional para números de telefone reais, frequentemente gratuitos app-a-app e baratos por minuto para linhas fixas com crédito. Se você carrega um SIM local turco com número real, chamadas internacionais convencionais funcionam, mas às tarifas das operadoras turcas, que não foram projetadas para ser baratas. O padrão prático para a maioria dos viajantes: mantenha o seu SIM de casa acessível para chamadas de entrada, e faça chamadas internacionais de saída pelos dados do eSIM com um aplicativo. Se decidir que realmente precisa de um número turco real, as operadoras locais também vendem pacotes de voz para turistas online bem como em lojas das cidades — compare-os com os tipos de produto acima antes de pagar.
+
+### Variáveis de Qualidade de Chamada de eSIM da Turquia
 
 | Fator | Impacto |
 |---|---|
-| Força do sinal | 4G/5G forte proporciona chamadas claras |
-| Limitação de FUP | 1 Mbps utilizável para voz, ruim para vídeo |
+| Força de sinal | 4G/5G forte dá chamadas nítidas |
+| Limite de FUP | 1 Mbps utilizável para voz, ruim para vídeo |
 | Congestionamento de rede | Horários de pico degradam a qualidade |
-| Configuração incorreta de APN | Chamadas falham se os dados não fluírem |
+| Configuração incorreta de APN | Chamadas falham se os dados não fluem |
 
-### VoIP vs Chamadas Nativas para Usuários de eSIM da Turquia
+### VoIP vs Chamada Nativa
 
-| Recurso | VoIP através do eSIM | Nativo via SIM local |
+| Recurso | VoIP via eSIM | Nativa via SIM local |
 |---|---|---|
-| Ligar para telefones fixos turcos | Sim, identificador de chamadas estrangeiro | Sim |
-| Ligar para celulares turcos | Sim, identificador de chamadas estrangeiro | Sim |
-| Receber chamadas | Apenas via aplicativo | Sim, nativo |
+| Ligar para fixos turcos | Sim, identificador estrangeiro | Sim |
+| Ligar para móveis turcos | Sim, identificador estrangeiro | Sim |
+| Receber chamadas | Apenas via app | Sim, nativa |
 | Chamadas de emergência (112) | Sim, via discador | Sim |
-| Qualidade da chamada | Depende da velocidade dos dados | Consistente |
-| Custo | Gratuito ou baixo | Incluído no plano |
-| Requer número local | Não | Sim |
+| Qualidade de chamada | Depende da velocidade de dados | Consistente |
+| Custo | Grátis ou baixo | Incluído no plano |
+| Exige número local | Não | Sim |
 
-### Regras de VoIP na Turquia para Usuários de eSIM da Turquia
+### O VoIP É Bloqueado na Turquia?
 
-Aplicativos VoIP são amplamente usados na Turquia. WhatsApp, Telegram e FaceTime funcionam através de dados. Algumas redes corporativas e hotéis bloqueiam portas VoIP. Nas redes móveis turcas, o VoIP não é bloqueado pelo BTK. O bloqueio do BTK tem como alvo plataformas de provedores de eSIM, não serviços VoIP.
+Aplicativos VoIP são amplamente usados na Turquia. WhatsApp, Telegram e FaceTime funcionam via dados. Algumas redes corporativas e hotéis bloqueiam portas VoIP. Nas redes móveis turcas, o VoIP não é bloqueado pela BTK. O bloqueio BTK mira plataformas de provedores de eSIM, não serviços VoIP.
 
-## Como o Wi-Fi Calling Funciona Através de Dados?
+## Como o Wi-Fi Calling Funciona em um eSIM?
 
-Se sua operadora doméstica suporta Wi-Fi Calling (VoWiFi) e permite isso na Turquia, você pode usar sua conexão de dados do eSIM da Turquia para fazer e receber chamadas e SMS no seu número residencial. Isso é o mais próximo de uma experiência de número nativo em um eSIM da Turquia apenas de dados.
+Se a sua operadora de casa suporta Wi-Fi Calling (VoWiFi) e o permite na Turquia, você pode usar a conexão de dados do seu eSIM da Turquia para fazer e receber chamadas e SMS no seu número de casa. Esta é a coisa mais próxima de uma experiência de número nativo em um eSIM da Turquia somente dados.
 
-### Como o Wi-Fi Calling Funciona Através do eSIM da Turquia
+### Como o Wi-Fi Calling Encaminha Via Dados
 
-1. O SIM doméstico permanece ativo para Voz e SMS.
-2. O eSIM da Turquia lida com Dados Móveis.
-3. O Wi-Fi Calling roteia chamadas e SMS através da conexão de dados.
-4. Você pode ligar para números residenciais, receber SMS bancários e atender chamadas como se estivesse na sua rede doméstica.
+1. O SIM de casa permanece ativo para Voz e SMS.
+2. O eSIM da Turquia cuida dos Dados Móveis.
+3. O Wi-Fi Calling encaminha chamadas e SMS pela conexão de dados.
+4. Você pode ligar para números de casa, receber SMS bancário e atender chamadas como se estivesse na sua rede de casa.
 
-### Requisitos de Wi-Fi Calling para eSIM da Turquia
+### Requisitos do Wi-Fi Calling
 
-- A operadora doméstica suporta Wi-Fi Calling
-- O telefone suporta Wi-Fi Calling
+- A operadora de casa suporta Wi-Fi Calling
+- O celular suporta Wi-Fi Calling
 - Wi-Fi Calling ativado nas configurações
 - A operadora permite Wi-Fi Calling na Turquia
 
-### Suporte de Wi-Fi Calling das Operadoras para eSIM da Turquia
+### Suporte a Wi-Fi Calling das Operadoras
 
-| Operadora | Wi-Fi Calling na Turquia? | Notas |
+| Operadora | Wi-Fi Calling na Turquia? | Observações |
 |---|---|---|
-| EE (UK) | Varia | Verifique antes da partida |
-| O2 (UK) | Varia | Alguns planos restringem geograficamente |
-| Vodafone (UK) | Varia | Verifique |
-| Three (UK) | Varia | Verifique |
-| Verizon (US) | Frequentemente sim | Verifique termos internacionais |
-| AT&T (US) | Frequentemente sim | Verifique |
-| T-Mobile (US) | Frequentemente sim | Verifique |
+| EE (Reino Unido) | Varia | Verifique antes da partida |
+| O2 (Reino Unido) | Varia | Alguns planos restringem por geolocalização |
+| Vodafone (Reino Unido) | Varia | Verifique |
+| Three (Reino Unido) | Varia | Verifique |
+| Verizon (EUA) | Frequentemente sim | Verifique termos internacionais |
+| AT&T (EUA) | Frequentemente sim | Verifique |
+| T-Mobile (EUA) | Frequentemente sim | Verifique |
 | Deutsche Telekom | Varia | Verifique |
 | Orange (FR) | Varia | Verifique |
 | Vodafone (DE) | Varia | Verifique |
 
-A disponibilidade do Wi-Fi Calling muda. Verifique com sua operadora doméstica antes da partida.
+A disponibilidade do Wi-Fi Calling muda. Verifique com a sua operadora de casa antes da partida.
 
-### Comunicação por Satélite para Usuários de eSIM da Turquia
+### SOS por Satélite: um Bom Backup, Não um Plano
 
-iPhone 14 e mais recentes suportam Emergency SOS via satélite. A Turquia pode não ter cobertura de parceiro de satélite. Não confie nisso como uma ferramenta de segurança primária.
+iPhone 14 e mais recentes suportam SOS de Emergência via satélite. A Turquia pode não ter cobertura de parceiro de satélite. Não dependa dele como ferramenta de segurança primária.
 
-## Resumo Rápido
+Uma ressalva abrange todas essas configurações. O tethering consome da mesma franquia de dados que o próprio celular, a latência importa mais que a velocidade de ponta para qualidade de chamada via dados, e as alegações de mapa de cobertura merecem uma verificação para o seu litoral específico antes de se comprometer com chamadas somente VoIP para a viagem.
 
-Você agora cobriu IMSI versus MSISDN, planos de operadoras locais com números reais, números virtuais e Wi-Fi Calling. O padrão é que um número turco real significa um plano de operadora local, não um eSIM de viagem. Em seguida, cobrimos a solução alternativa de SMS e 2FA dual-SIM e as políticas de hotspot.
+## Resumo Rápido: A Configuração de Número e Dados
+
+Você agora cobriu IMSI versus MSISDN, planos de operadora local com números reais, números virtuais e Wi-Fi Calling. O padrão é que um número turco real significa um plano de operadora local, não um eSIM de viagem. A seguir, cobrimos a solução alternativa de SMS dual-SIM e 2FA e as políticas de hotspot.
 
 ## Solução Alternativa de SMS e 2FA Dual-SIM
 
-Um eSIM da Turquia apenas de dados não tem MSISDN e não pode receber SMS. A solução é simples: mantenha seu SIM doméstico ativo para Voz e SMS, defina o eSIM da Turquia para Dados Móveis e desative a alternância de dados móveis.
+Um eSIM da Turquia somente dados não tem MSISDN e não pode receber SMS. A solução é simples: mantenha o seu SIM de casa ativo para Voz e SMS, defina o eSIM da Turquia para Dados Móveis, e desative a troca de dados móveis.
 
-### Como a Entrega de SMS Dual-SIM Funciona com o eSIM da Turquia
+### Como a Entrega de SMS Dual-SIM Funciona com eSIM da Turquia
 
-Quando tanto um SIM doméstico quanto um eSIM da Turquia estão instalados, seu telefone suporta duas linhas ativas. O SMS é entregue à linha associada ao número do destinatário.
+Quando tanto um SIM de casa quanto um eSIM da Turquia estão instalados, o seu celular suporta duas linhas ativas. O SMS é entregue à linha associada ao número do destinatário.
 
 **Configuração recomendada:**
 
-- SIM doméstico: Voz e SMS
+- SIM de casa: Voz e SMS
 - eSIM da Turquia: Dados Móveis
-- Desative "Permitir Alternância de Dados Móveis"
+- Desative "Permitir Troca de Dados Móveis"
 
-### O Que o eSIM da Turquia Não Pode Fazer para SMS
+### O Que o eSIM Não Consegue Fazer para SMS
 
-Um eSIM da Turquia apenas de dados não tem MSISDN e não pode receber SMS. Mantenha seu SIM doméstico ativo para 2FA.
+Um eSIM da Turquia somente dados não tem MSISDN e não pode receber SMS. Mantenha o seu SIM de casa ativo para 2FA.
 
 ### Comparação de Capacidade de SMS para eSIM da Turquia
 
-| Capacidade | SIM doméstico (roaming) | eSIM da Turquia | SIM turco local |
+| Capacidade | SIM de casa (roaming) | eSIM da Turquia | SIM local turco |
 |---|---|---|---|
 | Receber SMS | ✅ Sim | ❌ Não | ✅ Sim |
-| Enviar SMS | ✅ Sim (taxas de roaming) | ❌ Não | ✅ Sim |
-| Receber 2FA do banco | ✅ Sim | ❌ Não | ✅ Sim |
+| Enviar SMS | ✅ Sim (tarifas de roaming) | ❌ Não | ✅ Sim |
+| Receber 2FA de banco | ✅ Sim | ❌ Não | ✅ Sim |
 | Verificação do WhatsApp | ✅ Sim | ❌ Não | ✅ Sim |
-| Chamadas nativas | ✅ Sim (taxas de roaming) | ❌ Não | ✅ Sim |
+| Chamadas nativas | ✅ Sim (tarifas de roaming) | ❌ Não | ✅ Sim |
 
-### Custo de Roaming do SIM Doméstico com eSIM da Turquia
+### Custo de Roaming do SIM de Casa com eSIM da Turquia
 
-SMS recebidos são tipicamente gratuitos ou de baixo custo. SMS enviados e chamadas incorrem em taxas de roaming. Mantenha o roaming de dados desligado no SIM doméstico para evitar cobranças de dados. Para escolhas em nível de rede, veja o [guia de modos de falha](/blog/best-turkey-esim-providers/).
+SMS de entrada é tipicamente grátis ou de baixo custo. SMS e chamadas de saída incorrem em tarifas de roaming. Mantenha o roaming de dados desligado no SIM de casa para evitar cobranças de dados. Para escolhas em nível de rede, veja o [guia de modos de falha](/blog/best-turkey-esim-providers/).
 
-## Políticas de Hotspot e Tethering por Provedor
+## Políticas de Hotspot e Tethering de eSIM da Turquia por Provedor
 
-A capacidade de hotspot é uma das diferenças mais importantes entre os planos de eSIM da Turquia. Ela é frequentemente enterrada nas letras miúdas. Um [plano de dados da Turquia](/turkey-esim/) com hotspot irrestrito e FUP transparente mantém as regras de tethering claras.
+A capacidade de hotspot é uma das diferenças mais importantes entre planos de eSIM da Turquia. Ela frequentemente está enterrada nas letras miúdas. Um [plano de dados da Turquia](/turkey-esim/) com hotspot irrestrito e franquias diárias de dados simples mantém as regras de tethering claras.
 
-### Políticas de Hotspot do eSIM da Turquia por Provedor
+### Políticas de Hotspot de eSIM da Turquia por Provedor
 
-| Provedor | Hotspot de dados fixos | Hotspot ilimitado | Notas |
+| Provedor | Hotspot de dados fixos | Hotspot ilimitado | Observações |
 |---|---|---|---|
 | Saily | Irrestrito | Ilimitado | Melhor para compartilhamento familiar |
 | Airalo | Irrestrito | Varia | Verifique detalhes do plano |
 | Nomad | Irrestrito | N/A | Apenas planos de dados fixos |
-| Holafly | N/A | Limite de 500 MB/dia | Não adequado para compartilhamento com laptop |
+| Holafly | N/A | Limite de 1 GB/dia | Não adequado para compartilhar com notebook |
 | Ubigi | Irrestrito | Varia | Verifique detalhes do plano |
 | Roami | Irrestrito | Irrestrito | Todos os planos incluem hotspot |
 | Klook | Varia | Varia | Verifique detalhes do plano |
 | Yesim | Irrestrito | Varia | Verifique detalhes do plano |
 
-### Por Que os Planos Ilimitados de eSIM da Turquia Restringem o Hotspot
+### Por Que Planos Ilimitados de eSIM da Turquia Restringem Hotspot
 
-O tethering consome mais dados do que o uso apenas do telefone. Um laptop executando chamadas de vídeo, sincronização na nuvem e navegação na web pode consumir 3–5 GB por dia. Os provedores limitam o hotspot para evitar uso desproporcional da rede.
+O tethering consome mais dados que o uso apenas no celular. Um notebook rodando chamadas de vídeo, sincronização em nuvem e navegação na web pode consumir 3–5 GB por dia. Os provedores limitam o hotspot para evitar uso desproporcional da rede.
 
-### Como os Provedores Detectam o Hotspot do eSIM da Turquia
+### Como os Provedores Detectam Hotspot de eSIM da Turquia
 
-- Inspeção de TTL — o tráfego em tethering tem um TTL diferente
+- Inspeção TTL — o tráfego compartilhado tem um TTL diferente
 - Análise de User-Agent — navegadores de desktop enviam cabeçalhos diferentes
 - Padrões de volume de dados — picos repentinos
-- Inspeção profunda de pacotes — identificação de tráfego de sistema operacional de desktop
+- Inspeção profunda de pacotes — identificando tráfego de SO desktop
 
 Alguns provedores limitam ou bloqueiam o hotspot quando detectado. Verifique os termos do plano.
 
-### Consumo de Dados do Hotspot do eSIM da Turquia por Atividade
+### Consumo de Dados de Hotspot de eSIM da Turquia por Atividade
 
 | Atividade | Dados por hora |
 |---|---|
 | Navegação na web | 50–100 MB |
 | E-mail e mensagens | 10–30 MB |
 | Chamadas de vídeo (Zoom, Meet) | 500 MB – 1,5 GB |
-| Sincronização na nuvem | 100–500 MB |
+| Sincronização em nuvem | 100–500 MB |
 | Streaming de vídeo (HD) | 1–3 GB |
 | Atualizações de software | 1–5 GB |
 
-Um laptop executando chamadas de vídeo, sincronização na nuvem e navegação na web consome 3–5 GB por dia.
+Um notebook rodando chamadas de vídeo, sincronização em nuvem e navegação na web consome 3–5 GB por dia.
 
-### Estratégia de Hotspot do eSIM da Turquia para Família e Grupo
+### Estratégia de Hotspot de eSIM da Turquia para Famílias e Grupos
 
-1. Compre um eSIM de alto volume de dados (20 GB+) com hotspot irrestrito.
-2. Instale no telefone do viajante principal.
+1. Compre um eSIM de dados altos (20 GB+) com hotspot irrestrito.
+2. Instale no celular do viajante principal.
 3. Ative o hotspot.
-4. Outros dispositivos se conectam via Wi-Fi.
+4. Outros dispositivos conectam-se via Wi-Fi.
 
-Um plano de 50 GB / 30 dias custa cerca de €19,99–$30 e pode cobrir uma família de quatro pessoas por uma viagem de duas semanas. Para cálculos de custo por GB, leia o [guia de custo por GB](/blog/cheapest-turkey-esim/).
+Um plano de 50 GB / 30 dias custa cerca de €19,99–$30 e pode cobrir uma família de quatro por uma viagem de duas semanas. Quer testar primeiro? Alguns provedores oferecem [testes de eSIM grátis](/free-esim/) que você pode tentar antes de se comprometer com o plano familiar. Para a matemática de custo por GB, leia o [guia de custo por GB](/blog/cheapest-turkey-esim/).
 
-### Impacto do Hotspot do eSIM da Turquia na Bateria e Velocidade
+### Impacto de Bateria e Velocidade do Hotspot de eSIM da Turquia
 
-O hotspot drena a bateria mais rápido. Um power bank de 10.000 mAh fornece 2–3 cargas completas do telefone. A velocidade do hotspot pode ser menor que a velocidade apenas do telefone.
+O hotspot esgota a bateria mais rápido. Uma power bank de 10.000 mAh fornece 2–3 cargas completas de celular. A velocidade do hotspot pode ser menor que a velocidade apenas no celular.
 
-## Chamadas de Emergência e Segurança
+## Chamadas de Emergência e Segurança em um eSIM da Turquia
 
-O número de emergência 112 funciona em qualquer rede, mesmo sem um SIM. Você pode discar 112 do seu telefone mesmo se o eSIM da Turquia não estiver ativo. A chamada é roteada através de qualquer rede disponível.
+O número de emergência 112 funciona em qualquer rede, mesmo sem um SIM. Você pode discar 112 do seu celular mesmo se o eSIM da Turquia não estiver ativo. A chamada é roteada através de qualquer rede disponível.
 
 ### Números de Emergência da Turquia para Usuários de eSIM
 
-| Serviço | Número | Notas |
+| Serviço | Número | Observações |
 |---|---|---|
 | Todas as emergências | 112 | Ambulância, polícia, bombeiros |
 | Polícia Turística | 0212 527 45 03 | Istambul |
 | Embaixada | Salve offline | Contate antes da partida |
 
-### Aplicativos de Emergência do eSIM da Turquia
+### Aplicativos de Emergência de eSIM da Turquia
 
-- AFAD — aplicativo turco de desastres e emergências. Veja o [aplicativo de desastres e emergências AFAD](https://www.afad.gov.tr/).
+- AFAD — aplicativo turco de desastre e emergência. Veja o [aplicativo de desastre e emergência AFAD](https://www.afad.gov.tr/).
 - 112 Acil — aplicativo de serviços de emergência
 - WhatsApp — principal aplicativo de mensagens na Turquia
 - Google Translate — modo offline para emergências
 
-## Guia de Configuração por Tipo de Viajante
+## Guia de Configuração de eSIM da Turquia por Tipo de Viajante
 
 Cada tipo de viajante precisa de uma combinação diferente de dados, voz e hotspot. A configuração certa depende da duração da viagem, se você precisa de um número turco e se planeja compartilhar dados.
 
-### Configuração do eSIM da Turquia para Turista de Curta Estadia (1–2 Semanas)
+### Configuração de Turista de Estadia Curta (1–2 Semanas)
 
-- eSIM da Turquia apenas de dados (5–10 GB)
-- SIM doméstico para Voz e SMS
+- eSIM da Turquia somente dados (5–10 GB)
+- SIM de casa para Voz e SMS
 - WhatsApp, Telegram, FaceTime para chamadas
 - Hotspot opcional
 - Wi-Fi Calling se a operadora suportar
 
-### Configuração do eSIM da Turquia para Nômade Digital (1–3 Meses)
+### Configuração de Nômade Digital (1–3 Meses)
 
-- eSIM da Turquia apenas de dados (20 GB ou ilimitado com FUP)
-- SIM doméstico para Voz e SMS
+- eSIM da Turquia somente dados (20 GB ou ilimitado com FUP)
+- SIM de casa para Voz e SMS
 - VoIP para chamadas pessoais e de trabalho
 - SIM local se você precisar de um número turco
 - Hotspot essencial
 - Wi-Fi Calling útil
 
-### Configuração do eSIM da Turquia para Viajante de Negócios
+### Configuração de Viajante de Negócios
 
-- eSIM da Turquia apenas de dados (10–20 GB)
-- SIM doméstico para Voz e SMS
+- eSIM da Turquia somente dados (10–20 GB)
+- SIM de casa para Voz e SMS
 - SIM local se você precisar de chamadas turcas nativas
-- Hotspot para conectividade do laptop
-- Wi-Fi Calling para chamadas do escritório em casa
+- Hotspot para conectividade com notebook
+- Wi-Fi Calling para chamadas de home office
 
-### Configuração do eSIM da Turquia para Família ou Grupo
+### Configuração de Família ou Grupo
 
-- Um eSIM da Turquia com hotspot no telefone principal
-- SIMs locais ou eSIMs apenas de dados para os outros
+- Um eSIM da Turquia com hotspot no celular principal
+- SIMs locais ou eSIMs somente dados para os demais
 - VoIP para todos
-- Cada viajante mantém o SIM doméstico para 2FA
-- O telefone principal compartilha dados via Wi-Fi
+- Cada viajante mantém o SIM de casa para 2FA
+- Celular principal compartilha dados via Wi-Fi
 
-### Configuração do eSIM da Turquia para Visitante de Longa Estadia (3+ Meses)
+### Configuração de Visitante de Estadia Longa (3+ Meses)
 
-- SIM turco local para voz e SMS
+- SIM local turco para voz e SMS
 - eSIM de viagem para dados em dispositivo secundário
 - Discagem nativa via SIM local
 - Monitore o relógio de IMEI de 120 dias
 - Hotspot no eSIM de dados
 
-### Configuração do eSIM da Turquia para Estudante ou Expatriado (6+ Meses)
+### Configuração de Estudante ou Expatriado (6+ Meses)
 
-- SIM turco local para voz e SMS primários
+- SIM local turco para voz e SMS primários
 - eSIM de viagem ou plano de dados local para dados secundários
 - Chamadas nativas via SIM local
 - SIM local para serviços turcos
 - Planeje o registro de IMEI ou use um dispositivo turco
 
-## Solução de Problemas de Chamadas, SMS e Hotspot
+## Solução de Problemas de Chamadas, SMS e Hotspot de eSIM
 
-Cada categoria de falha tem uma causa específica e uma correção específica. Trabalhe pela tabela para o seu sintoma antes de contatar o suporte.
+Cada categoria de falha tem uma causa específica e uma correção específica. Trabalhe pela tabela para o seu sintoma antes de entrar em contato com o suporte.
 
-### Chamadas VoIP do eSIM da Turquia Não Funcionam
+### Chamadas VoIP de eSIM da Turquia Não Funcionam
 
 | Causa | Correção |
 |---|---|
 | Linha de dados não selecionada | Defina o eSIM da Turquia para Dados Móveis |
 | Roaming desligado | Ative o Roaming de Dados para o eSIM |
-| FUP limitado | Verifique o uso; mude para plano de dados fixos |
+| FUP limitado | Verifique uso; troque para plano de dados fixos |
 | APN incorreto | Insira o APN correto |
 | Congestionamento de rede | Tente seleção manual de rede |
-| Permissões do aplicativo | Verifique permissões de microfone e rede |
+| Permissões do app | Verifique permissões de microfone e rede |
 
-### SMS do eSIM da Turquia Não Recebidos no SIM Doméstico
+### SMS de eSIM da Turquia Não Recebido no SIM de Casa
 
 | Causa | Correção |
 |---|---|
-| SIM doméstico não ativo | Ative o SIM doméstico para Voz e SMS |
-| Alternância de dados ligada | Desative Permitir Alternância de Dados Móveis |
-| Problema com a operadora | Contate a operadora doméstica |
+| SIM de casa não ativo | Ative o SIM de casa para Voz e SMS |
+| Troca de dados ativa | Desative Permitir Troca de Dados Móveis |
+| Problema de operadora | Contate a operadora de casa |
 | Conflito de Wi-Fi Calling | Desative o Wi-Fi Calling temporariamente |
 
-### Hotspot do eSIM da Turquia Não Funciona
+### Hotspot de eSIM da Turquia Não Funciona
 
 | Causa | Correção |
 |---|---|
-| Hotspot não permitido | Verifique os termos do plano; mude de provedor |
-| Limite de hotspot atingido | Aguarde o próximo dia ou mude de plano |
+| Hotspot não permitido | Verifique termos do plano; troque de provedor |
+| Limite de hotspot atingido | Aguarde o próximo dia ou troque de plano |
 | APN incorreto | Verifique o APN para hotspot |
-| Detecção de TTL | Alguns provedores bloqueiam; mude de provedor |
-| Limite de dispositivos | Alguns telefones limitam clientes de hotspot |
+| Detecção TTL | Alguns provedores bloqueiam; troque de provedor |
+| Limite de dispositivo | Alguns celulares limitam clientes de hotspot |
 
-### Velocidade do Hotspot do eSIM da Turquia Lenta
+### Hotspot de eSIM da Turquia Lento
 
 | Causa | Correção |
 |---|---|
-| FUP limitado | Verifique o uso diário |
+| FUP limitado | Verifique uso diário |
 | Congestionamento de rede | Tente seleção manual de rede |
-| Interferência de Wi-Fi | Mude a banda do hotspot para 5 GHz |
-| Processamento do telefone | Feche aplicativos em segundo plano |
-| Limitação do provedor | Mude para plano de dados fixos |
+| Interferência Wi-Fi | Mude a banda do hotspot para 5 GHz |
+| Processamento do celular | Feche aplicativos em segundo plano |
+| Limite do provedor | Troque para plano de dados fixos |
 
-## Banco de Dados de Wi-Fi Calling das Operadoras
+## Banco de Dados de Wi-Fi Calling de Operadoras Turcas
 
-Esta seção rastreia o suporte de Wi-Fi Calling para as principais operadoras na Turquia. É atualizada trimestralmente. O Wi-Fi Calling é o mais próximo de uma experiência de número nativo em um eSIM da Turquia apenas de dados.
+Esta seção rastreia o suporte a Wi-Fi Calling para as principais operadoras na Turquia. É atualizada trimestralmente. O Wi-Fi Calling é a coisa mais próxima de uma experiência de número nativo em um eSIM da Turquia somente dados.
 
-| Operadora | País | Wi-Fi Calling na Turquia? | Notas |
+| Operadora | País | Wi-Fi Calling na Turquia? | Observações |
 |---|---|---|---|
-| EE | UK | Varia | Alguns planos restringem geograficamente |
-| O2 | UK | Varia | Verifique antes da partida |
-| Vodafone | UK | Varia | Verifique |
-| Three | UK | Varia | Verifique |
-| Verizon | US | Frequentemente sim | Verifique termos internacionais |
-| AT&T | US | Frequentemente sim | Verifique |
-| T-Mobile | US | Frequentemente sim | Verifique |
+| EE | Reino Unido | Varia | Alguns planos restringem por geolocalização |
+| O2 | Reino Unido | Varia | Verifique antes da partida |
+| Vodafone | Reino Unido | Varia | Verifique |
+| Three | Reino Unido | Varia | Verifique |
+| Verizon | EUA | Frequentemente sim | Verifique termos internacionais |
+| AT&T | EUA | Frequentemente sim | Verifique |
+| T-Mobile | EUA | Frequentemente sim | Verifique |
 | Deutsche Telekom | Alemanha | Varia | Verifique |
 | Orange | França | Varia | Verifique |
 | Vodafone | Alemanha | Varia | Verifique |
 | Telstra | Austrália | Varia | Verifique |
 | Bell | Canadá | Varia | Verifique |
 
-### Como Verificar o Wi-Fi Calling do eSIM da Turquia Antes da Partida
+### Como Verificar o Wi-Fi Calling de eSIM da Turquia Antes da Partida
 
 1. Faça login na sua conta da operadora.
 2. Pesquise por "Wi-Fi Calling" ou "VoWiFi internacional".
 3. Verifique se a Turquia está na lista de países suportados.
-4. Se não estiver listada, ligue para o serviço de atendimento ao cliente.
+4. Se não estiver listada, ligue para o atendimento ao cliente.
 5. Teste o Wi-Fi Calling antes de voar ativando-o em casa.
 
-## Banco de Dados de SMS 2FA Bancário
+## Banco de Dados de SMS 2FA de Bancos Turcos
 
-Esta seção rastreia quais bancos enviam SMS de 2FA para números em roaming na Turquia. É atualizada trimestralmente. Seu eSIM da Turquia não pode receber SMS, mas seu SIM doméstico pode.
+Esta seção rastreia quais bancos enviam SMS 2FA para números em roaming na Turquia. É atualizada trimestralmente. O seu eSIM da Turquia não pode receber SMS, mas o seu SIM de casa pode.
 
-| Banco | País | SMS 2FA na Turquia? | Notas |
+| Banco | País | SMS 2FA na Turquia? | Observações |
 |---|---|---|---|
-| Chase | US | ✅ Sim | SMS recebidos gratuitos |
-| Bank of America | US | ✅ Sim | SMS recebidos gratuitos |
-| Wells Fargo | US | ✅ Sim | Verifique termos de roaming |
-| Barclays | UK | ✅ Sim | SMS recebidos gratuitos |
-| HSBC | UK | ✅ Sim | Verifique |
-| Lloyds | UK | ✅ Sim | SMS recebidos gratuitos |
+| Chase | EUA | ✅ Sim | SMS de entrada grátis |
+| Bank of America | EUA | ✅ Sim | SMS de entrada grátis |
+| Wells Fargo | EUA | ✅ Sim | Verifique termos de roaming |
+| Barclays | Reino Unido | ✅ Sim | SMS de entrada grátis |
+| HSBC | Reino Unido | ✅ Sim | Verifique |
+| Lloyds | Reino Unido | ✅ Sim | SMS de entrada grátis |
 | Deutsche Bank | Alemanha | ✅ Sim | Verifique |
 | BNP Paribas | França | ✅ Sim | Verifique |
 | Commerzbank | Alemanha | ✅ Sim | Verifique |
-| ING | Holanda | ✅ Sim | Verifique |
+| ING | Países Baixos | ✅ Sim | Verifique |
 
-### O Que Fazer Se o 2FA do eSIM da Turquia Falhar
+### O Que Fazer Se o 2FA de eSIM da Turquia Falhar
 
-1. Verifique se seu SIM doméstico está ativo para Voz e SMS.
-2. Desative "Permitir Alternância de Dados Móveis".
-3. Reinicie seu telefone.
-4. Contate seu banco para confirmar que o SMS internacional está ativado.
-5. Considere um SIM turco local se seu banco exigir um número local.
+1. Verifique que o seu SIM de casa está ativo para Voz e SMS.
+2. Desative "Permitir Troca de Dados Móveis".
+3. Reinicie o seu celular.
+4. Contate o seu banco para confirmar que o SMS internacional está ativado.
+5. Considere um SIM local turco se o seu banco exigir um número local.
 
 ## Exemplo Real: Wei, 2FA Bancário em Movimento
 
-Wei precisou do código SMS do seu banco doméstico no meio da viagem. Como ele manteve seu SIM doméstico ativo e definiu o eSIM como a linha de dados, o código chegou via Wi-Fi Calling enquanto seus dados rodavam no eSIM.
+Wei precisou do código SMS do seu banco de casa no meio da viagem. Como manteve o SIM de casa ativo e definiu o eSIM como linha de dados, o código chegou via Wi-Fi Calling enquanto seus dados rodavam no eSIM.
 
 ## O Que Você Precisa vs Configuração
 
-| O que você precisa | Sua configuração | Notas |
+| O que você precisa | Sua configuração | Observações |
 | --- | --- | --- |
 | Apenas dados | eSIM de viagem | Opção mais simples |
-| Dados mais 2FA | Dados do eSIM + SIM doméstico ativo | Mantenha o roaming de dados desligado no SIM doméstico |
+| Dados mais 2FA | Dados eSIM + SIM de casa ativo | Mantenha roaming de dados desligado no SIM de casa |
 | Número turco local | SIM local com passaporte | Aciona o relógio de IMEI |
 
-## FAQ: Número, Chamadas, SMS e Hotspot
+## Perguntas Frequentes: Número, Chamadas, SMS e Hotspot de eSIM da Turquia
 
 ### Posso obter um número de telefone turco com um eSIM?
 
-Sim, mas apenas através de um eSIM de operadora turca local da Turkcell, Vodafone Turkey ou Türk Telekom. A compra exige registro presencial com passaporte. eSIMs de viagem são apenas de dados.
+Sim, mas apenas através de um eSIM de operadora local turca da Turkcell, Vodafone Turkey ou Türk Telekom. A compra exige registro presencial com passaporte. eSIMs de viagem são somente dados.
 
 ### O eSIM da Turquia suporta SMS?
 
-Não. eSIMs de viagem apenas de dados não podem enviar ou receber SMS. Mantenha seu SIM doméstico ativo para códigos de verificação por SMS e alertas bancários.
+Não. eSIMs de viagem somente dados não podem enviar ou receber SMS. Mantenha o seu SIM de casa ativo para códigos de verificação SMS e alertas bancários.
 
 ### Posso fazer chamadas com um eSIM da Turquia?
 
-Sim, usando aplicativos VoIP como WhatsApp, Telegram, Skype ou FaceTime através da sua conexão de dados. Chamadas celulares nativas exigem um SIM turco local com um número de telefone.
+Sim, usando aplicativos VoIP como WhatsApp, Telegram, Skype ou FaceTime pela sua conexão de dados. Chamadas celulares nativas exigem um SIM local turco com número de telefone.
 
 ### O eSIM da Turquia funciona com WhatsApp?
 
-Sim. O WhatsApp funciona através de uma conexão de dados do eSIM da Turquia. Você pode fazer chamadas de voz e vídeo, enviar mensagens e compartilhar mídia.
+Sim. O WhatsApp funciona pela conexão de dados de um eSIM da Turquia. Você pode fazer chamadas de voz e vídeo, enviar mensagens e compartilhar mídia.
 
-### Posso usar o eSIM da Turquia para 2FA?
+### Posso usar um eSIM da Turquia para 2FA?
 
-Seu eSIM da Turquia não pode receber SMS, mas seu SIM doméstico pode. Mantenha o SIM doméstico ativo para Voz e SMS e defina o eSIM da Turquia para Dados Móveis.
+O seu eSIM da Turquia não pode receber SMS, mas o seu SIM de casa pode. Mantenha o SIM de casa ativo para Voz e SMS e defina o eSIM da Turquia para Dados Móveis.
 
 ### O eSIM da Turquia suporta hotspot?
 
 A maioria dos planos de dados fixos permite hotspot. Alguns planos ilimitados restringem ou limitam o tethering. Verifique os detalhes do plano antes de comprar.
 
-### O Wi-Fi Calling funciona através de um eSIM da Turquia?
+### O Wi-Fi Calling funciona em um eSIM da Turquia?
 
-Pode funcionar, se sua operadora doméstica suportar Wi-Fi Calling e permitir isso na Turquia. Seu telefone roteia chamadas e SMS através da conexão de dados do eSIM da Turquia. Verifique com sua operadora doméstica antes da partida. Veja a [documentação de suporte do Wi-Fi Calling da Apple](https://support.apple.com/en-us/HT203032) para etapas de configuração no iPhone.
+Pode, se a sua operadora de casa suporta Wi-Fi Calling e o permite na Turquia. O seu celular encaminha chamadas e SMS pela conexão de dados do eSIM da Turquia. Verifique com a sua operadora de casa antes da partida. Veja a [documentação de suporte Wi-Fi Calling da Apple](https://support.apple.com/en-us/HT203032) para etapas de configuração no iPhone.
 
 ### Qual é o melhor plano de hotspot para uma família na Turquia?
 
-Procure um plano com hotspot irrestrito e pelo menos 20 GB. Saily e Roami permitem hotspot irrestrito. A Holafly limita o hotspot a 500 MB/dia.
+Procure um plano com hotspot irrestrito e pelo menos 20 GB. Saily e Roami permitem hotspot irrestrito. Holafly limita o hotspot a 1 GB/dia.
 
 ### Qual é a melhor configuração para receber 2FA na Turquia?
 
-Mantenha seu SIM doméstico ativo para Voz e SMS no slot físico, defina o eSIM da Turquia como a linha de Dados Móveis e desative Permitir Alternância de Dados Móveis.
+Mantenha o SIM de casa ativo para Voz e SMS no slot físico, defina o eSIM da Turquia como a linha de Dados Móveis, e desative Permitir Troca de Dados Móveis.
 
 ### Posso usar um eSIM da Turquia para hotspot e ainda receber SMS?
 
-Sim. Mantenha seu SIM doméstico ativo para Voz e SMS. O eSIM da Turquia lida com dados e hotspot. O SMS chega no seu número residencial.
+Sim. Mantenha o SIM de casa ativo para Voz e SMS. O eSIM da Turquia cuida dos dados e do hotspot. O SMS chega no seu número de casa.
 
-### Qual operadora turca local tem o melhor plano de voz para turistas?
+### Qual operadora local turca tem o melhor plano de voz para turistas?
 
-A Türk Telekom é a mais barata a 420 TL (~$9) por 25 GB, 750 minutos e 750 SMS. A Vodafone oferece 20 GB, 750 minutos e 1.000 SMS com suporte em inglês mais forte. A Turkcell tem a melhor cobertura, mas custa ~$38.
+A Türk Telekom é a mais barata a 420 TL (~$9) por 25 GB, 750 minutos e 750 SMS. A Vodafone oferece 20 GB, 750 minutos e 1.000 SMS com suporte em inglês mais forte. A Turkcell tem a melhor cobertura mas custa ~$38.
 
-### Posso usar um número virtual para 2FA de banco turco?
+### Posso usar um número virtual para 2FA bancário turco?
 
-A maioria dos bancos turcos não enviará códigos de 2FA para números virtuais. Use seu SIM doméstico ou um SIM turco local.
+A maioria dos bancos turcos não enviará códigos 2FA para números virtuais. Use o seu SIM de casa ou um SIM local turco.
 
 ### O VoIP é legal na Turquia?
 
-Sim. WhatsApp, Telegram e FaceTime funcionam através de dados. Algumas redes corporativas bloqueiam portas VoIP, mas as redes móveis turcas não bloqueiam VoIP.
+Sim. WhatsApp, Telegram e FaceTime funcionam via dados. Algumas redes corporativas bloqueiam portas VoIP, mas as redes móveis turcas não bloqueiam VoIP.
 
-### O que acontece com meu SIM doméstico quando uso um eSIM da Turquia?
+### O que acontece com o meu SIM de casa quando uso um eSIM da Turquia?
 
-Seu SIM doméstico permanece ativo para Voz e SMS via roaming. SMS recebidos são tipicamente gratuitos ou de baixo custo. Mantenha o roaming de dados desligado no SIM doméstico para evitar cobranças de dados.
+O seu SIM de casa permanece ativo para Voz e SMS via roaming. SMS de entrada é tipicamente grátis ou de baixo custo. Mantenha o roaming de dados desligado no SIM de casa para evitar cobranças de dados.
 
 ### Posso usar um eSIM da Turquia para hotspot enquanto em roaming?
 
-Sim. O eSIM da Turquia lida com dados e hotspot independentemente de qual rede você se conecta. Mantenha seu SIM doméstico ativo para Voz e SMS e desative a alternância de dados móveis para evitar cobranças de roaming.
+Sim. O eSIM da Turquia cuida dos dados e do hotspot independentemente de qual rede você se conecta. Mantenha o SIM de casa ativo para Voz e SMS e desative a troca de dados móveis para evitar cobranças de roaming.
 
-## Lista de Verificação Final: Chamadas, SMS e Hotspot
+## Checklist Final: Chamadas, SMS e Hotspot de eSIM da Turquia
 
-Use esta lista de verificação final para confirmar sua configuração do eSIM da Turquia, preparar-se para o desembarque e recuperar se algo falhar.
+Use este checklist final para confirmar a configuração do seu eSIM da Turquia, preparar-se para o desembarque e se recuperar se algo falhar.
 
 ### Antes de Voar com o eSIM da Turquia
 
-- [ ] Compre um eSIM da Turquia apenas de dados (5–20 GB dependendo da duração da viagem). Compare opções no [resumo de provedores](/blog/best-turkey-esim-providers/).
+- [ ] Compre um eSIM da Turquia somente dados (5–20 GB dependendo da duração da viagem). Compare opções no [resumo de provedores](/blog/best-turkey-esim-providers/).
 - [ ] Instale o eSIM no Wi-Fi antes da partida. Veja as [etapas de configuração](/blog/how-turkey-esim-works-activation/).
-- [ ] Rotule a linha como "Turkey"
+- [ ] Rotule a linha "Turquia"
 - [ ] Defina o eSIM da Turquia para Dados Móveis
-- [ ] Defina o SIM doméstico para Voz e SMS
-- [ ] Desligue o roaming de dados no SIM doméstico
-- [ ] Desative Permitir Alternância de Dados Móveis
+- [ ] Defina o SIM de casa para Voz e SMS
+- [ ] Desligue o roaming de dados no SIM de casa
+- [ ] Desative Permitir Troca de Dados Móveis
 - [ ] Instale WhatsApp, Telegram ou Skype para chamadas VoIP
-- [ ] Confirme que o SIM doméstico está ativo para SMS de 2FA
-- [ ] Verifique se a operadora doméstica suporta Wi-Fi Calling na Turquia
-- [ ] Teste o hotspot se você planeja compartilhar dados
+- [ ] Confirme que o SIM de casa está ativo para SMS de 2FA
+- [ ] Verifique se a operadora de casa suporta Wi-Fi Calling na Turquia
+- [ ] Teste o hotspot se planeja compartilhar dados
 
 ### Após o Desembarque com o eSIM da Turquia
 
 - [ ] Ative o roaming de dados para o eSIM da Turquia
 - [ ] Teste os dados com um mapa ou navegador
 - [ ] Teste uma chamada VoIP
-- [ ] Confirme que você pode receber SMS no seu SIM doméstico
-- [ ] Teste o hotspot se você planeja compartilhar dados
-- [ ] Verifique o nome da operadora e o registro na rede
+- [ ] Confirme que você pode receber SMS no seu SIM de casa
+- [ ] Teste o hotspot se planeja compartilhar dados
+- [ ] Verifique o nome da operadora e o registro de rede
 
 ### Se Algo Falhar com o eSIM da Turquia
 
 - [ ] Verifique a seleção da linha de dados
 - [ ] Verifique as configurações de roaming
 - [ ] Verifique o APN
-- [ ] Reinicie o telefone
-- [ ] Tente seleção manual de rede
-- [ ] Contate o suporte com ICCID e número do pedido
+- [ ] Reinicie o celular
+- [ ] Tente a seleção manual de rede
+- [ ] Entre em contato com o suporte com ICCID e número do pedido
 
-Se você precisa de um número turco real, um eSIM é a ferramenta errada — compre um SIM local em vez disso. Para dados, chamadas via VoIP e hotspot, [o plano de dados da Roami](/turkey-esim/) começa em $1,99 com 20% de desconto para novos usuários e hotspot irrestrito em cada plano. Veja a [visão geral completa](/blog/turkey-esim-ultimate-guide/) para a configuração completa.
+Se você precisa de um número turco real, um eSIM é a ferramenta errada — compre um SIM local em vez disso. Para dados, chamadas via VoIP e hotspot, o [plano de dados da Roami](/turkey-esim/) começa em $2,99 com 20% de desconto para novos usuários e hotspot irrestrito em todos os planos. Veja a [visão geral completa](/blog/turkey-esim-ultimate-guide/) para a configuração completa.
 
-## Conclusão
+## Resumo Final: Chamadas, Números e Dados Resolvidos
 
-- Um eSIM de viagem oferece dados, não um número turco — se você precisa de um, um SIM local é a escolha certa.
-- Para chamadas, use VoIP através dos seus dados; para 2FA, mantenha seu SIM doméstico ativo.
+- Um eSIM de viagem dá a você dados, não um número turco — se você precisa de um, um SIM local é a escolha certa.
+- Para chamadas, use VoIP pelos seus dados; para 2FA, mantenha o seu SIM de casa ativo.
 - Se você precisa de um número local, compre um plano de operadora local da Turkcell, Vodafone ou Türk Telekom.
 - Verifique a política de hotspot, porque alguns planos ilimitados restringem o tethering.

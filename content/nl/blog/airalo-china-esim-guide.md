@@ -1,21 +1,21 @@
 ---
 title: "Beste eSIM voor China: Airalo vs Holafly vergeleken"
-description: "Vergelijk Airalo en Holafly: de beste China eSIM installeer je voor je vertrekt, heeft geen VPN nodig voor Google en WhatsApp, en werkt op China Mobile of Unicom"
-keywords: ["China eSIM prijsgids", "holafly esim voor china", "china esim bypass firewall", "goedkoopste eSIM voor China-reizen", "china esim google whatsapp", "airalo china esim review", "China eSIM kortingscode"]
-date: 2026-09-16T00:00:00Z
-lastmod: 2026-09-16T00:00:00Z
+description: "Vergelijk Airalo en Holafly: de beste China eSIM installeer je voor vertrek, houdt Google en WhatsApp bereikbaar en werkt op China Mobile of Unicom"
+keywords: ["China eSIM prijsgids", "airalo china esim", "chinacom esim", "goedkoopste eSIM voor China reis", "china esim google whatsapp", "china esim vs lokale sim", "China eSIM promotiecode"]
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami biedt betrouwbare eSIM-abonnementen, bedient jaarlijks meer dan 1 miljoen reizigers en ondersteunt automatische lokale netwerkschakeling om reizigers wereldwijd verbonden te houden."
+authorBio: "Roami biedt betrouwbare eSIM-plannen, bedient meer dan 1 miljoen reizigers per jaar en ondersteunt automatische lokale netwerkwisseling om reizigers wereldwijd verbonden te houden."
 image: "/img/esim/china/china-esim-complete-guide.jpg"
 categories: ["eSIM", "Reizen", "China"]
-tags: ["China eSIM", "Great Firewall", "Google WhatsApp"]
+tags: ["China eSIM", "Google WhatsApp", "Reis eSIM"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "China blokkeert Google en WhatsApp — deze eSIM omzeilt de firewall"
+h1title: "Wat een China eSIM echt doet voor Google en WhatsApp"
 
-productsTitle: "Populaire eSIM-abonnementen"
+productsTitle: "Populaire eSIM-plannen"
 hotPostsTitle: "Populaire artikelen"
 recentPostsTitle: "Recente berichten"
 
@@ -40,7 +40,7 @@ products:
     price: "Vanaf $1.99"
     is_highlight: false
     slug: "thailand"
-  - name: "Zuid-Korea eSIM"
+  - name: "South Korea eSIM"
     flag: "/img/flags/kr.svg"
     price: "Vanaf $1.99"
     is_highlight: false
@@ -55,7 +55,7 @@ recentPosts:
   - title: "Lijst met eSIM-compatibele apparaten"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM-overdracht"
+  - title: "2026 platformoverschrijdende eSIM-overdracht"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual eSIM werkt niet? 12 oplossingen voor iPhone"
@@ -69,112 +69,95 @@ recentPosts:
     date: "2026-05-21"
 ---
 
-## China eSIM-gids 2026
+## 2026 China eSIM-gids
 
-Plan je een reis naar China—de Verboden Stad in Peking, de Bund in Shanghai, de Terracottakrijgers in Xi'an, de bergen van Guilin of de panda's van Chengdu? Bij aankomst loop je tegen een muur aan die in andere landen niet bestaat: **Google, WhatsApp, Instagram en Gmail op je telefoon zijn allemaal geblokkeerd in China.** Omdat China de "Great Firewall" heeft, routeren gewone lokale simkaarten en internationale roaming beide hun data erdoorheen.
+Ben je van plan een reis naar China te maken—de Verboden Stad in Beijing, de Bund in Shanghai, het Terracotta-leger in Xi'an, de bergen van Guilin of de panda's in Chengdu? Zodra je aankomt, loop je tegen iets aan dat in andere landen niet bestaat: **Google, WhatsApp, Instagram en Gmail op je telefoon werken niet zoals thuis.** Lokale simkaarten en internationale roaming op een vasteland-netwerk sturen je data via vasteland-gateways, dus die apps laden simpelweg niet.
 
-Een [China eSIM](/china-esim/) (reis-eSIM) gebruikt echter een **internationale dataroute**—hij verbindt met signalen van China's drie grote operators, maar de data verlaat het land naar het buitenland, zodat **Google, WhatsApp, Gmail en andere apps werken zodra je landt.** Dit is de belangrijkste reden om voor een China eSIM te kiezen, veel belangrijker dan "welke is goedkoper."
+Een [China eSIM](/china-esim/) (reis-eSIM) gebruikt echter een **internationale dataverbinding**—hij maakt verbinding met signalen van China's drie grootste aanbieders, maar de data verlaat het land via het buitenland, dus **werken Google, WhatsApp, Gmail en andere apps zodra je landt.** Dit is de belangrijkste reden om voor een China eSIM te kiezen, veel belangrijker dan "welke is goedkoper".
 
-Dit artikel draait om dit kernverschil: Welke van China's drie grote operators (China Mobile / China Unicom / China Telecom) heeft de beste dekking? Welke is het meest kosteneffectief onder Airalo, Holafly en Roami? Wat blokkeert de Great Firewall en hoe omzeilt een reis-eSIM die? En—lokale simkaarten vereisen paspoortregistratie—hoeveel data heb je nodig voor een korte 144-uurs visumvrije doorreis?
+Dit artikel draait om dit kernverschil: welke van China's drie grootste aanbieders (China Mobile / China Unicom / China Telecom) heeft de beste dekking? Welke is het voordeligst van Airalo, Holafly en Roami? Welke alledaagse apps gedragen zich anders op een vasteland-netwerk, en hoe verandert de routering van een reis-eSIM dat? En—lokale simkaarten vereisen paspoortregistratie—hoeveel data heb je nodig voor een korte 144-uurs visumvrije doorreis?
 
-> **⏱️ 30-seconden samenvatting: Hoe kies je een China eSIM?**
+> **⏱️ 30‑secondensamenvatting: hoe kies je een China eSIM?**
 >
-> - **Het meest kritieke punt**: China heeft de Great Firewall; Google / WhatsApp / Instagram / Gmail zijn geblokkeerd; **reis-eSIM's gebruiken internationale routing, dus deze apps werken bij aankomst** (zie het Firewall-gedeelte hieronder).
-> - **Beste prijs-kwaliteitverhouding**: Roami's kortingsprijzen zijn over de hele linie het laagst—7 dagen 10GB voor $9.59, wat 61% goedkoper is dan Airalo's equivalent ($24.50) en 65% goedkoper dan Holafly's onbeperkt ($27.30).
-> - **Welk netwerk te kiezen**: In steden, kies China Unicom / China Mobile; Roami's multi-netwerk auto-switching kiest het sterkste beschikbare signaal.
-> - **Is onbeperkt de moeite waard?** Voor de meeste mensen, nee—Roami China biedt niet eens onbeperkt aan; vaste databundels zijn veel goedkoper (zie "De waarde achter de prijzen" hieronder).
-> - **Kort samengevat**: Voor een korte reis van 3-7 dagen, koop Roami 3-10GB; voor een rondreis van 10-15 dagen door meerdere steden, koop 20-30GB; voor langere verblijven, koop 50GB; overweeg alleen Airalo/Holafly onbeperkt als je absoluut niet aan data wilt denken.
+> - **Het meest cruciale punt**: op lokale vasteland-netwerken laden Google, WhatsApp, Instagram en Gmail niet; **reis-eSIM's gebruiken internationale routering, dus werken die apps vanaf het moment dat je landt.**
+> - **Waar de meerwaarde zit**: Roami's kortingslijn is over de hele linie goedkoper dan beide rivalen—7 dagen 10GB voor **$9.59**, ongeveer 61% onder Airalo's vergelijkbare tier ($24.50) en 65% onder Holafly's onbeperkt ($27.50).
+> - **Welk netwerk**: China Unicom en China Mobile zijn allebei sterk in de steden; automatische wisseling geeft je het sterkste netwerk op je locatie.
+> - **Is onbeperkt het waard**: voor de meeste mensen nee—Roami China biedt helemaal geen onbeperkt aan, en vastedata-tiers zijn veel goedkoper.
+> - **Conclusie**: 3–7 dagen → 3–10GB; een 10–15 dagen durende stedenrondreis → 20–30GB; lange verblijven → 50GB.
 
-> **⚡ Snelle beslissingszone: Kies op basis van je reisstijl**
+> **⚡ Snel-besliszone: kies op reisstijl**
 >
-> - **Stedentrip Peking / Shanghai (3-5 dagen)** → Roami 3-5GB, goed stadsignaal, vanaf $1.59 (zie 3-daagse / 7-daagse abonnementen)
-> - **Xi'an / Guilin / Chengdu (5-7 dagen)** → Roami 5-10GB, multi-netwerk schakelt automatisch tussen Unicom en Mobile (zie 7-daagse abonnementen / scenarioadviezen)
-> - **Rondreis meerdere steden (10-15 dagen)** → Roami 20-30GB, per GB slechts $0.77 (zie 15-daagse / 30-daagse abonnementen)
-> - **Zakenreis (3-7 dagen)** → Roami 5-10GB, werkt bij aankomst—geen rij voor ID-registratie (zie scenarioadviezen / vergelijking)
-> - **Wil helemaal niet aan data denken** → Airalo Unlimited (7 dagen $27) of Holafly Unlimited ($3.90/dag), maar in de meeste gevallen duurder (zie 7-daagse abonnementen)
-> - **Extreem krap budget** → Roami 1GB/7 dagen korting $1.59, de laagste prijs (zie 3-daagse abonnementen)
+> - **Beijing / Shanghai stedentrip (3‑5 dagen)** → Roami 3‑5GB, goed stadsignaal, vanaf $1.59
+> - **Xi'an / Guilin / Chengdu (5‑7 dagen)** → Roami 5‑10GB; schakelt automatisch tussen Unicom en Mobile
+> - **Stedenrondreis (10‑15 dagen)** → Roami 20‑30GB, per GB zo laag als $0.77
+> - **Zakelijk reizen (3‑7 dagen)** → Roami 5–10GB, direct online bij landing zonder paspoortregistratie-omweg
+> - **Zeer krap budget** → Roami 1GB/7‑dagen voor $1.59
 
-## Drie verschuivingen die de Chinese eSIM-markt in 2026 hervormen
+## Drie verschuivingen die de Chinese eSIM-markt in 2026 vormgeven
 
-> **2026 China eSIM marktupdates**
+> **2026 China eSIM-marktupdates**
 >
-> - **De Great Firewall blijft**: Google, WhatsApp, Instagram, Facebook, Gmail en YouTube zijn allemaal geblokkeerd in het vasteland van China.
-> - **Lokale simkaarten vereisen ID-verificatie**: Volgens MIIT ([MIIT](https://www.miit.gov.cn/)) vereisten voor echte naam moeten lokale simkaarten worden geregistreerd met een paspoort bij een servicecentrum; luchthavenkaarten vereisen ook vaak wachten voor activering.
-> - **Visumvrij beleid uitgebreid**: China heeft eenzijdige visumvrije toegang (tot 30 dagen) ingevoerd voor verschillende landen, waaronder Frankrijk, Duitsland, Italië en Spanje. Het aantal kortetermijnbezoekers neemt toe en de vraag naar "werkt bij aankomst" kortetermijndata bloeit.
-> - **5G-leiderschap**: Volgens [Opensignal](https://www.opensignal.com/) gegevens uit 2026 dekt China Mobile's 5G-beschikbaarheid 90%+ van de bevolking en is 5G in steden nu standaard.
+> - **Vasteland-netwerkgedrag ongewijzigd**: Google, WhatsApp, Instagram, Facebook, Gmail en YouTube blijven onbereikbaar op lokale vasteland-netwerken.
+> - **Lokale simkaarten vereisen ID-verificatie**: Volgens de echte-naam-eisen van MIIT ([MIIT](https://www.miit.gov.cn/gxsj/tjfx/txy/index.html)) moeten lokale simkaarten met een paspoort bij een servicecentrum worden geregistreerd; luchthavenkaarten vereisen vaak ook wachten in de rij voor activatie.
+> - **Visumvrij-beleid uitgebreid**: China heeft eenzijdige visumvrije toegang (tot 30 dagen) ingevoerd voor verschillende landen waaronder Frankrijk, Duitsland, Italië en Spanje. Kortetermijnbezoekers stromen toe en de vraag naar "werkt bij aankomst"-kortetermijndata boomt.
+> - **5G-koploper**: China Mobile's 5G-dekking bestrijkt nu het grootste deel van de stedelijke bevolking, en 5G is binnen en buiten de standaard in de grote steden — [Ookla's China-marktdata](https://www.speedtest.net/global-index/china) volgt de huidige mediane mobiele snelheden.
 >
-> *Samengesteld uit openbare gegevens per september 2026.*
+> *Cijfers geverifieerd aan de hand van openbare bronnen en operatorbekendmakingen, september 2026.*
 
-Wat de Chinese markt bijzonder maakt voor reizigers, is dat **netwerktoegangsregels** volledig verschillen van andere landen. Deze drie veranderingen bepalen hoe je moet kiezen:
+Wat de Chinese markt speciaal maakt voor reizigers is dat de **regels voor netwerktoegang** totaal verschillen van andere landen. Deze drie veranderingen bepalen hoe je moet kiezen:
 
-**1. De Great Firewall is het uitgangspunt voor elke beslissing.** In andere landen vergelijk je eSIM's op signaal en prijs; in China vraag je eerst "Kan ik Google Maps openen om mijn weg te vinden, kan ik een WhatsApp-bericht sturen om te zeggen dat ik veilig ben, kan ik Instagram scrollen?" Het antwoord is: **alleen een reis-eSIM met internationale routing kan dat**—lokale simkaarten en internationale roaming kunnen dat beide niet. Dit wordt uitgediept in het Firewall-gedeelte hieronder.
+**1. App-toegang is de voorwaarde voor elke beslissing.** In andere landen vergelijk je eSIM's op signaal en prijs; in China vraag je eerst: "Kan ik Google Maps openen om de weg te vinden, kan ik een WhatsApp-bericht sturen om te laten weten dat ik veilig ben, kan ik door Instagram scrollen?" Het antwoord is: **alleen een reis-eSIM met internationale routering kan dat**—lokale simkaarten en internationale roaming kunnen het allebei niet. Dit wordt uitgelegd in de routeringssectie hieronder.
 
-**2. Lokale simkaarten vereisen paspoortregistratie—een gedoe.** Sinds 2019 vereist China registratie op echte naam voor telefoonkaarten. Luchthavenkraampjes verkopen ze, maar je moet je registreren met je paspoort, wachten voor activering, en sommige kaarten vereisen een tweede verificatie bij een servicecentrum. Voor een toerist van 3-5 dagen werkt een [China eSIM](/china-esim/) die voor vertrek is geïnstalleerd zodra je landt en data roaming inschakelt, waardoor je al dat gedoe bespaart.
+**2. Lokale simkaarten vereisen paspoortregistratie—een gedoe.** China eist sinds 2019 echte-naamregistratie voor telefoonkaarten. Luchthavenkiosken verkopen ze wel, maar je registreert met je paspoort, wacht op activatie en sommige kaarten eisen een tweede controle bij een servicecentrum. Voor een bezoeker van drie tot vijf dagen is een [China eSIM](/china-esim/) die thuis is gekocht gewoon al actief zodra het vliegtuig landt en roaming aangaat—geen balie, geen rij, geen papierwerk.
 
-**3. Visumvrij brengt "kort en snel" reizen.** Naarmate de 30-daagse visumvrije pilot wordt uitgebreid, behandelen steeds meer Europese en Amerikaanse toeristen China als een "spontane" korteafstandbestemming. Deze reizen hebben niet veel data nodig (navigatie + WhatsApp-berichten + lichte sociale media), dus **vaste databundels (1-10GB) zijn veel kosteneffectiever dan onbeperkte abonnementen**—wat precies de reden is waarom Roami zich richt op vaste bundels en geen onbeperkt aanbiedt in China.
+**3. Visumvrij brengt "kort en snel" reizen.** Nu de 30-dagen visumvrije proef wordt uitgebreid, behandelen steeds meer Europese en Amerikaanse toeristen China als een "spontane" korteafstandsbestemming. Deze reizen hebben niet veel data nodig (navigatie + WhatsApp-berichten + licht sociale media), dus zijn **vastedata-tiers (1‑10GB) veel voordeliger dan onbeperkte abonnementen**—precies daarom richt Roami zich op vaste tiers en biedt het in China geen onbeperkt aan.
 
-## China's drie operators uitgelegd
+## China's drie aanbieders en wie jouw eSIM voedt
 
-> China is een markt die wordt gedomineerd door "drie staatsgiganten"—er is geen vierde nationale operator. Reis-eSIM's roamen meestal op **China Unicom** of **China Mobile** netwerken; enkele gebruiken China Telecom.
+> China is een markt die wordt gedomineerd door "drie staatsgiganten"—er is geen vierde nationale aanbieder. Reis-eSIM's roamen meestal op **China Unicom**- of **China Mobile**-netwerken; enkele krijgen toegang tot China Telecom.
 
-### Drie operators naast elkaar
+### Drie aanbieders naast elkaar
 
-| Metriek | China Mobile | China Unicom | China Telecom |
+| Metric | China Mobile | China Unicom | China Telecom |
 |--------|--------------|--------------|---------------|
 | Abonnees | ~1 miljard | ~350 miljoen | ~400 miljoen |
 | Marktaandeel | ~55% | ~20% | ~25% |
 | 5G-bevolkingsdekking | **90%+** | 85%+ | 85%+ |
-| Reis-eSIM toegang | Gebruikelijk | Meest gebruikelijk | Zeldzaam |
-| Beste voor | Afgelegen gebieden / bezienswaardigheidendekking | Steden + stabiele internationale roaming | Delen van Zuid-China |
+| Reis-eSIM-toegang | Gebruikelijk | Meest voorkomend | Zeldzaam |
+| Het beste voor | Afgelegen gebieden / attractiedekking | Steden + stabiele internationale roaming | Delen van zuidelijk China |
 
-*Bronnen: [Opensignal](https://www.opensignal.com/) / jaarverslagen van operators, per september 2026.*
+*Bronnen: MIIT, Ookla Speedtest Global Index en jaarverslagen van aanbieders, per september 2026.*
 
-### Dekking en kanttekeningen per operator
+### Dekking en aandachtspunten per aanbieder
 
-- **China Mobile – "Koning van dekking"**: 's Werelds grootste operator qua abonnees, met de meeste 5G-basisstations wereldwijd—de breedste dekking in afgelegen bezienswaardigheden en langs snelwegen. Als je naar meer afgelegen bezienswaardigheden gaat, is China Mobile het meest stabiele netwerk. **⚠️ Zwakte**: Integratie van internationale roaming is minder stabiel dan Unicom; niet alle reis-eSIM's gebruiken Mobile.
+- **China Mobile – "Koning van dekking"**: 's werelds grootste aanbieder qua abonnees, met de meeste 5G-basisstations ter wereld—breedste dekking in afgelegen attracties en langs snelwegen. Ga je naar afgelegen bezienswaardigheden, dan is China Mobile het stabielste netwerk. **⚠️ Zwakte**: internationale roaming-integratie is minder stabiel dan Unicom; niet alle reis-eSIM's gebruiken Mobile.
 
-- **China Unicom – "Eerste keuze voor reis-eSIM's"**: De overgrote meerderheid van internationale reis-eSIM's (Airalo, Holafly, enz.) gebruikt standaard het netwerk van Unicom en biedt de meest volwassen en snelste internationale roaming-ervaring in steden. **⚠️ Zwakte**: Landelijke dekking in afgelegen berggebieden loopt iets achter op Mobile.
+- **China Unicom – "Eerste keuze voor reis-eSIM"**: Veel internationale reis-eSIM's (Airalo, Roami, enz.) staan standaard op Unicom's netwerk en bieden de meest volwassen en snelste internationale roamingeraring in steden. **⚠️ Zwakte**: plattelandsdekking in afgelegen bergachtige gebieden loopt iets achter op Mobile.
 
-- **China Telecom – "De zuidelijke speler"**: Sterke dekking in zuidelijke regio's zoals Guangdong en Guangxi, maar weinig reis-eSIM's gebruiken Telecom. **⚠️ Zwakte**: In wezen geen optie voor reizigers—kan worden genegeerd.
+- **China Telecom – "De zuidelijke speler"**: sterke dekking in zuidelijke regio's zoals Guangdong en Guangxi, maar weinig reis-eSIM's krijgen toegang tot Telecom. **⚠️ Zwakte**: in feite geen optie voor reizigers—kan worden genegeerd.
 
-### Dekkingstestresultaten voor grote Chinese steden / bezienswaardigheden
+### Dekkingstestresultaten voor grote Chinese steden / attracties
 
 | Bestemming | Dekkingskwaliteit | Snelheid | Beste netwerk |
-|-------------|------------------|-------|--------------|
-| Peking (Verboden Stad / Grote Muur) | Uitstekend | 5G, 100-500 Mbps | Mobile / Unicom |
-| Shanghai (Bund / Disney) | Uitstekend | 5G, 100-500 Mbps | Mobile / Unicom |
-| Xi'an (Terracottakrijgers) | Goed | 5G, 50-200 Mbps | Mobile |
-| Guilin / Yangshuo | Goed | 4G/5G, 30-150 Mbps | Mobile / Unicom |
-| Chengdu (Pandabas) | Uitstekend | 5G, 80-300 Mbps | Mobile |
+|------------|-------------------|----------|---------------|
+| Beijing (Verboden Stad / Grote Muur) | Uitstekend | 5G, 100‑500 Mbps | Mobile / Unicom |
+| Shanghai (Bund / Disney) | Uitstekend | 5G, 100‑500 Mbps | Mobile / Unicom |
+| Xi'an (Terracotta-leger) | Goed | 5G, 50‑200 Mbps | Mobile |
+| Guilin / Yangshuo | Goed | 4G/5G, 30‑150 Mbps | Mobile / Unicom |
+| Chengdu (Pandabasis) | Uitstekend | 5G, 80‑300 Mbps | Mobile |
 
 > **Belangrijk advies**
 >
-> Kies een China eSIM die **multi-netwerk automatische schakeling** ondersteunt (bijv. Roami). Het kiest automatisch het sterkste signaal tussen China Unicom en China Mobile op basis van je locatie—het gebruikt Unicom's snelle 5G in steden en schakelt automatisch over naar Mobile's bredere dekking wanneer je naar afgelegen bezienswaardigheden gaat. Een enkel-netwerk eSIM kan je achterlaten met dode zones bij de Grote Muur of langs de Li-rivier in Guilin. [Bekijk China eSIM met multi-netwerkschakeling →](/china-esim/)
+> **Belangrijk advies**: kies een China eSIM met **automatische multi-netwerkwisseling** (Roami doet dit standaard). Hij houdt vast aan Unicoms snelle 5G in Shanghai of Beijing en geeft over aan Mobile's bredere bereik zodra je richting de Grote Muur of de Li-rivier gaat—precies daar houdt een aan één aanbieder vastgeklonken eSIM stilletjes op met werken.
 
-## Drie China eSIM-merken, geprijsd
+### Volledige prijslijst Airalo China eSIM
 
-> ⚠️ **Belangrijkste China-specifieke herinnering**: Alle drie de merken bieden **alleen-data eSIM's, zonder een Chinees telefoonnummer**. Lokale Chinese apps (rit-hailing, voedselbezorging, mobiele betalingen) vereisen meestal een lokaal nummer—een data-eSIM kan dat niet oplossen. Maar wat het wel oplost, is de **Great Firewall**—Google/WhatsApp werken bij aankomst, wat de reden is dat het bestaat.
+Airalo verkoopt zijn China-product onder het merk **"Chinacom"**, draaiend op **China Unicom** (4G en 5G).
 
-### De drie merken in één oogopslag
+**Onbeperkte databundels**
 
-| Merk | Trustpilot-beoordeling | Kernpositionering | Netwerktoegang | 5G | Hotspot | Chinees telefoonnummer |
-|-------|-------------------|------------------|----------------|-----|---------|----------------------|
-| **Airalo** | 4.2 | Grootste wereldwijde platform, meest gedetailleerde bundels | Unicom (voornamelijk) | Gedeeltelijk | Ondersteund | ❌ |
-| **Holafly** | 4.3 | Puur onbeperkte data | Unicom | Ondersteund | 1GB/dag limiet | ❌ |
-| **Roami** | 4.9 | Multi-netwerk auto-switching, beste prijs-kwaliteit | Unicom + Mobile | Volledige snelheid | Onbeperkt | ❌ |
-
-> **Kernverschillen in één oogopslag**
->
-> - **Airalo China eSIM**: Grootste wereldwijde platform, fijnste vaste databundels, plus onbeperkte opties, verbindt met Unicom. Transparante prijzen, ondersteunt hotspot, **geen Chinees telefoonnummer**. Geschikt voor gebruikers die "onbeperkt" willen met een matig budget.
-> - **Holafly China eSIM**: Het enige puur onbeperkte merk, geprijsd op $3.90/dag, verbindt met Unicom 5G. Geen GB-limiet, maar **hotspot beperkt tot 1GB/dag**, hoge langetermijnkosten, **geen Chinees telefoonnummer**. Geschikt voor zware gebruikers die de kosten niet erg vinden.
-> - **Roami China eSIM**: Multi-netwerk auto-switching (Unicom + Mobile), 5G op volledige snelheid, ondersteunt onbeperkte hotspot, laagste prijs over de hele linie, **geen Chinees telefoonnummer**. **Let op: Roami China biedt alleen vaste databundels (1-50GB), geen onbeperkte abonnementen**—omdat in de Firewall-omgeving de meeste mensen eigenlijk geen onbeperkt nodig hebben, en vaste bundels kosteneffectiever zijn. Gebruik kortingscode **WEB20** voor 20% korting. [Bekijk Roami China eSIM-abonnementen](/china-esim/)
-
-### Airalo China eSIM volledige prijslijst
-
-**Onbeperkte data-abonnementen**
-
-| Dagen | Prijs | Dagelijkse kosten |
-|------|-------|------------|
+| Dagen | Prijs | Kosten per dag |
+|-------|-------|---------------|
 | 3 dagen | $11.50 | $3.83/dag |
 | 5 dagen | $19.00 | $3.80/dag |
 | 7 dagen | $27.00 | $3.86/dag |
@@ -182,356 +165,348 @@ Wat de Chinese markt bijzonder maakt voor reizigers, is dat **netwerktoegangsreg
 | 15 dagen | $49.00 | $3.27/dag |
 | 30 dagen | $69.00 | $2.30/dag |
 
-**Vaste data-abonnementen**
+**Vastedata-bundels**
 
 | Dagen | Databundel | Prijs |
-|------|-----------|-------|
+|-------|------------|-------|
 | 3 dagen | 1GB / 3GB | $4.00 / $9.50 |
 | 7 dagen | 3GB / 5GB / 10GB | $10.50 / $14.50 / $24.50 |
 | 15 dagen | 5GB / 10GB / 20GB | $15.00 / $25.50 / $39.00 |
 | 30 dagen | 5GB / 10GB / 20GB / 50GB | $15.50 / $26.50 / $40.00 / $49.00 |
 
-> ⚠️ **Airalo China risiconotitie**: Vaste databundels zijn relatief duur (7 dagen 10GB voor $2.45/GB), ongeveer 1,5-2 keer de prijs van Roami voor dezelfde bundel; onbeperkt 7 dagen voor $27 heeft gemiddelde waarde voor kortetermijntoeristen.
+> ⚠️ **Airalo China let op**: de vaste tiers zijn duur per gigabyte—10GB over 7 dagen komt uit op ongeveer $2.45/GB, circa 1.5–2× Roami's tarief voor dezelfde bundel—en het $27 zeven-dagen onbeperkt is weinig bijzonders voor een korte reis.
 
-### Holafly China eSIM volledige prijslijst
+### Volledige prijslijst Holafly China eSIM
 
-Holafly China biedt **alleen onbeperkte data**, geprijsd per dag:
+Holafly China biedt **alleen onbeperkte data**, geprijsd op duur:
 
-| Dagen | Prijs | Dagelijkse kosten |
-|------|-------|------------|
-| 3 dagen | $11.70 | $3.90/dag |
-| 7 dagen | $27.30 | $3.90/dag |
-| 15 dagen | $58.50 | $3.90/dag |
-| 30 dagen | $117.00 | $3.90/dag |
+| Dagen | Prijs | Kosten per dag |
+|-------|-------|---------------|
+| 3 dagen | $11.90 | $3.97/dag |
+| 7 dagen | $27.50 | $3.93/dag |
+| 10 dagen | $36.50 | $3.65/dag |
+| 30 dagen | $73.90 | $2.46/dag |
 
-> ⚠️ **Holafly China risiconotitie**: Geen vaste databundels; 3 dagen kost $11.70, bijna het dubbele van Roami's 3-daagse 10GB ($6.39); **hotspot beperkt tot 1GB/dag**—beperkend voor delen of tabletgebruik; prijs per dag maakt langetermijnkosten het hoogst.
+> Kortere reizen hebben de hoogste dagprijs: $3.97/dag voor drie dagen, dalend naar $2.46/dag als je de volle 30 dagen neemt.
 
-### Roami China eSIM volledige prijslijst
+> ⚠️ **Holafly China let op**: er is geen vastedata-optie, dus beginnen drie dagen bij $11.90—bijna het dubbele van Roami's 3-dagen 10GB ($6.39). Tethering is beperkt tot 1GB/dag, wat het voeden van een tablet uitsluit, en dagprijzen maken het de duurste manier om een maand te blijven.
 
-Roami China **richt zich op vaste databundels (geen onbeperkte abonnementen)**. Kortingsprijs = lijstprijs × 0,8 (code WEB20):
+### Volledige prijslijst Roami China eSIM
 
-| Dagen | Databundel | Lijstprijs | Met korting | Dagelijkse kosten |
-|------|-----------|------------|------------|------------|
-| 3 dagen | 1GB / 3GB / 5GB / 10GB | $1.99 / $3.99 / $5.99 / $7.99 | **$1.59 / $3.19 / $4.79 / $6.39** | $0.53-2.13/dag |
-| 7 dagen | 1GB / 3GB / 5GB / 10GB / 20GB | $1.99 / $4.99 / $6.99 / $11.99 / $15.99 | **$1.59 / $3.99 / $5.59 / $9.59 / $12.79** | $0.23-1.83/dag |
-| 15 dagen | 3GB / 5GB / 10GB / 20GB / 30GB | $5.99 / $7.99 / $10.99 / $19.99 / $28.99 | **$4.79 / $6.39 / $8.79 / $15.99 / $23.19** | $0.32-1.55/dag |
-| 30 dagen | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB | $6.99 / $8.99 / $15.99 / $25.99 / $29.99 / $39.99 | **$5.59 / $7.19 / $12.79 / $20.79 / $23.99 / $31.99** | $0.19-1.07/dag |
+Roami China **richt zich op vastedata-tiers (geen onbeperkte plannen)**. Kortingsprijs = catalogusprijs × 0.8 (code WEB20):
 
-> ⚠️ **Roami China risiconotitie**: Geen onbeperkte databundel—zware video-/streaminggebruikers moeten hun verbruik beheren; maar vaste databundels hebben de laagste prijzen per GB, waardoor ze kosteneffectiever zijn voor de overgrote meerderheid van China-reisplannen.
+| Dagen | Databundel | Catalogusprijs | Met korting | Kosten per dag |
+|-------|------------|----------------|-------------|---------------|
+| 3 dagen | 1GB / 3GB / 5GB / 10GB | $1.99 / $3.99 / $5.99 / $7.99 | **$1.59 / $3.19 / $4.79 / $6.39** | $0.53‑2.13/dag |
+| 7 dagen | 1GB / 3GB / 5GB / 10GB / 20GB | $1.99 / $4.99 / $6.99 / $11.99 / $15.99 | **$1.59 / $3.99 / $5.59 / $9.59 / $12.79** | $0.23‑1.83/dag |
+| 15 dagen | 3GB / 5GB / 10GB / 20GB / 30GB | $5.99 / $7.99 / $10.99 / $19.99 / $28.99 | **$4.79 / $6.39 / $8.79 / $15.99 / $23.19** | $0.32‑1.55/dag |
+| 30 dagen | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB | $6.99 / $8.99 / $15.99 / $25.99 / $29.99 / $39.99 | **$5.59 / $7.19 / $12.79 / $20.79 / $23.99 / $31.99** | $0.19‑1.07/dag |
 
-### Lezen tussen de prijskaartjes
+> ⚠️ **Roami China risicobericht**: Geen onbeperkte datatier—intensieve video/streaminggebruikers moeten hun gebruik beheren; maar vastedata-tiers hebben de laagste prijzen per GB, waardoor ze voordeliger zijn voor de overgrote meerderheid van China-reisroutes.
 
-**De prijs per GB daalt dramatisch naarmate je naar grotere bundels gaat.** Neem Roami 30-daagse abonnementen als voorbeeld:
+### Tussen de prijskaartjes door lezen
 
-| Databundel | Kortingsprijs | Prijs per GB |
-|-----------|------------------|--------------|
+**Bulk is waar de waarde zit: hoe meer GB je neemt, hoe minder elk stuk kost.** Kijk naar de Roami 30-dagenladder:
+
+| Databundel | Prijs met korting | Prijs per GB |
+|------------|-------------------|--------------|
 | 3GB | $5.59 | $1.86/GB |
 | 10GB | $12.79 | $1.28/GB |
 | 20GB | $20.79 | $1.04/GB |
 | 50GB | $31.99 | **$0.64/GB** |
 
-De prijs per GB van 50GB is ongeveer een derde van 3GB. **Conclusie: als je je verbruik kunt inschatten, bespaar je meer door een grotere bundel te kopen.**
+Een 50GB-tier kost ongeveer een derde per gigabyte van een 3GB-tier. **Dus als je enig idee hebt van je gebruik, is een stap omhoog de goedkopere zet.**
 
-**In China betekent "onbeperkt" vaak extra betalen voor psychologische zekerheid.** Roami biedt geen onbeperkt aan in China; alleen Airalo (7 dagen $27) en Holafly (7 dagen $27.30) doen dat. Vergelijk met Roami's vaste bundels:
+**In China betekent "onbeperkt" vaak extra betalen voor psychologische veiligheid.** Roami biedt in China geen onbeperkt; alleen Airalo (7‑dagen $27) en Holafly (7‑dagen $27.50) wel. Vergelijk met Roami's vaste tiers:
 
-| 7-daags abonnement | Prijs | De moeite waard? |
-|------------|-------|-----------|
-| Roami 20GB met korting | $12.79 | Beste waarde als dagelijks verbruik ≤ 2.86GB |
-| Airalo Unlimited | $27.00 | Alleen de moeite waard als dagelijks verbruik > 2.86GB |
-| Holafly Unlimited | $27.30 | Alleen de moeite waard als dagelijks verbruik > 2.86GB |
+| 7‑dagenplan | Prijs | Het waard? |
+|-------------|-------|-----------|
+| Roami 20GB met korting | $12.79 | Beste waarde als dagelijks gebruik ≤ 2.86GB |
+| Airalo Onbeperkt | $27.00 | Alleen de moeite waard als dagelijks gebruik > 2.86GB |
+| Holafly Onbeperkt | $27.50 | Alleen de moeite waard als dagelijks gebruik > 2.86GB |
 
-**Onbeperkt break-even-punt = 2.86GB/dag.** Alleen als je bijna 3GB per dag verbruikt (ongeveer 2 uur HD-video + zware sociale media) loont onbeperkt zich. De meeste reizen in China bestaan uit sightseeing, foto's en navigatie—dagelijks verbruik overschrijdt zelden 1GB—**vast 10-20GB is ruim voldoende; betaal niet het dubbele voor "onbeperkt."**
+**Het break-even voor "onbeperkt" komt uit op 2.86GB per dag.** Je moet dagelijks bijna 3GB verstoken—twee uur HD-video plus constant door social scrollen—voordat een onbeperkt plan een vast plan verslaat. Echte China-reisroutes zijn sightseeing, foto's en kaarten, die zelden 1GB per dag halen, dus is **een vaste 10–20GB-bundel de verstandige keuze; het woord "onbeperkt" is het dubbele niet waard.**
 
-**Wat kun je doen met het bespaarde geld?** Vergelijk Roami's kortingsprijzen met Airalo's equivalente bundels en zet de besparingen om in reiskosten:
+**Waar koop je de besparing eigenlijk mee?** Zet Roami's kortingstiers naast die van Airalo en vertaal het gat in dingen waar je anders voor zou betalen:
 
-| Reisplan | Roami korting vs Airalo | Besparing | Gelijk aan |
-|-----------|-----------------------|------|---------------|
-| 7 dagen 10GB | $9.59 vs $24.50 | $14.91 | Een Peking-eend maaltijd + twee koffie |
-| 15 dagen 20GB | $15.99 vs $39.00 | $23.01 | Ticket Verboden Stad + dagtocht Grote Muur |
-| 30 dagen 50GB | $31.99 vs $49.00 | $17.01 | Eén nacht in een middelklasse hotel |
+| Reisroute | Roami korting vs Airalo | Bespaar | Gelijk aan |
+|-----------|-------------------------|--------|------------|
+| 7‑dagen 10GB | $9.59 vs $24.50 | $14.91 | Een Peking-eend-maaltijd + twee koffies |
+| 15‑dagen 20GB | $15.99 vs $39.00 | $23.01 | Ticket Verboden Stad + dagtrip Grote Muur |
+| 30‑dagen 50GB | $31.99 vs $49.00 | $17.01 | Eén nacht in een middelgroot hotel |
 
-## Welke 3-daagse China eSIM is het beste?
+## Welke 3-dagen China eSIM is het beste?
 
-Voor korte reizen van 3 dagen (tussenstops / zaken / weekendtrips) is de databehoefte laag—het draait allemaal om de **instapprijs**.
+Voor korte 3‑dagenreizen (overstappen / zaken / weekendjes weg) zijn de datanoden laag—het draait allemaal om de **instapprijs**.
 
 | Data | Airalo | Holafly | Roami (korting) | Beste waarde |
-|------|--------|---------|---------------|------------|
+|------|--------|---------|-----------------|--------------|
 | 1GB | $4.00 | — | **$1.59** | **Roami** |
 | 3GB | $9.50 | — | **$3.19** | **Roami** |
 | 5GB | — | — | **$4.79** | **Roami** |
 | 10GB | — | — | **$6.39** | **Roami** |
-| Onbeperkt | $11.50 | $11.70 | — | Airalo |
+| Onbeperkt | $11.50 | $11.90 | — | Airalo |
 
-**3-daagse beslissing**: Roami 3 dagen 3GB met korting $3.19 is 66% goedkoper dan Airalo's equivalent ($9.50); Roami 3 dagen 10GB ($6.39) is zelfs 45% goedkoper dan Holafly onbeperkt ($11.70). Voor een reis van 3 dagen heb je geen onbeperkt nodig—**Roami's vaste bundels winnen over de hele linie**.
+**Oordeel 3 dagen**: Roami's 3-dagen 3GB voor $3.19 is 66% goedkoper dan Airalo's equivalent ($9.50), en Roami's 10GB ($6.39) verslaat zelfs Holafly's onbeperkt ($11.90) met 46%. Over drie dagen raak je geen onbeperkt plafond—**de vaste tiers nemen elke rij.**
 
-> **💡 Waarde-inzicht voor 3-daagse abonnementen**: Voor een reis van 3 dagen naar slechts één stad, navigatie + WhatsApp-berichten + lichte sociale media, is 1-3GB meer dan genoeg. Roami 3 dagen 3GB met korting $3.19 is iets meer dan $1/dag om al je connectiviteit op te lossen—goedkoper dan een koffie op de luchthaven. [Bekijk China eSIM 3-daagse abonnementen](/china-esim/)
+> **💡 Wat drie dagen echt kost**: één stad, kaarten plus WhatsApp plus hier en daar wat foto's dumpen, is een 1–3GB-klus. Voor $3.19 voor 3GB betaal je iets meer dan een dollar per dag om online te zijn—minder dan een luchthavenkoffie. [Bekijk China eSIM 3-dagenplannen](/china-esim/)
 
-## Welke 7-daagse China eSIM te kiezen?
+## Welke 7-dagen China eSIM kies je?
 
-7 dagen is de meest voorkomende reisduur voor reizen naar China (inclusief 144-uurs visumvrije doorreisverlengingen, en rond Nationale Dag / Lentefestival).
+7 dagen is de meest voorkomende reisduur voor reizen naar China (inclusief 144‑uur visumvrije doorreisverlenging, en rond Nationale Dag / Lente­festival).
 
 | Data | Airalo | Holafly | Roami (korting) | Beste waarde |
-|------|--------|---------|---------------|------------|
+|------|--------|---------|-----------------|--------------|
 | 1GB | — | — | **$1.59** | **Roami** |
 | 3GB | $10.50 | — | **$3.99** | **Roami** |
 | 5GB | $14.50 | — | **$5.59** | **Roami** |
 | 10GB | $24.50 | — | **$9.59** | **Roami** |
 | 20GB | — | — | **$12.79** | **Roami** |
-| Onbeperkt | $27.00 | $27.30 | — | Airalo |
+| Onbeperkt | $27.00 | $27.50 | — | Airalo |
 
-**7-daagse beslissing**: Roami 7 dagen 10GB met korting $9.59 is 61% goedkoper dan Airalo's equivalent ($24.50) en 65% goedkoper dan Holafly's onbeperkt ($27.30). Op de 10GB-bundel is Roami's korting van $9.59 slechts 40% van Airalo's $24.50.
+**Oordeel 7 dagen**: Roami's 10GB-week voor $9.59 ligt 61% onder Airalo's zelfde tier ($24.50) en 65% onder Holafly's onbeperkt ($27.50)—alleen de 10GB-lijn is maar 40% van wat Airalo rekent.
 
-> **💡 Waarde-inzicht voor 7-daagse abonnementen**: 7 dagen 10GB gemiddeld 1,43GB/dag—genoeg voor 1 uur korte video's + hele dag navigatie + veel WhatsApp-berichten. Roami's korting van $9.59 geeft je $0.96/GB—de laagste op de markt; de $14.91 die je bespaart is genoeg voor een Peking-eend maaltijd. Alleen als je dagelijks 2+ uur HD-video streamt, heb je Airalo Unlimited ($27) nodig.
+> **💡 Wat een week echt kost**: 10GB over zeven dagen is ongeveer 1.43GB per dag—een uur korte video, de hele dag navigeren en veel WhatsApp. Roami's $9.59 komt uit op $0.96/GB, en de $14.91 die je overhoudt dekt een Peking-eend-diner. Alleen als je twee-plus uur HD per dag streamt, is Airalo's $27 onbeperkt de juiste keuze.
 
-## 15-daagse China eSIM-abonnementen
+## 15-dagen China eSIM-plannen
 
-15 dagen is een gangbare duur voor rondreizen door meerdere steden onder het "30-daagse visumvrije" beleid.
+15 dagen is een gebruikelijke duur voor stedenrondreizen onder het "30‑dagen visumvrij"-beleid.
 
 | Data | Airalo | Holafly | Roami (korting) | Beste waarde |
-|------|--------|---------|---------------|------------|
+|------|--------|---------|-----------------|--------------|
 | 5GB | $15.00 | — | **$6.39** | **Roami** |
 | 10GB | $25.50 | — | **$8.79** | **Roami** |
 | 20GB | $39.00 | — | **$15.99** | **Roami** |
 | 30GB | — | — | **$23.19** | **Roami** |
-| Onbeperkt | $49.00 | $58.50 | — | Airalo |
+| Onbeperkt | $49.00 | $50.50 | — | Airalo |
 
-**15-daagse beslissing**: Roami 15 dagen 20GB met korting $15.99 is 59% goedkoper dan Airalo's equivalent ($39.00) en 73% goedkoper dan Holafly ($58.50). Roami's 30GB voor $23.19 is nog steeds minder dan 60% van Airalo's 20GB ($39.00).
+**Oordeel 15 dagen**: Roami's 20GB-tweewekelijkse voor $15.99 ligt 59% onder Airalo's zelfde tier ($39.00) en 68% onder Holafly ($50.50); de 30GB-tier voor $23.19 blijft onder 60% van Airalo's 20GB.
 
-> **💡 Waarde-inzicht voor 15-daagse abonnementen**: 15 dagen 20GB gemiddeld 1,33GB/dag—geschikt voor dagelijkse navigatie + sociale media + af en toe korte video's streamen. Roami's korting van $15.99 geeft $0.80/GB, zelfs goedkoper dan de 7-daagse bundel; Holafly's $58.50 is 3,6 keer Roami's 20GB—de extra $42 kan een leuke hotelovernachting boeken.
+> **💡 Wat een twee weken echt kost**: 20GB over 15 dagen is 1.33GB per dag—genoeg voor dagelijkse kaarten en social plus hier en daar een gestreamde aflevering. Roami's $15.99 is $0.80/GB, goedkoper per gigabyte dan zijn eigen 7-dagen tier, terwijl Holafly's $50.50 3.2× zoveel is; dat $34.51-gat is een budgethotelnacht.
 
-## 30-daagse China eSIM-prijzen
+## 30-dagen China eSIM-prijzen
 
 30 dagen dekt visumvrije lange verblijven, kortetermijnwerk, studiebezoeken en familiereünies.
 
 | Data | Airalo | Holafly | Roami (korting) | Beste waarde |
-|------|--------|---------|---------------|------------|
+|------|--------|---------|-----------------|--------------|
 | 5GB | $15.50 | — | **$7.19** | **Roami** |
 | 10GB | $26.50 | — | **$12.79** | **Roami** |
 | 20GB | $40.00 | — | **$20.79** | **Roami** |
 | 30GB | — | — | **$23.99** | **Roami** |
 | 50GB | $49.00 | — | **$31.99** | **Roami** |
-| Onbeperkt | $69.00 | $117.00 | — | Airalo |
+| Onbeperkt | $69.00 | $73.90 | — | Airalo |
 
-**30-daagse beslissing**: Roami 30 dagen 50GB met korting $31.99 is 35% goedkoper dan Airalo's equivalent ($49.00) en 73% goedkoper dan Holafly ($117.00). De 50GB-bundel voor $0.64/GB heeft de laagste prijs per GB.
+**Oordeel 30 dagen**: Roami's 50GB-maand voor $31.99 is 35% goedkoper dan Airalo's equivalent ($49.00) en 57% goedkoper dan Holafly ($73.90), en de 50GB-tier draagt de laagste kosten per gigabyte van alles op de pagina.
 
-> **💡 Waarde-inzicht voor 30-daagse abonnementen**: Voor een volledige maand [China eSIM-waarde](/china-esim/) is het antwoord duidelijk—Roami 50GB voor $0.64/GB gemiddeld 1,67GB/dag. Holafly's 30 dagen $117 is bijna 3,7 keer Roami's 50GB—het verschil van $85 kan twee middelklasse hotelovernachtingen boeken. Tenzij je dagelijks 2+ uur video-oproepen/livestreaming doet, is 50GB de meest kosteneffectieve bundel voor de maand—betaal niet het dubbele voor "onbeperkt."
+> **💡 Wat een maand echt kost**: als je één maand wilt, gemiddeld Roami's 50GB op $0.64/GB 1.67GB per dag. Holafly's 30-dagenplan voor $73.90 is 2.3× die prijs—een $41.91-gat, of een nacht in een middelgroot hotel. Tenzij je dagtaak videogesprekken of live streaming is, is 50GB de beste koop van de maand.
 
-> **💰 Tijdelijke aanbieding**
+> **💰 Tijdelijk aanbod**
 >
-> Kies Roami **China eSIM**, voer kortingscode **WEB20** in bij het afrekenen en krijg **20% korting** op alle abonnementen. Met korting 7 dagen 10GB voor $9.59 en 30 dagen 50GB voor $31.99 zijn aanzienlijk lager dan concurrerende equivalente bundels. [Koop nu China eSIM-abonnementen](/china-esim/)
+> Kies een Roami **China eSIM**, gebruik promotiecode **WEB20** bij het afrekenen en krijg **20% korting** op elk plan. De met korting geprijsde 7-dagen 10GB voor $9.59 en 30-dagen 50GB voor $31.99 liggen ruim onder wat de andere twee voor hetzelfde tegoed rekenen. [Bekijk China eSIM-plannen nu](/china-esim/)
 >
-> *Kortingscode is van toepassing op alle dagen en databundels.*
+> *Kortingscode geldt voor alle dagen en datatiers.*
 
-## China eSIM op basis van reisstijl
+## China eSIM op reisstijl
 
-### Stedentrip Peking / Shanghai (3-5 dagen)
+### Beijing / Shanghai stedentrip (3‑5 dagen)
 
-- **Gemiddeld dagelijks verbruik**: 1-2GB (navigatie + sociale media + foto-uploads)
-- **Aanbeveling**: Roami 3-5GB
-- **Reden**: 5G-dekking in de stad is uitstekend; Roami's multi-netwerkschakeling kiest automatisch het beste signaal tussen Unicom en Mobile; 3GB met korting vanaf $3.99.
-- **⚠️ Herinnering**: Sommige gebieden van de Verboden Stad en de Grote Muur hebben een zwakker signaal; multi-netwerkschakeling is stabieler dan een enkel netwerk.
+Twee of drie gigabyte is hier comfortabel. Navigatie, WeChat-foto's en hier en daar een kaartverversing komen zelden boven 1–2GB per dag uit, en de stedelijke 5G-laag is dicht genoeg dat signaal geen issue is. Neem Roami's 3–5GB-tier en laat hem wisselen tussen Unicom en Mobile; beide zijn sterk in het centrum. Binnen de Verboden Stad en boven op de Grote Muur worden de balken inderdaad dunner, en dát is precies waar een eSIM op één netwerk pijn gaat doen.
 
-### Xi'an / Chengdu cultuur- en foodtour (4-6 dagen)
+### Xi'an / Chengdu cultuur- & foodtour (4‑6 dagen)
 
-- **Gemiddeld dagelijks verbruik**: 1-2GB
-- **Aanbeveling**: Roami 5-10GB
-- **Reden**: Veel fotodeling bij de Terracottakrijgers en het Pandabas; 5GB met korting vanaf $5.59, geweldige waarde.
-- **⚠️ Herinnering**: In drukke commerciële gebieden zoals Chengdu's Chunxi Road krijgen mobiele netwerken voorrang.
+Fotozoek-reisroutes eten meer data dan mensen verwachten—Terracotta-leger, de Pandabasis en een lange reeks restaurantfoto's. Roami's 5–10GB-band dekt het comfortabel, met de 5GB-tier als verstandige vloer. Rond een drukke strip zoals Chengdu's Chunxi Road kun je verwachten dat de netwerken met etenstijd vollopen.
 
-### Guilin / Zhangjiajie natuur- en landschapstour (5-7 dagen)
+### Guilin / Zhangjiajie natuur- & landschapsreis (5‑7 dagen)
 
-- **Gemiddeld dagelijks verbruik**: 1-1,5GB
-- **Aanbeveling**: Roami 5-10GB
-- **Reden**: Dekking in de Li-rivier en Zhangjiajie-bergen is zwakker; multi-netwerkschakeling is stabieler op Mobile's bredere dekking.
-- **⚠️ Herinnering**: Diep in de bergen is er mogelijk geen signaal—download offline kaarten vooraf.
+Reken op 1–1.5GB per dag en kies Roami 5–10GB. Dekking op de Li-rivier en in de Zhangjiajie-karst is brokkeliger dan in de steden, dus houdt een eSIM die terugvalt op Mobile's bredere bereik je veel vaker online. Download de kaarten voor de kloven voordat je vertrekt—diep in het landschap is er simpelweg geen signaal om op terug te vallen.
 
-### Rondreis meerdere steden (Peking→Xi'an→Shanghai, 10-15 dagen)
+### Stedenrondreis (Beijing → Xi'an → Shanghai, 10‑15 dagen)
 
-- **Gemiddeld dagelijks verbruik**: 1,5-2GB
-- **Aanbeveling**: Roami 20-30GB
-- **Reden**: Hogesnelheidsspoortrajecten hebben dekkingsgaten; 20GB met korting $15.99 voor $0.80/GB.
-- **⚠️ Herinnering**: Korte onderbrekingen in spoortunnels zijn normaal—signaal herstelt na het verlaten.
+Een 20–30GB-bundel is de sweet spot: bij 1.5–2GB per dag komt hij uit op ongeveer $0.80/GB op de Roami 20GB-tier. De hogesnelheidstrein snijdt door stukken zonder enige dekking, en die korte uitval in tunnels is normaal—het signaal keert terug zodra de trein de doorsnijding uitkomt.
 
-### Peking / Shanghai zakenreis (3-7 dagen)
+### Beijing / Shanghai zakenreis (3–7 dagen)
 
-- **Gemiddeld dagelijks verbruik**: 1-2GB (e-mail + videoconferenties)
-- **Aanbeveling**: Roami 5-10GB
-- **Reden**: Werkt direct na aankomst, geen rij voor ID-verificatie; stabiel netwerk nodig voor video-oproepen; multi-netwerkschakeling is betrouwbaarder.
-- **⚠️ Herinnering**: Gebruik voor belangrijke vergaderingen hotel-/locatie-WiFi als back-up.
+Roami 5–10GB, gekozen om de aankomstervaring net zozeer als de prijs: hij is live zodra je landt, dus geen omweg naar een aanbiedersbalie voor identiteitspapierwerk, en de multi-netwerkwisseling is wat een videogesprek van vallen behoedt. Houd hotel- of locatie-WiFi als back-up voor alles wat cruciaal is.
 
-### Extreem krap budget (3-7 dagen)
+### Extreem krap budget (3–7 dagen)
 
-- **Gemiddeld dagelijks verbruik**: <1GB (navigatie + tekst)
-- **Aanbeveling**: Roami 1GB/7 dagen
-- **Reden**: Met korting $1.59, de laagste prijs; genoeg voor 20 uur Google Maps + veel WhatsApp-berichten.
-- **⚠️ Herinnering**: Stream geen video—1GB is slechts ongeveer 1 uur korte video's.
+Roami's 1GB / 7-dagen-tier voor $1.59 is de goedkoopste manier op het netwerk en rekt tot ongeveer 20 uur Google Maps plus flink wat WhatsApp-tekst. Houd video er alleen vanaf—1GB is ongeveer één uur korte clips.
 
-## China eSIM Great Firewall-gedeelte
+## China eSIM en de apps die je elke dag gebruikt
 
-Dit is het kernprobleem dat China onderscheidt van alle andere landen—de moeite waard om in detail uit te leggen.
+Dit is het kernpunt dat China van alle andere landen onderscheidt—het is de moeite waard om in detail uit te leggen.
 
-### Wat de Great Firewall blokkeert
+### Welke apps zich anders gedragen in vasteland-China
 
-In het vasteland van China, met gewone netwerken, is de volgende inhoud **standaard geblokkeerd**: Google (Zoeken/Gmail/Maps/YouTube), WhatsApp, Instagram, Facebook, X (Twitter) en sommige buitenlandse nieuwssites. Voor Europese en Amerikaanse toeristen die aan deze apps gewend zijn, is de ervaring van "afgesneden" zijn bij aankomst ontwrichtend.
+Op lokale vasteland-netwerken zijn de volgende diensten **standaard niet bereikbaar**: Google (Zoeken/Gmail/Maps/YouTube), WhatsApp, Instagram, Facebook, X (Twitter) en sommige buitenlandse nieuwssites. Voor reizigers die elke dag op deze apps vertrouwen, kunnen de eerste uren na landing volledig ontkoppeld aanvoelen.
 
-### Waarom een reis-eSIM ze kan bereiken
+### Hoe het datapad verschilt
 
-De sleutel is **welk pad data neemt**:
+Het sleutelwoord is **welk pad data neemt**:
 
-- **Lokale simkaart / Internationale roaming**: Data verlaat via Chinese lokale gateways—**gaat door de Firewall**—dus de bovengenoemde apps zijn geblokkeerd.
-- **Reis-eSIM**: Hoewel signalen verbinden met China Unicom/Mobile basisstations, routeert data terug via **internationale knooppunten** (zogenaamde "data landt niet in China"), met uitgang buiten China—**gaat niet door de Firewall**—dus Google/WhatsApp/Instagram werken direct.
+- **Lokale sim / internationale roaming**: data verlaat via vasteland-gateways, dus gedragen de bovenstaande apps zich precies zoals op een lokaal vasteland-netwerk.
+- **Reis-eSIM**: het profiel kleeft nog steeds aan China Unicom- of China Mobile-basisstations, maar verkeer wordt gerouteerd via **internationale knooppunten**, met uitgang buiten vasteland-China—waarom Google, WhatsApp en Instagram blijven werken zoals je verwacht.
 
-Dus een [China eSIM](/china-esim/) is niet alleen een "datakaart"—het is een **"Firewall-bypass-oplossing"**—voor gewone toeristen die zich niet met VPN's willen bezighouden, is het de eenvoudigste keuze.
+Dus is een [China eSIM](/china-esim/) niet zomaar een "datakaart"—voor de meeste kortetermijnbezoekers verwijdert het de noodzaak om rond netwerkbeperkingen te plannen helemaal.
 
-### Toegangscapaciteitsvergelijking van drie opties
+### Toegangscapaciteitvergelijking van drie opties
 
 | Optie | Google/WhatsApp | Chinese lokale apps | Kosten | Gemak |
-|--------|----------------|---------------------|------|-------------|
-| China lokale simkaart | ❌ Geblokkeerd | ✅ Werkt | Laag | Vereist paspoortregistratie |
-| Internationale roaming | ❌ Geblokkeerd | ✅ Werkt | Hoog | Werkt direct |
+|-------|-----------------|---------------------|--------|-------|
+| China lokale sim | ❌ Niet bereikbaar | ✅ Werkt | Laag | Vereist paspoortregistratie |
+| Internationale roaming | ❌ Niet bereikbaar | ✅ Werkt | Hoog | Werkt direct |
 | **Reis-eSIM** | **✅ Werkt** | Sommige vereisen lokaal nummer | Gemiddeld | Werkt bij aankomst |
-| VPN + lokale simkaart | ✅ Werkt | ✅ Werkt | Laag + gedoe | VPN nodig, met risico's |
+| **Lokale sim + reis-eSIM (dual SIM)** | ✅ Werkt | ✅ Werkt | Laag + een dataplan | Heeft een dual‑SIM-telefoon nodig |
 
-> **Belangrijke conclusie**: Een reis-eSIM is de eenvoudigste manier om "zowel toegang tot Google/WhatsApp te hebben als je niet met een VPN bezig te houden." De afweging is dat het geen Chinees telefoonnummer biedt—Chinese lokale apps (mobiele betalingen, rit-hailing) hebben andere regelingen nodig.
+> **Belangrijkste conclusie**: een reis-eSIM is de eenvoudigste manier om Google en WhatsApp te laten werken vanaf het moment dat je landt. De afweging is dat hij zonder vasteland-telefoonnummer komt—lokale apps die er een nodig hebben (mobiel betalen, taxi's) hebben een aparte regeling nodig.
 
-## China eSIM vs lokale simkaart vs internationale roaming
+## China eSIM vs lokale sim vs internationale roaming
 
-| Dimensie | Reis-eSIM | China lokale simkaart | Internationale roaming |
-|-----------|-------------|-----------------|-----------------------|
-| Google/WhatsApp | ✅ Werkt | ❌ Geblokkeerd | ❌ Geblokkeerd |
-| Installatieproces | Installeren voor vertrek | Paspoortregistratie + wachten | Geen installatie nodig |
-| Werkt bij aankomst | ✅ | ❌ Vereist activering | ✅ |
+| Dimensie | Reis-eSIM | China lokale sim | Internationale roaming |
+|----------|-----------|-----------------|------------------------|
+| Google/WhatsApp | ✅ Werkt | ❌ Niet bereikbaar | ❌ Niet bereikbaar |
+| Installatieproces | Installeer voor vertrek | Paspoortregistratie + wachten in rij | Geen installatie nodig |
+| Werkt bij aankomst | ✅ | ❌ Vereist activatie | ✅ |
 | Chinees telefoonnummer | ❌ | ✅ | ❌ |
 | Prijs | Gemiddeld (lager met korting) | Laag | Hoog |
-| Beste voor | Kortetermijntoeristen, degenen die buitenlandse apps nodig hebben | Lange verblijven, degenen die een lokaal nummer nodig hebben | Noodgeval |
+| Het beste voor | Kortetermijntoeristen, zij die buitenlandse apps nodig hebben | Lange verblijven, zij die een lokaal nummer nodig hebben | Noodgeval |
 
-**Kort samengevat**: Korte reis + Google/WhatsApp nodig → reis-eSIM; lang verblijf + Chinees nummer nodig → lokale simkaart; geen van beide nodig → koop geen roaming (duur en kan de Firewall niet omzeilen).
+**Conclusie**: korte reis + Google/WhatsApp nodig → reis-eSIM; lang verblijf + Chinees nummer nodig → lokale sim; geen van beide → koop geen roaming (duur, en hij rijdt nog steeds via een vasteland-gateway).
 
 ## Je China eSIM installeren
 
-1. **Installeer op WiFi voor vertrek**: Na aankoop ontvang je een QR-code. Ga voor vertrek naar "Instellingen → Mobiel netwerk → eSIM toevoegen" en scan de QR-code of voer de activeringscode in.
-2. **Schakel "Data Roaming" in bij aankomst**: Zorg ervoor dat je de "Data Roaming"-schakelaar inschakelt na de landing—dit is de meest voorkomende oorzaak van activeringsfouten. De telefoon maakt automatisch verbinding met China Unicom/Mobile.
-3. **Kies de data-simkaart**: Stel de reis-eSIM in als de primaire "Mobiele data"-lijn, en houd je thuissimkaart voor "Alleen spraak/SMS" als je die wilt behouden.
-4. **Schakel data roaming uit op je thuissimkaart**: Voorkom hoge roamingkosten op je binnenlandse simkaart.
-5. **Test Google/WhatsApp**: Zodra verbonden, open Google Maps en WhatsApp om te bevestigen dat de internationale route werkt.
+1. **Voeg het profiel toe zolang je nog thuis-WiFi hebt**: je QR-code arriveert binnen enkele minuten in je inbox. Open "Instellingen → Mobiel netwerk → eSIM toevoegen" en voeg hem toe vóór je vlucht—luchthaven-WiFi op het vasteland wil vaak een SMS-code die je nog niet kunt ontvangen.
+2. **Zet Data Roaming aan na landing**: een profiel dat nooit verbindt, komt bijna altijd door een roaming-schakelaar die uitstaat. Eenmaal aan kleeft de eSIM binnen ongeveer twee minuten aan China Unicom of China Mobile.
+3. **Wijs de eSIM aan als je datalijn**: houd je thuissim actief voor gesprekken en sms'en, want bank- en kaartverificatiecodes komen daar nog steeds binnen.
+4. **Zet roaming uit op de thuissim**: anders betaal je het vasteland-tarief van je eigen aanbieder in plaats van de eSIM te gebruiken die je net kocht.
+5. **Open Google Maps en WhatsApp**: als beide laden, is de internationale route live; zo niet, loop dan stappen 1–3 opnieuw door.
 
-> **Kun je geen verbinding maken? Probeer deze stappen:**
+> **Nog geen verbinding? Loop deze lijst af:**
 >
-> 1. Bevestig dat "Data Roaming" AAN staat; 2. Herstart je telefoon; 3. Kies in "Netwerkselectie" handmatig "China Unicom" of "China Mobile"; 4. Controleer of de APN overeenkomt met de instructies van de eSIM-aanbieder; 5. Als het nog steeds niet werkt, neem contact op met klantenondersteuning.
+> ① controleer of de Data Roaming-schakelaar aan staat; ② herstart het toestel; ③ kies onder "Netwerkselectie" handmatig China Unicom of China Mobile; ④ vergelijk de APN met de e-mail van je provider; ⑤ als het nog steeds dood is, open dan een supportticket en noem de EID.
 
 ## Welke telefoons werken met China eSIM?
 
-- **Internationale telefoons (gekocht in Europa/VS)**: De meeste ondersteunen eSIM—klaar voor gebruik.
-- **Vasteland China iPhones / Chinese Android**: Vasteland iPhones (XS en later) ondersteunen eSIM, maar **sommige Chinese Android-modellen hebben eSIM uitgeschakeld**—controleer je model voor aankoop.
-- **Operatorvergrendelde telefoons**: Amerikaanse operatorvergrendelde telefoons kunnen ook eSIM vergrendelen—ontgrendel eerst.
-- **Alleen-eSIM-modellen** (VS iPhone 14+): Geen fysieke simkaartsleuf—eigenlijk de beste match voor eSIM.
-- **Dual SIM dual standby**: Je kunt zowel je thuissimkaart als de China eSIM behouden—één voor verificatiecodes, één voor data.
+- **Telefoons gekocht in Europa of de VS**: de grote meerderheid ondersteunt al eSIM—niets voor te bereiden.
+- **Vasteland-China iPhones / Chinese Android**: het onhandige geval. Apple schakelt eSIM op vasteland-eenheden alleen in voor de iPhone 18 Pro, 18 Pro Max, 17e en iPhone Air, en een aantal Chinese-markt Android-toestellen hebben de mogelijkheid volledig uitgeschakeld. Voer de controle uit op Apple's compatibiliteitspagina of onze [lijst met eSIM-compatibele apparaten](/compatibility/) voordat je iets bestelt.
+- **Aanbiedersloten toestellen**: een VS-aanbiederslot kan zich ook uitstrekken tot de eSIM-sleuf, dus vraag je aanbieder de telefoon te ontgrendelen voordat je vertrekt.
+- **Telefoons zonder sim-lade** (VS iPhone 14 en later): deze zijn by design alleen-eSIM, wat ze hier juist het makkelijkst maakt.
+- **Twee lijnen tegelijk draaien**: je thuissim houdt de verificatiecodes terwijl de China eSIM de data draagt—geen noodzaak om te kiezen.
 
-## China eSIM FAQ: Alles wat je moet weten
+## China eSIM FAQ: alles wat je moet weten
 
 **Q1: Heb ik ID- of paspoortverificatie nodig voor een China eSIM?**
 
-Nee. Reis-eSIM's worden in het buitenland uitgegeven en werken bij aankomst—geen paspoortregistratie zoals bij Chinese lokale simkaarten. Je hebt alleen een eSIM-compatibele telefoon nodig, scan de QR-code voor vertrek, en je bent klaar.
+Nee. Reis-eSIM's worden buiten het vasteland uitgegeven en werken gewoon bij aankomst—er is geen paspoortregistratie zoals een Chinese lokale sim nodig heeft. Alles wat je nodig hebt, is een eSIM-capable telefoon en een gescande QR-code voor je vlucht.
 
-**Q2: Kan ik met een eSIM in China toegang krijgen tot Google en WhatsApp?**
+**Q2: Kan ik met een eSIM in China Google en WhatsApp openen?**
 
-Ja. Dit is het grootste verschil tussen een reis-eSIM en lokale simkaart/roaming—het gebruikt een internationale dataroute die de Great Firewall omzeilt, dus Google, WhatsApp, Instagram en Gmail werken allemaal normaal. Zie het Firewall-gedeelte hierboven voor details.
+Ja. Dit is het grootste verschil tussen een reis-eSIM en een lokale sim of roaming—hij gebruikt een internationale dataverbinding, dus werken Google, WhatsApp, Instagram en Gmail allemaal normaal. Zie de routeringssectie hierboven voor details.
 
-**Q3: Zal de Great Firewall mijn China eSIM blokkeren?**
+**Q3: Beïnvloeden vasteland-netwerkbeperkingen mijn China eSIM?**
 
-Over het algemeen niet. Reis-eSIM's routeren data naar het buitenland buiten China en bieden meestal stabiele toegang tot buitenlandse apps. In zeldzame gevallen, als lokale netwerken strenger worden, kunnen snelheden fluctueren, maar voor de overgrote meerderheid van gebruikers is de ervaring normaal.
+Over het algemeen nee. Reis-eSIM's routeren data-uitgang buiten vasteland-China en bieden meestal stabiele toegang tot buitenlandse apps. In zeldzame gevallen, als lokale netwerken aanscherpen, kunnen snelheden fluctueren, maar voor de overgrote meerderheid van gebruikers is de ervaring normaal.
 
-**Q4: Welke operator heeft de beste dekking in China?**
+**Q4: Welke aanbieder heeft de beste dekking in China?**
 
-China Mobile heeft de breedste dekking (vooral in afgelegen bezienswaardigheden); China Unicom is het meest voorkomende netwerk voor reis-eSIM's en biedt de meest volwassen internationale roaming-ervaring. Het kiezen van een eSIM met multi-netwerk auto-switching (zoals Roami) geeft je het beste van beide.
+China Mobile bereikt het breedstegebied, met name de verafgelegen attracties; China Unicom is de aanbieder waar de meeste reis-eSIM's standaard op staan en biedt de soepelste internationale roaming in de steden. Een eSIM met automatische multi-netwerkwisseling (Roami bijvoorbeeld) geeft je de sterkste.
 
-**Q5: Zal een eSIM een goed signaal hebben in Peking/Shanghai?**
+**Q5: Heeft een eSIM goed signaal in Beijing/Shanghai?**
 
-Uitstekend. Eersteklas steden zoals Peking en Shanghai hebben volwassen 5G-dekking met snelheden van 100-500 Mbps; reis-eSIM's werken bij aankomst met vrijwel geen verschil met lokale simkaarten.
+Uitstekend. Eersteklas steden zoals Beijing en Shanghai hebben volwassen 5G-dekking met snelheden van 100‑500 Mbps; reis-eSIM's werken bij aankomst vrijwel zonder verschil met lokale sims.
 
 **Q6: Is Airalo China eSIM goed?**
 
-Airalo is het grootste eSIM-platform ter wereld, met zeer gedetailleerde bundels in China—vaste en onbeperkte opties, verbindt met Unicom en biedt een stabiele stadservaring. Het nadeel is dat vaste bundels relatief duur zijn—ongeveer 1,5-2 keer de prijs van Roami voor dezelfde bundel.
+Airalo—hier verkocht als **Chinacom** op China Unicom—is het grootste platform van de drie en biedt de fijnmazige vaste tiers naast een onbeperkte optie, met betrouwbare stedelijke prestaties. De addertje-onder-het-gras is de prijs: zijn vaste tiers lopen ongeveer 1.5–2× die van Roami voor hetzelfde tegoed.
 
-**Q7: Is Holafly China eSIM onbeperkt de moeite waard?**
+**Q7: Is Holafly China eSIM onbeperkt het waard?**
 
-Hangt af van je verbruik. Holafly China biedt alleen onbeperkt aan voor $3.90/dag. Als je dagelijks 2+ uur HD-video streamt en meer dan 3GB/dag gebruikt, loont onbeperkt zich; anders kunnen Roami's vaste bundels je meer dan de helft besparen.
+Het hangt af van wat je verbruikt. Holafly's China-product is alleen onbeperkt, voor $3.97/dag. Als je écht meer dan 3GB per dag verstookt—twee-plus uur HD-video—kan het lonen; voor iedereen anders halveert Roami's vaste tiers de rekening ruimschoots.
 
 **Q8: Biedt Roami China eSIM onbeperkte data?**
 
-Nee. Roami China richt zich op vaste databundels (1-50GB) en biedt geen onbeperkte abonnementen. Dit is geen tekortkoming—in de context van reizen in China gebruiken de meeste mensen 1-2GB/dag, dus vast 10-20GB is ruim voldoende, en vaste bundels zijn eigenlijk goedkoper.
+Nee. Roami China richt zich op vastedata-tiers (1‑50GB) en biedt geen onbeperkte plannen. Dit is geen gebrek—in de China-reiscontext gebruiken de meeste mensen 1‑2GB/dag, dus is vaste 10‑20GB ruimschoots genoeg, en zijn vaste tiers eigenlijk goedkoper.
 
-**Q9: Kan ik hotspot gebruiken vanaf een China eSIM?**
+**Q9: Kan ik een hotspot maken van een China eSIM?**
 
-Dit varieert per merk. Roami ondersteunt onbeperkte hotspot; Airalo ondersteunt hotspot; Holafly beperkt hotspot tot 1GB/dag. Kies voor gezinnen of als je een tablet moet aansluiten Roami.
+Hangt van het merk af. Roami deelt zijn verbinding zonder limiet, Airalo staat tethering toe op zijn plannen, en Holafly beperkt delen tot 1GB/dag. Als een tablet of een tweede telefoon meegaat, is Roami de praktische keuze.
 
-**Q10: Kan een vasteland China-telefoon een China eSIM gebruiken?**
+**Q10: Kan een vasteland-China-telefoon een China eSIM gebruiken?**
 
-Vasteland iPhones (XS en later) ondersteunen eSIM en kunnen het gebruiken; maar sommige Chinese Android-modellen hebben eSIM uitgeschakeld—controleer je model voor aankoop. Internationale telefoons werken over het algemeen prima.
+Vasteland-China iPhones kunnen er over het algemeen **niet** een gebruiken—Apple schakelt eSIM daar alleen in op de iPhone 18 Pro, 18 Pro Max, 17e en iPhone Air, en de meeste Hongkong/Macao-modellen worden geleverd als dubbele fysieke sims zonder eSIM. Een deel van Chinese Android-modellen wordt ook geleverd met eSIM uitgeschakeld. Controleer eerst onze [lijst met eSIM-compatibele apparaten](/compatibility/); internationale toestellen zijn meestal prima.
 
-**Q11: Kan een China eSIM worden gebruikt in Hong Kong/Macau?**
+**Q11: Kan een China eSIM worden gebruikt in Hongkong/Macau?**
 
-Meestal niet. Vasteland China eSIM's dekken meestal alleen het vasteland; Hong Kong en Macau zijn afzonderlijke douanegebieden met onafhankelijke netwerken, waarvoor afzonderlijke Hong Kong/Macau eSIM's of pakketten die deze bevatten nodig zijn. Controleer de dekking voor vertrek.
+Meestal niet. Vasteland-China eSIM's dekken doorgaans alleen het vasteland; Hongkong en Macau zijn aparte douanegebieden met onafhankelijke netwerken, die aparte Hongkong/Macau eSIM's of pakketten die ze bevatten vereisen. Controleer de dekking voor vertrek.
 
-**Q12: Wat is beter, lokale simkaart of eSIM in China?**
+**Q12: Wat is beter, lokale sim of eSIM in China?**
 
-Hangt af van je kernbehoefte. Google/WhatsApp nodig + werkt bij aankomst → eSIM wint; Chinees telefoonnummer nodig (mobiele betalingen, rit-hailing) + lang verblijf → lokale simkaart wint (maar vereist paspoortregistratie en kan de Firewall niet omzeilen).
+Hangt af van je kernbehoefte. Google/WhatsApp nodig + werkt bij aankomst → eSIM wint; een Chinees telefoonnummer nodig (mobiel betalen, taxi's) + lang verblijf → lokale sim wint (maar vereist paspoortregistratie en rijdt via een vasteland-gateway).
 
 **Q13: Hoeveel kost een China eSIM per dag?**
 
-Met Roami kortingsprijzen: 7 dagen 10GB ~$1.37/dag, 15 dagen 20GB ~$1.07/dag, 30 dagen 50GB ~$1.07/dag—bijna twee derde goedkoper dan Holafly's $3.90/dag.
+Met Roami-kortingsprijzen: 7‑dagen 10GB ~$1.37/dag, 15‑dagen 20GB ~$1.07/dag, 30‑dagen 50GB ~$1.07/dag—bijna tweederde goedkoper dan Holafly's $3.97/dag.
 
 **Q14: Hoe lang gaat 1GB mee in China?**
 
-Ongeveer 20 uur Google Maps-navigatie + veel WhatsApp-berichten, maar slechts ongeveer 1 uur korte video's. Minimale gebruikers (navigatie + tekst) kunnen 1GB uitrekken over 3-5 dagen; als je video streamt, begin met 10GB.
+Ongeveer 20 uur Google Maps-draaien plus een gestage stroom WhatsApp-berichten—en slechts ongeveer een uur korte video. Lichte gebruikers die bij kaarten en berichten blijven, kunnen 1GB over 3–5 dagen uitsmeren; wie van plan is te streamen, begint bij 10GB.
 
 **Q15: Wat als mijn China eSIM geen signaal heeft?**
 
-Controleer eerst of "Data Roaming" AAN staat, herstart je telefoon, ga dan naar "Netwerkselectie" en kies handmatig "China Unicom" of "China Mobile." In afgelegen berggebieden is er mogelijk geen signaal—download offline kaarten vooraf.
+Begin bij de Data Roaming-schakelaar, herstart dan, open dan "Netwerkselectie" en kies handmatig China Unicom of China Mobile. In afgelegen berggebieden is er simpelweg misschien geen dekking—download offline kaarten voordat je gaat.
 
 **Q16: Zal mijn China eSIM plotseling stoppen met werken?**
 
-Normaal niet. Reis-eSIM's zijn geldig voor de gekochte duur; als data opraakt, kunnen snelheden vertragen of de verbinding verbreken, en je kunt online opwaarderen. In zeldzame gevallen van beleidsverscherping kan buitenlandse toegang fluctueren, maar de dataverbinding zelf blijft onaangetast.
+Normaal niet. Reis-eSIM's zijn geldig voor de gekochte duur; als data opraakt, kunnen snelheden vertragen of verbreken, en kun je online opwaarderen. In zeldzame gevallen van aanscherping van beleid kan buitenlandse toegang fluctueren, maar de dataverbinding zelf blijft onaangetast.
 
-**Q17: Voor een 144-uurs visumvrije doorreis, hoeveel data heb ik nodig?**
+**Q17: Voor een 144‑uur visumvrije doorreis, hoeveel data heb ik nodig?**
 
-Een 144-uurs (6-daagse) doorreis dekt meestal 1-2 steden—navigatie + sociale media + foto's, 3-5GB is genoeg. Roami 7 dagen 5GB met korting $5.59 is de beste waarde, de helft goedkoper dan onbeperkt.
+Een 144‑uur (6‑dagen) doorreis dekt meestal 1‑2 steden—navigatie + social + foto's, 3‑5GB is genoeg. Roami 7‑dagen 5GB met korting $5.59 is de beste waarde, de helft goedkoper dan onbeperkt.
 
-## China eSIM: Het eindoordeel
+## China eSIM: het definitieve oordeel
 
-| Scenario | Aanbevolen merk | Aanbevolen abonnement | Kosten (korting) | Kernreden |
-|----------|-------------------|-------------------|--------------|-------------|
-| Peking 3 dagen tussenstop | Roami | 3GB / 3 dagen | $3.19 | Werkt bij aankomst + multi-netwerk, 66% goedkoper dan Airalo |
-| Shanghai 5 dagen stedentrip | Roami | 5GB / 7 dagen | $5.59 | 5G in de stad stabiel, vaste bundel goedkoopst |
-| Xi'an 4 dagen cultuurreis | Roami | 5GB / 7 dagen | $5.59 | Multi-netwerk schakelt over naar Mobile voor betere bezienswaardigheidendekking |
-| Guilin 6 dagen landschapsreis | Roami | 10GB / 7 dagen | $9.59 | Bergdekking zwakker, multi-netwerk stabieler |
-| Chengdu 5 dagen foodreis | Roami | 5GB / 7 dagen | $5.59 | Drukke winkelgebieden, Mobile-netwerk prioriteit |
-| Rondreis 12 dagen | Roami | 20GB / 15 dagen | $15.99 | $0.80/GB, minder dekkingsgaten tussen steden |
-| Zakenreis 7 dagen | Roami | 10GB / 7 dagen | $9.59 | Video-oproepen vereisen stabiliteit, multi-netwerk betrouwbaar |
-| Lang verblijf 30 dagen | Roami | 50GB / 30 dagen | $31.99 | $0.64/GB, laagste prijs per GB |
-| Zware videostreaming 7 dagen | Airalo | Onbeperkt / 7 dagen | $27.00 | Alleen de moeite waard als dagelijks verbruik > 3GB |
-| Extreem krap budget 7 dagen | Roami | 1GB / 7 dagen | $1.59 | Laagste prijs, genoeg voor navigatie + tekst |
+| Scenario | Aanbevolen merk | Aanbevolen plan | Kosten (korting) | Kernreden |
+|----------|-----------------|-----------------|------------------|-----------|
+| Beijing 3‑dagen overstap | Roami | 3GB / 3‑dagen | $3.19 | Werkt bij aankomst + multi‑netwerk, 66% goedkoper dan Airalo |
+| Shanghai 5‑dagen stedentrip | Roami | 5GB / 7‑dagen | $5.59 | Stads-5G stabiel, vaste tier goedkoopst |
+| Xi'an 4‑dagen cultuurreis | Roami | 5GB / 7‑dagen | $5.59 | Multi‑netwerk schakelt naar Mobile voor betere attractiedekking |
+| Guilin 6‑dagen landschapsreis | Roami | 10GB / 7‑dagen | $9.59 | Bergdekking zwakker, multi‑netwerk stabieler |
+| Chengdu 5‑dagen foodreis | Roami | 5GB / 7‑dagen | $5.59 | Drukke winkelgebieden, Mobile-netwerkprioriteit |
+| Stedenrondreis 12 dagen | Roami | 20GB / 15‑dagen | $15.99 | $0.80/GB, minder dekkingsgaten tussen steden |
+| Zakenreis 7 dagen | Roami | 10GB / 7‑dagen | $9.59 | Videogesprekken hebben stabiliteit nodig, multi‑netwerk betrouwbaar |
+| Lang verblijf 30 dagen | Roami | 50GB / 30‑dagen | $31.99 | $0.64/GB, laagste prijs per GB |
+| Intensief video streamen 7 dagen | Airalo | Onbeperkt / 7‑dagen | $27.00 | Alleen de moeite waard als dagelijks gebruik > 3GB |
+| Extreem krap budget 7 dagen | Roami | 1GB / 7‑dagen | $1.59 | Laagste prijs, genoeg voor navigatie + tekst |
 
-Nog steeds niet zeker? [Bekijk alle Roami China eSIM-abonnementen →](/china-esim/)
+Nog steeds niet zeker? [Bekijk alle Roami China eSIM-plannen →](/china-esim/)
 
-## China eSIM: Pro-tips
+## China eSIM: professionele tips
 
-- **Installeer voor vertrek, gebruik bij aankomst**: Installeer de eSIM op WiFi voordat je vertrekt; schakel data roaming in bij landing, en het maakt automatisch verbinding—je kunt een WhatsApp "ik ben veilig" sturen in de eerste minuut.
-- **Vergeet niet "Data Roaming" in te schakelen**: Dit is de meest voorkomende activeringsfout—velen vergeten de Data Roaming-schakelaar om te zetten.
-- **Test eerst Google Maps en WhatsApp**: Test na verbinding deze twee apps om te bevestigen dat de internationale route werkt.
-- **Chinees nummer nodig? Plan vooruit**: Rit-hailing, voedselbezorging en mobiele betalingen vereisen meestal een lokaal nummer—overweeg een nummer te huren of vraag je hotel om hulp.
-- **Download offline kaarten voor bezienswaardigheden**: Diep bij de Grote Muur, Li-rivier of Zhangjiajie is het signaal mogelijk niet beschikbaar—vertrouw niet alleen op mobiel netwerk voor navigatie.
-- **Bewaar je thuissimkaart voor verificatiecodes**: Bank- en creditcardverificatiecodes zijn gekoppeld aan je thuisnummer—je hoeft geen lokaal Chinees nummer te kopen.
-- **Kies het juiste merk voor hotspot**: Kies voor gezinnen/meerdere personen Roami (onbeperkt) of Airalo (ondersteund)—vermijd Holafly (1GB/dag limiet).
-- **Maak een screenshot en bewaar je QR-code**: Bewaar de eSIM QR-code screenshot in je foto's of cloudopslag, voor het geval de e-mail verloren gaat en je niet opnieuw kunt installeren.
+- **Voeg hem thuis toe, niet bij de gate**: installeer op je eigen WiFi voordat je vliegt. Luchthaven-WiFi op het vasteland wil vaak een SMS-code die je nog niet kunt ontvangen, dus is een verouderde QR-e-mail wel het laatste waar je naar op jacht wilt zijn.
+- **De roaming-schakelaar vangt iedereen**: als het profiel installeert maar nooit een netwerk pakt, is Data Roaming negen van de tien keer de boosdoener.
+- **Doe de twee-app-test**: open Google Maps en WhatsApp zodra je landt. Als beide laden, werkt je internationale route en kun je ophouden met zorgen.
+- **Regel een lokaal nummer apart als je er een nodig hebt**: taxi's, bezorging en mobiel betalen leunen op een vasteland-nummer. Een data-eSIM levert er geen—huur er een of vraag de hotelreceptie.
+- **Cache kaarten voor de landschapssluiproutes**: op de Grote Muur, langs de Li-rivier of binnenin Zhangjiajie kunnen de balken verdwijnen; download het gebied voordat je vertrekt.
+- **Houd de thuissim live voor codes**: je bank- en kaartverificatieteksten zitten aan je thuisnummer vast, niet aan iets wat je in China koopt.
+- **Koppel het merk aan je hotspotbehoeften**: reis je in groep? Roami deelt zonder limiet en Airalo staat tethering toe, terwijl Holafly je beperkt tot 1GB/dag.
+- **Fotografeer de QR-code**: bewaar een kopie in je fotomap of clouddrive zodat een verloren e-mail nooit een nutteloze reis betekent.
 
-## China eSIM databronnen
+## Waar een China eSIM je hierna naartoe brengt
+
+Veel China-reizen gaan verder elders in Azië, of door naar de VS en Europa. Deze gidsen dekken de vervolg-etappes:
+
+- Een [Japan eSIM-gids voor het Azië-deel van de reis](/blog/airalo-japan-esim-guide/) vergelijkt pocket-WiFi met eSIM voor de volgende halte.
+- Zie [hoe een USA eSIM het probleem zonder telefoonnummer oplost](/blog/airalo-usa-esim-guide/) voordat je een VS-etappe plant.
+- Volgt Europa, lees dan [wat Brexit veranderde voor UK eSIMs](/blog/airalo-uk-esim-guide/).
+
+## China eSIM gegevensbronnen
 
 | Organisatie | Doel | Link |
-|--------------|---------|------|
-| MIIT (Ministerie van Industrie en Informatietechnologie) | China's echte-naam-beleid / telecommunicatieregulering | https://www.miit.gov.cn/ |
-| Opensignal | China 5G-dekking / mobiele ervaring | https://www.opensignal.com/ |
-| Ookla Speedtest | China mobiele snelheden | https://www.speedtest.net/global-index/china |
-| GSMA | eSIM-industriestandaarden | https://www.gsma.com/ |
+|-------------|------|------|
+| MIIT (Ministerie van Industrie en Informatietechnologie) | Vasteland echte-naam-beleid / telecomregulering | [MIIT-telecomstatistieken](https://www.miit.gov.cn/gxsj/tjfx/txy/index.html) |
+| Ookla Speedtest | China mobiele snelheden | [Speedtest Global Index – China](https://www.speedtest.net/global-index/china) |
+| GSMA | eSIM-industriestandaarden | [GSMA eSIM-specificatie](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| Apple | eSIM-apparaatondersteuning | [Apple eSIM-ondersteuning](https://support.apple.com/en-us/109317) |
 
-*Prijsgegevens per september 2026, gebaseerd op officiële websites van merken. Dit artikel is bedoeld voor informatieve doeleinden en vormt geen aankoopadvies.*
+*Prijsgegevens per september 2026, gebaseerd op officiële websites van merken. Dit artikel is ter informatie en vormt geen aankoopadvies.*

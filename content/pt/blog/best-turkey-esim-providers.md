@@ -1,53 +1,53 @@
 ---
-title: "Melhores provedores de eSIM da Turquia: comparativo"
-description: "Comparamos Airalo, Holafly, Nomad e Saily em relação a seis modos reais de falha, e depois mostramos por que a Roami é o Turkey eSIM de menor risco."
-keywords: ["melhor provedor turkey esim", "comparação turkey esim", "airalo vs holafly turkey", "melhor esim para turquia", "qual turkey esim comprar", "roami turkey esim", "provedores turkey esim comparados"]
-date: 2026-09-22T00:00:00Z
-lastmod: 2026-09-22T00:00:00Z
+title: "Os Melhores Provedores de eSIM para a Turquia, Comparados para Você"
+description: "Mapeamos a Airalo, Holafly, Nomad e Saily em relação a seis modos reais de falha e mostramos por que a Roami é o eSIM para a Turquia de menor risco."
+keywords: ["melhor provedor de esim para turquia", "comparação de esim para turquia", "airalo vs holafly turquia", "melhor esim para a turquia", "qual esim para turquia comprar", "roami esim turquia", "provedores de esim para turquia comparados"]
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
-authorBio: "A Roami oferece planos eSIM confiáveis, atendendo mais de 1 milhão de viajantes anualmente, e suporta troca automática de rede local para ajudar os viajantes a permanecerem conectados globalmente."
+authorBio: "A Roami oferece planos de eSIM confiáveis, atendendo mais de 1 milhão de viajantes por ano, e suporta troca automática de rede local para ajudar os viajantes a permanecerem conectados globalmente."
 image: "/img/esim/turkey/best-turkey-esim-providers.jpg"
-categories: ["eSIM", "Viagens", "Turquia"]
+categories: ["eSIM", "Travel", "Turkey"]
 tags: ["Turkey eSIM"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Qual Provedor de Turkey eSIM é o Certo para Você?"
+h1title: "Qual Provedor de eSIM para a Turquia é Certo para Você?"
 
-productsTitle: "Planos eSIM Populares"
-hotPostsTitle: "Artigos Populares"
-recentPostsTitle: "Artigos Recentes"
+productsTitle: "Planos de eSIM Populares"
+hotPostsTitle: "Artigos em Alta"
+recentPostsTitle: "Publicações Recentes"
 
 products:
-  - name: "Spain eSIM"
+  - name: "eSIM da Espanha"
     flag: "/img/flags/es.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: true
     slug: "spain"
-  - name: "Portugal eSIM"
+  - name: "eSIM de Portugal"
     flag: "/img/flags/pt.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "portugal"
-  - name: "France eSIM"
+  - name: "eSIM da França"
     flag: "/img/flags/fr.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "france"
-  - name: "Italy eSIM"
+  - name: "eSIM da Itália"
     flag: "/img/flags/it.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "italy"
-  - name: "UK eSIM"
+  - name: "eSIM do Reino Unido"
     flag: "/img/flags/gb.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "uk"
-  - name: "Netherlands eSIM"
+  - name: "eSIM da Holanda"
     flag: "/img/flags/nl.svg"
-    price: "From $1.99"
+    price: "A partir de US$ 1.99"
     is_highlight: false
     slug: "netherlands"
 
@@ -55,234 +55,242 @@ recentPosts:
   - title: "Lista de Dispositivos Compatíveis com eSIM"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "Transferência de eSIM Entre Plataformas 2026"
+  - title: "Transferência de eSIM entre Plataformas em 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Não Funciona? 12 Correções para iPhone"
+  - title: "eSIM Duplo Não Funciona? 12 Correções para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Guia de Compatibilidade do iPhone SE com eSIM"
+  - title: "Guia de Compatibilidade de eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Guia Completo de Configuração do eSIM no iPhone 11"
+  - title: "Guia Completo de Configuração de eSIM para iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-## Melhores Provedores de Turkey eSIM: Airalo, Holafly, Nomad e Saily Comparados
 
-Nenhum provedor é o melhor para todas as viagens, então o Turkey eSIM certo depende de qual falha você pode menos se permitir. Este guia classifica Airalo, Holafly, Saily, Nomad, Ubigi, Roami e Klook em relação a seis modos reais de falha.
 
-## Em Resumo
+A Turquia tem três redes nacionais, um bloqueio governamental a aplicativos de eSIM estrangeiros e um conjunto de regras de importação que podem pegar visitantes de longa estada — por isso o melhor eSIM para a Turquia depende menos da marca do que do tipo de falha que você menos pode arcar. A Airalo conecta-se apenas à Türk Telekom, a Nomad e a Holafly usam a Turkcell, e a Saily não divulga sua operadora, enquanto o bloqueio da BTK pode cortar o aplicativo de um provedor no momento em que você pousa e transformar um problema de ativação rotineiro em algo insolúvel. Este guia classifica a Airalo, Holafly, Saily, Nomad, Ubigi, Roami e Klook em relação a seis modos reais de falha, em vez de uma lista de preços, para que você veja qual provedor tem menor probabilidade de falhar para a sua viagem específica.
 
-- Nenhum provedor vence em todas as viagens, então a escolha certa depende de qual risco de falha mais importa para você.
-- Airalo conecta-se apenas à Türk Telekom, Nomad e Holafly usam Turkcell, e Saily não divulga sua rede.
-- Como o bloqueio BTK pode cortar aplicativos de provedores após o pouso, o acesso ao suporte torna-se o fator decisivo.
-- Roami é a opção de menor risco para a maioria dos viajantes, com troca automática Turkcell/Vodafone e suporte humano 24 horas por dia, 7 dias por semana.
+## Os Melhores Provedores de eSIM para a Turquia: Airalo, Holafly, Nomad e Saily Comparados
 
-## O Que Este Guia de Provedores Resolve
+Nenhum provedor é o melhor para toda viagem, por isso o eSIM certo para a Turquia depende do tipo de falha que você menos pode arcar. Este guia classifica a Airalo, Holafly, Saily, Nomad, Ubigi, Roami e Klook em relação a seis modos reais de falha.
 
-Esta não é uma lista classificada. É um mapa de modos de falha. A pergunta que esta página responde: qual provedor tem menos probabilidade de falhar na minha viagem específica? Um provedor que é primeiro em preço pode falhar completamente para um viajante rural. Um provedor que é último em recursos pode ser o único que funciona quando a ativação falha após o pouso.
+## O Cenário dos Provedores de eSIM para a Turquia em Resumo
 
-A Turquia tem três restrições que tornam a classificação usual inútil. A rede determina a cobertura: Nomad e Holafly conectam-se à Turkcell, Airalo conecta-se apenas à Türk Telekom, e Saily não divulga sua operadora. O bloqueio BTK determina o acesso ao suporte: uma boa política de reembolso que exige acesso ao aplicativo é menos útil do que suporte por telefone ou chat Wi-Fi. O modo de falha depende do viajante: um turista urbano e um viajante rural precisam de provedores diferentes, mesmo com o mesmo plano.
+- Nenhum provedor vence em toda viagem, por isso a escolha certa depende do risco de falha que mais importa para você.
+- A Airalo conecta-se apenas à Türk Telekom, a Nomad e a Holafly usam a Turkcell, e a Saily não divulga sua rede.
+- Como o bloqueio da BTK pode cortar os aplicativos dos provedores após você pousar, o acesso ao suporte se torna o fator decisivo.
+- A Roami é a opção de menor risco para a maioria dos viajantes, com troca automática entre Turkcell, Vodafone e Türk Telekom, além de suporte humano 24/7.
 
-Esta página mapeia cada grande provedor em relação a seis modos de falha. Para preços, leia o [guia de preços](/blog/cheapest-turkey-esim/). Para reclamações de usuários, leia o [guia de avaliações do Reddit e verificações de legitimidade](/blog/turkey-esim-reddit-reviews-legit/). Para etapas de compra e reembolso, leia o [guia de compra](/blog/buy-turkey-esim-online/).
+## O Que Este Guia de Provedores de eSIM para a Turquia Resolve
 
-## Quais São as Seis Maneiras pelas Quais um eSIM Falha?
+Esta não é uma lista classificada. É um mapa de modos de falha. A pergunta que esta página responde: qual provedor tem menor probabilidade de falhar para a minha viagem específica? Um provedor que figura em primeiro lugar em preço pode falhar completamente para um viajante rural. Um provedor que figura por último em recursos pode ser o único que funciona quando a ativação falha após o pouso. Preços, status de bloqueio e lista de planos abaixo são válidos até setembro de 2026.
 
-Toda falha de Turkey eSIM se enquadra em uma dessas seis categorias. Cada uma tem uma causa diferente, um perfil de viajante em risco diferente e um provedor diferente que lida melhor com ela. Use esta seção para identificar seu risco principal antes de escolher um provedor.
+A Turquia tem três restrições que tornam a classificação usual inútil. A rede determina a cobertura: Nomad e Holafly conectam-se à Turkcell, a Airalo conecta-se apenas à Türk Telekom, e a Saily não divulga sua operadora. O bloqueio da BTK determina o acesso ao suporte: uma boa política de reembolso que exige acesso ao aplicativo é menos útil do que suporte por telefone ou chat via Wi-Fi. O modo de falha depende do viajante: um turista de cidade e um viajante de estrada rural precisam de provedores diferentes, mesmo com o mesmo plano.
 
-### Modo de Falha 1: Incompatibilidade de Rede para Turkey eSIM
+Esta página mapeia todos os principais provedores em relação a seis modos de falha. Para as decisões a respeito:
 
-O eSIM conecta-se a uma operadora que não cobre seu destino. Türk Telekom funciona em Istambul, mas cai nos vales da Capadócia. Turkcell funciona quase em todos os lugares. Para a comparação completa de redes, leia o [guia Turkcell vs Vodafone vs Türk Telekom](/blog/turkcell-vodafone-turk-telekom-esim/). Para cobertura e velocidades medidas, veja o [relatório OpenSignal Turkey](https://www.opensignal.com/reports/turkey).
+- Matemática de preços: o [guia de custo de eSIM para a Turquia](/blog/cheapest-turkey-esim/)
+- Reclamações de usuários e verificações de legitimidade: o [guia de avaliações no Reddit](/blog/turkey-esim-reddit-reviews-legit/)
+- Passos de compra e reembolso: o [guia de compra](/blog/buy-turkey-esim-online/)
 
-**Mais vulneráveis:** Capadócia, leste da Turquia, costa do Mar Negro, rodovias rurais.
+## Quais São as Seis Formas pelas Quais um eSIM Falha?
 
-**Provedores que lidam melhor:** Nomad (Turkcell), Holafly (Turkcell + Türk Telekom), Roami (Turkcell + Vodafone com troca automática).
+Toda falha de eSIM na Turquia se enquadra em uma destas seis categorias. Cada uma tem uma causa diferente, um perfil de viajante diferente em risco e um provedor diferente que a trata melhor. Use esta seção para identificar seu risco principal antes de escolher um provedor.
 
-**Provedores em risco:** Airalo (apenas Türk Telekom), Klook (apenas Türk Telekom), Saily (rede não divulgada).
+### Modo de Falha 1: Incompatibilidade de Rede
 
-### Modo de Falha 2: Inacessibilidade do Suporte para Turkey eSIM
+O eSIM conecta-se a uma operadora que não cobre o seu destino. A Türk Telekom funciona em Istambul, mas cai nos vales da Capadócia. A Turkcell funciona em quase todo lugar. Para a comparação completa de redes, leia o [guia Turkcell vs Vodafone vs Türk Telekom](/blog/turkcell-vodafone-turk-telekom-esim/). Para cobertura e velocidades medidas, veja as [medições independentes de rede da Opensignal](https://www.opensignal.com/).
 
-O eSIM falha após o pouso, e você não consegue alcançar o suporte porque o aplicativo e o site do provedor estão bloqueados pela BTK. O suporte por e-mail leva 24–72 horas, o que é muito lento quando você está parado em um aeroporto sem dados. O aviso de viagem UK FCDO Turkey agora recomenda ativar o eSIM antes da partida para evitar exatamente esse cenário. Veja o [aviso de viagem UK FCDO Turkey](https://www.gov.uk/foreign-travel-advice/turkey).
+**Mais vulnerável:** Capadócia, leste da Turquia, costa do Mar Negro, rodovias rurais.
 
-**Mais vulneráveis:** Viajantes cujo eSIM não ativa após a chegada.
+**Provedores que a tratam melhor:** Nomad (Turkcell), Holafly (Turkcell + Türk Telekom), Roami (as três redes com troca automática).
 
-**Provedores que lidam melhor:** Roami (chat humano 24/7 que funciona via Wi-Fi), HelloRoam (suporte ao vivo 24/7).
+**Provedores em risco:** Airalo (somente Türk Telekom), Klook (somente Türk Telekom), Saily (rede não divulgada).
+
+### Modo de Falha 2: Inacessibilidade de Suporte
+
+O eSIM falha após o pouso, e você não consegue contatar o suporte porque o aplicativo e o site do provedor estão bloqueados pela BTK. O suporte por e-mail leva de 24 a 72 horas, o que é lento demais quando você está em um aeroporto sem dados. As orientações de viagem do Reino Unido (FCDO) para a Turquia agora recomendam ativar o eSIM antes da partida para evitar exatamente esse cenário. Veja as [orientações de viagem do FCDO do Reino Unido para a Turquia](https://www.gov.uk/foreign-travel-advice/turkey).
+
+**Mais vulnerável:** Viajantes cujo eSIM não consegue ativar após a chegada.
+
+**Provedores que a tratam melhor:** Roami (chat humano 24/7 que funciona via Wi-Fi), HelloRoam (suporte ao vivo 24/7).
 
 **Provedores em risco:** Airalo, Holafly, Nomad, Ubigi (suporte apenas por e-mail, resposta em 24–72 horas).
 
-### Modo de Falha 3: Limitação de FUP para Turkey eSIM
+### Modo de Falha 3: Limitação por FUP
 
-O plano "ilimitado" é limitado após um limite diário. A velocidade cai para 128 Kbps–1 Mbps. Chamadas de vídeo e streaming tornam-se impossíveis. Para a análise completa da FUP, leia o [guia de política de hotspot](/blog/turkey-esim-number-calls-sms-hotspot/).
+O plano "ilimitado" sofre limitação após um limite diário. A velocidade cai para 128 Kbps–1 Mbps. Chamadas de vídeo e streaming se tornam impossíveis. Para a análise completa do FUP, leia o [guia de política de hotspot](/blog/turkey-esim-number-calls-sms-hotspot/).
 
-**Mais vulneráveis:** Streamers, usuários de chamadas de vídeo, usuários de hotspot.
+**Mais vulnerável:** Usuários de streaming, chamadas de vídeo, usuários de hotspot.
 
-**Provedores que lidam melhor:** Planos de dados fixos sem FUP (Nomad, Ubigi, Airalo). Roami oferece FUP transparente para os primeiros 30 GB.
+**Provedores que a tratam melhor:** Planos de dados fixos sem FUP (Nomad, Ubigi). A Roami publica uma cota diária de uso justo — 1–2 GB em velocidade máxima, dependendo do plano — em vez de um único limite vitalício.
 
-**Provedores em risco:** Holafly (limita para 0.148 Mbps após 2–3 GB/dia), Saily (limita para 1 Mbps após 5 GB/dia).
+**Provedores em risco:** Holafly (limita para 0,148 Mbps após 2–3 GB/dia), Saily (limita para 1 Mbps após 5 GB/dia).
 
-### Modo de Falha 4: Restrição de Hotspot para Turkey eSIM
+### Modo de Falha 4: Restrição de Hotspot
 
-O plano limita ou bloqueia o tethering. Famílias e trabalhadores remotos que planejavam compartilhar dados descobrem a restrição apenas após a compra.
+O plano limita ou bloqueia o compartilhamento de internet (tethering). Famílias e trabalhadores remotos que planejavam compartilhar dados só descobrem a restrição após a compra.
 
-**Mais vulneráveis:** Famílias, grupos, trabalhadores remotos conectando um laptop.
+**Mais vulnerável:** Famílias, grupos, trabalhadores remotos compartilhando com notebook.
 
-**Provedores que lidam melhor:** Saily (tethering ilimitado), Roami (hotspot sem restrições em todos os planos), Airalo (sem restrições).
+**Provedores que a tratam melhor:** Saily (tethering ilimitado), Roami (hotspot irrestrito em todos os planos), Airalo (irrestrito).
 
-**Provedores em risco:** Holafly (limite de hotspot de 500 MB/dia), Kudo (planos ilimitados não permitem hotspot).
+**Provedores em risco:** Holafly (limite de hotspot de 1 GB/dia), Kudo (planos ilimitados não permitem hotspot).
 
-### Modo de Falha 5: Falha de Ativação para Turkey eSIM
+### Modo de Falha 5: Falha de Ativação
 
-O eSIM instala, mas nunca se registra em uma rede turca. As causas incluem telefones bloqueados por operadora, variantes regionais sem hardware eUICC, erros de provisionamento ou configuração incorreta de APN. Para o fluxo de diagnóstico completo, leia o [fluxo de diagnóstico](/blog/how-turkey-esim-works-activation/).
+O eSIM é instalado, mas nunca se registra em uma rede turca. As causas incluem telefones bloqueados pela operadora, variantes regionais sem hardware eUICC, erros de provisionamento ou configuração incorreta de APN. Para o fluxo de diagnóstico completo, leia o [fluxo de diagnóstico](/blog/how-turkey-esim-works-activation/).
 
-**Mais vulneráveis:** Telefones bloqueados por operadora, iPhones da China/HK/Macau, variantes regionais erradas.
+**Mais vulnerável:** Telefones bloqueados pela operadora, iPhones da China/HK/Macau, variantes regionais erradas.
 
-**Provedores que lidam melhor:** Qualquer provedor — esta falha é do lado do dispositivo, não do provedor. Verifique EID e bloqueio de operadora antes de comprar. Leia o [guia de compatibilidade](/blog/turkey-esim-device-compatibility/).
+**Provedores que a tratam melhor:** Qualquer provedor — esta falha é do lado do dispositivo, não do provedor. Verifique o EID e o bloqueio da operadora antes de comprar. Leia o [guia de compatibilidade](/blog/turkey-esim-device-compatibility/).
 
 **Provedores em risco:** Nenhum especificamente. A falha está no dispositivo, não no eSIM.
 
-### Modo de Falha 6: Recusa de Reembolso para Turkey eSIM
+### Modo de Falha 6: Negação de Reembolso
 
-O eSIM falha, e o provedor recusa o reembolso porque o plano foi "ativado". Alguns provedores contam uma tentativa de ativação falhada como ativação. Para o fluxo completo de disputa de reembolso, leia o [guia de reclamações do Reddit e reembolsos](/blog/turkey-esim-reddit-reviews-legit/).
+O eSIM falha, e o provedor se recusa a reembolsar porque o plano foi "ativado". Alguns provedores consideram uma tentativa de ativação frustrada como ativação. Para o fluxo completo de disputa de reembolso, leia o [guia de reclamações e reembolso no Reddit](/blog/turkey-esim-reddit-reviews-legit/).
 
-**Mais vulneráveis:** Compradores de provedores com políticas de reembolso restritivas.
+**Mais vulnerável:** Compradores de provedores com políticas de reembolso restritivas.
 
-**Provedores que lidam melhor:** HelloRoam (janela de reembolso de 180 dias para eSIMs não ativados), Saily (janela de 14 dias), Klook (reembolsos parciais para eSIMs ativados com problemas técnicos).
+**Provedores que a tratam melhor:** HelloRoam (janela de reembolso de 180 dias para eSIMs não ativados), Saily (janela de 30 dias), Klook (reembolsos parciais para eSIMs ativados com problemas técnicos).
 
-**Provedores em risco:** Holafly (sem reembolso após ativação), Airalo (sem reembolso após ativação).
+**Provedores em risco:** Airalo (sem reembolso após ativação). A Holafly permite seis meses em um eSIM não ativado, mas não oferece caminho garantido assim que você usar dados.
 
-### Tabela Resumo dos Modos de Falha do Turkey eSIM
+### Resumo dos Modos de Falha
 
-| Modo de falha | Melhor provedor | Pior provedor | Correção |
+| Failure mode | Best provider | Worst provider | Fix |
 |---|---|---|---|
-| Incompatibilidade de rede | Nomad, Holafly, Roami | Airalo, Klook | Escolha conectado à Turkcell |
-| Inacessibilidade do suporte | Roami, HelloRoam | Airalo, Holafly, Nomad | Escolha suporte acessível via Wi-Fi |
-| Limitação de FUP | Planos de dados fixos | Holafly | Evite ilimitado com FUP baixa |
-| Restrição de hotspot | Saily, Roami | Holafly | Verifique primeiro a política de hotspot |
-| Falha de ativação | Qualquer — do lado do dispositivo | Nenhum | Verifique EID e bloqueio de operadora |
-| Recusa de reembolso | HelloRoam | Holafly | Leia primeiro a política de reembolso |
+| Incompatibilidade de rede | Nomad, Holafly, Roami | Airalo, Klook | Escolha provedor conectado à Turkcell |
+| Inacessibilidade de suporte | Roami, HelloRoam | Airalo, Holafly, Nomad | Escolha suporte acessível via Wi-Fi |
+| Limitação por FUP | Planos de dados fixos | Holafly | Evite ilimitado com FUP baixo |
+| Restrição de hotspot | Saily, Roami | Holafly | Verifique a política de hotspot primeiro |
+| Falha de ativação | Qualquer — do lado do dispositivo | Nenhum | Verifique EID e bloqueio da operadora |
+| Negação de reembolso | HelloRoam | Holafly | Leia a política de reembolso primeiro |
 
-## Tabela de Comparação de Provedores
+## Tabela de Comparação de Provedores de eSIM para a Turquia
 
-Esta é a tabela mais importante da página. Ela mapeia cada grande provedor em relação a rede, FUP, hotspot, reembolso, suporte e status BTK. Leia antes de escolher.
+Esta é a tabela mais importante da página. Ela mapeia cada provedor principal em relação a rede, FUP, hotspot, reembolso, suporte e status na BTK. Leia-a antes de escolher.
 
-| Provedor | Rede | FUP | Hotspot | Reembolso | Suporte | Bloqueado BTK | Melhor para |
+| Provider | Network | FUP | Hotspot | Refund | Support | BTK blocked | Best for |
 |---|---|---|---|---|---|---|---|
-| Airalo | Apenas Türk Telekom | Varia | Sem restrições | 14 dias não ativado | App, bloqueado | Sim | Viagens urbanas |
-| Holafly | Turkcell + Türk Telekom | 2–3 GB/dia | 500 MB/dia | Nenhum após ativação | App, bloqueado | Sim | Streamers solo |
-| Saily | Multi-rede não divulgada | 5 GB/dia | Ilimitado | 14 dias não ativado | No app | Sim | Famílias, hotspot |
+| Airalo | Somente Türk Telekom | Varia | Irrestrito | 14 dias não ativado | App, bloqueado | Sim | Viagens urbanas |
+| Holafly | Turkcell + Türk Telekom | 2–3 GB/dia | 1 GB/dia | 6 meses se não ativado | App, bloqueado | Sim | Streamers solo |
+| Saily | Multi-rede não divulgada | 5 GB/dia | Ilimitado | 30 dias não ativado | No app | Sim | Famílias, hotspot |
 | Nomad | Turkcell | Varia | Sim | Varia | E-mail, lento | Sim | Rural econômico |
-| Ubigi | Multi-rede | Varia | Sim | Varia | E-mail, lento | Sim | Intermediário, transferência |
-| Roami | Turkcell + Vodafone | 30 GB transparente | Sem restrições | Publicado | Humano 24/7 | Sim | Baixo risco em todos os modos |
+| Ubigi | Multi-rede | Varia | Sim | Varia | E-mail, lento | Sim | Faixa média, transferência |
+| Roami | Turkcell + Vodafone + Türk Telekom | Cota de 1–2 GB/dia | Irrestrito | Publicado | Humano 24/7 | Sim | Baixo risco em todos os modos |
 | Klook | Türk Telekom | Varia | Varia | Varia | Variável | Não | Backup após pouso |
 
-## Airalo: Melhor para Viagens Urbanas, Pior para Rural
+## eSIM Airalo: Melhor para Viagens Urbanas, Pior para o Interior
 
-Airalo é a marca de eSIM de viagem mais reconhecida. Sua fraqueza principal na Turquia é a rede: conecta-se apenas à Türk Telekom. Isso significa excelente cobertura urbana e cobertura rural fraca.
+A Airalo é a marca de eSIM para viagens mais reconhecida. Sua fraqueza central na Turquia é a rede: conecta-se apenas à Türk Telekom. Isso significa excelente cobertura urbana e cobertura rural fraca.
 
-### Onde o Airalo Turkey eSIM Funciona
+### Onde a Airalo Funciona
 
-- Istambul, Ancara, Izmir
-- Antália, Bodrum, Marmaris
-- Viagens focadas em cidades de qualquer duração
+- Istambul, Ancara, Esmirna
+- Antália, Bodrum, Mármaris
+- Viagens focadas em cidades, de qualquer duração
 
-### Onde o Airalo Turkey eSIM Falha
+### Onde a Airalo Falha
 
 - Vales de cavernas da Capadócia
-- Anatólia Oriental
+- Leste da Anatólia
 - Costa do Mar Negro
 - Rodovias rurais
 
-### Modo de Falha Principal do Airalo Turkey eSIM
+### Modo de Falha Principal da Airalo
 
 Incompatibilidade de rede. O plano funciona. O aplicativo funciona antes da partida. A rede não alcança destinos rurais.
 
-### Modos de Falha Secundários do Airalo Turkey eSIM
+### Modos de Falha Secundários da Airalo
 
-- Inacessibilidade do suporte: aplicativo bloqueado após o pouso
-- Recusa de reembolso: sem reembolso após ativação
+- Inacessibilidade de suporte: app bloqueado após o pouso
+- Negação de reembolso: sem reembolso após ativação
 
-### Perfil do Airalo Turkey eSIM
+### Perfil da Airalo
 
-| Dimensão | Avaliação |
+| Dimension | Assessment |
 |---|---|
-| Rede | Apenas Türk Telekom |
-| Hotspot | Sem restrições |
+| Rede | Somente Türk Telekom |
+| Hotspot | Irrestrito |
 | Reembolso | 14 dias não ativado |
-| Suporte | App, bloqueado após o pouso |
-| Bloqueado BTK | Sim |
+| Suporte | App, bloqueado após pouso |
+| BTK bloqueado | Sim |
 
-**Escolha Airalo se:** sua viagem é apenas urbana e você valoriza um aplicativo familiar.
+**Escolha a Airalo se:** sua viagem for apenas urbana e você valoriza um aplicativo familiar.
 
-**Evite Airalo se:** seu itinerário inclui Capadócia, leste da Turquia ou a costa do Mar Negro.
+**Evite a Airalo se:** seu roteiro incluir a Capadócia, o leste da Turquia ou a costa do Mar Negro.
 
-## Holafly: Melhor para Streamers Solo, Pior para Famílias
+## eSIM Holafly: Melhor para Streamers Solo, Pior para Famílias
 
-Holafly é especializada em planos ilimitados e conecta-se à Turkcell e Türk Telekom. A cobertura rural é melhor que a da Airalo. As desvantagens são o limite de hotspot de 500 MB/dia e a limitação agressiva de FUP.
+A Holafly é especializada em planos ilimitados e conecta-se à Turkcell e à Türk Telekom. A cobertura rural é melhor que a da Airalo. As compensações são o limite de hotspot de 1 GB/dia e a limitação agressiva por FUP.
 
-### Onde o Holafly Turkey eSIM Funciona
+### Onde a Holafly Funciona
 
-- Viajantes solo que assistem vídeos em streaming
-- Viajantes rurais que precisam de Turkcell
+- Viajantes solo que assistem vídeo em streaming
+- Viajantes rurais que precisam da Turkcell
 - Viajantes que não precisam de hotspot
 
-### Onde o Holafly Turkey eSIM Falha
+### Onde a Holafly Falha
 
 - Famílias compartilhando dados
-- Trabalhadores remotos conectando um laptop
+- Trabalhadores remotos compartilhando com notebook
 - Viajantes que excedem o limite diário de FUP
 
-### Modos de Falha Principais do Holafly Turkey eSIM
+### Modos de Falha Principais da Holafly
 
-Restrição de hotspot e limitação de FUP. Após 2–3 GB/dia, a velocidade cai para 0.148 Mbps. O limite de hotspot de 500 MB/dia se aplica mesmo antes do limite de FUP.
+Restrição de hotspot e limitação por FUP. Após 2–3 GB/dia, a velocidade cai para 0,148 Mbps. O limite de hotspot de 1 GB/dia se aplica mesmo antes do limite de FUP.
 
-### Modos de Falha Secundários do Holafly Turkey eSIM
+### Modos de Falha Secundários da Holafly
 
-- Recusa de reembolso: sem reembolso após ativação
-- Inacessibilidade do suporte: aplicativo bloqueado após o pouso
+- Negação de reembolso: sem reembolso após ativação
+- Inacessibilidade de suporte: app bloqueado após o pouso
 
-### Perfil do Holafly Turkey eSIM
+### Perfil da Holafly
 
-| Dimensão | Avaliação |
+| Dimension | Assessment |
 |---|---|
 | Rede | Turkcell + Türk Telekom |
 | FUP | 2–3 GB/dia |
-| Velocidade limitada | 0.148 Mbps |
-| Hotspot | 500 MB/dia |
+| Velocidade limitada | 0,148 Mbps |
+| Hotspot | 1 GB/dia |
 | Reembolso | Nenhum após ativação |
-| Suporte | App, bloqueado após o pouso |
-| Bloqueado BTK | Sim |
+| Suporte | App, bloqueado após pouso |
+| BTK bloqueado | Sim |
 
-**Escolha Holafly se:** você é um streamer solo, precisa de cobertura Turkcell e não precisa de hotspot.
+**Escolha a Holafly se:** você for um streamer solo, precisar de cobertura Turkcell e não precisar de hotspot.
 
-**Evite Holafly se:** você precisa de hotspot, velocidade consistente após FUP ou um caminho de reembolso.
+**Evite a Holafly se:** precisar de hotspot, velocidade consistente após o FUP ou de um caminho de reembolso.
 
-## Saily: Melhor para Famílias, Pior para Rural
+## eSIM Saily: Melhor para Famílias, Pior para o Interior
 
-Saily, apoiada pela Nord Security, oferece preços competitivos, recursos de segurança e tethering ilimitado. Sua fraqueza principal é a transparência da rede.
+A Saily, apoiada pela Nord Security, oferece preços competitivos, recursos de segurança e tethering ilimitado. Sua fraqueza central é a transparência de rede.
 
-### Onde o Saily Turkey eSIM Funciona
+### Onde a Saily Funciona
 
 - Viagens focadas em cidades
 - Famílias e grupos
-- Viajantes conscientes da segurança
+- Viajantes preocupados com segurança
 
-### Onde o Saily Turkey eSIM Falha
+### Onde a Saily Falha
 
-- Viagens rurais onde Turkcell é necessária
+- Viagens rurais onde a Turkcell é necessária
 - Viajantes que precisam verificar a rede antes de comprar
 
-### Modo de Falha Principal do Saily Turkey eSIM
+### Modo de Falha Principal da Saily
 
-Incompatibilidade de rede. Saily usa uma abordagem multi-rede, mas não divulga qual operadora turca usa. Nas cidades isso é aceitável. Nas áreas rurais é um risco de planejamento.
+Incompatibilidade de rede. A Saily usa uma abordagem multi-rede, mas não divulga qual operadora turca utiliza. Nas cidades, isso é aceitável. Em áreas rurais, é um risco de planejamento.
 
-### Modos de Falha Secundários do Saily Turkey eSIM
+### Modos de Falha Secundários da Saily
 
-- Limitação de FUP: 1 Mbps após 5 GB/dia
+- Limitação por FUP: 1 Mbps após 5 GB/dia
 
-### Perfil do Saily Turkey eSIM
+### Perfil da Saily
 
-| Dimensão | Avaliação |
+| Dimension | Assessment |
 |---|---|
 | Rede | Multi-rede, não divulgada |
 | FUP | 5 GB/dia |
@@ -290,361 +298,388 @@ Incompatibilidade de rede. Saily usa uma abordagem multi-rede, mas não divulga 
 | Hotspot | Ilimitado |
 | Reembolso | 14 dias não ativado |
 | Suporte | No app |
-| Bloqueado BTK | Sim |
+| BTK bloqueado | Sim |
 
-**Escolha Saily se:** você é focado em cidades, precisa de hotspot e valoriza recursos de segurança.
+**Escolha a Saily se:** você for focado em cidades, precisar de hotspot e valorizar recursos de segurança.
 
-**Evite Saily se:** seu itinerário inclui áreas rurais e você precisa de cobertura Turkcell verificada. [O eSIM da Roami](/turkey-esim/) opera em uma rede divulgada com troca automática entre Turkcell e Vodafone, além de hotspot sem restrições.
+**Evite a Saily se:** seu roteiro incluir áreas rurais e você precisar de cobertura Turkcell verificada. O [eSIM da Roami](/turkey-esim/) roda em uma rede divulgada com troca automática entre Turkcell, Vodafone e Türk Telekom, além de hotspot irrestrito.
 
-## Nomad: Melhor Rural Econômico, Pior Acesso ao Suporte
+## eSIM Nomad: Melhor Rural Econômico, Pior Acesso a Suporte
 
-Nomad oferece planos de longa duração acessíveis e conecta-se à Turkcell. Tem a melhor cobertura rural entre provedores econômicos. Sua fraqueza é o acesso ao suporte após o pouso.
+A Nomad oferece planos de longa duração acessíveis e conecta-se à Turkcell. Tem a melhor cobertura rural entre os provedores econômicos. Sua fraqueza é o acesso ao suporte após o pouso.
 
-### Onde o Nomad Turkey eSIM Funciona
+### Onde a Nomad Funciona
 
 - Viagens rurais
-- Viajantes econômicos fazendo viagens de duas semanas ou mais
+- Viajantes econômicos em viagens de duas semanas ou mais
 - Viajantes que valorizam planos de 30 dias
 
-### Onde o Nomad Turkey eSIM Falha
+### Onde a Nomad Falha
 
 - Acesso ao suporte após o pouso
-- Viajantes que precisam de ajuda imediata com ativação
+- Viajantes que precisam de ajuda imediata com a ativação
 
-### Modo de Falha Principal do Nomad Turkey eSIM
+### Modo de Falha Principal da Nomad
 
-Inacessibilidade do suporte. O aplicativo é bloqueado pela BTK, e o suporte por e-mail pode levar 24–72 horas.
+Inacessibilidade de suporte. O aplicativo é bloqueado pela BTK, e o suporte por e-mail pode levar de 24 a 72 horas.
 
-### Perfil do Nomad Turkey eSIM
+### Perfil da Nomad
 
-| Dimensão | Avaliação |
+| Dimension | Assessment |
 |---|---|
 | Rede | Turkcell |
 | FUP | Varia |
 | Hotspot | Sim |
 | Reembolso | Varia |
-| Suporte | E-mail, lento após o pouso |
-| Bloqueado BTK | Sim |
+| Suporte | E-mail, lento após pouso |
+| BTK bloqueado | Sim |
 
-**Escolha Nomad se:** você é um viajante rural econômico e não precisa de suporte rápido.
+**Escolha a Nomad se:** você for um viajante rural econômico e não precisar de suporte rápido.
 
-**Evite Nomad se:** você precisa de suporte imediato para problemas de ativação.
+**Evite a Nomad se:** precisar de suporte imediato para problemas de ativação.
 
-## Ubigi: Melhor Intermediário, Pior Acesso ao Suporte
+## eSIM Ubigi: Melhor Faixa Média, Pior Acesso a Suporte
 
-Ubigi oferece preços intermediários competitivos através da Transatel e suporta transferência de eSIM entre dispositivos. Sua fraqueza é a mesma de outros provedores bloqueados: acesso ao suporte após o pouso.
+A Ubigi oferece preços competitivos de faixa média por meio da Transatel e suporta transferência de eSIM entre dispositivos. Sua fraqueza é a mesma de outros provedores bloqueados: acesso ao suporte após o pouso.
 
-### Onde o Ubigi Turkey eSIM Funciona
+### Onde a Ubigi Funciona
 
-- Viajantes econômicos intermediários
+- Viajantes de orçamento de faixa média
 - Viajantes que trocam de dispositivo no meio da viagem
-- Usuários de dual SIM
+- Usuários de Dual-SIM
 
-### Onde o Ubigi Turkey eSIM Falha
+### Onde a Ubigi Falha
 
 - Acesso ao suporte após o pouso
 - Viajantes rurais que precisam de cobertura Turkcell divulgada
 
-### Modo de Falha Principal do Ubigi Turkey eSIM
+### Modo de Falha Principal da Ubigi
 
-Inacessibilidade do suporte. O aplicativo é bloqueado após o pouso.
+Inacessibilidade de suporte. O aplicativo é bloqueado após o pouso.
 
-### Perfil do Ubigi Turkey eSIM
+### Perfil da Ubigi
 
-| Dimensão | Avaliação |
+| Dimension | Assessment |
 |---|---|
 | Rede | Multi-rede |
 | FUP | Varia |
 | Hotspot | Sim |
 | Reembolso | Varia |
-| Suporte | E-mail, lento após o pouso |
-| Bloqueado BTK | Sim |
+| Suporte | E-mail, lento após pouso |
+| BTK bloqueado | Sim |
 
-**Escolha Ubigi se:** você quer preços intermediários e flexibilidade de transferência de dispositivo.
+**Escolha a Ubigi se:** quiser preços de faixa média e flexibilidade de transferência entre dispositivos.
 
-**Evite Ubigi se:** você precisa de cobertura Turkcell verificada ou suporte rápido.
+**Evite a Ubigi se:** precisar de cobertura Turkcell verificada ou suporte rápido.
 
-## Roami: Menor Risco em Todos os Modos de Falha
+## eSIM Roami: Menor Risco em Todos os Modos de Falha
 
-Roami integra Turkcell e Vodafone com troca automática. Oferece FUP transparente, hotspot sem restrições e suporte humano 24/7. Este é o perfil de menor risco em todos os seis modos de falha.
+A Roami integra Turkcell, Vodafone e Türk Telekom com troca automática. Publica uma cota diária de uso justo, permite hotspot irrestrito e conta com suporte humano 24/7. Este é o perfil de menor risco entre todos os seis modos de falha.
 
-### Onde o Roami Turkey eSIM Funciona
+### Onde a Roami Funciona
 
-- Viagens rurais com failover automático para Turkcell
+- Viagens rurais com failover automático Turkcell
 - Famílias e grupos que precisam de hotspot
-- Trabalhadores remotos que precisam de FUP transparente
+- Trabalhadores remotos que precisam de uma cota diária publicada
 - Viajantes que querem suporte acessível
 
-### Modo de Falha Principal do Roami Turkey eSIM
+### Modo de Falha Principal da Roami
 
-Baixo risco em todos os seis modos de falha. A desvantagem é que a Roami ainda está na lista de bloqueio da BTK, então a instalação antes da partida é obrigatória.
+Baixo risco em todos os seis modos de falha. A compensação é que a Roami ainda está na lista de bloqueio da BTK, por isso a instalação antes da partida é obrigatória.
 
-### Perfil do Roami Turkey eSIM
+### Perfil da Roami
 
-| Dimensão | Avaliação |
+| Dimension | Assessment |
 |---|---|
-| Rede | Turkcell + Vodafone, troca automática |
-| FUP | Transparente, primeiros 30 GB |
-| Hotspot | Sem restrições |
+| Rede | Turkcell + Vodafone + Türk Telekom, troca automática |
+| FUP | 1–2 GB/dia, reinicia à meia-noite |
+| Hotspot | Irrestrito |
 | Reembolso | Publicado |
 | Suporte | Humano 24/7, funciona via Wi-Fi |
-| Bloqueado BTK | Sim |
+| BTK bloqueado | Sim |
 
-**Escolha Roami se:** você quer o menor risco em rede, suporte, FUP, hotspot e reembolso.
+**Escolha a Roami se:** quiser o menor risco em rede, suporte, FUP, hotspot e reembolso.
 
-**Evite Roami se:** você precisa de um provedor que não esteja na lista de bloqueio da BTK.
+**Evite a Roami se:** precisar de um provedor que não esteja na lista de bloqueio da BTK.
 
-## Klook: O Backup Que Não Está Bloqueado
+## eSIM Klook: O Backup que Não é Bloqueado
 
-Klook é um dos poucos provedores que não está na lista confirmada de bloqueio da BTK. Opera na Türk Telekom. Isso o torna o melhor backup pós-chegada, mas não o melhor eSIM principal para viagens rurais.
+A Klook é um dos poucos provedores que não está na lista confirmada de bloqueio da BTK. Opera na Türk Telekom. Isso a torna o melhor backup pós-chegada, mas não o melhor eSIM primário para viagens rurais.
 
-### Onde o Klook Turkey eSIM Funciona
+### Onde a Klook Funciona
 
 - eSIM de backup após o pouso
-- Viajantes cujo eSIM principal falha
-- Viajantes que valorizam acessibilidade acima da cobertura
+- Viajantes cujo eSIM primário falha
+- Viajantes que valorizam acessibilidade em vez de cobertura
 
-### Onde o Klook Turkey eSIM Falha
+### Onde a Klook Falha
 
 - Viagens rurais
 - Viajantes que precisam da mais ampla cobertura nacional
 
-### Modo de Falha Principal do Klook Turkey eSIM
+### Modo de Falha Principal da Klook
 
 Incompatibilidade de rede. Igual à Airalo — lacunas de cobertura da Türk Telekom em áreas rurais.
 
-### Perfil do Klook Turkey eSIM
+### Perfil da Klook
 
-| Dimensão | Avaliação |
+| Dimension | Assessment |
 |---|---|
 | Rede | Türk Telekom |
 | FUP | Varia |
 | Hotspot | Varia |
 | Reembolso | Varia |
 | Suporte | Variável |
-| Bloqueado BTK | Não |
+| BTK bloqueado | Não |
 
-**Escolha Klook se:** você precisa de um eSIM de backup que permaneça acessível após o pouso.
+**Escolha a Klook se:** precisar de um eSIM de backup que permaneça acessível após o pouso.
 
-**Evite Klook se:** for seu eSIM principal para viagens rurais.
+**Evite a Klook se:** ela for seu eSIM primário para viagens rurais.
 
-## Quais Provedores Mais Recentes Vale a Pena Conhecer?
+## Quais Provedores de eSIM mais Recentes para a Turquia Valem a Pena Conhecer?
 
 Esses provedores têm pontos fortes específicos que podem se adequar a viagens de nicho. Nenhum substitui os seis principais para viagens gerais, mas cada um tem um caso de uso.
 
-### Yesim Turkey eSIM
+### Yesim
 
-Conecta-se exclusivamente à Vodafone Turkey. Bom para as costas do Egeu e do Mediterrâneo. Cobertura rural mais fraca. Código de desconto ESIMP para 15% de desconto.
+Conecta-se exclusivamente à Vodafone Turkey. Boa para as costas do Egeu e do Mediterrâneo. Cobertura rural mais fraca. Código de desconto ESIMP para 15% de desconto.
 
-### Maya Mobile Turkey eSIM
+### Maya Mobile
 
-Planos de até 180 dias a $1.67/dia. Bom para estadias longas. O acesso ao suporte após o pouso é a desvantagem.
+Planos de até 180 dias a US$ 1,67/dia. Bom para estadias longas. O acesso ao suporte após o pouso é a compensação.
 
-### GigSky Turkey eSIM
+### GigSky
 
-Teste gratuito de 500 MB por 7 dias. O plano Europa cobre 43 países, incluindo a Turquia. Planos Turkey a partir de $2.99 para 1 GB / 7 dias.
+Teste grátis de 500 MB por 7 dias — um dos vários [testes de eSIM sem custo](/free-esim/) que valem a pena testar antes de pagar. O plano Europa cobre 43 países, incluindo a Turquia, e os planos para a Turquia começam em US$ 2,99 por 1 GB / 7 dias.
 
-### HelloRoam Turkey eSIM
+### HelloRoam
 
-Janela de reembolso de 180 dias para eSIMs não ativados. Suporte ao vivo 24/7. Conecta-se à Turkcell e Vodafone. Planos a partir de $3.35/dia.
+Janela de reembolso de 180 dias para eSIMs não ativados. Suporte ao vivo 24/7. Conecta-se à Vodafone e à Türk Telekom. Planos ilimitados a partir de US$ 3,35/dia.
 
-### Qrispy Turkey eSIM
+### Qrispy
 
-eSIM regional MENA cobrindo 18 países, incluindo Turquia e Egito. Hotspot ilimitado em velocidade total.
+eSIM regional do MENA cobrindo 18 países, incluindo a Turquia e o Egito. Hotspot ilimitado em velocidade máxima.
 
-### Kudo Turkey eSIM
+### Kudo
 
 Europa + Região cobre 46 países, incluindo a Turquia. Validade de 45 dias. Planos ilimitados não permitem hotspot.
 
-## Resumo Rápido
+### Jetpac
 
-Você agora viu Airalo, Holafly, Saily, Nomad, Ubigi, Roami e Klook medidos em relação a seis modos de falha. O padrão é consistente: provedores baratos vencem no preço, mas falham no acesso ao suporte ou na transparência da rede. Em seguida, combinamos cada provedor com um tipo específico de viagem.
+Uma marca global de eSIM para viagens cujo catálogo inclui a Turquia em uma ampla presença multi país. Seus diferenciais são benefícios de viagem agregados aos planos de dados, em vez do preço puro, por isso compare o custo subjacente por GB antes que os extras o influenciem. Como em qualquer marca multi país, verifique qual rede turca o plano específico utiliza antes de comprar.
 
-## Qual Provedor por Tipo de Viagem
+### Breeze
 
-Cada tipo de viagem tem um risco de modo de falha principal diferente. Combine sua viagem com o provedor certo usando esta tabela.
+Uma marca de eSIM voltada para o orçamento, com opções de país único e regionais para a Turquia. Os preços ficam na faixa baixa, que é o atrativo; a compensação é que o suporte e o tratamento de reembolso são mais frágeis do que os oferecidos pelos seis principais, por isso leia os termos de reembolso antes de pagar.
 
-| Tipo de viagem | Risco do modo de falha principal | Provedor recomendado |
+### Mobimatter
+
+Uma loja de eSIM no formato de marketplace que agrega planos de operadoras locais, frequentemente a preços abaixo das grandes marcas porque revende inventário de operadoras. A ressalva é estrutural: o suporte pós-venda e os reembolsos passam pela plataforma, e não por uma vitrine de operadora, por isso o modo de falha de acesso ao suporte se aplica em dobro. Compre aqui quando a economia for grande o suficiente para justificar o risco extra de suporte, e submeta o vendedor às [verificações de legitimidade](/blog/turkey-esim-reddit-reviews-legit/) primeiro.
+
+### Merhaba
+
+A Merhaba é uma empresa turca de eSIM cujo produto de dados roda na rede da Türk Telekom — um produto de rede local genuíno, e não um revendedor de marca de viagem. É somente dados, vem em níveis fixos e ilimitados, e não cobre o norte de Chipre. É vendida por meio de revendedores, e não de uma única vitrine oficial, por isso o vendedor que você escolher determina sua experiência de suporte e reembolso.
+
+### Revolut
+
+O aplicativo bancário vende eSIMs somente dados no app, incluindo a Turquia entre seus destinos, com preço por gigabyte e sem assinatura. É uma opção conveniente de recarga se você já é cliente do Revolut, mas é apenas um produto de dados — sem número turco, sem chamadas — e você deve confirmar a cobertura da Turquia no app para o seu plano específico antes de confiar nele.
+
+### Lyca Mobile e Lebara
+
+A Lyca Mobile (formalmente Lycamobile) e a Lebara são MVNOs do mercado do Reino Unido, não provedores de viagem para a Turquia, mas viajantes do Reino Unido buscam seus nomes junto com a Turquia com frequência suficiente para merecer uma resposta direta. Seus planos do Reino Unido fazem roaming na Turquia a taxas fora da zona — a Turquia não está em nenhuma zona de roaming incluso da UE — por isso usá-los para dados turcos significa pagar as tarifas de viagem da sua operadora, e não um preço turco. Se você já tem um, verifique o custo de complemento de roaming em comparação a um eSIM de viagem; se não tem, um eSIM de viagem é o caminho direto.
+
+A maioria das histórias de falha remonta às letras miúdas, e não à própria marca: um limite de dados ou cláusula de uso justo que limita vídeo após um limite, a latência em vez da velocidade de destaque 5G decidindo como as chamadas realmente soam, e uma incompatibilidade de IMEI quando um perfil é movido entre telefones. Faça essas três perguntas e a tabela de comparação acima faz o resto.
+
+## Resumo Rápido: Escolhendo o Seu Provedor
+
+Você já viu a Airalo, Holafly, Saily, Nomad, Ubigi, Roami e Klook medidas em relação a seis modos de falha. O padrão é consistente: provedores baratos vencem em preço, mas falham no acesso ao suporte ou na transparência de rede. A seguir, associamos cada provedor a um tipo específico de viagem.
+
+## Qual Provedor de eSIM para a Turquia por Tipo de Viagem
+
+Cada tipo de viagem tem um risco de modo de falha principal diferente. Associe sua viagem ao provedor certo usando esta tabela.
+
+| Trip type | Primary failure mode risk | Recommended provider |
 |---|---|---|
-| Apenas urbana (Istambul, Ancara, Izmir) | Ativação, suporte | Qualquer grande provedor com instalação antes da partida |
+| Somente cidades (Istambul, Ancara, Esmirna) | Ativação, suporte | Qualquer provedor principal com instalação pré-partida |
 | Capadócia, leste da Turquia, Mar Negro | Incompatibilidade de rede | Nomad, Holafly, Roami |
 | Família ou grupo | Restrição de hotspot | Saily ou Roami |
 | Trabalhador remoto / nômade digital | FUP, hotspot | Roami ou Saily |
 | Menor risco em todos os modos | Todos os seis | Roami |
-| Opção de backup | eSIM principal falha | Klook |
-| Número de telefone turco | Limites apenas de dados | SIM local da Turkcell, Vodafone ou Türk Telekom |
+| Opção de backup | eSIM primário falha | Klook |
+| Número de telefone turco | Limites somente dados | SIM local da Turkcell, Vodafone ou Türk Telekom |
 | Streamer solo, sem necessidade de hotspot | FUP, rede | Holafly |
 | Viajante rural econômico | Acesso ao suporte | Nomad |
 
-## Como Avaliar um Provedor Antes de Comprar
+## Como Avaliar um Provedor de eSIM para a Turquia Antes de Comprar
 
-Use este fluxo de trabalho para avaliar qualquer provedor de Turkey eSIM em relação aos seis modos de falha. Cada etapa leva menos de cinco minutos.
+Use este fluxo de trabalho para avaliar qualquer provedor de eSIM para a Turquia em relação aos seis modos de falha. Cada etapa leva menos de cinco minutos.
 
-### Etapa 1: Verifique a Divulgação da Rede do Turkey eSIM
+### Etapa 1: Divulgação de Rede
 
 Você consegue confirmar qual rede turca o provedor usa? Se não, assuma risco de cobertura rural. Veja o [guia de redes](/blog/turkcell-vodafone-turk-telekom-esim/) para cobertura de rede por região.
 
-### Etapa 2: Verifique o Status BTK do Turkey eSIM
+### Etapa 2: Status na BTK
 
 O provedor está bloqueado? Se sim, a instalação antes da partida é obrigatória. Se não, pode ser um backup. Leia a [lista de provedores bloqueados](/blog/turkey-esim-ban-availability-rules/) para a lista completa de bloqueados.
 
-### Etapa 3: Verifique o Acesso ao Suporte do Turkey eSIM
+### Etapa 3: Acesso ao Suporte
 
-O provedor oferece chat humano que funciona via Wi-Fi, ou suporte por telefone? Apenas e-mail é um risco.
+O provedor oferece chat humano que funciona via Wi-Fi ou suporte por telefone? Apenas e-mail é um risco.
 
-### Etapa 4: Verifique a FUP do Turkey eSIM
+### Etapa 4: FUP
 
-Se ilimitado, qual é a franquia diária de alta velocidade? Qual é a velocidade limitada? Se não divulgada, assuma o pior.
+Se for ilimitado, qual é a franquia diária de alta velocidade? Qual é a velocidade limitada? Se não for divulgado, assuma o pior.
 
-### Etapa 5: Verifique o Hotspot do Turkey eSIM
+### Etapa 5: Hotspot
 
-O plano permite hotspot? Há um limite diário? Se não mencionado, assuma restrito.
+O plano permite hotspot? Há um limite diário? Se não for mencionado, assuma restrito.
 
-### Etapa 6: Verifique a Política de Reembolso do Turkey eSIM
+### Etapa 6: Política de Reembolso
 
-Qual é a janela? Reembolsa após a ativação? A ativação falhada conta como ativação? Leia o [guia de reembolso](/blog/buy-turkey-esim-online/) para a comparação completa de reembolsos.
+Qual é a janela? Ela reembolsa após a ativação? Uma ativação frustrada conta como ativação? Leia o [guia de reembolso](/blog/buy-turkey-esim-online/) para a comparação completa de reembolsos.
 
-### Etapa 7: Verifique a Compatibilidade do Dispositivo com o Turkey eSIM
+### Etapa 7: Compatibilidade de Dispositivo
 
-Seu telefone suporta eSIM? Está desbloqueado por operadora? Leia o [guia de dispositivos](/blog/turkey-esim-device-compatibility/).
+Seu telefone suporta eSIM? Está desbloqueado da operadora? Leia o [guia de dispositivos](/blog/turkey-esim-device-compatibility/) ou faça uma pré-seleção do seu modelo na [lista de dispositivos compatíveis com eSIM](/compatibility/).
 
-### Etapa 8: Verifique Avaliações Reais do Turkey eSIM
+### Etapa 8: Avaliações Reais
 
-Procure reclamações recentes no Reddit e [Trustpilot](https://www.trustpilot.com/), não apenas classificações por estrelas.
+Procure reclamações recentes no Reddit e no [Trustpilot](https://www.trustpilot.com/), não apenas avaliações por estrelas. Sites de avaliação independentes, como a Travelkon, e os testes de campo listados por comunidades de eSIM também contam — qualquer coisa com datas e redes nomeadas supera uma média de estrelas.
 
-### Cartão de Pontuação dos Provedores de Turkey eSIM
+### Quadro de Pontuação dos Provedores
 
 | Critério | Airalo | Holafly | Saily | Nomad | Ubigi | Roami | Klook |
 |---|---|---|---|---|---|---|---|
 | Rede divulgada | ✅ TT | ✅ TC+TT | ❌ | ✅ TC | ⚠️ Multi | ✅ TC+VF | ✅ TT |
-| Bloqueado BTK | Sim | Sim | Sim | Sim | Sim | Sim | Não |
+| BTK bloqueado | Sim | Sim | Sim | Sim | Sim | Sim | Não |
 | Chat humano via Wi-Fi | ❌ | ❌ | ⚠️ No app | ❌ | ❌ | ✅ | ⚠️ |
-| FUP transparente | ⚠️ | ❌ | ✅ | ⚠️ | ⚠️ | ✅ | ⚠️ |
-| Política de hotspot | ✅ | ❌ 500 MB | ✅ | ✅ | ✅ | ✅ | ⚠️ |
-| Política de reembolso | ⚠️ 14d | ❌ Nenhum | ✅ 14d | ⚠️ Varia | ⚠️ Varia | ✅ Publicado | ⚠️ Varia |
+| Cota diária publicada | ⚠️ | ❌ | ✅ | ⚠️ | ⚠️ | ✅ | ⚠️ |
+| Política de hotspot | ✅ | ❌ limite 1 GB | ✅ | ✅ | ✅ | ✅ | ⚠️ |
+| Política de reembolso | ⚠️ 14d | ⚠️ 6m não ativado | ✅ 30d | ⚠️ Varia | ⚠️ Varia | ✅ Publicado | ⚠️ Varia |
 | Cobertura rural | ❌ | ✅ | ⚠️ | ✅ | ⚠️ | ✅ | ❌ |
 
-## Exemplo Real: Omar, Viagem Rural
+## Exemplo Real: Omar, Viagem de Estrada Rural
 
-Omar precisava de cobertura Turkcell para a Anatólia Oriental, mas comprou um provedor que divulgou apenas "redes locais". Quando seu sinal morreu em uma rodovia rural, ele não conseguiu alcançar o suporte apenas por e-mail para corrigir.
+Omar precisava de cobertura Turkcell para o leste da Anatólia, mas comprou um provedor que divulgava apenas "redes locais". Quando o sinal dele caiu em uma rodovia rural, ele não conseguiu contatar o suporte apenas por e-mail para resolver.
 
 ## Prioridade vs Provedor
 
-| Prioridade | Característica do provedor a escolher | Adequado para |
+| Priority | Provider trait to pick | Fits |
 | --- | --- | --- |
 | Confiabilidade rural | Rede Turkcell divulgada | Viajantes de estrada |
-| Streaming solo | Limite diário alto | Streamers intensos |
-| Compartilhamento familiar | Hotspot sem restrições | Grupos |
+| Streaming solo | Alta franquia diária | Streamers pesados |
+| Compartilhamento familiar | Hotspot irrestrito | Grupos |
 | Menor risco geral | Suporte 24/7 mais política de reembolso | Iniciantes |
 
-## FAQ: Melhores Provedores
+## Perguntas Frequentes: Melhores Provedores de eSIM para a Turquia
 
-### Qual é o melhor Turkey eSIM?
+### Qual é o melhor eSIM para a Turquia?
 
-Depende do seu risco de modo de falha. Saily é forte para viagens urbanas e hotspot. Nomad é melhor para rural econômico. Holafly é melhor para streamers solo. Roami oferece baixo risco em todos os seis modos de falha.
+Depende do risco do seu modo de falha. A Saily é forte para viagens urbanas e hotspot. A Nomad é a melhor para o rural econômico. A Holafly é a melhor para streamers solo. A Roami oferece baixo risco em todos os seis modos de falha.
 
 ### Qual provedor tem a melhor cobertura?
 
-Turkcell tem a cobertura nacional e rural mais ampla. Nomad, Holafly e Roami conectam-se à Turkcell. Airalo conecta-se apenas à Türk Telekom.
+A Turkcell tem a mais ampla cobertura nacional e rural. Nomad, Holafly e Roami conectam-se à Turkcell. A Airalo conecta-se apenas à Türk Telekom.
 
-### Airalo ou Holafly é melhor para a Turquia?
+### A Airalo ou a Holafly é melhor para a Turquia?
 
-Airalo é melhor para viagens urbanas e flexibilidade de plano. Holafly é melhor para cobertura rural, mas tem um limite de hotspot de 500 MB/dia e limitação de 0.148 Mbps após FUP.
+A Airalo é melhor para viagens urbanas e flexibilidade de planos. A Holafly é melhor para cobertura rural, mas tem um limite de hotspot de 1 GB/dia e limitação de 0,148 Mbps após o FUP.
 
-### Qual é o Turkey eSIM mais barato?
+### Qual é o eSIM mais barato para a Turquia?
 
-Os planos de entrada da Saily começam em $3.39. Nomad oferece 10 GB / 30 dias por ~$19–$20. Roami começa em $1.99. Leia o [guia mais barato](/blog/cheapest-turkey-esim/).
+Os planos de entrada da Saily começam em US$ 3,99 (US$ 3,39 com o código GIZMODO). A Nomad oferece 10 GB / 30 dias por US$ 13. A Roami começa em US$ 2,99. Leia o [guia mais barato](/blog/cheapest-turkey-esim/).
 
-### Qual Turkey eSIM não está bloqueado pela BTK?
+### Qual eSIM para a Turquia não é bloqueado pela BTK?
 
-Klook é um dos poucos provedores que não está na lista de bloqueio confirmada. É útil como backup após o pouso.
+A Klook é um dos poucos provedores que não está na lista confirmada de bloqueio. É útil como backup após o pouso.
 
-### Qual provedor é melhor para hotspot?
+### Qual provedor é o melhor para hotspot?
 
-Saily e Roami permitem hotspot sem restrições. Holafly limita o hotspot a 500 MB/dia.
+A Saily e a Roami permitem hotspot irrestrito. A Holafly limita o hotspot a 1 GB/dia.
 
-### Qual provedor é melhor para dados ilimitados?
+### Qual provedor é o melhor para dados ilimitados?
 
-Saily limita após 5 GB/dia para 1 Mbps. Holafly limita para 0.148 Mbps. Roami oferece FUP transparente para os primeiros 30 GB.
+A Saily sofre limitação após 5 GB/dia para 1 Mbps. A Holafly limita para 0,148 Mbps após sua franquia diária de 2–3 GB. A Roami opera uma cota diária de uso justo publicada de 1–2 GB que reinicia à meia-noite.
 
 ### Qual provedor tem o melhor suporte?
 
-Roami oferece suporte humano 24/7 acessível após o pouso. HelloRoam também oferece suporte ao vivo 24/7 e uma janela de reembolso de 180 dias.
+A Roami oferece suporte humano 24/7 acessível após o pouso. A HelloRoam também oferece suporte ao vivo 24/7 e uma janela de reembolso de 180 dias.
 
-### Yesim é bom para a Turquia?
+### A Yesim é boa para a Turquia?
 
-Yesim conecta-se exclusivamente à Vodafone Turkey. Bom para viagens costeiras, mais fraco para rural.
+A Yesim conecta-se exclusivamente à Vodafone Turkey. Boa para viagens de costa, mais fraca para o rural.
 
-### Maya Mobile é bom para estadias longas?
+### A Maya Mobile é boa para estadias longas?
 
-Maya Mobile oferece planos de até 180 dias a $1.67/dia. Bom para nômades digitais, mas o acesso ao suporte após o pouso é limitado.
+A Maya Mobile oferece planos de até 180 dias a US$ 1,67/dia. Boa para nômades digitais, mas o acesso ao suporte após o pouso é limitado.
 
-### Qual provedor de Turkey eSIM é melhor para famílias?
+### Qual provedor de eSIM para a Turquia é o melhor para famílias?
 
-Saily ou Roami. Ambos permitem hotspot sem restrições. Um eSIM de alto consumo no telefone do viajante principal compartilhado via Wi-Fi é a configuração familiar mais barata.
+Saily ou Roami. Ambas permitem hotspot irrestrito. Um eSIM de alto volume no telefone do viajante principal, compartilhado via Wi-Fi, é a configuração familiar mais barata.
 
-### Qual provedor de Turkey eSIM é melhor para viagens rurais?
+### Qual provedor de eSIM para a Turquia é o melhor para viagens rurais?
 
-Nomad, Holafly ou Roami. Todos os três conectam-se à Turkcell. Roami oferece troca automática entre Turkcell e Vodafone, o que é útil quando você se move entre áreas rurais e costeiras.
+Nomad, Holafly ou Roami. Todas as três conectam-se à Turkcell. A Roami adiciona troca automática entre as três redes turcas, o que é útil quando você se move entre áreas rurais e costeiras.
 
-### Qual provedor de Turkey eSIM tem a melhor política de reembolso?
+### Qual provedor de eSIM para a Turquia tem a melhor política de reembolso?
 
-HelloRoam oferece uma janela de reembolso de 180 dias para eSIMs não ativados. Saily oferece 14 dias. Holafly não oferece reembolso após a ativação.
+A HelloRoam oferece uma janela de reembolso de 180 dias para eSIMs não ativados. A Saily oferece 30 dias. A Holafly permite seis meses em um eSIM não ativado e analisa problemas de conexão caso a caso se relatados durante a viagem.
 
-### Qual provedor de Turkey eSIM tem a FUP mais transparente?
+### Qual provedor é mais transparente sobre seu FUP?
 
-Roami oferece FUP transparente para os primeiros 30 GB. Saily divulga 5 GB/dia. Holafly não divulga até que o limite seja atingido.
+A Roami publica sua cota diária de uso justo (1–2 GB/dia, dependendo do plano). A Saily divulga 5 GB/dia. A Holafly não divulga até que o limite seja atingido.
 
-### Qual provedor de Turkey eSIM é melhor para uma viagem apenas urbana?
+### Qual provedor de eSIM para a Turquia é o melhor para uma viagem apenas urbana?
 
-Qualquer grande provedor funciona. Airalo, Saily e Roami oferecem forte cobertura urbana. O diferencial é o acesso ao suporte e a política de reembolso, não a rede.
+Qualquer provedor principal funciona. Airalo, Saily e Roami oferecem cobertura urbana forte. O diferencial é o acesso ao suporte e a política de reembolso, não a rede.
 
-### Qual provedor de Turkey eSIM tem a melhor combinação de rede e suporte?
+### Qual provedor de eSIM para a Turquia tem a melhor combinação de rede e suporte?
 
-Roami. Integra Turkcell e Vodafone com troca automática e oferece suporte humano 24/7 que funciona via Wi-Fi após o pouso. Planos começam em $1.99 com 20% de desconto para novos usuários.
+Roami. Ela integra Turkcell, Vodafone e Türk Telekom com troca automática e oferece suporte humano 24/7 que funciona via Wi-Fi após o pouso. Os planos começam em US$ 2,99 com 20% de desconto para novos usuários (código web20).
 
-## Lista de Verificação Final: Escolhendo um Provedor
+## Lista de Verificação Final: Escolhendo um Provedor de eSIM para a Turquia
 
-Use esta lista de verificação final para confirmar sua escolha de provedor, preparar seu eSIM e recuperar se algo falhar.
+Use esta lista de verificação final para confirmar a escolha do seu provedor, preparar seu eSIM e recuperar-se se algo falhar.
 
-### Antes de Escolher um Provedor de Turkey eSIM
+### Antes de Escolher
 
 - [ ] Identifique seus destinos (rural vs urbano, costa vs interior)
-- [ ] Combine com uma rede (Turkcell para rural, Vodafone para costa, Türk Telekom para cidades)
+- [ ] Associe a uma rede (Turkcell para o rural, Vodafone para a costa, Türk Telekom para as cidades)
 - [ ] Identifique seu risco principal de modo de falha
-- [ ] Estime as necessidades de dados (5 GB/semana, 10–20 GB/2 semanas, 20 GB+ intenso). Leia o [guia de custos](/blog/cheapest-turkey-esim/).
-- [ ] Decida se precisa de hotspot (evite Holafly se sim)
-- [ ] Verifique se precisa de um número turco (apenas SIM local). Leia o [guia de chamadas e hotspot](/blog/turkey-esim-number-calls-sms-hotspot/).
-- [ ] Verifique a divulgação da rede
-- [ ] Confirme o status BTK. Leia o [básico do bloqueio BTK](/blog/turkey-esim-ban-availability-rules/).
+- [ ] Estime suas necessidades de dados (5 GB/semana, 10–20 GB/2 semanas, 20 GB+ pesado). Leia o [guia de custo](/blog/cheapest-turkey-esim/).
+- [ ] Decida se precisa de hotspot (evite a Holafly se sim)
+- [ ] Verifique se precisa de um número turco (somente SIM local). Leia o [guia de chamadas e hotspot](/blog/turkey-esim-number-calls-sms-hotspot/).
+- [ ] Verifique a divulgação de rede
+- [ ] Confirme o status na BTK. Leia o [básico do bloqueio BTK](/blog/turkey-esim-ban-availability-rules/).
 - [ ] Verifique a política de reembolso. Leia o [guia de compra](/blog/buy-turkey-esim-online/).
-- [ ] Verifique o acesso ao suporte da Turquia
+- [ ] Verifique o acesso ao suporte a partir da Turquia
 
-### Antes de Voar com Turkey eSIM
+### Antes de Voar
 
 - [ ] Compre e instale o eSIM via Wi-Fi. Leia as [etapas de ativação](/blog/how-turkey-esim-works-activation/).
-- [ ] Rotule a linha como "Turkey"
+- [ ] Rotule a linha "Turquia"
 - [ ] Defina o eSIM para Dados Móveis
-- [ ] Defina o SIM local para Voz e SMS
+- [ ] Defina o SIM de casa para Voz e SMS
 - [ ] Mantenha o roaming de dados DESLIGADO até o pouso
 - [ ] Salve o código QR offline
-- [ ] Baixe mapas offline. Leia o [guia de Turkey eSIM para turistas](/blog/turkey-esim-tourists-istanbul-antalya/).
+- [ ] Baixe mapas offline. Leia o [guia de eSIM para turistas na Turquia](/blog/turkey-esim-tourists-istanbul-antalya/).
 - [ ] Instale um eSIM de backup se possível
 
-### Após o Pouso com Turkey eSIM
+### Após o Pouso
 
-- [ ] Ative o Roaming de Dados para o Turkey eSIM
+- [ ] Ative o Roaming de Dados para o eSIM da Turquia
 - [ ] Aguarde 2–5 minutos para o registro na rede
 - [ ] Verifique o nome da operadora
 - [ ] Teste os dados com um mapa ou navegador
-- [ ] Confirme que o SMS funciona no seu SIM local
-- [ ] Se não houver dados: verifique o APN, reinicie o telefone, tente seleção manual de rede
+- [ ] Confirme que o SMS funciona no seu SIM de casa
+- [ ] Se não houver dados: verifique o APN, reinicie o telefone, tente a seleção manual de rede
 
-Não há um único melhor provedor — o certo depende de onde você vai e quanto suporte você precisa. Se você quer o menor risco em todos os modos de falha, [o eSIM da Roami](/turkey-esim/) cobre as reclamações mais comuns, a partir de $1.99 com 20% de desconto para novos usuários. Para o panorama completo, leia o [guia do Turkey eSIM](/blog/turkey-esim-ultimate-guide/).
+Não existe um único provedor melhor — o certo depende de para onde você vai e de quanto suporte precisa. Se quer o menor risco em todos os modos de falha, o [eSIM da Roami](/turkey-esim/) cobre as reclamações mais comuns, a partir de US$ 2,99 com 20% de desconto para novos usuários (código web20). Para o panorama completo, leia o [guia de eSIM para a Turquia](/blog/turkey-esim-ultimate-guide/).
 
-## Conclusão
+## Resumo Final: A Escolha Mais Segura de eSIM para a Turquia
 
-- Combine o provedor com sua viagem em vez de comprar de uma lista genérica dos melhores.
-- Para uma viagem rural você precisa de um provedor na rede Turkcell; para uma viagem urbana, Türk Telekom é tolerável.
-- O acesso ao suporte é o principal modo de falha na Turquia, então escolha um provedor que você possa alcançar sem o aplicativo.
-- Antes de pagar, confirme a divulgação da rede do provedor e seu status BTK.
+- Associe o provedor à sua viagem, em vez de comprar de uma lista genérica de melhores.
+- Para uma viagem de estrada rural, você precisa de um provedor na rede Turkcell; para uma viagem urbana, a Türk Telekom é tolerável.
+- O acesso ao suporte é o principal modo de falha na Turquia, por isso escolha um provedor que você consiga contatar sem o aplicativo.
+- Antes de pagar, confirme a divulgação de rede do provedor e seu status na BTK.
+- A recomendação resumida: Roami para iniciantes avessos a risco, Nomad para orçamentos rurais, Saily para famílias — a lógica está nos modos de falha acima.
