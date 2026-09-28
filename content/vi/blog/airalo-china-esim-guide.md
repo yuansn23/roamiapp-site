@@ -1,51 +1,51 @@
 ---
 title: "eSIM tốt nhất cho Trung Quốc: So sánh Airalo và Holafly"
-description: "So sánh Airalo và Holafly: eSIM Trung Quốc tốt nhất cài đặt trước khi bay, không cần VPN cho Google và WhatsApp, và chạy trên mạng China Mobile hoặc Unicom"
-keywords: ["Hướng dẫn giá eSIM Trung Quốc", "holafly esim for china", "china esim bypass firewall", "eSIM rẻ nhất cho du lịch Trung Quốc", "china esim google whatsapp", "airalo china esim review", "Mã khuyến mãi eSIM Trung Quốc"]
-date: 2026-09-06T00:00:00Z
-lastmod: 2026-09-06T00:00:00Z
-author: "Đội ngũ Roami"
-authorBio: "Roami cung cấp các gói eSIM đáng tin cậy, phục vụ hơn 1 triệu du khách hàng năm và hỗ trợ chuyển mạng địa phương tự động để giúp du khách kết nối toàn cầu."
+description: "So sánh Airalo và Holafly: eSIM Trung Quốc tốt nhất cài đặt trước khi bay, giữ Google và WhatsApp luôn kết nối được, hoạt động trên China Mobile hoặc Unicom"
+keywords: ["Hướng dẫn giá eSIM Trung Quốc", "airalo china esim", "chinacom esim", "eSIM rẻ nhất cho chuyến đi Trung Quốc", "china esim google whatsapp", "china esim so với sim nội địa", "Mã khuyến mãi eSIM Trung Quốc"]
+date: 2026-09-27T00:00:00Z
+lastmod: 2026-09-27T00:00:00Z
+author: "Roami Team"
+authorBio: "Roami cung cấp các gói eSIM đáng tin cậy, phục vụ hơn 1 triệu khách du lịch mỗi năm, hỗ trợ tự động chuyển đổi mạng nội địa giúp du khách luôn kết nối trên toàn cầu."
 image: "/img/esim/china/china-esim-complete-guide.jpg"
-categories: ["eSIM", "Du lịch", "Trung Quốc"]
-tags: ["eSIM Trung Quốc", "Tường lửa lớn", "Google WhatsApp"]
+categories: ["eSIM", "Travel", "China"]
+tags: ["China eSIM", "Google WhatsApp", "Travel eSIM"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Trung Quốc chặn Google và WhatsApp — eSIM này vượt qua Tường lửa"
+h1title: "eSIM Trung Quốc thực sự làm gì cho Google và WhatsApp"
 
 productsTitle: "Gói eSIM phổ biến"
 hotPostsTitle: "Bài viết nổi bật"
-recentPostsTitle: "Bài viết gần đây"
+recentPostsTitle: "Bài viết mới"
 
 products:
-  - name: "eSIM Trung Quốc"
+  - name: "China eSIM"
     flag: "/img/flags/cn.svg"
     price: "Từ $1.99"
     is_highlight: true
     slug: "china"
-  - name: "eSIM Hồng Kông"
+  - name: "Hong Kong eSIM"
     flag: "/img/flags/hk.svg"
     price: "Từ $1.99"
     is_highlight: false
     slug: "hong-kong"
-  - name: "eSIM Nhật Bản"
+  - name: "Japan eSIM"
     flag: "/img/flags/jp.svg"
     price: "Từ $1.99"
     is_highlight: false
     slug: "japan"
-  - name: "eSIM Thái Lan"
+  - name: "Thailand eSIM"
     flag: "/img/flags/th.svg"
     price: "Từ $1.99"
     is_highlight: false
     slug: "thailand"
-  - name: "eSIM Hàn Quốc"
+  - name: "South Korea eSIM"
     flag: "/img/flags/kr.svg"
     price: "Từ $1.99"
     is_highlight: false
     slug: "south-korea"
-  - name: "eSIM Singapore"
+  - name: "Singapore eSIM"
     flag: "/img/flags/sg.svg"
     price: "Từ $1.99"
     is_highlight: false
@@ -55,125 +55,108 @@ recentPosts:
   - title: "Danh sách thiết bị tương thích eSIM"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "Chuyển eSIM đa nền tảng 2026"
+  - title: "Chuyển eSIM giữa các nền tảng năm 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM không hoạt động? 12 cách khắc phục cho iPhone"
+  - title: "Dual eSIM không hoạt động? 12 cách sửa cho iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Hướng dẫn tương thích eSIM iPhone SE"
+  - title: "Hướng dẫn tương thích eSIM trên iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Hướng dẫn thiết lập eSIM iPhone 11 đầy đủ"
+  - title: "Hướng dẫn cài đặt eSIM hoàn chỉnh cho iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
 
 ## Hướng dẫn eSIM Trung Quốc 2026
 
-Đang lên kế hoạch cho chuyến đi đến Trung Quốc—Tử Cấm Thành Bắc Kinh, Bến Thượng Hải, Binh Mã Dũng Tây An, núi non Quế Lâm hay gấu trúc Thành Đô? Khi đến nơi, bạn sẽ gặp phải một bức tường không tồn tại ở các quốc gia khác: **Google, WhatsApp, Instagram và Gmail trên điện thoại của bạn đều bị chặn tại Trung Quốc.** Vì Trung Quốc có "Tường lửa lớn", cả SIM địa phương thông thường và chuyển vùng quốc tế đều định tuyến dữ liệu qua đó.
+Bạn đang lên kế hoạch du lịch Trung Quốc—Tử Cấm Thành ở Bắc Kinh, Bến Thượng Hải ở Thượng Hải, quân đội đất nung ở Tây An, non nước Quế Lâm, hay gấu trúc ở Thành Đô? Vừa đặt chân đến, bạn sẽ gặp phải điều không tồn tại ở bất kỳ quốc gia nào khác: **Google, WhatsApp, Instagram và Gmail trên điện thoại của bạn không hoạt động như ở nhà.** SIM nội địa và roaming quốc tế trên mạng lưới đại lục đều đưa dữ liệu đi qua cổng kết nối trong đại lục, nên những ứng dụng này đơn giản là không tải được.
 
-Tuy nhiên, [eSIM Trung Quốc](/china-esim/) (travel eSIM) sử dụng **tuyến dữ liệu quốc tế**—nó kết nối với tín hiệu từ ba nhà mạng lớn của Trung Quốc, nhưng dữ liệu thoát ra nước ngoài, vì vậy **Google, WhatsApp, Gmail và các ứng dụng khác hoạt động ngay khi bạn hạ cánh.** Đây là lý do số một để chọn eSIM Trung Quốc, quan trọng hơn nhiều so với "cái nào rẻ hơn".
+Tuy nhiên, [China eSIM](/china-esim/) (eSIM du lịch) sử dụng **tuyến dữ liệu quốc tế**—nó kết nối với sóng của ba nhà mạng lớn nhất Trung Quốc, nhưng dữ liệu đi ra nước ngoài, vì vậy **Google, WhatsApp, Gmail và các ứng dụng khác hoạt động ngay khi bạn hạ cánh.** Đây là lý do số một để chọn eSIM Trung Quốc, quan trọng hơn nhiều so với câu hỏi "cái nào rẻ hơn."
 
-Bài viết này xoay quanh sự khác biệt cốt lõi này: Nhà mạng nào trong ba nhà mạng lớn của Trung Quốc (China Mobile / China Unicom / China Telecom) có phủ sóng tốt nhất? Cái nào tiết kiệm chi phí nhất trong số Airalo, Holafly và Roami? Tường lửa lớn chặn những gì và travel eSIM vượt qua nó như thế nào? Và—SIM địa phương yêu cầu đăng ký hộ chiếu—bạn cần bao nhiêu dữ liệu cho chuyến đi quá cảnh miễn thị thực 144 giờ ngắn?
+Bài viết này xoay quanh sự khác biệt cốt lõi đó: Nhà mạng nào trong ba nhà mạng lớn của Trung Quốc (China Mobile / China Unicom / China Telecom) có vùng phủ sóng tốt nhất? Airalo, Holafly hay Roami hiệu quả về chi phí nhất? Những ứng dụng hàng ngày nào hoạt động khác trên mạng đại lục, và cách định tuyến của eSIM du lịch thay đổi điều đó ra sao? Và—SIM nội địa yêu cầu đăng ký hộ chiếu—bạn cần bao nhiêu dữ liệu cho một chuyến quá cảnh miễn visa 144 giờ ngắn ngày?
 
-> **⏱️ Tóm tắt 30 Giây: Cách chọn eSIM Trung Quốc?**
+> **⏱️ Tóm tắt 30 giây: Cách chọn eSIM Trung Quốc?**
 >
-> - **Điểm quan trọng nhất**: Trung Quốc có Tường lửa lớn; Google / WhatsApp / Instagram / Gmail bị chặn; **travel eSIM sử dụng định tuyến quốc tế, vì vậy các ứng dụng này hoạt động khi đến** (xem phần Tường lửa bên dưới).
-> - **Giá trị tốt nhất**: Giá giảm giá của Roami thấp nhất trên toàn bảng—7 ngày 10GB ở mức $9.59, rẻ hơn 61% so với gói tương đương của Airalo ($24.50) và rẻ hơn 65% so với gói không giới hạn của Holafly ($27.30).
-> - **Chọn mạng nào**: Ở thành phố, chọn China Unicom / China Mobile; Roami có chuyển mạng đa nhà mạng tự động chọn tín hiệu mạnh nhất có sẵn.
-> - **Không giới hạn có đáng không?** Đối với hầu hết mọi người, không—Roami Trung Quốc thậm chí không cung cấp không giới hạn; các bậc dữ liệu cố định rẻ hơn nhiều (xem "Giá trị đằng sau giá cả" bên dưới).
-> - **Kết luận**: Cho chuyến đi ngắn 3-7 ngày, mua Roami 3-10GB; cho chuyến tham quan nhiều thành phố 10-15 ngày, mua 20-30GB; cho lưu trú dài, mua 50GB; chỉ cân nhắc Airalo/Holafly không giới hạn nếu bạn thực sự không muốn nghĩ về dữ liệu.
+> - **Điểm quan trọng nhất**: trên mạng nội địa đại lục, Google, WhatsApp, Instagram và Gmail không tải được; **eSIM du lịch dùng định tuyến quốc tế, nên các ứng dụng này hoạt động ngay từ khi bạn hạ cánh.**
+> - **Giá trị nằm ở đâu**: dòng giá ưu đãi của Roami rẻ hơn cả hai đối thủ trên mọi mặt—gói 7 ngày 10GB chỉ **$9.59**, thấp hơn khoảng 61% so với gói tương đương của Airalo ($24.50) và thấp hơn 65% so với gói không giới hạn của Holafly ($27.50).
+> - **Chọn mạng nào**: China Unicom và China Mobile đều mạnh ở các thành phố; chuyển đổi tự động sẽ trao cho bạn mạng mạnh nhất đúng nơi bạn đang đứng.
+> - **Gói không giới hạn có đáng không**: với hầu hết mọi người là không—Roami Trung Quốc không hề có gói không giới hạn, và các gói dung lượng cố định rẻ hơn rất nhiều.
+> - **Kết luận**: 3–7 ngày → 3–10GB; hành trình 10–15 ngày nhiều thành phố → 20–30GB; ở dài hạn → 50GB.
 
-> **⚡ Khu vực Quyết định Nhanh: Chọn theo Phong cách Du lịch của Bạn**
+> **⚡ Khu vực quyết định nhanh: Chọn theo phong cách du lịch của bạn**
 >
-> - **Chuyến đi thành phố Bắc Kinh / Thượng Hải (3-5 ngày)** → Roami 3-5GB, tín hiệu thành phố tốt, từ $1.59 (xem gói 3 ngày / 7 ngày)
-> - **Tây An / Quế Lâm / Thành Đô (5-7 ngày)** → Roami 5-10GB, đa mạng tự động chuyển giữa Unicom và Mobile (xem gói 7 ngày / khuyến nghị theo kịch bản)
-> - **Tham quan nhiều thành phố (10-15 ngày)** → Roami 20-30GB, mỗi GB thấp tới $0.77 (xem gói 15 ngày / 30 ngày)
-> - **Công tác (3-7 ngày)** → Roami 5-10GB, hoạt động khi đến—không xếp hàng đăng ký giấy tờ tùy thân (xem khuyến nghị theo kịch bản / so sánh)
-> - **Không muốn nghĩ về dữ liệu chút nào** → Airalo Không giới hạn (7 ngày $27) hoặc Holafly Không giới hạn ($3.90/ngày), nhưng trong hầu hết trường hợp đắt hơn (xem gói 7 ngày)
-> - **Ngân sách cực kỳ eo hẹp** → Roami 1GB/7 ngày giảm giá $1.59, giá thấp nhất (xem gói 3 ngày)
+> - **Tham quan Bắc Kinh / Thượng Hải (3‑5 ngày)** → Roami 3‑5GB, sóng thành phố tốt, từ $1.59
+> - **Tây An / Quế Lâm / Thành Đô (5‑7 ngày)** → Roami 5‑10GB; tự động chuyển giữa Unicom và Mobile
+> - **Tour nhiều thành phố (10‑15 ngày)** → Roami 20‑30GB, mỗi GB chỉ từ $0.77
+> - **Đi công tác (3‑7 ngày)** → Roami 5–10GB, kết nối ngay khi hạ cánh, không phải vòng qua đăng ký thông tin
+> - **Ngân sách cực kỳ eo hẹp** → Roami 1GB/7‑day chỉ $1.59
 
-## Ba Thay đổi Định hình Thị trường eSIM Trung Quốc vào năm 2026
+## Ba thay đổi định hình thị trường eSIM Trung Quốc năm 2026
 
-> **Cập nhật Thị trường eSIM Trung Quốc 2026**
+> **Cập nhật thị trường eSIM Trung Quốc 2026**
 >
-> - **Tường lửa lớn vẫn tồn tại**: Google, WhatsApp, Instagram, Facebook, Gmail và YouTube đều bị chặn tại Trung Quốc đại lục.
-> - **SIM địa phương yêu cầu xác minh giấy tờ tùy thân**: Theo yêu cầu danh tính thực của [MIIT](https://www.miit.gov.cn/), SIM địa phương phải được đăng ký bằng hộ chiếu tại trung tâm dịch vụ; thẻ sân bay cũng thường yêu cầu xếp hàng để kích hoạt.
-> - **Chính sách miễn thị thực được mở rộng**: Trung Quốc đã áp dụng miễn thị thực đơn phương (lên đến 30 ngày) cho một số quốc gia bao gồm Pháp, Đức, Ý và Tây Ban Nha. Lượng du khách ngắn hạn tăng vọt và nhu cầu về dữ liệu ngắn hạn "hoạt động khi đến" đang bùng nổ.
-> - **Dẫn đầu 5G**: Theo dữ liệu [Opensignal](https://www.opensignal.com/) năm 2026, mức độ sẵn sàng 5G của China Mobile bao phủ 90%+ dân số và 5G thành phố hiện là tiêu chuẩn.
+> - **Cách vận hành mạng đại lục không đổi**: Google, WhatsApp, Instagram, Facebook, Gmail và YouTube vẫn không truy cập được trên các mạng nội địa đại lục.
+> - **SIM nội địa yêu cầu xác minh danh tính**: Theo quy định tên thật của MIIT ([MIIT](https://www.miit.gov.cn/gxsj/tjfx/txy/index.html)), SIM nội địa phải đăng ký bằng hộ chiếu tại trung tâm dịch vụ; thẻ mua ở sân bay cũng thường phải xếp hàng chờ kích hoạt.
+> - **Chính sách miễn visa mở rộng**: Trung Quốc đã áp dụng miễn visa đơn phương (tối đa 30 ngày) cho một số quốc gia gồm Pháp, Đức, Ý và Tây Ban Nha. Khách du lịch ngắn ngày tăng vọt, nhu cầu về gói dữ liệu ngắn hạn "dùng được ngay khi đến" cũng bùng nổ.
+> - **Dẫn đầu 5G**: Mạng 5G của China Mobile hiện phủ phần lớn dân số đô thị, và 5G là mặc định cả trong nhà lẫn ngoài trời ở các thành phố lớn — [dữ liệu thị trường Trung Quốc của Ookla](https://www.speedtest.net/global-index/china) theo dõi tốc độ di động trung vị hiện tại.
 >
-> *Tổng hợp từ dữ liệu công khai tính đến tháng 9 năm 2026.*
+> *Số liệu được kiểm chứng với các nguồn công khai và công bố của nhà mạng, tháng 9 năm 2026.*
 
-Điều làm cho thị trường Trung Quốc đặc biệt đối với du khách là **quy tắc truy cập mạng** hoàn toàn khác so với các quốc gia khác. Ba thay đổi này quyết định cách bạn nên chọn:
+Điều làm cho thị trường Trung Quốc đặc biệt với du khách là **luật truy cập mạng** hoàn toàn khác với các nước khác. Ba thay đổi này quyết định cách bạn nên chọn:
 
-**1. Tường lửa lớn là tiền đề cho mọi quyết định.** Ở các quốc gia khác, bạn so sánh eSIM theo tín hiệu và giá cả; ở Trung Quốc, trước tiên bạn hỏi "Tôi có thể mở Google Maps để tìm đường không, tôi có thể gửi tin nhắn WhatsApp để báo an toàn không, tôi có thể lướt Instagram không?" Câu trả lời là: **chỉ travel eSIM có định tuyến quốc tế mới có thể**—SIM địa phương và chuyển vùng quốc tế đều không. Điều này được giải thích chi tiết trong phần Tường lửa bên dưới.
+**1. Khả năng truy cập ứng dụng là tiền đề của mọi quyết định.** Ở các nước khác, bạn so sánh eSIM theo sóng và giá; ở Trung Quốc, câu hỏi đầu tiên là "Mình có mở được Google Maps để tìm đường không, gửi được tin nhắn WhatsApp báo bình an không, lướt được Instagram không?" Câu trả lời là: **chỉ eSIM du lịch có định tuyến quốc tế mới làm được**—SIM nội địa lẫn roaming quốc tế đều không. Phần định tuyến bên dưới sẽ giải thích chi tiết.
 
-**2. SIM địa phương yêu cầu đăng ký hộ chiếu—một rắc rối.** Từ năm 2019, Trung Quốc yêu cầu đăng ký danh tính thực cho thẻ điện thoại. Các quầy sân bay bán chúng, nhưng bạn cần đăng ký bằng hộ chiếu, xếp hàng kích hoạt và một số thẻ yêu cầu xác minh lần thứ hai tại trung tâm dịch vụ. Đối với du khách 3-5 ngày, [eSIM Trung Quốc](/china-esim/) cài đặt trước khi khởi hành sẽ hoạt động ngay khi bạn hạ cánh và bật chuyển vùng dữ liệu, giúp bạn tiết kiệm toàn bộ quy trình đó.
+**2. SIM nội địa yêu cầu đăng ký hộ chiếu—khá phiền.** Trung Quốc yêu cầu đăng ký tên thật cho thẻ điện thoại từ năm 2019. Quầy sân bay vẫn bán, nhưng bạn phải đăng ký bằng hộ chiếu, chờ kích hoạt, và một số thẻ còn đòi kiểm tra lại lần nữa tại trung tâm dịch vụ. Với khách du lịch ba đến năm ngày, một [China eSIM](/china-esim/) mua sẵn từ nhà chỉ cần hoạt động ngay khoảnh khắc máy bay hạ cánh và roaming bật lên—không quầy, không xếp hàng, không giấy tờ.
 
-**3. Miễn thị thực mang đến du lịch "ngắn và nhanh".** Khi thí điểm miễn thị thực 30 ngày mở rộng, ngày càng nhiều du khách châu Âu và Mỹ coi Trung Quốc là điểm đến ngắn hạn "tự phát". Những chuyến đi này không cần nhiều dữ liệu (điều hướng + tin nhắn WhatsApp + mạng xã hội nhẹ), vì vậy **các bậc dữ liệu cố định (1-10GB) tiết kiệm chi phí hơn nhiều so với gói không giới hạn**—đó chính xác là lý do Roami tập trung vào các bậc cố định và không cung cấp không giới hạn ở Trung Quốc.
+**3. Miễn visa kéo theo kiểu du lịch "ngắn và nhanh".** Khi chương trình thí điểm miễn visa 30 ngày mở rộng, ngày càng nhiều du khách Âu–Mỹ coi Trung Quốc là điểm đến "bất ngờ" tầm ngắn. Những chuyến đi này không cần nhiều dữ liệu (bản đồ + tin nhắn WhatsApp + mạng xã hội nhẹ), nên **các gói dung lượng cố định (1‑10GB) hiệu quả chi phí hơn hẳn gói không giới hạn**—đó chính là lý do Roami tập trung vào gói cố định và không bán gói không giới hạn tại Trung Quốc.
 
-## Ba Nhà mạng Trung Quốc, Giải thích
+## Ba nhà mạng Trung Quốc và mạng nào vận hành eSIM của bạn
 
-> Trung Quốc là thị trường thống trị bởi "ba gã khổng lồ nhà nước"—không có nhà mạng quốc gia thứ tư. Travel eSIM thường chuyển vùng vào mạng **China Unicom** hoặc **China Mobile**; một số ít truy cập China Telecom.
+> Trung Quốc là thị trường bị thống trị bởi "ba ông lớn nhà nước"—không có nhà mạng quốc gia thứ tư. eSIM du lịch thường roaming lên mạng **China Unicom** hoặc **China Mobile**; một số ít kết nối China Telecom.
 
-### Ba Nhà mạng Cạnh nhau
+### So sánh ba nhà mạng
 
-| Chỉ số | China Mobile | China Unicom | China Telecom |
+| Tiêu chí | China Mobile | China Unicom | China Telecom |
 |--------|--------------|--------------|---------------|
 | Thuê bao | ~1 tỷ | ~350 triệu | ~400 triệu |
 | Thị phần | ~55% | ~20% | ~25% |
-| Phủ sóng 5G dân số | **90%+** | 85%+ | 85%+ |
-| Truy cập Travel eSIM | Phổ biến | Phổ biến nhất | Hiếm |
-| Tốt nhất cho | Vùng xa xôi / phủ sóng điểm tham quan | Thành phố + chuyển vùng quốc tế ổn định | Một số vùng miền nam Trung Quốc |
+| Độ phủ dân số 5G | **90%+** | 85%+ | 85%+ |
+| Khả năng truy cập của eSIM du lịch | Phổ biến | Phổ biến nhất | Hiếm |
+| Phù hợp nhất với | Vùng xa / khu du lịch | Thành phố + roaming quốc tế ổn định | Miền nam Trung Quốc |
 
-*Nguồn: [Opensignal](https://www.opensignal.com/) / báo cáo thường niên nhà mạng, tính đến tháng 9 năm 2026.*
+*Nguồn: MIIT, Ookla Speedtest Global Index và báo cáo thường niên của các nhà mạng, tính đến tháng 9 năm 2026.*
 
-### Phủ sóng và Lưu ý của Từng Nhà mạng
+### Vùng phủ sóng và lưu ý của từng nhà mạng
 
-- **China Mobile – "Vua phủ sóng"**: Nhà mạng lớn nhất thế giới tính theo thuê bao, với số trạm 5G nhiều nhất toàn cầu—phủ sóng rộng nhất ở các điểm tham quan xa xôi và dọc đường cao tốc. Nếu bạn đang đến những địa điểm xa xôi hơn, China Mobile là mạng ổn định nhất. **⚠️ Điểm yếu**: Tích hợp chuyển vùng quốc tế kém ổn định hơn Unicom; không phải tất cả travel eSIM đều sử dụng Mobile.
+- **China Mobile – "Vua phủ sóng"**: Nhà mạng lớn nhất thế giới về số thuê bao, sở hữu nhiều trạm phát 5G nhất toàn cầu—vùng phủ rộng nhất ở các điểm du lịch hẻo lánh và dọc theo cao tốc. Nếu bạn đến những thắng cảnh xa xôi, China Mobile là mạng ổn định nhất. **⚠️ Điểm yếu**: Tích hợp roaming quốc tế kém ổn định hơn Unicom; không phải eSIM du lịch nào cũng dùng Mobile.
 
-- **China Unicom – "Lựa chọn đầu tiên cho Travel eSIM"**: Đại đa số travel eSIM quốc tế (Airalo, Holafly, v.v.) mặc định vào mạng Unicom, mang đến trải nghiệm chuyển vùng quốc tế trưởng thành và nhanh nhất tại các thành phố. **⚠️ Điểm yếu**: Phủ sóng nông thôn ở vùng núi xa xôi thua kém Mobile một chút.
+- **China Unicom – "Lựa chọn hàng đầu của eSIM du lịch"**: Nhiều eSIM du lịch quốc tế (Airalo, Roami, v.v.) mặc định dùng mạng Unicom, mang đến trải nghiệm roaming quốc tế chín muồi và nhanh nhất ở các thành phố. **⚠️ Điểm yếu**: Vùng phủ nông thôn ở miền núi xa xôi hơi kém Mobile.
 
-- **China Telecom – "Nhà mạng miền Nam"**: Phủ sóng mạnh ở các khu vực phía nam như Quảng Đông và Quảng Tây, nhưng ít travel eSIM truy cập Telecom. **⚠️ Điểm yếu**: Về cơ bản không phải lựa chọn cho du khách—có thể bỏ qua.
+- **China Telecom – "Nhà mạng miền Nam"**: Phủ sóng tốt ở các vùng phía nam như Quảng Đông, Quảng Tây, nhưng rất ít eSIM du lịch kết nối Telecom. **⚠️ Điểm yếu**: Về cơ bản không phải lựa chọn cho du khách—có thể bỏ qua.
 
-### Kết quả Kiểm tra Phủ sóng cho Các Thành phố / Điểm tham quan Chính của Trung Quốc
+### Kết quả kiểm tra phủ sóng tại các thành phố / điểm đến lớn của Trung Quốc
 
 | Điểm đến | Chất lượng phủ sóng | Tốc độ | Mạng tốt nhất |
 |-------------|------------------|-------|--------------|
 | Bắc Kinh (Tử Cấm Thành / Vạn Lý Trường Thành) | Xuất sắc | 5G, 100‑500 Mbps | Mobile / Unicom |
 | Thượng Hải (Bến Thượng Hải / Disney) | Xuất sắc | 5G, 100‑500 Mbps | Mobile / Unicom |
-| Tây An (Binh Mã Dũng) | Tốt | 5G, 50‑200 Mbps | Mobile |
+| Tây An (quân đội đất nung) | Tốt | 5G, 50‑200 Mbps | Mobile |
 | Quế Lâm / Dương Sóc | Tốt | 4G/5G, 30‑150 Mbps | Mobile / Unicom |
-| Thành Đô (Cơ sở Gấu trúc) | Xuất sắc | 5G, 80‑300 Mbps | Mobile |
+| Thành Đô (Căn cứ gấu trúc) | Xuất sắc | 5G, 80‑300 Mbps | Mobile |
 
-> **Lời khuyên Chính**
+> **Lời khuyên quan trọng**
 >
-> Chọn eSIM Trung Quốc hỗ trợ **chuyển mạng đa nhà mạng tự động** (ví dụ: Roami). Nó sẽ tự động chọn tín hiệu mạnh nhất giữa China Unicom và China Mobile dựa trên vị trí của bạn—sử dụng 5G nhanh của Unicom ở thành phố và tự động chuyển sang phủ sóng rộng hơn của Mobile khi bạn đến các điểm tham quan xa xôi. Một eSIM đơn mạng có thể khiến bạn mất sóng ở Vạn Lý Trường Thành hoặc dọc theo sông Lệ ở Quế Lâm. [Xem eSIM Trung Quốc với chuyển mạng đa nhà mạng →](/china-esim/)
+> **Lời khuyên chính**: hãy chọn eSIM Trung Quốc có **chuyển đổi tự động đa mạng** (Roami làm điều này mặc định). Nó bám vào 5G nhanh của Unicom ở Thượng Hải hay Bắc Kinh, và nhảy sang vùng phủ rộng hơn của Mobile ngay khi bạn lên đường ra Vạn Lý Trường Thành hay xuôi sông Ly—chính lúc đó eSIM khóa một mạng duy nhất lặng lẽ ngừng hoạt động.
 
-## Ba Thương hiệu eSIM Trung Quốc, So sánh Giá
+### Bảng giá đầy đủ Airalo China eSIM
 
-> ⚠️ **Lưu ý quan trọng nhất dành riêng cho Trung Quốc**: Cả ba thương hiệu đều cung cấp **eSIM chỉ dữ liệu, không có số điện thoại Trung Quốc**. Các ứng dụng địa phương Trung Quốc (gọi xe, giao đồ ăn, thanh toán di động) hầu hết yêu cầu số địa phương—eSIM dữ liệu không thể giải quyết điều đó. Nhưng điều nó giải quyết được là **Tường lửa lớn**—Google/WhatsApp hoạt động khi đến, đó là lý do nó tồn tại.
+Airalo bán sản phẩm Trung Quốc của mình dưới thương hiệu **"Chinacom"**, chạy trên mạng **China Unicom** (4G và 5G).
 
-### Ba Thương hiệu trong Một Cái nhìn
+**Gói dữ liệu không giới hạn**
 
-| Thương hiệu | Xếp hạng Trustpilot | Định vị cốt lõi | Truy cập mạng | 5G | Hotspot | Số điện thoại Trung Quốc |
-|-------|-------------------|------------------|----------------|-----|---------|----------------------|
-| **Airalo** | 4.2 | Nền tảng toàn cầu lớn nhất, bậc chi tiết nhất | Unicom (chủ yếu) | Một phần | Được hỗ trợ | ❌ |
-| **Holafly** | 4.3 | Dữ liệu không giới hạn thuần túy | Unicom | Được hỗ trợ | Giới hạn 1GB/ngày | ❌ |
-| **Roami** | 4.9 | Chuyển mạng đa nhà mạng tự động, giá trị tốt nhất | Unicom + Mobile | Tốc độ đầy đủ | Không giới hạn | ❌ |
-
-> **Sự khác biệt Cốt lõi trong nháy mắt**
->
-> - **Airalo China eSIM**: Nền tảng toàn cầu lớn nhất, bậc dữ liệu cố định chi tiết nhất, cộng với tùy chọn không giới hạn, kết nối Unicom. Giá minh bạch, hỗ trợ hotspot, **không có số điện thoại Trung Quốc**. Phù hợp cho người dùng muốn "không giới hạn" với ngân sách vừa phải.
-> - **Holafly China eSIM**: Thương hiệu không giới hạn thuần túy duy nhất, giá $3.90/ngày, kết nối 5G Unicom. Không giới hạn GB, nhưng **hotspot giới hạn 1GB/ngày**, chi phí dài hạn cao, **không có số điện thoại Trung Quốc**. Phù hợp cho người dùng nặng không ngại chi phí.
-> - **Roami China eSIM**: Chuyển mạng đa nhà mạng tự động (Unicom + Mobile), 5G tốc độ đầy đủ, hỗ trợ hotspot không giới hạn, giá thấp nhất trên toàn bảng, **không có số điện thoại Trung Quốc**. **Lưu ý: Roami Trung Quốc chỉ cung cấp các bậc dữ liệu cố định (1-50GB), không có gói không giới hạn**—vì trong môi trường Tường lửa, hầu hết mọi người không thực sự cần không giới hạn và các bậc cố định tiết kiệm chi phí hơn. Sử dụng mã giảm giá **WEB20** để được giảm 20%. [Xem gói Roami China eSIM](/china-esim/)
-
-### Bảng Giá Đầy đủ Airalo China eSIM
-
-**Gói Dữ liệu Không giới hạn**
-
-| Ngày | Giá | Chi phí hàng ngày |
+| Số ngày | Giá | Chi phí mỗi ngày |
 |------|-------|------------|
 | 3 ngày | $11.50 | $3.83/ngày |
 | 5 ngày | $19.00 | $3.80/ngày |
@@ -182,356 +165,348 @@ Bài viết này xoay quanh sự khác biệt cốt lõi này: Nhà mạng nào 
 | 15 ngày | $49.00 | $3.27/ngày |
 | 30 ngày | $69.00 | $2.30/ngày |
 
-**Gói Dữ liệu Cố định**
+**Gói dung lượng cố định**
 
-| Ngày | Bậc dữ liệu | Giá |
+| Số ngày | Dung lượng | Giá |
 |------|-----------|-------|
 | 3 ngày | 1GB / 3GB | $4.00 / $9.50 |
 | 7 ngày | 3GB / 5GB / 10GB | $10.50 / $14.50 / $24.50 |
 | 15 ngày | 5GB / 10GB / 20GB | $15.00 / $25.50 / $39.00 |
 | 30 ngày | 5GB / 10GB / 20GB / 50GB | $15.50 / $26.50 / $40.00 / $49.00 |
 
-> ⚠️ **Lưu ý Rủi ro Airalo Trung Quốc**: Các bậc dữ liệu cố định tương đối đắt (7 ngày 10GB ở $2.45/GB), cao hơn khoảng 1.5-2 lần so với Roami cho cùng bậc; không giới hạn 7 ngày ở $27 có giá trị trung bình cho du khách ngắn hạn.
+> ⚠️ **Lưu ý về Airalo Trung Quốc**: các gói cố định đắt đỏ tính trên mỗi gigabyte—10GB trong 7 ngày lên đến gần $2.45/GB, cao hơn khoảng 1.5–2 lần mức giá của Roami cho cùng gói—và gói không giới hạn 7 ngày $27 cũng không phải mức giá nổi bật cho một chuyến đi ngắn.
 
-### Bảng Giá Đầy đủ Holafly China eSIM
+### Bảng giá đầy đủ Holafly China eSIM
 
-Holafly Trung Quốc cung cấp **chỉ dữ liệu không giới hạn**, tính giá theo ngày:
+Holafly Trung Quốc chỉ có **duy nhất gói không giới hạn**, giá theo thời lượng:
 
-| Ngày | Giá | Chi phí hàng ngày |
+| Số ngày | Giá | Chi phí mỗi ngày |
 |------|-------|------------|
-| 3 ngày | $11.70 | $3.90/ngày |
-| 7 ngày | $27.30 | $3.90/ngày |
-| 15 ngày | $58.50 | $3.90/ngày |
-| 30 ngày | $117.00 | $3.90/ngày |
+| 3 ngày | $11.90 | $3.97/ngày |
+| 7 ngày | $27.50 | $3.93/ngày |
+| 10 ngày | $36.50 | $3.65/ngày |
+| 30 ngày | $73.90 | $2.46/ngày |
 
-> ⚠️ **Lưu ý Rủi ro Holafly Trung Quốc**: Không có bậc dữ liệu cố định; 3 ngày có giá $11.70, gần gấp đôi Roami 3 ngày 10GB ($6.39); **hotspot giới hạn 1GB/ngày**—hạn chế khi chia sẻ hoặc sử dụng máy tính bảng; giá theo ngày làm cho chi phí dài hạn cao nhất.
+> Chuyến đi càng ngắn, giá mỗi ngày càng cao: $3.97/ngày cho ba ngày, giảm còn $2.46/ngày nếu bạn cam kết trọn 30 ngày.
 
-### Bảng Giá Đầy đủ Roami China eSIM
+> ⚠️ **Lưu ý về Holafly Trung Quốc**: không có lựa chọn dung lượng cố định, nên ba ngày khởi điểm từ $11.90—gần gấp đôi gói 3 ngày 10GB của Roami ($6.39). Tethering bị giới hạn 1GB/ngày, loại trừ việc phát sóng cho máy tính bảng, và định giá theo ngày khiến đây là cách đắt nhất để ở lại một tháng.
 
-Roami Trung Quốc **tập trung vào các bậc dữ liệu cố định (không có gói không giới hạn)**. Giá giảm giá = giá niêm yết × 0.8 (mã WEB20):
+### Bảng giá đầy đủ Roami China eSIM
 
-| Ngày | Bậc dữ liệu | Giá niêm yết | Giảm giá | Chi phí hàng ngày |
+Roami Trung Quốc **tập trung vào gói dung lượng cố định (không có gói không giới hạn)**. Giá ưu đãi = giá niêm yết × 0.8 (mã WEB20):
+
+| Số ngày | Dung lượng | Giá niêm yết | Giá ưu đãi | Chi phí mỗi ngày |
 |------|-----------|------------|------------|------------|
 | 3 ngày | 1GB / 3GB / 5GB / 10GB | $1.99 / $3.99 / $5.99 / $7.99 | **$1.59 / $3.19 / $4.79 / $6.39** | $0.53‑2.13/ngày |
 | 7 ngày | 1GB / 3GB / 5GB / 10GB / 20GB | $1.99 / $4.99 / $6.99 / $11.99 / $15.99 | **$1.59 / $3.99 / $5.59 / $9.59 / $12.79** | $0.23‑1.83/ngày |
 | 15 ngày | 3GB / 5GB / 10GB / 20GB / 30GB | $5.99 / $7.99 / $10.99 / $19.99 / $28.99 | **$4.79 / $6.39 / $8.79 / $15.99 / $23.19** | $0.32‑1.55/ngày |
 | 30 ngày | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB | $6.99 / $8.99 / $15.99 / $25.99 / $29.99 / $39.99 | **$5.59 / $7.19 / $12.79 / $20.79 / $23.99 / $31.99** | $0.19‑1.07/ngày |
 
-> ⚠️ **Lưu ý Rủi ro Roami Trung Quốc**: Không có bậc dữ liệu không giới hạn—người dùng video/phát trực tuyến nặng cần quản lý sử dụng; nhưng các bậc dữ liệu cố định có giá mỗi GB thấp nhất, khiến chúng tiết kiệm chi phí hơn cho đại đa số hành trình Trung Quốc.
+> ⚠️ **Lưu ý rủi ro Roami Trung Quốc**: Không có gói không giới hạn—ai xem video/streaming nhiều cần tự kiểm soát mức dùng; nhưng các gói cố định có giá mỗi GB thấp nhất, nên hiệu quả chi phí hơn cho đại đa số hành trình Trung Quốc.
 
-### Đọc Giữa Các Mức Giá
+### Đọc vị sau các con số giá
 
-**Giá mỗi GB giảm mạnh khi bạn chuyển sang các bậc lớn hơn.** Lấy gói 30 ngày của Roami làm ví dụ:
+**Mua nhiều mới là nơi giá trị nằm: càng lấy nhiều GB, mỗi GB càng rẻ.** Hãy nhìn thang giá 30 ngày của Roami:
 
-| Bậc dữ liệu | Giá giảm giá | Giá mỗi GB |
+| Dung lượng | Giá ưu đãi | Giá mỗi GB |
 |-----------|------------------|--------------|
 | 3GB | $5.59 | $1.86/GB |
 | 10GB | $12.79 | $1.28/GB |
 | 20GB | $20.79 | $1.04/GB |
 | 50GB | $31.99 | **$0.64/GB** |
 
-Giá mỗi GB của 50GB khoảng một phần ba của 3GB. **Kết luận: nếu bạn có thể ước tính mức sử dụng của mình, mua bậc lớn hơn sẽ tiết kiệm nhiều tiền hơn.**
+Gói 50GB tốn khoảng một phần ba giá mỗi GB so với gói 3GB. **Vậy nên nếu bạn có chút khái niệm về mức dùng của mình, nâng một bậc là nước đi rẻ hơn.**
 
-**Ở Trung Quốc, "không giới hạn" thường có nghĩa là trả thêm tiền cho sự an toàn tâm lý.** Roami không cung cấp không giới hạn ở Trung Quốc; chỉ Airalo (7 ngày $27) và Holafly (7 ngày $27.30) mới có. So sánh với các bậc cố định của Roami:
+**Ở Trung Quốc, "không giới hạn" thường có nghĩa là trả thêm tiền để yên tâm về mặt tâm lý.** Roami không bán gói không giới hạn tại Trung Quốc; chỉ Airalo (7‑day $27) và Holafly (7‑day $27.50) có. So với các gói cố định của Roami:
 
-| Gói 7 Ngày | Giá | Có đáng không? |
+| Gói 7 ngày | Giá | Đáng tiền không? |
 |------------|-------|-----------|
-| Roami 20GB giảm giá | $12.79 | Giá trị tốt nhất nếu sử dụng hàng ngày ≤ 2.86GB |
-| Airalo Không giới hạn | $27.00 | Chỉ đáng nếu sử dụng hàng ngày > 2.86GB |
-| Holafly Không giới hạn | $27.30 | Chỉ đáng nếu sử dụng hàng ngày > 2.86GB |
+| Roami 20GB giá ưu đãi | $12.79 | Giá trị nhất nếu mức dùng mỗi ngày ≤ 2.86GB |
+| Airalo không giới hạn | $27.00 | Chỉ đáng nếu mức dùng mỗi ngày > 2.86GB |
+| Holafly không giới hạn | $27.50 | Chỉ đáng nếu mức dùng mỗi ngày > 2.86GB |
 
-**Điểm hòa vốn không giới hạn = 2.86GB/ngày.** Chỉ khi bạn tiêu thụ gần 3GB mỗi ngày (khoảng 2 giờ video HD + mạng xã hội nặng), không giới hạn mới có lợi. Hầu hết du lịch ở Trung Quốc bao gồm tham quan, chụp ảnh và điều hướng—sử dụng hàng ngày hiếm khi vượt quá 1GB—**10-20GB cố định là đủ; đừng trả gấp đôi cho "không giới hạn".**
+**Điểm hòa vốn của "không giới hạn" tính ra là 2.86GB mỗi ngày.** Bạn phải tiêu gần 3GB mỗi ngày—hai giờ video HD cộng với lướt mạng xã hội liên tục—thì gói không giới hạn mới thắng gói cố định. Hành trình Trung Quốc thực tế là tham quan, chụp ảnh và tra bản đồ, hiếm khi vượt 1GB mỗi ngày, nên **gói cố định 10–20GB là lựa chọn khôn ngoan; từ "không giới hạn" không đáng để trả gấp đôi.**
 
-**Bạn có thể làm gì với số tiền tiết kiệm được?** So sánh giá giảm giá của Roami với các bậc tương đương của Airalo và quy đổi số tiền tiết kiệm thành chi phí du lịch:
+**Số tiền tiết kiệm đó mua được gì?** Đặt các gói ưu đãi của Roami cạnh Airalo và quy khoảng chênh lệch thành những thứ bạn lẽ ra phải trả tiền:
 
-| Hành trình | Roami Disc. vs Airalo | Tiết kiệm | Tương đương với |
+| Hành trình | Roami ưu đãi vs Airalo | Tiết kiệm | Tương đương với |
 |-----------|-----------------------|------|---------------|
-| 7 ngày 10GB | $9.59 vs $24.50 | $14.91 | Một bữa vịt quay Bắc Kinh + hai cà phê |
-| 15 ngày 20GB | $15.99 vs $39.00 | $23.01 | Vé Tử Cấm Thành + chuyến đi Vạn Lý Trường Thành trong ngày |
-| 30 ngày 50GB | $31.99 vs $49.00 | $17.01 | Một đêm khách sạn hạng trung |
+| 7‑day 10GB | $9.59 vs $24.50 | $14.91 | Một bữa vịt quay Bắc Kinh + hai ly cà phê |
+| 15‑day 20GB | $15.99 vs $39.00 | $23.01 | Vé Tử Cấm Thành + một ngày đi Trường Thành |
+| 30‑day 50GB | $31.99 vs $49.00 | $17.01 | Một đêm khách sạn tầm trung |
 
-## eSIM Trung Quốc 3 Ngày Nào Tốt Nhất?
+## eSIM Trung Quốc 3 ngày nào là tốt nhất?
 
-Đối với chuyến đi ngắn 3 ngày (quá cảnh / công tác / cuối tuần), nhu cầu dữ liệu thấp—tất cả đều về **giá khởi điểm**.
+Với các chuyến đi ngắn 3 ngày (quá cảnh / công tác / nghỉ cuối tuần), nhu cầu dữ liệu thấp—mọi thứ nằm ở **giá khởi điểm**.
 
-| Dữ liệu | Airalo | Holafly | Roami (Disc.) | Giá trị tốt nhất |
+| Dữ liệu | Airalo | Holafly | Roami (ưu đãi) | Giá trị nhất |
 |------|--------|---------|---------------|------------|
 | 1GB | $4.00 | — | **$1.59** | **Roami** |
 | 3GB | $9.50 | — | **$3.19** | **Roami** |
 | 5GB | — | — | **$4.79** | **Roami** |
 | 10GB | — | — | **$6.39** | **Roami** |
-| Không giới hạn | $11.50 | $11.70 | — | Airalo |
+| Không giới hạn | $11.50 | $11.90 | — | Airalo |
 
-**Quyết định 3 ngày**: Roami 3 ngày 3GB giảm giá $3.19 rẻ hơn 66% so với gói tương đương của Airalo ($9.50); Roami 3 ngày 10GB ($6.39) thậm chí rẻ hơn 45% so với Holafly không giới hạn ($11.70). Cho chuyến đi 3 ngày, bạn sẽ không cần không giới hạn—**các bậc cố định của Roami thắng trên mọi mặt**.
+**Kết luận 3 ngày**: gói 3 ngày 3GB của Roami giá $3.19 rẻ hơn 66% so với gói tương đương của Airalo ($9.50), và gói 10GB của Roami ($6.39) còn vượt cả gói không giới hạn của Holafly ($11.90) tới 46%. Trong ba ngày bạn sẽ không chạm tới trần không giới hạn—**các gói cố định thắng ở mọi dòng.**
 
-> **💡 Thông tin Giá trị cho Gói 3 Ngày**: Cho chuyến đi 3 ngày đến một thành phố, điều hướng + tin nhắn WhatsApp + mạng xã hội nhẹ, 1-3GB là quá đủ. Roami 3 ngày 3GB giảm giá $3.19 chỉ hơn $1/ngày để giải quyết mọi kết nối—rẻ hơn một cốc cà phê ở sân bay. [Xem gói eSIM Trung Quốc 3 ngày](/china-esim/)
+> **💡 Ba ngày thực tế tốn bao nhiêu**: một thành phố duy nhất, bản đồ cộng WhatsApp cộng vài lần tải ảnh, chỉ cần 1–3GB. Với $3.19 cho 3GB, bạn trả chỉ hơn một đô la mỗi ngày để luôn trực tuyến—rẻ hơn một ly cà phê sân bay. [Xem gói eSIM Trung Quốc 3 ngày](/china-esim/)
 
-## Nên Chọn eSIM Trung Quốc 7 Ngày Nào?
+## Nên chọn eSIM Trung Quốc 7 ngày nào?
 
-7 ngày là độ dài chuyến đi phổ biến nhất đến Trung Quốc (bao gồm gia hạn quá cảnh miễn thị thực 144 giờ và dịp Quốc khánh / Tết Nguyên đán).
+7 ngày là độ dài chuyến đi phổ biến nhất khi du lịch Trung Quốc (gồm kéo dài quá cảnh miễn visa 144 giờ, và dịp Quốc Khánh / Tết Nguyên Đán).
 
-| Dữ liệu | Airalo | Holafly | Roami (Disc.) | Giá trị tốt nhất |
+| Dữ liệu | Airalo | Holafly | Roami (ưu đãi) | Giá trị nhất |
 |------|--------|---------|---------------|------------|
 | 1GB | — | — | **$1.59** | **Roami** |
 | 3GB | $10.50 | — | **$3.99** | **Roami** |
 | 5GB | $14.50 | — | **$5.59** | **Roami** |
 | 10GB | $24.50 | — | **$9.59** | **Roami** |
 | 20GB | — | — | **$12.79** | **Roami** |
-| Không giới hạn | $27.00 | $27.30 | — | Airalo |
+| Không giới hạn | $27.00 | $27.50 | — | Airalo |
 
-**Quyết định 7 ngày**: Roami 7 ngày 10GB giảm giá $9.59 rẻ hơn 61% so với gói tương đương của Airalo ($24.50) và rẻ hơn 65% so với không giới hạn của Holafly ($27.30). Ở bậc 10GB, Roami giảm giá $9.59 chỉ bằng 40% của Airalo $24.50.
+**Kết luận 7 ngày**: gói 10GB một tuần của Roami giá $9.59 thấp hơn 61% so với cùng bậc của Airalo ($24.50) và thấp hơn 65% so với gói không giới hạn của Holafly ($27.50)—riêng dòng 10GB chỉ bằng 40% mức Airalo tính.
 
-> **💡 Thông tin Giá trị cho Gói 7 Ngày**: 7 ngày 10GB trung bình 1.43GB/ngày—đủ cho 1 giờ video ngắn + điều hướng cả ngày + nhiều tin nhắn WhatsApp. Roami giảm giá $9.59 cho bạn $0.96/GB—thấp nhất thị trường; $14.91 tiết kiệm được đủ cho một bữa vịt quay Bắc Kinh. Chỉ khi bạn phát trực tuyến 2+ giờ video HD mỗi ngày, bạn mới cần Airalo Không giới hạn ($27).
+> **💡 Một tuần thực tế tốn bao nhiêu**: 10GB chia cho bảy ngày là khoảng 1.43GB mỗi ngày—một giờ video ngắn, dùng bản đồ cả ngày và nhiều tin nhắn WhatsApp. $9.59 của Roami tương đương $0.96/GB, và khoản $14.91 bạn giữ lại đủ cho một bữa vịt quay Bắc Kinh. Chỉ khi bạn stream hơn hai giờ HD mỗi ngày, gói không giới hạn $27 của Airalo mới là lựa chọn đúng.
 
-## Gói eSIM Trung Quốc 15 Ngày
+## Gói eSIM Trung Quốc 15 ngày
 
-15 ngày là thời gian phổ biến cho các chuyến tham quan nhiều thành phố theo chính sách "miễn thị thực 30 ngày".
+15 ngày là thời lượng phổ biến cho các tour nhiều thành phố theo chính sách "miễn visa 30 ngày".
 
-| Dữ liệu | Airalo | Holafly | Roami (Disc.) | Giá trị tốt nhất |
+| Dữ liệu | Airalo | Holafly | Roami (ưu đãi) | Giá trị nhất |
 |------|--------|---------|---------------|------------|
 | 5GB | $15.00 | — | **$6.39** | **Roami** |
 | 10GB | $25.50 | — | **$8.79** | **Roami** |
 | 20GB | $39.00 | — | **$15.99** | **Roami** |
 | 30GB | — | — | **$23.19** | **Roami** |
-| Không giới hạn | $49.00 | $58.50 | — | Airalo |
+| Không giới hạn | $49.00 | $50.50 | — | Airalo |
 
-**Quyết định 15 ngày**: Roami 15 ngày 20GB giảm giá $15.99 rẻ hơn 59% so với gói tương đương của Airalo ($39.00) và rẻ hơn 73% so với Holafly ($58.50). Roami 30GB ở $23.19 vẫn thấp hơn 60% so với 20GB của Airalo ($39.00).
+**Kết luận 15 ngày**: gói 20GB hai tuần của Roami giá $15.99 thấp hơn 59% so với cùng bậc của Airalo ($39.00) và thấp hơn 68% so với Holafly ($50.50); gói 30GB giá $23.19 vẫn dưới 60% mức giá 20GB của Airalo.
 
-> **💡 Thông tin Giá trị cho Gói 15 Ngày**: 15 ngày 20GB trung bình 1.33GB/ngày—phù hợp cho điều hướng hàng ngày + mạng xã hội + phát trực tuyến video ngắn thỉnh thoảng. Roami giảm giá $15.99 cho $0.80/GB, thậm chí rẻ hơn bậc 7 ngày; Holafly $58.50 gấp 3.6 lần Roami 20GB—$42 thêm có thể đặt một đêm khách sạn tốt.
+> **💡 Hai tuần thực tế tốn bao nhiêu**: 20GB trong 15 ngày là 1.33GB mỗi ngày—đủ cho bản đồ và mạng xã hội hằng ngày cộng vài tập phim stream thi thoảng. $15.99 của Roami tương đương $0.80/GB, rẻ hơn cả gói 7 ngày của chính hãng, trong khi $50.50 của Holafly đắt gấp 3.2 lần; khoảng cách $34.51 đó là một đêm khách sạn bình dân.
 
-## Giá eSIM Trung Quốc 30 Ngày
+## Giá eSIM Trung Quốc 30 ngày
 
-30 ngày bao gồm lưu trú dài miễn thị thực, công tác ngắn hạn, thăm quan học tập và đoàn tụ gia đình.
+30 ngày bao gồm lưu trú dài hạn miễn visa, làm việc ngắn hạn, du học tham quan và đoàn tụ gia đình.
 
-| Dữ liệu | Airalo | Holafly | Roami (Disc.) | Giá trị tốt nhất |
+| Dữ liệu | Airalo | Holafly | Roami (ưu đãi) | Giá trị nhất |
 |------|--------|---------|---------------|------------|
 | 5GB | $15.50 | — | **$7.19** | **Roami** |
 | 10GB | $26.50 | — | **$12.79** | **Roami** |
 | 20GB | $40.00 | — | **$20.79** | **Roami** |
 | 30GB | — | — | **$23.99** | **Roami** |
 | 50GB | $49.00 | — | **$31.99** | **Roami** |
-| Không giới hạn | $69.00 | $117.00 | — | Airalo |
+| Không giới hạn | $69.00 | $73.90 | — | Airalo |
 
-**Quyết định 30 ngày**: Roami 30 ngày 50GB giảm giá $31.99 rẻ hơn 35% so với gói tương đương của Airalo ($49.00) và rẻ hơn 73% so với Holafly ($117.00). Bậc 50GB ở $0.64/GB có giá mỗi GB thấp nhất.
+**Kết luận 30 ngày**: gói 50GB một tháng của Roami giá $31.99 rẻ hơn 35% so với gói tương đương của Airalo ($49.00) và rẻ hơn 57% so với Holafly ($73.90), và gói 50GB mang mức giá mỗi GB thấp nhất trên toàn trang.
 
-> **💡 Thông tin Giá trị cho Gói 30 Ngày**: Cả tháng sử dụng [eSIM Trung Quốc giá trị](/china-esim/), câu trả lời rất rõ ràng—Roami 50GB ở $0.64/GB trung bình 1.67GB/ngày. Holafly 30 ngày $117 gần gấp 3.7 lần Roami 50GB—chênh lệch $85 có thể đặt hai đêm khách sạn hạng trung. Trừ khi bạn thực hiện 2+ giờ cuộc gọi video/phát trực tuyến hàng ngày, 50GB là bậc tiết kiệm chi phí nhất trong tháng—đừng trả gấp đôi cho "không giới hạn."
+> **💡 Một tháng thực tế tốn bao nhiêu**: nếu bạn muốn trọn một tháng, 50GB của Roami với $0.64/GB tương đương trung bình 1.67GB mỗi ngày. Gói 30 ngày của Holafly giá $73.90 đắt gấp 2.3 lần—chênh lệch $41.91, tức một đêm khách sạn tầm trung. Trừ khi công việc hằng ngày của bạn là gọi video hoặc livestream, 50GB là món mua tốt nhất của tháng.
 
-> **💰 Ưu đãi có thời hạn**
+> **💰 Ưu đãi giới hạn thời gian**
 >
-> Chọn **eSIM Trung Quốc** của Roami, nhập mã giảm giá **WEB20** khi thanh toán và được **giảm 20%** tất cả các gói. 7 ngày 10GB giảm giá $9.59 và 30 ngày 50GB giảm giá $31.99 thấp hơn đáng kể so với các bậc tương đương của đối thủ. [Mua gói eSIM Trung Quốc ngay](/china-esim/)
+> Chọn **China eSIM** của Roami, nhập mã khuyến mãi **WEB20** khi thanh toán để được **giảm 20%** mọi gói. Gói 7 ngày 10GB giá ưu đãi $9.59 và gói 30 ngày 50GB giá $31.99 thấp hơn hẳn mức hai hãng kia tính cho cùng dung lượng. [Mua gói eSIM Trung Quốc ngay](/china-esim/)
 >
-> *Mã giảm giá áp dụng cho tất cả các ngày và bậc dữ liệu.*
+> *Mã giảm giá áp dụng cho mọi thời lượng và mọi bậc dung lượng.*
 
-## eSIM Trung Quốc Theo Phong cách Du lịch
+## eSIM Trung Quốc theo phong cách du lịch
 
-### Chuyến đi Thành phố Bắc Kinh / Thượng Hải (3-5 ngày)
+### Tham quan Bắc Kinh / Thượng Hải (3‑5 ngày)
 
-- **Sử dụng trung bình hàng ngày**: 1-2GB (điều hướng + mạng xã hội + tải ảnh lên)
-- **Khuyến nghị**: Roami 3-5GB
-- **Lý do**: Phủ sóng 5G thành phố rất tốt; Roami chuyển mạng đa nhà mạng tự động chọn tín hiệu tốt nhất giữa Unicom và Mobile; 3GB giảm giá từ $3.99.
-- **⚠️ Lưu ý**: Một số khu vực Tử Cấm Thành và Vạn Lý Trường Thành có tín hiệu yếu hơn; chuyển mạng đa nhà mạng ổn định hơn mạng đơn.
+Hai đến ba GB là thoải mái cho hành trình này. Bản đồ, ảnh WeChat và vài lần làm mới bản đồ hiếm khi vượt 1–2GB mỗi ngày, và lớp 5G đô thị dày đến mức sóng không phải vấn đề. Lấy gói 3–5GB của Roami và để nó nhảy giữa Unicom và Mobile; cả hai đều mạnh ở trung tâm. Trong Tử Cấm Thành và trên Vạn Lý Trường Thành vạch sóng có thưa đi, và đó chính là nơi eSIM chỉ khóa một mạng bắt đầu gây khó khăn.
 
-### Chuyến tham quan Văn hóa & Ẩm thực Tây An / Thành Đô (4-6 ngày)
+### Tour văn hóa & ẩm thực Tây An / Thành Đô (4‑6 ngày)
 
-- **Sử dụng trung bình hàng ngày**: 1-2GB
-- **Khuyến nghị**: Roami 5-10GB
-- **Lý do**: Nhiều chia sẻ ảnh tại Binh Mã Dũng và Cơ sở Gấu trúc; 5GB giảm giá từ $5.59, giá trị tuyệt vời.
-- **⚠️ Lưu ý**: Ở các khu vực thương mại đông đúc như đường Chunxi, Thành Đô, mạng di động được ưu tiên.
+Hành trình nhiều ảnh "ngốn" dữ liệu nhiều hơn người ta tưởng—quân đội đất nung, Căn cứ gấu trúc và cả một chuỗi dài ảnh quán ăn. Dải 5–10GB của Roami bao trùm thoải mái, với gói 5GB là mức sàn hợp lý. Ở khu phố sầm uất như đường Xuân Hi Thành Đô, hãy đợi các mạng bị quá tải vào giờ ăn.
 
-### Chuyến tham quan Thiên nhiên & Phong cảnh Quế Lâm / Trương Gia Giới (5-7 ngày)
+### Tour thiên nhiên & cảnh quan Quế Lâm / Trương Gia Giới (5‑7 ngày)
 
-- **Sử dụng trung bình hàng ngày**: 1-1.5GB
-- **Khuyến nghị**: Roami 5-10GB
-- **Lý do**: Phủ sóng ở sông Lệ và núi Trương Gia Giới yếu hơn; chuyển mạng đa nhà mạng ổn định hơn trên phủ sóng rộng hơn của Mobile.
-- **⚠️ Lưu ý**: Sâu trong núi, có thể không có tín hiệu—tải xuống bản đồ ngoại tuyến trước.
+Trù tính 1–1.5GB mỗi ngày và chọn Roami 5–10GB. Phủ sóng trên sông Ly và trong vùng karst Trương Gia Giới thưa hơn ở thành phố, nên một eSIM biết quay về vùng phủ rộng hơn của Mobile sẽ giữ bạn trực tuyến thường xuyên hơn nhiều. Tải sẵn bản đồ cho các hẻm núi trước khi đi—sâu trong cảnh quan là không còn sóng để dựa vào.
 
-### Tham quan Nhiều Thành phố (Bắc Kinh→Tây An→Thượng Hải, 10-15 ngày)
+### Tour nhiều thành phố (Bắc Kinh → Tây An → Thượng Hải, 10‑15 ngày)
 
-- **Sử dụng trung bình hàng ngày**: 1.5-2GB
-- **Khuyến nghị**: Roami 20-30GB
-- **Lý do**: Các tuyến đường sắt cao tốc có khoảng trống phủ sóng; 20GB giảm giá $15.99 ở $0.80/GB.
-- **⚠️ Lưu ý**: Mất kết nối ngắn trong hầm tàu là bình thường—tín hiệu tiếp tục sau khi ra khỏi hầm.
+Gói 20–30GB là điểm ngọt: với 1.5–2GB mỗi ngày, mức này rơi vào khoảng $0.80/GB trên gói 20GB của Roami. Đường sắt cao tốc cắt qua nhiều đoạn không có phủ sóng, và những gián đoạn ngắn trong hầm là bình thường—sóng trở lại khi tàu thoát khỏi đoạn cắt.
 
-### Công tác Bắc Kinh / Thượng Hải (3-7 ngày)
+### Đi công tác Bắc Kinh / Thượng Hải (3-7 ngày)
 
-- **Sử dụng trung bình hàng ngày**: 1-2GB (email + hội nghị video)
-- **Khuyến nghị**: Roami 5-10GB
-- **Lý do**: Hoạt động ngay sau khi hạ cánh, không xếp hàng xác minh giấy tờ tùy thân; cần mạng ổn định cho cuộc gọi video; chuyển mạng đa nhà mạng đáng tin cậy hơn.
-- **⚠️ Lưu ý**: Cho các cuộc họp quan trọng, sử dụng WiFi khách sạn/nơi tổ chức làm dự phòng.
+Roami 5–10GB, được chọn vì trải nghiệm khi hạ cánh ngang với giá cả: nó hoạt động ngay khi bạn đáp xuống, không cần vòng qua quầy nhà mạng để làm giấy tờ danh tính, và chuyển đổi đa mạng chính là thứ giữ cuộc gọi video không bị rớt. Giữ WiFi khách sạn hoặc địa điểm làm phương án dự phòng cho mọi việc quan trọng.
 
-### Ngân sách Cực kỳ Eo hẹp (3-7 ngày)
+### Ngân sách siêu eo hẹp (3-7 ngày)
 
-- **Sử dụng trung bình hàng ngày**: <1GB (điều hướng + văn bản)
-- **Khuyến nghị**: Roami 1GB/7 ngày
-- **Lý do**: Giảm giá $1.59, giá thấp nhất; đủ cho 20 giờ Google Maps + nhiều tin nhắn WhatsApp.
-- **⚠️ Lưu ý**: Đừng phát trực tuyến video—1GB chỉ khoảng 1 giờ video ngắn.
+Gói 1GB / 7‑day của Roami giá $1.59 là cách rẻ nhất lên mạng, đủ dùng cho khoảng 20 giờ Google Maps cùng rất nhiều tin nhắn WhatsApp. Chỉ cần tránh xem video—1GB chỉ tương đương khoảng một giờ clip ngắn.
 
-## Phần Tường lửa lớn của eSIM Trung Quốc
+## eSIM Trung Quốc và những ứng dụng bạn dùng mỗi ngày
 
-Đây là vấn đề cốt lõi làm cho Trung Quốc khác biệt với tất cả các quốc gia khác—đáng để giải thích chi tiết.
+Đây là vấn đề cốt lõi khiến Trung Quốc khác biệt với mọi quốc gia khác—đáng để phân tích kỹ.
 
-### Tường lửa lớn Chặn Những Gì
+### Ứng dụng nào hoạt động khác tại đại lục Trung Quốc
 
-Tại Trung Quốc đại lục, sử dụng mạng thông thường, các nội dung sau đây **bị chặn theo mặc định**: Google (Tìm kiếm/Gmail/Bản đồ/YouTube), WhatsApp, Instagram, Facebook, X (Twitter) và một số trang tin nước ngoài. Đối với du khách châu Âu và Mỹ đã quen với các ứng dụng này, trải nghiệm bị "cắt đứt" khi đến là rất khó chịu.
+Trên các mạng nội địa đại lục, các dịch vụ sau **không truy cập được theo mặc định**: Google (Search/Gmail/Maps/YouTube), WhatsApp, Instagram, Facebook, X (Twitter) và một số trang tin tức nước ngoài. Với du khách phụ thuộc vào những ứng dụng này mỗi ngày, vài giờ đầu sau khi hạ cánh có thể cảm giác như bị cắt khỏi thế giới.
 
-### Tại sao Travel eSIM Có Thể Truy cập Chúng
+### Đường đi dữ liệu khác nhau ra sao
 
-Điểm mấu chốt là **dữ liệu đi theo đường nào**:
+Chìa khóa nằm ở **dữ liệu đi theo đường nào**:
 
-- **SIM địa phương / Chuyển vùng Quốc tế**: Dữ liệu thoát qua các cổng địa phương Trung Quốc—**đi qua Tường lửa**—vì vậy các ứng dụng trên bị chặn.
-- **Travel eSIM**: Mặc dù tín hiệu kết nối với trạm China Unicom/Mobile, dữ liệu định tuyến trở lại qua **các nút quốc tế** (cái gọi là "dữ liệu không hạ cánh tại Trung Quốc"), với điểm thoát bên ngoài Trung Quốc—**không đi qua Tường lửa**—vì vậy Google/WhatsApp/Instagram hoạt động trực tiếp.
+- **SIM nội địa / roaming quốc tế**: dữ liệu đi ra qua các cổng kết nối đại lục, nên các ứng dụng nêu trên hoạt động y hệt như trên mạng nội địa đại lục.
+- **eSIM du lịch**: profile vẫn gắn vào trạm phát của China Unicom hoặc China Mobile, nhưng lưu lượng được định tuyến qua **các node quốc tế**, đi ra ngoài đại lục Trung Quốc—đó là lý do Google, WhatsApp và Instagram vẫn hoạt động như bạn mong đợi.
 
-Vì vậy, [eSIM Trung Quốc](/china-esim/) không chỉ là "thẻ dữ liệu"—nó là một **"giải pháp vượt qua Tường lửa"** —đối với du khách thông thường không muốn bận tâm đến VPN, đây là lựa chọn đơn giản nhất.
+Vì vậy, [China eSIM](/china-esim/) không chỉ là "thẻ dữ liệu"—với đa số khách du lịch ngắn hạn, nó xóa bỏ hoàn toàn nhu cầu phải xoay xở quanh các hạn chế mạng.
 
-### So sánh Khả năng Truy cập của Ba Lựa chọn
+### So sánh khả năng truy cập của ba phương án
 
-| Lựa chọn | Google/WhatsApp | Ứng dụng địa phương Trung Quốc | Chi phí | Tiện lợi |
+| Phương án | Google/WhatsApp | Ứng dụng nội địa Trung Quốc | Chi phí | Tiện lợi |
 |--------|----------------|---------------------|------|-------------|
-| SIM địa phương Trung Quốc | ❌ Bị chặn | ✅ Hoạt động | Thấp | Yêu cầu đăng ký hộ chiếu |
-| Chuyển vùng Quốc tế | ❌ Bị chặn | ✅ Hoạt động | Cao | Hoạt động trực tiếp |
-| **Travel eSIM** | **✅ Hoạt động** | Một số yêu cầu số địa phương | Trung bình | Hoạt động khi đến |
-| VPN + SIM địa phương | ✅ Hoạt động | ✅ Hoạt động | Thấp + rắc rối | Cần VPN, có rủi ro |
+| SIM nội địa Trung Quốc | ❌ Không truy cập được | ✅ Hoạt động | Thấp | Yêu cầu đăng ký hộ chiếu |
+| Roaming quốc tế | ❌ Không truy cập được | ✅ Hoạt động | Cao | Dùng trực tiếp |
+| **eSIM du lịch** | **✅ Hoạt động** | Một số cần số nội địa | Trung bình | Dùng ngay khi đến |
+| **SIM nội địa + eSIM du lịch (dual SIM)** | ✅ Hoạt động | ✅ Hoạt động | Thấp + một gói dữ liệu | Cần điện thoại hai SIM |
 
-> **Kết luận Chính**: Travel eSIM là cách đơn giản nhất để "vừa truy cập Google/WhatsApp vừa không cần bận tâm đến VPN". Sự đánh đổi là nó không cung cấp số điện thoại Trung Quốc—các ứng dụng địa phương Trung Quốc (thanh toán di động, gọi xe) cần các sắp xếp khác.
+> **Điểm mấu chốt**: eSIM du lịch là cách đơn giản nhất để giữ Google và WhatsApp hoạt động ngay từ lúc hạ cánh. Cái giá phải trả là nó không kèm số điện thoại đại lục—các ứng dụng nội địa cần số điện thoại (thanh toán di động, gọi xe) cần sắp xếp riêng.
 
-## eSIM Trung Quốc vs SIM Địa phương vs Chuyển vùng Quốc tế
+## eSIM Trung Quốc vs SIM nội địa vs roaming quốc tế
 
-| Tiêu chí | Travel eSIM | SIM địa phương Trung Quốc | Chuyển vùng Quốc tế |
+| Tiêu chí | eSIM du lịch | SIM nội địa Trung Quốc | Roaming quốc tế |
 |-----------|-------------|-----------------|-----------------------|
-| Google/WhatsApp | ✅ Hoạt động | ❌ Bị chặn | ❌ Bị chặn |
-| Quy trình thiết lập | Cài đặt trước khi khởi hành | Đăng ký hộ chiếu + xếp hàng | Không cần thiết lập |
-| Hoạt động khi đến | ✅ | ❌ Yêu cầu kích hoạt | ✅ |
+| Google/WhatsApp | ✅ Hoạt động | ❌ Không truy cập được | ❌ Không truy cập được |
+| Quy trình thiết lập | Cài trước khi khởi hành | Đăng ký hộ chiếu + xếp hàng | Không cần cài đặt |
+| Dùng ngay khi đến | ✅ | ❌ Cần kích hoạt | ✅ |
 | Số điện thoại Trung Quốc | ❌ | ✅ | ❌ |
-| Giá | Trung bình (thấp hơn với giảm giá) | Thấp | Cao |
-| Tốt nhất cho | Du khách ngắn hạn, những người cần ứng dụng nước ngoài | Lưu trú dài, những người cần số địa phương | Khẩn cấp |
+| Giá | Trung bình (rẻ hơn khi có ưu đãi) | Thấp | Cao |
+| Phù hợp nhất với | Khách du lịch ngắn hạn, người cần ứng dụng nước ngoài | Lưu trú dài, người cần số nội địa | Trường hợp khẩn cấp |
 
-**Kết luận**: Chuyến đi ngắn + cần Google/WhatsApp → travel eSIM; lưu trú dài + cần số Trung Quốc → SIM địa phương; không muốn cái nào → đừng mua chuyển vùng (đắt và không thể vượt qua Tường lửa).
+**Kết luận**: Chuyến đi ngắn + cần Google/WhatsApp → eSIM du lịch; lưu trú dài + cần số điện thoại Trung Quốc → SIM nội địa; không cần cả hai → đừng mua roaming (đắt, và vẫn đi qua cổng đại lục).
 
-## Cài đặt eSIM Trung Quốc của Bạn
+## Cài đặt eSIM Trung Quốc
 
-1. **Cài đặt trên WiFi trước khi khởi hành**: Sau khi mua, bạn sẽ nhận được mã QR. Trước khi khởi hành, đến "Cài đặt → Di động/Mạng di động → Thêm eSIM" và quét mã QR hoặc nhập mã kích hoạt.
-2. **Bật "Chuyển vùng Dữ liệu" khi đến**: Đảm bảo bật công tắc "Data Roaming" sau khi hạ cánh—đây là nguyên nhân phổ biến nhất khiến kích hoạt thất bại. Điện thoại sẽ tự động kết nối với China Unicom/Mobile.
-3. **Chọn SIM dữ liệu**: Đặt travel eSIM làm đường "Dữ liệu di động" chính và giữ SIM nhà cho "Thoại/SMS" nếu bạn muốn giữ nó.
-4. **Tắt chuyển vùng dữ liệu trên SIM nhà**: Tránh phí chuyển vùng cao trên SIM trong nước.
-5. **Kiểm tra Google/WhatsApp**: Khi đã kết nối, mở Google Maps và WhatsApp để xác nhận tuyến quốc tế đang hoạt động.
+1. **Thêm profile khi còn WiFi nhà**: Mã QR sẽ đến hộp thư của bạn trong vài phút. Mở "Cài đặt → Di động/Mạng di động → Thêm eSIM" và thêm trước khi bay—WiFi sân bay đại lục thường đòi mã SMS mà bạn có thể chưa nhận được.
+2. **Bật Data Roaming sau khi đáp xuống**: Một profile không bao giờ kết nối gần như luôn do quên bật roaming. Sau khi bật, eSIM sẽ gắn vào China Unicom hoặc China Mobile trong khoảng hai phút.
+3. **Chọn eSIM làm đường dữ liệu**: Giữ SIM nhà hoạt động cho cuộc gọi và tin nhắn, vì mã xác minh ngân hàng và thẻ vẫn gửi đến đó.
+4. **Tắt roaming trên SIM nhà**: Nếu không, bạn đang trả mức phí đại lục của nhà mạng mình thay vì dùng eSIM vừa mua.
+5. **Mở Google Maps và WhatsApp**: Nếu cả hai tải được, tuyến quốc tế đã hoạt động; nếu không, xem lại các bước 1–3.
 
-> **Không kết nối được? Hãy thử các bước sau:**
+> **Chưa kết nối? Lần theo danh sách này:**
 >
-> 1. Xác nhận "Data Roaming" đã BẬT; 2. Khởi động lại điện thoại; 3. Trong "Chọn mạng," chọn thủ công "China Unicom" hoặc "China Mobile"; 4. Kiểm tra APN khớp với hướng dẫn của nhà cung cấp eSIM; 5. Nếu vẫn không hoạt động, liên hệ bộ phận hỗ trợ khách hàng.
+> ① xác nhận công tắc Data Roaming đã bật; ② khởi động lại máy; ③ trong "Network Selection" chọn tay China Unicom hoặc China Mobile; ④ đối chiếu APN với email của nhà cung cấp; ⑤ nếu vẫn tắt ngắm, gửi yêu cầu hỗ trợ và cung cấp mã EID.
 
-## Điện thoại nào Hoạt động với eSIM Trung Quốc?
+## Điện thoại nào dùng được eSIM Trung Quốc?
 
-- **Điện thoại quốc tế (mua tại Châu Âu/Mỹ)**: Hầu hết hỗ trợ eSIM—sẵn sàng sử dụng.
-- **iPhone Trung Quốc đại lục / Android Trung Quốc**: iPhone đại lục (XS trở lên) hỗ trợ eSIM, nhưng **một số model Android Trung Quốc bị vô hiệu hóa eSIM**—kiểm tra model trước khi mua.
-- **Điện thoại bị khóa nhà mạng**: Điện thoại bị khóa nhà mạng Mỹ cũng có thể khóa eSIM—mở khóa trước.
-- **Model chỉ dùng eSIM** (iPhone 14+ Mỹ): Không có khe SIM vật lý—thực sự phù hợp nhất cho eSIM.
-- **SIM kép hai chế độ chờ**: Bạn có thể giữ cả SIM nhà và eSIM Trung Quốc—một cho mã xác minh, một cho dữ liệu.
+- **Điện thoại mua ở châu Âu hoặc Mỹ**: đại đa số đã hỗ trợ eSIM—không cần chuẩn bị gì.
+- **iPhone đại lục Trung Quốc / Android Trung Quốc**: trường hợp khó chịu nhất. Apple chỉ bật eSIM trên máy bán tại đại lục cho iPhone 18 Pro, 18 Pro Max, 17e và iPhone Air, và nhiều mẫu Android thị trường Trung Quốc bị tắt hẳn tính năng này. Hãy kiểm tra trên trang tương thích của Apple hoặc [danh sách thiết bị tương thích eSIM](/compatibility/) của chúng tôi trước khi đặt mua bất cứ thứ gì.
+- **Máy khóa nhà mạng**: khóa của nhà mạng Mỹ có thể áp dụng cả cho khe eSIM, nên hãy nhờ nhà mạng mở khóa máy trước khi đi.
+- **Máy không có khay SIM** (iPhone 14 của Mỹ trở về sau): các máy này chỉ dùng eSIM ngay từ thiết kế, thực ra lại là lựa chọn dễ tương thích nhất.
+- **Dùng hai đường cùng lúc**: SIM nhà giữ mã xác minh trong khi eSIM Trung Quốc gánh phần dữ liệu—không cần phải chọn giữa hai bên.
 
-## Câu hỏi thường gặp về eSIM Trung Quốc: Mọi điều cần biết
+## FAQ eSIM Trung Quốc: Mọi điều cần biết
 
-**Q1: Tôi có cần giấy tờ tùy thân hoặc xác minh hộ chiếu cho eSIM Trung Quốc không?**
+**Câu 1: eSIM Trung Quốc có cần xác minh ID hay hộ chiếu không?**
 
-Không. Travel eSIM được cấp ở nước ngoài và hoạt động khi đến—không cần đăng ký hộ chiếu như SIM địa phương Trung Quốc. Bạn chỉ cần điện thoại tương thích eSIM, quét mã QR trước khi khởi hành và bạn đã sẵn sàng.
+Không. eSIM du lịch được phát hành bên ngoài đại lục và hoạt động ngay khi đến—không cần đăng ký hộ chiếu như SIM nội địa Trung Quốc. Bạn chỉ cần một điện thoại hỗ trợ eSIM và mã QR quét trước khi bay.
 
-**Q2: Tôi có thể truy cập Google và WhatsApp với eSIM ở Trung Quốc không?**
+**Câu 2: Có thể truy cập Google và WhatsApp bằng eSIM ở Trung Quốc không?**
 
-Có. Đây là sự khác biệt lớn nhất giữa travel eSIM và SIM địa phương/chuyển vùng—nó sử dụng tuyến dữ liệu quốc tế vượt qua Tường lửa lớn, vì vậy Google, WhatsApp, Instagram và Gmail đều hoạt động bình thường. Xem phần Tường lửa ở trên để biết chi tiết.
+Có. Đây là khác biệt lớn nhất giữa eSIM du lịch với SIM nội địa hay roaming—nó dùng tuyến dữ liệu quốc tế, nên Google, WhatsApp, Instagram và Gmail đều hoạt động bình thường. Xem phần định tuyến ở trên để biết chi tiết.
 
-**Q3: Tường lửa lớn có chặn eSIM Trung Quốc của tôi không?**
+**Câu 3: Các hạn chế mạng đại lục có ảnh hưởng đến eSIM Trung Quốc của tôi không?**
 
-Thường thì không. Travel eSIM định tuyến dữ liệu thoát ra ngoài Trung Quốc và thường cung cấp quyền truy cập ổn định vào các ứng dụng nước ngoài. Trong một số trường hợp hiếm hoi, nếu mạng địa phương thắt chặt, tốc độ có thể dao động, nhưng đối với đại đa số người dùng, trải nghiệm là bình thường.
+Nhìn chung là không. eSIM du lịch đưa dữ liệu đi ra ngoài đại lục Trung Quốc và thường cung cấp khả năng truy cập ổn định vào ứng dụng nước ngoài. Trong trường hợp hiếm gặp, nếu mạng nội địa siết chặt, tốc độ có thể dao động, nhưng với đại đa số người dùng trải nghiệm là bình thường.
 
-**Q4: Nhà mạng nào có phủ sóng tốt nhất ở Trung Quốc?**
+**Câu 4: Nhà mạng nào có vùng phủ sóng tốt nhất ở Trung Quốc?**
 
-China Mobile có phủ sóng rộng nhất (đặc biệt ở các điểm tham quan xa xôi); China Unicom là mạng phổ biến nhất cho travel eSIM và cung cấp trải nghiệm chuyển vùng quốc tế trưởng thành nhất. Chọn eSIM có chuyển mạng đa nhà mạng tự động (như Roami) cho bạn những gì tốt nhất của cả hai.
+China Mobile tới được vùng rộng nhất, đặc biệt là các thắng cảnh xa xôi; China Unicom là nhà mạng mà đa số eSIM du lịch mặc định dùng và mang lại trải nghiệm roaming quốc tế mượt nhất ở thành phố. Một eSIM có tự động chuyển đa mạng (ví dụ Roami) sẽ trao cho bạn mạng mạnh hơn.
 
-**Q5: eSIM sẽ có tín hiệu tốt ở Bắc Kinh/Thượng Hải không?**
+**Câu 5: eSIM có bắt sóng tốt ở Bắc Kinh/Thượng Hải không?**
 
-Rất tốt. Các thành phố hạng nhất như Bắc Kinh và Thượng Hải có phủ sóng 5G trưởng thành với tốc độ 100-500 Mbps; travel eSIM hoạt động khi đến với hầu như không có sự khác biệt so với SIM địa phương.
+Xuất sắc. Các thành phố loại một như Bắc Kinh và Thượng Hải có vùng phủ 5G chín muồi với tốc độ 100‑500 Mbps; eSIM du lịch hoạt động ngay khi đến, gần như không khác gì SIM nội địa.
 
-**Q6: Airalo China eSIM có tốt không?**
+**Câu 6: Airalo China eSIM có tốt không?**
 
-Airalo là nền tảng eSIM lớn nhất thế giới, với các bậc rất chi tiết ở Trung Quốc—các tùy chọn cố định và không giới hạn, kết nối Unicom và cung cấp trải nghiệm thành phố ổn định. Nhược điểm là các bậc cố định tương đối đắt—cao hơn khoảng 1.5-2 lần so với giá của Roami cho cùng bậc.
+Airalo—bán tại đây dưới tên **Chinacom** trên mạng China Unicom—là nền tảng lớn nhất trong ba hãng, cung cấp các gói cố định chia nhỏ tinh tế nhất cùng một lựa chọn không giới hạn, với hiệu năng thành phố đáng tin cậy. Điểm trừ là giá: các gói cố định của hãng cao hơn khoảng 1.5–2 lần so với Roami cho cùng dung lượng.
 
-**Q7: Holafly China eSIM không giới hạn có đáng không?**
+**Câu 7: Gói không giới hạn Holafly China eSIM có đáng tiền không?**
 
-Tùy thuộc vào mức sử dụng của bạn. Holafly Trung Quốc chỉ cung cấp không giới hạn ở mức $3.90/ngày. Nếu bạn phát trực tuyến 2+ giờ video HD mỗi ngày và sử dụng hơn 3GB/ngày, không giới hạn có lợi; nếu không, các bậc cố định của Roami có thể tiết kiệm cho bạn hơn một nửa.
+Tùy bạn tiêu gì. Sản phẩm Trung Quốc của Holafly chỉ có không giới hạn, giá $3.97/ngày. Nếu bạn thực sự tiêu hơn 3GB mỗi ngày—hơn hai giờ video HD—thì có thể đáng; với tất cả những người còn lại, các gói cố định của Roami cắt hóa đơn hơn một nửa.
 
-**Q8: Roami China eSIM có cung cấp dữ liệu không giới hạn không?**
+**Câu 8: Roami China eSIM có gói không giới hạn không?**
 
-Không. Roami Trung Quốc tập trung vào các bậc dữ liệu cố định (1-50GB) và không cung cấp gói không giới hạn. Đây không phải là một khiếm khuyết—trong bối cảnh du lịch Trung Quốc, hầu hết mọi người sử dụng 1-2GB/ngày, vì vậy 10-20GB cố định là đủ và các bậc cố định thực sự rẻ hơn.
+Không. Roami Trung Quốc tập trung vào gói dung lượng cố định (1‑50GB) và không bán gói không giới hạn. Đây không phải khuyết điểm—trong bối cảnh du lịch Trung Quốc, đa số người dùng tiêu 1‑2GB/ngày, nên gói cố định 10‑20GB là thừa thãi, và gói cố định thực ra còn rẻ hơn.
 
-**Q9: Tôi có thể chia sẻ kết nối từ eSIM Trung Quốc không?**
+**Câu 9: Có thể phát điểm phát sóng từ eSIM Trung Quốc không?**
 
-Tùy theo thương hiệu. Roami hỗ trợ hotspot không giới hạn; Airalo hỗ trợ hotspot; Holafly giới hạn hotspot ở 1GB/ngày. Cho gia đình hoặc nếu bạn cần kết nối máy tính bảng, hãy chọn Roami.
+Tùy thương hiệu. Roami chia sẻ kết nối không giới hạn, Airalo cho phép tethering trên các gói của mình, còn Holafly giới hạn chia sẻ 1GB/ngày. Nếu có máy tính bảng hay điện thoại thứ hai đi kèm, Roami là lựa chọn thực dụng.
 
-**Q10: Điện thoại Trung Quốc đại lục có thể sử dụng eSIM Trung Quốc không?**
+**Câu 10: Điện thoại đại lục Trung Quốc dùng được eSIM Trung Quốc không?**
 
-iPhone đại lục (XS trở lên) hỗ trợ eSIM và có thể sử dụng nó; nhưng một số model Android Trung Quốc bị vô hiệu hóa eSIM—kiểm tra model trước khi mua. Điện thoại quốc tế thường hoạt động tốt.
+iPhone bán tại đại lục nói chung **không** dùng được—Apple chỉ bật eSIM tại đó trên iPhone 18 Pro, 18 Pro Max, 17e và iPhone Air, và phần lớn mẫu Hồng Kông/Macao xuất xưởng với hai SIM vật lý, cũng không có eSIM. Một số mẫu Android Trung Quốc cũng xuất xưởng với eSIM bị tắt. Kiểm tra trước bằng [danh sách thiết bị tương thích eSIM](/compatibility/) của chúng tôi; máy quốc tế thường không sao.
 
-**Q11: eSIM Trung Quốc có thể được sử dụng ở Hồng Kông/Ma Cao không?**
+**Câu 11: eSIM Trung Quốc dùng được ở Hồng Kông/Macao không?**
 
-Thường là không. eSIM Trung Quốc đại lục thường chỉ bao phủ đại lục; Hồng Kông và Ma Cao là các lãnh thổ hải quan riêng biệt với mạng độc lập, yêu cầu eSIM Hồng Kông/Ma Cao riêng hoặc các gói bao gồm chúng. Kiểm tra phủ sóng trước khi khởi hành.
+Thường là không. eSIM đại lục Trung Quốc thường chỉ phủ đại lục; Hồng Kông và Macao là hai lãnh thổ hải quan riêng với mạng độc lập, cần eSIM hoặc gói Hồng Kông/Macao riêng có bao gồm hai nơi này. Kiểm tra vùng phủ trước khi khởi hành.
 
-**Q12: Cái nào tốt hơn, SIM địa phương hay eSIM ở Trung Quốc?**
+**Câu 12: Ở Trung Quốc, SIM nội địa hay eSIM tốt hơn?**
 
-Tùy thuộc vào nhu cầu cốt lõi của bạn. Cần Google/WhatsApp + hoạt động khi đến → eSIM thắng; cần số điện thoại Trung Quốc (thanh toán di động, gọi xe) + lưu trú dài → SIM địa phương thắng (nhưng yêu cầu đăng ký hộ chiếu và không thể vượt qua Tường lửa).
+Tùy nhu cầu cốt lõi của bạn. Cần Google/WhatsApp + dùng ngay khi đến → eSIM thắng; cần số điện thoại Trung Quốc (thanh toán di động, gọi xe) + ở lâu → SIM nội địa thắng (nhưng phải đăng ký hộ chiếu và vẫn đi qua cổng đại lục).
 
-**Q13: eSIM Trung Quốc có giá bao nhiêu mỗi ngày?**
+**Câu 13: eSIM Trung Quốc giá bao nhiêu mỗi ngày?**
 
-Sử dụng giá giảm giá của Roami: 7 ngày 10GB ~$1.37/ngày, 15 ngày 20GB ~$1.07/ngày, 30 ngày 50GB ~$1.07/ngày—rẻ hơn gần hai phần ba so với $3.90/ngày của Holafly.
+Theo giá ưu đãi của Roami: 7‑day 10GB ~$1.37/ngày, 15‑day 20GB ~$1.07/ngày, 30‑day 50GB ~$1.07/ngày—rẻ hơn gần hai phần ba so với mức $3.97/ngày của Holafly.
 
-**Q14: 1GB ở Trung Quốc dùng được bao lâu?**
+**Câu 14: 1GB dùng được bao lâu ở Trung Quốc?**
 
-Khoảng 20 giờ điều hướng Google Maps + nhiều tin nhắn WhatsApp, nhưng chỉ khoảng 1 giờ video ngắn. Người dùng tối thiểu (điều hướng + văn bản) có thể kéo dài 1GB trong 3-5 ngày; nếu bạn phát trực tuyến video, hãy bắt đầu với 10GB.
+Khoảng 20 giờ tra Google Maps cộng với dòng tin nhắn WhatsApp liên tục—và chỉ khoảng một giờ video ngắn. Người dùng nhẹ chỉ dùng bản đồ và nhắn tin có thể kéo 1GB qua 3–5 ngày; ai định stream nên bắt đầu từ 10GB.
 
-**Q15: Nếu eSIM Trung Quốc của tôi không có tín hiệu thì sao?**
+**Câu 15: eSIM Trung Quốc mất sóng thì làm gì?**
 
-Đầu tiên kiểm tra "Data Roaming" đã BẬT, khởi động lại điện thoại, sau đó đến "Chọn mạng" và chọn thủ công "China Unicom" hoặc "China Mobile." Ở vùng núi xa xôi, có thể không có tín hiệu—tải xuống bản đồ ngoại tuyến trước.
+Bắt đầu với công tắc Data Roaming, rồi khởi động lại, rồi mở "Network Selection" và chọn tay China Unicom hoặc China Mobile. Ở vùng núi xa xôi có thể đơn giản là không có phủ sóng—hãy tải bản đồ offline trước khi đi.
 
-**Q16: eSIM Trung Quốc của tôi có đột nhiên ngừng hoạt động không?**
+**Câu 16: eSIM Trung Quốc có đột ngột ngừng hoạt động không?**
 
-Thường là không. Travel eSIM có hiệu lực trong thời gian đã mua; nếu hết dữ liệu, tốc độ có thể chậm hoặc mất kết nối và bạn có thể nạp thêm trực tuyến. Trong các trường hợp thắt chặt chính sách hiếm hoi, quyền truy cập nước ngoài có thể dao động, nhưng bản thân kết nối dữ liệu vẫn không bị ảnh hưởng.
+Bình thường thì không. eSIM du lịch có hiệu lực theo thời lượng đã mua; nếu hết dữ liệu, tốc độ có thể chậm lại hoặc ngắt kết nối, và bạn có thể nạp thêm trực tuyến. Trong trường hợp hiếm gặp khi chính sách siết chặt, khả năng truy cập nước ngoài có thể dao động, nhưng kết nối dữ liệu vẫn không bị ảnh hưởng.
 
-**Q17: Cho quá cảnh miễn thị thực 144 giờ, tôi cần bao nhiêu dữ liệu?**
+**Câu 17: Quá cảnh miễn visa 144 giờ thì cần bao nhiêu dữ liệu?**
 
-Chuyến đi quá cảnh 144 giờ (6 ngày) thường bao gồm 1-2 thành phố—điều hướng + mạng xã hội + ảnh, 3-5GB là đủ. Roami 7 ngày 5GB giảm giá $5.59 là giá trị tốt nhất, tiết kiệm một nửa so với không giới hạn.
+Chuyến quá cảnh 144 giờ (6 ngày) thường chỉ đi 1‑2 thành phố—bản đồ + mạng xã hội + ảnh, 3‑5GB là đủ. Roami 7‑day 5GB giá ưu đãi $5.59 là giá trị tốt nhất, tiết kiệm một nửa so với gói không giới hạn.
 
-## eSIM Trung Quốc: Phán quyết Cuối cùng
+## eSIM Trung Quốc: Kết luận cuối cùng
 
-| Kịch bản | Thương hiệu được khuyến nghị | Gói được khuyến nghị | Chi phí (Disc.) | Lý do cốt lõi |
+| Kịch bản | Thương hiệu đề xuất | Gói đề xuất | Chi phí (ưu đãi) | Lý do cốt lõi |
 |----------|-------------------|-------------------|--------------|-------------|
-| Quá cảnh Bắc Kinh 3 ngày | Roami | 3GB / 3 ngày | $3.19 | Hoạt động khi đến + đa mạng, rẻ hơn 66% so với Airalo |
-| Chuyến đi thành phố Thượng Hải 5 ngày | Roami | 5GB / 7 ngày | $5.59 | 5G thành phố ổn định, bậc cố định rẻ nhất |
-| Chuyến đi văn hóa Tây An 4 ngày | Roami | 5GB / 7 ngày | $5.59 | Đa mạng chuyển sang Mobile để phủ sóng điểm tham quan tốt hơn |
-| Chuyến đi phong cảnh Quế Lâm 6 ngày | Roami | 10GB / 7 ngày | $9.59 | Phủ sóng núi yếu hơn, đa mạng ổn định hơn |
-| Chuyến đi ẩm thực Thành Đô 5 ngày | Roami | 5GB / 7 ngày | $5.59 | Khu mua sắm đông đúc, mạng Mobile được ưu tiên |
-| Tham quan nhiều thành phố 12 ngày | Roami | 20GB / 15 ngày | $15.99 | $0.80/GB, ít khoảng trống phủ sóng giữa các thành phố |
-| Công tác 7 ngày | Roami | 10GB / 7 ngày | $9.59 | Cuộc gọi video cần ổn định, đa mạng đáng tin cậy |
-| Lưu trú dài 30 ngày | Roami | 50GB / 30 ngày | $31.99 | $0.64/GB, giá mỗi GB thấp nhất |
-| Phát trực tuyến video nặng 7 ngày | Airalo | Không giới hạn / 7 ngày | $27.00 | Chỉ đáng nếu sử dụng hàng ngày > 3GB |
-| Ngân sách cực kỳ eo hẹp 7 ngày | Roami | 1GB / 7 ngày | $1.59 | Giá thấp nhất, đủ cho điều hướng + văn bản |
+| Quá cảnh Bắc Kinh 3 ngày | Roami | 3GB / 3‑day | $3.19 | Dùng ngay khi đến + đa mạng, rẻ hơn Airalo 66% |
+| Tham quan Thượng Hải 5 ngày | Roami | 5GB / 7‑day | $5.59 | 5G thành phố ổn định, gói cố định rẻ nhất |
+| Tour văn hóa Tây An 4 ngày | Roami | 5GB / 7‑day | $5.59 | Đa mạng chuyển sang Mobile phủ điểm du lịch tốt hơn |
+| Tour cảnh quan Quế Lâm 6 ngày | Roami | 10GB / 7‑day | $9.59 | Phủ sóng miền núi yếu hơn, đa mạng ổn định hơn |
+| Tour ẩm thực Thành Đô 5 ngày | Roami | 5GB / 7‑day | $5.59 | Khu mua sắm đông đúc, ưu tiên mạng Mobile |
+| Tour nhiều thành phố 12 ngày | Roami | 20GB / 15‑day | $15.99 | $0.80/GB, ít khoảng trống phủ sóng hơn giữa các thành phố |
+| Đi công tác 7 ngày | Roami | 10GB / 7‑day | $9.59 | Cuộc gọi video cần ổn định, đa mạng đáng tin |
+| Lưu trú dài 30 ngày | Roami | 50GB / 30‑day | $31.99 | $0.64/GB, giá mỗi GB thấp nhất |
+| Xem video nhiều 7 ngày | Airalo | Không giới hạn / 7‑day | $27.00 | Chỉ đáng nếu mức dùng mỗi ngày > 3GB |
+| Ngân sách cực eo hẹp 7 ngày | Roami | 1GB / 7‑day | $1.59 | Giá thấp nhất, đủ cho bản đồ + nhắn tin |
 
-Vẫn không chắc chắn? [Xem tất cả các gói Roami China eSIM →](/china-esim/)
+Vẫn chưa quyết định được? [Xem tất cả gói Roami China eSIM →](/china-esim/)
 
-## eSIM Trung Quốc: Mẹo Chuyên nghiệp
+## eSIM Trung Quốc: Mẹo từ người trong nghề
 
-- **Cài đặt trước khi khởi hành, sử dụng khi đến**: Cài đặt eSIM trên WiFi trước khi bạn rời đi; bật chuyển vùng dữ liệu khi hạ cánh và nó sẽ tự động kết nối—bạn có thể gửi WhatsApp "Tôi đã an toàn" trong phút đầu tiên.
-- **Nhớ bật "Chuyển vùng Dữ liệu"**: Đây là lỗi kích hoạt phổ biến nhất—nhiều người quên bật công tắc Chuyển vùng Dữ liệu.
-- **Kiểm tra Google Maps và WhatsApp trước**: Sau khi kết nối, hãy kiểm tra hai ứng dụng này để xác nhận tuyến quốc tế đang hoạt động.
-- **Cần số Trung Quốc? Lên kế hoạch trước**: Gọi xe, giao đồ ăn và thanh toán di động hầu hết yêu cầu số địa phương—cân nhắc thuê số hoặc nhờ khách sạn hỗ trợ.
-- **Tải xuống bản đồ ngoại tuyến cho các điểm tham quan**: Sâu trong Vạn Lý Trường Thành, sông Lệ hoặc Trương Gia Giới, tín hiệu có thể không có—đừng chỉ dựa vào di động để điều hướng.
-- **Giữ SIM nhà cho mã xác minh**: Mã xác minh ngân hàng và thẻ tín dụng được gắn với số nhà của bạn—không cần mua số Trung Quốc cho chúng.
-- **Chọn đúng thương hiệu cho hotspot**: Cho du lịch gia đình/nhiều người, chọn Roami (không giới hạn) hoặc Airalo (được hỗ trợ)—tránh Holafly (giới hạn 1GB/ngày).
-- **Chụp màn hình và lưu mã QR của bạn**: Lưu ảnh chụp màn hình mã QR eSIM vào ảnh hoặc ổ đám mây của bạn, phòng trường hợp email bị mất và bạn không thể cài đặt lại.
+- **Cài ở nhà, đừng đợi tới cổng sân bay**: cài trên WiFi của bạn trước khi bay. WiFi sân bay đại lục thường cần mã SMS mà bạn chưa thể nhận, nên việc lục lại email mã QR cũ kỹ là điều cuối cùng bạn muốn làm.
+- **Công tắc roaming khiến ai cũng dính**: nếu profile cài được nhưng không bao giờ bắt được mạng, Data Roaming là thủ phạm chín trên mười lần.
+- **Làm bài kiểm tra hai ứng dụng**: mở Google Maps và WhatsApp ngay khi hạ cánh. Nếu cả hai tải được, tuyến quốc tế của bạn đã chạy và bạn có thể yên tâm.
+- **Sắp xếp số nội địa riêng nếu cần**: gọi xe, giao đồ ăn và thanh toán di động đều dựa vào số đại lục. eSIM dữ liệu không cung cấp số—hãy thuê một số hoặc hỏi quầy lễ tân khách sạn.
+- **Tải sẵn bản đồ cho các tuyến ngắm cảnh**: trên Vạn Lý Trường Thành, dọc sông Ly hay trong Trương Gia Giới vạch sóng có thể biến mất; tải vùng đó trước khi lên đường.
+- **Giữ SIM nhà sống để nhận mã**: tin nhắn xác minh ngân hàng và thẻ gắn với số nhà của bạn, không phải với bất cứ thứ gì bạn mua ở Trung Quốc.
+- **Chọn thương hiệu theo nhu cầu điểm phát sóng**: đi theo nhóm? Roami chia sẻ không giới hạn và Airalo cho phép tethering, trong khi Holafly giữ bạn ở mức 1GB/ngày.
+- **Chụp lại mã QR**: giữ một bản trong album ảnh hoặc drive đám mây để email thất lạc không bao giờ đồng nghĩa với chuyến đi vô dụng.
 
-## Nguồn Dữ liệu eSIM Trung Quốc
+## eSIM Trung Quốc đưa bạn tới đâu tiếp theo
+
+Nhiều chuyến đi Trung Quốc tiếp tục sang nơi khác ở châu Á, hoặc tới Mỹ và châu Âu. Các hướng dẫn sau bao phủ những chặng tiếp theo:
+
+- [Hướng dẫn Japan eSIM cho chặng châu Á của chuyến đi](/blog/airalo-japan-esim-guide/) so sánh pocket WiFi với eSIM cho điểm dừng tiếp theo.
+- Xem [USA eSIM xử lý vấn đề không có số điện thoại ra sao](/blog/airalo-usa-esim-guide/) trước khi lên kế hoạch chặng Mỹ.
+- Nếu tiếp theo là châu Âu, hãy đọc [Brexit đã thay đổi gì với UK eSIM](/blog/airalo-uk-esim-guide/).
+
+## Nguồn dữ liệu eSIM Trung Quốc
 
 | Tổ chức | Mục đích | Liên kết |
 |--------------|---------|------|
-| Bộ Công nghiệp và Công nghệ Thông tin (MIIT) | Chính sách danh tính thực / quy định viễn thông Trung Quốc | https://www.miit.gov.cn/ |
-| Opensignal | Phủ sóng 5G / trải nghiệm di động Trung Quốc | https://www.opensignal.com/ |
-| Ookla Speedtest | Tốc độ di động Trung Quốc | https://www.speedtest.net/global-index/china |
-| GSMA | Tiêu chuẩn ngành eSIM | https://www.gsma.com/ |
+| MIIT (Bộ Công nghiệp và Công nghệ thông tin) | Chính sách tên thật đại lục / quy định viễn thông | [Thống kê viễn thông MIIT](https://www.miit.gov.cn/gxsj/tjfx/txy/index.html) |
+| Ookla Speedtest | Tốc độ di động Trung Quốc | [Speedtest Global Index – China](https://www.speedtest.net/global-index/china) |
+| GSMA | Tiêu chuẩn ngành eSIM | [Đặc tả eSIM của GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| Apple | Hỗ trợ thiết bị eSIM | [Hỗ trợ eSIM của Apple](https://support.apple.com/en-us/109317) |
 
-*Dữ liệu giá tính đến tháng 9 năm 2026, dựa trên trang web chính thức của thương hiệu. Bài viết này chỉ mang tính chất thông tin và không cấu thành lời khuyên mua sắm.*
+*Dữ liệu giá tính đến tháng 9 năm 2026, dựa trên website chính thức của các thương hiệu. Bài viết này chỉ mang tính thông tin và không cấu thành lời khuyên mua hàng.*

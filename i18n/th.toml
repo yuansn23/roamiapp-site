@@ -634,3 +634,9 @@ other = "เกิดข้อผิดพลาด โปรดลองอี�
 other = "เครือข่ายขัดข้อง โปรดลองอีกครั้ง"
 [lead_form_sending]
 other = "กำลังส่ง..."
+
+[esim_guides_title]
+other = "คู่มือ eSIM"
+
+[related_blog_title]
+other = "คู่มือ eSIM ท่องเที่ยว"

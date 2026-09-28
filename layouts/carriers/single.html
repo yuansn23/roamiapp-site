@@ -5,28 +5,28 @@
     {{ partial "head.html" . }}
     <link rel="canonical" href="{{ .Permalink }}">
     <meta name="robots" content="index, follow">
-     
+
     <meta name="keywords" content="{{ .Params.keywords }}">
-    
+
     <meta property="og:title" content="{{ .Title }} | {{ .Params.site_name }}">
     <meta property="og:description" content="{{ .Description }}">
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{ .Permalink }}">
-    
+
     <!-- SEO优化：增加 og:image 提升社交分享点击率 -->
     {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ else }}<meta property="og:image" content="{{ "/img/logo.png" | absURL }}">{{ end }}
-    
+
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ .Title }}">
     <meta name="twitter:description" content="{{ .Description }}">
     <!-- SEO优化：增加 twitter:image -->
     {{ with .Params.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ else }}<meta name="twitter:image" content="{{ "/img/logo.png" | absURL }}">{{ end }}
-    
+
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <style>
         .no-scrollbar::-webkit-scrollbar { display: none; }
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
-        
+
         .custom-scrollbar::-webkit-scrollbar { width: 4px; }
         .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
         .custom-scrollbar::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 20px; }
@@ -42,7 +42,7 @@
         .structured-list { list-style-type: disc; padding-left: 1.5rem; margin: 1rem 0; }
         .structured-list li { margin-bottom: 0.5rem; }
         .city-table td, .city-table th { text-align: center; }
-        
+
         .scroll-hint::after {
             content: '';
             position: absolute;
@@ -56,7 +56,7 @@
             transition: opacity 0.2s;
         }
         .scroll-hint.scrollable-bottom::after { opacity: 1; }
-        
+
         .pro-cta-btn {
             display: flex;
             flex-direction: column;
@@ -88,104 +88,238 @@
         .markdown-content a:hover { color: #1d4ed8; text-decoration: underline; text-underline-offset: 2px; }
         .markdown-content table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
         .markdown-content th, .markdown-content td { border: 1px solid #e2e8f0; padding: 0.5rem; }
+        /* ===== Markdown 正文排版（与 blog 文章版式一致） ===== */
+        .markdown-body { font-size: 1.0625rem; line-height: 1.75; color: #1e293b; }
+        .markdown-body strong { font-weight: 700; }
+        .markdown-body h2 { font-size: 1.875rem; font-weight: 700; margin-top: 2.5rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #e2e8f0; }
+        .markdown-body h3 { font-size: 1.5rem; font-weight: 600; margin-top: 2rem; margin-bottom: 0.75rem; }
+        .markdown-body h4 { font-size: 1.25rem; font-weight: 600; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+        .markdown-body h2, .markdown-body h3, .markdown-body h4 { scroll-margin-top: 6rem; }
+        .markdown-body p { margin-bottom: 1.25rem; }
+        .markdown-body a { color: #2563eb; text-decoration: underline; text-underline-offset: 2px; }
+        .markdown-body a:hover { color: #1d4ed8; }
+        .markdown-body ul, .markdown-body ol { margin: 1.25rem 0; padding-left: 1.75rem; }
+        .markdown-body ul { list-style-type: disc !important; }
+        .markdown-body ol { list-style-type: decimal !important; }
+        .markdown-body li { margin-bottom: 0.5rem; }
+        .markdown-body ul ul, .markdown-body ol ul { list-style-type: circle !important; margin: 0.5rem 0; }
+        .markdown-body ul ul ul, .markdown-body ol ul ul { list-style-type: square !important; }
+        .markdown-body blockquote { border-left: 4px solid #3b82f6; background-color: #f8fafc; padding: 1rem 1.5rem; margin: 1.5rem 0; font-style: italic; border-radius: 0.5rem; }
+        .markdown-body blockquote p { margin: 0.25rem 0; }
+        .markdown-body img { border-radius: 0.75rem; margin: 1.5rem 0; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); max-width: 100%; height: auto; }
+        .markdown-body pre { background-color: #0f172a; color: #e2e8f0; padding: 1rem; border-radius: 0.75rem; overflow-x: auto; margin: 1.5rem 0; }
+        .markdown-body code { background-color: #f1f5f9; padding: 0.2rem 0.4rem; border-radius: 0.375rem; font-size: 0.875em; }
+        .markdown-body table { width: 100%; display: block; overflow-x: auto; border-collapse: collapse; margin: 1.5rem 0; white-space: nowrap; font-size: 0.875rem; }
+        .markdown-body table thead tr th, .markdown-body table tbody tr td { border: 1px solid #e2e8f0; padding: 0.75rem 1rem; text-align: left; white-space: normal; word-break: normal; vertical-align: top; }
+        .markdown-body table thead tr th { background-color: #f8fafc; font-weight: 600; font-size: 0.875rem; }
+        .markdown-body table tbody tr:nth-child(even) { background-color: #fafcff; }
+        @media (max-width: 768px) {
+            .markdown-body { font-size: 1rem; }
+            .markdown-body h2 { font-size: 1.5rem; }
+        }
+        @media (max-width: 640px) {
+            .markdown-body table { white-space: normal; }
+            .markdown-body table td, .markdown-body table th { padding: 0.5rem 0.75rem; font-size: 0.8rem; }
+        }
 
-        html, body { overflow: auto !important; overflow-y: auto !important; overflow-x: hidden !important; height: auto !important; min-height: 100% !important; position: relative !important; -webkit-overflow-scrolling: touch !important; }
-        body { overflow-y: auto !important; overflow-x: hidden !important; height: auto !important; position: static !important; }
+        /* ========== 目录（折叠框） ========== */
+        .toc-container {
+            background-color: #f8fafc;
+            border-radius: 1rem;
+            padding: 1rem 1.5rem;
+            margin-bottom: 2rem;
+            border: 1px solid #e2e8f0;
+        }
+        .toc-container details summary {
+            font-weight: 700;
+            cursor: pointer;
+            color: #0f172a;
+            list-style: none;
+        }
+        .toc-container details summary::-webkit-details-marker { display: none; }
+        .toc-container details ul {
+            margin-top: 0.75rem;
+            padding-left: 0;
+            list-style-type: none !important;
+        }
+        .toc-container details li { margin-bottom: 0.35rem; list-style-type: none !important; }
+        .toc-container details ul ul { padding-left: 1.5rem !important; margin-top: 0.25rem; }
+        .toc-container details ul ul ul { padding-left: 1.5rem !important; }
+        .toc-container details a {
+            color: #3b82f6;
+            text-decoration: none;
+            font-size: 0.9rem;
+            display: block;
+            padding: 0.35rem 0.6rem;
+            border-radius: 0.375rem;
+        }
+        .toc-container details a:hover { color: #1d4ed8; }
+
+        /* ========== 阅读进度条 ========== */
+        .reading-progress-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 4px;
+            background: linear-gradient(90deg, #3b82f6, #10b981);
+            z-index: 1000;
+            transition: width 0.1s ease;
+        }
+
+        /* ========== 侧边栏通用 ========== */
+        .sidebar-card {
+            background-color: #ffffff;
+            border-radius: 1rem;
+            padding: 1.25rem;
+            border: 1px solid #e2e8f0;
+            margin-bottom: 1.5rem;
+        }
+        .sidebar-title {
+            font-size: 1.125rem;
+            font-weight: 700;
+            color: #0f172a;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        /* ========== 热门产品网格 ========== */
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 0.75rem;
+        }
+        .product-item {
+            position: relative;
+            background-color: #f8fafc;
+            border-radius: 0.75rem;
+            padding: 0.5rem 0.75rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.2s;
+            border: 1px solid #e2e8f0;
+        }
+        .product-item:hover { background-color: #f1f5f9; transform: translateY(-2px); }
+        .product-flag-img {
+            width: 1.5rem;
+            height: 1.5rem;
+            border-radius: 9999px;
+            object-fit: cover;
+            flex-shrink: 0;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .product-info { flex: 1; min-width: 0; }
+        .product-name { font-size: 0.875rem; font-weight: 600; color: #0f172a; line-height: 1.3; margin-bottom: 0.125rem; }
+        .product-price { font-size: 0.7rem; color: #475569; font-weight: 500; }
+
+        /* ========== 两列布局（正文 + 侧边栏） ========== */
+        .two-columns {
+            display: grid;
+            grid-template-columns: 1fr 280px;
+            gap: 2rem;
+            align-items: start;
+        }
+        .two-columns > * { min-width: 0; }
+        @media (max-width: 1024px) {
+            .two-columns { grid-template-columns: 1fr; gap: 1.5rem; }
+            .sidebar { position: static !important; order: 2; }
+        }
+        .sidebar { position: sticky; top: 5rem; align-self: start; }
+
+        html, body { height: auto !important; min-height: 100% !important; position: relative !important; }
+        body { height: auto !important; position: static !important; }
         #content, main, .max-w-7xl, section, article { overflow: visible !important; }
     </style>
-	
-	
+
+
 
 </head>
 <body class="bg-slate-50 text-slate-900 antialiased selection:bg-blue-200 selection:text-blue-900 relative">
+
+<!-- 阅读进度条 -->
+<div class="reading-progress-bar" id="readingProgressBar"></div>
 
 {{ partial "header.html" . }}
 
 <!-- 定义全局语言前缀变量，拦截并修复所有 markdownify 输出的链接 -->
 {{ $langPrefix := .Site.LanguagePrefix }}
 
-<main id="content">
-   
-   
-   <!-- HERO & BREADCRUMBS -->
-<section class="relative overflow-hidden bg-slate-900 pt-10 pb-8 lg:pt-14 lg:pb-12">
-    <div class="absolute inset-0 overflow-hidden pointer-events-none" aria-hidden="true">
-        <div class="absolute -top-1/2 -right-1/4 w-[1000px] h-[1000px] rounded-full bg-blue-600/20 blur-3xl"></div>
-        <div class="absolute -bottom-1/2 -left-1/4 w-[800px] h-[800px] rounded-full bg-emerald-500/10 blur-3xl"></div>
-    </div>
-
-    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 z-10">
-        <!-- 面包屑：强制 Home > Carriers > 当前页面标题 -->
-  <nav aria-label="Breadcrumb" class="mb-5">
-    <ol class="flex items-center space-x-2 text-sm text-slate-400">
-        <li><a href="{{ relLangURL "/" }}" class="hover:text-white transition-colors">{{ i18n "home" | default "Home" }}</a></li>
-        <li><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg></li>
-        <li><a href="{{ relLangURL "/carriers/" }}" class="hover:text-white transition-colors">{{ i18n "carriers" | default "Carriers" }}</a></li>
-        <li><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg></li>
-        <li class="text-slate-200 font-medium" aria-current="page">{{ $.Title }}</li>
+<!-- 面包屑导航 -->
+<nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 text-sm text-slate-500" aria-label="Breadcrumb">
+    <ol class="flex flex-wrap items-center gap-2">
+        <li><a href="{{ relLangURL "/" }}" class="hover:text-blue-600 transition-colors">{{ i18n "home" | default "Home" }}</a></li>
+        <li><span class="mx-1 text-slate-300">/</span></li>
+        <li><a href="{{ relLangURL "/carriers/" }}" class="hover:text-blue-600 transition-colors">{{ i18n "carriers" | default "Carriers" }}</a></li>
+        <li><span class="mx-1 text-slate-300">/</span></li>
+        <li class="text-slate-800 font-medium truncate" aria-current="page">{{ $.Title }}</li>
     </ol>
 </nav>
-        <div class="text-center">
-            <!-- 您的原有 hero 内容保持不变 -->
-            {{ if .Params.hero_badge }}
-            <div class="inline-flex items-center gap-2.5 mb-3 px-4 py-1.5 rounded-full text-sm font-medium bg-blue-500/15 text-blue-400 border border-blue-400/30">
-                <span class="relative flex h-2 w-2">
-                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
-                    <span class="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
-                </span>
-                <span class="[&>p]:m-0 [&>p]:inline">{{ .Params.hero_badge | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
+
+<main id="content" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
+    <div class="two-columns">
+
+        <!-- 左侧：文章主体 -->
+        <article>
+
+            <!-- 浅色 Hero -->
+            <header class="mb-8">
+                {{ if .Params.hero_badge }}
+                <div class="inline-flex items-center gap-2.5 mb-4 px-4 py-1.5 rounded-full text-sm font-medium bg-blue-50 text-blue-700 border border-blue-200">
+                    <span class="relative flex h-2 w-2">
+                        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
+                        <span class="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
+                    </span>
+                    <span class="[&>p]:m-0 [&>p]:inline">{{ .Params.hero_badge | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
+                </div>
+                {{ end }}
+                <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-slate-900 leading-tight tracking-tight mb-4 [&>p]:m-0 [&>p]:inline">
+                    {{ .Params.hero_subtitle_main | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}
+                </h1>
+                {{ if .Params.hero_description_line1 }}
+                <div class="text-base lg:text-lg text-slate-600 leading-relaxed max-w-3xl [&>p]:m-0 [&>p]:inline">{{ .Params.hero_description_line1 | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
+                {{ end }}
+            </header>
+
+            <!-- 目录：markdown 正文页用 .TableOfContents 自动生成导航（去掉 md 手写的 "Quick Links" 标题项） -->
+            {{ $tocHtml := printf "%s" .TableOfContents }}
+            {{ $tocHtml = replaceRE `(?s)<li><a href="[^"]*">[^<]*Quick Links[^<]*</a></li>` "" $tocHtml 1 }}
+            {{ if and $tocHtml (ne $tocHtml "<nav id=\"TableOfContents\"></nav>") }}
+            <div class="toc-container mb-8">
+                <details open>
+                    <summary>{{ i18n "table_of_contents" }}</summary>
+                    <div class="toc-content mt-3">{{ $tocHtml | safeHTML }}</div>
+                </details>
             </div>
             {{ end }}
-            <h1 class="font-extrabold text-white leading-tight tracking-tight mb-4 text-3xl sm:text-4xl lg:text-5xl [&>p]:m-0 [&>p]:inline">
-                {{ .Params.hero_subtitle_main | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}<br class="hidden sm:inline"/>
-                {{ if .Params.hero_subtitle_highlight }}
-               
-                {{ end }}
-            </h1>
-            <div class="space-y-2 max-w-3xl mx-auto">
-                {{ if .Params.hero_description_line1 }}
-                <div class="text-base lg:text-lg text-slate-300 leading-relaxed [&>p]:m-0 [&>p]:inline">{{ .Params.hero_description_line1 | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
-                {{ end }}
+
+            <!-- Markdown 正文内容：渲染 .Content（去掉 md 手写的 Quick Links 目录，导航已由上方自动生成） -->
+            <div class="markdown-body">
+                {{ $content := printf "%s" .Content }}
+                {{ $content = replaceRE `(?s)<h2 id="[^"]*">[^<]*Quick Links[^<]*</h2>\s*<ul>.*?</ul>` "" $content 1 }}
+                {{ $content | safeHTML }}
             </div>
-        </div>
-    </div>
-</section>
 
-    <!-- MAIN SECTION -->
-    <section class="py-10 lg:py-16">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex flex-col lg:flex-row gap-10 lg:gap-12 items-start">
-                
-                <!-- 侧边栏导航 -->
-                <aside class="w-full lg:w-[300px] flex-shrink-0 lg:sticky lg:top-24 z-30 bg-slate-50 lg:bg-transparent pb-4 lg:pb-0" aria-label="文章导航">
-                    {{ if .Params.sidebar_more_hint }}
-                    <div class="lg:hidden flex items-center justify-end gap-1 text-xs text-slate-400 mb-2 px-2">
-                        <span>{{ .Params.sidebar_more_hint | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
-                        <svg class="w-3 h-3 animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+            <!-- 目录（折叠框） -->
+            {{ if .Params.sidebar_links }}
+            <div class="toc-container mb-8">
+                <details open>
+                    <summary>{{ .Params.sidebar_title | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</summary>
+                    <div class="toc-content mt-3">
+                        <ul>
+                            {{ range .Params.sidebar_links }}
+                            <li>
+                                <a href="{{ if or (hasPrefix .href "http") (hasPrefix .href "#") }}{{ .href | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .href)) }}{{ end }}" class="toc-link">{{ .text | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</a>
+                            </li>
+                            {{ end }}
+                        </ul>
                     </div>
-                    {{ end }}
-                    <nav id="toc-nav" aria-label="Table of Contents" class="flex lg:flex-col gap-6 overflow-x-auto lg:overflow-y-auto no-scrollbar lg:custom-scrollbar lg:max-h-[calc(100vh-6rem)] lg:pr-4 pb-2 lg:pb-0 relative scroll-hint">
-                        <div class="region-group flex-shrink-0 lg:w-full">
-                            {{ if .Params.sidebar_title }}
-                            <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3 px-1">{{ .Params.sidebar_title | replaceRE "\\\\n|/n|\n" " <br class='hidden lg:inline'> " | safeHTML }}</h4>
-                            {{ end }}
-                            {{ if .Params.sidebar_links }}
-                            <div class="flex lg:flex-col gap-2" role="list">
-                                {{ range .Params.sidebar_links }}
-                                <a href="{{ if or (hasPrefix .href "http") (hasPrefix .href "#") }}{{ .href | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .href)) }}{{ end }}" role="listitem" class="toc-link flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-all bg-white text-slate-600 border border-slate-200 hover:bg-slate-100">
-                                    <span>{{ .text | replaceRE "\\\\n|/n|\n" " <br class='hidden lg:inline'> " | safeHTML }}</span>
-                                </a>
-                                {{ end }}
-                            </div>
-                            {{ end }}
-                        </div>
-                    </nav>
-                </aside>
+                </details>
+            </div>
+            {{ end }}
 
-                <!-- 主要内容区 -->
-                <div class="w-full flex-1 min-w-0 flex flex-col gap-10">
-                    
-                   <!-- TL;DR 结论区块 -->
+            <!-- TL;DR 结论区块 -->
 {{ if .Params.tldr_summary }}
 <div id="tldr-summary" class="bg-blue-50/80 border-l-4 border-blue-600 p-5 lg:p-6 rounded-r-2xl shadow-sm relative overflow-hidden">
     <div class="absolute -right-4 -top-4 text-6xl opacity-5 pointer-events-none">💡</div>
@@ -198,314 +332,338 @@
     </div>
 </div>
 {{ end }}
-                    
-                    <!-- 快速对比表 -->
-                    {{ if .Params.quick_picks }}
-                    <article id="quick-picks" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
-                        <h2 class="text-xl sm:text-2xl lg:text-3xl font-extrabold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.quick_picks_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
-                        <div class="overflow-x-auto mt-4">
-                            <table class="min-w-full text-sm">
-                                <thead>
-                                    <tr>
-                                        {{ range .Params.quick_picks_table_headers }}
-                                        <th scope="col" class="py-3 px-4 [&>p]:m-0 [&>p]:inline">{{ . | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</th>
-                                        {{ end }}
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    {{ range .Params.quick_picks }}
-                                    <tr>
-                                        <td class="py-3 px-4 [&>p]:m-0 [&>p]:inline">{{ .travel | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</td>
-                                        <td class="py-3 px-4"><strong class="{{ .carrier_class }} [&>p]:m-0 [&>p]:inline">{{ .carrier | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</strong></td>
-                                        <td class="py-3 px-4 markdown-content [&>p]:m-0 [&>p]:inline">{{ .reason | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</td>
-                                    </tr>
-                                    {{ end }}
-                                </tbody>
-                            </table>
-                        </div>
-                        {{ if .Params.quick_picks_note_prefix }}
-                        <div class="mt-4 text-slate-500 text-sm [&>p]:m-0 [&>p]:inline">
-                            {{ .Params.quick_picks_note_prefix | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }} <strong class="text-blue-600 [&>p]:m-0 [&>p]:inline">{{ .Params.quick_picks_note_carrier | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</strong><span class="[&>p]:m-0 [&>p]:inline">{{ .Params.quick_picks_note_text | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
-                            <strong class="text-blue-600">{{ .Params.quick_picks_note_brand | replaceRE "\\\\n|/n|\n" " " | safeHTML }} <a href="{{ if or (hasPrefix .Params.hero_link_url "http") (hasPrefix .Params.hero_link_url "#") }}{{ .Params.hero_link_url | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.hero_link_url)) }}{{ end }}" target="_blank" rel="noopener noreferrer">{{ .Params.quick_picks_note_link_text | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</a></strong><span class="[&>p]:m-0 [&>p]:inline">{{ .Params.quick_picks_note_suffix | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
-                        </div>
-                        {{ end }}
-                    </article>
-                    {{ end }}
-                    
-                    <!-- 中间主 CTA -->
-                    {{ if .Params.cta_button_main_text }}
-                    <div class="flex justify-center my-4">
-                        <a href="{{ if or (hasPrefix .Params.hero_link_url "http") (hasPrefix .Params.hero_link_url "#") }}{{ .Params.hero_link_url | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.hero_link_url)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="pro-cta-btn text-center w-full max-w-2xl px-4 sm:px-8">
-                            <span class="main-text">{{ .Params.cta_button_main_text | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
-                            <span class="sub-text">{{ .Params.cta_button_sub_text | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
-                            <svg class="arrow-icon mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
-                        </a>
-                    </div>
-                    {{ end }}
 
-                    <!-- 运营商详情区块 -->
-                    <div id="operators" class="scroll-mt-28 flex flex-col gap-10">
-                        {{ if .Params.operators }}
-                        {{ range .Params.operators }}
-                        <article id="{{ .id }}" class="bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
-                            <header><h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-3 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2></header>
-                            <ul class="structured-list">
-                                <li><strong class="[&>p]:m-0 [&>p]:inline">{{ $.Params.operator_labels.best_for | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</strong> <span class="[&>p]:m-0 [&>p]:inline">{{ .best_for | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span></li>
-                                <li><strong class="[&>p]:m-0 [&>p]:inline">{{ $.Params.operator_labels.core_data | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</strong> <span class="markdown-content [&>p]:m-0 [&>p]:inline">{{ .core_data | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span></li>
-                                <li class="markdown-content [&>p]:m-0 [&>p]:inline">{{ .arcep_note | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</li>
-                            </ul>
-                            {{ if .connect_note }}
-                            <div class="mt-3 p-4 {{ .bg_color }} rounded-xl">
-                                <span class="font-semibold [&>p]:m-0 [&>p]:inline">{{ $.Params.operator_labels.connect_note_label | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span> <span class="markdown-content [&>p]:m-0 [&>p]:inline">{{ .connect_note | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
-                            </div>
-                            {{ end }}
-                            
-                            {{ if .user_scenarios }}
-                            <div class="mt-4 p-4 bg-slate-50 rounded-xl">
-                                <h4 class="font-semibold text-slate-700 mb-2">✨ Real‑world performance</h4>
-                                <div class="text-sm text-slate-600">
-                                    {{ $rawText := replaceRE `\\n` "\n" .user_scenarios }}
-                                    {{ $rawText = replaceRE `/n` "\n" $rawText }}
-                                    {{ $lines := split $rawText "\n" }}
-                                    <ul class="list-disc ml-5 space-y-1">
-                                    {{ range $lines }}
-                                        {{ $cleanedLine := trim . " \t-" }}
-                                        {{ if ne $cleanedLine "" }}
-                                            <li class="[&>p]:m-0 [&>p]:inline">{{ $cleanedLine | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | safeHTML }}</li>
-                                        {{ end }}
-                                    {{ end }}
-                                    </ul>
-                                </div>
-                            </div>
-                            {{ end }}
-                        </article>
-                        {{ end }}
-                        {{ end }}
-                    </div>
-
-   <!-- 中间主 CTA -->
-                    {{ if .Params.cta_button_main_text }}
-                    <div class="flex justify-center my-4">
-                        <a href="{{ if or (hasPrefix .Params.hero_link_url "http") (hasPrefix .Params.hero_link_url "#") }}{{ .Params.hero_link_url | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.hero_link_url)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="pro-cta-btn text-center w-full max-w-2xl px-4 sm:px-8">
-                            <span class="main-text">{{ .Params.cta_button_main_text | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
-                            <span class="sub-text">{{ .Params.cta_button_sub_text | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
-                            <svg class="arrow-icon mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
-                        </a>
-                    </div>
-                    {{ end }}
-					
-
-                    <!-- 三列功能卡片 -->
-                    {{ if or .Params.cards_compatibility_title .Params.cards_free_title .Params.cards_app_title }}
-                    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-                        {{ if .Params.cards_compatibility_title }}
-                        <a href="{{ if or (hasPrefix .Params.cards_compatibility_link "http") (hasPrefix .Params.cards_compatibility_link "#") }}{{ .Params.cards_compatibility_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_compatibility_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center relative overflow-hidden">
-                            <div class="w-12 h-12 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center mx-auto mb-4">
-                                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
-                            </div>
-                            <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_compatibility_title | safeHTML }}</h3>
-                            <p class="text-slate-500 text-sm">{{ .Params.cards_compatibility_desc | safeHTML }}</p>
-                        </a>
-                        {{ end }}
-                        {{ if .Params.cards_free_title }}
-                        <a href="{{ if or (hasPrefix .Params.cards_free_link "http") (hasPrefix .Params.cards_free_link "#") }}{{ .Params.cards_free_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_free_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center relative overflow-hidden">
-                            <div class="absolute top-2 right-2 bg-red-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-full z-10">{{ .Params.cards_free_badge | safeHTML }}</div>
-                            <div class="w-12 h-12 rounded-full bg-green-100 text-green-600 flex items-center justify-center mx-auto mb-4">
-                                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                            </div>
-                            <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_free_title | safeHTML }}</h3>
-                            <p class="text-slate-500 text-sm">{{ .Params.cards_free_desc | safeHTML }}</p>
-                        </a>
-                        {{ end }}
-                        {{ if .Params.cards_app_title }}
-                        <a href="{{ if or (hasPrefix .Params.cards_app_link "http") (hasPrefix .Params.cards_app_link "#") }}{{ .Params.cards_app_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_app_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center">
-                            <div class="w-12 h-12 rounded-full bg-orange-100 text-orange-600 flex items-center justify-center mx-auto mb-4">
-                                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
-                            </div>
-                            <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_app_title | safeHTML }}</h3>
-                            <p class="text-slate-500 text-sm markdown-content">{{ .Params.cards_app_desc | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | safeHTML }}</p>
-                        </a>
-                        {{ end }}
-                    </div>
-                    {{ end }}
-                    <!-- 购买前须知 -->
-                    {{ if .Params.before_buy_sections }}
-                    <article id="before-buy" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
-                        <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.before_buy_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
-                        <div class="space-y-4">
-                            {{ range .Params.before_buy_sections }}
-                            <div>
-                                <h3 class="text-lg sm:text-xl font-semibold mb-2 leading-snug [&>p]:m-0 [&>p]:inline">{{ .heading | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h3>
-                                <div class="markdown-content text-sm sm:text-base">{{ .content | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
-                            </div>
-                            {{ end }}
-                        </div>
-                    </article>
-                    {{ end }}
-
-                    <!-- 城市推荐 -->
-                    {{ if .Params.city_recommendations }}
-                    <article id="city-guide" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
-                        <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.city_guide_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
-                        <div class="text-slate-600 mb-4 markdown-content [&>p]:m-0 [&>p]:inline">{{ .Params.city_guide_desc | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
-                        <div class="overflow-x-auto mt-4">
-                            <table class="min-w-full text-sm city-table">
-                                <thead>
-                                    <tr class="bg-slate-50">
-                                        {{ range .Params.city_table_headers }}
-                                        <th class="py-2 px-3 [&>p]:m-0 [&>p]:inline">{{ . | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</th>
-                                        {{ end }}
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    {{ range .Params.city_recommendations }}
-                                    <tr>
-                                        <td class="py-2 px-3 font-semibold [&>p]:m-0 [&>p]:inline">{{ .city | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</td>
-                                        <td class="py-2 px-3 [&>p]:m-0 [&>p]:inline">{{ .carriers | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</td>
-                                        <td class="py-2 px-3 markdown-content [&>p]:m-0 [&>p]:inline">{{ .reason | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</td>
-                                    </tr>
-                                    {{ end }}
-                                </tbody>
-                            </table>
-                        </div>
-                        {{ if .Params.city_guide_tip }}
-                        <div class="text-xs text-slate-500 mt-2 markdown-content [&>p]:m-0 [&>p]:inline">{{ .Params.city_guide_tip | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</div>
-                        {{ end }}
-                    </article>
-                    {{ end }}
-
-
-                    <!-- 三列功能卡片 -->
-                    {{ if or .Params.cards_compatibility_title .Params.cards_free_title .Params.cards_app_title }}
-                    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-                        {{ if .Params.cards_compatibility_title }}
-                        <a href="{{ if or (hasPrefix .Params.cards_compatibility_link "http") (hasPrefix .Params.cards_compatibility_link "#") }}{{ .Params.cards_compatibility_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_compatibility_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center relative overflow-hidden">
-                            <div class="w-12 h-12 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center mx-auto mb-4">
-                                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
-                            </div>
-                            <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_compatibility_title | safeHTML }}</h3>
-                            <p class="text-slate-500 text-sm">{{ .Params.cards_compatibility_desc | safeHTML }}</p>
-                        </a>
-                        {{ end }}
-                        {{ if .Params.cards_free_title }}
-                        <a href="{{ if or (hasPrefix .Params.cards_free_link "http") (hasPrefix .Params.cards_free_link "#") }}{{ .Params.cards_free_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_free_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center relative overflow-hidden">
-                            <div class="absolute top-2 right-2 bg-red-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-full z-10">{{ .Params.cards_free_badge | safeHTML }}</div>
-                            <div class="w-12 h-12 rounded-full bg-green-100 text-green-600 flex items-center justify-center mx-auto mb-4">
-                                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                            </div>
-                            <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_free_title | safeHTML }}</h3>
-                            <p class="text-slate-500 text-sm">{{ .Params.cards_free_desc | safeHTML }}</p>
-                        </a>
-                        {{ end }}
-                        {{ if .Params.cards_app_title }}
-                        <a href="{{ if or (hasPrefix .Params.cards_app_link "http") (hasPrefix .Params.cards_app_link "#") }}{{ .Params.cards_app_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_app_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center">
-                            <div class="w-12 h-12 rounded-full bg-orange-100 text-orange-600 flex items-center justify-center mx-auto mb-4">
-                                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
-                            </div>
-                            <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_app_title | safeHTML }}</h3>
-                            <p class="text-slate-500 text-sm markdown-content">{{ .Params.cards_app_desc | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | safeHTML }}</p>
-                        </a>
-                        {{ end }}
-                    </div>
-                    {{ end }}
-                    <!-- 场景指南 -->
-                    {{ if .Params.scene_items }}
-                    <article id="scene-guide" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
-                        <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.scene_guide_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
-                        <ul class="grid grid-cols-1 md:grid-cols-2 gap-4 list-none p-0 mt-4">
-                            {{ range .Params.scene_items }}
-                            <li class="bg-slate-50 rounded-xl p-4 border border-slate-100">
-                                <span class="font-bold text-blue-600 [&>p]:m-0 [&>p]:inline">{{ .icon }} {{ .title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
-                                <div class="text-sm text-slate-600 mt-1 markdown-content [&>p]:m-0 [&>p]:inline">{{ .text | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</div>
-                            </li>
-                            {{ end }}
-                        </ul>
-                    </article>
-                    {{ end }}
-
-                    <!-- FAQ 区块 -->
-                    {{ if .Params.faq }}
-                    <article id="faq" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
-                        <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-6 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.faq_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
-                        <ul class="space-y-4 list-none mt-4">
-                            {{ range $index, $faq := .Params.faq }}
-                            <li>
-                                <details class="group border-b pb-3" {{ if eq $index 0 }}open{{ end }}>
-                                    <summary class="font-semibold cursor-pointer list-none flex justify-between items-center text-sm sm:text-base [&>p]:m-0 [&>p]:inline">
-                                        <span>{{ $.Params.faq_prefix | replaceRE "\\\\n|/n|\n" " " | safeHTML }}{{ add $index 1 }}{{ $.Params.faq_suffix | replaceRE "\\\\n|/n|\n" " " | safeHTML }}{{ $faq.q | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
-                                        <span class="transition group-open:rotate-180 flex-shrink-0 ml-2">▼</span>
-                                    </summary>
-                                    <div class="mt-2 text-slate-600 text-sm markdown-content">{{ $faq.a | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
-                                </details>
-                            </li>
-                            {{ end }}
-                        </ul>
-                        {{ if .Params.faq_more_link_text }}
-                        <div class="mt-6 text-center"><a href="{{ if or (hasPrefix .Params.faq_more_link_url "http") (hasPrefix .Params.faq_more_link_url "#") }}{{ .Params.faq_more_link_url | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.faq_more_link_url)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline text-sm">{{ .Params.faq_more_link_text | safeHTML }}</a></div>
-                        {{ end }}
-                    </article>
-                    {{ end }}
-
-                    <!-- 误区区块 -->
-                    {{ if .Params.myths }}
-                    <article id="myths" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
-                        <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.myths_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
-                        <div class="space-y-4 mt-4">
-                            {{ range .Params.myths }}
-                            <div class="border-l-4 border-red-300 pl-4 text-sm sm:text-base">
-                                <strong class="text-red-600">{{ $.Params.myth_label | safeHTML }}</strong> <span class="markdown-content [&>p]:m-0 [&>p]:inline">{{ .myth | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span><br class="my-1 sm:my-0">
-                                <strong class="text-green-600">{{ $.Params.truth_label | safeHTML }}</strong> <span class="markdown-content [&>p]:m-0 [&>p]:inline">{{ .truth | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
-                            </div>
-                            {{ end }}
-                        </div>
-                    </article>
-                    {{ end }}
-
-                    <!-- 数据来源区块 -->
-                    {{ if .Params.data_sources_list }}
-                    <article id="data-sources" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
-                        <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.data_sources_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
-                        
-                        <div class="space-y-4 mt-4">
-                            <ul class="list-disc ml-5 space-y-4 text-slate-600">
-                                {{ range .Params.data_sources_list }}
-                                <li>
-                                    <strong class="text-slate-800 text-base markdown-content [&>p]:m-0 [&>p]:inline">{{ .name | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</strong>
-                                    <div class="mt-1 text-sm markdown-content">{{ .description | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br> " | safeHTML }}</div>
-                                </li>
+            <!-- 快速对比表 -->
+            {{ if .Params.quick_picks }}
+            <article id="quick-picks" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
+                <h2 class="text-xl sm:text-2xl lg:text-3xl font-extrabold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.quick_picks_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
+                <div class="overflow-x-auto mt-4">
+                    <table class="min-w-full text-sm">
+                        <thead>
+                            <tr>
+                                {{ range .Params.quick_picks_table_headers }}
+                                <th scope="col" class="py-3 px-4 [&>p]:m-0 [&>p]:inline">{{ . | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</th>
                                 {{ end }}
-                            </ul>
-                        </div>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {{ range .Params.quick_picks }}
+                            <tr>
+                                <td class="py-3 px-4 [&>p]:m-0 [&>p]:inline">{{ .travel | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</td>
+                                <td class="py-3 px-4"><strong class="{{ .carrier_class }} [&>p]:m-0 [&>p]:inline">{{ .carrier | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</strong></td>
+                                <td class="py-3 px-4 markdown-content [&>p]:m-0 [&>p]:inline">{{ .reason | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</td>
+                            </tr>
+                            {{ end }}
+                        </tbody>
+                    </table>
+                </div>
+                {{ if .Params.quick_picks_note_prefix }}
+                <div class="mt-4 text-slate-500 text-sm [&>p]:m-0 [&>p]:inline">
+                    {{ .Params.quick_picks_note_prefix | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }} <strong class="text-blue-600 [&>p]:m-0 [&>p]:inline">{{ .Params.quick_picks_note_carrier | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</strong><span class="[&>p]:m-0 [&>p]:inline">{{ .Params.quick_picks_note_text | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
+                    <strong class="text-blue-600">{{ .Params.quick_picks_note_brand | replaceRE "\\\\n|/n|\n" " " | safeHTML }} <a href="{{ if or (hasPrefix .Params.hero_link_url "http") (hasPrefix .Params.hero_link_url "#") }}{{ .Params.hero_link_url | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.hero_link_url)) }}{{ end }}" target="_blank" rel="noopener noreferrer">{{ .Params.quick_picks_note_link_text | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</a></strong><span class="[&>p]:m-0 [&>p]:inline">{{ .Params.quick_picks_note_suffix | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
+                </div>
+                {{ end }}
+            </article>
+            {{ end }}
 
-                        {{ if .Params.data_sources_footer }}
-                        <div class="mt-6 pt-5 border-t border-slate-100 text-sm text-slate-500 markdown-content">
-                            {{ .Params.data_sources_footer | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | safeHTML }}
-                        </div>
-                        {{ end }}
-                        
-                        {{ if .Params.data_sources_note }}
-                        <div class="mt-2 text-xs text-slate-400 markdown-content">
-                            {{ .Params.data_sources_note | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | safeHTML }}
-                        </div>
-                        {{ end }}
-                    </article>
-                    {{ end }}
+            <!-- 中间主 CTA -->
+            {{ if .Params.cta_button_main_text }}
+            <div class="flex justify-center my-4">
+                <a href="{{ if or (hasPrefix .Params.hero_link_url "http") (hasPrefix .Params.hero_link_url "#") }}{{ .Params.hero_link_url | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.hero_link_url)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="pro-cta-btn text-center w-full max-w-2xl px-4 sm:px-8">
+                    <span class="main-text">{{ .Params.cta_button_main_text | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
+                    <span class="sub-text">{{ .Params.cta_button_sub_text | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
+                    <svg class="arrow-icon mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                </a>
+            </div>
+            {{ end }}
 
-                    <!-- 底部全局 CTA -->
-                    {{ if .Params.cta_title }}
-                    <div class="bg-blue-600 rounded-3xl p-6 sm:p-8 text-white text-center shadow-xl">
-                        <h3 class="text-xl sm:text-2xl lg:text-3xl font-bold mb-2 leading-snug [&>p]:m-0 [&>p]:inline">{{ .Params.cta_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h3>
-                        <div class="mt-2 mb-5 opacity-90 text-sm sm:text-base [&>p]:m-0 [&>p]:inline">{{ .Params.cta_desc | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
-                        <br class="hidden sm:inline">
-                        <a href="{{ if or (hasPrefix .Params.cta_button_link "http") (hasPrefix .Params.cta_button_link "#") }}{{ .Params.cta_button_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cta_button_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="inline-block bg-white text-blue-700 font-bold px-8 py-3 mt-4 sm:mt-0 rounded-xl hover:bg-slate-100 transition">{{ .Params.cta_button_text | safeHTML }}</a>
-                        <p class="text-xs sm:text-sm mt-4 opacity-75">{{ .Params.cta_free_trial_note | safeHTML }}：<a href="{{ if or (hasPrefix .Params.cta_free_trial_link "http") (hasPrefix .Params.cta_free_trial_link "#") }}{{ .Params.cta_free_trial_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cta_free_trial_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="text-white underline">{{ .Params.cta_free_trial_text | safeHTML }}</a></p>
+            <!-- 运营商详情区块 -->
+            <div id="operators" class="scroll-mt-28 flex flex-col gap-10">
+                {{ if .Params.operators }}
+                {{ range .Params.operators }}
+                <article id="{{ .id }}" class="bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
+                    <header><h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-3 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2></header>
+                    <ul class="structured-list">
+                        <li><strong class="[&>p]:m-0 [&>p]:inline">{{ $.Params.operator_labels.best_for | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</strong> <span class="[&>p]:m-0 [&>p]:inline">{{ .best_for | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span></li>
+                        <li><strong class="[&>p]:m-0 [&>p]:inline">{{ $.Params.operator_labels.core_data | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</strong> <span class="markdown-content [&>p]:m-0 [&>p]:inline">{{ .core_data | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span></li>
+                        <li class="markdown-content [&>p]:m-0 [&>p]:inline">{{ .arcep_note | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</li>
+                    </ul>
+                    {{ if .connect_note }}
+                    <div class="mt-3 p-4 {{ .bg_color }} rounded-xl">
+                        <span class="font-semibold [&>p]:m-0 [&>p]:inline">{{ $.Params.operator_labels.connect_note_label | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span> <span class="markdown-content [&>p]:m-0 [&>p]:inline">{{ .connect_note | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
                     </div>
                     {{ end }}
 
+                    {{ if .user_scenarios }}
+                    <div class="mt-4 p-4 bg-slate-50 rounded-xl">
+                        <h4 class="font-semibold text-slate-700 mb-2">✨ Real‑world performance</h4>
+                        <div class="text-sm text-slate-600">
+                            {{ $rawText := replaceRE `\\n` "\n" .user_scenarios }}
+                            {{ $rawText = replaceRE `/n` "\n" $rawText }}
+                            {{ $lines := split $rawText "\n" }}
+                            <ul class="list-disc ml-5 space-y-1">
+                            {{ range $lines }}
+                                {{ $cleanedLine := trim . " \t-" }}
+                                {{ if ne $cleanedLine "" }}
+                                    <li class="[&>p]:m-0 [&>p]:inline">{{ $cleanedLine | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | safeHTML }}</li>
+                                {{ end }}
+                            {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                    {{ end }}
+                </article>
+                {{ end }}
+                {{ end }}
+            </div>
+
+            <!-- 中间主 CTA -->
+            {{ if .Params.cta_button_main_text }}
+            <div class="flex justify-center my-4">
+                <a href="{{ if or (hasPrefix .Params.hero_link_url "http") (hasPrefix .Params.hero_link_url "#") }}{{ .Params.hero_link_url | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.hero_link_url)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="pro-cta-btn text-center w-full max-w-2xl px-4 sm:px-8">
+                    <span class="main-text">{{ .Params.cta_button_main_text | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
+                    <span class="sub-text">{{ .Params.cta_button_sub_text | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
+                    <svg class="arrow-icon mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                </a>
+            </div>
+            {{ end }}
+
+            <!-- 三列功能卡片 -->
+            {{ if or .Params.cards_compatibility_title .Params.cards_free_title .Params.cards_app_title }}
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {{ if .Params.cards_compatibility_title }}
+                <a href="{{ if or (hasPrefix .Params.cards_compatibility_link "http") (hasPrefix .Params.cards_compatibility_link "#") }}{{ .Params.cards_compatibility_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_compatibility_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center relative overflow-hidden">
+                    <div class="w-12 h-12 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+                    </div>
+                    <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_compatibility_title | safeHTML }}</h3>
+                    <p class="text-slate-500 text-sm">{{ .Params.cards_compatibility_desc | safeHTML }}</p>
+                </a>
+                {{ end }}
+                {{ if .Params.cards_free_title }}
+                <a href="{{ if or (hasPrefix .Params.cards_free_link "http") (hasPrefix .Params.cards_free_link "#") }}{{ .Params.cards_free_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_free_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center relative overflow-hidden">
+                    <div class="absolute top-2 right-2 bg-red-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-full z-10">{{ .Params.cards_free_badge | safeHTML }}</div>
+                    <div class="w-12 h-12 rounded-full bg-green-100 text-green-600 flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                    </div>
+                    <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_free_title | safeHTML }}</h3>
+                    <p class="text-slate-500 text-sm">{{ .Params.cards_free_desc | safeHTML }}</p>
+                </a>
+                {{ end }}
+                {{ if .Params.cards_app_title }}
+                <a href="{{ if or (hasPrefix .Params.cards_app_link "http") (hasPrefix .Params.cards_app_link "#") }}{{ .Params.cards_app_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_app_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center">
+                    <div class="w-12 h-12 rounded-full bg-orange-100 text-orange-600 flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
+                    </div>
+                    <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_app_title | safeHTML }}</h3>
+                    <p class="text-slate-500 text-sm markdown-content">{{ .Params.cards_app_desc | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | safeHTML }}</p>
+                </a>
+                {{ end }}
+            </div>
+            {{ end }}
+
+            <!-- 购买前须知 -->
+            {{ if .Params.before_buy_sections }}
+            <article id="before-buy" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
+                <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.before_buy_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
+                <div class="space-y-4">
+                    {{ range .Params.before_buy_sections }}
+                    <div>
+                        <h3 class="text-lg sm:text-xl font-semibold mb-2 leading-snug [&>p]:m-0 [&>p]:inline">{{ .heading | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h3>
+                        <div class="markdown-content text-sm sm:text-base">{{ .content | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
+                    </div>
+                    {{ end }}
+                </div>
+            </article>
+            {{ end }}
+
+            <!-- 城市推荐 -->
+            {{ if .Params.city_recommendations }}
+            <article id="city-guide" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
+                <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.city_guide_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
+                <div class="text-slate-600 mb-4 markdown-content [&>p]:m-0 [&>p]:inline">{{ .Params.city_guide_desc | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
+                <div class="overflow-x-auto mt-4">
+                    <table class="min-w-full text-sm city-table">
+                        <thead>
+                            <tr class="bg-slate-50">
+                                {{ range .Params.city_table_headers }}
+                                <th class="py-2 px-3 [&>p]:m-0 [&>p]:inline">{{ . | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</th>
+                                {{ end }}
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {{ range .Params.city_recommendations }}
+                            <tr>
+                                <td class="py-2 px-3 font-semibold [&>p]:m-0 [&>p]:inline">{{ .city | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</td>
+                                <td class="py-2 px-3 [&>p]:m-0 [&>p]:inline">{{ .carriers | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</td>
+                                <td class="py-2 px-3 markdown-content [&>p]:m-0 [&>p]:inline">{{ .reason | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</td>
+                            </tr>
+                            {{ end }}
+                        </tbody>
+                    </table>
+                </div>
+                {{ if .Params.city_guide_tip }}
+                <div class="text-xs text-slate-500 mt-2 markdown-content [&>p]:m-0 [&>p]:inline">{{ .Params.city_guide_tip | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</div>
+                {{ end }}
+            </article>
+            {{ end }}
+
+            <!-- 三列功能卡片 -->
+            {{ if or .Params.cards_compatibility_title .Params.cards_free_title .Params.cards_app_title }}
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {{ if .Params.cards_compatibility_title }}
+                <a href="{{ if or (hasPrefix .Params.cards_compatibility_link "http") (hasPrefix .Params.cards_compatibility_link "#") }}{{ .Params.cards_compatibility_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_compatibility_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center relative overflow-hidden">
+                    <div class="w-12 h-12 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+                    </div>
+                    <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_compatibility_title | safeHTML }}</h3>
+                    <p class="text-slate-500 text-sm">{{ .Params.cards_compatibility_desc | safeHTML }}</p>
+                </a>
+                {{ end }}
+                {{ if .Params.cards_free_title }}
+                <a href="{{ if or (hasPrefix .Params.cards_free_link "http") (hasPrefix .Params.cards_free_link "#") }}{{ .Params.cards_free_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_free_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center relative overflow-hidden">
+                    <div class="absolute top-2 right-2 bg-red-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-full z-10">{{ .Params.cards_free_badge | safeHTML }}</div>
+                    <div class="w-12 h-12 rounded-full bg-green-100 text-green-600 flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                    </div>
+                    <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_free_title | safeHTML }}</h3>
+                    <p class="text-slate-500 text-sm">{{ .Params.cards_free_desc | safeHTML }}</p>
+                </a>
+                {{ end }}
+                {{ if .Params.cards_app_title }}
+                <a href="{{ if or (hasPrefix .Params.cards_app_link "http") (hasPrefix .Params.cards_app_link "#") }}{{ .Params.cards_app_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cards_app_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="group block bg-white rounded-2xl p-6 border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all duration-200 text-center">
+                    <div class="w-12 h-12 rounded-full bg-orange-100 text-orange-600 flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
+                    </div>
+                    <h3 class="font-bold text-slate-900 text-lg mb-2 group-hover:text-blue-600 transition-colors">{{ .Params.cards_app_title | safeHTML }}</h3>
+                    <p class="text-slate-500 text-sm markdown-content">{{ .Params.cards_app_desc | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | safeHTML }}</p>
+                </a>
+                {{ end }}
+            </div>
+            {{ end }}
+
+            <!-- 场景指南 -->
+            {{ if .Params.scene_items }}
+            <article id="scene-guide" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
+                <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.scene_guide_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
+                <ul class="grid grid-cols-1 md:grid-cols-2 gap-4 list-none p-0 mt-4">
+                    {{ range .Params.scene_items }}
+                    <li class="bg-slate-50 rounded-xl p-4 border border-slate-100">
+                        <span class="font-bold text-blue-600 [&>p]:m-0 [&>p]:inline">{{ .icon }} {{ .title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
+                        <div class="text-sm text-slate-600 mt-1 markdown-content [&>p]:m-0 [&>p]:inline">{{ .text | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</div>
+                    </li>
+                    {{ end }}
+                </ul>
+            </article>
+            {{ end }}
+
+            <!-- FAQ 区块 -->
+            {{ if .Params.faq }}
+            <article id="faq" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
+                <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-6 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.faq_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
+                <ul class="space-y-4 list-none mt-4">
+                    {{ range $index, $faq := .Params.faq }}
+                    <li>
+                        <details class="group border-b pb-3" {{ if eq $index 0 }}open{{ end }}>
+                            <summary class="font-semibold cursor-pointer list-none flex justify-between items-center text-sm sm:text-base [&>p]:m-0 [&>p]:inline">
+                                <span>{{ $.Params.faq_prefix | replaceRE "\\\\n|/n|\n" " " | safeHTML }}{{ add $index 1 }}{{ $.Params.faq_suffix | replaceRE "\\\\n|/n|\n" " " | safeHTML }}{{ $faq.q | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
+                                <span class="transition group-open:rotate-180 flex-shrink-0 ml-2">▼</span>
+                            </summary>
+                            <div class="mt-2 text-slate-600 text-sm markdown-content">{{ $faq.a | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
+                        </details>
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ if .Params.faq_more_link_text }}
+                <div class="mt-6 text-center"><a href="{{ if or (hasPrefix .Params.faq_more_link_url "http") (hasPrefix .Params.faq_more_link_url "#") }}{{ .Params.faq_more_link_url | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.faq_more_link_url)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline text-sm">{{ .Params.faq_more_link_text | safeHTML }}</a></div>
+                {{ end }}
+            </article>
+            {{ end }}
+
+            <!-- 误区区块 -->
+            {{ if .Params.myths }}
+            <article id="myths" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
+                <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.myths_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
+                <div class="space-y-4 mt-4">
+                    {{ range .Params.myths }}
+                    <div class="border-l-4 border-red-300 pl-4 text-sm sm:text-base">
+                        <strong class="text-red-600">{{ $.Params.myth_label | safeHTML }}</strong> <span class="markdown-content [&>p]:m-0 [&>p]:inline">{{ .myth | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span><br class="my-1 sm:my-0">
+                        <strong class="text-green-600">{{ $.Params.truth_label | safeHTML }}</strong> <span class="markdown-content [&>p]:m-0 [&>p]:inline">{{ .truth | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</span>
+                    </div>
+                    {{ end }}
+                </div>
+            </article>
+            {{ end }}
+
+            <!-- 数据来源区块 -->
+            {{ if .Params.data_sources_list }}
+            <article id="data-sources" class="scroll-mt-28 bg-white p-5 lg:p-8 rounded-3xl border border-slate-200 shadow-sm">
+                <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-slate-900 mb-4 leading-snug tracking-tight [&>p]:m-0 [&>p]:inline">{{ .Params.data_sources_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h2>
+
+                <div class="space-y-4 mt-4">
+                    <ul class="list-disc ml-5 space-y-4 text-slate-600">
+                        {{ range .Params.data_sources_list }}
+                        <li>
+                            <strong class="text-slate-800 text-base markdown-content [&>p]:m-0 [&>p]:inline">{{ .name | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " " | safeHTML }}</strong>
+                            <div class="mt-1 text-sm markdown-content">{{ .description | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br> " | safeHTML }}</div>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+
+                {{ if .Params.data_sources_footer }}
+                <div class="mt-6 pt-5 border-t border-slate-100 text-sm text-slate-500 markdown-content">
+                    {{ .Params.data_sources_footer | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | safeHTML }}
+                </div>
+                {{ end }}
+
+                {{ if .Params.data_sources_note }}
+                <div class="mt-2 text-xs text-slate-400 markdown-content">
+                    {{ .Params.data_sources_note | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | safeHTML }}
+                </div>
+                {{ end }}
+            </article>
+            {{ end }}
+
+            <!-- 底部全局 CTA -->
+            {{ if .Params.cta_title }}
+            <div class="bg-blue-600 rounded-3xl p-6 sm:p-8 text-white text-center shadow-xl">
+                <h3 class="text-xl sm:text-2xl lg:text-3xl font-bold mb-2 leading-snug [&>p]:m-0 [&>p]:inline">{{ .Params.cta_title | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</h3>
+                <div class="mt-2 mb-5 opacity-90 text-sm sm:text-base [&>p]:m-0 [&>p]:inline">{{ .Params.cta_desc | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
+                <br class="hidden sm:inline">
+                <a href="{{ if or (hasPrefix .Params.cta_button_link "http") (hasPrefix .Params.cta_button_link "#") }}{{ .Params.cta_button_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cta_button_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="inline-block bg-white text-blue-700 font-bold px-8 py-3 mt-4 sm:mt-0 rounded-xl hover:bg-slate-100 transition">{{ .Params.cta_button_text | safeHTML }}</a>
+                <p class="text-xs sm:text-sm mt-4 opacity-75">{{ .Params.cta_free_trial_note | safeHTML }}：<a href="{{ if or (hasPrefix .Params.cta_free_trial_link "http") (hasPrefix .Params.cta_free_trial_link "#") }}{{ .Params.cta_free_trial_link | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" .Params.cta_free_trial_link)) }}{{ end }}" target="_blank" rel="noopener noreferrer" class="text-white underline">{{ .Params.cta_free_trial_text | safeHTML }}</a></p>
+            </div>
+            {{ end }}
+
+        </article>
+
+        <!-- 右侧边栏 -->
+        <aside class="sidebar" id="sidebar">
+            <!-- 热门 eSIM 产品模块 -->
+            {{ $data := index .Site.Data .Site.Language.Lang }}
+            {{ $products := $data.related_products.items | default slice }}
+            {{ $productsTitle := $data.related_products.title | default "Similar eSIM Plans" }}
+            {{ if $products }}
+            <div class="sidebar-card">
+                <div class="sidebar-title">{{ $productsTitle }}</div>
+                <div class="product-grid">
+                    {{ range first 10 (shuffle $products) }}
+                    {{ $slug := .slug | default (.name | urlize) }}
+                    {{ $productURL := printf "/%s/" ($slug | lower) | relLangURL }}
+                    <a class="product-item" href="{{ $productURL }}">
+                        <img src="{{ .flag | relURL }}" alt="{{ .name }}" class="product-flag-img" loading="lazy">
+                        <div class="product-info">
+                            <div class="product-name">{{ .name }}</div>
+                            <div class="product-price">{{ .price }}</div>
+                        </div>
+                    </a>
+                    {{ end }}
                 </div>
             </div>
-        </div>
-    </section>
+            {{ end }}
+        </aside>
+    </div>
 </main>
 
 <!-- 返回顶部 -->
@@ -517,13 +675,18 @@
     document.addEventListener("DOMContentLoaded", function() {
         const tocLinks = document.querySelectorAll('.toc-link');
         const backToTopBtn = document.getElementById('backToTopBtn');
-        
-        // 🚀【JS 升级防高亮乱跳】用于判断用户是否正在通过点击侧边栏进行平滑滚动
+
+        // Markdown 正文里的外链统一新窗口打开，与页面其他 CTA 保持一致
+        document.querySelectorAll('.markdown-body a[href^="http"]').forEach(function(a) {
+            a.setAttribute('target', '_blank');
+            a.setAttribute('rel', 'noopener noreferrer');
+        });
+
         let isClickScrolling = false;
         let scrollTimeout;
 
         const targetElements = [];
-        
+
         tocLinks.forEach(link => {
             try {
                 const url = new URL(link.href, window.location.origin);
@@ -535,14 +698,10 @@
             } catch (e) {
                 console.error("Invalid URL in TOC:", link.href);
             }
-            
-            // 🚀【JS 核心修复】为每个链接绑定点击事件，立即高亮并暂时屏蔽 Observer
+
             link.addEventListener('click', function(e) {
-                // 1. 立即给当前点击的项添加 active
                 tocLinks.forEach(l => l.classList.remove('active'));
                 this.classList.add('active');
-                
-                // 2. 锁定滚动状态，在 1000 毫秒内忽略 IntersectionObserver，防止高亮被滑过的区块夺走
                 isClickScrolling = true;
                 clearTimeout(scrollTimeout);
                 scrollTimeout = setTimeout(() => {
@@ -550,13 +709,11 @@
                 }, 1000);
             });
         });
-        
-        // 微调 rootMargin，适应 .scroll-mt-28 (112px) 的顶部边距，使判定更加精准
+
         const observerOptions = { root: null, rootMargin: '-100px 0px -50% 0px', threshold: 0 };
         const observer = new IntersectionObserver((entries) => {
-            // 如果用户刚刚点击了侧边栏，直接返回，不更新高亮
             if (isClickScrolling) return;
-            
+
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
                     const id = entry.target.getAttribute('id');
@@ -566,7 +723,7 @@
                 }
             });
         }, observerOptions);
-        
+
         targetElements.forEach(el => observer.observe(el));
 
         window.addEventListener('scroll', () => {
@@ -580,6 +737,16 @@
         });
         backToTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
     });
+
+    // 阅读进度条
+    const progressBar = document.getElementById('readingProgressBar');
+    window.addEventListener('scroll', () => {
+        const winScroll = document.documentElement.scrollTop;
+        const height = document.documentElement.scrollHeight - window.innerHeight;
+        const scrolled = (winScroll / height) * 100;
+        progressBar.style.width = scrolled + '%';
+    });
+
 </script>
 
 <!-- SEO 结构化数据：使用 absLangURL 自动化多语言路径 -->
@@ -595,8 +762,8 @@
     "description": {{ .Description | jsonify | safeJS }},
     "image": {{ if .Params.image }}{{ .Params.image | absURL | jsonify | safeJS }}{{ else }}{{ "/img/logo.png" | absURL | jsonify | safeJS }}{{ end }},
     "author": { "@type": "Organization", "name": {{ .Params.brand_name | jsonify | safeJS }} },
-    "publisher": { 
-        "@type": "Organization", 
+    "publisher": {
+        "@type": "Organization",
         "name": {{ .Params.brand_name | jsonify | safeJS }},
         "logo": { "@type": "ImageObject", "url": {{ "/img/logo.png" | absURL | jsonify | safeJS }} }
     }

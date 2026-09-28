@@ -527,3 +527,9 @@ other = "エラーが発生しました。もう一度お試しください。"
 other = "ネットワークエラーです。もう一度お試しください。"
 [lead_form_sending]
 other = "送信中..."
+
+[esim_guides_title]
+other = "eSIMガイド"
+
+[related_blog_title]
+other = "旅行eSIMガイド"

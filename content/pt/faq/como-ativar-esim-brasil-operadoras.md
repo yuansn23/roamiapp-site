@@ -5,9 +5,9 @@ description: "Guia completo 2026: saiba como ativar eSIM da Vivo, TIM e Claro co
 keywords: ["ativar esim vivo", "ativar esim tim", "ativar esim claro", "como ativar esim vivo", "como ativar esim tim", "como ativar esim claro", "como ativar o esim da vivo", "como ativar o esim da claro", "como ativar o esim da tim", "ativar esim vivo whatsapp", "ativar esim claro online", "ativar esim", "como ativar esim", "ativação esim brasil", "esim brasil ativação"]
 date: 2026-09-23T00:00:00Z
 lastmod: 2026-09-23T00:00:00Z
+image: "/img/faq/como-ativar-esim-brasil-operadoras.webp"
 tags: ["eSIM", "Vivo", "TIM", "Claro", "Brasil", "Operadoras", "Ativação", "iOS", "Android"]
 toc: true
-image: "/images/esim-brasil-operadoras-ativacao.jpg"
 
 # Site & SEO
 site_name: "Roami"

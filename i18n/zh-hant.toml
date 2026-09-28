@@ -535,3 +535,9 @@ other = "發生錯誤，請再試一次。"
 other = "網路錯誤，請再試一次。"
 [lead_form_sending]
 other = "寄送中..."
+
+[esim_guides_title]
+other = "eSIM 指南"
+
+[related_blog_title]
+other = "旅行eSIM指南"

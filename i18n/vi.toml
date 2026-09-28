@@ -634,3 +634,9 @@ other = "Đã xảy ra lỗi. Vui lòng thử lại."
 other = "Lỗi mạng. Vui lòng thử lại."
 [lead_form_sending]
 other = "Đang gửi..."
+
+[esim_guides_title]
+other = "Hướng dẫn eSIM"
+
+[related_blog_title]
+other = "Hướng dẫn eSIM du lịch"

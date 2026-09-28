@@ -1,436 +1,415 @@
 ---
-title: "Cara Mendapatkan eSIM di Kanada: Panduan Penyiapan"
-description: "Cara mendapatkan eSIM Roami di Kanada: periksa kompatibilitas, instal di iPhone dan Android, dan perbaiki kesalahan umum."
-keywords: ["cara mendapatkan eSIM di Kanada", "penyiapan eSIM Kanada", "aktivasi eSIM Kanada", "instal eSIM Kanada iPhone", "pemecahan masalah eSIM Kanada"]
-date: 2026-09-16T00:00:00Z
-lastmod: 2026-09-16T00:00:00Z
-author: "Tim Roami"
-authorBio: "Roami menawarkan paket eSIM yang andal, melayani lebih dari 1 juta wisatawan setiap tahun, dan mendukung peralihan jaringan lokal otomatis untuk membantu wisatawan tetap terhubung secara global."
+title: "Cara Mendapatkan eSIM di Kanada: Panduan Pengaturan & Aktivasi"
+description: "Cara mendapatkan eSIM Roami di Kanada: periksa kompatibilitas, pasang di iPhone dan Android, aktivasi, dan perbaiki kesalahan umum dengan cepat."
+keywords: ["cara mendapatkan eSIM di Kanada", "pengaturan eSIM Kanada", "aktivasi eSIM Kanada", "pasang eSIM Kanada iPhone", "pemecahan masalah eSIM Kanada"]
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
+author: "Roami Team"
+authorBio: "Roami menawarkan paket eSIM yang andal, melayani lebih dari 1 juta pelancong setiap tahun, dan mendukung peralihan otomatis ke jaringan lokal agar pelancong tetap terhubung di seluruh dunia."
 image: "/img/esim/canada/how-to-get-esim-in-canada-guide.jpg"
-categories: ["eSIM", "Perjalanan", "Kanada"]
-tags: ["eSIM Kanada"]
+categories: ["eSIM", "Travel", "Canada"]
+tags: ["Canada eSIM"]
 readingTime: 8
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Cara Mendapatkan eSIM di Kanada: Panduan Penyiapan, Aktivasi & Pemecahan Masalah"
+h1title: "Cara Mendapatkan eSIM di Kanada: Panduan Pengaturan, Aktivasi & Pemecahan Masalah"
 
-# Judul modul sidebar
+# Sidebar module titles
 productsTitle: "Paket eSIM Populer"
 hotPostsTitle: "Artikel Populer"
-recentPostsTitle: "Postingan Terbaru"
+recentPostsTitle: "Tulisan Terbaru"
 
-# Produk sidebar kanan (6 item)
+# Right sidebar products (6 items)
 products:
   - name: "eSIM AS"
     flag: "/img/flags/us.svg"
-    price: "Mulai $1.99"
+    price: "From $1.99"
     is_highlight: false
     slug: "united-states"
   - name: "eSIM Jepang"
     flag: "/img/flags/jp.svg"
-    price: "Mulai $1.99"
+    price: "From $1.99"
     is_highlight: false
     slug: "japan"
   - name: "eSIM Eropa"
     flag: "/img/flags/eu.svg"
-    price: "Mulai $1.99"
+    price: "From $1.99"
     is_highlight: true
     slug: "europe"
   - name: "eSIM Korea Selatan"
     flag: "/img/flags/kr.svg"
-    price: "Mulai $1.99"
+    price: "From $1.99"
     is_highlight: false
     slug: "south-korea"
   - name: "eSIM Thailand"
     flag: "/img/flags/th.svg"
-    price: "Mulai $1.99"
+    price: "From $1.99"
     is_highlight: false
     slug: "thailand"
   - name: "eSIM Hong Kong"
     flag: "/img/flags/hk.svg"
-    price: "Mulai $1.99"
+    price: "From $1.99"
     is_highlight: false
     slug: "hong-kong"
 
-# Postingan terbaru (sidebar)
+# Recent posts (sidebar)
 recentPosts:
-  - title: "Panduan Pemecahan Masalah eSIM Mendalam (16 Kasus Nyata)"
+  - title: "eSIM Deep Troubleshooting Guide (16 Real Cases)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
-  - title: "Transfer eSIM Lintas Platform 2026"
+  - title: "2026 Cross-Platform eSIM Transfer"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "eSIM Ganda Tidak Berfungsi? 12 Perbaikan untuk iPhone"
+  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "eSIM iPad & Apple Watch: Panduan Lengkap"
+  - title: "iPad & Apple Watch eSIM: Complete Guide"
     permalink: "/faq/ipad-apple-watch-esim-support-guide/"
     date: "2026-05-23"
-  - title: "Panduan Kompatibilitas eSIM iPhone SE"
+  - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Panduan Penyiapan Lengkap eSIM iPhone 11"
+  - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "Panduan Utama 2026: Solusi Aktivasi eSIM iPhone 16"
+  - title: "2026 Ultimate Guide: iPhone 16 eSIM Activation Solutions"
     permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
+Mendapatkan eSIM Kanada membutuhkan sekitar lima belas menit persiapan dan paling berhasil jika Anda menyelesaikannya sebelum terbang, karena Wi-Fi bandara tidak andal dan konter SIM lokal berarti antre. Seluruh proses terbagi menjadi lima langkah — periksa kompatibilitas, beli paket, pasang profil, aktivasi saat tiba, lalu uji dan atasi masalah — dan setiap langkah lebih mudah diselesaikan di Wi-Fi rumah daripada saat tiba. Panduan ini membahas kelima langkah tersebut, kemudian mencakup kesalahan umum dan perbaikannya.
+
 ## Jawaban Cepat: Cara Mendapatkan eSIM di Kanada
 
-Mendapatkan eSIM Kanada memerlukan lima langkah:
+Mendapatkan eSIM Kanada membutuhkan lima langkah:
 
-1. **Periksa kompatibilitas** — tekan `*#06#` dan cari EID. Konfirmasi ponsel Anda tidak terkunci operator.
-2. **Beli paket** — pilih data berdasarkan durasi perjalanan. Instal sebelum keberangkatan di Wi-Fi rumah.
-3. **Instal eSIM** — pindai QR code atau masukkan kode aktivasi manual.
-4. **Aktivasi di Kanada** — nyalakan roaming data, atur eSIM sebagai jalur data default Anda.
-5. **Uji dan pecahkan masalah** — jika ada yang gagal, gunakan pemilihan jaringan manual terlebih dahulu.
+1. **Periksa kompatibilitas** — tekan `*#06#` dan cari EID. Pastikan ponsel Anda tidak terkunci operator (carrier-unlocked).
+2. **Beli paket** — pilih data berdasarkan lama perjalanan. Pasang sebelum keberangkatan di Wi-Fi rumah.
+3. **Pasang eSIM** — pindai kode QR atau masukkan kode aktivasi manual.
+4. **Aktivasi di Kanada** — nyalakan data roaming, atur eSIM sebagai jalur data bawaan Anda.
+5. **Uji dan atasi masalah** — jika ada yang gagal, gunakan pemilihan jaringan manual terlebih dahulu.
 
-**Waktu yang dibutuhkan:** 15 menit. **Di mana menginstal:** di rumah, sebelum terbang. **Kapan aktif:** otomatis saat Anda terhubung ke jaringan Kanada.
+**Waktu yang dibutuhkan:** 15 menit. **Tempat pemasangan:** di rumah, sebelum Anda terbang. **Kapan aktivasi:** otomatis saat Anda terhubung ke jaringan Kanada.
 
-**Ingin menguji sebelum berkomitmen?** Ambil [uji coba eSIM gratis](/free-esim/) atau [paket eSIM Kanada Roami](/canada-esim/) dari **$1.99** untuk menjalankan penyiapan dan cakupan sebelum perjalanan Anda. Pengguna baru mendapat **diskon 20%** dengan kode `web20`, dan **dukungan manusia 24/7** Roami siap jika penyiapan macet.
+**Ingin menguji sebelum memutuskan?** Ambil [uji coba eSIM gratis](/free-esim/) atau [paket eSIM Roami Kanada](/canada-esim/) mulai dari **$1.99** untuk menjalani pengaturan dan jangkauan sebelum perjalanan Anda. Pengguna baru mendapatkan **diskon 20%** dengan kode `web20`, dan **dukungan 24/7 oleh manusia** dari Roami siap membantu jika pengaturan terhenti.
 
-Panduan ini mencakup setiap langkah, setiap kesalahan umum, dan setiap perbaikan. Untuk harga penyedia, lihat [database perbandingan eSIM Kanada lengkap](/blog/canada-esim-comparison-2026/) kami. Untuk kompatibilitas perangkat, lihat [panduan kompatibilitas ponsel](/blog/esim-compatible-phones-canada-guide/) kami.
+Panduan ini mencakup setiap langkah, setiap kesalahan umum, dan setiap perbaikan. Untuk harga penyedia, lihat [basis data perbandingan eSIM Kanada lengkap](/blog/canada-esim-comparison-2026/) kami. Untuk kompatibilitas perangkat, lihat [pemeriksa kompatibilitas](/compatibility/) kami.
 
 ## Kompatibilitas dan Persiapan eSIM Kanada
 
-Sebelum membeli paket eSIM Kanada apa pun, konfirmasi ponsel Anda mendukung eSIM dan tidak terkunci operator. Bagian ini menunjukkan pemeriksaan tercepat, jalur pengaturan untuk merek utama, dan langkah persiapan yang mencegah sebagian besar masalah instalasi nanti.
+Sebelum membeli paket eSIM Kanada apa pun, pastikan ponsel Anda mendukung eSIM dan tidak terkunci operator. Bagian ini menunjukkan pemeriksaan tercepat, jalur pengaturan untuk merek-merek utama, dan langkah persiapan yang mencegah sebagian besar masalah pemasangan di kemudian hari.
 
 ### Kompatibilitas eSIM Kanada: Pemeriksaan EID 30 Detik
 
-Sebelum membeli paket apa pun, konfirmasi ponsel Anda mendukung eSIM. Metode tercepat bekerja pada iPhone dan Android:
+Sebelum membeli paket apa pun, pastikan ponsel Anda dapat menampung profil SIM yang diunduh. Menekan **`*#06#`** adalah pemeriksaan tercepat di ponsel mana pun: di antara identifier yang muncul, cari **EID** — Identifier eSIM 32 digit. Jika ada, Anda siap memasang; layar yang hanya menampilkan nomor IMEI berarti tidak ada perangkat keras SIM tertanam.
 
-1. Buka **dialer**.
-2. Ketik **`*#06#`**.
-3. Cari **EID** (eSIM Identifier), kode 32 digit.
+Pemeriksaan berbasis menu — baris "Available SIM" di bagian About pada iPhone, SIM Manager milik Samsung, layar "Download a SIM instead?" milik Pixel — dikatalogkan dalam [panduan kompatibilitas ponsel](/blog/esim-compatible-phones-canada-guide/) kami, bersama daftar lengkap 40+ perangkat dan catatan versi regional.
 
-**Jika Anda melihat EID:** ponsel Anda memiliki perangkat keras eSIM.  
-**Jika Anda hanya melihat IMEI:** ponsel Anda tidak mendukung eSIM.
+eSIM adalah standar yang didefinisikan oleh [GSMA](https://www.gsma.com/esim/), dan EID 32 digit adalah identifier yang digunakan perangkat Anda saat mendaftarkan profil.
 
-**Apa yang harus dicari:** Di iPhone, EID muncul di bawah IMEI. Di Samsung, mungkin muncul sebagai "EID" atau "eSIM ID." Jika Anda hanya melihat dua nomor IMEI (IMEI1 dan IMEI2), ponsel Anda tidak memiliki perangkat keras eSIM.
+Lebih suka tidak menekan kode? Aplikasi Pengaturan memberi tahu cerita yang sama, meskipun jalur menunya berbeda per merek — [pemeriksa kompatibilitas perangkat](/compatibility/) kami mencantumkan semuanya. Satu jebakan regional penting bagi pengunjung dari Asia: iPhone yang dijual di Tiongkok daratan dan Hong Kong tidak memiliki perangkat keras eSIM, dengan hanya segelintir model yang lebih baru (iPhone 17e, iPhone Air, iPhone 18 Pro/Pro Max) yang dijual di Tiongkok daratan sebagai pengecualian.
 
-Untuk daftar perangkat lengkap berdasarkan merek dan wilayah, lihat [panduan kompatibilitas ponsel](/blog/esim-compatible-phones-canada-guide/) kami.
+### Pemeriksaan Carrier-Unlock eSIM Kanada
 
-eSIM adalah standar yang ditentukan [GSMA](https://www.gsma.com/esim/), dan EID 32 digit adalah pengenal yang digunakan perangkat Anda untuk mendaftarkan profil eSIM.
+Kunci operator memblokir setiap profil wisata dari dipasang, jadi verifikasi sebelum checkout. iPhone menandai status kunci di **Settings → General → About**; Android menyembunyikannya di **About Phone → Status**. Aturan Kanada berpihak pada pelancong: CRTC Wireless Code mewajibkan Bell, Rogers, Telus, dan Freedom Mobile membuka kunci perangkat tanpa biaya — lihat [CRTC Wireless Code](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
 
-### Pemeriksaan Pengaturan eSIM Cepat berdasarkan Merek
+**Tips pro:** Jika Anda membeli Samsung bekas dari operator Kanada, eSIM mungkin dinonaktifkan secara bawaan. Periksa dengan operator sebelum membeli. Lihat [catatan kompatibilitas](/compatibility/) kami untuk langkah penghapusan kunci operator.
 
-Jika Anda lebih suka tidak menekan tombol, gunakan aplikasi Pengaturan:
+### Bersiap untuk Pengaturan eSIM
 
-- **iPhone:** Pengaturan → Umum → Tentang → cari "SIM Tersedia" atau "Kunci Operator."
-- **Samsung:** Pengaturan → Koneksi → Manajer SIM → cari "Tambahkan eSIM."
-- **Google Pixel:** Pengaturan → Jaringan & Internet → SIM → cari "Unduh SIM sebagai gantinya?"
-- **Merek Android lainnya:** cari "eSIM" di Pengaturan.
-
-Jika Anda melihat opsi tersebut, ponsel Anda mendukung eSIM. Jika tidak, periksa catatan regional di [database kompatibilitas perangkat](/blog/esim-compatible-phones-canada-guide/) kami.
-
-**Penting:** iPhone yang dijual di China daratan dan Hong Kong tidak mendukung eSIM. Satu-satunya pengecualian di China daratan adalah iPhone 17e dan iPhone Air. Untuk detail, lihat [panduan perangkat](/blog/esim-compatible-phones-canada-guide/) kami.
-
-### Pemeriksaan Pembukaan Kunci Operator eSIM Kanada
-
-Bahkan jika ponsel Anda mendukung eSIM, ponsel harus tidak terkunci operator.
-
-- **iPhone:** Pengaturan → Umum → Tentang → **Kunci Operator** harus bertuliskan "Tanpa batasan SIM."
-- **Android:** Pengaturan → Tentang Ponsel → Status → periksa status jaringan/SIM.
-
-Di Kanada, CRTC mengharuskan Bell, Rogers, Telus, dan Freedom Mobile untuk membuka kunci perangkat secara gratis. Lihat [Wireless Code CRTC](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
-
-**Tips pro:** Jika Anda membeli Samsung bekas dari operator Kanada, eSIM mungkin dinonaktifkan secara default. Periksa dengan operator sebelum membeli. Lihat [panduan perangkat](/blog/esim-compatible-phones-canada-guide/) kami untuk langkah penghapusan kunci operator.
-
-### Persiapan Penyiapan eSIM
-
-Menginstal eSIM memerlukan koneksi internet. **Lakukan ini di rumah sebelum keberangkatan.** Wi-Fi bandara sering lambat dan tidak stabil. Jika Anda menunggu sampai mendarat, Anda mungkin kesulitan menginstal.
+Memasang eSIM memerlukan koneksi internet. **Lakukan ini di rumah sebelum keberangkatan.** Wi-Fi bandara sering lambat dan tidak stabil. Jika Anda menunggu sampai mendarat, Anda mungkin kesulitan memasang.
 
 Sebelum memulai, pastikan:
 
 - **Wi-Fi:** Wi-Fi rumah yang stabil. Jangan gunakan Wi-Fi publik.
-- **Daya:** Baterai ponsel di atas 50%, atau terhubung ke listrik.
-- **Penyimpanan:** Setidaknya 1GB ruang kosong.
-- **QR code:** Tersimpan dan dapat diakses.
+- **Daya:** Baterai ponsel di atas 50%, atau sedang diisi.
+- **Penyimpanan:** Setidaknya ruang kosong 1GB.
+- **Kode QR:** Tersimpan dan dapat diakses.
 - **Kode aktivasi manual:** Tersimpan sebagai cadangan.
 
-**Laporan pengguna umum:** Wisatawan melaporkan mendarat di Toronto Pearson dan mencoba menginstal eSIM mereka di Wi-Fi bandara, hanya untuk menemukan Wi-Fi memerlukan nomor telepon Kanada untuk verifikasi. Beberapa menghabiskan 40 menit di bandara sebelum menemukan jaringan terbuka di kafe.
+**Laporan pengguna umum:** Pelancong telah melaporkan mendarat di Toronto Pearson dan mencoba memasang eSIM di Wi-Fi bandara, hanya untuk menemukan bahwa Wi-Fi memerlukan nomor telepon Kanada untuk verifikasi. Beberapa menghabiskan 40 menit di bandara sebelum menemukan jaringan terbuka di sebuah kafe.
 
-### Apa yang Anda Butuhkan Sebelum Penyiapan eSIM
+### Apa yang Anda Butuhkan Sebelum Pengaturan eSIM
 
 - Ponsel Anda (kompatibel dan tidak terkunci)
 - Koneksi Wi-Fi yang stabil
 - Metode pembayaran (kartu kredit, PayPal, Apple Pay, Google Pay)
-- QR code penyedia Anda atau kode aktivasi manual
-- Waktu 10–15 menit
+- Kode QR atau kode aktivasi manual dari penyedia Anda
+- 10–15 menit waktu
 
 ## Membeli Paket eSIM Kanada yang Tepat
 
-Membeli paket yang tepat sebagian besar tentang mencocokkan data, validitas, cakupan, dan apakah Anda memerlukan nomor telepon Kanada. Harga berubah setiap bulan, jadi gunakan database perbandingan daripada mengandalkan halaman landing satu penyedia.
+Membeli paket yang tepat sebagian besar tentang mencocokkan data, masa berlaku, jangkauan, dan apakah Anda membutuhkan nomor telepon Kanada. Harga berubah bulanan, jadi gunakan basis data perbandingan daripada mengandalkan halaman landas satu penyedia.
 
 ### Di Mana Membeli eSIM Kanada
 
 **Direkomendasikan:** situs web atau aplikasi penyedia.  
 **Juga tersedia:** platform perjalanan pihak ketiga seperti Trip.com, Klook, dan KKday.  
-**Operator lokal:** Bell, Rogers, Telus, dan Freedom Mobile biasanya memerlukan alamat Kanada atau kunjungan ke toko, yang tidak ideal untuk perjalanan singkat. [Paket eSIM Kanada](/canada-esim/) Roami mulai dari **$1.99** dengan **dukungan manusia 24/7** dan **diskon 20% pengguna baru** jika Anda lebih suka pembelian online yang lebih sederhana.
+**Operator lokal:** Bell, Rogers, Telus, dan Freedom Mobile biasanya memerlukan alamat Kanada atau kunjungan ke toko, yang tidak ideal untuk perjalanan singkat. [Paket eSIM Kanada](/canada-esim/) Roami mulai dari **$1.99** dengan **dukungan 24/7 oleh manusia** dan **diskon pengguna baru 20%** jika Anda lebih suka pembelian online yang lebih sederhana.
 
-Untuk perbandingan harga penyedia dan jaringan lengkap, lihat [database perbandingan eSIM Kanada](/blog/canada-esim-comparison-2026/) kami. Kami tidak mencantumkan penyedia tertentu di sini karena harga berubah setiap bulan.
+Untuk perbandingan harga dan jaringan penyedia lengkap, lihat [basis data perbandingan eSIM Kanada](/blog/canada-esim-comparison-2026/) kami. Kami tidak mencantumkan penyedia spesifik di sini karena harga berubah bulanan.
 
-### Pilih Data eSIM Kanada berdasarkan Durasi Perjalanan
+### Pilih Data eSIM Kanada Berdasarkan Lama Perjalanan
 
-| Durasi Perjalanan | Data yang Direkomendasikan | Catatan |
+| Lama Perjalanan | Data yang Disarankan | Catatan |
 |-------------|------------------|-------|
 | 1–3 hari | 1–3GB | Navigasi dan pesan ringan |
-| 4–7 hari | 3–5GB | Penggunaan sedang; unlimited jika berat |
+| 4–7 hari | 3–5GB | Pemakaian sedang; unlimited jika berat |
 | 1–2 minggu | 5–10GB | Atau unlimited untuk kerja jarak jauh |
 | 2+ minggu | 10GB+ atau unlimited | Unlimited sering hemat biaya |
 
-**Perkiraan penggunaan nyata:**
+**Perkiraan pemakaian nyata:**
 - Navigasi + pesan: 100–300MB/hari
 - Sosial + musik: 300MB–1GB/hari
 - Video + hotspot: 1GB+/hari
 
-**Buffer data:** Selalu beli 20–50% lebih banyak dari yang Anda pikir Anda butuhkan. Wi-Fi jalan raya tidak andal. Jika Anda kehabisan di daerah terpencil, Anda tidak dapat mengisi ulang dengan mudah.
+**Penyangga data:** Selalu beli 20–50% lebih dari perkiraan Anda. Wi-Fi jalan raya tidak andal. Jika Anda kehabisan di daerah terpencil, Anda tidak bisa mengisi ulang dengan mudah.
 
 Jika Anda membutuhkan nomor telepon Kanada untuk kode bank atau Uber, lihat [panduan eSIM dengan nomor telepon](/blog/canada-esim-with-phone-number-guide/) kami.
 
-### Instalasi eSIM vs Aktivasi
+### Pemasangan eSIM vs Aktivasi
 
-Di sinilah sebagian besar pengguna pertama kali bingung.
+Di sinilah sebagian besar pengguna baru kebingungan.
 
-**Instalasi:** Mengunduh profil eSIM ke ponsel Anda. Memerlukan Wi-Fi. Dapat dilakukan sebelum keberangkatan. eSIM muncul di daftar seluler Anda tetapi **tidak terhubung, tidak menggunakan data, dan tidak memulai jam validitas**.
+**Pemasangan:** Mengunduh profil ke ponsel Anda. Memerlukan Wi-Fi. Bisa dilakukan sebelum keberangkatan. eSIM muncul di daftar seluler Anda tetapi **tidak terhubung, tidak menggunakan data, dan tidak memulai jam masa berlaku**.
 
-**Aktivasi:** Secara otomatis terpicu saat eSIM pertama kali terhubung ke jaringan Kanada. Periode validitas dimulai, dan penggunaan data mulai dihitung.
+**Aktivasi:** Terpicu otomatis ketika eSIM pertama kali terhubung ke jaringan Kanada. Masa berlaku dimulai, dan pemakaian data mulai dihitung.
 
-**Apa artinya ini:** Anda dapat menginstal satu atau dua minggu lebih awal tanpa membuang validitas. Sebagian besar eSIM perjalanan aktif pada koneksi jaringan pertama. Beberapa penyedia memerlukan instalasi hanya setelah tiba—**baca kebijakan aktivasi sebelum membeli**.
+**Arti hal ini:** Anda dapat memasang satu atau dua minggu lebih awal tanpa membuang masa berlaku. Sebagian besar eSIM wisata teraktivasi pada koneksi jaringan pertama. Beberapa penyedia memerlukan pemasangan hanya setelah kedatangan—**baca kebijakan aktivasi sebelum membeli**.
 
-**Laporan pengguna umum:** Seorang wisatawan menginstal eSIM mereka di London dua minggu sebelum terbang ke Vancouver. Paket berlaku 30 hari dari aktivasi. Mereka mendarat, menyalakan roaming data, dan jam 30 hari hanya dimulai saat ponsel terhubung ke Bell. Mereka menghemat 14 hari validitas.
+**Laporan pengguna umum:** Seorang pelancong memasang eSIM-nya di London dua minggu sebelum terbang ke Vancouver. Paketnya berlaku 30 hari sejak aktivasi. Ia mendarat, menyalakan data roaming, dan jam 30 hari itu baru dimulai saat ponselnya terhubung ke Bell. Ia menghemat 14 hari masa berlaku.
 
-Untuk kebijakan aktivasi spesifik penyedia, lihat [database perbandingan](/blog/canada-esim-comparison-2026/) kami.
+Untuk kebijakan aktivasi spesifik per penyedia, lihat [basis data perbandingan](/blog/canada-esim-comparison-2026/) kami.
 
 ### Apa yang Anda Terima Setelah Membeli eSIM
 
-- **QR code** untuk instalasi (paling penting)
+- **Kode QR** untuk pemasangan (paling penting)
 - **Kode aktivasi manual** (cadangan)
-- **Instruksi instalasi**
-- **Detail paket** (data, validitas)
+- **Petunjuk pemasangan**
+- **Detail paket** (data, masa berlaku)
 
-Periksa spam jika Anda tidak melihat email dalam beberapa menit. Beberapa penyedia juga menampilkan QR code di aplikasi mereka.
+Periksa folder spam jika Anda tidak melihat email dalam beberapa menit. Beberapa penyedia juga menampilkan kode QR di aplikasi mereka.
 
 ### Alur Pembelian eSIM Kanada
 
 1. Buka situs web atau aplikasi penyedia.
 2. Pilih **Kanada** sebagai tujuan.
-3. Pilih paket berdasarkan jumlah data dan validitas.
+3. Pilih paket berdasarkan jumlah data dan masa berlaku.
 4. Bayar dengan kartu kredit, PayPal, Apple Pay, atau Google Pay.
-5. Terima QR code melalui email (dan sering di aplikasi).
-6. Simpan QR code dan kode aktivasi manual.
+5. Terima kode QR via email (dan sering juga di aplikasi).
+6. Simpan kode QR dan kode aktivasi manual.
 
-**Tips pro:** Ambil tangkapan layar QR code dan simpan di album foto ponsel dan penyimpanan cloud. Jika Anda tidak sengaja menghapus email, Anda masih memiliki kode. Juga simpan kode aktivasi manual—ini mencakup alamat SM-DP+ dan kode aktivasi.
+**Tips pro:** Ambil tangkapan layar kode QR dan simpan di album foto ponsel serta penyimpanan cloud. Jika Anda menghapus email secara tidak sengaja, Anda masih memiliki kodenya. Simpan juga kode aktivasi manual—kode itu berisi alamat SM-DP+ dan kode aktivasi.
 
 ### Hindari Paket eSIM Kanada yang Salah
 
 **Kesalahan umum:**
-- Membeli paket data-saja saat Anda membutuhkan nomor telepon Kanada untuk SMS bank.
-- Membeli paket satu negara saat Anda menyeberang ke AS.
-- Membeli eSIM hanya Rogers saat perjalanan Anda mencakup Banff atau Rockies.
-- Membeli terlalu sedikit data untuk perjalanan jalan raya.
+- Membeli paket khusus data saat Anda membutuhkan nomor telepon Kanada untuk SMS bank.
+- Membeli paket satu negara saat Anda melintasi perbatasan ke AS.
+- Membeli eSIM yang hanya pakai Rogers saat perjalanan Anda mencakup Banff atau Rockies.
+- Membeli terlalu sedikit data untuk road trip.
 
 **Daftar periksa keputusan:**
-1. Apakah Anda memerlukan nomor telepon Kanada? Jika ya, lihat [opsi eSIM Kanada bernomor](/blog/canada-esim-with-phone-number-guide/) kami.
-2. Apakah Anda akan menyeberang ke AS? Jika ya, lihat [panduan eSIM lintas batas](/blog/usa-and-canada-esim-guide/) kami.
-3. Apakah Anda akan mengunjungi Banff, Jasper, atau Rockies? Jika ya, pilih Bell/Telus. Lihat [panduan cakupan jaringan](/blog/canada-esim-coverage-guide/) kami.
-4. Berapa lama perjalanan Anda? Cocokkan data dengan durasi perjalanan (lihat tabel perencanaan data di atas).
+1. Apakah Anda membutuhkan nomor telepon Kanada? Jika ya, lihat [opsi eSIM Kanada bernomor](/blog/canada-esim-with-phone-number-guide/) kami.
+2. Apakah Anda akan melintasi perbatasan ke AS? Jika ya, lihat [panduan eSIM lintas batas](/blog/usa-and-canada-esim-guide/) kami.
+3. Apakah Anda akan mengunjungi Banff, Jasper, atau Rockies? Jika ya, pilih Bell/Telus. Lihat [panduan jangkauan jaringan](/blog/canada-esim-coverage-guide/) kami.
+4. Berapa lama perjalanan Anda? Cocokkan data dengan lama perjalanan (lihat tabel perencanaan data di atas). Tinggal sebulan atau lebih? [Panduan eSIM tinggal lama](/blog/best-canada-esim-for-travelers/) membandingkan opsi bulanan.
 
-## Instal eSIM di iPhone: Langkah demi Langkah
+## Pasang eSIM di iPhone: Langkah demi Langkah
 
-Proses penyiapan eSIM iPhone serupa di iOS 16 dan yang lebih baru. Langkah-langkah di bawah ini sesuai dengan jalur menu Apple standar untuk menambahkan eSIM perjalanan.
+Proses pengaturan eSIM iPhone serupa di iOS 16 dan lebih baru. Langkah-langkah di bawah mengikuti jalur menu standar Apple untuk menambahkan eSIM wisata.
 
-### Instalasi QR eSIM Standar (iOS 16+)
+### Pemasangan QR eSIM Standar (iOS 16+)
 
-1. Buka **Pengaturan**.
-2. Ketuk **Seluler** (atau Data Seluler).
-3. Ketuk **Tambahkan eSIM**.
-4. Pilih **Gunakan QR Code**.
-5. Pindai QR code dari email penyedia Anda.
-6. Beri nama eSIM (mis. "Kanada Perjalanan").
-7. Konfirmasi instalasi.
+1. Buka **Settings**.
+2. Ketuk **Cellular** (atau Mobile Data).
+3. Ketuk **Add eSIM**.
+4. Pilih **Use QR Code**.
+5. Pindai kode QR dari email penyedia Anda.
+6. Beri nama eSIM (misalnya, "Canada Travel").
+7. Konfirmasi pemasangan.
 
-**Apa yang akan Anda lihat:** Setelah memindai, iPhone mengunduh profil eSIM. Ini memakan waktu 10–30 detik. Anda akan melihat "eSIM Ditambahkan" atau serupa.
+**Yang akan Anda lihat:** Setelah memindai, iPhone mengunduh profil. Ini memakan waktu 10–30 detik. Anda akan melihat "eSIM Added" atau serupa.
 
-**Apa yang ditampilkan layar:** Layar "Tambahkan eSIM" menampilkan opsi: "Gunakan QR Code," "Transfer dari iPhone Terdekat," dan "Masukkan Detail Secara Manual." Pilih "Gunakan QR Code." Setelah memindai, iOS menampilkan spinner progres, lalu "eSIM Ditambahkan."
+**Yang ditampilkan layar:** Layar "Add eSIM" menampilkan opsi: "Use QR Code," "Transfer from Nearby iPhone," dan "Enter Details Manually." Pilih "Use QR Code." Setelah memindai, iOS menampilkan spinner progres, lalu "eSIM Added".
 
-### Instalasi eSIM Otomatis (Beberapa Operator)
+### Pemasangan eSIM Otomatis (Beberapa Operator)
 
-Jika Anda melihat **"Paket Seluler Operator Siap Dipasang"** di Pengaturan, ketuk dan ikuti petunjuk. Ini berlaku untuk beberapa model iPhone 17 dan yang lebih baru, dan beberapa eSIM operator.
+Jika Anda melihat **"Carrier Cellular Plan Ready to Be Installed"** di Settings, ketuk dan ikuti petunjuknya. Ini berlaku untuk beberapa model iPhone 17 dan lebih baru, serta beberapa eSIM operator.
 
-**Penting:** Ini tidak sama dengan instalasi eSIM perjalanan. eSIM perjalanan hampir selalu menggunakan QR code atau aktivasi manual.
+**Penting:** Ini tidak sama dengan pemasangan eSIM wisata. eSIM wisata hampir selalu menggunakan kode QR atau aktivasi manual.
 
-### Kode Aktivasi eSIM Manual
+### Kode Aktivasi Manual eSIM
 
-1. Pengaturan → Seluler → Tambahkan eSIM.
-2. Pilih **Masukkan Detail Secara Manual**.
+1. Settings → Cellular → Add eSIM.
+2. Pilih **Enter Details Manually**.
 3. Masukkan alamat SM-DP+ dan kode aktivasi dari email Anda.
 4. Ikuti petunjuk.
 
-**Apa yang akan Anda lihat:** iOS meminta "Alamat SM-DP+" dan "Kode Aktivasi." Ini ada di email penyedia Anda. Salin dan tempel dengan hati-hati.
+**Yang akan Anda lihat:** iOS meminta "SM-DP+ Address" dan "Activation Code." Keduanya ada di email penyedia Anda. Salin dan tempel dengan hati-hati.
 
-### Pemeriksaan eSIM Setelah Instalasi
+### Pemeriksaan eSIM Pasca-Pemasangan
 
-- Pengaturan → Seluler → konfirmasi eSIM baru muncul.
-- Konfirmasi **"Nyalakan Jalur Ini"** diaktifkan.
-- **Jangan nyalakan roaming data dulu**—tunggu sampai Anda tiba di Kanada.
+- Settings → Cellular → pastikan eSIM baru muncul.
+- Pastikan **"Turn on This Line"** diaktifkan.
+- **Jangan nyalakan data roaming dulu**—tunggu sampai Anda tiba di Kanada.
 
-**Apa yang ditampilkan layar:** eSIM muncul di bawah "Paket Seluler" dengan nama yang Anda berikan. "Nyalakan Jalur Ini" diaktifkan. "Roaming Data" dinonaktifkan.
+**Yang ditampilkan layar:** eSIM muncul di bawah "Cellular Plans" dengan nama yang Anda berikan. "Turn on This Line" diaktifkan. "Data Roaming" dimatikan.
+
+**Catatan penyimpanan:** iPhone yang lebih baru dapat menyimpan delapan atau lebih profil eSIM sekaligus (dua aktif bersamaan), jadi tidak perlu menghapus profil wisata lama sebelum menambahkan profil Kanada. Biarkan profil yang tidak digunakan dimatikan alih-alih dihapus — setelah profil dihapus, biasanya tidak dapat diunduh ulang tanpa membeli paketnya lagi.
 
 ### Perbedaan Versi iOS untuk eSIM
 
 | Versi iOS | Jalur | Catatan |
 |-------------|------|-------|
-| iOS 16 | Pengaturan → Seluler → Tambahkan eSIM | Standar |
-| iOS 17 | Pengaturan → Seluler → Tambahkan eSIM | Sama |
-| iOS 18 | Pengaturan → Seluler → Tambahkan eSIM | Sama, tetapi "SIM Tersedia" di Tentang menampilkan lebih detail |
-| iOS 19 (masa depan) | Pengaturan → Seluler → Tambahkan eSIM | Periksa dokumentasi Apple |
+| iOS 16 | Settings → Cellular → Add eSIM | Standar |
+| iOS 17 | Settings → Cellular → Add eSIM | Sama |
+| iOS 18 | Settings → Cellular → Add eSIM | Sama, tetapi "Available SIM" di About menampilkan detail lebih |
+| iOS 19 (mendatang) | Settings → Cellular → Add eSIM | Periksa dokumentasi Apple |
 
-**Tips pro:** Jika Anda tidak dapat menemukan "Tambahkan eSIM," cari "eSIM" di Pengaturan. Pencarian iOS akan menemukannya.
+**Tips pro:** Jika Anda tidak dapat menemukan "Add eSIM," cari "eSIM" di Settings. Pencarian iOS akan menemukannya.
 
-### iPhone Hanya eSIM 14 atau Lebih Baru (AS)
+### iPhone 14 atau Lebih Baru Hanya eSIM (AS)
 
-Versi AS iPhone 14, 15, 16, dan 17 mungkin hanya eSIM (tanpa baki SIM fisik). Jika Anda memiliki iPhone AS, Anda tidak dapat menggunakan SIM Kanada fisik. Anda harus menggunakan eSIM. Panduan ini masih berlaku. Untuk model iPhone Kanada, sebagian besar mempertahankan baki SIM fisik, sehingga Anda dapat menggunakan SIM fisik dan eSIM. Periksa model Anda di [panduan kompatibilitas perangkat](/blog/esim-compatible-phones-canada-guide/) kami.
+Versi AS dari iPhone 14, 15, 16, dan 17 mungkin hanya eSIM (tanpa baki SIM fisik). Jika Anda memiliki iPhone AS, Anda tidak dapat menggunakan SIM fisik Kanada. Anda harus menggunakan eSIM. Panduan ini tetap berlaku. Untuk model iPhone Kanada, sebagian besar masih memiliki baki SIM fisik, sehingga Anda dapat menggunakan SIM fisik dan eSIM sekaligus. Periksa model Anda di [panduan kompatibilitas perangkat](/compatibility/) kami, dan lihat [dokumentasi Dual SIM Apple](https://support.apple.com/en-us/109317) untuk gambaran lengkap.
 
-## Instal eSIM di Android: Langkah demi Langkah
+## Pasang eSIM di Android: Langkah demi Langkah
 
-Instalasi eSIM Android bervariasi menurut merek, tetapi langkah intinya serupa. Samsung, Google, dan produsen lain menggunakan nama menu yang sedikit berbeda, jadi gunakan jalur di bawah ini sebagai panduan.
+Pemasangan eSIM Android bervariasi per merek, tetapi langkah intinya serupa. Samsung, Google, dan produsen lain menggunakan nama menu yang sedikit berbeda, jadi gunakan jalur di bawah sebagai panduan.
 
-### Instal eSIM di Samsung Galaxy
+### Pasang eSIM di Samsung Galaxy
 
-1. **Pengaturan → Koneksi → Manajer SIM**.
-2. Ketuk **Tambahkan eSIM**.
-3. Pilih **Pindai QR code**.
-4. Pindai QR code.
-5. Ikuti petunjuk untuk mengunduh dan mengaktifkan.
+1. **Settings → Connections → SIM Manager**.
+2. Ketuk **Add eSIM**.
+3. Pilih **Scan QR code**.
+4. Pindai kode QR.
+5. Ikuti petunjuk untuk mengunduh dan mengaktivasi.
 
-**Apa yang akan Anda lihat:** Samsung menampilkan "Mengunduh SIM" lalu "SIM ditambahkan." eSIM muncul di Manajer SIM.
+**Yang akan Anda lihat:** Samsung menampilkan "Downloading SIM" lalu "SIM added." eSIM muncul di SIM Manager.
 
-**Apa yang ditampilkan layar:** Pada One UI 6, "Tambahkan eSIM" ada di bagian bawah Manajer SIM. Setelah memindai, bilah progres muncul, lalu "SIM ditambahkan."
+**Yang ditampilkan layar:** Di One UI 6, "Add eSIM" berada di bagian bawah SIM Manager. Setelah memindai, bilah progres muncul, lalu "SIM added".
 
-### Instal eSIM di Google Pixel
+### Pasang eSIM di Google Pixel
 
-1. **Pengaturan → Jaringan & Internet → SIM**.
-2. Ketuk **Tambahkan eSIM** (atau Unduh SIM).
-3. Pindai QR code atau masukkan kode aktivasi secara manual.
+1. **Settings → Network & Internet → SIMs**.
+2. Ketuk **Add eSIM** (atau Download SIM).
+3. Pindai kode QR atau masukkan kode aktivasi secara manual.
 4. Ikuti petunjuk.
 
-**Apa yang akan Anda lihat:** Pixel menampilkan "Mengunduh SIM" lalu "SIM ditambahkan." eSIM muncul di bawah SIM.
+**Yang akan Anda lihat:** Pixel menampilkan "Downloading SIM" lalu "SIM added." eSIM muncul di bawah SIMs.
 
-### Instal eSIM di Merek Android Lainnya
+### Pasang eSIM di Merek Android Lain
 
-- Temukan pengaturan **Jaringan/Koneksi**.
-- Temukan **Manajer SIM** atau **Jaringan Seluler**.
-- Pilih **Tambahkan eSIM** atau **Unduh SIM**.
+- Temukan pengaturan **Network/Connection**.
+- Temukan **SIM Manager** atau **Mobile Network**.
+- Pilih **Add eSIM** atau **Download SIM**.
 - Pindai QR atau masukkan kode aktivasi.
 
-**Tips:** cari "eSIM" di Pengaturan jika Anda tidak dapat menemukan jalurnya.
+**Tips:** cari "eSIM" di Settings jika Anda tidak menemukan jalurnya.
 
-**Catatan khusus merek:**
-- **OnePlus:** Pengaturan → Wi-Fi & Jaringan → SIM & Jaringan → Tambahkan eSIM.
-- **Xiaomi:** Pengaturan → Koneksi & Berbagi → Kartu SIM → Tambahkan eSIM.
-- **OPPO:** Pengaturan → Kartu SIM & Data Seluler → Tambahkan eSIM.
-- **Motorola:** Pengaturan → Jaringan & Internet → SIM → Tambahkan eSIM.
+**Catatan spesifik merek:**
+- **OnePlus:** Settings → Wi-Fi & Network → SIM & Network → Add eSIM.
+- **Xiaomi:** Settings → Connection & Sharing → SIM Cards → Add eSIM.
+- **OPPO:** Settings → SIM Card & Mobile Data → Add eSIM.
+- **Motorola:** Settings → Network & Internet → SIMs → Add eSIM.
 
-### Pemeriksaan eSIM Android Setelah Instalasi
+### Pemeriksaan eSIM Android Pasca-Pemasangan
 
-- Konfirmasi eSIM muncul di Manajer SIM.
-- Konfirmasi eSIM diaktifkan.
-- Jangan aktifkan roaming data sampai Anda tiba di Kanada.
+- Pastikan eSIM muncul di SIM Manager.
+- Pastikan eSIM diaktifkan.
+- Jangan aktifkan data roaming sampai Anda tiba di Kanada.
 
 ### Perbedaan Versi Android untuk eSIM
 
 | Versi Android | Jalur | Catatan |
 |-----------------|------|-------|
-| Android 13 | Pengaturan → Jaringan & Internet → SIM | Standar |
-| Android 14 | Pengaturan → Jaringan & Internet → SIM | Sama |
-| Android 15 | Pengaturan → Jaringan & Internet → SIM | Sama, tetapi beberapa merek memindahkannya |
-| Android 16 (masa depan) | Pengaturan → Jaringan & Internet → SIM | Periksa produsen |
+| Android 13 | Settings → Network & Internet → SIMs | Standar |
+| Android 14 | Settings → Network & Internet → SIMs | Sama |
+| Android 15 | Settings → Network & Internet → SIMs | Sama, tetapi beberapa merek memindahkannya |
+| Android 16 (mendatang) | Settings → Network & Internet → SIMs | Periksa produsen |
 
 ## Aktivasi eSIM Anda di Kanada
 
-Aktivasi dimulai saat eSIM Anda pertama kali terhubung ke jaringan Kanada. Dalam sebagian besar kasus, ini terjadi secara otomatis setelah Anda mendarat dan mengaktifkan roaming data. Kuncinya adalah mengatur opsi dual-SIM Anda dengan benar agar Anda tidak memicu biaya roaming yang mahal pada SIM rumah Anda.
+Aktivasi dimulai saat eSIM Anda pertama kali terhubung ke jaringan Kanada. Dalam kebanyakan kasus, ini terjadi otomatis setelah Anda mendarat dan mengaktifkan data roaming. Kuncinya adalah mengatur opsi dual-SIM Anda dengan benar agar Anda tidak memicu biaya roaming mahal pada SIM negara asal Anda.
 
 ### Aktivasi eSIM Kanada Setelah Mendarat
 
-1. **Nyalakan Roaming Data**
-   - iPhone: Pengaturan → Seluler → ketuk eSIM → nyalakan Roaming Data.
-   - Android: Pengaturan → Jaringan & Internet → ketuk eSIM → nyalakan Roaming Data.
+1. **Nyalakan Data Roaming**
+   - iPhone: Settings → Cellular → ketuk eSIM → nyalakan Data Roaming.
+   - Android: Settings → Network & Internet → ketuk eSIM → nyalakan Data Roaming.
 
-2. **Atur Jalur Data Default**
-   - iPhone: Pengaturan → Seluler → Data Seluler → pilih eSIM Kanada.
-   - Android: Pengaturan → Jaringan & Internet → SIM → pilih eSIM Kanada.
+2. **Atur Jalur Data Bawaan**
+   - iPhone: Settings → Cellular → Cellular Data → pilih eSIM Kanada.
+   - Android: Settings → Network & Internet → SIMs → pilih eSIM Kanada.
 
 3. **Pertahankan Nomor Asli untuk Suara**
-   - iPhone: Pengaturan → Seluler → Jalur Suara Default → pilih nomor asli.
-   - Android: Pengaturan → Jaringan & Internet → SIM → atur jalur suara.
+   - iPhone: Settings → Cellular → Default Voice Line → pilih nomor asli.
+   - Android: Settings → Network & Internet → SIMs → atur jalur suara.
 
 4. **Uji Koneksi**
-   - Buka browser atau aplikasi peta.
+   - Buka peramban atau aplikasi peta.
 
 **Waktu aktivasi:** Biasanya 1–5 menit setelah terhubung ke jaringan mitra Kanada. Jika tidak ada data setelah 5 menit, lihat bagian pemecahan masalah.
 
-**Apa yang ditampilkan layar:** Setelah menyalakan roaming data, nama operator muncul di bilah status (Bell, Rogers, atau Telus). Jalur eSIM menampilkan "Roaming Data: Aktif."
+**Yang ditampilkan layar:** Setelah menyalakan data roaming, nama operator muncul di bilah status (Bell, Rogers, atau Telus). Jalur eSIM menampilkan "Data Roaming: On".
 
 ### Pengaturan Dual-SIM eSIM yang Direkomendasikan
 
-| Pengaturan | Direkomendasikan | Alasan |
+| Pengaturan | Disarankan | Alasan |
 |---------|-------------|-----|
-| Jalur data default | eSIM Kanada | Hindari biaya roaming |
-| Jalur suara default | Nomor asli | Terima kode bank dan panggilan |
-| Roaming data pada nomor asli | Mati | Cegah biaya tak terduga |
-| Izinkan peralihan data seluler | Mati | Cegah peralihan data ke nomor asli |
+| Jalur data bawaan | eSIM Kanada | Hindari biaya roaming |
+| Jalur suara bawaan | Nomor asli | Menerima kode bank dan panggilan |
+| Data roaming pada nomor asli | Mati | Mencegah biaya tak disengaja |
+| Izinkan peralihan data seluler | Mati | Mencegah data beralih ke nomor asli |
 
-**Penting:** Jika Anda mengatur "Izinkan Peralihan Data Seluler" ke AKTIF, ponsel Anda mungkin beralih ke SIM rumah Anda saat eSIM Kanada memiliki sinyal lemah. Ini dapat memicu biaya roaming. Biarkan MATI.
+**Penting:** Jika Anda mengatur "Allow Cellular Data Switching" ke ON, ponsel Anda mungkin beralih ke SIM negara asal ketika eSIM Kanada sinyalnya lemah. Ini dapat memicu biaya roaming. Biarkan OFF.
 
 ### Wi-Fi Calling dengan eSIM
 
-Jika operator rumah Anda mendukung Wi-Fi Calling, Anda dapat melakukan panggilan pada nomor asli Anda melalui Wi-Fi tanpa biaya roaming. Aktifkan di Pengaturan → Telepon → Wi-Fi Calling. Paling baik bekerja pada Wi-Fi hotel atau kafe yang stabil.
+Jika operator negara asal Anda mendukung Wi-Fi Calling, Anda dapat melakukan panggilan pada nomor asli Anda melalui Wi-Fi tanpa biaya roaming. Aktifkan di Settings → Phone → Wi-Fi Calling. Berfungsi paling baik di Wi-Fi hotel atau kafe yang stabil.
 
-**Peringatan:** Kualitas Wi-Fi Calling tergantung pada Wi-Fi. Jika Wi-Fi lemah, panggilan mungkin terputus. Untuk panggilan penting, gunakan jalur suara eSIM Kanada jika tersedia.
+**Peringatan:** Kualitas Wi-Fi Calling bergantung pada Wi-Fi. Jika Wi-Fi lemah, panggilan bisa terputus. Untuk panggilan penting, gunakan jalur suara eSIM Kanada jika tersedia.
 
 ### Tips Hemat Data eSIM Kanada
 
 - Unduh peta offline di Wi-Fi (Google Maps, Apple Maps).
 - Matikan pembaruan aplikasi otomatis.
-- Cache video dan musik di Wi-Fi.
-- Periksa penggunaan data per aplikasi di Pengaturan.
-- Matikan refresh aplikasi latar belakang.
-- Gunakan WhatsApp/iMessage daripada panggilan video.
-- Gunakan mode pembaca browser untuk artikel.
-- Matikan putar otomatis untuk video di media sosial.
+- Simpan cache video dan musik di Wi-Fi.
+- Periksa pemakaian data per aplikasi di Settings.
+- Matikan pembaruan aplikasi latar belakang.
+- Gunakan WhatsApp/iMessage alih-alih panggilan video.
+- Gunakan mode baca peramban untuk artikel.
+- Matikan auto-play video di media sosial.
 
-**Anggaran data harian untuk wisatawan:**
+**Anggaran data harian untuk turis** ([panduan berfokus turis](/blog/best-canada-esim-for-tourists-guide/) memiliki gambaran perencanaan lengkap):
 - Navigasi: 100–200MB
 - Media sosial: 150–300MB
 - Streaming musik: 150–300MB
-- Unggahan foto: 50–100MB
+- Unggah foto: 50–100MB
 - Cuaca/aplikasi: 20–50MB
 - **Total hari ringan:** ~500MB–1GB
 - **Total hari berat:** 1–2GB+
 
 ### Uji Koneksi eSIM Kanada Anda
 
-Setelah aktivasi, jalankan pengujian ini:
+Setelah aktivasi, jalankan tes-tes berikut:
 
-1. **Buka situs web** — konfirmasi data berfungsi.
-2. **Buka Google Maps** — konfirmasi data navigasi berfungsi.
-3. **Kirim pesan WhatsApp** — konfirmasi pesan berfungsi.
-4. **Periksa operator jaringan** — Pengaturan → Seluler → harus menampilkan Bell/Rogers/Telus.
+1. **Buka situs web** — memastikan data berfungsi.
+2. **Buka Google Maps** — memastikan data navigasi berfungsi.
+3. **Kirim pesan WhatsApp** — memastikan pesan berfungsi.
+4. **Periksa operator jaringan** — Settings → Cellular → seharusnya menampilkan Bell/Rogers/Telus.
 5. **Jalankan tes kecepatan** — gunakan Speedtest.net atau Fast.com. Diharapkan: 20–150 Mbps di kota, 5–50 Mbps di daerah pedesaan.
 
-Jika ada pengujian yang gagal, lanjutkan ke pemecahan masalah.
+Jika ada tes yang gagal, lanjutkan ke pemecahan masalah.
 
 ### eSIM Kanada Tidak Terhubung
 
 1. **Tunggu 2–3 menit.** Ponsel membutuhkan waktu untuk mendaftar di jaringan Kanada.
-2. **Alihkan Mode Pesawat** selama 30 detik.
-3. **Pilih jaringan secara manual:** Pengaturan → Seluler → Pemilihan Jaringan → matikan Otomatis → pilih Bell, Rogers, atau Telus.
-4. **Mulai ulang ponsel Anda.**
-5. **Periksa bahwa roaming data AKTIF** untuk eSIM.
+2. **Aktifkan/nonaktifkan Mode Pesawat** selama 30 detik.
+3. **Pilih jaringan secara manual:** Settings → Cellular → Network Selection → matikan Automatic → pilih Bell, Rogers, atau Telus.
+4. **Nyalakan ulang ponsel Anda.**
+5. **Periksa apakah data roaming ON** untuk eSIM.
 6. **Periksa status paket Anda** di aplikasi penyedia.
 7. **Hubungi dukungan** jika masih tidak berfungsi.
 
@@ -438,75 +417,71 @@ Sebagian besar masalah koneksi teratasi dengan pemilihan jaringan manual.
 
 ## Pemecahan Masalah eSIM Kanada
 
-Sebagian besar masalah eSIM Kanada termasuk dalam beberapa kategori: kesalahan instalasi, tidak ada sinyal, tidak ada data, masalah APN, atau pemilihan operator. Kerjakan perbaikan di bawah ini secara berurutan.
+Sebagian besar masalah eSIM Kanada termasuk dalam beberapa kategori: kesalahan pemasangan, tanpa sinyal, tanpa data, masalah APN, atau pemilihan operator. Kerjakan perbaikan di bawah secara berurutan.
 
-### QR Code eSIM Kanada Tidak Akan Dipindai
+### Kode QR eSIM Kanada Tidak Dapat Dipindai
 
-- Gunakan **kode aktivasi manual** sebagai gantinya.
-- Periksa apakah QR kedaluwarsa.
-- Tingkatkan kecerahan layar atau cetak QR.
-- Minta QR baru dari dukungan penyedia.
-- Coba pindai dari layar perangkat lain.
+- Beralih ke **kode aktivasi manual** yang tercetak di email penyedia Anda — kode itu terpasang bahkan ketika QR tidak terbaca.
+- QR memiliki jendela kedaluwarsa yang pendek; jika pengaturan terhenti, minta yang baru dari dukungan.
+- Menaikkan kecerahan layar, atau memindai dari layar perangkat lain, mengatasi sebagian besar kegagalan kamera.
 
-**Kesalahan umum:** "QR Code Tidak Valid" — biasanya berarti QR kedaluwarsa atau dipindai dengan tidak benar. Kode aktivasi manual selalu berfungsi.
+**Kesalahan umum:** "Invalid QR Code" — biasanya berarti QR kedaluwarsa atau dipindai dengan salah. Kode aktivasi manual selalu berfungsi.
 
-### eSIM Terinstal tetapi Tidak Ada Sinyal
+### eSIM Terpasang tetapi Tanpa Sinyal
 
-**Langkah 1:** Konfirmasi eSIM diaktifkan.  
-**Langkah 2:** Konfirmasi Roaming Data AKTIF.  
-**Langkah 3:** Matikan Pemilihan Jaringan Otomatis dan pilih secara manual **Bell / Rogers / Telus**.  
-**Langkah 4:** Alihkan Mode Pesawat selama 30 detik.  
-**Langkah 5:** Mulai ulang ponsel.  
-**Langkah 6:** Periksa status paket di aplikasi penyedia—mungkin kedaluwarsa atau habis.
+**Langkah 1:** Pastikan profil diaktifkan dan Data Roaming ON.  
+**Langkah 2:** Aktifkan/nonaktifkan Mode Pesawat selama 30 detik, lalu restart ponsel.  
+**Langkah 3:** Matikan Pemilihan Jaringan Otomatis dan pilih **Bell / Rogers / Telus** secara manual — pemilihan manual saja sering menghidupkan kembali jalur data yang mati.  
+**Langkah 4:** Masih offline? Buka aplikasi penyedia; paket mungkin sudah kedaluwarsa atau habis.
 
-**Pemilihan jaringan manual adalah perbaikan tunggal paling efektif untuk "sinyal tetapi tidak ada data."** Ini menyelesaikan sebagian besar kasus.
+**Pemilihan jaringan manual adalah perbaikan paling efektif untuk "ada sinyal tetapi tidak ada data".** Ini menyelesaikan sebagian besar kasus.
 
 **Cara memilih jaringan secara manual:**
-- iPhone: Pengaturan → Seluler → Pemilihan Jaringan → matikan Otomatis → pilih Bell/Rogers/Telus.
-- Android: Pengaturan → Jaringan & Internet → SIM → Operator → matikan Otomatis → pilih jaringan.
+- iPhone: Settings → Cellular → Network Selection → matikan Automatic → pilih Bell/Rogers/Telus.
+- Android: Settings → Network & Internet → SIMs → Carrier → matikan Automatic → pilih jaringan.
 
-### eSIM Sinyal tetapi Tidak Ada Data
+### eSIM Ada Sinyal tetapi Tidak Ada Data
 
 - Periksa pengaturan APN di email penyedia.
-- Konfirmasi jalur data default adalah eSIM Kanada.
+- Pastikan jalur data bawaan adalah eSIM Kanada.
 - Matikan VPN sementara.
-- Alihkan Mode Pesawat.
-- Mulai ulang ponsel.
-- Periksa apakah roaming data AKTIF untuk eSIM.
+- Aktifkan/nonaktifkan Mode Pesawat.
+- Restart ponsel.
+- Periksa apakah data roaming ON untuk eSIM.
 
-**Pengaturan APN:** Beberapa penyedia memerlukan APN manual. APN ada di email penyedia Anda. Buka Pengaturan → Seluler → eSIM → Jaringan Data Seluler → masukkan APN.
+**Pengaturan APN:** Beberapa penyedia memerlukan APN manual. APN ada di email penyedia Anda. Buka Settings → Cellular → eSIM → Cellular Data Network → masukkan APN.
 
-### Tidak Dapat Mengaktifkan eSIM
+### Tidak Dapat Mengaktivasi eSIM
 
-1. Mulai ulang ponsel.
-2. Konfirmasi Wi-Fi stabil.
+1. Restart ponsel.
+2. Pastikan Wi-Fi stabil.
 3. Perbarui iOS/Android.
-4. Coba **Atur Ulang Pengaturan Jaringan** (iPhone: Pengaturan → Umum → Transfer atau Atur Ulang → Atur Ulang → Atur Ulang Pengaturan Jaringan).
+4. Coba **Reset Network Settings** (iPhone: Settings → General → Transfer or Reset → Reset → Reset Network Settings).
 
-**Kesalahan umum:** "Tidak Dapat Mengaktifkan eSIM" sering muncul saat Wi-Fi tidak stabil. Pindah lebih dekat ke router atau gunakan jaringan Wi-Fi yang berbeda.
+**Kesalahan umum:** "Unable to Activate eSIM" sering muncul saat Wi-Fi tidak stabil. Mendekatlah ke router atau gunakan jaringan Wi-Fi yang berbeda.
 
-### Atur Ulang Semua Jaringan untuk eSIM
+### Reset Semua Jaringan untuk eSIM
 
-**Apa yang dilakukan:** Menghapus kata sandi Wi-Fi, pemasangan Bluetooth, profil VPN, dan pengaturan seluler.
+**Fungsinya:** Menghapus kata sandi Wi-Fi, pemasangan Bluetooth, profil VPN, dan pengaturan seluler.
 
-**Peringatan:** Pada beberapa perangkat Android, ini dapat menghapus profil eSIM yang terinstal. Konfirmasi dengan penyedia Anda sebelum menggunakan. Di iPhone, ini tidak menghapus eSIM.
+**Peringatan:** Di beberapa perangkat Android, ini dapat menghapus profil eSIM yang terpasang. Konfirmasikan dengan penyedia Anda sebelum menggunakannya. Di iPhone, ini tidak menghapus eSIM.
 
 ### Kode Kesalahan eSIM Kanada Umum
 
 | Gejala | Kemungkinan Penyebab | Perbaikan |
 |---------|--------------|-----|
-| "eSIM Tidak Terinstal" | Instalasi terputus | Hapus dan instal ulang |
-| "SOS" atau "Hanya Panggilan Darurat" | Tidak ada jaringan | Pilih operator secara manual |
-| "Mengaktifkan" selamanya | Penundaan jaringan | Tunggu 5–10 menit, mulai ulang |
-| Ketidakcocokan penggunaan data | Aplikasi latar belakang | Periksa penggunaan aplikasi |
-| "QR Code Tidak Valid" | QR kedaluwarsa atau salah | Minta QR baru atau gunakan kode manual |
-| "eSIM Sudah Terinstal" | Pemindaian duplikat | Periksa eSIM yang ada; hapus jika perlu |
-| "Operator Terkunci" | Ponsel tidak terkunci | Hubungi operator untuk membuka kunci |
-| "Tidak Ada SIM" | eSIM tidak diaktifkan | Nyalakan jalur di pengaturan |
-| "Jaringan Data Seluler" hilang | APN tidak diatur | Masukkan APN secara manual |
-| "Roaming Data" mati | Roaming dinonaktifkan | Nyalakan roaming data |
-| "Tidak Dapat Terhubung ke Server" | Masalah server penyedia | Tunggu, coba lagi, hubungi dukungan |
-| "SIM Tidak Didukung" | eSIM tidak kompatibel | Periksa kompatibilitas perangkat |
+| "eSIM Not Installed" | Pemasangan terputus | Hapus dan pasang ulang |
+| "SOS" atau "Emergency Calls Only" | Tidak ada jaringan | Pilih operator secara manual |
+| "Activating" selamanya | Jeda jaringan | Tunggu 5–10 menit, restart |
+| Pemakaian data tidak cocok | Aplikasi latar belakang | Periksa pemakaian aplikasi |
+| "Invalid QR Code" | QR kedaluwarsa atau salah | Minta QR baru atau gunakan kode manual |
+| "eSIM Already Installed" | Pemindaian ganda | Periksa eSIM yang ada; hapus jika perlu |
+| "Carrier Locked" | Ponsel tidak terbuka kuncinya | Hubungi operator untuk membuka kunci |
+| "No SIM" | eSIM tidak diaktifkan | Nyalakan jalur di pengaturan |
+| "Cellular Data Network" hilang | APN tidak diatur | Masukkan APN secara manual |
+| "Data Roaming" mati | Roaming dinonaktifkan | Nyalakan data roaming |
+| "Unable to Connect to Server" | Masalah server penyedia | Tunggu, coba lagi, hubungi dukungan |
+| "SIM Not Supported" | eSIM tidak kompatibel | Periksa kompatibilitas perangkat |
 
 ### Kapan Menghubungi Dukungan eSIM
 
@@ -514,163 +489,163 @@ Siapkan:
 - Nomor pesanan
 - ICCID (di pengaturan eSIM)
 - Model perangkat
-- Langkah yang sudah dicoba
+- Langkah-langkah yang sudah dicoba
 - Tangkapan layar pesan kesalahan
 
-**Di mana menemukan ICCID:** iPhone: Pengaturan → Seluler → ketuk eSIM → ICCID. Android: Pengaturan → Manajer SIM → ketuk eSIM → ICCID.
+**Di mana menemukan ICCID:** iPhone: Settings → Cellular → ketuk eSIM → ICCID. Android: Settings → SIM Manager → ketuk eSIM → ICCID.
 
-Jika pemecahan masalah menjadi frustrasi, [eSIM Kanada](/canada-esim/) Roami menyertakan **dukungan manusia 24/7** yang dapat memandu Anda melalui aktivasi secara real-time.
+Jika pemecahan masalah membuat frustrasi, [eSIM Kanada](/canada-esim/) Roami menyertakan **dukungan 24/7 oleh manusia** yang dapat memandu Anda melalui aktivasi secara langsung.
 
-### eSIM Tidak Muncul Setelah Instalasi
+### eSIM Tidak Muncul Setelah Pemasangan
 
-Jika eSIM tidak muncul di pengaturan seluler Anda setelah instalasi:
+Jika eSIM tidak muncul di pengaturan seluler Anda setelah pemasangan:
 
-1. Mulai ulang ponsel.
-2. Periksa Pengaturan → Umum → Tentang → cari "SIM Tersedia" atau "eSIM."
-3. Jika masih hilang, hapus eSIM parsial dan instal ulang.
+1. Restart ponsel.
+2. Periksa Settings → General → About → cari "Available SIM" atau "eSIM."
+3. Jika masih tidak ada, hapus eSIM yang setengah jadi dan pasang ulang.
 4. Hubungi dukungan penyedia dengan ICCID.
 
 ### Data eSIM Kanada Lambat
 
-- Periksa apakah Anda telah mencapai FUP harian (Kebijakan Penggunaan Wajar).
-- Pilih operator yang berbeda secara manual.
+- Periksa apakah Anda telah mencapai FUP harian (Fair Use Policy).
+- Pilih operator lain secara manual.
 - Periksa apakah VPN memperlambat koneksi.
-- Mulai ulang ponsel.
-- Jalankan tes kecepatan untuk mengonfirmasi.
-- Periksa apakah Anda berada di area cakupan rendah.
+- Restart ponsel.
+- Jalankan tes kecepatan untuk memastikan.
+- Periksa apakah Anda berada di area jangkauan rendah.
 
-**FUP:** Banyak paket "unlimited" di-throttle setelah 1–3GB per hari. Periksa Kebijakan Penggunaan Wajar penyedia Anda.
+**FUP:** Banyak paket "unlimited" di-throttle setelah 1–3GB per hari. Periksa Fair Use Policy penyedia Anda.
 
 ### eSIM Berfungsi di Kota, Tidak di Taman
 
-**Penyebab:** Anda memilih eSIM hanya Rogers dan berada di area Bell/Telus.
+**Penyebab:** Anda memilih eSIM yang hanya pakai Rogers dan sedang berada di area Bell/Telus.
 
-**Perbaikan:** Beralih ke eSIM Bell/Telus. Lihat [panduan cakupan jaringan Kanada](/blog/canada-esim-coverage-guide/) kami.
+**Perbaikan:** Beralih ke eSIM Bell/Telus. Lihat [panduan jangkauan jaringan Kanada](/blog/canada-esim-coverage-guide/) kami.
 
 ### Perbaikan Darurat eSIM Kanada
 
-Jika Anda telah mencoba semuanya dan masih tidak memiliki data:
+Jika Anda telah mencoba segalanya dan masih tidak punya data:
 
-1. **Temukan Wi-Fi** (hotel, kafe, bandara) dan hubungi dukungan penyedia Anda.
-2. **Gunakan paket cadangan:** Jika Anda memiliki SIM fisik dari rumah, nyalakan roaming data sementara untuk online dan hubungi dukungan.
-3. **Beli SIM fisik lokal** di toko serba ada atau toko operator sebagai upaya terakhir.
-4. **Gunakan peta offline** dan konten yang telah diunduh untuk melanjutkan perjalanan Anda.
+1. **Cari Wi-Fi** (hotel, kafe, bandara) dan hubungi dukungan penyedia Anda.
+2. **Gunakan rencana cadangan:** Jika Anda memiliki SIM fisik dari negara asal, nyalakan data roaming sementara untuk online dan menghubungi dukungan.
+3. **Beli SIM fisik lokal** di toko serba ada atau toko operator sebagai jalan terakhir.
+4. **Gunakan peta offline** dan konten yang sudah diunduh untuk melanjutkan perjalanan Anda.
 
 Jangan panik. Sebagian besar masalah eSIM teratasi dengan pemilihan jaringan manual atau restart.
 
-## Praktik Terbaik Setelah Penyiapan eSIM
+## Praktik Terbaik Setelah Pengaturan eSIM
 
 Setelah eSIM Kanada Anda aktif, beberapa kebiasaan akan menjaga Anda tetap terhubung dan membantu Anda menghindari biaya yang tidak perlu.
 
-### Instal eSIM Sebelum Keberangkatan
+### Pasang eSIM Sebelum Keberangkatan
 
 Wi-Fi rumah lebih stabil. Anda akan memiliki data segera saat mendarat. Jangan menunggu sampai bandara.
 
 ### Kelola Beberapa eSIM
 
-- Beri nama setiap eSIM dengan jelas (mis. "Kanada Perjalanan," "SIM Rumah").
-- Matikan eSIM yang tidak digunakan daripada menghapusnya.
-- Hapus hanya ketika Anda yakin tidak akan menggunakannya lagi.
-- Catat eSIM mana untuk negara mana.
+- Beri nama setiap eSIM dengan jelas (misalnya, "Canada Travel," "Home SIM").
+- Matikan eSIM yang tidak digunakan alih-alih menghapusnya.
+- Hapus hanya jika yakin tidak akan dipakai lagi.
+- Simpan catatan eSIM mana untuk negara mana.
 
 ### Isi Ulang atau Perpanjang eSIM Anda
 
-Sebagian besar penyedia memungkinkan Anda menambahkan data atau memperpanjang validitas di aplikasi atau situs web mereka. Isi ulang sebelum Anda kehabisan untuk menghindari gangguan.
+Sebagian besar penyedia memungkinkan Anda menambah data atau memperpanjang masa berlaku di aplikasi atau situs web mereka. Isi ulang sebelum kehabisan agar tidak terputus.
 
 **Cara mengisi ulang:**
 - Buka aplikasi penyedia.
 - Pilih eSIM Anda.
-- Pilih jumlah isi ulang.
+- Pilih jumlah top-up.
 - Bayar.
 - Data ditambahkan secara otomatis.
 
 ### Setelah Meninggalkan Kanada: Tips eSIM
 
-- Simpan profil eSIM jika Anda akan segera kembali.
-- Hapus jika tidak lagi diperlukan.
+- Pertahankan profil eSIM jika Anda akan kembali segera.
+- Hapus jika sudah tidak diperlukan.
 - eSIM yang dihapus tidak dapat dipulihkan.
 
-### Transfer eSIM ke Ponsel Baru
+### Pindahkan eSIM ke Ponsel Baru
 
-Jika Anda meningkatkan ponsel Anda, Anda mungkin perlu menghubungi penyedia Anda untuk mentransfer eSIM. Beberapa penyedia mendukung transfer layanan mandiri di aplikasi mereka. Periksa sebelum membeli.
+Jika Anda mengganti ponsel, Anda mungkin perlu menghubungi penyedia untuk memindahkan eSIM. Beberapa penyedia mendukung pemindahan mandiri di aplikasi mereka. Periksa sebelum membeli.
 
-**Transfer iPhone:** Beberapa operator mendukung transfer eSIM melalui Bluetooth. Transfer Android bervariasi menurut produsen.
+**Pemindahan iPhone:** Beberapa operator mendukung pemindahan eSIM via Bluetooth. Pemindahan Android bervariasi per produsen.
 
-### Keamanan QR Code eSIM
+### Keamanan Kode QR eSIM
 
-- Jangan bagikan QR code Anda secara publik.
-- Jika seseorang memindainya sebelum Anda, mereka dapat mengaktifkan paket Anda.
-- Simpan QR code dengan aman.
-- Hapus email QR code setelah instalasi.
+- Jangan bagikan kode QR Anda secara publik.
+- Jika seseorang memindainya sebelum Anda, mereka dapat mengaktivasi paket Anda.
+- Simpan kode QR dengan aman.
+- Hapus email kode QR setelah pemasangan.
 
-Untuk perjalanan jalan raya, lihat [panduan eSIM perjalanan jalan raya Kanada](/blog/best-esim-canada-road-trip-guide/) kami.
+Itinerary berkendara beberapa hari? [Panduan eSIM road trip Kanada](/blog/best-esim-canada-road-trip-guide/) merinci data per jalan raya.
 
 ## FAQ eSIM Kanada
 
-### Bisakah saya menginstal eSIM sebelum perjalanan saya dimulai?
+### Bisakah saya memasang eSIM sebelum perjalanan dimulai?
 
-**Ya.** Instalasi mengunduh profil ke ponsel Anda tetapi tidak terhubung atau memulai jam validitas. Anda dapat menginstal beberapa hari atau minggu sebelum keberangkatan. Paket aktif saat Anda pertama kali terhubung ke jaringan Kanada. Lihat bagian instalasi vs aktivasi eSIM di atas.
+**Ya.** Pemasangan mengunduh profil ke ponsel Anda tetapi tidak terhubung atau memulai jam masa berlaku. Anda dapat memasang beberapa hari atau minggu sebelum keberangkatan. Paket teraktivasi saat Anda pertama kali terhubung ke jaringan Kanada. Lihat bagian pemasangan eSIM vs aktivasi di atas.
 
-### Apakah instalasi eSIM memerlukan koneksi internet?
+### Apakah pemasangan eSIM memerlukan koneksi internet?
 
-**Ya.** Anda memerlukan Wi-Fi untuk mengunduh profil eSIM. Instal di rumah di Wi-Fi yang stabil sebelum keberangkatan. Wi-Fi bandara sering tidak andal. Lihat bagian persiapan di atas.
+**Ya.** Anda membutuhkan Wi-Fi untuk mengunduh profil eSIM. Pasang di rumah pada Wi-Fi yang stabil sebelum keberangkatan. Wi-Fi bandara sering tidak andal. Lihat bagian persiapan di atas.
 
 ### Berapa lama aktivasi setelah mendarat?
 
-Biasanya **1–5 menit** setelah ponsel Anda terhubung ke jaringan Kanada. Jika lebih lama, coba pemilihan jaringan manual di bagian pemecahan masalah. Sebagian besar penundaan teratasi dengan restart atau pemilihan operator manual.
+Biasanya **1–5 menit** setelah ponsel Anda terhubung ke jaringan Kanada. Jika lebih lama, coba pemilihan jaringan manual di bagian pemecahan masalah. Sebagian besar keterlambatan teratasi dengan restart atau pemilihan operator manual.
 
-### Bisakah saya mempertahankan nomor telepon asli saya saat menggunakan eSIM Kanada?
+### Bisakah saya mempertahankan nomor telepon asli saat menggunakan eSIM Kanada?
 
-**Ya.** eSIM hidup berdampingan dengan SIM fisik Anda. Atur sebagai jalur data default Anda, dan pertahankan nomor asli Anda sebagai jalur suara default. Lihat bagian pengaturan dual-SIM di atas.
+**Ya.** eSIM hidup berdampingan dengan SIM fisik Anda. Atur sebagai jalur data bawaan Anda, dan pertahankan nomor asli Anda sebagai jalur suara bawaan. Lihat bagian pengaturan dual-SIM di atas.
 
 ### Apa yang harus saya lakukan jika eSIM saya berhenti berfungsi di tengah perjalanan?
 
-Pecahkan masalah dalam urutan ini:
-1. Alihkan Mode Pesawat selama 30 detik.
-2. Pilih jaringan secara manual (Pengaturan → Seluler → Pemilihan Jaringan).
-3. Mulai ulang ponsel Anda.
-4. Periksa bahwa Roaming Data AKTIF untuk eSIM.
+Atasi masalah dalam urutan berikut:
+1. Aktifkan/nonaktifkan Mode Pesawat selama 30 detik.
+2. Pilih jaringan secara manual (Settings → Cellular → Network Selection).
+3. Restart ponsel Anda.
+4. Periksa apakah Data Roaming ON untuk eSIM.
 5. Periksa status paket di aplikasi penyedia.
 6. Hubungi dukungan penyedia dengan nomor pesanan dan ICCID Anda.
 
-### Bisakah saya menginstal ulang eSIM jika saya tidak sengaja menghapusnya?
+### Bisakah saya memasang ulang eSIM jika saya tidak sengaja menghapusnya?
 
-**Biasanya tidak.** Setelah dihapus, sebagian besar profil eSIM tidak dapat dipulihkan. Anda harus menghubungi dukungan penyedia atau membeli paket baru. Selalu konfirmasi sebelum menghapus. Lihat tips manajemen eSIM di atas.
+**Biasanya tidak.** Setelah dihapus, sebagian besar profil eSIM tidak dapat dipulihkan. Anda harus menghubungi dukungan penyedia atau membeli paket baru. Selalu konfirmasikan sebelum menghapus. Lihat tips pengelolaan eSIM di atas.
 
-### Bisakah saya menggunakan eSIM dan SIM fisik secara bersamaan?
+### Bisakah saya menggunakan eSIM dan SIM fisik sekaligus?
 
-**Ya.** Sebagian besar ponsel modern mendukung dual SIM (satu SIM fisik plus satu profil tertanam, atau dua profil tertanam). Anda dapat mempertahankan SIM rumah Anda untuk suara dan menggunakan eSIM Kanada untuk data. Lihat bagian pengaturan dual-SIM di atas.
+**Ya.** Sebagian besar ponsel modern mendukung dual SIM (satu SIM fisik plus satu profil tertanam, atau dua profil tertanam). Anda dapat mempertahankan SIM negara asal untuk suara dan menggunakan eSIM Kanada untuk data. Lihat bagian pengaturan dual-SIM di atas.
 
-### Bisakah saya berbagi data eSIM saya dengan laptop atau tablet?
+### Bisakah saya membagikan data eSIM saya ke laptop atau tablet?
 
-**Ya, jika penyedia Anda mendukung hotspot.** Sebagian besar eSIM perjalanan mendukung hotspot. Beberapa paket membatasi atau memblokirnya. Periksa kebijakan hotspot sebelum membeli. Lihat tips hemat data di atas.
+**Ya, jika penyedia Anda mendukung hotspot.** Sebagian besar eSIM wisata mendukung hotspot. Beberapa paket membatasi atau memblokirnya. Periksa kebijakan hotspot sebelum membeli. Lihat tips hemat data di atas.
 
 ## Ringkasan dan Daftar Periksa eSIM Kanada
 
-Mendapatkan eSIM Kanada itu sederhana jika Anda mempersiapkan sebelum keberangkatan.
+Mendapatkan eSIM Kanada sederhana jika Anda bersiap sebelum keberangkatan.
 
 1. **Periksa kompatibilitas** — `*#06#` untuk EID.
-2. **Pilih paket** — cocokkan data dengan durasi perjalanan.
-3. **Beli dan instal** — di Wi-Fi di rumah.
-4. **Aktivasi di Kanada** — nyalakan roaming data, atur jalur data default.
-5. **Nikmati konektivitas** — tanpa antre, tanpa tukar kartu.
+2. **Pilih paket** — cocokkan data dengan lama perjalanan.
+3. **Beli dan pasang** — di Wi-Fi di rumah.
+4. **Aktivasi di Kanada** — nyalakan data roaming, atur jalur data bawaan.
+5. **Nikmati konektivitas** — tanpa antre, tanpa penukaran kartu.
 
 **Daftar periksa akhir:**
-- ✅ Instal sebelum keberangkatan.
+- ✅ Pasang sebelum keberangkatan.
 - ✅ Unduh peta offline.
 - ✅ Atur dual SIM dengan benar.
 - ✅ Simpan pesanan dan kontak dukungan.
-- ✅ Pantau penggunaan data.
+- ✅ Pantau pemakaian data.
 - ✅ Uji koneksi setelah mendarat.
 - ✅ Simpan ICCID dan nomor pesanan.
-- ✅ Jaga keamanan QR code.
-- ✅ Periksa Kebijakan Penggunaan Wajar untuk paket unlimited.
+- ✅ Jaga keamanan kode QR.
+- ✅ Periksa Fair Use Policy untuk paket unlimited.
 - ✅ Pilih Bell/Telus untuk Rockies, Rogers untuk Trans-Canada.
 
-**Sebelum Anda membeli:** Jika Anda tidak yakin penyedia mana yang cocok untuk perjalanan Anda, mulailah dengan [uji coba eSIM gratis](/free-esim/) atau [paket eSIM Kanada Roami](/canada-esim/) dari **$1.99** untuk menguji cakupan. Pengguna baru mendapat **diskon 20%** dengan kode `web20`, dan **dukungan manusia 24/7** Roami membantu dengan masalah penyiapan apa pun.
+**Sebelum Anda membeli:** tidak yakin penyedia mana yang cocok untuk perjalanan Anda? [Uji coba eSIM gratis](/free-esim/) memungkinkan Anda menjalani seluruh pengaturan ini — pemasangan, aktivasi, koneksi pertama — pada jangkauan nyata sebelum membayar paket penuh.
 
-**Catatan data:** Langkah penyiapan dan harga diverifikasi pada September 2026 dan dapat berubah. Konfirmasi harga saat ini sebelum Anda membeli.
+**Catatan data:** Langkah pengaturan dan harga diverifikasi pada September 2026 dan dapat berubah. Konfirmasikan harga terkini sebelum membeli.
 
-Semoga perjalanan Anda lancar di Kanada dengan sinyal penuh! 📶🍁
+Semoga perjalanan Anda di Kanada lancar dengan sinyal penuh! 📶🍁
 
 **Kontak:** Jika Anda menemukan kesalahan, hubungi kami. Kami memperbaiki dalam 48 jam.

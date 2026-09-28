@@ -634,3 +634,9 @@ other = "Etwas ist schiefgelaufen. Bitte versuche es erneut."
 other = "Netzwerkfehler. Bitte versuche es erneut."
 [lead_form_sending]
 other = "Wird gesendet..."
+
+[esim_guides_title]
+other = "eSIM-Ratgeber"
+
+[related_blog_title]
+other = "Reise-eSIM-Ratgeber"

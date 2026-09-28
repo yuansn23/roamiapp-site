@@ -1,0 +1,51 @@
+{{/* ===== 相关博客文章：从指定 9 篇中随机取 6 篇，统一插入到页面底部 =====
+      用法：在需要的位置 {{ partial "related-blog-articles.html" . }}
+      说明：按当前语言取对应 blog 文章，自动处理多语言前缀。 */}}
+
+{{ $featuredSlugs := slice
+    "airalo-japan-esim-guide"
+    "best-canada-esim-for-travelers"
+    "buy-australia-esim-guide"
+    "buy-japan-esim-guide"
+    "buy-turkey-esim-online"
+    "buy-uk-esim-guide"
+    "airalo-china-esim-guide"
+    "best-turkey-esim-providers"
+    "cheapest-turkey-esim"
+}}
+
+{{ $blogPosts := where .Site.RegularPages "Section" "blog" }}
+{{ $pool := slice }}
+{{ range $blogPosts }}
+    {{ $slug := (.Params.slug | default .File.BaseFileName) | lower }}
+    {{ if in $featuredSlugs $slug }}
+        {{ $pool = $pool | append . }}
+    {{ end }}
+{{ end }}
+
+{{ $picks := first 6 (shuffle $pool) }}
+
+{{ if gt (len $picks) 0 }}
+<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 mt-8 border-t border-slate-200">
+    <div class="flex items-center gap-3 mb-6">
+        <h2 class="text-2xl font-bold text-slate-900">{{ i18n "related_blog_title" | default "Related Guides" }}</h2>
+    </div>
+    <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 list-none p-0 m-0">
+        {{ range $picks }}
+            {{ $postTitle := .Title }}
+            {{ $targetUrl := .RelPermalink }}
+            {{ if and (ne $.Site.LanguagePrefix "") (not (hasPrefix $targetUrl $.Site.LanguagePrefix)) }}
+                {{ $targetUrl = printf "%s%s" $.Site.LanguagePrefix $targetUrl }}
+            {{ end }}
+            <li class="h-full">
+                <a href="{{ $targetUrl }}" class="bg-white border border-slate-200 rounded-2xl overflow-hidden hover:border-blue-500 hover:shadow-md transition-all group h-full flex flex-col">
+                    {{ with .Params.image }}
+                        <img src="{{ . | relURL }}" alt="{{ $postTitle }}" loading="lazy" class="w-full h-40 object-cover group-hover:scale-[1.03] transition-transform duration-300">
+                    {{ end }}
+                    <h3 class="font-bold text-slate-900 group-hover:text-blue-600 transition-colors text-base leading-snug p-4">{{ $postTitle }}</h3>
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+</section>
+{{ end }}

@@ -635,3 +635,9 @@ other = "Qualcosa è andato storto. Riprova."
 other = "Errore di rete. Riprova."
 [lead_form_sending]
 other = "Invio in corso..."
+
+[esim_guides_title]
+other = "Guide eSIM"
+
+[related_blog_title]
+other = "Guide eSIM di viaggio"

@@ -643,3 +643,9 @@ other = "משהו השתבש. נסו שוב."
 other = "שגיאת רשת. נסו שוב."
 [lead_form_sending]
 other = "שולח..."
+
+[esim_guides_title]
+other = "מדריכי eSIM"
+
+[related_blog_title]
+other = "מדריכי eSIM לנסיעות"

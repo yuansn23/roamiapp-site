@@ -643,3 +643,9 @@ other = "Er is iets misgegaan. Probeer het opnieuw."
 other = "Netwerkfout. Probeer het opnieuw."
 [lead_form_sending]
 other = "Verzenden..."
+
+[esim_guides_title]
+other = "eSIM-gidsen"
+
+[related_blog_title]
+other = "Reis eSIM-gidsen"

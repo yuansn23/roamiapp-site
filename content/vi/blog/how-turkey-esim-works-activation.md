@@ -1,23 +1,23 @@
 ---
-title: "Cách kích hoạt eSIM Thổ Nhĩ Kỳ không gặp rắc rối"
-description: "Kích hoạt eSIM Thổ Nhĩ Kỳ từng bước: cài mã QR, đặt APN, khắc phục lỗi không có internet và nhận hỗ trợ con người 24/7 từ Roami."
-keywords: ["cách kích hoạt esim thổ nhĩ kỳ", "kích hoạt esim thổ nhĩ kỳ", "mã qr esim thổ nhĩ kỳ", "cài đặt apn esim thổ nhĩ kỳ", "esim thổ nhĩ kỳ không hoạt động", "thiết lập esim thổ nhĩ kỳ", "khắc phục sự cố esim thổ nhĩ kỳ"]
-date: 2026-09-25T00:00:00Z
-lastmod: 2026-09-25T00:00:00Z
+title: "Cách kích hoạt eSIM Thổ Nhĩ Kỳ không gặp trục trặc"
+description: "Kích hoạt eSIM Thổ Nhĩ Kỳ từng bước: cài đặt mã QR, đặt APN, sửa lỗi không có internet và nhận hỗ trợ con người 24/7 của Roami."
+keywords: ["cách kích hoạt turkey esim", "kích hoạt eSIM Thổ Nhĩ Kỳ", "mã QR eSIM Thổ Nhĩ Kỳ", "cài đặt APN eSIM Thổ Nhĩ Kỳ", "eSIM Thổ Nhĩ Kỳ không hoạt động", "cài đặt eSIM Thổ Nhĩ Kỳ", "khắc phục eSIM Thổ Nhĩ Kỳ"]
+date: 2026-09-28T00:00:00Z
+lastmod: 2026-09-28T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami cung cấp các gói eSIM đáng tin cậy, phục vụ hơn 1 triệu du khách mỗi năm và hỗ trợ tự động chuyển mạng cục bộ để giúp du khách kết nối toàn cầu."
+authorBio: "Roami cung cấp các gói eSIM đáng tin cậy, phục vụ hơn 1 triệu khách du lịch mỗi năm, và hỗ trợ tự động chuyển đổi mạng nội địa giúp khách du lịch luôn kết nối trên toàn cầu."
 image: "/img/esim/turkey/how-turkey-esim-works-activation.jpg"
-categories: ["eSIM", "Du lịch", "Thổ Nhĩ Kỳ"]
-tags: ["eSIM Thổ Nhĩ Kỳ"]
+categories: ["eSIM", "Travel", "Turkey"]
+tags: ["Turkey eSIM"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Cách kích hoạt eSIM Thổ Nhĩ Kỳ: Mã QR, APN và cách khắc phục"
+h1title: "Cách kích hoạt eSIM Thổ Nhĩ Kỳ: Mã QR, APN và các cách sửa lỗi"
 
-productsTitle: "Gói eSIM phổ biến"
+productsTitle: "Các gói eSIM phổ biến"
 hotPostsTitle: "Bài viết nổi bật"
-recentPostsTitle: "Bài viết gần đây"
+recentPostsTitle: "Bài viết mới nhất"
 
 products:
   - name: "eSIM Tây Ban Nha"
@@ -40,7 +40,7 @@ products:
     price: "Từ $1.99"
     is_highlight: false
     slug: "italy"
-  - name: "eSIM Vương quốc Anh"
+  - name: "eSIM Anh"
     flag: "/img/flags/gb.svg"
     price: "Từ $1.99"
     is_highlight: false
@@ -55,286 +55,290 @@ recentPosts:
   - title: "Danh sách thiết bị tương thích eSIM"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "Chuyển eSIM đa nền tảng 2026"
+  - title: "Chuyển eSIM giữa các nền tảng 2026"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "eSIM kép không hoạt động? 12 cách khắc phục cho iPhone"
+  - title: "Dual eSIM không hoạt động? 12 cách khắc phục cho iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Hướng dẫn tương thích eSIM iPhone SE"
+  - title: "Hướng dẫn tương thích eSIM trên iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Hướng dẫn thiết lập eSIM iPhone 11 đầy đủ"
+  - title: "Hướng dẫn cài đặt eSIM hoàn chỉnh cho iPhone 11"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
+
+
+Phần lớn eSIM Thổ Nhĩ Kỳ bị "hỏng" thực ra không hỏng gì cả — chúng chỉ đơn giản chưa bao giờ được kích hoạt đúng cách, và ở Thổ Nhĩ Kỳ bạn không thể dựa vào ứng dụng của nhà cung cấp để sửa lỗi sau khi hạ cánh. Lệnh chặn của BTK loại bỏ mạng lưới an toàn quen thuộc, nên nếu eSIM của bạn không kết nối được vì chuyển vùng dữ liệu đang tắt, trường APN đang trống, hay đường truyền sai đang xử lý dữ liệu, bạn phải thuộc lòng cách sửa. Hướng dẫn này đi qua việc cài đặt trên Wi-Fi trước khi khởi hành, chỉ kích hoạt khi đến nơi, cấu hình dual SIM, cài đặt APN, xung đột carrier bundle, mã lỗi, và cây quyết định cho tình trạng đầy vạch sóng nhưng không có internet, để bạn có thể tự mình khắc phục mà không phải chờ hỗ trợ.
+
 ## Kích hoạt eSIM Thổ Nhĩ Kỳ: Mã QR, APN & Khắc phục sự cố
 
-Hầu hết các eSIM Thổ Nhĩ Kỳ “bị hỏng” thực ra không hỏng chút nào — chúng chỉ chưa bao giờ được kích hoạt đúng cách. Hướng dẫn này sẽ đưa bạn qua các bước cài đặt, kích hoạt và sửa eSIM để bạn có thể trực tuyến mà không cần chờ hỗ trợ.
+Phần lớn eSIM Thổ Nhĩ Kỳ "bị hỏng" thực ra không hỏng gì cả — chúng chỉ chưa bao giờ được kích hoạt đúng cách. Hướng dẫn này sẽ cùng bạn cài đặt, kích hoạt và sửa lỗi eSIM để bạn lên mạng mà không cần chờ hỗ trợ.
 
-## Tóm tắt nhanh
+## Kích hoạt eSIM Thổ Nhĩ Kỳ trong tích tắc
 
-- Cài eSIM tại nhà qua Wi-Fi và đợi đến khi hạ cánh mới kích hoạt.
-- Cài đặt và kích hoạt là hai bước riêng biệt, vì vậy hầu hết eSIM “bị hỏng” thực ra chỉ đang ở trạng thái không hoạt động.
-- Nếu bạn thấy vạch sóng nhưng không có internet, hãy kiểm tra lần lượt: đường dây dữ liệu, chuyển vùng và APN.
-- Vì lệnh chặn BTK có thể cắt ứng dụng của nhà cung cấp sau khi hạ cánh, hãy học thuộc các cách khắc phục này trước khi đi du lịch.
+- Cài đặt eSIM ở nhà qua Wi-Fi, và đợi đến khi hạ cánh mới kích hoạt.
+- Cài đặt và kích hoạt là hai bước riêng biệt, nên đa số eSIM "hỏng" thực ra chỉ đang ngủ đông.
+- Nếu thấy đầy vạch sóng nhưng không có internet, hãy kiểm tra đường dữ liệu, chuyển vùng và APN theo đúng thứ tự đó.
+- Vì lệnh chặn của BTK có thể cắt quyền truy cập ứng dụng nhà cung cấp sau khi hạ cánh, hãy thuộc lòng các cách sửa này trước chuyến đi.
 
-## Hướng dẫn kích hoạt này giải quyết điều gì
+## Hướng dẫn kích hoạt eSIM Thổ Nhĩ Kỳ này giải quyết những gì
 
-Hướng dẫn này giải quyết lớp thực thi kỹ thuật: cách cài đặt, kích hoạt và khắc phục sự cố eSIM Thổ Nhĩ Kỳ khi bạn không thể mở ứng dụng của nhà cung cấp sau khi hạ cánh. Lệnh chặn BTK có nghĩa là bạn không thể dựa vào ứng dụng của nhà cung cấp để sửa lỗi cấu hình sau khi đến. Nếu eSIM không kết nối vì chuyển vùng bị tắt, APN trống hoặc chọn sai đường dây dữ liệu, bạn cần biết cách khắc phục từ trí nhớ.
+Hướng dẫn này giải quyết lớp thực thi kỹ thuật: cách cài đặt, kích hoạt và khắc phục sự cố một eSIM Thổ Nhĩ Kỳ khi bạn không thể mở ứng dụng nhà cung cấp sau khi hạ cánh. Lệnh chặn của BTK nghĩa là bạn không thể dựa vào ứng dụng của nhà cung cấp để sửa lỗi cấu hình sau khi đến nơi. Nếu eSIM không kết nối được vì chuyển vùng đang tắt, APN trống hay đường dữ liệu được chọn sai, bạn phải thuộc lòng cách sửa.
 
-Trang này cung cấp cho bạn sự khác biệt giữa cài đặt và kích hoạt, cài đặt qua mã QR và thủ công, cấu hình SIM kép, cài đặt APN, khắc phục xung đột gói nhà mạng, tham chiếu mã lỗi, cây quyết định khi có vạch sóng nhưng không có internet, hành vi đăng ký mạng và khôi phục bằng cách cài đặt lại. Trang không đề cập đến [tương thích thiết bị](/blog/turkey-esim-device-compatibility/), chọn nhà cung cấp, giá cả, hoàn tiền hoặc [quy tắc BTK](/blog/turkey-esim-ban-availability-rules/). Những nội dung đó được đề cập trong các bài viết chuyên sâu được liên kết.
+Trang này cung cấp cho bạn sự phân biệt giữa cài đặt và kích hoạt, cài đặt bằng mã QR và thủ công, cấu hình dual SIM, cài đặt APN, cách sửa xung đột carrier bundle, bảng tra cứu mã lỗi, cây quyết định cho tình trạng đầy sóng không internet, hành vi đăng ký mạng và cách khôi phục bằng cài lại. Nội dung này không bao gồm [tương thích thiết bị](/blog/turkey-esim-device-compatibility/), chọn nhà cung cấp, giá cả, hoàn tiền hay [quy định BTK](/blog/turkey-esim-ban-availability-rules/). Những phần đó được trình bày trong các bài chuyên sâu được liên kết.
 
-Phiên bản ngắn gọn: cài đặt tại nhà qua Wi-Fi, giữ chuyển vùng dữ liệu tắt cho đến khi hạ cánh, kích hoạt bằng cách bật chuyển vùng, và khắc phục hầu hết lỗi bằng cách kiểm tra đường dây dữ liệu, cài đặt chuyển vùng và APN.
+Tóm gọn: cài đặt ở nhà qua Wi-Fi, giữ chuyển vùng dữ liệu ở trạng thái tắt cho đến khi hạ cánh, kích hoạt bằng cách bật chuyển vùng, và sửa được đa số sự cố bằng cách kiểm tra đường dữ liệu, cài đặt chuyển vùng và APN.
 
-## Cài đặt vs Kích hoạt: Sự khác biệt là gì?
+## Cài đặt khác kích hoạt eSIM Thổ Nhĩ Kỳ: Khác nhau ở đâu?
 
-Cài đặt và kích hoạt là hai bước riêng biệt. Cài đặt tải hồ sơ xuống chip eUICC của điện thoại. Kích hoạt đăng ký hồ sơ đó trên mạng di động Thổ Nhĩ Kỳ. Nhầm lẫn giữa hai bước này là lý do phổ biến nhất khiến du khách nghĩ eSIM của họ bị hỏng khi thực ra nó chỉ đang không hoạt động.
+Cài đặt và kích hoạt là hai bước riêng biệt. Cài đặt tải hồ sơ lên chip eUICC trong điện thoại của bạn. Kích hoạt đăng ký hồ sơ đó trên một mạng di động Thổ Nhĩ Kỳ. Việc nhầm lẫn hai bước này là lý do phổ biến nhất khiến khách du lịch tưởng eSIM của mình bị hỏng trong khi nó chỉ đang ngủ đông.
 
-### Cài đặt eSIM Thổ Nhĩ Kỳ làm gì
+### Cài đặt eSIM Thổ Nhĩ Kỳ làm gì?
 
-Cài đặt tải hồ sơ từ máy chủ SM-DP+ của nhà cung cấp xuống chip eUICC bên trong điện thoại của bạn. Sau khi cài đặt, eSIM xuất hiện trong Cài đặt như một đường dây phụ. Nó có ICCID và giá trị APN.
+Cài đặt tải một hồ sơ từ máy chủ SM-DP+ của nhà cung cấp lên chip eUICC bên trong điện thoại. Sau khi cài đặt, eSIM xuất hiện trong Settings như một đường truyền phụ. Nó có mã ICCID và một giá trị APN.
 
-Cài đặt không kết nối eSIM với bất kỳ mạng nào. Một eSIM đã cài đặt với chuyển vùng dữ liệu tắt sẽ vẫn không hoạt động.
+Cài đặt không kết nối eSIM với bất kỳ mạng nào. Một eSIM đã cài nhưng tắt chuyển vùng dữ liệu sẽ ở trạng thái trơ.
 
-### Kích hoạt eSIM Thổ Nhĩ Kỳ làm gì
+### Kích hoạt eSIM Thổ Nhĩ Kỳ làm gì?
 
-Kích hoạt là thời điểm hồ sơ đăng ký trên mạng di động Thổ Nhĩ Kỳ. Điều này xảy ra khi bạn bật chuyển vùng dữ liệu cho đường dây eSIM sau khi đến Thổ Nhĩ Kỳ. Điện thoại quét tìm nhà mạng đối tác — Turkcell, Vodafone Turkey hoặc Türk Telekom — và thiết lập phiên dữ liệu.
+Kích hoạt là khoảnh khắc hồ sơ đăng ký trên một mạng di động Thổ Nhĩ Kỳ. Điều này xảy ra khi bạn bật chuyển vùng dữ liệu cho đường eSIM sau khi đến Thổ Nhĩ Kỳ. Điện thoại sẽ quét tìm nhà mạng đối tác — Turkcell, Vodafone Thổ Nhĩ Kỳ hoặc Türk Telekom — và thiết lập một phiên kết nối dữ liệu.
 
-Đăng ký thường mất 2–5 phút. Tên nhà mạng sau đó xuất hiện trên thanh trạng thái và dữ liệu bắt đầu truyền.
+Việc đăng ký thường mất 2–5 phút. Sau đó tên nhà mạng xuất hiện trên thanh trạng thái và dữ liệu bắt đầu chảy.
 
 ### Bảng trình tự kích hoạt eSIM Thổ Nhĩ Kỳ an toàn
 
-| Bước | Khi nào | Ở đâu | Làm gì |
+| Bước | Thời điểm | Địa điểm | Việc cần làm |
 |---|---|---|---|
-| Cài đặt | Trước khi khởi hành | Wi-Fi nhà | Quét mã QR, đặt tên đường dây “Turkey” |
-| Cấu hình | Trước khi khởi hành | Nhà | SIM nhà cho Thoại & SMS, eSIM Thổ Nhĩ Kỳ cho Dữ liệu di động |
+| Cài đặt | Trước khi khởi hành | Wi-Fi nhà | Quét mã QR, đặt tên đường "Turkey" |
+| Cấu hình | Trước khi khởi hành | Ở nhà | SIM nhà cho Thoại & SMS, eSIM Thổ Nhĩ Kỳ cho Dữ liệu di động |
 | Giữ chuyển vùng tắt | Cho đến khi hạ cánh | — | Không bật chuyển vùng dữ liệu |
 | Kích hoạt | Sau khi hạ cánh | Sân bay Thổ Nhĩ Kỳ | Bật chuyển vùng dữ liệu cho eSIM Thổ Nhĩ Kỳ |
-| Xác minh | Sau khi kích hoạt | Sân bay | Mở bản đồ hoặc trình duyệt |
+| Kiểm chứng | Sau khi kích hoạt | Sân bay | Mở bản đồ hoặc trình duyệt |
 
-### Tại sao thời điểm kích hoạt eSIM Thổ Nhĩ Kỳ lại quan trọng
+### Vì sao thời điểm kích hoạt eSIM Thổ Nhĩ Kỳ quan trọng
 
-Nếu bạn bật chuyển vùng dữ liệu tại nhà, eSIM có thể kết nối với mạng đối tác ở quốc gia của bạn và tiêu hao dữ liệu Thổ Nhĩ Kỳ trước khi bạn lên máy bay. Một số nhà cung cấp ngăn điều này. Những nhà cung cấp khác thì không. Hãy giữ chuyển vùng tắt cho đến khi hạ cánh.
+Nếu bạn bật chuyển vùng dữ liệu ngay ở nhà, eSIM có thể kết nối mạng đối tác trong nước nhà của bạn và tiêu hao dữ liệu Thổ Nhĩ Kỳ trước cả khi bạn lên máy bay. Một số nhà cung cấp chặn điều này. Một số thì không. Hãy giữ chuyển vùng tắt cho đến khi hạ cánh.
 
-## Kiểm tra trước khi cài đặt
+## Các bước kiểm tra trước khi cài eSIM Thổ Nhĩ Kỳ
 
-Chạy các kiểm tra này trước khi bạn mua hoặc cài đặt bất kỳ eSIM Thổ Nhĩ Kỳ nào. Chúng ngăn chặn các lỗi kích hoạt phổ biến nhất: không có EID, khóa nhà mạng, không có khe eSIM trống và Wi-Fi không ổn định trong khi cài đặt.
+Chạy các kiểm tra này trước khi mua hoặc cài bất kỳ eSIM Thổ Nhĩ Kỳ nào. Chúng phòng tránh được các lỗi kích hoạt phổ biến nhất: thiếu EID, khóa nhà mạng, không còn khe eSIM trống và Wi-Fi bất ổn trong lúc cài đặt.
 
-### EID hiện diện để cài đặt eSIM Thổ Nhĩ Kỳ
+### Kiểm tra EID trước tiên
 
-**iPhone:** Cài đặt → Cài đặt chung → Giới thiệu → cuộn đến “EID.” Nếu bạn thấy số 32 chữ số, thiết bị của bạn hỗ trợ eSIM.
+**iPhone:** Settings → General → About → cuộn đến "EID." Nếu thấy một dãy số 32 chữ số, thiết bị của bạn hỗ trợ eSIM.
 
-**Android:** Cài đặt → Giới thiệu điện thoại → Thông tin trạng thái → “EID.” Một số nhà sản xuất đặt nó trong Cài đặt → Mạng & Internet → SIM.
+**Android:** Settings → About Phone → Status Information → "EID." Một số nhà sản xuất đặt nó dưới Settings → Network & Internet → SIMs.
 
-### Nhà mạng đã mở khóa để cài đặt eSIM Thổ Nhĩ Kỳ
+### Xác nhận điện thoại đã mở khóa
 
-**iPhone:** Cài đặt → Cài đặt chung → Giới thiệu → “Khóa nhà mạng.” Nó phải hiển thị “Không hạn chế SIM.”
+**iPhone:** Settings → General → About → "Carrier Lock." Phải hiển thị "No SIM restrictions."
 
-**Android:** Cài đặt → Giới thiệu điện thoại → Khóa SIM, hoặc lắp SIM không thuộc nhà mạng và xem thiết bị có chấp nhận không.
+**Android:** Settings → About Phone → SIM Lock, hoặc cắm một SIM không thuộc nhà mạng và xem máy có chấp nhận không.
 
-### Khe eSIM trống cho hồ sơ eSIM Thổ Nhĩ Kỳ
+### Đảm bảo còn khe trống
 
-Hầu hết điện thoại hỗ trợ một hoặc hai hồ sơ eSIM đang hoạt động. Nếu bạn đã có một eSIM đang hoạt động, bạn có thể cần tắt một đường dây để thêm đường dây khác.
+Đa số điện thoại hỗ trợ một hoặc hai hồ sơ eSIM hoạt động. Nếu bạn đã có một eSIM đang hoạt động, có thể cần tắt một đường truyền để thêm đường khác.
 
-**iPhone 13 trở lên:** Hỗ trợ hai eSIM đang hoạt động.
+**iPhone 13 trở lên:** Hỗ trợ hai eSIM hoạt động cùng lúc.
 
 **iPhone XS đến iPhone 12:** Một eSIM cộng một SIM vật lý.
 
-**Hầu hết điện thoại Android:** Một eSIM cộng một SIM vật lý.
+**Đa số điện thoại Android:** Một eSIM cộng một SIM vật lý.
 
-### Wi-Fi ổn định và mã QR ngoại tuyến cho eSIM Thổ Nhĩ Kỳ
+### Wi-Fi ổn định và mã QR lưu ngoại tuyến
 
-Cài đặt yêu cầu kết nối internet ổn định. Sử dụng Wi-Fi nhà, không dùng hotspot di động hoặc Wi-Fi công cộng có cổng đăng nhập. Lưu email hoặc PDF mã QR ngoại tuyến trước khi bắt đầu. Nếu cài đặt thất bại và bạn cần thử lại, bạn không muốn phụ thuộc vào quyền truy cập email.
+Cài đặt cần kết nối internet ổn định. Dùng Wi-Fi nhà, không dùng điểm phát sóng di động hay Wi-Fi công cộng có trang đăng nhập bắt buộc. Lưu email hoặc PDF chứa mã QR ngoại tuyến trước khi bắt đầu. Nếu cài đặt thất bại và bạn cần thử lại, bạn sẽ không muốn phải phụ thuộc vào việc truy cập email.
 
-### Danh sách kiểm tra trước khi cài đặt eSIM Thổ Nhĩ Kỳ
+### Danh mục kiểm tra trước khi cài eSIM Thổ Nhĩ Kỳ
 
-- [ ] EID hiện diện
-- [ ] Nhà mạng đã mở khóa
-- [ ] Có khe eSIM trống
+- [ ] Có EID
+- [ ] Đã mở khóa nhà mạng
+- [ ] Còn khe eSIM trống
 - [ ] Kết nối Wi-Fi ổn định
-- [ ] Mã QR đã lưu ngoại tuyến
-- [ ] Giá trị APN đã lưu ngoại tuyến
-- [ ] Điện thoại sạc trên 50%
+- [ ] Đã lưu mã QR ngoại tuyến
+- [ ] Đã lưu giá trị APN ngoại tuyến
+- [ ] Pin trên 50%
 
-Để xem quy trình tương thích thiết bị đầy đủ, đọc [hướng dẫn kiểm tra EID và khóa nhà mạng](/blog/turkey-esim-device-compatibility/).
+Để xem quy trình tương thích thiết bị đầy đủ, đọc bài [hướng dẫn kiểm tra EID và khóa nhà mạng](/blog/turkey-esim-device-compatibility/). Chưa chắc máy của bạn đạt chuẩn? [Danh sách thiết bị tương thích](/compatibility/) sẽ cho câu trả lời trong vài giây.
 
-## Cài đặt bằng mã QR
+## Cài đặt eSIM Thổ Nhĩ Kỳ bằng mã QR
 
-Cài đặt bằng mã QR là cách nhanh nhất để thêm eSIM Thổ Nhĩ Kỳ. Điện thoại liên hệ với máy chủ SM-DP+ của nhà cung cấp và tải hồ sơ xuống chip eUICC. Quá trình mất khoảng 60 giây trên Wi-Fi ổn định.
+Cài đặt bằng mã QR là cách nhanh nhất để thêm một eSIM Thổ Nhĩ Kỳ. Điện thoại liên hệ máy chủ SM-DP+ của nhà cung cấp và tải hồ sơ xuống chip eUICC. Quá trình này mất khoảng 60 giây trên Wi-Fi ổn định.
 
-### Cài đặt QR trên iPhone cho eSIM Thổ Nhĩ Kỳ
+### Cài QR trên iPhone
 
-1. Mở **Cài đặt**.
-2. Nhấn **Dữ liệu di động** hoặc **Cellular**.
-3. Nhấn **Thêm gói dữ liệu** hoặc **Thêm eSIM**.
-4. Chọn **Sử dụng mã QR**.
+1. Mở **Settings**.
+2. Nhấn **Mobile Data** hoặc **Cellular**.
+3. Nhấn **Add Data Plan** hoặc **Add eSIM**.
+4. Chọn **Use QR Code**.
 5. Quét mã QR từ email của nhà cung cấp.
-6. Điện thoại liên hệ với máy chủ SM-DP+ và tải hồ sơ xuống.
-7. Nhấn **Thêm** để cài đặt.
-8. Đặt tên đường dây “Turkey”.
-9. Đặt nó làm đường dây **Dữ liệu di động** mặc định.
-10. Chưa bật chuyển vùng dữ liệu.
+6. Điện thoại liên hệ máy chủ SM-DP+ và tải hồ sơ xuống.
+7. Nhấn **Add** để cài đặt.
+8. Đặt tên đường là "Turkey".
+9. Đặt nó làm đường **Mobile Data** mặc định.
+10. Chưa bật chuyển vùng dữ liệu vội.
 
-### Cài đặt QR trên Android cho eSIM Thổ Nhĩ Kỳ
+### Cài QR trên Android
 
-1. Mở **Cài đặt**.
-2. Nhấn **Mạng & Internet** → **SIM**. Trên Samsung: **Kết nối** → **Trình quản lý thẻ SIM**.
-3. Nhấn **Thêm eSIM** hoặc **Tải SIM**.
-4. Chọn **Sử dụng mã QR**.
+1. Mở **Settings**.
+2. Nhấn **Network & Internet** → **SIMs**. Trên Samsung: **Connections** → **SIM Card Manager**.
+3. Nhấn **Add eSIM** hoặc **Download SIM**.
+4. Chọn **Use QR Code**.
 5. Quét mã QR.
-6. Điện thoại liên hệ với máy chủ SM-DP+ và tải hồ sơ xuống.
-7. Xác nhận tải xuống và bật đường dây mới.
-8. Chọn eSIM cho **Dữ liệu di động**.
-9. Chưa bật chuyển vùng dữ liệu.
+6. Điện thoại liên hệ máy chủ SM-DP+ và tải hồ sơ xuống.
+7. Xác nhận tải về và bật đường truyền mới.
+8. Chọn eSIM cho **Mobile Data**.
+9. Chưa bật chuyển vùng dữ liệu vội.
 
-### Những gì bạn nên thấy sau khi cài đặt eSIM Thổ Nhĩ Kỳ
+### Điều bạn nên thấy sau khi cài eSIM Thổ Nhĩ Kỳ
 
-- Chỉ báo tiến trình trong khi hồ sơ tải xuống.
+- Một chỉ báo tiến trình trong lúc hồ sơ tải xuống.
 - Màn hình xác nhận với tên nhà mạng và chi tiết gói.
-- eSIM xuất hiện trong Cài đặt như một đường dây phụ.
-- ICCID hiển thị trong chi tiết eSIM.
+- eSIM xuất hiện trong Settings như một đường truyền phụ.
+- Mã ICCID hiển thị trong chi tiết eSIM.
 - Trường APN có thể đã được điền sẵn.
 
-### Những gì bạn không nên thấy sau khi cài đặt eSIM Thổ Nhĩ Kỳ
+### Điều bạn không nên thấy sau khi cài eSIM Thổ Nhĩ Kỳ
 
-- “Nhà mạng không được hỗ trợ.”
-- “eSIM không được hỗ trợ.”
-- Màn hình trống hoặc chỉ báo tiến trình bị đóng băng.
-- “Đã được sử dụng” hoặc “đã hết hạn.”
+- "Carrier not supported."
+- "eSIM not supported."
+- Màn hình trống hoặc chỉ báo tiến trình bị treo.
+- "Already used" hoặc "expired."
 
-### Giới hạn QR dùng một lần cho eSIM Thổ Nhĩ Kỳ
+### Giới hạn QR dùng một lần của eSIM Thổ Nhĩ Kỳ
 
-Mã QR là thông tin đăng nhập dùng một lần. Sau khi hồ sơ được tải xuống EID của một thiết bị, cùng mã QR đó không thể cài đặt hồ sơ trên thiết bị khác. Nếu bạn thấy “đã được sử dụng” hoặc “đã hết hạn,” hãy liên hệ nhà cung cấp để được thay thế. Đừng khôi phục cài đặt gốc của điện thoại như giải pháp đầu tiên. Khôi phục cài đặt gốc không giúp ích gì và xóa cài đặt của bạn.
+Mã QR là thông tin đăng nhập dùng một lần. Khi một hồ sơ đã được tải xuống theo EID của một thiết bị, mã QR đó không thể cài hồ sơ lên thiết bị khác. Nếu thấy "already used" hoặc "expired", hãy liên hệ nhà cung cấp để được thay thế. Đừng vội khôi phục cài đặt gốc điện thoại như giải pháp đầu tiên. Khôi phục cài đặt gốc không giúp được gì mà còn xóa sạch cài đặt của bạn.
 
-## Cài đặt thủ công và nhập SM-DP+
+## Cài đặt thủ công eSIM Thổ Nhĩ Kỳ và nhập SM-DP+
 
 Cài đặt thủ công là phương án dự phòng khi mã QR không quét được hoặc camera không khả dụng. Bạn cần địa chỉ SM-DP+ và mã kích hoạt từ xác nhận đơn hàng của nhà cung cấp.
 
-### Cài đặt thủ công trên iPhone cho eSIM Thổ Nhĩ Kỳ
+### Cài thủ công trên iPhone
 
-1. Mở **Cài đặt** → **Dữ liệu di động**.
-2. Nhấn **Thêm eSIM**.
-3. Nhấn **Nhập chi tiết thủ công**.
-4. Nhập **Địa chỉ SM-DP+** và **Mã kích hoạt** từ nhà cung cấp.
-5. Nhấn **Tiếp theo** và xác nhận.
-6. Đặt tên đường dây “Turkey” và đặt cho Dữ liệu di động.
+1. Mở **Settings** → **Mobile Data**.
+2. Nhấn **Add eSIM**.
+3. Nhấn **Enter Details Manually**.
+4. Nhập **SM-DP+ Address** và **Activation Code** từ nhà cung cấp.
+5. Nhấn **Next** và xác nhận.
+6. Đặt tên đường "Turkey" và đặt cho Mobile Data.
 
-### Cài đặt thủ công trên Android cho eSIM Thổ Nhĩ Kỳ
+### Cài thủ công trên Android
 
-1. Mở **Cài đặt** → **Mạng & Internet** → **SIM**.
-2. Nhấn **Thêm eSIM**.
-3. Nhấn **Cần trợ giúp?** hoặc **Nhập thủ công**.
+1. Mở **Settings** → **Network & Internet** → **SIMs**.
+2. Nhấn **Add eSIM**.
+3. Nhấn **Need help?** hoặc **Enter manually**.
 4. Nhập mã kích hoạt từ nhà cung cấp.
 5. Xác nhận và cài đặt.
-6. Bật đường dây và chọn nó cho Dữ liệu di động.
+6. Bật đường truyền và chọn nó cho Mobile Data.
 
-### SM-DP+ và mã kích hoạt cho eSIM Thổ Nhĩ Kỳ
+### Tìm địa chỉ SM-DP+ ở đâu
 
-Địa chỉ SM-DP+ là máy chủ lưu giữ hồ sơ eSIM của bạn. Mã kích hoạt là token dùng một lần cho phép tải xuống. Cả hai đều gắn với đơn hàng của bạn và EID của thiết bị.
+Địa chỉ SM-DP+ là máy chủ lưu giữ hồ sơ eSIM của bạn. Mã kích hoạt là mã token dùng một lần cho phép việc tải xuống. Cả hai đều gắn với đơn hàng và EID của thiết bị bạn.
 
-Nếu email của nhà cung cấp không hiển thị địa chỉ SM-DP+, hãy kiểm tra xác nhận đơn hàng hoặc trang hỗ trợ. [Đặc tả eSIM GSMA SGP.22](https://www.gsma.com/esim/) định nghĩa cách hoạt động của việc cung cấp cấu hình này.
+Nếu email nhà cung cấp không hiển thị địa chỉ SM-DP+, hãy kiểm tra xác nhận đơn hàng hoặc trang hỗ trợ. [Đặc tả eSIM SGP.22 của GSMA](https://www.gsma.com/esim/) định nghĩa cách cơ chế cấp phát này hoạt động.
 
 ### Định dạng mã QR cho eSIM Thổ Nhĩ Kỳ
 
-Mã QR eSIM tuân thủ GSMA chứa một chuỗi như sau:
+Một mã QR eSIM tuân thủ GSMA chứa chuỗi dạng như sau:
 
 `LPA:1$sm-dp-plus.example.com$ACTIVATION-CODE`
 
-- **LPA** — Trợ lý hồ sơ cục bộ, thành phần phần mềm quản lý hồ sơ eSIM.
+- **LPA** — Local Profile Assistant, thành phần phần mềm quản lý hồ sơ eSIM.
 - **1** — số phiên bản.
 - **Địa chỉ SM-DP+** — địa chỉ máy chủ.
 - **Mã kích hoạt** — token dùng một lần.
 
-Nếu bạn quét mã QR không theo định dạng này, cài đặt sẽ thất bại.
+Nếu bạn quét một mã QR không theo đúng định dạng này, việc cài đặt sẽ thất bại.
 
-### Mã lỗi cài đặt thủ công cho eSIM Thổ Nhĩ Kỳ
+### Mã lỗi cài đặt thủ công của eSIM Thổ Nhĩ Kỳ
 
-| Lỗi | Nguyên nhân | Cách khắc phục |
+| Lỗi | Nguyên nhân | Cách sửa |
 |---|---|---|
-| “Mã kích hoạt không hợp lệ” | Sai mã hoặc đã hết hạn | Kiểm tra xác nhận đơn hàng |
-| “Máy chủ không thể truy cập” | Vấn đề Wi-Fi hoặc SM-DP+ ngừng hoạt động | Thử lại trên Wi-Fi khác |
-| “Hồ sơ đã được cài đặt” | Mã QR đã dùng trước đó | Liên hệ nhà cung cấp |
-| “EID không được nhận diện” | Sai thiết bị hoặc không khớp EID | Kiểm tra EID trong Cài đặt |
+| "Invalid activation code" | Mã sai hoặc hết hạn | Kiểm tra xác nhận đơn hàng |
+| "Server unreachable" | Lỗi Wi-Fi hoặc SM-DP+ sập | Thử lại trên Wi-Fi khác |
+| "Profile already installed" | Mã QR đã dùng trước đó | Liên hệ nhà cung cấp |
+| "EID not recognized" | Sai thiết bị hoặc EID không khớp | Kiểm tra EID trong Settings |
 
-## Thiết lập SIM kép
+## Thiết lập Dual SIM
 
-Cấu hình SIM kép là nơi phát sinh hầu hết các lỗi sau khi hạ cánh. eSIM Thổ Nhĩ Kỳ phải là đường dây dữ liệu. SIM nhà phải xử lý Thoại và SMS. Chuyển đổi dữ liệu di động phải bị tắt.
+Cấu hình dual SIM là nơi phát sinh phần lớn sự cố sau khi hạ cánh. eSIM Thổ Nhĩ Kỳ phải là đường dữ liệu. SIM nhà phải đảm nhiệm Thoại và SMS. Chuyển đổi dữ liệu di động phải bị tắt.
 
-### SIM kép trên iPhone cho eSIM Thổ Nhĩ Kỳ
+### Dual SIM trên iPhone cho eSIM Thổ Nhĩ Kỳ
 
-1. Mở **Cài đặt** → **Dữ liệu di động**.
-2. Trong **Dữ liệu Cellular**, chọn **eSIM Thổ Nhĩ Kỳ**.
-3. Trong **Đường dây thoại mặc định**, chọn **SIM nhà** của bạn.
-4. Bật **TẮT** chuyển vùng dữ liệu cho SIM nhà.
-5. Bật **BẬT** chuyển vùng dữ liệu cho eSIM Thổ Nhĩ Kỳ sau khi hạ cánh.
-6. Bật **TẮT** “Cho phép chuyển đổi dữ liệu di động.”
+1. Mở **Settings** → **Mobile Data**.
+2. Trong mục **Cellular Data**, chọn **eSIM Thổ Nhĩ Kỳ**.
+3. Trong mục **Default Voice Line**, chọn **SIM nhà**.
+4. TẮT chuyển vùng dữ liệu cho SIM nhà.
+5. BẬT chuyển vùng dữ liệu cho eSIM Thổ Nhĩ Kỳ sau khi hạ cánh.
+6. TẮT "Allow Mobile Data Switching".
 
-### SIM kép trên Android cho eSIM Thổ Nhĩ Kỳ
+### Dual SIM trên Android cho eSIM Thổ Nhĩ Kỳ
 
-**Samsung:** Cài đặt → Kết nối → Trình quản lý thẻ SIM. Chọn eSIM Thổ Nhĩ Kỳ cho **Dữ liệu di động**. Chọn SIM nhà cho **Cuộc gọi** và **Tin nhắn văn bản**. Tắt chuyển vùng trên SIM nhà và bật cho eSIM.
+**Samsung:** Settings → Connections → SIM Card Manager. Chọn eSIM Thổ Nhĩ Kỳ cho **Mobile Data**. Chọn SIM nhà cho **Calls** và **Text Messages**. Tắt chuyển vùng trên SIM nhà và bật trên eSIM.
 
-**Google Pixel:** Cài đặt → Mạng & Internet → SIM. Nhấn eSIM Thổ Nhĩ Kỳ và bật **Dữ liệu di động**. Nhấn SIM nhà và tắt **Dữ liệu di động** và **Chuyển vùng**. Xem [hỗ trợ eSIM Google Pixel](https://support.google.com/pixelphone/answer/10280747) để biết các bước theo từng model.
+**Google Pixel:** Settings → Network & Internet → SIMs. Nhấn eSIM Thổ Nhĩ Kỳ và bật **Mobile Data**. Nhấn SIM nhà và tắt **Mobile Data** và **Roaming**. Xem [trung tâm trợ giúp Pixel của Google](https://support.google.com/pixelphone) để biết các bước theo từng model.
 
-### Ba sai lầm tốn kém khi dùng SIM kép với eSIM Thổ Nhĩ Kỳ
+### Ba sai lầm dual SIM tốn kém với eSIM Thổ Nhĩ Kỳ
 
-**Để Dữ liệu di động trên SIM nhà.** Nhà mạng của bạn sẽ tính phí chuyển vùng cho mỗi megabyte. Xác nhận eSIM Thổ Nhĩ Kỳ là đường dây dữ liệu.
+**Để Mobile Data trên SIM nhà.** Nhà mạng nhà của bạn sẽ tính phí chuyển vùng cho từng megabyte. Xác nhận eSIM Thổ Nhĩ Kỳ là đường dữ liệu.
 
-**Quên bật chuyển vùng trên eSIM.** eSIM du lịch hoạt động như một hồ sơ chuyển vùng. Không bật chuyển vùng, nó sẽ không kết nối với mạng Thổ Nhĩ Kỳ.
+**Quên bật chuyển vùng trên eSIM.** Một eSIM du lịch vận hành như một hồ sơ chuyển vùng. Không bật chuyển vùng thì nó sẽ không kết nối được mạng Thổ Nhĩ Kỳ.
 
-**Bật “Cho phép chuyển đổi dữ liệu di động.”** Điều này cho phép điện thoại chuyển sang đường dây có tín hiệu tốt hơn. Ở Thổ Nhĩ Kỳ, điều đó có thể định tuyến dữ liệu qua SIM nhà và gây phí chuyển vùng.
+**Bật "Allow Mobile Data Switching".** Điều này cho phép điện thoại chuyển sang đường nào có sóng tốt hơn. Ở Thổ Nhĩ Kỳ, dữ liệu có thể bị định tuyến qua SIM nhà và phát sinh phí chuyển vùng.
 
-### Ma trận SIM kép cho eSIM Thổ Nhĩ Kỳ
+### Ma trận dual SIM cho eSIM Thổ Nhĩ Kỳ
 
 | Cài đặt | SIM nhà | eSIM Thổ Nhĩ Kỳ |
 |---|---|---|
-| Dữ liệu di động | TẮT | BẬT |
-| Chuyển vùng dữ liệu | TẮT | BẬT sau khi hạ cánh |
-| Thoại & SMS | BẬT | TẮT |
-| Cho phép chuyển đổi dữ liệu di động | TẮT | TẮT |
-| Gọi qua Wi-Fi | Tùy chọn | Không áp dụng |
+| Mobile Data | TẮT | BẬT |
+| Data Roaming | TẮT | BẬT sau khi hạ cánh |
+| Voice & SMS | BẬT | TẮT |
+| Allow Mobile Data Switching | TẮT | TẮT |
+| Wi-Fi Calling | Tùy chọn | Không áp dụng |
 
-## Tại sao dữ liệu cần cấu hình APN?
+## Vì sao eSIM cần cấu hình APN?
 
-APN là nguyên nhân phổ biến nhất của “có vạch sóng nhưng không có internet” trên eSIM Thổ Nhĩ Kỳ. Không có APN đúng, điện thoại có thể đăng ký trên mạng và hiển thị đầy vạch sóng, nhưng dữ liệu sẽ không truyền. Giá trị APN phụ thuộc vào nhà cung cấp eSIM của bạn, không phải nhà mạng Thổ Nhĩ Kỳ địa phương.
+APN là nguyên nhân phổ biến nhất của tình trạng "đầy vạch sóng nhưng không có internet" trên eSIM Thổ Nhĩ Kỳ. Không có APN đúng, điện thoại có thể đăng ký vào mạng và hiển thị sóng đầy vạch, nhưng dữ liệu sẽ không chảy. Giá trị APN phụ thuộc vào nhà cung cấp eSIM của bạn, chứ không phải nhà mạng Thổ Nhĩ Kỳ nội địa.
 
-### APN làm gì cho eSIM Thổ Nhĩ Kỳ
+### APN thực sự làm gì?
 
-APN cho điện thoại biết cổng nào để sử dụng cho dữ liệu di động. Không có APN đúng, điện thoại có thể đăng ký trên mạng và hiển thị vạch sóng, nhưng dữ liệu sẽ không truyền. Đây là nguyên nhân phổ biến nhất của “có vạch sóng nhưng không có internet.”
+APN cho điện thoại biết dùng cổng kết nối nào cho dữ liệu di động. Không có APN đúng, điện thoại có thể đăng ký vào mạng và hiển thị vạch sóng, nhưng dữ liệu sẽ không chảy. Đây là nguyên nhân phổ biến nhất của tình trạng "đầy vạch sóng nhưng không có internet".
 
-### Khi nào kiểm tra APN trên eSIM Thổ Nhĩ Kỳ
+### Khi nào cần kiểm tra APN trên eSIM Thổ Nhĩ Kỳ
 
 Kiểm tra APN nếu:
 
 - Điện thoại hiển thị vạch sóng và tên nhà mạng
-- Chỉ báo LTE hoặc 5G hiển thị
-- Trang web và ứng dụng không tải
-- Khởi động lại và bật/tắt Chế độ máy bay không khắc phục được
+- Chỉ báo LTE hoặc 5G hiện diện
+- Trang web và ứng dụng không tải được
+- Khởi động lại và bật/tắt Chế độ máy bay đều không hiệu quả
 
-Nếu hoàn toàn không có vạch sóng, vấn đề là đăng ký mạng, không phải APN. Hãy thử chọn mạng thủ công trước.
+Nếu không có bất kỳ vạch sóng nào, vấn đề là đăng ký mạng, không phải APN. Hãy thử chọn mạng thủ công trước.
 
-### Thiết lập APN trên iPhone cho eSIM Thổ Nhĩ Kỳ
+### Thiết lập APN trên iPhone
 
-1. Mở **Cài đặt** → **Dữ liệu di động**.
+1. Mở **Settings** → **Mobile Data**.
 2. Chọn **eSIM Thổ Nhĩ Kỳ**.
-3. Nhấn **Mạng dữ liệu di động**. Nếu menu này không hiển thị, APN được quản lý tự động bởi gói nhà mạng.
-4. Nhập giá trị APN từ xác nhận đơn hàng.
-5. Xác nhận eSIM Thổ Nhĩ Kỳ được chọn làm đường dây dữ liệu.
-6. Bật Chuyển vùng dữ liệu cho eSIM.
-7. Bật và tắt Chế độ máy bay.
+3. Nhấn **Mobile Data Network**. Nếu không thấy menu này, APN đang được carrier bundle quản lý tự động.
+4. Nhập giá trị APN từ xác nhận đơn hàng của bạn.
+5. Xác nhận eSIM Thổ Nhĩ Kỳ được chọn làm đường dữ liệu.
+6. Bật Data Roaming cho eSIM.
+7. Bật rồi tắt Chế độ máy bay.
 
-### Thiết lập APN trên Android cho eSIM Thổ Nhĩ Kỳ
+### Thiết lập APN trên Android
 
-1. Mở **Cài đặt** → **Mạng & Internet** → **SIM**.
+1. Mở **Settings** → **Network & Internet** → **SIMs**.
 2. Chọn **eSIM Thổ Nhĩ Kỳ**.
-3. Mở **Tên điểm truy cập**.
-4. Nhấn **thêm** hoặc **dấu cộng**.
-5. Nhập tên và giá trị APN từ nhà cung cấp.
-6. Để trống tên người dùng và mật khẩu, lưu và chọn hồ sơ.
+3. Mở **Access Point Names**.
+4. Nhấn **add** hoặc dấu **cộng**.
+5. Nhập một tên và giá trị APN từ nhà cung cấp.
+6. Để trống tên người dùng và mật khẩu, lưu, và chọn hồ sơ đó.
 7. Bật dữ liệu di động và chuyển vùng dữ liệu cho eSIM.
 8. Bật/tắt Chế độ máy bay.
 
-### Giá trị APN theo nhà cung cấp eSIM Thổ Nhĩ Kỳ
+### Giá trị APN theo từng nhà cung cấp eSIM Thổ Nhĩ Kỳ
 
 | Nhà cung cấp | Giá trị APN | Ghi chú |
 |---|---|---|
@@ -344,343 +348,347 @@ Nếu hoàn toàn không có vạch sóng, vấn đề là đăng ký mạng, kh
 | Nomad | nomad | Kiểm tra xác nhận đơn hàng |
 | Saily | saily | Kiểm tra xác nhận đơn hàng |
 | Roami | roam | Kiểm tra xác nhận đơn hàng |
-| Turkcell địa phương | internet | APN nhà mạng địa phương |
-| Vodafone địa phương | internet | APN nhà mạng địa phương |
-| Türk Telekom địa phương | internet | APN nhà mạng địa phương |
+| Turkcell nội địa | internet | APN nhà mạng nội địa |
+| Vodafone nội địa | internet | APN nhà mạng nội địa |
+| Türk Telekom nội địa | internet | APN nhà mạng nội địa |
 
 ### Giải thích các trường APN cho eSIM Thổ Nhĩ Kỳ
 
-| Trường | Chức năng | Giá trị điển hình |
+| Trường | Tác dụng | Giá trị điển hình |
 |---|---|---|
-| Tên | Nhãn cho hồ sơ APN | “eSIM Thổ Nhĩ Kỳ” |
-| APN | Địa chỉ cổng | Tùy nhà cung cấp |
-| Tên người dùng | Tên đăng nhập xác thực | Thường trống |
-| Mật khẩu | Mật khẩu xác thực | Thường trống |
+| Name | Nhãn cho hồ sơ APN | "Turkey eSIM" |
+| APN | Địa chỉ cổng kết nối | Tùy nhà cung cấp |
+| Username | Tên người dùng xác thực | Thường để trống |
+| Password | Mật khẩu xác thực | Thường để trống |
 | MCC | Mã quốc gia di động | 286 (Thổ Nhĩ Kỳ) |
-| MNC | Mã mạng di động | Thay đổi theo nhà mạng |
-| Loại APN | Loại lưu lượng | default,supl |
-| Giao thức APN | Phiên bản IP | IPv4/IPv6 |
+| MNC | Mã mạng di động | Tùy nhà mạng |
+| APN Type | Loại lưu lượng | default,supl |
+| APN Protocol | Phiên bản IP | IPv4/IPv6 |
 
-### Xung đột gói nhà mạng trên eSIM Thổ Nhĩ Kỳ
+### Xung đột Carrier Bundle trên eSIM Thổ Nhĩ Kỳ
 
-Gói nhà mạng chứa cài đặt APN, cài đặt MMS và cấu hình mạng khác. Vấn đề xảy ra khi gói đã lỗi thời, thiếu hoặc xung đột với cài đặt của nhà cung cấp eSIM.
+Carrier bundle chứa cài đặt APN, cài đặt MMS và các cấu hình mạng khác. Sự cố xảy ra khi bundle lỗi thời, bị thiếu hoặc xung đột với cài đặt của nhà cung cấp eSIM.
 
 Triệu chứng:
 
 - Trường APN trống và không thể chỉnh sửa
-- Dữ liệu hoạt động trên một số mạng nhưng không trên mạng khác
+- Dữ liệu chạy trên mạng này nhưng không chạy trên mạng khác
 - Cài đặt MMS sai
 - Tên nhà mạng hiển thị không đúng
 
-Cách khắc phục:
+Cách sửa:
 
 1. Khởi động lại điện thoại.
 2. Bật/tắt Chế độ máy bay.
 3. Cập nhật iOS hoặc Android.
-4. Xóa và cài đặt lại hồ sơ eSIM.
-5. Liên hệ nhà cung cấp để cập nhật gói nhà mạng.
+4. Gỡ và cài lại hồ sơ eSIM.
+5. Liên hệ nhà cung cấp để cập nhật carrier bundle.
 
-## Tóm tắt nhanh
+Hai thói quen giúp phòng tránh phần lớn ticket hỗ trợ về sau. Chụp màn hình EID và IMEI trước khi bay, để yêu cầu cấp lại hồ sơ không phụ thuộc vào Wi-Fi sân bay, và thử tethering một lần ở nhà — một số gói tính các kết nối chia sẻ vào cùng hạn mức dữ liệu, và phát hiện điều đó ngay tại khách sạn là thời điểm tồi tệ nhất.
 
-Bạn đã tìm hiểu về cài đặt so với kích hoạt, kiểm tra trước khi cài đặt, cài đặt QR và thủ công, SIM kép và thiết lập APN. Mô thức là hầu hết các lỗi là vấn đề cấu hình, không phải lỗi phần cứng. Tiếp theo, chúng ta sẽ đi qua cây quyết định khi có vạch sóng nhưng không có internet và các mã lỗi.
+## Tóm nhanh: Kích hoạt trước khi bay
 
-## Có vạch sóng nhưng không có internet
+Bạn đã nắm được cài đặt khác kích hoạt, các bước kiểm tra trước khi cài, cài đặt bằng QR và thủ công, dual SIM, và thiết lập APN. Quy luật là đa số sự cố là vấn đề cấu hình, không phải lỗi phần cứng. Tiếp theo, chúng ta sẽ đi qua cây quyết định cho tình trạng đầy sóng nhưng không có internet và các mã lỗi.
 
-Thực hiện các bước này theo thứ tự. Hầu hết các lỗi kết nối eSIM Thổ Nhĩ Kỳ được giải quyết ở Bước 1, Bước 2 hoặc Bước 3. Nếu không bước nào hiệu quả, vấn đề có thể là lỗi cung cấp cấu hình cần nhà cung cấp can thiệp.
+## eSIM Thổ Nhĩ Kỳ: Đầy vạch sóng nhưng không có internet
 
-### Bước 1: Xác nhận đường dây dữ liệu eSIM Thổ Nhĩ Kỳ
+Hãy lần lượt thực hiện các bước theo thứ tự. Đa số sự cố kết nối của eSIM Thổ Nhĩ Kỳ được giải quyết ở Bước 1, Bước 2 hoặc Bước 3. Nếu không bước nào hiệu quả, vấn đề nhiều khả năng là lỗi cấp phát hồ sơ cần nhà cung cấp can thiệp.
 
-Mở Cài đặt → Dữ liệu di động. Xác nhận eSIM Thổ Nhĩ Kỳ được chọn làm đường dây dữ liệu. Thay đổi duy nhất này giải quyết hầu hết các vấn đề kết nối.
+### Bước 1: Xác nhận đường dữ liệu eSIM Thổ Nhĩ Kỳ
 
-### Bước 2: Xác nhận chuyển vùng cho eSIM Thổ Nhĩ Kỳ
+Mở Settings → Mobile Data. Xác nhận eSIM Thổ Nhĩ Kỳ được chọn làm đường dữ liệu. Riêng thay đổi này đã giải quyết được đa số sự cố kết nối.
 
-Mở Cài đặt → Dữ liệu di động → eSIM Thổ Nhĩ Kỳ → Tùy chọn dữ liệu di động. Xác nhận Chuyển vùng dữ liệu đang BẬT cho đường dây eSIM.
+### Bước 2: Xác nhận chuyển vùng đang bật
+
+Mở Settings → Mobile Data → eSIM Thổ Nhĩ Kỳ → Mobile Data Options. Xác nhận Data Roaming đang BẬT cho đường eSIM.
 
 ### Bước 3: Bật/tắt Chế độ máy bay cho eSIM Thổ Nhĩ Kỳ
 
-Bật Chế độ máy bay trong 10 giây, sau đó tắt. Điều này buộc điện thoại hủy đăng ký và đăng ký lại trên mạng.
+Bật Chế độ máy bay trong 10 giây, rồi tắt. Điều này buộc điện thoại hủy đăng ký và đăng ký lại trên mạng.
 
 ### Bước 4: Khởi động lại điện thoại với eSIM Thổ Nhĩ Kỳ
 
-Tắt nguồn hoàn toàn và khởi động lại khắc phục hầu hết các vấn đề đăng ký mạng. Sau khi hạ cánh, điện thoại có thể đang giữ trạng thái mạng trước đó.
+Tắt nguồn hẳn rồi khởi động lại sẽ sửa được đa số sự cố đăng ký mạng. Sau khi hạ cánh, điện thoại có thể còn "nằm im" ở trạng thái mạng trước đó.
 
-### Bước 5: Chọn mạng thủ công cho eSIM Thổ Nhĩ Kỳ
+### Bước 5: Thử chọn mạng thủ công
 
-**iPhone:** Cài đặt → Dữ liệu di động → eSIM → Chọn mạng → tắt Tự động → chọn Turkcell, Vodafone TR hoặc Türk Telekom.
+**iPhone:** Settings → Mobile Data → eSIM → Network Selection → tắt Automatic → chọn Turkcell, Vodafone TR hoặc Türk Telekom.
 
-**Android:** Cài đặt → Mạng → SIM → eSIM → Nhà mạng → Tìm thủ công.
+**Android:** Settings → Network → SIMs → eSIM → Network Operators → Search manually.
 
-Thử từng mạng. Turkcell có vùng phủ toàn quốc mạnh nhất. Vodafone có thể hoạt động tốt hơn ở một số khu vực ven biển cụ thể. Xem [so sánh Turkcell vs Vodafone vs Türk Telekom](/blog/turkcell-vodafone-turk-telekom-esim/).
+Thử lần lượt từng mạng. Turkcell có vùng phủ sóng toàn quốc mạnh nhất. Vodafone có thể hoạt động tốt hơn ở một số vùng ven biển cụ thể. Xem bài [so sánh Turkcell vs Vodafone vs Türk Telekom](/blog/turkcell-vodafone-turk-telekom-esim/).
 
 ### Bước 6: Kiểm tra APN cho eSIM Thổ Nhĩ Kỳ
 
-Nếu vạch sóng và đăng ký mạng đều ổn nhưng dữ liệu không truyền, hãy kiểm tra APN đối chiếu với email nhà cung cấp.
+Nếu vạch sóng và đăng ký mạng bình thường nhưng dữ liệu không chảy, hãy đối chiếu APN với email nhà cung cấp.
 
-### Bước 7: Kiểm tra gói nhà mạng cho eSIM Thổ Nhĩ Kỳ
+### Bước 7: Kiểm tra Carrier Bundle cho eSIM Thổ Nhĩ Kỳ
 
-Nếu trường APN trống và bạn không thể chỉnh sửa, gói nhà mạng có thể bị thiếu hoặc lỗi thời. Khởi động lại, bật/tắt Chế độ máy bay, xóa và cài đặt lại hồ sơ, hoặc liên hệ nhà cung cấp.
+Nếu trường APN trống và bạn không thể chỉnh sửa, carrier bundle có thể bị thiếu hoặc lỗi thời. Khởi động lại, bật/tắt Chế độ máy bay, gỡ và cài lại hồ sơ, hoặc liên hệ nhà cung cấp.
 
 ### Bước 8: Liên hệ hỗ trợ cho eSIM Thổ Nhĩ Kỳ
 
-Nếu không có gì hiệu quả, hãy liên hệ hỗ trợ với ICCID và số đơn hàng của bạn. ICCID là số 19–20 chữ số trên hồ sơ eSIM. Một [eSIM cho Thổ Nhĩ Kỳ](/turkey-esim/) với hỗ trợ con người 24/7 hoạt động qua Wi-Fi sẽ cho bạn một người thật để liên hệ nếu các bước tự phục vụ thất bại.
+Nếu mọi cách đều thất bại, hãy liên hệ hỗ trợ kèm mã ICCID và số đơn hàng. ICCID là dãy 19–20 chữ số trên hồ sơ eSIM. Một [eSIM cho Thổ Nhĩ Kỳ](/turkey-esim/) với hỗ trợ con người 24/7 hoạt động qua Wi-Fi sẽ cho bạn một người thật để liên hệ khi các bước tự phục vụ thất bại.
 
-### Bảng triệu chứng-nguyên nhân eSIM Thổ Nhĩ Kỳ
+### Bảng đối chiếu triệu chứng – nguyên nhân của eSIM Thổ Nhĩ Kỳ
 
-| Triệu chứng | Nguyên nhân có thể | Cách khắc phục |
+| Triệu chứng | Nguyên nhân có thể | Cách sửa |
 |---|---|---|
-| Có vạch nhưng không có dữ liệu | Sai đường dây dữ liệu | Chọn eSIM Thổ Nhĩ Kỳ cho Dữ liệu di động |
-| Có vạch nhưng không có dữ liệu | Chuyển vùng tắt | Bật Chuyển vùng dữ liệu cho eSIM |
-| Có vạch nhưng không có dữ liệu | APN trống hoặc sai | Nhập APN đúng |
-| Có vạch nhưng không có dữ liệu | Thiếu gói nhà mạng | Khởi động lại, cài đặt lại hồ sơ |
-| Không có dịch vụ hoặc SOS | Đăng ký mạng thất bại | Khởi động lại, chọn mạng thủ công |
-| SIM nhà đang dùng dữ liệu | Chuyển đổi dữ liệu được bật | Tắt Cho phép chuyển đổi dữ liệu di động |
-| Tốc độ chậm sau khi sử dụng | Bóp băng thông Chính sách sử dụng hợp lý | Chấp nhận hoặc chuyển sang gói dữ liệu cố định |
-| Dữ liệu hoạt động rồi dừng | Đăng ký mạng bị mất | Khởi động lại, chọn mạng thủ công |
-| Dữ liệu chỉ hoạt động trên Wi-Fi | Vấn đề APN | Kiểm tra cài đặt APN |
+| Có sóng nhưng không có dữ liệu | Sai đường dữ liệu | Chọn eSIM Thổ Nhĩ Kỳ cho Mobile Data |
+| Có sóng nhưng không có dữ liệu | Chuyển vùng tắt | Bật Data Roaming cho eSIM |
+| Có sóng nhưng không có dữ liệu | APN trống hoặc sai | Nhập APN đúng |
+| Có sóng nhưng không có dữ liệu | Thiếu carrier bundle | Khởi động lại, cài lại hồ sơ |
+| No service hoặc SOS | Đăng ký mạng thất bại | Khởi động lại, chọn mạng thủ công |
+| SIM nhà bị tiêu dữ liệu | Chuyển đổi dữ liệu đang bật | Tắt Allow Mobile Data Switching |
+| Chậm sau khi dùng một mức | Giới hạn tốc độ theo FUP | Chấp nhận hoặc chuyển sang gói dữ liệu cố định |
+| Dữ liệu chạy rồi ngừng | Đăng ký mạng bị rớt | Khởi động lại, chọn mạng thủ công |
+| Dữ liệu chỉ chạy trên Wi-Fi | Vấn đề APN | Kiểm tra cài đặt APN |
 
-### Tham chiếu mã lỗi eSIM Thổ Nhĩ Kỳ
+### Bảng tra cứu mã lỗi eSIM Thổ Nhĩ Kỳ
 
-| Lỗi | Ý nghĩa | Cách khắc phục |
+| Lỗi | Ý nghĩa | Cách sửa |
 |---|---|---|
-| “Nhà mạng không được hỗ trợ” | Điện thoại khóa nhà mạng | Mở khóa với nhà mạng |
-| “eSIM không được hỗ trợ” | Không có phần cứng eUICC | Dùng thiết bị khác |
-| “Mã QR đã được sử dụng” | QR dùng một lần đã bị tiêu thụ | Yêu cầu mã QR mới |
-| “Không thể kết nối với máy chủ” | Vấn đề Wi-Fi trong khi cài đặt | Kết nối lại Wi-Fi ổn định |
-| “Không tìm thấy hồ sơ” | Sai địa chỉ SM-DP+ | Kiểm tra xác nhận đơn hàng |
-| “Cài đặt thất bại” | Tải xuống bị gián đoạn | Khởi động lại điện thoại, thử lại |
-| “Không có EID” | Thiếu phần cứng | Dùng SIM vật lý hoặc pocket Wi-Fi |
-| “Lỗi kết nối TLS” | Chặn BTK hoặc backend ngừng hoạt động | Dùng dữ liệu bình thường, liên hệ qua email |
-| “Mã kích hoạt không hợp lệ” | Mã hết hạn hoặc sai | Yêu cầu mã mới |
-| “Đăng ký mạng thất bại” | Vấn đề nhà mạng hoặc thiếu vùng phủ | Chọn mạng thủ công |
+| "Carrier not supported" | Điện thoại bị khóa nhà mạng | Mở khóa với nhà mạng |
+| "eSIM not supported" | Không có phần cứng eUICC | Dùng thiết bị khác |
+| "QR code already used" | QR dùng một lần đã bị tiêu | Yêu cầu mã QR mới |
+| "Unable to connect to server" | Lỗi Wi-Fi trong lúc cài | Kết nối lại Wi-Fi ổn định |
+| "Profile not found" | Địa chỉ SM-DP+ sai | Kiểm tra xác nhận đơn hàng |
+| "Installation failed" | Tải xuống bị gián đoạn | Khởi động lại máy, thử lại |
+| "No EID" | Thiếu phần cứng | Dùng SIM vật lý hoặc pocket Wi-Fi |
+| "TLS connection error" | Lệnh chặn BTK hoặc máy chủ backend sập | Dùng dữ liệu bình thường, liên hệ qua email |
+| "Activation code invalid" | Mã hết hạn hoặc sai | Yêu cầu mã mới |
+| "Network registration failed" | Lỗi nhà mạng hoặc vùng phủ sóng thiếu | Chọn mạng thủ công |
 
-## Đăng ký mạng
+## Đăng ký mạng eSIM
 
-Đăng ký mạng tách biệt với cấu hình APN. Điện thoại phải đăng ký trên nhà mạng Thổ Nhĩ Kỳ trước khi bất kỳ phiên dữ liệu nào có thể bắt đầu. Chọn tự động thường hoạt động, nhưng chọn thủ công là cách khắc phục khi nó không hoạt động.
+Đăng ký mạng là chuyện khác với cấu hình APN. Điện thoại phải đăng ký vào một nhà mạng Thổ Nhĩ Kỳ trước khi bất kỳ phiên dữ liệu nào có thể bắt đầu. Chọn tự động thường hoạt động, nhưng chọn thủ công là cách sửa khi nó không hoạt động.
 
-### Cách điện thoại chọn mạng eSIM Thổ Nhĩ Kỳ
+### Điện thoại chọn mạng eSIM Thổ Nhĩ Kỳ thế nào?
 
-Khi bạn bật chuyển vùng dữ liệu, điện thoại quét các mạng khả dụng và cố gắng đăng ký. Việc chọn tuân theo thứ tự ưu tiên:
+Khi bạn bật chuyển vùng dữ liệu, điện thoại quét các mạng khả dụng và cố gắng đăng ký. Việc chọn mạng theo thứ tự ưu tiên sau:
 
-1. Mạng ưu tiên từ gói nhà mạng
-2. Cường độ tín hiệu
+1. Các mạng ưu tiên từ carrier bundle
+2. Cường độ sóng
 3. Công nghệ mạng
-4. Thỏa thuận chuyển vùng
+4. Hiệp định chuyển vùng
 
-### Tại sao chọn tự động eSIM Thổ Nhĩ Kỳ thất bại
+### Vì sao chọn tự động eSIM Thổ Nhĩ Kỳ lại thất bại
 
 Chọn tự động có thể thất bại khi:
 
 - Mạng ưu tiên không khả dụng
-- Tín hiệu yếu
-- Thỏa thuận chuyển vùng không được cấu hình đúng
-- Điện thoại đang giữ trạng thái mạng trước đó
+- Sóng yếu
+- Hiệp định chuyển vùng chưa được cấu hình đúng
+- Điện thoại còn giữ trạng thái mạng trước đó
 - HLR/HSS của nhà mạng phản hồi chậm
 
-### Nên chọn mạng eSIM Thổ Nhĩ Kỳ nào
+### Nên chọn mạng eSIM Thổ Nhĩ Kỳ nào?
 
 | Mạng | Tốt nhất cho | Ghi chú |
 |---|---|---|
-| Turkcell | Nông thôn, đông Thổ Nhĩ Kỳ, Cappadocia | Tốc độ trung vị nhanh nhất |
-| Vodafone TR | Khu nghỉ dưỡng ven biển, Istanbul | Hỗ trợ tiếng Anh tốt |
-| Türk Telekom | Thành phố, du lịch tiết kiệm | Hầu hết eSIM du lịch dùng mạng này |
+| Turkcell | Vùng nông thôn, đông Thổ Nhĩ Kỳ, Cappadocia | Tốc độ trung vị nhanh nhất |
+| Vodafone TR | Khu nghỉ dưỡng ven biển, Istanbul | Hỗ trợ tiếng Anh mạnh |
+| Türk Telekom | Thành phố, du lịch tiết kiệm | Đa số eSIM du lịch dùng mạng này |
 
 ### Thời gian đăng ký eSIM Thổ Nhĩ Kỳ
 
-| Tình huống | Thời gian điển hình |
+| Kịch bản | Thời gian điển hình |
 |---|---|
 | Đăng ký lần đầu | 2–5 phút |
-| Đăng ký lại sau khởi động lại | 1–3 phút |
+| Đăng ký lại sau khi khởi động | 1–3 phút |
 | Chọn mạng thủ công | 1–2 phút |
-| Đàm phán thỏa thuận chuyển vùng | Lên đến 15 phút |
-| Tắc nghẽn mạng | Lên đến 30 phút |
+| Đàm phán hiệp định chuyển vùng | Lên đến 15 phút |
+| Mạng nghẽn | Lên đến 30 phút |
 
-Để biết dữ liệu tốc độ cấp mạng, xem [báo cáo trải nghiệm mạng di động OpenSignal Turkey](https://www.opensignal.com/reports/turkey).
+Để xem dữ liệu tốc độ ở cấp độ mạng, xem [số đo mạng độc lập của Opensignal](https://www.opensignal.com/).
 
-## Bạn có nên cài đặt lại eSIM không?
+## Có nên cài lại eSIM không?
 
-Cài đặt lại là phương án cuối cùng trước khi mua SIM địa phương. Nó cần thiết khi hồ sơ bị hỏng, gói nhà mạng bị lỗi hoặc eSIM ngừng hoạt động sau khi cập nhật điện thoại. Mã QR gốc dùng một lần, vì vậy bạn cần mã QR mới hoặc quy trình chuyển của nhà cung cấp.
+Cài lại là giải pháp cuối cùng trước khi mua SIM nội địa. Việc này cần thiết khi hồ sơ bị hỏng, carrier bundle bị lỗi hoặc eSIM ngừng hoạt động sau một lần cập nhật điện thoại. Mã QR gốc chỉ dùng một lần, nên bạn cần một mã QR mới hoặc quy trình chuyển giao từ nhà cung cấp.
 
-### Khi nào cài đặt lại eSIM Thổ Nhĩ Kỳ
+### Khi nào cần cài lại eSIM Thổ Nhĩ Kỳ
 
-Bạn có thể cần cài đặt lại hồ sơ eSIM nếu:
+Bạn có thể cần cài lại hồ sơ eSIM nếu:
 
-- Hồ sơ bị xóa vô tình
-- Gói nhà mạng bị hỏng
+- Hồ sơ bị xóa nhầm
+- Carrier bundle bị hỏng
 - Cài đặt APN không thể chỉnh sửa
-- eSIM ngừng hoạt động sau khi cập nhật điện thoại
+- eSIM ngừng hoạt động sau một lần cập nhật điện thoại
 
-### Xóa và cài đặt lại eSIM Thổ Nhĩ Kỳ
+### Xóa và cài lại eSIM Thổ Nhĩ Kỳ
 
 **iPhone:**
-1. Cài đặt → Dữ liệu di động.
+1. Settings → Mobile Data.
 2. Nhấn eSIM Thổ Nhĩ Kỳ.
-3. Nhấn “Xóa gói Cellular.”
+3. Nhấn "Remove Cellular Plan."
 4. Xác nhận.
 5. Cài đặt mã QR mới.
 
 **Android:**
-1. Cài đặt → Mạng & Internet → SIM.
+1. Settings → Network & Internet → SIMs.
 2. Nhấn eSIM Thổ Nhĩ Kỳ.
-3. Nhấn “Xóa” hoặc “Gỡ bỏ.”
+3. Nhấn "Delete" hoặc "Remove."
 4. Xác nhận.
 5. Cài đặt mã QR mới.
 
-### Nếu bạn không thể lấy mã QR eSIM Thổ Nhĩ Kỳ mới
+### Nếu không lấy được mã QR eSIM Thổ Nhĩ Kỳ mới
 
-Nếu nhà cung cấp của bạn bị BTK chặn và bạn không thể truy cập trang web của họ, bạn không thể yêu cầu mã QR mới từ bên trong Thổ Nhĩ Kỳ. Các lựa chọn:
+Nếu nhà cung cấp của bạn bị BTK chặn và bạn không truy cập được website của họ, bạn không thể yêu cầu mã QR mới từ bên trong Thổ Nhĩ Kỳ. Các lựa chọn:
 
-1. Đợi đến khi bạn rời Thổ Nhĩ Kỳ và truy cập trang web của nhà cung cấp.
-2. Sử dụng VPN để truy cập trang web của nhà cung cấp.
-3. Mua SIM Thổ Nhĩ Kỳ địa phương.
+1. Đợi đến khi rời Thổ Nhĩ Kỳ rồi truy cập website nhà cung cấp.
+2. Dùng VPN để truy cập website nhà cung cấp.
+3. Mua một SIM Thổ Nhĩ Kỳ nội địa.
 4. Mua eSIM từ nhà cung cấp không bị chặn như Klook.
 
-Để biết bối cảnh quy định đầy đủ đằng sau hạn chế này, đọc [quy tắc cấm và khả dụng BTK](/blog/turkey-esim-ban-availability-rules/).
+Để hiểu đầy đủ bối cảnh quy định đằng sau giới hạn này, đọc bài [lệnh cấm BTK và quy định khả dụng](/blog/turkey-esim-ban-availability-rules/).
 
-## Khắc phục sự cố kích hoạt nâng cao
+## Khắc phục sự cố kích hoạt eSIM Thổ Nhĩ Kỳ nâng cao
 
-Khắc phục sự cố nâng cao bao gồm các lỗi vượt qua cây quyết định cơ bản. Mỗi tình huống tương ứng với một nguyên nhân cụ thể và một cách khắc phục cụ thể.
+Khắc phục nâng cao bao quát các sự cố còn sót lại sau khi đã chạy qua cây quyết định cơ bản. Mỗi kịch bản ứng với một nguyên nhân cụ thể và một cách sửa cụ thể.
 
-### eSIM Thổ Nhĩ Kỳ kết nối nhưng không có dữ liệu truyền
+### eSIM Thổ Nhĩ Kỳ kết nối nhưng không có dữ liệu chảy
 
-Nguyên nhân: APN trống hoặc sai, chuyển vùng tắt, sai đường dây dữ liệu, thiếu gói nhà mạng, phiên dữ liệu không được thiết lập.
+Nguyên nhân: APN trống hoặc sai, chuyển vùng tắt, sai đường dữ liệu, thiếu carrier bundle, phiên dữ liệu chưa được thiết lập.
 
-Cách khắc phục: Kiểm tra APN, bật chuyển vùng, chọn eSIM Thổ Nhĩ Kỳ làm đường dây dữ liệu, khởi động lại, chọn mạng thủ công, liên hệ hỗ trợ.
+Cách sửa: Kiểm tra APN, bật chuyển vùng, chọn eSIM Thổ Nhĩ Kỳ làm đường dữ liệu, khởi động lại, chọn mạng thủ công, liên hệ hỗ trợ.
 
-### Tốc độ eSIM Thổ Nhĩ Kỳ rất chậm
+### eSIM Thổ Nhĩ Kỳ tốc độ rất chậm
 
-Nguyên nhân: Bóp băng thông Chính sách sử dụng hợp lý, tắc nghẽn mạng, tín hiệu yếu, sai mạng.
+Nguyên nhân: Giới hạn tốc độ theo Chính sách sử dụng hợp lý, mạng nghẽn, sóng yếu, sai mạng.
 
-Cách khắc phục: Kiểm tra ngưỡng FUP, chọn mạng thủ công, di chuyển đến nơi có tín hiệu mạnh hơn, chuyển sang gói dữ liệu cố định. Để tính toán kích thước gói, đọc [tính toán kích thước gói](/blog/cheapest-turkey-esim/).
+Cách sửa: Kiểm tra ngưỡng FUP, chọn mạng thủ công, chuyển đến nơi sóng mạnh hơn, chuyển sang gói dữ liệu cố định. Để biết phép tính chọn dung lượng gói, đọc bài [phép tính chọn dung lượng gói](/blog/cheapest-turkey-esim/).
 
-### eSIM Thổ Nhĩ Kỳ hoạt động rồi dừng
+### eSIM Thổ Nhĩ Kỳ chạy rồi ngừng
 
-Nguyên nhân: Đăng ký mạng bị mất, bóp FUP, điện thoại chuyển sang SIM nhà, xung đột gói nhà mạng.
+Nguyên nhân: Đăng ký mạng bị rớt, giới hạn FUP, máy chuyển sang SIM nhà, xung đột carrier bundle.
 
-Cách khắc phục: Khởi động lại, kiểm tra đường dây dữ liệu, kiểm tra FUP, chọn mạng thủ công, cài đặt lại nếu cần.
+Cách sửa: Khởi động lại, kiểm tra đường dữ liệu, kiểm tra FUP, chọn mạng thủ công, cài lại nếu cần.
 
-### eSIM Thổ Nhĩ Kỳ không cài đặt được
+### eSIM Thổ Nhĩ Kỳ không cài được
 
-Nguyên nhân: Điện thoại khóa nhà mạng, không có phần cứng eUICC, vấn đề Wi-Fi, mã QR đã dùng, SM-DP+ ngừng hoạt động.
+Nguyên nhân: Điện thoại bị khóa nhà mạng, không có phần cứng eUICC, lỗi Wi-Fi, mã QR đã dùng, SM-DP+ sập.
 
-Cách khắc phục: Kiểm tra khóa nhà mạng, kiểm tra EID, thử Wi-Fi khác, yêu cầu QR mới, liên hệ hỗ trợ.
+Cách sửa: Kiểm tra khóa nhà mạng, kiểm tra EID, thử Wi-Fi khác, yêu cầu mã QR mới, liên hệ hỗ trợ.
 
-### eSIM Thổ Nhĩ Kỳ cài đặt nhưng không hiển thị
+### eSIM Thổ Nhĩ Kỳ cài được nhưng không thấy
 
-Nguyên nhân: Cài đặt không hoàn tất, điện thoại cần khởi động lại, eSIM bị tắt.
+Nguyên nhân: Cài đặt chưa hoàn tất, máy cần khởi động lại, eSIM bị tắt.
 
-Cách khắc phục: Khởi động lại điện thoại, kiểm tra Cài đặt → Dữ liệu di động, kiểm tra SIM, cài đặt lại.
+Cách sửa: Khởi động lại máy, kiểm tra Settings → Mobile Data, kiểm tra SIMs, cài lại.
 
-## Ví dụ thực tế: Daniel, người lần đầu tại sân bay Istanbul
+## Ví dụ thực tế: Daniel, người mới dùng lần đầu tại sân bay Istanbul
 
-Daniel hạ cánh tại IST với eSIM vẫn không hoạt động vì anh để chuyển vùng dữ liệu tắt. Thay vì cài đặt lại, anh bật chuyển vùng, khởi động lại điện thoại và có tín hiệu trong vòng hai phút — thứ tự khắc phục đã cứu chuyến đi của anh.
+Daniel hạ cánh tại IST với eSIM vẫn đang ngủ đông vì anh ấy để chuyển vùng dữ liệu ở trạng thái tắt. Thay vì cài lại, anh ấy bật chuyển vùng, khởi động lại máy, và có sóng trong vòng hai phút — thứ tự sửa lỗi đã cứu chuyến đi của anh ấy.
 
-## Tình huống thiết lập nào phù hợp với bạn
+## Kịch bản thiết lập eSIM Thổ Nhĩ Kỳ nào giống bạn?
 
-| Tình huống thiết lập | Hành động của bạn | Tại sao |
+| Tình huống thiết lập | Việc bạn cần làm | Lý do |
 | --- | --- | --- |
-| Sắp bay, đã mua eSIM | Cài đặt trên Wi-Fi trước khi lên máy bay | Tránh bị chặn sau khi hạ cánh |
-| Có vạch sóng nhưng không có internet | Bật chuyển vùng, sau đó kiểm tra APN | Cách khắc phục phổ biến nhất |
-| Đã cài đặt nhưng vẫn không có mạng | Thử chọn mạng thủ công | Hồ sơ không hoạt động cần một cú hích |
+| Sắp bay, đã mua eSIM | Cài đặt qua Wi-Fi trước khi lên máy bay | Tránh lệnh chặn sau khi hạ cánh |
+| Đầy vạch sóng nhưng không có internet | Bật chuyển vùng, rồi kiểm tra APN | Cách sửa phổ biến nhất |
+| Đã cài nhưng vẫn không có mạng | Thử chọn mạng thủ công | Hồ sơ ngủ đông cần một cú đẩy |
 
-## FAQ: Kích hoạt, QR và APN
+## FAQ: Kích hoạt, QR và APN của eSIM Thổ Nhĩ Kỳ
 
-### Sự khác biệt giữa cài đặt và kích hoạt eSIM Thổ Nhĩ Kỳ là gì?
+### Cài đặt và kích hoạt eSIM Thổ Nhĩ Kỳ khác nhau thế nào?
 
-Cài đặt tải hồ sơ xuống chip eUICC của bạn. Kích hoạt đăng ký hồ sơ đó trên mạng Thổ Nhĩ Kỳ. Cài đặt tại nhà qua Wi-Fi. Kích hoạt khi hạ cánh bằng cách bật chuyển vùng dữ liệu.
+Cài đặt tải hồ sơ xuống chip eUICC của bạn. Kích hoạt đăng ký hồ sơ đó trên một mạng Thổ Nhĩ Kỳ. Cài ở nhà qua Wi-Fi. Kích hoạt khi hạ cánh bằng cách bật chuyển vùng dữ liệu.
 
-### Làm thế nào để cài đặt eSIM Thổ Nhĩ Kỳ trên iPhone?
+### Cách cài eSIM Thổ Nhĩ Kỳ trên iPhone?
 
-Cài đặt → Dữ liệu di động → Thêm gói dữ liệu, quét mã QR, đặt tên đường dây “Turkey,” đặt cho Dữ liệu di động, giữ chuyển vùng tắt cho đến khi hạ cánh. Xem [tài liệu hỗ trợ eSIM chính thức của Apple](https://support.apple.com/en-us/HT209096) để biết các bước theo từng model.
+Settings → Mobile Data → Add Data Plan, quét mã QR, đặt tên đường "Turkey," đặt cho Mobile Data, giữ chuyển vùng tắt cho đến khi hạ cánh. Xem [tài liệu hỗ trợ eSIM chính thức của Apple](https://support.apple.com/en-us/HT209096) để biết các bước theo từng model.
 
-### Làm thế nào để cài đặt eSIM Thổ Nhĩ Kỳ trên Android?
+### Cách cài eSIM Thổ Nhĩ Kỳ trên Android?
 
-Cài đặt → Mạng & Internet → SIM → Thêm eSIM, quét mã QR, bật đường dây, chọn cho Dữ liệu di động. Bật chuyển vùng sau khi hạ cánh.
+Settings → Network & Internet → SIMs → Add eSIM, quét mã QR, bật đường truyền, chọn cho Mobile Data. Bật chuyển vùng sau khi hạ cánh.
 
-### Tại sao eSIM Thổ Nhĩ Kỳ của tôi hiển thị vạch sóng nhưng không có internet?
+### Vì sao eSIM Thổ Nhĩ Kỳ của tôi đầy vạch sóng nhưng không có internet?
 
-Ba nguyên nhân phổ biến nhất là sai đường dây dữ liệu, chuyển vùng tắt cho eSIM, và APN trống hoặc sai. Hãy thực hiện cây quyết định ở trên.
+Ba nguyên nhân phổ biến nhất là sai đường dữ liệu, chuyển vùng tắt cho eSIM, và APN trống hoặc sai. Hãy chạy qua cây quyết định ở trên.
 
-### Tôi nên dùng APN nào cho eSIM Thổ Nhĩ Kỳ?
+### Nên dùng APN nào cho eSIM Thổ Nhĩ Kỳ?
 
-APN phụ thuộc vào nhà cung cấp eSIM của bạn, không phải nhà mạng Thổ Nhĩ Kỳ địa phương. Kiểm tra email xác nhận đơn hàng. Đừng cho rằng bạn nên dùng APN của Turkcell hoặc Vodafone.
+APN phụ thuộc vào nhà cung cấp eSIM của bạn, chứ không phải nhà mạng Thổ Nhĩ Kỳ nội địa. Hãy kiểm tra email xác nhận đơn hàng. Đừng mặc định là phải dùng APN của Turkcell hay Vodafone.
 
-### Mã QR báo “đã được sử dụng” — giờ phải làm sao?
+### Mã QR báo "already used" – giờ phải làm gì?
 
-Mã QR dùng một lần. Liên hệ nhà cung cấp để được thay thế. Đừng khôi phục cài đặt gốc của điện thoại như giải pháp đầu tiên.
+Mã QR chỉ dùng một lần. Liên hệ nhà cung cấp để được thay thế. Đừng vội khôi phục cài đặt gốc điện thoại như giải pháp đầu tiên.
 
 ### Kích hoạt eSIM Thổ Nhĩ Kỳ mất bao lâu?
 
-Cài đặt mất khoảng 60 giây trên Wi-Fi. Đăng ký mạng sau khi hạ cánh thường mất 2–5 phút.
+Cài đặt mất khoảng 60 giây qua Wi-Fi. Đăng ký mạng sau khi hạ cánh thường mất 2–5 phút.
 
-### Địa chỉ SM-DP+ cho eSIM Thổ Nhĩ Kỳ là gì?
+### Địa chỉ SM-DP+ của eSIM Thổ Nhĩ Kỳ là gì?
 
-Địa chỉ SM-DP+ là máy chủ lưu giữ hồ sơ eSIM của bạn. Đó là tên miền hoặc địa chỉ IP mà điện thoại của bạn liên hệ trong khi cài đặt. Mã kích hoạt là token dùng một lần.
+Địa chỉ SM-DP+ là máy chủ lưu giữ hồ sơ eSIM của bạn. Đó là một tên miền hoặc địa chỉ IP mà điện thoại của bạn liên hệ trong quá trình cài đặt. Mã kích hoạt là token dùng một lần.
 
-### Tôi có thể kích hoạt eSIM Thổ Nhĩ Kỳ mà không cần ứng dụng nhà cung cấp không?
+### Có thể kích hoạt eSIM Thổ Nhĩ Kỳ mà không cần ứng dụng nhà cung cấp không?
 
-Có. Kích hoạt được thực hiện qua cài đặt điện thoại của bạn, không phải ứng dụng nhà cung cấp. Bật chuyển vùng dữ liệu cho đường dây eSIM và đợi 2–5 phút để đăng ký mạng.
+Có. Kích hoạt được thực hiện qua cài đặt của điện thoại, không phải qua ứng dụng nhà cung cấp. Bật chuyển vùng dữ liệu cho đường eSIM và đợi 2–5 phút để đăng ký mạng.
 
-### Nếu eSIM Thổ Nhĩ Kỳ của tôi không kết nối sau khi hạ cánh thì sao?
+### Nếu eSIM Thổ Nhĩ Kỳ không kết nối sau khi hạ cánh thì sao?
 
-Kiểm tra đường dây dữ liệu, bật chuyển vùng, khởi động lại, thử chọn mạng thủ công, kiểm tra APN. Nếu không hiệu quả, liên hệ hỗ trợ. Nếu nhà cung cấp bị chặn, dùng hỗ trợ qua Wi-Fi. Để xem quy trình khắc phục sự cố đầy đủ, đọc [các bước khắc phục sự cố](/blog/how-turkey-esim-works-activation/).
+Kiểm tra đường dữ liệu, bật chuyển vùng, khởi động lại, thử chọn mạng thủ công, kiểm tra APN. Nếu không cách nào hiệu quả, liên hệ hỗ trợ. Nếu nhà cung cấp bị chặn, hãy dùng hỗ trợ qua Wi-Fi.
 
-### Tôi nên chọn mạng nào thủ công cho eSIM Thổ Nhĩ Kỳ?
+### Nên chọn mạng thủ công nào cho eSIM Thổ Nhĩ Kỳ?
 
 Turkcell cho vùng nông thôn, Cappadocia và đông Thổ Nhĩ Kỳ. Vodafone TR cho khu nghỉ dưỡng ven biển và Istanbul. Türk Telekom cho thành phố và du lịch tiết kiệm.
 
-### Tôi có thể cài đặt lại eSIM Thổ Nhĩ Kỳ sau khi xóa không?
+### Có thể cài lại eSIM Thổ Nhĩ Kỳ sau khi xóa không?
 
-Chỉ khi bạn có mã QR mới hoặc nhà cung cấp hỗ trợ chuyển eSIM. Mã QR gốc dùng một lần. Nếu nhà cung cấp bị BTK chặn, bạn không thể yêu cầu mã QR mới từ bên trong Thổ Nhĩ Kỳ.
+Chỉ khi bạn có mã QR mới hoặc nhà cung cấp hỗ trợ chuyển giao eSIM. Mã QR gốc chỉ dùng một lần. Nếu nhà cung cấp bị BTK chặn, bạn không thể yêu cầu mã QR mới từ bên trong Thổ Nhĩ Kỳ.
 
 ### Kích hoạt eSIM Thổ Nhĩ Kỳ có hoạt động mà không cần mã QR không?
 
-Có, nếu nhà cung cấp cung cấp địa chỉ SM-DP+ và mã kích hoạt. Cài đặt thủ công được dùng khi camera QR không quét được. Cả hai phương pháp đều tải cùng một hồ sơ xuống cùng một chip eUICC.
+Có, nếu nhà cung cấp cung cấp địa chỉ SM-DP+ và mã kích hoạt. Cài đặt thủ công được dùng khi camera không quét được mã QR. Cả hai phương pháp đều tải cùng một hồ sơ lên cùng một chip eUICC.
 
-## Danh sách kiểm tra cuối: Kích hoạt và khắc phục sự cố
+## Danh mục kiểm tra cuối: Kích hoạt và khắc phục sự cố eSIM Thổ Nhĩ Kỳ
 
-Dùng danh sách kiểm tra cuối này để xác nhận thiết lập trước khi khởi hành, chuẩn bị cho việc hạ cánh và khôi phục nếu có sự cố. Lệnh chặn BTK khiến việc cài đặt trước khi khởi hành trở thành bắt buộc với hầu hết nhà cung cấp.
+Dùng danh mục này để xác nhận thiết lập trước chuyến đi, chuẩn bị cho lúc hạ cánh và khôi phục nếu có sự cố. Lệnh chặn của BTK khiến việc cài đặt trước khởi hành trở thành bắt buộc với đa số nhà cung cấp.
 
 ### Trước khi khởi hành với eSIM Thổ Nhĩ Kỳ
 
-- [ ] Kiểm tra EID và khóa nhà mạng. Xem [kiểm tra EID](/blog/turkey-esim-device-compatibility/).
-- [ ] Mua gói eSIM Thổ Nhĩ Kỳ. So sánh [tùy chọn mua an toàn và hoàn tiền](/blog/buy-turkey-esim-online/).
+- [ ] Kiểm tra EID và khóa nhà mạng. Xem bài [kiểm tra EID](/blog/turkey-esim-device-compatibility/).
+- [ ] Mua gói eSIM Thổ Nhĩ Kỳ. So sánh các [lựa chọn mua an toàn và hoàn tiền](/blog/buy-turkey-esim-online/).
 - [ ] Lưu mã QR ngoại tuyến
 - [ ] Cài đặt hồ sơ
-- [ ] Đặt tên đường dây “Turkey”
-- [ ] Đặt eSIM Thổ Nhĩ Kỳ cho Dữ liệu di động
+- [ ] Đặt tên đường "Turkey"
+- [ ] Đặt eSIM Thổ Nhĩ Kỳ cho Mobile Data
 - [ ] Đặt SIM nhà cho Thoại & SMS
-- [ ] Tắt “Cho phép chuyển đổi dữ liệu di động”
+- [ ] Tắt "Allow Mobile Data Switching"
 - [ ] Giữ chuyển vùng dữ liệu TẮT cho eSIM Thổ Nhĩ Kỳ
 - [ ] Lưu giá trị APN
-- [ ] Xác nhận eSIM xuất hiện trong Cài đặt
+- [ ] Xác nhận eSIM xuất hiện trong Settings
 - [ ] Lưu ICCID và EID
 - [ ] Tải bản đồ ngoại tuyến
 
 ### Sau khi hạ cánh với eSIM Thổ Nhĩ Kỳ
 
-- [ ] Bật Chuyển vùng dữ liệu cho eSIM Thổ Nhĩ Kỳ
+- [ ] Bật Data Roaming cho eSIM Thổ Nhĩ Kỳ
 - [ ] Đợi 2–5 phút để đăng ký mạng
-- [ ] Xác minh tên nhà mạng
-- [ ] Kiểm tra dữ liệu bằng bản đồ hoặc trình duyệt
+- [ ] Xác nhận tên nhà mạng
+- [ ] Test dữ liệu bằng bản đồ hoặc trình duyệt
 - [ ] Xác nhận SMS hoạt động trên SIM nhà
-- [ ] Kiểm tra cuộc gọi VoIP nếu cần
-- [ ] Nếu không có dữ liệu: kiểm tra đường dây dữ liệu, chuyển vùng, APN, khởi động lại, chọn mạng thủ công
+- [ ] Thử cuộc gọi VoIP nếu cần
+- [ ] Nếu không có dữ liệu: kiểm tra đường dữ liệu, chuyển vùng, APN, khởi động lại, chọn mạng thủ công
 
-### Nếu có sự cố với eSIM Thổ Nhĩ Kỳ
+### Nếu eSIM Thổ Nhĩ Kỳ gặp sự cố
 
-- [ ] Kiểm tra chọn đường dây dữ liệu
+- [ ] Kiểm tra lựa chọn đường dữ liệu
 - [ ] Kiểm tra cài đặt chuyển vùng
-- [ ] Kiểm tra APN đối chiếu với email nhà cung cấp
+- [ ] Đối chiếu APN với email nhà cung cấp
 - [ ] Khởi động lại điện thoại
 - [ ] Thử chọn mạng thủ công
-- [ ] Kiểm tra gói nhà mạng
-- [ ] Liên hệ hỗ trợ với ICCID và số đơn hàng
+- [ ] Kiểm tra carrier bundle
+- [ ] Liên hệ hỗ trợ kèm ICCID và số đơn hàng
 
-Nếu việc tự thiết lập có vẻ rủi ro, [eSIM Thổ Nhĩ Kỳ của Roami](/turkey-esim/) cài đặt từ một mã QR duy nhất và hỗ trợ bạn với hỗ trợ 24/7 hoạt động qua Wi-Fi — người dùng mới được giảm 20% cho gói khởi điểm $1.99. Để xem toàn cảnh trong một trang, đọc [tổng quan eSIM Thổ Nhĩ Kỳ](/blog/turkey-esim-ultimate-guide/).
+Người mua thận trọng có thể [thử eSIM miễn phí trước](/free-esim/) và diễn tập toàn bộ quy trình cài đặt trên Wi-Fi nhà trước khi trả tiền cho gói. Nếu tự thiết lập khiến bạn lo lắng, [eSIM Thổ Nhĩ Kỳ của Roami](/turkey-esim/) cài đặt chỉ từ một mã QR duy nhất và được hậu thuẫn bởi hỗ trợ 24/7 hoạt động qua Wi-Fi — người dùng mới được giảm 20% cho gói khởi điểm $2.99.
 
-## Kết luận
+Để thấy toàn cảnh trên một trang, đọc bài [tổng quan eSIM Thổ Nhĩ Kỳ](/blog/turkey-esim-ultimate-guide/).
 
-- SIM vật lý từ quầy sân bay bỏ qua toàn bộ quy trình này — nếu bạn không muốn chạm vào cài đặt, đó là lựa chọn hợp lý.
-- Đối với mọi người khác, eSIM được cài đặt trên Wi-Fi trước khi bạn rời đi sẽ kết nối trong vòng vài phút sau khi hạ cánh.
-- Ghi nhớ thứ tự khắc phục — đường dây dữ liệu, chuyển vùng, APN, gói nhà mạng, sau đó hỗ trợ — và chụp ảnh màn hình mã QR và giá trị APN của bạn.
-- Coi việc cài đặt lại là phương án cuối cùng, vì mã QR của bạn có thể chỉ hoạt động một lần.
+## Kết luận: Kích hoạt không có bất ngờ
+
+- Một SIM vật lý lấy tại quầy sân bay bỏ qua toàn bộ quy trình này — nếu bạn không muốn động vào cài đặt, đó là lựa chọn hợp lý.
+- Với tất cả những ai còn lại, một eSIM đã cài qua Wi-Fi trước khi đi sẽ kết nối trong vài phút sau khi hạ cánh.
+- Ghi nhớ thứ tự sửa lỗi — đường dữ liệu, chuyển vùng, APN, carrier bundle, rồi mới đến hỗ trợ — và chụp màn hình mã QR cùng giá trị APN.
+- Coi việc cài lại là giải pháp cuối cùng, vì mã QR của bạn có thể chỉ dùng được một lần.

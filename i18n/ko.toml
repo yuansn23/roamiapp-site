@@ -634,3 +634,9 @@ other = "문제가 발생했습니다. 다시 시도해 주세요."
 other = "네트워크 오류입니다. 다시 시도해 주세요."
 [lead_form_sending]
 other = "전송 중..."
+
+[esim_guides_title]
+other = "eSIM 가이드"
+
+[related_blog_title]
+other = "여행 eSIM 가이드"

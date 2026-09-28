@@ -535,3 +535,9 @@ other = "Что-то пошло не так. Попробуйте ещё раз.
 other = "Ошибка сети. Попробуйте ещё раз."
 [lead_form_sending]
 other = "Отправка..."
+
+[esim_guides_title]
+other = "Руководства по eSIM"
+
+[related_blog_title]
+other = "Руководства eSIM для путешествий"

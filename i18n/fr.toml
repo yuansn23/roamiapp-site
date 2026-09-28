@@ -635,3 +635,9 @@ other = "Une erreur est survenue. Veuillez réessayer."
 other = "Erreur réseau. Veuillez réessayer."
 [lead_form_sending]
 other = "Envoi en cours..."
+
+[esim_guides_title]
+other = "Guides eSIM"
+
+[related_blog_title]
+other = "Guides eSIM de voyage"

@@ -634,3 +634,9 @@ other = "حدث خطأ ما. يرجى المحاولة مرة أخرى."
 other = "خطأ في الشبكة. يرجى المحاولة مرة أخرى."
 [lead_form_sending]
 other = "جارٍ الإرسال..."
+
+[esim_guides_title]
+other = "أدلة eSIM"
+
+[related_blog_title]
+other = "أدلة eSIM للسفر"

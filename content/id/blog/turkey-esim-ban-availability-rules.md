@@ -1,11 +1,11 @@
 ---
-title: "eSIM da Turquia é Bloqueado? O Que Funciona e o Que Não"
-description: "Pahami blokir eSIM BTK Turki, aturan registrasi IMEI, dan apa yang masih berfungsi, plus mengapa eSIM Roami yang sudah terpasang bisa terhubung."
-keywords: ["eSIM Turki diblokir", "apakah eSIM Turki diblokir", "aturan BTK eSIM Turki", "registrasi IMEI eSIM Turki", "ketersediaan eSIM Turki", "apakah eSIM Turki legal", "penyedia eSIM Turki yang diblokir"]
-date: 2026-09-18T00:00:00Z
-lastmod: 2026-09-18T00:00:00Z
+title: "Apakah eSIM Turki Diblokir? Apa yang Berfungsi dan Apa yang Tidak"
+description: "Pahami blokir eSIM BTK di Turki, aturan registrasi IMEI, dan apa yang tetap berfungsi, plus mengapa eSIM Roami yang sudah terinstal tetap tersambung."
+keywords: ["pemblokiran turkey esim", "apakah turkey esim diblokir", "aturan btk turkey esim", "registrasi imei turkey esim", "ketersediaan turkey esim", "apakah turkey esim legal", "penyedia turkey esim yang diblokir"]
+date: 2026-09-24T00:00:00Z
+lastmod: 2026-09-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Roami menyediakan paket eSIM yang andal, melayani lebih dari 1 juta pelancong setiap tahun, dan mendukung pergantian otomatis ke jaringan lokal untuk membantu pelancong tetap terhubung di seluruh dunia."
 image: "/img/esim/turkey/turkey-esim-ban-availability-rules.jpg"
 categories: ["eSIM", "Travel", "Turkey"]
 tags: ["Turkey eSIM"]
@@ -13,7 +13,8 @@ readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Apakah eSIM Turki Diblokir? Aturan BTK dan Apa yang Masih Berfungsi"
+h1title: "Apakah eSIM Turki Diblokir? Aturan BTK dan Apa yang Tetap Berfungsi"
+
 productsTitle: "Paket eSIM Populer"
 hotPostsTitle: "Artikel Populer"
 recentPostsTitle: "Postingan Terbaru"
@@ -21,680 +22,688 @@ recentPostsTitle: "Postingan Terbaru"
 products:
   - name: "eSIM Spanyol"
     flag: "/img/flags/es.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: true
     slug: "spain"
   - name: "eSIM Portugal"
     flag: "/img/flags/pt.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: false
     slug: "portugal"
   - name: "eSIM Prancis"
     flag: "/img/flags/fr.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: false
     slug: "france"
   - name: "eSIM Italia"
     flag: "/img/flags/it.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: false
     slug: "italy"
   - name: "eSIM Inggris"
     flag: "/img/flags/gb.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: false
     slug: "uk"
   - name: "eSIM Belanda"
     flag: "/img/flags/nl.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: false
     slug: "netherlands"
 
 recentPosts:
-  - title: "Daftar Perangkat yang Kompatibel dengan eSIM"
+  - title: "eSIM Compatible Devices List"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "Transfer eSIM Lintas Platform 2026"
+  - title: "2026 Cross-Platform eSIM Transfer"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "eSIM Ganda Tidak Berfungsi? 12 Perbaikan untuk iPhone"
+  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Panduan Kompatibilitas eSIM iPhone SE"
+  - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Panduan Lengkap Penyiapan eSIM iPhone 11"
+  - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-## Larangan & Ketersediaan eSIM Turki: Aturan BTK, Risiko IMEI & Apa yang Berfungsi
 
-eSIM legal di Turki, tetapi blokir BTK pemerintah masih bisa menghentikan Anda membeli atau mengelola paket setelah mendarat. Panduan ini menjelaskan apa yang sebenarnya dilarang, apa arti aturan IMEI, dan apa yang masih berfungsi.
 
-## Sekilas
+eSIM legal di Turki, tapi blokir BTK dari pemerintah tetap bisa menghalangi Anda membeli atau mengelola paket setelah mendarat, dan pembedaan inilah yang menjebak kebanyakan pelancong. Aturan itu menyasar situs web dan aplikasi penyedia eSIM asing di jaringan seluler Turki, bukan teknologi eSIM itu sendiri, sehingga profil yang sudah terinstal tersambung normal begitu Anda tiba. Turki juga menjalankan dua jalur regulasi yang terpisah — blokir platform BTK dan aturan registrasi IMEI yang mengeluarkan ponsel asing dari jaringan Turki setelah 120 hari — dan seorang pelancong bisa patuh pada satu jalur namun tetap terjebak oleh jalur lainnya. Panduan ini menjelaskan apa yang sebenarnya diblokir, apa yang tetap berfungsi, dan apa yang harus dilakukan sebelum berangkat.
 
-- eSIM legal di Turki, dan blokir BTK hanya menargetkan situs web dan aplikasi penyedia asing, bukan profil yang sudah terpasang.
-- eSIM yang sudah terpasang akan terhubung normal begitu Anda mendarat.
-- Aturan IMEI 120 hari memengaruhi ponsel yang tinggal lama, bukan turis dalam perjalanan singkat.
-- Beli dan pasang eSIM Anda sebelum tiba, karena Anda tidak bisa mengandalkan aplikasi penyedia di dalam Turki.
+## Pemblokiran & Ketersediaan eSIM Turki: Aturan BTK, Risiko IMEI & Apa yang Berfungsi
 
-## Apa yang Dipecahkan Panduan Larangan Ini
+eSIM legal di Turki, tapi blokir BTK dari pemerintah tetap bisa menghalangi Anda membeli atau mengelola paket setelah mendarat. Panduan ini menjelaskan apa yang sebenarnya diblokir, apa arti aturan IMEI, dan apa yang tetap berfungsi.
 
-Panduan ini memecahkan lapisan regulasi: apa yang sebenarnya menentukan apakah eSIM Turki Anda akan berfungsi, dan apa yang bisa Anda lakukan secara legal. Panduan ini tidak mengulang [langkah instalasi](/blog/how-turkey-esim-works-activation/), pemeriksaan perangkat, [perbandingan penyedia](/blog/best-turkey-esim-providers/) atau harga. Itu dibahas dalam artikel mendalam yang ditautkan.
+## Aturan eSIM Turki Sekilas
 
-Turki memiliki dua jalur regulasi terpisah. Keduanya beroperasi secara independen. Seorang pelancong bisa mematuhi satu jalur dan tetap terkena jalur lainnya:
+- eSIM legal di Turki, dan blokir BTK hanya menyasar situs web dan aplikasi penyedia asing, bukan profil yang sudah terinstal.
+- eSIM yang sudah terinstal tersambung normal begitu Anda mendarat.
+- Aturan IMEI 120 hari memengaruhi ponsel tinggal panjang, bukan turis yang berperjalanan singkat.
+- Beli dan instal eSIM Anda sebelum tiba, karena Anda tidak bisa mengandalkan aplikasi penyedia di dalam Turki.
+
+## Apa yang Diselesaikan oleh Panduan Pemblokiran eSIM Turki Ini
+
+Panduan ini menyelesaikan lapisan regulasi: apa yang sebenarnya menentukan apakah eSIM Turki Anda akan berfungsi, dan apa yang bisa Anda lakukan secara legal. Panduan ini tidak mengulangi [langkah instalasi](/blog/how-turkey-esim-works-activation/), pemeriksaan perangkat, [perbandingan penyedia](/blog/best-turkey-esim-providers/) atau harga. Itu semua dibahas di artikel pendalaman yang ditautkan.
+
+Turki memiliki dua jalur regulasi yang terpisah. Keduanya beroperasi secara independen. Seorang pelancong bisa patuh pada satu dan tetap terjebak oleh lainnya:
 
 1. **Blokir platform BTK** — memblokir situs web dan aplikasi penyedia eSIM asing dari jaringan seluler Turki.
 2. **Aturan registrasi IMEI** — memblokir ponsel asing dari jaringan Turki setelah 120 hari.
 
-Intinya: eSIM Turki yang sudah terpasang berfungsi normal setelah mendarat. Blokir menargetkan pembelian dan pengelolaan eSIM, bukan penggunaannya.
+Kesimpulan praktisnya: eSIM Turki yang sudah terinstal bekerja normal setelah mendarat. Blokir itu menyasar pembelian dan pengelolaan eSIM, bukan penggunaannya.
 
-## Apa Sebenarnya Blokir Platform BTK?
+## Apa Sebenarnya Blokir Platform eSIM BTK Itu?
 
-Blokir BTK adalah blokir platform, bukan larangan teknologi. Ini menargetkan situs web dan aplikasi penyedia eSIM asing dari jaringan seluler Turki. Ini tidak menonaktifkan perangkat keras eSIM atau menghentikan profil yang sudah terpasang untuk terhubung.
+Blokir BTK adalah blokir platform, bukan larangan teknologi. Ia menyasar situs web dan aplikasi penyedia eSIM asing dari jaringan seluler Turki. Ia tidak menonaktifkan perangkat keras eSIM atau menghentikan profil yang sudah terinstal untuk tersambung.
 
-### Apa yang Diatur BTK di Pasar eSIM Turki
+### Apa yang Sebenarnya Diatur BTK
 
-BTK adalah Otoritas Teknologi Informasi dan Komunikasi Turki. Ini mengatur komunikasi elektronik, registrasi layanan, lisensi, dan kepatuhan platform. Keputusan pemblokirannya menargetkan situs web dan aplikasi penyedia eSIM asing, bukan teknologi eSIM itu sendiri. Kewenangan BTK berasal dari UU No. 5809 tentang Komunikasi Elektronik. Penyedia eSIM asing tanpa lisensi operasi Turki termasuk dalam penegakan ini.
+BTK adalah otoritas Teknologi Informasi dan Komunikasi Turki (Türkiye Bilgi Teknolojileri ve İletişim Kurumu). Ia mengatur komunikasi elektronik, registrasi layanan, perizinan, dan kepatuhan platform. Keputusan pemblokirannya menyasar situs web dan aplikasi penyedia eSIM asing, bukan teknologi eSIM itu sendiri. Kewenangan BTK bersumber dari Undang-Undang No. 5809 tentang Komunikasi Elektronik. Penyedia eSIM asing tanpa izin operasi Turki masuk dalam penegakan ini.
 
-### Nomor Keputusan Resmi BTK untuk eSIM Turki
+### Tiga Nomor Keputusan BTK
 
-Keputusan pemblokiran dikeluarkan dalam tiga gelombang. Tiga gelombang dalam dua bulan menunjukkan proses regulasi yang disengaja, bukan tindakan teknis sekali jalan.
+Keputusan pemblokiran diterbitkan dalam tiga gelombang. Tiga gelombang dalam dua bulan menunjukkan proses regulasi yang disengaja, bukan tindakan teknis sekali jalan.
 
-| Nomor keputusan | Tanggal | Cakupan |
+| Nomor keputusan | Tanggal | Ruang lingkup |
 |---|---|---|
 | E-98966759-450.08-36681 | 10 Juli 2025 | Gelombang pertama — daftar penyedia awal |
 | E-98966759-450.08-37512 | 17 Juli 2025 | Gelombang kedua — daftar diperluas |
 | E-98966759-450.08-48093 | 15 September 2025 | Gelombang ketiga — penyedia tambahan |
 
-### Mengapa Blokir eSIM Turki Terjadi
+### Mengapa Pemblokiran Itu Terjadi
 
-Alasan yang dinyatakan BTK: penyedia eSIM asing beroperasi tanpa lisensi Turki dan tanpa mematuhi aturan lokal tentang verifikasi identitas, penyimpanan data, dan penyadapan yang sah. Blokir dibingkai sebagai penegakan terhadap operator tanpa lisensi, bukan sebagai pembatasan teknologi eSIM atau kemampuan warga Turki untuk menggunakan eSIM.
+Alasan yang dikemukakan BTK: penyedia eSIM asing beroperasi tanpa perizinan Turki dan tanpa mematuhi aturan lokal soal verifikasi identitas, retensi data, dan penyadapan yang sah. Blokir itu diposisikan sebagai penegakan terhadap operator tanpa izin, bukan pembatasan teknologi eSIM atau kemampuan warga Turki untuk memakai eSIM.
 
-### Bagaimana Penegakan DNS Bekerja untuk eSIM Turki
+### Cara Kerja Penegakan DNS
 
-BTK menegakkan blokir di tingkat DNS. Ketika perangkat di jaringan seluler Turki mencoba menyelesaikan domain penyedia yang diblokir, kueri DNS tidak mengembalikan hasil yang valid. Situs web tidak memuat. Aplikasi tidak dapat menjangkau backend-nya.
+BTK menegakkan blokir itu di tingkat DNS. Ketika perangkat di jaringan seluler Turki mencoba meng-resolve domain penyedia yang diblokir, kueri DNS tidak mengembalikan hasil yang valid. Situs web tidak termuat. Aplikasi tidak bisa menjangkau backend-nya.
 
-Profil eSIM yang sudah terpasang tidak bergantung pada resolusi DNS. Profil disimpan di chip eUICC perangkat. Ini terhubung ke Turkcell, Vodafone, atau Türk Telekom melalui infrastruktur jaringan operator itu sendiri. Domain penyedia tidak terlibat dalam sesi data. [Spesifikasi GSMA SGP.22](https://www.gsma.com/esim/) mendefinisikan bagaimana provisioning ini bekerja secara independen dari situs web penyedia.
+Profil eSIM yang sudah terinstal tidak bergantung pada resolusi DNS. Profil disimpan di chip eUICC perangkat. Ia tersambung ke Turkcell, Vodafone, atau Türk Telekom melalui infrastruktur jaringan carrier itu sendiri. Domain penyedia tidak terlibat dalam sesi data. [Spesifikasi GSMA SGP.22](https://www.gsma.com/esim/) mendefinisikan cara kerja provisioning ini secara independen dari situs web penyedia.
 
-### Apa yang Tidak Dilakukan Blokir eSIM Turki
+### Apa yang Tidak Disentuh oleh Blokir
 
 - Tidak menonaktifkan perangkat keras eSIM
-- Tidak menghentikan profil eSIM yang sudah terpasang untuk terhubung
+- Tidak menghentikan profil eSIM terinstal untuk tersambung
 - Tidak menghentikan operator Turki menjual eSIM secara lokal
-- Tidak memengaruhi Wi-Fi yang menggunakan DNS non-BTK
+- Tidak memengaruhi Wi-Fi yang memakai DNS non-BTK
 - Tidak mencegah panggilan darurat (112)
-- Tidak memengaruhi profil roaming dari operator asing
+- Tidak memengaruhi profil roaming dari carrier asing
 
-### Apa yang Dilakukan Blokir eSIM Turki
+### Apa yang Disasar oleh Blokir
 
 - Memblokir situs web penyedia di jaringan seluler Turki
 - Memblokir aplikasi penyedia di jaringan seluler Turki
 - Memblokir pembelian baru dari penyedia yang diblokir di dalam Turki
-- Memblokir isi ulang dan manajemen akun melalui platform yang diblokir
-- Memblokir obrolan dukungan dalam aplikasi yang bergantung pada backend penyedia
+- Memblokir top-up dan pengelolaan akun melalui platform yang diblokir
+- Memblokir chat dukungan dalam aplikasi yang bergantung pada backend penyedia
 
-## Penyedia Mana yang Saat Ini Diblokir?
+## Penyedia eSIM Turki Mana yang Saat Ini Diblokir?
 
-Lebih dari 50 penyedia dikonfirmasi diblokir per pertengahan 2026. Daftar tersebut mencakup semua merek eSIM perjalanan internasional utama. Sejumlah kecil penyedia tetap dapat diakses, tetapi daftarnya sering berubah.
+Lebih dari 50 penyedia terkonfirmasi diblokir per pertengahan 2026. Daftar itu mencakup semua merek eSIM perjalanan internasional utama. Sejumlah kecil penyedia masih bisa diakses, tapi daftarnya sering berubah.
 
 ### Merek Internasional Utama yang Diblokir di Turki
 
 Airalo, Holafly, Saily, Nomad, Ubigi, GigSky, Flexiroam, Yesim, Jetpac, Maya Mobile, Roamless, BNESIM, Alosim, Instabridge, Mobimatter, Airhub, Sim Local, Keepgo, Roamify, eTravelSim, RedteaGo, GoMoWorld.
 
-### Penyedia eSIM Turki Tambahan yang Dikonfirmasi Diblokir
+### Penyedia Terkonfirmasi Diblokir Lainnya
 
 Holiday eSIM, GlobaleSIM, esim.io, CMLink, BetterRoaming, USIMS, AIRSIMe, EnjoyeSIM, Eskimo, SimOptions, OneSimCard, Soracom Mobile, eSIM Go, UPeSIM, Global YO, KnowRoaming, Pocket eSIM, Roafly, Romio, Surfroam, VIA eSIM, WorldSIM, YO Mobile.
 
-### Penyedia yang Tidak Ada dalam Daftar Blokir eSIM Turki yang Dikonfirmasi
+### Penyedia yang Masih Di Luar Daftar Blokir
 
-Sejumlah kecil penyedia tetap dapat diakses dari jaringan Turki. Klook adalah yang paling menonjol. Ini beroperasi di Türk Telekom dan menawarkan paket dari sekitar $4,60 untuk 10 hari dengan 1 GB harian. Klook adalah opsi cadangan bagi pelancong yang perlu membeli setelah mendarat.
+Sejumlah kecil penyedia masih bisa diakses dari jaringan Turki. Klook adalah yang paling menonjol. Ia beroperasi di Türk Telekom dan menawarkan paket mulai sekitar $4,60 untuk 10 hari dengan 1 GB per hari. Klook adalah opsi cadangan bagi pelancong yang perlu membeli setelah mendarat.
 
-Daftar yang tidak diblokir berubah. Penyedia yang dapat diakses hari ini bisa diblokir bulan depan. Jangan perlakukan status tidak diblokir sebagai strategi jangka panjang.
+Daftar non-blokir itu berubah. Penyedia yang bisa diakses hari ini mungkin diblokir bulan depan. Jangan menjadikan status non-blokir sebagai strategi jangka panjang.
 
-### Cara Melacak Status Penyedia eSIM Turki
+### Cara Melacak Status Penyedia Sendiri
 
-1. Uji situs web penyedia di data seluler Turki.
-2. Uji situs web yang sama di Wi-Fi hotel atau bandara.
-3. Periksa apakah aplikasi memuat dan login berfungsi.
-4. Catat server DNS yang digunakan oleh jaringan Wi-Fi.
-5. Tangkapan layar hasilnya dengan tanggal dan lokasi.
+1. Uji situs web penyedia lewat data seluler Turki.
+2. Uji situs yang sama lewat Wi-Fi hotel atau bandara.
+3. Cek apakah aplikasinya termuat dan login berfungsi.
+4. Catat server DNS yang dipakai jaringan Wi-Fi.
+5. Screenshot hasilnya dengan tanggal dan lokasi.
 
-Ini lebih berguna daripada mengandalkan daftar blokir statis.
+Ini lebih berguna daripada mengandalkan daftar blokir yang statis.
 
-### Bukti Uji Lapangan Istanbul untuk eSIM Turki
+### Uji Lapangan Istanbul: 15+ eSIM, Nol Kegagalan
 
-Uji lapangan di Istanbul pada Mei 2026 menguji lebih dari lima belas eSIM yang sudah terpasang dari berbagai penyedia. Tidak ada satu pun yang gagal terhubung. Ini mengonfirmasi bahwa blokir menargetkan pembelian dan pengelolaan, bukan koneksi jaringan.
+Uji lapangan di Istanbul pada Mei 2026 menguji lebih dari lima belas eSIM yang sudah terinstal dari berbagai penyedia. Tidak satu pun gagal tersambung. Ini mengonfirmasi bahwa blokir menyasar pembelian dan pengelolaan, bukan koneksi jaringan.
 
-Uji yang sama menemukan bahwa Wi-Fi hotel yang menggunakan Google DNS (8.8.8.8) atau Cloudflare DNS (1.1.1.1) dapat melewati filter BTK. Ini tidak dapat diandalkan karena Anda tidak dapat mengontrol DNS hotel.
+Uji yang sama menemukan bahwa Wi-Fi hotel yang memakai Google DNS (8.8.8.8) atau Cloudflare DNS (1.1.1.1) bisa melewati filter BTK. Ini tidak andal karena Anda tidak bisa mengontrol DNS hotel.
 
-Untuk peta kegagalan per penyedia lengkap, baca [perbandingan penyedia](/blog/best-turkey-esim-providers/).
+Untuk peta kegagalan penyedia demi penyedia yang lengkap, baca [perbandingan penyedia](/blog/best-turkey-esim-providers/).
 
-## Bagaimana Aturan IMEI Memengaruhi Turis?
+## Bagaimana Aturan IMEI Turki Memengaruhi Turis?
 
-Aturan IMEI terpisah dari blokir BTK. Ini berlaku untuk ponsel asing yang digunakan di jaringan Turki lebih dari 120 hari. Turis dua minggu tidak pernah mencapai ambang ini. Pengunjung tinggal lama dan digital nomad harus merencanakannya.
+Aturan IMEI terpisah dari blokir BTK. Ia berlaku bagi ponsel asing yang dipakai di jaringan Turki lebih dari 120 hari. Turis dua minggu tidak pernah menyentuh ambang ini. Pengunjung tinggal panjang dan digital nomad harus merencanakannya.
 
-### Bagaimana Jam IMEI 120 Hari Dimulai
+### Bagaimana Hitungan 120 Hari IMEI Dimulai
 
-Ketika ponsel asing pertama kali terhubung ke jaringan seluler Turki, BTK mencatat IMEI-nya dan memulai hitungan mundur 120 hari. BTK mengirim SMS peringatan. Tanggal SMS itu adalah awal resminya.
+Ketika ponsel asing pertama kali tersambung ke jaringan seluler Turki, BTK mencatat IMEI-nya dan memulai hitungan mundur 120 hari. BTK mengirim SMS peringatan. Tanggal SMS itulah awal resminya.
 
-Setelah 120 hari, perangkat yang tidak terdaftar diblokir dari semua jaringan seluler Turki. Ini masih berfungsi di Wi-Fi. Ini tidak dapat melakukan panggilan, mengirim SMS, atau menggunakan data seluler pada operator Turki mana pun.
+Setelah 120 hari, perangkat yang tidak terdaftar diblokir dari semua jaringan seluler Turki. Ia masih berfungsi di Wi-Fi. Ia tidak bisa menelepon, mengirim SMS, atau memakai data seluler di carrier Turki mana pun.
 
-### Ekstensi eSIM 240 Hari Ditutup (Mei 2026)
+### Perpanjangan eSIM 240 Hari Sudah Ditutup (Mei 2026)
 
-Sebelum Mei 2026, ponsel dual-SIM atau eSIM dapat memperpanjang jam IMEI hingga 240 hari dengan menggunakan setiap slot SIM untuk jendela 120 hari terpisah. BTK menutup celah ini efektif 1 Mei 2026. Ponsel asing sekarang mendapatkan satu jam 120 hari, terlepas dari berapa banyak slot SIM yang dimilikinya.
+Sebelum Mei 2026, ponsel dual-SIM atau eSIM bisa memperpanjang hitungan IMEI hingga 240 hari dengan memakai setiap slot SIM untuk jendela 120 hari terpisah. BTK menutup celah ini efektif 1 Mei 2026. Ponsel asing kini hanya mendapat satu hitungan 120 hari, berapa pun jumlah slot SIM-nya.
 
 ### Biaya dan Proses Registrasi IMEI di Turki
 
-Biaya registrasi IMEI 2026 adalah 54.258 Lira Turki, sekitar US$1.200. Pembayaran dilakukan melalui [portal registrasi IMEI e-Devlet](https://www.turkiye.gov.tr/). Setelah pembayaran, aplikasi registrasi harus diajukan dan disetujui. Ada juga pembatasan frekuensi. Jika Anda pernah mendaftarkan ponsel sebelumnya, biasanya Anda perlu menunggu setidaknya tiga tahun kalender sebelum mendaftarkan yang lain.
+Biaya registrasi IMEI 2026 adalah 54.258 Lira Turki, sekitar US$1.200. Pembayaran dilakukan melalui [portal registrasi IMEI e-Devlet](https://www.turkiye.gov.tr/). Setelah pembayaran, permohonan registrasi harus diajukan dan disetujui. Ada juga pembatasan frekuensi. Jika Anda sebelumnya pernah mendaftarkan ponsel, biasanya Anda harus menunggu setidaknya tiga tahun kalender sebelum mendaftarkan ponsel lain.
 
 ### Apa yang Terjadi Setelah IMEI Diblokir
 
-- Perangkat tidak dapat melakukan panggilan, mengirim SMS, atau menggunakan data seluler pada operator Turki mana pun.
-- Ini masih berfungsi di Wi-Fi.
-- Ini masih berfungsi sebagai kamera, perangkat peta, dan alat pesan melalui Wi-Fi.
+- Perangkat tidak bisa menelepon, mengirim SMS, atau memakai data seluler di carrier Turki mana pun.
+- Ia masih berfungsi di Wi-Fi.
+- Ia tetap berfungsi sebagai kamera, alat peta, dan alat pesan lewat Wi-Fi.
 - Panggilan darurat (112) mungkin masih berfungsi di beberapa jaringan.
-- Blokir berlaku pada IMEI, bukan SIM atau eSIM. Melepas dan memasukkan kembali SIM tidak membantu.
+- Blokir berlaku pada IMEI, bukan SIM atau eSIM. Melepas dan memasang ulang SIM tidak membantu.
 
-### Apakah eSIM Perjalanan Memicu Jam IMEI
+### Apakah eSIM Perjalanan Memicu Hitungan IMEI
 
-eSIM perjalanan dari penyedia internasional beroperasi melalui roaming. Jam BTK biasanya dipicu dengan memasukkan SIM Turki ke perangkat asing. Profil eSIM internasional biasanya menghindari pemicu ini.
+eSIM perjalanan dari penyedia internasional beroperasi melalui roaming. Hitungan BTK biasanya dipicu oleh memasukkan SIM Turki ke perangkat asing. Profil eSIM internasional biasanya menghindari pemicu ini.
 
-Jika Anda juga menggunakan SIM Turki lokal untuk nomor lokal, itu akan memicu jam IMEI. eSIM dan SIM fisik berbagi IMEI yang sama. Jika IMEI kemudian diblokir, keduanya berhenti berfungsi di jaringan Turki.
+Jika Anda juga memakai SIM lokal Turki untuk nomor lokal, itu akan memicu hitungan IMEI. eSIM dan SIM fisik berbagi IMEI yang sama. Jika IMEI kemudian diblokir, keduanya berhenti bekerja di jaringan Turki.
 
 ### Siapa yang Harus Merencanakan Registrasi IMEI
 
-| Jenis pelancong | Risiko IMEI | Apa yang harus dilakukan |
+| Tipe pelancong | Risiko IMEI | Yang harus dilakukan |
 |---|---|---|
-| Turis 1–4 minggu | Tidak ada | Jam 120 hari tidak akan habis |
-| Turis 1–3 bulan | Rendah | Pantau jam jika menggunakan SIM lokal |
+| Turis 1–4 minggu | Tidak ada | Hitungan 120 hari tidak akan habis |
+| Turis 1–3 bulan | Rendah | Pantau hitungan jika memakai SIM lokal |
 | Digital nomad 3–6 bulan | Tinggi | Rencanakan registrasi atau gunakan perangkat yang dibeli di Turki |
-| Penduduk jangka panjang | Kritis | Daftarkan perangkat atau beli ponsel terdaftar lokal |
+| Penghuni jangka panjang | Kritis | Daftarkan perangkat atau beli ponsel terdaftar lokal |
 | Pelancong bisnis perjalanan singkat | Tidak ada | Gunakan eSIM perjalanan; hindari SIM lokal |
 | Mahasiswa 1+ tahun | Kritis | Daftarkan atau beli perangkat Turki |
 
 ### Proses Registrasi IMEI e-Devlet
 
-1. Buat akun e-Devlet (memerlukan ID Turki atau izin tinggal).
-2. Navigasi ke bagian registrasi IMEI.
+1. Buat akun e-Devlet (membutuhkan ID Turki atau izin tinggal).
+2. Buka bagian registrasi IMEI.
 3. Bayar biaya registrasi (54.258 TL pada 2026).
-4. Ajukan aplikasi registrasi.
+4. Ajukan permohonan registrasi.
 5. Tunggu persetujuan.
 6. IMEI menjadi terdaftar permanen.
 
-Untuk turis tinggal singkat, proses ini tidak relevan. Jam 120 hari tidak akan habis selama liburan dua minggu. Bagi siapa pun yang tinggal lebih dari empat bulan, registrasi IMEI atau ponsel yang dibeli lokal menjadi kebutuhan perencanaan.
+Bagi turis tinggal singkat, proses ini tidak relevan. Hitungan 120 hari tidak akan habis selama liburan dua minggu. Bagi siapa pun yang tinggal lebih dari empat bulan, registrasi IMEI atau ponsel yang dibeli lokal menjadi kebutuhan perencanaan.
 
-Jika Anda ingin sepenuhnya menghindari jalur IMEI, eSIM perjalanan yang sudah terpasang adalah jalur yang lebih sederhana. [Paket data eSIM Turki](/turkey-esim/) dari Roami mulai dari $1,99 dengan diskon 20% pengguna baru dan tidak memicu jam registrasi SIM lokal.
+Jika Anda ingin sepenuhnya menghindari jalur IMEI, eSIM perjalanan yang sudah terinstal adalah jalur yang lebih sederhana. [Paket data eSIM Turki](/turkey-esim/) dari Roami mulai dari $2,99 dengan diskon pengguna baru 20% (kode web20) dan tidak memicu hitungan registrasi SIM lokal.
 
-## Saran FCDO tentang Akses
+## Penasihat FCDO tentang Akses eSIM
 
-FCDO Inggris telah memperbarui saran perjalanan Turki untuk menyertakan pembatasan eSIM. Ini mengonfirmasi bahwa blokir adalah tindakan regulasi yang berkelanjutan, bukan gangguan sementara. Saran tersebut merekomendasikan mengunduh, mengonfigurasi, dan mengaktifkan eSIM Anda sebelum keberangkatan.
+FCDO Inggris telah memperbarui nasihat perjalanan Turki-nya untuk mencakup pembatasan eSIM. Ini mengonfirmasi bahwa blokir tersebut adalah tindakan regulasi yang berkelanjutan, bukan gangguan sementara. Nasihat itu merekomendasikan mengunduh, mengonfigurasi, dan mengaktivasi eSIM Anda sebelum berangkat.
 
-### Kata-kata Saran FCDO untuk eSIM Turki
+### Apa yang Sebenarnya Dikatakan FCDO
 
-Saran tersebut menyatakan bahwa akses ke beberapa layanan eSIM internasional independen dibatasi di Turki. Ini memperingatkan bahwa wisatawan Inggris mungkin tidak dapat mengaktifkan eSIM baru tertentu setelah mendarat. Rekomendasinya spesifik: pastikan eSIM Anda sepenuhnya diunduh, dikonfigurasi, dan diaktifkan saat masih terhubung ke jaringan Inggris sebelum keberangkatan. Lihat [saran perjalanan Turki UK FCDO](https://www.gov.uk/foreign-travel-advice/turkey).
+Nasihat itu menyatakan bahwa akses ke beberapa layanan eSIM independen internasional dibatasi di dalam Turki. Ia memperingatkan bahwa liburan asal Inggris mungkin tidak bisa mengaktivasi eSIM baru tertentu setelah mendarat — sejauh ini satu-satunya peringatan perjalanan resmi bagi pelancong Inggris yang menyebut aktivasi eSIM secara spesifik. Rekomendasinya spesifik: pastikan eSIM Anda sepenuhnya terunduh, terkonfigurasi, dan teraktivasi saat masih tersambung ke jaringan Inggris sebelum berangkat. Ini juga merupakan pengakuan eksternal paling jelas tentang bagaimana regulasi eSIM Turki kini dibaca dari luar negeri. Lihat [nasihat perjalanan Turki dari UK FCDO](https://www.gov.uk/foreign-travel-advice/turkey).
 
-### Apa yang Tidak Dikatakan Saran FCDO
+### Apa yang Tidak Dikatakan Nasihat FCDO
 
-- Tidak mengatakan eSIM dilarang di Turki.
-- Tidak mengatakan Turki tidak aman untuk perjalanan terhubung.
-- Tidak mengatakan pelancong harus menghindari Turki.
-- Tidak mengatakan pembatasan berlaku untuk semua layanan eSIM.
-- Tidak mengatakan blokir memengaruhi profil eSIM yang sudah terpasang.
+- Ia tidak mengatakan eSIM diblokir di Turki.
+- Ia tidak mengatakan Turki tidak aman untuk perjalanan terhubung.
+- Ia tidak mengatakan pelancong harus menghindari Turki.
+- Ia tidak mengatakan pembatasan berlaku untuk semua layanan eSIM.
+- Ia tidak mengatakan blokir memengaruhi profil eSIM yang sudah terinstal.
 
-### Mengapa Saran FCDO Penting untuk eSIM Turki
+### Mengapa Pembaruan FCDO Penting
 
 Pembaruan FCDO mengonfirmasi dua hal:
 
 1. Blokir BTK adalah tindakan regulasi yang berkelanjutan, bukan gangguan sementara.
 2. Pemerintah Inggris memperlakukan ini sebagai informasi perlindungan pelancong.
 
-Saran Departemen Luar Negeri AS saat ini tidak mencakup panduan khusus eSIM. GSMA menerbitkan spesifikasi eSIM SGP.22 tetapi tidak menerbitkan saran perjalanan.
+Nasihat Departemen Luar Negeri AS saat ini belum mencakup panduan spesifik eSIM. GSMA menerbitkan spesifikasi eSIM SGP.22 tapi tidak menerbitkan nasihat perjalanan.
 
-### Sumber Saran Lain tentang eSIM Turki
+### Apa yang Dikatakan Pemerintah Lain
 
 | Sumber | Negara | Panduan eSIM |
 |---|---|---|
-| FCDO | Inggris | Ya, saran eSIM spesifik |
-| Departemen Luar Negeri | AS | Tidak ada panduan khusus eSIM |
-| Auswärtiges Amt | Jerman | Tidak ada panduan khusus eSIM |
-| DFAT | Australia | Tidak ada panduan khusus eSIM |
-| Global Affairs | Kanada | Tidak ada panduan khusus eSIM |
+| FCDO | Inggris | Ya, nasihat eSIM spesifik |
+| State Department | AS | Tidak ada panduan spesifik eSIM |
+| Auswärtiges Amt | Jerman | Tidak ada panduan spesifik eSIM |
+| DFAT | Australia | Tidak ada panduan spesifik eSIM |
+| Global Affairs | Kanada | Tidak ada panduan spesifik eSIM |
 
-## Garis Waktu Regulasi dan Prospek Masa Depan
+## Linimasa Regulasi eSIM Turki dan Prospek ke Depan
 
-Blokir telah berlaku sejak Juli 2025 dan telah diperluas melalui berbagai keputusan BTK. Tidak ada indikasi akan dicabut dalam waktu dekat. Pelancong harus merencanakan blokir tetap berlaku sepanjang 2026 dan seterusnya.
+Blokir itu telah berlaku sejak Juli 2025 dan diperluas melalui beberapa keputusan BTK. Tidak ada indikasi akan dicabut dalam waktu dekat. Pelancong sebaiknya merencanakan blokir tetap berlaku sepanjang 2026 dan seterusnya.
 
-### Garis Waktu Regulasi eSIM Turki
+### Linimasa Regulasi: Juli 2025 hingga Sekarang
 
 | Tanggal | Peristiwa | Dampak |
 |---|---|---|
 | 10 Juli 2025 | Gelombang pertama keputusan pemblokiran BTK | Daftar penyedia awal diblokir |
 | 17 Juli 2025 | Gelombang kedua keputusan pemblokiran BTK | Daftar penyedia diperluas |
 | 15 September 2025 | Gelombang ketiga keputusan pemblokiran BTK | Penyedia tambahan |
-| Akhir Oktober 2025 | Lelang spektrum 5G US$2,95 miliar | Turkcell, Vodafone, Türk Telekom |
-| 1 April 2026 | Peluncuran komersial 5G | Istanbul, Ankara, Izmir lebih dulu |
-| Mei 2026 | Uji lapangan Istanbul | 15+ eSIM yang sudah terpasang terhubung |
+| Akhir Oktober 2025 | Lelang spektrum 5G senilai US$2,95 miliar | Turkcell, Vodafone, Türk Telekom |
+| 1 April 2026 | Peluncuran 5G komersial | Istanbul, Ankara, Izmir lebih dulu |
+| Mei 2026 | Uji lapangan Istanbul | 15+ eSIM terinstal tersambung |
 | Pertengahan 2026 | 50+ penyedia diblokir | Tidak ada indikasi pencabutan |
 
-### Prospek Masa Depan untuk Akses eSIM Turki
+### Ke Mana Arah Ini Selanjutnya
 
 Kemungkinan perkembangan di masa depan:
 
-- **Lebih banyak penyedia diblokir:** Daftar dapat diperluas untuk mencakup penyedia yang saat ini dapat diakses.
-- **Pemblokiran protokol VPN:** Turki dapat memperluas blokirnya ke protokol VPN, membuat solusi VPN kurang dapat diandalkan.
-- **Ekspansi eSIM lokal:** Operator Turki dapat memperluas penawaran eSIM mereka untuk turis.
-- **Adaptasi eSIM regional:** Beberapa penyedia dapat menawarkan solusi khusus Turki untuk pelanggan yang ada.
+- **Lebih banyak penyedia diblokir:** Daftar mungkin diperluas mencakup penyedia yang saat ini masih bisa diakses.
+- **Pemblokiran protokol VPN:** Turki mungkin memperluas blokirnya ke protokol VPN, membuat solusi VPN kurang andal.
+- **Perluasan eSIM lokal:** Operator Turki mungkin memperluas penawaran eSIM mereka untuk turis.
+- **Adaptasi eSIM regional:** Beberapa penyedia mungkin menawarkan solusi khusus Turki bagi pelanggan yang sudah ada.
 
-### Apa yang Harus Dipantau untuk Perubahan eSIM Turki
+### Apa yang Perlu Dipantau ke Depan
 
 1. Pengumuman resmi BTK untuk keputusan pemblokiran baru.
-2. Pembaruan saran FCDO untuk panduan eSIM baru.
+2. Pembaruan nasihat FCDO untuk panduan eSIM baru.
 3. Halaman status penyedia untuk pembaruan blokir.
-4. Reddit dan forum perjalanan untuk laporan dunia nyata.
-5. Pengumuman operator lokal untuk opsi eSIM turis baru.
+4. Reddit dan forum perjalanan untuk berita dan laporan nyata eSIM Turki.
+5. Pengumuman carrier lokal untuk opsi eSIM turis baru.
 
-Untuk data kecepatan tingkat jaringan dan detail peluncuran 5G, lihat [laporan jaringan seluler Turki OpenSignal](https://www.opensignal.com/reports/turkey).
+Untuk data kecepatan tingkat jaringan dan detail peluncuran 5G, lihat [wawasan jaringan global OpenSignal](https://www.opensignal.com/).
 
-## Rekap Singkat
+Cetakan kecil pada paket turis mengikuti logika yang sama dengan aturan pemblokiran. Batas data dan klausul fair-use (FUP)-nya berlaku persis seperti di negara asal Anda, pembatasan kecepatan mengikuti batas data bukan regulator, dan top-up bisa ditolak jika status BTK penjualnya berubah — tepat pada momen itulah syarat pengembalian dana tertulis berhenti menjadi teks standar.
 
-Anda sekarang telah membahas blokir platform BTK, jam IMEI, dan saran perjalanan FCDO. Kesimpulannya adalah blokir menghentikan Anda membeli dan mengelola eSIM, bukan menggunakannya. Selanjutnya, kita melihat apa yang bisa dan tidak bisa diperbaiki oleh VPN dan DNS, serta cara legal untuk tetap terhubung.
+## Ringkasan Cepat: Tetap di Dalam Aturan
 
-## Solusi VPN dan DNS
+Anda kini telah membahas blokir platform BTK, hitungan IMEI, dan nasihat perjalanan FCDO. Kesimpulannya, blokir menghentikan Anda membeli dan mengelola eSIM, bukan menggunakannya. Selanjutnya, kita melihat apa yang bisa dan tidak bisa diperbaiki VPN dan DNS, serta cara legal untuk tetap terhubung.
 
-VPN dapat memulihkan akses ke situs web penyedia yang diblokir. Perubahan DNS dapat berfungsi di Wi-Fi yang Anda kontrol. Keduanya bukan pengganti instalasi sebelum keberangkatan. Perbaikan yang andal adalah membeli dan memasang sebelum keberangkatan.
+## Solusi VPN dan DNS di Turki
 
-### Bypass DNS untuk Situs Web eSIM Turki
+VPN dapat memulihkan akses ke situs web penyedia yang diblokir. Perubahan DNS bisa bekerja di Wi-Fi yang Anda kontrol. Keduanya bukan pengganti instalasi pra-keberangkatan. Perbaikan yang andal adalah membeli dan menginstal sebelum berangkat.
 
-Blokir BTK ditegakkan di tingkat DNS. Ini dapat dilewati dengan menggunakan server DNS yang tidak dikontrol oleh BTK. Google DNS (8.8.8.8) dan Cloudflare DNS (1.1.1.1) adalah alternatif umum.
+### Solusi DNS: Kapan Ia Berfungsi
+
+Blokir BTK ditegakkan di tingkat DNS. Ia bisa dilewati dengan memakai server DNS yang tidak dikontrol BTK. Google DNS (8.8.8.8) dan Cloudflare DNS (1.1.1.1) adalah alternatif yang umum.
 
 **Cara mengubah DNS di iPhone:**
-1. Buka Pengaturan → Wi-Fi.
-2. Ketuk ikon (i) di samping jaringan Wi-Fi Anda.
-3. Ketuk Konfigurasi DNS → Manual.
+1. Buka Settings → Wi-Fi.
+2. Ketuk ikon (i) di sebelah jaringan Wi-Fi Anda.
+3. Ketuk Configure DNS → Manual.
 4. Tambahkan 8.8.8.8 atau 1.1.1.1.
-5. Simpan dan sambungkan kembali.
+5. Simpan dan sambungkan ulang.
 
 **Cara mengubah DNS di Android:**
-1. Buka Pengaturan → Jaringan & Internet.
+1. Buka Settings → Network & Internet.
 2. Ketuk Private DNS.
 3. Masukkan `dns.google` atau `1dot1dot1dot1.cloudflare-dns.com`.
 4. Simpan.
 
-**Keterbatasan:** Bypass DNS hanya berfungsi di Wi-Fi. Ini tidak berfungsi di jaringan seluler Turki, di mana operator menegakkan DNS BTK. Ini juga mengharuskan Anda mengontrol pengaturan DNS jaringan Wi-Fi, yang tidak dapat Anda lakukan di sebagian besar hotel dan bandara.
+**Batasan:** Solusi DNS hanya berfungsi di Wi-Fi. Tidak berfungsi di jaringan seluler Turki, di mana carrier menegakkan DNS BTK. Ia juga mengharuskan Anda mengontrol pengaturan DNS jaringan Wi-Fi, yang tidak bisa Anda lakukan di sebagian besar hotel dan bandara.
 
-### Bypass VPN untuk Platform eSIM Turki
+### Solusi VPN: Apa yang Dipulihkan
 
-VPN merutekan lalu lintas Anda melalui server di luar Turki, yang memulihkan akses ke situs web dan aplikasi penyedia yang diblokir.
+VPN merutekan trafik Anda melalui server di luar Turki, yang memulihkan akses ke situs web dan aplikasi penyedia yang diblokir.
 
 **Cara menyiapkan VPN:**
-1. Pasang aplikasi VPN sebelum keberangkatan.
-2. Berlangganan layanan VPN terpercaya.
-3. Uji VPN di Wi-Fi sebelum Anda terbang.
-4. Setelah mendarat, sambungkan ke VPN melalui Wi-Fi atau data seluler.
+1. Instal aplikasi VPN sebelum berangkat.
+2. Berlangganan layanan VPN yang bereputasi.
+3. Uji VPN lewat Wi-Fi sebelum terbang.
+4. Setelah mendarat, sambungkan VPN lewat Wi-Fi atau data seluler.
 
-**Keterbatasan:**
-- VPN mengonsumsi baterai dan dapat memperlambat koneksi Anda.
+**Batasan:**
+- VPN mengonsumsi baterai dan bisa memperlambat koneksi Anda.
 - Beberapa protokol VPN diblokir atau dibatasi di Turki.
-- VPN tidak memulihkan manajemen akun jika aplikasi penyedia memerlukan koneksi langsung.
-- VPN tidak memulihkan obrolan dukungan dalam aplikasi.
-- VPN tidak membantu jika profil eSIM Anda tidak pernah dipasang.
+- VPN tidak memulihkan pengelolaan akun jika aplikasi penyedia membutuhkan koneksi langsung.
+- VPN tidak memulihkan chat dukungan dalam aplikasi.
+- VPN tidak membantu jika profil eSIM Anda tidak pernah diinstal.
 
-### Apa yang Tidak Bisa Diperbaiki VPN untuk eSIM Turki
+### Apa yang Tidak Bisa Diperbaiki VPN
 
-- Ponsel yang terkunci operator
+- Ponsel yang terkunci carrier
 - Chip eUICC yang hilang
-- Kode QR yang sudah digunakan
+- Kode QR yang sudah terpakai
 - Backend penyedia yang sedang down
 - Sengketa pengembalian dana dengan penyedia yang diblokir
 
-### Apa yang Bisa Diperbaiki VPN untuk eSIM Turki
+### Apa yang Bisa Diperbaiki VPN
 
-- Mengakses situs web penyedia untuk memeriksa akun Anda
-- Mengakses situs web penyedia untuk mengisi ulang
+- Mengakses situs web penyedia untuk mengecek akun Anda
+- Mengakses situs web penyedia untuk top-up
 - Mengakses dukungan email
-- Mengakses dukungan obrolan berbasis web
+- Mengakses dukungan chat berbasis web
 - Membaca dokumentasi bantuan
 
-### Perbandingan DNS vs VPN untuk eSIM Turki
+### DNS vs VPN: Mana yang Membuka Blokir Apa
 
 | Metode | Berfungsi di Wi-Fi | Berfungsi di seluler | Dampak kecepatan | Dampak baterai | Keandalan |
 |---|---|---|---|---|---|
-| Perubahan DNS | ✅ Ya | ❌ Tidak | Tidak ada | Tidak ada | Tinggi di Wi-Fi |
-| VPN | ✅ Ya | ✅ Ya | Sedang | Sedang | Sedang |
+| Ubah DNS | ✅ Ya | ❌ Tidak | Tidak ada | Tidak ada | Tinggi di Wi-Fi |
+| VPN | ✅ Ya | ✅ Ya | Sedang | Sedang | Menengah |
 | DNS + VPN | ✅ Ya | ✅ Ya | Sedang | Sedang | Tinggi |
 
-## Opsi Konektivitas Legal
+## Opsi Konektivitas eSIM Turki yang Legal
 
-eSIM perjalanan yang sudah terpasang adalah opsi legal paling sederhana. Ini menghindari kedua jalur regulasi: tidak ada pemicu IMEI dan tidak ada interaksi BTK setelah instalasi. SIM lokal memberikan nomor Turki tetapi memicu jam IMEI.
+eSIM perjalanan yang sudah terinstal adalah opsi legal paling sederhana. Ia menghindari kedua jalur regulasi: tidak ada pemicu IMEI dan tidak ada interaksi BTK setelah instalasi. SIM lokal menyediakan nomor Turki tapi memicu hitungan IMEI.
 
-### eSIM Perjalanan yang Sudah Terpasang untuk Turki
+### Opsi 1: eSIM Perjalanan Pra-Instal
 
-Beli sebelum keberangkatan, pasang di Wi-Fi, aktifkan saat mendarat. Ini adalah opsi paling sederhana. Blokir BTK tidak memengaruhi eSIM yang sudah terpasang.
+Beli sebelum berangkat, instal lewat Wi-Fi, aktivasi saat mendarat. Ini opsi paling sederhana. Blokir BTK tidak memengaruhi eSIM yang sudah terinstal.
 
-**Profil regulasi:** Tidak ada pemicu IMEI, tidak ada registrasi, tidak ada interaksi BTK setelah instalasi.
-**Biaya:** Mulai dari $1,99.
+**Profil regulasi:** Tanpa pemicu IMEI, tanpa registrasi, tanpa interaksi BTK setelah instalasi.
+**Biaya:** Mulai dari $2,99.
 **Terbaik untuk:** Turis yang tinggal 1–4 minggu.
 
-### Penyedia Tidak Diblokir untuk eSIM Turki
+### Opsi 2: Penyedia Non-Blokir Setelah Mendarat
 
-Sejumlah kecil penyedia tetap dapat diakses dari jaringan Turki. Klook adalah yang paling menonjol. Ini adalah opsi cadangan bagi pelancong yang perlu membeli setelah tiba.
+Sejumlah kecil penyedia masih bisa diakses dari jaringan Turki. Klook adalah yang paling menonjol. Ini opsi cadangan bagi pelancong yang perlu membeli setelah tiba.
 
-**Profil regulasi:** Tidak ada pemicu IMEI, tidak ada registrasi.
-**Biaya:** Bervariasi menurut penyedia.
+**Profil regulasi:** Tanpa pemicu IMEI, tanpa registrasi.
+**Biaya:** Bervariasi per penyedia.
 **Terbaik untuk:** Pembelian darurat setelah mendarat.
 
-### SIM Turki Lokal untuk Pengguna eSIM Turki
+### Opsi 3: SIM Lokal Turki
 
-Ini adalah satu-satunya opsi yang memberikan nomor telepon Turki. Ini memerlukan registrasi paspor dan memicu jam IMEI.
+Ini satu-satunya opsi yang menyediakan nomor telepon Turki. Ia mewajibkan registrasi paspor dan memicu hitungan IMEI.
 
-**Profil regulasi:** Pemicu IMEI dimulai, registrasi paspor diperlukan.
+**Profil regulasi:** Pemicu IMEI dimulai, registrasi paspor wajib.
 **Biaya:** $20–$38 setelah biaya aktivasi.
-**Terbaik untuk:** Tinggal lama dan kebutuhan bisnis yang memerlukan nomor Turki.
+**Terbaik untuk:** Tinggal panjang dan kebutuhan bisnis yang membutuhkan nomor Turki.
 
-### Roaming Operator Rumah untuk eSIM Turki
+### Opsi 4: Roaming Carrier Rumah
 
-Gunakan SIM rumah Anda di Turki. Tanpa pengaturan, tanpa registrasi, tanpa masalah IMEI. Biaya roaming bisa sangat tinggi.
+Gunakan SIM rumah Anda di Turki. Tanpa setup, tanpa registrasi, tanpa masalah IMEI. Biaya roaming bisa ekstrem.
 
-**Profil regulasi:** Tidak ada pemicu IMEI, tidak ada registrasi.
-**Biaya:** £6–£8 per hari untuk banyak operator Inggris.
+**Profil regulasi:** Tanpa pemicu IMEI, tanpa registrasi.
+**Biaya:** £6–£8 per hari bagi banyak carrier Inggris.
 **Terbaik untuk:** Perjalanan sangat singkat di mana biaya bukan masalah.
 
-### Wi-Fi Plus VPN untuk eSIM Turki
+### Opsi 5: Wi-Fi Plus VPN
 
-Jika Anda memiliki eSIM yang sudah terpasang dan tidak dapat mengisi ulang, VPN dapat memulihkan akses ke situs web penyedia. Ini adalah solusi sementara, bukan solusi utama.
+Jika Anda punya eSIM terinstal dan tidak bisa top-up, VPN dapat memulihkan akses ke situs web penyedia. Ini solusi darurat, bukan solusi utama.
 
-**Profil regulasi:** Tidak ada pemicu IMEI, tidak ada registrasi.
+**Profil regulasi:** Tanpa pemicu IMEI, tanpa registrasi.
 **Biaya:** Gratis dengan langganan VPN.
-**Terbaik untuk:** Hanya konektivitas cadangan.
+**Terbaik untuk:** Konektivitas cadangan saja.
 
-### Komunikasi Satelit untuk eSIM Turki
+### Opsi 6: Pesan Satelit
 
-Beberapa ponsel yang lebih baru mendukung pesan satelit untuk keadaan darurat. Ini bukan opsi konektivitas utama, tetapi bisa menjadi cadangan keselamatan di daerah terpencil tanpa cakupan seluler.
+Beberapa ponsel lebih baru mendukung pesan satelit untuk keadaan darurat. Ini bukan opsi konektivitas utama, tapi bisa menjadi cadangan keselamatan di daerah terpencil tanpa cakupan seluler.
 
-**Profil regulasi:** Tidak ada pemicu IMEI, tidak ada registrasi.
-**Biaya:** Bervariasi menurut penyedia dan paket.
+**Profil regulasi:** Tanpa pemicu IMEI, tanpa registrasi.
+**Biaya:** Bervariasi per penyedia dan paket.
 **Terbaik untuk:** Cadangan darurat di daerah terpencil.
 
-### Perbandingan Opsi eSIM Turki Legal
+### Membandingkan Enam Opsi Legal
 
-| Opsi | Pengaturan | Nomor lokal | Pemicu IMEI | Biaya | Terbaik untuk |
+Tidak ada solusi ini yang memerlukan melangkahi aturan Turki — masing-masing tetap di dalam apa yang diizinkan regulator.
+
+| Opsi | Setup | Nomor lokal | Pemicu IMEI | Biaya | Terbaik untuk |
 |---|---|---|---|---|---|
-| eSIM perjalanan yang sudah terpasang | Sebelum keberangkatan | Tidak | Tidak | Mulai dari $1,99 | Sebagian besar turis |
-| Penyedia tidak diblokir | Setelah tiba | Tidak | Tidak | Bervariasi | Pembelian darurat |
-| SIM operator lokal | Di toko, paspor | Ya | Ya | $20–$38 | Tinggal lama, nomor lokal |
+| eSIM perjalanan pra-instal | Sebelum berangkat | Tidak | Tidak | Mulai $2,99 | Kebanyakan turis |
+| Penyedia non-blokir | Setelah tiba | Tidak | Tidak | Bervariasi | Pembelian darurat |
+| SIM operator lokal | Di toko, paspor | Ya | Ya | $20–$38 | Tinggal panjang, nomor lokal |
 | Roaming SIM rumah | Tidak ada | Nomor rumah | Tidak | £6–8/hari | Perjalanan singkat, biaya bukan masalah |
-| Wi-Fi plus VPN | Di tujuan | Tidak | Tidak | Gratis dengan VPN | Hanya cadangan |
+| Wi-Fi plus VPN | Di destinasi | Tidak | Tidak | Gratis dengan VPN | Cadangan saja |
 | Pesan satelit | Tidak ada | Tidak | Tidak | Bervariasi | Cadangan darurat |
 
-eSIM yang sudah terpasang menghindari blokir platform dan jam IMEI sekaligus, itulah sebabnya ini menjadi pilihan default bagi sebagian besar pelancong.
+eSIM pra-instal menghindari blokir platform dan hitungan IMEI sekaligus, itulah mengapa ia menjadi pilihan bawaan bagi kebanyakan pelancong.
 
-## Mitos vs Fakta BTK
+## Mitos vs Fakta eSIM BTK
 
-Kesalahpahaman paling umum adalah bahwa eSIM dilarang di Turki. Kenyataannya lebih sempit: BTK memblokir akses ke platform penyedia asing, bukan teknologinya. eSIM yang sudah terpasang berfungsi normal.
+Miskonsepsi paling umum adalah bahwa eSIM diblokir di Turki. Realitasnya lebih sempit: BTK memblokir akses ke platform penyedia asing, bukan teknologinya. eSIM yang sudah terinstal bekerja normal.
 
-### Mitos: eSIM Dilarang di Turki
+### Mitos: eSIM Diblokir di Turki
 
-**Fakta:** Teknologi eSIM legal dan operasional. Operator Turki menjual eSIM. BTK memblokir akses ke platform penyedia asing, bukan teknologinya.
+**Fakta:** Teknologi eSIM legal dan beroperasi. Operator Turki menjual eSIM. BTK memblokir akses ke platform penyedia asing, bukan teknologinya.
 
-### Mitos: eSIM Turki Anda Berhenti Berfungsi Saat Mendarat
+### Apakah eSIM Anda Berhenti Bekerja Saat Mendarat?
 
-**Fakta:** Dalam uji lapangan Istanbul Mei 2026, lebih dari lima belas eSIM yang sudah terpasang berhasil terhubung. Blokir menargetkan pembelian, bukan penggunaan.
+**Fakta:** Dalam uji lapangan Istanbul Mei 2026, lebih dari lima belas eSIM pra-instal tersambung dengan sukses. Blokir menyasar pembelian, bukan penggunaan.
 
-### Mitos: Anda Bisa Membeli eSIM Turki di Bandara Istanbul
+### Bisakah Membeli eSIM di Bandara Istanbul?
 
-**Fakta:** Wi-Fi bandara mungkin memuat situs yang diblokir secara tidak konsisten. Konter SIM bandara menjual SIM lokal dengan harga premium dengan registrasi paspor. Jangan merencanakan pembelian di bandara.
+**Fakta:** Wi-Fi bandara mungkin memuat situs yang diblokir secara tidak konsisten. Konter SIM bandara menjual SIM lokal dengan harga premium dan registrasi paspor. Jangan merencanakan berdasarkan pembelian di bandara.
 
-### Mitos: Larangan eSIM Turki Hanya Memengaruhi Airalo dan Holafly
+### Mitos: Itu Hanya Memengaruhi Airalo dan Holafly
 
-**Fakta:** Lebih dari 50 penyedia dikonfirmasi diblokir, termasuk Saily, Nomad, Ubigi, Instabridge, Mobimatter, Alosim, BNESIM, Jetpac, Maya Mobile, Roamless, Yesim, GigSky, Flexiroam, Airhub, Sim Local, Keepgo, Roamify, eTravelSim, RedteaGo dan GoMoWorld.
+**Fakta:** Lebih dari 50 penyedia terkonfirmasi diblokir, termasuk Saily, Nomad, Ubigi, Instabridge, Mobimatter, Alosim, BNESIM, Jetpac, Maya Mobile, Roamless, Yesim, GigSky, Flexiroam, Airhub, Sim Local, Keepgo, Roamify, eTravelSim, RedteaGo, dan GoMoWorld.
 
-### Mitos: Blokir eSIM Turki Bersifat Sementara
+### Blokirnya Tidak Akan Hilang
 
-**Fakta:** Blokir telah berlaku sejak 10 Juli 2025 dan diperluas melalui tiga keputusan resmi BTK. Per pertengahan 2026, ini masih berlaku.
+**Fakta:** Blokir telah berlaku sejak 10 Juli 2025, dan diperluas melalui tiga keputusan resmi BTK. Per pertengahan 2026, ia tetap berlaku.
 
-### Mitos: VPN Menyelesaikan Semuanya untuk eSIM Turki
+### Apakah VPN Menyelesaikan Segalanya?
 
-**Fakta:** VPN dapat melewati blokir untuk akses situs web. Ini tidak memulihkan manajemen akun, isi ulang, atau dukungan jika platform penyedia diblokir. Perbaikan yang andal adalah membeli dan memasang sebelum keberangkatan.
+**Fakta:** VPN bisa melewati blokir untuk akses situs web. Ia tidak memulihkan pengelolaan akun, top-up, atau dukungan jika platform penyedia diblokir. Perbaikan yang andal adalah membeli dan menginstal sebelum berangkat.
 
-### Mitos: eSIM Turki Ilegal
+### Mitos: Memakai eSIM di Turki Itu Ilegal
 
-**Fakta:** Menggunakan eSIM di Turki tidak ilegal. Pembatasan berlaku untuk platform eSIM asing tanpa lisensi. eSIM perjalanan yang sudah terpasang yang digunakan oleh turis adalah legal.
+**Fakta:** Memakai eSIM di Turki bukan hal ilegal. Pembatasan berlaku bagi platform eSIM asing tanpa izin. eSIM perjalanan pra-instal yang dipakai turis adalah legal.
 
-### Mitos: Aturan IMEI Berlaku untuk Turis eSIM Turki
+### Mitos: Aturan IMEI Berlaku bagi Turis
 
-**Fakta:** Aturan IMEI berlaku untuk ponsel asing yang digunakan di jaringan Turki lebih dari 120 hari. Turis dua minggu tidak pernah mencapai ambang ini. Aturan ini memengaruhi pengunjung tinggal lama dan digital nomad.
+**Fakta:** Aturan IMEI berlaku bagi ponsel asing yang dipakai di jaringan Turki lebih dari 120 hari. Turis dua minggu tidak pernah menyentuh ambang ini. Aturan itu memengaruhi pengunjung tinggal panjang dan digital nomad.
 
-### Mitos: eSIM Perjalanan Memicu Jam IMEI
+### Mitos: eSIM Perjalanan Memicu Hitungan IMEI
 
-**Fakta:** eSIM perjalanan dari penyedia internasional beroperasi melalui roaming dan biasanya tidak memicu jam IMEI. Jam dipicu dengan memasukkan SIM Turki ke perangkat asing.
+**Fakta:** eSIM perjalanan dari penyedia internasional beroperasi melalui roaming dan biasanya tidak memicu hitungan IMEI. Hitungan dipicu oleh memasukkan SIM Turki ke perangkat asing.
 
-### Mitos: eSIM Turki Lokal Diblokir
+### Apakah eSIM Lokal Turki Juga Diblokir?
 
-**Fakta:** eSIM Turki lokal dari Turkcell, Vodafone Turkey, dan Türk Telekom dijual di dalam negeri dan tidak terpengaruh oleh blokir platform asing.
+**Fakta:** eSIM lokal Turki dari Turkcell, Vodafone Turkey, dan Türk Telekom dijual secara domestik dan tidak terpengaruh blokir platform asing.
 
 ### Mitos: Blokir BTK Memengaruhi Wi-Fi
 
-**Fakta:** Blokir ditegakkan di tingkat DNS pada jaringan seluler Turki. Wi-Fi hotel dan bandara yang menggunakan Google DNS atau Cloudflare DNS mungkin melewati filter. Ini tidak dapat diandalkan.
+**Fakta:** Blokir ditegakkan di tingkat DNS pada jaringan seluler Turki. Wi-Fi hotel dan bandara yang memakai Google DNS atau Cloudflare DNS mungkin bisa melewati filternya. Ini tidak andal.
 
-### Mitos: Anda Bisa Mengisi Ulang eSIM Turki dari Dalam Turki
+### Bisakah Top-up Setelah Mendarat?
 
-**Fakta:** Jika penyedia Anda diblokir, Anda tidak dapat mengakses situs web atau aplikasi mereka dari jaringan seluler Turki. Beli cukup data di muka untuk menutupi seluruh perjalanan Anda.
+**Fakta:** Jika penyedia Anda diblokir, Anda tidak bisa mengakses situs atau aplikasinya dari jaringan seluler Turki. Beli cukup data di muka untuk seluruh perjalanan Anda.
 
-## Apa yang Masih Berfungsi
+## Apa yang Masih Berfungsi di Turki
 
-Aturan praktisnya sederhana: beli sebelum keberangkatan, pilih Turkcell untuk rute pedesaan, simpan SIM rumah untuk SMS, hindari ketergantungan isi ulang, dan perlakukan akses dukungan sebagai fitur. Lima aturan ini mencakup sebagian besar skenario pelancong.
+Aturan praktisnya sederhana: beli sebelum berangkat, pilih Turkcell untuk rute pedesaan, biarkan SIM rumah Anda untuk SMS, hindari ketergantungan top-up, dan perlakukan akses dukungan sebagai fitur. Lima aturan ini mencakup sebagian besar skenario pelancong.
 
-### Beli Sebelum Keberangkatan untuk eSIM Turki
+### Aturan 1: Beli dan Instal Sebelum Berangkat
 
-Satu-satunya jalur yang andal untuk penyedia yang diblokir adalah pembelian dan instalasi sebelum keberangkatan. Pasang di Wi-Fi, simpan kode QR offline, dan jaga roaming tetap mati hingga mendarat. Untuk alur pembelian lengkap, baca [panduan pembelian](/blog/buy-turkey-esim-online/).
+Satu-satunya jalur andal bagi penyedia yang diblokir adalah pembelian dan instalasi pra-keberangkatan. Instal lewat Wi-Fi, simpan kode QR offline, dan biarkan roaming mati sampai mendarat. Untuk alur kerja pembelian lengkap, baca [panduan pembelian](/blog/buy-turkey-esim-online/).
 
-### Pilih Turkcell untuk Rute eSIM Turki Pedesaan
+### Aturan 2: Pilih Turkcell untuk Rute Pedesaan
 
-Turkcell memiliki cakupan nasional terbaik, terutama di Cappadocia, Turki timur, pantai Laut Hitam, dan jalan raya pedesaan. Vodafone kuat di pantai Aegea dan Mediterania. Türk Telekom paling kuat di kota-kota. Lihat [perbandingan tiga jaringan](/blog/turkcell-vodafone-turk-telekom-esim/).
+Turkcell punya cakupan nasional terbaik, terutama di Cappadocia, Turki timur, pesisir Laut Hitam, dan jalan raya pedesaan. Vodafone kuat di pesisir Aegea dan Mediterania. Türk Telekom terkuat di kota. Lihat [perbandingan tiga jaringan](/blog/turkcell-vodafone-turk-telekom-esim/).
 
-### Simpan SIM Rumah untuk SMS pada eSIM Turki
+### Aturan 3: Biarkan SIM Rumah Anda Aktif untuk SMS
 
-eSIM perjalanan hanya data. Jaga SIM rumah Anda tetap aktif untuk Voice & SMS agar Anda dapat menerima kode 2FA bank dan verifikasi WhatsApp. Baca [panduan hanya data](/blog/turkey-esim-number-calls-sms-hotspot/).
+eSIM perjalanan hanya data. Biarkan SIM rumah Anda aktif untuk Voice & SMS agar Anda bisa menerima kode 2FA bank dan verifikasi WhatsApp. Baca [panduan hanya-data](/blog/turkey-esim-number-calls-sms-hotspot/).
 
-### Hindari Ketergantungan Isi Ulang pada eSIM Turki
+### Aturan 4: Jangan Pernah Merencanakan Berdasarkan Top-Up
 
-Jika penyedia Anda diblokir, Anda tidak dapat mengisi ulang dari dalam Turki. Beli cukup data di muka untuk seluruh perjalanan. Untuk perhitungan ukuran paket, baca [panduan ukuran paket](/blog/cheapest-turkey-esim/).
+Jika penyedia Anda diblokir, Anda tidak bisa top-up dari dalam Turki. Beli cukup data di muka untuk seluruh perjalanan. Untuk perhitungan ukuran paket, baca [panduan ukuran paket](/blog/cheapest-turkey-esim/).
 
-### Perlakukan Akses Dukungan sebagai Fitur untuk eSIM Turki
+### Aturan 5: Perlakukan Akses Dukungan sebagai Fitur
 
-Jika aktivasi gagal setelah mendarat, dukungan harus dapat dijangkau. Penyedia dengan obrolan manusia yang berfungsi melalui Wi-Fi lebih berguna di Turki daripada penyedia yang lebih murah dengan dukungan hanya email.
+Jika aktivasi gagal setelah mendarat, dukungan harus bisa dijangkau. Penyedia dengan chat manusia yang berfungsi lewat Wi-Fi lebih berguna di Turki daripada penyedia lebih murah dengan dukungan hanya-email. Kesenjangan akses dukungan adalah pola keluhan yang paling banyak terdokumentasi — lihat [keluhan Reddit dan pemeriksaan legit eSIM Turki](/blog/turkey-esim-reddit-reviews-legit/) untuk apa yang sebenarnya salah.
 
-### Uji Sebelum Terbang dengan eSIM Turki
+### Uji Instalasi Sebelum Terbang
 
-Pasang eSIM di Wi-Fi, konfirmasi muncul di Pengaturan, konfirmasi ICCID terlihat, dan jaga data roaming tetap mati. Profil tetap tidak aktif sampai Anda mengaktifkan roaming setelah mendarat. Uji ini mencegah sebagian besar kegagalan instalasi. Untuk alur aktivasi lengkap, baca [panduan pemecahan masalah APN](/blog/how-turkey-esim-works-activation/).
+Instal eSIM lewat Wi-Fi, pastikan muncul di Settings, pastikan ICCID terlihat, dan biarkan data roaming mati. Profil tetap dorman sampai Anda menyalakan roaming setelah mendarat. Uji ini mencegah sebagian besar kegagalan instalasi. Untuk alur kerja aktivasi lengkap, baca [panduan troubleshooting APN](/blog/how-turkey-esim-works-activation/).
 
-### Pasang eSIM Turki Cadangan
+### Instal eSIM Cadangan sebagai Jaring Pengaman
 
-Jika ponsel Anda mendukung dual eSIM, pasang eSIM cadangan dari penyedia yang tidak diblokir seperti Klook. Ini memberi Anda cadangan jika eSIM utama Anda gagal. Periksa [dokumentasi kompatibilitas eSIM Apple](https://support.apple.com/en-us/HT209096) untuk kompatibilitas dual eSIM.
+Jika ponsel Anda mendukung dual eSIM, instal eSIM cadangan dari penyedia yang tidak diblokir seperti Klook. Ini memberi Anda jaring pengaman jika eSIM utama Anda gagal. Versi tanpa biaya juga bisa: beberapa penyedia membagikan data trial, dan halaman [opsi trial eSIM gratis](/free-esim/) merangkum mana yang tidak perlu kartu. Cek [dokumentasi kompatibilitas eSIM Apple](https://support.apple.com/en-us/HT209096) untuk kompatibilitas dual eSIM.
 
-### Unduh Peta Offline untuk eSIM Turki
+### Unduh Peta Offline sebagai Asuransi
 
-Unduh peta offline untuk tujuan Anda sebelum terbang. Ini penting untuk Cappadocia, rute Blue Cruise, dan lokasi apa pun dengan sinyal yang tidak dapat diandalkan. Lihat [panduan tujuan turis eSIM Turki](/blog/turkey-esim-tourists-istanbul-antalya/).
+Unduh peta offline untuk destinasi Anda sebelum terbang. Ini penting untuk Cappadocia, rute Blue Cruise, dan lokasi mana pun dengan sinyal yang tidak andal. Lihat [panduan destinasi turis eSIM Turki](/blog/turkey-esim-tourists-istanbul-antalya/).
 
-## Contoh Nyata: Priya, Digital Nomad dengan Tinggal Lima Bulan
+## Contoh Nyata: Priya, Digital Nomad Tinggal Lima Bulan
 
-Priya membeli SIM lokal saat tiba dan memicu jam IMEI 120 hari tanpa menyadarinya. eSIM perjalanan yang sudah terpasang akan membuatnya tetap online tanpa registrasi, tanpa risiko IMEI, dan tanpa biaya kejutan di akhir.
+Priya membeli SIM lokal saat tiba dan memicu hitungan IMEI 120 hari tanpa menyadarinya. eSIM perjalanan pra-instal akan menjaganya tetap online tanpa registrasi, tanpa risiko IMEI, dan tanpa biaya kejutan di akhir.
 
-## Apa yang Berubah dengan Durasi Tinggal Anda
+## Apa yang Berubah Sesuai Durasi Tinggal Anda untuk eSIM
 
-| Durasi tinggal | Apa yang Anda butuhkan | Pilihan terbaik |
+| Durasi tinggal | Yang Anda butuhkan | Pilihan terbaik |
 | --- | --- | --- |
-| Di bawah 30 hari | Hanya data | eSIM perjalanan yang sudah terpasang |
-| Satu hingga empat bulan | Data plus 2FA | Data eSIM + SIM rumah untuk SMS |
-| Empat bulan plus | Nomor lokal, IMEI terdaftar | SIM lokal dengan paspor |
+| Di bawah 30 hari | Hanya data | eSIM perjalanan pra-instal |
+| Satu hingga empat bulan | Data plus 2FA | eSIM data + SIM rumah untuk SMS |
+| Empat bulan ke atas | Nomor lokal, IMEI terdaftar | SIM lokal dengan paspor |
 
-## FAQ: Larangan dan IMEI
+## FAQ: Pemblokiran dan IMEI eSIM Turki
 
-### Apakah eSIM dilarang di Turki?
+### Apakah eSIM diblokir di Turki?
 
-Tidak. Teknologi eSIM legal dan operasional. BTK memblokir akses ke situs web dan aplikasi lebih dari 50 penyedia eSIM internasional dari dalam Turki.
+Tidak. Teknologi eSIM legal dan beroperasi. BTK memblokir akses ke situs web dan aplikasi lebih dari 50 penyedia eSIM internasional dari dalam Turki.
 
 ### Apa itu blokir platform?
 
-Blokir platform mencegah akses ke situs web dan aplikasi tertentu. Larangan teknologi akan mencegah profil eSIM berfungsi di jaringan Turki. Turki telah menerapkan blokir platform.
+Blokir platform mencegah akses ke situs web dan aplikasi tertentu. Larangan teknologi akan mencegah profil eSIM bekerja di jaringan Turki. Turki menerapkan blokir platform.
 
 ### Apa nomor keputusan resmi BTK?
 
-Tiga keputusan pemblokiran adalah E-98966759-450.08-36681 (10 Juli 2025), E-98966759-450.08-37512 (17 Juli 2025) dan E-98966759-450.08-48093 (15 September 2025).
+Tiga keputusan pemblokiran itu adalah E-98966759-450.08-36681 (10 Juli 2025), E-98966759-450.08-37512 (17 Juli 2025), dan E-98966759-450.08-48093 (15 September 2025).
 
 ### Penyedia mana yang diblokir?
 
-Airalo, Holafly, Saily, Nomad, Ubigi, GigSky, Flexiroam, Yesim, Jetpac, Maya Mobile, Roamless, BNESIM, Alosim, Instabridge, Mobimatter dan banyak lainnya. Lebih dari 50 penyedia dikonfirmasi diblokir.
+Airalo, Holafly, Saily, Nomad, Ubigi, GigSky, Flexiroam, Yesim, Jetpac, Maya Mobile, Roamless, BNESIM, Alosim, Instabridge, Mobimatter, dan banyak lainnya. Lebih dari 50 penyedia terkonfirmasi diblokir.
 
 ### Penyedia mana yang tidak diblokir?
 
-Klook adalah salah satu dari sedikit penyedia yang tidak ada dalam daftar blokir BTK yang dikonfirmasi. Daftar yang tidak diblokir sering berubah, jadi jangan mengandalkannya sebagai strategi jangka panjang.
+Klook adalah salah satu dari sedikit penyedia yang tidak ada dalam daftar blokir BTK terkonfirmasi. Daftar non-blokir sering berubah, jadi jangan mengandalkannya sebagai strategi jangka panjang.
 
-### Bisakah saya menggunakan eSIM saya setelah mendarat?
+### Bisakah saya memakai eSIM saya setelah mendarat?
 
-Ya, jika dipasang sebelum keberangkatan. eSIM yang sudah terpasang terhubung normal. Blokir menargetkan pembelian dan pengelolaan eSIM, bukan penggunaannya.
+Ya, jika terinstal sebelum berangkat. eSIM pra-instal tersambung normal. Blokir menyasar pembelian dan pengelolaan eSIM, bukan penggunaannya.
 
 ### Bisakah saya membeli eSIM Turki setelah tiba?
 
-Untuk sebagian besar penyedia yang diblokir, tidak. Wi-Fi bandara tidak konsisten. Konter SIM bandara mahal dan memerlukan registrasi paspor. Klook mungkin dapat diakses sebagai cadangan.
+Bagi sebagian besar penyedia yang diblokir, tidak. Wi-Fi bandara tidak konsisten. Konter SIM bandara mahal dan mewajibkan registrasi paspor. Klook mungkin bisa diakses sebagai cadangan.
 
-### Bisakah saya mengisi ulang dari dalam Turki?
+### Bisakah saya top-up dari dalam Turki?
 
-Tidak, tidak jika penyedia Anda diblokir. Beli cukup data di muka untuk menutupi seluruh perjalanan Anda.
+Tidak, tidak jika penyedia Anda diblokir. Beli cukup data di muka untuk seluruh perjalanan Anda.
 
 ### Apakah blokir BTK memengaruhi Wi-Fi?
 
-Blokir ditegakkan di tingkat DNS pada jaringan seluler Turki. Wi-Fi hotel dan bandara yang menggunakan Google DNS atau Cloudflare DNS mungkin melewati filter. Ini tidak dapat diandalkan.
+Blokir ditegakkan di tingkat DNS pada jaringan seluler Turki. Wi-Fi hotel dan bandara yang memakai Google DNS atau Cloudflare DNS mungkin bisa melewati filternya. Ini tidak andal.
 
-### Bisakah VPN melewati blokir?
+### Bisakah VPN melewati blokirnya?
 
-VPN dapat merutekan lalu lintas ke luar Turki dan memulihkan akses situs web. Ini tidak memulihkan manajemen akun, isi ulang, atau dukungan. Ini adalah solusi sementara, bukan solusi utama.
+VPN bisa merutekan trafik ke luar Turki dan memulihkan akses situs web. Ia tidak memulihkan pengelolaan akun, top-up, atau dukungan. Itu solusi darurat, bukan solusi utama.
 
-### Apa aturan IMEI 120 hari?
+### Apa itu aturan IMEI 120 hari?
 
-Ponsel asing yang digunakan di jaringan Turki lebih dari 120 hari harus didaftarkan ke BTK atau diblokir dari jaringan seluler Turki. Biaya 2026 adalah 54.258 TL, sekitar US$1.200.
+Ponsel asing yang dipakai di jaringan Turki lebih dari 120 hari harus didaftarkan ke BTK atau akan diblokir dari jaringan seluler Turki. Biaya 2026 adalah 54.258 TL, sekitar US$1.200.
 
-### Apakah eSIM perjalanan memicu jam IMEI?
+### Apakah eSIM perjalanan memicu hitungan IMEI?
 
-eSIM perjalanan dari penyedia internasional beroperasi melalui roaming dan biasanya tidak memicu jam IMEI. SIM Turki lokal memicunya.
+eSIM perjalanan dari penyedia internasional beroperasi melalui roaming dan biasanya tidak memicu hitungan IMEI. SIM lokal Turki memicunya.
 
-### Apa itu ekstensi eSIM 240 hari?
+### Apa itu perpanjangan eSIM 240 hari?
 
-Itu adalah celah yang memungkinkan ponsel dual-SIM dan eSIM memperpanjang jam IMEI hingga 240 hari dengan menggunakan setiap slot SIM untuk jendela 120 hari terpisah. BTK menutupnya efektif 1 Mei 2026, jadi ponsel asing sekarang mendapatkan satu jam 120 hari.
+Itu adalah celah yang memungkinkan ponsel dual-SIM dan eSIM memperpanjang hitungan IMEI hingga 240 hari dengan memakai setiap slot SIM untuk jendela 120 hari terpisah. BTK menutupnya efektif 1 Mei 2026, sehingga ponsel asing kini hanya mendapat satu hitungan 120 hari.
 
-### Apa biaya registrasi IMEI?
+### Berapa biaya registrasi IMEI?
 
-Biayanya 54.258 Lira Turki, sekitar US$1.200. Pembayaran dilakukan melalui e-Devlet, diikuti dengan aplikasi dan persetujuan.
+Biayanya 54.258 Lira Turki, sekitar US$1.200. Pembayaran dilakukan melalui e-Devlet, diikuti permohonan dan persetujuan.
 
-### Apakah aturan IMEI berlaku untuk ponsel hanya eSIM?
+### Apakah aturan IMEI berlaku bagi ponsel hanya-eSIM?
 
-Ya. Ponsel asing apa pun yang terhubung ke jaringan seluler Turki tunduk pada aturan IMEI. eSIM perjalanan dari penyedia internasional tidak memicu jam.
+Ya. Ponsel asing mana pun yang tersambung ke jaringan seluler Turki tunduk pada aturan IMEI. eSIM perjalanan dari penyedia internasional tidak memicu hitungan.
 
 ### Apa yang dikatakan FCDO tentang eSIM Turki?
 
-FCDO memperingatkan bahwa akses ke beberapa layanan eSIM internasional dibatasi di Turki. Ini menyarankan pelancong untuk mengunduh, mengonfigurasi, dan mengaktifkan eSIM sebelum keberangkatan.
+FCDO memperingatkan bahwa akses ke beberapa layanan eSIM internasional dibatasi di dalam Turki. Ia menyarankan pelancong mengunduh, mengonfigurasi, dan mengaktivasi eSIM mereka sebelum berangkat.
 
-### Apakah eSIM Turki lokal terpengaruh oleh blokir?
+### Apakah eSIM lokal Turki terpengaruh blokirnya?
 
-Tidak. eSIM Turki lokal dari Turkcell, Vodafone Turkey, dan Türk Telekom dijual di dalam negeri dan tidak terpengaruh oleh blokir platform asing.
+Tidak. eSIM lokal Turki dari Turkcell, Vodafone Turkey, dan Türk Telekom dijual secara domestik dan tidak terpengaruh blokir platform asing.
 
 ### Apakah eSIM Turki ilegal?
 
-Tidak. Menggunakan eSIM di Turki tidak ilegal. Pembatasan berlaku untuk platform eSIM asing tanpa lisensi yang beroperasi di jaringan Turki.
+Tidak. Memakai eSIM di Turki bukan hal ilegal. Pembatasan berlaku bagi platform eSIM asing tanpa izin yang beroperasi di jaringan Turki.
 
 ### Apakah blokir eSIM Turki permanen?
 
-Blokir telah berlaku sejak Juli 2025 dan diperluas melalui berbagai keputusan BTK. Per pertengahan 2026, tidak ada indikasi akan dicabut.
+Blokir telah berlaku sejak Juli 2025 dan diperluas melalui beberapa keputusan BTK. Per pertengahan 2026, tidak ada indikasi akan dicabut.
 
 ### Apa yang terjadi jika saya tiba tanpa eSIM?
 
-Anda dapat menggunakan Wi-Fi bandara, mencoba penyedia yang tidak diblokir, atau membeli SIM lokal di konter bandara. Semua opsi kurang nyaman dan lebih mahal daripada membeli sebelum keberangkatan.
+Anda bisa memakai Wi-Fi bandara, mencoba penyedia yang tidak diblokir, atau membeli SIM lokal di konter bandara. Semua opsi kurang nyaman dan lebih mahal daripada membeli sebelum berangkat.
 
 ### Apa yang terjadi jika IMEI saya diblokir?
 
-Perangkat tidak dapat melakukan panggilan, mengirim SMS, atau menggunakan data seluler pada operator Turki mana pun. Ini masih berfungsi di Wi-Fi. Panggilan darurat (112) mungkin masih berfungsi di beberapa jaringan. Blokir berlaku pada IMEI, bukan SIM atau eSIM.
+Perangkat tidak bisa menelepon, mengirim SMS, atau memakai data seluler di carrier Turki mana pun. Ia masih berfungsi di Wi-Fi. Panggilan darurat (112) mungkin masih berfungsi di beberapa jaringan. Blokir berlaku pada IMEI, bukan SIM atau eSIM.
 
-### Bisakah saya mendaftarkan IMEI jika saya hanya tinggal dua minggu?
+### Bisakah saya mendaftarkan IMEI jika hanya tinggal dua minggu?
 
-Anda tidak perlu. Jam 120 hari tidak akan habis selama perjalanan dua minggu. Registrasi IMEI hanya relevan untuk tinggal lebih dari 120 hari.
+Anda tidak perlu. Hitungan 120 hari tidak akan habis selama perjalanan dua minggu. Registrasi IMEI hanya relevan untuk tinggal lebih dari 120 hari.
 
-### Apakah blokir eSIM berlaku untuk penumpang kapal pesiar?
+### Apakah blokir eSIM berlaku bagi penumpang kapal pesiar?
 
-Kapal pesiar biasanya menggunakan internet satelit. Saat berlabuh di pelabuhan Turki, eSIM perjalanan yang sudah terpasang terhubung normal. Untuk persinggahan di pulau Yunani, eSIM regional yang mencakup Turki dan Yunani direkomendasikan. Lihat [panduan daftar negara eSIM regional](/blog/turkey-esim-europe-greece-egypt/).
+Kapal pesiar biasanya memakai internet satelit. Saat bersandar di pelabuhan Turki, eSIM perjalanan pra-instal tersambung normal. Untuk pemberhentian pulau Yunani, eSIM regional yang mencakup Turki dan Yunani disarankan. Lihat [panduan daftar negara eSIM regional](/blog/turkey-esim-europe-greece-egypt/).
 
-### Bisakah saya menggunakan eSIM Turki di ponsel yang terkunci?
+### Bisakah saya memakai eSIM Turki di ponsel terkunci?
 
-Tidak. Ponsel yang terkunci operator tidak dapat memasang profil eSIM pihak ketiga. Anda harus membuka kunci ponsel terlebih dahulu. Lihat [panduan pemeriksaan EID dan kunci operator](/blog/turkey-esim-device-compatibility/).
+Tidak. Ponsel yang terkunci carrier tidak bisa menginstal profil eSIM pihak ketiga. Anda harus membuka kunci ponsel dulu. Lihat [panduan pengecekan EID dan carrier lock](/blog/turkey-esim-device-compatibility/).
 
-### Bisakah saya menggunakan eSIM Eropa di Turki?
+### Bisakah saya memakai eSIM Eropa di Turki?
 
-Hanya jika paket secara eksplisit mencantumkan Turki dalam daftar negaranya. Banyak eSIM "Eropa" mengecualikan Turki. Paket Eropa 36 negara Nomad mencakup Turki; paket 35 negaranya tidak.
+Hanya jika paketnya secara eksplisit mencakup Turki dalam daftar negaranya. Banyak eSIM "Eropa" mengecualikan Turki. Paket Eropa 36 negara milik Nomad mencakup Turki; paket 35 negaranya tidak.
 
 ### Apakah eSIM Turki mendukung 5G?
 
-Ya. Turki meluncurkan 5G komersial pada 1 April 2026. Kecepatan 5G awal rata-rata 201 Mbps. Turkcell memimpin dalam kecepatan 5G. Cakupan masih terbatas di luar kota-kota besar. Untuk data 5G dunia nyata, lihat [laporan OpenSignal Turki](https://www.opensignal.com/reports/turkey).
+Ya. Turki meluncurkan 5G komersial pada 1 April 2026. Kecepatan 5G awal rata-rata 201 Mbps. Turkcell memimpin dalam kecepatan 5G. Cakupan masih terbatas di luar kota besar. Untuk data 5G nyata, lihat [pengukuran kecepatan OpenSignal](https://www.opensignal.com/).
 
-### Apa perbedaan antara blokir BTK dan aturan IMEI?
+### Apa bedanya blokir BTK dan aturan IMEI?
 
-Blokir BTK membatasi akses ke platform penyedia eSIM asing. Aturan IMEI membatasi akses jaringan perangkat setelah 120 hari. Keduanya adalah jalur regulasi terpisah dengan mekanisme penegakan yang berbeda.
+Blokir BTK membatasi akses ke platform penyedia eSIM asing. Aturan IMEI membatasi akses jaringan perangkat setelah 120 hari. Keduanya adalah jalur regulasi terpisah dengan mekanisme penegakan berbeda.
 
-### Apakah blokir BTK berlaku untuk semua penyedia eSIM?
+### Apakah blokir BTK berlaku bagi semua penyedia eSIM?
 
-Tidak. Lebih dari 20 penyedia tetap dapat diakses dari jaringan Turki per pertengahan 2026. Blokir tidak komprehensif. Namun, daftarnya sering berubah, jadi ini bukan strategi yang andal untuk perencanaan awal.
+Tidak. Lebih dari 20 penyedia masih bisa diakses dari jaringan Turki per pertengahan 2026. Blokirnya tidak menyeluruh. Namun, daftarnya sering berubah, jadi bukan strategi yang andal untuk perencanaan di muka.
 
-### Apa cara terbaik untuk tetap terhubung untuk tinggal lama?
+### Apa cara terbaik tetap terhubung untuk tinggal panjang?
 
-Untuk tinggal lama, SIM Turki lokal untuk suara/SMS plus eSIM perjalanan untuk data adalah kombinasi terbaik. Pantau jam IMEI 120 hari dan rencanakan registrasi jika Anda memperpanjang tinggal.
+Untuk tinggal panjang, SIM lokal Turki untuk suara/SMS plus eSIM perjalanan untuk data adalah kombinasi terbaik. Pantau hitungan IMEI 120 hari dan rencanakan registrasi jika Anda memperpanjang tinggal.
 
-## Daftar Periksa Akhir: Tetap Terhubung Meskipun Ada Blokir BTK
+## Checklist Akhir: Tetap Terhubung Meski Ada Blokir eSIM Turki
 
-Blokir BTK dapat dikelola dengan persiapan. Gunakan daftar periksa akhir ini untuk mengonfirmasi pengaturan sebelum keberangkatan, bersiap untuk mendarat, dan merencanakan tinggal lama atau keadaan darurat.
+Blokir BTK bisa dikelola dengan persiapan. Gunakan checklist akhir ini untuk mengonfirmasi setup pra-keberangkatan, mempersiapkan pendaratan, dan merencanakan tinggal panjang atau keadaan darurat.
 
-### Sebelum Anda Terbang dengan eSIM Turki
+### Sebelum Terbang
 
-- [ ] Pilih penyedia yang memungkinkan pembelian dan instalasi sebelum keberangkatan
-- [ ] Beli eSIM di Wi-Fi yang andal
-- [ ] Pasang profil dengan memindai kode QR
-- [ ] Beri label jalur eSIM "Turki"
-- [ ] Jaga data roaming TETAP MATI hingga mendarat
-- [ ] Simpan kode QR dan kontak dukungan offline
+- [ ] Pilih penyedia yang memungkinkan pembelian dan instalasi pra-keberangkatan
+- [ ] Beli eSIM lewat Wi-Fi yang andal
+- [ ] Instal profil dengan memindai kode QR
+- [ ] Beri label garis eSIM "Turkey"
+- [ ] Biarkan data roaming MATI sampai mendarat
+- [ ] Simpan kode QR dan kontak dukungan secara offline
 - [ ] Unduh peta offline
-- [ ] Jaga SIM rumah Anda tetap aktif untuk panggilan dan SMS
-- [ ] Konfirmasi ponsel Anda mendukung eSIM dan tidak terkunci operator
+- [ ] Biarkan SIM rumah Anda aktif untuk panggilan dan SMS
+- [ ] Pastikan ponsel Anda mendukung eSIM dan tidak terkunci carrier — cek [daftar perangkat eSIM lengkap](/compatibility/) jika ragu
 - [ ] Simpan nilai APN dari konfirmasi pesanan
-- [ ] Uji instalasi eSIM sebelum keberangkatan
-- [ ] Pasang eSIM cadangan jika ponsel Anda mendukung dual eSIM
+- [ ] Uji instalasi eSIM sebelum berangkat
+- [ ] Instal eSIM cadangan jika ponsel Anda mendukung dual eSIM
 
-### Setelah Mendarat dengan eSIM Turki
+### Setelah Mendarat
 
 - [ ] Aktifkan data roaming untuk eSIM Turki
-- [ ] Atur eSIM Turki sebagai jalur Mobile Data
+- [ ] Set eSIM Turki sebagai garis Mobile Data
 - [ ] Tunggu dua hingga lima menit untuk registrasi jaringan
 - [ ] Uji data dengan peta atau browser
-- [ ] Konfirmasi SMS berfungsi pada SIM rumah Anda
-- [ ] Jika tidak ada data: periksa APN, mulai ulang ponsel, coba pemilihan jaringan manual
+- [ ] Pastikan SMS berfungsi di SIM rumah Anda
+- [ ] Jika tanpa data: cek APN, restart ponsel, coba pemilihan jaringan manual
 
-### Untuk Tinggal Lama Lebih dari 120 Hari di Turki
+### Untuk Tinggal Lebih dari 120 Hari di Turki
 
-- [ ] Pantau jam IMEI jika Anda menggunakan SIM Turki lokal
+- [ ] Pantau hitungan IMEI jika Anda memakai SIM lokal Turki
 - [ ] Rencanakan registrasi IMEI atau gunakan perangkat yang dibeli di Turki
-- [ ] Gunakan eSIM perjalanan untuk data agar tidak memicu jam IMEI
+- [ ] Gunakan eSIM perjalanan untuk data agar tidak memicu hitungan IMEI
 - [ ] Pertimbangkan perangkat yang dibeli di Turki untuk penggunaan jangka panjang
 
 ### Untuk Keadaan Darurat di Turki
 
-- [ ] Simpan nomor darurat offline (112)
-- [ ] Simpan kontak kedutaan Anda offline
-- [ ] Simpan power bank untuk daya baterai lebih lama
+- [ ] Simpan nomor darurat secara offline (112)
+- [ ] Simpan kontak kedutaan Anda secara offline
+- [ ] Bawa power bank untuk daya tahan baterai lebih lama
 - [ ] Pertimbangkan pesan satelit jika ponsel Anda mendukungnya
 - [ ] Unduh [aplikasi bencana dan darurat AFAD](https://www.afad.gov.tr/) untuk peringatan bencana
 
-Blokir hanya menggigit jika Anda menunggu sampai mendarat. [Paket data Turki](/turkey-esim/) dari Roami dipasang sebelum keberangkatan, sehingga mereka menghindari seluruh masalah — mulai dari $1,99 dengan diskon 20% untuk pengguna baru dan dukungan 24/7 melalui Wi-Fi. Untuk gambaran lengkap di satu tempat, lihat [panduan lengkap eSIM Turki](/blog/turkey-esim-ultimate-guide/).
+Blokir hanya menggigit jika Anda menunggu sampai mendarat. [Paket data Turki](/turkey-esim/) dari Roami diinstal sebelum berangkat, sehingga melewati seluruh masalah — mulai dari $2,99, dengan kode web20 untuk diskon 20% paket pengguna baru dan dukungan 24/7 lewat Wi-Fi. Untuk gambaran lengkap dalam satu tempat, lihat [panduan eSIM Turki penuh](/blog/turkey-esim-ultimate-guide/).
 
-## Intinya
+## Kesimpulan: Apa yang Diblokir dan yang Tidak
 
-- Jika Anda memerlukan nomor telepon Turki, lewati debat eSIM sepenuhnya dan beli SIM lokal dengan registrasi paspor.
-- Untuk perjalanan hanya data, eSIM legal di Turki — blokir adalah blokir platform, bukan larangan teknologi.
-- Pasang sebelum keberangkatan dan ini terhubung normal setelah Anda mendarat; jam IMEI hanya memengaruhi pengguna tinggal lama.
-- VPN tidak akan membuka blokir aplikasi penyedia Anda, tetapi eSIM yang sudah terpasang adalah perbaikan sebenarnya.
+- Jika Anda butuh nomor telepon Turki, lewati seluruh debat eSIM dan beli SIM lokal dengan registrasi paspor.
+- Untuk perjalanan hanya-data, eSIM legal di Turki — blokirnya adalah blokir platform, bukan larangan teknologi.
+- Instal sebelum berangkat dan ia tersambung normal setelah Anda mendarat; hitungan IMEI hanya memengaruhi pengguna tinggal panjang.
+- VPN tidak akan membuka blokir aplikasi penyedia Anda, tapi eSIM pra-instal adalah perbaikan yang sebenarnya.

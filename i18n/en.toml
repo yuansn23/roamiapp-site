@@ -643,3 +643,9 @@ other = "Something went wrong. Please try again."
 other = "Network error. Please try again."
 [lead_form_sending]
 other = "Sending..."
+
+[esim_guides_title]
+other = "eSIM Guides"
+
+[related_blog_title]
+other = "Travel eSIM Guides"

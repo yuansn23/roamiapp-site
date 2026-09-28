@@ -4,7 +4,8 @@ h1_title: "Vivo eSIM Brasil 2026: Guia Completo de Planos, Ativação e Disposit
 description: "Guia completo do Vivo eSIM no Brasil 2026. Preços atualizados, como comprar e ativar eSIM da Vivo, planos Vivo Easy, pré-pago e pós-pago, dispositivos compatíveis e mais."
 keywords: ["esim vivo", "vivo esim", "esim da vivo", "comprar esim vivo", "ativar esim vivo", "como ativar esim vivo", "chip esim vivo", "vivo easy esim", "esim vivo pré pago", "esim vivo comprar", "solicitar esim vivo", "qr code vivo esim", "ativar esim vivo whatsapp", "vivo esim preço", "vivo brasil esim", "esim vivo 2026"]
 date: 2026-09-23T00:00:00Z
-lastmod: 2026-08-10T16:00:00Z
+lastmod: 2026-09-23T00:00:00Z
+image: "/img/faq/vivo-esim-brasil.webp"
 tags: ["Vivo", "eSIM", "Brasil", "Ativação", "Planos", "Vivo Easy", "Pré-pago", "Pós-pago", "Roaming", "5G"]
 toc: true
 

@@ -1,19 +1,20 @@
 ---
-title: "Cara Mengaktifkan Turkey eSIM Anda Tanpa Masalah"
-description: "Aktivasi Turkey eSIM langkah demi langkah: pasang kode QR, atur APN, perbaiki kesalahan tanpa internet, dan dapatkan bantuan manusia 24/7 dari Roami."
-keywords: ["how to activate turkey esim", "turkey esim activation", "turkey esim qr code", "turkey esim apn settings", "turkey esim not working", "turkey esim setup", "turkey esim troubleshooting"]
-date: 2026-09-18T00:00:00Z
-lastmod: 2026-09-18T00:00:00Z
+title: "Cara Mengaktivasi eSIM Turki Tanpa Masalah"
+description: "Aktivasi eSIM Turki langkah demi langkah: instal kode QR, atur APN Anda, perbaiki error tanpa internet, dan dapatkan bantuan manusia Roami 24/7."
+keywords: ["cara aktivasi turkey esim", "aktivasi turkey esim", "turkey esim kode qr", "pengaturan apn turkey esim", "turkey esim tidak berfungsi", "setup turkey esim", "troubleshooting turkey esim"]
+date: 2026-09-24T00:00:00Z
+lastmod: 2026-09-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami menawarkan paket eSIM yang andal, melayani lebih dari 1 juta pelancong setiap tahun, dan mendukung peralihan jaringan lokal otomatis untuk membantu pelancong tetap terhubung secara global."
+authorBio: "Roami menyediakan paket eSIM yang andal, melayani lebih dari 1 juta pelancong setiap tahun, dan mendukung pergantian otomatis ke jaringan lokal untuk membantu pelancong tetap terhubung di seluruh dunia."
 image: "/img/esim/turkey/how-turkey-esim-works-activation.jpg"
-categories: ["eSIM", "Perjalanan", "Turki"]
+categories: ["eSIM", "Travel", "Turkey"]
 tags: ["Turkey eSIM"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Cara Mengaktifkan Turkey eSIM: Kode QR, APN, dan Perbaikan"
+h1title: "Cara Mengaktivasi eSIM Turki: Kode QR, APN dan Perbaikannya"
+
 productsTitle: "Paket eSIM Populer"
 hotPostsTitle: "Artikel Populer"
 recentPostsTitle: "Postingan Terbaru"
@@ -21,226 +22,224 @@ recentPostsTitle: "Postingan Terbaru"
 products:
   - name: "eSIM Spanyol"
     flag: "/img/flags/es.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: true
     slug: "spain"
   - name: "eSIM Portugal"
     flag: "/img/flags/pt.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: false
     slug: "portugal"
   - name: "eSIM Prancis"
     flag: "/img/flags/fr.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: false
     slug: "france"
   - name: "eSIM Italia"
     flag: "/img/flags/it.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: false
     slug: "italy"
   - name: "eSIM Inggris"
     flag: "/img/flags/gb.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: false
     slug: "uk"
   - name: "eSIM Belanda"
     flag: "/img/flags/nl.svg"
-    price: "Mulai dari $1,99"
+    price: "From $1.99"
     is_highlight: false
     slug: "netherlands"
 
 recentPosts:
-  - title: "Daftar Perangkat yang Kompatibel dengan eSIM"
+  - title: "eSIM Compatible Devices List"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "Transfer eSIM Lintas Platform 2026"
+  - title: "2026 Cross-Platform eSIM Transfer"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "eSIM Ganda Tidak Berfungsi? 12 Perbaikan untuk iPhone"
+  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Panduan Kompatibilitas eSIM iPhone SE"
+  - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "Panduan Lengkap Penyiapan eSIM iPhone 11"
+  - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-## Aktivasi Turkey eSIM: Kode QR, APN & Pemecahan Masalah
 
-Sebagian besar Turkey eSIM yang ‘rusak’ sebenarnya tidak rusak sama sekali — hanya saja tidak pernah diaktifkan dengan benar. Panduan ini memandu Anda melalui pemasangan, aktivasi, dan perbaikan eSIM Anda sehingga Anda bisa online tanpa menunggu dukungan.
 
-## Sekilas
+Sebagian besar eSIM Turki yang "rusak" sebenarnya tidak rusak sama sekali — eSIM itu hanya tidak pernah diaktivasi dengan benar, dan di Turki Anda tidak bisa mengandalkan aplikasi penyedia untuk memperbaiki kesalahan setelah mendarat. Pemblokiran BTK menghilangkan jaring pengaman yang biasa ada, jadi jika eSIM Anda tidak menunjukkan koneksi karena data roaming mati, kolom APN kosong, atau garis yang salah yang menangani data, Anda perlu hafal perbaikannya. Panduan ini membahas instalasi lewat Wi-Fi sebelum berangkat, aktivasi hanya setelah tiba, konfigurasi dual SIM, pengaturan APN, konflik carrier bundle, kode error, dan pohon keputusan "sinyal penuh tanpa internet", sehingga Anda bisa pulih sendiri tanpa harus menunggu dukungan.
 
-- Pasang eSIM Anda di rumah melalui Wi-Fi, dan tunggu hingga Anda mendarat untuk mengaktifkannya.
-- Pemasangan dan aktivasi adalah langkah terpisah, jadi sebagian besar eSIM yang ‘rusak’ sebenarnya hanya tidak aktif.
-- Jika Anda melihat sinyal tetapi tidak ada internet, periksa jalur data, roaming, dan APN dalam urutan itu.
-- Karena blokir BTK dapat memutus aplikasi penyedia setelah mendarat, hafalkan perbaikan ini sebelum Anda bepergian.
+## Aktivasi eSIM Turki: Kode QR, APN & Troubleshooting
 
-## Apa yang Dipecahkan Panduan Aktivasi Ini
+Sebagian besar eSIM Turki yang 'rusak' sebenarnya tidak rusak sama sekali — eSIM itu hanya tidak pernah diaktivasi dengan benar. Panduan ini memandu Anda menginstal, mengaktivasi, dan memperbaiki eSIM agar Anda bisa online tanpa menunggu dukungan.
 
-Panduan ini memecahkan lapisan eksekusi teknis: cara memasang, mengaktifkan, dan memecahkan masalah Turkey eSIM ketika Anda tidak dapat membuka aplikasi penyedia setelah mendarat. Blokir BTK berarti Anda tidak dapat mengandalkan aplikasi penyedia untuk memperbaiki kesalahan konfigurasi setelah tiba. Jika eSIM tidak terhubung karena roaming mati, APN kosong, atau jalur data yang salah dipilih, Anda perlu mengetahui perbaikannya dari ingatan.
+## Aktivasi eSIM Turki Sekilas
 
-Halaman ini memberi Anda perbedaan antara memasang dan mengaktifkan, pemasangan kode QR dan manual, konfigurasi dual SIM, pengaturan APN, perbaikan konflik carrier bundle, referensi kode kesalahan, pohon keputusan sinyal-tanpa-internet, perilaku registrasi jaringan, dan pemulihan dengan pemasangan ulang. Halaman ini tidak membahas [kompatibilitas perangkat](/blog/turkey-esim-device-compatibility/), pemilihan penyedia, harga, pengembalian dana, atau [aturan BTK](/blog/turkey-esim-ban-availability-rules/). Itu dibahas dalam artikel mendalam yang ditautkan.
+- Instal eSIM Anda di rumah lewat Wi-Fi, dan tunggu sampai mendarat untuk mengaktivasi.
+- Instalasi dan aktivasi adalah dua langkah terpisah, jadi sebagian besar eSIM yang 'rusak' sebenarnya hanya dorman.
+- Jika Anda melihat batang sinyal tapi tidak ada internet, periksa garis data, roaming, dan APN dalam urutan itu.
+- Karena pemblokiran BTK bisa memutus akses ke aplikasi penyedia setelah mendarat, hafalkan perbaikan-perbaikan ini sebelum Anda bepergian.
 
-Versi singkatnya: pasang di rumah melalui Wi-Fi, biarkan roaming data mati hingga mendarat, aktifkan dengan mengaktifkan roaming, dan perbaiki sebagian besar kegagalan dengan memeriksa jalur data, pengaturan roaming, dan APN.
+## Apa yang Diselesaikan oleh Panduan Aktivasi eSIM Turki Ini
 
-## Pasang vs Aktifkan: Apa Bedanya?
+Panduan ini menyelesaikan lapisan eksekusi teknis: cara menginstal, mengaktivasi, dan men-troubleshoot eSIM Turki ketika Anda tidak bisa membuka aplikasi penyedia setelah mendarat. Pemblokiran BTK berarti Anda tidak bisa mengandalkan aplikasi penyedia untuk memperbaiki kesalahan konfigurasi setiba di Turki. Jika eSIM tidak tersambung karena roaming mati, APN kosong, atau garis data yang salah yang terpilih, Anda perlu hafal perbaikannya.
 
-Pemasangan dan aktivasi adalah dua langkah terpisah. Pemasangan mengunduh profil ke chip eUICC ponsel Anda. Aktivasi mendaftarkan profil tersebut ke jaringan seluler Turki. Mencampuradukkan keduanya adalah alasan paling umum pelancong mengira eSIM mereka rusak padahal sebenarnya hanya tidak aktif.
+Halaman ini memberi Anda perbedaan instal-versus-aktivasi, instalasi kode QR dan manual, konfigurasi dual SIM, pengaturan APN, perbaikan konflik carrier bundle, referensi kode error, pohon keputusan sinyal-penuh-tanpa-internet, perilaku registrasi jaringan, dan pemulihan reinstalasi. Panduan ini tidak membahas [kompatibilitas perangkat](/blog/turkey-esim-device-compatibility/), pemilihan penyedia, harga, pengembalian dana, atau [aturan BTK](/blog/turkey-esim-ban-availability-rules/). Itu semua dibahas di artikel pendalaman yang ditautkan.
 
-### Apa yang Dilakukan Pemasangan Turkey eSIM
+Versi singkatnya: instal di rumah lewat Wi-Fi, biarkan data roaming mati sampai mendarat, aktivasi dengan menyalakan roaming, dan perbaiki sebagian besar kegagalan dengan memeriksa garis data, pengaturan roaming, dan APN.
 
-Pemasangan mengunduh profil dari server SM-DP+ penyedia Anda ke chip eUICC di dalam ponsel Anda. Setelah pemasangan, eSIM muncul di Pengaturan sebagai jalur sekunder. Ini memiliki ICCID dan nilai APN.
+## Instal vs Aktivasi eSIM Turki: Apa Bedanya?
 
-Pemasangan tidak menghubungkan eSIM ke jaringan mana pun. eSIM yang terpasang dengan roaming data mati tetap tidak aktif.
+Instalasi dan aktivasi adalah dua langkah terpisah. Instalasi mengunduh profil ke chip eUICC ponsel Anda. Aktivasi mendaftarkan profil itu di jaringan seluler Turki. Kebingungan antara keduanya adalah alasan paling umum pelancong mengira eSIM mereka rusak padahal hanya dorman.
 
-### Apa yang Dilakukan Aktivasi Turkey eSIM
+### Apa yang Dilakukan Instalasi eSIM Turki
 
-Aktivasi adalah saat profil terdaftar di jaringan seluler Turki. Ini terjadi ketika Anda mengaktifkan roaming data untuk jalur eSIM setelah tiba di Turki. Ponsel memindai operator mitra — Turkcell, Vodafone Turkey, atau Türk Telekom — dan membangun sesi data.
+Instalasi mengunduh profil dari server SM-DP+ penyedia Anda ke chip eUICC di dalam ponsel. Setelah instalasi, eSIM muncul di Settings sebagai garis sekunder. Ia memiliki ICCID dan nilai APN.
 
-Registrasi biasanya memakan waktu 2–5 menit. Nama operator kemudian muncul di bilah status dan data mengalir.
+Instalasi tidak menghubungkan eSIM ke jaringan mana pun. eSIM yang sudah diinstal dengan data roaming mati akan tetap dorman.
 
-### Tabel Urutan Aktivasi Turkey eSIM yang Aman
+### Apa yang Dilakukan Aktivasi eSIM Turki
 
-| Langkah | Kapan | Di mana | Apa yang harus dilakukan |
+Aktivasi adalah momen ketika profil mendaftar di jaringan seluler Turki. Ini terjadi ketika Anda menyalakan data roaming untuk garis eSIM setiba di Turki. Ponsel memindai carrier mitra — Turkcell, Vodafone Turkey, atau Türk Telekom — dan membangun sesi data.
+
+Registrasi biasanya memakan waktu 2–5 menit. Nama carrier kemudian muncul di status bar dan data mulai mengalir.
+
+### Tabel Urutan Aktivasi eSIM Turki yang Aman
+
+| Langkah | Kapan | Di mana | Yang harus dilakukan |
 |---|---|---|---|
-| Pasang | Sebelum keberangkatan | Wi-Fi rumah | Pindai kode QR, beri label jalur “Turkey” |
-| Konfigurasi | Sebelum keberangkatan | Rumah | SIM rumah untuk Voice & SMS, Turkey eSIM untuk Data Seluler |
-| Biarkan roaming mati | Hingga mendarat | — | Jangan aktifkan roaming data |
-| Aktifkan | Setelah mendarat | Bandara Turki | Aktifkan roaming data untuk Turkey eSIM |
+| Instal | Sebelum berangkat | Wi-Fi rumah | Pindai kode QR, beri label garis "Turkey" |
+| Konfigurasi | Sebelum berangkat | Rumah | SIM rumah untuk Voice & SMS, eSIM Turki untuk Mobile Data |
+| Biarkan roaming mati | Sampai mendarat | — | Jangan nyalakan data roaming |
+| Aktivasi | Setelah mendarat | Bandara Turki | Nyalakan data roaming untuk eSIM Turki |
 | Verifikasi | Setelah aktivasi | Bandara | Buka peta atau browser |
 
-### Mengapa Waktu Aktivasi Turkey eSIM Penting
+### Mengapa Waktu Aktivasi eSIM Turki Penting
 
-Jika Anda mengaktifkan roaming data di rumah, eSIM dapat terhubung ke jaringan mitra di negara asal Anda dan menghabiskan data Turkey Anda sebelum Anda naik pesawat. Beberapa penyedia mencegah ini. Yang lain tidak. Biarkan roaming mati hingga mendarat.
+Jika Anda menyalakan data roaming di rumah, eSIM bisa tersambung ke jaringan mitra di negara asal Anda dan menghabiskan kuota Turki Anda sebelum Anda naik pesawat. Beberapa penyedia mencegah ini. Yang lain tidak. Biarkan roaming mati sampai mendarat.
 
-## Pemeriksaan Sebelum Pemasangan
+## Pemeriksaan Pra-Instalasi eSIM Turki
 
-Jalankan pemeriksaan ini sebelum Anda membeli atau memasang Turkey eSIM apa pun. Ini mencegah kegagalan aktivasi paling umum: tidak ada EID, kunci operator, tidak ada slot eSIM kosong, dan Wi-Fi tidak stabil selama pemasangan.
+Jalankan pemeriksaan ini sebelum membeli atau menginstal eSIM Turki apa pun. Pemeriksaan ini mencegah kegagalan aktivasi yang paling umum: tidak ada EID, carrier lock, tidak ada slot eSIM kosong, dan Wi-Fi tidak stabil selama instalasi.
 
-### EID Ada untuk Pemasangan Turkey eSIM
+### Cek EID Terlebih Dahulu
 
-EID adalah nomor 32 digit yang tertanam di chip eUICC. Jika ponsel Anda menampilkan EID di pengaturan, ponsel memiliki perangkat keras yang diperlukan untuk eSIM. Jika kolom EID hilang, ponsel sama sekali tidak memiliki perangkat keras eUICC. Tidak ada pembaruan perangkat lunak yang dapat menambahkannya.
+**iPhone:** Settings → General → About → gulir ke "EID". Jika Anda melihat angka 32 digit, perangkat Anda mendukung eSIM.
 
-**iPhone:** Pengaturan → Umum → Tentang → gulir ke “EID.” Jika Anda melihat nomor 32 digit, perangkat Anda mendukung eSIM.
+**Android:** Settings → About Phone → Status Information → "EID". Beberapa pabrikan menempatkannya di Settings → Network & Internet → SIMs.
 
-**Android:** Pengaturan → Tentang Ponsel → Informasi Status → “EID.” Beberapa produsen menempatkannya di bawah Pengaturan → Jaringan & Internet → SIM.
+### Pastikan Ponsel Tidak Terkunci Carrier
 
-### Operator Terbuka untuk Pemasangan Turkey eSIM
+**iPhone:** Settings → General → About → "Carrier Lock". Seharusnya tertulis "No SIM restrictions".
 
-Ponsel yang terkunci operator dibatasi pada profil SIM dari operator yang menjualnya. Ponsel tidak dapat memasang profil eSIM pihak ketiga.
+**Android:** Settings → About Phone → SIM Lock, atau masukkan SIM dari operator lain dan lihat apakah perangkat menerimanya.
 
-**iPhone:** Pengaturan → Umum → Tentang → “Kunci Operator.” Harus bertuliskan “Tidak ada pembatasan SIM.”
+### Pastikan Anda Punya Slot Kosong
 
-**Android:** Pengaturan → Tentang Ponsel → Kunci SIM, atau masukkan SIM non-operator dan lihat apakah perangkat menerimanya.
+Sebagian besar ponsel mendukung satu atau dua profil eSIM aktif. Jika Anda sudah punya eSIM aktif, Anda mungkin perlu menonaktifkan satu garis untuk menambah yang lain.
 
-Ponsel yang terkunci akan menolak profil Turkey eSIM selama pemasangan. Membuka kunci memerlukan menghubungi operator dan menyelesaikan kontrak atau membayar biaya buka kunci. Ini tidak dapat dilakukan dari dalam Turki.
-
-### Slot eSIM Kosong untuk Profil Turkey eSIM
-
-Sebagian besar ponsel mendukung satu atau dua profil eSIM aktif. Jika Anda sudah memiliki eSIM aktif, Anda mungkin perlu menonaktifkan satu jalur untuk menambahkan yang lain.
-
-**iPhone 13 dan yang lebih baru:** Mendukung dua eSIM aktif.
+**iPhone 13 dan lebih baru:** Dua eSIM aktif didukung.
 
 **iPhone XS hingga iPhone 12:** Satu eSIM plus satu SIM fisik.
 
 **Sebagian besar ponsel Android:** Satu eSIM plus satu SIM fisik.
 
-### Wi-Fi Stabil dan Kode QR Offline untuk Turkey eSIM
+### Wi-Fi Stabil dan Kode QR Offline
 
-Pemasangan memerlukan koneksi internet yang stabil. Gunakan Wi-Fi rumah, bukan hotspot seluler atau Wi-Fi publik dengan portal captive. Simpan email atau PDF kode QR secara offline sebelum Anda mulai. Jika pemasangan gagal dan Anda perlu mencoba lagi, Anda tidak ingin bergantung pada akses email.
+Instalasi membutuhkan koneksi internet yang stabil. Gunakan Wi-Fi rumah, bukan hotspot seluler atau Wi-Fi publik dengan captive portal. Simpan email kode QR atau PDF-nya secara offline sebelum mulai. Jika instalasi gagal dan Anda perlu mencoba lagi, Anda tidak ingin bergantung pada akses email.
 
-### Daftar Periksa Turkey eSIM Sebelum Pemasangan
+### Checklist Pra-Instalasi eSIM Turki
 
-- [ ] EID ada
-- [ ] Operator terbuka
+- [ ] EID tersedia
+- [ ] Carrier tidak terkunci
 - [ ] Slot eSIM kosong tersedia
 - [ ] Koneksi Wi-Fi stabil
 - [ ] Kode QR disimpan offline
 - [ ] Nilai APN disimpan offline
-- [ ] Ponsel terisi di atas 50%
+- [ ] Ponsel terisi daya di atas 50%
 
-Untuk alur kerja kompatibilitas perangkat lengkap, baca [panduan pemeriksaan EID dan kunci operator](/blog/turkey-esim-device-compatibility/).
+Untuk alur kerja kompatibilitas perangkat yang lengkap, baca [panduan pengecekan EID dan carrier lock](/blog/turkey-esim-device-compatibility/). Tidak yakin apakah ponsel Anda memenuhi syarat? [Daftar kompatibilitas perangkat](/compatibility/) menjawabnya dalam hitungan detik.
 
-## Pemasangan Kode QR
+## Instalasi eSIM Turki dengan Kode QR
 
-Pemasangan kode QR adalah cara tercepat untuk menambahkan Turkey eSIM. Ponsel menghubungi server SM-DP+ penyedia dan mengunduh profil ke chip eUICC. Prosesnya memakan waktu sekitar 60 detik pada Wi-Fi yang stabil.
+Instalasi kode QR adalah cara tercepat menambahkan eSIM Turki. Ponsel menghubungi server SM-DP+ penyedia dan mengunduh profil ke chip eUICC. Prosesnya memakan waktu sekitar 60 detik di Wi-Fi yang stabil.
 
-### Pemasangan QR iPhone untuk Turkey eSIM
+### Instal QR di iPhone
 
-1. Buka **Pengaturan**.
-2. Ketuk **Data Seluler** atau **Seluler**.
-3. Ketuk **Tambah Paket Data** atau **Tambah eSIM**.
-4. Pilih **Gunakan Kode QR**.
+1. Buka **Settings**.
+2. Ketuk **Mobile Data** atau **Cellular**.
+3. Ketuk **Add Data Plan** atau **Add eSIM**.
+4. Pilih **Use QR Code**.
 5. Pindai kode QR dari email penyedia Anda.
 6. Ponsel menghubungi server SM-DP+ dan mengunduh profil.
-7. Ketuk **Tambah** untuk memasang.
-8. Beri label jalur “Turkey”.
-9. Atur sebagai jalur **Data Seluler** default.
-10. Jangan aktifkan roaming data dulu.
+7. Ketuk **Add** untuk menginstal.
+8. Beri label garis "Turkey".
+9. Jadikan sebagai garis **Mobile Data** bawaan.
+10. Jangan nyalakan data roaming dulu.
 
-### Pemasangan QR Android untuk Turkey eSIM
+### Instal QR di Android
 
-1. Buka **Pengaturan**.
-2. Ketuk **Jaringan & Internet** → **SIM**. Di Samsung: **Koneksi** → **Manajer Kartu SIM**.
-3. Ketuk **Tambah eSIM** atau **Unduh SIM**.
-4. Pilih **Gunakan Kode QR**.
+1. Buka **Settings**.
+2. Ketuk **Network & Internet** → **SIMs**. Di Samsung: **Connections** → **SIM Card Manager**.
+3. Ketuk **Add eSIM** atau **Download SIM**.
+4. Pilih **Use QR Code**.
 5. Pindai kode QR.
 6. Ponsel menghubungi server SM-DP+ dan mengunduh profil.
-7. Konfirmasi unduhan dan aktifkan jalur baru.
-8. Pilih eSIM untuk **Data Seluler**.
-9. Jangan aktifkan roaming data dulu.
+7. Konfirmasi unduhan dan aktifkan garis baru.
+8. Pilih eSIM untuk **Mobile Data**.
+9. Jangan nyalakan data roaming dulu.
 
-### Apa yang Harus Anda Lihat Setelah Pemasangan Turkey eSIM
+### Apa yang Seharusnya Anda Lihat Setelah Instal eSIM Turki
 
-- Indikator kemajuan saat profil diunduh.
-- Layar konfirmasi dengan nama operator dan detail paket.
-- eSIM muncul di Pengaturan sebagai jalur sekunder.
+- Indikator progres saat profil diunduh.
+- Layar konfirmasi dengan nama carrier dan detail paket.
+- eSIM muncul di Settings sebagai garis sekunder.
 - ICCID terlihat di detail eSIM.
 - Kolom APN mungkin sudah terisi otomatis.
 
-### Apa yang Tidak Harus Anda Lihat Setelah Pemasangan Turkey eSIM
+### Apa yang Seharusnya Tidak Anda Lihat Setelah Instal eSIM Turki
 
-- “Operator tidak didukung.”
-- “eSIM tidak didukung.”
-- Layar kosong atau indikator kemajuan yang macet.
-- “Sudah digunakan” atau “kedaluwarsa.”
+- "Carrier not supported."
+- "eSIM not supported."
+- Layar kosong atau indikator progres membeku.
+- "Already used" atau "expired".
 
-### Batas Kode QR Sekali Pakai untuk Turkey eSIM
+### Batas QR Sekali Pakai untuk eSIM Turki
 
-Kode QR adalah kredensial sekali pakai. Setelah profil diunduh ke EID perangkat, kode QR yang sama tidak dapat memasang profil di perangkat lain. Jika Anda melihat “sudah digunakan” atau “kedaluwarsa,” hubungi penyedia Anda untuk penggantian. Jangan reset pabrik ponsel Anda sebagai solusi pertama. Reset pabrik tidak membantu dan menghapus pengaturan Anda.
+Kode QR adalah kredensial sekali pakai. Begitu profil diunduh ke EID sebuah perangkat, kode QR yang sama tidak bisa menginstal profil di perangkat lain. Jika Anda melihat "already used" atau "expired", hubungi penyedia Anda untuk penggantian. Jangan menjadikan factory reset ponsel sebagai solusi pertama. Factory reset tidak membantu dan menghapus semua pengaturan Anda.
 
-## Pemasangan Manual dan Entri SM-DP+
+## Instalasi Manual eSIM Turki dan Entri SM-DP+
 
-Pemasangan manual adalah cadangan ketika kode QR tidak dapat dipindai atau kamera tidak tersedia. Anda memerlukan alamat SM-DP+ dan kode aktivasi dari konfirmasi pesanan penyedia Anda.
+Instalasi manual adalah cadangan ketika kode QR tidak bisa dipindai atau kamera tidak tersedia. Anda membutuhkan alamat SM-DP+ dan kode aktivasi dari konfirmasi pesanan penyedia Anda.
 
-### Pemasangan Manual iPhone untuk Turkey eSIM
+### Instal Manual di iPhone
 
-1. Buka **Pengaturan** → **Data Seluler**.
-2. Ketuk **Tambah eSIM**.
-3. Ketuk **Masukkan Detail Secara Manual**.
-4. Masukkan **Alamat SM-DP+** dan **Kode Aktivasi** dari penyedia Anda.
-5. Ketuk **Berikutnya** dan konfirmasi.
-6. Beri label jalur “Turkey” dan atur untuk Data Seluler.
+1. Buka **Settings** → **Mobile Data**.
+2. Ketuk **Add eSIM**.
+3. Ketuk **Enter Details Manually**.
+4. Masukkan **SM-DP+ Address** dan **Activation Code** dari penyedia Anda.
+5. Ketuk **Next** dan konfirmasi.
+6. Beri label garis "Turkey" dan jadikan untuk Mobile Data.
 
-### Pemasangan Manual Android untuk Turkey eSIM
+### Instal Manual di Android
 
-1. Buka **Pengaturan** → **Jaringan & Internet** → **SIM**.
-2. Ketuk **Tambah eSIM**.
-3. Ketuk **Butuh bantuan?** atau **Masukkan manual**.
+1. Buka **Settings** → **Network & Internet** → **SIMs**.
+2. Ketuk **Add eSIM**.
+3. Ketuk **Need help?** atau **Enter manually**.
 4. Masukkan kode aktivasi dari penyedia Anda.
-5. Konfirmasi dan pasang.
-6. Aktifkan jalur dan pilih untuk Data Seluler.
+5. Konfirmasi dan instal.
+6. Aktifkan garis dan pilih untuk Mobile Data.
 
-### SM-DP+ dan Kode Aktivasi untuk Turkey eSIM
+### Di Mana Menemukan Alamat SM-DP+
 
 Alamat SM-DP+ adalah server yang menyimpan profil eSIM Anda. Kode aktivasi adalah token sekali pakai yang mengotorisasi unduhan. Keduanya terikat pada pesanan Anda dan EID perangkat Anda.
 
-Jika email penyedia tidak menampilkan alamat SM-DP+, periksa konfirmasi pesanan atau halaman dukungan. [Spesifikasi GSMA SGP.22 eSIM](https://www.gsma.com/esim/) mendefinisikan cara provisioning ini bekerja.
+Jika email penyedia tidak menampilkan alamat SM-DP+, cek konfirmasi pesanan atau halaman dukungan. [Spesifikasi eSIM GSMA SGP.22](https://www.gsma.com/esim/) mendefinisikan cara kerja provisioning ini.
 
-### Format Kode QR untuk Turkey eSIM
+### Format Kode QR untuk eSIM Turki
 
 Kode QR eSIM yang sesuai GSMA berisi string seperti ini:
 
@@ -251,441 +250,445 @@ Kode QR eSIM yang sesuai GSMA berisi string seperti ini:
 - **Alamat SM-DP+** — alamat server.
 - **Kode aktivasi** — token sekali pakai.
 
-Jika Anda memindai kode QR yang tidak mengikuti format ini, pemasangan akan gagal.
+Jika Anda memindai kode QR yang tidak mengikuti format ini, instalasi akan gagal.
 
-### Kode Kesalahan Pemasangan Manual untuk Turkey eSIM
+### Kode Error Instalasi Manual untuk eSIM Turki
 
-| Kesalahan | Penyebab | Perbaikan |
+| Error | Penyebab | Perbaikan |
 |---|---|---|
-| “Kode aktivasi tidak valid” | Kode salah atau kedaluwarsa | Periksa konfirmasi pesanan |
-| “Server tidak dapat dijangkau” | Masalah Wi-Fi atau SM-DP+ down | Coba lagi di Wi-Fi lain |
-| “Profil sudah terpasang” | Kode QR sudah digunakan sebelumnya | Hubungi penyedia |
-| “EID tidak dikenali” | Perangkat salah atau EID tidak cocok | Periksa EID di Pengaturan |
+| "Invalid activation code" | Kode salah atau kedaluwarsa | Cek konfirmasi pesanan |
+| "Server unreachable" | Masalah Wi-Fi atau SM-DP+ down | Coba lagi di Wi-Fi lain |
+| "Profile already installed" | Kode QR pernah dipakai | Hubungi penyedia |
+| "EID not recognized" | Perangkat salah atau EID tidak cocok | Cek EID di Settings |
 
-## Penyiapan Dual SIM
+## Setup Dual SIM
 
-Konfigurasi dual SIM adalah sumber sebagian besar kegagalan setelah mendarat. Turkey eSIM harus menjadi jalur data. SIM rumah harus menangani Voice dan SMS. Peralihan data seluler harus dinonaktifkan.
+Konfigurasi dual SIM adalah tempat bermulanya sebagian besar kegagalan setelah mendarat. eSIM Turki harus menjadi garis data. SIM rumah harus menangani Voice dan SMS. Mobile data switching harus dinonaktifkan.
 
-### Dual SIM iPhone untuk Turkey eSIM
+### iPhone Dual SIM untuk eSIM Turki
 
-1. Buka **Pengaturan** → **Data Seluler**.
-2. Di bawah **Data Seluler**, pilih **Turkey eSIM**.
-3. Di bawah **Jalur Suara Default**, pilih **SIM rumah** Anda.
-4. Matikan **roaming data** untuk SIM rumah.
-5. Nyalakan **roaming data** untuk Turkey eSIM setelah mendarat.
-6. Matikan **“Izinkan Peralihan Data Seluler.”**
+1. Buka **Settings** → **Mobile Data**.
+2. Di bawah **Cellular Data**, pilih **eSIM Turki**.
+3. Di bawah **Default Voice Line**, pilih **SIM rumah** Anda.
+4. Matikan (**OFF**) data roaming untuk SIM rumah.
+5. Nyalakan (**ON**) data roaming untuk eSIM Turki setelah mendarat.
+6. Matikan (**OFF**) "Allow Mobile Data Switching".
 
-### Dual SIM Android untuk Turkey eSIM
+### Android Dual SIM untuk eSIM Turki
 
-**Samsung:** Pengaturan → Koneksi → Manajer Kartu SIM. Pilih Turkey eSIM untuk **Data Seluler**. Pilih SIM rumah untuk **Panggilan** dan **Pesan Teks**. Matikan roaming pada SIM rumah dan nyalakan untuk eSIM.
+**Samsung:** Settings → Connections → SIM Card Manager. Pilih eSIM Turki untuk **Mobile Data**. Pilih SIM rumah untuk **Calls** dan **Text Messages**. Matikan roaming di SIM rumah dan nyalakan di eSIM.
 
-**Google Pixel:** Pengaturan → Jaringan & Internet → SIM. Ketuk Turkey eSIM dan aktifkan **Data Seluler**. Ketuk SIM rumah dan nonaktifkan **Data Seluler** dan **Roaming**. Lihat [dukungan eSIM Google Pixel](https://support.google.com/pixelphone/answer/10280747) untuk langkah khusus model.
+**Google Pixel:** Settings → Network & Internet → SIMs. Ketuk eSIM Turki dan aktifkan **Mobile Data**. Ketuk SIM rumah dan nonaktifkan **Mobile Data** dan **Roaming**. Lihat [pusat bantuan Google Pixel](https://support.google.com/pixelphone) untuk langkah spesifik per model.
 
-### Tiga Kesalahan Dual SIM Turkey eSIM yang Mahal
+### Tiga Kesalahan Dual SIM eSIM Turki yang Mahal
 
-**Membiarkan Data Seluler pada SIM rumah.** Operator rumah Anda mengenakan tarif roaming untuk setiap megabita. Pastikan Turkey eSIM adalah jalur data.
+**Membiarkan Mobile Data di SIM rumah.** Carrier rumah Anda menagih tarif roaming untuk setiap megabyte. Pastikan eSIM Turki adalah garis data.
 
-**Lupa mengaktifkan roaming pada eSIM.** eSIM perjalanan beroperasi sebagai profil roaming. Tanpa roaming diaktifkan, eSIM tidak akan terhubung ke jaringan Turki.
+**Lupa menyalakan roaming di eSIM.** eSIM perjalanan beroperasi sebagai profil roaming. Tanpa roaming diaktifkan, eSIM tidak akan tersambung ke jaringan Turki.
 
-**Mengaktifkan “Izinkan Peralihan Data Seluler.”** Ini memungkinkan ponsel beralih ke jalur mana pun yang memiliki sinyal lebih baik. Di Turki, ini dapat mengarahkan data melalui SIM rumah Anda dan memicu biaya roaming.
+**Menyalakan "Allow Mobile Data Switching".** Ini memungkinkan ponsel beralih ke garis mana pun yang sinyalnya lebih baik. Di Turki, itu bisa merutekan data lewat SIM rumah Anda dan memicu biaya roaming.
 
-### Matriks Dual SIM Turkey eSIM
+### Matriks Dual SIM eSIM Turki
 
-| Pengaturan | SIM Rumah | Turkey eSIM |
+| Pengaturan | SIM rumah | eSIM Turki |
 |---|---|---|
-| Data Seluler | MATI | NYALA |
-| Roaming Data | MATI | NYALA setelah mendarat |
-| Voice & SMS | NYALA | MATI |
-| Izinkan Peralihan Data Seluler | MATI | MATI |
-| Wi-Fi Calling | Opsional | Tidak berlaku |
+| Mobile Data | OFF | ON |
+| Data Roaming | OFF | ON setelah mendarat |
+| Voice & SMS | ON | OFF |
+| Allow Mobile Data Switching | OFF | OFF |
+| Wi-Fi Calling | Opsional | T/N |
 
-## Mengapa Data Memerlukan Konfigurasi APN?
+## Mengapa eSIM Membutuhkan Konfigurasi APN?
 
-APN adalah penyebab paling umum dari “sinyal ada tetapi tidak ada internet” pada Turkey eSIM. Tanpa APN yang benar, ponsel dapat terdaftar di jaringan dan menunjukkan sinyal penuh, tetapi data tidak akan mengalir. Nilai APN bergantung pada penyedia eSIM Anda, bukan operator Turki lokal.
+APN adalah penyebab paling umum "sinyal penuh tapi tidak ada internet" pada eSIM Turki. Tanpa APN yang benar, ponsel bisa mendaftar di jaringan dan menampilkan sinyal penuh, tapi data tidak akan mengalir. Nilai APN bergantung pada penyedia eSIM Anda, bukan carrier lokal Turki.
 
-### Apa Fungsi APN untuk Turkey eSIM
+### Apa yang Sebenarnya Dilakukan APN
 
-APN memberi tahu ponsel Anda gateway mana yang harus digunakan untuk data seluler. Tanpa APN yang benar, ponsel dapat terdaftar di jaringan dan menunjukkan sinyal, tetapi data tidak akan mengalir. Ini adalah penyebab paling umum dari “sinyal ada tetapi tidak ada internet.”
+APN memberi tahu ponsel Anda gateway mana yang digunakan untuk data seluler. Tanpa APN yang benar, ponsel bisa mendaftar di jaringan dan menampilkan batang sinyal, tapi data tidak akan mengalir. Ini adalah penyebab paling umum "sinyal penuh tapi tidak ada internet".
 
-### Kapan Memeriksa APN pada Turkey eSIM
+### Kapan Memeriksa APN pada eSIM Turki
 
 Periksa APN jika:
 
-- Ponsel menunjukkan sinyal dan nama operator
+- Ponsel menampilkan batang sinyal dan nama carrier
 - Indikator LTE atau 5G terlihat
-- Situs web dan aplikasi tidak memuat
-- Memulai ulang dan mengaktifkan/menonaktifkan Mode Pesawat tidak memperbaikinya
+- Situs web dan aplikasi tidak termuat
+- Me-restart dan mengaktifkan-mematikan Airplane Mode tidak memperbaikinya
 
-Jika tidak ada sinyal sama sekali, masalahnya adalah registrasi jaringan, bukan APN. Coba pilih jaringan manual terlebih dahulu.
+Jika sama sekali tidak ada batang sinyal, masalahnya adalah registrasi jaringan, bukan APN. Coba pemilihan jaringan manual terlebih dahulu.
 
-### Penyiapan APN iPhone untuk Turkey eSIM
+### Setup APN di iPhone
 
-1. Buka **Pengaturan** → **Data Seluler**.
-2. Pilih **Turkey eSIM**.
-3. Ketuk **Jaringan Data Seluler**. Jika menu ini tidak terlihat, APN dikelola otomatis oleh carrier bundle.
+1. Buka **Settings** → **Mobile Data**.
+2. Pilih **eSIM Turki**.
+3. Ketuk **Mobile Data Network**. Jika menu ini tidak terlihat, APN dikelola otomatis oleh carrier bundle.
 4. Masukkan nilai APN dari konfirmasi pesanan Anda.
-5. Pastikan Turkey eSIM dipilih sebagai jalur data.
-6. Aktifkan Roaming Data untuk eSIM.
-7. Aktifkan dan matikan Mode Pesawat.
+5. Pastikan eSIM Turki terpilih sebagai garis data.
+6. Aktifkan Data Roaming untuk eSIM.
+7. Nyalakan-matikan Airplane Mode.
 
-### Penyiapan APN Android untuk Turkey eSIM
+### Setup APN di Android
 
-1. Buka **Pengaturan** → **Jaringan & Internet** → **SIM**.
-2. Pilih **Turkey eSIM**.
-3. Buka **Nama Titik Akses**.
-4. Ketuk **tambah** atau **plus**.
+1. Buka **Settings** → **Network & Internet** → **SIMs**.
+2. Pilih **eSIM Turki**.
+3. Buka **Access Point Names**.
+4. Ketuk **add** atau **plus**.
 5. Masukkan nama dan nilai APN dari penyedia Anda.
-6. Biarkan nama pengguna dan kata sandi kosong, simpan, dan pilih profil.
-7. Aktifkan data seluler dan roaming data untuk eSIM.
-8. Aktifkan/matikan Mode Pesawat.
+6. Biarkan username dan password kosong, simpan, dan pilih profilnya.
+7. Aktifkan mobile data dan data roaming untuk eSIM.
+8. Nyalakan-matikan Airplane Mode.
 
-### Nilai APN berdasarkan Penyedia Turkey eSIM
+### Nilai APN Menurut Penyedia eSIM Turki
 
 | Penyedia | Nilai APN | Catatan |
 |---|---|---|
 | NoveSIM | data.esim | APN penyedia perjalanan |
-| Airalo | airalo | Periksa konfirmasi pesanan |
-| Holafly | holafly | Periksa konfirmasi pesanan |
-| Nomad | nomad | Periksa konfirmasi pesanan |
-| Saily | saily | Periksa konfirmasi pesanan |
-| Roami | roam | Periksa konfirmasi pesanan |
-| Turkcell Lokal | internet | APN operator lokal |
-| Vodafone Lokal | internet | APN operator lokal |
-| Türk Telekom Lokal | internet | APN operator lokal |
+| Airalo | airalo | Cek konfirmasi pesanan |
+| Holafly | holafly | Cek konfirmasi pesanan |
+| Nomad | nomad | Cek konfirmasi pesanan |
+| Saily | saily | Cek konfirmasi pesanan |
+| Roami | roam | Cek konfirmasi pesanan |
+| Turkcell lokal | internet | APN carrier lokal |
+| Vodafone lokal | internet | APN carrier lokal |
+| Türk Telekom lokal | internet | APN carrier lokal |
 
-### Penjelasan Kolom APN untuk Turkey eSIM
+### Penjelasan Kolom APN untuk eSIM Turki
 
-| Kolom | Fungsinya | Nilai umum |
+| Kolom | Fungsinya | Nilai tipikal |
 |---|---|---|
-| Name | Label untuk profil APN | “Turkey eSIM” |
-| APN | Alamat gateway | Khusus penyedia |
-| Username | Nama pengguna autentikasi | Biasanya kosong |
-| Password | Kata sandi autentikasi | Biasanya kosong |
+| Name | Label untuk profil APN | "Turkey eSIM" |
+| APN | Alamat gateway | Spesifik penyedia |
+| Username | Username autentikasi | Biasanya kosong |
+| Password | Password autentikasi | Biasanya kosong |
 | MCC | Mobile Country Code | 286 (Turki) |
-| MNC | Mobile Network Code | Bervariasi menurut operator |
-| APN Type | Jenis lalu lintas | default,supl |
+| MNC | Mobile Network Code | Berbeda tiap carrier |
+| APN Type | Jenis trafik | default,supl |
 | APN Protocol | Versi IP | IPv4/IPv6 |
 
-### Konflik Carrier Bundle pada Turkey eSIM
+### Konflik Carrier Bundle pada eSIM Turki
 
-Carrier bundle berisi pengaturan APN, pengaturan MMS, dan konfigurasi jaringan lainnya. Masalah terjadi ketika bundle sudah usang, hilang, atau bertentangan dengan pengaturan penyedia eSIM.
+Carrier bundle berisi pengaturan APN, pengaturan MMS, dan konfigurasi jaringan lainnya. Masalah terjadi ketika bundle kedaluwarsa, hilang, atau berkonflik dengan pengaturan penyedia eSIM.
 
 Gejala:
 
-- Kolom APN kosong dan tidak dapat diedit
-- Data berfungsi di beberapa jaringan tetapi tidak di jaringan lain
+- Kolom APN kosong dan tidak bisa diedit
+- Data berfungsi di beberapa jaringan tapi tidak di yang lain
 - Pengaturan MMS salah
-- Nama operator ditampilkan dengan salah
+- Nama carrier tampil tidak benar
 
 Perbaikan:
 
-1. Mulai ulang ponsel.
-2. Aktifkan/matikan Mode Pesawat.
+1. Restart ponsel.
+2. Nyalakan-matikan Airplane Mode.
 3. Perbarui iOS atau Android.
-4. Hapus dan pasang ulang profil eSIM.
+4. Hapus dan instal ulang profil eSIM.
 5. Hubungi penyedia untuk pembaruan carrier bundle.
 
-## Rangkuman Cepat
+Dua kebiasaan mencegah sebagian besar tiket dukungan lanjutan. Screenshot EID dan IMEI sebelum terbang, agar permintaan penerbitan ulang tidak pernah bergantung pada Wi-Fi bandara, dan uji tethering sekali di rumah — beberapa paket menghitung koneksi bersama ke batas data yang sama, dan mengetahuinya di hotel adalah momen yang salah.
 
-Anda sekarang telah membahas pemasangan versus aktivasi, pemeriksaan sebelum pemasangan, pemasangan QR dan manual, dual SIM, dan penyiapan APN. Polanya adalah sebagian besar kegagalan adalah masalah konfigurasi, bukan kerusakan perangkat keras. Selanjutnya, kita akan membahas pohon keputusan sinyal-tetapi-tidak-ada-internet dan kode kesalahan.
+## Ringkasan Cepat: Mengaktivasi Sebelum Terbang
 
-## Sinyal Ada tetapi Tidak Ada Internet
+Anda kini telah membahas instal versus aktivasi, pemeriksaan pra-instal, instalasi QR dan manual, dual SIM, dan setup APN. Polanya adalah sebagian besar kegagalan adalah masalah konfigurasi, bukan kerusakan perangkat keras. Selanjutnya, kita membahas pohon keputusan sinyal-penuh-tapi-tanpa-internet dan kode-kode error.
 
-Kerjakan langkah-langkah ini secara berurutan. Sebagian besar kegagalan koneksi Turkey eSIM teratasi pada Langkah 1, Langkah 2, atau Langkah 3. Jika tidak ada langkah yang berhasil, masalahnya kemungkinan kegagalan provisioning yang memerlukan intervensi penyedia.
+## eSIM Turki: Sinyal Penuh tapi Tidak Ada Internet
 
-### Langkah 1: Konfirmasi Jalur Data Turkey eSIM
+Ikuti langkah-langkah ini secara berurutan. Sebagian besar kegagalan koneksi eSIM Turki teratasi di Langkah 1, Langkah 2, atau Langkah 3. Jika tidak ada langkah yang berhasil, masalahnya kemungkinan kegagalan provisioning yang membutuhkan intervensi penyedia.
 
-Buka Pengaturan → Data Seluler. Pastikan Turkey eSIM dipilih sebagai jalur data. Perubahan tunggal ini mengatasi sebagian besar masalah koneksi.
+### Langkah 1: Konfirmasi Garis Data eSIM Turki
 
-### Langkah 2: Konfirmasi Roaming untuk Turkey eSIM
+Buka Settings → Mobile Data. Pastikan eSIM Turki terpilih sebagai garis data. Satu perubahan ini menyelesaikan sebagian besar masalah koneksi.
 
-Buka Pengaturan → Data Seluler → Turkey eSIM → Opsi Data Seluler. Pastikan Roaming Data NYALA untuk jalur eSIM.
+### Langkah 2: Pastikan Roaming Menyala
 
-### Langkah 3: Aktifkan/matikan Mode Pesawat untuk Turkey eSIM
+Buka Settings → Mobile Data → eSIM Turki → Mobile Data Options. Pastikan Data Roaming menyala (ON) untuk garis eSIM.
 
-Nyalakan Mode Pesawat selama 10 detik, lalu matikan. Ini memaksa ponsel untuk deregistrasi dan registrasi ulang di jaringan.
+### Langkah 3: Nyalakan-Matikan Airplane Mode untuk eSIM Turki
 
-### Langkah 4: Mulai Ulang Ponsel dengan Turkey eSIM
+Nyalakan Airplane Mode selama 10 detik, lalu matikan. Ini memaksa ponsel keluar dan mendaftar ulang di jaringan.
 
-Matikan dan mulai ulang sepenuhnya mengatasi sebagian besar masalah registrasi jaringan. Setelah mendarat, ponsel mungkin masih mempertahankan status jaringan sebelumnya.
+### Langkah 4: Restart Ponsel dengan eSIM Turki
 
-### Langkah 5: Pemilihan Jaringan Manual untuk Turkey eSIM
+Mematikan penuh dan me-restart menyelesaikan sebagian besar masalah registrasi jaringan. Setelah mendarat, ponsel mungkin masih menahan keadaan jaringan sebelumnya.
 
-**iPhone:** Pengaturan → Data Seluler → eSIM → Pemilihan Jaringan → matikan Otomatis → pilih Turkcell, Vodafone TR, atau Türk Telekom.
+### Langkah 5: Coba Pemilihan Jaringan Manual
 
-**Android:** Pengaturan → Jaringan → SIM → eSIM → Operator Jaringan → Cari manual.
+**iPhone:** Settings → Mobile Data → eSIM → Network Selection → matikan Automatic → pilih Turkcell, Vodafone TR, atau Türk Telekom.
 
-Coba setiap jaringan. Turkcell memiliki cakupan nasional terkuat. Vodafone mungkin berkinerja lebih baik di area pesisir tertentu. Lihat [perbandingan Turkcell vs Vodafone vs Türk Telekom](/blog/turkcell-vodafone-turk-telekom-esim/).
+**Android:** Settings → Network → SIMs → eSIM → Network Operators → Search manually.
 
-### Langkah 6: Periksa APN untuk Turkey eSIM
+Coba setiap jaringan. Turkcell punya cakupan nasional terkuat. Vodafone mungkin berperforma lebih baik di area pesisir tertentu. Lihat [perbandingan Turkcell vs Vodafone vs Türk Telekom](/blog/turkcell-vodafone-turk-telekom-esim/).
 
-Jika sinyal dan registrasi jaringan baik tetapi data tidak mengalir, periksa APN dengan email penyedia.
+### Langkah 6: Periksa APN untuk eSIM Turki
 
-### Langkah 7: Periksa Carrier Bundle untuk Turkey eSIM
+Jika batang sinyal dan registrasi jaringan baik tapi data tidak mengalir, periksa APN terhadap email penyedia.
 
-Jika kolom APN kosong dan Anda tidak dapat mengeditnya, carrier bundle mungkin hilang atau usang. Mulai ulang, aktifkan/matikan Mode Pesawat, hapus dan pasang ulang profil, atau hubungi penyedia.
+### Langkah 7: Periksa Carrier Bundle untuk eSIM Turki
 
-### Langkah 8: Hubungi Dukungan untuk Turkey eSIM
+Jika kolom APN kosong dan tidak bisa diedit, carrier bundle mungkin hilang atau kedaluwarsa. Restart, nyalakan-matikan Airplane Mode, hapus dan instal ulang profil, atau hubungi penyedia.
 
-Jika tidak ada yang berhasil, hubungi dukungan dengan ICCID dan nomor pesanan Anda. ICCID adalah nomor 19–20 digit pada profil eSIM. [eSIM untuk Turki](/turkey-esim/) dengan dukungan manusia 24/7 yang berfungsi melalui Wi-Fi memberi Anda orang sungguhan untuk dihubungi jika langkah swalayan gagal.
+### Langkah 8: Hubungi Dukungan untuk eSIM Turki
 
-### Tabel Gejala-ke-Penyebab Turkey eSIM
+Jika tidak ada yang berhasil, hubungi dukungan dengan ICCID dan nomor pesanan Anda. ICCID adalah nomor 19–20 digit pada profil eSIM. [eSIM untuk Turki](/turkey-esim/) dengan dukungan manusia 24/7 yang berfungsi lewat Wi-Fi memberi Anda orang sungguhan yang bisa dihubungi jika langkah mandiri gagal.
+
+### Tabel Gejala-ke-Penyebab eSIM Turki
 
 | Gejala | Kemungkinan penyebab | Perbaikan |
 |---|---|---|
-| Sinyal ada tetapi tidak ada data | Jalur data salah | Pilih Turkey eSIM untuk Data Seluler |
-| Sinyal ada tetapi tidak ada data | Roaming mati | Aktifkan Roaming Data untuk eSIM |
-| Sinyal ada tetapi tidak ada data | APN kosong atau salah | Masukkan APN yang benar |
-| Sinyal ada tetapi tidak ada data | Carrier bundle hilang | Mulai ulang, pasang ulang profil |
-| Tidak ada layanan atau SOS | Registrasi jaringan gagal | Mulai ulang, pilih jaringan manual |
-| SIM rumah menggunakan data | Peralihan data aktif | Nonaktifkan Izinkan Peralihan Data Seluler |
-| Kecepatan lambat setelah penggunaan | Pembatasan Fair Use Policy | Terima atau beralih ke paket data tetap |
-| Data berfungsi lalu berhenti | Registrasi jaringan terputus | Mulai ulang, pilih jaringan manual |
+| Sinyal penuh tapi tanpa data | Garis data salah | Pilih eSIM Turki untuk Mobile Data |
+| Sinyal penuh tapi tanpa data | Roaming mati | Aktifkan Data Roaming untuk eSIM |
+| Sinyal penuh tapi tanpa data | APN kosong atau salah | Masukkan APN yang benar |
+| Sinyal penuh tapi tanpa data | Carrier bundle hilang | Restart, instal ulang profil |
+| No service atau SOS | Registrasi jaringan gagal | Restart, pemilihan jaringan manual |
+| SIM rumah memakai data | Data switching aktif | Nonaktifkan Allow Mobile Data Switching |
+| Kecepatan lambat setelah pemakaian | Pembatasan Fair Use Policy | Terima atau pindah ke paket data tetap |
+| Data berfungsi lalu berhenti | Registrasi jaringan hilang | Restart, pemilihan jaringan manual |
 | Data hanya berfungsi di Wi-Fi | Masalah APN | Periksa pengaturan APN |
 
-### Referensi Kode Kesalahan Turkey eSIM
+### Referensi Kode Error eSIM Turki
 
-| Kesalahan | Arti | Perbaikan |
+| Error | Arti | Perbaikan |
 |---|---|---|
-| “Operator tidak didukung” | Ponsel terkunci operator | Buka kunci dengan operator |
-| “eSIM tidak didukung” | Tidak ada perangkat keras eUICC | Gunakan perangkat lain |
-| “Kode QR sudah digunakan” | QR sekali pakai telah terpakai | Minta kode QR baru |
-| “Tidak dapat terhubung ke server” | Masalah Wi-Fi selama pemasangan | Hubungkan kembali ke Wi-Fi stabil |
-| “Profil tidak ditemukan” | Alamat SM-DP+ salah | Periksa konfirmasi pesanan |
-| “Pemasangan gagal” | Unduhan terputus | Mulai ulang ponsel, coba lagi |
-| “Tidak ada EID” | Perangkat keras hilang | Gunakan SIM fisik atau pocket Wi-Fi |
-| “Kesalahan koneksi TLS” | Blokir BTK atau backend down | Gunakan data seperti biasa, hubungi via email |
-| “Kode aktivasi tidak valid” | Kode kedaluwarsa atau salah | Minta kode baru |
-| “Registrasi jaringan gagal” | Masalah operator atau celah cakupan | Pemilihan jaringan manual |
+| "Carrier not supported" | Ponsel terkunci carrier | Buka kunci lewat carrier |
+| "eSIM not supported" | Tidak ada perangkat keras eUICC | Gunakan perangkat lain |
+| "QR code already used" | QR sekali pakai sudah terpakai | Minta kode QR baru |
+| "Unable to connect to server" | Masalah Wi-Fi saat instal | Sambungkan ulang ke Wi-Fi stabil |
+| "Profile not found" | Alamat SM-DP+ salah | Cek konfirmasi pesanan |
+| "Installation failed" | Unduhan terputus | Restart ponsel, coba lagi |
+| "No EID" | Perangkat keras tidak ada | Gunakan SIM fisik atau pocket Wi-Fi |
+| "TLS connection error" | Blokir BTK atau backend down | Gunakan data seperti biasa, hubungi via email |
+| "Activation code invalid" | Kode kedaluwarsa atau salah | Minta kode baru |
+| "Network registration failed" | Masalah carrier atau celah cakupan | Pemilihan jaringan manual |
 
-## Registrasi Jaringan
+## Registrasi Jaringan eSIM
 
-Registrasi jaringan terpisah dari konfigurasi APN. Ponsel harus terdaftar terlebih dahulu pada operator Turki sebelum sesi data apa pun dapat dimulai. Pemilihan otomatis biasanya berfungsi, tetapi pemilihan manual adalah perbaikannya jika tidak berhasil.
+Registrasi jaringan terpisah dari konfigurasi APN. Ponsel harus mendaftar di carrier Turki terlebih dahulu sebelum sesi data bisa dimulai. Pemilihan otomatis biasanya berhasil, tapi pemilihan manual adalah perbaikannya jika tidak.
 
-### Bagaimana Ponsel Memilih Jaringan Turkey eSIM
+### Bagaimana Ponsel Memilih Jaringan eSIM Turki
 
-Saat Anda mengaktifkan roaming data, ponsel memindai jaringan yang tersedia dan mencoba mendaftar. Pemilihan mengikuti prioritas ini:
+Ketika Anda menyalakan data roaming, ponsel memindai jaringan yang tersedia dan mencoba mendaftar. Pemilihan mengikuti prioritas ini:
 
-1. Jaringan yang disukai dari carrier bundle
+1. Jaringan pilihan dari carrier bundle
 2. Kekuatan sinyal
 3. Teknologi jaringan
 4. Perjanjian roaming
 
-### Mengapa Pemilihan Otomatis Turkey eSIM Gagal
+### Mengapa Pemilihan Otomatis eSIM Turki Gagal
 
-Pemilihan otomatis dapat gagal ketika:
+Pemilihan otomatis bisa gagal ketika:
 
-- Jaringan yang disukai tidak tersedia
+- Jaringan pilihan tidak tersedia
 - Sinyal lemah
 - Perjanjian roaming tidak dikonfigurasi dengan benar
-- Ponsel mempertahankan status jaringan sebelumnya
-- HLR/HSS operator lambat merespons
+- Ponsel masih menahan keadaan jaringan sebelumnya
+- HLR/HSS carrier lambat merespons
 
-### Jaringan Turkey eSIM Mana yang Harus Dipilih
+### Jaringan eSIM Turki Mana yang Dipilih
 
 | Jaringan | Terbaik untuk | Catatan |
 |---|---|---|
 | Turkcell | Pedesaan, Turki timur, Cappadocia | Kecepatan median tercepat |
 | Vodafone TR | Resor pesisir, Istanbul | Dukungan bahasa Inggris kuat |
-| Türk Telekom | Kota, perjalanan hemat | Sebagian besar eSIM perjalanan menggunakan ini |
+| Türk Telekom | Kota, perjalanan hemat | Paling banyak dipakai eSIM perjalanan |
 
-### Waktu Registrasi Turkey eSIM
+### Waktu Registrasi eSIM Turki
 
-| Skenario | Waktu umum |
+| Skenario | Waktu tipikal |
 |---|---|
 | Registrasi pertama | 2–5 menit |
-| Registrasi ulang setelah mulai ulang | 1–3 menit |
+| Registrasi ulang setelah restart | 1–3 menit |
 | Pemilihan jaringan manual | 1–2 menit |
 | Negosiasi perjanjian roaming | Hingga 15 menit |
-| Kemacetan jaringan | Hingga 30 menit |
+| Jaringan padat | Hingga 30 menit |
 
-Untuk data kecepatan tingkat jaringan, lihat [laporan pengalaman jaringan seluler OpenSignal Turkey](https://www.opensignal.com/reports/turkey).
+Untuk data kecepatan tingkat jaringan, lihat [pengukuran jaringan independen Opensignal](https://www.opensignal.com/).
 
-## Haruskah Anda Memasang Ulang eSIM?
+## Haruskah Anda Menginstal Ulang eSIM?
 
-Pemasangan ulang adalah pilihan terakhir sebelum membeli SIM lokal. Diperlukan ketika profil rusak, carrier bundle rusak, atau eSIM berhenti berfungsi setelah pembaruan ponsel. Kode QR asli sekali pakai, jadi Anda memerlukan kode QR baru atau proses transfer dari penyedia.
+Reinstalasi adalah upaya terakhir sebelum membeli SIM lokal. Diperlukan ketika profil korup, carrier bundle rusak, atau eSIM berhenti berfungsi setelah pembaruan ponsel. Kode QR asli bersifat sekali pakai, jadi Anda membutuhkan kode QR baru atau proses transfer dari penyedia.
 
-### Kapan Memasang Ulang Turkey eSIM
+### Kapan Menginstal Ulang eSIM Turki
 
-Anda mungkin perlu memasang ulang profil eSIM jika:
+Anda mungkin perlu menginstal ulang profil eSIM jika:
 
 - Profil terhapus secara tidak sengaja
-- Carrier bundle rusak
-- Pengaturan APN tidak dapat diedit
+- Carrier bundle korup
+- Pengaturan APN tidak bisa diedit
 - eSIM berhenti berfungsi setelah pembaruan ponsel
 
-### Hapus dan Pasang Ulang Turkey eSIM
+### Hapus dan Instal Ulang eSIM Turki
 
 **iPhone:**
-1. Pengaturan → Data Seluler.
-2. Ketuk Turkey eSIM.
-3. Ketuk “Hapus Paket Seluler.”
+1. Settings → Mobile Data.
+2. Ketuk eSIM Turki.
+3. Ketuk "Remove Cellular Plan".
 4. Konfirmasi.
-5. Pasang kode QR baru.
+5. Instal kode QR baru.
 
 **Android:**
-1. Pengaturan → Jaringan & Internet → SIM.
-2. Ketuk Turkey eSIM.
-3. Ketuk “Hapus” atau “Remove.”
+1. Settings → Network & Internet → SIMs.
+2. Ketuk eSIM Turki.
+3. Ketuk "Delete" atau "Remove".
 4. Konfirmasi.
-5. Pasang kode QR baru.
+5. Instal kode QR baru.
 
-### Jika Anda Tidak Dapat Mendapatkan Kode QR Turkey eSIM Baru
+### Jika Anda Tidak Bisa Mendapatkan Kode QR eSIM Turki Baru
 
-Jika penyedia Anda diblokir oleh BTK dan Anda tidak dapat mengakses situs web mereka, Anda tidak dapat meminta kode QR baru dari dalam Turki. Pilihan:
+Jika penyedia Anda diblokir BTK dan Anda tidak bisa mengakses situsnya, Anda tidak bisa meminta kode QR baru dari dalam Turki. Pilihannya:
 
-1. Tunggu hingga Anda meninggalkan Turki dan akses situs web penyedia.
-2. Gunakan VPN untuk mengakses situs web penyedia.
-3. Beli SIM Turki lokal.
+1. Tunggu sampai keluar dari Turki lalu akses situs penyedia.
+2. Gunakan VPN untuk mengakses situs penyedia.
+3. Beli SIM lokal Turki.
 4. Beli eSIM dari penyedia yang tidak diblokir seperti Klook.
 
-Untuk konteks regulasi lengkap di balik batasan ini, baca [aturan larangan dan ketersediaan BTK](/blog/turkey-esim-ban-availability-rules/).
+Untuk konteks regulasi lengkap di balik keterbatasan ini, baca [pemblokiran BTK dan aturan ketersediaan](/blog/turkey-esim-ban-availability-rules/).
 
-## Pemecahan Masalah Aktivasi Lanjutan
+## Troubleshooting Lanjutan Aktivasi eSIM Turki
 
-Pemecahan masalah lanjutan mencakup kegagalan yang bertahan dari pohon keputusan dasar. Setiap skenario dipetakan ke penyebab spesifik dan perbaikan spesifik.
+Troubleshooting lanjutan mencakup kegagalan yang bertahan melewati pohon keputusan dasar. Setiap skenario dipetakan ke penyebab spesifik dan perbaikan spesifik.
 
-### Turkey eSIM Terhubung tetapi Tidak Ada Data Mengalir
+### eSIM Turki Tersambung tapi Tidak Ada Data Mengalir
 
-Penyebab: APN kosong atau salah, roaming mati, jalur data salah, carrier bundle hilang, sesi data tidak terbentuk.
+Penyebab: APN kosong atau salah, roaming mati, garis data salah, carrier bundle hilang, sesi data tidak terbangun.
 
-Perbaikan: Periksa APN, aktifkan roaming, pilih Turkey eSIM sebagai jalur data, mulai ulang, pemilihan jaringan manual, hubungi dukungan.
+Perbaikan: Cek APN, aktifkan roaming, pilih eSIM Turki sebagai garis data, restart, pemilihan jaringan manual, hubungi dukungan.
 
-### Kecepatan Turkey eSIM Sangat Lambat
+### Kecepatan eSIM Turki Sangat Lambat
 
-Penyebab: Pembatasan Fair Use Policy, kemacetan jaringan, sinyal lemah, jaringan salah.
+Penyebab: Pembatasan Fair Use Policy, jaringan padat, sinyal lemah, jaringan salah.
 
-Perbaikan: Periksa ambang FUP, pemilihan jaringan manual, pindah ke sinyal lebih kuat, beralih ke paket data tetap. Untuk perhitungan ukuran paket, baca [perhitungan ukuran paket](/blog/cheapest-turkey-esim/).
+Perbaikan: Cek ambang FUP, pemilihan jaringan manual, pindah ke sinyal lebih kuat, pindah ke paket data tetap. Untuk perhitungan ukuran paket, baca [perhitungan ukuran paket](/blog/cheapest-turkey-esim/).
 
-### Turkey eSIM Berfungsi Lalu Berhenti
+### eSIM Turki Berfungsi Lalu Berhenti
 
-Penyebab: Registrasi jaringan terputus, pembatasan FUP, ponsel beralih ke SIM rumah, konflik carrier bundle.
+Penyebab: Registrasi jaringan hilang, pembatasan FUP, ponsel beralih ke SIM rumah, konflik carrier bundle.
 
-Perbaikan: Mulai ulang, periksa jalur data, periksa FUP, pemilihan jaringan manual, pasang ulang jika perlu.
+Perbaikan: Restart, cek garis data, cek FUP, pemilihan jaringan manual, reinstal jika perlu.
 
-### Turkey eSIM Tidak Terpasang
+### eSIM Turki Tidak Bisa Diinstal
 
-Penyebab: Ponsel terkunci operator, tidak ada perangkat keras eUICC, masalah Wi-Fi, kode QR sudah digunakan, SM-DP+ down.
+Penyebab: Ponsel terkunci carrier, tidak ada perangkat keras eUICC, masalah Wi-Fi, kode QR terpakai, SM-DP+ down.
 
-Perbaikan: Periksa kunci operator, periksa EID, coba Wi-Fi lain, minta QR baru, hubungi dukungan.
+Perbaikan: Cek carrier lock, cek EID, coba Wi-Fi lain, minta QR baru, hubungi dukungan.
 
-### Turkey eSIM Terpasang tetapi Tidak Terlihat
+### eSIM Turki Terinstal tapi Tidak Terlihat
 
-Penyebab: Pemasangan tidak lengkap, ponsel perlu dimulai ulang, eSIM dinonaktifkan.
+Penyebab: Instalasi tidak lengkap, ponsel perlu di-restart, eSIM dinonaktifkan.
 
-Perbaikan: Mulai ulang ponsel, periksa Pengaturan → Data Seluler, periksa SIM, pasang ulang.
+Perbaikan: Restart ponsel, cek Settings → Mobile Data, cek SIMs, instal ulang.
 
-## Contoh Nyata: Daniel, Pertama Kali di Bandara Istanbul
+## Contoh Nyata: Daniel, Pemula di Bandara Istanbul
 
-Daniel mendarat di IST dengan eSIM-nya masih tidak aktif karena ia membiarkan roaming data mati. Daripada memasang ulang, ia mengaktifkan roaming, memulai ulang ponsel, dan mendapatkan sinyal dalam dua menit — urutan perbaikan menyelamatkan perjalanannya.
+Daniel mendarat di IST dengan eSIMnya masih dorman karena ia membiarkan data roaming mati. Daripada menginstal ulang, ia menyalakan roaming, me-restart ponsel, dan mendapat sinyal dalam dua menit — urutan perbaikan yang tepat menyelamatkan perjalanannya.
 
-## Skenario Penyiapan Mana yang Cocok untuk Anda
+## Skenario Setup eSIM Turki Mana yang Cocok dengan Anda
 
-| Situasi penyiapan | Tindakan Anda | Mengapa |
+| Situasi setup | Langkah Anda | Mengapa |
 | --- | --- | --- |
-| Akan terbang, eSIM sudah dibeli | Pasang di Wi-Fi sebelum naik pesawat | Menghindari blokir setelah mendarat |
-| Sinyal ada tetapi tidak ada internet | Aktifkan roaming, lalu periksa APN | Perbaikan paling umum |
-| Terpasang tetapi masih tidak ada jaringan | Coba pemilihan jaringan manual | Profil yang tidak aktif perlu dorongan |
+| Segera terbang, eSIM sudah dibeli | Instal lewat Wi-Fi sebelum boarding | Menghindari blokir setelah mendarat |
+| Sinyal penuh tapi tanpa internet | Aktifkan roaming, lalu cek APN | Perbaikan paling umum |
+| Terinstal tapi tetap tanpa jaringan | Coba pemilihan jaringan manual | Profil dorman butuh dorongan |
 
-## FAQ: Aktivasi, QR, dan APN
+## FAQ: Aktivasi, QR dan APN eSIM Turki
 
-### Apa perbedaan antara memasang dan mengaktifkan Turkey eSIM?
+### Apa bedanya menginstal dan mengaktivasi eSIM Turki?
 
-Pemasangan mengunduh profil ke chip eUICC Anda. Aktivasi mendaftarkan profil tersebut ke jaringan Turki. Pasang di rumah melalui Wi-Fi. Aktifkan saat mendarat dengan mengaktifkan roaming data.
+Instalasi mengunduh profil ke chip eUICC Anda. Aktivasi mendaftarkan profil itu di jaringan Turki. Instal di rumah lewat Wi-Fi. Aktivasi saat mendarat dengan menyalakan data roaming.
 
-### Bagaimana cara memasang Turkey eSIM di iPhone?
+### Bagaimana cara menginstal eSIM Turki di iPhone?
 
-Pengaturan → Data Seluler → Tambah Paket Data, pindai kode QR, beri label jalur “Turkey,” atur untuk Data Seluler, biarkan roaming mati hingga mendarat. Lihat [dokumentasi dukungan eSIM resmi Apple](https://support.apple.com/en-us/HT209096) untuk langkah khusus model.
+Settings → Mobile Data → Add Data Plan, pindai kode QR, beri label garis "Turkey", jadikan untuk Mobile Data, biarkan roaming mati sampai mendarat. Lihat [dokumentasi dukungan eSIM resmi Apple](https://support.apple.com/en-us/HT209096) untuk langkah spesifik per model.
 
-### Bagaimana cara memasang Turkey eSIM di Android?
+### Bagaimana cara menginstal eSIM Turki di Android?
 
-Pengaturan → Jaringan & Internet → SIM → Tambah eSIM, pindai kode QR, aktifkan jalur, pilih untuk Data Seluler. Aktifkan roaming setelah mendarat.
+Settings → Network & Internet → SIMs → Add eSIM, pindai kode QR, aktifkan garis, pilih untuk Mobile Data. Nyalakan roaming setelah mendarat.
 
-### Mengapa Turkey eSIM saya menunjukkan sinyal tetapi tidak ada internet?
+### Mengapa eSIM Turki saya menampilkan sinyal penuh tapi tidak ada internet?
 
-Tiga penyebab paling umum adalah jalur data salah, roaming mati untuk eSIM, dan APN kosong atau salah. Kerjakan pohon keputusan di atas.
+Tiga penyebab paling umum adalah garis data salah, roaming eSIM mati, dan APN kosong atau salah. Ikuti pohon keputusan di atas.
 
-### APN apa yang harus saya gunakan untuk Turkey eSIM?
+### APN apa yang harus saya pakai untuk eSIM Turki?
 
-APN bergantung pada penyedia eSIM Anda, bukan operator Turki lokal. Periksa email konfirmasi pesanan Anda. Jangan berasumsi Anda harus menggunakan APN Turkcell atau Vodafone.
+APN bergantung pada penyedia eSIM Anda, bukan carrier lokal Turki. Cek email konfirmasi pesanan Anda. Jangan berasumsi Anda harus memakai APN Turkcell atau Vodafone.
 
-### Kode QR mengatakan “sudah digunakan” — bagaimana sekarang?
+### Kode QR tertulis "already used" — bagaimana sekarang?
 
-Kode QR sekali pakai. Hubungi penyedia Anda untuk penggantian. Jangan reset pabrik ponsel Anda sebagai solusi pertama.
+Kode QR bersifat sekali pakai. Hubungi penyedia Anda untuk penggantian. Jangan menjadikan factory reset ponsel sebagai solusi pertama.
 
-### Berapa lama aktivasi Turkey eSIM?
+### Berapa lama aktivasi eSIM Turki berlangsung?
 
-Pemasangan memakan waktu sekitar 60 detik di Wi-Fi. Registrasi jaringan setelah mendarat biasanya memakan waktu 2–5 menit.
+Instalasi memakan waktu sekitar 60 detik lewat Wi-Fi. Registrasi jaringan setelah mendarat biasanya memakan 2–5 menit.
 
-### Apa alamat SM-DP+ untuk Turkey eSIM?
+### Apa itu alamat SM-DP+ untuk eSIM Turki?
 
-Alamat SM-DP+ adalah server yang menyimpan profil eSIM Anda. Ini adalah nama domain atau alamat IP yang dihubungi ponsel Anda selama pemasangan. Kode aktivasi adalah token sekali pakai.
+Alamat SM-DP+ adalah server yang menyimpan profil eSIM Anda. Itu berupa nama domain atau alamat IP yang dihubungi ponsel Anda selama instalasi. Kode aktivasi adalah token sekali pakai.
 
-### Bisakah saya mengaktifkan Turkey eSIM tanpa aplikasi penyedia?
+### Bisakah saya mengaktivasi eSIM Turki tanpa aplikasi penyedia?
 
-Ya. Aktivasi dilakukan melalui pengaturan ponsel Anda, bukan aplikasi penyedia. Aktifkan roaming data untuk jalur eSIM dan tunggu 2–5 menit untuk registrasi jaringan.
+Bisa. Aktivasi dilakukan melalui pengaturan ponsel Anda, bukan aplikasi penyedia. Nyalakan data roaming untuk garis eSIM dan tunggu 2–5 menit untuk registrasi jaringan.
 
-### Bagaimana jika Turkey eSIM saya tidak terhubung setelah mendarat?
+### Bagaimana jika eSIM Turki saya tidak tersambung setelah mendarat?
 
-Periksa jalur data, aktifkan roaming, mulai ulang, coba pemilihan jaringan manual, periksa APN. Jika tidak ada yang berhasil, hubungi dukungan. Jika penyedia diblokir, gunakan dukungan berbasis Wi-Fi. Untuk alur pemecahan masalah lengkap, baca [langkah pemecahan masalah](/blog/how-turkey-esim-works-activation/).
+Cek garis data, aktifkan roaming, restart, coba pemilihan jaringan manual, cek APN. Jika tidak ada yang berhasil, hubungi dukungan. Jika penyedia diblokir, gunakan dukungan berbasis Wi-Fi.
 
-### Jaringan mana yang harus saya pilih manual untuk Turkey eSIM?
+### Jaringan mana yang harus saya pilih manual untuk eSIM Turki?
 
 Turkcell untuk daerah pedesaan, Cappadocia, dan Turki timur. Vodafone TR untuk resor pesisir dan Istanbul. Türk Telekom untuk kota dan perjalanan hemat.
 
-### Bisakah saya memasang ulang Turkey eSIM setelah menghapusnya?
+### Bisakah saya menginstal ulang eSIM Turki setelah menghapusnya?
 
-Hanya jika Anda memiliki kode QR baru atau penyedia Anda mendukung transfer eSIM. Kode QR asli sekali pakai. Jika penyedia diblokir BTK, Anda tidak dapat meminta kode QR baru dari dalam Turki.
+Hanya jika Anda punya kode QR baru atau penyedia Anda mendukung transfer eSIM. Kode QR asli bersifat sekali pakai. Jika penyedia diblokir BTK, Anda tidak bisa meminta kode QR baru dari dalam Turki.
 
-### Apakah aktivasi Turkey eSIM berfungsi tanpa kode QR?
+### Apakah aktivasi eSIM Turki berfungsi tanpa kode QR?
 
-Ya, jika penyedia menyediakan alamat SM-DP+ dan kode aktivasi. Pemasangan manual digunakan ketika kamera QR tidak dapat memindai. Kedua metode mengunduh profil yang sama ke chip eUICC yang sama.
+Ya, jika penyedia menyediakan alamat SM-DP+ dan kode aktivasi. Instalasi manual digunakan ketika kamera QR tidak bisa memindai. Kedua metode mengunduh profil yang sama ke chip eUICC yang sama.
 
-## Daftar Periksa Akhir: Aktivasi dan Pemecahan Masalah
+## Checklist Akhir: Aktivasi dan Troubleshooting eSIM Turki
 
-Gunakan daftar periksa akhir ini untuk mengonfirmasi penyiapan sebelum keberangkatan, bersiap untuk mendarat, dan pulih jika terjadi kegagalan. Blokir BTK membuat pemasangan sebelum keberangkatan wajib bagi sebagian besar penyedia.
+Gunakan checklist akhir ini untuk mengonfirmasi setup pra-keberangkatan, mempersiapkan pendaratan, dan pulih jika ada yang gagal. Pemblokiran BTK menjadikan instalasi pra-keberangkatan wajib untuk sebagian besar penyedia.
 
-### Sebelum Keberangkatan dengan Turkey eSIM
+### Sebelum Berangkat dengan eSIM Turki
 
-- [ ] Periksa EID dan kunci operator. Lihat [pemeriksaan EID](/blog/turkey-esim-device-compatibility/).
-- [ ] Beli paket Turkey eSIM. Bandingkan [opsi pembelian dan pengembalian dana yang aman](/blog/buy-turkey-esim-online/).
+- [ ] Cek EID dan carrier lock. Lihat [pencek EID](/blog/turkey-esim-device-compatibility/).
+- [ ] Beli paket eSIM Turki. Bandingkan [opsi pembelian aman dan pengembalian dana](/blog/buy-turkey-esim-online/).
 - [ ] Simpan kode QR offline
-- [ ] Pasang profil
-- [ ] Beri label jalur “Turkey”
-- [ ] Atur Turkey eSIM untuk Data Seluler
-- [ ] Atur SIM rumah untuk Voice & SMS
-- [ ] Nonaktifkan “Izinkan Peralihan Data Seluler”
-- [ ] Biarkan roaming data MATI untuk Turkey eSIM
+- [ ] Instal profilnya
+- [ ] Beri label garis "Turkey"
+- [ ] Set eSIM Turki untuk Mobile Data
+- [ ] Set SIM rumah untuk Voice & SMS
+- [ ] Nonaktifkan "Allow Mobile Data Switching"
+- [ ] Biarkan data roaming MATI untuk eSIM Turki
 - [ ] Simpan nilai APN
-- [ ] Pastikan eSIM muncul di Pengaturan
+- [ ] Pastikan eSIM muncul di Settings
 - [ ] Simpan ICCID dan EID
 - [ ] Unduh peta offline
 
-### Setelah Mendarat dengan Turkey eSIM
+### Setelah Mendarat dengan eSIM Turki
 
-- [ ] Aktifkan Roaming Data untuk Turkey eSIM
+- [ ] Aktifkan Data Roaming untuk eSIM Turki
 - [ ] Tunggu 2–5 menit untuk registrasi jaringan
-- [ ] Verifikasi nama operator
+- [ ] Verifikasi nama carrier
 - [ ] Uji data dengan peta atau browser
 - [ ] Pastikan SMS berfungsi di SIM rumah
 - [ ] Uji panggilan VoIP jika perlu
-- [ ] Jika tidak ada data: periksa jalur data, roaming, APN, mulai ulang, pemilihan jaringan manual
+- [ ] Jika tanpa data: cek garis data, roaming, APN, restart, pemilihan jaringan manual
 
-### Jika Terjadi Kesalahan dengan Turkey eSIM
+### Jika Ada Masalah dengan eSIM Turki
 
-- [ ] Periksa pemilihan jalur data
-- [ ] Periksa pengaturan roaming
-- [ ] Periksa APN dengan email penyedia
-- [ ] Mulai ulang ponsel
+- [ ] Cek pemilihan garis data
+- [ ] Cek pengaturan roaming
+- [ ] Cek APN terhadap email penyedia
+- [ ] Restart ponsel
 - [ ] Coba pemilihan jaringan manual
-- [ ] Periksa carrier bundle
+- [ ] Cek carrier bundle
 - [ ] Hubungi dukungan dengan ICCID dan nomor pesanan
 
-Jika penyiapan swalayan terasa berisiko, [Turkey eSIM Roami](/turkey-esim/) dipasang dari satu kode QR dan mendukung Anda dengan dukungan 24/7 yang berfungsi melalui Wi-Fi — pengguna baru mendapat diskon 20% untuk paket masuk $1.99. Untuk gambaran lengkap dalam satu halaman, baca [ikhtisar Turkey eSIM](/blog/turkey-esim-ultimate-guide/).
+Pembeli yang berhati-hati bisa [mencoba eSIM gratis dulu](/free-esim/) dan melatih seluruh proses instal di Wi-Fi rumah sebelum membayar paket. Jika setup mandiri terasa berisiko, [eSIM Turki dari Roami](/turkey-esim/) diinstal dari satu kode QR dan mendukung Anda dengan dukungan 24/7 yang berfungsi lewat Wi-Fi — pengguna baru mendapat diskon 20% untuk paket awal $2,99.
 
-## Intinya
+Untuk gambaran keseluruhan dalam satu halaman, baca [ikhtisar eSIM Turki](/blog/turkey-esim-ultimate-guide/).
 
-- SIM fisik dari konter bandara melewati seluruh proses ini — jika Anda lebih suka tidak menyentuh pengaturan, itu pilihan yang wajar.
-- Untuk semua orang, eSIM yang dipasang melalui Wi-Fi sebelum Anda berangkat akan terhubung dalam beberapa menit setelah mendarat.
-- Ingat urutan perbaikan — jalur data, roaming, APN, carrier bundle, lalu dukungan — dan tangkapan layar kode QR serta nilai APN Anda.
-- Anggap pemasangan ulang sebagai pilihan terakhir, karena kode QR Anda mungkin hanya berfungsi sekali.
+## Kesimpulan: Aktivasi Tanpa Kejutan
+
+- SIM fisik dari meja bandara melewati seluruh proses ini — jika Anda tidak ingin mengutak-atik pengaturan, itu pilihan yang masuk akal.
+- Untuk yang lainnya, eSIM yang diinstal lewat Wi-Fi sebelum berangkat akan tersambung dalam hitungan menit setelah mendarat.
+- Ingat urutan perbaikannya — garis data, roaming, APN, carrier bundle, lalu dukungan — dan screenshot kode QR serta nilai APN Anda.
+- Perlakukan reinstalasi sebagai upaya terakhir, karena kode QR Anda mungkin hanya bisa dipakai sekali.

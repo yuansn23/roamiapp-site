@@ -5,6 +5,7 @@ description: "Guia completo do eSIM em Portugal 2026. Compare MEO, NOS, Vodafone
 keywords: ["esim portugal", "melhor esim portugal", "comprar esim portugal", "esim para viajar portugal", "esim portugal preço", "esim portugal 2026", "meo esim", "nos esim", "vodafone esim portugal", "digi esim portugal", "airalo portugal", "holafly portugal", "esim lisboa", "esim porto", "esim algarve", "como ativar esim portugal", "esim com número português", "5g esim portugal", "esim ilimitado portugal", "esim barato portugal", "esim portugal comparação"]
 date: 2026-09-23T00:00:00Z
 lastmod: 2026-09-23T00:00:00Z
+image: "/img/faq/esim-portugal.webp"
 tags: ["eSIM", "Portugal", "MEO", "NOS", "Vodafone", "Digi", "Airalo", "Holafly", "5G", "Viagem", "Comparação"]
 toc: true
 

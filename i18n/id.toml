@@ -638,3 +638,9 @@ other = "Terjadi kesalahan. Silakan coba lagi."
 other = "Kesalahan jaringan. Silakan coba lagi."
 [lead_form_sending]
 other = "Mengirim..."
+
+[esim_guides_title]
+other = "Panduan eSIM"
+
+[related_blog_title]
+other = "Panduan eSIM Perjalanan"

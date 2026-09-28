@@ -634,3 +634,9 @@ other = "Algo salió mal. Inténtalo de nuevo."
 other = "Error de red. Inténtalo de nuevo."
 [lead_form_sending]
 other = "Enviando..."
+
+[esim_guides_title]
+other = "Guías de eSIM"
+
+[related_blog_title]
+other = "Guías eSIM de viaje"

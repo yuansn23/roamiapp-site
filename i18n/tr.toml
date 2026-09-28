@@ -634,3 +634,9 @@ other = "Bir şeyler ters gitti. Lütfen tekrar deneyin."
 other = "Ağ hatası. Lütfen tekrar deneyin."
 [lead_form_sending]
 other = "Gönderiliyor..."
+
+[esim_guides_title]
+other = "eSIM Rehberleri"
+
+[related_blog_title]
+other = "Seyahat eSIM Rehberleri"
