@@ -135,7 +135,7 @@ For a normal holiday, the Switzerland eSIM maths is not close. A Swiss prepaid p
 
 
 
-## Switzerland eSIM: phone requirements
+## Will my phone work on Swiss networks?
 
 
 
@@ -199,7 +199,7 @@ Beyond this, your device is the variable, not Swisscom or Sunrise. A quick pass 
 
 
 
-## The ways to actually obtain a Swiss eSIM
+## Where should I buy my Swiss eSIM?
 
 
 
@@ -293,7 +293,7 @@ The catch is coverage. Sunrise is excellent in cities but thinner than Swisscom 
 
 
 
-### Does Salt sell a prepaid eSIM for visitors
+### Does Salt sell a prepaid eSIM for visitors?
 
 
 
@@ -369,7 +369,7 @@ Two questions settle this section: how reliable each network is where you actual
 
 
 
-### How consistent are Swisscom, Sunrise and Salt
+### How consistent are Swisscom, Sunrise and Salt?
 
 
 
@@ -455,7 +455,7 @@ Automatic network selection quietly does the work here. A profile that can move 
 
 
 
-## Hands-on APN setup
+## Do I need to set the APN for my Switzerland eSIM?
 
 
 
@@ -761,7 +761,7 @@ These are third-party readings and carrier statements only. Outcomes shift with 
 
 
 
-## How the Plan Tiers Compare
+## How do the Switzerland plans compare?
 
 
 

@@ -21,7 +21,7 @@ Choosing a Fiji eSIM should follow your island sequence — Nadi, the Mamanucas,
 
 **Bottom line:** Fiji has exactly two mobile operators, Vodafone Fiji and Digicel Fiji, and only one of them — Vodafone — runs a tourist eSIM you can book online before departure, verified on its own site: you upload a passport and selfie, pay by card, and the profile activates the night before your arrival date. Digicel's tourist offer is a physical SIM bought at Nadi airport or a store. Nationally, Ookla's Speedtest Global Index publishes no Fiji ranking at all, while Cable.co.uk counts Fiji among the world's cheapest countries for data. The practical winner for island hoppers: a travel eSIM that roams across both networks, installed before you fly — [test one free](/free-esim/) or browse the [Fiji plans](/fiji-esim/).
 
-## The local carriers
+## How does Fiji's two-operator market work?
 
 Start with the market structure, because it explains everything else. Fiji's mobile coverage comes from Vodafone Fiji and Digicel Fiji, both licensed national operators, and their towers cluster where Fijians live: the Nadi–Lautoka–Ba corridor in the west, Suva and the southeast of Viti Levu, the towns of Vanua Levu, and the resort islands close to Port Denarau. Between those clusters lies open water, and open water has no coverage.
 
@@ -29,7 +29,7 @@ The Yasawa Flyer and the smaller catamarans that serve the western islands are t
 
 One more structural note: Fiji's data market is unusually cheap. Cable.co.uk's worldwide survey counts Fiji among the very cheapest countries on Earth per gigabyte, which is a roundabout way of saying the networks themselves are decent — the challenge is reach, not speed or price.
 
-## Plans and Prices, Compared
+## How do the Bula and Traveler packages compare?
 
 Two operators means two price lists, and Fiji's are unusually legible: both operators publish tourist packages with data allowances that look like typos next to Western pricing. The difference between them shows up in network reach, not in gigabytes — so read the tables below with the ferry rhythm of the previous section in mind.
 
@@ -72,7 +72,7 @@ The third route — a multi-network Fiji eSIM that roams across both operators �
 
 Whichever local route you take, the same three requirements sit underneath it. Registration: Fijian telecom rules require a registered identity for every SIM and eSIM, which is why the counter photocopies your passport and the online eSIM flow asks for a passport photo plus a selfie — there is no anonymous option. Payment: the online checkout takes foreign cards, the counters take cash and cards in four currencies, but city stores and top-up vouchers lean cash-heavy, which ties back to the cash-practicality section later in this guide. Validity: both operators' packages run on fixed clocks that do not extend when you add credit to the SIM itself — topping up balance and buying a new data package are different actions, and confusing them is the classic way travelers lose a day of coverage mid-trip.
 
-## Install your Fiji eSIM before you land at Nadi
+## Is the Nadi airport counter worth the queue?
 
 Nadi International Airport handles nearly all international arrivals, and it is where most visitors first feel Fiji's two-operator market: Vodafone and Digicel both run counters in the arrivals area, selling physical tourist SIMs face to face. Nadi airport also offers limited free Wi-Fi — roughly two hours or 1 GB, whichever runs out first — enough to message your transfer or open a booking, but not enough to lean on.
 

@@ -67,7 +67,7 @@ Unsure whether your phone takes an eSIM profile? One lookup on the [eSIM device 
 
 
 
-## Which Carrier Should You Pick?
+## Which carrier should you pick for Iceland?
 
 
 
@@ -295,7 +295,7 @@ For US, UK, Canadian and Australian plans, roam-like-at-home does not apply — 
 
 
 
-## What Speeds to Expect
+## What mobile speeds can you expect around Iceland?
 
 
 
@@ -361,7 +361,7 @@ Extending the trip? The same breakdowns exist for our [Norway eSIM guide](/carri
 
 
 
-## Best value plans compared
+## The cheapest ways to get data in Iceland
 
 
 
@@ -409,7 +409,7 @@ Extending the trip? The same breakdowns exist for our [Norway eSIM guide](/carri
 
 
 
-### Iceland: getting your eSIM live
+### Ordering a Síminn eSIM online before you fly
 
 
 
@@ -430,7 +430,7 @@ Extending the trip? The same breakdowns exist for our [Norway eSIM guide](/carri
 
 
 
-### Route 3 — Physical SIM at Keflavík
+### Buying a physical SIM at Keflavík's 10-11 store
 
 
 
@@ -517,7 +517,7 @@ Iceland's three networks sit on ordinary European bands, so an imported handset 
 
 
 
-## APN values for Iceland
+## What are the APN settings in Iceland?
 
 
 
@@ -568,7 +568,7 @@ Travel eSIM profiles supply their own APN — touch nothing. For locally bought 
 
 
 
-### Device support on Iceland carriers
+### Where to enter the APN on iPhone and Android
 
 
 
@@ -727,7 +727,7 @@ If you are genuinely stuck in a remote area — Höfn, Ísafjörður, anywhere p
 
 
 
-### Cross-border use of Iceland eSIMs
+### What to gather before contacting support
 
 
 

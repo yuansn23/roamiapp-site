@@ -23,7 +23,7 @@ If you have not yet confirmed that your handset supports a digital SIM at all, r
 
 **The 30-second version:** Israel's mobile market is one of the cheapest on earth — Cable.co.uk's 2026 survey prices an average gigabyte at **USD 0.02**, first of 237 markets — so local infrastructure is excellent and competition is fierce. Four operators share the country: Cellcom, Partner, Pelephone and HOT Mobile. Cellcom is the largest and is strong in cities; Pelephone has a long reputation for holding signal in the south and the periphery. Tourists can buy a physical SIM at Ben Gurion Airport with a passport, but those counters close over Shabbat, from Friday afternoon to Saturday evening, and cost more than pre-purchase. A travel eSIM installed before your flight avoids all of it: [Roami's Israel plans](/israel-esim/) activate on landing, and you can [test the service free](/free-esim/) before paying anything.
 
-## ID Requirements for SIM Purchases
+## What actually breaks connectivity in Israel
 
 Start with the geography, because it explains what kind of problem connectivity is here. Drive from Haifa to Beersheba — the length of the populated country — and you will spend the whole trip on a highway corridor with signal the entire way. Israel's population is concentrated in a narrow strip between the Mediterranean and the Samarian hills, and all four networks compete hardest exactly there, which pushes coverage outward along every road that carries traffic.
 
@@ -50,7 +50,7 @@ There is also a difference in what the purchase looks like. A counter purchase e
 
 If you want to understand what is happening under the hood when one profile attaches itself to a foreign network, our explainer on [eSIM activation explained](/faq/what-is-esim-activation-and-how-does-it-work/) covers the mechanics — profile servers, activation codes, and why the QR code is single-use.
 
-## Local SIM vs Travel eSIM Costs
+## What Israeli tourist plans and eSIMs cost
 
 Israel's market structure — four networks, a swarm of virtual operators, regulator-driven competition — produces price lists that look like typos next to Western plans. The benchmarks below are the tourist-relevant figures; resident plans are cheaper still, which is the whole point of the market's history.
 
@@ -88,7 +88,7 @@ At the airport itself, budget differently: counter tourist bundles start near **
 
 The pricing spread tells the real story: the same Israeli network costs four to sixteen times more at an arrivals counter than through a pre-purchased Israel eSIM profile, and the premium buys nothing that lasts beyond the first hour. Pre-purchase — operator-direct or travel-plan — is the rational default here, with the counter kept as the fallback for travelers who need a local voice number on day one.
 
-## ID Rules for SIM Registration
+## Buying at Ben Gurion: queues, prices and Shabbat hours
 
 Almost every international visitor enters through Terminal 3 at Ben Gurion Airport, and the arrivals hall past customs is where the carrier kiosks cluster. Cellcom and Pelephone are the usual presences, alongside third-party resellers that pre-book tourist packages for pickup. The staff register your passport, activate a tourist plan on the spot, and you walk away with a working line and an Israeli phone number. For travelers who need local calling — restaurant reservations, an Airbnb host, a tour operator — this is a legitimate option, and the queues, while real, move. It is also the only route that requires no eSIM-capable handset at all, which still matters to a minority of visitors with older phones.
 
@@ -121,7 +121,7 @@ Israel itineraries are remarkably consistent — most visitors hit the same six 
 
 Read as a whole, the table says something useful: on a standard Israel trip, the places you will actually stand are almost all covered. The risk column is about edges — the moment you leave the site, the road, or the town. This is why automatic network selection earns its keep here: an Israel eSIM locked to one operator can spend a long highway stretch attached to a weaker signal than the one three towers away. If your trip ends in Eilat and continues to Aqaba, note that the Jordanian side is a different market — our [Jordan eSIM guide](/carriers/jordan-esim-carrier-guide/) covers the crossing, and [Egypt eSIM plans](/egypt-esim/) apply if Sinai or Cairo is next.
 
-## Walkthrough: activating your eSIM
+## Which connectivity option should I choose for Israel?
 
 | Your trip | Best connectivity play | Why | Watch for |
 |:---|:---|:---|:---|
@@ -145,7 +145,7 @@ What does that mean for a visitor? Two things, and they pull in opposite directi
 
 For market context, DataReportal counted 10.4 million cellular connections in Israel entering 2025 — 110% of the population — with 8.61 million people online, or 91.1% penetration. In other words, you are visiting one of the most thoroughly connected societies on earth, on infrastructure its own residents use intensively and cheaply. The planning question is never "will Israel have signal" but "will my line be active when I need it" — and that is an eSIM logistics question, not a coverage one.
 
-## 5G in Israel: Cellcom, Partner and Dead Sea 5G coverage compared
+## What 5G and mobile speeds are really like in Israel
 
 Speed is the one metric where Israel is good rather than spectacular. Ookla's Speedtest Global Index for August 2026 puts the country's median mobile download at **68.65 Mbps**, 67th in the world, with 23 ms latency — comfortably fast for maps, messaging, streaming and video calls, but well behind markets like South Korea or the Gulf states. Where Israel punches far higher is fixed broadband, at **297.97 Mbps**, tenth globally, and its 5G layer, with a median 5G download of 140.84 Mbps, ranks 57th.
 
@@ -180,7 +180,7 @@ Two spots where WhatsApp earns its keep in Israel specifically: tour guides and 
 
 If your profile installs but data never flows, the cause is usually settings rather than the network: the wrong line selected for mobile data, or data roaming switched off on the profile. Our [eSIM troubleshooting resource](/faq/esim-activation-errors-troubleshooting-guide/) works through the failure patterns in order.
 
-## Costing the plans
+## Crossing to Jordan, Egypt and the West Bank with your eSIM
 
 Israel's land borders create itineraries no single plan covers. The two crossings that matter to travelers are the Allenby Bridge and the Jordan River crossing into Jordan, and the Taba border into Egypt's Sinai. Israeli tourist plans generally do not include neighboring countries, so the moment your eSIM camps on an Egyptian or Jordanian tower, you are in international roaming on someone else's terms — either expensive per-megabyte billing or silence.
 

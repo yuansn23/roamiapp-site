@@ -36,7 +36,7 @@ Handset support and install mechanics come first — the comparisons can wait un
 
 **Read that table carefully, because it contains the single most useful fact on this page:** all three national carriers now sell a prepaid tourist eSIM that a visitor can buy online before flying, with no store visit and no passport. That is unusual. In many countries a tourist is pushed toward a physical SIM or a travel eSIM, but in Ireland the three networks compete directly for walk-up visitors through app-based eSIMs.
 
-### Which budget brands sell eSIMs for visitors
+### Which budget brands sell eSIMs for visitors?
 
 Ireland's cheaper brands are where the eSIM picture gets interesting, because not all of them issue a digital SIM at all.
 
@@ -64,7 +64,7 @@ For an ordinary holiday the sums point one way. A local prepaid plan charges in 
 
 💡 A multi-network eSIM profile is the practical middle path: [Roami's Ireland eSIM](/ireland-esim/) keeps the convenience of instant delivery, switches automatically between Three, Vodafone and Eir, and still lands you on Three in Dublin and Vodafone in Connemara without buying twice.
 
-## Phones that can use eSIM
+## Will my phone work with an Irish eSIM?
 
 Three things decide whether your phone works on an Irish carrier: its bands, its lock status, and a short list of device-specific quirks. All three are covered below.
 
@@ -105,7 +105,7 @@ If you bought a used phone, or a phone from a US or European carrier, assume it 
 
 From here on, the variables come from your device rather than from Three or Eir. Run the [handset compatibility checker](/compatibility/) on your exact handset before you commit to anything.
 
-## The local carriers: Three, Vodafone and Eir
+## How to buy a tourist eSIM from Three, Vodafone or Eir
 
 Four routes exist, and they differ more in paperwork than in price: Three's visitor eSIM, Vodafone's and Eir's tourist plans, and the budget brands that ride their networks. Each route, step by step:
 
@@ -225,7 +225,7 @@ Planning a route that leaves Ireland? Start with [eSIM for the United Kingdom](/
 
 This only works cleanly when network selection stays on automatic. A profile that can move between Three, Vodafone and Eir covers the provincial and border gaps that any single-carrier plan cannot.
 
-## What APN settings do Ireland carrier eSIMs use
+## How do I set up the APN for an Irish eSIM?
 
 APN values rarely need attention, and precisely because of that they get overlooked when data stops working. Below are the settings for each Irish network, for whenever manual entry is unavoidable, plus the precise menu routes.
 
@@ -255,7 +255,7 @@ Leave username and password empty. Eir's value is taken from Eir's own support p
 
 After saving, restart the phone. If nothing loads, first make sure the eSIM is the chosen data line rather than your usual SIM.
 
-## How do you activate your eSIM and fix problems
+## How to activate an Irish eSIM and fix problems
 
 One pass through this section takes you from a clean install to a working connection, and covers the failure patterns an Irish network can actually produce, in the order you will hit them.
 
@@ -318,7 +318,7 @@ General activation errors, a profile that will not download, a scan that fails, 
 | Data roaming status | Settings → Cellular → your eSIM line |
 | Steps already tried | Keep a short list |
 
-## Which Ireland eSIM questions do travellers ask most
+## The Ireland eSIM questions travellers ask most
 
 ### Can visitors buy a prepaid eSIM from Three Ireland?
 

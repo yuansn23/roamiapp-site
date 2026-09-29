@@ -41,7 +41,7 @@ This guide covers the three things a traveller needs: what each carrier offers n
 
 
 
-## 5G nationwide: Smart Axiata, Cellcard and Metfone 5G coverage compared
+## Cambodia's 5G launch: what Smart, Cellcard and Metfone now deliver
 
 
 
@@ -89,7 +89,7 @@ It is worth being precise about what Cambodia's new 5G does and does not change 
 
 
 
-## 5G coverage in Cambodia
+## Which Cambodian carrier has the best coverage and speed?
 
 
 
@@ -275,7 +275,7 @@ The n78 requirement is the one worth checking. Plenty of handsets sold in market
 
 
 
-## If an APN is required
+## Do you need an APN for a Cambodian carrier SIM?
 
 
 
@@ -333,7 +333,7 @@ The registration rule is the part that changes the calculus. It means a passport
 
 
 
-## Best Cambodia eSIM carrier for your trip: Smart Axiata vs Cellcard
+## How much data do I need for Cambodia?
 
 
 
@@ -353,7 +353,7 @@ The registration rule is the part that changes the calculus. It means a passport
 
 
 
-## The Cambodia eSIM carriers: Smart Axiata, Cellcard and Metfone
+## A Cambodia eSIM checklist and the four failures to fix
 
 
 
@@ -455,7 +455,7 @@ The trap is buying a single-country profile for a three-country loop and discove
 
 
 
-## FAQs
+## What travelers ask about eSIMs and 5G in Cambodia
 
 
 

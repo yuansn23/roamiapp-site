@@ -25,7 +25,7 @@ France is both Europe's biggest tourist destination and one of its cheapest data
 
 Two independent measurement systems back everything below. Ookla's Speedtest Intelligence ranks the four networks on speed, consistency and quality of experience. ARCEP, the French regulator, measures them again on real transport corridors and publishes a per-address coverage map. Together they answer both questions a visitor actually has: how fast is it, and will it work where I am going.
 
-## The local carriers: Orange, SFR and Bouygues Telecom
+## How do Orange, SFR, Bouygues and Free compare on speed?
 
 All figures come from [Ookla's Speedtest Connectivity Report for France, H2 2024](https://www.ookla.com/research/reports/france-speedtest-connectivity-report-h2-2024) unless noted.
 
@@ -88,7 +88,7 @@ The fixed-broadband row is there for a reason: if your hotel has Bouygues fibre,
 
 Note the latency column as much as the speed column. Paris measured 32.53 ms while Toulouse, the fastest city on download, measured 54.2 ms — which is why the existing advice to pick an Orange-based France eSIM for day trips out of Paris is about reach, not about the city itself. The worst city here, Marseille, still averaged 152.16 Mbps, more than Belgium's national median.
 
-## Who runs the networks here
+## What is each French network actually good at?
 
 The four networks are not interchangeable, but they are also not ordered. Each one leads somewhere.
 
@@ -180,7 +180,7 @@ The features that separate it from the data-only crowd are worth listing plainly
 
 Two pieces of fine print matter for a longer stay. Under French law, a SIM with calling features must be registered to an identified person, so **Orange asks you to register the eSIM on its website if you intend to keep using it beyond the first 30 days** — the eSIM works immediately without it, but do the registration if your trip is longer than that. And the coverage list includes **Switzerland and Monaco**, which are outside the EU's roaming rules; Orange bundles them commercially into this plan rather than relying on the regulation.
 
-## Per-GB pricing
+## Where should you actually buy a French SIM?
 
 France's registration rule is lighter than Belgium's, but the retail picture is more confusing than either.
 
@@ -200,7 +200,7 @@ France's registration rule is lighter than Belgium's, but the retail picture is 
 
 The practical summary: if you want a physical French card, buy at a tabac, a supermarket or a Bouygues store, and bring your passport. If you want a French *number*, buy Orange Travel online. If you want neither and simply need data, a travel eSIM skips the entire table.
 
-## Local SIM vs Travel eSIM Costs
+## Why is data in France so cheap?
 
 Free Mobile's role in this market is not a marketing line — it is measurable. The operator launched on 10 January 2012 with exactly two plans: **€2 per month** (60 minutes, 60 SMS) and **€19.99 per month** with unlimited voice, SMS and data. It signed up 2.6 million subscribers in under three months, and the shock forced the whole market down: France's statistics institute INSEE calculated that mobile plan prices fell around 9.5% in the first nine months of 2012, and the average French mobile bill dropped from €27.30 in 2012 to €14.30 a decade later. Free has pledged to keep the €2 and €19.99 price points unchanged until at least 2027, per parent group iliad's reporting.
 
@@ -220,7 +220,7 @@ Three things about Free's roaming are worth knowing before you plan around it.
 
 For a visitor, the practical upshot is that Free's roaming reputation is not something you can buy. What you can buy is a travel eSIM that runs on the same four networks without needing Free's account at all.
 
-## France eSIM coverage: Orange vs SFR
+## How do I check coverage at my French address?
 
 Every carrier publishes a coverage map, and every carrier's map is a marketing document. France has something better: **ARCEP**, the regulator, runs [monreseaumobile.arcep.fr](https://monreseaumobile.arcep.fr/), where you can check declared coverage and measured quality at a specific place rather than at a province level.
 
@@ -275,7 +275,7 @@ The Riviera follows the same logic in summer, as the existing metro-and-TGV sect
 
 The rule for both regions is the same. Coverage where people live; congestion where people gather; nothing where there is only mountain. Download offline maps for the valley, keep the phone in the pocket at the lift base, and check ARCEP's per-address map before you commit to a remote rental.
 
-## Cross-border coverage
+## Will my plan survive Geneva and Monaco?
 
 France has six land neighbours and France-only plans die at every one of them, but three border zones cause disproportionate confusion because they do not behave the way travellers assume.
 
@@ -306,7 +306,7 @@ Match the itinerary to the network rather than to the brand.
 | Budget traveler | A data-only travel eSIM | Cheapest per gigabyte, instant activation, no paperwork | No phone number, so keep your home SIM for SMS codes |
 | Cross-border trip — Brussels, Geneva, Monaco | A plan that lists those countries | Switzerland and Monaco are outside EU roaming rules | A France-only profile goes dark at the border |
 
-## Coverage Map, Region by Region
+## What to expect, region by region
 
 | Region or route | What the network actually does | What to do about it |
 |:---|:---|:---|
@@ -454,7 +454,7 @@ Free Mobile puts the highest share of its users on 5G (74.0% availability), Oran
 
 Mostly yes. Coverage in stations and on platforms is good across all four networks, and many central tunnels hold signal. Outer lines have gaps, so cache your itineraries before descending.
 
-### Coverage across France's regions
+### Will the TGV keep me online?
 
 Less than you would expect. ARCEP measured a web page loading in under five seconds in only 64% of TGV tests on average, with Orange at 70% and Bouygues at 61%. Download your tickets and maps before boarding, and treat calls on the move as optional.
 
@@ -470,7 +470,7 @@ Only if the plan includes roaming there. Orange Travel covers 39 European countr
 
 Fast. The national median download was 132.91 Mbps in August 2026 (30th worldwide), the big cities measure 150–180 Mbps, and 1 GB of local data costs about USD 0.20 — 9th cheapest of the 237 markets Cable.co.uk tracks.
 
-### The France activation process
+### What if my France eSIM still won't activate?
 
 Work the list above in order — roaming toggle, data line, APN, network re-selection — then move to the full troubleshooting guide if the profile itself will not install. Have your order number and EID (dial `*#06#`) ready if you contact support.
 

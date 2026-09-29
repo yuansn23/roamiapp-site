@@ -23,7 +23,7 @@ Not sure your device can hold an eSIM profile? Run it through the [compatibility
 
 **The short version:** CTM is the default answer — fastest measured network in Macau on every Ookla metric, and soon the only homegrown operator standing. China Telecom (Macau) is the credible alternative, statistically identical on 5G speed and the consistency leader (89.3% of 5G samples above 25 Mbps). Coverage is effectively uniform across the whole territory — the Peninsula, Taipa, Cotai and Coloane all sit within a few kilometers of the same towers. The decisions that actually matter: whether your Hong Kong or mainland plan includes Macau (many don't), and whether the resort Wi-Fi you're counting on exists outside the lobby. A [Macau eSIM plan](/macau-esim/) sidesteps both — or test the network free with a [free trial](/free-esim/).
 
-## The eSIM carriers: CTM, China Telecom and 3 Macau
+## Which networks still operate in Macau?
 
 The market has consolidated faster than almost any other in Asia, and the 2026 landscape looks nothing like most older travel guides describe it.
 
@@ -60,7 +60,7 @@ China Telecom (Macau) is the number-two operator and the second 5G licensee, and
 
 Two consequences for a visitor. First, **no travel eSIM should land you on 3 Macau**, and if your phone shows that network on a manual scan, it is a signal to fix your network selection rather than a bonus. Second, **older guides that describe a four-operator Macau are wrong** — SmarTone left in November 2024 and Hutchison follows at the end of 2026, leaving CTM and China Telecom (Macau) as the only mobile operators in the territory. The closure is confirmed in [Hutchison's own notice](https://three.com.mo/) and in [the Macau Post Daily's report](https://www.macaupostdaily.com/news/29399).
 
-## Your eSIM speeds: CTM vs China Telecom
+## How fast are CTM and China Telecom really?
 
 Ookla's Speedtest Intelligence data for H1 2024 — the most recent full [Macau connectivity report](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024) — measured the two live networks head to head:
 
@@ -99,7 +99,7 @@ Fewer numbers are published for this market than for larger ones, so it is worth
 
 The most useful row in that table is the one with a range rather than a figure: the two 5G networks sit in the same 245–263 Speed Score band, which means **you cannot buy a slower 5G experience in Macau by choosing the number-two carrier**. The territory is simply too small for a meaningful coverage or speed gap to open up.
 
-## Your eSIM coverage: CTM vs China Telecom
+## How uniform is coverage across Macau?
 
 Uniform is the honest answer, and it is backed by the data rather than the brochure. Both 5G licensees targeted comprehensive coverage of "urban areas and key locations" from the start, and in a territory of 33 km² — smaller than most international airports' catchment areas — "comprehensive" is achievable in a way it never is in a large country. You will move between the Macau Peninsula, Taipa, Cotai and Coloane by bus or taxi in trips of five to fifteen minutes, usually without dropping a bar.
 
@@ -197,7 +197,7 @@ Against that, a travel eSIM usually works out more expensive per gigabyte than a
 
 **What they will ask for:** a passport, for every locally purchased prepaid card. Macau requires prepaid SIMs sold locally to be registered to an identity document, and the process itself is quick — a few minutes at the counter — once you are at the front of the queue. A travel eSIM removes the requirement from your side entirely, because the compliance sits with the provider.
 
-## Matching the plan to your itinerary
+## Which plan fits your Macau itinerary?
 
 Macau is almost never a standalone destination, and the right data product depends entirely on which spoke it hangs off.
 
@@ -242,7 +242,7 @@ Congestion in Macau is local and predictable, so a little planning recovers most
 - **Cache before you walk.** Download the day's map and ferry tickets while you still have resort Wi-Fi, then treat mobile data as the reserve for the gaps between buildings.
 - **Split the load.** If you are travelling as a pair, run one phone on a Macau profile and keep the other on resort Wi-Fi, with hotspot tethering as the fallback — Macau's dual-SIM habit is local practice, not a tourist workaround.
 
-## Will your phone work on a Macau eSIM?
+## Will my phone work on a Macau eSIM?
 
 The band list is short and friendly. Macau's 5G runs primarily on **n78 (3.5 GHz)** with some n1 and n41; 4G LTE uses bands 1, 3, 7 and 8. Every recent eSIM-capable iPhone, Samsung, Pixel and Xiaomi supports all of them, so almost the only failure modes are the universal ones: a carrier-locked phone, or an eSIM-disabled device such as iPhones sold in mainland China. Both are one-minute checks — lock status at Settings → General → About → Carrier Lock, eSIM capability via an EID shown when you dial `*#06#` — and the full model-by-model picture is in the [device compatibility list](/compatibility/). Data-only travel eSIMs do not come with a Macau number, so keep your home line active for SMS verification codes.
 
@@ -301,7 +301,7 @@ Anything that survives those five checks is a generic error — the [eSIM troubl
 | Roaming toggle state | Settings → Cellular → your Macau profile |
 | Your own attempt log | Jot down what you tried, in order |
 
-## FAQs
+## Common questions about staying connected in Macau
 
 ### The main Macau carriers
 
@@ -351,7 +351,7 @@ For stays under a week, a travel eSIM — instant, registration-free, and instal
 
 Because you crossed into a different market, and your Hong Kong profile has no Macau coverage agreement behind it. Switch your data line to a Macau-inclusive profile, or add one on the spot — installation takes minutes over any Wi-Fi, including the resort network you are probably standing in.
 
-## Sources and Caveats
+## The sources behind every Macau figure
 
 - **Ookla's Macau report, H1 2024** — [the connectivity study](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024) carries every carrier-level figure here: CTM's 176.04 Mbps median download, 194.92 Speed Score, 26 ms latency and gaming scores, China Telecom's 89.3% 5G consistency, and the finding of no statistical 5G speed difference.
 - **Macau Business / CITIC Telecom 2024 annual results** — [the market-share report](https://macaubusiness.com/ctms-mobile-services-revenue-surges-12-7-pct-in-2024/) records CTM's 53.3% mobile share, 771,000 subscribers, 96.8% broadband share and SmarTone's exit.

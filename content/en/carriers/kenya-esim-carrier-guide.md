@@ -70,7 +70,7 @@ Not sure your phone supports eSIM at all? Check your model on the [device compat
 
 **The honest summary:** if you will hand cash or a card to lodges and tour operators, the Safaricom line is worth the queue. If your trip is pre-paid and organized, the queue buys you nothing but a phone number you will not use — and the Kenya eSIM you installed at home starts working before you reach the baggage carousel.
 
-## FAQ
+## Why M-Pesa needs a local Safaricom number
 
 This is the most under-explained fact in Kenya eSIM articles. M-Pesa, Kenya's dominant mobile-money system, is tied to a **Safaricom phone number** — it is how lodges, drivers, street vendors and tour operators get paid, and it is genuinely useful even for short visits. A data-only travel eSIM, no matter how good, cannot receive M-Pesa because it has no Kenyan number.
 
@@ -82,7 +82,7 @@ The practical decision tree:
 
 One more nuance: M-Pesa is not only about payments. Small operators use it to confirm bookings, camps use it for deposits, and a Kenyan number is what makes you reachable by a driver whose WhatsApp you never exchanged. If your itinerary involves other people showing up for you, the number has value beyond the wallet.
 
-## The eSIM carriers: Safaricom, Airtel and Kenya prepaid
+## Safaricom coverage and Kenya's SIM registration rules
 
 Safaricom is not marginally ahead in Kenya — it is structurally ahead, holding roughly two-thirds of mobile subscriptions and 50 million-plus customers. The [Communications Authority of Kenya](https://www.ca.go.ke/) publishes the numbers that matter to travelers in its sector statistics: 4G population coverage around **97%**, and 5G — launched by Safaricom in October 2022 — passing roughly **30%** of the population from around 1,700 sites spread across all 47 counties. For context on raw speed, the [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/kenya) has placed Kenya's median mobile download in the mid-40s Mbps range in recent 2025 measurements — modest by global standards, and plenty for maps, WhatsApp and video calls.
 
@@ -94,7 +94,7 @@ What no national statistic tells you is the thing safari travelers actually need
 
 Airtel is the credible number two, with competitive bundles and solid 4G in Nairobi, Mombasa, Kisumu and the towns between them. Two honest limitations: its eSIM route still runs through an in-store swap with ID, and its footprint outside the urban corridors fades faster than Safaricom's — noticeable in the parks and on the northern routes. If your Kenya is a city-and-coast trip and price matters, Airtel is a sensible carrier. If your Kenya includes a Mara camp, it is the backup network, not the plan.
 
-## Telkom and Faiba eSIMs
+## Do Telkom and Faiba matter for visitors?
 
 Telkom Kenya and Jamii Telekom's Faiba round out the market. Faiba runs a respected data-only network with strong urban speeds; both remain city-centric. Neither changes a visitor's decision — they matter if you are comparing local prepaid plans for a long stay, not for a two-week itinerary.
 
@@ -121,7 +121,7 @@ One modern footnote worth knowing for remote lodges: **Starlink has been license
 
 Crossing borders? The same carrier-level breakdown exists for our [Tanzania eSIM plans](/tanzania-esim/), the [Uganda carrier guide](/carriers/uganda-esim-carrier-guide/) and the [regional Africa eSIM](/africa-esim/), and a [Kenya eSIM](/kenya-esim/) with multi-network switching keeps you on the strongest carrier as you move.
 
-## Comparing local and travel costs
+## How cheap and fast is Kenyan mobile data?
 
 | Reference | Figure | What it tells you |
 |:---|:---|:---|
@@ -148,7 +148,7 @@ The gap between the first and last rows is the story of Kenyan connectivity: dat
 4. Set the eSIM as your mobile-data line and switch on **data roaming** for that line.
 5. Land at Nairobi, and the profile attaches to Safaricom or Airtel automatically.
 
-### Route 2 — Safaricom in Nairobi or at the airport
+### Buying Safaricom in Nairobi or at the airport
 
 1. Bring your passport — registration is a legal requirement, not a shop preference.
 2. Budget KSh 150–250 for the SIM or eSIM migration fee on top of your bundle.
@@ -156,14 +156,14 @@ The gap between the first and last rows is the story of Kenyan connectivity: dat
 4. Test data before you leave the counter, and ask staff to confirm M-Pesa is active if you plan to use it.
 5. Keep the travel eSIM as your data line if you want both — dual-SIM handles it.
 
-### Route 3 — Airtel in the city
+### Getting an Airtel eSIM in the city
 
 1. Expect an in-store eSIM swap with ID rather than an instant eSIM product.
 2. Useful only if you are staying in Nairobi, Mombasa or Kisumu and price is the priority.
 
 **Have ready before you buy anything:** an unlocked phone (locked handsets are the top cause of failed installs), your EID — dial `*#06#` — and, if buying locally, your passport and a payment method. Install your Kenya eSIM **before** you fly; Nairobi's arrivals hall is not the place to debug a QR code.
 
-## Phone compatibility check
+## Will my phone work with a Kenyan eSIM?
 
 ### Step-by-step Kenya eSIM activation
 
@@ -183,7 +183,7 @@ Kenya's 4G bands are unremarkable, so a failed profile is almost never about fre
 - On iPhone, check **Carrier Lock** under Settings → General → About — "No SIM restrictions" means the handset will take a Kenyan profile.
 - On Android, Settings → Connections → SIM Manager; if the eSIM entry is greyed out, the handset is locked.
 
-## APN settings for Kenya eSIM lines
+## Do I need to change APN settings in Kenya?
 
 Travel eSIM profiles supply their own APN — type nothing. If you buy a local line and data fails, these apply:
 
@@ -199,7 +199,7 @@ Travel eSIM profiles supply their own APN — type nothing. If you buy a local l
 - An older handset that did not pull carrier settings automatically
 - You switched networks and the profile did not re-register cleanly
 
-### Will your handset pass the Kenya eSIM test?
+### Entering the APN on iPhone and Android
 
 iPhone: Settings → Cellular → the eSIM line → Cellular Data Network. Android: Settings → Network & Internet → Access Point Names → add new. Reboot after saving, then make sure the Kenyan profile — not the Safaricom SIM you may have bought for M-Pesa — is the line actually carrying data.
 
@@ -260,7 +260,7 @@ The standard install — scan the QR on Wi-Fi, label the line, set it as your da
 | Current APN settings | Settings → Cellular Data Network |
 | Data roaming status | Settings → Cellular → your eSIM line |
 
-## Safari-day connectivity: a Kenya eSIM routine
+## What connectivity looks like on a safari day
 
 Safari days have a predictable connectivity shape, and planning to it is more useful than any speed test:
 
@@ -334,7 +334,7 @@ Yes, in the physical slot, for calls and verification codes. Switch data roaming
 
 More questions? [Browse the full FAQ](/faq/)
 
-## Kenya eSIM sources behind this guide
+## The data behind our Kenya coverage claims
 
 - **Communications Authority of Kenya** — [the national regulator](https://www.ca.go.ke/) publishes the sector statistics quoted here, including 4G population coverage of about 97%.
 - **Ookla Speedtest Global Index** — [the Kenya page](https://www.speedtest.net/global-index/kenya) backs the median mobile download figure and tracks it monthly.

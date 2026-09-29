@@ -38,7 +38,7 @@ HAKOM, the national regulator, confirms the pattern in its annual regional surve
 
 One structural fact to settle early: Croatia is an EU and eurozone member, and it has been inside the Schengen area since 1 January 2023. Prices below are in euros — but **roam-like-at-home is for EU-resident plans, not for visitors**. Croatian operators include small or zero EU roaming data on tourist products, because fair-use allowances are calibrated to the domestic season.
 
-## The market at a glance
+## Hrvatski Telekom, A1 and Telemach: how Croatia's market splits
 
 The market is a three-way oligopoly, all supervised by HAKOM:
 
@@ -56,7 +56,7 @@ The market is a three-way oligopoly, all supervised by HAKOM:
 
 That structure matters for one Croatia eSIM decision above all others: **where you plan to be, not what the plan costs.** A1's €10.90 three-day unlimited eSIM is the cheapest way onto a Croatian network — but if your days are spent between Split and Vis, HT's store-bought tourist edition is worth the shop visit.
 
-### Croatia's carrier roster
+### Ookla's latest Croatia scores, carrier by carrier
 
 All three major measurement programmes have published on Croatia recently, and they do not agree:
 
@@ -155,7 +155,7 @@ The same cells that produce the national median in October serve multiples of th
 | August | Peak, sustained | The worst month on Hvar's waterfront and in Dubrovnik's old town | Shift heavy transfers to early morning |
 | September | Falling | Speeds recover through the month as charter traffic thins | Better than August on every measure |
 
-## What the plans cost
+## What HT, A1 and Telemach prepaid plans cost
 
 HT funnels all prepaid business through **Simpa**, sold at T-Centers, Tisak kiosks, post offices and petrol stations for a couple of euros with credit included. Its digital-only **eSIMPA** bundles, activated in the Moj Telekom app, run roughly €9.99 for 5 GB to €18.45 for 15 GB over 30 days — confirm current listings in the app.
 
@@ -192,7 +192,7 @@ Order online, receive the profile by email, and the plan starts with your first 
 
 Side by side, the spread is narrower than the marketing suggests: **€10.90** for three unlimited days on A1 (extending at €3 a day), **€10–14.90** for a week to ten days of unlimited data, **€29** for a full month, and **€9.95** for 100 GB with no day limit on Telemach.
 
-## Local SIM vs travel eSIM: cost
+## Local SIM or travel eSIM: what each costs in Croatia
 
 | | Buy from a Croatian carrier | Travel eSIM on Croatian networks |
 |:---|:---|:---|
@@ -217,7 +217,7 @@ Three checks decide whether your phone can hold a Croatian profile: supported ba
 
 Skip the band memorization and run your exact model number through [eSIM compatibility list](/compatibility/) instead. It takes two minutes and settles both questions — hardware and lock status included.
 
-## SIM Registration Rules
+## Buying a SIM in Croatia: registration and the three routes
 
 Three purchase routes exist. Pick the wrong one and a purchase that should take minutes becomes a July queue.
 
@@ -231,7 +231,7 @@ Three purchase routes exist. Pick the wrong one and a purchase that should take 
 
 Tisak — the green kiosks at every airport, bus station and main street — sells HT products and is often the fastest counter in a resort town, though eSIM issuing varies by location and season.
 
-### Croatia activation: the steps
+### The A1 online route, step by step
 
 1. Open A1's tourist offer page and pick a package — €10.90 for three unlimited days is the entry point.
 2. Pay by card and receive the QR code and instructions by email.
@@ -318,11 +318,11 @@ Install mechanics — scan, label, set as data line, enable roaming — are univ
 
 Beyond these, the general catalogue of install and registration errors lives in [activation error troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/).
 
-## An eight-hour Croatia eSIM cruise stopover
+## An eight-hour cruise stopover, hour by hour
 
 A cruise day is the hardest connectivity problem in Croatia: you land in the country's most congested cell with the least time to solve anything.
 
-### Croatia eSIM sellers, listed
+### Your cruise day, planned around the congestion curve
 
 1. **The night before:** confirm the eSIM is installed, enabled and set as the data line, with roaming on for it and off for your home SIM.
 2. **07:00–07:30, at anchor:** download an offline map and screenshot your return-to-ship details while the ship's Wi-Fi still wins.
@@ -338,9 +338,9 @@ A cruise day is the hardest connectivity problem in Croatia: you land in the cou
 
 Two hectares of quay can hold five thousand people and a thousand phones. The cells covering Dubrovnik's Gruž terminal and Split's ferry port are engineered for a resident population, not for a fleet. Nothing in your settings changes that; positioning does — a few streets inland, or the shoulder hours.
 
-## Croatia eSIM FAQ
+## The Croatia FAQ: islands, ferries and eSIM basics
 
-### Croatia coverage map, by area
+### Which network wins on Hvar, Brač and Vis?
 
 Yes — HT is the strongest network on all three islands, with solid 4G in the main towns and harbours. Interior tracks on Brač and the far side of Vis are thinner, and speed drops under July–August loads. For an island-heavy itinerary, HT is the default.
 
@@ -348,7 +348,7 @@ Yes — HT is the strongest network on all three islands, with solid 4G in the m
 
 The only Croatia eSIM you can buy from abroad comes from A1 Hrvatska's online tourist offer or from international travel eSIM providers; Hrvatski Telekom and Telemach issue visitor eSIMs in shops after you land. If you are arriving late, pre-purchase online; otherwise a Tisak kiosk at the airport solves it in fifteen minutes.
 
-### How many GB should you load for Croatia?
+### Why does Dubrovnik's old town slow to a crawl?
 
 Congestion, not your plan. Cruise-ship days push the old town's cells far past their design load, and every carrier slows together. Connect before 08:00 or after 19:00, or step a few streets back from Stradun — the network recovers as the crowds thin.
 
@@ -368,7 +368,7 @@ Whichever profile holds the strongest signal at the terminal — on those two po
 
 An unlimited Croatia eSIM runs €10–15 for a week to ten days: A1's 1+1 offer lists 10 unlimited 5G days at €14.90, HT's store editions have run around €10–13, and Telemach's 10-day edition near €14.90.
 
-### Hotspot use on Croatia eSIMs
+### Can you tether a laptop on Croatian eSIMs?
 
 Yes — tethering is allowed on all three carriers' tourist and prepaid products, since Croatian operators do not block it on prepaid data. Watch the allowance rather than the permission: unlimited plans run at full speed to a daily quota and throttle after, so a laptop pulling video all afternoon meets that ceiling sooner than a phone.
 
@@ -380,7 +380,7 @@ Yes. All three carriers have deployed 5G on the n78 band across the larger coast
 
 A Croatia eSIM loses signal around 10 km offshore, when the vessel passes out of every carrier's footprint, and reconnects as land comes back into range — nothing breaks and nothing needs resetting. Keep airplane mode off and pre-download whatever you need for the crossing.
 
-## The measurements behind our Croatia eSIM tables
+## The measurements behind our Croatia carrier tables
 
 - **Ookla Speedtest Global Index** — [the Croatia country page](https://www.speedtest.net/global-index/croatia) reports the August 2026 medians: 120.15 Mbps mobile and 193.52 Mbps on 5G, plus world ranks.
 - **Ookla Speedtest Awards** — [the Croatia 2025 award page](https://www.speedtest.net/awards/croatia/2025/) lists the per-carrier Speedtest Connectivity Scores and Telemach's 138.12 Mbps median download.

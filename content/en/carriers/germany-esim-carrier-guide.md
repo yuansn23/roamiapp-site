@@ -23,7 +23,7 @@ If the profile will not install, no speed chart or coverage map will save the tr
 
 **The short version:** Staying in Berlin, Munich, Hamburg or Frankfurt? Telekom is the fastest and most consistent network in Germany. Driving through Bavaria, the Black Forest or small towns? Vodafone holds signal where O2 fades. Want a cheap city plan? O2 and its discount brands including Aldi Talk and blau undercut the others by 20 to 40 percent. The single biggest catch is identity verification: German law requires every prepaid SIM and eSIM to be registered, so there is no truly anonymous walk-up eSIM. Want to skip the paperwork and the PostIdent queue? Roami's free trial eSIM tests the networks at no cost, and code WEB20 takes 20 percent off [Germany prepaid eSIM plans](/germany-esim/).
 
-## Who runs the networks your eSIM uses
+## Which German network should your eSIM use?
 
 ### Telekom vs Vodafone: which is better in Germany?
 
@@ -64,7 +64,7 @@ The economics favor a travel eSIM for a normal holiday. A German prepaid plan ch
 
 A multi-network eSIM profile is the practical middle path: a [Germany eSIM plan](/germany-esim/) keeps the convenience of instant delivery, switches automatically between Telekom, Vodafone and O2, and still lands you on Telekom in Munich and Vodafone in the Black Forest without buying twice.
 
-## Is Your Phone eSIM-Compatible?
+## Does my phone work with a German eSIM?
 
 Three things decide whether your phone works on a German carrier: its bands, its lock status, and a short list of device-specific quirks. All three are covered below.
 
@@ -74,7 +74,7 @@ German carriers build 5G on specific bands, notably n78 at 3.6 GHz for capacity,
 
 There is no need to memorise German band tables. The safest route is to compare the precise model number with the [eSIM device checker](/compatibility/). If you would rather see the internals first, [what your phone does when it loads an eSIM profile](/faq/what-is-esim-activation-and-how-does-it-work/) walks through the process.
 
-### Will a SIM lock block your German eSIM
+### Will a SIM lock block your German eSIM?
 A locked phone is the most common reason a German eSIM install simply fails, and Germany handles this differently from Canada. The European Union has no single mandatory unlock law like the CRTC Wireless Code, so phones are not legally required to ship unlocked. In practice, handsets bought in the EU or UK are almost always sold unlocked, which means the lock problem in Germany is almost always a phone still tied to a non-EU carrier, most often a US postpaid device still under contract.
 
 **Check it:** on an iPhone, open Settings, then General, About and read the Carrier Lock line. If the entry shows "No SIM restrictions", nothing stands in the way. Where the screen says "SIM locked", a third-party eSIM cannot install until the lock is removed.
@@ -125,7 +125,7 @@ For the local-SIM route, Vodafone is the easiest of the three big carriers for a
 
 CallYa plans run on four-week cycles: CallYa Start gives 1 GB for 4.99 EUR, CallYa Allnet Flat S gives 25 GB for 9.99 EUR, CallYa Allnet Flat M gives 50 GB for 14.99 EUR, CallYa Black is unlimited for 79.99 EUR, and the Jahrespaket M gives 250 GB for 99.99 EUR per year. All include EU roaming. Without completing identity verification the SIM stays locked, so treat the PostIdent step as the real gate.
 
-### Germany eSIM packages and pricing
+### The O2 route: a direct prepaid eSIM
 
 O2, run by Telefonica Germany, sells a prepaid eSIM directly through its "Prepaid eSIM for Europe" offer: 20 GB for 9.99 EUR per 4 weeks or 40 GB for 14.99 EUR per 4 weeks, with EU roaming included and speeds up to 300 Mbit/s. After the high-speed allowance is used, O2 keeps you online at up to 1 Mbit/s down and 384 Kbit/s up rather than cutting you off.
 
@@ -174,7 +174,7 @@ This is the real cross-border increment for Germany. Because Germany is inside t
 
 Switzerland is not in the EU, so nearly every German plan bills it as a separate zone. If your itinerary crosses into Switzerland, plan for that specifically rather than assuming your Germany eSIM covers it.
 
-## The Germany eSIM carriers: Telekom, Vodafone and O2
+## How do Telekom, Vodafone and O2 compare?
 
 Two questions determine the choice here: how each network performs on your route, and what sort of journey you are making. The benchmarks below deal with speed, and the trip table deals with which network suits you.
 
@@ -227,7 +227,7 @@ Planning a route that leaves Germany? Compare [France eSIM plans](/france-esim/)
 
 Automatic carrier switching is the part that earns its keep here. A profile that can move between Telekom, Vodafone and O2 covers the regional gaps that any single-carrier plan cannot.
 
-## Manual APN entry
+## Which APN does each German network use?
 
 The APN screen is the last thing you should need and the first thing worth checking when a data connection dies. Below are the values for all three networks plus their discount brands, when manual entry is genuinely required, and the exact menu paths.
 
@@ -243,14 +243,14 @@ You will only need these if you bought your Germany eSIM directly from a German 
 
 Leave username and password empty. For O2-based lines, `internet` is a usable fallback if `pinternet.interkom.de` does not connect, but the longer string is the current standard. Should a carrier demand extra values, the activation instructions bundled with your profile will spell them out.
 
-### Carrier APN settings in Germany
+### When a German line needs the APN typed in
 
 - An older phone that will not pull carrier settings on its own
 - A profile added through a manual activation code rather than a QR scan
 - A carrier-issued prepaid eSIM whose automatic configuration never completed
 - On a travel eSIM this is almost a non-issue, which is the whole point of a managed profile
 
-### Manual Germany APN entry: when and why
+### Where the APN fields live on your phone
 
 - **iPhone:** open Settings, choose Cellular, select the eSIM line, then Cellular Data Network and type the APN
 - **Android:** open Settings, go to Connections, Mobile Networks, Access Point Names and add a new APN

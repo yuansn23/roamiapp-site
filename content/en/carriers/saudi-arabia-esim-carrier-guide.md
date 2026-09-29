@@ -23,7 +23,7 @@ Device support varies, and a first profile install is unfamiliar territory for m
 
 **The 30-second version:** STC has the widest coverage and the fastest 5G, and it is the network to want the moment you leave the cities. Mobily sells the cheapest data per gigabyte and is a strong performer in Makkah and Madinah. Zain KSA runs 600 MHz standalone 5G in parts of Riyadh. All three require an in-store visit with your original passport and border number before a local eSIM activates. If you want data the moment you land — or you are arriving during Hajj, Umrah or Riyadh Season — a travel eSIM skips the counter entirely. [Roami's Saudi Arabia eSIM](/saudi-arabia-esim/) rides the local networks, and a [free data trial](/free-esim/) lets you test the waters at no cost.
 
-## Your eSIM rules start with your visa, not the network
+## Saudi Arabia eSIM rules start with your visa
 
 Saudi Arabia runs mandatory real-name registration for every mobile line activated on a local network, and the CST enforces it through live database checks across all licensed operators. There are no anonymous SIMs in the kingdom. For a visitor, buying a local line means producing your original passport — photocopies are usually refused — plus your Saudi border number, the identifier immigration assigns when your passport is stamped at entry.
 
@@ -60,7 +60,7 @@ Three national operators hold the market, all licensed and regulated by the CST.
 | Network strength (late 2025 awards) | Fastest network overall; widest coverage | Best video experience, consistency and reliability | Fastest-rising 5G; 600 MHz standalone in Riyadh |
 | Watch out for | Must visit a branch to activate | Allowances vary between sources — confirm at purchase | Fewer award wins; confirm package price at counter |
 
-### Saudi budget MVNO brands riding on the big three networks
+### Budget MVNO brands on the big three Saudi networks
 
 Below the big three sits a fringe of budget brands: Lebara KSA, Virgin Mobile KSA, FRiNDi and Salam Mobile all resell capacity on the host networks, and Salam publishes its own small visitor line-up. They can be cheaper for light use, but eSIM support and airport availability vary, and their coverage is exactly the host network's coverage. Note also that Zain here means **Zain KSA** — the same group operates Zain Jordan, which is a completely different network and is covered in our separate Jordan guide.
 
@@ -78,15 +78,15 @@ The economics favor the carriers once you are willing to stand in line; the conv
 
 Two details decide it. First, price per gigabyte: Mobily's large visitor packages work out near SAR 2 per GB, which no international travel eSIM matches. Second, seasonality: during Hajj and peak Umrah weeks the arrivals-hall counters at Jeddah and Madinah run long queues, and a profile installed at home is the only route that is immune to them.
 
-### The middle path: travel eSIM first, local line later
+### Should you start on a travel eSIM and switch to a local line?
 
 The middle path is to buy the travel eSIM for landing week and register a local line in the city if your stay extends. That combination beats either option alone, and it removes the risk that your first hour in the kingdom is spent hunting a working counter instead of a taxi.
 
-## Saudi Arabia eSIM compatibility check
+## Is your phone compatible with a Saudi Arabia eSIM?
 
 The good news is that Saudi networks are among the most standards-friendly in the region. 5G runs on **n41 (2.5 GHz)** and n78 (3.5 GHz), both common on international flagships, and 4G LTE coverage is effectively universal where people actually live. A phone that works on LTE in Europe or Asia will work in Riyadh.
 
-### Saudi Arabia eSIM: three checks before you pay
+### Three checks before you pay for a Saudi Arabia eSIM
 
 First, eSIM support: dial `*#06#` and look for an EID, or run your exact model through the [eSIM compatibility quiz](/compatibility/) — model number, not marketing name. Second, carrier lock: a phone bought on a contract abroad may refuse any third-party profile until its original carrier unlocks it; Settings → General → About → Carrier Lock should read "No SIM restrictions". Third, dual-SIM behavior: most visitors keep their home SIM active for SMS verification codes and point mobile data at the Saudi Arabia eSIM.
 
@@ -104,7 +104,7 @@ Hotspot sharing works on the carrier visitor packages; some travel eSIMs cap tet
 8. Download offline maps for Makkah, Madinah and AlUla
 9. Note which operator app you will use for top-ups
 
-## What Does an eSIM Cost per Gigabyte?
+## How much does a Saudi Arabia eSIM cost per gigabyte?
 
 Every route ends at the same counter with the same documents, but the packages behind those counters differ widely in price per gigabyte. Here is each one, step by step.
 
@@ -215,7 +215,7 @@ Planning to cross a border? The causeway runs to Bahrain — see our [Bahrain eS
 
 Head north toward Kuwait and the [Kuwait eSIM guide](/carriers/kuwait-esim-carrier-guide/) picks it up; travelers continuing east toward Muscat should read the [Oman eSIM page](/oman-esim/). A Saudi-only profile goes dormant at each of those crossings.
 
-## How Saudi seasons shape the networks
+## How Hajj and peak seasons affect Saudi mobile networks
 
 Saudi Arabia's mobile demand is not flat across the year, and the peaks are predictable. Operators plan for them months ahead — stc, for instance, has built indoor coverage solutions across Makkah and donated seven communication towers, more than 18,600 antennas and over 800 small cells to the King Abdulaziz Endowment, covering about 1.5 million square metres around the Grand Mosque. That is capacity added for a few weeks of the year.
 
@@ -244,7 +244,7 @@ Money is the other half of the counter visit, and the card you carry matters her
 | stc Bank / Mobily Pay wallet | Residents with a Saudi ID | Generally no, for short stays |
 | Operator recharge card | Top-ups after purchase | Yes, from stores and supermarkets |
 
-### Recharging a Saudi Arabia eSIM
+### How to recharge a Saudi Arabia eSIM
 
 | Channel | How it works | Good to know |
 |:---|:---|:---|
@@ -256,7 +256,7 @@ Money is the other half of the counter visit, and the card you carry matters her
 
 One warning worth repeating: tourist wallets such as stc Bank and Mobily Pay are built for people with a Saudi ID, so do not plan on opening one during a two-week visit. Budget the top-up as a card payment and you will not be caught short.
 
-### What to bring to the STC counter
+### What to bring to an STC counter to register a SIM
 
 - Original passport, not a photocopy
 - A debit or credit card that works abroad
@@ -281,7 +281,7 @@ stc can also push settings to you: text "JawalNet" to 2222 and install the confi
 
 Reach for these screens only when a locally registered Saudi line shows bars and no session; a travel Saudi Arabia eSIM configures its own APN and should be left exactly as it arrived. On iPhone the fields sit at Settings → Cellular → your eSIM → Cellular Data Network, on Android at Settings → Connections → Mobile Networks → Access Point Names. Restart after saving, and confirm the eSIM line is selected for mobile data before changing anything else.
 
-## Activating your Saudi Arabia eSIM and troubleshooting what actually breaks
+## How to activate a Saudi Arabia eSIM and fix common problems
 
 The generic install sequence — add the profile, label the line, set it as your data line, enable data roaming — is in our [activation walkthrough](/faq/how-to-activate-an-esim/), and the wider error catalogue lives in our [eSIM activation troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). Saudi Arabia adds four failure patterns of its own.
 
@@ -308,7 +308,7 @@ Saudi desks open from the CST registry entry rather than an order number, so the
 | Current APN values | Settings → Cellular Data Network |
 | Steps already tried | Keep a short list |
 
-## Answers at a glance
+## Saudi Arabia eSIM FAQ: quick answers
 
 Plenty more where these came from — the [full FAQ library](/faq/) covers the rest.
 
@@ -356,7 +356,7 @@ No. It is dense in Riyadh, Jeddah and Dammam, present in secondary cities, and a
 
 For browsing in your room, no. For the rest of the day — ride-hailing, maps, restaurant bookings and the Nusuk app for Umrah permits — yes, and it is the same reason a local number helps: drivers and bookings reach you directly instead of leaving you dependent on lobby Wi-Fi.
 
-## The measurements behind every Saudi Arabia eSIM claim above
+## Sources behind our Saudi Arabia eSIM claims
 
 - **CST — Communications, Space & Technology Commission** — [the regulator's English portal](https://www.cst.gov.sa/en) is where the licensing and spectrum framework governing every Saudi carrier is published, real-name registration rules included.
 - **Ookla Speedtest Global Index** — [the Saudi Arabia entry](https://www.speedtest.net/global-index/saudi-arabia) provides the national medians quoted above, refreshed monthly.

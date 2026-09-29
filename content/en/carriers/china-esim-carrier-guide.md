@@ -29,7 +29,7 @@ Every SIM, physical or embedded, is registered against a real name under nationa
 
 Visitors register a physical SIM with a passport at a carrier service hall, or more commonly install a travel eSIM issued outside mainland China. A travel-issued China eSIM roams onto China Mobile or China Unicom towers and routes data internationally, so it installs in minutes, needs no registration, and is the default choice for trips under two or three weeks. Direct carriers suit long stays where a Chinese phone number matters. Check your handset against the [eSIM compatibility quiz](/compatibility/) first, and test a [free coverage test](/free-esim/) before you commit to a plan.
 
-## China eSIM carriers
+## China's three state carriers and the market you roam on
 
 Three state-owned carriers hold essentially the whole mainland market, regulated by the Ministry of Industry and Information Technology (MIIT). Their 2025 full-year results describe the landscape you will roam on:
 
@@ -168,7 +168,7 @@ That first row is the most famous compatibility fact in this market: iPhones sol
 4. Label the line clearly and set it as the data line before you fly.
 5. Keep your home SIM active for calls and SMS verification codes.
 
-## The China eSIM carriers: China Mobile, China Unicom and plug-and-play
+## Two ways to get connected: service hall or travel eSIM
 
 Two working routes exist. They differ in paperwork, not in difficulty, and neither takes more than an hour when you arrive prepared.
 
@@ -257,7 +257,7 @@ Two caveats:
 - Availability is set by each service in each market and changes without notice, so check the specific apps you depend on.
 - On either routing the local apps — WeChat, Alipay, DiDi, Amap — work perfectly on any China eSIM.
 
-## Manual APN Setup
+## APN settings for locally bought China SIMs
 
 APN settings are the last thing most travelers touch and the first to rule out when data fails on a locally purchased SIM.
 
@@ -299,7 +299,7 @@ One consequence of China's arrangement as separate markets trips up more visitor
 
 At that border a mainland-routed line stops working once it loses the mainland network. It then roams on the destination's carriers at roaming rates, if the plan covers the destination at all — and most mainland tourist products do not. Plan the crossing rather than improvising it.
 
-### Sales channels for China eSIMs
+### What happens to your profile at each land border
 
 | Border you are crossing | What happens to a mainland-only profile | What to carry instead |
 |:---|:---|:---|
@@ -316,7 +316,7 @@ At that border a mainland-routed line stops working once it loses the mainland n
 
 The pattern that works on almost any mainland-plus-neighbours trip is one regional profile rather than three single-country ones. If your route is Shenzhen and Hong Kong, China, a Greater China plan removes the handover problem at the boundary. If it is Beijing, Shanghai and Taipei, two profiles are usually cheaper than one regional plan. Keep the mainland profile as the data line inside the mainland and switch at the border.
 
-## SIM registration: the process
+## The questions travelers ask once they are in China
 
 ### Will WhatsApp calls connect in China?
 
@@ -326,7 +326,7 @@ On mainland networks — including a locally registered China Mobile, Unicom or 
 
 Registration cannot be skipped. Foreigners register a physical SIM at a carrier service hall with a passport plus a valid entry stamp — that is the official procedure. A Chinese national ID is only needed for residents; foreign permanent residents use the Foreign Permanent Resident ID Card.
 
-### China: resident SIM or traveler eSIM
+### Can a visitor get a resident-style eSIM in China?
 
 Practically, no. Since the MIIT-approved trial began in October 2025, phone eSIMs are issued in person, to people 18 or older, on mainland-certified devices, and China Mobile's published rules exclude overseas-user applications entirely. A short-term visitor's usable option is a profile issued abroad.
 
@@ -334,7 +334,7 @@ Practically, no. Since the MIIT-approved trial began in October 2025, phone eSIM
 
 Yes. Both wallets let overseas visitors bind international cards — Visa, Mastercard, JCB, Diners Club, Discover and UnionPay among them — after a passport and facial-recognition check that usually clears in minutes. Overseas-issued UnionPay cards have been bindable since November 2024. Expect a small cross-border fee above a low transaction threshold, and keep a physical card for hotels.
 
-### Short stays and long hauls in China
+### How much data does a China trip need?
 
 Most two-week trips sit comfortably in the 10–20 GB range: maps, translation, ride-hailing, messaging and video calls are the heavy items, and mainland users average about 24 GB a month. If you stream video daily, size up.
 
@@ -354,7 +354,7 @@ It stops providing data at the boundary unless the plan explicitly includes the 
 
 Not as local service — Hong Kong profiles roam onto mainland networks at roaming rates, if at all, and coverage is not guaranteed across the border. Use a mainland-served plan in Shenzhen and a [Hong Kong eSIM](/hong-kong-esim/) in Hong Kong, China, or one regional plan covering both.
 
-### Activating on China Mobile, China Unicom and plug-and-play
+### Why will my profile not download inside China?
 
 Because you tried to download it from inside mainland China. Provisioning servers are not reliably reachable on local networks. Install profiles before you fly, and if you must install on the ground, do it over airport or hotel Wi-Fi with patience for a retry.
 
@@ -376,7 +376,7 @@ Cross-reference the carrier sections above with the speed data we cite, then tes
 
 Landing with no data and trying to sort it out over airport Wi-Fi. Install and activate your China eSIM the night before you fly — the whole process is covered above and takes minutes.
 
-## How this China eSIM guide was researched
+## How this China carrier guide was researched
 
 - **Ookla Speedtest Global Index** — [the China country page](https://www.speedtest.net/global-index/china) posts the median mobile speed (176.16 Mbps), latency and world rank quoted above, refreshed monthly.
 - **Cable.co.uk** — [worldwide mobile data pricing across 237 markets](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) prices the USD 0.38 average cost per gigabyte and China's 28th-place ranking.

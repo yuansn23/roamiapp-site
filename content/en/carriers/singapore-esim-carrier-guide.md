@@ -23,7 +23,7 @@ Before anything else, confirm the handset actually supports eSIM. The [eSIM comp
 
 **Quick verdict:** Staying in Marina Bay, Orchard or the CBD? Singtel is the fastest and most consistent network, and it is the only one with genuinely dependable coverage in deep MRT tunnels and basements. Want the cheapest entry? StarHub and M1 both sell a tourist eSIM from S$12. Commuting to Johor Bahru or taking the ferry to Batam? Singtel, StarHub and M1 tourist eSIMs all bundle Malaysia and Indonesia roaming data. Want to skip the passport eKYC and the 30 day passport limit? [free trial](/free-esim/) tests the networks at no cost, and the code **WEB20** cuts 20% from [Singapore prepaid eSIM plans](/singapore-esim/).
 
-## The carriers behind the market
+## Singapore eSIM carriers: Singtel, StarHub and M1
 
 ### Singtel, StarHub and M1 compared for visitors
 
@@ -49,7 +49,7 @@ Singapore's fourth tier is where visitors find the lowest prices, and several of
 
 Two cautions. First, budget brands and the cheaper tourist tiers cap or shape speed once a fair usage threshold is passed, so read the fine print before you rely on them for hotspotting a laptop. Second, a plan bought from any single carrier or budget brand is tied to one network. You get Singtel's towers on a Singtel eSIM and nobody else's, which matters the moment you care about underground coverage or a cross border hop.
 
-### Carriers compared in Singapore
+### Singapore carrier eSIMs vs travel eSIMs: the differences
 
 | | Direct from a Singapore carrier | Travel eSIM on a Singapore network |
 |:---|:---|:---|
@@ -63,7 +63,7 @@ The economics favor a travel eSIM for a normal holiday. A carrier tourist eSIM i
 
 💡 A multi network eSIM profile is the practical middle path: [Roami's Singapore eSIM](/singapore-esim/) keeps the convenience of instant delivery, switches automatically between Singtel, StarHub and M1, and still lands you on Singtel in the MRT where that matters most.
 
-## eSIM-ready? Device checks for Singapore
+## Is your phone eSIM-ready for Singapore?
 
 Three things decide whether your phone works on a Singapore carrier: its bands, its lock status, and a short list of device specific quirks. All three are covered below.
 
@@ -95,7 +95,7 @@ If you bought a used phone, assume it may be locked and check before you fly. Fu
 
 Anything beyond this is device specific rather than carrier specific. Run your model through the [eSIM compatibility checker](/compatibility/) before you spend money on a plan.
 
-## Getting your eSIM, step by step
+## How to buy a Singapore tourist eSIM
 
 Three routes exist and they differ more in paperwork than in price: Singtel's hi! Tourist eSIM, StarHub's Travel eSIM, and M1's Tourist eSIM. Each route, step by step.
 
@@ -148,7 +148,7 @@ Prepaid provisioning is tied to one network and to passport eKYC, so plan for th
 - **Wi-Fi** — install the profile before you fly, not at the airport
 - **A clear passport photo** — eKYC is faster with a clean scan
 
-## Your eSIM coverage: Singtel vs StarHub
+## Singapore eSIM coverage: Singtel vs StarHub
 
 Two questions settle this section: how fast each network is where you actually are, and what kind of trip you are taking. The Ookla figures below answer the first; the trip type table answers the second.
 
@@ -201,7 +201,7 @@ Planning a route that leaves Singapore? Start with [eSIM for Malaysia](/malaysia
 
 💡 Automatic network selection is what makes this work. A profile that can move between Singtel, StarHub and M1 covers the indoor and cross border gaps that any single carrier plan cannot.
 
-## The APN step
+## What APN settings do Singapore eSIMs use?
 
 APN settings are the last thing most travelers need to touch and the first thing worth ruling out when data fails. Below: the values for all three carriers, when manual entry is genuinely required, and the exact menu paths.
 
@@ -217,7 +217,7 @@ You will only need these if you bought an eSIM **directly from a Singapore carri
 
 Leave username and password empty. These values are the commonly used ones for each network; the activation email or app that came with your profile will state the exact value if it differs.
 
-### Carrier APN settings in Singapore
+### When manual APN entry actually helps in Singapore
 
 On a Singtel, StarHub or M1 tourist eSIM the profile configures its own APN, so treat manual entry as the exception rather than the setup step. It earns its keep when:
 
@@ -226,17 +226,17 @@ On a Singtel, StarHub or M1 tourist eSIM the profile configures its own APN, so 
 - A carrier issued tourist eSIM where automatic configuration did not run
 - Almost never on a travel eSIM, which is the point of a managed profile
 
-### Singapore: when the APN won't auto-load
+### How to enter Singapore APN settings on iPhone and Android
 - **iPhone:** open Settings, Cellular, tap the eSIM line, Cellular Data Network, enter the APN
 - **Android:** Settings, Connections, Mobile Networks, Access Point Names, add a new APN
 
 Reboot the phone once you have saved. If data still will not flow, make sure it is the eSIM, not your home SIM, that is chosen as the data line before you touch anything else.
 
-## Start here when a Singapore eSIM refuses to activate
+## Singapore eSIM won't activate? Start here
 
 One trip through this section: clean install to working data, with the failure patterns a Singapore network can produce covered in the order they arrive.
 
-### Singapore install: download to data
+### Five checks before installing a Singapore eSIM
 | # | Check | What good looks like |
 |:---|:---|:---|
 | 1 | Phone is not carrier locked | Carrier Lock in About shows "No SIM restrictions" |
@@ -288,7 +288,7 @@ General activation errors, a profile that will not download, a scan that fails, 
 2. Manually select the preferred partner network
 3. Reboot and reset network settings if it still will not attach
 
-### Singapore eSIM support: what to put in front of you
+### What to have ready before contacting Singapore eSIM support
 | Information | Where to find it |
 |:---|:---|:---|
 | Order or eKYC reference | Confirmation email |
@@ -340,7 +340,7 @@ Some networks have little or no underground layer in certain tunnel sections, so
 ### Should I buy from a Singapore carrier or a travel eSIM?
 Direct means one network, passport eKYC, a 30 day passport cap, and often a real Singapore number with regional roaming. A travel eSIM means instant delivery, no paperwork, automatic switching between Singtel, StarHub and M1, and a fixed upfront price. Short trip: travel eSIM. Need a local number or longest stay: direct.
 
-### The APN screen: where to look in Singapore
+### Which APN does each Singapore carrier use?
 
 Only if you bought direct from a carrier and data stalls. Use `hicard` for Singtel, `shwap` for StarHub, or `sunsurf` for M1, leave username and password blank, then restart. A travel eSIM supplies its own APN and should not be touched.
 
@@ -350,7 +350,7 @@ Work the Singapore specific patterns above in order, eKYC, QR delivery, APN, und
 
 More questions? [More questions? View the full FAQ →](/faq/)
 
-## Research basis for this Singapore eSIM page
+## How we researched this Singapore eSIM guide
 
 - **Ookla Speedtest Connectivity Report, Singapore 2H 2025** — the [per-carrier report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025) is where every carrier-level number originates: Singtel's 87.22 Connectivity Score and Best Mobile Network award, StarHub's 80.58 and M1's 83.06, along with the Speed, Consistency, 5G Availability, Video, Game and 5-Star rows. National medians of about 240 Mbps mobile and 635 Mbps fixed come from Ookla's [Speedtest Global Index](https://www.speedtest.net/global-index/singapore).
 - **IMDA** — [Singapore's telecoms regulator](https://www.imda.gov.sg/) documents the prepaid SIM and eSIM registration rules and the 5G standalone policy referenced above.

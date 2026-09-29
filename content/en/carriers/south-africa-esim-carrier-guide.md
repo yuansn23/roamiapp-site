@@ -189,7 +189,7 @@ Three readings for a visitor. **Pretoria leads at 76.03 Mbps** with Johannesburg
 
 
 
-## Registering a SIM: What to Expect
+## Do I need to register my SIM in South Africa?
 
 
 
@@ -251,7 +251,7 @@ A second South Africa-specific factor belongs in any honest coverage discussion:
 
 
 
-## Installing a South Africa eSIM on the way in
+## How do I install my eSIM before flying to South Africa?
 
 
 
@@ -263,7 +263,7 @@ South Africa adds two practical notes. First, install before the flight — the 
 
 
 
-## Is your phone ready?
+## Will my phone work with a South Africa eSIM?
 
 
 
@@ -289,7 +289,7 @@ One contextual note. Years of national load shedding shaped how South African ne
 
 
 
-## APN Settings That Actually Work
+## Do I need to change the APN on my South Africa eSIM?
 
 
 
@@ -365,7 +365,7 @@ The address requirement is what most visitors cannot satisfy cleanly, and it is 
 
 
 
-## South Africa eSIM faults and their remedies
+## Why is my eSIM not working in South Africa?
 
 
 
@@ -435,7 +435,7 @@ The habits are straightforward: charge a power bank before a scheduled slot, dow
 
 
 
-## Common South Africa carrier eSIM FAQ: carriers, coverage and setup
+## eSIM FAQ: carriers, coverage and setup in South Africa
 
 
 
@@ -676,7 +676,7 @@ Extend from the provider's app and keep the same profile; the top-up takes minut
 
 
 
-## South Africa eSIM bibliography
+## The sources behind this South Africa guide
 
 
 

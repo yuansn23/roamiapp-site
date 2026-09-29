@@ -23,7 +23,7 @@ If the basics of a Luxembourg eSIM are still open questions — does my phone su
 
 **The one-paragraph answer:** If you are arriving from another EU country, just use your existing SIM — Luxembourg is inside the Roam Like at Home zone and there is no surcharge. If you are from outside the EU, **POST Luxembourg** is the safe default (largest 5G footprint, own infrastructure), **Tango** rides the same POST network as a budget brand, and **Orange** is the price challenger. All three require prepaid registration under a **2017 law** — you must register a local SIM against a passport or ID, in person or online — which is why most visitors buy a data-only travel eSIM that skips the step. [Roami's free Luxembourg trial eSIM](/free-esim/) connects to POST, Tango and Orange with no registration.
 
-## The eSIM carriers: POST and Tango
+## How Luxembourg's three networks fit together
 
 Luxembourg packs three mobile networks into a postage stamp: **POST Luxembourg** (the former LuxGSM, and the only operator with its own full infrastructure), **Tango** (a POST subsidiary that runs as an MVNO on POST's network), and **Orange Luxembourg** (the independent third network). Because Tango and POST share towers, the "choice" between them is mostly about price, not coverage. That leaves three practical scenarios:
 
@@ -31,7 +31,7 @@ Luxembourg packs three mobile networks into a postage stamp: **POST Luxembourg**
 - **Non-EU visitor, short stay:** pick POST for maximum reliability, or a travel eSIM to avoid the registration queue. Tango and Orange are valid cheaper alternatives on the same or comparable coverage.
 - **Business / cross-border traveller:** POST's 5G in Kirchberg and the city matters; if you commute into Belgium, France or Germany daily, EU roaming fair-use is the thing to watch, not the local carrier.
 
-## The Luxembourg carriers
+## What POST, Tango and Orange each offer
 
 [**POST Luxembourg**](https://www.post.lu) is the incumbent and the one every comparison lands on first. It holds the largest 5G spectrum allocation (the 3.6 GHz band) and covers Luxembourg City, the Kirchberg EU district, Esch-sur-Alzette and the airport on 5G, with 4G/LTE reaching over 99% of the population. It is the most expensive of the three but the most consistent.
 
@@ -41,7 +41,7 @@ Luxembourg packs three mobile networks into a postage stamp: **POST Luxembourg**
 
 There is no fourth meaningful player: the Grand Duchy is one of the smallest mobile markets in Europe, which is exactly why "which carrier" is a smaller question for a Luxembourg eSIM than almost anywhere else.
 
-## Best eSIM carrier for your trip: POST vs Tango
+## The best network for each kind of Luxembourg trip
 
 Because the networks overlap so much, the itinerary decides more than the logo. Use this table, then read the carrier notes for price.
 
@@ -56,7 +56,7 @@ Because the networks overlap so much, the itinerary decides more than the logo. 
 | Ardennes hiking week (north) | POST | 4G in villages; thins on valley roads | Long gaps on minor roads |
 | Mullerthal "Little Switzerland" | POST | 4G on marked trails | Off-trail gorges drop signal |
 
-## Plan pricing, side by side
+## What each Luxembourg carrier charges
 
 Because the networks barely differ, the real decision for a non-EU visitor is price and convenience. Here is what each Luxembourg eSIM carrier charges a prepaid customer, and how you actually get one. Local prepaid pricing runs roughly **€14–25** for a starter pack with a few GB; the figures below are the operators' published prepaid rates (USD at roughly €1 ≈ $1.09).
 
@@ -91,7 +91,7 @@ Tango is a POST brand, so you are buying POST coverage at a lower price. For a v
 
 **Quirk:** because it rides POST's network, Tango inherits POST's 99%+ 4G reach and 5G in the city — there is no coverage penalty for the lower price.
 
-### POST vs Tango prices compared
+### What Orange's Hello Prepaid card costs
 
 Orange runs its own network and is usually the most aggressively priced. Its prepaid product, the **[Hello Prepaid Card](https://www.orange.lu/en/mobile-offers/hello-prepaid-card/)**, is the easiest to price exactly because Orange publishes it.
 
@@ -111,7 +111,7 @@ Orange runs its own network and is usually the most aggressively priced. Its pre
 
 **Quirk:** Orange's prepaid deals include the **US** as well as the EU — handy if your route continues to America, though most visitors only use the EU part.
 
-## SIM and eSIM Registration Rules
+## How Luxembourg's 2017 SIM registration law works
 
 Luxembourg abolished anonymous prepaid SIMs under the **law of 7 June 2017**, which the regulator [Institut Luxembourgeois de Régulation (ILR)](https://www.ilr.lu) oversees. Anyone buying a prepaid card with a +352 number — resident or visitor — must register it in their own name against a valid ID (passport, national ID card or residence permit), either at the point of sale or online with a photo of the document. The operator switches the card off if registration is not completed. This applies to POST, Tango and Orange alike.
 
@@ -122,7 +122,7 @@ Two consequences for travellers:
 
 Note: Luxembourg Findel Airport has **no dedicated SIM counter**, so arriving connected means either using your EU home SIM or installing a travel eSIM on the plane. POST and Orange stores are in the city; the airport itself points you to in-town outlets.
 
-## Luxembourg eSIM roaming and border crossings
+## What happens to your plan at Luxembourg's borders
 
 Luxembourg sits inside the EU/EEA, so Roam Like at Home (EU Regulation [2022/612](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0612), guaranteed through 2032) applies to postpaid plans and, for POST at least, to prepaid too — POST prepaid customers may use their full allowance across the EU/EEA at domestic rates. Three things visitors miss:
 
@@ -130,7 +130,7 @@ Luxembourg sits inside the EU/EEA, so Roam Like at Home (EU Regulation [2022/612
 - **Cross-border workers cross twice a day.** The fair-use policy is calibrated for exactly this; if you live in France/Belgium/Germany and work in Luxembourg (or vice versa), keep both numbers and let each handle its own side.
 - **Border bleed.** In Schengen, Wasserbillig, Rodange or Troisvierges, your phone can latch onto the German, French or Belgian network from across the border. On a Luxembourg-only travel eSIM this can drop you off-network — switch network selection to manual and pick Orange, Tango or POST to stay put.
 
-## Luxembourg: local SIM vs travel eSIM costs
+## Is a local SIM worth it in Luxembourg?
 
 For a short stay the decision is rarely about coverage — it is about registration and price. Work it through:
 
@@ -141,7 +141,7 @@ For a short stay the decision is rarely about coverage — it is about registrat
 
 The break-even is roughly a fortnight: shorter, take the travel eSIM; longer, take the local prepaid. Either way, because Tango rides POST's network, the coverage you get does not change with the cheaper brand.
 
-## Luxembourg eSIM coverage: POST vs Tango
+## How coverage varies across the Grand Duchy
 
 A Luxembourg eSIM delivers 4G to 99%+ of the population, but "population" is not "territory." The weak spots are predictable.
 
@@ -158,7 +158,7 @@ A Luxembourg eSIM delivers 4G to 99%+ of the population, but "population" is not
 
 Because Luxembourg behaves like a tri-point rather than an island, the operators over each border are worth reading next: [our Belgium eSIM guide](/carriers/belgium-esim-carrier-guide/), [the France eSIM page](/france-esim/) and [the Germany eSIM page](/germany-esim/).
 
-## Luxembourg eSIM speeds: POST vs Tango
+## What data speeds and prices look like in Luxembourg
 
 - **[Ookla Speedtest Global Index](https://www.speedtest.net/global-index/luxembourg) (August 2026):** Luxembourg ranks **33rd in the world for fixed broadband** at a median **212.17 Mbps** and **6 ms** latency — a fair proxy for the backhaul behind local mobile sites. (Mobile eSIMs ultimately ride this fibre.)
 - **[Cable.co.uk per-GB pricing](https://www.cable.co.uk/mobiles/worldwide-data-pricing/):** roughly **USD 1.70** per GB, 145th of 237 markets — more expensive than most EU neighbours, reflecting Luxembourg's high cost base.
@@ -166,7 +166,7 @@ Because Luxembourg behaves like a tri-point rather than an island, the operators
 
 Luxembourg is one of Europe's wealthiest countries, and mobile pricing tracks that: local prepaid starts around €14–15 for 5 GB over 30 days, and unlimited runs €25–35. EU visitors sidestep this entirely by roaming.
 
-## Luxembourg: APN per carrier
+## When do I need to enter an APN in Luxembourg?
 
 If you bought a **local** POST, Tango or Orange eSIM, it auto-configures the APN on install in almost all cases — leave it alone. The one time you touch APN is on a **multi-network travel eSIM**, where the value is supplied in your activation email (examples seen in the market include `plus` for a Tango-backed profile and `data.esim` for a multi-network one). Enter it only if data fails after install:
 
@@ -175,7 +175,7 @@ If you bought a **local** POST, Tango or Orange eSIM, it auto-configures the APN
 
 Save, reboot, and confirm the eSIM is the selected data line before changing anything else.
 
-## Before the 2017 registration: what POST, Tango or Orange will want
+## What to sort out before you land in Luxembourg
 
 The law of 7 June 2017 is a counter rule rather than an airport one, and Findel has no SIM desk at all — so the list below is about landing with the right document, card and expectation for a +352 line.
 
@@ -214,7 +214,7 @@ Luxembourg's prepaid market is small enough that top-up is thin. The Orange Hell
 
 Load more than you expect to need before a long stay, or confirm in the operator app that a foreign card is accepted. Running out mid-trip in a market this size means finding a shop, not tapping a button.
 
-### Will an aging phone load a Luxembourg eSIM?
+### Why your phone grabs a foreign network at the border
 
 Along the Moselle, at Schengen, Wasserbillig or Rodange, German, French and Belgian masts are often the loudest signal available, and a handset left on automatic will take them. On a Luxembourg-only profile that means dropping off-network entirely.
 

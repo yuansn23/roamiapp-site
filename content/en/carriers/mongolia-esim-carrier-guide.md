@@ -115,7 +115,7 @@ Two national giants, one far-province specialist and one niche operator — that
 
 
 
-### Unitel vs Mobicom: which is better in Mongolia?
+### Local line or travel eSIM in Mongolia
 
 
 
@@ -141,7 +141,7 @@ Here is the trade-off in plain terms: a Unitel line bought in Ulaanbaatar is che
 
 
 
-## Mongolia eSIM coverage: Unitel vs Mobicom
+## Coverage outside Ulaanbaatar, region by region
 
 
 
@@ -191,7 +191,7 @@ One modern fact changes the remote-travel calculus: **Starlink service works in 
 
 
 
-## Price comparison: local vs travel
+## What data costs in Mongolia
 
 
 
@@ -213,7 +213,7 @@ The regulator is the [Communications Regulatory Commission of Mongolia](https://
 
 
 
-## eSIM Plans and Prices Compared
+## Three ways to get a Mongolian eSIM
 
 
 
@@ -249,7 +249,7 @@ Install your Mongolia eSIM on home Wi-Fi and it finds Unitel or Mobicom the mome
 
 
 
-### Route 2 — Mobicom's free tourist eSIM at the airport
+### Mobicom's free tourist eSIM at the airport
 
 
 
@@ -265,7 +265,7 @@ Install your Mongolia eSIM on home Wi-Fi and it finds Unitel or Mobicom the mome
 
 
 
-### Route 3 — Unitel or Mobicom in Ulaanbaatar
+### Buying Unitel or Mobicom in Ulaanbaatar
 
 
 
@@ -283,11 +283,11 @@ Install your Mongolia eSIM on home Wi-Fi and it finds Unitel or Mobicom the mome
 
 
 
-## Mongolian eSIM device check
+## Will my phone work with a Mongolian eSIM?
 
 
 
-### Do Mongolia eSIMs work on Android?
+### The usual culprits behind a failed install
 
 
 
@@ -311,7 +311,7 @@ Unitel and Mobicom both broadcast on bands mainstream handsets already carry, so
 
 
 
-### Mongolia eSIM: where to buy
+### Three checks before you buy anything
 
 
 
@@ -327,7 +327,7 @@ Three steps, each answering a question that decides whether a Mongolian profile 
 
 
 
-## APN Settings, Carrier by Carrier
+## Do I need an APN for Unitel or Mobicom?
 
 
 
@@ -345,7 +345,7 @@ A Mongolia eSIM profile carries its own APN. For locally bought lines that fail 
 
 
 
-### APN values for Unitel, Mobicom and Gobi eSIMs
+### When the manual APN list applies
 
 
 
@@ -363,7 +363,7 @@ A travel profile writes its own APN, so this list only applies to locally bought
 
 
 
-### APN table for Mongolia carriers
+### Where to type the APN on your phone
 
 
 
@@ -517,7 +517,7 @@ Mongolia's long-distance travel rewards a little planning in a way that city tri
 
 
 
-### Buying local in Mongolia vs going travel eSIM
+### Five rules for the overland legs
 
 
 
@@ -561,7 +561,7 @@ Unitel, on the consistent verdict of local users and overland travelers. Mobicom
 
 
 
-### FAQs about Mongolia eSIMs
+### Does a Mongolia eSIM need registration?
 
 
 

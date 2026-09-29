@@ -23,7 +23,7 @@ First question worth settling: can your phone even take an eSIM? The [eSIM compa
 
 **Bottom line:** Staying in Mumbai, Delhi or Bengaluru? Jio is the fastest network in the country and the only one running true standalone 5G. Streaming a lot of video or gaming on the move? Airtel wins on video and 5G gaming scores. Heading into Ladakh, the Rajasthan desert or the north-east? Jio reaches farther, but no single carrier covers the high passes. Want to skip the passport queue and the activation wait? [test at no charge](/free-esim/) tests the networks at no cost, and **WEB20** trims 20% off [India prepaid eSIM plans](/india-esim/).
 
-## The local carriers: Jio, Airtel and Vi
+## Who runs India's networks: Jio, Airtel, Vi and BSNL
 
 This section shows which Indian operators a foreign tourist can realistically connect to, and why buying local is a very different experience in India than in most countries.
 
@@ -38,7 +38,7 @@ This section shows which Indian operators a foreign tourist can realistically co
 
 **Read that table carefully, because it contains the single most useful fact on this page:** every one of India's carriers sells a prepaid eSIM only after you clear the country's manual identity check in person. There is no anonymous walk-up product, and there is no Aadhaar biometric shortcut for a visitor. Indian residents confirm their identity in minutes through Aadhaar eKYC; a foreign passport holder cannot use Aadhaar, so the same phone line takes hours of document review instead.
 
-### The field: India mobile carriers
+### The four Indian networks at a glance
 
 India has effectively four mobile networks, and the fourth is the one most travellers overlook.
 
@@ -163,7 +163,7 @@ These rupee prices are why a local line is unbeatable on price, but remember the
 
 Pre-load screenshots of your passport page, visa and hotel booking on your phone so the counter does not have to fight a slow connection. Browse [India eSIM plans](/india-esim/) for current tiers before you decide.
 
-## Your eSIM coverage speed and which carrier to pick
+## India network speeds and coverage, carrier by carrier
 
 This section turns on two questions: what each network does on your actual route, and what sort of traveller you are. The Ookla table takes the first question; the trip-type matrix takes the second.
 
@@ -217,7 +217,7 @@ Planning a route that leaves India? Start with the [Nepal eSIM guide](/carriers/
 
 Leaving network selection on automatic is what keeps this seamless. A profile that can move between Jio and Airtel covers the regional gaps that any single-carrier plan cannot, and it spares you the out-of-state SIM problem in Jammu and Kashmir.
 
-## Entering the APN
+## How do I enter APN settings for Jio or Airtel?
 
 Almost nobody needs to touch APN settings, which is exactly why they are the first thing to rule out when data will not move. Below: the values for the three carriers, when manual entry is genuinely required, and the exact menu paths.
 
@@ -247,7 +247,7 @@ Leave username and password empty. Should an operator ask for anything extra, th
 
 After saving, restart the phone. If data still fails, confirm the India eSIM, not your home SIM, is the selected data line before you change anything else.
 
-## Setup and fixes for your eSIM
+## Installing and troubleshooting your India eSIM
 
 This section, taken in one pass, moves you from a clean install to working data and through the failure patterns an Indian network can produce, in hit order.
 

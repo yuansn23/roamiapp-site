@@ -293,7 +293,7 @@ The honest arithmetic: a Bulgaria eSIM bought from a local carrier wins on raw p
 
 
 
-## Checking your handset
+## Will my phone work with a Bulgarian eSIM?
 
 
 
@@ -327,7 +327,7 @@ Do not memorize band tables; the reliable move is to check your exact model — 
 
 
 
-## Plans and what they cost
+## How to buy from each Bulgarian carrier, step by step
 
 
 
@@ -543,7 +543,7 @@ Voucher denominations cluster around 5, 10, 20 and 30 leva, with some operators 
 
 
 
-## Activation: Step by Step
+## How to activate your Bulgaria eSIM, and what usually goes wrong
 
 
 
@@ -623,7 +623,7 @@ To edit these on iPhone, go to Settings → Cellular → tap the eSIM line → C
 
 
 
-## Frequently Asked Questions
+## What travelers ask before buying a Bulgarian eSIM
 
 
 
@@ -723,7 +723,7 @@ Data roaming still needs to be on. Even though you are physically in Bulgaria, m
 
 
 
-## Reference pages for every Bulgaria eSIM figure here
+## Reference pages for every figure in this Bulgaria guide
 
 
 

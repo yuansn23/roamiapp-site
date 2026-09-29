@@ -45,7 +45,7 @@ Unsure about your phone? The [eSIM device checker](/compatibility/) is the one-m
 
 
 
-## The best Montenegro carrier for your trip
+## Which carrier for the coast, and which for the mountains?
 
 
 
@@ -173,7 +173,7 @@ One — rebranded from Telenor in 2022 — is the third peer, with excellent 5G 
 
 
 
-## Registration: The Legal Side
+## Do I need to register my SIM in Montenegro?
 
 
 
@@ -203,7 +203,7 @@ The clean way around the whole dance: **buy a Montenegro eSIM online before you 
 
 
 
-## Montenegro is not in the EU: what it means for roaming
+## Will my EU plan roam free in Montenegro?
 
 
 
@@ -235,7 +235,7 @@ Price context: [Cable.co.uk's worldwide survey](https://www.cable.co.uk/mobiles/
 
 
 
-## Regional Coverage
+## Coverage from the Bay of Kotor to the high passes
 
 
 
@@ -287,7 +287,7 @@ Crossing borders? The same breakdowns exist for our [Croatia eSIM guide](/carrie
 
 
 
-## Plan costs per gigabyte
+## Online before you fly, at the airport, or from a kiosk?
 
 
 
@@ -303,7 +303,7 @@ Crossing borders? The same breakdowns exist for our [Croatia eSIM guide](/carrie
 
 
 
-### Montenegro eSIM: the install
+### Buying online and installing, step by step
 
 
 
@@ -319,7 +319,7 @@ Crossing borders? The same breakdowns exist for our [Croatia eSIM guide](/carrie
 
 
 
-### Route 2 — Physical SIM at an airport desk or city store
+### Physical SIM at an airport desk or city store
 
 
 
@@ -333,7 +333,7 @@ Crossing borders? The same breakdowns exist for our [Croatia eSIM guide](/carrie
 
 
 
-### Route 3 — The kiosk
+### The kiosk route and its catch
 
 
 
@@ -351,7 +351,7 @@ Crossing borders? The same breakdowns exist for our [Croatia eSIM guide](/carrie
 
 
 
-## Phone Compatibility
+## Will my phone work on Montenegro's networks?
 
 
 
@@ -395,7 +395,7 @@ The online ID check takes minutes; the phone underneath is the part worth confir
 
 
 
-## Montenegro carrier APN values
+## Do Montenegrin carriers need an APN at all?
 
 
 
@@ -415,7 +415,7 @@ Tourist eSIM profiles carry their own APN — type nothing. For locally bought l
 
 
 
-### Montenegro APN cheat sheet
+### The four cases where an APN matters
 
 
 
@@ -433,7 +433,7 @@ Montenegro eSIM tourist profiles bought online arrive pre-configured, so these a
 
 
 
-### Montenegro eSIMs that need a typed APN
+### Where the APN field hides on your phone
 
 
 
@@ -441,7 +441,7 @@ On iPhone the field hides at Settings → Cellular → [the eSIM line] → Cellu
 
 
 
-## Montenegro eSIM setup steps
+## How do I set up my Montenegro eSIM before I fly?
 
 
 
@@ -541,7 +541,7 @@ Do all of it at home — the advantage of a Montenegrin tourist eSIM bought onli
 
 
 
-### Montenegro eSIM: your questions answered
+### What to collect before contacting a Montenegrin carrier
 
 
 

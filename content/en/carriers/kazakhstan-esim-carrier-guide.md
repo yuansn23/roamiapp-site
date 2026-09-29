@@ -327,7 +327,7 @@ Match the network to the shape of your trip rather than to a brand preference.
 
 
 
-## 5G nationwide: Kcell, Activ and Beeline Kazakhstan 5G coverage compared
+## Where Kazakhstan's 5G coverage actually reaches
 
 
 
@@ -371,7 +371,7 @@ What that means for your phone:
 
 
 
-## Prices across the carriers
+## Buying a Kazakh SIM: registration rules and prices
 
 
 
@@ -561,7 +561,7 @@ Planning to continue along the old Silk Road into Russia or China? Check each le
 
 
 
-## The APN list per carrier
+## What are the APN settings for Kcell, Tele2 and Beeline?
 
 
 
@@ -847,7 +847,7 @@ Confirm the eSIM is the active mobile-data line and that data roaming is enabled
 
 
 
-## Kazakhstan eSIM sources
+## The sources behind our Kazakhstan numbers
 
 
 

@@ -45,7 +45,7 @@ If your phone's eSIM support is unconfirmed, the [device compatibility checker](
 
 
 
-## Choosing Your Carrier
+## my.t, Emtel or Chili for your trip?
 
 
 
@@ -71,11 +71,11 @@ If your phone's eSIM support is unconfirmed, the [device compatibility checker](
 
 
 
-## Carriers in the running
+## How my.t, Emtel and Chili compare
 
 
 
-### my.t, Emtel and Chili compared
+### One incumbent, one challenger, one budget operator
 
 
 
@@ -185,7 +185,7 @@ Chili sells cheaper packs (around Rs 700 for a 200 GB tier at last check) but it
 
 
 
-## Signal by Region
+## Where does coverage hold in Mauritius?
 
 
 
@@ -231,7 +231,7 @@ For market context: [Ookla's Speedtest Global Index](https://www.speedtest.net/g
 
 
 
-## What the plans cost
+## Three ways to buy data in Mauritius
 
 
 
@@ -247,7 +247,7 @@ For market context: [Ookla's Speedtest Global Index](https://www.speedtest.net/g
 
 
 
-### How much mobile data for Mauritius?
+### Installing a travel eSIM before you fly
 
 
 
@@ -267,7 +267,7 @@ For anything shorter than a week a Mauritius eSIM usually undercuts the Rs 1,500
 
 
 
-### Route 2 — Tourist SIM at SSR International
+### Buying the tourist SIM at SSR International
 
 
 
@@ -283,7 +283,7 @@ For anything shorter than a week a Mauritius eSIM usually undercuts the Rs 1,500
 
 
 
-### Route 3 — Order ahead and collect
+### Ordering ahead and collecting at the airport
 
 
 
@@ -299,11 +299,11 @@ For anything shorter than a week a Mauritius eSIM usually undercuts the Rs 1,500
 
 
 
-## Is Your Phone eSIM-Compatible?
+## Is your phone eSIM-compatible?
 
 
 
-### Coverage across Mauritius's regions
+### Why a failed install is usually the phone
 
 
 
@@ -389,7 +389,7 @@ On iPhone the field is at Settings → Cellular → [the eSIM line] → Cellular
 
 
 
-## Switching on a Mauritius eSIM (plus fixes)
+## Setting up and troubleshooting your Mauritius eSIM
 
 
 
@@ -537,7 +537,7 @@ If your itinerary includes the island 560 km east, plan it as its own problem ra
 
 
 
-### The best Mauritius eSIM for how you travel
+### Buying data on Rodrigues as a visitor
 
 
 
@@ -545,7 +545,7 @@ Because visitors cannot buy resident packages on the main island, the same restr
 
 
 
-### Mauritius coverage: cities vs rural areas
+### The three places coverage disappears
 
 
 

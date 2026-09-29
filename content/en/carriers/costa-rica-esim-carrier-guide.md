@@ -98,7 +98,7 @@ The blanks are as informative as the numbers: nobody publishes a rural or per-pa
 | Budget traveler | Claro or Liberty prepaid | Cheapest entry; local data averages USD 1.86/GB | Kölbi's eSIM route wants a store visit |
 | Border-crossing itinerary | A multi-country profile | A Costa Rica-only eSIM stops at the frontera with no warning | Paso Canoas and Peñas Blancas both add queues and paperwork |
 
-## Where does your eSIM coverage actually fail?
+## Where does coverage fail outside Costa Rica's Central Valley?
 
 This is the section a generic Costa Rica eSIM page won't give you, because the answer is regional. Ookla's provincial medians already show the gradient: Heredia Province leads at 51.23 Mbps, San José sits at 50.57, and the numbers slide as you leave the Central Valley — Guanacaste 46.04, Puntarenas 43.79, Limón 42.32. Coverage exists in all seven provinces; reliability is what fades.
 
@@ -229,7 +229,7 @@ Context for those prices: DataReportal counts 4.76 million internet users (92.6%
 
 The per-gigabyte arithmetic favours local prepaid, and it always will. What the table cannot show is the value of the hour you do not spend at a counter, the ATM detour before the airport kiosk, or the top-up you have to negotiate in Spanish on day nine. For a one-to-two-week trip the gap is single-digit dollars; if you are staying a month, get the local SIM.
 
-## APN numbers
+## Why you probably never need an APN in Costa Rica
 
 APN settings are the last thing to touch and the first setting worth ruling out when data fails. For Costa Rica the honest answer is shorter than a table would suggest.
 
@@ -324,7 +324,7 @@ The general error catalogue — a profile that will not download, a scan that fa
 | Data roaming status | Settings → Cellular → your eSIM line |
 | Steps already tried | Keep a short list |
 
-## Roaming and Border Crossings
+## What happens to your data at Paso Canoas and Peñas Blancas
 
 Costa Rica-only eSIMs stop at the border, and both land crossings have their own quirks.
 

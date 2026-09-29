@@ -23,11 +23,11 @@ One ten-second prerequisite: confirm your handset is eSIM-capable via the [eSIM 
 
 **In brief:** Staying in Auckland, Wellington or Christchurch? One NZ took the Best Mobile Network award and reaches 60.9% 5G availability, the highest of the three. Streaming a lot or driving the South Island? Spark owns the fastest 5G and the widest rural reach, and its sub-brand Skinny sells the cheapest per-gigabyte eSIM on that same network. Want a carrier eSIM as a visitor? All three MNOs now sell prepaid eSIMs directly, and Skinny is the one true budget brand. Or skip the paperwork: [free data trial](/free-esim/) tests the networks at no cost, and the code **WEB20** cuts 20% from [New Zealand prepaid eSIM plans](/new-zealand-esim/).
 
-## Visitor eSIMs and the New Zealand networks that take them
+## Can visitors buy directly from One NZ, Spark or 2degrees?
 
 This section settles the first question every visitor asks, which networks you can actually buy a prepaid eSIM from, and whether a single-carrier line or a travel profile is the smarter buy for your route.
 
-### one nz vs spark: which is better in New Zealand?
+### One NZ vs Spark: which is better in New Zealand?
 
 | | One NZ | Spark | 2degrees |
 |:---|:---|:---|:---|
@@ -65,7 +65,7 @@ For a standard holiday the money clearly favours one option. A local prepaid pla
 
 💡 A multi-network eSIM profile is the practical middle path: [Roami's New Zealand eSIM](/new-zealand-esim/) keeps the convenience of instant delivery, switches automatically between One NZ, Spark and 2degrees, and still lands you on Spark in the mountains and One NZ in the cities without buying twice.
 
-## Handset checks for your eSIM
+## Bands, locks and the 3G shutdown
 
 Three things decide whether your phone works on a New Zealand carrier: its bands, its lock status, and the 3G shutdown that changed the voice rules in 2026. All three are covered below.
 
@@ -97,11 +97,11 @@ If you bought a used phone, or a phone from a market outside New Zealand, assume
 
 The rest is down to your handset rather than to Spark or One NZ. Before you buy, send your model through the [eSIM compatibility quiz](/compatibility/); it takes a minute.
 
-## The price picture
+## What each carrier's visitor plans cost
 
 Four routes exist, and they differ more in paperwork than in price: Spark through its Travel Packs, One NZ through its prepaid Travel SIM, 2degrees through its Unlimited Travel SIM, and Skinny on the Spark network for the budget buyer. Each route, step by step:
 
-### Your buying options in New Zealand
+### Spark Travel Packs, step by step
 
 Spark's own consumer plans are not aimed at visitors, but its Travel Packs are, and they are sold as an eSIM only through the website. International visitors are pointed straight at this product, which is genuinely built for a short stay.
 
@@ -138,7 +138,7 @@ For a One NZ line itself, the visitor path is the prepaid Travel SIM rather than
 
 One NZ activated its eSIM support properly: bring an eSIM-compatible device, order the Travel SIM, and it installs by QR. The catch is that the 2GB entry is a 30-day product while the larger packs run 60 to 90 days, so match the validity to your trip rather than just the data.
 
-### New Zealand eSIM plans, priced
+### The 2degrees Unlimited Travel SIM and Skinny
 
 2degrees sells an Unlimited Travel SIM that is built only for visitors, with unlimited data, calls and texts to New Zealand and Australian numbers. It is available at airports, 2degrees stores and a partner that posts worldwide, and the eSIM is delivered by QR through the travel-sim portal.
 
@@ -164,11 +164,11 @@ One NZ activated its eSIM support properly: bring an eSIM-compatible device, ord
 
 Plans and current tiers live on our [New Zealand eSIM page](/new-zealand-esim/). Sort the profile out at home, because the long flight is when you want nothing left to do.
 
-## Your eSIM speeds: one nz vs spark
+## What the Ookla numbers say about each network
 
 Two questions settle this section: how each network performs where you actually are, and what kind of trip you are taking. The Ookla figures below answer the first; the trip-type and region tables answer the second.
 
-### one nz vs spark: which New Zealand carrier is faster?
+### One NZ vs Spark: which New Zealand carrier is faster?
 
 All figures below come from Ookla's Speedtest Connectivity Report for New Zealand, collection period January to June 2025, and are national-level measurements drawn from the carrier data supplied for this guide.
 
@@ -199,7 +199,7 @@ For context on the country as a whole, Ookla's [Speedtest Global Index](https://
 | Business travel and calls | One NZ or Spark | Reliable and broad, real local number | Travel eSIMs are data-only, no local number |
 | Multi-region road trip | A multi-network eSIM | Switches as you move | Single-carrier plans show gaps between regions |
 
-### one nz vs spark: coverage compared
+### One NZ vs Spark: coverage compared
 
 New Zealand's coverage follows population: dense in the main centres, thinning fast along the alpine highways and vanishing in the fiords. What that means route by route:
 
@@ -216,11 +216,11 @@ Planning a route that leaves New Zealand? Start with [eSIM for Australia](/austr
 
 None of this needs babysitting as long as network selection remains automatic. A profile that can move between One NZ, Spark and 2degrees covers the regional gaps that any single-carrier plan cannot.
 
-## Carrier-by-carrier APN
+## When would you type an APN in New Zealand?
 
 Most travellers never open the APN screen, so it is the natural first suspect the day data stops. Below: the values for all three carriers plus Skinny, when manual entry is genuinely required, and the exact menu paths.
 
-### APN values for one nz, spark and 2degrees eSIMs
+### APN values for One NZ, Spark and 2degrees eSIMs
 
 You will only need these if you bought a SIM or eSIM **directly from a New Zealand carrier**. Travel profiles come with their APN already set, and editing it on a whim is the fastest way to lose data.
 
@@ -233,7 +233,7 @@ You will only need these if you bought a SIM or eSIM **directly from a New Zeala
 
 Leave username and password empty. If a network wants a field filled in, the paperwork accompanying the profile names it.
 
-### APN settings for New Zealand carriers
+### How to reach the APN screen on your phone
 
 - **iPhone:** Settings, then Cellular, tap the eSIM line, then Cellular Data Network, then enter the APN
 - **Android:** Settings, then Connections, then Mobile Networks, then Access Point Names, then add a new APN
@@ -309,7 +309,7 @@ General activation errors, a profile that will not download, a scan that fails, 
 | Data roaming status | Settings, Cellular, your eSIM line |
 | Steps already tried | Keep a short list |
 
-## The New Zealand eSIM carriers: one nz, spark and 2degrees
+## Buying direct from Spark, One NZ or 2degrees
 
 ### Can I buy a Spark eSIM as a visitor?
 
@@ -331,7 +331,7 @@ Almost none. New Zealand has no SIM registration law, so a prepaid eSIM activate
 
 Only if it supports VoLTE. New Zealand retired 3G between late 2025 and 31 March 2026, and once 3G is gone a handset that does 4G data but not voice over LTE loses the ability to make calls, including 111 emergency calls. Text `3G` to `550` to check your device, and on iPhone confirm Settings, Mobile, Mobile Data Options, Voice and Data shows 4G or 5G with VoLTE on.
 
-### Rural coverage in New Zealand: one nz vs spark
+### Rural coverage in New Zealand: One NZ vs Spark
 
 Spark, on the evidence, because it uses Band 28 at 700 MHz most heavily for low-band reach, and travellers consistently report the widest signal outside cities. One NZ won the Best Mobile Network award and leads on 5G availability at 60.9%, which helps in covered towns, but Spark is the network most campervanners and road-trippers lean on for the South Island. No carrier covers the Milford Road blackout or the Great Walks, so download offline maps regardless.
 
@@ -343,7 +343,7 @@ Almost none for long stretches. The roughly 120 km between Te Anau Downs and Mil
 
 No, the famous ones are not. The Milford, Routeburn and Kepler tracks run with no usable cell coverage, and most Department of Conservation huts have no reception at all, so a phone is a poor safety device on its own. Pair a travel eSIM with offline maps and, on the remote tracks, a personal locator beacon hired from DOC in Te Anau or Queenstown.
 
-### Devices with New Zealand eSIM issues
+### Checking your handset's bands before you rely on rural signal
 
 Check your exact model, not the shop name, against [eSIM compatibility checker](/compatibility/), and confirm it has Band 28 at 700 MHz for rural reach plus n78 for 5G. If the band list is intimidating, the compatibility checker is the fast path; most iPhone XS-and-later, Pixel 3-and-later and Galaxy S20-and-later handsets are fine in the cities and weak only in the valleys.
 

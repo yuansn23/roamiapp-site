@@ -111,7 +111,7 @@ The practical split: **MTN for everywhere you cannot see the city skyline, Airte
 
 
 
-## Local Networks at a Glance
+## What do MTN and Airtel offer visitors?
 
 
 
@@ -221,7 +221,7 @@ Pricing is from the A Broken Backpack comparison linked above; the [UCC's own Ju
 
 
 
-## SIM Registration Rules
+## What do I need to register a SIM in Uganda?
 
 
 
@@ -383,7 +383,7 @@ One regulatory footnote worth knowing: the UCC publishes an official operator pr
 
 
 
-## APN Configuration
+## Which APN do MTN and Airtel use?
 
 
 
@@ -513,7 +513,7 @@ A Ugandan carrier desk works from the registration record, not a web order, so k
 
 
 
-## Neighboring-Country Roaming
+## Will my Uganda SIM roam in Kenya or Rwanda?
 
 
 
@@ -555,7 +555,7 @@ Not in any visitor-useful way. 5G rollout is early and city-limited; plan for 4G
 
 
 
-### Uganda carrier APN values
+### Which APN do I need in Uganda?
 
 Both use `internet` with blank username and password. Only set this on a carrier-issued eSIM; a travel eSIM configures itself.
 

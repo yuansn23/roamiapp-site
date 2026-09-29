@@ -129,7 +129,7 @@ The travel eSIM route removes the counter entirely: the profile is issued and in
 
 💡 Because no single Colombian carrier wins everywhere, the practical choice is a profile with multi-network access: [Roami's Colombia eSIM](/colombia-esim/) re-attaches to the strongest available carrier as you travel between Bogotá, the coffee region and the Caribbean coast.
 
-## Your eSIM plans: the price and speed benchmarks
+## How much does data cost in Colombia, and how fast is it?
 
 Price tables age badly, so the current Colombia line-up lives on the [Colombia eSIM page](/colombia-esim/) instead of being frozen here. What the public data contributes is the local yardstick: what data costs in Colombia and how fast the networks actually run.
 
@@ -177,7 +177,7 @@ Colombia's daily logistics run through two things travellers should plan around:
 
 Compatibility is a two-part question: does the handset have the bands, and is it carrier-unlocked? A phone that is locked to a foreign carrier will refuse the profile outright, and no Colombian operator can help. [eSIM compatibility list](/compatibility/) answers both in one pass, and [eSIM activation explained](/faq/what-is-esim-activation-and-how-does-it-work/) explains what happens during the install.
 
-## The APN step
+## When a Colombian carrier SIM needs a manual APN
 
 This matters only for a Colombian line bought at the carrier's own counter. A travel eSIM supplies its own APN, and changing it breaks a working connection.
 
@@ -232,7 +232,7 @@ Whatever the base, treat mobile data as a back-up to fixed broadband rather than
 
 Broader activation faults — a profile that downloads halfway, a scan that fails — are catalogued in [our eSIM activation troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). If you are still deciding whether to travel with a profile at all, a [free test eSIM](/free-esim/) lets you test the install end to end before you pay.
 
-## Best Colombia eSIM carrier for your trip: Claro vs Tigo
+## How much data do I need for my Colombia trip?
 
 | Trip | Typical length | Comfortable allowance | Why |
 |:---|:---|:---|:---|
@@ -261,7 +261,7 @@ A Colombia-specific profile is valid inside Colombia and nowhere else. The two c
 
 If the trip continues, choose one of three routes: add a country profile per leg, buy a South America regional plan, or keep a second eSIM line installed and move the data line in settings as you travel. Our [Ecuador eSIM page](/ecuador-esim/), [Panama eSIM guide](/carriers/panama-esim-carrier-guide/) and [Peru eSIM plans](/peru-esim/) cover the usual extensions.
 
-## Colombia eSIM FAQ
+## Quick answers for eSIM users heading to Colombia
 
 ### Does a Colombia eSIM work in neighbouring countries?
 

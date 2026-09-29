@@ -23,7 +23,7 @@ Two things to settle before comparing carriers: device compatibility and the ins
 
 **Bottom line:** City legs — Oslo, Trondheim, Stavanger — are effortless on all three carriers; Telenor is fastest (255.4 Mbps median 5G) and Telia holds 5G more often (84.6% availability). Fjord legs — Geiranger, Trollstigen, the Atlantic Ocean Road — alternate between full signal in towns and dead zones on the exposed stretches; download offline maps before each leg. The far north — Lofoten, Tromsø, the Hurtigruten coast — runs on Telenor's and Telia's rural grids with long gaps between towns. Buying locally means a passport, a store or kiosk visit, and Norwegian prices; most visitors take a [Norway travel eSIM](/norway-esim/) instead — the [sample eSIM](/free-esim/) lets you test before you commit.
 
-## The Norway eSIM carriers: Telenor, Telia Norway and ice Norway
+## Telenor, Telia and ice: who runs Norway's networks?
 
 Three networks serve the country: **Telenor** (the incumbent, and the strongest overall per Ookla), **Telia** (the ex-NetCom network, now owned by Telia), and **ice** (the low-cost challenger). Before the route-by-route detail, the scoreboard — all figures from Ookla's 1H 2025 Norway report:
 
@@ -150,11 +150,11 @@ Norway is one of the most expensive data markets in the world — Cable.co.uk pu
 
 Then compare honestly. A Telenor starter plus an 8 GB top-up lands near 450 NOK for 8 GB on the best rural network in the country. A [Norway plan that follows you down the route](/norway-esim/) generally costs far less per gigabyte at the same volume, installs before you fly, and rides the same Telenor and Telia masts with no counter and no registration. What the local SIM adds is a Norwegian number and voice — worth it if you are staying long enough to need one, and worth skipping if you are not.
 
-## Phone Compatibility
+## Will my phone work on Norwegian networks?
 
 Norway's 5G runs on n78 (3.5 GHz) in cities and n28 (700 MHz) for rural reach; 4G uses bands 1/3/7/20. Any unlocked 4G-or-later phone from the last five years works, and Norwegian-sold phones are unlocked by law — the lock risk comes from phones bought on contract elsewhere, so check Carrier Lock in settings or run your model through the [eSIM compatibility tool](/compatibility/) before buying anything.
 
-## APN numbers
+## Do I need to enter an APN for Telenor, Telia or ice?
 
 Norwegian carriers provision APN automatically on modern devices, and travel eSIM profiles always carry their own — so this table is only for manual entry on a direct-carrier SIM, mostly on older Androids:
 
@@ -178,7 +178,7 @@ The same regulator tracks the technology withdrawal, and the timetable differs b
 | Telia | Phased regional decommissioning from August to December 2025 | Coverage of legacy devices is disappearing region by region |
 | Telenor | 2G sunset postponed to **31 December 2027** to protect critical services | An old phone may still work — on Telenor only |
 
-## Networks your eSIM can ride on
+## Winter driving rules that shape your connectivity plan
 
 Norway's winter rules are legal rather than advisory, and they interact with your data plan in a way that is easy to miss.
 
@@ -223,7 +223,7 @@ Do this at home, not at Gardermoen. A Norwegian itinerary strings ferries, tunne
 
 6. **Assume one network is not enough.** The winter-driving and mountain-pass material below is the reason: redundancy is a thing you plan for here, not a setting you switch on later.
 
-## Install and activate a Norway eSIM
+## How to install and activate your eSIM for Norway
 
 - **Telenor:** prepaid is a physical starter from a Telenor store or a 7-Eleven or Narvesen kiosk, with passport registration at the counter. There is no clean self-serve eSIM route for a visitor.
 - **Telia:** the one carrier with a genuine direct eSIM path for tourists — a prepaid eSIM around 99 NOK for 1 GB over 14 days, activated through Telia, with passport ID at purchase.
@@ -231,7 +231,7 @@ Do this at home, not at Gardermoen. A Norwegian itinerary strings ferries, tunne
 - **Travel eSIMs:** the profile arrives by QR code and attaches to Telenor or Telia, re-selecting as you move. No registration, no counter, no SIM tray.
 - **Home SIMs with EU/EEA roaming:** nothing to install — Norway is in the EEA, so roam-like-at-home applies. Switch data roaming off until you land, and check that your plan names Norway rather than "Europe".
 
-## When your Norway eSIM loses signal — and when it is actually broken
+## When your eSIM loses signal — and when it is actually broken
 
 Install the profile before you fly (the full sequence is in [the activation how-to](/faq/how-to-activate-an-esim/)), then diagnose in this order:
 
@@ -270,7 +270,7 @@ Not a network fault. Cold drains lithium-ion cells fast, and a phone reporting 6
 | Where you were when it failed | The leg name — "northbound E39, after the second ferry" |
 | What you have already tried, in order | Kept as a running note |
 
-## Common Norway eSIM questions
+## Questions travelers ask about eSIMs in Norway
 
 ### Telenor vs Telia Norway: coverage compared
 
@@ -288,7 +288,7 @@ Among the most expensive in the world: about USD 4.07 per gigabyte, 205th of 237
 
 Yes. Telenor sells a prepaid starter (~99 NOK with 500 MB and unlimited calls/texts) in its stores, and Telia sells a prepaid eSIM (~99 NOK for 1 GB plus unlimited calls/SMS for 14 days) with data top-ups above it. Both scan your passport at purchase. For data-heavy short trips, compare those prices against a pre-purchased Norway eSIM before committing.
 
-### Does my Norway eSIM work on the Hurtigruten ferry?
+### Will your eSIM work on the Hurtigruten ferry?
 
 Partially. Ports and their approaches are covered well; open sea stretches and deep-fjord passages are not. The ship's own Wi-Fi may help but is rarely fast — plan uploads for port calls, not the crossing.
 
@@ -296,11 +296,11 @@ Partially. Ports and their approaches are covered well; open sea stretches and d
 
 Telenor, on reach. It runs long-range rural sites on headlands and has the widest reach into the plateaus, which is why the coastal grid and the northern routes ride on it; Telia is the stronger pick in and around the cities, and ice thins out fast outside urban areas.
 
-### Cross-border use of Norway eSIMs
+### How roaming works when your eSIM crosses a border
 
 Your Norway eSIM works across borders. Your eSIM attaches to a local network as a roaming profile, so data roaming must be ON for the eSIM line — and OFF for your home SIM, so it never incurs roaming charges. This is the single most common activation miss.
 
-### Choose a Norway eSIM by trip type
+### Choosing an eSIM plan by trip type
 
 One that can re-select between Telenor and Telia automatically. A single-carrier plan can be perfect in Oslo and silent in the next valley; a multi-network profile covers the gaps — that is the entire logic of the [multi-network Norway eSIM](/norway-esim/) page, and you can [try one before you pay](/free-esim/).
 
@@ -320,7 +320,7 @@ Treat Svalbard as its own network rather than an extension of Norway. Longyearby
 
 Yes, in practice and often by law. Studded tyres are permitted from 1 November to the first Sunday after Easter in most of the country, and from 16 October to 30 April in Nordland, Troms and Finnmark. Winter tread must be at least 3 mm and studs must be on all four wheels, with an 8,500 NOK fine for inadequate tyres. Rental cars arrive correctly shod — confirm it at collection, along with whether your agreement permits border crossings.
 
-### Regional coverage in Norway
+### What is coverage like outside Norway's cities?
 
 Outside the cities it follows settlements and main roads, and everything else is a gap. Solid rock kills radio signal outright — the Lærdal Tunnel alone is 24.51 km, or roughly twenty minutes of no service on every carrier. Cache the route before the portal and let the phone re-acquire at the exit; if it does not, toggle airplane mode.
 
@@ -328,7 +328,7 @@ Outside the cities it follows settlements and main roads, and everything else is
 
 One that includes Telenor, because the coastal grid serving the fishing villages is Telenor's, plus the ship's own Wi-Fi for the open-water legs. The route calls at 34 ports between Bergen and Kirkenes with as many as six stops a day, so plan uploads and calls around the dock rather than around the crossing.
 
-## Norway eSIM borders: crossing into Sweden and Finland
+## Crossing into Sweden and Finland with your eSIM
 
 Norway's land borders are the end of your Norwegian coverage — and, if you bought a Norway-only plan, the end of your data.
 

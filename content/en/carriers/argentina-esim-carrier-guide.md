@@ -53,7 +53,7 @@ Before the deep dive: if you have never used one, the explainer on [how eSIM act
 
 
 
-## Argentina SIM registration rules
+## SIM registration in Argentina: what the DNI rules mean for visitors
 
 
 
@@ -249,7 +249,7 @@ The brands keep running separately for now, but a three-brand market is consolid
 
 
 
-## Who operates what
+## Will my data be fast outside Buenos Aires?
 
 
 
@@ -467,7 +467,7 @@ DataReportal counted 41.2 million internet users in Argentina at the start of 20
 
 
 
-## The Right Carrier for Your Trip
+## How much data do I need for Argentina?
 
 
 
@@ -527,7 +527,7 @@ Track the balance in your phone's settings rather than waiting for a notificatio
 
 
 
-## APN values
+## How do I set up the APN on my Argentine eSIM?
 
 
 
@@ -669,7 +669,7 @@ An eSIM installed at home also makes Ezeiza's single carrier stand irrelevant, b
 
 
 
-## How to activate your eSIM
+## Fixing an Argentine eSIM that will not connect
 
 
 

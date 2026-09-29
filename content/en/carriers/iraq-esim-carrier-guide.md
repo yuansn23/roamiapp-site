@@ -51,7 +51,7 @@ Three federally licensed operators carry essentially the whole mobile market —
 | Korek Telecom | Federal licence, Erbil-based; dominant in the Kurdistan Region | Issued in store, but issuance is unreliable during the licensing dispute | Local bundles vary; subscriber base has shrunk for years |
 | Fastlink | Kurdistan Region only, under KRG oversight | eSIM listed among supported carriers in device databases | Promotional **9,000 IQD** for 50 GB/month |
 
-### Iraq eSIM mini-FAQ
+### How the three Iraqi operators compare
 
 The pattern is consistent. Asiacell and Zain Iraq compete for the federal centre and south, with Asiacell ahead on network experience and Zain Iraq on subscriber depth. Korek owns the northern cities outright, and Fastlink is a regional third option with no coverage outside Kurdistan.
 
@@ -99,7 +99,7 @@ Keep your home SIM live for bank codes and calls, point mobile data at the eSIM,
 5. Receive the eSIM QR code, printed or on screen, and scan it while the counter staff are still with you.
 6. Buy the first bundle with cash, then confirm data works with Wi-Fi switched off before you leave.
 
-### Trip-type picks: Iraq eSIMs
+### What the Iraq SIM counter will ask you for
 
 | Item | Why the counter wants it | Where visitors go wrong |
 |:---|:---|:---|
@@ -121,17 +121,17 @@ Keep your home SIM live for bank codes and calls, point mobile data at the eSIM,
 | FastPay or authorised Fastlink outlet | Passport plus a temporary regional address is enough for visitors | Kurdistan-only itineraries |
 | Street vendor or informal dealer | Lines registered to somebody else's name; deactivated once the mismatch surfaces | Nowhere — avoid entirely |
 
-## Plan comparison: price
+## Buying routes compared: Asiacell, Zain and Korek
 
-### The Asiacell route
+### Buying an Asiacell eSIM as a visitor
 
 Asiacell advertises "Buy SIM or eSIM Online" on its own site, with prepaid packages starting from 3,000 IQD and delivery inside Iraq — but as a foreign visitor without an Iraqi address, your realistic path is a main Asiacell shop, where staff issue an eSIM QR code for a new line after taking your passport details. Bundles and top-ups are managed in the Asiacell app afterwards.
 
-### The Zain route
+### Buying a Zain Iraq eSIM in store
 
 Zain Iraq's new-line page describes the flow directly: choose a bundle, visit the nearest sales centre, and pick eSIM or physical SIM — the eSIM is bought in store, then installed by scanning the QR code on the spot. Its prepaid KAFOO bundles combine credit, SMS and social-media data, and the digital sub-brand Oodi sells app-managed plans from 15,000 IQD for 5 GB a month.
 
-### Iraq eSIM quick answers
+### Korek, Fastlink and Kurdistan-only trips
 
 Korek's Erbil home market remains its stronghold, but with its federal licence formally disputed and enforcement running through 2026, a visitor should not make Korek the primary line. If your trip is Kurdistan-only, ask at Korek stores in Erbil about current eSIM issuance; if the answer is uncertain, an Asiacell line covers Sulaymaniyah while remaining federally licensed.
 
@@ -229,7 +229,7 @@ During **Arba'een**, the pilgrimage concentrating millions on the Najaf–Karbal
 
 And in the Kurdistan highlands — around Rawanduz, Barzan and the Turkish border — expect genuine dead zones, with the Mesopotamian marshes and the desert west of the Euphrates much the same.
 
-## Iraq eSIM speeds: Asiacell vs Zain
+## Asiacell vs Zain: what speeds to expect in Iraq
 
 Ookla's national median is the headline; Opensignal's per-operator numbers are the useful detail.
 
@@ -272,7 +272,7 @@ Heading north instead, the [Turkey eSIM page](/turkey-esim/) explains what a Tur
 
 And for the Gulf route via Safwan, the [Kuwait travel eSIM guide](/carriers/kuwait-esim-carrier-guide/) sets out the options there.
 
-## Working APN entries
+## What are the APN settings for Asiacell, Zain and Korek?
 
 Here is the honest version: there is no reliably published, operator-confirmed APN table for Iraq that can be verified the way it can for Canada or Germany, and guessing APN strings causes more failures than it fixes. What is actually true:
 
@@ -328,7 +328,7 @@ Three ordinary causes, in order of likelihood: your allowance ran out and a top-
 
 Everything else — failed downloads, corrupted profiles, single-use QR codes already consumed — is catalogued in our [eSIM troubleshooting resource](/faq/esim-activation-errors-troubleshooting-guide/).
 
-## Questions and answers
+## Common Iraq connectivity questions
 
 ### Does Asiacell sell eSIMs to tourists?
 
@@ -378,7 +378,7 @@ Korek has historically been the region's benchmark, strongest in Erbil, Duhok an
 
 Yes, and it is the sensible setup. Keep your home SIM on for calls and SMS verification, point mobile data at the Iraq eSIM line, and switch data roaming off on the home line so it stops burning roaming credit in the background. Hotspot sharing normally works too, though a few providers cap or block tethering, so read the plan terms before you plan to work from a laptop; on a carrier-issued Iraqi line, tethering draws from the same bundle.
 
-## Where every Iraq eSIM claim here was checked
+## Where every claim in this Iraq guide was checked
 
 - **Opensignal** — [the Iraq Mobile Network Experience report](https://www.opensignal.com/reports/2026/01/iraq/mobile-network-experience) is where the per-operator download, upload, video, games and voice-app figures in the speed table originate.
 - **Ookla Speedtest Global Index** — [the Iraq entry](https://www.speedtest.net/global-index/iraq) backs the 72.23 Mbps median mobile download, the 62nd-place world ranking and the 19 ms latency figure.

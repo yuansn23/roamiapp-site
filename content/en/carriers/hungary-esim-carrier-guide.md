@@ -23,7 +23,7 @@ This guide works through the Hungary eSIM decision the way a trip actually unfol
 
 **The 30-second version:** Yettel is the speed pick (fastest 5G and 4G medians, best consistency at 94.6%). Magyar Telekom is the availability and streaming pick (highest 5G availability at 50.8%, best video experience at 91.23). One is the gaming and value pick, with the best 5G gaming experience in the country. All three are excellent by European standards; the differences show up between Budapest's dense centre and the rural plain, not between city districts. A multi-network [Hungary eSIM plan](/hungary-esim/) settles the question for you, attaching to whichever of the three is strongest at your location.
 
-## Choosing the right travel eSIM for your trip
+## Which carrier fits your Hungary itinerary?
 
 Speeds and network availability here are taken from [Ookla's H1 2025 Hungary report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025).
 
@@ -118,7 +118,7 @@ That is the niche the travel eSIM fills: a Hungarian or regional European profil
 
 💡 If your route runs Vienna → Budapest → Bratislava, one regional profile beats three country purchases; our [Slovakia eSIM guide](/carriers/slovakia-esim-carrier-guide/) and [Romania eSIM page](/romania-esim/) cover the adjacent legs.
 
-## Your eSIM pricing measured against local SIMs
+## Hungary data prices: eSIM versus local prepaid
 
 For live Hungarian pricing across data-only and unlimited tiers, see the [Hungary eSIM page](/hungary-esim/). The public data supplies the local context:
 
@@ -144,7 +144,7 @@ The practical translation: Hungarian prepaid is affordable, but it requires in-s
 | Szeged & the southern plain | One, Yettel | One's low latency serves the student city well; Yettel is the fallback between towns. |
 | Lake Balaton | Yettel, Magyar Telekom | Resort towns are well covered all around the lake; July–August crowds push speeds down on the southern shore. |
 
-## How Much Data Do You Need?
+## How much data do I need for Hungary?
 
 Hungary's tourist infrastructure runs through a handful of apps, and they set the real data budget.
 
@@ -173,7 +173,7 @@ Two Hungary-specific notes. First, install on Wi-Fi before you fly — Budapest'
 
 The 3G sunset is the one genuinely important compatibility fact for this market: an older imported handset that falls back to 3G for voice will not make calls in Hungary regardless of what the data plan covers. Check the handset is 4G or 5G capable, and use the [handset compatibility checker](/compatibility/) to confirm the profile side.
 
-## APN values, network by network
+## How do I set up the APN in Hungary?
 
 | Carrier | APN | Username | Password |
 |:---|:---|:---|:---|
@@ -186,7 +186,7 @@ Yettel's value depends on the tariff, which is why the safest approach with a Ye
 - **iPhone:** Settings → Cellular → the Hungary eSIM → Cellular Data Network → APN.
 - **Android:** Settings → Connections → Mobile Networks → Access Point Names → **+** → name it after the carrier, enter the value, save.
 
-## Local SIM vs Travel eSIM Costs
+## Local SIM versus travel eSIM costs in Hungary
 
 | Route | What it costs you |
 |:---|:---|
@@ -354,7 +354,7 @@ Yes — the top-up happens in the provider's app over whatever Wi-Fi the lakesid
 
 Unfavourably per gigabyte, comfortably on total cost. Hungary's mobile data sits around USD 1.71 per gigabyte, on the expensive side for the EU, and local packs undercut the travel tier on paper — but the pack needs a shop, a passport and an activation wait, and it covers one network. The travel profile pays for reach across all three, which is the trade a visitor is almost always right to take.
 
-## Hungary eSIM data sources: tracing the figures we quote
+## Where our Hungary network numbers come from
 
 | Source | What this guide uses it for |
 |:---|:---|

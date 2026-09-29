@@ -89,7 +89,7 @@ If your phone's eSIM support is still an open question, the [compatibility list]
 
 
 
-## The carriers behind the market
+## Which carrier for your Malta trip?
 
 
 
@@ -241,7 +241,7 @@ Vodafone Malta rebranded as Epic, and the network it inherited is one of the str
 
 
 
-### Malta carriers: who's who
+### Melita, the carrier most guides forget
 
 
 
@@ -325,7 +325,7 @@ Melita built its name on cable TV and broadband, but its mobile network covers t
 
 
 
-## Cross-border coverage
+## What EU roaming means for your Malta trip
 
 
 
@@ -377,7 +377,7 @@ Malta and Gozo are in the same country but the inter-island ferry is a coverage 
 
 
 
-## Coverage Map, Region by Region
+## Coverage across Malta, region by region
 
 
 
@@ -549,7 +549,7 @@ A Malta eSIM installed at home is the route for anyone landing after the airport
 
 
 
-### Route 2 — GO, Epic or Melita at the airport or in town
+### Buying GO, Epic or Melita at the airport or in town
 
 
 
@@ -589,7 +589,7 @@ A Malta eSIM installed at home is the route for anyone landing after the airport
 
 
 
-## Handset check
+## Will my phone work with a Maltese eSIM?
 
 
 
@@ -597,7 +597,7 @@ A Malta eSIM installed at home is the route for anyone landing after the airport
 
 
 
-### Does Malta support your phone's eSIM?
+### Why an eSIM install fails in Malta
 
 
 
@@ -645,7 +645,7 @@ Maltese carriers broadcast standard European bands, so an install failure almost
 
 
 
-### Will your phone work on Malta networks?
+### Checking EID and carrier lock yourself
 
 
 
@@ -677,7 +677,7 @@ Three dials and taps settle whether your handset can hold a Maltese profile at a
 
 
 
-## APN settings for Malta
+## The APN values for GO, Epic and Melita
 
 
 
@@ -757,7 +757,7 @@ A managed travel profile writes its own APN; these are the Malta-specific except
 
 
 
-## Activation: Step by Step
+## Activating your eSIM at home, step by step
 
 
 
@@ -773,7 +773,7 @@ Do the install on home Wi-Fi — QR scan, line label, data-line selection, roami
 
 
 
-### Six things to set up before you fly to Malta
+### The pre-flight checklist for Malta
 
 
 
@@ -829,7 +829,7 @@ Work through this on the Wi-Fi you trust before boarding the flight to MLA:
 
 
 
-### Malta activation: the steps
+### What to know before you land
 
 
 
@@ -949,7 +949,7 @@ Work through this on the Wi-Fi you trust before boarding the flight to MLA:
 
 
 
-### Short answers on Malta eSIMs
+### The details Malta support will ask you for
 
 
 

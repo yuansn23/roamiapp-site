@@ -81,7 +81,7 @@ The honest summary: DNA is the fastest on paper and won the most awards, but the
 
 
 
-## The Finland eSIM carriers: Elisa, DNA and Telia Finland
+## How do Elisa, DNA and Telia measure up?
 
 
 
@@ -265,7 +265,7 @@ Because VR's Pendolino Plus and InterCity stock carry free Wi-Fi and a socket at
 
 
 
-## Plans and Prices, Compared
+## How do visitors buy data in Finland?
 
 
 
@@ -473,7 +473,7 @@ Three checks, two minutes:
 
 
 
-## Manual APN Setup
+## The one APN setting every Finnish carrier uses
 
 
 
@@ -585,7 +585,7 @@ Run the standard install first — QR scan, label the line, set it as your data 
 
 
 
-## Questions and answers: Finland eSIMs
+## Questions travelers ask about Finnish eSIMs
 
 
 
@@ -693,7 +693,7 @@ Only while the ship is within range of a land network. Roam-like-at-home applies
 
 
 
-## Using the eSIM abroad
+## Crossing into Sweden, Norway or Estonia with your eSIM
 
 
 

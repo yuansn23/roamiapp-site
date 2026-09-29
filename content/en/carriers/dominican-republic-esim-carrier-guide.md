@@ -74,7 +74,7 @@ La Romana is the gateway to Saona and Catalina, and Bayahíbe is the port. Cover
 
 The capital is a different product entirely. Business hotels in Piantini and Naco, and the boutique conversions in the Zona Colonial, are used by people who work from them, and their Wi-Fi reflects that. The mobile network is the country's densest. The real constraint in Santo Domingo is congestion, not coverage: on cruise days and festival weekends, speeds in the old city sag under the load of every visitor testing the network at once.
 
-## The local carriers
+## How do Claro, Altice and Viva really compare?
 
 Three operators hold effectively the whole Dominican mobile market, regulated by [Indotel](https://indotel.gob.do/), the national telecom regulator. Claro (América Móvil) is the dominant player with roughly 62% of mobile subscriptions — about 6.8 million lines as of early 2025 per Indotel figures — Altice Dominicana holds around a third, and Viva is a small budget operator.
 
@@ -146,7 +146,7 @@ Two readings matter. The **loaded latency** figures — 698.66 ms down and 545.8
 | Budget traveller | Claro prepaid | Cheapest gigabytes on the biggest network | Viva is cheaper still and not worth it |
 | Multi-country Caribbean cruise | A regional or North America plan | A DR-only eSIM dies at the next port with no warning | San Juan and Nassau day stops catch people out |
 
-## Documentation Rules for SIMs
+## What does buying a Dominican SIM actually involve?
 
 Buying local is genuinely cheap. The friction is all administrative, and knowing the steps in advance is most of the work.
 
@@ -200,7 +200,7 @@ Indotel runs the **SSN — Sistema de Series Negadas** — a national database o
 | Best price | The cheapest gigabytes on the island | A single upfront price, no top-ups |
 | Best for | Stays past a month, or anyone who needs a Dominican number | Trips of one to three weeks, and landing connected |
 
-## What the plans cost
+## Should I buy at the airport, in the city, or online?
 
 ### What ID do you need to buy a SIM in Dominican Republic?
 
@@ -242,7 +242,7 @@ A single-carrier SIM locks you into one version of that map. A multi-network pro
 | La Romana and Bayahíbe | Good in both towns on both networks | Your last reliable signal before Saona or Catalina |
 | Barahona and the southwest (Route 44) | Town coverage only; the coastal road south is thin | Fuel and map before you leave Barahona |
 
-## Dominican Republic cruise-day eSIM connectivity: the main ports
+## Will my eSIM work when my cruise ship docks?
 
 With one honest caveat about timing: the main cruise ports (Amber Cove and Taino Bay in Puerto Plata, Santo Domingo, La Romana, Samaná) all sit in towns with dense 4G/5G coverage, so a Dominican Republic eSIM gives you live data from the moment the ship docks: Uber and taxi coordination, Google Maps, WhatsApp calls home, and a speedtest to prove it. Ships themselves run on satellite or maritime networks, not local towers, so expect no connection at sea and full connection at the pier.
 
@@ -320,7 +320,7 @@ Every transport app in the country needs live data at the exact moment you are s
 
 Two rules follow. First, install and log into both apps before you fly — account setup and card verification want a reliable connection, and roaming data at an arrivals hall is a poor place to do it. Second, expect taxi-union friction in Punta Cana specifically: local associations have arrangements with hotels and the airport, and app pickups are restricted at some gates. If an Uber cannot reach you, inDrive plus cash is the usual workaround outside the resort zone, and a tourist taxi at a fixed rate is the one inside it.
 
-## 5G in Dominican Republic: Claro, Altice and Viva 5G coverage compared
+## Is 5G worth paying extra for in the Dominican Republic?
 
 Both major carriers have deployed 5G on the **n78 (3.5 GHz)** band, which is why the measured 5G speeds are high and the coverage islands are small. The honest picture:
 
@@ -340,7 +340,7 @@ The Dominican Republic is one stop on the standard Eastern Caribbean loop, and a
 
 Install every profile you own before you board. Ships' satellite Wi-Fi is the worst possible place to download an eSIM, and ports-of-call leave you roughly four hours to get it wrong.
 
-## Does your device qualify?
+## Will my phone work in the Dominican Republic?
 
 Dominican 5G runs mainly on the n78 (3.5 GHz) band, with 4G LTE on bands 2, 4, 7 and 28. US-market phones handle this natively — the country shares the +1-809/829/849 country code with North America — while some European and Asian handsets miss a band or two and simply fall back to LTE, which is fine in cities and slower on rural highways. The two checks that actually decide whether your eSIM works: the phone is not carrier-locked, and it has an EID (dial `*#06#` to confirm). Run your exact model through the [eSIM compatibility list](/compatibility/) rather than guessing from the band tables.
 

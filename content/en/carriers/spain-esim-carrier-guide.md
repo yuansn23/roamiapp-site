@@ -137,7 +137,7 @@ A multi-network eSIM profile is the practical middle path: [Roami's Spain eSIM](
 
 
 
-## Does your phone take your eSIM?
+## Will my phone work with a Spain eSIM?
 
 
 
@@ -195,7 +195,7 @@ Any remaining cause sits with the device, not with the Spanish carrier. Put your
 
 
 
-## What each plan costs
+## How much do Spain's prepaid plans cost?
 
 
 
@@ -301,7 +301,7 @@ Yoigo prepaid tiers undercut the three big carriers: around 7 EUR for 7 GB, 12 E
 
 
 
-## The local carriers: Movistar, Orange and Vodafone Spain
+## Which network should I choose for my itinerary?
 
 
 
@@ -429,7 +429,7 @@ Automatic network selection does the heavy lifting on a Spanish itinerary. A pro
 
 
 
-## What APN settings do Spain carrier eSIMs use?
+## Do I need to change the APN on a Spanish eSIM?
 
 
 
@@ -463,7 +463,7 @@ Leave username and password empty where the table shows blank. Should any operat
 
 
 
-### Spain networks: APN details
+### When do I need to enter the APN manually?
 
 
 
@@ -477,7 +477,7 @@ Leave username and password empty where the table shows blank. Should any operat
 
 
 
-### Cases needing a manual Spain APN
+### How do I enter the APN on my phone?
 
 
 

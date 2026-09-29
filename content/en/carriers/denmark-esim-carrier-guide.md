@@ -65,7 +65,7 @@ Now the clarification competitors get wrong most often: EU roaming rules apply t
 
 
 
-## Market structure
+## Which Danish network should I actually choose?
 
 
 
@@ -261,7 +261,7 @@ Three patterns are worth reading out of that table. Every tourist pack carries a
 
 
 
-## Per-gigabyte pricing
+## Why is buying a local SIM in Denmark so awkward?
 
 
 
@@ -321,7 +321,7 @@ Compare that with arriving already provisioned. A Denmark eSIM installed at home
 
 
 
-## Carrier Speed Comparison
+## What are Danish mobile speeds really like?
 
 
 
@@ -355,7 +355,7 @@ Two structural notes round out the picture. Data is cheap by European standards:
 
 
 
-## Which Denmark eSIM fits each kind of trip
+## Which plan fits your Danish itinerary?
 
 
 
@@ -393,7 +393,7 @@ Network choice barely separates the options. Route shape does. Use the itinerary
 
 
 
-## How much data you need for a week in Denmark
+## How much data do I need for a week in Denmark?
 
 
 
@@ -417,7 +417,7 @@ Denmark rewards itineraries that radiate out from Copenhagen, and mobile data ea
 
 
 
-## Signal by Region
+## Where does signal thin out in Denmark?
 
 
 
@@ -499,7 +499,7 @@ Denmark's geography makes border crossings routine rather than exotic, and what 
 
 
 
-## Getting your eSIM live
+## How do I get my eSIM working before I land?
 
 
 
@@ -523,7 +523,7 @@ If you want a dry run before spending anything, Roami's [complimentary trial eSI
 
 
 
-## Sizing Your Data Plan
+## What should I check when my eSIM stops working?
 
 
 

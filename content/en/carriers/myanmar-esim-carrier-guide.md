@@ -25,7 +25,7 @@ If the handset question or the install process is still fuzzy, start here. Run y
 
 **In brief:** For tourist areas (Yangon, Mandalay, Bagan, Inle) **ATOM** (ex-Telenor) and **MPT** are the practical choices; MPT reaches further into rural and temple regions. **Mytel** has the largest subscriber share but is military-linked, so many visitors skip it. **U9** is the former Ooredoo, renamed in September 2025 and now a minor player. All four require **passport + visa/entry-stamp registration** — there is no anonymous eSIM. Critically, **international roaming stopped working after 2021**, so your home SIM is a brick in Myanmar; a locally registered Myanmar eSIM is the only data path. The [free network test](/free-esim/) connects on the local networks, and code WEB20 takes 20% off any paid plan — [check the current plans list](/plans/) before you buy.
 
-## How local eSIM rules shape every purchase
+## What Myanmar's internet restrictions mean for your trip
 
 Four dated facts frame everything else on this page:
 
@@ -53,7 +53,7 @@ Two cautions up front: first, independent per-carrier mobile speed benchmarks fo
 
 All prices below are in Myanmar kyat (MMK), sourced from [Myanmar Tech Press's monthly operator price tracking](https://en.myanmartechpress.com/myanmar-mobile-data-prices), which records the operators' own published rates (≈ 2,100 MMK to US$1 on the parallel market).
 
-### Rural coverage in Myanmar: ATOM vs MPT
+### MPT plans for the rural and temple routes
 
 Best for: Maximum reach — rural trunk roads, temple regions, and anywhere past the city limits.
 
@@ -116,7 +116,7 @@ Quirks: ATOM is the network most travel eSIMs roam onto, so a Myanmar eSIM bough
 
 U9 is usable in cities but not a serious rural option.
 
-## Pricing compared
+## What to have ready before you reach Myanmar
 
 | # | Myanmar-specific preparation | Why it matters here |
 |:---|:---|:---|
@@ -167,7 +167,7 @@ Carrying on past Myanmar's borders? The same measured, sourced breakdown continu
 - [India eSIM](/india-esim/)
 - [Bangladesh eSIM](/bangladesh-esim/)
 
-## Myanmar eSIM coverage: ATOM vs MPT
+## Will my home SIM's roaming work in Myanmar?
 
 Most visitors arrive on the [official e-visa](https://evisa.moip.gov.mm/) (processing typically three working days; visa-on-arrival has been suspended for many nationalities). The practical connectivity note: **your home SIM's roaming will not work in Myanmar** — international roaming onto local networks ceased after 2021 — so do not count on landing with data. At Yangon International the MPT, ATOM and U9 counters sit in the arrivals halls and register a SIM against your passport in minutes, which is the most reliable on-the-ground route. A travel eSIM installed before you fly is the lower-friction alternative: it activates on the local network the moment you land and skips the passport-upload queue, though it still inherits the national blocking and shutdown risk above. Either way, arrive with a plan already chosen — the arrival hall Wi-Fi is congested and a shutdown can blank the network without warning.
 
@@ -180,7 +180,7 @@ We quote only what is sourced, and we do not invent per-carrier mobile speeds.
 - Market size: DataReportal counts [33.4 million internet users (61.1% of the population)](https://datareportal.com/reports/digital-2025-myanmar) and 63.3 million mobile connections (116%) entering 2025.
 - Mobile speed: We deliberately omit a national mobile-median figure — Ookla does not publish a clean per-country mobile rank for Myanmar in the sources we could verify, and per-carrier mobile benchmarks are unreliable post-2021. Treat any single-operator "fastest" claim you see elsewhere with suspicion.
 
-## Entering the APN
+## Which APN does each Myanmar carrier use?
 
 You will only need these if you bought a SIM or eSIM **directly from a Myanmar carrier**. A managed Myanmar eSIM arrives with its APN preset, so leave it alone.
 
@@ -232,7 +232,7 @@ Myanmar's operators use different APNs — `mptnet` on MPT, `internet` on ATOM a
 
 Restrictions on VPN use were codified in the January 2025 cybersecurity law and enforcement is real, so we do not recommend leaning on one to reach blocked services. A VPN can obscure traffic; it cannot conjure a connection where the network has been switched off.
 
-### Can you buy a Myanmar eSIM from ATOM?
+### MPT counter, ATOM store, or travel eSIM?
 
 - **MPT airport counter:** queue time after large arrivals is the usual snag, and rural B-roads thin to 3G once you leave the trunk routes.
 - **ATOM store or eSIM:** registration is instant, but the network is strongest on the tourist corridor and weaker well outside it.
@@ -250,7 +250,7 @@ Keep a short note of these before you open a ticket.
 | The operator the phone is attached to | Settings → Cellular → Network Selection |
 | How long the outage has lasted | Your own timestamps |
 
-## Myanmar eSIM FAQ
+## What travellers ask about going online in Myanmar
 
 ### Is it safe to use mobile internet in Myanmar?
 
@@ -308,7 +308,7 @@ Not realistically. Every Myanmar SIM must be registered in person against your p
 
 A VPN is legally restricted under the 2025 cybersecurity law and enforcement is real, so we do not advise relying on one to reach blocked services. Plan for a monitored, occasionally interrupted connection instead.
 
-## Myanmar eSIM sources and how we checked them
+## How we checked every Myanmar claim
 
 - **Myanmar Tech Press** — [monthly operator price tracking for MPT, ATOM and U9](https://en.myanmartechpress.com/myanmar-mobile-data-prices) in MMK.
 - **ATOM** — the [official tourist SIM page](https://arena.atom.com.mm/en/personal/TouristSIM) behind the 20 GB / 250-minute bundle.

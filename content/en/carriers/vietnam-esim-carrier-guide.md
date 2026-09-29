@@ -73,7 +73,7 @@ The practical asymmetry: Viettel wins almost everywhere, but Vinaphone's 5G is f
 
 
 
-## Device Compatibility Check
+## Which carrier should I choose for Vietnam?
 
 
 
@@ -399,7 +399,7 @@ Vietnam's carriers switched off 2G and 3G, so voice calls run over VoLTE — ena
 
 
 
-## Setting the APN
+## Do I need to change the APN on my Vietnam eSIM?
 
 
 
@@ -669,7 +669,7 @@ Rail signal is good in the populated stretches and absent in the terrain between
 
 
 
-## Your Data Budget
+## What do I need mobile data for in Vietnam?
 
 
 
@@ -889,7 +889,7 @@ In the towns and main viewpoints, yes — Lào Cai province recorded a median 85
 
 
 
-### IMEI and EID screening for Vietnam eSIMs
+### Will SMS verification codes reach me without a Vietnamese number?
 
 
 
@@ -921,7 +921,7 @@ On paper, no — a local Viettel tier starts at 60,000 VND and Vietnamese data a
 
 
 
-## Who sells service locally
+## Where do the numbers in this guide come from?
 
 
 

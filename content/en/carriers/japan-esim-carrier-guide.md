@@ -21,7 +21,7 @@ Some phones cannot take an eSIM at all, and plenty of people have never seen a p
 
 **If you read nothing else:** Staying in Tokyo, Osaka or Kyoto? Rakuten Mobile runs the fastest 5G in the country at 151.16 Mbps and the most consistent network at 89.9%. Streaming a lot of video or gaming? SoftBank wins on video score (75.91) and gaming score (80.94). Heading into rural Tohoku, Hokkaido or the mountains? NTT Docomo holds signal where the others fade, thanks to the best 5G availability at 43%. Want a carrier eSIM as a visitor? Only au sells one walk-up, through its povo brand at Lawson. Or skip the paperwork: [free eSIM trial](/free-esim/) tests the networks at no cost; apply code **WEB20** for 20% off [Japan prepaid eSIM plans](/japan-esim/).
 
-## Which networks can your eSIM use?
+## Which networks can your eSIM use in Japan?
 
 ### Docomo, au, SoftBank and Rakuten, scored for visitors
 
@@ -64,7 +64,7 @@ For a two-week trip the numbers do not favour a local plan. A carrier contract i
 
 💡 A multi-network eSIM profile is the practical middle path: [Roami's Japan eSIM](/japan-esim/) keeps the convenience of instant delivery, switches automatically between Docomo, au, SoftBank and Rakuten, and still lands you on Rakuten in Tokyo and Docomo in the mountains without buying twice.
 
-## Checking your eSIM compatibility
+## Will my phone work on Japanese networks?
 
 Three things decide whether your phone works on a Japanese carrier: its bands, its lock status, and a short list of device-specific quirks. All three are covered below.
 
@@ -97,7 +97,7 @@ If you bought a phone from a US or European carrier, assume it may be locked and
 
 Beyond those cases it is the model, not the network, that decides. Drop your exact handset into the [device compatibility checker](/compatibility/) before you pay for any plan.
 
-## GB price comparison
+## What Japan data plans cost and where to buy them
 
 Four routes exist, and they differ more in paperwork than in price: au through povo for a true tourist eSIM, Docomo and SoftBank through resident brands, and Rakuten as a resident contract. Each route, step by step.
 
@@ -140,7 +140,7 @@ au is the one national carrier that sells a tourist eSIM directly. Its povo bran
 
 povo notes that speed may be limited during network congestion, which is the one catch on a busy festival day. If you only want au coverage as a visitor, povo is the route; a travel eSIM is the alternative that also reaches the other three networks.
 
-### Does SoftBank sell a tourist eSIM for visitors
+### Does SoftBank sell a tourist eSIM for visitors?
 
 SoftBank does not sell a direct prepaid eSIM to short-stay visitors. Its online budget brand LINEMO requires a residence card and a Japanese payment method, and its eSIM tiers are limited to permanent or special permanent residents. SoftBank's own prepaid history is physical SIM and its Free Wi-Fi Passport, not a tourist eSIM.
 
@@ -163,11 +163,11 @@ Rakuten's SAIKYO Plan is genuinely cheap, about ¥1,078/mo up to 3 GB, ¥2,178/m
 
 Plans and current tiers live on our [Japan eSIM page](/japan-esim/). Install at home so the profile connects the moment you land, and if you plan to tether a laptop, check the plan's hotspot policy before buying.
 
-## Your eSIM speeds: Docomo vs au
+## Which Japanese network is fastest for your trip?
 
 Two things decide the answer here: the speed each carrier delivers where you will be, and the kind of trip you are on. The carrier scores below settle the speed question, and the trip table settles the second.
 
-### How consistent are Rakuten Mobile, SoftBank, au and Docomo
+### How consistent are Rakuten Mobile, SoftBank, au and Docomo?
 
 All figures below come from Ookla's Speedtest Connectivity Report for Japan, collection period July to December 2024, and the carrier-level consistency scores are the figures supplied for this guide.
 
@@ -204,7 +204,7 @@ For context on the country as a whole, Ookla's [Speedtest Global Index](https://
 | Business travel and calls | Docomo or SoftBank | Reliable and broad | Travel eSIMs are data-only, no local number |
 | Multi-region road trip | A multi-network eSIM | Switches as you move | Single-carrier plans show gaps between regions |
 
-### The Japan carrier field
+### Regional coverage: from Hokkaido to Okinawa
 
 Japanese coverage tracks population density — dense in the metros, thinning fast along mountain roads and largely absent on the outer islands. Route by route:
 
@@ -223,7 +223,7 @@ Crossing a border? We publish the same sourced breakdown for [South Korea eSIM p
 
 This is why automatic carrier switching matters on a Japanese trip. A profile that can move between Docomo, au, SoftBank and Rakuten covers the regional gaps that any single-carrier plan cannot.
 
-## The APN Values You Need
+## Do I need to enter APN settings in Japan?
 
 The APN screen matters most on plans bought inside Japan, where the profile does not always carry its own values. Here are the values per carrier, the narrow set of cases needing manual entry, and the exact menus.
 

@@ -110,7 +110,7 @@ The economics favour local carriers on price per gigabyte, but registration is t
 
 Where the carrier route wins is longevity and voice: a +880 number for local ride-hailing and delivery OTPs, top-ups from any shop, and a line that survives a multi-month stay. 💡 For the middle path — instant delivery, no biometrics, and automatic switching across all three networks — that is what [Roami's Bangladesh eSIM](/bangladesh-esim/) is built for.
 
-## Which phones support eSIM
+## Will your phone support a Bangladesh eSIM?
 
 ### Can my phone handle a Bangladesh eSIM?
 
@@ -184,7 +184,7 @@ The sequence is short but unforgiving of missing documents. This is what happens
 
 The biometric reality deserves honest words. The scan happens at an operator counter, on their device. Travellers with worn or unclear fingerprints — common among manual workers, older visitors and anyone with dry skin in winter — have historically hit rejections, and BTRC has formalised a "special method" for those cases. Ask for it rather than retrying until the system locks you out.
 
-## The per-GB number
+## How to buy an eSIM from each Bangladeshi carrier
 
 All three carriers follow the same legal skeleton: biometric registration first, profile second. The counters and apps differ, so here is each route.
 

@@ -39,7 +39,7 @@ The pattern to notice: the first option is the only one whose coverage matches t
 
 If you are weighing a trip with one dominant base — a week of meetings in Frankfurt with a weekend hop to Prague — that is the closest case for a single-country [Germany eSIM](/germany-esim/), because most of your usage sits in one market. Any more movement than that, and the regional math wins.
 
-## The local carriers
+## What do the local prepaid options actually cost?
 
 The three-way comparison above settles the *shape* of the purchase; this section settles the specific products, because even inside the "local operator" column there is a real spread between a French tourist pack that roams across Europe and a German prepaid card that mostly does not. Three names cover most of what visitors actually buy.
 
@@ -87,7 +87,7 @@ Vodafone's prepaid brand deserves one more sentence in this context, because **C
 
 Notice what the ladder says about the rest of the continent: a French or Italian prepaid card costs a fraction of these figures, and the regional travel product sits between the discount brands and the premium networks. None of the local routes gives you more than one country without the EU's roaming rules doing the work — which is precisely the mechanism the next section explains.
 
-## Crossing borders on an eSIM
+## How do EU roaming rules actually work?
 
 The European Union built the most traveler-friendly roaming regime on earth, and understanding it correctly — including who it does not cover — saves you from the most common mistake on this page. The framework is called "roam like at home," it has been in force since 15 June 2017, and it runs to 2032. In plain terms: a customer of a mobile operator in one EU country who travels occasionally in another EU country pays domestic prices for calls, texts and data, with no roaming surcharge.
 
@@ -103,7 +103,7 @@ That sounds like a disadvantage until you look at what the travel product offers
 
 So the honest comparison is not "protected versus unprotected" but "protected and bounded versus unregulated and borderless." For a two-week, four-country trip, the second option wins on practically every dimension a traveler feels. The one exception is the single-country stay, where a local SIM's domestic rates and a real local number still make sense.
 
-## Coverage by Region
+## Which countries does your plan really cover?
 
 A regional plan is only as good as its coverage list, and Europe's geography is full of traps for the unread list. The first rule of buying a Europe eSIM: the plan's list, not the map in your head, defines where you have data. Three markets cause nearly all of the trouble.
 
@@ -127,7 +127,7 @@ Inside the EU and EEA, that handoff repeats at every internal border with no cos
 
 One physical exception worth knowing: the Channel Tunnel itself. There is a stretch of roughly twenty minutes under the Channel where no mobile network reaches, on any plan, on any carrier. The connection drops after Folkestone and returns as the train surfaces in France. Plan around the gap rather than diagnosing it.
 
-## The Europe SIM counter route, step by step
+## When is buying at a counter still worth it?
 
 Every page like this one recommends buying before you fly, and in Europe that advice is right more often than anywhere else. But the counter route has not disappeared, and it is worth knowing exactly what it involves — because for a minority of trips it is genuinely the better product.
 
@@ -160,7 +160,7 @@ The rail loops below are the classic shapes; this table widens the lens to the i
 
 Read the right-hand column as a habit rather than a list of caveats: in Europe, the plan that matches the itinerary is decided by a two-minute check against the country list, and every expensive mistake on this continent traces back to skipping it.
 
-## How a Europe eSIM behaves on the classic rail loops
+## How a regional eSIM behaves on the classic rail loops
 
 Itineraries make this concrete, so here are the three classic European rail shapes, with the connectivity behavior at each hop.
 
@@ -189,7 +189,7 @@ Europe is dense, but density is not uniformity — the dead zones here are speci
 
 Two observations worth carrying. First, none of these gaps is a plan defect — they are identical for the region's own residents, and a premium European network does no better in the Gotthard than a budget travel eSIM. Second, the gaps cluster on trains and mountain trails, which is why the data-planning section below leans so hard on offline downloads: the connection you can rely on is the one at the station and in the hotel.
 
-## Europe eSIM data: how much do you need?
+## How much data do you need for Europe?
 
 European travel is more data-hungry than most trips of the same length, for structural reasons. The continent's transit runs on apps: city metro systems, national rail operators, and journey planners like the ones most visitors keep open all day, all of which refresh maps and timetables continuously. Navigation compounds it — a day of city walking with live maps and transit directions is real usage, and unlike in a single-country trip, you cannot rely on knowing the streets.
 
@@ -197,7 +197,7 @@ Streaming is the swing factor, and trains are where it happens. A few hours of v
 
 Two habits stretch any plan further. First, download offline maps and offline transit timetables for each city at the hotel — the connection you already paid for is better spent at breakfast than rationed on a tram. Second, let your home SIM stay asleep: data roaming off on the home line for the entire trip, so background traffic never bills against you, and your number still receives SMS verification codes over the cellular voice network.
 
-## Europe eSIM speeds by carrier
+## Why do speeds vary so much across Europe?
 
 Speed varies enormously inside Europe — more than any comparable region — which is worth knowing mainly so you can set expectations per leg rather than per continent. Germany leads the pack in our coverage: Ookla's Speedtest Global Index for August 2026 puts its median mobile download at **291.96 Mbps**, fourth in the world, with 17 ms latency. At the other end of the European experience, price and speed rarely correlate: Italy's average gigabyte costs **USD 0.09** — second-cheapest globally in Cable.co.uk's survey — while Switzerland, one of the world's most expensive markets at USD 7.29 per gigabyte, delivers world-class speeds to go with it. Neither price extreme tells you anything about your eSIM's behavior at the border; only the coverage list does that.
 

@@ -296,7 +296,7 @@ The generic error catalogue — a profile that will not download, a scan that fa
 | Data roaming status for the eSIM line | Settings → Cellular → your eSIM line |
 | What you have already tried | Keep a short written list |
 
-## FAQ
+## What travelers ask about eSIMs in Belarus
 
 ### Does MTS Belarus sell eSIMs to tourists?
 
@@ -346,7 +346,7 @@ Reported prices through 2025 cluster around **30–40 BYN** (roughly USD 9–12)
 
 Better than the national average suggests, on both counts. Minsk metro platforms have continuous coverage on all three networks, with the usual short drop between stations. Indoors, band 20 at 800 MHz carries most of the load: it penetrates walls well but runs slower than bands 3 and 7. In older masonry buildings, expect a Belarus eSIM to hold at low speed rather than disappear.
 
-## Which reports this Belarus eSIM guide draws on
+## Which reports this Belarus carrier guide draws on
 
 - **DataReportal — Digital 2026: Belarus** — [the country report](https://datareportal.com/reports/digital-2026-belarus) is where the 11.4 million mobile connections and the 18.55 Mbps median mobile speed originate.
 - **Cable.co.uk worldwide data pricing** — [the 237-market table](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) yields the USD 0.67 average cost per gigabyte and the 66th-place ranking.
@@ -360,7 +360,7 @@ Better than the national average suggests, on both counts. Minsk metro platforms
 
 Third-party measurements only, on schedules we do not control. Your speeds will vary by handset, band and how busy the local cell is.
 
-## Installing your eSIM
+## Installing your Belarus travel eSIM at home
 
 The country's data is among the cheapest measured anywhere; the bureaucracy is what you are buying your way around. Set the profile up at home on Wi-Fi, land in Minsk already connected, and keep your passport for everything else. Start with a [try before you buy](/free-esim/) to test your phone, then [pick your Belarus eSIM plan](/belarus-esim/) — first orders get 20 percent off with code **WEB20**.
 

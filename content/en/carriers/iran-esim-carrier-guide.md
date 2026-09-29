@@ -31,7 +31,7 @@ MCI has the broadest national reach, Irancell is the most visitor-friendly of th
 
 Bring cash in euros or dollars to exchange for rials, register the SIM against your passport, and if you stay beyond roughly 30 days, read the device (IMEI) registration section below before your phone stops working on local networks.
 
-## What usually goes wrong with your eSIM
+## What usually goes wrong with an eSIM in Iran
 
 Start with the failure mode, because it is genuinely different from the rest of the world.
 
@@ -101,7 +101,7 @@ Visitor packages are typically valid for about a month, and shorter or longer op
 
 Note that the sticker price usually covers the SIM itself, not the data. Budget separately for the package and the top-up credit, in cash, and ask specifically whether the counter issues an eSIM profile or a physical card only — the answer varies by operator.
 
-### Can you arrange an Iranian tourist line before you fly
+### Can you arrange an Iranian tourist line before you fly?
 
 Several Iran-focused travel agencies and operator resellers let you **order a tourist SIM online and collect it at IKA**, or have it delivered to your hotel. That is useful if you land at an odd hour or want the paperwork pre-filled.
 
@@ -113,7 +113,7 @@ Iran has three national mobile operators, all licensed and regulated by the coun
 
 Their differences matter less in Tehran, where all three are strong, and more the farther your route strays from it. All three sell tourist products at the airport, and support for a direct carrier-issued Iran eSIM for short-term visitors is newer and less uniform, so confirm the format at the counter or with your reseller before you commit.
 
-### What does MCI (Hamrah-e Aval) offer a visitor
+### What does MCI (Hamrah-e Aval) offer a visitor?
 
 MCI is the oldest and largest operator, tracing back to 1992, and its network is the usual recommendation for itineraries that leave the big cities.
 
@@ -125,7 +125,7 @@ If your trip is the classic Tehran–Isfahan–Shiraz loop, an MCI-attached data
 
 **Its weakness:** carrier-issued eSIM support for short stays is the least predictable part of its product range, so expect a physical card as the default at some counters.
 
-### What does Irancell offer a visitor
+### What does Irancell offer a visitor?
 
 Irancell — part of the MTN group — is the operator most visitors end up with, largely because its visitor eSIM and SIM product has existed the longest and its support handles English and tourist questions routinely.
 
@@ -135,7 +135,7 @@ Irancell — part of the MTN group — is the operator most visitors end up with
 
 **Its weakness:** between the two giants the practical gap is small, so the convenience premium does not buy measurably better coverage on provincial roads.
 
-### What does Rightel offer a visitor
+### What does Rightel offer a visitor?
 
 Rightel is the smallest of the three, with a footprint that concentrates on major urban centers.
 
@@ -152,7 +152,7 @@ Rightel is the smallest of the three, with a footprint that concentrates on majo
 | Tehran-only business stay | Any of the three | Urban coverage is excellent across the board |
 | Heavy rural or desert driving | MCI | Provincial coverage is the safest bet |
 
-## Registering a SIM: What to Expect
+## How SIM registration works for visitors in Iran
 
 Two registration systems operate in Iran, and they are different things that get confused constantly.
 
@@ -256,7 +256,7 @@ Set the local eSIM as the data source so the split between the two stays clean, 
 
 If setup hits trouble mid-trip, our [error-fix guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the standard failure patterns, and the [step-by-step activation guide](/faq/how-to-activate-an-esim/) walks through the install itself.
 
-## Activation steps
+## Activating your Iran tourist eSIM step by step
 
 A locally issued product is registered by the counter staff, which removes the step that defeats most imported eSIM profiles. What remains is the ordinary housekeeping of making one line the data line.
 
@@ -274,7 +274,7 @@ The generic install sequence — adding a profile, scanning the code, labeling t
 - **A local line that worked and then stopped after about a month:** the device registration clock has run out. See the IMEI section above.
 - **A local eSIM with no data after installation:** confirm the Iranian line, not the home SIM, is the selected data line, then toggle airplane mode to force a fresh network attach.
 
-## Working APN entries
+## Do I need to change APN settings in Iran?
 
 Access point settings rarely need attention, but in a market where device support is uneven they are worth understanding before you arrive.
 
@@ -386,7 +386,7 @@ If none of that restores data, the counter or store that issued the line is the 
 
 Everything quoted on this page is a third-party measurement or an officially published statistic, checked when this guide was last updated. Rules around registration and enforcement change; verify the latest requirements before a long stay.
 
-## What a gigabyte costs
+## Plan ahead and land in Iran connected
 
 Iran rewards over-planners: cash exchanged in advance, a locally issued tourist line arranged for IKA, offline maps loaded before the long intercity legs. When you want a data profile that arrives with you, [buy an Iran eSIM plan](/iran-esim/) and install it at home.
 

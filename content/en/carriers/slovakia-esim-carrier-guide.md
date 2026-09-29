@@ -100,13 +100,13 @@ Slovak carrier medians here trace back to [Ookla's H2 2024 Slovakia report](http
 
 
 
-## The mobile market in Slovakia
+## How do Slovakia's mobile networks compare?
 
 
 
 
 
-### Slovakia networks, introduced
+### Slovak Telekom: the fastest network in Slovakia
 
 
 
@@ -367,7 +367,7 @@ That price row is the Slovakia anomaly: fast networks in one of the EU's cheaper
 
 
 
-## The Right Carrier for Your Trip
+## How will coverage hold up as I travel around Slovakia?
 
 
 
@@ -481,7 +481,7 @@ Two things to settle before flying. The first is band support: **B20 and n78** a
 
 
 
-## Plans and Prices, Compared
+## Plans and prices compared across Slovak carriers
 
 
 
@@ -694,7 +694,7 @@ For the remaining cases, see the [troubleshooting checklist](/faq/esim-activatio
 
 
 
-## APNs verified against the networks
+## How do I set the APN for my Slovakia eSIM?
 
 
 
@@ -751,7 +751,7 @@ Plan around both ends of the day. Download maps and lift schedules over accommod
 
 
 
-## Your Slovakia eSIM and carrier mini-FAQ
+## Mini-FAQ: carriers, coverage and costs in Slovakia
 
 
 
@@ -1033,7 +1033,7 @@ Orange and Telekom lead on 5G coverage in populated areas, with O2 close behind 
 
 
 
-## Slovakia eSIM references
+## The sources behind Slovakia's mobile network figures
 
 
 

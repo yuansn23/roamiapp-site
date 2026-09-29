@@ -55,7 +55,7 @@ For a visitor, two realities flatten the choice. First, Estonia is small — you
 | Narva & the eastern border | Telia | Strongest near the Russian frontier; avoids accidental foreign latch |
 | Skiing or hiking in the south (Otepää, Võru) | Telia | 4G reaches the inland valleys the others skip |
 
-## The Estonia eSIM carriers: Telia Estonia and Elisa Estonia
+## What do Telia, Elisa and Tele2 actually charge?
 
 Each of the three runs its own national infrastructure, and each sells prepaid under a distinct brand. Below, who they are, what they charge, and how a visitor actually gets onto them. Prices are the operators' public prepaid rates; confirm at the point of sale, because tourist packs at the airport carry a markup.
 
@@ -123,7 +123,7 @@ A [Tele2](https://www.tele2.ee) Estonia eSIM is the price challenger and fine in
 
 **Quirk:** Tele2's prepaid caps EU roaming hard and its coverage is the weakest of the three outside towns, so it is the right call only if you stay in Tallinn, Tartu or Pärnu and want the lowest price.
 
-## ID Requirements for SIM Purchases
+## Why can't I buy an Estonian eSIM before I fly?
 
 Estonia changed the game on **1 January 2024**: every new prepaid SIM card — physical or eSIM — must be registered to a valid government-issued photo ID. Accepted documents are a **passport or an EU/EEA national ID card**. There are no exemptions for tourists, and the process is done in person at an official operator store (Telia Esindus, Elisa Esindus, or Tele2 Esindus), where staff scan the document and issue the eSIM QR code. A setup fee of roughly €2–5 may apply.
 
@@ -135,7 +135,7 @@ What this means in practice:
 
 Estonia's regulator, the **Consumer Protection and Technical Regulatory Authority (TTJA)**, maintains the national coverage map, and the ID rule is enforced uniformly across all three operators.
 
-## Cross-border coverage
+## Will my eSIM still work outside Estonia?
 
 Estonia is inside the EU/EEA, so "Roam Like at Home" (EU Regulation [2022/612](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0612), guaranteed through 2032) applies. But the details catch visitors:
 
@@ -148,7 +148,7 @@ Estonia is inside the EU/EEA, so "Roam Like at Home" (EU Regulation [2022/612](h
 
 Estonia shares a land border with Russia along the Narva River (Narva and Ivangorod face each other across the water) and around the southeastern Setomaa area. Within a few kilometres of that frontier your phone can latch onto a Russian operator — Megafon, MTS, Beeline or Tele2 Russia — which is **outside the EU/EEA and outside Roam Like at Home entirely**. A local prepaid or even a travel eSIM can silently start billing Russian roaming rates, or simply drop, in those pockets. If your itinerary reaches Narva, Valga (the Latvia side is fine, but the border zone is busy) or the far southeast, switch Network Selection to **manual** and force Telia/Elisa/Tele2 so the phone cannot camp on a Russian tower. This is the one place in Estonia where carrier choice and manual selection genuinely protect your wallet.
 
-## Estonia eSIM speeds: Telia vs Elisa
+## How fast is mobile data in Estonia overall?
 
 These are the national-level figures behind the per-carrier numbers above.
 
@@ -175,7 +175,7 @@ Estonia's 24th-place world rank is a national average. Here is how it actually b
 
 Travelling onward through the Baltic? The same sourced treatment of the neighbouring operators sits in [our Finland guide](/carriers/finland-esim-carrier-guide/), [the Latvia eSIM page](/latvia-esim/) and [the Lithuania eSIM page](/lithuania-esim/).
 
-## Manual APN entry
+## The APN each Estonian network uses
 
 You only need these if you bought a SIM or eSIM **directly from an Estonian carrier** and it did not auto-configure. Travel eSIMs supply their own APN — leave them alone.
 
@@ -204,7 +204,7 @@ Because the 2024 rule puts a Telia, Elisa or Tele2 clerk between you and any loc
 - **The exact spelling your passport prints** — the TTJA record is tied to that name, and a mismatch surfaces later as a failed identity check at the operator rather than at the till.
 - **A note of which document the line went on** — losing the handset means a replacement SIM re-registered against the same passport, so keep the ID page details somewhere you can read them offline.
 
-## Step-by-step activation
+## What should I check before I land in Estonia?
 
 | Check | The Estonian detail behind it |
 |:---|:---|
@@ -271,7 +271,7 @@ Not remotely. Since 1 January 2024 all prepaid SIMs and eSIMs must be registered
 
 **Telia**, with 4G reaching 99%+ of the population and the strongest signal on Saaremaa, Hiiumaa and in Lahemaa and the southeastern forests. If your itinerary leaves the cities, Telia is the safest pick.
 
-### Estonia carriers: roaming rates
+### Do Estonian prepaid plans include EU roaming?
 
 Often not. Elisa and Tele2 core prepaid plans block or limit EU roaming; Telia's Super prepaid cuts the EU allowance to 23 GB of a 200 GB bucket. EU visitors should just use their home SIM under Roam Like at Home; everyone else should pick a travel eSIM that explicitly includes EU/EEA coverage.
 
@@ -309,7 +309,7 @@ Direct means one network, in-person passport registration, and a local +372 numb
 
 [Browse the full FAQ](/faq/)
 
-## Who operates what
+## Where the Estonia numbers come from
 
 - Per-carrier 5G figures: Ookla Speedtest Awards — Estonia (H2 2025), cross-checked via Telecompaper.
 - Prepaid prices: Telia Super (super.ee), Elisa Zen and Tele2 Smart operator pages, cross-checked via the Estonia Connectivity Guide (estoniajourney.com).

@@ -57,7 +57,7 @@ Entel has been running 5G trial "experience zones" in departmental capitals usin
 
 Practically, that means two things. First, ignore any marketing that promises 5G speeds on a Bolivia eSIM; a realistic urban experience is 15–50 Mbps on 4G, which handles navigation, WhatsApp video and HD streaming without drama. Second, band anxiety is mostly unnecessary here: Bolivia's 4G runs on bands (including 700 MHz and 850 MHz) that even modest international handsets support. The compatibility question that matters is whether your phone supports eSIM at all, not whether it has this year's flagship radio. Check it once against the [eSIM compatibility page](/compatibility/) before you buy anything.
 
-## Per-gigabyte pricing
+## Buying a local SIM in Bolivia versus a travel eSIM
 
 All three carriers sell prepaid SIMs, and all three require **in-person registration with your passport** at a branded store — Bolivia has no fully online tourist SIM route. Expect a shop visit in La Paz or Santa Cruz, a photocopy-or-scan of your passport, and a waiting period before the line activates. Local prepaid data is cheap, but the process is built for residents with time to spare.
 
@@ -86,7 +86,7 @@ The market itself is small but connected: DataReportal's 2025 snapshot puts 8.77
 | Potosí | Entel | Signal in the high streets and around Cerro Rico comes mainly from Entel. |
 | Uyuni town | Entel | Entel is effectively the only operator with usable 4G in the gateway town to the salt flats. |
 
-## Carrier Speed Comparison
+## Bolivia coverage region by region: what to expect
 
 The national median hides enormous local variation — this is the honest map.
 
@@ -160,7 +160,7 @@ Bolivia's networks are built for reach, not for speed, and that shows in which f
 
 Two checks before you buy anything. First, confirm the phone is **carrier-unlocked** — a locked handset is the single most common reason an eSIM refuses to install, and no carrier in Bolivia can fix that for you. Second, confirm your exact model, not the marketing name, supports the low bands. [Our eSIM compatibility checker](/compatibility/) does both in one lookup, and if you want the mechanics of what happens during install, [what eSIM activation is and how it works](/faq/what-is-esim-activation-and-how-does-it-work/) covers it.
 
-## APN Settings
+## Does a Bolivian carrier SIM need a manual APN?
 
 The APN below concerns only those who bought a line **straight from a Bolivian carrier**. A travel eSIM arrives with its own profile and its own APN; changing anything in that case is how people break a working connection.
 
@@ -177,7 +177,7 @@ Leave username and password empty unless the activation pack that came with the 
 
 Save, then restart the handset. If data still fails, confirm the eSIM — not your home line — is the one selected for mobile data before changing anything else. On a dual-SIM phone a Bolivian profile that never activates is more often a data-line mistake than a network problem.
 
-## Passport and ID Rules for SIMs
+## What ID you need to buy a SIM in Bolivia
 
 Bolivia is one of the few Latin American markets where buying locally is genuinely cheap and genuinely tiresome, and the gap between the two routes is a matter of hours rather than dollars.
 
@@ -191,7 +191,7 @@ Bolivia is one of the few Latin American markets where buying locally is genuine
 
 Bolivia's carriers have been slow to open eSIM to prepaid and tourist lines, so assume a **physical SIM card** if you buy locally. That is a real structural difference from Chile, Peru or Colombia, where a visitor can self-serve an eSIM in an app — and it is the single strongest argument for arriving with a travel profile already installed. Compare the neighbouring routes in our [Peru eSIM guide](/carriers/peru-esim-carrier-guide/) and [Chile eSIM options](/chile-esim/) if Bolivia is one leg of a longer Andean loop.
 
-## Which Carrier Should You Pick?
+## Sizing your data allowance for a Bolivia trip
 
 Bolivian data is priced for residents and consumed modestly; the risk is not running dry on a city break, it is running dry on a multi-day tour with no Wi-Fi and no signal.
 
@@ -248,7 +248,7 @@ A travel eSIM is not a carrier of its own. It holds roaming agreements with one 
 
 Check the handset against the [eSIM compatibility guide](/compatibility/) first, then pick a profile whose carrier list includes Entel — outside the cities, that is the name that matters.
 
-## Bolivia eSIMs: frequently asked questions
+## Questions travelers ask about Bolivian eSIMs
 
 ### Does any eSIM work on the Salar de Uyuni?
 
@@ -358,7 +358,7 @@ From the provider's app, on whatever Wi-Fi you last passed through — a hotel i
 
 One profile covers both, and it will not behave the same way in either. A multi-network [Bolivia eSIM](/bolivia-esim/) attaches to whichever of Entel, Tigo or VIVA is strongest in each place, which is the closest thing to continuity available here — the gaps on the salt flat and in the Yungas are coverage gaps on every network, not eSIM failures.
 
-## Where These Numbers Come From
+## Where these numbers come from
 
 Every number on this page traces back to a published source. The table maps them one to one. Every update to this page starts with re-running this source list, not with new marketing copy.
 

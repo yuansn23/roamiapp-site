@@ -45,7 +45,7 @@ The best carrier still leans on the profile install behind it — if either part
 
 
 
-## Which carriers host your eSIM
+## Which carriers host your eSIM in Italy?
 
 
 
@@ -187,7 +187,7 @@ Anything beyond this is device specific rather than carrier specific. Check your
 
 
 
-## Pricing compared
+## What tourist data plans cost in Italy
 
 
 
@@ -243,7 +243,7 @@ Iliad's **Giga 150** plan gives 150 GB of 5G, unlimited calls and EU roaming und
 
 
 
-### Who runs mobile networks in Italy
+### Who runs mobile networks in Italy?
 
 
 
@@ -293,7 +293,7 @@ New customers can apply code **WEB20** for 20% off when they [get an Italy eSIM 
 
 
 
-## The eSIM carriers: TIM, Vodafone and WINDTRE
+## How TIM, Vodafone, WINDTRE and Iliad compare on speed
 
 
 
@@ -401,7 +401,7 @@ Automatic switching between operators is what makes this practical. A profile th
 
 
 
-## Entering the APN
+## How do I set the APN for an Italian SIM?
 
 
 
@@ -469,7 +469,7 @@ After saving, restart the phone. Should data still fail, verify the selected dat
 
 
 
-## Install, activate, verify: Italy eSIM steps
+## Getting your Italy eSIM installed and working
 
 
 
@@ -603,7 +603,7 @@ TIM, on the evidence and on the ground. Its low band n28 at 700 MHz propagates t
 
 
 
-### Italy eSIM plans, priced
+### Do I need an Italian tax code to buy a SIM?
 
 
 

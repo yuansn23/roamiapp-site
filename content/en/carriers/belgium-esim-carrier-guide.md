@@ -21,7 +21,7 @@ Belgium is the densest mobile market most travelers will ever visit: 12 million 
 
 The market runs on three mature networks and no fourth challenger with its own towers, so the practical questions are narrower than they look: what does each network actually win, what changes when you leave the city triangle, and how do you legally get a Belgian line if you want one. This page answers all three, in that order.
 
-## Which eSIM carrier should your phone join?
+## Which Belgian network should your eSIM use?
 
 Data source: [Ookla Speedtest Connectivity Report, Belgium H1 2025](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025).
 
@@ -89,7 +89,7 @@ Two numbers explain why this market feels so uniform. First, the overall speed s
 
 The one place urban parity breaks down is congestion. Around the EU quarter and Schuman during weekday mornings, thousands of roamers and commuters pile onto the same cells; the same happens at Brussels Airport during arrival waves and on the Grand Place on summer evenings. If speeds dip there, switching networks rarely fixes it — the problem is the crowd, not the carrier.
 
-## The network owners
+## What each Belgian network offers a visitor
 
 If you are choosing between the three rather than letting your Belgium eSIM grab the nearest tower, this is where the measured differences land. Each entry covers what the network wins, how a visitor buys into it, what it costs, and what goes wrong.
 
@@ -178,7 +178,7 @@ Two practical consequences follow. First, the apps a Belgium eSIM has to keep al
 | North–South rail junction, central Brussels | Regular short blackout in the tunnels | Queue your ticket download before you descend |
 | Brussels Airport arrivals | Proximus, Orange and BASE counters, physical SIMs only | Install the eSIM at home instead of queueing on arrival |
 
-## Using the eSIM abroad
+## How EU roaming rules affect your eSIM in Belgium
 
 This is the section most visitors get wrong, and the error runs in one direction.
 
@@ -225,7 +225,7 @@ Belgian prepaid SIMs are sold through more channels than most countries, and the
 
 The trade-off is the same one you face in France: a direct Belgian SIM gives you a real +32 number and voice service, while a travel eSIM gives instant delivery, data-only service, and — importantly — the right to connect without registering with a Belgian operator. For most visitors, the second trade is obviously favorable. Our [Belgium eSIM plans](/belgium-esim/) provision automatically against these networks, and a [try before you buy](/free-esim/) lets you test the setup before you pay for anything.
 
-## Phone Compatibility
+## What Belgium's 3G shutdown means for your phone
 
 Belgium is further through the legacy switch-off than most of Europe, and the order is unusual: 3G went first.
 
@@ -243,7 +243,7 @@ Belgian operators deploy 4G on band 20 (800 MHz), band 3 (1800 MHz) and band 7 (
 
 One Belgium-specific note: BIPT has confirmed the industry's timeline to switch off 2G — Orange, Proximus and Telenet/BASE will retire their 2G networks in 2028 and 2029. If you carry an old backup phone or a 2G-only tracker or alarm device, it will not survive long in Belgium. For everything modern, the only checks that matter before buying a Belgium eSIM are handset support and carrier lock; run your model through the [eSIM compatibility quiz](/compatibility/) and, if you want to understand what actually happens when a profile installs, our explainer on [how an eSIM profile installs](/faq/what-is-esim-activation-and-how-does-it-work/) covers the mechanics.
 
-## Belgium eSIM APN settings
+## Will I need to change the APN in Belgium?
 
 You should not normally touch APN settings on a travel eSIM — the profile carries its own. They matter if you buy direct from a Belgian carrier and automatic configuration fails:
 
@@ -325,7 +325,7 @@ General activation errors — a profile that will not download, a scan that fail
 | Data roaming status | Settings → Cellular → your eSIM line |
 | Steps already tried | Keep a short written list |
 
-## Belgium eSIM speeds: Proximus vs Orange
+## Mobile speeds and data prices in Belgium
 
 Ookla's Speedtest Global Index put Belgium's median mobile download at **139.84 Mbps** in August 2026 — 25th worldwide and comfortably above the global median of 109.05 Mbps. Local data costs about **USD 2.23 per GB** (166th of 237 markets Cable.co.uk tracks), so buying data locally is not a bargain, but it is not a rip-off either. If your trip continues beyond Belgium, the same measurement approach applies in our [France eSIM carrier guide](/carriers/france-esim-carrier-guide/), and the neighboring markets are covered in our [Netherlands eSIM](/netherlands-esim/) and [Luxembourg eSIM](/luxembourg-esim/) guides — useful if you are stitching Brussels into a Eurostar or Thalys itinerary.
 
@@ -337,7 +337,7 @@ Belgian prepaid is **credit-based**. You recharge in steps and the data allowanc
 
 Where buying locally wins is longevity and voice. A Belgian prepaid line gives you a real +32 number that still works in month six, plus domestic voice service that a data-only travel eSIM cannot provide. If your trip is measured in months, or you need a Belgian number for banking apps and appointments, the arithmetic flips. If it is measured in days, it does not.
 
-## Best eSIM carrier for your trip
+## Crossing the border on a day trip from Brussels
 
 Belgium's position is its best feature for a short trip and its worst feature for a country-locked plan. High-speed trains leave Brussels for four countries, and the handover at each border is automatic — but a Belgium-only profile simply stops working, usually without an obvious announcement beyond a text message from your provider.
 
@@ -352,7 +352,7 @@ Two habits fix this. First, if more than one country is on the itinerary, buy a 
 
 One detail inside the zone: handover can take a few minutes on a train or a road crossing rather than at an airport, so a short stretch of no service after a border is normal, not a fault. A network you selected manually in the last country will also block the handover — which is the one case where manual selection works against you.
 
-## Belgium eSIM FAQ
+## Belgium carrier eSIM FAQ
 
 ### Proximus vs Orange: which is better in Belgium?
 

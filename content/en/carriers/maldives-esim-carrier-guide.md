@@ -23,7 +23,7 @@ If the profile will not install, no speed chart or coverage map will save the tr
 
 **The verdict up front:** Staying at a resort or hopping local islands? **Dhiraagu** has the wider footprint across atolls and is the safer default for anywhere beyond Malé. Spending your first nights in Malé or Hulhumalé and want the fastest city speeds? **Ooredoo** wins there. Both sell tourist eSIMs directly (passport + selfie, QR by email), and both are expensive versus a travel eSIM that pre-loads before you fly. Most importantly: **resort Wi-Fi is not a plan** — transfers, sandbanks and boat excursions have no signal at all, so an eSIM that lands on Dhiraagu is what keeps you reachable. [free eSIM trial](/free-esim/) tests both networks at no cost; apply code **WEB20** for 20% off [Maldives eSIM plans](/maldives-esim/).
 
-## Maldives eSIM basics
+## Why geography decides your carrier in the Maldives
 
 The Maldives is not a country you drive across — it is a nation of coral islands scattered across 26 atolls, and your only links between them are speedboats and seaplanes. That geography decides everything about Maldives eSIM carrier choice.
 
@@ -45,7 +45,7 @@ The honest summary: Ooredoo is the capital-city network; Dhiraagu is the everywh
 | APN | `internet` | `internet` |
 | Best for | Resorts, local islands, liveaboards | Capital-region city stays |
 
-## The local carriers: Dhiraagu and Ooredoo
+## Dhiraagu and Ooredoo, carrier by carrier
 
 ### Dhiraagu eSIM coverage
 
@@ -74,7 +74,7 @@ MVR figures are from [published Maldives tourist SIM pricing](https://simguidetr
 
 **Quirks:** no residence permit needed, but the foreign-passport registration step is non-negotiable; plan for a single-use QR; and remember CAM caps a foreign individual at **three mobile numbers per operator**.
 
-### Dhiraagu vs Ooredoo: which Maldives carrier is faster?
+### Ooredoo tourist plans and coverage
 
 **Best for:** Travellers basing themselves in Malé or Hulhumalé, and anyone who wants the strongest urban speeds for the first day or two.
 
@@ -122,7 +122,7 @@ Six things decide whether a Maldives tourist eSIM clears registration — and on
 
 And one non-document reality worth repeating: **resort Wi-Fi is not a plan.** Treat the eSIM as the only signal you can count on once you walk past the lobby.
 
-## Best local eSIM carrier for your trip: Dhiraagu vs Ooredoo
+## Dhiraagu or Ooredoo for your itinerary?
 
 Eight common Maldives routes, and the network each one favors for your Maldives eSIM:
 
@@ -139,7 +139,7 @@ Eight common Maldives routes, and the network each one favors for your Maldives 
 
 A multi-network eSIM is the practical answer to "which carrier" — it picks Dhiraagu on the remote atoll and Ooredoo in Malé without you buying twice.
 
-## Maldives eSIM coverage: Dhiraagu vs Ooredoo
+## Where you get signal, atoll by atoll
 
 | Region | Reality on the ground | Best carrier | Watch out for |
 |:---|:---|:---|:---|
@@ -156,7 +156,7 @@ Flying on from Malé? The same sourced method carries across the [India eSIM pla
 
 💡 The carrier that wins in Malé is rarely the best on your resort atoll. A multi-network eSIM is what makes that switch for you.
 
-## Maldives eSIM speeds: Dhiraagu vs Ooredoo
+## What the numbers say about speed and price
 
 Ookla's Speedtest Global Index [publishes no median mobile or fixed figure for the Maldives](https://www.speedtest.net/global-index/maldives) — the country's entry shows N/A — so we quote no national download figure rather than estimate one. What we can state with sources:
 
@@ -164,7 +164,7 @@ Ookla's Speedtest Global Index [publishes no median mobile or fixed figure for t
 - **Market maturity:** DataReportal counts the Maldives at [84.7% online with 162% mobile-connection penetration](https://datareportal.com/reports/digital-2025-maldives) — more active mobile connections than people, which reflects tourist and dual-SIM usage.
 - **Carrier quality:** Dhiraagu led Ookla's Maldives reporting on video reliability and latency; Ooredoo leads on capital-region speed. Independent per-carrier mobile speed benchmarks for the Maldives are limited, so treat city-speed claims as indicative, not measured-to-the-Mbps promises.
 
-## APN entry by hand
+## Do I need to type an APN in the Maldives?
 
 You will only need these if you bought a Maldives eSIM or a physical SIM **directly from a Maldivian carrier**. If you are on a travel eSIM, the profile supplies its own APN and you should not change anything.
 
@@ -191,21 +191,21 @@ This is the handover gap, not a defective profile. An eSIM pinned to Ooredoo tha
 
 If a manual selection shows Dhiraagu with no data at all, the problem has moved from coverage to configuration — and on a tourist eSIM the profile should already have supplied the APN, so that is a carrier question rather than a settings one.
 
-### Who asks for ID in Maldives SIM shops?
+### When passport verification stalls your order
 
 Dhiraagu and Ooredoo will not issue a tourist eSIM until a passport upload has been matched against a live selfie. Glare across the document, a cropped corner, or a name that does not line up with the booking hold the order at verification — which means no profile is generated, so there is genuinely nothing to scan. Chase the registration status with the carrier instead of assuming a lost email; both operators can see exactly where the check stalled.
 
 The same rule catches groups: verification is per person, so four travellers need four passports and four selfies, not one upload copied across the booking.
 
-### Is SIM registration mandatory in Maldives?
+### When the three-SIM cap catches you out
 
 CAM allows a foreign individual three mobile numbers per operator, and a number left active from a previous trip counts against that ceiling. A traveller who kept an old Maldivian SIM alive, or who stacked a free trial on top of a purchased plan, can be turned away at registration with no obvious reason given. Check what is already registered to your passport before buying another number.
 
-### Dhiraagu vs Ooredoo: coverage compared
+### Why you lose signal mid-transfer
 
 Speedboat and seaplane legs are absolute dead zones: no tower watches open water, and resort Wi-Fi stays behind on the island. Losing the connection mid-transfer is expected behaviour, not a fault. Send messages, settle your next steps and download maps before you board; the profile reattaches by itself the moment the boat meets the far jetty.
 
-## ID Rules for SIM Registration
+## ID rules for Maldives SIM purchases
 
 The paperwork is where first-time visitors lose the most time, so it is worth knowing what the rules look like before you queue.
 
@@ -220,7 +220,7 @@ The paperwork is where first-time visitors lose the most time, so it is worth kn
 - **Ooredoo direct eSIM or airport counter:** the same verification, plus a queue that builds after large arrivals — and the packs' bundled social data is wasted anyway once you are on a boat.
 - **Travel eSIM:** nothing to upload, but it will attach to whichever of the two networks is nearest, so it inherits the atoll gaps described above.
 
-### Maldives eSIM questions, answered
+### What Maldives support will ask you first
 
 Keep these to hand before you open a chat — the first question is always where you were standing.
 

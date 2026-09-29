@@ -65,7 +65,7 @@ The low-friction option is a travel eSIM installed at home: check your phone on 
 
 
 
-## Which Tunisia eSIM fits your trip
+## Which Tunisia eSIM fits your trip?
 
 
 
@@ -317,7 +317,7 @@ Treat that consistency figure as the closest thing this market has to a "does it
 
 
 
-## Plan comparison: price
+## What is buying a local SIM at the airport actually like?
 
 
 
@@ -381,7 +381,7 @@ Never buy from informal street vendors — every SIM must be registered to a pas
 
 
 
-## The mobile networks in Tunisia
+## What are Tunisia's mobile networks actually like?
 
 
 
@@ -479,7 +479,7 @@ If your route continues west, the same logic applies to [Algeria](/algeria-esim/
 
 
 
-## APN entries by network
+## What APN settings does my Tunisia eSIM need?
 
 
 
@@ -555,7 +555,7 @@ If the profile installs but still refuses to connect, work through the [troubles
 
 
 
-## Local SIM vs Travel eSIM Costs
+## Local SIM vs travel eSIM costs
 
 
 
@@ -663,7 +663,7 @@ If it still fails, the ordered fixes sit in the [activation troubleshooting guid
 
 
 
-## The question list
+## Tunisia eSIM questions and quick answers
 
 
 
@@ -699,7 +699,7 @@ No — travel eSIMs are data-only. Calls and SMS verification codes continue on 
 
 
 
-### Which Tunisia eSIM suits your trip
+### Which Tunisia eSIM suits your trip?
 
 
 
@@ -727,7 +727,7 @@ Enable the line, confirm it is the selected data line, toggle data roaming on, t
 
 
 
-### Tunisia's mobile networks
+### Which operator should I choose for the south?
 
 
 

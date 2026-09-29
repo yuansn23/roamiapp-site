@@ -77,7 +77,7 @@ One number that surprises visitors: by ANRT's own count of active mobile subscri
 
 
 
-## The Morocco eSIM carriers: Maroc Telecom, inwi and Orange Morocco
+## How Maroc Telecom, inwi and Orange compare
 
 
 
@@ -85,7 +85,7 @@ Each carrier is measurably good at something different. Here is what the Ookla 2
 
 
 
-### Maroc Telecom vs inwi: which is better in Morocco?
+### The case for Maroc Telecom
 
 
 
@@ -137,7 +137,7 @@ The carrier's fixed network leads the market too: fastest ISP with a Speed Score
 
 
 
-### Who sells mobile service in Morocco
+### What Orange Morocco is actually good at
 
 
 
@@ -191,7 +191,7 @@ One setup note that Maroc Telecom states directly: no manual configuration is ne
 
 
 
-### Can you buy a Morocco eSIM from Maroc Telecom?
+### What each Essentiel tier actually buys
 
 
 
@@ -235,7 +235,7 @@ The QR is reusable across your own compatible devices at no extra cost, so a tab
 
 
 
-### Where the Orange Essentiel line is weak
+### Where the Essentiel tiers fall short
 
 
 
@@ -317,7 +317,7 @@ Practical consequences:
 
 
 
-### Purchase options for Morocco eSIMs
+### Buying a physical SIM at a counter, step by step
 
 
 
@@ -365,7 +365,7 @@ The Agence Nationale de Réglementation des Télécommunications is the licensin
 
 
 
-## Morocco eSIM coverage: Maroc Telecom vs inwi
+## What the city-by-city speed data shows
 
 
 
@@ -475,7 +475,7 @@ The 5G timetable itself is now published. [The ANRT awarded licences](https://de
 
 
 
-## Regional Coverage
+## Where coverage holds, from the medina to the desert
 
 
 
@@ -621,7 +621,7 @@ Cafés in Gueliz, Casablanca's business districts and central Rabat function as 
 
 
 
-## Neighboring-Country Roaming
+## Crossing to Spain, and the closed Algerian border
 
 
 
@@ -669,7 +669,7 @@ One Morocco-specific quirk: dual-SIM travelers should keep the home SIM active f
 
 
 
-## Activating your eSIM
+## Getting your line live, from QR to first call
 
 
 
@@ -691,7 +691,7 @@ Errors that survive those steps — a profile that won't download, a QR that's a
 
 
 
-### The Morocco activation process
+### Run these five checks before you fly
 
 
 
@@ -715,7 +715,7 @@ Run this list at home, on Wi-Fi, the day before you fly. It takes four minutes a
 
 
 
-### Which Morocco carrier should you pick: Maroc Telecom vs inwi?
+### Four ways to end up with a Moroccan line
 
 
 
@@ -729,7 +729,7 @@ Run this list at home, on Wi-Fi, the day before you fly. It takes four minutes a
 
 
 
-### APN values for Maroc Telecom, inwi and Orange Morocco eSIMs
+### Do you need APN settings in Morocco?
 
 
 
@@ -855,7 +855,7 @@ Maroc Telecom customers can also reach the carrier directly: dial **555** for to
 
 
 
-## Which route costs less
+## How cheap is Moroccan data, really?
 
 
 

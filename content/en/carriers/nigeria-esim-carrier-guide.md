@@ -41,7 +41,7 @@ If you first need to confirm your phone can hold an eSIM at all, run it through 
 
 
 
-## The eSIM carriers: MTN, Airtel and Glo
+## Who runs Nigeria's mobile networks?
 
 
 
@@ -67,7 +67,7 @@ The technology mix explains a lot of what you will feel on the ground: 4G carrie
 
 
 
-## Nigeria eSIM speeds: MTN vs Airtel
+## How fast are MTN, Airtel and Glo in Nigeria?
 
 
 
@@ -177,7 +177,7 @@ Three things are worth pulling out. First, **ipNX — not a mobile carrier — i
 
 
 
-### Trip-type picks: Nigeria eSIMs
+### Which eSIM plan fits your Nigeria trip?
 
 
 
@@ -365,7 +365,7 @@ Four things follow from that table.
 
 
 
-## ID Rules for SIM Registration
+## What ID do you need to register a Nigerian SIM?
 
 
 
@@ -457,7 +457,7 @@ If your itinerary stretches across West Africa and beyond, note that a Nigeria-o
 
 
 
-## Which plan buys the most data?
+## How do bundle prices, top-ups and expiry work in Nigeria?
 
 
 
@@ -549,7 +549,7 @@ The practical consequence for a traveler: a Nigerian SIM bought on one trip and 
 
 
 
-## Nigeria eSIM coverage: MTN vs Airtel
+## Staying connected on a business trip to Lagos or Abuja
 
 
 
@@ -593,7 +593,7 @@ Nigerian business travel has one recurring failure mode: the room's internet is 
 
 
 
-## How Many Gigabytes Do You Need?
+## How much data does a Nigeria trip actually need?
 
 
 
@@ -625,7 +625,7 @@ Nothing in Nigeria works without a data connection, and transport makes the poin
 
 
 
-## Nigeria eSIM APN settings for the four networks
+## Do I need APN settings for MTN, Airtel, Glo and T2?
 
 
 
@@ -651,7 +651,7 @@ Enter them only if you bought directly from the carrier. A travel eSIM carries i
 
 
 
-## Compatibility: bands and carrier locks for a Nigeria eSIM
+## Will my phone work on Nigeria's 4G and 5G bands?
 
 
 
@@ -733,7 +733,7 @@ The last line is the Nigeria-specific one. Because the market is so concentrated
 
 
 
-### Quick Nigeria eSIM answers
+### What to have ready before contacting eSIM support
 
 
 
@@ -759,7 +759,7 @@ The last line is the Nigeria-specific one. Because the market is so concentrated
 
 
 
-## Local SIM vs Travel eSIM: The Cost Math
+## Is a local Nigerian SIM cheaper than a travel eSIM?
 
 
 
@@ -783,7 +783,7 @@ That is the honest trade. The saving on a local SIM is real but small in absolut
 
 
 
-## Crossing Borders with Your eSIM
+## Crossing Nigeria's borders with your eSIM
 
 
 
@@ -811,7 +811,7 @@ A Nigeria eSIM stops at the first frontier, and Nigeria has four of them. Each h
 
 
 
-## Nigeria eSIM FAQs
+## Frequently asked questions about eSIMs in Nigeria
 
 
 
@@ -831,7 +831,7 @@ Only if you are legally resident. Foreigners living or working in Nigeria for tw
 
 
 
-### Nigeria's mobile operators, listed
+### Which mobile operator should you choose in Nigeria?
 
 
 
@@ -959,7 +959,7 @@ Third-party figures, collected on their own refresh cycles. Use them to size up 
 
 
 
-## Get your Nigeria eSIM ready before you fly
+## Get your eSIM ready before you fly to Nigeria
 
 
 

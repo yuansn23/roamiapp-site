@@ -111,7 +111,7 @@ Two details in that table decide value more than the headline size. Claro's **10
 
 Ecuador's telecom regulator is **ARCOTEL**, which licenses operators, publishes market data and maintains the national numbering and coverage frameworks.
 
-## Buying a Local eSIM
+## Is it worth buying direct from an Ecuadorian carrier?
 
 Ecuador makes both routes unusually painless by regional standards: no local address is demanded, prices are in dollars, and prepaid registration takes minutes. The trade is still real.
 
@@ -228,7 +228,7 @@ Cuenca is the long-stay base in Ecuador, and it is the one itinerary where a loc
 
 The friction that catches travelers is payment rather than paperwork. Ecuadorian top-up flows are built around locally issued cards, so **foreign cards fail more often here than in the store queue**, and the dependable routine is cash or an in-person card payment for the first bundle, with the operator's app used afterwards. The second friction is channel: airport kiosks charge a premium for a smaller bundle, while city stores in Quito, Guayaquil and Cuenca carry the full catalogue. If your first day is a transfer to the Galápagos or the Oriente, buy before you fly instead — a roaming profile needs no counter at all.
 
-## APN settings for your eSIM
+## Why you should leave your APN alone in Ecuador
 
 Most travelers never touch an APN in Ecuador, and that is the intended design. A travel eSIM profile ships with its own preloaded access-point settings — editing them is the classic way to break a working line. A carrier-issued eSIM or physical SIM is provisioned in store, and the clerk's activation step normally writes the correct configuration to the phone automatically.
 
@@ -248,7 +248,7 @@ The standard install — save the QR code, add the profile on Wi-Fi, name the li
 
 **D. Nothing in the Galápagos outside town.** No profile fixes this. Within Puerto Ayora, Puerto Baquerizo Moreno and Puerto Villamil, coverage is usable on Claro or Movistar; at Tortuga Bay, on the ferry between islands and at every park visitor site, there is no signal on any network. Schedule uploads for evenings in town.
 
-### FAQs about Ecuador eSIMs
+### The details support will ask you for
 
 | Details we need | Where to find it |
 |:---|:---|
@@ -325,7 +325,7 @@ They have been a recurring promotion — Tuenti, on the Movistar network, built 
 
 Every figure is a third-party measurement, so your own speeds will shift with handset, band and cell load. Carrier prepaid prices are publicly listed 2026 figures and move with promotions.
 
-## Get your Ecuador eSIM ready before you fly
+## Land in Quito or Guayaquil already connected
 
 Claro's reach carries you through the Oriente, Movistar's consistency holds the Andean corridor, and Galápagos coverage works inside Puerto Ayora, Puerto Baquerizo Moreno and Puerto Villamil. Install at home, land connected in Quito or Guayaquil, and skip the passport queue — [choose an Ecuador eSIM](/ecuador-esim/) now, or [test the networks free](/free-esim/) and use code **WEB20** for 20% off a first plan.
 

@@ -45,7 +45,7 @@ If you have not yet confirmed that your phone accepts an eSIM profile, run your 
 
 
 
-## Who Runs the Networks
+## Can I buy directly from Ethio Telecom or Safaricom?
 
 
 
@@ -117,7 +117,7 @@ For a normal holiday the travel eSIM wins on time, not only on money. The regist
 
 
 
-## Choosing Your Carrier
+## Which carrier fits my Ethiopia itinerary?
 
 
 
@@ -143,7 +143,7 @@ One profile, two networks: a multi-network Ethiopia eSIM re-selects the stronger
 
 
 
-## The local carriers
+## What separates Ethio Telecom from Safaricom?
 
 
 
@@ -219,7 +219,7 @@ Worth being precise, because "internet shutdown" sounds more dramatic than it us
 
 
 
-## The Registration Process
+## Why is every Ethiopian SIM tied to my passport?
 
 
 
@@ -247,7 +247,7 @@ The regulator itself, the [Ethiopian Communications Authority](https://eca.et), 
 
 
 
-## Speeds by Carrier
+## How fast will my data actually be in Ethiopia?
 
 
 
@@ -375,7 +375,7 @@ The third route has a catch worth knowing: a locally bought line needs in-person
 
 
 
-## Phone checks before an Ethiopian eSIM
+## Will my phone work with an Ethiopian eSIM?
 
 
 

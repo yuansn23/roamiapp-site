@@ -48,15 +48,15 @@ Two practical notes from travelers who have done it: the form takes a few minute
 
 The registration paperwork is easy; payment is where visitors get stuck. The airport counters accept international Visa and Mastercard, which covers most arrivals, but the cash window is rupees-only — TravelTomTom's Kathmandu Airport guide is explicit that US dollars and euros are not accepted at the SIM shops. That creates a specific sequencing problem: the money-change counters sit near the SIM counters, so change USD 20–50 into rupees first (or use the airport ATM), then queue for the SIM with a few hundred NPR in hand plus your card as backup. In city stores outside Kathmandu, assume cash-NPR-only and card terminals being "temporarily down." Keep small notes — SIM plus a data package rarely exceeds NPR 2,000 (~USD 15), and retailers rarely have change for NPR 5,000.
 
-### What Nepal SIM registration asks of you
+### Three ways registration goes wrong at the counter
 
 1. Skipping the photo. Travelers who wave off the passport photo step at the counter often find the SIM deactivates days later when the registration audit fails. Let them take the NPR 50 photo.
 2. Losing the registration receipt. The SIM receipt is your proof the line is registered to you — spot UCC-style audits and re-registration drives do happen in Nepal, and unregistered lines are disconnected without it.
 3. Registering in someone else's name. "My guide will register it for me" is the classic move that turns into an account-recovery nightmare the moment a pack fails or a QR must be reissued.
 
-## Ncell vs NTC: Which local carrier to pick
+## Should you pick Ncell or NTC?
 
-### Ncell vs Nepal Telecom NTC: which is better in Nepal?
+### Ncell, the city and gateway-town network
 
 Ncell is Nepal's largest private operator (Axiata group) and built its reputation on fast urban 4G in Kathmandu, Pokhara and the tourist corridor. It is the network travelers meet first: the airport counter is efficient, the bundles are generous, and 4G in Thamel or Lakeside is genuinely good. It thins out quickly once the road climbs past the last market town.
 
@@ -83,7 +83,7 @@ Prices come from [TravelTomTom's Nepal prepaid SIM comparison](https://www.trave
 
 **Ncell quirks:** the starter SIM ships with a small credit and 1 GB for 3 days; app-based top-ups run through the My Ncell app; per-app social media plans (TikTok, YouTube) exist but are irrelevant for a short trip; eSIM QRs are issued in-store after registration, not online from abroad.
 
-### The carriers operating in Nepal
+### Nepal Telecom, the network that reaches higher
 
 NTC (Namaste) is the state-owned incumbent and the universal-service operator — which in practice means more towers strung along remote valleys, mountain roads and rural highways than any competitor. It is slower in the cities but keeps a signal where Ncell has none, and its airport counter hands tourists a free starter SIM.
 
@@ -125,7 +125,7 @@ Smart Telecom holds a licence and sells cheap physical SIMs in Kathmandu and the
 - Time in hand during October–November — the Tribhuvan Ncell and NTC desks queue behind every arriving tour group
 - The profile installed before departure — for a travel eSIM, install on home Wi-Fi; airport Wi-Fi is congested exactly when everyone lands
 
-## The local carriers: Ncell, Nepal Telecom NTC and Smart Cell
+## Which network survives the trekking routes?
 
 Coverage splits cleanly by altitude. Ncell built its reputation on fast urban 4G; NTC built its network as the universal service obligation carrier, which means more sites strung along remote valleys and high passes. Away from the cities the pattern is consistent:
 
@@ -174,7 +174,7 @@ Real itineraries, decided in one line each — the table is the shortcut if you 
 | Lumbini & the Terai plains | Smart Cell or NTC | Cheap local coverage along the southern corridor | Ncell is fine in Lumbini town itself |
 | Nepal → India overland (Sunauli/Birgunj) | Buy an India eSIM before the border | Nepal SIMs do not roam meaningfully in India at local prices | Nepali data packs stop at the border post |
 
-## Your Data Budget
+## How fast and how cheap is data in Nepal?
 
 Ookla's [Speedtest Global Index for Nepal](https://www.speedtest.net/global-index/nepal) does not publish a separate Nepal mobile median in its public country view (the mobile row returns no figure), so we lean on the fixed-broadband number as the backhaul proxy and on older operator-level Ookla data for the per-carrier read:
 
@@ -194,7 +194,7 @@ Ookla's [Speedtest Global Index for Nepal](https://www.speedtest.net/global-inde
 | Family sharing one hotspot | 40 GB+ | Buy the biggest airport bundle and split it |
 
 
-## APN settings for Nepal
+## Do I need APN settings for Ncell or NTC?
 
 You only need these if you bought an eSIM **directly from Ncell or NTC**. A travel eSIM configures its APN automatically — nothing to change here.
 
@@ -210,7 +210,7 @@ If NTC data fails on a manually installed profile, try `ntnet` first, then `inte
 
 A dead eSIM on a Nepali network is rarely a mystery. The generic faults — a QR that reads as already-used, a profile frozen mid-download, an eSIM that installs but never registers — are covered in our [eSIM activation fixes guide](/faq/esim-activation-errors-troubleshooting-guide/), and the plain install order (add the eSIM, scan, name the line, hand it mobile data, switch roaming on) sits in the [the activation how-to](/faq/how-to-activate-an-esim/). What follows is only the short list of ways a Nepal eSIM fails *here*.
 
-### What are the registration rules in Nepal?
+### When the QR scans but sits dead for an hour
 
 The Nepal-specific trap. An Ncell or NTC eSIM cannot provision until the counter clerk has logged your passport in the NTA system, and that entry can lag behind the QR you were handed — a code that scanned cleanly at the airport may sit dead for an hour. Confirm with the counter that the registration is live before you blame the handset. On a Roami travel eSIM there is no registration step at all, so this failure cannot occur.
 
@@ -258,7 +258,7 @@ Nepali carrier support works from the registration record, not a web order, so k
 
 Two border realities matter. First, Nepali SIMs do not carry usable Indian service: the moment you cross at Sunauli–Bhairahawa, Birgunj or Kakarbhitta, your Ncell/NTC data pack stops, and international roaming rates apply. Buy an [India](/india-esim/) before the border if your route continues south. Second, the reverse flow is why Nepali registration is strict — cross-border smuggled SIMs are a known enforcement target, so expect the Ncell/NTC counter to copy your visa stamp precisely, and keep the registration receipt with the SIM for your whole trip. If you fly Nepal → India → Nepal on one holiday, a regional Asia plan is usually cleaner than two local registrations.
 
-## Common questions, quick answers
+## What trekkers ask about eSIMs in Nepal
 
 ### Can you buy a Nepal eSIM from Ncell?
 Yes. Both Ncell and NTC run staffed counters in the Tribhuvan International Airport arrivals area, open for every international flight. Bring your passport, a visa/entry-stamp copy and a passport photo; the eSIM QR is issued after registration. NTC gives the starter SIM free, with data packages added on top.

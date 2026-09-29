@@ -21,7 +21,7 @@ Not sure if your handset is eSIM-ready in the first place? The [eSIM compatibili
 
 **The short answer:** Choosing an Azerbaijan eSIM comes down to range against price. Driving the full Caucasus loop or heading to Gobustan and Sheki? **Azercell** has the widest footprint (it claims 99.8% population coverage). Staying in Baku and want the cheapest prepaid? **Bakcell** sells an 11 GB tourist line for about 15 AZN with eSIM activation on its website. Watching every manat? **Nar** undercuts both in the cities. All three sell prepaid to foreigners with a passport — but a local SIM triggers the 30-day IMEI rule, while Roami's [free network test](/free-esim/) rides Azercell and Bakcell with no registration.
 
-## IMEI rules for phones in Azerbaijan
+## What is Azerbaijan's 30-day IMEI registration rule?
 
 Azerbaijan runs a national IMEI database (imei.az / my.gov.az). The trap is specific:
 
@@ -47,7 +47,7 @@ For trips under 30 days on a single visit, this rarely bites. For longer stays, 
 
 Azercell is the safe default for an Azerbaijan eSIM: it is the operator the country's own coverage maps and most travel eSIMs default to. Bakcell is the one local operator that openly sells eSIM to prepaid customers online. Nar wins on price but is the weakest outside town.
 
-## Which plan is the best value?
+## Which Azerbaijani data plan gives the best value?
 
 The table above is the headline. Below are the practical details for each data plan — verified prices, how a visitor buys, and the quirks that change the decision.
 
@@ -112,7 +112,7 @@ Nar is the challenger brand and the cheapest of the three in the cities, but it 
 
 **Quirk:** the "split" data means part of the allowance is ring-fenced for social apps (Instagram, TikTok, etc.), so the usable-for-everything bucket is smaller than the headline number. A night-time data promo (*gece* to 777) gives 1 AZN unlimited 00:00–08:00, useful for hotel downloads.
 
-## Buying a Local eSIM
+## Where to buy a local SIM or eSIM in Azerbaijan
 
 All three require a **passport** for prepaid registration — there is no way around the ID check at point of sale, and the SIM is tied to you.
 
@@ -142,7 +142,7 @@ This checklist applies whether you buy an Azerbaijan eSIM or a local SIM — the
 
 The one item a travel eSIM does **not** remove is the unlocked-phone check — a carrier-locked device cannot install any eSIM. Confirm it once under Settings → About, where the lock field should show an unlocked handset rather than a carrier's name.
 
-## Azerbaijan eSIM speeds: Azercell vs Bakcell
+## Where Azercell and Bakcell coverage holds up outside Baku
 
 Coverage is Baku-strong and mountain-thin. Plan by where you actually go.
 
@@ -177,7 +177,7 @@ This is the single most misunderstood fact about Azerbaijan among Caucasus trave
 
 **Practical effect on your eSIM:** because you cannot drive in, your Azerbaijan eSIM only needs to cover the country itself (plus Nakhchivan if you fly there). For the onward Georgia leg, an [eSIM for Georgia](/georgia-esim/) or a regional Caucasus plan is the right second purchase — your Azerbaijan plan will not roam into Tbilisi.
 
-## Speeds by Carrier
+## What mobile speeds and data prices to expect in Azerbaijan
 
 [Ookla's Speedtest Global Index for August 2026](https://www.speedtest.net/global-index/azerbaijan) puts Azerbaijan **47th** worldwide for mobile download, at a median of **99.13 Mbps** and 17 ms latency. The global median that month was 109.05 Mbps, so Azerbaijan sits just below the typical market.
 
@@ -187,7 +187,7 @@ For market context, [DataReportal reports 9.23 million internet users in Azerbai
 
 Azerbaijan has no published per-carrier Speedtest Connectivity Report, so operator-level speeds are left qualitative here rather than invented. The ranking above — Azercell widest, Bakcell strongest in cities, Nar cheapest — rests on operator coverage claims and independent travel testing.
 
-## The Azerbaijan eSIM carriers: Azercell, Bakcell and Nar Mobile
+## Which carrier is right for my Azerbaijan trip?
 
 **Which carrier suits which trip:**
 
@@ -203,7 +203,7 @@ Azerbaijan has no published per-carrier Speedtest Connectivity Report, so operat
 | Business trip, need a local number | Azercell or Bakcell | Real AZ number, voice + data | Triggers the 30-day IMEI rule |
 | Short visit, no paperwork | A travel eSIM on Azercell/Bakcell | No passport registration, no IMEI clock | Data-only — no local calls/SMS |
 
-## APN values, network by network
+## What APN do Azercell, Bakcell and Nar use?
 
 You only need these if you bought a local SIM or eSIM straight from an Azerbaijani operator. An Azerbaijan eSIM sold as a travel product supplies its own APN — leave it alone.
 
@@ -263,7 +263,7 @@ A local operator's support desk works from the passport record, not from a web o
 
 If the fault is in a **travel eSIM** rather than a local line, an operator desk cannot help — it holds no record of the product. In that case have your order number from the confirmation email, your EID (`*#06#`), the APN values and a screenshot ready, and raise it with the provider.
 
-## Frequently Asked Questions
+## Frequently asked questions about eSIMs in Azerbaijan
 
 ### Can you buy an Azerbaijan eSIM from Azercell?
 
@@ -319,7 +319,7 @@ Start with the local patterns above — the IMEI block, a frontier signal grab, 
 
 More questions? [View full FAQ](/faq/)
 
-## Our Sources
+## The sources behind our Azerbaijan figures
 
 - Ookla, Cable.co.uk, DataReportal, the border-status and GYD airport guides, and the Bakcell/Nar tariff pages are linked inline at each claim.
 - Azercell APN (blank SMS to 9595): Azercell support, linked inline above.

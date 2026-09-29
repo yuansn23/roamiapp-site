@@ -19,7 +19,7 @@ A Peru eSIM handles the coast and the highlands well and the Amazon only partial
 
 **If you read nothing else:** Claro is Peru's fastest network — a median 29.01 Mbps overall and 57.79 Mbps on 5G, per [Ookla's H2 2024 report](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024). Entel runs the best 5G availability, and Bitel is the network users themselves rate highest. But the decision that shapes a Peru trip most is timing. Since late 2025, buying a local SIM in person means biometric registration against the immigration database, and Lima airport counters charge a steep premium for the privilege. The better play: install a Peru eSIM online before departure, download offline maps for every day on the road, and treat connectivity in towns as the reward rather than the default. If you are new to this technology, the [test at no charge](/free-esim/) lets you test it before spending anything, and the [Peru plans page](/peru-esim/) is ready to connect the moment you land.
 
-## Regional Coverage
+## Where does coverage actually work in Peru?
 
 Ask which network is "best in Peru" and you get a city answer to a country question. On Ookla's most recent per-city data, Lima recorded the fastest median mobile download among populous cities at 23.46 Mbps, while Iquitos sat at the bottom with 16.3 Mbps and a startling 98 ms latency. Between those two poles lies most of what travelers actually visit: mountain towns, valley roads, high plains and the rainforest.
 
@@ -127,7 +127,7 @@ The Salkantay route is similarly intermittent — service improves in valley set
 
 None of this argues against buying connectivity — you will pass through towns daily on most routes, and guides themselves post photos from the endpoint towns. It argues for the right setup: a profile installed and tested before you fly, offline maps for the full route, and a family notification plan that does not depend on being reachable. Buying at home also sidesteps Peru's new in-person registration hurdles, covered below.
 
-## Cusco and the Sacred Valley eSIM coverage
+## Staying connected in Cusco and the Sacred Valley
 
 Cusco itself is well served — its median mobile download measured 17.7 Mbps in Ookla's city data, enough for maps, messaging and video calls from a hotel lobby. Coverage in the Sacred Valley towns of Pisac, Urubamba, Ollantaytambo and Chinchero is solid in their centers and drops off quickly outside them. The pattern repeats everywhere in the highlands: a town is a coverage bubble, and the bus ride between two bubbles is dead air.
 

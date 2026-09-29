@@ -41,7 +41,7 @@ The comparisons mean nothing until the profile installs cleanly; the [eSIM compa
 
 
 
-## Which local carrier can visitors use?
+## Omantel, Ooredoo or Vodafone: which should visitors pick?
 
 
 
@@ -73,7 +73,7 @@ If your entire stay is inside Muscat, price decides and Ooredoo usually wins. If
 
 
 
-## The local carriers: Omantel, Ooredoo and Vodafone Oman
+## What do Omantel, Ooredoo and Vodafone offer visitors?
 
 
 
@@ -179,7 +179,7 @@ Vodafone entered Oman in 2021 as the third Class I licensee and has since built 
 
 
 
-## Your eSIM registration is mandatory — what visitors must bring
+## What documents do you need to register an Omani SIM?
 
 
 
@@ -205,7 +205,7 @@ Two things worth knowing. First, Muscat International Airport (MCT) has staffed 
 
 
 
-### Oman eSIM: airport counter versus Muscat city store
+### Airport counter or city store: where to buy in Muscat
 
 
 
@@ -357,7 +357,7 @@ Real itineraries, decided in one line each — if your route appears below, you 
 
 
 
-## Oman eSIM speeds and the per-GB bill
+## How fast are Oman's networks and what does data cost?
 
 
 
@@ -379,7 +379,7 @@ All figures below are national-level, third-party, and updated independently:
 
 
 
-## Manual APN values
+## Do I need manual APN settings on an Omani SIM?
 
 
 
@@ -435,7 +435,7 @@ Omantel's tourist tiers lead with voice and only a 1 GB welcome bundle, so a han
 
 
 
-### Do WhatsApp and VoIP calls work on an Oman eSIM?
+### Do WhatsApp and VoIP calls work in Oman?
 
 
 
@@ -507,7 +507,7 @@ Oman shares land borders with the UAE (Hatta–Al Buraimi and the Wajajah crossi
 
 
 
-## Quick answers
+## Quick answers for travelers heading to Oman
 
 
 
@@ -547,7 +547,7 @@ Yes in the governorate capitals (Salalah, Sohar, parts of Nizwa), but the denses
 
 
 
-### APN values for Omantel, Ooredoo and Vodafone Oman eSIMs
+### How do I set the APN for an Omani carrier eSIM?
 
 `internet.omantel.om`, username and password blank. Ooredoo uses `internet`; Vodafone uses `vfinternet`. Only set these on a carrier-issued eSIM.
 
@@ -571,7 +571,7 @@ Airport and mall stores take international cards; the Omantel and Ooredoo apps t
 
 
 
-### Is a Vodafone Oman eSIM worth it?
+### Is Vodafone's Oman network worth using?
 
 For a Muscat-only stay, yes — its urban 4G/5G is competitive and its prepaid pricing aggressive. For anything involving long intercity routes, no; its footprint has not reached Oman's interior.
 
@@ -593,7 +593,7 @@ More questions? [View the complete FAQ →](/faq/)
 
 
 
-## Sourcing for this Oman eSIM guide
+## The sources behind this Oman guide
 
 
 
@@ -617,7 +617,7 @@ More questions? [View the complete FAQ →](/faq/)
 
 
 
-## Get your Oman eSIM connected before you fly
+## Get connected before you fly to Oman
 
 
 

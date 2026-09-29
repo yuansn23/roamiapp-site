@@ -67,7 +67,7 @@ A Malaysia eSIM flips the order: you install it on home Wi-Fi before departure, 
 
 
 
-## 5G in Malaysia: how the market stacks up
+## Why every Malaysian carrier has the same 5G
 
 
 
@@ -87,7 +87,7 @@ So "which 5G carrier" is almost the wrong question to ask of a Malaysia eSIM. "W
 
 
 
-## The Malaysia eSIM carriers: Maxis, CelcomDigi and U Mobile
+## What Maxis, CelcomDigi and U Mobile are each good at
 
 
 
@@ -115,7 +115,7 @@ So "which 5G carrier" is almost the wrong question to ask of a Malaysia eSIM. "W
 
 
 
-## Best Malaysia eSIM carrier for your trip: Maxis vs CelcomDigi
+## Which carrier for KL, and which for Borneo?
 
 
 
@@ -145,7 +145,7 @@ The Peninsula and Borneo pull in opposite directions, so match the carrier to th
 
 
 
-## Plan lineup and prices
+## What each carrier's tourist plans cost
 
 
 
@@ -153,7 +153,7 @@ Plan prices below are the operators' published prepaid and tourist rates (USD at
 
 
 
-### Maxis vs CelcomDigi: which Malaysia carrier is faster?
+### What Hotlink tourist plans cost
 
 
 
@@ -301,7 +301,7 @@ A data-only Malaysia eSIM is a different product: it delivers data through partn
 
 
 
-## Malaysia eSIM coverage: Maxis vs CelcomDigi
+## Coverage from KL to Borneo, area by area
 
 
 
@@ -335,7 +335,7 @@ Two rules of thumb: download offline maps before any Borneo or highland leg, and
 
 
 
-## Roaming beyond the border
+## Will my Malaysian SIM work in Singapore?
 
 
 
@@ -355,7 +355,7 @@ The clean fix: if you only need Singapore for a day trip, buy a [Singapore eSIM]
 
 
 
-## Malaysia eSIM speeds: Maxis vs CelcomDigi
+## What speeds and prices to expect in Malaysia
 
 
 
@@ -369,7 +369,7 @@ The clean fix: if you only need Singapore for a day trip, buy a [Singapore eSIM]
 
 
 
-## APN setup, step by step
+## Do Hotlink, CelcomDigi and U Mobile need different APNs?
 
 
 
@@ -399,7 +399,7 @@ Save and reboot. If data still fails, confirm the Malaysia eSIM is the selected 
 
 
 
-## Where to buy a Malaysia eSIM
+## What to have ready before flying into KLIA
 
 
 
@@ -425,7 +425,7 @@ One practical note: Malaysia uses **British Type G power sockets** at 230 V. If 
 
 
 
-## Setting your eSIM up
+## The last checks before you install your profile
 
 
 
@@ -477,7 +477,7 @@ Malaysia's 5G is a single wholesale network, and the newer standalone (SA) deplo
 
 
 
-### Maxis vs CelcomDigi: coverage compared
+### Why a KL-perfect eSIM looks broken in Borneo
 
 
 
@@ -485,7 +485,7 @@ Sabah and Sarawak are a coverage frontier: towns hold up, and the roads and rive
 
 
 
-## Choosing between Malaysia carriers
+## Getting help from Maxis, CelcomDigi or U Mobile
 
 
 

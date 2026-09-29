@@ -41,7 +41,7 @@ A Lithuania eSIM is easy in the cities and subtle at the border, and this guide 
 
 
 
-## What eSIM data costs per gigabyte in Lithuania
+## How much does mobile data cost in Lithuania?
 
 
 
@@ -107,7 +107,7 @@ A travel profile usually does not make you choose a network at all. It attaches 
 
 
 
-## What Costs Less: Local or Travel eSIM?
+## What costs less: a local SIM or a travel eSIM?
 
 
 
@@ -171,7 +171,7 @@ Read the first three rows carefully, because they are the reason local prepaid l
 
 
 
-### Retail and online: Lithuania eSIM
+### What buying at a Lithuanian counter involves
 
 
 
@@ -249,7 +249,7 @@ Read the first three rows carefully, because they are the reason local prepaid l
 
 
 
-## Registering a SIM: What to Expect
+## Registering and topping up a SIM in Lithuania
 
 
 
@@ -265,7 +265,7 @@ Two small quirks complete the picture. Prepaid packs in Lithuania do not require
 
 
 
-## Crossing borders on an eSIM
+## Will my Lithuanian SIM work elsewhere in the EU?
 
 
 
@@ -367,7 +367,7 @@ Where you go shapes the right Lithuania eSIM more than which operator you prefer
 
 
 
-## How Much Data Do You Need?
+## How much data do I need for Lithuania?
 
 
 
@@ -395,7 +395,7 @@ Two data disciplines apply everywhere in the country: offline maps for the natio
 
 
 
-## Weak spots in coverage
+## Where does coverage drop out in Lithuania?
 
 
 
@@ -433,7 +433,7 @@ Two other arrival points are worth knowing about. **Kaunas Airport** is the coun
 
 
 
-## Lithuania eSIM borders: crossing into Latvia or Poland mid-trip
+## What happens to my data at the Latvian or Polish border?
 
 
 
@@ -461,7 +461,7 @@ A second warning is worth adding for anyone driving or riding near those frontie
 
 
 
-## Hotspot and tethering on a Lithuania eSIM
+## Do calls and hotspot work on a data-only eSIM?
 
 
 
@@ -477,7 +477,7 @@ A locally bought prepaid pack behaves differently on calls. The Ežys, Labas and
 
 
 
-## Installation steps
+## How do I install my Lithuania eSIM before I fly?
 
 
 

@@ -21,7 +21,7 @@ Picking a Chile eSIM means planning for 4,300 km of contrast, from Santiago's fa
 
 **The verdict up front:** City itinerary? **Entel** holds the widest 4G/5G footprint in the country. Patagonia, the far north or the Lake District? **Movistar** is the safer bet once you leave the central valley. Staying in Santiago and counting every peso? **Claro** and **WOM** undercut everyone in the city and thin out badly beyond it. Or skip the store queue entirely — a travel eSIM roams onto Entel, Movistar and Claro with no RUT, no IMEI paperwork and no store visit. A [test-drive eSIM](/free-esim/) tests the networks at no cost, and **WEB20** trims 20% off [Chile eSIM plans](/chile-esim/).
 
-## Cost per gigabyte
+## What this Chile carrier guide covers
 
 - [Which Chile eSIM carrier fits your trip?](#best-chile-esim-carrier-for-your-trip-entel-vs-movistar)
 - [Entel vs Movistar vs Claro: what visitors can actually buy](#where-to-purchase-a-chile-esim)
@@ -130,7 +130,7 @@ Chile eSIMs work with most unlocked handsets from 2019 onward, including iPhone 
 
 Hotspot use is generally allowed, but the ceiling varies by plan — from a single extra device on budget packs to five on a managed profile. If your trip depends on tethering a laptop, check that the plan permits it rather than discovering the block in a hotel with no Wi-Fi. A second practical note: in Chile it is usually cheaper to buy one larger 30-day pack than to top up twice, so size the pack to your trip length rather than your first-day usage.
 
-## Does your eSIM work across borders?
+## Is a travel eSIM more expensive than local prepaid in Chile?
 
 Prices move faster than articles do, so the current line-up lives on our [Chile eSIM plans page](/chile-esim/). What gives a plan price its meaning is the market underneath it: local data is cheap, so the premium on a travel eSIM buys convenience rather than gigabytes. Against a home-carrier roaming day pass, the same profile is an order of magnitude cheaper, and against a locally bought bolsa it is a modest markup in exchange for skipping the RUT question, the store queue and the IMEI clock.
 
@@ -142,7 +142,7 @@ Read together, those numbers describe a market that is cheap to use but mid-pack
 
 Sources for this section: the [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/chile), Cable.co.uk's [worldwide data pricing survey](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) and [DataReportal's Digital 2025 report](https://datareportal.com/reports/digital-2025-chile).
 
-## Testing Chile eSIMs across five cities
+## Which carrier is best in each Chilean city?
 
 Which travel eSIM is the better fit for your destination, based on network performance and local coverage conditions:
 
@@ -214,7 +214,7 @@ Entel's 4G makes Hanga Roa and the airport road usable, and the island's regulat
 
 Two frictions are specific to buying locally. First, **foreign cards often fail** in the carriers' online top-up flows, which expect a Chilean card or a RUT-linked account — the reliable routine is cash or a card in a physical store for the first purchase, and the operator's own app afterwards. Second, **airport pricing and availability**: counter stock at Santiago's Arturo Merino Benítez (SCL) is inconsistent, and the dependable route is a carrier store in the city — the Costanera Center mall, Av. Providencia or the Paseo Ahumada galleries. Load extra data in Santiago before flying to Calama or Puerto Montt, where top-up options thin out.
 
-## Is your handset supported?
+## Activating the profile at home, not at the airport
 
 Activation is handled entirely in your phone's settings. Get the profile from the [Chile plans page](/chile-esim/), then follow the [activation walkthrough](/faq/how-to-activate-an-esim/) for iOS or Android. Install on Wi-Fi at home rather than at the airport: the profile downloads in a minute, sits dormant until it first attaches to a Chilean network, and data roaming is the only toggle you may need to switch on after landing.
 
@@ -238,7 +238,7 @@ Generic errors — a profile that will not download, a QR scan that fails, an eS
 
 **D. Data stops at the Argentine border, or on the Chilean side of a pass crossing.** A Chile-only plan ends at the border with no warning, which is why Mendoza and Bariloche day trips catch people out. Switch to a multi-country Americas plan before you cross.
 
-### Chile eSIM questions, answered
+### What to have ready before you call support
 
 | What to provide | Where to find it |
 |:---|:---|
@@ -289,7 +289,7 @@ Only if the plan says so. A Chile-only profile stops at the pass. For Mendoza, B
 
 Prepaid does not bill overage: the line either throttles hard or stops until you buy another pack, and "unlimited" weekly bolsas are unlimited only at a capped speed after a threshold. Check the validity start — activation or first connection — before you buy, and top up in a city rather than a small village.
 
-### Chile roaming fees
+### Do I need data roaming on in Chile?
 
 You do need Data Roaming on. A travel eSIM attaches to a local network as a roaming partner, so Data Roaming must be on for the eSIM line — Settings → Cellular → Cellular Data Options on iOS. Turn it off on your home SIM so background traffic does not trigger international charges.
 
@@ -303,7 +303,7 @@ Work the four local patterns above in order — IMEI clock, bolsa balance, manua
 
 [More questions? View the full FAQ →](/faq/)
 
-## Common myths about your eSIM
+## Common eSIM myths travelers hear about Chile
 
 ### ❌ Myth: eSIMs in Chile only work in Santiago.
 

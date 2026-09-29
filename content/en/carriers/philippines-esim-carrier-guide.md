@@ -21,9 +21,9 @@ Before speeds and coverage: none of it counts without a successful install. The 
 
 **The short answer:** Staying in Manila, Cebu or Boracay? Smart is the fastest network in the country and Globe is the most consistent. Heading to the outer islands of Palawan or Siargao? Smart holds signal at the resorts while DITO thins out fast once you leave the city grid. Want a local prepaid eSIM as a visitor? All three carriers now sell one, but every SIM and eSIM in the Philippines must be registered under the SIM Registration Act with your passport and a return ticket, and a tourist SIM expires after exactly 30 days. Or skip the paperwork: [free test eSIM](/free-esim/) tests the networks at no cost; apply code **WEB20** for 20% off [Philippines eSIM plans](/philippines-esim/).
 
-## Host carriers for your Philippines eSIM
+## Which carriers does your Philippines eSIM use?
 
-### Globe, Smart and DITO, weighed for visitors
+### Globe, Smart and DITO compared for visitors
 
 | | Globe | Smart | DITO |
 |:---|:---|:---|:---|
@@ -34,7 +34,7 @@ Before speeds and coverage: none of it counts without a successful install. The 
 
 **Availability is not the problem — registration is.** All three national carriers sell a prepaid Philippines eSIM a visitor can buy, which is unusual for Asia. Under the SIM Registration Act every eSIM must be tied to a verified identity before it works, and a tourist registration lasts only 30 days. Globe, Smart and DITO each run that registration inside their own app, so the documents, not the checkout, are the real barrier.
 
-### Which budget brands and sub brands sell eSIMs
+### Which budget eSIM brands can you buy in the Philippines?
 
 The Philippines has a second tier of brands that ride on the big networks, and a few of them sell eSIMs too.
 
@@ -63,7 +63,7 @@ The economics flip once you count registration. A carrier eSIM is cheap per giga
 
 💡 A multi-network eSIM profile is the practical middle path: [Roami's Philippines eSIM](/philippines-esim/) keeps the convenience of instant delivery, switches automatically between Globe, Smart and DITO, and still lands you on Smart in Manila and Globe in the provinces without buying twice.
 
-## Will your handset cooperate?
+## Will your phone work with a Philippines eSIM?
 
 Three things decide whether your phone works on a Philippine carrier: its bands, its lock status, and a short list of device-specific quirks. All three are covered below.
 
@@ -95,7 +95,7 @@ If you bought a used or carrier-subsidised phone, assume it may be locked and ch
 
 Everything else is a handset quirk rather than a network rule. Check your model in the [phone compatibility list](/compatibility/) before paying for a plan.
 
-## Data Plans: The per-GB Math
+## How to buy a Philippines eSIM and what it costs
 
 Three routes to a Philippines eSIM exist, and they differ more in registration than in price: Globe through the GlobeOne app, Smart through GigaLife or the Smart app, and DITO through its own app or a store. Each route, step by step.
 
@@ -251,11 +251,11 @@ The path is identical for all three carriers — only the values above change.
 
 After saving, restart the phone. If data still will not flow, check that the eSIM — not your home SIM — holds the data-line role before changing anything else.
 
-## A Philippines eSIM: setup, then fixes
+## How to activate your Philippines eSIM and fix common problems
 
 One read of this section takes you from clean install to a working connection and through the failure patterns a Philippine network can really produce, in the order you'll meet them.
 
-### Six checks before your Philippine eSIM goes in
+### What to check before installing your Philippines eSIM
 
 The list runs longer here than in most countries, because registration joins the usual hardware checks.
 
@@ -279,7 +279,7 @@ Our [eSIM activation walkthrough](/faq/how-to-activate-an-esim/) walks the stand
 - **DITO:** eKYC in the DITO app or registration at a store; profile by email or SMS
 - **Travel eSIMs:** install by QR code, and the same profile roams onto whichever of Globe, Smart or DITO is strongest
 
-### A stalled Philippines eSIM: four fixes
+### Four fixes for a Philippines eSIM that won't connect
 
 Profiles that refuse to download, scans that fail, and eSIMs that install but never register are all catalogued in our [activation error troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). The list below narrows to four patterns that matter in the Philippines.
 
@@ -303,7 +303,7 @@ Profiles that refuse to download, scans that fail, and eSIMs that install but ne
 2. Switch to the carrier with the strongest coastal footprint, usually Smart, or use a multi-network eSIM
 3. Download offline maps before the ferry, because the crossing may stay dark for the whole trip
 
-### Common Philippines eSIM questions
+### What to gather before contacting support
 
 | Information | Where to find it |
 |:---|:---|
@@ -315,7 +315,7 @@ Profiles that refuse to download, scans that fail, and eSIMs that install but ne
 | Data roaming status | Settings → Cellular → your eSIM line |
 | Steps already tried | Keep a short list |
 
-## Quick Philippines eSIM answers
+## Philippines eSIM FAQ: quick answers
 
 ### Globe eSIM plans for visitors
 
@@ -325,11 +325,11 @@ Globe does sell a prepaid eSIM inside the GlobeOne app from Php 99, and a Globe 
 
 For a tourist, yes. Smart sells the eSIM freely in the GigaLife or Smart app, but activation is blocked until SIM registration is complete, and registration for a visitor needs a passport, proof of a Philippine address such as a hotel booking, and a return ticket. Without those three, the profile installs but never passes data.
 
-### Who checks your identity when you buy a Philippines SIM?
+### Do you need to register a Philippines eSIM with your passport?
 
 Yes, for any local carrier eSIM, because registration is mandatory under the SIM Registration Act. Tourists present a passport, proof of a Philippine address and a return ticket, and the line will not activate until that is done. A travel eSIM still asks for a passport at checkout, but only once, and it skips the 30 day tourist cliff that the carriers are bound by.
 
-### Globe vs Smart: coverage compared
+### Why does your eSIM lose signal between islands?
 
 Because the gap is real, not a fault. The Philippines is an archipelago, and open water between islands has no mast, so every carrier drops to nothing for the crossing, especially the ferry runs to smaller isles off Palawan, Boracay and Siargao. Download offline maps before you board, and expect the signal to return only as you approach the next port.
 
@@ -337,11 +337,11 @@ Because the gap is real, not a fault. The Philippines is an archipelago, and ope
 
 Smart, on the evidence. It posts the fastest Speed Score at 72.04 and the strongest resort footprint in Palawan and Boracay, while Globe backs it up on consistency and DITO thins out off the main grid. For remote islands the practical rule is to carry Smart as your primary line and treat DITO as a city-and-resort extra.
 
-### The registration routine in Philippines
+### How long does tourist SIM registration last in the Philippines?
 
 Exactly 30 days. Republic Act 11934 requires every SIM and eSIM to be registered, and a line registered under the tourist category is valid for only 30 days, then it is automatically and permanently deactivated. Loading more credit does not extend that clock, because the limit is tied to visa status, not to your balance. Plan a carrier eSIM only if your trip is shorter than a month.
 
-### Which devices misbehave in Philippines
+### What does your phone need for a Philippines eSIM?
 
 It needs to be unlocked and eSIM-capable, and it helps if it supports B28 for rural reach. Check both in one pass with the [handset compatibility checker](/compatibility/), which covers EID support and the band question for Philippine networks. If the install step is the unclear part, [eSIM activation explained](/faq/what-is-esim-activation-and-how-does-it-work/) explains it.
 
@@ -352,11 +352,11 @@ You can register DITO anywhere with the DITO app and a passport, so the airport 
 
 Philippine typhoon season runs June to November, and severe weather can knock out coastal and island sites for 24 to 48 hours, longest on the remote islands. Smart and Globe run backup power at most sites, so cities recover fast, while smaller islands may stay dark until crews reach them. If you travel in season, keep a power bank charged, expect temporary drops, and do not rely on a single carrier in a storm path.
 
-### Would 10 GB see you through Philippines?
+### Should your eSIM carry data and your home SIM take calls?
 
 Yes. Keep your home SIM in the tray for voice and one-time codes, and let the eSIM carry Philippine data — a setup that survives island hopping because the eSIM is the line doing the work. In Settings, point Mobile Data at the eSIM line and leave your home line for voice. Two cautions: switch off data roaming on your home SIM so you are not billed for background traffic, and remember most data-only eSIMs cannot receive SMS, so bank codes still arrive on your home number.
 
-### What the eSIM chip holds on a Globe or Smart line
+### How does an eSIM work without a physical SIM card?
 
 The eSIM is a chip soldered into the phone that stores carrier profiles rather than a single plastic card; the carrier sends a profile, your phone writes it, and the line behaves like any other. [what happens during eSIM activation](/faq/what-is-esim-activation-and-how-does-it-work/) covers the delivery mechanics.
 

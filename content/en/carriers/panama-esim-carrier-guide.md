@@ -39,7 +39,7 @@ Unsure whether your phone takes an eSIM? One lookup on the [eSIM compatibility q
 
 ## Panama eSIM carriers: the real comparison
 
-### +Móvil, Tigo, Claro and Digicel: Panama eSIM carriers compared
+### +Móvil, Tigo, Claro and Digicel at a glance
 
 A Panama eSIM rides one of four live networks rather than three, and the deciding variable is less which brand you pick than where you buy the line.
 
@@ -62,7 +62,7 @@ The regulator is [ASEP](https://www.asep.gob.pa/) — the National Public Servic
 
 Movistar's Panamanian operation was rebranded under the Tigo name, joining Claro as the two credible urban alternatives — good 4G in the capital, decent coverage along the Canal and the main highways, thinner rural maps than +Móvil. Both support eSIM on compatible devices, with rollout that has been gradual rather than complete. For a Panama City stay, either is fine; for anything else, they are the fallback networks, which is precisely what a multi-network profile uses them for.
 
-### Operators selling SIMs in Panama
+### Digicel: the fourth network most guides drop
 
 Digicel still operates in Panama as the fourth MNO — a Caribbean-rooted group whose Panamanian network is best characterized as city-competent and country-thin. Articles that list only three operators or that build their whole comparison around Digicel's tourist zones (as older guides did) are both slightly off: the honest read is that Digicel is a reasonable urban budget option and not a national plan.
 
@@ -78,7 +78,7 @@ Digicel still operates in Panama as the fourth MNO — a Caribbean-rooted group 
 
 **Registration is the constant across all four:** presenting a valid passport to register a SIM is a legal requirement in Panama, enforced at every purchase point — airport kiosks, carrier stores, supermarkets like Riba Smith and El Rey, pharmacies and corner shops. The clerk records your passport details; activation is usually immediate.
 
-### Where you can buy Panama eSIM
+### Buying direct from a carrier versus buying online
 
 | | Direct from a Panamanian carrier | Travel eSIM on a Panamanian network |
 |:---|:---|:---|
@@ -111,7 +111,7 @@ Three factors combine in Panama in a way they do not in most countries:
 
 **The practical rule:** if your flight lands between roughly 05:30 and 00:30 and you want a local SIM, still wait for the city. If it lands outside those hours, you cannot buy at the airport at all — which settles the question in favour of a pre-installed Panama eSIM.
 
-## Panama eSIM coverage: +Móvil vs the rest
+## Where +Móvil, Tigo, Claro and Digicel actually work
 
 | Region | Coverage reality | Best carrier | Watch out for |
 |:---|:---|:---|:---|
@@ -136,7 +136,7 @@ For market context: [Ookla's Speedtest Global Index](https://www.speedtest.net/g
 
 Extending the trip? The same breakdowns exist for our [Costa Rica eSIM guide](/carriers/costa-rica-esim-carrier-guide/), [Colombia eSIM page](/colombia-esim/) and [Guatemala eSIM plans](/guatemala-esim/).
 
-## Price per gigabyte in practice
+## Where should you buy your Panama data plan?
 
 | Route | What it takes | Best for |
 |:---|:---|:---|
@@ -171,9 +171,9 @@ This is the route that skips the $30 airport concession and Tocumen's overnight 
 
 **Before you buy.** Confirm two things — the handset is unlocked and eSIM-capable ([eSIM compatibility checker](/compatibility/)), and you have your EID written down (`*#06#`). Install pre-purchased profiles before departure. One local quirk worth knowing: WhatsApp is the default calling and messaging layer in Panama, so a data-only eSIM covers nearly every practical communication.
 
-## Panamanian eSIM device check
+## Will my phone work with a Panamanian eSIM?
 
-### Is my phone fit for a Panama eSIM?
+### Is my phone fit for a Panamanian eSIM?
 
 Panama runs standard American frequencies, which most international phones handle without complaint. Where it does go wrong:
 
@@ -185,7 +185,7 @@ Panama runs standard American frequencies, which most international phones handl
 | Older handset | No EID when you dial `*#06#` | Buy a physical SIM |
 | Phone without US band support | 4G in the city, weak on the highway | Check your model before relying on rural coverage |
 
-### Will your phone clear the Panama eSIM check?
+### Will my phone clear Panama's eSIM check?
 
 Check this before you pay for anything — a carrier-locked handset cannot be unlocked from inside Panama.
 
@@ -193,7 +193,7 @@ Check this before you pay for anything — a carrier-locked handset cannot be un
 - iPhone: **Carrier Lock** under Settings → General → About — without "No SIM restrictions" the profile will not install.
 - Android: Settings → Connections → SIM Manager — greyed out means locked or unsupported.
 
-## APN entry by hand
+## Do I need to enter APN settings in Panama?
 
 Travel eSIM profiles carry their own APN — touch nothing. For locally bought lines that fail to pass data:
 
@@ -204,7 +204,7 @@ Travel eSIM profiles carry their own APN — touch nothing. For locally bought l
 | Claro | `internet.claro.com.pa` | blank | blank |
 | Digicel | `internet.digicelpanama.com` | blank | blank |
 
-### APN values for Panama's four carriers
+### Situations that call for hand-entered APN settings
 
 Only a short list of situations in Panama calls for hand-entered settings.
 
@@ -221,7 +221,7 @@ On iPhone: Settings → Cellular → [the Panamanian line] → Cellular Data Net
 
 Scan the QR on Wi-Fi at home, name the line, point data at it, turn roaming on. The [eSIM setup guide](/faq/how-to-activate-an-esim/) runs through it in order.
 
-### Panama eSIM pre-flight: the six-point list before Tocumen landing
+### The pre-flight checklist before you land at Tocumen
 
 Work through this at home, where Wi-Fi is free and no concession kiosk is involved.
 
@@ -235,14 +235,14 @@ Work through this at home, where Wi-Fi is free and no concession kiosk is involv
 | 6 | San Blas or Bocas leg | Offline map — Guna Yala and the archipelago are the patchy parts |
 | 7 | Offline maps for the islands | Bocas and San Blas legs saved before you fly |
 
-### Panama eSIM: installation walkthrough
+### Installing the profile, step by step
 
 1. **Install before departure.** The airport kiosk closes overnight (roughly 00:30–05:30 dead zone), and red-eye arrivals are common at Tocumen.
 2. **San Blas and Darién silence is expected** — check the region table before blaming your phone.
 3. **Manual network selection helps outside the capital.** Forcing the phone onto +Móvil can attach where automatic search settles on a thinner network.
 4. **Bars, no data:** verify the data line, the roaming switch, then the APN. Anything still broken is covered in our [eSIM troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/).
 
-### Four recovery steps for a Panama eSIM
+### Four recovery steps when the eSIM misbehaves
 
 **A. The eSIM will not install**
 1. Head to Settings -> General -> About; Carrier Lock should show "No SIM restrictions"
@@ -265,7 +265,7 @@ Work through this at home, where Wi-Fi is free and no concession kiosk is involv
 2. Try manual network selection
 3. Check whether you are simply between towns on a side road
 
-### Details to gather before you contact your Panama eSIM provider
+### Details to gather before contacting your eSIM provider
 
 Have these to hand — which province or island you are in is the first question support will ask.
 
@@ -291,7 +291,7 @@ None of this requires a local number. It requires a working connection and a lit
 
 ## The Panama eSIM questions we hear most
 
-### The local-vs-travel-eSIM math in Panama
+### What does a tourist SIM cost at Tocumen airport?
 
 Yes — the Travel Data Global kiosks sell tourist SIMs around the clock (roughly 05:30–00:30) with passport registration on the spot, at about **$30 for 7 days of unlimited data**. The same package costs around $10 in the city, so frequent advice is: eSIM before you fly, or city store on day one.
 
@@ -318,11 +318,11 @@ In Bocas, yes on the main island and patchy between islands. In Guna Yala, only 
 
 Not usually — WhatsApp handles calls, messages and most business communication, and data-only eSIMs run it perfectly. A local number matters mainly for longer stays and local banking.
 
-### Best Panama eSIM, sorted by trip
+### How many gigabytes should you buy for Panama?
 
 5–10 GB covers maps, WhatsApp, social and video calls comfortably. Data costs around USD 1.63 per GB locally, so oversizing is cheap — but bandwidth in the archipelagos, not price, is the limiter.
 
-### Panama eSIM: IMEI and EID rules
+### Does my phone need to be unlocked for Panama?
 
 An unlocked phone is required. A locked phone will not accept any third-party profile. Check Settings → General → About → Carrier Lock (iPhone) before you buy, and ask your home carrier to unlock if needed.
 
@@ -334,7 +334,7 @@ Yes — about three times the city price, which makes Panama one of the starkest
 
 Panama uses the US dollar as its currency, so every price is directly comparable to what you would pay at home — and there is no exchange-rate surprise on your card statement. It is one of the easier markets in the region to budget for.
 
-### Panama bargain data plans
+### Do cheaper regional plans beat single-country eSIMs?
 
 Not on a Panama-only plan. For a Central or South American loop, price a regional plan instead of stacking single-country profiles — our [Costa Rica eSIM guide](/carriers/costa-rica-esim-carrier-guide/) and [Colombia eSIM page](/colombia-esim/) cover the two most common onward stops.
 
@@ -352,7 +352,7 @@ On a partial transit, yes — the locks are covered. Signal follows the shore in
 
 [More questions? View the full FAQ →](/faq/)
 
-## Panama eSIM sources we rely on
+## The sources behind this Panama guide
 
 - **ASEP** — Panama's [National Public Services Authority](https://www.asep.gob.pa/) regulates the four operators and forces them to publish the bandwidth and prices they actually sell.
 - **Ookla Speedtest Global Index** — [the Panama page](https://www.speedtest.net/global-index/panama) reports median mobile and fixed speeds each month.

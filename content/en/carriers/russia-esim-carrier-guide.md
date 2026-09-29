@@ -23,7 +23,7 @@ Unverified phone? The [device compatibility checker](/compatibility/) comes befo
 
 **Quick verdict:** A travel eSIM installed **before you fly** is the only clean, legal connectivity for most visitors in 2026 — it roams onto MTS, MegaFon, Beeline or Tele2 and works across Moscow, St. Petersburg and every mid-sized city. Expect three things: a **~24-hour data and SMS block on first registration** (voice calls keep working; since late November 2025 an operator captcha can clear it in minutes); **airport and public Wi-Fi that requires a Russian phone number** you do not have; and, since July 2026, **app filtering that follows your physical location** — WhatsApp, Instagram and YouTube stay blocked even on a roaming profile, so install alternatives at home. Buy the eSIM before boarding: Visa, Mastercard and Amex payments do not go through inside Russia.
 
-## The 2025–2026 Russia SIM rule changes
+## Russia SIM and eSIM rule changes in 2025–2026
 
 Russia's connectivity rules changed more in eighteen months than in the previous decade. These are the facts a current guide must state, with dates:
 
@@ -38,7 +38,7 @@ Russia's connectivity rules changed more in eighteen months than in the previous
 
 The official rationale for the cooling-off block is drone defense — SIMs are used in drone navigation — and implementation is inconsistent: some travelers report no block, others a block that appears hours after landing. Two re-triggers most guides omit: **72 hours of inactivity re-arms the block** (idle over a weekend on hotel Wi-Fi and Monday you are blocked again — let the eSIM register briefly each day), and switching operator or region can re-trigger it.
 
-### What the 2025–2026 Russia SIM rules mean for your planning
+### What the 2025–2026 Russia SIM rules mean for your trip
 
 The practical upshot is that Russia is now a destination you prepare for, not one you improvise in:
 
@@ -47,7 +47,7 @@ The practical upshot is that Russia is now a destination you prepare for, not on
 - **The rules are recent and moving.** Any guide that does not mention the October 2025 block or the July 2026 filtering change is out of date, whatever else it gets right.
 - **Voice still works when data does not.** That single fact rescues most arrival-day logistics: a call to your hotel or transfer is usually possible even while the data block is active.
 
-## The three things that break first on a Russian connection
+## What usually goes wrong with mobile data in Russia?
 
 ### 1. The 24-hour block on arrival
 
@@ -85,7 +85,7 @@ Until mid-2026, a roaming eSIM's traffic exited abroad and slipped past Russian 
 | WhatsApp | Your usual channel | **Blocked since Feb 2026** |
 | Instagram, YouTube | Social and video | **Blocked, and no longer bypassed by roaming** |
 
-## The mobile operators, compared
+## Russia's mobile operators compared for eSIM users
 
 Your Russia eSIM does not choose a carrier in the store sense — it roams onto whichever Russian network its profile uses, and all four majors cover the tourist geography well:
 
@@ -96,7 +96,7 @@ Your Russia eSIM does not choose a carrier in the store sense — it roams onto 
 | Beeline | Moscow, St. Petersburg | Solid urban coverage; competitive as a roaming host |
 | Tele2 (T2) | Cities and the Trans-Siberian route | The value network; a common host for international travel eSIMs |
 
-### The Russia carrier lineup
+### Which mobile networks operate in Russia?
 
 In most countries this section would decide your purchase. In Russia it decides almost nothing, for three reasons:
 
@@ -121,7 +121,7 @@ Coverage by itinerary:
 
 For market context: [Cable.co.uk's worldwide pricing survey](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) still prices Russian local data at roughly **USD 0.25 per GB** — among the world's cheapest — a figure that describes residents' reality, not a tourist's options. [Ookla's Speedtest Global Index](https://www.speedtest.net/global-index) does not publish a live country ranking for Russia, which is itself part of the measurement picture; [Opensignal's market reports](https://www.opensignal.com/reports) remain the best independent read on network experience. [DataReportal's Digital 2025 data](https://datareportal.com/reports/digital-2025-russia) counts over 100 million internet users in a market that is internally sophisticated and externally sealed.
 
-## How to get connected in Russia: the realistic decision tree
+## How to get connected in Russia: your realistic options
 
 | Route | Status in 2026 | Verdict |
 |:---|:---|:---|
@@ -148,7 +148,7 @@ For completeness, because guides still recommend it: since January 2025 a Russia
 - Cash or a locally accepted card for on-the-ground spending
 - The expectation set: day one is voice calls, Wi-Fi at your hotel, and a captcha
 
-## Phone eligibility for Russian roaming eSIMs
+## Phone compatibility for Russia eSIMs
 
 ### Will your phone work with a Russia eSIM?
 
@@ -162,7 +162,7 @@ Your Russia eSIM runs on standard 4G/LTE bands, so frequency support is seldom t
 | Older handset | No EID when you dial `*#06#` | Check before booking — there is no local fallback |
 | Phone that auto-switches networks | Re-arms the 24-hour block | Lock manual network selection once connected |
 
-### Confirm eSIM hardware and lock status before you book flights
+### How to confirm your phone's eSIM and lock status
 
 There is no store inside Russia that can fix a locked handset, so settle this at home.
 
@@ -172,7 +172,7 @@ There is no store inside Russia that can fix a locked handset, so settle this at
 
 Do this at home, not in Russia.
 
-## Carrier-by-carrier APN
+## Russia eSIM APN settings, carrier by carrier
 
 A travel eSIM supplies its own APN — type nothing. If you are ever on a manually provisioned profile:
 
@@ -196,7 +196,7 @@ This concerns manually provisioned profiles only — and it is never a cure for 
 
 Settings → Cellular → [the Russian line] → Cellular Data Network on iPhone, or Settings → Network & Internet → Access Point Names on Android. Save, restart, confirm the line carries data — and remember that editing an APN cannot lift a policy block, only clear a configuration error.
 
-## Installing, step by step
+## How to install a Russia eSIM step by step
 
 Install and test your Russia eSIM before you board — QR scan, line label, data line, roaming on. The generic sequence is in our [activation how-to guide](/faq/how-to-activate-an-esim/), and having the profile already live when you land saves an awkward first hour.
 
@@ -214,7 +214,7 @@ Finish every line below before you board — arrival in Russia gives you no seco
 | 6 | Shutdown and blocking reality | Banking and anything requiring SMS sorted before departure |
 | 7 | Everything else pre-loaded | Maps, ride-hailing, messaging alternative, hotel address offline |
 
-### Quirks in how Russia issues profiles
+### Five quirks of using a Russia eSIM
 
 1. **Install before boarding.** The profile attaches when it first meets a Russian tower — that is when the 24-hour clock starts, so time it to your arrival.
 2. **Check for the verification SMS the moment you land.** The captcha link is your five-minute escape from the block; it arrives as soon as the phone registers.
@@ -222,7 +222,7 @@ Finish every line below before you board — arrival in Russia gives you no seco
 4. **Avoid switching networks once connected.** Moving between operators or regions can re-trigger the block.
 5. **If data never comes back after the captcha**, work the standard sequence — data line, roaming toggle, network selection — then the [full troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/).
 
-### Rescuing a Russia eSIM in four moves
+### How to fix a Russia eSIM in four steps
 
 **A. The eSIM will not install**
 1. This one you must solve at home — confirm Carrier Lock reads "No SIM restrictions"
@@ -346,7 +346,7 @@ More questions? [Browse the full FAQ](/faq/)
 
 Overland itineraries change the connectivity picture at every frontier. The same carrier-level treatment exists for our [Kazakhstan carrier guide](/carriers/kazakhstan-esim-carrier-guide/) and the [China eSIM page](/china-esim/) — the two most common land-border continuations — and note that a profile that works in Russia does not automatically work in either: China in particular runs its own filtering regime, so plan each border crossing as a separate connectivity problem. Re-entering Russia restarts the arrival process, which is worth timing deliberately rather than discovering at a checkpoint.
 
-## Sourcing note: Russia eSIM facts and dated rules
+## Sources for these Russia eSIM facts and rules
 
 - **Russian carriers** — [MTS](https://mts.ru/), [MegaFon](https://moscow.megafon.ru/), [Beeline](https://www.beeline.ru/) and [Tele2](https://tele2.ru/) publish their own network and roaming terms.
 - **Opensignal** — [market reports](https://www.opensignal.com/reports) and [coverage maps](https://www.opensignal.com/networks) give the clearest independent view of Russian network experience.

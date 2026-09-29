@@ -66,7 +66,7 @@ For a normal holiday — navigation, bookings and the occasional laptop hotspot 
 
 💡 A multi-network eSIM profile is the practical middle path: [Roami's Greece eSIM](/greece-esim/) keeps the convenience of instant delivery, switches automatically between Cosmote, Vodafone and Nova, and still lands you on Cosmote in the Cyclades and Nova in town without buying twice.
 
-## What phones accept Greece eSIMs
+## Is my phone ready for a Greek eSIM?
 
 Three things decide whether your phone works on a Greek carrier: its frequency bands, its lock status, and a short list of device-specific quirks. All three are covered below.
 
@@ -97,7 +97,7 @@ If you bought a used phone, or a phone on a plan from a US or European carrier, 
 
 Past that point the quirks belong to your handset, not to the Greek networks. Before you pay for an island-hopping plan, push your model through the [compatibility lookup tool](/compatibility/).
 
-## GB price comparison
+## What does data cost from each Greek carrier?
 
 Three routes exist, and they differ more in paperwork than in price: Cosmote for the widest reach, Vodafone for strong cities, and Nova for the cheapest unlimited. Each route, step by step.
 
@@ -114,7 +114,7 @@ Cosmote is the incumbent and the market leader, and it is the network Ookla name
 
 Cosmote's prepaid bundles are among the most generous for island travel, which makes Cosmote the default Greece eSIM recommendation for anyone leaving the mainland. Check your model before buying.
 
-### Greece: local SIM against travel eSIM
+### How do you get a Vodafone Greece plan?
 
 Vodafone Greece is the solid number two. It supports eSIM on eligible plans through its app and stores, and it runs strong 5G in Athens, Thessaloniki and the bigger islands.
 
@@ -126,7 +126,7 @@ Nova is the network you may still hear called Wind, a name it dropped after the 
 
 Nova's Ookla numbers are third of the three: a Speed Score of 59.76 and a 5G availability of 75.3%, with a Game Score of 81.27 that actually edges Vodafone. In practice Nova is perfectly good in cities and large resorts but historically thinner on the smaller islands and in the mountains. If your trip is Athens plus a single big island, Nova saves money without much risk; if you are stringing together the small Cyclades, spend the extra euros on Cosmote.
 
-### The cost of Greece eSIM plans
+### What to have ready before a shop visit
 
 - **Passport or EU identity card** — Greek law registers every prepaid line against it; a photocopy or scan is taken at the counter
 - **IMEI** — dial `*#06#`
@@ -219,7 +219,7 @@ The practical takeaway: a Greek SIM is a brilliant tool inside the EU and on the
 
 Automatic network selection is what makes Greek travel work. A profile that can move between Cosmote, Vodafone and Nova covers the gaps that any single-carrier plan cannot, especially on the ferries and in the hills.
 
-## The APN Values You Need
+## Does a Greek SIM need its own APN?
 
 APN settings sit at the bottom of most travellers' to-do list, yet they are the first suspect when data dies on a ferry. The values for the three Greek networks appear below, for the rare cases where manual entry is truly needed, along with the exact menus.
 
@@ -235,7 +235,7 @@ You will only need these if you bought a SIM or eSIM **directly from a Greek car
 
 Leave username and password empty. Most modern eSIM profiles configure the APN automatically, so if data works you can ignore this table entirely. If a carrier-issued prepaid eSIM did not auto-configure, enter the value above and restart.
 
-### Greece networks: APN details
+### The rare cases that need a manual APN
 
 - A handset too old to fetch carrier settings on its own
 - A profile set up with a manual activation code instead of a QR scan
@@ -265,7 +265,7 @@ Work through this section once: it takes a Greece eSIM from clean install to wor
 
 Do step 4 at home. Athens International arrivals halls have congested Wi-Fi exactly when you need it most, and a profile you install on the ground competes with everyone else's.
 
-### Activation steps for Greece eSIMs
+### Does every carrier activate eSIMs the same way?
 
 The full walkthrough, from scanning the QR code to switching roaming on, sits in our [eSIM activation walkthrough](/faq/how-to-activate-an-esim/). What differs by carrier:
 
@@ -328,19 +328,19 @@ Nova supports eSIM on eligible plans and is the cheapest of the three, with Free
 
 Cosmote, on the evidence. It led Ookla's 5G availability at 78.5% in the first half of 2025 and is the network most travel writers name for holding signal on the Cyclades ferry routes and in remote island harbours. Vodafone is a close second in towns; Nova is the one to avoid if your itinerary flirts with the small islands.
 
-### Quick takes on Greece eSIMs
+### Do I need ID to buy a Greek SIM?
 
 ID is required. Greek law bans anonymous prepaid lines, so every local SIM and prepaid eSIM is registered against a valid passport or EU identity card, and the seller photographs or copies the document at the point of sale. You must also be 18 or over. A travel eSIM bought before you fly usually needs only an email, which is why many visitors skip the shop entirely.
 
-### Greece roaming fees
+### Does a Greek SIM roam free in the EU?
 
 Inside the EU and EEA, yes, a Greek SIM roams at home rates under the roam-like-at-home rules. Turkey, Albania, North Macedonia, Serbia, Montenegro and Bosnia are outside that zone, so a plain Greek prepaid plan is not covered and roaming charges apply. On Kos and Patmos you can even connect to a Turkish mast by accident, so set the network manually to Cosmote GR near those borders.
 
-### Regional coverage in Greece
+### Why do ferries lose signal mid-crossing?
 
 Because there is no mast in the open Aegean. Cellular signal typically drops about 5 to 10 km from any coastline and does not return until you approach the next port, leaving 30 to 90 minutes offline on most crossings. Even Cosmote, the strongest network, falls to nothing a few kilometres off Santorini. The fix is preparation: download offline maps and your ferry ticket as a PDF before you board.
 
-### Greece eSIM: IMEI and EID rules
+### Why is my phone on a Turkish network?
 
 On Kos and Patmos, which sit close to the Turkish coast, a phone set to automatic network selection can camp on a Turkish operator, a non-EU network that bills at international rates. Open Settings, Cellular, Network Selection, switch off automatic, and manually choose Cosmote GR. That keeps you on the Greek network you paid for.
 
@@ -356,13 +356,13 @@ Direct means one network, carrier-issued provisioning, and a passport registrati
 
 That is expected, not a fault. The Samaria Gorge runs 16 km through a national park with no signal from end to end, so download offline maps and the Agia Roumeli ferry schedule before you start the descent. Signal returns at the trailhead in Omalos and at the coastal exit in Agia Roumeli. The same applies to the Vikos Gorge in Zagori and to any deep mountain road.
 
-### Problem phones for Greece travel eSIMs
+### How does an eSIM actually work?
 
 The eSIM is the chip factory-fitted in your handset that holds carrier profiles in place of a plastic card. An operator issues the profile, your handset saves it onto that built-in chip, and from then on it acts like any SIM. The mechanics, SM-DP plus servers, activation codes, and why a QR code is single-use, are explained in [eSIM activation mechanics](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 More questions? [Full FAQ index](/faq/)
 
-## The eSIM carriers: Cosmote, Vodafone and Nova
+## The sources behind this Greece guide
 
 - **Ookla Speedtest Connectivity Report — Greece, January to June 2025** — [the per-carrier report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025) underpins every carrier-level figure here: Cosmote's Connectivity Score of 77.64 and Best Mobile Network award, the Speed Scores of 71.26, 63.65 and 59.76, the 5G availability of 78.5%, 76.1% and 75.3%, and the consistency, video, game and 5-Star ratings.
 - **Ookla Speedtest Global Index** — [the Greece country page](https://www.speedtest.net/global-index/greece) tracks national median mobile download and rank, refreshed monthly.

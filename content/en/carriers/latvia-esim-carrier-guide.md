@@ -21,7 +21,7 @@ If you have not confirmed your phone takes an eSIM profile, the [compatibility l
 
 **If you read nothing else:** LMT is Latvia's coverage leader — the widest rural map and the network locals recommend outside Riga, with week-long plans from around €5. Tele2 is the value pick with generous unlimited short-term bundles from about €4.50. Bite is the data-volume play. All three sell SIMs at Riga Airport's Narvesen stores, and all three require passport registration. The killer feature: local plans include **Baltic roaming**, and as EU members, Latvian lines also roam across the EU under roam-like-at-home rules — a Latvia eSIM is effectively a Baltic-and-EU pass if you choose the right plan.
 
-## The best Latvia carrier for your trip
+## Which carrier should I choose for my trip to Latvia?
 
 | Your plans | Go-to carrier | What makes it the pick |
 |:---|:---|:---|
@@ -34,7 +34,7 @@ If you have not confirmed your phone takes an eSIM profile, the [compatibility l
 
 💡 A multi-network [Latvia eSIM](/latvia-esim/) re-selects the strongest of LMT, Tele2 or Bite as you move — most useful on the Riga–Sigulda–Daugavpils triangle where footprints trade places.
 
-## The Networks, Side by Side
+## How LMT, Tele2 and Bite compare for travelers
 
 ### LMT, Tele2 and Bite, compared for Baltic travel
 
@@ -71,7 +71,7 @@ Here is the honest trade: Latvia's local prepaid plans are genuinely excellent v
 
 The regulator is the [Public Utilities Commission (SPRK)](https://www.sprk.gov.lv/), which oversees all three operators and publishes market data.
 
-## What registration involves
+## What does SIM registration require in Latvia?
 
 Latvia requires prepaid SIM registration against a valid passport or EU/EEA ID, completed at the point of sale with the clerk scanning your document. It takes minutes, but it changes the practical math behind any Latvia eSIM you buy inside the country:
 
@@ -91,7 +91,7 @@ Two consequences worth internalizing. First, **you cannot register a la carte** 
 
 Add the EU dimension: Latvia is an EU member, so any local plan roams across the EU under roam-like-at-home rules — and the three carriers all include explicit EU roaming allowances in their tourist-facing bundles. That is what turns a [Latvia eSIM](/latvia-esim/) into the connectivity for a Tallinn–Riga–Vilnius loop, provided you pick the plan whose Baltic and EU allowances match your route.
 
-## Local SIM and travel eSIM costs
+## Latvia's mobile market in numbers
 
 | Reference | Figure | What it tells you |
 |:---|:---|:---|
@@ -102,7 +102,7 @@ Add the EU dimension: Latvia is an EU member, so any local plan roams across the
 
 The [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/latvia) places Latvia around 35th globally with mobile medians near **124 Mbps** — comfortably above the global median — and [DataReportal's Digital 2025: Latvia](https://datareportal.com/reports/digital-2025-latvia) supplies the connection totals above. This is a mature, fast, cheap market; the differences between carriers are about geography, not technology.
 
-## Coverage by Region
+## Where coverage holds across Latvia
 
 | Region | Coverage reality | Best carrier | Watch out for |
 |:---|:---|:---|:---|
@@ -123,7 +123,7 @@ The [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/latvia
 
 Crossing borders? The same breakdowns exist for our [Estonia eSIM guide](/carriers/estonia-esim-carrier-guide/), [Lithuania eSIM page](/lithuania-esim/) and [Finland eSIM plans](/finland-esim/) — and the Baltic-roaming feature of local Latvian plans is exactly why those three countries pair so well on one itinerary.
 
-## Latvia data plans, priced
+## Should I buy online or at Riga Airport?
 
 | Route | What it takes | Best for |
 |:---|:---|:---|
@@ -138,7 +138,7 @@ Crossing borders? The same breakdowns exist for our [Estonia eSIM guide](/carrie
 4. Land at RIX and let the profile attach — no counter, no passport queue.
 5. If your itinerary continues into Estonia or Lithuania, confirm what your plan covers before you leave Riga.
 
-### Route 2 — Physical SIM at RIX or a city store
+### Buying a physical SIM at RIX or a city store
 
 1. Find the Narvesen store in arrivals or departures — all three carriers are stocked.
 2. Bring your passport; registration is mandatory and scanned at the counter.
@@ -148,7 +148,7 @@ Crossing borders? The same breakdowns exist for our [Estonia eSIM guide](/carrie
 
 **Before you buy:** confirm the phone is unlocked, note your EID (`*#06#`), and install pre-purchased profiles before departure — the plan clock starts when the profile first meets a Latvian tower, not when you scan the QR code.
 
-## Phone eligibility for Latvian eSIMs
+## Is my phone ready for a Latvian eSIM?
 
 ### How to activate a Latvia eSIM
 
@@ -168,7 +168,7 @@ All three Latvian operators broadcast on ordinary EU bands, so a mainstream impo
 - iPhone: Settings → General → About → **Carrier Lock** — look for "No SIM restrictions".
 - Android: open Settings -> Connections to reach SIM Manager.
 
-## Entering APN settings in Latvia
+## What APN does each Latvian carrier use?
 
 Travel eSIM profiles carry their own APN. For locally bought lines that fail to pass data:
 
@@ -235,7 +235,7 @@ The standard sequence for activating a Latvia eSIM — QR scan on Wi-Fi, label t
 2. Check whether a partner network is available on your plan
 3. Remember the parks are the weak spot for Tele2 and Bite specifically
 
-### Latvia eSIM regional coverage
+### What to have ready before contacting support
 
 | What to provide | Where to find it |
 |:---|:---|
@@ -246,7 +246,7 @@ The standard sequence for activating a Latvia eSIM — QR scan on Wi-Fi, label t
 | Current APN settings | Settings → Cellular Data Network |
 | Data roaming status | Settings → Cellular → your eSIM line |
 
-## Riga day one: a Latvia eSIM connectivity plan
+## Landing at RIX with your eSIM already working
 
 Latvia's registration rule makes arrival the highest-friction moment of the trip, so it is worth scripting:
 
@@ -258,7 +258,7 @@ Latvia's registration rule makes arrival the highest-friction moment of the trip
 | On the bus into town | Load your map and your booking — Riga's public transport runs on an app |
 | At the hotel | Connect to Wi-Fi and check your allowance before streaming anything |
 
-### Latvia eSIM plan comparison
+### Five questions before buying at a Latvian counter
 
 1. **Decide whether you need a Latvian number at all.** If not, stop — the eSIM already covers you.
 2. **Bring your passport, not a photocopy.** The clerk scans the document itself.
@@ -338,7 +338,7 @@ Rarely. A two- or three-day city break is exactly the case the travel eSIM was d
 
 More questions? [See the complete FAQ →](/faq/)
 
-## Latvia eSIM source list and caveats
+## Where the Latvia figures in this guide come from
 
 - **Public Utilities Commission (SPRK)** — [the regulator](https://www.sprk.gov.lv/) oversees all three Latvian operators and stands behind the market data below.
 - **Ookla Speedtest Global Index** — [the Latvia page](https://www.speedtest.net/global-index/latvia) tracks median speeds, latency and world rank each month.

@@ -21,7 +21,7 @@ This guide covers the carrier comparison, the EU roaming angle for visitors, the
 
 **If you read nothing else:** Odido is the speed pick — fastest medians in the Netherlands by a wide margin, ideal for heavy data users and hotspots. KPN Mobile is the consistency pick, especially outside the big cities and in the national parks. Vodafone is the all-rounder with solid urban coverage everywhere you will actually be. Any of the three is excellent by European standards; a multi-network [Netherlands eSIM](/netherlands-esim/) simply attaches to whichever wins in each spot.
 
-## Picking your eSIM for a city break or a long stay
+## Odido, KPN or Vodafone for your trip?
 
 Every Dutch measurement below is drawn from [Ookla's H1 2025 Netherlands analysis](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025).
 
@@ -34,7 +34,7 @@ Every Dutch measurement below is drawn from [Ookla's H1 2025 Netherlands analysi
 
 ## Odido, KPN and Vodafone: who leads, and where
 
-### Odido vs KPN Mobile: which Netherlands carrier is faster?
+### Odido, the fastest network in the country
 
 Odido's H1 2025 numbers lead every headline metric: median download of **216.3 Mbps** across all technologies (against KPN's 152.08 Mbps and Vodafone's 104.7 Mbps), 272.74 Mbps on 5G, 28.38 Mbps 5G upload, and an overall Speedtest Connectivity Score of 84.34. Formerly T-Mobile Netherlands and now merged with fibre operator T-Mobile/Tele2's infrastructure under the Odido brand, it built its lead on dense urban capacity — and it shows in the city table, where Eindhoven's 220.42 Mbps median is the fastest populous-city reading in the country. For raw speed, nothing else in the Netherlands is close.
 
@@ -113,7 +113,7 @@ For everyone else the straightforward route is a travel profile bought and insta
 
 💡 Flying on to Belgium or Germany? A regional profile avoids buying twice; our [Belgium eSIM guide](/carriers/belgium-esim-carrier-guide/) and [Germany eSIM plans](/germany-esim/) cover the neighbouring legs.
 
-## Your eSIM pricing versus Dutch prepaid
+## Is a Dutch prepaid cheaper than a travel eSIM?
 
 Dutch pricing — data-only and unlimited options both — appears on the [Netherlands eSIM page](/netherlands-esim/). The public benchmarks frame it:
 
@@ -161,7 +161,7 @@ None of this needs a Dutch phone number; it needs reliable data, which is the on
 
 Two compatibility notes. First, the Netherlands uses the European band plan, so a handset bought for North America may lack B20 and n78 — it will work in city centres and thin out in Zeeland and Drenthe. Second, a carrier-locked phone bought on contract abroad will refuse the profile entirely. [eSIM compatibility checker](/compatibility/) settles both questions in one lookup.
 
-## APN settings for Netherlands eSIMs
+## Why manual APN entry is rare in the Netherlands
 
 Dutch operators push their settings automatically, and a travel eSIM supplies its own profile, so manual APN entry is genuinely rare here. If you do need it after buying a local line, the pattern is the same across the market: an APN field containing the operator's own string with username and password left blank, and the carrier's support page as the authority for the exact value rather than a third-party list.
 
@@ -170,7 +170,7 @@ Dutch operators push their settings automatically, and a travel eSIM supplies it
 
 The reason it is worth knowing the menu path at all is the symptom it fixes: **bars and no data on a locally bought prepaid line** is almost always an APN or data-line problem, not a network fault. On a travel eSIM the equivalent symptom is nearly always a data-line or roaming toggle.
 
-## Which route costs less
+## How easy is it to buy a Dutch SIM in person?
 
 | Step | What happens |
 |:---|:---|
@@ -181,7 +181,7 @@ The reason it is worth knowing the menu path at all is the symptom it fixes: **b
 
 The Netherlands is one of the easier EU markets to buy locally in — short queues, English-speaking staff, widespread availability. The reason to still arrive with an eSIM is that pre-installed profiles work from the moment the plane lands, which on a three-day Amsterdam trip is the difference between using data on arrival and hunting a shop on day one.
 
-## Data sizing for a Netherlands eSIM, short or long stay
+## How much data does a Dutch trip actually burn?
 
 | Trip | Typical length | Comfortable allowance | Why |
 |:---|:---|:---|:---|
@@ -228,7 +228,7 @@ The Netherlands is small enough that the border turns up on ordinary day trips, 
 
 If the trip stays inside one country, a Netherlands eSIM is the cheaper answer. If it is a rail loop through Brussels and Cologne and back, price a Europe regional plan against three country profiles — our [Belgium's eSIM carriers](/belgium-esim/) and [Germany eSIM page](/germany-esim/) cover the two most common legs.
 
-## Netherlands eSIM and carrier FAQs
+## Common Dutch eSIM questions, answered
 
 ### Odido vs KPN Mobile: which is better in Netherlands?
 
@@ -346,7 +346,7 @@ Yes, exactly as at home: calls and verification codes on the physical SIM, Dutch
 
 Dutch prepaid is easy to buy — supermarkets, phone shops, the airport — and it is registered, which adds a step you may not want at 07:00 after a night flight. A [Netherlands eSIM](/netherlands-esim/) bought in advance gives you Odido, KPN and Vodafone coverage without the counter. Try a [complimentary trial eSIM](/free-esim/) first if you want to see how it behaves before paying.
 
-## Netherlands eSIM data sources: where the figures originate
+## Where the Dutch figures originate
 
 Three published references underpin this page. The carrier metrics, 5G availability and all city and provincial readings are taken from [Ookla's 1H 2025 Netherlands report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025). Dutch medians refresh each month on the [Ookla index for the Netherlands](https://www.speedtest.net/global-index/netherlands), which is where the 158.27 Mbps figure and the 18th-place standing both live. The EU roaming rights quoted here are restated from the [European Commission's Your Europe pages](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm). If our sources split on Netherlands, we show the spread rather than the nicer number.
 

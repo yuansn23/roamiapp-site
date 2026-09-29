@@ -235,7 +235,7 @@ Extending the trip? The same breakdowns exist for our [Argentina eSIM guide](/ca
 
 
 
-## Plan prices, compared
+## Plan prices compared: online, airport or city store
 
 
 
@@ -353,7 +353,7 @@ Run it before you leave home — Carrasco arrivals has no repair kiosk.
 
 
 
-## APN entries by network
+## How do I set the APN for my Uruguay eSIM?
 
 
 
@@ -399,7 +399,7 @@ Settings → Cellular → [the Uruguayan line] → Cellular Data Network on iPho
 
 
 
-## eSIM install guide
+## How do I install my Uruguay eSIM?
 
 
 
@@ -521,7 +521,7 @@ Have this ready before you open a chat — interior and coastal gaps are documen
 
 
 
-## Uruguay's mobile market
+## Why is mobile data so cheap in Uruguay?
 
 
 
@@ -565,7 +565,7 @@ If Uruguay is one stop on a longer route rather than the destination:
 
 
 
-## Straight answers: Uruguay carrier eSIMs
+## What do travelers ask about Uruguay eSIMs?
 
 
 
@@ -585,7 +585,7 @@ Yes — every SIM is tied to an identity document by law, scanned or photographe
 
 
 
-### Uruguay mobile carriers
+### Which carrier is best in Uruguay?
 
 
 

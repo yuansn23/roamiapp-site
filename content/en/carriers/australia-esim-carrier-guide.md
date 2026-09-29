@@ -23,7 +23,7 @@ If the basics are still open questions — does my phone support eSIM, and what 
 
 **The one-paragraph answer:** Staying in Sydney, Melbourne, Brisbane, Perth or Adelaide? Optus took Ookla's Best 5G Network award and is fastest where it has signal, while Telstra is just as strong in the cities and wider on 5G population coverage. Driving long regional routes between cities? Only Telstra holds a usable signal, and even that is intermittent in places, so a satellite messenger beats any eSIM there. Want a carrier eSIM as a visitor? All three sell prepaid eSIMs, but every one requires a passport under Australia's prepaid identity law, and none of them gives you multi-network coverage. Or skip the paperwork: [free trial plan](/free-esim/) tests the networks at no cost, and apply code **WEB20** for 20% off [Australia prepaid eSIM plans](/australia-esim/).
 
-## The local carriers: Telstra, Optus and Vodafone
+## How Telstra, Optus and Vodafone handle visitors
 
 Three networks run Australia, and a long tail of budget brands ride on their towers. The first table is the most important thing on this page, because it lines up how each of the three carriers handles visitors; the detail behind those rows follows below.
 
@@ -68,7 +68,7 @@ For an ordinary holiday the price gap is not close. A carrier-issued Australia e
 
 💡 A multi-network eSIM profile is the practical middle path: [Roami's Australia eSIM](/australia-esim/) keeps the convenience of instant delivery, switches automatically between Telstra, Optus and Vodafone, and still lands you on Telstra in the Outback and Optus in the city without buying twice.
 
-## Will your phone work?
+## Will your phone work on Australian networks?
 
 Three things decide whether your phone works on an Australian carrier: its bands, its lock status, and a short list of device-specific quirks. All three are covered below, and two of them are more important in Australia than almost anywhere else because the country has switched off 3G and has enormous dead zones.
 
@@ -101,7 +101,7 @@ If you bought a used phone, or a phone on a prepaid plan, assume it may be locke
 
 Beyond these cases, the problem is the handset rather than the Australian network. Punch your exact model into the [eSIM compatibility page](/compatibility/) before you commit to a plan you cannot use.
 
-## Which plan gives the most data per dollar?
+## Buying a prepaid eSIM from Telstra, Optus or Vodafone
 
 Three routes to an Australia eSIM exist, and they differ more in price and paperwork than in technology: Telstra for the widest reach, Optus for the awarded 5G network, and Vodafone for the cheapest city data. Each route, step by step, and every one of them asks for a passport.
 
@@ -167,7 +167,7 @@ Vodafone also owns the TPG and Lebara brands and shares network infrastructure w
 - **Wi-Fi** — install the profile before you fly, not at the airport
 - **An unlocked phone** — confirm Carrier Lock reads No SIM restrictions
 
-## Carrier landscape
+## Comparing Telstra, Optus and Vodafone on speed and coverage
 
 Two factors decide what follows: measured speed where you are travelling, and the kind of trip you are making. The carrier results below cover raw performance, and the trip table covers suitability.
 
@@ -221,7 +221,7 @@ Planning a route that leaves Australia? Start with [eSIM for New Zealand](/new-z
 
 Automatic selection across networks is where the advantage sits. An Australia eSIM profile that can move between Telstra, Optus and Vodafone covers the regional gaps that any single-carrier plan cannot, and it is the only way to stay connected across a coast-to-coast Australian road trip.
 
-## APN values that work
+## Do I need to enter an APN in Australia?
 
 Most travelers never open the APN screen, and yet it is the first place worth looking when data stalls. What follows covers each carrier value, the cases that really need manual entry, and the menu path on each platform.
 

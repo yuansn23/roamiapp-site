@@ -195,7 +195,7 @@ One warning deserves its own paragraph: never buy a "pre-registered" SIM from a 
 
 
 
-## SIM Registration Rules
+## What happens at the registration counter?
 
 
 
@@ -477,7 +477,7 @@ Nationally, Ghana's median mobile download stood at **50.87 Mbps** in the August
 
 
 
-### Ghana's mobile networks
+### The speeds each network actually delivers
 
 
 
@@ -577,7 +577,7 @@ A travel eSIM changes that arithmetic: a regional profile bills the crossed-into
 
 
 
-## APN values for MTN, Telecel and AT Ghana eSIMs
+## The APN values MTN, Telecel and AT use
 
 
 
@@ -601,7 +601,7 @@ The MTN value is confirmed across the operator's own support channels, and setti
 
 
 
-## Activating your eSIM
+## When your Ghana line refuses to connect
 
 
 
@@ -681,7 +681,7 @@ No. A wallet has to attach to a locally registered number — an NCA-registered 
 
 
 
-### Urban and rural coverage in Ghana
+### Which Ghanaian network is the safest bet?
 
 
 
@@ -745,7 +745,7 @@ Yes — the eSIM supplies data, and WhatsApp stays bound to your home number, wh
 
 
 
-## Sources behind our Ghana eSIM numbers
+## Every Ghana figure, traced to its source
 
 
 

@@ -23,7 +23,7 @@ Two common unknowns: does the phone support eSIM, and how does install work? Run
 
 **Bottom line:** Staying in Lisbon, Porto or the Algarve? All three legacy networks are strong in the cities, with NOS carrying the Best Mobile Network title. Driving the Alentejo interior, walking the levadas of Madeira or island hopping the Azores? MEO and Vodafone hold signal where NOS thins out. Want one eSIM that reaches all four networks without paperwork? [zero-cost trial eSIM](/free-esim/) tests the networks at no cost, and **WEB20** trims 20% off [Portugal prepaid eSIM plans](/portugal-esim/).
 
-## The local carriers: MEO, NOS and Vodafone
+## Portugal eSIM carriers: MEO, NOS and Vodafone
 
 This section answers the single most practical question a traveler has: which of Portugal's networks can you actually put on an eSIM, and is it worth the paperwork versus a travel profile.
 
@@ -40,7 +40,7 @@ Portugal has four national mobile networks. The three legacy operators, MEO, NOS
 
 The detail that matters most is the last row. Three of the four networks can put a profile on your phone, but only MEO lets a first-time visitor complete the entire purchase and activation online before leaving home. NOS and Vodafone still want you at a counter with your passport.
 
-### Portugal's carrier roster
+### Every carrier and MVNO you can buy in Portugal
 
 Portugal also has budget brands that ride on the big networks or run their own. These are where price-sensitive travelers look first.
 
@@ -87,7 +87,7 @@ A locked phone is the most common reason a Portugal eSIM install simply fails. P
 
 If you bought a phone on a plan from a US or European carrier, assume it may be locked and check before you fly. A locked handset will reject a local card or profile at the counter.
 
-### IMEI and EID checks for a Portugal eSIM
+### Which phone problems block a Portugal eSIM?
 
 | Device | Symptom | What to do |
 |:---|:---|:---|
@@ -99,7 +99,7 @@ If you bought a phone on a plan from a US or European carrier, assume it may be 
 
 Anything further is about your particular phone, not about MEO or NOS. Check the [device compatibility list](/compatibility/) before checkout, not after landing in Lisbon.
 
-## Plan Sizes and What They Cost
+## Portugal eSIM plans and prices compared
 
 Four routes to a Portugal eSIM exist, and they differ more in paperwork than in price: MEO online, NOS and Vodafone in-store, Digi for the budget minded, and the travel eSIM that skips the counter. Each route, step by step:
 
@@ -116,13 +116,13 @@ MEO is the only one of the big three that lets a visitor finish everything onlin
 
 MEO's online flow is the fastest way to land with a working Portuguese number and no airport queue, which is why it leads this guide for visitors who hate errands.
 
-### Weighing local SIMs against travel eSIMs in Portugal
+### Does NOS sell eSIMs online to visitors?
 
 NOS does not yet offer a fully online tourist eSIM purchase for new customers. Its prepaid eSIM is activated at a store or kiosk, where you present your passport and the assistant generates a QR code on screen or on paper.
 
 For a NOS profile, the newcomer path is a visit: find a Loja NOS in a shopping centre or an arrivals-hall kiosk at Lisbon or Porto, show your passport, and scan the code within one to three minutes. NOS carries Ookla's Best Mobile Network title for 1H 2025, so the trade-off is real convenience for a strong network.
 
-### Portugal eSIM plan comparison
+### Where can you buy a Vodafone Portugal eSIM?
 
 Vodafone Portugal follows the same in-store pattern as NOS for visitors. Its kiosks sit in Terminal 1 at Lisbon airport, in Porto arrivals, and at Faro, and its prepaid eSIM is issued after a passport check.
 
@@ -148,7 +148,7 @@ All prices below are euros and reflect typical 2026 tourist prepaid bundles obse
 
 These bundles are data-and-voice packages with unlimited national SMS and a block of minutes. A pure data-only Portugal eSIM prices differently, usually per gigabyte, and skips the local number entirely.
 
-### MEO eSIM plans for visitors
+### What documents do you need for a Portugal eSIM?
 
 - **Passport** — mandatory for any SIM or eSIM registration in Portugal since 2021
 - **IMEI** — dial `*#06#`
@@ -159,7 +159,7 @@ These bundles are data-and-voice packages with unlimited national SMS and a bloc
 
 Install at home. Lisbon and Porto arrival halls have congested Wi-Fi exactly when you need it most, and a profile you install on the ground competes with everyone else's.
 
-## Your eSIM coverage, speed and which carrier wins
+## Portugal eSIM coverage and speed: which carrier wins?
 
 Two questions settle this section: how the carriers actually measure on Ookla's tests, and what kind of trip you are taking. The carrier scores below answer the first; the trip-type and regional tables answer the second.
 
@@ -252,7 +252,7 @@ After saving, restart the phone. Still no data? Check that the eSIM, rather than
 - A carrier-issued prepaid eSIM where automatic configuration did not run
 - Almost never on a travel eSIM, which is the point of a managed profile
 
-## How do you activate a Portugal eSIM and fix faults?
+## How do you activate a Portugal eSIM and fix problems?
 
 A single run-through here covers the path from clean install to working data plus the failure patterns Portuguese networks actually produce, in typical hit order.
 
@@ -334,7 +334,7 @@ Yes. Since 2021 Portuguese law requires identification at the moment any SIM or 
 
 Yes. The Azores and Madeira are Portuguese territory, so a mainland profile works there as a domestic connection with no roaming charge. Coverage is strong on the main islands and in the towns, but the smaller Azorean islands and the volcanic interiors are patchier, with MEO reaching the outermost spots best.
 
-### Portugal eSIM abroad: what works
+### Will your Portugal eSIM work abroad?
 
 Because Portugal sits inside the EU, any Portuguese SIM or eSIM uses the Roam Like at Home rules, so your allowance of calls, texts and data works across the other EU and EEA countries at domestic rates, subject to a fair-use data cap. A visitor from outside the EU gets the same benefit from a Portuguese SIM, because the rule follows the network, not the passport. For a multi-country trip, compare our [Spain eSIM plans](/spain-esim/) and a [Europe eSIM](/europe-esim/) that covers the whole bloc.
 
@@ -342,7 +342,7 @@ Because Portugal sits inside the EU, any Portuguese SIM or eSIM uses the Roam Li
 
 Direct means one network, carrier-issued provisioning, and often a local number and EU roaming; in exchange you face registration and sometimes a store visit. A travel eSIM means instant delivery, no paperwork, automatic switching between MEO, NOS, Vodafone and Digi, and a fixed upfront price. Short trip: travel eSIM. Long stay or you need a local number: direct.
 
-### Getting your phone unlocked for Portugal
+### How to unlock your phone for a Portugal eSIM
 
 Ask the carrier it is locked to. Paid-off devices are usually cleared within hours through the operator's self-serve channel at no charge. iPhone owners can read the lock state in Settings, General, About, Carrier Lock before they ever board a plane.
 
@@ -350,13 +350,13 @@ Ask the carrier it is locked to. Paid-off devices are usually cleared within hou
 
 Work the Portugal-specific patterns above in order, lock status, network selection, APN and data line, then profile reinstall, and if it still fails the wider error catalogue in [eSIM problem-solving guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. Keep the EID, order number and a photo of the error screen within reach before contacting anyone.
 
-### Problem handsets for Portugal eSIMs
+### Which phones have problems with Portugal eSIMs?
 
 The recurring ones are a carrier-locked phone, a handset without n28 or n20, mainland-China iPhone models with the hardware disabled, dual-SIM phones whose installed profile carries no data, and very old Androids with no eSIM menu at all. Underneath, the idea is simple: a chip already in your handset stores the carrier profile, so no physical card is needed. The mechanics, activation codes and why a QR code is single-use, are explained in [how eSIM activation works](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 More questions? [View the full FAQ →](/faq/)
 
-## Reference materials for our Portugal eSIM review
+## Sources for this Portugal eSIM guide
 
 - **Ookla Speedtest Connectivity Report, Portugal 1H 2025** — this [per-carrier report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025) carries the carrier figures used here: Vodafone's 79.18 Connectivity Score, 72.26 Speed Score, 91.7 Consistency and 80.3% 5G availability; Digi's 82.23 Game Score and 3.47 rating; NOS's Best Mobile Network award at 79.87; and MEO's Best 5G Network title. It also supplies the fixed-broadband figures for Vodafone.
 - **Ookla Speedtest Global Index** — the [Portugal entry](https://www.speedtest.net/global-index/portugal) provides the national median mobile download and monthly world rank.
@@ -380,7 +380,7 @@ Cross-check the carrier sections above against the speed data we cite, then test
 
 Landing with no connectivity, then wrestling airport Wi-Fi for a fix. Install and activate your Portugal eSIM the night before you fly — the whole process is covered above and takes minutes.
 
-## Roaming and Border Crossings
+## One Portugal eSIM from Lisbon to Madeira and the Azores
 
 One profile covers MEO, NOS, Vodafone and Digi, re-attaching to whichever signal is strongest as you go from Lisbon's streets to Madeira's levadas and the Azores. New visitors can [sample the network free](/free-esim/) first, or enter code **WEB20** for 20% off [Portugal eSIM plans](/portugal-esim/).
 

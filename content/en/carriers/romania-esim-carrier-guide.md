@@ -23,7 +23,7 @@ This guide works through that landscape for travellers: what each carrier is act
 
 **The verdict up front:** Orange is the default pick — fastest mobile network (median 86.91 Mbps, 156.76 Mbps on 5G), best 5G availability (50.9%), best consistency (92.6%), and the best rural reach. DIGI is the value challenger: cheapest data culture in Europe, 5G consistency of 88.1%, and the country's best 5G gaming experience. Install a [Romania eSIM](/romania-esim/) before departure, and expect city performance to be excellent, mountain passes to be patchy, and the delta to be offline — for everyone.
 
-## Romania eSIM choice: city break, road trip or long stay
+## Which Romania eSIM is right for your trip?
 
 The speeds cited in this guide originate in [Ookla's H2 2025 Romania report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025).
 
@@ -34,7 +34,7 @@ The speeds cited in this guide originate in [Ookla's H2 2025 Romania report](htt
 | Budget-heavy data use | DIGI | The network behind Romania's famously cheap data; 88.1% 5G consistency where it reaches. |
 | Mobile gaming | DIGI | Best 5G gaming experience in Romania in the H2 2025 report. |
 
-## Romania eSIM carrier speeds: Orange, DIGI and the full city data
+## Romania eSIM carrier speeds: how fast is each network?
 
 ### How fast is Orange in Romania?
 
@@ -44,7 +44,7 @@ Orange Romania's H2 2025 report card is close to a clean sweep: median download 
 
 DIGI (RCS&RDS) built its reputation by collapsing Romanian mobile prices, and its 5G network is no longer a punchline: a median 5G download of **126.22 Mbps**, the country's best 5G consistency at **88.1%** of samples above 25 Mbps down / 3 Mbps up, and the best 5G gaming experience in the H2 2025 report. Its overall median (64.75 Mbps) trails Orange's, and its footprint concentrates on cities and suburbs — Timișoara is its showcase, where 333.25 Mbps fixed broadband sets the pace. For travellers, DIGI is the value lane: strong where it is strong, and clearly second on rural reach.
 
-### Vodafone and Telekom Romania, briefly
+### What about Vodafone and Telekom Romania?
 
 Both remain licensed national operators, and both appear in multi-network eSIM plans as fallback lanes. Neither won a category in the H2 2025 Ookla report, so this guide — like most traveller itineraries — treats the market as an Orange-versus-DIGI race with two understudies.
 
@@ -101,7 +101,7 @@ For visitors with no EU plan, a travel profile is the predictable answer: instal
 
 💡 Bucharest, Budapest and Sofia in one trip? One regional profile beats three; our [Hungary eSIM guide](/carriers/hungary-esim-carrier-guide/) and [Bulgaria travel eSIM page](/bulgaria-esim/) cover the neighbours.
 
-## Romania in numbers: cheap data, fast fibre, mid-table mobile
+## Romania mobile data in numbers: how cheap and how fast?
 
 Romanian tiers, from data-only bundles to unlimited, are catalogued on the [Romania eSIM page](/romania-esim/). The public data frames the local reality:
 
@@ -125,13 +125,13 @@ The gap between the mobile and fixed columns is the Romania story in one table: 
 | Brașov & the Carpathians | Orange | Consistency wins in the valleys and around the resorts; the high passes have gaps on every network. |
 | Danube Delta | Orange | Signal exists in the towns and along the main channels; the deeper you go, the more offline it becomes. |
 
-## Installing a Romania eSIM: the setup sequence
+## How to set up and activate a Romania eSIM
 
 There is no counter and no clerk: pay online, receive the profile by email, add it in Settings, and permit roaming on the eSIM line. The whole thing is a five-minute job on home Wi-Fi, and doing it early avoids hunting for a SIM at Henri Coandă after a long flight. You can follow [the activation how-to](/faq/how-to-activate-an-esim/) for either platform, and the [failure list](/faq/esim-activation-errors-troubleshooting-guide/) covers what to do when it does not work.
 
 Two Romania-specific notes for road trippers. First, the Transfăgărășan and Transalpina highways cross genuine coverage voids — spectacular ones — so download offline maps and accommodation details in Sibiu or Brașov before the climb, not at the summit. Second, if your phone parks on a weak carrier in the mountains, select Orange manually from the network list; automatic selection does not always pick the strongest available network in terrain. City arrivals are simpler: Bucharest Otopeni airport has solid coverage from all networks, and the profile connects the moment you land if roaming was enabled before departure.
 
-### Romania eSIM: the five checks worth doing at home
+### Five pre-trip checks for your Romania eSIM
 
 | # | Check | Passing state |
 |:---|:---|:---|
@@ -151,7 +151,7 @@ Two Romania-specific notes for road trippers. First, the Transfăgărășan and 
 
 **D. Cross-border failure in Bulgaria or Hungary.** A Romania-only profile stops at the border. If your route continues to the Black Sea coast or through the Balkans, check the [Bulgaria eSIM page](/bulgaria-esim/) or a regional Europe profile before you leave.
 
-## Romanian trains, buses and the road to the Danube Delta
+## Romania eSIM on trains, buses and the road to the Danube Delta
 
 Romanian travel splits into two connectivity regimes, and planning for both is what keeps a Romania eSIM useful.
 
@@ -161,7 +161,7 @@ Romanian travel splits into two connectivity regimes, and planning for both is w
 
 **Cash, cards and connectivity.** Romanian cities are card-friendly, but rural fuel stations, market stalls and guesthouses in the Delta still lean on cash — download maps and carry lei, and the eSIM's job stays simple: navigation, messaging and the occasional video call from a mountain valley.
 
-## Which networks sell to visitors
+## Which Romanian networks sell eSIMs to visitors?
 
 Buying locally is genuinely cheap in Romania, and every carrier now has a prepaid route a tourist can complete with a passport. Prices below are the published prepaid tiers as of 2026 and are quoted in lei (RON); €1 sits near 5 RON, so 20 RON is roughly €4.
 
@@ -206,9 +206,9 @@ At 22 RON for 30 GB, DIGI is roughly a third of Orange's price for the same volu
 
 That is 15–35 minutes of your first morning. A travel eSIM trades the queue for a higher per-gigabyte price and no local number — the calculation most visitors make in favour of the eSIM once they see 30 GB of local data costs less than a coffee.
 
-## Is Your Phone eSIM-Compatible?
+## Will your phone work with a Romania eSIM?
 
-### Which frequencies Romanian networks use
+### Which network bands do Romanian carriers use?
 
 | Technology | Bands in use | What it means for your phone |
 |:---|:---|:---|
@@ -218,14 +218,14 @@ That is 15–35 minutes of your first morning. A travel eSIM trades the queue fo
 
 A phone without n78 still works well: it stays on LTE, and Romanian LTE medians (86.91 Mbps on Orange nationally) beat most countries' 5G.
 
-### The four device checks before you install
+### Four device checks before installing a Romania eSIM
 
 1. **Carrier lock.** On iPhone, Settings → General → About carries a Carrier Lock entry that must read "No SIM restrictions". EU-sold phones are locked only if bought on a subsidised contract.
 2. **eSIM support.** `*#06#` shows an EID on a compatible handset; our [eSIM compatibility checker](/compatibility/) confirms the model.
 3. **Dual SIM behaviour.** Set the eSIM as the mobile data line and leave the home SIM for calls and SMS codes.
 4. **China-market iPhones.** Models sold in mainland China disable eSIM hardware entirely; use a physical SIM in Romania or a different device.
 
-## Adding the APN manually
+## How to enter Romania APN settings manually
 
 You need these only if you bought a **Romanian SIM or carrier eSIM directly**, or if your phone did not receive the settings automatically. A travel eSIM supplies its own APN and needs nothing changed.
 
@@ -237,7 +237,7 @@ You need these only if you bought a **Romanian SIM or carrier eSIM directly**, o
 
 **Where to enter it:** the iPhone path runs Settings → Cellular → the line → Cellular Data Network. The Android path runs Settings → Connections → Mobile Networks → Access Point Names, where you add a fresh entry. Save, reboot, and make sure the eSIM is carrying data before you diagnose anything else.
 
-## How much data your Romania trip needs
+## How much data do you need for a Romania trip?
 
 Romanian prepaid is cheap enough that over-buying costs little, but a travel eSIM prices data closer to the European norm — so match the allowance to the itinerary rather than defaulting to the largest tier.
 
@@ -250,7 +250,7 @@ Romanian prepaid is cheap enough that over-buying costs little, but a travel eSI
 | Black Sea coast, July–August | 7 days | 8–12 GB | Beach-season congestion slows Wi-Fi, so more traffic moves to mobile; uploads from the coast add up. |
 | Remote-work month | 30 days | 25 GB+, or local DIGI prepaid | A DIGI 30 GB prepaid at 22 RON undercuts any travel eSIM over a month. |
 
-## Where Romanian coverage thins out
+## Where mobile coverage gets weak in Romania
 
 **The Danube Delta.** Tulcea, Sulina, Sfântu Gheorghe and Murighiol all have usable coverage, and Tulcea County posts a 55.75 Mbps median — respectable for a wetland region. The gap is on the water: channels between villages lose signal for long stretches, on every network. Download an offline map of the delta at Tulcea and treat the boat crossings as offline time.
 
@@ -290,7 +290,7 @@ Practically any modern unlocked handset: Romania's LTE layers at 800/1800/2600 M
 
 With most travel eSIM plans, the clock starts at first network connection in Romania — install at home, and the validity waits until you land. One-time upfront purchase, no auto-renewal. The plan page states the exact validity window per tier.
 
-### Romania head-to-head: local SIM, travel eSIM
+### Local SIM vs travel eSIM in Romania: which wins?
 
 Romanian prepaid is cheap enough that over-buying costs little, but a travel eSIM prices data closer to the European norm — so match the allowance to the itinerary rather than defaulting to the largest tier. A shop-activated prepaid SIM card from Orange or DIGI remains the local price benchmark; a travel data plan with a mid-trip top-up trades a little of that price for never queueing.
 
@@ -346,7 +346,7 @@ Local prepaid is the cheapest data in the European Union, so the question is ent
 
 Possible, but do it before you go. The top-up itself is a couple of minutes in the provider's app, and the trouble is finding the connection to run it — the Delta is exactly the kind of place where the allowance quietly runs out days before you notice. The other stretch to plan around is the Carpathian passes, where coverage thins on every network.
 
-## Romania eSIM sources and how to read them
+## Where our Romania eSIM data comes from
 
 - **Network and county performance** — from [Ookla's H2 2025 Romania report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025), which yields the Orange, DIGI and Vodafone metrics, the ten city medians and the county table.
 - **Where Romania ranks right now** — [Romania on Ookla's monthly Global Index](https://www.speedtest.net/global-index/romania).

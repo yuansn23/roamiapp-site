@@ -22,7 +22,7 @@ One prerequisite worth ten seconds of your time: confirm your handset is eSIM-ca
 
 **If you read nothing else:** Staying in Toronto, Vancouver or Montreal? Bell is the fastest 5G network in the country. Streaming a lot of video or gaming? Rogers wins on video score and 5G availability. Driving the Rockies, Newfoundland or northern Ontario? TELUS holds signal where the others drop. Want to buy straight from a Canadian carrier as a visitor? Lucky Mobile (Bell's prepaid brand) is the only one that sells a Canada eSIM to tourists with no credit check and no Canadian address. Or skip the paperwork: a [free data trial](/free-esim/) tests the networks at no cost; apply code **WEB20** for 20% off [Canada prepaid eSIM plans](/canada-esim/).
 
-## Canada eSIM carriers
+## Bell, Rogers or TELUS: which network should I use in Canada?
 
 ### Bell, Rogers and TELUS, side by side
 
@@ -64,7 +64,7 @@ The economics are not close for a normal holiday. A Canadian prepaid plan charge
 
 💡 A multi-network eSIM profile is the practical middle path: [Roami's Canada eSIM](/canada-esim/) keeps the convenience of instant delivery, switches automatically between Bell, Rogers and TELUS, and still lands you on Bell in Toronto and TELUS in the Rockies without buying twice.
 
-## Handsets that take an eSIM
+## Will my phone work on Canadian networks?
 
 Three things decide whether your phone works with a Canada eSIM: its bands, its lock status, and a short list of device-specific quirks. All three are covered below.
 
@@ -101,7 +101,7 @@ Anything beyond this is device-specific rather than carrier-specific. Run your m
 
 Four routes exist, and they differ more in paperwork than in price: Lucky Mobile for the Bell network, chatr or a store visit for Rogers, TELUS direct or Public Mobile on the same network, and SaskTel inside Saskatchewan. Each route, step by step:
 
-### Your buying options in Canada
+### Buying from Lucky Mobile on the Bell network
 
 Bell's own consumer plans are postpaid: they want a Canadian address and a credit check. International visitors are pointed at **Lucky Mobile**, Bell's prepaid brand, which is genuinely built for this.
 
@@ -120,7 +120,7 @@ Rogers does not sell a direct prepaid eSIM to visitors. Prepaid sits with **chat
 
 For a Rogers plan itself, the newcomer path is a store visit: bring your **passport plus a work or study permit, a permanent resident card, or a Confirmation of Permanent Residence**, and staff will set you up. Rogers' own support pages field the question "Why can't I complete my eSIM activation online?" — which tells you the online route is not reliable for everyone. Budget for a store visit, or buy Rogers-network data through a travel eSIM instead.
 
-### Plans and prices: Canada eSIMs
+### Getting a TELUS or Public Mobile eSIM
 
 TELUS does support eSIM properly: bring an eSIM-compatible device, take a plan, and it activates **instantly after checkout**, while a physical SIM ships in 5 to 10 business days for a one-time **$15** fee. The catch is that this is the plan path, which means a credit check.
 
@@ -134,7 +134,7 @@ TELUS's prepaid lineup — Nationwide Talk, Text & Data — is the cheapest way 
 
 Prepaid provisioning is issued by the carrier rather than self-serve, so plan for an in-store sign-up or a support-issued activation code rather than assuming an instant QR code at checkout. If you only want TELUS coverage as a visitor, **Public Mobile** runs on the same network with prepaid eSIM and far less paperwork.
 
-### Common Canada eSIM questions
+### SaskTel: the right pick inside Saskatchewan
 
 A SaskTel eSIM is available through the carrier's **noSTRINGS Prepaid** service, and SaskTel publishes setup and management guides for it. This is the right choice if Saskatchewan is a real part of your itinerary rather than a drive-through — coverage inside the province is excellent, and it thins out once you leave.
 
@@ -238,7 +238,7 @@ The menu path is the same whichever Canadian network you are on; only the values
 
 After saving, restart the phone. If data still fails, confirm the eSIM, not your home SIM, is the selected data line before you change anything else.
 
-## The activation path for a Canada eSIM
+## From install to first signal: activating your Canada eSIM
 
 One pass through this section takes your Canada eSIM from a clean install to a working data connection — and covers the four failure patterns a Canadian network can actually produce, in the order you will hit them.
 
@@ -303,7 +303,7 @@ General activation errors — a profile that will not download, a scan that fail
 | Data roaming status | Settings → Cellular → your eSIM line |
 | Steps already tried | Keep a short list |
 
-## Questions and answers
+## What travelers ask about Canadian carriers and eSIMs
 
 ### Bell eSIM plans for visitors
 
@@ -329,7 +329,7 @@ Lucky Mobile, at **$19/mo for 500 MB**, with 5 GB at $25/mo and 15 GB at $30/mo,
 
 It has to be carrier-free and eSIM-ready. Check both in one pass with the [eSIM compatibility list](/compatibility/) — that covers EID support and the band question, including the n71 rural-5G band that many international handsets lack. If you want to understand what happens during install first, read [the eSIM activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/).
 
-### Canada eSIM trouble devices
+### What if your phone is locked to a Canadian carrier?
 
 Ask the carrier it is locked to. Under Rule F.1.(ii) of the CRTC's Wireless Code, effective 1 December 2017, a provider must unlock a device or give you the means to unlock it **on request, at no charge** — and phones sold by Canadian providers must be unlocked in the first place. Once paid off, devices typically unlock within hours. Check status at Settings → General → About → Carrier Lock.
 
@@ -341,7 +341,7 @@ Direct means one network, carrier-issued provisioning, and often ID or a Canadia
 
 Lucky Mobile does — it markets a tourist eSIM for visitors to Canada with plans starting at $19/mo, no credit check and no long-term commitment. Bell, Rogers and TELUS do not sell a tourist product as such; their nearest equivalents are prepaid tiers that assume Canadian identification.
 
-### Canada: the carrier lineup
+### Can I keep my home number active alongside a Canadian eSIM?
 
 Yes — it is the cleanest way to keep a local number while your home line stays live. Leave the physical SIM for calls and SMS verification and put data on the eSIM. In Settings, point Mobile Data at the eSIM line and leave your home line for voice. Two cautions: switch off data roaming on your home SIM so you are not billed for background traffic, and remember most data-only eSIMs cannot receive SMS, so bank codes still arrive on your home number.
 

@@ -75,7 +75,7 @@ Indonesia is an archipelago of about 17,000 islands, and its mobile map behaves 
 
 
 
-## Choosing by trip type in Indonesia
+## Which Indonesia carrier fits your trip?
 
 
 
@@ -113,7 +113,7 @@ Data source: [Ookla Speedtest Connectivity Report](https://www.ookla.com/researc
 
 
 
-## Plans and pricing in Indonesia
+## Telkomsel, XL and Indosat plans compared
 
 
 
@@ -219,7 +219,7 @@ Indonesian 5G runs mainly on **n40 (2300 MHz)** and **n78 (3500 MHz)**, while 4G
 
 
 
-### 2. Identity checks, biometrics and the three-number cap
+### Identity checks, biometrics and the three-number cap
 
 
 
@@ -227,7 +227,7 @@ Buying a local line means a registration, and since July 2026 that registration 
 
 
 
-### 3. Fair-use thresholds and what happens after them
+### Fair-use thresholds and what happens after them
 
 
 
@@ -287,7 +287,7 @@ For the prices themselves, use our [Indonesia plans page](/indonesia-esim/) — 
 
 
 
-## Indonesia eSIM speeds by carrier
+## How fast each Indonesian carrier really is
 
 
 
@@ -349,7 +349,7 @@ Roami's multi-network Indonesia eSIM re-attaches to the best local network autom
 
 
 
-## Indonesia eSIM carriers
+## Where each Indonesian network actually reaches
 
 
 
@@ -483,7 +483,7 @@ Two frictions are worth anticipating. First, **foreign cards**: local operator a
 
 
 
-## APN Configuration
+## How do I set the APN for an Indonesian carrier?
 
 
 
@@ -515,7 +515,7 @@ There is nothing to collect on arrival. The profile comes by email after checkou
 
 
 
-## When an Indonesia eSIM misbehaves: four local failure modes
+## What to do when your eSIM misbehaves in Indonesia
 
 
 
@@ -705,7 +705,7 @@ Work the four patterns above in order — IMEI status, APN, network selection, t
 
 
 
-## Research and sources behind our Indonesia eSIM coverage
+## The sources behind our Indonesia figures
 
 
 

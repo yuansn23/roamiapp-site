@@ -45,7 +45,7 @@ If the basics are still open questions — does my phone support eSIM, and what 
 
 
 
-## The carriers behind your Turkey eSIM
+## Turkey eSIM carriers: Turkcell, Vodafone and Türk Telekom
 
 
 
@@ -77,7 +77,7 @@ The table above hides the one fact most travel blogs get wrong: Turkey does not 
 
 
 
-### Who sells mobile service in Turkey
+### Which carriers sell eSIMs in Turkey?
 
 
 
@@ -113,7 +113,7 @@ For a normal holiday the local line is cheaper per gigabyte, but it costs you a 
 
 
 
-## Device support for eSIM
+## Phone compatibility for a Turkey eSIM
 
 
 
@@ -153,7 +153,7 @@ If your handset came from a US or European operator, treat it as probably locked
 
 
 
-### Is my device model OK for Turkey eSIMs?
+### Is my phone model supported in Turkey?
 
 
 
@@ -175,7 +175,7 @@ Whatever remains is a handset quirk, not a Turkcell policy. Run your exact model
 
 
 
-## What Does an eSIM Cost per Gigabyte?
+## How to buy a Turkey eSIM and what it costs
 
 
 
@@ -183,7 +183,7 @@ The three carriers and a travel eSIM each take a different path, and the differe
 
 
 
-### Your buying options in Turkey
+### How to buy a Turkcell tourist eSIM
 
 
 
@@ -249,7 +249,7 @@ If you only want Türk Telekom coverage as a visitor, a travel eSIM that include
 
 
 
-### Turkey: IMEI and EID screening
+### Turkey's 120-day IMEI rule for foreign phones
 
 
 
@@ -425,7 +425,7 @@ Automatic switching is the answer to those gaps. A profile that roams across all
 
 
 
-## Manual APN Setup
+## What APN settings do Turkish carrier eSIMs use?
 
 
 
@@ -457,7 +457,7 @@ All three Turkish carriers use the same plain `internet` APN with no username an
 
 
 
-### APN settings for Turkey carriers
+### When a Turkey eSIM needs manual APN entry
 
 
 
@@ -471,7 +471,7 @@ All three Turkish carriers use the same plain `internet` APN with no username an
 
 
 
-### When auto-APN fails in Turkey
+### How to enter Turkey APN settings manually
 
 
 
@@ -485,7 +485,7 @@ After saving, restart the phone. If pages will not load, re-check that the eSIM,
 
 
 
-## Installing a Turkey eSIM step by step
+## How to install a Turkey eSIM step by step
 
 
 
@@ -493,7 +493,7 @@ Work through this section once and you go from a fresh install to a working conn
 
 
 
-### Turkey eSIM: the install
+### Installing your Turkey eSIM
 
 
 
@@ -517,7 +517,7 @@ Do step 4 at home. Istanbul Airport has free Wi-Fi, but the registration pages a
 
 
 
-### Turkey eSIM: activation sequence
+### How to activate your Turkey eSIM
 
 
 
@@ -651,7 +651,7 @@ Every Turkish carrier must register a prepaid SIM to your identity, and for a fo
 
 
 
-### Devices with Turkey eSIM issues
+### Will your phone be blocked in Turkey after 120 days?
 
 
 
@@ -667,7 +667,7 @@ It needs to be unlocked and eSIM-capable, and it helps if it supports the bands 
 
 
 
-### Unlocking your phone before Turkey
+### How to unlock your phone before a Turkey trip
 
 
 
@@ -711,7 +711,7 @@ More questions? [Explore the FAQ](/faq/)
 
 
 
-## Where the Turkey eSIM numbers are sourced
+## Sources for the Turkey eSIM numbers in this guide
 
 
 

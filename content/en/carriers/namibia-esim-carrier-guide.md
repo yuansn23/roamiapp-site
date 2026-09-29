@@ -51,7 +51,7 @@ Read that last paragraph twice before checkout. It is the difference between bei
 
 Prices are in Namibian dollars (NAD), pegged 1:1 to the South African rand.
 
-### MTC vs TN Mobile 5G: which is better in Namibia?
+### MTC, the only network that reaches the parks
 
 Best for: Everything beyond the city limits — Etosha, Sossusvlei, the Caprivi/Zambezi strip, the Skeleton Coast approach.
 
@@ -107,7 +107,7 @@ What we found: Paratus entered the mobile market in September 2025 as a 4G-only 
 
 APN: Reported as `pp.internet` (single source; treat as indicative and confirm with the operator).
 
-## The local carriers: MTC, TN Mobile and Paratus
+## MTC, TN Mobile or Paratus for your route?
 
 | Your itinerary | Top pick | Why it wins | Watch out for |
 |:---|:---|:---|:---|
@@ -122,7 +122,7 @@ APN: Reported as `pp.internet` (single source; treat as indicative and confirm w
 
 💡 Rule of thumb for any Namibia eSIM: download every map offline, tell contacts you will drop out for stretches, and treat "coverage" as "towns and main roads," never "the whole map."
 
-## Your eSIM coverage: MTC vs TN Mobile
+## Where each network actually reaches
 
 No operator publishes a coverage claim for the gravel roads, so the table below states reach honestly and flags the gaps rather than inventing signal.
 
@@ -179,7 +179,7 @@ Practical pattern: buy per-country, or carry one multi-country eSIM across the w
 - Market size: DataReportal counts [1.97 million internet users (64.4% penetration)](https://datareportal.com/reports/digital-2025-namibia) and 2.67 million mobile connections entering 2025.
 - Mobile speed: We quote no national mobile-median figure (not cleanly published for Namibia in our sources), and note that operator-specific 5G claims are marketing — 5G exists in four towns only.
 
-## APN configuration, done once
+## Do MTC, TN Mobile and Paratus use different APNs?
 
 You will only need these if you bought a SIM or eSIM directly from a Namibian carrier. A downloaded Namibia eSIM carries its own APN settings — leave them as they are.
 
@@ -197,15 +197,15 @@ APN screens, by platform:
 
 Save the change, then reboot. If data has still not appeared, make sure the eSIM — not your home SIM — is the line selected for mobile data.
 
-## Troubleshooting a Namibia eSIM: the failures that are actually local
+## When the problem is the network, not the eSIM
 
 Namibia's eSIM problems are less about the SIM than about which network the SIM happens to be standing on. The install mechanics — adding the profile, scanning, labelling the line, enabling roaming — are covered in our [step-by-step activation walkthrough](/faq/how-to-activate-an-esim/), and ordinary faults sit in the [eSIM troubleshooting resource](/faq/esim-activation-errors-troubleshooting-guide/). Four situations account for almost every Namibia-specific failure.
 
-### Install guide for Namibia eSIMs
+### Why your travel eSIM dies on the gravel roads
 
 This is the roaming trap, not a fault. The travel eSIM you bought most likely rides TN Mobile, whose reach thins to nothing on the long gravel roads — exactly where the trip happens. Confirm which network your profile actually uses; if it is TN Mobile and your route is a self-drive loop, move to an MTC-inclusive multi-network plan instead of troubleshooting a phone that is behaving correctly. On a gravel C-road stretch, "no service" is also simply accurate: there is no tower, and that is normal in Namibia rather than something to repair.
 
-### Can you buy a Namibia eSIM from MTC?
+### When the profile installs but never registers
 
 Namibia is sometimes excluded from "Africa-wide" regional packs, and a code consumed on another device is spent — activation QRs normally work once only. Before blaming the handset, confirm the plan genuinely lists Namibia and that the QR has not already been scanned. A profile for the wrong country installs perfectly and then never registers.
 
@@ -217,7 +217,7 @@ MTC and TN Mobile both use `internet`, but Paratus reports `pp.internet`, and a 
 
 SIM registration has been mandatory since the March 2021 rules and enforced hard: Telecom Namibia deactivated 191,598 unregistered prepaid SIMs on 1 April 2024. Registration is completed in person with a passport at a licensed outlet, and a SIM that was never registered simply stops working — that is not a coverage problem, and no settings change brings it back. Bring the passport to the counter and do not defer it.
 
-## The registration counter experience
+## What the SIM registration counter will ask for
 
 - **A passport, presented in person.** Registration cannot be finished online or on someone else's behalf.
 - **Proof of accommodation, when you register in town.** City MTC offices ask more often than the airport kiosk does.
@@ -226,13 +226,13 @@ SIM registration has been mandatory since the March 2021 rules and enforced hard
 - **Your bundle's own clock.** Leisure runs 14 days and Premium 30, and a second pack does not extend the first.
 - **The starter SIM's location.** MTC sells its tourist starter at Hosea Kutako airport only, while the cheaper everyday "Aweh" bundles sit in city stores and petrol stations.
 
-### Two handover points where a Namibian SIM stalls
+### MTC SIM, travel eSIM or multi-network profile?
 
 - **MTC physical tourist SIM:** airport-only for the tourist packs, passport registration required, and activated by dialling `*148#` — miss the kiosk and it becomes a town errand.
 - **Travel eSIM:** installs in seconds with no counter at all, but usually rides TN Mobile, which makes it a city-and-coast tool rather than a safari one.
 - **Multi-network eSIM that includes MTC:** the only downloaded profile that reaches MTC's rural footprint; verify the provider's network list before checkout rather than after.
 
-### Namibia eSIM mini-FAQ
+### The details a Namibian support ticket needs
 
 Keep these ready before you open a ticket — the answer to the first one usually settles the rest.
 
@@ -244,7 +244,7 @@ Keep these ready before you open a ticket — the answer to the first one usuall
 | The plan's country list | The provider's plan page |
 | How long the signal has been gone | Your own timestamps |
 
-## Best Namibia eSIM carrier for your trip: MTC vs TN Mobile
+## What to prepare while you still have signal
 
 Because coverage out here is measured in towns rather than kilometres, the preparation you do while you still have signal matters more than the profile on the phone.
 
@@ -256,7 +256,7 @@ Because coverage out here is measured in towns rather than kilometres, the prepa
 - **The border plan decided in advance**, so the profile that goes quiet at Noordoewer or Buitepos is a choice rather than a surprise.
 - **The phone's data line confirmed once more**, with roaming on and the eSIM selected — the last thing you can check before the tarmac runs out.
 
-## Namibia eSIM FAQ
+## What travellers ask about data in Namibia
 
 ### Rural coverage in Namibia: MTC vs TN Mobile
 
@@ -310,7 +310,7 @@ Yes. Additional Leisure or Premium bundles can be bought by dialling `*148#` aga
 
 No — a Namibia-only profile stops at the border post. For the Trans-Kalahari run or a Fish River Canyon to Cape Town route, buy a plan for the next country or use one multi-country eSIM that covers the whole route.
 
-## Namibia eSIM sources, checked for 2026
+## How the Namibia guide was fact-checked
 
 - **MTC** — the [official tourist-package page](https://www.mtc.com.na/tourist-package) behind the Leisure and Premium pricing and the airport-only starter SIM.
 - **Telecom Namibia and CRAN** — [the notice deactivating unregistered prepaid SIMs](https://telecom.na/media-centre/776-telecom-namibia-deactivates-unregistered-prepaid-sim-cards-in-accordance-with-regulatory-requirements) and the registration enforcement behind it.
