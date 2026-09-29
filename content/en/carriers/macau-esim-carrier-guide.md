@@ -1,8 +1,8 @@
 ---
-title: "Macau eSIM Carriers: CTM, China Telecom or 3 Macau"
-description: "Macau is tiny, but the carrier choice matters. Roami weighs CTM against China Telecom for your Macau eSIM, plus whether a Hong Kong plan survives the ferry."
-image: "img/esim/carriers/macau-esim-carrier-guide.jpg"
-date: "2026-08-16T15:07:12+00:00"
+title: "5G Macau eSIM Plans | CTM, 3 & SmarTone Coverage"
+description: "Stay online in Macau with Roami eSIM. Prepaid 5G data on CTM, 3 & SmarTone networks, perfect for tourists and short business trips."
+image: "img/esim/carriers/macau-esim-carrier-guide.webp"
+date: "2026-09-22"
 keywords: Macau eSIM carriers, CTM eSIM, China Telecom Macau eSIM, 3 Macau eSIM, Macau 5G coverage, Hong Kong eSIM in Macau, eSIM Macau prepaid, best eSIM carrier Macau
 site_name: Roami
 brand_name: Roami
@@ -15,13 +15,9 @@ hero_badge: "CTM vs China Telecom Macau vs 3 Macau: the Macau verdict"
 hero_subtitle_main: "CTM, China Telecom Macau and 3 Macau put to the test"
 ---
 
-> **CTM vs China Telecom Macau vs 3 Macau: the Macau verdict**
->
-> **CTM and China Telecom (Macau), rated on Ookla's H1 2024 Speedtest Intelligence data**
-
 A Macau eSIM decision is unusually simple on paper — one dominant operator — and this guide covers the recent twist: the network that just disappeared and what remains. Macau is the rare destination where the carrier question answers itself. One operator, **CTM**, holds **53.3%** of the mobile market and **96.8%** of the broadband market, and it just absorbed the competition: after SmarTone quit mobile service in late 2024, CTM completed its acquisition of 3 Macau, whose mobile network will close on **30 November 2026**. What remains is a two-network territory — CTM and China Telecom (Macau) — squeezed onto just 33 km² of land, where Ookla measured CTM's median download at **176.04 Mbps**, the fastest in the territory. In practice, a Macau eSIM is less about choosing a carrier and more about making sure your data survives the border crossings that bring most visitors here. Experienced with travel eSIMs? Head straight for the Macau carrier comparison; activation below assumes zero prior experience.
 
-**Quick answer:** CTM is the network most visitors should shortlist first in Macau; the local networks is the value alternative to price against it. If you would sooner test than read, Roami's [free trial plan](/free-esim/) is the cost-free way to start in Macau.
+**Quick answer:** CTM is the network most visitors should shortlist first in Macau; the other local network is the value alternative to price against it. If you would sooner test than read, Roami's [free trial plan](/free-esim/) is the cost-free way to start in Macau.
 
 Not sure your device can hold an eSIM profile? Run it through the [compatibility lookup tool](/compatibility/) first, then read on — the carrier decision here is short, but the border question is not.
 
@@ -40,7 +36,7 @@ The market has consolidated faster than almost any other in Asia, and the 2026 l
 
 Three structural facts shape everything a visitor experiences. First, **CTM's dominance is overwhelming**: its parent CITIC Telecom's 2024 results show mobile subscribers up 16.3% to 771,000, with 98.4% of its own base already on 5G, in a territory of roughly 680,000 residents — the connection count only makes sense once you add the tourists, commuters and cross-border workers. Second, **5G arrived early here**: Macau issued its 5G licences in late 2022 to exactly two operators, CTM and China Telecom, and both built out urban coverage aggressively. Third, the territory is physically tiny — the whole place fits inside a few square kilometers of dense urban fabric — so a network either works everywhere or fails publicly; there is nowhere to hide.
 
-### CTM: the incumbent that absorbed its rivals
+### CTM eSIM plans and coverage
 
 CTM is what a visitor ends up on unless they go out of their way not to be. It runs the territory's fastest measured network (176.04 Mbps median download), the deepest fixed-line backhaul behind the resorts, and the largest retail footprint — nine shops across the Peninsula and Taipa, open seven days a week from mid-morning to half past seven in the evening. Its 5G is marketed as **5.5G**, and 98.4% of its own subscriber base is already on it.
 
@@ -49,7 +45,7 @@ CTM is what a visitor ends up on unless they go out of their way not to be. It r
 - **What goes wrong:** the shops keep retail hours — walk up at 9 pm and your only option is whatever the convenience stores still have in stock, which is usually a thinner product.
 - **Real scenario:** arriving on the Taipa ferry, taking the free shuttle to a Cotai resort, and finding the resort Wi-Fi fine in the lobby but absent on the walk to Pai Kok LRT station — which is exactly where a CTM-grade profile earns its place.
 
-### Taking your Macau eSIM overseas
+### China Telecom (Macau): the cross-border specialist
 
 China Telecom (Macau) is the number-two operator and the second 5G licensee, and its entire commercial identity is built around the Greater Bay Area. Where CTM sells a Macau product, China Telecom sells a Pearl River Delta product: dual-number plans and bundled roaming that treat Macau, Zhuhai and Hong Kong as a single commercial zone. It measured 103.87 Mbps median download in Ookla's H1 2024 data, behind CTM on the all-technology average — but on 5G speed the two were statistically tied, and China Telecom posted the best 5G consistency in the market at **89.3%**.
 
@@ -58,7 +54,7 @@ China Telecom (Macau) is the number-two operator and the second 5G licensee, and
 - **What goes wrong:** if you only ever stay inside Macau you are paying for coverage you will not use, and its retail network is smaller than CTM's.
 - **Real scenario:** a business trip that lands in Macau, crosses the Border Gate to Zhuhai for two days, and returns — the one itinerary where the Bay Area bundles beat anything you can buy per territory.
 
-### CTM vs China Telecom: which is better in Macau?
+### The 3 Macau shutdown: what changes for visitors
 
 3 Macau (Hutchison Telephone (Macau)) is the network to avoid planning around, because it is being switched off. CTM completed its purchase of the business in January 2025 for **HK$110 million**, and Hutchison has notified the regulator that it will surrender its 4G licence and end mobile service after **11:59 pm on 30 November 2026**. Its roughly 140,000 customers are being migrated to CTM; most have already moved, and the remainder must complete formalities at a Hutchison or CTM shop before the deadline.
 
@@ -152,7 +148,7 @@ This is the question most Macau visitors get wrong, because the geography says "
 
 **The clean solutions.** For the classic Hong Kong-plus-Macau double, buy a plan that names both territories, or carry a dedicated Macau eSIM alongside your Hong Kong profile — dual-SIM phones handle this without ceremony. For mainland-plus-Macau itineraries, look for plans that list all three destinations explicitly, because "Greater China" on a product page does not always mean the same thing on the coverage list.
 
-### Macau carriers: roaming rates
+### Arriving in Macau: what each crossing does to your data
 
 Macau has three main ways in, and each one does something different to your phone.
 
@@ -191,7 +187,7 @@ Macau prices its prepaid market in patacas, and the tourist cards are layered by
 
 Against that, a travel eSIM usually works out more expensive per gigabyte than a locally bought card — Macau's average rate is about USD 1.44 a gigabyte, and that is the wholesale-ish figure residents benefit from. What you are buying with the difference is setup with no queue and no paperwork. On a 10 GB, two-week basis, the maths tips toward the eSIM only once you count the counter visit and the passport registration as costs in their own right.
 
-### Macau eSIM FAQs
+### Where to buy a SIM in Macau in person
 
 - **Macau International Airport, arrivals level** — carrier counters and convenience stores; the most convenient and the most expensive.
 - **CTM shops on the Peninsula and in Taipa** — the deepest stock and the place to sort a longer-validity card; roughly 10:30 to 19:30, seven days a week.
@@ -201,7 +197,7 @@ Against that, a travel eSIM usually works out more expensive per gigabyte than a
 
 **What they will ask for:** a passport, for every locally purchased prepaid card. Macau requires prepaid SIMs sold locally to be registered to an identity document, and the process itself is quick — a few minutes at the counter — once you are at the front of the queue. A travel eSIM removes the requirement from your side entirely, because the compliance sits with the provider.
 
-## Prices across the carriers
+## Matching the plan to your itinerary
 
 Macau is almost never a standalone destination, and the right data product depends entirely on which spoke it hangs off.
 
@@ -230,7 +226,7 @@ Everything a short visit depends on — transport times, ferries, spending money
 
 **Taxis and buses.** Neither takes cards. Bus fares are MOP 6 in cash, or MOP 3–4 with a Macau Pass card, which carries a MOP 30 deposit. Taxis start at MOP 19 with additional charges by distance and waiting time.
 
-### Common Macau eSIM questions
+### Crowds and language: the non-network factors
 
 Two things change the connectivity experience more than carrier choice, and neither is about network technology.
 
@@ -238,13 +234,13 @@ Two things change the connectivity experience more than carrier choice, and neit
 - **Language friction is real but navigable.** Cantonese and Portuguese are the official languages, with Mandarin and English widely understood at counters, ferry terminals and resorts. What that means for a phone is that the useful apps — the Transport Bureau's live bus arrivals above all — are Chinese-first, so recognising route numbers and stop names is more valuable than reading menus.
 - **The practical consequence.** A working data connection closes most of that gap: live translation, live arrival times, and QR payment which removes the need to explain anything at all. It is the cheapest language insurance you will buy for the trip.
 
-### Which carrier blankets most of Macau?
+### How to keep your speed when Macau gets crowded
 
 Congestion in Macau is local and predictable, so a little planning recovers most of the lost speed.
 
 - **Queue late or early.** Border Gate and the HZMB Macao Port are calm outside the morning and evening commuter banks; the crossing itself takes minutes when you are not in a surge.
 - **Cache before you walk.** Download the day's map and ferry tickets while you still have resort Wi-Fi, then treat mobile data as the reserve for the gaps between buildings.
-- **Split the load.** If you are travelling as a pair, run one phone on a Macau profile and keep the other on resort Wi-Fi — Macau's dual-SIM habit is local practice, not a tourist workaround.
+- **Split the load.** If you are travelling as a pair, run one phone on a Macau profile and keep the other on resort Wi-Fi, with hotspot tethering as the fallback — Macau's dual-SIM habit is local practice, not a tourist workaround.
 
 ## Will your phone work on a Macau eSIM?
 
@@ -264,15 +260,15 @@ If any of those apply, ask the counter that sold you the card rather than copyin
 
 ## Macau eSIM activation steps and problem fixes
 
-There is no store visit, no passport registration and no local address on a travel eSIM — the profile arrives by email or in-app, and installation is the standard sequence covered in [activation guide](/faq/how-to-activate-an-esim/): add eSIM, scan the QR code, label the line, set it as your mobile-data line, enable data roaming. Because Macau's networks are so compact, there are only five failure patterns worth knowing.
+There is no store visit, no passport registration and no local address on a Macau eSIM — the profile arrives by email or in-app, and installation is the standard sequence covered in [activation guide](/faq/how-to-activate-an-esim/): add eSIM, scan the QR code, label the line, set it as your mobile-data line, enable data roaming. Because Macau's networks are so compact, there are only five failure patterns worth knowing.
 
-### Before the ferry: CTM-era checks for a Macao, China eSIM
+### Before the ferry: checks for a Macao, China eSIM
 
 Macao, China is compact enough that almost every check here is generic, with two local wrinkles: install the profile before the Hong Kong ferry or the Zhuhai border gate, and make sure the Macao profile is your active data line before you queue.
 
 | # | Check | What "good" looks like |
 |:---|:---|:---|
-| 1 | Phone is carrier-unlocked | About -> Carrier Lock says "No SIM restrictions" |
+| 1 | Phone is carrier-unlocked | About → Carrier Lock says "No SIM restrictions" |
 | 2 | Device is eSIM-capable | An EID appears when you dial `*#06#`, or the [handset check](/compatibility/) confirms your model |
 | 3 | QR code saved | Screenshot stored on the phone and in the cloud before you fly |
 | 4 | Profile installed before the crossing | Installed on home or hotel Wi-Fi, not at the ferry terminal |
@@ -285,7 +281,7 @@ Macao, China is compact enough that almost every check here is generic, with two
 
 **B. The network list still shows 3 Macau.** Hutchison's network is winding down toward its 30 November 2026 closure, so landing on it is a dead end. Re-run the manual scan and select CTM or China Telecom (Macau).
 
-**C. Signal, but no data.** Check that the eSIM line is the selected mobile-data line and that data roaming is on for it. This trips up the most travelers who arrive with two profiles installed — one for Hong Kong, one for Macau — and the wrong one set as the data line.
+**C. Signal, but no data.** Check that the eSIM line is the selected mobile-data line and that data roaming is on for it. This trips up most travelers who arrive with two profiles installed — one for Hong Kong, one for Macau — and the wrong one set as the data line.
 
 **D. Everything slow on a holiday weekend.** This is congestion, not configuration; Macau absorbs visitor surges that can double its population, and the fix is patience or a different network. The peninsula's historic centre is where it bites hardest.
 
@@ -313,7 +309,7 @@ CTM if you have a choice — it is the fastest measured network in the territory
 
 ### CTM vs China Telecom 5G: which is better in Macau?
 
-Effectively yes, since both licensees launched in late 2022 and the territory is 33 km². The Peninsula, Taipa, Cotai and Coloane all have 5G, with no measurable speed difference between CTM and China Telecom on 5G per Ookla. Your phone needs n78 support, which virtually all recent eSIM-capable handsets have.
+Neither, in practice — both licensees launched in late 2022 and the territory is 33 km². The Peninsula, Taipa, Cotai and Coloane all have 5G, with no measurable speed difference between CTM and China Telecom on 5G per Ookla. Your phone needs n78 support, which virtually all recent eSIM-capable handsets have.
 
 ### What is happening to 3 Macau?
 
@@ -327,7 +323,7 @@ Only if your specific plan lists Macau as a covered destination — the territor
 
 They roam, but only after you activate the Hong Kong/Macau/Taiwan roaming option in advance — and roaming traffic routes through the mainland, filtered internet and all. That is the opposite of what most visitors want in Macau, where the open internet is part of the appeal. Use a dedicated Macau eSIM and keep the mainland plan for the mainland leg.
 
-### Best Macau eSIM by trip type
+### Is resort Wi-Fi enough in Macau?
 
 Inside a resort, yes. Everywhere a day trip actually goes — border queues, ferries, bus stops, old-town streets, restaurants — no. Guest Wi-Fi ends at the property line, and the crowded hours are exactly when shared networks sag. An eSIM covers the 90% of the day that is not spent inside a casino complex.
 
@@ -372,7 +368,7 @@ Because you crossed into a different market, and your Hong Kong profile has no M
 
 Each number above belongs to a named third party rather than to our own testing, so read it as a direction of travel rather than a guarantee.
 
-## Connect in Macau the moment you cross
+## Get your Macau eSIM ready before you fly
 
 Whether you arrive by ferry from Hong Kong, on foot through the Zhuhai border gate or straight off a flight, a Macau profile attaches to the territory's leading networks before you reach the taxi rank. A [trial profile](/free-esim/) covers the test, or jump straight to the [Macao data plans](/macau-esim/).
 

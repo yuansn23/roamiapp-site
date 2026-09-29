@@ -1,10 +1,10 @@
 ---
 redirect_to: "/dominican-esim/"
 sitemap: false
-title: "Picking a Dominican eSIM Carrier: Claro, Altice, Viva"
-description: "Resort Wi-Fi dies past the buffet. Roami shows how a Dominican Republic eSIM picks between Claro and Altice, on and off the resort coast."
-image: "img/esim/carriers/dominican-republic-esim-carrier-guide.jpg"
-date: "2026-07-20T12:58:07+00:00"
+title: "5G Dominican Republic eSIM | Claro, Altice & Viva"
+description: "Need internet in Dominican Republic? Roami eSIM gives prepaid 5G data on Claro, Altice & Viva networks, perfect for tourists and remote work."
+image: "img/esim/carriers/dominican-republic-esim-carrier-guide.webp"
+date: "2026-09-25"
 keywords: Dominican Republic eSIM carriers, Dominican Republic eSIM operators, Claro eSIM, Altice Dominicana eSIM, Viva eSIM, Dominican Republic 5G coverage, Punta Cana eSIM, eSIM Dominican Republic prepaid, best eSIM carrier Dominican Republic
 site_name: Roami
 brand_name: Roami
@@ -16,10 +16,6 @@ breadcrumb_items:
 hero_badge: "The Dominican Republic carrier face-off: 2026 data"
 hero_subtitle_main: "The 2026 carrier comparison, built on independent speed data"
 ---
-
-> **The Dominican Republic carrier face-off: 2026 data**
->
-> **The 2026 carrier comparison, built on independent speed data**
 
 The Dominican Republic eSIM question is really a resort question. If you are spending a week at an all-inclusive in Punta Cana, the hotel network will cover the lobby, buffet and pool deck — and quietly fall apart in your room, at the quiet pool, or the moment you leave the gates for an excursion. A [Dominican Republic eSIM](/dominican-esim/) keeps you on real carrier networks instead, and since your phone must be eSIM-capable and unlocked to use one, run it through the [compatibility checker](/compatibility/) before you buy anything.
 
@@ -41,7 +37,7 @@ Three things about resort Wi-Fi are worth stating plainly, because they decide h
 
 None of that is a reason to skip the resort network. It is a reason not to depend on it for anything that matters: a transfer confirmation, a dive operator's WhatsApp, a card payment that needs an SMS code.
 
-## The Dominican Republic eSIM carriers: Claro, Altice and Viva
+## Resort coverage, area by area
 
 The resort belt is not uniform. Coverage, and the quality of the in-room Wi-Fi, changes every 30 kilometres along the coast.
 
@@ -78,7 +74,7 @@ La Romana is the gateway to Saona and Catalina, and Bayahíbe is the port. Cover
 
 The capital is a different product entirely. Business hotels in Piantini and Naco, and the boutique conversions in the Zona Colonial, are used by people who work from them, and their Wi-Fi reflects that. The mobile network is the country's densest. The real constraint in Santo Domingo is congestion, not coverage: on cruise days and festival weekends, speeds in the old city sag under the load of every visitor testing the network at once.
 
-## Meet the Local Carriers
+## The local carriers
 
 Three operators hold effectively the whole Dominican mobile market, regulated by [Indotel](https://indotel.gob.do/), the national telecom regulator. Claro (América Móvil) is the dominant player with roughly 62% of mobile subscriptions — about 6.8 million lines as of early 2025 per Indotel figures — Altice Dominicana holds around a third, and Viva is a small budget operator.
 
@@ -114,7 +110,7 @@ Altice Dominicana is the network that most travel profiles will actually attach 
 - **What goes wrong:** the footprint thins faster than Claro's once you leave the corridor. Buying Altice for a Cheap-Bávaro price and then driving to Jarabacoa or Samaná is the classic mismatch.
 - **Scenario:** a week in Bávaro where the only long drive is the airport transfer. Altice or Claro, either is fine; you will never notice which one you are on.
 
-### Trimming the bill: cheapest Dominican Republic plans
+### Viva: the budget operator to skip
 
 Viva (Grupo Telemicro) is the third operator and the cheapest, and it is the one to skip. Ookla measured a Speed Score of **29.27** for Viva in Q1–Q2 2026 — less than half of Altice and under half of Claro — and it remains a 4G-only network in practice. Viva's prepaid packs are the cheapest on the island, which is exactly why its SIMs are sold to residents who never leave the city, not to visitors who will spend a week between a resort, a boat and a mountain road. If a kiosk offers you a Viva SIM because it is the cheapest, ask what else they have.
 
@@ -185,7 +181,7 @@ Reported prepaid pricing from the compiled prepaid-data SIM price list and carri
 
 Read that table as a shape rather than a quotation: Claro's entry point is a monthly plan, Altice's is a cheap short-validity pack, and Viva's whole proposition is price. For a one-week holiday, the arithmetic on a local line is excellent — and it still costs you a counter visit, a passport photocopy and a top-up in Spanish on the day your pack expires.
 
-### Does Dominican Republic support your device model?
+### How to check your IMEI against the Dominican blocklist
 
 Indotel runs the **SSN — Sistema de Series Negadas** — a national database of IMEIs and serials reported stolen, lost or blocked by Dominican operators. It is a public lookup on the regulator's portal, and it exists for a specific reason: a device whose IMEI sits on the list cannot register on Dominican networks, no matter which SIM is inside it.
 
@@ -208,7 +204,7 @@ Indotel runs the **SSN — Sistema de Series Negadas** — a national database o
 
 ### What ID do you need to buy a SIM in Dominican Republic?
 
-Dominican law requires prepaid SIMs to be registered to an identity. In practice that means visiting a carrier store or an airport counter with your physical passport: staff copy it, register the line under your name, and sometimes photograph you as part of the process. All three carriers have counters in the arrivals halls at Punta Cana, Las Américas (Santo Domingo) and Gregorio Luperón (Puerto Plata) airports, though several travelers report that city stores are cheaper than airport kiosks. Expect the whole thing to take 20–45 minutes in person, in Spanish-heavy customer service, before you have data.
+Dominican law requires prepaid SIMs to be registered to an identity, so the practical question is only where you do it. All three carriers have counters in the arrivals halls at Punta Cana, Las Américas (Santo Domingo) and Gregorio Luperón (Puerto Plata) airports, though several travelers report that city stores are cheaper than airport kiosks. Either way the counter process is the one described above — passport, photocopy, line registered to your name — and it takes 20–45 minutes in person, in Spanish-heavy customer service, before you have data.
 
 The same registration logic applies if you buy a local eSIM directly from Claro or Altice — the profile is digital, but the identity paperwork is not optional. Direct purchase does get you a Dominican phone number and very cheap local pricing; the tradeoff is one locked network and a shop visit on day one.
 
@@ -248,7 +244,7 @@ A single-carrier SIM locks you into one version of that map. A multi-network pro
 
 ## Dominican Republic cruise-day eSIM connectivity: the main ports
 
-Yes — with one honest caveat about timing. The main cruise ports (Amber Cove and Taino Bay in Puerto Plata, Santo Domingo, La Romana, Samaná) all sit in towns with dense 4G/5G coverage, so a Dominican Republic eSIM gives you live data from the moment the ship docks: Uber and taxi coordination, Google Maps, WhatsApp calls home, and a speedtest to prove it. Ships themselves run on satellite or maritime networks, not local towers, so expect no connection at sea and full connection at the pier.
+With one honest caveat about timing: the main cruise ports (Amber Cove and Taino Bay in Puerto Plata, Santo Domingo, La Romana, Samaná) all sit in towns with dense 4G/5G coverage, so a Dominican Republic eSIM gives you live data from the moment the ship docks: Uber and taxi coordination, Google Maps, WhatsApp calls home, and a speedtest to prove it. Ships themselves run on satellite or maritime networks, not local towers, so expect no connection at sea and full connection at the pier.
 
 The practical warning is about activation day. If your ship's first stop is the Dominican Republic and your eSIM has never connected anywhere, install and set it up before boarding rather than troubleshooting on a pier with patchy port Wi-Fi. Install the profile at home on Wi-Fi, leave it disabled, and toggle it on when you see Dominican towers. If your itinerary continues to the mainland, the same logic applies across borders — a [United States travel eSIM](/united-states-esim/) covers the pre- or post-cruise nights in Miami or Fort Lauderdale, where a DR-only plan goes dark.
 
@@ -276,7 +272,7 @@ Ships berth at Don Diego Quay or in the Sans Soucí zone, roughly 2 km from the 
 
 La Romana's ships dock at the Casa de Campo resort port, with Altos de Chavón about five minutes away and a low walkability score that makes a taxi or shuttle the realistic plan. La Romana is also the launch point for Saona Island catamaran trips, which matters for the next section. Samaná calls are usually tendered into Santa Bárbara de Samaná, where coverage is good in town — and disappears the moment a whale-watching or Los Haitises boat turns into the bay.
 
-## Excursion coverage: where the resort network ends and the boat starts
+## Excursion coverage in the Dominican Republic
 
 Excursion coverage is the clearest argument for carrying your own data. Every one of the headline day trips takes you outside the resort's footprint by design.
 
@@ -302,7 +298,7 @@ This one has a fixed calendar and a real connectivity gap, so plan both. The sea
 
 ### Jarabacoa, Constanza and Pico Duarte: the Cordillera dead zone
 
-The Cordillera Central is the country's adventure region and its most honest dead zone. Jarabacoa and Constanza have solid town coverage on Claro; the roads between them, the waterfall trails, and everything above the treeline do not. A Pico Duarte ascent — the Caribbean's highest peak, up in the 3,000-metre range — is a two- or three-day mule-supported trek with no coverage on route. That is a satellite messenger trip, not an eSIM trip. Everything else in the Cordillera is a download-the-map-first trip.
+The Cordillera Central is the country's adventure region and its most honest dead zone. Jarabacoa and Constanza have solid town coverage on Claro; the roads between them, the waterfall trails, and everything above the treeline do not. A Pico Duarte ascent — the Caribbean's highest peak, up in the 3,000-metre range — is a two- or three-day guided hike with no coverage on the trail. That is a satellite messenger trip, not an eSIM trip. Everything else in the Cordillera is a download-the-map-first trip.
 
 ### Boat-day eSIM prep: what to do before any boat leaves
 
@@ -311,7 +307,7 @@ The Cordillera Central is the country's adventure region and its most honest dea
 - Tell someone ashore the boat name and expected return time.
 - Set your phone to a low-power mode; offshore searching for a signal drains a battery faster than almost anything else.
 
-## Sizing Your Data Plan
+## Which ride-hailing apps work in the Dominican Republic?
 
 Every transport app in the country needs live data at the exact moment you are standing on a street corner. That is the practical test of your connectivity.
 
@@ -333,7 +329,7 @@ Both major carriers have deployed 5G on the **n78 (3.5 GHz)** band, which is why
 - **What 4G delivers:** the Dominican 4G layer is fast and widely deployed, and it is what you will use for maps, ride-hailing and calls.
 - **What this means for buying:** do not pay a premium for the letters 5G. Pay for coverage where you are going, and let the phone take 5G when it finds it.
 
-## Where to Buy
+## If your trip continues beyond the Dominican Republic
 
 The Dominican Republic is one stop on the standard Eastern Caribbean loop, and a country-only profile expires at the next berth. The patterns worth planning around:
 
@@ -374,7 +370,7 @@ For the products visitors actually buy, you will almost never touch these. A tra
 
 After any change, confirm the eSIM — not your home SIM — is the selected data line. Nine times out of ten the "APN problem" is a data-line problem.
 
-## Activating your Dominican Republic eSIM without drama
+## Activating your Dominican Republic eSIM
 
 Install before you fly. Airport Wi-Fi in Punta Cana and Santo Domingo is congested exactly when everyone else is also trying to download profiles, and the install itself takes two minutes on home Wi-Fi. The full sequence — scan the QR code, label the line, set the eSIM as your data line, enable data roaming — is in the [activation guide](/faq/how-to-activate-an-esim/). Data roaming must be ON for the eSIM to attach to Claro or Altice; this does not bill your home carrier, it just lets the travel profile connect.
 
@@ -401,7 +397,7 @@ The generic install sequence — add eSIM, scan the QR, label the line, set it a
 - **Viva:** sold at Punto Viva outlets with passport registration; data packs activate by USSD on the handset.
 - **Travel eSIMs:** install by QR code at home; the profile roams onto whichever Dominican network your provider has agreements with and re-selects as you move.
 
-### Claro vs Altice: which is better in Dominican Republic?
+### Dominican Republic eSIM troubleshooting patterns
 
 General activation errors — a profile that will not download, a scan that fails, an eSIM that installs and never registers — are covered in our [eSIM problem-solving guide](/faq/esim-activation-errors-troubleshooting-guide/). The patterns specific to this market:
 
@@ -441,7 +437,7 @@ If you are mid-excursion — on a catamaran to Saona, in the Damajagua gorge, ab
 | Data roaming status | Settings → Cellular → your eSIM line |
 | Steps already tried | Keep a short list |
 
-## Dominican Republic carrier eSIMs: ask and answer
+## Dominican Republic carrier eSIM FAQ
 
 ### Is identification needed for Dominican Republic SIMs?
 
@@ -451,13 +447,13 @@ Only if you buy directly from a Dominican carrier — Indotel requires prepaid l
 
 Altice and Claro are both excellent on the resort strip, with 5G along the main corridor. Claro holds up better the moment you leave it — toward Miches, Higüey or the Samaná road — which is why it is the safer single-network pick.
 
-### Activating on Claro, Altice and Viva
+### Is a local Dominican SIM cheaper than a travel eSIM?
 
 Local prepaid data averages about USD 0.79 per GB (Cable.co.uk, 80th of 237 markets), and travel eSIMs cost more for the convenience of instant delivery and multi-network access. Compare both on the [Dominican Republic eSIM plans page](/dominican-esim/) before deciding.
 
 ### Is a hotel's Wi-Fi good enough instead of an eSIM?
 
-For email in the lobby, yes. For anything time-critical, no — and the gap is widest in exactly the places you will need it. Guest reviews of Bávaro resorts consistently flag in-room Wi-Fi as the weakest facility on the property; the connection is also worst in the evening when every guest returns from dinner. Treat the resort router as a bonus and your eSIM as the plan.
+For email in the lobby, yes. For anything time-critical, no — and the gap is widest in exactly the places you will need it. Guest reviews of Bávaro resorts consistently flag in-room Wi-Fi as the weakest facility on the property; the connection is also worst in the evening when every guest returns from dinner. Treat the resort router as a bonus and your eSIM as the plan — and remember your phone can double as a hotspot when a laptop needs to get online.
 
 ### Does WhatsApp calling work on Dominican Republic networks?
 
@@ -469,7 +465,7 @@ Claro covers the Cordillera Central towns well; the drives between them are patc
 
 ### Claro vs Altice 5G: which is better in Dominican Republic?
 
-Yes. Claro and Altice have deployed 5G in Santiago, Punta Cana and other tourist and business hubs, though most of the country still runs on fast 4G. Ookla's 2024 measurement put Claro's median 5G download at 185 Mbps where 5G is available.
+Claro and Altice have deployed 5G in Santiago, Punta Cana and other tourist and business hubs, though most of the country still runs on fast 4G. Ookla's 2024 measurement put Claro's median 5G download at 185 Mbps where 5G is available, ahead of Altice at 162 Mbps.
 
 ### Do cruise passengers need a Dominican SIM at all?
 
@@ -479,7 +475,7 @@ If the DR is one stop among several, a regional or Caribbean-capable travel eSIM
 
 Yes, and it is the reason to carry one. Amber Cove has no pedestrian exit and does not admit app-based ride pickups, so your phone is how you arrange and confirm the regulated taxi, check the excursion meeting time and message home — and the port's own Wi-Fi is a paid product rather than a free amenity.
 
-### Is 20 GB overkill for Dominican Republic?
+### What happens when your Dominican eSIM data runs out?
 
 Travel eSIMs simply stop when the allowance ends, and you top up online in minutes. Local unlimited plans usually throttle to a reduced speed after a fair usage threshold rather than cutting off.
 
@@ -489,7 +485,7 @@ Most phones store several profiles but run one data line at a time. A common set
 
 ### What does a gigabyte cost in Dominican Republic?
 
-Per gigabyte, yes — local data averages about USD 0.79 per GB and the prepaid packs are among the cheapest in the Caribbean. Add the passport registration, the counter queue in Spanish, the top-up rhythm and the single-network limit, and the gap narrows sharply for a one- to two-week trip. Over a month, buy local.
+Local data averages about USD 0.79 per GB and the prepaid packs are among the cheapest in the Caribbean. Add the passport registration, the counter queue in Spanish, the top-up rhythm and the single-network limit, and the gap narrows sharply for a one- to two-week trip. Over a month, buy local.
 
 ## Dominican Republic eSIM sources: every network number referenced
 
@@ -505,7 +501,7 @@ Per gigabyte, yes — local data averages about USD 0.79 per GB and the prepaid 
 
 Treat every figure here as a dated third-party measurement rather than a live guarantee; coverage and speed move with upgrades and congestion.
 
-## Skip the counter at Punta Cana
+## Get your Dominican Republic eSIM ready before you fly
 
 Install the profile at home rather than queueing for a passport photocopy, and touch down already online on Claro, Altice or Viva — whichever is strongest where you are standing.
 

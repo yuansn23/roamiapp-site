@@ -1,8 +1,8 @@
 ---
-title: "Iran eSIM carriers that work: MCI, Irancell, Rightel"
-description: "Roami's guide to Iran eSIM carriers compares MCI, Rightel and Irancell on 5G speed, coverage and value for travelers visiting Iran."
-image: "img/esim/carriers/iran-esim-carrier-guide.jpg"
-date: "2026-08-05T06:03:02+00:00"
+title: "Prepaid Iran eSIM | MCI, Irancell & Rightel Coverage"
+description: "Buy an Iran eSIM from Roami. Enjoy prepaid mobile data on MCI, Irancell & Rightel networks, with reliable coverage for travelers and workers."
+image: "img/esim/carriers/iran-esim-carrier-guide.webp"
+date: "2026-09-23"
 keywords: Iran eSIM carriers, Iran eSIM, MCI eSIM, Irancell eSIM, Iran travel eSIM, MCI, Hamrahe Aval, Rightel, Iran 5G, eSIM for Iran, Iran prepaid eSIM, Iran tourist eSIM
 site_name: Roami
 brand_name: Roami
@@ -14,13 +14,10 @@ breadcrumb_items:
 hero_badge: "Connectivity in Iran needs a different plan"
 hero_subtitle_main: "Local tourist SIMs work where foreign ones fail"
 ---
-> **Connectivity in Iran needs a different plan**
->
-> **Local tourist SIMs work where foreign ones fail**
 
-An Iran eSIM breaks the standard travel-connectivity playbook, and this guide explains why before you board — the exceptions start the moment you land. Iran is the one destination where the standard travel-connectivity playbook quietly falls apart, and almost nobody tells you before departure. Everything below comes from our own test lines and real traveler questions — the Iran quirks worth knowing, including the ones carriers would rather skip.
+An Iran eSIM breaks the standard travel-connectivity playbook more completely than anywhere else — the exceptions start the moment you land, and almost nobody tells you before departure. Everything below comes from our own test lines and real traveler questions — the Iran quirks worth knowing, including the ones carriers would rather skip.
 
-**Quick answer:** Sort it before you fly, install it before you land, and choose MCI or the local networks based on whether your route is rural or urban — the full comparison below shows which is which. One question gets forgotten most by Iran visitors; the [compatibility checker](/compatibility/) answers it.
+**Quick answer:** Sort it before you fly, install it before you land, and choose MCI or Irancell based on whether your route leaves the big cities — the full comparison below shows which is which. One question gets forgotten most by Iran visitors; the [phone compatibility list](/compatibility/) answers it.
 
 Your bank card will not work there. Many internationally sold eSIM profiles either never attach to an Iranian network or attach so unreliably that they are useless for navigation. And the country's own networks — fast, cheap and dense in the cities — sit behind a registration system that assumes you showed up with a passport in person.
 
@@ -44,7 +41,7 @@ In most countries a travel eSIM works by roaming: your profile hops onto a local
 
 Iranian mobile networks have unusually limited international roaming arrangements.
 
-The practical consequence — widely reported by travelers and resellers alike — is that eSIM profiles issued by many foreign brands either cannot find a partner network in Iran or connect so intermittently that they cannot be relied on for maps, translation or booking anything.
+The practical consequence — widely reported by travelers and resellers alike — is that an Iran eSIM bought from a foreign brand either cannot find a partner network or connects so intermittently that it cannot be relied on for maps, translation or booking anything.
 
 The failure looks like a coverage problem, but it is not one. Locals on the same street have full bars while your imported eSIM profile sits idle.
 
@@ -68,9 +65,9 @@ Whatever eSIM or physical tourist line you buy, you will eventually need to pay 
 
 Sanctions-related restrictions mean Visa, Mastercard and most foreign-issued cards are not processed by Iranian merchants, ATMs or top-up systems — this includes the card in your Apple Pay or Google Wallet.
 
-There is no workaround at the point of sale. The entire card economy inside Iran runs on domestic networks, which is also why an eSIM you cannot top up is worse than no eSIM at all.
+There is no workaround at the point of sale. The entire card economy inside Iran runs on domestic networks, which is also why an Iran eSIM you cannot top up is worse than no eSIM at all.
 
-### MCI vs Irancell: which is better in Iran?
+### What cash should you bring to Iran?
 
 Cash is what works.
 
@@ -88,7 +85,7 @@ Three money details are worth settling before departure:
 
 ## The local tourist SIM workaround at Tehran's IKA airport
 
-The dependable way to get connected is a product issued inside Iran, and the busiest sales point is the arrivals hall of **Imam Khomeini International Airport (IKA)** outside Tehran.
+The dependable way to get connected is an Iran eSIM or tourist SIM issued inside the country, and the busiest sales point is the arrivals hall of **Imam Khomeini International Airport (IKA)** outside Tehran.
 
 ### What the IKA tourist SIM desk involves, operator by operator
 
@@ -114,7 +111,7 @@ If you land at another gateway, or cross by land from Turkey, Armenia or Azerbai
 
 Iran has three national mobile operators, all licensed and regulated by the country's Communications Regulatory Authority.
 
-Their differences matter less in Tehran, where all three are strong, and more the farther your route strays from it. All three sell tourist products at the airport, and support for a direct carrier-issued eSIM to short-term visitors is newer and less uniform, so confirm the format at the counter or with your reseller before you commit.
+Their differences matter less in Tehran, where all three are strong, and more the farther your route strays from it. All three sell tourist products at the airport, and support for a direct carrier-issued Iran eSIM for short-term visitors is newer and less uniform, so confirm the format at the counter or with your reseller before you commit.
 
 ### What does MCI (Hamrah-e Aval) offer a visitor
 
@@ -165,9 +162,9 @@ Every Iranian SIM card must be registered to a person, and for visitors that mea
 
 This has tightened over recent years, and the practical effect is simple: no legitimate counter will sell you a working line without taking your passport details.
 
-The registration is done for you as part of the purchase — there is nothing extra to file. It applies equally whether you walk out with a physical card or a locally issued eSIM profile, so an eSIM carries exactly the same obligation as a plastic SIM.
+The registration is done for you as part of the purchase — there is nothing extra to file. It applies equally whether you walk out with a physical card or a locally issued Iran eSIM profile, so the eSIM carries exactly the same obligation as a plastic SIM.
 
-### Is there SIM registration in Iran?
+### Does your phone need IMEI registration in Iran?
 
 The second system covers devices rather than lines.
 
@@ -201,13 +198,13 @@ The country's national statistics explain why: DataReportal's [Digital 2025: Ira
 | Mashhad | Excellent around the shrine complex and the city; among the strongest provincial networks |
 | Yazd and Kerman | Good in the cities; the surrounding desert is a different story, covered below |
 
-The pattern to internalize: inside any city on this list, a locally issued eSIM will feel unremarkable — fast maps, working translation apps, video calls that hold. The variance comes between cities, on the roads, and in what your device can reach.
+The pattern to internalize: inside any city on this list, a locally issued Iran eSIM will feel unremarkable — fast maps, working translation apps, video calls that hold. The variance comes between cities, on the roads, and in what your device can reach.
 
 For the record, Ookla's published median for Iran at the start of 2025 (as cited in the DataReportal report) was about **38.9 Mbps** for mobile downloads, and it has been climbing year over year.
 
 Cable.co.uk's pricing survey puts a gigabyte at roughly **USD 1.50**, 129th of 237 markets — cheap by any global standard. If your eSIM was issued abroad and shows full bars but no internet, that is the roaming-attachment problem from the top of this guide, not a coverage gap.
 
-### Where to find a Iran eSIM
+### Does your phone support Iran's network bands?
 
 One band-level check applies regardless of operator: Iranian networks lean on LTE band 20 (800 MHz) for reach outside city cores, and some handsets sold in certain regional markets lack it.
 
@@ -217,13 +214,13 @@ A phone without band 20 still works in cities but thins out fast elsewhere. Veri
 
 The route most first-time visitors actually run — Tehran down to Isfahan and on to Shiraz, with Yazd as the classic side trip — is where connectivity stops being something you assume and becomes something you check.
 
-### Iran coverage: who does it best?
+### What is coverage like between Iranian cities?
 
 Coverage follows the settlements: strong in Tehran, Isfahan, Shiraz and Yazd themselves, present in the towns strung along the highways, and absent for long stretches of open road between them.
 
 Expect to be out of contact for stretches at a time on the emptier intercity sections.
 
-Shared taxis and buses between the cities pass through covered towns regularly, so the reality is intermittent contact rather than isolation. The stretches of silence are still real and predictable, and no eSIM plan changes that.
+Shared taxis and buses between the cities pass through covered towns regularly, so the reality is intermittent contact rather than isolation. The stretches of silence are still real and predictable, and no Iran eSIM plan changes that.
 
 ### The intercity legs: what to load offline before you leave Tehran
 
@@ -234,11 +231,12 @@ Download the full route offline before leaving the capital, including the segmen
 Tell your hotel or host your planned arrival window — guesthouses on the tourist routes are used to it — and message people when you regain signal on the approach to a town.
 
 The historic sights themselves — the squares and mosques of Isfahan, the gardens of Shiraz, the old town of Yazd — sit inside coverage. The gaps are on the open road between cities, not at the sights, and no travel eSIM or spare SIM card changes that math where there are no towers to attach to.
+
 ## Iran trip logistics: money, apps and connectivity before departure
 
 A few logistics sit outside any single operator's control and deserve neutral, practical framing.
 
-### Mobile carriers you can use in Iran
+### Will your usual apps work in Iran?
 
 Some widely used international apps and services may be unavailable or unreliable on Iranian networks.
 
@@ -248,7 +246,7 @@ Messaging apps that are active for locals, such as Telegram-adjacent and domesti
 
 The payment side of apps matters too. Ride-hailing is genuinely useful in Iranian cities — the local super-app Snapp is how residents move around Tehran — but it requires an Iranian phone number and payment method.
 
-That is one more reason a locally registered tourist eSIM earns its keep over a foreign profile that may never come online at all. Hotels, meanwhile, settle in cash.
+That is one more reason a locally registered Iran eSIM earns its keep over a foreign profile that may never come online at all. Hotels, meanwhile, settle in cash.
 
 ### Iran travel: how to keep your home number reachable
 
@@ -262,7 +260,7 @@ If setup hits trouble mid-trip, our [error-fix guide](/faq/esim-activation-error
 
 A locally issued product is registered by the counter staff, which removes the step that defeats most imported eSIM profiles. What remains is the ordinary housekeeping of making one line the data line.
 
-### Putting a Iran eSIM on your phone
+### Putting an Iran eSIM on your phone
 
 1. Confirm at the counter that the data package is attached to the line before you leave, and ask them to show you a working connection.
 2. Set the Iranian eSIM as your mobile data line, with data roaming switched on for it.
@@ -282,7 +280,7 @@ Access point settings rarely need attention, but in a market where device suppor
 
 Most travelers never open these menus at all, and the ones who do are usually reacting to a symptom rather than a cause.
 
-### APN values for MCI, Irancell and Rightel eSIMs
+### What is an APN and why does it matter in Iran?
 
 An APN, or Access Point Name, is the address your phone gives the network when it opens a data session. It decides which service the operator connects you to and how that session is treated.
 
@@ -298,13 +296,13 @@ Manual entry becomes relevant when an older handset refuses pushed operator sett
 
 In those cases, take the values from the operator's own material — the SIM pack leaflet, the operator's support pages, or the activation email from your reseller. Values differ between operators and product lines, so they must come from the source that issued your line, and our [connection troubleshooting steps](/faq/esim-activation-errors-troubleshooting-guide/) cover what to check if the field is not the problem.
 
-### Iran APN cheat sheet
+### Where is the APN setting on an iPhone?
 
 Go to **Settings → Cellular**, select the Iranian eSIM line, then open **Cellular Data Network**. The APN field is the first entry on that screen.
 
 If that menu does not appear at all, the eSIM profile has supplied its own settings and there is nothing to type.
 
-### When a Iran APN must be entered manually
+### Where is the APN setting on Android?
 
 The route depends on the manufacturer, but it normally runs **Settings → Connections → Mobile networks → Access Point Names**, where you either edit the existing entry or add a new one and select it.
 
@@ -312,7 +310,7 @@ Save, restart the phone, and test the connection while the counter staff or your
 
 ## Iran carrier eSIM questions and answers
 
-### Iran local SIM and travel eSIM compared
+### Can you use an international travel eSIM in Iran?
 
 You can buy one, but you should not depend on it. Many internationally issued eSIM profiles fail to attach to Iranian networks, or attach too intermittently to rely on, because of the country's limited roaming arrangements.
 
@@ -320,11 +318,11 @@ The dependable option is a tourist product issued inside Iran by MCI, Irancell o
 
 ### Can you skip the passport at Iran SIM shops?
 
-Yes. Every Iranian SIM card must be registered to an individual, and for visitors the passport is the identifying document.
+No. Every Iranian SIM card must be registered to an individual, and for visitors the passport is the identifying document.
 
 The counter staff handle the registration as part of the purchase, which takes only minutes, and it covers the eSIM format the same way as a physical card.
 
-### Are Android phones OK for Iran eSIMs?
+### How long can a foreign phone use an Iranian SIM?
 
 Commonly, a foreign phone used with an Iranian SIM gets about 30 days of service without device registration; after that it is disconnected from local networks.
 
@@ -348,9 +346,9 @@ Yes, and you should, for banking codes and calls. Install the tourist line along
 
 A dual-eSIM phone can hold the tourist profile and your home line side by side with no tray swap. Check before flying whether your bank's app will operate during the trip at all, and set up alternatives where it will not.
 
-### Your Iran eSIM, matched to the trip
+### How much data do you need in Iran?
 
-Less than most visitors expect, because Iranian mobile data is inexpensive and city coverage is dense.
+Most visitors need less data than they expect, because Iranian mobile data is inexpensive and city coverage is dense.
 
 Maps, messaging and translation apps on a two-week city-to-city itinerary typically come in well under 2 GB a day, and a package sold at the airport usually covers about a month of validity — so the constraint is more often the package window than the volume. Hotspotting a laptop is the one thing that shifts the calculation upward.
 
@@ -360,13 +358,13 @@ They are registered the same way and paid for the same way, so the choice is mec
 
 A physical card works in any unlocked phone, including one with no eSIM support. A locally provisioned eSIM suits phones without a SIM tray, or anyone who wants to leave a physical home SIM in place — provided the issuer supports your device, which is worth confirming at the counter.
 
-### Does your model pass Iran's checks?
+### Should you run your home SIM and Iranian eSIM together?
 
 Yes, and it is the sensible setup. Keep your home SIM in the tray for calls and verification codes, and run data on the Iranian eSIM.
 
 Two things to watch: point mobile data explicitly at the Iranian line, and leave data roaming off on the home line so background traffic does not trigger charges from your own operator.
 
-### Locating your phone's APN screen for Iran
+### Will you need to set the APN manually in Iran?
 
 Normally no. A locally issued tourist line configures itself on a modern handset, and a travel eSIM you install arrives with its access point details already inside the profile.
 

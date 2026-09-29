@@ -1,7 +1,7 @@
 ---
-title: "Global eSIM Carrier Guide | Network Coverage & Speed"
-description: "Find the best mobile network for your destinations. We have compiled eSIM carrier details for over 50 countries, including in‑depth 4G/5G coverage analyses."
-
+title: "eSIM carriers for 50+ countries, compared on 4G and 5G"
+description: "Roami compares eSIM carriers across 50+ countries, from 4G reach to 5G speed, so you land on the right network everywhere."
+date: "2026-09-27"
 # Hero Section & Breadcrumbs
 hero:
   breadcrumb_home: "Home"
@@ -109,7 +109,7 @@ countries:
   - id: "dz"
     name: "Best Prepaid eSIM for Algeria: Mobilis, Djezzy & Ooredoo"
     flag: "/img/flags/dz.svg"
-    desc: "Buy an eSIM for Algeria for the best travel data. Compare affordable eSIM plans for unlimited data in Algiers and the Sahara with top prepaid networks."
+    desc: "Buy an eSIM for Algeria for the best travel data. Compare affordable eSIM plans for unlimited data in Algiers and Constantine with top prepaid networks."
     btn_details_text: "Details on Algeria eSIM carriers"
     btn_details_url: "/carriers/algeria-esim-carrier-guide/"
     btn_buy_text: "Buy Algeria eSIM"
@@ -649,7 +649,7 @@ countries:
   - id: "ma"
     name: "Morocco eSIM: Maroc Telecom, Inwi & Orange"
     flag: "/img/flags/ma.svg"
-    desc: "Get a Morocco travel eSIM for 2026. Stay online in Marrakech and the Sahara with top data from Maroc Telecom and Inwi."
+    desc: "Get a Morocco travel eSIM for 2026. Stay online in Marrakech and Casablanca with top data from Maroc Telecom and Inwi."
     btn_details_text: "Details on Morocco eSIM carriers"
     btn_details_url: "/carriers/morocco-esim-carrier-guide/"
     btn_buy_text: "Buy Morocco eSIM"
@@ -729,7 +729,7 @@ countries:
   - id: "no"
     name: "Norway Travel eSIM: Telenor, Telia & Ice"
     flag: "/img/flags/no.svg"
-    desc: "Experience 5G in Norway with a travel eSIM. Compare Telenor and Telia for best signal in Oslo, Bergen and the Arctic Circle."
+    desc: "Experience 5G in Norway with a travel eSIM. Compare Telenor and Telia for best signal in Oslo, Bergen and the fjords."
     btn_details_text: "Details on Norway eSIM carriers"
     btn_details_url: "/carriers/norway-esim-carrier-guide/"
     btn_buy_text: "Buy Norway eSIM"

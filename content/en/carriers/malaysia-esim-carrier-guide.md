@@ -1,11 +1,11 @@
 ---
 
-title: "Malaysia eSIM: Maxis, CelcomDigi or U Mobile for you"
+title: "Prepaid Malaysia eSIM | Maxis, CelcomDigi & U Mobile"
 
-description: "Maxis, CelcomDigi or U Mobile? Roami maps Malaysia eSIM coverage from KLIA to Borneo, plus MCMC passport rules and APN basics."
-image: "img/esim/carriers/malaysia-esim-carrier-guide.jpg"
+description: "Need internet in Malaysia? Roami eSIM gives prepaid data on Maxis, CelcomDigi & U Mobile networks, with flexible plans and instant setup."
+image: "img/esim/carriers/malaysia-esim-carrier-guide.webp"
 
-date: "2026-08-17T11:27:45+00:00"
+date: "2026-09-22"
 
 keywords: Malaysia eSIM carriers, Maxis eSIM, CelcomDigi eSIM, U Mobile eSIM, Malaysia 5G DNB, Malaysia eSIM APN, Malaysia SIM registration, Malaysia travel eSIM, KLIA tourist SIM, best eSIM Malaysia
 
@@ -29,17 +29,7 @@ hero_subtitle_main: "Maxis, CelcomDigi and U Mobile, plus the DNB 5G twist"
 
 ---
 
-
-
-> **Kuala Lumpur is easy — Borneo is the frontier**
-
->
-
-> **Maxis, CelcomDigi and U Mobile, plus the DNB 5G twist**
-
-
-
-A Malaysia eSIM choice depends on which of the country's two markets you are visiting — the dense 5G Peninsula or Borneo's coverage frontier — and on a shared wholesale network the differences are subtler than they look; this guide untangles them. Malaysia is two markets wearing one flag. The Peninsula — KL, Penang, Johor — is a dense, fast, 5G-rich urban strip. East Malaysia, the Borneo states of Sabah and Sarawak, is a coverage frontier where the map thins between towns. The carrier you pick matters far more in the second than the first, and there is a structural quirk most guides miss: Malaysia's 5G runs on a **single wholesale network (DNB)** that every operator resells, so 5G coverage is near-identical between carriers — the real difference is 4G reach and price. This guide walks the KLIA arrival, the MCMC passport rule, and which network to ride where.
+A Malaysia eSIM choice depends on which of the country's two markets you are visiting, and on a shared wholesale 5G network that makes the differences between carriers subtler than they look — this guide untangles them. Malaysia is two markets wearing one flag. The Peninsula — KL, Penang, Johor — is a dense, fast, 5G-rich urban strip. East Malaysia, the Borneo states of Sabah and Sarawak, is a coverage frontier where the map thins between towns. The carrier you pick matters far more in the second than the first, and there is a structural quirk most guides miss: Malaysia's 5G runs on a **single wholesale network (DNB)** that every operator resells, so 5G coverage is near-identical between carriers — the real difference is 4G reach and price. This guide walks the KLIA arrival, the MCMC passport rule, and which network to ride where.
 
 
 
@@ -73,7 +63,7 @@ Two things happen at that counter that a travel eSIM avoids:
 
 
 
-A travel eSIM flips the order: you install it on home Wi-Fi before departure, land already online, and never queue or show a passport.
+A Malaysia eSIM flips the order: you install it on home Wi-Fi before departure, land already online, and never queue or show a passport.
 
 
 
@@ -93,7 +83,7 @@ Malaysia's mobile market looks competitive — Maxis, CelcomDigi, U Mobile, plus
 
 
 
-So "which 5G carrier" is almost the wrong question in Malaysia. "Which network has 4G where I am going" is the right one.
+So "which 5G carrier" is almost the wrong question to ask of a Malaysia eSIM. "Which network has 4G where I am going" is the right one.
 
 
 
@@ -205,7 +195,7 @@ Plan prices below are the operators' published prepaid and tourist rates (USD at
 
 
 
-### CelcomDigi — the default for everywhere else
+### CelcomDigi eSIM plans and coverage
 
 
 
@@ -247,7 +237,7 @@ Plan prices below are the operators' published prepaid and tourist rates (USD at
 
 
 
-### U Mobile — the budget urban challenger
+### U Mobile eSIM plans and coverage
 
 
 
@@ -287,7 +277,7 @@ Plan prices below are the operators' published prepaid and tourist rates (USD at
 
 
 
-## Registration: The Legal Side
+## SIM registration rules in Malaysia
 
 
 
@@ -307,7 +297,7 @@ Malaysia tightened prepaid registration with a binding [Commission Determination
 
 
 
-A data-only travel eSIM is a different product: it delivers data through partner networks without opening a Malaysian prepaid number, so none of the above applies. Choose a local prepaid when you need a +60 number or domestic calls; choose a travel eSIM when data is enough and buying before departure without registering is the better fit.
+A data-only Malaysia eSIM is a different product: it delivers data through partner networks without opening a Malaysian prepaid number, so none of the above applies. Choose a local prepaid when you need a +60 number or domestic calls; choose a travel eSIM when data is enough and buying before departure without registering is the better fit.
 
 
 
@@ -369,7 +359,7 @@ The clean fix: if you only need Singapore for a day trip, buy a [Singapore eSIM]
 
 
 
-- **[Ookla Speedtest Global Index](https://www.speedtest.net/global-index/malaysia) (August 2026):** Malaysia ranks **14th** globally for mobile, median download **165.32 Mbps** at **21 ms** latency — well above the 109.05 Mbps global median, and the eSIM rides this local infrastructure.
+- **[Ookla Speedtest Global Index](https://www.speedtest.net/global-index/malaysia) (August 2026):** Malaysia ranks **14th** globally for mobile, median download **165.32 Mbps** at **21 ms** latency — well above the 109.05 Mbps global median, and your Malaysia eSIM rides this local infrastructure.
 
 - **[Cable.co.uk per-GB pricing](https://www.cable.co.uk/mobiles/worldwide-data-pricing/):** roughly **USD 0.28** per GB, 20th of 237 markets — among the cheapest mobile data on earth, reflecting fierce local competition.
 
@@ -405,11 +395,11 @@ You only need these for a **direct-carrier** install that did not auto-configure
 
 
 
-Save and reboot. If data still fails, confirm the eSIM is the selected data line and that data roaming is on (a Malaysian eSIM used outside the country — e.g. in Singapore — needs roaming on).
+Save and reboot. If data still fails, confirm the Malaysia eSIM is the selected data line and that data roaming is on (a Malaysian eSIM used outside the country — e.g. in Singapore — needs roaming on).
 
 
 
-## Where Sales Happen
+## Where to buy a Malaysia eSIM
 
 
 
@@ -423,7 +413,7 @@ Malaysia's 2026 MCMC standard makes the buying step a real errand. Run this list
 
 - **Payment the counter will accept** — airport desks charge the pack price plus a **RM 5** activation fee, and not every terminal takes a foreign card; ringgit cash is the sure thing.
 
-- **Install any travel eSIM before you fly** — one step at home skips the KLIA queue, the face scan and the two-SIMs-per-provider ceiling altogether.
+- **Install your Malaysia eSIM before you fly** — one step at home skips the KLIA queue, the face scan and the two-SIMs-per-provider ceiling altogether.
 
 - **A +60 number only if ride-hailing matters** — Grab, some hotel captive portals and local calls want a Malaysian line, and a data-only eSIM cannot receive texts.
 
@@ -459,11 +449,11 @@ One more thing worth knowing before you pay: a tourist-category prepaid line is 
 
 
 
-## Malaysian eSIM faults you will not find elsewhere
+## Common Malaysia eSIM problems and fixes
 
 
 
-Blank QR screens and stalled installs are universal; the general playbook lives in the [eSIM activation error guide](/faq/esim-activation-errors-troubleshooting-guide/), and the clean install sequence is in [how to activate an eSIM](/faq/how-to-activate-an-esim/). These four faults are Malaysia's own.
+Blank QR screens and stalled installs are universal; the general playbook lives in the [eSIM activation error guide](/faq/esim-activation-errors-troubleshooting-guide/), and the clean install sequence is in [how to activate an eSIM](/faq/how-to-activate-an-esim/). These three faults are Malaysia's own.
 
 
 
@@ -479,23 +469,11 @@ If the shop reports the registration as pending, the provider has **12 hours** t
 
 
 
-### Maxis vs CelcomDigi 5G: which is better in Malaysia?
+### Why does 5G drop back to 4G mid-session?
 
 
 
 Malaysia's 5G is a single wholesale network, and the newer standalone (SA) deployments expect a handset that supports the band and the profile. An older imported phone, or one carrying a regional firmware variant, can show 5G briefly and then fall back to 4G mid-session — a device limit rather than a network outage. Compare against a second handset before blaming the eSIM.
-
-
-
-### The right data amount for Malaysia
-
-
-
-Singapore is outside Malaysia and outside the ASEAN free-roaming arrangements, so a Malaysian prepaid that attaches to a Singtel, StarHub or M1 mast either goes dark or starts billing by the megabyte. If roaming was never switched on for the CelcomDigi tourist pass, the line simply stops at the border.
-
-
-
-Set Network Selection to manual and stay pinned to Maxis, CelcomDigi or U Mobile until you are clear of the crossing — or carry a separate Singapore eSIM for the day trip.
 
 
 
@@ -507,7 +485,7 @@ Sabah and Sarawak are a coverage frontier: towns hold up, and the roads and rive
 
 
 
-## Who you are choosing between
+## Choosing between Malaysia carriers
 
 
 
@@ -551,11 +529,11 @@ For most visitors, **CelcomDigi** — largest footprint, best rural and Borneo c
 
 
 
-Yes. MCMC rules require every local SIM and eSIM to be registered against your passport; since 26 February 2026 the dealer also captures a live facial scan and records your hotel address. A travel eSIM bought online before you fly avoids the in-person step.
+MCMC rules require every local SIM and eSIM to be registered against your passport; since 26 February 2026 the dealer also captures a live facial scan and records your hotel address. A travel eSIM bought online before you fly avoids the in-person step.
 
 
 
-### Can you buy a Malaysia eSIM from Maxis?
+### Can you buy a Malaysia eSIM from CelcomDigi?
 
 
 
@@ -563,7 +541,7 @@ Yes. CelcomDigi has counters on KLIA1 Level 3 (before and after immigration) and
 
 
 
-### Malaysia rules on anonymous SIMs
+### How many Malaysian SIMs can a tourist hold?
 
 
 
@@ -575,11 +553,11 @@ Under the 2026 MCMC standard, a non-Malaysian is limited to **two prepaid SIMs p
 
 
 
-Essentially yes. 5G runs on the single wholesale DNB network that Maxis, CelcomDigi and U Mobile all resell, so 5G coverage is near-identical. The difference between carriers is 4G reach and price.
+5G runs on the single wholesale DNB network that Maxis, CelcomDigi and U Mobile all resell, so 5G coverage is near-identical. The difference between carriers is 4G reach and price.
 
 
 
-### Networks to know in Malaysia
+### Which network is best for Sabah and Sarawak?
 
 
 
@@ -627,7 +605,7 @@ Often yes. Grab and some hotel Wi-Fi logins send an SMS verification code, which
 
 
 
-### Which phones are eSIM-locked out of Malaysia?
+### What if your phone is carrier-locked?
 
 
 
@@ -655,7 +633,7 @@ Every number here is a third-party reading rather than our own testing, so expec
 
 
 
-## One Malaysia eSIM for the Peninsula and Borneo
+## Get your Malaysia eSIM ready before you fly
 
 
 

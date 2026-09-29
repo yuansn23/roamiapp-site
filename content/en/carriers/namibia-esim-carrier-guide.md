@@ -1,8 +1,8 @@
 ---
-title: "Namibia eSIM: which network works past the last town"
-description: "MTC, TN Mobile or Paratus? Roami tests Namibia eSIM coverage past the last town, with self-drive dead zones, NAD packs and border notes."
-image: "img/esim/carriers/namibia-esim-carrier-guide.jpg"
-date: "2026-08-25T08:07:42+00:00"
+title: "Prepaid Namibia eSIM Data | MTC, TN Mobile & Paratus"
+description: "Explore Namibia with Roami eSIM. Access fast 5G prepaid data on MTC, TN Mobile & Paratus networks, perfect for tourists and remote workers."
+image: "img/esim/carriers/namibia-esim-carrier-guide.webp"
+date: "2026-09-21"
 keywords: Namibia eSIM carriers, MTC eSIM, TN Mobile eSIM, Paratus eSIM, Namibia travel eSIM, Namibia tourist SIM, Etosha connectivity, Namibia APN, Namibia self-drive internet, CRAN Namibia
 site_name: Roami
 brand_name: Roami
@@ -15,19 +15,15 @@ hero_badge: "Namibia's mobile networks, rated for your trip"
 hero_subtitle_main: "MTC, TN Mobile and Paratus put to the test"
 ---
 
-> **Namibia's mobile networks, rated for your trip**
->
-> **MTC, TN Mobile and Paratus put to the test**
-
 Namibia spreads roughly three million people across a country the size of France and Germany combined, so "coverage" here is really about how far past the last town your eSIM keeps working. **MTC** dominates and is the only operator with a genuine rural footprint — but here is the trap most travellers miss: the big international eSIM apps (Airalo, Nomad and others) selling a "Namibia eSIM" **roam onto TN Mobile, not MTC**, and TN Mobile's reach outside the cities is thin. The profile you buy for the safari is therefore often not the network that covers the safari. What follows explains how to spot that gap and close it.
 
 **Quick answer:** MTC leads this comparison on raw coverage, TN Mobile on value — and that gap narrows the longer you stay put. The routes below show where that flips. You can also sample the Namibia setup at no cost via Roami's [free Roami trial](/free-esim/).
 
-Before anything else, confirm the handset actually supports eSIM.The [handset compatibility checker](/compatibility/) settles that in under a minute, and the explainer on [what happens during eSIM activation](/faq/what-is-esim-activation-and-how-does-it-work/) covers what happens when a profile downloads. From here on, it is all about the carriers.
+Before anything else, confirm the handset actually supports eSIM. The [handset compatibility checker](/compatibility/) settles that in under a minute, and the explainer on [what happens during eSIM activation](/faq/what-is-esim-activation-and-how-does-it-work/) covers what happens when a profile downloads. From here on, it is all about the carriers.
 
-**The short version:** Driving Etosha, the Caprivi or the southern parks? **MTC** is the only network with dependable reach past the towns — but its tourist product is a physical SIM sold at Hosea Kutako airport, not a tourist eSIM. **TN Mobile** is strong in cities (and is what most travel eSIMs actually use). **Paratus** is cities/business only, 4G, no roaming role. Want MTC's footprint without the airport SIM counter? A multi-network Namibia eSIM that includes MTC is the play. [free data trial](/free-esim/) tests the networks, and code WEB20 takes 20% off any paid plan — [see the current plans list](/plans/).
+**The short version:** Driving Etosha, the Caprivi or the southern parks? **MTC** is the only network with dependable reach past the towns — but its tourist product is a physical SIM sold at Hosea Kutako airport, not a tourist eSIM. **TN Mobile** is strong in cities (and is what most travel eSIMs actually use). **Paratus** is cities/business only, 4G, no roaming role. Want MTC's footprint without the airport SIM counter? A multi-network Namibia eSIM that includes MTC is the play. The [free data trial](/free-esim/) tests the networks, and code WEB20 takes 20% off any paid plan — [see the current plans list](/plans/).
 
-## The eSIM trap nobody mentions
+## Which network do Namibia eSIMs use?
 
 Most "Namibia eSIM" products sold online are **TN Mobile roaming profiles**, not MTC. Here is the documented reality (checked against operator and provider pages, 2026):
 
@@ -81,11 +77,11 @@ APN: `internet` (auto-supplied on eSIM; `ppsinternet` also appears in some MTC d
 
 Quirks: the airport kiosk has been known to close before the last evening arrival; multiple bundles do not stack their validity — each runs its own 14 or 30 days.
 
-### TN Mobile (Telecom Namibia) — strong cities, what eSIMs use
+### TN Mobile (Telecom Namibia) coverage
 
 Best for: Urban stays and as the underlying network for most international travel eSIMs.
 
-Market position: TN Mobile is the second operator, strong in Windhoek and the coastal towns, with weaker rural coverage than MTC. It has no 5G and, as of our check, no eSIM offering of its own — but it is what the major international eSIM apps roam onto.
+Market position: TN Mobile is the second operator, strong in Windhoek and the coastal towns, with weaker rural coverage than MTC. It has no 5G and, as of our check, no eSIM offering of its own — but it is the network most Namibia eSIM products ride.
 
 Airport price table (indicative, from airport retail listings):
 
@@ -124,7 +120,7 @@ APN: Reported as `pp.internet` (single source; treat as indicative and confirm w
 | Fish River Canyon & the deep south | MTC, weakly | Viewpoints have little or nothing | Fuel-stop towns are your signal windows |
 | Lüderitz & the Diamond Coast | MTC | Town covered, approaches thin | The B4 drive has long gaps |
 
-💡 Rule of thumb: download every map offline, tell contacts you will drop out for stretches, and treat "coverage" as "towns and main roads," never "the whole map."
+💡 Rule of thumb for any Namibia eSIM: download every map offline, tell contacts you will drop out for stretches, and treat "coverage" as "towns and main roads," never "the whole map."
 
 ## Your eSIM coverage: MTC vs TN Mobile
 
@@ -162,7 +158,7 @@ Namibian networks run conservative, widely compatible bands, so most unlocked in
 | Older 3G-only handsets | Signal but poor speeds; some travel eSIMs cap at 3G anyway | Expected on cheap travel eSIMs — a local MTC SIM will be faster |
 | Rugged/older GPS units | No eSIM support | Consider a physical SIM at the airport counter instead |
 
-When in doubt, run your exact model through the [compatibility page](/compatibility/) before buying anything — in Namibia the cost of discovering a problem is measured in hundreds of kilometres, not minutes.
+When in doubt, run your exact model through the [compatibility page](/compatibility/) before buying a Namibia eSIM — in Namibia the cost of discovering a problem is measured in hundreds of kilometres, not minutes.
 
 One band note worth knowing: MTC holds 700/800 MHz spectrum, which is what carries its rural reach — that is why a signal can persist where towns are dozens of kilometres away, and why a phone that only supports higher bands will struggle long before the map says it should.
 
@@ -185,7 +181,7 @@ Practical pattern: buy per-country, or carry one multi-country eSIM across the w
 
 ## APN configuration, done once
 
-You will only need these if you bought a SIM or eSIM directly from a Namibian carrier. A downloaded travel eSIM carries its own APN settings — leave them as they are.
+You will only need these if you bought a SIM or eSIM directly from a Namibian carrier. A downloaded Namibia eSIM carries its own APN settings — leave them as they are.
 
 | Carrier | APN | Username | Password |
 |:---|:---|:---|:---|
@@ -260,7 +256,7 @@ Because coverage out here is measured in towns rather than kilometres, the prepa
 - **The border plan decided in advance**, so the profile that goes quiet at Noordoewer or Buitepos is a choice rather than a surprise.
 - **The phone's data line confirmed once more**, with roaming on and the eSIM selected — the last thing you can check before the tarmac runs out.
 
-## The short version, question by question
+## Namibia eSIM FAQ
 
 ### Rural coverage in Namibia: MTC vs TN Mobile
 
@@ -296,7 +292,7 @@ The MTC Premium tourist pack (20.1 GB / 30 days) comfortably covers two weeks of
 
 ### Do I need a satellite messenger?
 
-For the major tourist routes (Etosha, Sossusvlei, the B-roads), no — towns and lodges give you regular signal windows. For deep Kaokoland, the Skeleton Coast north of Torra Bay or the empty south, a satellite device is the honest backup, because there is no network to strengthen.
+For the major tourist routes (Etosha, Sossusvlei, the B-roads), no — towns and lodges give you regular signal windows. For remote Kaokoland, the Skeleton Coast north of Torra Bay or the far south, a satellite device is the honest backup, because there is no network to strengthen.
 
 ### Is Starlink available at lodges?
 
@@ -322,9 +318,9 @@ No — a Namibia-only profile stops at the border post. For the Trans-Kalahari r
 - Windhoek Observer — [the 624 Starlink reconsideration applications](https://observer24.com.na/cran-gets-624-starlink-reconsideration-applications) reported in 2026.
 - Ookla Speedtest Global Index, Cable.co.uk and DataReportal — speed, pricing and adoption figures, linked inline above. When a customer challenges a Namibia coverage figure, support pulls from this same list.
 
-None of the figures here come from our own field testing, and Namibian coverage shifts with every new mast. Expect your own result to depend on the handset you carry, which gravel road you are grinding along, and how many kilometres separate you from the last town.
+None of the figures here come from our own field testing, and Namibian coverage shifts with every new mast. Expect your own result to depend on the handset you carry, which gravel road you are driving along, and how many kilometres separate you from the last town.
 
-## Install a Namibia eSIM and reach the Etosha gate still connected
+## Get your Namibia eSIM ready before you fly
 
 A Roami Namibia eSIM spans the local networks — including MTC's rural footprint — and follows the signal as the road under you changes from tar to gravel, so the profile that works in Windhoek is still working when you pull up at the lodge. Nothing to upload and no airport counter to catch before it shuts for the night.
 

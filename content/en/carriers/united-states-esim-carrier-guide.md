@@ -1,8 +1,8 @@
 ---
-title: "United States eSIM Carriers: T-Mobile, Verizon, AT&T"
-description: "Roami compares T-Mobile, Verizon and AT&T on Ookla speed, coverage and prepaid eSIM rules so you pick the right United States carrier."
-image: "img/esim/carriers/united-states-esim-carrier-guide.jpg"
-date: "2026-09-22T07:21:20+00:00"
+title: "5G United States eSIM | AT&T, Verizon & T-Mobile"
+description: "Travel United States with Roami eSIM. Enjoy fast 5G prepaid data on AT&T, Verizon & T-Mobile networks for tourists and remote workers."
+image: "img/esim/carriers/united-states-esim-carrier-guide.webp"
+date: "2026-09-18"
 keywords: United States eSIM carriers, T-Mobile eSIM, Verizon eSIM, AT&T eSIM, Cricket Wireless eSIM, Visible eSIM, Metro by T-Mobile eSIM, US 5G coverage, US eSIM APN, prepaid eSIM United States
 site_name: Roami
 brand_name: Roami
@@ -15,19 +15,15 @@ hero_badge: "The US carrier face-off: 2026 data"
 hero_subtitle_main: "The 2026 carrier comparison, built on independent speed data"
 ---
 
-> **The US carrier face-off: 2026 data**
->
-> **The 2026 carrier comparison, built on independent speed data**
+Choosing a United States eSIM is choosing how far you will drive: three national networks split coverage, speed and city depth across a continent-sized map, and this guide matches them to your route. The three US national networks are not interchangeable, and in a country this wide the right one depends almost entirely on your route. On Ookla's 2H 2025 United States report, **T-Mobile** was the Best Mobile Network overall and the Best 5G Network, with the highest Speed Score (**73.26**) and the widest 5G availability (**91.2%**). **Verizon** won Best Mobile Coverage, posting a Coverage Score of **30.0%** — the most geographic reach of the three. **AT&T** sat between them on most measures and led on the fixed broadband side. So the carrier that suits you is a question of geography: dense metros reward one network, long rural drives reward another. We can name the source behind every statement — see the list at the bottom before spending on the United States.
 
-Choosing a United States eSIM is choosing how far you will drive: three national networks split coverage, speed and city depth across a continent-sized map, and this guide matches them to your route. The three US national networks are not interchangeable, and in a country this wide the right one depends almost entirely on how far you plan to drive. On Ookla's 2H 2025 United States report, **T-Mobile** was the Best Mobile Network overall and the Best 5G Network, with the highest Speed Score (**73.26**) and the widest 5G availability (**91.2%**). **Verizon** won Best Mobile Coverage, posting a Coverage Score of **30.0%** — the most geographic reach of the three. **AT&T** sat between them on most measures and led on the fixed broadband side. So the carrier that suits you is a question of geography: dense metros reward one network, long rural drives reward another. We can name the source behind every statement — see the list at the bottom before spending on the United States.tates.
-
-**Quick answer:** T-Mobile leads this comparison on raw coverage, Verizon on value — and that gap narrows the longer you stay put. The routes below show where that flips. You can also try the United States setup first-hand with Roami's [free Roami trial](/free-esim/).
+**Quick answer:** T-Mobile leads this comparison on raw speed and 5G, Verizon on geographic coverage — and which one wins depends on your route. The tables below show where that flips. You can also try the setup first-hand with Roami's [free Roami trial](/free-esim/).
 
 One prerequisite worth ten seconds of your time: confirm your handset is eSIM-capable via the [phone compatibility list](/compatibility/), and skim [how eSIM installation works](/faq/what-is-esim-activation-and-how-does-it-work/) if the process is new to you.
 
 **The short version:** Staying in New York, Los Angeles or Chicago? T-Mobile is the fastest network and holds 5G almost everywhere (91.2% availability). Driving national parks or rural Midwest? Verizon has the widest geographic footprint. Want a clean prepaid eSIM as a visitor? T-Mobile sells a tourist eSIM with no ID and no US address, while AT&T and Verizon point you at their prepaid brands Cricket and Visible. Or skip the paperwork: [free test eSIM](/free-esim/) tests the networks at no cost, and code **WEB20** knocks 20% off [United States prepaid eSIM plans](/united-states-esim/).
 
-## Every your eSIM and its carrier options
+## Your United States eSIM carrier options
 
 ### T-Mobile, Verizon and AT&T head to head
 
@@ -54,7 +50,7 @@ America's MVNO layer — brands that buy airtime from T-Mobile, Verizon or AT&T 
 
 Two cautions. First, budget brands cap data speeds during congestion — Visible and Cricket deprioritize behind the parent network's direct customers, and Metro slows after roughly 35 GB in a cycle. The second caution is that prepaid brands here run on one network apiece. You get Verizon's towers on Visible and nobody else's, which matters the moment you leave the city or cross into a dead zone.
 
-### Can you buy a United States eSIM from T-Mobile?
+### Direct from a carrier or a travel eSIM: which is better?
 
 | | Direct from a US carrier or its prepaid brand | Travel eSIM on a US network |
 |:---|:---|:---|
@@ -66,13 +62,13 @@ Two cautions. First, budget brands cap data speeds during congestion — Visible
 
 For a normal vacation the cost difference is lopsided. A US prepaid plan charges monthly whether you use it or not and locks you to one network; a [Roami travel eSIM](/united-states-esim/) buys data at wholesale and lets the device move between networks. Where the carrier wins is longevity and voice — a real US number, unlimited domestic calling, and a plan that still works in month six.
 
-💡 A multi-network eSIM profile is the practical middle path: it keeps the convenience of instant delivery, switches automatically between T-Mobile, Verizon and AT&T, and still lands you on T-Mobile in the city and Verizon in the parks without buying twice.
+💡 A multi-network US eSIM profile is the practical middle path: it keeps the convenience of instant delivery, switches automatically between T-Mobile, Verizon and AT&T, and still lands you on T-Mobile in the city and Verizon in the parks without buying twice.
 
-## What your eSIM demands from your device
+## Phone requirements for a United States eSIM
 
 Three things decide whether your phone works on a US carrier: its bands, its lock status, and a short list of device-specific quirks. All three are covered below.
 
-### Will an iPhone connect in United States?
+### Which 5G bands do US carriers use?
 
 US carriers build their 5G on different bands, and the differences decide whether you see fast 5G or fall back to LTE. **T-Mobile** leans on **n71 (600 MHz)** for rural reach and **n41 (2.5 GHz)** for mid-band speed. **Verizon** uses **n77 (C-band)** for mid-band and **n260/n261 (mmWave)** in dense downtowns and stadiums. **AT&T** uses **n5 (850 MHz)** low-band and **n77** mid-band. Plenty of international handsets ship without n77, which is the band AT&T and Verizon depend on for mid-band speed.
 
@@ -104,7 +100,7 @@ Anything left over is a handset problem, not a US carrier problem. Verify the ha
 
 Four routes exist, and they differ more in paperwork than in price: T-Mobile's tourist eSIM, AT&T prepaid or Cricket, Verizon prepaid or Visible, and the T-Mobile budget brands Metro and Mint. Each route, step by step:
 
-### United States eSIM sellers, listed
+### How to buy T-Mobile's tourist eSIM
 
 T-Mobile is the only national carrier with a prepaid eSIM product built specifically for short-term visitors.
 
@@ -117,7 +113,7 @@ T-Mobile is the only national carrier with a prepaid eSIM product built specific
 
 T-Mobile markets this directly at international travelers, and the app checks eSIM compatibility before you pay. Regular T-Mobile prepaid lines also support eSIM, but the tourist route is the one designed for someone who has not landed yet and has no US billing address.
 
-### United States price check: local vs travel eSIM
+### How to buy AT&T or Cricket as a visitor
 
 AT&T sells its own prepaid eSIM, and it also owns **Cricket Wireless**, which is the lower-friction visitor path.
 
@@ -127,12 +123,12 @@ Cricket is simpler for most visitors:
 
 - Cricket runs on AT&T's network and offers eSIM activation with **no credit check**.
 - Entry pricing is **$30 per month for 5 GB**, with unlimited tiers at $55 and above.
-- A physical SIM carries an one-time fee in a Cricket store, but the eSIM route is digital.
+- A physical SIM carries a one-time fee in a Cricket store, but the eSIM route is digital.
 - Cricket covers the US, Canada and Mexico on select plans, which is useful if your trip crosses a border.
 
 If you only want AT&T coverage as a visitor and do not need an AT&T-branded account, Cricket gets you the same towers with less paperwork.
 
-### United States eSIM plan prices
+### How to buy Verizon or Visible as a visitor
 
 Verizon sells a prepaid eSIM through verizon.com and the My Verizon app, delivered by QR code email for compatible devices. Postpaid Verizon plans want a US credit check and a US address, so visitors normally land on prepaid or on Verizon's budget brand **Visible**.
 
@@ -157,7 +153,7 @@ Visible gives you Verizon's network and the widest geographic coverage in the co
 
 Prices are before taxes and fees unless a brand states otherwise, and they change often. For the live line-up, our United States eSIM plans page reflects today's options.
 
-### T-Mobile eSIM plans for visitors
+### What to have ready before buying a US eSIM
 | Item | Why it matters |
 |:---|:---|
 | IMEI | Dial `*#06#` to confirm the device is eSIM-capable |
@@ -214,7 +210,7 @@ Distance is the whole story here: the networks are near-identical in Manhattan a
 
 Planning a route that leaves the United States? Start with [eSIM for Canada](/canada-esim/), compare [Mexico eSIM plans](/mexico-esim/), or if your itinerary crosses borders more than once, a [North America eSIM](/north-america-esim/) saves you buying twice.
 
-Here, automatic network selection is the whole advantage. A profile that can move between T-Mobile, Verizon and AT&T covers the regional gaps that any single-carrier plan cannot.
+Here, automatic network selection is the whole advantage. A United States eSIM that can move between T-Mobile, Verizon and AT&T covers the regional gaps that any single-carrier plan cannot.
 
 ## Tested APN values
 
@@ -232,7 +228,7 @@ You will only need these if you bought a SIM or eSIM **directly from a US carrie
 
 Budget brands inherit their parent's network values: Visible uses Verizon's `vzwinternet`, Cricket uses `ndo`, Metro by T-Mobile uses `fast.metropcs.com`, and Mint Mobile uses `wholesale`. Leave username and password empty unless the activation instructions that came with your profile state otherwise.
 
-### APN configuration in United States
+### When does a US eSIM need manual APN entry?
 
 T-Mobile and the MVNOs usually provision the APN for you, so a manual entry is a fallback rather than a step in the setup. It is worth doing when:
 
@@ -241,13 +237,13 @@ T-Mobile and the MVNOs usually provision the APN for you, so a manual entry is a
 - A carrier-issued prepaid eSIM where automatic configuration did not run
 - Almost never on a travel eSIM — that is the point of a managed profile
 
-### When a United States APN must be entered manually
+### Where to enter APN settings on your phone
 - **iPhone:** Settings → Cellular → tap the eSIM line → Cellular Data Network → enter the APN
 - **Android:** Settings → Connections → Mobile Networks → Access Point Names → add a new APN
 
-After saving, restart the phone. If data is still dead, confirm the active data line is the US profile rather than your home SIM.
+After saving, restart the phone. If data is still dead, confirm the active data line is the US eSIM rather than your home SIM.
 
-## Install to working data: a United States eSIM path
+## How to install and activate a United States eSIM
 
 One trip through this section: clean install to working data, with the failure patterns a US network can produce covered in the order they arrive.
 
@@ -291,7 +287,7 @@ General activation errors — a profile that will not download, a scan that fail
 2. Verify the US eSIM is the active data line and not your home SIM.
 3. Check you have not exhausted your data allowance — budget brands deprioritize rather than cutting off
 
-### T-Mobile vs Verizon: which is better in United States?
+### What to gather before contacting US eSIM support
 | Information | Where to find it |
 |:---|:---|
 | Order or account number | Confirmation email |
@@ -320,7 +316,7 @@ Yes. AT&T prepaid eSIM needs no credit check, though AT&T's own checkout can rej
 
 Verizon, on the evidence. It recorded the **Best Mobile Coverage in the United States with a Coverage Score of 30.0%** on Ookla's 2H 2025 report — the share of the country's geography it reaches, which is the closest thing to a rural-reliability measure. T-Mobile is faster where it has signal, and AT&T sits between them, but for long drives through the Midwest and interstates, Verizon holds the longest stretches.
 
-### T-Mobile vs Verizon prices compared
+### What are the cheapest US eSIM options?
 
 Visible, at **$25 per month** for unlimited data on Verizon's network, or Mint Mobile at a **$15 per month** intro rate on T-Mobile's network if you pay for several months upfront. Cricket starts at $30 per month for 5 GB on AT&T. All three are prepaid with no contract, so you can stop after one month. Watch for deprioritization during congestion rather than a hard data cut-off.
 
@@ -340,15 +336,15 @@ Direct means one network, carrier-issued provisioning, and often a US number and
 T-Mobile does — it markets a tourist eSIM and US Pass plans for international visitors, with no ID, from $50 for 30 days of unlimited service. AT&T and Verizon route visitors to prepaid tiers and their brands Cricket and Visible rather than a labeled "tourist" product, but those prepaid eSIMs work the same way for a short stay.
 
 ### Can I keep two eSIMs active at once?
-Yes, and it is a sensible setup. Keep the home SIM for calls and text verification, and let the US profile carry the data. Set the US profile as the data line in Settings and leave voice on your home SIM. Watch two things: switch roaming off on the home line to avoid surprise charges, and remember that most data-only profiles cannot receive texts, so verification codes go to your home number.
+Yes, and it is a sensible setup. Keep the home SIM for calls and text verification, and let the US eSIM carry the data. Set the US profile as the data line in Settings and leave voice on your home SIM. Watch two things: switch roaming off on the home line to avoid surprise charges, and remember that most data-only profiles cannot receive texts, so verification codes go to your home number.
 
-### Activating on T-Mobile, Verizon and AT&T
+### How does eSIM activation work on US carriers?
 
-Work the three US-specific patterns above in order — lock status, network selection, APN and data line, then profile reinstall — and if it still fails, the wider error catalogue in [eSIM activation fixes guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. Line up your EID, order number and an error screenshot before you reach support.
+Nothing gets swapped or mailed: the eSIM is soldered into the handset and a US carrier simply pushes your profile onto it over the air. From then on the line behaves like any ordinary SIM, complete with the carrier's APN and roaming rules. The delivery chain and the one-scan QR limit are set out in [eSIM activation explained](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 ### United States activation not working? Try this
 
-Nothing gets swapped or mailed: the eSIM is soldered into the handset and a US carrier simply pushes your profile onto it over the air. From then on the line behaves like any ordinary SIM, complete with the carrier's APN and roaming rules. The delivery chain and the one-scan QR limit are set out in [eSIM activation explained](/faq/what-is-esim-activation-and-how-does-it-work/).
+Work the three US-specific patterns above in order — lock status, network selection, then APN and data line — and if it still fails, the wider error catalogue in [eSIM activation fixes guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. Line up your EID, order number and an error screenshot before you reach support.
 
 More questions? [View full FAQ](/faq/)
 

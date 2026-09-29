@@ -1,8 +1,8 @@
 ---
-title: "Which Costa Rica eSIM Carrier? Claro, Kölbi, Liberty"
-description: "Claro is twice as fast as Kölbi in Costa Rica's cities, yet parks need Kölbi's towers. Roami explains which eSIM carrier fits your trip."
-image: "img/esim/carriers/costa-rica-esim-carrier-guide.jpg"
-date: "2026-07-15T07:00:48+00:00"
+title: "Prepaid Costa Rica eSIM | Kölbi, Claro & Movistar"
+description: "Whether you're visiting Costa Rica for work or holiday, Roami eSIM offers 5G prepaid data on Kölbi, Claro & Movistar networks with instant setup."
+image: "img/esim/carriers/costa-rica-esim-carrier-guide.webp"
+date: "2026-09-26"
 keywords: Costa Rica eSIM carriers, Costa Rica eSIM operators, Claro eSIM, Kölbi eSIM, ICE eSIM, Liberty Costa Rica eSIM, Costa Rica 5G coverage, Costa Rica eSIM rural coverage, eSIM Costa Rica prepaid, best eSIM carrier Costa Rica
 site_name: Roami
 brand_name: Roami
@@ -15,19 +15,15 @@ hero_badge: "Costa Rica's mobile networks, rated for your trip"
 hero_subtitle_main: "Where Costa Rica's networks differ: speed, coverage and the counter rules"
 ---
 
-> **Costa Rica's mobile networks, rated for your trip**
->
-> **Where Costa Rica's networks differ: speed, coverage and the counter rules**
-
 **Bottom line:** On paper, Claro wins Costa Rica eSIM carriers outright — a median download of **84.51 Mbps** against Kölbi's 36.79 and Liberty's 39.46, plus the best gaming score and the fastest network in 8 of the 10 largest cities ([Ookla, H1 2025](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)). In the rainforest, the ranking flips. Kölbi, the state-owned ICE network, runs more towers than anyone else and is the carrier that still has signal on the park roads — which matters if your itinerary includes Manuel Antonio, Monteverde or the Osa Peninsula. Tourists can buy a Kölbi prepaid SIM on arrival with just a passport, but its eSIM route runs through a store visit. If you want data working before you land, a [Costa Rica travel eSIM](/costa-rica-esim/) skips the counter entirely — and [free eSIM trial](/free-esim/) lets you test the network at no cost. This guide gets rebuilt every few months from what Roami's own activation logs and support tickets show about Costa Rica, not just from press releases.
 
-**Quick answer:** Pick Claro for the widest footprint, Kölbi for the lowest cost per gigabyte, and install your eSIM before departure either way. The rest of this guide — Costa Rica speeds, prices and registration rules — fills in the detail behind that split.
+**Quick answer:** Pick Claro for speed in the cities, Kölbi for the widest footprint and the lowest cost per gigabyte, and install your eSIM before departure either way. The rest of this guide — Costa Rica speeds, prices and registration rules — fills in the detail behind that split.
 
 The decision that matters is **which network your Costa Rica eSIM should attach to, given where you are going**. The coverage map is shaped by eco-tourism itself: dense and fast in the Central Valley, thinning exactly where the cloud forests and national parks begin. If you haven't confirmed your phone supports eSIM, start with the [compatibility lookup tool](/compatibility/), then come back for the carrier decision.
 
-## Your trip, your your eSIM carrier
+## Choosing your Costa Rica eSIM carrier
 
-### Claro vs Kölbi: which is better in Costa Rica?
+### The three Costa Rica networks at a glance
 
 Three names cover almost every signal you will meet in Costa Rica: **Kölbi**, the state carrier run by ICE; **Claro**, the América Móvil network; and **Liberty**, which absorbed Movistar's Costa Rican operation in 2021. **SUTEL** licenses and supervises all three, and a fourth name in network reports — Telecable — is a fixed-line ISP worth knowing for apartment stays, not for your eSIM.
 
@@ -51,7 +47,7 @@ Claro's headline number is the strongest in the market: a median download of **8
 - **What goes wrong:** the network is fast where it exists and thin where it does not. Buying Claro for the speed and then driving to Monteverde or Drake Bay is the classic mismatch — Claro's footprint thins before Kölbi's does.
 - **Scenario:** you land at SJO, activate a Claro eSIM and stream your first evening in Escazú without a hiccup. Two days later, on the road south of Tamarindo, you are down to one bar watching the map tile grey out.
 
-### Kölbi: the tower count that decides a jungle road
+### Kölbi: the widest coverage in Costa Rica
 
 Kölbi is the state-owned ICE network, and it wins a different race. It runs the largest footprint in the country, which is why it is the carrier that still has signal on the park access roads and in the rural gaps between beach towns. Ookla's H1 2025 data hands Kölbi the best video experience (**68.31**) and a 36.79 Mbps median download — a figure that reflects where Kölbi's users test: not only in San José, but out where the other two networks have already dropped.
 
@@ -61,7 +57,7 @@ Kölbi is the state-owned ICE network, and it wins a different race. It runs the
 - **What goes wrong:** the eSIM path. Kölbi publishes an eSIM service, but visitor provisioning is unreliable remotely — the practical route is a store visit and a counter transaction, not a QR scan at home.
 - **Scenario:** you are on the Corcovado approach near Drake Bay, your lodge has warned that Kölbi is the only network that reaches out there, and the travel eSIM in your phone is riding Kölbi's towers because your provider built it that way.
 
-### Claro vs Kölbi 5G: which is better in Costa Rica?
+### Liberty: consistency and the first 5G standalone
 
 Liberty — which absorbed Movistar's Costa Rican operation in 2021 — posted the market's best Consistency Score at **86.0%**, the share of samples clearing the 5 Mbps down / 1 Mbps up threshold, and that is the metric that predicts a connection which does not stall halfway through a video call. Liberty also switched on Costa Rica's first 5G Standalone network in mid-2025, built with Ericsson on 700 MHz and 3.5 GHz and aimed first at tourist and commercial hubs in Guanacaste, the Central Pacific and the Northern Zone.
 
@@ -90,7 +86,7 @@ H1 2025 handed Claro the speed crown, Kölbi the video award and Liberty the con
 
 The blanks are as informative as the numbers: nobody publishes a rural or per-park speed, because nobody can measure one consistently. On Ookla's Global Index the national median mobile download stands at **70.96 Mbps**, 63rd worldwide — the country performs well in aggregate even though the per-carrier split is lopsided.
 
-### Cheapest data plans in Costa Rica
+### Carrier picks by trip type
 
 | Your plans | Go-to carrier | What makes it the pick | Watch out for |
 |:---|:---|:---|:---|
@@ -104,7 +100,7 @@ The blanks are as informative as the numbers: nobody publishes a rural or per-pa
 
 ## Where does your eSIM coverage actually fail?
 
-This is the section a generic "best eSIM for Costa Rica" page won't give you, because the answer is regional. Ookla's provincial medians already show the gradient: Heredia Province leads at 51.23 Mbps, San José sits at 50.57, and the numbers slide as you leave the Central Valley — Guanacaste 46.04, Puntarenas 43.79, Limón 42.32. Coverage exists in all seven provinces; reliability is what fades.
+This is the section a generic Costa Rica eSIM page won't give you, because the answer is regional. Ookla's provincial medians already show the gradient: Heredia Province leads at 51.23 Mbps, San José sits at 50.57, and the numbers slide as you leave the Central Valley — Guanacaste 46.04, Puntarenas 43.79, Limón 42.32. Coverage exists in all seven provinces; reliability is what fades.
 
 ### Costa Rica Central Valley coverage: San José and the cordillera
 
@@ -143,7 +139,7 @@ The six parks that anchor most Costa Rica itineraries do not share a coverage pr
 
 That table is this article's whole argument in miniature: the roads to the parks are Kölbi's country, the towns belong to anyone, and the parks belong to no one.
 
-## Costa Rica eSIM coverage: Claro vs Kölbi
+## Coverage on the drives tourists actually take
 
 Most visitors move along a handful of named roads, and the coverage on each one is knowable in advance.
 
@@ -155,11 +151,11 @@ Most visitors move along a handful of named roads, and the coverage on each one 
 
 **Waze, Google Maps and offline preparation.** Google Maps offline areas are the dependable tool here: download the whole country, or at least Nicoya, Osa and the central highlands, on hotel Wi-Fi. Waze is the better live-traffic and addressing tool where you have signal, and its own offline mode is limited by comparison — so treat it as a supplement. This matters most on the Nicoya Peninsula's inland dirt roads, the Osa approach and the Route 32 mountain pass, three places where a phone with no bars still has to tell you which fork to take.
 
-### What size plan suits a Costa Rica itinerary?
+### Two habits for a self-drive Costa Rica trip
 
 A shuttle driver already knows the route and its gaps; a self-drive itinerary does not. Two habits follow. First, activate data before you leave the airport rather than in a beach town — SJO arrivals Wi-Fi is free and there is a Kölbi/ICE kiosk opposite the baggage carousels, so the airport is the most efficient place to sort a line ([Juan Santamaría International Airport](https://www.sjoairport.com/)). Second, keep a power bank in the car: on the Costanera between Parrita and Dominical, and on the Osa approach, your phone is also your map, and running it down to 4% at 4 p.m. is the mistake that turns a two-hour drive into a four-hour one.
 
-## Local SIM vs travel eSIM pricing
+## Can tourists buy a local SIM in Costa Rica?
 
 Yes — with one caveat about how. Kölbi is the friendliest carrier for walk-up visitors, and its official site runs a dedicated ["chip turista" product](https://www.kolbi.cr/) alongside its standard prepaid lineup.
 
@@ -193,9 +189,9 @@ Costa Rica runs on prepaid, and topping up is genuinely easy once you hold a loc
 - **The cash problem:** most of these channels assume colones in hand or a local payment method. A foreign card will not always be accepted, and smaller outlets are cash-only, so budget a cash float for top-ups even if your hotel takes cards.
 - **The rhythm:** prepaid bundles run on fixed validity windows. If you are staying a month, check the active period on the package when you buy rather than discovering it on day 20.
 
-That list is the practical case for a travel eSIM in one place. A prepaid line is cheaper per gigabyte, but every step above — the counter, the passport scan, the cash float, the top-up rhythm — is a task you complete in Spanish, on holiday, holding a phone that is not yet online. A [Roami Costa Rica profile](/costa-rica-esim/) replaces all of it with one QR code before you fly.
+That list is the practical case for a Costa Rica eSIM in one place. A prepaid line is cheaper per gigabyte, but every step above — the counter, the passport scan, the cash float, the top-up rhythm — is a task you complete in Spanish, on holiday, holding a phone that is not yet online. A [Roami Costa Rica profile](/costa-rica-esim/) replaces all of it with one QR code before you fly.
 
-## 5G in Costa Rica: Claro, Kölbi and ICE 5G coverage compared
+## Is there 5G in Costa Rica? Claro, Kölbi and ICE compared
 
 Barely — and this is where old articles mislead. Costa Rica's 5G spectrum auction was delayed for years and finally **finished in January 2025**, when SUTEL awarded national licenses in the 700 MHz, 2.3 GHz, 3.5 GHz and 26 GHz bands to Claro and Liberty, plus regional licenses to five local operators ([Cullen International](https://www.cullen-international.com/news/2025/02/In-the-Americas--Costa-Rica-auctioned-more-than-1000-MHz-for-5G.html)). Liberty launched the country's first 5G standalone network in mid-2025 with Ericsson; Claro is deploying on its newly won spectrum; and Kölbi's 5G remains a pilot program while ICE runs a separate nationwide Open RAN tender ([U.S. Trade Administration country guide](https://www.trade.gov/country-commercial-guides/costa-rica-strategic-and-emerging-technologies)).
 
@@ -221,9 +217,9 @@ The honest summary: **your Costa Rica eSIM will live on 4G LTE**, which is fast,
 | Typical cost | ~USD 10–25 for tourist data bundles; local data averages **USD 1.86/GB** (152nd of 237 markets, [Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) | Single upfront price, no top-up management |
 | Best for | Stays beyond three weeks, or if you need a local number | Trips of one to three weeks, landing connected |
 
-Context for those prices: DataReportal counts 4.76 million internet users (92.6% penetration) and 7.40 million mobile connections entering 2025 ([Digital 2025: Costa Rica](https://datareportal.com/reports/digital-2025-costa-rica)), and Ookla's Global Index put the national median mobile download at 70.96 Mbps, 63rd worldwide ([Speedtest Global Index](https://www.speedtest.net/global-index/costa-rica)). Your eSIM inherits the local networks' speed, not a separate roaming pipeline. Renting for a month? Ask about fixed fiber instead — Ookla named Metrocom the fastest fixed ISP at 310.06 Mbps median down, with Telecable taking the best ISP video score.
+Context for those prices: DataReportal counts 4.76 million internet users (92.6% penetration) and 7.40 million mobile connections entering 2025 ([Digital 2025: Costa Rica](https://datareportal.com/reports/digital-2025-costa-rica)), and Ookla's Global Index put the national median mobile download at 70.96 Mbps, 63rd worldwide ([Speedtest Global Index](https://www.speedtest.net/global-index/costa-rica)). Your Costa Rica eSIM inherits the local networks' speed, not a separate roaming pipeline. Renting for a month? Ask about fixed fiber instead — Ookla named Metrocom the fastest fixed ISP at 310.06 Mbps median down, with Telecable taking the best ISP video score.
 
-### Claro vs Kölbi prices compared
+### Local prepaid vs tourist bundle vs travel eSIM
 
 | Option | What you pay | What you get | The catch |
 |:---|:---|:---|:---|
@@ -242,7 +238,7 @@ APN settings are the last thing to touch and the first setting worth ruling out 
 **When a manual APN is still worth trying:**
 
 - An older handset that does not pick up carrier settings on its own
-- a profile side-loaded with a manual activation code instead of a scanned QR
+- A profile side-loaded with a manual activation code instead of a scanned QR
 - A store-issued prepaid eSIM where automatic configuration did not run
 
 In those cases, ask the counter or your eSIM provider for the value — they will have it — rather than copying one off a forum.
@@ -264,20 +260,20 @@ Install the profile at home on Wi-Fi before you fly — San José arrivals Wi-Fi
 
 When data fails, work the usual suspects in order: roaming toggle off, wrong data line selected, then the network-level fixes in our [activation error troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). One Costa Rica wrinkle: "No signal" deep inside Corcovado, Tortuguero or the high Talamanca is not a settings problem — no profile fixes physics, so move toward the coast road or a town.
 
-### What does data cost in Costa Rica?
+### The six checks before you fly to Costa Rica
 
 Most of the rows below are universal; the two that decide a Costa Rican arrival are the store-registration habit Kölbi uses for its "chip turista" and the offline maps for the parks and the Osa approach.
 
 | # | Check | What "good" looks like |
 |:---|:---|:---|
-| 1 | Phone is not carrier-locked | Carrier Lock in Settings -> General -> About says "No SIM restrictions" |
+| 1 | Phone is not carrier-locked | Carrier Lock in Settings → General → About says "No SIM restrictions" |
 | 2 | Phone supports eSIM | `*#06#` shows an EID, or the [eSIM-capable device list](/compatibility/) confirms your model |
 | 3 | QR code and activation code saved | Screenshot stored on the phone and in cloud storage |
 | 4 | Profile installed before departure | Install on Wi-Fi at home; it connects when you land |
 | 5 | Data line and roaming set | eSIM selected for mobile data, data roaming on for that line only |
 | 6 | Offline maps downloaded | Google Maps offline area for Costa Rica saved, plus your first lodge pinned |
 
-### Is mobile data expensive in Costa Rica?
+### How activation differs by carrier in Costa Rica
 
 The generic install sequence — add eSIM, scan the QR, label the line, set it as the data line, enable data roaming — is in our [step-by-step eSIM activation guide](/faq/how-to-activate-an-esim/). What differs by carrier in Costa Rica:
 
@@ -349,7 +345,7 @@ Kölbi. As the state-owned ICE network it operates the largest tower footprint, 
 
 ### Who has the fastest network in Costa Rica?
 
-On Claro's H1 2025 medians, yes: 84.51 Mbps against Kölbi's 36.79. But the gap is an urban phenomenon — Ookla also found Liberty's consistency ahead of everyone at 86.0%, and Kölbi won the video experience award. In a cloud forest, none of these numbers apply.
+On Claro's H1 2025 medians: 84.51 Mbps against Kölbi's 36.79. But the gap is an urban phenomenon — Ookla also found Liberty's consistency ahead of everyone at 86.0%, and Kölbi won the video experience award. In a cloud forest, none of these numbers apply.
 
 ### Do shops ask for ID to sell SIMs in Costa Rica?
 
@@ -359,11 +355,11 @@ Yes. All three carriers register prepaid SIMs against your passport under the SU
 
 Only in fragments. The spectrum auction concluded in January 2025, Liberty launched the first 5G standalone network mid-2025 and Claro is building out, but coverage is limited to parts of major cities. Your Costa Rica eSIM will spend its life on 4G, which is fast and well distributed.
 
-### What does registering a Costa Rica SIM involve?
+### Will my phone work with a Costa Rica eSIM?
 
 If it's unlocked and eSIM-capable, essentially yes — Costa Rican carriers use common LTE bands (2/4/5/7/12/17) shared across the Americas. China-market iPhone models lack eSIM entirely. Check your exact model with the [eSIM compatibility checker](/compatibility/) before buying.
 
-### APN values for Claro, Kölbi and ICE eSIMs
+### Do you need to enter an APN in Costa Rica?
 
 Almost never. Local carrier SIMs provision automatically during registration, and travel eSIMs carry their own APN in the profile — changing it usually breaks things. If a store-activated SIM shows signal but no data after hours of waiting, ask the counter staff to re-register rather than hand-editing settings.
 
@@ -387,7 +383,7 @@ Per gigabyte, yes — local data averages **USD 1.86/GB**, among the cheaper rat
 
 Only if you must make or take local calls or receive SMS from Costa Rican services. Everything practical — shuttle confirmations, guide messages, lodge check-ins — runs through WhatsApp, which works fine on a data-only eSIM. If you genuinely need a +506 number for a long stay, a bank or a lease, buy a local prepaid line and keep the eSIM for data.
 
-### 5G coverage notes for Costa Rica
+### Will my Costa Rica eSIM get 5G?
 
 Rarely. Liberty's 5G Standalone network and Claro's build-out cover parts of the cities and some tourist corridors, and Kölbi's 5G is still a pilot. Your eSIM will spend almost all of its time on 4G LTE, which is fast and well distributed. Choose your carrier on coverage where you are going, not on a 5G label that may not be there when you arrive.
 
@@ -409,7 +405,7 @@ Rarely. Liberty's 5G Standalone network and Claro's build-out cover parts of the
 
 Figures are third-party measurements, not our own testing; your result will vary by handset, band and how many people share the nearest tower.
 
-## Install a Costa Rica eSIM and land at SJO already connected
+## Get your Costa Rica eSIM ready before you fly
 
 Order at home, scan the QR once, and be riding Costa Rica's strongest local network by the time you clear arrivals — no counter queue, no passport photocopy, nothing billed to your home line. New customers can [sample a free Costa Rica eSIM](/free-esim/) first, or go straight to [choosing a Costa Rica plan](/costa-rica-esim/).
 

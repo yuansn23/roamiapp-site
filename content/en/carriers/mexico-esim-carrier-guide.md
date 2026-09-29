@@ -1,8 +1,8 @@
 ---
-title: "Choosing Mexico eSIM Carrier: Telcel, AT&T, Movistar"
-description: "Planning a Mexico trip? Roami rates Telcel and AT&T for your Mexico eSIM on speed, prepaid SIM rules and APN settings, so you pick the right carrier."
-image: "img/esim/carriers/mexico-esim-carrier-guide.jpg"
-date: "2026-08-20T23:54:57+00:00"
+title: "Travel Mexico eSIM | Telcel, AT&T & Movistar Coverage"
+description: "Get online in Mexico with Roami eSIM. Choose prepaid data on Telcel, AT&T & Movistar networks, with flexible plans and no roaming fees."
+image: "img/esim/carriers/mexico-esim-carrier-guide.webp"
+date: "2026-09-22"
 keywords: Mexico eSIM carriers, Telcel eSIM, AT&T Mexico eSIM, Movistar eSIM, Mexico 5G coverage, Mexico eSIM APN, eSIM Mexico prepaid, best eSIM carrier Mexico, Mexico travel eSIM, Telcel market share
 site_name: Roami
 brand_name: Roami
@@ -15,11 +15,7 @@ hero_badge: "Mexico eSIM carriers: the honest ranking"
 hero_subtitle_main: "The 2026 carrier comparison, built on independent speed data"
 ---
 
-> **Mexico eSIM carriers: the honest ranking**
->
-> **The 2026 carrier comparison, built on independent speed data**
-
-Mexico's three national networks pull apart sharply once you leave the cities. On Ookla's 2H 2025 Mexico report, **Telcel** was named both Best Mobile Network overall and Best 5G Network, with a consistency score of **90.5%** and a Speed Score of **64.11**. **AT&T Mexico** and **Movistar** sit behind on every measured metric, and a fourth name in the data, **ALTAN Redes**, is the wholesale network that smaller brands ride on rather than a line you buy yourself. What settles the choice is your route, not the brand. If Mexico's carriers oversell in their marketing, we call it out — see the registration section for the fine print that matters.
+Mexico's three national networks pull apart sharply once you leave the cities. On Ookla's 2H 2025 Mexico report, **Telcel** was named both Best Mobile Network overall and Best 5G Network, with a consistency score of **90.5%** and a Speed Score of **64.11**. **AT&T Mexico** and **Movistar** sit behind on every measured metric, and a fourth name in the data, **ALTAN Redes**, is the wholesale network that smaller brands ride on rather than a line you buy yourself. What settles the choice of a Mexico eSIM is your route, not the brand. If Mexico's carriers oversell in their marketing, we call it out — see the registration section for the fine print that matters.
 
 **Quick answer:** Telcel wins the coverage argument in Mexico, Movistar wins on cheap data — the tables below settle the details. You can also try the Mexico network setup through Roami's [free network test](/free-esim/) before paying anything.
 
@@ -31,7 +27,7 @@ If the basics are still open questions — does my phone support eSIM, and what 
 
 This first section maps the carriers you can actually buy a prepaid eSIM from as a visitor, and it shows the direct-versus-travel decision in one view. Mexico adds a twist that Canada and Japan do not: every prepaid line, eSIM included, must be linked to an official ID before it works.
 
-### Telcel vs AT&T: which is better in Mexico?
+### Telcel, AT&T and Movistar side by side
 
 | | Telcel | AT&T Mexico | Movistar |
 |:---|:---|:---|:---|
@@ -51,7 +47,7 @@ Mexico's fourth tier is where visitors find the cheapest data, but it rides on s
 | AT&T Go | AT&T Mexico | App-only prepaid eSIM, no store needed | Border travelers and anyone who wants US and Canada roaming |
 | Movistar prepaid eSIM | Movistar | QR after passport or local ID linking | City stays where Movistar is cheap |
 | Wim by AT&T | AT&T Mexico | 100% eSIM digital brand | App-first buyers who want bundled lifestyle perks |
-| Brands on ALTRAN Redes | Wholesale Red Compartida network | eSIM where offered | Deep rural spots where only the shared network reaches |
+| Brands on ALTAN Redes | Wholesale Red Compartida network | eSIM where offered | Deep rural spots where only the shared network reaches |
 
 Two cautions. First, a prepaid plan bought from any of these brands is tied to one network, so you get AT&T's towers on AT&T Go and nobody else's, which matters the moment you leave the city. Second, the identity-registration requirement applies to all of them, so there is no anonymous travel SIM in Mexico anymore.
 
@@ -74,23 +70,23 @@ On a typical two-week trip the arithmetic is one-sided. A Mexican prepaid plan i
 
 Three things decide whether your phone works on a Mexican carrier: its bands, its lock status, and a short list of device-specific quirks. All three are covered below, because a locked or band-limited handset is the most common reason a Mexico eSIM install fails.
 
-### Is my iPhone compatible in Mexico?
+### Which bands do Mexico networks use?
 
 Mexican carriers build 4G on bands 2, 4, 5 and 7, and 5G on n41 and n78. Most international handsets cover those, but a few regional variants miss band 5 at 850 MHz, which is the low-band layer that carries signal into buildings and across the Oaxaca sierra. Phones that miss it still work in the big cities and fall back to band 4 and band 7 elsewhere.
 
 There is no homework on frequency bands required here. Model number beats marketing name every time, so match yours against [phone compatibility list](/compatibility/). Before your flight, [what happens during eSIM activation](/faq/what-is-esim-activation-and-how-does-it-work/) explains what the phone is actually doing when a profile arrives.
 
-### Is your phone compatible with Mexico networks?
+### Does Mexico require carriers to unlock phones?
 
-A locked phone is the most common reason a Mexico eSIM install simply fails, and Mexico has unusually clear rules here. Under guidelines from the IFT, the Federal Telecommunications Institute, carriers must unlock a device at no charge. Prepaid handsets, such as a phone bought with an Amigo Kit, are sold already unlocked. Postpaid or financed devices are unlocked once the contract ends or the device is paid off, and the carrier must deliver the unlock code within 24 hours of the request.
+A locked phone is the first failure to rule out, and Mexico has unusually clear rules here. Under guidelines from the IFT, the Federal Telecommunications Institute, carriers must unlock a device at no charge. Prepaid handsets, such as a phone bought with an Amigo Kit, are sold already unlocked. Postpaid or financed devices are unlocked once the contract ends or the device is paid off, and the carrier must deliver the unlock code within 24 hours of the request.
 
-**Look at:** Settings -> General -> About -> Carrier Lock (iPhone). If that field says "No SIM restrictions," the phone will accept any profile. If the phone reports "SIM locked," no outside eSIM will go in until that is resolved.
+**Look at:** Settings → General → About → Carrier Lock (iPhone). If that field says "No SIM restrictions," the phone will accept any profile. If the phone reports "SIM locked," no outside eSIM will go in until that is resolved.
 
 **Fix it:** request the unlock from the operator that sold the handset; IFT rules oblige them to provide it. Devices that are paid off are normally cleared within a day, and there is no fee. Only then try installing your eSIM.
 
 Phones sourced from US or European operators may still be locked, so verify before departure. Full detail: [IFT — unlocking your device](https://www.ift.org.mx/).
 
-### Mexico: IMEI and EID screening
+### Which device quirks affect a Mexico eSIM?
 
 | Device | Symptom | What to do |
 |:---|:---|:---|
@@ -101,7 +97,7 @@ Phones sourced from US or European operators may still be locked, so verify befo
 
 What remains is phone-specific behaviour, not something Telcel or AT&T controls. Ten seconds with the [eSIM device checker](/compatibility/) is cheaper than a plan you cannot use in Oaxaca.
 
-## The ways to actually obtain your eSIM
+## How to get a Mexico eSIM
 
 Four routes exist, and they differ more in paperwork than in price: Telcel through Amigo prepaid, AT&T Mexico through AT&T Go, Movistar by QR code, and a travel eSIM that rides all three. Each route, step by step.
 
@@ -117,9 +113,9 @@ Telcel is Mexico's dominant carrier, so its eSIM is the one most visitors ask ab
 4. Complete the prepaid identity registration so the line goes live.
 5. Make your first top-up; the line stays active for up to 60 days without a recharge.
 
-Telcel's own prepaid tiers are the cheapest way to hold a Mexican line without a contract, and the cost of the line itself is low or symbolic. What you actually pay for are the recharges. Telcel notes that the Amigo eSIM is designed for someone using a Mexican line continuously, which means it is best once you pass the pure tourist window and want a local number. If you only need data for a week, a travel eSIM is less friction.
+Telcel's own prepaid tiers are the cheapest way to hold a Mexican line without a contract, and the cost of the line itself is low or symbolic. What you actually pay for are the recharges. Telcel notes that the Amigo eSIM is designed for someone using a Mexican line continuously, which means it is best once you pass the pure tourist window and want a local number. If you only need data for a week, a travel eSIM is less friction; check its hotspot terms if you plan to tether a laptop.
 
-### Mexico: local SIM against travel eSIM
+### The AT&T Go eSIM, step by step
 
 AT&T Mexico is the one national carrier that sells a genuinely app-only prepaid eSIM, and that makes it the easiest for a visitor who never wants to visit a store. Its AT&T Go product is available only through eSIM technology on compatible smartphones, and it is bought and activated entirely inside the Mi AT&T app.
 
@@ -139,7 +135,7 @@ AT&T Mexico is the one national carrier that sells a genuinely app-only prepaid 
 
 All three AT&T Go packages include unlimited calls and SMS in Mexico and the United States, which is the carrier's real differentiator: a single prepaid eSIM that works across the border. If your trip touches both countries, that beats a Mexico-only line that dies at the crossing.
 
-### Mexico eSIM plans at a glance
+### The Movistar prepaid eSIM, step by step
 
 Movistar is Mexico's third national carrier, and it sells a prepaid eSIM, but the path has one quirk worth knowing before you fly. By official provision, you must link your line to your INE, CURP or passport, and the eSIM remains inactive until that linking is complete. The profile must also be installed while you are in Mexico under Movistar's own native coverage, not the extended coverage it buys from Telcel.
 
@@ -153,7 +149,7 @@ Movistar is Mexico's third national carrier, and it sells a prepaid eSIM, but th
 
 Movistar prepaid recharges run from 100 MXN upward, and the data allowance per recharge changes with promotions, so confirm the exact gigabytes in the app on the day you buy. The carrier is cheapest in cities and thins out in rural areas, which is exactly where Telcel pulls ahead.
 
-### Telcel eSIM plans for visitors
+### What to prepare before buying a Mexico eSIM
 
 - **Passport** — required for every carrier eSIM as a foreigner; locals use INE or CURP
 - **IMEI** — dial `*#06#`
@@ -170,9 +166,9 @@ Two factors shape the choice here: how each network performs on your specific ro
 
 ### Telcel vs AT&T: which Mexico carrier is faster?
 
-All figures below come from Ookla's Speedtest Connectivity Report for Mexico, collection period July to December 2025, and are national-level measurements. The fourth row, ALTRAN Redes, is the wholesale Red Compartida network that smaller brands use.
+All figures below come from Ookla's Speedtest Connectivity Report for Mexico, collection period July to December 2025, and are national-level measurements. The fourth row, ALTAN Redes, is the wholesale Red Compartida network that smaller brands use.
 
-| Metric | Telcel | AT&T Mexico | Movistar | ALTRAN Redes |
+| Metric | Telcel | AT&T Mexico | Movistar | ALTAN Redes |
 |:---|:---|:---|:---|:---|
 | Speedtest Connectivity Score | **73.1** (highest) | 61.41 | 63.21 | 52.78 |
 | Speed Score | **64.11** (fastest) | 39.6 | 43.35 | 28.43 |
@@ -212,7 +208,7 @@ Mexico's coverage follows population: dense in the metro areas, thinning fast al
 
 Planning a route that leaves Mexico? Compare [eSIM for the United States](/united-states-esim/), [Guatemala travel eSIM](/guatemala-esim/), or a [North America eSIM](/north-america-esim/) if your itinerary crosses borders more than once.
 
-The trick underneath all of this is leaving network selection on automatic. A profile that can move between Telcel, AT&T and Movistar covers the regional gaps that any single-carrier plan cannot.
+The trick underneath all of this is leaving network selection on automatic. A Mexico eSIM that can move between Telcel, AT&T and Movistar covers the regional gaps that any single-carrier plan cannot.
 
 ## The APN Values You Need
 
@@ -230,14 +226,14 @@ You will only need these if you bought a SIM or eSIM **directly from a Mexican c
 
 Leave username and password empty. Some Telcel guides list `webgprs` and `webgprs2002` for older accounts; if automatic configuration did not run, try those only when the blank values fail. If a carrier requires a value, the activation instructions that came with your profile will state it.
 
-### Setting the APN on Mexico networks
+### When to set a Mexico APN manually
 
 - A phone too old to pull carrier settings automatically
 - A profile installed with a manual activation code instead of a QR scan
 - A carrier-issued prepaid eSIM where automatic configuration did not run
 - Almost never on a travel eSIM, which is the point of a managed profile
 
-### Manual Mexico APN entry: when and why
+### How to enter a Mexico APN manually
 
 - **iPhone:** open Settings → Cellular → tap the eSIM line → Cellular Data Network → key in the APN
 - **Android:** Settings → Connections → Mobile Networks → Access Point Names → add a new APN
@@ -273,10 +269,10 @@ If you would rather follow screenshots than a summary, the [step-by-step eSIM ac
 
 ### Four moves to rescue a Mexico eSIM
 
-General activation errors, a profile that will not download, a scan that fails, an eSIM that installs but never registers, are covered in our [eSIM activation troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). Below are the four patterns that show up specifically in Mexico.
+General activation errors, a profile that will not download, a scan that fails, and an eSIM that installs but never registers are covered in our [eSIM activation troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). Below are the four patterns that show up specifically in Mexico.
 
 **A. The eSIM will not install**
-1. Confirm the phone itself is unlocked -- in About, Carrier Lock must say "No SIM restrictions"
+1. Confirm the phone itself is unlocked — in About, Carrier Lock must say "No SIM restrictions"
 2. Treat the QR code as one-shot: clean, unscanned, and ready
 3. Ask the carrier whether the line has cleared its identity registration yet
 
@@ -295,7 +291,7 @@ General activation errors, a profile that will not download, a scan that fails, 
 2. Switch to Telcel, which has the widest low-band reach into the sierra and rural interior
 3. Download offline maps before any long highway or trailhead drive
 
-### Mexico eSIM rapid answers
+### What to gather before contacting Mexico eSIM support
 
 | Needed info | Where to find it |
 |:---|:---|
@@ -335,19 +331,19 @@ Yes, for any carrier eSIM bought inside Mexico. Mexico's 2026 mobile registry re
 
 Ask the carrier it is locked to. Under IFT guidelines, carriers must unlock a device at no charge; prepaid handsets such as an Amigo Kit are sold already unlocked, and postpaid or financed devices are unlocked once the contract ends or the phone is paid off, with the code delivered within 24 hours. Paid-off devices are usually cleared in a day. Check status at Settings → General → About → Carrier Lock.
 
-### Mexico eSIM trouble devices
+### Which phones work with a Mexico eSIM?
 
-It needs to be unlocked and eSIM-capable, and it helps if it supports band 5 at 850 MHz for low-band reach. The [compatibility page](/compatibility/) settles EID support and the band question in one place. Unclear on the install itself? [how an eSIM profile installs](/faq/what-is-esim-activation-and-how-does-it-work/) takes you through it.
+A Mexico eSIM needs an unlocked, eSIM-capable phone, and it helps if it supports band 5 at 850 MHz for low-band reach. The [compatibility page](/compatibility/) settles EID support and the band question in one place. Unclear on the install itself? [how an eSIM profile installs](/faq/what-is-esim-activation-and-how-does-it-work/) takes you through it.
 
 ### Activating on Telcel, AT&T and Movistar
 
 Work the four Mexico-specific patterns above in order, lock status, network selection, APN and data line, then profile reinstall, and if it still fails the wider error catalogue in [eSIM troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. Have your EID, order number, and your identity-registration confirmation ready before you contact support.
 
-### The Mexico carrier lineup
+### Can I use my home SIM and a Mexico eSIM together?
 
 Yes, and it is a sensible setup. Leave the home number on its plastic SIM to keep taking calls and codes, and let the eSIM carry the data. Under Mobile Data in Settings, pick the eSIM and reserve the home line for calls. Two warnings apply: kill roaming on the home card to stop background charges, and note that data-only profiles cannot take SMS, so bank codes keep arriving on your usual number.
 
-### Fixing a failed Mexico eSIM activation
+### Why will a Movistar eSIM not activate abroad?
 
 By official provision, Movistar requires the eSIM to be installed under its own native coverage, not the extended coverage it buys from Telcel, and the line stays inactive until you link your passport or local ID. That linking and the native-coverage check are why the profile will not complete abroad. Plan to install it after you land, on Mexican Wi-Fi, rather than before you fly.
 
@@ -355,7 +351,7 @@ By official provision, Movistar requires the eSIM to be installed under its own 
 
 Think of it as a chip built into the handset that stores carrier profiles, replacing the removable card entirely. The flow is simple: the operator delivers a profile, the phone files it on that internal chip, and the line behaves normally. Curious about SM-DP+ servers, or why that code works exactly once? [eSIM activation mechanics](/faq/what-is-esim-activation-and-how-does-it-work/) explains both.
 
-### Which Mexico carrier matches your itinerary?
+### Which carrier covers a US–Mexico cross-border trip?
 
 AT&T Mexico, because its AT&T Go prepaid eSIM includes unlimited calls and SMS in Mexico and the United States on one plan, and the carrier's North America roaming is its clearest advantage over Telcel and Movistar. If your trip is longer or you want to avoid a Mexican registration entirely, a [North America eSIM](/north-america-esim/) that covers both sides of the border is the cleaner buy.
 
@@ -363,7 +359,7 @@ More questions? [See the complete FAQ →](/faq/)
 
 ## Reference sources for this Mexico eSIM guide
 
-- Every carrier-level number is taken from the **Ookla Speedtest Connectivity Report for Mexico, July to December 2025** — [the per-carrier report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025) documents Telcel's 73.1 Connectivity Score, 64.11 Speed Score and 90.5% Consistency, plus the AT&T, Movistar and ALTRAN Redes figures.
+- Every carrier-level number is taken from the **Ookla Speedtest Connectivity Report for Mexico, July to December 2025** — [the per-carrier report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025) documents Telcel's 73.1 Connectivity Score, 64.11 Speed Score and 90.5% Consistency, plus the AT&T, Movistar and ALTAN Redes figures.
 - The national median mobile download of 46.39 Mbps for August 2026 and the global rank come from the **Ookla Speedtest Global Index** — [the Mexico entry](https://www.speedtest.net/global-index/mexico), refreshed monthly.
 - Device-unlocking rules and the identity-registration framework are set out by the **Instituto Federal de Telecomunicaciones (IFT)** — [the national regulator](https://www.ift.org.mx/).
 - The app-only eSIM packages and their MXN prices are published on **AT&T Mexico** — [the AT&T Go prepaid eSIM page](https://www.att.com.mx/planes/prepago/att-go).

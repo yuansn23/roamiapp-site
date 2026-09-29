@@ -1,8 +1,8 @@
 ---
-title: "Pick the Right India eSIM Carrier: Jio, Airtel or Vi"
-description: "Roami compares India eSIM carriers Jio, Airtel and Vi on real speeds, prepaid KYC rules and APN setup, then picks the best for your route."
-image: "img/esim/carriers/india-esim-carrier-guide.jpg"
-date: "2026-08-03T12:43:56+00:00"
+title: "Unlimited India eSIM | Jio, Airtel & Vi Coverage"
+description: "Need internet in India? Roami eSIM gives you prepaid 5G data on Jio, Airtel & Vi networks, with flexible plans and instant activation online."
+image: "img/esim/carriers/india-esim-carrier-guide.webp"
+date: "2026-09-24"
 keywords: India eSIM carriers, India eSIM operators, Jio eSIM, Airtel eSIM, Vi eSIM, India 5G coverage, India eSIM APN, eSIM India prepaid, best eSIM carrier India, India travel eSIM
 site_name: Roami
 brand_name: Roami
@@ -15,15 +15,11 @@ hero_badge: "Jio, Airtel or Vi? The India choice"
 hero_subtitle_main: "Jio, Airtel and Vi put to the test"
 ---
 
-> **Jio, Airtel or Vi? The India choice**
->
-> **Jio, Airtel and Vi put to the test**
-
-Choosing an India eSIM means matching the network to your states: three private operators and one state-run giant split the map, and this guide shows who wins where. India stacks four networks — three private and one state-run — and your itinerary decides between them. On Ookla's 2H 2024 India report, Jio was the fastest mobile provider with a median 5G download of 258.54 Mbps, Airtel led video and 5G gaming experience, and Vi trailed on raw speed. Match the network to the states you are actually travelling, not to the adverts. Installed a travel eSIM before? Skim straight to the India carrier comparison — the activation section is written for absolute first-timers.
+Choosing an India eSIM means matching the network to your itinerary: three private operators and one state-run giant split the map, and this guide shows who wins where. On Ookla's 2H 2024 India report, Jio was the fastest mobile provider with a median 5G download of 258.54 Mbps, Airtel led video and 5G gaming experience, and Vi trailed on raw speed. Match the network to the states you are actually travelling through, not to the adverts. Installed a travel eSIM before? Skim straight to the India carrier comparison — the activation section is written for absolute first-timers.
 
 **Quick answer:** Jio if you are moving around India, Airtel if you are based in one city. That split holds up across the speed, price and registration details below; the [compatibility page](/compatibility/) handles the handset question first.
 
-First question worth settling: can your phone even take an eSIM?The [eSIM compatibility list](/compatibility/) settles that in under a minute, and the explainer on [how eSIM activation works](/faq/what-is-esim-activation-and-how-does-it-work/) covers what happens when a profile downloads. Everything past this point is about the networks.
+First question worth settling: can your phone even take an eSIM? The [eSIM compatibility list](/compatibility/) settles that in under a minute, and the explainer on [how eSIM activation works](/faq/what-is-esim-activation-and-how-does-it-work/) covers what happens when a profile downloads. Everything past this point is about the networks.
 
 **Bottom line:** Staying in Mumbai, Delhi or Bengaluru? Jio is the fastest network in the country and the only one running true standalone 5G. Streaming a lot of video or gaming on the move? Airtel wins on video and 5G gaming scores. Heading into Ladakh, the Rajasthan desert or the north-east? Jio reaches farther, but no single carrier covers the high passes. Want to skip the passport queue and the activation wait? [test at no charge](/free-esim/) tests the networks at no cost, and **WEB20** trims 20% off [India prepaid eSIM plans](/india-esim/).
 
@@ -55,7 +51,7 @@ India has effectively four mobile networks, and the fourth is the one most trave
 
 Two cautions. First, BSNL is government owned and leans on the state for rural and border coverage, but its speeds and consistency lag far behind the private trio — Ookla's consistency score for BSNL sits at 40.7 against 83.7 for Jio. Second, a locally issued eSIM is tied to one carrier for its whole life, so the moment you leave that network's strong zone you are on your own.
 
-### Can you buy an India eSIM from Jio?
+### Direct from an Indian carrier, or a travel eSIM?
 
 | | Direct from an Indian carrier | Travel eSIM on an Indian network |
 |:---|:---|:---|
@@ -74,11 +70,11 @@ The economics are unusual in India because local data is astonishingly cheap, so
 
 Three things decide whether your phone works on an Indian carrier: its bands, its lock status, and a short list of device-specific quirks. All three are covered below.
 
-### Can older handsets use a India eSIM?
+### Which bands do Indian carriers use?
 
 Indian carriers build 4G and 5G on bands that most modern global handsets already support, so the band anxiety of a decade ago has largely gone away. The bands in active use are 4G LTE bands 1, 3, 5, 8, 28, 40 and 41, and 5G bands n28, n78 and limited n258. If your phone supports band 41 and 5G band n78 you are well covered, and almost every flagship sold in the last four or five years does.
 
-There is no need to commit band charts to memory. The reliable move is to check your exact model, the model number not the marketing name, against [device compatibility checker](/compatibility/). Curious what happens under the hood when the profile lands? [what eSIM activation is and how it works](/faq/what-is-esim-activation-and-how-does-it-work/) walks through it.
+There is no need to commit band charts to memory. The reliable move is to check your exact model, the model number not the marketing name, against the [device compatibility checker](/compatibility/). Curious what happens under the hood when the profile lands? [what eSIM activation is and how it works](/faq/what-is-esim-activation-and-how-does-it-work/) walks through it.
 
 ### Which phones fail India's eSIM checks?
 
@@ -90,7 +86,7 @@ A locked phone is the most common reason an India eSIM install simply fails, and
 
 If you bought a used phone, or a phone on a contract, assume it may be locked and check before you board. A local eSIM cannot override a hardware lock.
 
-### IMEI and EID checks for a India eSIM
+### Device quirks that block an India eSIM
 
 | Device | Symptom | What to do |
 |:---|:---|:---|
@@ -101,11 +97,11 @@ If you bought a used phone, or a phone on a contract, assume it may be locked an
 
 Everything after this step depends on the phone in your hand, not on Jio or Airtel. A two-minute stop at the [eSIM compatibility tool](/compatibility/) beats discovering the problem at a Delhi airport counter.
 
-## Prices, head to head
+## India eSIM prices compared
 
 Four routes exist, and they differ more in paperwork than in price: Jio and Airtel at the airport counters, Vi in the cities, and BSNL only where the private networks fade. Each route, step by step.
 
-### Where travelers buy India eSIMs
+### Buying a Jio eSIM as a visitor
 
 Jio is India's largest operator and the only one running a true standalone 5G core that does not lean on 4G. International visitors cannot buy a Jio eSIM online before arrival, because Jio's own app activation assumes you already hold an active Indian number for verification. The practical path is in person.
 
@@ -118,7 +114,7 @@ Jio is India's largest operator and the only one running a true standalone 5G co
 
 Jio's prepaid prices are among the lowest in the world, which is why budget travellers default to it, but remember the activation delay described below applies to everyone who is not a resident.
 
-### Travel eSIM or local SIM in India?
+### Buying an Airtel eSIM at the airport
 
 Airtel is the operator most travellers meet first, because its desks sit in the arrivals halls of Delhi, Mumbai, Bengaluru, Chennai and Hyderabad. Airtel's network is the one Ookla rated best for video streaming and 5G gaming, and its English-speaking airport staff handle foreign passports every day.
 
@@ -131,7 +127,7 @@ Airtel is the operator most travellers meet first, because its desks sit in the 
 
 Airtel's prepaid tourist packs at the airport cost a little more than the resident prices on its website, and the counter markup is the price you pay for skipping the city queue. Either Airtel or Jio will serve a first-time visitor well, and if only one desk is staffed when you land, take it.
 
-### Does Vi sell a prepaid eSIM that tourists can use
+### Does Vi sell a prepaid eSIM that tourists can use?
 
 Vi, the Vodafone Idea brand, does sell prepaid eSIMs, but its footprint is the weakest of the three private carriers. Vi works fine in the big metros and a few tourist circuits, and its prices match Jio and Airtel, yet its rural and highway coverage is noticeably thinner, so it is the safe choice only if your trip stays inside major cities.
 
@@ -153,7 +149,7 @@ Prices change often, so treat the rows below as indicative tiers drawn from each
 
 These rupee prices are why a local line is unbeatable on price, but remember the activation wait and the passport queue that come with them. The travel route trades that saving for instant delivery and no paperwork.
 
-### eSIM plan prices across India
+### Documents for buying an India SIM at the counter
 
 | # | Document | Why it matters |
 |:---|:---|:---|
@@ -237,7 +233,7 @@ You will only need these if you bought a SIM or eSIM directly from an Indian car
 
 Leave username and password empty. Should an operator ask for anything extra, the instructions that arrive with the profile will say so.
 
-### APN table for India carriers
+### When manual APN entry is actually needed
 
 - An older device that skips automatic carrier-settings pickup
 - A profile installed using a manual activation code, not a QR scan
@@ -259,7 +255,7 @@ This section, taken in one pass, moves you from a clean install to working data 
 
 | # | Check | What good looks like |
 |:---|:---|:---|
-| 1 | Phone is not carrier locked | No SIM restrictions listed in About -> Carrier Lock |
+| 1 | Phone is not carrier locked | No SIM restrictions listed in About → Carrier Lock |
 | 2 | Phone supports eSIM | `*#06#` shows an EID, or the compatibility checker confirms your model |
 | 3 | QR code and activation code saved | Screenshot stored on the phone and in cloud storage |
 | 4 | Documents ready for KYC | Passport, visa, photo and hotel address in hand |
@@ -267,9 +263,9 @@ This section, taken in one pass, moves you from a clean install to working data 
 
 Do the install only after the carrier's verification has cleared, because an Indian eSIM issued locally will not connect until the line is live. Airport Wi-Fi at Delhi and Mumbai is congested exactly when you need it, so plan on hotel Wi-Fi for the wait.
 
-### Which India carrier should you pick: Jio vs Airtel?
+### How activation differs on Jio, Airtel and Vi
 
-Our [the activation how-to](/faq/how-to-activate-an-esim/) covers the whole sequence, including the settings most people miss. What differs by carrier:
+See [the activation how-to](/faq/how-to-activate-an-esim/) for the whole sequence, including the settings most people miss. What differs by carrier:
 
 - **Jio:** eSIM issued after in-person passport KYC; you may need to dial 1977 to finish tele-verification on a local line
 - **Airtel:** airport and store desks issue the QR after KYC; tele-verification call to 59059 often completes activation
@@ -279,7 +275,7 @@ Our [the activation how-to](/faq/how-to-activate-an-esim/) covers the whole sequ
 
 The detail that surprises every first-time visitor is the wait. Residents clear identity in minutes through Aadhaar; a foreign passport goes through manual review, so activation commonly takes two to four hours at a daytime airport counter and up to twenty-four hours, sometimes longer, at a city store or late at night.
 
-### A India eSIM’s four recovery steps
+### Four recovery steps for an India eSIM
 
 For the wider failure catalogue, from downloads that stall to profiles that install but never register, use our [eSIM troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). Four patterns come up again and again in India — the list below covers them.
 
@@ -321,11 +317,11 @@ For the wider failure catalogue, from downloads that stall to profiles that inst
 
 ## Frequently asked India eSIM questions
 
-### Jio eSIM plans for visitors
+### Can you buy a Jio or Airtel eSIM online before you land?
 
 No, and this is the trap most guides skip. Jio and Airtel issue eSIMs to new foreign customers only after an in-person passport check at an airport counter or a store, because their apps assume you already hold an active Indian number for verification. The only way to land connected is a travel eSIM that rides on their networks without local KYC, or to do the counter visit and wait out the activation delay.
 
-### Activating a India eSIM, step by step
+### How long does India eSIM activation take?
 
 India verifies every new connection before it goes live, and residents do that instantly through Aadhaar eKYC. A foreign passport holder has no Aadhaar, so the carrier runs a manual document review instead, which is why activation usually takes two to four hours at a daytime airport desk and up to a full day at a city store. Land late at night and you may wait until morning.
 
@@ -339,9 +335,9 @@ Jio, on the evidence. Ookla gave Jio the highest Coverage Score at 65.66 against
 
 ### Jio vs Airtel 5G: which is better in India?
 
-Yes. Jio is the only major Indian operator that built a standalone 5G core that does not depend on 4G, which is what lets it quote the lowest latency and the highest 5G speeds in Ookla's data. Airtel runs 5G in non-standalone mode on top of its 4G core, which is faster to deploy but not the same architecture.
+Jio is the only major Indian operator that built a standalone 5G core that does not depend on 4G, which is what lets it quote the lowest latency and the highest 5G speeds in Ookla's data. Airtel runs 5G in non-standalone mode on top of its 4G core, which is faster to deploy but not the same architecture.
 
-### India eSIM abroad: what works
+### Does my India SIM work in Ladakh and Jammu and Kashmir?
 
 Partly. Inside Ladakh and the rest of Jammu and Kashmir, a prepaid SIM bought outside the region stops working at the border under Department of Telecommunications security rules, so you need either a postpaid line or a local J&K tourist SIM bought inside Srinagar or Jammu. On the high passes themselves, expect long stretches with no signal on any carrier, so download offline maps first.
 
@@ -353,11 +349,11 @@ Because India runs on one-time passwords sent to a +91 number for everything fro
 
 Direct means one network, carrier-issued provisioning, a passport queue and an activation wait, but it gives you a real Indian number for OTPs and the cheapest per-gigabyte data on earth. A travel eSIM means instant delivery, no paperwork, automatic switching between Jio and Airtel, and a fixed upfront price. Short trip, or you only need maps and messaging: travel eSIM. Staying a month, or you must pay with UPI: local line.
 
-### Which devices misbehave in India
+### What does your phone need for an India eSIM?
 
 Two requirements matter: the phone must be unlocked and eSIM-ready, and ideally it should cover the bands Jio and Airtel use. Check both in one pass with the [compatibility list](/compatibility/), which covers the band question for Indian 4G and 5G. If the install step is the unclear part, [how eSIM installation works](/faq/what-is-esim-activation-and-how-does-it-work/) explains it.
 
-### Activating on Jio, Airtel and Vi
+### What if your India eSIM still will not connect?
 
 Work the four India-specific patterns above in order, lock status, network selection, APN and data line, then profile reinstall, and if it still fails the wider error catalogue in [activation troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. Before writing to support, line up the EID, the order number and a screenshot of the error.
 

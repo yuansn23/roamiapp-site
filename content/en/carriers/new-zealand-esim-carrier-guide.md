@@ -1,8 +1,8 @@
 ---
-title: "New Zealand eSIM Carriers: One NZ, Spark, 2degrees"
-description: "New Zealand eSIM carriers: Roami weighs One NZ and Spark on speed, prepaid rules and APN settings for travellers on the road."
-image: "img/esim/carriers/new-zealand-esim-carrier-guide.jpg"
-date: "2026-08-27T23:25:22+00:00"
+title: "Prepaid New Zealand eSIM | Spark, One NZ & 2degrees"
+description: "Get online in New Zealand with Roami eSIM. Choose prepaid data on Spark, One NZ & 2degrees networks, with flexible plans and no roaming fees."
+image: "img/esim/carriers/new-zealand-esim-carrier-guide.webp"
+date: "2026-09-21"
 keywords: new zealand esim carriers, one nz esim, spark esim, 2degrees esim, skinny esim, new zealand 5g coverage, new zealand esim apn, esim new zealand prepaid, best esim carrier new zealand, new zealand travel esim
 site_name: Roami
 brand_name: Roami
@@ -15,13 +15,9 @@ hero_badge: "Inside New Zealand's mobile networks"
 hero_subtitle_main: "New Zealand's carriers on paper versus in the field"
 ---
 
-> **Inside New Zealand's mobile networks**
->
-> **New Zealand's carriers on paper versus in the field**
+Choosing a New Zealand eSIM means picking between three networks that win different awards — this guide matches each one to the drives you have planned. On Ookla's H1 2025 New Zealand report, One NZ was named Best Mobile Network, while Spark was the fastest 5G network and 2degrees led on consistency and fixed broadband. Where you drive decides which of them deserves your data. What does Roami's support inbox see most for New Zealand? The same failures the coverage and registration sections below spell out.
 
-Choosing a New Zealand eSIM means picking between three networks that win different awards — this guide matches each one to the drives you have planned. New Zealand's three networks win different awards, which is exactly why the choice matters. On Ookla's H1 2025 New Zealand report, One NZ was named Best Mobile Network, while Spark was the fastest 5G network and 2degrees led on consistency and fixed broadband. Where you drive decides which of them deserves your data. What does Roami's support inbox see most for New zealand? The same failures the coverage and registration sections below spell out.
-
-**Quick answer:** one nz esim if you are moving around New Zealand, spark esim if you base yourself in one city. Speeds, prices and the registration fine print below all support that split — start at the [compatibility page](/compatibility/) to rule out handset problems.
+**Quick answer:** One NZ eSIM if you are moving around New Zealand, Spark eSIM if you base yourself in one city. Speeds, prices and the registration fine print below all support that split — start at the [compatibility page](/compatibility/) to rule out handset problems.
 
 One ten-second prerequisite: confirm your handset is eSIM-capable via the [eSIM compatibility page](/compatibility/), and skim [how eSIM activation works](/faq/what-is-esim-activation-and-how-does-it-work/) if the process is new to you.
 
@@ -55,7 +51,7 @@ New Zealand's only genuine budget sub-brand is Skinny, which runs on Spark's net
 
 Two cautions. First, a sub-brand or budget plan that leases Spark or 2degrees capacity is still tied to one network, so it shows the same gaps as the parent the moment you leave the main routes. Second, none of these brands sells a walk-up product that beats a travel eSIM for convenience, because every one of them still wants a New Zealand activation step and a payment card.
 
-### Can you buy a New Zealand eSIM from one nz?
+### Carrier eSIM or travel eSIM for a standard holiday?
 
 | | Direct from a New Zealand carrier | Travel eSIM on a New Zealand network |
 |:---|:---|:---|
@@ -73,13 +69,13 @@ For a standard holiday the money clearly favours one option. A local prepaid pla
 
 Three things decide whether your phone works on a New Zealand carrier: its bands, its lock status, and the 3G shutdown that changed the voice rules in 2026. All three are covered below.
 
-### Is your phone eSIM-capable for New Zealand?
+### Which bands does my phone need for New Zealand?
 
 New Zealand carriers build their 4G on Band 1 at 2100 MHz, Band 3 at 1800 MHz, and Band 28 at 700 MHz for the low-band coverage that matters outside towns. Their 5G sits on n78 at 3.5 GHz, with some n40 at 2300 MHz in dense areas. The band that visitors most often miss is Band 28, because it is the one that carries signal into valleys and along the South Island's alpine roads.
 
 Band tables are not part of the packing list. Look up the model number rather than the shop name in [device compatibility list](/compatibility/); that is the version that decides. Worth knowing before a long-haul flight: [what eSIM activation is and how it works](/faq/what-is-esim-activation-and-how-does-it-work/) describes the download that turns the chip into a working line.
 
-### Meet the New Zealand networks
+### Does my phone need to be unlocked for a New Zealand eSIM?
 
 A locked phone is the most common reason a New Zealand eSIM install simply fails, and New Zealand has an unusually light rule here: there is no SIM registration law, so a prepaid line activates without a passport, and the only lock that blocks you is the one your home carrier put on the handset.
 
@@ -128,7 +124,7 @@ Spark's all-inclusive Travel Packs run on a 90-day validity and the entry tier i
 
 Spark explicitly markets these Travel Packs for people visiting New Zealand, and lists eSIM support for iPhone XS and later, Google Pixel 3 and later, and Samsung Galaxy S20 and later. Check your model before buying.
 
-### Local SIM versus visitor eSIM in New Zealand
+### One NZ Travel SIM plans and prices
 
 One NZ, the network formerly called Vodafone, sells a prepaid Travel SIM that an international visitor can order online and install by QR before departure, or pick up as a physical SIM in store.
 
@@ -192,7 +188,7 @@ Two things worth noticing: One NZ leads on the overall Connectivity Score and on
 
 For context on the country as a whole, Ookla's [Speedtest Global Index](https://www.speedtest.net/global-index/new-zealand) placed New Zealand around 27th globally for median mobile download in 2025 at roughly 200 Mbps, well above the global median. On fixed broadband, 2degrees was the fastest ISP with a median download of 220.52 Mbps, ahead of Spark at 192.98 Mbps, and Cable.co.uk prices 1 GB of New Zealand mobile data at roughly USD 5.89, which makes local data mid-priced rather than cheap.
 
-### Your New Zealand eSIM, matched to the trip
+### New Zealand eSIM picks by trip type
 
 | Trip type | Recommended carrier | The reason | Watch out for |
 |:---|:---|:---|:---|
@@ -239,19 +235,19 @@ Leave username and password empty. If a network wants a field filled in, the pap
 
 ### APN settings for New Zealand carriers
 
-- A handset too old to pick up carrier settings by itself
-- A profile installed via manual activation code rather than a QR scan
-- A carrier-issued prepaid eSIM where automatic configuration did not run
-- Almost never on a travel eSIM, which is the point of a managed profile
-
-### When auto-APN fails in New Zealand
-
 - **iPhone:** Settings, then Cellular, tap the eSIM line, then Cellular Data Network, then enter the APN
 - **Android:** Settings, then Connections, then Mobile Networks, then Access Point Names, then add a new APN
 
 After saving, restart the phone. When data refuses to move, verify the eSIM is set as the data line before trying anything else.
 
-## On with the your eSIM: activation and fixes
+### When auto-APN fails in New Zealand
+
+- A handset too old to pick up carrier settings by itself
+- A profile installed via manual activation code rather than a QR scan
+- A carrier-issued prepaid eSIM where automatic configuration did not run
+- Almost never on a travel eSIM, which is the point of a managed profile
+
+## Activating your New Zealand eSIM and fixing problems
 
 One pass through this section takes you from a clean install to a working data connection, and covers the failure patterns a New Zealand network can actually produce, in the order you will hit them.
 
@@ -267,7 +263,7 @@ One pass through this section takes you from a clean install to a working data c
 
 Do step 4 at home. Auckland and Christchurch arrival halls have congested Wi-Fi exactly when you need it most, and a profile you install on the ground competes with everyone else's.
 
-### New Zealand eSIM, from install to live
+### Activating a New Zealand eSIM, carrier by carrier
 
 The complete tap-by-tap version, including the roaming toggle at the end, is in our [activation guide](/faq/how-to-activate-an-esim/). What differs by carrier:
 
@@ -277,7 +273,7 @@ The complete tap-by-tap version, including the roaming toggle at the end, is in 
 - **Skinny:** bought in the app, then dial 456 after you arrive to finish activation
 - **Travel eSIMs:** install by QR code, and the same profile roams onto whichever of One NZ, Spark or 2degrees is strongest
 
-### Four moves to bring a New Zealand eSIM back
+### Four fixes for New Zealand eSIM problems
 
 General activation errors, a profile that will not download, a scan that fails, an eSIM that installs but never registers, are covered in our [activation troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). The four patterns below are the New Zealand-specific ones.
 
@@ -315,7 +311,7 @@ General activation errors, a profile that will not download, a scan that fails, 
 
 ## The New Zealand eSIM carriers: one nz, spark and 2degrees
 
-### one nz eSIM plans for visitors
+### Can I buy a Spark eSIM as a visitor?
 
 Yes, and it is the main visitor route. Spark sells eSIM-only Travel Packs online with no passport and no local address; the entry tier is $29 NZD for 2GB over 90 days, and the packs run up to $129 NZD for 120GB. The profile arrives by email as a QR code and connects when you land.
 
@@ -331,19 +327,19 @@ It is, and it is built only for visitors. The Unlimited Travel SIM gives unlimit
 
 Almost none. New Zealand has no SIM registration law, so a prepaid eSIM activates without a passport, and the main thing that blocks you is a phone still locked to your home carrier. You do need an unlocked handset and a payment card that the checkout accepts, and some resellers may ask for a name, but the carriers themselves do not require passport registration for prepaid lines.
 
-### Device checks: IMEI and EID in New Zealand
+### Will my phone make calls after New Zealand's 3G shutdown?
 
 Only if it supports VoLTE. New Zealand retired 3G between late 2025 and 31 March 2026, and once 3G is gone a handset that does 4G data but not voice over LTE loses the ability to make calls, including 111 emergency calls. Text `3G` to `550` to check your device, and on iPhone confirm Settings, Mobile, Mobile Data Options, Voice and Data shows 4G or 5G with VoLTE on.
 
 ### Rural coverage in New Zealand: one nz vs spark
 
-Spark, on the evidence, because it uses Band 28 at 700 MHz most heavily for low-band reach, and travellers consistently report the widest signal outside cities. One NZ won the Best Mobile Network award and leads on 5G availability at 60.9%, which helps in covered towns, but Spark is the network most hikers and campervanners lean on for the South Island. No carrier covers the Milford Road blackout or the Great Walks, so download offline maps regardless.
+Spark, on the evidence, because it uses Band 28 at 700 MHz most heavily for low-band reach, and travellers consistently report the widest signal outside cities. One NZ won the Best Mobile Network award and leads on 5G availability at 60.9%, which helps in covered towns, but Spark is the network most campervanners and road-trippers lean on for the South Island. No carrier covers the Milford Road blackout or the Great Walks, so download offline maps regardless.
 
-### Whose footprint is biggest in New Zealand?
+### Is there mobile coverage on the Milford Road?
 
 Almost none for long stretches. The roughly 120 km between Te Anau Downs and Milford Sound is the longest continuous highway blackout in New Zealand; signal vanishes after Te Anau Downs, returns briefly for a few kilometres in the Eglinton Valley, then disappears until the Milford Sound visitor terminal. The 1.2 km Homer Tunnel is a hard dead spot, so cache your maps and road alerts before you leave Te Anau.
 
-### New Zealand coverage by region
+### Do the Great Walks have mobile coverage?
 
 No, the famous ones are not. The Milford, Routeburn and Kepler tracks run with no usable cell coverage, and most Department of Conservation huts have no reception at all, so a phone is a poor safety device on its own. Pair a travel eSIM with offline maps and, on the remote tracks, a personal locator beacon hired from DOC in Te Anau or Queenstown.
 
@@ -355,7 +351,7 @@ Check your exact model, not the shop name, against [eSIM compatibility checker](
 
 Direct means one network, carrier-issued provisioning, and often a local number and unlimited calling; in exchange you do the activation step and sometimes a payment-card hurdle. A travel eSIM means instant delivery, no paperwork, automatic switching between One NZ, Spark and 2degrees, and a fixed upfront price. Short trip: travel eSIM. Months in New Zealand, or you need a local number: direct.
 
-### Activating on one nz, spark and 2degrees
+### What if my New Zealand eSIM still will not work?
 
 Work the New Zealand-specific patterns above in order, lock status, network selection, APN and data line, then profile reinstall, and if it still fails the wider error catalogue in [eSIM error troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. Gather the EID, your order number and a screenshot before you raise the ticket.
 
@@ -369,7 +365,7 @@ More questions? [Full FAQ index](/faq/)
 
 ### Will my existing phone take a New Zealand eSIM?
 
-If the phone dates from 2020 or later, it almost certainly works; carrier locks and mainland-China hardware are the exceptions.Run the [eSIM compatibility check](/compatibility/) before you pay for anything.
+If the phone dates from 2020 or later, it almost certainly works; carrier locks and mainland-China hardware are the exceptions. Run the [eSIM compatibility check](/compatibility/) before you pay for anything.
 
 ### What's the way to check the coverage claims against where I'm going?
 
@@ -377,7 +373,7 @@ Cross-reference the carrier sections above with the speed data we cite, then tes
 
 ### What's the one error that spoils New Zealand trips?
 
-Touching down without connectivity, then wrestling airport Wi-Fi for a fix.Install and activate your New Zealand eSIM the night before you fly — the whole process is covered above and takes minutes.
+Touching down without connectivity, then wrestling airport Wi-Fi for a fix. Install and activate your New Zealand eSIM the night before you fly — the whole process is covered above and takes minutes.
 
 ## The evidence base for our New Zealand eSIM guide
 
@@ -385,7 +381,7 @@ Touching down without connectivity, then wrestling airport Wi-Fi for a fix.Insta
 - The December 2025 to 31 March 2026 3G retirement dates and the VoLTE requirement are explained by the **New Zealand Telecommunications Forum** — [the 3G shutdown explainer](https://www.tcf.org.nz/digital-living/understanding-the-3g-shutdown), alongside its public check service at 3gshutdown.co.nz.
 - The 3G transition, and the point that 4G is not a like-for-like replacement especially for 111 calling, is documented by the **Commerce Commission** — [New Zealand's regulator](https://www.comcom.govt.nz/).
 - New Zealand's roughly USD 5.89 average price per gigabyte is drawn from **Cable.co.uk worldwide data pricing** — [the full country table](https://www.cable.co.uk/mobiles/worldwide-data-pricing/).
-- Plan prices, delivery methods and identification rules come from the operators: [Spark Travel Packs](https://www.spark.co.nz/online/shop/mobile-plans/travel-pack), [One NZ prepaid](https://one.nz/prepay/), [2degrees Unlimited Travel SIM](https://www.2degrees.nz/mobile-plans/unlimited-travel-sim) and [Skinny](https://www.skinny.co.nz/). Where possible the data comes from regulators and carriers directly, not aggregators summarizing New zealand.
+- Plan prices, delivery methods and identification rules come from the operators: [Spark Travel Packs](https://www.spark.co.nz/online/shop/mobile-plans/travel-pack), [One NZ prepaid](https://one.nz/prepay/), [2degrees Unlimited Travel SIM](https://www.2degrees.nz/mobile-plans/unlimited-travel-sim) and [Skinny](https://www.skinny.co.nz/). Where possible the data comes from regulators and carriers directly, not aggregators summarizing New Zealand.
 
 Third-party measurements only. The number you see will move with your handset, the band in play, and load on the local tower.
 

@@ -6,11 +6,12 @@
 /Japan-eSIM/  /japan-esim/  301
 /Turkey-eSIM/  /turkey-esim/  301
 /United-States-eSIM/  /united-states-esim/  301
+/carriers/dominican-esim-carrier-guide/  /carriers/dominican-republic-esim-carrier-guide/  301
 /de/Asia-eSIM/  /de/asia-esim/  301
 /de/account/  /de/  301
 /de/carriers/azerbaijan-esim-carrier-guide/  /carriers/azerbaijan-esim-carrier-guide/  301
 /de/carriers/bangladesh-esim-carrier-guide/  /carriers/bangladesh-esim-carrier-guide/  301
-/de/carriers/dominican-esim-carrier-guide/  /carriers/dominican-esim-carrier-guide/  301
+/de/carriers/dominican-esim-carrier-guide/  /carriers/dominican-republic-esim-carrier-guide/  301
 /de/carriers/fiji-esim-carrier-guide/  /carriers/fiji-esim-carrier-guide/  301
 /de/carriers/israel-esim-carrier-guide/  /carriers/israel-esim-carrier-guide/  301
 /de/carriers/kenya-esim-carrier-guide/  /carriers/kenya-esim-carrier-guide/  301
@@ -181,3 +182,4 @@
 /zh-hant/usa-esim/  /zh-hant/united-states-esim/  301
 /zh-hant/vatican-city-esim/  /vatican-city-esim/  301
 /zh-hant/zambia-esim/  /zambia-esim/  301
+/es/en/*  /es/:splat  301

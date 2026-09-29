@@ -1,8 +1,8 @@
 ---
-title: "Singapore eSIM Carriers Ranked: Singtel, StarHub, M1"
-description: "Roami compares Singtel and M1 for a Singapore eSIM, with prepaid tourist plans, real Ookla speeds and IMDA passport rules."
-image: "img/esim/carriers/singapore-esim-carrier-guide.jpg"
-date: "2026-09-09T04:42:04+00:00"
+title: "Travel Singapore eSIM | Singtel, StarHub & M1 Coverage"
+description: "Get online in Singapore with Roami eSIM. Choose 5G prepaid data on Singtel, StarHub & M1 networks, with flexible plans and instant setup."
+image: "img/esim/carriers/singapore-esim-carrier-guide.webp"
+date: "2026-09-19"
 keywords: Singapore eSIM carriers, Singtel eSIM, StarHub eSIM, M1 eSIM, Singapore tourist eSIM, Singapore 5G bands, Singapore eSIM APN, eSIM Singapore prepaid, best eSIM carrier Singapore, Singapore prepaid SIM registration
 site_name: Roami
 brand_name: Roami
@@ -15,15 +15,11 @@ hero_badge: "Singtel vs StarHub vs M1: the Singapore verdict"
 hero_subtitle_main: "Singtel, StarHub and M1 put to the test"
 ---
 
-> **Singtel vs StarHub vs M1: the Singapore verdict**
->
-> **Singtel, StarHub and M1 put to the test**
-
 A Singapore eSIM contest is fought indoors, not across open countryside — this guide compares the three networks on the thing that matters most in a city-state: in-building reach. Singapore is too compact for the rural coverage gaps a large country suffers, so the real contest between its three networks is how well each one reaches indoors. On Ookla's 2H 2025 Singapore report, **Singtel** was named Best Mobile Network and Best 5G Network, with a Speedtest Connectivity Score of **87.22**. **StarHub** and **M1** sit close behind and are often cheaper for the same data. Which one is best for you depends on where you stay, how long you visit, and whether your trip spills into Malaysia or Indonesia. A Singapore eSIM is the easiest way to land already connected, and the prepaid tourist tiers from all three carriers are open to foreign passport holders. Nothing anonymous made it into this guide; the closing source list covers every Singapore figure.
 
 **Quick answer:** For a short trip, Singtel's tourist plan is the least-effort option; for longer stays, StarHub tends to win on price per gigabyte. The sections below break down where Singtel and StarHub each shine — and if this is your first eSIM, start with the [activation walkthrough](/faq/how-to-activate-an-esim/).
 
-Before anything else, confirm the handset actually supports eSIM.The [eSIM compatibility quiz](/compatibility/) settles that in under a minute, and the explainer on [what eSIM activation is and how it works](/faq/what-is-esim-activation-and-how-does-it-work/) covers what happens when a profile downloads. From here on, it is all about the carriers.
+Before anything else, confirm the handset actually supports eSIM. The [eSIM compatibility quiz](/compatibility/) settles that in under a minute, and the explainer on [what eSIM activation is and how it works](/faq/what-is-esim-activation-and-how-does-it-work/) covers what happens when a profile downloads. From here on, it is all about the carriers.
 
 **Quick verdict:** Staying in Marina Bay, Orchard or the CBD? Singtel is the fastest and most consistent network, and it is the only one with genuinely dependable coverage in deep MRT tunnels and basements. Want the cheapest entry? StarHub and M1 both sell a tourist eSIM from S$12. Commuting to Johor Bahru or taking the ferry to Batam? Singtel, StarHub and M1 tourist eSIMs all bundle Malaysia and Indonesia roaming data. Want to skip the passport eKYC and the 30 day passport limit? [free trial](/free-esim/) tests the networks at no cost, and the code **WEB20** cuts 20% from [Singapore prepaid eSIM plans](/singapore-esim/).
 
@@ -40,7 +36,7 @@ Before anything else, confirm the handset actually supports eSIM.The [eSIM compa
 
 Passport eKYC applies to all three majors, so every visitor clears the same identity hoop before a profile is issued. What separates them is reach and price: Singtel holds the underground layer and the widest footprint, while StarHub and M1 trade some coverage breadth for cheaper entry and fatter Malaysia and Indonesia roaming bundles.
 
-### Singtel vs StarHub: which is better in Singapore?
+### Which budget brands sell eSIMs in Singapore?
 
 Singapore's fourth tier is where visitors find the lowest prices, and several of these brands now support eSIM too.
 
@@ -71,13 +67,13 @@ The economics favor a travel eSIM for a normal holiday. A carrier tourist eSIM i
 
 Three things decide whether your phone works on a Singapore carrier: its bands, its lock status, and a short list of device specific quirks. All three are covered below.
 
-### Singapore eSIMs on iPhone: supported?
+### Do international phones support Singapore's bands?
 
 Singapore's 5G is built on specific bands: **n78 (3500 MHz)** is the primary band all three carriers use for capacity, backed by **n1 (2100 MHz)** and **n3 (1800 MHz)**, with **n28 (700 MHz)** used to push coverage into buildings and underground. The LTE layer runs on B1, B3, B7, B8 and B28. Most international handsets sold in the last three years support these bands, but some regional variants miss n28, which is exactly the band that helps deep indoors.
 
 You do not need to memorize the band tables. The reliable move is to check your exact model, model number not marketing name, against [compatibility lookup tool](/compatibility/). If you want the underlying mechanics first, [what your phone does when it loads an eSIM profile](/faq/what-is-esim-activation-and-how-does-it-work/) explains the process.
 
-### Which Singapore carrier should you pick: Singtel vs StarHub?
+### Will a SIM lock block your Singapore eSIM?
 A locked phone is the most common reason a Singapore eSIM install simply fails, and Singapore's rule here is the opposite of what many visitors expect.
 
 Singapore has prohibited SIM locking of devices sold locally since 1997, when the then telecoms regulator barred operators from locking phones, tablets and smartwatches imported and sold in the country. In practice that means a phone you buy from a Singapore carrier is unlocked by default. The catch is your own phone: a handset you bring from home may still be locked to its home carrier, and no Singapore operator can unlock it. That lock, not the local rule, is what blocks your eSIM.
@@ -88,7 +84,7 @@ Singapore has prohibited SIM locking of devices sold locally since 1997, when th
 
 If you bought a used phone, assume it may be locked and check before you fly. Full detail: [IMDA, Singapore's telecoms regulator](https://www.imda.gov.sg/).
 
-### Do Android phones support Singapore eSIMs?
+### Which devices have trouble with Singapore eSIMs?
 
 | Device | Symptom | What to do |
 |:---|:---|:---|
@@ -116,13 +112,13 @@ Singtel's hi! Tourist product is built for this. It is sold to foreign passport 
 
 Singtel markets three tourist tiers: a **S$10** plan for 7 days with 500GB of 5G+ data across Singapore, Malaysia, Indonesia, Thailand and Hong Kong plus unlimited local calls and SMS; a **S$15** plan for 30 days with 500GB of 5G+ data, 18GB of APAC roaming, 8GB of worldwide roaming and unlimited local calls and SMS; and a **S$30** plan for 30 days with 1000GB of 5G+ data, 100GB of Asia roaming, 18GB of worldwide roaming and unlimited local calls and SMS. Passport registration is valid for 30 days, after which you must re register with a Singapore issued ID to keep the line.
 
-### Where to get a Singapore eSIM
+### How to get a StarHub Travel eSIM
 
 StarHub's Travel eSIM is the value play, especially if you want the largest regional roaming bundles.
 
 For a StarHub Travel eSIM, the newcomer path is online: provide your passport for verification during purchase, and StarHub emails the eSIM QR code to you. The data only eSIM variants arrive as a QR code you install yourself; plans with calls and SMS are also available as physical SIM at Changi Airport counters. One rule to respect: a StarHub Travel eSIM must be activated within 18 days of purchase, so do not buy it weeks before you fly.
 
-### Local SIM vs travel eSIM in Singapore
+### How to get an M1 Tourist eSIM
 
 M1's Tourist eSIM is the cheapest entry and the only one with a genuine 15 day option, which suits short trips better than the 30 day norm.
 
@@ -174,7 +170,7 @@ Where the report does not publish a figure, the cell is left blank rather than e
 
 For context on the country as a whole, Ookla's [Speedtest Global Index](https://www.speedtest.net/global-index/singapore) put Singapore's median mobile download at about 240 Mbps in June 2026, around 20th globally, with 25 ms latency, while fixed broadband leads the world at roughly 635 Mbps. [Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) prices 1 GB of mobile data in Singapore at about USD 0.63, 59th of 237 markets against a USD 2.59 global average, so local data is cheap but a travel eSIM still beats home roaming by a wide margin.
 
-### Mobile service providers in Singapore
+### Best Singapore eSIM by trip type
 
 | Your itinerary | Top pick | Why it wins | Watch out for |
 |:---|:---|:---|:---|
@@ -244,7 +240,7 @@ One trip through this section: clean install to working data, with the failure p
 | # | Check | What good looks like |
 |:---|:---|:---|
 | 1 | Phone is not carrier locked | Carrier Lock in About shows "No SIM restrictions" |
-| 2 | Phone supports eSIM | `*#06#` shows an EID, or the [compatibility checker](/compatibility/) confirms your model |
+| 2 | Phone supports eSIM | `*#06#` shows an EID, or the [compatibility list](/compatibility/) confirms your model |
 | 3 | Passport ready for eKYC | Valid original passport |
 | 4 | Profile installed before departure | Install on Wi-Fi at home; the profile connects when you land |
 | 5 | Data line and roaming set | eSIM selected for mobile data, data roaming on |
@@ -305,7 +301,7 @@ General activation errors, a profile that will not download, a scan that fails, 
 
 ## FAQ for Singapore eSIM buyers
 
-### Singapore eSIM packages and pricing
+### Can visitors buy a Singtel tourist eSIM?
 
 Yes. Singtel's hi! Tourist eSIM is sold to foreign passport holders only and comes in S$10 (7 days), S$15 (30 days) and S$30 (30 days) tiers, all with large 5G+ data bundles and regional roaming. You register with a passport through eKYC, and the line is valid for 30 days unless re registered with a Singapore issued ID.
 
@@ -313,7 +309,7 @@ Yes. Singtel's hi! Tourist eSIM is sold to foreign passport holders only and com
 
 Yes. StarHub's Travel eSIM is available from S$12 and comes as a data only eSIM in 4G and 5G tiers, all valid 30 days with generous APAC and Southeast Asia roaming bundles. The one rule is that the eSIM must be activated within 18 days of purchase, so do not buy it too early.
 
-### Which carrier wins outside the Singapore capitals?
+### Which carrier wins on coverage in Singapore?
 
 Singtel, on the evidence. It won Ookla's Best Mobile Network and Best 5G Network for Singapore in 2H 2025 and posts the highest 5G availability at 82.6 percent. Its real edge is indoor and underground coverage, where its 700 MHz layer reaches MRT tunnels and basements that the other two reach less reliably.
 
@@ -325,11 +321,11 @@ From S$10 for a 7 day Singtel tier up to S$30 for the top tiers from all three c
 
 Yes. IMDA requires identity verification, called eKYC, for every prepaid SIM and eSIM in Singapore, and visitors verify with a passport. Since July 2024 a passport registration is capped at 30 days of service unless you can show lawful residency, and each passport can register up to 3 mobile services with calls and SMS across all operators.
 
-### IMEI and EID: what Singapore asks for
+### Are phones in Singapore sold locked?
 
 No. Singapore has prohibited SIM locking of devices sold locally since 1997, so a phone bought from a Singapore carrier is unlocked. The lock you need to worry about is on a phone you bring from home, which may still be tied to its home carrier and must be unlocked there before a Singapore eSIM will install.
 
-### Singtel vs StarHub 5G: which is better in Singapore?
+### Which 5G bands do Singapore carriers use?
 
 The main 5G bands are n78 (3500 MHz) for capacity, n1 (2100 MHz) and n3 (1800 MHz) for coverage, and n28 (700 MHz) for buildings and underground. The LTE layer uses B1, B3, B7, B8 and B28. A phone that supports n78 plus n28 will give the best Singapore experience, especially indoors.
 
@@ -337,18 +333,18 @@ The main 5G bands are n78 (3500 MHz) for capacity, n1 (2100 MHz) and n3 (1800 MH
 
 Yes, on the tourist tiers. Singtel, StarHub and M1 all bundle regional roaming that covers Malaysia and Indonesia, which matters for the Johor Bahru commute and the Batam ferry. You must enable data roaming and, if it does not attach automatically, manually select the preferred partner network.
 
-### Singapore coverage, region by region
+### Why does signal drop in the MRT tunnels?
 
 Some networks have little or no underground layer in certain tunnel sections, so the signal drops between stations. Singtel's 700 MHz deployment gives it the best underground reach, which is why it is the recommended carrier for heavy MRT users. Toggling airplane mode forces a fresh registration when you resurface.
 
-### Singtel eSIM plans for visitors
+### Should I buy from a Singapore carrier or a travel eSIM?
 Direct means one network, passport eKYC, a 30 day passport cap, and often a real Singapore number with regional roaming. A travel eSIM means instant delivery, no paperwork, automatic switching between Singtel, StarHub and M1, and a fixed upfront price. Short trip: travel eSIM. Need a local number or longest stay: direct.
 
 ### The APN screen: where to look in Singapore
 
 Only if you bought direct from a carrier and data stalls. Use `hicard` for Singtel, `shwap` for StarHub, or `sunsurf` for M1, leave username and password blank, then restart. A travel eSIM supplies its own APN and should not be touched.
 
-### Activating on Singtel, StarHub and M1
+### What if my Singapore eSIM will not activate?
 
 Work the Singapore specific patterns above in order, eKYC, QR delivery, APN, underground signal, then regional roaming, and if it still fails the wider error catalogue in [eSIM activation fixes guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. Have your EID, order reference and a screenshot ready before you contact support.
 
@@ -363,7 +359,7 @@ More questions? [More questions? View the full FAQ →](/faq/)
 
 These are third-party measurements, not our own. Results depend on your handset, the band you latch onto and how busy the nearby cell is.
 
-## How activation works
+## Get your Singapore eSIM ready before you fly
 
 Roami's Singapore eSIM moves between Singtel, StarHub and M1 on its own, so you stay covered in the MRT tunnels and across the border into Malaysia or Indonesia. New customers can [try it free first](/free-esim/), or take 20% off with code **WEB20** on [Singapore prepaid eSIM plans](/singapore-esim/).
 

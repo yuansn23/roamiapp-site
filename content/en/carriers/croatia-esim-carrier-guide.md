@@ -1,8 +1,8 @@
 ---
-title: "Croatia eSIM for the islands: HT, A1 and Telemach"
-description: "Roami tests Hrvatski Telekom, A1 and Telemach across the Adriatic, so your Croatia eSIM carrier holds up from ferry deck to island."
-image: "img/esim/carriers/croatia-esim-carrier-guide.jpg"
-date: "2026-07-16T04:29:22+00:00"
+title: "5G Croatia eSIM | Hrvatski Telekom, A1 & Telemach"
+description: "Travel Croatia with Roami eSIM. Enjoy reliable 5G prepaid data on Hrvatski Telekom, A1 & Telemach networks, with no roaming fees and easy activation."
+image: "img/esim/carriers/croatia-esim-carrier-guide.webp"
+date: "2026-09-26"
 keywords: Croatia eSIM, Croatia eSIM carrier, Hrvatski Telekom, A1 Hrvatska, Telemach, Plitvice Lakes, Dubrovnik, high-speed data, no roaming fees, eSIM compatibility
 site_name: Roami
 brand_name: Roami
@@ -14,23 +14,20 @@ breadcrumb_items:
 hero_badge: "HT, A1 or Telemach? The Croatia choice"
 hero_subtitle_main: "Speed scores, rural coverage and tourist rules, all in one place"
 ---
-> **HT, A1 or Telemach? The Croatia choice**
->
-> **Hrvatski Telekom, A1 Hrvatska and Telemach, measured on the Adriatic**
 
 The right Croatia eSIM is decided on the water, not in Zagreb: this guide ranks the networks the way you will actually use them — ferries, coves and cruise stops. Most country guides rank networks by capital-city speed. Croatia breaks that method, because the product most visitors buy is the coast: a ferry from Split to Hvar, a week in a Korčula cove, or an eight-hour cruise stop in Dubrovnik. None of the Croatia steps below should take more than a few minutes — we clocked first-timers doing each.
 
-**Quick answer:** Straight to the point: eSIM compatibility is the safe default for coverage across Croatia, with the local networks usually cheaper in the larger cities. Speed and price tables for each network follow below — and the [compatibility checker](/compatibility/) settles any handset doubt in about a minute.
+**Quick answer:** Straight to the point: a travel eSIM is the safe default for coverage across Croatia, with the local networks usually cheaper in the larger cities. Speed and price tables for each network follow below — and the [compatibility checker](/compatibility/) settles any handset doubt in about a minute.
 
 The national statistics are solid rather than spectacular. The median mobile download measured **120.15 Mbps**, 40th worldwide on Ookla's Speedtest Global Index for August 2026, with a median 5G download of 193.52 Mbps (36th). Local data is cheap at about **USD 1.19 per GB**, 111th of 237 markets on Cable.co.uk's survey, against a USD 2.59 global average.
 
 But a Croatia eSIM is judged on the islands, not in Zagreb: networks are engineered around the ferry corridors, the marinas and the summer surge. This guide maps which carrier holds up where, what visitors pay, and every step to a live data line on deck.
 
-Speed charts and coverage maps are irrelevant if the profile never installs.The [compatibility checker](/compatibility/) and this [eSIM activation walkthrough](/faq/what-is-esim-activation-and-how-does-it-work/) cover the fundamentals, leaving this guide free to compare networks head-on.
+Speed charts and coverage maps are irrelevant if the profile never installs. The [handset compatibility checker](/compatibility/) and this [eSIM activation walkthrough](/faq/what-is-esim-activation-and-how-does-it-work/) cover the fundamentals, leaving this guide free to compare networks head-on.
 
 **The short version:** The Hrvatski Telekom eSIM is the nationwide anchor — the widest footprint, the strongest island and national-park signal, and the network a ferry itinerary or a cruise stopover should default to. The A1 Hrvatska eSIM is the value play, with a genuinely buyable online tourist line (unlimited 5G from €10.90 for three days, €29 for 30). The Telemach Hrvatska eSIM is the budget data option — around €9.95 for 100 GB bought in a shop — and its network now wins independent speed awards. Test first with [free test eSIM](/free-esim/), or apply code **WEB20** for 20% off a [Croatia eSIM plan](/croatia-esim/).
 
-## Croatia eSIM: why the Adriatic decides your network
+## Croatia eSIM coverage: the coast versus the interior
 
 Croatia is a long, thin country with its population pressed against the sea, and networks follow the tourist money: cell density is highest along the ferry corridors linking Split to Hvar, Brač, Korčula and Vis, along the Zadar archipelago, and around Dubrovnik's old town. It thins rapidly in the karst interior and the Gorski Kotar highlands.
 
@@ -87,7 +84,7 @@ For a visitor the reading is simple: Telemach competes on reliability, HT leads 
 
 ## Croatia eSIM coverage by coast: Zagreb, Istria, the islands and the south
 
-Treat national medians as the ceiling for any Croatia eSIM; this table is what you will experience route by route.
+Treat national medians as the ceiling for any eSIM plan; this table is what you will experience route by route.
 
 | Region | Coverage reality | Strongest carrier | Watch out for |
 |:---|:---|:---|:---|
@@ -105,7 +102,7 @@ Beyond Croatia, the same coastline flows into markets a Croatia-only profile doe
 - Our [Italy eSIM guide](/carriers/italy-esim-carrier-guide/) across the Adriatic
 - [Montenegro eSIM options](/montenegro-esim/) at the mouth of the bay
 
-## Island by island and ferry by ferry: where a Croatia eSIM holds up
+## Island and ferry coverage with a Croatia eSIM
 
 Each island sits a different distance from the mainland, so each gives a different answer to "will my Croatia eSIM work here?"
 
@@ -127,7 +124,7 @@ Two Kvarner islands are reachable by road, which changes your coverage planning:
 
 ### Croatia ferry coverage: crossing times and what happens offshore
 
-Croatia's ferries come in two flavours, and the distinction decides whether your Croatia eSIM works on board. Catamarans carry foot passengers only and stay closer to shore; car ferries are slower, take vehicles and sell out first in summer.
+Croatia's ferries come in two flavours, and the distinction decides whether your eSIM works on board. Catamarans carry foot passengers only and stay closer to shore; car ferries are slower, take vehicles and sell out first in summer.
 
 | Route | Crossing | Type | Data on board |
 |:---|:---|:---|:---|
@@ -222,7 +219,7 @@ Skip the band memorization and run your exact model number through [eSIM compati
 
 ## SIM Registration Rules
 
-Three purchase routes exist. Pick the wrong one and a Croatia eSIM that should take minutes becomes a July queue.
+Three purchase routes exist. Pick the wrong one and a purchase that should take minutes becomes a July queue.
 
 ### The in-store route (HT and Telemach)
 
@@ -246,7 +243,7 @@ Tisak — the green kiosks at every airport, bus station and main street — sel
 
 Buy before you fly, install on Wi-Fi at home, and the profile connects on landing at Zagreb, Split or Dubrovnik — no counter, no registration, automatic carrier selection. For a cruise stopover or a one-week coastal loop this is usually the rational choice, at a modest per-GB premium; our [eSIM activation guide](/faq/how-to-activate-an-esim/) covers the install step.
 
-### What does data cost in Croatia?
+### How long does buying a Croatia eSIM take?
 
 - **In-store:** 15–30 minutes at a quiet counter, an hour or more in Split in August.
 - **Online with A1:** ten minutes at home.
@@ -260,9 +257,9 @@ The August 2026 medians — 120.15 Mbps across all technologies, 193.52 Mbps on 
 2. **Island saturation.** Hvar town's cells serve a July population many times its resident base, and speedtest results on that waterfront in August will not resemble the national median on any network.
 3. **Mid-crossing dead air.** Beyond about 10 km offshore, no carrier holds you. Ferries between the larger islands often have usable signal within sight of land on both sides, and that is the honest ceiling of marine connectivity.
 
-Outside those windows, a Croatia eSIM performs comfortably above what the country's €1.19-per-GB price suggests: video calls from a Rovinj apartment in June are unremarkable — which is the compliment.
+Outside those windows, a travel eSIM performs comfortably above what the country's €1.19-per-GB price suggests: video calls from a Rovinj apartment in June are unremarkable — which is the compliment.
 
-### Who runs the best network in Croatia?
+### How do you keep signal on Croatia ferries?
 
 - **Face the coast.** Marina-facing berths and forward decks on catamarans hold a usable edge far longer than an interior seat.
 - **Pre-download, then switch off.** Offline maps, ferry tickets and downloads before boarding beat any on-board workaround.
@@ -270,7 +267,7 @@ Outside those windows, a Croatia eSIM performs comfortably above what the countr
 
 ## APN settings for Hrvatski Telekom, A1 Hrvatska and Telemach eSIMs
 
-Manual APN entry is a last resort, not a ritual. Travel eSIM profiles carry their own settings and should never be edited, and a Croatia eSIM bought at a counter almost always auto-provisions. If a store-bought profile installs but will not pass data, try these values:
+Manual APN entry is a last resort, not a ritual. Travel eSIM profiles carry their own settings and should never be edited, and one bought at a counter almost always auto-provisions. If a store-bought profile installs but will not pass data, try these values:
 
 | Carrier | APN | Username | Password |
 |:---|:---|:---|:---|
@@ -337,11 +334,11 @@ A cruise day is the hardest connectivity problem in Croatia: you land in the cou
 7. **Before boarding:** download the next port's map and tickets, so tomorrow's stop starts with data already in hand.
 8. **On board:** expect the ship's Wi-Fi to be the slower option at sea, and the eSIM to be dead once the vessel clears the coast.
 
-### Why the terminal is the hardest cell in Croatia
+### Why ferry terminals have the worst signal in Croatia
 
 Two hectares of quay can hold five thousand people and a thousand phones. The cells covering Dubrovnik's Gruž terminal and Split's ferry port are engineered for a resident population, not for a fleet. Nothing in your settings changes that; positioning does — a few streets inland, or the shoulder hours.
 
-## Your Croatia eSIM answers to keep handy
+## Croatia eSIM FAQ
 
 ### Croatia coverage map, by area
 
@@ -373,11 +370,11 @@ An unlimited Croatia eSIM runs €10–15 for a week to ten days: A1's 1+1 offer
 
 ### Hotspot use on Croatia eSIMs
 
-Yes — a Croatia eSIM allows tethering on all three carriers' tourist and prepaid products, since Croatian operators do not block it on prepaid data. Watch the allowance rather than the permission: unlimited plans run at full speed to a daily quota and throttle after, so a laptop pulling video all afternoon meets that ceiling sooner than a phone.
+Yes — tethering is allowed on all three carriers' tourist and prepaid products, since Croatian operators do not block it on prepaid data. Watch the allowance rather than the permission: unlimited plans run at full speed to a daily quota and throttle after, so a laptop pulling video all afternoon meets that ceiling sooner than a phone.
 
 ### Where is 5G strongest in Croatia?
 
-Yes. All three carriers have deployed 5G on the n78 band across the larger coastal cities — Split, Rijeka, Zadar, Dubrovnik — and the national 5G median of 193.52 Mbps reflects that rollout. On a small island or a rural inland district a Croatia eSIM will sit on 4G instead, which at Croatian LTE speeds is rarely a problem.
+Yes. All three carriers have deployed 5G on the n78 band across the larger coastal cities — Split, Rijeka, Zadar, Dubrovnik — and the national 5G median of 193.52 Mbps reflects that rollout. On a small island or a rural inland district your eSIM will sit on 4G instead, which at Croatian LTE speeds is rarely a problem.
 
 ### What happens to a Croatia eSIM when the ferry leaves port?
 
@@ -393,8 +390,8 @@ A Croatia eSIM loses signal around 10 km offshore, when the vessel passes out of
 
 National price comparisons come from Cable.co.uk's worldwide data pricing study, which puts Croatia's average at USD 1.19 per gigabyte, and market-size context from DataReportal's Digital 2025: Croatia. Ferry crossings and bridge dates follow Jadrolinija's published timetables. All figures are dated third-party measurements or operator-published prices, not performance guarantees.
 
-## Step ashore with a working Croatia eSIM
+## Get your Croatia eSIM ready before you fly
 
-The Adriatic rewards travellers who solve connectivity before the gangway: timetables downloaded, tickets in the wallet, and a data line that follows the coast. [Roami's Croatia eSIM](/croatia-esim/) switches automatically across Hrvatski Telekom, A1 Hrvatska and Telemach — island to island, port to port. [zero-cost trial eSIM](/free-esim/) to test it; apply code **WEB20** for 20% off your first plan.
+The Adriatic rewards travellers who solve connectivity before the gangway: timetables downloaded, tickets in the wallet, and a data line that follows the coast. [Roami's Croatia eSIM](/croatia-esim/) switches automatically across Hrvatski Telekom, A1 Hrvatska and Telemach — island to island, port to port. Grab a [zero-cost trial eSIM](/free-esim/) to test it; apply code **WEB20** for 20% off your first plan.
 
-One final check before departure: your phone, on the [eSIM compatibility page](/compatibility/), then start with a Roami [claim a test eSIM](/free-esim/) and watch how eSIM compatibility treats your route. If that works, code **WEB20** takes 20% off any paid Roami plan for Croatia.
+One final check before departure: your phone, on the [eSIM compatibility page](/compatibility/), then [claim a test eSIM](/free-esim/) and watch how eSIM compatibility treats your route. If that works, code **WEB20** takes 20% off any paid Roami plan for Croatia.

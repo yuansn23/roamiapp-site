@@ -1,8 +1,8 @@
 ---
-title: "Czech Republic eSIM carriers: which network to pick?"
-description: "Roami compares Vodafone CZ, T-Mobile CZ and O2 CZ for a Czech Republic eSIM, from Prague's easy centre to the branch-line countryside."
-image: "img/esim/carriers/czech-republic-esim-carrier-guide.jpg"
-date: "2026-07-17T22:01:28+00:00"
+title: "Czech Republic eSIM Data | O2, T-Mobile & Vodafone"
+description: "Stay online in Czech Republic with Roami eSIM. Prepaid data on O2, T-Mobile & Vodafone networks, ideal for tourists and business travelers."
+image: "img/esim/carriers/czech-republic-esim-carrier-guide.webp"
+date: "2026-09-26"
 keywords: Czech Republic eSIM, Vodafone CZ eSIM, T-Mobile CZ eSIM, travel eSIM Czech Republic, avoid roaming fees, Prague Castle eSIM, instant activation eSIM
 site_name: Roami
 brand_name: Roami
@@ -11,22 +11,19 @@ breadcrumb_items:
   url: /
 - name: Czech Republic eSIM Guide
   url: ''
-hero_badge: "Czech Republic eSIM compared: Vodafone CZ, T-Mobile CZ and Prague Castle"
+hero_badge: "Czech Republic eSIM compared: Vodafone CZ, T-Mobile CZ and O2 CZ"
 hero_subtitle_main: "Vodafone CZ, T-Mobile CZ and O2 CZ — and the Prague question that answers everything else"
 ---
-> **🇨🇿 Czech Republic eSIM compared: Vodafone CZ, T-Mobile CZ and Prague Castle**
->
-> **Vodafone CZ, T-Mobile CZ and O2 CZ — and the Prague question that answers everything else**
 
 Prague spoils you. In the capital, all three Czech networks deliver fast, dependable data, and a Czech Republic eSIM works the moment you land. The country's median mobile download sits at **92.26 Mbps** — 49th in Ookla's August 2026 global index — with a median 5G connection reaching **160.54 Mbps**, and 1 GB of data costs about **USD 3.12** per Cable.co.uk's 237-market table. That price looks average globally but is the highest in its own region, so the purchase decision is less about cost than geography: the moment your itinerary adds Brno, Ostrava, Český Krumlov or a rail branch line, which network your Czech Republic eSIM rides on starts to matter. We answer the same handful of Czech Republic questions every week in support, so this page collects the real ones, worded the way travelers actually ask them.
 
-**Quick answer:** For a short trip, Vodafone CZ's tourist plan is the least-effort option; for longer stays, T-Mobile CZ usually wins on per-gigabyte price. The sections below break down where Vodafone CZ and T-Mobile CZ each shine — and and beginners can start from the [activation walkthrough](/faq/how-to-activate-an-esim/).
+**Quick answer:** For a short trip, Vodafone CZ's tourist plan is the least-effort option; for longer stays, T-Mobile CZ usually wins on per-gigabyte price. The sections below break down where Vodafone CZ and T-Mobile CZ each shine — and beginners can start from the [activation walkthrough](/faq/how-to-activate-an-esim/).
 
-Not certain about device support or how installation works?Run your model through the [device compatibility checker](/compatibility/) first, then read [how eSIM installation works](/faq/what-is-esim-activation-and-how-does-it-work/) — both are prerequisites this page deliberately skips.
+Not certain about device support or how installation works? Run your model through the [device compatibility checker](/compatibility/) first, then read [how eSIM installation works](/faq/what-is-esim-activation-and-how-does-it-work/) — both are prerequisites this page deliberately skips.
 
 **Fast take:** In Prague, any of the three works — O2 posts the fastest 5G medians there, while Vodafone and T-Mobile trade blows elsewhere. Outside the capital, T-Mobile CZ is the most frequently cited pick for nationwide reach, Vodafone CZ claims the broadest 5G population coverage, and O2 CZ leads on overall network awards. Prepaid starters cost **299–499 CZK** with 15 GB included, and the airport tourist SIM runs about 599 CZK for 10 GB. For most trips under two weeks, a multi-network [Czech Republic eSIM](/czech-republic-esim/) beats all three on convenience — and you can [try a free eSIM](/free-esim/) first to confirm your phone behaves before you pay.
 
-## Your eSIM carriers and how the market is actually built
+## Czech Republic eSIM carriers
 
 ### Vodafone vs T-Mobile vs O2 for visitors
 
@@ -56,7 +53,7 @@ Entry pricing here sits inside a narrow band, which makes the allowance and the 
 
 Two habits are worth adopting before you buy. Czech prepaid prices in thirty-day cycles, so a "15 GB" headline is a monthly figure rather than a trip figure, and a two-week visitor rarely consumes it. And an eSIM starter usually carries a small premium over the physical version, because issuing a profile costs the operator a step the kiosk does not.
 
-## Inside the your eSIM market's MVNO layer
+## MVNOs in the Czech eSIM market
 
 Czechia's virtual-operator scene is one of Europe's densest: the regulator counted 137 MVNOs in a single annual report, though most are tiny, and the consumer-visible layer is a short list. Several older guides name MVNOs that no longer appear anywhere current, so we list only brands verifiable against operator, regulator or retail sources.
 
@@ -75,7 +72,7 @@ Czechia's virtual-operator scene is one of Europe's densest: the regulator count
 
 For a visitor the MVNO layer is a curiosity more than an option: most brands sell through Czech-language apps and newsagent kiosks with no English support, and their savings over a 299 CZK starter are marginal. The one relevant point is network inheritance — a Kaktus SIM is a T-Mobile SIM for coverage purposes, and so is any Czech Republic eSIM profile that roams onto it — which matters the moment you leave Prague.
 
-## Your eSIM coverage: Prague is easy, the map decides the rest
+## Czech Republic eSIM coverage: Prague versus the rest
 
 ### Prague coverage: what the Czech capital actually delivers
 
@@ -212,7 +209,7 @@ On raw price the Czech starter packs win on per-gigabyte cost, and a Czech prepa
 
 ### Is my phone fit for a Czech Republic eSIM?
 
-A data-only Czech Republic eSIM covers almost everything a visitor does. These are the exceptions worth knowing before you rely on one.
+A data-only Czechia eSIM covers almost everything a visitor does. These are the exceptions worth knowing before you rely on one.
 
 | Task | Works on a data-only eSIM? | What to do instead |
 |:---|:---|:---|
@@ -225,7 +222,7 @@ A data-only Czech Republic eSIM covers almost everything a visitor does. These a
 | Calling a Czech hotel or business | No | Use an app-based call, or WhatsApp where the business offers it |
 | SMS tickets in some smaller towns | No | Buy from the machine or from the driver |
 
-The pattern is consistent: anything that runs inside an app works on data, and anything that depends on receiving a text message needs a real number. A Czech Republic eSIM keeps the first category running from the moment you land.
+The pattern is consistent: anything that runs inside an app works on data, and anything that depends on receiving a text message needs a real number. Your eSIM keeps the first category running from the moment you land.
 
 ### Topping up a Czech prepaid eSIM card
 
@@ -248,7 +245,7 @@ One recurring trap: unused credit expires if you stop topping up, and carriers f
 
 The three networks share a common European band foundation — **LTE bands 1, 3, 7, 8 and 20**, with band 20 (800 MHz) providing rural reach — and build 5G primarily on **n78 at 3500 MHz**. O2 additionally operates a 3700 MHz TDD block, and Vodafone deploys 5G on n3 (1800 MHz) as well, which extends mid-band 5G into more places. Practically every European and international flagship from the last several years handles all of it, and unlike some markets there is no exotic band a visitor is likely to miss.
 
-The usual two checks still apply. Confirm the phone is not carrier-locked — Settings → General → About → Carrier Lock should read "No SIM restrictions" — and confirm eSIM support via the EID shown when you dial `*#06#` or directly through the [eSIM compatibility tool](/compatibility/). Mainland-China iPhones have eSIM disabled in hardware and will not install any profile. A locked phone is the single most common reason a Czech Republic eSIM fails to install, so settle it before purchase.
+The usual two checks still apply. Confirm the phone is not carrier-locked — Settings → General → About → Carrier Lock should read "No SIM restrictions" — and confirm eSIM support via the EID shown when you dial `*#06#` or directly through the [eSIM compatibility tool](/compatibility/). Mainland-China iPhones have eSIM disabled in hardware and will not install any profile. A locked phone is the single most common reason an eSIM fails to install, so settle it before purchase.
 
 ## How fast is a Czech Republic eSIM in practice?
 
@@ -270,7 +267,7 @@ The country sits below the global median on raw speed but beats it on latency �
 
 Where they differ, the difference is experiential, and Opensignal's February 2025 Czechia report separates them more sharply than any marketing page: T-Mobile took Best Network, winning 12 of 14 awards, while O2 replaced Vodafone as the 5G Coverage Experience winner and now sits joint-top with Vodafone on 5G availability, ahead of T-Mobile. O2's own modernisation programme took it to 5,300 5G base stations, which it says covers 96 percent of the population.
 
-For a Czech Republic eSIM holder the practical translation is short. In Prague you will not notice the gap whichever network you carry. On a Brno–Ostrava regional train, or above the tree line in Šumava, you might — and that is exactly where a profile that can re-select the strongest carrier earns its place.
+For a Czech Republic eSIM holder the practical translation is short. In Prague you will not notice the gap whichever network you carry. On a Brno–Ostrava regional train, or on a ridge road in Šumava, you might — and that is exactly where a profile that can re-select the strongest carrier earns its place.
 
 ### Which Czech Republic carrier should you pick: Vodafone vs T-Mobile?
 
@@ -283,12 +280,12 @@ For a Czech Republic eSIM holder the practical translation is short. In Prague y
 Three habits follow from that table:
 
 - **On a single-network plan** you inherit exactly one operator's rural footprint.
-- **On a multi-network Czech Republic eSIM** the profile re-attaches as you move between cells.
+- **On a multi-network plan** the profile re-attaches as you move between cells.
 - **Either way**, no plan fixes a stone cellar or a mountain ridge.
 
 ## Czech Republic eSIM APN settings for all three carriers
 
-### APN values for Vodafone, T-Mobile and Prague Castle eSIMs
+### APN values for Vodafone, T-Mobile and O2 eSIMs
 
 A travel eSIM arrives with its APN baked into the profile — leave it alone. These values are for direct-purchased SIMs or eSIMs where automatic configuration did not run.
 
@@ -312,7 +309,7 @@ Local eSIM sales involve identification; if you ordered online from abroad and s
 
 Confirm the eSIM is the selected mobile-data line and that data roaming is enabled for it — even on a domestic Czech profile, the roaming toggle gates data on some handsets. Then check the APN against the table above if the profile arrived as a manual activation code rather than a QR scan.
 
-### C. Connected, then it crawls
+### Connected, but data is slow
 
 Prepaid allowances here expire rather than throttle silently in most cases — if speeds collapse or data stops, check your remaining package first in the operator's app or through a USSD balance code (Vodafone answers `*111#`). A topped-up-but-unactivated data pack is the classic tourist mistake: credit is not a data plan.
 
@@ -324,11 +321,11 @@ Old Town crowds, deep stone cellars and regional rail tunnels eat signal on ever
 
 ### Does Vodafone sell a tourist eSIM at Prague airport?
 
-Yes — Vodafone staffs shops at Václav Havel Airport's terminals and sells prepaid and Czech Republic eSIM options with a passport. Travellers report tourist SIMs around 599 CZK for 10 GB. City-street starters are cheaper per gigabyte, so buy at the airport only if convenience beats cost on arrival day.
+Yes — Vodafone staffs shops at Václav Havel Airport's terminals and sells prepaid and eSIM options with a passport. Travellers report tourist SIMs around 599 CZK for 10 GB. City-street starters are cheaper per gigabyte, so buy at the airport only if convenience beats cost on arrival day.
 
 ### What does a gigabyte cost in Czech Republic?
 
-Not really. Cable.co.uk prices 1 GB at about USD 3.12 in Czechia against USD 2.14 in Germany — Czechia is 193rd of 237 markets and the priciest in its region. Against roaming or a US carrier's travel pass, though, both countries are inexpensive for a visitor.
+Cable.co.uk prices 1 GB at about USD 3.12 in Czechia against USD 2.14 in Germany — Czechia is 193rd of 237 markets and the priciest in its region. Against roaming or a US carrier's travel pass, though, both countries are inexpensive for a visitor.
 
 ### What do Czech Republic's registration rules demand?
 
@@ -352,17 +349,17 @@ Ookla's national median 5G download stands at 160.54 Mbps, and Prague's city 5G 
 
 ### Does your phone pass the eSIM check for Czech Republic?
 
-A carrier prepaid SIM or eSIM — Twist, Go Karta, Oskarta — comes with a real +420 number and calling credit. Travel eSIMs are almost always data-only, so bank codes and calls continue on your home SIM while data runs on the eSIM line.
-
-### IMEI/EID requirements in Czech Republic
-
 If it is unlocked and eSIM-capable, yes. Czech networks use standard European LTE bands (1, 3, 7, 8, 20) and 5G on n78 at 3500 MHz, which virtually all international flagships support. Verify your model on the [compatibility list](/compatibility/) before buying.
+
+### Do Czech Republic eSIMs include a local phone number?
+
+A carrier prepaid SIM or eSIM — Twist, Go Karta, Oskarta — comes with a real +420 number and calling credit. Travel eSIMs are almost always data-only, so bank codes and calls continue on your home SIM while data runs on the eSIM line.
 
 ### Activating your Czech Republic eSIM
 
 Run the four Czechia-specific patterns above — verification status, data line and roaming toggle, package activation, then location — and use [our complete troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/) for the full error catalogue. Order number, EID and a screenshot of the error speed up any support contact considerably.
 
-## The paper trail behind these Czech Republic eSIM numbers
+## Sources behind these Czech Republic eSIM numbers
 
 - **Ookla Speedtest Global Index** — [the Czechia country page](https://www.speedtest.net/global-index/czechia) is the origin of every national figure quoted above: 92.26 Mbps median mobile download, 160.54 Mbps median 5G, 19 ms latency, updated monthly.
 - **Cable.co.uk worldwide data pricing** — [the 237-market study](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) establishes the USD 3.12 per-gigabyte average, the neighbour comparison and the regional rankings.
@@ -372,7 +369,7 @@ Run the four Czechia-specific patterns above — verification status, data line 
 
 LTE and 5G NR bands follow FrequencyCheck's Czech Republic band table and the operators' own network documentation, and rail journey times follow published ČD, ÖBB and operator timetables. No figure on this page is our own measurement; each traces to a named public source, and real-world results vary by handset, band and local network load.
 
-## The Czech Republic eSIM carriers: Vodafone, T-Mobile and Prague Castle
+## The Czech Republic eSIM carriers: Vodafone, T-Mobile and O2
 
 One profile, three networks, zero kiosk queues: install at home, land connected, and let the eSIM pick the strongest Czech network wherever the day takes you — Prague square or South Bohemia back road. Start with the [free coverage test](/free-esim/), then [order your Czech Republic eSIM](/czech-republic-esim/) and apply code **WEB20** for 20 percent off your first plan.
 

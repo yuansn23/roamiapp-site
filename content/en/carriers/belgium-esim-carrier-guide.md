@@ -1,8 +1,8 @@
 ---
-title: "Belgium eSIM Carriers: Proximus, Telenet and Orange"
-description: "Belgium's three carriers tie in the cities. Roami compares Proximus, Orange and Telenet/BASE for your Belgium eSIM, and shows where the Ardennes breaks them."
-image: "img/esim/carriers/belgium-esim-carrier-guide.jpg"
-date: "2026-07-08T08:01:24+00:00"
+title: "5G Belgium eSIM | Proximus, Orange & Base Coverage"
+description: "Business or leisure in Belgium? Roami eSIM gives you prepaid 5G data on Proximus, Orange & Base networks, plus instant activation online."
+image: "img/esim/carriers/belgium-esim-carrier-guide.webp"
+date: "2026-09-27"
 keywords: Belgium eSIM carriers, Belgium eSIM operators, Proximus eSIM, Orange Belgium eSIM, Telenet eSIM, BASE eSIM, Belgium 5G coverage, Belgium eSIM APN, eSIM Belgium prepaid, best eSIM carrier Belgium
 site_name: Roami
 brand_name: Roami
@@ -14,10 +14,6 @@ breadcrumb_items:
 hero_badge: "Which Belgium carrier should you buy?"
 hero_subtitle_main: "Proximus, Orange Belgium and Telenet — what the latest network data actually shows"
 ---
-
-> **Which Belgium carrier should you buy?**
->
-> **Proximus, Orange Belgium and Telenet — what the latest network data actually shows**
 
 **The short answer:** Belgium is one of the easiest connectivity markets in Europe, and that is exactly why picking a Belgium eSIM carrier is less dramatic than the comparisons suggest. On Ookla's H1 2025 Speedtest data, Proximus is the fastest mobile network (median download 93.33 Mbps), Orange runs the fastest 5G (median 156.37 Mbps), and Telenet/BASE puts the most users on 5G (19.6% availability) — but the top three networks finish within about 13 Mbps of each other overall, and Ookla found no statistical difference between them for overall network quality. Downtown Brussels, Antwerp, Ghent or Bruges, any of the three will feel identical. Where the real decisions live: the Ardennes (the one region where coverage genuinely falls off), the EU quarter at 9am, the trains between cities, and the fact that Belgian prepaid SIMs require in-person ID registration, which most visitors are better off skipping entirely with a [Belgium travel eSIM](/belgium-esim/).
 
@@ -83,19 +79,19 @@ Ookla's city table is the strongest evidence that the urban argument is over. Th
 | Brussels | 96.28 Mbps | 17.65 Mbps | 37.34 ms | 91.3% | Orange |
 | Schaerbeek | 82.82 Mbps | 16.21 Mbps | 37.06 ms | 91.5% | No winner |
 
-Orange was the fastest provider in three of the ten cities — Antwerp, Ghent, Leuven and Brussels — and in the other six there was no winner at all. Note the bottom of the table as well: Schaerbeek, the slowest, still measured 82.82 Mbps. That number would be a national headline in most countries.
+Orange was the fastest provider in four of the ten cities — Antwerp, Ghent, Leuven and Brussels — and in the other six there was no winner at all. Note the bottom of the table as well: Schaerbeek, the slowest, still measured 82.82 Mbps. That number would be a national headline in most countries.
 
 ## The eSIM carriers: Proximus, Orange and Telenet
 
-The strongest evidence is Ookla's city table. Antwerp led Belgian cities with a median mobile download of 161.8 Mbps, Ghent followed at 147.66 Mbps and Bruges at 145.92 Mbps. Even the slowest major city, Schaerbeek, measured 82.82 Mbps — faster than the national median in most of the world. Orange was the fastest provider in four of the ten cities; in the rest, there was no winner at all.
+The strongest evidence is Ookla's city table, reproduced above. The spread itself — 161.8 Mbps in Antwerp at the top, 82.82 Mbps in Schaerbeek at the bottom — is the whole story: every major city is fast on every network, and even the slowest figure would be a national headline in most countries.
 
-Two numbers explain why this market feels so uniform. First, the overall speed spread between Proximus (93.33 Mbps), Orange (91.24 Mbps) and Telenet/BASE (80.54 Mbps) is about 13 Mbps — noticeable in a lab, invisible on a phone in a café. Second, even the best 5G availability in the country is just 19.6% (Telenet/BASE), so most of the time on any network you are on a very good 4G layer, not 5G. Belgium's regulator, [BIPT](https://www.bipt.be/), has published the same picture for years: three mature networks with nearly complete population coverage.
+Two numbers explain why this market feels so uniform. First, the overall speed spread between Proximus (93.33 Mbps), Orange (91.24 Mbps) and Telenet/BASE (80.54 Mbps) is about 13 Mbps — noticeable in a lab, invisible on a phone in a café. Second, even the best 5G availability in the country is just 19.6% (Telenet/BASE), so most of the time on any network you are on a very good 4G layer, not 5G. Belgium's regulator, [BIPT](https://www.bipt.be/), has published the same picture for years: whichever Belgium eSIM you load lands on one of three mature networks with nearly complete population coverage.
 
 The one place urban parity breaks down is congestion. Around the EU quarter and Schuman during weekday mornings, thousands of roamers and commuters pile onto the same cells; the same happens at Brussels Airport during arrival waves and on the Grand Place on summer evenings. If speeds dip there, switching networks rarely fixes it — the problem is the crowd, not the carrier.
 
 ## The network owners
 
-If you are choosing between the three rather than accepting whichever tower is nearest, this is where the measured differences land. Each entry covers what the network wins, how a visitor buys into it, what it costs, and what goes wrong.
+If you are choosing between the three rather than letting your Belgium eSIM grab the nearest tower, this is where the measured differences land. Each entry covers what the network wins, how a visitor buys into it, what it costs, and what goes wrong.
 
 ### Proximus vs Orange: which Belgium carrier is faster?
 
@@ -135,7 +131,7 @@ Telenet and BASE are the same group and the same network. This is the network th
 
 ## Best eSIM carrier for your trip: Proximus vs Orange
 
-The carrier question answers itself once you describe the trip. Read the last column first — that is where the money is lost.
+The Belgium eSIM carrier question answers itself once you describe the trip. Read the last column first — that is where the money is lost.
 
 | Trip type | Recommended carrier | The reason | Watch out for |
 |:---|:---|:---|:---|
@@ -154,7 +150,7 @@ Belgium's urban network is excellent; its southeast is the exception that proves
 
 The named places matter, because the pattern is not random. Bastogne, La Roche-en-Ardenne, Durbuy, Dinant and Spa all sit in towns with working coverage; the gaps appear on the roads and trails between them. The Ardennes is also the region where the three networks diverge most, which is the opposite of the cities: whichever operator has a mast in the valley you are standing in wins, and that changes from one village to the next.
 
-The practical rule for the Ardennes is the same as for any rural region: download offline maps before you leave Namur or Liège, and expect your phone to drop to 3G-speed 4G or no signal for stretches. If you are planning Dinant, Durbuy, La Roche or Bouillon, a travel eSIM that can re-select among Proximus, Orange and Telenet/BASE gives you the best odds, because the strongest carrier changes valley by valley.
+The practical rule for the Ardennes is the same as for any rural region: download offline maps before you leave Namur or Liège, and expect your phone to drop to 3G-speed 4G or no signal for stretches. If you are planning Dinant, Durbuy, La Roche or Bouillon, a Belgium eSIM that can re-select among Proximus, Orange and Telenet/BASE gives you the best odds, because the strongest carrier changes valley by valley.
 
 The trains are a different story. IC trains between Brussels, Antwerp, Ghent, Bruges and Liège run through continuously populated corridors, and data generally holds well enough for maps, messaging and even video calls on Proximus and Orange. The lines that degrade first are the slower regional routes through the Ardennes and along the coast beyond Knokke — again, distance from the cities, not carrier brand, is the variable.
 
@@ -166,7 +162,7 @@ The coastal tram is the other showcase. The Kusttram runs 67 km from Knokke to D
 
 Where signal does not fail but speed does is congestion, and it has a calendar. The EU quarter around Schuman fills with commuters and roamers on weekday mornings; the Grand Place fills with tour groups on summer evenings; Brussels Airport fills in arrival waves; the busiest coastal resorts fill on hot weekends. On every one of those occasions the cell is the bottleneck, not the carrier, and switching networks will not help.
 
-Two practical consequences follow. First, the apps that need data on a Belgian trip — STIB/MIVB for Brussels, De Lijn for Flanders, SNCB/NMBS for rail, plus Uber or Bolt for airport runs — all expect a live connection, and SNCB in particular issues tickets as in-app QR codes. Second, taking a taxi or ride-hailing app in a congested cell is the moment you notice a slow network most, because the driver is waiting on a map that will not load.
+Two practical consequences follow. First, the apps a Belgium eSIM has to keep alive — STIB/MIVB for Brussels, De Lijn for Flanders, SNCB/NMBS for rail, plus Uber or Bolt for airport runs — all expect a live connection, and SNCB in particular issues tickets as in-app QR codes. Second, taking a taxi or ride-hailing app in a congested cell is the moment you notice a slow network most, because the driver is waiting on a map that will not load.
 
 ## Belgium eSIM coverage: Proximus vs Orange
 
@@ -192,7 +188,7 @@ The rule that matters is about **where the SIM was issued, not where you are sta
 
 Two limits apply even inside the zone. RLAH is written for **periodic travel, not permanent residence**: if over a four-month window you spend more time and data abroad than at home, your operator may contact you and then apply a surcharge capped at the wholesale rate. And **Switzerland and the United Kingdom are not in the zone** — both sit outside the EU and EEA, so roaming there is an ordinary commercial matter.
 
-Travel eSIMs sit outside all of this. They are not EU-issued lines, so RLAH does not govern them; their terms come from whoever sold you the plan. What that means in practice: an EU-issued SIM needs no purchase at all for Belgium, a non-EU visitor's home plan usually needs an alternative, and a travel eSIM is that alternative rather than a beneficiary of the regulation. Full detail: [Roaming — Questions & Answers](https://digital-strategy.ec.europa.eu/en/roaming-questions-answers) from the European Commission.
+Travel eSIMs — a Belgium eSIM included — sit outside all of this. They are not EU-issued lines, so RLAH does not govern them; their terms come from whoever sold you the plan. What that means in practice: an EU-issued SIM needs no purchase at all for Belgium, a non-EU visitor's home plan usually needs an alternative, and a travel eSIM is that alternative rather than a beneficiary of the regulation. Full detail: [Roaming — Questions & Answers](https://digital-strategy.ec.europa.eu/en/roaming-questions-answers) from the European Commission.
 
 ## Can tourists buy a Belgium eSIM directly from the carriers?
 
@@ -200,7 +196,7 @@ This is the question that most changes the answer for short trips, and the hones
 
 Belgian law requires every prepaid SIM buyer to be identified — an anti-terrorism measure the carriers apply strictly. [BASE's own identification page](https://base.be/en/support/account-personal-data/your-personal-data/mandatory-identification-for-prepaid-sim-cards.html) states that as a telecom provider it is "legally required to identify you" when you buy a prepaid SIM card, with registration done via itsme (Belgium's national digital ID), a photo of your ID or international passport with a biometric selfie check in the My BASE app, or a card reader in shops. Of the three carriers, BASE/Telenet has the most digital-friendly route — a passport photo plus selfie can complete registration from abroad — but the flow is built around Belgian identity tools and is clunky for a two-day visitor.
 
-Proximus sells eSIMs primarily attached to a mobile subscription ordered through a MyProximus account, or as a QR code handed over in a Proximus shop; its Pay&Go prepaid is a shop product where staff register your passport. Orange Belgium's prepaid follows the same in-person pattern. In practice, buying direct means a store visit during opening hours — and Belgian carrier shops in city centers often close by 18:00 and on Sundays, while Brussels Airport's counters have limited hours. Arriving by Eurostar at Brussels-Midi, there is no SIM counter in the station at all.
+Proximus sells eSIMs primarily attached to a mobile subscription ordered through a MyProximus account, or as a QR code handed over in a Proximus shop; its Pay&Go prepaid is a shop product where staff register your passport. Orange Belgium's prepaid follows the same in-person pattern. In practice, buying a Belgium eSIM direct means a store visit during opening hours — and Belgian carrier shops in city centers often close by 18:00 and on Sundays, while Brussels Airport's counters have limited hours. Arriving by Eurostar at Brussels-Midi, there is no SIM counter in the station at all.
 
 ### How strict is SIM registration in Belgium?
 
@@ -245,7 +241,7 @@ For a normal visitor with a phone from the last five years, there is nothing to 
 
 Belgian operators deploy 4G on band 20 (800 MHz), band 3 (1800 MHz) and band 7 (2600 MHz), with 5G mainly on n78 (3500 MHz) alongside n1 and n28. An unlocked phone from the last five years will have all of them; the checklist is the same as anywhere in Europe.
 
-One Belgium-specific note: BIPT has confirmed the industry's timeline to switch off 2G — Orange, Proximus and Telenet/BASE will retire their 2G networks in 2028 and 2029. If you carry an old backup phone or a 2G-only tracker or alarm device, it will not survive long in Belgium. For everything modern, the only checks that matter are eSIM support and carrier lock; run your model through the [eSIM compatibility quiz](/compatibility/) and, if you want to understand what actually happens when a profile installs, our explainer on [how an eSIM profile installs](/faq/what-is-esim-activation-and-how-does-it-work/) covers the mechanics.
+One Belgium-specific note: BIPT has confirmed the industry's timeline to switch off 2G — Orange, Proximus and Telenet/BASE will retire their 2G networks in 2028 and 2029. If you carry an old backup phone or a 2G-only tracker or alarm device, it will not survive long in Belgium. For everything modern, the only checks that matter before buying a Belgium eSIM are handset support and carrier lock; run your model through the [eSIM compatibility quiz](/compatibility/) and, if you want to understand what actually happens when a profile installs, our explainer on [how an eSIM profile installs](/faq/what-is-esim-activation-and-how-does-it-work/) covers the mechanics.
 
 ## Belgium eSIM APN settings
 
@@ -266,13 +262,13 @@ On iPhone: Settings → Cellular → tap the eSIM line → Cellular Data Network
 
 ## Activating a Belgium eSIM and fixing the usual failures
 
-Install the profile at home on Wi-Fi, not in Brussels Airport's arrivals hall: screenshot the QR code, set the eSIM as your mobile-data line, and switch data roaming on for that line. The full sequence is in our [step-by-step activation guide](/faq/how-to-activate-an-esim/).
+Install your Belgium eSIM profile at home on Wi-Fi, not in Brussels Airport's arrivals hall: screenshot the QR code, set the eSIM as your mobile-data line, and switch data roaming on for that line. The full sequence is in our [step-by-step activation guide](/faq/how-to-activate-an-esim/).
 
 ### Getting a Belgium eSIM installed
 
 | # | Check | What "good" looks like |
 |:---|:---|:---|
-| 1 | Phone is not carrier-locked | "No SIM restrictions" appears in Settings -> General -> About -> Carrier Lock |
+| 1 | Phone is not carrier-locked | "No SIM restrictions" appears in Settings → General → About → Carrier Lock |
 | 2 | Phone supports eSIM | `*#06#` shows an EID, or the [compatibility tool](/compatibility/) confirms the model |
 | 3 | QR code and activation code saved | Screenshot stored on the phone and in cloud storage |
 | 4 | Profile installed before departure | Installed on home Wi-Fi; it connects when you land |
@@ -281,7 +277,7 @@ Install the profile at home on Wi-Fi, not in Brussels Airport's arrivals hall: s
 
 ### Which handsets take a Belgium eSIM?
 
-- **Travel eSIM:** a QR code or in-app install immediately after checkout; the profile roams onto whichever of Proximus, Orange or Telnet/BASE is strongest, and nothing else is required.
+- **Travel eSIM:** a QR code or in-app install immediately after checkout; the profile roams onto whichever of Proximus, Orange or Telenet/BASE is strongest, and nothing else is required.
 - **BASE:** registered in the My BASE app — the identification step comes first, then the line activates; there is no QR scan at a counter.
 - **Proximus:** the eSIM is issued against a MyProximus account or handed over as a QR code in a shop after passport registration.
 - **Orange Belgium:** the prepaid line is provisioned at the point of sale once identity is confirmed, so activation happens in front of staff rather than at home.
@@ -368,11 +364,11 @@ Yes. Identification is legally mandatory for prepaid SIMs in Belgium as an anti-
 
 ### Purchase options for Belgium eSIMs
 
-Only with a mobile subscription through a MyProximus account, which is built for residents — or in person at a Proximus shop. That is why virtually all travel eSIMs serving Belgium roam onto Belgian networks as a guest instead of registering you locally.
-
-### Local SIM vs travel eSIM: Belgium edition
-
 Carrier shops, supermarkets such as Carrefour, Delhaize and Colruyt, newsagents and night shops selling top-up vouchers, and petrol stations. Brussels Airport has Proximus, Orange and BASE counters, but they sell physical SIMs only — and there is no SIM counter at Brussels-Midi if you arrive by Eurostar.
+
+### Local SIM vs travel eSIM in Belgium
+
+Only with a mobile subscription through a MyProximus account, which is built for residents — or in person at a Proximus shop. That is why virtually all travel eSIMs serving Belgium roam onto Belgian networks as a guest instead of registering you locally.
 
 ### Proximus vs Orange: coverage compared
 
@@ -384,7 +380,7 @@ Not if it depends on 3G, because Belgium's 3G networks were switched off during 
 
 ### Which carrier reaches the most of Belgium?
 
-Coverage in stations and platforms is generally good on all three networks; tunnels have patchy spots. Above ground, the EU quarter's weekday congestion is a bigger speed factor than carrier choice.
+Effectively no. The three networks converge in the cities and differ mainly in the countryside, where whichever has a cell closer to you wins — and that changes from one village to the next.
 
 ### Where 5G works in Belgium
 
@@ -401,9 +397,9 @@ All three cover the coastal strip from De Panne to Knokke well, and the 67 km Ku
 
 Only a multi-country plan. A Belgium-only profile stops at the border, and cross-border trips are the norm here — Brussels to Lille is barely over an hour. If France, the Netherlands or Luxembourg are on the itinerary, pick a regional eSIM rather than two country plans.
 
-### Meet the Belgium networks
+### Is one Belgian network clearly better than the others?
 
-Effectively no. The three networks converge in the cities and differ mainly in the countryside, where whichever has a cell closer to you wins — and that changes from one village to the next.
+Not really. Coverage in stations and platforms is generally good on all three networks, tunnels have patchy spots on all three, and above ground the EU quarter's weekday congestion is a bigger speed factor than carrier choice.
 
 ## Where this guide's data comes from
 
@@ -418,7 +414,7 @@ Effectively no. The three networks converge in the cities and differ mainly in t
 
 None of the figures on this page are our own; each comes from a named public source. Your own speeds will vary with handset, location and congestion.
 
-## Sort your Belgium eSIM before the Eurostar boards
+## Get your Belgium eSIM ready before you fly
 
 One profile, no ID paperwork, and automatic switching across Proximus, Orange and Telenet/BASE — installed before you land at Brussels Airport or walk off the Eurostar.
 

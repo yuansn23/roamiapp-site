@@ -1,11 +1,11 @@
 ---
 
-title: "Vietnam eSIM Carriers: Viettel, Vinaphone, Mobifone"
+title: "Travel Vietnam eSIM | Viettel, Vinaphone & Mobifone"
 
-description: "Vietnam's 1,600 km decide your coverage. Roami compares Viettel, Vinaphone and Mobifone so your eSIM holds signal from Sapa to the Mekong."
-image: "img/esim/carriers/vietnam-esim-carrier-guide.jpg"
+description: "Explore Vietnam with Roami eSIM. Access fast prepaid data on Viettel, Vinaphone & Mobifone networks, perfect for tourists and digital nomads."
+image: "img/esim/carriers/vietnam-esim-carrier-guide.webp"
 
-date: "2026-09-24T22:18:00+00:00"
+date: "2026-09-18"
 
 keywords: Vietnam eSIM carriers, Viettel eSIM, Vinaphone eSIM, Mobifone eSIM, Vietnam 5G coverage, Vietnam SIM registration, tourist eSIM Vietnam, eSIM Vietnam prepaid, best eSIM carrier Vietnam
 
@@ -29,16 +29,6 @@ hero_subtitle_main: "Where Vietnam's networks differ: speed, coverage and the co
 
 ---
 
-
-
-> **Vietnam's mobile networks, rated for your trip**
-
->
-
-> **Viettel, Vinaphone and Mobifone, rated on 1H 2025 Speedtest Intelligence data**
-
-
-
 A Vietnam eSIM should follow your itinerary's shape — 1,600 km north to south — and this guide matches Viettel's provincial dominance and Vinaphone's 5G to the route you will run. Vietnam is a north–south country: more than 1,600 km from Sapa's border peaks to the Mekong Delta, with your itinerary almost certainly touching both ends. That shape decides your eSIM more than any brand loyalty. On Ookla's 1H 2025 Speedtest data, **Viettel** was the Best Mobile Network in the country with a median download of **165.03 Mbps** and a consistency score of **97.4%**, and it was the fastest provider in **59 of Vietnam's 63 provinces**. **Vinaphone** runs the fastest 5G network (median 5G download **594.16 Mbps**), while **Mobifone** posted the best mobile video experience (**74.46**). Since all three switched on commercial 5G between October 2024 and June 2025 — with coverage reaching **91.2% of the population** by December 2025 — the real question is not "is there 5G in Vietnam?" but "which carrier holds signal along the specific 1,600 km you are traveling?"
 
 
@@ -47,7 +37,7 @@ A Vietnam eSIM should follow your itinerary's shape — 1,600 km north to south 
 
 
 
-If you have never installed a profile — or your phone may not support one — this part is for you.Both gaps are covered elsewhere — the [phone compatibility list](/compatibility/) and the [activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/) — so this page can stay on the networks.
+If you have never installed a profile — or you are unsure whether your phone supports one — those two gaps are covered elsewhere: the [phone compatibility list](/compatibility/) and the [activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/). That leaves this page free to stay on the networks.
 
 
 
@@ -103,11 +93,11 @@ Viettel is the state-defence operator, and its advantage is geography rather tha
 
 - **Where it wins:** fastest provider in 59 of 63 regions and nine of the ten most populous cities, across the whole spine of the country — Lào Cai at 85.92 Mbps, Hà Giang at 85.88 Mbps and Cà Mau at 139.66 Mbps.
 
-- **5G:** first to launch commercial 5G, on 15 October 2024. By November 2025 it had built about 7,000 5G base stations across all 34 provinces and cities, with a target of more than 20,000 by the end of that year. It reports 12.6 million active 5G users, the largest 5G base in Vietnam.
+- **5G:** first to launch commercial 5G, on 15 October 2024, and its provincial build-out stays ahead of the other two carriers — the base-station and user numbers are detailed in the 5G section below.
 
 - **What goes wrong:** the strongest network still hands out the weakest 5G experience in the tourist package range — 50.4% 5G availability means roughly half your time on Viettel is spent on 4G, which in Vietnam is genuinely fast but not what the sticker promises.
 
-- **Scenario:** the Hà Giang loop. Hà Giang province measured 85.88 Mbps with Viettel as the fastest provider, which covers the towns and the main viewpoints on the loop. The extreme passes between Đồng Văn and Mèo Vạc are where the bars disappear, so download offline maps before you leave Hà Giang city.
+- **Scenario:** the Hà Giang loop. Hà Giang province measured 85.88 Mbps with Viettel as the fastest provider, which covers the towns and the main viewpoints on the loop. The high mountain passes between Đồng Văn and Mèo Vạc are where the bars disappear, so download offline maps before you leave Hà Giang city.
 
 
 
@@ -437,7 +427,7 @@ If you are on a travel eSIM, do not touch any of this: the profile carries its o
 
 
 
-## Activating a Vietnam eSIM without the drama
+## How to activate a Vietnam eSIM
 
 
 
@@ -461,7 +451,7 @@ Install the profile **before you fly**. Airport Wi-Fi in Hanoi and Ho Chi Minh C
 
 |:---|:---|:---|
 
-| 1 | Phone is not carrier-locked | Carrier Lock in Settings -> General -> About says "No SIM restrictions" |
+| 1 | Phone is not carrier-locked | Carrier Lock in Settings → General → About says "No SIM restrictions" |
 
 | 2 | Phone is eSIM-capable | `*#06#` returns an EID, or the [checker](/compatibility/) confirms your model |
 
@@ -675,7 +665,7 @@ Rail signal is good in the populated stretches and absent in the terrain between
 
 
 
-**The Hai Van Pass.** The 21 km pass climbs to 496 metres on National Route 1 between Da Nang and Hue, and since 2005 most traffic has bypassed it through the 6.28 km Hai Van Tunnel, which cuts 20 km and 30–60 minutes off the drive. Motorcycles are not permitted inside the tunnel, so a self-ride means the pass road — bends, grades, fog and exposure. On the rail side, the Da Nang–Hue leg takes about 2.5 to 3 hours and is the scenic highlight of the whole line, hugging cliffs above Lang Co Lagoon; heading north from Da Nang, the sea is on your right, and it reverses southbound. The pass road stays open year-round but is frequently fog-bound in rain, and the tunnel is the reliable option when visibility collapses. Coverage tracks the towns at either end rather than the ridge: the 6.28 km tunnel is a gap on every carrier, and the summit climb carries less signal than Da Nang or Hue.
+**The Hai Van Pass.** The 21 km pass climbs to 496 metres on National Route 1 between Da Nang and Hue, and since 2005 most traffic has bypassed it through the 6.28 km Hai Van Tunnel, which cuts 20 km and 30–60 minutes off the drive. Motorcycles are not permitted inside the tunnel, so anyone on two wheels takes the pass road, with its bends, gradients and fog. On the rail side, the Da Nang–Hue leg takes about 2.5 to 3 hours and is the scenic highlight of the whole line, hugging cliffs above Lang Co Lagoon; heading north from Da Nang, the sea is on your right, and it reverses southbound. The pass road stays open year-round but is frequently fog-bound in rain, and the tunnel is the reliable option when visibility collapses. Coverage tracks the towns at either end rather than the ridge: the 6.28 km tunnel is a gap on every carrier, and the summit climb carries less signal than Da Nang or Hue.
 
 
 
@@ -717,7 +707,7 @@ Two practical notes. First, Gojek left Vietnam in 2024, so guides that still lis
 
 
 
-Vietnam's local data is close to free, so the limit on a two-week trip is volume, not price. The arithmetic is simple: Viettel's tourist tiers all carry **5 GB per day**, so the 7-day 5G60T is 35 GB, the 15-day 5G80T is 75 GB, and the 30-day 5G150T is 150 GB. Cable.co.uk prices Vietnamese mobile data at about **USD 0.29 per gigabyte**, 21st cheapest of 237 markets, against a USD 2.59 world average.
+Vietnam's local data is close to free, so the limit on a two-week trip is volume, not price. The arithmetic is simple: Viettel's tourist tiers all carry **5 GB per day**, so the 7-day 5G60T is 35 GB, the 15-day 5G80T is 75 GB, and the 30-day 5G150T is 150 GB. At Cable.co.uk's USD 0.29 per gigabyte, Vietnamese mobile data is among the cheapest in the world — the full pricing comparison is earlier in this guide.
 
 
 
@@ -799,7 +789,7 @@ Three planning points sit on top of that table. First, **overland versus by air 
 
 
 
-## Vietnam load events: Tet, typhoons and network strain
+## Tet, typhoons and network strain in Vietnam
 
 
 
@@ -863,7 +853,7 @@ Through resellers, yes — many sell Viettel-network tourist eSIMs that arrive b
 
 
 
-Usually not — most travel eSIMs are data-only, so SMS verification codes (Grab, banking, hotels) go to your home number over your physical SIM, if roaming is enabled there for SMS. A carrier-bought Viettel or Vinaphone tourist eSIM does include a Vietnamese number. Keep your home SIM active for calls and codes, put data on the eSIM, and switch off data roaming on the home line to avoid surprise charges.
+A carrier-locked phone will install the eSIM but won't connect — unlock it with your home carrier first. Mainland-China iPhone models have eSIM disabled in hardware and cannot use any eSIM; a physical Vietnamese SIM is the only option there. Vietnam's carriers have fully shut down 2G and 3G, so the phone also needs VoLTE support to make calls.
 
 
 
@@ -887,7 +877,7 @@ HCMC recorded the slowest median mobile speed (117.89 Mbps) of Vietnam's major c
 
 
 
-Almost never on a travel eSIM — provisioning is automatic. If you bought directly from a carrier and have signal but no data, Viettel uses `v-internet` (blank credentials), Vinaphone uses `m3-world`, and Mobifone uses `m-wap` (both mms/mms). Full table above.
+Manual entry is almost never needed on a travel eSIM — provisioning is automatic. If you bought directly from a carrier and have signal but no data, Viettel uses `v-internet` (blank credentials), Vinaphone uses `m3-world`, and Mobifone uses `m-wap` (both mms/mms). Full table above.
 
 
 
@@ -903,7 +893,7 @@ In the towns and main viewpoints, yes — Lào Cai province recorded a median 85
 
 
 
-A carrier-locked phone will install the eSIM but won't connect — unlock it with your home carrier first. Mainland-China iPhone models have eSIM disabled in hardware and cannot use any eSIM; a physical Vietnamese SIM is the only option there. Vietnam's carriers have fully shut down 2G and 3G, so the phone also needs VoLTE support to make calls.
+SMS verification is usually not an issue — most travel eSIMs are data-only, so SMS verification codes (Grab, banking, hotels) go to your home number over your physical SIM, if roaming is enabled there for SMS. A carrier-bought Viettel or Vinaphone tourist eSIM does include a Vietnamese number. Keep your home SIM active for calls and codes, put data on the eSIM, and switch off data roaming on the home line to avoid surprise charges.
 
 
 
@@ -957,7 +947,7 @@ Every network figure on this page is third-party and publicly available. Your ex
 
 
 
-## From Noi Bai to the Mekong: connected on a Vietnam eSIM
+## Get your Vietnam eSIM ready before you fly
 
 
 
@@ -977,5 +967,5 @@ Roami's Vietnam eSIM links to Viettel, Vinaphone and Mobifone, switching network
 
 
 
-Either way, set it up before departure: check your phone against the [compatibility checker](/compatibility/), try the Roami [free trial eSIM](/free-esim/), and apply **WEB20** at checkout should you move up to a full Roami plan for Vietnam.
+Either way, set it up before departure: check your phone against the [handset compatibility checker](/compatibility/), try the Roami [free trial eSIM](/free-esim/), and apply **WEB20** at checkout should you move up to a full Roami plan for Vietnam.
 

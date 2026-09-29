@@ -1,11 +1,11 @@
 ---
 
-title: "Bulgaria eSIM Carriers: A1, Yettel and Vivacom prices"
+title: "Prepaid Bulgaria eSIM | A1, Vivacom & Yettel Coverage"
 
-description: "Roami compares A1, Yettel and Vivacom prices for a Bulgaria eSIM, in euros, with the coverage quirks of coast, plain and mountain."
-image: "img/esim/carriers/bulgaria-esim-carrier-guide.jpg"
+description: "Experience Bulgaria with Roami eSIM. Get prepaid mobile data on A1, Vivacom & Yettel networks, including 5G speeds and simple online setup."
+image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
-date: "2026-07-10T01:44:30+00:00"
+date: "2026-09-26"
 
 keywords: Bulgaria eSIM, hotspot tethering, A1 Bulgaria, Yettel, Vivacom, travel eSIM, no roaming fees, Sofia connectivity, Alexander Nevsky Cathedral, seamless data
 
@@ -29,19 +29,11 @@ hero_subtitle_main: "A1, Yettel and Vivacom prices — what the latest network d
 
 ---
 
-> **Bulgaria eSIM: the carrier field guide**
-
->
-
-> **A1, Yettel and Vivacom, priced in euros since January 2026**
-
-
-
 Few destinations split the "best network" question by geography as sharply as Bulgaria. The national numbers are startling on paper: a median mobile download of **203.13 Mbps**, 10th fastest in the world on Ookla's Speedtest Global Index for August 2026, and a median 5G download of 282.70 Mbps, ranked 11th globally. Local prepaid data has been sold in euros since 1 January 2026, in quantities most western European carriers would call lavish: 15 GB for under €8, and 100 GB for around €41. So which Bulgaria eSIM carrier should you buy? The answer depends almost entirely on your map. Sofia and Plovdiv, the Black Sea coast at Varna and Burgas, and the ski slopes above Bansko behave like three different countries. This guide compares the three carriers, the published visitor prices, mountain and coastal coverage, cross-border rules and every activation step. Between our own test lines and the questions travelers send us, the Bulgaria quirks worth knowing are all covered below — including the ones carriers would rather skip.
 
 
 
-**Quick answer:** Purchase before departure, install before you land, and choose the local networks or the local networks based on whether your route is rural or urban — the full comparison below shows which is which. The [compatibility checker](/compatibility/) settles the one question Bulgaria visitors most often skip.
+**Quick answer:** Purchase before departure, install before you land, and choose the local network that matches whether your route is rural or urban — the full comparison below shows which is which. The [compatibility checker](/compatibility/) settles the one question Bulgaria visitors most often skip.
 
 
 
@@ -49,7 +41,7 @@ One prerequisite worth ten seconds of your time: confirm your handset is eSIM-ca
 
 
 
-**The verdict up front:** The A1 Bulgaria eSIM is the speed pick — fastest in the nPerf 2025 barometer and the strongest bet in Sofia, Plovdiv and the ski valleys. The Yettel eSIM is the only fully online prepaid product with no ID registration — 25 GB for €10.23 or 100 GB for €40.90. The Vivacom eSIM, issued in stores, is the coverage workhorse with the largest EU roaming allowance, which matters if your trip leans toward the Rhodopes or a wider Balkans loop. All three are cheap by EU standards, and the differences are terrain, roaming and paperwork rather than price. Prefer zero paperwork? [free trial plan](/free-esim/) rides these same networks, and code **WEB20** knocks 20% off any [Bulgaria eSIM plan](/bulgaria-esim/).
+**The verdict up front:** The A1 Bulgaria eSIM is the speed pick — fastest in the nPerf 2025 barometer and the strongest bet in Sofia, Plovdiv and the ski valleys. The Yettel eSIM is the only fully online prepaid product with no ID registration — 25 GB for €10.23 or 100 GB for €40.90. The Vivacom eSIM, issued in stores, is the coverage workhorse with the largest EU roaming allowance, which matters if your trip leans toward the Rhodopes or a wider Balkans loop. All three are cheap by EU standards, and the differences are terrain, roaming and paperwork rather than price. Prefer zero paperwork? A [free trial plan](/free-esim/) rides these same networks, and code **WEB20** knocks 20% off any [Bulgaria eSIM plan](/bulgaria-esim/).
 
 
 
@@ -331,7 +323,7 @@ Whether a Bulgaria eSIM runs on your handset comes down to three checks: its ban
 
 
 
-Do not memorize band tables; the reliable move is to check your exact model — the model number, not the marketing name — against [device compatibility list](/compatibility/). Ten minutes of checking beats debugging a dead profile in a Rila valley where the nearest store is 40 km away.
+Do not memorize band tables; the reliable move is to check your exact model — the model number, not the marketing name — against the [device compatibility list](/compatibility/). Ten minutes of checking beats debugging a dead profile in a Rila valley where the nearest store is 40 km away.
 
 
 
@@ -599,7 +591,7 @@ The generic install — Settings, Add eSIM, scan the QR code, label the line, se
 
 
 
-If none of these land it, the wider catalogue in [troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/) covers profile corruption, transfer limits and error codes.
+If none of these land it, the wider catalogue in the [troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/) covers profile corruption, transfer limits and error codes.
 
 
 
@@ -687,7 +679,7 @@ Yes, issued in Vivacom stores against a QR code, on the same Free2Go and Data2Go
 
 
 
-Less than almost anywhere in the EU. Local prepaid packs run from about €7.67 for 15 GB to €12.78 for 30 GB, so a Bulgaria eSIM at an effective 10 GB sits somewhere near €5–8. Travel eSIMs price the country from roughly €10–17 for 10 GB, trading a few euros for instant delivery and multi-network switching.
+Less than almost anywhere in the EU. Local prepaid packs run from about €7.67 for 15 GB to €12.78 for 30 GB, so a local eSIM works out somewhere near €5–8 for an effective 10 GB. Travel eSIMs price the country from roughly €10–17 for 10 GB, trading a few euros for instant delivery and multi-network switching.
 
 
 
@@ -727,7 +719,7 @@ Dial `*123#` and press call — the response shows the remaining allowance and e
 
 
 
-Yes. Even though you are physically in Bulgaria, most local eSIMs register as roaming lines, and both iOS and Android block data unless roaming is enabled for that specific line. Turn roaming on only for the eSIM, and leave it off for your home SIM to avoid surprise charges.
+Data roaming still needs to be on. Even though you are physically in Bulgaria, most local eSIMs register as roaming lines, and both iOS and Android block data unless roaming is enabled for that specific line. Turn roaming on only for the eSIM, and leave it off for your home SIM to avoid surprise charges.
 
 
 
@@ -753,13 +745,13 @@ Every statistic here is a dated third-party or operator-published figure, not a 
 
 
 
-## Lock in your Bulgaria eSIM before departure
+## Get your Bulgaria eSIM ready before you fly
 
 
 
-Bulgaria rewards the prepared: the networks are fast, the prices are among the lowest in the EU, and the only real variable is terrain. Set up a profile that follows you from Sofia's yellow cobblestones to a February morning in Bansko without a second purchase — [Roami's Bulgaria eSIM](/bulgaria-esim/) switches across A1, Yettel and Vivacom automatically. New customers can [free pilot eSIM](/free-esim/), and code **WEB20** knocks 20% off your first plan.
+Bulgaria rewards the prepared: the networks are fast, the prices are among the lowest in the EU, and the only real variable is terrain. Set up a profile that follows you from Sofia's yellow cobblestones to a February morning in Bansko without a second purchase — [Roami's Bulgaria eSIM](/bulgaria-esim/) switches across A1, Yettel and Vivacom automatically. New customers can claim a [free pilot eSIM](/free-esim/), and code **WEB20** knocks 20% off your first plan.
 
 
 
-The practical play: test first with Roami's [free pilot eSIM](/free-esim/) — it uses the same infrastructure as the local networks — then lock in a paid Roami plan with code **WEB20** for 20% off if Bulgaria becomes a regular destination.
+The practical play: test first with Roami's [free pilot eSIM](/free-esim/) — it uses the same infrastructure as the local networks — then lock in a paid Roami data plan with code **WEB20** for 20% off if Bulgaria becomes a regular destination.
 

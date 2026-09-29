@@ -1,8 +1,8 @@
 ---
-title: "AIS, TrueMove H or dtac: Which Thailand eSIM Carrier?"
-description: "Roami compares AIS, TrueMove H and dtac on Ookla 1H 2025 speed data, NBTC passport rules and island coverage for your Thailand eSIM."
-image: "img/esim/carriers/thailand-esim-carrier-guide.jpg"
-date: "2026-09-16T04:25:29+00:00"
+title: "Travel Thailand eSIM | AIS, TrueMove & dtac Coverage"
+description: "Travel Thailand with Roami eSIM. Enjoy fast prepaid data on AIS, TrueMove & dtac networks, perfect for tourists and digital nomads."
+image: "img/esim/carriers/thailand-esim-carrier-guide.webp"
+date: "2026-09-19"
 keywords: Thailand eSIM carriers, AIS eSIM, TrueMove H eSIM, dtac eSIM, Thailand 5G coverage, Thailand eSIM APN, eSIM Thailand prepaid, best eSIM carrier Thailand
 site_name: Roami
 brand_name: Roami
@@ -15,13 +15,9 @@ hero_badge: "Thailand eSIM: which network wins where?"
 hero_subtitle_main: "Three networks, one decision, and the data to make it"
 ---
 
-> **Thailand eSIM: which network wins where?**
->
-> **Three networks, one decision, and the data to make it**
+A Thailand eSIM is only as good as the network behind it, and the gap between Thailand's three national networks widens the further you travel from Bangkok. On Ookla's 1H 2025 Thailand report, **AIS** was the Best Mobile Network overall and the Best 5G Network, with a Speedtest Connectivity Score of **76.05**. **TrueMove H** posted the highest 5G Availability at **74.2%**. **dtac** trails on raw speed but still delivers a Consistency Score of **92.5%**. Which one fits therefore depends on your itinerary: the city-and-coast circuit, or the hills and the smaller Gulf islands. Marketing and reality sometimes diverge in Thailand; when they do, we say so, and the registration section carries the fine print that bites.
 
-Thailand's three national networks are not interchangeable, and the gap between them widens the further you travel from Bangkok. On Ookla's 1H 2025 Thailand report, **AIS** was the Best Mobile Network overall and the Best 5G Network, with a Speedtest Connectivity Score of **76.05**. **TrueMove H** posted the highest 5G Availability at **74.2%**. **dtac** trails on raw speed but still delivers a Consistency Score of **92.5%**. Which one fits therefore depends on your itinerary: the city-and-coast circuit, or the hills and the smaller Gulf islands. Marketing and reality sometimes diverge in Thailand; when they do, we say so, and the registration section carries the fine print that bites.
-
-Device support varies, and a first profile install is unfamiliar territory for most travelers.Both gaps are covered elsewhere — the [eSIM compatibility page](/compatibility/) and the [activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/) — so this page can stay on the networks.
+Device support varies, and a first profile install is unfamiliar territory for most travelers. Both gaps are covered elsewhere — the [eSIM compatibility page](/compatibility/) and the [activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/) — so this page can stay on the networks.
 
 **If you read nothing else:** Staying in Bangkok, Phuket or Chiang Mai? AIS is the most awarded network and TrueMove H holds 5G most often. Heading to the islands or the northern mountains? AIS has the strongest rural and island reputation. Want to buy straight from a Thai carrier as a visitor? You can, but NBTC rules mean a passport plus a live facial scan at the counter. Or skip the paperwork: [free trial eSIM](/free-esim/) tests the networks at no cost; apply code **WEB20** for 20% off [Thailand prepaid eSIM plans](/thailand-esim/).
 
@@ -38,7 +34,7 @@ Device support varies, and a first profile install is unfamiliar territory for m
 
 **The row that decides your trip is the last one:** all three networks sell tourist eSIMs, but a physical SIM bought in Thailand forces you through NBTC registration with a passport and a live facial scan. The eSIM routes that skip the counter are the ones sold online before you fly, and they land you on the same AIS, TrueMove H or dtac towers.
 
-### NT and the reseller layer riding AIS or TrueMove H
+### NT and the reseller brands on AIS and TrueMove H
 
 Beyond the big three, Thailand keeps a state-owned fourth network and a tier of mobile virtual brands that rent capacity from AIS or True. They rarely undercut the majors, but they explain why some listings show unfamiliar names sitting on familiar towers.
 
@@ -68,7 +64,7 @@ A multi-network eSIM profile is the practical middle path: [Roami's Thailand eSI
 
 Three things decide whether your phone works on a Thai carrier: its bands, its lock status, and a short list of device-specific quirks. All three are covered below.
 
-### Can Android devices use Thailand eSIMs?
+### Do international phones support Thai network bands?
 
 Thai carriers build their 5G on specific bands — notably **n28 (700 MHz)** for rural reach, **n41 (2600 MHz)** and **n78 (3500 MHz)** for city capacity, plus **n1** and **n3** in metro areas. Plenty of international handsets, including several iPhone regional variants, ship without the full Thai mid-band stack. Those phones still work: they fall back to 4G once you leave dense urban areas, which is fine downtown and frustrating on a quiet island.
 
@@ -81,7 +77,7 @@ Band charts rarely help a traveler in practice. The dependable step is to match 
 
 A phone with n28 and n41 covers the Thai mid-band stack that carries most 5G capacity; missing those bands means more fallback to 4G.
 
-### Is your phone compatible with Thailand networks?
+### What if your phone is carrier-locked?
 A locked phone is the most common reason a Thailand eSIM install simply fails, and Thailand has no rule forcing carriers to unlock devices for you.
 
 Thailand does not require carriers to unlock a phone after a set period, so the unlock depends entirely on the policies of your home carrier. If the device is paid off, most home carriers will clear it within hours, often for free; if it is still on a payment plan, the lock stays until the balance is settled.
@@ -92,7 +88,7 @@ Thailand does not require carriers to unlock a phone after a set period, so the 
 
 If you bought a used phone, or a phone from a carrier you no longer use, assume it may be locked and check before you fly.
 
-### IMEI/EID requirements in Thailand
+### Which device quirks affect a Thailand eSIM?
 
 | Device | Symptom | What to do |
 |:---|:---|:---|
@@ -105,7 +101,7 @@ If these do not match your situation, the cause is on the phone side rather than
 
 ## Comparing Plan Value
 
-Three routes exist, and they differ more in paperwork than in price: AIS direct, TrueMove H direct, and dtac inside the True Group. Each route, step by step:
+Three Thailand eSIM routes exist, and they differ more in paperwork than in price: AIS direct, TrueMove H direct, and dtac inside the True Group. Each route, step by step:
 
 ### Getting hold of a Thailand eSIM
 
@@ -126,7 +122,7 @@ TrueMove H is the consumer brand inside True Corporation, and it sells tourist e
 
 TrueMove H's edge is 5G availability: Ookla measured the highest 5G Availability in Thailand at **74.2%** for TrueMove H in 1H 2025. Its tourist tiers mirror AIS pricing, with an 8-day 15 GB package around 299 to 449 THB and 30-day unlimited packages near 1199 THB. The in-store rule is identical: passport plus facial scan, then instant activation.
 
-### Thailand local SIM and travel eSIM compared
+### Does dtac still sell its own tourist eSIM?
 
 Yes. dtac merged with True in March 2023 to form True Corporation, and dtac still operates as its own consumer brand with its own tourist eSIM and SIM products. The two networks finished integrating their towers into a single "One Network" in October 2025, so a dtac eSIM now also benefits from the combined infrastructure.
 
@@ -144,7 +140,7 @@ These are the standard airport and official-channel tourist tiers. Prices vary b
 
 Every tourist tier rides one carrier's network and throttles after a fair-use cap rather than cutting off, so match the allowance to your streaming and map use.
 
-### Thailand eSIM data plans and rates
+### What to prepare before buying a Thailand eSIM
 
 - **Passport** — required by NBTC for any in-store SIM or eSIM registration; foreign visitors must show the original document
 - **A Thai address or hotel name** — requested on some carrier registration forms, even for tourists
@@ -200,9 +196,9 @@ Thai coverage tracks the tourist map rather than the administrative one: solid a
 | Isaan and the rural northeast | Towns are covered, the countryside between them is not continuous. AIS has the widest footprint; dtac is weaker here. |
 | Mekong border provinces | Covered in town, but signal from Laos can appear on your phone and confuse network selection. Lock to a Thai carrier manually. |
 
-Planning a route that leaves Thailand? Start with [eSIM for Vietnam](/vietnam-esim/), compare [Cambodia eSIM plans](/cambodia-esim/), or look at [Malaysia eSIM plans](/malaysia-esim/). If your itinerary crosses borders more than once, a [Asia](/asia-esim/) saves you buying twice.
+Planning a route that leaves Thailand? Start with [eSIM for Vietnam](/vietnam-esim/), compare [Cambodia eSIM plans](/cambodia-esim/), or look at [Malaysia eSIM plans](/malaysia-esim/). If your itinerary crosses borders more than once, an [Asia](/asia-esim/) plan saves you buying twice.
 
-The point of a multi network profile is exactly this automatic switching. A profile that can move between AIS and TrueMove H covers the regional gaps that any single-carrier plan cannot.
+The point of a multi-network profile is exactly this automatic switching. A profile that can move between AIS and TrueMove H covers the regional gaps that any single-carrier plan cannot.
 
 ## Manual APN values
 
@@ -220,7 +216,7 @@ You will only need these if you bought a SIM or eSIM **directly from a Thai carr
 
 Leave username and password empty. Where an operator asks for a value, the profile documentation carries it.
 
-### APN table for Thailand carriers
+### When to enter a Thailand APN manually
 
 AIS, TrueMove H and dtac tourist profiles normally arrive preconfigured, so manual entry is a troubleshooting move rather than a setup step. Reach for it when:
 
@@ -229,13 +225,13 @@ AIS, TrueMove H and dtac tourist profiles normally arrive preconfigured, so manu
 - A carrier-issued prepaid eSIM where automatic configuration did not run
 - Almost never on a travel eSIM — that is the point of a managed profile
 
-### Manual Thailand APN entry: when and why
+### How to enter a Thailand APN manually
 - **iPhone:** Settings → Cellular → tap the eSIM line → Cellular Data Network → enter the APN
 - **Android:** Settings → Connections → Mobile Networks → Access Point Names → add a new APN
 
 After saving, restart the phone. If data still will not load, check that the active data line is the Thai profile and not your home SIM.
 
-## From purchase to working data: your eSIM walkthrough
+## How to get your Thailand eSIM working
 
 Work through this section once: clean install to working data, plus the failure patterns Thai networks actually produce, in the order you'll meet them.
 
@@ -248,7 +244,7 @@ Work through this section once: clean install to working data, plus the failure 
 | 4 | Profile installed before departure | Install on Wi-Fi at home; the profile connects when you land |
 | 5 | Data line and roaming set | eSIM selected for mobile data, data roaming on |
 
-Do step 4 at home. Suvarnabhumi and Don Mueang arrivals halls have congested Wi-Fi exactly when you need it most, and a profile you install on the ground competes with everyone else's.
+Do step 4 at home. Suvarnabhumi and Don Mueang arrivals halls have congested Wi-Fi exactly when you need it most, and a Thailand eSIM you install on the ground competes with everyone else's.
 
 ### Activating your Thailand eSIM
 
@@ -259,7 +255,7 @@ The universal part of the install — scan the code, label the line, switch roam
 - **dtac:** eSIM under the True Group; benefits from the combined One Network since October 2025
 - **Travel eSIMs:** install by QR code, and the same profile can roam onto whichever of AIS, TrueMove H or dtac is strongest
 
-### A four-step Thailand eSIM troubleshooting pass
+### Thailand eSIM troubleshooting in four steps
 
 General activation errors — a profile that will not download, a scan that fails, an eSIM that installs but never registers — are covered in our [eSIM error troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). Four patterns are worth naming upfront, because they keep resurfacing in Thailand.
 
@@ -296,17 +292,17 @@ General activation errors — a profile that will not download, a scan that fail
 | Data roaming status | Settings → Cellular → your eSIM line |
 | Steps already tried | Keep a short list |
 
-## Common Your Thailand carrier eSIMs: common questions
+## Common questions about Thailand carrier eSIMs
 
 ### AIS eSIM plans for visitors
 
-Yes. AIS sells tourist eSIMs online and at AIS shops and airport counters. Online eSIMs arrive by QR code with no in-person step; in-store SIMs require your passport and a live facial scan under NBTC rules. AIS tourist tiers start around 299 THB for 8 days and 15 GB.
+AIS sells tourist eSIMs online and at AIS shops and airport counters. Online eSIMs arrive by QR code with no in-person step; in-store SIMs require your passport and a live facial scan under NBTC rules. AIS tourist tiers start around 299 THB for 8 days and 15 GB.
 
 ### What does registering a Thailand SIM involve?
 
-For an in-store SIM or eSIM, yes — NBTC requires passport registration plus a live facial scan for every new line. If you buy a TrueMove H eSIM online before you fly, the registration is handled by the seller and you skip the counter queue.
+For an in-store SIM or eSIM, NBTC requires passport registration plus a live facial scan for every new line. If you buy a TrueMove H eSIM online before you fly, the registration is handled by the seller and you skip the counter queue.
 
-### AIS vs TrueMove H: which is better in Thailand?
+### Is dtac still a separate network from True?
 
 Yes. dtac merged with True in March 2023 to form True Corporation, but dtac still sells its own tourist SIM and eSIM products under the dtac brand. The two networks completed tower integration into a single One Network in October 2025, so dtac eSIMs now ride the combined infrastructure.
 
@@ -314,13 +310,13 @@ Yes. dtac merged with True in March 2023 to form True Corporation, but dtac stil
 
 AIS has the strongest reputation on the smaller Gulf islands such as Koh Tao and the quieter parts of Koh Samui and Koh Phi Phi. TrueMove H and dtac cover the main resort strips well but thin out as you move between islands or onto boat crossings.
 
-### Thailand eSIM trouble devices
+### Do you need a Thai number for your eSIM?
 
 No. eSIMs for travelers are usually data-only and do not require a local number. You can use WhatsApp, LINE, FaceTime and similar apps for calls and messages. You only need a Thai number if a specific bank app, hotel booking or delivery service demands one.
 
 ### Can I use a travel eSIM and my home SIM at the same time?
 
-Yes, and it is a sensible setup. The usual split works well in Thailand: home number on the physical SIM, data on the local profile. Point the data setting at the Thai profile and leave your home line for calls. Turn roaming off on the home line so background traffic never reaches your bill.
+Yes, and it is a sensible setup. The usual split works well in Thailand: home number on the physical SIM, data on the local profile. Point the data setting at the Thai profile and leave your home line for calls. Turn roaming off on the home line so background traffic never reaches your bill. If a laptop is coming too, check the plan's hotspot terms before counting on tethering.
 
 ### How do I get my locked phone working in Thailand?
 
@@ -360,7 +356,7 @@ These are third-party measurements only. Real-world results shift with your hand
 
 ## Sort out your Thailand eSIM in a minute
 
-Be reachable from Suvarnabhumi onward. Roami moves your data between AIS, TrueMove H and dtac without you touching a setting, and the city-to-island switch is automatic. New here? Take a [free eSIM trial](/free-esim/) first, or use code **WEB20** for 20% off a [Thailand eSIM plan](/thailand-esim/).
+Be reachable from Suvarnabhumi onward. Roami's Thailand eSIM moves your data between AIS, TrueMove H and dtac without you touching a setting, and the city-to-island switch is automatic. New here? Take a [free eSIM trial](/free-esim/) first, or use code **WEB20** for 20% off a [Thailand eSIM plan](/thailand-esim/).
 
 [Buy the Thailand eSIM plan](/thailand-esim/)
 

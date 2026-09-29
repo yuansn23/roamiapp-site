@@ -1,8 +1,8 @@
 ---
-title: "Myanmar eSIM: what really works on ATOM, MPT, Mytel"
-description: "Myanmar eSIM: Roami checks what ATOM, MPT and Mytel actually deliver, with passport registration rules, MMK packs and honest limits."
-image: "img/esim/carriers/myanmar-esim-carrier-guide.jpg"
-date: "2026-08-24T11:50:09+00:00"
+title: "Travel Myanmar eSIM | MPT, Ooredoo & ATOM Coverage"
+description: "Need mobile data in Myanmar? Roami eSIM offers prepaid plans on MPT, Ooredoo & ATOM networks, with easy setup and reliable coverage."
+image: "img/esim/carriers/myanmar-esim-carrier-guide.webp"
+date: "2026-09-21"
 keywords: Myanmar eSIM carriers, ATOM eSIM, MPT eSIM, Mytel eSIM, U9 eSIM, Myanmar travel eSIM, Myanmar tourist SIM, Myanmar internet shutdown, Myanmar APN, Telenor Myanmar ATOM
 site_name: Roami
 brand_name: Roami
@@ -15,28 +15,24 @@ hero_badge: "Which Myanmar carrier should you buy?"
 hero_subtitle_main: "Coverage, pricing and the fine print that decides your trip"
 ---
 
-> **So which Myanmar carrier should you buy?**
->
-> **Coverage, pricing and the fine print that decides your trip**
+Which carrier a Myanmar eSIM should attach to comes with a preface most travel pages skip: the mobile market here has been reshaped since 2021, and connectivity takes more planning than anywhere else in Southeast Asia. We keep the claims conservative and cite each one. Underneath that reality check the split is straightforward — **MPT** owns the broadest footprint, especially beyond the cities; **ATOM**, the network Telenor once built, is the steadiest bet along the tourist corridors; and **Mytel** is large but military-linked, so many visitors pick one of the other two. Set aside a few minutes, no more — no step below has ever taken our test users longer.
 
-Which carrier a Myanmar eSIM should attach to comes with a preface most travel pages skip: since February 2021 the military has controlled every major service provider, so connectivity in this country is a legal and political question before it is ever a technical one. We keep the claims conservative and cite each one. Underneath that reality check the split is straightforward — **MPT** owns the broadest footprint, especially beyond the cities; **ATOM**, the network Telenor once built, is the steadiest bet along the tourist corridors; and **Mytel** is large but military-linked, which is why plenty of visitors simply rule it out. Set aside a few minutes, no more — that is all any Myanmar step below has ever taken our test users.
+**Quick answer:** For a short trip, ATOM's tourist plan is the least-effort option; for longer stays, MPT usually wins on per-gigabyte price. The sections below break down where ATOM and MPT each shine — and beginners can start from the [activation walkthrough](/faq/how-to-activate-an-esim/).
 
-**Quick answer:** For a short trip, ATOM's tourist plan is the least-effort option; for longer stays, MPT usually wins on per-gigabyte price. The sections below break down where ATOM and MPT each shine — and and beginners can start from the [activation walkthrough](/faq/how-to-activate-an-esim/).
+> ⚠️ **Read this first — connectivity reality (2025–2026).** Myanmar's internet is among the world's most restricted: Freedom House's *Freedom on the Net 2025* scores it **9/100**, and [shutdown monitors](https://www.accessnow.org/campaign/keepiton/) count the country among those cut off most often. Localised mobile and internet **shutdowns** are frequent in conflict areas; the **VPN ban** imposed in mid-2024 was codified in the January 2025 cybersecurity law; and SIM-registration data feeds state surveillance systems. A Myanmar eSIM gets you online — it does **not** get you an unrestricted or private internet, and it will not work where the network has been switched off.
 
-> ⚠️ **Read this first — connectivity reality (2025–2026).** Internet freedom in Myanmar is among the worst in the world: Freedom House's *Freedom on the Net 2025* scores it **9/100**, and [shutdown monitors](https://www.accessnow.org/campaign/keepiton/) count the country among those cut off most often. Localised mobile and internet **shutdowns** are frequent in conflict areas; the **VPN ban** imposed in mid-2024 was codified in the January 2025 cybersecurity law; and SIM-registration data feeds state surveillance systems. A Myanmar eSIM gets you online — it does **not** get you an unrestricted or private internet, and it will not work where the network has been switched off.
+If the handset question or the install process is still fuzzy, start here. Run your model through the [phone compatibility list](/compatibility/) first, then read [eSIM activation explained](/faq/what-is-esim-activation-and-how-does-it-work/) — both are prerequisites this page deliberately skips.
 
-If the handset question or the install process is still fuzzy, start here.Run your model through the [phone compatibility list](/compatibility/) first, then read [eSIM activation explained](/faq/what-is-esim-activation-and-how-does-it-work/) — both are prerequisites this page deliberately skips.
-
-**In brief:** For tourist areas (Yangon, Mandalay, Bagan, Inle) **ATOM** (ex-Telenor) and **MPT** are the practical choices; MPT reaches further into rural and temple regions. **Mytel** has the largest subscriber share but is military-linked, so many visitors skip it. **U9** is the former Ooredoo, renamed in September 2025 and now a minor player. All four require **passport + visa/entry-stamp registration** — there is no anonymous eSIM. Critically, **international roaming stopped working after 2021**, so your home SIM is a brick in Myanmar; a locally registered Myanmar eSIM is the only data path. [free network test](/free-esim/) connects on the local networks, and code WEB20 takes 20% off any paid plan — [check the current plans list](/plans/) before you buy.
+**In brief:** For tourist areas (Yangon, Mandalay, Bagan, Inle) **ATOM** (ex-Telenor) and **MPT** are the practical choices; MPT reaches further into rural and temple regions. **Mytel** has the largest subscriber share but is military-linked, so many visitors skip it. **U9** is the former Ooredoo, renamed in September 2025 and now a minor player. All four require **passport + visa/entry-stamp registration** — there is no anonymous eSIM. Critically, **international roaming stopped working after 2021**, so your home SIM is a brick in Myanmar; a locally registered Myanmar eSIM is the only data path. The [free network test](/free-esim/) connects on the local networks, and code WEB20 takes 20% off any paid plan — [check the current plans list](/plans/) before you buy.
 
 ## How local eSIM rules shape every purchase
 
 Four dated facts frame everything else on this page:
 
 - Mid-2024: authorities blocked Signal and the major VPNs, closing the most common workarounds travellers used to reach blocked services.
-- January 2025: the military regime enacted the [Cybersecurity Law](https://apnews.com/article/internet-online-censorship-law-repression-8128ba7a2c02555217c6a64ab641eaf6), codifying censorship mandates, restricting VPN providers and imposing local data-retention requirements.
+- January 2025: Myanmar's [Cybersecurity Law](https://apnews.com/article/internet-online-censorship-law-repression-8128ba7a2c02555217c6a64ab641eaf6) codified censorship mandates, restricting VPN providers and imposing local data-retention requirements.
 - Throughout 2025: civil-society tracking at the [Myanmar Internet Project](https://www.myanmarinternet.info/) logged scores of localised internet cuts across townships in most of the country's states and regions — often with no notice and no schedule.
-- Ongoing: the UN human rights office has documented how connectivity denial accompanies military operations, particularly around the [election-period environment documented in late 2025](https://bangkok.ohchr.org/sites/default/files/documents/2025-12/OHCHRMyanmar-Background-paper-on-military-elections-Nov25.pdf).
+- Ongoing: UN reporting documents network cuts clustering around conflict-affected areas with little notice — the [late-2025 background paper](https://bangkok.ohchr.org/sites/default/files/documents/2025-12/OHCHRMyanmar-Background-paper-on-military-elections-Nov25.pdf) has the detail.
 
 The practical translation for a traveller: your eSIM is a local data connection on a monitored, occasionally interrupted network. Plan around outages rather than pretending they will not happen.
 
@@ -51,7 +47,7 @@ Myanmar's operator names changed after 2021, and any guide still listing "Teleno
 | **Mytel** | (unchanged) | Military-linked and one of the largest networks by subscribers, but many travellers avoid it on principle. |
 | **U9** | Ooredoo Myanmar | Ooredoo Myanmar was [renamed U9 from 20 September 2025](https://www.gnlm.com.mm/ooredoo-myanmar-to-rebrand-as-u9-from-20-sept/); now a smaller player. |
 
-Two cautions up front: first, independent per-carrier mobile speed benchmarks for Myanmar are sparse and unreliable post-2021, so we do not quote operator-specific Mbps figures as fact. Second, coverage reputation (below) is the honest basis for choosing — not a clean speed leaderboard.
+Two cautions up front: first, independent per-carrier mobile speed benchmarks for Myanmar are sparse and unreliable post-2021, so we do not quote operator-specific Mbps figures as fact. Second, coverage reputation (below) is the honest basis for choosing a Myanmar eSIM — not a clean speed leaderboard.
 
 ## Myanmar eSIM plans by carrier: prices and how to buy
 
@@ -82,7 +78,7 @@ Airport counters also sell cheap tourist starter packs combining a small data bu
 
 Quirks: MPT is the only network worth betting on in Bagan and Inle; its 4G is solid in towns and thins to 3G on rural B-roads.
 
-### ATOM (ex-Telenor) — the tourist-corridor workhorse
+### ATOM (ex-Telenor) eSIM coverage
 
 Best for: Yangon, Mandalay, Bagan and Inle — the standard visitor circuit, where its 4G is the most dependable.
 
@@ -106,11 +102,11 @@ How a visitor buys it, step by step:
 4. Scan and enable data roaming; the profile attaches to ATOM's network.
 5. Top up in-app or at any authorised kiosk.
 
-Quirks: ATOM is the network most travel eSIMs roam onto, so a travel eSIM gives you ATOM-like coverage without the passport upload.
+Quirks: ATOM is the network most travel eSIMs roam onto, so a Myanmar eSIM bought online gives you ATOM-like coverage without the passport upload.
 
-### Mytel and U9 — the rest of the field
+### Mytel and U9 eSIMs
 
-**Mytel** is one of the largest networks by subscribers but is military-linked, so many visitors skip it on principle; we do not recommend it and do not quote its plans here. **U9** (the former Ooredoo, renamed September 2025) is now a minor player with smaller data packs, tracked in the same price survey above:
+**Mytel** is one of the largest networks by subscribers but is military-linked, and this guide does not quote its plans here. **U9** (the former Ooredoo, renamed September 2025) is now a minor player with smaller data packs, tracked in the same price survey above:
 
 | U9 data pack | Price (MMK) | Approx USD |
 |:---|:---|:---|
@@ -131,7 +127,7 @@ U9 is usable in cities but not a serious rural option.
 | 5 | **A check-in schedule agreed with people at home** | Silence here follows the network, not your phone — tell contacts when quiet is normal |
 | 6 | **Profile installed before you fly** | Yangon and Mandalay arrival halls jam with arrivals scanning at once; install on your own Wi-Fi and land connected |
 
-One honest limit stands above all of it: an eSIM is still a **Myanmar data connection**, so it inherits the national blocking and shutdown risk set out above. It gets you online; it does not make the internet unrestricted.
+One honest limit stands above all of it: a Myanmar eSIM is still a **local data connection**, so it inherits the national blocking and shutdown risk set out above. It gets you online; it does not make the internet unrestricted.
 
 Two fine-print notes: registration ties the number to you personally for as long as it stays active, and top-ups at corner kiosks are cash-only in practice — budget a few thousand kyat even if your plan is eSIM-based.
 
@@ -186,7 +182,7 @@ We quote only what is sourced, and we do not invent per-carrier mobile speeds.
 
 ## Entering the APN
 
-You will only need these if you bought a SIM or eSIM **directly from a Myanmar carrier**. A managed travel eSIM arrives with its APN preset, so leave it alone.
+You will only need these if you bought a SIM or eSIM **directly from a Myanmar carrier**. A managed Myanmar eSIM arrives with its APN preset, so leave it alone.
 
 | Carrier | APN | Username | Password |
 |:---|:---|:---|:---|
@@ -242,7 +238,7 @@ Restrictions on VPN use were codified in the January 2025 cybersecurity law and 
 - **ATOM store or eSIM:** registration is instant, but the network is strongest on the tourist corridor and weaker well outside it.
 - **Travel eSIM:** no documents to upload, yet it still inherits national blocking, so a shutdown takes it offline exactly as it would a local SIM.
 
-### Quick takes on Myanmar eSIMs
+### Contacting Myanmar eSIM support
 
 Keep a short note of these before you open a ticket.
 
@@ -254,7 +250,7 @@ Keep a short note of these before you open a ticket.
 | The operator the phone is attached to | Settings → Cellular → Network Selection |
 | How long the outage has lasted | Your own timestamps |
 
-## Short answers, real questions
+## Myanmar eSIM FAQ
 
 ### Is it safe to use mobile internet in Myanmar?
 
@@ -270,7 +266,7 @@ Yes. Registration against a passport (and visa/entry stamp) is mandatory for eve
 
 ### Myanmar eSIMs in neighboring countries
 
-No. International roaming onto Myanmar networks stopped functioning after 2021, so a local-network eSIM or a local SIM is the only way to get data. Arrive with a plan installed.
+Roaming is not an option. International roaming onto Myanmar networks stopped functioning after 2021, so a local-network eSIM or a local SIM is the only way to get data. Arrive with a plan installed.
 
 ### ATOM vs MPT: which is better in Myanmar?
 
@@ -286,7 +282,7 @@ Yes. Keep your home SIM for calls/SMS (disable its data roaming to avoid charges
 
 ### Why do travellers avoid Mytel?
 
-Mytel is one of the largest networks by subscribers but is military-linked, and many visitors choose to skip it on principle. It is a working network; the avoidance is an ethical choice, not a coverage one.
+Mytel is one of the largest networks by subscribers, but it is military-linked and many visitors pick ATOM or MPT instead. It is a working network; the preference is about ownership, not coverage.
 
 ### What is U9, and is it worth using?
 
@@ -298,7 +294,7 @@ A 5 GB pack (~US$9 on MPT) covers a week of maps, messaging and light browsing i
 
 ### Top-up options for Myanmar eSIMs
 
-Yes. MPT top-ups run via `*682#` and ATOM via its app or kiosks, but foreign-card friction is real, so carry some kyat or use a travel eSIM billed in your currency.
+Top-ups are possible. MPT top-ups run via `*682#` and ATOM via its app or kiosks, but foreign-card friction is real, so carry some kyat or use a travel eSIM billed in your currency.
 
 ### ATOM vs MPT: coverage compared
 
@@ -323,7 +319,7 @@ A VPN is legally restricted under the 2025 cybersecurity law and enforcement is 
 
 Nothing on this page is our own field testing, and in Myanmar the legal environment moves faster than the towers do. Read every figure as a third-party reading, then expect your own result to shift with the handset, the region, and whether a shutdown happens to be in force where you are standing.
 
-## eSIM activation steps
+## Get your Myanmar eSIM ready before you fly
 
 A Roami Myanmar eSIM arrives already carrying the local networks and attaches to whichever of them is strongest wherever you stand — no passport upload, no counter queue, and no reliance on home-SIM roaming, which stopped working here years ago. It does not pretend to defeat a shutdown; it simply gets you online wherever the network is still switched on.
 
@@ -333,4 +329,4 @@ Rather test the connection before you pay? The trial costs nothing. When you are
 
 [Start with the free Myanmar trial](/free-esim/)
 
-Either way, set it up before departure: verify your handset on the [compatibility checker](/compatibility/), try the Roami [free multi-network trial](/free-esim/), and apply **WEB20** at checkout when you later upgrade to a full Roami plan covering Myanmar.
+Either way, set it up before departure: verify your handset on the [compatibility lookup tool](/compatibility/), try the Roami [free multi-network trial](/free-esim/), and apply **WEB20** at checkout when you later upgrade to a full Roami plan covering Myanmar.

@@ -1,8 +1,8 @@
 ---
-title: "SK Telecom vs KT vs LG U+? South Korea eSIM Carriers"
-description: "SK Telecom or KT? Roami compares South Korea's eSIM carriers, explains the passport rule, and matches a plan to the best signal."
-image: "img/esim/carriers/south-korea-esim-carrier-guide.jpg"
-date: "2026-09-11T19:49:44+00:00"
+title: "Prepaid South Korea eSIM | SK Telecom, KT & LG U+"
+description: "Stay online in South Korea with Roami eSIM. Prepaid data on SK Telecom, KT & LG U+ networks, with 5G speeds and easy activation."
+image: "img/esim/carriers/south-korea-esim-carrier-guide.webp"
+date: "2026-09-19"
 keywords: eSIM South Korea, South Korea eSIM carriers, prepaid data, 5G network, SK Telecom, LG U+, KT, Roami eSIM, travel internet
 site_name: Roami
 brand_name: Roami
@@ -14,10 +14,6 @@ breadcrumb_items:
 hero_badge: "South Korea eSIM: which network wins where?"
 hero_subtitle_main: "Three networks, one decision, and the data to make it"
 ---
-
-> **South Korea eSIM: which network wins where?**
->
-> **Three networks, one decision, and the data to make it**
 
 South Korea needs no introduction on speed — it has been a top-ten mobile country for years, and Ookla's August 2026 index puts the national median at **250.56 Mbps, 6th in the world**. What it does need is an explanation of its unusual market structure, because Korea is the rare destination where **the local carriers themselves sell the best tourist products**, identity rules differ for residents and visitors, and some of the apps you will want (taxi-hailing above all) quietly prefer a Korean number. Getting a South Korea eSIM right means understanding all three layers, not just the speed table — and deciding early, because South Korea's own data market is one of the priciest in the developed world.
 
@@ -38,7 +34,7 @@ The Korean operator metrics quoted here are published in [Ookla's H1 2024 South 
 | Arrivals at Incheon, balanced city use | KT | Reliable 5G everywhere it matters, with the most visible airport counters and tourist desks. |
 | Jeju and the islands | SK Telecom, KT | The strongest rural and island footprints; Hallasan's trails thin out for everyone. |
 
-## SK Telecom, KT and LG U+: the measured gap
+## SK Telecom, KT and LG U+ compared
 
 ### SK Telecom: the overall leader
 
@@ -48,15 +44,15 @@ SKT's H1 2024 numbers top the general table: a Speed Score of **236.24**, median
 
 LG U+'s 5G is the fastest consumer experience in Korea: a median 5G download of **546.83 Mbps**, 5G upload of 44.28 Mbps, a 5G Speed Score of **456.32**, and the best 5G gaming experience (Game Score 92.56). Its overall median (127.99 Mbps) sits below SKT's because more of its traffic rides 4G — but where its 5G reaches, in Gangnam as much as Daejeon (the fastest city median in the country at 204.73 Mbps), nothing in Korea downloads faster.
 
-### The main South Korea carriers
+### KT: the balanced all-rounder
 
 KT posts a median 5G download of **526.41 Mbps** and an overall median of 109.33 Mbps — a hair behind the leaders on raw numbers, ahead of neither and behind nobody in practice. Its distinguishing trait for travellers is logistics: the strongest airport presence at Incheon and Gimpo, deep coverage through the transit corridors, and tourist products (including T-money-integrated SIMs) built around the arrival experience. For a first-time visitor, KT is the network you are most likely to meet first.
 
-### South Korea 5G mmWave: the footnote that does not matter
+### Does South Korea 5G mmWave matter?
 
 Korea licensed 28 GHz mmWave at 5G launch and later revoked the operators' licences after build-out obligations went unmet — so today's 5G runs on the 3.5 GHz band (n78), and no mainstream handset is missing out on anything that matters. If a guide still promises mmWave in Seoul, it is out of date.
 
-South South Korea's three networks are so good that the ranking is close to a rounding question — until you look at 5G, where one operator separates decisively. Ookla's South Korea report for **1H 2024** (collection period January to June 2024) makes **SK Telecom** the fastest provider overall and hands **LG U+** the 5G crown.
+South Korea's three networks are so good that the ranking is close to a rounding question — until you look at 5G, where one operator separates decisively. Ookla's South Korea report for **1H 2024** (collection period January to June 2024) makes **SK Telecom** the fastest provider overall and hands **LG U+** the 5G crown.
 
 | Metric | SK Telecom | KT | LG U+ |
 |:---|:---|:---|:---|
@@ -186,7 +182,7 @@ Korean carriers run genuinely competitive prepaid tourist products, and the publ
 
 Two structural notes. **South Korea is the rare market where the carriers themselves sell the best tourist products** — KT's and SKT's own prepaid lines are competitive with third-party eSIMs rather than worse, which is the opposite of most destinations. And the **convenience-store route at ₩15,000 for five days** is the cheapest physical option, at the cost of limited English support and staff-assisted activation.
 
-## The South korea APN list
+## The South Korea APN list
 
 | Carrier | APN | Username | Password |
 |:---|:---|:---|:---|
@@ -212,7 +208,7 @@ SK Telecom's profile configures automatically on most handsets; **KT is the one 
 
 If you plan to rely on mobile for video calls, size for it — the latency quirk is the constraint here rather than bandwidth, and a KT or SKT product with a local 010 number is the fallback for anything that insists on a Korean phone number.
 
-## The Korean app layer your eSIM has to feed
+## Korean apps that need mobile data
 
 South Korea's connectivity is excellent and its app ecosystem is idiosyncratic, and the mismatch is what actually frustrates visitors. Three downloads before you fly: **Naver Map or KakaoMap** for navigation, because Google Maps has limited functionality in Korea; **Papago** for translation, which handles Korean better than general-purpose tools; and **KakaoTalk**, which is how guesthouses, restaurants and tour operators take bookings. A T-money transit card and its companion app let you check your balance on the move once you have data.
 
@@ -256,11 +252,11 @@ The gaps are the ones you would expect in South Korea. Ferry crossings and the h
 
 ## What travellers ask about South Korea carrier eSIMs
 
-### Do South Korea SIM sales always need a passport?
+### Do tourists need a Korean ID to buy a SIM?
 
 No. Tourist SIMs and eSIMs — from the carriers themselves or from travel providers — work with passport verification only. The ARC requirement applies to residents signing standard local contracts, not to visitor products.
 
-### Who owns the carriers in South Korea?
+### How different are SK Telecom, KT and LG U+?
 
 All three are outstanding; the practical differences are location-dependent. SKT leads overall and in consistency, LG U+ owns the 5G peak and gaming, KT is the balanced pick with the best airport logistics. A multi-network profile removes the choice altogether, latching onto whichever network is strongest at that moment.
 
@@ -268,7 +264,7 @@ All three are outstanding; the practical differences are location-dependent. SKT
 
 For most, yes — the apps install and run on data alone. The nuance: a few Korean services verify accounts with local SMS codes, and taxi-hailing in particular behaves best with a Korean 010 number. If your week depends on those flows, consider a carrier tourist plan bundled with a local number; otherwise the data-only setup covers the standard itinerary.
 
-### Where 5G is strongest in South Korea
+### Do I need a mmWave phone for South Korea?
 
 Not for practical purposes. The 28 GHz licences were revoked after build-out deadlines were missed, so Korean 5G runs on the 3.5 GHz band — which, at 546.83 Mbps on LG U+, delivers speeds no mmWave-dependent feature would improve for a traveller.
 
@@ -288,11 +284,11 @@ SK Telecom on everyday use — a 205.10 Mbps median download against LG U+'s 127
 
 SK Telecom for coverage and consistency, particularly between Incheon and central Seoul. LG U+ if 5G throughput is the priority — it holds the fastest 5G median, the fastest 5G upload and the lowest 5G latency. KT is the balanced option with the strongest airport presence, but it is also the network that most often needs a manual APN entry.
 
-### How fast is mobile data in South Korea?
+### Why is Seoul slower than Daejeon?
 
 User density. Daejeon records a 204.73 Mbps median against Seoul's 184.48 Mbps, because the capital's cells carry far more traffic. Seoul still posts 90.2% consistency, so the gap is invisible in normal use — the same pattern appears in Hungary and the Netherlands.
 
-### Is your model cleared for South Korea eSIM use?
+### Do I need a Korean phone number?
 
 Only if something specifically requires it, such as booking apps that verify by SMS. Data-only tourist profiles work fine without one, and tourists do not need an ARC or Korean ID to buy a carrier eSIM — a passport is enough. Some KT plans bundle a 010 number at a higher price if you need one.
 
@@ -300,7 +296,7 @@ Only if something specifically requires it, such as booking apps that verify by 
 
 SK Telecom uses `lte.sktelecom.com`, KT `lte.ktfwing.com` and LG U+ `internet.lguplus.co.kr`, all with blank credentials and MCC 450 (MNC 05, 08 and 06 respectively). SK Telecom configures automatically on most handsets, while KT is the one that most often needs the manual entry.
 
-### South Korea 5G coverage map notes
+### Do I need a 5G phone in South Korea?
 
 Not to work, and not to be fast. A 5G handset unlocks the 513–546 Mbps 5G medians on 3.5 GHz, but a 4G-only phone still records around 180 Mbps in Seoul, which is more than any travel task needs. The band that matters is n78; the [eSIM compatibility page](/compatibility/) confirms whether your model has it.
 
@@ -308,7 +304,7 @@ Not to work, and not to be fast. A 5G handset unlocks the 513–546 Mbps 5G medi
 
 Published tourist products start around ₩20,000 for a five-day KT 5G travel SIM with 2 GB per day and 20 minutes of voice, ₩25,000 for a seven-day SKT prepaid line with 5 GB, and ₩28,000 for ten days of unlimited use with a 1 GB daily high-speed allowance. At ₩45,000 the Discover Seoul Pass bundle adds a tourist pass to 15 days of 1.5 GB daily data.
 
-### Sizing your South Korea data pack
+### Is mobile data slow on Jeju Island?
 
 Modestly. Jeju-do records a 103.75 Mbps median against Gangwon-do's 173.35 Mbps, and it is the only province where Ookla found no statistically faster provider. At 103 Mbps it remains far ahead of most countries — this is a relative gap inside an excellent market.
 
@@ -336,7 +332,7 @@ Slightly, and interestingly so: Incheon records a 142.39 Mbps median against Seo
 
 Yes, and it works: Gangwon-do leads the provinces at 173.35 Mbps, Gyeongsangbuk-do at 137.6 Mbps and Gyeongsangnam-do at 125.32 Mbps. Train Wi-Fi is inconsistent by comparison, so a data plan is genuinely the better connection on a Seoul-to-Busan run.
 
-### South Korea eSIM: where to buy
+### Should I buy my Korea eSIM at Incheon or before I fly?
 
 Before. Incheon's carrier counters sell genuinely good tourist products, but they are also the slowest part of arrival, and a profile loaded at home is live on touchdown. The airport option only wins if you specifically want a Korean voice number.
 

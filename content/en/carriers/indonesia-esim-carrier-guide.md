@@ -1,11 +1,11 @@
 ---
 
-title: "Indonesia eSIM: Telkomsel, XL Axiata or IM3 Ooredoo"
+title: "5G Indonesia eSIM | Telkomsel, Indosat & XL Axiata"
 
-description: "Roami compares Indonesia eSIM carriers Telkomsel, XL and IM3 Ooredoo on 5G speed, latency and travel plans for Bali and beyond."
-image: "img/esim/carriers/indonesia-esim-carrier-guide.jpg"
+description: "Stay online in Indonesia with Roami eSIM. Prepaid data on Telkomsel, Indosat & XL Axiata networks, ideal for tourists and digital nomads."
+image: "img/esim/carriers/indonesia-esim-carrier-guide.webp"
 
-date: "2026-08-04T09:20:29+00:00"
+date: "2026-09-24"
 
 keywords: eSIM Indonesia, prepaid data, 5G network, Telkomsel, XL, IM3 Ooredoo, travel eSIM, roaming free, Indonesia eSIM carriers, Indonesia eSIM operators
 
@@ -29,21 +29,11 @@ hero_subtitle_main: "What independent speed data reveals — and what it misses"
 
 ---
 
-
-
-> **Indonesia eSIM compared: Telkomsel, XL and IM3 Ooredoo**
-
->
-
-> **What independent speed data reveals — and what it misses**
-
-
-
 Indonesia is an archipelago of about 17,000 islands, and its mobile map behaves like one. Bali and Jakarta get speeds that feel European; a ferry crossing to the Gilis drops you to a single bar, and a Raja Ampat homestay runs on whatever the nearest tower reaches at low tide. Choosing an Indonesia eSIM is therefore two decisions rather than one: which network you attach to, and whether your handset is even allowed onto it.
 
 
 
-**Quick answer:** the local networks is the network most visitors should shortlist first in Indonesia; the local networks is the value alternative worth pricing against it. If you would rather test coverage than read specs, Roami's [free coverage test](/free-esim/) is the no-risk entry point in Indonesia.
+**Quick answer:** shortlist Telkomsel first and price it against XL Axiata and Indosat (IM3). If you would rather test coverage than read specs, Roami's [free coverage test](/free-esim/) is the no-risk entry point in Indonesia.
 
 
 
@@ -127,15 +117,15 @@ Data source: [Ookla Speedtest Connectivity Report](https://www.ookla.com/researc
 
 
 
-### Telkomsel: best overall performance and the widest map
+### Telkomsel: performance and coverage
 
 
 
-Telkomsel leads in all the headline metrics: Speed Score 42.93, median download 32.11 Mbps, median upload 13.86 Mbps and 47 ms latency, plus the highest 5G availability in the country at **3.5%** of users on 5G most of the time. Its 5G median download is 74.09 Mbps and its 5G consistency 80.7%. The number that should decide your purchase is not any of those, though — it is Telkomsel's **geographic coverage score of 8.6 out of 10**, against 5.5 for Indosat and 4.8 for XL, which is what separates a working phone in Labuan Bajo or Bukit Lawang from a paperweight.
+Telkomsel leads in all the headline metrics: Speed Score 42.93, median download 32.11 Mbps, median upload 13.86 Mbps and 47 ms latency, plus the highest 5G availability in the country at **3.5%** of users on 5G most of the time. Its 5G median download is 74.09 Mbps and its 5G consistency 80.7%. The number that should decide your Indonesia eSIM purchase, though, is not any of those — it is Telkomsel's **geographic coverage score of 8.6 out of 10**, against 5.5 for Indosat and 4.8 for XL, which is what separates a working phone in Labuan Bajo or Bukit Lawang from a paperweight.
 
 
 
-### XL: the consistency and video pick
+### XL: consistency and video streaming
 
 
 
@@ -143,7 +133,7 @@ XL takes the best 5G video streaming score (**88.67**) and the highest overall n
 
 
 
-### Indosat (IM3): the everyday-value choice
+### Indosat (IM3): cheaper data plans
 
 
 
@@ -151,7 +141,7 @@ Indosat, sold as IM3 Ooredoo, posts a median download of 26.7 Mbps and sits thir
 
 
 
-### Smartfren and by.U: the niche options
+### Smartfren and by.U: budget plans
 
 
 
@@ -221,7 +211,7 @@ A second registration layer landed in 2026. **Permenkomdigi No. 7 of 2026**, in 
 
 
 
-### Who has Indonesia's strongest 5G?
+### Which bands do Indonesian networks use?
 
 
 
@@ -245,7 +235,7 @@ Most prepaid plans carry a fair-use policy, and after the threshold speeds drop 
 
 
 
-### Purchase options for Indonesia eSIMs
+### When to buy an Indonesian prepaid pack
 
 
 
@@ -253,7 +243,7 @@ The clock on an Indonesian prepaid package starts when the line first attaches t
 
 
 
-### iPhones and Indonesia eSIMs
+### Which phones support an Indonesian eSIM?
 
 
 
@@ -301,7 +291,7 @@ For the prices themselves, use our [Indonesia plans page](/indonesia-esim/) — 
 
 
 
-Mobile download speeds in Indonesia measured a median of **66.34 Mbps** in August 2026, which places the country **70th** in Ookla's global index. The worldwide median for the month was 109.05 Mbps, putting Indonesia below the typical market.
+Mobile download speeds in Indonesia measured a median of **66.34 Mbps** in August 2026, which places the country **70th** in Ookla's global index — the national baseline that every Indonesia eSIM rides on. The worldwide median for the month was 109.05 Mbps, putting Indonesia below the typical market.
 
 
 
@@ -331,7 +321,7 @@ The gap between the national median and the price is the story of the Indonesian
 
 
 
-## Five-city your eSIM test
+## eSIM performance in five Indonesian cities
 
 
 
@@ -355,7 +345,7 @@ Which Indonesia eSIM is the better fit for your destination, based on local netw
 
 
 
-Roami's multi-network eSIM for Indonesia re-attaches to the best local network automatically, so you are not managing settings between cities.
+Roami's multi-network Indonesia eSIM re-attaches to the best local network automatically, so you are not managing settings between cities.
 
 
 
@@ -517,7 +507,7 @@ Where to enter it: **iPhone** → Settings → Cellular → the eSIM line → Ce
 
 
 
-## Phone Compatibility
+## How your Indonesia eSIM arrives
 
 
 
@@ -595,7 +585,7 @@ Telkomsel, on the widest national footprint — its geographic coverage score is
 
 
 
-### Indonesia eSIM setup, step by step
+### Is Indonesia's mobile network good for gaming?
 
 
 
@@ -603,7 +593,7 @@ Telkomsel recorded the best 5G gaming experience in the country (score 79.55) wi
 
 
 
-### Indonesia eSIM activation, step by step
+### Should you install an Indonesia eSIM before you fly?
 
 
 
@@ -619,7 +609,7 @@ At first connection to a local network in Indonesia, not at purchase. Some plans
 
 
 
-### Can you buy a Indonesia SIM anonymously?
+### Does a foreign phone need IMEI registration in Indonesia?
 
 
 
@@ -635,7 +625,7 @@ No, and this is the mistake that leaves people offline. The two registrations ar
 
 
 
-### Which IDs work for Indonesia SIM purchase?
+### How many SIMs can you register in Indonesia?
 
 
 
@@ -643,7 +633,7 @@ Three per operator under Permenkomdigi No. 7 of 2026, which also introduced a bi
 
 
 
-### The 5G picture in Indonesia
+### Is 5G widely available in Indonesia?
 
 
 
@@ -663,7 +653,7 @@ Because airport counters are resellers. The same Telkomsel 25 GB national plan t
 
 
 
-Yes — WhatsApp is the default communication tool for drivers, homestays and tour operators across Indonesia. Keep your home SIM in the phone for calls and verification codes, run data on the eSIM, and switch data roaming off on the home line so background traffic does not trigger international charges.
+Yes — keep your home SIM in the phone for calls and verification codes and run the data on the eSIM. WhatsApp is the default communication tool for drivers, homestays and tour operators across Indonesia, so nothing breaks when data moves to the eSIM; just switch data roaming off on the home line so background traffic does not trigger international charges.
 
 
 
@@ -687,11 +677,11 @@ Work the four patterns above in order — IMEI status, APN, network selection, t
 
 
 
-## Your eSIM myths, busted
+## Common eSIM myths in Indonesia
 
 
 
-### The registration routine in Indonesia
+### ❌ Myth: You must register your phone's IMEI at the airport.
 
 
 
@@ -729,7 +719,7 @@ Work the four patterns above in order — IMEI status, APN, network selection, t
 
 - **Komdigi and Indonesian Customs** — the subscriber-registration overhaul sits in [Permenkomdigi No. 7 of 2026](https://jdih.komdigi.go.id/), and the IMEI route for imported handsets in [Bea Cukai's guidance](https://www.beacukai.go.id/).
 
-- **Carrier and market pages** — tourist plan prices and the airport-versus-town gap are taken from [LokalFinds' Bali SIM survey](https://lokalfinds.com/blog/bali-sim-card-2026) and [Roafly's Indonesia tourist SIM guide](http://www.roafly.com/blog/indonesia-tourist-sim-card-prices), both accessed September 2026. Our support team reaches for these exact references when a Indonesia coverage claim gets disputed.
+- **Carrier and market pages** — tourist plan prices and the airport-versus-town gap are taken from [LokalFinds' Bali SIM survey](https://lokalfinds.com/blog/bali-sim-card-2026) and [Roafly's Indonesia tourist SIM guide](http://www.roafly.com/blog/indonesia-tourist-sim-card-prices), both accessed September 2026. Our support team reaches for these exact references when an Indonesia coverage claim gets disputed.
 
 
 
@@ -737,7 +727,7 @@ All benchmarks cited here are published by the third parties listed above. Treat
 
 
 
-## Getting your eSIM working
+## Get your Indonesia eSIM ready before you fly
 
 
 

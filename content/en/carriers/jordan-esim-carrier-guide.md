@@ -1,8 +1,8 @@
 ---
-title: "Jordan eSIM: Zain vs Orange vs Umniah, which to pick"
-description: "Roami compares Zain Jordan, Orange Jordan and Umniah eSIM carriers, from Amman's 5G towers to the desert roads toward Petra."
-image: "img/esim/carriers/jordan-esim-carrier-guide.jpg"
-date: "2026-08-10T12:09:20+00:00"
+title: "Jordan eSIM Plans | Zain, Orange & Umniah Coverage"
+description: "Need mobile data in Jordan? Roami eSIM offers 5G prepaid plans on Zain, Orange & Umniah networks, ideal for tourists and business trips."
+image: "img/esim/carriers/jordan-esim-carrier-guide.webp"
+date: "2026-09-23"
 keywords: Jordan eSIM, Jordan eSIM carriers, Jordan travel internet, Zain Jordan, Orange Jordan, Umniah eSIM, Petra eSIM, Dead Sea data, plug-and-play eSIM, no roaming fees Jordan
 site_name: Roami
 brand_name: Roami
@@ -14,15 +14,12 @@ breadcrumb_items:
 hero_badge: "Jordan's carriers, 2026"
 hero_subtitle_main: "Zain Jordan, Orange Jordan and Umniah — for the tech hub and the desert"
 ---
-> **Jordan's carriers, 2026**
->
-> **Zain Jordan, Orange Jordan and Umniah — for the capital and the tourist south**
 
 A Jordan eSIM choice splits with the country itself: fast 5G in Amman's tech hub versus a lifeline signal on the southern tourist route — this guide covers both ends. Jordan is a small kingdom with a split personality, and its connectivity splits with it. In Amman, a genuine tech hub of startups, coworking spaces and the Zain Innovation Campus, you want the fastest 5G you can hold. Four hundred kilometres south, in the camps of Wadi Rum and the canyons of Petra, you want whichever network keeps a bar of signal alive. Ookla's Speedtest Global Index put Jordan's median mobile download at **48.53 Mbps** in August 2026 — 81st worldwide, well below the 109.05 Mbps global median — while Cable.co.uk prices a gigabyte of local data at about **USD 0.76**, cheaper than most of Europe. Which Jordan eSIM fits you depends on which of the two Jordans you are visiting.
 
-**Quick answer:** The short version first: Umniah is the safe default for coverage across Jordan, with Petra usually cheaper in the larger cities. Below: the numbers behind that claim, plus [compatibility checker](/compatibility/) if your handset needs checking first.
+**Quick answer:** The short version first: Umniah is the safe default for coverage across Jordan, with the local carriers usually cheaper in the larger cities. Below: the numbers behind that claim, plus the [eSIM device checker](/compatibility/) if your handset needs checking first.
 
-None of the comparisons matter until the profile installs cleanly; [eSIM compatibility tool](/compatibility/) and [eSIM activation guide](/faq/what-is-esim-activation-and-how-does-it-work/) cover both halves.. Then come back for the network verdicts.
+None of the comparisons matter until the profile installs cleanly; [eSIM compatibility tool](/compatibility/) and [eSIM activation guide](/faq/what-is-esim-activation-and-how-does-it-work/) cover both halves. Then come back for the network verdicts.
 
 **Quick verdict:** Umniah is Jordan's best overall network by both major 2025–2026 scorecards and the budget pick at the airport. Zain Jordan runs the fastest 5G in the country, measured at **325.3 Mbps** by Opensignal. Orange Jordan leads on 5G availability, so it holds 5G more often in downtown Amman. All three register your passport at the point of sale, and all three sell tourist packages at Queen Alia Airport. For data on landing without a counter visit, [Roami's Jordan eSIM](/jordan-esim/) arrives by QR code, and a [free eSIM trial](/free-esim/) costs nothing to try.
 
@@ -39,15 +36,15 @@ Three operators share the market, each holding roughly a third of it, all licens
 
 All three now offer eSIMs on compatible devices, both on regular prepaid lines and on the visitor products. Advertised tourist packages move with promotions, and third-party round-ups disagree on exact allowances, so read the table above as a range and confirm at the kiosk. The figures that follow on speed and awards are measurements, not marketing.
 
-### Umniah vs Petra: coverage compared
+### Zain Jordan vs Umniah: coverage compared
 
 Zain Jordan is the largest operator by subscriber base and the operator most international eSIM providers use for Jordanian coverage. On travellers' own reporting it holds up best outside the cities — the King's Highway toward Petra, the Wadi Rum visitor centre, and the long southern corridors where the other two thin out. If your itinerary is a loop rather than a single city, that reach is the argument.
 
-### Umniah vs Petra 5G: which is better in Jordan?
+### Orange vs Umniah 5G: which is better in Jordan?
 
 Orange Jordan is the second-largest carrier and the strongest on 5G availability: Opensignal measured its users spending **37.8%** of connected time on a 5G signal, more than nine percentage points ahead of second place. It is also the only operator with a booth in the Queen Alia arrivals hall that runs around the clock, which makes it the default first stop for late-night arrivals.
 
-### Umniah: the value and consistency option
+### Umniah eSIM prices and performance
 
 Umniah is the cheapest of the three on most measured comparisons and won Ookla's Best Mobile Network award for Q3–Q4 2025 with a Connectivity Score of **73.23**, ahead of Zain Jordan's 68.64 and Orange Jordan's 68.46. It leads on consistency and reliability too. The trade-off is real: outside Amman and the northern cities, its coverage drops away faster than the other two.
 
@@ -191,11 +188,11 @@ Jordan's local data is cheap enough that the decision is closer than in most cou
 | Hotspot sharing | Normally included | Sometimes capped — read the terms |
 | Best for | Stays over a week, drivers, business visitors | Quick tours, layovers, Petra day-trippers |
 
-### Travel eSIM versus local Jordan SIM: where the cost math crosses over
+### Travel eSIM versus local Jordan SIM: costs compared
 
 Shorter than a week, a travel eSIM's time savings win. Longer, and Jordanian per-gigabyte pricing plus a local number for hotels and drivers starts to pay for itself.
 
-### The voice factor most Jordan eSIM comparisons miss
+### Voice calls on a Jordan eSIM
 
 Voice is the variable most comparisons miss. Travel eSIMs are almost always data-only, so the phone calls that hotels, restaurants and drivers still expect either run through your home number at roaming rates or move to WhatsApp data calls. Every Jordanian package listed above includes local minutes, which is why anyone driving between Amman, Petra and Aqaba for more than a few days tends to end up at a kiosk anyway.
 
@@ -215,7 +212,7 @@ One regulatory footnote helps border-crossers: the TRC operates a white/grey/bla
 
 | # | Check at home | What good looks like |
 |:---|:---|:---|
-| 1 | Phone is carrier-unlocked | About -> Carrier Lock says "No SIM restrictions" |
+| 1 | Phone is carrier-unlocked | About → Carrier Lock says "No SIM restrictions" |
 | 2 | Phone holds an eSIM | `*#06#` returns an EID |
 | 3 | Profile installed on Wi-Fi | Installed before you fly; it attaches when it sees a Jordanian network |
 | 4 | eSIM set as the data line | Mobile Data points at the Jordan eSIM, not your home SIM |
@@ -244,11 +241,11 @@ A carrier-issued Jordan eSIM normally configures itself, and travel-platform pro
 
 Zain Jordan's system also accepts `zain` as the APN string on some devices, and Umniah is reported as `umniah` on older setups — try the alternative before calling support. Menu paths: iPhone at Settings → Cellular → the eSIM line → Cellular Data Network; Android at Settings → Connections → Mobile Networks → Access Point Names. Save, reboot, and verify the eSIM is the selected data line first.
 
-### APN values for Umniah, Petra and plug-and-play eSIMs
+### APN values for Zain, Umniah and plug-and-play eSIMs
 
-Almost never on a travel profile. Manual entry matters when a carrier-issued Jordan eSIM was activated from a printed code rather than scanned in store, or when an older handset ignored the automatic settings. In both cases, use the values above, save, and restart before trying anything else.
+Manual entry is almost never needed on a travel profile. It matters when a carrier-issued Jordan eSIM was activated from a printed code rather than scanned in store, or when an older handset ignored the automatic settings. In both cases, use the values above, save, and restart before trying anything else.
 
-## From purchase to working data
+## Buying and setting up a Jordan eSIM
 
 The generic sequence — install on Wi-Fi, label the line, set it as your data line, enable roaming — is covered step by step in our [eSIM activation guide](/faq/how-to-activate-an-esim/), and the full error catalogue sits in our [eSIM activation fixes guide](/faq/esim-activation-errors-troubleshooting-guide/). Four patterns cover most of what goes wrong in Jordan.
 
@@ -310,7 +307,7 @@ Travelling on from Jordan? Our guides to the neighbouring networks cover what ch
 
 For the southern route toward Aqaba and on into the Gulf, see our [Saudi Arabia eSIM plans](/saudi-arabia-esim/); a multi-country profile is usually cleaner than buying three local lines.
 
-## Jordan eSIM coverage: Umniah vs Petra
+## Jordan eSIM coverage: Zain Jordan vs Umniah
 
 Jordan's geography does the planning for you. Most of the population — and most of the coverage — sits in the northwest: Amman, Irbid, Zarqa and the corridors between them. South of the capital, coverage follows the highway toward Aqaba and the tourist spine of Petra, the Dead Sea resorts and Wadi Rum.
 
@@ -329,7 +326,7 @@ Jordan's geography does the planning for you. Most of the population — and mos
 
 ### Jordan coverage, region by region
 
-The pattern is consistent: Zain Jordan holds up across the country, Orange Jordan is competitive on every major route on the remotest stretches, and Umniah's coverage drops noticeably once you leave the populated northwest. None of them solve the Petra canyon or the long empty stretches.
+The pattern is consistent: Zain Jordan holds up across the country, Orange Jordan is competitive on every major route except on the remotest stretches, and Umniah's coverage drops noticeably once you leave the populated northwest. None of them solve the Petra canyon or the long empty stretches.
 
 ### Jordan highway coverage: the Amman–Aqaba route versus the Dead Sea road
 
@@ -343,9 +340,9 @@ City-only trip: take the best counter offer. Any trip that leaves Amman: Zain Jo
 
 ### Jordan eSIM plan prices
 
-Yes. Orange runs a 24/7 booth in the AMM arrivals hall, and its visitors' line is advertised at about JOD 15 for 20 GB over 30 days with unlimited local calls. Bring your original passport, and allow a few minutes for the profile install before your ride leaves.
+You can buy on arrival. Orange runs a 24/7 booth in the AMM arrivals hall, and its visitors' line is advertised at about JOD 15 for 20 GB over 30 days with unlimited local calls. Bring your original passport, and allow a few minutes for the profile install before your ride leaves.
 
-### Umniah vs Petra: which Jordan carrier is faster?
+### Zain Jordan vs Umniah: which Jordan carrier is faster?
 
 For raw 5G, Zain Jordan — Opensignal measured its users at 325.3 Mbps average 5G download in mid-2026. For the best all-round experience, Umniah took Ookla's Best Mobile Network award for Q3–Q4 2025 with a Connectivity Score of 73.23, and it leads on consistency and reliability.
 
@@ -355,7 +352,7 @@ No. Jordanian packages do not include data beyond the kingdom's borders, so the 
 
 ### Town and country signal in Jordan
 
-Almost never. The narrow canyon blocks mobile signal on all three networks, though the visitor centre and Wadi Musa town are well covered. Download the offline map and any audio guides before you enter, and expect photos to upload once you are back in town.
+Signal almost never reaches into the canyon. The narrow canyon blocks mobile signal on all three networks, though the visitor centre and Wadi Musa town are well covered. Download the offline map and any audio guides before you enter, and expect photos to upload once you are back in town.
 
 ### Will a Jordan eSIM work in the southern camps and villages?
 
@@ -371,7 +368,7 @@ Yes — registration at the point of sale is mandatory for everyone, tourists in
 
 ### Jordan eSIM top-ups
 
-Yes. All three carriers accept card payments in their apps and websites, so you can extend a package before or during the trip. Do it before your line expires, since reactivating a dormant number is slower than topping up in time.
+You can top up online: All three carriers accept card payments in their apps and websites, so you can extend a package before or during the trip. Do it before your line expires, since reactivating a dormant number is slower than topping up in time.
 
 ### Jordan APN settings, carrier by carrier
 
@@ -395,6 +392,6 @@ Yes, and it is the standard setup. Keep the home SIM live for calls and verifica
 
 Visitor-package prices are the carriers' and resellers' published offers at the time of writing and change with promotions; where sources disagreed, we have given the range rather than a single figure. DataReportal's Digital 2025: Jordan backs the internet-user and connection counts. All performance figures are third-party measurements, and your own results will vary with handset, band and location.
 
-## Price per gigabyte in practice
+## Get your Jordan eSIM ready before you fly
 
 Skip the arrivals-hall queue entirely. [Roami's Jordan eSIM](/jordan-esim/) installs by QR code before you fly and connects on landing, switching to the strongest local network as you move between Amman, Petra and Aqaba. Reserve yours at [roamiapp.com](/jordan-esim/) and apply promo code **WEB20** for 20% off a first plan — or try the whole setup risk-free with a [free trial card](/free-esim/).

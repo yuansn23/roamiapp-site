@@ -1,8 +1,8 @@
 ---
-title: "Peru eSIM carriers: Claro, Entel and Bitel compared"
-description: "Roami tests Claro, Entel and Bitel across Peru's coasts, Andes and Amazon so you can pick the eSIM carrier that holds up on your route."
-image: "img/esim/carriers/peru-esim-carrier-guide.jpg"
-date: "2026-09-03T23:20:46+00:00"
+title: "Travel Peru eSIM | Claro, Movistar & Entel Coverage"
+description: "Buy a Peru eSIM from Roami. Enjoy prepaid 5G data on Claro, Movistar & Entel networks, with reliable coverage for tourists and remote work."
+image: "img/esim/carriers/peru-esim-carrier-guide.webp"
+date: "2026-09-20"
 keywords: eSIM Peru, Peru eSIM carriers, Peru mobile operators, prepaid data, 5G network, Claro, Entel, Mi Fibra, Speedtest, travel eSIM
 site_name: Roami
 brand_name: Roami
@@ -15,13 +15,9 @@ hero_badge: "A Peru data plan bought at home beats every airport counter"
 hero_subtitle_main: "Coverage follows the valleys — plan for the gaps"
 ---
 
-> **A Peru data plan bought at home beats every airport counter**
->
-> **Coverage follows the valleys — plan for the gaps**
+A Peru eSIM handles the coast and the highlands well and the Amazon only partially, and this guide is built around knowing where the map goes dark. Peru compresses three very different countries into one itinerary: a coastal strip with fast urban networks, an Andean highland where signal follows the river valleys, and an Amazon basin where towns are islands of coverage in a green sea. A travel profile delivers the first two reliably and the third only around population centers. What separates a smooth trip from a frustrating one is not really the operator you land on — it is knowing where the coverage ends, and installing your profile before the altitude starts working on you. Picture the briefing a knowledgeable friend would hand you for Peru; that is this page, minus the jargon.
 
-A Peru eSIM handles the coast and the highlands well and the Amazon only partially, and this guide is built around knowing where the map goes dark. Peru compresses three very different countries into one itinerary: a coastal strip with fast urban networks, an Andean highland where signal follows the river valleys, and an Amazon basin where towns are islands of coverage in a green sea. A travel eSIM handles the first two well and the third only around population centers. What separates a smooth trip from a frustrating one is not really the operator you land on — it is knowing where the map goes dark, and installing your profile before the altitude starts working on you. Picture the briefing a knowledgeable friend would hand you for Peru; that is this page, minus the jargon.
-
-**If you read nothing else:** Claro is Peru's fastest network — a median 29.01 Mbps overall and 57.79 Mbps on 5G, per [Ookla's H2 2024 report](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024). Entel runs the best 5G availability, and Bitel is the network users themselves rate highest. But the decision that shapes a Peru trip most is timing. Since late 2025, buying a local SIM in person means biometric registration against the immigration database, and Lima airport counters charge a steep premium for the privilege. The better play: install a prepaid data plan online before departure, download offline maps for every trail day, and treat connectivity in towns as the reward rather than the default. If you are new to this technology, [test at no charge](/free-esim/) lets you test it before spending anything, and the [Peru plans page](/peru-esim/) is ready to connect the moment you land.
+**If you read nothing else:** Claro is Peru's fastest network — a median 29.01 Mbps overall and 57.79 Mbps on 5G, per [Ookla's H2 2024 report](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024). Entel runs the best 5G availability, and Bitel is the network users themselves rate highest. But the decision that shapes a Peru trip most is timing. Since late 2025, buying a local SIM in person means biometric registration against the immigration database, and Lima airport counters charge a steep premium for the privilege. The better play: install a Peru eSIM online before departure, download offline maps for every day on the road, and treat connectivity in towns as the reward rather than the default. If you are new to this technology, the [test at no charge](/free-esim/) lets you test it before spending anything, and the [Peru plans page](/peru-esim/) is ready to connect the moment you land.
 
 ## Regional Coverage
 
@@ -29,11 +25,11 @@ Ask which network is "best in Peru" and you get a city answer to a country quest
 
 Three realities follow from that geography. First, no operator covers the Andes in any meaningful sense — coverage clings to towns, highways and valley floors, and vanishes a few hundred meters above them. Second, the coast is genuinely easy: from Lima down the Pan-American corridor, you can expect service nearly everywhere people live. Third, the Amazon is a different country for connectivity; plan as if you will be offline and be pleasantly surprised in town.
 
-That is why the single most useful prep step costs nothing: download offline map regions for Cusco, the Sacred Valley, your trek, and any Amazon leg before you leave home. A prepaid profile installed in advance then becomes a bonus where it exists, not a dependency everywhere. An eSIM purchased at home inherits whatever the local networks deliver — nothing more, but crucially nothing less.
+That is why the single most useful prep step costs nothing: download offline map regions for Cusco, the Sacred Valley, your route, and any Amazon leg before you leave home. A prepaid profile installed in advance then becomes a bonus where it exists, not a dependency everywhere. A Peru eSIM purchased at home inherits whatever the local networks deliver — nothing more, but crucially nothing less.
 
 ## What Claro, Entel, Bitel and Movistar offer visitors
 
-Peru's four operators divide the country unevenly, and each has a distinct commercial personality. Understanding them matters less for picking a travel plan — a managed profile roams across partners automatically — and more for setting expectations about where your bars will come from.
+Peru's four operators divide the country unevenly, and each has a distinct commercial personality. Understanding them matters less for picking a Peru eSIM — a managed profile roams across partners automatically — and more for setting expectations about where your bars will come from.
 
 ### Which Peru network is speediest?
 
@@ -84,7 +80,7 @@ Two details stand out. The SIM itself costs almost nothing — the money is in t
 
 7. Top up with a **recarga** at kiosks, supermarkets or pharmacies. They can sell you credit for an existing number without any registration step of their own.
 
-**Do Peru SIM sellers check ID?**
+**What to bring when buying a Peru SIM in store**
 - **Passport** — the identity document for a foreign national, matched against entry records
 - **Proof of your entry date or stamp**, in case the operator asks for it during verification
 - **A Carné de Extranjería** if you have one — it unlocks products the passport route cannot, including Bitel's tourist SIM
@@ -119,19 +115,19 @@ Two details stand out. The SIM itself costs almost nothing — the money is in t
 
 Here is the development that most rewritten Peru guides still miss. Following an OSIPTEL resolution, Peru introduced mandatory biometric verification for new SIM registrations, enforced from November 2025: buyers must complete a fingerprint check validated against the immigration database, with a passport as the visitor's identity document. The measure was published as Resolución N.° 000116-2025-CD/OSIPTEL, adopted as a temporary security measure tied to a state of emergency, and it has no announced end date. The regulator's position is fraud control; the traveler's reality is friction.
 
-The practical consequences for visitors are specific. Physical SIMs must be bought in person at official carrier centers of sale — convenience stores that display a carrier logo can sell recharge, but not new lines. City stores are inconsistent about serving short-term tourists, and some turn them away for lacking local residency documents. Airport counters will process travelers with passport and biometric check, but at prices several times what residents pay for the same data. Regulator detail and consumer guidance live at [OSIPTEL](https://www.osiptel.gob.pe/), and the bottom line for trip planning is simple: the in-person route now costs either time, money, or both. That is precisely why the eSIM route has become the default answer for arrivals from anywhere.
+The practical consequences for visitors are specific. Physical SIMs must be bought in person at official carrier centers of sale — convenience stores that display a carrier logo can sell recharge, but not new lines. City stores are inconsistent about serving short-term tourists, and some turn them away for lacking local residency documents. Airport counters will process travelers with passport and biometric check, but at prices several times what residents pay for the same data. Regulator detail and consumer guidance live at [OSIPTEL](https://www.osiptel.gob.pe/), and the bottom line for trip planning is simple: the in-person route now costs either time, money, or both. That is precisely why the Peru eSIM route has become the default answer for arrivals from anywhere.
 
 Two smaller rules in the same package are worth knowing if you do buy locally. Registrations with identity data that does not reconcile are handled on an accelerated clock — notification, then suspension, then cancellation if the mismatch is not corrected within days. And Peruvian prepaid lines with no traffic are subject to deactivation, so a line bought for a two-week trip and left untouched can go dormant.
 
-## The Inca Trail spends most days beyond any eSIM
+## Will your eSIM work on the Inca Trail?
 
-Trekking agencies will tell you plainly: on the classic four-day Inca Trail, expect no phone signal for the majority of the route. Coverage flickers near the start outside Ollantaytambo territory and returns only near the end, particularly after Wiñay Wayna, close to the Sun Gate approach. Campsites along the way have no power outlets either, so a fully charged phone in airplane mode and a 10,000–20,000 mAh power bank are standard packing-list items.
+Tour operators will tell you plainly: on the classic four-day Inca Trail, expect no phone signal for the majority of the route. Coverage flickers near the start outside Ollantaytambo territory and returns only near the end, particularly after Wiñay Wayna, close to the Sun Gate approach. Campsites along the way have no power outlets either, so a fully charged phone in airplane mode and a 10,000–20,000 mAh power bank are standard packing-list items.
 
-The Salkantay route is similarly intermittent — service improves in valley settlements like Collpapampa and Lucmabamba and deteriorates badly at the high pass. The Lares trek behaves the same way. Guidance from Cusco-based operators is consistent: assume you will be disconnected for most of each trekking day, and plan your check-ins around known coverage pockets rather than expecting live signal. Carrying an eSIM on the trail is for the towns at either end, not for the passes between them.
+The Salkantay route is similarly intermittent — service improves in valley settlements like Collpapampa and Lucmabamba and deteriorates badly at the high pass. The Lares route behaves the same way. Guidance from Cusco-based operators is consistent: assume you will be disconnected for most of each day out there, and plan your check-ins around known coverage pockets rather than expecting live signal. Carrying an eSIM is for the towns at either end, not for the passes between them.
 
-None of this argues against buying connectivity — you will pass through towns daily on most routes, and guides themselves post photos from the trailheads. It argues for the right setup: a profile installed and tested before you fly, offline maps for the full route, and a family notification plan that does not depend on being reachable. Buying at home also sidesteps Peru's new in-person registration hurdles, covered below.
+None of this argues against buying connectivity — you will pass through towns daily on most routes, and guides themselves post photos from the endpoint towns. It argues for the right setup: a profile installed and tested before you fly, offline maps for the full route, and a family notification plan that does not depend on being reachable. Buying at home also sidesteps Peru's new in-person registration hurdles, covered below.
 
-## Cusco and the Sacred Valley: signal in town, silence between
+## Cusco and the Sacred Valley eSIM coverage
 
 Cusco itself is well served — its median mobile download measured 17.7 Mbps in Ookla's city data, enough for maps, messaging and video calls from a hotel lobby. Coverage in the Sacred Valley towns of Pisac, Urubamba, Ollantaytambo and Chinchero is solid in their centers and drops off quickly outside them. The pattern repeats everywhere in the highlands: a town is a coverage bubble, and the bus ride between two bubbles is dead air.
 
@@ -139,15 +135,15 @@ Aguas Calientes, the railhead town below Machu Picchu, has dependable service th
 
 One practical tip: top up your data allowance in Cusco before heading into the valley, not after. A travel eSIM makes that trivial — the profile is already live, so a top-up is an app tap, not a counter conversation. Town kiosks sell recharge codes, but you do not want to be troubleshooting a purchase with two bars of signal and a bus to catch.
 
-## Lima and the Pacific coast: the easy part of Peru coverage
+## Lima and the Pacific coast coverage
 
 If your trip never leaves the coastal strip, you will barely notice Peru's coverage geography. Lima is the country's fastest city, and the capital's 5G is concentrated exactly where visitors stay: Miraflores, Barranco, San Isidro and the airport corridor. Arequipa, Peru's second tourist hub, measured a 20.18 Mbps median download with Claro the fastest provider there.
 
 North and south along the Pan-American Highway, towns chain together nicely — Trujillo, Peru's second-fastest city at 23.27 Mbps, Chiclayo, Piura, Nazca and the Paracas peninsula all sit on or near the covered corridor. The gaps appear when you turn inland: Huacachina and the viewpoints around Nazca can lose signal within minutes of leaving the highway, and the marine reserves are, predictably, dead zones.
 
-For this kind of itinerary, almost any modern data plan works. Speeds comfortably handle navigation, rideshare apps, streaming and video calls. The only genuine decision is buying before you arrive at Jorge Chávez airport, so you can skip the arrivals-hall queue entirely — more on that below. An eSIM installed at home simply appears as a second line in your settings the day you land.
+For this kind of itinerary, almost any modern data plan works. Speeds comfortably handle navigation, rideshare apps, streaming and video calls. The only genuine decision is buying before you arrive at Jorge Chávez airport, so you can skip the arrivals-hall queue entirely — more on that below. A Peru eSIM installed at home simply appears as a second line in your settings the day you land.
 
-## Plan costs per gigabyte
+## eSIM coverage in the Amazon and the altiplano
 
 Iquitos is the largest city on Earth unreachable by road — you arrive by air or by river — and its connectivity matches its isolation. It posted Peru's slowest median mobile download at 16.3 Mbps with 98 ms latency in Ookla's measurement, and once you push out to jungle lodges, coverage thins to nothing within an hour's boat ride. Puerto Maldonado and the Tambopata lodges follow the same pattern: town coverage, river silence.
 
@@ -230,7 +226,7 @@ A travel eSIM for Peru runs on the same national networks — Claro, Entel and B
 
 The comparison is stark. A Jorge Chávez arrivals purchase can involve a queue, a marked-up tourist bundle, and a registration process with your fingerprint in the system. A pre-departure purchase takes five minutes on your sofa. If you want to understand what is actually happening when your phone accepts a profile — the SM-DP+ servers, the single-use codes, why the QR works only once — our explainer on [how an eSIM profile installs](/faq/what-is-esim-activation-and-how-does-it-work/) covers the mechanics in plain language.
 
-This is also where a multi-network profile earns its premium. Peru's four operators split the country unevenly, so a plan tied to one of them inherits that operator's weak spots. One that can move between networks simply sidesteps the question — which matters more in the Sacred Valley than in Lima, where everything works anyway.
+This is also where a multi-network Peru eSIM earns its premium. Peru's four operators split the country unevenly, so a plan tied to one of them inherits that operator's weak spots. One that can move between networks simply sidesteps the question — which matters more in the Sacred Valley than in Lima, where everything works anyway.
 
 ## eSIM activation walkthrough
 
@@ -262,7 +258,7 @@ Four failure patterns cover almost everything a Peru trip produces, and only one
 
 **A. Bars, but nothing loads.** Confirm the travel profile, not your home SIM, is the selected data line — dual-SIM phones reassign this silently after a reboot or an OS update. Then check that data roaming is enabled on that specific line. This is the single most common first-day failure, and it has nothing to do with Peru.
 
-**B. Signal that disappears as you climb.** This is geography, not a fault. Coverage in the Andes clings to valley floors and town centers, and a few hundred metres of altitude takes you out of range on every network. Move back toward the village or the main road and the line re-registers; an airplane-mode cycle speeds it up. On trekking days, treat the phone as an offline device and rely on downloaded maps.
+**B. Signal that disappears as you climb.** This is geography, not a fault. Coverage in the Andes clings to valley floors and town centers, and a few hundred metres of altitude takes you out of range on every network. Move back toward the village or the main road and the line re-registers; an airplane-mode cycle speeds it up. Away from the towns, treat the phone as an offline device and rely on downloaded maps.
 
 **C. A local prepaid line that stops working after a few idle days.** Peru's registration rules include deactivation of prepaid lines that show no traffic, so a SIM bought for a fortnight and left in a bag can go dormant. If you buy locally, send a message or load a page every couple of days, and keep the activation contract in case you need to re-register.
 
@@ -284,11 +280,11 @@ Peru sits in the middle of the Andes, and almost every long itinerary eventually
 
 ## Peru eSIM questions travelers ask before booking
 
-### Peru: resident SIM or traveler eSIM
+### Will my eSIM work on the Inca Trail and Salkantay?
 
 No, not for most of the route — and neither does anyone else's. The Inca Trail has no signal for the bulk of its four days, with coverage returning near Wiñay Wayna, and Salkantay is intermittent with dead stretches at the high pass. Download offline maps, carry a power bank, and let your eSIM shine in Cusco, Aguas Calientes and the towns along the way.
 
-### Peru eSIM plan prices
+### Can I buy a SIM at Lima airport?
 
 You can, and counters in the arrivals hall will register you with passport and biometric check. Expect marked-up tourist pricing and a queue at peak arrival hours. Since Peru's November 2025 biometric registration rules, the online route has become the standard recommendation for short-stay visitors.
 
@@ -300,7 +296,7 @@ Claro and Entel both officially support eSIM in Peru — Claro describes it as a
 
 Claro's bundles are the easiest reference point: PEN 20 buys 6 GB plus 500 national minutes, PEN 30 buys 10 GB with unlimited national calls, and PEN 40 buys 20 GB. Entel's equivalent sits near PEN 29 plus a chip charge, and the SIM itself costs PEN 5 to 20. That is well under USD 12 a month for a heavy allowance — but only if you can complete the registration.
 
-### Is your device approved for Peru eSIMs?
+### Can I use my home SIM and a Peru eSIM together?
 
 Yes, if you use dual-SIM correctly. Keep your physical home SIM active for calls and SMS verification, run mobile data on the eSIM profile, and disable roaming on the home line. One caution: most travel data plans are data-only, so bank confirmation codes still arrive on your home number.
 
@@ -310,7 +306,7 @@ A Peru-only plan stops at the border. If your itinerary crosses into neighboring
 
 Taking the northern route instead? [Colombia coverage](/colombia-esim/) is covered in the same depth — buying each country's coverage explicitly beats hoping one profile roams everywhere.
 
-### 5G coverage in Peru, mapped
+### Is 5G worth paying for in Peru?
 
 Only if your trip is city-bound. Claro's 5G-capable plans start at PEN 69.90, and 5G is available in Lima, Arequipa, Trujillo, Chiclayo, Piura and Cusco rather than nationally. 5G connections were roughly 7.5 percent of the market in early 2026. If your route runs through the Sacred Valley, Colca or the Amazon, the 5G premium buys you nothing.
 
@@ -322,7 +318,7 @@ Because the biometric check against the Migraciones database cannot be completed
 
 On most travel eSIM plans, the window begins when the profile first connects to a local network, not at purchase — which is why installing at home does not burn days of your allowance. Confirm the exact start rule on the plan you buy, since providers differ on this detail.
 
-### Steps to install a Peru eSIM
+### When should I install my Peru eSIM?
 
 Before, and on Wi-Fi. Installing in Cusco means troubleshooting at altitude with tired Wi-Fi and a QR code you may no longer be able to open. Ten minutes at home removes every variable, and the profile simply waits until it sees a Peruvian network.
 
@@ -330,7 +326,7 @@ Before, and on Wi-Fi. Installing in Cusco means troubleshooting at altitude with
 
 Partly. Hotels, hostels and cafés in Lima, Cusco and Arequipa usually offer free Wi-Fi, and it is fine for uploading photos at the end of the day. It is not available on the trail, at Rainbow Mountain, on the buses between valley towns, or in the jungle lodges — which is exactly when you want a working map. Treat Wi-Fi as a bonus and the data line as the plan.
 
-### Peru: getting your eSIM live
+### What if my Peru eSIM stops working?
 
 Work the four patterns above in order — data line, geography, dormancy if you bought locally, then manual network selection — and if the line still refuses to register, the wider error catalogue in the [eSIM troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. Before you message support, dig out the EID and order number.
 
@@ -349,6 +345,6 @@ All performance numbers are third-party measurements, current as of their public
 
 The winning Peru setup takes one evening: check your device against [compatibility list](/compatibility/), download your offline maps, and pack the power bank. Then [buy your Peru eSIM](/peru-esim/) and install it on the sofa, not at 3,400 meters.
 
-Not ready to commit? [free eSIM trial](/free-esim/) and see how the whole thing behaves before you spend a sol. The Andes have been disconnecting travelers for five hundred years — your phone does not have to join them.
+Not ready to commit? Grab a [free eSIM trial](/free-esim/) and see how the whole thing behaves before you spend a sol. The Andes have been disconnecting travelers for five hundred years — your phone does not have to join them.
 
 And when you are ready to buy: Roami's [free Roami trial](/free-esim/) is the zero-risk starting point for Peru, with **WEB20** taking 20% off your first paid Roami plan if you decide to stay connected the whole trip.

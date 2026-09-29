@@ -1,11 +1,11 @@
 ---
 
-title: "Which Cambodia eSIM Carrier? Smart, Cellcard, Metfone"
+title: "Travel Cambodia eSIM | Smart, Cellcard & Metfone"
 
-description: "Cambodia's eSIM carriers compared: Roami looks at Smart, Cellcard and Metfone after the 5G launch, from Phnom Penh to island gaps."
-image: "img/esim/carriers/cambodia-esim-carrier-guide.jpg"
+description: "Traveling to Cambodia? Roami eSIM offers fast prepaid data on Smart, Cellcard & Metfone networks, ideal for tourists and remote workers."
+image: "img/esim/carriers/cambodia-esim-carrier-guide.webp"
 
-date: "2026-07-10T22:36:03+00:00"
+date: "2026-09-26"
 
 keywords: eSIM Cambodia, Cambodia eSIM carriers, Smart Axiata eSIM, Cellcard eSIM, Metfone eSIM, prepaid data, 5G network Cambodia, travel eSIM
 
@@ -29,17 +29,7 @@ hero_subtitle_main: "The 2026 carrier comparison, built on independent speed dat
 
 ---
 
-
-
-> **Cambodia's mobile networks, rated for your trip**
-
->
-
-> **The 2026 carrier comparison, built on independent speed data**
-
-
-
-A Cambodia eSIM sits in a market that is both among the cheapest on earth for data and brand new to 5G — this guide splits those two questions apart. Cambodia is an unusual eSIM market in two directions at once. Mobile data is among the **cheapest on Earth** — Cable.co.uk ranks it 5th of 237 countries at roughly **USD 0.12 per gigabyte** — and yet commercial 5G only switched on on **1 January 2026**, when the telecoms ministry cleared Smart, Cellcard and Metfone to light up the first phase of their new networks. So the question "is 5G fast enough in Cambodia?" has a short answer (it is early days) and a useful one: what actually matters for a Cambodia eSIM right now is 4G consistency outside Phnom Penh and Siem Reap, plus knowing how SIM registration works at the airport.
+A Cambodia eSIM sits in a market that is both among the cheapest on earth for data and brand new to 5G — this guide splits those two questions apart. Cambodia is an unusual eSIM market in two directions at once. Local data costs pennies — Cable.co.uk ranks it 5th of 237 countries at roughly **USD 0.12 per gigabyte** — and yet commercial 5G only went live on **1 January 2026**, when the telecoms ministry cleared Smart, Cellcard and Metfone to light up the first phase of their new networks. So the question "is 5G fast enough in Cambodia?" has a short answer (it is early days) and a useful one: what actually matters for a Cambodia eSIM right now is 4G consistency outside Phnom Penh and Siem Reap, plus knowing how SIM registration works at the airport.
 
 
 
@@ -115,7 +105,7 @@ For a visitor, Smart is the default answer: strongest in Phnom Penh and the tour
 
 
 
-### Who leads the speed rankings in Cambodia?
+### Is Cellcard good for streaming?
 
 
 
@@ -123,7 +113,7 @@ Cellcard is Cambodia's home-grown operator and it invested early in video optimi
 
 
 
-### Rural coverage in Cambodia: Smart Axiata vs Cellcard
+### Metfone: the rural and border-province specialist
 
 
 
@@ -143,7 +133,7 @@ Cambodia's numbers changed character in a single quarter. The Ministry of Post a
 
 
 
-### How much data for a Cambodia trip?
+### Which carrier wins which 5G metric?
 
 
 
@@ -209,7 +199,7 @@ A travel eSIM changes the order of operations rather than the outcome: registrat
 
 
 
-## Your eSIM speeds and prices, ranked and sourced
+## Cambodia eSIM speeds and prices
 
 
 
@@ -247,7 +237,7 @@ Cambodia's 2025 figures from DataReportal show 10.8 million internet users (60.7
 
 
 
-## Install your your eSIM before you leave
+## Install your Cambodia eSIM before you leave
 
 
 
@@ -319,7 +309,7 @@ Two Cambodia-specific quirks are worth knowing. Some handsets receive an **incom
 
 
 
-## Local SIM vs Travel eSIM: The Cost Math
+## Local SIM vs travel eSIM: cost comparison
 
 
 
@@ -441,7 +431,7 @@ Two specific traps are worth naming. **Boat and ferry piers** are where bookings
 
 
 
-### Can you buy a Cambodia eSIM from Smart Axiata?
+### Which eSIM should I buy for a multi-country trip?
 
 
 
@@ -469,7 +459,7 @@ The trap is buying a single-country profile for a three-country loop and discove
 
 
 
-### Smart Axiata vs Cellcard 5G: which is better in Cambodia?
+### Is 5G available everywhere in Cambodia?
 
 
 
@@ -501,7 +491,7 @@ The registration requirement attaches to local SIM activation; a travel eSIM pro
 
 
 
-### Cambodia eSIM setup, step by step
+### Is Cambodia's network good for gaming?
 
 
 
@@ -509,7 +499,7 @@ Yes, in the cities. Smart's 37 ms latency (H1 2025) is excellent for real-time g
 
 
 
-### Cambodia eSIM activation, step by step
+### Can I reinstall my Cambodia eSIM if I delete it?
 
 
 
@@ -533,7 +523,7 @@ Smart Axiata for most travellers: it leads 5G Availability at 31.4% and the all-
 
 
 
-### Where does 5G work best in Cambodia?
+### Why do the 5G rankings disagree?
 
 
 
@@ -541,7 +531,7 @@ Because peak and consistency are different things. Cellcard's 548.27 Mbps median
 
 
 
-### Cambodia's 5G leader
+### Will Cambodia's 5G speeds stay this high?
 
 
 
@@ -565,7 +555,7 @@ If you bought a travel eSIM, none — the profile supplies its own APN. If you b
 
 
 
-### Rural and remote coverage in Cambodia
+### Is the network good for video calls in Cambodia?
 
 
 
@@ -581,7 +571,7 @@ No — a single-country profile stops at the border. Cambodia's land crossings a
 
 
 
-### How Cambodia data plans break down
+### How much data do I need for Siem Reap?
 
 
 
@@ -589,7 +579,7 @@ Four to six gigabytes covers a five-day Siem Reap stay comfortably — maps, tuk
 
 
 
-### Cambodia price check: local vs travel eSIM
+### Can I buy a local SIM or eSIM when I land in Cambodia?
 
 
 
@@ -613,15 +603,15 @@ Neither reaches the islands reliably — Koh Rong and Koh Rong Sanloem sit outsi
 
 
 
-### Which Cambodia eSIM suits your trip
+### Should I buy a regional plan or one eSIM per country?
 
 
 
-Yes. A Cambodia-only profile stops working at the Poipet crossing, and buying a Thai line at the border is neither quick nor cheap. Either buy a regional Southeast Asia plan up front or carry separate profiles for each country before you fly.
+A Cambodia-only profile stops working at the Poipet crossing, and buying a Thai line at the border is neither quick nor cheap. Either buy a regional Southeast Asia plan up front or carry separate profiles for each country before you fly.
 
 
 
-### Cambodia 5G, network by network
+### Will my 5G speeds match the reported figures?
 
 
 
@@ -637,7 +627,7 @@ Operators switched on 767 5G sites across the three networks on launch day, 1 Ja
 
 
 
-### Money-saving Cambodia plans
+### Is a local SIM cheaper than a travel eSIM?
 
 
 
@@ -645,7 +635,7 @@ Per gigabyte, yes, usually by a factor of two or more. The difference is the reg
 
 
 
-### Cambodia eSIM plan prices
+### Should I buy my Cambodia eSIM before I fly or on arrival?
 
 
 
@@ -693,7 +683,7 @@ They will, provided you leave your usual line on the physical SIM and let the eS
 
 
 
-### Smart Axiata vs Cellcard prices compared
+### Are airport SIM packages worth it in Cambodia?
 
 
 
@@ -709,7 +699,7 @@ Extend from the provider's dashboard and the same profile keeps working — no n
 
 
 
-### Smart Axiata eSIM plans for visitors
+### Does one eSIM work on all three Cambodian networks?
 
 
 
@@ -733,7 +723,7 @@ None of it is our own measurement. A launch-quarter median tells you what the ne
 
 
 
-## Set Cambodia up before the flight
+## Get your Cambodia eSIM ready before you fly
 
 
 

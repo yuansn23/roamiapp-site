@@ -2,16 +2,16 @@
 
 
 
-title: "North Macedonia eSIM Carriers: A1 vs Telekom vs MTEL"
+title: "5G North Macedonia eSIM | Makedonski Telekom & A1"
 
 
 
-description: "A1, Telekom or MTEL? Roami compares all three North Macedonia eSIM carriers, including the Balkans roaming rule that decides your trip."
-image: "img/esim/carriers/north-macedonia-esim-carrier-guide.jpg"
+description: "Need internet in North Macedonia? Roami eSIM gives prepaid data on Makedonski Telekom & A1 networks, with 5G speeds and easy activation."
+image: "img/esim/carriers/north-macedonia-esim-carrier-guide.webp"
 
 
 
-date: "2026-08-30T14:11:01+00:00"
+date: "2026-09-21"
 
 
 
@@ -57,29 +57,7 @@ hero_subtitle_main: "Coverage, pricing and the fine print that decides your trip
 
 ---
 
-
-
-
-
-
-
-> **North Macedonia eSIM compared: A1, Telekom and MTEL**
-
-
-
->
-
-
-
-> **Coverage, pricing and the fine print that decides your trip**
-
-
-
-
-
-
-
-North Macedonia has some of the cheapest mobile data in Europe and one genuinely confusing quirk: **whether Skopje Airport even has a carrier kiosk is a matter of dispute between sources.** That uncertainty, plus mandatory passport registration and a Western Balkans roaming landscape where the three operators differ sharply, makes this a country where ten minutes of pre-trip reading saves a wasted airport hour. This guide covers the A1 vs Telekom vs MTEL decision with real plan structures, the Lake Ohrid and Matka Canyon coverage reality, and the roam-like-at-home pact among the six Western Balkans countries that most articles never mention.
+North Macedonia has some of the cheapest mobile data in Europe and one genuinely confusing quirk: **whether Skopje Airport even has a carrier kiosk is a matter of dispute between sources.** That uncertainty, plus mandatory passport registration and a Western Balkans roaming landscape where the three operators differ sharply, makes this a country where ten minutes of pre-trip reading saves a wasted airport hour. This North Macedonia eSIM guide covers the A1 vs Telekom vs MTEL decision with real plan structures, the Lake Ohrid and Matka Canyon coverage reality, and the roam-like-at-home pact among the six Western Balkans countries that most articles never mention.
 
 
 
@@ -95,7 +73,7 @@ If your phone's eSIM credentials are unverified, the [compatibility page](/compa
 
 
 
-**The short answer:** Makedonski Telekom has the widest nationwide footprint — the only operator whose prepaid plans include meaningful Western Balkans roaming (10 GB regional on its 30-day unlimited plan, ~1,399 MKD/€26). A1 Macedonia delivers the fastest urban speeds in Skopje, Ohrid and Bitola, with good motorway coverage but reportedly no Balkans roaming. MTEL — the newcomer relaunched from Lycamobile in late 2024, running on A1's network — is the budget option that loses signal outside towns. Registration with a passport is mandatory. Local eSIM sales to visitors are unclear at best, so the dependable route is an eSIM bought online before you fly.
+**The short answer:** Makedonski Telekom has the widest nationwide footprint — the only operator whose prepaid plans include meaningful Western Balkans roaming (10 GB regional on its 30-day unlimited plan, ~1,399 MKD/€26). A1 Macedonia delivers the fastest urban speeds in Skopje, Ohrid and Bitola, with good motorway coverage but reportedly no Balkans roaming. MTEL — the newcomer relaunched from Lycamobile in late 2024, running on A1's network — is the budget option that loses signal outside towns. Registration with a passport is mandatory. Local eSIM sales to visitors are unclear at best, so the dependable route is a North Macedonia eSIM bought online before you fly.
 
 
 
@@ -103,7 +81,7 @@ If your phone's eSIM credentials are unverified, the [compatibility page](/compa
 
 
 
-## The Mobile Market, Mapped
+## The mobile market in North Macedonia
 
 
 
@@ -243,7 +221,7 @@ The regulator is the [Agency for Electronic Communications (AEC)](https://www.ae
 
 
 
-### A1 Macedonia: the urban speedster
+### A1 Macedonia: the fast, city-focused carrier
 
 
 
@@ -391,7 +369,7 @@ The regional-roaming line in that table is the one that matters most. If your tr
 
 
 
-### Skopje Airport SIM buying: why the honest answer is uncertainty
+### Can you buy a SIM at Skopje Airport?
 
 
 
@@ -551,7 +529,7 @@ Price context: [Cable.co.uk's worldwide survey](https://www.cable.co.uk/mobiles/
 
 
 
-- **The lakes are better covered than the mountains.** Ohrid and Dojran are tourist infrastructure; Pelister and Mavrovo's trails are not.
+- **The lakes are better covered than the mountains.** Ohrid and Dojran are tourist infrastructure; Pelister and Mavrovo's parklands are not.
 
 
 
@@ -615,7 +593,7 @@ Crossing borders? The same breakdowns exist for our [Greece eSIM guide](/carrier
 
 
 
-The one route that ignores both the disputed airport kiosk and the mandatory passport-registration counter in the city.
+The one North Macedonia eSIM route that ignores both the disputed airport kiosk and the mandatory passport-registration counter in the city.
 
 
 
@@ -899,7 +877,7 @@ The iPhone path is Settings → Cellular → [the Telekom or A1 line] → Cellul
 
 
 
-The install is a four-step affair — QR scan, line label, data line, roaming — and it behaves the same whether the profile attaches to A1 or Telekom. Walk it through with our [the activation how-to](/faq/how-to-activate-an-esim/) before you fly.
+The install is a four-step affair — QR scan, line label, data line, roaming — and it behaves the same whether the profile attaches to A1 or Telekom. Walk it through with [the activation how-to](/faq/how-to-activate-an-esim/) before you fly.
 
 
 
@@ -955,7 +933,7 @@ Run these before you board — on landing the question is a disputed kiosk and a
 
 
 
-| 6 | Regional plan checked | You know which neighbouring countries your data covers |
+| 7 | Regional plan checked | You know which neighbouring countries your data covers |
 
 
 
@@ -1075,7 +1053,7 @@ Run these before you board — on landing the question is a disputed kiosk and a
 
 
 
-3. Remember Matka's gorge and Pelister's trails are dead on all three networks
+3. Remember Matka's gorge and Pelister's high country are dead on all three networks
 
 
 
@@ -1231,7 +1209,7 @@ Yes in the cities — A1 has a strong 5G presence in central Skopje and Telekom 
 
 
 
-It will roam, but at capped regional rates — North Macedonia is not in the EU's roam-like-at-home zone, and the Western Balkans agreement that lowers regional charges is a separate arrangement. For anything beyond a day, a local plan or travel eSIM is cheaper.
+It will roam, but at capped regional rates — North Macedonia is not in the EU's roam-like-at-home zone, and the Western Balkans agreement that lowers regional charges is a separate arrangement. For anything beyond a day, a local plan or a North Macedonia eSIM is cheaper.
 
 
 

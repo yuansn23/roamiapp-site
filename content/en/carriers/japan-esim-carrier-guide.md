@@ -1,8 +1,8 @@
 ---
-title: "Japan eSIM Carriers: Docomo, au, SoftBank, Rakuten"
-description: "Not sure which Japan eSIM carrier to pick? Roami compares Docomo and SoftBank speeds, prepaid rules and APN settings for your trip."
-image: "img/esim/carriers/japan-esim-carrier-guide.jpg"
-date: "2026-08-09T15:13:47+00:00"
+title: "Unlimited Japan eSIM Data | Docomo, au & SoftBank"
+description: "Stay online in Japan with Roami eSIM. Prepaid data on Docomo, au & SoftBank networks, with 5G speeds and easy activation for travelers."
+image: "img/esim/carriers/japan-esim-carrier-guide.webp"
+date: "2026-09-23"
 keywords: Japan eSIM carriers, Docomo eSIM, au eSIM, SoftBank eSIM, Rakuten Mobile eSIM, Japan 5G coverage, Japan eSIM APN, eSIM Japan prepaid, best eSIM carrier Japan, Japan travel eSIM
 site_name: Roami
 brand_name: Roami
@@ -15,13 +15,9 @@ hero_badge: "The Japan carrier face-off: 2026 data"
 hero_subtitle_main: "Docomo, au and SoftBank — what the latest network data actually shows"
 ---
 
-> **The Japan carrier face-off: 2026 data**
->
-> **Docomo, au and SoftBank — what the latest network data actually shows**
-
 Pick a network, not a brand: which carrier should your Japan eSIM connect to? Japan's four national networks are not interchangeable. On Ookla's 2H 2024 Japan report, Rakuten Mobile was the most consistent network at 89.9%, SoftBank offered the best video and gaming experiences, NTT Docomo led on 5G availability at 43%, and au balanced city and rural reach. Which one is best depends on where you are going, because the best eSIM carrier for Japan is a routing decision, not a brand decision. After guiding enough travelers through their first Japan eSIM, we know the usual confusion points; the sections below address them one by one.
 
-Some phones cannot take an eSIM at all, and plenty of people have never seen a profile install.Both gaps are covered elsewhere — the [compatibility checker](/compatibility/) and the [activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/) — so this page can stay on the networks.
+Some phones cannot take an eSIM at all, and plenty of people have never seen a profile install. Both gaps are covered elsewhere — the [eSIM compatibility quiz](/compatibility/) and the [activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/) — so this page can stay on the networks.
 
 **If you read nothing else:** Staying in Tokyo, Osaka or Kyoto? Rakuten Mobile runs the fastest 5G in the country at 151.16 Mbps and the most consistent network at 89.9%. Streaming a lot of video or gaming? SoftBank wins on video score (75.91) and gaming score (80.94). Heading into rural Tohoku, Hokkaido or the mountains? NTT Docomo holds signal where the others fade, thanks to the best 5G availability at 43%. Want a carrier eSIM as a visitor? Only au sells one walk-up, through its povo brand at Lawson. Or skip the paperwork: [free eSIM trial](/free-esim/) tests the networks at no cost; apply code **WEB20** for 20% off [Japan prepaid eSIM plans](/japan-esim/).
 
@@ -76,7 +72,7 @@ Three things decide whether your phone works on a Japanese carrier: its bands, i
 
 Japanese carriers build their 5G on specific bands, and the split matters more than in most countries. Rakuten Mobile, au and SoftBank all share the global mid-band n77, so almost any foreign 5G phone connects there. NTT Docomo adds its own n79 layer and leans on LTE Band 19 at 800 MHz for low-band coverage, and many North American and European handsets ship without those two. Those phones still work on Docomo, but they fall back to Bands 1 and 3 and lose signal in rural areas, mountain tunnels and the Shinkansen.
 
-The Japanese band list looks intimidating and is mostly not worth learning. The safe bet is to match your exact model, the model number rather than the shop name, against [eSIM compatibility list](/compatibility/). Want the theory before the practice? [what your phone does when it loads an eSIM profile](/faq/what-is-esim-activation-and-how-does-it-work/) covers the load sequence.
+The Japanese band list looks intimidating and is mostly not worth learning. The safe bet is to match your exact model, the model number rather than the shop name, against the [eSIM compatibility list](/compatibility/). Want the theory before the practice? The explainer on [what your phone does when it loads an eSIM profile](/faq/what-is-esim-activation-and-how-does-it-work/) covers the load sequence.
 
 ### Docomo vs au: which is better in Japan?
 A locked phone is the most common reason a Japan eSIM install simply fails, and Japan has unusually clear rules here.
@@ -165,7 +161,7 @@ Rakuten's SAIKYO Plan is genuinely cheap, about ¥1,078/mo up to 3 GB, ¥2,178/m
 - **Wi-Fi** — install the profile before you fly, not at the airport
 - **A card that works in Japan** — some carrier checkouts reject foreign billing addresses
 
-Plans and current tiers live on our [Japan eSIM page](/japan-esim/). Install at home so the profile connects the moment you land.
+Plans and current tiers live on our [Japan eSIM page](/japan-esim/). Install at home so the profile connects the moment you land, and if you plan to tether a laptop, check the plan's hotspot policy before buying.
 
 ## Your eSIM speeds: Docomo vs au
 
@@ -223,7 +219,7 @@ Japanese coverage tracks population density — dense in the metros, thinning fa
 | Mountain areas | Docomo's Band 19 holds signal; Rakuten is limited away from cities |
 | Shinkansen | Docomo is most consistent in tunnels; always download offline maps first |
 
-Crossing a border? We publish the same sourced breakdown for [South Korea eSIM plans](/south-korea-esim/), compare [Taiwan, China eSIM](/taiwan-esim/) and [Hong Kong, China travel eSIM](/hong-kong-esim/). If your trip covers several countries, a [Asia](/asia-esim/) saves buying twice.
+Crossing a border? We publish the same sourced breakdown for [South Korea eSIM plans](/south-korea-esim/), compare [Taiwan, China eSIM](/taiwan-esim/) and [Hong Kong, China travel eSIM](/hong-kong-esim/). If your trip covers several countries, a [Asia](/asia-esim/) plan saves buying twice.
 
 This is why automatic carrier switching matters on a Japanese trip. A profile that can move between Docomo, au, SoftBank and Rakuten covers the regional gaps that any single-carrier plan cannot.
 
@@ -259,14 +255,14 @@ Most Japanese profiles configure themselves; these are the narrow cases that do 
 
 After saving, restart the phone. When data still refuses to work, confirm the Japanese profile owns the data line before touching other settings.
 
-## Japan eSIM activation, minus the drama
+## Japan eSIM activation and troubleshooting
 
 A single sweep of this section covers everything from clean install to working data, including the failure patterns a Japanese network can produce, in the order they typically appear.
 
 ### Japan eSIM: installation walkthrough
 | # | Check | What good looks like |
 |:---|:---|:---|
-| 1 | Phone is not carrier locked | No SIM restrictions listed in About -> Carrier Lock |
+| 1 | Phone is not carrier locked | No SIM restrictions listed in About → Carrier Lock |
 | 2 | Phone supports eSIM | `*#06#` shows an EID, or the compatibility checker confirms your model |
 | 3 | QR code and activation code saved | Screenshot on the phone and in cloud storage |
 | 4 | Profile installed before departure | Install on Wi-Fi at home; it connects when you land |
@@ -286,7 +282,7 @@ The ordinary route — Add eSIM, QR scan, data-line choice — is in our [activa
 
 ### Four remedies for a stalling Japan eSIM
 
-General activation errors, a profile that will not download, a scan that fails, an eSIM that installs but never registers, are covered in our [eSIM troubleshooting resource](/faq/esim-activation-errors-troubleshooting-guide/). Japan has its own set of four patterns, listed below.
+General activation errors — a profile that will not download, a scan that fails, an eSIM that installs but never registers — are covered in our [eSIM troubleshooting resource](/faq/esim-activation-errors-troubleshooting-guide/). Japan has its own set of four patterns, listed below.
 
 **A. The eSIM will not install**
 1. Carrier Lock showing No SIM restrictions means the phone is unlocked
@@ -319,7 +315,7 @@ General activation errors, a profile that will not download, a scan that fails, 
 | Data roaming status | Settings → Cellular → your eSIM line |
 | Steps already tried | Keep a short list |
 
-## Your Japan eSIM and carrier question board
+## Japan eSIM FAQ
 
 ### Can I buy a tourist eSIM directly from NTT Docomo?
 
@@ -339,7 +335,7 @@ Rakuten is the fastest and most consistent network in Ookla's 2H 2024 data, but 
 
 ### Docomo vs au: coverage compared
 
-NTT Docomo, on the evidence. It led Ookla's 5G availability at 43% and wins on breadth of coverage, especially in Hokkaido, Tohoku and the mountains, because its low-band Layer uses Band 19. The catch is that many foreign phones lack Band 19, so they see Docomo's coverage only on Bands 1 and 3. A multi-network eSIM avoids that trap.
+NTT Docomo, on the evidence. It led Ookla's 5G availability at 43% and wins on breadth of coverage, especially in Hokkaido, Tohoku and the mountains, because its low-band layer uses Band 19. The catch is that many foreign phones lack Band 19, so they see Docomo's coverage only on Bands 1 and 3. A multi-network eSIM avoids that trap.
 
 ### Best-coverage network in Japan
 
@@ -362,11 +358,11 @@ It needs to be unlocked and eSIM-capable, and it helps if it supports the bands 
 
 ### What if my Japan eSIM stops working on the Shinkansen?
 
-Work the Japan-specific patterns above in order, lock status, network selection, APN and data line, then profile reinstall, and if it still fails the wider error catalogue in [eSIM activation fixes guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. On the bullet train, prefer Docomo for tunnel consistency and always download offline maps before you board.
+Work the Japan-specific patterns above in order, lock status, network selection, APN and data line, then profile reinstall, and if it still fails the wider error catalogue in the [eSIM activation fixes guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. On the bullet train, prefer Docomo for tunnel consistency and always download offline maps before you board.
 
 ### The chip that stores a Docomo or au profile
 
-The chip is already soldered into your phone — what a Japanese purchase adds is a profile. The carrier pushes it down, the chip keeps it, and the line then behaves normally. [the eSIM activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/) covers the delivery, activation codes included.
+The chip is already soldered into your phone — what a Japanese purchase adds is a profile. The carrier pushes it down, the chip keeps it, and the line then behaves normally. For more, [the eSIM activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/) covers the delivery, activation codes included.
 
 More questions? [Browse the full FAQ](/faq/)
 
@@ -380,7 +376,7 @@ More questions? [Browse the full FAQ](/faq/)
 
 These are third-party readings only. Your own results will shift with the phone you carry, the band it camps on, and how loaded the nearby mast is.
 
-## Your Japan eSIM, ready before you board
+## Get your Japan eSIM ready before you fly
 
 Roami's Japan eSIM moves between Docomo, au, SoftBank and Rakuten Mobile so you stay online from Tokyo to Hokkaido. Claim the [free Japan trial eSIM](/free-esim/) to test coverage, or take 20% off [Japan eSIM plans](/japan-esim/) with code **WEB20**.
 

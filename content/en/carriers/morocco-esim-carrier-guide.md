@@ -1,11 +1,11 @@
 ---
 
-title: "Morocco eSIM Carriers: Maroc Telecom, inwi, Orange"
+title: "5G Morocco eSIM | Maroc Telecom, Orange & inwi Coverage"
 
-description: "Marrakech to Merzouga, coverage thins fast. Roami sizes up Maroc Telecom, inwi and Orange so your Morocco eSIM works where the road ends."
-image: "img/esim/carriers/morocco-esim-carrier-guide.jpg"
+description: "Stay online in Morocco with Roami eSIM. Prepaid 5G data on Maroc Telecom, Orange & inwi networks, ideal for tourists and business users."
+image: "img/esim/carriers/morocco-esim-carrier-guide.webp"
 
-date: "2026-08-23T14:07:36+00:00"
+date: "2026-09-21"
 
 keywords: Morocco eSIM carriers, Maroc Telecom eSIM, inwi eSIM, Orange Morocco eSIM, Morocco 5G coverage, Morocco eSIM desert coverage, eSIM Morocco prepaid, best eSIM carrier Morocco
 
@@ -29,25 +29,15 @@ hero_subtitle_main: "What independent speed data reveals — and what it misses"
 
 ---
 
-
-
-> **Maroc Telecom, inwi or Orange Morocco? The Morocco choice**
-
->
-
-> **Maroc Telecom, inwi and Orange, rated on Ookla 2H 2024 Speedtest data and Maroc Telecom's own published eSIM prices**
-
-
-
 Which carrier should your Morocco eSIM connect to? For most trips the answer is Maroc Telecom, and the data is unusually lopsided: in Ookla's 2H 2024 Speedtest Connectivity Report, Maroc Telecom was the fastest provider in **eight of Morocco's nine largest cities**, won the best mobile video experience (70.89), and posted a network consistency score of **89.2%** — while also being the only one of the three carriers to publish tourist eSIM offers with real prices on its own website. inwi and Orange are credible alternatives in the cities, but neither matches the incumbent's reach once the road climbs into the Atlas or turns off the main highway. The rebuild cycle runs on Roami's own Morocco activation data and tickets, with press releases as a secondary input.
 
 
 
-**Quick answer:** Go with Maroc Telecom if coverage matters more than price, inwi if you are staying across the main cities. First, confirm your phone actually supports eSIM — the [compatibility checker](/compatibility/) sorts it out in a minute.
+**Quick answer:** A Maroc Telecom Morocco eSIM is the right default if coverage matters more than price; inwi is the value pick if you are staying across the main cities. First, confirm your phone actually supports eSIM — the [compatibility checker](/compatibility/) sorts it out in a minute.
 
 
 
-First question worth settling: can your phone even take an eSIM?The [eSIM compatibility checker](/compatibility/) settles that in under a minute, and the explainer on [what happens during eSIM activation](/faq/what-is-esim-activation-and-how-does-it-work/) covers what happens when a profile downloads. Everything past this point is about the networks.
+First question worth settling: can your phone even take an eSIM? The [eSIM compatibility checker](/compatibility/) settles that in under a minute, and the explainer on [what happens during eSIM activation](/faq/what-is-esim-activation-and-how-does-it-work/) covers what happens when a profile downloads. Everything past this point is about the networks.
 
 
 
@@ -59,7 +49,7 @@ First question worth settling: can your phone even take an eSIM?The [eSIM compat
 
 
 
-Morocco has three national carriers — the incumbent **Maroc Telecom (IAM)**, **Orange Morocco** and **inwi** — all licensed and regulated by ANRT, the national telecom regulator. All three run modern 4G networks with 5G live in the biggest cities, and all three require passport registration for any SIM, physical or embedded.
+Every Morocco eSIM rides one of three national carriers — the incumbent **Maroc Telecom (IAM)**, **Orange Morocco** and **inwi** — all licensed and regulated by ANRT, the national telecom regulator. All three run modern 4G networks with 5G live in the biggest cities, and all three require passport registration for any SIM, physical or embedded.
 
 
 
@@ -123,7 +113,7 @@ The carrier's fixed network leads the market too: fastest ISP with a Speed Score
 
 
 
-### inwi: the challenger that now leads on subscriptions
+### inwi eSIM plans and performance
 
 
 
@@ -171,7 +161,7 @@ The carrier's fixed network leads the market too: fastest ISP with a Speed Score
 
 
 
-## Maroc Telecom sells the tourist eSIM travelers actually want
+## Maroc Telecom tourist eSIM plans
 
 
 
@@ -193,7 +183,7 @@ This is where Morocco is friendlier than most of the region. Maroc Telecom's own
 
 
 
-The purchase flow is straightforward: subscribe online before you travel or in an agency on arrival, scan the QR code, and — this is the part people miss — **place a first call once you are on Moroccan soil to activate the line and release the data allowance**. Maroc Telecom prices the eSIM the same as a physical SIM, and the QR code can be rescanned on multiple compatible devices at no extra cost. That 120 DH / 20 GB tier works out near the national average of about **USD 0.63 per gigabyte** that Cable.co.uk measures for Morocco, without any store visit.
+The purchase flow is straightforward: subscribe online before you travel or in an agency on arrival, scan the QR code, and — this is the part people miss — **place a first call once you are on Moroccan soil to activate the line and release the data allowance**. Maroc Telecom prices its Morocco eSIM the same as a physical SIM, and the QR code can be rescanned on multiple compatible devices at no extra cost. That 120 DH / 20 GB tier works out near the national average of about **USD 0.63 per gigabyte** that Cable.co.uk measures for Morocco, without any store visit.
 
 
 
@@ -259,11 +249,11 @@ The QR is reusable across your own compatible devices at no extra cost, so a tab
 
 
 
-## inwi and Orange eSIMs: possible, with more friction
+## Can you buy an inwi or Orange Morocco eSIM?
 
 
 
-Both challengers sell eSIMs to prepaid customers, but neither publishes a tourist eSIM product the way IAM does. For **inwi**, plan on an official store or an activated channel with your passport; for **Orange Morocco**, traveler reports consistently describe eSIM as store-dependent, with airport kiosks mostly issuing physical SIMs. That is not a problem in the big cities, where each carrier has branches in the central districts, but it does mean a detour on day one — one reason the direct-carrier route in Morocco is easiest via Maroc Telecom, and one reason many short-stay visitors simply take a [travel eSIM for Morocco](/morocco-esim/) that provisions itself before the flight.
+Both challengers sell eSIMs to prepaid customers, but neither publishes a Morocco eSIM for visitors the way IAM does. For **inwi**, plan on an official store or an activated channel with your passport; for **Orange Morocco**, traveler reports consistently describe eSIM as store-dependent, with airport kiosks mostly issuing physical SIMs. That is not a problem in the big cities, where each carrier has branches in the central districts, but it does mean a detour on day one — one reason the direct-carrier route in Morocco is easiest via Maroc Telecom, and one reason many short-stay visitors simply take a [travel eSIM for Morocco](/morocco-esim/) that provisions itself before the flight.
 
 
 
@@ -305,7 +295,7 @@ The carrier question collapses once you know the shape of your itinerary. Pick y
 
 
 
-## Registration: The Legal Side
+## SIM registration rules in Morocco
 
 
 
@@ -531,7 +521,7 @@ This is the table to read before you choose a carrier, because it is where the t
 
 
 
-## The Mobile Market, Mapped
+## Choosing a Morocco carrier by region
 
 
 
@@ -549,13 +539,13 @@ What the coverage reality looks like on the classic routes:
 
 - **Merzouga and Erg Chebbi:** the village itself has signal — the remote camps beyond it generally do not. Plan your uploads for the evening back in town, and download offline maps for everything south of Ouarzazate.
 
-- **High Atlas trekking (Toubkal, Azzaden valleys):** ridgelines occasionally catch signal; valleys between villages often do not. No carrier is a safety plan in the mountains.
+- **High Atlas day hikes (Toubkal, Azzaden valleys):** ridgelines occasionally catch signal; valleys between villages often do not. No carrier is a safety plan in the mountains.
 
 - **Coastal detours (Essaouira, Agadir, the Anti-Atlas):** the Atlantic belt is well covered by all three; Agadir posts some of the fastest city speeds in the country.
 
 
 
-If your Morocco trip continues overland, your eSIM stops at the border. Compare the [Algeria eSIM guide](/carriers/algeria-esim-carrier-guide/) for the eastern land route, the [Tunisia eSIM guide](/carriers/tunisia-esim-carrier-guide/) for the Mediterranean arc, and the [Egypt eSIM guide](/carriers/egypt-esim-carrier-guide/) if the journey continues to the Red Sea; a ferry to Europe means the [Spain eSIM guide](/carriers/spain-esim-carrier-guide/) is the one you want. Multi-country itineraries are exactly the case for a profile that can re-select the strongest local network automatically.
+If your trip continues overland, your Morocco eSIM stops at the border. Compare the [Algeria eSIM guide](/carriers/algeria-esim-carrier-guide/) for the eastern land route, the [Tunisia eSIM guide](/carriers/tunisia-esim-carrier-guide/) for the Mediterranean arc, and the [Egypt eSIM guide](/carriers/egypt-esim-carrier-guide/) if the journey continues to the Red Sea; a ferry to Europe means the [Spain eSIM guide](/carriers/spain-esim-carrier-guide/) is the one you want. Multi-country itineraries are exactly the case for a profile that can re-select the strongest local network automatically.
 
 
 
@@ -623,7 +613,7 @@ Three practical moves make this work:
 
 2. Do your call or your upload from the terrace, where you also get the best view.
 
-3. Keep your own data line as the fallback, because the moment the riad's router drops you are in a stone box with no bars.
+3. Keep your own data line as the fallback, because the moment the riad's router drops you are in a stone box with no bars — a laptop can still get online by tethering to the eSIM's hotspot.
 
 
 
@@ -659,7 +649,7 @@ Morocco's European edge is 14 km away, and it changes your phone's behaviour in 
 
 
 
-Two details matter more than the timings. **Tangier Med is not Tangier** — it is a commercial port roughly 40 km east of the city, so allow a transfer if you are continuing by rail from Tangier Ville. And **Ceuta and Melilla are Spanish**, which means your phone hands over to an European network the moment you dock. A Morocco-only eSIM stops working at the gangway; that is the case for carrying a multi-country profile or a second Spanish plan, and the [carrier notes for Spain](/carriers/spain-esim-carrier-guide/) cover what the EU networks do there.
+Two details matter more than the timings. **Tangier Med is not Tangier** — it is a commercial port roughly 40 km east of the city, so allow a transfer if you are continuing by rail from Tangier Ville. And **Ceuta and Melilla are Spanish**, which means your phone hands over to a European network the moment you dock. A Morocco-only eSIM stops working at the gangway; that is the case for carrying a multi-country profile or a second Spanish plan, and the [carrier notes for Spain](/carriers/spain-esim-carrier-guide/) cover what the EU networks do there.
 
 
 
@@ -667,11 +657,11 @@ Two details matter more than the timings. **Tangier Med is not Tangier** — it 
 
 
 
-## Start with your phone
+## Will your phone work with a Morocco eSIM?
 
 
 
-Three checks, in order of how often they fail. First, **carrier lock**: a phone bought on contract in your home country must be unlocked before any Moroccan eSIM installs. Second, **bands**: Moroccan 4G runs on LTE bands 3 (1800 MHz), 7 (2600 MHz) and 20 (800 MHz), with 5G on n78 (3500 MHz) and n28 (700 MHz) — nearly every phone sold in the last five years covers these, so band problems are rare. Third, **eSIM hardware**: iPhone XS and later, Google Pixel 3 and later, and recent Samsung Galaxy models all work. Check your exact model in the [compatibility checker](/compatibility/) before you buy anything, and if you are curious what your phone is doing during install, [the activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/) covers it.
+Three checks decide whether a Morocco eSIM will install cleanly, in order of how often they fail. First, **carrier lock**: a phone bought on contract in your home country must be unlocked before any Moroccan eSIM installs. Second, **bands**: Moroccan 4G runs on LTE bands 3 (1800 MHz), 7 (2600 MHz) and 20 (800 MHz), with 5G on n78 (3500 MHz) and n28 (700 MHz) — nearly every phone sold in the last five years covers these, so band problems are rare. Third, **eSIM hardware**: iPhone XS and later, Google Pixel 3 and later, and recent Samsung Galaxy models all work. Check your exact model in the [compatibility list](/compatibility/) before you buy anything, and if you are curious what your phone is doing during install, [the activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/) covers it.
 
 
 
@@ -773,7 +763,7 @@ Save, then restart the handset. Before you change anything else, confirm that th
 
 
 
-### Five Morocco eSIM failure patterns, in the order you meet them
+### Common Morocco eSIM problems and fixes
 
 
 
@@ -801,7 +791,7 @@ Save, then restart the handset. Before you change anything else, confirm that th
 
 **C. Bars, but no data**
 
-1. The eSIM should be the default line for mobile data -- confirm it, not the home SIM.
+1. The eSIM should be the default line for mobile data — confirm it, not the home SIM.
 
 2. Check that data roaming is enabled for the eSIM line.
 
@@ -883,11 +873,11 @@ Morocco sits in the cheapest region in the world for mobile data, and it sits in
 
 
 
-The honest comparison is not dirhams against dollars. It is the cost of the hour you spend finding a store, presenting a passport, choosing a plan in French and testing the line, weighed against a plan that is already on your phone when the wheels touch down.
+The honest comparison is not dirhams against dollars. It is the cost of the hour you spend finding a store, presenting a passport, choosing a plan in French and testing the line, weighed against a Morocco eSIM that is already on your phone when the wheels touch down.
 
 
 
-## Carrier and eSIM questions for Morocco, settled
+## Morocco eSIM FAQ
 
 
 
@@ -903,7 +893,7 @@ Maroc Telecom, by a wide margin. It is the incumbent with the deepest rural buil
 
 
 
-Yes, from Maroc Telecom: its e-boutique sells the tourist Essentiel eSIM offers (70–320 DH) online, and the profile activates with a first call once you are in Morocco. inwi and Orange are effectively store-purchase experiences for visitors.
+Roaming on your home plan works where your carrier has an agreement, but speeds and prices are usually far worse than a local or travel eSIM. A data eSIM that attaches to Maroc Telecom's network will beat almost any roaming arrangement on both.
 
 
 
@@ -911,7 +901,7 @@ Yes, from Maroc Telecom: its e-boutique sells the tourist Essentiel eSIM offers 
 
 
 
-Yes. Moroccan law requires every SIM card to be registered to a named individual with valid ID, and a passport is the document travelers use. It applies at airport kiosks, carrier stores and resellers alike, for physical SIMs and eSIMs.
+Bring your passport. Moroccan law requires every SIM card to be registered to a named individual with valid ID, and a passport is the document travelers use. It applies at airport kiosks, carrier stores and resellers alike, for physical SIMs and eSIMs.
 
 
 
@@ -943,7 +933,7 @@ For data per dirham, inwi and Maroc Telecom's 120 DH / 20 GB tier are both compe
 
 
 
-Roaming on your home plan works where your carrier has an agreement, but speeds and prices are usually far worse than a local or travel eSIM. A data eSIM that attaches to Maroc Telecom's network will beat almost any roaming arrangement on both.
+You can buy direct from Maroc Telecom: its e-boutique sells the tourist Essentiel eSIM offers (70–320 DH) online, and the profile activates with a first call once you are in Morocco. inwi and Orange are effectively store-purchase experiences for visitors.
 
 
 
@@ -983,7 +973,7 @@ All three operators launched commercial 5G on **7 November 2025**, about three m
 
 
 
-Yes. Maroc Telecom prices the eSIM identically to a physical SIM, and the QR code can be rescanned on multiple compatible devices at no extra cost. The only functional difference is the one extra step: the first outbound call that releases the line.
+There is no eSIM premium. Maroc Telecom prices the eSIM identically to a physical SIM, and the QR code can be rescanned on multiple compatible devices at no extra cost. The only functional difference is the one extra step: the first outbound call that releases the line.
 
 
 
@@ -999,7 +989,7 @@ Latency, mostly. Tangier's median download of 45.29 Mbps is the slowest of the b
 
 
 
-No. Both are Spanish territory, so your phone attaches to an European network the moment you arrive. A Morocco-only profile stops there; you need a Spanish or multi-country plan for those days. The [Spain carrier guide](/carriers/spain-esim-carrier-guide/) covers the details.
+No. Both are Spanish territory, so your phone attaches to a European network the moment you arrive. A Morocco-only profile stops there; you need a Spanish or multi-country plan for those days. The [Spain carrier guide](/carriers/spain-esim-carrier-guide/) covers the details.
 
 
 
@@ -1029,7 +1019,7 @@ Everything here is somebody else's measurement. Your handset, the band you attac
 
 
 
-## Get set up before your Morocco flight
+## Get your Morocco eSIM ready before you fly
 
 
 

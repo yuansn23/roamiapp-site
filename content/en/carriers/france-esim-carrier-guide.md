@@ -1,8 +1,8 @@
 ---
-title: "France eSIM Carriers: Orange, SFR, Bouygues and Free"
-description: "Roami benchmarks France's four carriers for your France eSIM: Orange leads on 5G speed, Free on price, while SFR and Bouygues stay shop-only."
-image: "img/esim/carriers/france-esim-carrier-guide.jpg"
-date: "2026-07-27T12:59:31+00:00"
+title: "Travel France eSIM | Orange, SFR & Bouygues Coverage"
+description: "Travel France with Roami eSIM. Get fast 5G prepaid data on Orange, SFR & Bouygues networks, with no roaming fees and instant setup online."
+image: "img/esim/carriers/france-esim-carrier-guide.webp"
+date: "2026-09-24"
 keywords: France eSIM carriers, Orange eSIM, SFR eSIM, Bouygues Telecom eSIM, Free Mobile eSIM, Orange Travel eSIM, France 5G coverage, eSIM France prepaid, best eSIM carrier France
 site_name: Roami
 brand_name: Roami
@@ -14,10 +14,6 @@ breadcrumb_items:
 hero_badge: "The France network guide: who wins where"
 hero_subtitle_main: "A data-first look at France's mobile networks"
 ---
-
-> **The France network guide: who wins where**
->
-> **A data-first look at France's mobile networks**
 
 Picking a France eSIM means choosing between four networks that split the wins — speed, price and shop-only tourist rules — and this guide breaks down each one. **If you read nothing else:** France runs four mobile networks, and only one of them sells a tourist eSIM you can buy without setting foot in a shop. On speed, Orange is the network to beat: a median 5G download of **281.3 Mbps**, the fastest overall network at 122.77 Mbps, and the best 5G consistency (77.9%) in the country per Ookla's H2 2024 report.
 
@@ -90,17 +86,17 @@ The fixed-broadband row is there for a reason: if your hotel has Bouygues fibre,
 | Nice | 157.26 Mbps | 13.19 Mbps | 51.39 ms | 88.3% | No winner |
 | Marseille | 152.16 Mbps | 12.05 Mbps | 44.72 ms | 88.8% | No winner |
 
-Note the latency column as much as the speed column. Paris measured 32.53 ms while Toulouse, the fastest city on download, measured 54.2 ms — which is why the existing advice to pick Orange for day trips out of Paris is about reach, not about the city itself. The worst city here, Marseille, still averaged 152.16 Mbps, more than Belgium's national median.
+Note the latency column as much as the speed column. Paris measured 32.53 ms while Toulouse, the fastest city on download, measured 54.2 ms — which is why the existing advice to pick an Orange-based France eSIM for day trips out of Paris is about reach, not about the city itself. The worst city here, Marseille, still averaged 152.16 Mbps, more than Belgium's national median.
 
 ## Who runs the networks here
 
 The four networks are not interchangeable, but they are also not ordered. Each one leads somewhere.
 
-### Picking by trip: France eSIM edition
+### Picking a France eSIM by trip
 
 Orange took the **fastest mobile network (Speed Score 151.03)**, the **fastest 5G network (Speed Score 242.49, median 281.3 Mbps)**, the **best 5G consistency (77.9%)**, the **best video score (74.64 overall, 82.45 on 5G)** and the **best gaming score (88.38 overall, 91.32 on 5G)** — and the highest consumer sentiment at 3.58 of 5. ARCEP's independent audit agrees on the corridors: Orange led TGV, Intercités, TER and metro measurements, and in rural areas it posted 79% of pages loaded in under five seconds against Bouygues's 71%.
 
-**Buying in as a visitor:** Orange is the only one of the four with a purpose-built tourist product. Orange Travel, sold on Orange's own store, needs no shop visit at all.
+**Buying in as a visitor:** Orange is the only one of the four with a purpose-built France eSIM for visitors. Orange Travel, sold on Orange's own store, needs no shop visit at all.
 
 **What it costs:** the Europe eSIM starts at €24.99 for 20 GB over 14 days with unlimited European calls and texts, rising to €44.99 for 50 GB over 30 days and €47.99 for 100 GB. The 200 GB and 500 GB tiers are €57.99 and €99.99 on current discounts.
 
@@ -146,7 +142,7 @@ Free's network position is unusual: it recorded the **highest 5G availability in
 
 ## Which eSIM can a tourist actually buy in France?
 
-Here is the split that matters more than any speed test. Buying direct from a French carrier as a visitor requires identification — a passport is accepted, and operators may also ask for an address in France, for which your hotel is usually sufficient. That is manageable in a store, but the carriers' eSIM flows online are built around French payment methods and resident accounts. SFR, Bouygues and Free have no visitor-oriented eSIM product worth navigating that maze for.
+Here is the split that matters more than any speed test. Buying direct from a French carrier as a visitor requires identification — a passport is accepted, and operators may also ask for an address in France, for which your hotel is usually sufficient. That is manageable in a store, but the carriers' eSIM flows online are built around French payment methods and resident accounts. SFR, Bouygues and Free have no visitor-oriented France eSIM product worth navigating that maze for.
 
 The exception — and the reason France is easier than most of Europe — is **Orange Travel**, the product long known as the Orange Holiday eSIM. On [Orange's official travel store](https://travel.orange.com/en/buy-a-sim/offers/europe) it is sold entirely online, covers 39 European countries including France, and includes:
 
@@ -182,7 +178,7 @@ The features that separate it from the data-only crowd are worth listing plainly
 - **Rechargeable top-ups.** From 1 GB to 500 GB, added from the app without reinstalling the profile or scanning a new QR code.
 - **A full refund if the eSIM is unused.** Plans are refundable before activation.
 
-Two pieces of fine print matter for a longer stay. Under French law, a SIM with calling features must be registered to an identified person, so **Orange asks you to register the eSIM on its website if you intend to keep using it beyond the first 30 days** — an one-time works immediately, but do the registration if your trip is longer than that. And the coverage list includes **Switzerland and Monaco**, which are outside the EU's roaming rules; Orange bundles them commercially into this plan rather than relying on the regulation.
+Two pieces of fine print matter for a longer stay. Under French law, a SIM with calling features must be registered to an identified person, so **Orange asks you to register the eSIM on its website if you intend to keep using it beyond the first 30 days** — the eSIM works immediately without it, but do the registration if your trip is longer than that. And the coverage list includes **Switzerland and Monaco**, which are outside the EU's roaming rules; Orange bundles them commercially into this plan rather than relying on the regulation.
 
 ## Per-GB pricing
 
@@ -210,7 +206,7 @@ Free Mobile's role in this market is not a marketing line — it is measurable. 
 
 Two caveats are relevant to visitors. First, Free built its network late and still leans on a national roaming agreement with Orange outside its own footprint — its coverage is population-wide for 4G but thinner in remote areas than Orange's. Second, Free sells online and through a handful of stores and kiosks; there is no tourist prepaid product, and the account flows assume a French bank card. So Free is the reason your travel eSIM is cheap, more than it is a carrier you will buy from directly.
 
-If you want a French number cheaply and have the patience for paperwork, a Free SIM (about €10) plus the €19.99 plan remains the resident-style budget route. For stays measured in days, the friction outweighs the saving.
+If you want a French number cheaply and have the patience for paperwork, a Free SIM (about €10) plus the €19.99 plan remains the resident-style budget route. For stays measured in days, the friction outweighs the saving — which is exactly where a France eSIM bought before you fly wins.
 
 ### Taking your France eSIM overseas
 
@@ -265,7 +261,7 @@ The practical translation for a visitor: **if your itinerary is city-only, netwo
 
 Border behaviour is the other thing travelers miss. A France-only eSIM goes dark the moment you cross into Belgium, Switzerland or Spain — and with Brussels barely 90 minutes from Paris by train, that happens more often than people plan for. Regional plans solve it; our [Belgium eSIM carrier guide](/carriers/belgium-esim-carrier-guide/) covers what changes on the other side of that border.
 
-## Corsica and the Alps: where French seasonal load bites
+## Corsica and the Alps: seasonal coverage problems
 
 The two big holiday regions fail in different ways, and neither failure is really about the network.
 
@@ -334,7 +330,7 @@ France uses the standard European band set: 4G on 800 MHz (B20), 1800 MHz (B3) a
 
 Two France-specific notes. First, **Orange Travel requires eSIM-capable hardware**, and Orange publishes its own compatibility list on the store page — check your model there before buying, because the plan is not sold as a physical SIM on that route. Second, **a locked phone will fail on any French network**, and the failure looks like an activation error rather than a lock error, which sends people hunting for the wrong problem. Check Settings → General → About → Carrier Lock first.
 
-## APN Settings That Actually Work
+## APN settings for France
 
 Travel eSIM profiles carry their own APN and configure themselves — do not touch anything unless data fails. If you buy direct from a French carrier and automatic setup does not run, these are the values:
 
@@ -353,7 +349,7 @@ iPhone: Settings → Cellular → tap the eSIM line → Cellular Data Network. A
 
 ## Activating a France eSIM and fixing first-day problems
 
-Do the installation at home, on Wi-Fi, before departure: scan the QR code or use the app install, label the line, set it as your mobile-data line, and enable data roaming on that line only. The complete sequence is in the [activation how-to guide](/faq/how-to-activate-an-esim/).
+The smoothest France eSIM activation happens at home, on Wi-Fi, before departure: scan the QR code or use the app install, label the line, set it as your mobile-data line, and enable data roaming on that line only. The complete sequence is in the [activation how-to guide](/faq/how-to-activate-an-esim/).
 
 ### How to install a France eSIM
 
@@ -375,7 +371,7 @@ Do the installation at home, on Wi-Fi, before departure: scan the QR code or use
 - **SFR and Free:** provisioning is tied to an account rather than a self-serve QR, which is the structural reason neither has a visitor route worth using.
 - **French resident plans generally:** activation is immediate once identity is recorded, but the account itself assumes French payment and billing details.
 
-### Five France eSIM failures you will actually hit, and the fixes
+### Five France eSIM failures and their fixes
 
 Persistent errors — downloads that fail, QR codes already used, profiles that install but never register — are covered in our [eSIM activation errors troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/). The five below are the ones France produces.
 
@@ -386,7 +382,7 @@ Persistent errors — downloads that fail, QR codes already used, profiles that 
 
 **B. Orange Travel installs but will not connect**
 1. Wait for the profile to complete its first attach; Orange sets the APN automatically on the network.
-2. Do not register the eSIM until you actually need to — an one-time works immediately, and registration is only required to keep using it past 30 days.
+2. Do not register the eSIM until you actually need to — the plan works immediately, and registration is only required to keep using it past 30 days.
 3. If the plan window has opened and expired on a previous trip, top up from the app rather than reinstalling.
 
 **C. Signal bars but no data**
@@ -428,15 +424,15 @@ On a **10 GB, two-week basis**, the three routes look like this. A data-only tra
 
 Where the money actually goes, though, is duration. A French resident plan is priced by the month and stays alive; a tourist plan is priced by the trip and expires. If your stay is two weeks, the trip-priced options win on every axis. If it is four months, buy a [France data plan](/france-esim/) for the first fortnight and then decide whether a local line is worth the paperwork.
 
-## Straight answers: eSIMs on France carrier carriers
+## France carrier eSIM FAQ
 
 ### Orange vs SFR: which is better in France?
 
 For a data-only travel eSIM you do not choose — the profile selects among Orange, SFR, Bouygues and Free as you move. If you buy direct, Orange is the quality pick (fastest 5G at 281.3 Mbps, best consistency) and Orange Travel is the only tourist eSIM from a major French carrier, with a French number included.
 
-### Retail and online: France eSIM
+### Can you buy a France eSIM in a store?
 
-Yes. You will need to show a passport, and stores often record an address — your hotel's works. The bigger obstacle is that SFR, Bouygues and Free have no visitor-friendly prepaid eSIM flow, so Orange Travel or a travel eSIM is the low-friction route.
+Yes. You will need to show a passport, and stores often record an address — your hotel's works. The bigger obstacle is that SFR, Bouygues and Free have no visitor-friendly prepaid eSIM flow, so Orange Travel or a data-only France eSIM is the low-friction route.
 
 ### Does the Orange Holiday eSIM still exist?
 
@@ -448,7 +444,7 @@ With Orange Travel, yes — a genuine +33 mobile number that receives SMS. Multi
 
 ### Orange vs SFR: coverage compared
 
-Yes, and you should. ARCEP's **Mon réseau mobile** tool takes a street address and returns each operator's declared voice, 4G and 5G coverage, split into outdoor, indoor and transport-route layers — so you can see whether a specific building is likely to hold signal indoors, not just whether the town is covered.
+You can check yourself, and you should. ARCEP's **Mon réseau mobile** tool takes a street address and returns each operator's declared voice, 4G and 5G coverage, split into outdoor, indoor and transport-route layers — so you can see whether a specific building is likely to hold signal indoors, not just whether the town is covered.
 
 ### Who offers the top 5G in France?
 
@@ -496,7 +492,7 @@ Every figure above is a third-party measurement, refreshed on each source's own 
 
 ## Pick the France eSIM that fits your route
 
-Roami's France profile joins whichever of the four networks is strongest where you stand and re-selects as you move — Paris métro, a TGV window seat, or a back road through the Loire.
+Roami's France eSIM profile joins whichever of the four networks is strongest where you stand and re-selects as you move — Paris métro, a TGV window seat, or a back road through the Loire.
 
 [Get the France eSIM plan](/france-esim/)
 

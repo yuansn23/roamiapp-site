@@ -1,8 +1,8 @@
 ---
-title: "Ireland eSIM Carrier Guide: Three, Vodafone and Eir"
-description: "Roami compares Ireland eSIM carriers Three, Vodafone and Eir on real speeds, prepaid rules and APN setup for short-stay visitors."
-image: "img/esim/carriers/ireland-esim-carrier-guide.jpg"
-date: "2026-08-07T00:37:08+00:00"
+title: "5G Ireland eSIM | Vodafone, Three & Eir Coverage"
+description: "Stay connected in Ireland with Roami eSIM. Enjoy fast prepaid data on Vodafone, Three & Eir networks, ideal for tourists and business travelers."
+image: "img/esim/carriers/ireland-esim-carrier-guide.webp"
+date: "2026-09-23"
 keywords: Ireland eSIM carriers, Ireland eSIM operators, Three eSIM, Vodafone eSIM, Eir eSIM, Ireland 5G coverage, Ireland eSIM APN, eSIM Ireland prepaid, best eSIM carrier Ireland, Ireland travel eSIM, Northern Ireland roaming
 site_name: Roami
 brand_name: Roami
@@ -15,19 +15,15 @@ hero_badge: "Which Ireland carrier should you buy?"
 hero_subtitle_main: "Ireland's networks without the marketing gloss"
 ---
 
-> **Which Ireland carrier to buy?**
->
-> **Ireland's networks without the marketing gloss**
-
 Picking an Ireland eSIM comes down to the roads you will actually drive — this guide maps which of the three networks wins where. Ireland's three networks trade wins by metric and by county. On Ookla's 2H 2025 Ireland report, Three was the Best Mobile Network with a Speedtest Connectivity Score of 74.84, Vodafone posted the highest Consistency Score at 83.5, and Eir led 5G Availability at 82.6 percent. Choose for the roads you will actually drive, not for the headline award.
 
-**Quick answer:** Most travellers in Ireland will be happiest with Three; Vodafone makes sense for tighter budgets and city-only trips. Start with the [compatibility checker](/compatibility/): the one step Ireland travellers skip and pay for later.
+**Quick answer:** Most travellers in Ireland will be happiest with Three; Vodafone makes sense for tighter budgets and city-only trips. Start with the [eSIM compatibility quiz](/compatibility/): the one step Ireland travellers skip and pay for later.
 
-Handset support and install mechanics come first — the comparisons can wait until those are clear.The [device compatibility list](/compatibility/) answers the first, and [eSIM activation explained](/faq/what-is-esim-activation-and-how-does-it-work/) answers the second — everything below stays on the carriers themselves.
+Handset support and install mechanics come first — the comparisons can wait until those are clear. The [device compatibility list](/compatibility/) answers the first, and [eSIM activation explained](/faq/what-is-esim-activation-and-how-does-it-work/) answers the second — everything below stays on the carriers themselves.
 
 **The 30-second version:** Staying in Dublin, Cork or Galway? Three is the fastest network in the country, with a median download of 82.44 Mbps and a median 5G download of 139.87 Mbps. Streaming a lot of video or gaming? Three wins on gaming score at 89.04 and video at 83.7. Driving the Wild Atlantic Way, Connemara or Donegal? Vodafone and Eir reach furthest on the rural low bands, and Eir leads 5G Availability at 82.6 percent. Want to buy straight from an Irish carrier as a visitor? All three sell a tourist eSIM online with no shop visit and, unlike most countries, no identity document at all. Or skip the paperwork: [free multi-network trial eSIM](/free-esim/) tests the networks at no cost, and code **WEB20** knocks 20% off [Ireland prepaid eSIM plans](/ireland-esim/).
 
-## Ireland carriers your eSIM can latch onto
+## Which carriers can your Ireland eSIM use?
 
 ### Three vs Vodafone: which is better in Ireland?
 
@@ -305,7 +301,7 @@ General activation errors, a profile that will not download, a scan that fails, 
 3. Check you have not exhausted your allowance; some unlimited plans throttle after a fair-use cap
 
 **D. You crossed into Northern Ireland and lost service**
-1. If you are on a Republic-only tourist plan such as Three Visit Ireland, this is expected; open an UK-and-Ireland plan or a local UK eSIM
+1. If you are on a Republic-only tourist plan such as Three Visit Ireland, this is expected; open a UK-and-Ireland plan or a local UK eSIM
 2. If you are on Vodafone or Eir pay as you go, confirm roaming is enabled and the plan includes UK use
 3. On a travel eSIM, confirm the plan region covers the UK, not just the Republic
 4. As a last resort, remove the profile and reinstall from a fresh QR code
@@ -346,7 +342,7 @@ No. Ireland has no mandatory SIM registration, unlike Germany, Japan or many oth
 
 ### Will my Ireland eSIM work in Northern Ireland?
 
-It depends on the plan. Northern Ireland uses UK networks, and since Brexit the EU roaming rule does not cover it. Three's Visit Ireland tourist eSIM is explicitly Republic-only, so it stops at the border; Vodafone and Eir pay-as-you-go plans usually include UK use but check the terms; and an UK-and-Ireland travel eSIM covers both sides under one plan. For a Dublin-plus-Belfast trip, a regional plan is the clean choice.
+It depends on the plan. Northern Ireland uses UK networks, and since Brexit the EU roaming rule does not cover it. Three's Visit Ireland tourist eSIM is explicitly Republic-only, so it stops at the border; Vodafone and Eir pay-as-you-go plans usually include UK use but check the terms; and a UK-and-Ireland travel eSIM covers both sides under one plan. For a Dublin-plus-Belfast trip, a regional plan is the clean choice.
 
 ### Ireland: the carrier lineup
 
@@ -384,7 +380,7 @@ More questions? [View the full FAQ →](/faq/)
 
 Third-party measurements only. Expect variation by phone model, by the band in use, and by how busy the local site is.
 
-## Per-GB pricing
+## Get your Ireland eSIM ready before you fly
 
 Set the profile up before you leave and it wakes on landing, moving between Three, Vodafone and Eir wherever your route goes. New customers can claim a [free Ireland trial](/free-esim/) first, or get 20% off [Ireland eSIM plans](/ireland-esim/) with code **WEB20**.
 
@@ -394,4 +390,4 @@ Set the profile up before you leave and it wakes on landing, moving between Thre
 
 [Try Ireland free](/free-esim/)
 
-A closing note from Roami: travellers who test coverage first rarely regret it. The [claim a test eSIM](/free-esim/) mirrors the local setup on Three, and code **WEB20** takes 20% off a paid Roami plan whenever you are ready.
+A closing note from Roami: travellers who test coverage first rarely regret it. Go [claim a test eSIM](/free-esim/) — it mirrors the local setup on Three — and code **WEB20** takes 20% off a paid Roami plan whenever you are ready.

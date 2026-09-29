@@ -1,8 +1,8 @@
 ---
-title: "MEO vs NOS vs Vodafone vs Digi: Portugal eSIM Picks"
-description: "Roami compares MEO and Vodafone for a Portugal eSIM, weighing measured real speeds, prepaid eSIM rules and APN settings."
-image: "img/esim/carriers/portugal-esim-carrier-guide.jpg"
-date: "2026-09-05T16:43:52+00:00"
+title: "Prepaid Portugal eSIM | MEO, NOS & Vodafone Coverage"
+description: "Stay online in Portugal with Roami eSIM. Prepaid 5G data on MEO, NOS & Vodafone networks, ideal for tourists and business travelers."
+image: "img/esim/carriers/portugal-esim-carrier-guide.webp"
+date: "2026-09-20"
 keywords: Portugal eSIM carriers, MEO eSIM, NOS eSIM, Vodafone eSIM, Digi eSIM, Portugal 5G coverage, Portugal eSIM APN, eSIM Portugal prepaid, best eSIM carrier Portugal, Portugal travel eSIM
 site_name: Roami
 brand_name: Roami
@@ -15,15 +15,11 @@ hero_badge: "Portugal eSIM: the carrier field guide"
 hero_subtitle_main: "Coverage, pricing and the fine print that decides your trip"
 ---
 
-> **Portugal eSIM: the carrier field guide**
->
-> **Coverage, pricing and the fine print that decides your trip**
-
-Portugal now fields four national networks rather than three, and the cheapest of them is not the slowest. On Ookla's 1H 2025 Portugal report, NOS was named the Best Mobile Network with a Speedtest Connectivity Score of 79.87, MEO took the Best 5G Network award, Vodafone led on consistency and 5G availability at 80.3 percent, and the low-cost entrant Digi posted the strongest mobile gaming score at 82.23. The winner depends on the region you are touring. The rebuild cycle runs on Roami's own Portugal activation data and tickets, with press releases as a secondary input.
+Picking a Portugal eSIM now means choosing between four national networks rather than three, and the cheapest of them is not the slowest. On Ookla's 1H 2025 Portugal report, NOS was named the Best Mobile Network with a Speedtest Connectivity Score of 79.87, MEO took the Best 5G Network award, Vodafone led on consistency and 5G availability at 80.3 percent, and the low-cost entrant Digi posted the strongest mobile gaming score at 82.23. The winner depends on the region you are touring. The rebuild cycle runs on Roami's own Portugal activation data and tickets, with press releases as a secondary input.
 
 **Quick answer:** MEO wins the coverage argument in Portugal, NOS wins on cheap data — the tables below settle the details. You can also check out the Portugal network setup free of charge via Roami's [no-cost trial eSIM](/free-esim/).
 
-Two common unknowns: does the phone support eSIM, and how does install work?Run your model through the [compatibility page](/compatibility/) first, then read [how an eSIM profile installs](/faq/what-is-esim-activation-and-how-does-it-work/) — both are prerequisites this page deliberately skips.
+Two common unknowns: does the phone support eSIM, and how does install work? Run your model through the [compatibility page](/compatibility/) first, then read [how an eSIM profile installs](/faq/what-is-esim-activation-and-how-does-it-work/) — both are prerequisites this page deliberately skips.
 
 **Bottom line:** Staying in Lisbon, Porto or the Algarve? All three legacy networks are strong in the cities, with NOS carrying the Best Mobile Network title. Driving the Alentejo interior, walking the levadas of Madeira or island hopping the Azores? MEO and Vodafone hold signal where NOS thins out. Want one eSIM that reaches all four networks without paperwork? [zero-cost trial eSIM](/free-esim/) tests the networks at no cost, and **WEB20** trims 20% off [Portugal prepaid eSIM plans](/portugal-esim/).
 
@@ -105,9 +101,9 @@ Anything further is about your particular phone, not about MEO or NOS. Check the
 
 ## Plan Sizes and What They Cost
 
-Four routes exist, and they differ more in paperwork than in price: MEO online, NOS and Vodafone in-store, Digi for the budget minded, and the travel eSIM that skips the counter. Each route, step by step:
+Four routes to a Portugal eSIM exist, and they differ more in paperwork than in price: MEO online, NOS and Vodafone in-store, Digi for the budget minded, and the travel eSIM that skips the counter. Each route, step by step:
 
-### Retail and online: Portugal eSIM
+### Where to buy a Portugal eSIM online
 
 MEO is the only one of the big three that lets a visitor finish everything online before flying. It is the legacy national operator, formerly Portugal Telecom, and it still holds the broadest physical tower footprint in the country.
 
@@ -150,7 +146,7 @@ All prices below are euros and reflect typical 2026 tourist prepaid bundles obse
 | Vodafone | Traveller Option A | 30 GB, 30 days | 12 GB | about 20 EUR |
 | Vodafone | Traveller Option B | 50 GB, 30 days | 18 GB | about 30 EUR |
 
-These bundles are data-and-voice packages with unlimited national SMS and a block of minutes. Pure data-only travel eSIMs price differently, usually per gigabyte, and skip the local number entirely.
+These bundles are data-and-voice packages with unlimited national SMS and a block of minutes. A pure data-only Portugal eSIM prices differently, usually per gigabyte, and skips the local number entirely.
 
 ### MEO eSIM plans for visitors
 
@@ -211,7 +207,7 @@ On the country as a whole, Ookla's Speedtest Global Index placed Portugal's medi
 
 ### MEO vs NOS: coverage compared
 
-Portugal's coverage follows population on the mainland but behaves very differently on the Atlantic archipelagos, and most competing articles stop at the mainland. What that means route by route:
+Coverage on any Portugal eSIM follows population on the mainland but behaves very differently on the Atlantic archipelagos, and most competing articles stop at the mainland. What that means route by route:
 
 | Region | Reality on the ground | Best carrier | Watch out for |
 |:---|:---|:---|:---|
@@ -232,7 +228,7 @@ Few travellers ever edit the APN, so when data fails it deserves a look before a
 
 ### APN values for MEO, NOS and Vodafone eSIMs
 
-You will only need these if you bought a SIM or eSIM directly from a Portuguese carrier. Travel profiles ship with their APN set; leave it exactly as it arrived.
+You will only need these if you bought a Portugal eSIM or a physical SIM directly from a Portuguese carrier. Travel profiles ship with their APN set; leave it exactly as it arrived.
 
 | Carrier | APN | Username | Password |
 |:---|:---|:---|:---|
@@ -244,17 +240,17 @@ Leave username and password empty. These are the standard published values; if y
 
 ### Portugal APN settings, carrier by carrier
 
-- A device too dated to pick up carrier settings automatically
-- A profile installed with a manual activation code instead of a QR scan
-- A carrier-issued prepaid eSIM where automatic configuration did not run
-- Almost never on a travel eSIM, which is the point of a managed profile
-
-### When to type in a Portugal APN by hand
-
 - **iPhone:** Settings, then Cellular, tap the eSIM line, Cellular Data Network, then enter the APN
 - **Android:** Settings, then Connections, Mobile Networks, Access Point Names, then add a new APN
 
 After saving, restart the phone. Still no data? Check that the eSIM, rather than your home card, is set as the data line before anything else.
+
+### When to type in a Portugal APN by hand
+
+- A device too dated to pick up carrier settings automatically
+- A profile installed with a manual activation code instead of a QR scan
+- A carrier-issued prepaid eSIM where automatic configuration did not run
+- Almost never on a travel eSIM, which is the point of a managed profile
 
 ## How do you activate a Portugal eSIM and fix faults?
 
@@ -308,7 +304,7 @@ General activation errors, a profile that will not download, a scan that fails, 
 | Data roaming status | Settings, Cellular, your eSIM line |
 | Steps already tried | Keep a short list |
 
-## The competitive field
+## Buying a Portugal eSIM from the carriers
 
 ### Can I buy a tourist eSIM directly from MEO?
 
@@ -356,7 +352,7 @@ Work the Portugal-specific patterns above in order, lock status, network selecti
 
 ### Problem handsets for Portugal eSIMs
 
-The idea is simple: a chip already in your handset stores the carrier profile, so no physical card is needed. The operator issues the profile, your device writes it to the embedded chip, and the line slots in like any other. The mechanics, activation codes and why a QR code is single-use, are explained in [how eSIM activation works](/faq/what-is-esim-activation-and-how-does-it-work/).
+The recurring ones are a carrier-locked phone, a handset without n28 or n20, mainland-China iPhone models with the hardware disabled, dual-SIM phones whose installed profile carries no data, and very old Androids with no eSIM menu at all. Underneath, the idea is simple: a chip already in your handset stores the carrier profile, so no physical card is needed. The mechanics, activation codes and why a QR code is single-use, are explained in [how eSIM activation works](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 More questions? [View the full FAQ →](/faq/)
 
@@ -374,7 +370,7 @@ We rely solely on third-party measurement. Outcomes shift with the handset, the 
 
 ### Will my existing phone take a Portugal eSIM?
 
-A phone from 2020 or later almost certainly works; carrier locks and mainland-China hardware are the exceptions.Run the [eSIM compatibility check](/compatibility/) before you pay for anything.
+A phone from 2020 or later almost certainly works; carrier locks and mainland-China hardware are the exceptions. Run the [eSIM compatibility check](/compatibility/) before you pay for anything.
 
 ### How do I pressure-test these coverage claims for my itinerary?
 
@@ -382,7 +378,7 @@ Cross-check the carrier sections above against the speed data we cite, then test
 
 ### What mistake do travelers regret most in Portugal?
 
-Landing with no connectivity, then wrestling airport Wi-Fi for a fix.Install and activate your Portugal eSIM the night before you fly — the whole process is covered above and takes minutes.
+Landing with no connectivity, then wrestling airport Wi-Fi for a fix. Install and activate your Portugal eSIM the night before you fly — the whole process is covered above and takes minutes.
 
 ## Roaming and Border Crossings
 

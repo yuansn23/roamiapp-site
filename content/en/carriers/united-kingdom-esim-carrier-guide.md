@@ -1,8 +1,8 @@
 ---
-title: "United Kingdom eSIM Carriers: EE, Vodafone, O2, Three"
-description: "Roami compares EE, Vodafone, Three and Virgin Media O2 5G speeds across the United Kingdom, so you pick the right carrier eSIM."
-image: "img/esim/carriers/united-kingdom-esim-carrier-guide.jpg"
-date: "2026-09-21T10:15:47+00:00"
+title: "United Kingdom eSIM | EE, Vodafone & O2 Coverage"
+description: "Get online in United Kingdom with Roami eSIM. Choose prepaid data on EE, Vodafone & O2 networks, with flexible plans and instant activation."
+image: "img/esim/carriers/united-kingdom-esim-carrier-guide.webp"
+date: "2026-09-18"
 keywords: eSIM United Kingdom, prepaid data, 5G network, UK eSIM, travel eSIM, digital nomad UK, UK eSIM carriers, eSIM operators United Kingdom, EE eSIM, Vodafone eSIM, Three eSIM, Virgin Media O2 eSIM
 site_name: Roami
 brand_name: Roami
@@ -15,17 +15,13 @@ hero_badge: "UK's mobile networks, rated for your trip"
 hero_subtitle_main: "Where UK's networks differ: speed, coverage and the counter rules"
 ---
 
-> **UK's mobile networks, rated for your trip**
->
-> **Where UK's networks differ: speed, coverage and the counter rules**
+Whether you call it a UK eSIM or a United Kingdom eSIM, picking between the four networks comes down to where you will actually use it. Four networks run the UK's masts, and every prepaid brand you can buy — giffgaff, VOXI, SMARTY, iD Mobile, Lebara, Lycamobile, Tesco Mobile — is a reseller of one of them. Which host network you land on decides your speeds in London and whether you have a signal on a Highland road.
 
-Whether you call it a UK eSIM or a United Kingdom eSIM, picking between the four networks on the UK's masts comes down to where you will actually use it. Four networks run the UK's masts, and every prepaid brand you can buy — giffgaff, VOXI, SMARTY, iD Mobile, Lebara, Lycamobile, Tesco Mobile — is a reseller of one of them. Which host network you land on decides your speeds in London and whether you have a signal on a Highland road.
-
-**Quick answer:** For a short trip, UK's tourist plan is the least-effort option; for longer stays, EE tends to win on cost per gigabyte. The sections below break down where UK and EE each shine — and and first-time eSIM users should begin at the [activation walkthrough](/faq/how-to-activate-an-esim/).
+**Quick answer:** For a short trip, a travel eSIM is the least-effort option; for heavy data use, Three tends to win on cost per gigabyte and EE on raw speed. The sections below break down where each network shines — and first-time eSIM users should begin at the [activation walkthrough](/faq/how-to-activate-an-esim/).
 
 [United Kingdom eSIM](/united-kingdom-esim/)
 
-**In brief:** EE is the fastest network in the country by a wide margin, with a **114.1 Mbps median download** on [Ookla and RootMetrics' 2H 2025 UK report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), and the widest rural coverage. Three and Vodafone sit in the 45–55 Mbps band nationally but hold up better on price and roaming. Virgin Media O2 is the one to pick if you will cross into the Republic of Ireland, because it does not charge for EU roaming. Prepaid eSIMs are available on all four networks without a UK address or a credit check. New travellers can [trial eSIM](/free-esim/) or take 20% off a paid plan with code **WEB20** on [United Kingdom eSIM plans](/united-kingdom-esim/).
+**In brief:** EE is the fastest network in the country by a wide margin, with a **114.1 Mbps median download** on [Ookla and RootMetrics' 2H 2025 UK report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), and the widest rural coverage. Three and Vodafone sit in the 45–55 Mbps band nationally but hold up better on price and roaming. Virgin Media O2 is the one to pick if you will cross into the Republic of Ireland, because it does not charge for EU roaming. Prepaid eSIMs are available on all four networks without a UK address or a credit check. New travellers can start with a [trial eSIM](/free-esim/) or take 20% off a paid plan with code **WEB20** on [United Kingdom eSIM plans](/united-kingdom-esim/).
 
 *Swipe to see more*
 
@@ -39,12 +35,12 @@ Whether you call it a UK eSIM or a United Kingdom eSIM, picking between the four
 - [Best United Kingdom eSIM for your trip](#match-a-united-kingdom-carrier-to-your-trip)
 - [United Kingdom eSIM APN settings](#united-kingdom-esim-apn-settings)
 - [Common questions (10 answered)](#your-united-kingdom-esim-questions-answered)
-- [Myths vs facts](#uk-esim-advice-that-does-not-survive-contact-with-the-country)
+- [Myths vs facts](#uk-esim-myths-vs-facts)
 - [United Kingdom eSIM sources we drew on](#sourcing-notes-for-this-uk-esim-guide)
 
 ## Best United Kingdom eSIM carrier for your trip: EE vs the rest
 
-Every carrier figure below is a third-party measurement from Ookla and RootMetrics' 2H 2025 UK report. As with any national average, the ranking matters less than whether the network you choose covers the route you booked.
+Every carrier figure below is a third-party measurement from Ookla and RootMetrics' 2H 2025 UK report. As with any national average, the ranking matters less than whether the network behind your UK eSIM covers the route you booked.
 
 | Your itinerary | Top pick | Why it wins |
 |:---|:---|:---|
@@ -86,7 +82,7 @@ Its prepaid eSIM route for visitors is delivered through retail rather than a co
 
 Those GBP figures come from a [2025 pay-as-you-go comparison](https://yesim.tech/blog/best-pay-as-you-go-plans-for-uk) that tracks the EE prepaid eSIM line-up; the dollar column uses an indicative rate of about 1.27 dollars to the pound, so treat it as approximate. EE's own contract eSIMs are a different product and do involve a credit check — those are aimed at residents, not visitors.
 
-### Rural coverage in United Kingdom: UK vs EE
+### Vodafone: rural reach and prepaid bundles
 
 **Best for:** anyone whose trip leaves the motorway network — Snowdonia, the Brecon Beacons, the Lake District, the North Coast 500.
 
@@ -117,7 +113,7 @@ Three's 53.8 Mbps median download puts it ahead of both Vodafone and Virgin Medi
 
 Three's eSIM is selected at checkout when ordering a PAYG SIM, and it is emailed for installation. Existing customers can ask Three to switch a physical SIM to an eSIM.
 
-### Using a United Kingdom eSIM abroad
+### Virgin Media O2: city coverage and EU roaming
 
 **Best for:** London trips, indoor-heavy itineraries, and any plan that crosses into Ireland or the EU.
 
@@ -134,7 +130,7 @@ O2's PAYG eSIM availability is the one place where UK sources genuinely disagree
 
 ## Five checks before you commit to a UK eSIM
 
-### Can older handsets use a United Kingdom eSIM?
+### Which bands does a UK eSIM need?
 
 UK operators split their 5G across **700 MHz (n28), 800 MHz (n20), 1800 MHz (n3), 2100 MHz (n1), 2600 MHz (n7) and 3.5 GHz (n78)**, with 4G on 800 MHz (band 20), 1800 MHz (band 3), 2100 MHz (band 1) and 2600 MHz (band 7). Flagship handsets cover these routinely. The band that trips up imported devices is **n28/band 20**, the low-frequency layer that carries rural coverage — a handset without it will look fine in London and thin out in Wales.
 
@@ -142,7 +138,7 @@ UK operators split their 5G across **700 MHz (n28), 800 MHz (n20), 1800 MHz (n3)
 
 The UK is more relaxed here than most of the world, but not frictionless. Buying a prepaid eSIM directly from a network online generally does not require a UK address or a credit check, and a passport number may be requested at checkout. The exceptions cluster in the store-only routes: **O2's PAYG eSIM is reported as requiring an in-person visit with photo ID**, and any SIM swap or replacement tends to route back through a shop. A travel eSIM bought before you fly skips the question entirely, which is the practical answer if your trip starts at Heathrow at 11pm.
 
-### Where to shop for a United Kingdom eSIM
+### Which fair-use caps apply to roaming on UK plans?
 
 UK "unlimited" plans almost always carry a fair-use policy, and the cap usually applies to **roaming rather than to domestic use**. The published roaming caps are instructive: 25 GB on O2's network, 25 GB on Vodafone, 50 GB on EE, 12 GB on Three. Domestic allowances are normally honoured in full; it is the EU and Ireland trips that hit a lower ceiling. Check the roaming cap, not the domestic one, if your itinerary crosses a border.
 
@@ -150,9 +146,9 @@ UK "unlimited" plans almost always carry a fair-use policy, and the cap usually 
 
 EE and Vodafone lead outside the cities — in Scotland and Wales especially — while Three and Virgin Media O2 perform best in dense urban areas. The regional table below breaks this down route by route, because "best rural network" is too blunt an answer for a country where Snowdonia and Cornwall have different problems.
 
-### 5. Two settings decide whether your eSIM works on arrival
+### Two settings that decide whether your eSIM works on arrival
 
-The UK is a 5G NSA and SA market, and an eSIM that installs cleanly can still show no service for boring reasons. **Data roaming must be switched on** for the eSIM line — the UK is treated as roaming by many travel profiles — and the eSIM must be selected as the line used for mobile data. Check both before you conclude anything is broken.
+The UK is a 5G NSA and SA market, and a UK eSIM that installs cleanly can still show no service for boring reasons. **Data roaming must be switched on** for the eSIM line — the UK is treated as roaming by many travel profiles — and the eSIM must be selected as the line used for mobile data. Check both before you conclude anything is broken.
 
 ## ID Rules for Buying a SIM
 
@@ -199,9 +195,7 @@ The local rate that anchors the comparison is **about USD 0.62 per gigabyte**, 5
 
 ## Sources for This Guide
 
-Ookla's August 2026 Speedtest Global Index puts United Kingdom at **61st** globally for mobile download speed, measured at a median of **74.99 Mbps** (31 ms latency). For scale, the global median mobile download over the same period was 109.05 Mbps, so United Kingdom sits below it. Raw source dates are printed alongside each citation; no re-dating, no dressing up.
-
-Local data is priced at about **USD 0.62** per GB, 58th of the 237 markets Cable.co.uk tracks.
+Ookla's August 2026 Speedtest Global Index puts the United Kingdom at **61st** globally for mobile download speed, measured at a median of **74.99 Mbps** (31 ms latency). For scale, the global median mobile download over the same period was 109.05 Mbps, so the United Kingdom sits below it. Raw source dates are printed alongside each citation; no re-dating, no dressing up.
 
 There are **88.4 million** mobile connections in play — 127% of residents — according to [DataReportal's Digital 2025 report](https://datareportal.com/reports/digital-2025-united-kingdom).
 
@@ -290,7 +284,7 @@ Generic activation errors — a profile that will not download, a scan that fail
 
 **D. Everything works except the Tube or a crowded venue.** Congestion, not coverage. Signal exists and is saturated. No settings change fixes a packed stadium or a platform at 6pm; download offline maps for the Underground and accept that messages may queue.
 
-### UK vs EE: which is better in United Kingdom?
+### What to have ready before contacting UK eSIM support
 
 Keep your EID (from `*#06#`), your order number, the host network your profile should attach to, a screenshot of the error, and a short list of what you have already tried. UK support conversations move fastest when you can say which network the phone is actually attached to and whether roaming is on.
 
@@ -311,31 +305,31 @@ The deeper issue for a visitor is that **a UK-only travel eSIM does not roam at 
 
 ## Your United Kingdom eSIM questions, answered
 
-### United Kingdom eSIM top-ups
+### Can you top up a United Kingdom eSIM?
 
 Yes. Roami's eSIM supports instant top-ups through the app or website, and you can add a data package at any time without changing the profile. New data is usable immediately, so there is no reason to overbuy at the start of a trip.
 
-### Meet the United Kingdom networks
+### Which networks does a United Kingdom eSIM use?
 
-Yes. Roami's UK profile is pre-configured to attach to the best available network among EE, Three, Virgin Media O2 and Vodafone based on signal strength and performance, with no manual operator selection. If you want to override that for a specific leg, manual network selection in settings always wins.
+Roami's UK profile is pre-configured to attach to the best available network among EE, Three, Virgin Media O2 and Vodafone based on signal strength and performance, with no manual operator selection. If you want to override that for a specific leg, manual network selection in settings always wins.
 
 ### Tethering from a United Kingdom eSIM allowed?
 
 Roami's eSIM supports hotspot tethering, and the practical limit is your plan's fair-use policy rather than a hard device cap — up to roughly five connected devices is the usual ceiling. Check the specific plan details, and size the data allowance for tethering rather than for phone-only use.
 
-### What size plan suits a United Kingdom itinerary?
+### Can you use a UK eSIM alongside your home SIM?
 
-Yes. Set it as the line used for mobile data and it works alongside your physical SIM for calls and texts, or entirely on its own for data. That is the standard setup for travellers who want to keep their home number receiving bank and airline codes.
+Set it as the line used for mobile data and it works alongside your physical SIM for calls and texts, or entirely on its own for data. That is the standard setup for travellers who want to keep their home number receiving bank and airline codes.
 
-### Local SIM versus visitor eSIM in United Kingdom
+### Do you need ID to buy a UK eSIM?
 
 Not on the travel eSIM route, which is bought online with a payment card and no documentation. Direct prepaid eSIMs from UK networks may ask for a passport number at checkout, and the store-only routes — O2's PAYG eSIM in particular — require photo ID in person. The UK has no equivalent of the biometric registration that Pakistan requires.
 
-### Trip-type picks: United Kingdom eSIMs
+### Which carrier is best for the Scottish Highlands?
 
 Vodafone, on rural reach — it ranks second across most categories in Scotland and its low-band holdings carry further into valleys than the higher bands. EE is faster wherever both have signal. Neither covers the North Coast 500 or the Applecross pass, so download offline maps regardless of the plan.
 
-### What United Kingdom eSIM plans cost
+### Are UK 'unlimited' plans really unlimited?
 
 They have published fair-use policies, and the caps bite hardest abroad rather than at home. The roaming ceilings are 25 GB on O2's network, 25 GB on Vodafone, 50 GB on EE and 12 GB on Three. Domestically, unlimited usually means unlimited — read the roaming figure if your trip leaves the UK.
 
@@ -343,25 +337,25 @@ They have published fair-use policies, and the caps bite hardest abroad rather t
 
 Two requirements: an unlocked handset with eSIM support. Run the model number through the [compatibility list](/compatibility/), and pay attention to band 20 / n28, the low-frequency layer that carries rural coverage and is missing from some imported handsets.
 
-### Q: What happens to my UK eSIM when I cross into Ireland?
+### What happens to my UK eSIM when I cross into Ireland?
 
 Nothing automatic unless the profile covers Ireland. A UK-only plan stops working at the border, and some profiles will simply lose service without a message. O2's network is the safest choice for an Ireland leg because it does not charge EU roaming, subject to a 25 GB fair-use cap — but on a travel eSIM, check the destination list before you buy.
 
-### United Kingdom eSIM setup, step by step
+### What if your UK eSIM still will not connect?
 
-Work the four patterns above in order — roaming setting, device lock and EID, network selection, then congestion — and if it still fails, the wider catalogue in the [eSIM problem-solving guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the remaining cases. Support will ask for the EID and order number -- have them ready.
+Work the four patterns above in order — roaming setting, device lock and EID, network selection, then congestion — and if it still fails, the wider catalogue in the [eSIM problem-solving guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the remaining cases. Support will ask for the EID and order number — have them ready.
 
 [View the complete FAQ →](/faq/)
 
-## UK eSIM advice that does not survive contact with the country
+## UK eSIM myths vs facts
 
-### UK vs EE 5G: which is better in United Kingdom?
+### Is EE the best network everywhere in the UK?
 
 **Fact:** false. EE leads with the best 5G experience and fastest speeds at a 114.1 Mbps median, Three holds the widest 5G bandwidth in cities, and Vodafone and Virgin Media O2 divide the rural and urban strengths between them. In the Highlands the ranking is close to reversed.
 
-### Myth: unlimited data has no restrictions.
+### Is unlimited data really unrestricted?
 
-**Fact:** it has fair-use policies, and the caps are tightest abroad — 25 GB on O2's network, 25 GB on Vodafone, 50 GB on EE and 12 GB on Three. Check the roaming cap before you rely on a UK unlimited plan for a Europe trip.
+**Fact:** it has fair-use policies, and the caps are tightest abroad rather than at home. Check the roaming cap before you rely on a UK unlimited plan for a Europe trip.
 
 ## Sourcing notes for this UK eSIM guide
 

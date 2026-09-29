@@ -1,8 +1,8 @@
 ---
-title: "Colombia eSIM Carriers: Claro vs Tigo vs Movistar"
-description: "Which Colombia eSIM carrier wins? Roami compares Claro, Tigo and Movistar on 5G sites, city speed and rural mountain coverage."
-image: "img/esim/carriers/colombia-esim-carrier-guide.jpg"
-date: "2026-07-14T10:41:15+00:00"
+title: "5G Colombia eSIM | Claro, Movistar & Tigo Coverage"
+description: "Get online in Colombia fast with Roami eSIM. Choose prepaid data on Claro, Movistar & Tigo networks, perfect for tourists and digital nomads."
+image: "img/esim/carriers/colombia-esim-carrier-guide.webp"
+date: "2026-09-26"
 keywords: eSIM Colombia, Colombia eSIM carriers, Claro eSIM, Tigo eSIM, Movistar eSIM, WOM, 5G network Colombia, prepaid data, travel eSIM
 site_name: Roami
 brand_name: Roami
@@ -14,10 +14,6 @@ breadcrumb_items:
 hero_badge: "The Colombia carrier face-off: 2026 data"
 hero_subtitle_main: "Colombia's carriers on paper versus in the field"
 ---
-
-> **The Colombia carrier face-off: 2026 data**
->
-> **Colombia's carriers on paper versus in the field**
 
 Colombia's mobile market just went through its biggest shake-up in a decade: 5G spectrum was auctioned in December 2023, commercial networks lit up in February 2024, and by the end of 2024 **Claro had built 92% of the country's 1,433 active 5G sites**. That single fact reshapes the carrier question for any Colombia eSIM. Tigo and Movistar now share a combined network in many places, WOM is still mostly a 4G story, and the gap between "the fastest city network" and "the network that follows you up the mountain" is as wide as the Andes themselves. First-time Colombia eSIM setups come with predictable stumbling blocks — each section below takes on one of them.
 
@@ -50,11 +46,11 @@ For a visitor, that translates simply: in most Colombian cities your eSIM lands 
 
 Where Tigo's 5G reaches, it is the fastest consumer experience in the country — median 5G download of **297.43 Mbps**, 5G upload of 34.51 Mbps, and the best 5G latency at 39 ms, with 93.2% of 5G samples meeting the 25 Mbps / 3 Mbps consistency threshold. The catch is reach: Tigo's 5G coverage is measured in a fraction of Claro's site count, and since the Tigo–Movistar network-sharing arrangement, the two brands increasingly draw on the same infrastructure. Treat Tigo as the premium urban 5G lane rather than a national solution.
 
-### Claro vs Tigo: which is better in Colombia?
+### Where does Movistar fit in Colombia?
 
 Movistar's headline figure — a median fixed download of **308.37 Mbps**, fastest ISP in Colombia — describes its fibre empire, which matters for long-stay travellers choosing accommodation, not for the eSIM in your phone. On mobile, Movistar now operates substantially in partnership with Tigo, with a combined 5G footprint that is real in the big cities but small next to Claro's. In practice your Colombia eSIM will meet Movistar infrastructure most often through that shared urban coverage.
 
-### Where is WOM in all this?
+### Where does WOM fit in Colombia?
 
 WOM, the market's brash fourth entrant, won an 80 MHz block in the 2023 auction but had not deployed 5G as of the end of 2024. Its 4G network remains a genuine urban alternative — but for now, every eSIM ranking in Colombia is really a contest between Claro and the Tigo–Movistar axis.
 
@@ -265,7 +261,7 @@ A Colombia-specific profile is valid inside Colombia and nowhere else. The two c
 
 If the trip continues, choose one of three routes: add a country profile per leg, buy a South America regional plan, or keep a second eSIM line installed and move the data line in settings as you travel. Our [Ecuador eSIM page](/ecuador-esim/), [Panama eSIM guide](/carriers/panama-esim-carrier-guide/) and [Peru eSIM plans](/peru-esim/) cover the usual extensions.
 
-## Answer bank: Colombia eSIMs
+## Colombia eSIM FAQ
 
 ### Does a Colombia eSIM work in neighbouring countries?
 
@@ -279,30 +275,30 @@ Claro, by build-out: roughly 92% of the country's active 5G sites at the end of 
 
 Yes, with a passport and an in-person visit to a store or authorised dealer — registration is mandatory for all Colombian lines. It is a workable option for stays of a month or more. For trips under a couple of weeks, a travel eSIM installed before departure is the faster path by some distance.
 
-### Do tourists need to register SIMs in Colombia?
+### Will my phone support Colombia's bands?
 
 Colombia asks nothing exotic of a handset: its 4G and 5G layers, 700 MHz LTE and n78 included, are carried by mainstream international models. The [device compatibility checker](/compatibility/) confirms your exact model in one lookup.
 
 ### Can you rely on WhatsApp calls in Colombia?
 Absolutely — WhatsApp voice and video are the default calling method in Colombia and run perfectly over data. Traditional SIM calls are not included in data-only plans, but between WhatsApp and VoIP apps you will not miss them.
 
-### Trip-type picks: Colombia eSIMs
+### How much data do I need for Colombia?
 
 Maps, ride-hailing, social media and daily video calls fit comfortably in 5–10 GB. Streaming adds up fast; hotels and cafés in the big cities have usable Wi-Fi anchored by that fast national fibre, so sync your heavy downloads to the room — and if hotspot time for a laptop enters the picture, pick the next data plan up rather than rationing.
 
-### Colombia 5G coverage map notes
+### Is Colombia's 5G any good?
 
 Yes, and it is competitive rather than exceptional. Tigo leads on 5G with a 297.43 Mbps median download and a 5G Speed Score of 65.27, ahead of Movistar at 280.72 Mbps. Ookla found no statistical difference between providers on overall 5G Connectivity Score, which means the field is close and your experience will depend on location rather than brand.
 
-### Operators selling SIMs in Colombia
+### Which Colombia carrier should I choose?
 
 Claro is the safest default: Best Mobile Network on a Connectivity Score of 66.80, a 44.26 Mbps all-technology median, and the fastest provider in all ten cities the report measures. Tigo is the pick if 5G throughput is what you care about, and WOM has the best mobile video experience at 75.84.
 
-### Claro vs Tigo: which Colombia carrier is faster?
+### Which Colombian city is best for video calls?
 
 Bogotá posts a 43.58 Mbps median download with 16.58 Mbps upload and — crucially — the lowest latency of any Colombian city measured, at 36.83 ms. That combination makes it the best city in the country for video calls, even though Medellín and Envigado post higher raw download numbers.
 
-### How many gigabytes does a week in Colombia burn?
+### Why is Cartagena's mobile data slower?
 
 Cartagena's 33.92 Mbps median and 70.11 ms latency are the weakest in the ten-city set, and the gap is about site density and backhaul rather than tourism load. Medellín and Envigado, at 50.72 and 54.76 Mbps, sit at the other end. For a resort week it makes no difference; for a work trip it does.
 
@@ -322,11 +318,11 @@ A single-country profile will not; it stops at the border. If the itinerary cros
 
 For city coverage, no — 1900 MHz and AWS carry urban traffic and nearly every handset has them. For rural, coastal and Amazonian coverage, 700 MHz (B28) matters a great deal. If your route leaves the cities, check the band before you choose a handset to travel with.
 
-### Rural coverage in Colombia: Claro vs Tigo
+### Is Colombia good enough for video calls?
 
 In Bogotá and Medellín, yes — comfortably. Bogotá's 36.83 ms latency makes it the best call city in the country and Medellín's 50.72 Mbps median handles large transfers. On the Caribbean coast, at 70.11 ms latency in Cartagena, treat connectivity as good enough for email and messaging rather than meetings.
 
-### Where to shop for a Colombia eSIM
+### Do I need a different eSIM for the Amazon or the Pacific coast?
 
 Not a separate profile, but a larger allowance and lower expectations. Leticia on the Amazon and the Pacific towns around Bahía Solano run on thinner infrastructure than the interior, with coverage concentrated in settlements and nothing between them. A multi-network [Colombia eSIM](/colombia-esim/) will attach wherever a tower exists; between them, offline maps are the only plan that works.
 
@@ -334,15 +330,15 @@ Not a separate profile, but a larger allowance and lower expectations. Leticia o
 
 Yes on the standard travel tiers, with the laptop sharing the same data pool. Working from cafés changes the arithmetic: a tethered laptop consumes several times what phone use does, so buy the tier that fits the computer rather than the handset.
 
-### Cross-border use of Colombia eSIMs
+### Is a travel eSIM cheaper than roaming in Colombia?
 
 Almost always, by a wide margin. Colombian prepaid is cheap by international standards, but a home carrier's roaming rate is a multiple of even the local retail price. A travel eSIM sits between the two: more than a local SIM, far less than roaming, and available before you land.
 
-### When is the smart moment to switch the Colombia profile on?
+### When should you switch the Colombia profile on?
 
 At home, on your own Wi-Fi, a day or two before you fly — and then off again until Bogotá. Leaving it active at home achieves nothing and leaves you guessing about validity. A dormant profile that wakes up on Colombian soil is the version that lands you online before you reach the baggage belt.
 
-### A look inside Colombia data plans
+### Should I keep my home SIM active with a Colombia eSIM?
 
 Yes, and it is worth doing. Keep calls and one-time codes on the physical SIM, set the eSIM as the data line, and disable data roaming on your home line unless your tariff explicitly includes it. The two profiles coexist without drama; the cost you are avoiding is your home operator's roaming rate, not a technical limitation.
 
@@ -350,7 +346,7 @@ Yes, and it is worth doing. Keep calls and one-time codes on the physical SIM, s
 
 Colombia's prepaid data is genuinely cheap — around USD 0.20 per gigabyte, tenth of 237 markets — so the arithmetic favours a local card if you have the patience for a Claro or Tigo counter and a passport registration. The travel profile loses on paper and wins on arrival: one [Colombia eSIM](/colombia-esim/) reaching Claro, Tigo, Movistar and WOM means no queue and no single-network gamble.
 
-### Which network suits your Colombia itinerary?
+### What happens when my Colombia data runs out?
 
 Top up from the provider's dashboard and keep the same installation. A few minutes on city Wi-Fi restores the allowance, and nothing about the profile, the APN or the network selection changes. If you would rather test the water first, a [zero-cost trial eSIM](/free-esim/) covers the first days of the trip without committing to a tier.
 
@@ -364,7 +360,7 @@ Top up from the provider's dashboard and keep the same installation. A few minut
 
 All five are third-party and time-stamped. They compare Colombia with its neighbours well and predict a single afternoon in the Coffee Region badly.
 
-## Order your Colombia eSIM and land online
+## Get your Colombia eSIM ready before you fly
 
 One profile reaching Claro, Tigo and Movistar answers the network question wherever the trip goes — Bogotá boardroom, Coffee Region finca or Caribbean coast.
 

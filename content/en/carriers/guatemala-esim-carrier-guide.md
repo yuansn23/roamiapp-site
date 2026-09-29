@@ -1,11 +1,11 @@
 ---
 
-title: "Guatemala eSIM Carriers: Claro vs Tigo, who wins"
+title: "Prepaid Guatemala eSIM Data | Claro, Tigo & Movistar"
 
-description: "Guatemala's eSIM question is Claro or Tigo. Roami maps both networks across Antigua, Atitlán and Tikal, where your passport is the ticket."
-image: "img/esim/carriers/guatemala-esim-carrier-guide.jpg"
+description: "Explore Guatemala with Roami eSIM. Access fast prepaid data on Claro, Tigo & Movistar networks, plus 5G speeds and no expensive roaming."
+image: "img/esim/carriers/guatemala-esim-carrier-guide.webp"
 
-date: "2026-07-31T00:25:44+00:00"
+date: "2026-09-24"
 
 keywords: Guatemala eSIM carriers, Claro Guatemala eSIM, Tigo Guatemala eSIM, Guatemala 5G coverage, Guatemala SIM registration, eSIM Guatemala prepaid, best eSIM carrier Guatemala
 
@@ -29,21 +29,11 @@ hero_subtitle_main: "Which network serves your route — and what the data says"
 
 ---
 
-
-
-> **Claro Guatemala vs Tigo Guatemala: the Guatemala eSIM verdict**
-
->
-
-> **Which network serves your route — and what the data says**
-
-
-
 **The verdict up front:** Guatemala eSIM carriers come down to a straight duel — **Claro** and **Tigo** control the entire market, with no third national network since Movistar folded into Claro in 2019. The official regulator's numbers give Tigo roughly **56% of mobile lines** to Claro's 44%, but Ookla's 2H 2025 report gives Claro nearly every performance trophy: a median download of **81.14 Mbps against Tigo's 28.34**, a 5G median of 409.62 Mbps, and the best consistency, video and gaming scores ([Ookla](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025)). Tourists can buy prepaid service from either — and both sell eSIMs, Claro even self-serve by QR code — with a **valid passport** as the only document the law demands. Data is also among the cheapest you'll touch on this continent: about **USD 1.17 per GB**. If you'd rather be online before immigration than queueing at a counter, start with a [Guatemala travel eSIM](/guatemala-esim/) or test the network with a [free test eSIM](/free-esim/). Support gets the same handful of Guatemala questions every week; this page collects the real ones, worded the way travelers actually ask.
 
 
 
-**Quick answer:** For a short trip, the local networks's tourist plan is the least-effort option; for longer stays, the local networks tends to win on price per gigabyte. The sections below break down where the local networks and the local networks each shine — and if this is your first eSIM, start with the [activation walkthrough](/faq/how-to-activate-an-esim/).
+**Quick answer:** Claro is the speed pick — it swept Ookla's 2H 2025 performance awards — while Tigo is the reach pick for routes beyond the paved corridor. The sections below break down where each carrier shines — and if this is your first eSIM, start with the [activation walkthrough](/faq/how-to-activate-an-esim/).
 
 
 
@@ -93,7 +83,7 @@ Claro took the whole 2H 2025 scoreboard: **81.14 Mbps** median download against 
 
 
 
-- **Best at:** measured speed and quality, wherever Claro has built — the cities, the departmental capitals and the main highways.
+- **Best at:** measured speed and quality — a Claro Guatemala eSIM is strongest in the cities, the departmental capitals and on the main highways.
 
 - **Visitor purchase route:** prepaid Superpacks and an "eSIM Prepago" activated from a unique QR code, bought at Claro stores and authorised dealers with passport registration.
 
@@ -109,7 +99,7 @@ Claro took the whole 2H 2025 scoreboard: **81.14 Mbps** median download against 
 
 
 
-Tigo wins a different contest. Its own FY2025 filing reports **5,593 cell sites** reaching **95% of the population on 2G and 89% on 3G/4G**, and it holds **56% of the country's mobile lines** against Claro's 44%. Its 5G availability, at **25.6%**, is roughly three times Claro's 8.4% — meaning that when Tigo says 5G, a larger share of its users are actually on it.
+A Tigo Guatemala eSIM wins a different contest. Its own FY2025 filing reports **5,593 cell sites** reaching **95% of the population on 2G and 89% on 3G/4G**, and it holds **56% of the country's mobile lines** against Claro's 44%. Its 5G availability, at **25.6%**, is roughly three times Claro's 8.4% — meaning that when Tigo says 5G, a larger share of its users are actually on it.
 
 
 
@@ -219,7 +209,7 @@ Ookla publishes city and department medians, and they read like a map of the tou
 
 
 
-**Volcano hikes, including Acatenango.** The connectivity story is simple: the trailhead base camps on the lower slopes have signal on at least one network, and above the treeline you should assume none. No published report measures the mountain itself — treat anything above the trailhead as offline, tell your contacts before you ascend, and let your base-camp operator handle emergencies. The same logic applies to the other volcano trails of the western highlands.
+**Volcano hikes, including Acatenango.** The connectivity story is simple: the trailhead base camps on the lower slopes have signal on at least one network, and above the treeline you should assume none. No published report measures the mountain itself — treat anything above the trailhead as offline, tell your contacts before you head up, and let your base-camp operator handle emergencies. The same logic applies to the other volcano trails of the western highlands.
 
 
 
@@ -255,7 +245,7 @@ Almost every Guatemala itinerary is a chain of shuttles, and the country's trans
 
 
 
-## Where the value is: data per dollar
+## Guatemala eSIM prices: data per dollar
 
 
 
@@ -263,7 +253,7 @@ Yes — and Guatemala is one of the friendlier markets in the region for it, pro
 
 
 
-**The passport rule is statutory.** Guatemala's mobile-terminal law, Decreto 8-2013 (Ley de Equipos Terminales Móviles), administered by [the SIT](https://www.sit.gob.gt/)) requires every SIM buyer to show identification, and for foreigners that document is specifically a **valid passport**. The seller keeps a copy on file for three years, and activation is legally conditional on that registration. No passport, no SIM — which is also why tourists cannot skip the counter by buying a physical SIM through a friend.
+**The passport rule is statutory.** Guatemala's mobile-terminal law, Decreto 8-2013 (Ley de Equipos Terminales Móviles), administered by [the SIT](https://www.sit.gob.gt/) requires every SIM buyer to show identification, and for foreigners that document is specifically a **valid passport**. The seller keeps a copy on file for three years, and activation is legally conditional on that registration. No passport, no SIM — which is also why tourists cannot skip the counter by buying a physical SIM through a friend.
 
 
 
@@ -309,7 +299,7 @@ The practical difference follows from the row about how the profile arrives. Cla
 
 
 
-## Meet the operators
+## Guatemala mobile operators
 
 
 
@@ -607,7 +597,7 @@ Two habits make app-hailing work here. First, check the pickup before you commit
 
 
 
-Wi-Fi quality tracks the same geography as mobile coverage. Guatemala City and Antigua hotels run ordinary business-grade connections, Panajachel is solid, and the further you go — Semuc Champey, the Ixil Triangle, deep Petén — the more likely you are to find a connection that handles messages but not a video call. If you plan to work from a lakeside rental, judge the property's Wi-Fi before you book and treat your eSIM as backup rather than primary.
+Wi-Fi quality tracks the same geography as mobile coverage. Guatemala City and Antigua hotels run ordinary business-grade connections, Panajachel is solid, and the further you go — Semuc Champey, the Ixil Triangle, deep Petén — the more likely you are to find a connection that handles messages but not a video call. If you plan to work from a lakeside rental, judge the property's Wi-Fi before you book and treat your eSIM hotspot as backup rather than primary.
 
 
 
@@ -623,7 +613,7 @@ What to do instead:
 
 
 
-- Charge everything and pack a power bank. You hike to the summit at 4 a.m. by headlamp, so your phone is also your torch, camera and clock.
+- Charge everything and pack a power bank. On the usual guided trip you set off for the summit viewpoint at 4 a.m. by headlamp, so your phone is also your torch, camera and clock.
 
 - Tell someone your itinerary and expected return before the ascent, not during it.
 
@@ -631,7 +621,7 @@ What to do instead:
 
 
 
-## Guatemala eSIM: the questions that matter
+## Guatemala eSIM FAQ
 
 
 
@@ -655,7 +645,7 @@ For reach, Tigo — its own filing claims 95% population coverage and it holds m
 
 
 
-No. The statute that governs SIM registration — Decreto 8-2013 — names the valid passport as the identification document for foreigners. A DPI is only required for postpaid contracts and residency-grade paperwork.
+No DPI is needed. The statute that governs SIM registration — Decreto 8-2013 — names the valid passport as the identification document for foreigners. A DPI is only required for postpaid contracts and residency-grade paperwork.
 
 
 

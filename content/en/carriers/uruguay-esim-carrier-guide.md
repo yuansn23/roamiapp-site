@@ -1,11 +1,11 @@
 ---
 
-title: "Antel vs Movistar vs Claro: Uruguay eSIM Carriers"
+title: "5G Uruguay eSIM | Antel, Movistar & Claro Coverage"
 
-description: "Antel, Movistar or Claro? Roami compares all three Uruguay eSIM carriers, from Montevideo to the Cabo Polonio dead zone."
-image: "img/esim/carriers/uruguay-esim-carrier-guide.jpg"
+description: "Buy a Uruguay eSIM from Roami. Enjoy prepaid 5G data on Antel, Movistar & Claro networks, with reliable coverage and simple online setup."
+image: "img/esim/carriers/uruguay-esim-carrier-guide.webp"
 
-date: "2026-09-23T04:05:53+00:00"
+date: "2026-09-18"
 
 keywords: Uruguay eSIM, Uruguay eSIM carriers, Antel eSIM, Movistar Uruguay, Claro eSIM, travel eSIM Uruguay, eSIM compatibility, no roaming fees Uruguay, 5G Uruguay, Punta del Este eSIM
 
@@ -29,21 +29,11 @@ hero_subtitle_main: "What independent speed data reveals — and what it misses"
 
 ---
 
-
-
-> **Inside Uruguay's mobile networks**
-
->
-
-> **What independent speed data reveals — and what it misses**
-
-
-
 A Uruguay eSIM comes with one absolute exception worth knowing before you book: Cabo Polonio has no signal from any carrier — this guide covers that, and the passport rule at official outlets. Uruguay is South America's quiet 5G overachiever: the state carrier Antel was an early regional adopter, blankets Montevideo and the resort coast, and holds the interior in a way no rival matches. But the country also has one of the region's starkest coverage exceptions — **Cabo Polonio, a village with no electricity grid and no signal from any carrier** — and a registration rule that shapes your arrival: every SIM, foreigner included, must be tied to a passport at an official outlet. This guide covers the Antel vs Movistar vs Claro decision, the Punta del Este January congestion effect, and the Carrasco airport kiosk that closes too early for late flights. The sections on coverage and registration below are honest about the Uruguay failures our support desk fields weekly.
 
 
 
-**Quick answer:** The carrier decision in Uruguay matters less than buying before you fly: pick Antel for the widest map or Claro for budget data, and get the profile installed before you fly. First eSIM? Download and install are both covered in the [activation guide](/faq/how-to-activate-an-esim/).
+**Quick answer:** The carrier decision in Uruguay matters less than buying before you fly: pick Antel for the widest map or Claro for budget data, and get the profile installed at home. First eSIM? Download and install are both covered in the [activation guide](/faq/how-to-activate-an-esim/).
 
 
 
@@ -91,7 +81,7 @@ If your phone's eSIM status is unverified, the [device compatibility checker](/c
 
 
 
-Three networks, one of them state-owned, and a rural map that separates them far more sharply than price does.
+Three networks sit behind every Uruguay eSIM, one of them state-owned, and a rural map that separates them far more sharply than price does.
 
 
 
@@ -137,7 +127,7 @@ Movistar (Telefónica) is the credible number two: very good in Montevideo and a
 
 
 
-### Claro: the budget third
+### Claro: the budget option in Uruguay
 
 
 
@@ -145,7 +135,7 @@ Claro (América Móvil) is the smallest network and prices accordingly — decen
 
 
 
-### Can you buy an Uruguay eSIM from Antel?
+### Can you buy a Uruguay eSIM from Antel?
 
 
 
@@ -157,7 +147,7 @@ Claro (América Móvil) is the smallest network and prices accordingly — decen
 
 
 
-| | Direct from Antel, Movistar or Claro | Travel eSIM on an Uruguayan network |
+| | Direct from Antel, Movistar or Claro | Travel eSIM on a Uruguayan network |
 
 |:---|:---|:---|
 
@@ -175,7 +165,7 @@ Claro (América Móvil) is the smallest network and prices accordingly — decen
 
 
 
-The price gap is real but small in absolute terms, because Uruguayan data is so cheap that even an expensive travel eSIM costs a few dollars more for a fortnight. What a local line buys you beyond the price is an Uruguayan number and the ability to top up for cash at any pharmacy — genuinely useful if your stay runs long or you are working locally.
+The price gap is real but small in absolute terms, because Uruguayan data is so cheap that even an expensive travel eSIM costs a few dollars more for a fortnight. What a local line buys you beyond the price is a Uruguayan number and the ability to top up for cash at any pharmacy — genuinely useful if your stay runs long or you are working locally.
 
 
 
@@ -183,7 +173,7 @@ The price gap is real but small in absolute terms, because Uruguayan data is so 
 
 
 
-Most Uruguay coverage articles read like the whole country has signal. The reality has a short list of exceptions that matter:
+Most Uruguay eSIM coverage articles read like the whole country has signal. The reality has a short list of exceptions that matter:
 
 
 
@@ -225,7 +215,7 @@ Cabo Polonio is not a coverage gap in the ordinary sense — it is a village wit
 
 
 
-### What the Uruguayan map will not tell you
+### What Uruguay coverage maps do not show
 
 
 
@@ -261,7 +251,7 @@ Extending the trip? The same breakdowns exist for our [Argentina eSIM guide](/ca
 
 
 
-### From code to connection in Uruguay
+### Route 1 — Buy online and install before you fly
 
 
 
@@ -319,7 +309,7 @@ The route that bypasses the Carrasco counter and its closing time.
 
 
 
-## Check your phone before an Uruguayan eSIM
+## Check your phone before a Uruguayan eSIM
 
 
 
@@ -387,7 +377,7 @@ Travel eSIM profiles carry their own APN — type nothing. For locally bought li
 
 
 
-Almost never needed on a managed travel eSIM; these are the local-line cases.
+Manual entry is almost never needed on a managed travel eSIM; these are the local-line cases.
 
 
 
@@ -413,7 +403,7 @@ Settings → Cellular → [the Uruguayan line] → Cellular Data Network on iPho
 
 
 
-Four steps, all done on Wi-Fi before departure: scan the QR, label the line, make it the data line, enable roaming. Our [step-by-step activation guide](/faq/how-to-activate-an-esim/) covers the detail.
+The Uruguay eSIM install is four steps, all done on Wi-Fi before departure: scan the QR, label the line, make it the data line, enable roaming. Our [step-by-step activation guide](/faq/how-to-activate-an-esim/) covers the detail.
 
 
 
@@ -441,7 +431,7 @@ Work through these in advance, especially if you land after the Carrasco counter
 
 | 6 | Cabo Polonio and ferry legs | Offline map saved and roaming on before the Buquebus crossing |
 
-| 6 | Offline maps for the Polonio route | Saved in Montevideo, before the coast road |
+| 7 | Offline maps for the Polonio route | Saved in Montevideo, before the coast road |
 
 
 
@@ -459,7 +449,7 @@ Work through these in advance, especially if you land after the Carrasco counter
 
 
 
-### Troubleshooting an Uruguay eSIM in four steps
+### Troubleshooting a Uruguay eSIM in four steps
 
 
 
@@ -531,7 +521,7 @@ Have this ready before you open a chat — interior and coastal gaps are documen
 
 
 
-## Uruguay's mobile market, briefly
+## Uruguay's mobile market
 
 
 
@@ -575,7 +565,7 @@ If Uruguay is one stop on a longer route rather than the destination:
 
 
 
-## Straight answers: eSIMs on Common Uruguay carriers
+## Straight answers: Uruguay carrier eSIMs
 
 
 
@@ -595,7 +585,7 @@ Yes — every SIM is tied to an identity document by law, scanned or photographe
 
 
 
-### The field: Uruguay mobile carriers
+### Uruguay mobile carriers
 
 
 
@@ -671,7 +661,7 @@ For stays past two weeks, and especially if you are opening a local account or d
 
 
 
-Not on an Uruguay-only plan. For a Río de la Plata or Southern Cone loop, price a regional plan instead of stacking profiles — our [Argentina eSIM guide](/carriers/argentina-esim-carrier-guide/) and [Brazil eSIM page](/brazil-esim/) cover the two most common onward stops.
+Not on a Uruguay-only plan. For a Río de la Plata or Southern Cone loop, price a regional plan instead of stacking profiles — our [Argentina eSIM guide](/carriers/argentina-esim-carrier-guide/) and [Brazil eSIM page](/brazil-esim/) cover the two most common onward stops.
 
 
 
@@ -683,7 +673,7 @@ For a city holiday, no — all three are good in Montevideo and along the resort
 
 
 
-### Can I use an Uruguayan SIM in Argentina?
+### Can I use a Uruguayan SIM in Argentina?
 
 
 
@@ -703,7 +693,7 @@ For a short trip, a travel eSIM — because local data is so cheap that the gap 
 
 
 
-Only if you are staying long enough to deal with local services, open a local account, or be reachable by an Uruguayan business. For a holiday, WhatsApp over data covers everything.
+Only if you are staying long enough to deal with local services, open a local account, or be reachable by a Uruguayan business. For a holiday, WhatsApp over data covers everything.
 
 
 
@@ -733,7 +723,7 @@ Third-party measurements throughout. Uruguay's averages are genuinely strong; th
 
 
 
-## Uruguay eSIM: arrive at Carrasco already connected
+## Get your Uruguay eSIM ready before you fly
 
 
 

@@ -1,8 +1,8 @@
 ---
-title: "China eSIM carriers: registration, routing and apps"
-description: "Roami explains China Mobile and China Unicom eSIM rules for visitors, and why a travel eSIM is the practical route in China."
-image: "img/esim/carriers/china-esim-carrier-guide.jpg"
-date: "2026-07-13T13:44:42+00:00"
+title: "Unlimited China eSIM | China Mobile, Unicom & Telecom"
+description: "Need mobile data in China? Roami eSIM provides 5G prepaid coverage on China Mobile, Unicom & Telecom networks, with easy setup and no roaming."
+image: "img/esim/carriers/china-esim-carrier-guide.webp"
+date: "2026-09-26"
 keywords: China eSIM, China eSIM carriers, travel internet China, China Mobile eSIM, China Unicom eSIM, plug-and-play eSIM, avoid roaming fees China, eSIM for China travel, Great Wall eSIM, Shanghai eSIM, Beijing eSIM
 site_name: Roami
 brand_name: Roami
@@ -29,7 +29,7 @@ Every SIM, physical or embedded, is registered against a real name under nationa
 
 Visitors register a physical SIM with a passport at a carrier service hall, or more commonly install a travel eSIM issued outside mainland China. A travel-issued China eSIM roams onto China Mobile or China Unicom towers and routes data internationally, so it installs in minutes, needs no registration, and is the default choice for trips under two or three weeks. Direct carriers suit long stays where a Chinese phone number matters. Check your handset against the [eSIM compatibility quiz](/compatibility/) first, and test a [free coverage test](/free-esim/) before you commit to a plan.
 
-## Your eSIM carriers: the networks behind every profile
+## China eSIM carriers
 
 Three state-owned carriers hold essentially the whole mainland market, regulated by the Ministry of Industry and Information Technology (MIIT). Their 2025 full-year results describe the landscape you will roam on:
 
@@ -58,7 +58,7 @@ Administrative villages reach 100% broadband coverage, more than 95% on 5G, and 
 
 Inbound roaming is bought at wholesale, so your profile registers on whichever host network the provider has agreements with — usually China Mobile or China Unicom in the big cities. Seeing the operator name change in your status bar as you cross a province is normal, not a fault to chase.
 
-## Real-name registration: the rule that shapes every your eSIM
+## China real-name registration rules
 
 Mainland China has operated mandatory real-name registration for mobile services since 2013, and enforcement is total: no SIM activates without an identity check.
 
@@ -70,9 +70,9 @@ Mainland China has operated mandatory real-name registration for mobile services
 
 The trial itself needs one clear paragraph, because most advice on this question predates it. On 13 October 2025 all three carriers announced MIIT approval for a commercial eSIM trial for phones, with three constraints attached.
 
-Activation happens in person at a carrier service hall, only. Mainland-certified eSIM devices are required, so overseas models cannot receive the carriers' profiles. And a device holds at most two domestic eSIM numbers. For residents it opened the door to eSIM phones such as the iPhone Air, on sale in the mainland from 22 October 2025. For a two-week visitor the answer is still, practically, no.
+Activation happens in person at a carrier service hall, only, on the certified devices above, and a device holds at most two domestic eSIM numbers. For residents it opened the door to eSIM phones such as the iPhone Air, on sale in the mainland from 22 October 2025. For a two-week visitor the answer is still, practically, no.
 
-### The China carrier field
+### Which ID does each China carrier accept?
 
 Most guides answer with a blanket no. The accurate answer is a matrix, because the carriers published different identity lists when the trial opened:
 
@@ -107,7 +107,7 @@ Two more notes worth knowing:
 - A physical SIM on an existing Chinese prepaid account can often be swapped to an eSIM on the spot, and the carriers stated at launch that the swap carries no fee.
 - A dormant line is suspended and eventually reclaimed, so a mainland number is not something you keep alive between visits.
 
-## Buy direct or use a travel eSIM? The decision that matters most in China
+## Buy direct or use a travel eSIM in China?
 
 Every other country guide treats "carrier versus travel eSIM" as a price comparison. In China it is closer to a lifestyle decision, because the two products differ in registration burden, phone number, and how traffic is routed:
 
@@ -139,7 +139,7 @@ Being honest about the trade-offs saves a lot of mid-trip frustration:
 - **No voice calls.** Calling is app-based over data; there is no dial tone on a data-only profile.
 - **No mainland registration record.** Useful if you want privacy, inconvenient if you later need a local number and must start the hall process from scratch.
 
-## Is your phone ready for a mainland your eSIM?
+## Is your phone ready for a mainland China eSIM?
 
 Bands decide how well your handset performs; a short list of device quirks decides whether it performs at all. Run your model through the [compatibility lookup tool](/compatibility/) before buying anything — it answers both questions at once.
 
@@ -147,7 +147,7 @@ Bands decide how well your handset performs; a short list of device quirks decid
 
 Mainland LTE runs on bands 1, 3, 5, 8, 38, 39, 40 and 41, with 5G concentrated on n41 (2.5 GHz) and n78 (3.5 GHz). Phones sold in Europe, North America, Japan and Korea cover enough of these to work well.
 
-A missing band weakens indoor penetration or drops you from 5G to 4G in some districts; it does not kill the phone. On a travel eSIM you will often hold 4G LTE rather than 5G, because inbound roaming profiles do not always prioritize 5G — fine for maps, messaging and video calls.
+A missing band weakens indoor penetration or drops you from 5G to 4G in some districts; it does not kill the phone. On a travel eSIM you will often hold 4G LTE rather than 5G, because inbound roaming profiles do not always prioritize 5G — fine for maps, messaging, tethering and video calls.
 
 ### Can you buy a China eSIM from China Mobile?
 
@@ -160,7 +160,7 @@ A missing band weakens indoor penetration or drops you from 5G to 4G in some dis
 
 That first row is the most famous compatibility fact in this market: iPhones sold in mainland China shipped for years with eSIM entirely disabled, and Apple only introduced an eSIM model there alongside the October 2025 trial.
 
-### From code to connection in China
+### China eSIM setup, step by step
 
 1. Confirm the handset is unlocked, then dial `*#06#` and note the EID.
 2. Match your exact model number, not the marketing name, against [the compatibility list](/compatibility/).
@@ -192,7 +192,7 @@ One app-store wrinkle: mainland Android phones ship without Google Play, using C
 4. On arrival: enable the eSIM line, turn on data roaming, and it registers on China Mobile or China Unicom automatically.
 5. Label the line clearly and keep your home SIM active for calls and SMS verification codes.
 
-For the install mechanics, the generic sequence (Settings → Add eSIM → scan → label → set data line) is in our [the activation how-to](/faq/how-to-activate-an-esim/).
+For the install mechanics, the generic sequence (Settings → Add eSIM → scan → label → set data line) is in [the activation how-to](/faq/how-to-activate-an-esim/).
 
 ### Your China eSIM, matched to the trip
 
@@ -271,7 +271,7 @@ Enter these only if you bought a SIM directly from a carrier and automatic confi
 
 On a travel eSIM, change nothing. The profile carries its own configuration, and overwriting it is the most common way to break a working connection.
 
-## From QR Code to Connected
+## Activating your China eSIM step by step
 
 Activation mechanics are universal: install on Wi-Fi, enable the line, switch on data roaming, set it as your data line, reboot if needed. The generic sequence and the wider error catalogue live in our [eSIM activation error guide](/faq/esim-activation-errors-troubleshooting-guide/), and the background on what happens when a profile downloads is in [what eSIM activation is and how it works](/faq/what-is-esim-activation-and-how-does-it-work/).
 
@@ -324,7 +324,7 @@ On mainland networks — including a locally registered China Mobile, Unicom or 
 
 ### ID needed to buy a China SIM
 
-No. Foreigners register a physical SIM at a carrier service hall with a passport plus a valid entry stamp — that is the official procedure. A Chinese national ID is only needed for residents; foreign permanent residents use the Foreign Permanent Resident ID Card.
+Registration cannot be skipped. Foreigners register a physical SIM at a carrier service hall with a passport plus a valid entry stamp — that is the official procedure. A Chinese national ID is only needed for residents; foreign permanent residents use the Foreign Permanent Resident ID Card.
 
 ### China: resident SIM or traveler eSIM
 
@@ -366,7 +366,7 @@ On a travel eSIM you rarely choose — the profile roams onto whichever network 
 
 ### Will my existing phone take a China eSIM?
 
-Handsets from 2020 onward generally qualify — the disqualifiers are a carrier lock or a mainland-China-market device.Run the [eSIM compatibility check](/compatibility/) before you pay for anything.
+Handsets from 2020 onward generally qualify — the disqualifiers are a carrier lock or a mainland-China-market device. Run the [eSIM compatibility check](/compatibility/) before you pay for anything.
 
 ### How do I know the coverage claims are right for my route?
 
@@ -374,7 +374,7 @@ Cross-reference the carrier sections above with the speed data we cite, then tes
 
 ### What is the one mistake that ruins China trips?
 
-Landing with no data and trying to sort it out over airport Wi-Fi.Install and activate your China eSIM the night before you fly — the whole process is covered above and takes minutes.
+Landing with no data and trying to sort it out over airport Wi-Fi. Install and activate your China eSIM the night before you fly — the whole process is covered above and takes minutes.
 
 ## How this China eSIM guide was researched
 
@@ -386,6 +386,6 @@ Landing with no data and trying to sort it out over airport Wi-Fi.Install and ac
 
 Carrier subscriber counts and the October 2025 trial conditions come from the operators' own announcements. Network-build figures, including 4.958 million base stations, are from MIIT's 2026 State Council briefing, and the Beijing and Tibet counts from the regional communications administrations.
 
-## Sort your China eSIM out before boarding
+## Get your China eSIM ready before you fly
 
-The whole exercise rewards one habit: decide early. Check your device, choose your route — a [China eSIM plan](/china-esim/) for instant, registration-free data that roams onto China Mobile and China Unicom, or a service-hall SIM if your stay is long enough to want a Chinese number — and install the profile at home where the download cannot fail. New customers can start with a [Roami's free trial eSIM](/free-esim/) to test the setup, and code **WEB20** knocks 20% off the first plan.
+The whole exercise rewards one habit: decide early. Check your device, choose your route — a [China eSIM plan](/china-esim/) for instant, registration-free data that roams onto China Mobile and China Unicom, or a service-hall SIM if your stay is long enough to want a Chinese number — and install the profile at home where the download cannot fail. New customers can start with [Roami's free trial eSIM](/free-esim/) to test the setup, and code **WEB20** knocks 20% off the first plan.

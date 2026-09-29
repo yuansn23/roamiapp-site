@@ -1,11 +1,11 @@
 ---
 
-title: "Switzerland eSIM Carriers: Swisscom, Sunrise and Salt"
+title: "Prepaid Switzerland eSIM | Swisscom, Sunrise & Salt"
 
-description: "Roami rates Swisscom, Sunrise and Salt on Ookla data, prepaid rules and alpine coverage so you pick the right Switzerland eSIM carrier."
-image: "img/esim/carriers/switzerland-esim-carrier-guide.jpg"
+description: "Stay connected in Switzerland with Roami eSIM. Enjoy prepaid data on Swisscom, Sunrise & Salt networks, ideal for tourists and business trips."
+image: "img/esim/carriers/switzerland-esim-carrier-guide.webp"
 
-date: "2026-09-14T10:34:23+00:00"
+date: "2026-09-19"
 
 keywords: Switzerland eSIM carriers, Swisscom eSIM, Sunrise eSIM, Salt eSIM, Switzerland 5G coverage, Switzerland eSIM APN, eSIM Switzerland prepaid, best eSIM carrier Switzerland, Switzerland travel eSIM, Switzerland EU roaming
 
@@ -29,17 +29,7 @@ hero_subtitle_main: "Switzerland's networks without the marketing gloss"
 
 ---
 
-
-
-> **Switzerland eSIM compared: Swisscom, Sunrise and Salt**
-
->
-
-> **Switzerland's networks without the marketing gloss**
-
-
-
-Switzerland is the one Alpine country where your phone plan choice collides with a fact most visitors learn too late. The country sits outside the European Union and outside the EU roaming zone, so the same network that keeps you online in Zurich can bankrupt you the moment you cross into France, and a French plan that worked all the way to Basel can start billing per megabyte the second you step off the train in Geneva. This guide compares the three Swiss carriers on verified coverage and consistency figures, lays out the prepaid eSIM routes open to foreign visitors, and explains where a single travel profile that moves between all three networks spares you the border surprise.
+Switzerland is the one Alpine country where your phone plan choice collides with a fact most visitors learn too late. The country sits outside the European Union and outside the EU roaming zone, so the same network that keeps you online in Zurich can bankrupt you the moment you cross into France, and a French plan that worked all the way to Basel can start billing per megabyte the second you step off the train in Geneva. This Switzerland eSIM guide compares the three Swiss carriers on verified coverage and consistency figures, lays out the prepaid eSIM routes open to foreign visitors, and explains where a single travel profile that moves between all three networks spares you the border surprise.
 
 
 
@@ -47,7 +37,7 @@ Switzerland is the one Alpine country where your phone plan choice collides with
 
 
 
-Everything else passes through the installation gate — [eSIM compatibility tool](/compatibility/) and [eSIM activation guide](/faq/what-is-esim-activation-and-how-does-it-work/) clear up either side of it.. Then come back for the network verdicts.
+Everything else passes through the installation gate — [eSIM compatibility tool](/compatibility/) and [eSIM activation guide](/faq/what-is-esim-activation-and-how-does-it-work/) clear up either side of it. Then come back for the network verdicts.
 
 
 
@@ -55,7 +45,7 @@ Everything else passes through the installation gate — [eSIM compatibility too
 
 
 
-## Carriers in the frame for your eSIM
+## The carriers behind your Switzerland eSIM
 
 
 
@@ -87,7 +77,7 @@ This section answers the first practical question: of the three networks in the 
 
 
 
-### The players in Switzerland mobile
+### Smaller prepaid brands in Switzerland
 
 
 
@@ -117,7 +107,7 @@ Two cautions apply. First, a budget brand is still tied to one parent network, s
 
 
 
-### Can you buy a Switzerland eSIM from Swisscom?
+### Buying routes: Swiss carrier direct vs travel eSIM
 
 
 
@@ -137,11 +127,11 @@ Two cautions apply. First, a budget brand is still tied to one parent network, s
 
 
 
-For a normal holiday the maths is not close. A Swiss prepaid plan charges in francs for a Swiss number and, on Swisscom and Salt, stops dead at the border. A travel eSIM buys data at wholesale and lets the device move between networks, which is exactly what you want once the itinerary leaves Switzerland.
+For a normal holiday, the Switzerland eSIM maths is not close. A Swiss prepaid plan charges in francs for a Swiss number and, on Swisscom and Salt, stops dead at the border. A travel eSIM buys data at wholesale and lets the device move between networks, which is exactly what you want once the itinerary leaves Switzerland.
 
 
 
-💡 A multi-network eSIM profile is the practical middle path: [Roami's Switzerland eSIM](/switzerland-esim/) keeps the convenience of instant delivery, re-attaches to whichever of the three Swiss networks is strongest where you are, and still lands you on Swisscom above the snow line without buying twice.
+💡 A multi-network eSIM profile is the practical middle path: [Roami's Switzerland eSIM](/switzerland-esim/) keeps the convenience of instant delivery, re-attaches to whichever of the three Swiss networks is strongest where you are, and still lands you on Swisscom in the high mountains without buying twice.
 
 
 
@@ -153,7 +143,7 @@ Three things decide whether your phone works on a Swiss carrier: its bands, its 
 
 
 
-### What devices are blocked from Switzerland eSIMs?
+### Which bands does your phone need for Switzerland?
 
 
 
@@ -205,7 +195,7 @@ If you bought a used phone, or a phone on a contract, assume it may be locked an
 
 
 
-Beyond this, your device is the variable, not Swisscom or Sunrise. A quick pass through the [eSIM device checker](/compatibility/) now saves a broken plan at 2,000 metres later.
+Beyond this, your device is the variable, not Swisscom or Sunrise. A quick pass through the [eSIM device checker](/compatibility/) now saves a broken plan in the mountains later.
 
 
 
@@ -217,7 +207,7 @@ Four routes exist, and they differ more in price and in what happens at the bord
 
 
 
-### Where to find a Switzerland eSIM
+### The Swisscom route: Prepaid Flat for tourists
 
 
 
@@ -261,7 +251,7 @@ Swisscom explicitly notes on its tourist page that Switzerland is not subject to
 
 
 
-### Buying local in Switzerland vs going travel eSIM
+### The Sunrise route: the EU-inclusive visitors prepaid
 
 
 
@@ -299,7 +289,7 @@ Sunrise visitors prepaid prices at a glance:
 
 
 
-The catch is coverage. Sunrise is excellent in cities but thinner than Swisscom on the high pistes, so a skier heading to Zermatt or the Jungfrau region should weigh the border saving against the alpine gap.
+The catch is coverage. Sunrise is excellent in cities but thinner than Swisscom on the high slopes, so visitors heading to Zermatt or the Jungfrau region should weigh the border saving against the alpine gap.
 
 
 
@@ -307,7 +297,7 @@ The catch is coverage. Sunrise is excellent in cities but thinner than Swisscom 
 
 
 
-Salt is the budget option and the cheapest way to get online in Switzerland, though its prepaid is the least alpine and the least border-friendly of the three.
+Salt is the budget option and the cheapest way to get online in Switzerland, though its prepaid is the weakest in the mountains and the least border-friendly of the three.
 
 
 
@@ -349,7 +339,7 @@ Salt's Europe-inclusive deals live in its subscription tiers, not in PrePay, so 
 
 
 
-### Switzerland eSIM plans at a glance
+### Switzerland eSIM pre-purchase checklist
 
 
 
@@ -407,7 +397,7 @@ Swisscom leads on consistency, Salt sits a hair behind, and Sunrise trails but s
 
 
 
-For the country as a whole, Ookla's [Speedtest Global Index](https://www.speedtest.net/global-index/switzerland) put Switzerland's median mobile download at **120.25 Mbps** in August 2026, rank 39 worldwide, with **17 ms** latency. Fixed broadband is far stronger at about **480.57 Mbps**, rank 3. Cable.co.uk prices 1 GB of Swiss mobile data at roughly **USD 7.29**, which makes Switzerland one of the most expensive data markets in Europe and the single best argument for buying a local or travel plan instead of roaming.
+For the country as a whole, Ookla's [Speedtest Global Index](https://www.speedtest.net/global-index/switzerland) put Switzerland's median mobile download at **120.25 Mbps** in August 2026, rank 39 worldwide, with **17 ms** latency. Fixed broadband is far stronger at about **480.57 Mbps**, rank 3. Cable.co.uk prices 1 GB of Swiss mobile data at roughly **USD 7.29**, which makes Switzerland one of the most expensive data markets in Europe and the single best argument for buying a Switzerland eSIM instead of roaming.
 
 
 
@@ -497,7 +487,7 @@ Leave username and password empty. Where an operator insists on a value, the pro
 
 
 
-### Setting the APN on Switzerland networks
+### When Switzerland APNs don't arrive automatically
 
 
 
@@ -511,7 +501,7 @@ Leave username and password empty. Where an operator insists on a value, the pro
 
 
 
-### When Switzerland APNs don't arrive automatically
+### Setting the APN on Switzerland networks
 
 
 
@@ -525,11 +515,11 @@ After saving, restart the phone. Silent data on a mountain road is usually a dat
 
 
 
-## From QR Code to Connected
+## How to install and activate a Switzerland eSIM
 
 
 
-A single walk-through of this section handles clean install through working data, including the failure patterns a Swiss network can actually produce, in sequence.
+A single walk-through of this section handles a clean Switzerland eSIM install through working data, including the failure patterns a Swiss network can actually produce, in sequence.
 
 
 
@@ -541,7 +531,7 @@ A single walk-through of this section handles clean install through working data
 
 |:---|:---|:---|
 
-| 1 | Phone is not carrier locked | Carrier Lock under Settings -> General -> About shows No SIM restrictions |
+| 1 | Phone is not carrier locked | Carrier Lock under Settings → General → About shows No SIM restrictions |
 
 | 2 | Phone supports eSIM | `*#06#` shows an EID, or the [handset compatibility checker](/compatibility/) confirms your model |
 
@@ -575,7 +565,7 @@ For the entire sequence on one page, our [activation how-to guide](/faq/how-to-a
 
 
 
-### Which Switzerland carrier should you pick: Swisscom vs Sunrise?
+### Switzerland-specific eSIM problems and fixes
 
 
 
@@ -647,11 +637,11 @@ General activation errors, a profile that will not download, a scan that fails, 
 
 
 
-## Your Switzerland eSIM: the questions that matter
+## Switzerland eSIM FAQ
 
 
 
-### Swisscom eSIM plans for visitors
+### Can visitors buy a Swisscom eSIM?
 
 
 
@@ -679,11 +669,11 @@ Yes. Salt PrePay issues an eSIM and accepts a foreign passport through its ident
 
 
 
-Swisscom, on the evidence and on the ground. It leads Ookla consistency at 93.4 and is the network that reaches the high points the others miss: the Jungfraujoch platform at 3454 m, the Gornergrat above Zermatt, and the remote stretches of the Gotthard corridor. Sunrise and Salt are strong in resorts and villages but fade on the high pistes and glaciers, so download offline maps before any climb.
+Swisscom, on the evidence and on the ground. It leads Ookla consistency at 93.4 and is the network that reaches the high points the others miss: the Jungfraujoch platform at 3454 m, the Gornergrat above Zermatt, and the remote stretches of the Gotthard corridor. Sunrise and Salt are strong in resorts and villages but fade on the high slopes and glaciers, so download offline maps before you head up.
 
 
 
-### Using Switzerland eSIMs while roaming
+### Does EU roaming work in Switzerland?
 
 
 
@@ -707,7 +697,7 @@ Yes, for any Swiss prepaid, physical or eSIM. OFCOM requires every carrier and e
 
 
 
-### Checking IMEI and EID for Switzerland
+### Will my phone work with a Switzerland eSIM?
 
 
 
@@ -723,7 +713,7 @@ Ask the carrier it is locked to. A phone on a Swisscom, Sunrise, Salt, or an EU 
 
 
 
-### What's the right amount of data to load for Switzerland?
+### Why does my EU plan work in Liechtenstein but not Switzerland?
 
 
 
@@ -743,7 +733,7 @@ Direct means one network, an OFCOM identity check, and often a Swiss number; in 
 
 
 
-Work the Switzerland-specific patterns above in order, lock status, manual network selection to Swisscom, APN and data line, then profile reinstall, and if it still fails the wider error catalogue in [activation troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. Above the lifts, favour Swisscom and always download offline maps before you set out, because even the best network thins on the highest glaciers.
+Work the Switzerland-specific patterns above in order, lock status, manual network selection to Swisscom, APN and data line, then profile reinstall, and if it still fails the wider error catalogue in [activation troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/) covers the rest. High in the mountains, favour Swisscom and always download offline maps before you set out, because even the best network thins on the highest glaciers.
 
 
 
@@ -775,7 +765,7 @@ These are third-party readings and carrier statements only. Outcomes shift with 
 
 
 
-Land in Zurich already online. Roami's profile hops between Swisscom, Sunrise and Salt as you move, and climbs with Swisscom above the snow line. First-time buyers can start with a [free multi-network trial eSIM](/free-esim/) or take 20% off with code **WEB20** on a [Switzerland eSIM plan](/switzerland-esim/).
+Land in Zurich already online. Roami's profile hops between Swisscom, Sunrise and Salt as you move, and stays with Swisscom in the high mountains. First-time buyers can start with a [free multi-network trial eSIM](/free-esim/) or take 20% off with code **WEB20** on a [Switzerland eSIM plan](/switzerland-esim/).
 
 
 
