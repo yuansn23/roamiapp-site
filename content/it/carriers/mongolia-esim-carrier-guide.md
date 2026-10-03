@@ -6,8 +6,8 @@ title: "Operatori eSIM Mongolia: Unitel, Mobicom e copertura"
 
 
 
-description: "Unitel o Mobicom? Roami confronta gli operatori eSIM Mongolia su copertura e prezzi reali, da Ulaanbaatar al deserto del Gobi."
-image: "img/esim/carriers/mongolia-esim-carrier-guide.jpg"
+description: "Unitel o Mobicom? Roami confronta gli operatori eSIM Mongolia su copertura e prezzi reali, da Ulaanbaatar alle steppe e ai laghi."
+image: "img/esim/carriers/mongolia-esim-carrier-guide.webp"
 
 
 
@@ -772,4 +772,4 @@ Metti il profilo sul tuo telefono prima della partenza, atterra all'UBN coi dati
 
 
 
-E quando sei pronto a comprare: l'[eSIM starter gratuita di Roami](/free-esim/) è il punto di partenza a zero rischi per la Mongolia, e **WEB20** sottrae il 20% dal tuo primo piano Roami a pagamento se decidi di restare connesso per tutto il viaggio.
+E quando sei pronto a comprare: l'[eSIM starter gratuita di Roami](/free-esim/) è il punto di partenza a zero rischi per la Mongolia, e **web20** sottrae il 20% dal tuo primo piano Roami a pagamento se decidi di restare connesso per tutto il viaggio.

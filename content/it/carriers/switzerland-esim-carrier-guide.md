@@ -4,7 +4,7 @@ title: "Operatori eSIM Svizzera: Swisscom, Sunrise e Salt"
 
 description: "Roami confronta Swisscom, Sunrise e Salt su velocità e copertura alpina per la tua eSIM Svizzera, dal Jungfraujoch a Zurigo."
 
-image: "img/esim/carriers/switzerland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/switzerland-esim-carrier-guide.webp"
 
 date: "2026-09-23T10:34:23+00:00"
 
@@ -47,7 +47,7 @@ Tutto il resto passa attraverso il cancello dell'installazione — lo [strumento
 
 
 
-**La risposta in un paragrafo:** Resti a Zurigo, Ginevra o Basilea? Swisscom è la rete più veloce e più coerente, ed è l'unica che raggiunga in modo affidabile le alte Alpi. Dirigi in montagna a Zermatt, nella regione della Jungfrau o nel corridoio del Gottardo? Swisscom tiene il segnale dove Sunrise e Salt sfumano. Vuoi una prepagata svizzera che copra anche l'attraversamento in UE? Solo Sunrise vende una prepagata turistica che include Francia, Germania, Italia e Austria per impostazione predefinita. Oppure salta la burocrazia e i calcoli di confine: [l'eSIM di prova gratuita per la Svizzera di Roami](/free-esim/) testa le reti senza costi, e **WEB20** toglie il 20% dai [piani eSIM Svizzera](/switzerland-esim/).
+**La risposta in un paragrafo:** Resti a Zurigo, Ginevra o Basilea? Swisscom è la rete più veloce e più coerente, ed è l'unica che raggiunga in modo affidabile le alte Alpi. Dirigi in montagna a Zermatt, nella regione della Jungfrau o nel corridoio del Gottardo? Swisscom tiene il segnale dove Sunrise e Salt sfumano. Vuoi una prepagata svizzera che copra anche l'attraversamento in UE? Solo Sunrise vende una prepagata turistica che include Francia, Germania, Italia e Austria per impostazione predefinita. Oppure salta la burocrazia e i calcoli di confine: [l'eSIM di prova gratuita per la Svizzera di Roami](/free-esim/) testa le reti senza costi, e **web20** toglie il 20% dai [piani eSIM Svizzera](/switzerland-esim/).
 
 
 
@@ -771,7 +771,7 @@ Queste sono letture di terzi e dichiarazioni degli operatori soltanto. I risulta
 
 
 
-Atterra a Zurigo già online. Il profilo di Roami salta tra Swisscom, Sunrise e Salt mentre ti muovi, e sale con Swisscom sopra la linea delle nevi. I compratori al primo acquisto possono partire con una [eSIM di prova multi-rete gratuita](/free-esim/) o prendere il 20% di sconto con il codice **WEB20** su un [piano eSIM Svizzera](/switzerland-esim/).
+Atterra a Zurigo già online. Il profilo di Roami salta tra Swisscom, Sunrise e Salt mentre ti muovi, e sale con Swisscom sopra la linea delle nevi. I compratori al primo acquisto possono partire con una [eSIM di prova multi-rete gratuita](/free-esim/) o prendere il 20% di sconto con il codice **web20** su un [piano eSIM Svizzera](/switzerland-esim/).
 
 
 

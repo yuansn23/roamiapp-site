@@ -1,7 +1,7 @@
 ---
 title: "eSIM Lettonia: operatori LMT, Tele2, Bite e roaming"
 description: "LMT, Tele2 o Bite? Roami confronta gli operatori eSIM Lettonia su velocità, copertura e prezzi, da Riga alla costa baltica."
-image: "img/esim/carriers/latvia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/latvia-esim-carrier-guide.webp"
 date: "2026-09-25T23:56:33+00:00"
 keywords: eSIM Lettonia, operatori eSIM Lettonia, comprare eSIM Lettonia, connettività immediata, LMT Lettonia, Tele2 Lettonia, Riga città vecchia, evitare costi di roaming, eSIM viaggi, viaggio nei Baltici
 site_name: Roami
@@ -357,4 +357,4 @@ Compra online, salta completamente la coda al passaporto, e lascia che il profil
 
 [Scegli un piano per la Lettonia](/latvia-esim/) · [Prova la prova gratuita](/free-esim/) · [Vedi i piani eSIM Lettonia](/latvia-esim/)
 
-Il consiglio di Roami è semplice: atterra connesso. Inizia con il [test senza costo](/free-esim/) per campionare la copertura delle reti locali senza rischi, poi usa il codice **WEB20** su un piano Roami completo quando la prova ti convince.
+Il consiglio di Roami è semplice: atterra connesso. Inizia con il [test senza costo](/free-esim/) per campionare la copertura delle reti locali senza rischi, poi usa il codice **web20** su un piano Roami completo quando la prova ti convince.

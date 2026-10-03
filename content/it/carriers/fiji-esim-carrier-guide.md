@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Fiji: Vodafone o Digicel a confronto"
 description: "Viti Levu o isole esterne? Roami confronta le reti 5G di Vodafone e Digicel per la tua eSIM Fiji, in tutto l'arcipelago."
-image: "img/esim/carriers/fiji-esim-carrier-guide.jpg"
+image: "img/esim/carriers/fiji-esim-carrier-guide.webp"
 date: "2026-09-26T18:48:25+00:00"
 keywords: operatori eSIM Fiji, eSIM Fiji, tenere attivo il numero principale, Vodafone Fiji, Digicel Fiji, operatori mobili Fiji, Isole Yasawa, Beqa Lagoon, roaming gratuito, eSIM viaggio, confronto reti Fiji
 site_name: Roami
@@ -329,4 +329,4 @@ La configurazione ideale per le Fiji si decide nel tuo salotto: controlla il tel
 
 Se non hai mai usato uno di questi profili, *la tua prima eSIM può essere una prova gratuita* — [riscattala qui](/free-esim/) — e atterri a Nadi sapendo già esattamente come si comporta. Il traghetto partirà comunque senza copertura nel mezzo — ma sarai tu a guardare l'acqua invece di guardare le tacche.
 
-Una nota di chiusura da Roami: i viaggiatori che provano prima la copertura raramente se lo rimangono. Il [piano di prova gratuito](/free-esim/) rispecchia la configurazione locale sulle reti locali, e il codice **WEB20** toglie il 20% da un piano Roami a pagamento ogni volta che sei pronto.
+Una nota di chiusura da Roami: i viaggiatori che provano prima la copertura raramente se lo rimangono. Il [piano di prova gratuito](/free-esim/) rispecchia la configurazione locale sulle reti locali, e il codice **web20** toglie il 20% da un piano Roami a pagamento ogni volta che sei pronto.

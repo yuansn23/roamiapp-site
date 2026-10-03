@@ -4,7 +4,7 @@ title: "Migliori operatori eSIM Lituania: Telia, Bitė, Tele2"
 
 description: "Telia, Bitė o Tele2? Roami confronta gli operatori eSIM Lituania su copertura e prezzi, da Vilnius all’istmo della Curonia."
 
-image: "img/esim/carriers/lithuania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/lithuania-esim-carrier-guide.webp"
 
 date: "2026-09-25T20:35:06+00:00"
 
@@ -665,5 +665,5 @@ Se non hai mai eseguito un'installazione, *chi compra per la prima volta riceve 
 
 
 
-Ovunque atterri in Lituania, Roami ha una scorciatoia: una [eSIM di prova](/free-esim/) che gira sulle stesse reti delle reti locali, e **WEB20** per il 20% di sconto sul tuo primo piano a pagamento.
+Ovunque atterri in Lituania, Roami ha una scorciatoia: una [eSIM di prova](/free-esim/) che gira sulle stesse reti delle reti locali, e **web20** per il 20% di sconto sul tuo primo piano a pagamento.
 

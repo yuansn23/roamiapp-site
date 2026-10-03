@@ -3,7 +3,7 @@
 title: "Operatori eSIM Cambogia: Smart, Cellcard o Metfone"
 
 description: "Roami confronta Smart, Cellcard e Metfone su velocità 5G, copertura e prezzi per la tua eSIM Cambogia, da Phnom Penh alle isole."
-image: "img/esim/carriers/cambodia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cambodia-esim-carrier-guide.webp"
 
 date: "2026-09-27T22:36:03+00:00"
 
@@ -748,4 +748,4 @@ I clienti alla prima esperienza possono [iniziare con una prova gratuita in Camb
 
 
 
-Vuoi confrontare prima di pagare? La [eSIM starter gratuita](/free-esim/) di Roami copre gli stessi terreni degli operatori sopra in Cambogia, e **WEB20** taglia il 20% dal tuo primo piano completo. Dubbi di compatibilità? Il [verificatore](/compatibility/) li risolve in un minuto.
+Vuoi confrontare prima di pagare? La [eSIM starter gratuita](/free-esim/) di Roami copre gli stessi terreni degli operatori sopra in Cambogia, e **web20** taglia il 20% dal tuo primo piano completo. Dubbi di compatibilità? Il [verificatore](/compatibility/) li risolve in un minuto.

@@ -6,7 +6,7 @@ title: "Operatori eSIM Pakistan: Jazz, Zong e Transworld"
 
 description: "Roami confronta Jazz, Zong e Transworld su velocità 5G e copertura per la tua eSIM Pakistan, da Islamabad al passo del Karakoram."
 
-image: "img/esim/carriers/pakistan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/pakistan-esim-carrier-guide.webp"
 
 
 date: "2026-09-24T05:22:40+00:00"
@@ -74,7 +74,7 @@ Un'eSIM Pakistan corre su una di quattro reti mobili, e su quale atterri cambia 
 
 
 
-**Sintesi veloce:** Jazz è la rete mobile più veloce del paese, registrando un **download mediano di 24,13 Mbps e un upload mediano di 8,89 Mbps nel 2° semestre 2025** nel [Rapporto di connettività Ookla Speedtest per il Pakistan](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), con la latenza più bassa a 48 ms e il miglior punteggio video mobile. Zong risponde con la coerenza più alta — **l'86,2% dei suoi campioni supera una soglia di 5 Mbps giù / 1 Mbps su** — ed è per questo che regge meglio sulla Karakoram Highway. Ufone e Telenor completano il quadro su prezzo e portata settentrionale. Il profilo di Roami passa automaticamente tra Jazz e Zong, mantiene disponibile il tethering hotspot e si installa da un QR code. I nuovi viaggiatori possono [provare l'eSIM di prova gratuita di Roami](/free-esim/) o togliere il 20% da un piano a pagamento con il codice **WEB20** sui [piani dati per il Pakistan](/pakistan-esim/).
+**Sintesi veloce:** Jazz è la rete mobile più veloce del paese, registrando un **download mediano di 24,13 Mbps e un upload mediano di 8,89 Mbps nel 2° semestre 2025** nel [Rapporto di connettività Ookla Speedtest per il Pakistan](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), con la latenza più bassa a 48 ms e il miglior punteggio video mobile. Zong risponde con la coerenza più alta — **l'86,2% dei suoi campioni supera una soglia di 5 Mbps giù / 1 Mbps su** — ed è per questo che regge meglio sulla Karakoram Highway. Ufone e Telenor completano il quadro su prezzo e portata settentrionale. Il profilo di Roami passa automaticamente tra Jazz e Zong, mantiene disponibile il tethering hotspot e si installa da un QR code. I nuovi viaggiatori possono [provare l'eSIM di prova gratuita di Roami](/free-esim/) o togliere il 20% da un piano a pagamento con il codice **web20** sui [piani dati per il Pakistan](/pakistan-esim/).
 
 
 
@@ -1108,7 +1108,7 @@ Ogni cifra qui è una misurazione di terze parti anziché un nostro test sul cam
 
 
 
-Atterra a Lahore o Karachi già online. Il profilo Roami corre su Jazz e Zong, commuta rete automaticamente, e tiene i dati che scorrono con il tethering hotspot a bordo. I nuovi viaggiatori possono partire con una [eSIM di prova gratuita per il Pakistan](/free-esim/), o togliere il 20% con il codice **WEB20** sui [piani eSIM per il Pakistan](/pakistan-esim/).
+Atterra a Lahore o Karachi già online. Il profilo Roami corre su Jazz e Zong, commuta rete automaticamente, e tiene i dati che scorrono con il tethering hotspot a bordo. I nuovi viaggiatori possono partire con una [eSIM di prova gratuita per il Pakistan](/free-esim/), o togliere il 20% con il codice **web20** sui [piani eSIM per il Pakistan](/pakistan-esim/).
 
 
 

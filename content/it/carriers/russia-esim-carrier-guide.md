@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Russia: MTS, MegaFon, Beeline, Tele2"
 description: "MTS, MegaFon o Tele2? Roami confronta gli operatori per la tua eSIM Russia e spiega il blocco dati di 24 ore del primo giorno."
-image: "img/esim/carriers/russia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/russia-esim-carrier-guide.webp"
 date: "2026-09-24T11:10:58+00:00"
 keywords: eSIM Russia, operatori eSIM Russia, eSIM viaggio Russia, MTS Russia, MegaFon Russia, Beeline Russia, Tele2 Russia, Piazza Rossa, Museo dell'Ermitage, nessun costo di roaming, piani dati flessibili, eSIM multi-giorno
 site_name: Roami
@@ -366,4 +366,4 @@ Il profilo dovrebbe essere installato e testato a casa, così l'unico compito al
 
 [Confronta i piani eSIM Russia](/russia-esim/) · [Richiedi la prova gratuita](/free-esim/) · [Pagina eSIM Russia](/russia-esim/)
 
-In ogni caso, configurala prima della partenza: fai girare la [verifica del telefono](/compatibility/) sul tuo telefono, prova la [eSIM di prova gratuita](/free-esim/) di Roami, e applica **WEB20** al checkout quando passi a un piano Roami completo per la Russia.
+In ogni caso, configurala prima della partenza: fai girare la [verifica del telefono](/compatibility/) sul tuo telefono, prova la [eSIM di prova gratuita](/free-esim/) di Roami, e applica **web20** al checkout quando passi a un piano Roami completo per la Russia.

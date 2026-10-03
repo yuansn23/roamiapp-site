@@ -1,7 +1,7 @@
 ---
 title: "Migliori operatori eSIM Iran: MCI, Irancell o Rightel"
 description: "MCI, Irancell o Rightel? Roami confronta gli operatori eSIM Iran su copertura 5G e prezzi, dai bazar di Teheran a Shiraz."
-image: "img/esim/carriers/iran-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iran-esim-carrier-guide.webp"
 date: "2026-09-25T06:03:02+00:00"
 keywords: operatori eSIM Iran, eSIM Iran, eSIM MCI, eSIM Irancell, eSIM viaggio Iran, MCI, Hamrahe Aval, Rightel, 5G Iran, eSIM per Iran, eSIM prepagata Iran, eSIM turista Iran
 site_name: Roami
@@ -393,4 +393,4 @@ Se sei nuovo di come si comporta un profilo solo-dati, la meccanica è identica 
 
 Quando i tuoi viaggi ti portano agli angoli della regione meglio connessi, le guide vicine coprono i tratti di attraversamento del confine: [Turchia](/turkey-esim/), [Iraq](/iraq-esim/) e [Azerbaigian](/azerbaijan-esim/).
 
-La mossa pratica: prova prima con [try before you buy di Roami](/free-esim/) — usa la stessa infrastruttura di MCI — poi blocca un piano Roami a pagamento con il codice **WEB20** per il 20% di sconto se l'Iran diventa una destinazione abituale. Pronto a comprare? La prova si installa in due minuti.
+La mossa pratica: prova prima con [try before you buy di Roami](/free-esim/) — usa la stessa infrastruttura di MCI — poi blocca un piano Roami a pagamento con il codice **web20** per il 20% di sconto se l'Iran diventa una destinazione abituale. Pronto a comprare? La prova si installa in due minuti.

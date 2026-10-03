@@ -3,7 +3,7 @@
 title: "Quale operatore eSIM Mauritius? my.t, Emtel o Chili"
 
 description: "my.t, Emtel o Chili? Roami confronta gli operatori eSIM Mauritius su copertura 5G e prezzi, dalle spiagge di Flic en Flac."
-image: "img/esim/carriers/mauritius-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mauritius-esim-carrier-guide.webp"
 
 date: "2026-09-25T02:31:24+00:00"
 
@@ -744,4 +744,4 @@ Ordina prima di viaggiare, installa sul Wi-Fi di casa, ed esci dagli arrivi su m
 
 
 
-Una nota conclusiva da Roami: i viaggiatori che testano prima la copertura raramente se lo rimpiangono. La [prova multi-rete gratuita](/free-esim/) rispecchia la configurazione locale sul multi-giorno, e il codice **WEB20** toglie il 20% da un piano Roami a pagamento quando vuoi.
+Una nota conclusiva da Roami: i viaggiatori che testano prima la copertura raramente se lo rimpiangono. La [prova multi-rete gratuita](/free-esim/) rispecchia la configurazione locale sul multi-giorno, e il codice **web20** toglie il 20% da un piano Roami a pagamento quando vuoi.

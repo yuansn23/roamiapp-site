@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Israele: Cellcom, Partner o HOT Mobile"
 description: "Cellcom, Partner o HOT Mobile? Roami confronta gli operatori eSIM Israele su velocità e prezzi, da Tel Aviv a Gerusalemme."
-image: "img/esim/carriers/israel-esim-carrier-guide.jpg"
+image: "img/esim/carriers/israel-esim-carrier-guide.webp"
 date: "2026-09-25T21:00:41+00:00"
 keywords: operatori eSIM Israele, eSIM Israele, eSIM viaggio Israele, eSIM Cellcom, eSIM Partner, Pelephone, HOT Mobile, operatori mobili Israele, eSIM per turisti Israele, evitare costi di roaming Israele, eSIM immediata Israele, eSIM Mar Morto, eSIM Gerusalemme
 site_name: Roami
@@ -195,7 +195,7 @@ Per le rotte via terra che proseguono verso nord verso Istanbul, la stessa logic
 
 - Installa il profilo per la Giordania o l'Egitto la sera prima, sul Wi-Fi dell'hotel
 - Conferma che la nuova linea si registri e carichi una pagina prima del checkout
-- Commuta la linea dati sul nuovo profilo solo dopo aver attraversato — o al confine, whichever l'itinerario preferisce
+- Commuta la linea dati sul nuovo profilo solo dopo aver attraversato — o al confine, secondo come preferisce l'itinerario
 - Lascia il profilo israeliano installato e disattivato per la tratta di ritorno
 - Tieni il roaming della SIM di casa spento per l'intero viaggio multi-paese
 
@@ -330,4 +330,4 @@ Ogni affermazione in questa pagina è verificabile prima che tu spenda qualcosa:
 
 Quando le tue date sono fisse, scegli un bundle sui [piani eSIM Israele di Roami](/israel-esim/) o [compra direttamente](/israel-esim/). Installalo a casa, atterra connesso, e passa il tuo weekend di Shabbat a vedere il paese invece di cercare un bancone aperto.
 
-E quando sei pronto a comprare: la [eSIM campione di Roami](/free-esim/) è il punto di partenza a rischio zero per Israele, con **WEB20** che dà il 20% di sconto sul tuo primo piano a pagamento se decidi di restare connesso per l'intero viaggio.
+E quando sei pronto a comprare: la [eSIM campione di Roami](/free-esim/) è il punto di partenza a rischio zero per Israele, con **web20** che dà il 20% di sconto sul tuo primo piano a pagamento se decidi di restare connesso per l'intero viaggio.

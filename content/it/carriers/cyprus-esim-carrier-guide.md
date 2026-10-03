@@ -4,7 +4,7 @@ title: "Migliori operatori eSIM Cipro: Cyta, Epic o PrimeTel"
 
 description: "Nicosia o costa? Roami confronta Cyta, Epic e PrimeTel su velocità e copertura, con il roaming della Linea Verde spiegato bene."
 
-image: "img/esim/carriers/cyprus-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cyprus-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:09:55+00:00"
 
@@ -693,7 +693,7 @@ Queste cifre sono di terze parti, quindi aspettati che le tue variino con il tel
 
 
 
-Una eSIM Cipro Roami funziona su tutte le reti meridionali — Cyta, Epic, PrimeTel e Cablenet — e si muove tra loro mentre guidi da Larnaca su per il Troodos. A nord della Linea Verde vorrai comunque un piano separato o il Wi-Fi, quindi sistemalo prima di partire piuttosto che al posto di blocco. Se non hai mai comprato da Roami, prendi una eSIM di prova gratuita per Cipro a costo zero, o applica il codice **WEB20** a un piano Cipro a pagamento per il **20% di sconto**.
+Una eSIM Cipro Roami funziona su tutte le reti meridionali — Cyta, Epic, PrimeTel e Cablenet — e si muove tra loro mentre guidi da Larnaca su per il Troodos. A nord della Linea Verde vorrai comunque un piano separato o il Wi-Fi, quindi sistemalo prima di partire piuttosto che al posto di blocco. Se non hai mai comprato da Roami, prendi una eSIM di prova gratuita per Cipro a costo zero, o applica il codice **web20** a un piano Cipro a pagamento per il **20% di sconto**.
 
 
 
@@ -705,5 +705,5 @@ Una eSIM Cipro Roami funziona su tutte le reti meridionali — Cyta, Epic, Prime
 
 
 
-*La prova gratuita e il codice WEB20 con 20% di sconto sono solo per i nuovi clienti Roami.*
+*La prova gratuita e il codice web20 con 20% di sconto sono solo per i nuovi clienti Roami.*
 

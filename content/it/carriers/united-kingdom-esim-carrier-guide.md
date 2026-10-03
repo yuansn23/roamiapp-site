@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Regno Unito: EE, Vodafone, O2, Three"
 description: "Roami confronta le velocità 5G di EE, Vodafone e Three nel Regno Unito, così scegli l'operatore eSIM giusto per il tuo viaggio."
-image: "img/esim/carriers/united-kingdom-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-kingdom-esim-carrier-guide.webp"
 date: "2026-09-23T10:15:47+00:00"
 keywords: eSIM Regno Unito, dati prepagati, rete 5G, eSIM UK, eSIM di viaggio, nomade digitale UK, operatori eSIM UK, operatori eSIM Regno Unito, EE eSIM, Vodafone eSIM, Three eSIM, Virgin Media O2 eSIM
 site_name: Roami
@@ -23,7 +23,7 @@ Che tu la chiami eSIM UK o eSIM Regno Unito, scegliere tra le quattro reti sulle
 
 [Vedi i piani](/united-kingdom-esim/)
 
-**In breve:** EE è la rete più veloce del Paese con ampio margine, con una **mediana di download di 114.1 Mbps** nel [rapporto UK 2S 2025 di Ookla e RootMetrics](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), e la più ampia copertura rurale. Three e Vodafone stanno nella fascia 45–55 Mbps a livello nazionale ma reggono meglio su prezzo e roaming. Virgin Media O2 è quella da scegliere se attraverserai nella Repubblica d'Irlanda, perché non fa pagare il roaming UE. Le eSIM prepagate sono disponibili su tutte e quattro le reti senza un indirizzo UK né un controllo del credito. I nuovi viaggiatori possono [provare l'eSIM](/free-esim/) o prendere il 20% di sconto su un piano a pagamento con il codice **WEB20** sui [piani eSIM Regno Unito](/united-kingdom-esim/).
+**In breve:** EE è la rete più veloce del Paese con ampio margine, con una **mediana di download di 114.1 Mbps** nel [rapporto UK 2S 2025 di Ookla e RootMetrics](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), e la più ampia copertura rurale. Three e Vodafone stanno nella fascia 45–55 Mbps a livello nazionale ma reggono meglio su prezzo e roaming. Virgin Media O2 è quella da scegliere se attraverserai nella Repubblica d'Irlanda, perché non fa pagare il roaming UE. Le eSIM prepagate sono disponibili su tutte e quattro le reti senza un indirizzo UK né un controllo del credito. I nuovi viaggiatori possono [provare l'eSIM](/free-esim/) o prendere il 20% di sconto su un piano a pagamento con il codice **web20** sui [piani eSIM Regno Unito](/united-kingdom-esim/).
 
 *Scorri per vederne di più*
 
@@ -374,7 +374,7 @@ Tratta ogni cifra qui come una misurazione di terze parti e datata piuttosto che
 
 ## Connettiti nell'istante in cui raggiungi il Regno Unito
 
-Roami tiene i dati a fluire da Heathrow alle Highlands, muovendosi tra EE, Vodafone, Three e Virgin Media O2 mentre il segnale cambia. Prova prima la [eSIM di prova gratuita di Roami](/free-esim/), o risparmia il 20% con il codice **WEB20** su un [piano eSIM Regno Unito](/united-kingdom-esim/).
+Roami tiene i dati a fluire da Heathrow alle Highlands, muovendosi tra EE, Vodafone, Three e Virgin Media O2 mentre il segnale cambia. Prova prima la [eSIM di prova gratuita di Roami](/free-esim/), o risparmia il 20% con il codice **web20** su un [piano eSIM Regno Unito](/united-kingdom-esim/).
 
 [Compra il tuo piano](/united-kingdom-esim/)
 

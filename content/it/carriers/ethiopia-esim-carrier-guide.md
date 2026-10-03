@@ -4,7 +4,7 @@ title: "Operatori eSIM Etiopia: Ethio Telecom o Safaricom"
 
 description: "Roami confronta Ethio Telecom e Safaricom su copertura e prezzi, dalla registrazione allo sportello ai blackout regionali."
 
-image: "img/esim/carriers/ethiopia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ethiopia-esim-carrier-guide.webp"
 
 date: "2026-09-26T00:39:19+00:00"
 
@@ -51,7 +51,7 @@ Se non hai ancora confermato che il tuo telefono accetta un profilo eSIM, passa 
 
 
 
-## Chi gestisce le reti
+## Chi gestisce le reti mobili in Etiopia
 
 
 
@@ -743,4 +743,4 @@ Installa il profilo sul Wi-Fi di casa, accendi il roaming dati, e scendi dall'ae
 
 
 
-La mossa pratica: prova prima con l'[eSIM campione di Roami](/free-esim/) — usa la stessa infrastruttura delle reti locali — poi blocca un piano Roami a pagamento con il codice **WEB20** per il 20% di sconto se l'Etiopia diventa una destinazione abituale.
+La mossa pratica: prova prima con l'[eSIM campione di Roami](/free-esim/) — usa la stessa infrastruttura delle reti locali — poi blocca un piano Roami a pagamento con il codice **web20** per il 20% di sconto se l'Etiopia diventa una destinazione abituale.

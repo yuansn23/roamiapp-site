@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Kenya: Safaricom vs Airtel vs Telkom"
 description: "Safaricom, Airtel o Telkom? Roami confronta gli operatori eSIM Kenya su copertura 5G e prezzi, da Nairobi al Maasai Mara."
-image: "img/esim/carriers/kenya-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kenya-esim-carrier-guide.webp"
 date: "2026-09-25T06:14:26+00:00"
 keywords: eSIM Kenya, operatore eSIM Kenya, Safaricom eSIM, Airtel Kenya eSIM, eSIM viaggio Kenya, dati Maasai Mara, evitare costi roaming Kenya, eSIM prepagata Kenya, eSIM esploratore indipendente
 site_name: Roami
@@ -353,4 +353,4 @@ Installa prima di volare, tocca terra sull'operatore che copre genuinamente i pa
 
 [Scegli un piano Kenya](/kenya-esim/) · [Parti con la prova gratuita](/free-esim/) · [Vedi i piani eSIM Kenya](/kenya-esim/)
 
-Se preferisci testare prima di impegnarti, la [eSIM di test senza costi](/free-esim/) di Roami gira sulle stesse reti che questa guida confronta — Safaricom inclusa. Primo ordine con Roami? Applica **WEB20** al checkout per il 20% di sconto su qualsiasi piano Kenya a pagamento.
+Se preferisci testare prima di impegnarti, la [eSIM di test senza costi](/free-esim/) di Roami gira sulle stesse reti che questa guida confronta — Safaricom inclusa. Primo ordine con Roami? Applica **web20** al checkout per il 20% di sconto su qualsiasi piano Kenya a pagamento.

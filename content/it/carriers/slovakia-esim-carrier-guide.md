@@ -7,7 +7,7 @@ title: "Operatori eSIM Slovacchia: Telekom, Orange, O2 e 4ka"
 description: "Da Bratislava agli Alti Tatra? Roami confronta Telekom, Orange e 4ka su copertura, prezzi e 5G per la tua eSIM Slovacchia."
 
 
-image: "img/esim/carriers/slovakia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/slovakia-esim-carrier-guide.webp"
 
 
 date: "2026-09-23T02:03:37+00:00"
@@ -1332,4 +1332,4 @@ I livelli slovacchi a pagamento sono elencati nella [pagina eSIM Slovacchia](/sl
 
 
 
-Il consiglio di Roami è semplice: atterra connesso. Inizia con la [eSIM di prova senza costi](/free-esim/) per assaggiare la copertura 4ka senza rischi, poi usa il codice **WEB20** su un piano Roami completo quando la prova ti convince.
+Il consiglio di Roami è semplice: atterra connesso. Inizia con la [eSIM di prova senza costi](/free-esim/) per assaggiare la copertura 4ka senza rischi, poi usa il codice **web20** su un piano Roami completo quando la prova ti convince.

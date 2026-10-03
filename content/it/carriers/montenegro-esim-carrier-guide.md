@@ -4,7 +4,7 @@ title: "Operatori eSIM Montenegro: m:tel, Telekom o One 5G"
 
 description: "m:tel, Telekom o One? Roami confronta gli operatori eSIM Montenegro su copertura e prezzi, da Kotor alle montagne del nord."
 
-image: "img/esim/carriers/montenegro-esim-carrier-guide.jpg"
+image: "img/esim/carriers/montenegro-esim-carrier-guide.webp"
 
 date: "2026-09-24T17:10:03+00:00"
 
@@ -745,5 +745,5 @@ Compra l'eSIM turistica online, installala a casa, e atterra a Tivat o Podgorica
 
 
 
-Un ultimo controllo prima della partenza: il tuo telefono, sulla [pagina di compatibilità eSIM](/compatibility/), poi inizia con una [prova gratuita Roami](/free-esim/) e guarda come la compatibilità eSIM tratta il tuo itinerario. Se funziona, il codice **WEB20** toglie il 20% su qualsiasi piano Roami a pagamento per il Montenegro.
+Un ultimo controllo prima della partenza: il tuo telefono, sulla [pagina di compatibilità eSIM](/compatibility/), poi inizia con una [prova gratuita Roami](/free-esim/) e guarda come la compatibilità eSIM tratta il tuo itinerario. Se funziona, il codice **web20** toglie il 20% su qualsiasi piano Roami a pagamento per il Montenegro.
 

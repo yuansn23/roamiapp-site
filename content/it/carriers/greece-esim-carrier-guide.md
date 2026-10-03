@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Grecia: Cosmote vs Vodafone vs Nova"
 description: "Cosmote, Vodafone o Nova? Roami confronta gli operatori eSIM Grecia su velocità, copertura e prezzi, dalle Cicladi a Creta."
-image: "img/esim/carriers/greece-esim-carrier-guide.jpg"
+image: "img/esim/carriers/greece-esim-carrier-guide.webp"
 date: "2026-09-26T03:47:11+00:00"
 keywords: operatori eSIM Grecia, operatori eSIM Grecia, Cosmote eSIM, Vodafone Grecia eSIM, Nova eSIM, copertura 5G Grecia, eSIM Grecia APN, eSIM Grecia prepagata, miglior operatore eSIM Grecia
 site_name: Roami
@@ -22,7 +22,7 @@ La miglior eSIM Grecia dipende dal tuo arcipelago, non dal logo del marchio — 
 
 Se la questione del telefono o il processo di installazione sono ancora nebbiosi, parti da qui. Passa il tuo modello per la [lista di compatibilità dei dispositivi](/compatibility/) prima, poi leggi [come si installa un profilo eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) — entrambi sono prerequisiti che questa pagina salta deliberatamente.
 
-**Giudizio rapido:** Soggiorni ad Atene o Salonicco? Cosmote è la rete più forte del paese e l'unica che Ookla ha nominato migliore in assoluto e migliore per il 5G. Island hopping nelle Cicladi, a Creta o a Rodi? Cosmote registra anche la massima disponibilità 5G al **78,5%** e mantiene il segnale dove le altre si diradano, quindi è la scelta sicura sull'acqua. Vuoi una eSIM per visitatori senza visita in negozio e fotocopia del passaporto? L'[eSIM di prova a costo zero](/free-esim/) testa le reti senza costi, e il codice **WEB20** taglia il 20% dai [piani eSIM prepagati Grecia](/greece-esim/).
+**Giudizio rapido:** Soggiorni ad Atene o Salonicco? Cosmote è la rete più forte del paese e l'unica che Ookla ha nominato migliore in assoluto e migliore per il 5G. Island hopping nelle Cicladi, a Creta o a Rodi? Cosmote registra anche la massima disponibilità 5G al **78,5%** e mantiene il segnale dove le altre si diradano, quindi è la scelta sicura sull'acqua. Vuoi una eSIM per visitatori senza visita in negozio e fotocopia del passaporto? L'[eSIM di prova a costo zero](/free-esim/) testa le reti senza costi, e il codice **web20** taglia il 20% dai [piani eSIM prepagati Grecia](/greece-esim/).
 
 ## Quali operatori puoi usare con la tua eSIM in Grecia
 
@@ -375,7 +375,7 @@ Solo misurazioni di terze parti. Ciò che ottieni davvero dipende dal telefono, 
 
 ## Ottieni la tua eSIM per la Grecia
 
-Un profilo copre Cosmote, Vodafone e Nova, quindi il tuo telefono trova la rete greca più forte ovunque il traghetto o la strada ti porti. I clienti per la prima volta possono iniziare con una [prova gratuita Grecia](/free-esim/), oppure usare il codice **WEB20** per il 20% di sconto sui [piani eSIM Grecia](/greece-esim/).
+Un profilo copre Cosmote, Vodafone e Nova, quindi il tuo telefono trova la rete greca più forte ovunque il traghetto o la strada ti porti. I clienti per la prima volta possono iniziare con una [prova gratuita Grecia](/free-esim/), oppure usare il codice **web20** per il 20% di sconto sui [piani eSIM Grecia](/greece-esim/).
 
 [Compra la tua eSIM Grecia ora](/greece-esim/)
 
@@ -383,4 +383,4 @@ Un profilo copre Cosmote, Vodafone e Nova, quindi il tuo telefono trova la rete 
 
 [Prova la Grecia gratis](/free-esim/)
 
-Se preferisci testare prima di impegnarti, la [prova senza costi](/free-esim/) di Roami gira sulle stesse reti che questa guida confronta — inclusa Cosmote. I nuovi clienti Roami possono anche usare **WEB20** per il 20% di sconto su un piano Grecia a pagamento.
+Se preferisci testare prima di impegnarti, la [prova senza costi](/free-esim/) di Roami gira sulle stesse reti che questa guida confronta — inclusa Cosmote. I nuovi clienti Roami possono anche usare **web20** per il 20% di sconto su un piano Grecia a pagamento.

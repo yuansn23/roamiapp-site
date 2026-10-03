@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Costa Rica: Claro, Kölbi o Liberty"
 description: "Parchi nazionali o San José? Roami confronta Claro, Kölbi e Liberty su velocità, copertura e prezzi per la tua eSIM Costa Rica."
-image: "img/esim/carriers/costa-rica-esim-carrier-guide.jpg"
+image: "img/esim/carriers/costa-rica-esim-carrier-guide.webp"
 date: "2026-09-27T07:00:48+00:00"
 keywords: operatori eSIM Costa Rica, operatori eSIM Costa Rica, Claro eSIM, Kölbi eSIM, ICE eSIM, Liberty Costa Rica eSIM, copertura 5G Costa Rica, copertura rurale eSIM Costa Rica, eSIM Costa Rica prepagata, miglior operatore eSIM Costa Rica
 site_name: Roami
@@ -416,4 +416,4 @@ Ordina a casa, scansiona il QR una volta, e stai cavalcando la rete locale più 
 
 [eSIM di prova Costa Rica gratuita](/free-esim/)
 
-E quando sei pronto a comprare: il [test di rete gratuito](/free-esim/) di Roami è il punto di partenza a zero rischi per la Costa Rica, con **WEB20** che ti dà il 20% di sconto sul tuo primo piano a pagamento se decidi di restare connesso per tutto il viaggio.
+E quando sei pronto a comprare: il [test di rete gratuito](/free-esim/) di Roami è il punto di partenza a zero rischi per la Costa Rica, con **web20** che ti dà il 20% di sconto sul tuo primo piano a pagamento se decidi di restare connesso per tutto il viaggio.

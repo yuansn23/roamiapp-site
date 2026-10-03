@@ -4,7 +4,7 @@ title: "Operatori eSIM in Italia: TIM vs Vodafone e WINDTRE"
 
 description: "TIM, Vodafone o WINDTRE? Roami confronta gli operatori eSIM Italia su velocità e prezzi, da Roma alla costiera amalfitana."
 
-image: "img/esim/carriers/italy-esim-carrier-guide.jpg"
+image: "img/esim/carriers/italy-esim-carrier-guide.webp"
 
 date: "2026-09-25T18:10:14+00:00"
 
@@ -295,7 +295,7 @@ Prezzi e termini cambiano spesso, quindi tratta la tabella come uno scatto preso
 
 
 
-I nuovi clienti possono applicare il codice **WEB20** per il 20% di sconto quando [prendono un piano eSIM Italia](/italy-esim/), o [riscattare prima una eSIM di prova gratuita per l'Italia](/free-esim/) per testare le reti senza costi.
+I nuovi clienti possono applicare il codice **web20** per il 20% di sconto quando [prendono un piano eSIM Italia](/italy-esim/), o [riscattare prima una eSIM di prova gratuita per l'Italia](/free-esim/) per testare le reti senza costi.
 
 
 
@@ -525,7 +525,7 @@ La nostra [guida all'attivazione passo per passo](/faq/how-to-activate-an-esim/)
 
 | Iliad | eSIM supportata, emessa in negozio o al chiosco Simbox contro documento d'identità |
 
-| eSIM da viaggio | Installata tramite codice QR, lo stesso profilo va in roaming su whichever di TIM, Vodafone, WINDTRE o Iliad è più forte |
+| eSIM da viaggio | Installata tramite codice QR, lo stesso profilo va in roaming sulla più forte tra TIM, Vodafone, WINDTRE e Iliad |
 
 
 
@@ -699,7 +699,7 @@ Solo misurazioni di terze parti. I risultati reali variano con il telefono, la b
 
 
 
-Un profilo, quattro reti. La eSIM per l'Italia di Roami cavalca TIM, Vodafone, WINDTRE e Iliad, saltando tra loro mentre attraversi il paese. Testa le reti gratis con la [eSIM di prova gratuita per l'Italia](/free-esim/), poi sblocca il 20% di sconto con il codice **WEB20** sui [piani eSIM per l'Italia](/italy-esim/).
+Un profilo, quattro reti. La eSIM per l'Italia di Roami cavalca TIM, Vodafone, WINDTRE e Iliad, saltando tra loro mentre attraversi il paese. Testa le reti gratis con la [eSIM di prova gratuita per l'Italia](/free-esim/), poi sblocca il 20% di sconto con il codice **web20** sui [piani eSIM per l'Italia](/italy-esim/).
 
 
 

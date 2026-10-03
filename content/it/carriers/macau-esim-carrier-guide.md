@@ -1,9 +1,9 @@
 ---
 title: "Operatori eSIM Macao: CTM, China Telecom o 3 Macau"
 description: "CTM, China Telecom o 3 Macau? Roami confronta gli operatori eSIM Macao su velocità 5G e prezzi, dai casinò al centro storico."
-image: "img/esim/carriers/macau-esim-carrier-guide.jpg"
+image: "img/esim/carriers/macau-esim-carrier-guide.webp"
 date: "2026-09-25T15:07:12+00:00"
-keywords: operatori eSIM Macao, CTM eSIM, China Telecom Macao eSIM, 3 Macau eSIM, copertura 5G Macao, eSIM Hong Kong a Macao, eSIM Macao prepagata, miglior operatore eSIM Macao
+keywords: operatori eSIM Macao, CTM eSIM, China Telecom Macao eSIM, 3 Macau eSIM, copertura 5G Macao, eSIM da Hong Kong a Macao, eSIM Macao prepagata, miglior operatore eSIM Macao
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -379,4 +379,4 @@ Che tu arrivi in traghetto da Hong Kong, a piedi attraverso il varco di confine 
 
 [Prendi l'eSIM di prova gratuita per Macao](/free-esim/)
 
-Prima del viaggio: esegui il [controllo di compatibilità eSIM](/compatibility/), prendi la [prova prima di comprare](/free-esim/) di Roami per testare la copertura dove alloggi, e tieni a portata di mano **WEB20** — toglie il 20% da qualsiasi piano Roami quando sei pronto a impegnarti. Pronto a comprare? La prova gratuita si installa in due minuti.
+Prima del viaggio: esegui il [controllo di compatibilità eSIM](/compatibility/), prendi la [prova prima di comprare](/free-esim/) di Roami per testare la copertura dove alloggi, e tieni a portata di mano **web20** — toglie il 20% da qualsiasi piano Roami quando sei pronto a impegnarti. Pronto a comprare? La prova gratuita si installa in due minuti.

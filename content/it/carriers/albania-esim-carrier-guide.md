@@ -4,7 +4,7 @@ title: "Operatori eSIM Albania: Vodafone e One a confronto"
 
 description: "Direzione Albania? Roami confronta Vodafone e One su velocità, copertura e prezzi per l'eSIM, dalle spiagge alle Alpi Albanesi."
 
-image: "img/esim/carriers/albania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/albania-esim-carrier-guide.webp"
 
 date: "2026-09-27T08:13:00+00:00"
 
@@ -799,5 +799,5 @@ Prepararsi batte ogni volta la fila di Tirana: salta il bancone in aeroporto, ti
 
 
 
-Un ultimo passaggio pre-volo: passa il tuo telefono nella [pagina di compatibilità eSIM](/compatibility/), poi parti con una [eSIM pilota gratuita](/free-esim/) di Roami e guarda come la compatibilità eSIM gestisce il tuo itinerario. Quando passi a un piano a pagamento, WEB20 ti fa il 20% di sconto su qualsiasi pacchetto Roami per l'Albania.
+Un ultimo passaggio pre-volo: passa il tuo telefono nella [pagina di compatibilità eSIM](/compatibility/), poi parti con una [eSIM pilota gratuita](/free-esim/) di Roami e guarda come la compatibilità eSIM gestisce il tuo itinerario. Quando passi a un piano a pagamento, web20 ti fa il 20% di sconto su qualsiasi pacchetto Roami per l'Albania.
 

@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Repubblica Ceca: quale rete scegliere?"
 description: "Roami confronta Vodafone, T-Mobile e O2 su 5G e prezzi per la tua eSIM Repubblica Ceca, da Praga alle linee ferroviarie minori."
-image: "img/esim/carriers/czech-republic-esim-carrier-guide.jpg"
+image: "img/esim/carriers/czech-republic-esim-carrier-guide.webp"
 date: "2026-09-27T22:01:28+00:00"
 keywords: eSIM Repubblica Ceca, Vodafone CZ eSIM, T-Mobile CZ eSIM, eSIM di viaggio Repubblica Ceca, evitare le tariffe di roaming, eSIM Castello di Praga, eSIM ad attivazione istantanea
 site_name: Roami
@@ -371,6 +371,6 @@ Le bande LTE e 5G NR seguono la tabella delle bande della Repubblica Ceca di Fre
 
 ## Gli operatori eSIM della Repubblica Ceca: Vodafone, T-Mobile e Castello di Praga
 
-Un profilo, tre reti, zero code al chiosco: installa a casa, atterra connesso, e lascia che l'eSIM scelga la rete ceca più forte ovunque il giorno ti porti — piazza di Praga o strada di fondo della Boemia meridionale. Inizia con il [test di copertura gratuito](/free-esim/), poi [ordina la tua eSIM Repubblica Ceca](/czech-republic-esim/) e applica il codice **WEB20** per il 20 percento di sconto sul tuo primo piano.
+Un profilo, tre reti, zero code al chiosco: installa a casa, atterra connesso, e lascia che l'eSIM scelga la rete ceca più forte ovunque il giorno ti porti — piazza di Praga o strada di fondo della Boemia meridionale. Inizia con il [test di copertura gratuito](/free-esim/), poi [ordina la tua eSIM Repubblica Ceca](/czech-republic-esim/) e applica il codice **web20** per il 20 percento di sconto sul tuo primo piano.
 
-Se preferisci testare prima di impegnarti, la [eSIM di prova](/free-esim/) di Roami gira sulle stesse reti che questa guida confronta — Vodafone CZ inclusa. **WEB20** toglie il 20% su un piano Repubblica Ceca a pagamento per i clienti Roami alle prime armi.
+Se preferisci testare prima di impegnarti, la [eSIM di prova](/free-esim/) di Roami gira sulle stesse reti che questa guida confronta — Vodafone CZ inclusa. **web20** toglie il 20% su un piano Repubblica Ceca a pagamento per i clienti Roami alle prime armi.

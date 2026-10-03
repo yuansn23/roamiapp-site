@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Cina: China Mobile e China Unicom"
 description: "Roami spiega le regole eSIM di China Mobile e China Unicom, e perché una eSIM da viaggio è la via più pratica per la Cina."
-image: "img/esim/carriers/china-esim-carrier-guide.jpg"
+image: "img/esim/carriers/china-esim-carrier-guide.webp"
 date: "2026-09-27T13:44:42+00:00"
 keywords: eSIM Cina, operatori eSIM Cina, internet da viaggio Cina, eSIM China Mobile, eSIM China Unicom, eSIM plug-and-play, evitare costi roaming Cina, eSIM per viaggi in Cina, eSIM Grande Muraglia, eSIM Shanghai, eSIM Pechino
 site_name: Roami
@@ -388,4 +388,4 @@ I conteggi abbonati degli operatori e le condizioni della prova di ottobre 2025 
 
 ## Sistema la tua eSIM Cina prima dell'imbarco
 
-L'intero esercizio premia un'abitudine: decidi presto. Controlla il tuo dispositivo, scegli la tua via — un [piano eSIM Cina](/china-esim/) per dati immediati e senza registrazione che fa roaming su China Mobile e China Unicom, o una SIM da sala assistenza se il tuo soggiorno è abbastanza lungo da desiderare un numero cinese — e installa il profilo a casa dove il download non può fallire. I nuovi clienti possono partire con la [eSIM di prova gratuita di Roami](/free-esim/) per testare la configurazione, e il codice **WEB20** toglie il 20% dal primo piano.
+L'intero esercizio premia un'abitudine: decidi presto. Controlla il tuo dispositivo, scegli la tua via — un [piano eSIM Cina](/china-esim/) per dati immediati e senza registrazione che fa roaming su China Mobile e China Unicom, o una SIM da sala assistenza se il tuo soggiorno è abbastanza lungo da desiderare un numero cinese — e installa il profilo a casa dove il download non può fallire. I nuovi clienti possono partire con la [eSIM di prova gratuita di Roami](/free-esim/) per testare la configurazione, e il codice **web20** toglie il 20% dal primo piano.

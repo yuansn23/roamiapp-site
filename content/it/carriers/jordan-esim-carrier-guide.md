@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Giordania: Zain, Orange o Umniah 5G"
 description: "Zain, Orange o Umniah? Roami confronta gli operatori eSIM Giordania su copertura 5G e prezzi, da Amman alle rocce di Petra."
-image: "img/esim/carriers/jordan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/jordan-esim-carrier-guide.webp"
 date: "2026-09-25T12:09:20+00:00"
 keywords: eSIM Giordania, operatori eSIM Giordania, internet viaggio Giordania, Zain Jordan, Orange Jordan, Umniah eSIM, eSIM Petra, dati Mar Morto, eSIM plug-and-play, nessun costo roaming Giordania
 site_name: Roami
@@ -12,7 +12,7 @@ breadcrumb_items:
 - name: Guida eSIM Giordania
   url: ''
 hero_badge: "Gli operatori della Giordania, 2026"
-hero_subtitle_main: "Zain Jordan, Orange Jordan e Umniah — per l'hub tecnologico e il deserto"
+hero_subtitle_main: "Zain Jordan, Orange Jordan e Umniah — per Amman, Petra e il Mar Rosso"
 ---
 
 La scelta di una eSIM Giordania si divide insieme al Paese: 5G veloce nell'hub tecnologico di Amman contro un segnale da salvavita sulla rotta turistica meridionale — questa guida copre entrambi gli estremi. La Giordania è un piccolo regno dalla personalità divisa, e la sua connettività si divide con essa. Ad Amman, un vero hub tecnologico di startup, spazi di coworking e dello Zain Innovation Campus, vuoi il 5G più veloce possibile. Quattrocento chilometri a sud, nei campi del Wadi Rum e nei canyon di Petra, vuoi la rete che tenga in vita almeno una tacca di segnale. Lo Speedtest Global Index di Ookla ha collocazioni il download mobile mediano della Giordania a **48,53 Mbps** nell'agosto 2026 — 81° al mondo, ben al di sotto della mediana globale di 109,05 Mbps — mentre Cable.co.uk prezza un gigabyte di dati locali a circa **0,76 USD**, più economico della maggior parte dell'Europa. Quale eSIM giordana fa per te dipende da quale delle due Giordanie stai visitando.
@@ -394,4 +394,4 @@ I prezzi dei pacchetti per visitatori sono le offerte pubblicate di operatori e 
 
 ## Prezzo per gigabyte nella pratica
 
-Salta del tutto la fila della sala arrivi. La [eSIM per la Giordania di Roami](/jordan-esim/) si installa tramite codice QR prima di volare e si connette all'atterraggio, passando alla rete locale più forte mentre ti muovi tra Amman, Petra e Aqaba. Prenota la tua su [roamiapp.com](/jordan-esim/) e applica il codice promo **WEB20** per il 20% di sconto sul primo piano — o prova l'intero allestimento senza rischi con una [scheda di prova gratuita](/free-esim/).
+Salta del tutto la fila della sala arrivi. La [eSIM per la Giordania di Roami](/jordan-esim/) si installa tramite codice QR prima di volare e si connette all'atterraggio, passando alla rete locale più forte mentre ti muovi tra Amman, Petra e Aqaba. Prenota la tua su [roamiapp.com](/jordan-esim/) e applica il codice promo **web20** per il 20% di sconto sul primo piano — o prova l'intero allestimento senza rischi con una [scheda di prova gratuita](/free-esim/).

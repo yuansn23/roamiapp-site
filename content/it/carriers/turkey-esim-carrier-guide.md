@@ -4,7 +4,7 @@ title: "Migliori operatori eSIM Turchia: Turkcell e Vodafone"
 
 description: "Tè a Istanbul o mongolfiere in Cappadocia? Roami confronta Turkcell e Vodafone su prezzi e copertura per la tua eSIM Turchia."
 
-image: "img/esim/carriers/turkey-esim-carrier-guide.jpg"
+image: "img/esim/carriers/turkey-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:32:35+00:00"
 
@@ -49,7 +49,7 @@ Se i fondamentali sono ancora dubbi aperti — il mio telefono supporta l'eSIM, 
 
 
 
-**Il verdetto subito:** Ti fermi a Istanbul, Ankara o Izmir? Turkcell è la rete più costante del Paese e la scommessa più sicura in città. Guidi in Cappadocia, sulla costa egea o nell'altopiano anatolico? Turkcell guida anche in costanza, che è ciò che conta tra i paesi. Vuoi una linea turca senza pratiche di registrazione col passaporto in negozio? La [eSIM Turchia di Roami](/turkey-esim/) passa automaticamente tra Turkcell, Vodafone e Türk Telekom, e puoi provarla prima con una [eSIM di prova gratuita](/free-esim/). Il codice **WEB20** ti dà il 20% di sconto se preferisci acquistare subito il piano completo.
+**Il verdetto subito:** Ti fermi a Istanbul, Ankara o Izmir? Turkcell è la rete più costante del Paese e la scommessa più sicura in città. Guidi in Cappadocia, sulla costa egea o nell'altopiano anatolico? Turkcell guida anche in costanza, che è ciò che conta tra i paesi. Vuoi una linea turca senza pratiche di registrazione col passaporto in negozio? La [eSIM Turchia di Roami](/turkey-esim/) passa automaticamente tra Turkcell, Vodafone e Türk Telekom, e puoi provarla prima con una [eSIM di prova gratuita](/free-esim/). Il codice **web20** ti dà il 20% di sconto se preferisci acquistare subito il piano completo.
 
 
 
@@ -743,7 +743,7 @@ Queste sono solo letture di terze parti. Le tue letture varieranno con il telefo
 
 
 
-Superi il controllo passaporti già online. Il profilo di Roami si muove da solo tra Turkcell, Vodafone e Türk Telekom, quindi l'altopiano e la costa reggono entrambe. Prova prima la [prova dati gratuita](/free-esim/), oppure prendi il 20% di sconto su un [piano eSIM Turchia](/turkey-esim/) con il codice **WEB20**.
+Superi il controllo passaporti già online. Il profilo di Roami si muove da solo tra Turkcell, Vodafone e Türk Telekom, quindi l'altopiano e la costa reggono entrambe. Prova prima la [prova dati gratuita](/free-esim/), oppure prendi il 20% di sconto su un [piano eSIM Turchia](/turkey-esim/) con il codice **web20**.
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Croazia: HT, A1 e Telemach a confronto"
 description: "Roami testa Hrvatski Telekom, A1 e Telemach su 5G, copertura e prezzi, così la tua eSIM Croazia regge in traghetto e alle isole."
-image: "img/esim/carriers/croatia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/croatia-esim-carrier-guide.webp"
 date: "2026-09-27T04:29:22+00:00"
 keywords: eSIM Croazia, operatore eSIM Croazia, Hrvatski Telekom, A1 Hrvatska, Telemach, Laghi di Plitvice, Dubrovnik, dati ad alta velocità, nessuna tariffa di roaming, compatibilità eSIM
 site_name: Roami
@@ -25,7 +25,7 @@ Ma una connessione si giudica sulle isole, non a Zagabria: le reti sono progetta
 
 I grafici di velocità e le mappe di copertura sono irrilevanti se il profilo non si installa mai. Il [controllo di compatibilità](/compatibility/) e questa [guida all'attivazione eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) coprono i fondamenti, lasciando questa guida libera di confrontare le reti frontalmente.
 
-**La versione breve:** La eSIM Hrvatski Telekom è l'ancora su scala nazionale — l'impronta più ampia, il segnale più forte su isole e parchi nazionali, e la rete su cui un itinerario in traghetto o uno scalo di crociera dovrebbe puntare per impostazione predefinita. La eSIM A1 Hrvatska è la mossa del valore, con una linea turistica online genuinamente acquistabile (5G illimitato da 10,90 € per tre giorni, 29 € per 30). La eSIM Telemach Hrvatska è l'opzione dati economica — circa 9,95 € per 100 GB comprati in negozio — e la sua rete ora vince premi indipendenti di velocità. Testa prima con una [eSIM di prova gratuita](/free-esim/), o applica il codice **WEB20** per il 20% di sconto su un [piano eSIM Croazia](/croatia-esim/).
+**La versione breve:** La eSIM Hrvatski Telekom è l'ancora su scala nazionale — l'impronta più ampia, il segnale più forte su isole e parchi nazionali, e la rete su cui un itinerario in traghetto o uno scalo di crociera dovrebbe puntare per impostazione predefinita. La eSIM A1 Hrvatska è la mossa del valore, con una linea turistica online genuinamente acquistabile (5G illimitato da 10,90 € per tre giorni, 29 € per 30). La eSIM Telemach Hrvatska è l'opzione dati economica — circa 9,95 € per 100 GB comprati in negozio — e la sua rete ora vince premi indipendenti di velocità. Testa prima con una [eSIM di prova gratuita](/free-esim/), o applica il codice **web20** per il 20% di sconto su un [piano eSIM Croazia](/croatia-esim/).
 
 ## Come la geografia della Croazia influenza la copertura
 
@@ -155,7 +155,7 @@ Le stesse celle che producono la mediana nazionale a ottobre servono multipli di
 | Agosto | Picco, sostenuto | Il mese peggiore sul lungomare di Hvar e nella città vecchia di Ragusa | Sposta i trasferimenti pesanti alla mattina presto |
 | Settembre | In calo | Le velocità si recuperano durante il mese man mano che il traffico charter si assottiglia | Meglio di agosto su ogni misura |
 
-## Quanto costano i piani
+## Quanto costano i piani eSIM in Croazia
 
 HT incanala tutto il business prepagato attraverso **Simpa**, venduto ai T-Centers, nei chioschi Tisak, agli uffici postali e nelle stazioni di servizio per un paio di euro con credito incluso. I suoi pacchetti **eSIMPA** solo digitali, attivati nell'app Moj Telekom, girano grossomodo da 9,99 € per 5 GB a 18,45 € per 15 GB su 30 giorni — conferma i listini attuali nell'app.
 
@@ -392,6 +392,6 @@ I confronti nazionali dei prezzi provengono dallo studio mondiale sui prezzi dei
 
 ## Prepara la tua eSIM Croazia prima di partire
 
-L'Adriatico premia i viaggiatori che risolvono la connettività prima della scaletta: orari scaricati, biglietti nel portafoglio, e una linea dati che segue la costa. La [eSIM Croazia di Roami](/croatia-esim/) commuta automaticamente tra Hrvatski Telekom, A1 Hrvatska e Telemach — isola dopo isola, porto dopo porto. [eSIM di prova a costo zero](/free-esim/) per testarla; applica il codice **WEB20** per il 20% di sconto sul tuo primo piano.
+L'Adriatico premia i viaggiatori che risolvono la connettività prima della scaletta: orari scaricati, biglietti nel portafoglio, e una linea dati che segue la costa. La [eSIM Croazia di Roami](/croatia-esim/) commuta automaticamente tra Hrvatski Telekom, A1 Hrvatska e Telemach — isola dopo isola, porto dopo porto. [eSIM di prova a costo zero](/free-esim/) per testarla; applica il codice **web20** per il 20% di sconto sul tuo primo piano.
 
-Un ultimo controllo prima della partenza: il tuo telefono, sulla [pagina di compatibilità eSIM](/compatibility/), poi inizia con un [richiedi una eSIM di prova](/free-esim/) Roami e osserva come la compatibilità eSIM tratta la tua rotta. Se funziona, il codice **WEB20** toglie il 20% su qualsiasi piano Roami a pagamento per la Croazia.
+Un ultimo controllo prima della partenza: il tuo telefono, sulla [pagina di compatibilità eSIM](/compatibility/), poi inizia con un [richiedi una eSIM di prova](/free-esim/) Roami e osserva come la compatibilità eSIM tratta la tua rotta. Se funziona, il codice **web20** toglie il 20% su qualsiasi piano Roami a pagamento per la Croazia.

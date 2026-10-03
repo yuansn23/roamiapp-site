@@ -3,7 +3,7 @@
 title: "Operatori eSIM Bulgaria: prezzi A1, Yettel e Vivacom"
 
 description: "Costa o montagna? Roami confronta i prezzi di A1, Yettel e Vivacom per la tua eSIM Bulgaria in euro, tra Sofia e il Mar Nero."
-image: "img/esim/carriers/bulgaria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:44:30+00:00"
 
@@ -44,7 +44,7 @@ Un prerequisito che vale dieci secondi del tuo tempo: conferma che il tuo telefo
 
 
 
-**Il verdetto subito:** La eSIM A1 Bulgaria è la scelta per la velocità — la più veloce nel barometro nPerf 2025 e la scommessa più solida a Sofia, Plovdiv e nelle valli da sci. La eSIM Yettel è l'unico prodotto prepagato completamente online senza registrazione di identità — 25 GB per €10,23 o 100 GB per €40,90. La eSIM Vivacom, rilasciata nei negozi, è il cavallo di battaglia per la copertura con la quota roaming UE più generosa, che conta se il tuo viaggio è orientato verso i Rodopi o un ampio giro dei Balcani. Tutte e tre sono economiche per gli standard UE, e le differenze riguardano terreno, roaming e burocrazia più che prezzo. Preferisci zero burocrazia? Il [piano di prova gratuito](/free-esim/) viaggia su queste stesse reti, e il codice **WEB20** toglie il 20% da qualsiasi [piano eSIM Bulgaria](/bulgaria-esim/).
+**Il verdetto subito:** La eSIM A1 Bulgaria è la scelta per la velocità — la più veloce nel barometro nPerf 2025 e la scommessa più solida a Sofia, Plovdiv e nelle valli da sci. La eSIM Yettel è l'unico prodotto prepagato completamente online senza registrazione di identità — 25 GB per €10,23 o 100 GB per €40,90. La eSIM Vivacom, rilasciata nei negozi, è il cavallo di battaglia per la copertura con la quota roaming UE più generosa, che conta se il tuo viaggio è orientato verso i Rodopi o un ampio giro dei Balcani. Tutte e tre sono economiche per gli standard UE, e le differenze riguardano terreno, roaming e burocrazia più che prezzo. Preferisci zero burocrazia? Il [piano di prova gratuito](/free-esim/) viaggia su queste stesse reti, e il codice **web20** toglie il 20% da qualsiasi [piano eSIM Bulgaria](/bulgaria-esim/).
 
 
 
@@ -752,8 +752,8 @@ Ogni statistica qui è una figura di terzi o pubblicata dall'operatore con data,
 
 
 
-La Bulgaria premia chi è preparato: le reti sono veloci, i prezzi sono tra i più bassi dell'UE, e l'unica vera variabile è il terreno. Prepara un profilo che ti segue dai sampietrini gialli di Sofia a una mattina di febbraio a Bansko senza un secondo acquisto — la [eSIM Bulgaria di Roami](/bulgaria-esim/) commuta automaticamente tra A1, Yettel e Vivacom. I nuovi clienti possono provare la [eSIM pilota gratuita](/free-esim/), e il codice **WEB20** toglie il 20% dal tuo primo piano.
+La Bulgaria premia chi è preparato: le reti sono veloci, i prezzi sono tra i più bassi dell'UE, e l'unica vera variabile è il terreno. Prepara un profilo che ti segue dai sampietrini gialli di Sofia a una mattina di febbraio a Bansko senza un secondo acquisto — la [eSIM Bulgaria di Roami](/bulgaria-esim/) commuta automaticamente tra A1, Yettel e Vivacom. I nuovi clienti possono provare la [eSIM pilota gratuita](/free-esim/), e il codice **web20** toglie il 20% dal tuo primo piano.
 
 
 
-La mossa pratica: prova prima con la [eSIM di prova gratuita](/free-esim/) di Roami — usa la stessa infrastruttura delle reti locali — poi blocca un piano Roami a pagamento con il codice **WEB20** per il 20% di sconto se la Bulgaria diventa una destinazione abituale.
+La mossa pratica: prova prima con la [eSIM di prova gratuita](/free-esim/) di Roami — usa la stessa infrastruttura delle reti locali — poi blocca un piano Roami a pagamento con il codice **web20** per il 20% di sconto se la Bulgaria diventa una destinazione abituale.

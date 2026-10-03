@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Ungheria: Yettel, Magyar Telekom o One"
 description: "Yettel, Magyar Telekom o One? Roami confronta gli operatori eSIM Ungheria su copertura 5G e prezzi, da Budapest al lago Balaton."
-image: "img/esim/carriers/hungary-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hungary-esim-carrier-guide.webp"
 date: "2026-09-26T18:40:50+00:00"
 keywords: eSIM Ungheria, operatori eSIM Ungheria, Yettel eSIM, Magyar Telekom eSIM, One Ungheria, dati prepagati, rete 5G, eSIM da viaggio Ungheria
 site_name: Roami
@@ -377,4 +377,4 @@ I nuovi clienti possono [provare una eSIM Ungheria senza costo](/free-esim/), o 
 
 *Prova gratuita per i nuovi utenti*
 
-Il consiglio di Roami è semplice: atterra già connesso. Inizia con la [eSIM pilota gratuita](/free-esim/) per assaggiare la copertura Yettel senza rischi, poi usa il codice **WEB20** su un piano Roami completo quando la prova ti avrà convinto.
+Il consiglio di Roami è semplice: atterra già connesso. Inizia con la [eSIM pilota gratuita](/free-esim/) per assaggiare la copertura Yettel senza rischi, poi usa il codice **web20** su un piano Roami completo quando la prova ti avrà convinto.

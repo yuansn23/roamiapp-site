@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Colombia: Claro vs Tigo vs Movistar"
 description: "Bogotá o Caribe? Roami confronta Claro, Tigo e Movistar su 5G, prezzi e copertura per la tua eSIM Colombia, con i dati del 2026."
-image: "img/esim/carriers/colombia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/colombia-esim-carrier-guide.webp"
 date: "2026-09-27T10:41:15+00:00"
 keywords: eSIM Colombia, operatori eSIM Colombia, Claro eSIM, Tigo eSIM, Movistar eSIM, WOM, rete 5G Colombia, dati prepagati, eSIM viaggi
 site_name: Roami
@@ -373,4 +373,4 @@ Un profilo che raggiunge Claro, Tigo e Movistar risponde alla domanda sulla rete
 
 *Nessuna carta necessaria per la prova*
 
-Una nota conclusiva di Roami: i viaggiatori che testano prima la copertura raramente se ne pentono. L'[eSIM gratuita](/free-esim/) riproduce la configurazione locale su Claro, e il codice **WEB20** ti toglie il 20% su un piano Roami a pagamento quando vuoi.
+Una nota conclusiva di Roami: i viaggiatori che testano prima la copertura raramente se ne pentono. L'[eSIM gratuita](/free-esim/) riproduce la configurazione locale su Claro, e il codice **web20** ti toglie il 20% su un piano Roami a pagamento quando vuoi.

@@ -8,7 +8,7 @@ title: "Operatori eSIM Macedonia del Nord: A1, Telekom, MTEL"
 
 description: "A1, Telekom o MTEL? Roami confronta gli operatori eSIM della Macedonia del Nord su prezzi, copertura e roaming nei Balcani."
 
-image: "img/esim/carriers/north-macedonia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/north-macedonia-esim-carrier-guide.webp"
 
 
 
@@ -2127,4 +2127,4 @@ Carica il profilo a casa e lascia che riselezioni tra A1 e Telekom mentre ti muo
 
 
 
-La giocata pratica: prova prima con la [prova gratuita multi-rete](/free-esim/) di Roami — usa la stessa infrastruttura delle reti locali — poi blocca un piano Roami a pagamento con il codice **WEB20** per il 20% di sconto se la Macedonia del Nord diventa una destinazione ricorrente. Pronto a comprare? La prova richiede due minuti per la configurazione.
+La giocata pratica: prova prima con la [prova gratuita multi-rete](/free-esim/) di Roami — usa la stessa infrastruttura delle reti locali — poi blocca un piano Roami a pagamento con il codice **web20** per il 20% di sconto se la Macedonia del Nord diventa una destinazione ricorrente. Pronto a comprare? La prova richiede due minuti per la configurazione.

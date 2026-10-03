@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Corea del Sud: SK Telecom, KT, LG U+"
 description: "Roami confronta SK Telecom, KT e LG U+ su velocità 5G e regole passaporto per la tua eSIM Corea del Sud, da Seoul a Busan."
-image: "img/esim/carriers/south-korea-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-korea-esim-carrier-guide.webp"
 date: "2026-09-23T19:49:44+00:00"
 keywords: eSIM Corea del Sud, operatori eSIM Corea del Sud, dati prepagati, rete 5G, SK Telecom, LG U+, KT, eSIM Roami, internet da viaggio
 site_name: Roami
@@ -368,4 +368,4 @@ La [pagina eSIM Corea del Sud](/south-korea-esim/) porta i livelli a pagamento; 
 
 *Nessun documento coreano richiesto*
 
-Prima del viaggio: esegui il [controllo di compatibilità eSIM](/compatibility/), prendi la [eSIM di prova](/free-esim/) di Roami per testare la copertura dove alloggi, e tieni a portata di mano **WEB20** — toglie il 20% da qualsiasi piano Roami quando sei pronto a impegnarti.
+Prima del viaggio: esegui il [controllo di compatibilità eSIM](/compatibility/), prendi la [eSIM di prova](/free-esim/) di Roami per testare la copertura dove alloggi, e tieni a portata di mano **web20** — toglie il 20% da qualsiasi piano Roami quando sei pronto a impegnarti.

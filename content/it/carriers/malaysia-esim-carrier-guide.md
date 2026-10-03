@@ -4,7 +4,7 @@ title: "Operatori eSIM Malesia: Maxis, CelcomDigi o U Mobile"
 
 description: "Maxis, CelcomDigi o U Mobile? Roami confronta gli operatori eSIM Malesia su copertura e prezzi, da Kuala Lumpur al Borneo."
 
-image: "img/esim/carriers/malaysia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/malaysia-esim-carrier-guide.webp"
 
 date: "2026-09-25T11:27:45+00:00"
 
@@ -599,7 +599,7 @@ Un'eSIM Malesia di Roami funziona su Maxis, CelcomDigi e U Mobile e passa alla p
 
 
 
-Nuovo su Roami? Prendi un'eSIM di prova gratuita per la Malesia prima di impegnare un centesimo. Pronto a comprare? Il codice **WEB20** taglia il **20%** su un piano eSIM Malesia a pagamento — e se Singapore è nel programma, scegli la versione che lo copre anziché appoggiarti a una tariffa da pass turistico a 6 Mbps.
+Nuovo su Roami? Prendi un'eSIM di prova gratuita per la Malesia prima di impegnare un centesimo. Pronto a comprare? Il codice **web20** taglia il **20%** su un piano eSIM Malesia a pagamento — e se Singapore è nel programma, scegli la versione che lo copre anziché appoggiarti a una tariffa da pass turistico a 6 Mbps.
 
 
 

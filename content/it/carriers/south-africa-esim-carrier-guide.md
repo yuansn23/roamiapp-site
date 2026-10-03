@@ -7,7 +7,7 @@ title: "Operatori eSIM Sudafrica: Vodacom, MTN o Cell C?"
 description: "RICA rende lente le SIM locali. Roami spiega l'esenzione e valuta Vodacom e MTN per la tua eSIM del Sudafrica prima di atterrare."
 
 
-image: "img/esim/carriers/south-africa-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-africa-esim-carrier-guide.webp"
 
 
 date: "2026-09-23T22:27:11+00:00"
@@ -1125,4 +1125,4 @@ Una linea registrata RICA costa un passaporto, una visita in negozio e un'attesa
 
 
 
-Dovunque atterri in Sudafrica, Roami ha una scorciatoia: una [prova gratuita multi-rete](/free-esim/) che cavalca le stesse reti di Vodacom, con **WEB20** che taglia il 20% dal tuo primo piano Roami a pagamento.
+Dovunque atterri in Sudafrica, Roami ha una scorciatoia: una [prova gratuita multi-rete](/free-esim/) che cavalca le stesse reti di Vodacom, con **web20** che taglia il 20% dal tuo primo piano Roami a pagamento.

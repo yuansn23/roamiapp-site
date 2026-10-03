@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Thailandia: AIS, TrueMove o dtac?"
 description: "Mare o città? Roami confronta AIS, TrueMove H e dtac su velocità e copertura per la tua eSIM Thailandia, da Phuket a Chiang Mai."
-image: "img/esim/carriers/thailand-esim-carrier-guide.jpg"
+image: "img/esim/carriers/thailand-esim-carrier-guide.webp"
 date: "2026-09-23T04:25:29+00:00"
 keywords: operatori eSIM Thailandia, eSIM AIS, eSIM TrueMove H, eSIM dtac, copertura 5G Thailandia, APN eSIM Thailandia, eSIM Thailandia prepagata, miglior operatore eSIM Thailandia
 site_name: Roami
@@ -20,7 +20,7 @@ Scegliere la tua eSIM Thailandia significa scegliere tra tre reti nazionali non 
 
 Il supporto dei dispositivi varia, e una prima installazione di profilo è territorio sconosciuto per la maggior parte dei viaggiatori. Entrambi i vuoti sono trattati altrove — la [pagina di compatibilità eSIM](/compatibility/) e la [spiegazione dell'attivazione](/faq/what-is-esim-activation-and-how-does-it-work/) — così questa pagina può restare sulle reti.
 
-**Se non leggi altro:** Resti a Bangkok, Phuket o Chiang Mai? AIS è la rete più premiata e TrueMove H tiene il 5G più spesso. Dirigi alle isole o alle montagne settentrionali? AIS ha la più forte reputazione rurale e insulare. Vuoi comprare direttamente da un operatore thailandese come visitatore? Puoi, ma le regole NBTC significano passaporto più una scansione facciale dal vivo allo sportello. Oppure salta la burocrazia: [l'eSIM di prova gratuita](/free-esim/) testa le reti senza costi; applica il codice **WEB20** per il 20% di sconto sui [piani eSIM prepagati Thailandia](/thailand-esim/).
+**Se non leggi altro:** Resti a Bangkok, Phuket o Chiang Mai? AIS è la rete più premiata e TrueMove H tiene il 5G più spesso. Dirigi alle isole o alle montagne settentrionali? AIS ha la più forte reputazione rurale e insulare. Vuoi comprare direttamente da un operatore thailandese come visitatore? Puoi, ma le regole NBTC significano passaporto più una scansione facciale dal vivo allo sportello. Oppure salta la burocrazia: [l'eSIM di prova gratuita](/free-esim/) testa le reti senza costi; applica il codice **web20** per il 20% di sconto sui [piani eSIM prepagati Thailandia](/thailand-esim/).
 
 ## Gli operatori dietro le reti della tua eSIM
 
@@ -357,7 +357,7 @@ Queste sono solo misurazioni di terzi. I risultati nel mondo reale cambiano con 
 
 ## Metti a punto la tua eSIM Thailandia in un minuto
 
-Sii raggiungibile da Suvarnabhumi in poi. Roami muove i tuoi dati tra AIS, TrueMove H e dtac senza che tu tocchi un'impostazione, e il passaggio città-isola è automatico. Novità qui? Fai prima una [prova eSIM gratuita](/free-esim/), o usa il codice **WEB20** per il 20% di sconto su un [piano eSIM Thailandia](/thailand-esim/).
+Sii raggiungibile da Suvarnabhumi in poi. Roami muove i tuoi dati tra AIS, TrueMove H e dtac senza che tu tocchi un'impostazione, e il passaggio città-isola è automatico. Novità qui? Fai prima una [prova eSIM gratuita](/free-esim/), o usa il codice **web20** per il 20% di sconto su un [piano eSIM Thailandia](/thailand-esim/).
 
 [Compra il piano eSIM Thailandia](/thailand-esim/)
 

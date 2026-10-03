@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Germania: Telekom, Vodafone e O2?"
 description: "Fuori dalle città la copertura cambia: Roami confronta Telekom, Vodafone e O2 su 5G, prezzi e regole prepagate per la tua eSIM."
-image: "img/esim/carriers/germany-esim-carrier-guide.jpg"
+image: "img/esim/carriers/germany-esim-carrier-guide.webp"
 date: "2026-09-26T09:25:04+00:00"
 keywords: operatori eSIM Germania, Telekom eSIM, Vodafone eSIM, O2 eSIM, Aldi Talk eSIM, Lidl Connect eSIM, copertura 5G Germania, eSIM Germania APN, eSIM Germania prepagata, miglior operatore eSIM Germania
 site_name: Roami
@@ -22,7 +22,7 @@ Tre reti nazionali coprono la Germania, e nessuna di esse è la risposta automat
 
 Se il profilo non si installa, nessun grafico di velocità o mappa di copertura salverà il viaggio. La [lista di compatibilità dei telefoni](/compatibility/) e questa [procedura guidata di attivazione eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) coprono i fondamentali, lasciando questa guida libera di confrontare le reti frontalmente.
 
-**La versione breve:** Soggiorni a Berlino, Monaco, Amburgo o Francoforte? Telekom è la rete più veloce e più consistente in Germania. Guidi attraverso la Baviera, la Foresta Nera o piccoli paesi? Vodafone mantiene il segnale dove O2 sfuma. Vuoi un piano economico per la città? O2 e i suoi marchi scontati tra cui Aldi Talk e blau sottoquotano gli altri del 20 al 40 percento. L'intoppo più grande in assoluto è la verifica dell'identità: la legge tedesca richiede che ogni SIM ed eSIM prepagata sia registrata, quindi non esiste una eSIM veramente anonima da acquistare al volo. Vuoi saltare la burocrazia e la coda al PostIdent? L'eSIM di prova gratuita di Roami testa le reti senza costi, e il codice WEB20 toglie il 20 percento dai [piani eSIM prepagati Germania](/germany-esim/).
+**La versione breve:** Soggiorni a Berlino, Monaco, Amburgo o Francoforte? Telekom è la rete più veloce e più consistente in Germania. Guidi attraverso la Baviera, la Foresta Nera o piccoli paesi? Vodafone mantiene il segnale dove O2 sfuma. Vuoi un piano economico per la città? O2 e i suoi marchi scontati tra cui Aldi Talk e blau sottoquotano gli altri del 20 al 40 percento. L'intoppo più grande in assoluto è la verifica dell'identità: la legge tedesca richiede che ogni SIM ed eSIM prepagata sia registrata, quindi non esiste una eSIM veramente anonima da acquistare al volo. Vuoi saltare la burocrazia e la coda al PostIdent? L'eSIM di prova gratuita di Roami testa le reti senza costi, e il codice web20 toglie il 20 percento dai [piani eSIM prepagati Germania](/germany-esim/).
 
 ## Chi gestisce le reti che la tua eSIM usa
 
@@ -386,7 +386,7 @@ Altre domande? [Vedi la FAQ completa →](/faq/)
 
 ## Salta la coda al PostIdent con una eSIM di viaggio
 
-Roami passa un singolo profilo tra Telekom, Vodafone e O2, quindi una banchina della U-Bahn di Berlino e una valle della Foresta Nera sono entrambe servite dalla rete più forte del momento. Inizia con una [eSIM di prova gratuita Germania](/free-esim/), oppure prendi il 20% di sconto su un piano a pagamento con il codice **WEB20** quando [compri la tua eSIM Germania](/germany-esim/).
+Roami passa un singolo profilo tra Telekom, Vodafone e O2, quindi una banchina della U-Bahn di Berlino e una valle della Foresta Nera sono entrambe servite dalla rete più forte del momento. Inizia con una [eSIM di prova gratuita Germania](/free-esim/), oppure prendi il 20% di sconto su un piano a pagamento con il codice **web20** quando [compri la tua eSIM Germania](/germany-esim/).
 
 [Ottieni il piano eSIM Germania](/germany-esim/)
 

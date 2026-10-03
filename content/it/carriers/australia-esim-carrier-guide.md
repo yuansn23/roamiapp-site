@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Australia: Telstra, Optus o Vodafone"
 description: "Sydney o outback? Roami confronta Telstra, Optus e Vodafone su 5G, copertura e prezzi per la tua eSIM, così atterri già connesso."
-image: "img/esim/carriers/australia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/australia-esim-carrier-guide.webp"
 date: "2026-09-27T22:51:39+00:00"
 keywords: compagnie eSIM Australia, Telstra eSIM, Optus eSIM, Vodafone eSIM, copertura 5G Australia, APN eSIM Australia, eSIM prepagata Australia, migliore operatore eSIM Australia, eSIM da viaggio Australia
 site_name: Roami
@@ -22,7 +22,7 @@ Scegliere una eSIM Australia è in realtà scegliere tra tre reti nazionali il c
 
 Se le basi sono ancora domande aperte — il mio telefono supporta la eSIM, e cosa succede davvero durante l'attivazione — il [verificatore di compatibilità dei dispositivi](/compatibility/) e la [meccanica di attivazione eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) rispondono a entrambe. Questa pagina restringe la domanda a una cosa: quale compagnia vale la pena pagare.
 
-**La risposta di un paragrafo:** Fermi a Sydney, Melbourne, Brisbane, Perth o Adelaide? Optus ha preso il premio Best 5G Network di Ookla ed è la più veloce dove ha segnale, mentre Telstra è altrettanto forte nelle città e più ampia sulla copertura 5G di popolazione. Guidando lunghi itinerari regionali tra le città? Solo Telstra tiene un segnale utilizzabile, e persino quello è intermittente in certi punti, quindi un messaggero satellitare batte qualsiasi eSIM lì. Vuoi una eSIM di compagnia da visitatore? Tutte e tre vendono eSIM prepagate, ma ognuna richiede un passaporto sotto la legge australiana sull'identità prepagata, e nessuna ti dà copertura multi-rete. Oppure salta la burocrazia: il [piano di prova gratuito](/free-esim/) testa le reti a costo zero, e applica il codice **WEB20** per il 20% di sconto sui [piani eSIM prepagati Australia](/australia-esim/).
+**La risposta di un paragrafo:** Fermi a Sydney, Melbourne, Brisbane, Perth o Adelaide? Optus ha preso il premio Best 5G Network di Ookla ed è la più veloce dove ha segnale, mentre Telstra è altrettanto forte nelle città e più ampia sulla copertura 5G di popolazione. Guidando lunghi itinerari regionali tra le città? Solo Telstra tiene un segnale utilizzabile, e persino quello è intermittente in certi punti, quindi un messaggero satellitare batte qualsiasi eSIM lì. Vuoi una eSIM di compagnia da visitatore? Tutte e tre vendono eSIM prepagate, ma ognuna richiede un passaporto sotto la legge australiana sull'identità prepagata, e nessuna ti dà copertura multi-rete. Oppure salta la burocrazia: il [piano di prova gratuito](/free-esim/) testa le reti a costo zero, e applica il codice **web20** per il 20% di sconto sui [piani eSIM prepagati Australia](/australia-esim/).
 
 ## Le compagnie locali: Telstra, Optus e Vodafone
 
@@ -374,10 +374,10 @@ Queste sono misurazioni di terze parti, non promesse. Dispositivo, banda e caric
 
 ## Prepara la tua eSIM Australia prima di partire
 
-Il profilo di Roami si aggancia a Telstra, Optus e Vodafone e riseleziona la più forte mentre guidi, quindi un solo acquisto copre la città portuale e la terra rossa del Red Centre. Testa prima le reti su una [eSIM di prova Australia gratuita](/free-esim/), o metti il codice **WEB20** contro un piano a pagamento quando [scegli la tua eSIM Australia](/australia-esim/).
+Il profilo di Roami si aggancia a Telstra, Optus e Vodafone e riseleziona la più forte mentre guidi, quindi un solo acquisto copre la città portuale e la terra rossa del Red Centre. Testa prima le reti su una [eSIM di prova Australia gratuita](/free-esim/), o metti il codice **web20** contro un piano a pagamento quando [scegli la tua eSIM Australia](/australia-esim/).
 
 [Ottieni il piano eSIM Australia](/australia-esim/)
 
-*Il codice WEB20 si applica a un primo acquisto*
+*Il codice web20 si applica a un primo acquisto*
 
 [Comincia con una prova Australia gratuita](/free-esim/)

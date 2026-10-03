@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Giappone: Docomo, au, SoftBank 5G"
 description: "Docomo, au o SoftBank? Roami confronta gli operatori eSIM Giappone su velocità, copertura e prezzi, da Tokyo ai templi di Kyoto."
-image: "img/esim/carriers/japan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/japan-esim-carrier-guide.webp"
 date: "2026-09-25T15:13:47+00:00"
 keywords: operatori eSIM Giappone, Docomo eSIM, au eSIM, SoftBank eSIM, Rakuten Mobile eSIM, copertura 5G Giappone, APN eSIM Giappone, eSIM Giappone prepagata, miglior operatore eSIM Giappone, eSIM viaggio Giappone
 site_name: Roami
@@ -20,7 +20,7 @@ Scegli la rete, non il brand: a quale operatore dovrebbe connettersi la tua eSIM
 
 Alcuni telefoni non supportano affatto una eSIM e molte persone non hanno mai visto l'installazione di un profilo. Entrambe le lacune sono trattate altrove — nel [verificatore di compatibilità](/compatibility/) e nella [guida all'attivazione](/faq/what-is-esim-activation-and-how-does-it-work/) — così questa pagina può restare focalizzata sulle reti.
 
-**Se non leggi altro:** soggiorni a Tokyo, Osaka o Kyoto? Rakuten Mobile gestisce il 5G più veloce del Paese a 151,16 Mbps e la rete più costante al 89,9%. Guardi tanti video o giochi? SoftBank vince sul punteggio video (75,91) e gaming (80,94). Se vai in zone rurali del Tohoku, Hokkaido o in montagna? NTT Docomo tiene il segnale dove le altre si indeboliscono, grazie alla miglior disponibilità 5G al 43%. Vuoi una eSIM di un operatore da visitatore? Solo au ne vende una sul posto, tramite il suo brand povo ai Lawson. Oppure salta le pratiche: la [prova gratuita eSIM](/free-esim/) testa le reti senza costi; usa il codice **WEB20** per il 20% di sconto sui [piani eSIM prepagati per il Giappone](/japan-esim/).
+**Se non leggi altro:** soggiorni a Tokyo, Osaka o Kyoto? Rakuten Mobile gestisce il 5G più veloce del Paese a 151,16 Mbps e la rete più costante al 89,9%. Guardi tanti video o giochi? SoftBank vince sul punteggio video (75,91) e gaming (80,94). Se vai in zone rurali del Tohoku, Hokkaido o in montagna? NTT Docomo tiene il segnale dove le altre si indeboliscono, grazie alla miglior disponibilità 5G al 43%. Vuoi una eSIM di un operatore da visitatore? Solo au ne vende una sul posto, tramite il suo brand povo ai Lawson. Oppure salta le pratiche: la [prova gratuita eSIM](/free-esim/) testa le reti senza costi; usa il codice **web20** per il 20% di sconto sui [piani eSIM prepagati per il Giappone](/japan-esim/).
 
 ## Quali reti può usare la tua eSIM?
 
@@ -380,7 +380,7 @@ Sono solo letture di terze parti. I tuoi risultati personali varieranno con il t
 
 ## La tua eSIM Giappone, pronta prima di salire a bordo
 
-La eSIM Giappone di Roami si muove tra Docomo, au, SoftBank e Rakuten Mobile così resti online da Tokyo a Hokkaido. Richiedi la [prova gratuita eSIM Giappone](/free-esim/) per testare la copertura, oppure prendi il 20% di sconto sui [piani eSIM Giappone](/japan-esim/) con il codice **WEB20**.
+La eSIM Giappone di Roami si muove tra Docomo, au, SoftBank e Rakuten Mobile così resti online da Tokyo a Hokkaido. Richiedi la [prova gratuita eSIM Giappone](/free-esim/) per testare la copertura, oppure prendi il 20% di sconto sui [piani eSIM Giappone](/japan-esim/) con il codice **web20**.
 
 [Compra la mia eSIM Giappone](/japan-esim/)
 

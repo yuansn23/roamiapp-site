@@ -3,7 +3,7 @@
 title: "Operatori eSIM Vietnam: Viettel, Vinaphone, Mobifone"
 
 description: "Da Sapa al delta del Mekong? Roami confronta Viettel, Vinaphone e Mobifone per la tua eSIM Vietnam, senza perdere il segnale."
-image: "img/esim/carriers/vietnam-esim-carrier-guide.jpg"
+image: "img/esim/carriers/vietnam-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:18:00+00:00"
 
@@ -972,4 +972,4 @@ L'eSIM Vietnam di Roami si collega a Viettel, Vinaphone e Mobifone, cambiando re
 
 
 
-In ogni caso, configurala prima della partenza: controlla il tuo telefono con il [verificatore di compatibilità](/compatibility/), prova la [eSIM di prova gratuita](/free-esim/) Roami, e applica **WEB20** al checkout qualora passassi a un piano Roami completo per il Vietnam.
+In ogni caso, configurala prima della partenza: controlla il tuo telefono con il [verificatore di compatibilità](/compatibility/), prova la [eSIM di prova gratuita](/free-esim/) Roami, e applica **web20** al checkout qualora passassi a un piano Roami completo per il Vietnam.

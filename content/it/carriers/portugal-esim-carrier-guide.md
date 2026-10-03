@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Portogallo: MEO, NOS, Vodafone e Digi"
 description: "Da Lisbona all'Algarve? Roami confronta MEO, NOS e Vodafone su velocità e prezzi per la tua eSIM Portogallo, con 5G dove serve."
-image: "img/esim/carriers/portugal-esim-carrier-guide.jpg"
+image: "img/esim/carriers/portugal-esim-carrier-guide.webp"
 date: "2026-09-24T16:43:52+00:00"
 keywords: operatori eSIM Portogallo, MEO eSIM, NOS eSIM, Vodafone eSIM, Digi eSIM, copertura 5G Portogallo, APN eSIM Portogallo, eSIM Portogallo prepagata, migliore operatore eSIM Portogallo, eSIM viaggio Portogallo
 site_name: Roami
@@ -23,7 +23,7 @@ Il Portogallo oggi schiera quattro reti nazionali anziché tre, e la scelta dell
 
 Due incognite comuni: il telefono supporta l'eSIM, e come funziona l'installazione? Passa il tuo modello dalla [pagina di compatibilità](/compatibility/) prima, poi leggi [come si installa un profilo eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) — entrambi sono prerequisiti che questa pagina salta deliberatamente.
 
-**In sintesi:** Ti fermi a Lisbona, Porto o in Algarve? Tutte e tre le reti storiche sono forti nelle città, con NOS che porta il titolo di Best Mobile Network. Guidi nell'interno dell'Alentejo, cammini sulle levadas di Madeira o fai isola-hopping nelle Azzorre? MEO e Vodafone mantengono il segnale dove NOS si dirada. Vuoi una sola eSIM che raggiunga tutte e quattro le reti senza burocrazia? La [eSIM gratuita](/free-esim/) testa le reti senza spese, e **WEB20** taglia il 20% sui [piani eSIM prepagati per il Portogallo](/portugal-esim/).
+**In sintesi:** Ti fermi a Lisbona, Porto o in Algarve? Tutte e tre le reti storiche sono forti nelle città, con NOS che porta il titolo di Best Mobile Network. Guidi nell'interno dell'Alentejo, cammini sulle levadas di Madeira o fai isola-hopping nelle Azzorre? MEO e Vodafone mantengono il segnale dove NOS si dirada. Vuoi una sola eSIM che raggiunga tutte e quattro le reti senza burocrazia? La [eSIM gratuita](/free-esim/) testa le reti senza spese, e **web20** taglia il 20% sui [piani eSIM prepagati per il Portogallo](/portugal-esim/).
 
 ## Gli operatori locali: MEO, NOS e Vodafone
 
@@ -384,7 +384,7 @@ Atterrare senza connettività, poi lottare con il Wi-Fi dell'aeroporto per una s
 
 ## Roaming e attraversamenti di confine
 
-Un solo profilo copre MEO, NOS, Vodafone e Digi, ricollegandosi al segnale più forte mentre passi dalle strade di Lisbona alle levadas di Madeira e alle Azzorre. I nuovi visitatori possono prima [assaggiare la rete gratis](/free-esim/), oppure inserire il codice **WEB20** per il 20% di sconto sui [piani eSIM per il Portogallo](/portugal-esim/).
+Un solo profilo copre MEO, NOS, Vodafone e Digi, ricollegandosi al segnale più forte mentre passi dalle strade di Lisbona alle levadas di Madeira e alle Azzorre. I nuovi visitatori possono prima [assaggiare la rete gratis](/free-esim/), oppure inserire il codice **web20** per il 20% di sconto sui [piani eSIM per il Portogallo](/portugal-esim/).
 
 [Ordina la tua eSIM per il Portogallo](/portugal-esim/)
 
@@ -392,4 +392,4 @@ Un solo profilo copre MEO, NOS, Vodafone e Digi, ricollegandosi al segnale più 
 
 [Avvia la prova gratuita dell'eSIM per il Portogallo](/free-esim/)
 
-Un ultimo passo prima di volare: controlla il tuo telefono sulla [verifica di compatibilità](/compatibility/), poi parti con una [prova multi-rete gratuita](/free-esim/) di Roami e scopri come MEO tratta il tuo itinerario. Applicare WEB20 al checkout taglia il 20% da qualsiasi piano Roami a pagamento che copre il Portogallo — il modo più semplice di chiudere la scelta della tua eSIM Portogallo.
+Un ultimo passo prima di volare: controlla il tuo telefono sulla [verifica di compatibilità](/compatibility/), poi parti con una [prova multi-rete gratuita](/free-esim/) di Roami e scopri come MEO tratta il tuo itinerario. Applicare web20 al checkout taglia il 20% da qualsiasi piano Roami a pagamento che copre il Portogallo — il modo più semplice di chiudere la scelta della tua eSIM Portogallo.

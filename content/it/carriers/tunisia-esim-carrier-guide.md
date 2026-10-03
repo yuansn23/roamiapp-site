@@ -4,7 +4,7 @@ title: "Operatori eSIM Tunisia: Ooredoo e Orange a confronto"
 
 description: "Costa mediterranea o Sahara? Roami confronta Ooredoo, Orange e Tunisie Telecom su copertura e prezzi per la tua eSIM Tunisia."
 
-image: "img/esim/carriers/tunisia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/tunisia-esim-carrier-guide.webp"
 
 date: "2026-09-23T01:30:02+00:00"
 
@@ -819,4 +819,4 @@ Che la tua settimana sia medine e spiagge o bacini salini e set cinematografici,
 
 
 
-Una nota finale da Roami: i viaggiatori che testano prima la copertura raramente se ne pentono. L'[eSIM di prova](/free-esim/) rispecchia la configurazione locale sulle reti locali, e il codice **WEB20** toglie il 20% da un piano Roami a pagamento ogni volta che sei pronto.
+Una nota finale da Roami: i viaggiatori che testano prima la copertura raramente se ne pentono. L'[eSIM di prova](/free-esim/) rispecchia la configurazione locale sulle reti locali, e il codice **web20** toglie il 20% da un piano Roami a pagamento ogni volta che sei pronto.

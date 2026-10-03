@@ -1,7 +1,7 @@
 ---
 title: "Operatori eSIM Repubblica Dominicana: Claro o Altice"
 description: "Punta Cana o Santo Domingo? Roami confronta Claro, Altice e Viva su 5G e copertura per la tua eSIM Repubblica Dominicana."
-image: "img/esim/carriers/dominican-esim-carrier-guide.jpg"
+image: "img/esim/carriers/dominican-esim-carrier-guide.webp"
 date: "2026-09-26T16:13:34+00:00"
 keywords: operatori eSIM Repubblica Dominicana, eSIM per Punta Cana, operatori eSIM Repubblica Dominicana, Claro eSIM, Altice Dominicana eSIM, Viva eSIM, copertura 5G Repubblica Dominicana, eSIM Repubblica Dominicana prepagata, miglior operatore eSIM Repubblica Dominicana, eSIM Samaná
 site_name: Roami
@@ -372,4 +372,4 @@ Scegli un [piano eSIM Repubblica Dominicana](/dominican-esim/), oppure [provane 
 
 *Inizia con la prova gratuita*
 
-Il consiglio di Roami è semplice: atterra connesso. Inizia con l'[eSIM di prova](/free-esim/) per assaggiare la copertura eSIM per Punta Cana senza rischi, poi usa il codice **WEB20** su un piano Roami completo quando la prova ti convince.
+Il consiglio di Roami è semplice: atterra connesso. Inizia con l'[eSIM di prova](/free-esim/) per assaggiare la copertura eSIM per Punta Cana senza rischi, poi usa il codice **web20** su un piano Roami completo quando la prova ti convince.

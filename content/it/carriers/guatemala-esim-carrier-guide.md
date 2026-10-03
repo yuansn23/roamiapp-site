@@ -4,7 +4,7 @@ title: "Operatori eSIM Guatemala: Claro vs Tigo, chi vince"
 
 description: "Claro o Tigo? Roami confronta gli operatori eSIM Guatemala su velocità e prezzi, da Antigua e Atitlán fino ai templi di Tikal."
 
-image: "img/esim/carriers/guatemala-esim-carrier-guide.jpg"
+image: "img/esim/carriers/guatemala-esim-carrier-guide.webp"
 
 date: "2026-09-26T00:25:44+00:00"
 
@@ -792,5 +792,5 @@ Installa una volta a casa e il profilo si aggancia a Claro o Tigo nell'istante i
 
 
 
-In ogni caso, configurala prima della partenza: fai girare il [verificatore di compatibilità](/compatibility/) sul tuo telefono, prova la [eSIM di test](/free-esim/) di Roami, e inserisci **WEB20** al checkout se passi a un piano Roami completo per il Guatemala.
+In ogni caso, configurala prima della partenza: fai girare il [verificatore di compatibilità](/compatibility/) sul tuo telefono, prova la [eSIM di test](/free-esim/) di Roami, e inserisci **web20** al checkout se passi a un piano Roami completo per il Guatemala.
 

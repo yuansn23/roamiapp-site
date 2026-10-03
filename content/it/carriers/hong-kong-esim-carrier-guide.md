@@ -4,7 +4,7 @@ title: "Operatori eSIM Hong Kong 5G: CMHK, csl o SmarTone"
 
 description: "CMHK, csl o SmarTone? Roami confronta gli operatori eSIM Hong Kong su velocità e prezzi, dai grattacieli al traghetto per Macao."
 
-image: "img/esim/carriers/hong-kong-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hong-kong-esim-carrier-guide.webp"
 
 date: "2026-09-26T21:28:17+00:00"
 
@@ -690,7 +690,7 @@ Ogni dato citato qui risale a una fonte terza nominata, non ai nostri test. Le t
 
 
 
-Il checkout della tua eSIM Hong Kong richiede pochi minuti e il profilo arriva nella tua casella, pronto da attivare all'aeroporto di Hong Kong. Puoi provare prima una [prova gratuita per Hong Kong, Cina](/free-esim/), oppure prendere il 20% di sconto sui [piani eSIM di Hong Kong](/hong-kong-esim/) con il codice **WEB20**.
+Il checkout della tua eSIM Hong Kong richiede pochi minuti e il profilo arriva nella tua casella, pronto da attivare all'aeroporto di Hong Kong. Puoi provare prima una [prova gratuita per Hong Kong, Cina](/free-esim/), oppure prendere il 20% di sconto sui [piani eSIM di Hong Kong](/hong-kong-esim/) con il codice **web20**.
 
 
 

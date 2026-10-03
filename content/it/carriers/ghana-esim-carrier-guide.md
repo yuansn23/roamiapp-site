@@ -4,7 +4,7 @@ title: "Operatori eSIM Ghana per visitatori: MTN, Telecel, AT"
 
 description: "Roami confronta MTN, Telecel e AT su velocità, copertura e prezzi, e come registrarsi e pagare in mobile money in Ghana."
 
-image: "img/esim/carriers/ghana-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ghana-esim-carrier-guide.webp"
 
 date: "2026-09-26T06:39:37+00:00"
 
@@ -773,5 +773,5 @@ Quote di mercato e conteggi di penetrazione provengono dai report mensili di mer
 
 
 
-Il Ghana premia i viaggiatori che arrivano preparati: la legge di registrazione è ferma, la biometria è reale, e le code di Kotoka non sono il posto in cui vuoi la tua prima serata. Compra una [eSIM Ghana](/ghana-esim/) da Roami prima di volare — oppure ordinala direttamente su [roamiapp.com con il codice **WEB20** per il 20% di sconto](/ghana-esim/) — connettiti all'atterraggio, e aggiungi una linea MTN locale per i periodi più lunghi se serve. Non ancora convinto? Dimostra l'intera configurazione su una [eSIM di prova multi-rete gratuita](/free-esim/).
+Il Ghana premia i viaggiatori che arrivano preparati: la legge di registrazione è ferma, la biometria è reale, e le code di Kotoka non sono il posto in cui vuoi la tua prima serata. Compra una [eSIM Ghana](/ghana-esim/) da Roami prima di volare — oppure ordinala direttamente su [roamiapp.com con il codice **web20** per il 20% di sconto](/ghana-esim/) — connettiti all'atterraggio, e aggiungi una linea MTN locale per i periodi più lunghi se serve. Non ancora convinto? Dimostra l'intera configurazione su una [eSIM di prova multi-rete gratuita](/free-esim/).
 

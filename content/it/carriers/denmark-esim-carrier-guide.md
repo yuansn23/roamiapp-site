@@ -4,7 +4,7 @@ title: "Operatori eSIM Danimarca: Telia, YouSee, Telenor e 3"
 
 description: "Roami confronta Telia, Telenor, YouSee e 3 su 5G e prezzi per la tua eSIM Danimarca, da Copenhagen fino alle isole minori."
 
-image: "img/esim/carriers/denmark-esim-carrier-guide.jpg"
+image: "img/esim/carriers/denmark-esim-carrier-guide.webp"
 
 date: "2026-09-26T19:30:01+00:00"
 
@@ -687,4 +687,4 @@ Un solo profilo a casa sostituisce interamente la coda in aeroporto, la scansion
 
 
 
-In ogni caso, preparala prima della partenza: verifica il tuo telefono nel [controllo compatibilità](/compatibility/), prova il [test di copertura gratuito](/free-esim/) di Roami, e applica **WEB20** al checkout quando poi passerai a un piano Roami completo che copra la Danimarca.
+In ogni caso, preparala prima della partenza: verifica il tuo telefono nel [controllo compatibilità](/compatibility/), prova il [test di copertura gratuito](/free-esim/) di Roami, e applica **web20** al checkout quando poi passerai a un piano Roami completo che copra la Danimarca.
