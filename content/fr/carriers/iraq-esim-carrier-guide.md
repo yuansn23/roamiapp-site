@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Irak : comparez couverture et prix"
 description: "Roami compare les opérateurs eSIM Irak Asiacell et Zain Iraq sur la couverture, la vitesse et les prix, de Bagdad au Kurdistan."
-image: "img/esim/carriers/iraq-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iraq-esim-carrier-guide.webp"
 date: "2026-09-25T03:02:35+00:00"
 keywords: eSIM Irak, opérateurs eSIM Irak, eSIM Asiacell, eSIM Zain Iraq, Korek Telecom, eSIM voyage Irak, eSIM pour l'Irak, données mobiles Irak, compatibilité eSIM
 site_name: Roami
@@ -135,7 +135,7 @@ La page de nouvelle ligne de Zain Iraq décrit le flux directement : choisissez 
 
 Le marché domestique Erbil de Korek reste son bastion, mais avec sa licence fédérale formellement contestée et l'application courant à travers 2026, un visiteur ne devrait pas faire de Korek la ligne primaire. Si votre voyage est Kurdistan-seul, demandez dans les boutiques Korek à Erbil au sujet de l'émission eSIM actuelle ; si la réponse est incertaine, une ligne Asiacell couvre Souleimaniye tout en restant licenciée fédéralement.
 
-### Asiacell vs Zain : quel opérateur Irak est plus rapide ?
+### Fastlink au Kurdistan : comment et à quel prix ?
 
 À l'intérieur de la Région du Kurdistan, Fastlink émet des SIM aux visiteurs contre un passeport valide plus une adresse locale temporaire — aucune capture biométrique n'est requise pour les étrangers, contrairement à la voie résident. Ses forfaits promotionnels atteignent de grandes allocations à bas prix, et le compromis est une couverture confinée à la région.
 
@@ -150,7 +150,7 @@ Le marché domestique Erbil de Korek reste son bastion, mais avec sa licence fé
 
 ## Combien coûte une eSIM Irak : forfaits et recharges ?
 
-Les données prépayées irakiennes sont réellement peu chères selon les standards mondiaux, mais les échelles sont incohérentes et le mot « illimité » ne veut pas dire ce qu'il dit.
+Les données prépayées irakiennes sont réellement peu chères selon les standards mondiaux, mais les échelles sont incohérentes et le mot « illimité » ne veut pas dire ce qu'il dit — chaque forfait data mérite une lecture attentive avant le paiement.
 
 ### Quelles bonnes affaires données avec un petit budget ?
 
@@ -166,7 +166,7 @@ Les données prépayées irakiennes sont réellement peu chères selon les stand
 | Zain Iraq Oodi 5 Go | 15 000 | 10,34 | 30 jours | Marque numérique gérée par appli |
 | Korek 5 Go | 12 000 | 8,28 | 30 jours | Couverture nord de l'Irak |
 | Korek 20 Go | 22 000 | 15,17 | 30 jours | Palier prépayé |
-| La SIM elle-même | 1 500–15 000 | 1,03–10,34 | — | Souvent incluse dans le premier forfait |
+| La SIM elle-même | 1 500–15 000 | 1,03–10,34 | — | Souvent incluse dans le premier forfait — une carte SIM prépayée locale reste le ticket d'entrée le moins cher |
 
 Les équivalents dollars convertissent à environ 1 450 IQD pour USD 1 et sont indicatifs. La règle gouvernante : **achetez des données comptées, pas « illimité ».** Les seuils rapportés placent les forfaits illimités irakiens près de 20 Go par semaine et 100 Go par mois avant que les vitesses ne chutent à environ 3 Mbps — correct pour la messagerie et les cartes, inutile pour les appels vidéo. En coût journalier, l'hebdomadaire « illimité » d'Asiacell revient à environ 1,20 USD par jour — le meilleur rapport du tableau pour un voyage d'une semaine.
 
@@ -243,7 +243,7 @@ La médiane nationale d'Ookla est le gros titre ; les chiffres par opérateur d'
 
 ### Comment lire les vitesses par zone géographique ?
 
-La tête nationale d'Asiacell est réelle, mais la moyenne de 14,6 Mbps de Korek est tirée vers le bas par un territoire qu'il sert à peine ; à l'intérieur d'Erbil et Duhok son expérience locale se situe plus près du peloton. Pour un voyageur choisissant une eSIM voyage, la question n'est pas quel opérateur est le plus rapide nationalement mais sur quels deux réseaux votre profil peut basculer en secours.
+La tête nationale d'Asiacell est réelle, mais la moyenne de 14,6 Mbps de Korek est tirée vers le bas par un territoire qu'il sert à peine ; à l'intérieur d'Erbil et Duhok son expérience locale se situe plus près du peloton. Pour un voyageur choisissant une eSIM voyage, la question n'est pas quel opérateur est le plus rapide nationalement mais sur quels deux réseaux votre profil peut basculer en secours. Détail du tableau que presque personne ne relève : l'upload d'Asiacell (13,8 Mbps) est le double de celui de Zain Iraq — invisible sur les moyennes de téléchargement, décisif dès que vous envoyez des photos ou appelez en vidéo depuis la route.
 
 ## Comment passer une frontière terrestre avec votre eSIM ?
 
@@ -268,9 +268,9 @@ La seconde règle est plus simple : achetez vos données pour la suite avant le 
 
 Continuant vers le Levant ? Le [guide eSIM Jordanie](/carriers/jordan-esim-carrier-guide/) couvre les réseaux de l'autre côté de Trebil.
 
-Partant vers le nord plutôt, la [page eSIM Turquie](/turkey-esim/) explique ce qu'une ligne turque coûte et où elle fonctionne.
+Partant vers le nord plutôt, la [page eSIM Turquie](/turkey-esim/) explique ce qu'une ligne turque coûte et où elle fonctionne ; notre [guide des opérateurs turcs](/carriers/turkey-esim-carrier-guide/) détaille le réseau de l'autre côté d'Ibrahim Khalil.
 
-Et pour la route du Golfe via Safwan, le [guide eSIM voyage Koweït](/carriers/kuwait-esim-carrier-guide/) expose les options là-bas.
+Et pour la route du Golfe via Safwan, le [guide eSIM voyage Koweït](/carriers/kuwait-esim-carrier-guide/) expose les options là-bas. Venant de l'est par Bashmaq ou Haji Omaran, le [guide eSIM Iran](/carriers/iran-esim-carrier-guide/) explique pourquoi les profils étrangers peinent de ce côté de la frontière — et pourquoi votre forfait irakien ne vous suivra pas une fois passé le poste.
 
 ## Quelles entrées APN fonctionnent en Irak ?
 
@@ -302,7 +302,7 @@ Les quatre schémas d'échec spécifiquement irakiens :
 
 Ouvrez la sélection de réseau, basculez de l'automatique au manuel, et choisissez un réseau que vous pouvez réellement voir — Asiacell (418-05) ou Zain Iraq (418-20 / 418-30). Si seul Korek apparaît sur un profil réseau fédéral à Bagdad, le différend de licence est la cause probable ; forcez un réseau différent et passez à autre chose.
 
-### Asiacell vs Zain : quelle couverture en Irak ?
+### Itinérance des données et double SIM : les réglages à confirmer ?
 
 Confirmez que l'itinérance des données est ACTIVÉE pour la ligne eSIM et que la eSIM, pas votre SIM domestique, est définie comme ligne de données mobiles. Sur un téléphone double-SIM, désactivez aussi l'itinérance des données sur votre ligne domestique pour que le trafic en arrière-plan ne lui soit pas facturé.
 
@@ -310,7 +310,7 @@ Confirmez que l'itinérance des données est ACTIVÉE pour la ligne eSIM et que 
 
 C'est le pays à deux régimes faisant ce qu'il fait. Un profil réseau unique roule sur l'empreinte d'un opérateur ; si votre itinéraire franchit la frontière interne, soit ajoutez un second profil, soit utilisez un profil double réseau dès le départ. La resélection manuelle restaure généralement le service quand le téléphone s'accroche à un opérateur faiblissant.
 
-### Quel opérateur selon votre itinéraire en Irak ?
+### Pourquoi mes données s'arrêtent-elles en cours de route ?
 
 Trois causes ordinaires, par ordre de probabilité : votre allowance est épuisée et une recharge est nécessaire ; une panne nationale de saison d'examens est dans sa fenêtre programmée ; ou l'enregistrement du téléphone a expiré — terminal pour les SIM achetées dans la rue, et corrigé à la boutique émettrice pour celles correctement enregistrées.
 
@@ -334,7 +334,7 @@ Tout le reste — téléchargements échoués, profils corrompus, codes QR à us
 
 Oui, avec une condition. Asiacell émet des codes QR eSIM dans ses principales boutiques pour les nouvelles lignes, et l'enregistrement d'identité irakien — passeport pour les visiteurs — s'applique exactement comme aux SIM physiques. Les touristes qui veulent sauter la boutique achètent une eSIM voyage roulant sur le réseau Asiacell, installée avant le vol.
 
-### Pouvez-vous acheter une eSIM Irak d'Asiacell ?
+### Pouvez-vous acheter une eSIM Irak de Zain Iraq ?
 
 Non. La eSIM de Zain Iraq est achetée dans un magasin après enregistrement d'identité ; la propre page de nouvelle ligne de l'opérateur accompagne les clients à travers exactement ce flux. Les visiteurs à l'étranger qui veulent une couverture Zain Iraq ont besoin d'une visite en boutique après l'atterrissage ou d'une eSIM voyage qui le nomme spécifiquement comme partenaire.
 
@@ -362,21 +362,29 @@ Aucun réseau 5G commercial n'opère en Irak à la fin 2026. Le gouvernement fé
 
 La comparaison de Cable.co.uk place 1 Go à environ USD 1,07 — 97e sur 237 marchés, bien sous la moyenne mondiale de USD 2,59. Les forfaits prépayés locaux sont encore moins chers une fois enregistrés : les paliers Asiacell démarrent à 3 000 IQD, et les eSIM voyage tournent à environ USD 5–8 par gigaoctet sur validité courte.
 
-### Mon téléphone est-il compatible eSIM en Irak ?
+### Faut-il un téléphone spécial pour les bandes irakiennes ?
 
-Non. La 4G irakienne fonctionne sur des bandes LTE largement supportées incluant 1800 MHz, si bien que les appareils ordinaires européens, asiatiques et moyen-orientaux s'attachent normalement, et il n'y a pas encore de question de bande 5G. Les vérifications qui comptent sont le verrou opérateur et le support eSIM.
+Bonne nouvelle, non. La 4G irakienne fonctionne sur des bandes LTE largement supportées incluant 1800 MHz, si bien que les appareils ordinaires européens, asiatiques et moyen-orientaux s'attachent normalement, et il n'y a pas encore de question de bande 5G. Les vérifications qui comptent sont le verrou opérateur et le support eSIM.
 
 ### Pourquoi mon internet s'est-il arrêté le matin ?
 
 Si c'est la saison des examens scolaires nationaux, l'Irak réduit délibérément la connectivité pendant les heures d'examen pour prévenir la triche — la pratique est officiellement annoncée et s'applique à chaque opérateur. Les pannes de la saison 2025 se comptaient par dizaines entre mai et septembre. Aucun changement de réglage sur votre téléphone ne la contournera.
 
-### Asiacell vs Zain : laquelle est meilleure en Irak ?
+### Quelle alternative à Korek dans le Kurdistan ?
 
 Korek a historiquement été la référence de la région, la plus forte à Erbil, Duhok et Zakho, avec Fastlink aussi active sous supervision KRG. Asiacell est la meilleure alternative licenciée fédéralement et domine Souleimaniye, sa ville d'origine. Compte tenu du différend de licence, un profil portant Asiacell comme second réseau est la configuration plus sûre.
 
 ### Puis-je garder mon numéro domestique et partager la connexion eSIM Irak ?
 
 Oui, et c'est la configuration sensée. Gardez votre SIM domestique active pour la vérification par appel/SMS, pointez les données mobiles vers la ligne eSIM, et coupez l'itinérance des données sur la ligne domestique pour qu'elle cesse de brûler du crédit d'itinérance en arrière-plan. Le partage de connexion fonctionne normalement aussi, bien que quelques fournisseurs plafonnent ou bloquent le partage, lisez donc les termes du forfait avant de prévoir de travailler depuis un ordinateur portable ; sur une ligne irakienne émise par opérateur, le partage puise dans le même forfait.
+
+### Quand installer mon profil eSIM Irak avant le vol ?
+
+Chez vous, sur le Wi-Fi domestique, jamais à l'aéroport. Un code QR n'accepte qu'un scan, les files après un long vol sont le pire endroit pour déboguer, et un profil installé à l'avance s'attache tout seul dès qu'il voit un réseau irakien à l'atterrissage. Vérifiez simplement avant de partir que la eSIM est bien votre ligne de données et que l'itinérance des données est activée pour elle.
+
+### Puis-je traverser une frontière terrestre avec mon forfait irakien ?
+
+Le signal s'arrête au poste frontière, point. Un profil Irak-seul ne se connecte à rien une fois passé Trebil, Safwan ou Ibrahim Khalil, et les villes frontalières sont précisément où vous avez besoin de cartes et de réservations. La règle pratique : achetez les données de la suite du voyage — Jordanie, Koweït, Turquie ou Iran — avant de franchir, pas après, et gardez vos cartes hors ligne téléchargées pour le tronçon lui-même.
 
 ## Sources et vérifications eSIM Irak
 
@@ -390,6 +398,6 @@ Les prix d'opérateur et flux eSIM — les forfaits de départ de 3 000 IQD d'As
 
 ## Obtenez votre eSIM Irak en un code QR
 
-Deux régulateurs, trois réseaux, un mouvement simple : atterrissez déjà connecté. La [eSIM Irak](/iraq-esim/) de Roami s'installe en minutes par code QR et roule sur les réseaux partenaires les plus forts à Bagdad et Erbil — pas de file d'enregistrement, pas d'empreinte, pas de dinars à l'arrivée. Commandez-la maintenant à [roamiapp.com](/iraq-esim/) avec le code **WEB20** pour 20 pour cent de réduction sur votre premier forfait, ou vérifiez votre téléphone sur une [eSIM pilote gratuite](/free-esim/) d'abord.
+Deux régulateurs, trois réseaux, un mouvement simple : atterrissez déjà connecté. La [eSIM Irak](/iraq-esim/) de Roami s'installe en minutes par code QR et roule sur les réseaux partenaires les plus forts à Bagdad et Erbil — pas de file d'enregistrement, pas d'empreinte, pas de dinars à l'arrivée. Commandez-la maintenant à [roamiapp.com](/iraq-esim/) avec le code **web20** pour 20 pour cent de réduction sur votre premier forfait, ou vérifiez votre téléphone sur une [eSIM pilote gratuite](/free-esim/) d'abord.
 
-Voulez-vous comparer avant de payer ? L'[eSIM test gratuite](/free-esim/) de Roami couvre le même terrain que les opérateurs ci-dessus en Irak, et **WEB20** rogne 20 % sur votre premier forfait complet. Vous vous interrogez sur la compatibilité ? Une minute avec le [vérificateur](/compatibility/) tranche.
+Voulez-vous comparer avant de payer ? L'[eSIM test gratuite](/free-esim/) de Roami couvre le même terrain que les opérateurs ci-dessus en Irak, et **web20** rogne 20 % sur votre premier forfait complet. Vous vous interrogez sur la compatibilité ? Une minute avec le [vérificateur](/compatibility/) tranche.

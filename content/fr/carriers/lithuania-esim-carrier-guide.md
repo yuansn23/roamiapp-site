@@ -4,7 +4,7 @@ title: "Opérateur eSIM Lituanie : choisir Telia ou Tele2 ?"
 
 description: "Roami compare les opérateurs eSIM Lituanie Telia, Bitė et Tele2 sur la couverture, la vitesse et les prix des forfaits prépayés."
 
-image: "img/esim/carriers/lithuania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/lithuania-esim-carrier-guide.webp"
 
 date: "2026-09-25T20:35:06+00:00"
 
@@ -48,9 +48,9 @@ Commencez par le chiffre qui façonne tout le reste. [L'étude de prix mondiale 
 | Lettonie | USD 3.21 | Plus chère des Baltes |
 | Moyenne mondiale | USD 2.59 | Point de référence |
 
-Pour un voyageur, les données locales bon marché se traduisent en packs prépayés généreux : les opérateurs se concurrencent en entassant des dizaines de gigaoctets dans les packs d'entrée de gamme plutôt qu'en dosant chaque mégaoctet comme le font les opérateurs d'Europe de l'Ouest. Cela signifie aussi qu'un eSIM voyage acheté pour ce marché est tarifé à partir d'une base réellement bon marché — vous ne payez pas de prime pour subventionner un marché domestique cher, comme vous le feriez au Canada ou aux États-Unis.
+Pour un voyageur, les données locales bon marché se traduisent en packs prépayés généreux : les opérateurs se concurrencent en entassant des dizaines de gigaoctets dans les packs d'entrée de gamme plutôt qu'en dosant chaque mégaoctet comme le font les opérateurs d'Europe de l'Ouest. Cela signifie aussi qu'un forfait data voyage acheté pour ce marché est tarifé à partir d'une base réellement bon marché — vous ne payez pas de prime pour subventionner un marché domestique cher, comme vous le feriez au Canada ou aux États-Unis.
 
-Le réseau derrière ces prix est solide. L'[indice mondial Speedtest](https://www.speedtest.net/global-index/lithuania) d'Ookla a mesuré une médiane de téléchargement mobile de 123.17 Mbps en août 2026 — 36e mondial — avec 19 ms de latence, avec un haut débit fixe à 187.94 Mbps. [Digital 2025 : Lituanie de DataReportal](https://datareportal.com/reports/digital-2025-lithuania) compte 3.90 millions de connexions mobiles actives au début 2025, environ 137 % de la population, et 2.55 millions d'internautes (89.5 % de pénétration). Dans un pays de 2.85 millions de personnes, c'est un marché où la connectivité mobile est la règle, pas un luxe.
+Le réseau mobile derrière ces prix est solide. L'[indice mondial Speedtest](https://www.speedtest.net/global-index/lithuania) d'Ookla a mesuré une médiane de téléchargement mobile de 123.17 Mbps en août 2026 — 36e mondial — avec 19 ms de latence, avec un haut débit fixe à 187.94 Mbps. [Digital 2025 : Lituanie de DataReportal](https://datareportal.com/reports/digital-2025-lithuania) compte 3.90 millions de connexions mobiles actives au début 2025, environ 137 % de la population, et 2.55 millions d'internautes (89.5 % de pénétration). Dans un pays de 2.85 millions de personnes, c'est un marché où la connectivité mobile est la règle, pas un luxe.
 
 ## Telia, Bitė ou Tele2 : quelle eSIM choisir ?
 
@@ -72,7 +72,7 @@ Un profil voyage ne vous fait généralement pas choisir de réseau du tout. Il 
 
 ## Qu'est-ce qui coûte moins : local ou eSIM voyage ?
 
-La Lituanie a adopté l'euro en 2015, aussi tout ce qui suit est cité en euros avec un montant approximatif en dollars. Deux choses rendent ce marché inhabituel. D'abord, les packs prépayés sont réellement généreux — un pack de démarrage promotionnel peut porter 33 Go pour moins que le prix d'un café. Ensuite, les packs expirent selon un calendrier, souvent après 30 ou 60 jours, et le prix affiché en ligne est fréquemment une promotion de premier achat qui se renouvelle à un tarif plus élevé.
+La Lituanie a adopté l'euro en 2015, aussi tout ce qui suit est cité en euros avec un montant approximatif en dollars. Deux choses rendent ce marché inhabituel. D'abord, les forfaits de données prépayées sont réellement généreux — un pack de démarrage promotionnel peut porter 33 Go pour moins que le prix d'un café. Ensuite, les packs expirent selon un calendrier, souvent après 30 ou 60 jours, et le prix affiché en ligne est fréquemment une promotion de premier achat qui se renouvelle à un tarif plus élevé.
 
 ### Comment se comparent les opérateurs lituaniens ?
 
@@ -179,7 +179,7 @@ La tarification aéroport suit un schéma cohérent : la carte SIM elle-même es
 
 Chacune de ces voies partage la même procédure : votre passeport sort, est enregistré, et la ligne s'active sur place. Attendez-vous à de petits frais d'activation en plus du prix du pack, et attendez-vous, à l'arrivée tardive — quand les kiosques sont fermés —, à ne trouver que des distributeurs et aucune assistance si quoi que ce soit échoue.
 
-L'alternative ne coûte aucune minute au sol. Un eSIM voyage installé à la maison est déjà provisionné : activez-le à la descente et il s'enregistre sur un réseau lituanien pendant que la file des taxis se forme encore. L'aéroport se trouve à environ quinze minutes de la Vieille Ville en Bolt ou taxi, et les deux applis ont besoin de données fonctionnelles pour être utiles. Si vous n'avez jamais lancé l'installation, le [guide d'activation](/faq/how-to-activate-an-esim/) passe par iOS et Android étape par étape.
+L'alternative ne coûte aucune minute au sol. Un eSIM voyage installé à la maison est déjà provisionné : activez-le à la descente et il s'enregistre sur un réseau lituanien pendant que la file des taxis se forme encore. L'aéroport se trouve à environ quinze minutes de la Vieille Ville en Bolt ou taxi, et les deux applis ont besoin de données fonctionnelles pour être utiles. Si vous n'avez jamais lancé l'installation, le [pas-à-pas d'activation eSIM](/faq/how-to-activate-an-esim/) détaille iOS et Android étape par étape.
 
 ## Quel eSIM Lituanie convient à quel itinéraire ?
 
@@ -229,19 +229,19 @@ Le pays est assez petit pour qu'aucune région ne soit réellement déconnectée
 | Dzūkija et forêts du sud | Adéquate dans les villes comme Alytus, Druskininkai et Varėna | Intérieurs forestiers et routes d'approche vers les villages isolés |
 | Panemunė et vallée du Nemunas | Stable le long de la route rivière | Fonds de vallée et coudes de rivière où le terrain bloque la ligne de vue |
 
-Le schéma est cohérent : la couverture de Lituanie suit les gens, et ses trous se mesurent en centaines de mètres plutôt qu'en dizaines de kilomètres. C'est un problème très différent de celui que vous rencontrez dans les pays de montagne — ici, un trou est un inconfort de cinq minutes, pas une après-midi hors ligne.
+Le schéma est cohérent : quelles que soient les fréquences utilisées, la couverture de Lituanie suit les gens, et ses trous se mesurent en centaines de mètres plutôt qu'en dizaines de kilomètres. C'est un problème très différent de celui que vous rencontrez dans les pays de montagne — ici, un trou est un inconfort de cinq minutes, pas une après-midi hors ligne.
 
 Deux autres points d'arrivée valent la peine d'être connus. **L'aéroport de Kaunas** est la seconde porte du pays, surtout utilisée par les transporteurs low-cost, et se trouve à environ vingt minutes du centre-ville avec le même arrangement que Vilnius : kiosques opérateur dans le hall d'arrivée, un scan passeport, et un distributeur pour qui arrive après la fermeture des comptoirs. **L'aéroport de Palanga** dessert la bande côtière en été, et sa vente de connectivité est la plus mince des trois — un petit kiosque au mieux, et rien hors saison. Si vous y volez, l'argument pour provisionner un profil à la maison est plus fort, pas plus faible, que pour Vilnius.
 
 ## Que devient votre eSIM en Lettonie ou en Pologne ?
 
-Les capitales baltes s'enchaînent si naturellement que la plupart des itinéraires traversent au moins une frontière. Vilnius à Riga est environ quatre heures en car express, et la route de Varsovie descend vers le sud à travers la Pologne en train ou car long-courrier. Ce qui arrive à votre connexion à chaque frontière dépend entièrement du genre de forfait que vous portez.
+Les capitales baltes s'enchaînent si naturellement que la plupart des itinéraires traversent au moins une frontière. Vilnius à Riga est environ quatre heures en car express, et la route de Varsovie descend vers le sud à travers la Pologne en train ou car long-courrier ; si le voyage se poursuit jusqu'à Berlin, le [guide des opérateurs allemands](/carriers/germany-esim-carrier-guide/) couvre cette dernière étape. Ce qui arrive à votre connexion à chaque frontière dépend entièrement du genre de forfait que vous portez.
 
-**Une carte SIM lituanienne achetée localement fonctionne en itinérance.** Les règles de l'UE l'emmènent en Lettonie et Pologne sans coût supplémentaire, dans la limite de l'usage équitable. Une visite touristique à Riga sur un pack acheté à Vilnius est un non-événement.
+**Une carte SIM lituanienne achetée localement fonctionne en itinérance (roaming).** Les règles de l'UE l'emmènent en Lettonie et Pologne sans coût supplémentaire, dans la limite de l'usage équitable. Une visite touristique à Riga sur un pack acheté à Vilnius est un non-événement.
 
-**Un eSIM voyage Lituanie uniquement s'arrête.** Dès que le car traverse la frontière, un forfait limité à la Lituanie n'a aucun droit sur les réseaux lettons ou polonais, et vos données s'éteignent sans cérémonie. Cela surprend plus de voyageurs que tout autre point de cette page, car le forfait a parfaitement fonctionné des jours durant auparavant.
+**Un eSIM voyage Lituanie uniquement s'arrête.** Dès que le car traverse la frontière, un forfait limité à la Lituanie n'a aucun droit sur les réseaux lettons ou polonais, et vos données coupent net. Cela surprend plus de voyageurs que tout autre point de cette page, car le forfait a parfaitement fonctionné des jours durant auparavant.
 
-**Un forfait multi-pays continue de fonctionner.** Un eSIM voyage dont la liste de pays couvre les Baltes et la Pologne — ou un seul [eSIM Europe](/europe-esim/) couvrant tout le trajet — bascule à la frontière sans action de l'utilisateur. Si votre voyage enchaîne Vilnius, Riga et Tallinn, comparez la couverture pays des [forfaits eSIM Lettonie](/latvia-esim/) et [forfaits eSIM Estonie](/estonia-esim/) contre simplement l'achat d'un profil balte ou européen unique, qui gagne généralement sur le prix comme sur la simplicité.
+**Un forfait multi-pays continue de fonctionner.** Un eSIM voyage dont la liste de pays couvre les Baltes et la Pologne — ou un seul [eSIM Europe](/europe-esim/) couvrant tout le trajet — bascule à la frontière sans action de l'utilisateur. Si votre voyage enchaîne Vilnius, Riga et Tallinn, comparez la couverture pays des [forfaits eSIM Lettonie](/latvia-esim/) et [forfaits eSIM Estonie](/estonia-esim/) contre simplement l'achat d'un profil balte ou européen unique, qui gagne généralement sur le prix comme sur la simplicité. Pour creuser chaque marché voisin, nos [comparatifs des opérateurs lettons](/carriers/latvia-esim-carrier-guide/) et [estoniens](/carriers/estonia-esim-carrier-guide/) détaillent réseaux, prix et pièges locaux.
 
 Une note hors UE : la Lituanie borde Kaliningrad et le Bélarus, dont aucun n'apparaît dans la liste de pays d'un forfait grand public, et aucun ne figure sur un itinéraire ordinaire. Un forfait européen multi-pays ne s'y étendra pas, et aucun ajustement de vos réglages ne change cela — traitez ces frontières comme la limite dure de votre carte de couverture.
 
@@ -330,6 +330,14 @@ Peu, par les standards locaux : un week-end à Vilnius brûle rarement 5 Go, et 
 
 À la maison, sur Wi-Fi, avant le vol. Installer à Vilnius signifie concurrencer le Wi-Fi d'aéroport et dépanner sur un téléphone qui reprend encore ses esprits après un vol. Testez le flux sur un essai gratuit d'abord si vous ne l'avez jamais fait.
 
+### Que se passe-t-il si mon forfait s'épuise à mi-voyage ?
+
+Beaucoup de forfaits data réduisent le débit au lieu de couper quand le volume s'épuise, donc le premier symptôme est un téléphone soudain lent — vérifiez le compteur dans l'appli du fournisseur avant de suspecter le réseau. Sur un profil voyage, une recharge se fait depuis l'appli ou le tableau de bord en deux minutes. Sur un pack prépayé local, rechargez par appli, bon ou kiosque avant la fin de la fenêtre de validité, car les packs expirent selon un calendrier et le renouvellement repart souvent à un tarif promotionnel différent.
+
+### Et si j'arrive de nuit à l'aéroport de Vilnius ?
+
+Il reste une vraie option : le bureau de la poste lituanienne dans la salle de réclamation des bagages fonctionne 24 h/24 et vend des packs de démarrage des trois opérateurs — mais l'enregistrement passeport s'applique quand même, et personne ne déboguera votre installation à 2 h du matin. Un profil eSIM installé avant le vol évite le calcul : il s'enregistre sur le réseau dès la descente de l'avion, kiosques ouverts ou non.
+
 ## Sources des chiffres eSIM Lituanie
 
 Les prix par gigaoctet viennent de l'étude mondiale du coût du 1 Go de Cable.co.uk, liée dans la section d'ouverture. Les vitesses médianes nationales et le rang mondial viennent de la page d'indice Lituanie d'Ookla, aussi liée dans la section d'ouverture. Les comptes de connexion, pénétration et contexte de population viennent de Digital 2025 : Lituanie de DataReportal, lié avec ces chiffres. La tarification des packs prépayés reflète les listings opérateur et suivi de prix liés dans la section des prix.
@@ -342,8 +350,8 @@ Les observations au niveau réseau reflètent le positionnement publié et les c
 
 ## Réglez votre ligne Lituanie avant de quitter la maison
 
-Le marché lituanien récompense un peu de planification : trois bons réseaux, données bon marché, et une culture de kiosque aéroport qui punit les voyageurs mal préparés. Provisionnez un eSIM voyage à la maison et toute la couche d'enregistrement passeport disparaît. [Parcourez les forfaits Lituanie de Roami](/lithuania-esim/) pour le réseau et le volume qui correspondent à votre itinéraire, ou [achetez directement](/lithuania-esim/).
+Le marché lituanien récompense un peu de planification : trois bons réseaux, données bon marché, et une culture de kiosque aéroport qui punit les voyageurs mal préparés. Provisionnez votre eSIM Lituanie à la maison et toute la couche d'enregistrement passeport disparaît. [Parcourez les forfaits Lituanie de Roami](/lithuania-esim/) pour le réseau et le volume qui correspondent à votre itinéraire, ou [achetez directement](/lithuania-esim/).
 
 Si vous n'avez jamais lancé une installation, *les primo-acheteurs obtiennent un eSIM d'essai gratuit* — [commencez ici](/free-esim/) — pour confirmer que votre appareil le gère avant de payer.
 
-Où que vous atterrissiez en Lituanie, Roami a un raccourci : un [eSIM d'essai](/free-esim/) qui roule sur les mêmes réseaux que les forfaits locaux, et **WEB20** pour 20 % de réduction sur votre premier forfait payant.
+Où que vous atterrissiez en Lituanie, Roami a un raccourci : un [eSIM d'essai](/free-esim/) qui roule sur les mêmes réseaux que les forfaits locaux, et **web20** pour 20 % de réduction sur votre premier forfait payant.

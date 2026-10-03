@@ -1,9 +1,9 @@
 ---
 title: "Opérateurs eSIM Népal : comparez couverture et prix"
 description: "Roami compare les opérateurs eSIM Népal NTC et Ncell sur la couverture en montagne, la vitesse et les prix des packs data."
-image: "img/esim/carriers/nepal-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nepal-esim-carrier-guide.webp"
 date: "2026-09-24T05:46:15+00:00"
-keywords: Nepal eSIM carriers, Ncell eSIM, Nepal Telecom NTC eSIM, Smart Cell eSIM, Everest Base Camp eSIM, Annapurna eSIM, Nepal network coverage, Nepal eSIM APN, Nepal tourist SIM registration, best eSIM Nepal
+keywords: opérateurs eSIM Népal, eSIM Ncell, eSIM Nepal Telecom NTC, eSIM Smart Cell, eSIM trekking Everest, eSIM tour de l'Annapurna, couverture réseau Népal, APN eSIM Népal, enregistrement SIM touriste Népal, meilleure eSIM Népal
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -16,13 +16,13 @@ hero_subtitle_main: "Ncell, Nepal Telecom (NTC) et Smart Cell — évalués pour
 ---
 
 
-Acheter une eSIM Népal n'est pas une question de « laquelle est la plus rapide en centre-ville » — c'est « quel réseau a encore une barre sur les routes de montagne ». Exactement deux opérateurs méritent la décision ici : Nepal Telecom (NTC, public) et Ncell (privé, Axiata). Un troisième, Smart Cell, se fait à peine remarquer hors du couloir Katmandou–Terai et n'est pas une option pour les visiteurs. Exactement deux opérateurs comptent vraiment ici. Là où le choix se gagne ou se perd, c'est sur les grands itinéraires de montagne — l'Everest Base Camp, le circuit de l'Annapurna, Langtang — où la couverture s'amincit bien avant la fin du parcours. Les sections ci-dessous couvrent ce qu'une eSIM au Népal coûte et où chaque réseau atteint réellement.
+Acheter une eSIM Népal n'est pas une question de « laquelle est la plus rapide en centre-ville » — c'est « quel réseau a encore une barre sur les routes de montagne ». Exactement deux opérateurs méritent la décision ici : Nepal Telecom (NTC, public) et Ncell (privé, Axiata). Un troisième, Smart Cell, se fait à peine remarquer hors du couloir Katmandou–Terai et n'est pas une option pour les visiteurs. Là où le choix se gagne ou se perd, c'est sur les grands itinéraires de montagne — l'approche de l'Everest, le circuit de l'Annapurna, Langtang — où la couverture s'amincit bien avant la fin du parcours. Les sections ci-dessous couvrent ce qu'une eSIM au Népal coûte et où chaque réseau atteint réellement.
 
 **Réponse rapide :** la décision d'opérateur au Népal importe moins que l'achat avant le vol : une eSIM de voyage s'installe avant le départ et bascule d'elle-même entre Ncell et NTC selon le meilleur signal. Première eSIM ? La [procédure d'activation](/faq/how-to-activate-an-esim/) couvre l'installation de bout en bout.
 
 Le support de l'appareil et la mécanique d'installation viennent d'abord — les comparaisons peuvent attendre qu'ils soient clairs. La [liste de compatibilité des appareils](/compatibility/) répond à la première, et [comment un profil eSIM s'installe](/faq/what-is-esim-activation-and-how-does-it-work/) à la seconde — tout ce qui suit reste sur les opérateurs eux-mêmes.
 
-**En bref :** Vous montez vers les hautes vallées (Everest, Annapurna, Langtang) ? **NTC** a l'empreinte la plus large en altitude — ses sites montent plus haut dans les vallées. Vous restez à Katmandou, Pokhara ou les sentiers bas (Lukla, Namche Bazaar) ? **Ncell** est plus rapide en ville et dans les pôles touristiques, et ses forfaits TouristPro sont conçus pour les courts séjours. Tous deux vendent des eSIM aux visiteurs, mais une eSIM locale exige toujours un enregistrement avec passeport et visa à l'aéroport de Katmandou ou à un comptoir NTC/Ncell — il n'y a pas d'option anonyme sans démarche. Smart Cell n'est pas un choix eSIM pratique pour les visiteurs. Évitez la paperasse : l'[essai gratuit Roami](/free-esim/) roule sur les deux réseaux, et le code WEB20 retire 20 % sur les [forfaits eSIM Népal](/nepal-esim/).
+**En bref :** Vous montez vers les hautes vallées (Everest, Annapurna, Langtang) ? **NTC** a l'empreinte la plus large en altitude — ses sites montent plus haut dans les vallées. Vous restez à Katmandou, Pokhara ou les sentiers bas (Lukla, Namche Bazaar) ? **Ncell** est plus rapide en ville et dans les pôles touristiques, et ses forfaits TouristPro sont conçus pour les courts séjours. Tous deux vendent des eSIM aux visiteurs, mais une eSIM locale exige toujours un enregistrement avec passeport et visa à l'aéroport de Katmandou ou à un comptoir NTC/Ncell — il n'y a pas d'option anonyme sans démarche. Smart Cell n'est pas un choix eSIM pratique pour les visiteurs. Évitez la paperasse : l'[essai gratuit Roami](/free-esim/) roule sur les deux réseaux, et le code web20 retire 20 % sur les [forfaits eSIM Népal](/nepal-esim/).
 
 ## Peut-on vraiment acheter une eSIM locale au Népal ?
 
@@ -37,7 +37,7 @@ Le Népal ne vend pas de cartes SIM anonymes. Chaque carte SIM et eSIM est enreg
 
 Comment l'enregistrement fonctionne à l'aéroport international de Tribhuvan, étape par étape :
 
-1. Atterrissez, franchissez l'immigration et le retrait des bagages — les boutiques Ncell et NTC se trouvent ensemble juste après le dernier contrôle douanier, dans la zone couverte à l'extérieur du hall des bagages, et la [visite guidée de l'aéroport de Katmandou par TravelTomTom](https://traveltomtom.net/destinations/asia/nepal/buying-a-nepal-sim-card-at-kathmandu-airport) confirme qu'elles restent ouvertes pour chaque vol international, du petit matin à après minuit.
+1. Atterrissez, franchissez l'immigration et le retrait des bagages — les boutiques Ncell et NTC se trouvent ensemble juste après le dernier contrôle douanier, dans la zone couverte à l'extérieur du hall des bagages, et les visites guidées de l'aéroport de Katmandou confirment qu'elles restent ouvertes pour chaque vol international, du petit matin à après minuit.
 2. Remplissez le formulaire d'enregistrement avec vos coordonnées passeport et la copie visa/tampon d'entrée. Si vous n'avez pas de photo, la boutique en prend une pour environ NPR 50–100.
 3. L'employé enregistre votre passeport dans le système NTA — c'est l'étape obligatoire, pas une formalité.
 4. Payez la carte SIM et le forfait. Les comptoirs d'aéroport acceptent Visa/Mastercard internationales, mais l'espèce doit être en roupies népalaises — dollars US et euros ne sont pas acceptés, changez un petit montant d'abord ou apportez des roupies.
@@ -73,7 +73,7 @@ Ncell est le plus grand opérateur privé du Népal (groupe Axiata) et a bâti s
 | TouristPro Sprinter | Illimité (FUP) | Illimité | 7 jours | NPR 595 | $4,50 |
 | TouristPro Voyager | Illimité | Illimité | 28 jours | NPR 1 995 | $15,00 |
 
-Les prix proviennent de la [comparaison de cartes SIM prépayées Népal de TravelTomTom](https://www.traveltomtom.net/destinations/asia/nepal/best-prepaid-nepal-sim-card-for-tourists) et du [guide Ncell vs NTC pour touristes de Blink Nepal](https://blinknepal.com?p=683/), qui liste aussi la gamme illimitée TouristPro destinée aux visiteurs.
+Les prix proviennent de la comparaison de cartes SIM prépayées Népal de TravelTomTom et du [guide Ncell vs NTC pour touristes de Blink Nepal](https://blinknepal.com?p=683/), qui liste aussi la gamme illimitée TouristPro destinée aux visiteurs.
 
 **Acheter un Ncell en tant que visiteur :**
 
@@ -100,7 +100,7 @@ NTC (Namaste) est l'opérateur public historique et l'opérateur de service univ
 | Forfait aéroport | 12 GB | 60 min | 42 jours | NPR 1 200 | $8,70 |
 | Données boutique ville | 25 GB | — | 28 jours | NPR 800 | $5,80 |
 
-La tarification aéroport et ville est documentée dans la visite guidée TravelTomTom liée ci-dessus — notez que le même forfait ville 25 GB coûte environ le double à l'aéroport, achetez donc les gros volumes en ville si vous pouvez attendre un jour.
+La tarification aéroport et ville est documentée dans la visite guidée TravelTomTom citée plus haut — notez que le même forfait ville 25 GB coûte environ le double à l'aéroport, achetez donc les gros volumes en ville si vous pouvez attendre un jour.
 
 **Acheter une eSIM NTC en tant que visiteur :**
 
@@ -126,7 +126,7 @@ Smart Telecom détient une licence et vend des cartes SIM physiques bon marché 
 - Du temps devant soi en octobre–novembre — les files aux guichets Ncell et NTC de Tribhuvan s'allongent à chaque groupe de touristes qui débarque
 - Le profil installé avant le départ — pour une eSIM de voyage, installez sur le Wi-Fi domestique ; le Wi-Fi d'aéroport est congestionné exactement quand tout le monde atterrit
 
-## Qui sont Ncell, NTC et Smart Cell ?
+## Quel réseau eSIM Népal sur chaque itinéraire ?
 
 La couverture se partage nettement par altitude. Ncell a bâti sa réputation sur une 4G urbaine rapide ; NTC a construit son réseau comme opérateur d'obligation de service universel, ce qui signifie plus de sites le long des vallées reculées et des cols élevés. Sur les itinéraires populaires, le schéma est constant :
 
@@ -160,6 +160,8 @@ Une attente à fixer avant de partir : au-delà d'environ 3 500 m, le goulot d'�
 | Extrême ouest & Dolpo | Effectivement rien | Clairsemé | Planifiez entièrement hors ligne ; domaine messager satellite |
 | Cols élevés au-delà de 5 000 m | Aucun | Aucun | Aucun opérateur ne fonctionne ici — c'est la physique, pas la politique |
 
+La ligne la plus utile de ce tableau est la dernière : passé les 5 000 m, aucun des deux réseaux ne passe — traitez ces journées de col comme du temps hors ligne d'office, quelle que soit l'eSIM achetée.
+
 ## Quelle eSIM Népal convient à votre itinéraire ?
 
 Itinéraires réels, décidés en une ligne chacun — le tableau est le raccourci si vous ne voulez pas lire le détail de couverture ci-dessus.
@@ -168,7 +170,7 @@ Itinéraires réels, décidés en une ligne chacun — le tableau est le raccour
 |:---|:---|:---|:---|
 | Séjour ville Katmandou (Thamel, Patan, Bhaktapur) | Ncell | 4G la plus rapide de la vallée ; TouristPro couvre une semaine facilement | Congestion aux heures de pointe du soir |
 | Pokhara & Lakeside + Sarangkot | Ncell | 4G forte pour appels, cartes et envois | Signal faiblit sur la rive opposée du lac |
-| Trek Everest Base Camp | NTC, Ncell en secours | NTC monte plus haut dans le Khumbu ; Ncell couvre bien Lukla–Namche | Au-dessus de Namche les deux dégradent ; Wi-Fi teahouse satellite et compté |
+| Trek classique du Khumbu (via Lukla–Namche) | NTC, Ncell en secours | NTC monte plus haut dans la vallée ; Ncell couvre bien Lukla–Namche | Au-dessus de Namche les deux dégradent ; Wi-Fi teahouse satellite et compté |
 | Circuit de l'Annapurna | NTC | Signal constant jusqu'à Manang et vers Muktinath | Le col Thorong La est une zone blanche sur les deux |
 | Trek vallée de Langtang | NTC | Seul réseau avec signal dans la vallée | Débits type 2G ; données pour messages, pas streaming |
 | Séjour jungle Parc national de Chitwan | NTC | Lodges et Sauraha mieux couverts que Ncell | Zones de jungle profonde toujours coupées |
@@ -256,7 +258,7 @@ Le support opérateur népalais travaille à partir du registre d'enregistrement
 
 ## Votre eSIM Népal fonctionne-t-elle en Inde ?
 
-Deux réalités frontalières comptent. D'abord, les cartes SIM népalaises ne portent pas de service indien utilisable : dès que vous franchissez à Sunauli–Bhairahawa, Birgunj ou Kakarbhitta, votre forfait données Ncell/NTC s'arrête, et les tarifs d'itinérance internationale s'appliquent. Achetez une [eSIM Inde](/india-esim/) avant la frontière si votre route continue vers le sud. Ensuite, le flux inverse est la raison pour laquelle l'enregistrement népalais est strict — les cartes SIM de contrebande transfrontalières sont une cible de contrôle connue, aussi attendez-vous à ce que le comptoir Ncell/NTC copie précisément votre tampon visa, et gardez le reçu d'enregistrement avec la carte SIM durant tout le voyage. Si vous faites Népal → Inde → Népal en une seule vacance, un forfait régional Asie est généralement plus simple que deux enregistrements locaux.
+Deux réalités frontalières comptent. D'abord, les cartes SIM népalaises ne portent pas de service indien utilisable : dès que vous franchissez à Sunauli–Bhairahawa, Birgunj ou Kakarbhitta, votre forfait données Ncell/NTC s'arrête, et les tarifs d'itinérance (roaming) internationale s'appliquent. Achetez une [eSIM Inde](/india-esim/) avant la frontière si votre route continue vers le sud. Ensuite, le flux inverse est la raison pour laquelle l'enregistrement népalais est strict — les cartes SIM de contrebande transfrontalières sont une cible de contrôle connue, aussi attendez-vous à ce que le comptoir Ncell/NTC copie précisément votre tampon visa, et gardez le reçu d'enregistrement avec la carte SIM durant tout le voyage. Si vous faites Népal → Inde → Népal en une seule vacance, un forfait régional Asie est généralement plus simple que deux enregistrements locaux.
 
 ## Questions fréquentes sur les eSIM Népal
 
@@ -266,7 +268,7 @@ Oui. Ncell et NTC tiennent tous deux des comptoirs ouverts dans la zone d'arriv�
 
 ### Qui possède les opérateurs au Népal ?
 
-Nepal Telecom (NTC) est l'opérateur public historique ; Ncell appartient au groupe privé Axiata. NTC atteint généralement plus haut et plus loin dans les vallées reculées, tandis que Ncell est plus rapide à Katmandou, Pokhara et les étapes comme Lukla et Namche. Au-dessus des villages, aucun n'est garanti — les teahouses vendent le Wi-Fi satellite. Pour l'EBC spécifiquement, NTC est le pari plus sûr pour un signal occasionnel, et nombre de visiteurs portent les deux.
+Nepal Telecom (NTC) est l'opérateur public historique ; Ncell appartient au groupe privé Axiata. NTC atteint généralement plus haut et plus loin dans les vallées reculées, tandis que Ncell est plus rapide à Katmandou, Pokhara et les étapes comme Lukla et Namche. Au-dessus des villages, aucun n'est garanti — les teahouses vendent le Wi-Fi satellite. Sur les zones de trek classiques du Khumbu, NTC offre le plus souvent un signal occasionnel, et nombre de visiteurs portent les deux réseaux ; au-delà des villages, comptez d'abord sur le Wi-Fi des teahouses.
 
 ### Comment enregistrer une carte SIM au Népal ?
 
@@ -288,6 +290,14 @@ Les Visa et Mastercard émises à l'étranger sont acceptées aux comptoirs d'a�
 
 Ncell : vérifiez le solde avec `*901#` et achetez des forfaits via l'appli My Ncell. NTC : vérifiez le solde avec `*400#` et activez les forfaits données via `*1415#`. Les deux comptoirs configureront le premier forfait pour vous.
 
+### Puis-je acheter une eSIM Népal en ligne avant mon départ ?
+
+Pas auprès des opérateurs locaux : Ncell et NTC ne délivrent leurs QR eSIM qu'en boutique, après enregistrement du passeport au comptoir — aucun achat en ligne depuis l'étranger avec un numéro népalais local à la clé. Si vous voulez atterrir déjà connecté, la voie praticable est une eSIM de voyage qui roule sur Ncell et NTC et s'installe sur votre Wi-Fi domestique.
+
+### Faut-il tout acheter à l'aéroport ou attendre Katmandou ?
+
+Les deux se valent pour la ligne, pas pour le prix. L'aéroport a l'avantage de la carte SIM NTC de départ gratuite et des terminaux cartes qui acceptent Visa/Mastercard ; en revanche le même forfait ville 25 GB coûte environ le double au comptoir de Tribhuvan, et les files s'allongent à chaque vol en haute saison (octobre–novembre). Si votre hôtel est facile à trouver, laisser passer une nuit et acheter le gros forfait data en ville peut faire la différence — à condition d'avoir des roupies en espèces, car les boutiques de ville refusent souvent les dollars et les euros.
+
 ### Ncell vs Nepal Telecom NTC 5G : lequel est le meilleur au Népal ?
 
 Les deux : la 5G est lancée depuis 2024 sur Ncell et NTC, couvrant Katmandou, Pokhara et les grandes villes sur les bandes n78/n28. Les voyageurs ne doivent pas compter dessus au-dessus des vallées — la 4G et la 3G sont ce que vous obtenez dans les collines.
@@ -298,7 +308,7 @@ Pour un visiteur, non. Il n'a pas de voie eSIM touristique, aucune présence aé
 
 ### Mon téléphone prendra-t-il une eSIM Népal ?
 
-Il doit être débloqué et compatible eSIM. Vérifiez les deux en une passe avec la [liste de compatibilité des appareils](/compatibility/). Le support de bandes importe moins que l'état de verrouillage pour une installation propre.
+Il doit être débloqué et compatible eSIM. Vérifiez les deux en une passe avec la [liste de compatibilité eSIM](/compatibility/). Le support de bandes importe moins que l'état de verrouillage pour une installation propre.
 
 ### Puis-je utiliser ma carte SIM locale et une eSIM Népal ensemble ?
 
@@ -316,7 +326,7 @@ Plus de questions ? [Explorez la FAQ](/faq/)
 
 ## Sources de ce guide eSIM Népal
 
-- TravelTomTom — la [visite guidée SIM aéroport de Katmandou](https://www.traveltomtom.net/destinations/asia/nepal/buying-a-nepal-sim-card-at-kathmandu-airport) et la [comparaison de cartes SIM prépayées Népal](https://www.traveltomtom.net/destinations/asia/nepal/best-prepaid-nepal-sim-card-for-tourists) derrière les tables de prix Ncell et NTC.
+- TravelTomTom — la visite guidée SIM aéroport de Katmandou et la comparaison de cartes SIM prépayées Népal derrière les tables de prix Ncell et NTC.
 - Blink Nepal — le [guide Ncell vs NTC pour touristes](https://blinknepal.com?p=683/) listant la gamme illimitée TouristPro.
 - Ookla Speedtest Global Index — [la page d'indice Népal](https://www.speedtest.net/global-index/nepal) fournissant le proxy haut débit fixe.
 - Cable.co.uk — [prix des données mondiales](https://www.cable.co.uk/mobiles/worldwide-data-pricing/), source du USD 0,43 par Go du Népal.
@@ -326,16 +336,18 @@ Plus de questions ? [Explorez la FAQ](/faq/)
 
 ## Activez votre eSIM avant de quitter Katmandou
 
-L'eSIM Népal de Roami roule sur NTC et Ncell et se rattache d'elle-même à mesure que vous grimpez de la vallée vers Namche et Manang — aucune visite de comptoir, aucun enregistrement NTA, aucune photo passeport à remettre. Première fois avec nous ? Prenez une eSIM d'essai Népal gratuite sans frais, ou appliquez le code **WEB20** sur un forfait Népal payant pour **20 % de remise**.
+L'eSIM Népal de Roami roule sur NTC et Ncell et se rattache d'elle-même à mesure que vous grimpez de la vallée vers Namche et Manang — aucune visite de comptoir, aucun enregistrement NTA, aucune photo passeport à remettre. Première fois avec nous ? Prenez une eSIM d'essai Népal gratuite sans frais, ou appliquez le code **web20** sur un forfait Népal payant pour **20 % de remise**.
 
 [Obtenez votre eSIM Népal](/nepal-esim/)
 
 [Commencez par l'essai Népal gratuit](/free-esim/)
 
-*L'essai gratuit et la remise WEB20 sont tous deux pour les nouveaux clients Roami.*
+*L'essai gratuit et la remise web20 sont tous deux pour les nouveaux clients Roami.*
 
 Si le voyage continue au-delà du Népal, chaque pays voisin reçoit le même traitement opérateur par opérateur :
 
-- [eSIM Inde](/india-esim/)
+- [l'eSIM pour l'Inde](/india-esim/)
 - [eSIM Bangladesh](/bangladesh-esim/)
 - [eSIM Chine](/china-esim/)
+
+Et pour comparer les réseaux avant de réserver la suite du voyage, consultez [notre comparatif des opérateurs indiens](/carriers/india-esim-carrier-guide/), [le guide eSIM Thaïlande](/carriers/thailand-esim-carrier-guide/), [les réseaux vietnamiens décortiqués](/carriers/vietnam-esim-carrier-guide/) ou [notre guide des eSIM en Europe](/carriers/europe-esim-carrier-guide/).

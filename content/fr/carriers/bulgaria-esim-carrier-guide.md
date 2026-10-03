@@ -4,7 +4,7 @@ title: "Opérateurs eSIM Bulgarie : quel réseau choisir ?"
 
 description: "Roami compare les prix d'A1, Yettel et Vivacom pour une eSIM Bulgarie, de la côte à la montagne, avec la couverture détaillée."
 
-image: "img/esim/carriers/bulgaria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:44:30+00:00"
 
@@ -33,7 +33,7 @@ hero_subtitle_main: "Prix d'A1, Yettel et Vivacom — ce que les dernières donn
 
 
 
-Peu de destinations séparent la question du « meilleur réseau » par la géographie aussi nettement que la Bulgarie. Les chiffres nationaux sont saisissants sur le papier : un téléchargement mobile médian de **203.13 Mbps**, 10e vitesse au monde sur le Speedtest Global Index d'Ookla pour août 2026, et un téléchargement 5G médian de 282.70 Mbps, classé 11e mondial. Les données prépayées locales se vendent en euros depuis le 1er janvier 2026, en quantités que la plupart des opérateurs d'Europe de l'Ouest qualifieraient de généreuses : 15 Go pour moins de 8 €, et 100 Go pour environ 41 €. Alors, quelle eSIM acheter auprès de quel opérateur bulgare ? La réponse dépend presque entièrement de votre carte. Sofia et Plovdiv, la côte de la mer Noire à Varna et Bourgas, et les pistes de ski au-dessus de Bansko se comportent comme trois pays différents. Ce guide compare les trois opérateurs, les prix visiteurs publiés, la couverture de montagne et de côte, les règles transfrontalières et chaque étape d'activation. Entre nos propres lignes de test et les questions que les voyageurs nous envoient, les particularités bulgares à connaître sont toutes couvertes ci-dessous — y compris celles que les opérateurs préféreraient omettre.
+Peu de destinations séparent la question du « meilleur réseau » par la géographie aussi nettement que la Bulgarie. Les chiffres nationaux sont saisissants sur le papier : un téléchargement mobile médian de **203.13 Mbps**, 10e vitesse au monde sur le Speedtest Global Index d'Ookla pour août 2026, et un téléchargement 5G médian de 282.70 Mbps, classé 11e mondial. Les données prépayées locales se vendent en euros depuis le 1er janvier 2026, en quantités que la plupart des opérateurs d'Europe de l'Ouest qualifieraient de généreuses : 15 Go pour moins de 8 €, et 100 Go pour environ 41 €. Alors, quelle eSIM acheter auprès de quel opérateur bulgare ? La réponse dépend presque entièrement de votre carte. Sofia et Plovdiv, la côte de la mer Noire à Varna et Bourgas, et les pistes de ski au-dessus de Bansko se comportent comme trois pays différents. Ce guide eSIM Bulgarie compare les trois opérateurs, les prix visiteurs publiés, la couverture de montagne et de côte, les règles transfrontalières et chaque étape d'activation. Entre nos propres lignes de test et les questions que les voyageurs nous envoient, les particularités bulgares à connaître sont toutes couvertes ci-dessous — y compris celles que les opérateurs préféreraient omettre.
 
 
 
@@ -45,7 +45,7 @@ Un préalable qui vaut dix secondes de votre temps : confirmez que votre apparei
 
 
 
-**Le verdict d'emblée :** L'eSIM A1 Bulgarie est le choix vitesse — la plus rapide du baromètre nPerf 2025 et le pari le plus solide à Sofia, Plovdiv et dans les vallées de ski. L'eSIM Yettel est le seul produit prépayé entièrement en ligne sans enregistrement d'identité — 25 Go pour 10.23 € ou 100 Go pour 40.90 €. L'eSIM Vivacom, émise en boutique, est le cheval de trait de couverture avec la plus grande enveloppe d'itinérance UE, ce qui compte si votre voyage penche vers les Rhodopes ou une boucle plus large des Balkans. Les trois sont bon marché selon les normes de l'UE, et les différences sont le terrain, l'itinérance et la paperasse plutôt que le prix. Vous préférez zéro paperasse ? Le [forfait d'essai gratuit](/free-esim/) roule sur ces mêmes réseaux, et le code **WEB20** retire 20% sur tout [forfait eSIM Bulgarie](/bulgaria-esim/).
+**Le verdict d'emblée :** L'eSIM A1 Bulgarie est le choix vitesse — la plus rapide du baromètre nPerf 2025 et le pari le plus solide à Sofia, Plovdiv et dans les vallées de ski. L'eSIM Yettel est le seul produit prépayé entièrement en ligne sans enregistrement d'identité — 25 Go pour 10.23 € ou 100 Go pour 40.90 €. L'eSIM Vivacom, émise en boutique, est le cheval de trait de couverture avec la plus grande enveloppe d'itinérance UE, ce qui compte si votre voyage penche vers les Rhodopes ou une boucle plus large des Balkans. Les trois sont bon marché selon les normes de l'UE, et les différences sont le terrain, l'itinérance et la paperasse plutôt que le prix. Vous préférez zéro paperasse ? Le [forfait d'essai gratuit](/free-esim/) roule sur ces mêmes réseaux, et le code **web20** retire 20% sur tout [forfait eSIM Bulgarie](/bulgaria-esim/).
 
 
 
@@ -186,6 +186,8 @@ Deux détails valent la peine d'être explicités. Depuis le 1er juillet 2021, l
 - [Forfaits eSIM Turquie](/turkey-esim/)
 
 - [eSIM régionale Europe](/europe-esim/)
+
+Pour comparer les réseaux avant de traverser une de ces frontières, nos guides opérateurs détaillent chaque voisin : la [comparaison des réseaux roumains](/carriers/romania-esim-carrier-guide/), le [récapitulatif des opérateurs grecs](/carriers/greece-esim-carrier-guide/), le [guide des réseaux turcs](/carriers/turkey-esim-carrier-guide/) et le [panorama des opérateurs de Macédoine du Nord](/carriers/north-macedonia-esim-carrier-guide/).
 
 
 
@@ -421,7 +423,7 @@ Installez chaque profil en Wi-Fi à votre hôtel, pas dans le hall de l'aéropor
 
 
 
-Votre eSIM hérite de ce que la cellule la plus proche peut donner, et les moyennes nationales flattent chaque pays. La médiane de 203.13 Mbps est un chiffre urbain déguisé. Ce qui suit est la réalité terrain par terrain pour les trois réseaux.
+Votre eSIM hérite de ce que la cellule la plus proche du réseau mobile peut donner, et les moyennes nationales flattent chaque pays. La médiane de 203.13 Mbps est un chiffre urbain déguisé. Ce qui suit est la réalité terrain par terrain pour les trois réseaux.
 
 
 
@@ -514,6 +516,9 @@ Les trois opérateurs couvrent les stations sur le papier — A1 nomme Bansko, B
 | Trains et bus intercités | Les trains BDZ n'embarquent pas de Wi-Fi |
 
 
+Retenez du tableau que seules Sofia, Plovdiv, Varna et Bourgas alignent les trois opérateurs à pleine force — dans des villes comme Ruse ou Stara Zagora, il n'y en a souvent qu'un ou deux, ce qui fait toute la différence pour un profil multi-réseaux.
+
+
 
 ## Comment recharger une eSIM Bulgarie ?
 
@@ -551,7 +556,7 @@ Les tickets existent en coupures de 5, 10, 20 et 30 leva, certains opérateurs �
 
 
 
-L'installation générique — Réglages, Ajouter une eSIM, scanner le code QR, nommer la ligne, la définir comme ligne de données, activer l'itinérance des données — est identique partout et couverte dans notre [guide pas à pas d'activation](/faq/how-to-activate-an-esim/). Ce qui suit sont les quatre schémas de panne que les réseaux bulgares produisent réellement.
+L'installation générique — Réglages, Ajouter une eSIM, scanner le code QR, nommer la ligne, la définir comme ligne de données, activer l'itinérance des données — est identique partout et couverte dans notre [tutoriel d'activation eSIM](/faq/how-to-activate-an-esim/). Ce qui suit sont les quatre schémas de panne que les réseaux bulgares produisent réellement.
 
 
 
@@ -571,7 +576,7 @@ L'installation générique — Réglages, Ajouter une eSIM, scanner le code QR, 
 
 
 
-### FAQ eSIM Bulgarie
+### L'essentiel à avoir sous la main en cas de panne
 
 
 
@@ -635,7 +640,7 @@ Pour modifier ces valeurs sur iPhone, allez à Réglages → Données cellulaire
 
 
 
-Pas automatiquement. Les eSIM data uniquement comme les forfaits 25 Go et 100 Go de Yettel ne sont valables qu'en Bulgarie et n'incluent aucune itinérance. Les forfaits Vivacom portent une petite enveloppe de données UE (environ 9–17 Go selon le pack), et les forfaits voix enregistrés avec pièce d'identité peuvent inclure des minutes UE. Pour un vrai voyage transfrontalier, achetez un forfait régional.
+Pas automatiquement. Les eSIM data uniquement comme les forfaits data de 25 Go et 100 Go de Yettel ne sont valables qu'en Bulgarie et n'incluent aucune itinérance. Les forfaits Vivacom portent une petite enveloppe de données UE (environ 9–17 Go selon le pack), et les forfaits voix enregistrés avec pièce d'identité peuvent inclure des minutes UE. Pour un vrai voyage transfrontalier, achetez un forfait régional.
 
 
 
@@ -643,7 +648,7 @@ Pas automatiquement. Les eSIM data uniquement comme les forfaits 25 Go et 100 Go
 
 
 
-Aucun si votre forfait inclut le roam-like-at-home : votre enveloppe nationale fonctionne alors ici sans supplément, sous réserve de la limite d'usage équitable de votre opérateur. Les visiteurs venus de hors UE n'ont pas ce droit — leur ligne nationale itinera au tarif de son opérateur d'origine, et un forfait local est presque toujours la voie la moins chère.
+Aucun si votre forfait inclut le roam-like-at-home : votre enveloppe nationale fonctionne alors ici sans supplément, sous réserve de la limite d'usage équitable de votre opérateur. Les visiteurs venus de hors UE n'ont pas ce droit — leur ligne nationale itinera (roaming) au tarif de son opérateur d'origine, et un forfait local est presque toujours la voie la moins chère.
 
 
 
@@ -727,6 +732,14 @@ Oui, si votre forfait porte une enveloppe UE — et activez bien l'itinérance d
 
 
 
+### Puis-je installer le profil maintenant pour un voyage dans trois semaines ?
+
+Oui — l'horloge de validité démarre à votre première session internet en Bulgarie, pas à l'achat. Installez le profil chez vous en Wi-Fi, laissez la ligne désactivée, et elle s'activera à l'atterrissage ; seuls les jours illimités de Yettel commencent à courir à cette première connexion.
+
+### Y a-t-il du Wi-Fi dans les trains bulgares ?
+
+Non — les trains BDZ n'embarquent pas de Wi-Fi, et le signal le long des lignes est inégal entre les gares. Téléchargez billets, cartes et divertissements avant de monter à bord ; c'est l'un des rares trajets du pays où même la meilleure eSIM ne promet rien.
+
 ## Nos sources
 
 
@@ -753,9 +766,9 @@ Chaque statistique ici est un chiffre daté de tiers ou publié par un opérateu
 
 
 
-La Bulgarie récompense les préparés : les réseaux sont rapides, les prix comptent parmi les plus bas de l'UE, et la seule vraie variable est le terrain. Configurez un profil qui vous suit des pavés jaunes de Sofia à un matin de février à Bansko sans second achat — [l'eSIM Bulgarie de Roami](/bulgaria-esim/) bascule automatiquement entre A1, Yettel et Vivacom. Les nouveaux clients peuvent partir avec une [eSIM d'essai gratuite](/free-esim/), et le code **WEB20** retire 20% sur votre premier forfait.
+La Bulgarie récompense les préparés : les réseaux sont rapides, les prix comptent parmi les plus bas de l'UE, et la seule vraie variable est le terrain. Configurez un profil qui vous suit des pavés jaunes de Sofia à un matin de février à Bansko sans second achat — [l'eSIM Bulgarie de Roami](/bulgaria-esim/) bascule automatiquement entre A1, Yettel et Vivacom. Les nouveaux clients peuvent partir avec une [eSIM d'essai gratuite](/free-esim/), et le code **web20** retire 20% sur votre premier forfait.
 
 
 
-Le jeu pratique : testez d'abord avec l'[eSIM d'essai gratuite](/free-esim/) de Roami — elle utilise la même infrastructure que les réseaux locaux — puis verrouillez un forfait Roami payant avec le code **WEB20** pour 20% de réduction si la Bulgarie devient une destination régulière.
+Le jeu pratique : testez d'abord avec la [carte d'essai gratuite](/free-esim/) de Roami — elle utilise la même infrastructure que les réseaux locaux — puis verrouillez un forfait Roami payant avec le code **web20** pour 20% de réduction si la Bulgarie devient une destination régulière.
 

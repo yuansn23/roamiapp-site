@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Biélorussie : quel réseau choisir ?"
 description: "Roami compare A1, MTS et life:) pour votre eSIM Biélorussie, avec les règles de paiement et d'enregistrement avant le départ."
-image: "img/esim/carriers/belarus-esim-carrier-guide.jpg"
+image: "img/esim/carriers/belarus-esim-carrier-guide.webp"
 date: "2026-09-27T10:31:51+00:00"
 keywords: eSIM Biélorussie, opérateurs eSIM Biélorussie, données haut débit, A1 Biélorussie, MTS, life:), eSIM voyage, sans frais d'itinérance, Minsk, Avenue de l'Indépendance
 site_name: Roami
@@ -15,7 +15,7 @@ hero_badge: "A1 ou MTS ? Choisir un réseau biélorusse"
 hero_subtitle_main: "A1, MTS et life:) — évalués sur ce qu'un visiteur peut réellement acheter, enregistrer et payer"
 ---
 
-Une eSIM Biélorussie récompense une première question différente de celle que posent les classements de vitesse : les données locales sont exceptionnellement bon marché, et ce guide montre où se cache le piège. La plupart des guides eSIM classent les pays par vitesse. La Biélorussie récompense d'abord une question différente. Les données locales sont exceptionnellement bon marché — l'indice de Cable.co.uk portant sur 237 marchés place 1 Go à environ **USD 0.67**, soit la 66e place mondiale — alors que la médiane mobile de téléchargement n'était que de **18.55 Mbps** fin 2025, selon DataReportal. Nous tenons cette page Biélorussie à jour à mesure que les politiques des opérateurs évoluent, car le pire conseil en technologie de voyage est un guide que personne n'a touché depuis deux ans.
+Une eSIM Biélorussie récompense une première question différente de celle que posent les classements de vitesse. Les données locales sont exceptionnellement bon marché — l'indice de Cable.co.uk portant sur 237 marchés place 1 Go à environ **USD 0.67**, soit la 66e place mondiale — alors que la médiane mobile de téléchargement n'était que de **18.55 Mbps** fin 2025, selon DataReportal. Nous tenons cette page Biélorussie à jour à mesure que les politiques des opérateurs évoluent, car le pire conseil en technologie de voyage est un guide que personne n'a touché depuis deux ans.
 
 Le réseau n'est pas le problème. Chaque SIM vendue dans le pays est enregistrée au nom d'un passeport, et les cartes de votre portefeuille peuvent ne pas fonctionner à la caisse. En Biélorussie, la paperasse est le produit, et environ **11.4 millions** de connexions mobiles desservent ce marché.
 
@@ -76,6 +76,8 @@ Les témoignages de voyageurs de fin 2025 sont plus optimistes — plusieurs dé
 | Application ou site web de l'opérateur | Paiement par carte directement à l'opérateur | Seulement avec une carte locale | Une carte émise en Biélorussie |
 | Boutique de marque de l'opérateur | Le personnel traite la recharge au comptoir | Oui | Des espèces, et le passeport au nom duquel la ligne est enregistrée |
 | Revendeur en ligne international | Un service tiers qui recharge un numéro biélorusse depuis l'étranger | Oui | Une carte ou un portefeuille étranger, et le numéro correct |
+
+En une phrase : changez vos dollars ou euros en roubles à l'arrivée, et tout le reste — boutique, bon de recharge, kiosque ЕРИП — se règle en espèces locales.
 
 ### Pourquoi les bons de recharge exigent-ils une boutique ?
 
@@ -182,7 +184,7 @@ Les capitales fonctionnent donc à environ le double de la médiane nationale, e
 
 ### Comment la couverture varie-t-elle par région ?
 
-Si vous avez passé une journée à conduire entre villes régionales, une connexion rampante est de la géographie plutôt qu'une panne : vous êtes descendu de la 4G urbaine sur une cellule basse fréquence distante. Déplacez-vous vers une agglomération ou une route principale plutôt que de reconfigurer le téléphone.
+Si vous avez passé une journée à conduire entre villes régionales, une connexion rampante est de la géographie plutôt qu'une panne : vous êtes descendu de la 4G urbaine sur une cellule basse fréquence éloignée du réseau mobile. Déplacez-vous vers une agglomération ou une route principale plutôt que de reconfigurer le téléphone.
 
 Les sources divergent poliment sur la profondeur rurale, alors voici la forme honnête des choses :
 
@@ -224,7 +226,7 @@ La Biélorussie n'est pas dans l'UE, et aucun cadre européen d'itinérance ne l
 
 La seule frontière où votre eSIM biélorusse continue de fonctionner dans des conditions ordinaires est celle de l'est. La Russie et la Biélorussie ont définitivement aboli les frais d'itinérance entre elles à partir du **1er mars 2025**, en vertu d'une résolution de l'État de l'Union convenue à Minsk en décembre 2024. La garantie est d'au moins **300 minutes de voix** — 150 sortantes, 150 entrantes — plus **5 Go de données par mois** à des tarifs de niveau national, avec des données supplémentaires autour de 4 roubles biélorusses le gigaoctet. Les appels entrants de l'État de l'Union étaient gratuits depuis avril 2022.
 
-Deux remarques pratiques. L'accord couvre les abonnés des opérateurs des deux pays, donc il n'aide pas un visiteur tenant une SIM européenne ou américaine — pour ceux-là, les deux pays sont simplement de l'itinérance chère. Et un forfait UE acheté pour une étape balte ne portera pas en Biélorussie, car le roam-like-at-home s'applique aux résidents de l'UE voyageant dans l'UE et l'EEE. Vos options de l'autre côté de la frontière sont un profil séparé par pays, ou un forfait régional qui nomme explicitement la Biélorussie.
+Deux remarques pratiques. L'accord couvre les abonnés des opérateurs des deux pays, donc il n'aide pas un visiteur tenant une SIM européenne ou américaine — pour ceux-là, les deux pays sont simplement du roaming hors de prix. Et un forfait UE acheté pour une étape balte ne portera pas en Biélorussie, car le roam-like-at-home s'applique aux résidents de l'UE voyageant dans l'UE et l'EEE. Vos options de l'autre côté de la frontière sont un profil séparé par pays, ou un forfait régional qui nomme explicitement la Biélorussie.
 
 💡 Si la Biélorussie est une étape sur un itinéraire plus long, la même analyse sourcée existe pour chaque voisin — et aucun ne partage un forfait avec la Biélorussie :
 
@@ -233,6 +235,8 @@ Deux remarques pratiques. L'accord couvre les abonnés des opérateurs des deux 
 - [Forfaits eSIM Pologne](/poland-esim/)
 - [eSIM pour l'Ukraine](/ukraine-esim/)
 - [Forfaits eSIM Russie](/russia-esim/)
+
+Et pour comparer réseau par réseau avant de traverser une de ces frontières, nos guides opérateurs détaillent chaque marché : le [comparatif des opérateurs lituaniens](/carriers/lithuania-esim-carrier-guide/), le [réseau mobile letton passé au crible](/carriers/latvia-esim-carrier-guide/), le [guide des opérateurs ukrainiens](/carriers/ukraine-esim-carrier-guide/) et le [panorama des réseaux russes](/carriers/russia-esim-carrier-guide/).
 
 ## Combien coûte une eSIM Biélorussie par semaine ou par mois ?
 
@@ -304,7 +308,11 @@ Pas comme produit à distance. MTS prend en charge l'eSIM sur son réseau, et se
 
 ### Quelle enveloppe de données convient pour un voyage en Biélorussie ?
 
-Généralement non, avec des exceptions. Les Visa et Mastercard émises à l'étranger sont largement inutilisables depuis 2022 sous les sanctions contre les banques biélorusses, bien que certains voyageurs de 2025 signalent des succès aux distributeurs et au sans contact à Minsk. Prévoyez des espèces pour tout achat ou recharge local, et payez votre eSIM Biélorussie avant le départ.
+Pour une semaine de cartes, de messagerie et de partage de connexion occasionnel vers un ordinateur, 10 Go suffisent largement — c'est justement la taille des forfaits eSIM voyage usuels (environ USD 12–27 pour 30 jours ici). Les forfaits touristiques locaux sont illimités pour environ 30–40 BYN le mois, mais cet avantage ne paie la friction que si vous restez au-delà de deux semaines.
+
+### Quelles vérifications IMEI et EID faire ?
+
+Composez `*#06#` : si un EID s'affiche, l'appareil accepte un profil eSIM. Côté radio, les bandes LTE biélorusses — 3, 7 et 20 — sont des bandes européennes standard, donc quasiment tout téléphone récent vendu en Europe est compatible ; confirmez seulement l'absence de verrouillage opérateur. Le modèle exact se vérifie sur la [page de compatibilité](/compatibility/).
 
 ### Quels forfaits de données sont les moins chers ?
 
@@ -326,15 +334,15 @@ Si vous restez plus de dix jours, oui. L'enregistrement se fait dans les dix jou
 
 Si c'est une SIM d'opérateur biélorusse, pratiquement oui : les deux pays ont aboli les frais d'itinérance le 1er mars 2025, garantissant au moins 300 minutes de voix et 5 Go par mois à des conditions de niveau national. Une eSIM voyage achetée hors de Biélorussie est un autre contrat — vérifiez si le forfait de votre fournisseur nomme la Russie avant de supposer qu'elle porte.
 
-### Quelles vérifications IMEI et EID faire ?
+### Puis-je payer SIM et recharges avec ma carte étrangère ?
 
-Presque certainement, s'il est débloqué et compatible eSIM. Les bandes LTE — 3, 7 et 20 — sont des bandes européennes standard, et la 5G utilise n78 à 3500 MHz. Vérifiez le modèle sur la [page de compatibilité](/compatibility/) et confirmez d'abord qu'il n'y a pas de verrouillage opérateur.
+Généralement non, avec des exceptions. Les Visa et Mastercard émises à l'étranger sont largement inutilisables depuis 2022 sous les sanctions contre les banques biélorusses, bien que certains voyageurs de 2025 signalent des succès aux distributeurs et au sans contact à Minsk. Prévoyez des espèces pour tout achat ou recharge local, et payez votre eSIM Biélorussie avant le départ.
 
 ### Dois-je enregistrer une eSIM voyage en Biélorussie ?
 
 Non. L'exigence d'enregistrement des SIM s'applique aux SIM vendues en Biélorussie par les opérateurs locaux. Un profil eSIM voyage est émis et payé hors du pays, donc rien n'est enregistré localement.
 
-### Comment fonctionnent les forfaits biélorusses ?
+### Puis-je garder ma SIM domestique active avec une eSIM Biélorussie ?
 
 Oui, et c'est la configuration sensée. Gardez votre SIM nationale active pour les appels et les codes bancaires, pointez les données mobiles vers la ligne eSIM, et désactivez l'itinérance sur la ligne nationale pour que le trafic en arrière-plan ne vous facture pas.
 
@@ -345,6 +353,14 @@ Les prix signalés jusqu'en 2025 se regroupent autour de **30–40 BYN** (enviro
 ### À quel point une eSIM Biélorussie fonctionne-t-elle sous terre et en intérieur ?
 
 Mieux que la moyenne nationale ne le suggère, sur les deux plans. Les quais du métro de Minsk ont une couverture continue sur les trois réseaux, avec la courte coupure habituelle entre les stations. En intérieur, la bande 20 à 800 MHz porte la majeure partie de la charge : elle pénètre bien les murs mais fonctionne plus lentement que les bandes 3 et 7. Dans les bâtiments anciens en maçonnerie, attendez-vous à ce qu'une eSIM Biélorussie tienne à basse vitesse plutôt qu'à disparaître.
+
+### Puis-je installer mon eSIM au Wi-Fi de l'aéroport de Minsk ?
+
+C'est possible mais déconseillé : le Wi-Fi des arrivées est précisément l'endroit où le téléchargement d'un profil échoue le plus, entre la foule et la connexion capricieuse. Installez le profil chez vous, en Wi-Fi stable, et contentez-vous à l'atterrissage d'activer la ligne et l'itinérance des données.
+
+### Puis-je payer en euros ou en dollars au comptoir ?
+
+Non directement : les billets en USD ou EUR doivent d'abord être échangés en roubles biélorusses dans une banque ou un bureau de change agréé — apportez des billets propres, non endommagés. Une fois en roubles, tout se règle en espèces : boutique de l'opérateur, bon de recharge, kiosque ЕРИП. Les données prépayées locales sont bon marché, mais uniquement pour celui qui a du cash.
 
 ## Nos sources
 
@@ -362,7 +378,7 @@ Mesures de tiers uniquement, selon des calendriers que nous ne contrôlons pas. 
 
 ## Comment installer votre eSIM ?
 
-Les données du pays comptent parmi les moins chères mesurées n'importe où ; la bureaucratie est ce que vous payez pour contourner. Configurez le profil à la maison en Wi-Fi, atterrissez à Minsk déjà connecté, et gardez votre passeport pour tout le reste. Commencez par un [essai avant achat](/free-esim/) pour tester votre téléphone, puis [choisissez votre forfait eSIM Biélorussie](/belarus-esim/) — les premières commandes bénéficient de 20 pour cent de réduction avec le code **WEB20**.
+Les données du pays comptent parmi les moins chères mesurées n'importe où ; la bureaucratie est ce que vous payez pour contourner. Configurez le profil à la maison en Wi-Fi, atterrissez à Minsk déjà connecté, et gardez votre passeport pour tout le reste. Commencez par un [essai avant achat](/free-esim/) pour tester votre téléphone, puis [choisissez votre forfait eSIM Biélorussie](/belarus-esim/) — les premières commandes bénéficient de 20 pour cent de réduction avec le code **web20**.
 
 [Achetez votre eSIM Biélorussie maintenant](/belarus-esim/)
 
@@ -370,4 +386,4 @@ Les données du pays comptent parmi les moins chères mesurées n'importe où ; 
 
 [Essai eSIM gratuit](/free-esim/)
 
-Le conseil de Roami est simple : atterrissez connecté. Commencez par la [carte d'essai gratuite](/free-esim/) pour tester la couverture des réseaux locaux sans risque, puis utilisez le code **WEB20** sur un forfait Roami complet quand l'essai vous a convaincu.
+Le conseil de Roami est simple : atterrissez connecté. Commencez par la [carte d'essai gratuite](/free-esim/) pour tester la couverture des réseaux locaux sans risque, puis utilisez le code **web20** sur un forfait Roami complet quand l'essai vous a convaincu.

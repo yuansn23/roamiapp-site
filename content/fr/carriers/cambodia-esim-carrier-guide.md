@@ -4,7 +4,7 @@ title: "Quel opérateur eSIM Cambodge choisir pour voyager ?"
 
 description: "Roami compare Smart, Cellcard et Metfone pour votre eSIM Cambodge : 5G à Phnom Penh, vitesse, couverture et prix jusqu'aux îles."
 
-image: "img/esim/carriers/cambodia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cambodia-esim-carrier-guide.webp"
 
 date: "2026-09-27T22:36:03+00:00"
 
@@ -91,7 +91,7 @@ Il vaut la peine d'être précis sur ce que la nouvelle 5G cambodgienne change e
 
 
 
-**Traverser les frontières du Mékong.** Les passages terrestres du Cambodge — Poipet vers la Thaïlande, Bavet vers le Vietnam — sont là où un profil réservé au Cambodge cesse discrètement de fonctionner, et aucun des deux voisins ne vend de pass journaliers cléments au guichet. Si votre itinéraire enchaîne Bangkok, Siem Reap et Ho Chi Minh-Ville, planifiez-le avec une [eSIM Thaïlande](/thailand-esim/) et une [eSIM Vietnam](/vietnam-esim/) plutôt que de miser sur un seul profil pour toute la boucle.
+**Traverser les frontières du Mékong.** Les passages terrestres du Cambodge — Poipet vers la Thaïlande, Bavet vers le Vietnam — sont là où un profil réservé au Cambodge cesse discrètement de fonctionner, et aucun des deux voisins ne vend de pass journaliers cléments au guichet. Si votre itinéraire enchaîne Bangkok, Siem Reap et Ho Chi Minh-Ville, planifiez-le avec une [eSIM Thaïlande](/thailand-esim/) et une [eSIM Vietnam](/vietnam-esim/) plutôt que de miser sur un seul profil pour toute la boucle. Notre [comparatif des opérateurs eSIM au Vietnam](/carriers/vietnam-esim-carrier-guide/) détaille les réseaux de l'autre côté de Bavet.
 
 
 
@@ -243,7 +243,7 @@ Les chiffres 2025 du Cambodge de DataReportal montrent 10.8 millions d'utilisate
 
 
 
-## Comment installer votre eSIM avant de partir ?
+## Comment installer votre eSIM Cambodge avant de partir ?
 
 
 
@@ -335,7 +335,7 @@ Deux particularités propres au Cambodge valent d'être connues. Certains appare
 
 
 
-La règle d'enregistrement est la partie qui change le calcul. Elle signifie qu'un passeport est une exigence ferme, elle signifie qu'une SIM d'étal de marché est enregistrée à votre nom plutôt qu'anonyme, et elle signifie que les dix minutes que vous passez dans une file sont inévitables. Une eSIM voyage saute la file entièrement — et pour un itinéraire temples-et-îles, c'est généralement le bon marché.
+À retenir du tableau ci-dessus : le comptoir de l'aéroport est le plus simple mais le plus cher, et la ville l'inverse — dans les deux cas, la règle d'enregistrement est la partie qui change le calcul. Elle signifie qu'un passeport est une exigence ferme, elle signifie qu'une SIM d'étal de marché est enregistrée à votre nom plutôt qu'anonyme, et elle signifie que les dix minutes que vous passez dans une file sont inévitables. Une eSIM voyage saute la file entièrement — et pour un itinéraire temples-et-îles, c'est généralement le bon marché.
 
 
 
@@ -433,7 +433,7 @@ Le schéma à intérioriser est que la connectivité du Cambodge est **front-cha
 
 
 
-Deux pièges précis valent d'être nommés. **Les pontons de bateaux et de bacs** sont là où les réservations doivent être confirmées et là où une connexion perdue coûte une place sur la prochaine traversée, donc confirmez le transport la veille plutôt que dix minutes avant. Et **les frontières terrestres** à Poipet et Bavet sont là où un profil mono-pays meurt sans avertissement — si l'itinéraire enchaîne Bangkok, Siem Reap et Ho Chi Minh-Ville, notre [guide eSIM Thaïlande](/carriers/thailand-esim-carrier-guide/) et [page eSIM Vietnam](/vietnam-esim/) couvrent les étapes de part et d'autre.
+Deux pièges précis valent d'être nommés. **Les pontons de bateaux et de bacs** sont là où les réservations doivent être confirmées et là où une connexion perdue coûte une place sur la prochaine traversée, donc confirmez le transport la veille plutôt que dix minutes avant. Et **les frontières terrestres** à Poipet et Bavet sont là où un profil mono-pays meurt sans avertissement — si l'itinéraire enchaîne Bangkok, Siem Reap et Ho Chi Minh-Ville, notre [guide eSIM Thaïlande](/carriers/thailand-esim-carrier-guide/) et [page eSIM Vietnam](/vietnam-esim/) couvrent les étapes de part et d'autre. Si la boucle s'étire ensuite jusqu'à Singapour ou la Malaisie, notre [guide des réseaux eSIM à Singapour](/carriers/singapore-esim-carrier-guide/) et [le comparatif eSIM Malaisie](/carriers/malaysia-esim-carrier-guide/) prennent le relais.
 
 
 
@@ -465,7 +465,7 @@ Le piège, c'est d'acheter un profil mono-pays pour une boucle à trois pays et 
 
 
 
-### Smart Axiata vs Cellcard 5G : lequel est meilleur au Cambodge ?
+### La 5G couvre-t-elle déjà tout le Cambodge ?
 
 
 
@@ -497,7 +497,7 @@ L'exigence d'enregistrement s'attache à l'activation des SIM locales ; un profi
 
 
 
-### Comment configurer une eSIM Cambodge ?
+### Peut-on jouer en ligne ou appeler en vidéo avec une eSIM Cambodge ?
 
 
 
@@ -505,7 +505,7 @@ Oui, dans les villes. La latence de 37 ms de Smart (S1 2025) est excellente pour
 
 
 
-### Comment activer une eSIM Cambodge ?
+### Peut-on réinstaller une eSIM Cambodge si le code QR est perdu ?
 
 
 
@@ -513,7 +513,7 @@ Dans la plupart des cas, oui, en re-scannant le code QR d'origine stocké dans v
 
 
 
-### Faut-il planifier son voyage autour de la 5G au Cambodge ?
+### Peut-on télétravailler deux semaines depuis Siem Reap ?
 
 
 
@@ -529,7 +529,7 @@ Smart Axiata pour la plupart des voyageurs : il mène la Disponibilité 5G à 31
 
 
 
-### Où la 5G fonctionne-t-elle le mieux au Cambodge ?
+### Cellcard ou Smart : qui offre la meilleure 5G au quotidien ?
 
 
 
@@ -537,7 +537,7 @@ Parce que le pic et la constance sont des choses différentes. Le téléchargeme
 
 
 
-### Qui est le leader 5G au Cambodge ?
+### Les vitesses 5G actuelles vont-elles durer ?
 
 
 
@@ -545,7 +545,7 @@ Attendez-vous à ce qu'ils tombent. La médiane du T1 2026 de 356.63 Mbps reflè
 
 
 
-### Où acheter une eSIM Cambodge ?
+### Où acheter une carte SIM prépayée locale ?
 
 
 
@@ -577,7 +577,7 @@ Non — un profil mono-pays s'arrête à la frontière. Les passages terrestres 
 
 
 
-### Comment fonctionnent les forfaits cambodgiens ?
+### Combien de données prépayées prévoir pour un séjour à Siem Reap ?
 
 
 
@@ -609,19 +609,19 @@ Aucune n'atteint les îles de manière fiable — Koh Rong et Koh Rong Sanloem s
 
 
 
-### Quelle eSIM Cambodge convient à votre voyage ?
+### Que faire si l'eSIM ne se connecte pas à l'aéroport de Phnom Penh ?
 
 
 
-Oui. Un profil réservé au Cambodge cesse de fonctionner au passage de Poipet, et acheter une ligne thaïe à la frontière n'est ni rapide ni bon marché. Achetez soit un forfait régional Asie du Sud-Est d'avance, soit portez des profils séparés pour chaque pays avant de partir.
+Trois réflexes dans l'ordre. D'abord, vérifiez que l'itinérance des données est activée pour la ligne eSIM — c'est le coupable le plus fréquent. Ensuite, forcez la sélection manuelle du réseau mobile (Smart ou Cellcard selon votre forfait) au lieu d'attendre la sélection automatique. Enfin, basculez le mode avion dix secondes pour forcer un enregistrement frais. Le Wi-Fi des arrivées de Phnom Penh fonctionne mais reste trop lent pour déboguer un profil : faites ces vérifications à la maison avant le vol.
 
 
 
-### Que vaut la 5G de chaque opérateur ?
+### Le Wi-Fi des cafés et des hôtels suffit-il au Cambodge ?
 
 
 
-Probablement pas aussi vite que les chiffres du T1 2026 le suggèrent, et c'est attendu plutôt qu'un avertissement. La médiane nationale de 356.63 Mbps a été mesurée sur un réseau avec une petite base d'utilisateurs de premiers adoptants sur des sites en bande C fraîchement construits ; la lecture d'Ookla elle-même est que les vitesses déclinent à mesure que l'adoption s'élargit. Le classement des opérateurs devrait aussi se comprimer.
+Pour la messagerie et les cartes, presque toujours. Les maisons d'hôtes et les espaces de coworking de Phnom Penh et Siem Reap tournent sur des FAI fixes comme MekongNet, donc le Wi-Fi de l'hébergement est rarement la contrainte — c'est sur les îles et dans les transports que l'eSIM prend le relais. Le bon usage est complémentaire : le Wi-Fi fixe pour les envois lourds le soir, le forfait data de l'eSIM pour la mobilité en journée.
 
 
 
@@ -633,7 +633,7 @@ Les opérateurs ont allumé 767 sites 5G à travers les trois réseaux le jour d
 
 
 
-### Quels forfaits cambodgiens pour économiser ?
+### La SIM locale est-elle moins chère que l'eSIM voyage ?
 
 
 
@@ -641,11 +641,11 @@ Par gigaoctet, oui, généralement par un facteur de deux ou plus. La différenc
 
 
 
-### Combien coûtent les forfaits eSIM Cambodge ?
+### Vaut-il mieux acheter son forfait avant de partir ou sur place ?
 
 
 
-Avant de partir, sauf si vous aimez négocier à un comptoir d'aéroport. L'exigence d'enregistrement du Cambodge signifie que la voie sur place est une transaction plutôt qu'un achat, et le profil que vous installez à la maison fonctionne la seconde où l'avion atterrit. Si vous avez besoin d'un numéro cambodgien pour les appels, toutefois, la voie locale est la seule qui le fournit.
+Avant de partir, sauf si vous aimez négocier à un comptoir d'aéroport. L'exigence d'enregistrement du Cambodge signifie que la voie sur place est une transaction plutôt qu'un achat, et le profil que vous installez à la maison fonctionne la seconde où l'avion atterrit. Si vous avez besoin d'un numéro local cambodgien pour les appels, toutefois, la voie locale est la seule qui le fournit.
 
 
 
@@ -705,11 +705,11 @@ Prolongez depuis le tableau de bord du fournisseur et le même profil continue d
 
 
 
-### Quels forfaits eSIM Smart Axiata pour les visiteurs ?
+### Une seule eSIM peut-elle utiliser les trois réseaux cambodgiens ?
 
 
 
-Oui. Une seule [eSIM Cambodge](/cambodia-esim/) itine à travers Smart, Cellcard et Metfone, donc les circuits de temples autour de Siem Reap et les îles du sud roulent sur le meilleur signal disponible sans que vous touchiez un réglage. Planifiez l'enveloppe autour de l'étape des îles, où le Wi-Fi de repli est le plus faible et la tentation de streamer la plus haute.
+Oui. Une seule [eSIM dédiée Cambodge](/cambodia-esim/) itine à travers Smart, Cellcard et Metfone, donc les circuits de temples autour de Siem Reap et les îles du sud roulent sur le meilleur signal disponible sans que vous touchiez un réglage. Planifiez l'enveloppe autour de l'étape des îles, où le Wi-Fi de repli est le plus faible et la tentation de streamer la plus haute.
 
 
 
@@ -733,11 +733,11 @@ Rien de tout cela n'est notre propre mesure. Une médiane de trimestre de lancem
 
 
 
-Le premier signal fonctionnel de votre voyage ne devrait pas être le Wi-Fi de l'aéroport. Installez avant de partir et le profil est actif au moment où vous sortez de l'immigration à Phnom Penh.
+Le premier signal fonctionnel de votre voyage ne devrait pas être le Wi-Fi de l'aéroport. Installez votre eSIM Cambodge avant de partir et le profil est actif au moment où vous sortez de l'immigration à Phnom Penh.
 
 
 
-Les clients de première fois peuvent [commencer par un essai Cambodge gratuit](/free-esim/), et les niveaux payants — data uniquement comme illimité — sont sur la [page eSIM Cambodge](/cambodia-esim/).
+Les clients de première fois peuvent [commencer par un essai Cambodge gratuit](/free-esim/), et les niveaux payants — data uniquement comme illimité — sont sur la [boutique eSIM Cambodge](/cambodia-esim/).
 
 
 
@@ -749,5 +749,5 @@ Les clients de première fois peuvent [commencer par un essai Cambodge gratuit](
 
 
 
-Voulez-vous comparer avant de payer ? L'[eSIM de démarrage gratuite](/free-esim/) de Roami couvre le même terrain que les opérateurs ci-dessus au Cambodge, et **WEB20** rase 20% de votre premier forfait complet. Un doute de compatibilité ? Le [vérificateur](/compatibility/) le dissipe en une minute.
+Voulez-vous comparer avant de payer ? L'[eSIM de démarrage gratuite](/free-esim/) de Roami couvre le même terrain que les opérateurs ci-dessus au Cambodge, et **web20** rase 20% de votre premier forfait complet. Un doute de compatibilité ? Le [vérificateur](/compatibility/) le dissipe en une minute.
 

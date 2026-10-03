@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM choisir en République tchèque ?"
 description: "Roami compare Vodafone, T-Mobile et O2 pour votre eSIM République tchèque, du centre de Prague jusqu'aux campagnes reculées."
-image: "img/esim/carriers/czech-republic-esim-carrier-guide.jpg"
+image: "img/esim/carriers/czech-republic-esim-carrier-guide.webp"
 date: "2026-09-27T22:01:28+00:00"
 keywords: eSIM République tchèque, eSIM Vodafone CZ, eSIM T-Mobile CZ, eSIM voyage République tchèque, éviter les frais d'itinérance, eSIM château de Prague, activation eSIM instantanée
 site_name: Roami
@@ -21,7 +21,7 @@ Prague vous gâte. Dans la capitale, les trois réseaux tchèques délivrent des
 
 Incertain sur la prise en charge de l'appareil ou sur le fonctionnement de l'installation ? Passez votre modèle dans le [vérificateur de compatibilité des appareils](/compatibility/) d'abord, puis lisez [comment fonctionne l'installation d'une eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) — deux prérequis que cette page saute délibérément.
 
-**L'avis express :** À Prague, les trois fonctionnent — O2 y affiche les médianes 5G les plus rapides, tandis que Vodafone et T-Mobile se rendent coup pour coup ailleurs. Hors de la capitale, T-Mobile CZ est le choix le plus souvent cité pour la portée nationale, Vodafone CZ revendique la plus large couverture 5G de la population, et O2 CZ mène aux récompenses réseau d'ensemble. Les starters prépayés coûtent **299–499 CZK** avec 15 Go inclus, et la SIM touristique d'aéroport tourne autour de 599 CZK pour 10 Go. Pour la plupart des voyages de moins de deux semaines, une [eSIM République tchèque](/czech-republic-esim/) multi-réseaux bat les trois sur la commodité — et vous pouvez [essayer une eSIM gratuite](/free-esim/) d'abord pour confirmer le comportement de votre téléphone avant de payer.
+**L'avis express :** À Prague, les trois fonctionnent — O2 y affiche les médianes 5G les plus rapides, tandis que Vodafone et T-Mobile se rendent coup pour coup ailleurs. Hors de la capitale, T-Mobile CZ est le choix le plus souvent cité pour la portée nationale, Vodafone CZ revendique la plus large couverture 5G de la population, et O2 CZ mène aux récompenses réseau d'ensemble. Les starters prépayés coûtent **299–499 CZK** avec 15 Go inclus, et la SIM touristique d'aéroport tourne autour de 599 CZK pour 10 Go. Pour la plupart des voyages de moins de deux semaines, une [eSIM multi-réseaux pour la République tchèque](/czech-republic-esim/) bat les trois sur la commodité — et vous pouvez [essayer une eSIM gratuite](/free-esim/) d'abord pour confirmer le comportement de votre téléphone avant de payer.
 
 ## Comment est construit le marché eSIM tchèque ?
 
@@ -136,7 +136,7 @@ Un forfait dimensionné pour la capitale est généralement dimensionné pour le
 - **Partage de connexion avec un ordinateur portable :** la seule habitude qui requiert fiablement 20 Go ou plus, car un flux vidéo peut dépasser la journée entière d'un téléphone.
 - **Streaming dans le train :** le signe que vous auriez dû acheter le plus grand forfait avant de quitter Prague.
 
-Si votre voyage mêle la capitale et deux ou trois excursions d'une journée, une eSIM République tchèque de 10 Go laisse la place d'arrêter d'y penser.
+Si votre voyage mêle la capitale et deux ou trois excursions d'une journée, un forfait data eSIM République tchèque de 10 Go laisse la place d'arrêter d'y penser.
 
 ## Vodafone ou T-Mobile : qui couvre le mieux la Tchéquie ?
 
@@ -170,13 +170,17 @@ La moyenne tchèque de 3,12 USD le gigaoctet est 193e sur 237 marchés et la plu
 | Slovaquie | 2,68 | 182e | Presque aussi chère que la Tchéquie elle-même |
 | République tchèque | 3,12 | 193e | La plus chère de sa région, quoique encore en dessous des tarifs américains et canadiens |
 
+L'écart le plus frappant de ce tableau : le gigaoctet polonais coûte moins d'un huitième du prix tchèque — si votre itinéraire traverse Ostrava vers Cracovie, vos données y seront nettement moins chères qu'à Prague.
+
 La lecture pratique : achetez vos données avant d'arriver ou à l'arrivée, car le prix local n'est pas la bonne affaire que la réputation de la région suggère. Une eSIM République tchèque achetée en ligne se situe typiquement entre 10 et 20 USD pour 10 Go sur 30 jours, ce qui sous-cote chaque starter sauf l'eSIM Twist à 150 CZK. Gardez le shopping pour la couverture, pas pour les couronnes.
+
+Et si votre voyage déborde des frontières tchèques, nos guides opérateurs voisins détaillent chaque marché : [quel opérateur eSIM choisir en Allemagne](/carriers/germany-esim-carrier-guide/), [le panorama des réseaux slovaques](/carriers/slovakia-esim-carrier-guide/) et [le comparatif eSIM de Hongrie](/carriers/hungary-esim-carrier-guide/).
 
 ## Combien coûtent les forfaits eSIM en Tchéquie ?
 
 ### Un passeport est-il requis pour une SIM en République tchèque ?
 
-La Tchéquie est le cas facile. Une **SIM prépayée physique ne requiert aucun enregistrement** — pas de passeport, pas d'adresse, achetez au kiosque de presse et appelez pour activer. Dès que vous voulez une **eSIM d'un opérateur local, l'identification entre en scène** : les ventes d'eSIM opérateur impliquent la conformité d'enregistrement de SIM, ce qui en pratique signifie un passeport en boutique de marque ou un parcours en ligne qui vous vérifie. Les eSIM voyage vendues à l'international contournent cela entièrement, c'est pourquoi elles dominent le marché des courts séjours.
+La Tchéquie est le cas facile. Une **carte SIM prépayée physique ne requiert aucun enregistrement** — pas de passeport, pas d'adresse, achetez au kiosque de presse et appelez pour activer. Dès que vous voulez une **eSIM d'un opérateur local, l'identification entre en scène** : les ventes d'eSIM opérateur impliquent la conformité d'enregistrement de SIM, ce qui en pratique signifie un passeport en boutique de marque ou un parcours en ligne qui vous vérifie. Les eSIM voyage vendues à l'international contournent cela entièrement, c'est pourquoi elles dominent le marché des courts séjours.
 
 Le parcours en libre-service de chaque opérateur fonctionne ainsi :
 
@@ -321,7 +325,7 @@ Les foules de la Vieille Ville, les caves profondes en pierre et les tunnels fer
 
 ### Vodafone vend-il une eSIM touristique à l'aéroport de Prague ?
 
-Oui — Vodafone tient des boutiques aux terminaux de l'aéroport Václav Havel et vend des options prépayées et eSIM République tchèque avec un passeport. Les voyageurs rapportent des SIM touristiques autour de 599 CZK pour 10 Go. Les starters des rues de la ville sont moins chers au gigaoctet, achetez donc à l'aéroport seulement si la commodité bat le coût le jour de l'arrivée.
+Oui — Vodafone tient des boutiques aux terminaux de l'aéroport Václav Havel et vend des options prépayées et eSIM République tchèque avec un passeport ; comptez autour de 599 CZK pour 10 Go aux comptoirs. Les starters des rues de la ville sont moins chers au gigaoctet, achetez donc à l'aéroport seulement si la commodité bat le coût le jour de l'arrivée.
 
 ### Combien coûte un gigaoctet en République tchèque ?
 
@@ -359,6 +363,14 @@ S'il est déverrouillé et compatible eSIM, oui. Les réseaux tchèques utilisen
 
 Passez en revue les quatre schémas tchèques ci-dessus — statut de vérification, ligne de données et interrupteur d'itinérance, activation du forfait, puis localisation — et utilisez [notre guide de dépannage complet](/faq/esim-activation-errors-troubleshooting-guide/) pour le catalogue d'erreurs complet. Numéro de commande, EID et une capture d'écran de l'erreur accélèrent considérablement tout contact au support.
 
+### Faut-il activer l'itinérance des données sur une eSIM tchèque ?
+
+Oui, et c'est le réglage que les voyageurs oublient le plus souvent : même sur un profil tchèque utilisé dans le pays, l'interrupteur d'itinérance conditionne les données sur certains appareils. Activez donc « Données à l'étranger » pour la ligne eSIM dès l'installation — cela ne coûte rien en Tchéquie même, et cela évite le classique « connecté mais aucune page ne charge » le jour de l'arrivée. Sur votre ligne nationale, en revanche, faites l'inverse et laissez-la coupée si vous n'en avez pas besoin.
+
+### Mon forfait tchèque fonctionne-t-il en Pologne jusqu'à Cracovie ?
+
+Cela dépend de la ligne. Une enveloppe prépayée d'un opérateur tchèque itine dans toute l'UE/EEE aux tarifs nationaux dans les limites d'usage raisonnable, donc le train Prague–Cracovie est couvert côté opérateur. Une eSIM voyage, elle, ne couvre que les pays listés dans son forfait — vérifiez que la Pologne y figure avant de monter dans le train de Bohumín, car le profil bascule sur les réseaux polonais dès la frontière.
+
 ## Nos sources
 
 - **Ookla Speedtest Global Index** — [la page pays Tchéquie](https://www.speedtest.net/global-index/czechia) est l'origine de chaque chiffre national cité ci-dessus : 92,26 Mbps de téléchargement mobile médian, 160,54 Mbps de 5G médiane, 19 ms de latence, mis à jour chaque mois.
@@ -371,6 +383,6 @@ Les bandes LTE et 5G NR suivent la table des bandes de la République tchèque d
 
 ## Une seule eSIM pour Vodafone, T-Mobile et O2
 
-Un profil, trois réseaux, zéro file au kiosque : installez à la maison, atterrissez connecté, et laissez l'eSIM choisir le réseau tchèque le plus fort où que la journée vous mène — place de Prague ou route de campagne de Bohême du Sud. Commencez par le [test de couverture gratuit](/free-esim/), puis [commandez votre eSIM République tchèque](/czech-republic-esim/) et appliquez le code **WEB20** pour 20 % de réduction sur votre premier forfait.
+Un profil, trois réseaux, zéro file au kiosque : installez à la maison, atterrissez connecté, et laissez l'eSIM choisir le réseau tchèque le plus fort où que la journée vous mène — place de Prague ou route de campagne de Bohême du Sud. Commencez par le [test de couverture gratuit](/free-esim/), puis [commandez votre eSIM République tchèque](/czech-republic-esim/) et appliquez le code **web20** pour 20 % de réduction sur votre premier forfait.
 
-Si vous préférez tester avant de vous engager, l'[eSIM d'échantillon](/free-esim/) de Roami circule sur les mêmes réseaux que ce guide compare — y compris Vodafone CZ. **WEB20** enlève 20 % sur un forfait République tchèque payant pour les nouveaux clients Roami.
+Si vous préférez tester avant de vous engager, l'[eSIM d'échantillon](/free-esim/) de Roami circule sur les mêmes réseaux que ce guide compare — y compris Vodafone CZ. **web20** enlève 20 % sur un forfait République tchèque payant pour les nouveaux clients Roami.

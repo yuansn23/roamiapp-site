@@ -1,7 +1,7 @@
 ---
 title: "Opérateur eSIM Jordanie : choisir Zain ou Orange ?"
 description: "Roami compare les opérateurs eSIM Jordanie Zain, Orange et Umniah sur la couverture, la vitesse et les prix, d'Amman à Pétra."
-image: "img/esim/carriers/jordan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/jordan-esim-carrier-guide.webp"
 date: "2026-09-25T12:09:20+00:00"
 keywords: eSIM Jordanie, opérateurs eSIM Jordanie, internet voyage Jordanie, Zain Jordanie, Orange Jordanie, eSIM Umniah, eSIM Pétra, données Mer Morte, eSIM prête à l'emploi, sans frais itinérance Jordanie
 site_name: Roami
@@ -37,11 +37,11 @@ Trois opérateurs se partagent le marché, chacun détenant environ un tiers, to
 
 Les trois proposent maintenant des eSIM sur appareils compatibles, à la fois sur les lignes prépayées régulières et sur les produits visiteurs. Les forfaits touristiques annoncés bougent avec les promotions, et les récapitulatifs tiers divergent sur les quotas exacts, donc lisez le tableau ci-dessus comme une fourchette et confirmez au kiosque. Les chiffres qui suivent sur la vitesse et les prix sont des mesures, pas du marketing.
 
-### Umniah vs Pétra : quelle couverture en Jordanie ?
+### Quelle couverture hors des villes : le rôle de Zain ?
 
 Zain Jordanie est le plus grand opérateur par base d'abonnés et l'opérateur que la plupart des fournisseurs eSIM internationaux utilisent pour la couverture jordanienne. Selon les propres rapports des voyageurs, il tient le mieux hors des villes — la route des Rois vers Pétra, le centre des visiteurs de Wadi Rum, et les longs couloirs sud où les deux autres s'éclaircissent. Si votre itinéraire est une boucle plutôt qu'une seule ville, cette portée est l'argument.
 
-### Umniah vs Pétra 5G : lequel est le meilleur en Jordanie ?
+### Orange Jordanie 5G : que vaut sa disponibilité ?
 
 Orange Jordanie est le deuxième plus grand opérateur et le plus fort sur la disponibilité 5G : Opensignal a mesuré ses utilisateurs passant **37.8 %** du temps connecté sur un signal 5G, plus de neuf points de pourcentage devant la deuxième place. C'est aussi le seul opérateur avec un comptoir dans le hall d'arrivée Queen Alia qui tourne en continu, ce qui en fait le premier arrêt par défaut pour les arrivées tardives.
 
@@ -113,13 +113,13 @@ Aqaba est le seul endroit où les trois opérateurs performent également bien, 
 
 ## Comment acheter une eSIM locale en tant que visiteur ?
 
-L'enregistrement est simple et inévitable : un passeport valide est requis, le vendeur le scanne dans le système au point de vente, et les cartes SIM anonymes ne sont pas permises. L'activation est généralement immédiate, avec un SMS de bienvenue confirmant que vous êtes en ligne.
+L'enregistrement est simple et inévitable : un passeport valide est requis, le vendeur le scanne dans le système au point de vente, et les cartes SIM prépayées anonymes ne sont pas permises. L'activation est généralement immédiate, avec un SMS de bienvenue confirmant que vous êtes en ligne.
 
 ### Comment acheter une eSIM à l'aéroport Queen Alia ?
 
 Le hall d'arrivée héberge un comptoir Orange qui tourne 24/7, plus des kiosques Zain Jordanie et Umniah à proximité, tous acceptant espèces et cartes internationales. Offres touristiques rapportées au moment de l'écriture : la ligne visiteurs d'Orange à environ 15 JOD pour 20 Go avec appels locaux illimités pour 30 jours ; Zain Jordanie à partir d'environ 14.50 JOD pour 8 Go jusqu'à environ 29 JOD pour 50 Go ; Umniah autour de 10 JOD pour 30 Go sur une ligne de court séjour 10 jours.
 
-### Réponses eSIM Jordanie rapides
+### Magasins en ville et l'astuce hors taxes d'Aqaba
 
 Les magasins en ville à Abdali, Mecca Mall et les souks du centre vendent à peu près les mêmes forfaits sans la prime aéroport, et le personnel à Amman a l'habitude des passages eSIM. Aqaba vaut la peine d'être connu spécifiquement : c'est une zone hors taxes, donc les achats de carte SIM y évitent la TVA de 16 % qui s'applique ailleurs au royaume. Si votre voyage commence dans le sud, acheter à Aqaba peut être significativement moins cher.
 
@@ -142,7 +142,7 @@ Les magasins en ville à Abdali, Mecca Mall et les souks du centre vendent à pe
 
 ## Combien coûtent les forfaits prépayés eSIM ?
 
-La tarification visiteur en Jordanie est réellement compétitive — un ou deux dollars par gigaoctet sur les offres court séjour — mais les échelles changent avec les promotions et les sources divergent sur les quotas exacts. Lisez cela comme la forme du marché, et confirmez le niveau courant au comptoir.
+Les données prépayées visiteur en Jordanie sont réellement compétitives — un ou deux dollars par gigaoctet sur les offres court séjour — mais les échelles changent avec les promotions et les sources divergent sur les quotas exacts. Lisez cela comme la forme du marché, et confirmez le niveau courant au comptoir.
 
 ### Quels forfaits visiteurs chez Zain Jordanie ?
 
@@ -156,7 +156,7 @@ La ligne touristes d'Orange Jordanie commence autour de **15 JOD pour 20 Go** su
 
 Umniah est la moins chère entrée vers une ligne jordanienne dans la plupart des comparaisons : autour de **10 JOD pour 30 Go** sur un forfait court séjour 10 jours, avec des offres en ligne uniquement rapportées près de 7 JOD pour 35 Go sur 10 jours et environ 17 JOD pour 100 Go sur 30 jours. Le niveau en ligne 35 Go revient à environ 0,20 JOD le gigaoctet — près de neuf fois moins que l'entrée 8 Go de Zain Jordanie à 14.50 JOD. Les niveaux en ligne uniquement valent la peine d'être vérifiés dans son application avant de vous contenter du prix aéroport.
 
-### Pouvez-vous acheter une eSIM Jordanie auprès d'Umniah ?
+### Quel niveau de forfait selon la durée du séjour ?
 
 Lisez les niveaux contre votre itinéraire réel :
 
@@ -175,6 +175,8 @@ Lisez les niveaux contre votre itinéraire réel :
 | Court séjour Umniah, en magasin | 30 Go | 10 jours | ~10 | 100 minutes locales |
 | Niveau en ligne uniquement Umniah | 35 Go | 10 jours | ~7 | Achat application ou web |
 | Niveau en ligne uniquement Umniah | 100 Go | 30 jours | ~17 | Minutes locales illimitées |
+
+La ligne la plus sous-cotée de ce tableau ne se voit à aucun kiosque : les niveaux « en ligne uniquement » d'Umniah ne s'achètent que dans l'application, et leur tarif au gigaoctet écrase les offres comptoir. Si votre téléphone est déjà entre vos mains, dix minutes dans l'appli avant l'atterrissage valent le détour.
 
 ## SIM locale ou eSIM voyage : quel coût en Jordanie ?
 
@@ -199,11 +201,11 @@ La voix est la variable que la plupart des comparaisons omettent. Les eSIM voyag
 
 ## Votre téléphone supporte-t-il une eSIM locale ?
 
-### Où acheter une eSIM Jordanie ?
+### Les trois vérifications avant d'acheter
 
 D'abord, capacité eSIM : composez `*#06#` et cherchez un EID, puis confirmez votre modèle exact sur la [page de compatibilité eSIM](/compatibility/). Ensuite, verrou opérateur : un téléphone encore verrouillé à un opérateur étranger refusera toute ligne jordanienne jusqu'à ce qu'il soit déverrouillé — vérifiez Réglages → Général → À propos → Verrou opérateur. Troisième, bandes : le déploiement LTE de Jordanie couvre bien plus de 90 % de la population sur des bandes internationales standard, et ses réseaux 5G utilisent un spectre moyenne fréquence commun, donc tout appareil global récent fonctionne.
 
-### Le partage de connexion est-il inclus avec les eSIM Jordanie ?
+### Double SIM et partage de connexion : la configuration ?
 
 Gardez votre carte SIM nationale active pour les codes SMS de vérification, pointez les données mobiles vers l'eSIM, et coupez l'itinérance des données sur la ligne nationale pour qu'elle ne vous facture pas de trafic en arrière-plan. La plupart des eSIM visiteurs des opérateurs prennent en charge le partage point d'accès ; les eSIM voyage plafonnent parfois, donc lisez les termes avant de compter sur un ordinateur portable.
 
@@ -242,7 +244,7 @@ Une eSIM émise par un opérateur se configure normalement d'elle-même, et les 
 
 Le système de Zain Jordanie accepte aussi `zain` comme chaîne APN sur certains appareils, et Umniah est rapporté comme `umniah` sur les configurations plus anciennes — essayez l'alternative avant d'appeler le support. Chemins de menu : iPhone à Réglages → Cellulaire → la ligne eSIM → Réseau de données cellulaires ; Android à Réglages → Connexions → Réseaux mobiles → Noms des points d'accès. Enregistrez, redémarrez, et vérifiez d'abord que l'eSIM est la ligne de données sélectionnée.
 
-### Umniah, Pétra ou eSIM voyage : quelles valeurs APN ?
+### Quand saisir un APN à la main en Jordanie ?
 
 Presque jamais sur un profil voyage. La saisie manuelle compte quand une ligne émise par opérateur a été activée depuis un code imprimé plutôt que scannée en magasin, ou quand un appareil plus ancien a ignoré les réglages automatiques. Dans les deux cas, utilisez les valeurs ci-dessus, enregistrez, et redémarrez avant d'essayer autre chose.
 
@@ -250,19 +252,19 @@ Presque jamais sur un profil voyage. La saisie manuelle compte quand une ligne �
 
 La séquence générique — installer sur Wi-Fi, étiqueter la ligne, la définir comme ligne de données, activer l'itinérance — est couverte étape par étape dans notre [guide d'activation eSIM](/faq/how-to-activate-an-esim/), et le catalogue d'erreurs complet siège dans notre [guide des correctifs d'activation eSIM](/faq/esim-activation-errors-troubleshooting-guide/). Quatre schémas couvrent la plupart de ce qui coince en Jordanie.
 
-### Aurez-vous besoin d'une pièce d'identité pour une SIM Jordanie ?
+### Pourquoi mon activation bloque-t-elle sur le nom du titulaire ?
 
 La ligne doit porter le nom exact du titulaire du passeport. Si le personnel a abrégé ou translittéré différemment de ce que montrent vos documents de voyage, l'activation peut bloquer — revenez au kiosque avec votre passeport et faites-le ressaisir.
 
-### Comment installer une eSIM Jordanie ?
+### Pas de signal à l'atterrissage : le réflexe ?
 
 Si l'eSIM n'affiche pas de signal à l'atterrissage, basculez le mode avion, puis choisissez un réseau manuellement. Un profil installé des jours avant peut se garer sur un opérateur qu'il ne peut pas utiliser jusqu'à ce que vous interveniez.
 
-### Combien de données pour votre itinéraire ?
+### Données coupées ou bridées : que vérifier ?
 
 Confirmez que l'itinérance des données est activée pour la ligne eSIM, que l'eSIM — pas votre carte nationale — est la ligne de données sélectionnée, et que l'APN correspond au tableau ci-dessus. Si le forfait est à sec, les opérateurs jordaniens brident ou coupent plutôt qu'ils n'avertissent ; rechargez dans l'application et redémarrez.
 
-### Quel réseau couvre le plus de Jordanie ?
+### Les zones mortes entre les villes sont-elles normales ?
 
 C'est de la géographie, pas une panne. La couverture au sud de l'axe touristique suit l'autoroute, et le pays ouvert entre les villes est mort sur tous les réseaux. Attendez-vous à ce que les barres reviennent à l'approche d'Aqaba.
 
@@ -298,17 +300,17 @@ Pour un voyage normal, Queen Alia est là où la décision se prend, car c'est l
 
 ### Une eSIM Jordanie fonctionne-t-elle ailleurs ?
 
-Les forfaits jordaniens n'incluent pas de données transfrontalières. Traversez à n'importe quel passage terrestre et votre ligne jordanienne tombe sur des tarifs d'itinérance internationale ou aucun service du tout — c'est pourquoi les messages WhatsApp envoyés depuis la file frontalière attendent que vous soyez revenu dans la couverture. Une eSIM voyage régionale change cela : le profil s'accroche simplement au réseau de l'autre côté selon les propres accords du fournisseur.
+Les forfaits jordaniens n'incluent pas de données transfrontalières. Traversez à n'importe quel passage terrestre et votre ligne jordanienne tombe sur des tarifs de roaming international ou aucun service du tout — c'est pourquoi les messages WhatsApp envoyés depuis la file frontalière attendent que vous soyez revenu dans la couverture. Une eSIM voyage régionale change cela : le profil s'accroche simplement au réseau de l'autre côté selon les propres accords du fournisseur.
 
 ### SIM locale ou eSIM voyage en Jordanie : que choisir ?
 
 Il n'y a aucun comptoir opérateur à aucun passage terrestre jordanien. Si vous arrivez par voie terrestre sans profil préinstallé, prévoyez d'en acheter une à Amman, Aqaba ou Irbid à la place. Notez aussi qu'une taxe de départ de **10 JOD** s'applique aux frontières terrestres et maritimes, mais pas aux aéroports — une autre raison pour laquelle les arrivées par air sont la voie la plus douce.
 
-Vous voyagez depuis la Jordanie ? Nos guides vers les réseaux voisins couvrent ce qui change : le [guide eSIM Israël](/carriers/israel-esim-carrier-guide/) et le [guide eSIM Égypte](/carriers/egypt-esim-carrier-guide/).
+Vous voyagez depuis la Jordanie ? Nos guides vers les réseaux voisins couvrent ce qui change : le [guide eSIM Israël](/carriers/israel-esim-carrier-guide/) et le [guide eSIM Égypte](/carriers/egypt-esim-carrier-guide/) pour les traversées de Taba et du pont Allenby, le [guide des opérateurs saoudiens](/carriers/saudi-arabia-esim-carrier-guide/) pour la route de Mudawara, et le [guide eSIM Irak](/carriers/iraq-esim-carrier-guide/) si le passage d'Al-Karamah figure à votre itinéraire.
 
 Pour la route sud vers Aqaba et dans le Golfe, voir nos [forfaits eSIM Arabie saoudite](/saudi-arabia-esim/) ; un profil multi-pays est généralement plus propre qu'acheter trois lignes locales.
 
-## Umniah ou Pétra : qui couvre le mieux la Jordanie ?
+## Qui couvre le mieux la Jordanie, région par région ?
 
 La géographie de la Jordanie fait la planification pour vous. La plupart de la population — et la plupart de la couverture — se situe dans le nord-ouest : Amman, Irbid, Zarqa et les couloirs entre eux. Au sud de la capitale, la couverture suit l'autoroute vers Aqaba et la colonne vertébrale touristique de Pétra, les stations de la Mer Morte et Wadi Rum.
 
@@ -343,7 +345,7 @@ Voyage ville uniquement : prenez la meilleure offre comptoir. Tout voyage qui qu
 
 Entre 7 et 30 JOD selon le volume : le niveau court séjour en ligne 35 Go d'Umniah descend à environ 7 JOD, les lignes visiteurs de milieu de gamme se regroupent près de 10–15 JOD, et la grande ligne 60 Go / 90 jours d'Orange monte à environ 30 JOD. Pour acheter à l'atterrissage, Orange tient un comptoir 24/7 dans le hall d'arrivée AMM — apportez votre passeport original, et laissez quelques minutes pour l'installation du profil avant le départ de votre voiture.
 
-### Umniah vs Pétra : quel opérateur jordanien est le plus rapide ?
+### Quel opérateur jordanien est le plus rapide ?
 
 Pour la 5G brute, Zain Jordanie — Opensignal a mesuré ses utilisateurs à 325.3 Mbps de débit de téléchargement 5G moyen au milieu de 2026. Pour la meilleure expérience globale, Umniah a pris le prix du meilleur réseau mobile d'Ookla pour le T3–T4 2025 avec un Connectivity Score de 73.23, et elle mène sur la cohérence et la fiabilité.
 
@@ -351,7 +353,7 @@ Pour la 5G brute, Zain Jordanie — Opensignal a mesuré ses utilisateurs à 325
 
 Non. Les forfaits jordaniens n'incluent pas de données au-delà des frontières du royaume, donc la ligne tombe en itinérance ou sans service au passage. Achetez une option locale de l'autre côté, ou utilisez une eSIM voyage multi-pays qui couvre les deux réseaux.
 
-### Quel signal en ville et en campagne ?
+### Capte-t-on du signal dans le Siq de Pétra ?
 
 Presque jamais. Le canyon étroit bloque le signal mobile sur les trois réseaux, bien que le centre des visiteurs et la ville de Wadi Musa soient bien couverts. Téléchargez la carte hors ligne et tout guide audio avant d'entrer, et attendez-vous à ce que les photos se téléversent une fois revenu en ville.
 
@@ -369,7 +371,7 @@ Oui — l'enregistrement au point de vente est obligatoire pour tout le monde, t
 
 ### Comment recharger une eSIM Jordanie ?
 
-Depuis l'application de l'opérateur : les trois acceptent les paiements par carte dans leurs applications et sites, donc vous pouvez prolonger un forfait avant ou pendant le voyage. Faites-le avant l'expiration de votre ligne, car réactiver un numéro dormant est plus lent que de recharger à temps.
+Depuis l'application de l'opérateur : les trois acceptent les paiements par carte dans leurs applications et sites, donc vous pouvez prolonger un forfait data avant ou pendant le voyage. Faites-le avant l'expiration de votre ligne, car réactiver un numéro dormant est plus lent que de recharger à temps.
 
 ### Quels réglages APN opérateur par opérateur ?
 
@@ -383,6 +385,14 @@ Aqaba, oui par plaques — Umniah a déployé la 5G sur des points chauds inclua
 
 Oui, et c'est la configuration standard. Gardez la carte SIM nationale active pour les appels et codes de vérification, pointez les données mobiles vers la ligne eSIM, et désactivez l'itinérance des données sur la ligne nationale pour que le trafic en arrière-plan ne vous facture pas. Rappelez-vous que la plupart des profils voyage ne peuvent pas recevoir de SMS.
 
+### Puis-je payer ma SIM ou mes recharges avec une carte étrangère ?
+
+Aux comptoirs de l'aéroport Queen Alia, oui : les kiosques acceptent espèces et cartes internationales. Dans l'application de chaque opérateur, les recharges passent aussi par carte. En ville, gardez des dinars en espèces — c'est le moyen le plus rapide de faire avancer la file — avec la carte en secours, et vérifiez le solde de votre forfait data avant le week-end, où un rejet de carte vous laisserait attendre lundi.
+
+### Combien de temps avant le départ installer mon profil Jordanie ?
+
+Quand vous voulez : un profil eSIM s'active à l'enregistrement réseau, pas à l'installation, si bien que le compte à rebours ne démarre pas tant que le téléphone n'a pas vu une antenne jordanienne. Installez-le à la maison sur votre Wi-Fi, vérifiez qu'il apparaît dans la liste de vos lignes, et oubliez-le — il se verrouillera tout seul sur Zain Jordanie, Orange Jordanie ou Umniah à la sortie de l'avion. Gardez simplement le code QR en double avant de le scanner, car il n'accepte qu'une installation.
+
 ## Sources des chiffres eSIM Jordanie
 
 - **Commission de régulation des télécommunications (TRC)** — le régulateur licenciant les trois opérateurs. Ses chiffres trimestriels étayent les ~433 400 abonnements 5G à fin T1 2026 et environ 8,3 millions d'abonnements mobiles totaux, tandis que son [cadre de licence des cartes prépayées](https://trcwebsite.echo.jo/ebv4.0/root_storage/en/eb_list_page/486bc933-5d69-4769-8713-496d7fca1dcc_amendments_on_the_pre-paid_card_license_agreement3.pdf) sous-tend les règles d'enregistrement résumées ci-dessus.
@@ -393,6 +403,6 @@ Oui, et c'est la configuration standard. Gardez la carte SIM nationale active po
 
 Les prix des forfaits visiteurs sont les offres publiées des opérateurs et revendeurs au moment de l'écriture et changent avec les promotions ; là où les sources divergeaient, nous avons donné la fourchette plutôt qu'un seul chiffre. Le rapport Digital 2025 : Jordanie de DataReportal étaye les comptes d'internautes et de connexions. Toutes les données de performance sont des mesures tierces, et vos propres résultats varieront avec l'appareil, la bande et l'emplacement.
 
-## Combien coûte un gigaoctet en Jordanie ?
+## Réservez votre eSIM Jordanie avant l'atterrissage
 
-Évitez entièrement la file du hall d'arrivée. L'[eSIM Jordanie de Roami](/jordan-esim/) s'installe par code QR avant de prendre l'avion et se connecte à l'atterrissage, basculant vers le réseau local le plus fort à mesure que vous bougez entre Amman, Pétra et Aqaba. Réservez la vôtre à [roamiapp.com](/jordan-esim/) et appliquez le code promo **WEB20** pour 20 % de réduction sur un premier forfait — ou essayez toute la configuration sans risque avec une [carte d'essai gratuite](/free-esim/).
+Évitez entièrement la file du hall d'arrivée. L'[eSIM voyage Jordanie](/jordan-esim/) s'installe par code QR avant de prendre l'avion et se connecte à l'atterrissage, basculant vers le réseau local le plus fort à mesure que vous bougez entre Amman, Pétra et Aqaba. Réservez la vôtre à [roamiapp.com](/jordan-esim/) et appliquez le code promo **web20** pour 20 % de réduction sur un premier forfait — ou essayez toute la configuration sans risque avec une [carte d'essai gratuite](/free-esim/).

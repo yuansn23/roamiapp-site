@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM prendre pour voyager en Ukraine ?"
 description: "Roami compare Kyivstar, Vodafone et lifecell pour une eSIM Ukraine : couverture, vitesse et réseaux qui résistent aux coupures."
-image: "img/esim/carriers/ukraine-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ukraine-esim-carrier-guide.webp"
 date: "2026-09-23T16:21:41+00:00"
 keywords: eSIM Ukraine, opérateurs eSIM Ukraine, Kyivstar eSIM, Vodafone Ukraine, lifecell eSIM, eSIM voyage Ukraine, pas de frais d'itinérance Ukraine, eSIM pour touristes Ukraine
 site_name: Roami
@@ -26,7 +26,7 @@ Si les bases restent des questions ouvertes — mon téléphone prend-il l'eSIM,
 
 ## Comment fonctionne réellement le mobile ukrainien ?
 
-Trois opérateurs avec leurs propres réseaux couvrent le pays : **Kyivstar**, **Vodafone Ukraine** et **lifecell**. Chacun a restructuré sa propriété pendant la guerre, et chacun a investi pour maintenir les tours en vie à travers les coupures. Avant de les comparer, un fait structurel façonne tout : depuis mars 2022, les trois font tourner un **itinérance nationale entre eux**, si bien qu'un abonné dont le réseau national est tombé dans une zone donnée peut s'attacher à celui d'un concurrent.
+Trois opérateurs avec leurs propres réseaux couvrent le pays : **Kyivstar**, **Vodafone Ukraine** et **lifecell**. Chacun a restructuré sa propriété pendant la guerre, et chacun a investi pour maintenir les tours en vie à travers les coupures. Avant de les comparer, un fait structurel façonne tout : depuis mars 2022, les trois font tourner une **itinérance nationale entre eux**, si bien qu'un abonné dont le réseau national est tombé dans une zone donnée peut s'attacher à celui d'un concurrent.
 
 La propriété compte pour lire la capacité d'investissement, et les trois ont changé de mains ou de statut ces dernières années. Les chiffres ci-dessous proviennent des propres divulgations aux investisseurs des entreprises et de trackers sectoriels établis.
 
@@ -48,7 +48,7 @@ Lisez ce tableau comme un registre de résilience. Le rétablissement de Kyivsta
 | Votre priorité | Meilleur choix | Pourquoi |
 |:---|:---|:---|
 | Couverture la plus large y compris petites villes et villages | Kyivstar | Le plus grand réseau par abonnés et empreinte ; rétablissement moyen le plus rapide après les pannes liées au réseau, selon des rapports indépendants |
-| Données grandes villes à bon prix | Vodafone Ukraine | Forte performance urbaine à Kyiv, Lviv et Odesa ; tarifs prépayés compétitifs |
+| Données grandes villes à bon prix | Vodafone Ukraine | Forte performance urbaine à Kyiv, Lviv et Odesa ; tarifs de données prépayées compétitifs |
 | Forfait économique pour usage urbain | lifecell | Packs de départ les moins chers ; bien en ville, plus clairsemé hors des grands axes |
 | Acheter avant de partir | Kyivstar | Le seul opérateur avec un flux d'achat eSIM entièrement en ligne ; les autres complètent les ventes en magasin ou via des applis qui supposent que vous êtes déjà en Ukraine |
 
@@ -58,7 +58,7 @@ Des mesures indépendantes en 2025 placent les trois plus proches que ne le sugg
 
 Il y a aussi un écart de provisionnement utile à connaître : une **eSIM Kyivstar** peut être achetée et émise entièrement en ligne, tandis que les profils **Vodafone Ukraine** et **lifecell** ne s'obtiennent de façon réaliste qu'une fois dans le pays — une raison de plus pour laquelle la voie Kyivstar convient à un voyageur arrivant sans rien d'installé.
 
-## Comment fonctionne réellement l'itinérance nationalee de votre eSIM ?
+## Comment fonctionne l'itinérance nationale de votre eSIM ?
 
 L'itinérance nationale est le mécanisme qui rend une ligne mobile ukrainienne plus durable que ne le suggère sa propre empreinte, et c'est aussi la partie la plus mal comprise du marché. Elle a été activée en mars 2022 et s'est depuis étendue à tout le pays, les trois opérateurs (plus le petit réseau 3mob) permettant aux clients des autres de se connecter à leur accès radio quand un réseau national est indisponible.
 
@@ -75,7 +75,7 @@ Deux détails changent votre usage. D'abord, ce n'est pas automatique partout : 
 
 Cette limitation est un mécanisme d'équité, pas un défaut : l'opérateur hôte ne veut pas que ses propres clients soient évincés par le trafic d'itinérance pendant une panne régionale. Si la pleine vitesse compte, sélectionnez votre réseau national manuellement quand son signal revient. Notez aussi que l'itinérance nationale est conçue pour les abonnements ukrainiens ; une eSIM Ukraine achetée à l'étranger utilise déjà les réseaux locaux en mode itinérance, donc le tour de la sélection de partenaire ne s'applique pas de la même façon.
 
-### Quels sont les opérateurs mobiles ukrainiens ?
+### Comment forcer la sélection manuelle du réseau ?
 
 La sélection manuelle est une correction en deux gestes valant la peine d'être apprise avant d'en avoir besoin. Ouvrez Réglages, trouvez votre ligne eSIM, choisissez Sélection de réseau, désactivez Automatique, et choisissez un opérateur dans la liste. Attendez jusqu'à une minute pour que l'enregistrement se complète — et repassez en Automatique si le réseau partenaire vous refuse.
 
@@ -108,9 +108,9 @@ Pour situer à quel point les données locales sont peu chères : à USD 0.27 le
 
 ## Quelles vérifications appareil avant votre eSIM Ukraine ?
 
-La 4G ukrainienne fonctionne sur les bandes LTE européennes standard — 1800 MHz (Band 3), 2600 MHz (Band 7) et 900 MHz (Band 8), la dernière portant la couverture rurale — aussi tout téléphone acheté pour le marché européen s'attache-t-il sans problème. **La 5G n'est pas commercialement disponible** : un essai a ouvert à Lviv et atteint maintenant quelques centaines de stations de base, avec un déploiement complet prévu après la fin de la loi martiale. Payer pour la 5G sur un profil voyage aujourd'hui n'achète rien ; la 4G est le réseau.
+La 4G ukrainienne fonctionne sur les fréquences LTE européennes standard — 1800 MHz (Band 3), 2600 MHz (Band 7) et 900 MHz (Band 8), la dernière portant la couverture rurale — aussi tout téléphone acheté pour le marché européen s'attache-t-il sans problème. **La 5G n'est pas commercialement disponible** : un essai a ouvert à Lviv et atteint maintenant quelques centaines de stations de base, avec un déploiement complet prévu après la fin de la loi martiale. Payer pour la 5G sur un profil voyage aujourd'hui n'achète rien ; la 4G est le réseau.
 
-### Pouvez-vous acheter une eSIM Ukraine chez Kyivstar ?
+### Votre téléphone acceptera-t-il un profil eSIM en Ukraine ?
 
 - **Verrou opérateur.** Un téléphone verrouillé à un autre opérateur refusera tout profil tiers. iPhone : Réglages → Général → À propos → Verrou opérateur doit indiquer « No SIM restrictions ».
 - **Support eSIM.** Composez `*#06#` et cherchez un EID. Si votre modèle est incertain, le [vérificateur de compatibilité eSIM](/compatibility/) le résout par numéro de modèle.
@@ -120,7 +120,7 @@ Si vous comptez garder votre SIM nationale active pour les codes bancaires, conf
 
 ### eSIM Ukraine : que régler avant de partir ?
 
-- Confirmez les conditions d'itinérance de votre SIM nationale si vous comptez la garder active
+- Confirmez les conditions d'itinérance (roaming) de votre SIM nationale si vous comptez la garder active
 - Enregistrez votre code d'activation eSIM à un endroit lisible hors ligne
 - Vérifiez que votre appli bancaire livrera encore les codes de vérification
 - Confirmez que le partage de connexion fonctionne avec votre profil si vous comptez connecter un ordinateur
@@ -130,7 +130,7 @@ Si vous comptez garder votre SIM nationale active pour les codes bancaires, conf
 
 ## Combien coûtent les forfaits eSIM en Ukraine ?
 
-**L'enregistrement est la porte.** Depuis 2023, les opérateurs ukrainiens enregistrent chaque ligne au nom d'une personne. Entrez dans un magasin de marque Kyivstar, Vodafone Ukraine ou lifecell avec votre passeport original — certains magasins veulent aussi voir votre tampon d'entrée — et le personnel le scanne, complète le formulaire d'enregistrement et active la ligne. Le processus prend 10 à 20 minutes, les packs de départ coûtent environ UAH 100–300, et le paiement se fait par carte ou espèces en hryvnia.
+**L'enregistrement, détaillé plus haut, reste la porte.** En magasin de marque Kyivstar, Vodafone Ukraine ou lifecell, le personnel scanne votre passeport original — parfois aussi votre tampon d'entrée —, complète le formulaire et active la ligne. Comptez 10 à 20 minutes, environ UAH 100–300 de pack de départ, et un paiement par carte ou en espèces en hryvnia.
 
 ### Comment acheter une eSIM Kyivstar, étape par étape ?
 
@@ -198,7 +198,7 @@ Un réseau ukrainien qui survit à une coupure fait son travail, mais votre tél
 3. **Chargez à chaque occasion.** Cafés, hôtels, centres commerciaux et gares restaurent le courant à des moments différents ; rechargez dès que vous voyez une prise.
 4. **Capturez tout ce dont vous aurez besoin.** Les références de réservation et codes QR de billets ne devraient pas dépendre d'un réseau actif.
 
-### Qui sont les opérateurs mobiles d'Ukraine ?
+### Comment garder sa ligne utile pendant une coupure ?
 
 1. **Attendez-vous à ce que les sites, pas la couverture, soient la variable.** Les sites soutenus par batterie tiennent ; ceux sans secours tombent d'abord, et les sites centraux reviennent avant les périphériques.
 2. **Utilisez l'itinérance nationale délibérément.** Quand votre propre réseau est silencieux, passez la sélection de réseau en manuel et essayez un partenaire ; les données sont lentes mais les messages passent.
@@ -207,7 +207,7 @@ Un réseau ukrainien qui survit à une coupure fait son travail, mais votre tél
 5. **Trouvez un Point d'Invincibilité.** Ces abris soutenus par générateur offrent recharge et Wi-Fi, et font partie documentée du plan de résilience du pays.
 6. **Conservez un second moyen de paiement hors-ligne.** Une carte stockée et un peu d'espèces en hryvnia couvrent les magasins qui ne peuvent pas non plus atteindre un réseau.
 
-### Quels téléphones prennent une eSIM Ukraine ?
+### Que capturer hors-ligne avant une panne ?
 
 Captures de votre code QR eSIM, vos références de réservation, cartes hors-ligne pour chaque ville de votre itinéraire, et le câble de votre batterie externe. Ajoutez une note du numéro d'assistance de votre opérateur, et une copie téléchargée de la page photo de votre passeport comme sauvegarde pour l'enregistrement en magasin. Cette courte liste couvre presque chaque scénario de panne qui arrête réellement un voyageur.
 
@@ -231,13 +231,15 @@ Pour un visiteur, la lecture pratique est inversée et tout aussi utile : une SI
 
 - Notre [guide eSIM Hongrie](/carriers/hungary-esim-carrier-guide/)
 - L'[eSIM voyage Roumanie](/romania-esim/)
-
 - La [page eSIM Slovaquie](/slovakia-esim/)
+- Le [détail des réseaux lettons](/carriers/latvia-esim-carrier-guide/)
+- La [comparaison des opérateurs lituaniens](/carriers/lithuania-esim-carrier-guide/)
+- Le [guide des réseaux estoniens](/carriers/estonia-esim-carrier-guide/)
 - La [bibliothèque FAQ complète](/faq/) pour le reste
 
 ## Comment recharger une eSIM Ukraine et à quels tarifs ?
 
-Le prépayé ukrainien est peu cher selon les standards européens, et les tarifs derrière une ligne eSIM locale sont les forfaits mensuels publiés plutôt que les packs de départ jetables, ils représentent donc le plafond de ce qu'un séjour plus long coûterait. Les prix ont augmenté en 2025 à travers les trois opérateurs.
+Le prépayé ukrainien est peu cher selon les standards européens, et les tarifs derrière une ligne eSIM locale sont les forfaits data mensuels publiés plutôt que les packs de départ jetables, ils représentent donc le plafond de ce qu'un séjour plus long coûterait. Les prix ont augmenté en 2025 à travers les trois opérateurs.
 
 | Opérateur et tarif | Prix mensuel | Ce qu'il inclut |
 |:---|:---|:---|
@@ -264,6 +266,8 @@ Lisez ceci comme un plafond plutôt qu'un plancher. Les prix titres sont des co�
 | Remise de portabilité | Transférer un numéro réduit fortement le prix des premiers mois |
 | Plafond par transaction | lifecell plafonne une recharge unique à UAH 2,500 ; Kyivstar à UAH 8,000 ; Vodafone prépayé à UAH 14,999 |
 | Limites de transaction | Vodafone permet jusqu'à trois recharges par jour via son appli |
+
+À retenir du tableau : le plafond de recharge unique de lifecell (UAH 2,500) est trois fois plus bas que celui de Kyivstar — un utilisateur intensif devra multiplier les transactions, là où le prépayé Vodafone tolère les montants les plus élevés.
 
 La dépense prépayée réaliste minimale se situe autour de UAH 240 par mois chez Vodafone, et les packs de départ achetés avec un passeport en magasin de marque sont encore moins chers pour les premières semaines. Si vous n'êtes en Ukraine que brièvement, rien de tout cela ne bat un forfait voyage données-seules acheté avant de partir.
 
@@ -358,6 +362,18 @@ Pour un séjour de quelques semaines, une ligne prépayée locale enregistrée :
 
 La portabilité des numéros est standard en Ukraine, et les opérateurs la tarifent agressivement — faire entrer un numéro déverrouille exactement les paliers remisés dans le tableau tarifaire ci-dessus. Pour un visiteur, c'est hors sujet : un court séjour justifie rarement la visite d'enregistrement en premier lieu.
 
+### Le partage de connexion fonctionne-t-il avec une eSIM Ukraine ?
+
+
+Oui — le profil voyage expose le hotspot sans réglage particulier, utile pour connecter un ordinateur. Gardez seulement en tête que si votre ligne est retombée sur un réseau partenaire via l'itinérance nationale, la vitesse est limitée à environ 512 kbps : le partage reste alors réservé à la messagerie et aux cartes. Sur le réseau de votre opérateur à pleine vitesse, aucun souci.
+
+
+### Puis-je garder ma SIM nationale active en même temps que l'eSIM Ukraine ?
+
+
+Oui, sur un téléphone double SIM. Conservez votre ligne nationale pour les SMS de vérification bancaire, réglez l'eSIM Ukraine comme ligne de données avec l'itinérance des données activée, et désactivez l'itinérance des données sur la SIM nationale pour éviter tout trafic facturé en arrière-plan. Vérifiez avant le départ que votre opérateur habituel laisse l'itinérance internationale ouverte sur votre forfait.
+
+
 ## Sur quels rapports repose ce guide eSIM Ukraine ?
 
 - **Ookla Speedtest Global Index** — [l'entrée Ukraine](https://www.speedtest.net/global-index/ukraine) fournit le téléchargement mobile médian de 90.93 Mbps, le classement 50e place et la latence 23 ms cités ci-dessus.
@@ -370,4 +386,4 @@ Les chiffres de propriété et d'investissement proviennent des propres divulgat
 
 ## Comment être en ligne dès l'arrivée en Ukraine avec votre eSIM ?
 
-Dans un pays où les réseaux doivent traverser des épreuves qu'aucun autre marché européen ne connaît, arriver connecté n'est pas un confort — c'est le plan. L'[eSIM Ukraine](/ukraine-esim/) de Roami s'installe par code QR en minutes, n'a besoin d'aucun enregistrement passeport, et s'attache automatiquement aux réseaux partenaires de l'Ukraine. Prenez-la sur [roamiapp.com](/ukraine-esim/) et appliquez le code **WEB20** pour 20 % de réduction sur votre premier forfait, ou confirmez d'abord votre téléphone avec une [eSIM d'essai gratuite Roami](/free-esim/) — puis franchissez la frontière déjà en ligne.
+Dans un pays où les réseaux doivent traverser des épreuves qu'aucun autre marché européen ne connaît, arriver connecté n'est pas un confort — c'est le plan. L'[eSIM Ukraine](/ukraine-esim/) de Roami s'installe par code QR en minutes, n'a besoin d'aucun enregistrement passeport, et s'attache automatiquement aux réseaux partenaires de l'Ukraine. Prenez-la sur [roamiapp.com](/ukraine-esim/) et appliquez le code **web20** pour 20 % de réduction sur votre premier forfait, ou confirmez d'abord votre téléphone avec une [eSIM d'essai gratuite Roami](/free-esim/) — puis franchissez la frontière déjà en ligne.

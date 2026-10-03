@@ -1,9 +1,9 @@
 ---
 title: "Opérateurs eSIM Namibie : comparez couverture et prix"
 description: "Roami compare les opérateurs eSIM Namibie MTC, TN Mobile et Paratus sur la couverture, la vitesse et les prix au-delà des villes."
-image: "img/esim/carriers/namibia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/namibia-esim-carrier-guide.webp"
 date: "2026-09-24T08:07:42+00:00"
-keywords: Namibia eSIM carriers, MTC eSIM, TN Mobile eSIM, Paratus eSIM, Namibia travel eSIM, Namibia tourist SIM, Etosha connectivity, Namibia APN, Namibia self-drive internet, CRAN Namibia
+keywords: opérateurs eSIM Namibie, MTC eSIM, TN Mobile eSIM, Paratus eSIM, eSIM voyage Namibie, SIM touristique Namibie, connexion Etosha, APN eSIM Namibie, internet en autotour Namibie, CRAN Namibie
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -22,7 +22,7 @@ La Namibie répartit environ trois millions de personnes sur un pays équivalent
 
 Avant toute chose, confirmez que votre téléphone prend bien en charge l'eSIM. Le [vérificateur de compatibilité des appareils](/compatibility/) tranche en moins d'une minute, et l'explication sur [ce qui se passe lors de l'activation d'une eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) détaille le téléchargement d'un profil. À partir d'ici, tout porte sur les opérateurs.
 
-**En bref :** Vous roulez vers Etosha, la bande du Caprivi ou les parcs du sud ? **MTC** est le seul réseau avec une portée fiable au-delà des villes — mais son produit touristique est une carte SIM physique vendue à l'aéroport de Hosea Kutako, et non une eSIM touristique. **TN Mobile** est fort en ville (et c'est ce que la plupart des eSIM de voyage utilisent réellement). **Paratus** est réservé aux villes/entreprises, en 4G, sans rôle d'itinérance. Vous voulez l'empreinte de MTC sans le comptoir SIM de l'aéroport ? Une eSIM multi-réseaux namibienne incluant MTC est la solution. [essai de données gratuit](/free-esim/) teste les réseaux, et le code WEB20 retire 20 % sur tout forfait payant — [voir la liste des forfaits actuels](/plans/).
+**En bref :** Vous roulez vers Etosha, la bande du Caprivi ou les parcs du sud ? **MTC** est le seul réseau avec une portée fiable au-delà des villes — mais son produit touristique est une carte SIM physique vendue à l'aéroport de Hosea Kutako, et non une eSIM touristique. **TN Mobile** est fort en ville (et c'est ce que la plupart des eSIM de voyage utilisent réellement). **Paratus** est réservé aux villes/entreprises, en 4G, sans rôle d'itinérance. Vous voulez l'empreinte de MTC sans le comptoir SIM de l'aéroport ? Une eSIM multi-réseaux namibienne incluant MTC est la solution. L'[essai de données gratuit](/free-esim/) teste les réseaux, et le code web20 retire 20 % sur tout forfait payant — [voir la liste des forfaits actuels](/plans/).
 
 ## Quel est le piège des eSIM Namibie ?
 
@@ -30,7 +30,7 @@ La plupart des produits « eSIM Namibie » vendus en ligne sont des **profils d'
 
 - **L'eSIM Namibie d'Airalo se connecte au réseau TN Mobile** — [ses propres fiches de forfaits l'indiquent](https://esims.io/en/providers/airalo/10291662158133). La documentation fournisseur de Nomad cite elle aussi TN Mobile, et plusieurs fournisseurs ne nomment aucun réseau.
 - **MTC prend en charge l'eSIM pour ses propres clients** (un QR code délivré en boutique MTC, sur iPhone 15+ / Galaxy S20+) , mais son forfait touristique est une carte SIM physique vendue uniquement à l'aéroport international de Hosea Kutako. MTC ne propose pas d'eSIM touristique. (MTC vend aussi un produit appelé « Travel eSIM » — celui-ci est destiné aux Namibiens voyageant *à l'étranger*, et non à un usage en Namibie.)
-- **Quelques fournisseurs de niche incluent MTC** — les forfaits namibiens d'un fournisseur économique [roulent sur le réseau MTC](https://traveltomtom.net/destinations/africa/namibia/best-esims-for-namibia) selon ses fiches publiées — mais ils font exception, et les débits de la plupart des eSIM de voyage namibiennes plafonnent au 3G quoi qu'il arrive.
+- **Quelques fournisseurs de niche incluent MTC** — les forfaits namibiens d'un fournisseur économique roulent sur le réseau MTC selon ses fiches publiées — mais ils font exception, et les débits de la plupart des eSIM de voyage namibiennes plafonnent au 3G quoi qu'il arrive.
 - **La couverture rurale de TN Mobile est limitée** — correcte à Windhoek, Swakopmund, Walvis Bay ; faible à absente sur les longues pistes gravillonnées.
 
 La conséquence : si votre itinéraire est une boucle en auto-conduite, une eSIM de voyage standard vous donne du signal en ville et des trous partout où se déroule vraiment votre voyage. Une eSIM multi-réseaux incluant **MTC** est le seul moyen d'obtenir l'empreinte de MTC via un profil téléchargé.
@@ -50,7 +50,7 @@ Relisez le dernier paragraphe deux fois avant le paiement. C'est la différence 
 
 ## Combien coûte une eSIM et comment l'acheter ?
 
-Les prix sont en dollars namibiens (NAD), arrimés 1:1 au rand sud-africain.
+Les données prépayées sont en dollars namibiens (NAD), arrimés 1:1 au rand sud-africain.
 
 ### MTC vs TN Mobile 5G : lequel est le meilleur en Namibie ?
 
@@ -94,7 +94,7 @@ Tableau des prix d'aéroport (indicatif, d'après les tarifs de vente en aéropo
 | Illimité touristique | Non plafonné (FUP) | 7 jours | N$300 | ~US$16 |
 | Illimité touristique | Non plafonné (FUP) | 30 jours | N$1 000 | ~US$53 |
 
-Ces chiffres proviennent des [tarifs de vente de cartes SIM en aéroport](https://www.yourlayoverguide.com/sim-card-at-windhoek-hosea-kutako-airport-wdh) plutôt que d'une page de prix opérateur ; traitez-les comme indicatifs et confirmez au comptoir.
+Ces chiffres proviennent des tarifs de vente de cartes SIM en aéroport plutôt que d'une page de prix opérateur ; traitez-les comme indicatifs et confirmez au comptoir. Pour un voyageur qui compare à l'avance, ce tableau dit surtout une chose : les données prépayées locales coûtent très peu — c'est l'accès au réseau, pas le prix, qui fait la différence en Namibie.
 
 Voie eSIM touristique : vous ne pouvez pas acheter directement une eSIM TN Mobile en tant que touriste ; vous l'obtenez en achetant une eSIM de voyage qui nomme TN Mobile comme réseau.
 
@@ -108,7 +108,7 @@ Ce que nous avons constaté : Paratus est entré sur le marché mobile en septem
 
 APN : indiqué comme `pp.internet` (source unique ; à traiter comme indicatif et à confirmer auprès de l'opérateur).
 
-## Qui sont MTC, TN Mobile et Paratus ?
+## Quel opérateur eSIM Namibie pour votre itinéraire ?
 
 | Votre itinéraire | Meilleur choix | Pourquoi il gagne | À surveiller |
 |:---|:---|:---|:---|
@@ -121,7 +121,7 @@ APN : indiqué comme `pp.internet` (source unique ; à traiter comme indicatif e
 | Fish River Canyon & le grand sud | MTC, faiblement | Les points de vue ont peu ou pas de signal | Les villes-étapes carburant sont vos fenêtres de signal |
 | Lüderitz & la Diamond Coast | MTC | Ville couverte, approches faibles | La route B4 a de longues coupures |
 
-💡 Règle générale : téléchargez chaque carte hors ligne, prévenez vos contacts que vous disparaîtrez par intermittence, et traitez la « couverture » comme « villes et routes principales », jamais « toute la carte ».
+💡 Règle générale : téléchargez chaque carte hors ligne, prévenez vos contacts que vous serez injoignable par intermittence, et traitez la « couverture » comme « villes et routes principales », jamais « toute la carte ». Et lisez le tableau jusqu'au bout : MTC l'emporte sur sept des huit itinéraires — TN Mobile ne rivalise qu'à Windhoek et sur la côte, là où votre eSIM de voyage passe déjà son temps.
 
 ## MTC ou TN Mobile : quelle couverture en Namibie ?
 
@@ -173,6 +173,8 @@ Le voyage en Namibie s'achève rarement à la frontière namibienne, et votre pr
 
 Schéma pratique : achetez pays par pays, ou emportez une eSIM multi-pays sur tout l'itinéraire — un profil Namibie uniquement se tait au poste frontière, et c'est le trajet Fish River Canyon → Le Cap qui surprend le plus les voyageurs. Les destinations plus loin reçoivent le même traitement sur nos pages [eSIM Kenya](/kenya-esim/) et [eSIM Nigeria](/nigeria-esim/).
 
+Si vous enchaînez plusieurs pays d'un coup, préparez aussi la suite avec [notre guide des opérateurs sud-africains](/carriers/south-africa-esim-carrier-guide/), [le comparatif eSIM Égypte](/carriers/egypt-esim-carrier-guide/), [les réseaux mobiles kenyans passés au crible](/carriers/kenya-esim-carrier-guide/) ou [notre guide eSIM Maroc](/carriers/morocco-esim-carrier-guide/) — chaque article suit la même logique : qui couvre quoi, au-delà des villes.
+
 ## Quels débits et quels coûts de données ?
 
 - Proxy haut débit fixe : l'indice mondial Speedtest d'Ookla place la Namibie à [un téléchargement fixe médian de 17,66 Mbps, 144e mondial](https://www.speedtest.net/global-index/namibia), avec 19 ms de latence (médiane mondiale 129,68 Mbps).
@@ -218,9 +220,7 @@ MTC et TN Mobile utilisent tous deux `internet`, mais Paratus indique `pp.intern
 
 L'enregistrement des cartes SIM est obligatoire depuis les règles de mars 2021 et fermement appliqué : Telecom Namibia a désactivé 191 598 cartes SIM prépayées non enregistrées le 1er avril 2024. L'enregistrement se fait en personne avec un passeport dans un point agréé, et une carte SIM jamais enregistrée cesse simplement de fonctionner — ce n'est pas un problème de couverture, et aucun changement de paramètre ne la fera revenir. Apportez le passeport au comptoir et ne le reportez pas.
 
-## Comment se passe le comptoir d'enregistrement ?
-
-- **Un passeport, présenté en personne.** L'enregistrement ne peut être terminé en ligne ni pour autrui.
+## Comment se passe le comptoir d'enregistrement ?- **Un passeport, présenté en personne.** L'enregistrement ne peut être terminé en ligne ni pour autrui.
 - **Une preuve d'hébergement, quand vous vous enregistrez en ville.** Les bureaux MTC urbains le demandent plus souvent que le kiosque d'aéroport.
 - **Des espèces en secours.** Les comptoirs d'aéroport et de ville prennent les grandes cartes, mais certains rechargements sont espèces ou cartes locales uniquement.
 - **Une note sur l'horaire de fermeture du kiosque.** Le kiosque de Hosea Kutako a déjà fermé avant la dernière arrivée du soir, ce qui rend un atterrissage tardif un mauvais moment pour en dépendre.
@@ -275,10 +275,6 @@ La plupart non. Les fiches de forfaits d'Airalo nomment TN Mobile, et Nomad fait
 
 Les deux, idéalement. Installez une eSIM avant le départ pour atterrir avec des données pour le chassé-croisé de l'arrivée, puis décidez : la carte touristique MTC à Hosea Kutako est le moyen le plus simple de détenir l'empreinte rurale de MTC, tandis que les bureaux MTC urbains peuvent enregistrer une carte SIM si vous avez manqué le comptoir d'aéroport.
 
-### Quelle pièce d'identité un achat de carte SIM namibienne exigera-t-il ?
-
-Oui. L'enregistrement des cartes SIM est obligatoire depuis les règles de mars 2021 et a été appliqué en avril 2024, quand près de 192 000 cartes SIM Telecom Namibia non enregistrées ont été désactivées. Apportez votre passeport ; l'enregistrement se fait en personne.
-
 ### Où la 5G est-elle la plus forte en Namibie ?
 
 Uniquement dans quatre villes — Windhoek, Swakopmund, Walvis Bay et Ongwediva — depuis le lancement MTC d'août 2025. Partout ailleurs, y compris chaque destination de safari, c'est du 4G/LTE ou moins. Toute allégation marketing de « eSIM Namibie 5G » doit être lue en conséquence.
@@ -294,6 +290,14 @@ Le forfait touristique Premium MTC (20,1 GB / 30 jours) couvre confortablement d
 ### Ai-je besoin d'un messager par satellite ?
 
 Pour les grandes routes touristiques (Etosha, Sossusvlei, les routes B), non — villes et lodges vous donnent des fenêtres de signal régulières. Pour le Kaokoland profond, la Skeleton Coast au nord de Torra Bay ou le sud vide, un appareil satellite est le secours honnête, car il n'y a pas de réseau à renforcer.
+
+### Puis-je partager la connexion de mon eSIM Namibie ?
+
+Oui — un forfait data eSIM se comporte comme n'importe quelle ligne mobile : l'option partage de connexion (hotspot) de votre téléphone diffuse la connexion vers un ordinateur ou la tablette d'un co-voyageur. Sur les longs trajets, gardez un œil sur le compteur : naviguer sur un écran d'ordinateur vide un forfait bien plus vite qu'un téléphone, et les forfaits « illimités » touristiques restent soumis à une politique d'utilisation raisonnable (FUP) qui peut ralentir les gros consommateurs.
+
+### Dois-je activer l'itinérance des données sur mon eSIM Namibie ?
+
+Oui sur la ligne eSIM — les profils de voyage fonctionnent en itinérance sur le réseau hôte (le plus souvent TN Mobile), donc l'itinérance des données doit rester activée pour l'eSIM elle-même. En revanche, coupez-la sur votre carte SIM habituelle : vous continuez de recevoir les SMS de vérification à double facteur sans payer le roaming, et vous évitez que votre téléphone bascule par accident sur le réseau étranger le plus dispendieux.
 
 ### Starlink est-il disponible dans les lodges ?
 
@@ -325,7 +329,7 @@ Aucun de ces chiffres ne provient de nos propres tests terrain, et la couverture
 
 Une eSIM Namibie Roami couvre les réseaux locaux — y compris l'empreinte rurale de MTC — et suit le signal à mesure que la route sous vous passe du goudron au gravier, si bien que le profil qui fonctionne à Windhoek fonctionne encore quand vous vous arrêtez au lodge. Rien à téléverser et aucun comptoir d'aéroport à attraper avant sa fermeture nocturne.
 
-Première fois avec Roami ? L'essai ne coûte rien. Quand vous vous engagez, le code **WEB20** retire **20 %** sur tout forfait payant — [consultez la couverture actuelle](/plans/) et la [eSIM de départ gratuite](/free-esim/) est le lieu sans risque pour commencer.
+Première fois avec Roami ? L'essai ne coûte rien. Quand vous vous engagez, le code **web20** retire **20 %** sur tout forfait payant — [consultez la couverture actuelle](/plans/) et la [eSIM de départ gratuite](/free-esim/) est le lieu sans risque pour commencer.
 
 [Obtenir une eSIM Namibie](/namibia-esim/)
 

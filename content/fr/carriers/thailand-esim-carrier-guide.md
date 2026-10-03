@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Thaïlande : quel réseau choisir ?"
 description: "Roami compare AIS, TrueMove H et dtac pour une eSIM Thaïlande : vitesses Ookla, couverture des îles et prix au passeport."
-image: "img/esim/carriers/thailand-esim-carrier-guide.jpg"
+image: "img/esim/carriers/thailand-esim-carrier-guide.webp"
 date: "2026-09-23T04:25:29+00:00"
 keywords: opérateurs eSIM Thaïlande, AIS eSIM, TrueMove H eSIM, dtac eSIM, couverture 5G Thaïlande, APN eSIM Thaïlande, eSIM Thaïlande prépayée, meilleur opérateur eSIM Thaïlande
 site_name: Roami
@@ -16,13 +16,13 @@ hero_subtitle_main: "Trois réseaux, une décision, et les données pour la pren
 ---
 
 
-Pour une eSIM Thaïlande, AIS mène globalement, TrueMove H domine la disponibilité 5G et dtac reste l'entrée la moins chère — mais les trois réseaux nationaux ne sont pas interchangeables, et l'écart entre eux se creuse à mesure que vous vous éloignez de Bangkok. Dans le rapport Thaïlande 1H 2025 d'Ookla, **AIS** était le meilleur réseau mobile global et le meilleur réseau 5G, avec un Speedtest Connectivity Score de **76,05**. **TrueMove H** affichait la disponibilité 5G la plus élevée à **74,2 %**. **dtac** traîne sur la vitesse brute mais livre encore un score de constance de **92,5 %**. Lequel vous convient dépend donc de votre itinéraire : le circuit ville-et-côte, ou les collines et les plus petites îles du golfe. Marketing et réalité divergent parfois en Thaïlande ; quand c'est le cas, nous le disons, et la section d'enregistrement détaille les petites lignes qui mordent.
+Parmi les opérateurs eSIM Thaïlande, AIS mène globalement, TrueMove H domine la disponibilité 5G et dtac reste l'entrée la moins chère — mais les trois réseaux nationaux ne sont pas interchangeables, et l'écart entre eux se creuse à mesure que vous vous éloignez de Bangkok. Dans le rapport Thaïlande 1H 2025 d'Ookla, **AIS** était le meilleur réseau mobile global et le meilleur réseau 5G, avec un Speedtest Connectivity Score de **76,05**. **TrueMove H** affichait la disponibilité 5G la plus élevée à **74,2 %**. **dtac** traîne sur la vitesse brute mais livre encore un score de constance de **92,5 %**. Lequel vous convient dépend donc de votre itinéraire : le circuit ville-et-côte, ou les collines et les plus petites îles du golfe. Marketing et réalité divergent parfois en Thaïlande ; quand c'est le cas, nous le disons, et la section d'enregistrement détaille les petites lignes qui mordent.
 
 Le support des appareils varie, et une première installation de profil est un territoire inconnu pour la plupart des voyageurs. Les deux lacunes sont couvertes ailleurs — la [page de compatibilité eSIM](/compatibility/) et l'[explicateur d'activation](/faq/what-is-esim-activation-and-how-does-it-work/) — donc cette page peut rester sur les réseaux.
 
-**Si vous ne lisez rien d'autre :** Vous restez à Bangkok, Phuket ou Chiang Mai ? AIS est le réseau le plus primé et TrueMove H détient la 5G le plus souvent. Cap vers les îles ou les montagnes du nord ? AIS a la meilleure réputation rurale et insulaire. Vous voulez acheter directement à un opérateur thaïlandais en tant que visiteur ? Vous le pouvez, mais les règles NBTC imposent un passeport plus un scan facial en direct au comptoir. Ou évitez la paperasse : l'[eSIM d'essai gratuite](/free-esim/) teste les réseaux sans frais ; appliquez le code **WEB20** pour 20 % de réduction sur les [forfaits eSIM prépayés Thaïlande](/thailand-esim/).
+**Si vous ne lisez rien d'autre :** Vous restez à Bangkok, Phuket ou Chiang Mai ? AIS est le réseau le plus primé et TrueMove H détient la 5G le plus souvent. Cap vers les îles ou les montagnes du nord ? AIS a la meilleure réputation rurale et insulaire. Vous voulez acheter directement à un opérateur thaïlandais en tant que visiteur ? Vous le pouvez, mais les règles NBTC imposent un passeport plus un scan facial en direct au comptoir. Ou évitez la paperasse : l'[eSIM d'essai gratuite](/free-esim/) teste les réseaux sans frais ; appliquez le code **web20** pour 20 % de réduction sur les [forfaits eSIM prépayés Thaïlande](/thailand-esim/).
 
-## Qui sont les opérateurs derrière votre eSIM en Thaïlande ?
+## Qui sont les opérateurs eSIM Thaïlande ?
 
 ### AIS, TrueMove H et dtac : comment se comparent-ils ?
 
@@ -57,7 +57,7 @@ Deux mises en garde. D'abord, les marques économiques qui chevauchent un autre 
 | Accès réseau | Un seul opérateur | Basculement automatique entre AIS, TrueMove H et dtac où disponible |
 | Idéal pour | Séjours d'un mois ou plus, ou quiconque a besoin d'un numéro de téléphone thaïlandais | Voyages d'une à trois semaines, et quiconque veut être en ligne à l'atterrissage |
 
-Pour un voyage standard de deux semaines, l'eSIM voyage gagne sur le prix. Un forfait prépayé thaïlandais facture par forfait et vous lie à un rendez-vous d'enregistrement ; une eSIM voyage achète des données en gros et laisse l'appareil bouger entre réseaux. Là où l'opérateur gagne, c'est la longévité et la voix : un vrai numéro thaïlandais, des appels locaux, et un forfait qui fonctionne encore au troisième mois.
+Pour un voyage standard de deux semaines, l'eSIM voyage gagne sur le prix. Un forfait data prépayé thaïlandais facture par forfait et vous lie à un rendez-vous d'enregistrement ; une eSIM voyage achète des données en gros et laisse l'appareil bouger entre réseaux. Là où l'opérateur gagne, c'est la longévité et la voix : un vrai numéro thaïlandais, des appels locaux, et un forfait qui fonctionne encore au troisième mois.
 
 Une eSIM multi-réseau est le chemin du milieu pratique : l'[eSIM Thaïlande de Roami](/thailand-esim/) garde la commodité de la livraison instantanée, bascule automatiquement entre AIS, TrueMove H et dtac, et vous pose encore sur AIS dans les îles et TrueMove H en ville sans acheter deux fois.
 
@@ -67,7 +67,7 @@ Trois choses décident si votre téléphone fonctionne sur un opérateur thaïla
 
 ### Les appareils Android peuvent-ils utiliser les eSIM Thaïlande ?
 
-Les opérateurs thaïlandais bâtissent leur 5G sur des bandes spécifiques — notamment **n28 (700 MHz)** pour la portée rurale, **n41 (2600 MHz)** et **n78 (3500 MHz)** pour la capacité urbaine, plus **n1** et **n3** en zones métro. Bien des appareils internationaux, dont plusieurs variantes régionales d'iPhone, sont livrés sans l'ensemble complet des bandes moyennes thaïlandaises. Ces téléphones fonctionnent encore : ils retombent en 4G dès que vous quittez les zones urbaines denses, ce qui est acceptable en centre-ville et frustrant sur une île calme.
+Les opérateurs thaïlandais bâtissent leur 5G sur des fréquences spécifiques — notamment **n28 (700 MHz)** pour la portée rurale, **n41 (2600 MHz)** et **n78 (3500 MHz)** pour la capacité urbaine, plus **n1** et **n3** en zones métro. Bien des appareils internationaux, dont plusieurs variantes régionales d'iPhone, sont livrés sans l'ensemble complet des bandes moyennes thaïlandaises. Ces téléphones fonctionnent encore : ils retombent en 4G dès que vous quittez les zones urbaines denses, ce qui est acceptable en centre-ville et frustrant sur une île calme.
 
 Les tableaux de bandes aident rarement un voyageur en pratique. L'étape fiable est de comparer le numéro de modèle, pas le nom marketing, avec la [liste de compatibilité des appareils](/compatibility/). Si vous préférez comprendre la mécanique d'abord, [ce qui se passe quand un téléphone charge un profil eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) a le détail.
 
@@ -76,7 +76,7 @@ Les tableaux de bandes aident rarement un voyageur en pratique. L'étape fiable 
 | 4G LTE | B1 (2100 MHz), B3 (1800 MHz), B5 (850 MHz), B8 (900 MHz), B20 (800 MHz), B28 (700 MHz), B40 (2300 MHz) |
 | 5G NR | n1 (2100 MHz), n3 (1800 MHz), n28 (700 MHz), n40 (2300 MHz), n41 (2600 MHz), n78 (3500 MHz), n79 (4500 MHz) |
 
-Un téléphone avec n28 et n41 couvre l'ensemble des bandes moyennes thaïlandaises qui porte la plupart de la capacité 5G ; manquer ces bandes signifie plus de repli en 4G.
+Un téléphone avec n28 et n41 porte l'essentiel de la capacité 5G thaïlandaise ; sans elles, votre couverture 4G/5G retombe en 4G hors des centres urbains.
 
 ### Votre téléphone est-il compatible avec les réseaux Thaïlande ?
 
@@ -140,7 +140,7 @@ Ce sont les paliers touristiques standard des aéroports et des canaux officiels
 | TrueMove H | 15 Go, environ 299 à 449 THB | 30 Go, environ 699 THB | Illimité, environ 1199 THB |
 | dtac | 15 Go, environ 299 THB | 30 Go, environ 599 THB | Illimité, environ 1199 THB |
 
-Chaque palier touristique roule sur le réseau d'un seul opérateur et réduit le débit après un plafond d'usage équitable plutôt que de couper, donc adaptez l'enveloppe à votre streaming et usage de cartes. En dérivé utile : l'entrée 299 THB pour 15 Go sur 8 jours revient à environ 20 THB par gigaoctet et 37 THB par jour, et le palier dtac 15 jours à 599 THB pour 30 Go tient le même prix au gigaoctet — payer plus n'achète donc pas des données meilleur marché, juste du volume et des jours.
+Chaque palier touristique roule sur le réseau d'un seul opérateur et réduit le débit après un plafond d'usage équitable plutôt que de couper, donc adaptez l'enveloppe à votre streaming et usage de cartes. En dérivé utile : l'entrée 299 THB pour 15 Go sur 8 jours revient à environ 20 THB par gigaoctet et 37 THB par jour, et le palier dtac 15 jours à 599 THB pour 30 Go tient le même prix au gigaoctet — payer plus n'achète donc pas des données meilleur marché, juste du volume et des jours. Un détail que le tableau efface : à l'entrée, les trois opérateurs se rejoignent — AIS, TrueMove H et dtac démarrent tous autour de 299 THB pour 8 jours et 15 Go, donc l'avantage « moins cher » de dtac s'efface sur ce palier et ne réapparaît qu'au-dessus.
 
 ### Quels forfaits et tarifs de données eSIM en Thaïlande ?
 
@@ -152,7 +152,7 @@ Chaque palier touristique roule sur le réseau d'un seul opérateur et réduit l
 - **Partage de connexion** — confirmez que le palier l'inclut avant de diffuser la connexion à un ordinateur
 - **IMEI et EID** — composez `*#06#` pour que le support identifie l'appareil si l'activation bloque
 
-## Qui sont AIS, TrueMove H et dtac ?
+## Vitesses des opérateurs eSIM Thaïlande : AIS vs TrueMove H
 
 Deux variables comptent dans cette section : la vitesse réelle là où vous allez, et la forme de votre voyage. Les données de performance plus bas répondent à la question de vitesse ; le tableau de voyage répond à l'autre.
 
@@ -203,6 +203,8 @@ Planifiez une route qui quitte la Thaïlande ? Commencez par [eSIM pour le Vietn
 
 Le point d'un profil multi-réseau est exactement ce basculement automatique. Un profil qui peut bouger entre AIS et TrueMove H couvre les trous régionaux qu'aucun forfait mono-opérateur ne peut combler.
 
+Pour choisir le réseau dans chaque pays voisin, nos guides d'opérateurs passent l'[eSIM Vietnam](/carriers/vietnam-esim-carrier-guide/), l'[eSIM Cambodge](/carriers/cambodia-esim-carrier-guide/), l'[eSIM Malaisie](/carriers/malaysia-esim-carrier-guide/) et l'[eSIM Singapour](/carriers/singapore-esim-carrier-guide/).
+
 ## Quelles valeurs APN saisir en Thaïlande ?
 
 Les SIM touristiques se configurent généralement d'elles-mêmes, donc traitez l'écran APN comme un outil de dépannage plutôt qu'une étape de configuration. Cette section vous donne chaque valeur d'opérateur, les rares cas nécessitant une saisie manuelle, et le chemin touche par touche.
@@ -221,7 +223,7 @@ Laissez nom d'utilisateur et mot de passe vides. Là où un opérateur demande u
 
 ### Que dit le tableau APN des opérateurs Thaïlande ?
 
-Les profils touristiques AIS, TrueMove H et dtac arrivent normalement préconfigurés, donc la saisie manuelle est un mouvement de dépannage plutôt qu'une étape de configuration. Utilisez-la quand :
+Quand faut-il vraiment ouvrir ces menus ? Dans ces cas seulement :
 
 - Un téléphone plus ancien qui ne capte pas les réglages d'opérateur automatiquement
 - Un profil installé via code d'activation manuel plutôt qu'un scan QR
@@ -321,13 +323,21 @@ Trois familles concentrent presque tous les cas : les téléphones verrouillés 
 
 Oui, et c'est une configuration sensée. Le partage habituel fonctionne bien en Thaïlande : numéro d'origine sur la carte physique, données sur le profil local. Réglez les données sur le profil thaïlandais et laissez votre ligne d'origine pour les appels. Coupez l'itinérance sur la ligne d'origine pour que le trafic de fond n'atteigne jamais votre facture.
 
+### Mon numéro d'origine peut-il recevoir les SMS de vérification avec une eSIM Thaïlande ?
+
+Oui, à condition de ne pas couper votre ligne d'origine. Les profils voyage thaïlandais sont des données prépayées sans numéro local, donc les codes à usage unique et les appels bancaires continuent d'arriver sur votre numéro domestique via votre carte physique. Gardez cette ligne active, pointez les données mobiles vers l'eSIM thaïlandaise, et désactivez seulement l'itinérance des données sur la ligne d'origine — vous recevez ainsi les SMS sans payer de données en itinérance.
+
+### Le partage de connexion est-il inclus dans les forfaits thaïlandais ?
+
+Presque toujours, mais confirmez-le avant de diffuser la connexion à un ordinateur. Les paliers touristiques AIS, TrueMove H et dtac incluent le partage, et il consomme votre forfait data au nom de tous les appareils branchés. Sur un forfait plafonné, un ordinateur portable peut donc rapprocher le plafond d'usage équitable bien plus vite qu'un simple usage téléphone.
+
 ### Comment faire fonctionner mon téléphone verrouillé en Thaïlande ?
 
 Demandez à l'opérateur dont il est verrouillé un déverrouillage avant de voyager ; la Thaïlande n'a aucune règle forçant un déverrouillage local. Votre appareil le montre sous Réglages → Général → À propos → Verrou opérateur. Un téléphone indiquant « SIM verrouillée » n'installera aucune eSIM thaïlandaise jusqu'à ce que le verrou soit levé par votre opérateur d'origine.
 
 ### Quel forfait Thaïlande au meilleur budget ?
 
-dtac gagne généralement sur le prix d'entrée, avec un package touristique 8 jours 15 Go environ 299 THB, tandis qu'AIS et TrueMove H démarrent près du même chiffre et grimpent à environ 1199 THB pour les paliers 30 jours illimités. Les marques budget et les cartes SIM vierges 7-Eleven démarrent plus bas mais exigent un package ajouté par-dessus.
+dtac gagne généralement sur le prix d'entrée, avec un package touristique 8 jours 15 Go environ 299 THB, tandis qu'AIS et TrueMove H démarrent près du même chiffre et grimpent à environ 1199 THB pour les paliers 30 jours illimités. Les marques budget et les cartes SIM prépayées 7-Eleven démarrent plus bas mais exigent un package ajouté par-dessus.
 
 ### Pourquoi mon eSIM a-t-elle cessé de fonctionner sur une traversée en bateau ?
 
@@ -359,7 +369,7 @@ Ce sont des mesures tierces uniquement. Les résultats réels bougent avec votre
 
 ## Comment régler votre eSIM Thaïlande en une minute ?
 
-Soyez joignable dès Suvarnabhumi. Roami déplace vos données entre AIS, TrueMove H et dtac sans que vous touchiez à un réglage, et le basculement ville-île est automatique. Nouveau ici ? Prenez un [essai eSIM gratuit](/free-esim/) d'abord, ou utilisez le code **WEB20** pour 20 % de réduction sur un [forfait eSIM Thaïlande](/thailand-esim/).
+Soyez joignable dès Suvarnabhumi. Roami réunit les opérateurs eSIM Thaïlande — AIS, TrueMove H et dtac — et déplace vos données entre eux sans que vous touchiez à un réglage ; le basculement ville-île est automatique. Nouveau ici ? Prenez un [essai eSIM gratuit](/free-esim/) d'abord, ou utilisez le code **web20** pour 20 % de réduction sur un [forfait eSIM Thaïlande](/thailand-esim/).
 
 [Acheter le forfait eSIM Thaïlande](/thailand-esim/)
 

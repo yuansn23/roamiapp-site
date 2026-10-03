@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Colombie : quel réseau choisir ?"
 description: "Roami compare Claro, Tigo et Movistar pour votre eSIM Colombie : 5G urbaine, vitesse et couverture rurale en haute montagne."
-image: "img/esim/carriers/colombia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/colombia-esim-carrier-guide.webp"
 date: "2026-09-27T10:41:15+00:00"
 keywords: eSIM Colombie, opérateurs eSIM Colombie, eSIM Claro, eSIM Tigo, eSIM Movistar, WOM, réseau 5G Colombie, données prépayées, eSIM voyage
 site_name: Roami
@@ -176,7 +176,7 @@ La logistique quotidienne colombienne passe par deux choses autour desquelles le
 | 5G | 3.5 GHz (n78) | La bande sur laquelle la 5G colombienne fonctionne ; les téléphones sans n78 afficheront LTE partout et jamais d'icône 5G |
 | Ancien | 850 MHz (B5), GSM 850/1900 | Repli vocal dans les petites villes |
 
-La compatibilité est une question en deux parties : le téléphone a-t-il les bandes, et est-il débloqué opérateur ? Un téléphone verrouillé sur un opérateur étranger refusera le profil net, et aucun opérateur colombien ne peut aider. La [liste de compatibilité eSIM](/compatibility/) répond aux deux en une passe, et [l'activation eSIM expliquée](/faq/what-is-esim-activation-and-how-does-it-work/) explique ce qui se passe pendant l'installation.
+La compatibilité est une question en deux parties : le téléphone a-t-il les bandes et les fréquences, et est-il débloqué opérateur ? Un téléphone verrouillé sur un opérateur étranger refusera le profil net, et aucun opérateur colombien ne peut aider. La [liste de compatibilité eSIM](/compatibility/) répond aux deux en une passe, et [l'activation eSIM expliquée](/faq/what-is-esim-activation-and-how-does-it-work/) explique ce qui se passe pendant l'installation.
 
 ## Comment régler l'APN en Colombie ?
 
@@ -206,7 +206,7 @@ Enregistrez et redémarrez. Puis confirmez que c'est l'eSIM, et non la SIM physi
 | Timing | Attendez-vous à une file dans une boutique d'opérateur. Prévoyez une heure à Bogota, plus dans un centre commercial animé |
 | Payer | Espèces et cartes locales fonctionnent toutes deux ; les cartes étrangères sont parfois refusées par les terminaux |
 
-La Colombie est l'un des marchés où une SIM prépayée locale est réellement bon marché par gigaoctet et réellement lente à obtenir. Pour un voyage de deux semaines, l'arithmétique ne favorise que rarement la file ; pour un mois à Medellín, elle le fait parfois, et le numéro local aide avec les applications de livraison et les réservations.
+La Colombie est l'un des marchés où une carte SIM prépayée locale est réellement bon marché par gigaoctet et réellement lente à obtenir. Pour un voyage de deux semaines, l'arithmétique ne favorise que rarement la file ; pour un mois à Medellín, elle le fait parfois, et le numéro local aide avec les applications de livraison et les réservations.
 
 ## Une eSIM Colombie est-elle suffisante pour télétravailler ?
 
@@ -260,13 +260,13 @@ Mieux que la moyenne du pays le suggère. Quindío enregistre une médiane dépa
 
 Un profil spécifique à la Colombie est valable à l'intérieur de la Colombie et nulle part ailleurs. Les deux passages qui attrapent les gens sont le pont de Rumichaca vers l'Équateur et les routes aériennes et maritimes Cartagena–Panama — deux extensions courantes d'un itinéraire colombien, et les deux mettent fin à un forfait Colombie uniquement dès que vous passez.
 
-Si le voyage continue, choisissez l'une des trois voies : ajouter un profil de pays par étape, acheter un forfait régional Amérique du Sud, ou garder une seconde ligne eSIM installée et déplacer la ligne de données dans les réglages au fil du voyage. Notre [page eSIM Équateur](/ecuador-esim/), notre [guide eSIM Panama](/carriers/panama-esim-carrier-guide/) et nos [forfaits eSIM Pérou](/peru-esim/) couvrent les extensions habituelles.
+Si le voyage continue, choisissez l'une des trois voies : ajouter un profil de pays par étape, acheter un forfait régional Amérique du Sud, ou garder une seconde ligne eSIM installée et déplacer la ligne de données dans les réglages au fil du voyage. Notre [guide des opérateurs Équateur](/carriers/ecuador-esim-carrier-guide/), notre [guide eSIM Panama](/carriers/panama-esim-carrier-guide/) et nos [forfaits eSIM Pérou](/peru-esim/) couvrent les extensions habituelles.
 
 ## Questions fréquentes sur l'eSIM Colombie
 
 ### Une eSIM Colombie fonctionne-t-elle dans les pays voisins ?
 
-Un forfait Colombie uniquement meurt à la frontière — l'Équateur, le Pérou et le Brésil sont tous en dehors, et il se tait dès que vous passez. Si votre itinéraire franchit des frontières plus d'une fois, ajoutez un profil de pays par étape ou utilisez un forfait régional Amérique du Sud ; notre [guide eSIM Pérou](/carriers/peru-esim-carrier-guide/) et notre [page eSIM Mexique](/mexico-esim/) couvrent les étapes les plus proches.
+Un forfait Colombie uniquement meurt à la frontière — l'Équateur, le Pérou et le Brésil sont tous en dehors, et il se tait dès que vous passez. Si votre itinéraire franchit des frontières plus d'une fois, ajoutez un profil de pays par étape ou utilisez un forfait régional Amérique du Sud ; notre [guide eSIM Pérou](/carriers/peru-esim-carrier-guide/) et notre [guide des opérateurs Mexique](/carriers/mexico-esim-carrier-guide/) couvrent les étapes les plus proches.
 
 ### Où la 5G est-elle la plus forte en Colombie ?
 
@@ -305,7 +305,7 @@ Pour un usage mixte — cartes, VTC, messagerie, un peu de streaming — comptez
 
 ### Faut-il montrer une pièce d'identité en Colombie ?
 
-Oui — une ligne prépayée colombienne est enregistrée sous un document d'identité au point de vente, et le passeport est le document qu'un visiteur utilise. Il n'y a pas de voie anonyme légitime, ce qui est une raison pour laquelle une eSIM voyage est l'option la plus rapide pour un court séjour.
+Oui — une ligne prépayée colombienne est enregistrée sous un document d'identité au point de vente, et le passeport est le document qu'un visiteur utilise. Il n'y a pas de voie anonyme légitime, ce qui est une raison pour laquelle une eSIM voyage est l'option la plus rapide pour un court séjour. Au comptoir, gardez du liquide sous la main : les cartes bancaires étrangères sont parfois refusées par les terminaux locaux.
 
 ### Quelles valeurs APN pour Claro, Tigo et Movistar ?
 
@@ -333,7 +333,7 @@ Oui sur les niveaux voyage standard, l'ordinateur portable partageant le même r
 
 ### Comment utiliser une eSIM Colombie à l'étranger ?
 
-Un profil Colombie uniquement s'arrête à la frontière ; pour continuer, il faut un forfait régional ou un profil par étape. Côté budget, l'eSIM voyage reste presque toujours la voie la plus économique : le prépayé colombien est bon marché selon les normes internationales, mais le tarif d'itinérance d'un opérateur domestique est un multiple du prix de détail local. Une eSIM de voyage se situe entre les deux : plus qu'une SIM locale, bien moins que l'itinérance, et disponible avant d'atterrir.
+Côté budget, l'eSIM voyage reste presque toujours la voie la plus économique : le prépayé colombien est bon marché selon les normes internationales, mais le tarif d'itinérance d'un opérateur domestique est un multiple du prix de détail local. Une eSIM de voyage se situe entre les deux : plus qu'une SIM locale, bien moins que l'itinérance, et disponible avant d'atterrir.
 
 ### Quand faut-il activer le profil Colombie ?
 
@@ -341,7 +341,7 @@ Chez vous, sur votre propre Wi-Fi, un jour ou deux avant de voler — puis coup�
 
 ### Que contiennent les forfaits colombiens ?
 
-Essentiellement des données : les prépayés locaux sont des enveloppes de data rechargeables en boutique, par bons de supermarché ou de kiosque, ou via l'application de l'opérateur. Pour la double SIM, cela vaut la peine de bien régler les lignes : gardez les appels et les codes à usage unique sur la SIM physique, définissez l'eSIM comme ligne de données et désactivez l'itinérance des données sur votre ligne domestique sauf si votre tarif l'inclut explicitement. Les deux profils coexistent sans drame ; le coût que vous évitez est le tarif d'itinérance de votre opérateur domestique, pas une limitation technique.
+Essentiellement des données : les prépayés locaux sont des forfaits data rechargeables en boutique, par bons de supermarché ou de kiosque, ou via l'application de l'opérateur. Pour la double SIM, cela vaut la peine de bien régler les lignes : gardez les appels et les codes à usage unique sur la SIM physique, définissez l'eSIM comme ligne de données et désactivez l'itinérance des données sur votre ligne domestique sauf si votre tarif l'inclut explicitement. Les deux profils coexistent sans drame ; le coût que vous évitez est le tarif d'itinérance de votre opérateur domestique, pas une limitation technique.
 
 ### Une carte prépayée Claro est-elle un meilleur rapport qualité-prix qu'un profil voyage ?
 
@@ -372,4 +372,4 @@ Un profil atteignant Claro, Tigo et Movistar répond à la question du réseau o
 
 *Aucune carte nécessaire pour l'essai*
 
-Une note de clôture de Roami : les voyageurs qui testent d'abord la couverture le regrettent rarement. L'[eSIM d'essai](/free-esim/) reflète la configuration locale sur Claro, et le code **WEB20** retire 20% d'un forfait Roami payant quand vous êtes prêt.
+Une note de clôture de Roami : les voyageurs qui testent d'abord la couverture le regrettent rarement. L'[essai avant achat](/free-esim/) reflète la configuration locale sur Claro, et le code **web20** retire 20% d'un forfait Roami payant quand vous êtes prêt.

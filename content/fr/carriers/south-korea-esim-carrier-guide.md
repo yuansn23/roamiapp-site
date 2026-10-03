@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Corée du Sud : quel réseau choisir ?"
 description: "Roami compare SK Telecom, KT et LG U+ pour une eSIM Corée du Sud : vitesse, couverture et prix des forfaits touristiques prépayés."
-image: "img/esim/carriers/south-korea-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-korea-esim-carrier-guide.webp"
 date: "2026-09-23T19:49:44+00:00"
 keywords: eSIM Corée du Sud, opérateurs eSIM Corée du Sud, data prépayée, réseau 5G, SK Telecom, LG U+, KT, eSIM Roami, internet voyage
 site_name: Roami
@@ -140,7 +140,7 @@ La traduction pratique : l'économie de la carte SIM locale ne favorise pas les 
 
 ## Comment installer un eSIM Corée du Sud avant Incheon ?
 
-Le profil arrive par e-mail quelques minutes après le paiement et s'installe dans Réglages ; la [page des forfaits eSIM Corée](/south-korea-esim/) a les forfaits actuels, et le catalogue général des défaillances se trouve dans le [guide de dépannage](/faq/esim-activation-errors-troubleshooting-guide/).
+Le profil arrive par e-mail quelques minutes après le paiement et s'installe dans Réglages ; la [gamme de forfaits eSIM Corée](/south-korea-esim/) a les forfaits actuels, et le catalogue général des défaillances se trouve dans le [guide de dépannage](/faq/esim-activation-errors-troubleshooting-guide/).
 
 La Corée ajoute une singularité technique valant la peine d'être connue à l'avance : une poignée de profils — particulièrement les forfaits roulant sur MVNO — nécessitent un APN saisi manuellement. Les valeurs standard sont `lte.sktelecom.com` pour SKT, `lte.ktfwing.com` pour KT et `internet.lguplus.co.kr` pour LG U+, laissées vides en nom d'utilisateur et mot de passe ; la plupart des eSIM voyage sont préconfigurés et ne demandent jamais. Au-delà, la procédure est universelle : installer sur le Wi-Fi à la maison, définir l'eSIM comme ligne data, activer l'itinérance data pour elle, et garder la carte SIM personnelle active pour la vérification SMS. Les halls d'arrivée d'Incheon sont assez chargés pour que vous ne vouliez pas dépanner là-bas.
 
@@ -165,7 +165,7 @@ La Corée du Sud est l'une des rares destinations où l'ancien conseil — louer
 | 5G onde millimétrique | 28 GHz — licences révoquées | Les licences de spectre mmWave ont été retirées, retardant les téléphones mmWave et retirant cette bande du plan réseau |
 | Legacy | 2G et 3G retirés | Les téléphones plus anciens qui s'appuient sur le repli 3G ne s'enregistreront pas en voix |
 
-La conséquence pratique de tout cela : **la seule spécification de bande qui compte pour un eSIM coréen est n78 et l'ensemble LTE standard**, et un téléphone sans n78 délivre encore une expérience LTE au-delà de 180 Mbps. La Corée est aussi à noter pour avoir retiré ses réseaux plus anciens, donc un appareil dépendant de la 3G ne fonctionnera pas du tout. Confirmez votre modèle dans la [page de compatibilité](/compatibility/) si vous voyagez avec un téléphone plus ancien ou importé.
+La conséquence pratique de tout cela : **la seule spécification de bande qui compte pour un eSIM coréen est n78 et l'ensemble LTE standard**, et un téléphone sans n78 délivre encore une expérience LTE au-delà de 180 Mbps. La Corée est aussi à noter pour avoir retiré ses réseaux plus anciens, donc un appareil dépendant de la 3G ne fonctionnera pas du tout. Confirmez votre modèle dans l'[outil de compatibilité eSIM](/compatibility/) si vous voyagez avec un téléphone plus ancien ou importé.
 
 ## Combien coûte une carte SIM ou une eSIM coréenne pour un visiteur ?
 
@@ -271,7 +271,7 @@ Pas pour des raisons pratiques. Les licences 28 GHz ont été révoquées après
 
 ### Puis-je utiliser mon eSIM Corée du Sud au Japon ou à Taïwan, Chine ?
 
-En Corée et nulle part ailleurs. La [page eSIM Japon](/japan-esim/) et le [guide eSIM Taïwan, Chine](/carriers/taiwan-esim-carrier-guide/) couvrent les étapes voisines, et un profil régional Asie de l'Est couvre toute la route en un seul achat.
+En Corée et nulle part ailleurs. La [page eSIM Japon](/japan-esim/) et le [guide eSIM Taïwan (Chine)](/carriers/taiwan-esim-carrier-guide/) couvrent les étapes voisines ; pour comparer les opérateurs, le [guide eSIM Chine](/carriers/china-esim-carrier-guide/) et le [guide eSIM Hong Kong (Chine)](/carriers/hong-kong-esim-carrier-guide/) détaillent aussi leurs réseaux, et un profil régional Asie de l'Est couvre toute la route en un seul achat.
 
 ### Comment fonctionnent les forfaits data en Corée du Sud ?
 
@@ -349,6 +349,10 @@ La Corée est atypique en ce que les opérateurs eux-mêmes vendent des produits
 
 Depuis l'appli du fournisseur, en quelques minutes, gardant le même profil. La data coréenne est chère localement — environ USD 5.01 par gigaoctet — donc ajuster le palier à votre usage réel compte plus ici que presque partout ailleurs. Rechargez avant le ferry ou le vol vers Jeju plutôt que de compter sur le Wi-Fi de l'île au moment où l'enveloppe se termine.
 
+### Une eSIM coréenne suffit-elle pour KakaoTalk et Naver Map ?
+
+Oui. Naver Map, KakaoMap et Papago tournent sur la data seule, pas sur un numéro coréen, donc une eSIM data uniquement couvre la navigation, la traduction et les réservations par KakaoTalk. Seuls certains services (Kakao Taxi, quelques applis de livraison) préfèrent un numéro 010 local, que propose un forfait touristique opérateur bundlé.
+
 ## D'où viennent les chiffres de ce guide Corée du Sud ?
 
 Chaque chiffre de performance coréen de cet article est tiré du [rapport de connectivité Corée du Sud 1H 2024 d'Ookla](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024), qui fournit aussi le détail des licences mmWave et les métriques SK Telecom, KT et LG U+. Tant la médiane 250.56 Mbps que la sixième place mondiale de la Corée viennent de [l'index mensuel Corée d'Ookla](https://www.speedtest.net/global-index/south-korea). Chaque chiffre est étayé par au moins deux références, jamais une seule.
@@ -361,10 +365,10 @@ Gardez à l'esprit que les chiffres coréens vieillissent vite — ces réseaux 
 
 Les trois réseaux de Corée sont solides, et la file au comptoir opérateur d'Incheon est la chose la plus lente de l'arrivée. Chargez votre profil à la maison et il se connecte dès le toucher.
 
-La [page eSIM Corée du Sud](/south-korea-esim/) porte les paliers payants ; un [profil d'essai gratuit](/free-esim/) est le moyen à faible risque de vérifier le réseau d'abord.
+La [gamme de forfaits eSIM Corée du Sud](/south-korea-esim/) porte les paliers payants ; un [profil d'essai gratuit](/free-esim/) est le moyen à faible risque de vérifier le réseau d'abord.
 
 [Commander mon eSIM Corée du Sud](/south-korea-esim/)
 
 *Aucun ID coréen requis*
 
-Avant votre voyage : lancez la [vérification de compatibilité eSIM](/compatibility/), prenez l'[eSIM d'essai](/free-esim/) de Roami pour tester la couverture là où vous séjournez, et gardez **WEB20** à portée — il retire 20 % de tout forfait Roami quand vous serez prêt à vous engager.
+Avant votre voyage : lancez la [vérification de compatibilité eSIM](/compatibility/), prenez l'[eSIM d'essai](/free-esim/) de Roami pour tester la couverture là où vous séjournez, et gardez **web20** à portée — il retire 20 % de tout forfait Roami quand vous serez prêt à vous engager.

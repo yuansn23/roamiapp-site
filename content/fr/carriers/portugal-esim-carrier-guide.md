@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Portugal : quel réseau choisir ?"
 description: "Roami compare MEO, NOS, Vodafone et Digi pour une eSIM Portugal : vitesses mesurées, couverture et prix des forfaits prépayés."
-image: "img/esim/carriers/portugal-esim-carrier-guide.jpg"
+image: "img/esim/carriers/portugal-esim-carrier-guide.webp"
 date: "2026-09-24T16:43:52+00:00"
 keywords: opérateurs eSIM Portugal, MEO eSIM, NOS eSIM, Vodafone eSIM, Digi eSIM, couverture 5G Portugal, APN eSIM Portugal, eSIM Portugal prépayé, meilleur opérateur eSIM Portugal, eSIM voyage Portugal
 site_name: Roami
@@ -16,15 +16,15 @@ hero_subtitle_main: "Couverture, prix et le petit print qui décide de votre voy
 ---
 
 
-Une eSIM Portugal se choisit moins sur le prix que sur le réseau — MEO, NOS, Vodafone ou le nouveau Digi — et ce guide désigne l'opérateur à prendre selon votre itinéraire. Le pays compte désormais quatre réseaux nationaux plutôt que trois, et le moins cher d'entre eux n'est pas le plus lent. Dans le rapport 1H 2025 du Portugal d'Ookla, NOS a été nommé meilleur réseau mobile avec un Speedtest Connectivity Score de 79.87, MEO a remporté le prix du meilleur réseau 5G, Vodafone a mené sur la cohérence et la disponibilité 5G à 80.3 pour cent, et le nouvel entrant low-cost Digi a affiché le meilleur score de jeu mobile à 82.23. Le gagnant dépend de la région que vous parcourez. Notre cycle de mise à jour s'appuie sur les données d'activation et les tickets d'assistance Portugal de Roami, avec les communiqués de presse en source secondaire.
+Choisir parmi les **opérateurs eSIM Portugal** — MEO, NOS, Vodafone ou le nouveau Digi — se joue moins sur le prix que sur le réseau, et ce guide désigne l'opérateur à prendre selon votre itinéraire. Le pays compte désormais quatre réseaux nationaux plutôt que trois, et le moins cher d'entre eux n'est pas le plus lent. Dans le rapport 1H 2025 du Portugal d'Ookla, NOS a été nommé meilleur réseau mobile avec un Speedtest Connectivity Score de 79.87, MEO a remporté le prix du meilleur réseau 5G, Vodafone a mené sur la cohérence et la disponibilité 5G à 80.3 pour cent, et le nouvel entrant low-cost Digi a affiché le meilleur score de jeu mobile à 82.23. Le gagnant dépend de la région que vous parcourez. Notre cycle de mise à jour s'appuie sur les données d'activation et les tickets d'assistance Portugal de Roami, avec les communiqués de presse en source secondaire.
 
 **Réponse rapide :** MEO gagne l'argument de couverture au Portugal, NOS gagne sur les données à bas prix — les tableaux ci-dessous tranchent les détails. Vous pouvez aussi tester la configuration réseau Portugal gratuitement via l'[eSIM d'essai sans frais](/free-esim/) de Roami.
 
 Deux inconnues fréquentes : le téléphone supporte-t-il l'eSIM, et comment l'installation fonctionne-t-elle ? Passez votre modèle dans la [page de compatibilité](/compatibility/) d'abord, puis lisez [comment s'installe un profil eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) — les deux sont des prérequis que cette page saute délibérément.
 
-**En résumé :** Vous restez à Lisbonne, Porto ou l'Algarve ? Les trois réseaux historiques sont forts en ville, NOS portant le titre de meilleur réseau mobile. Vous roulez dans l'intérieur de l'Alentejo, marchez les levadas de Madère ou faites l'île en île des Açores ? MEO et Vodafone gardent le signal là où NOS s'efface. Vous voulez un eSIM qui atteint les quatre réseaux sans paperasse ? l'[eSIM d'essai sans frais](/free-esim/) teste les réseaux sans coût, et **WEB20** retire 20 % des [forfaits eSIM prépayés Portugal](/portugal-esim/).
+**En résumé :** Vous restez à Lisbonne, Porto ou l'Algarve ? Les trois réseaux historiques sont forts en ville, NOS portant le titre de meilleur réseau mobile. Vous roulez dans l'intérieur de l'Alentejo, marchez les levadas de Madère ou faites l'île en île des Açores ? MEO et Vodafone gardent le signal là où NOS s'efface. Vous voulez un eSIM qui atteint les quatre réseaux sans paperasse ? un [essai eSIM Portugal gratuit](/free-esim/) teste les réseaux sans coût, et **web20** retire 20 % des [forfaits eSIM prépayés Portugal](/portugal-esim/).
 
-## Qui sont les opérateurs locaux, MEO, NOS et Vodafone ?
+## Qui sont les opérateurs eSIM Portugal : MEO, NOS, Vodafone et Digi ?
 
 Cette section répond à la question la plus pratique qu'un voyageur se pose : lequel des réseaux du Portugal pouvez-vous réellement mettre sur un eSIM, et cela vaut-il la paperasse par rapport à un profil voyage.
 
@@ -66,7 +66,7 @@ Deux mises en garde. D'abord, plusieurs marques de remise demandent un numéro f
 
 Pour des vacances ordinaires, la commodité l'emporte sur le forfait de style résidentiel. Un contrat opérateur est bâti pour les gens qui veulent un numéro portugais et une facturation mensuelle. Un eSIM voyage achète des données en gros et laisse l'appareil se déplacer entre réseaux. Là où l'opérateur gagne, c'est la voix et la longévité : un vrai numéro local et un forfait qui fonctionne encore au troisième mois.
 
-💡 Un profil eSIM multi-réseaux est le chemin du milieu pratique : l'[eSIM Portugal de Roami](/portugal-esim/) garde la commodité de la livraison instantanée, bascule automatiquement entre MEO, NOS, Vodafone et Digi, et vous pose encore sur NOS à Lisbonne et MEO aux Açores sans acheter deux fois.
+💡 Un profil eSIM multi-réseaux est le chemin du milieu pratique : l'[eSIM Portugal de Roami](/portugal-esim/) garde la commodité de la livraison instantanée, bascule automatiquement entre MEO, NOS, Vodafone et Digi, et vous pose encore sur NOS à Lisbonne et MEO aux Açores sans acheter deux fois — un **forfait data** sans numéro local, livré en quelques minutes.
 
 ## Votre téléphone est-il prêt pour un eSIM opérateur Portugal ?
 
@@ -74,7 +74,7 @@ Trois choses décident si votre téléphone fonctionne sur un opérateur portuga
 
 ### Mon modèle fonctionnera-t-il avec le service eSIM Portugal ?
 
-Les opérateurs portugais construisent leur 5G sur des bandes spécifiques, menées par n78 à 3.5 GHz pour la vitesse urbaine, avec n1 et n3 pour une couverture plus large et n28 à 700 MHz plus n20 à 800 MHz pour la portée rurale et intérieure. En 4G, les chevaux de trait sont B3 à 1800 MHz, B7 à 2600 MHz, B20 à 800 MHz et B1 à 2100 MHz. La plupart des téléphones internationaux modernes les supportent déjà, de sorte qu'un visiteur d'Amérique du Nord ou d'Asie est rarement bloqué net.
+Les opérateurs portugais construisent leur 5G sur des **fréquences** spécifiques, menées par n78 à 3.5 GHz pour la vitesse urbaine, avec n1 et n3 pour une couverture plus large et n28 à 700 MHz plus n20 à 800 MHz pour la portée rurale et intérieure. En 4G, les chevaux de trait sont B3 à 1800 MHz, B7 à 2600 MHz, B20 à 800 MHz et B1 à 2100 MHz. La plupart des téléphones internationaux modernes les supportent déjà, de sorte qu'un visiteur d'Amérique du Nord ou d'Asie est rarement bloqué net.
 
 Personne n'a besoin de connaître les tableaux de bandes par cœur. Le numéro de modèle bat le nom marketing, alors cherchez le vôtre dans la [page de compatibilité eSIM](/compatibility/). [La mécanique d'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) décortique le processus, lecture utile pendant que vous planifiez le Camino.
 
@@ -100,7 +100,7 @@ Si vous avez acheté un téléphone à crédit auprès d'un opérateur US ou eur
 
 Tout le reste concerne votre téléphone particulier, pas MEO ou NOS. Vérifiez la [liste de compatibilité des appareils](/compatibility/) avant le paiement, pas après l'atterrissage à Lisbonne.
 
-## Quels forfaits eSIM Portugal et à quel prix ?
+## Quels forfaits des opérateurs eSIM Portugal et à quel prix ?
 
 Quatre routes existent, et elles diffèrent plus par la paperasse que par le prix : MEO en ligne, NOS et Vodafone en magasin, Digi pour les esprits économiques, et l'eSIM voyage qui saute le comptoir. Chaque route, étape par étape :
 
@@ -137,7 +137,7 @@ Les autres marques économiques, Lycamobile sur capacité MEO, UZO et Woo, tende
 
 ### Quels sont les forfaits data les moins chers au Portugal ?
 
-Tous les prix ci-dessous sont en euros et reflètent les forfaits prépayés touristiques typiques 2026 observés chez les trois opérateurs historiques. Ils incluent l'enveloppe d'itinérance UE, ce qui compte si votre voyage traverse vers l'Espagne ou la France.
+Tous les prix ci-dessous sont en euros et reflètent les forfaits prépayés touristiques typiques 2026 observés chez les trois opérateurs historiques. Ils incluent l'enveloppe d'itinérance UE pour vos **données prépayées**, ce qui compte si votre voyage traverse vers l'Espagne ou la France.
 
 | Opérateur | Forfait | Données et validité | Itinérance UE | Prix |
 |:---|:---|:---|:---|:---|
@@ -147,7 +147,7 @@ Tous les prix ci-dessous sont en euros et reflètent les forfaits prépayés tou
 | Vodafone | Traveller Option A | 30 GB, 30 jours | 12 GB | environ 20 EUR |
 | Vodafone | Traveller Option B | 50 GB, 30 jours | 18 GB | environ 30 EUR |
 
-Ces forfaits sont des packs data-et-voix avec SMS nationaux illimités et un bloc de minutes. Les eSIM voyage données-seules se tarifient différemment, généralement au gigaoctet, et sautent entièrement le numéro local. En dérivé utile : le pack MEO d'entrée revient à environ 0.72 EUR le gigaoctet et 1.20 EUR par jour, tandis que le Vodafone à 50 Go descend vers 0.60 EUR le gigaoctet — plus votre consommation est lourde, plus le gros volume paie. Si vous comptez partager la connexion avec un ordinateur, vérifiez aussi que le forfait l'autorise avant d'acheter.
+Ces forfaits sont des packs data-et-voix avec SMS nationaux illimités et un bloc de minutes. Les eSIM voyage données-seules se tarifient différemment, généralement au gigaoctet, et sautent entièrement le numéro local. En dérivé utile : le pack MEO d'entrée revient à environ 0.72 EUR le gigaoctet et 1.20 EUR par jour, tandis que le Vodafone à 50 Go descend vers 0.60 EUR le gigaoctet — plus votre consommation est lourde, plus le gros volume paie. Si vous comptez faire du **partage de connexion** avec un ordinateur, vérifiez aussi que le forfait l'autorise avant d'acheter.
 
 ### Quels forfaits eSIM MEO pour les visiteurs ?
 
@@ -158,7 +158,7 @@ Ces forfaits sont des packs data-et-voix avec SMS nationaux illimités et un blo
 - **Une carte qui fonctionne au Portugal** — certains paiements opérateur rejettent les adresses de facturation étrangères
 - **Wi-Fi** — installez le profil avant de prendre l'avion, pas à l'aéroport
 
-Installez chez vous. Les salles d'arrivée de Lisbonne et Porto ont un Wi-Fi congestionné exactement quand vous en avez le plus besoin, et un profil installé sur place se dispute le même réseau que celui de tous les autres arrivants.
+Installez chez vous, sur un réseau que vous maîtrisez, plutôt qu'à l'aéroport.
 
 ## Couverture, vitesse : quel opérateur gagne au Portugal ?
 
@@ -337,11 +337,11 @@ Oui. Les Açores et Madère sont territoire portugais, donc un profil continenta
 
 ### Votre eSIM Portugal fonctionne-t-elle à l'étranger ?
 
-Comme le Portugal fait partie de l'UE, toute SIM ou eSIM portugaise utilise les règles Roam Like at Home, donc votre enveloppe d'appels, SMS et données fonctionne à travers les autres pays UE et EEE aux tarifs domestiques, sous un plafond d'usage équitable des données. Un visiteur hors UE obtient le même bénéfice d'une SIM portugaise, car la règle suit le réseau, pas le passeport. Pour un voyage multi-pays, comparez nos [forfaits eSIM Espagne](/spain-esim/) et un [eSIM Europe](/europe-esim/) qui couvre tout le bloc.
+Comme le Portugal fait partie de l'UE, toute SIM ou eSIM portugaise utilise les règles Roam Like at Home, donc votre enveloppe d'appels, SMS et données fonctionne à travers les autres pays UE et EEE aux tarifs domestiques, sous un plafond d'usage équitable des données. Un visiteur hors UE obtient le même bénéfice d'une SIM portugaise, car la règle suit le réseau, pas le passeport. Pour un voyage multi-pays, comparez nos [forfaits eSIM Espagne](/spain-esim/) et un [eSIM Europe](/europe-esim/) qui couvre tout le bloc. Pour explorer un opérateur en particulier, nos guides par pays comparent aussi les [réseaux espagnols](/carriers/spain-esim-carrier-guide/), les [opérateurs français](/carriers/france-esim-carrier-guide/), les [réseaux marocains](/carriers/morocco-esim-carrier-guide/) et les [opérateurs d'un eSIM Europe](/carriers/europe-esim-carrier-guide/).
 
 ### Un forfait opérateur portugais ou un eSIM voyage est-il le meilleur achat ?
 
-Direct signifie un réseau, une mise en service émise par l'opérateur, et souvent un numéro local et l'itinérance UE ; en échange vous affrontez l'enregistrement et parfois une visite en magasin. Un eSIM voyage signifie livraison instantanée, aucune paperasse, basculement automatique entre MEO, NOS, Vodafone et Digi, et un prix fixe à l'avance. Court voyage : eSIM voyage. Long séjour ou vous avez besoin d'un numéro local : direct.
+Direct signifie un réseau, une mise en service émise par l'opérateur, et souvent un numéro local et l'itinérance UE ; en échange vous affrontez l'enregistrement et parfois une visite en magasin. Un eSIM voyage signifie livraison instantanée, aucune paperasse, basculement automatique entre MEO, NOS, Vodafone et Digi, et un prix fixe à l'avance. Gardez votre carte SIM personnelle active en double SIM : l'eSIM porte les données et votre ligne d'origine reste joignable pour les SMS de double authentification et la réception d'appels. Court voyage : eSIM voyage. Long séjour ou vous avez besoin d'un numéro local : direct.
 
 ### Comment déverrouiller votre téléphone pour le Portugal ?
 
@@ -383,7 +383,7 @@ Atterrir sans connectivité, puis se battre avec le Wi-Fi d'aéroport pour un co
 
 ## Comment gérer l'itinérance et les frontières depuis le Portugal ?
 
-Un profil couvre MEO, NOS, Vodafone et Digi, se réattachant au signal le plus fort à mesure que vous passez des rues de Lisbonne aux villages de Madère et aux Açores. Les nouveaux visiteurs peuvent [échantillonner le réseau gratuitement](/free-esim/) d'abord, ou saisir le code **WEB20** pour 20 % de réduction sur les [forfaits eSIM Portugal](/portugal-esim/).
+Au moment de comparer vos **opérateurs eSIM Portugal**, retenez qu'un profil unique couvre MEO, NOS, Vodafone et Digi, se réattachant au signal le plus fort à mesure que vous passez des rues de Lisbonne aux villages de Madère et aux Açores. Les nouveaux visiteurs peuvent [échantillonner le réseau gratuitement](/free-esim/) d'abord, ou saisir le code **web20** pour 20 % de réduction sur les [forfaits eSIM Portugal](/portugal-esim/).
 
 [Commandez votre eSIM Portugal](/portugal-esim/)
 
@@ -391,4 +391,4 @@ Un profil couvre MEO, NOS, Vodafone et Digi, se réattachant au signal le plus f
 
 [Commencez l'essai gratuit](/free-esim/)
 
-Une dernière étape avant de voler : vérifiez votre téléphone sur la [page de compatibilité eSIM](/compatibility/), puis commencez par un [essai multi-réseaux gratuit](/free-esim/) de Roami et voyez comment MEO traite votre route. Appliquer WEB20 au paiement retire 20 % de tout forfait Roami payant couvrant le Portugal.
+Une dernière étape avant de voler : vérifiez votre téléphone sur le [vérificateur de compatibilité](/compatibility/), puis commencez par un [essai multi-réseaux gratuit](/free-esim/) de Roami et voyez comment MEO traite votre route. Appliquer web20 au paiement retire 20 % de tout forfait Roami payant couvrant le Portugal.

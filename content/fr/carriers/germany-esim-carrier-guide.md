@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Allemagne : quel réseau choisir ?"
 description: "Roami pèse Telekom, Vodafone et O2 pour votre eSIM Allemagne : vitesse 5G, portée rurale et règles d'identification prépayées."
-image: "img/esim/carriers/germany-esim-carrier-guide.jpg"
+image: "img/esim/carriers/germany-esim-carrier-guide.webp"
 date: "2026-09-26T09:25:04+00:00"
 keywords: opérateurs eSIM Allemagne, eSIM Allemagne, Telekom eSIM, Vodafone eSIM, O2 eSIM, Aldi Talk eSIM, Lidl Connect eSIM, couverture 5G Allemagne, APN eSIM Allemagne, eSIM Allemagne prépayée, meilleur opérateur eSIM Allemagne
 site_name: Roami
@@ -22,7 +22,7 @@ Trois réseaux nationaux se disputent votre eSIM Allemagne, et aucun n'est la r�
 
 Si le profil refuse de s'installer, aucun graphique de vitesse ni carte de couverture ne sauvera le voyage. La [liste de compatibilité des téléphones](/compatibility/) et ce [pas-à-pas d'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) couvrent les fondamentaux, laissant ce guide libre de comparer les réseaux frontalement.
 
-**La version courte :** Vous restez à Berlin, Munich, Hambourg ou Francfort ? Telekom est le réseau le plus rapide et le plus constant d'Allemagne. Vous conduisez en Bavière, dans la Forêt-Noire ou dans de petites villes ? Vodafone garde le signal là où O2 s'affaiblit. Vous voulez un forfait urbain pas cher ? O2 et ses marques discount dont Aldi Talk et blau sous-cotent les autres de 20 à 40 pour cent. Le plus grand hic est la vérification d'identité : la loi allemande exige que chaque SIM prépayée et eSIM soit enregistrée, donc il n'existe aucune eSIM anonyme à emporter. Vous voulez sauter la paperasse et la file PostIdent ? L'eSIM d'essai gratuite de Roami teste les réseaux sans frais, et le code WEB20 retire 20 pour cent des [forfaits eSIM prépayés Allemagne](/germany-esim/).
+**La version courte :** Vous restez à Berlin, Munich, Hambourg ou Francfort ? Telekom est le réseau le plus rapide et le plus constant d'Allemagne. Vous conduisez en Bavière, dans la Forêt-Noire ou dans de petites villes ? Vodafone garde le signal là où O2 s'affaiblit. Vous voulez un forfait urbain pas cher ? O2 et ses marques discount dont Aldi Talk et blau sous-cotent les autres de 20 à 40 pour cent. Le plus grand hic est la vérification d'identité : la loi allemande exige que chaque SIM prépayée et eSIM soit enregistrée, donc il n'existe aucune eSIM anonyme à emporter. Vous voulez sauter la paperasse et la file PostIdent ? L'eSIM d'essai gratuite de Roami teste les réseaux sans frais, et le code web20 retire 20 pour cent des [forfaits eSIM prépayés Allemagne](/germany-esim/).
 
 ## Qui exploite les réseaux allemands ?
 
@@ -63,15 +63,15 @@ Deux précautions. D'abord, Aldi Talk, Lidl Connect et Otelo ne remettent pas d'
 
 L'économie favorise une eSIM voyage pour des vacances ordinaires. Un forfait prépayé allemand facture en cycles de quatre semaines et impose un contrôle du passeport, tandis qu'une eSIM voyage achète les données en gros et laisse l'appareil circuler entre les réseaux. Là où l'opérateur gagne, c'est la longévité et la voix : un vrai numéro allemand, des appels nationaux illimités, et un forfait qui fonctionne encore au sixième mois. Si vous préférez tester les réseaux avant de vous engager, l'[eSIM de test gratuite](/free-esim/) le fait sans frais ; ne passez au payant que si la couverture convient à votre itinéraire.
 
-Un profil eSIM multi-réseaux est la voie médiane pratique : un [forfait allemand](/germany-esim/) garde la commodité de la livraison instantanée, bascule automatiquement entre Telekom, Vodafone et O2, et vous pose quand même sur Telekom à Munich et sur Vodafone dans la Forêt-Noire sans acheter deux fois.
+Un profil eSIM multi-réseaux est la voie médiane pratique : un [forfait allemand avec données prépayées](/germany-esim/) garde la commodité de la livraison instantanée, bascule automatiquement entre Telekom, Vodafone et O2, et vous pose quand même sur Telekom à Munich et sur Vodafone dans la Forêt-Noire sans acheter deux fois.
 
-## Votre téléphone est-il compatible eSIM ?
+## Votre téléphone est-il compatible avec une eSIM Allemagne ?
 
 Trois choses décident si votre téléphone fonctionne sur un opérateur allemand : ses bandes, son statut de verrouillage, et une courte liste de particularités propres aux appareils. Les trois sont traitées ci-dessous.
 
 ### Quels appareils sont exclus des eSIM Allemagne ?
 
-Les opérateurs allemands construisent la 5G sur des bandes précises, notamment n78 à 3.6 GHz pour la capacité, n28 à 700 MHz pour la couverture, et n1 à 2100 MHz, tandis que la 4G LTE utilise la bande 20 à 800 MHz, la bande 3 à 1800 MHz et la bande 7 à 2600 MHz. Nombre d'appareils internationaux en manquent une ou plusieurs, surtout n28, et ces téléphones fonctionnent quand même : ils retombent en LTE dès que vous quittez les zones urbaines denses, ce qui est correct en centre-ville et frustrant à la campagne.
+Les opérateurs allemands construisent la 5G sur des bandes et fréquences précises, notamment n78 à 3.6 GHz pour la capacité, n28 à 700 MHz pour la couverture, et n1 à 2100 MHz, tandis que la 4G LTE utilise la bande 20 à 800 MHz, la bande 3 à 1800 MHz et la bande 7 à 2600 MHz. Nombre d'appareils internationaux en manquent une ou plusieurs, surtout n28, et ces téléphones fonctionnent quand même : ils retombent en LTE dès que vous quittez les zones urbaines denses, ce qui est correct en centre-ville et frustrant à la campagne.
 
 Inutile de mémoriser les tableaux de bandes allemands. La voie la plus sûre est de comparer le numéro de modèle précis avec le [vérificateur d'appareils eSIM](/compatibility/). Si vous préférez voir d'abord les dessous, [ce que fait votre téléphone quand il charge un profil eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) décrit le processus.
 
@@ -197,7 +197,7 @@ Tous les chiffres ci-dessous proviennent des données Speedtest Intelligence d'O
 
 Les cellules vides indiquent qu'Ookla n'a publié aucune valeur, non qu'un chiffre a été estimé. Deux choses à remarquer : O2 domine la disponibilité 5G, ce qui signifie que vous êtes en 5G le plus souvent, tout en traînant en vitesse brute, et la victoire de Telekom est la constance, la part des échantillons atteignant un seuil de 5 Mbps descendant et 1 Mbps montant, exactement la métrique qui compte sur une route rurale. Dans le même rapport, Telekom a été nommée à la fois Meilleur réseau mobile et Meilleur réseau 5G d'Allemagne pour le 1H 2025.
 
-Pour le contexte pays, Cable.co.uk tarife 1 Go de données mobiles allemandes à environ USD 2.14, bien en dessous de la moyenne mondiale de USD 2.59, et DataReportal compte environ 78.9 millions d'internautes en Allemagne à 93.5 pour cent de pénétration, auxquels s'ajoutent environ 108 millions de connexions mobiles. Les réseaux allemands sont matures et abordables aux normes européennes, voilà pourquoi une eSIM voyage roule sur une infrastructure locale solide.
+Pour le contexte pays, Cable.co.uk tarife 1 Go de données mobiles allemandes à environ USD 2.14, bien en dessous de la moyenne mondiale de USD 2.59, et DataReportal compte environ 78.9 millions d'internautes en Allemagne à 93.5 pour cent de pénétration, auxquels s'ajoutent environ 108 millions de connexions mobiles. Les réseaux allemands sont matures et abordables aux normes européennes, voilà pourquoi une eSIM voyage roule sur une infrastructure locale solide, un atout pour tout forfait data en déplacement.
 
 ### Quelle eSIM Allemagne selon votre type de voyage ?
 
@@ -210,6 +210,8 @@ Pour le contexte pays, Cable.co.uk tarife 1 Go de données mobiles allemandes à
 | Itinéraire transfrontalier UE | Tout forfait avec itinérance UE | Fonctionne à travers l'UE sans surcoût | Suisse exclue chez la plupart |
 | Voyage d'affaires | Telekom ou Vodafone | 5G fiable en villes et aéroports | O2 congestionne à l'heure de pointe dans la Ruhr |
 | Long séjour ou études | O2 ou Aldi Talk | Coût mensuel faible, vraies économies | Vérification d'identité requise |
+
+Une lecture transversale de ce tableau saute aux yeux : O2 n'apparaît que sur deux lignes — budget urbain et long séjour — et toutes les autres nomment Telekom ou Vodafone. Autrement dit, hors des centres-villes et des séjours de plusieurs mois, O2 n'est presque jamais la bonne réponse, quelle que soit l'économie de départ.
 
 ### Telekom ou Vodafone : quelle couverture ?
 
@@ -230,7 +232,9 @@ Vous planifiez un itinéraire qui quitte l'Allemagne ? Comparez les [forfaits eS
 
 La commutation automatique d'opérateur est la partie qui rapporte ici. Un profil capable de circuler entre Telekom, Vodafone et O2 couvre les lacunes régionales qu'aucun forfait mono-opérateur ne peut couvrir.
 
-## Quand saisir l'APN à la main en Allemagne ?
+Pour comparer les réseaux voisins avant de décider, consultez notre [guide des opérateurs eSIM France](/carriers/france-esim-carrier-guide/), le [guide eSIM Suisse](/carriers/switzerland-esim-carrier-guide/), le [guide eSIM République tchèque](/carriers/czech-republic-esim-carrier-guide/) et le [guide eSIM Pays-Bas](/carriers/netherlands-esim-carrier-guide/).
+
+## Quand saisir l'APN de votre eSIM Allemagne à la main ?
 
 L'écran APN est la dernière chose dont vous devriez avoir besoin et la première chose à vérifier quand une connexion de données meurt. Vous trouverez ci-dessous les valeurs des trois réseaux plus leurs marques discount, les cas où la saisie manuelle est réellement nécessaire, et les chemins de menus exacts.
 
@@ -373,6 +377,18 @@ Le verrou est détenu par votre opérateur national, pas par un opérateur allem
 
 En direct : Telekom délivre le profil via le service client après activation d'une SIM physique, Vodafone CallYa se commande en ligne puis se vérifie par PostIdent à l'arrivée, O2 vérifie le passeport en ligne et envoie le QR. En eSIM voyage : achat, scan du QR à la maison, itinérance activée à l'atterrissage. Si rien ne se passe comme prévu, parcourez dans l'ordre les quatre schémas propres à l'Allemagne ci-dessus — statut du verrou, sélection du réseau, APN et ligne de données, puis réinstallation du profil — et le catalogue d'erreurs plus large du [guide de résolution des problèmes eSIM](/faq/esim-activation-errors-troubleshooting-guide/) couvre le reste. Gardez votre EID, votre numéro de commande et une capture d'écran à portée de main avant de contacter l'assistance.
 
+### Ma SIM habituelle reste-t-elle active avec une eSIM Allemagne ?
+
+Oui. L'eSIM voyage est un profil de données séparé : votre carte SIM nationale reste dans le téléphone et continue de recevoir les SMS et les appels, ce qui est utile pour la double authentification bancaire et les codes de vérification. Réglez simplement l'eSIM comme ligne de données mobiles et laissez votre SIM nationale en place pour la voix. Si vous achetez directement auprès d'un opérateur allemand, le vrai numéro allemand est porté par l'eSIM, et votre SIM nationale continue de fonctionner pour le reste.
+
+### Le partage de connexion fonctionne-t-il avec une eSIM Allemagne ?
+
+Oui dans la grande majorité des cas, mais le limitant n'est pas le réseau — c'est la politique du forfait. Les profils eSIM voyage data uniquement autorisent en général le partage de connexion (hotspot), et les forfaits prépayés des trois opérateurs allemands le permettent aussi. La vraie contrainte en Allemagne est ailleurs : un forfait à petit prix qui plafonne l'usage raisonnable peut voir son débit réduit si vous partagez toute la journée, et certains paliers discount brident le partage. Pour un couple qui veut une seule enveloppe, prenez un palier avec de la marge — le 40 GB d'O2 à 14.99 EUR est plus confortable qu'un 20 GB partagé à deux — et vérifiez la clause de partage avant d'acheter.
+
+### Que faire si la vérification d'identité échoue à l'arrivée ?
+
+C'est le scénario qui laisse le plus de visiteurs sans réseau, parce que la loi allemande bloque la ligne jusqu'à ce que l'identité soit validée. Trois parades. D'abord, faites le PostIdent en agence Deutsche Post plutôt qu'en VideoIdent : le contrôle en personne accepte de manière fiable les passeports étrangers, là où la vidéo est souvent limitée hors UE. Ensuite, gardez votre SIM nationale active et connectez-vous au Wi-Fi de l'hôtel en attendant — la ligne allemande reste verrouillée, pas votre téléphone. Enfin, si la vérification traîne, une eSIM voyage ne demande aucune étape allemande et vous remet en ligne immédiatement ; vous pourrez revenir au forfait local une fois le passeport validé.
+
 D'autres questions ? [Voir la FAQ complète →](/faq/)
 
 ## Quels opérateurs couvrent l'Allemagne ?
@@ -388,7 +404,7 @@ Tout cela est une mesure tierce. Vos propres résultats varieront selon l'appare
 
 ## Évitez la file PostIdent : installez votre eSIM avant de partir
 
-Roami fait circuler un seul profil entre Telekom, Vodafone et O2, si bien qu'un quai de U-Bahn berlinois et une vallée de la Forêt-Noire sont tous deux desservis par le réseau le plus fort du moment. Commencez avec un [essai gratuit](/free-esim/), ou profitez de 20 % de remise sur un forfait payant avec le code **WEB20** quand vous [achetez votre forfait](/germany-esim/).
+Roami fait circuler un seul profil entre Telekom, Vodafone et O2, si bien qu'un quai de U-Bahn berlinois et une vallée de la Forêt-Noire sont tous deux desservis par le réseau le plus fort du moment. Commencez avec un [essai gratuit](/free-esim/), ou profitez de 20 % de remise sur un forfait payant avec le code **web20** quand vous [achetez votre forfait](/germany-esim/).
 
 [Obtenir le forfait eSIM Allemagne](/germany-esim/)
 

@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM Canada choisir pour voyager ?"
 description: "Roami compare Bell, Rogers et TELUS pour votre eSIM Canada : vitesse 5G, couverture rurale et règles prépayées pour visiteurs."
-image: "img/esim/carriers/canada-esim-carrier-guide.jpg"
+image: "img/esim/carriers/canada-esim-carrier-guide.webp"
 date: "2026-09-27T19:35:36+00:00"
 keywords: opérateurs eSIM Canada, eSIM Bell, eSIM Rogers, eSIM TELUS, eSIM SaskTel, eSIM Lucky Mobile, couverture 5G Canada, APN eSIM Canada, eSIM Canada prépayée, meilleur opérateur eSIM Canada
 site_name: Roami
@@ -21,7 +21,7 @@ hero_subtitle_main: "Les opérateurs canadiens sur le papier contre sur le terra
 Un préalable qui vaut dix secondes de votre temps : confirmez que votre appareil est compatible eSIM via le [quiz de compatibilité eSIM](/compatibility/), et parcourez [le fonctionnement de l'installation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) si le processus est nouveau pour vous.
 
 
-**Si vous ne lisez rien d'autre :** Vous restez à Toronto, Vancouver ou Montréal ? Bell est le réseau 5G le plus rapide du pays. Vous streamez beaucoup de vidéo ou jouez ? Rogers gagne sur le score vidéo et la disponibilité 5G. Vous conduisez dans les Rocheuses, Terre-Neuve ou le nord de l'Ontario ? TELUS tient le signal là où les autres lâchent. Vous voulez acheter directement auprès d'un opérateur canadien en tant que visiteur ? Lucky Mobile (la marque prépayée de Bell) est le seul à vendre une eSIM touristique sans vérification de crédit ni adresse canadienne. Ou sautez la paperasse : l'[essai de données gratuit](/free-esim/) teste les réseaux sans frais ; appliquez le code **WEB20** pour 20% de réduction sur les [forfaits eSIM prépayés Canada](/canada-esim/).
+**Si vous ne lisez rien d'autre :** Vous restez à Toronto, Vancouver ou Montréal ? Bell est le réseau 5G le plus rapide du pays. Vous streamez beaucoup de vidéo ou jouez ? Rogers gagne sur le score vidéo et la disponibilité 5G. Vous conduisez dans les Rocheuses, Terre-Neuve ou le nord de l'Ontario ? TELUS tient le signal là où les autres lâchent. Vous voulez acheter directement auprès d'un opérateur canadien en tant que visiteur ? Lucky Mobile (la marque prépayée de Bell) est le seul à vendre une eSIM touristique sans vérification de crédit ni adresse canadienne. Ou sautez la paperasse : l'[essai de données gratuit](/free-esim/) teste les réseaux sans frais ; appliquez le code **web20** pour 20% de réduction sur les [forfaits eSIM prépayés Canada](/canada-esim/).
 
 ## Quels opérateurs pour votre eSIM Canada ?
 
@@ -96,7 +96,7 @@ Si vous avez acheté un téléphone d'occasion, ou un téléphone avant décembr
 | Appareils internationaux sans n71 | Rapide dans les villes, LTE seulement dans les zones rurales | Comportement attendu — voir les notes de provinces ci-dessous |
 | Utilisateurs double SIM | eSIM installée mais pas de données | Définissez l'eSIM comme la ligne utilisée pour les données mobiles |
 
-Tout ce qui dépasse cela est propre à l'appareil plutôt qu'à l'opérateur. Passez votre modèle par le [vérificateur de compatibilité eSIM](/compatibility/) avant de dépenser de l'argent sur un forfait.
+Tout ce qui dépasse cela est propre à l'appareil plutôt qu'à l'opérateur. Passez votre modèle par le [test de compatibilité](/compatibility/) avant de dépenser de l'argent sur un forfait.
 
 ## Comment obtenir une eSIM canadienne ?
 
@@ -139,7 +139,7 @@ Le provisioning prépayé est émis par l'opérateur plutôt qu'en libre-service
 
 Une eSIM SaskTel est disponible via le service **noSTRINGS Prepaid** de l'opérateur, et SaskTel publie des guides de configuration et de gestion pour elle. C'est le bon choix si la Saskatchewan est une vraie partie de votre itinéraire plutôt qu'un simple passage — la couverture dans la province est excellente, et elle s'amincit dès que vous la quittez.
 
-### Faut-il une pièce d'identité pour acheter une SIM ?
+### Faut-il une pièce d'identité pour acheter une carte SIM prépayée ?
 
 Les inscriptions chez les opérateurs au Canada vont plus vite quand ceci est déjà en main.
 
@@ -188,7 +188,7 @@ Pour le contexte du pays dans son ensemble, le [Speedtest Global Index](https://
 
 ### Bell ou Rogers : quelle couverture ?
 
-La couverture 5G du Canada suit la population : dense dans les régions métropolitaines de recensement, s'amincissant vite le long des routes secondaires et disparaissant dans les territoires. Ce que cela signifie itinéraire par itinéraire :
+La couverture 5G du Canada suit la population : dense dans les régions métropolitaines de recensement, s'amincissant vite le long des routes secondaires et disparaissant dans les territoires. Une ligne du tableau des styles de voyage mérite d'être détachée : le métro de Toronto a un signal médiocre chez chaque opérateur, donc ne jugez pas votre réseau mobile en souterrain. Ce que cela signifie itinéraire par itinéraire :
 
 | Province | Réalité sur le terrain |
 |:---|:---|
@@ -200,9 +200,9 @@ La couverture 5G du Canada suit la population : dense dans les régions métropo
 | Terre-Neuve | Fiable dans les villes ; le signal s'estompe sur les tronçons côtiers plus tranquilles et tombe environ 30 minutes après que le bac quitte la Nouvelle-Écosse. |
 | Yukon, TNO, Nunavut | La couverture existe à Whitehorse, Yellowknife et quelques villes d'autoroute seulement. Au-delà, les routes du territoire courent des centaines de kilomètres avec essentiellement rien. Un messager satellite est le bon outil là-bas, pas une meilleure eSIM. |
 
-Vous planifiez un itinéraire qui quitte le Canada ? Commencez par [l'eSIM pour les États-Unis](/united-states-esim/), ou comparez les [forfaits eSIM Mexique](/mexico-esim/). Si votre itinéraire franchit les frontières plus d'une fois, une [eSIM Amérique du Nord](/north-america-esim/) vous évite d'acheter deux fois.
+Vous planifiez un itinéraire qui quitte le Canada ? Commencez par [l'eSIM pour les États-Unis](/united-states-esim/), ou comparez les [forfaits eSIM Mexique](/mexico-esim/). Pour creuser chaque étape, notre [guide des opérateurs eSIM aux États-Unis](/carriers/united-states-esim-carrier-guide/), [le comparatif des réseaux mexicains](/carriers/mexico-esim-carrier-guide/) et [notre guide eSIM France](/carriers/france-esim-carrier-guide/) détaillent les suites du voyage. Si votre itinéraire franchit les frontières plus d'une fois, une [eSIM Amérique du Nord](/north-america-esim/) vous évite d'acheter deux fois.
 
-La sélection automatique du réseau est ce qui fait fonctionner cela. Un profil capable de passer entre Bell, Rogers et TELUS couvre les trous provinciaux qu'aucun forfait mono-opérateur ne peut couvrir.
+La sélection automatique du réseau mobile est ce qui fait fonctionner cela. Un profil capable de passer entre Bell, Rogers et TELUS couvre les trous provinciaux qu'aucun forfait mono-opérateur ne peut couvrir.
 
 ## Quels paramètres APN pour les eSIM canadiennes ?
 
@@ -221,7 +221,7 @@ Vous n'aurez besoin de celles-ci que si vous avez acheté une SIM ou eSIM **dire
 
 Laissez le nom d'utilisateur et le mot de passe vides. Si ces opérateurs exigent des valeurs, les instructions d'activation fournies avec votre profil les indiqueront.
 
-### Quelles valeurs APN saisir manuellement ?
+### Dans quels cas l'APN doit-il être saisi manuellement ?
 
 La configuration automatique gère les profils des opérateurs canadiens dans presque tous les cas ; cette liste couvre les exceptions.
 
@@ -230,7 +230,7 @@ La configuration automatique gère les profils des opérateurs canadiens dans pr
 - Une eSIM prépayée émise par un opérateur où la configuration automatique n'a pas tourné
 - Presque jamais sur une eSIM voyage — c'est tout l'intérêt d'un profil géré
 
-### Quand l'APN doit-il être saisi à la main ?
+### Comment saisir un APN sur votre téléphone ?
 
 Le chemin de menu est le même quel que soit le réseau canadien où vous êtes ; seules les valeurs ci-dessus changent.
 
@@ -324,7 +324,7 @@ TELUS, selon les preuves. Elle a enregistré la **meilleure constance de réseau
 
 ### Quelle quantité de données convient au Canada ?
 
-Comptez large : le Canada est l'un des marchés de données les plus chers du monde développé (environ USD 5.37 par Go selon Cable.co.uk). Un gigaoctet couvre cartes et messagerie sur un city-trip ; cinq gigaoctets tiennent une semaine de navigation et un peu de streaming. Les paliers Lucky Mobile — 5 Go à 25 $/mois, 15 Go à 30 $/mois — ou le TELUS 3 Go / 90 jours à 90 $ CAD règlent la question du volume, et au-dessus de l'enveloppe les vitesses tombent à jusqu'à 128 Kbps, donc ajustez le niveau à votre usage plutôt que d'acheter le moins cher et brider dès le second jour.
+Comptez large : le Canada est l'un des marchés de données les plus chers du monde développé (environ USD 5.37 par Go selon Cable.co.uk). Un gigaoctet couvre cartes et messagerie sur un city-trip ; un forfait data de cinq gigaoctets tient une semaine de navigation et un peu de streaming. Les paliers Lucky Mobile — 5 Go à 25 $/mois, 15 Go à 30 $/mois — ou le TELUS 3 Go / 90 jours à 90 $ CAD règlent la question du volume, et au-dessus de l'enveloppe les vitesses tombent à jusqu'à 128 Kbps, donc ajustez le niveau à votre usage plutôt que d'acheter le moins cher et brider dès le second jour.
 
 ### Comment vérifier l'IMEI et l'EID ?
 
@@ -350,6 +350,14 @@ Trois réseaux nationaux — Bell (le plus rapide), Rogers (disponibilité 5G et
 
 La séquence est la même partout : installez le profil depuis le code QR avant le départ, choisissez la ligne eSIM pour les données mobiles, activez l'itinérance à l'atterrissage — les différences par opérateur (Lucky Mobile, Rogers, TELUS, SaskTel) sont détaillées dans la section installation ci-dessus. Si la connexion échoue, parcourez les quatre schémas propres au Canada ci-dessus dans l'ordre — statut de verrouillage, sélection du réseau, APN et ligne de données, puis réinstallation du profil — et si cela échoue encore, le catalogue d'erreurs plus large du [guide de dépannage d'activation](/faq/esim-activation-errors-troubleshooting-guide/) couvre le reste. Ayez votre EID, votre numéro de commande et une capture d'écran prêts avant de contacter le support.
 
+### Mon profil canadien se réactive-t-il quand je repasse la frontière ?
+
+Oui, si vous avez gardé le profil installé : une eSIM Canada se reconnecte au réseau national dès que vous revenez des États-Unis, sans réinstallation ni nouveau code QR. Le piège est l'inverse — un profil mono-pays canadien ne fonctionne pas au sud de la frontière, et les excursions d'une journée aux chutes du Niagara en font les frais dans les deux sens. Si vous traversez plusieurs fois, un forfait nord-américain couvrant les deux pays reste la solution la plus simple.
+
+### Peut-on partager la connexion depuis une eSIM Canada en road trip ?
+
+Oui — le partage de connexion passe par la ligne qui porte les données, donc il suffit que l'eSIM soit sélectionnée comme ligne de données mobiles. Attention à l'enveloppe : le hotspot puise dans le même solde que le téléphone, et dans les parcs où c'est justement le plus utile (navigateur partagé, cartes pour plusieurs passagers), c'est le seul accès — Lake Louise–Jasper ou le col Rogers n'ont pas de Wi-Fi de secours. Gardez les téléchargements lourds pour les villes.
+
 ### Comment une eSIM charge-t-elle un profil Bell ou Rogers ?
 
 L'eSIM est une puce soudée qui détient des profils d'opérateur au lieu d'une seule carte en plastique — l'opérateur pousse un profil, votre téléphone l'écrit sur la puce, et la ligne se comporte comme toute autre. [L'activation eSIM expliquée](/faq/what-is-esim-activation-and-how-does-it-work/) explique les serveurs SM-DP+ et le code QR à usage unique.
@@ -370,7 +378,7 @@ Tout ce qui précède est une mesure de tiers. Votre propre débit bougera avec 
 
 ## Une seule eSIM Canada pour Bell, Rogers et TELUS
 
-Roami garde un seul profil et le remet au réseau national le plus fort là où vous vous trouvez — Bell au centre-ville, TELUS sur les cols de montagne. Commencez par une [eSIM d'essai gratuite](/free-esim/), ou prenez 20% de réduction sur un forfait payant avec le code **WEB20** quand vous [choisissez votre eSIM Canada](/canada-esim/).
+Roami garde un seul profil et le remet au réseau national le plus fort là où vous vous trouvez — Bell au centre-ville, TELUS sur les cols de montagne. Commencez par une [eSIM d'essai gratuite](/free-esim/), ou prenez 20% de réduction sur un forfait payant avec le code **web20** quand vous [choisissez votre eSIM Canada](/canada-esim/).
 
 [Prenez le forfait eSIM Canada](/canada-esim/)
 

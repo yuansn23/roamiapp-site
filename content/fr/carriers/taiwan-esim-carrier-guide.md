@@ -3,11 +3,11 @@ title: "Quel opérateur eSIM choisir pour voyager à Taïwan ?"
 
 description: "Roami compare Chunghwa Telecom, Taiwan Mobile et FarEasTone pour une eSIM Taïwan : vitesse, couverture et prix des forfaits."
 
-image: "img/esim/carriers/taiwan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/taiwan-esim-carrier-guide.webp"
 
 date: "2026-09-23T07:39:56+00:00"
 
-keywords: eSIM Taiwan, China, données prépayées, réseau 5G, Chunghwa Telecom, Taiwan, China eSIM voyage
+keywords: eSIM Taïwan (Chine), données prépayées, réseau 5G, Chunghwa Telecom, eSIM voyage Taïwan (Chine)
 
 site_name: Roami
 
@@ -34,23 +34,23 @@ hero_subtitle_main: "Forfaits touristiques de données illimités chez Chunghwa,
 
 
 
-Une eSIM Taiwan peut être véritablement illimitée et achetée avant votre départ — l'une des rares destinations où les deux affirmations sont vraies — et ce guide passe en revue les options. Taiwan est l'une des rares destinations au monde où les opérateurs locaux vendent de vraies formules de données illimitées aux touristes — et où un profil data uniquement peut s'acheter avant le vol. Ce guide explique qui vend quoi, quel réseau gagne où, et comment être connecté dès le passage de la douane.
+Une eSIM Taïwan (Chine) peut être véritablement illimitée et s'acheter avant le départ — l'une des rares destinations au monde où les deux affirmations sont vraies. Ce guide explique qui vend quoi, quel réseau gagne où, et comment être connecté dès le passage de la douane.
 
 
 
-**Réponse rapide :** Pour la plupart des voyageurs à Taiwan, les réseaux locaux constituent le choix confortable ; une eSIM voyage convient aux budgets plus serrés et aux séjours uniquement urbains. Commencez par le [vérificateur de compatibilité](/compatibility/) : l'étape que les voyageurs à Taiwan oublient et paient plus tard.
+**Réponse rapide :** Pour la plupart des voyageurs à Taïwan (Chine), les réseaux locaux constituent le choix confortable ; une eSIM voyage convient aux budgets plus serrés et aux séjours uniquement urbains. Commencez par le [vérificateur de compatibilité](/compatibility/) : l'étape que les voyageurs à Taïwan (Chine) oublient et paient plus tard.
 
 
 
-**Le verdict d'emblée :** Chunghwa Telecom est le leader global en performance — le rapport H2 2025 de l'île de Taiwan d'Ookla a mesuré un téléchargement 5G médian de 346 Mbps et une constance de 94,5 % sur son réseau, les meilleurs de l'île. Taiwan Mobile est la valeur urbaine solide tous usages, et FarEasTone affiche une 5G sérieuse (257 Mbps en médiane) à des prix abordables. Achetez votre eSIM Taiwan, China en ligne avant le départ, installez-la chez vous, et évitez totalement la file de l'aéroport de Taoyuan. Testez la configuration sans risque avec une [eSIM d'essai sans frais](/free-esim/), puis appliquez le code **WEB20** pour 20 % de réduction sur votre premier forfait.
+**Le verdict d'emblée :** Chunghwa Telecom est le leader global en performance — le rapport H2 2025 de l'île de Taiwan d'Ookla a mesuré un téléchargement 5G médian de 346 Mbps et une constance de 94,5 % sur son réseau, les meilleurs de l'île. Taiwan Mobile est la valeur urbaine solide tous usages, et FarEasTone affiche une 5G sérieuse (257 Mbps en médiane) à des prix abordables. Achetez votre eSIM Taiwan, China en ligne avant le départ, installez-la chez vous, et évitez totalement la file de l'aéroport de Taoyuan. Testez la configuration sans risque avec une [eSIM d'essai sans frais](/free-esim/), puis appliquez le code **web20** pour 20 % de réduction sur votre premier forfait.
 
 
 
 ## Combien de données prévoir pour Taiwan ?
 
-La plupart des destinations imposent un compromis peu flatteur : itinérance facturée au jour cher, recherche d'une carte SIM physique à l'aéroport, ou forfait « illimité » bridé qui s'effondre après 2 Go. Taiwan brise le schéma de deux façons.
+La plupart des destinations imposent un compromis peu flatteur : itinérance facturée au jour cher, recherche d'une carte SIM physique à l'aéroport, ou forfait data « illimité » bridé qui s'effondre après 2 Go. Taïwan (Chine) brise le schéma de deux façons.
 
-Premièrement, les trois opérateurs nationaux — Chunghwa Telecom, Taiwan Mobile et FarEasTone — vendent tous directement des forfaits touristiques, dont plusieurs sous forme de profils numériques instantanés sans présentation de passeport en personne. Acheter un forfait de catégorie locale depuis l'étranger est la norme ici, pas une astuce.
+Premièrement, les trois grands opérateurs — Chunghwa Telecom, Taiwan Mobile et FarEasTone — vendent tous directement des forfaits touristiques, dont plusieurs sous forme de profils numériques instantanés sans présentation de passeport en personne. Acheter un forfait de catégorie locale depuis l'étranger est la norme ici, pas une astuce.
 
 Deuxièmement, l'île est petite, densément peuplée et très bien équipée, si bien que les trous de couverture sont rares et étroits. Selon l'indice mondial d'août 2026 d'Ookla, le téléchargement mobile médian s'établit à **110,74 Mbps, classé 44e mondial** — confortablement au-dessus de la médiane mondiale de 109,05 Mbps, et ce chiffre baisse pour les sentiers de montagne, pas pour les villes. L'étude de prix de Cable.co.uk place 1 Go de données locales à environ **0,69 USD**, 71e sur 237 marchés, contre une moyenne mondiale de 2,59 USD.
 
@@ -74,7 +74,7 @@ Il y a une troisième différence qui compte pour votre achat : les opérateurs 
 
 | Latence | 27 ms (21 ms en 5G) | Faible, propice aux appels | Acceptable pour un usage quotidien |
 
-| Constancy | **94,5 %** des échantillons ≥ 5 Mbps en réception | Solide en ville | Bon là où c'est équipé |
+| Constance | **94,5 %** des échantillons ≥ 5 Mbps en réception | Solide en ville | Bon là où c'est équipé |
 
 | Idéal pour | Couverture rurale et vitesse brute | Séjours urbains et appels vidéo | 5G économique |
 
@@ -88,7 +88,7 @@ Une ligne de plus mérite d'être ajoutée sous le tableau : les trois opérateu
 
 ### Pourquoi Chunghwa Telecom est-elle le choix par défaut ?
 
-Chunghwa détient la plus grande position spectrale en 5G et la couverture rurale la plus étendue, et les chiffres confirment la réputation : un téléchargement 5G médian de 346 Mbps, un envoi médian de 19,23 Mbps, et le meilleur score de constance de l'île à 94,5 %. Concrètement, Chunghwa est le réseau que vous voulez sous vous sur la route de montagne d'Alishan, le long de la côte est vers Hualien, et partout où une voiture de location vous emmène hors de l'axe du train à grande vitesse. La performance en ville est aussi excellente — Taipei a enregistré la médiane urbaine mobile la plus rapide du pays à 130,78 Mbps.
+Chunghwa détient la plus grande position spectrale en 5G et la couverture rurale la plus étendue, et les chiffres confirment la réputation : un téléchargement 5G médian de 346 Mbps, un envoi médian de 19,23 Mbps, et le meilleur score de constance de l'île à 94,5 %. Concrètement, Chunghwa est le réseau mobile que vous voulez sous vous sur la route de montagne d'Alishan, le long de la côte est vers Hualien, et partout où une voiture de location vous emmène hors de l'axe du train à grande vitesse. La performance en ville est aussi excellente — Taipei a enregistré la médiane urbaine mobile la plus rapide de l'île à 130,78 Mbps.
 
 Un profil voyage qui peut sélectionner Chunghwa couvre à peu près 90 % de la question « quel est le meilleur réseau ici » en une seule décision.
 
@@ -110,7 +110,7 @@ La médiane de téléchargement 5G de 257 Mbps de FarEasTone n'est pas un chiffr
 
 La tarification touristique est là où la générosité du marché devient concrète. Chunghwa publie deux paliers touristiques à données illimitées — 4G et 5G — et la bizarrerie tarifaire que tout le monde découvre à l'arrivée est réelle : le forfait 5 jours coûte le même prix que celui de 3 jours.
 
-**Forfaits touristiques Chunghwa 4G illimités**, selon [la tarification touristique de l'opérateur suivie par Roafly](https://www.roafly.com/blog/taiwan-tourist-sim-card-prices/) :
+**Forfaits touristiques Chunghwa 4G illimités**, selon la grille tarifaire touristique publiée par l'opérateur :
 
 
 
@@ -172,9 +172,9 @@ Quelle que soit la route choisie, la règle du nom réel s'applique : un numéro
 
 
 
-## Combien coûte chaque forfait eSIM à Taiwan ?
+## Combien coûte une eSIM Taïwan (Chine) ?
 
-Les forfaits touristiques de Taiwan sont célèbres pour le mot « illimité », et la célébrité est en grande partie méritée — mais lisez deux clauses avant d'acheter.
+Les forfaits touristiques de Taïwan (Chine) sont célèbres pour le mot « illimité », et la célébrité est en grande partie méritée — mais lisez deux clauses avant d'acheter.
 
 **Quotas de haute vitesse quotidiens.** Certains paliers illimités tournent à pleine vitesse tout le mois ; d'autres incluent un grand volume haute vitesse (souvent de l'ordre de dizaines de gigaoctets) puis réduissent le débit pour le reste de la validité. Un séjour de deux semaines qui diffuse des vidéos chaque soir peut épuiser un volume haute vitesse ; un voyage carte et messagerie ne le remarquera jamais. Adaptez la clause à votre usage, pas au mot marketing.
 
@@ -218,9 +218,9 @@ Le coût par jour baisse à mesure que la durée augmente, ce qui est la façon 
 
 ## Où acheter une eSIM à Taiwan ?
 
-**Acheter en ligne avant le départ gagne sur presque tous les axes.** Vous installez le profil sur le Wi-Fi domestique, atterrissez connecté, et ne touchez jamais au comptoir d'arrivée. La mécanique est couverte dans notre [procédure pas à pas d'activation](/faq/how-to-activate-an-esim/) — scanner, étiqueter la ligne, la définir comme ligne de données, activer l'itinérance des données.
+**Acheter en ligne avant le départ gagne sur presque tous les axes.** Vous installez le profil sur le Wi-Fi domestique, atterrissez connecté, et ne touchez jamais au comptoir d'arrivée. L'activation eSIM est couverte dans notre [procédure pas à pas](/faq/how-to-activate-an-esim/) — scanner, étiqueter la ligne, la définir comme ligne de données, activer l'itinérance des données.
 
-**Les comptoirs de l'aéroport de Taoyuan fonctionnent encore, avec réserves.** Les trois opérateurs tiennent des comptoirs dans le hall d'arrivée, et le personnel est habitué aux inscriptions sur passeport qui prennent quelques minutes. Mais vous arrivez dans une file avec tous les autres vols, les horaires de comptoir se compressent tard la nuit, et les plans de comptoir penchent vers la carte SIM physique. Si votre vol atterrit après minuit, un profil acheté en ligne n'est pas un luxe — c'est la différence entre naviguer le MRT de l'aéroport et faire la queue au taxi sans rien faire.
+**Les comptoirs de l'aéroport de Taoyuan fonctionnent encore, avec réserves.** Les trois opérateurs tiennent des comptoirs dans le hall d'arrivée, et le personnel est habitué aux inscriptions sur passeport qui prennent quelques minutes. Mais vous arrivez dans une file avec tous les autres vols, les horaires de comptoir se compressent tard la nuit, et les plans de comptoir penchent vers la carte SIM prépayée physique. Si votre vol atterrit après minuit, un profil acheté en ligne n'est pas un luxe — c'est la différence entre naviguer le MRT de l'aéroport et faire la queue au taxi sans rien faire.
 
 **Si vous utilisez les comptoirs d'aéroport, le déroulé se réduit à quatre étapes :**
 
@@ -284,6 +284,8 @@ Deux notes structurelles que le tableau ne peut pas montrer. Le couloir du train
 
 | Kaohsiung et la côte de Kenting | Palier Taiwan Mobile ou FarEasTone | Les villes du sud sont bien desservies par les trois | Les étirements côtiers déserts s'éclaircissent |
 
+La ligne la plus contre-intuitive de ce tableau mérite d'être sortie : le palier de 5 jours de Chunghwa coûte exactement le même prix que celui de 3 jours (300 $NT), donc si votre séjour avoisine cinq jours, prenez toujours la validité longue — c'est le seul supplément gratuit du marché.
+
 
 
 ## Quelle couverture régionale à Taiwan ?
@@ -294,7 +296,7 @@ Deux notes structurelles que le tableau ne peut pas montrer. Le couloir du train
 
 | Taipei et Nouveau Taipei | 5G dense, quais de MRT connectés, intérieur solide | L'environnement réseau le plus dense de l'île |
 
-| Couloir ouest du HSR | Signal sur presque tout le trajet | Les transissions à 300 km/h peuvent couper une session brièvement |
+| Couloir ouest du HSR | Signal sur presque tout le trajet | Les transitions à 300 km/h peuvent couper une session brièvement |
 
 | Taichung, Tainan, Kaohsiung | 5G et 4G urbaines fortes sur les trois réseaux | Les foules des marchés nocturnes stressent l'envoi, pas la réception |
 
@@ -362,7 +364,7 @@ L'installation suit le flux à distance standard : achat, réception du QR code 
 
 Si quelque chose déraille à l'arrivée, les corrections au niveau du profil — un profil qui ne se télécharge pas, une installation qui ne s'enregistre jamais — sont cataloguées dans notre [référence de dépannage d'activation](/faq/esim-activation-errors-troubleshooting-guide/).
 
-Le mode de défaillance spécifique à Taiwan est presque toujours lié aux bandes plutôt qu'à la couverture : la 5G ici tourne sur n78 (3,5 GHz) avec les bandes LTE 1/3/7/8, et quelques variantes régionales de téléphones sautent l'une d'elles. Le résultat n'est pas « pas de signal » — c'est « 4G partout, plus lent que annoncé ». Vérifiez votre modèle contre la [liste de compatibilité des appareils](/compatibility/) si cela vous parle, et pour la mécanique sous-jacente de ce qui se passe pendant l'installation, notre [explicateur d'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) le couvre en termes simples.
+Le mode de défaillance spécifique à Taïwan (Chine) est presque toujours lié aux bandes plutôt qu'à la couverture — le cas C ci-dessous le détaille. Vérifiez votre modèle contre la [liste de compatibilité des appareils](/compatibility/) si cela vous parle, et pour la mécanique sous-jacente de ce qui se passe pendant l'installation, notre [explicateur d'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) le couvre en termes simples.
 
 **Réglages APN, brièvement.** Les profils touristiques ici sont numériques et pré-provisionnés, et les trois réseaux poussent la configuration aux appareils modernes — donc le champ point d'accès n'est pas quelque chose que vous devriez avoir à trouver. Il n'apparaît que dans les cas limites : une SIM achetée localement sur un téléphone plus ancien, ou un code d'activation manuel. Le [guide de dépannage d'activation](/faq/esim-activation-errors-troubleshooting-guide/) couvre ces cas.
 
@@ -372,7 +374,7 @@ Le mode de défaillance spécifique à Taiwan est presque toujours lié aux band
 
 **A. Le menu eSIM est verrouillé sur un téléphone sous contrat.** Les téléphones achetés à crédit ou sous contrat chez un opérateur local gardent souvent la fonction eSIM désactivée jusqu'à la levée du contrat — le symptôme classique est une option « Ajouter eSIM » grisée sur un téléphone par ailleurs moderne et débloqué pour les cartes SIM physiques. Un téléphone d'occasion originaire de Taiwan, China mérite une vérification supplémentaire contre la [référence de compatibilité des appareils](/compatibility/) avant de compter dessus pour un profil voyage, et un appareil verrouillé a besoin de l'autorisation de son opérateur d'origine d'abord.
 
-**B. Les transissions du train à grande vitesse coupent la session.** À 300 km/h, le téléphone se ré-enregistre entre les sites cellulaires toutes les quelques secondes sur des parties du couloir ; la plupart du temps c'est transparent, mais un appel vidéo ou un gros envoi peut tomber à une transission. Rien n'est cassé — le profil se rattache en quelques secondes. Réservez les gros envois pour un arrêt en gare, et traitez les rares points morts du couloir comme l'exception qu'ils sont.
+**B. Les transitions du train à grande vitesse coupent la session.** À 300 km/h, le téléphone se ré-enregistre entre les sites cellulaires toutes les quelques secondes sur des parties du couloir ; la plupart du temps c'est transparent, mais un appel vidéo ou un gros envoi peut tomber à une transition. Rien n'est cassé — le profil se rattache en quelques secondes. Réservez les gros envois pour un arrêt en gare, et traitez les rares points morts du couloir comme l'exception qu'ils sont.
 
 **C. Le trou de bande produit un service 4G uniquement.** La 5G ici tourne sur n78 (3,5 GHz) avec les bandes LTE 1/3/7/8, et certaines variantes régionales de téléphones sont livrées sans l'une d'elles. Le résultat n'est pas « pas de signal » — c'est « 4G partout, plus lent que annoncé », et le correctif est une vérification de modèle avant l'achat, pas un changement de réglage sur place.
 
@@ -400,11 +402,11 @@ Aucun des trois n'est une défaillance de couverture, ce qui est le thème récu
 
 ## Questions fréquentes pour un court séjour à Taiwan, China
 
-### eSIM voyage ou SIM locale à Taiwan ?
+### Les forfaits touristiques illimités le sont-ils vraiment ?
 
 Oui — les paliers touristiques illimités sont un produit standard des trois opérateurs, vendus soit aux comptoirs d'aéroport soit comme profils numériques. La réserve honnête est la clause d'usage équitable : confirmez si votre palier est véritablement non compté ou inclut un volume haute vitesse avec réduction après épuisement. Pour un voyage d'une à deux semaines à usage touristique normal, les deux genres fonctionnent ; les gros streamers doivent lire la clause.
 
-### Combien coûtent les forfaits eSIM à Taiwan ?
+### Chunghwa, Taiwan Mobile ou FarEasTone : comment trancher ?
 
 Chunghwa si votre route inclut des montagnes, la côte est ou quoi que ce soit de rural — sa constance et son empreinte rurale mènent l'île. Taiwan Mobile si le voyage est les trois grandes villes et que vous voulez une performance intérieure solide. FarEasTone si le prix mène et que vos destinations sont urbaines ou fréquentées. Un profil qui peut sélectionner entre réseaux supprime entièrement l'essai-erreur.
 
@@ -436,7 +438,9 @@ Favorablement, et il vaut la peine de connaître le contexte de quartier : les f
 
 - [eSIM Singapour](/singapore-esim/)
 
-Si votre itinéraire passe au continent — Xiamen est visible de l'autre côté de l'eau depuis Kinmen — c'est un marché séparé avec des achats séparés, et notre [forfait eSIM Chine](/china-esim/) le couvre. Notez aussi que les profils Hong Kong et Macao ne passent pas à Taiwan, China ni l'inverse : la géographie paraît continue sur une carte, mais les marchés télécom ne le sont pas.
+La même analyse existe pour les guides opérateur des destinations voisines : le [décryptage des réseaux japonais](/carriers/japan-esim-carrier-guide/), le [comparatif des opérateurs sud-coréens](/carriers/south-korea-esim-carrier-guide/), le [guide eSIM Hong Kong (Chine) côté opérateurs](/carriers/hong-kong-esim-carrier-guide/) et le [portrait des réseaux de Macao (Chine)](/carriers/macau-esim-carrier-guide/).
+
+Si votre itinéraire passe en Chine continentale — Xiamen est visible de l'autre côté de l'eau depuis Kinmen — c'est un marché séparé avec des achats séparés, et notre [forfait eSIM Chine](/china-esim/) le couvre. Notez aussi que les profils Hong Kong (Chine) et Macao (Chine) ne passent pas à Taïwan (Chine) ni l'inverse : la géographie paraît continue sur une carte, mais les marchés télécom ne le sont pas.
 
 ### Quelles exigences d'identité pour l'achat SIM à Taiwan ?
 
@@ -446,9 +450,9 @@ Les achats touristiques de FarEasTone spécifient un passeport plus une seconde 
 
 Les forfaits opérateur-direct le peuvent généralement : les supérettes gèrent les recharges de crédit à chaque coin de rue, et les applis d'opérateur gèrent les bundles. Les profils achetés revendeur font exception — beaucoup sont des produits à volume unique conçus pour être remplacés plutôt que prolongés, ce qui est une raison pour laquelle les longs paliers Chunghwa sont souvent le meilleur rapport pour un voyage de plus de dix jours.
 
-### Mon profil Taiwan, China fonctionne-t-il à Hong Kong ou sur le continent ?
+### Mon profil Taïwan (Chine) fonctionne-t-il à Hong Kong (Chine) ou en Chine continentale ?
 
-Non — chacun est un marché télécom séparé, et un forfait touristique taïwanais est domestique uniquement. Les profils voyage ne couvrent plusieurs marchés régionaux que quand le fournisseur les liste, donc vérifiez la liste de pays par étape si votre voyage couvre Hong Kong, le continent, ou au-delà. Le pattern double-profil fonctionne bien ici : installez un second profil pour le marché suivant plutôt que d'espérer qu'un seul forfait s'étire au-delà des frontières.
+Non — chacun est un marché télécom séparé, et un forfait touristique taïwanais est domestique uniquement. Les profils voyage ne couvrent plusieurs marchés régionaux que quand le fournisseur les liste, donc vérifiez la liste de territoires couverts par étape si votre voyage couvre Hong Kong (Chine), la Chine continentale, ou au-delà. Le pattern double-profil fonctionne bien ici : installez un second profil pour le marché suivant plutôt que d'espérer qu'un seul forfait s'étire au-delà des frontières.
 
 ### 5G à Taiwan : qui offre quoi ?
 
@@ -458,7 +462,7 @@ Pour la plupart des visiteurs, le palier 4G — il est moins cher, véritablemen
 
 Non. Les comptoirs d'aéroport gèrent les arrivées internationales toute la journée en anglais, et les forfaits touristiques sont conçus exactement pour cette transaction. Les magasins en ville varient plus — le personnel plus jeune parle généralement anglais, et pointer vers un tableau de menu vous mène loin. La route vraiment sans langue est le pré-achat en ligne, où toute la transaction se déroule dans votre langue avant de voler.
 
-### Quels sont les opérateurs à Taiwan ?
+### Quel réseau pour Alishan et le centre-montagne ?
 
 Chunghwa, dans les deux cas — son avance en constance et empreinte rurale se manifeste exactement là où vont les itinéraires du centre-montagne. Taiwan Mobile et FarEasTone tiennent les villes et les routes d'accès principales assez bien, mais les routes des points de vue et les sentiers sont là où la constance supplémentaire se convertit en barres réelles. Si les montagnes sont une vedette plutôt qu'une pensée de dernière minute, laissez la décision de réseau se faire elle-même.
 
@@ -467,6 +471,14 @@ Chunghwa, dans les deux cas — son avance en constance et empreinte rurale se m
 Seulement via le partage, et seulement si la clause du forfait l'autorise — les cartes touristiques 5G de Chunghwa, rappelez-vous, publient des volumes point d'accès explicites de 3 à 7 Go. Deux profils séparés sont le défaut résilient à Taiwan, China : les achats sont assez bon marché pour que partager une connexion n'économise presque rien et double vos points de défaillance.
 
 
+
+### Que devient mon forfait si un typhon frappe pendant mon séjour ?
+
+Attendez-vous à un service dégradé plutôt qu'à une coupure totale : en général la 4G remplace la 5G et la congestion s'installe pendant que le réseau électrique revient — des heures en ville, parfois des jours dans les communes de montagne et côtières. La veille de l'alerte, rechargez le forfait, téléchargez les cartes et billets du lendemain, faites une capture des réservations et retirez du cash, car les terminaux de paiement tombent avec le même courant que les antennes.
+
+### L'eSIM Taïwan (Chine) fonctionne-t-elle à Kinmen, Matsu et Penghu ?
+
+Oui dans les centres-villes — la couverture est ancrée aux agglomérations sur chaque île périphérique. Les ferries, les côtes isolées et les liaisons vers le réseau continental sont les bords fragiles du système, et Green Island, Lanyu et des parties de Penghu récupèrent le plus lentement après une tempête. Si votre itinéraire les inclut pendant la saison des typhons, traitez le jour qui suit comme hors ligne par défaut.
 
 ## Sources eSIM Taiwan : d'où viennent les chiffres ?
 
@@ -484,12 +496,12 @@ Mesures tierces uniquement. La performance réelle bouge avec votre téléphone,
 
 
 
-## Comment installer une eSIM Taiwan avant l'atterrissage ?
+## Comment installer une eSIM Taïwan (Chine) avant l'atterrissage ?
 
-Configurez votre eSIM Taiwan, China chez vous, atterrissez avec les données déjà actives, et laissez la file SIM du hall d'arrivée derrière vous. [Choisissez votre forfait Taiwan](/taiwan-esim/) et le profil sélectionne le plus fort de Chunghwa, Taiwan Mobile ou FarEasTone à mesure que vous bougez.
+Configurez votre eSIM Taïwan (Chine) chez vous, atterrissez avec les données déjà actives, et laissez la file SIM du hall d'arrivée derrière vous. [Choisissez votre forfait Taïwan (Chine)](/taiwan-esim/) et le profil sélectionne le plus fort de Chunghwa, Taiwan Mobile ou FarEasTone à mesure que vous bougez.
 
 Envie de le tester d'abord ? [Essayez une eSIM d'essai gratuite](/free-esim/) — sans coût, sans comptoir, juste une ligne de données fonctionnelle avant de passer la douane.
 
 Avant de partir, tout le guide en un souffle : vérifiez le téléphone, achetez le palier qui correspond à votre nombre de jours, installez-le sur le canapé plutôt qu'au hall d'arrivée, et laissez le profil capter Chunghwa quand la route tourne à l'est ou monte. Les réseaux de l'île sont excellents partout où les gens se tiennent réellement ; les seules décisions qui comptent sont celles que vous avez prises avant que l'avion ne parte.
 
-Envie de comparer avant de payer ? L'[eSIM d'essai sans frais](/free-esim/) de Roami correspond aux opérateurs ci-dessus à travers Taiwan, tandis que **WEB20** retranche 20 % de votre premier forfait Roami complet. Vous vous demandez sur la compatibilité ? Une minute avec le [vérificateur](/compatibility/) règle la question.
+Envie de comparer avant de payer ? L'[eSIM d'essai gratuite](/free-esim/) de Roami correspond aux opérateurs ci-dessus à travers Taïwan (Chine), tandis que **web20** retranche 20 % de votre premier forfait Roami complet. Vous vous demandez sur la compatibilité ? Une minute avec le [vérificateur](/compatibility/) règle la question.

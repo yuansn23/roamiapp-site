@@ -1,9 +1,9 @@
 ---
 title: "Opérateurs eSIM Irlande : quel réseau couvre Dublin ?"
 description: "Roami compare les opérateurs eSIM Irlande Three, Vodafone et Eir sur la couverture réelle, la vitesse et les prix prépayés."
-image: "img/esim/carriers/ireland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ireland-esim-carrier-guide.webp"
 date: "2026-09-25T00:37:08+00:00"
-keywords: opérateurs eSIM Irlande, opérateurs eSIM Irlande, eSIM Three, eSIM Vodafone, eSIM Eir, couverture 5G Irlande, APN eSIM Irlande, eSIM Irlande prépayé, meilleur opérateur eSIM Irlande, eSIM voyage Irlande, itinérance Irlande du Nord
+keywords: eSIM Irlande, opérateurs eSIM Irlande, eSIM Three, eSIM Vodafone, eSIM Eir, couverture 5G Irlande, APN eSIM Irlande, eSIM Irlande prépayé, meilleur opérateur eSIM Irlande, eSIM voyage Irlande, itinérance Irlande du Nord
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -22,7 +22,7 @@ Choisir une eSIM pour l'Irlande revient à regarder les routes que vous conduire
 
 La prise en charge du téléphone et la mécanique d'installation viennent en premier — les comparaisons peuvent attendre que celles-ci soient claires. La [liste de compatibilité des appareils](/compatibility/) répond à la première, et [l'explication de l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) répond à la seconde — tout ce qui suit reste sur les opérateurs eux-mêmes.
 
-**La version en 30 secondes :** Vous restez à Dublin, Cork ou Galway ? Three est le réseau le plus rapide du pays, avec un débit de téléchargement médian de 82.44 Mbps et un débit de téléchargement 5G médian de 139.87 Mbps. Vous diffusez beaucoup de vidéos ou jouez ? Three gagne sur le score gaming à 89.04 et la vidéo à 83.7. Vous conduisez le long de la Wild Atlantic Way, à Connemara ou à Donegal ? Vodafone et Eir portent le plus loin sur les bandes basses rurales, et Eir mène la disponibilité 5G à 82.6 %. Vous voulez acheter directement auprès d'un opérateur irlandais en tant que visiteur ? Les trois vendent une eSIM touristique en ligne sans passage en magasin et, contrairement à la plupart des pays, sans aucun document d'identité. Ou évitez les paperasses : l'[eSIM d'essai gratuite multi-réseau](/free-esim/) teste les réseaux sans frais, et le code **WEB20** retire 20 % des [forfaits eSIM prépayés Irlande](/ireland-esim/).
+**La version en 30 secondes :** Vous restez à Dublin, Cork ou Galway ? Three est le réseau le plus rapide du pays, avec un débit de téléchargement médian de 82.44 Mbps et un débit de téléchargement 5G médian de 139.87 Mbps. Vous diffusez beaucoup de vidéos ou jouez ? Three gagne sur le score gaming à 89.04 et la vidéo à 83.7. Vous conduisez le long de la Wild Atlantic Way, à Connemara ou à Donegal ? Vodafone et Eir portent le plus loin sur les bandes basses rurales, et Eir mène la disponibilité 5G à 82.6 %. Vous voulez acheter directement auprès d'un opérateur irlandais en tant que visiteur ? Les trois vendent une eSIM touristique en ligne sans passage en magasin et, contrairement à la plupart des pays, sans aucun document d'identité. Ou évitez les paperasses : l'[eSIM d'essai gratuite multi-réseau](/free-esim/) teste les réseaux sans frais, et le code **web20** retire 20 % des [forfaits eSIM prépayés Irlande](/ireland-esim/).
 
 ## Quels opérateurs irlandais votre eSIM utilise-t-elle ?
 
@@ -222,7 +222,7 @@ L'Irlande du Nord fait partie du Royaume-Uni, elle utilise donc des réseaux bri
 
 La plupart des opérateurs irlandais gardent volontairement l'itinérance République-Irlande du Nord gratuite sur leurs forfaits principaux, mais un forfait touristique prépayé comme le Visit Ireland de Three est explicitement République uniquement, et le Three pay-as-you-go facture au mégaoctet au Royaume-Uni sans pass roaming. La réponse propre pour un voyage Dublin-plus-Belfast est un forfait régional qui traite les deux juridictions comme une seule, pour que votre téléphone ne remarque jamais la frontière ouverte. Une particularité locale à connaître : les appels de la République vers les lignes fixes d'Irlande du Nord peuvent être composés avec le préfixe 048 pour être facturés au tarif national.
 
-Vous planifiez un itinéraire quittant l'Irlande ? Commencez par l'[eSIM pour le Royaume-Uni](/united-kingdom-esim/), ou comparez une [eSIM Europe](/europe-esim/) si votre voyage traverse plusieurs pays.
+Vous planifiez un itinéraire quittant l'Irlande ? Nos guides voisins comparent le [guide des opérateurs au Royaume-Uni](/carriers/united-kingdom-esim-carrier-guide/), le [guide des opérateurs en France](/carriers/france-esim-carrier-guide/), le [guide eSIM Europe](/carriers/europe-esim-carrier-guide/) et le [guide eSIM Islande](/carriers/iceland-esim-carrier-guide/) ; l'[eSIM pour le Royaume-Uni](/united-kingdom-esim/) reste le lien d'achat si votre voyage passe par Belfast.
 
 Cela ne fonctionne proprement que si la sélection de réseau reste automatique. Un profil pouvant se déplacer entre Three, Vodafone et Eir couvre les lacunes provinciales et frontalières qu'aucun forfait à opérateur unique ne peut combler.
 
@@ -383,7 +383,7 @@ Mesures tierces uniquement. Attendez-vous à des variations selon le modèle de 
 
 ## Combien coûte le Go de données en Irlande ?
 
-Configurez le profil avant de partir et il se réveille à l'atterrissage, se déplaçant entre Three, Vodafone et Eir où que votre itinéraire aille. Les nouveaux clients peuvent réclamer un [essai Irlande gratuit](/free-esim/) d'abord, ou obtenir 20 % de réduction sur les [forfaits eSIM Irlande](/ireland-esim/) avec le code **WEB20**.
+Configurez le profil avant de partir et il se réveille à l'atterrissage, se déplaçant entre Three, Vodafone et Eir où que votre itinéraire aille. Une carte SIM prépayée locale et un forfait data eSIM donnent le même réseau en République ; l'eSIM voyage évite surtout la paperasse et couvre l'Irlande du Nord sous un seul forfait. Les nouveaux clients peuvent réclamer un [essai Irlande gratuit](/free-esim/) d'abord, ou obtenir 20 % de réduction sur les [forfaits eSIM Irlande](/ireland-esim/) avec le code **web20**.
 
 [Achetez votre eSIM Irlande maintenant](/ireland-esim/)
 
@@ -391,4 +391,4 @@ Configurez le profil avant de partir et il se réveille à l'atterrissage, se d�
 
 [Essayez l'Irlande gratuitement](/free-esim/)
 
-Une note de clôture de Roami : les voyageurs qui testent la couverture d'abord regrettent rarement. L'[eSIM d'essai](/free-esim/) reproduit la configuration locale sur Three, et le code **WEB20** retire 20 % d'un forfait Roami payant quand vous êtes prêt.
+Une note de clôture de Roami : les voyageurs qui testent la couverture d'abord regrettent rarement. L'[eSIM d'essai](/free-esim/) reproduit la configuration locale sur Three, et le code **web20** retire 20 % d'un forfait Roami payant quand vous êtes prêt.

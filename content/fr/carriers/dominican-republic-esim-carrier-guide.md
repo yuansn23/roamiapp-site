@@ -3,9 +3,9 @@ redirect_to: "/dominican-esim/"
 sitemap: false
 title: "Opérateurs eSIM République dominicaine : qui gagne ?"
 description: "Roami compare Claro, Altice et Viva pour votre eSIM République dominicaine, de Punta Cana à Saint-Domingue, vitesse et prix."
-image: "img/esim/carriers/dominican-republic-esim-carrier-guide.jpg"
+image: "img/esim/carriers/dominican-republic-esim-carrier-guide.webp"
 date: "2026-09-26T12:58:07+00:00"
-keywords: opérateurs eSIM République dominicaine, opérateurs eSIM République dominicaine, eSIM Claro, eSIM Altice Dominicana, eSIM Viva, couverture 5G République dominicaine, eSIM Punta Cana, eSIM République dominicaine prépayée, meilleur opérateur eSIM République dominicaine
+keywords: eSIM République dominicaine, opérateurs eSIM République dominicaine, eSIM Claro, eSIM Altice Dominicana, eSIM Viva, couverture 5G République dominicaine, eSIM Punta Cana, eSIM République dominicaine prépayée, meilleur opérateur eSIM République dominicaine
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -180,7 +180,7 @@ Tarifs prépayés signalés à partir de la liste compilée des SIM de données 
 | Viva | Pack de données prépayé | RD$290 | 14 jours |
 | Viva | Pack de données prépayé | RD$580 | 28 jours |
 
-Lisez ce tableau comme une forme plutôt qu'un devis : le point d'entrée de Claro est un forfait mensuel, celui d'Altice est un pack à courte durée bon marché, et toute la proposition de Viva est le prix. Pour des vacances d'une semaine, l'arithmétique d'une ligne locale est excellente — et elle vous coûte quand même un passage au comptoir, une photocopie de passeport et un rechargement en espagnol le jour où votre pack expire.
+Lisez ce tableau comme une forme plutôt qu'un devis : le point d'entrée de Claro est un forfait mensuel, celui d'Altice est un pack à courte durée bon marché, et toute la proposition de Viva est le prix. Pour des vacances d'une semaine, l'arithmétique d'une ligne locale est excellente — et elle vous coûte quand même un passage au comptoir, une photocopie de passeport et un rechargement en espagnol le jour où votre pack expire. Le tableau révèle aussi un décalage rarement souligné : trente packs journaliers au prix d'entrée coûtent plus cher sur un mois que le forfait mensuel de Claro — les packs courts d'Altice et Viva ne sont avantageux que pour quelques jours, jamais pour un long séjour.
 
 ### La République dominicaine prend-elle en charge votre modèle d'appareil ?
 
@@ -205,9 +205,9 @@ Indotel gère le **SSN — Sistema de Series Negadas** — une base de données 
 
 ### Quelle pièce d'identité faut-il pour acheter une SIM en République dominicaine ?
 
-La loi dominicaine exige que les SIM prépayées soient enregistrées à une identité. En pratique, cela signifie se rendre dans une boutique d'opérateur ou un comptoir d'aéroport avec votre passeport physique : le personnel le copie, enregistre la ligne à votre nom, et vous photographie parfois dans le cadre du processus. Les trois opérateurs ont des comptoirs dans les halls d'arrivée des aéroports de Punta Cana, Las Américas (Santo Domingo) et Gregorio Luperón (Puerto Plata), bien que plusieurs voyageurs rapportent que les boutiques en ville sont moins chères que les kiosques de l'aéroport. Attendez-vous à ce que toute l'opération prenne 20–45 minutes en personne, dans un service client très hispanophone, avant d'avoir des données.
+La loi dominicaine exige que les SIM prépayées soient enregistrées à une identité — les cinq étapes détaillées plus haut tiennent le résumé : boutique ou comptoir, passeport physique, 20 à 45 minutes, test des données avant de partir, recharge par bons ou appli. Les trois opérateurs ont des comptoirs dans les halls d'arrivée des aéroports de Punta Cana, Las Américas (Santo Domingo) et Gregorio Luperón (Puerto Plata), mais plusieurs voyageurs rapportent que les boutiques en ville sont moins chères que les kiosques de l'aéroport.
 
-La même logique d'enregistrement s'applique si vous achetez une eSIM locale directement chez Claro ou Altice — le profil est numérique, mais la paperasse d'identité n'est pas optionnelle. L'achat direct vous procure un numéro de téléphone dominicain et des tarifs locaux très bon marché ; la contrepartie est un réseau verrouillé et un passage en boutique le premier jour.
+La même logique d'enregistrement s'applique si vous achetez une eSIM locale directement chez Claro ou Altice — le profil est numérique, mais la paperasse d'identité n'est pas optionnelle. L'achat direct vous procure un numéro local dominicain et des tarifs locaux très bon marché ; la contrepartie est un réseau verrouillé et un passage en boutique le premier jour.
 
 ### Comment installer une eSIM voyageuse sans comptoir ?
 
@@ -319,11 +319,11 @@ Chaque application de transport du pays a besoin de données en live au moment p
 | DiDi | Principaux marchés urbains et touristiques | Un repli utile quand l'offre Uber est mince |
 | Cabify | Santo Domingo uniquement | La même mécanique qu'Uber avec une flotte plus petite |
 
-Deux règles s'ensuivent. D'abord, installez et connectez-vous aux deux applis avant de voler — la création de compte et la vérification de carte veulent une connexion fiable, et les données d'itinérance dans un hall d'arrivée sont un mauvais endroit pour le faire. Ensuite, attendez-vous à une friction des syndicats de taxis à Punta Cana spécifiquement : les associations locales ont des accords avec les hôtels et l'aéroport, et les prises en charge par appli sont restreintes à certaines grilles. Si un Uber ne peut pas vous rejoindre, inDrive plus des espèces est la solution habituelle hors de la zone de resort, et un taxi touristique à tarif fixe est la solution à l'intérieur.
+Deux règles s'ensuivent. D'abord, installez et connectez-vous aux deux applis avant de voler — la création de compte et la vérification de carte veulent une connexion fiable, et les données d'itinérance dans un hall d'arrivée sont un mauvais endroit pour le faire. Ensuite, attendez-vous à une friction des syndicats de taxis à Punta Cana spécifiquement : les associations locales ont des accords avec les hôtels et l'aéroport, et les prises en charge par appli sont restreintes à certaines grilles. Si un Uber ne peut pas vous rejoindre, inDrive plus des espèces est la solution habituelle hors de la zone de resort, et un taxi touristique à tarif fixe est la solution à l'intérieur. Ajoutez le partage de connexion à l'équation si vous comptez travailler depuis le resort : un ordinateur portable brûle une enveloppe de données bien plus vite qu'un téléphone.
 
 ## Quelle couverture 5G pour Claro, Altice et Viva ?
 
-Les deux grands opérateurs ont déployé la 5G sur la bande **n78 (3.5 GHz)**, voilà pourquoi les vitesses 5G mesurées sont élevées et les îles de couverture petites. Le tableau honnête :
+Les deux grands opérateurs ont déployé la 5G sur la même fréquence, la bande **n78 (3.5 GHz)**, voilà pourquoi les vitesses 5G mesurées sont élevées et les îles de couverture petites. Le tableau honnête :
 
 - **Là où elle existe :** Saint-Domingue, Santiago, Punta Cana et Bávaro, Puerto Plata, et les hubs d'affaires et touristiques autour.
 - **À quelle fréquence vous y êtes :** dans la mesure Ookla du 1er trimestre 2024, la disponibilité 5G de Claro était de **38.5%** et celle d'Altice de **32.1%**. Même sur un téléphone 5G dans une ville 5G, la plupart des sessions tournent en 4G.
@@ -337,7 +337,8 @@ La République dominicaine est une escale de la boucle standard des Caraïbes or
 - **San Juan et les îles Vierges américaines.** Un forfait réservé à la République dominicaine meurt au quai. Une [eSIM Porto Rico](/puerto-rico-esim/) couvre l'étape du territoire américain sans surprise d'itinérance.
 - **Les Bahamas et la Jamaïque.** Tous deux courants sur les mêmes itinéraires ; des profils séparés pour [les Bahamas](/bahamas-esim/) et [la Jamaïque](/jamaica-esim/) gardent toute la boucle couverte.
 - **Les nuits avant et après la croisière en Floride.** Miami et Fort Lauderdale sont les villes d'embarquement habituelles, et une [eSIM États-Unis](/united-states-esim/) gère ces nuits.
-- **Un seul profil au lieu de quatre.** Un [forfait Amérique du Nord](/north-america-esim/) couvre les États-Unis, le Canada et le Mexique sur un seul profil, ce qui est plus simple que d'empiler des forfaits pays si votre route remonte le continent.
+- **Un seul profil au lieu de quatre.** Un [forfait Amérique du Nord](/north-america-esim/) couvre les États-Unis, le Canada et le Mexique sur un seul profil, ce qui est plus simple que d'empiler des forfaits pays si votre route remonte le continent — et le [guide eSIM du Mexique](/carriers/mexico-esim-carrier-guide/) détaille le réseau au sud de la frontière.
+- **Vers l'Amérique centrale par la route ou en une deuxième semaine.** La [comparaison des réseaux costariciens](/carriers/costa-rica-esim-carrier-guide/), le [détail des réseaux guatémaltèques](/carriers/guatemala-esim-carrier-guide/) et le [guide des opérateurs panaméens](/carriers/panama-esim-carrier-guide/) couvrent l'isthme voisin, où un profil dominicain ne suit pas.
 
 Installez chaque profil que vous possédez avant d'embarquer. Le Wi-Fi satellite des navires est le pire endroit possible pour télécharger une eSIM, et les ports d'escale vous laissent à peu près quatre heures pour vous tromper.
 
@@ -373,7 +374,7 @@ Après tout changement, confirmez que c'est l'eSIM — pas votre SIM habituelle 
 
 ## Comment activer votre eSIM République dominicaine ?
 
-Installez avant de voler. Le Wi-Fi de l'aéroport à Punta Cana et Saint-Domingue est congestionné exactement quand tout le monde essaie aussi de télécharger des profils, et l'installation elle-même prend deux minutes sur le Wi-Fi domestique. La séquence complète — scanner le code QR, nommer la ligne, définir l'eSIM comme votre ligne de données, activer l'itinérance des données — se trouve dans le [guide d'activation](/faq/how-to-activate-an-esim/). L'itinérance des données doit être ON pour que l'eSIM se rattache à Claro ou Altice ; cela ne facture pas votre opérateur habituel, cela permet simplement au profil voyage de se connecter.
+Installez avant de voler. Le Wi-Fi de l'aéroport à Punta Cana et Saint-Domingue est congestionné exactement quand tout le monde essaie aussi de télécharger des profils, et l'installation elle-même prend deux minutes sur le Wi-Fi domestique. La séquence complète — scanner le code QR, nommer la ligne, définir l'eSIM comme votre ligne de données, activer l'itinérance des données — se trouve dans le [guide d'activation](/faq/how-to-activate-an-esim/). L'itinérance des données (roaming) doit être ON pour que l'eSIM se rattache à Claro ou Altice ; cela ne facture pas votre opérateur habituel, cela permet simplement au profil voyage de se connecter.
 
 ### Comment installer votre eSIM République dominicaine ?
 
@@ -398,7 +399,7 @@ La séquence d'installation générique — ajouter l'eSIM, scanner le QR, nomme
 - **Viva :** vendu dans les points de vente Punto Viva avec enregistrement au passeport ; les packs de données s'activent par USSD sur le téléphone.
 - **eSIM voyageuses :** installation par code QR à la maison ; le profil passe en itinérance sur le réseau dominicain avec lequel votre fournisseur a des accords et resélectionne au fil de vos déplacements.
 
-### Claro vs Altice : lequel est meilleur en République dominicaine ?
+### Les pannes eSIM propres à la République dominicaine ?
 
 Les erreurs d'activation générales — un profil qui ne se télécharge pas, un scan qui échoue, une eSIM qui s'installe et ne s'enregistre jamais — sont couvertes dans notre [guide de résolution des problèmes eSIM](/faq/esim-activation-errors-troubleshooting-guide/). Les schémas propres à ce marché :
 
@@ -488,6 +489,18 @@ La plupart des téléphones stockent plusieurs profils mais font tourner une lig
 
 Environ USD 0.79 par gigaoctet en données locales — parmi les moins chers des Caraïbes (Cable.co.uk, 80e sur 237 marchés). Ajoutez l'enregistrement au passeport, la file au comptoir en espagnol, le rythme des rechargements et la limite mono-réseau, et l'écart avec une eSIM voyageuse se resserre fortement pour un voyage d'une à deux semaines. Sur un mois, achetez local.
 
+### Pourquoi mon Uber ne peut-il pas me rejoindre à Punta Cana ?
+
+
+Ce n'est pas votre téléphone : les associations de taxis locales ont des accords avec les hôtels et l'aéroport, et les prises en charge par appli y sont restreintes à certaines grilles — vous rejoignez souvent le chauffeur à pied. Hors de la zone de resort, inDrive avec des pesos en espèces est la solution habituelle, et à l'intérieur des complexes, un taxi touristique à tarif fixe. Installez les deux applis et vérifiez le moyen de paiement avant de voler.
+
+
+### Faut-il des pesos pour recharger une ligne prépayée ?
+
+
+Pas nécessairement : le crédit prépayé et les packs de données se rechargent avec des cartes à gratter ou des bons électroniques vendus dans les supermarchés et les épiceries, ou via l'appli de l'opérateur comme Mi Claro. Des pesos en espèces restent utiles au comptoir et pour les courses de taxis — et rappelez-vous qu'à Amber Cove, un seul distributeur délivre des pesos, donc ne comptez pas sur le port pour faire du change.
+
+
 ## Nos sources
 
 - Le Speed Score de 67.59 de Claro, le débit médian de téléchargement de 169.96 Mbps, le débit médian d'envoi de 15.48 Mbps, les lectures de latence en charge et le titre caribéen proviennent tous du [rapport Speedtest Award du 1er–2e trimestre 2026 d'Ookla](https://www.ookla.com/research/reports/award-report-2026-q1-q2-fastest-mobile-network-claro-dominican-republic).
@@ -512,4 +525,4 @@ Installez le profil à la maison plutôt que de faire la queue pour une photocop
 
 [eSIM dominicaine d'essai gratuite](/free-esim/)
 
-Où que vous atterissiez en République dominicaine, Roami a un raccourci : une [eSIM d'essai sans frais](/free-esim/) qui emprunte les mêmes réseaux que Claro, et **WEB20** pour 20% de remise sur votre premier forfait payant.
+Où que vous atterissiez en République dominicaine, Roami a un raccourci : une [eSIM d'essai sans frais](/free-esim/) qui emprunte les mêmes réseaux que Claro, et **web20** pour 20% de remise sur votre premier forfait payant.

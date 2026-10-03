@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Pakistan : quel réseau choisir ?"
 description: "Roami compare Jazz et Zong pour une eSIM Pakistan : vitesse 5G réelle, couverture hors des grandes villes et prix des forfaits."
-image: "img/esim/carriers/pakistan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/pakistan-esim-carrier-guide.webp"
 date: "2026-09-24T05:22:40+00:00"
 keywords: eSIM Pakistan, opérateur eSIM Pakistan, opérateurs eSIM Pakistan, données prépayées, réseau 5G, Jazz, Zong, PTCL Flash Fiber, Transworld, eSIM voyage, partage de connexion
 site_name: Roami
@@ -22,7 +22,7 @@ Une eSIM Pakistan roule sur l'un des quatre réseaux mobiles, et celui sur leque
 
 [Pakistan eSIM voyage](/pakistan-esim/)
 
-**Prise rapide :** Jazz est le réseau mobile le plus rapide du pays, avec un **débit de téléchargement médian de 24.13 Mbps et un upload médian de 8.89 Mbps au 2e semestre 2025** selon le [rapport Ookla Pakistan Speedtest Connectivity](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), avec la latence la plus basse à 48 ms et le meilleur score vidéo mobile. Zong riposte avec la cohérence la plus haute — **86.2 % de ses échantillons franchissent le seuil 5 Mbps ↓ / 1 Mbps ↑** — ce qui explique qu'il tienne mieux sur la route du Karakoram. Ufone et Telenor complètent sur le prix et la portée nord. Le profil de Roami passe automatiquement entre Jazz et Zong, garde le partage de connexion disponible, et s'installe depuis un code QR. Les nouveaux voyageurs peuvent [essayer l'eSIM gratuite de Roami](/free-esim/) ou retirer 20 % d'un forfait payant avec le code **WEB20** sur les [forfaits pour le Pakistan](/pakistan-esim/).
+**Prise rapide :** Jazz est le réseau mobile le plus rapide du pays, avec un **débit de téléchargement médian de 24.13 Mbps et un upload médian de 8.89 Mbps au 2e semestre 2025** selon le [rapport Ookla Pakistan Speedtest Connectivity](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025), avec la latence la plus basse à 48 ms et le meilleur score vidéo mobile. Zong riposte avec la cohérence la plus haute — **86.2 % de ses échantillons franchissent le seuil 5 Mbps ↓ / 1 Mbps ↑** — ce qui explique qu'il tienne mieux sur la route du Karakoram. Ufone et Telenor complètent sur le prix et la portée nord. Le profil de Roami passe automatiquement entre Jazz et Zong, garde le partage de connexion disponible, et s'installe depuis un code QR. Les nouveaux voyageurs peuvent [essayer l'eSIM gratuite de Roami](/free-esim/) ou retirer 20 % d'un forfait payant avec le code **web20** sur les [forfaits pour le Pakistan](/pakistan-esim/).
 
 *Balayez pour voir plus*
 
@@ -107,7 +107,7 @@ Tarification prépayée pour visiteurs :
 
 ### Quels sont les forfaits les moins chers au Pakistan ?
 
-Ufone est le moins cher des quatre pour les données pures, et ses forfaits hybrides sous-cotent Jazz et Zong sur les gigaoctets affichés. Le forfait le plus cité par les voyageurs est un **pack 18 Go / 30 jours à PKR 499**, avec un pack hebdomadaire 12 Go à PKR 299. La couverture est fiable dans les villes et sur les autoroutes principales, et plus fine que Jazz ou Zong sur les routes secondaires. Si votre voyage est un itinéraire urbain de deux semaines et que le prix est décisif, Ufone est la recommandation honnête ; s'il inclut le nord, non.
+Ufone est la carte SIM prépayée la moins chère des quatre pour les données pures, et ses forfaits hybrides sous-cotent Jazz et Zong sur les gigaoctets affichés. Le forfait le plus cité par les voyageurs est un **pack 18 Go / 30 jours à PKR 499**, avec un pack hebdomadaire 12 Go à PKR 299. La couverture est fiable dans les villes et sur les autoroutes principales, et plus fine que Jazz ou Zong sur les routes secondaires. Si votre voyage est un itinéraire urbain de deux semaines et que le prix est décisif, Ufone est la recommandation honnête ; s'il inclut le nord, non.
 
 ### Telenor : que vaut-il dans le nord du Pakistan ?
 
@@ -144,7 +144,7 @@ Le Pakistan gère un système d'approbation d'appareils séparé. Un téléphone
 **Route une : une eSIM voyage, achetée avant de voler.**
 
 1. Vérifiez que votre téléphone est débloqué et compatible eSIM avec le [vérificateur de compatibilité](/compatibility/) — un téléphone verrouillé échoue à l'installation, pas à la caisse.
-2. Achetez le forfait et installez le profil sur le Wi-Fi à la maison, puis nommez la ligne.
+2. Achetez le forfait et lancez l'activation eSIM sur le Wi-Fi à la maison, puis nommez la ligne.
 3. Définissez l'eSIM comme ligne utilisée pour les données mobiles et activez l'itinérance des données.
 4. Atterrissez, désactivez l'itinérance des données sur votre carte SIM personnelle, et confirmez que le profil s'attache avant de quitter le hall d'arrivée.
 5. Gardez la capture du code QR dans le stockage cloud pour une réinstallation.
@@ -158,7 +158,7 @@ Le Pakistan gère un système d'approbation d'appareils séparé. Un téléphone
 5. Choisissez un forfait, notez l'expiration, et gardez le reçu de vérification.
 6. Testez les données avant de quitter le comptoir, et confirmez que le numéro est enregistré à votre nom de passeport.
 
-La route eSIM voyage existe précisément pour sauter les étapes deux à six. La route locale existe parce qu'elle est moins chère au gigaoctet et vous donne un numéro pakistanais pour les appels locaux. Ni l'une ni l'autre n'est fausse ; elles conviennent à des durées de voyage différentes.
+La route eSIM voyage existe précisément pour sauter les étapes deux à six. La route locale existe parce qu'elle est moins chère au gigaoctet et vous donne un numéro local pour les appels et les SMS. Ni l'une ni l'autre n'est fausse ; elles conviennent à des durées de voyage différentes.
 
 ## eSIM ou SIM locale : combien coûte la connexion au Pakistan ?
 
@@ -197,6 +197,8 @@ Le réseau à choisir dépend de la ville où vous êtes. Les chiffres mobiles p
 
 💡 Les déplacements ville à ville au Pakistan sont là où la sélection automatique de réseau prouve sa valeur.
 
+Un point que ce tableau enterre : même la ville la mieux desservie, Faisalabad, plafonne à un débit médian de 24.13 Mbps — au Pakistan, le vrai critère d'achat d'une eSIM Pakistan est la cohérence du réseau mobile, pas la vitesse crête.
+
 ## Quelle portée et quelle vitesse à travers le Pakistan ?
 
 Les chiffres de vitesse nationaux du Pakistan cachent beaucoup de variation locale. Voici quoi attendre dans chaque région que vous visiterez probablement, zones mortes incluses.
@@ -212,12 +214,15 @@ Les chiffres de vitesse nationaux du Pakistan cachent beaucoup de variation loca
 | Fairy Meadows & l'approche du Nanga Parbat | Pas de signal à Fairy Meadows même ; la piste en jeep depuis le pont Raikot n'en a aucun |
 | Baloutchistan (Quetta, côte Makran, Gwadar) | Quetta urbain est couvert ; l'autoroute côtière vers Gwadar a d'énormes vides et n'est pas une route où compter sur le téléphone |
 
-Trois liens régionaux changent ce dont vous avez besoin côté SIM : **SCO** est l'opérateur du Gilgit-Baltistan et de l'Azad Kashmir, et l'avantage de cohérence de Zong sur Jazz est le plus visible sur les routes Khyber Pakhtunkhwa et Karakoram. Pour les longues étapes nord, téléchargez les cartes hors ligne avant de quitter Islamabad — ce n'est pas un cas où un meilleur forfait répare une tour manquante.
+Trois liens régionaux changent ce dont vous avez besoin côté SIM : **SCO** est l'opérateur du Gilgit-Baltistan et de l'Azad Kashmir, et l'avantage de cohérence de Zong sur Jazz est le plus visible sur les routes Khyber Pakhtunkhwa et Karakoram. Pour les longues étapes nord, planifiez autour des zones de signal plutôt que de compter sur un forfait data plus gros — aucune enveloppe d'octets ne répare une tour absente.
 
 Franchissez la frontière depuis le Pakistan ? Comparez les réseaux voisins :
 
-- [Forfaits eSIM Inde](/india-esim/)
+- [Comparatif des opérateurs eSIM en Inde](/carriers/india-esim-carrier-guide/)
+- [Réseaux mobiles au Bangladesh : le guide voyageur](/carriers/bangladesh-esim-carrier-guide/)
+- [eSIM Turquie : les opérateurs décryptés](/carriers/turkey-esim-carrier-guide/)
 - [Guide eSIM Émirats arabes unis](/carriers/united-arab-emirates-esim-carrier-guide/)
+- [Forfaits eSIM Inde](/india-esim/)
 - [eSIM voyage Arabie saoudite](/saudi-arabia-esim/)
 
 💡 Comme la couverture est irrégulière région par région, une eSIM capable de changer de réseau local surpassera une eSIM verrouillée sur un seul opérateur.
@@ -237,7 +242,7 @@ Les itinéraires du Pakistan se divisent en deux mondes — le sud et le centre 
 | Skardu et les plaines Deosai | SIM Zong ou SCO locale | Les lignes locales sont ce que les entreprises de la région utilisent | Deosai est effectivement hors ligne ; un messager satellite bat un meilleur forfait |
 | Fairy Meadows et l'approche du Nanga Parbat | Tout hors ligne | Il n'y a pas de tour à la prairie | La piste en jeep depuis le pont Raikot n'a aucune couverture |
 | Swat, Naran et les vallées Kaghan | eSIM voyage sur Zong | La cohérence nord de Zong surpasse son classement national ici | La couverture s'effile au-dessus de Naran et à travers Babusar |
-| Voyage d'affaires avec partage ordinateur | eSIM voyage avec un gros pack | Le partage est autorisé ; la taille du pack est la vraie limite | Un portable en hotspot peut vider un forfait mensuel en un jour |
+| Voyage d'affaires avec partage ordinateur | eSIM voyage avec un gros forfait data | Le partage est autorisé ; la taille du pack est la vraie limite | Un portable en hotspot peut vider un forfait mensuel en un jour |
 
 Le schéma sur les dix : dans le sud et le centre, choisissez sur la vitesse ; dans le nord, choisissez sur la cohérence et emportez les cartes hors ligne. C'est l'inverse de la façon dont la plupart des gens choisissent un forfait.
 
@@ -301,7 +306,7 @@ Oui. Les forfaits Pakistan de Roami sont data-only, ce dont les services VoIP on
 
 ### Où acheter une eSIM Pakistan ?
 
-Sur la [page des forfaits Pakistan](/pakistan-esim/) — et vous pouvez acheter plusieurs forfaits à l'avance, les garder dans votre compte et les activer séquentiellement — un pack 7 jours d'abord, un pack 30 jours après expiration. Chacun est activé par code QR ou via l'appli, ce qui convient aux longs séjours et aux visites répétées.
+Sur la [page produit Pakistan de Roami](/pakistan-esim/) — et vous pouvez acheter plusieurs forfaits à l'avance, les garder dans votre compte et les activer séquentiellement — un pack 7 jours d'abord, un pack 30 jours après expiration. Chacun est activé par code QR ou via l'appli, ce qui convient aux longs séjours et aux visites répétées.
 
 ### Dois-je compléter une vérification biométrique pour une eSIM Pakistan ?
 
@@ -330,6 +335,14 @@ Oui. Les forfaits Pakistan de Roami supportent le partage de connexion, et les f
 ### Que devient ma connexion quand je passe en Inde ou en Iran ?
 
 Elle s'arrête. Un profil Pakistan-uniquement n'a aucune couverture hors du pays et ne donne généralement aucun message d'avertissement — le téléphone perd simplement le service. Un forfait multi-pays est le seul moyen de rester en ligne à travers une frontière terrestre, et sur les approches Torkham, Taftan et Khunjerab il n'y a aucun signal utilisable dans la zone frontalière quel que soit le forfait.
+
+### Peut-on recevoir des SMS de vérification sur une eSIM Pakistan ?
+
+Non — un profil eSIM voyage data-only n'a pas de numéro de téléphone, donc il ne reçoit aucun SMS, y compris les codes à usage unique des banques et des réseaux sociaux. Gardez votre carte SIM personnelle active avec l'itinérance activée uniquement pour recevoir ces codes, et coupez simplement ses données mobiles pour éviter la facturation en itinérance. C'est aussi pour cela que l'installation en double eSIM est le réglage le plus confortable au Pakistan.
+
+### Faut-il acheter sa SIM dès l'aéroport ou plutôt en ville ?
+
+Les deux marchent, avec des compromis différents. Des kiosques d'opérateur sont présents dans les halls d'arrivée d'Islamabad, Karachi et Lahore, et l'enregistrement complet au comptoir prend généralement 30 à 60 minutes, vérification biométrique incluse — pratique si vous voulez être en ligne avant le taxi. En ville, un centre ou une franchise officielle propose exactement la même procédure ; l'essentiel est d'éviter les boutiques sans marque, incapables de traiter un enregistrement passeport étranger. Dans tous les cas, testez les données avant de quitter le comptoir.
 
 [Voir la FAQ complète →](/faq/)
 
@@ -360,7 +373,7 @@ Chaque chiffre ici est une mesure tierce plutôt que notre propre test terrain, 
 
 ## Votre eSIM Pakistan itinère-t-elle vers les pays voisins ?
 
-Atterrissez à Lahore ou Karachi déjà en ligne. L'eSIM de Roami pour le Pakistan roule sur Jazz et Zong, change de réseau automatiquement, et garde les données fluides avec le partage de connexion à bord. Les nouveaux voyageurs peuvent commencer par une [eSIM d'essai Pakistan gratuite](/free-esim/), ou retirer 20 % avec le code **WEB20** sur les [forfaits eSIM Pakistan](/pakistan-esim/).
+Atterrissez à Lahore ou Karachi déjà en ligne. L'eSIM de Roami pour le Pakistan roule sur Jazz et Zong, change de réseau automatiquement, et garde les données fluides avec le partage de connexion à bord. Les nouveaux voyageurs peuvent commencer par une [eSIM d'essai Pakistan gratuite](/free-esim/), ou retirer 20 % avec le code **web20** sur les [forfaits eSIM Pakistan](/pakistan-esim/).
 
 [Acheter votre eSIM](/pakistan-esim/)
 

@@ -7,7 +7,7 @@ title: "Quel opérateur eSIM utiliser en Afrique du Sud ?"
 description: "Roami compare Vodacom et MTN pour une eSIM Afrique du Sud : couverture, vitesse, prix prépayés et exemption RICA expliquée."
 
 
-image: "img/esim/carriers/south-africa-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-africa-esim-carrier-guide.webp"
 
 
 date: "2026-09-23T22:27:11+00:00"
@@ -590,7 +590,7 @@ MTN pour un circuit mêlant routes et parcs (cohérence de 92.8 %, meilleure emp
 
 
 
-Uniquement sur un forfait régional. Un profil Afrique du Sud uniquement s'arrête à la frontière, ce qui piège les itinéraires en liberté remontant la N7 vers la Namibie ou traversant vers le Botswana. Notre [guide eSIM Namibie](/carriers/namibia-esim-carrier-guide/) et la [page eSIM Kenya](/kenya-esim/) couvrent les étapes voisines.
+Uniquement sur un forfait régional. Un profil Afrique du Sud uniquement s'arrête à la frontière, ce qui piège les itinéraires en liberté remontant la N7 vers la Namibie ou traversant vers le Botswana. Notre [guide eSIM pour la Namibie](/carriers/namibia-esim-carrier-guide/) et la [l'eSIM pour le Kenya](/kenya-esim/) couvrent les étapes voisines.
 
 
 
@@ -762,4 +762,4 @@ Une ligne enregistrée RICA coûte un passeport, une visite en magasin et une at
 
 
 
-Où que vous atterrissiez en Afrique du Sud, Roami a un raccourci : un [essai gratuit multi-réseau](/free-esim/) qui roule sur les mêmes réseaux que Vodacom et MTN, avec **WEB20** réduisant de 20 % votre premier forfait Roami payant.
+Où que vous atterrissiez en Afrique du Sud, Roami a un raccourci : un [essai gratuit multi-réseau](/free-esim/) qui roule sur les mêmes réseaux que Vodacom et MTN, avec **web20** réduisant de 20 % votre premier forfait Roami payant.

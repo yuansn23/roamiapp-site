@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM Fidji choisir pour votre séjour ?"
 description: "Roami compare les réseaux 5G de Vodafone Fiji et Digicel Fiji pour que votre eSIM voyage reste connectée partout aux Fidji."
-image: "img/esim/carriers/fiji-esim-carrier-guide.jpg"
+image: "img/esim/carriers/fiji-esim-carrier-guide.webp"
 date: "2026-09-26T18:48:25+00:00"
 keywords: opérateurs eSIM Fidji, eSIM Fidji, garder son numéro principal actif, Vodafone Fiji, Digicel Fiji, opérateurs mobiles des Fidji, îles Yasawa, lagune Beqa, itinérance gratuite, eSIM voyage, comparaison des réseaux des Fidji
 site_name: Roami
@@ -36,7 +36,7 @@ Deux opérateurs, donc deux grilles tarifaires, et celles des Fidji sont d'une l
 
 ### Vodafone Fiji : que vaut la gamme Bula ?
 
-La gamme touristique de Vodafone est la gamme **Bula**, vendue à l'aéroport de Nadi et dans les boutiques en ville avec du crédit d'appel et du solde acheté inclus, selon la [comparaison des forfaits de septembre 2026 de Roafly](https://www.roafly.com/blog/fiji-sim-card) :
+La gamme touristique de Vodafone est la gamme **Bula**, vendue à l'aéroport de Nadi et dans les boutiques en ville avec du crédit d'appel et du solde acheté inclus, selon les grilles tarifaires publiées en septembre 2026 :
 
 | Forfait | Données | Validité du forfait | Prix | Bonus |
 |:---|:---|:---|:---|:---|
@@ -56,7 +56,7 @@ Deux détails se cachent dans ce tableau. La SIM elle-même survit au forfait �
 
 ### Digicel Fiji : que vaut la gamme Traveler ?
 
-Les forfaits **Traveler** de Digicel sont moins chers au gigaoctet que Vodafone, selon [l'enquête 2026 sur les SIM aux Fidji de Traveltomtom](https://traveltomtom.net/destinations/oceania/fiji/sim-card-for-fiji) :
+Les forfaits **Traveler** de Digicel sont moins chers au gigaoctet que Vodafone, selon les barèmes officiels 2026 des deux opérateurs :
 
 | Forfait | Données | Validité | Prix | Bonus |
 |:---|:---|:---|:---|:---|
@@ -77,11 +77,11 @@ Quelle que soit la voie locale choisie, les trois mêmes exigences se trouvent e
 
 L'aéroport international de Nadi traite la quasi-totalité des arrivées internationales, et c'est là que la plupart des visiteurs ressentent d'abord le marché fidjien à deux opérateurs : Vodafone et Digicel tiennent tous deux des comptoirs dans la zone des arrivées, où ils vendent des SIM touristiques physiques en face à face. L'aéroport de Nadi propose aussi un Wi-Fi gratuit limité — environ deux heures ou 1 GB, selon ce qui s'épuise en premier — suffisant pour prévenir votre transfert ou ouvrir une réservation, mais pas pour s'y appuyer.
 
-L'alternative plus fluide est d'arriver déjà connecté. Vodafone Fiji opère un flux de réservation officiel d'eSIM touristique en ligne : vous saisissez votre date d'arrivée et votre hébergement, choisissez un forfait, vérifiez votre identité avec le téléchargement d'un passeport et un selfie, payez par carte, et le profil s'active automatiquement la veille de votre atterrissage. Ce processus est documenté sur [la page eSIM touristique de Vodafone Fiji elle-même](https://vodafone.com.fj/personal/esim/tourist-esim/), et il fonctionne entièrement depuis l'étranger. Pas de file d'attente, pas de paperasse, et une ligne active avant même l'ouverture des portes de l'avion — l'eSIM est prête avant votre valise.
+L'alternative plus fluide est d'arriver déjà connecté. Vodafone Fiji opère un flux de réservation officiel d'eSIM touristique en ligne — documenté sur [la page eSIM touristique de l'opérateur elle-même](https://vodafone.com.fj/personal/esim/tourist-esim/), détaillé pas à pas dans la section achat ci-dessous — et il fonctionne entièrement depuis l'étranger. Pas de file d'attente, pas de paperasse, et une ligne active avant même l'ouverture des portes de l'avion — l'eSIM est prête avant votre valise.
 
 L'offre touristique publiée par Digicel, en revanche, est une SIM physique vendue à l'aéroport ou dans ses points de vente — une option tout à fait correcte si vous voulez un numéro local avec des minutes d'appel, mais qui exige d'être sur place en personne avec votre passeport original. Si aucune des deux files du comptoir ne vous tente, une eSIM voyage installée à la maison vous met en ligne avant même d'atteindre la livraison des bagages. Dans tous les cas, faites vos devoirs de compatibilité à l'avance : vérifiez votre téléphone contre la [liste de compatibilité des appareils](/compatibility/) plutôt que de découvrir un verrou opérateur à 6 heures du matin dans le hall des arrivées.
 
-**La voie du comptoir aéroportuaire, pas à pas.** Les deux boutiques des opérateurs se trouvent dans le hall des arrivées de Nadi — Vodafone d'un côté, Digicel de l'autre — et selon [le guide de l'aéroport de Nadi de Traveltomtom](https://traveltomtom.net/destinations/oceania/fiji/sim-card-nadi), les deux restent ouvertes jour et nuit :
+**La voie du comptoir aéroportuaire, pas à pas.** Les deux boutiques des opérateurs se trouvent dans le hall des arrivées de Nadi — Vodafone d'un côté, Digicel de l'autre — et selon les horaires affichés sur place, les deux restent ouvertes jour et nuit :
 
 1. Rendez-vous au comptoir de l'opérateur et choisissez un forfait touristique sur le tableau — les gammes Bula et Traveler sont tarifées à l'identique des boutiques en ville.
 2. Remettez votre passeport original pour l'enregistrement ; le personnel le photocopie ou le scanne et enregistre la ligne à votre nom.
@@ -231,7 +231,7 @@ Troisième point, la discipline bi-SIM qui garde votre domicile joignable. Garde
 
 ## Que faire quand votre eSIM ne se connecte pas ?
 
-**A. Aucun signal sur l'eau ou dans une baie reculée.** La « défaillance » la plus courante aux Fidji n'en est pas une — c'est le registre des zones mortes ci-dessus qui fait ce que la géographie dicte. Confirmez votre position par rapport à lui avant tout dépannage, et rappelez-vous que le profil se réenregistre automatiquement dès qu'une antenne revient à portée.
+**A. Aucun signal sur l'eau ou dans une baie reculée.** La « défaillance » la plus courante aux Fidji n'en est pas une — c'est le registre des zones mortes ci-dessus qui fait ce que la géographie dicte. Confirmez votre position par rapport à lui avant tout dépannage, et rappelez-vous que le roaming se réactive tout seul dès qu'une antenne revient à portée.
 
 **B. La couverture existe, les données ne passent pas.** L'ordre des réglages compte : confirmez que la ligne eSIM est sélectionnée pour les données mobiles, que l'itinérance des données est activée sur cette ligne, et que la SIM nationale n'est pas toujours définie comme source de données principale. Neuf plaintes sur dix dans le lobby d'un hôtel se résolvent à cette étape. Si cela persiste, le [guide de dépannage erreur par erreur](/faq/esim-activation-errors-troubleshooting-guide/) parcourt tout le catalogue dans l'ordre.
 
@@ -255,7 +255,7 @@ Faites tout cela avant le vol, pas pendant l'escale à Nadi. Le Wi-Fi aéroportu
 
 ### SIM locale ou eSIM voyage aux Fidji ?
 
-Oui — l'eSIM touristique de Vodafone Fiji est réservable en ligne depuis l'étranger, avec vérification par passeport et selfie, et elle s'active la veille de votre date d'arrivée déclarée. Les fournisseurs d'eSIM voyage appliquent le même modèle d'avant-départ sur les deux réseaux nationaux. Ce que vous ne pouvez pas encore faire en ligne, c'est Digicel : sa SIM touristique reste un achat physique à l'aéroport ou en boutique.
+Les deux ont leur cas d'usage. Une carte SIM prépayée locale — gamme Bula de Vodafone ou gamme Traveler de Digicel, achetée au comptoir de Nadi — donne un numéro fidjien et des minutes d'appel à petit prix, au prix d'une file et d'un enregistrement au passeport. Une eSIM voyage multi-réseaux s'installe avant le départ, s'active la veille de l'arrivée et bascule entre les deux réseaux ; c'est l'option la plus fluide pour la majorité des séjours d'une à trois semaines, surtout à île-hôtel. Pour un mois à Suva ou un vrai besoin de numéro local, la SIM locale reprend l'avantage.
 
 ### Qui a la couverture la plus solide aux Fidji ?
 
@@ -263,7 +263,7 @@ Cela varie vraiment d'île en île, et toute réponse générale vous induirait 
 
 ### Quels sont les prix des forfaits eSIM Fidji ?
 
-Rarement. Entre l'accès payant, les zones réservées au lobby et la liaison insulaire partagée, le Wi-Fi d'hôtel aux Fidji n'est pas fiable comme connexion principale — surtout hors des grands hôtels du continent. Un forfait de données local couvre le ferry, le marché, le départ du sentier et votre chaise longue, soit l'essentiel des lieux où les vacances se déroulent vraiment.
+Remarquablement bas à l'échelle mondiale. Le Traveler 10 de Digicel coûte FJ$10 (~US$4.50) pour 21 Go sur 5 jours et le Bula 35 de Vodafone FJ$35 (~US$16) pour 50 Go sur 10 jours — Digicel gagne au gigaoctet, Vodafone en portée du réseau. Les profils de voyage multi-réseaux coûtent un peu plus au gigaoctet mais couvrent les deux antennes. Et comme le Wi-Fi d'hôtel est souvent payant ou réservé au lobby aux Fidji, un forfait de données remplace aussi ces frais quotidiens.
 
 ### Mon numéro continuera-t-il de fonctionner dans mon pays ?
 
@@ -283,7 +283,7 @@ Rien sous une forme autour de laquelle un visiteur devrait planifier — les ré
 
 ### Les téléphones Android prennent-ils en charge les eSIM fidjiennes ?
 
-Rarement. Les hôtels, les tours-opérateurs et les chauffeurs de transfert coordonnent tous par e-mail et WhatsApp, et un profil en data uniquement couvre cela. Si vos projets incluent des appels vocaux à des entreprises locales, les forfaits touristiques des opérateurs incluent des minutes — la gamme Traveler de Digicel comprend des appels illimités sur le réseau, et les forfaits Bula de Vodafone portent des minutes locales plus internationales. Sinon, le schéma bi-SIM — numéro national pour les appels et les codes, eSIM pour les données — fait tout ce dont un visiteur a besoin.
+La plupart des Android récents, oui — et la vérification est la même partout : composez `*#06#` ; si un EID apparaît, le matériel eSIM est présent. Passez ensuite votre modèle exact par [la page de compatibilité](/compatibility/) pour écarter les variantes régionales, et vérifiez le statut de verrouillage si le téléphone vient d'un forfait avec engagement. Un Android sans eSIM garde une porte de sortie : la SIM touristique physique des comptoirs de Nadi.
 
 ### Mon eSIM fonctionnera-t-elle sur le Yasawa Flyer ?
 
@@ -327,6 +327,6 @@ Les descriptions de couverture sont qualitatives pour une raison : le signal fid
 
 La configuration idéale pour les Fidji se décide dans votre salon : vérifiez le téléphone avec le [quiz de compatibilité eSIM](/compatibility/), installez un forfait depuis [la page eSIM Fidji de Roami](/fiji-esim/) avant de partir, et téléchargez les régions de carte pour chaque escale insulaire. Prêt à acheter maintenant ? Filez directement à la [boutique Fidji de Roami](/fiji-esim/).
 
-Si vous n'avez jamais utilisé l'un de ces profils, *votre première eSIM peut être un essai gratuit* — [réclamez-le ici](/free-esim/) — et atterrissez à Nadi en sachant exactement comment il se comporte. Le ferry partira toujours sans couverture au milieu — mais vous serez celui qui regarde l'eau au lieu de guetter les barres.
+Si vous n'avez jamais utilisé l'un de ces profils, *votre première eSIM peut être un essai gratuit* — [réclamez-le ici](/free-esim/) — et atterrissez à Nadi en sachant exactement comment il se comporte. Et si votre vol vers Nadi transite par les États-Unis, [notre guide des opérateurs américains](/carriers/united-states-esim-carrier-guide/) couvre la première jambe du voyage. Le ferry partira toujours sans couverture au milieu — mais vous serez celui qui regarde l'eau au lieu de guetter les barres.
 
-Une note de clôture de Roami : les voyageurs qui testent d'abord la couverture le regrettent rarement. Le [forfait d'essai gratuit](/free-esim/) reflète la configuration locale sur les réseaux locaux, et le code **WEB20** retire 20% d'un forfait Roami payant dès que vous serez prêt.
+Une note de clôture de Roami : les voyageurs qui testent d'abord la couverture le regrettent rarement. Le [forfait d'essai gratuit](/free-esim/) reflète la configuration locale sur les réseaux locaux, et le code **web20** retire 20% d'un forfait Roami payant dès que vous serez prêt.

@@ -4,7 +4,7 @@ title: "Opérateurs eSIM Éthiopie : quel réseau choisir ?"
 
 description: "Roami compare Ethio Telecom et Safaricom Éthiopie, de l'enregistrement au guichet aux coupures d'internet, pour votre eSIM."
 
-image: "img/esim/carriers/ethiopia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ethiopia-esim-carrier-guide.webp"
 
 date: "2026-09-26T00:39:19+00:00"
 
@@ -36,12 +36,6 @@ hero_subtitle_main: "Là où les réseaux éthiopiens se distinguent : vitesse, 
 
 
 L'Éthiopie compte exactement deux opérateurs mobiles, et choisir entre eux est plus simple que dans la plupart des pays : **Ethio Telecom** détient le réseau presque partout, et **Safaricom Éthiopie** est le challenger qui compte surtout à Addis-Abeba et dans une liste croissante de villes. Mais la réponse honnête à la question « quel est le meilleur opérateur eSIM en Éthiopie » commence ailleurs — par le fait que l'Éthiopie est l'une des rares destinations touristiques où le gouvernement peut, et le fait, couper internet par région. Ce guide traite du choix de l'opérateur, des formalités d'enregistrement, de l'endroit où la couverture s'arrête réellement, et de la façon de planifier autour d'une coupure d'internet, car aucun autre article sur les eSIM en Éthiopie ne réunit ces quatre points en un seul endroit.
-
-
-
-**Réponse rapide :** Ethio Telecom est le choix par défaut — la plus vaste empreinte 4G et un accès eSIM via l'application et les guichets de Bole ; une eSIM voyage multi-réseaux ajoute Safaricom Éthiopie là où son signal est plus fort. Confirmez votre téléphone sur le [vérificateur de compatibilité](/compatibility/) avant toute chose — l'étape la plus souvent oubliée en Éthiopie.
-
-Le reste de cette page est consacré aux opérateurs éthiopiens eux-mêmes.
 
 
 
@@ -121,7 +115,7 @@ Pour un voyage ordinaire, l'eSIM voyage gagne en temps, pas seulement en argent.
 
 
 
-## Quel opérateur choisir en Éthiopie ?
+## Quelle eSIM Éthiopie choisir selon votre voyage ?
 
 
 
@@ -133,7 +127,7 @@ Pour un voyage ordinaire, l'eSIM voyage gagne en temps, pas seulement en argent.
 
 | Séjour d'affaires à Addis-Abeba | L'un ou l'autre — Ethio Telecom pour la couverture, Safaricom pour une deuxième ligne | Les deux réseaux sont solides dans la capitale ; Safaricom Éthiopie est souvent moins congestionné |
 
-| Route du sud (Hawassa, Arba Minch, vallée de l'Omo) | Ethio Telecom | La 4G suit les principales villes ; la portée de Safaricom Éthiopie s'amincit vite hors des villes |
+| Route du sud (Hawassa, Arba Minch, vallée de l'Omo) | Ethio Telecom | la 4G suit les principales villes et une carte SIM prépayée locale reste peu chère ; la portée de Safaricom Éthiopie s'amincit vite hors des villes |
 
 | Dépression du Danakil ou arrière-pays du Simien | Aucun — planifiez hors ligne | Ce sont des zones sans signal sur tous les réseaux éthiopiens |
 
@@ -297,7 +291,7 @@ Ce que cela signifie route par route :
 
 
 
-💡 Une eSIM capable de basculer entre Ethio Telecom et Safaricom Éthiopie couvre les trous qu'aucune ligne mono-opérateur ne peut combler — c'est l'argument central d'un profil multi-réseaux en Éthiopie.
+💡 Une eSIM capable de basculer entre Ethio Telecom et Safaricom Éthiopie couvre les trous qu'aucune ligne mono-opérateur ne peut combler — c'est l'argument central d'un profil multi-réseaux en Éthiopie. Et une conclusion que le tableau enterre : dès que vous quittez l'axe principal, la 4G s'arrête aux villes — entre elles, ce sont de longs silences, pas simplement un débit plus lent.
 
 
 
@@ -359,7 +353,7 @@ Ce que cela signifie route par route :
 
 
 
-La troisième route a un hic à connaître : une ligne achetée localement exige un enregistrement biométrique en personne, et l'empreinte des boutiques de Safaricom Éthiopie hors de la capitale est limitée. Pour un voyage de deux semaines, la voie de l'eSIM voyage gagne sur tous les plans sauf celui d'avoir un numéro de téléphone éthiopien — et comme les hôtels, chauffeurs et agences de voyage en Éthiopie se coordonnent de toute façon via WhatsApp, une ligne data uniquement couvre presque tout.
+La troisième route a un hic à connaître : une ligne achetée localement exige un enregistrement biométrique en personne, et l'empreinte des boutiques de Safaricom Éthiopie hors de la capitale est limitée. Pour un voyage de deux semaines, la voie de l'eSIM voyage gagne sur tous les plans sauf celui d'avoir un numéro de téléphone éthiopien — et une ligne data uniquement couvre presque tout, comme expliqué plus haut.
 
 
 
@@ -617,7 +611,7 @@ Safaricom Éthiopie sert ses clients via ses boutiques, concentrées à Addis-Ab
 
 
 
-Non. Safaricom Éthiopie est une société licenciée distincte de Safaricom Kenya — réseau différent, enregistrement différent, aucune itinérance automatique entre elles. Si votre itinéraire en Afrique de l'Est comprend les deux pays, prévoyez un profil éthiopien séparé ; notre [guide des opérateurs eSIM Kenya](/carriers/kenya-esim-carrier-guide/) couvre le versant kenyan.
+Non. Safaricom Éthiopie est une société licenciée distincte de Safaricom Kenya — réseau différent, enregistrement différent, aucun roaming automatique entre elles. Si votre itinéraire en Afrique de l'Est comprend les deux pays, prévoyez un profil éthiopien séparé ; notre [guide des opérateurs eSIM Kenya](/carriers/kenya-esim-carrier-guide/) couvre le versant kenyan.
 
 
 
@@ -641,7 +635,7 @@ Ethio Telecom, par la couverture plus que par le débit brut. Les vitesses médi
 
 
 
-Ethio Telecom, qui déploie la 5G depuis 2022 dans le centre d'Addis-Abeba et une vingtaine d'autres villes ; Safaricom Éthiopie la déploie dans la capitale. Partout ailleurs, planifiez autour de la 4G, de la 3G et de trous honnêtes. Tout article promettant 150 Mbps à Lalibela décrit un test de vitesse à Addis, pas votre voyage.
+Ethio Telecom, qui déploie la 5G depuis 2022 dans le centre d'Addis-Abeba et une vingtaine d'autres villes ; Safaricom Éthiopie la déploie dans la capitale. Partout ailleurs, planifiez autour de la 4G, de la 3G et de trous honnêtes — les voyageurs qui quittent le corridor doivent penser couverture réseau, pas débit. Tout article promettant 150 Mbps à Lalibela décrit un test de vitesse à Addis, pas votre voyage.
 
 
 
@@ -709,6 +703,14 @@ Pour un court voyage, une eSIM voyage au tarif local — pas de file d'enregistr
 
 
 
+### Puis-je recharger une eSIM voyage via telebirr ou une carte à gratter ?
+
+Non. Telebirr et les cartes à gratter servent à recharger une ligne enregistrée localement — et telebirr exige en plus une ligne éthiopienne à lui. Une eSIM voyage est un forfait data prépayé au prix fixe : on achète le volume voulu avant le départ, il n'y a rien à recharger sur place, d'où l'intérêt de dimensionner le forfait dès l'achat si votre itinéraire prévoit peu de Wi-Fi.
+
+### Mon eSIM Éthiopie fonctionnera-t-elle si je pousse jusqu'au Kenya ou en Érythrée ?
+
+Pas automatiquement : un profil eSIM voyage est limité aux pays de son forfait, et aucune itinérance régionale ne relie l'Éthiopie à ses voisins — pas plus qu'une ligne Safaricom Kenya ne bascule sur Safaricom Éthiopie. Si votre circuit enchaîne les pays, prévoyez un profil par destination (ou une eSIM multi-pays adaptée à votre itinéraire) et activez le bon profil en arrivant.
+
 D'autres questions ? [Voir la FAQ complète →](/faq/)
 
 
@@ -741,7 +743,7 @@ Tous les chiffres sont des mesures tierces indépendantes. En Éthiopie, le cour
 
 
 
-Installez le profil sur le Wi-Fi domestique, activez l'itinérance des données, et quittez l'avion à Bole déjà en ligne — votre emplacement SIM physique reste libre pour les appels et les codes de vérification. Commencez par une [carte d'essai gratuite](/free-esim/), puis [parcourez les forfaits et vérifiez la couverture en Éthiopie](/plans/). Vous poursuivez dans la région ? Notre [guide des opérateurs eSIM Kenya](/carriers/kenya-esim-carrier-guide/) couvre le prochain réseau que vous rencontrerez.
+Installez le profil sur le Wi-Fi domestique, activez l'itinérance des données, et quittez l'avion à Bole déjà en ligne — votre emplacement SIM physique reste libre pour les appels et les codes de vérification. Commencez par une [carte d'essai gratuite](/free-esim/), puis [parcourez les forfaits et vérifiez la couverture en Éthiopie](/plans/). Vous poursuivez dans la région ? Nos comparatifs voisins couvrent [les réseaux d'Égypte](/carriers/egypt-esim-carrier-guide/), [les opérateurs ougandais](/carriers/uganda-esim-carrier-guide/) et [le versant kenyan](/carriers/kenya-esim-carrier-guide/).
 
 
 
@@ -749,5 +751,5 @@ Installez le profil sur le Wi-Fi domestique, activez l'itinérance des données,
 
 
 
-La stratégie pratique : testez d'abord avec l'[eSIM d'exemple](/free-esim/) de Roami — elle utilise la même infrastructure que les réseaux locaux — puis bloquez un forfait Roami payant avec le code **WEB20** pour 20 % de réduction si l'Éthiopie devient une destination régulière.
+La stratégie pratique : testez d'abord avec l'[eSIM d'exemple](/free-esim/) de Roami — elle utilise la même infrastructure que les réseaux locaux — puis bloquez un forfait Roami payant avec le code **web20** pour 20 % de réduction si l'Éthiopie devient une destination régulière.
 

@@ -4,11 +4,11 @@ title: "Opérateurs eSIM Hong Kong : quel réseau choisir ?"
 
 description: "Roami compare les opérateurs eSIM Hong Kong CMHK, csl et SmarTone sur la 5G, la couverture et les prix pour les voyageurs."
 
-image: "img/esim/carriers/hong-kong-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hong-kong-esim-carrier-guide.webp"
 
 date: "2026-09-26T21:28:17+00:00"
 
-keywords: eSIM Hong Kong, Chine, données prépayées, réseau 5G, China Mobile Hong Kong, Netvigator, internet voyage, opérateurs eSIM Hong Kong
+keywords: eSIM Hong Kong (Chine), données prépayées, réseau 5G, China Mobile Hong Kong, Netvigator, internet voyage, opérateurs eSIM Hong Kong
 
 site_name: Roami
 
@@ -32,19 +32,15 @@ hero_subtitle_main: "Où les réseaux de Hong Kong diffèrent : vitesse, couvert
 
 
 
-Une eSIM à Hong Kong est le moyen le plus rapide de se connecter sur l'un des marchés les plus connectés d'Asie — et l'un des moins chers. Les données locales coûtent environ **USD 0.82 par gigaoctet**, 82e des 237 marchés suivis par Cable.co.uk, et bien en dessous de la moyenne mondiale, tandis que DataReportal compte 7.10 millions d'internautes à Hong Kong, Chine (96.0 % de pénétration) sur 17.4 millions de connexions mobiles. L'infrastructure sur laquelle repose un profil de visiteur est dense, mature et rapide. Chaque affirmation ici renvoie à une source nommée — la liste en fin d'article mérite un coup d'œil avant de payer pour Hong Kong.
+Une eSIM à Hong Kong est le moyen le plus rapide de se connecter sur l'un des marchés les plus connectés d'Asie — et l'un des moins chers. Les données locales coûtent environ **USD 0.82 par gigaoctet**, 82e des 237 marchés suivis par Cable.co.uk, et bien en dessous de la moyenne mondiale, tandis que DataReportal compte 7.10 millions d'internautes à Hong Kong (Chine), soit 96.0 % de pénétration, sur 17.4 millions de connexions mobiles. L'infrastructure sur laquelle repose un profil de visiteur est dense, mature et rapide. Chaque affirmation ici renvoie à une source nommée — la liste en fin d'article mérite un coup d'œil avant de payer pour Hong Kong.
 
 
 
-La vitesse dépend toutefois du réseau auquel votre profil se connecte. Selon les mesures du 1er semestre 2025 d'Ookla, China Mobile Hong Kong affiche un téléchargement médian de **119.24 Mbps** toutes technologies confondues et 185.43 Mbps en 5G, tandis que csl enregistre la meilleure constance du marché à 92.5 %. Ce guide compare China Mobile Hong Kong, csl, SmarTone et 3HK par district et par type de séjour, afin que le choix d'acheminement soit délibéré — et il aborde la règle qui surprend plus de visiteurs que toute autre : chaque carte SIM locale à Hong Kong, Chine doit être enregistrée à une identité réelle avant de fonctionner.
+La vitesse dépend toutefois du réseau auquel votre profil se connecte. Selon les mesures du 1er semestre 2025 d'Ookla, China Mobile Hong Kong affiche un téléchargement médian de **119.24 Mbps** toutes technologies confondues et 185.43 Mbps en 5G, tandis que csl enregistre la meilleure constance du marché à 92.5 %. Ce guide compare China Mobile Hong Kong, csl, SmarTone et 3HK par district et par type de séjour, afin que le choix d'acheminement soit délibéré — et il aborde la règle qui surprend plus de visiteurs que toute autre : chaque carte SIM locale à Hong Kong (Chine) doit être enregistrée à une identité réelle avant de fonctionner.
 
 
 
 **En bref :** China Mobile Hong Kong est le réseau le plus rapide pour une eSIM à Hong Kong, en tête sur le téléchargement médian (119.24 Mbps) et la disponibilité 5G (86.3 %). csl est le choix de constance pour les appels vidéo (92.5 %) et la meilleure couverture intérieure dans les anciens immeubles de Kowloon. SmarTone équilibre vitesse et prix pour les utilisateurs légers, et le SoSIM de 3HK est le moyen le moins cher de conserver un mois de données locales. Toute carte prépayée locale nécessite un enregistrement au nom réel avec un passeport avant l'activation, donc prévoyez quelques minutes pour cela — ou évitez le comptoir avec un profil multi-réseau. [L'eSIM Hong Kong de Roami](/hong-kong-esim/) s'installe avant votre vol et change d'opérateur automatiquement.
-
-
-
-## Comment utiliser ce guide ?
 
 
 
@@ -160,7 +156,7 @@ Deux tendances méritent d'être relevées dans ce tableau. D'abord, les **envel
 
 
 
-Toute carte SIM émise par un opérateur local pour un usage à Hong Kong, Chine — cartes prépayées et forfaits mensuels confondus — doit compléter un **enregistrement au nom réel avant l'activation**. L'obligation relève du règlement sur les télécommunications (enregistrement des cartes SIM), en vigueur depuis le 1er septembre 2021, et les directives de l'autorité sont claires : les nouvelles cartes prépayées ne peuvent être utilisées qu'une fois l'enregistrement terminé et vérifié.
+Toute carte SIM émise par un opérateur local pour un usage à Hong Kong (Chine) — cartes prépayées et forfaits mensuels confondus — doit compléter un **enregistrement au nom réel avant l'activation**. L'obligation relève du règlement sur les télécommunications (enregistrement des cartes SIM), en vigueur depuis le 1er septembre 2021, et les directives de l'autorité sont claires : les nouvelles cartes prépayées ne peuvent être utilisées qu'une fois l'enregistrement terminé et vérifié.
 
 
 
@@ -190,7 +186,7 @@ La conséquence pratique est celle que la plupart des blogs de voyage présenten
 
 
 
-Les réseaux de Hong Kong, Chine utilisent **n1 (2100 MHz), n78 (3500 MHz) et n79 (4900 MHz)** pour la 5G, et **B1, B3, B7, B8 et B28** pour la 4G LTE. La plupart des téléphones récents les couvrent, mais n79 est celle qui sépare un téléphone milieu de gamme d'un fleuron et elle porte une part significative de la capacité 5G locale. Vérifiez le numéro de modèle exact plutôt que de supposer.
+Les réseaux de Hong Kong (Chine) utilisent **n1 (2100 MHz), n78 (3500 MHz) et n79 (4900 MHz)** pour la 5G, et **B1, B3, B7, B8 et B28** pour la 4G LTE. La plupart des téléphones récents les couvrent, mais n79 est celle qui sépare un téléphone milieu de gamme d'un fleuron et elle porte une part significative de la capacité 5G locale. Vérifiez le numéro de modèle exact plutôt que de supposer.
 
 
 
@@ -238,7 +234,7 @@ La couverture urbaine n'est pas le test. Les véritables lacunes se situent dans
 
 | Comment le profil arrive | En magasin ou à un comptoir, puis enregistré | Code QR immédiatement après le paiement |
 
-| Délai avant les premières données | Quelques minutes si vérifié sur place ; plus long si les vérifications manuelles font la file | En direct à l'atterrissage, ou dès que vous activez l'itinérance |
+| Délai avant les premières données | Quelques minutes si vérifié sur place ; plus long si les vérifications manuelles font la file | En direct à l'atterrissage, ou dès que vous activez l'itinérance des données (roaming) |
 
 | Coût typique | À partir de HK$33 pour 50 GB sur 30 jours (SoSIM) | Un prix unique à l'avance sans visite au comptoir |
 
@@ -250,7 +246,7 @@ La couverture urbaine n'est pas le test. Les véritables lacunes se situent dans
 
 
 
-L'écart est faible à Hong Kong, Chine car les données locales sont déjà bon marché. Ce que la carte locale ajoute est un numéro **+852** — utile pour les réservations de restaurants, les applications locales et la livraison — et ce qu'elle coûte est une étape d'enregistrement et un plafond mono-opérateur. Pour une pause citadine de quatre jours, l'eSIM voyage gagne sur le temps ; pour un mois de télétravail, le prix du SoSIM est difficile à contester.
+L'écart est faible à Hong Kong (Chine) car les données locales sont déjà bon marché. Ce que la carte locale ajoute est un numéro **+852** — utile pour les réservations de restaurants, les applications locales et la livraison — et ce qu'elle coûte est une étape d'enregistrement et un plafond mono-opérateur. Pour une pause citadine de quatre jours, l'eSIM voyage gagne sur le temps ; pour un mois de télétravail, le prix du SoSIM est difficile à contester.
 
 
 
@@ -258,7 +254,7 @@ L'écart est faible à Hong Kong, Chine car les données locales sont déjà bon
 
 
 
-Plutôt qu'un instantané, voici la liste maintenue des forfaits Hong Kong, Chine sur notre [page des forfaits pour Hong Kong](/hong-kong-esim/). La section ci-dessous place ces prix à côté de la performance réseau réelle du marché et du coût local du gigaoctet.
+Plutôt qu'un instantané, voici la liste maintenue des forfaits Hong Kong (Chine) sur notre [page des forfaits pour Hong Kong](/hong-kong-esim/). La section ci-dessous place ces prix à côté de la performance réseau réelle du marché et du coût local du gigaoctet.
 
 
 
@@ -266,7 +262,7 @@ Plutôt qu'un instantané, voici la liste maintenue des forfaits Hong Kong, Chin
 
 
 
-L'indice mondial Speedtest d'Ookla place Hong Kong, Chine au **51e** rang mondial pour la vitesse de téléchargement mobile, mesurée à une médiane de **89.13 Mbps** (latence 16 ms). C'est en dessous de la médiane mondiale de 109.05 Mbps, et cela compte car une eSIM voyage repose exactement sur cette infrastructure locale. Les données locales sont tarifées à environ **USD 0.82 par GB**, 82e des 237 marchés suivis par Cable.co.uk. Pour situer le marché, DataReportal rapporte 7.10 millions d'internautes à Hong Kong, Chine (96.0 % de pénétration) et 17.4 millions de connexions mobiles — 235 % de la population au début 2025.
+L'indice mondial Speedtest d'Ookla place Hong Kong (Chine) au **51e** rang mondial pour la vitesse de téléchargement mobile, mesurée à une médiane de **89.13 Mbps** (latence 16 ms). C'est en dessous de la médiane mondiale de 109.05 Mbps, et cela compte car une eSIM voyage repose exactement sur cette infrastructure locale. Les données locales sont tarifées à environ **USD 0.82 par GB**, 82e des 237 marchés suivis par Cable.co.uk. Pour situer le marché, DataReportal rapporte 7.10 millions d'internautes à Hong Kong (Chine), soit 96.0 % de pénétration, et 17.4 millions de connexions mobiles — 235 % de la population au début 2025.
 
 
 
@@ -334,15 +330,19 @@ Considérez les chiffres de vitesse à l'échelle du territoire comme un plafond
 
 
 
-Vous sautez la frontière depuis Hong Kong, Chine ? Comparez les réseaux voisins :
+La conclusion que ces deux tableaux enterrent : aucun réseau mobile de Hong Kong ne gagne partout. China Mobile Hong Kong domine la vitesse et la portée, csl la constance dans Kowloon et Lantau, SmarTone les îlots — votre district décide plus de votre débit réel que le classement médian.
 
 
 
-- [eSIM voyage Macao, Chine](/carriers/macau-esim-carrier-guide/)
+Vous sautez la frontière depuis Hong Kong (Chine) ? Comparez les réseaux voisins :
 
-- [Guide eSIM Chine](/carriers/china-esim-carrier-guide/)
 
-- [notre guide Taiwan, Chine](/carriers/taiwan-esim-carrier-guide/)
+
+- [eSIM voyage Macao (Chine)](/carriers/macau-esim-carrier-guide/)
+
+- [Guide eSIM Chine continentale](/carriers/china-esim-carrier-guide/)
+
+- [notre guide Taïwan (Chine)](/carriers/taiwan-esim-carrier-guide/)
 
 
 
@@ -476,7 +476,7 @@ Les erreurs d'activation générales — un profil qui ne se télécharge pas, u
 
 
 
-### Qui possède les réseaux de Hong Kong ?
+### Que préparer avant de contacter l'assistance ?
 
 
 
@@ -502,11 +502,11 @@ Les erreurs d'activation générales — un profil qui ne se télécharge pas, u
 
 
 
-Les réseaux de Hong Kong, Chine s'arrêtent à la frontière des deux côtés du territoire — Macao à l'ouest, le continent au nord. Chaque traversée a son propre caractère. **Lo Wu et Lok Ma Chau** vous mettent sur le métro de Shenzhen en quelques minutes après l'immigration, **Shenzhen Bay** est la connexion en autocar, et le **pont Hong Kong–Zhuhai–Macao** atteint Macao en moins d'une heure. Sur chacun d'eux, une carte Hong Kong uniquement s'éteint, et l'itinérance automatique que certaines cartes activent peut vous facturer sans invite claire.
+Les réseaux de Hong Kong (Chine) s'arrêtent à la frontière des deux côtés du territoire — Macao à l'ouest, le continent au nord. Chaque traversée a son propre caractère. **Lo Wu et Lok Ma Chau** vous mettent sur le métro de Shenzhen en quelques minutes après l'immigration, **Shenzhen Bay** est la connexion en autocar, et le **pont Hong Kong–Zhuhai–Macao** atteint Macao en moins d'une heure. Sur chacun d'eux, une carte Hong Kong uniquement s'éteint, et l'itinérance automatique que certaines cartes activent peut vous facturer sans invite claire.
 
 
 
-La configuration propre est deux profils plutôt qu'un plan compliqué. Gardez l'eSIM Hong Kong, Chine pour le territoire et ajoutez un forfait continent ou Macao pour la traversée — ou achetez une seule carte avec une enveloppe partagée Hong Kong–Macao, que CMHK, csl et SmarTone publient tous. Avant de quitter l'hôtel, désactivez l'itinérance des données sur la ligne Hong Kong afin qu'une synchronisation en arrière-plan près de la frontière ne puisse pas démarrer une session facturée, et téléchargez une carte hors ligne de la traversée que vous utilisez : la file à Shenzhen Bay est exactement l'endroit où vous voudrez chercher quelque chose.
+La configuration propre est deux profils plutôt qu'un plan compliqué. Gardez l'eSIM Hong Kong (Chine) pour le territoire et ajoutez un forfait continent ou Macao pour la traversée — ou achetez une seule carte avec une enveloppe partagée Hong Kong–Macao, que CMHK, csl et SmarTone publient tous. Avant de quitter l'hôtel, désactivez l'itinérance des données sur la ligne Hong Kong afin qu'une synchronisation en arrière-plan près de la frontière ne puisse pas démarrer une session facturée, et téléchargez une carte hors ligne de la traversée que vous utilisez : la file à Shenzhen Bay est exactement l'endroit où vous voudrez chercher quelque chose.
 
 
 
@@ -606,6 +606,22 @@ Appliquez les quatre schémas ci-dessus dans l'ordre — statut d'enregistrement
 
 
 
+### Puis-je partager la connexion depuis mon profil eSIM ?
+
+
+
+Oui — une fois la ligne active, le partage de connexion avec un ordinateur portable passe par les réglages habituels de votre téléphone, dans la limite du volume de votre forfait data. C'est le moyen le plus simple de connecter la tablette d'un compagnon de voyage ou un second appareil sans acheter de deuxième carte, à condition d'avoir un appareil compatible pour l'activation eSIM.
+
+
+
+### Puis-je payer la recharge de ma carte locale avec une carte bancaire étrangère ?
+
+
+
+Pas toujours : les portails de recharge en ligne des opérateurs rejettent parfois les adresses de facturation étrangères, et c'est l'une des frictions les plus sous-estimées du marché. La routine fiable reste un achat en supérette ou en boutique — souvent en espèces ou avec Octopus — plutôt qu'un paiement en ligne. Si votre ligne doit fonctionner pour une réservation précise, achetez-la la veille plutôt que le jour même.
+
+
+
 ## Idées reçues sur les eSIM à Hong Kong
 
 
@@ -638,7 +654,7 @@ Appliquez les quatre schémas ci-dessus dans l'ordre — statut d'enregistrement
 
 
 
-- **Ookla Speedtest Global Index** — [la page Hong Kong, Chine](https://www.speedtest.net/global-index/hong-kong-%28sar%29) fournit la vitesse médiane mensuelle, la latence et le classement mondial cités ci-dessus.
+- **Ookla Speedtest Global Index** — [la page Hong Kong (Chine)](https://www.speedtest.net/global-index/hong-kong-%28sar%29) fournit la vitesse médiane mensuelle, la latence et le classement mondial cités ci-dessus.
 
 - **Cable.co.uk mobile data pricing** — [l'étude mondiale du coût du GB](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) est la source du chiffre par gigaoctet.
 
@@ -646,7 +662,7 @@ Appliquez les quatre schémas ci-dessus dans l'ordre — statut d'enregistrement
 
 - **Office of the Communications Authority** — [le programme d'enregistrement au nom réel](https://www.ofca.gov.hk/simreg) documente les devoirs d'enregistrement, le plafond de 10 cartes et le processus de contrôle par échantillonnage décrit ici.
 
-- **Pages opérateurs et marché** — les prix des forfaits, les enveloppes et la validité sont tirés de [les tarifs prépayés de SmarTone](https://5g.smartone.com/en/mobile_and_price_plans/prepaid/data_sim/charges.jsp) et [la comparaison de SIM Hong Kong de SimGuide](https://simguidetravel.com/sim-card-hong-kong), tous deux consultés en septembre 2026.
+- **Pages opérateurs et marché** — les prix des forfaits, les enveloppes et la validité sont tirés de [les tarifs prépayés de SmarTone](https://5g.smartone.com/en/mobile_and_price_plans/prepaid/data_sim/charges.jsp), consulté en septembre 2026.
 
 - **Opensignal** — [rapports réseau indépendants](https://www.opensignal.com/reports) fournissent une seconde lecture sur l'expérience réseau. Les affirmations à source unique n'ont pas figuré sur cette page — tout a une corroboration.
 
@@ -660,11 +676,11 @@ Tout ce qui est cité ici remonte à une source tierce nommée, pas à nos propr
 
 
 
-Le paiement prend quelques minutes et le profil arrive dans votre boîte de réception, prêt à s'activer à Hong Kong International. Vous pouvez essayer un [essai gratuit Hong Kong, Chine](/free-esim/) d'abord, ou obtenir 20 % de réduction sur les [forfaits pour Hong Kong](/hong-kong-esim/) avec le code **WEB20**.
+Le paiement prend quelques minutes et le profil arrive dans votre boîte de réception, prêt à s'activer à Hong Kong International. Vous pouvez essayer une [eSIM Hong Kong d'essai gratuite](/free-esim/) d'abord, ou obtenir 20 % de réduction sur les [forfaits pour Hong Kong](/hong-kong-esim/) avec le code **web20**.
 
 
 
-[Achetez votre eSIM Hong Kong, Chine maintenant](/hong-kong-esim/)
+[Achetez votre eSIM Hong Kong (Chine) maintenant](/hong-kong-esim/)
 
 
 
@@ -672,4 +688,4 @@ Le paiement prend quelques minutes et le profil arrive dans votre boîte de réc
 
 
 
-[Essayez Hong Kong, Chine gratuitement](/free-esim/)
+[Essayez Hong Kong (Chine) gratuitement](/free-esim/)

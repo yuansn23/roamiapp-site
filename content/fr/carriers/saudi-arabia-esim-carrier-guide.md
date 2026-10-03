@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM utiliser en Arabie saoudite ?"
 description: "Roami compare STC, Mobily et Zain KSA en Arabie saoudite : couverture régionale, vitesse 5G et prix des eSIM touristiques."
-image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.webp"
 date: "2026-09-24T07:31:31+00:00"
 keywords: eSIM Arabie saoudite, opérateurs eSIM Arabie saoudite, réseau voyage 5G, eSIM STC, eSIM Mobily, eSIM Zain KSA, eSIM voyage Arabie saoudite, sans frais d'itinérance, compatibilité eSIM
 site_name: Roami
@@ -369,4 +369,4 @@ Les prix des forfaits sont les paliers visiteur publiés des opérateurs et évo
 
 ## Pourquoi régler votre eSIM Arabie saoudite avant le départ ?
 
-L'enregistrement est la seule chose que vous ne pouvez pas faire à 38 000 pieds, donc réglez les données avant d'embarquer. [L'eSIM Arabie saoudite de Roami](/saudi-arabia-esim/) est livrée par code QR, se connecte aux réseaux locaux à l'atterrissage, et n'exige aucune visite de comptoir. Commandez sur [roamiapp.com](/saudi-arabia-esim/) et appliquez le code **WEB20** au paiement pour 20 % de réduction sur votre forfait — ou partez d'abord avec une preuve via une [eSIM d'essai](/free-esim/).
+L'enregistrement est la seule chose que vous ne pouvez pas faire à 38 000 pieds, donc réglez les données avant d'embarquer. [L'eSIM voyage Arabie saoudite](/saudi-arabia-esim/) est livrée par code QR, se connecte aux réseaux locaux à l'atterrissage, et n'exige aucune visite de comptoir. Commandez sur [roamiapp.com](/saudi-arabia-esim/) et appliquez le code **web20** au paiement pour 20 % de réduction sur votre forfait — ou partez d'abord avec une preuve via une [eSIM d'essai](/free-esim/).

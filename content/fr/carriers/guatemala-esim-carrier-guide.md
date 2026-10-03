@@ -4,7 +4,7 @@ title: "Opérateur eSIM Guatemala : choisir Claro ou Tigo ?"
 
 description: "Claro ou Tigo ? Roami compare les deux opérateurs eSIM du Guatemala sur la couverture, la vitesse et les prix pour votre voyage."
 
-image: "img/esim/carriers/guatemala-esim-carrier-guide.jpg"
+image: "img/esim/carriers/guatemala-esim-carrier-guide.webp"
 
 date: "2026-09-26T00:25:44+00:00"
 
@@ -203,6 +203,10 @@ Ookla publie les médianes par ville et par département, et elles se lisent com
 
 
 
+La ligne que le tableau enterre le plus : Livingston et la côte caraïbe. Les 57.51 Mbps de Puerto Barrios donnent une fausse assurance — le long du littoral vers Livingston, le signal devient inégal, et c'est la seule destination classique du pays que ce tableau traite en parent pauvre. Téléchargez la zone hors ligne avant de partir.
+
+
+
 **Antigua.** Le cœur pavé d'Antigua teste à 62.86 Mbps avec 88 % de constance, et les deux réseaux le traitent comme un marché prioritaire. Dès que vous marchez vers le Cerro de la Cruz et les collines environnantes, le signal se relâche — la médiane du département est de plus de 20 Mbps inférieure à celle de la ville pour une bonne raison.
 
 
@@ -305,7 +309,7 @@ La différence pratique découle de la ligne sur la façon dont le profil arrive
 
 
 
-## Qui sont les opérateurs du Guatemala ?
+## Prépayé local ou eSIM voyage : quels prix au Guatemala ?
 
 
 
@@ -451,7 +455,7 @@ Si la donnée échoue après une installation propre, suivez la séquence standa
 
 
 
-Notre [guide d'activation](/faq/how-to-activate-an-esim/) couvre les étapes universelles une fois ; ce qui change d'un opérateur à l'autre au Guatemala, c'est la livraison elle-même.
+Notre [guide d'activation eSIM universel](/faq/how-to-activate-an-esim/) couvre les étapes universelles une fois ; ce qui change d'un opérateur à l'autre au Guatemala, c'est la livraison elle-même.
 
 
 
@@ -463,7 +467,7 @@ Notre [guide d'activation](/faq/how-to-activate-an-esim/) couvre les étapes uni
 
 
 
-### Quel opérateur du Guatemala choisir : Claro Guatemala vs Tigo Guatemala ?
+### Quels problèmes d'activation voit-on au Guatemala ?
 
 
 
@@ -675,7 +679,7 @@ Du côté de Flores et à l'entrée du parc, oui — la médiane du Petén est d
 
 
 
-Oui, pour presque tout téléphone récent déverrouillé : les deux réseaux utilisent les bandes LTE 2, 4, 5, 7, 12 et 28 avec la 5G sur n41 et n78, la répartition standard des Amériques. Le vrai filtre est le verrouillage opérateur — Tigo l'exige explicitement — et la présence d'une eSIM : `*#06#` doit afficher un EID. Passez votre modèle sur la [page de compatibilité](/compatibility/) avant de partir.
+Oui, pour presque tout téléphone récent déverrouillé : les deux réseaux utilisent les bandes LTE 2, 4, 5, 7, 12 et 28 avec la 5G sur n41 et n78, la répartition standard des Amériques. Le vrai filtre est le verrouillage opérateur — Tigo l'exige explicitement — et la présence d'une eSIM : `*#06#` doit afficher un EID. Passez votre modèle sur la [page de vérification de compatibilité](/compatibility/) avant de partir.
 
 
 
@@ -699,7 +703,7 @@ Non — les appels WhatsApp ne sont pas bloqués : ils passent par la donnée, p
 
 
 
-Une eSIM uniquement Guatemala s'arrête à la frontière sans avertissement. Pour la suite du voyage, Roami maintient un [guide eSIM Mexique](/carriers/mexico-esim-carrier-guide/) et, plus au sud, un [guide complet des opérateurs eSIM Costa Rica](/carriers/costa-rica-esim-carrier-guide/) — ou choisissez un forfait multi-pays si votre route franchit plus d'une frontière.
+Une eSIM uniquement Guatemala s'arrête à la frontière sans avertissement. Pour la suite du voyage, Roami maintient un [guide eSIM Mexique](/carriers/mexico-esim-carrier-guide/) et, plus au sud, un [guide complet des opérateurs eSIM Costa Rica](/carriers/costa-rica-esim-carrier-guide/) — ou choisissez un forfait multi-pays si votre route franchit plus d'une frontière. Cap plus au sud sur le corridor centraméricain ? Le [guide des opérateurs eSIM Nicaragua](/carriers/nicaragua-esim-carrier-guide/) prend le relais, lui aussi membre du groupe CA-4.
 
 
 
@@ -707,7 +711,7 @@ Une eSIM uniquement Guatemala s'arrête à la frontière sans avertissement. Pou
 
 
 
-Rien au-delà du forfait payé d'avance sur un profil voyage : l'itinérance des données doit rester activée sur la ligne eSIM pour qu'elle s'attache à Claro ou Tigo, mais le quota est exactement celui que vous avez acheté. Sur votre SIM nationale, gardez l'itinérance désactivée — ce sont alors les tarifs internationaux de votre opérateur d'origine qui s'appliquent.
+Rien au-delà du forfait payé d'avance sur un profil voyage : l'itinérance — le roaming des données — doit rester activée sur la ligne eSIM pour qu'elle s'attache à Claro ou Tigo, mais le quota est exactement celui que vous avez acheté. Sur votre SIM nationale, gardez l'itinérance désactivée — ce sont alors les tarifs internationaux de votre opérateur d'origine qui s'appliquent.
 
 
 
@@ -740,6 +744,22 @@ Uber fonctionne au Guatemala, et son index de villes publié liste la ville de G
 
 
 Un profil uniquement Guatemala s'arrête à la frontière. Comme le Guatemala fait partie du groupe CA-4 avec le Salvador, le Honduras et le Nicaragua, votre tampon d'entrée continue de courir à travers ces frontières — mais pas votre donnée. Si votre route franchit ne serait-ce qu'une frontière, achetez un forfait qui liste chaque pays de celle-ci, ou prenez un service local une fois passé.
+
+
+
+### Puis-je partager la connexion de mon forfait guatémaltèque ?
+
+
+
+Le partage de connexion vers un ordinateur ou la tablette d'un compagnon se règle dans les réglages standards du téléphone, mais les Superpacks prépayés peuvent restreindre le tethering — vérifiez auprès du guichet avant d'acheter une carte SIM prépayée, car une fois la ligne activée il n'y a rien à négocier. Sur une eSIM voyage, le partage fonctionne dans la limite du volume de votre forfait data, ce qui en fait le moyen le plus simple de connecter plusieurs appareils avec un seul profil.
+
+
+
+### Que faire si j'atterris à La Aurora sans rien d'installé ?
+
+
+
+Vous n'êtes pas bloqué, mais l'ordre compte. Le Wi-Fi des arrivées est sollicité par tout l'avion, donc ne comptez pas y télécharger un profil ; rendez-vous plutôt dans une boutique Claro ou Tienda Tigo, passeport en main — la loi exige l'enregistrement, et Claro délivre une eSIM Prepago par QR code sur place. Testez la donnée avant de sortir. C'est exactement la scène que l'installation à domicile évite : à l'atterrissage, votre eSIM Guatemala s'attache au réseau mobile en quelques secondes, sans guichet ni espagnol.
 
 
 
@@ -779,7 +799,7 @@ Rien sur cette page n'est notre propre test de terrain — ce sont des mesures t
 
 
 
-Installez une fois chez vous et le profil se verrouille sur Claro ou Tigo dès que vous franchissez La Aurora — pas de file au guichet, pas de copie de passeport, pas d'espagnol requis au comptoir. Envie de tester d'abord ? Une [eSIM d'essai gratuite Guatemala](/free-esim/) le fait, ou allez directement aux [forfaits eSIM Guatemala](/guatemala-esim/).
+Installez une fois chez vous et votre eSIM Guatemala se verrouille sur Claro ou Tigo dès que vous franchissez La Aurora — pas de file au guichet, pas de copie de passeport, pas d'espagnol requis au comptoir. Envie de tester d'abord ? Une [eSIM d'essai gratuite Guatemala](/free-esim/) le fait, ou allez directement aux [forfaits eSIM Guatemala](/guatemala-esim/).
 
 
 
@@ -795,5 +815,5 @@ Installez une fois chez vous et le profil se verrouille sur Claro ou Tigo dès q
 
 
 
-Dans tous les cas, configurez avant le départ : faites passer le [vérificateur de compatibilité](/compatibility/) sur votre téléphone, essayez l'[eSIM d'essai](/free-esim/) de Roami, et saisissez **WEB20** au paiement si vous passez à un forfait Roami complet pour le Guatemala.
+Dans tous les cas, configurez avant le départ : faites passer le [vérificateur de compatibilité](/compatibility/) sur votre téléphone, essayez l'[eSIM d'essai](/free-esim/) de Roami, et saisissez **web20** au paiement si vous passez à un forfait Roami complet pour le Guatemala.
 

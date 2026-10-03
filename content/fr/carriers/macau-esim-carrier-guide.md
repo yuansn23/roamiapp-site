@@ -1,9 +1,9 @@
 ---
 title: "Opérateur eSIM Macao : choisir CTM ou China Telecom ?"
 description: "Roami compare les opérateurs eSIM Macao CTM, China Telecom et 3 Macau sur la couverture, la vitesse et les prix en ville."
-image: "img/esim/carriers/macau-esim-carrier-guide.jpg"
+image: "img/esim/carriers/macau-esim-carrier-guide.webp"
 date: "2026-09-25T15:07:12+00:00"
-keywords: opérateurs eSIM Macao, eSIM CTM, eSIM China Telecom Macao, eSIM 3 Macau, couverture 5G Macao, eSIM Hong Kong à Macao, prépayé eSIM Macao, meilleur opérateur eSIM Macao
+keywords: opérateurs eSIM Macao (Chine), eSIM CTM, eSIM China Telecom Macao, eSIM 3 Macau, couverture 5G Macao, eSIM Hong Kong à Macao, prépayé eSIM Macao, meilleur opérateur eSIM Macao
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -18,7 +18,7 @@ hero_subtitle_main: "CTM, China Telecom Macao et 3 Macau mis à l'épreuve"
 
 Une décision d'eSIM Macao est inhabituellement simple sur le papier — un opérateur dominant — et ce guide couvre le retournement récent : le réseau qui vient de disparaître et ce qui reste. Macao est la destination rare où la question de l'opérateur se répond d'elle-même. Un opérateur, **CTM**, détient **53.3 %** du marché mobile et **96.8 %** du marché du haut débit, et il vient d'absorber la concurrence : après le retrait de SmarTone du service mobile fin 2024, CTM a achevé son acquisition de 3 Macau, dont le réseau mobile fermera le **30 novembre 2026**. Il reste un territoire à deux réseaux — CTM et China Telecom (Macao) — compressé sur seulement 33 km² de terre, où Ookla a mesuré le téléchargement médian de CTM à **176.04 Mbps**, le plus rapide du territoire. En pratique, un eSIM Macao porte moins sur le choix d'un opérateur que sur le fait de s'assurer que vos données survivent aux traversées frontalières qui amènent la plupart des visiteurs ici. Expérimenté avec les eSIM voyage ? Allez droit à la comparaison des opérateurs Macao ; l'activation ci-dessous suppose zéro expérience préalable.
 
-**Réponse rapide :** CTM est le réseau que la plupart des visiteurs devraient mettre en short-list d'abord à Macao ; les réseaux locaux sont l'alternative rapport qualité-prix pour le comparer. Si vous préférez tester que lire, l'[essai gratuit](/free-esim/) de Roami est le moyen sans coût de démarrer à Macao.
+**Réponse rapide :** CTM est le réseau que la plupart des visiteurs devraient mettre en short-list d'abord à Macao ; les réseaux locaux sont l'alternative rapport qualité-prix pour le comparer. Si vous préférez tester que lire, l'[essai sans frais](/free-esim/) de Roami est le moyen sans coût de démarrer à Macao.
 
 Pas sûr que votre appareil peut porter un profil eSIM ? Passez-le d'abord dans l'[outil de recherche de compatibilité](/compatibility/), puis lisez — la décision d'opérateur ici est courte, mais la question frontalière ne l'est pas.
 
@@ -35,7 +35,7 @@ Le marché s'est consolidé plus vite que presque tout autre en Asie, et le pays
 | 3 Macau (Hutchison) | En cours d'arrêt | 4G LTE | Acquis par CTM ; service mobile finissant le 30 novembre 2026, clients migrant vers CTM |
 | SmarTone (Macao) | Sorti | — | A rendu sa licence 4G en août 2024 et cessé le service mobile |
 
-Trois faits structurels façonnent tout ce qu'un visiteur vit. D'abord, **la domination de CTM est écrasante** : les résultats 2024 de sa maison mère CITIC Telecom montrent les abonnés mobiles en hausse de 16.3 % à 771 000, avec 98.4 % de sa propre base déjà en 5G, dans un territoire d'environ 680 000 habitants — le compte de connexions n'a de sens qu'ajoutés les touristes, navetteurs et travailleurs transfrontaliers. Ensuite, **la 5G est arrivée tôt ici** : Macao a émis ses licences 5G fin 2022 à exactement deux opérateurs, CTM et China Telecom, et les deux ont construit la couverture urbaine agressivement. Troisième, le territoire est physiquement minuscule — tout tient dans quelques kilomètres carrés de tissu urbain dense — aussi un réseau fonctionne partout ou échoue publiquement ; il n'y a nulle part où se cacher.
+Trois faits structurels façonnent tout ce qu'un visiteur vit. D'abord, **la domination de CTM est écrasante** : les résultats 2024 de sa maison mère CITIC Telecom montrent les abonnés mobiles en hausse de 16.3 % à 771 000, avec 98.4 % de sa propre base déjà en 5G, dans un territoire d'environ 680 000 habitants — le compte de connexions n'a de sens qu'ajoutés les touristes, navetteurs et travailleurs transfrontaliers. Ensuite, **la 5G est arrivée tôt ici** : Macao (Chine) a émis ses licences 5G fin 2022 à exactement deux opérateurs, CTM et China Telecom, et les deux ont construit la couverture urbaine agressivement. Troisième, le territoire est physiquement minuscule — tout tient dans quelques kilomètres carrés de tissu urbain dense — aussi un réseau fonctionne partout ou échoue publiquement ; il n'y a nulle part où se cacher.
 
 ### Qui est CTM, l'opérateur historique ?
 
@@ -102,9 +102,9 @@ La ligne la plus utile de ce tableau est celle avec une fourchette plutôt qu'un
 
 ## CTM ou China Telecom : quelle couverture à Macao ?
 
-Uniforme est la réponse honnête, et elle est étayée par les données plutôt que le dépliant. Les deux titulaires 5G visaient la couverture complète des « zones urbaines et lieux clés » dès le départ, et dans un territoire de 33 km² — plus petit que la zone de chalandise de la plupart des aéroports internationaux — « complet » est réalisable comme jamais dans un grand pays. Vous passerez de la Péninsule de Macao, Taipa, Cotai et Coloane en bus ou taxi en trajets de cinq à quinze minutes, généralement sans perdre une barre.
+Uniforme est la réponse honnête, et elle est étayée par les données plutôt que le dépliant. Les deux titulaires 5G visaient la couverture complète des « zones urbaines et lieux clés » dès le départ, et dans un territoire de 33 km² — plus petit que la zone de chalandise de la plupart des aéroports internationaux — « complet » est réalisable comme jamais à l'échelle d'un grand État. Vous passerez de la Péninsule de Macao, Taipa, Cotai et Coloane en bus ou taxi en trajets de cinq à quinze minutes, généralement sans perdre une barre.
 
-Deux détails en petits caractères. **Les plages de Hac Sa et Cheoc Van et les sentiers de randonnée de Coloane** se trouvent à l'extrémité du territoire et penchent résidentiel-fin plutôt qu'urbain-dense — correct pour la messagerie, occasionnellement plus lent pour les envois, et jamais une raison de changer de réseau. **La couverture intérieure dans les mégas-resorts** est excellente sur les deux opérateurs, précisément parce que c'est là que sont les abonnés. Contrairement aux guides de pays grands de notre série — voir le [guide d'opérateur eSIM Kazakhstan](/carriers/kazakhstan-esim-carrier-guide/) pour l'extrême opposé — il n'y a pas de problème de « Macao rural » à planifier. Le seul endroit où la couverture se dégrade vraiment est à l'intérieur des vieux blocs de mi-hauteur du nord de la Péninsule, et même là vous tombez en 4G, pas en rien.
+Deux détails en petits caractères. **Les plages de Hac Sa et Cheoc Van et les sentiers de randonnée de Coloane** se trouvent à l'extrémité du territoire et penchent résidentiel-fin plutôt qu'urbain-dense — correct pour la messagerie, occasionnellement plus lent pour les envois, et jamais une raison de changer de réseau. **La couverture intérieure dans les mégas-resorts** est excellente sur les deux opérateurs, précisément parce que c'est là que sont les abonnés. Contrairement aux guides de la série consacrés aux grands territoires — voir le [guide d'opérateur eSIM Kazakhstan](/carriers/kazakhstan-esim-carrier-guide/) pour l'extrême opposé — il n'y a pas de problème de « Macao rural » à planifier. Le seul endroit où la couverture se dégrade vraiment est à l'intérieur des vieux blocs de mi-hauteur du nord de la Péninsule, et même là vous tombez en 4G, pas en rien.
 
 ### CTM vs China Telecom : qui couvre le mieux ?
 
@@ -121,6 +121,8 @@ Comme tout le territoire est un seul tissu urbain dense, les différences de cou
 | Port Macao HZMB et Porte Frontière (Portas do Cerco) | 5G côté Macao ; le réseau du marché voisin commence à la ligne | Assurez-vous que votre profil Macao est la ligne de données active avant de faire la file |
 | Aéroport international de Macao (MFM) | 5G dans le terminal ; les comptoirs d'arrivée vendent des cartes prépayées | N'achetez rien à l'aéroport que vous ne pourriez aussi acheter en ville moins cher |
 
+La lecture transversale de ce tableau est rassurante : nulle part Macao (Chine) n'a de vraie zone morte — les seules lignes « à faire » concernent les files frontalières, les heures de pointe et les tarifs aéroport, jamais la couverture elle-même.
+
 ## Le Wi-Fi du casino-resort rend-il un eSIM inutile à Macao ?
 
 C'est l'hypothèse la plus courante chez les primo-visiteurs, et elle échoue sur un calendrier spécifique et prévisible.
@@ -129,7 +131,7 @@ C'est l'hypothèse la plus courante chez les primo-visiteurs, et elle échoue su
 
 Deux autres raisons pour lesquelles le repli Wi-Fi est plus faible à Macao que les visiteurs ne l'attendent. Foules : les week-ends de festival et soirées de vacances, les réseaux partagés de resort plient sous des dizaines de milliers d'invités simultanés, tandis que les réseaux cellulaires sont dimensionnés exactement pour cette charge. Et navigation : la moitié du charme de Macao est de se perdre dans les ruelles hors de la Place Senado, ce qui exige des cartes, ce qui exige des données.
 
-Le seul avantage réel que Macao détient sur son géant voisin : il se trouve **hors du filtrage internet de la Chine continentale**, aussi Google Maps, WhatsApp, Instagram et chaque appli internationale se comportent normalement ici. Un eSIM à Macao est une connexion internet normale et ouverte — aucune planification VPN requise, contrairement un voyage au Guangdong.
+Le seul avantage réel que Macao (Chine) détient sur son immense voisin continental : il ne relève pas du régime de filtrage internet appliqué dans la Chine continentale, aussi Google Maps, WhatsApp, Instagram et chaque appli internationale se comportent normalement ici. Un eSIM à Macao est une connexion internet normale et ouverte — aucune planification VPN requise, contrairement à un voyage au Guangdong.
 
 ### Cotai ou péninsule : quelle couverture ?
 
@@ -139,15 +141,15 @@ Les deux moitiés du territoire échouent en directions opposées, et savoir dan
 - **La péninsule est un problème de foule.** La couverture est complète et le signal intérieur est bon, mais le centre historique concentre des dizaines de milliers de visiteurs dans quelques rues étroites. C'est le débit par utilisateur qui souffre — l'expérience classique « barres pleines, envoi lent » à la Place Senado un jour férié, que le choix d'opérateur ne corrigera pas.
 - **Les deux signifient la même chose.** Un forfait data n'est pas un substitut au Wi-Fi du resort ; c'est la couche qui couvre les 40 % d'une journée macanaise qui arrivent entre les bâtiments, dans les bus, dans les files et au terminal ferry. Et notez l'habitude locale : certains lieux attendent encore du liquide, aussi une connexion internet qui vous permet de recharger une appli de paiement est en soi utile.
 
-## Votre eSIM Hong Kong ou Chine continentale fonctionne-t-il à Macao ?
+## Votre eSIM Hong Kong (Chine) ou de Chine continentale fonctionne-t-il à Macao ?
 
 C'est la question que la plupart des visiteurs Macao se posent mal, car la géographie dit « même voyage » tandis que la carte télécom dit « marché différent ».
 
-**Les forfaits Hong Kong n'incluent pas automatiquement Macao.** Les deux territoires font tourner des réseaux et régulateurs entièrement séparés, et un eSIM Hong Kong uniquement affichera typiquement « aucun service » — ou commencera à facturer une itinérance internationale chère — dès que votre ferry quitte le port ou votre bus traverse le pont Hong Kong–Zhuhai–Macao. Certains opérateurs Hong Kong vendent des forfaits qui regroupent explicitement l'itinérance Macao ; si le vôre ne nomme pas Macao dans la liste de destinations, assumez qu'il n'est pas inclus. Notre [guide eSIM Hong Kong](/carriers/hong-kong-esim-carrier-guide/) couvre comment lire le petit imprimé côté HK.
+**Les forfaits Hong Kong (Chine) n'incluent pas automatiquement Macao.** Les deux régions administratives spéciales font tourner des réseaux et régulateurs entièrement séparés, et un eSIM Hong Kong uniquement affichera typiquement « aucun service » — ou commencera à facturer une itinérance (roaming) internationale chère — dès que votre ferry quitte le port ou votre bus traverse le pont Hong Kong–Zhuhai–Macao. Certains opérateurs Hong Kong vendent des forfaits qui regroupent explicitement l'itinérance Macao ; si le vôre ne nomme pas Macao dans la liste de destinations, assumez qu'il n'est pas inclus. Notre [guide eSIM Hong Kong](/carriers/hong-kong-esim-carrier-guide/) couvre comment lire le petit imprimé côté HK.
 
-**Les forfaits Chine continentale sont leur propre piège.** Les cartes SIM chinoises errent sur les réseaux Macao seulement avec un module d'itinérance Hong Kong/Macao/Taiwan activé à l'avance — et une fois connectées, elles routent le trafic via le continent, pare-feu inclus. Votre Wi-Fi d'hôtel à Macao vous donne un internet ouvert ; votre carte SIM continentale souvent non. Si votre voyage continue vers le nord à travers la frontière Gongbei vers Zhuhai, planifiez cette étape séparément avec notre [guide eSIM Chine](/carriers/china-esim-carrier-guide/).
+**Les forfaits de la Chine continentale sont leur propre piège.** Les cartes SIM chinoises errent sur les réseaux de Macao seulement avec un module d'itinérance couvrant Hong Kong (Chine), Macao (Chine) et Taïwan (Chine) activé à l'avance — et une fois connectées, elles routent le trafic via le continent, pare-feu inclus. Votre Wi-Fi d'hôtel à Macao vous donne un internet ouvert ; votre carte SIM continentale souvent non. Si votre voyage continue vers le nord à travers la frontière Gongbei vers Zhuhai, planifiez cette étape séparément avec notre [guide eSIM Chine](/carriers/china-esim-carrier-guide/).
 
-**Les solutions propres.** Pour le double classique Hong Kong-plus-Macao, achetez un forfait qui nomme les deux territoires, ou portez un eSIM Macao dédié à côté de votre profil Hong Kong — les téléphones double-SIM gèrent cela sans cérémonie. Pour les itinéraires continent-plus-Macao, cherchez des forfaits qui listent explicitement les trois destinations, car « Grande Chine » sur une page produit ne veut pas toujours dire la même chose sur la liste de couverture.
+**Les solutions propres.** Pour le double classique Hong Kong-plus-Macao, achetez un forfait qui nomme les deux territoires, ou portez un eSIM Macao dédié à côté de votre profil Hong Kong — les téléphones double-SIM gèrent cela sans cérémonie. Pour les itinéraires continent-plus-Macao, cherchez des forfaits qui listent explicitement les trois destinations, car « Grande Chine » sur une page produit ne veut pas toujours dire la même chose sur la liste de couverture. Et si la région s'ouvre davantage sur votre itinéraire, notre [guide eSIM Taïwan (Chine)](/carriers/taiwan-esim-carrier-guide/) prend le relais plus à l'est.
 
 ### Quels tarifs d'itinérance à Macao ?
 
@@ -157,7 +159,7 @@ Macao a trois principales entrées, et chacune fait quelque chose de différent 
 |:---|:---|:---|
 | Navette du pont Hong Kong–Zhuhai–Macao (« Golden Bus ») | 65 HKD le jour, 70 HKD entre minuit et 06 h 00 ; service 24 h, environ 40 minutes du Port Hong Kong au Port Macao, avec bus 101X et 102X vers la ville | Un forfait Hong Kong uniquement tombe au Port Macao ; un profil Macao s'attache dans la file |
 | Ferry TurboJET ou Cotai Water Jet | Environ 55–75 minutes ; Port Exterieur pour la Péninsule, terminal ferry de Taipa pour la bande Cotai | Une bonne partie de la traversée est hors couverture, aussi « aucun service » en plein port est normal — basculez le mode avion une fois passé l'immigration |
-| Porte Frontière (Portas do Cerco) depuis Zhuhai | L'itinéraire classique à pied depuis Gongbei ; les files sont la variable | Une carte SIM continentale a besoin d'un module d'itinérance HK/Macao/Taiwan activé avant de traverser, et routе votre trafic via le continent |
+| Porte Frontière (Portas do Cerco) depuis Zhuhai | L'itinéraire classique à pied depuis Gongbei ; les files sont la variable | Une carte SIM continentale a besoin d'un module d'itinérance couvrant Hong Kong, Macao et Taïwan (régions de la Chine) activé avant de traverser, et route votre trafic via le continent |
 | Aéroport international de Macao (MFM) | Comptoirs et magasins du hall d'arrivée | Des cartes prépayées sont disponibles mais tarifées au-dessus de la ville ; installez votre eSIM sur le Wi-Fi de départ plutôt |
 
 Le pont complet de 55 km — 12 km de route de liaison Hong Kong, un pont principal de 29.6 km et 13.4 km de route de liaison Zhuhai — roule 24 h sur 24, et sa tête de pont est serrée à cinq minutes aux heures de pointe. Le [site officiel HZMB](https://www.hzmb.gov.hk/en/) liste les routes de bus locales qui alimentent le Port Hong Kong. Sur l'eau, les deux opérateurs vendent en ligne à l'avance : [TurboJET](https://www.turbojet.com.hk/en/) et [Cotai Water Jet](https://www.cotaiwaterjet.com/) font tous deux la traversée Hong Kong–Macao, et choisir Taipa plutôt que le Port Exterieur est la seule décision qui économise le plus de temps si vous logez côté Cotai.
@@ -166,7 +168,7 @@ Le pont complet de 55 km — 12 km de route de liaison Hong Kong, un pont princi
 
 Trois voies, classées pour un court séjour :
 
-**1. Un eSIM voyage, acheté avant le voyage.** Livraison QR instantanée, pas d'enregistrement, et — la partie sous-estimée — installé alors que vous avez encore du Wi-Fi, aussi vous êtes connecté dès que vous descendez du ferry ou passez la frontière. Les [forfaits eSIM Macao](/macau-esim/) de Roami s'attachent aux réseaux leaders du territoire, ce qui sur ce marché signifie la même couverture de calibre CTM que les résidents utilisent.
+**1. Un eSIM voyage, acheté avant le voyage.** Livraison QR instantanée, pas d'enregistrement, et — la partie sous-estimée — installé alors que vous avez encore du Wi-Fi, aussi vous êtes connecté dès que vous descendez du ferry ou passez la frontière. Les [eSIM Macao de Roami](/macau-esim/) s'attachent aux réseaux leaders du territoire, ce qui sur ce marché signifie la même couverture de calibre CTM que les résidents utilisent.
 
 **2. Prépayé CTM, acheté sur place.** CTM vend des cartes SIM prépayées touristes de 3 à 30 jours de validité depuis ses magasins et l'aéroport, et ses comptoirs sont habitués à servir les visiteurs en cantonais, mandarin, anglais et portugais. Apportez votre passeport pour l'enregistrement. C'est la bonne voie si vous voulez un numéro Macao pour réservations ou applis de livraison lors d'un séjour plus long.
 
@@ -176,7 +178,7 @@ Trois voies, classées pour un court séjour :
 
 ### Quels forfaits les moins chers à Macao ?
 
-Macao tarife son marché prépayé en patacas, et les cartes touristes sont étagées par validité plutôt que par qualité de réseau. Les bandes ci-dessous reflètent la forme du marché plutôt qu'une liste de prix en direct — les opérateurs lancent des promotions constamment, aussi traitez-les comme un guide budgétaire et confirmez au comptoir.
+Macao tarife son marché de données prépayées en patacas, et les cartes touristes sont étagées par validité plutôt que par qualité de réseau. Les bandes ci-dessous reflètent la forme du marché plutôt qu'une liste de prix en direct — les opérateurs lancent des promotions constamment, aussi traitez-les comme un guide budgétaire et confirmez au comptoir.
 
 | Ce que vous achetez | Bande de prix indicative (MOP) |
 |:---|:---|
@@ -245,7 +247,7 @@ La congestion à Macao est locale et prévisible, aussi un peu de planification 
 
 ## Votre téléphone fonctionnera-t-il sur un eSIM Macao ?
 
-La liste des bandes est courte et amicale. La 5G de Macao roule principalement sur **n78 (3.5 GHz)** avec un peu de n1 et n41 ; le 4G LTE utilise les bandes 1, 3, 7 et 8. Chaque iPhone, Samsung, Pixel et Xiaomi récent compatible eSIM supporte tous, aussi les seuls modes d'échec sont les universels : un téléphone verrouillé opérateur, ou un appareil eSIM désactivé comme les iPhone vendus en Chine continentale. Les deux sont des vérifications d'une minute — état de verrouillage dans Réglages → Général → À propos → Verrou opérateur, capacité eSIM via un EID affiché quand vous composez `*#06#` — et l'image complète modèle par modèle est dans la [liste de compatibilité des appareils](/compatibility/). Les eSIM voyage data uniquement ne viennent pas avec un numéro Macao, aussi gardez votre ligne nationale active pour les codes SMS de vérification.
+La liste des bandes est courte et amicale. La 5G de Macao roule principalement sur **n78 (3.5 GHz)** avec un peu de n1 et n41 ; le 4G LTE utilise les bandes 1, 3, 7 et 8. Chaque iPhone, Samsung, Pixel et Xiaomi récent compatible eSIM supporte tous, aussi les seuls modes d'échec sont les universels : un téléphone verrouillé opérateur, ou un appareil eSIM désactivé comme les iPhone vendus en Chine continentale. Les deux sont des vérifications d'une minute — état de verrouillage dans Réglages → Général → À propos → Verrou opérateur, capacité eSIM via un EID affiché quand vous composez `*#06#` — et l'image complète modèle par modèle est dans la [liste de compatibilité des appareils](/compatibility/). Les eSIM voyage data uniquement ne viennent pas avec un numéro Macao, aussi gardez votre ligne nationale active pour les codes SMS de vérification. Et si vous comptez travailler depuis un ordinateur, le partage de connexion fonctionne depuis le profil — vérifiez simplement que votre forfait ne le plafonne pas avant de bâtir votre journée de travail dessus.
 
 ### Quelles valeurs APN pour CTM, China Telecom et 3 Macau ?
 
@@ -322,7 +324,7 @@ Seulement si votre forfait spécifique liste Macao comme destination couverte �
 
 ### Les cartes SIM et eSIM Chine continentale fonctionnent-elles à Macao ?
 
-Elles errent, mais seulement après avoir activé l'option d'itinérance Hong Kong/Macao/Taiwan à l'avance — et le trafic d'itinérance route via le continent, internet filtré inclus. C'est l'opposé de ce que la plupart des visiteurs veulent à Macao, où l'internet ouvert fait partie de l'attrait. Utilisez un eSIM Macao dédié et gardez le forfait continental pour l'étape continentale.
+Elles errent, mais seulement après avoir activé à l'avance l'option d'itinérance couvrant Hong Kong (Chine), Macao (Chine) et Taïwan (Chine) — et le trafic d'itinérance route via le continent, internet filtré inclus. C'est l'opposé de ce que la plupart des visiteurs veulent à Macao, où l'internet ouvert fait partie de l'attrait. Utilisez un eSIM Macao dédié et gardez le forfait continental pour l'étape continentale.
 
 ### Quelle est la meilleure eSIM selon votre voyage ?
 
@@ -352,6 +354,14 @@ Pour les séjours de moins d'une semaine, un eSIM voyage — instantané, sans e
 
 Parce que vous avez traversé dans un marché différent, et votre profil Hong Kong n'a aucun accord de couverture Macao derrière lui. Passez votre ligne de données sur un profil incluant Macao, ou ajoutez-en un sur place — l'installation prend quelques minutes sur n'importe quel Wi-Fi, y compris le réseau de resort où vous êtes probablement debout.
 
+### Puis-je recevoir mes SMS de vérification bancaire à Macao ?
+
+Pas sur l'eSIM Macao elle-même : les profils voyage sont data uniquement et n'attribuent pas de numéro local. La configuration qui marche est double-SIM — la carte SIM physique de votre pays pour les appels et les codes à usage unique, le profil Macao pour les données, avec l'itinérance coupée sur la ligne d'origine pour éviter tout trafic facturé. Les banques et applis de réservation fonctionnent ensuite normalement, puisque Macao a un internet ouvert.
+
+### Que faire si j'arrive à Macao sans rien d'installé ?
+
+Trois recours, du meilleur au pire : le Wi-Fi du resort ou du terminal pour commander un profil eSIM en ligne (quelques minutes) ; les comptoirs de l'aéroport, qui vendent des cartes prépayées mais au-dessus des prix en ville ; ou les magasins de convenance, avec un choix plus étroit et l'enregistrement passeport quand même. Ce qu'il ne faut pas faire : compter sur le Wi-Fi invité du resort pour la journée — il s'arrête à la ligne de propriété, et c'est exactement entre les bâtiments que vous aurez besoin de données.
+
 ## Sources et mises en garde
 
 - **Rapport Macao d'Ookla, H1 2024** — [l'étude de connectivité](https://www.ookla.com/research/reports/macau-speedtest-connectivity-report-h12024) porte chaque chiffre au niveau opérateur ici : les 176.04 Mbps de téléchargement médian de CTM, Score de vitesse 194.92, latence 26 ms et scores de jeu, les 89.3 % de régularité 5G de China Telecom, et la constatation d'aucune différence statistique de vitesse 5G.
@@ -371,7 +381,7 @@ Chaque nombre ci-dessus appartient à un tiers nommé plutôt qu'à nos propres 
 
 ## Connectez à Macao dès que vous traversez
 
-Que vous arriviez en ferry depuis Hong Kong, à pied par la porte frontière Zhuhai ou directement d'un vol, un profil Macao s'attache aux réseaux leaders du territoire avant que vous n'atteigniez la rangée des taxis. Un [profil d'essai](/free-esim/) couvre le test, ou sautez directement aux [forfaits data Macao](/macau-esim/).
+Que vous arriviez en ferry depuis Hong Kong, à pied par la porte frontière Zhuhai ou directement d'un vol, un profil eSIM Macao s'attache aux réseaux leaders du territoire avant que vous n'atteigniez la rangée des taxis. Un [profil d'essai](/free-esim/) couvre le test, ou sautez directement aux [forfaits data Macao](/macau-esim/).
 
 [Voir les forfaits eSIM Macao](/macau-esim/)
 
@@ -379,4 +389,4 @@ Que vous arriviez en ferry depuis Hong Kong, à pied par la porte frontière Zhu
 
 [Prenez l'eSIM d'essai Macao gratuit](/free-esim/)
 
-Avant votre voyage : lancez la [vérification de compatibilité eSIM](/compatibility/), saisissez l'[essai avant d'acheter](/free-esim/) de Roami pour tester la couverture là où vous logez, et gardez **WEB20** à portée — il prend 20 % de réduction sur tout forfait Roami quand vous êtes prêt à vous engager. Prêt à acheter ? L'essai gratuit s'installe en deux minutes.
+Avant votre voyage : lancez la [vérification de compatibilité eSIM](/compatibility/), saisissez l'[essai avant d'acheter](/free-esim/) de Roami pour tester la couverture là où vous logez, et gardez **web20** à portée — il prend 20 % de réduction sur tout forfait Roami quand vous êtes prêt à vous engager. Prêt à acheter ? L'essai gratuit s'installe en deux minutes.

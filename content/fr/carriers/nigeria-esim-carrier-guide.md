@@ -4,7 +4,7 @@ title: "Quel opérateur eSIM choisir pour voyager au Nigeria ?"
 
 description: "Roami compare MTN, Airtel, Glo et T2 pour une eSIM Nigeria : vitesse, couverture, prix prépayés et règle du NIN expliquée."
 
-image: "img/esim/carriers/nigeria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nigeria-esim-carrier-guide.webp"
 
 date: "2026-09-24T17:17:28+00:00"
 
@@ -508,5 +508,5 @@ Pas de NIN à remettre et pas de file de magasin à rejoindre. Le forfait Nigeri
 
 [Essai eSIM Nigeria gratuit](/free-esim/)
 
-Avant votre voyage : lancez la [vérification de compatibilité eSIM](/compatibility/), saisissez l'[eSIM d'essai sans frais](/free-esim/) de Roami pour tester la couverture là où vous séjournez, et gardez **WEB20** à portée — il retire 20 % de tout forfait Roami quand vous êtes prêt à vous engager.
+Avant votre voyage : lancez la [vérification de compatibilité eSIM](/compatibility/), saisissez l'[eSIM d'essai sans frais](/free-esim/) de Roami pour tester la couverture là où vous séjournez, et gardez **web20** à portée — il retire 20 % de tout forfait Roami quand vous êtes prêt à vous engager.
 

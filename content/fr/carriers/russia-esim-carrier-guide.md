@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM choisir pour voyager en Russie ?"
 description: "Roami compare MTS, MegaFon, Beeline et Tele2 pour une eSIM Russie : couverture, vitesse et bloc de données du premier jour."
-image: "img/esim/carriers/russia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/russia-esim-carrier-guide.webp"
 date: "2026-09-24T11:10:58+00:00"
 keywords: eSIM Russie, opérateurs eSIM Russie, eSIM voyage Russie, MTS Russie, MegaFon Russie, Beeline Russie, Tele2 Russie, Place Rouge, Musée de l'Ermitage, sans frais d'itinérance, forfaits de données flexibles, eSIM multi-jours
 site_name: Roami
@@ -16,11 +16,11 @@ hero_subtitle_main: "La comparaison 2026, bâtie sur des données de vitesse ind
 ---
 
 
-La Russie est la destination où « quel est le meilleur opérateur » est la troisième question, pas la première. Les deux premières : **vous ne pouvez plus réalistiquement acheter une carte SIM locale en tant que touriste**, et **votre eSIM sera bloquée pour les données pendant environ 24 heures après sa première inscription sur un réseau russe.** Les deux relèvent de la politique gouvernementale, pas du choix de l'opérateur, et les deux ont changé plus d'une fois depuis 2025 — c'est pourquoi la plupart des anciens guides de connectivité russe sont désormais carrément erronés. Ce guide expose les règles actuelles avec leurs dates, la réalité MTS vs MegaFon vs Beeline vs Tele2 pour les profils d'itinérance, et la liste de contrôle du jour un qui décide si vous atterrissez connecté ou bloqué.
+La Russie est la destination où « quel est le meilleur opérateur » est la troisième question, pas la première. Les deux premières : **vous ne pouvez plus réalistiquement acheter une carte SIM locale en tant que touriste**, et **votre eSIM sera bloquée pour les données pendant environ 24 heures après sa première inscription sur un réseau russe.** Les deux relèvent de la politique gouvernementale, pas du choix de l'opérateur, et les deux ont changé plus d'une fois depuis 2025 — c'est pourquoi la plupart des anciens guides de connectivité russe sont désormais carrément erronés. Ce guide eSIM Russie expose les règles actuelles avec leurs dates, la réalité MTS vs MegaFon vs Beeline vs Tele2 pour les profils d'itinérance, et la liste de contrôle du jour un qui décide si vous atterrissez connecté ou bloqué.
 
 **Réponse rapide :** La réponse en 30 secondes : le multi-jours est le choix sûr par défaut pour la couverture à travers la Russie, les réseaux locaux étant généralement moins chers dans les grandes villes. Les tableaux de vitesse et les détails de prix ci-dessous le confirment pour la Russie — et si votre téléphone n'est pas encore prêt pour l'eSIM, le [vérificateur de compatibilité](/compatibility/) tranche en une minute.
 
-Téléphone non vérifié ? Le [vérificateur de compatibilité](/compatibility/) passe avant tout — et pour la Russie, la lecture du reste de cette page aussi.
+Téléphone non vérifié ? Le [test de compatibilité eSIM](/compatibility/) passe avant tout — et pour la Russie, la lecture du reste de cette page aussi.
 
 **Verdict rapide :** Une eSIM voyage installée **avant de prendre l'avion** est la seule connectivité propre et légale pour la plupart des visiteurs en 2026 — elle s'itinère sur MTS, MegaFon, Beeline ou Tele2 et fonctionne à travers Moscou, Saint-Pétersbourg et chaque ville de taille moyenne. Attendez-vous à trois choses : un **bloc de données et SMS d'environ 24 heures à la première inscription** (les appels vocaux continuent de fonctionner ; depuis fin novembre 2025, un captcha de l'opérateur peut lever le bloc en quelques minutes) ; **un Wi-Fi d'aéroport et public qui exige un numéro de téléphone russe** que vous n'avez pas ; et, depuis juillet 2026, **un filtrage des applications qui suit votre position physique** — WhatsApp, Instagram et YouTube restent bloqués même sur un profil d'itinérance, donc installez des alternatives à la maison. Achetez la eSIM avant d'embarquer : les paiements Visa, Mastercard et Amex ne passent pas à l'intérieur de la Russie.
 
@@ -75,7 +75,7 @@ Trois conséquences pratiques valant la peine d'être anticipées :
 
 Jusqu'au milieu de 2026, le trafic d'une eSIM d'itinérance sortait à l'étranger et glissait sous le filtrage russe. Depuis le **10 juillet 2026**, le filtrage suit votre position physique — WhatsApp, Instagram et YouTube restent bloqués même sur un profil d'itinérance. Tout guide promettant encore « votre trafic sort à l'étranger, donc les blocs ne s'appliquent pas » a été écrit avant cette date. Ce qui fonctionne encore : Telegram (limité), les applications russes, et la plupart du web ouvert. Si WhatsApp est votre canal de messagerie principal, configurez une alternative avant le départ.
 
-### Comment installer une eSIM Russie ?
+### Quelles applications installer avant de partir en Russie ?
 
 | Application | Pourquoi | Statut à l'intérieur de la Russie |
 |:---|:---|:---|
@@ -105,7 +105,7 @@ Dans la plupart des pays, cette section déciderait votre achat. En Russie, elle
 2. **Les quatre couvrent bien le circuit touristique.** Moscou, Saint-Pétersbourg, l'Anneau d'Or, Kazan, Iekaterinbourg et les villes Transsibériennes sont couverts par tous en pratique.
 3. **Changer de réseau peut réarmer le bloc de 24 heures.** La stabilité bat l'optimisation : une fois votre profil attaché et le captcha levé, laissez-le tranquille.
 
-Ce que cela signifie en pratique : un profil [eSIM Russie](/russia-esim/) multiréseau pouvant s'attacher à plus d'un des quatre est le choix résilient — et rappelez-vous que changer d'opérateur peut redéclencher le bloc d'arrivée, donc la stabilité bat l'optimisation une fois connecté. Le 5G n'est effectivement pas un facteur : le déploiement public du 5G est bloqué depuis des années par des litiges sur le spectre, et le 4G/LTE est la couche de travail partout.
+Ce que cela signifie en pratique : un profil [eSIM Russie](/russia-esim/) multiréseau pouvant s'attacher à plus d'un des quatre est le choix résilient — et rappelez-vous qu'un changement de réseau peut redéclencher le bloc d'arrivée une fois connecté. Le 5G n'est effectivement pas un facteur : le déploiement public du 5G est bloqué depuis des années par des litiges sur le spectre, et le 4G/LTE est la couche de travail partout.
 
 Couverture par itinéraire :
 
@@ -119,6 +119,8 @@ Couverture par itinéraire :
 | Route Transsibérienne | Couverture au niveau des villes le long de la ligne ; longs tronçons silencieux | Traitez la connectivité comme un service station par station |
 | Lac Baïkal, l'Altaï, l'Extrême-Orient | La couverture suit les agglomérations uniquement | Enormes trous ; messagerie satellite pour les étapes isolées |
 | Mourmansk et le nord arctique | Couverture urbaine ; rien entre les agglomérations | Prévoyez de longs tronçons hors ligne |
+
+Un point que ce tableau dit en passant et qui mérite d'être souligné : même Moscou a connu environ trois semaines de perturbation des données mobiles en février–mars 2026 — le bloc de refroidissement n'est pas la seule façon de perdre le réseau mobile, donc les cartes hors ligne font partie de la trousse de tout voyageur, pas seulement du Transsibérien.
 
 Pour le contexte du marché : [l'étude de prix mondiale de Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) tarife encore les données locales russes à environ **0,25 USD le Go** — parmi les moins chères du monde — un chiffre qui décrit la réalité des résidents, pas les options d'un touriste. L'[indice mondial Speedtest d'Ookla](https://www.speedtest.net/global-index) ne publie pas de classement national en direct pour la Russie, ce qui fait partie du tableau de mesure ; les [rapports de marché d'Opensignal](https://www.opensignal.com/reports) restent la meilleure lecture indépendante de l'expérience réseau. Les [données Digital 2025 de DataReportal](https://datareportal.com/reports/digital-2025-russia) comptent plus de 100 millions d'internautes sur un marché sophistiqué en interne et scellé à l'extérieur.
 
@@ -199,7 +201,7 @@ Réglages → Cellular → [la ligne russe] → Réseau de données cellulaires 
 
 ## Comment installer votre eSIM Russie, étape par étape ?
 
-Installez et testez le profil avant d'embarquer — scan QR, libellé de ligne, ligne de données, itinérance activée. La séquence générique est dans notre [guide de mode d'activation](/faq/how-to-activate-an-esim/), et avoir le profil déjà actif à l'atterrissage économise une première heure embarrassante.
+Installez et testez le profil avant d'embarquer — l'activation eSIM elle-même se fait sur le Wi-Fi domestique : scan QR, libellé de ligne, ligne de données, itinérance activée. La séquence générique est dans notre [guide de mode d'activation](/faq/how-to-activate-an-esim/), et avoir le profil déjà actif à l'atterrissage économise une première heure embarrassante.
 
 ### Quelle liste de contrôle avant l'embarquement pour la Russie ?
 
@@ -279,11 +281,11 @@ Lus ensemble, la liste explique tout le guide : quatre de ces seuils ne s'appliq
 
 ### Où acheter une eSIM Russie ?
 
-Pratiquement non. Depuis janvier 2025, acheter une carte SIM locale exige un numéro SNILS, un compte Gosuslugi vérifié, un enregistrement biométrique et un couplage IMEI — un processus construit pour les résidents. L'application depuis juillet 2025 a désactivé les cartes SIM étrangères non conformes. La eSIM voyage achetée avant de prendre l'avion est l'alternative fonctionnelle.
+Pas sur place, en tout cas. Depuis janvier 2025, acheter une carte SIM locale exige un numéro SNILS, un compte Gosuslugi vérifié, un enregistrement biométrique et un couplage IMEI — un processus construit pour les résidents. L'application depuis juillet 2025 a désactivé les cartes SIM étrangères non conformes. La eSIM voyage achetée avant de prendre l'avion est l'alternative fonctionnelle.
 
 ### Combien de Go avez-vous besoin en Russie ?
 
-Politique gouvernementale, en vigueur depuis début octobre 2025 : chaque carte SIM et eSIM étrangère est bloquée pour les données et SMS pendant environ 24 heures après sa première inscription sur un réseau russe, officiellement comme mesure anti-drone. Les appels vocaux continuent de fonctionner, et depuis novembre 2025 la page captcha de l'opérateur peut lever le bloc en quelques minutes — cherchez le SMS de vérification dès votre atterrissage.
+10–20 Go est une fourchette raisonnable pour les cartes, la messagerie et les envois de photos, d'autant que le jour un est hors ligne et que le Wi-Fi d'hôtel est peu fiable pour les étrangers. Les données prépayées locales sont bon marché, mais vous achetez aux prix de la eSIM voyage, pas aux prix locaux — dimensionnez le forfait data pour tout le séjour dès le départ.
 
 ### Une eSIM voyage contourne-t-elle les blocs d'applications russes ?
 
@@ -323,13 +325,13 @@ Les services VPN populaires sont largement bloqués ou dégradés à l'intérieu
 
 ### Comment fonctionnent les forfaits de données russes ?
 
-Les forfaits eSIM voyage standard sont data uniquement, c'est pourquoi les appels vocaux sont décrits séparément dans tout ce guide : votre carte SIM du domicile dans le logement physique gère les appels et la vérification SMS si votre opérateur prend en charge l'itinérance là-bas. Vérifiez les conditions Russie de votre opérateur domestic avant de prendre l'avion — certains ont suspendu l'itinérance là-bas entièrement.
+Les forfaits eSIM voyage standard sont data uniquement, c'est pourquoi les appels vocaux sont décrits séparément dans tout ce guide : votre carte SIM du domicile dans le logement physique gère les appels et la vérification SMS si votre opérateur prend en charge l'itinérance là-bas. Vérifiez les conditions Russie de votre opérateur national avant de prendre l'avion — certains ont suspendu l'itinérance là-bas entièrement.
 
-### Quelle taille de pack de données pour la Russie ?
+### Que se passe-t-il à la première inscription sur un réseau russe ?
 
-10–20 Go est une fourchette raisonnable pour les cartes, la messagerie et les envois de photos, d'autant que le jour un est hors ligne et que le Wi-Fi d'hôtel est peu fiable pour les étrangers. Les données locales sont bon marché, mais vous achetez aux prix de la eSIM voyage, pas aux prix locaux.
+Politique gouvernementale, en vigueur depuis début octobre 2025 : chaque carte SIM et eSIM étrangère est bloquée pour les données et SMS pendant environ 24 heures après sa première inscription, officiellement comme mesure anti-drone. Les appels vocaux continuent de fonctionner, et depuis novembre 2025 la page captcha de l'opérateur peut lever le bloc en quelques minutes — cherchez le SMS de vérification dès votre atterrissage.
 
-### Quelle eSIM Russie selon votre type de voyage ?
+### Ces règles seront-elles encore valables à mon départ ?
 
 Ils le feront probablement — cette page énonce les règles à la date de sa dernière mise à jour. Revérifiez le régime de bloc et de filtrage dans les quelques semaines précédant le départ, et traitez tout guide qui ne date pas ses affirmations comme peu fiable sur ce sujet.
 
@@ -341,11 +343,21 @@ Si votre téléphone n'a pas de matériel eSIM, une carte SIM physique de voyage
 
 Planifiez autour du bloc plutôt que contre lui : l'adresse de votre hôtel en capture d'écran, une carte qui fonctionne localement pour le taxi, et aucune attente de données jusqu'à ce que vous atteigniez le Wi-Fi et puissiez compléter le captcha. Les atterrissages tardifs sont le pire cas pour une politique qui suppose la connectivité.
 
+### Puis-je garder mon numéro étranger pour les SMS bancaires en Russie ?
+
+C'est possible, mais à condition de le vérifier avant de partir. Votre carte SIM du domicile peut continuer à recevoir les SMS de vérification en itinérance, et les appels vocaux passent même pendant le bloc de 24 heures — mais certains opérateurs nationaux ont suspendu l'itinérance vers la Russie entièrement. Demandez à votre opérateur si le roaming y fonctionne, activez-le sans activer les données, et gardez un moyen de paiement alternatif si le SMS bancaire n'arrive pas.
+
+### Le partage de connexion fonctionne-t-il avec une eSIM Russie ?
+
+Oui — une eSIM voyage se comporte comme n'importe quelle ligne de données pour l'ordinateur en hotspot, sous les mêmes limites que partout ailleurs : pendant le bloc des premières 24 heures il n'y a pas de données à partager, et après le captcha le débit est celui du réseau mobile russe hôte. Dimensionnez le forfait data en conséquence si vous comptez travailler depuis l'hôtel.
+
 Plus de questions ? [Parcourez la FAQ complète](/faq/)
 
 ## Comment gérer l'itinérance et les frontières depuis la Russie ?
 
 Les itinéraires terrestres changent le paysage de connectivité à chaque frontière. Le même traitement au niveau opérateur existe pour notre [guide opérateur Kazakhstan](/carriers/kazakhstan-esim-carrier-guide/) et la [page eSIM Chine](/china-esim/) — les deux continuations terrestres les plus courantes — et notez qu'un profil qui fonctionne en Russie ne fonctionne pas automatiquement dans l'un ou l'autre : la Chine en particulier applique son propre régime de filtrage, donc planifiez chaque traversée frontalière comme un problème de connectivité distinct. Rentrer en Russie relance le processus d'arrivée, ce qui vaut la peine d'être calé délibérément plutôt que découvert à un poste de contrôle.
+
+D'autres sorties terrestres ont leur propre guide : l'[analyse des opérateurs mobiles en Biélorussie](/carriers/belarus-esim-carrier-guide/) pour la frontière occidentale, le [comparatif des réseaux lettons](/carriers/latvia-esim-carrier-guide/) côté Union européenne, et l'[examen des opérateurs turcs](/carriers/turkey-esim-carrier-guide/) si votre vol de correspondance passe par Istanbul.
 
 ## Nos sources pour ce guide eSIM Russie
 
@@ -363,6 +375,6 @@ Les règles russes vont vite. Confirmez l'état du bloc et du régime de filtrag
 
 Le profil doit être installé et testé à la maison, donc la seule tâche à l'arrivée est de surveiller votre boîte de réception pour le SMS de vérification de l'opérateur et de compléter le captcha — avec les cartes hors ligne et une alternative de messagerie déjà chargées. Essayez le flux d'installation avec une [eSIM d'essai à coût zéro](/free-esim/), puis choisissez un forfait sur la [page eSIM Russie](/russia-esim/). Vous continuez par voie terrestre ? Nos [forfaits eSIM Kazakhstan](/kazakhstan-esim/) couvrent la frontière suivante la plus courante.
 
-[Comparer les forfaits eSIM Russie](/russia-esim/) · [Réclamer l'essai gratuit](/free-esim/) · [Page eSIM Russie](/russia-esim/)
+[Comparer les forfaits eSIM Russie](/russia-esim/) · [Réclamer l'essai gratuit](/free-esim/) · [Voir les packs Russie](/russia-esim/)
 
-Dans tous les cas, configurez-la avant le départ : lancez le [vérificateur de compatibilité](/compatibility/) sur votre téléphone, essayez la [eSIM d'essai gratuite](/free-esim/) de Roami, et appliquez **WEB20** au paiement quand vous passez à un forfait Roami complet pour la Russie.
+Dans tous les cas, configurez-la avant le départ : lancez le [contrôle de compatibilité](/compatibility/) sur votre téléphone, essayez la [eSIM d'essai gratuite](/free-esim/) de Roami, et appliquez **web20** au paiement quand vous passez à un forfait Roami complet pour la Russie.

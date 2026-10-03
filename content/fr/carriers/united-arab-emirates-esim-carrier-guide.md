@@ -4,11 +4,11 @@ title: "Quel opérateur eSIM prendre aux Émirats arabes unis ?"
 
 description: "Roami compare les eSIM touristiques de du et e& aux Émirats arabes unis : données gratuites à l'arrivée, vitesse et prix."
 
-image: "img/esim/carriers/united-arab-emirates-esim-guide.jpg"
+image: "img/esim/carriers/united-arab-emirates-esim-guide.webp"
 
 date: "2026-09-23T12:52:14+00:00"
 
-keywords: United Arab Emirates eSIM, UAE eSIM carriers, du eSIM, Etisalat eSIM, travel eSIM UAE, no roaming fees UAE, Dubai eSIM, Abu Dhabi eSIM, prepaid eSIM UAE, eSIM for tourists UAE
+keywords: eSIM Émirats arabes unis, opérateurs eSIM Émirats arabes unis, eSIM du, eSIM Etisalat, eSIM voyage Émirats, eSIM Dubaï, eSIM Abou Dabi, eSIM prépayée Émirats, eSIM touriste Émirats, sans frais d'itinérance Émirats
 
 site_name: Roami
 
@@ -39,7 +39,7 @@ Une eSIM pour les Émirats arabes unis est le rare achat de voyage où la questi
 
 
 
-La vraie question ici n'est donc pas de savoir quel réseau est le plus rapide — les deux le sont. C'est de savoir quel produit, chez quel vendeur régulé, à quel moment de votre voyage. Les Émirats vendent la connectivité comme ils vendent tout le reste : comme un menu de produits soignés avec des paliers clairs, un régulateur (la Telecommunications and Digital Government Regulatory Authority, TDRA) derrière chaque chiffre, et deux marques nationales — du et e& (anciennement Etisalat) — qui se concurrencent sur les forfaits plutôt que sur la qualité de l'infrastructure.
+La vraie question ici n'est donc pas de savoir quel réseau est le plus rapide — les deux le sont. C'est de savoir quel produit, chez quel vendeur régulé, à quel moment de votre voyage. Les Émirats vendent la connectivité comme ils vendent tout le reste : comme un menu de produits soignés avec des paliers clairs, un régulateur (la Telecommunications and Digital Government Regulatory Authority, TDRA) derrière chaque chiffre, et deux marques nationales — du et e& (anciennement Etisalat) — qui se concurrencent sur les forfaits et cartes SIM prépayées plutôt que sur la qualité de l'infrastructure.
 
 
 
@@ -197,7 +197,7 @@ Mettons les deux menus officiels côte à côte : les différences se réduisent
 
 
 
-Trois choses méritent d'être dites clairement. e& publie ses prix hors TVA tandis que du les cite généralement TTC, donc une comparaison à périmètre égal ajoute environ un vingtième à chaque chiffre d'e&. Les allowances d'appels d'e& grimpent bien plus haut à mesure que vous payez plus, ce qui compte si vous prévoyez de passer de vrais appels téléphoniques plutôt que des appels par appli. Et au palier d'entrée, les deux sont à un dirham l'un de l'autre une fois la taxe normalisée — la décision se résume donc généralement à l'historique de réseau qui convient à votre itinéraire, pas au menu le moins cher. À volume égal, en revanche, l'écart est net : le 10 Go d'e& (AED 98.99, soit environ 9,90 AED le gigaoctet) coûte bien moins cher au gigaoctet que le 10 Go de du (AED 139, soit 13,90 AED).
+Trois choses méritent d'être dites clairement. e& publie ses prix hors TVA tandis que du les cite généralement TTC, donc une comparaison à périmètre égal ajoute environ un vingtième à chaque chiffre d'e&. Les enveloppes d'appels d'e& grimpent bien plus haut à mesure que vous payez plus, ce qui compte si vous prévoyez de passer de vrais appels téléphoniques plutôt que des appels par appli. Et au palier d'entrée, les deux sont à un dirham l'un de l'autre une fois la taxe normalisée — la décision se résume donc généralement à l'historique de réseau qui convient à votre itinéraire, pas au menu le moins cher. À volume égal, en revanche, l'écart est net : le 10 Go d'e& (AED 98.99, soit environ 9,90 AED le gigaoctet) coûte bien moins cher au gigaoctet que le 10 Go de du (AED 139, soit 13,90 AED).
 
 
 
@@ -255,7 +255,7 @@ Les Émirats sont atypiques par la qualité de leur option aéroport — donnée
 
 
 
-Les deux opérateurs remettent 10 Go valables 24 heures, et c'est réellement utile : de quoi réserver une course, écrire à votre hôtel et charger une carte. Ce que ce n'est pas, c'est un forfait. Quand la journée se termine, la ligne ne se renouvelle pas toute seule — un forfait payant doit être acheté via l'appli, un comptoir ou une boutique. Les voyageurs qui supposent que les données gratuites se prolongent d'elles-mêmes sont la source de confusion la plus fréquente en connectivité aux Émirats, alors traitez l'eSIM d'arrivée comme un pont vers votre vrai forfait plutôt que comme le forfait lui-même.
+Les deux opérateurs remettent 10 Go valables 24 heures, et c'est réellement utile : de quoi réserver une course, écrire à votre hôtel et charger une carte. Ce que ce n'est pas, c'est un forfait data. Quand la journée se termine, la ligne ne se renouvelle pas toute seule — un forfait payant doit être acheté via l'appli, un comptoir ou une boutique. Les voyageurs qui supposent que les données gratuites se prolongent d'elles-mêmes sont la source de confusion la plus fréquente en connectivité aux Émirats, alors traitez l'eSIM d'arrivée comme un pont vers votre vrai forfait plutôt que comme le forfait lui-même.
 
 
 
@@ -263,11 +263,11 @@ Les flexi minutes — incluses dans les forfaits touristiques des deux opérateu
 
 
 
-💡 Si vous franchissez la frontière par la route vers l'[Arabie saoudite](/saudi-arabia-esim/) ou [Oman](/oman-esim/), notez qu'un forfait touristique émirati s'éteint à la frontière.
+💡 Si vous franchissez la frontière par la route vers l'[Arabie saoudite](/saudi-arabia-esim/) ou [Oman](/oman-esim/), notez qu'un forfait touristique émirati s'éteint à la frontière. Notre [comparaison des réseaux saoudiens](/carriers/saudi-arabia-esim-carrier-guide/) et le [détail des opérateurs omanais](/carriers/oman-esim-carrier-guide/) couvrent le côté frontière de chaque passage.
 
 
 
-Plutôt vers le nord ? La [page eSIM Koweït](/kuwait-esim/) et notre [guide eSIM Bahreïn](/carriers/bahrain-esim-carrier-guide/) couvrent ces passages, et une eSIM de voyage régionale gère mieux un passage terrestre qu'un forfait par pays.
+Plutôt vers le nord ? La [page eSIM Koweït](/kuwait-esim/) et notre [guide eSIM Bahreïn](/carriers/bahrain-esim-carrier-guide/) couvrent ces passages, une eSIM de voyage régionale gère mieux un passage terrestre qu'un forfait par pays, et le [guide des opérateurs égyptiens](/carriers/egypt-esim-carrier-guide/) prend le relais pour une escale au Caire.
 
 
 
@@ -401,7 +401,7 @@ Avec 21.9 millions de connexions mobiles pour une population d'environ 11 millio
 
 
 
-Le schéma est que « la couverture aux Émirats » est en réalité une histoire de Dubaï et Abou Dabi avec un fort anneau secondaire autour de Charjah, Ajman et Ras el Khaïmah, et un bord réellement reculé à Liwa. Une eSIM sur l'un ou l'autre réseau gère les trois premiers ; seules les lointaines périphéries récompensent la planification, car là la question n'est pas la vitesse mais si un site vous atteint ou pas.
+Le schéma est que « la couverture aux Émirats » est en réalité une histoire de Dubaï et Abou Dabi avec un fort anneau secondaire autour de Charjah, Ajman et Ras el Khaïmah, et un bord réellement reculé à Liwa. Une eSIM sur l'un ou l'autre réseau gère les trois premiers ; seules les lointaines périphéries récompensent la planification, car là la question n'est pas la vitesse mais si un site vous atteint ou pas. Le tableau recèle aussi un confort facile à manquer : l'autoroute E11 entre Dubaï et Abou Dabi tient une 5G continue, étendues ouvertes comprises — le trajet le plus fréquent des visiteurs est couvert de bout en bout.
 
 
 
@@ -511,9 +511,9 @@ Le VTC et la livraison fonctionnent mieux quand le chauffeur ou le livreur peut 
 
 - **Gardez la ligne de données épinglée sur l'eSIM.** La plupart des signalements « pas d'internet » dans les émirats sont un téléphone qui utilise discrètement la SIM domestique à la place de la ligne eSIM.
 
-- **Laissez l'itinérance des données activée.** Les lignes locales et les profils de voyage gérés exigent souvent que le commutateur d'itinérance soit activé, même dans le pays.
+- **Laissez l'itinérance des données (roaming) activée.** Les lignes locales et les profils de voyage gérés exigent souvent que le commutateur d'itinérance soit activé, même dans le pays.
 
-- **Réglez le partage de connexion.** Si vous comptez tether un ordinateur portable, vérifiez d'abord que votre forfait l'autorise — les conditions varient entre produits opérateur et profils de voyage.
+- **Réglez le partage de connexion.** Si vous comptez partager la connexion avec un ordinateur portable, vérifiez d'abord que votre forfait l'autorise — les conditions varient entre produits opérateur et profils de voyage.
 
 
 
@@ -541,7 +541,7 @@ Comme aucun opérateur sous licence TDRA ne publie d'APN manuel pour son service
 
 
 
-L'installation elle-même est la séquence universelle — Réglages → Ajouter eSIM → scanner le code QR → nommer la ligne → la définir comme ligne de données → activer l'itinérance des données si le forfait l'exige — et notre [guide d'activation](/faq/how-to-activate-an-esim/) la détaille pas à pas, avec le [guide de dépannage d'activation](/faq/esim-activation-errors-troubleshooting-guide/) couvrant le catalogue d'erreurs général.
+L'installation elle-même est la séquence universelle — Réglages → Ajouter eSIM → scanner le code QR → nommer la ligne → la définir comme ligne de données → activer l'itinérance des données si le forfait l'exige — et notre [guide d'activation eSIM](/faq/how-to-activate-an-esim/) la détaille pas à pas, avec le [guide de dépannage d'activation](/faq/esim-activation-errors-troubleshooting-guide/) couvrant le catalogue d'erreurs général.
 
 
 
@@ -701,7 +701,7 @@ Prenez l'eSIM d'arrivée gratuite chez l'opérateur à la file la plus courte et
 
 
 
-Vérifiez en deux minutes : `*#06#` doit renvoyer un EID, et la [liste de compatibilité eSIM](/compatibility/) confirme votre modèle exact. Quant au produit lui-même, préférez un forfait touristique opérateur si vous voulez être joignable : les livreurs de repas et les chauffeurs de VTC appellent le numéro de la commande. Une eSIM de voyage data uniquement ne peut généralement recevoir ni appels ni SMS, donc vous dépendriez du seul chat dans l'appli.
+Vérifiez en deux minutes : `*#06#` doit renvoyer un EID, et la [liste de compatibilité des appareils](/compatibility/) confirme votre modèle exact. Quant au produit lui-même, préférez un forfait touristique opérateur si vous voulez être joignable : les livreurs de repas et les chauffeurs de VTC appellent le numéro de la commande. Une eSIM de voyage data uniquement ne peut généralement recevoir ni appels ni SMS, donc vous dépendriez du seul chat dans l'appli.
 
 
 
@@ -733,12 +733,24 @@ Les gammes de forfaits et les contenus promotionnels changent ; les structures d
 
 
 
+### Peut-on prolonger ou racheter un forfait touristique depuis l'appli ?
+
+
+Oui. Les forfaits touristiques des deux opérateurs sont rachetables au même prix — via l'appli, un comptoir ou une boutique — et la ligne elle-même reste valable aussi longtemps que votre visa, jusqu'à 90 jours. Pas besoin de repasser en boutique ni de refaire la vérification d'identité pour le rachat : seule la ligne visiteur migrée vers un forfait résident exige un passage en agence avec Emirates ID.
+
+
+### L'eSIM touristique tient-elle dans le métro et les centres commerciaux de Dubaï ?
+
+
+Oui — c'est justement le terrain le mieux couvert. Le tableau de couverture plus haut le montre : Downtown, la Marina, Business Bay et le métro de Dubaï tiennent une forte 5G, et la couverture en intérieur dans les tours et les centres commerciaux est excellente sur les deux réseaux. Les seuls endroits où le signal se fait rare sont les étendues reculées type Liwa, pas les lieux fréquentés des visiteurs.
+
+
 ## Que lire avant d'acheter votre eSIM Émirats ?
 
 
 
-Les Émirats récompensent les acheteurs qui lisent le menu : les deux opérateurs publient ouvertement leurs prix touristiques, les deux vous remettent 10 gigaoctets gratuits à la frontière, et les deux réseaux tournent à des vitesses que la plupart des pays ne peuvent pas démontrer en laboratoire. Associez le forfait à votre voyage — comparez les [forfaits eSIM Émirats](/united-arab-emirates-esim/) côte à côte, commandez sur [roamiapp.com](/united-arab-emirates-esim/) avec le code **WEB20** retirant 20% sur un premier achat, ou testez l'installation sur une [eSIM d'essai gratuite](/free-esim/).
+Les Émirats récompensent les acheteurs qui lisent le menu : les deux opérateurs publient ouvertement leurs prix touristiques, les deux vous remettent 10 gigaoctets gratuits à la frontière, et les deux réseaux tournent à des vitesses que la plupart des pays ne peuvent pas démontrer en laboratoire. Associez le forfait à votre voyage — comparez les [forfaits eSIM Émirats](/united-arab-emirates-esim/) côte à côte, commandez sur [roamiapp.com](/united-arab-emirates-esim/) avec le code **web20** retirant 20% sur un premier achat, ou testez l'installation sur une [eSIM d'essai gratuite](/free-esim/).
 
 
 
-Et quand vous êtes prêt à acheter : l'[eSIM d'essai gratuite](/free-esim/) de Roami est le point de départ sans risque pour les Émirats arabes unis, et **WEB20** soustrait 20% de votre premier forfait Roami payant si vous décidez de rester connecté tout le voyage.
+Et quand vous êtes prêt à acheter : l'[eSIM d'essai sans engagement](/free-esim/) de Roami est le point de départ sans risque pour les Émirats arabes unis, et **web20** soustrait 20% de votre premier forfait Roami payant si vous décidez de rester connecté tout le voyage.

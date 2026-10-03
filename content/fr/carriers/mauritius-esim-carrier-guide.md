@@ -3,7 +3,7 @@ title: "Opérateur eSIM Maurice : choisir my.t ou Emtel ?"
 
 description: "Roami compare les opérateurs eSIM Maurice my.t, Emtel et Chili sur la couverture, la vitesse et les prix pour les touristes."
 
-image: "img/esim/carriers/mauritius-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mauritius-esim-carrier-guide.webp"
 
 date: "2026-09-25T02:31:24+00:00"
 
@@ -366,7 +366,7 @@ D'autres questions ? [Explorez la FAQ](/faq/)
 
 ## Comment utiliser votre eSIM dans la région ?
 
-Le voyage classique à Maurice s'arrête rarement là. Si votre itinéraire se poursuit, les mêmes analyses au niveau opérateur existent pour notre [guide eSIM Afrique du Sud](/carriers/south-africa-esim-carrier-guide/), la [page eSIM Maldives](/maldives-esim/) et notre [guide opérateur eSIM Kenya](/carriers/kenya-esim-carrier-guide/) — et un forfait multinationaux est généralement moins cher que trois profils séparés si vous assemblez une boucle de l'océan Indien ou safari.
+Le voyage classique à Maurice s'arrête rarement là. Si votre itinéraire se poursuit, les mêmes analyses au niveau opérateur existent pour notre [analyse des réseaux sud-africains](/carriers/south-africa-esim-carrier-guide/), la [page eSIM Maldives](/maldives-esim/) et notre [guide opérateur eSIM Kenya](/carriers/kenya-esim-carrier-guide/) — et un forfait multinationaux est généralement moins cher que trois profils séparés si vous assemblez une boucle de l'océan Indien ou safari.
 
 ## Sources de ce guide eSIM Maurice
 
@@ -374,7 +374,6 @@ Le voyage classique à Maurice s'arrête rarement là. Si votre itinéraire se p
 - **Ookla Speedtest Global Index** — [la page Maurice](https://www.speedtest.net/global-index/mauritius) fournit la médiane fixe de 63 Mbps citée ci-dessus.
 - **Cable.co.uk** — [l'indice mondial de prix des données mobiles](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) est l'origine du prix résident de USD 0.67 par gigaoctet.
 - **DataReportal** — [Digital 2025 : Maurice](https://datareportal.com/reports/digital-2025-mauritius) compte les 2.14 millions de connexions mobiles derrière le chiffre de 168 %.
-- **Prepaid Data SIM Card Wiki** — [l'entrée Maurice](https://prepaid-data-sim-card.fandom.com/wiki/Mauritius) relate la règle prépayée réservée aux touristes et la couverture des îles extérieures, vérifiée sur place en février 2026.
 - **Mauritius Telecom / my.t** — [les pages de l'opérateur](https://www.myt.mu/) exposent en entier le produit SIM touristique et ses conditions.
 - **Pages opérateurs** — [my.t / Mauritius Telecom](https://www.myt.mu/) et [Emtel](https://www.emtel.com/) publient leurs packages touristiques et cartes de couverture.
 
@@ -382,8 +381,8 @@ Chaque chiffre est une mesure tierce indépendante. En haute saison, c'est la ch
 
 ## Quelle taille de forfait pour Maurice ?
 
-Commandez avant de voyager, installez sur le Wi-Fi domestique, et sortez des arrivées sur my.t ou Emtel sans faire la queue à un comptoir. Un [réclamer une eSIM test](/free-esim/) couvre les premières étapes, et les forfaits dimensionnés se trouvent sur la [page eSIM Maurice](/mauritius-esim/). Vous continuez vers le continent ? Notre [guide eSIM Afrique du Sud](/carriers/south-africa-esim-carrier-guide/) couvre le prochain réseau que vous rencontrerez.
+Commandez avant de voyager, installez sur le Wi-Fi domestique, et sortez des arrivées sur my.t ou Emtel sans faire la queue à un comptoir. Un [réclamer une eSIM test](/free-esim/) couvre les premières étapes, et les forfaits dimensionnés se trouvent sur la [page eSIM Maurice](/mauritius-esim/). Vous continuez vers le continent ? Notre [guide eSIM pour l'Afrique du Sud](/carriers/south-africa-esim-carrier-guide/) couvre le prochain réseau que vous rencontrerez.
 
 [Choisir un forfait Maurice](/mauritius-esim/) · [Réclamer l'essai gratuit](/free-esim/) · [Page eSIM Maurice](/mauritius-esim/)
 
-Une note finale de Roami : les voyageurs qui testent la couverture d'abord regrettent rarement. L'[essai multiréseau gratuit](/free-esim/) reflète la configuration locale en multijours, et le code **WEB20** retire 20 % d'un forfait Roami payant quand vous êtes prêt.
+Une note finale de Roami : les voyageurs qui testent la couverture d'abord regrettent rarement. L'[essai multiréseau gratuit](/free-esim/) reflète la configuration locale en multijours, et le code **web20** retire 20 % d'un forfait Roami payant quand vous êtes prêt.

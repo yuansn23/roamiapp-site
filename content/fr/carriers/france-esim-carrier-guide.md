@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM France choisir pour voyager ?"
 description: "Roami compare Orange, SFR, Bouygues et Free pour votre eSIM France : Orange domine en vitesse 5G, Free gagne sur le prix."
-image: "img/esim/carriers/france-esim-carrier-guide.jpg"
+image: "img/esim/carriers/france-esim-carrier-guide.webp"
 date: "2026-09-26T12:59:31+00:00"
 keywords: opérateurs eSIM France, eSIM France, Orange eSIM, SFR eSIM, Bouygues Telecom eSIM, Free Mobile eSIM, Orange Travel eSIM, couverture 5G France, eSIM France prépayée, meilleur opérateur eSIM France
 site_name: Roami
@@ -141,7 +141,7 @@ La position réseau de Free est inhabituelle : elle a enregistré la **meilleure
 
 **Là où ça se rentabilise :** indirectement, partout en France. Le lancement de Free en 2012 a fixé le plafond des prix de tout le marché, c'est pourquoi l'eSIM voyage que vous achetez pour la France coûte une fraction de l'équivalent au Canada ou aux États-Unis.
 
-## Quelle eSIM un touriste peut-il acheter en France ?
+## Quelle eSIM France un touriste peut-il acheter ?
 
 Voici la distinction qui compte plus que n'importe quel test de vitesse. Acheter directement auprès d'un opérateur français en tant que visiteur exige une identification — un passeport est accepté, et les opérateurs peuvent aussi demander une adresse en France, pour laquelle votre hôtel suffit généralement. C'est gérable en boutique, mais les parcours eSIM en ligne des opérateurs sont construits autour des moyens de paiement français et de comptes résidents. SFR, Bouygues et Free n'ont aucun produit eSIM orienté visiteurs qui justifie de traverser ce labyrinthe.
 
@@ -153,6 +153,8 @@ L'exception — et la raison pour laquelle la France est plus simple que le rest
 | Standard | 50 GB | Illimités en Europe | 30 jours | €44.99 |
 | Large | 100 GB | Illimités en Europe | 30 jours | €47.99 (remisé) |
 | Extended | 200 GB | Illimités en Europe | 30 jours | €57.99 (remisé) |
+
+Une conclusion que le tableau laisse filer sans la dire : **le palier 100 Go à €47.99 ne coûte que €3 de plus que le 50 Go à €44.99** — deux fois les données pour le prix d'un café, soit le meilleur rapport au gigaoctet de la gamme (€0.48/Go contre €0.90/Go). Si vos deux semaines incluent du partage de connexion ou de la vidéo, montez directement au 100 Go.
 
 Trois détails en font le produit touristique de référence. Il est livré avec un vrai **numéro français en +33**, donc il reçoit les codes SMS et prend les appels — rare pour une eSIM. Il inclut **les appels et SMS illimités en Europe**, ce qui couvre la plupart des itinéraires multi-pays. Et il s'installe par code QR ou via l'application avant votre départ, si bien que vous êtes en ligne à Charles-de-Gaulle avant que les files d'attente des SIM de l'aéroport aient commencé à bouger. La gamme actuelle est la suite rebaptisée du prépayé classique Orange Holiday Europe, qui est le conseil par défaut pour les arrivées à Paris depuis des années.
 
@@ -199,7 +201,7 @@ La règle d'enregistrement française est plus légère que celle de la Belgique
 | Boutique ou kiosque Free | SIM et inscription en libre-service | Interface de la machine en français ; la création de compte suppose que vous vivez en France |
 | Orange Travel en ligne | Une eSIM avec un numéro français, installée avant votre départ | Rien de tout ce qui précède — c'est la voie conçue pour les visiteurs |
 
-Le résumé pratique : si vous voulez une carte française physique, achetez dans un tabac, un supermarché ou une boutique Bouygues, et apportez votre passeport. Si vous voulez un *numéro* français, achetez Orange Travel en ligne. Si vous ne voulez ni l'un ni l'autre et avez simplement besoin de données, une eSIM voyage évite tout le tableau.
+Le résumé pratique : si vous voulez une carte française physique, achetez dans un tabac, un supermarché ou une boutique Bouygues, et apportez votre passeport. Si vous voulez un *numéro* français, achetez Orange Travel en ligne. Si vous ne voulez ni l'un ni l'autre et avez simplement besoin de données prépayées, une eSIM voyage évite tout le tableau.
 
 ## SIM locale ou eSIM voyage : quel coût en France ?
 
@@ -286,7 +288,7 @@ La France a six voisins terrestres et les forfaits France uniquement meurent à 
 
 **Monaco est le même piège en plus petit.** La principauté se trouve à l'intérieur du littoral français, utilise les services ferroviaires français, et ne fait pas partie de la zone Roam Like At Home — donc une ligne française peut encourir des frais d'itinérance lors d'une excursion à Monte-Carlo sans aucun signe visible que vous avez quitté le pays. Seul un forfait qui nomme Monaco dans sa liste de couverture évite cela.
 
-La règle sous-jacente mérite d'être mémorisée, car c'est l'inverse de la façon dont les gens raisonnent sur l'itinérance : **le Roam Like At Home dépend du lieu d'émission de la SIM, pas de l'endroit où vous vous trouvez.** La Belgique, l'Espagne, l'Italie, l'Allemagne et le Luxembourg sont dans la zone ; la Suisse, Monaco, Andorre, le Royaume-Uni et les Balkans occidentaux n'y sont pas. Les listes de couverture qui nomment explicitement la Suisse et Monaco — comme celle d'Orange Travel — vous rendent un service commercial, pas réglementaire.
+La règle sous-jacente mérite d'être mémorisée, car c'est l'inverse de la façon dont les gens raisonnent sur l'itinérance : **le Roam Like At Home dépend du lieu d'émission de la SIM, pas de l'endroit où vous vous trouvez.** La Belgique, l'[Espagne](/carriers/spain-esim-carrier-guide/), l'[Italie](/carriers/italy-esim-carrier-guide/), l'[Allemagne](/carriers/germany-esim-carrier-guide/) et le [Luxembourg](/carriers/luxembourg-esim-carrier-guide/) sont dans la zone ; la Suisse, Monaco, Andorre, le Royaume-Uni et les Balkans occidentaux n'y sont pas. Les listes de couverture qui nomment explicitement la Suisse et Monaco — comme celle d'Orange Travel — vous rendent un service commercial, pas réglementaire.
 
 ## Orange ou SFR pour votre voyage en France ?
 
@@ -327,7 +329,7 @@ Accordez l'itinéraire au réseau plutôt qu'à la marque.
 
 ## Votre téléphone est-il prêt pour une eSIM France ?
 
-La France utilise la gamme de bandes européenne standard : 4G sur 800 MHz (B20), 1800 MHz (B3) et 2600 MHz (B7) ; 5G sur 700 MHz (n28), 2100 MHz (n1) et 3500 MHz (n78). Tout appareil déverrouillé vendu en Europe ces cinq dernières années les a toutes, et la plupart des téléphones haut de gamme du monde aussi. Les deux vérifications qui provoquent réellement des échecs sont la prise en charge eSIM et le verrouillage opérateur — vérifiez les deux en une seule passe avec le [vérificateur de compatibilité d'appareil](/compatibility/), et si vous voulez d'abord les mécanismes de base, commencez par [l'explication de l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/).
+La France utilise la gamme de bandes de fréquences européenne standard : 4G sur 800 MHz (B20), 1800 MHz (B3) et 2600 MHz (B7) ; 5G sur 700 MHz (n28), 2100 MHz (n1) et 3500 MHz (n78). Tout appareil déverrouillé vendu en Europe ces cinq dernières années les a toutes, et la plupart des téléphones haut de gamme du monde aussi. Les deux vérifications qui provoquent réellement des échecs sont la prise en charge eSIM et le verrouillage opérateur — vérifiez les deux en une seule passe avec le [vérificateur de compatibilité d'appareil](/compatibility/), et si vous voulez d'abord les mécanismes de base, commencez par [l'explication de l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 Deux notes propres à la France. Premièrement, **Orange Travel exige un appareil compatible eSIM**, et Orange publie sa propre liste de compatibilité sur la page de la boutique — vérifiez votre modèle là-bas avant d'acheter, car le forfait n'est pas vendu en SIM physique sur cette voie. Deuxièmement, **un téléphone verrouillé échouera sur n'importe quel réseau français**, et l'échec ressemble à une erreur d'activation plutôt qu'à une erreur de verrouillage, ce qui envoie les gens chercher le mauvais problème. Vérifiez d'abord Réglages → Général → Informations → Verrouillage opérateur.
 
@@ -415,7 +417,7 @@ Les erreurs persistantes — téléchargements qui échouent, codes QR déjà ut
 
 ## Combien coûtent les données : forfait touristique ou eSIM voyage ?
 
-La France est l'un des marchés de données les moins chers du monde développé, ce qui change complètement la comparaison.
+La France est l'un des marchés de données les moins chers du monde développé, qu'il s'agisse d'un forfait data local ou d'une eSIM voyage, ce qui change complètement la comparaison.
 
 Le Speedtest Global Index d'Ookla situe la médiane nationale de téléchargement mobile français à **132.91 Mbps** avec une latence de 27 ms en août 2026, 30e mondial. Cable.co.uk tarifait 1 Go de données mobiles françaises à environ **USD 0.20**, ce qui la classe **9e marché le moins cher sur les 237** qu'il suit. Pour situer, c'est à peu près un dixième du tarif belge et environ un vingt-septième de celui du Canada. Les données mobiles françaises ne sont pas chères ; c'est l'achat qui est malaisé.
 
@@ -475,6 +477,18 @@ Orange, sur chaque mesure publiée : 122.77 Mbps en débit médian toutes techno
 
 Parcourez la liste ci-dessus dans l'ordre — bascule d'itinérance, ligne de données, APN, resélection du réseau — puis passez au guide de dépannage complet si le profil lui-même refuse de s'installer. Ayez votre numéro de commande et votre EID (composez `*#06#`) prêts si vous contactez l'assistance.
 
+### Que faire si j'épuise mes données pendant le séjour ?
+
+Avec Orange Travel, les recharges se gèrent dans l'application — de 1 Go à 500 Go ajoutés sans réinstaller le profil ni scanner un nouveau code QR —, et le même numéro français est conservé. Pour une eSIM voyage multi-réseaux, l'ajout de données se fait généralement depuis l'application du fournisseur ; anticipez en choisissant un palier supérieur sur notre [forfait eSIM France de Roami](/france-esim/) avant le départ plutôt que de vous retrouver à sec à mi-voyage.
+
+### Que faire si je n'ai pas réussi à acheter une carte SIM à mon arrivée ?
+
+Ne restez pas dans le hall à chercher un kiosque ouvert. Le plan de secours tient en trois étapes. D'abord, connectez-vous au Wi-Fi gratuit de l'aéroport ou de la gare, qui suffit à acheter en ligne. Ensuite, installez une eSIM voyage depuis ce réseau : elle s'active en quelques minutes, sans boutique ni file d'attente. Si vous avez besoin d'un numéro français, Orange Travel s'achète aussi entièrement en ligne, la seule contrainte étant d'être en Wi-Fi pour scanner le code QR ou lancer l'installation dans l'application. La leçon pratique : la carte SIM à l'arrivée n'est plus une nécessité — une eSIM achetée avant le départ, ou même depuis le taxi, évite tout le problème, ce que nos [forfaits data France](/france-esim/) sont conçus pour couvrir.
+
+### Le partage de connexion fonctionne-t-il avec une eSIM France ?
+
+Presque toujours, mais vérifiez le forfait avant de compter dessus. Les profils eSIM voyage data uniquement autorisent en général le partage de connexion (hotspot), et Orange Travel le propose sans plafond journalier : un ordinateur portable ou un second téléphone peut rouler sur le même forfait. La restriction à guetter n'est pas le réseau mais la politique du vendeur — quelques forfaits touristiques bas de gamme brident le partage ou le facturent à part. Pour un couple ou une famille qui veut une seule enveloppe de données, c'est le critère à vérifier avant d'acheter, pas après.
+
 ## Nos sources
 
 - **Ookla Speedtest Intelligence, France H2 2024** — [l'étude par opérateur](https://www.ookla.com/research/reports/france-speedtest-connectivity-report-h2-2024) étaye chaque chiffre d'opérateur de cette page : la médiane de 122.77 Mbps et la médiane 5G de 281.3 Mbps d'Orange, les 226.19 Mbps en 5G de SFR, les 196.54 Mbps en 5G et la médiane fixe de 305.15 Mbps de Bouygues, la disponibilité 5G de 74.0 % de Free, et le tableau des villes.
@@ -501,4 +515,4 @@ Le profil France de Roami sélectionne celui des quatre réseaux qui est le plus
 
 [Commencer avec l'eSIM d'essai France gratuite](/free-esim/)
 
-Une dernière étape avant de décoller : vérifiez votre téléphone sur la [page de compatibilité eSIM](/compatibility/), puis commencez avec une [carte d'essai gratuite](/free-esim/) Roami et voyez comment Orange traite votre itinéraire. Quand vous passez à un forfait payant, WEB20 offre 20 % de remise sur tout forfait Roami pour la France.
+Une dernière étape avant de décoller : vérifiez votre téléphone sur la [page de compatibilité eSIM](/compatibility/), puis commencez avec une [carte d'essai gratuite](/free-esim/) Roami et voyez comment Orange traite votre itinéraire. Quand vous passez à un forfait payant, le code web20 offre 20 % de remise sur tout forfait Roami pour la France.

@@ -4,7 +4,7 @@ title: "Opérateurs eSIM Danemark : quel réseau choisir ?"
 
 description: "Roami compare Telia, YouSee, Telenor et 3 pour votre eSIM Danemark : couverture, vitesse et les zones où le signal s'amincit."
 
-image: "img/esim/carriers/denmark-esim-carrier-guide.jpg"
+image: "img/esim/carriers/denmark-esim-carrier-guide.webp"
 
 date: "2026-09-26T19:30:01+00:00"
 
@@ -277,7 +277,7 @@ Le Danemark est l'un des endroits les plus difficiles d'Europe de l'Ouest où en
 
 
 
-Premièrement, l'enregistrement est obligatoire. Depuis 2021, quiconque achète une SIM prépayée au Danemark doit présenter un passeport ou une carte d'identité nationale au comptoir, chaque fois, à chaque point de vente — une règle documentée dans les [directives danoises d'enregistrement prépayé](https://mobileoperator.dk/prepaid-sim-card-denmark/) et appliquée aux achats d'eSIM comme au plastique. Pas de passeport, pas de SIM — cela vaut pour les kiosques autant que pour les boutiques d'opérateurs.
+Premièrement, l'enregistrement est obligatoire. Depuis 2021, quiconque achète une carte SIM prépayée au Danemark doit présenter un passeport ou une carte d'identité nationale au comptoir, chaque fois, à chaque point de vente — une règle documentée dans les [directives danoises d'enregistrement prépayé](https://mobileoperator.dk/prepaid-sim-card-denmark/) et appliquée aux achats d'eSIM comme au plastique. Pas de passeport, pas de SIM — cela vaut pour les kiosques autant que pour les boutiques d'opérateurs.
 
 
 
@@ -356,6 +356,10 @@ Les données urbaines du S1 2025 montrent à quel point l'éventail est serré d
 | Copenhague | 262,76 Mbps | Congestion aux heures de pointe, tout de même excellent |
 
 | Kastrup | 196,46 Mbps | La plus lente mesurée, quartier de l'aéroport |
+
+
+
+Détail amusant de ce tableau : Copenhague n'arrive que cinquième de son propre pays — Frederiksberg, Aarhus et Aalborg mesurent toutes plus rapide que la capitale. Dans la pratique, tout le monde gagne : même la cellule la plus lente mesurée (Kastrup) dépasse largement ce qu'un voyageur vient chercher.
 
 
 
@@ -504,6 +508,10 @@ La géographie danoise rend les passages frontaliers routiniers plutôt qu'exoti
 
 
 **La Pologne et les pays baltes**, si votre route court au sud ou à l'est à travers le continent, sont du territoire UE ordinaire pour une ligne émise au Danemark et du territoire de liste de pays ordinaire pour un forfait voyage — voir les [options eSIM Pologne](/europe-esim/) parmi les comparaisons Europe si votre route est longue.
+
+
+
+Et si vous comparez les réseaux d'un pays voisin avant de traverser, nos guides opérateurs nordiques et allemands reprennent la même méthode : [le comparatif des opérateurs eSIM de Suède](/carriers/sweden-esim-carrier-guide/), [le guide des réseaux mobiles de Norvège](/carriers/norway-esim-carrier-guide/), [quel opérateur eSIM choisir en Allemagne](/carriers/germany-esim-carrier-guide/) et [le panorama eSIM de la Finlande](/carriers/finland-esim-carrier-guide/).
 
 
 
@@ -657,6 +665,22 @@ Parcourez les quatre schémas ci-dessus dans l'ordre — sélection de la ligne 
 
 
 
+### Faut-il encore des espèces au Danemark, pour la SIM ou le quotidien ?
+
+
+
+Presque jamais. Les cartes de débit — Dankort comme Visa/Mastercard internationales — passent dans à peu près tous les commerces, les détaillants peuvent légalement refuser les billets, et MobilePay, l'application de paiement locale, exige un compte bancaire et un numéro CPR danois que le voyageur n'a pas. Le piège n'est pas le paiement du quotidien mais la recharge : les bons de kiosque supposent une carte qui passe, et certains portails de recharge en ligne rejettent les cartes étrangères — une raison de plus de préférer un forfait data voyage payé une seule fois avant le départ.
+
+
+
+### Vais-je recevoir mes codes bancaires sans numéro danois ?
+
+
+
+Oui, à condition de garder votre SIM nationale active pour les appels et les SMS pendant que le profil danois porte les données. La réception d'un SMS ne consomme pas de données : vos codes 2FA arrivent sur la ligne nationale même avec son itinérance des données désactivée — ce que nous recommandons d'ailleurs pour éviter toute facture surprise. C'est le montage double SIM standard, et il fonctionne à Copenhague comme sur les îles.
+
+
+
 ## Nos sources
 
 
@@ -689,4 +713,4 @@ Un profil à la maison remplace la file d'aéroport, le scan de passeport et la 
 
 
 
-Dans les deux cas, configurez avant le départ : vérifiez votre appareil sur le [vérificateur de compatibilité](/compatibility/), essayez le [test de couverture gratuit](/free-esim/) de Roami, et appliquez **WEB20** à la caisse quand vous passerez plus tard à un forfait Roami complet couvrant le Danemark.
+Dans les deux cas, configurez avant le départ : vérifiez votre appareil sur le [vérificateur de compatibilité](/compatibility/), essayez [l'essai gratuit sans engagement](/free-esim/) de Roami, et appliquez **web20** à la caisse quand vous passerez plus tard à un forfait Roami complet couvrant le Danemark.

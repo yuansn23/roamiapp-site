@@ -1,7 +1,7 @@
 ---
 title: "Opérateur eSIM Israël : choisir Cellcom ou Partner ?"
 description: "Roami compare les opérateurs eSIM Israël Cellcom, Partner et HOT Mobile sur la couverture, la vitesse et le meilleur prix."
-image: "img/esim/carriers/israel-esim-carrier-guide.jpg"
+image: "img/esim/carriers/israel-esim-carrier-guide.webp"
 date: "2026-09-25T21:00:41+00:00"
 keywords: opérateurs eSIM Israël, eSIM Israël, eSIM voyage Israël, eSIM Cellcom, eSIM Partner, Pelephone, HOT Mobile, opérateurs mobiles Israël, eSIM pour touristes Israël, éviter frais itinérance Israël, eSIM instantanée Israël, eSIM Mer Morte, eSIM Jérusalem
 site_name: Roami
@@ -77,9 +77,9 @@ Pour un voyage standard d'une à deux semaines, le niveau Prepaid Tourist est su
 
 ### Partner, HOT Mobile et les comptoirs de l'aéroport : quels prix ?
 
-**Partner** — l'ancien Orange Israël — fait tourner le réseau sur lequel beaucoup d'eSIM voyage errent, et ses forfaits touristiques commencent autour de **49 ₪** pour les courts séjours. **HOT Mobile** le sous-cote à environ **45 ₪**, selon [une vérification terrain des SIM touristiques de juin 2026](https://simguidetravel.com/sim-card-israel). Les deux maintiennent des comptoirs Ben Gourion aux côtés de Cellcom et Pelephone, et les quatre réseaux ont déployé la 5G dans les grandes villes.
+**Partner** — l'ancien Orange Israël — fait tourner le réseau sur lequel beaucoup d'eSIM voyage errent, et ses forfaits touristiques commencent autour de **49 ₪** pour les courts séjours. **HOT Mobile** le sous-cote à environ **45 ₪**, selon les tarifs touristiques affichés en juin 2026. Les deux maintiennent des comptoirs Ben Gourion aux côtés de Cellcom et Pelephone, et les quatre réseaux ont déployé la 5G dans les grandes villes.
 
-À l'aéroport même, budgétisez différemment : les forfaits touristiques de comptoir commencent près de **45 $US (≈162 ₪) pour 10 Go sur 8 jours**, allant jusqu'à environ **109 $US (≈392 ₪) pour données illimitées sur 35 jours**, selon [une enquête de prix du hall d'arrivée Ben Gourion](https://www.yourlayoverguide.com/sim-card-at-tel-aviv-ben-gurion-airport-tlv/). Les kiosques de revendeurs (dont 019 Mobile) sont dans le même hall avec des forfaits similaires.
+À l'aéroport même, budgétisez différemment : les forfaits touristiques de comptoir commencent près de **45 $US (≈162 ₪) pour 10 Go sur 8 jours**, allant jusqu'à environ **109 $US (≈392 ₪) pour données illimitées sur 35 jours**, selon les tarifs relevés au hall des arrivées de Ben Gourion. Les kiosques de revendeurs (dont 019 Mobile) sont dans le même hall avec des forfaits similaires.
 
 | Route d'achat | Prix typique | Ce qu'il inclut | Le compromis |
 |:---|:---|:---|
@@ -91,7 +91,7 @@ L'écart de prix raconte la vraie histoire : le même réseau israélien coûte 
 
 ## Quelles règles d'identité pour enregistrer une SIM ?
 
-Presque tout visiteur international entre par le Terminal 3 de l'aéroport Ben Gourion, et le hall d'arrivée après la douane est là où les kiosques d'opérateurs se regroupent. Cellcom et Pelephone sont les présences habituelles, aux côtés de revendeurs tiers qui pré-réservent des forfaits touristiques pour le retrait. Le personnel enregistre votre passeport, active un forfait touristique sur place, et vous partez avec une ligne fonctionnelle et un numéro de téléphone israélien. Pour les voyageurs ayant besoin d'appels locaux — réservations de restaurant, un hôte Airbnb, un opérateur de circuit — c'est une option légitime, et les files, bien réelles, avancent. C'est aussi la seule route qui n'exige aucun appareil compatible eSIM, ce qui compte encore pour une minorité de visiteurs avec des téléphones plus anciens.
+Presque tout visiteur international entre par le Terminal 3 de l'aéroport Ben Gourion, et le hall d'arrivée après la douane est là où les kiosques d'opérateurs se regroupent. Cellcom et Pelephone sont les présences habituelles, aux côtés de revendeurs tiers qui pré-réservent des forfaits touristiques pour le retrait. Le personnel enregistre votre passeport, active une carte SIM prépayée touristique sur place, et vous partez avec une ligne fonctionnelle et un numéro de téléphone israélien. Pour les voyageurs ayant besoin d'appels locaux — réservations de restaurant, un hôte Airbnb, un opérateur de circuit — c'est une option légitime, et les files, bien réelles, avancent. C'est aussi la seule route qui n'exige aucun appareil compatible eSIM, ce qui compte encore pour une minorité de visiteurs avec des téléphones plus anciens.
 
 Maintenant les mises en garde. Les forfaits touristiques au comptoir coûtent nettement plus que les équivalents en ligne pour les mêmes données — comptez dizaines de shekels de plus pour un forfait d'une semaine, la prime achetant la commodité et un numéro local. L'enregistrement est obligatoire et prend quelques minutes par client, donc la ligne que vous rejoignez est celle que le vol de tout le monde a rejointe. Et le calendrier a ses limites strictes, qui valent la peine d'être vues en tableau car c'est le fait le plus dépendant du calendrier de la connectivité israélienne :
 
@@ -157,6 +157,8 @@ La vitesse est le seul indicateur où Israël est bon plutôt que spectaculaire.
 | Débit de téléchargement 5G médian | 140.84 Mbps (57e) | Disponible dans les grandes villes |
 | Débit de téléchargement fixe médian | 297.97 Mbps (10e) | Reflete la construction fibre sur laquelle s'appuient les hôtels |
 
+Ce tableau livre un contraste que peu de guides soulignent : Israël est dixième mondial en fibre mais seulement 67e en mobile — traduit pour le voyageur, l'hôtel est ultra-rapide et la route simplement rapide. C'est l'inverse de la plupart des destinations couvertes sur ce site, et cela change où faire vos gros téléchargements.
+
 La traduction honnête pour les voyageurs : votre expérience de données en Israël sera limitée par le réseau hôte de votre forfait et votre emplacement, non par un plafond d'infrastructure nationale. À Tel Aviv et Jérusalem vous verrez des icônes 5G et des vitesses bien au-delà de ce que les cartes ou applications sociales peuvent utiliser. Sur la route 90, vous verrez ce que donne la tour de couloir la plus proche. Planifiez pour le couloir, pas pour le pays — et rappelez-vous qu'une eSIM voyage a une flexibilité de réseau hôte qui influence généralement votre vitesse réelle plus que le rang du pays.
 
 La congestion, pas la capacité, est la seule variable de vitesse qui vaut la peine d'être planifiée. Le front de mer de Tel Aviv un samedi d'été, la Vieille Ville à midi, et la foule du lever de soleil à Massada compressent tous des milliers de téléphones sur quelques secteurs — les moments où chaque réseau du pays ne se sent que moyennement. Si votre itinéraire inclut ces scènes, faites vos téléchargements depuis l'hôtel le soir, quand les réseaux fixes font le gros du travail à leurs vitesses dixièmes mondiales.
@@ -167,7 +169,7 @@ Le comptoir aéroport vous vend un produit fini : payez une fois, partez, termin
 
 La seconde est ce qui arrive quand le quota est épuisé. Les forfaits voyage cessent simplement de passer les données quand l'enveloppe est vide — pas de facturation excédentaire, pas de frais surprises, ce qui est l'une des raisons silencieuses pour lesquelles les voyageurs les préfèrent à l'itinérance de l'opérateur national. Obtenir plus est une recharge via l'application ou le site du fournisseur, appliquée au même profil installé ; rien n'est rescanné ou réinstallé. Si vous êtes du type qui vérifie la consommation de données deux fois par jour, réglez l'alerte d'usage à l'achat et oubliez-la.
 
-La troisième est le petit imprimé qui varie vraiment entre fournisseurs : si le profil peut partager sa connexion en point d'accès, s'il s'accroche aux quatre réseaux israéliens ou seulement à certains, et à quoi ressemble le support à 2 h du matin à Jérusalem quand quelque chose déraille. Ce sont exactement les questions qu'un achat comptoir répond implicitement pour vous, et exactement celles qui valent trente secondes de lecture en ligne. Un essai gratuit est le moyen le moins cher de tester les réponses — l'[eSIM d'essai de Roami](/free-esim/) s'installe de la même façon qu'une payante.
+La troisième est le petit imprimé qui varie vraiment entre fournisseurs : si le profil peut partager sa connexion en point d'accès, s'il s'accroche aux quatre réseaux israéliens ou seulement à certains, et à quoi ressemble le support à 2 h du matin à Jérusalem quand quelque chose déraille. Ce sont exactement les questions qu'un achat comptoir répond implicitement pour vous, et exactement celles qui valent trente secondes de lecture en ligne. Un essai gratuit est le moyen le moins cher de tester les réponses — l'[essai gratuit de Roami](/free-esim/) s'installe de la même façon qu'une payante.
 
 Un addendum israélien spécifique au petit imprimé : comme les forfaits locaux sont si peu chers, certains voyageurs achètent un forfait local *et* gardent un profil voyage installé comme solution de repli. C'est un jeu de redondance raisonnable — la mise en garde est de ne laisser qu'une seule ligne de données active à la fois, car deux sources de données activées sur un téléphone constituent en soi une catégorie de dépannage.
 
@@ -181,11 +183,11 @@ Deux endroits où WhatsApp mérite sa place en Israël spécifiquement : les gui
 
 Si votre profil s'installe mais les données ne coulent jamais, la cause est généralement les réglages plutôt que le réseau : la mauvaise ligne sélectionnée pour les données mobiles, ou l'itinérance des données désactivée sur le profil. Notre [ressource de dépannage eSIM](/faq/esim-activation-errors-troubleshooting-guide/) parcourt les schémas de défaillance dans l'ordre.
 
-## Combien coûtent les forfaits eSIM Israël ?
+## Traversées frontalières : Jordanie, Égypte et au-delà
 
-Les frontières terrestres d'Israël créent des itinéraires qu'aucun forfait unique ne couvre. Les deux traversées qui comptent pour les voyageurs sont le pont Allenby et la traversée du Jourdain vers la Jordanie, et la frontière Taba vers le Sinaï égyptien. Les forfaits touristiques israéliens n'incluent généralement pas les pays voisins, donc l'instant où votre eSIM campe sur une tour égyptienne ou jordanienne, vous êtes en itinérance internationale selon les termes d'un autre marché — soit une facturation au mégaoctet chère, soit le silence.
+Les frontières terrestres créent des itinéraires qu'aucun forfait unique ne couvre. Les deux traversées qui comptent pour les voyageurs sont le pont Allenby et la traversée du Jourdain vers la Jordanie, et la frontière Taba vers le Sinaï égyptien. Les forfaits touristiques israéliens n'incluent généralement pas les pays voisins, donc l'instant où votre eSIM campe sur une tour égyptienne ou jordanienne, vous êtes en itinérance internationale selon les termes d'un autre marché — soit une facturation au mégaoctet chère, soit le silence.
 
-Le schéma propre est un forfait par segment. Installez votre eSIM Israël avant de prendre l'avion vers Tel Aviv et utilisez-la pour la partie israélienne. Ajoutez ensuite une [eSIM voyage Jordanie](/jordan-esim/) ou un [forfait de données Égypte](/egypt-esim/) avant le jour de la traversée — les deux s'installent à partir d'un code de la même façon, donc la passation est une bascule de réglage, pas une visite en magasin. Gardez les deux profils installés si votre retour passe encore par Israël ; une eSIM n'expire pas d'être éteinte, et la réactiver prend des secondes.
+Le schéma propre est un forfait par segment. Installez votre eSIM Israël avant de prendre l'avion vers Tel Aviv et utilisez-la pour la partie israélienne. Ajoutez ensuite une [eSIM voyage Jordanie](/jordan-esim/) ou un [forfait de données Égypte](/egypt-esim/) avant le jour de la traversée — les deux s'installent à partir d'un code de la même façon, donc la passation est une bascule de réglage, pas une visite en magasin, et notre [guide des opérateurs égyptiens](/carriers/egypt-esim-carrier-guide/) détaille ce qui vous attend côté Sinaï. Gardez les deux profils installés si votre retour passe encore par Israël ; une eSIM n'expire pas d'être éteinte, et la réactiver prend des secondes.
 
 La Cisjordanie mérite sa propre phrase dans cette section, distincte de la Jordanie et de l'Égypte : la couverture y fonctionne sur des opérateurs palestiniens et varie selon la zone et selon le réseau hôte que votre profil rejoint. Ce n'est pas quelque chose qu'aucun forfait israélien ou voyage garantit, et les voyageurs avec des itinéraires Jérusalem-Ramallah devraient traiter la connectivité là-bas comme un élément de recherche séparé plutôt qu'une extension de cette page.
 
@@ -255,7 +257,7 @@ Aucun des deux ne devrait décider votre achat. La couche 5G est réelle dans le
 
 ### Quel quota de données convient à un voyage en Israël ?
 
-Moins que ce que vous budgéteriez pour la plupart des destinations, car le Wi-Fi hôtel et café est fort et rapide — rappelez-vous que le rang dixième mondial des réseaux fixes du pays. Un quota pratique pour cartes, WhatsApp, VTC et partage social tourne autour de 1 Go par jour ; ajoutez plus seulement si vous diffusez de la vidéo sur la route, là où aucun Wi-Fi n'existe.
+Moins que ce que vous budgéteriez pour la plupart des destinations, car le Wi-Fi hôtel et café est fort et rapide — les réseaux fixes du pays figurent parmi les premiers au monde. Un forfait data pratique pour cartes, WhatsApp, VTC et partage social tourne autour de 1 Go par jour ; ajoutez plus seulement si vous diffusez de la vidéo sur la route, là où aucun Wi-Fi n'existe.
 
 ### Quels sont les prix des forfaits eSIM Israël ?
 
@@ -263,7 +265,7 @@ Repères : le Cellcom Prepaid Tourist à 99 ₪ (~27 $US) pour 120 Go sur 30 jou
 
 ### Le partage de connexion est-il possible sur une eSIM Israël ?
 
-Généralement oui, mais c'est un terme par fournisseur plutôt qu'acquis, donc vérifiez avant d'acheter si vous prévoyez de travailler d'un ordinateur portable. Le Wi-Fi hôtel israélien est rapide — le rang dixième mondial des réseaux fixes du pays — donc la demande de point d'accès est souvent plus faible que ne l'attendent les voyageurs, mais une connexion partagée sur un road trip dans le Néguev est un cas d'usage réel.
+Généralement oui, mais c'est un terme par fournisseur plutôt qu'acquis, donc vérifiez avant d'acheter si vous prévoyez de travailler d'un ordinateur portable. Le Wi-Fi hôtel israélien est très rapide — c'est la fibre du pays qui tire son classement — donc la demande de point d'accès est souvent plus faible que ne l'attendent les voyageurs, mais une connexion partagée sur un road trip dans le Néguev est un cas d'usage réel.
 
 ### Ai-je besoin d'un VPN pour utiliser Internet normalement en Israël ?
 
@@ -283,7 +285,7 @@ Les forfaits orientés résidents regroupent souvent une poignée de minutes int
 
 ### Quels appareils peuvent utiliser une eSIM Israël ?
 
-Tous les téléphones compatibles eSIM et déverrouillés : iPhone depuis le XS (hors modèles de Chine continentale, où la fonction est désactivée), Samsung depuis la génération S20, Google Pixel 3 et au-delà. Composez `*#06#` pour confirmer qu'un EID apparaît, et vérifiez que l'écran de verrouillage indique « Aucune restriction SIM » ; la [liste de compatibilité eSIM](/compatibility/) reste la référence et signale les variantes régionales.
+Tous les téléphones compatibles eSIM et déverrouillés : iPhone depuis le XS (hors modèles de Chine continentale, où la fonction est désactivée), Samsung depuis la génération S20, Google Pixel 3 et au-delà. Composez `*#06#` pour confirmer qu'un EID apparaît, et vérifiez que l'écran de verrouillage indique « Aucune restriction SIM » ; la [page de compatibilité eSIM](/compatibility/) reste la référence et signale les variantes régionales.
 
 ### Pourquoi votre téléphone saute-t-il sur un réseau étranger ?
 
@@ -300,6 +302,14 @@ Tous se valent là où ils l'ont déployé — Tel Aviv, Jérusalem, Haïfa et l
 ### Quelle eSIM Israël pour quel type de voyage ?
 
 Escapade urbaine de 4–5 jours à Tel Aviv : une eSIM voyage data suffit. Circuit classique de deux semaines (Tel Aviv–Jérusalem–Mer Morte–Galilée) : le Cellcom Prepaid Tourist à 120 Go ou un gros forfait voyage. Arrivée vendredi soir : profil installé avant le vol, impérativement — les comptoirs sont fermés jusqu'au samedi soir. Traversée vers Pétra ou le Sinaï : un forfait par pays, chacun installé avant la frontière. Et notez que les lignes prépayées locales ont une fenêtre de validité après laquelle le numéro est recyclé, tandis qu'un profil voyage installé reste dormant indéfiniment — utile si vous revenez.
+
+### Que faire si j'atterris pendant Shabbat sans profil installé ?
+
+D'abord, respirez : le Wi-Fi de Ben Gourion et celui de votre hôtel fonctionnent normalement pendant Shabbat, eux. Installez un profil eSIM voyage depuis le Wi-Fi de l'hôtel — un profil acheté en ligne s'active à toute heure, lui — et gardez les achats au comptoir pour le samedi soir, quand certains kiosques rouvrent, ou le dimanche matin. La seule vraie impasse est de compter sur un comptoir fermé ; la connectivité, elle, ne ferme jamais.
+
+### Mon eSIM Israël fonctionne-t-elle à Massada et le long de la mer Morte ?
+
+Oui le long de la route 90 et sur les sites principaux, y compris Massada — c'est un couloir routier couvert, pas une zone blanche. Ce qui tombe, ce sont les oueds latéraux et l'escarpement à l'est de la mer Morte, hors de la route. Si votre programme inclut le lever de soleil à Massada, attendez-vous à une congestion du réseau avec la foule, et faites vos téléchargements la veille depuis le Wi-Fi de l'hôtel.
 
 Plus de questions ? [Explorez la FAQ](/faq/)
 
@@ -324,10 +334,10 @@ Plus de questions ? [Explorez la FAQ](/faq/)
 
 Tous les chiffres sont des mesures tierces et évoluent à mesure que les réseaux sont mis à niveau ; traitez-les comme un contexte marché, pas une garantie pour votre propre appareil.
 
-## Comment gérer l'itinérance et les traversées frontalières ?
+## Achetez votre eSIM Israël avant le départ
 
 Chaque affirmation de cette page est vérifiable avant de dépenser quoi que ce soit : confirmez votre téléphone sur le [vérificateur de compatibilité des appareils](/compatibility/), puis [réclamez une eSIM d'essai gratuite](/free-esim/) — la même ligne d'accueil que les nouveaux clients peuvent [démarrer depuis la page eSIM gratuite](/free-esim/). *Votre première ligne est sur Roami, sans engagement.*
 
 Quand vos dates sont fixées, choisissez un forfait sur [les forfaits eSIM Israël de Roami](/israel-esim/) ou [achetez directement](/israel-esim/). Installez-le à la maison, arrivez connecté, et passez votre week-end Shabbat à voir le pays plutôt qu'à chasser un comptoir ouvert.
 
-Et quand vous êtes prêt à acheter : l'[eSIM exemple de Roami](/free-esim/) est le point de départ à risque zéro pour Israël, avec **WEB20** donnant 20 % de réduction sur votre premier forfait payant si vous décidez de rester connecté tout le voyage.
+Et quand vous êtes prêt à acheter : l'[eSIM exemple de Roami](/free-esim/) est le point de départ à risque zéro pour Israël, avec **web20** donnant 20 % de réduction sur votre premier forfait payant si vous décidez de rester connecté tout le voyage.

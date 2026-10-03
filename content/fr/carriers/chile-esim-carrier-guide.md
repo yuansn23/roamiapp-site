@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM Chili choisir pour votre séjour ?"
 description: "Roami compare Entel, Movistar et Claro pour votre eSIM Chili : 5G à Santiago, couverture en Patagonie et prix des forfaits."
-image: "img/esim/carriers/chile-esim-carrier-guide.jpg"
+image: "img/esim/carriers/chile-esim-carrier-guide.webp"
 date: "2026-09-27T16:30:09+00:00"
 keywords: eSIM Chili, opérateurs eSIM Chili, opérateurs eSIM au Chili, Entel eSIM, Movistar eSIM, Claro eSIM, données prépayées, réseau 5G, eSIM Roami, internet de voyage au Chili
 site_name: Roami
@@ -20,9 +20,7 @@ Choisir une eSIM pour le Chili, c'est planifier 4,300 km de contrastes, des rés
 
 **Réponse rapide :** Le résumé honnête : Entel pour la portée, Movistar pour le prix, et très peu les sépare dans les grandes villes. Vous n'avez jamais installé de profil ? Le [tutoriel d'activation](/faq/how-to-activate-an-esim/) vous y guide pas à pas, et les tableaux de forfaits ci-dessous font le reste.
 
-**Le verdict d'emblée :** Itinéraire urbain ? **Entel** détient la plus vaste empreinte 4G/5G du pays. Patagonie, Grand Nord ou Région des Lacs ? **Movistar** est le pari le plus sûr dès que vous quittez la vallée centrale. Vous restez à Santiago et comptez chaque peso ? **Claro** et **WOM** pratiquent les prix les plus bas de la ville et s'affaiblissent fortement au-delà. Ou sautez complètement la file d'attente du magasin — une eSIM de voyage s'itine sur Entel, Movistar et Claro sans RUT, sans formalités IMEI et sans visite en magasin. [Testez l'eSIM](/free-esim/) met les réseaux à l'épreuve sans frais, et **WEB20** réduit de 20% les [forfaits eSIM Chili](/chile-esim/).
-
-## Combien coûte un Go de données au Chili ?
+**Le verdict d'emblée :** Itinéraire urbain ? **Entel** détient la plus vaste empreinte 4G/5G du pays. Patagonie, Grand Nord ou Région des Lacs ? **Movistar** est le pari le plus sûr dès que vous quittez la vallée centrale. Vous restez à Santiago et comptez chaque peso ? **Claro** et **WOM** pratiquent les prix les plus bas de la ville et s'affaiblissent fortement au-delà. Ou sautez complètement la file d'attente du magasin — une eSIM de voyage s'itine sur Entel, Movistar et Claro sans RUT, sans formalités IMEI et sans visite en magasin. [Testez l'eSIM](/free-esim/) met les réseaux à l'épreuve sans frais, et **web20** réduit de 20% les [forfaits eSIM Chili](/chile-esim/).
 
 ## Entel ou Movistar pour votre voyage au Chili ?
 
@@ -52,15 +50,15 @@ Entel est l'opérateur vers lequel la plupart des visiteurs devraient se tourner
 
 Movistar est le compromis prix-couverture. Son offre prépayée publiée — environ **CLP 5,000 pour 40 GB plus 500 minutes sur 30 jours** — est l'offre touristique la plus citée du marché, et sa portée rurale ne le cède qu'à celle d'Entel. Pour le Grand Nord, la Région des Lacs et Puerto Natales, c'est l'opérateur que le plus grand nombre de voyageurs regrette de ne pas avoir choisi après coup. Notez la transition de marque : l'activité équatorienne de Movistar est passée à Millicom, mais l'exploitation chilienne reste celle de Telefónica.
 
-### Qui vérifie votre identité quand vous achetez une SIM au Chili ?
+### Claro : le plus accommodant à l'enregistrement ?
 
-Claro est le plus grand opérateur d'Amérique latine en nombre d'abonnés et le plus accommodant des trois à l'enregistrement — il publie un parcours **« soy extranjero »** basé sur le passeport, ce qui compte car la ligne prépayée doit désormais être rattachée à une identité vérifiée. Ses packs prépayés sont agressifs : environ **CLP 5,000 pour 50 GB plus 500 minutes et données réseaux sociaux sur 30 jours**. Ce que vous sacrifiez, c'est la profondeur rurale ; hors des grandes villes, la carte de Claro s'amincit plus vite que celle d'Entel ou de Movistar.
+Claro est le plus grand opérateur d'Amérique latine en nombre d'abonnés et le plus accommodant des trois à l'enregistrement d'une carte SIM prépayée d'une carte SIM prépayée — il publie un parcours **« soy extranjero »** basé sur le passeport, ce qui compte car la ligne prépayée doit désormais être rattachée à une identité vérifiée. Ses packs prépayés sont agressifs : environ **CLP 5,000 pour 50 GB plus 500 minutes et données réseaux sociaux sur 30 jours**. Ce que vous sacrifiez, c'est la profondeur rurale ; hors des grandes villes, la carte de Claro s'amincit plus vite que celle d'Entel ou de Movistar.
 
 ### Quelles offres de données à petit prix au Chili ?
 
 WOM a bâti sa marque sur le prix et propose toujours la grande bolsa la moins chère du marché — environ **CLP 8,000 pour 24 GB avec minutes illimitées sur 30 jours** — plus des bolsas illimitées de 7 jours autour de CLP 4,990. Virgin Mobile démarre encore plus bas, à partir d'environ CLP 2,000. Tous deux conviennent parfaitement à un voyage Santiago-Valparaíso et sont un mauvais choix pour qui part vers le sud ou le nord hors de la vallée centrale.
 
-### Entel ou Movistar : quels prix ?
+### Combien coûte une bolsa prépayée au Chili ?
 
 Les prix prépayés locaux sont publiés en pesos chiliens et changent au fil des promotions, donc considérez le tableau comme un repère plutôt qu'un devis. Les conversions utilisent environ **960 CLP pour un dollar américain**.
 
@@ -75,7 +73,7 @@ Les prix prépayés locaux sont publiés en pesos chiliens et changent au fil de
 | Virgin Mobile | Varie selon le pack | 7 jours | à partir de CLP 2,000 | ≈ $2 |
 | Puce de démarrage seule | — | — | ≈ CLP 2,000 | ≈ $2 |
 
-Les bolsas hebdomadaires sont l'option flexible mais la pire valeur par gigaoctet : le pack 7 jours d'Entel coûte environ CLP 3,000 pour 4 GB, contre CLP 10,000 pour 20 GB sur 30 jours. Deux habitudes en découlent. Achetez la validité la plus longue que vous puissiez justifier, et rechargez avant que la dernière n'expire — une fois la bolsa échue, les données s'arrêtent tout simplement, généralement sans avertissement que vous remarquerez.
+Les bolsas hebdomadaires sont l'option flexible mais la pire valeur par gigaoctet : le pack 7 jours d'Entel coûte environ CLP 3,000 pour 4 GB, contre CLP 10,000 pour 20 GB sur 30 jours. Et à prix égal, l'écart peut être brutal dans le tableau : CLP 5,000 achètent 10 GB chez Entel mais 50 GB chez Claro — le prix ne dit rien de la couverture, c'est la géographie qui décide. Deux habitudes en découlent. Achetez la validité la plus longue que vous puissiez justifier, et rechargez avant que la dernière n'expire — une fois la bolsa échue, les données s'arrêtent tout simplement, généralement sans avertissement que vous remarquerez.
 
 ## Faut-il acheter une SIM chilienne, ou passer en itinérance avec une eSIM de voyage ?
 
@@ -95,9 +93,9 @@ L'équation économique est serrée au Chili car les données locales sont vraim
 
 Les données locales bon marché du Chili masquent la vitesse à laquelle un forfait de voyage peut s'épuiser, car ce que font les voyageurs ici est gourmand en données : navigation avec trafic en direct sur de longues routes, sauvegarde photo d'une semaine de visites, et appels vidéo vers chez vous depuis une auberge qui promet du Wi-Fi et n'en livre pas. Un budget approximatif utile : 500 MB par jour pour les cartes, la messagerie et la navigation légère ; 1 GB par jour si vous partagez la connexion d'un ordinateur portable ; et 2 GB par jour si vous envoyez des vidéos ou streamez. Un city break de sept jours à Santiago tient largement dans 5 GB. Un itinéraire de deux semaines du Nord à la Patagonie devrait commencer à 10 GB, surtout parce que les cartes hors ligne doivent être téléchargées une fois puis retéléchargées lors des mises à jour. Si votre voyage comprend des journées de randonnée retransmises en direct ou du télétravail, achetez 20 GB et cessez d'y penser.
 
-## Données eSIM au Chili : de combien avez-vous besoin ?
+## Appareils, bandes et règles locales au Chili
 
-### Qui exploite les réseaux mobiles au Chili ?
+### Sur quelles bandes tournent les réseaux mobiles chiliens ?
 
 La LTE chilienne fonctionne principalement sur les bandes **2, 4, 7 et 28**, avec la 5G concentrée sur **n78 (3500 MHz)**. Tout iPhone, Samsung Galaxy ou Pixel récent vendu dans les Amériques ou en Europe couvre cet ensemble. Un appareil conçu pour un seul marché asiatique peut ne pas les couvrir, et aucune eSIM ne répare une bande manquante — il retombera simplement en 3G, ou sur rien.
 
@@ -105,7 +103,7 @@ La LTE chilienne fonctionne principalement sur les bandes **2, 4, 7 et 28**, ave
 
 Les puces prépayées chiliennes sont liées à une identité depuis 2024, et depuis le **20 août 2026** l'opérateur doit vérifier la personne derrière un numéro prépayé — le régulateur indique qu'un passeport convient pour les utilisateurs étrangers. En pratique, un passeport suffit chez Claro et dans de nombreux kiosques ; un **RUT** (le numéro fiscal chilien) est ce que certains comptoirs Entel et Movistar demandent, et ce n'est pas quelque chose qu'un touriste peut fournir. Par ailleurs, et c'est plus grave : un téléphone apporté de l'étranger ne fonctionne sur les réseaux chiliens qu'environ **30 jours consécutifs** à compter de la première insertion d'une SIM locale, sauf si son **IMEI est enregistré** via l'enregistrement administratif Multibanda. Ce contrôle ne s'applique ni à l'itinérance internationale ni à une eSIM de voyage, ce qui est l'une des raisons pour lesquelles un profil en itinérance est l'option la moins contraignante pour un long voyage.
 
-### 10 Go suffisent-ils pour un voyage au Chili ?
+### Validité des bolsas : activation ou première connexion ?
 
 Le prépayé chilien ne facture pas de dépassement. Quand la bolsa est épuisée, soit la vitesse s'effondre, soit les données s'arrêtent jusqu'à l'achat d'un autre pack, et les bolsas hebdomadaires « illimitées » ne sont illimitées qu'à vitesse plafonnée après un seuil. Vérifiez si la validité du pack choisi court à partir de l'activation ou de la première connexion — une bolsa de 30 jours qui démarre dès votre atterrissage s'accorde mal à un voyage de trois semaines avec un atterrissage retardé, tandis qu'un profil à date de début différée lui convient.
 
@@ -117,11 +115,11 @@ Les eSIM chiliennes fonctionnent avec la plupart des appareils débloqués à pa
 
 L'utilisation du point d'accès est généralement autorisée, mais le plafond varie selon le forfait — d'un seul appareil supplémentaire sur les packs économiques à cinq sur un profil géré. Si votre voyage dépend du partage de connexion avec un ordinateur portable, vérifiez que le forfait le permet plutôt que de découvrir le blocage dans un hôtel sans Wi-Fi. Seconde note pratique : au Chili, il est généralement moins cher d'acheter un seul pack 30 jours plus grand que de recharger deux fois, donc dimensionnez le pack selon la durée de votre voyage plutôt que selon votre consommation du premier jour.
 
-## Votre eSIM fonctionne-t-elle par-delà les frontières ?
+## Ce que le prix d'une eSIM Chili achète vraiment
 
 Les prix bougent plus vite que les articles, donc l'offre actuelle vit sur notre [page des forfaits eSIM Chili](/chile-esim/). Ce qui donne sens au prix d'un forfait, c'est le marché qui le sous-tend : les données locales sont bon marché, donc la prime d'une eSIM de voyage achète de la commodité plutôt que des gigaoctets. Face à un pass journalier d'itinérance de votre opérateur national, le même profil est un ordre de grandeur moins cher, et face à une bolsa achetée sur place, il s'agit d'une majoration modeste en échange de l'absence de question RUT, de file d'attente en magasin et de compte à rebours IMEI.
 
-## Qui sont Entel, Movistar et Claro ?
+## Combien coûte un Go de données au Chili ?
 
 Le Speedtest Global Index d'Ookla classe le Chili **58e** mondial en vitesse de téléchargement mobile, mesurée à une médiane de **79.51 Mbps** avec une latence de 24 ms — en dessous de la médiane mondiale de 109.05 Mbps, ce qui compte car une eSIM de voyage performe précisément sur cette infrastructure locale. Les données locales sont facturées environ **USD 0.64 par GB**, 61e des 237 marchés que suit Cable.co.uk. Le marché sous-jacent est mature : 18.6 millions d'internautes au Chili (94.1% de la population) et 30.7 millions de connexions mobiles, soit 155% de la population, selon les chiffres 2025 de DataReportal, le rapport opérateurs au niveau réseau étant publié séparément par [Ookla](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025).
 
@@ -164,7 +162,7 @@ Vous prolongez le voyage au-delà du Chili ? Les guides voisins de ce site :
 - [forfaits eSIM Pérou](/peru-esim/)
 - [eSIM pour la Bolivie](/bolivia-esim/)
 
-Vous passez d'une région à l'autre ? Le meilleur opérateur d'une zone est rarement celui de la suivante — précisément le problème qu'une eSIM multi-réseaux est conçue pour résoudre.
+Vous passez d'une région à l'autre ? Le meilleur opérateur d'une zone est rarement celui de la suivante — précisément le problème qu'une eSIM multi-réseaux est conçue pour résoudre. Pour préparer chaque étape, [le comparatif des opérateurs argentins](/carriers/argentina-esim-carrier-guide/), [notre guide eSIM Pérou](/carriers/peru-esim-carrier-guide/) et [le point complet sur les réseaux boliviens](/carriers/bolivia-esim-carrier-guide/) détaillent les suites du voyage.
 
 ## Quel est le meilleur opérateur eSIM au Chili ?
 
@@ -201,7 +199,7 @@ La 4G d'Entel rend Hanga Roa et la route de l'aéroport utilisables, et l'infras
 
 Deux frictions sont propres à l'achat sur place. D'abord, **les cartes étrangères échouent souvent** dans les flux de recharge en ligne des opérateurs, qui attendent une carte chilienne ou un compte lié à un RUT — la routine fiable : des espèces ou une carte en magasin physique pour le premier achat, puis l'appli de l'opérateur ensuite. Ensuite, **prix et disponibilité à l'aéroport** : le stock des comptoirs de l'Arturo Merino Benítez (SCL) de Santiago est inconstant, et la voie fiable est un magasin d'opérateur en ville — le centre commercial Costanera Center, l'Av. Providencia ou les galeries du Paseo Ahumada. Chargez des données supplémentaires à Santiago avant de prendre l'avion pour Calama ou Puerto Montt, où les options de recharge se font rares.
 
-## Votre appareil est-il pris en charge ?
+## Comment activer votre eSIM Chili ?
 
 L'activation se fait entièrement dans les réglages de votre téléphone. Obtenez le profil depuis la [page des forfaits Chili](/chile-esim/), puis suivez le [guide pas à pas d'activation](/faq/how-to-activate-an-esim/) pour iOS ou Android. Installez en Wi-Fi chez vous plutôt qu'à l'aéroport : le profil se télécharge en une minute, reste en sommeil jusqu'à sa première connexion à un réseau chilien, et l'itinérance des données est le seul réglage que vous pourriez devoir activer après l'atterrissage.
 
@@ -256,7 +254,7 @@ Possiblement. Un appareil apporté de l'étranger obtient environ 30 jours cons�
 
 Movistar est le meilleur pari pour Puerto Natales et les entrées du parc, avec Entel juste derrière en ville. Dans le parc — les sentiers de longue randonnée, les campements, l'approche du glacier Grey — aucun opérateur n'a de couverture. Téléchargez des cartes hors ligne et dites à vos proches quand vous prévoyez d'être de nouveau en zone de signal.
 
-### Entel ou Movistar : quelle couverture ?
+### L'eSIM fonctionne-t-elle sur l'île de Pâques ?
 
 Oui, mais seulement là où vivent les gens. La 4G d'Entel rend Hanga Roa et la route de l'aéroport utilisables ; le reste de Rapa Nui est hors ligne sur tous les réseaux. Prévoyez vos envois pour la ville et ne comptez pas sur un point d'accès pour quoi que ce soit d'urgent.
 
@@ -288,6 +286,14 @@ Oui, et vous le devriez — WhatsApp est la façon dont les chauffeurs, auberges
 
 Déroulez les quatre schémas locaux ci-dessus dans l'ordre — compte à rebours IMEI, solde de la bolsa, sélection manuelle du réseau, puis frontière du forfait — et si l'échec persiste, le catalogue d'erreurs plus vaste du [guide de dépannage](/faq/esim-activation-errors-troubleshooting-guide/) couvre le reste. Ayez l'EID, le numéro de commande et une capture d'écran prêts avant de contacter l'assistance.
 
+### Pourquoi la connexion lâche-t-elle dans le métro de Santiago ?
+
+À cause de la saturation et de la profondeur des sous-sols, pas d'un défaut de votre profil : les quais et rames sont le point faible de chaque réseau aux heures de pointe, même à Entel. La parade est simple — téléchargez la ligne de métro hors ligne et vos messages partent aux stations où vous remontez à l'air libre. En surface, la couverture en bâtiment du centre-ville reste la plus profonde du pays.
+
+### Peut-on compter sur le Wi-Fi des auberges au Chili ?
+
+Pas pour l'essentiel : beaucoup d'hébergements promettent du Wi-Fi et n'en livrent pas la moitié, c'est l'une des raisons pour lesquelles les voyageurs ici consomment plus de données qu'ailleurs. Comptez sur votre forfait data pour les appels vidéo et les sauvegardes du soir, et vérifiez que votre forfait autorise le point d'accès si vous voulez équiper un ordinateur portable — avec un plafond qui varie d'un seul appareil sur les packs économiques à cinq sur un profil géré.
+
 [D'autres questions ? Consultez la FAQ complète →](/faq/)
 
 ## Quelles idées reçues sur les eSIM au Chili ?
@@ -310,14 +316,14 @@ Déroulez les quatre schémas locaux ci-dessus dans l'ordre — compte à rebour
 - **Cable.co.uk** — [l'enquête de prix sur 237 marchés](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) fixe le prix local par gigaoctet.
 - **DataReportal / GSMA Intelligence** — [les données phares digitales 2025 du Chili](https://datareportal.com/reports/digital-2025-chile) étayent les chiffres de pénétration et de connexions mobiles de cette page.
 - **SUBTEL** — [l'autorité des télécoms](https://www.subtel.gob.cl/) publie les attributions de spectre, la règle de vérification d'identité prépayée et les obligations de couverture citées plus haut ; le volet IMEI passe par [Multibanda](https://www.multibanda.cl/) et ses sociétés de certification agréées.
-- **Pages opérateurs et marché** — les prix prépayés et le comportement en magasin proviennent du [guide SIM Chili de Traveltomtom](https://traveltomtom.net/destinations/south-america/chile/sim-card-chile) et de la [vue d'ensemble des opérateurs d'Expat.cl](https://www.expat.cl/guide-chile/internet-phones/mobile-phones-chile-operators-networks-plans-buy), tous deux consultés en septembre 2026.
+- **Pages opérateurs et marché** — les prix prépayés et le comportement en magasin proviennent de la [vue d'ensemble des opérateurs d'Expat.cl](https://www.expat.cl/guide-chile/internet-phones/mobile-phones-chile-operators-networks-plans-buy) et des pages prépayées publiées par les opérateurs eux-mêmes, consultées en septembre 2026.
 - **Opensignal** — [ses rapports réseau](https://www.opensignal.com/reports) offrent une seconde lecture indépendante de l'expérience réseau. En cas de divergence éventuelle entre les deux, la page de checkout prime sur celle-ci — merci de nous signaler l'écart.
 
 Rien ici n'est une mesure à nous ; chaque chiffre est attribué à une source publique nommée. Lisez-les comme une référence au niveau du marché plutôt que comme une prévision pour un voyage unique.
 
 ## Quels opérateurs couvrent le Chili ?
 
-Plutôt que de s'enfermer dans un réseau chilien, le profil Roami circule entre Entel, Movistar et Claro à mesure que vous voyagez — 5G urbaine à Santiago, portée rurale sur la route du sud. Testez-le sur une [eSIM d'essai gratuite pour le Chili](/free-esim/), ou profitez de 20% de remise sur un forfait payant avec le code **WEB20** quand vous [commandez votre eSIM Chili](/chile-esim/).
+Plutôt que de s'enfermer dans un réseau chilien, le profil Roami circule entre Entel, Movistar et Claro à mesure que vous voyagez — 5G urbaine à Santiago, portée rurale sur la route du sud. Testez-le sur une [eSIM d'essai gratuite pour le Chili](/free-esim/), ou profitez de 20% de remise sur un forfait payant avec le code **web20** quand vous [commandez votre eSIM Chili](/chile-esim/).
 
 [Obtenir le forfait eSIM Chili](/chile-esim/)
 

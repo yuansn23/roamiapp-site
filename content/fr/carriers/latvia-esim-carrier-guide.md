@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Lettonie : quel réseau couvre Riga ?"
 description: "Roami compare les opérateurs eSIM Lettonie LMT, Tele2 et Bite sur la couverture, la vitesse et les prix, de Riga à la campagne."
-image: "img/esim/carriers/latvia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/latvia-esim-carrier-guide.webp"
 date: "2026-09-25T23:56:33+00:00"
 keywords: eSIM Lettonie, opérateurs eSIM Lettonie, acheter eSIM Lettonie, connectivité instantanée, LMT Lettonie, Tele2 Lettonie, Vieille Ville de Riga, éviter frais itinérance, eSIM voyage, voyage balte
 site_name: Roami
@@ -116,6 +116,8 @@ L'[indice mondial Speedtest d'Ookla](https://www.speedtest.net/global-index/latv
 | Kolka et la pointe de Kurzeme | Couverture aux villages, rien sur les sentiers du rivage | LMT | C'est le coin le plus vide du pays |
 | Rundāle et la frontière sud | Bon au palais et grands axes | N'importe lequel | S'efface vers la frontière lituanienne |
 
+À lire entre les lignes du tableau : même le meilleur réseau du pays s'efface vers la frontière lituanienne et sur les sentiers de Kolka — la couverture lettone suit les routes et les villes, pas la carte touristique.
+
 ### Quel opérateur choisir en Lettonie ?
 
 - **Les parcs nature sont le vrai test.** Riga et la côte sont couverts par les trois opérateurs ; les marais, la vallée de Gauja et la pointe sont là où l'avantage de LMT devient visible.
@@ -147,7 +149,7 @@ Traversez-vous les frontières ? Les mêmes analyses existent pour notre [guide 
 4. Testez les données avant de quitter le comptoir.
 5. Demandez spécifiquement l'itinérance balte si vous poursuivez vers les deux autres capitales.
 
-**Avant d'acheter :** confirmez que le téléphone est déverrouillé, notez votre EID (`*#06#`), et installez les profils pré-achetés avant le départ — l'horloge du forfait démarre quand le profil rencontre une première tour lettone, pas quand vous scannez le QR code.
+**Avant d'acheter :** confirmez que le téléphone est déverrouillé, notez votre EID (`*#06#`), et installez les profils pré-achetés avant le départ — l'horloge du forfait démarre quand le profil rencontre une première tour lettone, pas quand vous scannez le QR code. Et si vous comptez connecter un ordinateur en route, le partage de connexion puise dans le même volume — dimensionnez le forfait en conséquence.
 
 ## Votre téléphone est-il compatible eSIM Lettonie ?
 
@@ -289,17 +291,13 @@ LMT, constamment. Il tient la carte rurale — la vallée de Gauja, la côte de 
 
 Les forfaits locaux de LMT, Tele2 et Bite incluent des volumes d'itinérance balte, et en tant que produits UE ils errent aussi dans toute l'UE selon les règles roam-like-at-home. Vérifiez le volume balte/UE du forfait spécifique avant d'acheter si votre itinéraire inclut les deux autres capitales.
 
-### Un forfait letton fonctionne-t-il dans toute l'UE ?
-
-Oui, selon roam-like-at-home — une ligne lettone se comporte comme une ligne locale dans tout pays de l'UE, dans la limite du volume UE du forfait. Cela fait d'un forfait LMT ou Tele2 une option légitime pour un voyage européen multi-pays plus long, pas seulement balte.
-
 ### 10 Go couvriront-ils un voyage en Lettonie ?
 
 5–10 Go couvrent cartes, messagerie, réseaux sociaux et appels vidéo confortablement si vous vous appuyez sur le Wi-Fi d'hôtel et café. Le Wi-Fi public et hospitalier de Riga est omniprésent, aussi la plupart des visiteurs consomment moins que prévu.
 
 ### Quelles vitesses d'internet mobile en Lettonie ?
 
-Oui — [l'indice mondial d'Ookla](https://www.speedtest.net/global-index/latvia) place la Lettonie autour de la 35e place mondiale avec des médianes mobiles proches de 124 Mbps, au-dessus de la moyenne mondiale et plus rapide que plusieurs marchés ouest-européens plus grands. L'expérience urbaine est excellente ; l'expérience campagne dépend du réseau sur lequel vous êtes debout.
+[l'indice mondial d'Ookla](https://www.speedtest.net/global-index/latvia) place la Lettonie autour de la 35e place mondiale avec des médianes mobiles proches de 124 Mbps, au-dessus de la moyenne mondiale et plus rapide que plusieurs marchés ouest-européens plus grands. L'expérience urbaine est excellente ; l'expérience campagne dépend du réseau sur lequel vous êtes debout.
 
 ### La 5G est-elle bonne en Lettonie, et sur quel réseau ?
 
@@ -353,8 +351,8 @@ Chaque chiffre ici est une mesure tierce indépendante ; votre propre expérienc
 
 ## Configurez vos données Lettonie à Riga
 
-Achetez en ligne, sautez entièrement la file du passeport, et laissez le profil choisir le plus fort de LMT, Tele2 ou Bite à mesure que vous voyagez. Commencez par un [test de réseau gratuit](/free-esim/) ou choisissez un forfait sur la [page eSIM Lettonie](/latvia-esim/). Cap vers le nord à travers les Baltes ? Notre [guide eSIM Estonie](/carriers/estonia-esim-carrier-guide/) prend l'itinéraire.
+Achetez en ligne, sautez entièrement la file du passeport, et laissez le profil choisir le plus fort de LMT, Tele2 ou Bite à mesure que vous voyagez. Commencez par un [test de réseau gratuit](/free-esim/) ou choisissez un forfait sur la [page eSIM Lettonie](/latvia-esim/). Cap vers le nord à travers les Baltes ? Notre [guide eSIM pour l'Estonie](/carriers/estonia-esim-carrier-guide/) prend l'itinéraire.
 
 [Choisir un forfait Lettonie](/latvia-esim/) · [Essayer l'essai gratuit](/free-esim/) · [Page eSIM Lettonie](/latvia-esim/)
 
-Le conseil de Roami est simple : arrivez connecté. Commencez par le [test sans frais](/free-esim/) pour échantillonner la couverture des réseaux locaux sans risque, puis utilisez le code **WEB20** sur un forfait Roami complet quand l'essai vous convainc.
+Le conseil de Roami est simple : arrivez connecté. Commencez par le [test sans frais](/free-esim/) pour échantillonner la couverture des réseaux locaux sans risque, puis utilisez le code **web20** sur un forfait Roami complet quand l'essai vous convainc.

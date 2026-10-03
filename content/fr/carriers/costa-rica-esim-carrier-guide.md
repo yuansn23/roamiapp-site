@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Costa Rica : quel réseau choisir ?"
 description: "Claro va plus vite en ville, Kölbi couvre mieux les parcs : Roami explique quelle eSIM Costa Rica choisir pour votre voyage."
-image: "img/esim/carriers/costa-rica-esim-carrier-guide.jpg"
+image: "img/esim/carriers/costa-rica-esim-carrier-guide.webp"
 date: "2026-09-27T07:00:48+00:00"
 keywords: eSIM Costa Rica opérateurs, opérateurs eSIM Costa Rica, eSIM Claro, eSIM Kölbi, eSIM ICE, eSIM Liberty Costa Rica, couverture 5G Costa Rica, couverture eSIM rurale Costa Rica, eSIM Costa Rica prépayée, meilleur opérateur eSIM Costa Rica
 site_name: Roami
@@ -146,9 +146,9 @@ La plupart des visiteurs circulent sur une poignée de routes nommées, et la co
 
 **Route 27 et la Costanera (route 34).** La route 27 est l'autoroute à péage qui descend de San José vers Caldera, et la route 34 — la Costanera — la longe le long de la côte à travers Jacó, Parrita et Quepos. C'est le plus long trajet du pays le mieux couvert : vous tiendrez une connexion de données sur presque toute la longueur, ce qui explique précisément pourquoi tant d'itinéraires l'utilisent. Gardez de la monnaie ou une carte pour les péages, et attendez-vous à des trous sur les routes secondaires entre les villes côtières plutôt que sur les autoroutes elles-mêmes.
 
-**Route 32 vers Limón.** L'autoroute San José–Limón traverse le **parc national Braulio Carrillo**, et pendant des années, la portion au-dessus de la jungle était tristement célèbre pour le brouillard, les glissements de terrain et l'absence totale de signal. Cela change. ICE et sa filiale CNFL ont lancé en juin 2025 un projet de ₡7,5 milliards pour apporter l'éclairage et la couverture cellulaire sur une portion de 26 km, avec une achèvement visé au **20 février 2026**, les premiers segments passant en service entre le tunnel Zurquí et le kilomètre 27, et du fleuve Sucio au téléphérique de Guápiles ([TicosLand](https://ticosland.com/landmark-route-32-upgrade-nears-completion-bringing-light-and-connectivity-to-caribbean-corridor/)). Même ainsi, conduisez-y de jour et téléchargez des cartes hors ligne pour la section de montagne : Zurquí est le seul tunnel routier du pays, et les tunnels coupent les données chez tous les opérateurs.
+**Route 32 vers Limón.** L'autoroute San José–Limón traverse le **parc national Braulio Carrillo**, et pendant des années, la portion au-dessus de la jungle était tristement célèbre pour le brouillard, les glissements de terrain et l'absence totale de signal. Cela change. ICE et sa filiale CNFL ont lancé en juin 2025 un projet de ₡7,5 milliards pour apporter l'éclairage et la couverture cellulaire sur une portion de 26 km, avec une achèvement visé au **20 février 2026**, les premiers segments passant en service entre le tunnel Zurquí et le kilomètre 27, et du fleuve Sucio au téléphérique de Guápiles. Même ainsi, conduisez-y de jour et téléchargez des cartes hors ligne pour la section de montagne : Zurquí est le seul tunnel routier du pays, et les tunnels coupent les données chez tous les opérateurs.
 
-**Le bac Puntarenas–Paquera.** Si votre itinéraire traverse le golfe de Nicoya vers la péninsule méridionale — Montezuma, Santa Teresa, Mal País — la traversée est le raccourci pratique, économisant des heures de contournement du golfe. [Naviera Tambor](http://www.navieratambor.com/) exploite la ligne depuis 1992, une traversée de 11 milles nautiques avec trois navires (Tambor II, III et IV) transportant passagers à pied et véhicules. Deux notes de connectivité : attendez-vous à ce que le signal aille et vienne en mer, et rappelez-vous que la place pour les véhicules se vend en haute saison, réservez donc à l'avance si vous continuez en voiture. Après Paquera, les routes vers Montezuma et Santa Teresa sont physiquement rudimentaires, alors ayez vos cartes téléchargées avant de faire la queue pour l'embarquement.
+**Le bac Puntarenas–Paquera.** Si votre itinéraire traverse le golfe de Nicoya vers la péninsule méridionale — Montezuma, Santa Teresa, Mal País — la traversée est le raccourci pratique, économisant des heures de contournement du golfe. Naviera Tambor exploite la ligne depuis 1992, une traversée de 11 milles nautiques avec trois navires (Tambor II, III et IV) transportant passagers à pied et véhicules. Deux notes de connectivité : attendez-vous à ce que le signal aille et vienne en mer, et rappelez-vous que la place pour les véhicules se vend en haute saison, réservez donc à l'avance si vous continuez en voiture. Après Paquera, les routes vers Montezuma et Santa Teresa sont physiquement rudimentaires, alors ayez vos cartes téléchargées avant de faire la queue pour l'embarquement.
 
 **Waze, Google Maps et préparation hors ligne.** Les zones hors ligne de Google Maps sont l'outil fiable ici : téléchargez tout le pays, ou au moins Nicoya, Osa et les hautes terres centrales, sur le Wi-Fi de l'hôtel. Waze est le meilleur outil de trafic en direct et d'adressage là où vous captez, et son propre mode hors ligne est limité en comparaison — traitez-le donc comme un complément. Cela compte le plus sur les pistes intérieures de la péninsule de Nicoya, sur l'approche d'Osa et sur le col de montagne de la route 32, trois endroits où un téléphone sans barres doit encore vous dire quelle fourche prendre.
 
@@ -261,7 +261,7 @@ Installez le profil à la maison sur le Wi-Fi avant de partir — le Wi-Fi des a
 
 Quand les données échouent, passez en revue les suspects habituels dans l'ordre : interrupteur d'itinérance désactivé, mauvaise ligne de données sélectionnée, puis les correctifs réseau dans notre [guide de dépannage des erreurs d'activation](/faq/esim-activation-errors-troubleshooting-guide/). Une subtilité costaricienne : « Aucun signal » au fond de Corcovado, de Tortuguero ou du haut Talamanca n'est pas un problème de réglages — aucun profil ne répare la physique, alors dirigez-vous vers la route côtière ou une ville.
 
-### Combien coûtent les données au Costa Rica ?
+### Que vérifier avant de prendre le vol ?
 
 La plupart des lignes ci-dessous sont universelles ; les deux qui décident d'une arrivée au Costa Rica sont l'habitude d'enregistrement en boutique que Kölbi utilise pour son « chip turista » et les cartes hors ligne pour les parcs et l'approche d'Osa.
 
@@ -274,7 +274,7 @@ La plupart des lignes ci-dessous sont universelles ; les deux qui décident d'un
 | 5 | Ligne de données et itinérance réglées | eSIM sélectionnée pour les données mobiles, itinérance activée pour cette ligne seulement |
 | 6 | Cartes hors ligne téléchargées | Zone hors ligne Google Maps pour le Costa Rica enregistrée, plus votre premier lodge épinglé |
 
-### Les données mobiles sont-elles chères au Costa Rica ?
+### Comment activer une SIM selon l'opérateur ?
 
 La séquence d'installation générique — ajouter l'eSIM, scanner le QR, nommer la ligne, la définir comme ligne de données, activer l'itinérance des données — se trouve dans notre [guide d'activation eSIM pas à pas](/faq/how-to-activate-an-esim/). Ce qui diffère selon l'opérateur au Costa Rica :
 
@@ -336,7 +336,7 @@ Les eSIM Costa Rica seules s'arrêtent à la frontière, et les deux passages te
 Deux choses à régler avant l'un ou l'autre passage :
 
 - **Formalités de sortie et espèces.** La taxe de sortie terrestre du Costa Rica se règle avant d'atteindre l'immigration, et le système attend une banque locale ou un guichet parfois hors service — accomplissez-la donc à l'avance plutôt qu'à la barrière. Portez des colones et de petits billets en dollars américains.
-- **Un plan pour vos données.** Si votre route franchit une frontière, achetez un profil qui liste chaque pays du parcours plutôt qu'un forfait mono-pays. Pour les itinéraires terrestres, consultez le [guide eSIM Panama](/carriers/panama-esim-carrier-guide/) séparé de Roami, le [guide opérateurs Guatemala](/carriers/guatemala-esim-carrier-guide/) plus au nord, ou les [forfaits Mexique](/mexico-esim/) si votre route remonte l'isthme. Un profil multi-pays Amérique centrale bat un rachat à chaque frontera.
+- **Un plan pour vos données.** Si votre route franchit une frontière, achetez un profil qui liste chaque pays du parcours plutôt qu'un forfait mono-pays. Pour les itinéraires terrestres, consultez le [guide eSIM Panama](/carriers/panama-esim-carrier-guide/) séparé de Roami, le [guide opérateurs Guatemala](/carriers/guatemala-esim-carrier-guide/) plus au nord, [notre comparatif des réseaux nicaraguayens](/carriers/nicaragua-esim-carrier-guide/) pour Peñas Blancas, ou les [forfaits Mexique](/mexico-esim/) avec [le guide des opérateurs mexicains](/carriers/mexico-esim-carrier-guide/) si votre route remonte l'isthme. Un profil multi-pays Amérique centrale bat un rachat à chaque frontera.
 
 ## Questions fréquentes sur les eSIM au Costa Rica
 
@@ -350,13 +350,13 @@ Selon les médianes S1 2025 de Claro, oui : 84,51 Mbps contre 36,79 pour Kölbi.
 
 ### Les boutiques demandent-elles une pièce d'identité pour vendre des SIM au Costa Rica ?
 
-Oui. Les trois opérateurs enregistrent les SIM prépayées contre votre passeport dans le cadre SUTEL. Apportez le document physique ; les copies sont parfois refusées.
+Oui. Les trois opérateurs enregistrent chaque carte SIM prépayée contre votre passeport dans le cadre SUTEL. Apportez le document physique ; les copies sont parfois refusées.
 
 ### Où fonctionne la 5G au Costa Rica ?
 
 Par fragments seulement. L'enchère du spectre s'est conclue en janvier 2025, Liberty a lancé le premier réseau 5G standalone mi-2025 et Claro construit, mais la couverture se limite à des parties des grandes villes. Votre eSIM Costa Rica passera sa vie en 4G, qui est rapide et bien répartie.
 
-### En quoi consiste l'enregistrement d'une SIM au Costa Rica ?
+### Mon téléphone est-il compatible avec les réseaux costariciens ?
 
 Si elle est déverrouillée et compatible eSIM, essentiellement oui — les opérateurs costariciens utilisent des bandes LTE courantes (2/4/5/7/12/17) partagées dans les Amériques. Les modèles d'iPhone du marché chinois n'ont pas d'eSIM du tout. Vérifiez votre modèle exact avec le [vérificateur de compatibilité eSIM](/compatibility/) avant d'acheter.
 
@@ -368,13 +368,17 @@ Presque jamais. Les SIM des opérateurs locaux se provisionnent automatiquement 
 
 Une eSIM Costa Rica seule s'arrête à la frontière. Pour les itinéraires terrestres, Roami propose des guides pays séparés et des forfaits — consultez notre [guide eSIM opérateurs Guatemala](/carriers/guatemala-esim-carrier-guide/), les [options eSIM Panama](/panama-esim/) ou les [forfaits eSIM Mexique](/mexico-esim/), ou choisissez un profil multi-pays Amérique centrale si votre route franchit plusieurs frontières.
 
+### Faut-il prévoir des espèces pour une SIM à l'aéroport ?
+
+Oui, en colones. La borne Kölbi de SJO n'accepte que le liquide, alors passez d'abord au distributeur si vous atterrissez avec seulement des dollars — et gardez une réserve pour les recharges, car la plupart des petits points de vente (pulperías, pharmacies) ne prennent pas les cartes étrangères. C'est aussi une raison de plus de préférer un forfait data payé d'avance : aucune monnaie locale à trouver à l'atterrissage.
+
+### Le Wi-Fi des lodges suffit-il dans les parcs ?
+
+Pas toujours — mais c'est mieux que rien. Beaucoup de lodges en lisière de Corcovado font désormais de la publicité pour un Wi-Fi satellite précisément parce que le signal cellulaire y est absent, et le Wi-Fi des hébergements devient alors votre seul canal pour les confirmations de navettes et les messages de guides via WhatsApp. Le partage de connexion depuis votre eSIM complète ce dispositif sur la route, mais dans les zones mortes, aucun forfait ne remplace la physique : téléchargez cartes et billets en ville.
+
 ### Pourquoi mon eSIM affiche « Kölbi » ou « ICE » alors que j'ai acheté auprès d'une marque voyage ?
 
 Parce que les eSIM voyage circulent sur les réseaux hôtes locaux. Voir ICE/Kölbi, Claro ou Liberty comme nom d'opérateur est normal et attendu — cela vous dit quelles antennes vous utilisez réellement.
-
-### Claro ou Kölbi : quelle couverture ?
-
-Kölbi, pour la portée, et ce n'est même pas serré sur les routes d'accès — il exploite la plus grande empreinte et c'est le réseau auquel les lodges pensent quand ils disent qu'un seul opérateur fonctionne là-bas. Mais « le meilleur dans le parc » surestime ce que fait n'importe quel opérateur : dans Corcovado, sur les canaux de Tortuguero ou au-dessus de la ligne des nuages du Talamanca, il n'y a de signal sur aucun réseau, et cela relève de la géographie plutôt que d'une faiblesse d'opérateur.
 
 ### Une SIM prépayée est-elle moins chère qu'une eSIM Costa Rica ?
 
@@ -383,10 +387,6 @@ Au gigaoctet, oui — les données locales coûtent en moyenne **1,86 USD/Go**, 
 ### Un numéro de téléphone costaricien est-il nécessaire ?
 
 Seulement si vous devez absolument passer ou recevoir des appels locaux ou recevoir des SMS de services costariciens. Tout ce qui est pratique — confirmations de navettes, messages de guides, check-ins de lodges — passe par WhatsApp, qui fonctionne très bien sur une eSIM data uniquement. Si vous avez réellement besoin d'un numéro +506 pour un long séjour, une banque ou un bail, achetez une ligne prépayée locale et gardez l'eSIM pour les données.
-
-### Que retenir de la couverture 5G au Costa Rica ?
-
-Rarement. Le réseau 5G Standalone de Liberty et le déploiement de Claro couvrent des parties des villes et quelques corridors touristiques, et la 5G de Kölbi est encore un pilote. Votre eSIM passera presque tout son temps en 4G LTE, qui est rapide et bien répartie. Choisissez votre opérateur sur la couverture là où vous allez, pas sur une étiquette 5G qui ne sera peut-être pas là à votre arrivée.
 
 ## Nos sources
 
@@ -401,8 +401,8 @@ Rarement. Le réseau 5G Standalone de Liberty et le déploiement de Claro couvre
 - La communication 5G de Claro et la gamme prépayée Superpack sont décrites sur [Claro Costa Rica](https://www.claro.cr/).
 - Le contexte régional et parcs nationaux derrière les notes de destination vient de [Visit Costa Rica (ICT)](https://www.visitcostarica.com/en).
 - Les services aux arrivants, y compris le Wi-Fi gratuit mentionné dans les notes d'activation, sont documentés par l'[aéroport international Juan Santamaría](https://www.sjoairport.com/).
-- La traversée Puntarenas–Paquera décrite dans la section conduite est exploitée par [Naviera Tambor](http://www.navieratambor.com/).
-- Le projet d'éclairage et de couverture de ₡7,5 milliards d'ICE sur l'autoroute San José–Limón est rapporté par [TicosLand](https://ticosland.com/landmark-route-32-upgrade-nears-completion-bringing-light-and-connectivity-to-caribbean-corridor/). Deux sources indépendantes au minimum — c'est la barre pour tout chiffre sur cette page.
+- La traversée Puntarenas–Paquera décrite dans la section conduite est exploitée par la compagnie Naviera Tambor.
+- Le projet d'éclairage et de couverture de ₡7,5 milliards d'ICE sur l'autoroute San José–Limón, avec un achèvement visé au 20 février 2026, a été annoncé par ICE et relayé par la presse costaricienne. Deux sources indépendantes au minimum — c'est la barre pour tout chiffre sur cette page.
 
 Les chiffres sont des mesures de tiers, pas nos propres tests ; votre résultat variera selon l'appareil, la bande et le nombre de personnes partageant l'antenne la plus proche.
 
@@ -416,4 +416,4 @@ Commandez chez vous, scannez le QR une fois, et circulez sur le réseau local le
 
 [eSIM Costa Rica d'essai gratuite](/free-esim/)
 
-Et quand vous êtes prêt à acheter : le [test réseau gratuit](/free-esim/) de Roami est le point de départ sans risque pour le Costa Rica, avec **WEB20** offrant 20 % de réduction sur votre premier forfait payant si vous décidez de rester connecté tout le voyage.
+Et quand vous êtes prêt à acheter : le [test réseau gratuit](/free-esim/) de Roami est le point de départ sans risque pour le Costa Rica, avec **web20** offrant 20 % de réduction sur votre premier forfait payant si vous décidez de rester connecté tout le voyage.

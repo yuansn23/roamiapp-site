@@ -1,14 +1,24 @@
 ---
 title: "Opérateurs eSIM Nicaragua : quel réseau choisir ?"
 description: "Roami compare Claro et Tigo au Nicaragua : couverture, vitesse, prix des eSIM prépayées et les formalités d'enregistrement."
-image: "img/esim/carriers/nicaragua-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nicaragua-esim-carrier-guide.webp"
 date: "2026-09-24T20:03:55+00:00"
-keywords: Nicaragua eSIM carriers, Claro eSIM, Tigo eSIM, Nicaragua eSIM network, eSIM Nicaragua prepaid, best eSIM carrier Nicaragua, Nicaragua travel eSIM
+keywords: opérateurs eSIM Nicaragua, eSIM Claro, eSIM Tigo, réseau eSIM Nicaragua, eSIM Nicaragua prépayée, meilleur opérateur eSIM Nicaragua, eSIM voyage Nicaragua
+site_name: Roami
+brand_name: Roami
+breadcrumb_items:
+- name: Roami
+  url: /
+- name: Guide eSIM Nicaragua
+  url: ''
+hero_badge: "Les réseaux mobiles du Nicaragua, évalués pour votre voyage"
+hero_subtitle_main: "Claro et Tigo sur le papier, et sur le terrain"
+
 
 
 ---
 
-## Quelle pièce d'identité faut-il pour acheter une carte SIM ?
+## eSIM Nicaragua : Claro ou Tigo, et comment décider ?
 
 Une décision eSIM Nicaragua commence par un fait inhabituel : il n'y a pas de longue liste d'opérateurs à comparer. Deux réseaux — **Claro** et **Tigo** — se partagent essentiellement tout le marché, aucun ne vend d'eSIM directement aux visiteurs, et toute ligne achetée localement passe par une étape d'enregistrement. Ce qui compte à la place est sur quel réseau votre profil itinère, si votre itinéraire inclut la côte caraïbe, et comment vous gérez l'enregistrement SIM. C'est une décision différente de la plupart de l'Amérique latine, et ce guide la suit. Nous gardons cette page Nicaragua à jour à mesure que les politiques opérateur évoluent, car le pire conseil en tech de voyage est un guide que personne n'a touché depuis deux ans.
 
@@ -16,7 +26,7 @@ Une décision eSIM Nicaragua commence par un fait inhabituel : il n'y a pas de l
 
 Les chiffres nationaux fixent les attentes. Le [Digital 2025 : Nicaragua de DataReportal](https://datareportal.com/reports/digital-2025-nicaragua) comptait **4,47 millions d'internautes au début 2025 — 64,1 % de pénétration, bien sous la moyenne régionale — et 8,71 millions de connexions mobiles**, environ 125 pour 100 personnes. La [comparaison de prix des données mondiales de Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) classe le Nicaragua comme **le pays le moins cher d'Amérique centrale pour les données mobiles à environ USD 0,55 par gigaoctet**, et l'[indice Speedtest Global d'Ookla pour le Nicaragua](https://www.speedtest.net/global-index/nicaragua) montre des téléchargements mobiles médians quelque part entre environ 28 et 41 Mbps selon le jeu de mesure, classé dans les années 90 mondiales — 4G utilisable, pas 5G rapide.
 
-**La version courte :** Claro détient environ la moitié du marché et la carte la plus large — c'est le seul réseau sensé pour les îles Corn, l'autre versant d'Ometepe et la plupart des routes rurales. Tigo rivalise fort à Managua et dans les villes du Pacifique. CooTel et Yota existent mais sont de niche. Aucun des deux opérateurs n'offre d'eSIM touristique en libre-service. Vos options réalistes sont une **eSIM de voyage qui itinère sur Claro ou Tigo** — instantanée, sans enregistrement, environ 3–7 $ par gigaoctet — ou une **carte SIM Claro ou Tigo locale avec enregistrement passeport**. Cette route coûte environ un dollar pour la puce, quelques dollars par gigaoctet, plus un vrai numéro +505. Achetez le profil de voyage pour les voyages de moins de deux semaines ; achetez local pour un mois ou la Caraïbe. [Essayez l'eSIM gratuite Roami](/free-esim/) pour tester la couverture, et utilisez le code **WEB20** pour 20 % de remise sur tout forfait payant — [vérifiez la couverture pays actuelle](/plans/) d'abord.
+**La version courte :** Claro détient environ la moitié du marché et la carte la plus large — c'est le seul réseau sensé pour les îles Corn, l'autre versant d'Ometepe et la plupart des routes rurales. Tigo rivalise fort à Managua et dans les villes du Pacifique. CooTel et Yota existent mais sont de niche. Aucun des deux opérateurs n'offre d'eSIM touristique en libre-service. Vos options réalistes sont une **eSIM de voyage qui itinère sur Claro ou Tigo** — instantanée, sans enregistrement, environ 3–7 $ par gigaoctet — ou une **carte SIM Claro ou Tigo locale avec enregistrement passeport**. Cette route coûte environ un dollar pour la puce, quelques dollars par gigaoctet, plus un vrai numéro +505. Achetez le profil de voyage pour les voyages de moins de deux semaines ; achetez local pour un mois ou la Caraïbe. [Essayez l'eSIM gratuite Roami](/free-esim/) pour tester la couverture, et utilisez le code **web20** pour 20 % de remise sur tout forfait payant — [vérifiez la couverture pays actuelle](/plans/) d'abord.
 
 ## Sur quels réseaux nicaraguayens fonctionne votre eSIM ?
 
@@ -54,7 +64,7 @@ Ces chiffres proviennent de l'[enquête SIM Nicaragua de A Broken Backpack](http
 
 Deux comportements Claro valent la peine d'être connus avant de vous engager. D'abord, **les packs combo regroupent WhatsApp et la messagerie Facebook hors de l'allocation de données** dans bien des cas, ce qui compte plus ici que dans la plupart des pays car WhatsApp est le moyen par lequel les guesthouses, chauffeurs de navette et opérateurs de tour font leur affaire. Ensuite, l'avantage rural de Claro est réel mais pas magique : c'est la différence entre une barre et aucune sur la route vers San Carlos, pas entre 4G et 5G.
 
-## Qui sont les opérateurs locaux, Claro et Tigo ?
+## Tigo en pratique : que vaut-il face à Claro ?
 
 Le discours de Tigo est l'opposé de celui de Claro. Il est le plus fort là où il y a le plus de gens — Managua, Masaya, Granada, León, le couloir du Pacifique — et ses forfaits sont agressivement tarifés pour les utilisateurs urbains qui restent surtout dans la couverture.
 
@@ -137,9 +147,9 @@ La plupart des problèmes de connectivité nicaraguayenne se décident avant le 
 
 La seule chose que vous ne pouvez pas corriger plus tard est un achat en ligne refusé avec carte étrangère. Si vous prévoyez d'acheter une eSIM de voyage, complétez l'achat à la maison où vous pouvez réessayer avec une seconde carte en minutes plutôt qu'à 23h à l'arrivée sur Wi-Fi d'hôtel.
 
-## Quel est le meilleur opérateur eSIM Nicaragua : Claro ou Tigo ?
+## Combien de données consomme votre voyage au Nicaragua ?
 
-Choisir une taille de pack est de l'devinage à moins d'avoir une idée grossière de ce que coûtent les applis. Les chiffres ci-dessous sont les [estimations par appli publiées par le détaillant eSIM eSIMFOX](https://www.esimfox.com/en/products/esim-united-kingdom-uk) — traitez-les comme une base de planification, et rappelez que cartes et photos sont généralement un drain plus petit que la vidéo.
+Choisir une taille de pack est de la devinette à moins d'avoir une idée grossière de ce que coûtent les applis. Les chiffres ci-dessous sont les [estimations par appli publiées par le détaillant eSIM eSIMFOX](https://www.esimfox.com/en/products/esim-united-kingdom-uk) — traitez-les comme une base de planification, et rappelez que cartes et photos sont généralement un drain plus petit que la vidéo.
 
 | Ce que vous faites | Données approximatives |
 |:---|:---|
@@ -164,7 +174,7 @@ Deux plans, deux chronologies. Tous deux prennent environ le même temps total ;
 
 **Avec une carte SIM locale.** Immigration et bagages d'abord, puis recherche du comptoir Claro ou Tigo — rapide si votre vol atterrit en milieu d'après-midi, incertain s'il atterrit après 21h. L'enregistrement prend dix à quinze minutes une fois réellement en tête de file, puis vous choisissez un pack, payez en espèces, et faites un test de vitesse avant de partir. Réaliste, vous êtes connecté quelque part entre quarante minutes et deux heures après l'atterrissage.
 
-L'hybride est la configuration sur laquelle atterrissent la plupart des voyageurs expérimentés : **eSIM de voyage pour le jour d'arrivée, carte SIM locale achetée au jour deux ou trois** une fois le décalage horaire passé et le comptoir à cinq minutes de la guesthouse plutôt qu'un détour d'aéroport avec bagages. Gardez les deux — l'eSIM comme ligne de secours, le numéro local pour ce qui en a besoin un.
+L'hybride est la configuration sur laquelle atterrissent la plupart des voyageurs expérimentés : **eSIM de voyage pour le jour d'arrivée, carte SIM locale achetée au jour deux ou trois** une fois le décalage horaire passé et le comptoir à cinq minutes de la guesthouse plutôt qu'un détour d'aéroport avec bagages. Gardez les deux — l'eSIM comme ligne de secours, le numéro local pour ce qui en a besoin.
 
 ## Comment acheter une eSIM Nicaragua ou carte SIM locale à Managua ?
 
@@ -203,6 +213,8 @@ Les statistiques nationales décrivent un pays à connectivité réelle mais in�
 | Hautes terres du nord (Estelí, Jinotega, Matagalpa) | 4G utilisable dans les villes, irrégulière sur les routes café entre elles |
 | Côte caraïbe (Bluefields, Pearl Lagoon, Puerto Cabezas) | 3G au mieux en ville, EDGE dehors ; Grande Corn a la 4G Claro dans la ville principale, Petite Corn surtout 3G ou rien |
 
+Le fil conducteur du tableau mérite d'être lu à voix haute : partout hors du couloir du Pacifique, la 3G est le plafond réel, et Claro est le seul nom qui revient dans la moitié des lignes — c'est toute la raison pour laquelle les profils de voyage rattachés à Claro dominent ce marché.
+
 La côte caraïbe est un monde de connectivité vraiment différent, et le conseil de niveau guide est de la traiter comme hors ligne d'abord. Les investissements d'infrastructure arrivent. Le programme de communications caraïbes du gouvernement a amené de la nouvelle fibre dans la région, incluant 115 kilomètres profitant à des dizaines de milliers de résidents annoncés début 2024. Mais les ouragans restent la réalité fixe de la région, et quand la tempête Julia a traversé en 2022, toute la côte caraïbe a perdu courant et télécoms pendant une période. Sur le terrain, cela signifie 4G Claro confinée à la ville de Grande Corn, EDGE et prière sur Petite Corn, et **aucune eSIM de voyage ne peut conjurer des tours là où il n'y en a aucune**. Téléchargez cartes, confirmations et horaires de bateau à Managua avant de voler vers Bluefields ou les îles.
 
 Une note comportementale appartient ici plutôt que dans une section opérateur : la connectivité sur le versant du Pacifique est assez bonne pour que la plupart de la logistique de voyage passe par WhatsApp — mais lors de périodes de tension politique, les visiteurs ont rapporté des ralentissements sur certaines plateformes. Gardez des copies hors ligne de tout ce qui est important, et faites de l'eSIM la commodité plutôt que le plan.
@@ -224,7 +236,7 @@ Le Nicaragua récompense l'adaptation du forfait à la route, car la connectivit
 | Séjour d'un mois+ ou visites répétées | Carte SIM Claro locale, packs combo | Moins cher au gigaoctet et un numéro +505 utilisable | Vous devez atteindre physiquement un comptoir d'enregistrement |
 | Voyage onward vers Costa Rica ou Honduras | Un profil multi-pays | Un forfait Nicaragua uniquement meurt à la frontière | Voyez les notes de traversée ci-dessous avant d'acheter |
 
-## Quels opérateurs sont en lice au Nicaragua ?
+## Faut-il toucher aux réglages APN au Nicaragua ?
 
 Vous ne devriez pas en avoir besoin. Une eSIM de voyage est livrée avec ses paramètres de point d'accès préchargés dans le profil — modifier un APN sur une ligne fonctionnelle est la panne auto-infligée la plus courante qui existe. Une carte SIM Claro ou Tigo achetée en magasin est configurée par le personnel lors de l'activation, et les applis propres des opérateurs (Mi Claro, Mi Tigo) gèrent la gestion des forfaits sans toucher aux réglages réseau.
 
@@ -243,7 +255,7 @@ Où recharger, par ordre de fiabilité :
 
 Trois habitudes gardent une ligne locale utilisable. D'abord, **rechargez avant l'expiration du pack**, pas après — certains forfaits réinitialisent la fenêtre de validité seulement quand un nouveau pack est acheté. Ensuite, **gardez la carte SIM dans le téléphone**. Retirer une carte SIM locale pour quelques jours et la laisser reposer est comment les lignes dérivent vers la désactivation. Troisièmement, **photographiez le reçu de confirmation du pack** que le comptoir vous donne ; si la ligne est coupée plus tard ou le pack contesté, ce reçu est la preuve.
 
-Pour la route eSIM de voyage la même discipline s'applique sous forme plus simple : votre pack a une validité fixe à partir du moment où le profil se connecte pour la première fois, aussi planifiez la longueur du voyage par rapport à la longueur du pack plutôt que d'supposer que vous pouvez le mettre en pause en cours de route.
+Pour la route eSIM de voyage la même discipline s'applique sous forme plus simple : votre pack a une validité fixe à partir du moment où le profil se connecte pour la première fois, aussi planifiez la longueur du voyage par rapport à la longueur du pack plutôt que de supposer que vous pouvez le mettre en pause en cours de route.
 
 ## Comment activer une eSIM Nicaragua et corriger les pannes ?
 
@@ -303,19 +315,27 @@ Presque certainement. La LTE de Claro utilise 1700 MHz (bande 4) et celle de Tig
 
 Dans les centres-villes, partiellement — Bluefields et Pearl Lagoon sont au mieux 3G, et Puerto Cabezas sur la côte nord est similaire, avec Claro le réseau le plus présent. Les eSIM de voyage itinérant sur Claro se comportent comme toute ligne locale : utilisable en ville, absente entre les agglomérations. Pour les trajets en bateau sur le Río Escondido ou par voie terrestre vers Pearl Lagoon, supposez hors ligne.
 
+### Puis-je me contenter du Wi-Fi des hôtels au Nicaragua ?
+
+Pour vérifier ses mails, souvent ; pour organiser le voyage, rarement. Les guesthouses fonctionnent sur des routeurs qui s'arrêtent avec le courant — et les coupures de ville sont régulières hors Managua —, le Wi-Fi de ferry n'est pas un plan, et la logistique locale (navettes, tours, hébergement) passe par WhatsApp, qui exige des données. Une eSIM de voyage reste la seule connexion que vous contrôlez ; le Wi-Fi est un complément, pas un forfait data de remplacement.
+
+### Que se passe-t-il si mon vol atterrit tard à Managua ?
+
+Les heures de comptoir s'éclaircissent après les vols tardifs, et l'enregistrement passeport peut vous laisser attendre quarante minutes à deux heures avant d'être en ligne. Avec un profil de voyage déjà installé, le scénario disparaît : l'eSIM s'attache à son réseau partenaire (roaming sur Claro dans la plupart des cas) dès que l'avion touche le tarmac, avant même l'immigration, et vous commandez votre navette depuis la file des taxis.
+
 ### Comment recharger une eSIM Nicaragua ?
 
 Rarement. Les portails de recharge en ligne et flux de paiement locaux rejettent fréquemment les cartes étrangères, et les petits vendeurs sont espèces en córdobas. La méthode fiable est cartes de recharge ou recharges comptoir — vendues dans supermarchés, pharmacies, magasins SINSA et pulperías nationalement — aussi ayez de petites coupures, et laissez une eSIM de voyage data uniquement gérer la longue traîne si le paiement par carte vous importe.
 
-### Claro vs Tigo : lequel est le moins cher ?
+### Mon eSIM Nicaragua fonctionne-t-elle au Costa Rica ou au Honduras ?
 
 Rien d'automatique — un forfait Nicaragua uniquement cesse simplement de fonctionner une fois hors de la couverture nicaraguayenne, et votre téléphone affichera pas de service plutôt qu'une erreur. Un profil régional Amérique latine ou Amérique centrale garde le fonctionnement à travers la frontière. Quoi qu'il en soit, connaissez votre situation SIM suivante avant de monter dans le bus à Peñas Blancas ou Guasaule.
 
-### Qui sont les opérateurs mobiles nicaraguayens ?
+### Ai-je besoin d'un numéro local +505 au Nicaragua ?
 
-Cela aide, mais ce n'est pas obligatoire. Les entreprises nicaraguayennes utilisent écrasante WhatsApp, qui fonctionne bien sur une eSIM data uniquement une fois en ligne — vous messagez depuis votre numéro local. Une ligne +505 compte surtout pour les appels voix locaux, les services liés à l'enregistrement, et pour quiconque reste assez longtemps pour vouloir une identité locale.
+Cela aide, mais ce n'est pas obligatoire. Les entreprises nicaraguayennes utilisent écrasamment WhatsApp, qui fonctionne bien sur une eSIM data uniquement une fois en ligne — vous messagez depuis votre numéro habituel. Une ligne +505 compte surtout pour les appels voix locaux, les services liés à l'enregistrement, et pour quiconque reste assez longtemps pour vouloir une identité locale.
 
-### Comment passer du code QR à la connexion ?
+### Que faire si votre eSIM Nicaragua ne fonctionne pas ?
 
 Suivez les quatre schémas spécifiques Nicaragua dans l'ordre — ligne enregistrée, sélection de réseau forcée, repli 3G sur les îles, et patience coupure courant — puis parcourez le [guide de dépannage](/faq/esim-activation-errors-troubleshooting-guide/). Ayez votre EID, numéro de commande et une capture prêts avant de contacter le support.
 
@@ -331,7 +351,7 @@ Mesures tierces uniquement. Les prix prépayés locaux sont des chiffres de vent
 
 ## Quel forfait eSIM Nicaragua choisir ?
 
-Deux réseaux, un seul comptoir d'enregistrement, zéro raison de passer le jour d'arrivée dans une file. Installez un profil qui itinère sur la carte de Claro de Granada aux îles Corn, gardez votre numéro local vivant pour les codes, et laissez la paperasse partir. [Consultez les forfaits et couverture actuels ici](/plans/), [essai de couverture gratuit](/free-esim/) si vous voulez la preuve d'abord, et appliquez le code promo **WEB20** au paiement pour 20 % de remise.
+Deux réseaux, un seul comptoir d'enregistrement, zéro raison de passer le jour d'arrivée dans une file. Installez un profil qui itinère sur la carte de Claro de Granada aux îles Corn, gardez votre numéro local vivant pour les codes, et laissez la paperasse partir. [Consultez les forfaits et couverture actuels ici](/plans/), [l'essai sans frais](/free-esim/) si vous voulez la preuve d'abord, et appliquez le code promo **web20** au paiement pour 20 % de remise.
 
 [Obtenez mon eSIM Nicaragua](/nicaragua-esim/)
 
@@ -339,4 +359,6 @@ Deux réseaux, un seul comptoir d'enregistrement, zéro raison de passer le jour
 
 Plus de questions ? [Explorez la FAQ](/faq/)
 
-Où que vous atterrissiez au Nicaragua, Roami a un raccourci : un [essai gratuit Roami](/free-esim/) qui roule sur les mêmes réseaux que Claro, et **WEB20** pour 20 % de remise sur votre premier forfait payant.
+Où que vous atterrissiez au Nicaragua, Roami a un raccourci : un [essai gratuit Roami](/free-esim/) qui roule sur les mêmes réseaux que Claro, et **web20** pour 20 % de remise sur votre premier forfait payant.
+
+Et si le voyage continue à travers l'isthme, nos comparatifs d'opérateurs suivent la route : [notre guide des opérateurs costariciens](/carriers/costa-rica-esim-carrier-guide/), [le comparatif eSIM Guatemala](/carriers/guatemala-esim-carrier-guide/), [les réseaux panaméens passés au crible](/carriers/panama-esim-carrier-guide/) ou [notre guide eSIM Mexique](/carriers/mexico-esim-carrier-guide/).

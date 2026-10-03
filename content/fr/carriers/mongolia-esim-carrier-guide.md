@@ -3,7 +3,7 @@ title: "Opérateur eSIM Mongolie : choisir Unitel ou Mobicom ?"
 
 description: "Roami compare les opérateurs eSIM Mongolie Unitel et Mobicom sur la couverture au-delà d'Oulan-Bator, la vitesse et les prix."
 
-image: "img/esim/carriers/mongolia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mongolia-esim-carrier-guide.webp"
 
 date: "2026-09-25T20:26:30+00:00"
 
@@ -382,8 +382,8 @@ Tout est données tierces — et dans un pays aussi vaste, une moyenne nationale
 
 ## Unitel ou Mobicom : que choisir avant de partir ?
 
-Mettez le profil sur votre téléphone avant le départ, atterrissez à UBN avec les données actives, et laissez-le basculer entre Unitel et Mobicom au fil des villes traversées. Essayez d'abord l'[essai de données gratuit](/free-esim/), ou dimensionnez un forfait sur la [page eSIM Mongolie](/mongolia-esim/). Vous traversez vers le nord ensuite ? Le [guide opérateur eSIM Russie](/carriers/russia-esim-carrier-guide/) explique pourquoi cette frontière réécrit les règles.
+Mettez le profil sur votre téléphone avant le départ, atterrissez à UBN avec les données actives, et laissez-le basculer entre Unitel et Mobicom au fil des villes traversées. Essayez d'abord l'[essai de données gratuit](/free-esim/), ou dimensionnez un forfait sur la [page eSIM Mongolie](/mongolia-esim/). Vous traversez vers le nord ensuite ? Le [guide des réseaux russes](/carriers/russia-esim-carrier-guide/) explique pourquoi cette frontière réécrit les règles.
 
 [Voir les forfaits Mongolie](/mongolia-esim/) · [Activer l'essai gratuit](/free-esim/) · [Page eSIM Mongolie](/mongolia-esim/)
 
-Et quand vous serez prêt à acheter : l'[eSIM de démarrage gratuite](/free-esim/) de Roami est le point de départ sans risque pour la Mongolie, et **WEB20** retire 20 % sur votre premier forfait Roami payant si vous décidez de rester connecté tout le voyage.
+Et quand vous serez prêt à acheter : l'[eSIM de démarrage gratuite](/free-esim/) de Roami est le point de départ sans risque pour la Mongolie, et **web20** retire 20 % sur votre premier forfait Roami payant si vous décidez de rester connecté tout le voyage.

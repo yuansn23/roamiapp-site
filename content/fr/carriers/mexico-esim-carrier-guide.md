@@ -3,7 +3,7 @@ title: "Opérateur eSIM Mexique : choisir Telcel ou AT&T ?"
 
 description: "Roami compare les opérateurs eSIM Mexique Telcel, AT&T et Movistar sur la couverture, la vitesse et les meilleurs prix prépayés."
 
-image: "img/esim/carriers/mexico-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mexico-esim-carrier-guide.webp"
 
 date: "2026-09-25T23:54:57+00:00"
 
@@ -36,7 +36,7 @@ Les trois réseaux nationaux qui se disputent votre eSIM Mexique s'écartent net
 
 Si les bases restent des questions ouvertes — mon téléphone prend-il en charge l'eSIM, et que se passe-t-il réellement lors de l'activation — la [liste de compatibilité](/compatibility/) et [l'explication de l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) répondent aux deux. Ce qui suit est une question d'argent, pas de technologie : quel opérateur mérite vos billets.
 
-**Le verdict d'emblée :** Vous séjournez à Mexico, Cancún ou Los Cabos ? Telcel est le réseau le plus fort et le plus cohérent du pays, et il garde le signal dans les étendues rurales où AT&T et Movistar faiblissent. Vous voulez une eSIM prépayée sans visite en magasin ? AT&T Mexique en vend une via son application AT&T Go, et Movistar en émet une par code QR après liaison de votre passeport. Vous roulez vers les États-Unis ou habitez près de la frontière ? L'itinérance Amérique du Nord d'AT&T est ce qui se détache. Ou évitez la paperasse entièrement : l'[eSIM test sans frais](/free-esim/) teste les réseaux gratuitement, et **WEB20** retire 20 % des [forfaits eSIM prépayés Mexique](/mexico-esim/).
+**Le verdict d'emblée :** Vous séjournez à Mexico, Cancún ou Los Cabos ? Telcel est le réseau le plus fort et le plus cohérent du pays, et il garde le signal dans les étendues rurales où AT&T et Movistar faiblissent. Vous voulez une eSIM prépayée sans visite en magasin ? AT&T Mexique en vend une via son application AT&T Go, et Movistar en émet une par code QR après liaison de votre passeport. Vous roulez vers les États-Unis ou habitez près de la frontière ? L'itinérance Amérique du Nord d'AT&T est ce qui se détache. Ou évitez la paperasse entièrement : l'[eSIM test sans frais](/free-esim/) teste les réseaux gratuitement, et **web20** retire 20 % des [forfaits eSIM prépayés Mexique](/mexico-esim/).
 
 ## Quels opérateurs derrière votre eSIM Mexique ?
 
@@ -87,7 +87,7 @@ Trois choses décident si votre téléphone fonctionne sur un opérateur mexicai
 
 ### Mon iPhone est-il compatible au Mexique ?
 
-Les opérateurs mexicains construisent la 4G sur les bandes 2, 4, 5 et 7, et la 5G sur n41 et n78. La plupart des appareils internationaux couvrent celles-ci, mais quelques variantes régionales manquent la bande 5 à 850 MHz, qui est la couche basse-bande portant le signal dans les bâtiments et à travers la sierra d'Oaxaca. Les téléphones qui la manquent fonctionnent encore dans les grandes villes et retombent sur les bandes 4 et 7 ailleurs.
+Les opérateurs mexicains construisent la 4G sur les bandes 2, 4, 5 et 7, et la 5G sur n41 et n78. La plupart des appareils internationaux couvrent celles-ci, mais quelques variantes régionales manquent la bande 5 à 850 MHz, la fréquence basse-bande qui porte le signal dans les bâtiments et à travers la sierra d'Oaxaca. Les téléphones qui la manquent fonctionnent encore dans les grandes villes et retombent sur les bandes 4 et 7 ailleurs.
 
 Nul besoin de mémoriser les tableaux de bandes. Le numéro de modèle l'emporte sur le nom marketing à chaque fois, donc comparez le vôtre à la [liste de compatibilité des téléphones](/compatibility/). Avant votre vol, [ce qui se passe pendant l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) explique ce que le téléphone fait réellement quand un profil arrive.
 
@@ -181,9 +181,9 @@ Deux facteurs façonnent le choix ici : comment chaque réseau performe sur votr
 
 ### Telcel vs AT&T : quel opérateur mexicain est plus rapide ?
 
-Tous les chiffres ci-dessous proviennent du rapport de connectivité Speedtest d'Ookla pour le Mexique, période de collecte juillet à décembre 2025, et sont des mesures au niveau national. La quatrième ligne, ALTRAN Redes, est le réseau de gros Red Compartida qu'utilisent les petites marques.
+Tous les chiffres ci-dessous proviennent du rapport de connectivité Speedtest d'Ookla pour le Mexique, période de collecte juillet à décembre 2025, et sont des mesures au niveau national. La quatrième ligne, ALTAN Redes, est le réseau de gros Red Compartida qu'utilisent les petites marques.
 
-| Métrique | Telcel | AT&T Mexique | Movistar | ALTRAN Redes |
+| Métrique | Telcel | AT&T Mexique | Movistar | ALTAN Redes |
 |:---|:---|:---|:---|:---|
 | Score de connectivité Speedtest | **73.1** (le plus élevé) | 61.41 | 63.21 | 52.78 |
 | Score de vitesse | **64.11** (le plus rapide) | 39.6 | 43.35 | 28.43 |
@@ -192,7 +192,7 @@ Tous les chiffres ci-dessous proviennent du rapport de connectivité Speedtest d
 | Score de jeu | **77.73** (le meilleur) | 74.03 | 71.75 | 56.48 |
 | Note 5 étoiles | **3.51** (en tête) | 2.71 | 3.22 | 2.79 |
 
-Source : rapport de connectivité Speedtest d'Ookla — Mexique, juillet à décembre 2025, [le rapport par opérateur](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025). Le score de constance compte la part des échantillons dépassant 5 Mbps en descente et 1 Mbps en montée. Telcel a remporté à la fois meilleur réseau mobile et meilleur réseau 5G pour la période. Une cellule vide signifie toujours que le rapport a retenu un nombre, jamais qu'on en a deviné un.
+Source : rapport de connectivité Speedtest d'Ookla — Mexique, juillet à décembre 2025, [le rapport par opérateur](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025). Le score de constance compte la part des échantillons dépassant 5 Mbps en descente et 1 Mbps en montée. Telcel a remporté à la fois meilleur réseau mobile et meilleur réseau 5G pour la période. Une cellule vide signifie toujours que le rapport a retenu un nombre, jamais qu'on en a deviné un. Lisible en une phrase : Telcel mène sur les six métriques du rapport — le vrai arbitrage au Mexique n'est jamais « Telcel ou AT&T », mais Telcel contre le moins cher.
 
 Pour un contexte sur le pays dans son ensemble, l'[Ookla Speedtest Global Index](https://www.speedtest.net/global-index/mexico) a mesuré un téléchargement mobile médian de **46.39 Mbps** au Mexique pour août 2026, classé 82e mondial, avec une latence de 33 ms. Cable.co.uk tarife 1 Go de données mobiles mexicaines à environ **USD 2.03**, 162e sur 237 marchés, donc les données locales sont à prix moyen plutôt que bon marché. Sur la structure du marché, Telcel a clos 2025 avec environ **57.5 %** des lignes mobiles actives selon les données du régulateur CRT, contre environ 15 % pour AT&T et 12 à 14 % pour Movistar, ce qui explique pourquoi l'avantage de couverture de Telcel se voit partout où vous voyagez.
 
@@ -221,7 +221,7 @@ La couverture du Mexique suit la population : dense dans les zones métropolitai
 | État frontalier Basse-Californie | Tijuana, Ensenada et Mexicali sont denses et fiables ; dès que vous quittez le couloir frontalier pour l'intérieur, les mêmes trous d'autoroute apparaissent qu'au sud. |
 | Traversée vers les États-Unis | Une eSIM Mexique uniquement s'arrête à la frontière sans avertissement ; pour les voyages touchant les deux pays, un forfait Amérique du Nord ou l'eSIM régionale évite d'acheter deux fois. |
 
-Vous planifiez une route quittant le Mexique ? Comparez [eSIM pour les États-Unis](/united-states-esim/), [eSIM voyage Guatemala](/guatemala-esim/), ou une [eSIM Amérique du Nord](/north-america-esim/) si votre itinéraire franchit les frontières plus d'une fois.
+Vous planifiez une route quittant le Mexique ? Comparez [eSIM pour les États-Unis](/united-states-esim/), [eSIM voyage Guatemala](/guatemala-esim/), ou une [eSIM Amérique du Nord](/north-america-esim/) si votre itinéraire franchit les frontières plus d'une fois. Pour comparer les réseaux côté voisin avant de partir, voyez aussi notre [analyse des opérateurs américains](/carriers/united-states-esim-carrier-guide/) et notre [portrait du marché guatémaltèque](/carriers/guatemala-esim-carrier-guide/).
 
 L'astuce, sous tout cela, est de laisser la sélection de réseau en automatique. Un profil pouvant passer entre Telcel, AT&T et Movistar couvre les trous régionaux qu'aucun forfait mono-opérateur ne peut combler.
 
@@ -368,9 +368,17 @@ Considérez-la comme une puce intégrée au téléphone qui stocke des profils o
 
 ### Quel opérateur mexicain correspond à votre itinéraire ?
 
-Pour un voyage frontalier, AT&T Mexique, car son eSIM prépayée AT&T Go inclut appels et SMS illimités au Mexique et aux États-Unis sur un seul forfait, et l'itinérance Amérique du Nord de l'opérateur est son avantage le plus clair sur Telcel et Movistar. Pour tout le reste — villes, resorts, sierra — Telcel reste le choix par défaut avec la constance la plus élevée du marché (90.5 %). Si votre voyage est plus long ou vous voulez éviter un enregistrement mexicain entièrement, une [eSIM Amérique du Nord](/north-america-esim/) couvrant les deux côtés de la frontière est l'achat plus propre.
+Pour un voyage frontalier, AT&T Mexique, car son eSIM prépayée AT&T Go inclut appels et SMS illimités au Mexique et aux États-Unis sur un seul forfait, et l'itinérance Amérique du Nord de l'opérateur est son avantage le plus clair sur Telcel et Movistar. Pour tout le reste — villes, resorts, sierra — Telcel reste le choix par défaut avec la constance la plus élevée du marché (90.5 %). Si votre voyage est plus long ou vous voulez éviter un enregistrement mexicain entièrement, un [forfait Amérique du Nord](/north-america-esim/) couvrant les deux côtés de la frontière est l'achat plus propre. Et si l'Amérique centrale ou du Sud est la suite du voyage, nos [suivis des réseaux colombiens](/carriers/colombia-esim-carrier-guide/) et [costariciens](/carriers/costa-rica-esim-carrier-guide/) prolongent la comparaison.
 
 Plus de questions ? [Voir la FAQ complète →](/faq/)
+
+### Puis-je partager la connexion de mon eSIM Mexique en partage de connexion ?
+
+Oui dans le cas général : sur un profil eSIM voyage, le partage de connexion s'active depuis les réglages du téléphone comme sur n'importe quelle ligne, et les réseaux mexicains tiennent très bien un ordinateur portable pour du travail ou des appels vidéo en ville. Deux vérifications avant d'en dépendre : certains forfaits opérateur restreignent le tethering dans leurs conditions, donc lisez la clause si votre séjour est un déplacement professionnel ; et une fois hors des villes, tout appareil partagé subit le même signal — dans la sierra, le partage ne crée pas de barres, il les distribue.
+
+### J'ai oublié d'installer mon eSIM avant le vol : que faire à l'atterrissage ?
+
+Pas de panique, mais adaptez la méthode. Les halls d'arrivée de Mexico et Cancún ont un Wi-Fi congestionné exactement quand tout le monde s'y connecte, donc la séquence la plus fiable est : trouvez un coin calme, laissez le profil se télécharger sur le Wi-Fi sans l'activer, puis activez-le en sélectionnant manuellement le réseau si la ligne reste muette. Si vous partez d'une eSIM Movistar, rappelez-vous qu'elle doit s'installer sous couverture native au Mexique — dans ce cas l'atterrissage est même le bon moment. Et gardez en tête le dernier recours déjà décrit plus haut : la sélection de réseau en manuel résout la majorité des lignes silencieuses.
 
 ## Sources de référence pour ce guide eSIM Mexique
 
@@ -384,7 +392,7 @@ Mesures tierces seulement. Les résultats réels dépendent de votre appareil, d
 
 ## Prenez une eSIM Mexique avant le décollage
 
-Évitez la file d'enregistrement. Le profil de Roami bascule automatiquement entre Telcel, AT&T et Movistar partout où vous voyagez. Échantillonnez les réseaux avec une [eSIM d'essai gratuite](/free-esim/), puis économisez 20 % sur les [forfaits payants](/mexico-esim/) avec le code **WEB20**.
+Évitez la file d'enregistrement. Le profil de Roami bascule automatiquement entre Telcel, AT&T et Movistar partout où vous voyagez. Échantillonnez les réseaux avec une [eSIM d'essai gratuite](/free-esim/), puis économisez 20 % sur les [forfaits payants](/mexico-esim/) avec le code **web20**.
 
 [Obtenir l'eSIM Mexique](/mexico-esim/)
 

@@ -4,7 +4,7 @@ title: "Quel opérateur eSIM choisir pour voyager en Ouganda ?"
 
 description: "Roami compare MTN et Airtel pour une eSIM Ouganda : couverture de Kampala à Bwindi, enregistrement à Entebbe et prix des forfaits."
 
-image: "img/esim/carriers/uganda-esim-carrier-guide.jpg"
+image: "img/esim/carriers/uganda-esim-carrier-guide.webp"
 
 date: "2026-09-23T19:01:08+00:00"
 
@@ -35,7 +35,7 @@ hero_subtitle_main: "MTN et Airtel — notés pour la savane et la ville"
 
 
 
-L'Ouganda est de fait un pays à deux réseaux, et l'opérateur qu'une eSIM Ouganda retient dépend moins de la vitesse brute que de votre destination — un voyage d'affaires à Kampala et un séjour en lisière de forêt à Bwindi posent deux problèmes de couverture différents. MTN Uganda et Airtel Uganda transportent ensemble presque tout le trafic. Il y a une seconde raison, bien ougandaise, qui rend ce choix important : le **mobile money**. MTN MoMo et Airtel Money sont le moyen réel de paiement dans le pays, ce qui explique qu'un numéro local, et pas seulement des données, puisse compter même pour un visiteur de court séjour. Les journaux d'activation Ouganda de Roami et les tickets d'assistance alimentent la réécriture périodique de ce guide ; le discours marketing, non. Pour une semaine entre la capitale et les parcs de l'Ouest, une eSIM voyage Ouganda achetée avant le départ est plus simple que tout achat au comptoir.
+L'Ouganda est de fait un pays à deux réseaux, et l'opérateur qu'une eSIM Ouganda retient dépend moins de la vitesse brute que de votre destination — un voyage d'affaires à Kampala et un séjour en lisière de forêt à Bwindi posent deux problèmes de couverture différents. MTN Uganda et Airtel Uganda transportent ensemble presque tout le trafic. Il y a une seconde raison, bien ougandaise, qui rend ce choix important : le **mobile money**. MTN MoMo et Airtel Money sont le moyen réel de paiement dans le pays, ce qui explique qu'un numéro local, et pas seulement des données, puisse compter même pour un visiteur de court séjour. Les journaux d'activation Ouganda de Roami et les tickets d'assistance alimentent la réécriture périodique de ce guide ; le discours marketing, non. Pour une semaine entre la capitale et les parcs de l'Ouest, une eSIM voyage Ouganda achetée avant le départ est plus simple, pour la plupart des voyageurs, que tout achat au comptoir.
 
 
 
@@ -47,7 +47,7 @@ Si vous n'avez jamais installé de profil — ou si votre téléphone ne le pren
 
 
 
-**En résumé :** Vous partez à **Bwindi, aux Murchison Falls ou dans un parc national** ? **MTN** offre la plus large couverture rurale et dans les parcs — c'est le choix le plus sûr pour la visite des parcs nationaux. Vous restez à **Kampala ou Entebbe** ? **Airtel** est compétitif sur la vitesse urbaine et les forfaits. Les deux exigent un **enregistrement passeport** (photo parfois, adresse locale occasionnellement) dans un comptoir MTN/Airtel ou à l'aéroport d'Entebbe. Vous voulez des données sans le comptoir ? Une [eSIM d'essai à coût zéro](/free-esim/) utilise les deux réseaux ; appliquez le code **WEB20** pour 20 % de réduction sur les [forfaits eSIM prépayés Ouganda](/uganda-esim/).
+**En résumé :** Vous partez à **Bwindi, aux Murchison Falls ou dans un parc national** ? **MTN** offre la plus large couverture rurale et dans les parcs — c'est le choix le plus sûr pour la visite des parcs nationaux. Vous restez à **Kampala ou Entebbe** ? **Airtel** est compétitif sur la vitesse urbaine et les forfaits. Les deux exigent un **enregistrement passeport** (photo parfois, adresse locale occasionnellement) dans un comptoir MTN/Airtel ou à l'aéroport d'Entebbe. Vous voulez des données sans le comptoir ? Une [eSIM d'essai à coût zéro](/free-esim/) utilise les deux réseaux ; appliquez le code **web20** pour 20 % de réduction sur les [forfaits eSIM prépayés Ouganda](/uganda-esim/).
 
 
 
@@ -84,6 +84,8 @@ Commencez par la carte, car l'itinéraire en Ouganda décide de l'opérateur plu
 
 
 La vérité : **dans tout parc national, partez du principe qu'il n'y a pas de signal** et téléchargez des cartes hors ligne avant de quitter la dernière ville. Les [notes de connectivité de RashFAT Tracking Safaris](https://rashfatrackingsafaris.com/internet-sim-cards-in-uganda-for-travelers/) confirment ce que rapportent la plupart des opérateurs — une couverture correcte près des portes des parcs, des postes de gardes et des lodges, avec de vraies coupures à Bwindi, Mgahinga et Kidepo. MTN vous offre simplement plus de couverture « presque » sur les routes d'approche.
+
+Détail que le tableau dit sans le crier : **Gulu est la seule ligne où Airtel l'emporte hors de la capitale**. Hors du nord, le choix se résume à MTN dès que votre itinéraire quitte le goudron — un voyageur qui enchaîne les parcs de l'Ouest n'a en pratique qu'un réseau à considérer.
 
 
 
@@ -149,7 +151,7 @@ MTN est le plus grand opérateur du pays par nombre d'abonnés et celui dont la 
 
 
 
-Les tailles et prix des forfaits proviennent de la [comparaison SIM Ouganda d'A Broken Backpack](https://abrokenbackpack.com/uganda-sim-cards) — la carte SIM elle-même coûte en sus UGX 2,000–5,000, selon le [détail de l'aéroport d'Entebbe de Your Layover Guide](https://www.yourlayoverguide.com/?p=7343). Au Go, la Découverte MTN tombe à environ $0.54 et le mensuel 30 Go à $0.90, mais le mensuel 5 Go grimpe à $1.62 — le petit palier de 3 jours reste le plus rentable au Go.
+Les tailles et prix des forfaits proviennent de la [comparaison SIM Ouganda d'A Broken Backpack](https://abrokenbackpack.com/uganda-sim-cards) — la carte SIM elle-même coûte en sus UGX 2,000–5,000, selon les tarifs affichés aux comptoirs de l'aéroport d'Entebbe. Au Go, la Découverte MTN tombe à environ $0.54 et le mensuel 30 Go à $0.90, mais le mensuel 5 Go grimpe à $1.62 — le petit palier de 3 jours reste le plus rentable au Go.
 
 
 
@@ -223,7 +225,7 @@ Les tarifs proviennent de la comparaison A Broken Backpack ci-dessus ; la [compa
 
 
 
-**Particularités Airtel :** Airtel Money reflète MTN MoMo et nécessite une ligne locale enregistrée ; les forfaits hebdomadaires sont le point idéal pour un safari typique de 7 à 10 jours ; les villes du nord (Gulu, Kitgum) sont là où Airtel égalise ou bat MTN.
+**Particularités Airtel :** Airtel Money reflète MTN MoMo et nécessite une ligne locale enregistrée ; les forfaits data hebdomadaires sont le point idéal pour un safari typique de 7 à 10 jours ; les villes du nord (Gulu, Kitgum) sont là où Airtel égalise ou bat MTN.
 
 
 
@@ -241,7 +243,7 @@ Les tarifs proviennent de la comparaison A Broken Backpack ci-dessus ; la [compa
 
 | 3 | Remplissez le formulaire d'enregistrement ; la SIM est activée immédiatement ou sous quelques heures |
 
-| 4 | Pour l'eSIM, scannez le QR délivré après l'enregistrement ; configurez si les données ne se connectent pas automatiquement |
+| 4 | Pour l'eSIM, l'activation se fait en scannant le QR délivré après l'enregistrement ; configurez si les données ne se connectent pas automatiquement |
 
 
 
@@ -261,7 +263,7 @@ L'enregistrement en Ouganda se saisit à la main pendant que vous attendez, auss
 
 
 
-- **Téléphone débloqué et compatible eSIM** — confirmez via `*#06#` (un EID devrait apparaître) et le [vérificateur de compatibilité](/compatibility/)
+- **Téléphone débloqué et compatible eSIM** — confirmez via `*#06#` (un EID devrait apparaître) et notre [contrôle de compatibilité](/compatibility/)
 
 - **Passeport original** — l'enregistrement se fait contre lui, sur place
 
@@ -311,7 +313,7 @@ Pour un safari court, les données suffisent. Pour tout séjour dépassant deux 
 
 
 
-Le schéma qui fonctionne : votre SIM nationale reste physique et active pour les OTP bancaires, une ligne MTN enregistrée (numéro UGX) gère les appels locaux, réservations et logistique liée à MoMo, et une eSIM voyage data uniquement porte l'internet. Sur un téléphone double eSIM, les trois coexistent ; sur un téléphone à eSIM unique, utilisez MTN physique plus votre eSIM voyage. Quelle que soit la combinaison choisie, pointez **Données mobiles** sur une seule ligne et désactivez l'itinérance des données sur les autres — l'itinérance accidentelle de la SIM nationale est la facture surprise la plus courante en Afrique de l'Est.
+Le schéma qui fonctionne : votre SIM nationale reste physique et active pour les OTP bancaires, une ligne MTN enregistrée (numéro UGX) gère les appels locaux, réservations et logistique liée à MoMo, et une eSIM voyage data uniquement porte l'internet. Sur un téléphone double eSIM, les trois coexistent ; sur un téléphone à eSIM unique, utilisez MTN physique plus votre eSIM voyage. Quelle que soit la combinaison choisie, pointez **Données mobiles** sur une seule ligne et désactivez l'itinérance des données sur les autres — l'itinérance (roaming) accidentelle de la SIM nationale est la facture surprise la plus courante en Afrique de l'Est.
 
 
 
@@ -447,7 +449,7 @@ Les deux réseaux utilisent nominalement `internet`, mais un profil émis locale
 
 
 
-Deux symptômes liés à l'affluence partagent une cause. Dans les parcs, le backhaul satellite ou micro-ondes d'un lodge est partagé entre chaque client, aussi le débit s'effondre-t-il au dîner même à barres pleines. À la frontière kényane ou rwandaise, le même forfait cesse d'être national — les tarifs « One Network Area » de la EAC atténuent le choc mais ne le suppriment pas — achetez donc une [eSIM Kenya](/kenya-esim/) ou une [eSIM régionale Afrique](/africa-esim/) pour la prochaine étape plutôt que de vous appuyer sur l'itinérance.
+Deux symptômes liés à l'affluence partagent une cause. Dans les parcs, le backhaul satellite ou micro-ondes d'un lodge est partagé entre chaque client, aussi le débit s'effondre-t-il au dîner même à barres pleines. À la frontière kényane ou rwandaise, le même forfait cesse d'être national — les tarifs « One Network Area » de la EAC atténuent le choc mais ne le suppriment pas — achetez donc une [eSIM prépayée pour le Kenya](/kenya-esim/) ou une [eSIM régionale Afrique](/africa-esim/) pour la prochaine étape plutôt que de vous appuyer sur l'itinérance.
 
 
 
@@ -523,7 +525,7 @@ Un comptoir d'opérateur ougandais travaille à partir du registre d'enregistrem
 
 
 
-L'Ouganda se situe au sein de la East African Community, et les règles « One Network Area » de la EAC ont réduit les frais d'appel et de données transfrontaliers en Ouganda, Rwanda, Kenya, Tanzanie et Soudan du Sud — mais ne les ont pas abolis. Votre forfait ougandais cesse d'être national à la frontière, aussi une SIM achetée à Kampala n'est-elle pas un substitut au service local à Kigali ou Nairobi. Les itinéraires courants où cela pose problème : la boucle Ouganda–Rwanda (Bwindi et le parc national des Volcans en un seul voyage) et le circuit safari Ouganda–Kenya via les passages de Busia ou Malaba. Pour l'un comme l'autre, achetez une [eSIM régionale Afrique](/africa-esim/) ou une [eSIM Kenya](/kenya-esim/) avant de voyager ; l'enregistrement dans la boutique d'opérateur de chaque ville frontalière fonctionne aussi, mais grignote une demi-journée. Notez aussi que les règles d'enregistrement égalisent celles de l'Ouganda : le Rwanda et le Kenya exigent tous deux des SIM enregistrées au passeport.
+L'Ouganda se situe au sein de la East African Community, et les règles « One Network Area » de la EAC ont réduit les frais d'appel et de données transfrontaliers en Ouganda, Rwanda, Kenya, Tanzanie et Soudan du Sud — mais ne les ont pas abolis. Votre forfait ougandais cesse d'être national à la frontière, aussi une SIM achetée à Kampala n'est-elle pas un substitut au service local à Kigali ou Nairobi. Les itinéraires courants où cela pose problème : la boucle Ouganda–Rwanda (Bwindi et le parc national des Volcans en un seul voyage) et le circuit safari Ouganda–Kenya via les passages de Busia ou Malaba. Pour l'un comme l'autre, achetez une [eSIM multi-pays Afrique](/africa-esim/) ou une [eSIM Kenya](/kenya-esim/) avant de voyager ; l'enregistrement dans la boutique d'opérateur de chaque ville frontalière fonctionne aussi, mais grignote une demi-journée. Pour le détail réseau de Nairobi au Maasaï Mara, voyez notre [comparaison des opérateurs kényans](/carriers/kenya-esim-carrier-guide/). Notez aussi que les règles d'enregistrement égalisent celles de l'Ouganda : le Rwanda et le Kenya exigent tous deux des SIM enregistrées au passeport.
 
 
 
@@ -575,7 +577,7 @@ Pas d'une manière utile aux visiteurs. Le déploiement 5G est précoce et limit
 
 
 
-Les deux utilisent `internet` avec nom d'utilisateur et mot de passe vides. Réglez cela seulement sur une eSIM émise par l'opérateur ; une eSIM voyage se configure seule.
+Les deux utilisent `internet` avec identifiants vides — rappel de la section APN plus haut, et uniquement sur une eSIM émise par l'opérateur, une eSIM voyage se configurant seule.
 
 
 
@@ -615,7 +617,7 @@ Trois exploitent un réseau national : MTN, premier par nombre d'abonnés, Airte
 
 
 
-Il doit être débloqué et compatible eSIM. Vérifiez les deux en un passage avec la [liste de compatibilité eSIM](/compatibility/). Le support des bandes compte moins que l'état de déverrouillage pour une installation propre.
+Il doit être débloqué et compatible eSIM. Vérifiez les deux en un passage avec la [liste de compatibilité eSIM](/compatibility/). Le support des fréquences locales compte moins que l'état de déverrouillage pour une installation propre.
 
 
 
@@ -643,6 +645,18 @@ Africell existe, vend des forfaits peu chers, et a même des kiosques d'aéropor
 
 
 
+### Le partage de connexion fonctionne-t-il avec une eSIM Ouganda ?
+
+
+Oui : une fois le profil installé, l'iPhone comme Android exposent la connexion via hotspot sans réglage particulier. C'est même la formule la plus simple quand vous voyagez à plusieurs — un seul forfait partagé entre les appareils du groupe, comme le suggèrent les paliers familiaux des tableaux plus haut. Surveillez simplement la consommation : plusieurs écrans connectés épuisent un forfait bien plus vite qu'un seul.
+
+
+### Que se passe-t-il si mon forfait expire en pleine route ?
+
+
+Les forfaits MTN et Airtel expirent selon des horloges fixes — jour, semaine ou mois — et non quand vous atteignez un seuil d'usage. Avant de suspecter une panne, vérifiez le solde dans l'appli MyMTN ou MyAirtel : une recharge via l'appli ou les menus USSD suffit à repartir. Chargez le forfait avant de quitter Kampala pour ne pas dépendre du signal du lodge.
+
+
 Plus de questions ? [Voir la FAQ complète](/faq/)
 
 
@@ -667,7 +681,7 @@ Plus de questions ? [Voir la FAQ complète](/faq/)
 
 
 
-Une eSIM Ouganda de Roami détient MTN et Airtel et bascule entre eux d'elle-même quand vous passez de Kampala à Bwindi ou Murchison Falls — rien à enregistrer, aucun comptoir UCC, aucune photo passeport à remettre. Vous achetez chez Roami pour la première fois ? Réclamez une eSIM d'essai Ouganda gratuite, ou bénéficiez de **20 % de réduction** sur un forfait Ouganda payant avec le code **WEB20**.
+Une eSIM Ouganda de Roami détient MTN et Airtel et bascule entre eux d'elle-même quand vous passez de Kampala à Bwindi ou Murchison Falls — rien à enregistrer, aucun comptoir UCC, aucune photo passeport à remettre. Vous achetez chez Roami pour la première fois ? Réclamez une eSIM d'essai Ouganda gratuite, ou bénéficiez de **20 % de réduction** sur un forfait Ouganda payant avec le code **web20**.
 
 
 
@@ -679,8 +693,8 @@ Une eSIM Ouganda de Roami détient MTN et Airtel et bascule entre eux d'elle-mê
 
 
 
-*L'essai et la remise WEB20 sont des offres pour nouveaux clients.*
+*L'essai et la remise web20 sont des offres pour nouveaux clients.*
 
 
 
-Si l'Ouganda est une étape sur un itinéraire plus long, le même détail sourcé existe pour l'[eSIM voyage Kenya](/kenya-esim/), l'[eSIM régionale Afrique](/africa-esim/), l'[eSIM voyage Afrique du Sud](/south-africa-esim/) et le [guide opérateur Éthiopie](/carriers/ethiopia-esim-carrier-guide/).
+Si l'Ouganda est une étape sur un itinéraire plus long, le même détail sourcé existe pour l'[eSIM voyage Kenya](/kenya-esim/), l'[eSIM régionale pour l'Afrique](/africa-esim/), l'[eSIM voyage Afrique du Sud](/south-africa-esim/), le [guide opérateur Éthiopie](/carriers/ethiopia-esim-carrier-guide/), la [comparaison des réseaux sud-africains](/carriers/south-africa-esim-carrier-guide/) et le [guide eSIM Ghana](/carriers/ghana-esim-carrier-guide/).

@@ -4,7 +4,7 @@ title: "Opérateurs eSIM Malaisie : quel réseau choisir ?"
 
 description: "Roami compare les opérateurs eSIM Malaisie Maxis, CelcomDigi et U Mobile sur la couverture de KL à Bornéo, la vitesse et les prix."
 
-image: "img/esim/carriers/malaysia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/malaysia-esim-carrier-guide.webp"
 
 date: "2026-09-25T11:27:45+00:00"
 
@@ -61,7 +61,7 @@ Le marché mobile malaisien a l'air compétitif — Maxis, CelcomDigi, U Mobile,
 
 Aussi « quel opérateur 5G » est presque la mauvaise question en Malaisie. « Quel réseau a du 4G là où je vais » est la bonne.
 
-## Qui sont Maxis, CelcomDigi et U Mobile ?
+## Qui sont les opérateurs eSIM Malaisie Maxis, CelcomDigi et U Mobile ?
 
 | | Maxis (Hotlink) | CelcomDigi | U Mobile |
 |:---|:---|:---|:---|
@@ -92,7 +92,7 @@ La péninsule et Bornéo tirent en directions opposées, aussi adaptez l'opérat
 
 ## Quels forfaits et à quels prix en Malaisie ?
 
-Les prix de forfaits ci-dessous sont les tarifs prépayés et touristiques publiés des opérateurs (USD à environ RM 4.5 ≈ 1 $, soit RM 25 ≈ 5.50 $). Les prix aéroport et ville varient, et les packs touristes portent de petits frais d'activation — confirmez au comptoir.
+Les prix de forfait data ci-dessous sont les tarifs prépayés et touristiques publiés des opérateurs (USD à environ RM 4.5 ≈ 1 $, soit RM 25 ≈ 5.50 $). Les prix aéroport et ville varient, et les packs touristes portent de petits frais d'activation — confirmez au comptoir.
 
 ### Maxis vs CelcomDigi : quel opérateur Malaisie est plus rapide ?
 
@@ -186,7 +186,7 @@ Le classement mondial 14e de la Malaisie pour la vitesse mobile (voir ci-dessous
 | Îles plus petites (Perhentian, Tioman, Mabul) | 3G clairsemé ou rien | CelcomDigi | Comptez être hors ligne |
 | Peninsule côte est (Kuantan, Kota Bharu) | 4G en ville ; longs trous sur routes côtières | CelcomDigi | Couverture saison des moussons peut baisser |
 
-Deux règles de pouce : téléchargez les cartes hors ligne avant toute étape Bornéo ou haute terre, et n'attendez pas de signal sur la rivière Kinabatangan ou les sentiers du mont Kinabalu. Et comme c'est une région à sauter plutôt qu'un arrêt unique, les pays suivants le long du sentier sont couverts dans [notre page eSIM Singapour](/singapore-esim/), [le guide eSIM Thaïlande](/carriers/thailand-esim-carrier-guide/) et [les forfaits eSIM Indonésie](/indonesia-esim/) — les 3 Go d'itinérance ASEAN du pass touristique CelcomDigi sont construits exactement pour cela.
+Deux règles de pouce : téléchargez les cartes hors ligne avant toute étape Bornéo ou haute terre, et n'attendez pas de signal sur la rivière Kinabatangan ou les sentiers du mont Kinabalu. Et comme c'est une région à sauter plutôt qu'un arrêt unique, les pays suivants le long du sentier sont couverts dans [notre page eSIM Singapour](/singapore-esim/), [le guide eSIM Thaïlande](/carriers/thailand-esim-carrier-guide/) et [les forfaits eSIM Indonésie](/indonesia-esim/) — les 3 Go d'itinérance ASEAN du pass touristique CelcomDigi sont construits exactement pour cela. Pour comparer les réseaux voisins en détail, voyez aussi notre [analyse des opérateurs singapouriens](/carriers/singapore-esim-carrier-guide/) et le [portrait du marché indonésien](/carriers/indonesia-esim-carrier-guide/) ; si l'itinéraire descend jusqu'à Saïgon, notre [suivi des réseaux vietnamiens](/carriers/vietnam-esim-carrier-guide/) complète le trio.
 
 ## Comment gérer l'itinérance au-delà de la frontière ?
 
@@ -257,9 +257,9 @@ Si le magasin rapporte l'enregistrement comme en attente, le fournisseur a **12 
 
 ### Maxis vs CelcomDigi 5G : lequel est meilleur en Malaisie ?
 
-La 5G de la Malaisie est un réseau de gros unique, et les déploiements plus récents autonomes (SA) attendent un appareil qui supporte la bande et le profil. Un téléphone importé plus ancien, ou portant une variante firmware régionale, peut afficher la 5G brièvement puis retomber en 4G en pleine session — une limite d'appareil plutôt qu'une panne de réseau. Comparez contre un second appareil avant de blâmer l'eSIM.
+La 5G de la Malaisie est un réseau de gros unique, et les déploiements plus récents autonomes (SA) attendent un appareil qui supporte la bande et le profil. Un téléphone importé plus ancien, ou portant une variante firmware régionale, peut manquer les bonnes fréquences et afficher la 5G brièvement puis retomber en 4G en pleine session — une limite d'appareil plutôt qu'une panne de réseau. Comparez contre un second appareil avant de blâmer l'eSIM.
 
-### Quel volume de données pour la Malaisie ?
+### Pourquoi mon eSIM s'assombrit-il près de la frontière singapourienne ?
 
 Singapour est hors Malaisie et hors les arrangements d'itinérance gratuite de l'ASEAN, aussi un prépayé malaisien qui s'attache à un mât Singtel, StarHub ou M1 soit s'assombrit, soit commence à facturer au mégaoctet. Si l'itinérance n'a jamais été activée pour le pass touristique CelcomDigi, la ligne s'arrête simplement à la frontière.
 
@@ -347,7 +347,7 @@ Chaque nombre ici est une lecture tierce plutôt que nos propres tests, aussi at
 
 Un eSIM Malaisie de Roami fonctionne à travers Maxis, CelcomDigi et U Mobile et bascule vers le plus fort d'eux à mesure que votre itinéraire change — Maxis à travers la vallée de Klang, CelcomDigi une fois que vous partez pour Kota Kinabalu ou Kuching — sans scan passeport, sans capture faciale et sans frais de comptoir de RM 5. Il n'y a rien à annuler non plus : une ligne prépayée touriste meurt après trois mois, tandis qu'un eSIM voyage expire simplement.
 
-Nouveau sur Roami ? Prenez un eSIM d'essai Malaisie gratuit avant d'engager un centime. Prêt à acheter ? Le code **WEB20** prend **20 % de réduction** sur un forfait Malaisie payant — et si Singapour figure à l'itinéraire, choisissez la version qui le couvre plutôt que de vous appuyer sur un volume de pass touristique à 6 Mbps.
+Nouveau sur Roami ? Prenez un eSIM d'essai Malaisie gratuit avant d'engager un centime. Prêt à acheter ? Le code **web20** prend **20 % de réduction** sur un forfait Malaisie payant — et si Singapour figure à l'itinéraire, choisissez la version qui le couvre plutôt que de vous appuyer sur un volume de pass touristique à 6 Mbps.
 
 [Obtenez un eSIM Malaisie](/malaysia-esim/)
 

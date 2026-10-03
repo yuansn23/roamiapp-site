@@ -3,7 +3,7 @@ title: "Opérateurs eSIM Maroc : comparez couverture et prix"
 
 description: "Roami compare les opérateurs eSIM Maroc — Maroc Telecom, inwi et Orange — sur la couverture rurale, la vitesse et les prix."
 
-image: "img/esim/carriers/morocco-esim-carrier-guide.jpg"
+image: "img/esim/carriers/morocco-esim-carrier-guide.webp"
 
 date: "2026-09-24T14:07:36+00:00"
 
@@ -251,7 +251,6 @@ Voici tout le [jeu de mesures 2S 2024](https://www.ookla.com/research/reports/mo
 
 La ligne 5G est délibérément vide pour les trois. Le rapport Maroc d'Ookla couvre juillet–décembre 2024, et les réseaux 5G du Maroc n'ont pas démarré avant le **7 novembre 2025** — donc aucune métrique 5G n'existe pour cette fenêtre de collecte, et quiconque cite des vitesses 5G Maroc de cette période cite autre chose.
 
-Le calendrier 5G lui-même est désormais publié. [L'ANRT a attribué des licences](https://developingtelecoms.com/telecom-business/telecom-regulation/18845-morocco-awards-5g-licences-to-maroc-telecom-inwi-and-orange.html) aux trois opérateurs fin juillet 2025 pour un total combiné de **2.1 milliards MAD** : Maroc Telecom a payé 900 millions MAD pour 120 MHz de spectre, tandis qu'Orange Maroc et inwi ont chacun payé 600 millions MAD pour 70 MHz. Les licences courent 20 ans et portent des obligations de couverture dures — **45 % de la population d'ici fin 2026 et 85 % d'ici 2030** — avec une empreinte initiale de huit villes et leurs aéroports. Le déploiement a démarré en mode non autonome, ce qui explique qu'un badge 5G sur un appareil marocain signifie surtout un cœur 4G plus rapide plutôt qu'un réseau autonome.
 
 ## Quelle couverture région par région au Maroc ?
 
@@ -346,7 +345,7 @@ Deux détails comptent plus que les horaires. **Tanger Med n'est pas Tanger** �
 
 ## Pourquoi commencer par votre téléphone ?
 
-Trois vérifications, par ordre de fréquence d'échec. D'abord, **verrou opérateur** : un téléphone acheté avec contrat dans votre pays doit être déverrouillé avant qu'aucun profil local ne s'installe. Ensuite, **bandes** : la 4G marocaine roule sur bandes LTE 3 (1800 MHz), 7 (2600 MHz) et 20 (800 MHz), avec 5G sur n78 (3500 MHz) et n28 (700 MHz) — presque tous les téléphones vendus ces cinq dernières années les couvrent, donc les problèmes de bande sont rares. Troisième, **matériel eSIM** : iPhone XS et suivants, Google Pixel 3 et suivants, et récents Samsung Galaxy fonctionnent. Vérifiez votre modèle exact dans le [vérificateur de compatibilité](/compatibility/) avant d'acheter quoi que ce soit, et si vous êtes curieux de ce que fait votre téléphone pendant l'installation, l'[explicateur d'activation](/faq/what-is-esim-activation-and-how-does-it-work/) couvre cela.
+Trois vérifications, par ordre de fréquence d'échec. D'abord, **verrou opérateur** : un téléphone acheté avec contrat dans votre pays doit être déverrouillé avant qu'aucun profil local ne s'installe. Ensuite, **bandes** : la 4G marocaine roule sur bandes LTE 3 (1800 MHz), 7 (2600 MHz) et 20 (800 MHz), avec 5G sur n78 (3500 MHz) et n28 (700 MHz) — presque tous les téléphones vendus ces cinq dernières années les couvrent, donc les problèmes de bande sont rares. Troisième, **matériel eSIM** : iPhone XS et suivants, Google Pixel 3 et suivants, et récents Samsung Galaxy fonctionnent. Vérifiez votre modèle exact dans le [outil de vérification de compatibilité](/compatibility/) avant d'acheter quoi que ce soit, et si vous êtes curieux de ce que fait votre téléphone pendant l'installation, l'[explicateur d'activation](/faq/what-is-esim-activation-and-how-does-it-work/) couvre cela.
 
 Une particularité marocaine : les voyageurs à double SIM devraient garder la SIM personnelle active pour les codes SMS de vérification (les banques les adorent) et définir l'eSIM locale comme ligne de données, avec itinérance des données activée sur l'eSIM seulement. Désactivez l'itinérance sur votre ligne personnelle avant l'atterrissage, sinon vous paierez les tarifs d'itinérance marocains de votre opérateur personnel pour le trafic en arrière-plan.
 
@@ -515,7 +514,7 @@ La latence, surtout. Le téléchargement médian de Tanger de 45.29 Mbps est le 
 
 ### Puis-je utiliser une eSIM Maroc à Ceuta ou Melilla ?
 
-Non. Toutes deux sont territoire espagnol, donc votre téléphone s'attache à un réseau européen dès votre arrivée. Un profil Maroc uniquement s'arrête là ; vous avez besoin d'un forfait espagnol ou multinational pour ces jours. Le [guide opérateur Espagne](/carriers/spain-esim-carrier-guide/) couvre les détails.
+Non. Toutes deux sont territoire espagnol, donc votre téléphone s'attache à un réseau européen dès votre arrivée. Un profil Maroc uniquement s'arrête là ; vous avez besoin d'un forfait espagnol ou multinational pour ces jours. Le [guide des opérateurs espagnols](/carriers/spain-esim-carrier-guide/) couvre les détails.
 
 ## Sources de l'analyse opérateur Maroc
 
@@ -523,7 +522,6 @@ Non. Toutes deux sont territoire espagnol, donc votre téléphone s'attache à u
 - **Ookla Speedtest Global Index** — [l'entrée Maroc](https://www.speedtest.net/global-index/morocco) fournit la médiane mobile nationale de 69.70 Mbps (64e mondial) et 57 Mbps fixe, actualisée mensuellement.
 - **Maroc Telecom** — [la page e-SIM officielle de l'opérateur](https://www.iam.ma/e-sim) publie les prix eSIM touristiques (70/120/200/320 DH), le flux d'activation code QR et premier appel, et l'affirmation qu'aucune configuration APN manuelle n'est nécessaire.
 - **ANRT** — [le site du régulateur](https://www.anrt.ma/) couvre licence, approbation de type, réclamations consommateurs et observatoires sectoriels trimestriels portant les chiffres d'abonnement et part de marché du Maroc.
-- **Attribution licence 5G ANRT** — [le rapport de Developing Telecoms sur l'attribution juillet 2025](https://developingtelecoms.com/telecom-business/telecom-regulation/18845-morocco-awards-5g-licences-to-maroc-telecom-inwi-and-orange.html) porte le total de 2.1 milliards MAD, la répartition 900/600/600 millions, les termes 20 ans et obligations de couverture 45%-fin-2026 / 85%-fin-2030.
 - **ONCF** — [le site de l'opérateur ferroviaire](https://www.oncf.ma/) publie les chiffres réseau 2025 utilisés ci-dessus : 55.6 millions de passagers, 5.6 millions sur Al Boraq, 65 % d'occupation, 2 295 km de lignes et 1 473 km électrifiés.
 - **Cable.co.uk prix mondiaux données** — [le tableau complet par pays](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) donne le prix moyen par gigaoctet du Maroc de USD 0.63, 60e sur 237 marchés, et moyenne régionale Afrique du Nord de USD 0.86.
 - **DataReportal** — [Digital 2025 : Maroc](https://datareportal.com/reports/digital-2025-morocco) fournit les chiffres d'internautes (35.3 millions, 92.2 % pénétration) et connexions mobiles (54.9 millions).
@@ -540,4 +538,4 @@ Un profil qui re-sélectionne le réseau marocain le plus fort au fil de vos ét
 
 [Prendre l'essai gratuit Maroc](/free-esim/)
 
-Si vous préférez tester avant de vous engager, l'[essai gratuit](/free-esim/) de Roami roule sur les mêmes réseaux que compare ce guide — y compris Maroc Telecom. **WEB20** retire 20 % d'un forfait Maroc payant pour les nouveaux clients Roami.
+Si vous préférez tester avant de vous engager, l'[essai gratuit](/free-esim/) de Roami roule sur les mêmes réseaux que compare ce guide — y compris Maroc Telecom. **web20** retire 20 % d'un forfait Maroc payant pour les nouveaux clients Roami.

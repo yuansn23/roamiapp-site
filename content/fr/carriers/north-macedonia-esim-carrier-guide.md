@@ -4,7 +4,7 @@ title: "Quel opérateur eSIM utiliser en Macédoine du Nord ?"
 
 description: "Roami compare A1, Telekom et MTEL en Macédoine du Nord : vitesse, couverture, prix prépayés et itinérance dans les Balkans."
 
-image: "img/esim/carriers/north-macedonia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/north-macedonia-esim-carrier-guide.webp"
 
 date: "2026-09-24T14:11:01+00:00"
 
@@ -153,7 +153,7 @@ Contexte de prix : [l'enquête mondiale de Cable.co.uk](https://www.cable.co.uk/
 - **Le nord-ouest est la différence d'opérateur la plus nette.** Autour de Tetovo et de l'ouest à majorité albanaise, Telekom tient et A1 chute — un détail qui compte si votre route mène vers Ohrid via les vallées occidentales plutôt que l'autoroute.
 - **Le canyon de Matka est un canyon de signal dans les deux sens.** La route d'approche et l'embouchure du canyon ont du service ; montez 400 mètres dans le gorge et aucun des trois opérateurs n'existe.
 
-Traverser les frontières ? Les mêmes défaillances existent pour notre [guide eSIM Grèce](/carriers/greece-esim-carrier-guide/), [page eSIM Albanie](/albania-esim/), [forfaits eSIM Bulgarie](/bulgaria-esim/) et [guide eSIM Monténégro](/carriers/montenegro-esim-carrier-guide/) — le dernier couvrant l'angle de l'itinérance régionale dans l'autre sens.
+Traverser les frontières ? Les mêmes défaillances existent pour notre [guide eSIM Grèce](/carriers/greece-esim-carrier-guide/), [page eSIM Albanie](/albania-esim/), [forfaits eSIM Bulgarie](/bulgaria-esim/) et [guide eSIM du Monténégro](/carriers/montenegro-esim-carrier-guide/) — le dernier couvrant l'angle de l'itinérance régionale dans l'autre sens.
 
 ## Comment obtenir une eSIM Macédoine du Nord ?
 
@@ -380,8 +380,8 @@ Mesures indépendantes uniquement. Les affirmations de couverture régionale rep
 
 ## Où comparer les prix des forfaits Macédoine du Nord ?
 
-Chargez le profil à la maison et laissez-le re-sélectionner entre A1 et Telekom tandis que vous passez de Skopje à Ohrid — aucun kiosque, aucun comptoir d'enregistrement, aucune supposition sur ce qui est ouvert. Commencez par l'[eSIM d'essai gratuite de Roami](/free-esim/), puis choisissez un forfait sur la [page eSIM Macédoine du Nord](/macedonia-esim/). Conduite vers le sud ensuite ? Notre [guide eSIM Grèce](/carriers/greece-esim-carrier-guide/) couvre le réseau suivant.
+Chargez le profil à la maison et laissez-le re-sélectionner entre A1 et Telekom tandis que vous passez de Skopje à Ohrid — aucun kiosque, aucun comptoir d'enregistrement, aucune supposition sur ce qui est ouvert. Commencez par l'[eSIM d'essai gratuite de Roami](/free-esim/), puis choisissez un forfait sur la [page eSIM Macédoine du Nord](/macedonia-esim/). Conduite vers le sud ensuite ? Notre [guide eSIM pour la Grèce](/carriers/greece-esim-carrier-guide/) couvre le réseau suivant.
 
-[Comparer les forfaits eSIM Macédoine du Nord](/macedonia-esim/) · [Réclamer l'essai gratuit](/free-esim/) · [Page eSIM Macédoine du Nord](/macedonia-esim/)
+[Comparer les forfaits eSIM Macédoine du Nord](/macedonia-esim/) · [Réclamer l'essai gratuit](/free-esim/) · [parcourir les forfaits eSIM Macédoine du Nord](/macedonia-esim/)
 
-Le jeu pratique : testez d'abord avec l'[essai multi-réseaux gratuit](/free-esim/) de Roami — il utilise la même infrastructure que les réseaux locaux — puis verrouillez un forfait Roami payant avec le code **WEB20** pour 20 % de réduction si la Macédoine du Nord devient une destination régulière. Prêt à acheter ? L'essai prend deux minutes à configurer.
+Le jeu pratique : testez d'abord avec l'[essai multi-réseaux gratuit](/free-esim/) de Roami — il utilise la même infrastructure que les réseaux locaux — puis verrouillez un forfait Roami payant avec le code **web20** pour 20 % de réduction si la Macédoine du Nord devient une destination régulière. Prêt à acheter ? L'essai prend deux minutes à configurer.

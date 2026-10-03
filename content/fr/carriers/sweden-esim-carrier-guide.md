@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM choisir pour un voyage en Suède ?"
 description: "Roami compare Telia, Tele2, Telenor et Tre pour une eSIM Suède : vitesse, couverture et prix, du Norrland aux grandes villes."
-image: "img/esim/carriers/sweden-esim-carrier-guide.jpg"
+image: "img/esim/carriers/sweden-esim-carrier-guide.webp"
 date: "2026-09-23T13:38:50+00:00"
 keywords: opérateurs eSIM Suède, Telia eSIM, Tele2 eSIM, Telenor Suède eSIM, Tre eSIM, couverture 5G Suède, eSIM Suède prépayé, meilleur opérateur eSIM Suède
 site_name: Roami
@@ -363,4 +363,4 @@ Tous les chiffres de performance de cette page sont des mesures tierces publiée
 
 L'eSIM de Roami pour la Suède bascule entre Telia, Tele2, Telenor et Tre, en verrouillant le signal le plus fort pendant votre voyage — la grille 5G de Stockholm à une extrémité, les corridors du Norrland à l'autre — sans arrêt d'enregistrement en chemin. [Testez-la gratuitement sur votre téléphone](/free-esim/), ou passez aux [forfaits eSIM Suède](/sweden-esim/).
 
-Le conseil pratique : testez d'abord avec l'[essai gratuit Roami](/free-esim/) — il utilise la même infrastructure que Telia — puis verrouillez un forfait Roami payant avec le code **WEB20** pour 20% de remise si la Suède devient une destination régulière.
+Le conseil pratique : testez d'abord avec l'[essai gratuit Roami](/free-esim/) — il utilise la même infrastructure que Telia — puis verrouillez un forfait Roami payant avec le code **web20** pour 20% de remise si la Suède devient une destination régulière.

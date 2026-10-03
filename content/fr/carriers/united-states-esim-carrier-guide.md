@@ -1,9 +1,9 @@
 ---
 title: "Opérateurs eSIM États-Unis : quel réseau choisir ?"
 description: "Roami compare T-Mobile, Verizon et AT&T pour une eSIM États-Unis : vitesses Ookla, couverture et prix des forfaits prépayés."
-image: "img/esim/carriers/united-states-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-states-esim-carrier-guide.webp"
 date: "2026-09-23T07:21:20+00:00"
-keywords: United States eSIM carriers, T-Mobile eSIM, Verizon eSIM, AT&T eSIM, Cricket Wireless eSIM, Visible eSIM, Metro by T-Mobile eSIM, US 5G coverage, US eSIM APN, prepaid eSIM United States
+keywords: opérateurs eSIM États-Unis, eSIM T-Mobile, eSIM Verizon, eSIM AT&T, eSIM Cricket Wireless, eSIM Visible, eSIM Metro by T-Mobile, couverture 5G États-Unis, APN eSIM États-Unis, eSIM prépayée États-Unis
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -16,15 +16,15 @@ hero_subtitle_main: "La comparaison des opérateurs 2026, construite sur des don
 ---
 
 
-Choisir une eSIM États-Unis, c'est choisir jusqu'où vous conduirez : trois réseaux nationaux se partagent la couverture, la vitesse et la profondeur urbaine sur une carte à l'échelle d'un continent, et ce guide les associe à votre itinéraire. Les trois réseaux nationaux américains ne sont pas interchangeables, et dans un pays aussi vaste le bon dépend presque entièrement de la distance que vous prévoyez de parcourir. Dans le rapport États-Unis 2H 2025 d'Ookla, **T-Mobile** a été nommé meilleur réseau mobile et meilleur réseau 5G, avec le Speed Score le plus élevé (**73.26**) et la disponibilité 5G la plus large (**91.2%**). **Verizon** a remporté le prix de la meilleure couverture mobile, avec un Coverage Score de **30.0%** — la plus grande portée géographique des trois. **AT&T** se situait entre les deux sur la plupart des mesures et menait du côté du haut débit fixe. L'opérateur qui vous convient est donc une question de géographie : les métros denses récompensent un réseau, les longues routes rurales en récompensent un autre. Nous pouvons nommer la source derrière chaque affirmation — voyez la liste en bas avant de dépenser pour les États-Unis.
+Choisir parmi les opérateurs eSIM États-Unis, c'est choisir jusqu'où vous conduirez : trois réseaux nationaux se partagent la couverture, la vitesse et la profondeur urbaine sur une carte à l'échelle d'un continent, et ce guide les associe à votre itinéraire. Dans un pays aussi vaste, le bon réseau dépend presque entièrement de la distance que vous prévoyez de parcourir. Dans le rapport États-Unis 2H 2025 d'Ookla, **T-Mobile** a été nommé meilleur réseau mobile et meilleur réseau 5G, avec le Speed Score le plus élevé (**73.26**) et la disponibilité 5G la plus large (**91.2%**). **Verizon** a remporté le prix de la meilleure couverture mobile, avec un Coverage Score de **30.0%** — la plus grande portée géographique des trois. **AT&T** se situait entre les deux sur la plupart des mesures et menait du côté du haut débit fixe. L'opérateur qui vous convient est donc une question de géographie : les métros denses récompensent un réseau, les longues routes rurales en récompensent un autre. Nous pouvons nommer la source derrière chaque affirmation — voyez la liste en bas avant de dépenser pour les États-Unis.
 
 **Réponse rapide :** T-Mobile mène cette comparaison sur la vitesse et la 5G, Verizon sur la couverture géographique — et cet écart se resserre plus vous restez au même endroit. Les itinéraires ci-dessous montrent où cela s'inverse. Vous pouvez aussi tester l'installation d'un profil américain par vous-même avec l'[essai Roami gratuit](/free-esim/).
 
 Un prérequis qui vaut dix secondes de votre temps : confirmez que votre combiné est compatible eSIM via la [liste de compatibilité des téléphones](/compatibility/), et parcourez [comment fonctionne l'installation d'une eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) si le processus vous est nouveau.
 
-**La version courte :** Vous restez à New York, Los Angeles ou Chicago ? T-Mobile est le réseau le plus rapide et tient la 5G presque partout (91.2% de disponibilité). Vous conduisez dans les parcs nationaux ou le Midwest rural ? Verizon a la plus large empreinte géographique. Vous voulez une eSIM prépayée propre comme visiteur ? T-Mobile vend une eSIM touristique sans pièce d'identité et sans adresse américaine, tandis qu'AT&T et Verizon vous orientent vers leurs marques prépayées Cricket et Visible. Ou évitez la paperasse : l'[eSIM d'essai gratuite](/free-esim/) teste les réseaux sans frais, et le code **WEB20** retire 20% des [forfaits prépayés États-Unis](/united-states-esim/).
+**La version courte :** Vous restez à New York, Los Angeles ou Chicago ? T-Mobile est le réseau le plus rapide et tient la 5G presque partout (91.2% de disponibilité). Vous conduisez dans les parcs nationaux ou le Midwest rural ? Verizon a la plus large empreinte géographique. Vous voulez une eSIM prépayée propre comme visiteur ? T-Mobile vend une eSIM touristique sans pièce d'identité et sans adresse américaine, tandis qu'AT&T et Verizon vous orientent vers leurs marques prépayées Cricket et Visible. Ou évitez la paperasse : l'[eSIM d'essai gratuite](/free-esim/) teste les réseaux sans frais, et le code **web20** retire 20% des [forfaits prépayés États-Unis](/united-states-esim/).
 
-## Quelles options d'opérateur pour votre eSIM aux États-Unis ?
+## Quels opérateurs eSIM États-Unis choisir ?
 
 ### T-Mobile, Verizon et AT&T : comment se comparent-ils ?
 
@@ -61,7 +61,7 @@ Deux mises en garde. D'abord, les marques économiques plafonnent les vitesses d
 | Accès réseau | Un opérateur (ou sa marque prépayée) | Basculement automatique entre T-Mobile, Verizon et AT&T |
 | Idéal pour | Séjours d'un mois ou plus, ou quiconque a besoin d'un numéro américain | Voyages d'une à trois semaines, et quiconque veut être en ligne à l'atterrissage |
 
-Pour des vacances normales, la balance penche clairement d'un côté. Un forfait prépayé américain se facture chaque mois que vous l'utilisiez ou non et vous enferme sur un réseau ; une [eSIM de voyage Roami](/united-states-esim/) achète des données en gros et laisse l'appareil se déplacer entre réseaux. Là où l'opérateur gagne, c'est la longévité et la voix — un vrai numéro américain, des appels nationaux illimités, et un forfait qui fonctionne encore au sixième mois.
+Pour des vacances normales, la balance penche clairement d'un côté. Un forfait data prépayé américain se facture chaque mois que vous l'utilisiez ou non et vous enferme sur un réseau ; une [eSIM de voyage Roami](/united-states-esim/) achète des données en gros et laisse l'appareil se déplacer entre réseaux. Là où l'opérateur gagne, c'est la longévité et la voix — un vrai numéro américain, des appels nationaux illimités, et un forfait qui fonctionne encore au sixième mois.
 
 💡 Un profil eSIM multi-réseaux est la voie médiane pratique : il garde la commodité de la livraison instantanée, bascule automatiquement entre T-Mobile, Verizon et AT&T, et vous pose encore sur T-Mobile en ville et Verizon dans les parcs sans acheter deux fois.
 
@@ -71,7 +71,7 @@ Trois choses décident si votre téléphone fonctionne sur un opérateur améric
 
 ### Un iPhone se connectera-t-il aux États-Unis ?
 
-Les opérateurs américains construisent leur 5G sur des bandes différentes, et ces différences décident si vous verrez une 5G rapide ou retomberez en LTE. **T-Mobile** s'appuie sur **n71 (600 MHz)** pour la portée rurale et **n41 (2.5 GHz)** pour la vitesse en bande médiane. **Verizon** utilise **n77 (C-band)** pour la bande médiane et **n260/n261 (mmWave)** dans les centres-villes denses et les stades. **AT&T** utilise **n5 (850 MHz)** en basse bande et **n77** en bande médiane. Bien des combinés internationaux sortent sans n77, la bande dont AT&T et Verizon dépendent pour la vitesse en bande médiane.
+Les opérateurs américains bâtissent leur 5G sur des fréquences différentes, et votre couverture 4G/5G réelle dépend des bandes que votre téléphone sait lire : c'est ce qui décide si vous verrez une 5G rapide ou retomberez en LTE. **T-Mobile** s'appuie sur **n71 (600 MHz)** pour la portée rurale et **n41 (2.5 GHz)** pour la vitesse en bande médiane. **Verizon** utilise **n77 (C-band)** pour la bande médiane et **n260/n261 (mmWave)** dans les centres-villes denses et les stades. **AT&T** utilise **n5 (850 MHz)** en basse bande et **n77** en bande médiane. Bien des combinés internationaux sortent sans n77, la bande dont AT&T et Verizon dépendent pour la vitesse en bande médiane.
 
 Vous pouvez sauter les tables de bandes entièrement. La vérification fiable consiste à comparer le numéro de modèle exact avec le [vérificateur d'appareils eSIM](/compatibility/). Pour la mécanique avant l'achat, voyez [ce qui se passe quand un téléphone charge un profil eSIM](/faq/what-is-esim-activation-and-how-does-it-work/).
 
@@ -152,7 +152,7 @@ Visible vous donne le réseau de Verizon et la couverture géographique la plus 
 | Metro by T-Mobile (BYOD) | T-Mobile | Illimité | $25 par mois | Oui, activation aux États-Unis |
 | Mint Mobile (intro) | T-Mobile | 5 GB à illimité | Dès $15 par mois en intro | Oui, activation dans l'appli |
 
-Les prix sont hors taxes et frais sauf indication contraire d'une marque, et ils changent souvent. Pour la gamme en direct, notre page forfaits eSIM États-Unis reflète les options du jour. Ramené à la journée sur un mois, l'illimité coûte environ 0.83 $ chez Visible et 1 $ chez Metro, contre environ 1.67 $ par jour pour l'US Pass de T-Mobile — mais ce dernier s'achète sans pièce d'identité ni adresse américaine, et le Cricket d'entrée grimpe à 6 $ le gigaoctet si vous dépassez ses 5 Go.
+Les données prépayées affichées ici sont hors taxes et frais sauf indication contraire d'une marque, et elles changent souvent. Pour la gamme en direct, notre page forfaits eSIM États-Unis reflète les options du jour. Ramené à la journée sur un mois, l'illimité coûte environ 0.83 $ chez Visible et 1 $ chez Metro, contre environ 1.67 $ par jour pour l'US Pass de T-Mobile — mais ce dernier s'achète sans pièce d'identité ni adresse américaine, et le Cricket d'entrée grimpe à 6 $ le gigaoctet si vous dépassez ses 5 Go.
 
 ### Quels forfaits eSIM T-Mobile pour les visiteurs ?
 
@@ -167,7 +167,7 @@ Les forfaits US Pass : 30 jours d'appels, SMS et données illimités dès $50, s
 | Wi-Fi | Installez le profil avant de voyager ou à l'arrivée, pas en plein transit |
 | Un contact ou une adresse américaine (optionnel) | Requis seulement sur certaines voies postpayées ou en boutique opérateur |
 
-## Quelle couverture eSIM aux États-Unis : T-Mobile vs Verizon ?
+## Couverture des opérateurs eSIM États-Unis : T-Mobile vs Verizon
 
 Deux questions pilotent cette section : la vitesse de chaque réseau dans les lieux que vous visiterez, et la forme de votre voyage. Les récompenses et médianes ci-dessous répondent à la moitié vitesse ; le tableau de voyages répond à l'autre moitié.
 
@@ -186,7 +186,7 @@ Tous les chiffres ci-dessous proviennent des données Speedtest Intelligence d'O
 | Score de jeu | **87.01** (meilleur) | 84.75 | 83.88 |
 | Note 5 étoiles | **3.73** (la plus haute) | 3.29 | 2.98 |
 
-Les cellules vides ici signifient qu'Ookla n'a rien publié pour cet opérateur plutôt qu'une estimation complétée. Deux choses à remarquer : T-Mobile mène sur **la vitesse et la disponibilité 5G** (91.2% des échantillons en 5G), tandis que la victoire de Verizon est **la couverture géographique** — son Coverage Score de 30.0% est la part de la superficie du pays qu'il atteint, même si sa disponibilité 5G (59.9%) traîne car le mmWave et le C-band sont concentrés dans les villes. AT&T se situe entre les deux et a enregistré le haut débit fixe le plus fort des trois.
+Les cellules vides ici signifient qu'Ookla n'a rien publié pour cet opérateur plutôt qu'une estimation complétée. Deux choses à remarquer : T-Mobile mène sur **la vitesse et la disponibilité 5G** (91.2% des échantillons en 5G), tandis que la victoire de Verizon est **la couverture géographique** — son Coverage Score de 30.0% est la part de la superficie du pays qu'il atteint, même si sa disponibilité 5G (59.9%) traîne car le mmWave et le C-band sont concentrés dans les villes. AT&T se situe entre les deux et a enregistré le haut débit fixe le plus fort des trois. Le chiffre le plus contre-intuitif reste pourtant enfoui dans le tableau : AT&T affiche une disponibilité 5G de **87.5%**, presque les **91.2%** de T-Mobile, et pourtant son Speed Score (**62.51**) est le plus bas des trois — couvrir large ne veut pas dire aller vite.
 
 ### Quel opérateur américain selon votre plan de voyage ?
 
@@ -213,6 +213,8 @@ La distance est toute l'histoire ici : les réseaux sont quasi identiques à Man
 | Alaska et le nord-ouest reculé | Anchorage, Fairbanks et Juneau sont couvertes ; l'autoroute entre elles et la plupart du bush n'est pas continue. Un messager satellite est le bon outil là-bas, pas une meilleure eSIM. |
 
 Planifiez un itinéraire qui quitte les États-Unis ? Commencez avec l'[eSIM pour le Canada](/canada-esim/), comparez les [forfaits eSIM Mexique](/mexico-esim/), ou si votre itinéraire franchit les frontières plus d'une fois, une [eSIM Amérique du Nord](/north-america-esim/) vous évite d'acheter deux fois.
+
+Pour comparer les réseaux voisins avant de partir, nos guides par opérateur détaillent l'[eSIM Canada](/carriers/canada-esim-carrier-guide/), l'[eSIM Mexique](/carriers/mexico-esim-carrier-guide/), l'[eSIM Royaume-Uni](/carriers/united-kingdom-esim-carrier-guide/) et l'[eSIM Europe](/carriers/europe-esim-carrier-guide/).
 
 Ici, la sélection automatique de réseau est tout l'avantage. Un profil pouvant passer entre T-Mobile, Verizon et AT&T couvre les trous régionaux qu'aucun forfait à un opérateur ne peut.
 
@@ -264,7 +266,7 @@ Faites l'étape 4 sur un Wi-Fi solide. Les halls d'arrivée des aéroports amér
 
 ### Comment activer une eSIM États-Unis, pas à pas ?
 
-La séquence d'installation standard, d'Add eSIM au commutateur d'itinérance, est couverte dans notre [guide d'activation](/faq/how-to-activate-an-esim/). Ce qui diffère par opérateur :
+La séquence d'installation standard, d'Add eSIM au commutateur d'itinérance, est couverte dans notre [procédure d'installation pas à pas](/faq/how-to-activate-an-esim/). Ce qui diffère par opérateur :
 
 - **T-Mobile (eSIM touristique) :** activée dans l'appli T-Mobile Prepaid eSIM ; pas besoin de scan QR, et l'activation doit se produire pendant que vous êtes aux États-Unis.
 - **AT&T :** l'eSIM prépayée s'installe par code QR ou l'appli myAT&T ; certaines cartes internationales sont rejetées à la caisse.
@@ -345,6 +347,14 @@ T-Mobile oui — il commercialise une eSIM touristique et des forfaits US Pass p
 ### Puis-je garder deux eSIM actives en même temps ?
 Oui, et c'est une configuration sensée. Gardez la SIM domestique pour les appels et la vérification par SMS, et laissez le profil américain porter les données. Définissez le profil américain comme ligne de données dans les réglages et laissez la voix sur votre SIM domestique. Surveillez deux choses : désactivez l'itinérance sur la ligne domestique pour éviter des frais surprises, et rappelez-vous que la plupart des profils données-seules ne reçoivent pas de SMS, donc les codes de vérification vont sur votre numéro domestique.
 
+### Comment recevoir un code de vérification (2FA) avec une eSIM États-Unis ?
+
+Gardez votre ligne habituelle active à côté du profil américain. Un forfait data seul — eSIM de voyage comme carte SIM prépayée locale — reçoit rarement les SMS, donc les codes à usage unique continuent d'arriver sur votre numéro domestique. Configurez l'eSIM américaine comme ligne de données, laissez la voix et les SMS sur votre SIM d'origine, puis coupez l'itinérance des données sur cette dernière pour éviter une facture surprise.
+
+### Le partage de connexion fonctionne-t-il sur une eSIM États-Unis ?
+
+Oui, mais les plafonds varient d'une offre à l'autre, et c'est là que se cachent les mauvaises surprises. L'eSIM touristique T-Mobile inclut le partage de connexion ; chez Visible, le forfait à $25 le plafonne à 5 Mbps et l'offre Visible+ à 10 Mbps. Si vous comptez transformer votre téléphone en point d'accès pour un ordinateur portable, vérifiez ce point avant de partir.
+
 ### Comment activer sur T-Mobile, Verizon et AT&T ?
 
 T-Mobile : dans l'appli T-Mobile Prepaid eSIM, sans QR, pendant que vous êtes physiquement aux États-Unis. AT&T : code QR ou appli myAT&T après inscription prépayée — certaines cartes internationales sont rejetées à la caisse. Verizon : profil émis par l'opérateur et envoyé par e-mail sous forme de QR, le prépayé évitant la vérification de crédit. Visible, Cricket, Metro et Mint s'activent par leur propre appli sur le réseau parent. La séquence standard, de l'ajout de l'eSIM au réglage de l'itinérance, est détaillée dans notre [guide d'activation](/faq/how-to-activate-an-esim/).
@@ -367,7 +377,7 @@ Mesures tierces uniquement. Les résultats varient selon le téléphone, la band
 
 ## Comment activer votre eSIM, étape par étape ?
 
-Arrivez déjà en ligne. Le profil Roami bascule entre T-Mobile, Verizon et AT&T au fil de votre traversée du pays, villes et parcs pareillement. Prenez d'abord une [eSIM d'essai sans frais](/free-esim/), ou retirez 20% d'un [forfait eSIM États-Unis](/united-states-esim/) avec le code **WEB20**.
+Arrivez déjà en ligne. Roami réunit les trois opérateurs eSIM États-Unis — T-Mobile, Verizon et AT&T — et bascule au fil de votre traversée du pays, villes et parcs pareillement. Prenez d'abord une [eSIM d'essai sans frais](/free-esim/), ou retirez 20% d'un [forfait eSIM États-Unis](/united-states-esim/) avec le code **web20**.
 
 [Achetez le forfait eSIM États-Unis](/united-states-esim/)
 

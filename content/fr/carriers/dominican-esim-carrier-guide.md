@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM République dominicaine choisir ?"
 description: "Roami montre comment une eSIM République dominicaine arbitre entre Claro et Altice, sur la côte des resorts comme en ville."
-image: "img/esim/carriers/dominican-esim-carrier-guide.jpg"
+image: "img/esim/carriers/dominican-esim-carrier-guide.webp"
 date: "2026-09-26T16:13:34+00:00"
 keywords: République dominicaine opérateurs eSIM, eSIM pour Punta Cana, opérateurs eSIM République dominicaine, eSIM Claro, eSIM Altice Dominicana, eSIM Viva, couverture 5G République dominicaine, eSIM République dominicaine prépayée, meilleur opérateur eSIM République dominicaine, eSIM Samaná
 site_name: Roami
@@ -324,7 +324,7 @@ Claro, sans hésitation : c'est le seul réseau avec une présence régulière l
 
 ### Une eSIM dominicaine fonctionne-t-elle au Mexique ou en Colombie au retour ?
 
-Seulement si le forfait couvre ces pays. Un profil mono-pays s'éteint dès que vous atterrissez ailleurs, ce qui est une surprise courante sur une boucle caribéenne incluant une escale à Cancún ou Carthagène — toutes deux couvertes par notre [guide eSIM Mexique](/carriers/mexico-esim-carrier-guide/) et la [page eSIM Colombie](/colombia-esim/).
+Seulement si le forfait couvre ces pays. Un profil mono-pays s'éteint dès que vous atterrissez ailleurs, ce qui est une surprise courante sur une boucle caribéenne incluant une escale à Cancún ou Carthagène — toutes deux couvertes par notre [analyse des réseaux eSIM au Mexique](/carriers/mexico-esim-carrier-guide/) et la [notre eSIM pour la Colombie](/colombia-esim/).
 
 ### Quelle eSIM dominicaine selon votre type de voyage ?
 
@@ -372,4 +372,4 @@ Choisissez un [forfait dominicain](/dominican-esim/), ou [testez-en une gratuite
 
 *Commencez par l'essai gratuit*
 
-Le conseil de Roami est simple : atterrissez connecté. Commencez par l'[eSIM d'échantillon](/free-esim/) pour tester la couverture eSIM à Punta Cana sans risque, puis utilisez le code **WEB20** sur un forfait Roami complet quand l'essai vous aura convaincu.
+Le conseil de Roami est simple : atterrissez connecté. Commencez par l'[eSIM d'échantillon](/free-esim/) pour tester la couverture eSIM à Punta Cana sans risque, puis utilisez le code **web20** sur un forfait Roami complet quand l'essai vous aura convaincu.

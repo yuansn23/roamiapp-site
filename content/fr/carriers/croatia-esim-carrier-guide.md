@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM Croatie choisir pour voyager ?"
 description: "Roami teste Hrvatski Telekom, A1 et Telemach sur l'Adriatique pour que votre eSIM Croatie tienne des ferries jusqu'aux îles."
-image: "img/esim/carriers/croatia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/croatia-esim-carrier-guide.webp"
 date: "2026-09-27T04:29:22+00:00"
 keywords: eSIM Croatie, opérateur eSIM Croatie, Hrvatski Telekom, A1 Hrvatska, Telemach, lacs de Plitvice, Dubrovnik, données haut débit, sans frais d'itinérance, compatibilité eSIM
 site_name: Roami
@@ -23,9 +23,9 @@ Les statistiques nationales sont solides plutôt que spectaculaires. Le téléch
 
 Mais la connexion se juge sur les îles, pas dans la capitale : les réseaux sont conçus autour des corridors de ferries, des marinas et de la vague estivale. Ce guide cartographie quel opérateur tient où, ce que paient les visiteurs, et chaque étape vers une ligne de données active sur le pont.
 
-Les graphiques de vitesse et les cartes de couverture sont sans pertinence si le profil ne s'installe jamais. Le [vérificateur de compatibilité](/compatibility/) et ce [guide d'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) couvrent les fondamentaux, laissant ce guide libre de comparer les réseaux de front.
+Les graphiques de vitesse et les cartes de couverture sont sans pertinence si le profil ne s'installe jamais. Le [contrôle de compatibilité](/compatibility/) et ce [guide d'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) couvrent les fondamentaux, laissant ce guide libre de comparer les réseaux de front.
 
-**La version courte :** L'eSIM Hrvatski Telekom est l'ancre nationale — la plus large empreinte, le signal le plus fort sur les îles et les parcs nationaux, et le réseau vers lequel un itinéraire en ferry ou une escale de croisière devrait pencher par défaut. L'eSIM A1 Hrvatska est l'option de valeur, avec une ligne touristique réellement achetable en ligne (5G illimitée dès 10,90 € pour trois jours, 29 € pour 30). L'eSIM Telemach Hrvatska est l'option données à petit budget — environ 9,95 € pour 100 Go achetés en boutique — et son réseau remporte désormais des prix de vitesse indépendants. Testez d'abord avec l'[eSIM de test gratuite](/free-esim/), ou appliquez le code **WEB20** pour 20 % de réduction sur un [forfait eSIM Croatie](/croatia-esim/).
+**La version courte :** L'eSIM Hrvatski Telekom est l'ancre nationale — la plus large empreinte, le signal le plus fort sur les îles et les parcs nationaux, et le réseau vers lequel un itinéraire en ferry ou une escale de croisière devrait pencher par défaut. L'eSIM A1 Hrvatska est l'option de valeur, avec une ligne touristique réellement achetable en ligne (5G illimitée dès 10,90 € pour trois jours, 29 € pour 30). L'eSIM Telemach Hrvatska est l'option données à petit budget — environ 9,95 € pour 100 Go achetés en boutique — et son réseau remporte désormais des prix de vitesse indépendants. Testez d'abord avec l'[eSIM de test gratuite](/free-esim/), ou appliquez le code **web20** pour 20 % de réduction sur un [forfait eSIM Croatie](/croatia-esim/).
 
 ## Pourquoi l'Adriatique décide de votre réseau en Croatie ?
 
@@ -56,7 +56,7 @@ Le marché est un oligopole à trois, tous supervisés par HAKOM :
 
 Cette structure compte pour votre décision d'eSIM plus que toutes les autres : **l'endroit où vous comptez être, pas ce que coûte le forfait.** L'eSIM illimitée trois jours d'A1 à 10,90 € est le moyen le moins cher de rejoindre un réseau croate — mais si vos journées se passent entre Split et Vis, l'édition touristique de HT achetée en boutique vaut le détour par la boutique.
 
-### Quels sont les opérateurs croates ?
+### Pourquoi les classements se contredisent-ils ?
 
 Les trois grands programmes de mesure ont tous publié sur la Croatie récemment, et ils ne sont pas d'accord :
 
@@ -100,7 +100,9 @@ Traitez les médianes nationales comme le plafond de n'importe quelle connexion 
 Au-delà de la Croatie, la même côte s'écoule vers des marchés qu'un profil Croatie seule ne couvre pas — les [forfaits eSIM Slovénie](/slovenia-esim/) au nord, et deux autres en descendant la côte :
 
 - Notre [guide eSIM Italie](/carriers/italy-esim-carrier-guide/) de l'autre côté de l'Adriatique
-- Les [options eSIM Monténégro](/montenegro-esim/) à l'embouchure de la baie
+- Les [options eSIM Monténégro](/montenegro-esim/) à l'embouchure de la baie, avec [notre comparatif des réseaux monténégrins](/carriers/montenegro-esim-carrier-guide/)
+- [Le guide des opérateurs hongrois](/carriers/hungary-esim-carrier-guide/) au nord, si votre route passe par Zagreb avant Budapest
+- [Notre guide eSIM Grèce](/carriers/greece-esim-carrier-guide/) au sud-est de l'Adriatique
 
 ## Où votre eSIM tient-elle, île par île ?
 
@@ -148,7 +150,7 @@ Les mêmes cellules qui produisent la médiane nationale en octobre servent un m
 
 | Mois | Charge sur les cellules côtières | À quoi s'attendre | Geste pratique |
 |:---|:---|:---|:---|
-| Avril et octobre | Légère | Proche de la médiane annuelle presque partout | Les meilleures mois de mi-saison pour les envois lourds |
+| Avril et octobre | Légère | Proche de la médiane annuelle presque partout | Les meilleurs mois de mi-saison pour les envois lourds |
 | Mai | Légère | Vitesses quasi médianes presque partout, îles comprises | Le mois le plus rentable pour un gros utilisateur de données |
 | Juin | Montante | Pleine vitesse sauf au port de Split et à Dubrovnik les jours de croisière | Correct pour les appels vidéo et le télétravail |
 | Juillet | Pic | Congestion des terminaux et du front de mer dès la fin de matinée ; les villes d'îles ralentissent après 18:00 | Téléchargez avant d'embarquer ; utilisez le Wi-Fi en intérieur |
@@ -171,7 +173,7 @@ Trois habitudes empêchent une étiquette croate bon marché de devenir chère :
 
 ### Quelles sont les règles d'enregistrement en Croatie ?
 
-L'enregistrement surprend les arrivants, et les sources ne s'accordent pas. Les opérateurs croates et la plupart des guides de vente disent que chaque SIM prépayée doit être enregistrée contre une pièce d'identité avec photo et une adresse, votre hôtel ou appartement étant accepté. D'autres, en lisant la loi sur les communications électroniques elle-même, ne trouvent pas une telle obligation légale et rapportent des ventes prépayées anonymes. Les deux peuvent être vrais en pratique : les comptoirs demandent, et les eSIM touristiques en ligne ne demandent rien.
+L'enregistrement surprend les arrivants, et les sources ne s'accordent pas. Les opérateurs croates et la plupart des guides de vente disent que chaque carte SIM prépayée doit être enregistrée contre une pièce d'identité avec photo et une adresse, votre hôtel ou appartement étant accepté. D'autres, en lisant la loi sur les communications électroniques elle-même, ne trouvent pas une telle obligation légale et rapportent des ventes prépayées anonymes. Les deux peuvent être vrais en pratique : les comptoirs demandent, et les eSIM touristiques en ligne ne demandent rien.
 
 ## Quelles offres A1 Hrvatska et Telemach valent la comparaison ?
 
@@ -190,7 +192,7 @@ Commandez en ligne, recevez le profil par e-mail, et le forfait démarre à votr
 
 ### Combien coûtent les données en Croatie ?
 
-Côte à côte, l'éventail est plus étroit que ce que le marketing suggère : **10,90 €** pour trois jours illimités chez A1 (extensible à 3 € par jour), **10–14,90 €** pour une semaine à dix jours de données illimitées, **29 €** pour un mois complet, et **9,95 €** pour 100 Go sans limite de jours chez Telemach. Le point de bascule se voit vite : dix recharges journée à 3 € (30 €) dépassent déjà le forfait 30 jours à 29 €, donc au-delà d'une dizaine de jours, le mois complet gagne.
+Côte à côte, l'éventail est plus étroit que ce que le marketing suggère : **10,90 €** pour trois jours illimités chez A1 (extensible à 3 € par jour), **10–14,90 €** pour une semaine à dix jours de données illimitées, **29 €** pour un mois complet, et **9,95 €** pour un forfait data de 100 Go sans limite de jours chez Telemach. Le point de bascule se voit vite : dix recharges journée à 3 € (30 €) dépassent déjà le forfait 30 jours à 29 €, donc au-delà d'une dizaine de jours, le mois complet gagne.
 
 ## SIM locale ou eSIM voyage : quel coût en Croatie ?
 
@@ -209,7 +211,7 @@ L'économie au gigaoctet favorise les forfaits locaux — une carte Telemach 100
 
 Trois vérifications décident si votre téléphone peut héberger un profil croate : bandes prises en charge, statut de verrouillage et un EID. La Croatie est sans ambiguïté européenne : la 4G fonctionne sur les bandes 3, 7 et 20, et la 5G s'est déployée sur la bande n78 (3,5 GHz) à Zagreb, Split, Rijeka et Dubrovnik. Tout appareil vendu en Europe fonctionne tel quel ; les appareils d'autres régions fonctionnent généralement, mais une minorité manque la bande 20 ou n78 — le symptôme est un service rapide en centre-ville et de la LTE sur la route côtière.
 
-### Comment installer une eSIM Croatie ?
+### Quelles vérifications avant d'installer une eSIM Croatie ?
 
 1. **Statut de verrouillage.** Un téléphone verrouillé opérateur refuse tout profil croate quel que soit ce qu'il prend en charge. Sur iPhone le statut se trouve sous Réglages → Général → Informations → Verrou opérateur ; sur Android dans le gestionnaire de SIM.
 2. **EID.** Composez `*#06#` et confirmez qu'un EID apparaît. Pas d'EID signifie pas de matériel eSIM, et la conversation passe aux SIM physiques.
@@ -231,7 +233,7 @@ Trois parcours d'achat existent. Prenez le mauvais et une installation qui devra
 
 Tisak — les kiosques verts à chaque aéroport, gare routière et rue principale — vend les produits HT et est souvent le comptoir le plus rapide dans une ville balnéaire, quoique la délivrance d'eSIM varie selon le lieu et la saison.
 
-### Comment activer votre SIM en Croatie ?
+### Comment acheter l'eSIM touristique A1 en ligne ?
 
 1. Ouvrez la page d'offre touristique d'A1 et choisissez un forfait — 10,90 € pour trois jours illimités est le point d'entrée.
 2. Payez par carte et recevez le code QR et les instructions par e-mail.
@@ -243,7 +245,7 @@ Tisak — les kiosques verts à chaque aéroport, gare routière et rue principa
 
 Achetez avant de voler, installez sur le Wi-Fi à la maison, et le profil se connecte à l'atterrissage à Zagreb, Split ou Dubrovnik — pas de comptoir, pas d'enregistrement, sélection d'opérateur automatique. Pour une escale de croisière ou une boucle côtière d'une semaine, c'est généralement le choix rationnel, moyennant une prime modeste au Go ; notre [guide d'activation eSIM](/faq/how-to-activate-an-esim/) couvre l'étape d'installation.
 
-### Combien coûtent les données en Croatie ?
+### Combien de temps prend l'achat selon la voie ?
 
 Le temps d'acquisition compte autant que l'étiquette : **en boutique**, 15 à 30 minutes à un comptoir calme, une heure ou plus à Split en août ; **en ligne avec A1**, dix minutes à la maison ; **en eSIM voyage**, pareil, plus la sélection de réseau automatique.
 
@@ -294,7 +296,7 @@ La Croatie se trouve au bord de deux régimes d'itinérance, et un profil Croati
 | Slovénie | UE, dans l'itinérance comme chez soi | Les produits touristiques croates incluent peu ou pas de données UE, supposez donc l'arrêt | Un [forfait Slovénie](/slovenia-esim/) ou un profil Europe régional |
 | Hongrie | UE, dans l'itinérance comme chez soi | Même position que la Slovénie : vérifiez d'abord le quota d'usage raisonnable du forfait | Un profil Europe régional |
 | Bosnie-Herzégovine | Hors du régime UE | Aucun service sur un forfait Croatie seule | Un profil dédié ; notez le corridor de Neum ci-dessous |
-| Monténégro | Hors du régime UE | Aucun service ; la couverture le long de la côte est bonne une fois pourvu | [Options eSIM Monténégro](/montenegro-esim/) |
+| Monténégro | Hors du régime UE | Aucun service ; la couverture le long de la côte est bonne une fois pourvu | [eSIM Monténégro](/montenegro-esim/) |
 | Serbie | Hors du régime UE | Aucun service | Un profil Balkans ou régional |
 | Italie, par la mer | UE | Aucun service sur un forfait Croatie seule, malgré la courte traversée | Un profil dédié pour l'Italie |
 
@@ -382,6 +384,14 @@ Dans les grandes villes côtières. Les trois opérateurs ont déployé la 5G su
 
 Votre ligne perd le signal autour de 10 km au large, quand le navire sort de l'empreinte de tout opérateur, et se reconnecte à mesure que la terre revient à portée — rien ne casse et rien ne doit être réinitialisé. Gardez le mode avion désactivé et pré-téléchargez tout ce dont vous avez besoin pour la traversée.
 
+### Faut-il acheter ses billets de ferry avant d'embarquer ?
+
+Oui, et l'été rend la question pressante : en juillet et août, les ponts véhicules affichent complet deux à trois semaines à l'avance, avant même les billets passagers à pied. C'est un cas d'usage direct de votre forfait data — réservez en ligne depuis la côte plutôt que de compter sur le guichet du port, où la file s'allonge exactement aux heures où les cellules saturent. Le ferry-auto de Hvar accoste par ailleurs à Stari Grad, à 20 km de la ville de Hvar : planifiez le dernier kilomètre.
+
+### Peut-on régler sa connexion à l'aéroport de Zagreb ?
+
+Oui — un kiosque Tisak règle le problème en quinze minutes, et ces kiosques verts vendent les produits HT dans chaque aéroport, gare routière et rue principale. Mais la délivrance d'eSIM y varie selon le lieu et la saison, et l'enregistrement en boutique prend de 15 à 30 minutes à un comptoir calme, bien plus en haute saison. L'alternative sans file : l'offre touristique en ligne d'A1, ou une eSIM voyage installée avant le vol.
+
 ## Nos sources
 
 - **Ookla Speedtest Global Index** — [la page pays Croatie](https://www.speedtest.net/global-index/croatia) rapporte les médianes d'août 2026 : 120,15 Mbps mobile et 193,52 Mbps en 5G, plus les rangs mondiaux.
@@ -394,6 +404,6 @@ Les comparaisons de prix nationales viennent de l'étude mondiale des prix de do
 
 ## Débarquez avec une eSIM Croatie fonctionnelle
 
-L'Adriatique récompense les voyageurs qui règlent la connectivité avant la passerelle : horaires téléchargés, billets dans le portefeuille, et une ligne de données qui suit la côte. L'[eSIM Croatie de Roami](/croatia-esim/) bascule automatiquement entre Hrvatski Telekom, A1 Hrvatska et Telemach — d'île en île, de port en port. [eSIM d'essai sans frais](/free-esim/) pour la tester ; appliquez le code **WEB20** pour 20 % de réduction sur votre premier forfait.
+L'Adriatique récompense les voyageurs qui règlent la connectivité avant la passerelle : horaires téléchargés, billets dans le portefeuille, et une ligne de données qui suit la côte. L'[eSIM Croatie de Roami](/croatia-esim/) bascule automatiquement entre Hrvatski Telekom, A1 Hrvatska et Telemach — d'île en île, de port en port. [eSIM d'essai sans frais](/free-esim/) pour la tester ; appliquez le code **web20** pour 20 % de réduction sur votre premier forfait.
 
-Un dernier contrôle avant le départ : votre téléphone, sur la [page de compatibilité eSIM](/compatibility/), puis commencez par une Roami [réclamer une eSIM de test](/free-esim/) et observez comment la compatibilité eSIM traite votre route. Si cela fonctionne, le code **WEB20** offre 20 % de réduction sur tout forfait Roami payant pour la Croatie.
+Un dernier contrôle avant le départ : votre téléphone, sur la [page de compatibilité eSIM](/compatibility/), puis [réclamez une eSIM de test](/free-esim/) Roami et observez comment la compatibilité eSIM traite votre route. Si cela fonctionne, le code **web20** offre 20 % de réduction sur tout forfait Roami payant pour la Croatie.

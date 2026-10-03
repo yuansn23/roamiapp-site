@@ -1,9 +1,9 @@
 ---
 title: "Opérateurs eSIM Royaume-Uni : quel réseau choisir ?"
 description: "Roami compare EE, Vodafone, O2 et Three pour une eSIM Royaume-Uni : vitesses 5G, couverture et prix des forfaits prépayés."
-image: "img/esim/carriers/united-kingdom-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-kingdom-esim-carrier-guide.webp"
 date: "2026-09-23T10:15:47+00:00"
-keywords: eSIM United Kingdom, prepaid data, 5G network, UK eSIM, travel eSIM, digital nomad UK, UK eSIM carriers, eSIM operators United Kingdom, EE eSIM, Vodafone eSIM, Three eSIM, Virgin Media O2 eSIM
+keywords: eSIM Royaume-Uni, opérateurs eSIM Royaume-Uni, données prépayées, réseau 5G, eSIM UK, eSIM voyage UK, nomade numérique Royaume-Uni, eSIM EE, eSIM Vodafone, eSIM Three, eSIM Virgin Media O2
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -22,7 +22,7 @@ Que vous l'appeliez eSIM UK ou eSIM Royaume-Uni, choisir entre les quatre résea
 
 [eSIM Royaume-Uni](/united-kingdom-esim/)
 
-**En bref :** EE est le réseau le plus rapide du pays avec une large marge, avec une **vitesse médiane de téléchargement de 114.1 Mbps** selon le [rapport UK 2H 2025 d'Ookla et RootMetrics](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), et la couverture rurale la plus large. Three et Vodafone se situent dans la bande 45–55 Mbps au niveau national mais résistent mieux sur le prix et l'itinérance. Virgin Media O2 est celui à choisir si vous franchissez la frontière vers la République d'Irlande, car il ne facture pas l'itinérance UE. Les eSIM prépayées sont disponibles sur les quatre réseaux sans adresse britannique ni vérification de crédit. Les nouveaux voyageurs peuvent [tester l'eSIM](/free-esim/) ou retirer 20% d'un forfait payant avec le code **WEB20** sur les [forfaits eSIM Royaume-Uni](/united-kingdom-esim/).
+**En bref :** EE est le réseau le plus rapide du pays avec une large marge, avec une **vitesse médiane de téléchargement de 114.1 Mbps** selon le [rapport UK 2H 2025 d'Ookla et RootMetrics](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025), et la couverture rurale la plus large. Three et Vodafone se situent dans la bande 45–55 Mbps au niveau national mais résistent mieux sur le prix et l'itinérance. Virgin Media O2 est celui à choisir si vous franchissez la frontière vers la République d'Irlande, car il ne facture pas l'itinérance UE. Les eSIM prépayées sont disponibles sur les quatre réseaux sans adresse britannique ni vérification de crédit. Les nouveaux voyageurs peuvent [tester l'eSIM](/free-esim/) ou retirer 20% d'un forfait payant avec le code **web20** sur les [forfaits eSIM Royaume-Uni](/united-kingdom-esim/).
 
 ## Quel est le meilleur opérateur eSIM Royaume-Uni pour votre voyage ?
 
@@ -112,6 +112,8 @@ Virgin Media O2 a enregistré la médiane nationale la plus lente des quatre à 
 | Grand | 150 GB | £20 | ≈ $25 |
 | Très grand | 250 GB | £30 | ≈ $38 |
 
+Comparez les entrées à £10 côte à côte et l'écart saute aux yeux : Three en donne 60 Go, Virgin Media O2 30 Go, Vodafone seulement 15 Go. Si le volume compte plus que la portée rurale, Three écrase le rapport qualité-prix dès le premier palier.
+
 La disponibilité de l'eSIM PAYG d'O2 est le seul point où les sources britanniques divergent réellement : [un guide PAYG](https://www.simonlyfinder.co.uk/guides/which-networks-offer-esims-on-pay-as-you-go) rapporte que les eSIM PAYG d'O2 ne peuvent pas être émises en ligne et exigent un déplacement en boutique avec une pièce d'identité avec photo, tandis qu'[une autre](https://www.4g.co.uk/news/esim-pay-as-you-go/) dit que l'eSIM peut être demandée au paiement comme sur tout autre réseau. Prévoyez le déplacement en boutique, et traitez l'option en ligne comme un bonus plutôt que comme l'attendu.
 
 ## Quelles vérifications avant de choisir une eSIM UK ?
@@ -132,7 +134,7 @@ Trois voies : en ligne sur les pages prépayées d'EE, Three ou Vodafone ; en bo
 
 EE et Vodafone mènent hors des villes — en Écosse et au Pays de Galles surtout — tandis que Three et Virgin Media O2 s'en sortent le mieux dans les zones urbaines denses. Le tableau régional ci-dessous détaille cela route par route, car « meilleur réseau rural » est une réponse trop grossière pour un pays où Snowdonia et les Cornouailles ont des problèmes différents.
 
-### 5. Quels réglages font fonctionner votre eSIM à l'arrivée ?
+### Quels réglages font fonctionner votre eSIM à l'arrivée ?
 
 Le Royaume-Uni est un marché 5G NSA et SA, et une eSIM qui s'installe proprement peut encore afficher aucun service pour des raisons banales. **L'itinérance des données doit être activée** pour la ligne eSIM — le UK est traité comme destination d'itinérance par beaucoup de profils de voyage — et l'eSIM doit être sélectionnée comme ligne utilisée pour les données mobiles. Vérifiez les deux avant de conclure que quelque chose est cassé.
 
@@ -224,6 +226,8 @@ Prolongez le voyage au-delà du UK ? La même analyse sourcée existe pour :
 - [eSIM de voyage France](/france-esim/)
 - [eSIM pour les Pays-Bas](/netherlands-esim/)
 
+Pour comparer les réseaux côté opérateurs avant de partir, consultez notre [guide des opérateurs eSIM Irlande](/carriers/ireland-esim-carrier-guide/), le [guide eSIM Europe](/carriers/europe-esim-carrier-guide/) et le [guide eSIM États-Unis](/carriers/united-states-esim-carrier-guide/).
+
 💡 Vous traversez des régions ? L'opérateur qui gagne dans une zone est rarement le meilleur dans la suivante, et c'est exactement ce que résout une eSIM multi-réseaux.
 
 ## Comment associer un opérateur britannique à votre voyage ?
@@ -272,7 +276,7 @@ Les erreurs d'activation générales — un profil qui ne se télécharge pas, u
 
 **D. Tout fonctionne sauf le métro ou un lieu bondé.** De la congestion, pas de la couverture. Le signal existe et est saturé. Aucun changement de réglage ne répare un stade plein ou un quai à 18 heures ; téléchargez des cartes hors ligne pour le métro et acceptez que les messages puissent patienter.
 
-### UK vs EE : lequel est meilleur au Royaume-Uni ?
+### Que préparer avant de contacter l'assistance eSIM UK ?
 
 Gardez votre EID (depuis `*#06#`), votre numéro de commande, le réseau hôte auquel votre profil devrait s'attacher, une capture de l'erreur, et une courte liste de ce que vous avez déjà essayé. Les conversations avec le support britannique avancent plus vite quand vous pouvez dire sur quel réseau le téléphone est réellement attaché et si l'itinérance est activée.
 
@@ -325,13 +329,21 @@ Les prix de départ vont de £10 pour 30 à 60 Go chez les prépayés locaux au 
 
 Ceux qui échouent sont les combinés verrouillés opérateur ou dépourvus de matériel eSIM. Deux exigences donc : un combiné déverrouillé avec support eSIM. Passez le numéro de modèle dans la [liste de compatibilité](/compatibility/), et attention à la bande 20 / n28, la couche basse fréquence qui porte la couverture rurale et qui manque sur certains combinés importés.
 
-### Q : Que devient mon eSIM UK quand je passe en Irlande ?
+### Que devient mon eSIM UK quand je passe en Irlande ?
 
 Rien d'automatique tant que le profil ne couvre pas l'Irlande. Un forfait réservé au UK cesse de fonctionner à la frontière, et certains profils perdent simplement le service sans message. Le réseau d'O2 est le choix le plus sûr pour une étape en Irlande car il ne facture pas l'itinérance UE, sous un plafond d'usage raisonnable de 25 GB — mais sur une eSIM de voyage, vérifiez la liste des destinations avant d'acheter.
 
 ### Comment configurer une eSIM Royaume-Uni, étape par étape ?
 
 Scan du QR, deux réglages, et c'est parti : Réglages → Cellulaire → Ajouter eSIM sur iPhone, Réglages → Connexions → Gestionnaire de SIM sur Android, puis l'itinérance activée et la ligne eSIM choisie pour les données — le pas-à-pas par plateforme est plus haut. Si rien ne marche, parcourez les quatre schémas ci-dessus dans l'ordre — réglage d'itinérance, verrou d'appareil et EID, sélection de réseau, puis congestion — et si cela échoue encore, le catalogue plus large du [guide de résolution des problèmes eSIM](/faq/esim-activation-errors-troubleshooting-guide/) couvre les cas restants. Le support demandera l'EID et le numéro de commande — ayez-les prêts.
+
+### L'Irlande du Nord est-elle couverte par une eSIM Royaume-Uni ?
+
+Oui, sans réserve : l'Irlande du Nord fait partie du Royaume-Uni, donc Belfast, la côte d'Antrim et les Glens relèvent du même territoire réseau que le reste du pays et votre forfait UK y fonctionne normalement. La confusion vient de l'autre Irlande — la République d'Irlande est un pays distinct, hors du Royaume-Uni, et un profil réservé au UK y cesse de fonctionner. Comme la frontière terrestre est poreuse au signal, un téléphone près de Newry ou Derry peut s'accrocher à un réseau irlandais et déclencher de l'itinérance sans avertissement. Réglez la sélection manuelle du réseau près de la frontière, ou prenez un profil qui liste le UK et l'Irlande ensemble.
+
+### Que faire si je n'ai pas d'eSIM en arrivant au Royaume-Uni ?
+
+Le Royaume-Uni est l'un des marchés les plus indulgents pour ce scénario : aucune adresse britannique ni vérification de crédit n'est exigée pour une eSIM prépayée. Trois options, par ordre de commodité. D'abord, le Wi-Fi gratuit de Heathrow, Gatwick ou d'une gare vous permet d'acheter et d'installer une eSIM de voyage en quelques minutes. Ensuite, en ligne directement chez EE, Three ou Vodafone : sélectionnez eSIM au paiement et la livraison par e-mail — avec une carte étrangère, méfiez-vous de la vérification antifraude. Enfin, en boutique : une pièce d'identité avec photo suffit, et c'est justement la seule voie pour l'eSIM PAYG d'O2, qui ne s'émet pas en ligne. La souplesse du marché veut que le pire scénario soit une demi-heure de Wi-Fi, pas une journée perdue.
 
 [Voir la FAQ complète →](/faq/)
 
@@ -358,7 +370,7 @@ Traitez chaque chiffre ici comme une mesure tierce datée plutôt qu'une garanti
 
 ## Comment être connecté dès votre arrivée au Royaume-Uni ?
 
-Roami garde les données qui circulent de Heathrow aux Highlands, passant d'EE à Vodafone, Three et Virgin Media O2 au gré du signal. Essayez d'abord une [eSIM d'essai gratuite Roami](/free-esim/), ou économisez 20% avec le code **WEB20** sur un [forfait eSIM Royaume-Uni](/united-kingdom-esim/).
+Roami garde les données qui circulent de Heathrow aux Highlands, passant d'EE à Vodafone, Three et Virgin Media O2 au gré du signal. Essayez d'abord une [eSIM d'essai gratuite Roami](/free-esim/), ou économisez 20% avec le code **web20** sur un [forfait eSIM Royaume-Uni](/united-kingdom-esim/).
 
 [Achetez le forfait eSIM Royaume-Uni](/united-kingdom-esim/)
 

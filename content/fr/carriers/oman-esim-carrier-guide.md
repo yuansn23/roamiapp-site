@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM choisir pour un voyage à Oman ?"
 description: "Roami compare Omantel, Ooredoo et Vodafone à Oman : 5G à Mascate, enregistrement au passeport et couverture hors des villes."
-image: "img/esim/carriers/oman-esim-carrier-guide.jpg"
+image: "img/esim/carriers/oman-esim-carrier-guide.webp"
 date: "2026-09-24T08:01:07+00:00"
 keywords: eSIM Oman opérateurs, eSIM Omantel, eSIM Ooredoo, eSIM Vodafone Oman, 5G Mascate, couverture Wahiba Sands, eSIM Musandam, APN eSIM Oman, enregistrement SIM Oman, meilleure eSIM Oman
 site_name: Roami
@@ -19,7 +19,7 @@ Oman est l'histoire de deux cartes, et l'opérateur que votre eSIM Oman choisit 
 
 Les comparaisons ne servent à rien tant que le profil ne s'installe pas proprement ; l'[outil de compatibilité eSIM](/compatibility/) et le [guide d'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) couvrent les deux moitiés. Revenez ensuite pour les verdicts des réseaux.
 
-**La réponse courte :** Vous restez à Mascate ou Salalah ? **Ooredoo** est un peu moins cher et rapide en ville ; **Omantel** l'égalise sur la 5G. Vous planifiez des road trips entre villes ou vers la côte ? **Omantel** est le seul réseau avec un signal fiable au-delà de l'autoroute — choisissez-le pour tout road trip. **Vodafone Oman** (licencié en 2021) est une troisième option mais sa portée est urbaine. Un piège : chaque opérateur d'Oman exige encore l'enregistrement au passeport au point de vente — il n'y a pas d'eSIM locale anonyme. Évitez le comptoir avec la [eSIM d'essai gratuite](/free-esim/), et le code WEB20 retire 20 % des [forfaits eSIM Oman](/oman-esim/).
+**La réponse courte :** Vous restez à Mascate ou Salalah ? **Ooredoo** est un peu moins cher et rapide en ville ; **Omantel** l'égalise sur la 5G. Vous planifiez des road trips entre villes ou vers la côte ? **Omantel** est le seul réseau avec un signal fiable au-delà de l'autoroute — choisissez-le pour tout road trip. **Vodafone Oman** (licencié en 2021) est une troisième option mais sa portée est urbaine. Un piège : chaque opérateur d'Oman exige encore l'enregistrement au passeport au point de vente — il n'y a pas d'eSIM locale anonyme. Évitez le comptoir avec la [eSIM d'essai gratuite](/free-esim/), et le code web20 retire 20 % des [forfaits eSIM Oman](/oman-esim/).
 
 ## Quel opérateur local les visiteurs peuvent-ils utiliser ?
 
@@ -86,7 +86,7 @@ Les tailles de pack et la validité sont confirmées par le [guide SIM Oman de T
 
 **Particularités Ooredoo :** le pack illimité bride selon ses conditions d'usage raisonnable après usage intensif ; les passes d'itinérance GCC sont moins intéressantes que celles d'Omantel (une passe GCC 2 Go pour un jour coûte OMR 3 contre OMR 2 pour 2 Go sur trois jours chez Omantel) ; la recharge est facile dans les stations-service, Lulu et Carrefour en bons OMR 1–10.
 
-### Omantel vs Ooredoo : lequel est meilleur en Oman ?
+### Vodafone Oman : que vaut le troisième réseau ?
 
 Vodafone a entré Oman en 2021 comme troisième licencié de classe I et a depuis bâti un réseau urbain réellement compétitif avec des prix prépayés agressifs. Ce qu'il n'a pas encore, c'est l'intérieur d'Oman : la couverture se concentre à Mascate et dans quelques villes, ce qui en fait un bon choix Mascate-uniquement et un mauvais pour le road trip. Enregistrez-vous de la même façon — passeport, comptoir, QR eSIM — et traitez-le comme une ligne secondaire si vous quittez la région capitale.
 
@@ -115,7 +115,7 @@ Deux choses à savoir. D'abord, l'aéroport international de Mascate (MCT) dispo
 
 La stratégie la plus sensée pour la plupart des visiteurs : prendre le plus petit pack touristique à l'aéroport pour être en ligne, puis recharger un vrai pack de données via l'appli de l'opérateur ou un magasin de centre-ville le deuxième jour — les prix d'aéroport sont pratiques plutôt que bon marché, et les grosses tranches de données sont moins chères en ville.
 
-### Pouvez-vous acheter une eSIM Oman chez Omantel ?
+### Que préparer avant d'acheter votre eSIM Oman ?
 
 - Téléphone débloqué et compatible eSIM — vérifiez avec `*#06#` (un EID devrait apparaître) et le [quiz de compatibilité eSIM](/compatibility/)
 - Passeport original — les photocopies ne sont pas acceptées pour l'enregistrement TRA
@@ -147,9 +147,9 @@ C'est la section qui sauve les voyages. Les distances interville d'Oman tuent le
 | Wadi Shab, Wadi Bani Khalid | Seulement au départ du sentier — l'intérieur de la gorge est à zéro | Omantel (toujours zéro à l'intérieur) | Les murs de roche bloquent chaque opérateur ; faites une capture des directions |
 | Jebel Shams (« Grand Canyon d'Arabie ») | Points de vue et resorts OK ; sentiers irréguliers | Omantel | La marche sur le bord est correcte, le fond du canyon non |
 | Péninsule Musandam (Khasab) | Ville et circuits en dhow près du rivage OK ; intérieur du fjord irrégulier | Omantel | En plein fjord lors des longues excursions jour, le signal se perd |
-| Rub' al Khali (Quartier Vide) | Aucun signal fiable sur aucun opérateur | Aucun | Planifiez entièrement hors ligne ; envisagez un messager satellite |
+| Rub' al Khali (Quartier Vide) | Aucun signal fiable sur aucun opérateur | Aucun | Aucune eSIM ne crée de couverture ici ; les itinéraires touristiques classiques ne s'y aventurent pas |
 
-Règle empirique des visiteurs fréquents : les resorts côtiers dépassent les attentes, mais le signal se concentre dans les villes et s'effile vite entre elles. Enregistrez vos Google Maps hors ligne et épinglez votre parking avant de partir.
+Règle empirique des visiteurs fréquents : les resorts côtiers dépassent les attentes, mais le signal se concentre dans les villes et s'effile vite entre elles. Enregistrez vos Google Maps hors ligne et épinglez votre parking avant de partir. Et lisez le tableau d'un trait : pas une seule ligne n'est remportée par Ooredoo ou Vodafone — dès qu'on quitte Mascate, Omantel balaye les huit zones.
 
 Deux notes saisonnières. Khareef (la mousson juin–septembre qui verdit Salalah) ne dégrade pas le signal mobile — les pylônes du Dhofar fonctionnent à travers le brouillard — mais elle multiplie le trafic routier vers Ayn Razat, Mughsail et Jebel Samhan, donc attendez-vous à de la congestion sur les cellules près des points de vue même là où la couverture est forte. L'été dans le nord est la contrainte la plus dure : randonner Jebel Shams ou les oueds à 45 °C signifie des fenêtres de voyage plus courtes, donc téléchargez cartes et waypoints à l'avance plutôt que de compter sur une connexion à mi-sentier qui n'existera peut-être pas.
 
@@ -161,7 +161,7 @@ Deux notes saisonnières. Khareef (la mousson juin–septembre qui verdit Salala
 | Boucle d'une semaine : Mascate, Nizwa, Wahiba, Wadi Shab | 15–20 Go sur Omantel | Journées à forte navigation plus téléversements du soir |
 | Deux semaines incluant Salalah & Musandam | 25–30 Go | Longues journées de conduite avec mises à jour des cartes hors ligne |
 | Saison Khareef à Salalah (2 semaines) | 20 Go | Le signal tient ; la foule congestionne les cellules aux sites |
-| Itinéraire long (Quartier Vide, Duqm) | 15 Go + repli satellite | Les données sont pour les portions connectées ; le reste est hors ligne |
+| Route côtière centrale (Duqm) | 15 Go | Longues journées de conduite connectées, tronçons vides entre les villes |
 | Mois de télétravail à Mascate | 50 Go+ | La 5G ville soutient ; Wi-Fi hôtel en repli |
 
 ## Quel est le meilleur opérateur eSIM Oman : Omantel ou Ooredoo ?
@@ -177,7 +177,7 @@ Itinéraires réels, tranchés en une ligne chacun — si votre route apparaît 
 | Salalah & saison khareef | Omantel | Meilleure portée Dhofar ; le brouillard de mousson ne bloque pas le signal | La zone des sources de montagne est irrégulière |
 | Croisière en dhow à Musandam (Khasab) | Omantel | Les routes près du rivage gardent un signal | En plein fjord et dans l'intérieur, le signal se perd |
 | Duqm & la route de la côte centrale | Omantel | Le seul opérateur avec une couverture autoroutière cohérente | Longs secteurs vides entre villes — emportez batterie externe et cartes hors ligne |
-| Longue traversée du Quartier Vide (Rub' al Khali) | Aucun | Aucun opérateur ne dessert ces étendues profondes | Le messager satellite est l'outil adapté |
+| Rub' al Khali (Quartier Vide) | Aucun | Aucun opérateur ne dessert ces étendues profondes, hors des circuits touristiques | Restez sur les routes classiques ; prévoyez cartes hors ligne |
 
 ## Quelles vitesses et quel prix au gigaoctet en Oman ?
 
@@ -218,11 +218,11 @@ C'est de la géographie, pas de la configuration. Au-delà de l'autoroute goudro
 
 Les tranches touristes d'Omantel commencent par la voix et seulement un bundle de bienvenue de 1 Go, donc un téléphone affichant de la 4G qui refuse de charger une page est souvent simplement à court de données. Ajoutez une recharge via `*455#`, redémarrez une fois, et confirmez que l'eSIM — pas la ligne personnelle — est la ligne de données. Les lignes Ooredoo qui ne se configurent pas après un achat en comptoir peuvent tirer les réglages en envoyant « All » au 1501.
 
-### Comment choisir un forfait Oman ?
+### VoIP et eSIM de voyage : ce qui change en Oman ?
 
 Oman autorise la VoIP là où ses voisins ne le font pas, mais cette permission appartient à la ligne locale, pas à votre eSIM voyage. Les appels WhatsApp, FaceTime et Skype sur une eSIM data-only dépendent toujours de l'enveloppe du forfait, et certains réseaux hôteliers et d'entreprise brident les protocoles. Testez sur les données mobiles plutôt que sur le Wi-Fi hôtel si les appels échouent, et vérifiez l'enveloppe avant de supposer un blocage.
 
-### Qui exploite les réseaux mobiles en Oman
+### Dépannage express, opérateur par opérateur
 
 - **Omantel :** les packs s'activent via `*455#` ; si un pack neuf affiche des barres mais pas de données, redémarrez une fois avant d'éditer l'APN.
 - **Ooredoo :** envoyez « All » au 1501 pour les réglages automatiques, ou saisissez `internet` à la main.
@@ -284,6 +284,14 @@ Les deux excellent dans les grandes villes, Omantel creusant l'écart dès que l
 
 `internet.omantel.om`, nom d'utilisateur et mot de passe vides. Ooredoo utilise `internet` ; Vodafone utilise `vfinternet`. Ne réglez ces valeurs que sur une eSIM émise par un opérateur.
 
+### Le partage de connexion fonctionne-t-il avec les packs touristiques omanais ?
+
+Oui, dans les limites du forfait : un forfait data Oman diffuse un point d'accès comme n'importe quelle ligne mobile. La nuance porte sur le pack illimité d'Ooredoo, vendu avec des conditions d'usage raisonnable — les gros utilisateurs du partage de connexion rapportent un bridage dès la deuxième semaine. Pour connecter un ordinateur plusieurs jours de suite, un pack limité mais plus grand ou une recharge `*455#` reste plus prévisible qu'un « illimité » bridé.
+
+### Comment recevoir mes codes de vérification bancaire en Oman ?
+
+Sur une eSIM de voyage data-seule, nulle part : sans numéro local, les SMS de double facteur arrivent toujours sur votre ligne habituelle. Gardez cette dernière active pour les SMS avec l'itinérance des données (roaming) coupée, et laissez l'eSIM porter les données. Bonne nouvelle propre à Oman : WhatsApp et FaceTime y sont autorisés, donc une fois en ligne vous pouvez aussi joindre votre banque par appel internet si le SMS se fait attendre.
+
 ### Puis-je utiliser mon eSIM Oman à Dubaï ou ailleurs dans le GCC ?
 
 Pas au tarif domestique. Votre pack omanais s'arrête à la frontière et l'itinérance s'applique. Omantel et Ooredoo vendent tous deux des recharges d'itinérance GCC, mais pour un vrai voyage à deux pays une eSIM ÉAU ou un forfait régional est généralement meilleure valeur.
@@ -324,16 +332,18 @@ Plus de questions ? [Voir la FAQ complète →](/faq/)
 
 ## Pourquoi configurer votre eSIM Oman avant le départ ?
 
-Une eSIM Oman, les deux grands réseaux : Roami se rattache à Omantel ou Ooredoo de lui-même pendant que vous roulez de Mascate vers Salalah, donc pas de seconde SIM à échanger en route. Nouveau chez Roami ? Commencez par une eSIM d'essai Oman gratuite, et si vous achetez, le code **WEB20** retire **20 %** d'un forfait Oman.
+Une eSIM Oman, les deux grands réseaux : Roami se rattache à Omantel ou Ooredoo de lui-même pendant que vous roulez de Mascate vers Salalah, donc pas de seconde SIM à échanger en route. Nouveau chez Roami ? Commencez par une eSIM d'essai Oman gratuite, et si vous achetez, le code **web20** retire **20 %** d'un forfait Oman.
 
 [Commander votre eSIM Oman](/oman-esim/)
 
 [Réclamer l'essai Oman gratuit](/free-esim/)
 
-*L'essai gratuit et WEB20 sont réservés aux nouveaux clients Roami.*
+*L'essai gratuit et web20 sont réservés aux nouveaux clients Roami.*
 
 Si vous poursuivez au-delà d'Oman, voici la même analyse opérateur par opérateur pour les voisins :
 
-- [eSIM ÉAU](/united-arab-emirates-esim/)
+- [eSIM Émirats arabes unis](/united-arab-emirates-esim/)
 - [eSIM Arabie saoudite](/saudi-arabia-esim/)
 - [eSIM Bahreïn](/bahrain-esim/)
+
+Et pour comparer les réseaux avant de réserver la suite du voyage, poursuivez avec [notre guide des opérateurs émiratis](/carriers/united-arab-emirates-esim-carrier-guide/), [le comparatif eSIM Égypte](/carriers/egypt-esim-carrier-guide/), [les réseaux jordaniens en détail](/carriers/jordan-esim-carrier-guide/) ou [notre guide eSIM Bahreïn](/carriers/bahrain-esim-carrier-guide/).

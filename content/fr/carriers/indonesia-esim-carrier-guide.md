@@ -4,7 +4,7 @@ title: "Opérateur eSIM Indonésie : choisir Telkomsel ou XL ?"
 
 description: "Roami compare les opérateurs eSIM Indonésie Telkomsel, XL et IM3 Ooredoo sur la 5G à Bali, la couverture et les prix des packs."
 
-image: "img/esim/carriers/indonesia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/indonesia-esim-carrier-guide.webp"
 
 date: "2026-09-26T09:20:29+00:00"
 
@@ -43,7 +43,7 @@ L'Indonésie est un archipel d'environ 17 000 îles, et sa cartographie mobile s
 
 
 
-**Verdict rapide :** **Telkomsel** est le réseau au maillage le plus large du pays et le choix par défaut pour quiconque quitte les sentiers touristiques — la couverture géographique nationale a obtenu 8,6 sur 10, contre 5,5 pour Indosat et 4,8 pour XL. **XL** et **Indosat (IM3)** offrent un excellent rapport qualité-prix à Bali et à Java et peuvent surpasser Telkomsel sur la fiabilité dans le sud de Bali. Quoi que vous achetiez, n'oubliez pas la règle qui piège plus de visiteurs que toute autre : un téléphone acheté à l'étranger doit voir son **IMEI enregistré** pour accéder au réseau local, et l'autorisation touristique dure 90 jours. Une eSIM voyage contourne cela entièrement — l'[eSIM d'essai gratuite](/free-esim/) teste les réseaux sans aucun coût, et le code **WEB20** retire 20 % des [forfaits pour l'Indonésie](/indonesia-esim/).
+**Verdict rapide :** **Telkomsel** est le réseau au maillage le plus large du pays et le choix par défaut pour quiconque quitte les sentiers touristiques — la couverture géographique nationale a obtenu 8,6 sur 10, contre 5,5 pour Indosat et 4,8 pour XL. **XL** et **Indosat (IM3)** offrent un excellent rapport qualité-prix à Bali et à Java et peuvent surpasser Telkomsel sur la fiabilité dans le sud de Bali. Quoi que vous achetiez, n'oubliez pas la règle qui piège plus de visiteurs que toute autre : un téléphone acheté à l'étranger doit voir son **IMEI enregistré** pour accéder au réseau local, et l'autorisation touristique dure 90 jours. Une eSIM voyage contourne cela entièrement — l'[eSIM d'essai gratuite](/free-esim/) teste les réseaux sans aucun coût, et le code **web20** retire 20 % des [forfaits pour l'Indonésie](/indonesia-esim/).
 
 
 
@@ -318,6 +318,10 @@ Vous sautez de frontière depuis l'Indonésie ? Comparez les réseaux voisins :
 
 - [notre guide Thaïlande](/carriers/thailand-esim-carrier-guide/)
 
+- [guide eSIM Malaisie](/carriers/malaysia-esim-carrier-guide/)
+
+- [guide eSIM Australie](/carriers/australia-esim-carrier-guide/)
+
 
 
 Si vous bougez, une eSIM multiréseau bat un forfait mono-opérateur : elle se raccroche au réseau le plus fort là où vous êtes.
@@ -427,7 +431,7 @@ Où le saisir : **iPhone** → Réglages → Cellular → la ligne eSIM → Rés
 
 
 
-Il n'y a rien à collecter à l'arrivée. Le profil arrive par e-mail après le paiement ; la [page des forfaits Indonésie](/indonesia-esim/) propose les offres et les étapes d'activation, et notre [guide d'installation eSIM](/faq/how-to-activate-an-esim/) gère l'installation sur iOS et Android.
+Il n'y a rien à collecter à l'arrivée. Le profil arrive par e-mail après le paiement ; la [gamme de forfaits eSIM Indonésie](/indonesia-esim/) propose les offres et les étapes d'activation, et notre [guide d'installation eSIM](/faq/how-to-activate-an-esim/) gère l'installation sur iOS et Android.
 
 
 
@@ -582,6 +586,11 @@ Appliquez les quatre schémas ci-dessus dans l'ordre — statut IMEI, APN, séle
 
 
 
+### Une eSIM voyage évite-t-elle l'enregistrement IMEI et biométrique ?
+
+Oui, pour les deux. Une eSIM voyage data uniquement fait de l'itinérance sur les tours locales au lieu de s'enregistrer sur le réseau, si bien qu'elle échappe à la règle IMEI de 90 jours et à la vérification biométrique du Permenkomdigi n° 7 de 2026. Pour un séjour d'un mois ou plus à Canggu, la carte locale reprend l'avantage sur le prix et le numéro +62.
+
+
 [Voir la FAQ complète](/faq/)
 
 
@@ -628,7 +637,7 @@ Appliquez les quatre schémas ci-dessus dans l'ordre — statut IMEI, APN, séle
 
 - **Komdigi et Douanes indonésiennes** — la refonte de l'enregistrement des abonnés figure dans le [Permenkomdigi n° 7 de 2026](https://jdih.komdigi.go.id/), et la voie IMEI pour les appareils importés dans les [directives de Bea Cukai](https://www.beacukai.go.id/).
 
-- **Pages opérateur et marché** — les prix des forfaits touristiques et l'écart aéroport-ville proviennent de [l'enquête SIM Bali de LokalFinds](https://lokalfinds.com/blog/bali-sim-card-2026) et du [guide SIM touristique Indonésie de Roafly](http://www.roafly.com/blog/indonesia-tourist-sim-card-prices), tous deux consultés en septembre 2026. Notre équipe support a recours à ces références exactes quand une affirmation de couverture Indonésie est contestée.
+- **Pages opérateur et marché** — les prix des forfaits touristiques et l'écart aéroport-ville proviennent de [l'enquête SIM Bali de LokalFinds](https://lokalfinds.com/blog/bali-sim-card-2026), consultée en septembre 2026. Notre équipe support a recours à cette référence précise quand une affirmation de couverture Indonésie est contestée.
 
 
 
@@ -640,7 +649,7 @@ Tous les benchmarks cités ici sont publiés par les tiers listés ci-dessus. Tr
 
 
 
-Chargez le profil sur le Wi-Fi à domicile et il se raccroche au réseau local le plus fort à travers Jakarta, Bali et au-delà dès votre atterrissage. Commencez par un [essai Indonésie gratuit](/free-esim/), ou retirez 20 % des [forfaits eSIM Indonésie](/indonesia-esim/) avec le code **WEB20**.
+Chargez le profil sur le Wi-Fi à domicile et il se raccroche au réseau local le plus fort à travers Jakarta, Bali et au-delà dès votre atterrissage. Commencez par un [essai Indonésie gratuit](/free-esim/), ou retirez 20 % des [forfaits eSIM Indonésie](/indonesia-esim/) avec le code **web20**.
 
 
 

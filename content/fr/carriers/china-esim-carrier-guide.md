@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM Chine activer pour voyager ?"
 description: "Roami explique les règles eSIM de China Mobile et China Unicom et pourquoi une eSIM voyage reste la voie pratique en Chine."
-image: "img/esim/carriers/china-esim-carrier-guide.jpg"
+image: "img/esim/carriers/china-esim-carrier-guide.webp"
 date: "2026-09-27T13:44:42+00:00"
 keywords: eSIM Chine, opérateurs eSIM Chine, internet de voyage Chine, eSIM China Mobile, eSIM China Unicom, eSIM plug-and-play, éviter les frais d'itinérance en Chine, eSIM pour voyager en Chine, eSIM Great Wall, eSIM Shanghai, eSIM Pékin
 site_name: Roami
@@ -45,6 +45,8 @@ Deux éléments de ce tableau font le vrai travail :
 
 - **L'échelle.** Le MIIT a compté **5.05 millions de stations de base 5G** et 1.84 milliard d'abonnements mobiles dans tout le pays jusqu'en mai 2026, avec une pénétration 5G d'environ 70 % dans chaque région.
 - **L'uniformité.** Quelle que soit la marque qu'affiche une eSIM voyage, votre téléphone se rattache à l'un de ces trois réseaux en tant que visiteur en itinérance entrante.
+
+Détail contre-intuitif du tableau : China Unicom est le plus petit des trois opérateurs (19.8 % du marché mobile) et c'est pourtant lui dont la liste d'identités publiée accepte les passeports — le réseau le plus modeste est le plus accueillant pour un visiteur étranger.
 
 La question des opérateurs en Chine porte moins sur « quelle marque » que sur « quelle voie ».
 
@@ -128,7 +130,7 @@ Une SIM enregistrée localement achemine le trafic au niveau national. Sur les r
 
 ### Quels forfaits Chine sont les plus abordables ?
 
-Un forfait prépayé continental acheté dans un salon de service est réellement bon marché par gigaoctet — la moyenne de USD 0.38 de Cable.co.uk est réelle — mais il s'accompagne d'une visite au salon, d'un dossier d'enregistrement et d'un numéro que vous devez garder financé. Une eSIM voyage coûte plus cher par gigaoctet et moins par heure de votre voyage.
+Les données prépayées d'un forfait continental acheté dans un salon de service sont réellement bon marché par gigaoctet — la moyenne de USD 0.38 de Cable.co.uk est réelle — mais elles s'accompagnent d'une visite au salon, d'un dossier d'enregistrement et d'un numéro que vous devez garder financé. Une eSIM voyage coûte plus cher par gigaoctet et moins par heure de votre voyage.
 
 ### Que ne peut pas faire une eSIM Chine ?
 
@@ -141,11 +143,11 @@ Un forfait prépayé continental acheté dans un salon de service est réellemen
 
 ## Votre téléphone est-il prêt pour une eSIM continentale ?
 
-Les bandes décident de la performance de votre téléphone ; une courte liste de particularités d'appareil décide s'il fonctionne tout court. Passez votre modèle par l'[outil de recherche de compatibilité](/compatibility/) avant d'acheter quoi que ce soit — il répond aux deux questions d'un coup.
+Les bandes et les fréquences décident de votre couverture 4G/5G réelle ; une courte liste de particularités d'appareil décide si le téléphone fonctionne tout court. Passez votre modèle par l'[outil de recherche de compatibilité](/compatibility/) avant d'acheter quoi que ce soit — il répond aux deux questions d'un coup.
 
 ### Quel opérateur chinois choisir : China Mobile vs China Unicom ?
 
-La LTE continentale fonctionne sur les bandes 1, 3, 5, 8, 38, 39, 40 et 41, la 5G étant concentrée sur n41 (2.5 GHz) et n78 (3.5 GHz). Les téléphones vendus en Europe, en Amérique du Nord, au Japon et en Corée couvrent assez de ces bandes pour bien fonctionner.
+La LTE continentale utilise un jeu de fréquences précis — bandes 1, 3, 5, 8, 38, 39, 40 et 41 — la 5G étant concentrée sur n41 (2.5 GHz) et n78 (3.5 GHz). Les téléphones vendus en Europe, en Amérique du Nord, au Japon et en Corée couvrent assez de ces bandes pour bien fonctionner.
 
 Une bande manquante affaiblit la pénétration intérieure ou vous fait passer de la 5G à la 4G dans certains quartiers ; elle ne tue pas le téléphone. Sur une eSIM voyage, vous aurez souvent de la 4G LTE plutôt que de la 5G, car les profils d'itinérance entrante ne privilégient pas toujours la 5G — très bien pour les cartes, la messagerie et les appels vidéo.
 
@@ -316,6 +318,8 @@ Une conséquence de l'organisation de la Chine en marchés séparés fait trébu
 
 Le schéma qui fonctionne sur presque tout voyage continent-plus-voisins est un profil régional unique plutôt que trois profils mono-pays. Si votre itinéraire est Shenzhen et Hong Kong, Chine, un forfait Grande Chine élimine le problème de passation à la limite. Si c'est Pékin, Shanghai et Taipei, deux profils sont généralement moins chers qu'un forfait régional. Gardez le profil continental comme ligne de données à l'intérieur du continent et changez à la frontière.
 
+Pour comparer les opérateurs de chaque marché séparément, nos guides par réseau traitent l'[eSIM Hong Kong, Chine](/carriers/hong-kong-esim-carrier-guide/), l'[eSIM Japon](/carriers/japan-esim-carrier-guide/), l'[eSIM Corée du Sud](/carriers/south-korea-esim-carrier-guide/) et l'[eSIM Macao, Chine](/carriers/macau-esim-carrier-guide/).
+
 ## Comment fonctionne l'enregistrement SIM en Chine ?
 
 ### Les appels WhatsApp se connectent-ils en Chine ?
@@ -352,11 +356,11 @@ Elle cesse de fournir des données à la limite, sauf si le forfait inclut expli
 
 ### Une eSIM Hong Kong fonctionne-t-elle à Shenzhen ?
 
-Pas comme service local — les profils Hong Kong itinèrent sur les réseaux continentaux aux tarifs d'itinérance, s'ils le font, et la couverture n'est pas garantie à travers la frontière. Utilisez un forfait desservant le continent à Shenzhen et une [eSIM Hong Kong](/hong-kong-esim/) à Hong Kong, Chine, ou un seul forfait régional couvrant les deux.
+Pas comme service local — les profils Hong Kong itinèrent sur les réseaux continentaux aux tarifs d'itinérance, s'ils le font, et la couverture n'est pas garantie à travers la frontière. Utilisez un forfait desservant le continent à Shenzhen et une [eSIM dédiée Hong Kong](/hong-kong-esim/) à Hong Kong, Chine, ou un seul forfait régional couvrant les deux.
 
 ### Comment activer chaque profil eSIM en Chine ?
 
-Installez chaque profil avant le départ, car les serveurs de provisionnement ne sont pas joignables de manière fiable depuis l'intérieur de la Chine continentale. Si vous devez installer sur place, faites-le sur le Wi-Fi d'aéroport ou d'hôtel avec de la patience pour une nouvelle tentative.
+Installez chaque profil avant le départ, car un téléchargement lancé depuis les réseaux continentaux échoue souvent. Si vous devez installer sur place, faites-le sur le Wi-Fi d'aéroport ou d'hôtel avec de la patience pour une nouvelle tentative.
 
 ### Lequel est meilleur pour un séjour urbain : China Unicom ou China Mobile ?
 
@@ -376,6 +380,14 @@ Recoupez les sections opérateurs ci-dessus avec les données de vitesse que nou
 
 Atterrir sans données et essayer de régler ça sur le Wi-Fi d'aéroport. Installez et activez votre profil la veille de votre départ — tout le processus est couvert ci-dessus et prend quelques minutes.
 
+### Comment basculer sur mon eSIM Chine le jour de l'atterrissage ?
+
+Le profil a été installé avant le départ, il ne reste qu'à l'activer. À l'arrivée : allumez la ligne eSIM, activez l'itinérance des données sur cette ligne, et définissez-la comme ligne de données — elle s'enregistre alors automatiquement sur China Mobile ou China Unicom. Si rien ne monte après une minute, forcez la sélection manuelle du réseau plutôt que l'automatique. Une carte SIM prépayée de salon, elle, ne se prépare pas d'avance : comptez une visite en boutique pour l'enregistrement.
+
+### Le partage de connexion est-il autorisé sur une eSIM Chine ?
+
+Oui, le partage fonctionne dès que le profil porte la ligne de données, mais il consomme votre enveloppe au nom de tous les appareils connectés. Avec un forfait data plafonné, un ordinateur portable branché en partage peut vider plusieurs gigaoctets en une soirée — surveillez donc la consommation depuis l'application du fournisseur si vous télétravaillez au comptoir d'un hôtel.
+
 ## Nos sources
 
 - **Ookla Speedtest Global Index** — [la page pays Chine](https://www.speedtest.net/global-index/china) publie la vitesse mobile médiane (176.16 Mbps), la latence et le rang mondial cités ci-dessus, actualisés chaque mois.
@@ -388,4 +400,4 @@ Les décomptes d'abonnés des opérateurs et les conditions de l'essai d'octobre
 
 ## Réglez votre eSIM Chine avant l'embarquement
 
-Tout cet exercice récompense une habitude : décider tôt. Vérifiez votre appareil, choisissez votre voie — un [forfait eSIM Chine](/china-esim/) pour des données instantanées sans enregistrement qui itinèrent sur China Mobile et China Unicom, ou une SIM de salon de service si votre séjour est assez long pour vouloir un numéro chinois — et installez le profil à la maison, où le téléchargement ne peut pas échouer. Les nouveaux clients peuvent commencer avec une [eSIM d'essai gratuite de Roami](/free-esim/) pour tester la configuration, et le code **WEB20** retire 20% du premier forfait.
+Tout cet exercice récompense une habitude : décider tôt. Vérifiez votre appareil, choisissez votre voie — un [forfait eSIM Chine](/china-esim/) pour des données instantanées sans enregistrement qui itinèrent sur China Mobile et China Unicom, ou une SIM de salon de service si votre séjour est assez long pour vouloir un numéro chinois — et installez le profil à la maison, où le téléchargement ne peut pas échouer. Les nouveaux clients peuvent commencer avec une [eSIM d'essai gratuite de Roami](/free-esim/) pour tester la configuration, et le code **web20** retire 20% du premier forfait.

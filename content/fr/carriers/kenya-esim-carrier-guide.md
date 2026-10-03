@@ -1,7 +1,7 @@
 ---
 title: "Opérateur eSIM Kenya : choisir Safaricom ou Airtel ?"
 description: "Roami compare les opérateurs eSIM Kenya Safaricom, Airtel et Telkom sur la couverture, la vitesse et les prix à Nairobi."
-image: "img/esim/carriers/kenya-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kenya-esim-carrier-guide.webp"
 date: "2026-09-25T06:14:26+00:00"
 keywords: eSIM Kenya, opérateur eSIM Kenya, eSIM Safaricom, eSIM Airtel Kenya, eSIM voyage Kenya, données Maasai Mara, éviter frais itinérance Kenya, eSIM prépayée Kenya, eSIM explorateur indépendant
 site_name: Roami
@@ -16,13 +16,13 @@ hero_subtitle_main: "La comparaison des opérateurs 2026, fondée sur des donné
 ---
 
 
-Le Kenya est l'une des rares destinations safari où le choix de l'opérateur change réellement votre voyage : le réseau de Safaricom s'étend jusqu'aux parcs nationaux où se déroulent vos journées, tandis que les alternatives moins chères s'effilochent exactement là où commence la faune. Ce guide répond aux questions qui comptent — quel opérateur eSIM Kenya fonctionne à l'intérieur du Maasai Mara, si vous pouvez acheter un eSIM Safaricom en tant que visiteur, ce qu'implique l'enregistrement obligatoire de la carte SIM, et pourquoi M-Pesa est la seule chose qu'un forfait data uniquement ne peut pas vous offrir. Si vous avez lu d'autres articles qui s'arrêtent à « Safaricom est le meilleur, achetez un eSIM », les règles d'enregistrement, la réalité de la couverture parc par parc et la logistique d'achat à l'aéroport ci-dessous sont la moitié manquante.
+Le Kenya est l'une des rares destinations safari où le choix de l'opérateur change réellement votre voyage : le réseau mobile de Safaricom s'étend jusqu'aux parcs nationaux où se déroulent vos journées, tandis que les alternatives moins chères s'effilochent exactement là où commence la faune. Ce guide répond aux questions qui comptent — quel opérateur eSIM Kenya fonctionne à l'intérieur du Maasai Mara, si vous pouvez acheter un eSIM Safaricom en tant que visiteur, ce qu'implique l'enregistrement obligatoire de la carte SIM, et pourquoi M-Pesa est la seule chose qu'un forfait data uniquement ne peut pas vous offrir. Si vous avez lu d'autres articles qui s'arrêtent à « Safaricom est le meilleur, achetez un eSIM », les règles d'enregistrement, la réalité de la couverture parc par parc et la logistique d'achat à l'aéroport ci-dessous sont la moitié manquante.
 
 **Réponse rapide :** pour un court séjour, le forfait touristique de Safaricom est l'option la moins contraignante ; pour les séjours plus longs, l'explorateur indépendant l'emporte généralement sur le coût par gigaoctet. Les sections ci-dessous détaillent où Safaricom et l'explorateur indépendant brillent chacun — et les utilisateurs d'eSIM pour la première fois doivent commencer par la [procédure d'activation](/faq/how-to-activate-an-esim/).
 
 Vous n'êtes pas sûr que votre téléphone supporte l'eSIM ? Vérifiez votre modèle sur la [liste de compatibilité des appareils](/compatibility/) avant toute chose.
 
-**La réponse en un paragraphe :** Safaricom est l'opérateur eSIM Kenya par défaut — environ deux tiers du marché, une 4G couvrant environ 97 % de la population selon les propres statistiques du régulateur, une 5G sur environ 1 700 sites répartis dans les 47 comtés, et le seul signal fiable dans le Maasai Mara et à Amboseli. Airtel Kenya est l'alternative économique avec une bonne couverture urbaine à Nairobi, Mombasa et Kisumu. Telkom Kenya et Faiba sont des compléments urbains. Toute ligne locale — carte SIM ou eSIM — exige un enregistrement du passeport selon la loi kényane, donc la voie sans friction pour le visiteur est un eSIM acheté en ligne avant le vol. Sachez simplement ce que vous abandonnez : un numéro local, et avec lui M-Pesa.
+**La réponse en un paragraphe :** Safaricom est l'opérateur eSIM Kenya par défaut — environ deux tiers du marché, une 4G couvrant environ 97 % de la population selon les propres statistiques du régulateur, une 5G sur environ 1 700 sites répartis dans les 47 comtés, et le seul signal fiable dans le Maasai Mara et à Amboseli. Airtel Kenya est l'alternative économique avec une bonne couverture urbaine à Nairobi, Mombasa et Kisumu. Telkom Kenya et Faiba sont des compléments urbains. Toute ligne locale — une carte SIM prépayée ou un eSIM — exige un enregistrement du passeport selon la loi kényane, donc la voie sans friction pour le visiteur est un eSIM acheté en ligne avant le vol. Sachez simplement ce que vous abandonnez : un numéro local, et avec lui M-Pesa.
 
 ## Safaricom ou Airtel : quel opérateur pour votre voyage ?
 
@@ -97,7 +97,7 @@ Airtel est le numéro deux crédible, avec des forfaits compétitifs et une bonn
 
 ## Faut-il choisir Telkom ou Faiba au Kenya ?
 
-Telkom Kenya et le Faiba de Jamii Telekom complètent le marché. Faiba exploite un réseau data uniquement respecté avec de bonnes vitesses urbaines ; les deux restent centrés sur la ville. Aucun ne change la décision d'un visiteur — ils importent si vous comparez des forfaits prépayés locaux pour un long séjour, pas pour un itinéraire de deux semaines.
+Telkom Kenya et le Faiba de Jamii Telekom complètent le marché. Faiba exploite un réseau data uniquement respecté avec de bonnes vitesses urbaines ; les deux restent centrés sur la ville. Aucun ne change la décision d'un visiteur — ils importent si vous comparez des forfaits de données prépayées locales pour un long séjour, pas pour un itinéraire de deux semaines.
 
 ## Safaricom ou Airtel : quelle couverture au Kenya ?
 
@@ -120,7 +120,7 @@ Deux notes pratiques qu'aucune carte de couverture ne vous donnera :
 
 Une note moderne utile pour les lodges isolés : **Starlink est autorisé et opérationnel au Kenya depuis juillet 2023**, et un nombre croissant de camps isolés l'utilisent pour le Wi-Fi. Cela ne remplace pas votre forfait — cela explique pourquoi le camp sans barre de réseau a encore un Wi-Fi rapide au dîner.
 
-Vous traversez les frontières ? La même analyse au niveau des opérateurs existe pour nos [forfaits eSIM Tanzanie](/tanzania-esim/), le [guide des opérateurs Ouganda](/carriers/uganda-esim-carrier-guide/) et l'[eSIM Afrique régional](/africa-esim/), et un [forfait Kenya](/kenya-esim/) à commutation multi-réseau vous garde sur l'opérateur le plus fort à mesure que vous avancez.
+Vous traversez les frontières ? La même analyse au niveau des opérateurs existe pour nos [forfaits eSIM Tanzanie](/tanzania-esim/), le [guide des opérateurs Ouganda](/carriers/uganda-esim-carrier-guide/), l'[eSIM Éthiopie](/carriers/ethiopia-esim-carrier-guide/), les [opérateurs Afrique du Sud](/carriers/south-africa-esim-carrier-guide/) et la [couverture Maroc](/carriers/morocco-esim-carrier-guide/), ainsi que l'[eSIM Afrique régional](/africa-esim/), et un [forfait Kenya](/kenya-esim/) à commutation multi-réseau vous garde sur l'opérateur le plus fort à mesure que vous avancez.
 
 ## SIM locale ou eSIM voyage : quel coût au Kenya ?
 
@@ -206,7 +206,7 @@ iPhone : Réglages → Données cellulaires → la ligne eSIM → Réseau de don
 
 ## Comment activer un eSIM Kenya ?
 
-L'installation standard — scanner le QR sur Wi-Fi, étiqueter la ligne, la définir comme ligne de data, activer l'itinérance des données — est dans notre [procédure d'activation](/faq/how-to-activate-an-esim/).
+L'installation standard — scanner le QR sur Wi-Fi, étiqueter la ligne, la définir comme ligne de data, activer l'itinérance des données — est détaillée dans notre [guide d'installation eSIM pas à pas](/faq/how-to-activate-an-esim/).
 
 ### Et si mon passeport est numérique — le Kenya l'accepte-t-il ?
 
@@ -279,7 +279,7 @@ La routine pratique : uploadez les photos le matin et le soir, gardez les cartes
 
 ### Carte SIM résident ou eSIM voyageur au Kenya ?
 
-Pour un court séjour, l'eSIM voyageur ; pour un long séjour ou M-Pesa, la ligne résidente. Safaricom vend des eSIM aux visiteurs dans ses boutiques et les kiosques de l'aéroport Jomo Kenyatta, avec enregistrement obligatoire du passeport et des frais de migration de KSh 150–250. Les horaires de comptoir ne couvrent pas tous les vols, donc si vous atterrissez tard, prévoyez l'achat le lendemain — ou installez un profil voyage à la maison et évitez le comptoir entièrement.
+Pour un court séjour, l'eSIM voyageur ; pour un long séjour ou M-Pesa, la ligne résidente. Safaricom vend des eSIM aux visiteurs dans ses boutiques et les kiosques de l'aéroport Jomo Kenyatta, avec enregistrement obligatoire du passeport et des frais de migration de KSh 150–250. Si vous atterrissez tard, installez plutôt un profil voyage à la maison et évitez le comptoir entièrement.
 
 ### Safaricom ou Airtel : qui couvre le mieux le Kenya ?
 
@@ -349,8 +349,8 @@ Ce sont des mesures de tiers ; la couverture au niveau des parcs surtout est une
 
 ## Installez un eSIM Kenya et atterrissez à Nairobi déjà en ligne
 
-Installez avant le vol, posez le pied sur l'opérateur qui couvre vraiment les parcs, et gardez votre ligne habituelle active pour les SMS de vérification. Commencez par un [eSIM d'essai gratuit multi-réseau](/free-esim/) ou choisissez un forfait sur la [page eSIM Kenya](/kenya-esim/). Cap vers la côte et au-delà de la frontière ? Nos [forfaits eSIM Tanzanie](/tanzania-esim/) prennent le relais là où celui-ci finit.
+Installez avant le vol, posez le pied sur l'opérateur qui couvre vraiment les parcs, et gardez votre ligne habituelle active pour les SMS de vérification. Commencez par un [eSIM d'essai gratuit multi-réseau](/free-esim/) ou choisissez un forfait sur la [page eSIM Kenya](/kenya-esim/). Cap vers la côte et au-delà de la frontière ? Nos [forfaits Tanzanie](/tanzania-esim/) prennent le relais là où celui-ci finit.
 
-[Choisir un forfait Kenya](/kenya-esim/) · [Commencer par l'essai gratuit](/free-esim/) · [Page eSIM Kenya](/kenya-esim/)
+[Choisir un forfait Kenya](/kenya-esim/) · [Commencer par l'essai gratuit](/free-esim/) · [Voir les forfaits Kenya](/kenya-esim/)
 
-Si vous préférez tester avant de vous engager, l'[eSIM de test sans frais](/free-esim/) de Roami fonctionne sur les mêmes réseaux que ce guide compare — y compris Safaricom. Première commande chez Roami ? Appliquez **WEB20** au paiement pour 20 % de réduction sur tout forfait Kenya payant.
+Si vous préférez tester avant de vous engager, l'[eSIM de test sans frais](/free-esim/) de Roami fonctionne sur les mêmes réseaux que ce guide compare — y compris Safaricom. Première commande chez Roami ? Appliquez **web20** au paiement pour 20 % de réduction sur tout forfait Kenya payant.

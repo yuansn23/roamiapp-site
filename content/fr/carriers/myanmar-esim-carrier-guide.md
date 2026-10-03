@@ -3,7 +3,7 @@ title: "Opérateurs eSIM Myanmar : comparez couverture et prix"
 
 description: "Roami compare les opérateurs eSIM Myanmar ATOM, MPT et Mytel sur la couverture réelle, la vitesse et les prix des packs data."
 
-image: "img/esim/carriers/myanmar-esim-carrier-guide.jpg"
+image: "img/esim/carriers/myanmar-esim-carrier-guide.webp"
 
 date: "2026-09-24T11:50:09+00:00"
 
@@ -38,7 +38,7 @@ hero_subtitle_main: "Couverture, prix et le petit caractère qui décide votre v
 
 Si la question de l'appareil ou le processus d'installation reste flou, commencez ici. Faites passer votre modèle dans la [liste de compatibilité des téléphones](/compatibility/) d'abord, puis lisez [l'explication de l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) — les deux sont des prérequis que cette page saute délibérément.
 
-**En bref :** Pour les zones touristiques (Rangoun, Mandalay, Bagan, Inle) **ATOM** (ex-Telenor) et **MPT** sont les choix pratiques ; MPT atteint plus loin dans les zones rurales et temples. **Mytel** a la plus grande part d'abonnés mais est lié à l'armée, donc beaucoup de visiteurs l'évitent. **U9** est l'ancien Ooredoo, renommé en septembre 2025 et désormais un acteur mineur. Les quatre exigent **enregistrement passeport + visa/tampon d'entrée** — il n'y a pas d'eSIM anonyme. Critiquement, **l'itinérance internationale a cessé de fonctionner après 2021**, donc votre SIM personnelle est une brique au Myanmar ; une eSIM Myanmar enregistrée localement est le seul chemin de données. [Test réseau gratuit](/free-esim/) se connecte sur les réseaux locaux, et le code WEB20 retire 20 % de tout forfait payant — [vérifiez la liste de forfaits actuelle](/plans/) avant d'acheter.
+**En bref :** Pour les zones touristiques (Rangoun, Mandalay, Bagan, Inle) **ATOM** (ex-Telenor) et **MPT** sont les choix pratiques ; MPT atteint plus loin dans les zones rurales et temples. **Mytel** a la plus grande part d'abonnés mais est lié à l'armée, donc beaucoup de visiteurs l'évitent. **U9** est l'ancien Ooredoo, renommé en septembre 2025 et désormais un acteur mineur. Les quatre exigent **enregistrement passeport + visa/tampon d'entrée** — il n'y a pas d'eSIM anonyme. Critiquement, **l'itinérance internationale a cessé de fonctionner après 2021**, donc votre SIM personnelle est une brique au Myanmar ; une eSIM Myanmar enregistrée localement est le seul chemin de données. [Test réseau gratuit](/free-esim/) se connecte sur les réseaux locaux, et le code web20 retire 20 % de tout forfait payant — [vérifiez la liste de forfaits actuelle](/plans/) avant d'acheter.
 
 ## Quelles règles locales pour les eSIM Myanmar ?
 
@@ -62,11 +62,11 @@ Les noms d'opérateurs du Myanmar ont changé après 2021, et tout guide listant
 | **Mytel** | (inchangé) | Lié à l'armée et l'un des plus grands réseaux par abonnés, mais beaucoup de voyageurs l'évitent par principe. |
 | **U9** | Ooredoo Myanmar | Ooredoo Myanmar a été [renommé U9 à partir du 20 septembre 2025](https://www.gnlm.com.mm/ooredoo-myanmar-to-rebrand-as-u9-from-20-sept/) ; désormais un acteur plus petit. |
 
-Deux mises en garde d'emblée : d'abord, les benchmarks de vitesse mobile indépendants par opérateur pour le Myanmar sont rares et peu fiables après 2021, donc nous ne citons pas de chiffres Mbps spécifiques opérateur comme fait. Ensuite, la réputation de couverture (ci-dessous) est la base honnête pour choisir — pas un classement de vitesse propre.
+Deux mises en garde d'emblée : d'abord, les benchmarks de vitesse mobile indépendants par opérateur pour le Myanmar sont rares et peu fiables après 2021 — les fréquences, les terminaux et l'état du réseau varient trop d'une mesure à l'autre — donc nous ne citons pas de chiffres Mbps spécifiques opérateur comme fait. Ensuite, la réputation de couverture (ci-dessous) est la base honnête pour choisir — pas un classement de vitesse propre.
 
 ## Combien coûtent les forfaits eSIM Myanmar ?
 
-Tous les prix ci-dessous sont en kyats mystamar (MMK), issus du [suivi mensuel des prix opérateur de Myanmar Tech Press](https://en.myanmartechpress.com/myanmar-mobile-data-prices), qui enregistre les tarifs publiés par les opérateurs (≈ 2 100 MMK pour 1 US$ sur le marché parallèle).
+Tous les prix ci-dessous sont en kyats (MMK), issus du [suivi mensuel des prix opérateur de Myanmar Tech Press](https://en.myanmartechpress.com/myanmar-mobile-data-prices), qui enregistre les tarifs publiés par les opérateurs (≈ 2 100 MMK pour 1 US$ sur le marché parallèle).
 
 ### ATOM ou MPT : quelle couverture rurale au Myanmar ?
 
@@ -129,7 +129,7 @@ Particularités : ATOM est le réseau sur lequel la plupart des eSIM voyage itin
 | 499 Mo | 1 899 Ks | ~US$0.90 |
 | 2.675 Go | 9 899 Ks | ~US$4.70 |
 
-U9 est utilisable en ville mais pas une option rurale sérieuse.
+U9 est utilisable en ville mais pas une option rurale sérieuse. Le tableau des prix dit l'essentiel : à 5 Go, ATOM coûte moins de la moitié du palier équivalent MPT (7 500 Ks contre 18 949 Ks) — le surcoût de MPT s'explique par sa portée rurale, pas par son prix.
 
 ## Combien coûte une eSIM Myanmar ?
 
@@ -181,6 +181,8 @@ Vous continuez au-delà des frontières du Myanmar ? La même analyse mesurée, 
 - [eSIM Thaïlande](/thailand-esim/)
 - [eSIM Inde](/india-esim/)
 - [eSIM Bangladesh](/bangladesh-esim/)
+
+Pour le détail réseau de chaque voisin, voyez aussi notre [guide des opérateurs thaïlandais](/carriers/thailand-esim-carrier-guide/), le [portrait du marché indien](/carriers/india-esim-carrier-guide/), notre [analyse des réseaux vietnamiens](/carriers/vietnam-esim-carrier-guide/) et le [comparatif cambodgien](/carriers/cambodia-esim-carrier-guide/).
 
 ## ATOM ou MPT : quelle couverture au Myanmar ?
 
@@ -277,9 +279,9 @@ MPT a l'empreinte géographique la plus large, particulièrement hors des villes
 
 ### Quoi apporter pour acheter une SIM Myanmar ?
 
-Oui. L'enregistrement contre un passeport (et visa/tampon d'entrée) est obligatoire pour toute SIM et eSIM. Les fournisseurs eSIM voyage gèrent cela pendant l'activation donc vous n'envoyez pas de documents vous-même.
+Oui. L'enregistrement contre un passeport (et visa/tampon d'entrée) est obligatoire pour toute carte SIM prépayée et eSIM. Les fournisseurs eSIM voyage gèrent cela pendant l'activation donc vous n'envoyez pas de documents vous-même.
 
-### Votre eSIM Myanmar fonctionne-t-elle dans les pays voisins ?
+### Ma SIM personnelle fonctionnera-t-elle au Myanmar ?
 
 Non. L'itinérance internationale vers les réseaux Myanmar a cessé de fonctionner après 2021, donc une eSIM réseau local ou une SIM locale est le seul moyen d'obtenir des données. Arrivez avec un plan installé.
 
@@ -307,7 +309,7 @@ U9 est l'ancien Ooredoo Myanmar, renommé à partir du 20 septembre 2025. Il est
 
 Un pack de 5 Go (~US$9 sur MPT) couvre une semaine de cartes, messagerie et navigation légère en ville. Les voyages zones temples et lac utilisent moins que vous ne pensez car vous êtes souvent hors ligne entre sites — téléchargez des cartes hors ligne avant de quitter les routes principales.
 
-### Comment recharger une eSIM Myanmar ?
+### Les recharges en ligne fonctionnent-elles pour une eSIM Myanmar ?
 
 Oui. Les recharges MPT passent via `*682#` et ATOM via son appli ou kiosques, mais la friction carte étrangère est réelle, donc gardez quelques kyats ou utilisez une eSIM voyage facturée dans votre devise.
 
@@ -315,13 +317,21 @@ Oui. Les recharges MPT passent via `*682#` et ATOM via son appli ou kiosques, ma
 
 L'e-visa officiel est la route standard pour la plupart des nationalités (visa à l'arrivée suspendu pour beaucoup). Vous n'aurez pas de données d'itinérance à l'arrivée, donc achetez une SIM enregistrée au comptoir aéroport ou installez une eSIM voyage avant le vol.
 
-### Où trouver une eSIM Myanmar ?
+### Peut-on s'inscrire en ligne pour une SIM Myanmar ?
 
 Pas réaliste. Chaque SIM Myanmar doit être enregistrée en personne contre votre passeport et visa, que ce soit à un comptoir d'aéroport, magasin opérateur ou kiosque autorisé. Il n'y a pas d'inscription étranger en ligne avec envoi de document comme aux Maldives ou Thaïlande — ce qui est précisément pourquoi les eSIM voyage, activées par le fournisseur pour vous, sont la route à friction moindre.
 
 ### Dois-je apporter un VPN ?
 
 Un VPN est légalement restreint sous la loi cyberdéfense 2025 et l'application est réelle, nous ne conseillons donc pas de compter dessus pour atteindre les services bloqués. Planifiez plutôt une connexion surveillée, occasionnellement interrompue.
+
+### Puis-je partager la connexion de mon eSIM Myanmar en partage de connexion ?
+
+Techniquement oui : sur un profil données-seules, le partage de connexion s'active depuis les réglages comme sur n'importe quelle ligne, et il rend service pour connecter la tablette d'un compagnon à Rangoun ou Mandalay. Mais il ne crée rien là où il n'y a pas de signal — en zone de coupure ou sur une route rurale en 3G, les appareils partagés subissent exactement la même absence de réseau que votre téléphone. Et si vous comptez sur des cartes hors ligne, partagez-les avant de quitter le Wi-Fi, pas au moment d'en avoir besoin.
+
+### Mon eSIM Myanmar marchera-t-elle en Thaïlande ou en Inde ?
+
+Non — un forfait enregistré pour le Myanmar ne donne aucun droit sur les réseaux étrangers, dans aucun sens de la frontière. Si votre itinéraire enchaîne plusieurs pays de la région, prévoyez une eSIM dédiée par étape ou un forfait multi-pays couvrant explicitement chacun, et rappelez-vous que le sens inverse est tout aussi bloqué : votre SIM habituelle ne se connectera pas non plus aux réseaux Myanmar.
 
 ## Sources de ce guide eSIM Myanmar
 
@@ -336,12 +346,12 @@ Rien sur cette page n'est notre propre test terrain, et au Myanmar l'environneme
 
 ## Comment activer votre eSIM Myanmar ?
 
-Une eSIM Myanmar Roami arrive déjà portant les réseaux locaux et s'attache au plus fort d'entre eux là où vous vous tenez — aucun envoi passeport, aucune file comptoir, et aucun recours à l'itinérance SIM personnelle, qui a cessé de fonctionner ici il y a des années. Elle ne prétend pas vaincre une coupure ; elle vous met simplement en ligne là où le réseau est encore allumé.
+Une eSIM Myanmar Roami arrive déjà portant les réseaux locaux et s'attache au plus fort d'entre eux là où vous vous tenez — aucun envoi passeport, aucune file comptoir, et aucun recours à l'itinérance SIM personnelle, qui n'y fonctionne plus. Elle ne prétend pas vaincre une coupure ; elle vous met simplement en ligne là où le réseau est encore allumé.
 
-Plutôt tester la connexion avant de payer ? L'essai ne coûte rien. Quand vous serez prêt, le code **WEB20** retire **20 %** de tout forfait payant — [voyez quelle couverture est disponible](/plans/) d'abord. Commençant frais avec un nouveau fournisseur ? Démarrez avec la [eSIM d'essai gratuite Myanmar](/free-esim/).
+Plutôt tester la connexion avant de payer ? L'essai ne coûte rien. Quand vous serez prêt, le code **web20** retire **20 %** de tout forfait payant — [voyez quelle couverture est disponible](/plans/) d'abord. Commençant frais avec un nouveau fournisseur ? Démarrez avec la [eSIM d'essai gratuite Myanmar](/free-esim/).
 
 [Obtenez votre eSIM Myanmar](/myanmar-esim/)
 
 [Commencez avec l'essai gratuit Myanmar](/free-esim/)
 
-De toute façon, configurez-la avant le départ : vérifiez votre appareil sur le [vérificateur de compatibilité](/compatibility/), essayez l'[essai multiréseau gratuit](/free-esim/) Roami, et appliquez **WEB20** au paiement quand vous passerez plus tard à un forfait Roami complet couvrant le Myanmar.
+De toute façon, configurez-la avant le départ : vérifiez votre appareil sur le [vérificateur de compatibilité](/compatibility/), essayez l'[essai multiréseau gratuit](/free-esim/) Roami, et appliquez **web20** au paiement quand vous passerez plus tard à un forfait Roami complet couvrant le Myanmar.

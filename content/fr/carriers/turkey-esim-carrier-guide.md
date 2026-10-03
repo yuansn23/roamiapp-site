@@ -4,7 +4,7 @@ title: "Quel opérateur eSIM prendre pour voyager en Turquie ?"
 
 description: "Roami classe Turkcell, Vodafone et Türk Telekom pour une eSIM Turquie : vitesse, prix prépayés et limite IMEI à connaître."
 
-image: "img/esim/carriers/turkey-esim-carrier-guide.jpg"
+image: "img/esim/carriers/turkey-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:32:35+00:00"
 
@@ -35,7 +35,7 @@ hero_subtitle_main: "Turkcell, Vodafone et Türk Telekom — ce que montrent ré
 
 
 
-Choisir sur quel réseau roulera votre eSIM Turquie est la seule décision qui façonne tout le voyage, car Turkcell, Vodafone et Türk Telekom ne sont pas interchangeables. Dans le rapport Türkiye S2 2025 d'Ookla, **Turkcell** a été nommé meilleur réseau mobile avec un Speedtest Connectivity Score de **77.15**, le meilleur Speed Score à **63.51**, et la meilleure constance à **93.9%**. **Türk Telekom** a suivi en connectivité à **73.67** et **Vodafone** à **69.58**. Le meilleur dépend entièrement de là où va votre itinéraire, car choisir un opérateur est une décision de routage, pas une décision de marque. Où les nouveaux venus en Turquie se bloquent-ils ? Aux mêmes quelques endroits — et chaque section ci-dessous en traite un.
+Choisir sur quel réseau roulera votre eSIM Turquie est la seule décision qui façonne tout le voyage : les opérateurs eSIM Turquie — Turkcell, Vodafone et Türk Telekom — ne sont pas interchangeables. Dans le rapport Türkiye S2 2025 d'Ookla, **Turkcell** a été nommé meilleur réseau mobile avec un Speedtest Connectivity Score de **77.15**, le meilleur Speed Score à **63.51**, et la meilleure constance à **93.9%**. **Türk Telekom** a suivi en connectivité à **73.67** et **Vodafone** à **69.58**. Le meilleur dépend entièrement de là où va votre itinéraire, car choisir un opérateur est une décision de routage, pas une décision de marque. Où les nouveaux venus en Turquie se bloquent-ils ? Aux mêmes quelques endroits — et chaque section ci-dessous en traite un.
 
 
 
@@ -47,11 +47,11 @@ Si les bases restent des questions ouvertes — mon téléphone prend-il en char
 
 
 
-**Le verdict d'emblée :** séjour à Istanbul, Ankara ou Izmir ? Turkcell est le réseau le plus constant du pays et le pari le plus sûr en ville. Vous conduisez en Cappadoce, sur la côte égéenne ou sur le plateau anatolien ? Turkcell mène aussi en constance, ce qui compte entre les villes. Envie d'une ligne turque sans formalités d'enregistrement au passeport en boutique ? [L'eSIM Turquie de Roami](/turkey-esim/) bascule automatiquement entre Turkcell, Vodafone et Türk Telekom, et vous pouvez la tester d'abord avec une [eSIM d'essai à zéro coût](/free-esim/). Le code **WEB20** retire 20 % si vous préférez acheter le forfait complet d'emblée.
+**Le verdict d'emblée :** séjour à Istanbul, Ankara ou Izmir ? Turkcell est le réseau le plus constant du pays et le pari le plus sûr en ville. Vous conduisez en Cappadoce, sur la côte égéenne ou sur le plateau anatolien ? Turkcell mène aussi en constance, ce qui compte entre les villes. Envie d'une ligne turque sans formalités d'enregistrement au passeport en boutique ? [L'eSIM Turquie de Roami](/turkey-esim/) bascule automatiquement entre Turkcell, Vodafone et Türk Telekom, et vous pouvez la tester d'abord avec une [eSIM d'essai à zéro coût](/free-esim/). Le code **web20** retire 20 % si vous préférez acheter le forfait complet d'emblée.
 
 
 
-## Quels opérateurs sous votre eSIM en Turquie ?
+## Quels opérateurs eSIM Turquie choisir ?
 
 
 
@@ -87,7 +87,7 @@ Le tableau ci-dessus cache le fait que la plupart des blogs voyage se trompent :
 
 
 
-Contrairement au Canada ou au Japon, la Turquie n'a pas d'opérateurs régionaux ni de marque économique significative qui loue la capacité d'un parent. Les trois noms ci-dessus sont tout le marché mobile. Turkcell, Vodafone Türkiye et Türk Telekom possèdent chacun leurs propres antennes, et une ligne prépayée chez l'un d'eux est une relation directe avec ce réseau. Il n'y a pas de quatrième option et pas de MVNO local qui vaille le temps d'un visiteur, ce qui signifie que votre seul vrai choix est de savoir sur lequel des trois rouler, ou s'il faut sauter la ligne locale entièrement et utiliser une eSIM voyage.
+Contrairement au Canada ou au Japon, la Turquie n'a ni opérateurs régionaux ni MVNO local qui vaille le temps d'un visiteur. Turkcell, Vodafone Türkiye et Türk Telekom possèdent chacun leurs propres antennes, et une ligne prépayée chez l'un d'eux est une relation directe avec ce réseau. Votre seul vrai choix est donc de savoir sur lequel des trois rouler, ou de sauter la ligne locale entièrement et d'utiliser une eSIM voyage.
 
 
 
@@ -123,7 +123,7 @@ Pour des vacances ordinaires la ligne locale est moins chère par gigaoctet, mai
 
 
 
-Votre appareil doit franchir trois vérifications avant qu'une eSIM turque fonctionne : les bandes qu'il prend en charge, si un opérateur le verrouille encore, et une poignée de particularités propres aux modèles. Les trois sont expliquées ci-dessous, et la question des bandes pèse plus lourd ici que dans beaucoup de pays à cause de la façon dont la Turquie a licencié la 5G.
+Votre appareil doit franchir trois vérifications avant qu'une eSIM turque fonctionne : les bandes qu'il prend en charge, si un opérateur le verrouille encore, et une poignée de particularités propres aux modèles. Les trois sont expliquées ci-dessous, et la question des bandes pèse plus lourd ici que dans beaucoup de pays, car votre couverture 4G/5G dépend de la façon dont la Turquie a licencié la 5G.
 
 
 
@@ -131,7 +131,7 @@ Votre appareil doit franchir trois vérifications avant qu'une eSIM turque fonct
 
 
 
-L'enchère du spectre 5G turque s'est achevée en octobre 2025 et la 5G commerciale s'est allumée dans les 81 provinces en 2026, donc les réseaux auxquels vous vous connectez aujourd'hui sont un mélange de 5G nouvelle et du palier mature 4.5G qui tournait avant. La couche 4.5G s'appuie sur la bande 3 à 1800 MHz, la bande 7 à 2600 MHz et la bande 20 à 800 MHz pour la portée, tandis que la 5G utilise n78 à 3500 MHz. Presque tout téléphone international vendu ces cinq dernières années prend déjà en charge ces bandes, donc la plupart des visiteurs se connectent sans y penser.
+L'enchère du spectre 5G turque s'est achevée en octobre 2025 et la 5G commerciale s'est allumée dans les 81 provinces en 2026, donc les réseaux auxquels vous vous connectez aujourd'hui sont un mélange de 5G nouvelle et du palier mature 4.5G qui tournait avant. La couche 4.5G s'appuie sur des fréquences précises : la bande 3 à 1800 MHz, la bande 7 à 2600 MHz et la bande 20 à 800 MHz pour la portée, tandis que la 5G utilise n78 à 3500 MHz. Presque tout téléphone international vendu ces cinq dernières années prend déjà en charge ces bandes, donc la plupart des visiteurs se connectent sans y penser.
 
 
 
@@ -249,7 +249,7 @@ Pour une ligne du réseau Vodafone en tant que visiteur, les voies pratiques son
 
 
 
-Türk Telekom prend aussi en charge l'eSIM sur les lignes prépayées et en enregistrera une à un passeport étranger. C'est habituellement la moins chère des trois pour la donnée prépayée économique, et son épine dorsale en fibre lui donne un chemin de retour fiable dans les villes. Le compromis est que ses forfaits à destination des touristes sont moins mis en avant que ceux de Turkcell, donc attendez-vous à demander l'option eSIM prépayée en boutique ou dans l'application plutôt qu'à trouver une page d'accueil touristique dédiée.
+Türk Telekom prend aussi en charge l'eSIM sur les lignes prépayées et en enregistrera une à un passeport étranger. C'est habituellement la moins chère des trois pour les données prépayées économiques, et son épine dorsale en fibre lui donne un chemin de retour fiable dans les villes. Le compromis est que ses forfaits à destination des touristes sont moins mis en avant que ceux de Turkcell, donc attendez-vous à demander l'option eSIM prépayée en boutique ou dans l'application plutôt qu'à trouver une page d'accueil touristique dédiée.
 
 
 
@@ -309,11 +309,11 @@ Voici la partie que les voyageurs confondent. Acheter une SIM prépayée enregis
 
 
 
-Forfaits et paliers actuels se trouvent sur [notre page eSIM Turquie](/turkey-esim/). Installez à la maison pour que le profil se connecte dès que vous sortez du contrôle des passeports, et si vous comptez partager la connexion avec un ordinateur, vérifiez d'abord que le pack l'autorise.
+Forfaits et paliers actuels se trouvent sur [notre page eSIM Turquie](/turkey-esim/). Installez à la maison pour que le profil se connecte dès que vous sortez du contrôle des passeports, et si vous comptez utiliser le partage de connexion avec un ordinateur, vérifiez d'abord que le pack l'autorise.
 
 
 
-## Quelle couverture eSIM en Turquie : Turkcell vs Vodafone ?
+## Couverture des opérateurs eSIM Turquie : Turkcell vs Vodafone
 
 
 
@@ -351,7 +351,7 @@ Source : Ookla Speedtest Connectivity Report — Türkiye, juillet à décembre 
 
 
 
-Deux points ressortent. Turkcell gagne sur chaque score de tête, donc c'est la recommandation par défaut pour la plupart des voyages. Vodafone dépasse Türk Telekom en constance à 90.2% contre 89.4%, un écart assez faible pour rarement décider d'une route. Comme la 5G commerciale turque ne s'est allumée qu'en 2026, ces chiffres du S2 2025 décrivent le palier mature 4.5G qui porte encore la majeure partie du trafic, et les vraies vitesses 5G monteront à mesure que le nouveau spectre se remplit.
+Deux points ressortent. Turkcell gagne sur chaque score de tête, donc c'est la recommandation par défaut pour la plupart des voyages. Vodafone dépasse Türk Telekom en constance à 90.2% contre 89.4%, un écart assez faible pour rarement décider d'une route. Comme la 5G commerciale turque ne s'est allumée qu'en 2026, ces chiffres du S2 2025 décrivent le palier mature 4.5G qui porte encore la majeure partie du trafic, et les vraies vitesses 5G monteront à mesure que le nouveau spectre se remplit. Le chiffre le plus révélateur du tableau n'est pourtant pas la vitesse : sur la note cinq étoiles, Turkcell obtient 3.16 là où Türk Telekom et Vodafone plafonnent à 2.44 et 2.47 — l'écart le plus large de la comparaison, et le meilleur signal de satisfaction réelle des utilisateurs.
 
 
 
@@ -426,6 +426,8 @@ Vous prévoyez de traverser une frontière ? La même analyse sourcée existe po
 
 
 Pour les itinéraires multi-pays, une [eSIM Europe](/europe-esim/) ou une [eSIM Asie](/asia-esim/) signifie un achat au lieu de deux.
+
+Pour comparer les opérateurs avant la frontière, nos guides par réseau détaillent l'[eSIM Grèce](/carriers/greece-esim-carrier-guide/), l'[eSIM Bulgarie](/carriers/bulgaria-esim-carrier-guide/), l'[eSIM Irak](/carriers/iraq-esim-carrier-guide/) et l'[eSIM Azerbaïdjan](/carriers/azerbaijan-esim-carrier-guide/).
 
 
 
@@ -715,6 +717,14 @@ Oui, et beaucoup de voyageurs font exactement cela. Laissez votre SIM ordinaire 
 
 
 
+### Le partage de connexion est-il inclus dans les forfaits turcs ?
+
+Presque toujours, mais vérifiez-le avant de compter dessus. Les packs touristiques Turkcell et les lignes prépayées Vodafone comme Türk Telekom autorisent le partage, et il décompte vos données normalement. Sur un forfait data plafonné, un ordinateur branché en partage rapproche vite le plafond, donc surveillez votre consommation dans l'application de l'opérateur.
+
+### Que faire si je n'ai pas de numéro turc à l'arrivée ?
+
+C'est exactement le piège de l'aéroport : la vérification d'identité d'une carte SIM prépayée turque réclame souvent un code SMS local que vous n'avez pas encore. La parade est d'installer une eSIM voyage avant de partir — elle saute toute l'étape d'identité et se connecte dès la sortie du contrôle des passeports, pendant que votre SIM d'origine garde les SMS et les codes bancaires. Si vous tenez à une ligne locale, faites la démarche plus tard, depuis le Wi-Fi de l'hôtel.
+
 D'autres questions ? [Explorez la FAQ](/faq/)
 
 
@@ -743,7 +753,7 @@ Ce ne sont que des lectures tierces. Vos lectures varieront avec l'appareil, la 
 
 
 
-Sortez du contrôle des passeports déjà en ligne. Le profil de Roami se déplace tout seul entre Turkcell, Vodafone et Türk Telekom, donc le plateau et la côte tiennent tous les deux. Essayez d'abord [l'essai de données gratuit](/free-esim/), ou prenez 20 % de réduction sur un [forfait eSIM Turquie](/turkey-esim/) avec le code **WEB20**.
+Sortez du contrôle des passeports déjà en ligne. Roami réunit les opérateurs eSIM Turquie — Turkcell, Vodafone et Türk Telekom — et le profil se déplace tout seul entre eux, donc le plateau et la côte tiennent tous les deux. Essayez d'abord [l'essai de données gratuit](/free-esim/), ou prenez 20 % de réduction sur un [forfait eSIM Turquie](/turkey-esim/) avec le code **web20**.
 
 
 

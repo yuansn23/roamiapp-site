@@ -1,7 +1,7 @@
 ---
 title: "Quel opérateur eSIM Estonie choisir pour voyager ?"
 description: "Roami compare Telia, Elisa et Tele2 pour votre eSIM Estonie : vitesses, passeport prépayé, ferry Tallinn-Helsinki et APN."
-image: "img/esim/carriers/estonia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/estonia-esim-carrier-guide.webp"
 date: "2026-09-26T03:59:46+00:00"
 keywords: opérateurs eSIM Estonie, eSIM Telia Estonie, eSIM Elisa Estonie, Tele2 Estonie, couverture 5G Estonie, APN eSIM Estonie, enregistrement SIM prépayée Estonie, itinérance UE Estonie, eSIM voyageuse Estonie, meilleure eSIM Estonie
 site_name: Roami
@@ -18,7 +18,7 @@ hero_subtitle_main: "Telia, Elisa et Tele2, notés sur les Speedtest Awards Ookl
 
 Une eSIM Estonie semble simple dans l'e-Estonie, mais depuis janvier 2024 chaque prépayé local exige un enregistrement d'identité en personne — ce guide explique ce que cela signifie pour les visiteurs. L'Estonie est un petit pays qui se présente comme « e-Estonie », donc la question ici n'est pas de savoir si les réseaux sont bons — aux [prix Ookla H2 2025](https://www.speedtest.net/awards/estonia), **Elisa** a gagné à la fois Best et Fastest 5G avec un débit médian 5G de **336.49 Mbps** — mais de savoir si un visiteur étranger peut réellement y accéder. Depuis le **1er janvier 2024**, chaque nouvelle SIM prépayée (et eSIM) vendue en Estonie doit être enregistrée contre un passeport ou une carte d'identité UE en personne, ce qui supprime discrètement l'option « venir et acheter une eSIM locale » qui existe dans la plupart des pays. Ce guide répond à trois choses : sur lequel des trois réseaux votre eSIM doit rouler, comment le mur prépayé-identité change votre chemin d'achat, et ce que signifie vraiment l'itinérance UE quand vous prenez le ferry Tallinn–Helsinki. Nos lignes de test plus les questions que les voyageurs nous envoient réellement façonnent ce qui suit — particularités estoniennes comprises, même celles que les opérateurs préféreraient omettre.
 
-**Réponse rapide :** le résumé honnête : Elisa pour la vitesse à Tallinn, Telia pour la portée hors des villes, et très peu qui les sépare au centre-ville. Si les eSIM sont nouvelles pour vous, le [guide pratique d'activation](/faq/how-to-activate-an-esim/) vient d'abord — les tableaux de forfaits ci-dessous peuvent attendre.
+**Réponse rapide :** le résumé honnête : Elisa pour la vitesse à Tallinn, Telia pour la portée hors des villes, et très peu qui les sépare au centre-ville. Si les eSIM sont nouvelles pour vous, le [guide d'activation eSIM](/faq/how-to-activate-an-esim/) vient d'abord — les tableaux de forfaits data ci-dessous peuvent attendre.
 
 Certains téléphones ne peuvent pas du tout prendre une eSIM, et beaucoup de gens n'ont jamais vu un profil s'installer. Les deux manques sont couverts ailleurs — la [liste de compatibilité eSIM](/compatibility/) et l'[explication de l'activation](/faq/what-is-esim-activation-and-how-does-it-work/) — pour que cette page puisse rester sur les réseaux.
 
@@ -174,7 +174,9 @@ Le rang mondial 24e de l'Estonie est une moyenne nationale. Voici comment cela s
 | Setomaa et le sud-est | La 4G de Telia atteint les villages | Telia | Trous entre les agglomérations ; aucun signal au fond de la forêt |
 | Trains Elron | Le Wi-Fi gratuit à bord complète le réseau | Telia | Du Wi-Fi, pas du mobile, sur les tronçons ruraux |
 
-Vous voyagez ensuite à travers les Baltes ? Le même traitement sourcé des opérateurs voisins se trouve dans [notre guide Finlande](/carriers/finland-esim-carrier-guide/), [la page eSIM Lettonie](/latvia-esim/) et [la page eSIM Lituanie](/lithuania-esim/).
+Détail que le tableau ci-dessus enterre facilement : sur les trains Elron, c'est le Wi-Fi à bord — pas le réseau mobile — qui prend le relais sur les tronçons ruraux, donc enregistrez vos cartes hors ligne avant de monter à bord.
+
+Vous voyagez ensuite à travers les Baltes ? Le même traitement sourcé des opérateurs voisins se trouve dans [notre guide Finlande](/carriers/finland-esim-carrier-guide/), dans [le guide des opérateurs lettons](/carriers/latvia-esim-carrier-guide/) et dans [le comparatif des réseaux lituaniens](/carriers/lithuania-esim-carrier-guide/) — plus les pages produit [eSIM Lettonie](/latvia-esim/) et [eSIM Lituanie](/lithuania-esim/) quand vous savez déjà où vous allez.
 
 ## Quand saisir l'APN à la main en Estonie ?
 
@@ -236,7 +238,7 @@ La solution est administrative plutôt qu'un réglage. Retournez au même Esindu
 
 ### 10 Go suffisent-ils pour l'Estonie ?
 
-Pour un city-trip à Tallinn avec le Wi-Fi de l'hôtel, oui : cartes, messagerie et musique tiennent largement, et seuls le partage de connexion prolongé et les appels vidéo épuisent le seau plus vite. Le vrai piège n'est d'ailleurs pas le volume mais l'itinérance : les forfaits prépayés estoniens sont avares avec le Roam Like at Home. Les forfaits centraux d'Elisa et Tele2 excluent carrément l'itinérance UE, et même le passe de 200 Go de Telia ne concède que 23 Go au-delà de la frontière. Traversez vers la Finlande sur un prépayé local et vous rencontrez ce plafond, pas un trou de couverture.
+Pour un city-trip à Tallinn avec le Wi-Fi de l'hôtel, oui : cartes, messagerie et musique tiennent largement, et seuls le partage de connexion prolongé et les appels vidéo épuisent le seau plus vite. Le vrai piège n'est d'ailleurs pas le volume mais l'itinérance : les forfaits data prépayés estoniens sont avares avec le Roam Like at Home. On l'a vu plus haut — le passe de 200 Go de Telia ne concède que 23 Go au-delà de la frontière. Traversez vers la Finlande sur un prépayé local et vous rencontrez ce plafond, pas un trou de couverture.
 
 Lisez l'enveloppe UE du forfait avant d'embarquer le ferry, ou faites la traversée sur une eSIM voyageuse dont l'enveloppe UE/EEE est énoncée clairement au paiement.
 
@@ -324,7 +326,7 @@ Chaque chiffre de vitesse ci-dessus est une lecture tierce plutôt qu'un test de
 
 Le profil Estonie de Roami s'appuie sur Telia, Elisa et Tele2 et vous passe au plus fort à mesure que vous vous déplacez — les 336 Mbps d'Elisa au centre de Tallinn, la portée de 99% de Telia sur Saaremaa — sans rien signer à un comptoir et sans frais de configuration de €2–5 à Ülemiste.
 
-Jamais utilisé Roami ? Commencez sur une eSIM Estonie d'essai gratuite avant de payer quoi que ce soit. Quand vous serez prêt à acheter, le code **WEB20** retire **20%** sur un forfait Estonie payant, et si le ferry d'Helsinki figure à l'itinéraire, choisissez la version qui porte la couverture UE/EEE plutôt qu'un plafond de 23 GB.
+Jamais utilisé Roami ? Commencez sur une eSIM Estonie d'essai gratuite avant de payer quoi que ce soit. Quand vous serez prêt à acheter, le code **web20** retire **20%** sur un forfait Estonie payant, et si le ferry d'Helsinki figure à l'itinéraire, choisissez la version qui porte la couverture UE/EEE plutôt qu'un plafond de 23 GB.
 
 [Récupérez une eSIM Estonie](/estonia-esim/)
 

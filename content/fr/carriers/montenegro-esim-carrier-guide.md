@@ -3,7 +3,7 @@ title: "Opérateurs eSIM Monténégro : quel réseau choisir ?"
 
 description: "Roami compare les opérateurs eSIM Monténégro m:tel, Crnogorski Telekom et One sur la couverture, la vitesse et les prix."
 
-image: "img/esim/carriers/montenegro-esim-carrier-guide.jpg"
+image: "img/esim/carriers/montenegro-esim-carrier-guide.webp"
 
 date: "2026-09-24T17:10:03+00:00"
 
@@ -385,8 +385,8 @@ Tout ce qui précède est une mesure indépendante. Ici, le terrain, pas la tech
 
 ## De Kotor à Durmitor, connecté dès l'arrivée
 
-Achetez l'eSIM touristique en ligne, installez-la à la maison, et atterrissez à Tivat ou Podgorica avec 500 Go sans visite de comptoir et sans carte SIM kiosque laissée non enregistrée. Commencez par un [essayez avant d'acheter](/free-esim/) ou choisissez un palier sur la [page eSIM Monténégro](/montenegro-esim/). Vous descendez l'Adriatique ? Notre [page eSIM Albanie](/albania-esim/) couvre le prochain tronçon.
+Achetez l'eSIM touristique en ligne, installez-la à la maison, et atterrissez à Tivat ou Podgorica avec 500 Go sans visite de comptoir et sans carte SIM kiosque laissée non enregistrée. Commencez par un [essayez avant d'acheter](/free-esim/) ou choisissez un palier sur la [page eSIM Monténégro](/montenegro-esim/). Vous descendez l'Adriatique ? Notre [page eSIM pour l'Albanie](/albania-esim/) couvre le prochain tronçon.
 
 [Choisir un forfait Monténégro](/montenegro-esim/) · [Commencer par l'essai gratuit](/free-esim/) · [Page eSIM Monténégro](/montenegro-esim/)
 
-Une dernière vérification avant le départ : votre téléphone, sur la [page de compatibilité eSIM](/compatibility/), puis commencez par un [essai gratuit Roami](/free-esim/) et voyez comment la compatibilité eSIM traite votre itinéraire. Si cela fonctionne, le code **WEB20** retire 20 % de tout forfait Roami payant pour le Monténégro.
+Une dernière vérification avant le départ : votre téléphone, sur la [page de compatibilité eSIM](/compatibility/), puis commencez par un [essai gratuit Roami](/free-esim/) et voyez comment la compatibilité eSIM traite votre itinéraire. Si cela fonctionne, le code **web20** retire 20 % de tout forfait Roami payant pour le Monténégro.

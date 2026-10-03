@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Suisse : Swisscom, Sunrise et Salt"
 description: "Roami évalue Swisscom, Sunrise et Salt pour une eSIM Suisse : vitesse, couverture réseau et prix des forfaits prépayés suisses."
-image: "img/esim/carriers/switzerland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/switzerland-esim-carrier-guide.webp"
 date: "2026-09-23T10:34:23+00:00"
 keywords: opérateurs eSIM Suisse, Swisscom eSIM, Sunrise eSIM, Salt eSIM, couverture 5G Suisse, APN eSIM Suisse, eSIM Suisse prépayé, meilleur opérateur eSIM Suisse, eSIM voyage Suisse, itinérance UE Suisse
 site_name: Roami
@@ -22,7 +22,7 @@ La Suisse est le seul pays de montagne où le choix de votre forfait téléphoni
 
 Tout le reste passe par la porte d'installation — l'[outil de compatibilité eSIM](/compatibility/) et le [guide d'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) éclaircissent chacun des côtés. Revenez ensuite pour les verdicts de réseau.
 
-**La réponse en un paragraphe :** Séjournez à Zurich, Genève ou Bâle ? Swisscom est le réseau le plus rapide et le plus cohérent, et c'est le seul qui atteint de façon fiable les hautes Alpes. Direction les montagnes à Zermatt, la région de la Jungfrau ou le corridor du Gothard ? Swisscom garde le signal là où Sunrise et Salt faiblissent. Vous voulez un prépayé suisse qui couvre aussi la traversée UE ? Seul Sunrise vend un prépayé touristique incluant la France, l'Allemagne, l'Italie et l'Autriche par défaut. Ou évitez la paperasse et les calculs frontaliers : l'[eSIM d'essai gratuit Suisse de Roami](/free-esim/) teste les réseaux sans frais, et **WEB20** réduit de 20% les [forfaits eSIM Suisse](/switzerland-esim/).
+**La réponse en un paragraphe :** Séjournez à Zurich, Genève ou Bâle ? Swisscom est le réseau le plus rapide et le plus cohérent, et c'est le seul qui atteint de façon fiable les hautes Alpes. Direction les montagnes à Zermatt, la région de la Jungfrau ou le corridor du Gothard ? Swisscom garde le signal là où Sunrise et Salt faiblissent. Vous voulez un prépayé suisse qui couvre aussi la traversée UE ? Seul Sunrise vend un prépayé touristique incluant la France, l'Allemagne, l'Italie et l'Autriche par défaut. Ou évitez la paperasse et les calculs frontaliers : l'[eSIM d'essai gratuit Suisse de Roami](/free-esim/) teste les réseaux sans frais, et **web20** réduit de 20% les [forfaits eSIM Suisse](/switzerland-esim/).
 
 ## Quels opérateurs pour votre eSIM en Suisse ?
 
@@ -226,7 +226,7 @@ La couverture suisse suit l'argent en ville et suit les télécabines en montagn
 | Corridor du Gothard et vallées du Tessin | Route de col et vallées en 4G ; signal s'éclaircit sur les cols élevés reculés ; Swisscom atteint le plus loin | Swisscom |
 | Zones frontalières, Genève, Bâle, Tessin | Le téléphone peut s'accrocher à un mât français, allemand ou italien et errer dans les deux sens | eSIM voyage ou un forfait incluant l'UE |
 
-En train de franchir une frontière ? Nous publions la même analyse sourcée pour les [forfaits eSIM France](/france-esim/), les [forfaits eSIM Allemagne](/germany-esim/), les [forfaits eSIM Italie](/italy-esim/) et les [forfaits eSIM Autriche](/austria-esim/). Si votre itinéraire couvre plusieurs pays, une [Europe](/europe-esim/) évite d'acheter deux fois.
+En train de franchir une frontière ? Nos guides de terrain comparent aussi le [guide des opérateurs français](/carriers/france-esim-carrier-guide/), la [comparaison des opérateurs allemands](/carriers/germany-esim-carrier-guide/), le [guide eSIM Italie](/carriers/italy-esim-carrier-guide/) et le [guide des opérateurs européens](/carriers/europe-esim-carrier-guide/) ; les [forfaits eSIM France](/france-esim/), [Allemagne](/germany-esim/), [Italie](/italy-esim/) et [Autriche](/austria-esim/) restent les liens d'achat, et une [Europe](/europe-esim/) évite d'acheter deux fois.
 
 La sélection automatique du réseau fait discrètement le travail ici. Un profil qui peut passer entre Swisscom, Sunrise et Salt comble les trous qu'un forfait à opérateur unique ne peut pas, surtout sur un itinéraire quittant la Suisse.
 
@@ -278,7 +278,7 @@ Faites l'étape 4 à la maison. Les halls d'arrivée de Zurich et Genève ont un
 
 ### Comment se passe l'activation chez Swisscom, Sunrise et Salt ?
 
-Pour la séquence entière sur une page, notre [guide d'activation](/faq/how-to-activate-an-esim/) est la référence. Ce qui diffère selon l'opérateur :
+Pour la séquence entière sur une page, notre [tutoriel d'activation pas à pas](/faq/how-to-activate-an-esim/) est la référence. Ce qui diffère selon l'opérateur :
 
 - **Swisscom :** activé depuis le QR de la page prépayé touristique ; l'eSIM se connecte dès le premier contact réseau en Suisse, aucune visite en magasin
 - **Sunrise :** enregistré en ligne avec téléversement de pièce d'identité et selfie vidéo ; l'eSIM se télécharge après vérification, adresse étrangère acceptée
@@ -373,6 +373,10 @@ Parcourez les schémas propres à la Suisse ci-dessus dans l'ordre, statut de ve
 
 D'autres questions ? [Voir la FAQ complète →](/faq/)
 
+### Une eSIM Suisse fonctionne-t-elle dans les trains de montagne ?
+
+Dans les trains de plaine et les cols principaux, oui : la 4G tient le long des corridors comme le Gothard. Dans les tunnels et les tronçons alpins profonds, le signal tombe par à-coups, comme sur toute montagne — téléchargez vos cartes et billets hors ligne avant de monter, et privilégiez Swisscom pour la portée la plus haute.
+
 ## D'où viennent les chiffres de ce guide eSIM Suisse ?
 
 - **Rapport Ookla Speedtest Connectivity — Suisse, juillet à décembre 2024** — [le rapport par opérateur](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h2-2024) porte chaque chiffre au niveau opérateur cité sur cette page : Swisscom à 93.4, Salt à 92.7 et Sunrise à 88.3 sur la cohérence. Seules ces trois lignes opérateur sont sorties de la tranche suisse Ookla, rien d'autre n'est déguisé en chiffre opérateur Ookla.
@@ -385,7 +389,7 @@ Ce ne sont que des lectures tierces et des déclarations d'opérateurs. Les rés
 
 ## Comment se comparent les forfaits eSIM Suisse ?
 
-Atterrissez à Zurich déjà en ligne. Le profil de Roami saute entre Swisscom, Sunrise et Salt à mesure que vous bougez, et grimpe avec Swisscom au-dessus de la limite des neiges. Les primo-acheteurs peuvent commencer par un [eSIM d'essai multi-réseaux gratuit](/free-esim/) ou prendre 20% de remise avec le code **WEB20** sur un [forfait eSIM Suisse](/switzerland-esim/).
+Atterrissez à Zurich déjà en ligne. Le profil de Roami saute entre Swisscom, Sunrise et Salt à mesure que vous bougez, et grimpe avec Swisscom au-dessus de la limite des neiges. Que vous choisissiez une carte SIM prépayée locale ou un forfait data eSIM, le réseau suisse est le même ; l'eSIM voyage gagne sur l'absence de frontière à calculer. Les primo-acheteurs peuvent commencer par un [eSIM d'essai multi-réseaux gratuit](/free-esim/) ou prendre 20% de remise avec le code **web20** sur un [forfait eSIM Suisse](/switzerland-esim/).
 
 [Achetez le forfait eSIM Suisse](/switzerland-esim/)
 

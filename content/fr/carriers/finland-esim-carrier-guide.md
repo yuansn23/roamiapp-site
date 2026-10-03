@@ -4,7 +4,7 @@ title: "Opérateurs eSIM Finlande : quel réseau choisir ?"
 
 description: "Les réseaux finlandais comptent parmi les meilleurs du monde : Roami montre où Elisa, DNA et Telia diffèrent hors d'Helsinki."
 
-image: "img/esim/carriers/finland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/finland-esim-carrier-guide.webp"
 
 date: "2026-09-26T16:08:58+00:00"
 
@@ -181,7 +181,7 @@ Les opérateurs finlandais couvrent la population admirablement et le territoire
 
 
 
-Une particularité propre à la saison des aurores : les visiteurs d'hiver ne devraient pas compter sur le Wi-Fi public des resorts en igloo de verre et des hôtels de pleine nature — les données mobiles sont généralement le seul lien fiable, dimensionnez donc votre forfait en conséquence. Et notez que les stations vantées comme « au milieu de nulle part » le sont vraiment : les réseaux couvrent les routes d'accès, pas les fells.
+Une particularité propre à la saison des aurores : les visiteurs d'hiver ne devraient pas compter sur le Wi-Fi public des resorts en igloo de verre et des hôtels de pleine nature — les données mobiles sont généralement le seul lien fiable, dimensionnez donc votre forfait data en conséquence. Et notez que les stations vantées comme « au milieu de nulle part » le sont vraiment : les réseaux couvrent les routes d'accès, pas les fells.
 
 
 
@@ -295,7 +295,7 @@ Deux notes structurelles. D'abord, l'aéroport d'Helsinki n'a aucune boutique d'
 
 
 
-**Opérateur direct contre eSIM voyage, en une ligne :** une SIM prépayée finlandaise vous achète des données presque illimitées et des droits d'itinérance UE aux prix locaux — cela vaut la visite de boutique pour des séjours de plus de quelques semaines. Pour un voyage d'une à deux semaines, une eSIM voyage livrée par code QR avant le départ gagne sur le temps, et un profil multi-réseaux peut quand même vous faire atterrir sur DNA à Helsinki et Elisa en Laponie sans acheter deux fois.
+**Opérateur direct contre eSIM voyage, en une ligne :** une SIM prépayée finlandaise vous achète des données presque illimitées et des droits d'itinérance UE (roaming) aux prix locaux — cela vaut la visite de boutique pour des séjours de plus de quelques semaines. Pour un voyage d'une à deux semaines, une eSIM voyage livrée par code QR avant le départ gagne sur le temps, et un profil multi-réseaux peut quand même vous faire atterrir sur DNA à Helsinki et Elisa en Laponie sans acheter deux fois.
 
 
 
@@ -597,9 +597,7 @@ Commencez par l'installation standard — scan du QR, nom de la ligne, définiti
 
 ### Qui exploite les réseaux en Finlande ?
 
-
-
-En vitesse brute, DNA — elle a remporté meilleur réseau mobile, meilleur réseau 5G, la constance la plus haute (96.2%) et 12 des 14 prix Opensignal aux cycles de mesure 2025. Mais Telia frôle ses vitesses 5G dans les villes, et l'expérience de couverture d'Elisa est le point de référence dans le nord et l'est. Pour la plupart des visiteurs, la bonne réponse est « le plus fort là où vous êtes », ce qu'un forfait à opérateur unique ne peut pas offrir.
+Trois opérateurs nationaux : Elisa, DNA et Telia. DNA mène en vitesse brute — meilleur réseau mobile et meilleur réseau 5G, 12 des 14 prix Opensignal aux cycles 2025. Telia rivalise en 5G urbaine (215.69 Mbps médians) et décroche le prix d'expérience vidéo. Elisa détient les prix d'expérience de couverture, décisifs dès que vous quittez l'axe Helsinki–Tampere. Åland fait bande à part : l'archipel fonctionne sur son opérateur local Ålcom.
 
 
 
@@ -613,9 +611,7 @@ Oui, les trois vendent des eSIM et du prépayé aux visiteurs — mais la voie e
 
 ### Quelles pièces d'identité pour acheter une SIM en Finlande ?
 
-
-
-Non. La Finlande n'a aucun enregistrement obligatoire de SIM prépayée, et les pages prépayées de DNA confirment qu'aucun enregistrement ni pièce d'identité n'est requis. C'est l'une des règles les plus accueillantes d'Europe.
+Aucune n'est exigée par la loi : la Finlande n'a aucun enregistrement obligatoire de SIM prépayée, et les pages prépayées de DNA confirment qu'aucune pièce d'identité n'est requise dans son réseau de vente. En pratique, certains comptoirs scannent le passeport pour leurs propres contrôles anti-fraude, et un achat en libre-service peut passer par une vérification à la caisse — gardez-le sur vous, mais n'attendez ni bureau d'enregistrement, ni formulaire, ni attente.
 
 
 
@@ -637,9 +633,7 @@ Souvent partiellement — les opérateurs finlandais incluent des enveloppes d'i
 
 ### Elisa contre DNA en 5G : lequel est meilleur en Finlande ?
 
-
-
-Parmi les plus rapides qui soient. La Finlande s'est classée 2e dans l'indice d'excellence des réseaux mondiaux d'Opensignal (Q1 2025), et le téléchargement 5G médian de DNA à 242.64 Mbps fait partie du premier rang de tout marché national mesuré par Ookla.
+DNA en 5G pure : téléchargement médian de 242.64 Mbps, meilleur réseau 5G du rapport Ookla 1H 2025, et la constance la plus haute du marché. Telia suit de près à 215.69 Mbps avec le prix d'expérience vidéo d'Opensignal, et Elisa ferme la marche à 209.49 Mbps. L'écart se joue surtout hors des villes — c'est là que l'expérience de couverture d'Elisa prend le dessus.
 
 
 
@@ -663,7 +657,7 @@ Oui. Définissez l'eSIM comme votre ligne de données mobiles et laissez votre S
 
 
 
-Les eSIM de voyage sont en data uniquement ; utilisez WhatsApp, FaceTime ou Skype pour les appels, et composez le 112 en cas d'urgence — c'est gratuit sur tout réseau, même sans crédit. Les forfaits prépayés finlandais directs incluent bel et bien appels et SMS, ce qui est l'un de leurs véritables avantages.
+Les eSIM de voyage sont en data uniquement ; utilisez WhatsApp, FaceTime ou Skype pour les appels, et composez le 112 en cas d'urgence — c'est gratuit sur tout réseau, même sans crédit. Le partage de connexion vers un ordinateur fonctionne selon les conditions du fournisseur — vérifiez la clause si vous télétravaillez. Les forfaits prépayés finlandais directs incluent bel et bien appels et SMS, ce qui est l'un de leurs véritables avantages.
 
 
 
@@ -677,9 +671,7 @@ Telia Finlande opère sur une infrastructure héritée de Sonera, et certains t�
 
 ### Combien coûtent les données en Finlande ?
 
-
-
-Au gigaoctet, non. Les données finlandaises coûtent environ USD 0.52 le GB, et les paliers illimités Rajaton de DNA démarrent à €0.99 par jour — aucune eSIM voyage n'égale ce tarif. Par voyage, souvent oui : vous évitez la visite de boutique, la règle « activer d'abord en Finlande » et la SIM physique, et vous êtes en ligne dès que les roues touchent le sol. Adaptez l'outil à la durée du séjour plutôt qu'au prix au gigaoctet.
+Environ USD 0.52 le gigaoctet selon Cable.co.uk — parmi les marchés les moins chers du monde — et les paliers illimités Rajaton de DNA démarrent à €0.99 par jour. Pour un visiteur, la question se pose en deux monnaies : au gigaoctet, le prépayé local gagne sans discussion ; en temps gagné, l'eSIM voyage livrée par code QR bat la visite de boutique. Adaptez l'outil à la durée du séjour plutôt qu'au prix au gigaoctet.
 
 
 
@@ -697,7 +689,13 @@ Oui. La Finlande se trouve dans la zone « roam like at home » de l'UE, donc un
 
 Seulement tant que le navire est à portée d'un réseau terrestre. Le « roam like at home » s'applique aux réseaux terrestres, et la liaison satellite propre d'un navire n'est pas couverte par le plafond de prix — c'est exactement la connexion que votre téléphone attrape au milieu de la Baltique. Désactivez l'itinérance des données pour le tronçon en pleine eau et réactivez-la au port.
 
+### Puis-je recharger un prépayé DNA depuis l'étranger avant d'arriver ?
 
+Cela ne servira à rien : un abonnement prépayé DNA doit être activé sur un réseau finlandais avant de fonctionner à l'étranger, donc un pack acheté et rechargé chez vous ne compte pas comme activé. Les rechargements une fois sur place passent par l'application de l'opérateur, laturi.dna.fi ou n'importe quel R-kioski. C'est précisément la contrainte qu'une eSIM voyage livrée par QR supprime.
+
+### Le Wi-Fi gratuit des trains VR remplace-t-il un forfait ?
+
+Il le complète, il ne le remplace pas. Les rames grandes lignes embarquent un Wi-Fi gratuit et une prise à chaque siège, utile pour les tronçons où le signal mobile décroche ; mais ce réseau vit du paysage qu'il traverse, rien dans le métro d'Helsinki au moment de valider votre billet HSL, et rien dans la ville. Gardez un forfait data pour la navigation quotidienne et traitez le Wi-Fi de bord comme un bonus de corridor.
 
 ## Comment utiliser votre eSIM Finlande à l'étranger ?
 
@@ -721,7 +719,7 @@ Les frontières de la Finlande sont d'une facilité triviale à franchir en pers
 
 
 
-Si votre itinéraire quitte la Finlande plus d'une fois, la décision pratique se prend avant le départ plutôt qu'à un poste frontière : un profil Finlande uniquement cesse de fonctionner dès que vous franchissez la ligne, tandis qu'un forfait nordique ou Europe conserve le même réservoir de données sur tout l'itinéraire. Nos guides sur [les trous de couverture nordiques de la Suède](/carriers/sweden-esim-carrier-guide/) et [la réalité fjord par fjord de la Norvège](/norway-esim/) expliquent ce qui change de l'autre côté, et [les options de l'Estonie](/estonia-esim/) couvrent le plus court saut des trois.
+Si votre itinéraire quitte la Finlande plus d'une fois, la décision pratique se prend avant le départ plutôt qu'à un poste frontière : un profil Finlande uniquement cesse de fonctionner dès que vous franchissez la ligne, tandis qu'un forfait nordique ou Europe conserve le même réservoir de données sur tout l'itinéraire. Nos guides sur [les trous de couverture nordiques de la Suède](/carriers/sweden-esim-carrier-guide/), [l'analyse des réseaux norvégiens](/carriers/norway-esim-carrier-guide/) et [le guide des opérateurs estoniens](/carriers/estonia-esim-carrier-guide/) expliquent ce qui change de l'autre côté — avec [la réalité fjord par fjord de la Norvège](/norway-esim/) et [les options de l'Estonie](/estonia-esim/) en pages produit. Détail que le tableau enterre : la Finlande a une heure d'avance sur la Suède — réglez alarmes et rechargements de forfait en conséquence à Tornio–Haparanda.
 
 
 
@@ -771,5 +769,5 @@ Configurez une fois, connectez-vous à l'atterrissage, et ne payez rien de plus 
 
 
 
-Et quand vous serez prêt à acheter : l'[eSIM d'essai](/free-esim/) de Roami est le point de départ sans risque pour la Finlande, avec **WEB20** qui retire 20% lors de votre premier paiement d'un forfait Roami si vous décidez de rester connecté tout le voyage.
+Et quand vous serez prêt à acheter : l'[eSIM d'essai](/free-esim/) de Roami est le point de départ sans risque pour la Finlande, avec **web20** qui retire 20% lors de votre premier paiement d'un forfait Roami si vous décidez de rester connecté tout le voyage.
 

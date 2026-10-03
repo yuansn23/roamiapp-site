@@ -1,7 +1,7 @@
 ---
 title: "Opérateurs eSIM Iran : choisir MCI ou Irancell ?"
 description: "Roami compare les opérateurs eSIM Iran MCI, Irancell et Rightel sur la couverture, la vitesse et les prix pour les voyageurs."
-image: "img/esim/carriers/iran-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iran-esim-carrier-guide.webp"
 date: "2026-09-25T06:03:02+00:00"
 keywords: opérateurs eSIM Iran, eSIM Iran, eSIM MCI, eSIM Irancell, eSIM voyage Iran, MCI, Hamrah-e Aval, Rightel, 5G Iran, eSIM pour l'Iran, eSIM prépayée Iran, eSIM touristique Iran
 site_name: Roami
@@ -35,7 +35,7 @@ Apportez des espèces en euros ou en dollars à échanger contre des rials, enre
 
 Commencez par le mode de panne, car il est réellement différent du reste du monde.
 
-Dans la plupart des pays, une eSIM voyage fonctionne par itinérance : votre profil saute sur un opérateur local via un accord de gros, et c'est la fin de l'histoire.
+Dans la plupart des pays, une eSIM voyage fonctionne par roaming : votre profil saute sur un opérateur local via un accord de gros, et c'est la fin de l'histoire.
 
 ### Pourquoi les profils eSIM étrangers échouent-ils à s'attacher en Iran
 
@@ -49,7 +49,7 @@ La panne ressemble à un problème de couverture, mais n'en est pas un. Les loca
 
 Le second mode de panne frappe avant même votre atterrissage.
 
-Certaines vitrines internationales vendent volontiers un forfait eSIM Iran à tout téléphone compatible, puis vous laissent découvrir à l'arrivée que le profil ne s'enregistrera pas sur un réseau local.
+Certaines vitrines internationales vendent volontiers un forfait eSIM Iran à tout téléphone compatible, puis vous laissent découvrir à l'arrivée que le profil ne s'enregistrera pas sur un réseau local — une carte SIM prépayée achetée sur place, elle, est déjà rattachée au bon réseau.
 
 Il n'existe pas de bureau de support sur place pour l'eSIM d'une marque étrangère, et l'aide à l'activation que vous obtiendriez en Turquie ou aux Émirats arabes unis n'existe pas ici. Si votre itinéraire dépend d'avoir des données dès la première heure, prévoyez l'option locale, pas l'option importée.
 
@@ -97,7 +97,7 @@ La façon fiable de se connecter est un produit émis à l'intérieur de l'Iran,
 
 Le processus d'achat est le même partout. Remettez votre passeport — un visa iranien valide ou un tampon d'entrée l'accompagne — choisissez un forfait de données, et le personnel enregistre la ligne à votre nom et l'active.
 
-Les forfaits visiteurs sont généralement valables environ un mois, et des options plus courtes ou plus longues existent aux comptoirs.
+Les forfaits visiteurs de données prépayées sont généralement valables environ un mois, et des options plus courtes ou plus longues existent aux comptoirs.
 
 Notez que le prix affiché couvre généralement la SIM elle-même, pas les données. Budgétisez séparément le forfait et le crédit de recharge, en espèces, et demandez spécifiquement si le comptoir émet un profil eSIM ou une carte physique seulement — la réponse varie selon l'opérateur.
 
@@ -151,6 +151,8 @@ Rightel est le plus petit des trois, avec une empreinte concentrée sur les gran
 | Incluant Mashhad ou le nord-ouest | MCI | La plus large portée au-delà du couloir central |
 | Séjour d'affaires Téhéran uniquement | N'importe lequel des trois | La couverture urbaine est excellente toutes catégories |
 | Conduite rurale ou désertique importante | MCI | La couverture provinciale est le pari le plus sûr |
+
+Lu d'un bloc, ce tableau livre une conclusion que personne ne formule jamais à voix haute : MCI apparaît dans les quatre scénarios, Irancell ne décroche réellement que sur les routes provinciales, et aucun des trois n'est un mauvais choix si votre séjour reste centré sur Téhéran — l'identité de l'opérateur importe surtout dès que l'itinéraire s'étire.
 
 ## Enregistrement SIM en Iran : à quoi s'attendre ?
 
@@ -270,7 +272,7 @@ La séquence d'installation générique — ajouter un profil, scanner le code, 
 
 ### Quelles pannes ont des correctifs spécifiques en Iran ?
 
-- **Toutes les barres mais pas internet sur une eSIM étrangère :** c'est le problème d'attachement par itinérance, pas un manque de couverture. Passez à une ligne émise localement.
+- **Toutes les barres mais pas internet sur une eSIM étrangère :** le problème d'attachement décrit en tête de guide ; seule une ligne émise localement le règle durablement.
 - **Une ligne locale qui a fonctionné puis s'est arrêtée après environ un mois :** l'horloge d'enregistrement de l'appareil est écoulée. Voir la section IMEI ci-dessus.
 - **Une eSIM locale sans données après installation :** confirmez que la ligne iranienne, pas la SIM domestique, est la ligne de données sélectionnée, puis basculez le mode avion pour forcer une nouvelle attache réseau.
 
@@ -350,7 +352,7 @@ Un téléphone double-eSIM peut garder le profil touristique et votre ligne dome
 
 Sur la boucle classique Téhéran–Ispahan–Chiraz, MCI et Irancell font également l'affaire ; ce qui se dimensionne, c'est le volume — et il en faut moins que la plupart des visiteurs ne l'attendent, car les données mobiles iraniennes sont peu chères et la couverture urbaine est dense.
 
-Les cartes, la messagerie et les applis de traduction sur un itinéraire ville-à-ville de deux semaines viennent typiquement bien en dessous de 2 Go par jour, et un forfait vendu à l'aéroport couvre généralement environ un mois de validité — si bien que la contrainte est plus souvent la fenêtre du forfait que le volume. À USD 1,50 le Go, même 20 Go sur un mois restent sous la barre des 30 $. Le partage de connexion avec un ordinateur portable est la seule chose qui fait monter le calcul.
+Les cartes, la messagerie et les applis de traduction sur un itinéraire ville-à-ville de deux semaines viennent typiquement bien en dessous de 2 Go par jour, et un forfait data vendu à l'aéroport couvre généralement environ un mois de validité — si bien que la contrainte est plus souvent la fenêtre du forfait que le volume. À USD 1,50 le Go, même 20 Go sur un mois restent sous la barre des 30 $. Le partage de connexion avec un ordinateur portable est la seule chose qui fait monter le calcul.
 
 ### eSIM locale ou SIM touristique physique : que choisir en Iran ?
 
@@ -376,6 +378,14 @@ Parcourez trois vérifications dans l'ordre : confirmez que l'eSIM iranienne est
 
 Si rien de cela ne restaure les données, le comptoir ou magasin ayant émis la ligne est le bon endroit pour l'emporter, car l'enregistrement y est à votre nom.
 
+### Une eSIM Iran fonctionne-t-elle dans le désert entre Yazd et Kerman ?
+
+En ville, oui — Yazd et Kerman sont bien couvertes, et les jardins, bazars et vieux quartiers que visitent les voyageurs sont dans la zone forte de chaque opérateur. Mais dès que la route file dans le désert environnant, la couverture s'amincit vite et de longs tronçons n'ont rien du tout, quel que soit le forfait. Le réflexe est le même que pour toute route iranienne : cartes hors ligne téléchargées avant de quitter la ville, itinéraire communiqué à votre hôtel, et messages envoyés au retour du signal — le désert est un lieu de silence volontaire, pas une panne de votre ligne.
+
+### Faut-il désactiver ou restituer sa ligne touristique en quittant l'Iran ?
+
+Non, et c'est une question que beaucoup de visiteurs se posent à tort. L'enregistrement de la ligne a été fait à votre nom au moment de l'achat et rien ne doit être restitué ni annulé : une eSIM touristique qui expire simplement ne laisse rien à désenregistrer, et une carte physique peut rejoindre le tiroir à souvenirs. Votre téléphone, lui, retrouve normalement tous ses réseaux dès la sortie du pays — la restriction des 30 jours ne s'appliquait qu'au service local.
+
 ## Sur quelles sources repose ce guide ?
 
 - Le [rapport Digital 2025 : Iran de DataReportal](https://datareportal.com/reports/digital-2025-iran) a fourni les 152 millions de connexions mobiles (166 % de la population), les 73,2 millions d'internautes (79,6 %) et la médiane de téléchargement mobile de 38,9 Mbps citée d'Ookla du début 2025.
@@ -386,12 +396,12 @@ Si rien de cela ne restaure les données, le comptoir ou magasin ayant émis la 
 
 Tout ce qui est cité sur cette page est une mesure de tiers ou une statistique officiellement publiée, vérifiée quand ce guide a été mis à jour pour la dernière fois. Les règles autour de l'enregistrement et de l'application changent ; vérifiez les dernières exigences avant un long séjour.
 
-## Combien coûte un gigaoctet en Iran ?
+## Préparez votre eSIM Iran avant le décollage
 
 L'Iran récompense les planificateurs : espèces échangées à l'avance, une ligne touristique émise localement arrangée pour IKA, cartes hors ligne chargées avant les longs tronçons interurbains. Quand vous voulez un profil de données qui vous arrive avec vous, [achetez un forfait eSIM Iran](/iran-esim/) et installez-le à la maison.
 
 Pour découvrir comment se comporte un profil data uniquement, la mécanique est identique partout — [l'explication d'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) explique ce qui se passe quand vous scannez le code. *Les premiers clients Roami peuvent commencer par une eSIM d'essai gratuite* — [réclamez-en une](/free-esim/) sans engagement — et la page [forfaits eSIM Moyen-Orient](/middle-east-esim/) liste les forfaits régionaux dont la couverture inclut l'Iran.
 
-Quand vos voyages vous mènent vers des coins mieux connectés de la région, les guides voisins couvrent les tronçons de frontière : [Turquie](/turkey-esim/), [Irak](/iraq-esim/) et [Azerbaïdjan](/azerbaijan-esim/).
+Quand vos voyages vous mènent vers des coins mieux connectés de la région, les guides voisins couvrent les tronçons de frontière : [Turquie](/turkey-esim/), [Irak](/iraq-esim/) et [Azerbaïdjan](/azerbaijan-esim/). Pour comparer les réseaux d'opérateurs avant de traverser, nos guides détaillés voisins vont plus loin : le [guide eSIM Turquie](/carriers/turkey-esim-carrier-guide/), le [guide des opérateurs mobiles irakiens](/carriers/iraq-esim-carrier-guide/), le [guide eSIM Azerbaïdjan](/carriers/azerbaijan-esim-carrier-guide/) et le [guide eSIM Pakistan](/carriers/pakistan-esim-carrier-guide/).
 
-Le jeu pratique : testez d'abord avec l'[essai gratuit](/free-esim/) de Roami — il utilise la même infrastructure que MCI — puis bloquez un forfait Roami payant avec le code **WEB20** pour 20 % de réduction si l'Iran devient une destination régulière. Prêt à acheter ? L'essai s'installe en deux minutes.
+Le jeu pratique : testez d'abord avec l'[essai gratuit](/free-esim/) de Roami — il utilise la même infrastructure que MCI — puis bloquez un forfait Roami payant avec le code **web20** pour 20 % de réduction si l'Iran devient une destination régulière. Prêt à acheter ? L'essai s'installe en deux minutes.

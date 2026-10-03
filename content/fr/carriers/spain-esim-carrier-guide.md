@@ -3,7 +3,7 @@ title: "Quel opérateur eSIM choisir pour voyager en Espagne ?"
 
 description: "Roami compare Movistar, Orange et Vodafone pour une eSIM Espagne : vitesse, couverture, prix et enregistrement au passeport."
 
-image: "img/esim/carriers/spain-esim-carrier-guide.jpg"
+image: "img/esim/carriers/spain-esim-carrier-guide.webp"
 
 date: "2026-09-23T16:48:17+00:00"
 
@@ -46,7 +46,7 @@ Deux points à régler avant de comparer les opérateurs : la compatibilité de 
 
 
 
-**La version en 30 secondes :** Vous séjournez à Madrid ou Barcelone ? Movistar est le réseau le plus complet et devance sur la couverture rurale. Vous diffusez ou jouez beaucoup ? Orange prend l'avantage sur les scores vidéo et jeu. Vous marchez sur le Camino de Santiago ou conduisez dans les Pyrénées ? Movistar conserve le signal là où les autres faiblissent. Vous voulez un numéro espagnol et l'itinérance UE ? N'importe lequel des quatre prépayés fonctionne, mais chacun impose un enregistrement au passeport au point de vente. Ou évitez les démarches : l'[eSIM d'essai offert](/free-esim/) teste les réseaux sans frais, et le code **WEB20** fait 20% de remise sur les [forfaits eSIM prépayés Espagne](/spain-esim/).
+**La version en 30 secondes :** Vous séjournez à Madrid ou Barcelone ? Movistar est le réseau le plus complet et devance sur la couverture rurale. Vous diffusez ou jouez beaucoup ? Orange prend l'avantage sur les scores vidéo et jeu. Vous marchez sur le Camino de Santiago ou conduisez dans les Pyrénées ? Movistar conserve le signal là où les autres faiblissent. Vous voulez un numéro espagnol et l'itinérance UE ? N'importe lequel des quatre prépayés fonctionne, mais chacun impose un enregistrement au passeport au point de vente. Ou évitez les démarches : l'[eSIM d'essai offert](/free-esim/) teste les réseaux sans frais, et le code **web20** fait 20% de remise sur les [forfaits eSIM prépayés Espagne](/spain-esim/).
 
 
 
@@ -138,7 +138,7 @@ L'économie diffère selon ce que vous valorisez. Un forfait prépayé espagnol 
 
 
 
-Un profil eSIM multi-réseaux est la solution intermédiaire pratique : l'[eSIM Espagne de Roami](/spain-esim/) conserve la commodité de la livraison instantanée, bascule automatiquement entre Movistar, Orange, Vodafone et Yoigo, et vous dépose toujours sur Movistar en montagne et Orange en ville sans acheter deux fois.
+Un profil eSIM multi-réseaux est la solution intermédiaire pratique : l'[eSIM Espagne de Roami avec données prépayées](/spain-esim/) conserve la commodité de la livraison instantanée, bascule automatiquement entre Movistar, Orange, Vodafone et Yoigo, et vous dépose toujours sur Movistar en montagne et Orange en ville sans acheter deux fois.
 
 
 
@@ -154,7 +154,7 @@ Trois éléments déterminent si votre téléphone fonctionne sur un opérateur 
 
 
 
-Les opérateurs espagnols construisent la 4G sur les bandes B1, B3, B7, B8, B20 (800 MHz) et B28a (700 MHz), et la 5G sur n1, n3, n7, n28a (700 MHz), n78 (3.5 GHz) et n258 (26 GHz). La plupart des appareils internationaux vendus en Europe, en Asie et dans les Amériques prennent déjà en charge ces bandes, si bien que la compatibilité est rarement le problème qu'elle peut être, disons, au Canada. La bande qui sépare réellement la ville de la campagne est B20 (800 MHz) pour la 4G et n28a (700 MHz) pour la 5G : les téléphones qui en sont dépourvus fonctionnent encore à Madrid et Barcelone mais perdent la portée basse fréquence qui remplit les vallées rurales.
+Les opérateurs espagnols construisent la 4G sur les bandes et fréquences B1, B3, B7, B8, B20 (800 MHz) et B28a (700 MHz), et la 5G sur n1, n3, n7, n28a (700 MHz), n78 (3.5 GHz) et n258 (26 GHz). La plupart des appareils internationaux vendus en Europe, en Asie et dans les Amériques prennent déjà en charge ces bandes, si bien que la compatibilité est rarement le problème qu'elle peut être, disons, au Canada. La bande qui sépare réellement la ville de la campagne est B20 (800 MHz) pour la 4G et n28a (700 MHz) pour la 5G : les téléphones qui en sont dépourvus fonctionnent encore à Madrid et Barcelone mais perdent la portée basse fréquence qui remplit les vallées rurales.
 
 
 
@@ -368,7 +368,7 @@ Là où le rapport ne publie pas de chiffre plus clair pour un opérateur, le cl
 
 
 
-Pour situer le pays dans son ensemble, l'indice mondial Speedtest d'Ookla place le téléchargement mobile médian de l'Espagne à environ 83.65 Mbps en août 2026, 55e mondial, avec une latence de 34 ms, tandis que Cable.co.uk tarife les données mobiles espagnoles à environ 0.48 USD le gigaoctet, parmi les moins chères des 237 marchés qu'il suit.
+Pour situer le pays dans son ensemble, l'indice mondial Speedtest d'Ookla place le téléchargement mobile médian de l'Espagne à environ 83.65 Mbps en août 2026, 55e mondial, avec une latence de 34 ms, tandis que Cable.co.uk tarife les données mobiles espagnoles à environ 0.48 USD le gigaoctet, parmi les moins chères des 237 marchés qu'il suit — un atout pour tout forfait data en déplacement.
 
 
 
@@ -393,6 +393,10 @@ Pour situer le pays dans son ensemble, l'indice mondial Speedtest d'Ookla place 
 | Voyageur au budget limité | Yoigo | Prix le plus bas par gigaoctet, itinérance rurale Movistar | Réseau propre urbain plus petit |
 
 | Long séjour nécessitant un numéro espagnol | N'importe lequel des quatre | Vrai numéro espagnol plus itinérance UE incluse | Enregistrement au passeport obligatoire |
+
+
+
+Un détail de ce tableau en dit long : Vodafone n'y est jamais nommé, même en second choix, et Yoigo n'apparaît que sur la ligne budget. Le vrai duel espagnol se joue entre Movistar et Orange, et sur la couverture comme sur la vitesse, Movistar mène.
 
 
 
@@ -434,7 +438,7 @@ Vous planifiez un itinéraire quittant l'Espagne ? Commencez par [l'eSIM pour le
 
 La sélection automatique du réseau fait le gros du travail sur un itinéraire espagnol. Un profil qui peut passer entre Movistar, Orange, Vodafone et Yoigo comble les trous régionaux qu'un forfait à opérateur unique ne peut pas.
 
-
+Pour comparer les réseaux voisins avant de choisir, consultez notre [guide des opérateurs eSIM Portugal](/carriers/portugal-esim-carrier-guide/), le [guide eSIM France](/carriers/france-esim-carrier-guide/), le [guide eSIM Maroc](/carriers/morocco-esim-carrier-guide/) et le [guide eSIM Italie](/carriers/italy-esim-carrier-guide/).
 
 ## Quels paramètres APN utilisent les eSIM des opérateurs Espagne ?
 
@@ -714,6 +718,26 @@ Parcourez les quatre schémas propres à l'Espagne ci-dessus dans l'ordre, statu
 
 
 
+### Que faire si j'épuise mes données en plein séjour ?
+
+Sur un eSIM voyage Roami, l'ajout de données se gère depuis l'application sans réinstaller le profil, donc vous n'êtes jamais bloqué en route. Chez les opérateurs espagnols, un prépayé se recharge dans l'appli (Mi Movistar, My Orange, portail Vodafone ou Mi Yoigo) tant que votre enregistrement au passeport reste valide. Si vous voyagez sans filet, anticipez en choisissant un palier supérieur sur notre [eSIM Espagne Roami](/spain-esim/) avant le départ plutôt que de vous retrouver à sec à mi-chemin de la meseta.
+
+### Le partage de connexion est-il autorisé sur une eSIM Espagne ?
+
+
+
+Presque toujours, mais c'est le forfait qui décide, pas le réseau. Une eSIM voyage data uniquement autorise en général le partage de connexion (hotspot), et les prépayés des quatre opérateurs espagnols le permettent aussi. La vigilance porte sur deux points : certains paliers d'entrée brident le partage ou le facturent comme une option, et un forfait à usage raisonnable peut voir son débit réduit si vous partagez toute la journée. Pour deux personnes sur un seul forfait, prenez un palier avec de la marge — le Prepago S de Vodafone à 90 Go ou le Prepago M à 270 Go laissent plus de place qu'un 40 Go partagé — et vérifiez la clause avant d'acheter.
+
+
+
+### Puis-je garder mon numéro pour les SMS à double facteur en Espagne ?
+
+
+
+Oui, et c'est même recommandé. Une eSIM voyage est un profil de données séparé : votre SIM nationale reste dans le téléphone et continue de recevoir les SMS et les appels, ce qui couvre la double authentification bancaire et les codes de vérification. Réglez simplement l'eSIM comme ligne de données mobiles et laissez la ligne d'origine pour la voix ; pensez à désactiver l'itinérance des données sur cette dernière pour éviter tout frais en arrière-plan. Si vous achetez directement un prépayé espagnol, c'est le numéro espagnol qui porte la voix et les SMS, et il faut alors que l'enregistrement au passeport reste valide pour le conserver.
+
+
+
 D'autres questions ? [Parcourez la FAQ complète](/faq/)
 
 
@@ -742,7 +766,7 @@ Seules des mesures tierces sont citées. Ce que vous voyez réellement dépend d
 
 
 
-Un seul profil Roami relie Movistar, Orange, Vodafone et Yoigo, basculant à mesure que vous passez de Madrid aux montagnes sans guichet du passeport en vue. Commencez par un [eSIM d'essai Espagne gratuit](/free-esim/), ou appliquez le code **WEB20** pour 20% de remise sur les [forfaits eSIM Espagne](/spain-esim/).
+Un seul profil Roami relie Movistar, Orange, Vodafone et Yoigo, basculant à mesure que vous passez de Madrid aux montagnes sans guichet du passeport en vue. Commencez par un [eSIM d'essai Espagne gratuit](/free-esim/), ou appliquez le code **web20** pour 20% de remise sur les [forfaits eSIM Espagne](/spain-esim/).
 
 
 

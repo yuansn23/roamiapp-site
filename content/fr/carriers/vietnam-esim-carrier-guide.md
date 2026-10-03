@@ -3,7 +3,7 @@ title: "Quel opérateur eSIM choisir pour voyager au Vietnam ?"
 
 description: "Roami compare Viettel, Vinaphone et Mobifone pour une eSIM Vietnam : couverture, vitesse et prix, de Sapa au delta du Mékong."
 
-image: "img/esim/carriers/vietnam-esim-carrier-guide.jpg"
+image: "img/esim/carriers/vietnam-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:18:00+00:00"
 
@@ -350,7 +350,7 @@ Ce qu'elle ne vous donne pas, c'est un numéro vietnamien, ce qui compte pour ex
 
 
 
-L'étude mondiale de Cable.co.uk tarife les données mobiles vietnamiennes à environ **0,29 USD par gigaoctet** — 21e moins cher sur 237 marchés pour une moyenne mondiale de 2,59 USD — si bien que les forfaits locaux sont étonnamment bon marché aux standards occidentaux. Le parcours opérateur direct vous coûte une remise de passeport et peut-être une file d'attente, pas de l'argent. Une eSIM voyage coûte légèrement plus au gigaoctet et vous économise le papier ; pour la plupart des séjours d'une à deux semaines, ce troc en vaut la peine. Une note de planification : si le Vietnam est une étape d'un voyage plus large, le [guide eSIM Thaïlande](/carriers/thailand-esim-carrier-guide/), le [guide eSIM Cambodge](/carriers/cambodia-esim-carrier-guide/) et le [guide eSIM Chine](/carriers/china-esim-carrier-guide/) couvrent les réseaux voisins, et un profil régional évite d'installer une nouvelle eSIM à chaque frontière.
+L'étude mondiale de Cable.co.uk tarife les données mobiles vietnamiennes à environ **0,29 USD par gigaoctet** — 21e moins cher sur 237 marchés pour une moyenne mondiale de 2,59 USD — si bien que les forfaits locaux sont étonnamment bon marché aux standards occidentaux. Le parcours opérateur direct vous coûte une remise de passeport et peut-être une file d'attente, pas de l'argent. Une eSIM voyage coûte légèrement plus au gigaoctet et vous économise le papier ; pour la plupart des séjours d'une à deux semaines, ce troc en vaut la peine. Une note de planification : si le Vietnam est une étape d'un voyage plus large, le [guide eSIM Thaïlande](/carriers/thailand-esim-carrier-guide/), le [guide eSIM Cambodge](/carriers/cambodia-esim-carrier-guide/), le [guide des réseaux Malaisie](/carriers/malaysia-esim-carrier-guide/) et le [comparatif eSIM Japon](/carriers/japan-esim-carrier-guide/) couvrent les voisins, et un profil régional évite d'installer une nouvelle eSIM à chaque frontière.
 
 
 
@@ -972,4 +972,4 @@ L'eSIM Vietnam de Roami se lie à Viettel, Vinaphone et Mobifone, changeant de r
 
 
 
-Quoi qu'il en soit, configurez-la avant le départ : vérifiez votre téléphone contre le [vérificateur de compatibilité](/compatibility/), essayez l'[eSIM d'essai gratuite](/free-esim/) de Roami, et appliquez **WEB20** à la caisse si vous passez à un forfait Roami complet pour le Vietnam.
+Quoi qu'il en soit, configurez-la avant le départ : vérifiez votre téléphone contre le [vérificateur de compatibilité](/compatibility/), essayez l'[essai gratuit de Roami](/free-esim/), et appliquez **web20** à la caisse si vous passez à un forfait Roami complet pour le Vietnam.
