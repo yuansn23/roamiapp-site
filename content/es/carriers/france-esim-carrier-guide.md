@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Francia: Orange, SFR y Bouygues"
 description: "Roami analiza los operadores de Francia para su eSIM: Orange lidera en 5G, Free en precio, y SFR y Bouygues se compran en tienda."
-image: "img/esim/carriers/france-esim-carrier-guide.jpg"
+image: "img/esim/carriers/france-esim-carrier-guide.webp"
 date: "2026-09-29T12:59:31+00:00"
 keywords: Operadores de eSIM en Francia, eSIM Orange, eSIM SFR, eSIM Bouygues Telecom, eSIM Free Mobile, eSIM Orange Travel, cobertura 5G en Francia, eSIM Francia prepago, mejor operador de eSIM en Francia
 site_name: Roami

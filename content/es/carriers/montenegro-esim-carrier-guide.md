@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Montenegro: m:tel, One y Telekom"
 description: "¿m:tel, Crnogorski Telekom o One? Roami compara los tres operadores de eSIM en Montenegro y la cobertura real entre sus ciudades."
-image: "img/esim/carriers/montenegro-esim-carrier-guide.jpg"
+image: "img/esim/carriers/montenegro-esim-carrier-guide.webp"
 
 date: "2026-09-26T17:10:03+00:00"
 

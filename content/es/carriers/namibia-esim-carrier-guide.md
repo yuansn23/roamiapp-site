@@ -1,7 +1,7 @@
 ---
 title: "Guía de eSIM de Namibia: MTC, TN Mobile o Paratus"
 description: "¿MTC, TN Mobile o Paratus? Roami prueba la cobertura de eSIM en Namibia entre ciudades, con zonas sin señal y packs en dólares namibios."
-image: "img/esim/carriers/namibia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/namibia-esim-carrier-guide.webp"
 date: "2026-09-26T08:07:42+00:00"
 keywords: Operadores de eSIM en Namibia, eSIM MTC, eSIM TN Mobile, eSIM Paratus, eSIM de viaje Namibia, SIM turística Namibia, conectividad en Etosha, APN Namibia, internet para roadtrip Namibia, CRAN Namibia
 site_name: Roami

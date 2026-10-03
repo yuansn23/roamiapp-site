@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Fiyi: Vodafone Fiyi o Digicel, cuál elegir"
 description: "Encuentre la mejor eSIM de viaje para Fiyi. Roami compara las redes de Vodafone Fiyi y Digicel para seguir conectado en todo el país."
-image: "img/esim/carriers/fiji-esim-carrier-guide.jpg"
+image: "img/esim/carriers/fiji-esim-carrier-guide.webp"
 date: "2026-09-30T18:48:25+00:00"
 keywords: Operadores de eSIM en Fiyi, eSIM de Fiyi, mantener activo el número principal, Vodafone Fiyi, Digicel Fiyi, operadores móviles de Fiyi, Islas Yasawa, Laguna de Beqa, roaming gratuito, eSIM de viaje, comparativa de redes en Fiyi
 site_name: Roami

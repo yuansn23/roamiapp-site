@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Grecia: Cosmote, Vodafone o Nova"
 description: "Roami analiza Cosmote, Vodafone y Nova en velocidad, prepago y APN en Grecia, y elige el mejor para su ruta por las islas."
-image: "img/esim/carriers/greece-esim-carrier-guide.jpg"
+image: "img/esim/carriers/greece-esim-carrier-guide.webp"
 date: "2026-09-29T03:47:11+00:00"
 keywords: operadores de eSIM en Grecia, operadores de eSIM Grecia, Cosmote eSIM, Vodafone eSIM Grecia, eSIM de Nova, cobertura 5G en Grecia, APN eSIM Grecia, eSIM prepago Grecia, mejor operador de eSIM en Grecia
 site_name: Roami

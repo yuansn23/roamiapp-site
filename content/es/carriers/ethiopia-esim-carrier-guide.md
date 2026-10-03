@@ -2,7 +2,7 @@
 
 title: "eSIM de Etiopía: Ethio Telecom frente a Safaricom"
 description: "¿Ethio Telecom o Safaricom? Roami compara ambos operadores de eSIM en Etiopía, del registro en el mostrador a los cortes regionales."
-image: "img/esim/carriers/ethiopia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ethiopia-esim-carrier-guide.webp"
 
 date: "2026-09-30T00:39:19+00:00"
 

@@ -2,7 +2,7 @@
 
 title: "eSIM de Omán: Omantel, Ooredoo o Vodafone comparados"
 description: "¿Omantel, Ooredoo o Vodafone? Roami analiza la cobertura 5G en Omán, el registro de pasaporte y las zonas sin señal fuera de las ciudades."
-image: "img/esim/carriers/oman-esim-carrier-guide.jpg"
+image: "img/esim/carriers/oman-esim-carrier-guide.webp"
 
 date: "2026-09-25T08:01:07+00:00"
 

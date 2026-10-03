@@ -4,7 +4,7 @@
 
 title: "Operadores de eSIM en Macedonia del Norte: A1 y MTEL"
 description: "¿A1, Telekom o MTEL? Roami compara los tres operadores de eSIM de Macedonia del Norte, incluida la norma de roaming de los Balcanes."
-image: "img/esim/carriers/north-macedonia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/north-macedonia-esim-carrier-guide.webp"
 
 
 

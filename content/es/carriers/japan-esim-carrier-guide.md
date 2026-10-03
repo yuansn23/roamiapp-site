@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Japón: Docomo, au y SoftBank"
 description: "Roami compara Docomo, au, SoftBank y Rakuten en velocidad, prepago y APN para elegir el mejor operador de eSIM para su viaje a Japón."
-image: "img/esim/carriers/japan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/japan-esim-carrier-guide.webp"
 date: "2026-09-28T15:13:47+00:00"
 keywords: Operadores de eSIM en Japón, eSIM de Docomo, eSIM de au, eSIM de SoftBank, eSIM de Rakuten Mobile, cobertura 5G en Japón, APN de eSIM Japón, eSIM prepago Japón, mejor operador de eSIM Japón, eSIM de viaje Japón
 site_name: Roami

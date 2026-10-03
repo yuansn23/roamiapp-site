@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Hungría: Yettel, Telekom y One"
 description: "¿Elige operador de eSIM en Hungría? Roami clasifica Yettel, Magyar Telekom y One, sopesando la velocidad 5G y la cobertura rural."
-image: "img/esim/carriers/hungary-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hungary-esim-carrier-guide.webp"
 date: "2026-09-29T18:40:50+00:00"
 keywords: eSIM Hungría, operadores de eSIM en Hungría, eSIM Yettel, eSIM Magyar Telekom, One Hungría, plan de datos prepago, red 5G, eSIM de viaje Hungría
 site_name: Roami

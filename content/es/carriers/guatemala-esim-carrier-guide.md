@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Guatemala: Claro frente a Tigo"
 description: "La pregunta del eSIM en Guatemala es Claro o Tigo. Roami mapea ambas redes en Antigua, Atitlán y Tikal, donde el pasaporte es el boleto."
-image: "img/esim/carriers/guatemala-esim-carrier-guide.jpg"
+image: "img/esim/carriers/guatemala-esim-carrier-guide.webp"
 
 date: "2026-09-29T00:25:44+00:00"
 

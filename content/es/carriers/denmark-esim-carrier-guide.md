@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Dinamarca: Telia, Telenor y 3"
 description: "Roami analiza los operadores de eSIM de Dinamarca —Telia, YouSee, Telenor y 3— y explica el roaming en la UE y las colas del aeropuerto."
-image: "img/esim/carriers/denmark-esim-carrier-guide.jpg"
+image: "img/esim/carriers/denmark-esim-carrier-guide.webp"
 
 date: "2026-09-30T19:30:01+00:00"
 

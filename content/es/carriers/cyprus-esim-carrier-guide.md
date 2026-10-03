@@ -2,7 +2,7 @@
 
 title: "eSIM de Chipre: Cyta, Epic o PrimeTel comparados"
 description: "¿Cyta, Epic o PrimeTel para su eSIM de Chipre? Roami cubre la cobertura en toda la isla, la trampa del roaming en la Línea Verde y el APN."
-image: "img/esim/carriers/cyprus-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cyprus-esim-carrier-guide.webp"
 
 date: "2026-10-01T01:09:55+00:00"
 

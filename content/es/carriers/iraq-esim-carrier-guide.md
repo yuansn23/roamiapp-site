@@ -1,7 +1,7 @@
 ---
 title: "¿Asiacell o Zain Irak? Operadores de eSIM en Irak"
 description: "Roami compara Asiacell y Zain en el Irak federal y en Kurdistán, para que su eSIM de Irak funcione a ambos lados de la frontera."
-image: "img/esim/carriers/iraq-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iraq-esim-carrier-guide.webp"
 date: "2026-09-28T03:02:35+00:00"
 keywords: eSIM Irak, operadores de eSIM en Irak, eSIM Asiacell, eSIM Zain Irak, Korek Telecom, eSIM de viaje a Irak, eSIM para Irak, datos móviles en Irak, compatibilidad con eSIM
 site_name: Roami

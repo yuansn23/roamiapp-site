@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Noruega: Telenor, Telia e ice"
 description: "Los túneles apagan el móvil durante kilómetros en Noruega. Roami mapea la cobertura de Telenor, Telia e ice fiordo a fiordo."
-image: "img/esim/carriers/norway-esim-carrier-guide.jpg"
+image: "img/esim/carriers/norway-esim-carrier-guide.webp"
 date: "2026-09-25T11:09:34+00:00"
 keywords: Operadores de eSIM en Noruega, eSIM Telenor, eSIM Telia en Noruega, eSIM de ice en Noruega, cobertura 5G en Noruega, cobertura de fiordos en Noruega, eSIM prepago Noruega, mejor operador de eSIM en Noruega
 site_name: Roami

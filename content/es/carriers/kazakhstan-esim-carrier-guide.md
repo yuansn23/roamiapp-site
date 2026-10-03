@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Kazajistán: Kcell y Beeline"
 description: "Almaty y Astaná tienen 5G rápido; la estepa no. Roami evalúa Kcell, Tele2 y Beeline para que su eSIM de Kazajistán siga el mapa."
-image: "img/esim/carriers/kazakhstan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kazakhstan-esim-carrier-guide.webp"
 
 date: "2026-09-28T09:07:53+00:00"
 

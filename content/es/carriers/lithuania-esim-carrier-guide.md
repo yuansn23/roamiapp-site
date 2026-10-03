@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Lituania: Telia, Bitė y Tele2"
 description: "Roami compara Telia, Bitė y Tele2 en Lituania y explica qué pasa con su plan de datos en la frontera con Letonia o Polonia."
-image: "img/esim/carriers/lithuania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/lithuania-esim-carrier-guide.webp"
 
 date: "2026-09-27T20:35:06+00:00"
 

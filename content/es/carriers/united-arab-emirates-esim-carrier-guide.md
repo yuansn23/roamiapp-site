@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en los Emiratos Árabes: du o e&"
 description: "Roami compara du y e& para una eSIM turística en los Emiratos Árabes, desde los datos gratis de llegada hasta el IVA y las llamadas."
-image: "img/esim/carriers/united-arab-emirates-esim-guide.jpg"
+image: "img/esim/carriers/united-arab-emirates-esim-guide.webp"
 
 date: "2026-09-23T12:52:14+00:00"
 

@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Finlandia: Elisa, DNA o Telia"
 description: "Las redes móviles de Finlandia están entre las mejores del mundo. Roami muestra en qué difieren Elisa, DNA y Telia fuera de Helsinki."
-image: "img/esim/carriers/finland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/finland-esim-carrier-guide.webp"
 
 date: "2026-09-30T16:08:58+00:00"
 

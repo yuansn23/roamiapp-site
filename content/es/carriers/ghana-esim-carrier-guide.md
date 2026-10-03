@@ -2,7 +2,7 @@
 
 title: "Los operadores de eSIM en Ghana: MTN, Telecel y AT"
 description: "Roami compara MTN, Telecel y AT en Ghana y explica cómo se registran y pagan los visitantes en una economía de dinero móvil."
-image: "img/esim/carriers/ghana-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ghana-esim-carrier-guide.webp"
 
 date: "2026-09-29T06:39:37+00:00"
 

@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Macao: CTM o China Telecom"
 description: "Macao es diminuta, pero el operador importa. Roami sopesa CTM y China Telecom para su eSIM de Macao y si un plan de Hong Kong sobrevive."
-image: "img/esim/carriers/macau-esim-carrier-guide.jpg"
+image: "img/esim/carriers/macau-esim-carrier-guide.webp"
 date: "2026-09-27T15:07:12+00:00"
 keywords: Operadores de eSIM en Macau, eSIM de CTM, eSIM de China Telecom Macau, eSIM de 3 Macau, cobertura 5G en Macau, eSIM de Hong Kong en Macau, eSIM prepago de Macau, mejor operador de eSIM en Macau
 site_name: Roami

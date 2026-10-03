@@ -1,7 +1,7 @@
 ---
 title: "eSIM de India: Jio, Airtel o Vi y las reglas KYC"
 description: "Roami compara Jio, Airtel y Vi según velocidades reales, normas KYC de prepago y APN, y elige el mejor operador de eSIM para su ruta."
-image: "img/esim/carriers/india-esim-carrier-guide.jpg"
+image: "img/esim/carriers/india-esim-carrier-guide.webp"
 date: "2026-09-29T12:43:56+00:00"
 keywords: Operadores de eSIM en India, operadores de eSIM India, eSIM Jio, eSIM Airtel, eSIM Vi, cobertura 5G India, APN eSIM India, eSIM prepago India, mejor operador eSIM India, eSIM de viaje India
 site_name: Roami

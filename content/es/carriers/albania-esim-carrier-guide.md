@@ -2,7 +2,7 @@
 
 title: "Guía de operadores de eSIM en Albania: Vodafone o One"
 description: "Roami compara Vodafone Albania y One en velocidad 5G, cobertura y precio, para aterrizar conectado y evitar la cola del aeropuerto."
-image: "img/esim/carriers/albania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/albania-esim-carrier-guide.webp"
 
 date: "2026-10-02T08:13:00+00:00"
 

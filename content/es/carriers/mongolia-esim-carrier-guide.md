@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Mongolia: Unitel o Mobicom"
 description: "¿Unitel o Mobicom? Roami compara ambos operadores de eSIM en Mongolia, cubre la eSIM gratuita del aeropuerto y la señal fuera de Ulán Bator."
-image: "img/esim/carriers/mongolia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mongolia-esim-carrier-guide.webp"
 
 date: "2026-09-27T20:26:30+00:00"
 

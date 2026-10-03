@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Corea del Sur: SKT, KT y LG U+"
 description: "¿SK Telecom o KT? Roami compara los operadores de eSIM de Corea del Sur, explica la regla del pasaporte y asigna un plan a la mejor señal."
-image: "img/esim/carriers/south-korea-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-korea-esim-carrier-guide.webp"
 date: "2026-09-24T19:49:44+00:00"
 keywords: eSIM Corea del Sur, operadores de eSIM en Corea del Sur, datos prepago, red 5G, SK Telecom, LG U+, KT, eSIM Roami, internet de viaje
 site_name: Roami

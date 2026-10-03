@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Nepal: NTC, Ncell o Smart Cell comparados"
 description: "Roami compara NTC, Ncell y Smart Cell para una eSIM en Nepal, con la cobertura en Katmandú, Pokhara y las rutas de montaña más concurridas."
-image: "img/esim/carriers/nepal-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nepal-esim-carrier-guide.webp"
 date: "2026-09-26T05:46:15+00:00"
 keywords: Operadores de eSIM en Nepal, eSIM de Ncell, eSIM de Nepal Telecom NTC, eSIM de Smart Cell, cobertura de eSIM en Katmandú, cobertura de eSIM en Pokhara, APN de eSIM en Nepal, registro de SIM turística en Nepal, mejor eSIM en Nepal
 site_name: Roami

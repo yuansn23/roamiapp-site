@@ -1,7 +1,7 @@
 ---
 title: "eSIM para Rusia: MTS, MegaFon y el bloqueo de 24 h"
 description: "¿MTS, MegaFon, Beeline o Tele2? Roami explica a qué red se conecta una eSIM de Rusia en roaming y el bloqueo de datos de 24 horas."
-image: "img/esim/carriers/russia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/russia-esim-carrier-guide.webp"
 date: "2026-09-25T11:10:58+00:00"
 keywords: eSIM de Rusia, operadores de eSIM en Rusia, eSIM de viaje para Rusia, MTS Rusia, MegaFon Rusia, Beeline Rusia, Tele2 Rusia, Plaza Roja, Museo del Hermitage, sin tarifas de roaming, planes de datos flexibles, eSIM multidía
 site_name: Roami

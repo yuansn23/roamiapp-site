@@ -3,7 +3,7 @@
 
 title: "eSIM de Islandia: Síminn, Vodafone o Nova comparados"
 description: "¿Síminn, Vodafone o Nova? Roami compara los operadores de eSIM de Islandia y muestra cuál mantiene la señal fuera de la Ring Road."
-image: "img/esim/carriers/iceland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iceland-esim-carrier-guide.webp"
 
 
 date: "2026-09-29T15:08:23+00:00"

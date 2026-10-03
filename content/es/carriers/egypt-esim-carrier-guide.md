@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Egipto: Vodafone, e&, Orange y WE"
 description: "Egipto le obliga a registrar la SIM en una sucursal. Roami compara Vodafone, Orange y WE, y la vía eSIM que evita la cola."
-image: "img/esim/carriers/egypt-esim-carrier-guide.jpg"
+image: "img/esim/carriers/egypt-esim-carrier-guide.webp"
 
 date: "2026-09-30T06:57:13+00:00"
 

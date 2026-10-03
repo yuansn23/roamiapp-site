@@ -1,7 +1,7 @@
 ---
 title: "¿Qué eSIM en Países Bajos? KPN, Odido o Vodafone"
 description: "El 5G neerlandés es rápido en todas partes; lo que importa es elegir bien. Roami analiza Odido y KPN para hallar una eSIM que funcione."
-image: "img/esim/carriers/netherlands-esim-carrier-guide.jpg"
+image: "img/esim/carriers/netherlands-esim-carrier-guide.webp"
 date: "2026-09-26T02:10:48+00:00"
 keywords: eSIM Países Bajos, operadores eSIM Países Bajos, eSIM Odido, eSIM KPN Mobile, Vodafone Países Bajos, datos prepago, red 5G, eSIM de viaje
 site_name: Roami

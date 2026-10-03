@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Suiza: Swisscom, Sunrise y Salt"
 description: "Roami evalúa Swisscom, Sunrise y Salt con datos de Ookla, reglas de prepago y cobertura alpina para elegir la mejor eSIM de Suiza."
-image: "img/esim/carriers/switzerland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/switzerland-esim-carrier-guide.webp"
 
 date: "2026-09-24T10:34:23+00:00"
 

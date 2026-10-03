@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Panamá: Tigo, Claro y +Móvil"
 description: "Roami compara Tigo, Claro y +Móvil para una eSIM de Panamá y explica el recargo de $30 del aeropuerto de Tocumen que puede evitar."
-image: "img/esim/carriers/panama-esim-carrier-guide.jpg"
+image: "img/esim/carriers/panama-esim-carrier-guide.webp"
 date: "2026-09-25T01:58:13+00:00"
 keywords: eSIM Panamá, operadores de eSIM Panamá, eSIM de viaje Panamá, +Móvil Panamá, Tigo Panamá, Claro Panamá, Digicel Panamá, Móvil Panamá eSIM, conectividad Vi Casco Viejo, evitar tarifas de roaming Panamá, eSIM 5G Panamá, eSIM turística Panamá, Roami Panamá
 site_name: Roami

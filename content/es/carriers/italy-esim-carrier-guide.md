@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Italia: TIM, Vodafone y WINDTRE"
 description: "Roami evalúa TIM, Vodafone y WINDTRE en velocidad, reglas de prepago y APN, y elige la mejor eSIM para su viaje por Italia."
-image: "img/esim/carriers/italy-esim-carrier-guide.jpg"
+image: "img/esim/carriers/italy-esim-carrier-guide.webp"
 
 date: "2026-09-28T18:10:14+00:00"
 

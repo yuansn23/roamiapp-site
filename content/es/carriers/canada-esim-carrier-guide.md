@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Canadá: Bell, Rogers o TELUS"
 description: "Roami compara Bell, Rogers y TELUS para una eSIM de Canadá: velocidad 5G, consistencia rural y reglas de prepago para visitantes."
-image: "img/esim/carriers/canada-esim-carrier-guide.jpg"
+image: "img/esim/carriers/canada-esim-carrier-guide.webp"
 date: "2026-10-01T19:35:36+00:00"
 keywords: Operadores de eSIM en Canadá, eSIM Bell, eSIM Rogers, eSIM TELUS, eSIM SaskTel, eSIM Lucky Mobile, cobertura 5G en Canadá, APN eSIM Canadá, eSIM prepago Canadá, mejor operador de eSIM en Canadá
 site_name: Roami

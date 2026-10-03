@@ -1,7 +1,7 @@
 ---
 title: "eSIM de China: operadores, registro y enrutamiento"
 description: "Roami explica las reglas de eSIM de China Mobile y China Unicom y por qué una eSIM de viaje es la opción práctica en China continental."
-image: "img/esim/carriers/china-esim-carrier-guide.jpg"
+image: "img/esim/carriers/china-esim-carrier-guide.webp"
 date: "2026-10-01T13:44:42+00:00"
 keywords: China eSIM, operadores eSIM China, internet de viaje China, China Mobile eSIM, China Unicom eSIM, eSIM plug-and-play, evitar tarifas de roaming China, eSIM para viajes a China, eSIM Gran Muralla, eSIM Shanghái, eSIM Pekín
 site_name: Roami

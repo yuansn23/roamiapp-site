@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Costa Rica: Claro, Kölbi o Liberty comparados"
 description: "Claro es el doble de rápido que Kölbi en las ciudades, pero los parques necesitan las torres de Kölbi. Roami explica qué eSIM le conviene."
-image: "img/esim/carriers/costa-rica-esim-carrier-guide.jpg"
+image: "img/esim/carriers/costa-rica-esim-carrier-guide.webp"
 date: "2026-10-01T07:00:48+00:00"
 keywords: Operadores de eSIM en Costa Rica, Claro eSIM, Kölbi eSIM, ICE eSIM, Liberty eSIM en Costa Rica, cobertura 5G en Costa Rica, cobertura rural de eSIM en Costa Rica, eSIM prepago en Costa Rica, mejor operador de eSIM en Costa Rica
 site_name: Roami

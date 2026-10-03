@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Colombia: Claro, Tigo o Movistar"
 description: "¿Qué operador de eSIM en Colombia gana? Roami compara Claro, Tigo y Movistar en sitios 5G, velocidad urbana y cobertura rural de montaña."
-image: "img/esim/carriers/colombia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/colombia-esim-carrier-guide.webp"
 date: "2026-10-01T10:41:15+00:00"
 keywords: eSIM Colombia, operadores de SIM Colombia, Claro eSIM, Tigo eSIM, Movistar eSIM, WOM, red 5G Colombia, plan de datos prepago, eSIM de viaje
 site_name: Roami

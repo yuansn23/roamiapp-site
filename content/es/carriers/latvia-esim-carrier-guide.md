@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Letonia: LMT, Tele2 y Bite"
 description: "¿LMT, Tele2 o Bite? Roami compara los tres operadores de eSIM en Letonia, de la cobertura en Riga al registro en el mostrador."
-image: "img/esim/carriers/latvia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/latvia-esim-carrier-guide.webp"
 date: "2026-09-27T23:56:33+00:00"
 keywords: eSIM Letonia, operadores de eSIM en Letonia, comprar eSIM de Letonia, conectividad inmediata, LMT Letonia, Tele2 Letonia, casco antiguo de Riga, evitar tarifas de roaming, eSIM de viaje, viajes por el Báltico
 site_name: Roami

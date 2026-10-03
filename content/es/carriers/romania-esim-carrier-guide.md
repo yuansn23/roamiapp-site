@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Rumanía: Orange y DIGI en precio y alcance"
 description: "Orange y DIGI marcan la referencia de valor para una eSIM en Rumanía. Roami compara ambos en velocidad, cobertura y tarifas para el viaje."
-image: "img/esim/carriers/romania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/romania-esim-carrier-guide.webp"
 date: "2026-09-25T13:46:25+00:00"
 keywords: eSIM Rumanía, operadores de eSIM en Rumanía, Orange Rumanía, DIGI Rumanía, Vodafone Rumanía, datos prepago, red 5G, internet móvil Rumanía
 site_name: Roami

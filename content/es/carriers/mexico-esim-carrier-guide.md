@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en México: Telcel, AT&T y Movistar"
 description: "¿Viaja a México? Roami compara Telcel y AT&T para su eSIM según velocidad, reglas de prepago y APN, para elegir el operador correcto."
-image: "img/esim/carriers/mexico-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mexico-esim-carrier-guide.webp"
 date: "2026-09-27T23:54:57+00:00"
 keywords: Operadores de eSIM en México, eSIM de Telcel, eSIM AT&T en México, eSIM Movistar, cobertura 5G en México, APN de eSIM en México, eSIM prepaga en México, mejor operador de eSIM en México, eSIM de viaje en México, cuota de mercado de Telcel
 site_name: Roami

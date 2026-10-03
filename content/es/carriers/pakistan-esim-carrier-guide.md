@@ -3,7 +3,7 @@
 
 title: "Guía de eSIM de Pakistán: Jazz, Zong o Transworld"
 description: "Roami enfrenta a Jazz con Zong para una eSIM en Pakistán, comparando velocidades reales de 5G, cobertura urbana y rutas por todo el país."
-image: "img/esim/carriers/pakistan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/pakistan-esim-carrier-guide.webp"
 
 
 date: "2026-09-25T05:22:40+00:00"

@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Vietnam: Viettel y Vinaphone"
 description: "Los 1.600 km de Vietnam deciden su cobertura. Roami compara Viettel, Vinaphone y Mobifone para mantener la señal de Sapa al Mekong."
-image: "img/esim/carriers/vietnam-esim-carrier-guide.jpg"
+image: "img/esim/carriers/vietnam-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:18:00+00:00"
 

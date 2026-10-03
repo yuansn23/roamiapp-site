@@ -2,7 +2,7 @@
 
 title: "¿Batelco, Zain o stc? Operadores de eSIM en Baréin"
 description: "¿Batelco, Zain o stc? Roami analiza la cobertura de eSIM en Baréin, la norma de la TRA y el cruce por la calzada hacia Arabia Saudita."
-image: "img/esim/carriers/bahrain-esim-carrier-guide.jpg"
+image: "img/esim/carriers/bahrain-esim-carrier-guide.webp"
 
 date: "2026-10-02T16:52:45+00:00"
 

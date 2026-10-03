@@ -2,7 +2,7 @@
 
 title: "eSIM de Taiwán, China: Chunghwa, Taiwan Mobile o FET"
 description: "Roami compara Chunghwa Telecom y Taiwan Mobile para que su eSIM de Taiwán, China use el operador correcto, del MRT de Taipéi a Alishan."
-image: "img/esim/carriers/taiwan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/taiwan-esim-carrier-guide.webp"
 
 date: "2026-09-24T07:39:56+00:00"
 

@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Uruguay: Antel, Movistar y Claro"
 description: "¿Antel, Movistar o Claro? Roami compara los tres operadores de eSIM en Uruguay, de Montevideo a la zona sin señal de Cabo Polonio."
-image: "img/esim/carriers/uruguay-esim-carrier-guide.jpg"
+image: "img/esim/carriers/uruguay-esim-carrier-guide.webp"
 
 date: "2026-09-23T04:05:53+00:00"
 

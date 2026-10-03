@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Suecia: Telia, Tele2 y Telenor"
 description: "Las ciudades suecas van con 5G rápido; Norrland va con paciencia. Roami compara Telia, Tele2, Telenor y Tre para su eSIM de Suecia."
-image: "img/esim/carriers/sweden-esim-carrier-guide.jpg"
+image: "img/esim/carriers/sweden-esim-carrier-guide.webp"
 date: "2026-09-24T13:38:50+00:00"
 keywords: Operadores eSIM de Suecia, eSIM Telia, eSIM Tele2, eSIM Telenor Suecia, eSIM Tre, cobertura 5G en Suecia, eSIM prepago Suecia, mejor operador de eSIM en Suecia
 site_name: Roami

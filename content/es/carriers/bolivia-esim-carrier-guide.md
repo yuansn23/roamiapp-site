@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Bolivia: Entel, Tigo y Viva"
 description: "Roami compara los tres operadores de eSIM de Bolivia —Entel, Tigo y Viva— en cobertura 4G y precio, de las ciudades a las rutas rurales."
-image: "img/esim/carriers/bolivia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/bolivia-esim-carrier-guide.webp"
 date: "2026-10-02T04:51:57+00:00"
 keywords: eSIM Bolivia, operadores de eSIM en Bolivia, Entel Bolivia, Tigo Bolivia, Viva Bolivia, 4G LTE Bolivia, cobertura rural en Bolivia, La Paz, eSIM para iPhone en Bolivia, eSIM para Android en Bolivia
 site_name: Roami

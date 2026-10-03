@@ -1,7 +1,7 @@
 ---
 title: "eSIM regional de Europa: Orange, Vodafone o T-Mobile"
 description: "Roami compara los operadores de eSIM en Europa, de Orange a Vodafone, en más de 30 países, para cubrir cada frontera con un solo plan."
-image: "img/esim/carriers/europe-esim-carrier-guide.jpg"
+image: "img/esim/carriers/europe-esim-carrier-guide.webp"
 date: "2026-09-30T22:09:52+00:00"
 keywords: eSIM de Europa, eSIM para viajes de negocios, Vodafone Europa, Deutsche Telekom Europa, sin cargos de roaming, red confiable en Europa
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Ecuador: Claro, Movistar y CNT"
 description: "Roami analiza Claro, Movistar y CNT para su eSIM de Ecuador: cobertura 5G continental y límites de señal en la Amazonía y Galápagos."
-image: "img/esim/carriers/ecuador-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ecuador-esim-carrier-guide.webp"
 date: "2026-09-30T09:50:40+00:00"
 keywords: eSIM Ecuador, operadores de eSIM en Ecuador, operadores de eSIM Ecuador, eSIM Claro, eSIM Movistar, eSIM Tigo, eSIM CNT, cobertura 5G Ecuador, eSIM prepago Ecuador
 site_name: Roami

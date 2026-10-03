@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Jordania: Zain, Orange o Umniah, cuál elegir"
 description: "Roami compara Zain, Orange y Umniah en Jordania, desde el 5G de Amán hasta la cobertura de la ruta turística hacia Petra."
-image: "img/esim/carriers/jordan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/jordan-esim-carrier-guide.webp"
 date: "2026-09-28T12:09:20+00:00"
 keywords: Jordan eSIM, operadores de eSIM en Jordan, internet de viaje en Jordan, Zain Jordan, Orange Jordan, Umniah eSIM, eSIM para Petra, datos en el Mar Muerto, eSIM plug-and-play, roaming gratis en Jordan
 site_name: Roami

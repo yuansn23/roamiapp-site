@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Irlanda: Three, Vodafone y Eir"
 description: "Roami compara Three, Vodafone y Eir en velocidades reales, normas de prepago y APN para su eSIM de Irlanda fuera de Dublín."
-image: "img/esim/carriers/ireland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ireland-esim-carrier-guide.webp"
 date: "2026-09-28T00:37:08+00:00"
 keywords: Operadores eSIM Irlanda, eSIM Three, eSIM Vodafone, eSIM Eir, cobertura 5G Irlanda, APN eSIM Irlanda, eSIM prepago Irlanda, mejor operador eSIM Irlanda, eSIM de viaje Irlanda, roaming Irlanda del Norte
 site_name: Roami

@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Bulgaria: A1, Yettel y Vivacom"
 description: "Roami compara los precios de A1, Yettel y Vivacom para una eSIM de Bulgaria, con las claves de cobertura de costa, llanura y montaña."
-image: "img/esim/carriers/bulgaria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-10-01T01:44:30+00:00"
 

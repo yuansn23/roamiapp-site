@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Bélgica: Proximus, Telenet y Orange comparados"
 description: "Los tres operadores de Bélgica empatan en las ciudades. Roami compara Proximus, Orange y Telenet/BASE para su eSIM y las Ardenas."
-image: "img/esim/carriers/belgium-esim-carrier-guide.jpg"
+image: "img/esim/carriers/belgium-esim-carrier-guide.webp"
 date: "2026-10-02T08:01:24+00:00"
 keywords: Operadores de eSIM en Bélgica, eSIM Proximus, eSIM Orange Bélgica, eSIM Telenet, eSIM BASE, cobertura 5G en Bélgica, APN de eSIM en Bélgica, eSIM prepago Bélgica, mejor operador de eSIM en Bélgica
 site_name: Roami

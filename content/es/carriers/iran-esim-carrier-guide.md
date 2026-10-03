@@ -1,7 +1,7 @@
 ---
 title: "eSIM para Irán: MCI, Irancell y Rightel comparados"
 description: "Roami compara MCI, Rightel e Irancell para una eSIM en Irán: velocidad, cobertura y calidad-precio para quienes viajan al país."
-image: "img/esim/carriers/iran-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iran-esim-carrier-guide.webp"
 date: "2026-09-28T06:03:02+00:00"
 keywords: eSIM para Irán, operadores de eSIM en Irán, eSIM MCI, eSIM Irancell, eSIM de viaje para Irán, MCI, Hamrahe Aval, Rightel, 5G en Irán, eSIM prepago de Irán, eSIM turística de Irán
 site_name: Roami

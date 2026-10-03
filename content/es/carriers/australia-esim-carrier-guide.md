@@ -1,7 +1,7 @@
 ---
 title: "Guía de eSIM en Australia: Telstra, Optus o Vodafone"
 description: "¿Qué operador de eSIM de Australia encaja con su ruta? Roami evalúa Telstra, Optus y Vodafone en 5G urbano, prepago y brechas regionales."
-image: "img/esim/carriers/australia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/australia-esim-carrier-guide.webp"
 date: "2026-10-02T22:51:39+00:00"
 keywords: Operadores de eSIM en Australia, eSIM de Telstra, eSIM de Optus, eSIM de Vodafone, cobertura 5G en Australia, APN de eSIM en Australia, eSIM prepago en Australia, mejor operador de eSIM en Australia, eSIM de viaje para Australia
 site_name: Roami

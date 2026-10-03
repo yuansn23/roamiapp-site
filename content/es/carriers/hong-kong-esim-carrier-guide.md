@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Hong Kong, China: CMHK o csl"
 description: "Roami compara los operadores de eSIM en Hong Kong, China —CMHK, csl y SmarTone— en velocidad 5G, cobertura y planes para el viajero."
-image: "img/esim/carriers/hong-kong-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hong-kong-esim-carrier-guide.webp"
 
 date: "2026-09-29T21:28:17+00:00"
 

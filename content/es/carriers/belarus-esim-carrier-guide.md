@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Bielorrusia: A1, MTS o life:)"
 description: "Roami compara A1, MTS y life:) para su eSIM de Bielorrusia, además del efectivo, las tarjetas y el registro que marcan qué red funciona."
-image: "img/esim/carriers/belarus-esim-carrier-guide.jpg"
+image: "img/esim/carriers/belarus-esim-carrier-guide.webp"
 date: "2026-10-02T10:31:51+00:00"
 keywords: eSIM de Bielorrusia, operadores de eSIM en Bielorrusia, datos de alta velocidad, A1 Bielorrusia, MTS, life:), eSIM de viaje, sin tarifas de roaming, Minsk, Avenida de la Independencia
 site_name: Roami

@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Indonesia: Telkomsel, XL o IM3"
 description: "Roami compara Telkomsel, XL Axiata e IM3 Ooredoo en velocidad 5G, latencia y planes de viaje para Bali y el resto de Indonesia."
-image: "img/esim/carriers/indonesia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/indonesia-esim-carrier-guide.webp"
 
 date: "2026-09-29T09:20:29+00:00"
 

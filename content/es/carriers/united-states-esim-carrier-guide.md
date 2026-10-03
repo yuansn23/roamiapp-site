@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en EE. UU.: T-Mobile y Verizon"
 description: "Roami compara T-Mobile, Verizon y AT&T en velocidad de Ookla, cobertura y reglas de prepago para elegir el operador correcto en EE. UU."
-image: "img/esim/carriers/united-states-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-states-esim-carrier-guide.webp"
 date: "2026-09-23T07:21:20+00:00"
 keywords: Operadores de eSIM en Estados Unidos, eSIM T-Mobile, eSIM Verizon, eSIM AT&T, eSIM Cricket Wireless, eSIM Visible, eSIM Metro de T-Mobile, cobertura 5G en EE. UU., APN de eSIM en EE. UU., eSIM prepago en Estados Unidos
 site_name: Roami

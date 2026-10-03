@@ -2,7 +2,7 @@
 
 title: "eSIM de Marruecos: ¿Maroc Telecom, inwi u Orange?"
 description: "Roami analiza Maroc Telecom, inwi y Orange para una eSIM en Marruecos, con la cobertura entre ciudades y las zonas donde la señal baja."
-image: "img/esim/carriers/morocco-esim-carrier-guide.jpg"
+image: "img/esim/carriers/morocco-esim-carrier-guide.webp"
 
 date: "2026-09-26T14:07:36+00:00"
 

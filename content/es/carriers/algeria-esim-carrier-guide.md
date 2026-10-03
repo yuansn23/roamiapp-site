@@ -2,7 +2,7 @@
 
 title: "eSIM de Argelia: Ooredoo, Mobilis y Djezzy comparados"
 description: "Roami clasifica Ooredoo, Mobilis y Djezzy por velocidad, cobertura y las reglas de registro que todo viajero debe conocer en Argelia."
-image: "img/esim/carriers/algeria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/algeria-esim-carrier-guide.webp"
 
 date: "2026-10-02T05:20:33+00:00"
 

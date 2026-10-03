@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Chile: Entel, Movistar o Claro comparados"
 description: "Roami clasifica Entel, Movistar y Claro para su eSIM de Chile, probados en 5G urbano y en las rutas fuera de las ciudades."
-image: "img/esim/carriers/chile-esim-carrier-guide.jpg"
+image: "img/esim/carriers/chile-esim-carrier-guide.webp"
 date: "2026-10-01T16:30:09+00:00"
 keywords: eSIM Chile, operadores eSIM Chile, eSIM Entel, eSIM Movistar, eSIM Claro, datos prepago, red 5G, eSIM Roami, internet de viaje en Chile
 site_name: Roami

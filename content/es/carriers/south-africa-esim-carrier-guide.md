@@ -2,7 +2,7 @@
 
 title: "Los operadores de eSIM en Sudáfrica: Vodacom y MTN"
 description: "RICA vuelve lentas a las SIM locales. Roami explica la exención y compara Vodacom y MTN para su eSIM de Sudáfrica antes de aterrizar."
-image: "img/esim/carriers/south-africa-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-africa-esim-carrier-guide.webp"
 
 date: "2026-09-24T22:27:11+00:00"
 

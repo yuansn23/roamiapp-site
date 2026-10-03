@@ -2,7 +2,7 @@
 
 title: "eSIM de Mauricio: my.t, Emtel o Chili comparados"
 description: "¿my.t, Emtel o Chili? Roami compara los operadores de eSIM de Mauricio y la regla para turistas que bloquea los paquetes prepago baratos."
-image: "img/esim/carriers/mauritius-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mauritius-esim-carrier-guide.webp"
 
 date: "2026-09-27T02:31:24+00:00"
 

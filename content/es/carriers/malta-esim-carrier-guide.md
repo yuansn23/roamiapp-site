@@ -4,7 +4,7 @@
 
 title: "eSIM de Malta: GO, Epic o Melita frente a frente"
 description: "¿GO, Epic o Melita? Roami compara los operadores de eSIM de Malta —incluido Melita, que casi todas las guías omiten— de La Valeta a Gozo."
-image: "img/esim/carriers/malta-esim-carrier-guide.jpg"
+image: "img/esim/carriers/malta-esim-carrier-guide.webp"
 
 
 

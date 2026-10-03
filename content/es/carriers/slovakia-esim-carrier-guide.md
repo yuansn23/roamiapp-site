@@ -3,7 +3,7 @@
 
 title: "Operadores de eSIM en Eslovaquia: Telekom, O2 y 4ka"
 description: "Roami analiza los operadores de eSIM en Eslovaquia —Telekom, Orange y 4ka— con planes para Bratislava, Košice y una ruta por los Tatras."
-image: "img/esim/carriers/slovakia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/slovakia-esim-carrier-guide.webp"
 
 
 date: "2026-09-24T02:03:37+00:00"

@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Nueva Zelanda: One NZ y Spark"
 description: "Roami compara One NZ, Spark y 2degrees en velocidad, reglas de prepago y APN para su eSIM de Nueva Zelanda, isla por isla."
-image: "img/esim/carriers/new-zealand-esim-carrier-guide.jpg"
+image: "img/esim/carriers/new-zealand-esim-carrier-guide.webp"
 date: "2026-09-26T23:25:22+00:00"
 keywords: operadores esim nueva zelanda, esim one nz, esim spark, esim 2degrees, esim skinny, cobertura 5g nueva zelanda, apn esim nueva zelanda, esim prepago nueva zelanda, mejor operador esim nueva zelanda, esim viaje nueva zelanda
 site_name: Roami

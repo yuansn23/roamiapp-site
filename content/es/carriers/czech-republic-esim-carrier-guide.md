@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Chequia: T-Mobile, O2 y Vodafone"
 description: "Roami compara T-Mobile CZ, O2 CZ y Vodafone CZ para una eSIM de Chequia, del centro de Praga al campo con líneas secundarias."
-image: "img/esim/carriers/czech-republic-esim-carrier-guide.jpg"
+image: "img/esim/carriers/czech-republic-esim-carrier-guide.webp"
 date: "2026-10-01T22:01:28+00:00"
 keywords: eSIM República Checa, eSIM Vodafone CZ, eSIM T-Mobile CZ, eSIM de viaje República Checa, evitar tarifas de roaming, eSIM para el Castillo de Praga, eSIM con activación instantánea
 site_name: Roami

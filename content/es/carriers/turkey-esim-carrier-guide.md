@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Turquía: Turkcell, Vodafone y TT"
 description: "Roami compara Turkcell, Vodafone y Türk Telekom en datos de Ookla, reglas de prepago y límites de IMEI para elegir su eSIM de Turquía."
-image: "img/esim/carriers/turkey-esim-carrier-guide.jpg"
+image: "img/esim/carriers/turkey-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:32:35+00:00"
 

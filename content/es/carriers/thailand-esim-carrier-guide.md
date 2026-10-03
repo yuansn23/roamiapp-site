@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Tailandia: AIS, TrueMove H y dtac"
 description: "Roami compara AIS, TrueMove H y dtac con datos de velocidad de 2025, las reglas de pasaporte de la NBTC y la cobertura en islas."
-image: "img/esim/carriers/thailand-esim-carrier-guide.jpg"
+image: "img/esim/carriers/thailand-esim-carrier-guide.webp"
 date: "2026-09-24T04:25:29+00:00"
 keywords: operadores de eSIM en Tailandia, eSIM AIS, eSIM TrueMove H, eSIM dtac, cobertura 5G en Tailandia, APN de eSIM en Tailandia, eSIM prepago Tailandia, mejor operador de eSIM Tailandia
 site_name: Roami

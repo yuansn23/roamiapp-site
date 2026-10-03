@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Filipinas: Globe, Smart o DITO"
 description: "Roami compara Smart y Globe para una eSIM en Filipinas, con velocidades reales, reglas de prepago y APN que confunden a los visitantes."
-image: "img/esim/carriers/philippines-esim-carrier-guide.jpg"
+image: "img/esim/carriers/philippines-esim-carrier-guide.webp"
 date: "2026-09-25T20:02:19+00:00"
 keywords: eSIM Filipinas operadores, eSIM Globe, eSIM Smart, eSIM DITO, cobertura 5G Filipinas, APN eSIM Filipinas, eSIM Filipinas prepago, mejor operador eSIM Filipinas, Ley de Registro de SIM Filipinas, eSIM de viaje Filipinas
 site_name: Roami

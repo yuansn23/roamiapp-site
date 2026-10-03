@@ -1,7 +1,7 @@
 ---
 title: "Operadores eSIM de Arabia Saudí: STC, Mobily, Zain"
 description: "Roami compara STC, Mobily y Zain KSA en Arabia Saudí, mapeados según los tipos de visado, las reglas en mostrador y la cobertura regional."
-image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.webp"
 date: "2026-09-25T07:31:31+00:00"
 keywords: eSIM de Arabia Saudita, operadores de eSIM en Arabia Saudita, red 5G de viaje, eSIM de STC, eSIM de Mobily, eSIM de Zain KSA, eSIM de viaje a Arabia Saudita, sin roaming, compatibilidad con eSIM
 site_name: Roami

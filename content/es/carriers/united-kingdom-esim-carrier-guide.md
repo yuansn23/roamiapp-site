@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Reino Unido: EE y Vodafone"
 description: "Roami compara EE, Vodafone, O2 y Three en velocidades 5G por todo el Reino Unido para que elija su eSIM del operador adecuado."
-image: "img/esim/carriers/united-kingdom-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-kingdom-esim-carrier-guide.webp"
 date: "2026-09-23T10:15:47+00:00"
 keywords: eSIM Reino Unido, plan de datos prepago, red 5G, eSIM UK, eSIM de viaje, nómada digital UK, operadores de eSIM UK, operadores de eSIM Reino Unido, eSIM EE, eSIM Vodafone, eSIM Three, eSIM Virgin Media O2
 site_name: Roami

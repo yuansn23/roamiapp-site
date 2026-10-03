@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Croacia: HT, A1 y Telemach en la costa e islas"
 description: "Roami analiza Hrvatski Telekom, A1 y Telemach en el Adriático, para que su eSIM de Croacia funcione igual en el ferry que en la isla."
-image: "img/esim/carriers/croatia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/croatia-esim-carrier-guide.webp"
 date: "2026-10-01T04:29:22+00:00"
 keywords: eSIM de Croacia, operador de eSIM de Croacia, Hrvatski Telekom, A1 Hrvatska, Telemach, Lagos de Plitvice, Dubrovnik, datos de alta velocidad, sin cargos de roaming, compatibilidad con eSIM
 site_name: Roami

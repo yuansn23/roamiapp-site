@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Singapur: Singtel, StarHub o M1 comparados"
 description: "Roami compara Singtel, StarHub y M1 para una eSIM de Singapur, con planes turísticos prepago, velocidades de Ookla y reglas de la IMDA."
-image: "img/esim/carriers/singapore-esim-carrier-guide.jpg"
+image: "img/esim/carriers/singapore-esim-carrier-guide.webp"
 date: "2026-09-24T04:42:04+00:00"
 keywords: Singapur eSIM operadores, eSIM Singtel, eSIM StarHub, eSIM M1, Singapur eSIM turística, Singapur bandas 5G, Singapur eSIM APN, eSIM Singapur prepago, mejor operador eSIM Singapur, Singapur registro SIM prepago
 site_name: Roami

@@ -2,7 +2,7 @@
 
 title: "eSIM de Uganda: MTN o Airtel para safari y dinero móvil"
 description: "¿MTN o Airtel? Roami evalúa la cobertura de eSIM en Uganda para Bwindi y Kampala, el registro en Entebbe y las necesidades de dinero móvil."
-image: "img/esim/carriers/uganda-esim-carrier-guide.jpg"
+image: "img/esim/carriers/uganda-esim-carrier-guide.webp"
 
 date: "2026-09-23T19:01:08+00:00"
 

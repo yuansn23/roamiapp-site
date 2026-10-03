@@ -3,7 +3,7 @@ redirect_to: "/dominican-esim/"
 sitemap: false
 title: "Operadores de eSIM en República Dominicana: guía 2026"
 description: "El Wi-Fi del resort se cae tras el bufet. Roami explica cómo una eSIM dominicana elige entre Claro y Altice dentro y fuera de la costa."
-image: "img/esim/carriers/dominican-republic-esim-carrier-guide.jpg"
+image: "img/esim/carriers/dominican-republic-esim-carrier-guide.webp"
 date: "2026-09-30T12:58:07+00:00"
 keywords: Operadores de eSIM en República Dominicana, eSIM Claro, eSIM Altice Dominicana, eSIM Viva, cobertura 5G en República Dominicana, eSIM Punta Cana, eSIM prepago República Dominicana, mejor operador de eSIM en República Dominicana
 site_name: Roami

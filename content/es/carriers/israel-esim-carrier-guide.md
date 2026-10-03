@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Israel: Cellcom, Partner y HOT"
 description: "Roami compara Cellcom, Partner y HOT Mobile para que su eSIM de Israel se salte las colas del aeropuerto y los cierres del Shabat."
-image: "img/esim/carriers/israel-esim-carrier-guide.jpg"
+image: "img/esim/carriers/israel-esim-carrier-guide.webp"
 date: "2026-09-28T21:00:41+00:00"
 keywords: Operadores de eSIM en Israel, eSIM Israel, eSIM de viaje Israel, eSIM Cellcom, Partner eSIM, Pelephone, HOT Mobile, operadores móviles Israel, eSIM para turistas Israel, evitar tarifas de roaming Israel, eSIM instantánea Israel, eSIM Mar Muerto, eSIM Jerusalén
 site_name: Roami

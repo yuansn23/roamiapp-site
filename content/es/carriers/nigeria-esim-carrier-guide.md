@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Nigeria: MTN, Airtel y Glo"
 description: "Los operadores de Nigeria exigen un NIN que usted no tiene. Roami compara MTN, Airtel, Glo y T2, y la vía eSIM que se salta la cola."
-image: "img/esim/carriers/nigeria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nigeria-esim-carrier-guide.webp"
 
 date: "2026-09-26T17:17:28+00:00"
 

@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Portugal: MEO, NOS, Vodafone o Digi comparados"
 description: "Roami compara MEO, NOS, Vodafone y Digi para una eSIM de Portugal, con velocidades reales, reglas de prepago y ajustes de APN."
-image: "img/esim/carriers/portugal-esim-carrier-guide.jpg"
+image: "img/esim/carriers/portugal-esim-carrier-guide.webp"
 date: "2026-09-25T16:43:52+00:00"
 keywords: Operadores de eSIM en Portugal, eSIM MEO, eSIM NOS, eSIM Vodafone, eSIM Digi, cobertura 5G en Portugal, APN de eSIM en Portugal, eSIM prepago en Portugal, mejor operador de eSIM en Portugal, eSIM de viaje para Portugal
 site_name: Roami

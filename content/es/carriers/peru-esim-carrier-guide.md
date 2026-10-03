@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Perú: Claro, Entel y Bitel"
 description: "Roami prueba a Claro, Entel y Bitel en la costa, los Andes y la Amazonía de Perú para elegir el operador que funcione en su ruta."
-image: "img/esim/carriers/peru-esim-carrier-guide.jpg"
+image: "img/esim/carriers/peru-esim-carrier-guide.webp"
 date: "2026-09-25T23:20:46+00:00"
 keywords: eSIM Perú, operadores de eSIM en Perú, operadores móviles en Perú, plan de datos prepago, red 5G, Claro, Entel, Mi Fibra, Speedtest, eSIM de viaje
 site_name: Roami

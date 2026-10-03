@@ -1,7 +1,7 @@
 ---
 title: "Mejores eSIM de Nicaragua: Claro, Tigo y eSIMs de viaje"
 description: "Roami cubre el alcance de Claro y Tigo en Nicaragua, las opciones de roaming, el registro de prepago y los ajustes de APN que necesita."
-image: "img/esim/carriers/nicaragua-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nicaragua-esim-carrier-guide.webp"
 date: "2026-09-26T20:03:55+00:00"
 keywords: Operadores de eSIM en Nicaragua, eSIM de Claro, eSIM de Tigo, red eSIM Nicaragua, eSIM prepago Nicaragua, mejor operador de eSIM Nicaragua, eSIM de viaje Nicaragua
 

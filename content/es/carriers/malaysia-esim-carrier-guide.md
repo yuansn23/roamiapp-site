@@ -2,7 +2,7 @@
 
 title: "Mejores eSIM de Malasia: Maxis, CelcomDigi o U Mobile"
 description: "¿Maxis, CelcomDigi o U Mobile? Roami mapea la cobertura de eSIM en Malasia, de KLIA a Borneo, más el registro de la MCMC y el APN."
-image: "img/esim/carriers/malaysia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/malaysia-esim-carrier-guide.webp"
 
 date: "2026-09-27T11:27:45+00:00"
 

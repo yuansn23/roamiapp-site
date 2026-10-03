@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Maldivas: ¿Dhiraagu u Ooredoo comparados?"
 description: "¿Dhiraagu u Ooredoo? Roami analiza la cobertura de eSIM en Maldivas entre atolones y traslados en hidroavión, con paquetes y APN."
-image: "img/esim/carriers/maldives-esim-carrier-guide.jpg"
+image: "img/esim/carriers/maldives-esim-carrier-guide.webp"
 date: "2026-09-27T09:05:18+00:00"
 keywords: Operadores de eSIM en las Maldivas, eSIM Dhiraagu, eSIM Ooredoo, eSIM de viaje a las Maldivas, SIM turística Maldivas, conectividad en islas resort, APN Maldivas, señal en traslados en hidroavión, mejor eSIM Maldivas
 site_name: Roami

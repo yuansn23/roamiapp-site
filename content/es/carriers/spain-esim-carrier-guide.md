@@ -2,7 +2,7 @@
 
 title: "Los operadores de eSIM en España: Movistar y Orange"
 description: "Roami compara Movistar, Orange y Vodafone para una eSIM de España, con velocidades reales, registro con pasaporte y ajustes de APN."
-image: "img/esim/carriers/spain-esim-carrier-guide.jpg"
+image: "img/esim/carriers/spain-esim-carrier-guide.webp"
 
 date: "2026-09-24T16:48:17+00:00"
 

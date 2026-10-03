@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Kenia: Safaricom, Airtel o Telkom comparados"
 description: "¿Safaricom, Airtel o Telkom? Roami compara los operadores de eSIM en Kenia, del Masái Mara a las velocidades urbanas de Nairobi."
-image: "img/esim/carriers/kenya-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kenya-esim-carrier-guide.webp"
 date: "2026-09-28T06:14:26+00:00"
 keywords: eSIM Kenia, operador de eSIM Kenia, eSIM Safaricom, eSIM Airtel Kenia, eSIM de viaje Kenia, datos en Masái Mara, evitar tarifas de roaming en Kenia, eSIM prepago Kenia, eSIM explorador independiente
 site_name: Roami

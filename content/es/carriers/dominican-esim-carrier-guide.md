@@ -1,7 +1,7 @@
 ---
 title: "eSIM para República Dominicana: Claro, Altice o Viva"
 description: "Roami compara Claro, Altice y Viva para una eSIM para República Dominicana, desde los resorts de Punta Cana hasta Santo Domingo."
-image: "img/esim/carriers/dominican-esim-carrier-guide.jpg"
+image: "img/esim/carriers/dominican-esim-carrier-guide.webp"
 date: "2026-09-30T16:13:34+00:00"
 keywords: operadores de eSIM en República Dominicana, eSIM para Punta Cana, eSIM de Claro, eSIM de Altice Dominicana, eSIM de Viva, cobertura 5G en República Dominicana, eSIM prepago República Dominicana, mejor operador de eSIM en República Dominicana, eSIM Samaná
 site_name: Roami

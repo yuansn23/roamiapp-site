@@ -1,7 +1,7 @@
 ---
 title: "eSIM de Venezuela: ¿Digitel, Movistar o Movilnet?"
 description: "Roami analiza Digitel, Movistar y Movilnet para que su eSIM de Venezuela encaje con una ruta de Caracas a la Gran Sabana."
-image: "img/esim/carriers/venezuela-esim-carrier-guide.jpg"
+image: "img/esim/carriers/venezuela-esim-carrier-guide.webp"
 date: "2026-09-23T01:09:26+00:00"
 keywords: eSIM Venezuela, operadores de eSIM en Venezuela, operadores móviles de Venezuela, datos prepagados, red 5G, Digitel, Movistar, Movilnet, eSIM de viaje, internet en Venezuela
 site_name: Roami

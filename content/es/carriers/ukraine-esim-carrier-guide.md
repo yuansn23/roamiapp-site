@@ -1,7 +1,7 @@
 ---
 title: "Operadores de eSIM en Ucrania: Kyivstar y lifecell"
 description: "Roami compara Kyivstar, Vodafone Ucrania y lifecell por resiliencia, para que su eSIM de Ucrania aguante más que un apagón."
-image: "img/esim/carriers/ukraine-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ukraine-esim-carrier-guide.webp"
 date: "2026-09-23T16:21:41+00:00"
 keywords: eSIM en Ucrania, operadores de eSIM en Ucrania, Kyivstar eSIM, Vodafone Ucrania, lifecell eSIM, eSIM de viaje para Ucrania, roaming sin recargos en Ucrania, eSIM para turistas en Ucrania
 site_name: Roami

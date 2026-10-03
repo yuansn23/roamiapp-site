@@ -2,7 +2,7 @@
 
 title: "Operadores de eSIM en Argentina: Personal y Claro"
 description: "Roami somete a prueba a Personal, Claro y Movistar para que su eSIM de Argentina encaje con la ruta, la ciudad o la Patagonia."
-image: "img/esim/carriers/argentina-esim-carrier-guide.jpg"
+image: "img/esim/carriers/argentina-esim-carrier-guide.webp"
 
 date: "2026-10-02T01:32:06+00:00"
 

@@ -2,7 +2,7 @@
 
 title: "eSIM de Camboya: Smart, Cellcard o Metfone comparados"
 description: "Roami analiza Smart, Cellcard y Metfone tras el lanzamiento del 5G en Camboya, de Phnom Penh a los huecos de cobertura en las islas."
-image: "img/esim/carriers/cambodia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cambodia-esim-carrier-guide.webp"
 
 date: "2026-10-01T22:36:03+00:00"
 

@@ -2,7 +2,7 @@
 
 title: "eSIM de Túnez: Tunisie Telecom, Ooredoo u Orange"
 description: "Roami compara Tunisie Telecom, Ooredoo y Orange para su eSIM de Túnez, desde la costa mediterránea de resorts hasta el sur."
-image: "img/esim/carriers/tunisia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/tunisia-esim-carrier-guide.webp"
 
 date: "2026-09-24T01:30:02+00:00"
 
