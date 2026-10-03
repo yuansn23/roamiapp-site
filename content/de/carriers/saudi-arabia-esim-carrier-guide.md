@@ -1,6 +1,6 @@
 ---
-title: "Saudi-Arabien eSIM-Netzbetreiber: STC, Mobily und Zain KSA"
-description: "Roami vergleicht STC, Mobily und Zain KSA eSIM-Netzbetreiber in Saudi-Arabien, abgestimmt auf Visatypen, Schaltregeln und regionale Netzabdeckung."
+title: "Saudi-Arabien eSIM: STC, Mobily oder Zain KSA wählen"
+description: "Saudi-Arabien eSIM im Vergleich: STC, Mobily und Zain KSA nach Visumtyp, Registrierungsregeln und regionaler Netzabdeckung."
 image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.jpg"
 date: "2026-09-24T07:31:31+00:00"
 keywords: Saudi-Arabien eSIM, Saudi-Arabien eSIM-Netzbetreiber, 5G-Reisenetz, STC eSIM, Mobily eSIM, Zain KSA eSIM, Saudi-Arabien Reise-eSIM, keine Roaming-Gebühren, eSIM-Kompatibilität
@@ -30,7 +30,7 @@ Saudi-Arabien verlangt eine obligatorische Registrierung unter echtem Namen für
 
 Der Vorgang am Schalter selbst ist kurz, typischerweise fünf bis zehn Minuten, und an den Betreiber-Kiosken umfasst er häufig eine biometrische Fingerabdruckprüfung. Die Leitung, die Sie mitnehmen, ist an Ihren Visastatus gebunden: Touristen-SIMs sind Besucherpakete, deren Gültigkeit durch Ihren Aufenthalt begrenzt ist, und eine nicht oder unsachgemäß registrierte Leitung kann innerhalb weniger Tage nach der ersten Nutzung deaktiviert werden. Die CST-Regeln begrenzen zudem die Anzahl der Registrierungen — Besucher dürfen im Allgemeinen nur ein oder zwei SIMs pro Reisepass besitzen, ansässige Expats zwei pro Iqama, und saudi-arabische Staatsbürger bis zu zehn.
 
-Diese One-Konsequenz wiegt schwerer als jede andere: Die drei großen Netzbetreiber verkaufen eSIMs, aber eine lokale eSIM erfordert dennoch die gleiche persönliche Registrierung wie eine Plastikkarte. Sie besuchen einen Laden, das Personal überprüft Ihren Reisepass und Ihre Grenznummer, und erst dann erhalten Sie einen QR-Code zum Scannen. Eine vor der Abreise erworbene Reise-eSIM für Saudi-Arabien wird im Ausland ausgestellt und roamt auf den saudi-arabischen Netzen, sodass sie nicht unter die CST-Registrierungspflicht fällt — genau deshalb ist sie die Standardempfehlung für Kurzaufenthalte und Ankünfte in der Hochsaison.
+Diese eine Konsequenz wiegt schwerer als jede andere: Die drei großen Netzbetreiber verkaufen eSIMs, aber eine lokale eSIM erfordert dennoch die gleiche persönliche Registrierung wie eine Plastikkarte. Sie besuchen einen Laden, das Personal überprüft Ihren Reisepass und Ihre Grenznummer, und erst dann erhalten Sie einen QR-Code zum Scannen. Eine vor der Abreise erworbene Reise-eSIM für Saudi-Arabien wird im Ausland ausgestellt und roamt auf den saudi-arabischen Netzen, sodass sie nicht unter die CST-Registrierungspflicht fällt — genau deshalb ist sie die Standardempfehlung für Kurzaufenthalte und Ankünfte in der Hochsaison.
 
 ## Welches saudi-arabische Visum kann welche lokale eSIM registrieren?
 
@@ -38,21 +38,21 @@ Die Berechtigung ist nicht eine einzige Regel, sondern fünf, denn das Dokument 
 
 | Ihr Status bei der Einreise | Lokale Saudi-Arabien-eSIM an einem Schalter | Identitätsnachweis, den die Registrierung benötigt | Praktischer Hinweis |
 |:---|:---|:---|:---|
-| Touristen-eVisa (ein- oder mehrmalige Einreise) | Yes — Sawa-Visitor-, Mobily- oder Zain-Visitor-Pakete | Originalpass plus Grenznummer aus Ihrem Einreisestempel | Der Standardfall; die eVisa selbst berechtigt zur Umrah außerhalb der Hajj-Saison |
-| Umrah- oder Hajj-Visum | Yes — Reisepakete, manchmal als Umrah-Bündel gekennzeichnet | Reisepass im Original, Grenznummer und oft ein biometrischer Scan | In der Hochsaison stauen sich die Schalter; eine vorinstallierte Reise-eSIM überbrückt die Wartezeit |
-| Visum für Geschäfts- oder Arbeitsreisen | Yes — Besucherpakete sowie Optionen für längere Aufenthalte | Originalreisepass und Grenznummer; bei Bedarf Angaben zum Sponsor | Eine eSIM für Saudi-Arabien mit lokaler Rufnummer vereinfacht Anrufe beim Fahrer und im Hotel |
-| GCC-Ansässiger (gültiger GCC-Wohnsitz) | Yes — Besucherpakete zu denselben Bedingungen | Reisepass im Original; GCC-Nationalausweis wird für GCC-Bürger akzeptiert | Ansässige anderer GCC-Staaten sind in den meisten Fällen eVisa-berechtigt |
-| Einreise auf dem Luftweg oder per Kreuzfahrtschiff | Yes, sofern Sie die Einreisekontrolle passieren | Originalreisepass und die am Hafen ausgestellte Grenznummer | Kurze Zeitfenster machen eine vorab gekaufte Reise-eSIM zur risiköärmeren Wahl |
+| Touristen-eVisa (ein- oder mehrmalige Einreise) | Ja — Sawa-Visitor-, Mobily- oder Zain-Visitor-Pakete | Originalpass plus Grenznummer aus Ihrem Einreisestempel | Der Standardfall; die eVisa selbst berechtigt zur Umrah außerhalb der Hajj-Saison |
+| Umrah- oder Hajj-Visum | Ja — Reisepakete, manchmal als Umrah-Bündel gekennzeichnet | Reisepass im Original, Grenznummer und oft ein biometrischer Scan | In der Hochsaison stauen sich die Schalter; eine vorinstallierte Reise-eSIM überbrückt die Wartezeit |
+| Visum für Geschäfts- oder Arbeitsreisen | Ja — Besucherpakete sowie Optionen für längere Aufenthalte | Originalreisepass und Grenznummer; bei Bedarf Angaben zum Sponsor | Eine eSIM für Saudi-Arabien mit lokaler Rufnummer vereinfacht Anrufe beim Fahrer und im Hotel |
+| GCC-Ansässiger (gültiger GCC-Wohnsitz) | Ja — Besucherpakete zu denselben Bedingungen | Reisepass im Original; GCC-Nationalausweis wird für GCC-Bürger akzeptiert | Ansässige anderer GCC-Staaten sind in den meisten Fällen eVisa-berechtigt |
+| Einreise auf dem Luftweg oder per Kreuzfahrtschiff | Ja, sofern Sie die Einreisekontrolle passieren | Originalreisepass und die am Hafen ausgestellte Grenznummer | Kurze Zeitfenster machen eine vorab gekaufte Reise-eSIM zur risiköärmeren Wahl |
 
-### Saudi-Vogelregeln: Kreuzfahrt-, Transit- und GCC-Einwohner-Ankünfte
+### Sonderregeln für Kreuzfahrt-, Transit- und GCC-Ankünfte
 
-Three dieser Zeilen verdienen einen zweiten Blick. Flugpassagiere mit qualifizierenden Saudia- oder Flynas-Tickets können ein 48-stündiges Transit-Sichtungsvisum ausgestellt bekommen, und dieser Einreisevermerk genügt für eine Besucherschlange am Flughafen. Kreuzfahrtpassagiere und Landankünfte folgen derselben Registrierungslogik, sobald sie die Einwanderung passiert haben, allerdings sind die Kioskzeiten in kleineren Häfen weniger vorhersehbar als an den Flughäfen Riad, Dschidda, Dammam und Medina. GCC-Bürger, die gar kein Visum benötigen, registrieren eine Zeile mit einem GCC-Nationalausweis anstelle eines Reisepasses.
+Drei dieser Zeilen verdienen einen zweiten Blick. Flugpassagiere mit qualifizierenden Saudia- oder Flynas-Tickets können ein 48-stündiges Transit-Sichtungsvisum ausgestellt bekommen, und dieser Einreisevermerk genügt für eine Besucherschlange am Flughafen. Kreuzfahrtpassagiere und Landankünfte folgen derselben Registrierungslogik, sobald sie die Einwanderung passiert haben, allerdings sind die Kioskzeiten in kleineren Häfen weniger vorhersehbar als an den Flughäfen Riad, Dschidda, Dammam und Medina. GCC-Bürger, die gar kein Visum benötigen, registrieren eine Zeile mit einem GCC-Nationalausweis anstelle eines Reisepasses.
 
 Unabhängig davon, in welche Zeile Sie fallen, ist die zugrunde liegende Einschränkung identisch: Das Register gleicht Ihren Namen mit der Schreibweise im Reisepass ab, daher ist eine Nichtübereinstimmung zwischen Ihrer Buchung, Ihrem Visum und Ihrem Reisepass der häufigste Grund, warum eine frisch gekaufte Saudi-Arabien-eSIM keinen Dienst anzeigt. Notieren Sie die Grenznummer bei der Einwanderung und bewahren Sie sie in einer Notizen-App auf.
 
 ## Die Saudi-Arabien-eSIM-Netzbetreiber: STC, Mobily und Zain KSA
 
-Three nationale Netzbetreiber beherrschen den Markt, alle von der CST lizenziert und reguliert. Ihre Besucherprodukte sehen auf dem Papier ähnlich aus, daher liegen die relevanten Unterschiede in den Netzstärken und im Papierkram.
+Drei nationale Netzbetreiber beherrschen den Markt, alle von der CST lizenziert und reguliert. Ihre Besucherprodukte sehen auf dem Papier ähnlich aus, daher liegen die relevanten Unterschiede in den Netzstärken und im Papierkram.
 
 | | stc | Mobily | Zain KSA |
 |:---|:---|:---|:---|
@@ -61,13 +61,13 @@ Three nationale Netzbetreiber beherrschen den Markt, alle von der CST lizenziert
 | Netzstärke (Auszeichnungen Ende 2025) | Schnellstes Netz insgesamt; größte Netzabdeckung | Bestes Videoerlebnis, beste Konstanz und Zuverlässigkeit | Am schnellsten wachsendes 5G; 600 MHz Standalone in Riad |
 | Vorsicht | Aktivierung nur in einer Filiale möglich | Leistungen variieren je nach Quelle – beim Kauf bestätigen | Weniger Auszeichnungen; Paketpreis am Schalter bestätigen |
 
-### Saudi-budget-MVNO-Marken, die auf den Netzen der drei Großen mitreiten
+### Saudi-Budget-MVNO-Marken, die auf den Netzen der drei Großen mitreiten
 
 Unter den drei Großen sitzt ein Randbereich von Budget-Marken: Lebara KSA, Virgin Mobile KSA, FRiNDi und Salam Mobile verkaufen alle Kapazitäten der Host-Netze weiter, und Salam veröffentlicht sein eigenes kleines Besucher-Angebot. Sie können bei geringer Nutzung günstiger sein, aber der eSIM-Support und die Verfügbarkeit am Flughafen variieren, und ihre Netzabdeckung ist genau die Netzabdeckung des Host-Netzes. Beachten Sie auch, dass Zain hier **Zain KSA** bedeutet — dieselbe Gruppe betreibt Zain Jordanien, das ein völlig anderes Netz ist und in unserem separaten Jordanien-Guide behandelt wird.
 
 ## Eine saudi-eSIM von einem Netzbetreiber kaufen oder mit einer Reise-eSIM ankommen?
 
-Die Wirtschaftlichkeit spricht für die Netzbetreiber, sobald Sie bereit sind, Schlange zu stehen; der Komfort spricht eindeutig für die Reise-eSIM. Ankerzahlen: STC's Sawa-Visitor-Einstiegsstufe kostet etwa SAR 40 (rund USD 11) für 5 GB, Mobily's 55-GB-Monat kostet etwa SAR 103,50, und eine typische ausländische Reise-eSIM verlangt für eine 5-GB-Saudi-Arabien-eSIM etwa USD 13–15.
+Die Wirtschaftlichkeit spricht für die Netzbetreiber, sobald Sie bereit sind, Schlange zu stehen; der Komfort spricht eindeutig für die Reise-eSIM. Ankerzahlen: Die Sawa-Visitor-Einstiegsstufe von stc kostet etwa SAR 40 (rund USD 11) für 5 GB, der 55-GB-Monat von Mobily etwa SAR 103,50, und eine typische ausländische Reise-eSIM verlangt für eine 5-GB-Saudi-Arabien-eSIM etwa USD 13–15.
 
 | | Direkt von stc, Mobily oder Zain KSA | Travel eSIM in einem saudischen Netz |
 |:---|:---|:---|
@@ -79,7 +79,23 @@ Die Wirtschaftlichkeit spricht für die Netzbetreiber, sobald Sie bereit sind, S
 
 Zwei Details sind entscheidend. Erstens, der Preis pro Gigabyte: Die großen Besucherpakete von Mobily liegen bei etwa 2 SAR pro GB, was keine internationale Reise-eSIM erreicht. Zweitens, die Saisonalität: Während des Hadsch und der starken Umra-Wochen bilden sich an den Schaltern in den Ankunftshallen in Dschidda und Medina lange Schlangen, und ein zu Hause installiertes Profil ist der einzige Weg, der ihnen entgeht.
 
-### eSIM-Fragen für Saudi-Arabien, beantwortet
+### Beispielrechnung: zwei Wochen Saudi-Arabien mit 20 GB
+
+Nehmen Sie eine zweiwöchige Reise mit rund 20 GB Bedarf – Karten, Nusuk-App, Foto-Uploads und gelegentliche Videoanrufe. Mit den oben genannten Preisen ergibt sich:
+
+| Weg | Volumen | Preis | Rechnerisch pro GB |
+|:---|:---|:---|:---|
+| stc Sawa Visitor 60 | 22 GB / 2 Wochen | SAR 70 | rund 3,20 SAR |
+| Mobily 30-Tage-Paket | 20 GB / 30 Tage | ca. SAR 57,50 | rund 2,90 SAR |
+| Ausländische Reise-eSIM | 5 GB | ca. USD 13–15 | rund USD 2,60–3,00 |
+
+Die großen Besucherpakete von Mobily liegen bei etwa 2 SAR pro Gigabyte, wie oben ausgeführt. Eine Reise-eSIM schlägt sie pro Gigabyte also nicht automatisch – ihr Vorteil liegt darin, dass sie vor dem Abflug bereit ist und die Schlangen während Hajj und Umra umgeht.
+
+### Wann eine lokale SIM trotzdem die bessere Wahl ist
+
+Eine saudische Leitung gewinnt in drei Fällen: bei zweiwöchigen Aufenthalten mit Bedarf an einer lokalen Rufnummer für Fahrer und Hotel, bei Aufenthalten von mehr als einem Monat und wenn Sie ein Volumen brauchen, das Reise-Tarife selten bieten. Sie kostet dafür Zeit am Schalter, den Original-Reisepass und eine biometrische Kontrolle. Für einen Kurztrip, für die Ankunft während Hajj oder Umra und für jeden, der sofort am Gate online sein will, bleibt die Reise-eSIM die bequemere Antwort.
+
+### Reise-eSIM oder lokale Leitung – was ist der Mittelweg?
 
 Der Mittelweg ist, die Reise-eSIM für die erste Woche zu kaufen und bei längerem Aufenthalt in der Stadt eine lokale Leitung zu registrieren. Diese Kombination schlägt jede einzelne Option und beseitigt das Risiko, dass Ihre erste Stunde im Königreich nicht der Taxisuche, sondern der Suche nach einem funktionierenden Schalter gewidmet ist.
 
@@ -89,7 +105,7 @@ Die gute Nachricht ist, dass die saudischen Netze zu den standardfreundlichsten 
 
 ### Saudi-Arabien eSIM: drei Prüfungen, bevor Sie bezahlen
 
-Erstens, eSIM-Unterstützung: Wählen Sie `*#06#` und suchen Sie nach einer EID, oder prüfen Sie Ihr genaues Modell im [eSIM-Kompatibilitätstest](/compatibility/) — Modellnummer, nicht Marketingname. Zweitens, Netzbetreiber-Sperre: Ein im Ausland vertraglich gekauftes Telefon kann jedes Drittanbieter-Profil ablehnen, bis der ursprüngliche Netzbetreiber es entsperrt; unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre sollte „Keine SIM-Beschränkungen" stehen. Drittens, Dual-SIM-Verhalten: Die meisten Besucher lassen ihre Heim-SIM für SMS-Bestätigungscodes aktiv und leiten die mobilen Daten über die Saudi-Arabien-eSIM.
+Erstens, eSIM-Unterstützung: Wählen Sie `*#06#` und suchen Sie nach einer EID, oder prüfen Sie Ihr genaues Modell im eSIM-Kompatibilitätstest — Modellnummer, nicht Marketingname. Zweitens, Netzbetreiber-Sperre: Ein im Ausland vertraglich gekauftes Telefon kann jedes Drittanbieter-Profil ablehnen, bis der ursprüngliche Netzbetreiber es entsperrt; unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre sollte „Keine SIM-Beschränkungen" stehen. Drittens, Dual-SIM-Verhalten: Die meisten Besucher lassen ihre Heim-SIM für SMS-Bestätigungscodes aktiv und leiten die mobilen Daten über die Saudi-Arabien-eSIM.
 
 Hotspot-Tethering funktioniert mit den Besucherpaketen der Netzbetreiber; einige Reise-eSIMs beschränken das Tethering, prüfen Sie also die Bedingungen, wenn Sie vom Laptop aus arbeiten wollen.
 
@@ -105,7 +121,7 @@ Hotspot-Tethering funktioniert mit den Besucherpaketen der Netzbetreiber; einige
 8. Laden Sie Offline-Karten für Mekka, Medina und AlUla herunter
 9. Notieren Sie, welche Netzbetreiber-App Sie für Aufladungen nutzen werden
 
-## Was kostet eine eSIM pro Gigabyte?
+## Was kostet ein Gigabyte bei stc, Mobily und Zain KSA?
 
 Jeder Weg führt zum selben Schalter mit denselben Dokumenten, aber die Pakete und Aktivierungsabläufe unterscheiden sich. Hier ist jeder Schritt für sich.
 
@@ -125,7 +141,7 @@ Das Besucherprodukt von STC ist die Sawa Visitor-Linie, erhältlich in stc-Filia
 
 ### Mobily-Besucherpakete, das Preis-Leistungs-Angebot
 
-Mobily positioniert sich preislich konstant am oder nahe am unteren Marktende. Das häufig genannte Besucherportfolio 2026 umfasst 5 GB für 14 Tage zu 34,50 SAR, ein 30-Tage-Paket mit rund 55 GB für 103,50 SAR sowie Vier-Wochen-Tarife mit unbegrenzten Anrufen für 150–220 SAR. Aufladungen erfolgen über die Mobily-App oder das `*1400#`-Menü, und auf das Aufladeguthaben wird Mehrwertsteuer erhoben. Ein One-Hinweis: In den Übersichten gibt es bei einigen Tarifen unterschiedliche Angaben, daher sollten Sie das Datenvolumen vor der Zahlung am Schalter noch einmal bestätigen. Für Pilger, die überwiegend in Mekka und Medina unterwegs sind, ist das Netz von Mobily eine gute lokale Wahl.
+Mobily positioniert sich preislich konstant am oder nahe am unteren Marktende. Das häufig genannte Besucherportfolio 2026 umfasst 5 GB für 14 Tage zu 34,50 SAR, ein 30-Tage-Paket mit rund 55 GB für 103,50 SAR sowie Vier-Wochen-Tarife mit unbegrenzten Anrufen für 150–220 SAR. Aufladungen erfolgen über die Mobily-App oder das `*1400#`-Menü, und auf das Aufladeguthaben wird Mehrwertsteuer erhoben. Ein Hinweis: In den Übersichten gibt es bei einigen Tarifen unterschiedliche Angaben, daher sollten Sie das Datenvolumen vor der Zahlung am Schalter noch einmal bestätigen. Für Pilger, die überwiegend in Mekka und Medina unterwegs sind, ist das Netz von Mobily eine gute lokale Wahl.
 
 ### Die Zain-KSA-Besucherlinie am Flughafen
 
@@ -195,7 +211,7 @@ Die ehrliche Einschätzung: stc gewinnt den zusammengesetzten Speed Score und er
 | Stadt oder Route | Was Sie erwartet | Beste Wahl | Vorsicht |
 |:---|:---|:---|:---|
 | Riad | Dichtes 5G im Finanzviertel und in den Geschäftsstraßen | stc | Konferenz- und Veranstaltungswochen verlangsamen jedes Netz |
-| Jeddah | Zuverlässig entlang der Corniche und in Al-Balad | stc | In den nördlichen Strachabschnitten lässt die Netzabdeckung außerhalb der Stadt nach |
+| Jeddah | Zuverlässig entlang der Corniche und in Al-Balad | stc | In den nördlichen Küstenabschnitten lässt die Netzabdeckung außerhalb der Stadt nach |
 | Dammam–Khobar–Dhahran | Starke 5G-Versorgung in den Städten im Dreieck der Ostprovinz | stc | Fällt in der Innenstadt selten unter 4G ab |
 | Mekka | Kapazität, ausgelegt für extreme Menschenmengendichte rund um die heiligen Stätten | Mobily | Der Durchsatz zu Stoßzeiten ist eine gemeinsame Einschränkung |
 | Medina | Konstante Netzabdeckung in der Stadt mit saisonaler Verstärkung | Mobily | Die Netzüberlastung spiegelt während der Umrah-Höhepunkte die Situation in Mekka wider |
@@ -208,7 +224,7 @@ Die ehrliche Einschätzung: stc gewinnt den zusammengesetzten Speed Score und er
 | Buraydah und die Region Qassim | Zuverlässige städtische Netzabdeckung auf der wichtigsten Nord-Süd-Route | stc | Das Farmland zwischen den Städten wird lichter |
 | Hail | Solide Netzabdeckung in der Stadt und entlang des Korridors Hail–Riad | Mobily | Längere Abschnitte der nördlichen Straßen sind ohne Netzabdeckung |
 | Yanbu und die industrielle Küste am Roten Meer | Starkes 5G in der Industriestadt und rund um den Hafen | stc | Küstenstraßen nördlich der Stadt verlieren den Empfang |
-| Dschazan und Nadschran im äußersten Süden | Die Netzabdeckung in den Städten ist gut; Bergstraßen variieren | stc | Das Terrain begrenzt den Service abseits der Hauptstrecken |
+| Jazan und Nadschran im äußersten Süden | Die Netzabdeckung in den Städten ist gut; Bergstraßen variieren | stc | Das Terrain begrenzt den Service abseits der Hauptstrecken |
 
 Zwei pilgerspezifische praktische Hinweise. Die Netze in Mekka und Medina sind für eine extreme saisonale Nutzungsdichte ausgelegt, und jede Saudi-Arabien-eSIM sowie jede Plastik-SIM funktioniert während Hajj und Umrah ohne Unterbrechung weiter — der Datendurchsatz auf den Moschee-Höfen ist während der Stoßzeiten jedoch eine reale, gemeinsame Einschränkung. Wenn Sie die Riyadh Season besuchen statt Umrah, gilt dieselbe Logik in kleinerem Maßstab: Reisen Sie mit bereits installierter Konnektivität an, da die Veranstaltungsorte und Ankunftshallen genau dann am stärksten frequentiert sind, wenn Sie landen.
 
@@ -216,7 +232,7 @@ Planen Sie einen Grenzübertritt? Der Damm führt nach Bahrain — siehe unseren
 
 Wer nach Norden Richtung Kuwait weiterreist, wird im [Kuwait-eSIM-Guide](/carriers/kuwait-esim-carrier-guide/) weitergeführt; Reisende, die weiter östlich nach Maskat unterwegs sind, sollten die [Oman-eSIM-Seite](/oman-esim/) lesen. Ein reines Saudi-Profil wird an jedem dieser Grenzübertritte inaktiv.
 
-## Wer betreibt die Netze
+## Wie die saudi-arabischen Netze auf Hajj und Umra reagieren
 
 Die mobile Nachfrage in Saudi-Arabien ist über das Jahr nicht konstant, und die Spitzen sind vorhersehbar. Die Netzbetreiber planen Monate im Voraus darauf hin — stc hat beispielsweise Indoor-Lösungen für die Netzabdeckung in ganz Mekka gebaut und sieben Kommunikationstürme, mehr als 18.600 Antennen und über 800 Small Cells an die King-Abdulaziz-Stiftung gespendet, die rund 1,5 Millionen Quadratmeter rund um die Große Moschee abdecken. Das ist Kapazität, die für wenige Wochen im Jahr hinzugefügt wurde.
 
@@ -239,11 +255,11 @@ Geld ist die andere Hälfte des Schalterbesuchs, und die Karte, die Sie dabeihab
 | Zahlungsweg | Für wen geeignet | Für Besucher geeignet? |
 |:---|:---|:---|
 | mada-Debitkarte | Saudi-Residenten | Nein — Sie besitzen keine |
-| Visa / Mastercard / Amex | Fast alle Besucher | Yes, an Flughäfen und in den meisten Stadtgeschäften |
-| Apple Pay / Google Pay mit ausländischer Karte | Kontaktlos-Nutzer | Yes, an den meisten Kontaktlos-Terminals |
-| Bargeld (Riyal) | Reserve für kleine Steckdosen | Yes — etwas zur Hand haben |
+| Visa / Mastercard / Amex | Fast alle Besucher | Ja, an Flughäfen und in den meisten Stadtgeschäften |
+| Apple Pay / Google Pay mit ausländischer Karte | Kontaktlos-Nutzer | Ja, an den meisten Kontaktlos-Terminals |
+| Bargeld (Riyal) | Reserve für kleine Steckdosen | Ja — etwas zur Hand haben |
 | stc Bank / Mobily Pay-Wallet | Einwohner mit saudischer ID | Generell nein, für Kurzaufenthalte |
-| Aufladekarte des Netzbetreibers | Aufladungen nach dem Kauf | Yes, in Geschäften und Supermärkten |
+| Aufladekarte des Netzbetreibers | Aufladungen nach dem Kauf | Ja, in Geschäften und Supermärkten |
 
 ### Aufladen einer Saudi-Arabien eSIM
 
@@ -255,7 +271,7 @@ Geld ist die andere Hälfte des Schalterbesuchs, und die Karte, die Sie dabeihab
 | Selbstbedienungskiosk | Karte an einem Automaten des Netzbetreibers | Verfügbar in Riad, Dschidda, Mekka, Medina, Dammam, Khobar |
 | Bankkanal (SADAD) | Begleichen Sie eine Rechnung über Ihre Bank | Praktisch vor allem für Einwohner |
 
-One Warnung, die es wert ist, wiederholt zu werden: Touristen-Geldbörsen wie stc Bank und Mobily Pay sind für Personen mit saudischer ID konzipiert, daher sollten Sie nicht planen, eine während eines zweiwöchigen Besuchs zu eröffnen. Planen Sie das Aufladen als Kartenzahlung ein, und Sie werden nicht zu kurz kommen.
+Eine Warnung, die es wert ist, wiederholt zu werden: Touristen-Geldbörsen wie stc Bank und Mobily Pay sind für Personen mit saudischer ID konzipiert, daher sollten Sie nicht planen, eine während eines zweiwöchigen Besuchs zu eröffnen. Planen Sie das Aufladen als Kartenzahlung ein, und Sie werden nicht zu kurz kommen.
 
 ### Kann man eine eSIM für Saudi-Arabien von STC kaufen?
 
@@ -270,7 +286,7 @@ One Warnung, die es wert ist, wiederholt zu werden: Touristen-Geldbörsen wie st
 
 Wenn Sie direkt bei einem Netzbetreiber gekauft haben, sind dies die Werte; wenn Sie eine Reise-eSIM nutzen, konfiguriert das Profil seinen eigenen APN und Sie sollten ihn in Ruhe lassen.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | APN | Nutzer | Kennwort |
 |:---|:---|:---|:---|
 | stc | `jawalnet.com.sa` | Leerzeichen | Leerzeichen |
 | Mobily | `web2` | Leerzeichen | Leerzeichen |
@@ -305,9 +321,9 @@ Die saudischen Stellen arbeiten mit dem CST-Registry-Eintrag statt mit einer Bes
 | Bestell- oder Kontonummer | Bestätigungs-E-Mail oder die App des Netzbetreibers |
 | Reisepass- und Grenznummer | Die Dokumente, mit denen Sie sich registriert haben |
 | EID | Wählen `*#06#` |
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
-| Aktuelle APN-Werte | Einstellungen → Mobiles Datennetz |
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Foto des Fehlerbildschirms | In der App des Netzbetreibers hochladen, solange der Dialog sichtbar ist |
+| Eingetragene APN-Werte der saudischen Leitung | Einstellungen → Verbindungen → Zugangspunkte |
+| Bisherige Schritte | Maximal drei Zeilen – der CST-Support liest sie zuerst |
 
 ## Antworten auf einen Blick
 
@@ -315,19 +331,19 @@ Davon gibt es noch reichlich mehr — die [gesamte FAQ-Bibliothek](/faq/) behand
 
 ### Wo kann man eine Saudi-Arabien eSIM kaufen
 
-Yes, Zain KSA, stc und Mobily betreiben alle Schalter in der Ankunftshalle, und eSIMs werden direkt vor Ort verkauft. Bringen Sie Ihren Originalpass und Ihre Grenznummer mit und planen Sie Zeit für die biometrische Überprüfung ein. Du Während der Stoßzeiten von Hajj und Umrah werden die Schlangen extrem lang — eine vor dem Boarding installierte Reise-eSIM ist die Lösung.
+Zain KSA, stc und Mobily betreiben alle Schalter in der Ankunftshalle, und eSIMs werden direkt vor Ort verkauft. Bringen Sie Ihren Originalpass und Ihre Grenznummer mit und planen Sie Zeit für die biometrische Überprüfung ein. Während der Stoßzeiten von Hajj und Umrah werden die Schlangen extrem lang — eine vor dem Boarding installierte Reise-eSIM ist die Lösung.
 
 ### Funktionieren saudische Prepaid-SIMs während der Hajj-Saison weiterhin?
 
 Ja. Kein Netzbetreiber sperrt Besucherleitungen während des Hajj, und die Netze in Mekka und Medina sind auf den Ansturm ausgelegt. Was sich ändert, ist der Durchsatz: Zu Stoßzeiten rund um die heiligen Stätten werden alle Netze langsamer. Installieren Sie Offline-Karten, aktivieren Sie Datensparmodi und rechnen Sie mit Verzögerungen bei Videoanrufen.
 
-### Im Inneren einer saudischen SIM-Registrierung
+### Wie viele SIM-Karten darf ich in Saudi-Arabien besitzen?
 
-ViBesucher sind in der Regel auf ein oder zwei aktive Leitungen pro Pass bei allen Netzbetreibern begrenzt, Residenten auf zwei pro Iqama und Bürger auf zehn. Das Register wird zentral unter der CST geführt, sodass das Limit jede saudische SIM zählt, die Sie besitzen, und nicht pro Netzbetreiber.
+Besucher sind in der Regel auf ein oder zwei aktive Leitungen pro Pass bei allen Netzbetreibern begrenzt, Residenten auf zwei pro Iqama und Bürger auf zehn. Das Register wird zentral unter der CST geführt, sodass das Limit jede saudische SIM zählt, die Sie besitzen, und nicht pro Netzbetreiber.
 
 ### Funktioniert eine saudische Touristen-SIM nicht mehr, wenn mein Visum abläuft?
 
-Im Prinzip ja. ViBesucherpakete sind an die Gültigkeit Ihres Visums gebunden, und Touristenleitungen verfallen automatisch nach Ablauf der Gültigkeit, sofern nicht aufgeladen wird. Verlängert sich Ihre Reise, laden Sie vor Ablauf über die App des Netzbetreibers oder an einer Aufladestation nach.
+Im Prinzip ja. Besucherpakete sind an die Gültigkeit Ihres Visums gebunden, und Touristenleitungen verfallen automatisch nach Ablauf der Gültigkeit, sofern nicht aufgeladen wird. Verlängert sich Ihre Reise, laden Sie vor Ablauf über die App des Netzbetreibers oder an einer Aufladestation nach.
 
 ### STC vs Mobily: Netzabdeckung im Vergleich
 
@@ -339,7 +355,7 @@ Schalter am Flughafen akzeptieren in der Regel internationale Kreditkarten, und 
 
 ### Funktioniert eine Reise-eSIM in Mekka und Medina?
 
-Yes. Reise-eSIMs roamen auf dieselben lokalen Netze und benötigen keine CST-Registrierung. Dieselbe saisonale Überlastung gilt rund um die heiligen Stätten, daher löst eine Reise-eSIM den Papierkram, nicht die Kapazität. Lassen Sie Ihre Heimat-SIM für SMS-Codes aktiv und leiten Sie Daten an die eSIM-Leitung.
+Ja. Reise-eSIMs roamen auf dieselben lokalen Netze und benötigen keine CST-Registrierung. Dieselbe saisonale Überlastung gilt rund um die heiligen Stätten, daher löst eine Reise-eSIM den Papierkram, nicht die Kapazität. Lassen Sie Ihre Heimat-SIM für SMS-Codes aktiv und leiten Sie Daten an die eSIM-Leitung.
 
 ### Saudi-Arabien APN-Referenz
 
@@ -349,9 +365,9 @@ Yes. Reise-eSIMs roamen auf dieselben lokalen Netze und benötigen keine CST-Reg
 
 WhatsApp ist an die Nummer gebunden, die die Verifizierungs-SMS empfängt, was bei einem Dual-SIM-Setup Ihre Heimatnummer bleibt. Eine datenbasierte Reise-eSIM ändert daran nichts; eine lokale saudische Leitung gibt Ihnen eine neue Nummer für Anrufe, verschiebt aber Ihr WhatsApp nicht, sofern Sie es nicht erneut verifizieren.
 
-### STC vs Mobily 5G: welches ist besser in Saudi-Arabien?
+### Wie gut ist das 5G-Netz in Saudi-Arabien ausgebaut?
 
-Nein. Es ist dicht in Riad, Dschidda und Dammam, vorhanden in Sekundärstädten und fehlt zwischen den Ortschaften. Saudisches 5G nutzt die Bänder n41 und n78; Telefone ohne diese Bänder fallen auf schnelles LTE zurück, das in Städten häufig schneller ist als 5G anderswo in der Region.
+Nicht flächendeckend. Es ist dicht in Riad, Dschidda und Dammam, vorhanden in Sekundärstädten und fehlt zwischen den Ortschaften. Saudisches 5G nutzt die Bänder n41 und n78; Telefone ohne diese Bänder fallen auf schnelles LTE zurück, das in Städten häufig schneller ist als 5G anderswo in der Region.
 
 ### Brauche ich eine Saudi-Arabien eSIM, wenn mein Hotel WLAN hat?
 
@@ -369,4 +385,4 @@ Die Planpreise sind die von den Netzbetreibern veröffentlichten Besuchertarife 
 
 ## Schlange am Schalter umgehen: Saudi-Arabien eSIM, zu Hause erledigt
 
-Die Registrierung ist das Einzige, was Sie nicht in 38.000 Fuß Höhe erledigen können, also kümmern Sie sich um die Daten vor dem Boarding. [Roamis Saudi-Arabien eSIM](/saudi-arabia-esim/) wird per QR-Code geliefert, verbindet sich bei der Landung mit den lokalen Netzen und erfordert keinen Schalterbesuch. Bestellen Sie auf [roamiapp.com](/saudi-arabia-esim/) und wenden Sie den Code **WEB20** an der Kasse an, um 20 % auf Ihren Tarif zu erhalten — oder testen Sie zunächst mit einer [Test-eSIM](/free-esim/).
+Die Registrierung ist das Einzige, was Sie nicht in 38.000 Fuß Höhe erledigen können, also kümmern Sie sich um die Daten vor dem Boarding. [Roamis Saudi-Arabien eSIM](/saudi-arabia-esim/) wird per QR-Code geliefert, verbindet sich bei der Landung mit den lokalen Netzen und erfordert keinen Schalterbesuch. Bestellen Sie auf roamiapp.com und wenden Sie den Code **WEB20** an der Kasse an, um 20 % auf Ihren Tarif zu erhalten — oder testen Sie zunächst mit einer [Test-eSIM](/free-esim/).

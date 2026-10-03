@@ -15,7 +15,7 @@ hero_badge: "Konnektivität im Iran erfordert einen anderen Plan"
 hero_subtitle_main: "Lokale Touristen-SIMs funktionieren dort, wo ausländische scheitern"
 ---
 
-Eine Iran-eSIM durchbricht das übliche Reisekonnektivitäts-Handbuch, und dieser Leitfaden erklärt, warum – noch bevor Sie einsteigen. Die Besonderheiten beginnen in dem Moment, in dem Sie landen. Iran ist das eine Reiseziel, an dem das übliche Reisekonnektivitäts-Handbuch stillschweigend versagt, und fast niemand warnt Sie vor der Abreise. Alles unten Aufgeführte stammt von unseren eigenen Testleitungen und echten Reisefragen – die Eigenheiten des Iran, die es wert sind, gekannt zu werden, einschließlich der Punkte, die die Netzbetreiber lieber verschweigen würden.
+Eine Iran-eSIM durchbricht das übliche Reisekonnektivitäts-Handbuch, und dieser Leitfaden erklärt, warum – noch bevor Sie einsteigen. Die Besonderheiten beginnen schon mit der Landung: Der Iran ist das eine Reiseziel, an dem das übliche Konnektivitäts-Handbuch stillschweigend versagt, und fast niemand warnt Sie vor der Abreise. Alles unten Aufgeführte stammt von unseren eigenen Testleitungen und echten Reisefragen – die Eigenheiten des Iran, die es wert sind, gekannt zu werden, einschließlich der Punkte, die die Netzbetreiber lieber verschweigen würden.
 
 **Schnelle Antwort:** Kümmern Sie sich darum, bevor Sie fliegen, installieren Sie sie, bevor Sie landen, und wählen Sie MCI oder die lokalen Netze je nachdem, ob Ihre Route ländlich oder städtisch ist – der vollständige Vergleich unten zeigt, wer was abdeckt. Die Frage zur Kompatibilität wird von Iran-Besuchern am häufigsten vergessen; der [Kompatibilitäts-Checker](/compatibility/) beantwortet sie.
 
@@ -53,9 +53,9 @@ Einige internationale Verkaufsstellen verkaufen gerne einen Iran-eSIM-Tarif an j
 
 Es gibt keinen Inlands-Support-Schalter für die eSIM einer ausländischen Marke, und die Aktivierungshilfe, die Sie in der Türkei oder den VAE erhalten, existiert hier nicht. Wenn Ihre Reiseroute von der ersten Stunde an Daten voraussetzt, planen Sie die lokale Option ein, nicht die importierte.
 
-Stellen Sie vor allem anderen zu fest, dass Ihr Gerät überhaupt geeignet ist.
+Stellen Sie vor allem anderen fest, ob Ihr Gerät überhaupt geeignet ist.
 
-Führen Sie es durch unser [Kompatibilitäts-Suchtool](/compatibility/) und stellen Sie sicher, dass es nicht an Ihren heimischen Netzbetreiber gebunden ist. Wenn Ihnen die ganze Technologie unbekannt ist, erklärt unsere [Erklärung zur eSIM-Installation](/faq/what-is-esim-activation-and-how-does-it-work/) die Mechanik in zwei Minuten.
+Führen Sie es durch unser Kompatibilitäts-Suchtool und stellen Sie sicher, dass es nicht an Ihren heimischen Netzbetreiber gebunden ist. Wenn Ihnen die ganze Technologie unbekannt ist, deckt unsere Erklärung zur eSIM-Installation die Mechanik in zwei Minuten ab.
 
 ## Warum internationale Zahlungskarten im Iran nicht funktionieren
 
@@ -101,7 +101,7 @@ Besucher-Pakete sind in der Regel etwa einen Monat gültig, kürzere oder länge
 
 Beachten Sie, dass der aufgedruckte Preis in der Regel nur die SIM selbst abdeckt, nicht die Daten. Planen Sie das Paket und das Auflade-Guthaben separat und in bar ein, und fragen Sie gezielt, ob der Schalter ein eSIM-Profil oder nur eine physische Karte ausgibt — die Antwort variiert je nach Netzbetreiber.
 
-### Können Sie eine iranische Touristen-Leitung vor dem Abflug organisieren
+### Können Sie eine iranische Touristen-Leitung vor dem Abflug organisieren?
 
 Mehrere Iran-fokussierte Reisebüros und Wiederverkäufer der Netzbetreiber ermöglichen es Ihnen, eine **Touristen-SIM online zu bestellen und sie am IKA abzuholen** oder sie in Ihr Hotel liefern zu lassen. Das ist nützlich, wenn Sie zu einer ungewöhnlichen Uhrzeit landen oder die Formalitäten vorab erledigt haben möchten.
 
@@ -203,6 +203,8 @@ Das Muster, das Sie verinnerlichen sollten: Innerhalb jeder Stadt auf dieser Lis
 Zur Dokumentation: Ookla nannte den veröffentlichten Medianwert für Iran zu Beginn des Jahres 2025 (zitiert im DataReportal-Bericht) mit etwa **38,9 Mbps** für mobile Downloads, und er ist im Jahresvergleich kontinuierlich gestiegen.
 
 Die Preisstudie von Cable.co.uk setzt ein Gigabyte mit ungefähr **1,50 USD** an, Platz 129 von 237 Märkten — günstig nach jedem globalen Maßstab. Wenn Ihre im Ausland gekaufte Iran-eSIM volle Balken, aber kein Internet anzeigt, ist das das Roaming-Anbindungsproblem aus dem oberen Teil dieses Leitfadens, kein Netzabdeckungsproblem.
+
+Rechenbeispiel: Eine zweiwöchige Route mit rund zehn Gigabyte kostet nach dem Cable.co.uk-Wert von 1,50 USD pro Gigabyte rechnerisch etwa 15 USD — in Rial gewechselt ein bescheidener Betrag, aber eine Zahlung, die ausschließlich in bar über die Bühne geht, vom SIM-Kauf bis zum Aufladegutschein.
 
 ### Welche Frequenzbänder Irans Netze nutzen
 
@@ -370,7 +372,7 @@ Normalerweise nicht. Eine lokal ausgestellte Tourismusleitung konfiguriert sich 
 
 Nur ältere Geräte, nicht konfigurierte physische SIM-Karten oder manuell eingegebene Aktivierungscodes erfordern eine manuelle Eingabe; der Abschnitt oben listet, wo sich das Feld auf beiden Plattformen befindet.
 
-### Was hilft wenn die Leitung nicht mehr funktioniert?
+### Was hilft, wenn die Leitung nicht mehr funktioniert?
 
 Gehen Sie drei Prüfungen der Reihe nach durch: Bestätigen Sie, dass die iranische eSIM als Datenleitung ausgewählt ist und dass Roaming dafür aktiviert ist; starten Sie das Telefon neu, damit es sich erneut mit dem Netz verbindet; wenn die Leitung dann ungefähr einen Monat lang aktiv war, behandeln Sie dies als Frist für die Geräteregistrierung und nicht als Fehler.
 

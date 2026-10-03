@@ -2,12 +2,12 @@
 
 title: "Marokko eSIM-Netzbetreiber: Maroc Telecom, inwi, Orange"
 
-description: "Von Marrakesch nach Merzouga wird die Netzabdeckung schnell dünner. Roami vergleicht Maroc Telecom, inwi und Orange, damit Ihre Marokko-eSIM auch dort funktioniert, wo die Straße endet."
+description: "Marokko eSIM im Vergleich: Maroc Telecom, inwi und Orange nach Netzabdeckung, Preisen und Reisepass-Registrierung vor Ort."
 image: "img/esim/carriers/morocco-esim-carrier-guide.jpg"
 
 date: "2026-09-24T14:07:36+00:00"
 
-keywords: Marokko eSIM-Netzbetreiber, Maroc Telecom eSIM, inwi eSIM, Orange Marokko eSIM, Marokko 5G-Netzabdeckung, Marokko eSIM-Netzabdeckung Wüste, eSIM Marokko Prepaid, bester eSIM-Netzbetreiber Marokko
+keywords: Marokko eSIM-Netzbetreiber, Maroc Telecom eSIM, inwi eSIM, Orange Marokko eSIM, Marokko 5G-Netzabdeckung, Netzabdeckung im Landesinneren, eSIM Marokko Prepaid, bester eSIM-Netzbetreiber Marokko
 
 site_name: Roami
 
@@ -34,7 +34,7 @@ hero_subtitle_main: "Was unabhängige Geschwindigkeitsdaten verraten — und was
 
 
 
-Mit welchem Netzbetreiber sollte sich Ihre Marokko-eSIM verbinden? Für die meisten Reisen lautet die Antwort Maroc Telecom, und die Daten sind ungewöhnlich einseitig: Im 2H-2024-Speedtest-Connectivity-Report von Ookla war Maroc Telecom in **acht der neun größten Städte Marokkos** der schnellste Anbieter, erreichte das beste mobile Videoerlebnis (70,89) und erzielte einen Network-Consistency-Score von **89,2 %** — und ist zugleich der einzige der drei Netzbetreiber, der TouristeneSIM-Angebote mit echten Preisen auf der eigenen Website veröffentlicht. inwi und Orange sind in den Städten glaubwürdige Alternativen, doch keiner erreicht die Reichweite des Platzhirschen, sobald die Straße in den Atlas steigt oder von der Hauptstraße abbiegt. Der Rebuild-Zyklus stützt sich auf die eigenen Marokko-Aktivierungsdaten und Tickets von Roami, mit Pressemitteilungen als sekundäre Quelle.
+Mit welchem Netzbetreiber sollte sich Ihre Marokko-eSIM verbinden? Für die meisten Reisen lautet die Antwort Maroc Telecom, und die Daten sind ungewöhnlich einseitig: Im 2H-2024-Speedtest-Connectivity-Report von Ookla war Maroc Telecom in **acht der neun größten Städte Marokkos** der schnellste Anbieter, erreichte das beste mobile Videoerlebnis (70,89) und erzielte einen Network-Consistency-Score von **89,2 %** — und ist zugleich der einzige der drei Netzbetreiber, der TouristeneSIM-Angebote mit echten Preisen auf der eigenen Website veröffentlicht. inwi und Orange sind in den Städten glaubwürdige Alternativen, doch keiner erreicht die Reichweite des Platzhirschen, sobald die Straße in den Atlas steigt oder von der Hauptstraße abbiegt. Die Grundlage dieses Leitfadens sind eigene Marokko-Aktivierungs- und Ticketdaten von Roami, ergänzt durch Pressemitteilungen als Sekundärquelle.
 
 
 
@@ -42,7 +42,7 @@ Mit welchem Netzbetreiber sollte sich Ihre Marokko-eSIM verbinden? Für die meis
 
 
 
-Zuerst sollten Sie klären, ob Ihr Telefon überhaupt eine eSIM nutzen kann. Der [eSIM-Kompatibilitäts-Check](/compatibility/) erledigt das in unter einer Minute, und der Erklärtext zu [was bei der eSIM-Aktivierung passiert](/faq/what-is-esim-activation-and-how-does-it-work/) beschreibt, was beim Herunterladen eines Profils geschieht. Alles, was nun folgt, dreht sich um die Netze.
+Zuerst sollten Sie klären, ob Ihr Telefon überhaupt eine eSIM nutzen kann. Der eSIM-Kompatibilitäts-Check erledigt das in unter einer Minute, und der Erklärtext zu [was bei der eSIM-Aktivierung passiert](/faq/what-is-esim-activation-and-how-does-it-work/) beschreibt, was beim Herunterladen eines Profils geschieht. Alles, was nun folgt, dreht sich um die Netze.
 
 
 
@@ -68,7 +68,7 @@ Marokko hat drei landesweite Netzbetreiber — den Platzhirsch **Maroc Telecom (
 
 | Signature-Metrik | Schnellstes Netz in 8 von 9 Großstädten; 89,2 % Konsistenz | Bestes mobiles Spielerlebnis (78,67) | Bestes ISP-Videoerlebnis (Festnetz) |
 
-| Touristen-eSIM | Yes — veröffentlichte Angebote ab 70 DH, online verkauft | Yes, über Geschäfte und Kanäle | Begrenzt — in einem offiziellen Geschäft erfragen |
+| Touristen-eSIM | Ja — veröffentlichte Angebote ab 70 DH, online verkauft | Ja, über Geschäfte und Kanäle | Begrenzt — in einem offiziellen Geschäft erfragen |
 
 | Wo es gewinnt | Atlasstraßen, südliche Routen, kleine Ortschaften | Stadtwert-Tarife | Casablanca, Rabat, Geschäftsviertel |
 
@@ -78,7 +78,7 @@ Zwei Feinheiten, die es aus dieser Tabelle herauszulesen lohnt. Erstens: Das st�
 
 
 
-Eine Zahl zu One, die Reisende überrascht: Nach der eigenen Zählung der ANRT der aktiven Mobilfunkverträge Ende Juni 2025 entfielen **34,7 %** auf Orange Morocco, **33,2 %** auf inwi und **32,1 %** auf Maroc Telecom. Die Führungsposition von Maroc Telecom ist eine Geschichte über Netzqualität und ländliche Reichweite, nicht über Vertragszahlen – allein Prepaid macht rund 86 % der marokkanischen Anschlüsse aus, und die meisten Marokkaninnen und Marokkaner nutzen mehr als eine SIM-Karte.
+Eine Zahl, die Reisende überrascht: Nach der eigenen Zählung der ANRT der aktiven Mobilfunkverträge Ende Juni 2025 entfielen **34,7 %** auf Orange Morocco, **33,2 %** auf inwi und **32,1 %** auf Maroc Telecom. Die Führungsposition von Maroc Telecom ist eine Geschichte über Netzqualität und ländliche Reichweite, nicht über Vertragszahlen – allein Prepaid macht rund 86 % der marokkanischen Anschlüsse aus, und die meisten Marokkaninnen und Marokkaner nutzen mehr als eine SIM-Karte.
 
 
 
@@ -182,7 +182,7 @@ Hier ist Marokko freundlicher als die meisten Länder der Region. Die eigene eSI
 
 | Essentiel | 120 DH | 20 GB | 20 DH Guthaben | 30 Tage |
 
-| Essentiell Plus | 200 DH | 45 GB | 20 DH Guthaben | 30 Tage |
+| Essentiel Plus | 200 DH | 45 GB | 20 DH Guthaben | 30 Tage |
 
 | Essentiel Max | 320 DH | Unbegrenztes Internet | 9 Stunden Telefonie, 100 SMS, 20 DH Guthaben | 14 Tage |
 
@@ -192,7 +192,7 @@ Der Kaufablauf ist unkompliziert: Schließen Sie das Abonnement vor der Reise on
 
 
 
-One Hinweis zur Einrichtung, direkt von Maroc Telecom: Es ist keine manuelle Konfiguration nötig — das Telefon verbindet sich automatisch mit dem Internet, sobald die Leitung aktiv ist. Wenn Sie das Profil vor der Abreise installieren, stellt es die Verbindung her, sobald Sie landen.
+Ein Hinweis zur Einrichtung, direkt von Maroc Telecom: Es ist keine manuelle Konfiguration nötig — das Telefon verbindet sich automatisch mit dem Internet, sobald die Leitung aktiv ist. Wenn Sie das Profil vor der Abreise installieren, stellt es die Verbindung her, sobald Sie landen.
 
 
 
@@ -258,7 +258,7 @@ Der QR-Code ist auf Ihren eigenen kompatiblen Geräten kostenlos wiederverwendba
 
 
 
-Beide Herausforderer verkaufen eSIMs an Prepaid-Kunden, jedoch veröffentlicht keiner ein TouristeneSIM-Produkt wie IAM. Für **inwi** planen Sie einen offiziellen Shop oder einen aktivierten Kanal mit Reisepass ein; für **Orange Morocco** beschreiben Reiseberichte die eSIM durchgehend als filialabhängig, und Flughafenkioske geben meist physische SIM-Karten aus. In den Großstädten ist das kein Problem, dort haben beide Netzbetreiber Filialen in den zentralen Vierteln, dennoch bedeutet es am ersten Tag einen Umweg — ein Grund, warum der Weg über den Direktnetzbetreiber in Marokko am einfachsten über Maroc Telecom führt, und warum viele Kurzaufenthalter einfach eine [Reise-eSIM für Marokko](/morocco-esim/) nutzen, die sich vor dem Flug selbst aktiviert.
+Beide Herausforderer verkaufen eSIMs an Prepaid-Kunden, jedoch veröffentlicht keiner ein TouristeneSIM-Produkt wie IAM. Für **inwi** planen Sie einen offiziellen Shop oder einen aktivierten Kanal mit Reisepass ein; für **Orange Morocco** beschreiben Reiseberichte die eSIM durchgehend als filialabhängig, und Flughafenkioske geben meist physische SIM-Karten aus. In den Großstädten ist das kein Problem, dort haben beide Netzbetreiber Filialen in den zentralen Vierteln, dennoch bedeutet es am ersten Tag einen Umweg — ein Grund, warum der Weg über den Direktnetzbetreiber in Marokko am einfachsten über Maroc Telecom führt, und warum viele Kurzaufenthalter einfach eine Reise-eSIM nutzen, die sich vor dem Flug selbst aktiviert.
 
 
 
@@ -284,7 +284,7 @@ Sobald Sie die Form Ihrer Reiseroute kennen, erübrigt sich die Netzbetreiberfra
 
 | Atlas-Roadtrip — Tizi n'Tichka, Dades, Todra | Maroc Telecom | Das einzige Netz, das in den Tälern zwischen den Ortschaften Empfang bietet | Funklöcher auf dem Hochgebirgspass sind unvermeidlich |
 
-| Südlicher Abschnitt — Merzouga, Erg Chebbi, Zagora | Maroc Telecom | Virdabdeckung vorhanden; Wettbewerber fallen früher aus | Abgelegene Camps haben gar keinen Empfang |
+| Südlicher Abschnitt — Merzouga, Erg Chebbi, Zagora | Maroc Telecom | Empfang bleibt entlang der Straße erhalten; Wettbewerber fallen früher aus | Abgelegene Camps haben gar keinen Empfang |
 
 | Atlantikküste — Essaouira, Agadir, Taghazout | Egal, aber Maroc Telecom für den Anti-Atlas-Abstecher | Agadir liefert 65,08 Mbps mit 91 % Konsistenz | In den Dörfern des Anti-Atlas ist die Netzabdeckung auf jedem Netzbetreiber lückenhaft |
 
@@ -294,7 +294,7 @@ Sobald Sie die Form Ihrer Reiseroute kennen, erübrigt sich die Netzbetreiberfra
 
 | Günstiger urbaner 14-tägiger Tarif | inwi | Preiswerteste Volumentarife für die Stadt | Keine veröffentlichte Preisliste für Besucher-eSIMs |
 
-| Gemischte Zwei-Wochen-Rundreise von Marrakesch in die Wüste und zurück | Eine Multi-Netz-Reise-eSIM | One wählt automatisch den stärksten Sendemast, während Sie sich bewegen, neu aus | Ein Einzel-Netzbetreiber-Profil kann Ihnen nicht über Nahtstellen der Netzabdeckung hinweg folgen |
+| Gemischte Zwei-Wochen-Rundreise von Marrakesch in die Wüste und zurück | Eine Multi-Netz-Reise-eSIM | Das Profil wählt automatisch den derzeit stärksten Sendemast, auch wenn Sie unterwegs das Netz wechseln | Ein Einzel-Netzbetreiber-Profil kann Ihnen nicht über Nahtstellen der Netzabdeckung hinweg folgen |
 
 | Marokko plus eine Fähre nach Spanien | Mehrländer-Profil | Ceuta, Melilla und das spanische Festland sind EU-Netze | Eine reine Marokko-eSIM ist nicht mehr nutzbar, sobald Sie von der Fähre gehen |
 
@@ -472,7 +472,7 @@ Hier ist der gesamte [2H 2024 Messdatensatz](https://www.ookla.com/research/repo
 
 
 
-Die 5G-Zeile bleibt für alle drei bewusst leer. Ookla’s Marokko-Bericht deckt den Zeitraum Juli–Dezember 2024 ab, und die 5G-Netze in Marokko wurden erst am **7. November 2025** eingeschaltet — daher existiert für dieses Erfassungsfenster kein 5G-Wert, und wer marokkanische 5G-Geschwindigkeiten aus diesem Zeitraum zitiert, zitiert etwas anderes.
+Die 5G-Zeile bleibt für alle drei bewusst leer. Ooklas Marokko-Bericht deckt den Zeitraum Juli–Dezember 2024 ab, und die 5G-Netze in Marokko wurden erst am **7. November 2025** eingeschaltet — daher existiert für dieses Erfassungsfenster kein 5G-Wert, und wer marokkanische 5G-Geschwindigkeiten aus diesem Zeitraum zitiert, zitiert etwas anderes.
 
 
 
@@ -480,7 +480,7 @@ Der 5G-Zeitplan selbst ist inzwischen veröffentlicht. [Die ANRT vergab Lizenzen
 
 
 
-## Regionale Netzabdeckung
+## Netzabdeckung in Marrakesch, Casablanca, Fès, an der Küste und auf den Strecken dazwischen
 
 
 
@@ -518,7 +518,7 @@ Dies ist die Tabelle, die Sie lesen sollten, bevor Sie sich für einen Netzbetre
 
 | Merzouga und Erg Chebbi | Das Dorf hat Empfang; die abgelegenen Camps dahinter nicht | Schreiben und planen Sie voraus, streamen Sie nicht. Senden Sie die Fotos des Tages, wenn Sie wieder in der Stadt sind. |
 
-| Trekking im Hohen Atlas — Toubkal, Azzaden | Auf den Bergkammen gibt es gelegentlich Empfang, die Täler zwischen den Dörfern oft nicht | Nutzen Sie das Telefon nur zur Navigation und zum Fotografieren und führen Sie für alles, was tiefer in die Berge geht, einen Satelliten-Messenger mit. |
+| Hochtäler des Hohen Atlas (Toubkal-Region, Randnotiz für Wanderer) | Auf den Bergkämmen gibt es gelegentlich Empfang, die Täler zwischen den Dörfern oft nicht | Für eine Tageswanderung von Imlil aus reicht der Empfang; wer tiefer in die Berge geht, führt einen Satelliten-Messenger mit. |
 
 | Anti-Atlas und Tafraoute | Auf allen drei Netzbetreibern schwach, und die Landschaft blockiert die Sichtverbindung | Behandeln Sie die Region als offline-Gebiet und laden Sie Routen vor der Abreise aus Agadir oder Taroudant in den Cache. |
 
@@ -544,7 +544,7 @@ So sieht die Netzabdeckung auf den klassischen Routen tatsächlich aus:
 
 - **Merzouga und Erg Chebbi:** Das Dorf selbst hat Empfang – die abgelegenen Camps dahinter in der Regel nicht. Planen Sie Ihre Uploads für den Abend zurück im Dorf und laden Sie Offline-Karten für alles südlich von Ouarzazate herunter.
 
-- **Wandern im Hohen Atlas (Toubkal, Azzaden-Täler):** Auf Bergkämmen gibt es gelegentlich Empfang; in den Tälern zwischen den Dörfern oft nicht. Kein Netzbetreiber ist ein Sicherheitsplan in den Bergen.
+- **Bergdörfer des Hohen Atlas (Randnotiz für Wanderer):** Auf Bergkämmen gibt es gelegentlich Empfang; in den Tälern zwischen den Dörfern oft nicht. Für Tagesausflüge von Marrakesch nach Imlil reicht der Empfang — kein Netzbetreiber ersetzt aber einen Sicherheitsplan im Hochgebirge.
 
 - **Küstenausflüge (Essaouira, Agadir, Anti-Atlas):** Der Atlantikgürtel ist bei allen dreien gut ausgebaut; Agadir verzeichnet einige der schnellsten Stadtgeschwindigkeiten des Landes.
 
@@ -610,7 +610,7 @@ Die praktische Konsequenz ist, dass Sie sowohl Bargeld als auch Konnektivität b
 
 
 
-Three praktische Handgriffe bringen das zum Funktionieren:
+Drei praktische Handgriffe bringen das zum Funktionieren:
 
 
 
@@ -654,7 +654,7 @@ Marokkos europäische Kante ist nur 14 km entfernt, und das ändert das Verhalte
 
 
 
-Zwei Details sind wichtiger als die Zeitangaben. **Tangier Med ist nicht Tanger** — es handelt sich um einen Handelshafen etwa 40 km östlich der Stadt. Planen Sie daher einen Transfer ein, wenn Sie ab Tanger mit der Bahn weiterreisen Ville. Und **Ceuta und Melilla gehören zu Spanien**, was bedeutet, dass Ihr Telefon unmittelbar nach dem Anlegen ein europäisches Netz nutzt. Eine reine Marokko-eSIM funktioniert ab der Gangway nicht mehr; in diesem Fall ist es sinnvoll, ein länderübergreifendes Profil oder einen zweiten spanischen Tarif mitzuführen, und die [Netzbetreiber-Hinweise für Spanien](/carriers/spain-esim-carrier-guide/) erläutern, was die EU-Netze dort bieten.
+Zwei Details sind wichtiger als die Zeitangaben. **Tangier Med ist nicht Tanger** — es handelt sich um einen Handelshafen etwa 40 km östlich der Stadt. Planen Sie daher einen Transfer ein, wenn Sie ab Tanger mit der Bahn weiterreisen Ville. Und **Ceuta und Melilla gehören zu Spanien**, was bedeutet, dass Ihr Telefon unmittelbar nach dem Anlegen ein europäisches Netz nutzt. Eine reine Marokko-eSIM funktioniert ab der Gangway nicht mehr; in diesem Fall ist es sinnvoll, ein länderübergreifendes Profil oder einen zweiten spanischen Tarif mitzuführen, und die Netzbetreiber-Hinweise für Spanien erläutern, was die EU-Netze dort bieten.
 
 
 
@@ -666,11 +666,11 @@ Zwei Details sind wichtiger als die Zeitangaben. **Tangier Med ist nicht Tanger*
 
 
 
-Three Prüfungen, in der Reihenfolge, in der sie häufig fehlschlagen. Erstens, **Netzbetreiber-Lock**: ein im Heimatland vertraglich gebundenes Telefon muss entsperrt werden, bevor eine marokkanische eSIM installiert wird. Zweitens, **Frequenzbänder**: marokkanisches 4G läuft auf LTE-Band 3 (1800 MHz), 7 (2600 MHz) und 20 (800 MHz), mit 5G auf n78 (3500 MHz) und n28 (700 MHz) — nahezu jedes in den letzten fünf Jahren verkaufte Telefon unterstützt diese Bänder, daher sind Bandprobleme selten. Drittens, **eSIM-Hardware**: iPhone XS und neuer, Google Pixel 3 und neuer sowie aktuelle Samsung-Galaxy-Modelle funktionieren alle. Prüfen Sie Ihr genaues Modell im [Kompatibilitäts-Checker](/compatibility/), bevor Sie etwas kaufen, und falls Sie wissen möchten, was Ihr Telefon während der Installation tut, behandelt dies [die Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/).
+Drei Prüfungen, in der Reihenfolge, in der sie häufig fehlschlagen. Erstens, **Netzbetreiber-Lock**: ein im Heimatland vertraglich gebundenes Telefon muss entsperrt werden, bevor eine marokkanische eSIM installiert wird. Zweitens, **Frequenzbänder**: marokkanisches 4G läuft auf LTE-Band 3 (1800 MHz), 7 (2600 MHz) und 20 (800 MHz), mit 5G auf n78 (3500 MHz) und n28 (700 MHz) — nahezu jedes in den letzten fünf Jahren verkaufte Telefon unterstützt diese Bänder, daher sind Bandprobleme selten. Drittens, **eSIM-Hardware**: iPhone XS und neuer, Google Pixel 3 und neuer sowie aktuelle Samsung-Galaxy-Modelle funktionieren alle. Prüfen Sie Ihr genaues Modell im [Kompatibilitäts-Checker](/compatibility/), bevor Sie etwas kaufen, und falls Sie wissen möchten, was Ihr Telefon während der Installation tut, behandelt dies [die Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 
 
-One Marokko-spezifische Besonderheit: Reisende mit Dual-SIM sollten ihre Heimat-SIM für SMS-Bestätigungscodes aktiv lassen (Banken nutzen sie gern) und die marokkanische eSIM als Datenleitung festlegen, wobei Datenroaming nur auf der eSIM aktiviert wird. Deaktivieren Sie Roaming auf Ihrer Heimatleitung vor der Landung, oder Sie zahlen die marokkanischen Roaming-Gebühren Ihres Heimatnetzbetreibers für Hintergrundverkehr.
+Eine Marokko-spezifische Besonderheit: Reisende mit Dual-SIM sollten ihre Heimat-SIM für SMS-Bestätigungscodes aktiv lassen (Banken nutzen sie gern) und die marokkanische eSIM als Datenleitung festlegen, wobei Datenroaming nur auf der eSIM aktiviert wird. Deaktivieren Sie Roaming auf Ihrer Heimatleitung vor der Landung, oder Sie zahlen die marokkanischen Roaming-Gebühren Ihres Heimatnetzbetreibers für Hintergrundverkehr.
 
 
 
@@ -760,7 +760,7 @@ Wo sich die Felder befinden:
 
 - **iPhone:** Einstellungen → Mobilfunk → auf die eSIM-Leitung tippen → Mobilfunkdaten-Netzwerk
 
-- **Android:** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunktnamen → neuen APN hinzufügen
+- **Android (beispielsweise Samsung):** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunktnamen → oben rechts auf Hinzufügen tippen und Werte des Netzbetreibers eintragen
 
 
 
@@ -772,7 +772,7 @@ Speichern Sie, und starten Sie das Mobiltelefon neu. Bevor Sie weitere Änderung
 
 
 
-**A. Das Profil lässt sich nicht installieren**
+**A. Der QR-Code lässt sich nicht einlesen oder der Profil-Download bricht ab**
 
 1. Stellen Sie sicher, dass das Mobiltelefon netzbetreiberunabhängig ist.
 
@@ -784,7 +784,7 @@ Speichern Sie, und starten Sie das Mobiltelefon neu. Bevor Sie weitere Änderung
 
 
 
-**B. Installiert, aber keine Signalbalken**
+**B. Profil installiert, aber keine Registrierung bei IAM, ORANGE oder INWI**
 
 1. Überprüfen Sie den Lock-Status erneut und dass die eSIM im SIM-Manager aktiviert ist.
 
@@ -794,7 +794,7 @@ Speichern Sie, und starten Sie das Mobiltelefon neu. Bevor Sie weitere Änderung
 
 
 
-**C. Balken, aber keine Daten**
+**C. Netzregistrar-Hinweis da, aber keine Daten**
 
 1. Die eSIM sollte die Standardleitung für mobile Daten sein – bestätigen Sie, dass sie und nicht die heimische SIM-Karte ausgewählt ist.
 
@@ -806,7 +806,7 @@ Speichern Sie, und starten Sie das Mobiltelefon neu. Bevor Sie weitere Änderung
 
 
 
-**D. „SOS“ oder „Nur Notrufe“**
+**D. „SOS“ trotz aktivem Maroc-Telecom- oder inwi-Profil**
 
 1. Aktivieren Sie die eSIM im SIM-Manager, falls sie ausgeschaltet war.
 
@@ -818,7 +818,7 @@ Speichern Sie, und starten Sie das Mobiltelefon neu. Bevor Sie weitere Änderung
 
 
 
-**E. Funktioniert, dann plötzlich langsam**
+**E. Zuerst schnell, dann plötzlich gedrosselt**
 
 1. Prüfen Sie zuerst das Datenguthaben – ein verbrauchtes Volumen ist die häufigste Ursache.
 
@@ -840,17 +840,17 @@ Speichern Sie, und starten Sie das Mobiltelefon neu. Bevor Sie weitere Änderung
 
 | Bestell- oder Kontonummer | Bestätigungs-E-Mail oder Reisebüro-Beleg |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Handy-Modell und iOS-/Android-Version | iPhone: Einstellungen → Allgemein → Info; Android: Einstellungen → Über das Telefon |
 
 | EID | Wählen `*#06#` |
 
 | IMEI | Identisch `*#06#` Bildschirm |
 
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Direkt im Fehlerdialog aufnehmen — der Maroc-Telecom-Service über 555 will das Bild zuerst sehen |
 
 | Aktuelle APN- und Datenleitungseinstellungen | Einstellungen → Mobilfunknetzwerk |
 
-| Daten-Roaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
+| Roaming-Schalter der eSIM-Datenleitung | iPhone: Einstellungen → Mobilfunk → Leitung antippen; Android: Einstellungen → Verbindungen → Datennutzung → Roaming |
 
 | Bereits versuchte Schritte | Kurze nummerierte Liste beibehalten |
 
@@ -875,6 +875,7 @@ Marokko liegt in der günstigsten Region der Welt für mobile Daten und in diese
 - Vielflieger sollten die Prepaid-Tarife für den marokkanischen Inlandsmarkt als Vergleich heranziehen, da sie zeigen, was Einheimische zahlen. Maroc Telecoms Jawal-Angebote bieten 3 GB für **59 DH im Monat**, 29 GB für **119 DH**, 50 GB für **199 DH** und 65 GB plus 1 GB Roaming für **259 DH**.
 
 - Für die klassische Zwei-Wochen-Reise mit 10 GB ist eine lokale SIM-Karte oder eine eSIM vom Netzbetreiber pro Gigabyte günstiger, während eine Reise-eSIM in puncto Zeit und Aufwand günstiger ist: keine Registrierung, kein Schalter, keine Sprachbarriere und automatische Wiederauswahl, wenn das Netzwerk, das Sie gekauft haben, nicht das stärkste am Aufenthaltsort ist.
+- **Rechenbeispiel für 14 Tage:** Der Essentiel-Tarif mit 20 GB für 120 DH kostet umgelegt rund 8,6 DH pro Tag — weniger als zwei Softdrinks in einem Café in Marrakesch. Selbst der 45-GB-Tarif für 200 DH liegt bei etwa 14 DH pro Tag und deckt Karten, Videoanrufe und tägliche Uploads ab, ohne dass Sie ein Roaming-Paket Ihres Heimatnetzbetreibers dazubuchen müssen.
 
 
 
@@ -894,19 +895,19 @@ Maroc Telecom, mit deutlichem Abstand. Es ist der Platzhirsch mit dem dichtesten
 
 
 
-### Marokko lokale SIM-Karte vs. Reise-eSIM im Vergleich
+### Lohnt sich eine lokale SIM-Karte in Marokko mehr als eine Reise-eSIM?
 
 
 
-Yes, von Maroc Telecom: Der Online-Shop verkauft die touristischen Essentiel-eSIM-Angebote (70–320 DH), und das Profil aktiviert sich mit einem ersten Anruf, sobald Sie in Marokko sind. inwi und Orange sind für Besucher effektiv nur im Laden erhältlich.
+Ja, von Maroc Telecom: Der Online-Shop verkauft die touristischen Essentiel-eSIM-Angebote (70–320 DH), und das Profil aktiviert sich mit einem ersten Anruf, sobald Sie in Marokko sind. inwi und Orange sind für Besucher effektiv nur im Laden erhältlich.
 
 
 
-### SIM-Karte in Marokko kaufen: Ausweisregeln
+### Braucht man für jede SIM-Karte in Marokko einen Reisepass?
 
 
 
-Yes. Das marokkanische Recht verlangt, dass jede SIM-Karte auf eine namentlich genannte Person mit gültigem Ausweis registriert ist; Reisende verwenden dafür ihren Reisepass. Dies gilt gleichermaßen an Flughafenkiosken, in Filialen der Netzbetreiber und bei Wiederverkäufern, sowohl für physische SIM-Karten als auch für eSIMs.
+Ja. Das marokkanische Recht verlangt, dass jede SIM-Karte auf eine namentlich genannte Person mit gültigem Ausweis registriert ist; Reisende verwenden dafür ihren Reisepass. Dies gilt gleichermaßen an Flughafenkiosken, in Filialen der Netzbetreiber und bei Wiederverkäufern, sowohl für physische SIM-Karten als auch für eSIMs.
 
 
 
@@ -918,7 +919,7 @@ Es gibt derzeit kein veröffentlichtes IMEI-Registrierungsverfahren für Besuche
 
 
 
-### Maroc Telecom vs. inwi: Welcher marokkanische Netzbetreiber ist schneller?
+### Wie schnell ist der Mobilfunk in Marrakesch und Casablanca?
 
 
 
@@ -926,7 +927,7 @@ Marrakesch erreichte im 2. Halbjahr 2024 in den Stadtdaten von Ookla einen media
 
 
 
-### Marokko-Tarife mit den niedrigsten Preisen
+### Welcher Marokko-Tarif kostet am wenigsten pro Gigabyte?
 
 
 
@@ -934,7 +935,7 @@ Beim Preis pro Dirham für Daten sind inwi und Maroc Telecoms Tarif 120 DH / 20 
 
 
 
-### Marokko eSIM-Tarife und Preise
+### Lohnt sich Roaming in Marokko oder besser eine eSIM?
 
 
 
@@ -942,15 +943,15 @@ Roaming mit Ihrem Heimtarif funktioniert dort, wo Ihr Netzbetreiber eine Vereinb
 
 
 
-### Maroc Telecom vs. inwi 5G: Was ist in Marokko besser?
+### Gibt es in Marokko bereits 5G für Reisende?
 
 
 
-Yes, kommerziell in den Hauptstädten gestartet, aber die 5G-Netzabdeckung beschränkt sich auf städtische Inseln, und die meiste Zeit als Besucher verbringen Sie auf 4G, das entlang der Hauptachsen schnell und stabil ist. Kaufen Sie einen Tarif nicht wegen des 5G-Etiketts, sondern wegen der Netzabdeckung dort, wo Sie hinreisen.
+Ja, kommerziell in den Hauptstädten gestartet, aber die 5G-Netzabdeckung beschränkt sich auf städtische Inseln, und die meiste Zeit als Besucher verbringen Sie auf 4G, das entlang der Hauptachsen schnell und stabil ist. Kaufen Sie einen Tarif nicht wegen des 5G-Etiketts, sondern wegen der Netzabdeckung dort, wo Sie hinreisen.
 
 
 
-### Wer bietet in Marokko Mobilfunkdienste an?
+### Deckt eine einzige Marokko-eSIM alle drei Netze ab?
 
 
 
@@ -958,7 +959,7 @@ Nicht mit einem Einzelnetzbetreiber-Profil — eine eSIM von Maroc Telecom verbi
 
 
 
-### Welche Marokko-eSIM zu Ihrer Reise passt
+### Was tun, wenn die Marokko-eSIM nach der Installation nicht funktioniert?
 
 
 
@@ -974,11 +975,11 @@ Alle drei Anbieter haben am **7. November 2025** kommerziell 5G eingeführt, etw
 
 
 
-### Maroc Telecom vs. inwi Preise im Vergleich
+### Kostet die Marokko-eSIM von Maroc Telecom mehr als eine physische SIM?
 
 
 
-Yes. Maroc Telecom berechnet die eSIM identisch wie eine physische SIM-Karte, und der QR-Code kann auf mehreren kompatiblen Geräten ohne Aufpreis erneut gescannt werden. Der einzige funktionale Unterschied ist der eine zusätzliche Schritt: der erste abgehende Anruf, der die Leitung freischaltet.
+Ja. Maroc Telecom berechnet die eSIM identisch wie eine physische SIM-Karte, und der QR-Code kann auf mehreren kompatiblen Geräten ohne Aufpreis erneut gescannt werden. Der einzige funktionale Unterschied ist der eine zusätzliche Schritt: der erste abgehende Anruf, der die Leitung freischaltet.
 
 
 
@@ -1028,7 +1029,7 @@ Alles hier basiert auf Messungen Dritter. Ihr Gerät, das genutzte Frequenzband 
 
 
 
-One-Profil, das automatisch das stärkste marokkanische Netz auswählt, während Sie von der Medina über den Atlas-Pass in den Süden reisen, installiert auf Ihrem Telefon, bevor Sie zu Hause abreisen. Beginnen Sie mit einem [kostenlosen Testprofil](/free-esim/) oder gehen Sie direkt zu den [Marokko-eSIM-Tarifen](/morocco-esim/).
+Ein Profil, das automatisch das stärkste marokkanische Netz auswählt, während Sie von der Medina über den Atlas-Pass in den Süden reisen, installiert auf Ihrem Telefon, bevor Sie zu Hause abreisen. Beginnen Sie mit einem kostenlosen Testprofil oder gehen Sie direkt zu den Marokko-eSIM-Tarifen.
 
 
 
@@ -1044,5 +1045,5 @@ One-Profil, das automatisch das stärkste marokkanische Netz auswählt, während
 
 
 
-Wenn Sie lieber erst testen möchten, bevor Sie sich festlegen, läuft [der kostenlose Testtarif](/free-esim/) von Roami in denselben Netzen, die dieser Leitfaden vergleicht — einschließlich Maroc Telecom. **WEB20** gibt 20 % Rabatt auf einen kostenpflichtigen Marokko-Tarif für Erstkunden von Roami.
+Wenn Sie lieber erst testen möchten, bevor Sie sich festlegen, läuft der kostenlose Testtarif von Roami in denselben Netzen, die dieser Leitfaden vergleicht — einschließlich Maroc Telecom. **WEB20** gibt 20 % Rabatt auf einen kostenpflichtigen Marokko-Tarif für Erstkunden von Roami.
 

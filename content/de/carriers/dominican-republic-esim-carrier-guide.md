@@ -18,29 +18,29 @@ hero_subtitle_main: "Der Netzbetreiber-Vergleich 2026, basierend auf unabhängig
 ---
 
 
-Die eSIM-Frage für die Dominikanische Republik ist im Grunde eine Resort-Frage. Wenn Sie eine Woche in einem All-inclusive-Hotel in Punta Cana verbringen, deckt das Hotelnetz Lobby, Buffet und Poolterrasse ab – und bricht leise auf Ihrem Zimmer, am ruhigen Pool oder in dem Moment zusammen, in dem Sie das Gelände für einen Ausflug verlassen. Eine [Dominikanische-Republik-eSIM](/dominican-esim/) hält Sie stattdessen in echten Mobilfunknetzen, und da Ihr Smartphone eSIM-fähig und entsperrt sein muss, um sie zu nutzen, prüfen Sie es zunächst mit dem [Kompatibilitäts-Check](/compatibility/), bevor Sie Ihre Dominikanische-Republik-eSIM kaufen.
+Die eSIM-Frage für die Dominikanische Republik ist im Grunde eine Resort-Frage. Wenn Sie eine Woche in einem All-inclusive-Hotel in Punta Cana verbringen, deckt das Hotelnetz Lobby, Buffet und Poolterrasse ab – und bricht leise auf Ihrem Zimmer, am ruhigen Pool oder in dem Moment zusammen, in dem Sie das Gelände für einen Ausflug verlassen. Eine [Dominikanische-Republik-eSIM](/dominican-esim/) hält Sie stattdessen in echten Mobilfunknetzen; da Ihr Smartphone eSIM-fähig und entsperrt sein muss, prüfen Sie es mit dem [Kompatibilitäts-Check](/compatibility/), bevor Sie eine eSIM für die Dominikanische Republik kaufen.
 
-**Schnelle Antwort:** Claro, wenn Sie in der Dominikanischen Republik viel unterwegs sind, Altice Dominicana, wenn Sie in einer Stadt bleiben. Geschwindigkeiten, Preise und das Kleingedruckte zur Registrierung unten stützen diese Aufteilung für Ihre Dominikanische-Republik-eSIM – beginnen Sie auf der [Kompatibilitätsseite](/compatibility/), um Probleme mit dem Gerät auszuschließen.
+**Schnelle Antwort:** Claro, wenn Sie die Dominikanische Republik viel bereisen, Altice Dominicana, wenn Sie in einer Stadt bleiben. Geschwindigkeiten, Preise und das Kleingedruckte zur Registrierung unten stützen diese Aufteilung für Ihre Dominikanische-Republik-eSIM – prüfen Sie zuerst die eSIM-Eignung des eigenen Telefons, um Probleme mit dem Gerät auszuschließen.
 
-**Schnelles Urteil:** Claro ist das schnellste Netz in der Dominikanischen Republik – der Speedtest Award von Ookla hat im 1.–2. Quartal 2026 einen medianen Download von 169,96 Mbps gemessen und es zum schnellsten Mobilfunknetz der gesamten Karibikregion gekürt. Altice Dominicana ist eine starke Nummer zwei, besonders in den Resort-Gebieten Punta Cana und Puerto Plata, mit einem medianen 5G-Download von 162 Mbps in den früheren Daten von Ookla aus dem 1. Quartal 2024. Viva ist ein kleines Budget-Netz, das Sie als Besucher getrost ignorieren können. Der Kauf einer lokalen SIM-Karte bedeutet eine persönliche Reisepass-Registrierung in einer Filiale des Netzbetreibers; eine Prepaid-Reise-eSIM umgeht den Schalter komplett und funktioniert direkt bei der Landung. Zwei weitere Zahlen, die Sie kennen sollten: Dominikanische Daten kosten etwa 0,79 USD pro GB – günstig nach globalem Maßstab – und das Land liegt weltweit auf Platz 34 der Mobilfunkgeschwindigkeit, deutlich über dem globalen Median.
+**Schnelles Urteil:** Claro versorgt die Dominikanische Republik mit dem schnellsten Netz – der Speedtest Award von Ookla hat im 1.–2. Quartal 2026 einen medianen Download von 169,96 Mbps gemessen und Claro zum schnellsten Mobilfunknetz der gesamten Karibikregion gekürt. Altice Dominicana ist eine starke Nummer zwei, besonders in den Resort-Gebieten Punta Cana und Puerto Plata, mit einem medianen 5G-Download von 162 Mbps in den früheren Daten von Ookla aus dem 1. Quartal 2024. Viva ist ein kleines Budget-Netz, das die Dominikanische Republik nur am Rand versorgt und das Sie als Besucher getrost ignorieren können. Der Kauf einer lokalen SIM-Karte bedeutet eine persönliche Reisepass-Registrierung in einer Filiale des Netzbetreibers; eine Prepaid-Reise-eSIM umgeht den Schalter komplett und funktioniert direkt bei der Landung. Zwei weitere Zahlen, die Sie kennen sollten: Dominikanische Daten kosten etwa 0,79 USD pro GB – günstig nach globalem Maßstab – und die Dominikanische Republik liegt weltweit auf Platz 34 der Mobilfunkgeschwindigkeit, deutlich über dem globalen Median.
 
 ## Warum das WLAN in All-inclusive-Resorts in der Dominikanischen Republik versagt
 
 Allein in Punta Cana gibt es Zehntausende Hotelzimmer, und fast alle liegen hinter derselben Mauer: Resort-WLAN, gebaut für Lobbys, nicht für Zimmer. Das Muster wiederholt sich in Bavaro, Playa Dorada in Puerto Plata und im Casa-de-Campo-Komplex in La Romana. Die Netzabdeckung endet, wo Ihr Balkon beginnt, Videoanrufe brechen zu den abendlichen Stoßzeiten ab, wenn alle Gäste gleichzeitig streamen, und sobald Sie einen Katamaran-Tagesausflug nach Isla Saona oder eine Buggy-Tour durch die Landschaft buchen, sind Sie offline – denn bei Ausflügen reist das Resort-Netz ganz sicher nicht mit.
 
-Es gibt auch einen Sicherheits- und Logistikaspekt. Ride-Hailing, WhatsApp – das in der Dominikanischen Republik die Standardkommunikation mit Geschäften und Taxis ist – und Google Maps ohne Offline-Modus brauchen alle Live-Daten, nicht einen Lobby-Router. Eine Dominikanische-Republik-eSIM löst das anders als eine physische SIM-Karte: Sie installieren sie zu Hause im WLAN, sie verbindet sich bei der Landung in Punta Cana (PUJ) oder Las Américas (SDQ) mit Claro, Altice oder Viva, und Ihre Heimatnummer bleibt für Banking-Codes parallel aktiv. Wenn Sie noch nie eine installiert haben, erklärt die Anleitung zur [Schritte der eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) die Mechanik in wenigen Minuten.
+Es gibt auch einen Sicherheits- und Logistikaspekt, der jede Reise durch die Dominikanische Republik betrifft. Ride-Hailing, WhatsApp – das in der Dominikanischen Republik die Standardkommunikation mit Geschäften und Taxis ist – und Google Maps ohne Offline-Modus brauchen alle Live-Daten, nicht einen Lobby-Router. Eine eSIM für die Dominikanische Republik löst das anders als eine physische SIM-Karte: Sie installieren sie zu Hause im WLAN, sie verbindet sich bei der Landung in Punta Cana (PUJ) oder Las Américas (SDQ) mit Claro, Altice oder Viva, und Ihre Heimatnummer bleibt für Banking-Codes parallel aktiv. Wenn Sie noch nie eine installiert haben, erklärt die Anleitung zur [Schritte der eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) die Mechanik in wenigen Minuten.
 
-Drei Punkte zum Resort-WLAN sollten klar ausgesprochen werden, denn sie entscheiden, wie Sie packen:
+Drei Punkte zum Resort-WLAN sollten klar ausgesprochen werden, denn sie entscheiden, wie Sie die Dominikanische Republik erleben und packen:
 
 - **Der Router ist für die Lobby dimensioniert, nicht für das Resort.** Gästebewertungen entlang der Bavaro-Strecke wiederholen dieselben zwei Beschwerden – WLAN, das „sehr schlecht für ein solches Hotel“ ist, und Verbindungen, die im Zimmer nur langsam sind, auf der Poolterrasse aber funktionieren. Fünf Sterne für das Zimmer bedeuten nicht automatisch fünf Sterne für den Access Point 200 Meter weiter.
 - **Der Abend ist die Stoßzeit.** Alle kehren gleichzeitig vom Abendessen zurück und streamen. Wenn Sie einen Videoanruf führen müssen, ist 7 Uhr morgens eine bessere Wahl als 21 Uhr.
 - **„Kostenloses WLAN in allen Zimmern“ ist eine Ausstattungsbeschreibung, keine Bandbreitengarantie.** Es sagt Ihnen nur, dass es auf Ihrer Etage einen Access Point gibt. Es sagt nichts darüber, ob ein Anruf durchhält.
 
-Nichts davon ist ein Grund, das Resort-Netz zu meiden. Es ist ein Grund, sich für alles, was wichtig ist, nicht darauf zu verlassen: eine Transferbestätigung, das WhatsApp eines Tauchoperators, eine Kartenzahlung, die einen SMS-Code benötigt.
+Nichts davon ist ein Grund, das Resort-Netz zu meiden. Es ist ein Grund, sich für alles, was wichtig ist, nicht darauf zu verlassen – und genau darauf ist die Dominikanische Republik ausgelegt: eine Transferbestätigung, das WhatsApp eines Tauchoperators, eine Kartenzahlung, die einen SMS-Code benötigt.
 
-## Die eSIM-Netzbetreiber der Dominikanischen Republik
+## Welche eSIM-Netzbetreiber die Dominikanische Republik versorgen
 
-Die Resort-Zone ist nicht einheitlich. Netzabdeckung und Qualität des WLANs im Zimmer ändern sich alle 30 Kilometer entlang der Küste.
+Die Resort-Zone ist nicht einheitlich – die Dominikanische Republik wechselt ihre Netzqualität alle 30 Kilometer entlang der Küste.
 
 | Hotelanlage | Was das Hotel-WLAN tatsächlich leistet | Was die Netzbetreiber in der Nähe bieten |
 |:---|:---|:---|
@@ -51,33 +51,33 @@ Die Resort-Zone ist nicht einheitlich. Netzabdeckung und Qualität des WLANs im 
 | La Romana / Bayahíbe / Casa de Campo | Casa de Campo ist ein großer, etablierter Hotelkomplex mit demselben Gefälle zwischen Lobby und Zimmern; kleinere Gästehäuser in Bayahíbe haben oft die schwächsten Router an der gesamten Küste | Gut in La Romana und Bayahíbe; entlang der Transferstrecke nach Punta Cana wird das Netz dazwischen schwächer |
 | Santo Domingo | Businesshotels sind die Ausnahme — die Häuser in der Zona Colonial, in Piantini und in Naco sind auf Geschäftsreisen ausgelegt, und ihr WLAN funktioniert in der Regel zuverlässig | Das dichteste Netz des Landes: vollständige 5G-Abdeckung in der Zona Colonial, am Malecón und in den Geschäftsvierteln |
 
-### Punta Cana und Bávaro
+### Punta Cana und Bávaro: wo die Dominikanische Republik am stärksten versorgt ist
 
-Hier ist die Kluft zwischen Resort und Netz am größten und am wenigsten relevant, weil das Mobilfunknetz so stark ist. Claro und Altice bieten entlang der Hauptstraße von Bávaro jeweils 5G, und 4G schließt die Lücken. Wenn Ihre gesamte Reise aus einem Resort und einigen Ausflügen besteht, liefert Ihnen eine Reise-eSIM Daten am Strand, im Taxi, auf dem Katamaran und im Zimmer – also genau dort, wo der Hotelrouter aufgibt.
+Hier ist die Kluft zwischen Resort und Netz am größten und am wenigsten relevant, weil die Dominikanische Republik an dieser Küste ihr stärkstes Mobilfunknetz aufbietet. Claro und Altice bieten entlang der Hauptstraße von Bávaro jeweils 5G, und 4G schließt die Lücken. Wenn Ihre gesamte Reise aus einem Resort und einigen Ausflügen besteht, liefert Ihnen eine Reise-eSIM Daten am Strand, im Taxi, auf dem Katamaran und im Zimmer – also genau dort, wo der Hotelrouter aufgibt.
 
-### Netzabdeckung in Cap Cana
+### Wie die Dominikanische Republik Cap Cana versorgt
 
-Die neueste Resort-Zone an der Ostküste und diejenige, in der WLAN im Zimmer am ehesten tatsächlich funktioniert, da die Infrastruktur in diesem Jahrzehnt errichtet wurde. Sie liegt zudem mitten im Netzabdeckungsgebiet von Punta Cana. Zwei voneinander unabhängige Fakten machen Cap Cana zur einfachsten Konnektivitätsentscheidung der Insel.
+Cap Cana ist die jüngste Resort-Zone, die die Dominikanische Republik an der Ostküste erschlossen hat; hier funktioniert WLAN im Zimmer am ehesten, da die Infrastruktur in diesem Jahrzehnt errichtet wurde. Sie liegt zudem mitten im Netzabdeckungsgebiet von Punta Cana. Zwei voneinander unabhängige Fakten machen Cap Cana zur einfachsten Konnektivitätsentscheidung der Insel.
 
-### Die Nordküste von Playa Dorada bis Sosúa
+### Was die Dominikanische Republik an der Nordküste abdeckt: Playa Dorada bis Sosúa
 
-Die Netzabdeckung an der Nordküste lässt sich am besten als ein Korridor beschreiben: stark von Playa Dorada durch die Stadt bis nach Sosúa, und schwächer auf den Küstenstraßen in den Bergen Richtung Westen nach Montecristi und Richtung Osten nach Río San Juan. Die Kitesurf-Szene in Cabarete ist der Grund, warum es sich lohnt, hier inDrive installiert zu haben – Barzahlung und ein lokal ausgehandelter Preis sind besser, als auf ein Uber zu warten, das die Fahrt möglicherweise nicht annimmt.
+Die Netzabdeckung an der Nordküste lässt sich am besten als ein Korridor beschreiben: stark von Playa Dorada durch die Stadt bis nach Sosúa, und schwächer auf den Küstenstraßen in den Bergen Richtung Westen nach Montecristi und Richtung Osten nach Río San Juan – die Dominikanische Republik deckt hier einen schmalen Streifen ab, nicht die ganze Küste. Die Kitesurf-Szene in Cabarete ist der Grund, warum es sich lohnt, hier inDrive installiert zu haben – Barzahlung und ein lokal ausgehandelter Preis sind besser, als auf ein Uber zu warten, das die Fahrt möglicherweise nicht annimmt.
 
-### Samaná und Las Terrenas als Funkloch-Halbinsel
+### Warum die Dominikanische Republik auf Samaná ein Funkloch lässt
 
-Die Halbinsel ist der einzige Ort in der Dominikanischen Republik, an dem sich eine Hotelbuchung wegen der Konnektivität wirklich lohnt neu zu überdenken, da die Landstraßen zwischen den Orten bei jedem Netzbetreiber tatsächlich tot sind. Las Terrenas verfügt über beide Netzbetreiber und eine starke französisch-italienische Expatszene, die über WhatsApp läuft; die Dörfer auf dem Weg dorthin nicht. Laden Sie Offline-Karten für die gesamte Halbinsel herunter, bevor Sie Santo Domingo verlassen.
+Die Halbinsel ist der Ort, an dem die Dominikanische Republik die größten Konnektivitätslücken lässt, sodass sich eine Hotelbuchung hier wegen der Konnektivität wirklich lohnt neu zu überdenken – die Landstraßen zwischen den Orten sind bei jedem Netzbetreiber tatsächlich tot. Las Terrenas verfügt über beide Netzbetreiber und eine starke französisch-italienische Expatszene, die über WhatsApp läuft; die Dörfer auf dem Weg dorthin nicht. Laden Sie Offline-Karten für die gesamte Halbinsel herunter, bevor Sie Santo Domingo verlassen.
 
-### Netzabdeckung rund um La Romana und Bayahíbe
+### Was die Dominikanische Republik um La Romana und Bayahíbe bietet
 
-La Romana ist das Tor zu Saona und Catalina, und Bayahíbe ist der Hafen. Die Netzabdeckung in beiden Orten ist gut – und das ist wichtig, denn es ist Ihre letzte Chance, Karten zu laden, das Boot zu bestätigen und Nachrichten nach Hause zu schicken, bevor das Signal mit der Küste verschwindet.
+La Romana ist das Tor, das die Dominikanische Republik nach Saona und Catalina öffnet, und Bayahíbe ist der Hafen. Die Netzabdeckung in beiden Orten ist gut – und das ist wichtig, denn es ist Ihre letzte Chance, Karten zu laden, das Boot zu bestätigen und Nachrichten nach Hause zu schicken, bevor das Signal mit der Küste verschwindet.
 
-### Netzabdeckung in Santo Domingo (Stadt)
+### Was die Dominikanische Republik in Santo Domingo liefert
 
-Die Hauptstadt ist ein völlig anderes Produkt. Businesshotels in Piantini und Naco sowie die Boutique-Hotels in der Zona Colonial werden von Gästen genutzt, die dort arbeiten, und ihr WLAN spiegelt das wider. Das Mobilfunknetz ist das dichteste des Landes. Die eigentliche Einschränkung in Santo Domingo ist die Überlastung, nicht die Netzabdeckung: an Kreuzfahrttagen und Festivalwochenenden brechen die Geschwindigkeiten in der Altstadt unter der Last all der Besucher ein, die gleichzeitig das Netz testen.
+Die Hauptstadt ist ein völlig anderes Produkt – hier zeigt die Dominikanische Republik ihr dichtestes Netz. Businesshotels in Piantini und Naco sowie die Boutique-Hotels in der Zona Colonial werden von Gästen genutzt, die dort arbeiten, und ihr WLAN spiegelt das wider. Das Mobilfunknetz ist das dichteste des Landes. Die eigentliche Einschränkung in Santo Domingo ist die Überlastung, nicht die Netzabdeckung: an Kreuzfahrttagen und Festivalwochenenden brechen die Geschwindigkeiten in der Altstadt unter der Last all der Besucher ein, die gleichzeitig das Netz testen.
 
-## Die lokalen Netzbetreiber
+## Wer die Dominikanische Republik mit Netz versorgt
 
-Drei Netzbetreiber halten faktisch den gesamten dominikanischen Mobilfunkmarkt und werden von [Indotel](https://indotel.gob.do/), der nationalen Telekommunikationsaufsicht, reguliert. Claro (América Móvil) ist mit rund 62 % der Mobilfunkverträge der dominierende Akteur – etwa 6,8 Millionen Anschlüsse Anfang 2025 laut Indotel-Zahlen – Altice Dominicana hält rund ein Drittel, und Viva ist ein kleiner Budgetanbieter.
+Drei Netzbetreiber halten faktisch den gesamten Mobilfunkmarkt, den die Dominikanische Republik zu vergeben hat, und werden von [Indotel](https://indotel.gob.do/), der nationalen Telekommunikationsaufsicht, reguliert. Claro (América Móvil) ist mit rund 62 % der Mobilfunkverträge der dominierende Akteur – etwa 6,8 Millionen Anschlüsse Anfang 2025 laut Indotel-Zahlen – Altice Dominicana hält rund ein Drittel, und Viva ist ein kleiner Budgetanbieter.
 
 | | Claro | Altice Dominikanische Republik | Viva |
 |:---|:---|:---|:---|
@@ -89,13 +89,13 @@ Drei Netzbetreiber halten faktisch den gesamten dominikanischen Mobilfunkmarkt u
 
 Zwei Details in dieser Tabelle sind wichtiger als die Rangfolge. Erstens: Der Sieg von Claro ist nicht nur ein nationaler — [der Award-Bericht von Ookla](https://www.ookla.com/research/reports/award-report-2026-q1-q2-fastest-mobile-network-claro-dominican-republic) hat ihn auch als **schnellstes Mobilfunknetz der Karibik** ausgezeichnet, was zeigt, wie er abschneidet, wenn Ihre Kreuzfahrtroute zwischen Inseln wechselt. Zweitens: Altice hat 5G in Santo Domingo und Santiago aktiviert und ist in den Touristengebieten wettbewerbsfähig, sodass „Claro überall“ die sichere Antwort ist, aber nicht die einzige gute.
 
-Für den nationalen Kontext hat der [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/dominican-republic) die Dominikanische Republik im August 2026 auf eine mediane mobile Downloadgeschwindigkeit von 125,69 Mbps gesetzt — den 34. Platz weltweit und deutlich über dem globalen Median von 109,05 Mbps. Cable.co.uk berechnet lokale Daten mit etwa 0,79 USD pro GB, Platz 80 von 237 Märkten, sodass lokale Netze schnell und einigermaßen günstig sind; wofür Sie den Aufpreis für eine Reise-eSIM zahlen, ist das Überspringen des Papierkrams und der Zugang zu mehreren Netzen.
+Für den nationalen Kontext hat der [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/dominican-republic) die Dominikanische Republik im August 2026 auf eine mediane mobile Downloadgeschwindigkeit von 125,69 Mbps gesetzt — den 34. Platz weltweit und deutlich über dem globalen Median von 109,05 Mbps. Cable.co.uk berechnet lokale Daten mit etwa 0,79 USD pro GB, Platz 80 von 237 Märkten, sodass die Dominikanische Republik schnelle und einigermaßen günstige Netze bietet; wofür Sie den Aufpreis für eine Reise-eSIM zahlen, ist das Überspringen des Papierkrams und der Zugang zu mehreren Netzen.
 
-### Welcher Netzbetreiber in der Dominikanischen Republik ist schneller?
+### Welcher Netzbetreiber die Dominikanische Republik schneller versorgt
 
-Die Spitzenzahlen von Claro sind die stärksten auf dem Markt und, ungewöhnlich für einen karibischen Betreiber, halten sie auch außerhalb der Hauptstadt stand. Der Speed Score von **67,59** und die mediane Downloadgeschwindigkeit von **169,96 Mbps** aus der Messung von Ookla im 1.–2. Quartal 2026 sind nationale Werte, keine städtischen, weshalb Resort-Mitarbeiter und Langzeitbesucher Claro als Standard behandeln.
+Die Spitzenzahlen von Claro sind die stärksten, die die Dominikanische Republik bietet, und, ungewöhnlich für einen karibischen Betreiber, halten sie auch außerhalb der Hauptstadt stand. Der Speed Score von **67,59** und die mediane Downloadgeschwindigkeit von **169,96 Mbps** aus der Messung von Ookla im 1.–2. Quartal 2026 sind nationale Werte, keine städtischen, weshalb Resort-Mitarbeiter und Langzeitbesucher Claro als Standard behandeln.
 
-- **Am besten bei:** Reichweite. Claro ist das Netz, das auf der Straße Santo Domingo–Samaná, in den Orten der Cordillera Central und auf den langen Transferstrecken zwischen den Resortgebieten noch Empfang hat.
+- **Am besten bei:** Reichweite. Claro ist das Netz, das die Dominikanische Republik abseits der Resorts versorgt – auf der Straße Santo Domingo–Samaná, in den Orten der Cordillera Central und auf den langen Transferstrecken zwischen den Resortgebieten.
 - **Kaufweg für Besucher:** ein Claro-Laden oder ein Schalter am Flughafen mit Ihrem Reisepass oder eine verpackte Prepaid-Karte im Supermarkt. Claro bietet über seinen Onlineshop und die App auch einen eigenen eSIM-Migrationsservice für Kunden an, die bereits eine Claro-Karte haben.
 - **Was es kostet:** Die Prepaid-Internetpakete des Netzbetreibers werden direkt über das Handy gekauft und verwaltet — wählen Sie `*112#` für das Internetmenü, `*111#` für das Einzelguthabenmenü oder nutzen Sie die Mi Claro-App. Claro wirbt bei Prepaid mit wöchentlichen Boni von bis zu 20 GB plus 50 Minuten sowie einem Aufladebonus ab RD$150.
 - **Was schiefläuft:** der Papierkram, nicht das Netz. Die Passregistrierung erfolgt persönlich, das Schalterpersonal arbeitet auf Spanisch, und eine neue Karte kann Balken anzeigen, bevor sie Daten anzeigt.
@@ -103,7 +103,7 @@ Die Spitzenzahlen von Claro sind die stärksten auf dem Markt und, ungewöhnlich
 
 ### Altice als Spezialist für Resortkorridore
 
-Altice Dominicana ist das Netz, an das sich die meisten Reiserouten tatsächlich in den Streifen Punta Cana und Puerto Plata binden, und es hat in den letzten Jahren ein stadtorientiertes Netz in ein küstennahes verwandelt. Im selben Speedtest von Ookla im 1.–2. Quartal 2026 erreichte es einen Speed Score von **60,66** — landesweit der zweite Platz und so nah an Claro, dass der Unterschied in einem Resortkorridor nicht spürbar ist.
+Altice Dominicana ist das Netz, an das sich die meisten Reiserouten tatsächlich in den Streifen Punta Cana und Puerto Plata binden, und es hat in den letzten Jahren ein stadtorientiertes Netz in ein küstennahes verwandelt. Wer die Dominikanische Republik vor allem am Strand erlebt, ist damit gut bedient. Im selben Speedtest von Ookla im 1.–2. Quartal 2026 erreichte es einen Speed Score von **60,66** — landesweit der zweite Platz und so nah an Claro, dass der Unterschied in einem Resortkorridor nicht spürbar ist.
 
 - **Am besten bei:** Dichte an den Orten, an denen Touristen Geld ausgeben — der Bávaro-Streifen, Santo Domingo, Santiago und der Resortgürtel der Nordküste. Bei einem Strandurlaub, der die Resortzone nie verlässt, ist Altice wirklich gleichwertig.
 - **Kaufweg für Besucher:** Altice-Läden sowie Prepaid-SIM-Karten in Supermärkten und Handy-Shops. Der eigene eSIM-Pfad des Netzbetreibers existiert für bestehende Karten.
@@ -113,11 +113,11 @@ Altice Dominicana ist das Netz, an das sich die meisten Reiserouten tatsächlich
 
 ### Viva und die günstigsten Tarife des Landes
 
-Viva (Grupo Telemicro) ist der dritte Betreiber und der günstigste, und genau dieser ist zu meiden. Ookla hat für Viva im 1.–2. Quartal 2026 einen Speed Score von **29,27** gemessen — weniger als die Hälfte der Werte von Altice und Claro — und es bleibt in der Praxis ein reines 4G-Netz. Die Prepaid-Pakete von Viva sind die günstigsten auf der Insel, weshalb seine SIM-Karten an Bewohner verkauft werden, die die Stadt nie verlassen, nicht an Besucher, die eine Woche zwischen Resort, Boot und Bergstraße verbringen werden. Wenn Ihnen ein Kiosk eine Viva-SIM anbietet, weil sie am günstigsten ist, fragen Sie, was es sonst noch gibt.
+Viva (Grupo Telemicro) ist der dritte Betreiber, den die Dominikanische Republik zulässt, und der günstigste – und genau dieser ist zu meiden. Ookla hat für Viva im 1.–2. Quartal 2026 einen Speed Score von **29,27** gemessen — weniger als die Hälfte der Werte von Altice und Claro — und es bleibt in der Praxis ein reines 4G-Netz. Die Prepaid-Pakete von Viva sind die günstigsten auf der Insel, weshalb seine SIM-Karten an Bewohner verkauft werden, die die Stadt nie verlassen, nicht an Besucher, die eine Woche zwischen Resort, Boot und Bergstraße verbringen werden. Wenn Ihnen ein Kiosk eine Viva-SIM anbietet, weil sie am günstigsten ist, fragen Sie, was es sonst noch gibt.
 
 ### Die vollständige Ookla-Wertung aller drei Netze
 
-Der Speedtest Award von Claro im 1.–2. Quartal 2026 ist die Schlagzeile, aber die zugrunde liegenden Zahlen trennen die drei Betreiber deutlich stärker, als das Podium vermuten lässt. Wo Ookla keine Zahl für einen Betreiber veröffentlicht hat, bleibt die Zelle leer, statt geschätzt zu werden.
+Der Speedtest Award von Claro im 1.–2. Quartal 2026 ist die Schlagzeile, aber die zugrunde liegenden Zahlen trennen die drei Betreiber deutlich stärker, als das Podium vermuten lässt – die Dominikanische Republik hat also drei klar unterscheidbare Netze. Wo Ookla keine Zahl für einen Betreiber veröffentlicht hat, bleibt die Zelle leer, statt geschätzt zu werden.
 
 | Metrik | Claro | Altice Dominicana | Viva |
 |:---|:---|:---|:---|
@@ -131,11 +131,11 @@ Der Speedtest Award von Claro im 1.–2. Quartal 2026 ist die Schlagzeile, aber 
 | Medianer Download in Städten, Q1 2024 | — | — | 28 Mbps |
 | Auszeichnung für das schnellste Mobilfunknetz | Q1–Q2 2026 | — | — |
 
-Zwei Werte sind entscheidend. Die Angaben zur **Latenz unter Last** — 698,66 ms im Download und 545,83 ms im Upload — wirken im Vergleich zu einem Festnetz-Breitbandwert zwar beunruhigend, doch die Latenz unter Last misst die Antwortzeit, während die Verbindung ausgelastet ist, und ist der Preis für eine schnelle Funkzelle in einem stark frequentierten Funkmast. Und die Spalte zur **5G-Verfügbarkeit** ist die ehrliche: Selbst bei Claro war ein 5G-fähiges Telefon im Jahr 2024 bei deutlich weniger als der Hälfte seiner Sitzungen tatsächlich im 5G-Netz. Ihre eSIM wird den größten Teil ihrer Lebenszeit im LTE-Netz verbringen, und das ist in Ordnung.
+Zwei Werte sind entscheidend. Die Angaben zur **Latenz unter Last** — 698,66 ms im Download und 545,83 ms im Upload — wirken im Vergleich zu einem Festnetz-Breitbandwert zwar beunruhigend, doch die Latenz unter Last misst die Antwortzeit, während die Verbindung ausgelastet ist, und ist der Preis für eine schnelle Funkzelle in einem stark frequentierten Funkmast. Und die Spalte zur **5G-Verfügbarkeit** ist die ehrliche: Selbst bei Claro war ein 5G-fähiges Telefon im Jahr 2024 bei deutlich weniger als der Hälfte seiner Sitzungen tatsächlich im 5G-Netz. Für die Dominikanische Republik heißt das: Ihre eSIM verbringt den größten Teil ihrer Lebenszeit im LTE-Netz, und das ist in Ordnung.
 
 ### eSIM-Tipps für die Dominikanische Republik nach Reisetyp
 
-| Die Reise | Passender Netzbetreiber | Warum | Achtung bei |
+| Ihre Reise in der Dominikanischen Republik | Passender Netzbetreiber | Warum er passt | Worauf achten |
 |:---|:---|:---|:---|
 | All-inclusive-Woche in Punta Cana oder Bávaro | Claro oder Altice | Beide sind in der Hotelzone stark aufgestellt; der Unterschied ist dort nicht spürbar | Das WLAN im Hotelzimmer ist die Schwachstelle, nicht das Mobilfunknetz |
 | Städtereise in die Kolonialzone von Santo Domingo | Claro | Dichtestes Netz des Landes; 5G in der Zona Colonial und am Malecón | Überlastung an Kreuzfahrttagen und Festivalwochenenden |
@@ -149,7 +149,7 @@ Zwei Werte sind entscheidend. Die Angaben zur **Latenz unter Last** — 698,66 m
 
 ## Dokumentationsregeln für SIM-Karten
 
-Lokale Käufe sind wirklich günstig. Der Aufwand liegt ausschließlich in der Verwaltung, und die einzelnen Schritte im Voraus zu kennen, macht den Großteil der Arbeit aus.
+Lokale Käufe sind in der Dominikanischen Republik wirklich günstig. Der Aufwand liegt ausschließlich in der Verwaltung, und die einzelnen Schritte im Voraus zu kennen, macht den Großteil der Arbeit aus.
 
 ### Gibt es Papierkram für SIM-Karten in der Dominikanischen Republik?
 
@@ -161,9 +161,11 @@ Lokale Käufe sind wirklich günstig. Der Aufwand liegt ausschließlich in der V
 
 Die gleiche Identitätslogik gilt, wenn Sie eine lokale eSIM direkt von Claro oder Altice kaufen: Das Profil ist digital, aber der Papierkram ist nicht optional.
 
+**Rechnung für eine Woche Daten.** Nehmen Sie einen normalen Urlaub von sieben Tagen mit rund zwei Gigabyte pro Tag, also etwa 14 GB. Lokal ist Viva mit RD$145 für sieben Tage am günstigsten, Altice deckt dieselbe Woche mit einem Drei-Tage- und einem Fünf-Tage-*Paquetico* für zusammen RD$238 ab, und Claro verlangt für sein Monatspaket ab RD$1.150, das die Woche mitbezahlt. Legt man den Landesdurchschnitt von 0,79 USD pro GB aus der Cable.co.uk-Erhebung zugrunde, entsprechen 14 GB etwa 11 USD. Der Aufpreis einer Reise-eSIM liegt damit im Bereich einer Restaurantmahlzeit – bezahlt wird er für den Wegfall des Schalters, nicht für die Gigabytes.
+
 ### Claro vs Altice Preise im Vergleich
 
-Gemeldete Prepaid-Preise aus der zusammengestellten Prepaid-Daten-SIM-Preisliste und den Netzbetreiber-Listings:
+Gemeldete Prepaid-Preise, die die Dominikanische Republik derzeit ausweist, aus der zusammengestellten Prepaid-Daten-SIM-Preisliste und den Netzbetreiber-Listings:
 
 | Netzbetreiber | Paket | Preis | Laufzeit |
 |:---|:---|:---|:---|
@@ -180,7 +182,7 @@ Gemeldete Prepaid-Preise aus der zusammengestellten Prepaid-Daten-SIM-Preisliste
 | Viva | Prepaid-Datenpaket | RD$290 | 14 Tage |
 | Viva | Prepaid-Datenpaket | RD$580 | 28 Tage |
 
-Lesen Sie diese Tabelle eher als Form denn als Zitat: Der Einstieg von Claro ist ein Monatstarif, der von Altice ein günstiges Kurzzeitpaket, und Viva setzt komplett auf den Preis. Für einen einwöchigen Urlaub ist die Rechnung mit einer lokalen SIM-Karte ausgezeichnet – sie kostet Sie allerdings einen Schalterbesuch, eine Passkopie und ein Aufladen auf Spanisch an dem Tag, an dem Ihr Paket abläuft.
+Lesen Sie diese Tabelle eher als Form denn als Zitat: Der Einstieg von Claro ist ein Monatstarif, der von Altice ein günstiges Kurzzeitpaket, und Viva setzt komplett auf den Preis – die Dominikanische Republik fährt hier eine klare Drei-Klassen-Strategie. Für einen einwöchigen Urlaub ist die Rechnung mit einer lokalen SIM-Karte ausgezeichnet – sie kostet Sie allerdings einen Schalterbesuch, eine Passkopie und ein Aufladen auf Spanisch an dem Tag, an dem Ihr Paket abläuft.
 
 ### Unterstützt die Dominikanische Republik Ihr Gerätemodell?
 
@@ -191,7 +193,7 @@ Indotel betreibt die **SSN — Sistema de Series Negadas** — eine landesweite 
 - **Wenn Ihre IMEI als gesperrt angezeigt wird**, ist die Lösung administrativ, nicht technisch: Wenden Sie sich an den Netzbetreiber, der die Sperre registriert hat, oder reichen Sie bei Indotel einen Antrag mit Kaufbeleg ein. Das vor Ort in Punta Cana am Schalter zu klären, kostet Sie einen ganzen Tag.
 - **Ein Hinweis:** Die Datenbank spiegelt das dominikanische Register wider. Ein in einem anderen Land auf der schwarzen Liste stehendes Gerät wird hier möglicherweise nicht angezeigt und umgekehrt.
 
-### Die direkte Variante gegenüber einer Reise-eSIM
+### Was die Dominikanische Republik direkt oder per Reise-eSIM bietet
 
 | | Lokale Claro / Altice / Viva-Leitung | Reise-eSIM |
 |:---|:---|:---|
@@ -201,9 +203,9 @@ Indotel betreibt die **SSN — Sistema de Series Negadas** — eine landesweite 
 | Bester Preis | Die günstigsten Gigabytes auf der Insel | Ein einmaliger Preis im Voraus, keine Aufladungen |
 | Ideal für | Aufenthalte von über einem Monat oder alle, die eine dominikanische Nummer benötigen | Reisen von ein bis drei Wochen, bei denen Sie direkt bei der Ankunft verbunden sein möchten |
 
-## Was die Tarife kosten
+## Was die Dominikanische Republik an Dokumenten und Preisen verlangt
 
-### Welche Ausweisdokumente braucht man für den Kauf einer SIM in der Dominikanischen Republik?
+### Welche Ausweisdokumente die Dominikanische Republik beim SIM-Kauf verlangt
 
 Das dominikanische Recht verlangt, dass Prepaid-SIM-Karten auf eine Identität registriert werden. In der Praxis bedeutet das, dass man einen Netzbetreiber-Laden oder einen Schalter am Flughafen mit seinem physischen Reisepass aufsuchen muss: Das Personal kopiert ihn, registriert die Leitung auf den eigenen Namen und fotografiert einen manchmal im Rahmen des Vorgangs. Alle drei Netzbetreiber haben Schalter in den Ankunftshallen der Flughäfen Punta Cana, Las Américas (Santo Domingo) und Gregorio Luperón (Puerto Plata), wobei jedoch mehrere Reisende berichten, dass die Läden in der Stadt günstiger sind als die Kioske am Flughafen. Planen Sie 20–45 Minuten persönlich ein, bei überwiegend spanischsprachigem Kundenservice, bevor Sie Daten haben.
 
@@ -211,19 +213,19 @@ Die gleiche Registrierungslogik gilt, wenn Sie eine lokale eSIM direkt von Claro
 
 ### Der Reise-eSIM-Weg ohne Schalter
 
-Eine Prepaid-Reise-eSIM für die Dominikanischen Republik funktioniert als Roaming-Profil: kein Ladenbesuch, keine Reisepass-Kopie, keine spanischen Formulare. Sie kaufen online, scannen den QR-Code zu Hause und das Profil verbindet sich bei der Ankunft mit den lokalen Netzen. Auf [Roamis Dominikanische-Republik-eSIM-Seite](/dominican-esim/) wählt das Profil den jeweils stärksten verfügbaren Netzbetreiber aus, während Sie unterwegs sind, was wichtig ist, wenn Claro die Berge abdeckt und Altice die Strandzone. Neukunden können die Dominikanische-Republik-eSIM zuerst mit einer [kostenlosen Test-eSIM](/free-esim/) ausprobieren, bevor sie sich festlegen.
+Eine Prepaid-Reise-eSIM für die Dominikanischen Republik funktioniert als Roaming-Profil: kein Ladenbesuch, keine Reisepass-Kopie, keine spanischen Formulare. Sie kaufen online, scannen den QR-Code zu Hause und das Profil verbindet sich bei der Ankunft mit den lokalen Netzen. Auf Roamis Seite zur Dominikanische-Republik-eSIM wählt das Profil den jeweils stärksten verfügbaren Netzbetreiber aus, während Sie unterwegs sind, was wichtig ist, wenn Claro die Berge abdeckt und Altice die Strandzone. Neukunden können die Dominikanische-Republik-eSIM zuerst mit einer [kostenlosen Test-eSIM](/free-esim/) ausprobieren, bevor sie sich festlegen.
 
-## Netzabdeckung der Dominikanischen Republik im Überblick
+## Wie die Dominikanische Republik versorgt ist: die Netzabdeckung im Überblick
 
 Die dominikanische Netzabdeckung folgt den Menschen und Resorts, nicht der Karte. Was das konkret an Ihren Reisezielen bedeutet:
 
-- **Punta Cana und die Ostküste.** Die Hotelzone von Cap Cana über Bávaro bis Uvero Alto gehört zu den am besten ausgebauten Touristenzonen der Karibik, mit 5G von sowohl Claro als auch Altice entlang der Hauptstraße. Die Schwäche ist gerichtet: Fahren Sie nach Norden Richtung Miches oder hinüber nach Samaná, wird das Signal schnell schwächer, sobald die Resorts enden.
+- **Punta Cana und die Ostküste.** Die Hotelzone von Cap Cana über Bávaro bis Uvero Alto versorgt die Dominikanische Republik so gut wie keine zweite Region, mit 5G von sowohl Claro als auch Altice entlang der Hauptstraße. Die Schwäche ist gerichtet: Fahren Sie nach Norden Richtung Miches oder hinüber nach Samaná, wird das Signal schnell schwächer, sobald die Resorts enden.
 - **Santo Domingo.** Die Hauptstadt hat das dichteste Netz des Landes – flächendeckend 5G in der Zona Colonial, am Malecón und in den Geschäftsvierteln. Das Problem ist eher Überlastung als Netzabdeckung: An Kreuzfahrt- und Festtagen müssen Sie in der Altstadt mit sinkenden Geschwindigkeiten rechnen.
 - **Puerto Plata und die Nordküste.** Solide entlang des Korridors Playa Dorada–Stadt–Sosúa. Die Seilbahn auf den Mount Isabel de Torres hat auf dem größten Teil der Strecke Empfang; die Küstengebirgsstraßen westlich Richtung Montecristi nicht.
 - **Santiago und das Cibao-Tal.** Die schnellste Inlandregion, mit beiden großen Netzbetreibern stark in der Stadt.
 - **Samaná und der Südwesten.** Die Ortschaften sind versorgt; die Straßen dazwischen nicht. Laden Sie Offline-Karten herunter, bevor Sie die Schnellstraße verlassen.
 
-Eine Einzelnetz-SIM sperrt Sie in eine Version dieser Karte. Ein Mehranbieter-Profil hängt sich einfach an den jeweils stärksten Anbieter an jedem Stopp, weshalb sich [Roamis Dominikanische-Republik-eSIM](/dominican-esim/) für Reiserouten eignet, die Strand, Hauptstadt und Landesinnere kombinieren.
+Eine Einzelnetz-SIM sperrt Sie in eine Version dieser Karte, die die Dominikanische Republik nur unvollständig abbildet. Ein Mehranbieter-Profil hängt sich einfach an den jeweils stärksten Anbieter an jedem Stopp, weshalb sich eine eSIM für die Dominikanische Republik für Reiserouten eignet, die Strand, Hauptstadt und Landesinnere kombinieren.
 
 ### Die Netzabdeckung Ort für Ort
 
@@ -243,9 +245,9 @@ Eine Einzelnetz-SIM sperrt Sie in eine Version dieser Karte. Ein Mehranbieter-Pr
 | La Romana und Bayahíbe | In beiden Städten auf beiden Netzen gut empfangbar | Ihr letztes zuverlässiges Signal vor Saona oder Catalina |
 | Barahona und der Südwesten (Ruta 44) | Nur in den Ortschaften Netzabdeckung; die Küstenstraße Richtung Süden ist schwach ausgebaut | Tanken Sie voll und besorgen Sie sich eine Karte, bevor Sie Barahona verlassen |
 
-## eSIM-Konnektivität an Kreuzfahrttagen in der Dominikanischen Republik
+## Was die Dominikanische Republik an Kreuzfahrttagen leistet
 
-Ja — mit einem ehrlichen Vorbehalt zum Timing. Die wichtigsten Kreuzfahrthäfen (Amber Cove und Taino Bay in Puerto Plata, Santo Domingo, La Romana, Samaná) liegen alle in Städten mit dichter 4G/5G-Netzabdeckung, sodass Ihnen eine eSIM für die Dominikanische Republik vom Moment des Anlegens an Live-Daten liefert: Uber- und Taxi-Koordination, Google Maps, WhatsApp-Anrufe nach Hause und ein Speedtest zum Beweis. Die Schiffe selbst laufen über Satelliten- oder maritime Netze, nicht über lokale Sendemasten, daher erwarten Sie auf See keine Verbindung und am Pier volle Verbindung.
+Ja — mit einem ehrlichen Vorbehalt zum Timing. Die wichtigsten Kreuzfahrthäfen (Amber Cove und Taino Bay in Puerto Plata, Santo Domingo, La Romana, Samaná) liegen alle in Städten mit dichter 4G/5G-Netzabdeckung, sodass die Dominikanische Republik Ihnen vom Moment des Anlegens an Live-Daten liefert: Uber- und Taxi-Koordination, Google Maps, WhatsApp-Anrufe nach Hause und ein Speedtest zum Beweis. Die Schiffe selbst laufen über Satelliten- oder maritime Netze, nicht über lokale Sendemasten, daher erwarten Sie auf See keine Verbindung und am Pier volle Verbindung.
 
 Die praktische Warnung betrifft den Aktivierungstag. Wenn der erste Halt Ihres Schiffes die Dominikanische Republik ist und Ihre eSIM sich noch nirgendwo verbunden hat, installieren und richten Sie sie besser vor dem Boarding ein, statt am Pier mit lückenhaftem Hafen-WLAN nach Fehlern zu suchen. Installieren Sie das Profil zu Hause über WLAN, lassen Sie es deaktiviert und schalten Sie es ein, sobald Sie dominikanische Sendemasten sehen. Wenn Ihre Reiseroute auf das Festland weitergeht, gilt dieselbe Logik über Grenzen hinweg — eine [USA-eSIM](/united-states-esim/) deckt die Nächte vor oder nach der Kreuzfahrt in Miami oder Fort Lauderdale ab, wo ein nur für die Dominikanische Republik gültiger Tarif ausfällt.
 
@@ -308,9 +310,9 @@ Die Cordillera Central ist die Abenteuerregion des Landes und seine ehrlichste F
 - Geben Sie jemandem an Land den Namen des Bootes und die voraussichtliche Rückkehrzeit durch.
 - Stellen Sie Ihr Telefon auf einen Energiesparmodus; auf dem Wasser nach Signal zu suchen entlädt einen Akku schneller als fast alles andere.
 
-## Dimensionierung Ihres Datentarifs
+## Wie viel Datenvolumen die Dominikanische Republik erfordert
 
-Jede Transport-App im Land braucht Live-Daten genau in dem Moment, in dem Sie an einer Straßenecke stehen. Das ist der praktische Test Ihrer Konnektivität.
+Jede Transport-App, mit der Sie durch die Dominikanische Republik fahren, braucht Live-Daten genau in dem Moment, in dem Sie an einer Straßenecke stehen. Das ist der praktische Test Ihrer Konnektivität.
 
 | App | Wo es funktioniert | Was es Sie in der Praxis kostet |
 |:---|:---|:---|
@@ -321,7 +323,7 @@ Jede Transport-App im Land braucht Live-Daten genau in dem Moment, in dem Sie an
 
 Zwei Regeln sind zu beachten. Erstens: Installieren Sie beide Apps und melden Sie sich an, bevor Sie fliegen — die Kontoeinrichtung und Kartenverifikation benötigen eine stabile Verbindung, und Roaming-Daten in der Ankunftshalle sind der falsche Ort dafür. Zweitens: Rechnen Sie in Punta Cana speziell mit Widerständen durch die Taxiunion: lokale Verbände haben Vereinbarungen mit Hotels und Flughafen, und App-Abholungen sind an einigen Gates eingeschränkt. Falls ein Uber Sie nicht erreichen kann, ist inDrive plus Bargeld die übliche Lösung außerhalb der Resortzone, und ein Touristentaxi zum Festpreis ist die Lösung innerhalb der Zone.
 
-## 5G-Netzabdeckung im Vergleich der drei Betreiber
+## Wo die Dominikanische Republik schon 5G ausstrahlt: die drei Betreiber im Vergleich
 
 Beide großen Netzbetreiber haben 5G auf dem Band **n78 (3,5 GHz)** ausgerollt, weshalb die gemessenen 5G-Geschwindigkeiten hoch sind und die Netzabdeckungs-Inseln klein. Das ehrliche Bild:
 
@@ -330,22 +332,22 @@ Beide großen Netzbetreiber haben 5G auf dem Band **n78 (3,5 GHz)** ausgerollt, 
 - **Was 4G liefert:** Die dominikanische 4G-Schicht ist schnell und weit verbreitet, und sie ist es, was Sie für Karten, Ride-Hailing und Anrufe nutzen werden.
 - **Was das für den Kauf bedeutet:** Zahlen Sie keinen Aufpreis für die Buchstaben 5G. Zahlen Sie für Netzabdeckung dort, wo Sie hinfahren, und lassen Sie das Telefon 5G nehmen, wenn es eines findet.
 
-## Wo kaufen
+## Wo kaufen: die Dominikanische Republik als Kreuzfahrt-Stopp
 
 Die Dominikanische Republik ist ein Stopp der üblichen Ostkaribik-Route, und ein reines Länderprofil läuft am nächsten Hafen ab. Die Muster, die es wert sind, geplant zu werden:
 
-- **San Juan und die US-Jungferninseln.** Ein reiner DR-Tarif stirbt am Pier. Eine [Puerto-Rico-eSIM](/puerto-rico-esim/) deckt den US-Territorium-Abschnitt ohne Roaming-Überraschung ab.
-- **Die Bahamas und Jamaika.** Beide häufig auf denselben Routen; separate Profile für [die Bahamas](/bahamas-esim/) und [Jamaika](/jamaica-esim/) halten die gesamte Route abgedeckt.
+- **San Juan und die US-Jungferninseln.** Ein reiner DR-Tarif stirbt am Pier. Eine Puerto-Rico-eSIM deckt den US-Territorium-Abschnitt ohne Roaming-Überraschung ab.
+- **Die Bahamas und Jamaika.** Beide häufig auf denselben Routen; separate Profile für die Bahamas und Jamaika halten die gesamte Route abgedeckt.
 - **Nächte vor und nach der Kreuzfahrt in Florida.** Miami und Fort Lauderdale sind die üblichen Einschiffungsstädte, und eine [US-eSIM](/united-states-esim/) kümmert sich um diese Nächte.
 - **Ein Profil statt vier verwenden.** Ein [Nordamerika-Tarif](/north-america-esim/) deckt die USA, Kanada und Mexiko mit einem einzigen Profil ab, was einfacher ist, als Ländertickets zu stapeln, wenn Ihre Route den Kontinent hinaufführt.
 
-Installieren Sie jedes Profil, das Sie besitzen, bevor Sie an Bord gehen. Das Satelliten-WLAN auf Schiffen ist der schlechteste Ort, um eine eSIM herunterzuladen, und Sie haben an den Anlaufhäfen ungefähr vier Stunden, um es falsch zu machen.
+Installieren Sie jedes Profil, das Sie besitzen, bevor Sie an Bord gehen und die Dominikanische Republik verlassen. Das Satelliten-WLAN auf Schiffen ist der schlechteste Ort, um eine eSIM herunterzuladen, und Sie haben an den Anlaufhäfen ungefähr vier Stunden, um es falsch zu machen.
 
 ## Ist Ihr Gerät geeignet?
 
 Dominikanisches 5G läuft hauptsächlich auf dem Band n78 (3,5 GHz), mit 4G LTE auf den Bändern 2, 4, 7 und 28. US-Geräte beherrschen dies nativ — das Land teilt die Landesvorwahl +1-809/829/849 mit Nordamerika — während einige europäische und asiatische Geräte ein oder zwei Bänder nicht haben und einfach auf LTE zurückfallen, was in Städten in Ordnung und auf Landstraßen langsamer ist. Die zwei Prüfungen, die tatsächlich entscheiden, ob Ihre Dominikanische-Republik-eSIM funktioniert: Das Telefon ist nicht netzbetreiber-gesperrt, und es hat eine EID (wählen Sie `*#06#` zur Bestätigung). Prüfen Sie Ihr genaues Modell in der [eSIM-Kompatibilitätsliste](/compatibility/), statt aus den Bandtabellen zu raten.
 
-Eine dominikanische Besonderheit: Indotel betreibt einen öffentlichen IMEI-Prüfdienst, damit Sie den Status eines Geräts im Register des Landes verifizieren können — nützlich, wenn Sie ein gebrauchtes Telefon mitführen. Und eine Anmerkung zu „unbegrenzten“ Tarifen, ob lokal oder für Reisen: Die meisten haben eine Fair-Usage-Grenze, nach der die Geschwindigkeit stark sinkt, also passen Sie das Datenvolumen an die Reisedauer an, statt anzunehmen, dass „unbegrenzt“ tatsächlich ohne Limit bedeutet.
+Eine dominikanische Besonderheit: Indotel betreibt einen öffentlichen IMEI-Prüfdienst, damit Sie den Status eines Geräts im Register des Landes verifizieren können — nützlich, wenn Sie ein gebrauchtes Telefon mitführen. Und eine Anmerkung zu „unbegrenzten“ Tarifen, die die Dominikanische Republik anbietet: Die meisten haben eine Fair-Usage-Grenze, nach der die Geschwindigkeit stark sinkt, also passen Sie das Datenvolumen an die Reisedauer an, statt anzunehmen, dass „unbegrenzt“ tatsächlich ohne Limit bedeutet.
 
 ### APN-Werte der dominikanischen Netze
 
@@ -360,20 +362,20 @@ Bei den Produkten, die Reisende tatsächlich kaufen, werden Sie diese fast nie a
 
 **Wenn ein manueller APN den Aufwand wirklich lohnt:**
 
-- Ein älteres Gerät, das die Netzbetreiber-Einstellungen nicht automatisch übernimmt
-- Ein Profil, das über einen manuellen Aktivierungscode statt per QR-Scan installiert wurde
+- Ein älteres Handy, das die Altice- oder Claro-Konfiguration nicht von selbst übernimmt
+- Ein Profil, das Sie bei Claro oder Altice per manuellem Aktivierungscode statt per QR-Scan eingerichtet haben
 - Eine im Laden ausgegebene Prepaid-Karte, bei der die automatische Konfiguration nicht durchgelaufen ist
 
-**Wo sich die Felder befinden:**
+**So erreichen Sie die APN-Felder bei einem Claro- oder Altice-Profil:**
 
 - **iPhone:** Einstellungen → Mobilfunk → die DR-Zeile → Mobilfunkdaten-Netzwerk → APN eingeben, dann neu starten
 - **Android:** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunktnamen → APN hinzufügen und speichern
 
 Bestätigen Sie nach jeder Änderung, dass die eSIM – und nicht Ihre Heim-SIM – als Datenleitung ausgewählt ist. In neun von zehn Fällen steckt hinter dem „APN-Problem“ ein Datenleitungs-Problem.
 
-## Ihre Dominikanische-Republik-eSIM ohne Drama aktivieren
+## Wie Sie die Dominikanische Republik per eSIM ohne Drama aktivieren
 
-Installieren Sie Ihre Dominikanische-Republik-eSIM vor dem Abflug. Das WLAN an den Flughäfen Punta Cana und Santo Domingo ist genau dann überlastet, wenn alle anderen ebenfalls Profile herunterladen wollen, und die Installation selbst dauert im heimischen WLAN zwei Minuten. Die komplette Abfolge – QR-Code scannen, Leitung benennen, eSIM als Datenleitung festlegen, Datenroaming aktivieren – finden Sie im [Aktivierungshandbuch](/faq/how-to-activate-an-esim/). Datenroaming muss aktiviert sein, damit sich die eSIM mit Claro oder Altice verbinden kann; das belastet nicht Ihren heimischen Netzbetreiber, es erlaubt dem Reise-Profil lediglich, sich zu verbinden.
+Installieren Sie eine eSIM für die Dominikanische Republik vor dem Abflug. Das WLAN an den Flughäfen Punta Cana und Santo Domingo ist genau dann überlastet, wenn alle anderen ebenfalls Profile herunterladen wollen, und die Installation selbst dauert im heimischen WLAN zwei Minuten. Die komplette Abfolge – QR-Code scannen, Leitung benennen, eSIM als Datenleitung festlegen, Datenroaming aktivieren – finden Sie im [Aktivierungshandbuch](/faq/how-to-activate-an-esim/). Datenroaming muss aktiviert sein, damit sich die eSIM mit Claro oder Altice verbinden kann; das belastet nicht Ihren heimischen Netzbetreiber, es erlaubt dem Reise-Profil lediglich, sich zu verbinden.
 
 ### So installieren Sie Ihre Dominikanische-Republik-eSIM
 
@@ -382,14 +384,14 @@ Fünf Minuten zu Hause klären nahezu jedes Problem mit Ihrer Dominikanische-Rep
 | # | Prüfen | Was „gut“ bedeutet |
 |:---|:---|:---|
 | 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | Auf dem Bildschirm „Info“ wird die Netzbetreiber-Sperre als „Keine SIM-Einschränkungen“ angezeigt |
-| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder die [Gerätekompatibilitätsliste](/compatibility/) bestätigt Ihr Modell |
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud |
+| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder die Geräteliste für eSIM-Handys Ihr Modell bestätigt |
+| 3 | QR-Code und Aktivierungscode gesichert | Screenshot auf dem Telefon plus Kopie in der Cloud – die Codes gelten einmalig |
 | 4 | Profil vor der Abreise installiert | Über das heimische WLAN installiert, deaktiviert gelassen, bis Sie landen |
 | 5 | Datenleitung und Roaming einstellen | eSIM für mobile Daten ausgewählt, Daten-Roaming nur für diese Leitung aktiviert |
 | 6 | Offline-Karten heruntergeladen | Google-Maps-Offline-Gebiet für die Dominikanische Republik, plus Samaná und die Cordillera, falls Sie mit dem Auto unterwegs sind |
 | 7 | Ride-Hailing-Apps installiert und angemeldet | Uber oder inDrive mit einer funktionierenden Zahlungsmethode angemeldet |
 
-### Die Aktivierungsreihenfolge im Detail
+### Was die Dominikanische Republik bei der Aktivierung anders macht
 
 Die allgemeine Installationsreihenfolge – eSIM hinzufügen, QR-Code scannen, Leitung bezeichnen, als Datenleitung festlegen, Datenroaming aktivieren – wird in unserem [eSIM-Aktivierungs-Leitfaden](/faq/how-to-activate-an-esim/) behandelt. Was in der Dominikanischen Republik abweicht:
 
@@ -402,55 +404,57 @@ Die allgemeine Installationsreihenfolge – eSIM hinzufügen, QR-Code scannen, L
 
 Allgemeine Aktivierungsfehler – ein Profil, das sich nicht herunterladen lässt, ein fehlgeschlagener Scan, eine eSIM, die installiert wird, sich aber nie registriert – werden in unserem [Leitfaden für Aktivierungsfehler](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Die für diesen Markt typischen Muster:
 
-**A. Die eSIM lässt sich nicht installieren**
-1. Überprüfen Sie unter Einstellungen → Allgemein → Info, ob das Telefon nicht an einen Netzbetreiber gebunden ist.
-2. Überprüfen Sie das QR-Bild erneut – ein bereits gescannter Code funktioniert nicht ein zweites Mal.
-3. Bitten Sie den Anbieter, den Status des Profils zu prüfen und bei Blockade einen Ersatz auszustellen.
+**A. Das Profil landet nie auf dem Telefon**
+1. Prüfen Sie unter Einstellungen → Allgemein → Info, ob das Gerät an einen Netzbetreiber gebunden ist – ein gesperrtes Handy lehnt jede Claro-, Altice- oder Viva-Konfiguration ab.
+2. Nutzen Sie das QR-Bild nur einmal: Profile für die Dominikanische Republik werden pro Ausstellung registriert, und ein zweiter Scan desselben Codes scheitert.
+3. Lassen Sie das Profil neu ausstellen, wenn die Auslieferung im Status „pending“ hängen bleibt.
 
-**B. Installiert, aber keine Signalbalken**
-1. Überprüfen Sie den Sperrstatus erneut.
-2. Einstellungen → Mobilfunk → Netzauswahl → wählen Sie Claro, Altice oder Viva manuell statt automatisch aus.
-3. Vollständiges Zurücksetzen der Netzwerkeinstellungen, dann ein weiterer Neustart.
+**B. Profil sichtbar, aber kein einziger Balken**
+1. Kontrollieren Sie im SIM-Manager, ob das Claro-, Altice- oder Viva-Profil überhaupt eingeschaltet ist – ein deaktiviertes Profil zeigt keine Balken.
+2. Einstellungen → Mobilfunk → Netzauswahl → wählen Sie Claro oder Altice manuell statt „Automatisch“; Viva bleibt in vielen Zonen unsichtbar.
+3. Setzen Sie die Netzwerkeinstellungen zurück und starten Sie das Gerät danach neu.
 
-**C. Signalbalken, aber keine Daten**
-1. Legen Sie das DR-Profil als die Leitung fest, die mobile Daten überträgt.
-2. Aktivieren Sie Roaming nur für die DR-Leitung und lassen Sie das Roaming Ihrer Heimleitung ausgeschaltet.
-3. Überprüfen Sie das verfügbare Datenvolumen. Ein aufgebrauchtes Datenpaket zeigt zwar Balken, aber nichts dahinter; eine frische lokale Prepaid-Leitung kann Balken anzeigen, bevor die Registrierung abgeschlossen ist.
+**C. Balken stehen, aber die Datenleitung bleibt stumm**
+1. Weisen Sie das DR-Profil ausdrücklich als die Leitung zu, die mobile Daten überträgt.
+2. Schalten Sie Datenroaming nur auf dieser Leitung ein und lassen Sie die Heimatleitung ausgeschaltet.
+3. Prüfen Sie das Restvolumen: Ein leeres *Paquetico* zeigt Balken ohne Durchsatz, und eine frisch registrierte Claro-Leitung sendet manchmal Balken, bevor Indotel die Registrierung verbucht hat.
 
-**D. „SOS“ oder „Nur Notrufe“**
+**D. Anzeige „SOS“ oder „Nur Notrufe“**
 1. Stellen Sie sicher, dass das DR-Profil im SIM-Manager Ihres Telefons aktiviert ist.
 2. Deaktivieren Sie die Daten Ihrer Heimleitung oder entfernen Sie andere Profile, während sich das DR-Profil einbucht.
-3. Starten Sie das Gerät neu und setzen Sie die Netzwerkeinstellungen zurück.
+3. Starten Sie das Gerät neu und setzen Sie anschließend die Netzwerkeinstellungen zurück.
 4. Letzter Schritt: Entfernen Sie das Profil und fügen Sie es mit einem neuen QR-Code Ihres Anbieters erneut hinzu.
 
-Wenn Sie gerade unterwegs sind – auf einem Katamaran nach Saona, in der Damajagua-Schlucht, über Jarabacoa – dann sagt Ihnen die Anzeige die Wahrheit. Kein Profil repariert die Physik; die Verbindung kehrt mit der Küste zurück.
+Wenn Sie gerade durch die Dominikanische Republik unterwegs sind – auf einem Katamaran nach Saona, in der Damajagua-Schlucht, über Jarabacoa –, dann sagt Ihnen die Anzeige die Wahrheit. Kein Profil repariert die Physik; die Verbindung kehrt mit der Küste zurück.
 
 ### Was Sie vor dem Support-Anruf zusammentragen
 
 | Informationen | Wo Sie diese finden |
 |:---|:---|
-| Bestell- oder Kontoreferenz | Bestätigungs-E-Mail |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Über das Gerät |
+| Bestell- oder Kontoreferenz des Anbieters | Bestätigungs-E-Mail aus dem Kauf |
+| Handy-Modell und iOS-/Android-Version | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
 | EID | `*#06#` |
 | IMEI | `*#06#` — und bei einem gebrauchten Gerät empfiehlt sich ein Abgleich mit dem Indotel-Register |
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
-| Aktuelle APN- und Datenleitungseinstellungen | Einstellungen → Mobiles Datennetz |
-| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Screenshot des Fehlers | Noch im Fehlerdialog aufnehmen – der Nachweis, den Claro oder Altice im Service-Chat zuerst sehen will |
+| Aktuelle APN- und Datenleitungseinstellungen | Einstellungen → Mobiles Datennetz → die DR-Leitung |
+| Datenroaming-Status | Einstellungen → Mobilfunk → die DR-Leitung (nur hier muss Roaming an sein) |
+| Bereits versuchte Schritte | Kurz halten: welche Netzwahl, welches Profil, welcher Neustart |
 
-## Häufige Fragen zu eSIMs und Netzbetreibern in der Dominikanischen Republik
+## Häufige Fragen zu den eSIMs und Netzbetreibern, die die Dominikanische Republik versorgen
 
 ### Wird für dominikanische SIM-Karten eine Identifizierung benötigt?
 
 Nur wenn Sie direkt bei einem dominikanischen Netzbetreiber kaufen — Indotel verlangt, dass Prepaid-Verträge auf eine Identität registriert werden, daher kopieren Läden und Flughafenschalter Ihren Reisepass. Eine Reise-eSIM ist ein Roaming-Profil, das online vor dem Flug gekauft wird; eine persönliche Registrierung, die man umgehen könnte, gibt es also nicht.
 
-### Welcher Netzbetreiber versorgt den größten Teil der Dominikanischen Republik?
+### Welcher Netzbetreiber versorgt die Dominikanische Republik am breitesten?
 
-Altice und Claro sind in der Resortzone beide hervorragend, mit 5G entlang der Hauptachse. Claro schneidet besser ab, sobald man diese verlässt — Richtung Miches, Higüey oder die Straße nach Samaná — weshalb es die sicherere Wahl für ein einzelnes Netz ist.
+In der Resortzone sind beide hervorragend; die Dominikanische Republik bietet dort mit Altice und Claro 5G entlang der Hauptachse. Claro schneidet besser ab, sobald man diese verlässt — Richtung Miches, Higüey oder die Straße nach Samaná — weshalb es die sicherere Wahl für ein einzelnes Netz ist.
 
 ### Lohnt sich der Aufpreis einer Reise-eSIM?
 
-Lokales Prepaid-Datenvolumen kostet im Durchschnitt etwa 0,79 USD pro GB (Cable.co.uk, Platz 80 von 237), und bei Reise-eSIMs zahlen Sie mehr für die sofortige Bereitstellung und den Zugang zu mehreren Netzen. Vergleichen Sie beide auf der [eSIM-Tarifseite](/dominican-esim/), bevor Sie entscheiden.
+Lokales Prepaid-Datenvolumen kostet im Durchschnitt etwa 0,79 USD pro GB (Cable.co.uk, Platz 80 von 237), und bei Reise-eSIMs zahlen Sie mehr für die sofortige Bereitstellung und den Zugang zu mehreren Netzen.
+
+**Die ehrliche Grenze.** Dieser Guide ersetzt kein Prepaid-Paket für einen Aufenthalt von mehreren Monaten: Wer länger als vier Wochen bleibt, eine dominikanische Nummer braucht und den Schalterbesuch nicht scheut, fährt mit einer registrierten Claro- oder Altice-Prepaidkarte pro Gigabyte günstiger. Für ein bis drei Wochen Urlaub kippt die Rechnung dagegen zugunsten der Reise-eSIM, weil Zeit und Papierkram den Cent-Unterschied pro Gigabyte aufwiegen. Vergleichen Sie beide auf der eSIM-Tarifseite, bevor Sie entscheiden.
 
 ### Reicht das WLAN des Hotels statt einer eSIM?
 
@@ -462,11 +466,11 @@ Ja. Lassen Sie Ihre Heim-SIM für Anrufe und SMS-Verifizierung aktiv und nutzen 
 
 ### Funktioniert die eSIM in den Bergen der Cordillera?
 
-Claro versorgt die Orte der Cordillera Central gut; die Fahrten dazwischen sind in jedem Netz lückenhaft. Wenn die Berge das Ziel Ihrer Reise sind, ist ein Multi-Netz-Profil mehr wert als jeder Einzelnetz-Tarif.
+Die Dominikanische Republik wird in den Orten der Cordillera Central von Claro gut versorgt; die Fahrten dazwischen sind in jedem Netz lückenhaft. Wenn die Berge das Ziel Ihrer Reise sind, ist ein Multi-Netz-Profil mehr wert als jeder Einzelnetz-Tarif.
 
-### Gibt es in der Dominikanischen Republik schon flächendeckend 5G?
+### Ist die Dominikanische Republik schon flächendeckend mit 5G versorgt?
 
-Ja, in den Zentren. Claro und Altice haben 5G in Santiago, Punta Cana und anderen Tourismus- und Wirtschaftszentren ausgebaut, obwohl der Großteil des Landes weiterhin mit schnellem 4G läuft. Die 2024er Messung von Ookla ergab für Claro einen medianen 5G-Download von 185 Mbps, wo 5G verfügbar ist.
+Ja, in den Zentren. Claro und Altice haben 5G in Santiago, Punta Cana und anderen Tourismus- und Wirtschaftszentren ausgebaut, obwohl die Dominikanische Republik abseits dieser Zentren weiterhin mit schnellem 4G läuft. Die 2024er Messung von Ookla ergab für Claro einen medianen 5G-Download von 185 Mbps, wo 5G verfügbar ist.
 
 ### Brauchen Kreuzfahrtpassagiere überhaupt eine dominikanische SIM?
 
@@ -476,7 +480,7 @@ Wenn die Dominikanische Republik ein Halt von mehreren ist, ist eine regionale o
 
 Ja, und genau deshalb lohnt es sich, eine dabeizuhaben. Amber Cove hat keinen Fußgängerausgang und lässt Ride-Hailing-Abholungen per App nicht zu; Ihr Handy ist also nötig, um das regulierte Taxi zu organisieren und zu bestätigen, den Treffpunkt für den Ausflug zu prüfen und nach Hause zu schreiben — und das hauseigene WLAN des Hafens ist ein kostenpflichtiges Angebot, keine Gratisleistung.
 
-### Sind 20 GB für die Dominikanische Republik überdimensioniert?
+### Was passiert in der Dominikanischen Republik, wenn Ihr Datenvolumen aufgebraucht ist?
 
 Reise-eSIMs hören einfach auf, wenn das Volumen aufgebraucht ist, und Sie können online in Minuten nachladen. Lokale Unlimited-Tarife drosseln in der Regel nach einer Fair-Use-Grenze auf eine reduzierte Geschwindigkeit, statt ganz abzuschalten.
 
@@ -488,7 +492,7 @@ Die meisten Telefone speichern mehrere Profile, aktiv jedoch jeweils nur eine Da
 
 Im Schnitt 0,79 USD — lokale Daten gehören damit zu den günstigsten der Karibik, und die Prepaid-Pakete sind entsprechend preiswert. Addiert man die Reisepass-Registrierung, die Warteschlange am Schalter auf Spanisch, den Aufladerhythmus und die Einzelnetz-Beschränkung, schrumpft der Unterschied für eine ein- bis zweiwöchige Reise deutlich. Bei einem Monat Aufenthalt kaufen Sie lokal.
 
-## Quellen und Netzkennzahlen dieses Guides
+## Quellen und Netzkennzahlen für die Dominikanische Republik
 
 - Der Speed Score von Claro mit 67,59, der mediane Download von 169,96 Mbps, der mediane Upload von 15,48 Mbps, die Latenzwerte unter Last und der karibikweite Titel stammen alle aus dem [Q1–Q2 2026 Speedtest Award-Bericht von Ookla](https://www.ookla.com/research/reports/award-report-2026-q1-q2-fastest-mobile-network-claro-dominican-republic).
 - Der nationale Median von 125,69 Mbps und das Weltranking werden monatlich im [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/dominican-republic) aktualisiert.
@@ -502,14 +506,14 @@ Im Schnitt 0,79 USD — lokale Daten gehören damit zu den günstigsten der Kari
 
 Betrachten Sie jede Zahl hier als datierte Drittquellenmessung und nicht als Live-Garantie; Netzabdeckung und Geschwindigkeit ändern sich mit Ausbau und Auslastung.
 
-## Umgehen Sie den Schalter in Punta Cana
+## Umgehen Sie den Schalter: die Dominikanische Republik ohne Filialbesuch
 
-Installieren Sie Ihre Dominikanische-Republik-eSIM zu Hause, statt sich für eine Reisepasskopie anzustellen, und landen Sie bereits online bei Claro, Altice oder Viva — je nachdem, welches Netz dort am stärksten ist, wo Sie gerade stehen.
+Installieren Sie eine eSIM für die Dominikanische Republik zu Hause, statt sich für eine Reisepasskopie anzustellen, und landen Sie bereits online bei Claro, Altice oder Viva – je nachdem, welches Netz dort am stärksten ist, wo Sie gerade stehen.
 
 [Dominikanische eSIM kaufen](/dominican-esim/)
 
 *Angebot für Erstkäufer*
 
-[Kostenlose Test-eSIM](/free-esim/)
+Kostenlose Test-eSIM
 
-Wo auch immer Sie in der Dominikanischen Republik landen, Roami hat eine Abkürzung: eine [kostenlose Test-eSIM](/free-esim/) für dieselben Netze und **WEB20** für 20 % Rabatt auf Ihren ersten kostenpflichtigen Tarif.
+Wo auch immer Sie in der Dominikanischen Republik landen, Roami hat eine Abkürzung: eine [kostenlose Test-eSIM](/free-esim/) für dieselben Netze und **WEB20** für 20 % Rabatt auf Ihren ersten Tarif für die Dominikanische Republik.

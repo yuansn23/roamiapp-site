@@ -2,7 +2,7 @@
 
 title: "Ägypten-eSIM-Netzbetreiber: Vodafone, e&, Orange und WE"
 
-description: "In Ägypten müssen Sie eine SIM-Karte in einer Filiale registrieren. Roami vergleicht Vodafone, Orange und WE – und die eSIM-Option, mit der Sie die Warteschlange umgehen."
+description: "Ägypten eSIM im Vergleich: Vodafone, e&, Orange und WE nach Netzabdeckung, Registrierungspflicht und Preisen für Ihre Reise."
 image: "img/esim/carriers/egypt-esim-carrier-guide.jpg"
 
 date: "2026-09-26T06:57:13+00:00"
@@ -38,7 +38,7 @@ hero_subtitle_main: "Ägyptens Netzbetreiber auf dem Papier im Vergleich zur Pra
 
 
 
-**Schnelle Antwort:** Kaufen Sie zu Hause, installieren Sie sie im Flugzeug, und wählen Sie Etisalat oder WE je nachdem, ob Ihre Route eher ländlich oder städtisch ist – der vollständige Vergleich unten zeigt, welcher Anbieter zu welcher Kategorie gehört. Die meisten Ägypten-Reisenden vergessen einen Schritt – der [Kompatibilitätscheck](/compatibility/) deckt das ab.
+**Schnelle Antwort:** Kaufen Sie zu Hause, installieren Sie sie im Flugzeug, und wählen Sie Etisalat oder WE je nachdem, ob Ihre Route eher ländlich oder städtisch ist – der vollständige Vergleich unten zeigt, welcher Anbieter zu welcher Kategorie gehört. Die meisten Ägypten-Reisenden vergessen einen Schritt – ein Kompatibilitätscheck deckt das ab.
 
 
 
@@ -58,7 +58,7 @@ Zusätzlich registriert Ägypten die Telefone selbst. Seit 2025 betreibt das Lan
 
 
 
-One weitere Eigenheit, die Sie kennen sollten, bevor Sie wählen: auf lokal registrierten ägyptischen Leitungen werden Voice-over-IP-Anrufe – insbesondere WhatsApp-Sprach- und Videoanrufe – häufig gedrosselt oder blockiert, eine Richtlinie, die in ägyptischen Netzen seit Jahren berichtet wird. Reise-eSIM-Datenverkehr wird über ausländische Roaming-Gateways geleitet, sodass WhatsApp-Anrufe normal funktionieren – und in einem Land, in dem WhatsApp der Weg ist, Ihren Reiseleiter, Fahrer und Ihr Hotel zu kontaktieren, ist das wichtig.
+Eine weitere Eigenheit, die Sie kennen sollten, bevor Sie wählen: auf lokal registrierten ägyptischen Leitungen werden Voice-over-IP-Anrufe – insbesondere WhatsApp-Sprach- und Videoanrufe – häufig gedrosselt oder blockiert, eine Richtlinie, die in ägyptischen Netzen seit Jahren berichtet wird. Reise-eSIM-Datenverkehr wird über ausländische Roaming-Gateways geleitet, sodass WhatsApp-Anrufe normal funktionieren – und in einem Land, in dem WhatsApp der Weg ist, Ihren Reiseleiter, Fahrer und Ihr Hotel zu kontaktieren, ist das wichtig.
 
 
 
@@ -114,7 +114,7 @@ Vier Anbieter besitzen eine ägyptische Mobilfunklizenz, alle werden von der NTR
 
 
 
-| | -0- Ägypten | Etisalat Misr (e& Ägypten) | 0– Ägypten | WE (Telecom Egypt) |
+| | Vodafone Ägypten | Etisalat Misr (e& Ägypten) | Orange Ägypten | WE (Telecom Egypt) |
 
 |:---|:---|:---|:---|:---|
 
@@ -126,7 +126,7 @@ Vier Anbieter besitzen eine ägyptische Mobilfunklizenz, alle werden von der NTR
 
 | Bekannteste Stärke | Resorts am Roten Meer und entlang des Niltals | Kairo, Alexandria, Suezkanal-Zone | Geschwindigkeiten in Kairo, Luxor, Assuan | Landesweite Netzabdeckung, mit einer Bewertung von Speedtest Nutzern als top eingestuft (4,20/5) |
 
-| ViBesucherurteil | Sicherste Einzelnetzwahl für eine vollständige Rundreise | Solide Alternative in städtischen Gebieten | Gute Leistung im Niltal | Starke Messwerte, in einigen Resorts etwas dünner |
+| Besucherurteil | Sicherste Einzelnetzwahl für eine vollständige Rundreise | Solide Alternative in städtischen Gebieten | Gute Leistung im Niltal | Starke Messwerte, in einigen Resorts etwas dünner |
 
 
 
@@ -138,7 +138,7 @@ Derselbe Bericht bewertete auch die ägyptischen Städte: **Luxor** erreichte mi
 
 
 
-### Vodafone vs Etisalat: Welcher ist besser in Ägypten?
+### Vodafone Ägypten: der Netzbetreiber der klassischen Rundreise
 
 
 
@@ -158,7 +158,7 @@ Vodafone ist der Netzbetreiber, auf den Sie setzen sollten, wenn Ihre Reiseroute
 
 
 
-### Vodafone vs Etisalat: Welcher ägyptische Netzbetreiber ist schneller?
+### Orange Ägypten: der starke Zweite im Niltal
 
 
 
@@ -256,7 +256,7 @@ Die Lücken verraten etwas: Vodafones Abwesenheit ist ein Messartefakt, kein Urt
 
 
 
-| Ihre Reise | Bestes Netz | Warum | Vorsicht vor |
+| Ihre Ägypten-Reise | Bestes Netz | Warum | Vorsicht vor |
 
 |:---|:---|:---|:---|
 
@@ -324,7 +324,7 @@ Die frühen Ergebnisse waren deutlich: Der nationale Median sprang von 46,42 Mbp
 
 
 
-### Vodafone vs Etisalat 5G: welches ist besser in Ägypten?
+### Wie sich Ägyptens 5G im ersten Jahr entwickelt hat
 
 
 
@@ -350,7 +350,7 @@ Die Folgeanalyse von Ookla zum ersten 5G-Jahr Nordafrikas ist das nützlichste D
 
 
 
-Der **konstante** 5G-Pfad Ägyptens war der beständigste in der gesamten Region: Das Netz war bereits am ersten Tag nahe seiner Kapazitätsgrenze, hatte also wenig zu verlieren, als die Nutzung stieg. Das hat zwei Seiten. Die gute Nachricht: Was Sie messen, entspricht weitgehend dem, was Sie bekommen — Ägyptens 5G ist kein Spitzenwert, der in sich zusammenfällt, sobald ein zweites Telefon zur Funkzelle hinzukommt. Die weniger gute Nachricht: Die Obergrenze selbst ist nach regionalen Maßstäben bescheiden, und Ägypens 4G-Schicht maß nach dem 5G-Start **17 % langsamer**, da der Datenverkehr auf gemeinsame Kapazitäten wanderte.
+Der **konstante** 5G-Pfad Ägyptens war der beständigste in der gesamten Region: Das Netz war bereits am ersten Tag nahe seiner Kapazitätsgrenze, hatte also wenig zu verlieren, als die Nutzung stieg. Das hat zwei Seiten. Die gute Nachricht: Was Sie messen, entspricht weitgehend dem, was Sie bekommen — Ägyptens 5G ist kein Spitzenwert, der in sich zusammenfällt, sobald ein zweites Telefon zur Funkzelle hinzukommt. Die weniger gute Nachricht: Die Obergrenze selbst ist nach regionalen Maßstäben bescheiden, und Ägyptens 4G-Schicht maß nach dem 5G-Start **17 % langsamer**, da der Datenverkehr auf gemeinsame Kapazitäten wanderte.
 
 
 
@@ -380,7 +380,7 @@ Was das Station für Station bedeutet:
 
 
 
-Bei einer Reiseroute wie dieser ist ein Profil, das in jeder Stadt das stärkste ägyptische Netz neu auswählt, besser als eine Einzelnetzbetreiber-SIM — so verhält sich [die Ägypten-eSIM von Roami](/egypt-esim/). Und falls Ihre Reise weiter durch die Region führt, decken unsere [Jordanien-eSIM-Anleitung](/carriers/jordan-esim-carrier-guide/), [UAE-Reise-eSIM](/united-arab-emirates-esim/) und [Saudi-Arabien-eSIM-Anleitung](/carriers/saudi-arabia-esim-carrier-guide/) den Rest der Route am Roten Meer ab.
+Bei einer Reiseroute wie dieser ist ein Profil, das in jeder Stadt das stärkste ägyptische Netz neu auswählt, besser als eine Einzelnetzbetreiber-SIM — so verhält sich die Ägypten-eSIM von Roami. Und falls Ihre Reise weiter durch die Region führt, decken unsere Jordanien-Anleitung, die [UAE-Reise-eSIM](/united-arab-emirates-esim/) und die Saudi-Arabien-Anleitung den Rest der Route am Roten Meer ab.
 
 
 
@@ -458,7 +458,7 @@ Marsa Alam ist ruhiger, exklusiver und das am weitesten vom Netz-Backbone entfer
 
 
 
-Das Resort-WLAN an der Küste des Roten Meeres dient demselben Zweck wie Resort-WLAN überall: Gäste, die am Pool ihre E-Mails checken. Three strukturelle Probleme machen es zum schlechten Ersatz für eine funktionierende Leitung.
+Das Resort-WLAN an der Küste des Roten Meeres dient demselben Zweck wie Resort-WLAN überall: Gäste, die am Pool ihre E-Mails checken. Drei strukturelle Probleme machen es zum schlechten Ersatz für eine funktionierende Leitung.
 
 
 
@@ -528,11 +528,11 @@ Zwei Gewohnheiten sorgen dafür, dass Ride-Hailing in Ägypten funktioniert. Ers
 
 
 
-One ein weiterer Grund, warum diese Apps wichtig sind: sie übersetzen. Ägyptische Fahrer sprechen größtenteils kein Englisch, und das arabische Ziel in der App beseitigt die häufigste Ursache für touristische Übervorteilung.
+Ein weiterer Grund, warum diese Apps wichtig sind: sie übersetzen. Ägyptische Fahrer sprechen größtenteils kein Englisch, und das arabische Ziel in der App beseitigt die häufigste Ursache für touristische Übervorteilung.
 
 
 
-## Die eSIM-Netzbetreiber: Vodafone, Etisalat und e& Egypt
+### Lokale Karte oder Reise-eSIM für Ägypten
 
 
 
@@ -548,13 +548,13 @@ One ein weiterer Grund, warum diese Apps wichtig sind: sie übersetzen. Ägyptis
 
 | Preis pro GB | Gehört zu den günstigsten weltweit (≈ 0,65 USD lokaler Durchschnitt) | Höher, aber nur ein Bruchteil des Roamings Ihres Heimnetzbetreibers |
 
-| Netz | One Netzbetreiber Ihrer Wahl | Automatische Neuauswahl zwischen Vodafone, Orange, Etisalat oder WE |
+| Netz | Ein Netzbetreiber Ihrer Wahl | Automatische Neuauswahl zwischen Vodafone, Orange, Etisalat oder WE |
 
 | Am besten für | Aufenthalte über einen Monat oder wenn Sie eine ägyptische Nummer benötigen | Reisen bis zu einigen Wochen, Kreuzfahrt-und-Kairo-Routen |
 
 
 
-Die direkte Variante gewinnt beim reinen Preis, wenn Sie länger bleiben — Vodafone und seine Konkurrenten bieten großzügige 30-Tage-Touristenpakete zum Preis einer Restaurantmahlzeit an. Die Reise-eSIM gewinnt in allem, was Sie Zeit kostet: keine Warteschlange am Flughafen Kairo nach einem Nachtflug, keine Passkopie, keine VoIP-Drosselung, und Daten stehen zur Verfügung, sobald die Räder den Boden berühren. Bei Reisen unter einem Monat entscheiden sich die meisten Besucher für die Reise-eSIM; neue Roami-Kunden können eine [Beispiel-eSIM](/free-esim/) ausprobieren, bevor sie einen vollständigen Tarif buchen.
+Die direkte Variante gewinnt beim reinen Preis, wenn Sie länger bleiben — Vodafone und seine Konkurrenten bieten großzügige 30-Tage-Touristenpakete zum Preis einer Restaurantmahlzeit an. Die Reise-eSIM gewinnt in allem, was Sie Zeit kostet: keine Warteschlange am Flughafen Kairo nach einem Nachtflug, keine Passkopie, keine VoIP-Drosselung, und Daten stehen zur Verfügung, sobald die Räder den Boden berühren. Bei Reisen unter einem Monat entscheiden sich die meisten Besucher für die Reise-eSIM; neue Roami-Kunden können eine Beispiel-eSIM ausprobieren, bevor sie einen vollständigen Tarif buchen.
 
 
 
@@ -562,19 +562,23 @@ Die direkte Variante gewinnt beim reinen Preis, wenn Sie länger bleiben — Vod
 
 
 
-| Option | Was Sie zahlen | Was Sie erhalten | Der Haken |
+| Option in Ägypten | Was Sie zahlen | Was Sie erhalten | Der Haken |
 
 |:---|:---|:---|:---|
 
 | Lokale Prepaid-Daten | ≈ 0,65 USD pro GB im Durchschnitt (62. von 237 Märkten, Cable.co.uk) | Die günstigsten Gigabytes in der Region | Passregistrierung, Warteschlange in der Filiale und ein Paket, das nach einer festen Uhrzeit abläuft |
 
-| Vodafone oder Orange Touristenbundle | Berichtet wurden 280–550 EGP für 10–25 GB über 30 Tage | Daten plus lokale Gesprächsminuten, in einem Netz, das wegen seiner Reichweite ausgewählt wurde | One Nur ein Netz und keine WhatsApp-Anrufe über eine lokale Leitung |
+| Vodafone oder Orange Touristenbundle | Berichtet wurden 280–550 EGP für 10–25 GB über 30 Tage | Daten plus lokale Gesprächsminuten, in einem Netz, das wegen seiner Reichweite ausgewählt wurde | Nur ein Netz und keine WhatsApp-Anrufe über eine lokale Leitung |
 
 | Reise-eSIM, 10 GB / 14 Tage | Ein einheitlicher Festpreis, der vor dem Abflug festgelegt wird | Daten sofort bei Ankunft, keine Registrierung, kein Schalter, funktionierende VoIP | Nur Daten; keine ägyptische Rufnummer, SMS-Codes bleiben auf Ihrer Heimat-SIM |
 
 
 
 Eine zweiwöchige Reise mit Kairo, Nilkreuzfahrt und Rotem Meer kommt bei der eigenen Nutzungsempfehlung dieses Ratgebers auf etwa 10 GB, daher ist der Vergleich nicht rein theoretisch. Pro Gigabyte gerechnet ist die lokale SIM immer günstiger, und das wird auch so bleiben; der Unterschied bei einem vierzehntägigen Aufenthalt entspricht etwa einer Restaurantmahlzeit, eingetauscht gegen einen Nachmittag Ihres Urlaubs.
+
+**Rechnung für zwei Wochen Ägypten.** Der Ratgeber selbst rechnet mit etwa 10 GB für Kairo, Nilkreuzfahrt und Rotes Meer. Pro Gigabyte liegt Ägypten bei rund 0,65 USD, also etwa 6,50 USD für 10 GB – und die lokalen Touristenpakete bewegen sich mit 280–350 EGP für 10–12 GB in derselben Größenordnung. Eine Reise-eSIM kostet dafür mehr, erspart Ihnen aber die Passregistrierung, die IMEI-Frage im Telephony-Register und die VoIP-Drosselung. Unterm Strich entspricht der Aufpreis für zwei Wochen ungefähr dem Preis eines Abendessens.
+
+**Wann eine lokale SIM doch besser ist.** Bleiben Sie länger als einen Monat in einer Stadt, benötigen Sie eine ägyptische Rufnummer für Behörden oder Banken, oder reisen Sie fast ausschließlich innerhalb von Kairo, dann ist ein 90-Tage-Touristenpaket von e& oder ein 30-Tage-Bundle von Vodafone pro Gigabyte klar günstiger. Der Preis dafür ist der Filialbesuch mit Originalpass und ein Papiervertrag – genau der Aufwand, den eine Reise-eSIM für alle erspart, die ihn nicht ohnehin brauchen.
 
 
 
@@ -600,7 +604,7 @@ Für eine Reise, bei der Sie Ihren Fahrer, Ihren Reiseleiter und Ihr Hotel über
 
 
 
-## APN-Konfiguration
+## APN für Ägypten: wann Sie wirklich eingreifen müssen
 
 
 
@@ -636,7 +640,7 @@ Für eine Reise, bei der Sie Ihren Fahrer, Ihren Reiseleiter und Ihr Hotel über
 
 
 
-**Wo sich die Felder befinden:**
+**Wo sich die APN-Felder in einem ägyptischen Profil befinden:**
 
 
 
@@ -650,7 +654,7 @@ Und die ägyptenspezifische Regel: Bestätigen Sie nach jeder Änderung, dass di
 
 
 
-## Reisen ins Nachbarland Roami
+## Grenzen und Nachbarländer
 
 
 
@@ -718,7 +722,7 @@ Die historische Route nach Süden ist die Fähre über den Nassersee zwischen As
 
 
 
-Länder-eSIMs laufen an der Grenze ohne Vorwarnung ab, und Roaming von einer ägyptischen Lokallinie über diese Übergänge ist teuer und unzuverlässig. Entscheiden Sie vor dem Flug: Einzelreise — kaufen Sie einen Ländertarif; Mehrländer-Route — kaufen Sie einen regionalen Tarif, der jedes Land abdeckt. Unsere Leitfäden zu [Jordaniens Netzbetreibern](/carriers/jordan-esim-carrier-guide/), [den Vereinigten Arabischen Emiraten](/united-arab-emirates-esim/) und [Israel](/israel-esim/) behandeln die Nachbarländer.
+Länder-eSIMs laufen an der Grenze ohne Vorwarnung ab, und Roaming von einer ägyptischen Lokallinie über diese Übergänge ist teuer und unzuverlässig. Entscheiden Sie vor dem Flug: Einzelreise — kaufen Sie einen Ländertarif; Mehrländer-Route — kaufen Sie einen regionalen Tarif, der jedes Land abdeckt. Unsere Leitfäden zu Jordaniens Netzbetreibern, [den Vereinigten Arabischen Emiraten](/united-arab-emirates-esim/) und [Israel](/israel-esim/) behandeln die Nachbarländer.
 
 
 
@@ -730,7 +734,7 @@ Installieren Sie das Profil zu Hause über WLAN, nicht in der Ankunftshalle in K
 
 
 
-### Roaming-Kosten mit ägyptischen Netzen
+### Der Check vor dem Abflug in Ägypten
 
 
 
@@ -744,7 +748,7 @@ Installieren Sie das Profil zu Hause über WLAN, nicht in der Ankunftshalle in K
 
 | 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | „Keine SIM-Einschränkungen“ wird unter Einstellungen -> Allgemein -> Info -> Netzbetreiber-Sperre angezeigt |
 
-| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an oder der [eSIM-Kompatibilitäts-Check](/compatibility/) bestätigt Ihr Modell |
+| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder ein Abgleich mit der Kompatibilitätsliste bestätigt Ihr Modell |
 
 | 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in einem Cloud-Speicher |
 
@@ -776,7 +780,7 @@ APN-Einstellungen werden mit dem Profil auf jeder verwalteten Reise-eSIM vorgela
 
 
 
-### Ägypten-Installation: zum Datendownload herunterladen
+### Die Installation je Netzbetreiber in Ägypten
 
 
 
@@ -796,7 +800,7 @@ Die generische Installationsreihenfolge – eSIM hinzufügen, QR-Code scannen, L
 
 
 
-### Die wichtigsten ägyptischen Netzbetreiber
+### Ägypten-spezifische Fehlerbilder
 
 
 
@@ -804,33 +808,33 @@ Allgemeine Aktivierungsfehler – ein Profil, das nicht heruntergeladen werden k
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das ägyptische Profil kommt nicht auf das Gerät**
 
-1. Stellen Sie vor allem anderen sicher, dass das Mobilgerät entsperrt ist – ein ägyptisches Profil lässt sich auf einem gesperrten Telefon nicht installieren.
+1. Klären Sie zuerst die Netzbetreiber-Sperre – ein Gerät, das noch am Sim-Lock eines ausländischen Anbieters hängt, nimmt kein Vodafone-Egypt- oder WE-Profil an.
 
-2. Stellen Sie sicher, dass der QR-Code nicht bereits gescannt wurde – die meisten Codes funktionieren nur einmal.
+2. In Ägypten ist jeder QR-Code ein Einmal-Code: Wer ihn schon gescannt hat, braucht eine neue Ausstellung, keinen zweiten Versuch.
 
-3. Fragen Sie den Support, ob das Profil noch aussteht; eine erneute Ausstellung des QR-Codes behebt das Problem normalerweise.
-
-
-
-**B. Installiert, aber keine Signalbalken**
-
-1. Überprüfen Sie den Sperrstatus erneut.
-
-2. Einstellungen → Mobilfunk → Netzauswahl → wählen Sie Vodafone Egypt, Orange, e& oder WE manuell statt automatisch.
-
-3. Löschen Sie gespeicherte Netzeinstellungen und führen Sie dann einen Neustart durch.
+3. Fragen Sie den Support nach dem Profilstatus; ein nie verbuchtes Profil lässt sich nur durch Neuausstellung lösen.
 
 
 
-**C. Signalbalken, aber keine Daten**
+**B. Profil liegt auf dem Gerät, zeigt aber keine Balken**
 
-1. Prüfen Sie, ob die eSIM und nicht Ihre Heim-SIM die Daten überträgt.
+1. Setzen Sie die Netzwahl auf manuell und probieren Sie Vodafone Egypt zuerst, danach Orange, dann e&.
 
-2. Schalten Sie Datenroaming nur für die eSIM-Leitung und nur für diese ein.
+2. Kontrollieren Sie, dass das Profil im SIM-Manager eingeschaltet und nicht nur installiert ist.
 
-3. Überprüfen Sie das Datenvolumen – ein verbrauchtes lokales Paket lässt Balken ohne Daten zurück, und eine neue lokale Leitung kann Balken anzeigen, bevor die Registrierung abgeschlossen ist.
+3. Löschen Sie gespeicherte Netzeinstellungen und starten Sie das Gerät anschließend neu.
+
+
+
+**C. Balken stehen, es fließen aber keine Daten**
+
+1. Prüfen Sie, ob die eSIM und nicht Ihre Heim-SIM die mobile Datenleitung trägt.
+
+2. Datenroaming muss auf der Ägypten-Leitung an und auf der Heimatleitung aus sein.
+
+3. Prüfen Sie das Volumen: Ein verbrauchtes Touristenpaket zeigt Balken ohne Durchsatz, und eine frisch registrierte Leitung meldet manchmal Balken, bevor das Bundle in der App aktiv ist.
 
 
 
@@ -850,13 +854,13 @@ Allgemeine Aktivierungsfehler – ein Profil, das nicht heruntergeladen werden k
 
 2. Entfernen oder deaktivieren Sie andere Profile, sodass die ägyptische Leitung die einzige Option ist.
 
-3. Starten Sie neu und setzen Sie die Netzeinstellungen zurück.
+3. Starten Sie das Gerät neu und setzen Sie danach die Netzeinstellungen zurück.
 
 4. Letzter Ausweg: Löschen Sie das Profil und installieren Sie es mit einem neuen QR-Code erneut.
 
 
 
-Das One-Muster ist überhaupt kein Fehler: Balken, die zwischen Edfu und Kom Ombo, auf den langen Transferstraßen oder auf einem Tauchboot verschwinden, spiegeln lediglich die Realität des Netzes wider. Kein Profil kann Geographie reparieren.
+Ein letztes Muster ist überhaupt kein Fehler: Balken, die zwischen Edfu und Kom Ombo, auf den langen Transferstraßen oder auf einem Tauchboot verschwinden, spiegeln lediglich die Realität des Netzes wider. Kein Profil kann Geographie reparieren.
 
 
 
@@ -868,33 +872,33 @@ Das One-Muster ist überhaupt kein Fehler: Balken, die zwischen Edfu und Kom Omb
 
 |:---|:---|
 
-| Bestell- oder Kontonummer | Bestätigungs-E-Mail |
+| Bestell- oder Kontonummer | Bestätigungsmail im Postfach |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Handy-Modell und Betriebssystem-Version | Einstellungen → Über das Telefon (Android) bzw. → Info (iOS) |
 
 | EID | `*#06#` |
 
 | IMEI | `*#06#` – relevant für Ägyptens Geräteregister, wenn Sie eine lokale Leitung nutzen |
 
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Screenshot des Fehlers | Sofort sichern – die Meldung, die die Telephony-Hotline oder der Betreiber zuerst sehen will |
 
-| Aktuelle APN- und Datenleitungseinstellungen | Einstellungen → Mobiles Datennetz |
+| Aktuelle APN- und Datenleitungseinstellungen | Einstellungen → Mobiles Datennetz → die Ägypten-Leitung |
 
-| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Datenroaming-Status | Einstellungen → Mobilfunk → die Ägypten-Leitung (Roaming muss hier an sein) |
 
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
-
-
-
-## Egypt eSIM FAQ: Registrierung, WhatsApp und Netzabdeckung
+| Bereits versuchte Schritte | Stichpunktartig: Netzwahl, Profil, Neustartversuche |
 
 
 
-### Kann man eine Egypt eSIM bei Vodafone kaufen?
+## Ägypten-eSIM-FAQ: Registrierung, WhatsApp und Netzabdeckung
 
 
 
-Yes, aber nur persönlich: Die NTRA verlangt vor der Ausgabe einer Leitung an einen Ausländer einen Besuch in einer Filiale des Netzbetreibers mit dem Originalpass und einem unterzeichneten Papiervertrag. Das gilt für eine lokale eSIM ebenso wie für eine physische SIM.
+### Kann man eine Ägypten-eSIM bei Vodafone kaufen?
+
+
+
+Ja, aber nur persönlich: Die NTRA verlangt vor der Ausgabe einer Leitung an einen Ausländer einen Besuch in einer Filiale des Netzbetreibers mit dem Originalpass und einem unterzeichneten Papiervertrag. Das gilt für eine lokale eSIM ebenso wie für eine physische SIM.
 
 
 
@@ -910,11 +914,11 @@ Für eine vollständige Runde Kairo–Nil–Rotes Meer ist Vodafone Egypt die h�
 
 
 
-Yes — kommerzielles 5G startete am 4. Juni 2025, nachdem die NTRA Lizenzen an Vodafone, Orange, e& und Telecom Egypt vergeben hatte. Es ist in Kairo, Alexandria, Giza und weiteren Großstädten live, während 4G den Rest des Landes versorgt. Der 5G-Medianwert am Starttag in Ägypten lag bei 110,5 Mbps, und das Netz stabilisierte sich nach sechs Monaten bei rund 89 Mbps — im regionalen Vergleich bescheiden, aber ungewöhnlich stabil.
+Ja — kommerzielles 5G startete am 4. Juni 2025, nachdem die NTRA Lizenzen an Vodafone, Orange, e& und Telecom Egypt vergeben hatte. Es ist in Kairo, Alexandria, Giza und weiteren Großstädten live, während 4G den Rest des Landes versorgt. Der 5G-Medianwert am Starttag in Ägypten lag bei 110,5 Mbps, und das Netz stabilisierte sich nach sechs Monaten bei rund 89 Mbps — im regionalen Vergleich bescheiden, aber ungewöhnlich stabil.
 
 
 
-### 5G in Ägypten: Wer bietet was
+### Ist das 5G in Ägypten flächendeckend?
 
 
 
@@ -922,7 +926,7 @@ Nein. Ägypten startete mit umgenutztem 2,6-GHz-Spektrum und nur 20–30 MHz, wa
 
 
 
-### Welche Geräte unterstützen eine Egypt eSIM?
+### Wie gut ist der Empfang auf der Nilkreuzfahrt?
 
 
 
@@ -930,7 +934,7 @@ In den Städten ja, bei allen vier Netzen. Auf dem Fluss zwischen Edfu und Kom O
 
 
 
-### Was beinhaltet die Registrierung einer Egypt SIM?
+### Muss ich mein Handy in Ägypten registrieren?
 
 
 
@@ -946,7 +950,7 @@ Mit einer Reise-eSIM normalerweise ja — der Datenverkehr verlässt das Land al
 
 
 
-### Dimensionierung Ihres Egypt-Datenpakets
+### Wie viel Datenvolumen brauche ich in Ägypten?
 
 
 
@@ -962,7 +966,7 @@ Nicht auf dem Meer. Hurghada, Scharm El-Scheich und Marsa Alam haben starke Netz
 
 
 
-### Daten aufgebraucht in Ägypten: Was passiert
+### Was passiert, wenn mein Datenvolumen in Ägypten aufgebraucht ist?
 
 
 
@@ -978,7 +982,7 @@ Nein — Länderprofile enden an der Grenze; kaufen Sie daher ein zweites Profil
 
 
 
-### Kaufoptionen: Egypt eSIM
+### Wo kann ich eine Ägypten-eSIM kaufen?
 
 
 
@@ -1016,7 +1020,7 @@ Jede Zahl hier ist eine datierte Drittquellenmessung, keine Live-Garantie — di
 
 
 
-## Landen Sie in Kairo mit bereits aktiver Egypt eSIM-Datenverbindung
+## Landen Sie in Kairo mit bereits aktiver Ägypten-eSIM-Datenverbindung
 
 
 
@@ -1024,7 +1028,7 @@ Kein Filialbesuch, keine Passkopie, keine gedrosselten WhatsApp-Anrufe — nur s
 
 
 
-[Jetzt Egypt eSIM kaufen](/egypt-esim/)
+[Jetzt Ägypten-eSIM kaufen](/egypt-esim/)
 
 
 
@@ -1032,7 +1036,7 @@ Kein Filialbesuch, keine Passkopie, keine gedrosselten WhatsApp-Anrufe — nur s
 
 
 
-[Free Egypt Test-eSIM](/free-esim/)
+Kostenlose Ägypten-Test-eSIM
 
 
 

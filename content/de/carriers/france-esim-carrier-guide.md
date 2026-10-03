@@ -79,7 +79,7 @@ Die Zeile zum Festnetz-Breitband steht dort aus gutem Grund: Wenn Ihr Hotel übe
 
 ### Stadtgeschwindigkeiten im Vergleich der Netzbetreiber
 
-| Stadt | Median Download | Median Upload | Latenz | Konsistenz | Schnellster Netzbetreiber |
+| Französische Stadt | Median Download | Median Upload | Latenz | Konsistenz | Stärkstes Netz |
 |:---|:---|:---|:---|:---|:---|
 | Toulouse | **180,92 Mbps** | 15,7 Mbps | 54,2 ms | 90,7 % | Orange |
 | Paris | 175,81 Mbit/s | 16,95 Mbit/s | 32,53 ms | 90,7 % | Orange |
@@ -151,12 +151,12 @@ Die Ausnahme – und der Grund, warum Frankreich einfacher ist als die meisten e
 |:---|:---|:---|:---|:---|
 | Starter | 20 GB | Unbegrenzt in Europa | 14 Tage | 24,99 € |
 | Standard | 50 GB | Unbegrenzt in Europa | 30 Tage | 44,99 € |
-| Großer | 100 GB | Unbegrenzt in Europa | 30 Tage | 47,99 € (reduziert) |
+| Groß | 100 GB | Unbegrenzt in Europa | 30 Tage | 47,99 € (reduziert) |
 | Extended | 200 GB | Unbegrenzt in Europa | 30 Tage | 57,99 € (reduziert) |
 
 Drei Eigenschaften machen das Produkt zum Referenzprodukt für Touristen. Es enthält eine echte **+33 französische Nummer**, sodass es SMS-Codes empfängt und Anrufe entgegennimmt – das ist für jede eSIM selten. Es beinhaltet **unbegrenzte Anrufe und SMS innerhalb Europas**, was die meisten Mehrländer-Reiserouten abdeckt. Und es lässt sich per QR-Code oder App installieren, noch bevor Sie fliegen, sodass Sie bereits am Charles de Gaulle online sind, bevor sich die Schlangen an den Flughafen-SIM-Ständen überhaupt in Bewegung setzen. Das aktuelle Sortiment ist die umbenannte Fortführung des klassischen Orange Holiday Europe Prepaid-Tarifs, der seit Jahren die Standardempfehlung für Paris-Reisende ist.
 
-**Orange Travel versus eine Mehrnetzbetreiber-Reise-eSIM:** Orange Travel ist die Wahl, wenn Sie eine französische Nummer, Sprachanrufe oder einen einzigen Tarif benötigen, der auch einen Aufenthalt in Belgien, Spanien oder Großbritannien abdeckt. Eine reine Daten-Frankreich-eSIM ist in der Regel pro Gigabyte günstiger, aktiviert sich sofort und wählt bei einem Mehrnetzbetreiber-Profil automatisch den der vier französischen Netzbetreiber aus, der an Ihrem Standort am stärksten ist – bei einer zweiwöchigen Reise zählt diese Flexibilität mehr als die Treue zu einem einzelnen Netz. Unsere [Frankreich-eSIM-Tarife](/france-esim/) sind auf alle vier Netze ausgelegt, und Neukunden können das Setup zunächst mit einer [kostenlosen Roami-Test-eSIM](/free-esim/) ausprobieren.
+**Orange Travel versus eine Mehrnetzbetreiber-Reise-eSIM:** Orange Travel ist die Wahl, wenn Sie eine französische Nummer, Sprachanrufe oder einen einzigen Tarif benötigen, der auch einen Aufenthalt in Belgien, Spanien oder Großbritannien abdeckt. Eine reine Daten-Frankreich-eSIM ist in der Regel pro Gigabyte günstiger, aktiviert sich sofort und wählt bei einem Mehrnetzbetreiber-Profil automatisch den der vier französischen Netzbetreiber aus, der an Ihrem Standort am stärksten ist – bei einer zweiwöchigen Reise zählt diese Flexibilität mehr als die Treue zu einem einzelnen Netz. Unsere Frankreich-eSIM-Tarife sind auf alle vier Netze ausgelegt, und Neukunden können das Setup zunächst mit einer [kostenlosen Roami-Test-eSIM](/free-esim/) ausprobieren.
 
 ### Kann man eine Frankreich-eSIM bei Orange kaufen?
 
@@ -200,6 +200,12 @@ Die Registrierungspflicht in Frankreich ist weniger streng als in Belgien, aber 
 | Orange Travel online | Eine eSIM mit französischer Nummer, installiert vor dem Abflug | Keines der oben genannten – dies ist die für Besucher konzipierte Option |
 
 Die praktische Zusammenfassung: Wenn Sie eine physische französische Karte möchten, kaufen Sie sie in einem Tabakladen, einem Supermarkt oder einem Bouygues-Shop, und bringen Sie Ihren Reisepass mit. Wenn Sie eine französische *Nummer* möchten, kaufen Sie Orange Travel online. Wenn Sie weder das eine noch das andere möchten und einfach nur Daten benötigen, umgeht eine Frankreich-eSIM die gesamte Tabelle.
+
+### Ankunft am Charles de Gaulle oder Orly
+
+Wer in Frankreich ohne installiertes Profil landet, trifft die Entscheidung im Ankunftsbereich. An den großen Flughäfen finden Sie Kioske und Tabakläden, die Prepaid-Startpakete verkaufen — laut der Kanalübersicht oben zu Preisen über dem Stadtbild — sowie Automaten von Free. Rechnen Sie mit einer Registrierung am Verkaufspunkt, für die Ihr Reisepass das entscheidende Dokument ist; eine Hotel- oder Mietadresse genügt, ein biometrischer Schritt entfällt.
+
+Der reibungsärmste Ablauf bleibt derselbe wie überall: Profil zu Hause im WLAN installieren, die französische Leitung als Datenleitung festlegen, Datenroaming für diese Leitung aktivieren. Dann sind Sie in Frankreich online, bevor die Schlangen an den Kiosken sich überhaupt bilden. Wer erst vor Ort kauft, sollte den Kauf in der Stadt statt am Flughafen erledigen — dort ist die Auswahl größer und der Aufpreis geringer.
 
 ## Warum mobile Daten in Frankreich so günstig sind
 
@@ -260,7 +266,7 @@ Das Bild für ländliche Gebiete aus demselben Audit: **Orange lag in ländliche
 
 Die praktische Übersetzung für einen Besucher: **Wenn Ihre Route nur durch Städte führt, ist die Netzbetreiberwahl irrelevant. Wenn sie eine TGV-Etappe, einen Regionalzug oder eine Landstraße einschließt, lohnt es sich, eine auf Orange basierende Netzabdeckung anzustreben — direkt oder über eine Frankreich-eSIM mit Mehrnetzwahl.**
 
-Das Verhalten an Grenzen ist die andere Sache, die Reisende übersehen. Eine Frankreich-only eSIM wird in dem Moment dunkel, in dem Sie nach Belgien, in die Schweiz oder nach Spanien einreisen — und da Brüssel mit dem Zug kaum 90 Minuten von Paris entfernt ist, passiert das häufiger, als die Leute planen. Regionale Tarife lösen das; unser [Belgien-eSIM-Leitfaden](/carriers/belgium-esim-carrier-guide/) behandelt, was sich auf der anderen Seite dieser Grenze ändert.
+Das Verhalten an Grenzen ist die andere Sache, die Reisende übersehen. Eine Frankreich-only eSIM wird in dem Moment dunkel, in dem Sie nach Belgien, in die Schweiz oder nach Spanien einreisen — und da Brüssel mit dem Zug kaum 90 Minuten von Paris entfernt ist, passiert das häufiger, als die Leute planen. Regionale Tarife lösen das; die [Belgien-eSIM-Tarife](/belgium-esim/) zeigen, was sich auf der anderen Seite dieser Grenze ändert.
 
 ## Wie Korsika und die Alpen die Netze fordern
 
@@ -276,7 +282,7 @@ Die Riviera folgt im Sommer derselben Logik, wie der bestehende Abschnitt zu Mé
 
 Die Regel für beide Regionen ist dieselbe. Netzabdeckung dort, wo Menschen leben; Stau dort, wo Menschen zusammenkommen; nichts dort, wo nur Berg ist. Laden Sie Offline-Karten für das Tal herunter, behalten Sie das Handy am Liftfuß in der Tasche, und prüfen Sie ARCEPs Karte pro Adresse, bevor Sie sich auf eine abgelegene Ferienwohnung festlegen.
 
-## Grenzüberschreitende Netzabdeckung
+## Was an Frankreichs Grenzen mit Ihrer eSIM passiert
 
 Frankreich hat sechs Landnachbarn und Frankreich-only Tarife sterben an jedem einzelnen von ihnen, aber drei Grenzzonen verursachen überproportionale Verwirrung, weil sie sich nicht so verhalten, wie Reisende annehmen.
 
@@ -286,13 +292,13 @@ Frankreich hat sechs Landnachbarn und Frankreich-only Tarife sterben an jedem ei
 
 **Monaco ist dieselbe Falle im kleineren Format.** Das Fürstentum liegt innerhalb der französischen Küstenlinie, nutzt französische Zugverbindungen und gehört nicht zur Roam Like At Home-Zone — daher kann eine französische Leitung bei einem Tagesausflug nach Monte Carlo Roaminggebühren verursachen, ohne dass es ein offensichtliches Zeichen gibt, dass Sie das Land verlassen haben. Nur ein Tarif, der Monaco namentlich in seiner Netzabdeckungsliste aufführt, vermeidet dies.
 
-Die zugrundeliegende Regel lohnt sich zu merken, denn sie ist das Gegenteil dessen, wie Leute über Roaming denken: **Roam Like At Home hängt davon ab, wo die SIM ausgestellt wurde, nicht davon, wo Sie stehen.** Belgien, Spanien, Italien, Deutschland und Luxemburg liegen innerhalb der Zone; die Schweiz, Monaco, Andorra, das Vereinigte Königreich und der Westbalkan nicht. Netzabdeckungslisten, die die Schweiz und Monaco ausdrücklich nennen — wie es die von Orange Travel tut — erweisen Ihnen einen kommerziellen Gefallen, keinen regulatorischen.
+Die zugrundeliegende Regel lohnt sich zu merken, denn sie ist das Gegenteil dessen, wie Leute über Roaming denken: **Roam Like At Home hängt davon ab, wo die SIM ausgestellt wurde, nicht davon, wo Sie stehen.** Belgien, Spanien, Italien, Deutschland und Luxemburg liegen innerhalb der Zone; die Schweiz, Monaco, Andorra, das Vereinigte Königreich und der Westbalkan nicht. Netzabdeckungslisten, die die Schweiz und Monaco ausdrücklich nennen — wie es die von Orange Travel tut — erweisen Ihnen einen kommerziellen Gefallen, keinen regulatorischen. Für einzelne Nachbarmärkte lohnen eigene Seiten wie [Italien](/italy-esim/) und [Belgien](/belgium-esim/) — und wer gleich mehrere Grenzen überquert, prüft die [europäische Regionalübersicht](/europe-esim/).
 
 ## Welcher Netzbetreiber passt zu Ihrer Frankreich-Reise?
 
 Passen Sie die Reiseroute an das Netz an, nicht an die Marke.
 
-| Ihre Reise | Bester Netzbetreiber | Warum | Vorsicht vor |
+| Frankreich-Reise | Passendes Netz | Begründung | Achtung bei |
 |:---|:---|:---|:---|
 | Städtetrip nach Paris | Jeder der vier | Die Métro erzielte 93 % beim Surfen und 96–97 % bei Anrufen; alle vier sind in der Stadt hervorragend | Châtelet und Gare du Nord im Berufsverkehr sind ein Kapazitäts-, kein Netzabdeckungsproblem |
 | Paris plus Tagesausflüge – Versailles, Fontainebleau, Loire | Orange | Beste ländliche Netzabdeckung der vier (79 % der Seiten in unter fünf Sekunden) | Das Signal wird zwischen den Orten auf den RER- und Regionalstrecken schwächer |
@@ -307,9 +313,9 @@ Passen Sie die Reiseroute an das Netz an, nicht an die Marke.
 | Sparfuchs | Eine reine Daten-Reise-eSIM | Günstigste pro Gigabyte, sofortige Aktivierung, kein Papierkram | Keine Telefonnummer, also behalten Sie Ihre Heimat-SIM für SMS-Codes |
 | Grenzüberschreitende Reise — Brüssel, Genf, Monaco | Ein Tarif, der diese Länder auflistet | Schweiz und Monaco fallen nicht unter die EU-Roaming-Regelungen | Ein Profil nur für Frankreich wird an der Grenze dunkel |
 
-## Netzabdeckung Region für Region
+## Frankreichs Netzabdeckung nach Region und Strecke
 
-| Region oder Strecke | Was das Netz tatsächlich tut | Was Sie dagegen tun können |
+| Region oder Strecke in Frankreich | Was das Netz tatsächlich tut | Was Sie tun können |
 |:---|:---|:---|
 | Paris und die Île-de-France | Der beste Korridor des Landes: Métro mit 93 % Netzabdeckung, RER mit 84 % | Keine Angaben; prüfen Sie die Netzabdeckung in Innenräumen für Ihre genaue Adresse auf der ARCEP-Karte |
 | Toulouse, Paris, Lyon, Nizza, Marseille | Medianwerte in den Städten 152–181 Mbps; Orange führte in Toulouse und Paris | Keine Einschränkungen in der Stadt |
@@ -327,7 +333,7 @@ Passen Sie die Reiseroute an das Netz an, nicht an die Marke.
 
 ## Prüfen Sie zuerst Ihr Smartphone
 
-Frankreich nutzt das europäische Standardfrequenzspektrum: 4G auf 800 MHz (B20), 1800 MHz (B3) und 2600 MHz (B7); 5G auf 700 MHz (n28), 2100 MHz (n1) und 3500 MHz (n78). Jedes entsperrte Gerät, das in den letzten fünf Jahren in Europa verkauft wurde, unterstützt alle diese Bänder, und die meisten globalen Flaggschiff-Geräte ebenfalls. Die beiden Prüfungen, die tatsächlich zu Problemen führen, sind eSIM-Unterstützung und Netzbetreiber-Sperre – überprüfen Sie beides in einem Schritt mit dem [Smartphone-Kompatibilitätscheck](/compatibility/). Wenn Sie zunächst die technischen Hintergründe verstehen möchten, beginnen Sie mit der [eSIM-Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/).
+Frankreich nutzt das europäische Standardfrequenzspektrum: 4G auf 800 MHz (B20), 1800 MHz (B3) und 2600 MHz (B7); 5G auf 700 MHz (n28), 2100 MHz (n1) und 3500 MHz (n78). Jedes entsperrte Gerät, das in den letzten fünf Jahren in Europa verkauft wurde, unterstützt alle diese Bänder, und die meisten globalen Flaggschiff-Geräte ebenfalls. Die beiden Prüfungen, die tatsächlich zu Problemen führen, sind eSIM-Unterstützung und Netzbetreiber-Sperre – überprüfen Sie beides in einem Schritt mit dem Smartphone-Kompatibilitätscheck. Wenn Sie zunächst die technischen Hintergründe verstehen möchten, beginnen Sie mit der [eSIM-Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 Zwei Frankreich-spezifische Hinweise. Erstens: **Orange Travel erfordert eSIM-fähige Hardware**, und Orange veröffentlicht eine eigene Kompatibilitätsliste auf der Produktseite – überprüfen Sie dort Ihr Modell, bevor Sie kaufen, denn der Tarif wird auf diesem Weg nicht als physische SIM verkauft. Zweitens: **Ein gesperrtes Smartphone funktioniert in keinem französischen Netz**, und der Fehler sieht eher wie ein Aktivierungsproblem als wie ein Sperrproblem aus, was dazu führt, dass Betroffene nach der falschen Ursache suchen. Prüfen Sie zunächst Einstellungen → Allgemein → Info → Netzbetreiber-Sperre.
 
@@ -335,7 +341,7 @@ Zwei Frankreich-spezifische Hinweise. Erstens: **Orange Travel erfordert eSIM-f�
 
 Reise-eSIM-Profile bringen ihren eigenen APN mit und konfigurieren sich selbständig – ändern Sie nichts, es sei denn, die Datenverbindung funktioniert nicht. Wenn Sie direkt bei einem französischen Netzbetreiber kaufen und die automatische Einrichtung nicht startet, verwenden Sie folgende Werte:
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Französischer Netzbetreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 |:---|:---|:---|:---|
 | Orange | `orange.fr` | Orange | Orange |
 | SFR | `sl2sfr` | leer | leer |
@@ -357,7 +363,7 @@ Führen Sie die Installation zu Hause über WLAN vor der Abreise durch: Scannen 
 | # | Überprüfen | Was „gut“ bedeutet |
 |:---|:---|:---|
 | 1 | Status der Netzbetreiber-Sperre | Einstellungen → Allgemein → Info → Netzbetreiber-Sperre zeigt „Keine SIM-Beschränkungen“ |
-| 2 | eSIM-Hardwareunterstützung | `*#06#` eine EID zurückgibt oder die [Liste kompatibler Modelle](/compatibility/) das Modell bestätigt |
+| 2 | eSIM-Hardwareunterstützung | `*#06#` eine EID zurückgibt oder die Kompatibilitätsliste das Modell bestätigt |
 | 3 | QR-Code und Aktivierungscode gespeichert | Ein Screenshot auf dem Telefon sowie eine Kopie in einem Cloud-Speicher |
 | 4 | Profil über das heimische WLAN installiert | Vor der Abreise installiert, damit es sich sofort nach der Landung verbindet |
 | 5 | eSIM als Datenleitung ausgewählt | Mobile Daten zeigen auf die eSIM, nicht auf Ihre Heim-SIM |
@@ -386,7 +392,7 @@ Hartnäckige Fehler – Downloads, die fehlschlagen, bereits verwendete QR-Codes
 2. Registrieren Sie die eSIM erst, wenn Sie sie tatsächlich benötigen – eine einmalige Nutzung funktioniert sofort, eine Registrierung ist erst nötig, um sie über 30 Tage hinaus weiter zu nutzen.
 3. Wenn das Zeitfenster des Tarifs bei einer früheren Reise bereits geöffnet und abgelaufen ist, laden Sie ihn in der App nach und installieren Sie ihn nicht erneut.
 
-**C. Empfangsbalken, aber keine Daten**
+**C. Balken stehen, doch kein Datenfluss ins französische Netz**
 1. Vergleichen Sie den APN mit der Tabelle oben – dies ist der eine Markt, in dem eine manuelle Eingabe gelegentlich nötig ist.
 2. Prüfen Sie, dass die eSIM und nicht die Heim-SIM die aktive Datenleitung ist.
 3. Denken Sie daran, dass ein reines Datenprofil keine SMS empfangen kann; lassen Sie die Heim-SIM für Codes aktiv.
@@ -423,7 +429,7 @@ Genau deshalb kostet der Touristenweg mehr als der Marktpreis und bietet trotzde
 
 Auf Basis von **10 GB über zwei Wochen** stellen sich die drei Wege so dar: Eine reine Daten-Frankreich-eSIM verkauft das Volumen im Voraus ohne Bürokratie und ohne Rufnummer und ist in der Regel die günstigste der drei Optionen. Orange Travel bietet für 24,99 € mehr Datenvolumen und ergänzt eine französische Nummer, unlimitierte europäische Anrufe und Hotspot-Tethering. Ein französisches Prepaid-Modell nach Einheimischenart ist pro Gigabyte noch günstiger, erfordert jedoch eine Reisepassregistrierung, einen Shop, der tatsächlich verkaufen will, und einen Registrierungsprozess, der auf in Frankreich lebende Personen zugeschnitten ist.
 
-Wohin das Geld tatsächlich fließt, ist allerdings die Dauer. Ein französischer Einheimischentarif wird monatsweise abgerechnet und bleibt aktiv; ein Touristentarif ist reiseweise kalkuliert und läuft ab. Bei einem zweiwöchigen Aufenthalt gewinnen die reiseweisen Optionen auf jeder Ebene. Bei vier Monaten kaufen Sie zunächst einen [Frankreich-Datentarif](/france-esim/) für die ersten vierzehn Tage und entscheiden dann, ob sich ein lokaler Anschluss für den Aufwand lohnt.
+Wohin das Geld tatsächlich fließt, ist allerdings die Dauer. Ein französischer Einheimischentarif wird monatsweise abgerechnet und bleibt aktiv; ein Touristentarif ist reiseweise kalkuliert und läuft ab. Bei einem zweiwöchigen Aufenthalt gewinnen die reiseweisen Optionen auf jeder Ebene. Bei vier Monaten kaufen Sie zunächst einen Frankreich-Datentarif für die ersten vierzehn Tage und entscheiden dann, ob sich ein lokaler Anschluss für den Aufwand lohnt.
 
 ## Häufige Fragen zur Frankreich-eSIM
 
@@ -445,7 +451,7 @@ Mit Orange Travel ja — eine echte +33-Mobilfunknummer, die SMS empfängt. Rein
 
 ### Kann ich die Netzabdeckung an meiner Adresse prüfen?
 
-Ja, und das sollten Sie auch. Das ARCEP-Tool **Mon réseau mobile** nimmt eine Straßenadresse und liefert die gemeldete Sprach-, 4G- und 5G-Netzabdeckung jedes Betreibers, aufgeschlüsselt in Außen-, Innen- und Streckenebene — so sehen Sie, ob ein bestimmtes Gebäude wahrscheinlich Innenempfang hat, und nicht nur, ob der Ort abgedeckt ist.
+Ja, und das sollten Sie auch. Das ARCEP-Tool **Mon réseau mobile** nimmt eine Straßenadresse in Frankreich und liefert die gemeldete Sprach-, 4G- und 5G-Netzabdeckung jedes Betreibers, aufgeschlüsselt in Außen-, Innen- und Streckenebene — so sehen Sie, ob ein bestimmtes Gebäude wahrscheinlich Innenempfang hat, und nicht nur, ob der Ort abgedeckt ist.
 
 ### Wer bietet das beste 5G in Frankreich?
 
@@ -501,4 +507,4 @@ Die Frankreich-eSIM von Roami verbindet sich automatisch mit dem der vier Netze,
 
 Mit der [kostenlosen Frankreich-Test-eSIM](/free-esim/) starten
 
-Ein letzter Schritt vor dem Abflug: Prüfen Sie Ihr Telefon auf der [eSIM-Kompatibilitätsseite](/compatibility/) und beginnen Sie dann mit einer [kostenlosen Roami-Testkarte](/free-esim/), um zu sehen, wie Orange Ihre Route behandelt. Wenn Sie auf einen kostenpflichtigen Tarif wechseln, erhalten Sie über WEB20 20 % Rabatt auf jedes Roami-Paket für Frankreich.
+Ein letzter Schritt vor dem Abflug: Prüfen Sie Ihr Telefon auf der [eSIM-Kompatibilitätsseite](/compatibility/) und beginnen Sie dann mit einer kostenlosen Roami-Testkarte, um zu sehen, wie Orange Ihre Route behandelt. Wenn Sie auf einen kostenpflichtigen Tarif wechseln, erhalten Sie über WEB20 20 % Rabatt auf jedes Roami-Paket für Frankreich.

@@ -16,13 +16,13 @@ hero_subtitle_main: "Ein datenorientierter Blick auf die ungarischen Mobilfunkne
 ---
 
 
-Eine Ungarn eSIM bietet für ihren Preis ungewöhnlich hohe Geschwindigkeiten, und dieser Ratgeber führt Sie durch die drei landesweiten Netze, damit Sie wissen, welches zu Ihrer Route passt. Ungarn ist das seltene europäische Reiseziel, bei dem die Geschwindigkeitswerte fast beschämend sind – im positiven Sinne. Im Ookla Konnektivitätsbericht für das erste Halbjahr 2025 verzeichnete **Yettel einen medianen 5G-Download von 369,08 Mbps**, einer der schnellsten Werte in der Region, während Magyar Telekom mit der höchsten 5G-Verfügbarkeit des Landes und der besten Video-Bewertung konterte. Drei Netzbetreiber, drei wirklich unterschiedliche Stärken, und eine reisebezogene Frage, die meist davon abhängt, wo zwischen Budapest und dem Plattensee Ihre Tage verbracht werden. Netzabdeckung und Registrierung im Folgenden basieren auf Roami eigenen Ungarn-Support-Tickets – einschließlich der Fälle, die schiefgelaufen sind.
+Eine Ungarn eSIM bietet für ihren Preis ungewöhnlich hohe Geschwindigkeiten, und dieser Ratgeber führt Sie durch die drei landesweiten Netze, damit Sie wissen, welches zu Ihrer Route passt. Ungarn ist das seltene europäische Reiseziel, bei dem die Geschwindigkeitswerte fast beschämend sind – im positiven Sinne. Im Ookla Konnektivitätsbericht für das erste Halbjahr 2025 verzeichnete **Yettel einen medianen 5G-Download von 369,08 Mbps**, einer der schnellsten Werte in der Region, während Magyar Telekom mit der höchsten 5G-Verfügbarkeit des Landes und der besten Video-Bewertung konterte. Drei Netzbetreiber, drei wirklich unterschiedliche Stärken, und eine reisebezogene Frage, die meist davon abhängt, wo zwischen Budapest und dem Plattensee Ihre Tage liegen. Netzabdeckung und Registrierung im Folgenden basieren auf Roamis eigenen Ungarn-Support-Tickets – einschließlich der Fälle, die schiefgelaufen sind.
 
-**Schnelle Antwort:** Yettel führt diesen Vergleich bei der reinen Netzabdeckung an, Magyar Telekom beim Preis-Leistungs-Verhältnis – und dieser Abstand verringert sich, je länger Sie an einem Ort bleiben. Die folgenden Routen zeigen, wo sich das Verhältnis umkehrt. Sie können die Ungarn-Konfiguration auch mit dem [kostenlosen Netztest](/free-esim/) auf die Probe stellen.
+**Schnelle Antwort:** Yettel führt diesen Vergleich bei der reinen Netzabdeckung an, Magyar Telekom beim Preis-Leistungs-Verhältnis – und dieser Abstand verringert sich, je länger Sie an einem Ort bleiben. Die folgenden Routen zeigen, wo sich das Verhältnis umkehrt. Sie können die Ungarn-Konfiguration auch mit dem kostenlosen Netztest auf die Probe stellen.
 
 Dieser Ratgeber durchläuft die Ungarn eSIM-Entscheidung so, wie eine Reise tatsächlich abläuft: welcher Netzbetreiber zu welcher Route passt, was die unabhängigen Messungen zeigen, wie die EU-Roaming-Regeln die Rechnung für Besucher mit europäischen Tarifen verändern und was Sie vor der Installation prüfen sollten. Frequenzbänder, Sperren und EID werden separat im [eSIM-Geräte-Checker](/compatibility/) behandelt, damit diese Seite dem Thema Ungarn gewidmet bleibt.
 
-**Die 30-Sekunden-Version:** Yettel ist die Wahl für Geschwindigkeit (schnellste 5G- und 4G-Mediane, beste Konstanz bei 94,6 %). Magyar Telekom ist die Wahl für Verfügbarkeit und Streaming (höchste 5G-Verfügbarkeit bei 50,8 %, bestes Videoerlebnis bei 91,23). One ist die Wahl für Gaming und Preis-Leistung, mit dem besten 5G-Gaming-Erlebnis im Land. Alle drei sind nach europäischen Maßstäben ausgezeichnet; die Unterschiede zeigen sich zwischen dem dicht bebauten Zentrum Budapests und der ländlichen Tiefebene, nicht zwischen einzelnen Stadtbezirken. Ein Multi-Netz-[Ungarn eSIM-Tarif](/hungary-esim/) löst die Frage für Sie, indem er sich automatisch mit dem stärksten der drei Netze an Ihrem Standort verbindet.
+**Die 30-Sekunden-Version:** Yettel ist die Wahl für Geschwindigkeit (schnellste 5G- und 4G-Mediane, beste Konstanz bei 94,6 %). Magyar Telekom ist die Wahl für Verfügbarkeit und Streaming (höchste 5G-Verfügbarkeit bei 50,8 %, bestes Videoerlebnis bei 91,23). One ist die Wahl für Gaming und Preis-Leistung, mit dem besten 5G-Gaming-Erlebnis im Land. Alle drei sind nach europäischen Maßstäben ausgezeichnet; die Unterschiede zeigen sich zwischen dem dicht bebauten Zentrum Budapests und der ländlichen Tiefebene, nicht zwischen einzelnen Stadtbezirken. Ein Multi-Netz-Tarif löst die Frage für Sie, indem er sich automatisch mit dem stärksten der drei Netze an Ihrem Standort verbindet.
 
 ## Die Wahl der richtigen eSIM für Ihre Reise
 
@@ -121,7 +121,7 @@ Genau hier füllt die Ungarn eSIM die Nische: ein ungarisches oder regionales eu
 
 ## Ihre eSIM-Preise im Vergleich zu lokalen SIMs
 
-Aktuelle ungarische Preise für Daten-only- und Unlimited-Tarife finden Sie auf der [Ungarn eSIM-Seite](/hungary-esim/). Die öffentlichen Daten liefern den lokalen Kontext:
+Aktuelle Preise für reine Daten- und Unlimited-Tarife finden Sie auf der Ungarn-Tarifseite. Die öffentlichen Daten liefern den lokalen Kontext:
 
 | Metrik | Ungarn | Globaler Median |
 |:---|:---|:---|
@@ -155,7 +155,7 @@ Die touristische Infrastruktur Ungarns läuft über eine Handvoll Apps, und sie 
 
 **Tagesausflüge.** Die Donauknie (Szentendre, Visegrád, Esztergom) und der Plattensee sind die klassischen Ausflugsziele, und die Netzabdeckung entlang beider Routen ist solide — Yettels konsistente Werte wurden größtenteils genau auf diesen Strecken erarbeitet. Zwischen den Orten sind kurze 4G-Aussetzer das Schlimmste.
 
-Eine Besonderheit, die man kennen sollte: Die Netze der ungarischen Netzbetreiber greifen nicht aufeinander zurück, sodass ein Einzelnetz-Tarif in einem Tal auf schwachem Signal sitzen kann, während ein stärkerer Sendemast in Sichtweite steht. Genau diesen Fehlerfall beseitigt ein Multi-Netz-[eSIM für Ungarn](/hungary-esim/).
+Eine Besonderheit, die man kennen sollte: Die Netze der ungarischen Netzbetreiber greifen nicht aufeinander zurück, sodass ein Einzelnetz-Tarif in einem Tal auf schwachem Signal sitzen kann, während ein stärkerer Sendemast in Sichtweite steht. Genau diesen Fehlerfall beseitigt ein Multi-Netz-Profil.
 
 ## eSIM für Ungarn vor dem Flug einrichten
 
@@ -176,7 +176,7 @@ Das Ende von 3G ist der einzig wirklich wichtige Kompatibilitätsaspekt für die
 
 ## APN-Einstellungen je Netzbetreiber
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 |:---|:---|:---|:---|
 | Magyar Telekom | `internet.telekom` | leer | leer |
 | One (ehemals Vodafone Ungarn) | `internet` | leer | leer |
@@ -197,6 +197,8 @@ Der Wert von Yettel hängt vom Tarif ab, weshalb der sicherste Ansatz bei einer 
 | Wo | In Filialen des Netzbetreibers, an Kiosken auf Flughäfen, an Zeitungsständen und online für eSIM |
 
 Die Registrierungsregel ist der Grund, warum eine lokale SIM eher ein Ladenbesuch als ein Kioskkauf ist. Wenn Ihnen zwei Stunden Ihres ersten Morgens mehr wert sind als die Ersparnis pro Gigabyte – und bei einer viertägigen Budapest-Reise ist das in der Regel der Fall –, kommen Sie mit der bereits installierten Ungarn eSIM an.
+
+Rechenbeispiel: 14 Gigabyte in einer Reisewoche kosten nach dem Cable.co.uk-Durchschnitt von 1,71 USD pro Gigabyte rechnerisch rund 24 USD. Das 5-GB-Prepaid-Bündel von Yettel (1.990 HUF) deckt kürzere Aufenthalte billiger ab, das Reise-Profil mit festem Vorabpreis liegt dazwischen und erspart zusätzlich die Registrierung mit Ausweis.
 
 ## Empfohlenes Datenvolumen nach Reiseart
 
@@ -243,13 +245,13 @@ Da Ungarn Teil des EU-Roam-like-at-home-Rahmens ist, folgt derselbe Tarif Ihnen 
 
 Flusskreuzfahrten zwischen Budapest und Passau sind die andere Art, wie Reisende diesen Teil Europas sehen. Während das Schiff fährt, hat Ihr Telefon kein Festnetz, an das es sich binden könnte, und das Bord-WLAN — in der Regel Satellit — ist die einzige Option. Betrachten Sie die Kreuzfahrtsstunden also als Offline-Abschnitt und laden Sie herunter, was Sie brauchen, solange Sie anlegen.
 
-In Budapest selbst verhält sich das Profil wie jede städtische eSIM. Die Komplikation liegt flussabwärts: Ein reiner Ungarn-Tarif funktioniert an der slowakischen und deutschen Grenze nicht mehr. Wenn die Reiseroute also eine Einwegfahrt Budapest–Passau ist und keine Rundreise, wägen Sie einen mitteleuropäischen Regionaltarif gegen Ihre Ungarn eSIM ab — unsere [Slowakei eSIM-Netzbetreiber](/slovakia-esim/) und die [Deutschland eSIM-Seite](/germany-esim/) decken die beiden Etappen ab, die am häufigsten ergänzt werden.
+In Budapest selbst verhält sich das Profil wie jede städtische eSIM. Die Komplikation liegt flussabwärts: Ein reiner Ungarn-Tarif funktioniert an der slowakischen und deutschen Grenze nicht mehr. Wenn die Reiseroute also eine Einwegfahrt Budapest–Passau ist und keine Rundreise, wägen Sie einen mitteleuropäischen Regionaltarif gegen Ihre Ungarn eSIM ab — unsere Slowakei-Netzbetreiber-Seite und die [Deutschland eSIM-Seite](/germany-esim/) decken die beiden Etappen ab, die am häufigsten ergänzt werden.
 
 ## Ihre Fragen zur Ungarn eSIM
 
 ### Besteht Ihr Gerät den eSIM-Check?
 
-Höchstwahrscheinlich ja, sofern es entsperrt und eSIM-fähig ist. Die ungarischen 4G-Bänder (800/1800/2600 MHz) und 5G (n78 primär, n1 für Netzabdeckung) werden von gängigen internationalen Smartphones unterstützt. Eine schnelle Abfrage auf der [Kompatibilitätsseite](/compatibility/) bestätigt Ihr genaues Modell.
+Höchstwahrscheinlich ja, sofern es entsperrt und eSIM-fähig ist. Die ungarischen 4G-Bänder (800/1800/2600 MHz) und 5G (n78 primär, n1 für Netzabdeckung) werden von gängigen internationalen Smartphones unterstützt. Eine schnelle Abfrage auf der Kompatibilitätsseite bestätigt Ihr genaues Modell.
 
 ### Wie gut ist das 5G in Ungarn?
 
@@ -265,19 +267,19 @@ Touristen tun das fast nie. Ride-Hailing, Reservierungen und Messaging funktioni
 
 ### Funktioniert meine EU-SIM in Ungarn ohne Aufpreis?
 
-Ja, sofern der Tarif in der EU ausgestellt wurde, innerhalb der Fair-Use-Grenze Ihres Heimtarifs. Nicht-EU-Profile (UK, US und die meisten Reise-eSIMs) haben keine automatischen Rechte; deren Preisgestaltung wird vom Tarif selbst bestimmt — weshalb eine speziell dafür entwickelte [Ungarn eSIM](/hungary-esim/) in der Regel sowohl preislich als auch planbar die bessere Wahl ist.
+Ja, sofern der Tarif in der EU ausgestellt wurde, innerhalb der Fair-Use-Grenze Ihres Heimtarifs. Nicht-EU-Profile (UK, US und die meisten Reise-eSIMs) haben keine automatischen Rechte; deren Preisgestaltung wird vom Tarif selbst bestimmt — weshalb ein eigens dafür entwickeltes Profil in der Regel sowohl preislich als auch planbar die bessere Wahl ist.
 
 ### Warum findet die Ungarn eSIM kein Netz?
 
-Prüfen Sie, dass Datenroaming für die eSIM-Leitung aktiviert ist, und versuchen Sie dann eine manuelle Netzwahl (Yettel oder Magyar Telekom) statt der automatischen — Handys parken sich gelegentlich beim schwächsten Netzbetreiber ein. Wenn es weiterhin verweigert wird, fängt die strukturierte Checkliste im [eSIM-Aktivierungs-Fehlerbehebungs-Guide](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab.
+Prüfen Sie, dass Datenroaming für die eSIM-Leitung aktiviert ist, und versuchen Sie dann eine manuelle Netzwahl (Yettel oder Magyar Telekom) statt der automatischen — Handys parken sich gelegentlich beim schwächsten Netzbetreiber ein. Wenn es weiterhin verweigert wird, fängt die strukturierte Checkliste im eSIM-Aktivierungs-Fehlerbehebungs-Guide den Rest ab.
 
 ### Welches der drei Netze ist am schnellsten?
 
-Yettel, eindeutig. Der mediane 5G-Download wurde mit 369,08 Mbps gemessen, gegenüber Magyar Telekom's 101,82 Mbps und One's 66,84 Mbps, und es verzeichnete die beste Konstanz im Land — 94,6 % über alle Technologien und 96,2 % bei 5G — und war in allen zehn gemessenen Städten der schnellste Anbieter.
+Yettel, eindeutig. Der mediane 5G-Download wurde mit 369,08 Mbps gemessen, gegenüber Magyar Telekoms 101,82 Mbps und Ones 66,84 Mbps, und es verzeichnete die beste Konstanz im Land — 94,6 % über alle Technologien und 96,2 % bei 5G — und war in allen zehn gemessenen Städten der schnellste Anbieter.
 
 ### Ist Magyar Telekom eine gute Alternative zu Yettel in Ungarn?
 
-Yes, und bei einer Kennzahl schlägt es Yettel direkt: 5G-Verfügbarkeit von 50,8 %, was bedeutet, dass die Hälfte der Nutzer die meiste Zeit auf 5G verbringt. Außerdem bietet es das beste mobile Videoerlebnis in Ungarn mit 91,23. Sie geben Spitzengeschwindigkeit auf — 101,82 Mbps medianes 5G gegenüber 369,08 — im Gegenzug für Reichweite.
+Ja, und bei einer Kennzahl schlägt es Yettel direkt: 5G-Verfügbarkeit von 50,8 %, was bedeutet, dass die Hälfte der Nutzer die meiste Zeit auf 5G verbringt. Außerdem bietet es das beste mobile Videoerlebnis in Ungarn mit 91,23. Sie geben Spitzengeschwindigkeit auf — 101,82 Mbps medianes 5G gegenüber 369,08 — im Gegenzug für Reichweite.
 
 ### Warum ist Budapests mobiler Download langsamer als der von Szombathely?
 
@@ -285,19 +287,19 @@ Szombathely verzeichnete mit 130,9 Mbps den schnellsten Stadt-Median in Ungarn, 
 
 ### Ist 3G in Ungarn noch verfügbar?
 
-Nein. Ungarn hat seine 3G-Netze im November 2023 abgeschaltet. Ein Gerät, das für die Sprach fallback auf 3G angewiesen ist, wird keine Anrufe tätigen können, und ein Gerät, das kein 4G halten kann, wird sich ohnehin nicht sinnvoll einbuchen. Prüfen Sie vor der Reise, dass Ihr Telefon 4G LTE oder 5G unterstützt.
+Nein. Ungarn hat seine 3G-Netze im November 2023 abgeschaltet. Ein Gerät, das für Telefonate auf 3G zurückfällt, wird keine Anrufe tätigen können, und ein Gerät, das kein 4G halten kann, wird sich ohnehin nicht sinnvoll einbuchen. Prüfen Sie vor der Reise, dass Ihr Telefon 4G LTE oder 5G unterstützt.
 
 ### Wird für ungarische SIM-Karten eine Identifizierung benötigt?
 
-Yes — Prepaid-Leitungen werden auf Ihren Namen und Ihre Ausweisnummer registriert, wofür ein Reisepass oder ein EU-Personalausweis akzeptiert wird. Damit ist eine lokale SIM ein Ladenbesuch statt eines Kioskkaufs, und das ist der Hauptgrund, warum eine Reise-eSIM die schnellere Option für einen Kurztrip ist.
+Ja — Prepaid-Leitungen werden auf Ihren Namen und Ihre Ausweisnummer registriert, wofür ein Reisepass oder ein EU-Personalausweis akzeptiert wird. Damit ist eine lokale SIM ein Ladenbesuch statt eines Kioskkaufs, und das ist der Hauptgrund, warum eine Reise-eSIM die schnellere Option für einen Kurztrip ist.
 
 ### APN-Werte für Yettel- und Magyar Telekom-eSIMs
 
 Magyar Telekom verwendet `internet.telekom`, One verwendet `internet` mit leerem Benutzernamen und Passwort, und Yettel verwendet je nach Tarif `net` oder `online`. Nur relevant, wenn Sie die Leitung lokal gekauft haben — eine Reise-eSIM konfiguriert sich selbst.
 
-### Ländliche Netzabdeckung in Ungarn: Yettel vs. Magyar Telekom
+### Ist das ländliche Ungarn besser versorgt, als Besucher denken?
 
-Yes, und besser als die meisten Besucher erwarten: Das Komitat Somogy, das das Südufer des Balaton umfasst, erreichte 87,64 Mbps bei 93,1 % Konstanz — den zweiten Platz im Land hinter Budapest. Das ländliche Nógrád ist mit 43,74 Mbps der Schwachpunkt.
+Ja, und besser als die meisten Besucher erwarten: Das Komitat Somogy, das das Südufer des Balaton umfasst, erreichte 87,64 Mbps bei 93,1 % Konstanz — den zweiten Platz im Land hinter Budapest. Das ländliche Nógrád ist mit 43,74 Mbps der Schwachpunkt.
 
 ### Kann ich eine Ungarn eSIM in Österreich, der Slowakei oder Kroatien nutzen?
 
@@ -307,9 +309,9 @@ Ein Tarif mit EU-Roaming-Abdeckung deckt dies ab, ja. Ungarn gehört zum Roam-li
 
 Eine komfortable Woche Budapest kommt auf fünf bis acht Gigabyte, wenn Karten, Verkehrs-Apps, Messaging und Foto-Backups mitgerechnet werden, während Hotel- und Café-WLAN den Rest tragen. Budapests niedrige Latenz macht die Stadt zudem zu einem guten Ort für Videoanrufe.
 
-### Ungarische Datentarife verstehen
+### Wie teuer sind mobile Daten in Ungarn?
 
-Er liegt nahe am globalen Durchschnitt pro Gigabyte — die Preisstudie von Cable.co.uk platziert Ungarn in der Mitte der Tabelle, nicht bei den günstigen Märkten wie Rumänien. Lokale Prepaid-Bündel sind die Preissieger; eine Reise-eSIM kostet mehr pro Gigabyte und erspart Ihnen die Registrierungsschlange.
+Der Preis pro Gigabyte liegt nahe am globalen Durchschnitt — die Preisstudie von Cable.co.uk platziert Ungarn in der Mitte der Tabelle, nicht bei den günstigen Märkten wie Rumänien. Lokale Prepaid-Bündel sind die Preissieger; eine Reise-eSIM kostet mehr pro Gigabyte und erspart Ihnen die Registrierungsschlange.
 
 ### Yettel vs. Magyar Telekom: Was ist in Ungarn besser?
 
@@ -319,7 +321,7 @@ Bei den regionalen Daten Yettel — es ist in jeder Region der schnellste Anbiet
 
 Inlandskontingente gelten auf den Prepaid-Stufen der Hauptnetzbetreiber in der Regel ohne Aufpreis in der EU, der Türkei und der Schweiz, vorbehaltlich der Fair-Use-Grenzen. Das ist eines der stärksten Argumente für eine lokale Leitung, wenn Ihre Reise in Österreich, die Slowakei oder nach Kroatien weitergeht.
 
-### Wie groß Ihr ungarisches Datenpaket sein sollte
+### Wie gut ist der Empfang am Plattensee?
 
 Besser als die meisten Besucher annehmen. Das Komitat Somogy, das das Südufer umfasst, erreicht 87,64 Mbps bei 93,1 % Konstanz — den zweiten Platz im Land, nur hinter Budapest. Das Nordufer durch Veszprém liegt bei 71,86 Mbps. Die Schwachstellen sind Weinberg-Seitenstraßen, nicht die Orte am Seeufer.
 
@@ -333,23 +335,23 @@ Szombathely, mit 130,9 Mbps — dem schnellsten Stadt-Median des Landes. Budapes
 
 ### Kann ich mich in Ungarn nur auf mobile Daten verlassen?
 
-Yes, bequem. Da jede gemessene Stadt über 70 Mbps liegt, die Konstanz zwischen 89 % und 95 % beträgt und die Hauptstadt eine Latenz von 30 ms aufweist, deckt ein einziger eSIM-Tarif eine normale Ungarn-Reise ohne Festnetz-Back-up ab — einschließlich einer Woche, die Budapest mit dem Plattensee kombiniert.
+Ja, bequem. Da jede gemessene Stadt über 70 Mbps liegt, die Konstanz zwischen 89 % und 95 % beträgt und die Hauptstadt eine Latenz von 30 ms aufweist, deckt ein einziger eSIM-Tarif eine normale Ungarn-Reise ohne Festnetz-Back-up ab — einschließlich einer Woche, die Budapest mit dem Plattensee kombiniert.
 
 ### Ich habe bereits eine EU-SIM — brauche ich trotzdem ein Ungarn-Profil?
 
-Wenn Ihre EU-SIM ein Reise- oder Roaming-Produkt ist, wahrscheinlich nicht; wenn es ein Heimtarif mit Roaming-Kontingent ist, hängt es vollständig von der Obergrenze ab. Der Fall für eine dedizierte [Ungarn eSIM](/hungary-esim/) ist intensiver Gebrauch: Ein Multi-Netz-Profil, das Yettel, Magyar Telekom und One erreicht, funktioniert weiter, wenn die Fair-Use-Drosselung Ihre Heimleitung sonst auf ein Kriechtempo herunterregulieren würde.
+Wenn Ihre EU-SIM ein Reise- oder Roaming-Produkt ist, wahrscheinlich nicht; wenn es ein Heimtarif mit Roaming-Kontingent ist, hängt es vollständig von der Obergrenze ab. Der Fall für ein dediziertes Profil ist intensiver Gebrauch: Ein Multi-Netz-Profil, das Yettel, Magyar Telekom und One erreicht, funktioniert weiter, wenn die Fair-Use-Drosselung Ihre Heimleitung sonst auf ein Kriechtempo herunterregulieren würde.
 
 ### Klingelt meine Festnetznummer weiter, während ungarische Daten laufen?
 
-Yes. Die physische SIM nimmt die Anrufe und Verifizierungs-SMS entgegen, die eSIM übernimmt die Daten, und die Kombination ist in Ungarn unauffällig, da beide Konfigurationen auf modernen Handys gang und gäbe sind. Schalten Sie Datenroaming auf Ihrer Heimleitung aus, sofern Ihr Tarif dies nicht einschließt — diese Einstellung entscheidet über Ihre Rechnung, nicht die eSIM.
+Ja. Die physische SIM nimmt die Anrufe und Verifizierungs-SMS entgegen, die eSIM übernimmt die Daten, und die Kombination ist in Ungarn unauffällig, da beide Konfigurationen auf modernen Handys gang und gäbe sind. Schalten Sie Datenroaming auf Ihrer Heimleitung aus, sofern Ihr Tarif dies nicht einschließt — diese Einstellung entscheidet über Ihre Rechnung, nicht die eSIM.
 
 ### Yettel-Vertrag oder eine Prepaid-Karte aus einem Budapester Laden?
 
 Keines davon ist Ihre Urlaubszeit wert. Ungarn registriert Prepaid-SIMs gegen eine Identität, sodass ein Ladenbesuch unvermeidlich ist, und ein Yettel- oder Telekom-Vertrag steht Besuchern schlicht nicht offen. Lokale Starterpakete lohnen sich für ein Semester im Ausland; für eine Woche zwischen Budapest und Balaton hat das Profil, das Sie zu Hause installiert haben, bereits gewonnen.
 
-### Ungarn eSIM-Empfehlungen, Reise für Reise
+### Lässt sich die Ungarn-eSIM unterwegs aufladen?
 
-Yes — das Aufladen erfolgt in der App des Anbieters über das WLAN der jeweiligen Pension am See. Was Sie nicht tun können, ist sich am Sonntag auf einen Netzbetreiber-Shop in Balatonfüred verlassen. Da die ungarische Netzabdeckung gleichmäßig genug ist, dass man selten über das Netz nachdenkt, ist ein Leerlaufen eher ein Planungsfehler als ein Versorgungsproblem.
+Ja — das Aufladen erfolgt in der App des Anbieters über das WLAN der jeweiligen Pension am See. Was Sie nicht tun können, ist sich am Sonntag auf einen Netzbetreiber-Shop in Balatonfüred verlassen. Da die ungarische Netzabdeckung gleichmäßig genug ist, dass man selten über das Netz nachdenkt, ist ein Leerlaufen eher ein Planungsfehler als ein Versorgungsproblem.
 
 ### Ungarn-Tarife mit den niedrigsten Preisen
 
@@ -369,7 +371,7 @@ Die ersten zwei aktualisieren sich nach dem Zeitplan von Ookla, Preis- und Durch
 
 ## Wählen Sie Ihre Ungarn eSIM vor der Abreise
 
-Zwischen Yettel's Geschwindigkeit, Telekom's Reichweite und One's Preis ist die Auswahl unter drei Namen schwieriger als nötig. Ein Multi-Netzwerk-Profil beseitigt dieses Problem vollständig.
+Zwischen Yettels Geschwindigkeit, Telekoms Reichweite und Ones Preis ist die Auswahl unter drei Namen schwieriger als nötig. Ein Multi-Netzwerk-Profil beseitigt dieses Problem vollständig.
 
 Neukunden können [eine Ungarn eSIM kostenlos testen](/free-esim/) oder direkt zu den [aktuellen Ungarn-Tarifen](/hungary-esim/) gehen.
 
@@ -377,4 +379,4 @@ Neukunden können [eine Ungarn eSIM kostenlos testen](/free-esim/) oder direkt z
 
 *Free Testversion für Erstnutzer*
 
-Roami's Rat ist einfach: landen Sie verbunden. Beginnen Sie mit der [kostenlosen Pilot-eSIM](/free-esim/), um die Yettel Netzabdeckung risikofrei zu testen, und nutzen Sie anschließend den Code **WEB20** für einen vollständigen Roami-Tarif, sobald Sie die Testversion überzeugt hat.
+Roamis Rat ist einfach: Landen Sie verbunden. Beginnen Sie mit der [kostenlosen Pilot-eSIM](/free-esim/), um die Yettel Netzabdeckung risikofrei zu testen, und nutzen Sie anschließend den Code **WEB20** für einen vollständigen Roami-Tarif, sobald Sie die Testversion überzeugt hat.

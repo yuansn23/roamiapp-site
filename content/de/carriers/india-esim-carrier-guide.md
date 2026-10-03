@@ -16,13 +16,13 @@ hero_subtitle_main: "Jio, Airtel und Vi auf dem Prüfstand"
 ---
 
 
-Die Wahl einer Indien-eSIM bedeutet, das Netz auf Ihre Bundesstaaten abzustimmen: drei private Anbieter und ein staatlicher Riese teilen die Landkarte unter sich auf, und dieser Ratgeber zeigt, wer wo gewinnt. Indien stapelt vier Netze übereinander – drei private und ein staatliches – und Ihre Reiseroute entscheidet, welches davon infrage kommt. Laut Ooklas Indien-Bericht für das 2. Halbjahr 2024 war Jio der schnellste Mobilfunkanbieter mit einem medianen 5G-Download von 258,54 Mbps, Airtel führte bei Video- und 5G-Gaming-Erlebnis, und Vi lag bei der reinen Geschwindigkeit zurück. Gleichen Sie das Netz mit den Bundesstaaten ab, die Sie tatsächlich bereisen, nicht mit den Werbeversprechen. Schon einmal eine Reise-eSIM installiert? Überspringen Sie direkt zum Indien-Netzbetreiber-Vergleich – der Aktivierungsteil ist für absolute Erstnutzer geschrieben.
+Die Wahl einer Indien-eSIM bedeutet, das Netz auf Ihre Bundesstaaten abzustimmen: drei private Anbieter und ein staatlicher Riese teilen die Landkarte unter sich auf, und dieser Ratgeber zeigt, wer wo gewinnt. Vier Netze konkurrieren um Ihre Route, und welches davon infrage kommt, entscheidet der Streckenverlauf. Laut Ooklas Indien-Bericht für das 2. Halbjahr 2024 war Jio der schnellste Mobilfunkanbieter mit einem medianen 5G-Download von 258,54 Mbps, Airtel führte bei Video- und 5G-Gaming-Erlebnis, und Vi lag bei der reinen Geschwindigkeit zurück. Gleichen Sie das Netz mit den Bundesstaaten ab, die Sie tatsächlich bereisen, nicht mit den Werbeversprechen. Schon einmal eine Reise-eSIM installiert? Überspringen Sie direkt zum Indien-Netzbetreiber-Vergleich – der Aktivierungsteil ist für absolute Erstnutzer geschrieben.
 
 **Schnelle Antwort:** Jio, wenn Sie durchs ganze Land reisen, Airtel, wenn Sie überwiegend in einer Stadt bleiben. Diese Aufteilung hält in den unten stehenden Angaben zu Geschwindigkeit, Preis und Registrierung stand; die [Kompatibilitätsseite](/compatibility/) klärt zuerst die Gerätefrage – und die beste eSIM für Indien ergibt sich aus Ihrer Route.
 
-Erste Frage, die es zu klären gilt: Kann Ihr Telefon überhaupt eine eSIM nutzen? Die [eSIM-Kompatibilitätsliste](/compatibility/) klärt das in unter einer Minute, und der Erklärtext [zur eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) beschreibt, was beim Herunterladen eines Profils passiert. Alles nach diesem Punkt betrifft die Netze.
+Erste Frage, die es zu klären gilt: Kann Ihr Telefon überhaupt eine eSIM nutzen? Die eSIM-Kompatibilitätsliste klärt das in unter einer Minute, und der Erklärtext [zur eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) beschreibt, was beim Herunterladen eines Profils passiert. Alles nach diesem Punkt betrifft die Netze.
 
-**Fazit:** Bleiben Sie in Mumbai, Delhi oder Bengaluru? Jio ist das schnellste Netz im Land und das einzige, das echtes Standalone-5G betreibt. Streamen Sie viel Video oder spielen Sie unterwegs? Airtel gewinnt bei Video- und 5G-Gaming-Wertungen. Geht es nach Ladakh, nach Rajasthan oder in den Nordosten? Jio reicht weiter, aber kein einzelner Netzbetreiber deckt die hohen Pässe ab. Wollen Sie die Pass-Schlange und die Aktivierungswartezeit überspringen? Der [kostenlose Test](/free-esim/) probiert die Netze ohne Kosten aus, und **WEB20** gibt 20 % Rabatt auf [Indien Prepaid eSIM-Tarife](/india-esim/).
+**Fazit:** Bleiben Sie in Mumbai, Delhi oder Bengaluru? Jio ist das schnellste Netz im Land und das einzige, das echtes Standalone-5G betreibt. Streamen Sie viel Video oder spielen Sie unterwegs? Airtel gewinnt bei Video- und 5G-Gaming-Wertungen. Geht es nach Ladakh, nach Rajasthan oder in den Nordosten? Jio reicht weiter, aber kein einzelner Netzbetreiber deckt die hohen Pässe ab. Wollen Sie die Pass-Schlange und die Aktivierungswartezeit überspringen? Der [kostenlose Test](/free-esim/) probiert die Netze ohne Kosten aus, und **WEB20** gibt 20 % Rabatt auf die Indien Prepaid eSIM-Tarife.
 
 ## Die Netzbetreiber für Ihre Indien-eSIM
 
@@ -47,7 +47,7 @@ Indien hat effektiv vier Mobilfunknetze, wobei das vierte das ist, das die meist
 |:---|:---|:---|:---|
 | Jio | Eigenes 4G- und 5G-Netz | Ja, nach Reisepass-KYC | Reisende, die die Großstädte verlassen, jeder, der ein eigenständiges 5G-Netz nutzen möchte |
 | Airtel | Eigenes 4G- und 5G-Netz | Ja, nach Reisepass-KYC | Städtereisen, Video-Streaming, Gaming unterwegs |
-| Vi (Vodafone Idee) | Eigenes 4G-Netz, eingeschränktes 5G | Ja, nach Reisepass-KYC | Budget-Reisende, die in Metropolregionen bleiben |
+| Vi (Vodafone Idea) | Eigenes 4G-Netz, eingeschränktes 5G | Ja, nach Reisepass-KYC | Budget-Reisende, die in Metropolregionen bleiben |
 | BSNL | Staatlicher Netzbetreiber | Eingeschränkt, größtenteils physische SIM | Abgelegene Regionen und Grenzgebiete, in denen die Netzabdeckung privater Anbieter nachlässt |
 
 Zwei Vorbehalte. Erstens: BSNL ist in staatlicher Hand und stützt sich für die Netzabdeckung in ländlichen Gebieten und an Grenzen auf den Staat, doch die Geschwindigkeiten und die Konstanz liegen weit hinter dem privaten Trio zurück – der Konstanzwert von Ookla für BSNL liegt bei 40,7 gegenüber 83,7 bei Jio. Zweitens ist eine lokal ausgestellte eSIM dauerhaft an einen Netzbetreiber gebunden, sodass Sie in dem Moment, in dem Sie das starke Versorgungsgebiet dieses Netzes verlassen, auf sich allein gestellt sind.
@@ -96,7 +96,7 @@ Wenn Sie ein gebrauchtes Telefon oder ein Vertragstelefon gekauft haben, gehen S
 | Telefone ohne Band 41 oder n78 | Schnell in Städten, langsamer in ländlichen 4G-Gebieten | Erwartetes Verhalten; siehe regionale Netzabdeckungshinweise unten |
 | Dual SIM-Nutzer | eSIM installiert, aber keine Daten | Legen Sie die Indien-eSIM als die Leitung fest, die für mobile Daten genutzt wird |
 
-Alles nach diesem Schritt hängt vom Telefon in Ihrer Hand ab, nicht von Jio oder Airtel. Ein kurzer Stopp von zwei Minuten beim [eSIM-Kompatibilitätstool](/compatibility/) ist besser, als das Problem erst am Schalter des Delhi-Flughafens zu entdecken.
+Alles nach diesem Schritt hängt vom Telefon in Ihrer Hand ab, nicht von Jio oder Airtel. Ein kurzer Stopp von zwei Minuten beim eSIM-Kompatibilitätstool ist besser, als das Problem erst am Schalter des Delhi-Flughafens zu entdecken.
 
 ## Preise im direkten Vergleich
 
@@ -148,7 +148,7 @@ Die Preise ändern sich häufig, daher betrachten Sie die folgenden Zeilen als i
 | Vi | 1,5 GB pro Tag | 28 Tage | ab 299 |
 | Flughafen-Touristenpaket | ca. 1 GB pro Tag | 28 Tage | ca. 500 |
 
-Diese Rupienpreise sind der Grund, warum ein lokaler Tarif preislich unschlagbar ist, aber denken Sie an die Wartezeit bei der Aktivierung und die Schlange am Pass-Schalter, die damit einhergehen. Der Reiseweg tauscht diese Ersparnis gegen sofortige Bereitstellung und keinen Papierkram ein.
+Diese Rupienpreise sind der Grund, warum ein lokaler Tarif preislich unschlagbar ist, aber denken Sie an die Wartezeit bei der Aktivierung und die Schlange am Pass-Schalter, die damit einhergehen. Der Reiseweg tauscht diese Ersparnis gegen sofortige Bereitstellung und keinen Papierkram ein. Nachrechnen lässt sich der Vorsprung: 28 Tage mit 2 GB pro Tag ergeben 56 Gigabyte für 299 Rupien — ein Betrag, der pro Gigabyte weit unter dem weltweiten Durchschnitt von 2,59 USD liegt, den Cable.co.uk ausweist.
 
 ### Die Dokumente für den Schalterkauf
 
@@ -162,7 +162,7 @@ Diese Rupienpreise sind der Grund, warum ein lokaler Tarif preislich unschlagbar
 | 6 | indische Rupien oder eine funktionsfähige Karte | Schalter am Flughafen bevorzugen möglicherweise Bargeld; ausländische Karten werden manchmal abgelehnt |
 | 7 | WLAN | Installieren Sie das Profil erst, nachdem die Überprüfung erfolgreich abgeschlossen wurde, nicht während des Fluges |
 
-Laden Sie Screenshots Ihrer Reisepassseite, Ihres Visums und Ihrer Hotelbuchung vorab auf Ihr Handy, damit der Schalter nicht mit einer langsamen Verbindung kämpfen muss. Sehen Sie sich die [Indien eSIM-Tarife](/india-esim/) an, um die aktuellen Stufen zu vergleichen, bevor Sie sich entscheiden.
+Laden Sie Screenshots Ihrer Reisepassseite, Ihres Visums und Ihrer Hotelbuchung vorab auf Ihr Handy, damit der Schalter nicht mit einer langsamen Verbindung kämpfen muss. Sehen Sie sich die Indien-eSIM-Tarife an, um die aktuellen Stufen zu vergleichen, bevor Sie sich entscheiden.
 
 ## Was die Netze auf Ihrer Route leisten
 
@@ -218,15 +218,15 @@ Planen Sie eine Route, die Indien verlässt? Beginnen Sie mit dem [Nepal eSIM-Gu
 
 Die Netzwerkwahl auf „automatisch“ zu belassen, sorgt für diesen nahtlosen Übergang. Eine Indien-eSIM, die zwischen Jio und Airtel wechseln kann, deckt die regionalen Lücken ab, die ein Einzelanbieter-Tarif nicht schließen kann, und erspart Ihnen das Problem mit einer ausländischen SIM in Jammu und Kashmir.
 
-## APN einrichten
+## APN-Einstellungen für Jio, Airtel und Vi
 
 Fast niemand muss APN-Einstellungen anpassen, und genau deshalb sind sie das Erste, das Sie ausschließen sollten, wenn keine Daten fließen. Im Folgenden: die Werte für die drei Netzbetreiber, wann eine manuelle Eingabe tatsächlich nötig ist, und die genauen Menüpfade.
 
-### Die APN-Werte der drei Netzbetreiber
+### Die APN-Werte von Jio, Airtel und Vi im Detail
 
 Sie benötigen diese nur, wenn Sie eine SIM oder eSIM direkt von einem indischen Netzbetreiber gekauft haben. Eine Reise-eSIM wird mit vorgeladenem APN geliefert, was eine Sache weniger ist, die Sie am Anreisetag konfigurieren müssen.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Mobilfunkmarke | Zugangspunkt (APN) | Nutzer | Kennwort |
 |:---|:---|:---|:---|
 | Jio | `jionet` | leer | leer |
 | Airtel | `airtelgprs.com` | leer | leer |
@@ -234,12 +234,12 @@ Sie benötigen diese nur, wenn Sie eine SIM oder eSIM direkt von einem indischen
 
 Lassen Sie Benutzername und Passwort leer. Sollte ein Netzbetreiber zusätzliche Angaben verlangen, finden Sie die entsprechenden Hinweise in den Anweisungen, die mit dem Profil geliefert werden.
 
-### Wann eine manuelle APN-Eingabe nötig ist
+### Wann Sie den APN bei Jio, Airtel oder Vi von Hand setzen müssen
 
 - Ein älteres Gerät, das die automatische Übernahme der Betreibereinstellungen überspringt
-- Ein Profil, das mit einem manuellen Aktivierungscode statt per QR-Scan installiert wurde
-- Eine vom Netzbetreiber ausgegebene Prepaid-eSIM, bei der die automatische Konfiguration nicht ausgeführt wurde
-- Fast nie bei einer Reise-eSIM – das ist der Sinn eines verwalteten Profils
+- Ein Profil, das über einen eingetippten Aktivierungscode statt über den QR-Scan eingerichtet wurde
+- Eine vor Ort nach KYC ausgestellte Prepaid-eSIM, deren automatische Konfiguration fehlgeschlagen ist
+- Bei einer Reise-eSIM praktisch nie – das übernimmt das verwaltete Profil
 
 ### Die Menüpfade für die manuelle Eingabe
 
@@ -258,7 +258,7 @@ Dieser Abschnitt führt Sie in einem Durchgang von einer sauberen Installation b
 |:---|:---|:---|
 | 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | In „Über das Telefon“ → „Netzbetreiber-Sperre“ sind keine SIM-Einschränkungen aufgeführt |
 | 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder der Kompatibilitätscheck bestätigt Ihr Modell |
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud gespeichert |
+| 3 | QR-Code und Code gesichert | Screenshot auf dem Gerät und zusätzlich in der Cloud abgelegt |
 | 4 | Dokumente bereit für KYC | Reisepass, Visum, Foto und Hoteladresse zur Hand |
 | 5 | Datenleitung und Roaming eingestellt | eSIM für mobile Daten ausgewählt, Datenroaming aktiv |
 
@@ -280,19 +280,19 @@ Das Detail, das jeden Erstbesucher überrascht, ist die Wartezeit. Einwohner erl
 
 Für den umfassenderen Fehlerkatalog – von Downloads, die hängen bleiben, bis hin zu Profilen, die zwar installiert werden, aber sich nie registrieren – nutzen Sie unseren [eSIM-Fehlerbehebungsleitfaden](/faq/esim-activation-errors-troubleshooting-guide/). In Indien treten immer wieder vier Muster auf – die folgende Liste behandelt sie.
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das Jio- oder Airtel-Profil lässt sich nach dem QR-Scan nicht installieren**
 
 1. Einstellungen → Allgemein → Info → SIM-Lock sollte „Keine SIM-Einschränkungen“ anzeigen
 2. Der Code übersteht in der Regel genau einen Scan, halten Sie ihn also sauber und verwenden Sie ihn einmal
 3. Fragen Sie beim Netzbetreiber nach, ob die KYC abgeschlossen ist, da eine lokale Leitung erst nach bestandener Verifizierung Daten laden kann
 
-**B. Installiert, aber keine Signalbalken**
+**B. Profil aktiv, aber keine Signalbalken**
 
-1. Prüfen Sie den Sperrstatus erneut
+1. Kontrollieren Sie erneut, ob das Gerät unter „SIM-Lock“ wirklich „Keine SIM-Einschränkungen“ anzeigt
 2. Einstellungen → Mobilfunk → Netzwerkauswahl → Jio oder Airtel manuell statt automatisch auswählen
 3. Netzwerkeinstellungen zurücksetzen und das Gerät neu starten
 
-**C. Signalbalken, aber kein Internet**
+**C. Balken vorhanden, Daten fließen nicht**
 
 1. Gleichen Sie jedes APN-Feld mit den Werten in der Tabelle oben ab
 2. Bestätigen Sie, dass die Indien-eSIM die aktive Datenleitung ist, nicht Ihre Heim-SIM
@@ -304,17 +304,17 @@ Für den umfassenderen Fehlerkatalog – von Downloads, die hängen bleiben, bis
 2. Stellen Sie sicher, dass die indische Leitung, nicht die Reise-eSIM, für den SMS-Empfang eingestellt ist
 3. Denken Sie daran, dass eine reine Daten-Reise-eSIM diese Codes nie erhält – deshalb behalten einige Reisende zusätzlich eine lokale Leitung
 
-### Was Sie vor dem Support-Kontakt bereithalten
+### Vorbereitung für den Kontakt zum Jio- oder Airtel-Support
 
 | Information | Wo Sie diese finden |
 |:---|:---|
-| Bestell- oder Kundennummer | Bestätigungs-E-Mail oder die App des Netzbetreibers |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Bestell- oder Kundennummer | Bestätigungsmail bzw. die MyJio- oder Airtel-App |
+| Gerätemodell und Android-/iOS-Version | Einstellungen → Über das Telefon bzw. Allgemein → Info (iPhone) |
 | EID | `*#06#` |
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
-| Aktuelle APN-Einstellungen | Einstellungen → Mobiles Datennetz |
-| Daten-Roaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Screenshot der Fehlermeldung | Noch im Fehlerdialog aufnehmen, bevor der Bildschirm wechselt |
+| Eingetragener APN | iPhone: Einstellungen → Mobiles Datennetz; Android: Zugangspunktnamen |
+| Datenroaming der Indien-Leitung | Einstellungen → Mobilfunk → Indien-Daten → Datenroaming |
+| Bereits getestete Schritte | Drei bis vier Punkte in Reihenfolge genügen |
 
 ## Was Reisende vorab wissen wollen
 
@@ -352,17 +352,17 @@ Direkt bedeutet: ein Netz, vom Netzbetreiber bereitgestellte Provisionierung, ei
 
 ### Welche Geräte machen in Indien Probleme?
 
-Zwei Anforderungen sind entscheidend: Das Gerät muss entsperrt und eSIM-fähig sein und idealerweise die Bänder abdecken, die Jio und Airtel nutzen. Prüfen Sie beides in einem Schritt mit der [Kompatibilitätsliste](/compatibility/), die die Band-Frage für indisches 4G und 5G abdeckt. Falls der Installationsschritt unklar ist, führt die [Schritt-für-Schritt-Anleitung](/faq/what-is-esim-activation-and-how-does-it-work/) durch das Ganze.
+Zwei Anforderungen sind entscheidend: Das Gerät muss entsperrt und eSIM-fähig sein und idealerweise die Bänder abdecken, die Jio und Airtel nutzen. Prüfen Sie beides in einem Schritt mit der Kompatibilitätsliste, die die Band-Frage für indisches 4G und 5G abdeckt. Falls der Installationsschritt unklar ist, führt die Schritt-für-Schritt-Anleitung durch das Ganze.
 
-### Was tun wenn die Aktivierung nicht klappt?
+### Was tun, wenn die Aktivierung nicht klappt?
 
 Arbeiten Sie die vier Indien-spezifischen Muster oben der Reihe nach ab: Sperrstatus, Netzwerkwahl, APN und Datenleitung, dann Profil neu installieren. Wenn es weiterhin fehlschlägt, deckt der umfassendere Fehlerkatalog im [Aktivierungs-Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Bevor Sie den Support kontaktieren, halten Sie die EID, die Bestellnummer und einen Screenshot des Fehlers bereit.
 
 ### Was genau macht der eSIM-Chip in Ihrem Gerät?
 
-Statt einer entnehmbaren Karte trägt Ihr Gerät einen werkseitig verbauten Chip, der mehrere Netzbetreiberprofile speichern kann. Was Sie kaufen, ist ein Profil: Der Netzbetreiber liefert es, das Gerät schreibt es auf den eingebetteten Chip, und es verhält sich wie eine ganz normale Leitung. Die Mechanik, SM-DP+-Server, Aktivierungscodes und warum ein QR-Code nur einmal verwendbar ist, werden im [eSIM-Aktivierungs-Erklärer](/faq/what-is-esim-activation-and-how-does-it-work/) erläutert.
+Statt einer entnehmbaren Karte trägt Ihr Gerät einen werkseitig verbauten Chip, der mehrere Netzbetreiberprofile speichern kann. Was Sie kaufen, ist ein Profil: Der Netzbetreiber liefert es, das Gerät schreibt es auf den eingebetteten Chip, und es verhält sich wie eine ganz normale Leitung. Die Mechanik, SM-DP+-Server, Aktivierungscodes und warum ein QR-Code nur einmal verwendbar ist, werden im eSIM-Aktivierungs-Erklärer erläutert.
 
-Weitere Fragen? [Zur FAQ-Übersicht](/faq/)
+Häufige Fragen zu Jio, Airtel und Vi? [Zur FAQ-Übersicht](/faq/)
 
 ## Die für diesen Leitfaden geprüften Quellen
 
@@ -376,12 +376,12 @@ Nur Drittanbieter-Messungen. Die tatsächlichen Geschwindigkeiten schwanken je n
 
 ## Online in Minuten nach der Landung
 
-Installieren Sie Ihre Indien-eSIM vor dem Flug und lassen Sie sie sich sofort nach der Einreise mit Jio oder Airtel verbinden, ohne Pass-Schalter und ohne KYC-Wartezeit. Erstkunden können es mit einem [kostenlosen Indien-Test](/free-esim/) ausprobieren oder den Code **WEB20** für 20 % Rabatt auf [Indien-eSIM-Tarife](/india-esim/) verwenden.
+Installieren Sie Ihre Indien-eSIM vor dem Flug und lassen Sie sie sich sofort nach der Einreise mit Jio oder Airtel verbinden, ohne Pass-Schalter und ohne KYC-Wartezeit. Erstkunden können es mit einem [kostenlosen Indien-Test](/free-esim/) ausprobieren oder den Code **WEB20** für 20 % Rabatt auf die Indien-eSIM-Tarife verwenden.
 
 [Indien-eSIM jetzt kaufen](/india-esim/)
 
 *Ein Erstkäufer-Rabatt*
 
-[Jetzt kostenlos testen](/free-esim/)
+Jetzt kostenlos testen
 
-Vor Ihrer Reise: Führen Sie den [eSIM-Kompatibilitäts-Check](/compatibility/) durch, nutzen Sie die [kostenlose Pilot-eSIM](/free-esim/) von Roami, um die Netzabdeckung an Ihrem Aufenthaltsort zu testen, und halten Sie **WEB20** bereit — damit erhalten Sie 20 % Rabatt auf jeden Roami-Tarif, sobald Sie bereit sind.
+Vor Ihrer Reise: Führen Sie den eSIM-Kompatibilitäts-Check durch, nutzen Sie die kostenlose Pilot-eSIM von Roami, um die Netzabdeckung an Ihrem Aufenthaltsort zu testen, und halten Sie **WEB20** bereit — damit erhalten Sie 20 % Rabatt auf jeden Roami-Tarif, sobald Sie bereit sind.

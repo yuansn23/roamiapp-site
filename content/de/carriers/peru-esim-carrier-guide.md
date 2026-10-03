@@ -3,7 +3,7 @@ title: "Welches Netz trägt Ihre Peru-eSIM durch die Anden?"
 description: "Claro führt beim Tempo, Entel bei 5G. Der Peru-eSIM-Ratgeber mit Netzabdeckung von Lima bis Machu Picchu, Preisen und SIM-Regeln."
 image: "img/esim/carriers/peru-esim-carrier-guide.jpg"
 date: "2026-09-24T23:20:46+00:00"
-keywords: eSIM Peru, Peru eSIM-Netzbetreiber, peruanische Mobilfunkanbieter, Prepaid-Daten, 5G-Netz, Claro, Entel, Mi Fibra, Speedtest, Reise-eSIM
+keywords: Peru eSIM, Peru eSIM-Netzbetreiber, peruanische Mobilfunkanbieter, Prepaid-Daten, 5G-Netz, Claro, Entel, Netzabdeckung Machu Picchu, Reise-eSIM
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -20,7 +20,7 @@ Eine Peru-eSIM funktioniert an der Küste und im Hochland gut, im Amazonas dageg
 
 **Wenn Sie sonst nichts lesen:** Claro ist Perus schnellstes Netz – im Median 29,01 Mbps insgesamt und 57,79 Mbps im 5G, laut [Ooklas H2-2024-Bericht](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024). Entel bietet die beste 5G-Verfügbarkeit, und Bitel ist das Netz, das die Nutzer selbst am besten bewerten. Doch die Entscheidung, die eine Peru-Reise am meisten prägt, ist der Zeitpunkt. Seit Ende 2025 bedeutet der persönliche Kauf einer lokalen SIM-Karte eine biometrische Registrierung gegen die Einwanderungsdatenbank, und die Schalter am Flughafen Lima verlangen für diesen Komfort einen deftigen Aufpreis. Die bessere Variante: Installieren Sie Ihre Peru-eSIM vor der Abreise online, laden Sie Offline-Karten für jeden Wandertag herunter, und betrachten Sie Konnektivität in Städten als Belohnung statt als Selbstverständlichkeit. Wenn Sie neu in dieser Technologie sind, mit [kostenlos testen](/free-esim/) können Sie sie ausprobieren, bevor Sie Geld ausgeben, und die [Peru-Tarifseite](/peru-esim/) ist bereit, Sie in dem Moment zu verbinden, in dem Sie landen.
 
-## Regionale Netzabdeckung
+## Netzabdeckung in Peru: Küste, Anden und Amazonas
 
 Fragen Sie, welches Netz „das beste in Peru“ ist, und Sie erhalten eine Stadtantwort auf eine Landesfrage. In den neuesten Stadtdaten von Ookla verzeichnete Lima mit 23,46 Mbps die schnellste mittlere mobile Downloadgeschwindigkeit unter den Großstädten, während Iquitos mit 16,3 Mbps und einer beachtlichen Latenz von 98 ms am unteren Ende lag. Zwischen diesen beiden Polen liegt das, was Reisende tatsächlich besuchen: Bergstädte, Talstraßen, Hochebenen und den Regenwald.
 
@@ -77,7 +77,7 @@ Zwei Details stechen heraus. Die SIM selbst kostet fast nichts — das Geld stec
 
 5. Zahlen Sie die Karte und kaufen Sie Ihr Paket im selben Besuch. Die reinen Pay-as-you-go-Tarife sind happig — eine nach Megabyte abgerechnete Movistar-Aufladung kann bei einer einzigen Karten-Session aufgebraucht sein.
 
-6. Bestätigen Sie, dass die Rufnummer auf Ihren Namen registriert ist, und bewahren Sie eine Kopie des Aktivierungsvertrags auf. Registrierungen, deren Identitätsdaten nicht mit den offiziellen Unterlagen übereinstimmen, werden verständigt, dann gesperrt und schließlich gelöscht, sofern sie nicht korrigiert werden.
+6. Bestätigen Sie, dass die Rufnummer auf Ihren Namen registriert ist, und bewahren Sie eine Kopie des Aktivierungsvertrags auf. Registrierungen, deren Identitätsdaten nicht mit den offiziellen Unterlagen übereinstimmen, werden benachrichtigt, dann gesperrt und schließlich gelöscht, sofern sie nicht korrigiert werden.
 
 7. Laden Sie das Guthaben an einem **Kiosk, Supermarkt oder einer Apotheke per recarga** auf. Dort kann ohne eigene Registrierung Guthaben für eine bestehende Rufnummer verkauft werden.
 
@@ -91,9 +91,9 @@ Zwei Details stechen heraus. Die SIM selbst kostet fast nichts — das Geld stec
 
 ### Welche Geräte unterstützen eine Peru-eSIM?
 
-| Gerät oder Situation | Symptom | Maßnahme |
+| Peru-Fall | Was das Handy zeigt | Was zu tun ist |
 |:---|:---|:---|
-| iPhone-Modelle für das chinesische Festland | Keine Option „eSIM hinzufügen“ in den Einstellungen | Nicht per Software behebbar; verwenden Sie eine physische SIM-Karte oder ein anderes Mobiltelefon |
+| iPhone aus dem chinesischen Festland | In den Einstellungen fehlt „eSIM hinzufügen“ – die Hardware ist dort gesperrt | Nicht per Software lösbar; nutzen Sie in Lima eine physische Prepaid-SIM oder ein anderes Gerät |
 | SIM-Lock-Handy aus dem Heimatland | Profil wird installiert, registriert sich jedoch nie | Bitten Sie Ihren heimischen Netzbetreiber, das Gerät vor dem Flug zu entsperren |
 | Ein im Ausland gekauftes Telefon, das langfristig in Peru genutzt wird | Gerät im nationalen Endgeräteregister erfasst | Betrifft nur dauerhaft importierte Mobiltelefone; Reisende, die das Land nur durchqueren, sind nicht betroffen |
 | Dual-SIM-Nutzer | Daten laufen nach der Installation weiter über die Heimleitung | Stellen Sie das Reiseprofil als mobile Datenleitung ein und starten Sie das Gerät neu |
@@ -120,9 +120,9 @@ Die praktischen Konsequenzen für Besucher sind konkret. Physische SIMs müssen 
 
 Zwei kleinere Regeln im selben Paket sind es wert, gekannt zu werden, wenn Sie vor Ort kaufen. Registrierungen mit Identitätsdaten, die nicht übereinstimmen, werden nach einem beschleunigten Zeitplan behandelt — Benachrichtigung, dann Sperrung, dann Annullierung, wenn die Abweichung nicht innerhalb von Tagen korrigiert wird. Und peruanische Prepaid-Anschlüsse ohne Datenverkehr unterliegen der Deaktivierung, sodass ein für eine zweiwöchige Reise gekaufter und ungenutzter Anschluss in den Ruhezustand fallen kann.
 
-## Der Inka-Pfad verbringt die meisten Tage jenseits jeglicher eSIM
+## Machu Picchu per Bahn und Bus – der Inka-Pfad ist die Ausnahme
 
-Trekking-Agenturen sagen es Ihnen offen: Auf dem klassischen viertägigen Inka-Pfad erwarten Sie auf dem Großteil der Route keinen Handyempfang. Die Netzabdeckung flackert am Anfang außerhalb des Gebiets von Ollantaytambo und kehrt erst gegen Ende zurück, insbesondere nach Wiñay Wayna, kurz vor dem Intipunku. Auch die Campingplätze entlang des Weges haben keine Steckdosen, daher sind ein vollständig geladenes Handy im Flugmodus und eine Powerbank mit 10.000–20.000 mAh Standard auf der Packliste.
+Die meisten Besucher erreichen Machu Picchu mit dem Zug nach Aguas Calientes oder per Bus über Ollantaytambo, und diese Strecke ist durchgehend versorgt. Wer den klassischen viertägigen Inka-Pfad zu Fuß geht, muss dagegen auf dem Großteil der Route mit Funkstille rechnen. Die Netzabdeckung flackert am Anfang außerhalb des Gebiets von Ollantaytambo und kehrt erst gegen Ende zurück, insbesondere nach Wiñay Wayna, kurz vor dem Intipunku. Auch die Campingplätze entlang des Weges haben keine Steckdosen, daher sind ein vollständig geladenes Handy im Flugmodus und eine Powerbank mit 10.000–20.000 mAh Standard auf der Packliste.
 
 Die Salkantay-Route ist ähnlich unterbrochen — der Empfang verbessert sich in Talsiedlungen wie Collpapampa und Lucmabamba und verschlechtert sich am hohen Pass deutlich. Der Lares-Trek verhält sich genauso. Die Hinweise von Cusco-basierten Veranstaltern sind einheitlich: Gehen Sie davon aus, dass Sie die meiste Zeit jedes Trekking-Tages offline sein werden, und planen Sie Ihre Check-ins um bekannte Empfangsinseln herum, anstatt Live-Empfang zu erwarten. Eine eSIM auf dem Pfad zu tragen ist für die Orte an beiden Enden gedacht, nicht für die Pässe dazwischen.
 
@@ -142,7 +142,7 @@ Wenn Ihre Reise den Küstenstreifen nie verlässt, werden Sie Perus Abdeckungsge
 
 Im Norden und Süden entlang der Panamericana reihen sich die Orte schön aneinander — Trujillo, Perus zweitschnellste Stadt mit 23,27 Mbps, Chiclayo, Piura, Nazca und die Halbinsel Paracas liegen alle an oder nahe dem abgedeckten Korridor. Die Lücken tauchen auf, wenn Sie ins Landesinnere abbiegen: Huacachina und die Aussichtspunkte um Nazca können innerhalb von Minuten nach Verlassen der Highway den Empfang verlieren, und die Meeresschutzgebiete sind, vorhersehbar, tote Zonen.
 
-Für diese Art von Reiseroute funktioniert fast jede Peru-eSIM. Die Geschwindigkeiten bewältigen bequem Navigation, Ride-Sharing-Apps, Streaming und Videoanrufe. Die einzige echte Entscheidung ist, vor Ihrer Ankunft am Flughafen Jorge Chávez zu kaufen, damit Sie die Schlange in der Ankunftshalle komplett überspringen können — mehr dazu unten. Eine zu Hause installierte eSIM erscheint einfach als zweite Leitung in Ihren Einstellungen an dem Tag, an dem Sie landen.
+Für diese Art von Reiseroute funktioniert fast jede Peru-eSIM. Die verfügbare Bandbreite bewältigt bequem Navigation, Ride-Sharing-Apps, Streaming und Videoanrufe. Die einzige echte Entscheidung ist, vor Ihrer Ankunft am Flughafen Jorge Chávez zu kaufen, damit Sie die Schlange in der Ankunftshalle komplett überspringen können — mehr dazu unten. Eine zu Hause installierte eSIM erscheint einfach als zweite Leitung in Ihren Einstellungen an dem Tag, an dem Sie landen.
 
 ## Iquitos und das Altiplano im Detail
 
@@ -192,10 +192,10 @@ Peru ist nicht ein Reiseziel mit einem einzigen Konnektivitätsprofil, daher sol
 |:---|:---|:---|:---|
 | Nur Lima, Geschäftsreise oder Städtetrip | Jeder moderne Tarif, vor der Landung installiert | Miraflores, Barranco und San Isidro verfügen über konzentrierte 5G-Netzabdeckung | Die Schalter am Flughafen verlangen ein Vielfaches der Stadtpreise |
 | Lima, Paracas und Nazca | Peru-Reise-eSIM, Offline-Karten | Der Pan-American-Korridor ist gut ausgebaut | Wenn man von der Autobahn ins Landesinnere abbiegt, verliert man innerhalb weniger Minuten den Empfang |
-| Cusco und das Heilige Tal | Peru-only Reise-eSIM, Offline-Karten | Die Stadtzentren sind gut ausgebaut; die Busse zwischen ihnen sind es nicht | Jede Talstadt ist eine Netzabdeckungs-Insel – planen Sie Ihre Transfers entsprechend |
+| Cusco und das Heilige Tal | Reine Peru-eSIM, Offline-Karten | Die Stadtzentren sind gut ausgebaut; die Busse zwischen ihnen sind es nicht | Jede Talstadt ist eine Netzabdeckungs-Insel – planen Sie Ihre Transfers entsprechend |
 | Klassischer Inka-Trail | Offline-Karten plus eine Powerbank | Die Campingplätze haben vier Tage lang größtenteils weder Empfang noch Strom | Erst nahe Wiñay Wayna ist wieder Netzabdeckung vorhanden, nicht früher |
 | Salkantay- oder Lares-Trekking | Offline-Karten plus Powerbank | Der Empfang wird in den Talsiedlungen besser und fällt auf den hohen Pässen ganz aus | Versprechen Sie niemandem einen abendlichen Anruf |
-| Tagesausflug zum Rainbow Mountain oder Ausangate | Nur-in-Peru-Reise-eSIM | Gelegentlich Empfang nur an Wegpunkten in Dörfern | Da die Abfahrten vor Sonnenaufgang erfolgen, haben Sie auch beim Verlassen von Cusco keinen Empfang |
+| Tagesausflug zum Rainbow Mountain oder Ausangate | Reine Peru-eSIM | Gelegentlich Empfang nur an Wegpunkten in Dörfern | Da die Abfahrten vor Sonnenaufgang erfolgen, haben Sie auch beim Verlassen von Cusco keinen Empfang |
 | Arequipa und Colca-Canyon | Peru-Reise-eSIM, Offline-Karten | Arequipa ist eine schnelle Stadt mit 20,18 Mbps im Median | Die tiefen Abschnitte des Canyons und die Kondor-Aussichtspunkte liegen außerhalb der Netzabdeckung |
 | Puno und Titicacasee | Peru-Reise-eSIM, Powerbank | Punostadt und die nahegelegenen Inseln funktionieren | Oberhalb von 3.800 m entladen die Kälte die Akkus schneller als der Bildschirm |
 | Amazon — Iquitos | Komplett offline | Die Netzabdeckung in der Stadt ist vorhanden, aber die langsamste, die in Peru gemessen wurde | Eine Bootsstunde von der Stadt entfernt gibt es keinerlei Empfang |
@@ -251,7 +251,7 @@ Die Geschwindigkeiten liegen global im Mittelfeld. Die [Peru-Seite des Ookla-Ind
 
 Größenkontext aus dem [Digital-Report von DataReportal](https://datareportal.com/reports/digital-2025-peru): 27,3 Millionen Peruaner waren Anfang 2025 online (79,5 % Durchdringung), unterstützt von 39,4 Millionen Mobilfunkverbindungen — 115 % der Bevölkerung, ein Zeichen dafür, wie viele Menschen mehr als eine Leitung mit sich führen. Ein gesättigter Markt kauft Daten günstig und nutzt sie ständig; Besucher erben beide Gewohnheiten.
 
-**Lassen Sie die APN-Menüs in Ruhe.** Peru ist ein Markt, in dem die Geräteunterstützung variiert, aber Ihre Peru-eSIM kommt vorkonfiguriert, sodass das Feld nie ausgefüllt werden muss. Kaufen Sie bei Claro, Movistar, Entel oder Bitel, und diese Netze übertragen die Einstellungen OTA auf geeignete Geräte. Wenn etwas trotzdem keine Verbindung herstellen will, beginnen Sie mit dem [Leitfaden zur Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/), bevor Sie etwas anderes anfassen.
+**Lassen Sie die APN-Menüs in Ruhe.** Peru ist ein Markt, in dem die Geräteunterstützung variiert, aber Ihre Peru-eSIM kommt vorkonfiguriert, sodass das Feld nie ausgefüllt werden muss. Kaufen Sie bei Claro, Movistar, Entel oder Bitel, und diese Netze übertragen die Einstellungen OTA auf geeignete Geräte. Hotspot-Tethering hängt vom gebuchten Tarif ab und lässt sich nicht über den APN erzwingen. Wenn etwas trotzdem keine Verbindung herstellen will, beginnen Sie mit dem [Leitfaden zur Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/), bevor Sie etwas anderes anfassen.
 
 ## Wenn Ihre Peru-eSIM unterwegs schweigt
 
@@ -261,11 +261,11 @@ Vier Fehlermuster decken fast alles ab, was eine Peru-Reise hervorbringt, und nu
 
 **B. Signal, das beim Aufstieg verschwindet.** Das ist Geografie, kein Fehler. Die Netzabdeckung in den Anden klammert sich an Talsohlen und Ortszentren, und einige hundert Höhenmeter bringen Sie auf jedem Netz außer Reichweite. Bewegen Sie sich zurück Richtung Dorf oder Hauptstraße, und die Leitung registriert sich neu; ein Flugmodus-Zyklus beschleunigt das. An Trekkingtagen betrachten Sie das Telefon als Offline-Gerät und verlassen sich auf heruntergeladene Karten.
 
-**C. Eine lokale Prepaid-Leitung, die nach einigen Ruhetagen nicht mehr funktioniert.** Perus Registrierungsregeln sehen die Deaktivierung von Prepaid-Leitungen ohne Datenverkehr vor, sodass eine für vierzehn Tage gekaufte und in der Tasche gelassene SIM in den Ruhezustand fallen kann. Wenn Sie lokal kaufen, senden Sie alle paar Tage eine Nachricht oder laden Sie eine Seite, und bewahren Sie den Aktivierungssvertrag für den Fall einer Neuregistrierung auf.
+**C. Eine lokale Prepaid-Leitung, die nach einigen Ruhetagen nicht mehr funktioniert.** Perus Registrierungsregeln sehen die Deaktivierung von Prepaid-Leitungen ohne Datenverkehr vor, sodass eine für vierzehn Tage gekaufte und in der Tasche gelassene SIM in den Ruhezustand fallen kann. Wenn Sie lokal kaufen, senden Sie alle paar Tage eine Nachricht oder laden Sie eine Seite, und bewahren Sie den Aktivierungsvertrag für den Fall einer Neuregistrierung auf.
 
 **D. Festgefahren auf einem schwachen Netz in einem entlegenen Ort.** In Provinzstädten hält das Telefon manchmal an einem schwachen Signal des Netzbetreibers fest, bei dem es sich zuerst registriert hat, statt zu einem stärkeren zu wechseln. Schalten Sie die Netzauswahl von automatisch auf manuell, wählen Sie das alternative Netz und kehren Sie dann zu automatisch zurück.
 
-Alles darüber hinaus gehört in den vollständigen [Leitfaden zur eSIM-Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/), der Fehlermeldungen nach Ursache katalogisiert.
+Alles darüber hinaus gehört in den vollständigen Leitfaden zur eSIM-Fehlerbehebung, der Fehlermeldungen nach Ursache katalogisiert.
 
 ## Was an Perus Grenzen passiert
 
@@ -275,7 +275,7 @@ Peru liegt mitten in den Anden, und fast jede längere Reise testet irgendwann e
 
 **Eine nur für Peru geltende Reise-eSIM endet an der Grenze.** Das ist die häufigste Überraschung auf der Reiseroute, weil das Profil in Lima, Cusco und Puno zwei Wochen perfekt funktioniert hat und dann einfach endet. Wenn Ihre Route den Titicacasee erreicht und nach Bolivien übergeht, muss der Tarif Bolivien namentlich einschließen.
 
-**Ein Mehrländer-Anden- oder Lateinamerika-Tarif funktioniert weiter.** Wenn Ihre Reiseroute Cusco, Copacabana, La Paz und das chilenische Seengebiet verbindet, vergleichen Sie die Länderlisten auf [Bolivien-eSIM-Tarife](/carriers/bolivia-esim-carrier-guide/) und [Chile-eSIM-Tarife](/chile-esim/) mit einem regionalen Profil — der regionale Kauf gewinnt meist sowohl beim Preis als auch beim Komfort.
+**Ein Mehrländer-Anden- oder Lateinamerika-Tarif funktioniert weiter.** Wenn Ihre Reiseroute Cusco, Copacabana, La Paz und das chilenische Seengebiet verbindet, vergleichen Sie die Länderlisten auf [Bolivien-eSIM-Tarife](/bolivia-esim/) und [Chile-eSIM-Tarife](/chile-esim/) mit einem regionalen Profil — der regionale Kauf gewinnt meist sowohl beim Preis als auch beim Komfort.
 
 **Ecuador und Kolumbien** gelten für jeden, der weiter nach Norden reist, nach derselben Logik: separate Länder, separate Länderlisten. Wo eine Route durch mehrere davon verläuft, schlägt der explizite Kauf der Netzabdeckung jedes Landes die Hoffnung, ein einziges Profil roame überall. Die einzige Ausnahme ist der Amazonas selbst, wo Grenzen irrelevant sind — die Versorgungslücke ist auf beiden Seiten jeder per Boot erreichbaren Grenze identisch.
 
@@ -283,7 +283,7 @@ Peru liegt mitten in den Anden, und fast jede längere Reise testet irgendwann e
 
 ### Gibt es auf Trekking-Routen Empfang?
 
-Nein, nicht auf dem größten Teil der Route — und das tut auch niemand sonst. Der Inka-Pfad hat für den Großteil seiner vier Tage kein Signal, die Netzabdeckung kehrt in der Nähe von Wiñay Wayna zurück, und Salkantay ist sporadisch mit Totzonen am hohen Pass. Laden Sie Offline-Karten herunter, tragen Sie eine Powerbank, und lassen Sie Ihre Peru-eSIM in Cusco, Aguas Calientes und den Orten entlang des Weges glänzen.
+Nein, auf dem größten Teil der Route nicht — und daran ändert auch die Wahl des Netzbetreibers nichts. Der Inka-Pfad hat für den Großteil seiner vier Tage kein Signal, die Netzabdeckung kehrt in der Nähe von Wiñay Wayna zurück, und Salkantay ist sporadisch mit Totzonen am hohen Pass. Laden Sie Offline-Karten herunter, tragen Sie eine Powerbank, und lassen Sie Ihre Peru-eSIM in Cusco, Aguas Calientes und den Orten entlang des Weges glänzen.
 
 ### Können Sie eine SIM am Flughafen Lima kaufen?
 
@@ -303,7 +303,7 @@ Ja, wenn Sie Dual-SIM korrekt verwenden. Halten Sie Ihre physische Heimat-SIM f�
 
 ### Funktioniert sie anschließend in Bolivien oder Chile?
 
-Ein nur-Peru-Tarif endet an der Grenze. Wenn Ihre Reiseroute in Nachbarländer führt, werfen Sie einen Blick in unseren [Bolivien-eSIM-Leitfaden](/carriers/bolivia-esim-carrier-guide/) für die Altiplano-Seite, oder [Chile-Tarife](/chile-esim/) für die südlichen Seengebiete.
+Ein nur-Peru-Tarif endet an der Grenze. Wenn Ihre Reiseroute in Nachbarländer führt, werfen Sie einen Blick in unseren [Bolivien-eSIM-Leitfaden](/bolivia-esim/) für die Altiplano-Seite, oder [Chile-Tarife](/chile-esim/) für die südlichen Seengebiete.
 
 Stattdessen die nördliche Route? Die [Kolumbien-Netzabdeckung](/colombia-esim/) wird mit derselben Tiefe behandelt — der explizite Kauf der Netzabdeckung jedes Landes schlägt die Hoffnung, ein einziges Profil roame überall.
 
@@ -329,13 +329,13 @@ Teilweise. Hotels, Hostels und Cafés in Lima, Cusco und Arequipa bieten meist k
 
 ### Wie arbeiten Sie die vier Fehlermuster ab?
 
-Arbeiten Sie die vier oben genannten Muster der Reihe nach ab — Datenleitung, Geografie, Ruhezustand, falls Sie vor Ort gekauft haben, dann manuelle Netzwahl — und wenn die Leitung sich weiterhin nicht registrieren lässt, deckt der umfassendere Fehlerkatalog im [eSIM-Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Bevor Sie den Support kontaktieren, halten Sie die EID und die Bestellnummer bereit.
+Arbeiten Sie die vier oben genannten Muster der Reihe nach ab — Datenleitung, Geografie, Ruhezustand, falls Sie vor Ort gekauft haben, dann manuelle Netzwahl — und wenn die Leitung sich weiterhin nicht registrieren lässt, deckt der umfassendere Fehlerkatalog im eSIM-Fehlerbehebungs-Leitfaden den Rest ab. Bevor Sie den Support kontaktieren, halten Sie die EID und die Bestellnummer bereit.
 
 ## Wo diese Peru-Werte herkommen
 
 Jeder Netzbetreiber und jede Stadtmessung auf dieser Seite stammt aus [Ooklas Peru-Bericht](https://www.ookla.com/research/reports/peru-speedtest-connectivity-report-h2-2024), oben verlinkt. Nationale Mediane und Weltranglisten stammen von Perus Speedtest Global Index-Seite, im Preisteil verlinkt. Prepaid-Bundlepreise, eSIM-Unterstützung der Netzbetreiber und OSIPTELs Netzabdeckungsprozente stammen aus dem [Konnektivitätsleitfaden für Ausländer](https://www.expat.com/en/guide/south-america/peru/13321-phones-and-internet-in-peru.html), mit Preisen pro Gigabyte und Marktgröße von Cable.co.uk und DataReportal, beide inline verlinkt.
 
-Zwei weitere Quellen, oben nicht verlinkt:
+Zwei weitere Quellen zu Peru, oben nicht verlinkt:
 
 - **Ookla Speedtest Global Index — [globale Anlaufstelle](https://www.speedtest.net/global-index):** der übergeordnete Index für nationale Mediane und weltweite Ranglisten, monatlich aktualisiert.
 - **Details zur OSIPTEL-Resolution:** die biometrische Regel ergibt sich aus Resolución N.° 000116-2025-CD/OSIPTEL; die Verbraucherseite des Regulierers, im Registrierungsabschnitt verlinkt, veröffentlicht die aktuellen Maßnahmen und etwaige Aktualisierungen.
@@ -348,4 +348,4 @@ Das perfekte Peru-Setup dauert einen Abend: Prüfen Sie Ihr Gerät anhand der [K
 
 Noch nicht bereit, sich festzulegen? Holen Sie sich die [kostenlose eSIM-Testversion](/free-esim/) und sehen Sie, wie alles funktioniert, bevor Sie einen Sol ausgeben. Die Anden trennen Reisende seit fünfhundert Jahren vom Festland — Ihr Handy muss sich nicht anschließen.
 
-Und wenn Sie kaufbereit sind: Roamis [kostenlose Testversion](/free-esim/) ist der risikofreie Ausgangspunkt für Peru, mit dem Code **WEB20** für 20 % Rabatt auf Ihren ersten kostenpflichtigen Roami-Datentarif, falls Sie die ganze Reise online bleiben möchten.
+Und wenn Sie kaufbereit sind: Roamis kostenlose Testversion ist der risikofreie Ausgangspunkt für Peru, mit dem Code **WEB20** für 20 % Rabatt auf Ihren ersten kostenpflichtigen Roami-Datentarif, falls Sie die ganze Reise online bleiben möchten.

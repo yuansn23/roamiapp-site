@@ -16,43 +16,42 @@ hero_subtitle_main: "Wo sich die Netze des Vereinigten Königreichs unterscheide
 ---
 
 
-Ob Sie es UK eSIM oder Vereinigtes Königreich eSIM nennen – die Wahl zwischen den vier Netzen, die hier die Sendemasten betreiben, hängt davon ab, wo Sie das Profil tatsächlich nutzen werden. Jede Prepaid-Marke, die Sie kaufen können – giffgaff, VOXI, SMARTY, iD Mobile, Lebara, Lycamobile, Tesco Mobile – ist ein Reseller eines dieser Netze. Welches Gastnetz Sie erwischen, entscheidet über Ihre Geschwindigkeiten in London und darüber, ob Sie auf einer Straße in den Highlands Empfang haben.
+Ob Sie es UK eSIM oder Vereinigtes Königreich eSIM nennen – die Wahl zwischen den vier Netzen, die im Vereinigten Königreich die Sendemasten betreiben, hängt davon ab, wo Sie das Profil tatsächlich nutzen werden. Jede Prepaid-Marke, die Sie kaufen können – giffgaff, VOXI, SMARTY, iD Mobile, Lebara, Lycamobile, Tesco Mobile – ist ein Reseller eines dieser Netze. Welches Gastnetz Sie erwischen, entscheidet über Ihre Geschwindigkeiten in London und darüber, ob Sie auf einer Straße in den Highlands Empfang haben.
 
 **Schnelle Antwort:** Für eine kurze Reise ist eine Reise-eSIM die bequemste Option; bei längeren Aufenthalten liegt EE in der Regel beim Preis pro Gigabyte vorne. Die folgenden Abschnitte zeigen, welches Netz wo glänzt – und Erstanwender einer UK eSIM sollten mit der [Aktivierungsanleitung](/faq/how-to-activate-an-esim/) beginnen.
 
 [Vereinigtes Königreich eSIM](/united-kingdom-esim/)
 
-**Kurz gesagt:** EE ist das mit Abstand schnellste Netz im Land mit einem **114,1 Mbps mittleren Download** laut dem 2H-2025-UK-Bericht von [Ookla und RootMetrics](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025) und der breitesten ländlichen Netzabdeckung. Three und Vodafone liegen landesweit im 45–55-Mbps-Bereich, punkten aber bei Preis und Roaming. Virgin Media O2 ist die Wahl, wenn Sie in die Republik Irland reisen, da keine Gebühren für EU-Roaming anfallen. Prepaid-eSIMs sind auf allen vier Netzen ohne UK-Adresse und ohne Bonitätsprüfung erhältlich. Neue Reisende können [eSIMs kostenlos testen](/free-esim/) oder mit dem Code **WEB20** 20 % auf einen UK-Tarif sparen.
+**Kurz gesagt:** EE ist das mit Abstand schnellste Netz im Vereinigten Königreich mit einem **114,1 Mbps mittleren Download** laut dem 2H-2025-UK-Bericht von [Ookla und RootMetrics](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025) und der breitesten ländlichen Netzabdeckung. Three und Vodafone liegen landesweit im 45–55-Mbps-Bereich, punkten aber bei Preis und Roaming. Virgin Media O2 ist die Wahl, wenn Sie in die Republik Irland reisen, da keine Gebühren für EU-Roaming anfallen. Prepaid-eSIMs sind auf allen vier Netzen ohne UK-Adresse und ohne Bonitätsprüfung erhältlich. Neue Reisende können eSIMs kostenlos testen oder mit dem Code **WEB20** 20 % auf einen UK-Tarif sparen.
 
-*Wischen, um mehr zu sehen*
+*Die Vergleichstabelle ist breit – auf dem Smartphone seitlich wischen, um EE, Vodafone, Three und Virgin Media O2 zu sehen*
 
 ## Schnelllinks für Ihre Reise
 
-- [Welcher UK-Netzbetreiber passt zu Ihrer Reise?](#best-united-kingdom-esim-carrier-for-your-trip-ee-vs-the-rest)
-- [Welcher Netzbetreiber gewinnt wo?](#ee-vodafone-three-and-virgin-media-o2-which-one-wins-where)
-- [Fünf Prüfungen vor dem Kauf einer UK-eSIM](#five-checks-before-you-commit-to-a-uk-esim)
-- [Wie die Netze in fünf Städten abschneiden](#how-united-kingdom-esims-fare-in-five-cities)
-- [Wo die vier Netze Lücken haben](#united-kingdom-esim-coverage-uk-vs-ee)
-- [Den passenden Netzbetreiber für Ihre Reise finden](#match-a-united-kingdom-carrier-to-your-trip)
-- [Die APN-Einstellungen der vier UK-Netze](#united-kingdom-esim-apn-settings)
-- [Welche Fragen stellen Reisende zur UK eSIM?](#your-united-kingdom-esim-questions-answered)
-- [Mythen über die UK eSIM im Faktencheck](#uk-esim-advice-that-does-not-survive-contact-with-the-country)
-- [Quellenangaben zu diesem Ratgeber](#sourcing-notes-for-this-uk-esim-guide)
-
+- [Welcher UK-Netzbetreiber passt zu Ihrer Reise?](#welcher-uk-netzbetreiber-passt-zu-ihrer-reise)
+- [Welcher Netzbetreiber gewinnt wo?](#welcher-netzbetreiber-gewinnt-wo)
+- [Fünf Prüfungen vor dem Kauf einer UK-eSIM](#fünf-prüfungen-vor-dem-kauf-einer-uk-esim)
+- [Wie die Netze in fünf Städten abschneiden](#wie-die-netze-in-fünf-städten-abschneiden)
+- [Wo die vier Netze Lücken haben](#wo-die-vier-netze-lücken-haben)
+- [Den passenden Netzbetreiber für Ihre Reise finden](#den-passenden-britischen-netzbetreiber-für-ihre-reise-finden)
+- [Die APN-Einstellungen der vier UK-Netze](#die-apn-einstellungen-der-vier-uk-netze)
+- [Welche Fragen stellen Reisende zur UK eSIM?](#ihre-fragen-zur-esim-für-das-vereinigte-königreich-beantwortet)
+- [Mythen über die UK eSIM im Faktencheck](#mythen-über-die-uk-esim-im-faktencheck)
+- [Quellenangaben zu diesem Ratgeber](#quellenangaben-für-diesen-uk-esim-ratgeber)
 ## Welcher UK-Netzbetreiber passt zu Ihrer Reise?
 
 Jede unten aufgeführte Netzbetreiber-Kennzahl ist eine Drittanbieter-Messung aus dem 2H-2025-UK-Bericht von Ookla und RootMetrics. Wie bei jedem nationalen Durchschnitt ist die Rangfolge weniger wichtig als die Frage, ob das von Ihnen gewählte Netz die von Ihnen gebuchte Strecke tatsächlich abdeckt.
 
-| Ihre Reiseroute | Top-Empfehlung | Warum sie überzeugt |
+| Ihre Route durch das Vereinigte Königreich | Beste Wahl | Was dafür spricht |
 |:---|:---|:---|
 | Städte und geschwindigkeitskritische Arbeiten | EE | Schnellstes Netz im Vereinigten Königreich mit einer medianen Download-Geschwindigkeit von 114,1 Mbps, bestem 5G-Erlebnis und 25 aufeinanderfolgenden Overall RootScore-Auszeichnungen |
-| Ländliches Wales, die Highlands und Nationalparks | Vodafone | Stärkste ländliche Reichweite der vier Anbieter, mit 47,7 Mbps landesweit und zweitem Platz in den meisten Kategorien in Wales und Schottland |
+| Ländliches Wales, die Highlands und Nationalparks | Vodafone | Stärkste ländliche Reichweite der vier Anbieter, mit 47,7 Mbps im ganzen Vereinigten Königreich und zweitem Platz in den meisten Kategorien in Wales und Schottland |
 | Budgetreisen mit hohem Datenverbrauch | Three | 53,8 Mbps mittlere Downloadgeschwindigkeit mit der größten zusammenhängenden 3,5-GHz-Konzession und einigen der günstigsten Prepaid-Tarife mit großem Datenvolumen |
 | Zuverlässigkeit in Innenräumen und Stadtdichte | Virgin Media O2 | Höchste 5G-Anbindungsraten in Städten wie London, wobei 700 MHz für die Netzabdeckung und 3,5 GHz für die Kapazität sorgen |
 | Irland oder EU-Roaming auf derselben Reise | Virgin Media O2 oder O2-Netzbetreiber-Marken | Keine EU-Roaming-Gebühr im Netz von O2, vorbehaltlich einer Fair-Use-Obergrenze von 25 GB |
-| Eine einzige eSIM für alle vier Netze | Ein Roami UK-Profil | Durch automatisches Wechseln sind Sie nie an den Netzbetreiber gebunden, der dort, wo Sie gerade stehen, die schwächste Netzabdeckung bietet |
+| Ein einziges Profil für alle vier Netze | Ein Roami UK-Profil | Durch automatisches Wechseln sind Sie nie an den Netzbetreiber gebunden, der dort, wo Sie gerade stehen, die schwächste Netzabdeckung bietet |
 
-**Bester Preis:** inklusive automatischem Netzwechsel und Preisvergleich für Prepaid-Datentarife.
+**Bester Preis:** Ein Multi-Netz-Profil verbindet automatischen Netzwechsel mit einem Preisvergleich über die britischen Prepaid-Datentarife hinweg.
 
 ## Welcher Netzbetreiber gewinnt wo?
 
@@ -66,24 +65,24 @@ Die vier unten aufgeführten Mobilfunknetzbetreiber besitzen die Infrastruktur. 
 | Prepaid eSIM | Ja, keine UK-Adresse oder Bonitätsprüfung erforderlich | Ja, beim Online-Checkout | Ja, beim Online-Checkout | Ja |
 | Vorsicht vor | Premium-Preisen und täglichen EU-Roaming-Gebühren bei Standardtarifen | Zuverlässigkeitsrang von Platz zwei auf Platz vier in 2H 2025 abgerutscht | Häufigerer 4G-Fallback in Städten | Der langsamste nationale Median der vier |
 
-### Wie schnell ist EE in Großbritannien?
+### Wie schnell ist EE im Vereinigten Königreich?
 
 **Ideal für:** Geschäftsreisende, alle, die mit einem Laptop arbeiten, und Städtereisende, die sich die schnellstmögliche Verbindung wünschen.
 
 Der mediane Download von EE mit 114,1 Mbps ist mehr als doppelt so hoch wie beim nächstschnelleren Anbieter, und EE hat den britischen RootScore Award in jeder Testperiode seit dem zweiten Halbjahr 2013 gewonnen — zwölf Jahre, in denen das Netz konstant an der Spitze steht. In den Städten setzt EE 80 MHz im 3,5-GHz-Band (n78) in Dual-Carrier-Konfiguration ein, ergänzt durch die Bänder n1, n3, n7 und n28, und betreibt den fortschrittlichsten 5G-Standalone-Rollout im ganzen Land. Die Frequenzaufzeichnungen von Ofcom zeigen das vielfältigste Portfolio der vier Netze — und genau das ermöglicht Carrier Aggregation in stark frequentierten Gegenden wie Canary Wharf.
 
-Der Prepaid-eSIM-Tarif für Besucher wird online verkauft statt über den Ladentisch, mit 30-Tage-Tarifen, die britische Anrufe und SMS enthalten:
+Der Prepaid-Tarif für Besucher wird online verkauft statt über den Ladentisch, mit 30-Tage-Tarifen, die britische Anrufe und SMS enthalten:
 
-| EE Prepaid-eSIM-Tarif | Daten | Gültigkeit | Preis (GBP) | ≈ USD |
+| EE Prepaid-Tarif | Daten | Gültigkeit | Preis (GBP) | ≈ USD |
 |:---|:---|:---|:---|:---|
 | Einstieg | 30 GB | 30 Tage | 15,00 £ | ≈ 19 $ |
 | Mittel | 100 GB | 30 Tage | 20,00 £ | ≈ 25 $ |
 | Groß | 200 GB | 30 Tage | 30,00 £ | ≈ 38 $ |
 | Unbegrenzt | Unbegrenzt | 30 Tage | 40,00 £ | ≈ 51 $ |
 
-Diese Pfund-Werte stammen aus einem [Pay-as-you-go-Vergleich für 2025](https://yesim.tech/blog/best-pay-as-you-go-plans-for-uk), der das EE-Prepaid-eSIM-Angebot beobachtet; die Dollar-Spalte verwendet einen indikativen Kurs von etwa 1,27 Dollar pro Pfund, betrachten Sie die Angaben daher als Näherungswerte. Die Vertrags-eSIMs von EE selbst sind ein anderes Produkt und beinhalten eine Bonitätsprüfung – diese richten sich an Einwohner, nicht an Besucher.
+Diese Pfund-Werte stammen aus einem [Pay-as-you-go-Vergleich für 2025](https://yesim.tech/blog/best-pay-as-you-go-plans-for-uk), der das EE-Prepaid-Angebot beobachtet; die Dollar-Spalte verwendet einen indikativen Kurs von etwa 1,27 Dollar pro Pfund, betrachten Sie die Angaben daher als Näherungswerte. Die Vertrags-eSIMs von EE selbst sind ein anderes Produkt und beinhalten eine Bonitätsprüfung – diese richten sich an Einwohner, nicht an Besucher.
 
-### Wie weit reicht Vodafone auf dem Land?
+### Wie weit reicht Vodafone im ländlichen Vereinigten Königreich?
 
 **Empfohlen für:** alle, deren Reise abseits des Autobahnnetzes führt – Snowdonia, die Brecon Beacons, den Lake District, die North Coast 500.
 
@@ -97,7 +96,7 @@ Vodafones mediane Geschwindigkeit von 47,7 Mbps im gesamten Vereinigten Königre
 | Extra groß | 200 GB | 30,00 £ | ≈ 38 $ |
 | Unbegrenzt | Unbegrenzt | 40,00 £ | ≈ 51 $ |
 
-Vodafones PAYG-Bundles bieten unbegrenzte Minuten und SMS, und die eSIM-Option erscheint beim Online-Checkout, ohne dass eine UK-Adresse erforderlich ist.
+Vodafones PAYG-Bundles bieten unbegrenzte Minuten und SMS, und die Profil-Option erscheint beim Online-Checkout, ohne dass eine UK-Adresse erforderlich ist.
 
 ### Wie viel Daten gibt es bei Three fürs Geld?
 
@@ -112,7 +111,7 @@ Für eine günstige UK eSIM mit großem Datenvolumen ist Three der erste Anlaufp
 | Groß | 240 GB | 18,00 £ | ≈ 23 $ |
 | Unbegrenzt | Unbegrenzt | 31,50 £ | ≈ 40 $ |
 
-Die eSIM von Three wird beim Bestellen einer PAYG-SIM an der Kasse ausgewählt und zur Installation per E-Mail zugestellt. Bestandskunden können Three bitten, eine physische SIM in eine eSIM umzuwandeln.
+Die eSIM von Three wird beim Bestellen einer PAYG-SIM an der Kasse ausgewählt und zur Installation per E-Mail zugestellt. Bestandskunden können Three bitten, eine physische SIM in ein Profil umzuwandeln.
 
 ### Wann ist Virgin Media O2 die richtige Wahl?
 
@@ -137,7 +136,7 @@ UK-Netzbetreiber verteilen ihr 5G auf **700 MHz (n28), 800 MHz (n20), 1800 MHz (
 
 ### Kann man eine UK-eSIM direkt bei einem Netzbetreiber kaufen?
 
-Das Vereinigte Königreich ist hier entspannter als die meisten Länder, aber nicht reibungslos. Der Online-Kauf einer Prepaid-eSIM direkt bei einem Netzbetreiber erfordert in der Regel keine britische Adresse und keine Bonitätsprüfung, und an der Kasse kann eine Reisepassnummer verlangt werden. Die Ausnahmen häufen sich bei den ausschließlich im Laden erhältlichen Wegen: **Es wird berichtet, dass O2s PAYG-eSIM einen persönlichen Besuch mit Lichtbildausweis erfordert**, und jeder SIM-Tausch oder -Ersatz wird in der Regel wieder über ein Geschäft abgewickelt. Eine Reise-eSIM, die Sie vor dem Abflug kaufen, umgeht die Frage ganz – das ist die praktische Lösung, wenn Ihre Reise um 23 Uhr am Flughafen Heathrow beginnt.
+In dieser Frage ist das Vereinigte Königreich entspannter als die meisten Länder, aber nicht reibungslos. Der Online-Kauf einer Prepaid-eSIM direkt bei einem Netzbetreiber erfordert in der Regel keine britische Adresse und keine Bonitätsprüfung, und an der Kasse kann eine Reisepassnummer verlangt werden. Die Ausnahmen häufen sich bei den ausschließlich im Laden erhältlichen Wegen: **Es wird berichtet, dass O2s PAYG-eSIM einen persönlichen Besuch mit Lichtbildausweis erfordert**, und jeder SIM-Tausch oder -Ersatz wird in der Regel wieder über ein Geschäft abgewickelt. Eine Reise-eSIM, die Sie vor dem Abflug kaufen, umgeht die Frage ganz – das ist die praktische Lösung, wenn Ihre Reise um 23 Uhr am Flughafen Heathrow beginnt.
 
 ### Wie streng sind die Roaming-Obergrenzen?
 
@@ -149,17 +148,17 @@ EE und Vodafone führen außerhalb der Städte – besonders in Schottland und W
 
 ### Welche zwei Einstellungen entscheiden bei der Ankunft?
 
-Das Vereinigte Königreich ist ein 5G-NSA- und SA-Markt, und eine UK-eSIM, die sich sauber installiert, kann trotzdem aus banalen Gründen keinen Dienst anzeigen. **Datenroaming muss für die eSIM-Leitung eingeschaltet sein** – das Vereinigte Königreich wird von vielen Reise-Profilen als Roaming behandelt –, und die eSIM muss als die für mobile Daten verwendete Leitung ausgewählt sein. Prüfen Sie beides, bevor Sie schlussfolgern, dass etwas kaputt ist.
+Das Vereinigte Königreich ist ein 5G-NSA- und SA-Markt, und ein UK-Profil, das sich sauber installiert, kann trotzdem aus banalen Gründen keinen Dienst anzeigen. **Datenroaming muss für die eSIM-Leitung eingeschaltet sein** – das Vereinigte Königreich wird von vielen Reise-Profilen als Roaming behandelt –, und die eSIM muss als die für mobile Daten verwendete Leitung ausgewählt sein. Prüfen Sie beides, bevor Sie schlussfolgern, dass etwas kaputt ist.
 
-## Drei Wege zu Ihrer SIM für Großbritannien
+## Drei Wege zu Ihrer SIM für das Vereinigte Königreich
 
-Es gibt mehrere Wege, eine eSIM zu erhalten, und sie unterscheiden sich darin, wie viel der Arbeit vor dem Abflug erledigt wird.
+Es gibt mehrere Wege zu einer Reise-SIM, und sie unterscheiden sich darin, wie viel der Arbeit vor dem Abflug erledigt wird.
 
 **Weg eins: eine Reise-eSIM, zu Hause installiert.**
 
 1. Stellen Sie sicher, dass Ihr Handy entsperrt und eSIM-fähig ist – das [eSIM-Kompatibilitätstool](/compatibility/) prüft beides in einem Schritt.
 2. Kaufen Sie den Tarif und installieren Sie das Profil über Ihr eigenes WLAN, und benennen Sie die Leitung dann um, damit Sie sie nicht mit Ihrer Heimat-SIM verwechseln.
-3. Legen Sie die eSIM als die für mobile Daten verwendete Leitung fest und aktivieren Sie Datenroaming dafür.
+3. Legen Sie das Profil als die für mobile Daten verwendete Leitung fest und aktivieren Sie Datenroaming dafür.
 4. Schalten Sie bei der Landung Datenroaming auf Ihrer Heimat-SIM aus und vergewissern Sie sich, dass sich das Profil einbucht, bevor Sie das Terminal verlassen.
 5. Bewahren Sie den QR-Code in der Cloud auf, falls Sie ihn neu installieren müssen.
 
@@ -169,7 +168,7 @@ Es gibt mehrere Wege, eine eSIM zu erhalten, und sie unterscheiden sich darin, w
 2. Wählen Sie beim Check-out eSIM statt physischer SIM und entscheiden Sie sich für die Lieferung per E-Mail, nicht per Post.
 3. Geben Sie eine Zahlungskarte ein. Hier besteht die Möglichkeit, dass ausländische Karten gelegentlich an einer Betrugsprüfung scheitern – versuchen Sie es mit einer anderen Karte statt mit einem anderen Browser erneut.
 4. Installieren Sie den QR-Code vor der Reise; er benötigt eine funktionierende Verbindung zum Herunterladen.
-5. Schalten Sie Roaming für die eSIM-Leitung ein, wenn Sie landen.
+5. Schalten Sie Roaming für die neue Leitung ein, wenn Sie landen.
 
 **Weg drei: eine Prepaid-eSIM aus einem britischen Laden.**
 
@@ -179,18 +178,22 @@ Es gibt mehrere Wege, eine eSIM zu erhalten, und sie unterscheiden sich darin, w
 4. Schließen Sie die Aktivierung im Laden ab und vergewissern Sie sich, dass der Tarif aktiv ist, bevor Sie den Schalter verlassen.
 5. Bewahren Sie die Quittung auf – Ersatz und SIM-Tausch laufen normalerweise wieder über denselben Laden.
 
+### Ankunft in Heathrow oder Gatwick: die erste Stunde
+
+Wer ohne vorab installiertes Profil im Vereinigten Königreich landet, verbringt die erste halbe Stunde im Flughafen. In Heathrow und Gatwick gibt es Shops der vier Netze und der großen Reseller, aber die Warteschlange nach einem Langstreckenflug ist der schlechteste Moment für einen Tarifvergleich. Drei Punkte sparen Zeit: Prüfen Sie vorher, ob Ihr Handy entsperrt ist und über `*#06#` eine EID anzeigt; rechnen Sie damit, dass ein Prepaid-Abschluss am Schalter eine Reisepassnummer verlangen kann; und halten Sie eine Karte bereit, die kontaktlos funktioniert, weil manche ausländischen Karten an der Betrugsprüfung scheitern. Wer dagegen ein vorab gekauftes Reiseprofil mitbringt, ist in dem Moment online, in dem das Flugzeug die Parkposition erreicht – der ganze Vorgang beschränkt sich dann auf das Aktivieren des Datenroamings für die neue Leitung.
+
 ## Was die lokale Prepaid-eSIM wirklich kostet
 
-Preise ändern sich schneller als Artikel, daher lebt die aktuelle Tarifpalette für das Vereinigte Königreich auf unserer [UK-eSIM-Tarifseite](/united-kingdom-esim/). Die Marktdaten unten – lokaler Gigabyte-Preis, Netzgeschwindigkeit, Durchdringung – sind der Kontext, der einen Tarifpreis aussagekräftig macht.
+Preise ändern sich schneller als Artikel, daher lebt die aktuelle Tarifpalette für das Vereinigte Königreich auf unserer [Tarifübersicht](/plans/). Die Marktdaten unten – lokaler Gigabyte-Preis, Netzgeschwindigkeit, Durchdringung – sind der Kontext, der einen Tarifpreis aussagekräftig macht.
 
-| | Lokale Prepaid-eSIM | Reise-eSIM | Heimtarif mit Roaming |
+| | Lokale Prepaid-SIM | Reise-Profil | Heimtarif mit Roaming |
 |:---|:---|:---|:---|
 | Einstiegspreis | 10 £ für 30–60 GB in den meisten Netzen | Ein einziger Vorab-Paketpreis | Wird von Ihrem Heimnetzbetreiber festgelegt |
-| Leistungen | In der Regel unbegrenzte Anrufe und SMS in Großbritannien | Datenvolumen nur bei den meisten Reise-Profilen | Ihr Heimattarif, im Ausland gedeckelt |
+| Leistungen | In der Regel unbegrenzte Anrufe und SMS im Vereinigten Königreich | Datenvolumen nur bei den meisten Reise-Profilen | Ihr Heimattarif, im Ausland gedeckelt |
 | Einrichtung | Online-Bestellung oder Ladenbesuch bei O2 | Installation zu Hause | Keine |
 | Telefonnummer | Ja – eine britische Nummer | Nein | Ihre eigene Nummer |
 | EU-Roaming | In einigen Netzen inklusive, in allen gedeckelt | Hängt vom Profil ab | Je nach Heimattarif |
-| Ideal für | Aufenthalte von drei Wochen oder mehr oder wenn Sie eine britische Rufnummer benötigen | Die meisten Reisen, insbesondere kurze | Kurze Reisen, bei denen Ihr Heimattarif bereits Großbritannien abdeckt |
+| Ideal für | Aufenthalte von drei Wochen oder mehr oder wenn Sie eine Rufnummer aus dem Vereinigten Königreich benötigen | Die meisten Reisen, insbesondere kurze | Kurze Reisen, bei denen Ihr Heimattarif bereits das Vereinigte Königreich abdeckt |
 
 Der lokale Tarif, der als Vergleichsbasis dient, liegt bei **etwa 0,62 USD pro Gigabyte** und belegt Platz 58 der 237 Märkte, die Cable.co.uk beobachtet. Britische Prepaid-Bundles sind im Vergleich dazu ungewöhnlich großzügig – 60 GB für 10 £ sind im Netz von Three kein Werbegag – was eine britische Prepaid-eSIM zu einem ernsthaften Kandidaten und nicht zu einem Außenseiter macht, anders als in den meisten Ländern.
 
@@ -208,7 +211,7 @@ Quellen: [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/u
 
 Welches Netz die beste Wahl ist, hängt von der Stadt ab. Die Leistungswerte stammen aus dem RootMetrics-Report der zweiten Jahreshälfte 2025; die Roaming-Hinweise sind wichtig, falls die Stadt der erste Stopp einer längeren Reise ist.
 
-| Stadt | Bester Netzbetreiber | Warum es funktioniert |
+| Stadt im Vereinigten Königreich | Stärkstes Netz | Was den Ausschlag gibt |
 |:---|:---|:---|
 | London | EE | Mittlere Downloadgeschwindigkeiten über 100 Mbps, das beste 5G-Erlebnis sowie konsequent eingesetzte Carrier Aggregation, die im West End und in Canary Wharf zuverlässig funktioniert |
 | Manchester | EE | Die Geschwindigkeiten überschreiten in nahezu jeder getesteten Stadt 100 Mbps, was für Geschäftsreisende und alle, die im Hotel arbeiten, von Bedeutung ist |
@@ -216,13 +219,13 @@ Welches Netz die beste Wahl ist, hängt von der Stadt ab. Die Leistungswerte sta
 | Cardiff | Virgin Media O2 | Eine kürzlich durchgeführte Neukonfiguration bei 2100 MHz hat die Leistung in der walisischen Hauptstadt verbessert, zusätzlich zu den hohen 5G-Anbindungsraten |
 | Birmingham | Three | Mittlere Download-Geschwindigkeiten über 50 Mbps in allen 16 Großstädten, mit günstigen Datentarifen mit hohem Datenvolumen |
 
-💡 Bei einer Reise mit mehreren Städten bedeutet eine eSIM mit mehreren Netzen, dass Sie nie auf den Netzbetreiber angewiesen sind, der an Ihrem aktuellen Standort das schwächste Netz hat.
+💡 Bei einer Reise mit mehreren Städten bedeutet ein Profil mit mehreren Netzen, dass Sie nie auf den Netzbetreiber angewiesen sind, der an Ihrem aktuellen Standort das schwächste Netz hat.
 
 ## Wo die vier Netze Lücken haben
 
 Betrachten Sie die nationalen Geschwindigkeitswerte als Obergrenze und nicht als Untergrenze. Das regionale Bild, einschließlich der Funklöcher, die eine Autofahrt ruinieren können, finden Sie unten.
 
-| Region | Realität vor Ort |
+| Region im Vereinigten Königreich | Realität vor Ort |
 |:---|:---|
 | London & der Südosten | 5G im gesamten bebauten Gebiet und selten ein Abfall auf 4G in der Innenstadt; die Tube bietet auf den meisten Linien Empfang an den Bahnsteigen, zwischen den Stationen weniger |
 | Der Südwesten und Cornwall | Die Küstenstädte sind gut versorgt; auf den Strecken im Landesinneren, auf Bodmin Moor und im äußersten Westen rund um Land's End gibt es jedoch lange Abschnitte ohne Netzabdeckung |
@@ -233,39 +236,39 @@ Betrachten Sie die nationalen Geschwindigkeitswerte als Obergrenze und nicht als
 | Schottisches Hochland, Inseln und die North Coast 500 | Empfang gibt es in den Ortschaften und verschwindet dazwischen. Der Bealach na Bà, weite Teile der Westküste nördlich von Ullapool und die Insel-Fähren sind ohne Netz; laden Sie Karten vor der Fahrt herunter |
 | Nordirland | Belfast und die Autobahnkorridore sind gut abgedeckt; die Antrim Glens und die Fermanagh-Seenregion verlieren schnell Empfang, und die Grenze zur Republik lässt das Signal in beide Richtungen durchsickern |
 
-Reisen über Großbritannien hinaus? Die gleiche fundierte Übersicht gibt es auch für:
+Reisen über das Vereinigte Königreich hinaus? Die gleiche fundierte Übersicht gibt es auch für:
 
 - [eSIM für Irland](/ireland-esim/)
 - [eSIM für Frankreich](/france-esim/)
 - [eSIM Niederlande](/netherlands-esim/)
 
-💡 Regionenwechsel? Der Netzbetreiber, der in einem Gebiet überzeugt, ist selten auch im nächsten die beste Wahl – genau das löst eine Multi-Netzwerk-eSIM.
+💡 Regionenwechsel? Der Netzbetreiber, der in einem Gebiet überzeugt, ist selten auch im nächsten die beste Wahl – genau das löst ein Multi-Netz-Profil.
 
 ## Den passenden britischen Netzbetreiber für Ihre Reise finden
 
-Reiserouten in Großbritannien lassen sich in zwei Muster unterteilen – städtische Korridore, in denen Geschwindigkeit zählt, und ländliche Routen, in denen die Netzabdeckung entscheidet – und die Antwort ändert sich je nach Buchung. Neun Reisen und was Sie jeweils einrichten sollten.
+Reiserouten im Vereinigten Königreich lassen sich in zwei Muster unterteilen – städtische Korridore, in denen Geschwindigkeit zählt, und ländliche Routen, in denen die Netzabdeckung entscheidet – und die Antwort ändert sich je nach Buchung. Neun Reisen und was Sie jeweils einrichten sollten.
 
 | Ihre Reise | Was eingerichtet werden muss | Warum es funktioniert | Worauf Sie achten sollten |
 |:---|:---|:---|:---|
-| Langes Wochenende nur in London | Reise-eSIM, jedes Netz | Alle vier Netzbetreiber sind in der Hauptstadt ausgezeichnet | Die Tube hat auf einigen Linien weiterhin Lücken zwischen den Stationen |
-| Edinburgh nach London mit der Bahn | Reise-eSIM über EE oder Three | Die East Coast Main Line ist auf der gesamten Strecke versorgt; der Empfang am Sitzplatz ist gut genug für Anrufe | Lange Tunnel nördlich von Newcastle unterbrechen die Verbindung kurzzeitig |
-| Schottland und die Highlands mit dem Auto | Reise-eSIM mit Vodafone plus Offline-Karten | Vodafone bietet von allen vier die beste Abdeckung im ländlichen Raum | Die North Coast 500 und Applecross weisen über mehrere Kilometer Funklöcher auf |
-| Wanderwoche im Lake District | Reise-eSIM bei Vodafone oder EE | Die Städte und Täler sind versorgt, die Pässe jedoch nicht | Die Pässe Hardknott und Wrynose haben keinen Empfang |
-| Cornwall und die Südwestküste | Reise-eSIM auf Vodafone | Küstenstädte sind bei allen Netzbetreibern gut versorgt | Im Hinterland und im äußersten Westen ist die Netzabdeckung lückenhaft; an manchen Stränden ist kein Empfang zu erwarten |
-| Wales: Snowdonia, Brecon, Pembrokeshire | Reise-eSIM auf Vodafone plus Offline-Karten | Vodafone schneidet in Wales in den meisten Kategorien am besten ab | Die Täler von Snowdonia sind echte Funklöcher |
-| Nordirland und die Antrim-Küste | Reise-eSIM im EE- oder O2-Netz | Belfast und die Autobahnen sind gut versorgt | In Grenzgebieten wechselt das Gerät auf irische Netzbetreiber; prüfen Sie das Roaming-Limit |
+| Langes Wochenende nur in London | Reiseprofil, jedes Netz | Alle vier Netzbetreiber sind in der Hauptstadt ausgezeichnet | Die Tube hat auf einigen Linien weiterhin Lücken zwischen den Stationen |
+| Edinburgh nach London mit der Bahn | Reiseprofil über EE oder Three | Die East Coast Main Line ist auf der gesamten Strecke versorgt; der Empfang am Sitzplatz ist gut genug für Anrufe | Lange Tunnel nördlich von Newcastle unterbrechen die Verbindung kurzzeitig |
+| Schottland und die Highlands mit dem Auto | Reiseprofil mit Vodafone plus Offline-Karten | Vodafone bietet von allen vier die beste Abdeckung im ländlichen Raum | Die North Coast 500 und Applecross weisen über mehrere Kilometer Funklöcher auf |
+| Wanderwoche im Lake District | Reiseprofil bei Vodafone oder EE | Die Städte und Täler sind versorgt, die Pässe jedoch nicht | Die Pässe Hardknott und Wrynose haben keinen Empfang |
+| Cornwall und die Südwestküste | Reiseprofil auf Vodafone | Küstenstädte sind bei allen Netzbetreibern gut versorgt | Im Hinterland und im äußersten Westen ist die Netzabdeckung lückenhaft; an manchen Stränden ist kein Empfang zu erwarten |
+| Wales: Snowdonia, Brecon, Pembrokeshire | Reiseprofil auf Vodafone plus Offline-Karten | Vodafone schneidet in Wales in den meisten Kategorien am besten ab | Die Täler von Snowdonia sind echte Funklöcher |
+| Nordirland und die Antrim-Küste | Reiseprofil im EE- oder O2-Netz | Belfast und die Autobahnen sind gut versorgt | In Grenzgebieten wechselt das Gerät auf irische Netzbetreiber; prüfen Sie das Roaming-Limit |
 | Einen Monat lang von einem Standort im Vereinigten Königreich aus arbeiten | Lokale Prepaid-eSIM von Three oder EE | Britische Prepaid-Bundles sind ungewöhnlich günstig pro Gigabyte | Vertragstarife erfordern eine Bonitätsprüfung; bleiben Sie bei Prepaid |
-| Eine Reiseroute durch Großbritannien und Irland | Reise-eSIM oder Prepaid-Tarif im O2-Netz | Das Netz von O2 berechnet keine Roaming-Gebühren innerhalb der EU | Jeder Netzbetreiber wendet eine Roaming-Fair-Use-Obergrenze an |
+| Eine Reiseroute durch das Vereinigte Königreich und Irland | Reiseprofil oder Prepaid-Tarif im O2-Netz | Das Netz von O2 berechnet keine Roaming-Gebühren innerhalb der EU | Jeder Netzbetreiber wendet eine Roaming-Fair-Use-Obergrenze an |
 
 ## So richten Sie die UK eSIM auf Ihrem Handy ein
 
-Sie fügen das Profil selbst in wenigen Minuten hinzu – Tarife und Aktivierungsdetails finden Sie auf der [Tarifübersicht für Großbritannien](/united-kingdom-esim/), mit der plattformspezifischen Anleitung in unserem [eSIM-Aktivierungshandbuch](/faq/how-to-activate-an-esim/).
+Sie fügen das Profil selbst in wenigen Minuten hinzu – Tarife und Aktivierungsdetails finden Sie unter den [aktuellen Tarifen für das Vereinigte Königreich](/plans/), mit der plattformspezifischen Anleitung in unserem [eSIM-Aktivierungshandbuch](/faq/how-to-activate-an-esim/).
 
 **iPhone:** Einstellungen → Mobilfunk → eSIM hinzufügen → QR-Code verwenden, dann die Leitung benennen und als Standardleitung für mobile Daten festlegen.
 
 **Android:** Einstellungen → Verbindungen → SIM-Manager → eSIM hinzufügen, dann den QR-Code scannen und das neue Profil als bevorzugte Daten-SIM einstellen.
 
-Unabhängig vom Weg entscheiden dieselben zwei Einstellungen, ob Daten fließen: **Roaming für die eSIM-Leitung aktiviert** und die eSIM als Datenleitung ausgewählt. Lassen Sie Ihre Heim-SIM für Anrufe und Bestätigungscodes aktiv, jedoch mit deaktiviertem Datenroaming.
+Unabhängig vom Weg entscheiden dieselben zwei Einstellungen, ob Daten fließen: **Roaming für die neue Leitung aktiviert** und das Profil als Datenleitung ausgewählt. Lassen Sie Ihre Heim-SIM für Anrufe und Bestätigungscodes aktiv, jedoch mit deaktiviertem Datenroaming.
 
 ## Die APN-Einstellungen der vier UK-Netze
 
@@ -277,9 +280,9 @@ Signal ohne Daten bei einer frischen britischen Leitung ist fast immer ein APN-P
 
 ## Britische Fehlerbilder und ihre Ursachen
 
-Generische Aktivierungsfehler – ein Profil, das nicht heruntergeladen werden kann, ein Scan, der fehlschlägt, eine eSIM, die installiert wird, aber nie registriert – werden in unserem [Leitfaden für Aktivierungsfehler](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Die vier Muster unten sind die britenspezifischen.
+Generische Aktivierungsfehler – ein Profil, das nicht heruntergeladen werden kann, ein Scan, der fehlschlägt, ein Profil, das installiert wird, aber sich nie registriert – werden in unserem [Leitfaden für Aktivierungsfehler](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Die vier Muster unten sind die britenspezifischen.
 
-**A. Installiert und Balken werden angezeigt, aber kein Internet.** Dies ist der mit Abstand häufigste britische Fehler und liegt fast immer am Roaming. Gehen Sie zu Einstellungen → Mobilfunk → Ihre eSIM-Leitung und schalten Sie **Datenroaming ein**. Reiseprofile behandeln Großbritannien als Roaming-Ziel, daher registriert sich ein Profil mit deaktiviertem Roaming im Netz und verweigert anschließend die Datenübertragung. Warten Sie 30–60 Sekunden nach dem Umschalten.
+**A. Installiert und Balken werden angezeigt, aber kein Internet.** Dies ist der mit Abstand häufigste britische Fehler und liegt fast immer am Roaming. Gehen Sie zu Einstellungen → Mobilfunk → Ihre eSIM-Leitung und schalten Sie **Datenroaming ein**. Reiseprofile behandeln das Vereinigte Königreich als Roaming-Ziel, daher registriert sich ein Profil mit deaktiviertem Roaming im Netz und verweigert anschließend die Datenübertragung. Warten Sie 30–60 Sekunden nach dem Umschalten.
 
 **B. Nach der Installation gar kein Empfang.** Normalerweise geräteseitig und nicht netzseitig. Bestätigen Sie, dass das Telefon netzbetreiberfrei entsperrt ist, bestätigen Sie, dass eine EID vorhanden ist (wenn keine EID vorhanden ist, hat das Gerät keine eSIM-Hardware), und starten Sie neu. Wenn das Profil installiert ist, das Telefon aber weiter sucht, prüfen Sie, ob es nicht noch auf die Heim-SIM für Daten eingestellt ist.
 
@@ -289,7 +292,7 @@ Generische Aktivierungsfehler – ein Profil, das nicht heruntergeladen werden k
 
 ### Was der britische Support von Ihnen wissen will
 
-Bewahren Sie Ihre EID (aus `*#06#`), Ihre Bestellnummer, das Hostnetz, an das sich Ihr Profil verbinden soll, einen Screenshot des Fehlers und eine kurze Liste dessen auf, was Sie bereits versucht haben. Supportgespräche in Großbritannien verlaufen am schnellsten, wenn Sie sagen können, an welches Netz das Telefon tatsächlich angebunden ist und ob Roaming aktiviert ist.
+Bewahren Sie Ihre EID (aus `*#06#`), Ihre Bestellnummer, das Hostnetz, an das sich Ihr Profil verbinden soll, einen Screenshot des Fehlers und eine kurze Liste dessen auf, was Sie bereits versucht haben. Supportgespräche im Vereinigten Königreich verlaufen am schnellsten, wenn Sie sagen können, an welches Netz das Telefon tatsächlich angebunden ist und ob Roaming aktiviert ist.
 
 ## Mit Ihrer eSIM nach Irland und in die EU
 
@@ -304,35 +307,35 @@ Die Republik Irland ist der Fall, den die meisten Reisenden falsch einschätzen,
 
 Bei zwei davon ist das Vertragsdatum wichtiger als das Netz. **EE-Kunden, die vor dem 7. Juli 2021 einen Tarif abgeschlossen haben**, und **Three-Kunden mit älteren Tarifen** behalten oft kostenloses oder günstigeres Roaming, das Neukunden nicht mehr erhalten. Prüfen Sie daher Ihren eigenen Vertrag, bevor Sie ein Zusatzpaket kaufen. Auch die Preise und Limits ändern sich: Vodafone veröffentlicht seine Bedingungen auf eigenen Seiten, und die Vergleichsportale, die diese Werte verfolgen, nennen leicht abweichende Tagesbeträge. Betrachten Sie jede einzelne Zahl daher nur als Richtwert und prüfen Sie sie in der App Ihres Netzbetreibers.
 
-Das größere Problem für einen Reisenden ist, dass **eine reine UK-Reise-eSIM überhaupt nicht ins Ausland roamt**. Wenn Ihre Route Dublin, Belfast plus die Grenzregionen oder eine Etappe mit dem Eurostar einschließt, kaufen Sie ein Profil, das das Vereinigte Königreich und Irland (bzw. Europa) als abgedeckte Ziele auflistet, anstatt davon auszugehen, dass Ihr UK-Tarif Sie über die Irische See begleitet.
+Das größere Problem für einen Reisenden ist, dass **ein reines UK-Reiseprofil überhaupt nicht ins Ausland roamt**. Wenn Ihre Route Dublin, Belfast plus die Grenzregionen oder eine Etappe mit dem Eurostar einschließt, kaufen Sie ein Profil, das das Vereinigte Königreich und Irland (bzw. Europa) als abgedeckte Ziele auflistet, anstatt davon auszugehen, dass Ihr UK-Tarif Sie über die Irische See begleitet.
 
 ## Ihre Fragen zur eSIM für das Vereinigte Königreich, beantwortet
 
-### Aufladungen für die UK-eSIM
+### Kann ich meine UK-eSIM nachträglich aufladen?
 
-Yes. Die eSIM von Roami unterstützt Sofortaufladungen über die App oder die Webseite, und Sie können jederzeit ein Datenpaket hinzufügen, ohne das Profil zu wechseln. Neue Daten sind sofort nutzbar, sodass es keinen Grund gibt, zu Reisebeginn zu viel zu kaufen.
+Ja. Das Roami-Profil unterstützt Sofortaufladungen über die App oder die Webseite, und Sie können jederzeit ein Datenpaket hinzufügen, ohne das Profil zu wechseln. Neue Daten sind sofort nutzbar, sodass es keinen Grund gibt, zu Reisebeginn zu viel zu kaufen.
 
-### Die Netze im Vereinigten Königreich
+### Wechselt meine UK-eSIM automatisch zwischen den Netzen?
 
-Yes. Das UK-Profil von Roami ist vorkonfiguriert, sich je nach Signalstärke und Leistung mit dem besten verfügbaren Netz aus EE, Three, Virgin Media O2 und Vodafone zu verbinden, ohne manuelle Betreiberauswahl. Wenn Sie dies für eine bestimmte Etappe überschreiben möchten, hat die manuelle Netzauswahl in den Einstellungen immer Vorrang.
+Ja. Das UK-Profil von Roami ist vorkonfiguriert, sich je nach Signalstärke und Leistung mit dem besten verfügbaren Netz aus EE, Three, Virgin Media O2 und Vodafone zu verbinden, ohne manuelle Betreiberauswahl. Wenn Sie dies für eine bestimmte Etappe überschreiben möchten, hat die manuelle Netzauswahl in den Einstellungen immer Vorrang.
 
-### Tethering mit einer UK-eSIM erlaubt?
+### Ist Tethering mit einer UK-eSIM erlaubt?
 
-Die eSIM von Roami unterstützt Hotspot-Tethering, und die praktische Grenze bildet die Fair-Use-Regel Ihres Tarifs und nicht eine harte Geräteobergrenze – bis zu etwa fünf verbundene Geräte sind üblich. Prüfen Sie die Details des jeweiligen Tarifs und dimensionieren Sie das Datenvolumen für Tethering statt nur für die Smartphone-Nutzung.
+Das Roami-Profil unterstützt Hotspot-Tethering, und die praktische Grenze bildet die Fair-Use-Regel Ihres Tarifs und nicht eine harte Geräteobergrenze – bis zu etwa fünf verbundene Geräte sind üblich. Prüfen Sie die Details des jeweiligen Tarifs und dimensionieren Sie das Datenvolumen für Tethering statt nur für die Smartphone-Nutzung.
 
-### Welche Tarifgröße passt zu einer UK-Reiseroute?
+### Läuft meine UK-eSIM parallel zu meiner Heimat-SIM?
 
-Yes. Richten Sie sie als die für mobile Daten genutzte Leitung ein, und sie funktioniert parallel zu Ihrer physischen SIM für Anrufe und SMS – oder allein für Daten. Das ist die Standardkonfiguration für Reisende, die ihre Heimatnummer weiterhin für Bank- und Airline-Codes empfangsbereit halten möchten.
+Ja. Richten Sie sie als die für mobile Daten genutzte Leitung ein, und sie funktioniert parallel zu Ihrer physischen SIM für Anrufe und SMS – oder allein für Daten. Das ist die Standardkonfiguration für Reisende, die ihre Heimatnummer weiterhin für Bank- und Airline-Codes empfangsbereit halten möchten.
 
-### Lokale SIM versus Reise-eSIM im Vereinigten Königreich
+### Brauche ich für eine UK-eSIM einen Ausweis?
 
-Nicht auf dem Reise-eSIM-Pfad, der online mit Zahlungskarte und ohne Dokumentation gekauft wird. Direkte Prepaid-eSIMs von UK-Netzbetreibern können beim Checkout eine Reisepassnummer erfragen, und die nur im Laden verfügbaren Optionen – insbesondere die PAYG-eSIM von O2 – verlangen persönlich einen Lichtbildausweis. Das Vereinigte Königreich kennt kein Äquivalent zur biometrischen Registrierung, die Pakistan verlangt.
+Nicht auf dem Reiseprofil-Pfad, der online mit Zahlungskarte und ohne Dokumentation gekauft wird. Direkte Prepaid-SIMs von UK-Netzbetreibern können beim Checkout eine Reisepassnummer erfragen, und die nur im Laden verfügbaren Optionen – insbesondere die PAYG-eSIM von O2 – verlangen persönlich einen Lichtbildausweis. Das Vereinigte Königreich kennt kein Äquivalent zur biometrischen Registrierung, die Pakistan verlangt.
 
-### Empfehlungen nach Reiseart: UK-eSIMs
+### Welches Netz ist außerhalb der Städte am besten?
 
 Vodafone, hinsichtlich der Reichweite im ländlichen Raum – der Anbieter belegt in Schottland in den meisten Kategorien den zweiten Platz, und seine Low-Band-Frequenzen reichen weiter in Täler hinein als die höheren Bänder. EE ist überall dort schneller, wo beide Empfang haben. Keiner von beiden versorgt die North Coast 500 oder den Applecross-Pass, also laden Sie unabhängig vom Tarif Offline-Karten herunter.
 
-### Was kosten UK-eSIM-Tarife?
+### Reicht ein „unbegrenzter" UK-Tarif für die ganze Reise?
 
 Es gelten veröffentlichte Fair-Use-Regeln, und die Obergrenzen greifen im Ausland am stärksten, nicht zu Hause. Die Roaming-Obergrenzen liegen bei 25 GB im Netz von O2, 25 GB bei Vodafone, 50 GB bei EE und 12 GB bei Three. Inland bedeutet unbegrenzt in der Regel tatsächlich unbegrenzt – lesen Sie den Roaming-Wert, wenn Ihre Reise das Vereinigte Königreich verlässt.
 
@@ -340,21 +343,21 @@ Es gelten veröffentlichte Fair-Use-Regeln, und die Obergrenzen greifen im Ausla
 
 Zwei Anforderungen: ein entsperrtes Gerät mit eSIM-Unterstützung. Geben Sie die Modellnummer in die [Kompatibilitätsliste](/compatibility/) ein und achten Sie auf Band 20 / n28, die niedrigfrequente Schicht, die für die Versorgung ländlicher Gebiete sorgt und bei einigen importierten Geräten fehlt.
 
-### F: Was passiert mit meiner UK-eSIM, wenn ich nach Irland einreise?
+### Was passiert mit meiner UK-eSIM, wenn ich nach Irland einreise?
 
 Nichts Automatisches, sofern das Profil Irland nicht abdeckt. Ein reiner UK-Tarif hört an der Grenze auf zu funktionieren, und einige Profile verlieren schlicht ohne Meldung den Dienst. Das Netz von O2 ist für einen Irland-Aufenthalt die sicherste Wahl, da kein EU-Roaming berechnet wird, vorbehaltlich einer Fair-Use-Grenze von 25 GB – bei einer Reise-eSIM prüfen Sie jedoch die Zielliste vor dem Kauf.
 
-### UK-eSIM-Einrichtung Schritt für Schritt
+### Wie behebe ich Probleme bei der UK-eSIM-Einrichtung?
 
 Gehen Sie die vier Muster oben der Reihe nach durch – Roaming-Einstellung, Gerätesperre und EID, Netzauswahl, dann Netzüberlastung – und wenn es weiterhin nicht klappt, deckt der umfassendere Katalog im [eSIM-Problemlöser](/faq/esim-activation-errors-troubleshooting-guide/) die übrigen Fälle ab. Der Support wird nach der EID und der Bestellnummer fragen – halten Sie diese bereit.
 
-[View die komplette FAQ →](/faq/)
+[Zur kompletten FAQ →](/faq/)
 
-## UK-eSIM-Tipps, die den Kontakt mit dem Land nicht überleben
+## Mythen über die UK eSIM im Faktencheck
 
-### UK vs. EE 5G: Was ist im Vereinigten Königreich besser?
+### Mythos: Ein einzelnes Netz ist überall das beste.
 
-**Fakt:** falsch. EE führt mit dem besten 5G-Erlebnis und den schnellsten Geschwindigkeiten bei einem Median von 114,1 Mbps, Three hält in Städten die breiteste 5G-Bandbreite, und Vodafone und Virgin Media O2 teilen die Stärken in ländlichen bzw. städtischen Gebieten untereinander auf. In den Highlands ist die Reihenfolge nahezu umgekehrt.
+**Fakt:** So pauschal stimmt das nicht. EE führt mit dem besten 5G-Erlebnis und den schnellsten Geschwindigkeiten bei einem Median von 114,1 Mbps, Three hält in Städten die breiteste 5G-Bandbreite, und Vodafone und Virgin Media O2 teilen die Stärken in ländlichen bzw. städtischen Gebieten untereinander auf. In den Highlands ist die Reihenfolge nahezu umgekehrt.
 
 ### Mythos: Unbegrenzte Daten haben keine Einschränkungen.
 
@@ -369,15 +372,15 @@ Gehen Sie die vier Muster oben der Reihe nach durch – Roaming-Einstellung, Ger
 - **Ofcom** – Frequenzzuweisungen und Versorgungsberichte, die den Angaben zu Bändern und ländlicher Versorgung zugrunde liegen.
 - **Prepaid- und Roaming-Quellen** – Verfügbarkeit von Pay-as-you-go-eSIMs und Bundle-Preise aus UK-PAYG-Vergleichen und Händlerlisten sowie EU-Roaming-Tarife und Fair-Use-Grenzen aus Vergleichsratgebern und den veröffentlichten Roaming-Bedingungen von O2.
 
-Betrachten Sie jede hier genannte Zahl als zeitlich datierte Drittparteienmessung und nicht als live geltende Garantie; Versorgung und Geschwindigkeit ändern sich mit Upgrades und Netzlast.
+Betrachten Sie jede in diesem Artikel genannte Zahl als zeitlich datierte Drittparteienmessung und nicht als live geltende Garantie; Versorgung und Geschwindigkeit ändern sich mit Upgrades und Netzlast.
 
 ## Vernetzen Sie sich in dem Moment, in dem Sie das Vereinigte Königreich erreichen
 
 Roami hält den Datenfluss von Heathrow bis in die Highlands aufrecht und wechselt zwischen EE, Vodafone, Three und Virgin Media O2, wenn sich das Signal verschiebt. Testen Sie zunächst eine [kostenlose Test-eSIM von Roami](/free-esim/), oder sparen Sie 20 % mit dem Code **WEB20** auf einen [UK-eSIM-Tarif](/united-kingdom-esim/).
 
-[UK-eSIM-Tarif kaufen](/united-kingdom-esim/)
+UK-eSIM-Tarif kaufen
 
-[Auf roamiapp.com kaufen](/united-kingdom-esim/)
+Auf roamiapp.com kaufen
 
 *Nur für Neukunden von Roami*
 

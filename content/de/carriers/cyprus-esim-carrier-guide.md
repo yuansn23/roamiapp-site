@@ -34,7 +34,7 @@ hero_subtitle_main: "Cyta, Epic und PrimeTel – und die Linie, die die Insel te
 
 
 
-Zypern ist das eine europäische Reiseziel, bei dem die Frage nach dem Netzbetreiber nicht nur lautet „welches Netz ist am schnellsten“, sondern „**auf welcher Seite der Insel sind Sie?**“ Die Republik Zypern im Süden wird von Cyta, Epic (ehemals MTN Zypern), PrimeTel und Cablenet versorgt. Der türkisch verwaltete Norden wird von völlig separaten türkischen Betreibern betrieben – Turkcell KKTC und Telsim Vodafone –, die von einer herkömmlichen Zypern-eSIM **nicht** eingebunden werden. Überqueren Sie die Grüne Linie, stoppt Ihre südliche eSIM einfach, und Ihr Telefon fängt möglicherweise still ein nordtürkisches Signal ein. Dieser Guide beantwortet, auf welchem südlichen Netzbetreiber Ihre Zypern-eSIM laufen sollte, wie Sie sie als Besucher kaufen und wie Sie mit der Linie umgehen.
+Zypern ist das eine europäische Reiseziel, bei dem die Frage nach dem Netzbetreiber nicht nur lautet „welches Netz ist am schnellsten“, sondern „**auf welcher Seite der Insel sind Sie?**“ Die Republik Zypern im Süden wird von Cyta, Epic (ehemals MTN Zypern), PrimeTel und Cablenet versorgt. Der türkisch verwaltete Norden wird von völlig separaten türkischen Betreibern betrieben – Turkcell KKTC und Telsim Vodafone –, die von einem herkömmlichen Zypern-Profil **nicht** eingebunden werden. Überqueren Sie die Grüne Linie, stoppt Ihre südliche Datenleitung einfach, und Ihr Telefon fängt möglicherweise still ein nordtürkisches Signal ein. Dieser Guide beantwortet, auf welchem südlichen Netzbetreiber Ihre Zypern-eSIM laufen sollte, wie Sie sie als Besucher kaufen und wie Sie mit der Linie umgehen.
 
 
 
@@ -42,19 +42,19 @@ Zypern ist das eine europäische Reiseziel, bei dem die Frage nach dem Netzbetre
 
 
 
-Ein Netzbetreiber ist nur so stark wie die Profilinstallation dahinter – falls ein Teil unsicher erscheint, beginnen Sie mit dem [eSIM-Kompatibilitätstool](/compatibility/) und der [eSIM-Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/). Kommen Sie dann für die Netzvergleiche zurück.
+Ein Netzbetreiber ist nur so stark wie die Profilinstallation dahinter – falls ein Teil unsicher erscheint, beginnen Sie mit dem [eSIM-Kompatibilitätstool](/compatibility/) und der [Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/). Kommen Sie dann für die Netzvergleiche zurück.
 
 
 
-**Schnelles Urteil:** Eine lokale eSIM deckt nur die Republik ab. Bleiben Sie im Süden? **Cyta** hat die größte Reichweite in die Troodos-Berge; **Epic** (das alte MTN) wird von Ookla wiederholt als am schnellsten bewertet; **PrimeTel** ist die preiswerte Wahl für städtische Küstengebiete; **Cablenet** bündelt Mobilfunk mit Kabel-TV/Internet. Alle vier decken nur die Republik ab. Fahren Sie nach Norden nach Girne (Kyrenia) oder Famagusta? Ihre südliche eSIM verliert dort den Empfang – planen Sie darauf. Eine Reise-eSIM auf den südlichen Netzen bedeutet keine Schlange am Schalter, und bei einigen Netzbetreibern gilt EU-Roaming wie zu Hause.
+**Schnelles Urteil:** Bleiben Sie im Süden? **Cyta** hat die größte Reichweite in die Troodos-Berge; **Epic** (das alte MTN) wird von Ookla wiederholt als am schnellsten bewertet; **PrimeTel** ist die preiswerte Wahl für städtische Küstengebiete; **Cablenet** bündelt Mobilfunk mit Kabel-TV/Internet. Für alle vier gilt dasselbe: Der Geltungsbereich endet an der Grünen Linie. Fahren Sie nach Norden nach Girne (Kyrenia) oder Famagusta? Ihre südliche Datenleitung verliert dort den Empfang – planen Sie darauf. Ein Reise-Profil auf den südlichen Netzen bedeutet keine Schlange am Schalter, und bei einigen Netzbetreibern gilt EU-Roaming wie zu Hause.
 
 
 
-## Was Ihre eSIM südlich der Grünen Linie abdeckt
+## Was Ihre Datenleitung südlich der Grünen Linie abdeckt
 
 
 
-**Lokale eSIM-Netzabdeckung, Süden gegen Norden:**
+**Netzabdeckung der Republik, Süden gegen Norden:**
 
 
 
@@ -90,11 +90,11 @@ Die praktische Regel: **Eine Zypern-eSIM deckt die Republik ab und endet an der 
 
 | Netzabdeckung | Am größten, auch in abgelegenen/ländlichen Gebieten | 99 %+ Bevölkerungsabdeckung, schnellstes 5G | Stark in Städten/an der Küste | Gut in besiedelten Gebieten |
 
-| eSIM für Prepaid | Ja | Ja | Ja (als erster Netzbetreiber mit Prepaid eSIM) | Ja |
+| Prepaid-eSIM verfügbar | Ja | Ja | Ja (erster Anbieter mit Prepaid-Profil) | Ja |
 
 | Am besten für | Berge, Zuverlässigkeit | Geschwindigkeit, 5G in der Stadt | Preis-Leistung, Aufenthalte an der Küste | Bundle mit Heim-Breitband |
 
-| EU-Roaming | Ja (Prepaid) | Ja („Roam like Home“) | Limited vs. Cyta/Epic | Limited |
+| EU-Roaming | Ja (Prepaid) | Ja („Roam like Home“) | Eingeschränkt gegenüber Cyta/Epic | Eingeschränkt |
 
 
 
@@ -102,7 +102,7 @@ Hinweis zur Umbenennung: [Aus MTN Zypern wurde Epic](https://www.expatfocus.com/
 
 
 
-## Bevor Sie eine lokale eSIM kaufen
+## Bevor Sie eine lokale SIM kaufen
 
 
 
@@ -116,15 +116,15 @@ Zypern gehört zur EU, daher gelten für die Registrierung die EU-Standardregeln
 
 | **Reisepass oder EU-Personalausweis** | Nur das physische Dokument — ein Foto auf dem Handy wird nicht akzeptiert | Pflichtregistrierung der Prepaid-SIM gemäß EU-Gesetz |
 
-| **Entsperrtes Handy** | Eine Netzbetreiber-Sperre blockiert jede eSIM | Prüfen Sie Einstellungen → Über; das Sperrfeld muss ein entsperrtes Gerät anzeigen |
+| **Entsperrtes Handy** | Eine Netzsperre blockiert jedes Profil | Einstellungen → Allgemein → Info bzw. Über das Telefon: Das Sperrfeld muss „Keine SIM-Einschränkungen" anzeigen |
 
 | **EUR bar oder Karte** | Südliche Kioske akzeptieren beides, Dorfläden variieren | Kleine Aufladestationen können nur Karte oder nur Bargeld akzeptieren |
 
 | **WLAN** | Installieren Sie Ihre Reise-eSIM zu Hause, nicht am Flughafen Larnaka/Paphos | Die Schalter am Flughafen haben nur eingeschränkte Öffnungszeiten |
 
-| **Plan für den Norden** | Eine südliche eSIM deckt den Norden nicht ab | Kaufen Sie eine separate türkische/regionale eSIM oder verlassen Sie sich im Norden auf WLAN |
+| **Plan für den Norden** | Ein Profil aus dem Süden deckt den Norden nicht ab | Kaufen Sie eine separate türkische/regionale Reise-SIM oder verlassen Sie sich im Norden auf WLAN |
 
-| **EU Roam-Like-Home-Bekanntheit** | Nur bei Cyta/Epic Prepaid, vorbehaltlich faire Nutzung | Gehen Sie nicht davon aus, dass dies bei PrimeTel/Cablenet oder im Norden gilt |
+| **Gilt EU-Roam-like-home auch hier?** | Nur bei Cyta/Epic Prepaid, vorbehaltlich fairer Nutzung | Gehen Sie nicht davon aus, dass dies bei PrimeTel/Cablenet oder im Norden gilt |
 
 
 
@@ -137,6 +137,10 @@ Wenn Ihre Heim-SIM aus der EU/EWR stammt, brauchen Sie möglicherweise überhaup
 
 
 Die vier südlichen Anbieter liegen bei der alltäglichen Netzabdeckung wirklich nah beieinander. Die Entscheidung für eine Zypern-eSIM hängt vom Preis-Leistungs-Verhältnis des Tarifs, der Bequemlichkeit am Flughafen und – bei PrimeTel/Cablenet – von der Bündeloption ab.
+
+
+
+**Rechnung für zwei Wochen Zypern.** Zwei Wochen mit täglich rund 2 GB ergeben etwa 28 GB. Zum lokalen Durchschnittspreis von 2,41 USD pro Gigabyte wären das knapp 67 USD am Schalter – zuzüglich Reisepassregistrierung und dem Weg in eine Filiale. Die Prepaid-Pakete der Anbieter liegen darunter, wenn die Datenmenge passt: PrimeTels PAYG-Paket mit 60 GB kostet rund 10 €, Cytas eSIM mit 20 GB ebenfalls rund 10 €, Epics Traveller mit 20 GB etwa 20 €. Ein vorab gekauftes Reise-Profil arbeitet dagegen mit einem Festpreis, den Sie schon vor der Abreise kennen, und ersetzt den Schalter durch einen QR-Code.
 
 
 
@@ -170,11 +174,11 @@ Cyta (Cytamobile-Vodafone) ist das frühere Staatsmonopol und nach wie vor die s
 
 2. Zur Registrierung einen **Reisepass oder EU-Ausweis** vorlegen.
 
-3. Für die eSIM die eSIM-Karte online oder im Shop kaufen und den QR-Code scannen.
+3. Für das Profil die eSIM-Karte online oder im Shop kaufen und den QR-Code scannen.
 
 
 
-**Besonderheit:** Cytas eSIM ist am leichtesten über Postpaid erhältlich; Prepaid-eSIM wird zwar verkauft, bestätigen Sie sie aber am Schalter. EU-Roaming ist auf Prepaid enthalten.
+**Besonderheit:** Das Cyta-Profil ist am leichtesten über Postpaid erhältlich; die Prepaid-Variante wird zwar verkauft, bestätigen Sie sie aber am Schalter. EU-Roaming ist auf Prepaid enthalten.
 
 
 
@@ -190,7 +194,7 @@ Epic (ehemals MTN) wird von Ookla wiederholt als der schnellste in Zypern einges
 
 
 
-| Tarif | Datenvolumen | Laufzeit | Preis | Hinweise |
+| Epic-Tarif | Inklusivdaten | Laufzeit | Preis | Anmerkung |
 
 |:---|:---|:---|:---|:---|
 
@@ -206,7 +210,7 @@ Epic (ehemals MTN) wird von Ookla wiederholt als der schnellste in Zypern einges
 
 **Wie ein Besucher Epic kauft:**
 
-1. Bestellen Sie die eSIM online und aktivieren Sie sie per QR-Code, oder besuchen Sie einen Epic-Shop in den Einkaufszentren von Nikosia, Limassol oder Paphos.
+1. Bestellen Sie das Profil online und aktivieren Sie es per QR-Code, oder besuchen Sie einen Epic-Shop in den Einkaufszentren von Nikosia, Limassol oder Paphos.
 
 2. Legen Sie zur Registrierung einen Personalausweis vor.
 
@@ -242,7 +246,7 @@ PrimeTel ist der Mobilfunkzweig eines Kabel-/Breitbandunternehmens. Es ist der g
 
 | Prepaid 500 GB | 500 GB | 90 Tage | ~50 € | Nur Daten |
 
-| eSIM 250GB | 250 GB | 30 Tage | ~20 € | Prepaid-eSIM |
+| eSIM 250GB | 250 GB | 30 Tage | ~20 € | Prepaid-Profil |
 
 
 
@@ -252,11 +256,11 @@ PrimeTel ist der Mobilfunkzweig eines Kabel-/Breitbandunternehmens. Es ist der g
 
 2. Physischer Ausweis für die Registrierung erforderlich.
 
-3. eSIM wird gegen eine Gebühr ausgestellt (~16,95 € mit 10 GB in einigen Angeboten, laut den [SIM-Preisen von NextExpat](https://www.nextexpat.com/en/mobile-internet-and-communication-in-cyprus-for-tourists-sim-cards-and-prices)) und ist an das Gerät gebunden – für eine Neuinstallation ist ein Shopbesuch für einen neuen QR-Code erforderlich.
+3. Das Profil wird gegen eine Gebühr ausgestellt (~16,95 € mit 10 GB in einigen Angeboten, laut den [SIM-Preisen von NextExpat](https://www.nextexpat.com/en/mobile-internet-and-communication-in-cyprus-for-tourists-sim-cards-and-prices)) und ist an das Gerät gebunden – für eine Neuinstallation ist ein Shopbesuch für einen neuen QR-Code erforderlich.
 
 
 
-**Besonderheit:** Die PrimeTel eSIM ist gerätegebunden. Wenn Sie während der Reise das Handy wechseln, müssen Sie erneut einen Shop aufsuchen, um einen neuen QR-Code zu erhalten – eine Reise-eSIM umgeht dieses Problem.
+**Besonderheit:** Das PrimeTel-Profil ist gerätegebunden. Wenn Sie während der Reise das Handy wechseln, müssen Sie erneut einen Shop aufsuchen, um einen neuen QR-Code zu erhalten – ein Reise-Profil umgeht dieses Problem.
 
 
 
@@ -280,7 +284,7 @@ Cablenet ist ein Kabelnetzbetreiber, der sich zu einem vollständigen Mobilfunkn
 
 
 
-## Ihre eSIM kaufen
+## Ihr Zypern-Profil kaufen
 
 
 
@@ -300,7 +304,7 @@ Cablenet ist ein Kabelnetzbetreiber, der sich zu einem vollständigen Mobilfunkn
 
 
 
-In der Republik müssen Prepaid-SIM-Karten auf einen Ausweis registriert werden — bringen Sie Ihren **Reisepass** mit. EU-Regeln bedeuten außerdem, dass Prepaid-Tarife von Epic und Cyta **Roam-like-Home** in der EU/EWR + UK zu Inlandspreisen enthalten (solange Sie die Leitung mehr zu Hause als im Ausland nutzen). Eine Zypern-eSIM von einem Reiseanbieter erspart den Schalter, ist aber nur für Datennutzung.
+In der Republik müssen Prepaid-SIM-Karten auf einen Ausweis registriert werden — bringen Sie Ihren **Reisepass** mit. EU-Regeln bedeuten außerdem, dass Prepaid-Tarife von Epic und Cyta **Roam-like-Home** in der EU/EWR + UK zu Inlandspreisen enthalten (solange Sie die Leitung mehr zu Hause als im Ausland nutzen). Ein Reise-Profil von einem Anbieter erspart den Schalter, ist aber nur für Datennutzung.
 
 
 
@@ -308,13 +312,13 @@ In der Republik müssen Prepaid-SIM-Karten auf einen Ausweis registriert werden 
 
 
 
-Das ist die einzigartige zypriotische Falle für jede Zypern-eSIM, und sie schlägt nahe der Pufferzone zu — am schärfsten in **Zentral-Nikosia**, wo die Linie durch die Stadt verläuft.
+Das ist die einzigartige zypriotische Falle für jedes Zypern-Profil, und sie schlägt nahe der Pufferzone zu — am schärfsten in **Zentral-Nikosia**, wo die Linie durch die Stadt verläuft.
 
 
 
 - Ihr Telefon sucht das stärkste Signal. Nahe der Linie kann es sich mit einem **nordtürkischen Netz** verbinden, selbst wenn Sie im Süden stehen.
 
-- In diesem Fall: Ihre südliche eSIM-Datenverbindung bricht ab (sie deckt die nördlichen Sendemasten nicht ab), **und** Ihre Heimatleitung kann, wenn Roaming aktiviert ist, türkisches Roaming berechnen.
+- In diesem Fall: Ihre südliche Datenverbindung bricht ab (sie deckt die nördlichen Sendemasten nicht ab), **und** Ihre Heimatleitung kann, wenn Roaming aktiviert ist, türkisches Roaming berechnen.
 
 - **Lösung:** Werfen Sie in der Nähe der Linie einen Blick auf den Netznamen. Wird ein türkischer Betreiber angezeigt, gehen Sie zu Einstellungen → Mobilfunk → Netzwahl, schalten Sie von automatisch auf manuell um und wählen Sie **Cyta, Epic oder PrimeTel**. Auch das Umschalten des Flugmodus erzwingt eine neue Suche.
 
@@ -328,7 +332,7 @@ Das ist die einzigartige zypriotische Falle für jede Zypern-eSIM, und sie schl�
 
 
 
-Wenn Sie doch nach Norden fahren, sparen Kenntnisse über die Übergänge Zeit — und erklären, warum Ihre eSIM in dem Moment ausfällt, in dem Sie passieren.
+Wenn Sie doch nach Norden fahren, sparen Kenntnisse über die Übergänge Zeit — und erklären, warum Ihre Datenleitung in dem Moment ausfällt, in dem Sie passieren.
 
 
 
@@ -352,7 +356,7 @@ Alle diese liegen in der Pufferzone der Republik, daher funktioniert Ihre südli
 
 
 
-| Region | Empfangsrealität | Bester eSIM-Netzbetreiber für Zypern | Worauf Sie achten sollten |
+| Region | Empfangsrealität | Bestes Netz für Zypern | Worauf Sie achten sollten |
 
 |:---|:---|:---|:---|
 
@@ -370,7 +374,7 @@ Alle diese liegen in der Pufferzone der Republik, daher funktioniert Ihre südli
 
 | Ruhige Straßen an der Westküste | 4G in den Städten, Lücken dazwischen | Cyta | Verlassen Sie sich nicht auf Empfang zwischen den Dörfern |
 
-| Norden (Kyrenia, Famagusta, Karpaz) | Separate türkische Netze | — | Südliche eSIM hat kein Signal |
+| Norden (Kyrenia, Famagusta, Karpaz) | Separate türkische Netze | — | Ein Süd-Profil hat dort kein Signal |
 
 
 
@@ -412,7 +416,7 @@ Für Zypern liegt kein veröffentlichter Speedtest Connectivity Report pro Netzb
 
 
 
-## Welcher Netzbetreiber passt zu Ihrer Reise?
+## Welches Zypern-Netz passt zu welcher Reise?
 
 
 
@@ -420,7 +424,7 @@ Für Zypern liegt kein veröffentlichter Speedtest Connectivity Report pro Netzb
 
 
 
-| Reiseart | Empfohlener Netzbetreiber | Begründung | Hinweis |
+| Reiseart in Zypern | Passendes Netz | Begründung | Hinweis |
 
 |:---|:---|:---|:---|
 
@@ -432,7 +436,7 @@ Für Zypern liegt kein veröffentlichter Speedtest Connectivity Report pro Netzb
 
 | Bundle mit Heim-Breitband | Kabelnetzbetreiber | Mobilfunk- + Kabel-TV/Internet-Angebote | Netzabdeckung am besten dort, wo das Kabel verläuft |
 
-| Tagesausflug in den Norden | Separate eSIM / WLAN | Südtarif endet an der Grenze | Verlassen Sie sich nicht auf eine Republic eSIM im Norden |
+| Tagesausflug in den Norden | Separates Profil / WLAN | Südtarif endet an der Grenze | Verlassen Sie sich im Norden nicht auf eine Süd-SIM |
 
 | EU/EWR Weiterreise | Epic- oder Cyta-Prepaid | Roam-like-home inklusive | Faire Nutzung bei längeren Reisen prüfen |
 
@@ -442,15 +446,15 @@ Für Zypern liegt kein veröffentlichter Speedtest Connectivity Report pro Netzb
 
 
 
-## APN manuell einrichten
+## APN in Zypern von Hand setzen – nur in diesen Fällen
 
 
 
-Nur erforderlich, wenn Sie eine **lokale SIM- oder eSIM direkt von einem zyprischen Netzbetreiber** gekauft haben. Reise-eSIMs legen ihren eigenen APN fest – bitte nicht ändern.
+Nur erforderlich, wenn Sie eine **lokale SIM- oder eSIM direkt von einem zyprischen Netzbetreiber** gekauft haben. Reise-Profile legen ihren eigenen APN fest – bitte nicht ändern.
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Zyprischer Netzbetreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -490,7 +494,7 @@ Gewöhnliche eSIM-Fehler haben nichts mit Zypern zu tun – ein Code, der sich n
 
 
 
-Installieren Sie sie bereits zu Hause und nicht erst in Larnaca oder Paphos, wo die Schalter nur eingeschränkte Öffnungszeiten haben und das WLAN bei der Ankunft schwach ist. Seien Sie dann ehrlich, was den Geltungsbereich betrifft: Eine Zypern-eSIM deckt nur die **Republik Zypern** ab. Planen Sie den Norden von Anfang an – entweder mit einer türkischen/regionalen eSIM oder mit der Entscheidung, in Kyrenia und Famagusta ausschließlich WLAN zu nutzen. Wenn Ihre Heimleitung aus der EU oder dem EWR stammt, deckt Roam-like-home möglicherweise bereits den Süden ab und Sie können die lokale SIM überspringen.
+Installieren Sie sie bereits zu Hause und nicht erst in Larnaca oder Paphos, wo die Schalter nur eingeschränkte Öffnungszeiten haben und das WLAN bei der Ankunft schwach ist. Seien Sie dann ehrlich, was den Geltungsbereich betrifft: Ein Zypern-Profil deckt nur die **Republik Zypern** ab. Planen Sie den Norden von Anfang an – entweder mit einer türkischen/regionalen Reise-SIM oder mit der Entscheidung, in Kyrenia und Famagusta ausschließlich WLAN zu nutzen. Wenn Ihre Heimleitung aus der EU oder dem EWR stammt, deckt Roam-like-home möglicherweise bereits den Süden ab und Sie können die lokale SIM überspringen.
 
 
 
@@ -502,7 +506,7 @@ Der typisch zypriotische Fehler. Ein Mobiltelefon bevorzugt den stärksten Sende
 
 
 
-### APN-Werte für Cyta Epic Zypern und PrimeTel
+### APN-Werte für Cyta, Epic und PrimeTel in Zypern
 
 
 
@@ -522,7 +526,7 @@ Die EU-Regeln zur angemessenen Nutzung erlauben es Cyta und Epic bei Prepaid-Lei
 
 
 
-PrimeTel-eSIMs sind an das Gerät gebunden, auf dem sie installiert wurden. Wechseln Sie während der Reise das Mobiltelefon, benötigen Sie einen neuen QR-Code aus einem Shop – eine Neuinstallation aus der Ferne ist nicht möglich. Eine Reise-eSIM lässt sich über ihr eigenes Portal neu installieren, weshalb sie sich für alle eignet, die ihr Gerät wahrscheinlich wechseln.
+PrimeTel-Profile sind an das Gerät gebunden, auf dem sie installiert wurden. Wechseln Sie während der Reise das Mobiltelefon, benötigen Sie einen neuen QR-Code aus einem Shop – eine Neuinstallation aus der Ferne ist nicht möglich. Ein Reise-Profil lässt sich über sein eigenes Portal neu installieren, weshalb es sich für alle eignet, die ihr Gerät wahrscheinlich wechseln.
 
 
 
@@ -588,7 +592,7 @@ Cyta hat die größte Netzabdeckung, besonders in das Troodos-Gebirge und ländl
 
 
 
-Nein. Der türkisch verwaltete Norden läuft auf Turkcell KKTC und Telsim Vodafone — separate Netze, die eine eSIM der Republik nicht enthält. Nutzen Sie dort WLAN oder eine separate eSIM, und schalten Sie das Roaming der Heimleitung nahe der Grünen Linie aus.
+Nein. Der türkisch verwaltete Norden läuft auf Turkcell KKTC und Telsim Vodafone — separate Netze, die ein Profil der Republik nicht enthält. Nutzen Sie dort WLAN oder eine separate eSIM, und schalten Sie das Roaming der Heimleitung nahe der Grünen Linie aus.
 
 
 
@@ -596,7 +600,7 @@ Nein. Der türkisch verwaltete Norden läuft auf Turkcell KKTC und Telsim Vodafo
 
 
 
-Ja, für eine lokale Prepaid-SIM — die Registrierung auf einen Ausweis ist erforderlich (EU-Gesetz). Eine Reise-eSIM benötigt am Verkaufspunkt keinen Pass.
+Ja, für eine lokale Prepaid-SIM — die Registrierung auf einen Ausweis ist erforderlich (EU-Gesetz). Ein Reise-Profil benötigt am Verkaufspunkt keinen Pass.
 
 
 
@@ -636,7 +640,7 @@ In der Regel ja — Zypern liegt in der EU, sodass Roam-like-Home Ihnen Inlandst
 
 
 
-Ja – behalten Sie Ihre Heimleitung für Anrufe/SMS, nutzen Sie die eSIM für Daten, und schalten Sie Datenroaming auf der Heimleitung aus, um jegliche Kosten in der Grenzzone zu vermeiden.
+Ja – im Dual-SIM-Betrieb behalten Sie Ihre Heimleitung für Anrufe und SMS, nutzen die eSIM für Daten, und schalten Sie Datenroaming auf der Heimleitung aus, um jegliche Kosten in der Grenzzone zu vermeiden.
 
 
 

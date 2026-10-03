@@ -1,8 +1,7 @@
 ---
 
-title: "Vietnam eSIM-Netzbetreiber: Viettel, Vinaphone, Mobifone"
-
-description: "Vietnams 1.600 km entscheiden über Ihre Netzabdeckung. Roami vergleicht Viettel, Vinaphone und Mobifone, damit Ihre eSIM von Sapa bis zum Mekong Empfang hat."
+title: "Vietnam eSIM: Viettel, Vinaphone oder Mobifone wählen"
+description: "Vietnam eSIM im Vergleich: Viettel, Vinaphone und Mobifone nach Tempo, Abdeckung von Sapa bis zum Mekong und Passregeln."
 image: "img/esim/carriers/vietnam-esim-carrier-guide.jpg"
 
 date: "2026-09-23T22:18:00+00:00"
@@ -38,7 +37,7 @@ Eine Vietnam eSIM sollte dem Verlauf Ihrer Reiseroute folgen — 1.600 km von No
 
 
 
-**Schnelle Antwort:** Viettel ist das Netz, das die meisten Besucher in Vietnam zuerst in die engere Auswahl nehmen sollten; Vinaphone ist die preisgünstige Alternative, gegen die man es vergleichen sollte. Wenn Sie lieber testen als lesen möchten, ist Roami's [Test-eSIM](/free-esim/) der kostenlose Weg, in Vietnam zu starten.
+**Schnelle Antwort:** Viettel ist das Netz, das die meisten Besucher in Vietnam zuerst in die engere Auswahl nehmen sollten; Vinaphone ist die preisgünstige Alternative, gegen die man es vergleichen sollte. Wenn Sie lieber testen als lesen möchten, ist Roamis Test-eSIM der kostenlose Weg, in Vietnam zu starten.
 
 
 
@@ -46,7 +45,7 @@ Wenn Sie noch nie ein Profil installiert haben – oder Ihr Telefon möglicherwe
 
 
 
-**Die 30-Sekunden-Version:** Reisen Sie die gesamte Länge des Landes ab, einschließlich Berge, Inseln oder des Mekong-Deltas? Viettel — es gewinnt in nahezu jeder Provinz in den Ookla-Daten, einschließlich der abgelegenen Provinzen Lào Cai (Sapa), Hà Giang und Cà Mau. Bleiben Sie in Hanoi, Da Nang oder Ho-Chi-Minh-Stadt mit einem 5G-Telefon? Vinaphone bietet Ihnen das schnellste 5G in Vietnam, wo es ausgebaut ist. Strandlastige Zentral-Vietnam (Hue, Da Nang, Nha Trang)? Wieder Viettel — das sind die schnellsten Städte des Landes. Der Direktkauf bei einem Netzbetreiber ist für Touristen möglich: Viettel verkauft eine passregistrierte Touristen-eSIM ab 60.000 VND (ca. 2,40 USD) an Flughafenschaltern. Oder überspringen Sie das Passkopieren ganz: Die [kostenlose eSIM-Testversion](/free-esim/) funktioniert sofort nach der Landung, und [Vietnam eSIM-Tarife](/vietnam-esim/) werden per QR-Code in wenigen Minuten geliefert.
+**Die 30-Sekunden-Version:** Reisen Sie die gesamte Länge des Landes ab, einschließlich Berge, Inseln oder des Mekong-Deltas? Viettel — es gewinnt in nahezu jeder Provinz in den Ookla-Daten, einschließlich der abgelegenen Provinzen Lào Cai (Sapa), Hà Giang und Cà Mau. Bleiben Sie in Hanoi, Da Nang oder Ho-Chi-Minh-Stadt mit einem 5G-Telefon? Vinaphone bietet Ihnen das schnellste 5G in Vietnam, wo es ausgebaut ist. Strandlastige Zentral-Vietnam (Hue, Da Nang, Nha Trang)? Wieder Viettel — das sind die schnellsten Städte des Landes. Der Direktkauf bei einem Netzbetreiber ist für Touristen möglich: Viettel verkauft eine passregistrierte Touristen-eSIM ab 60.000 VND (ca. 2,40 USD) an Flughafenschaltern. Oder überspringen Sie das Passkopieren ganz: Die kostenlose eSIM-Testversion funktioniert sofort nach der Landung, und [Vietnam eSIM-Tarife](/vietnam-esim/) werden per QR-Code in wenigen Minuten geliefert.
 
 
 
@@ -68,17 +67,17 @@ Vietnams Mobilfunkmarkt ist ein Drei-Spieler-System in Staatsbesitz und eines de
 
 | Median 5G-Download | 421,61 Mbps | **594,16 Mbps** | 306,5 Mbps |
 
-| eSIM für Besucher | Yes — Touristen-eSIM an Flughäfen und in Geschäften, Reisepassregistrierung | Yes — Touristen-eSIM über Netzbetreiber und Wiederverkäufer, Reisepassregistrierung | Yes — eSIM direkt verkauft, Reisepassregistrierung erforderlich |
+| eSIM für Besucher | Ja — Touristen-eSIM an Flughäfen und in Geschäften, Reisepassregistrierung | Ja — Touristen-eSIM über Netzbetreiber und Wiederverkäufer, Reisepassregistrierung | Ja — eSIM direkt verkauft, Reisepassregistrierung erforderlich |
 
 | Am besten für | Die komplette Nord–Süd-Route, Berge, ländliche Gebiete | Geschwindigkeit in Großstädten mit einem 5G-Smartphone | Städtereisen und Video-Streaming |
 
 
 
-Die praktische Asymmetrie: Viettel gewinnt nahezu überall, aber das 5G von Vinaphone ist schneller, wo Vinaphone es ausgebaut hat. Eine Reise-eSIM, die zwischen Netzen wechseln kann, vereint beide Vorteile – und auf der [Seite mit den eSIM-Tarifen für Vietnam](/vietnam-esim/) wird erklärt, wie die automatische Netzwahl funktioniert.
+Die praktische Asymmetrie: Viettel gewinnt nahezu überall, aber das 5G von Vinaphone ist schneller, wo Vinaphone es ausgebaut hat. Eine Reise-eSIM, die zwischen Netzen wechseln kann, vereint beide Vorteile – wie die automatische Netzwahl funktioniert, steht auf der Seite mit den eSIM-Tarifen für Vietnam.
 
 
 
-## Gerätekompatibilitätsprüfung
+## Handy-Check für vietnamesische Netze: Bänder, Sperre und EID
 
 
 
@@ -102,7 +101,7 @@ Viettel ist der staatliche Verteidigungsbetreiber, und sein Vorteil liegt eher i
 
 - **Was schiefläuft:** Selbst das stärkste Netz liefert im Reise-Tarifbereich das schwächste 5G-Erlebnis – 50,4 % 5G-Verfügbarkeit bedeutet, dass Sie ungefähr die Hälfte Ihrer Zeit bei Viettel im 4G verbringen, was in Vietnam zwar wirklich schnell ist, aber nicht das, was die Werbung verspricht.
 
-- **Szenario:** die Hà-Giang-Schleife. Die Provinz Hà Giang erreichte 85,88 Mbps, wobei Viettel der schnellste Anbieter war, was die Städte und die wichtigsten Aussichtspunkte der Schleife abdeckt. Auf den extremen Pässen zwischen Đồng Văn und Mèo Vạc verschwinden die Balken; laden Sie also Offline-Karten herunter, bevor Sie Hà Giang-Stadt verlassen.
+- **Szenario:** Nordvietnam ab Hanoi. Die Provinz Lào Cai mit Sapa erreichte 85,92 Mbps, Hà Giang 85,88 Mbps, jeweils mit Viettel als schnellstem Anbieter – Städte, Aussichtspunkte und Busstrecken sind damit versorgt. Randnotiz für Selbstfahrer: Auf den Pässen zwischen Đồng Văn und Mèo Vạc verschwinden die Balken, laden Sie Offline-Karten deshalb schon vor der Abfahrt.
 
 
 
@@ -136,7 +135,7 @@ Mobifone ist der dritte Betreiber und der letzte, der 5G einführte; der kommerz
 
 - **Gemessene Position:** bestes mobiles Videoerlebnis in Vietnam mit einem Video-Streaming-Score von 74,46, plus ein medianer 5G-Download von 306,5 Mbps und ein Median über alle Technologien von 68,45 Mbps.
 
-- **Wo er gewinnt:** Streaming. Wenn Sie abends in hotels ohne WLAN Videos schauen, ist der Video-Score von Mobifone der höchste der drei, und Da Nang – 354,94 Mbps in der Städtetabelle von Ookla und das stärkste Strandstädte-Netz des Landes – bietet ihm dort die größten Reserven.
+- **Wo er gewinnt:** Streaming. Wenn Sie abends in Hotels ohne WLAN Videos schauen, ist der Video-Score von Mobifone der höchste der drei, und Da Nang – 354,94 Mbps in der Städtetabelle von Ookla und das stärkste Strandstadt-Netz des Landes – hat dort die größten Reserven.
 
 - **Wo er verliert:** alles außerhalb der Städte. Als kleinster der drei Betreiber hat er die geringste ländliche Fallback-Abdeckung, sodass das Mekong-Delta, der hohe Norden und die Inseln das Terrain von Viettel sind.
 
@@ -252,7 +251,7 @@ Viettel hat den touristenfreundlichsten eSIM-Weg der drei. Offizielle rot-weiße
 
 
 
-Die Registrierung läuft auf eine von zwei Arten ab: Das Schalterpersonal fotokopiert Ihren Reisepass und meldet die Leitung für Sie an (5–15 Minuten), oder Sie führen die Selbstregistrierung durch, indem Sie den QR-Code auf der SIM-Verpackung scannen, Ihren Reisepass fotografieren und ein Live-Selfie aufnehmen, anschließend den digitalen Vertrag elektronisch unterschreiben. Viettel touristische eSIMs werden mit einer echten Vietnamesischen Telefonnummer geliefert, sodass Sie SMS-Bestätigungscodes empfangen können – äußerst nützlich, da Grab, Essenslieferdienste und viele Hotelbuchungen in Vietnam telefonnummernbasiert ablaufen.
+Die Registrierung läuft auf eine von zwei Arten ab: Das Schalterpersonal fotokopiert Ihren Reisepass und meldet die Leitung für Sie an (5–15 Minuten), oder Sie führen die Selbstregistrierung durch, indem Sie den QR-Code auf der SIM-Verpackung scannen, Ihren Reisepass fotografieren und ein Live-Selfie aufnehmen, anschließend den digitalen Vertrag elektronisch unterschreiben. Viettel-Touristen-eSIMs werden mit einer echten vietnamesischen Telefonnummer ausgeliefert, sodass Sie SMS-Bestätigungscodes empfangen können – äußerst nützlich, da Grab, Essenslieferdienste und viele Hotelbuchungen in Vietnam telefonnummernbasiert ablaufen.
 
 
 
@@ -282,11 +281,11 @@ Planen Sie 5–15 Minuten ein, wenn die Schlange kurz ist, und deutlich mehr Zei
 
 
 
-### Ist mein Telefon in Vietnam eSIM-kompatibel?
+### Was kosten die Touristen-SIMs von Vinaphone und Mobifone?
 
 
 
-Vinaphone verkauft touristische SIMs und eSIMs über seine Flughafenschalter und autorisierten Wiederverkäufer, in der Regel ab etwa 200.000 VND für mehrwöchige Pakete mit täglichen Datenvolumen sowie On-Network-Telefonie. Die touristischen Produkte von Mobifone („Happy Tourist"-Tarife) liegen in einem ähnlichen Bereich, ungefähr 220.000–280.000 VND für 30 Tage. Alle drei Netzbetreiber verkaufen eSIMs inzwischen über ihre Websites und Apps, jedoch werden internationale Reisende weiterhin durch die Identitätsprüfung geleitet – einige Online-Käufe erfordern den Abschluss der Verifizierung in einer Filiale oder einem Kiosk nach der Ankunft.
+Vinaphone verkauft touristische SIMs und eSIMs über seine Flughafenschalter und autorisierten Wiederverkäufer, in der Regel ab etwa 200.000 VND für mehrwöchige Pakete mit täglichem Datenvolumen sowie On-Network-Telefonie. Die touristischen Produkte von Mobifone („Happy Tourist"-Tarife) liegen in einem ähnlichen Bereich, ungefähr 220.000–280.000 VND für 30 Tage. Alle drei Netzbetreiber verkaufen eSIMs inzwischen über ihre Websites und Apps, jedoch werden internationale Reisende weiterhin durch die Identitätsprüfung geleitet – einige Online-Käufe erfordern den Abschluss der Verifizierung in einer Filiale oder einem Kiosk nach der Ankunft.
 
 
 
@@ -298,7 +297,7 @@ Die Wiederverkäuferebene – Flughafenkioske, Telefonläden in der Stadt, Rezep
 
 
 
-Die Vorschrift ist leicht zu formulieren und leicht zu unterschätzen. Three Dinge ergeben sich daraus, die eine gewöhnliche zweiwöchige Reise betreffen:
+Die Vorschrift ist leicht zu formulieren und leicht zu unterschätzen. Drei Dinge ergeben sich daraus, die eine gewöhnliche zweiwöchige Reise betreffen:
 
 
 
@@ -324,11 +323,11 @@ Eine reine Daten-Reise-eSIM umgeht die gesamte lokale Registrierungskette, was e
 
 - Kein 24–48-Stunden-Deaktivierungsrisiko durch eine unvollständige Registrierung.
 
-- Nichts aufzuladen und keine Vietnamesische Telefonnummer zu pflegen.
+- Nichts aufzuladen und keine vietnamesische Telefonnummer zu pflegen.
 
 
 
-Was sie Ihnen nicht bietet, ist eine Vietnamesische Nummer, was genau für zwei Dinge relevant ist: SMS-Verifizierung bei einigen lokalen Banking- und Zalo-Abläufen sowie das Entgegennehmen von Anrufen von Hotels und Fahrern. Lassen Sie Ihre Heim-SIM für SMS aktiv und nutzen Sie die eSIM für Daten – die Einrichtung wird unten beschrieben.
+Was sie Ihnen nicht bietet, ist eine vietnamesische Nummer, was genau für zwei Dinge relevant ist: SMS-Verifizierung bei einigen lokalen Banking- und Zalo-Abläufen sowie das Entgegennehmen von Anrufen von Hotels und Fahrern. Lassen Sie Ihre Heim-SIM für SMS aktiv und nutzen Sie die eSIM für Daten – die Einrichtung wird unten beschrieben.
 
 
 
@@ -342,7 +341,7 @@ Was sie Ihnen nicht bietet, ist eine Vietnamesische Nummer, was genau für zwei 
 
 | Was Sie benötigen | Physischer Reisepass, Verifizierung persönlich oder per Selfie | Ein kompatibles, entsperrtes Telefon |
 
-| Was Sie erhalten | Vietnamesische Telefonnummer, Anrufe und SMS, günstige mobile Daten | Nur Datentarif, sofort per QR-Code geliefert |
+| Was Sie erhalten | vietnamesische Telefonnummer, Anrufe und SMS, günstige mobile Daten | Nur Datentarif, sofort per QR-Code geliefert |
 
 | Typische Kosten | 60.000–150.000 VND für touristische Tarife | Vergleichbarer Preis pro GB für Kurzreisen; auf dem Papier teurer pro GB, dafür schneller erhältlich |
 
@@ -350,7 +349,7 @@ Was sie Ihnen nicht bietet, ist eine Vietnamesische Nummer, was genau für zwei 
 
 
 
-Cable.co.uk's globale Umfrage preist die Vietnamesischen mobilen Daten mit etwa **0,29 USD pro Gigabyte** — am 21. günstigsten von 237 Märkten, verglichen mit einem Weltdurchschnitt von 2,59 USD — daher sind lokale Tarife nach westlichen Maßstäben erstaunlich günstig. Der direkte Weg über den Netzbetreiber kostet Sie lediglich die Herausgabe Ihres Reisepasses und möglicherweise eine Warteschlange, kein Geld. Eine Reise-eSIM kostet pro Gigabyte etwas mehr und erspart Ihnen den Papierkram; für die meisten ein- bis zweiwöchigen Aufenthalte lohnt sich dieser Kompromiss. One Planungshinweis: Wenn Vietnam eine Etappe einer größeren Reise ist, decken der [Thailand eSIM-Guide](/carriers/thailand-esim-carrier-guide/), der [Kambodscha eSIM-Guide](/carriers/cambodia-esim-carrier-guide/) und der [China eSIM-Guide](/carriers/china-esim-carrier-guide/) die benachbarten Netze ab, und ein regionales Profil erspart die Installation einer neuen eSIM an jeder Grenze.
+Cable.co.uk's globale Umfrage preist die vietnamesischen mobilen Daten mit etwa **0,29 USD pro Gigabyte** — am 21. günstigsten von 237 Märkten, verglichen mit einem Weltdurchschnitt von 2,59 USD — daher sind lokale Tarife nach westlichen Maßstäben erstaunlich günstig. Der direkte Weg über den Netzbetreiber kostet Sie lediglich die Herausgabe Ihres Reisepasses und möglicherweise eine Warteschlange, kein Geld. Eine Reise-eSIM kostet pro Gigabyte etwas mehr und erspart Ihnen den Papierkram; für die meisten ein- bis zweiwöchigen Aufenthalte lohnt sich dieser Kompromiss. Ein Planungshinweis: Wenn Vietnam eine Etappe einer größeren Reise ist, deckt eine regionale [Asien-eSIM](/asia-esim/) die Nachbarnetze gleich mit ab, sodass an jeder Grenze kein neues Profil nötig wird; Chinas Netze behandelt die [China-eSIM-Seite](/china-esim/).
 
 
 
@@ -368,29 +367,29 @@ Die Wahl des Netzbetreibers in Vietnam ist eine Reiserouten-Entscheidung, keine 
 
 | Hanoi nach Ho-Chi-Minh-Stadt auf dem Landweg, 10–15 Tage | Viettel | In 59 von 63 Regionen am schnellsten; 97,4 % Konsistenz, die höchste im Land | Selbst auf Viettel sind Sie nur etwa die Hälfte der Zeit mit 5G unterwegs – den Rest über 4G |
 
-| Städtetrip nach Hanoi oder Ho Chi Minh City mit einem 5G-Handy | Vinaphone | Mittlerer 5G-Download von 594,16 Mbps, das schnellste 5G in Viietnam | Sobald Sie das 5G-Netz verlassen, beträgt der mediane Download aller Technologien weniger als die Hälfte von Viettel |
+| Städtetrip nach Hanoi oder Ho Chi Minh City mit einem 5G-Handy | Vinaphone | Mittlerer 5G-Download von 594,16 Mbps, das schnellste 5G in Vietnam | Sobald Sie das 5G-Netz verlassen, beträgt der mediane Download aller Technologien weniger als die Hälfte von Viettel |
 
-| Aufenthalt an der Küste der Zentralküste — Đà Nẵng, Hội An, Nha Trang | Viettel | Three der schnellsten Städte in Ookla's Tabelle liegen an dieser Küste | Taifune zwischen Mitte September und Mitte November schließen Flughäfen und unterbrechen die Stromversorgung |
+| Aufenthalt an der Küste der Zentralküste — Đà Nẵng, Hội An, Nha Trang | Viettel | Drei der schnellsten Städte in Ooklas Tabelle liegen an dieser Küste | Taifune zwischen Mitte September und Mitte November schließen Flughäfen und unterbrechen die Stromversorgung |
 
-| Ganz im Norden — Hà-Giang-Schleife, Sapa, Lào Cai | Viettel | Schnellster Netzbetreiber in den Regionen Hà Giang und Lào Cai | Lange Funklöcher auf den extremen Pässen; der Netzbetreiber kann keinen Berg versetzen |
+| Nordvietnam — Sapa und Lào Cai, für Bergfans auch Hà Giang | Viettel | Schnellster Netzbetreiber in den Regionen Lào Cai (85,92 Mbps) und Hà Giang (85,88 Mbps) | Auf den extremen Pässen reißen die Balken ab; der Netzbetreiber kann keinen Berg versetzen |
 
-| Mekong-Delta und die südlichen Inseln — Phú Quốc, Côn Đảo | 0 | Schnellstes Netz in den Regionen Kiên Giang und An Giang, mit 96,6 % Konsistenz in An Giang | In der Provinz ragen die Strände besonders schön heraus; Ankerplätze und kleine Inseln sind rarer gesät |
+| Mekong-Delta und die südlichen Inseln — Phú Quốc, Côn Đảo | Viettel | Schnellstes Netz in den Regionen Kiên Giang und An Giang, mit 96,6 % Konsistenz in An Giang | Die Provinz ist für ihre Strände bekannt, doch Ankerplätze und kleine Inseln sind dünner versorgt |
 
 | Streaming, Downloads, Hotels mit langsamem WLAN | Mobifone | Bester Video-Streaming-Wert in Vietnam mit 74,46 | Kleinster ländlicher Versorgungsbereich der drei Netzbetreiber |
 
-| Längerer Aufenthalt oder Workation | Eine lokale Viettel-SIM-Karte plus eine Reise-eSIM für die ersten Tage | Eine Vietnamesische Nummer deckt Grab, Lieferungen und SMS-Verifizierung ab | Für die lokale Registrierung benötigen Sie Ihren Reisepass; eine reine Daten-eSIM kann keine SMS empfangen |
+| Längerer Aufenthalt oder Workation | Eine lokale Viettel-SIM-Karte plus eine Reise-eSIM für die ersten Tage | Eine vietnamesische Nummer deckt Grab, Lieferungen und SMS-Verifizierung ab | Für die lokale Registrierung benötigen Sie Ihren Reisepass; eine reine Daten-eSIM kann keine SMS empfangen |
 
-| Grenzüberschreitende Reiseroute durch Südostasien | Ein regionaler oder Mehrländer-Tarif | Ein Viietnam-Profil funktioniert an der Grenze nicht mehr | Ihr E-Visum muss Mehrfacheinreise erlauben, wenn Sie zurückkommen |
+| Grenzüberschreitende Reiseroute durch Südostasien | Ein regionaler oder Mehrländer-Tarif | Ein Vietnam-Profil funktioniert an der Grenze nicht mehr | Ihr E-Visum muss Mehrfacheinreise erlauben, wenn Sie zurückkommen |
 
 | Budget-Reisender | Vinaphone Reseller-Pakete oder Mobifone Happy Tourist | Mehrtägige Touristentarife ab ca. 200.000 VND, unter den Viettel Flughafentarifen | Billige Leitungen von nicht registrierten Verkäufern werden innerhalb von 48 Stunden gekappt |
 
 
 
-## Funktioniert Ihr Handy in einem Vietnamesischen Netz?
+## Funktioniert Ihr Handy in einem vietnamesischen Netz?
 
 
 
-Die Vietnamesischen 4G-Netze nutzen die LTE-Bänder 1, 3, 5, 7, 8, 28, 40 und 41; bei 5G liegt der Schwerpunkt auf n78 (3,5 GHz), wobei auch n28 (700 MHz) und n41 (2,6 GHz) zum Einsatz kommen. Jedes in den letzten fünf Jahren verkaufte Standard-Smartphone – iPhone XS und neuer, Pixel 3 und neuer, Samsung Galaxy S20 und neuer – unterstützt diese Bänder. Worauf Sie achten sollten, sind nicht die Bänder, sondern zwei einfachere Dinge:
+Die vietnamesischen 4G-Netze nutzen die LTE-Bänder 1, 3, 5, 7, 8, 28, 40 und 41; bei 5G liegt der Schwerpunkt auf n78 (3,5 GHz), wobei auch n28 (700 MHz) und n41 (2,6 GHz) zum Einsatz kommen. Jedes in den letzten fünf Jahren verkaufte Standard-Smartphone – iPhone XS und neuer, Pixel 3 und neuer, Samsung Galaxy S20 und neuer – unterstützt diese Bänder. Worauf Sie achten sollten, sind nicht die Bänder, sondern zwei einfachere Dinge:
 
 
 
@@ -404,15 +403,15 @@ Vietnams Netzbetreiber haben 2G und 3G abgeschaltet, daher laufen Sprachanrufe �
 
 
 
-## APN einrichten
+## APN für Viettel, Vinaphone und Mobifone richtig setzen
 
 
 
-Wenn Sie direkt bei einem Netzbetreiber kaufen und trotz voller Signalstärke keine Daten fließen, schafft ein manueller APN Abhilfe. Dies sind die in den Vietnamesischen Netzen verwendeten Einstellungen:
+Wenn Sie direkt bei einem Netzbetreiber kaufen und trotz voller Signalstärke keine Daten fließen, schafft ein manueller APN Abhilfe. Dies sind die in den vietnamesischen Netzen verwendeten Einstellungen:
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber in Vietnam | Zugangspunkt (APN) | Benutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -436,7 +435,7 @@ Wenn Sie eine Reise-eSIM nutzen, ändern Sie hier nichts: Das Profil bringt sein
 
 
 
-Installieren Sie das Profil **vor dem Abflug**. WLAN am Flughafen in Hanoi und Ho Chi Minh City funktioniert zwar, aber Sie möchten sich nicht mit einem QR-Code herumschlagen, während im Ankunftsbereich alle das Gleiche tun. Die vollständige Installationsreihenfolge — QR-Code scannen, Leitung beschriften, als Datenleitung festlegen, Datenroaming aktivieren — finden Sie im [eSIM-Setup-Guide](/faq/how-to-activate-an-esim/). Three Vietnam-spezifische Hinweise:
+Installieren Sie das Profil **vor dem Abflug**. WLAN am Flughafen in Hanoi und Ho Chi Minh City funktioniert zwar, aber Sie möchten sich nicht mit einem QR-Code herumschlagen, während im Ankunftsbereich alle das Gleiche tun. Die vollständige Installationsreihenfolge — QR-Code scannen, Leitung beschriften, als Datenleitung festlegen, Datenroaming aktivieren — finden Sie im [eSIM-Setup-Guide](/faq/how-to-activate-an-esim/). Drei Vietnam-spezifische Hinweise:
 
 
 
@@ -456,9 +455,9 @@ Installieren Sie das Profil **vor dem Abflug**. WLAN am Flughafen in Hanoi und H
 
 |:---|:---|:---|
 
-| 1 | Telefon ist nicht an einen Netzbetreiber gebunden | Die Netzbetreiber-Sperre in Einstellungen -> Allgemein -> Info zeigt „Keine SIM-Beschränkungen" |
+| 1 | Telefon ist nicht an einen Netzbetreiber gebunden | Die Netzbetreiber-Sperre in Einstellungen → Allgemein → Info zeigt „Keine SIM-Beschränkungen" |
 
-| 2 | Das Telefon ist eSIM-fähig | `*#06#` eine EID zurückgibt, oder der [Checker](/compatibility/) Ihr Modell bestätigt |
+| 2 | Das Telefon ist eSIM-fähig | `*#06#` gibt eine EID zurück, oder eine Prüfung bestätigt Ihr Modell |
 
 | 3 | QR-Code und Aktivierungscode zweimal gespeichert | Ein Screenshot auf dem Handy und eine Kopie im Cloud-Speicher |
 
@@ -474,7 +473,7 @@ Installieren Sie das Profil **vor dem Abflug**. WLAN am Flughafen in Hanoi und H
 
 
 
-- **Viettel** — eine eSIM mit QR-Code von einem Schalter oder Laden am Flughafen oder über den Self-Registration-Flow; die Rufnummer ist eine Vietnamesische Nummer.
+- **Viettel** — eine eSIM mit QR-Code von einem Schalter oder Laden am Flughafen oder über den Self-Registration-Flow; die Rufnummer ist eine vietnamesische Nummer.
 
 - **Vinaphone** — QR-Code oder eSIM über Flughafenschalter, autorisierte Wiederverkäufer und die VNPT-App; bestätigen Sie beim Verkäufer, dass die Registrierung eingereicht wurde, oder rechnen Sie mit einer Sperrung innerhalb von 48 Stunden.
 
@@ -556,15 +555,15 @@ Alle weiteren Fälle finden Sie im [eSIM-Problemlösungs-Leitfaden](/faq/esim-ac
 
 | EID | `*#06#` |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Handy-Modell und iOS-/Android-Version | Einstellungen → Allgemein → Info (iPhone) bzw. Einstellungen → Über das Telefon (Android) |
 
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Noch im Fehlerdialog aufnehmen – Viettel verlangt ihn im Chat zuerst |
 
-| Aktuelle APN-Werte | Einstellungen → Mobiles Datennetz |
+| Eingetragener APN auf der Vietnam-Leitung | Einstellungen → Mobilfunk → Vietnam-Daten → Mobiles Datennetz |
 
-| Datenroaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
+| Ist Datenroaming auf der Vietnam-Leitung aktiv? | Einstellungen → Mobilfunk → Vietnam-Daten → Datenroaming |
 
-| Bereits durchgeführte Schritte | Führen Sie eine kurze schriftliche Liste |
+| Bereits versuchte Schritte | Kurze Stichliste mit Uhrzeit – spart die erste Rückfrage im vietnamesischen Support |
 
 
 
@@ -590,7 +589,7 @@ Die Netzleistung in Vietnam folgt der Küstenlinie – und die regionalen Daten 
 
 | Hanoi | 119,52 Mbps | Zuverlässig in der gesamten Stadt; die engen Gassen der Altstadt sorgen für lokale Überlastungen, nicht für Funklöcher. |
 
-| Hue (Thừa Thiên Huế) | **613,79 Mbit/s** | Die schnellste Stadt in Vietnam in Ookla's Daten. |
+| Hue (Thừa Thiên Huế) | **613,79 Mbit/s** | Die schnellste Stadt in Vietnam in Ooklas Daten. |
 
 | Da Nang | 354,94 Mbps | Schnell und konstant – das stärkste Netz einer Strandstadt im ganzen Land, einschließlich der Anfahrt über den Hai-Van-Pass. |
 
@@ -600,7 +599,7 @@ Die Netzleistung in Vietnam folgt der Küstenlinie – und die regionalen Daten 
 
 | Da Lat | 536,58 Mbps | Vietnams zweitschnellste Stadt — besser, als die meisten Besucher erwarten. |
 
-| Ho-Chi-Minh-Stadt | 117,89 Mbps | Die langsamste der Vietnams großen Städte in Ookla's Daten — dichte Nachfrage, aber weiterhin voll nutzbar. |
+| Ho-Chi-Minh-Stadt | 117,89 Mbps | Die langsamste der Vietnams großen Städte in Ooklas Daten — dichte Nachfrage, aber weiterhin voll nutzbar. |
 
 | Can Tho / Mekong-Delta | 149,43 Mbps | Gut in den Provinzhauptstädten; die äußeren Flussarme und schwimmenden Märkte sind auf Viettel angewiesen. |
 
@@ -616,7 +615,7 @@ Zwei Erkenntnisse aus dieser Tabelle. Erstens: Viettel war in neun der zehn geme
 
 
 
-One Lesehinweis: Die Stadteinträge in dieser Tabelle (Hue, Da Nang, Nha Trang, Da Lat, Hanoi, Ho-Chi-Minh-Stadt) sind Messungen in Ookla's bevölkerungsreichsten Städten, während die Provinzzeilen (Lào Cai, Hà Giang, Quảng Ninh, Ninh Bình, Kiên Giang, An Giang, Bà Rịa–Vũng Tàu) Werte auf Regionsebene darstellen. Eine Provinz-Zahl mittelt ihre Hauptstadt, ihre Autobahnen und ihre leere Küste; betrachten Sie die Insel- und Delta-Zeilen daher als „was die gesamte Provinz gemessen hat", nicht als Versprechen für einen bestimmten Strand.
+Ein Lesehinweis: Die Stadteinträge in dieser Tabelle (Hue, Da Nang, Nha Trang, Da Lat, Hanoi, Ho-Chi-Minh-Stadt) sind Messungen in Ooklas bevölkerungsreichsten Städten, während die Provinzzeilen (Lào Cai, Hà Giang, Quảng Ninh, Ninh Bình, Kiên Giang, An Giang, Bà Rịa–Vũng Tàu) Werte auf Regionsebene darstellen. Eine Provinz-Zahl mittelt ihre Hauptstadt, ihre Autobahnen und ihre leere Küste; betrachten Sie die Insel- und Delta-Zeilen daher als „was die gesamte Provinz gemessen hat", nicht als Versprechen für einen bestimmten Strand.
 
 
 
@@ -690,9 +689,9 @@ Vietnam läuft über eine Handvoll Apps, und jede davon benötigt genau in dem M
 
 | Ein ruhigeres Auto zum Festpreis | Xanh SM (auch als Green SM gelistet) | Vingroup's reine Elektroflotte, eingeführt im Jahr 2023, ist mittlerweile in allen 34 Provinzen und Städten im Einsatz – mit festem Taxameter und ohne dynamische Preisanpassung |
 
-| Ein günstigerer lokaler Konkurrent | Seien Sie | Vi Vietnamesisch unterwegs und am besten, sobald Sie eine lokale Nummer haben; nützlich als Fahrpreisvergleich in den Großstädten |
+| Ein günstigerer lokaler Konkurrent | Be | In Vietnam verbreitet und am günstigsten, sobald Sie eine lokale Nummer haben; nützlich als Fahrpreisvergleich in den Großstädten |
 
-| Ein Taxifallback nach Taxameter | die Apps Mai Linh und Vinasun | fordern Sie die echte Flotte an und nehmen Sie keine spontane Anwerbung auf der Straße an |
+| Ein Taxifallback nach Taxameter | Mai Linh und Vinasun | Fordern Sie über die App die echte Flotte an und steigen Sie nicht zu spontan angeworbenen Fahrern ein |
 
 | Essen und Lebensmittel | GrabFood und ShopeeFood | Die Barzahlung bei GrabFood ist die einfachste Option für eine ausländische Karte; die Verfügbarkeit von ShopeeFood kann je nach Region Ihres App-Stores variieren |
 
@@ -704,7 +703,7 @@ Vietnam läuft über eine Handvoll Apps, und jede davon benötigt genau in dem M
 
 
 
-Zwei praktische Hinweise. Erstens: Gojek hat Vietnam 2024 verlassen, daher sind Reiseführer, die es noch aufführen, nicht mehr aktuell. Zweitens: Vietnamesische QR-Zahlungen (VietQR) erfordern in der Regel ein inländisches Bankkonto oder eine kompatible Wallet; bei einem kurzen Aufenthalt sollten Sie Bargeld als Backup betrachten und die Karten- oder Bargeldoption der Ride-Hailing-App als Standard nutzen.
+Zwei praktische Hinweise. Erstens: Gojek hat Vietnam 2024 verlassen, daher sind Reiseführer, die es noch aufführen, nicht mehr aktuell. Zweitens: vietnamesische QR-Zahlungen (VietQR) erfordern in der Regel ein inländisches Bankkonto oder eine kompatible Wallet; bei einem kurzen Aufenthalt sollten Sie Bargeld als Backup betrachten und die Karten- oder Bargeldoption der Ride-Hailing-App als Standard nutzen.
 
 
 
@@ -712,7 +711,7 @@ Zwei praktische Hinweise. Erstens: Gojek hat Vietnam 2024 verlassen, daher sind 
 
 
 
-Vietnams lokale Datentarife sind nahezu kostenlos, daher ist die Grenze bei einer zweiwöchigen Reise das Datenvolumen, nicht der Preis. Die Rechnung ist einfach: Die Touristentarife von Viettel enthalten alle **5 GB pro Tag**, sodass der 7-Tage-Tarif 5G60T 35 GB umfasst, der 15-Tage-Tarif 5G80T 75 GB und der 30-Tage-Tarif 5G150T 150 GB. Cable.co.uk berechnet die vVietnamesischen mobilen Daten mit etwa **0,29 USD pro Gigabyte**, was den 21. Platz von 237 Märkten ergibt, verglichen mit einem weltweiten Durchschnitt von 2,59 USD.
+Vietnams lokale Datentarife sind nahezu kostenlos, daher ist die Grenze bei einer zweiwöchigen Reise das Datenvolumen, nicht der Preis. Die Rechnung ist einfach: Die Touristentarife von Viettel enthalten alle **5 GB pro Tag**, sodass der 7-Tage-Tarif 5G60T 35 GB umfasst, der 15-Tage-Tarif 5G80T 75 GB und der 30-Tage-Tarif 5G150T 150 GB. Cable.co.uk berechnet die vietnamesischen mobilen Daten mit etwa **0,29 USD pro Gigabyte**, was den 21. Platz von 237 Märkten ergibt, verglichen mit einem weltweiten Durchschnitt von 2,59 USD.
 
 
 
@@ -720,7 +719,15 @@ Eine Reise-eSIM verkauft in der Regel ein festes Datenvolumen für die gesamte R
 
 
 
-### Aufladen einer Vietnamesischen lokalen SIM-Karte
+### Beispielrechnung: zehn Vietnam-Tage mit dem Viettel-Touristentarif
+
+
+
+Ein Aufenthalt von zehn Tagen lässt sich mit den veröffentlichten Zahlen dieser Seite nachrechnen. Der Viettel-Tarif **5G80T** kostet 80.000 VND (rund 3,20 USD), gilt 15 Tage und liefert je **5 GB pro Tag**, also 75 GB. Auf zehn Tage entfallen damit 50 GB, was bei diesem Tarif rund **2,10 USD** entspricht. Cable.co.uk setzt für Vietnam einen Durchschnitt von 0,29 USD pro Gigabyte an; der Tagestarif liegt mit rund 0,04 USD pro Gigabyte deutlich darunter, weil die Netzbetreiber Volumen statt Knappheit bepreisen. Die eigentliche Frage ist also nicht der Preis, sondern ob Sie für die Registrierung Ihren Reisepass in Noi Bai, Tan Son Nhat, Da Nang oder Cam Ranh vorlegen möchten – oder ob eine vorab installierte Reise-eSIM genau diese Schlange ersetzt.
+
+
+
+### Aufladen einer vietnamesischen lokalen SIM-Karte
 
 
 
@@ -728,7 +735,7 @@ Eine Reise-eSIM verkauft in der Regel ein festes Datenvolumen für die gesamte R
 
 - **Netzbetreiber-Apps** — My Viettel, My VNPT und My MobiFone ermöglichen alle Aufladungen per Karte oder verknüpfter Wallet sowie Tarifänderungen.
 
-- **E-Wallets** — MoMo und ZaloPay sind die beiden führenden Vietnamesischen Wallets und können direkt alle drei Netzbetreiber aufladen.
+- **E-Wallets** — MoMo und ZaloPay sind die beiden führenden vietnamesischen Wallets und können direkt alle drei Netzbetreiber aufladen.
 
 - **In abgelegenen Gebieten frühzeitig kaufen.** Auf Côn Đảo, in den Pässen von Hà Giang oder an einem Mekong-Nebenarm gibt es keinen Laden, in den man gehen könnte; laden Sie also auf, bevor Sie die letzte Stadt verlassen.
 
@@ -752,7 +759,7 @@ Eine Reise-eSIM verkauft in der Regel ein festes Datenvolumen für die gesamte R
 
 
 
-USSD läuft über den eigenen Signalisierungskanal des Netzbetreibers und funktioniert daher auch bei ausgeschalteten mobilen Daten — es funktioniert allerdings nur auf einer Leitung mit einer Vietnamesischen Nummer. Bei einer reinen Daten-Reise-eSIM gibt es nichts zu wählen, weshalb die eSIM-App der Ort ist, an dem Sie Ihr verbleibendes Datenvolumen prüfen.
+USSD läuft über den eigenen Signalisierungskanal des Netzbetreibers und funktioniert daher auch bei ausgeschalteten mobilen Daten — es funktioniert allerdings nur auf einer Leitung mit einer vietnamesischen Nummer. Bei einer reinen Daten-Reise-eSIM gibt es nichts zu wählen, weshalb die eSIM-App der Ort ist, an dem Sie Ihr verbleibendes Datenvolumen prüfen.
 
 
 
@@ -790,7 +797,7 @@ Vietnam hat Landgrenzen zu drei Ländern, jedoch keine Landgrenze zu Thailand �
 
 
 
-Three Planungspunkte stehen über dieser Tabelle. Erstens, **über Land oder per Flug ändert nichts an Ihrer eSIM und alles an Ihrem Timing** — Flugankünfte landen in Nội Bài, Tân Sơn Nhất, Đà Nẵng, Cam Ranh und Phú Quốc, wo die Netzbetreiber-Schalter und 5G vorhanden sind; Anreisen über Land enden an einem Grenzübergang, wo der nächste Funkmast Kilometer entfernt sein kann. Zweitens, **wählen Sie den richtigen Grenzübergang auf Ihrem E-Visum.** Vietnams E-Visum ist bis zu 90 Tage gültig, einmalige oder mehrfache Einreise, zu 25 USD bzw. 50 USD, und Inhaber müssen über festgelegte internationale Grenzübergänge ein- und ausreisen — ein Landübergang, der nicht auf Ihrem Visum steht, ist kein Übergang, den Sie nutzen können. Beantragen Sie es über das offizielle [Vietnam National e-Visa-Portal](https://evisa.gov.vn/) und nicht über einen kostenpflichtigen Vermittler. Drittens, wenn Ihre Reise Vietnam–Kambodscha–Vietnam lautet, wählen Sie die Mehrfacheinreise-Option, sonst müssen Sie im Ausland ein zweites Visum kaufen. Für die Netze auf der anderen Seite siehe [Thailands Netzbetreiber](/thailand-esim/), [Kambodschas Grenzübergänge](/cambodia-esim/) und [Chinas Netzbetreiber](/china-esim/); ein regionaler Südostasien-Tarif deckt die gesamte Schleife mit einem Profil ab.
+Drei Planungspunkte stehen über dieser Tabelle. Erstens, **über Land oder per Flug ändert nichts an Ihrer eSIM und alles an Ihrem Timing** — Flugankünfte landen in Nội Bài, Tân Sơn Nhất, Đà Nẵng, Cam Ranh und Phú Quốc, wo die Netzbetreiber-Schalter und 5G vorhanden sind; Anreisen über Land enden an einem Grenzübergang, wo der nächste Funkmast Kilometer entfernt sein kann. Zweitens, **wählen Sie den richtigen Grenzübergang auf Ihrem E-Visum.** Vietnams E-Visum ist bis zu 90 Tage gültig, einmalige oder mehrfache Einreise, zu 25 USD bzw. 50 USD, und Inhaber müssen über festgelegte internationale Grenzübergänge ein- und ausreisen — ein Landübergang, der nicht auf Ihrem Visum steht, ist kein Übergang, den Sie nutzen können. Beantragen Sie es über das offizielle [Vietnam National e-Visa-Portal](https://evisa.gov.vn/) und nicht über einen kostenpflichtigen Vermittler. Drittens, wenn Ihre Reise Vietnam–Kambodscha–Vietnam lautet, wählen Sie die Mehrfacheinreise-Option, sonst müssen Sie im Ausland ein zweites Visum kaufen. Für die Netze auf der anderen Seite siehe [Thailands Netzbetreiber](/thailand-esim/), [Kambodschas Grenzübergänge](/cambodia-esim/) und [Chinas Netzbetreiber](/china-esim/); ein regionaler Südostasien-Tarif deckt die gesamte Schleife mit einem Profil ab.
 
 
 
@@ -810,7 +817,7 @@ Tết 2027 fällt auf den **6. Februar 2027**, mit Feiertagen über die umliegen
 
 
 
-Fürs Datennetz ist das Netz selbst nicht das Problem — Vietnamesische Netzbetreiber kommen mit dem Tết-Verkehr zurecht. Was sich ändert: jeder Zug, jeder Bus, jedes Hotel und jeder Inlandsflug ist voll, sodass urbane Funkzellen die Feiertagsnachfrage zusätzlich zur Touristennachfrage tragen, und ein Telefon, das im März in Hanoi 120 Mbps maß, kann bei Tết nur einen Bruchteil davon messen. Buchen Sie Transport und Unterkunft bis November oder Dezember und betrachten Sie Ihre eSIM als den einzigen Teil der Reise, der keine Buchung braucht.
+Fürs Datennetz ist das Netz selbst nicht das Problem — vietnamesische Netzbetreiber kommen mit dem Tết-Verkehr zurecht. Was sich ändert: jeder Zug, jeder Bus, jedes Hotel und jeder Inlandsflug ist voll, sodass urbane Funkzellen die Feiertagsnachfrage zusätzlich zur Touristennachfrage tragen, und ein Telefon, das im März in Hanoi 120 Mbps maß, kann bei Tết nur einen Bruchteil davon messen. Buchen Sie Transport und Unterkunft bis November oder Dezember und betrachten Sie Ihre eSIM als den einzigen Teil der Reise, der keine Buchung braucht.
 
 
 
@@ -826,7 +833,7 @@ Was das für das Telefon in Ihrer Tasche bedeutet: Eine Basisstation auf Notstro
 
 
 
-## Fragen unterwegs zu eSIMs Vietnamesischer Netzbetreiber
+## Fragen unterwegs zu eSIMs vietnamesischer Netzbetreiber
 
 
 
@@ -842,11 +849,11 @@ Viettel. Er gewann „Best Mobile Network" im Ookla-Bericht 1H 2025 mit 165,03 M
 
 
 
-Yes, ohne Ausnahme. Nach Dekret 49/2017/ND-CP muss jede SIM auf eine verifizierte Identität registriert sein, und Netzbetreiber sind gesetzlich verpflichtet, nicht registrierte Anschlüsse zu deaktivieren. Bringen Sie Ihren physischen Reisepass mit — Scans und Fotos werden abgelehnt — und rechnen Sie bei der eSIM-Selbstregistrierung mit einem Live-Selfie. Die Registrierung dauert 5–15 Minuten am offiziellen Schalter.
+Ja, ohne Ausnahme. Nach Dekret 49/2017/ND-CP muss jede SIM auf eine verifizierte Identität registriert sein, und Netzbetreiber sind gesetzlich verpflichtet, nicht registrierte Anschlüsse zu deaktivieren. Bringen Sie Ihren physischen Reisepass mit — Scans und Fotos werden abgelehnt — und rechnen Sie bei der eSIM-Selbstregistrierung mit einem Live-Selfie. Die Registrierung dauert 5–15 Minuten am offiziellen Schalter.
 
 
 
-### Wo Sie Ihre Vietnam-eSIM beziehen
+### Wo bekomme ich eine Vietnam-eSIM?
 
 
 
@@ -854,19 +861,19 @@ Yes, ohne Ausnahme. Nach Dekret 49/2017/ND-CP muss jede SIM auf eine verifiziert
 
 
 
-### Unterstützt Ihr Handy eSIM in Vietnam?
+### Kann ich mit einer Vietnam-eSIM SMS-Verifizierungscodes empfangen?
 
 
 
-In der Regel nein — die meisten Reise-eSIMs sind datenonly, daher gehen SMS-Verifizierungscodes (Grab, Banking, Hotels) auf Ihre Heimatnummer über Ihre physische SIM, sofern dort SMS-Roaming aktiviert ist. Eine vom Netzbetreiber gekaufte TouristeneSIM von Viettel oder Vinaphone enthält eine Vietnamesische Nummer. Halten Sie Ihre Heimat-SIM für Anrufe und Codes aktiv, legen Sie Daten auf die eSIM und schalten Sie Datenroaming auf der Heimleitung aus, um überraschende Kosten zu vermeiden.
+In der Regel nein — die meisten Reise-eSIMs sind reine Datentarife, daher laufen SMS-Verifizierungscodes (Grab, Banking, Hotels) über Ihre Heimatnummer, sofern dort SMS-Roaming aktiviert ist. Eine vom Netzbetreiber gekaufte TouristeneSIM von Viettel oder Vinaphone enthält eine vietnamesische Nummer. Halten Sie Ihre Heimat-SIM für Anrufe und Codes aktiv, legen Sie Daten auf die eSIM und schalten Sie Datenroaming auf der Heimleitung aus, um überraschende Kosten zu vermeiden.
 
 
 
-### Das 5G-Bild in Vietnam
+### Wo gibt es in Vietnam schon 5G?
 
 
 
-Yes — beide haben kommerzielles 5G seit Ende 2024 von Viettel und Vinaphone, Mobifone folgte Mitte 2025. Erwarten Sie 5G in zentralen Bezirken, an Flughäfen und in Touristenzonen, mit 4G-Fallback dazwischen. Nach Ookla-Daten 1H 2025 verbrachten selbst Nutzer von Viettel rund die Hälfte ihrer Zeit auf 5G, also rechnen Sie außerhalb dichter Gebiete nicht mit durchgängigem 5G.
+Viettel und Vinaphone haben kommerzielles 5G seit Ende 2024, Mobifone folgte Mitte 2025. Erwarten Sie 5G in zentralen Bezirken, an Flughäfen und in Touristenzonen, mit 4G-Fallback dazwischen. Nach Ookla-Daten 1H 2025 verbrachten selbst Nutzer von Viettel rund die Hälfte ihrer Zeit auf 5G, also rechnen Sie außerhalb dichter Gebiete nicht mit durchgängigem 5G.
 
 
 
@@ -878,7 +885,7 @@ HCMC verzeichnete die langsamste mediane Mobilfunkgeschwindigkeit (117,89 Mbps) 
 
 
 
-### APN-Werte für eSIMs von Viettel, Vinaphone und Mobifone
+### Welche APN-Werte nutzen Viettel, Vinaphone und Mobifone?
 
 
 
@@ -894,23 +901,23 @@ In den Städten und an den Hauptblickpunkten ja — die Provinz Lào Cai verzeic
 
 
 
-### IMEI- und EID-Prüfung für Vietnam-eSIMs
+### Warum verbindet sich meine Vietnam-eSIM aus einem gesperrten Handy nicht?
 
 
 
-Ein netzbetreiber-gebundenes Telefon installiert die eSIM, verbindet sich aber nicht — entsperren Sie es zuerst bei Ihrem Heimatnetzbetreiber. Festland-China-iPhone-Modelle haben eSIM hardware-seitig deaktiviert und können keine eSIM nutzen; eine physische Vietnamesische SIM ist dort die einzige Option. Vietnams Netzbetreiber haben 2G und 3G vollständig abgeschaltet, das Telefon braucht also auch VoLTE-Unterstützung, um Anrufe zu tätigen.
+Ein netzbetreiber-gebundenes Telefon installiert die eSIM, verbindet sich aber nicht — entsperren Sie es zuerst bei Ihrem Heimatnetzbetreiber. Festland-China-iPhone-Modelle haben eSIM hardware-seitig deaktiviert und können keine eSIM nutzen; eine physische vietnamesische SIM ist dort die einzige Option. Vietnams Netzbetreiber haben 2G und 3G vollständig abgeschaltet, das Telefon braucht also auch VoLTE-Unterstützung, um Anrufe zu tätigen.
 
 
 
-### Wählen Sie eine Vietnam-eSIM nach Reisetyp
+### Was, wenn meine Route über Vietnam hinausgeht?
 
 
 
-Keine Vietnam-only — sie funktioniert am Grenzübergang nicht mehr. Regionale Südostasien-eSIMs decken Vietnam neben den Nachbarländern ab; wenn Sie über Land reisen, erklären unsere Guides zu [Thailands Netzen](/thailand-esim/) und [Kambodschas Netzen](/cambodia-esim/), was sich am Grenzübergang ändert, und die [Vietnam eSIM-Tarifseite](/vietnam-esim/) enthält Optionen für längere regionale Routen.
+Keine Vietnam-only — sie funktioniert am Grenzübergang nicht mehr. Regionale Südostasien-eSIMs decken Vietnam neben den Nachbarländern ab; wenn Sie über Land reisen, erklären unsere Guides zu [Thailands Netzen](/thailand-esim/) und [Kambodschas Netzen](/cambodia-esim/), was sich am Grenzübergang ändert.
 
 
 
-### Aktivierungsschritte für Vietnam-eSIMs
+### Wie aktiviere ich eine Vietnam-eSIM Schritt für Schritt?
 
 
 
@@ -918,11 +925,11 @@ Bestätigen Sie, dass das Telefon entsperrt und eSIM-fähig ist, scannen Sie den
 
 
 
-### Vietnam günstige Datentarife
+### Ist eine lokale Vietnam-SIM günstiger als eine eSIM?
 
 
 
-Auf dem Papier nein — ein lokaler Viettel-Tarif startet bei 60.000 VND und Vietnamesische Daten kosten im Schnitt rund 0,29 USD pro Gigabyte, was keine Reise-eSIM unterbieten kann. In der Praxis kostet die lokale SIM Sie eine Reisepass-Übergabe, eine Schlange am Schalter und ein 24–48-stündiges Registrierungsrisiko, falls die Unterlagen nicht vollständig sind. Bei Reisen unter zwei Wochen finden die meisten Besucher den kleinen Aufpreis angemessen; bei einem einmonatigen Aufenthalt gewinnt der lokale Tarif deutlich.
+Auf dem Papier nein — ein lokaler Viettel-Tarif startet bei 60.000 VND und vietnamesische Daten kosten im Schnitt rund 0,29 USD pro Gigabyte, was keine Reise-eSIM unterbieten kann. In der Praxis kostet die lokale SIM Sie eine Reisepass-Übergabe, eine Schlange am Schalter und ein 24–48-stündiges Registrierungsrisiko, falls die Unterlagen nicht vollständig sind. Bei Reisen unter zwei Wochen finden die meisten Besucher den kleinen Aufpreis angemessen; bei einem einmonatigen Aufenthalt gewinnt der lokale Tarif deutlich.
 
 
 
@@ -956,7 +963,7 @@ Jede Netzgröße auf dieser Seite ist Drittquelle und öffentlich verfügbar. Ih
 
 
 
-Die Roami-Vietnam-eSIM verlinkt zu Viettel, Vinaphone und Mobifone und wechselt auf Reisen von Sapa bis zum Mekong-Delta selbstständig die Netze. Lieber erst prüfen? [Holen Sie sich eine kostenlose Test-eSIM](/free-esim/), dann [bestellen Sie Ihren Vietnam-eSIM-Tarif](/vietnam-esim/) und erhalten Sie den QR-Code in Minuten.
+Die Roami-Vietnam-eSIM verlinkt zu Viettel, Vinaphone und Mobifone und wechselt auf Reisen von Sapa bis zum Mekong-Delta selbstständig die Netze. Lieber erst prüfen? [Holen Sie sich eine kostenlose Test-eSIM](/free-esim/), bestellen Sie dann Ihren Vietnam-eSIM-Tarif und erhalten Sie den QR-Code in Minuten.
 
 
 
@@ -964,13 +971,13 @@ Die Roami-Vietnam-eSIM verlinkt zu Viettel, Vinaphone und Mobifone und wechselt 
 
 
 
-*Erstnutzer von Roami können die kostenlose Testversion kostenlos anfordern.*
+*Erstnutzer von Roami können die Testversion kostenlos anfordern.*
 
 
 
-[Free Vietnam Test-eSIM](/free-esim/)
+[Kostenlose Test-eSIM für Vietnam](/free-esim/)
 
 
 
-Richten Sie es in jedem Fall vor der Abreise ein: Prüfen Sie Ihr Telefon gegen den [Kompatibilitäts-Checker](/compatibility/), probieren Sie die Roami [kostenlose Test-eSIM](/free-esim/) und wenden Sie den Code **WEB20** an der Kasse an, falls Sie auf einen vollwertigen Roami-Tarif für Vietnam upgraden.
+Richten Sie es in jedem Fall vor der Abreise ein: Prüfen Sie Ihr Telefon gegen die eSIM-Kompatibilität, probieren Sie Roamis kostenlose Testversion und wenden Sie den Code **WEB20** an der Kasse an, falls Sie auf einen vollwertigen Roami-Tarif für Vietnam upgraden.
 

@@ -19,11 +19,11 @@ Die Wahl einer Jordanien-eSIM teilt sich mit dem Land selbst: schnelles 5G in Am
 
 **Schnelle Antwort:** Umniah ist die sichere Standardwahl für Netzabdeckung in ganz Jordanien, während Zain in den größeren Städten das schnellere 5G liefert. Unten: die Zahlen hinter dieser Aussage, plus [Kompatibilitätsprüfung](/compatibility/), falls Ihr Gerät zuerst überprüft werden muss.
 
-Keiner der Vergleiche ist relevant, bevor das Profil sauber installiert ist; das [eSIM-Kompatibilitätstool](/compatibility/) und die [eSIM-Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/) decken beide Hälften ab. Kommen Sie dann für die Netzwerkurteile zurück.
+Keiner der Vergleiche ist relevant, bevor das Profil sauber installiert ist; der Kompatibilitätscheck und die [eSIM-Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/) decken beide Hälften ab. Kommen Sie dann für die Netzwerkurteile zurück.
 
-**Schnelles Urteil:** Umniah ist Jordans bestes Gesamtnetzwerk nach beiden großen Bewertungen 2025–2026 und die Budget-Wahl am Flughafen. Zain Jordan betreibt das schnellste 5G im Land, gemessen mit **325,3 Mbps** von Opensignal. Orange Jordan führt bei der 5G-Verfügbarkeit, hält also 5G häufiger in der Innenstadt von Amman. Alle drei registrieren Ihren Pass am Verkaufsort, und alle drei verkaufen Touristenpakete am Queen-Alia-Flughafen. Für Daten bei der Landung ohne Schalterbesuch kommt die [Jordanien-eSIM von Roami](/jordan-esim/) per QR-Code, und eine [kostenlose eSIM-Testversion](/free-esim/) kostet nichts zum Ausprobieren.
+**Schnelles Urteil:** Umniah ist Jordans bestes Gesamtnetzwerk nach beiden großen Bewertungen 2025–2026 und die Budget-Wahl am Flughafen. Zain Jordan betreibt das schnellste 5G im Land, gemessen mit **325,3 Mbps** von Opensignal. Orange Jordan führt bei der 5G-Verfügbarkeit, hält also 5G häufiger in der Innenstadt von Amman. Alle drei registrieren Ihren Pass am Verkaufsort, und alle drei verkaufen Touristenpakete am Queen-Alia-Flughafen. Für Daten bei der Landung ohne Schalterbesuch kommt die [Jordanien-eSIM von Roami](/jordan-esim/) per QR-Code, und eine kostenlose Test-eSIM auf der Seite [Testversion buchen](/free-esim/) kostet nichts zum Ausprobieren.
 
-## Die drei Netzbetreiber im Überblick
+## Jordaniens drei Netzbetreiber: Zain, Orange und Umniah im Vergleich
 
 Drei Netzbetreiber teilen sich den Markt, jeder hält ungefähr ein Drittel, alle lizenziert von der Telecommunications Regulatory Commission (TRC). Umniah gehört zur bahrainischen Beyon-Gruppe; Orange Jordan ist der lokale Arm der französischen Gruppe; Zain Jordan gehört zur kuwaitischen Zain-Gruppe, die auch **Zain KSA** in Saudi-Arabien betreibt. Verwechseln Sie Zain Jordan nicht mit Zain Irak — ein anderes Unternehmen in einem anderen Netzwerk, behandelt in unserem Irak-Leitfaden.
 
@@ -83,7 +83,7 @@ Wenn Sie die Auszeichnungen nebeneinanderlegen, bleibt eine Schlussfolgerung bes
 
 ## Welche lokale eSIM Sie je nach Reise wählen sollten
 
-| Ihre Reiseroute | Top-Empfehlung | Warum es überzeugt | Darauf sollten Sie achten |
+| Ihre Jordanien-Route | Netz-Empfehlung | Was dafür spricht | Worauf Sie achten sollten |
 |:---|:---|:---|:---|
 | Geschäftsreise nach Amman | Zain Jordanien oder Orange Jordanien | Schnellstes 5G bzw. beste 5G-Verfügbarkeit in den Stadtteilen, in denen Sie tatsächlich arbeiten werden | Hotel-WLAN ist oft schneller als mobile Daten; testen Sie, was Sie benötigen |
 | Tagesausflug nach Petra ab Amman | Zain Jordanien | Stärkstes Signal in der Stadt Wadi Musa und im Besucherzentrum | Der Siq blockiert das Signal in jedem Netz |
@@ -102,8 +102,7 @@ Aus dieser Tabelle ergibt sich eine einfache Regel: Wenn Ihre Reise Amman in irg
 
 Amman, Petra, Wadi Rum, Aqaba und dann zurück nach Norden ans Tote Meer: Das ist die Route, die die meisten Reisenden fahren, und sie belohnt eine Wahl, die die Netzabdeckung priorisiert. Zain Jordan hat in allen fünf Stationen die breiteste Abdeckung, mit Umniah als knappem Zweiten innerhalb der Städte.
 
-### Grenzübertritte und Ihre eSIM
-
+### Grenzübertritte nach Saudi-Arabien und Israel
 Jordanien ist auch ein Transitland, und Transit verändert die Rechnung. Wenn Sie innerhalb weniger Tage in einen Nachbarstaat ein- oder ausreisen, ist ein Profil nur für Jordanien auf beiden Seiten der Grenze totes Gewicht. Eine regionale oder Mehrländer-Reise-eSIM kostet im Voraus etwas mehr und erspart Ihnen den doppelten Kauf.
 
 ### Eine Jordanien-eSIM für Aqaba und das Rote Meer
@@ -112,11 +111,19 @@ Aqaba ist der einzige Ort, an dem alle drei Anbieter gleich gut funktionieren, u
 
 ## Wo Sie als Besucher eine lokale eSIM kaufen
 
-Die Registrierung Ihrer Jordanien-eSIM ist einfach und unvermeidlich: Ein gültiger Reisepass ist erforderlich, der Anbieter scannt ihn am Verkaufsort in das System, und anonyme SIMs sind nicht erlaubt. Die Aktivierung erfolgt meist sofort, mit einer Willkommens-SMS, die bestätigt, dass Sie online sind.
+Die Registrierung einer jordanischen Leitung ist einfach und unvermeidlich: Die Registrierungspflicht trifft jede SIM-Karte und jedes Prepaid-Profil gleichermaßen, ein gültiger Reisepass ist erforderlich, der Anbieter scannt ihn am Verkaufsort in das System, und anonyme SIMs sind nicht erlaubt. Die Aktivierung erfolgt meist sofort, mit einer Willkommens-SMS, die bestätigt, dass Sie online sind.
 
 ### Kauf einer eSIM am Flughafen Queen Alia
 
 In der Ankunftshalle gibt es einen Orange-Stand, der rund um die Uhr geöffnet ist, sowie Zain Jordan- und Umniah-Kioske in der Nähe, die alle Bargeld und internationale Karten akzeptieren. Zum Zeitpunkt der Erstellung gemeldete Touristenangebote: Die Besucherlinie von Orange für etwa 15 JOD für 20 GB mit unbegrenzten Ortsgesprächen für 30 Tage; Zain Jordan ab etwa 14,50 JOD für 8 GB bis hin zu etwa 29 JOD für 50 GB; Umniah rund 10 JOD für 30 GB auf einer 10-tägigen Kurzaufenthalts-Karte.
+
+So läuft eine späte Landung in Amman ab — die Reihenfolge, die Ihnen am Flughafen wirklich begegnet:
+
+1. **Ankunftshalle, Gepäckband.** Das Hallen-WLAN trägt eine Nachricht, aber keinen Profil-Download; verlassen Sie sich nicht darauf.
+2. **Der Orange-Stand** ist der einzige 24/7 besetzte Schalter und damit die verlässliche Option für Nachtflüge. Zain Jordan und Umniah bedienen daneben eigene Kioske, die aber nicht jede Ankunft abdecken.
+3. **Registrierung.** Reisepass vorlegen, Scan abwarten, Paket wählen. Bei zwei gleichzeitig gelandeten Flügen stehen Sie hier 10 bis 15 Minuten.
+4. **Profil einrichten und testen.** Schalten Sie das WLAN aus, bevor Sie den ersten Speedtest machen — sonst messen Sie das Flughafennetz und nicht den Sendemast.
+5. **Plan B.** Hat der Schalter doch geschlossen, kaufen Sie am nächsten Morgen in einer Filiale in Abdali oder in der Mecca Mall; eine vorab installierte Jordanien-eSIM überbrückt die Nacht.
 
 ### Kaufen in der Stadt statt am Flughafen
 
@@ -175,7 +182,7 @@ Lesen Sie die Tarife im Abgleich mit Ihrer tatsächlichen Reiseroute:
 | Umniah reine Online-Variante | 35 GB | 10 Tage | ~7 | Kauf per App oder Web |
 | Umniah Online-Tarif | 100 GB | 30 Tage | ~17 | Unbegrenzte lokale Gesprächsminuten |
 
-## Lokale SIM oder Reise-eSIM im Kostenvergleich
+## Jordanische SIM oder Reise-eSIM: die Kostenrechnung
 
 Jordaniens lokale Daten sind günstig genug, dass die Entscheidung hier knapper ausfällt als in den meisten Ländern – und der Papieraufwand ist geringer als in Saudi-Arabien, sodass ein direkter Kauf vor Ort durchaus sinnvoll ist.
 
@@ -192,6 +199,8 @@ Jordaniens lokale Daten sind günstig genug, dass die Entscheidung hier knapper 
 
 Kürzer als eine Woche gewinnt die Zeitersparnis einer Reise-eSIM. Länger, und Jordaniens Pro-Gigabyte-Preise plus eine lokale Rufnummer für Hotels und Fahrer beginnen sich selbst zu refinanzieren.
 
+Eine Beispielrechnung mit den Preisen aus der Tabelle oben: Eine Woche Amman mit einem Tagesausflug nach Petra verbraucht realistisch rund 10 GB, wenn Sie Karten, Messenger und ein bis zwei Videocalls am Tag einplanen. Die Umniah-Kurzaufenthaltskarte mit 30 GB kostet etwa 10 JOD, die Orange-Touristencard mit 20 GB rund 15 JOD — beide decken den Bedarf mit Reserve. Ein Roami-Reiseprofil für dieselbe Woche liegt je nach Staffel im niedrigen zweistelligen Dollarbereich, also in einer ähnlichen Größenordnung. Entscheidend ist der Vergleich mit Ihrer Heimatleitung: Jordanien ist kein EU-Land, EU-Roaming und Roam-like-at-home greifen hier also nicht. Ihr deutscher, österreichischer oder Schweizer Tarif rechnet jordanischen Verkehr als Drittland-Verkehr ab, üblicherweise über einen Tages- oder Wochenpass. Vergleichen Sie diesen Pass mit der lokalen Karte — nicht mit Ihrem Inlandstarif, der hier nicht gilt.
+
 ### Der oft übersehene Sprachfaktor
 
 Telefonie ist die Variable, die die meisten Vergleiche übersehen. Reise-eSIMs sind fast immer reine Datentarife, sodass die Anrufe, die Hotels, Restaurants und Fahrer weiterhin erwarten, entweder über Ihre Heimnummer zu Roaming-Gebühren laufen oder zu WhatsApp-Datenanrufen werden. Jedes oben aufgeführte jordanische Paket enthält lokale Gesprächsminuten – deshalb landet jeder, der länger als ein paar Tage zwischen Amman, Petra und Aqaba unterwegs ist, ohnehin meist an einem Kiosk.
@@ -200,11 +209,11 @@ Telefonie ist die Variable, die die meisten Vergleiche übersehen. Reise-eSIMs s
 
 ### Die eSIM-Fähigkeit Ihres Geräts prüfen
 
-Zunächst die eSIM-Fähigkeit: Wählen Sie `*#06#` und suchen Sie nach einer EID, und bestätigen Sie dann Ihr genaues Modell auf der [eSIM-Kompatibilitätsseite](/compatibility/). Zweitens der Netzbetreiber-Lock: Ein Telefon, das noch an einen ausländischen Anbieter gebunden ist, wird jedes jordanische Profil ablehnen, bis es entsperrt ist – prüfen Sie Einstellungen → Allgemein → Info → Netzbetreiber-Lock. Drittens die Frequenzbänder: Jordaniens LTE-Ausbau deckt weit über 90 % der Bevölkerung auf internationalen Standardbändern ab, und seine 5G-Netze nutzen gängige Mid-Band-Spektren, sodass jedes aktuelle globale Smartphone funktioniert.
+Zunächst die eSIM-Fähigkeit: Wählen Sie `*#06#` und suchen Sie nach einer EID; ob Ihr Gerät eSIM-kompatibel ist, klärt der Hersteller über seine Modellliste, der [Kompatibilitätscheck](/compatibility/) prüft es in zwei Minuten. Ihr Telefon zeigt unter `*#06#` übrigens auch die IMEI der Hardware — relevant, falls der Support sie später abfragt. Zweitens der SIM-Lock: Ein Telefon, das noch an einen ausländischen Anbieter gebunden ist, wird jedes jordanische Profil ablehnen, bis es entsperrt ist – prüfen Sie Einstellungen → Allgemein → Info → Netzbetreiber-Lock. Drittens die Frequenzbänder: Jordaniens LTE-Ausbau deckt weit über 90 % der Bevölkerung auf internationalen Standardbändern ab, und seine 5G-Netze nutzen gängige Mid-Band-Spektren, sodass jedes aktuelle globale Smartphone funktioniert.
 
 ### Funktioniert Hotspot mit der eSIM?
 
-Ja, die meisten Besucher-eSIMs der Netzbetreiber unterstützen Hotspot-Freigabe; Reise-eSIMs beschränken sie manchmal, also lesen Sie die Bedingungen, bevor Sie sich auf einen Laptop verlassen. Halten Sie daneben Ihre Heim-SIM für SMS-Bestätigungscodes aktiv, richten Sie mobile Daten auf die eSIM und schalten Sie Datenroaming auf der Heimleitung aus, damit diese Ihnen keinen Hintergrundverkehr berechnet.
+Ja, die meisten Besucher-eSIMs der Netzbetreiber unterstützen Hotspot-Freigabe, also Tethering für Laptop oder Tablet; Reise-eSIMs beschränken es manchmal, also lesen Sie die Bedingungen, bevor Sie sich auf einen Laptop verlassen. In einer Dual-SIM-Konfiguration halten Sie daneben Ihre Heim-SIM für SMS-Bestätigungscodes aktiv, richten mobile Daten auf die eSIM und schalten Sie Datenroaming auf der Heimleitung aus, damit diese Ihnen keinen Hintergrundverkehr berechnet.
 
 Ein regulatorischer Hinweis hilft Grenzgängern: Die TRC betreibt ein Weiß/Grau/Schwarz-Geräteregister, und von Besuchern vorübergehend mitgebrachte Handys stehen auf der grauen Liste – das bedeutet, dass Ihr ausländisches Telefon mit einer lokalen Leitung normal weiter funktioniert, ohne eine Importregistrierung.
 
@@ -225,13 +234,13 @@ Profile werden bei der Netzregistrierung aktiviert, nicht beim Installieren. Fal
 
 ### Offline-Vorbereitung für die Südroute
 
-Bevor Sie das WLAN verlassen, laden Sie die Karten, den Petra-Audioguide und alle Campinganleitungen herunter, die Sie benötigen. Zwischen Wadi Musa und Wadi Rum folgt der Empfang der Schnellstraße, und nach dem Besucherzentrum in Wadi Rum hört er vollständig auf – kein Netzbetreiber ändert daran etwas.
+Bevor Sie das WLAN verlassen, laden Sie die Karten, den Petra-Audioguide und alle Campinganleitungen herunter, die Sie benötigen. Zwischen Wadi Musa und Wadi Rum folgt der Empfang der Schnellstraße, und nach dem Besucherzentrum in Wadi Rum hört er vollständig auf – kein Netzbetreiber ändert daran etwas. Für die meisten Besucher ist Wadi Rum ohnehin ein Tagesausflug von Aqaba oder Wadi Musa aus; wer nur den Sonnenuntergang am Besucherzentrum mitnimmt, bleibt die ganze Zeit im versorgten Bereich.
 
 ## APN-Werte aller drei Netzbetreiber
 
 Eine vom Netzbetreiber ausgegebene Jordanien-eSIM konfiguriert sich in der Regel selbst, und Profile von Reiseplattformen kommen vorkonfiguriert an. Falls die mobilen Daten auf einer vom Netzbetreiber ausgegebenen Leitung nicht funktionieren, sind dies die Werte, die unabhängige Einstellungsanleitungen angeben:
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber in Jordanien | Zugangspunkt (APN) | Nutzername | Kennwort |
 |:---|:---|:---|:---|
 | Zain Jordanien | `internet` | leer | leer |
 | Orange Jordanien | `internet` | leer | leer |
@@ -269,10 +278,10 @@ Das ist Geografie, kein technischer Defekt. Die Netzabdeckung südlich der touri
 
 | Welche Informationen der Support anfordert | Wo Sie diese finden |
 |:---|:---|
-| Bestell- oder Kundennummer | Bestätigungs-E-Mail oder die App des Netzbetreibers |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Bestell- oder Vertragsnummer | Bestätigungs-Mail Ihres Anbieters bzw. die App von Zain Jordan |
+| Handy-Modell und iOS- bzw. Android-Version | Einstellungen → Allgemein → Info (iOS) oder Einstellungen → Über das Telefon (Android) |
 | Ihre EID | `*#06#` |
-| Einen Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Noch im Fehlerdialog aufnehmen – das ist der Nachweis, den Zain Jordan im Service-Chat zuerst sehen will |
 | Der APN, den Ihre Verbindung verwendet | Einstellungen → Mobiles Netz → Mobildaten-Netzwerk |
 | Ob Datenroaming aktiviert ist | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
 | Was Sie bereits versucht haben | Führen Sie eine kurze nummerierte Liste |
@@ -303,7 +312,7 @@ Jordanische Tarife enthalten kein grenzüberschreitendes Datenvolumen. Sobald Si
 
 An keinem jordanischen Landgrenzübergang gibt es einen Netzbetreiber-Schalter. Wenn Sie auf dem Landweg ohne Jordanien-eSIM ankommen, kaufen Sie diese stattdessen in Amman, Aqaba oder Irbid. Beachten Sie außerdem, dass an Land- und Seegrenzen eine Ausreisegebühr von **JOD 10** erhoben wird, nicht jedoch an den Flughäfen – ein weiterer Grund, warum die Einreise auf dem Luftweg der bequemere Weg ist.
 
-Reisen Sie von Jordanien weiter? Unsere Leitfäden zu den Netzen der Nachbarländer zeigen, was sich ändert: den [Israel-eSIM-Leitfaden](/carriers/israel-esim-carrier-guide/) und den [Ägypten-eSIM-Leitfaden](/carriers/egypt-esim-carrier-guide/).
+Reisen Sie von Jordanien weiter? Dann wechselt die Netzwahl an jeder Grenze: Die [Israel-eSIM-Tarife](/israel-esim/) und die [Ägypten-eSIM-Tarife](/egypt-esim/) zeigen, was Sie auf der anderen Seite erwartet.
 
 Für die Südroute Richtung Aqaba und weiter in den Golfraum finden Sie unsere [Saudi-Arabien-eSIM-Tarife](/saudi-arabia-esim/); ein Mehrländer-Profil ist meistens sauberer als der Kauf von drei lokalen SIM-Karten.
 
@@ -330,7 +339,7 @@ Das Muster ist einheitlich: Zain Jordanien funktioniert im ganzen Land zuverläs
 
 ### Netzabdeckung auf der Route nach Aqaba und ans Tote Meer
 
-Fahren Sie die Route 15 von Amman nach Aqaba, ist der Empfang in den Orten weitgehend durchgehend vorhanden und wird zwischen Ma'an und der Küste schwächer. Auf der Straße am Toten Meer folgt die Netzabdeckung der Hotelzone am nördlichen Ende und wird schwächer, wenn das Tal unter den Meeresspiegel fällt. Keines der beiden Gebiete ist so feindlich wie die Rub al-Chali, aber eine vollständige Jordanien-Rundreise bringt einen trotzdem einige Stunden ohne Funkempfang. Planen Sie lieber um diese Abschnitte herum als durch sie hindurch.
+Fahren Sie die Route 15 von Amman nach Aqaba, ist der Empfang in den Orten weitgehend durchgehend vorhanden und wird zwischen Ma'an und der Küste schwächer. Auf der Straße am Toten Meer folgt die Netzabdeckung der Hotelzone am nördlichen Ende und wird schwächer, wenn das Tal unter den Meeresspiegel fällt. Auf einer vollständigen Jordanien-Rundreise summieren sich beide Abschnitte zu einigen Stunden ohne Funkempfang – planen Sie sie als Offline-Etappen ein, statt unterwegs gegen die Geografie anzukämpfen. Zwischen Ma'an und der Küste versorgt oft nur eine einzelne Funkzelle die Strecke; die Bandbreite bricht dort ein, wo der nächste Sendemast weit entfernt steht.
 
 ### Alles in einer Zeile zusammengefasst
 
@@ -356,7 +365,7 @@ Fast nie. Die enge Schlucht blockiert den Mobilfunkempfang in allen drei Netzen,
 
 ### Funktioniert die eSIM in den südlichen Camps und Dörfern?
 
-Teilweise. Im Dorf und in mehreren Camps gibt es nutzbaren Empfang — Zain Jordanien ist dort in der Regel am stärksten — aber das offene Land darüber hinaus ist eine Funklochzone. Speichern Sie den Standort Ihres Camps offline, bevor Sie die Hauptstraße verlassen, und rechnen Sie nicht damit, in einem abgelegenen Camp streamen zu können.
+Teilweise. Im Dorf und in mehreren Camps gibt es nutzbaren Empfang — Zain Jordanien ist dort in der Regel am stärksten — aber das offene Land darüber hinaus ist eine Funklochzone. Wer Wadi Rum als Tagesausflug vom Besucherzentrum aus erlebt, bleibt durchgehend versorgt; wer dort übernachtet, speichert den Standort des Camps offline, bevor er die Hauptstraße verlässt, und rechnet nicht damit, in einem abgelegenen Camp streamen zu können.
 
 ### Wie viel sollte ich für die eSIM einplanen?
 
@@ -376,13 +385,13 @@ Ja. Alle drei Netzbetreiber akzeptieren Kartenzahlungen in ihren Apps und auf ih
 
 ### Wo ist 5G in Jordanien verfügbar?
 
-Ja, in Aqaba teilweise — Umniah hat 5G in Hotspots wie dem Seehafen und dem Flughafen ausgebaut, die anderen Netzbetreiber versorgen das Stadtzentrum. Petra und Wadi Musa bleiben überwiegend 4G, was bei jordanischen Geschwindigkeiten völlig ausreicht für Karten, Buchungen und Messenger.
+In Aqaba teilweise — Umniah hat 5G in Hotspots wie dem Seehafen und dem Flughafen ausgebaut, die anderen Netzbetreiber versorgen das Stadtzentrum. Petra und Wadi Musa bleiben überwiegend 4G, was bei jordanischen Geschwindigkeiten völlig ausreicht für Karten, Buchungen und Messenger.
 
 ### Kann ich die eSIM nutzen und meine Heimatnummer behalten?
 
 Ja, das ist die Standardkonfiguration. Lassen Sie die Heim-SIM für Anrufe und Verifizierungscodes aktiv, stellen Sie die Mobilfunkdaten auf die Jordanien-eSIM um und deaktivieren Sie Datenroaming auf der Heimleitung, damit Hintergrunddatenverkehr nicht berechnet wird. Beachten Sie, dass die meisten Reiseprofile keine SMS empfangen können.
 
-## Wie diese Zahlen erhoben wurden
+## Quellen und Erhebungsmethode für die Jordanien-Zahlen
 
 - **Telecommunications Regulatory Commission (TRC)** — die Regulierungsbehörde, die alle drei Betreiber lizenziert. Ihre Quartalszahlen untermauern die rund 433.400 5G-Verträge Ende Q1 2026 und die ungefähr 8,3 Millionen Mobilfunkverträge insgesamt, während ihr [Rahmenwerk für Prepaid-Karten-Lizenzen](https://trcwebsite.echo.jo/ebv4.0/root_storage/en/eb_list_page/486bc933-5d69-4769-8713-496d7fca1dcc_amendments_on_the_pre-paid_card_license_agreement3.pdf) die oben zusammengefassten Registrierungsregeln stützt.
 - **Ookla Speedtest Awards** — [die Jordanien-2025-Awards-Seite](https://www.speedtest.net/awards/jordan/2025/) liefert Umniahs Sieg als Best Mobile Network sowie die Connectivity Scores der einzelnen Betreiber.
@@ -394,4 +403,4 @@ Die genannten Touristentarif-Preise sind die zum Zeitpunkt der Erstellung veröf
 
 ## Ihre Jordanien-eSIM vor dem Abflug sichern
 
-Umgehen Sie die Schlange in der Ankunftshalle komplett. [Roamis Jordanien-eSIM](/jordan-esim/) lässt sich per QR-Code installieren, bevor Sie fliegen, und verbindet sich bei der Landung automatisch mit dem stärksten lokalen Netz, während Sie zwischen Amman, Petra und Aqaba unterwegs sind. Sichern Sie sich Ihre eSIM auf [roamiapp.com](/jordan-esim/) und nutzen Sie den Promo-Code **WEB20** für 20 % Rabatt auf Ihren ersten Tarif — oder testen Sie das gesamte Setup risikofrei mit einer [kostenlosen Testkarte](/free-esim/).
+Umgehen Sie die Schlange in der Ankunftshalle komplett. [Roamis Jordanien-eSIM](/jordan-esim/) lässt sich per QR-Code installieren, bevor Sie fliegen, und verbindet sich bei der Landung automatisch mit dem stärksten lokalen Netz, während Sie zwischen Amman, Petra und Aqaba unterwegs sind. Buchen Sie den Tarif direkt auf roamiapp.com und nutzen Sie den Promo-Code **WEB20** für 20 % Rabatt auf Ihren ersten Tarif — oder testen Sie das gesamte Setup risikofrei mit einer [kostenlosen Testkarte](/free-esim/).

@@ -2,11 +2,8 @@
 
 
 
-title: "North Macedonia eSIM-Anbieter: A1 vs Telekom vs MTEL"
-
-
-
-description: "A1, Telekom oder MTEL? Roami vergleicht alle drei eSIM-Anbieter in Nordmazedonien, einschließlich der Roaming-Regel im Westbalkan, die über Ihre Reise entscheidet."
+title: "Nordmazedonien eSIM: A1, Telekom oder MTEL wählen"
+description: "Nordmazedonien eSIM im Vergleich: A1, Telekom und MTEL nach Netzabdeckung, Preisen und Westbalkan-Roaming für Ihre Reise."
 image: "img/esim/carriers/north-macedonia-esim-carrier-guide.jpg"
 
 
@@ -15,7 +12,7 @@ date: "2026-09-24T14:11:01+00:00"
 
 
 
-keywords: North Macedonia eSIM, North Macedonia eSIM carriers, buy eSIM North Macedonia, A1 Macedonia, Makedonski Telekom, MTEL Macedonia, travel eSIM, instant connect, avoid roaming fees, Lake Ohrid, Skopje Old Bazaar
+keywords: Nordmazedonien eSIM, Nordmazedonien eSIM-Netzbetreiber, eSIM Nordmazedonien kaufen, A1 Nordmazedonien, Makedonski Telekom, MTEL, Reise-eSIM, sofortige Aktivierung, Roaming-Gebühren vermeiden, Ohridsee, Altstadt von Skopje
 
 
 
@@ -70,7 +67,7 @@ hero_subtitle_main: "Netzabdeckung, Preise und das Kleingedruckte, das über Ihr
 
 
 
-Nordmazedonien hat eines der günstigsten mobilen Datenvolumen in Europa und eine wirklich verwirrende Eigenheit: **Ob der Flughafen Skopje überhaupt einen Anbieter-Kiosk hat, ist zwischen den Quellen umstritten.** Diese Unsicherheit, zusammen mit der vorgeschriebenen Reisepass-Registrierung und einer Roaming-Landschaft im Westbalkan, in der sich die drei Netzbetreiber deutlich unterscheiden, macht dieses Land zu einem Ziel, wo zehn Minuten Lesen vor der Reise eine verschwendete Stunde am Flughafen ersparen. Dieser Guide behandelt die Entscheidung A1 vs Telekom vs MTEL mit echten Tarifstrukturen, der Netzabdeckungs-Realität am Ohridsee und in der Matka-Schlucht sowie dem Roam-like-at-home-Abkommen zwischen den sechs Westbalkan-Ländern, das die meisten Artikel verschweigen.
+Eine Nordmazedonien eSIM zu wählen ist selten teuer, denn das Land hat eines der günstigsten mobilen Datenvolumen in Europa – und eine wirklich verwirrende Eigenheit: **Ob der Flughafen Skopje überhaupt einen Anbieter-Kiosk hat, ist zwischen den Quellen umstritten.** Diese Unsicherheit, zusammen mit der vorgeschriebenen Reisepass-Registrierung und einer Roaming-Landschaft im Westbalkan, in der sich die drei Netzbetreiber deutlich unterscheiden, macht dieses Land zu einem Ziel, wo zehn Minuten Lesen vor der Reise eine verschwendete Stunde am Flughafen ersparen. Dieser Guide behandelt die Entscheidung A1 vs Telekom vs MTEL mit echten Tarifstrukturen, der Netzabdeckungs-Realität am Ohridsee und in der Matka-Schlucht sowie dem Roam-like-at-home-Abkommen zwischen den sechs Westbalkan-Ländern, das die meisten Artikel verschweigen.
 
 
 
@@ -78,7 +75,7 @@ Nordmazedonien hat eines der günstigsten mobilen Datenvolumen in Europa und ein
 
 
 
-Wenn die eSIM-Daten Ihres Telefons nicht verifiziert sind, ist die [Kompatibilitätsseite](/compatibility/) der erste Schritt.
+Wer nicht sicher ist, ob das eigene Handy ein eSIM-Profil annimmt, beginnt mit dem [Gerätecheck](/compatibility/).
 
 
 
@@ -86,7 +83,7 @@ Wenn die eSIM-Daten Ihres Telefons nicht verifiziert sind, ist die [Kompatibilit
 
 
 
-**Die kurze Antwort:** Makedonski Telekom hat die größte landesweite Abdeckung — der einzige Netzbetreiber, dessen Prepaid-Tarife ein sinnvolles Westbalkan-Roaming enthalten (10 GB regional bei seinem 30-Tage-Unbegrenzt-Tarif, ca. 1.399 MKD/26 €). A1 Macedonia liefert die schnellsten urbanen Geschwindigkeiten in Skopje, Ohrid und Bitola, mit guter Autobahn-Abdeckung, aber Berichten zufolge ohne Balkans-Roaming. MTEL — der Neuling, der Ende 2024 aus Lycamobile neu gestartet wurde und im A1-Netz läuft — ist die Budget-Option, die außerhalb der Städte das Signal verliert. Die Registrierung mit Reisepass ist vorgeschrieben. Lokale eSIM-Verkäufe an Besucher sind bestenfalls unklar, daher ist der verlässliche Weg eine online vor dem Flug gekaufte eSIM.
+**Die kurze Antwort:** Makedonski Telekom hat die größte landesweite Abdeckung — der einzige Netzbetreiber, dessen Prepaid-Tarife ein sinnvolles Westbalkan-Roaming enthalten (10 GB regional bei seinem 30-Tage-Unbegrenzt-Tarif, ca. 1.399 MKD/26 €). A1 Macedonia liefert die schnellsten urbanen Geschwindigkeiten in Skopje, Ohrid und Bitola, mit guter Autobahn-Abdeckung, aber Berichten zufolge ohne Balkans-Roaming. MTEL — der Neuling, der Ende 2024 aus Lycamobile neu gestartet wurde und im A1-Netz läuft — ist die Budget-Option, die außerhalb der Städte das Signal verliert. Die Registrierung mit Reisepass ist vorgeschrieben. Lokale Verkäufe an Besucher sind bestenfalls unklar, daher ist der verlässliche Weg ein Profil, das Sie online vor dem Abflug kaufen.
 
 
 
@@ -94,7 +91,7 @@ Wenn die eSIM-Daten Ihres Telefons nicht verifiziert sind, ist die [Kompatibilit
 
 
 
-## Der Mobilfunkmarkt auf der Karte
+## Der Mobilfunkmarkt Nordmazedoniens auf der Karte
 
 
 
@@ -102,7 +99,7 @@ Wenn die eSIM-Daten Ihres Telefons nicht verifiziert sind, ist die [Kompatibilit
 
 
 
-| Ihre Tarife | Bevorzugter Netzbetreiber | Was macht ihn zur Empfehlung |
+| Vorhaben in Nordmazedonien | Passendes Netz | Der ausschlaggebende Punkt |
 
 
 
@@ -138,7 +135,7 @@ Wenn die eSIM-Daten Ihres Telefons nicht verifiziert sind, ist die [Kompatibilit
 
 
 
-💡 Eine Multi-Netzwerk-[Nordmazedonien eSIM](/macedonia-esim/) wählt automatisch zwischen A1 und Telekom neu aus — die praktische Lösung für deren jeweils gegensätzliche Schwachstellen auf der E75-Korridor und rund um Tetovo.
+💡 Ein Mehrnetz-[Nordmazedonien eSIM](/macedonia-esim/) wählt automatisch zwischen A1 und Telekom neu aus – die praktische Lösung für deren gegensätzliche Schwachstellen auf dem E75-Korridor und rund um Tetovo.
 
 
 
@@ -154,7 +151,7 @@ Wenn die eSIM-Daten Ihres Telefons nicht verifiziert sind, ist die [Kompatibilit
 
 
 
-### A1 vs Telekom vs MTEL: das Nordmazedonien-eSIM-Scorecard
+### A1, Makedonski Telekom und MTEL im direkten Vergleich
 
 
 
@@ -170,7 +167,7 @@ Zwei dieser Marken besitzen ihre Sendemasten und eine mietet sie, und nur ein Pr
 
 
 
-| | Mazedonisch Telekom | A1 Mazedonien | MTEL |
+| | Makedonski Telekom | A1 Mazedonien | MTEL |
 
 
 
@@ -258,7 +255,7 @@ A1 (ehemals VIP) ist die schnelle, auf Städte fokussierte Alternative: starke 5
 
 
 
-Lycamoiles mazedonische Aktivitäten wurden Ende 2024 verkauft und als MTEL neu gestartet, das als MVNO-ähnlicher Dienst im Netz von A1 mit aggressiver Preisgestaltung läuft — die mSTART-SIM kostet etwa 700 MKD mit 5 GB pro Monat plus unbegrenzten Anrufen für drei Monate. Zwei ehrliche Einschränkungen: Berichten zufolge verliert das Netz außerhalb städtischer Gebiete den Empfang (es nutzt A1s ländliche Karte mit niedrigerer Priorität), und das Balkan-Roaming-Volumen beträgt nur 1 GB. Es ist eine Budgetoption für Städte, nicht für Roadtrips.
+Lycamobiles mazedonische Aktivitäten wurden Ende 2024 verkauft und als MTEL neu gestartet, das als MVNO-ähnlicher Dienst im Netz von A1 mit aggressiver Preisgestaltung läuft — die mSTART-SIM kostet etwa 700 MKD mit 5 GB pro Monat plus unbegrenzten Anrufen für drei Monate. Zwei ehrliche Einschränkungen: Berichten zufolge verliert das Netz außerhalb städtischer Gebiete den Empfang (es nutzt A1s ländliche Karte mit niedrigerer Priorität), und das Balkan-Roaming-Volumen beträgt nur 1 GB. Es ist eine Budgetoption für Städte, nicht für Roadtrips.
 
 
 
@@ -266,7 +263,7 @@ Lycamoiles mazedonische Aktivitäten wurden Ende 2024 verkauft und als MTEL neu 
 
 
 
-### Nordmazedonien Preischeck: lokale eSIM vs. Reise-eSIM
+### Preischeck Nordmazedonien: Ladenkauf gegen Reise-Profil
 
 
 
@@ -274,7 +271,7 @@ Lycamoiles mazedonische Aktivitäten wurden Ende 2024 verkauft und als MTEL neu 
 
 
 
-**Unklar, und das ist die ehrliche Antwort.** A1 und Makedonski Telekom bewerben nicht zuverlässig eSIM-Produkte für Besucher, und die Situation an den Flughafen-Kiosken ist zwischen den Quellen umstritten. Sicher ist: Physische SIM-Karten werden in Stadtfilialen routinemäßig verkauft und registriert.
+**Unklar, und das ist die ehrliche Antwort.** A1 und Makedonski Telekom bewerben nicht zuverlässig fertige Besucher-Profile, und die Situation an den Flughafen-Kiosken ist zwischen den Quellen umstritten. Sicher ist: Physische SIM-Karten werden in Stadtfilialen routinemäßig verkauft und registriert.
 
 
 
@@ -306,7 +303,7 @@ Lycamoiles mazedonische Aktivitäten wurden Ende 2024 verkauft und als MTEL neu 
 
 
 
-### Was eSIM-Tarife in Nordmazedonien kosten
+### Was ein Datentarif in Nordmazedonien kostet
 
 
 
@@ -326,11 +323,11 @@ Lycamoiles mazedonische Aktivitäten wurden Ende 2024 verkauft und als MTEL neu 
 
 
 
-| Bei Aktivierung | DuÖffnungszeiten des Stores, nach der Landung | Vor dem Flug, in Ihrem eigenen WLAN |
+| Bei Aktivierung | Öffnungszeiten des Ladens nach der Landung | Vor dem Flug, in Ihrem eigenen WLAN |
 
 
 
-| Mazedonische Nummer | Yes | Nein — nur Datentarif |
+| Mazedonische Nummer | Ja | Nein — nur Datentarif |
 
 
 
@@ -358,7 +355,7 @@ Die Roaming-Option für die Region in dieser Tabelle ist die wichtigste Zeile. W
 
 
 
-## SIM-Karte registrieren: Was Sie erwartet
+## SIM-Karte in Nordmazedonien registrieren: Was Sie erwartet
 
 
 
@@ -466,7 +463,21 @@ Wählen Sie für eine Balkan-Rundreise Ihren Netzbetreiber nach dessen Roaming-V
 
 
 
-Preiskontext: [Die weltweite Erhebung von Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) beziffert 1 GB auf ungefähr **0,86 USD** — Platz 86 von 237 Märkten, deutlich unter der Hälfte des weltweiten Durchschnitts — und [der Global Index von Ookla](https://www.speedtest.net/global-index/north-macedonia) hat das Land in jüngsten Ausgaben bis auf **Platz 15 weltweit bei mobiler Geschwindigkeit** (Median ~165 Mbps bei 18 ms Latenz) eingestuft. [Der Digital-Bericht 2025 von DataReportal](https://datareportal.com/reports/digital-2025-north-macedonia) verzeichnet 2,65 Millionen Mobilfunkanschlüsse. Ein kleines Land, ernstzunehmende Netze.
+### Die Grenzen Nordmazedoniens und was Ihr Profil dort macht
+
+Nordmazedonien grenzt an fünf Länder, und jede Grenze hat ihren Hauptübergang. Was mit Ihrem Datentarif passiert, hängt davon ab, welche Länder er einschließt:
+
+| Grenze | Hauptübergang | Was mit Ihrem Tarif passiert |
+|:---|:---|:---|
+| Griechenland | Bogorodica/Evzoni auf der A1/E75, an der Strecke Skopje–Thessaloniki | Das 10-GB-Regionalpaket von Telekom deckt Griechenland nicht ab, hier hilft nur ein eigener Griechenland-Tarif |
+| Albanien | Qafë Thanë (Kjafasan) bei Struga, direkt an der Straße von Ohrid | Liegt im regionalen Abkommen und ist in der Regional-Option von Telekom enthalten |
+| Serbien | Tabanovce/Preševo auf dem E75 Richtung Belgrad | Der verkehrsreichste Übergang des Landes und im Regionalpaket enthalten |
+| Kosovo | Blace nördlich von Skopje | Im Regionalpaket enthalten und die kürzeste Strecke Skopje–Pristina |
+| Bulgarien | Deve Bair/Gyueshevo bei Kriva Palanka | Außerhalb des regionalen Abkommens – wer über Sofia weiterfährt, braucht einen eigenen Bulgarien-Tarif |
+
+Für eine Rundreise mit zwei oder mehr Grenzen ist deshalb nicht der Listenpreis entscheidend, sondern die Frage, wie viel regionales Datenvolumen im Tarif steckt. Ein Nur-Nordmazedonien-Profil endet an der Grenze, ohne dass das Telefon einen Fehler zeigt.
+
+Preiskontext: [Die weltweite Erhebung von Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) beziffert 1 GB auf ungefähr **0,86 USD** — Platz 86 von 237 Märkten, deutlich unter der Hälfte des weltweiten Durchschnitts — und [der Global Index von Ookla](https://www.speedtest.net/global-index/north-macedonia) hat Nordmazedonien in jüngsten Ausgaben bis auf **Platz 15 weltweit bei mobiler Geschwindigkeit** (Median ~165 Mbps bei 18 ms Latenz) eingestuft. [Der Digital-Bericht 2025 von DataReportal](https://datareportal.com/reports/digital-2025-north-macedonia) verzeichnet 2,65 Millionen Mobilfunkanschlüsse. Ein kleines Land, ernstzunehmende Netze.
 
 
 
@@ -474,7 +485,7 @@ Preiskontext: [Die weltweite Erhebung von Cable.co.uk](https://www.cable.co.uk/m
 
 
 
-## Netzabdeckung nach Region
+## Nordmazedonien: Empfang von Skopje bis zum Ohridsee
 
 
 
@@ -482,7 +493,7 @@ Preiskontext: [Die weltweite Erhebung von Cable.co.uk](https://www.cable.co.uk/m
 
 
 
-| Region | Netzabdeckung in der Praxis | Bester Netzbetreiber | Worauf Sie achten sollten |
+| Landesteil in Nordmazedonien | Empfang in der Praxis | Stärkstes Netz | Der Haken |
 
 
 
@@ -518,7 +529,7 @@ Preiskontext: [Die weltweite Erhebung von Cable.co.uk](https://www.cable.co.uk/m
 
 
 
-| Östliches Weingebiet (Negotino, Demir Kapija) | Gut entlang der Hauptstraße | Beliebig | ViNebenstraßen zu den Weingütern fallen aus |
+| Östliches Weingebiet (Negotino, Demir Kapija) | Gut entlang der Hauptstraße | Beliebig | Nebenstraßen zu den Weingütern fallen aus |
 
 
 
@@ -538,7 +549,7 @@ Preiskontext: [Die weltweite Erhebung von Cable.co.uk](https://www.cable.co.uk/m
 
 
 
-- **Die Autobahnen werden von allen abgedeckt; die Nebenstraßen nicht.** Die Geografie Nordmazedoniens besteht aus Tälern und Schluchten, und der Empfang folgt den Verkehrskorridoren.
+- **Die Autobahnen werden von allen abgedeckt; die Nebenstraßen nicht.** Die Geografie Nordmazedoniens besteht aus Tälern und Schluchten, und der Empfang folgt den Verkehrskorridoren; eine Funkzelle sitzt dort, wo eine Straße sie wirtschaftlich macht.
 
 
 
@@ -558,6 +569,14 @@ Preiskontext: [Die weltweite Erhebung von Cable.co.uk](https://www.cable.co.uk/m
 
 
 
+- **Für eine Rundreise zählt ein Mehrländer-Tarif mehr als eine lokale SIM pro Land.** Wer drei Grenzen überquert, sammelt sonst drei einzelne Karten und drei Registrierungsbesuche.
+
+
+
+
+
+
+
 Grenzübertritt? Die gleichen Aufschlüsselungen gelten für unseren [Griechenland-eSIM-Guide](/carriers/greece-esim-carrier-guide/), unsere [Albanien-eSIM-Seite](/albania-esim/), unsere [Bulgarien-eSIM-Tarife](/bulgaria-esim/) und unseren [Montenegro-eSIM-Guide](/carriers/montenegro-esim-carrier-guide/) – wobei der letzte den regionalen Roaming-Aspekt aus der anderen Richtung beleuchtet.
 
 
@@ -566,7 +585,7 @@ Grenzübertritt? Die gleichen Aufschlüsselungen gelten für unseren [Griechenla
 
 
 
-## Einen Nord-Mazedonien-eSIM besorgen
+## Eine Nordmazedonien-eSIM besorgen
 
 
 
@@ -574,7 +593,7 @@ Grenzübertritt? Die gleichen Aufschlüsselungen gelten für unseren [Griechenla
 
 
 
-| Route | Voraussetzungen | Am besten geeignet für |
+| Weg zur Nordmazedonien-eSIM | Was nötig ist | Für wen er taugt |
 
 
 
@@ -614,7 +633,7 @@ Die einzige Variante, die sowohl den umstrittenen Kiosk am Flughafen als auch di
 
 
 
-1. Prüfen Sie die eSIM-Unterstützung und ein entsperrtes Handy auf der [Seite zur eSIM-Kompatibilität](/compatibility/).
+1. Prüfen Sie auf der [Liste kompatibler Geräte](/compatibility/), ob Ihr Handy eSIM-fähig und entsperrt ist.
 
 
 
@@ -694,7 +713,7 @@ Die einzige Variante, die sowohl den umstrittenen Kiosk am Flughafen als auch di
 
 
 
-**Vor dem Kauf.** Prüfen Sie, ob das Telefon entsperrt und eSIM-fähig ist ([Liste kompatibler Geräte](/compatibility/)), und notieren Sie Ihre EID, indem Sie `*#06#` wählen. Installieren Sie ein bereits gekauftes Profil noch vor der Abreise — die Tarifulhr startet, sobald das Profil erstmals einen mazedonischen Sendemast erreicht.
+**Vor dem Kauf.** Prüfen Sie, ob das Telefon entsperrt und eSIM-fähig ist (die Liste kompatibler Geräte oben), und notieren Sie Ihre EID, indem Sie `*#06#` wählen. Installieren Sie ein bereits gekauftes Profil noch vor der Abreise — die Tarifulhr startet, sobald das Profil erstmals einen mazedonischen Sendemast erreicht.
 
 
 
@@ -702,7 +721,7 @@ Die einzige Variante, die sowohl den umstrittenen Kiosk am Flughafen als auch di
 
 
 
-## Ist Ihr Handy eSIM-kompatibel?
+## Ist Ihr Handy für Nordmazedonien eSIM-kompatibel?
 
 
 
@@ -726,7 +745,7 @@ A1 und Makedonski Telekom nutzen die üblichen europäischen 4G/5G-Frequenzbänd
 
 
 
-| Gerätesituation | Symptom | Was zu tun ist |
+| Gerät und Netz in Nordmazedonien | Symptom | Der Ausweg |
 
 
 
@@ -734,7 +753,7 @@ A1 und Makedonski Telekom nutzen die üblichen europäischen 4G/5G-Frequenzbänd
 
 
 
-| Betreibergesperrtes Handy | eSIM lässt sich nicht installieren oder bleibt ohne Empfang | Ihr ursprünglicher Netzbetreiber muss es entsperren — kein Balkan-Anbieter kann das |
+| Betreibergesperrtes Handy mit aktivem SIM-Lock | eSIM lässt sich nicht installieren oder bleibt ohne Empfang | Ihr ursprünglicher Netzbetreiber muss es entsperren — kein Balkan-Anbieter kann das |
 
 
 
@@ -790,7 +809,7 @@ Mit zwei Kurzwahlen und einem Einstellungsmenü lässt sich klären, ob Ihr Ger�
 
 
 
-## Manuelle APN-Einrichtung
+## APN in Nordmazedonien von Hand setzen – nur in diesen vier Fällen
 
 
 
@@ -806,7 +825,7 @@ Reise-eSIM-Profile bringen ihren eigenen APN mit. Bei lokal gekauften SIM-Karten
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Mazedonisches Netz | Zugangspunkt (APN) | Nutzer | Passwort |
 
 
 
@@ -830,7 +849,7 @@ Reise-eSIM-Profile bringen ihren eigenen APN mit. Bei lokal gekauften SIM-Karten
 
 
 
-### North Macedonia Netzbetreiber APN-Werte
+### APN-Werte der drei Nordmazedonien-Netze
 
 
 
@@ -846,7 +865,7 @@ Selten bei einem verwalteten Profil – dies sind die mazedonischen Fälle, in d
 
 
 
-- Sie haben eine Netzbetreiber-Leitung gekauft statt eine verwaltete Reise-eSIM
+- Sie haben im Laden eine A1- oder Telekom-Leitung gekauft statt ein verwaltetes Reise-Profil
 
 
 
@@ -866,7 +885,7 @@ Selten bei einem verwalteten Profil – dies sind die mazedonischen Fälle, in d
 
 
 
-### Wenn ein North Macedonia APN manuell eingegeben werden muss
+### Wann der APN in Nordmazedonien wirklich von Hand gesetzt wird
 
 
 
@@ -874,7 +893,7 @@ Selten bei einem verwalteten Profil – dies sind die mazedonischen Fälle, in d
 
 
 
-Beim iPhone geht es unter Einstellungen → Mobiles Netz → [die Telekom oder A1 Leitung → Mobilfunknetz; bei Android unter Einstellungen → Netzwerk & Internet → Zugangspunkte. Speichern, neu starten und dann prüfen, dass die mazedonische Leitung die Datenverbindung übernimmt – und zuerst die Aktivierungskarte prüfen, da die Anweisungen des Netzbetreibers diese Tabelle übersteuern.
+Beim iPhone: Einstellungen → Mobilfunk → die Telekom- oder A1-Leitung → Mobilfunknetz; bei Android: Einstellungen → Netzwerk & Internet → Zugangspunkte. Speichern, neu starten und dann prüfen, dass die mazedonische Leitung die Datenverbindung übernimmt – und zuerst die Aktivierungskarte prüfen, da die Anweisungen des Netzbetreibers diese Tabelle übersteuern.
 
 
 
@@ -882,7 +901,7 @@ Beim iPhone geht es unter Einstellungen → Mobiles Netz → [die Telekom oder A
 
 
 
-## North Macedonia eSIM aktiviert sich nicht? Hier starten
+## Nordmazedonien-eSIM aktiviert sich nicht? Hier starten
 
 
 
@@ -898,7 +917,7 @@ Die Installation erfolgt in vier Schritten – QR-Scan, Leitungsbezeichnung, Dat
 
 
 
-### North Macedonia eSIM vor dem Flug: sechs Checks, die Sie zu Hause erledigen
+### Sechs Checks für die Nordmazedonien-eSIM vor dem Abflug
 
 
 
@@ -926,11 +945,11 @@ Gehen Sie diese durch, bevor Sie an Bord gehen – bei der Landung erwartet Sie 
 
 
 
-| 2 | Telefon unterstützt eSIM | EID wird angezeigt von `*#06#` |
+| 2 | Das Handy nimmt ein eSIM-Profil an | `*#06#` zeigt neben der IMEI eine EID |
 
 
 
-| 3 | QR-Code gespeichert | Screenshot auf dem Handy und in der Cloud |
+| 3 | QR-Code doppelt gesichert | Screenshot im Handy und in der Cloud, falls das Profil neu aufgesetzt werden muss |
 
 
 
@@ -946,7 +965,7 @@ Gehen Sie diese durch, bevor Sie an Bord gehen – bei der Landung erwartet Sie 
 
 
 
-| 6 | Regionaltarif geprüft | Sie wissen, welche Nachbarländer von Ihrem Datentarif abgedeckt sind |
+| 7 | Regionaltarif geprüft | Sie wissen, welche Nachbarländer Ihr Datentarif abdeckt |
 
 
 
@@ -982,6 +1001,14 @@ Gehen Sie diese durch, bevor Sie an Bord gehen – bei der Landung erwartet Sie 
 
 
 
+5. **Hotspot und Tethering vorab klären.** Wer den Laptop über das Handy mitversorgt, fragt bei einer lokal gekauften A1- oder Telekom-Karte an der Theke nach, ob Tethering im Tarif enthalten ist.
+
+
+
+
+
+
+
 ### Nordmazedonien: die Auswahl an Netzbetreibern
 
 
@@ -990,39 +1017,19 @@ Gehen Sie diese durch, bevor Sie an Bord gehen – bei der Landung erwartet Sie 
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das A1- oder Telekom-Profil wird beim Scan abgewiesen**
 
 
 
-1. „Über das Gerät" -> „Netzbetreiber-Sperre" prüfen: „Keine SIM-Beschränkungen" wird erwartet
+1. Prüfen Sie unter „Über das Gerät“ die Netzbetreiber-Sperre: Dort muss „Keine SIM-Beschränkungen“ stehen, sonst weist das Gerät jedes fremde Profil ab
 
 
 
-2. Sicherstellen, dass kein vorheriger Scan erfolgte — die Codes verfallen nach dem ersten Gebrauch
+2. Der Aktivierungscode von A1 oder Telekom ist einmalig – ein zweiter Scan meldet „Code bereits verwendet“
 
 
 
-3. Der Anbieter kann bestätigen, ob das Profil noch aussteht
-
-
-
-
-
-
-
-**B. Installiert, aber keine Signalbalken**
-
-
-
-1. Die eSIM-Leitung aus- und wieder einschalten
-
-
-
-2. Einstellungen → Mobilfunk → Netzwerkauswahl → Telekom oder A1 manuell wählen
-
-
-
-3. Das Telefon neu starten, dann bei Bedarf die Netzwerkeinstellungen zurücksetzen
+3. Beim Anbieter nachfragen, ob das Profil noch auf „ausstehend“ steht; dann wird es neu ausgestellt statt neu gekauft
 
 
 
@@ -1030,23 +1037,19 @@ Gehen Sie diese durch, bevor Sie an Bord gehen – bei der Landung erwartet Sie 
 
 
 
-**C. Signalbalken, aber kein Internet**
+**B. Installiert, aber in Skopje kein einziges Balkensignal**
 
 
 
-1. Den APN mit der Zeile Ihres Netzbetreibers in der Tabelle erneut abgleichen
+1. Die Datenleitung aus- und wieder einschalten, damit sie sich neu an einen Sendemast hängt
 
 
 
-2. Sicherstellen, dass mobile Daten auf die eSIM-Leitung zeigen
+2. Über Einstellungen → Mobilfunk → Netzwerkauswahl manuell Telekom wählen – auf dem Land ist Telekom meist das stärkere der beiden Netze
 
 
 
-3. Roaming für diese Leitung aktivieren — die Telefonebene allein reicht nicht
-
-
-
-4. Prüfen, ob das Datenguthaben nicht aufgebraucht ist
+3. Das Handy neu starten und erst danach die Netzwerkeinstellungen zurücksetzen, nicht vorher
 
 
 
@@ -1054,19 +1057,43 @@ Gehen Sie diese durch, bevor Sie an Bord gehen – bei der Landung erwartet Sie 
 
 
 
-**D. Funktioniert in Skopje, im Westen oder in den Parks tot**
+**C. Balken stehen, aber es fließen keine Daten**
 
 
 
-1. Sie sind auf die Karte des schwächeren Netzbetreibers geraten — Telekom ist die Lösung
+1. Den APN mit der Zeile Ihres Netzes in der Tabelle oben abgleichen
 
 
 
-2. Manuelle Netzwahl versuchen
+2. Sicherstellen, dass die mobilen Daten auf die Reiseleitung zeigen und nicht auf die Heimat-SIM
 
 
 
-3. Denken Sie daran: die Schlucht von Matka und die Wege des Pelister sind bei allen drei Netzen tot
+3. Das Datenroaming für die Reiseleitung einschalten – Nordmazedonien liegt außerhalb der EU-Roam-like-at-home-Zone, deshalb muss Roaming hier ausdrücklich aktiv sein
+
+
+
+4. Prüfen, ob Guthaben oder Datenvolumen im lokalen Tarif noch reichen
+
+
+
+
+
+
+
+**D. In Skopje läuft es, rund um Tetovo oder am Matka-Canyon bricht es ab**
+
+
+
+1. Sie sind im schwächeren Netz gelandet – rund um Tetovo und auf dem E75-Abschnitt bei Demir Kapija hält meist nur Telekom die Verbindung
+
+
+
+2. Die manuelle Netzwahl erzwingen und zuerst Telekom, danach A1 probieren
+
+
+
+3. Der Matka-Canyon und die Höhenwege am Pelister bleiben bei allen drei Netzen ohne Empfang – das ist Geografie, kein Fehler
 
 
 
@@ -1082,7 +1109,7 @@ Gehen Sie diese durch, bevor Sie an Bord gehen – bei der Landung erwartet Sie 
 
 
 
-Halten Sie dies bereit, bevor Sie den Chat öffnen — bei einer lokalen Telekom- oder A1-Leine fragt der Support zuerst nach dem Registrierungsstatus.
+Halten Sie dies bereit, bevor Sie den Chat öffnen — bei einer lokalen Telekom- oder A1-Leitung fragt der Support zuerst nach dem Registrierungsstatus.
 
 
 
@@ -1110,7 +1137,7 @@ Halten Sie dies bereit, bevor Sie den Chat öffnen — bei einer lokalen Telekom
 
 
 
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Screenshot des Fehlers | Noch im Dialog aufnehmen – A1 und Telekom fragen im Chat zuerst danach |
 
 
 
@@ -1118,7 +1145,7 @@ Halten Sie dies bereit, bevor Sie den Chat öffnen — bei einer lokalen Telekom
 
 
 
-| Daten-Roaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Roaming-Schalter der Datenleitung | Einstellungen → Mobilfunk → Reiseleitung → Datenroaming |
 
 
 
@@ -1142,7 +1169,7 @@ Halten Sie dies bereit, bevor Sie den Chat öffnen — bei einer lokalen Telekom
 
 
 
-Der Verkauf lokaler Prepaid-eSIMs an Besucher ist bestenfalls unklar — A1 und Telekom werben nicht zuverlässig mit Besucher-eSIMs, und die Situation an den Kiosken am Flughafen ist umstritten. Die verlässliche Variante ist eine Reise-eSIM, die Sie online kaufen, bevor Sie fliegen, oder eine registrierte physische SIM aus einem Laden in der Stadt.
+Der Verkauf lokaler Prepaid-Profile an Besucher ist bestenfalls unklar – A1 und Telekom werben nicht zuverlässig damit, und die Situation an den Kiosken am Flughafen ist umstritten. Die verlässliche Variante ist eine Reise-eSIM, die Sie online kaufen, bevor Sie fliegen, oder eine registrierte physische SIM aus einem Laden in der Stadt.
 
 
 
@@ -1158,7 +1185,7 @@ Der Verkauf lokaler Prepaid-eSIMs an Besucher ist bestenfalls unklar — A1 und 
 
 
 
-Yes — die Reisepassregistrierung ist obligatorisch und wird direkt an der Verkaufsstelle mit einem Scannen des Dokuments und manchmal einem Foto durchgeführt; das dauert 10–15 Minuten. Online gekaufte Reise-eSIMs umgehen den Schalter — der Anbieter registriert sie bereits im Voraus.
+Ja — die Reisepassregistrierung ist obligatorisch und wird direkt an der Verkaufsstelle mit einem Scannen des Dokuments und manchmal einem Foto durchgeführt; das dauert 10–15 Minuten. Online gekaufte Reise-eSIMs umgehen den Schalter — der Anbieter registriert sie bereits im Voraus.
 
 
 
@@ -1166,7 +1193,7 @@ Yes — die Reisepassregistrierung ist obligatorisch und wird direkt an der Verk
 
 
 
-### Kurztrip versus langer Aufenthalt in Nordmazedonien
+### Welches Netz eignet sich für eine Rundreise durch den Westbalkan?
 
 
 
@@ -1206,7 +1233,7 @@ Unzuverlässig. Die Quellen sind sich uneinig, ob es in den Ankunftshallen Kiosk
 
 
 
-Yes in den Städten — A1 hat in Zentrum von Skopje eine starke 5G-Präsenz und Telekom baut sie parallel aus. Im ländlichen Mazedonien bleibt es bei 4G, mit den oben kartierten Versorgungslücken.
+Ja in den Städten — A1 hat in Zentrum von Skopje eine starke 5G-Präsenz und Telekom baut sie parallel aus. Im ländlichen Mazedonien bleibt es bei 4G, mit den oben kartierten Versorgungslücken.
 
 
 
@@ -1238,7 +1265,7 @@ Er funktioniert im Roaming, allerdings zu gedeckelten regionalen Tarifen — Nor
 
 
 
-Yes — und auf Telekom oder einem Multinetz-Profil hält sie rund um den größten Teil des Sees, einschließlich des ruhigeren gegenüberliegenden Ufers. A1 ist in Ohrid-Stadt stark und wird darüber hinaus schwächer.
+Ja — und auf Telekom oder einem Multinetz-Profil hält sie rund um den größten Teil des Sees, einschließlich des ruhigeren gegenüberliegenden Ufers. A1 ist in Ohrid-Stadt stark und wird darüber hinaus schwächer.
 
 
 
@@ -1246,7 +1273,7 @@ Yes — und auf Telekom oder einem Multinetz-Profil hält sie rund um den größ
 
 
 
-### Wie viele GB sollte man für Nordmazedonien laden?
+### Wie viele Gigabyte reichen für Nordmazedonien?
 
 
 
@@ -1270,7 +1297,7 @@ Yes — und auf Telekom oder einem Multinetz-Profil hält sie rund um den größ
 
 
 
-Yes, ungewöhnlich für seine Größe. [Ookla's Global Index](https://www.speedtest.net/global-index/north-macedonia) hat es weltweit bereits auf Platz 15 für mobile Geschwindigkeit eingestuft, mit Medianwerten um 165 Mbps und einer Latenz nahe 18 ms. Die praktische Grenze ist die Netzabdeckung, nicht der Durchsatz.
+Ja, ungewöhnlich für seine Größe. [Ooklas Speedtest Global Index](https://www.speedtest.net/global-index/north-macedonia) hat es weltweit bereits auf Platz 15 für mobile Geschwindigkeit eingestuft, mit Medianwerten um 165 Mbps und einer Latenz nahe 18 ms. Die praktische Grenze ist die Netzabdeckung, nicht der Download.
 
 
 
@@ -1278,7 +1305,7 @@ Yes, ungewöhnlich für seine Größe. [Ookla's Global Index](https://www.speedt
 
 
 
-### Welche Ausweisdokumente für den SIM-Kauf in Nordmazedonien nötig sind
+### Gibt es in Nordmazedonien eine anonyme Prepaid-SIM?
 
 
 
@@ -1310,7 +1337,7 @@ Nur wenn Ihre Reise städtisch und kurz ist. MTEL ist die günstigste Option und
 
 
 
-### Aufbau eines nordmazedonischen Datentarifs
+### Was passiert mit meinem Tarif an der Grenze zu Albanien oder Griechenland?
 
 
 
@@ -1318,7 +1345,7 @@ Nur wenn Ihre Reise städtisch und kurz ist. MTEL ist die günstigste Option und
 
 
 
-Ihre Leitung funktioniert entweder nicht mehr oder berechnet Roaming-Gebühren, je nach Tarif, und eine reine Daten-Reise-eSIM funktioniert dort möglicherweise überhaupt nicht. Prüfen Sie dies vor der Fahrt, nicht an der Grenze — der Parkplatz der Grenzpolizei ist ein schlechter Ort, um AGB zu lesen.
+Ihre Leitung funktioniert entweder nicht mehr oder berechnet Roaming-Gebühren, je nach Tarif, und eine reine Daten-Reise-eSIM funktioniert dort möglicherweise überhaupt nicht. Prüfen Sie dies vor der Fahrt, nicht an der Grenze — der Parkplatz der Grenzpolizei ist ein schlechter Ort, um AGB zu lesen. Klären Sie außerdem, wie Sie unterwegs nachladen können, bevor das Datenvolumen leer ist – nicht an der Grenze selbst.
 
 
 
@@ -1342,7 +1369,7 @@ Für einen Städtetrip in einem einzelnen Land eine Reise-eSIM. Für eine region
 
 
 
-### Die günstigsten Tarife in Nordmazedonien
+### Wie günstig sind mobile Daten in Nordmazedonien?
 
 
 
@@ -1350,7 +1377,7 @@ Für einen Städtetrip in einem einzelnen Land eine Reise-eSIM. Für eine region
 
 
 
-Yes — rund 0,86 USD pro Gigabyte, weit unter der Hälfte des weltweiten Durchschnitts, in einem Markt, der bei der mobilen Geschwindigkeit wiederholt zu den schnellsten der Welt zählte. Der begrenzende Faktor ist die Netzabdeckung in den Parks, nicht Preis oder Bandbreite.
+Ja — rund 0,86 USD pro Gigabyte, weit unter der Hälfte des weltweiten Durchschnitts, in einem Markt, der bei der mobilen Geschwindigkeit wiederholt zu den schnellsten der Welt zählte. Der begrenzende Faktor ist die Netzabdeckung in den Parks, nicht Preis oder Bandbreite.
 
 
 
@@ -1358,7 +1385,7 @@ Yes — rund 0,86 USD pro Gigabyte, weit unter der Hälfte des weltweiten Durchs
 
 
 
-### Welcher Netzbetreiber hat die größte Netzabdeckung in Nordmazedonien?
+### Was ist der sicherste Weg zur ersten Verbindung in Nordmazedonien?
 
 
 
@@ -1390,7 +1417,7 @@ Selten. Hotels, Restaurants und Reiseveranstalter in Skopje kommunizieren über 
 
 
 
-Weitere Fragen? [View the full FAQ →](/faq/)
+Noch etwas offen? [Zur FAQ-Übersicht](/faq/)
 
 
 
@@ -1450,7 +1477,7 @@ Nur unabhängige Messungen. Die Angaben zur regionalen Netzabdeckung beruhen auf
 
 
 
-Laden Sie das Profil zu Hause und lassen Sie es beim Wechsel von Skopje nach Ohrid automatisch zwischen A1 und Telekom wechseln — kein Kiosk, kein Registrierungsschalter, kein Rätselraten, was geöffnet hat. Starten Sie mit einer [Roami's kostenlosen Test-eSIM](/free-esim/) und wählen Sie anschließend einen Tarif auf der [Nordmazedonien-eSIM-Seite](/macedonia-esim/). Fahren Sie anschließend weiter nach Süden? Unser [Griechenland-eSIM-Leitfaden](/carriers/greece-esim-carrier-guide/) kümmert sich um das nächste Netz.
+Laden Sie das Profil zu Hause und lassen Sie es beim Wechsel von Skopje nach Ohrid automatisch zwischen A1 und Telekom wechseln — kein Kiosk, kein Registrierungsschalter, kein Rätselraten, was geöffnet hat. Starten Sie mit einer [kostenlose Roami-Test-eSIM](/free-esim/) und wählen Sie anschließend einen Tarif auf der Nordmazedonien-eSIM-Seite. Fahren Sie anschließend weiter nach Süden? Unser [Griechenland-eSIM-Leitfaden](/carriers/greece-esim-carrier-guide/) kümmert sich um das nächste Netz.
 
 
 
@@ -1458,7 +1485,7 @@ Laden Sie das Profil zu Hause und lassen Sie es beim Wechsel von Skopje nach Ohr
 
 
 
-[Nordmazedonien-eSIM-Tarife vergleichen](/macedonia-esim/) · [Kostenlosen Test sichern](/free-esim/) · [Nordmazedonien-eSIM-Seite](/macedonia-esim/)
+[Nordmazedonien-eSIM-Tarife vergleichen](/macedonia-esim/) · [Kostenlosen Test sichern](/free-esim/) · alle Nordmazedonien-Tarife im Überblick
 
 
 
@@ -1466,7 +1493,7 @@ Laden Sie das Profil zu Hause und lassen Sie es beim Wechsel von Skopje nach Ohr
 
 
 
-Der praktische Rat: Testen Sie zuerst mit Roami's [kostenlosem Multinetz-Test](/free-esim/) — er nutzt dieselbe Infrastruktur wie die lokalen Netze — und entscheiden Sie sich dann mit dem Code **WEB20** für 20 % Rabatt für einen kostenpflichtigen Roami-Tarif, falls Nordmazedonien ein regelmäßiges Reiseziel wird. Bereit zum Kauf? Der Test ist in zwei Minuten eingerichtet.
+Der praktische Rat: Testen Sie zuerst mit Roamis kostenlosem Multinetz-Test – er nutzt dieselbe Infrastruktur wie die lokalen Netze — und entscheiden Sie sich dann mit dem Code **WEB20** für 20 % Rabatt für einen kostenpflichtigen Roami-Tarif, falls Nordmazedonien ein regelmäßiges Reiseziel wird. Bereit zum Kauf? Der Test ist in zwei Minuten eingerichtet.
 
 
 

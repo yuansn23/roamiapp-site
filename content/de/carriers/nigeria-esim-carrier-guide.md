@@ -1,8 +1,7 @@
 ---
 
-title: "Nigeria eSIM-Netzbetreiber für Visitoren: MTN, Airtel, Glo"
-
-description: "Die Netzbetreiber in Nigeria verlangen eine NIN, die Sie nicht haben. Roami vergleicht MTN, Airtel, Glo und T2 – und die eSIM-Route, die die Warteschlange umgeht."
+title: "Nigeria eSIM: MTN, Airtel oder Glo ohne NIN kaufen"
+description: "Nigeria eSIM im Vergleich: MTN, Airtel, Glo und T2 nach Netzabdeckung, NIN-Pflicht und Preisen – und der Weg daran vorbei."
 image: "img/esim/carriers/nigeria-esim-carrier-guide.jpg"
 
 date: "2026-09-24T17:17:28+00:00"
@@ -42,7 +41,7 @@ Wenn Sie zunächst prüfen müssen, ob Ihr Telefon überhaupt eine eSIM nutzen k
 
 
 
-**Die kurze Antwort:** One-Netzbetreiber dominiert. **MTN hält 51,87 % des Marktes** (93 Millionen Anschlüsse, NCC Dezember 2025) und hat im 2H 2024 jede Ookla-Mobilfunkauszeichnung gewonnen – insgesamt am schnellsten (Median 24,25 Mbps), schnellstes 5G (231,39 Mbps), bestes Video, bestes Gaming, beste Konstanz. Airtel (33,9 %) ist eine echte Nummer zwei; Glo (12,4 %) fällt bei der Geschwindigkeit deutlich ab; T2, das umbenannte 9mobile, spielt mit 1,8 % nur eine Randrolle. Touristen dürfen eine SIM legal nur mit Reisepass kaufen – keine NIN erforderlich –, aber der Verkauf erfolgt in einem Netzbetreiber-Store in der Stadt, nicht am Flughafen, und Netzbetreiber-eSIMs erfordern eine persönliche Verifizierung. Für eine Reise, die nach Tagen gemessen wird, umgehen die [Nigeria-eSIM-Datentarife von Roami](/nigeria-esim/) das alles, und eine [kostenlose Multi-Netz-Test-eSIM](/free-esim/) testet das Netz, bevor Sie sich festlegen.
+**Die kurze Antwort:** Ein einziger Anbieter dominiert. **MTN hält 51,87 % des Marktes** (93 Millionen Anschlüsse, NCC Dezember 2025) und hat im 2H 2024 jede Ookla-Mobilfunkauszeichnung gewonnen – insgesamt am schnellsten (Median 24,25 Mbps), schnellstes 5G (231,39 Mbps), bestes Video, bestes Gaming, beste Konstanz. Airtel (33,9 %) ist eine echte Nummer zwei; Glo (12,4 %) fällt bei der Geschwindigkeit deutlich ab; T2, das umbenannte 9mobile, spielt mit 1,8 % nur eine Randrolle. Touristen dürfen eine SIM legal nur mit Reisepass kaufen – keine NIN erforderlich –, aber der Verkauf erfolgt in einem Netzbetreiber-Store in der Stadt, nicht am Flughafen, und Netzbetreiber-eSIMs erfordern eine persönliche Verifizierung. Für eine Reise, die nach Tagen gemessen wird, umgehen die Nigeria-eSIM-Datentarife von Roami das alles, und eine kostenlose Multi-Netz-Test-eSIM prüft das Netz, bevor Sie sich festlegen.
 
 
 
@@ -148,7 +147,7 @@ Die meisten Netzvergleiche in Nigeria enden beim mittleren Download. Hier ist di
 
 | 5G-Verfügbarkeit | **16,2 %** (höchster) | 6,2 % | — | — |
 
-| Vi Video-Streaming-Bewertung | **57.25** (am besten) | 49.58 unterer Bereich | 49.58 unterer Bereich | 49.58 unterer Bereich |
+| Video-Streaming-Bewertung | **57.25** (am besten) | 49.58 unterer Bereich | 49.58 unterer Bereich | 49.58 unterer Bereich |
 
 | Game Score | **65.11** (bester) | 58.82 unterer Bereich | 58.82 unterer Bereich | 58.82 unterer Bereich |
 
@@ -178,7 +177,7 @@ Die meisten Netzvergleiche in Nigeria enden beim mittleren Download. Hier ist di
 
 
 
-Three Punkte sind besonders hervorzuheben. Erstens: **ipNX – kein Mobilfunknetzbetreiber – ist der schnellste Festnetz-ISP in Nigeria**, was relevant ist, wenn Sie ein Hotel oder Büro eher nach der kabelgebundenen Leitung als nach dem Mobilfunksignal auswählen. Zweitens: Das 5G von Airtel ist tatsächlich schnell (174,66 Mbps im Median), doch die 5G-Verfügbarkeit von **6,2 %** beträgt weniger als die Hälfte derer von MTN – die Geschwindigkeit ist also real, die Reichweite hingegen nicht. Drittens: Ookla verzeichnete **keinen erstklassigen Mobilfunkanbieter in Nigeria** für den betreffenden Zeitraum: Die Verbraucherstimmung über die vier Netze hinweg lag in einer statistischen Gleichwertigkeit zwischen 2,95 und 3,29 von 5. Die Nigerianer mögen die Netze weniger, als sie auf sie angewiesen sind.
+Drei Punkte sind besonders hervorzuheben. Erstens: **ipNX – kein Mobilfunknetzbetreiber – ist der schnellste Festnetz-ISP in Nigeria**, was relevant ist, wenn Sie ein Hotel oder Büro eher nach der kabelgebundenen Leitung als nach dem Mobilfunksignal auswählen. Zweitens: Das 5G von Airtel ist tatsächlich schnell (174,66 Mbps im Median), doch die 5G-Verfügbarkeit von **6,2 %** beträgt weniger als die Hälfte derer von MTN – die Geschwindigkeit ist also real, die Reichweite hingegen nicht. Drittens: Ookla verzeichnete **keinen erstklassigen Mobilfunkanbieter in Nigeria** für den betreffenden Zeitraum: Die Verbraucherstimmung über die vier Netze hinweg lag in einer statistischen Gleichwertigkeit zwischen 2,95 und 3,29 von 5. Die Nigerianer mögen die Netze weniger, als sie auf sie angewiesen sind.
 
 
 
@@ -186,21 +185,21 @@ Three Punkte sind besonders hervorzuheben. Erstens: **ipNX – kein Mobilfunknet
 
 
 
-| Ihre Tarife | Empfohlener Netzbetreiber | Was macht ihn zur Empfehlung | Worauf Sie achten sollten |
+| Reisevorhaben in Nigeria | Passendes Netz | Stärkstes Argument | Der Stolperstein |
 
 |:---|:---|:---|:---|
 
-| Three-tägige Geschäftsreise, nur Lagos | MTN | Schnellste Stadt des Landes mit 40,26 Mbps und 83,3 % Konsistenz | Stoßzeitenstau auf der Insel und auf den Brücken |
+| Dreitägige Geschäftsreise, nur Lagos | MTN | Schnellste Stadt des Landes mit 40,26 Mbps und 83,3 % Konsistenz | Stoßzeitenstau auf der Insel und auf den Brücken |
 
 | Abuja-Meetings und Flughafentransfers | MTN, mit Airtel als Backup | Der 5G-Ausbau der Hauptstadt zählt zu den nutzbarsten im ganzen Land | Eine einzelne Glasfaserunterbrechung kann die Datendienste im gesamten FCT lahmlegen |
 
 | Geschäftsreise-Route durch mehrere Städte | MTN | Schnellste Verbindung in Lagos, Benin City, Ibadan, Port Harcourt und Kano | Die Überlandstraßen wechseln sich bei der Netzabdeckung zwischen den Netzbetreibern ab |
 
-| Vieo-Anrufe und Live-Demos | MTN | Bester Video-Score mit 57,25 und die geringste Latenz bei 48 ms | Bitten Sie um das Zimmer, das dem Router am nächsten liegt; das Hotel-WLAN schwankt stärker als das Mobilfunknetz |
+| Video-Anrufe und Live-Demos | MTN | Bester Video-Score mit 57,25 und die geringste Latenz bei 48 ms | Bitten Sie um das Zimmer, das dem Router am nächsten liegt; das Hotel-WLAN schwankt stärker als das Mobilfunknetz |
 
 | Günstiger Langzeitaufenthalt | Glo, sofern an Ihrer Adresse verfügbar | Günstigstes 1-GB-Paket der vier großen Netzbetreiber zwischen ₦300 und ₦750 | 7,77 Mbps im Median – das langsamste der drei großen Anbieter |
 
-| Wenn Sie in Lekki, Victoria Island oder Ikeja GRA übernachten, | MTN | Hier befinden sich die dichtesten 5G-Gebiete des Landes | Selbst innerhalb dieser Zonen ist die 5G-Netzabdeckung oft nur sporadisch verfügbar |
+| Übernachtung in Lekki, Victoria Island oder Ikeja GRA | MTN | Hier liegen die dichtesten 5G-Zonen des Landes | Selbst dort ist 5G oft nur sporadisch verfügbar |
 
 | Nordreise — Kano, Kaduna, Maiduguri | MTN | Größte Netzabdeckung und 5G in Kano und Maiduguri | Kano ist die am langsamsten gemessene Stadt mit 18,54 Mbps und 76,6 ms |
 
@@ -240,7 +239,7 @@ Vier Netze, vier unterschiedliche Antworten auf die Frage „wofür ist das eige
 
 
 
-**Was schiefläuft.** Das Netz ist hervorragend und das Guthaben ist im Verhältnis zu nigerianischen Einkommen teuer — die Erhöhung im Januar 2025 hat den Preisuntergrenze für 1 GB von ₦287,50 auf ₦431,25 und den Durchschnitt der vier Netze auf rund ₦475 angehoben. Überlastung ist die andere Realität: Lagos misst im Durchschnitt 40,26 Mbps, doch dieser Wert wurde über den ganzen Tag hinweg erhoben, und der Durchsatz zu Stoßzeiten auf dem Festland und der Third Mainland Bridge liegt deutlich darunter.
+**Was schiefläuft.** Das Netz ist hervorragend und das Guthaben ist im Verhältnis zu nigerianischen Einkommen teuer — die Erhöhung im Januar 2025 hat die Preisuntergrenze für 1 GB von ₦287,50 auf ₦431,25 und den Durchschnitt der vier Netze auf rund ₦475 angehoben. Überlastung ist die andere Realität: Lagos misst im Durchschnitt 40,26 Mbps, doch dieser Wert wurde über den ganzen Tag hinweg erhoben, und der Durchsatz zu Stoßzeiten auf dem Festland und der Third Mainland Bridge liegt deutlich darunter.
 
 
 
@@ -248,7 +247,7 @@ Vier Netze, vier unterschiedliche Antworten auf die Frage „wofür ist das eige
 
 
 
-### MTN vs. Airtel 5G: Wer ist besser in Nigeria?
+### Airtel Nigeria: 5G-Spitze mit dünner Reichweite
 
 
 
@@ -276,7 +275,7 @@ Vier Netze, vier unterschiedliche Antworten auf die Frage „wofür ist das eige
 
 
 
-### MTN vs. Airtel: Welcher Nigeria-Netzbetreiber ist schneller?
+### Glo (Globacom): Preisvorteil mit Tempoproblem
 
 
 
@@ -296,11 +295,11 @@ Vier Netze, vier unterschiedliche Antworten auf die Frage „wofür ist das eige
 
 
 
-**Wo es sein Geld verdient.** Ein längerer Aufenthalt an einer festen Adresse, wo Nach Ihnen sagen können, dass Glo in dieser bestimmten Straße funktioniert. Das ist in Nigeria ein realistisches Szenario, da die Netzqualität von Block zu Block variiert — aber es lässt sich nicht aus dem Ausland planen.
+**Wo es sein Geld verdient.** Ein längerer Aufenthalt an einer festen Adresse, an der Ihnen bestätigt wird, dass Glo in dieser Straße funktioniert. Das ist in Nigeria ein realistisches Szenario, da die Netzqualität von Block zu Block variiert — aber es lässt sich nicht aus dem Ausland planen.
 
 
 
-### Mobile Netzbetreiber, die Sie in Nigeria nutzen können
+### T2 (ehemals 9mobile): die Nische mit dem günstigsten Gigabyte
 
 
 
@@ -374,7 +373,7 @@ Aus dieser Tabelle ergeben sich vier Punkte.
 
 
 
-Hier ist die Regelung, und warum sie alles andere in diesem Leitfaden prägt. Seit der NIN-SIM-Verknüpfungspolitik der Bundesregierung ist die nigerianische Identität in der **National Identification Number** verankert, einer 11-stelligen biometrischen Identität, die von NIMC ausgestellt wird. Bürger und langfristige ausländische Einwohner benötigen sie für jede SIM-Transaktion. Vi sind die Ausnahme, und die NCC formuliert die Regel in ihren Verbraucher-FAQ unmissverständlich: **„Ausländer mit Touristen- oder Besuchsvisum müssen zur SIM-Erwerbung ihren internationalen Reisepass vorlegen."** Keine NIN, keine biometrische Erfassung – der Netzbetreiber erfasst stattdessen die biografischen Daten Ihres Reisepasses und die Visaseite gegenüber der Leitung. (Die Umsetzungsregeln der NCC ergänzen, dass Besucher mit einem Aufenthalt unter zwei Jahren von der NIN-Pflicht befreit sind; ändert sich Ihr Status auf Wohnsitz, wird die NIN verpflichtend und die SIM muss neu verknüpft werden.)
+Hier ist die Regelung, und warum sie alles andere in diesem Leitfaden prägt. Seit der NIN-SIM-Verknüpfungspolitik der Bundesregierung ist die nigerianische Identität in der **National Identification Number** verankert, einer 11-stelligen biometrischen Identität, die von NIMC ausgestellt wird. Bürger und langfristige ausländische Einwohner benötigen sie für jede SIM-Transaktion. Besucher sind die Ausnahme, und die NCC formuliert die Regel in ihren Verbraucher-FAQ unmissverständlich: **„Ausländer mit Touristen- oder Besuchsvisum müssen zur SIM-Erwerbung ihren internationalen Reisepass vorlegen."** Keine NIN, keine biometrische Erfassung – der Netzbetreiber erfasst stattdessen die biografischen Daten Ihres Reisepasses und die Visaseite gegenüber der Leitung. (Die Umsetzungsregeln der NCC ergänzen, dass Besucher mit einem Aufenthalt unter zwei Jahren von der NIN-Pflicht befreit sind; ändert sich Ihr Status auf Wohnsitz, wird die NIN verpflichtend und die SIM muss neu verknüpft werden.)
 
 
 
@@ -398,7 +397,7 @@ Was das in der Praxis bedeutet, in der Reihenfolge, in der Sie darauf stoßen:
 
 
 
-Die beiden Institutionen sollte man unterscheiden, denn die Unterlagen an einem Netzbetreiber-Schalter verweisen auf beide.
+Die beiden Institutionen sind zu unterscheiden, denn die Unterlagen an einem Netzbetreiber-Schalter verweisen auf beide.
 
 
 
@@ -424,7 +423,7 @@ Die Kette für einen Besucher lautet also: Reisepass → Netzbetreiber-Registrie
 
 - **Kommerzielle eSIMs werden kostenlos ausgestellt.** Die Aktivierung ist in allen Netzen kostenfrei; Sie zahlen für Gesprächszeit und Daten, nicht für das Profil.
 
-- **Planen Sie einen halben Tag ein.** Ein Morgen im Lekki-Stau in jede Richtung, plus der Schalter, plus eine erste Aufladung – so wird aus einer „schnellen SIM" ein Nachmittag. Dieser halbe Tag ist die eigentliche Kosten der direkten Route, und es ist das stärkste Argument, mit einem bereits installierten Datentarif anzukommen.
+- **Planen Sie einen halben Tag ein.** Ein Morgen im Lekki-Stau in jede Richtung, plus der Schalter, plus eine erste Aufladung – so wird aus einer „schnellen SIM" ein Nachmittag. Dieser halbe Tag sind die eigentlichen Kosten der direkten Route, und es ist das stärkste Argument, mit einem bereits installierten Datentarif anzukommen.
 
 
 
@@ -432,7 +431,7 @@ Die Kette für einen Besucher lautet also: Reisepass → Netzbetreiber-Registrie
 
 
 
-Technisch gesehen unterstützen alle vier Netzbetreiber nun eSIM, und hier wird die KYC-Mauer hoch. Die Rollout-Geschichte: **MTN brachte die eSIM zuerst im Juli 2020** auf den Markt, gefolgt von 9mobile (jetzt T2) im selben Jahr, **Airtel im Jahr 2022**, und Glo bot eSIM erst ab **März 2025** an. Keiner davon ist ein Self-Service-Web-Checkout für einen Ausländer. Die Aktivierung läuft über ein MTN Experience Centre, einen Airtel-Laden oder das Äquivalent – ein Mitarbeiter verifiziert Ihr Gerät, prüft Ihr Identitätsdokument (für Einwohner bedeutet das die NIN) und stellt den QR-Code direkt vor Ort aus. Gos eSIM-Unterstützung bleibt die jüngste und dünnste der vier.
+Technisch gesehen unterstützen alle vier Netzbetreiber nun eSIM, und hier wird die KYC-Mauer hoch. Die Rollout-Geschichte: **MTN brachte die eSIM zuerst im Juli 2020** auf den Markt, gefolgt von 9mobile (jetzt T2) im selben Jahr, **Airtel im Jahr 2022**, und Glo bot eSIM erst ab **März 2025** an. Keiner davon ist ein Self-Service-Web-Checkout für einen Ausländer. Die Aktivierung läuft über ein MTN Experience Centre, einen Airtel-Laden oder das Äquivalent – ein Mitarbeiter verifiziert Ihr Gerät, prüft Ihr Identitätsdokument (für Einwohner bedeutet das die NIN) und stellt den QR-Code direkt vor Ort aus. Glos eSIM-Unterstützung bleibt die jüngste und dünnste der vier.
 
 
 
@@ -562,7 +561,7 @@ Das Geschäftsleben in Nigeria spielt sich in zwei Städten ab, und diese verhal
 
 
 
-**Lagos** ist der schnellste Mobilfunkmarkt des Landes – 40,26 Mbps im Median, 83,3 % Konsistenz, mit den besten 5G-Bereichen auf der Insel und auf Victoria Island. Gleichzeitig ist die Stadt am stärksten überlastet: Der Durchsatz zu Stoßzeiten auf dem Festland und im Stau auf der Third Mainland Bridge kann auf einen Bruchteil der Spitzenwerte fallen. MTN's Dichtevorteil zeigt sich genau dann, wenn das Netz unter Druck steht – deshalb zahlen Einheimische den Aufpreis dafür.
+**Lagos** ist der schnellste Mobilfunkmarkt des Landes – 40,26 Mbps im Median, 83,3 % Konsistenz, mit den besten 5G-Bereichen auf der Insel und auf Victoria Island. Gleichzeitig ist die Stadt am stärksten überlastet: Der Durchsatz zu Stoßzeiten auf dem Festland und im Stau auf der Third Mainland Bridge kann auf einen Bruchteil der Spitzenwerte fallen. Der Dichtevorteil von MTN zeigt sich genau dann, wenn das Netz unter Druck steht – deshalb zahlen Einheimische den Aufpreis dafür.
 
 
 
@@ -570,11 +569,11 @@ Das Geschäftsleben in Nigeria spielt sich in zwei Städten ab, und diese verhal
 
 
 
-**Außerhalb der beiden Zentren** dezentralisiert sich die Karte schnell. Port Harcourt und die Städte im Ölgürtel sind in den Stadtgebieten selbst gut versorgt, im Delta dagegen dünner; Ibadan ist bei beiden großen Anbietern stark; Kano und der hohe Norden weisen die langsamsten Stadtgeschwindigkeiten und die längsten Latenzzeiten des Landes auf. Fahrten zwischen den Städten sind der Punkt, an dem ein Einzelnetz-Tarif am meisten schmerzt – die Lagos-Ibadan-Schnellstraße ist in Ordnung, aber auf langen Abschnitten der Straßen Richtung Calabar, Yankari oder auf den nördlichen Routen wechselt die Netzabdeckung zwischen den Betreibern, und kein Profil, das auf eine bestimmte Sendemasten-Linie festgelegt ist, kann das beheben.
+**Außerhalb der beiden Zentren** dezentralisiert sich die Karte schnell. Port Harcourt und die Städte im Ölgürtel sind in den Stadtgebieten selbst gut versorgt, im Delta dagegen dünner; Ibadan ist bei beiden großen Anbietern stark; Kano und der hohe Norden weisen die langsamsten Stadtgeschwindigkeiten und die längsten Latenzzeiten des Landes auf. Fahrten zwischen den Städten sind der Punkt, an dem ein Einzelnetz-Tarif am meisten schmerzt – die Lagos-Ibadan-Schnellstraße ist in Ordnung, aber auf langen Abschnitten der Straßen Richtung Calabar, Yankari oder auf den nördlichen Routen wechselt die Netzabdeckung zwischen den Betreibern, und kein Profil, das auf die Funkzellen eines einzelnen Anbieters festgelegt ist, kann das beheben.
 
 
 
-### Welchen nigerianischen Netzbetreiber sollten Sie wählen: MTN oder Airtel?
+### Hotel-WLAN oder Mobilfunk: was Geschäftsreisen in Nigeria brauchen
 
 
 
@@ -582,7 +581,7 @@ Nigerianische Geschäftsreisen haben ein wiederkehrendes Problem: Das Internet i
 
 
 
-**Wie Hotel-WLAN tatsächlich ist.** Internationale Business-Hotels auf Victoria Island, in Ikoyi und im Central Business District von Abuja liefern in der Regel eine brauchbare Leitung, und sie werden meist über einen festen ISP betrieben – was nach Ookla's Zahlen in der Rohgeschwindigkeit besser ist als das Mobilfunknetz (ipNX mit 37,78 Mbps im Median schlägt MTN's 28,11). Mittelklasse- und Boutique-Häuser sind weit variabler, und die beiden Dinge, die eine brauchbare von einer unbrauchbaren Verbindung unterscheiden, sind nicht die beworbene Geschwindigkeit, sondern **Stromredundanz und eine zweite Upstream-Leitung**. Ein Hotel mit Generatoren und zwei Anbietern bleibt bei einem Ausfall online; eines ohne beides nicht.
+**Wie Hotel-WLAN tatsächlich ist.** Internationale Business-Hotels auf Victoria Island, in Ikoyi und im Central Business District von Abuja liefern in der Regel eine brauchbare Leitung, und sie werden meist über einen festen ISP betrieben – was nach den Zahlen von Ookla in der Rohgeschwindigkeit besser ist als das Mobilfunknetz (ipNX mit 37,78 Mbps im Median schlägt die 28,11 Mbps von MTN). Mittelklasse- und Boutique-Häuser sind weit variabler, und die beiden Dinge, die eine brauchbare von einer unbrauchbaren Verbindung unterscheiden, sind nicht die beworbene Geschwindigkeit, sondern **Stromredundanz und eine zweite Upstream-Leitung**. Ein Hotel mit Generatoren und zwei Anbietern bleibt bei einem Ausfall online; eines ohne beides nicht.
 
 
 
@@ -590,7 +589,7 @@ Nigerianische Geschäftsreisen haben ein wiederkehrendes Problem: Das Internet i
 
 
 
-**Videoanruf-Zuverlässigkeit, ehrlich beurteilt.** MTN's 48 ms Latenz und der Video-Score von 57,25 sind das Beste, was in Nigeria erhältlich ist, und sie sind das Nächste, was man an Sicherheit kaufen kann. Doch Kano mit 76,6 ms und Port Harcourt mit 55,6 ms sind die Werte, die mitten im Satz für ein eingefrorenes Bild sorgen – und keine Tarifwahl ändert das.
+**Videoanruf-Zuverlässigkeit, ehrlich beurteilt.** Die 48-ms-Latenz und der Video-Score von 57,25 bei MTN sind das Beste, was in Nigeria erhältlich ist, und sie sind das Nächste, was man an Sicherheit kaufen kann. Doch Kano mit 76,6 ms und Port Harcourt mit 55,6 ms sind die Werte, die mitten im Satz für ein eingefrorenes Bild sorgen – und keine Tarifwahl ändert das.
 
 
 
@@ -598,7 +597,7 @@ Nigerianische Geschäftsreisen haben ein wiederkehrendes Problem: Das Internet i
 
 
 
-## Wie viele Gigabyte brauchen Sie?
+## Wie viel Datenvolumen Ihre Nigeria-Reise verbraucht
 
 
 
@@ -618,7 +617,7 @@ In Nigeria funktioniert nichts ohne Datenverbindung, und der Transport macht das
 
 
 
-**Bargeld versus Karte.** Bargeld ist auf nigerianischen Straßen immer noch das Standardzahlungsmittel. Karten funktionieren in den Apps und in Hotels weitgehend, aber im Ausland ausgestellte Karten werden häufiger abgelehnt, als Reisende erwarten, und eine abgelehnte Karte am Ende einer Fahrt ist ein Gespräch, das Sie nicht im Stau führen möchten. Die sichere Konfiguration ist eine funktionierende Karte für die App plus ein paar Tausend Naira in bar für die Fahrt, bei der die Karte nicht funktioniert.
+**Bargeld versus Karte.** Bargeld ist auf nigerianischen Straßen immer noch das Standardzahlungsmittel. Karten funktionieren in den Apps und in Hotels weitgehend, aber im Ausland ausgestellte Karten werden häufiger abgelehnt, als Reisende erwarten, und eine abgelehnte Karte am Ende einer Fahrt ist ein Gespräch, das Sie nicht im Stau führen möchten. Die sichere Konfiguration ist eine funktionierende Karte für die App plus ein paar Tausend Naira in bar für die Fahrt, bei der die Karte nicht funktioniert. Wer über die Third Mainland Bridge fährt, sollte beides dabeihaben: Ein abgelehntes Kartenterminal im Stau kostet mehr Nerven als ein paar Scheine in der Tasche.
 
 
 
@@ -626,7 +625,7 @@ In Nigeria funktioniert nichts ohne Datenverbindung, und der Transport macht das
 
 
 
-**Was dies für Ihre eSIM-Wahl bedeutet.** Alle drei Apps benötigen Daten im Moment der Buchung, daher ist das Profil mit der größten Abdeckung entscheidend, nicht die höchste Spitzengeschwindigkeit – das ist MTN, und deshalb laufen Reise-eSIMs für Nigeria überwiegend über MTN's Netz. Wenn Sie den direkten Weg gehen und eine nigerianische Nummer kaufen, denken Sie daran, dass die Nummer auch das ist, worüber ein Fahrer Sie anruft, wenn er Sie nicht findet; eine reine Daten-eSIM ohne +234-Nummer bedeutet, dass Sie über die App anrufen müssen.
+**Was dies für Ihre eSIM-Wahl bedeutet.** Alle drei Apps benötigen Daten im Moment der Buchung, daher ist das Profil mit der größten Abdeckung entscheidend, nicht die höchste Spitzengeschwindigkeit – das ist MTN, und deshalb laufen Reise-eSIMs für Nigeria überwiegend über das Netz von MTN. Wenn Sie den direkten Weg gehen und eine nigerianische Nummer kaufen, denken Sie daran, dass die Nummer auch das ist, worüber ein Fahrer Sie anruft, wenn er Sie nicht findet; eine reine Daten-eSIM ohne +234-Nummer bedeutet, dass Sie über die App anrufen müssen. Wer den Laptop über den Handy-Hotspot mitversorgt, plant zusätzliches Datenvolumen ein, denn Tethering läuft über dasselbe Kontingent; ein eSIM-kompatibles Gerät liefert dafür keine Extra-Bandbreite, die kommt allein aus dem Netz.
 
 
 
@@ -638,7 +637,7 @@ Wenn Sie direkt bei einem Netzbetreiber kaufen – physische SIM oder eSIM – s
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Nigerianisches Netz | Zugangspunkt (APN) | Nutzerkennung | Passwort |
 
 |:---|:---|:---|:---|
 
@@ -660,11 +659,11 @@ Geben Sie sie nur ein, wenn Sie direkt beim Netzbetreiber gekauft haben. Eine Re
 
 
 
-Das nigerianische 4G nutzt die LTE-Bänder 1, 3, 7, 8, 20 und 28, und 5G verwendet **n78 (3500 MHz)** und **n41 (2500 MHz)** – dieselben 5G-Bänder wie in Europa und großen Teilen Asiens, sodass aktuelle Geräte aus diesen Märkten gut abgedeckt sind. Die realistischen Fehlerquellen sind ein Telefon, das an seinen ursprünglichen Netzbetreiber gebunden ist (der häufigste Grund, warum eine eSIM schlicht nicht installiert werden kann), sowie ältere Geräte, denen das niedrige Frequenzspektrum fehlt, auf dem die Netzabdeckung in ländlichen Gebieten beruht. Überprüfen Sie Ihr genaues Modell mit dem [Geräte-Kompatibilitäts-Checker](/compatibility/), bevor Sie Geld ausgeben; die zwei Minuten Aufwand sind besser als ein totes Profil bei der Ankunft.
+Das nigerianische 4G nutzt die Frequenzbänder 1, 3, 7, 8, 20 und 28 (LTE), und 5G verwendet **n78 (3500 MHz)** und **n41 (2500 MHz)** – dieselben 5G-Bänder wie in Europa und großen Teilen Asiens, sodass aktuelle Geräte aus diesen Märkten gut abgedeckt sind. Die realistischen Fehlerquellen sind ein Telefon, das an seinen ursprünglichen Netzbetreiber gebunden ist (der häufigste Grund, warum eine eSIM schlicht nicht installiert werden kann), sowie ältere Geräte, denen das niedrige Frequenzspektrum fehlt, auf dem die Netzabdeckung in ländlichen Gebieten beruht. Überprüfen Sie Ihr genaues Modell mit dem [Geräte-Kompatibilitäts-Checker](/compatibility/), bevor Sie Geld ausgeben; die zwei Minuten Aufwand sind besser als ein totes Profil bei der Ankunft.
 
 
 
-Dual-SIM-Setup folgt dem überall funktionierenden Muster: Behalten Sie Ihre Heimatnummer auf der physischen SIM für Anrufe und Banking-Codes, lassen Sie Mobile Daten über die eSIM laufen und schalten Sie Datenroaming auf der Heimleitung aus, damit sie im Hintergrund nicht unbemerkt Datenvolumen verbraucht.
+Dual-SIM-Setup folgt bei jedem eSIM-kompatiblen Gerät demselben Muster: Behalten Sie Ihre Heimatnummer auf der physischen SIM für Anrufe und Banking-Codes, lassen Sie Mobile Daten über die eSIM laufen und schalten Sie Datenroaming auf der Heimleitung aus, damit sie im Hintergrund nicht unbemerkt Datenvolumen verbraucht.
 
 
 
@@ -672,15 +671,15 @@ Dual-SIM-Setup folgt dem überall funktionierenden Muster: Behalten Sie Ihre Hei
 
 
 
-Bei einer Reise-eSIM läuft der gesamte Prozess remote: kaufen, QR-Code oder One-Tap-Installationslink per E-Mail erhalten, in den Einstellungen hinzufügen, landen, verbinden. Die allgemeine Anleitung finden Sie im [Schritt-für-Schritt-Aktivierungs-Leitfaden](/faq/how-to-activate-an-esim/). Bei einem vom Netzbetreiber ausgestellten Profil erfolgt die Aktivierung im Store in Anwesenheit des Mitarbeiters – verlassen Sie das Geschäft erst, wenn die Leitung sich registriert hat und Daten fließen.
+Bei einer Reise-eSIM läuft der gesamte Prozess remote: kaufen, QR-Code oder Ein-Klick-Installationslink per E-Mail erhalten, in den Einstellungen hinzufügen, landen, verbinden. Die allgemeine Anleitung finden Sie im [Schritt-für-Schritt-Aktivierungs-Leitfaden](/faq/how-to-activate-an-esim/). Bei einem vom Netzbetreiber ausgestellten Profil erfolgt die Aktivierung im Store in Anwesenheit des Mitarbeiters – verlassen Sie das Geschäft erst, wenn die Leitung sich registriert hat und Daten fließen.
 
 
 
-Die Nigerianspezifischen Fehlermuster, in der Reihenfolge, in der sie auftreten:
+Die Nigeria-spezifischen Fehlermuster, in der Reihenfolge, in der sie auftreten:
 
 
 
-**A. Das Profil lässt sich nicht installieren.** Prüfen Sie zuerst die Netzbetreiber-Sperre (Einstellungen → Allgemein → Info → Netzbetreiber-Sperre beim iPhone); ein gesperrtes Telefon weist jedes Drittanbieter-Profil zurück. Stellen Sie dann sicher, dass der QR-Code nicht bereits verwendet wurde – die meisten sind nur einmal nutzbar.
+**A. Das Profil lässt sich nicht installieren.** Prüfen Sie zuerst die Netzbetreiber-Sperre (SIM-Lock; Einstellungen → Allgemein → Info → Netzbetreiber-Sperre beim iPhone); ein gesperrtes Telefon weist jedes Drittanbieter-Profil zurück. Stellen Sie dann sicher, dass der QR-Code nicht bereits verwendet wurde – die meisten sind nur einmal nutzbar.
 
 
 
@@ -742,7 +741,7 @@ Die letzte Zeile ist die Nigeria-spezifische. Da der Markt so stark auf einen ei
 
 
 
-| Detail | Wo erhältlich |
+| Angabe | Wo Sie sie finden |
 
 |:---|:---|
 
@@ -750,9 +749,9 @@ Die letzte Zeile ist die Nigeria-spezifische. Da der Markt so stark auf einen ei
 
 | Gerätemodell und Betriebssystem-Build | Einstellungen → Über das Gerät |
 
-| EID | Wählen `*#06#` |
+| EID | `*#06#` wählen |
 
-| IMEI | Dieselbe `*#06#` Bildschirm |
+| IMEI | Derselbe `*#06#`-Bildschirm |
 
 | Fehler-Screenshot | Machen Sie ihn, bevor die Meldung verschwindet |
 
@@ -778,7 +777,7 @@ Nigeria ist einer der günstigsten Orte der Welt, um mobile Daten zu kaufen, und
 
 - In Naira liegt das Feld nach der Tariferhöhung bei ungefähr **₦300–₦750 für ein beworbenes Gigabyte**: T2 bei ₦300, MTN um ₦350, Airtel um ₦500, Glo um ₦750.
 
-- MTN's monatliche Stufen skalieren bei Volumen günstig — 2 GB für ₦1.500, 7 GB für ₦3.500, 20 GB für ₦7.500 — sodass ein längerer Aufenthalt pro Gigabyte zunehmend besser wird.
+- Die monatlichen Stufen von MTN skalieren bei Volumen günstig — 2 GB für ₦1.500, 7 GB für ₦3.500, 20 GB für ₦7.500 — sodass ein längerer Aufenthalt pro Gigabyte zunehmend besser wird.
 
 - Auf einer Basis von 10 GB und zwei Wochen ist ein lokales Paket in Naira deutlich günstiger. Eine Reise-eSIM kostet mehr pro Gigabyte und kauft Ihnen stattdessen drei Dinge: keine KYC, keinen halben Tag im Laden und ein Profil, das in dem Moment aktiv ist, in dem sich die Flugzeugtür öffnet.
 
@@ -824,7 +823,7 @@ Ein Profil nur für Nigeria endet an der ersten Grenze, und Nigeria hat vier dav
 
 
 
-Yes. Die Verbraucherhinweise der NCC besagen, dass Besucher mit Touristen- oder Besuchervisum eine SIM durch Vorlage ihres Reisepasses erhalten — keine NIN erforderlich. Die praktischen Einschränkungen bestehen darin, dass der Kauf in einem Netzbetreiber-Laden oder einer autorisierten Verkaufsstelle erfolgt (nicht an einem üblichen Flughafenschalter) und die Registrierung persönlich gegen Vorlage des physischen Reisepasses durchgeführt wird.
+Ja. Die Verbraucherhinweise der NCC besagen, dass Besucher mit Touristen- oder Besuchervisum eine SIM durch Vorlage ihres Reisepasses erhalten — keine NIN erforderlich. Die praktischen Einschränkungen bestehen darin, dass der Kauf in einem Netzbetreiber-Laden oder einer autorisierten Verkaufsstelle erfolgt (nicht an einem üblichen Flughafenschalter) und die Registrierung persönlich gegen Vorlage des physischen Reisepasses durchgeführt wird.
 
 
 
@@ -856,7 +855,7 @@ Nur persönlich. MTN unterstützt eSIM seit Juli 2020, aber das Profil wird in e
 
 
 
-In Teilen von Lagos und Abuja, ja durchaus — MTN's mittlerer 5G-Download von 231,39 Mbps ist dem Papier nach weltklasse, und Airtel's 174,66 Mbps liegt dicht dahinter. Aber 5G macht 3,77 % der Anschlüsse des Landes aus, und 16,2 % Verfügbarkeit bedeuten, dass Sie die meiste Zeit auf 4G sind, was mit MTN's Median von 24,25 Mbps für Videoanrufe noch gut genug ist.
+In Teilen von Lagos und Abuja, ja durchaus — Der mittlere 5G-Download von MTN mit 231,39 Mbps ist auf dem Papier weltklasse, und die 174,66 Mbps von Airtel liegen dicht dahinter. Aber 5G macht 3,77 % der Anschlüsse des Landes aus, und 16,2 % Verfügbarkeit bedeuten, dass Sie die meiste Zeit auf 4G sind, was mit dem Median von 24,25 Mbps bei MTN für Videoanrufe noch gut genug ist.
 
 
 
@@ -872,7 +871,7 @@ Unter den günstigsten der Welt. Cable.co.uk beziffert 1 GB auf rund **USD 0,39*
 
 
 
-Yes — genau das ist die empfohlene Einrichtung. Heimleitung für Anrufe und SMS-Verifizierung, eSIM für Daten. Die eine Einstellung, die viele vergessen: Deaktivieren Sie Datenroaming auf der Heim-SIM, denn Hintergrundverkehr auf einer Roaming-Leitung wird in Minuten teuer, nicht in Monaten.
+Ja — genau das ist die empfohlene Einrichtung. Heimleitung für Anrufe und SMS-Verifizierung, eSIM für Daten. Die eine Einstellung, die viele vergessen: Deaktivieren Sie Datenroaming auf der Heim-SIM, denn Hintergrundverkehr auf einer Roaming-Leitung wird in Minuten teuer, nicht in Monaten.
 
 
 
@@ -912,7 +911,7 @@ Arbeiten Sie die vier obigen Muster der Reihe nach durch — Sperrstatus, Netzwa
 
 
 
-Yes, deutlich, und das sollten Sie wissen, bevor Sie budgetieren. Die NCC genehmigte eine **50 %-ige Tariferhöhung mit Wirkung zum 20. Januar 2025**, die erste größere Anpassung seit über einem Jahrzehnt: Der Preisuntergrenze für 1 GB stieg von ₦287,50 auf ₦431,25, Sprachanrufe von ₦6,40 auf ₦9,60 pro Minute und SMS von ₦4 auf ₦6. Der nationale Internetverbrauch sank von einem Rekord von 1.000.930,6 TB im Januar auf 893.054,80 TB im Februar, bevor er im März auf 995.876,10 TB zurückkehrte.
+Ja, deutlich, und das sollten Sie wissen, bevor Sie budgetieren. Die NCC genehmigte eine **50 %-ige Tariferhöhung mit Wirkung zum 20. Januar 2025**, die erste größere Anpassung seit über einem Jahrzehnt: Die Preisuntergrenze für 1 GB stieg von ₦287,50 auf ₦431,25, Sprachanrufe von ₦6,40 auf ₦9,60 pro Minute und SMS von ₦4 auf ₦6. Der nationale Internetverbrauch sank von einem Rekord von 1.000.930,6 TB im Januar auf 893.054,80 TB im Februar, bevor er im März auf 995.876,10 TB zurückkehrte.
 
 
 
@@ -932,11 +931,11 @@ Nur wenn Sie auch die Sprachnummer benötigen. Bolt, Uber und inDrive laufen all
 
 
 
-### Daten zur Nigeria-eSIM nachladen
+### Kann ich Datenvolumen für eine Nigeria-eSIM nachladen?
 
 
 
-Yes. Kaufen Sie einen Gutschein, wählen Sie `*311*VOUCHER-PIN#`, und nutzen Sie dann `*312#`, um das Guthaben in ein Datenpaket umzuwandeln. Keiner dieser Codes benötigt eine Datenverbindung, daher funktionieren sie, wenn Ihr Paket aufgebraucht ist. Weitere Fragen? [Durchsuchen Sie die vollständige FAQ-Bibliothek](/faq/).
+Ja. Kaufen Sie einen Gutschein, wählen Sie `*311*VOUCHER-PIN#`, und nutzen Sie dann `*312#`, um das Guthaben in ein Datenpaket umzuwandeln. Keiner dieser Codes benötigt eine Datenverbindung, daher funktionieren sie, wenn Ihr Paket aufgebraucht ist. Weitere Fragen? [Durchsuchen Sie die vollständige FAQ-Bibliothek](/faq/).
 
 
 
@@ -948,7 +947,7 @@ Yes. Kaufen Sie einen Gutschein, wählen Sie `*311*VOUCHER-PIN#`, und nutzen Sie
 
 - **NCC-Verbraucher-FAQ zur SIM/NIN-Integration** — [die eigene Anleitung der Regulierungsbehörde](https://consumer.ncc.gov.ng/information-education/faqs/44-sim-and-nin-integration) etabliert die Passregel für Touristen und die NIN-Anforderung für Ansässige, mit der Ausnahme für Visa unter zwei Jahren in den [SIM-Registrierungs-Geschäftsregeln](https://www.ncc.gov.ng/sites/default/files/2024-11/Documents/Legal-Draft_Business_Rules_SIM_Registration_2021.pdf) der NCC.
 
-- **Ookla Speedtest Connectivity Report — Nigeria 2H 2024** — jede oben zitierte netzbetreiberspezifische Zahl, einschließlich MTN's 79,52 Speed Score, 231,39 Mbps mittleres 5G, 16,2 % 5G-Verfügbarkeit und 79,7 % Konsistenz, stammt aus [dem Pro-Netzbetreiber-Bericht](https://www.ookla.com/research/reports/nigeria-speedtest-connectivity-report-h2-2024), der auch die Fünf-Städte-Tabelle enthält.
+- **Ookla Speedtest Connectivity Report — Nigeria 2H 2024** — jede oben zitierte netzbetreiberspezifische Zahl, einschließlich dem Speed Score von 79,52 bei MTN, 231,39 Mbps mittlerem 5G, 16,2 % 5G-Verfügbarkeit und 79,7 % Konsistenz, stammt aus [dem Pro-Netzbetreiber-Bericht](https://www.ookla.com/research/reports/nigeria-speedtest-connectivity-report-h2-2024), der auch die Fünf-Städte-Tabelle enthält.
 
 - **Ookla Speedtest Global Index** — der nationale Median von 42,59 Mbps mobil und Nigerias Weltrang werden auf [der Länderseite](https://www.speedtest.net/global-index/nigeria) veröffentlicht, monatlich aktualisiert.
 
@@ -956,7 +955,7 @@ Yes. Kaufen Sie einen Gutschein, wählen Sie `*311*VOUCHER-PIN#`, und nutzen Sie
 
 - **DataReportal** — Internetnutzer- (107 Millionen, 45,4 % Durchdringung) und Mobilfunkverbindungs-Gesamtzahlen sind in [Digital 2025: Nigeria](https://datareportal.com/reports/digital-2025-nigeria) erfasst.
 
-- **Netzbetreiber-eSIM-Geschichte** — MTN's Start im Juli 2020, Airtel's Einführung 2022 und Glos Einstieg im März 2025 wurden gegenübergestellt mit [BusinessDays Berichterstattung über Nigerias eSIM-Markt](https://businessday.ng/technology/article/startups-tap-esim-boom-to-disrupt-telcos/).
+- **Netzbetreiber-eSIM-Geschichte** — der Start von MTN im Juli 2020, die Einführung von Airtel 2022 und Glos Einstieg im März 2025 wurden gegenübergestellt mit [die Berichterstattung von BusinessDay über Nigerias eSIM-Markt](https://businessday.ng/technology/article/startups-tap-esim-boom-to-disrupt-telcos/).
 
 
 
@@ -968,7 +967,7 @@ Drittanbieter-Zahlen, in deren eigenen Aktualisierungszyklen erhoben. Nutzen Sie
 
 
 
-Keine NIN zum Vorzeigen und keine Schlange im Laden. Roami's Nigeria-Tarif aktiviert sich im Netz von MTN in dem Moment, in dem Sie landen, und eine Installation deckt die gesamte Reise. Erstkäufer können [eine kostenlose eSIM testen](/free-esim/), um sie auf ihrem Gerät zu prüfen, oder direkt zu [Nigeria-eSIM-Tarifen](/nigeria-esim/) gehen und ein Datenpaket wählen.
+Keine NIN zum Vorzeigen und keine Schlange im Laden. Roamis Nigeria-Tarif aktiviert sich im Netz von MTN in dem Moment, in dem Sie landen, und eine Installation deckt die gesamte Reise. Erstkäufer können eine kostenlose Test-eSIM nutzen, um sie auf ihrem Gerät zu prüfen, oder direkt zu [Nigeria-eSIM-Tarifen](/nigeria-esim/) gehen und ein Datenpaket wählen.
 
 
 
@@ -980,9 +979,9 @@ Keine NIN zum Vorzeigen und keine Schlange im Laden. Roami's Nigeria-Tarif aktiv
 
 
 
-[Free Nigeria Test-eSIM](/free-esim/)
+[Kostenlose Nigeria-Test-eSIM](/free-esim/)
 
 
 
-Vor Ihrer Reise: Führen Sie den [eSIM-Kompatibilitätscheck](/compatibility/) durch, laden Sie sich Roami's [kostenlose Test-eSIM](/free-esim/) herunter, um die Netzabdeckung an Ihrem Aufenthaltsort zu testen, und halten Sie **WEB20** bereit — Sie erhalten damit 20 % Rabatt auf jeden Roami-Tarif, wenn Sie sich für einen entschieden haben.
+Vor Ihrer Reise: Führen Sie den eSIM-Kompatibilitätscheck durch, laden Sie sich Roamis [kostenlose Test-eSIM](/free-esim/) herunter, um die Netzabdeckung an Ihrem Aufenthaltsort zu testen, und halten Sie **WEB20** bereit — Sie erhalten damit 20 % Rabatt auf jeden Roami-Tarif, wenn Sie sich für einen entschieden haben.
 

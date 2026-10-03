@@ -42,7 +42,7 @@ Die Wahl zwischen Kasachstan-eSIM-Netzbetreibern ist in Wirklichkeit eine Entsch
 
 
 
-Wenn Sie noch nicht bestätigt haben, dass Ihr Telefon überhaupt eSIM unterstützt, beginnen Sie mit der [Geräte-Kompatibilitätsliste](/compatibility/) – und kommen Sie dann für die Netzbetreiber-Entscheidung zurück.
+Wenn Sie noch nicht bestätigt haben, dass Ihr Telefon überhaupt eSIM unterstützt, beginnen Sie mit der Geräte-Kompatibilitätsliste – und kommen Sie dann für die Netzbetreiber-Entscheidung zurück.
 
 
 
@@ -118,7 +118,7 @@ Beeline ist das Netz, das sich am besten verhält, wo die Karte leer ist. Es hat
 
 ### Wie Tele2 die Regionen gewonnen hat
 
-Tele2 hat die Auszeichnung „Bestes Mobilfunknetz“ von Ookla in Kasachstan mit einem Connectivity Score von **72,37** gewonnen und war in **neun der Regionen des Landes** der schnellste Anbieter – inklusive des westlichen Ölgürtels, des Nordostens und des Atyrau-Korridors. Sein 5G wurde gemeinsam mit Kcell unter derselben Konsortiallizenz ausgerollt, daher ist es ein echtes zweites 5G-Netz und nicht nur ein Reseller. Die 2026er Tests von nPerf weisen für den durchschnittlichen Download **45,6 Mbps** aus, mit der besten Streaming-Leistungsrate der drei Anbieter, **65,8 %**.
+Tele2 hat die Auszeichnung „Bestes Mobilfunknetz“ von Ookla in Kasachstan mit einem Connectivity Score von **72,37** gewonnen und war in **neun der kasachischen Regionen** der schnellste Anbieter – inklusive des westlichen Ölgürtels, des Nordostens und des Atyrau-Korridors. Sein 5G wurde gemeinsam mit Kcell unter derselben Konsortiallizenz ausgerollt, daher ist es ein echtes zweites 5G-Netz und nicht nur ein Reseller. Die 2026er Tests von nPerf weisen für den durchschnittlichen Download **45,6 Mbps** aus, mit der besten Streaming-Leistungsrate der drei Anbieter, **65,8 %**.
 
 
 
@@ -128,7 +128,7 @@ Tele2 hat die Auszeichnung „Bestes Mobilfunknetz“ von Ookla in Kasachstan mi
 
 - **Was schiefgehen kann:** Die Stadt-Performance ist ausgezeichnet, aber die ländliche Netzabdeckung ist dünner als die von Beeline, und das Store-Personal ist weniger an ausländische Pässe gewöhnt.
 
-- **Realszenario:** Die Achse Schymkent–Turkistan – das klassische Seidenstraßen-Etappenziel zum Mausoleum von Khoja Ahmed Yasawi – liegt in einer der stärksten Regionen des Landes, in der sich die regionale Führungsrolle von Tele2 direkt auszahlt.
+- **Realszenario:** Die Achse Schymkent–Turkistan – das klassische Seidenstraßen-Etappenziel zum Mausoleum von Khoja Ahmed Yasawi – liegt in einer der stärksten Regionen Kasachstans, in der sich die regionale Führungsrolle von Tele2 direkt auszahlt.
 
 
 
@@ -174,7 +174,7 @@ Zwei Werte sind hier entscheidend. Erstens: Der Geschwindigkeitsvorteil von Kcel
 
 ### Kann man eine Kasachstan-eSIM von Kcell kaufen?
 
-Online vor der Ankunft nein – Kcell verkauft eSIMs praktisch nur am Schalter, und erst nach der Reisepass-Registrierung. Für eine Reise, die nach Tagen oder Wochen bemessen ist, ist eine Kasachstan-eSIM aus einer App auf praktisch jeder Ebene überlegen: kein Ladenbesuch, keine Passregistrierung, sofortige QR-Zustellung und die Möglichkeit, alles vor dem Abflug zu installieren. Eine lokale SIM oder eSIM lohnt sich nur, wenn Sie für einen längeren Aufenthalt eine kasachische Telefonnummer benötigen – und selbst dann erwarten Sie am Schalter Papierkram und eine Bezahlung, die lokale Zahlungskarten bevorzugt. Der Mittelweg ist einfach: Installieren Sie zu Hause eine [Roami Kasachstan-eSIM](/kazakhstan-esim/), halten Sie Ihre eigene Nummer für Bankcodes aktiv, und lassen Sie das Profil im Moment der Landung auf das stärkste verfügbare Netz zugreifen.
+Online vor der Ankunft nein – Kcell verkauft eSIMs praktisch nur am Schalter, und erst nach der Reisepass-Registrierung. Für eine Reise, die nach Tagen oder Wochen bemessen ist, ist eine Kasachstan-eSIM aus einer App auf praktisch jeder Ebene überlegen: kein Ladenbesuch, keine Passregistrierung, sofortige QR-Zustellung und die Möglichkeit, alles vor dem Abflug zu installieren. Eine lokale SIM oder eSIM lohnt sich nur, wenn Sie für einen längeren Aufenthalt eine kasachische Telefonnummer benötigen – und selbst dann erwarten Sie am Schalter Papierkram und eine Bezahlung, die lokale Zahlungskarten bevorzugt. Der Mittelweg ist einfach: Installieren Sie zu Hause eine Roami Kasachstan-eSIM, halten Sie Ihre eigene Nummer für Bankcodes aktiv, und lassen Sie das Profil im Moment der Landung auf das stärkste verfügbare Netz zugreifen.
 
 
 
@@ -182,7 +182,7 @@ Online vor der Ankunft nein – Kcell verkauft eSIMs praktisch nur am Schalter, 
 
 
 
-Almaty und Astana sind die beiden Anker des Landes – ersteres wegen der Berge und der Seidenstraßen-Tore, letzteres wegen der glänzenden Hauptstadt. Ihre Netze schneiden unterschiedlich ab, und nicht immer so, wie es die nationalen Durchschnittswerte vermuten lassen.
+Almaty und Astana sind die beiden Anker Kasachstans – ersteres wegen der Berge und der Seidenstraßen-Tore, letzteres wegen der glänzenden Hauptstadt. Ihre Netze schneiden unterschiedlich ab, und nicht immer so, wie es die nationalen Durchschnittswerte vermuten lassen.
 
 
 
@@ -214,7 +214,7 @@ Zusammen mit der Auszeichnungstabelle ergibt sich ein praktisches Bild:
 
 
 
-Beachten Sie etwas, das die Durchschnittswerte verbergen: Astanas Median-Download (110,52 Mbps) ist höher als der von Almaty (101,56 Mbps), obwohl Almaty den dichtesten 5G-Verkehr des Landes trägt. Der Vorteil der Hauptstadt kommt von einem kleineren, neueren, gleichmäßigeren Zellnetz – eine Erinnerung daran, dass Stadtgröße und Stadtgeschwindigkeit hier nicht zusammengehen. Und in Atyrau, der Ölhauptstadt an der Kaspiküste, ist Tele2 der einzige Netzbetreiber mit einem statistisch abgesetzten Sieg, bei der höchsten Konsistenz jeder Großstadt in der Tabelle.
+Beachten Sie etwas, das die Durchschnittswerte verbergen: Astanas Median-Download (110,52 Mbps) ist höher als der von Almaty (101,56 Mbps), obwohl Almaty den dichtesten 5G-Verkehr Kasachstans trägt. Der Vorteil der Hauptstadt kommt von einem kleineren, neueren, gleichmäßigeren Zellnetz – eine Erinnerung daran, dass Stadtgröße und Stadtgeschwindigkeit hier nicht zusammengehen. Und in Atyrau, der Ölhauptstadt an der Kaspiküste, ist Tele2 der einzige Netzbetreiber mit einem statistisch abgesetzten Sieg, bei der höchsten Konsistenz jeder Großstadt in der Tabelle.
 
 
 
@@ -226,7 +226,7 @@ Wenn Ihr Reiseplan beide Städte verbindet – die meisten ersten Reisen tun das
 
 
 
-Dies ist der Teil, den die meisten generischen Kasachstan-eSIM-Seiten überspringen, und es ist die größte einzelne Lücke zwischen Erwartung und Realität vor Ort. Kasachstan ist so groß wie Westeuropa mit weniger Einwohnern als die Niederlande, und seine Netzabdeckung folgt der Bevölkerung: dicht in den Städten und entlang der Hauptkorridore, dünn bis nicht vorhanden überall sonst.
+Dies ist der Teil, den die meisten generischen Kasachstan-eSIM-Seiten überspringen, und es ist die größte einzelne Lücke zwischen Erwartung und Realität in Kasachstan. Kasachstan ist so groß wie Westeuropa mit weniger Einwohnern als die Niederlande, und seine Netzabdeckung folgt der Bevölkerung: dicht in den Städten und entlang der Hauptkorridore, dünn bis nicht vorhanden überall sonst.
 
 
 
@@ -234,11 +234,11 @@ Was die gemessenen Daten zeigen:
 
 
 
-- **Die Regionen sind nicht ein Markt.** Die Region Almaty verzeichnet den schnellsten mobilen Median-Download (82,63 Mbps); Ulytau, in der Mitte des Landes, verzeichnet nur 29,88 Mbps – ein Unterschied von fast dem Dreifachen innerhalb desselben Landes im selben Datenmonat.
+- **Die Regionen sind nicht ein Markt.** Die Region Almaty verzeichnet den schnellsten mobilen Median-Download (82,63 Mbps); Ulytau, in der Mitte Kasachstans, verzeichnet nur 29,88 Mbps – ein Unterschied von fast dem Dreifachen innerhalb desselben Landes im selben Datenmonat.
 
 - **Tele2 ist der Anbieter für ländliche Regionen.** Es war der schnellste Netzbetreiber in neun Regionen in den H1-2025-Daten von Ookla, einschließlich Atyrau, Pavlodar und den westlichen Ölgürtel-Regionen, während Kcell den Almaty-Korridor dominierte.
 
-- **Die Seidenstraßen-Route hält besser als die langen landesweiten Etappen.** Die Achse Schymkent–Turkistan liegt innerhalb der drittschnellsten Region des Landes, also ist die klassische südliche Kulturroute gut versorgt. Charyn-Canyon, Kolsai-Seen und die Altai-Berge östlich von Almaty erzählen eine andere Geschichte: Die Netzabdeckung schwächt sich innerhalb einer Stunde ab der Stadt ab und verschwindet in den Canyons und Tälern vollständig. Laden Sie Offline-Karten herunter, bevor Sie Almaty verlassen, und betrachten Sie jedes Signal, das Sie dort finden, als Bonus.
+- **Die Seidenstraßen-Route hält besser als die langen landesweiten Etappen.** Die Achse Schymkent–Turkistan liegt in der drittschnellsten Region Kasachstans, also ist die klassische südliche Kulturroute gut versorgt. Charyn-Canyon, Kolsai-Seen und die Altai-Berge östlich von Almaty erzählen eine andere Geschichte: Die Netzabdeckung schwächt sich innerhalb einer Stunde ab der Stadt ab und verschwindet in den Canyons und Tälern vollständig. Laden Sie Offline-Karten herunter, bevor Sie Almaty verlassen, und betrachten Sie jedes Signal, das Sie dort finden, als Bonus.
 
 - **Beelines 4G bleibt das breitste Sicherheitsnetz.** Unabhängige Anbietervergleiche schreiben Beeline durchweg die breiteste Bevölkerungsabdeckung außerhalb der 5G-Städte zu – der Grund, warum die meisten Reise-eSIM-Anbieter, die auf Fernverkehrsstraßen abzielen, auf das Netz von KaR-Tel setzen.
 
@@ -252,7 +252,7 @@ Zwei zusätzliche Realitäten für Reisen in abgelegene Gebiete. Erstens: Winter
 
 
 
-Die Entfernungen in Kasachstan sind groß genug, dass die Netzabdeckung von Ort zu Ort geplant werden muss und nicht von Netzbetreiber zu Netzbetreiber. Die folgende Tabelle nimmt die Reiseziele, die Besucher tatsächlich am häufigsten bereisen, und gibt an, was das Netz dort leistet.
+Die Entfernungen in Kasachstan sind groß genug, dass die Netzabdeckung von Ort zu Ort geplant werden muss und nicht von Netzbetreiber zu Netzbetreiber. Die folgende Tabelle nimmt die Ziele, die auf Kasachstan-Routen tatsächlich vorkommen, und gibt an, was das Netz dort leistet – Städte und Tagesausflüge zuerst, abgelegene Orte als belegte Randnotiz.
 
 
 
@@ -260,13 +260,13 @@ Die Entfernungen in Kasachstan sind groß genug, dass die Netzabdeckung von Ort 
 
 |:---|:---|:---|
 
-| Almaty-Stadt, Medeu, Schymb Bulak | Kcell ist das 5G-Herzland; das schnellste gemessene Stadtnetz des Landes | Nichts Besonderes – hier zahlt sich 5G aus |
+| Almaty-Stadt, Medeu, Schymb Bulak | Kcell ist das 5G-Herzland; das schnellste in Kasachstan gemessene Stadtnetz | Nichts Besonderes – hier zahlt sich 5G aus |
 
 | Straße zum Großen Almaty-See (~30 km südlich von Almaty) | 4G ist entlang der Zufahrtsstraße und am Hauptaussichtspunkt verfügbar, weiter oben wird das Netz schwächer | Fotografieren Sie unterwegs, nicht am Gipfel |
 
 | Astana, Linkes Ufer und EXPO-Viertel | 5G in der gesamten Neustadt; kein statistischer Netzbetreiber als Sieger bei der Geschwindigkeit | Tele2 für die stabilste Verbindung, Kcell für den schnellsten Spitzenspeed |
 
-| Schymkent | Schnellster medianer Download des Landes mit 128,91 Mbps, Kcell führend | Nutzen Sie ihn, um alles für den Süden herunterzuladen, was Sie brauchen |
+| Schymkent | Schnellster medianer Download Kasachstans mit 128,91 Mbps, Kcell führend | Nutzen Sie ihn, um alles für den Süden herunterzuladen, was Sie brauchen |
 
 | Turkistan und das Mausoleum von Khoja Ahmed Yasawi | Innerhalb des Korridors Schymkent–Turkistan; Kcell führt die Region mit 65,31 Mbps an | Zuverlässig; buchen Sie hier Ihre Weiterreise, solange Sie Empfang haben |
 
@@ -276,9 +276,9 @@ Die Entfernungen in Kasachstan sind groß genug, dass die Netzabdeckung von Ort 
 
 | Kolsai und Kaindy-Seen | Das Zugangsdorf Saty verfügt über ein einfaches Signal; die Netzabdeckung auf den Wegen zwischen den Seen ist lückenhaft und an den oberen Seen sowie am Kaindy-See nicht mehr vorhanden | Ab Saty ist von Offline-Bedingungen auszugehen |
 
-| Nationalpark Altyn-Emel | Stabiles 4G im Dorf Basshi; innerhalb des Parks gibt es laut eigener Empfehlung des Parks praktisch keinen Mobilfunkempfang | Tragen Sie einen Satelliten-Notrufmelder oder gehen Sie mit einem örtlichen Führer, der einen hat |
+| Nationalpark Altyn-Emel | Stabiles 4G im Dorf Basshi; innerhalb des Parks gibt es laut eigener Empfehlung des Parks praktisch keinen Mobilfunkempfang | Fahren Sie als Ganztagestour mit vollem Tank und ausreichend Bargeld los; in Basshi gibt es weder Geldautomat noch moderne Tankstelle |
 
-| Baikonur und die umliegende Steppe | Grundlegende Netzabdeckung in der Stadt Baikonur; sehr eingeschränktes Signal in den Aussichtsbereichen des Kosmodroms | Speichern Sie Notizen und Tickets für den Starttag vor dem Verlassen der Stadt auf Ihrem Gerät |
+| Baikonur (nur mit vorab gebuchter Tour und Genehmigung) | Grundversorgung in der Stadt; auf dem Kosmodromgelände selbst praktisch kein Mobilfunk | Klären Sie die Einreisegenehmigung Wochen im Voraus – die meisten Kasachstan-Reisen berühren diesen Ort nie |
 
 | Lange Strecken zwischen Städten (Almaty–Astana ~1.200 km) | 2G/3G in den Ortschaften, dazwischen nichts – unabhängig vom Netzbetreiber | Offline-Karten, voller Tank, ausreichend Wasser und eine geladene Powerbank |
 
@@ -296,7 +296,7 @@ Wählen Sie das Netz passend zur Form Ihrer Reise und nicht nach einer bevorzugt
 
 
 
-| Ihre Reise | Bestes Netz | Warum | Vorsicht vor |
+| Kasachstan-Reise | Passendes Netz | Begründung | Worauf Sie gefasst sein sollten |
 
 |:---|:---|:---|:---|
 
@@ -342,7 +342,7 @@ Die Lücke zwischen 5G-Netzabdeckung und tatsächlicher 5G-Nutzung ist der ehrli
 
 ## Netzabdeckung auf den Zugstrecken
 
-Kasachstans Schienennetz ist die zivilisierte Art, das Land zu durchqueren – und für Ihre Kasachstan-eSIM gleichzeitig ein ungeplanter Konnektivitätstest. Das Aushängeschild ist der **Tulpar-Talgo** zwischen Almaty und Astana: rund 1.300 km offenes Land in etwa 16 Stunden, mit Nachtfahrt entlang des Westufers des Balchaschsees zwischen alter und neuer Hauptstadt. Talgo-Garnituren verkehren außerdem auf der Strecke Almaty–Kostanay (ab Dezember 2025), zwischen Astana und Schymkent sowie seit dem 14. Dezember 2025 täglich zwischen Almaty und Taschkent mit mehr als 400 Fahrgästen pro Tag. Die vollständige Liste neuer und erweiterter Talgo-Verbindungen findet sich in der [Newsline des Anbieters](https://europeanrailtimetable.eu/blogs/railway-news/newslines-december-4-2025).
+Kasachstans Schienennetz ist die zivilisierte Art, Kasachstan zu durchqueren – und für Ihre Kasachstan-eSIM gleichzeitig ein ungeplanter Konnektivitätstest. Das Aushängeschild ist der **Tulpar-Talgo** zwischen Almaty und Astana: rund 1.300 km offenes Land in etwa 16 Stunden, mit Nachtfahrt entlang des Westufers des Balchaschsees zwischen alter und neuer Hauptstadt. Talgo-Garnituren verkehren außerdem auf der Strecke Almaty–Kostanay (ab Dezember 2025), zwischen Astana und Schymkent sowie seit dem 14. Dezember 2025 täglich zwischen Almaty und Taschkent mit mehr als 400 Fahrgästen pro Tag. Die vollständige Liste neuer und erweiterter Talgo-Verbindungen findet sich in der [Newsline des Anbieters](https://europeanrailtimetable.eu/blogs/railway-news/newslines-december-4-2025).
 
 
 
@@ -366,11 +366,11 @@ Was das für Ihr Telefon bedeutet:
 
 
 
-Der Kauf vor Ort ist unkompliziert, aber bürokratisch – und für Ihre Kasachstan-eSIM-Entscheidung sind die Regeln wichtiger als die Preise.
+Der Kauf in Kasachstan ist unkompliziert, aber bürokratisch – und für Ihre Kasachstan-eSIM-Entscheidung sind die Regeln wichtiger als die Preise.
 
 
 
-**Passregistrierung ist Pflicht.** Jede SIM-Karte in Kasachstan muss persönlich in einer offiziellen Filiale oder einem Kiosk auf einen Reisepass registriert werden. Nehmen Sie den physischen Reisepass mit, mit dem Sie eingereist sind – Kopien werden nicht akzeptiert – und rechnen Sie mit fünf bis fünfzehn Minuten am Schalter, während Ihre Daten in die nationale Datenbank aufgenommen werden. Kcell und Beeline betreiben beide Kioske in den Ankunftshallen der Flughäfen Almaty (ALA) und Astana (NQZ); die Preise am Flughafen liegen über denen in den Stadtfilialen.
+**Passregistrierung ist Pflicht.** Jede SIM-Karte in Kasachstan muss persönlich in einer offiziellen Filiale oder einem Kiosk auf einen Reisepass registriert werden. Nehmen Sie den physischen Reisepass mit, mit dem Sie eingereist sind – Kopien werden nicht akzeptiert – und rechnen Sie mit fünf bis fünfzehn Minuten am Schalter, während Ihre Daten in die nationale Datenbank aufgenommen werden. Kcell und Beeline betreiben beide Kioske in den Ankunftshallen der Flughäfen Almaty (ALA) und Astana (NQZ); die Preise am Flughafen liegen über denen in den Stadtfilialen. So läuft die Ankunft in Almaty ab: Nach der Einreise führt der Weg an der Gepäcksausgabe vorbei direkt in die Ankunftshalle mit den beiden Kiosken. Wer nachts in ALA landet, kann nur dort kaufen, denn die Stadtfilialen sind dann geschlossen – ein vorab installiertes Reiseprofil überbrückt diese Lücke ohne Warteschlange. Planen Sie für Registrierung und Installation fünfzehn bis dreißig Minuten ein, wenn zwei Flüge gleichzeitig ankommen.
 
 
 
@@ -394,7 +394,7 @@ Der Kauf vor Ort ist unkompliziert, aber bürokratisch – und für Ihre Kasachs
 
 
 
-Lokale Netzbetreiber verkaufen zwar eSIMs, doch ihre Online-Checkouts sind auf kasachische Zahlungskarten und russischsprachige Konten ausgelegt – die meisten Besucher stellen fest, dass der Weg über den Laden die einzig realistische Option vor Ort ist. Genau diese Reibung ist der Grund, warum eine vorab bezahlte Reise-eSIM bei Aufenthalten unter einem Monat die Standardwahl ist: sofortige Bereitstellung, keine Registrierungsschlange und Daten ab dem Moment, in dem Sie die Einreiseformalitäten hinter sich gebracht haben. Wenn Sie vorab prüfen möchten, ob ein Netz auf Ihrem Endgerät zuverlässig funktioniert, starten Sie mit dem [kostenlosen Testangebot](/free-esim/) und wechseln Sie auf einen Volltarif, sobald die Verbindung steht.
+Lokale Netzbetreiber verkaufen zwar eSIMs, doch ihre Online-Checkouts sind auf kasachische Zahlungskarten und russischsprachige Konten ausgelegt – die meisten Besucher stellen fest, dass der Weg über den Laden die einzig realistische Option vor Ort ist. Genau diese Reibung ist der Grund, warum eine vorab bezahlte Reise-eSIM in Kasachstan bei Aufenthalten unter einem Monat die Standardwahl ist: sofortige Bereitstellung, keine Registrierungsschlange und Daten ab dem Moment, in dem Sie die Einreiseformalitäten hinter sich gebracht haben. Wenn Sie vorab prüfen möchten, ob ein Netz auf Ihrem Endgerät zuverlässig funktioniert, starten Sie mit dem kostenlosen Testangebot und wechseln Sie auf einen Volltarif, sobald die Verbindung steht.
 
 
 
@@ -402,7 +402,7 @@ Lokale Netzbetreiber verkaufen zwar eSIMs, doch ihre Online-Checkouts sind auf k
 
 
 
-Wenn Sie dennoch eine lokale Rufnummer möchten, ist dies der Ablauf – und es gibt keine Abkürzungen.
+Ja, jede kasachische SIM wird persönlich auf einen Ausweis registriert. Wenn Sie dennoch eine lokale Rufnummer möchten, führt der Weg über den folgenden Ablauf – Abkürzungen gibt es keine.
 
 
 
@@ -540,11 +540,11 @@ Kasachstan teilt sich lange Landgrenzen mit vier Nachbarn, und jeder davon ist e
 
 - **Kirgisistan (Südosten).** Der Korridor Almaty–Bischkek ist ein kurzer, viel befahrener Grenzübergang, beliebt als Wochenendausflug. Auf der anderen Seite ist es ein separates Netz, daher ist eine kasachische SIM an der Grenze Schluss.
 
-- **Russland (Norden).** Eisenbahnverbindungen sind die übliche Route — die Verbindung Karaganda–Samara wurde 2025 bis nach Moskau verlängert und verkehrt zweimal wöchentlich. Lesen Sie unseren [Russland-eSIM-Netzbetreiber-Leitfaden](/carriers/russia-esim-carrier-guide/), bevor Sie die Grenze überqueren, da sich die Netz- und Roaming-Lage dort komplett ändert.
+- **Russland (Norden).** Eisenbahnverbindungen sind die übliche Route — die Verbindung Karaganda–Samara wurde 2025 bis nach Moskau verlängert und verkehrt zweimal wöchentlich. Werfen Sie einen Blick auf die [Russland-eSIM-Tarife](/russia-esim/), bevor Sie die Grenze überqueren, da sich die Netz- und Roaming-Lage dort komplett ändert.
 
-- **China (Osten).** Das Khorgos International Centre of Boundary Cooperation auf dem Korridor Almaty–Yining ist eine echte Kuriosität: eine 5,6 km² große grenzüberschreitende Freihandelszone, die chinesische und kasachische Staatsbürger sowie Drittstaatsangehörige mit Reisepass visumfrei betreten können, mit zollfreiem Einkauf auf beiden Seiten. Der Verkehr dort erreichte 2025 einen Rekord, und die Abfertigung wurde so weit automatisiert, dass ein kontaktloser „15-Sekunden“-Prozess möglich ist. Wenn Sie nach Guangdong oder Xinjiang selbst einreisen, sind Sie auf Festlandnetzen — das ist eine andere Reise, die in unserem [China-eSIM-Leitfaden](/carriers/china-esim-carrier-guide/) behandelt wird.
+- **China (Osten).** Das Khorgos International Centre of Boundary Cooperation auf dem Korridor Almaty–Yining ist eine echte Kuriosität: eine 5,6 km² große grenzüberschreitende Freihandelszone, die chinesische und kasachische Staatsbürger sowie Drittstaatsangehörige mit Reisepass visumfrei betreten können, mit zollfreiem Einkauf auf beiden Seiten. Der Verkehr dort erreichte 2025 einen Rekord, und die Abfertigung wurde so weit automatisiert, dass ein kontaktloser „15-Sekunden“-Prozess möglich ist. Wenn Sie nach Guangdong oder Xinjiang selbst einreisen, sind Sie auf Festlandnetzen — das ist eine andere Reise, für die unsere [China-eSIM-Tarife](/china-esim/) den passenden Rahmen geben.
 
-- **Die Mongolei (Nordosten)** ist der andere große Überland-Grenzübergang, allerdings weit von den Haupttouristenrouten entfernt; unser [Mongolei-eSIM-Leitfaden](/carriers/mongolia-esim-carrier-guide/) behandelt die Netze auf dieser Seite.
+- **Die Mongolei (Nordosten)** ist der andere große Überland-Grenzübergang, allerdings weit von den Haupttouristenrouten entfernt; unsere [Mongolei-eSIM-Tarife](/mongolia-esim/) behandeln die Netze auf dieser Seite.
 
 
 
@@ -560,7 +560,7 @@ Sie benötigen diese nur, wenn Sie eine SIM oder eSIM direkt von einem lokalen N
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Kasachischer Betreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -576,7 +576,7 @@ Der Kcell-Wert wird auf [Kcells Support-Seiten](https://www.kcell.kz/en/roaming/
 
 
 
-### Wann eine manuelle APN-Eingabe nötig ist
+### Wann Sie den kasachischen APN von Hand eintragen müssen
 
 
 
@@ -616,7 +616,7 @@ Starten Sie das Telefon nach dem Speichern neu. Stellen Sie anschließend sicher
 
 
 
-**Vor dem Flug:** Bestätigen Sie, dass das Telefon entsperrt ist, prüfen Sie Ihr Modell im [eSIM-Kompatibilitätstest](/compatibility/), machen Sie einen Screenshot des QR-Codes und installieren Sie Ihre Kasachstan-eSIM über Ihr heimisches WLAN. Die allgemeine Reihenfolge – eSIM hinzufügen, scannen, die Leitung beschriften, als Datenleitung festlegen, Datenroaming aktivieren – finden Sie im [Schritt-für-Schritt-Leitfaden zur eSIM-Aktivierung](/faq/how-to-activate-an-esim/). Wenn Sie verstehen möchten, was das Telefon während der Installation tatsächlich tut, behandelt die [Erklärung der eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) das Thema.
+**Vor dem Flug:** Bestätigen Sie, dass das Telefon entsperrt ist, prüfen Sie Ihr Modell im eSIM-Kompatibilitätstest, machen Sie einen Screenshot des QR-Codes und installieren Sie Ihre Kasachstan-eSIM über Ihr heimisches WLAN. Die allgemeine Reihenfolge – eSIM hinzufügen, scannen, die Leitung beschriften, als Datenleitung festlegen, Datenroaming aktivieren – finden Sie im [Schritt-für-Schritt-Leitfaden zur eSIM-Aktivierung](/faq/how-to-activate-an-esim/). Wenn Sie verstehen möchten, was das Telefon während der Installation tatsächlich tut, behandelt die [Erklärung der eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) das Thema.
 
 
 
@@ -630,9 +630,9 @@ Starten Sie das Telefon nach dem Speichern neu. Stellen Sie anschließend sicher
 
 | 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | Die Netzbetreiber-Sperre unter Einstellungen → Allgemein → Info zeigt „Keine SIM-Beschränkungen“ |
 
-| 2 | Gerät unterstützt eSIM | Beim Wählen von `*#06#` wird eine EID angezeigt, oder die [Handy-Kompatibilitätsprüfung](/compatibility/) bestätigt Ihr Modell |
+| 2 | Gerät unterstützt eSIM | Beim Wählen von `*#06#` wird eine EID angezeigt; ein zweiter Check über die Modellliste des Herstellers bestätigt das Gerät |
 
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud gespeichert |
+| 3 | QR-Code und Aktivierungscode doppelt gesichert | Screenshot im Telefon und in der Cloud – in der Steppe ohne Netz ist ein zweiter Abruf unmöglich |
 
 | 4 | Profil vor der Abreise installiert | Über das heimische WLAN installiert; es aktiviert sich automatisch bei der Landung |
 
@@ -694,7 +694,7 @@ Starten Sie das Telefon nach dem Speichern neu. Stellen Sie anschließend sicher
 
 2. Deaktivieren oder löschen Sie alle anderen aktiven Profile, einschließlich einer übrig gebliebenen lokalen Prepaid-eSIM.
 
-3. Starten Sie neu und setzen Sie dann die Netzwerkeinstellungen zurück.
+3. Starten Sie das Gerät neu und setzen Sie erst danach die Netzwerkeinstellungen zurück (Einstellungen → Allgemein → Zurücksetzen).
 
 4. Als letzten Ausweg entfernen Sie das Profil und installieren Sie es anhand eines neuen QR-Codes neu.
 
@@ -704,7 +704,7 @@ Hartnäckige Fehler, die alle fünf Muster überstehen, gehören in den [Leitfad
 
 
 
-### Was Sie vor dem Support-Anruf bereithalten
+### Was Kcell, Beeline und Tele2 vor dem Support-Anruf sehen wollen
 
 
 
@@ -712,19 +712,19 @@ Hartnäckige Fehler, die alle fünf Muster überstehen, gehören in den [Leitfad
 
 |:---|:---|
 
-| Bestell- oder Kontoreferenz | Bestätigungs-E-Mail |
+| Bestell- oder Kontoreferenz bei Roami | Bestätigungs-Mail aus dem Kaufvorgang |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Handy-Modell und Android- bzw. iOS-Version | Einstellungen → Über das Telefon (Android) oder Einstellungen → Allgemein → Info (iOS) |
 
 | EID | Geben Sie `*#06#` ein |
 
 | IMEI, wenn Sie ein Gerät registrieren | Im selben `*#06#`-Bildschirm |
 
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Noch im Fehlerdialog aufnehmen – Kcell und Beeline verlangen ihn im Support-Chat als Erstes |
 
-| Aktuelle APN-Einstellungen | Einstellungen → Mobiles Datennetz |
+| Aktueller APN des kasachischen Profils | Einstellungen → Mobilfunk → Zugangspunkte (APN) |
 
-| Datenroaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
+| Status des Daten-Roamings auf dem Reiseprofil | Einstellungen → Mobilfunk → Kasachstan-Leitung → Datenoptionen |
 
 | Bereits versuchte Schritte | Halten Sie eine kurze nummerierte Liste |
 
@@ -738,7 +738,7 @@ Hartnäckige Fehler, die alle fünf Muster überstehen, gehören in den [Leitfad
 
 
 
-Kcell für Geschwindigkeit, Tele2 insgesamt für das beste Erlebnis. Kcell erzielte den schnellsten medianen 5G-Download des Landes (368,95 Mbps) und ist in Almaty und Schymkent der schnellste Anbieter; Tele2 gewann die Auszeichnung „Bestes Mobilfunknetz“ insgesamt und bot die beste Konstanz in Astana. In beiden Netzen ist die Performance in den Städten ausgezeichnet.
+Kcell für Geschwindigkeit, Tele2 insgesamt für das beste Erlebnis. Kcell erzielte den schnellsten medianen 5G-Download Kasachstans (368,95 Mbps) und ist in Almaty und Schymkent der schnellste Anbieter; Tele2 gewann die Auszeichnung „Bestes Mobilfunknetz“ insgesamt und bot die beste Konstanz in Astana. In beiden Netzen ist die Performance in den Städten ausgezeichnet.
 
 
 
@@ -882,7 +882,7 @@ Eine Kasachstan-eSIM nimmt Kcell, wo die Städte dicht sind, Tele2 in den Region
 
 
 
-[Kasachstan kostenlos testen](/free-esim/)
+Kasachstan kostenlos testen
 
 
 

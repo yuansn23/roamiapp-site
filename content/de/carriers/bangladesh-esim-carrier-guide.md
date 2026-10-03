@@ -15,7 +15,7 @@ hero_badge: "Der Bangladesh-Netzführer: Wer gewinnt wo"
 hero_subtitle_main: "Die bangladeschischen Netze ohne Marketing-Glanz"
 ---
 
-Eine Bangladesch eSIM verbindet Sie mit denselben Masten, die auch Einheimische nutzen, und hier zählen die Masten mehr als die Marke. Der Speedtest Global Index für August 2026 von Ookla weist eine mediane mobile Download-Geschwindigkeit von **56.45 Mbps** aus — Platz 91 weltweit, bei 28 ms Latenz — und Cable.co.uk veranschlagt 1 GB lokale Daten mit etwa **USD 0.23**. Die eigentliche Frage lautet daher nicht, ob Sie eine Bangladesch eSIM kaufen sollten, sondern welches Netz sie tragen sollte. Die Problemfälle, die das Support-Team von Roami für Bangladesch bearbeitet, sind genau das, was die Abschnitte zu Netzabdeckung und Registrierung unten ungeschönt behandeln.
+Eine Bangladesch-eSIM verbindet Sie mit denselben Masten, die auch Einheimische nutzen, und hier zählen die Masten mehr als die Marke. Der Speedtest Global Index für August 2026 von Ookla weist eine mediane mobile Download-Geschwindigkeit von **56.45 Mbps** aus — Platz 91 weltweit, bei 28 ms Latenz — und Cable.co.uk veranschlagt 1 GB lokale Daten mit etwa **USD 0.23**. Die eigentliche Frage lautet daher nicht, ob Sie ein Bangladesch-Profil kaufen sollten, sondern welches Netz sie tragen sollte. Die Problemfälle, die das Support-Team von Roami für Bangladesch bearbeitet, sind genau das, was die Abschnitte zu Netzabdeckung und Registrierung unten ungeschönt behandeln.
 
 **Schnelle Antwort:** Grameenphone, wenn Sie sich in Bangladesch viel bewegen, Robi, wenn Sie in einer einzelnen Stadt bleiben. Die Details zu Geschwindigkeit, Preis und Registrierung unten untermauern diese Aufteilung, und die [Kompatibilitätsseite](/compatibility/) schließt Telefonprobleme zuerst aus.
 
@@ -27,7 +27,7 @@ Wenn Sie die Mechanik einer Profilinstallation verstehen möchten, beginnen Sie 
 
 ## Welches lokale eSIM-Netz passt zu Ihrer Route?
 
-Grameenphone baute das größte Mastennetz, Robi bündelte Kapazitäten dort, wo Menschen und Geld sind, und Banglalink konkurriert über den Preis. Gleichen Sie Ihre Reiseroute mit dieser Tabelle ab, bevor Sie eine Bangladesch eSIM kaufen.
+Grameenphone baute das größte Mastennetz, Robi bündelte Kapazitäten dort, wo Menschen und Geld sind, und Banglalink konkurriert über den Preis. Gleichen Sie Ihre Reiseroute mit dieser Tabelle ab, bevor Sie ein Bangladesch-Profil kaufen.
 
 | Ihre Route | Bestes eSIM-Netz in Bangladesch | Warum es dort überzeugt | Darauf achten |
 |:---|:---|:---|:---|
@@ -75,11 +75,11 @@ In Bangladesch besitzen vier Betreiber eine Mobilfunklizenz. **Grameenphone** (T
 | Wo er verliert | Wiederholte Qualitätsservicehinweise der Regulierungsbehörde | Ländlicher Ausbau nimmt schneller ab als bei GP | Schwächste ländliche Netzabdeckung der drei Anbieter |
 | Registrierung für Besucher | Touristen-SIM-Karten mit biometrischer Registrierung | Derselbe Vorgang | Derselbe Vorgang |
 
-Eine Zahl hat sich kürzlich geändert: Die Regulierungsbehörde hat jede nationale ID ab dem 1. November 2025 auf **10 SIM-Karten** begrenzt (zuvor 15), und rund fünf Millionen Anschlüsse wurden deaktiviert. Alle drei Netzbetreiber verkaufen eSIMs, aber keiner verkauft eine eSIM an einen ausländischen Laufkunden ohne biometrische Erfassung.
+Eine Zahl hat sich kürzlich geändert: Die Regulierungsbehörde hat jede nationale ID ab dem 1. November 2025 auf **10 SIM-Karten** begrenzt (zuvor 15), und rund fünf Millionen Anschlüsse wurden deaktiviert. Alle drei Netzbetreiber verkaufen Profile, aber keiner verkauft ein Profil an einen ausländischen Laufkunden ohne biometrische Erfassung.
 
 ### Grameenphones Vorteil auf dem Land
 
-Grameenphone betreibt das größte Netz des Landes – im Geschäftsbericht 2024 werden fast 23.000 Sendemasten ausgewiesen – und hält Spektrum bei 900, 1800, 2100 und 2600 MHz. Dieser Low-Band-Anteil bei 900 MHz trägt das Signal in Dörfer im Delta, in Teeplantagen und in die Sundarbans-Gateway-Städte, wo die Konkurrenz dünner wird. Zudem war Grameenphone der erste bangladeschische Netzbetreiber, der eSIM unterstützt hat.
+Grameenphone betreibt das größte Netz des Landes – im Geschäftsbericht 2024 werden fast 23.000 Sendemasten ausgewiesen – und hält Spektrum bei 900, 1800, 2100 und 2600 MHz. Dieser Low-Band-Anteil bei 900 MHz trägt das Signal in Dörfer im Delta, in Teeplantagen und in die Sundarbans-Gateway-Städte, wo die Konkurrenz dünner wird. Zudem war Grameenphone der erste bangladeschische Netzbetreiber, der Profil unterstützt hat.
 
 ### Robi als Stadtspezialist
 
@@ -87,13 +87,13 @@ Robis Fusion mit Airtel bescherte ihm ein starkes städtisches Netz, und es gilt
 
 ### Banglalink mit den günstigsten Paketen
 
-Banglalink, im Besitz von VEON, gewinnt beim Preis, und die neuesten Geschwindigkeitsdaten setzen den Anbieter beim 4G-Download an die Spitze. Der Haken ist der Prozess: eSIMs werden nur in den Banglalink-Centern verkauft, mit biometrischer Überprüfung vor Ort – die Ersparnis ist also an einen Ladenbesuch gebunden. Die ländliche Netzabdeckung ist von allen drei Anbietern am dünnsten.
+Banglalink, im Besitz von VEON, gewinnt beim Preis, und die neuesten Geschwindigkeitsdaten setzen den Anbieter beim 4G-Download an die Spitze. Der Haken ist der Prozess: Profile werden nur in den Banglalink-Centern verkauft, mit biometrischer Überprüfung vor Ort – die Ersparnis ist also an einen Ladenbesuch gebunden. Die ländliche Netzabdeckung ist von allen drei Anbietern am dünnsten.
 
 ### Cirkle und Teletalk an den Schaltern
 
 Zwei Namen in bangladeschischen Shops verunsichern Besucher. **Cirkle** ist die Marke, die Robi am 17. August 2026 eingeführt hat, um Airtel zu ersetzen, seine Jugend-Submarke seit der Fusion 2016. Airtel-Kunden behielten ihre 016-Nummern und Guthaben, und das darunterliegende Netz ist das von Robi – eine Cirkle-SIM nutzt also Robis APN. **Teletalk**, der staatliche Betreiber, ist der günstigste der vier und derjenige, mit dem man am vorsichtigsten umgehen sollte.
 
-## eSIM eines bangladeschischen Netzbetreibers kaufen oder Reise-eSIM installieren?
+## Profil eines bangladeschischen Netzbetreibers kaufen oder Reise-eSIM installieren?
 
 | | Lokale Netzbetreiber-eSIM oder SIM | Reise-eSIM in einem bangladeschischen Netzwerk |
 |:---|:---|:---|
@@ -108,9 +108,13 @@ Zwei Namen in bangladeschischen Shops verunsichern Besucher. **Cirkle** ist die 
 
 Wirtschaftlich sind lokale Netzbetreiber beim Preis pro Gigabyte im Vorteil, doch die Registrierung ist der Preis, den man zahlt: An den Schaltern von Hazrat Shahjalal bilden sich regelmäßig Schlangen von 20 bis 45 Minuten, und der Fingerabdruckscan kann nicht aus der Ferne durchgeführt werden. Eine Reise-eSIM kostet pro Gigabyte mehr und ist in zwei Minuten aktiv.
 
-Wo die Netzbetreiber-Variante punktet, sind Langlebigkeit und Telefonie: eine +880-Nummer für lokale Ride-Hailing- und Liefer-OTPs, Aufladungen in jedem Shop und eine Leitung, die einen mehrmonatigen Aufenthalt übersteht. 💡 Für den Mittelweg – sofortige Aktivierung, keine Biometrie und automatisches Wechseln zwischen allen drei Netzen – ist genau das, wofür die [Bangladesch-eSIM von Roami](/bangladesh-esim/) entwickelt wurde.
+Wo die Netzbetreiber-Variante punktet, sind Langlebigkeit und Telefonie: eine +880-Nummer für lokale Ride-Hailing- und Liefer-OTPs, Aufladungen in jedem Shop und eine Leitung, die einen mehrmonatigen Aufenthalt übersteht. 💡 Genau für diesen Mittelweg – sofortige Aktivierung, keine Biometrie und automatisches Wechseln zwischen allen drei Netzen – wurde die [Bangladesch-eSIM von Roami](/bangladesh-esim/) entwickelt.
 
-## Welche Smartphones eSIM unterstützen
+### Rechenbeispiel: Prepaid-SIM gegen Reise-eSIM
+
+Nehmen wir eine Woche Bangladesch mit etwa 2 GB pro Tag – zusammen rund 14 GB. Eine lokale Touristen-SIM mit 15–40 GB kostet laut den Preisen in diesem Guide **Tk 1.000–2.000** (etwa 8–17 USD) und ist damit pro Gigabyte unschlagbar günstig. Der Preis dafür ist die Registrierung: Reisepass, Live-Fingerabdruck und eine Warteschlange von **20–45 Minuten** am Schalter von Hazrat Shahjalal. Eine Reise-eSIM liegt mit **4–8 USD für 3–5 GB** zwar höher pro Gigabyte, spart aber den Schalter komplett und ist in zwei Minuten aktiv. Wer länger als einen Monat bleibt oder eine +880-Nummer für Ride-Hailing- und Liefer-OTPs braucht, ist mit der lokalen Karte besser bedient; für Kurztrips unter drei Wochen gewinnt die Reise-eSIM durch Zeitersparnis.
+
+## Welche Smartphones Profil unterstützen
 
 ### Kann mein Smartphone eine Bangladesch-eSIM nutzen?
 
@@ -118,7 +122,7 @@ Das 4G-Netz in Bangladesch funkt auf 900, 1800, 2100 und 2600 MHz – LTE-Bände
 
 Prüfen Sie Ihr genaues Modell – die Modellnummer, nicht den Marketingnamen – anhand der [Kompatibilitätsliste](/compatibility/) und wählen Sie `*#06#`: Erscheint eine EID, kann das Gerät ein Profil aufnehmen.
 
-### Warum gesperrte Handys keine eSIM annehmen
+### Warum gesperrte Handys kein Profil annehmen
 
 Ein gesperrtes Smartphone ist der häufigste Grund, warum eine Bangladesch-eSIM zwar installiert, aber nie verbunden wird. Prüfen Sie unter iPhone → Einstellungen → Allgemein → Info → Netzbetreiber-Sperre. Steht dort „SIM gesperrt“, lässt sich kein Drittanbieter-Profil registrieren, bis der ursprüngliche Netzbetreiber die Sperre aufhebt – in der Regel kostenlos, sobald das Gerät abbezahlt ist.
 
@@ -126,8 +130,8 @@ Ein gesperrtes Smartphone ist der häufigste Grund, warum eine Bangladesch-eSIM 
 
 | Gerät | Symptom | Was zu tun ist |
 |:---|:---|:---|
-| iPhone-Modelle für Festlandchina | Keine Option „eSIM hinzufügen“ verfügbar | Nicht behebbar – verwenden Sie eine physische SIM-Karte oder ein anderes Smartphone |
-| Netzbetreiber-gebundene Geräte | eSIM wird installiert, registriert sich jedoch nie | Zuerst beim ursprünglichen Netzbetreiber entsperren |
+| iPhone-Modelle für Festlandchina | Keine Option „Profil hinzufügen“ verfügbar | Nicht behebbar – verwenden Sie eine physische SIM-Karte oder ein anderes Smartphone |
+| Netzbetreiber-gebundene Geräte | Profil wird installiert, registriert sich jedoch nie | Zuerst beim ursprünglichen Netzbetreiber entsperren |
 | Dual-SIM-Setups | Daten laufen weiterhin über die heimische SIM-Karte | Mobile Daten auf die bangladeschische eSIM-Leitung umstellen |
 | Ältere günstige Android-Geräte | Keine Unterstützung für Band 41 | Erwartetes Verhalten — LTE in Städten, überall in Ordnung |
 
@@ -136,38 +140,35 @@ Ein gesperrtes Smartphone ist der häufigste Grund, warum eine Bangladesch-eSIM 
 | Geräteklasse | Was Sie in Bangladesch sehen werden | Was Sie dagegen tun können |
 |:---|:---|:---|
 | Flaggschiff ab 2020 oder neuer (iPhone 12+, Galaxy S21+, Pixel 6+) | Volle Unterstützung der Bänder 3, 8 und 41; 5G, wo der Netzbetreiber dies anbietet | Nichts — installieren und loslegen |
-| 2018–2019 eSIM-fähiges Gerät (iPhone XS/XR, Pixel 3) | eSIM funktioniert; kein Band 41, daher fällt die Kapazität in der Stadt auf LTE zurück | Langsamere Spitzenzeiten in der Stadt, normaler Service anderswo |
+| 2018–2019 eSIM-fähiges Gerät (iPhone XS/XR, Pixel 3) | Profil funktioniert; kein Band 41, daher fällt die Kapazität in der Stadt auf LTE zurück | Langsamere Spitzenzeiten in der Stadt, normaler Service anderswo |
 | Mittelklasse-Android ohne Band 41 | Verbindet sich nur mit Band 3 und Band 8 | Geeignet für Karten und Nachrichten; rechnen Sie nicht mit schnellen Downloads |
-| Dual-SIM-Nutzer mit einer Heim-SIM in Steckplatz 1 | Die Daten können standardmäßig über die Heimleitung laufen | Legen Sie die eSIM als Mobilfunkdatenleitung fest und behalten Sie die Sprachtelefonie über die Heimleitung |
+| Dual-SIM-Nutzer mit einer Heim-SIM in Steckplatz 1 | Die Daten können standardmäßig über die Heimleitung laufen | Legen Sie das Profil als Mobilfunkdatenleitung fest und behalten Sie die Sprachtelefonie über die Heimleitung |
 | Tablet oder Laptop mit eSIM-Steckplatz | Funktioniert, aber keine Telefonie und keine USSD-Codes für die Kontostandsabfrage | Prüfen Sie das verfügbare Datenvolumen stattdessen in der App des Netzbetreibers |
 | Telefon mit Ratenzahlung beim Netzbetreiber im Ausland | Kann noch gesperrt sein | Entsperren Sie es vor dem Flug, nicht erst am Flughafen |
 
-## BTRC-Registrierungsregeln für Ihre eSIM oder Touristen-SIM
+## BTRC-Registrierungsregeln für Ihr Profil oder Touristen-SIM
 
-Bangladesch verlangt, dass jede SIM auf eine verifizierte Identität registriert wird, und seit Ende 2015 erfolgt diese Verifizierung **biometrisch**: ein Live-Fingerabdruckscan, der mit der zentralen biometrischen Verifizierungs- und Überwachungsplattform (CBVMP) der Regierung abgeglichen wird. Es gibt keinen legalen Weg, dies für eine lokal ausgestellte SIM oder eSIM zu umgehen.
+Bangladesch verlangt, dass jede SIM auf eine verifizierte Identität registriert wird, und seit Ende 2015 erfolgt diese Verifizierung **biometrisch**: ein Live-Fingerabdruckscan, der mit der zentralen biometrischen Verifizierungs- und Überwachungsplattform (CBVMP) der Regierung abgeglichen wird. Es gibt keinen legalen Weg, dies für eine lokal ausgestellte SIM oder Profil zu umgehen.
 
-Für Besucher ergänzen die Tourist-SIM-Richtlinien der BTRC diesen Rahmen um spezifische Vorgaben, die hier zusammengefasst sind – für alle, die eine in Bangladesch gekaufte eSIM mit einer im Heimatland erworbenen abwägen.
+Für Besucher ergänzen die Tourist-SIM-Richtlinien der BTRC diesen Rahmen um spezifische Vorgaben, die hier zusammengefasst sind – für alle, die ein in Bangladesch gekauftes Profil mit einer im Heimatland erworbenen abwägen.
 
 | Regel | Was sie für einen Besucher bedeutet |
 |:---|:---|
-| Passgebundene Registrierung | Eine lokale SIM oder eSIM wird mit Ihrem Reisepass im CBVMP registriert, einschließlich eines Live-Fingerabdruckscans |
+| Passgebundene Registrierung | Eine lokale SIM oder Profil wird mit Ihrem Reisepass im CBVMP registriert, einschließlich eines Live-Fingerabdruckscans |
 | Zwei SIM-Karten pro Reisepass | Sie können eine verlorene Touristen-SIM-Karte nicht ersetzen, ohne das Land zu verlassen und erneut einzureisen |
 | 7-, 15- und 30-Tage-Blöcke | Die touristische Gültigkeit ist in festen Blöcken statt in individuellen Laufzeiten verfügbar |
 | Automatische Abmeldung | Die Leitung meldet sich nach 30 Tagen selbst ab, sodass nichts gekündigt werden muss |
 | Längere Aufenthalte | Eine reguläre SIM-Karte, die auf eine Arbeitserlaubnis registriert ist, ist die Option für Aufenthalte über 30 Tage |
 
+### Minutenplan für die Ankunft in Dhaka
+
+Am Hazrat Shahjalal International Airport (DAC) folgt nach der Passkontrolle der Gang zu den Netzbetreiber-Schaltern in der Ankunftshalle. Rechnen Sie damit: Schalter finden und anstellen (5 Minuten), Touristen-SIM oder -eSIM verlangen (2 Minuten), Originalpass und Visum vorlegen (3 Minuten), Fingerabdruck am Lesegerät (2 Minuten), QR-Code sofort über das WLAN des Schalters scannen (3 Minuten), Datenverbindung testen (1 Minute). Realistisch sind also **20–45 Minuten** vor Ort. Die Schalter akzeptieren Barzahlung in Taka, und Wechselgeld kann knapp sein – halten Sie passende Scheine bereit. Ihr Plan B: Eine vor der Reise installierte Reise-eSIM braucht keinen Schalter, keinen Fingerabdruck und keine Schlange und verbindet sich beim Verlassen der Gepäckhalle.
+
 ### So läuft die Registrierung am Schalter ab
 
 Die Schritte sind kurz, aber unerbittlich, wenn Unterlagen fehlen. So läuft es am Ankunftsschalter in Hazrat Shahjalal oder in einem Shop des Netzbetreibers ab.
 
-1. **Stellen Sie sich in die Schlange am Schalter des Netzbetreibers.** Grameenphone, Robi und Banglalink besetzen alle Ankunftsschalter in Dhaka. Rechnen Sie nach einem Langstreckenflug mit 20–45 Minuten.
-2. **Fragen Sie nach einer Touristen-SIM oder einer Touristen-eSIM** und verlangen Sie die vollständige Tarifliste. Das Personal präsentiert manchmal zuerst das größte Paket; die 7-Tage- und 15-Tage-Blöcke bieten in der Regel das bessere Preis-Leistungs-Verhältnis.
-3. **Übergeben Sie Ihren Originalpass und Ihr Visum** (bzw. den Einreisestempel, falls Sie mit einem Visa-on-Arrival-Verfahren eingereist sind). Fotokopien werden häufig abgelehnt.
-4. **Beobachten Sie die Fingerabdruckerfassung.** Ihr Finger wird auf das Lesegerät des Netzbetreibers gelegt und der Scan wird mit der CBVMP abgeglichen.
-5. **Geben Sie eine lokale Kontaktadresse an.** Ihr Hotel wird akzeptiert. Manche Schalter tragen diese ohne Rückfrage ein – halten Sie den Namen trotzdem bereit.
-6. **Zahlen Sie bar in Taka.** Flughafenschalter sind die wohl kartenunfreundlichste Bezahlstelle im ganzen Land.
-7. **Wenn Sie eine eSIM gewählt haben, scannen Sie den QR-Code sofort** über eine stabile Verbindung, idealerweise über das WLAN des Schalters selbst. Die meisten Codes sind nur einmal verwendbar.
-8. **Vergewissern Sie sich, dass die Leitung aktiv ist, bevor Sie weggehen,** indem Sie eine Seite über mobile Daten öffnen – nicht über WLAN.
+1. **Stellen Sie sich in die Schlange am Schalter des Netzbetreibers.** Grameenphone, Robi und Banglalink besetzen alle Ankunftsschalter in Dhaka. Rechnen Sie nach einem Langstreckenflug mit 20–45 Minuten. 2. **Fragen Sie nach einer Touristen-SIM oder einer Touristen-eSIM** und verlangen Sie die vollständige Tarifliste. Das Personal präsentiert manchmal zuerst das größte Paket; die 7-Tage- und 15-Tage-Blöcke bieten in der Regel das bessere Preis-Leistungs-Verhältnis. 3. **Übergeben Sie Ihren Originalpass und Ihr Visum** (bzw. den Einreisestempel, falls Sie mit einem Visa-on-Arrival-Verfahren eingereist sind). Fotokopien werden häufig abgelehnt. 4. **Beobachten Sie die Fingerabdruckerfassung.** Ihr Finger wird auf das Lesegerät des Netzbetreibers gelegt und der Scan wird mit der CBVMP abgeglichen. 5. **Geben Sie eine lokale Kontaktadresse an.** Ihr Hotel wird akzeptiert. Manche Schalter tragen diese ohne Rückfrage ein – halten Sie den Namen trotzdem bereit. 6. **Zahlen Sie bar in Taka.** Flughafenschalter sind die wohl kartenunfreundlichste Bezahlstelle im ganzen Land. 7. **Wenn Sie ein Profil gewählt haben, scannen Sie den QR-Code sofort** über eine stabile Verbindung, idealerweise über das WLAN des Schalters selbst. Die meisten Codes sind nur einmal verwendbar. 8. **Vergewissern Sie sich, dass die Leitung aktiv ist, bevor Sie weggehen,** indem Sie eine Seite über mobile Daten öffnen – nicht über WLAN.
 
 ### Welche Registrierungsregeln gelten in Bangladesch?
 
@@ -198,13 +199,13 @@ Robi registriert Besucher über eigene Servicestellen mit derselben Pass-plus-Bi
 
 ### Der Banglalink-eSIM-Weg
 
-Banglalink verlangt für Neukäufe und Umstellungen von eSIMs einen Besuch in einem Banglalink Centre; es gibt keinen Online-Selbstbedienungsweg. Das Personal erledigt die biometrische Verifizierung und händigt Ihnen einen QR-Code aus. Belohnt wird man mit den günstigsten Daten im Raum, was bei längeren Aufenthalten in gut versorgten Städten zählt.
+Banglalink verlangt für Neukäufe und Umstellungen von Profile einen Besuch in einem Banglalink Centre; es gibt keinen Online-Selbstbedienungsweg. Das Personal erledigt die biometrische Verifizierung und händigt Ihnen einen QR-Code aus. Belohnt wird man mit den günstigsten Daten im Raum, was bei längeren Aufenthalten in gut versorgten Städten zählt.
 
 ### Der Reise-eSIM-Weg in Bangladesch
 
-Kaufen Sie Ihre Bangladesch eSIM online vor der Abreise, installieren Sie den QR-Code zu Hause, und das Profil verbindet sich mit Grameenphone, Robi oder Banglalink, sobald Sie die Zollkontrolle passiert haben – kein Schalter, keine Fingerabdrücke. Unsere [Aktivierungsanleitung](/faq/how-to-activate-an-esim/) erklärt die Installation auf iOS und Android, einschließlich der Möglichkeit, das Profil erst nach der Landung zu aktivieren, damit die Gültigkeitsuhr im richtigen Moment startet.
+Kaufen Sie Ihre Bangladesch Profil online vor der Abreise, installieren Sie den QR-Code zu Hause, und das Profil verbindet sich mit Grameenphone, Robi oder Banglalink, sobald Sie die Zollkontrolle passiert haben – kein Schalter, keine Fingerabdrücke. Unsere [Aktivierungsanleitung](/faq/how-to-activate-an-esim/) erklärt die Installation auf iOS und Android, einschließlich der Möglichkeit, das Profil erst nach der Landung zu aktivieren, damit die Gültigkeitsuhr im richtigen Moment startet.
 
-## So laden Sie Ihre eSIM auf
+## So laden Sie Ihr Profil auf
 
 Prepaid ist hier der gesamte Markt, und Datenguthaben aufzubrauchen ist ein Fünf-Minuten-Problem statt ein Notfall – vorausgesetzt, Sie wissen, welcher Kanal wo funktioniert.
 
@@ -231,7 +232,7 @@ Diese Kurzwahlcodes gelten für lokale Leitungen der vier Netze und funktioniere
 | Teletalk | `*152#` | `*152#` | `*551#` |
 
 
-## Wo Ihre eSIM überall Empfang hat
+## Wo Ihr Profil überall Empfang hat
 
 National gesehen stuft der Speedtest Global Index vom August 2026 Bangladesch bei einer **56,45 Mbps** medianen mobilen Downloadgeschwindigkeit auf Platz 91 der Welt mit 28 ms Latenz ein, während das Festnetz-Breitband bei 109,09 Mbps liegt. Ihre Bangladesch-eSIM übernimmt das lokale Netz und nicht etwa eine separate Roaming-Verbindung. Die Pluspunkte sind Preis und Reichweite: rund 0,23 USD pro Gigabyte, 77,7 Millionen Internetnutzer bei 44,5 % Durchdringung und 185 Millionen Mobilfunkanschlüsse.
 
@@ -264,11 +265,12 @@ Ein Stück Geschichte gehört in jeden Bangladesch-eSIM-Ratgeber: Dem Land wurde
 
 Sie planen, die Reise über Bangladesch hinaus zu verlängern? Alle drei Grenzen sind über Land erreichbar, und für jede gibt es ein eigenes Pendant zu dieser Seite:
 
-- Der [Indien eSIM-Guide](/carriers/india-esim-carrier-guide/)
-- Der [Nepal eSIM-Ratgeber](/carriers/nepal-esim-carrier-guide/)
-- Unser [Myanmar Netzbetreiber-Vergleich](/carriers/myanmar-esim-carrier-guide/)
+- Der [Indien-eSIM-Tarif](/india-esim/)
+- Der [Nepal-eSIM-Tarif](/nepal-esim/)
+- Der [Myanmar-eSIM-Tarif](/myanmar-esim/)
+- Die [eSIM für Südasien und ganz Asien](/asia-esim/) – wenn Ihre Reise weiter durch die Region führt
 
-## Wenn Ihre eSIM plötzlich langsamer wird
+## Wenn Ihr Profil plötzlich langsamer wird
 
 Überlastungen bei einer Bangladesch-eSIM sind vorhersehbar, und sie sind ebenso saisonabhängig wie tageszeitabhängig. Zwei nationale Ereignisse bewegen gleichzeitig zig Millionen Menschen, und ein Wettersystem besorgt den Rest.
 
@@ -286,37 +288,37 @@ Der Monsun dauert ungefähr von Juni bis September und ist ebenso ein Netzwerker
 |:---|:---|:---|
 | Dhaka am Abend in der Stoßzeit, ungefähr 20–23 Uhr | Die Downloadgeschwindigkeit liegt unter dem nationalen Median | Erledigen Sie größere Uploads am Morgen; verschieben Sie Messaging-Anwendungen auf den Abend |
 | Freitagnachmittag und Feiertage | Mehr Videoverkehr in jedem Netz in den Städten | Kein Fehler zu beheben — das Netz ist einfach ausgelastet |
-| Reisewoche zum Eid | Ländliche Funkzellen überlastet, städtische Funkzellen ruhig | Lassen Sie die eSIM das stärkste Netz neu auswählen und laden Sie vorher herunter, was Sie benötigen |
+| Reisewoche zum Eid | Ländliche Funkzellen überlastet, städtische Funkzellen ruhig | Lassen Sie das Profil das stärkste Netz neu auswählen und laden Sie vorher herunter, was Sie benötigen |
 | Monsunregen | Kurze Aussetzer, besonders bei hohen Bändern | Gehen Sie in die Nähe eines Fensters oder nach draußen; das Low-Band-Signal erholt sich zuerst |
 | Zyklonwarnung in einem Küstenbezirk | Stromausfälle können Tage, nicht nur Stunden dauern | Offline-Karten, eine Powerbank und eine handschriftliche Liste mit Telefonnummern |
 
-## APN-Einstellungen für eSIMs von Netzbetreibern in Bangladesch
+## APN-Einstellungen für Profile von Netzbetreibern in Bangladesch
 
-APN-Einstellungen sind das Letzte, was die meisten Reisenden anpassen müssen, und das Erste, das es auszuschließen gilt, wenn die Datenverbindung nicht funktioniert. Moderne Profile konfigurieren sich in der Regel selbst; diese Werte werden nur benötigt, wenn eine eSIM aus Bangladesch ohne eigene Einstellungen installiert wurde.
+APN-Einstellungen sind das Letzte, was die meisten Reisenden anpassen müssen, und das Erste, das es auszuschließen gilt, wenn die Datenverbindung nicht funktioniert. Moderne Profile konfigurieren sich in der Regel selbst; diese Werte werden nur benötigt, wenn ein Profil aus Bangladesch ohne eigene Einstellungen installiert wurde.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Bangladesch-Netz | Zugangspunkt (APN) | Nutzer | Passwort |
 |:---|:---|:---|:---|
 | Grameenphone | `gpinternet` | leer | leer |
 | Robi (und Cirkle) | `internet` | leer | leer |
 | Banglalink | `blweb` | leer | leer |
 
-Benutzername und Passwort leer lassen. Um sie manuell einzugeben: auf dem iPhone unter Einstellungen → Mobilfunk → die eSIM-Leitung antippen → Mobilfunkdaten-Netzwerk; auf Android unter Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunkte. Speichern, neu starten und bestätigen, dass die eSIM — nicht Ihre Heim-SIM — als Datenleitung ausgewählt ist.
+Benutzername und Passwort leer lassen. Um sie manuell einzugeben: auf dem iPhone unter Einstellungen → Mobilfunk → die eSIM-Leitung antippen → Mobilfunkdaten-Netzwerk; auf Android unter Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunkte. Speichern, neu starten und bestätigen, dass das Profil — nicht Ihre Heim-SIM — als Datenleitung ausgewählt ist.
 
 ## Vier typische Fehler bei der Aktivierung
 
-Die allgemeine Installationsreihenfolge — eSIM hinzufügen, QR-Code scannen, Leitung benennen, als Datenleitung festlegen, Datenroaming aktivieren — wird im [Schritt-für-Schritt-Leitfaden zur eSIM-Aktivierung](/faq/how-to-activate-an-esim/) detailliert beschrieben. Im Folgenden finden Sie die vier Fehlermuster, die bei einer Bangladesch-eSIM-Reise tatsächlich auftreten, in der Reihenfolge, in der Sie ihnen wahrscheinlich begegnen werden.
+Die allgemeine Installationsreihenfolge — Profil hinzufügen, QR-Code scannen, Leitung benennen, als Datenleitung festlegen, Datenroaming aktivieren — wird im [Schritt-für-Schritt-Leitfaden zur eSIM-Aktivierung](/faq/how-to-activate-an-esim/) detailliert beschrieben. Im Folgenden finden Sie die vier Fehlermuster, die bei einer Bangladesch-eSIM-Reise tatsächlich auftreten, in der Reihenfolge, in der Sie ihnen wahrscheinlich begegnen werden.
 
 **A. Registrierung am Schalter abgelehnt.** Meistens ein Fingerabdruck-Mismatch oder ein Reisepass-Detail, das sich nicht validieren lässt. Wechseln Sie von einem kleinen Agentur-Shop zu einem Firmenladen — dort gibt es den Eskalationspfad — und bringen Sie den Original-Reisepass mit. Falls Ihre Fingerabdrücke nicht gelesen werden können, fragen Sie nach dem Sonderfall-Verfahren der Regulierungsbehörde.
 
-**B. Installiert, aber keine Signalbalken.** Prüfen Sie, ob das Profil aktiviert ist, und wechseln Sie dann die Netzwahl von automatisch auf manuell, um Grameenphone, Robi oder Banglalink explizit auszuwählen. In abgelegenen Bezirken kann sich Ihr Telefon in 2G einwählen — das ist das Netz, nicht Ihre eSIM.
+**B. Installiert, aber keine Signalbalken.** Prüfen Sie, ob das Profil aktiviert ist, und wechseln Sie dann die Netzwahl von automatisch auf manuell, um Grameenphone, Robi oder Banglalink explizit auszuwählen. In abgelegenen Bezirken kann sich Ihr Telefon in 2G einwählen — das ist das Netz, nicht Ihr Profil.
 
-**C. Signalbalken, aber kein Internet.** Vergleichen Sie den APN mit der Netzbetreiber-Tabelle weiter oben in diesem Abschnitt, bestätigen Sie, dass die eSIM die aktive Datenleitung ist, und prüfen Sie, ob Datenroaming für diese Leitung aktiviert ist. Prüfen Sie dann Ihr Guthaben: Prepaid-Pakete enden einfach, wenn das Kontingent aufgebraucht ist; ein Aufladen in jedem Eckladen behebt das Problem.
+**C. Signalbalken, aber kein Internet.** Vergleichen Sie den APN mit der Netzbetreiber-Tabelle weiter oben in diesem Abschnitt, bestätigen Sie, dass das Profil die aktive Datenleitung ist, und prüfen Sie, ob Datenroaming für diese Leitung aktiviert ist. Prüfen Sie dann Ihr Guthaben: Prepaid-Pakete enden einfach, wenn das Kontingent aufgebraucht ist; ein Aufladen in jedem Eckladen behebt das Problem.
 
 **D. „SOS“ oder „Nur Notrufe“.** Bestätigen Sie, dass die eSIM-Leitung im SIM-Manager eingeschaltet ist, deaktivieren Sie andere aktive Profile, setzen Sie die Netzwerkeinstellungen zurück und starten Sie neu. Als letzten Ausweg fordern Sie am ausgebenden Schalter einen neuen QR-Code an — die meisten Codes sind nur einmal verwendbar.
 
 Falls nichts davon hilft, deckt der umfangreichere Katalog im [Leitfaden zur Fehlerbehebung bei eSIM-Problemen](/faq/esim-activation-errors-troubleshooting-guide/) Profil-Download-Fehler und Netzbetreiber-Lock-Konflikte im Detail ab.
 
-## Ihre Fragen zur eSIM in Bangladesch
+## Ihre Fragen zum Profil in Bangladesch
 
 ### Kann man eine Bangladesch-eSIM von Grameenphone kaufen?
 
@@ -324,9 +326,9 @@ Ja. Grameenphone betreibt Schalter in der Ankunftshalle von Hazrat Shahjalal und
 
 ### Braucht jede SIM eine biometrische Registrierung?
 
-Für jede lokal ausgestellte SIM oder eSIM ja — die BTRC-Vorschriften erfordern einen Live-Scan biometrischer Daten, der mit Ihrem Reisepass verknüpft ist. Eine vor der Abreise installierte Reise-eSIM ist eine andere Produktkategorie und umgeht all das.
+Für jede lokal ausgestellte SIM oder Profil ja — die BTRC-Vorschriften erfordern einen Live-Scan biometrischer Daten, der mit Ihrem Reisepass verknüpft ist. Eine vor der Abreise installierte Reise-eSIM ist eine andere Produktkategorie und umgeht all das.
 
-### Funktioniert meine eSIM in den Sundarbans?
+### Funktioniert mein Profil in den Sundarbans?
 
 In den Gateway-Städten wie Khulna ja, im Mangrovenwald selbst aber nicht zuverlässig – dort müssen Sie mit langen Strecken ohne Empfang rechnen. Laden Sie Offline-Karten herunter und behandeln Sie Konnektivität als reine Stadtressource.
 
@@ -366,20 +368,16 @@ Nicht direkt bei den Netzbetreibern — deren Prozess erfordert eine persönlich
 
 Es ist nichts zu tun. Die Touristenregistrierung läuft automatisch am Ende des Gültigkeitsblocks ab — bewusst, damit ungenutzte Nummern nicht unter dem Reisepass eines Besuchers im Netz verbleiben.
 
+### Wann die lokale Bangladesch-SIM der Reise-eSIM überlegen ist
+
+Die Reise-eSIM spart den Schalter, den Fingerabdruck und die 20–45-minütige Warteschlange am Hazrat Shahjalal. Es gibt aber drei Fälle, in denen die lokale Karte von Grameenphone, Robi oder Banglalink die ehrliche Wahl bleibt: Sie bleiben länger als einen Monat, sodass die 30-Tage-Automatik der Touristen-SIM ohnehin nicht reicht; Sie brauchen eine echte +880-Rufnummer für Ride-Hailing- und Liefer-OTPs, die an eine lokale Nummer gebunden sind; oder Sie wollen in einem der 7-/15-/30-Tage-Blöcke zum günstigsten Gigabyte-Preis des Marktes surfen. In diesen Fällen ist die persönliche Registrierung mit Live-Fingerabdruck der Preis, den Sie zahlen – für typische Kurztrips unter drei Wochen gewinnt die Reise-eSIM durch reine Zeitersparnis.
+
 ## Die Quellen hinter unseren Bangladesch-eSIM-Zahlen
 
-- **Ookla Speedtest Global Index** — [die Bangladesch-Seite](https://www.speedtest.net/global-index/bangladesh) verfolgt den medianen mobilen Download von 56,45 Mbps im August 2026, den 91. Rang sowie die Latenz, monatlich aktualisiert.
-- **Ookla Speedtest Intelligence — Bangladesch 4G Quality of Service, Q4 2025** — [die Analyse](https://www.ookla.com/articles/bangladesh-4g-qos-q42025) liefert alle oben genannten Medianwerte pro Anbieter, einschließlich Banglalinks 31,22 Mbps und Grameenphones 36,50 Mbps in Chittagong.
-- **Cable.co.uk weltweite Datenpreisgestaltung** — [die vollständige Ländertabelle](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) setzt die durchschnittlichen Kosten von 0,23 USD pro Gigabyte.
-- **DataReportal** — [der Digital-2025-Bangladesch-Bericht](https://datareportal.com/reports/digital-2025-bangladesh) verankert die Internetnutzer-, Penetrations- und Mobilfunkanschluss-Zahlen.
-- **The Daily Star** — [der BTRC-Touristen-SIM-Bericht](https://online.thedailystar.net/node/3194266) dokumentiert die 7/15/30-Tage-Gültigkeitsblöcke, die Zwei-SIM-pro-Reisepass-Obergrenze und die eSIM-Ausgabe an Einreisepunkten.
-- **BTRC-Teilnehmerdaten** — vierteljährliche Betreiberzahlen und Marktanteile über The Financial Express und The Daily Star, einschließlich der Obergrenze von 10 SIMs pro NID vom 1. November 2025.
-- **Grameenphone** — die eigene 5G-Ankündigung des Betreibers datiert den kommerziellen Start am 1. September 2025 über die Divisionshauptstädte hinweg.
-- **nPerf 2025 Bangladesch-Barometer** — Crowdsourcing-Bewertung für Januar–Juni 2025, oben überall zitiert, wo seine Rangfolgen von denen von Ookla abweichen.
-- **BSS / BTRC Eid-Bewegungsstatistiken** — hinter den 10,7 Millionen Abreisen aus Dhaka während Eid-ul-Fitr 2025.
+- **Ookla Speedtest Global Index** — [die Bangladesch-Seite](https://www.speedtest.net/global-index/bangladesh) verfolgt den medianen mobilen Download von 56,45 Mbps im August 2026, den 91. Rang sowie die Latenz, monatlich aktualisiert. - **Ookla Speedtest Intelligence — Bangladesch 4G Quality of Service, Q4 2025** — [die Analyse](https://www.ookla.com/articles/bangladesh-4g-qos-q42025) liefert alle oben genannten Medianwerte pro Anbieter, einschließlich Banglalinks 31,22 Mbps und Grameenphones 36,50 Mbps in Chittagong. - **Cable.co.uk weltweite Datenpreisgestaltung** — [die vollständige Ländertabelle](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) setzt die durchschnittlichen Kosten von 0,23 USD pro Gigabyte. - **DataReportal** — [der Digital-2025-Bangladesch-Bericht](https://datareportal.com/reports/digital-2025-bangladesh) verankert die Internetnutzer-, Penetrations- und Mobilfunkanschluss-Zahlen. - **The Daily Star** — [der BTRC-Touristen-SIM-Bericht](https://online.thedailystar.net/node/3194266) dokumentiert die 7/15/30-Tage-Gültigkeitsblöcke, die Zwei-SIM-pro-Reisepass-Obergrenze und die eSIM-Ausgabe an Einreisepunkten. - **BTRC-Teilnehmerdaten** — vierteljährliche Betreiberzahlen und Marktanteile über The Financial Express und The Daily Star, einschließlich der Obergrenze von 10 SIMs pro NID vom 1. November 2025. - **Grameenphone** — die eigene 5G-Ankündigung des Betreibers datiert den kommerziellen Start am 1. September 2025 über die Divisionshauptstädte hinweg. - **nPerf 2025 Bangladesch-Barometer** — Crowdsourcing-Bewertung für Januar–Juni 2025, oben überall zitiert, wo seine Rangfolgen von denen von Ookla abweichen. - **BSS / BTRC Eid-Bewegungsstatistiken** — hinter den 10,7 Millionen Abreisen aus Dhaka während Eid-ul-Fitr 2025.
 
 Keine davon sind eigene Messungen; es sind datierte Drittquellen-Zahlen, die sich mit Netzaufrüstungen verändern.
 
 ## Das richtige Netz für Ihre Route
 
-Die richtige Bangladesch-eSIM folgt Ihrer Route — Robi für die Städte, Grameenphone für alles Grüne und Nasse, Banglalink für den preisbewussten Lauf durch die Ortschaften. Installieren Sie sie zu Hause, landen Sie mit Daten. Neue Roami-Kunden können mit einer [kostenlosen Multi-Netz-Test-eSIM](/free-esim/) starten und erhalten **20 % Rabatt** mit dem Code **WEB20**, wenn sie [Bangladesch-eSIM kaufen](/bangladesh-esim/).
+Die richtige Bangladesch-eSIM folgt Ihrer Route — Robi für die Städte, Grameenphone für alles Grüne und Nasse, Banglalink für den preisbewussten Lauf durch die Ortschaften. Installieren Sie sie zu Hause, landen Sie mit Daten. Neue Roami-Kunden können mit einer [kostenlosen Multi-Netz-Test-eSIM](/free-esim/) starten und erhalten **20 % Rabatt** mit dem Code **WEB20**, wenn sie Bangladesch-eSIM kaufen. 

@@ -1,6 +1,6 @@
 ---
-title: "Ecuador eSIM-Netzbetreiber: Claro, Movistar, CNT im Vergleich"
-description: "Roami analysiert die eSIM-Netzbetreiber Ecuadors — Claro, Movistar und CNT — im Hinblick auf 5G auf dem Festland, Reichweite im Amazonas und Grenzen der Netzabdeckung auf den Galápagos."
+title: "Ecuador eSIM: Claro, Movistar oder CNT für Ihre Reise?"
+description: "Ecuador eSIM im Vergleich: Claro, Movistar und CNT nach 5G, Reichweite und Preis – plus die Galápagos-Regeln für Ihre Reise."
 image: "img/esim/carriers/ecuador-esim-carrier-guide.jpg"
 date: "2026-09-26T09:50:40+00:00"
 keywords: Ecuador eSIM, Ecuador eSIM-Netzbetreiber, Ecuador eSIM-Anbieter, Claro eSIM, Movistar eSIM, Tigo eSIM, CNT eSIM, Ecuador 5G-Netzabdeckung, eSIM Ecuador Prepaid
@@ -18,9 +18,9 @@ hero_subtitle_main: "Ein datenorientierter Blick auf die Mobilfunknetze Ecuadors
 
 **Kurzfassung:** Auf dem Festland ist eine **Claro eSIM** die Wahl für Netzabdeckung — Ookla kürte Claro Ecuador zum schnellsten Mobilfunknetz im 1. Halbjahr 2026 mit einem Median von 54,98 Mbps und einer Reichweite in Teile des Amazonas, die kein Konkurrent erreicht. Movistar Ecuador, inzwischen im Besitz von Millicom und schrittweise umbenannt in Tigo, ist nahezu genauso schnell und mit 91,8 % das konstanteste Netz des Landes. CNT EP, der staatliche Netzbetreiber, ist die preisgünstige Option mit respektabler städtischer Netzabdeckung. Auf den Galápagos verhält sich jede Ecuador eSIM gleich: nutzbar in den drei Hafenstädten, überall sonst ohne Empfang. Eine Reise-eSIM mit Roaming Claro oder Movistar ist für die meisten Reisen von einer bis drei Wochen die beste Wahl — keine Passregistrierung, keine Warteschlange im Laden. [Die kostenlose Test-eSIM von Roami](/free-esim/) ermöglicht Ihnen, die Lage zu testen, und der Code **WEB20** reduziert [Ecuador eSIM-Tarife](/ecuador-esim/) um 20 %. Wenn Sie bereits eine Reise-eSIM installiert haben, können Sie direkt zum Vergleich der ecuadorianischen Netzbetreiber springen; der Aktivierungsteil ist für absolute Erstnutzer geschrieben.
 
-**Schnelle Antwort:** Claro ist das Netz, das die meisten Besucher in Ecuador zuerst in die engere Auswahl nehmen sollten; Movistar lohnt sich als preiswerte Alternative. Wenn Testen besser ist als Lesen, können Sie mit der [kostenlosen Test-eSIM](/free-esim/) von Roami ohne Ausgaben in Ecuador starten.
+**Schnelle Antwort:** Claro ist das Netz, das die meisten Besucher in Ecuador zuerst wählen sollten; Movistar lohnt sich als preiswerte Alternative. Wenn Testen besser ist als Lesen, können Sie mit der kostenlosen Test-eSIM von Roami ohne Ausgaben in Ecuador starten.
 
-## Three Konnektivitätsmärkte, nicht einer
+## Drei Konnektivitätsmärkte, nicht einer
 
 Eine passende Ecuador eSIM zu finden beginnt mit einer Tatsache, die die meisten Guides überspringen: Ecuador vereint drei sehr unterschiedliche Konnektivitätsumgebungen in einem kompakten Land. Der Korridor auf dem Festland — Quito, Guayaquil und Cuenca — bietet auf jedem Netzbetreiber verlässliches 4G, schaltet in den größten Städten 5G ein und verkauft einige der günstigsten mobilen Datentarife in Südamerika. Die Galápagos-Inseln liegen rund 1.000 km vor der Küste, hängen an einer einzigen Untersee-Glasfaserleitung und bieten nur in drei Hafenstädten Mobilfunkempfang. Der Rand des Amazonas — das Oriente — wird innerhalb weniger Minuten nach Verlassen von Städten wie Tena, Puyo und Coca dünn zu 3G und Funklöchern. Jede Empfehlung zu einer Ecuador eSIM, die diese Aufteilung ignoriert, führt Sie in die Irre.
 
@@ -30,32 +30,32 @@ Dann gibt es den Teil, den die meisten Reiseführer auslassen. Die Galápagos si
 
 ## Inhalt Ihres eSIM-Guides
 
-- [Welcher Ecuador eSIM-Netzbetreiber passt zu Ihrer Reise?](#the-ecuador-esim-carriers-claro-movistar-and-tigo)
-- [Claro gegen Movistar/Tigo gegen CNT: Was Besucher tatsächlich kaufen können](#what-ecuador-plans-cost)
-- [Was diese Prepaid-Tarife in US-Dollar kosten](#claro-vs-movistar-prices-compared)
-- [Sollten Sie direkt oder als Reise-Tarif kaufen?](#how-to-buy-an-ecuador-esim-as-a-foreign-visitor)
-- [Funktioniert Ihr Telefon auf den lokalen Bändern?](#will-your-phone-run-an-ecuador-esim-on-local-4g-and-5g-bands)
-- [Wie Sie als ausländischer Besucher eine Ecuador eSIM kaufen](#how-to-buy-an-ecuador-esim-as-a-foreign-visitor)
-- [Eine Leitung registrieren: jetzt mit Pass, später mit Aufenthaltstitel](#sim-and-esim-registration-in-ecuador)
-- [Ecuador eSIM: Netzabdeckung und Geschwindigkeit](#ecuador-esim-coverage-and-speed-across-the-three-geographies)
-- [Ecuador eSIM nach Reiseart](#ecuador-esim-by-trip-shape-six-itineraries-six-networks)
-- [Ecuador eSIM-Vorbereitung: Bargeld, Pass und App-Einrichtung](#ecuador-esim-prep-cash-passport-and-app-setup)
-- [Wenn eine Ecuador eSIM Probleme macht](#activating-an-ecuador-esim-and-fixing-the-usual-failures)
-- [Übertritt nach Peru oder Kolumbien](#crossing-between-ecuador-and-peru-or-colombia)
-- [Häufige Fragen (12 beantwortet)](#common-ecuador-esim-questions)
-- [Quellen](#ecuador-esim-carrier-sources-and-how-we-use-them)
+- Claro gegen Movistar: 5G, was ist in Ecuador besser
+- Was Ecuador-Tarife kosten
+- Kauf einer lokalen eSIM
+- Läuft Ihr Handy eine Ecuador-eSIM auf den lokalen 4G- und 5G-Bändern
+- Wie Sie als ausländischer Besucher eine Ecuador-eSIM kaufen
+- SIM- und eSIM-Registrierung in Ecuador
+- Ecuador-eSIM-Netzabdeckung und -Geschwindigkeit in den drei Regionen
+- Beste Ecuador-eSIM, sortiert nach Reise
+- Ecuador-eSIM-Vorbereitung: Bargeld, Reisepass und App-Einrichtung
+- Kann man eine Ecuador-eSIM von Claro kaufen
+- eSIM in Ecuador aktivieren und typische Fehler beheben
+- Grenzübertritt zwischen Ecuador und Peru oder Kolumbien
+- Häufige Fragen zu eSIMs in Ecuador
+- Quellen der Ecuador-eSIM-Netzbetreiber und wie wir sie nutzen
 
 ## Die Ecuador eSIM-Netzbetreiber: Claro, Movistar und Tigo
 
 Ecuador ist eine dollarisierte Wirtschaft, daher sind alle folgenden Preise bereits in US-Dollar angegeben — an der Kasse fällt kein Wechselkursrechnen an.
 
-| Reiseart | Empfohlener Netzbetreiber | Begründung | Darauf achten |
+| Ecuador-Reiseart | Empfohlener Netzbetreiber | Begründung | Worauf achten |
 |:---|:---|:---|:---|
 | Quito und der Andenkorridor | Claro oder Movistar/Tigo | Beide bieten in der gesamten Stadt gutes 4G, und das 5G-Netz von Claro ist in Teilen der Hauptstadt bereits verfügbar | Páramo-Straßen zwischen den Tälern verlieren das Signal |
 | Guayaquil und die Küste | Claro | Das stärkste städtische und küstennahe Netz sowie die beste Reichweite entlang der Küste Richtung Süden | Movistar lässt zwischen den Küstenstädten nach |
 | Cuenca und das südliche Hochland | Claro oder CNT | Alle drei funktionieren in der Stadt; CNT ist in abgelegenen Tälern etwas lückenhafter | Landstraßen in Richtung Loja sind in jedem Netz schlecht ausgebaut |
 | Galápagos | Claro | Die stärkste Präsenz auf den Inseln, nutzbar in allen drei Hafenstädten | Nichts an den Besucherorten, auf Booten oder im Hochland |
-| Amazonas — Tena, Puyo, Coca | Claro | Der einzige Netzbetreiber mit nennenswerter Netzabdeckung jenseits der wichtigsten Städte im Oriente | Dschungellodges sind auf Satelliten-WLAN angewiesen |
+| Ruta del Oriente: Baños, Tena, Puyo, Coca | Claro | Der einzige Netzbetreiber mit nennenswerter Netzabdeckung jenseits der wichtigsten Städte am Regenwaldrand | Lodges am Rand des Regenwalds sind auf Satelliten-WLAN angewiesen |
 | Cotopaxi und die Avenida de los Volcanes | Movistar/Tigo | Auf einer Bergstraße ist Konstanz wichtiger als die Höchstgeschwindigkeit | Im Inneren des Parks gibt es überhaupt keine Netzabdeckung |
 | Baños und das Tor zum Oriente | Claro | Hält beim Abstieg Richtung Amazon stand | Nebenstraßen der Wasserfall-Route fallen weg |
 | Otavalo und die Seen im Norden | Movistar/Tigo | Zuverlässig entlang der nördlichen Korridorstrecke | Hostels am See verlieren den Empfang in Innenräumen |
@@ -72,7 +72,7 @@ Jede Ecuador-eSIM läuft über eines von drei Mobilfunknetzen; alle drei verkauf
 |:---|:---|:---|:---|
 | Marktposition | Größter Netzbetreiber, breiteste landesweite Netzabdeckung | Zweitgrößter Netzbetreiber, stark in Städten und auf Hauptverkehrsachsen | Staatlicher Netzbetreiber, städtisch und in einigen ländlichen Gebieten |
 | Eigentümer | América-Móvil-Konzern | Millicom (übernahm 2025 das Geschäft von Telefónica, Umbenennung in Tigo) | Staatlich (CNT EP) |
-| eSIM für Besucher | Yes — jedoch im Store mit Reisepass ausgestellt | Yes — jedoch im Store mit Reisepass ausgestellt | Begrenzt — im Store bestätigen |
+| eSIM für Besucher | Ja — jedoch im Store mit Reisepass ausgestellt | Ja — jedoch im Store mit Reisepass ausgestellt | Begrenzt — im Store bestätigen |
 | Prepaid-Einstiegspreise | 1 GB / 1 Tag ≈ **1,05 $**; 10 GB / 25 Tage ≈ 8,00 $; 14 GB / 30 Tage ≈ 10,25 $ | 1 GB / 1 Tag ≈ 1,05 $; 5 GB / 7 Tage ≈ 3,00 $; 10 GB / 30 Tage ≈ 9,00 $; 19 GB / 30 Tage ≈ 15,50 $ | Chip ab ≈ 3 $; Kombipakete ab ≈ 1 $; ungefähr 3 $ für 2 GB, 5 $ für 5 GB |
 | 5G | Eingeschränkt — Quito, Guayaquil, Coca, Puerto Ayora | Minimal | Früher Rollout in Teilen von Quito |
 | Für wen es geeignet ist | Roadtrips, Lodges im Amazonasgebiet, Orte auf den Galápagos-Inseln | Städtereisen entlang des Andenkorridors | Budget-Unterkünfte in einer Stadt |
@@ -101,14 +101,16 @@ Die Zweitmarke ist es wert, gekannt zu werden, da sie der günstigste Prepaid-Ta
 | Claro | 10 GB | 25 Tage | ≈ 8,00 $ |
 | Claro | 14 GB | 30 Tage | ≈ 10,25 $ |
 | Claro | 20 GB + unbegrenzte Telefonate | 30 Tage | ≈ 22,00 $ |
-| 0 | 35 GB + unbegrenzte Telefonate + Social | 30 Tage | ≈ $30.00 |
+| Claro | 35 GB + unbegrenzte Telefonate + Social | 30 Tage | ≈ 30,00 $ |
 | Movistar/Tigo | 5 GB | 7 Tage | ≈ 3,00 $ |
 | Movistar/Tigo | 10 GB | 30 Tage | ≈ 9,00 $ |
-| 0/1 | 19 GB | 30 Tage | ≈ $15.50 |
-| Tuenti (Movistar Netz) | 20 GB, WhatsApp und Spotify ohne Verbrauch | 30 Tage | ≈ 20,00 $ |
+| Movistar/Tigo | 19 GB | 30 Tage | ≈ 15,50 $ |
+| Tuenti (Movistar-Netz) | 20 GB, WhatsApp und Spotify ohne Verbrauch | 30 Tage | ≈ 20,00 $ |
 | CNT EP | Kombi-Pakete, Pro-Gigabyte-Tarife unterbieten beide Konkurrenten | Variiert | ab ca. 1,00 $ |
 
 Zwei Details in dieser Tabelle entscheiden über den Wert mehr als die angegebene Größe. Claro's **10 GB für 25 Tage für etwa 8,00 $** ist das beste Angebot pro Gigabyte auf der Liste, und Tuentis Zero-Rating für Messaging bedeutet, dass ein Gelegenheitsnutzer einen Monat mit einem kleineren Paket auskommt, als die Zahlen vermuten lassen. Aktionen ändern sich monatlich, betrachten Sie diese also als Anhaltspunkte und prüfen Sie die aktuellen Preise in der App des Netzbetreibers oder an einem lokalen Kiosk.
+
+**Rechnung für zwei Wochen Ecuador.** Rechnen Sie mit rund 1,5 GB pro Tag, also etwa 21 GB. Lokal decken Sie das mit Claro 14 GB über 30 Tage für etwa 10,25 $ plus einem Nachkauf ab oder mit Movistar 19 GB für 15,50 $; Tuentis 20-GB-Paket liegt bei etwa 20,00 $. Eine Reise-eSIM kostet laut Marktpreis ungefähr 45–55 $ für 20 GB über 30 Tage. Der ehrliche Unterschied beträgt damit rund 30 $ – bezahlt für den Wegfall von Registrierung, Ladenbesuch und Aufladen mit einer ausländischen Karte.
 
 Ecuadors Telekommunikationsaufsichtsbehörde ist **ARCOTEL**, die Netzbetreiber lizenziert, Marktdaten veröffentlicht und die nationalen Rahmenwerke für Nummerierung und Netzabdeckung pflegt.
 
@@ -121,11 +123,13 @@ Ecuador macht beide Wege nach regionalen Maßstäben ungewöhnlich unkompliziert
 | Was Sie brauchen | Reisepass, einen persönlichen Besuch im Laden, Bargeld oder eine Karte | Ein kompatibles entsperrtes Telefon und WLAN zu Hause |
 | Profilzustellung | eSIM-Bereitstellung im Laden oder physische SIM | QR-Code oder App-Installation sofort nach der Zahlung |
 | Typische Kostenrichtwerte | Claro 10 GB / 25 Tage ≈ 8,00 $; Movistar 10 GB / 30 Tage ≈ 9,00 $ | Veröffentlichte Staffeln reichen von ≈ 5–7 $ für 1 GB bis zu ≈ 45–55 $ für 20 GB / 30 Tage |
-| Netzwerkzugriff | One Netzbetreiber | Automatisches Failover zwischen Claro und Movistar |
+| Netzwerkzugriff | Ein Netzbetreiber | Automatisches Failover zwischen Claro und Movistar |
 | Telefonnummer | Echte ecuadorianische +593-Nummer | Nur Daten, in der Regel ohne Nummer |
 | Ideal für | Aufenthalte von über einem Monat, Amazon-Routen, lokale Anrufe erforderlich | Reisen von ein bis drei Wochen, sofort verbunden nach der Landung |
 
 Der Preisunterschied ist kleiner als in den meisten Ländern, da lokales Datenvolumen bereits günstig ist. Ein Reisender mit zweiwöchigem Aufenthalt zahlt oft nur etwas mehr für eine Reise-eSIM als für ein Claro-Paket — der Aufpreis bringt null Papierkram und sofortige Konnektivität am Ankunftstag statt Einsparungen. Bei längeren Aufenthalten kehrt sich die Rechnung um: Ein Besucher, der sich für einen Monat oder länger anmeldet und eine lokale Leitung registriert, profitiert von Claro- oder Movistar-Prepaid-Tarifen, die Reisekarten nicht erreichen können.
+
+**Wann eine lokale SIM doch besser ist.** Bleiben Sie einen Monat oder länger, benötigen Sie eine ecuadorianische +593-Nummer oder reisen Sie hauptsächlich zwischen Quito, Guayaquil und Cuenca, dann ist eine registrierte Prepaid-Karte mit einem großen Paket pro Gigabyte klar günstiger. Dieser Leitfaden hilft Ihnen dann bei Netz und Ladenbesuch, ersetzt aber nicht die Reisepass-Registrierung vor Ort.
 
 Zwei praktische Hinweise zum direkten Kauf. Erstens, die Registrierung ist die Reibung: Ecuadorianische Prepaid-Leitungen sind an einen Ausweis gebunden, sodass ein Mitarbeiter Ihren Reisepass benötigt, und Reisende berichten übereinstimmend, dass Filialen in der Stadt bessere Pakete bieten als Kioske am Flughafen. Zweitens, ausländische Karten schlagen in lokalen Online-Auflade-Vorgängen manchmal fehl — die zuverlässigen Vorgehensweisen sind Bargeld für den ersten Kauf und Hilfe im Laden für das erste Datenpaket. Ein verwaltetes Profil umgeht beides: [Roami's Ecuador-eSIM](/ecuador-esim/) installiert sich per QR-Code, bevor Sie fliegen, und ist bereits verbunden, wenn du möchtest.
 
@@ -135,7 +139,7 @@ Ecuadorianisches LTE liegt hauptsächlich auf gängigen internationalen Bändern
 
 Netzbetreiber-Sperren sind wichtiger als Bänder. Ein Handy, das an einen Heimnetz-Netzbetreiber gebunden ist, wird jedes Ecuador-eSIM-Profil eines Drittanbieters ablehnen, egal wie kompatibel die Hardware ist. Prüfen Sie dies vor dem Kauf: iPhone → Einstellungen → Allgemein → Info → **Netzbetreiber-Sperre** ("Keine SIM-Beschränkungen" ist, was Sie wollen); Android → Einstellungen → Verbindungen → nach einem Eintrag für Entsperrung oder Netzwerkstatus suchen. Wenn es gesperrt ist, klären Sie dies zuerst mit dem ursprünglichen Netzbetreiber — Entsperrungsanfragen für abbezahlte Geräte werden in der Regel schnell und kostenlos bearbeitet.
 
-Prüfen Sie Ihr konkretes Modell mit dem [eSIM-Kompatibilitätstool](/compatibility/), bevor Sie Geld ausgeben, und falls die Mechanik neu für Sie ist, erklärt [was tatsächlich passiert, wenn ein Handy ein eSIM-Profil lädt](/faq/what-is-esim-activation-and-how-does-it-work/) die Installation in einfacher Sprache. Eine Eigenheit bei One, die Sie kennen sollten: iPhone-Varianten für das chinesische Festland werden mit deaktivierter eSIM-Hardware ausgeliefert, und es gibt keine ecuadorianische Umgehung — eine physische SIM in einem anderen Gerät ist der einzige Weg für diese.
+Prüfen Sie Ihr konkretes Modell mit dem [eSIM-Kompatibilitätstool](/compatibility/), bevor Sie Geld ausgeben, und falls die Mechanik neu für Sie ist, erklärt [was tatsächlich passiert, wenn ein Handy ein eSIM-Profil lädt](/faq/what-is-esim-activation-and-how-does-it-work/) die Installation in einfacher Sprache. Eine Eigenheit, die Sie kennen sollten: iPhone-Varianten für das chinesische Festland werden mit deaktivierter eSIM-Hardware ausgeliefert, und es gibt keine ecuadorianische Umgehung — eine physische SIM in einem anderen Gerät ist der einzige Weg für diese.
 
 ## Wie Sie als ausländischer Besucher eine Ecuador-eSIM kaufen
 
@@ -171,7 +175,7 @@ Ookla's Speedtest-Intelligence-Daten für 1H 2026 liefern ein klares Bild der Ne
 | Medianer Upload | 21,68 Mbps | — | — |
 | Latenz | 42 ms | — | — |
 | Konsistenz (5/1 Mbps) | — | **91,8 %** (bester) | — |
-| Vi Video-Erlebnis-Bewertung | — | — | **76,71** (beste) |
+| Video-Erlebnis-Bewertung | — | — | **76,71** (beste) |
 
 Wenn der Bericht keinen Wert veröffentlicht, bleibt die Zelle leer, statt geschätzt zu werden. Die Form des Ergebnisses ist der praktische Punkt: Claro gewinnt beim Tempo, Movistar gewinnt bei der Zuverlässigkeit, und der Abstand zwischen beiden ist gering genug, dass die Netzabdeckung – nicht die Geschwindigkeit – Ihre Wahl bestimmen sollte. Diese Zahlen verschieben sich zudem je nach Region schnell, planen Sie also eher nach den Regionen als nur nach der Marke:
 
@@ -182,11 +186,11 @@ Wenn der Bericht keinen Wert veröffentlicht, bleibt die Zelle leer, statt gesch
 | Cuenca und das südliche Hochland | Alle drei funktionieren in der Stadt gut; CNT in den abgelegenen Tälern etwas lückenhafter |
 | Nördliche Anden — Otavalo, Ibarra, Tulcán | Solide in den Städten auf Claro und Movistar; die Straße zur kolumbianischen Grenze lässt zwischen den Ortschaften nach |
 | Die Pazifikküste und die Ruta del Spondylus | Zwischen den Claro-Netzbetreibern von Ort zu Ort versorgt; die Surfstrände dazwischen sind ohne Empfang |
-| Amazon (Oriente) | Claro ist der einzige Netzbetreiber mit nennenswerter Netzabdeckung jenseits von Tena, Puyo und Macas; tief im Dschungel gelegene Lodges sind auf Satellit angewiesen |
+| Amazon (Oriente) | Claro ist der einzige Netzbetreiber mit nennenswerter Netzabdeckung jenseits von Tena, Puyo und Macas; in den abgelegensten Teilen des Regenwalds sind Lodges auf Satellit angewiesen |
 | Galápagos | Netzabdeckung konzentriert sich auf Puerto Ayora (am besten ausgebaut), Puerto Baquerizo Moreno und Puerto Villamil; an den Besucherorten, auf den meisten Booten und im Hochland gibt es keinen Empfang |
 | Grenzgebiete — Huaquillas, Macará, Rumichaca | Das ecuadorianische Signal endet an der Grenze; das Netz auf der anderen Seite erfordert eine eigene Registrierung |
 
-Die Galápagos verdienen die Details. Ein Unterseekabel, das Manta mit San Cristóbal, Santa Cruz und Isabela verbindet, wurde 2022 in Betrieb genommen und hat die Bandbreite der Inseln vervielfacht; das von CNT unterstützte System war für bis zu 20 Tbps ausgelegt. Seit August 2025 bietet CNT auch den Fixed-Satellite-Service von Starlink im gesamten Archipel als Reseller an. Diese verbesserte Anbindung hat allerdings nicht die Sendemasten erweitert: Ihre Ecuador-eSIM funktioniert weiterhin nur in und um die drei Ortschaften, und das WLAN auf Kreuzfahrtschiffen hängt davon ab, welche Satellitenschüssel das Schiff mitführt. Wählen Sie den [Galápagos-relevanten Tarif bewusst](/ecuador-esim/) – prüfen Sie, dass Ihr Profil auf Claro roamt – und laden Sie Offline-Karten der Ortschaften herunter, bevor Sie in Quito oder Guayaquil das Flugzeug besteigen.
+Die Galápagos verdienen die Details. Ein Unterseekabel, das Manta mit San Cristóbal, Santa Cruz und Isabela verbindet, wurde 2022 in Betrieb genommen und hat die Bandbreite der Inseln vervielfacht; das von CNT unterstützte System war für bis zu 20 Tbps ausgelegt. Seit August 2025 bietet CNT auch den Fixed-Satellite-Service von Starlink im gesamten Archipel als Reseller an. Diese verbesserte Anbindung hat allerdings nicht die Sendemasten erweitert: Ihre Ecuador-eSIM funktioniert weiterhin nur in und um die drei Ortschaften, und das WLAN auf Kreuzfahrtschiffen hängt davon ab, welche Satellitenschüssel das Schiff mitführt. Wählen Sie den Galápagos-relevanten Tarif bewusst – prüfen Sie, dass Ihr Profil auf Claro roamt – und laden Sie Offline-Karten der Ortschaften herunter, bevor Sie in Quito oder Guayaquil das Flugzeug besteigen.
 
 Weiterreise durch Südamerika im Anschluss? Vergleichen Sie [eSIM-Optionen für Chile](/chile-esim/) oder prüfen Sie, was in [Mexiko](/mexico-esim/) funktioniert, falls Ihre Route nach Norden abbiegt.
 
@@ -200,11 +204,11 @@ Quito ist die am besten vernetzte Stadt des Landes, daher liegt das Interesse hi
 
 Planen Sie diese Reise um eine unbequeme Wahrheit herum: mobile Daten sind eine Aktivität für die Ortschaften. Puerto Ayora, Puerto Baquerizo Moreno und Puerto Villamil funktionieren; die Fähre zwischen den Inseln, jeder Park-Besucherpunkt und die Hochlagen nicht. Wenn Ihre Kreuzfahrt WLAN anbietet, fragen Sie vorher, auf welcher Technik es basiert. Die praktische Lösung ist ein großzügiges Volumen für die Abende im Hafen sowie Offline-Karten, Bücher und ein heruntergeladener Artenführer für die Tage auf See.
 
-### Amazonas-Lodge-Netzabdeckung: Tena, Puyo oder Coca
+### Baños und der Oriente-Rand: Tena, Puyo oder Coca
 
-Claro ist der einzige Netzbetreiber mit Netzabdeckung über die Hauptorte des Oriente hinaus, und selbst Claro fällt im tiefen Dschungel auf 3G oder nichts zurück. Lodges stellen in der Regel zeitlich begrenztes WLAN oder eine Satellitenverbindung bereit. Nutzen Sie das Telefon als Werkzeug für den Abend, kaufen Sie das größte Claro-gebundene Paket, das in Ihr Budget passt, und planen Sie keine Arbeitsanrufe vom Fluss aus.
+Baños, das Tor zum Oriente, ist der übliche Ausgangspunkt für die Wasserfall-Route – hier ist Claro zuverlässig. Erst weiter draußen, an der Straße nach Tena, Puyo und Coca, wird das Signal dünn, und selbst Claro fällt im Regenwald auf 3G oder nichts zurück. Lodges stellen in der Regel zeitlich begrenztes WLAN oder eine Satellitenverbindung bereit. Nutzen Sie das Telefon als Werkzeug für den Abend, kaufen Sie das größte Claro-gebundene Paket, das in Ihr Budget passt, und planen Sie keine Arbeitsanrufe vom Fluss aus.
 
-### Netzabdeckung an der Avenue of the Volcanoes auf der Straße
+### Netzabdeckung entlang der Avenida de los Volcanes
 
 Cotopaxi, Chimborazo, Baños und der Abstieg in den Oriente belohnen Beständigkeit mehr als Geschwindigkeit, und das ist die Stärke von Movistar auf dieser Route. Der Empfang ist in den Ortschaften und Marktflecken zuverlässig und fehlt im Inneren der Parks – laden Sie daher morgens die Tagesroute herunter und führen Sie wichtige Telefonnummern als Papier-Backup mit.
 
@@ -249,16 +253,16 @@ Die Standardinstallation – den QR-Code speichern, das Profil über WLAN hinzuf
 
 **D. Nichts auf den Galápagos außerhalb der Orte.** Kein Profil behebt das. Innerhalb von Puerto Ayora, Puerto Baquerizo Moreno und Puerto Villamil ist die Netzabdeckung auf Claro oder Movistar nutzbar; an der Tortuga Bay, auf der Fähre zwischen den Inseln und an jedem Besucherbereich der Parks gibt es auf keinem Netz Empfang. Planen Sie Uploads für die Abende in der Stadt.
 
-### Häufige Fragen zu eSIMs in Ecuador
+### Was der Support zu Claro, Movistar und CNT in Ecuador abfragt
 
-| Details, die wir benötigen | Wo Sie diese finden |
+| Angabe für den Support | Wo sie steht |
 |:---|:---|
-| Bestell- oder Kundennummer | Bestätigungs-E-Mail |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Über das Gerät |
+| Bestell- oder Kundennummer bei Roami | Bestätigungs-E-Mail im Postfach |
+| Handy-Modell und Android- bzw. iOS-Version | Einstellungen → Über das Telefon |
 | EID | `*#06#` |
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
-| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Screenshot des Fehlers | Sofort aufnehmen – der Nachweis, den Mi Claro oder Mi Movistar zuerst sehen will |
+| Datenroaming-Status | Einstellungen → Mobilfunk → die Ecuador-eSIM-Leitung |
+| Bereits versuchte Schritte | Kurz: welche Netzwahl, welches Profil, welcher Neustart |
 
 ## Grenzübertritt zwischen Ecuador und Peru oder Kolumbien
 
@@ -270,7 +274,7 @@ Zwei Gewohnheiten decken den Grenzübertritt ab. Kaufen Sie vor der Abreise eine
 
 ### Kann ich eine eSIM auf den Galápagos verwenden?
 
-Yes, mit Einschränkungen. Es gibt Mobilfunkabdeckung in Puerto Ayora auf Santa Cruz, Puerto Baquerizo Moreno auf San Cristóbal und Puerto Villamil auf Isabela, und eine ecuadorianische eSIM mit Roaming auf Claro oder Movistar verbindet sich dort wie jede lokale Leitung. Außerhalb der Ortschaften — Besucherorte, Boote, Strände und Hochland — gibt es auf keinem Netz ein Signal, also laden Sie Offline-Karten herunter und behandeln Sie Konnektivität als Aktivität im Ortskern.
+Ja, mit Einschränkungen. Es gibt Mobilfunkabdeckung in Puerto Ayora auf Santa Cruz, Puerto Baquerizo Moreno auf San Cristóbal und Puerto Villamil auf Isabela, und eine ecuadorianische eSIM mit Roaming auf Claro oder Movistar verbindet sich dort wie jede lokale Leitung. Außerhalb der Ortschaften — Besucherorte, Boote, Strände und Hochland — gibt es auf keinem Netz ein Signal, also laden Sie Offline-Karten herunter und behandeln Sie Konnektivität als Aktivität im Ortskern.
 
 ### Wie streng sind die ecuadorianischen Registrierungsregeln?
 
@@ -282,17 +286,17 @@ Nur für einen Vertragstarif. Die Prepaid-Registrierung läuft über einen Reise
 
 ### Ist eine eSIM direkt von Claro Ecuador erhältlich?
 
-Yes — Claro aktiviert eSIMs für kompatible Geräte, aber die Bereitstellung erfolgt in einem physischen Laden mit Ihrem Reisepass oder Ihrer cédula; es gibt keinen Online-Kanal für touristische eSIMs. Rufen Sie vorher an oder prüfen Sie in der Mi-Claro-App, ob Ihr gewünschter Tarif eSIM-Ausstellung unterstützt, und planen Sie Zeit für den Ladenbesuch ein, den erfahrene Reisende normalerweise in Quito oder Guayaquil einplanen, nicht am Flughafen.
+Ja — Claro aktiviert eSIMs für kompatible Geräte, aber die Bereitstellung erfolgt in einem physischen Laden mit Ihrem Reisepass oder Ihrer cédula; es gibt keinen Online-Kanal für touristische eSIMs. Rufen Sie vorher an oder prüfen Sie in der Mi-Claro-App, ob Ihr gewünschter Tarif eSIM-Ausstellung unterstützt, und planen Sie Zeit für den Ladenbesuch ein, den erfahrene Reisende normalerweise in Quito oder Guayaquil einplanen, nicht am Flughafen.
 
 ### Welche Ecuador-eSIM funktioniert am besten im Amazonas?
 
-One, die das Netz von Claro erreicht. Claro ist der einzige Netzbetreiber mit nennenswerter Abdeckung jenseits der wichtigsten Oriente-Städte Tena, Puyo und Macas, und selbst Claro fällt im tiefen Dschungel auf 3G oder nichts zurück. Lodge-Gäste sollten mit Satelliten-WLAN in der Unterkunft rechnen, das größte Claro-gebundene Paket kaufen, das ins Budget passt, und die Erwartungen auf Flussrouten bescheiden halten.
+Eine eSIM, die das Netz von Claro erreicht. Claro ist der einzige Netzbetreiber mit nennenswerter Abdeckung jenseits der wichtigsten Oriente-Städte Tena, Puyo und Macas, und selbst Claro fällt im tiefen Regenwald auf 3G oder nichts zurück. Lodge-Gäste sollten mit Satelliten-WLAN in der Unterkunft rechnen, das größte Claro-gebundene Paket kaufen, das ins Budget passt, und die Erwartungen auf Flussrouten bescheiden halten.
 
-### Der übliche Preis für mobile Daten in Ecuador
+### Was kostet mobiles Datenvolumen in Ecuador?
 
 Lokales Prepaid liegt im Landesdurchschnitt bei etwa **1,00 USD pro Gigabyte** und gehört damit zu den günstigeren Tarifen in Südamerika. Konkrete Anhaltspunkte: Claro verkauft ungefähr 10 GB für 8,00 $ über 25 Tage und Movistar 10 GB für 9,00 $ über 30 Tage, mit Tagestickets nahe 1,05 $ und Tuentis 20-GB-Monatspaket zu etwa 20,00 $. Reise-eSIMs kosten typischerweise 1 GB um 5–7 $ und 20 GB um 45–55 $ — leicht mehr pro Gigabyte, ohne Registrierung.
 
-### Wie teuer sind Daten in Ecuador?
+### Ist CNT EP in Ecuador eine günstige Option?
 
 CNT EP, nach veröffentlichten Pro-Gigabyte-Tarifen, mit Kombipaketen ab etwa 1,00 $ und einer Chip-Karte zu etwa 3,00 $. Die Schwäche ist die Reichweite, nicht der Preis, daher ist die Wahl nur sinnvoll, wenn Ihr Monat sich innerhalb von Quito, Guayaquil oder Cuenca abspielt. Das 10-GB-Paket von Claro über 25 Tage zu etwa 8,00 $ ist das beste Preis-Leistungs-Verhältnis bei den privaten Netzen.
 
@@ -305,7 +309,7 @@ Wenn es entsperrt ist und für Amerika oder Europa verkauft wurde, fast sicher. 
 Nur in frühen Taschen. Das 5G von Claro deckt Teile von Quito und Guayaquil sowie Punkte in der Nähe von Coca und Puerto Ayora ab, und CNT hat mit dem Ausbau in Sektoren von Quito begonnen, aber 4G LTE bleibt das Netz, das die meisten Reisenden tatsächlich nutzen werden. Geschwindigkeiten bei gutem 4G — mittlere mobile Downloads im zweistelligen Mbps-Bereich — reichen bequem für Karten, Anrufe, Streaming und Hotspot-Nutzung.
 
 ### Funktionieren WhatsApp-Sprachanrufe in Ecuador?
-Yes, und Sie sollten — WhatsApp ist Ecuadors Standardkommunikationsmittel für Fahrer, Hotels und Reiseveranstalter. Halten Sie Ihre Heim-SIM für Anrufe und Verifizierungscodes aktiv, nutzen Sie Daten über die eSIM, und Ihre Chats bleiben an Ihre bestehende Nummer gebunden. Schalten Sie nur Datenroaming auf der Heimleitung aus, damit Hintergrundverkehr keine internationalen Gebühren auslöst, während die eSIM die Last trägt.
+Ja, und Sie sollten — WhatsApp ist Ecuadors Standardkommunikationsmittel für Fahrer, Hotels und Reiseveranstalter. Halten Sie Ihre Heim-SIM für Anrufe und Verifizierungscodes aktiv, nutzen Sie Daten über die eSIM, und Ihre Chats bleiben an Ihre bestehende Nummer gebunden. Schalten Sie nur Datenroaming auf der Heimleitung aus, damit Hintergrundverkehr keine internationalen Gebühren auslöst, während die eSIM die Last trägt.
 
 ### Was passiert mit meiner Movistar-eSIM während des Tigo-Rebrandings?
 
@@ -326,8 +330,8 @@ Es gab wiederkehrende Aktionen — Tuenti hat sich im Movistar-Netz mit zero-rat
 
 Jede Zahl ist eine Drittanbietermessung, daher variieren Ihre eigenen Geschwindigkeiten je nach Gerät, Band und Zellauslastung. Bei den Prepaid-Preisen der Netzbetreiber handelt es sich um öffentlich gelistete Tarife von 2026, die sich mit Aktionen ändern.
 
-## One-eSIM für die Anden, den Amazonas und die Galápagos
+## Eine Ecuador-eSIM für die Anden, den Amazonas und die Galápagos
 
-Die Reichweite von Claro trägt Sie durch den Oriente, die Konstanz von Movistar hält den Andenkorridor, und die Galápagos-Abdeckung funktioniert in Puerto Ayora, Puerto Baquerizo Moreno und Puerto Villamil. Installieren Sie zu Hause, landen Sie verbunden in Quito oder Guayaquil, und überspringen Sie die Schlange am Schalter — [wählen Sie jetzt eine Ecuador-eSIM](/ecuador-esim/), oder [testen Sie die Netze kostenlos](/free-esim/) und nutzen Sie den Code **WEB20** für 20 % Rabatt auf einen ersten Tarif.
+Die Reichweite von Claro trägt Sie durch den Oriente, die Konstanz von Movistar hält den Andenkorridor, und die Galápagos-Abdeckung funktioniert in Puerto Ayora, Puerto Baquerizo Moreno und Puerto Villamil. Installieren Sie zu Hause, landen Sie verbunden in Quito oder Guayaquil, und überspringen Sie die Schlange am Schalter – wählen Sie jetzt eine Ecuador-eSIM, oder [testen Sie die Netze kostenlos](/free-esim/) und nutzen Sie den Code **WEB20** für 20 % Rabatt auf einen ersten Tarif.
 
 Weitere Fragen? [Durchstöbern Sie die vollständigen FAQ](/faq/)

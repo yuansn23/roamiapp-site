@@ -18,9 +18,9 @@ hero_subtitle_main: "Geschwindigkeitsbewertungen, ländliche Netzabdeckung und T
 
 Wer eine Chile-eSIM wählt, plant 4.300 km Kontraste ein — dieser Guide begleitet Sie auf der gesamten Länge. Chile ist 4.300 km lang, und seine Mobilfunk-Landkarte ist genauso gestreckt. Ein Profil, das in Santiago brilliert, kann Ihnen auf der Carretera Austral rein gar nichts liefern, und der Netzbetreiber, der in Torres del Paine noch einen Balken hält, gewinnt selten einen Geschwindigkeitstest im Stadtzentrum. Zwei Kaufregeln haben sich kürzlich geändert, und beide erwischen Besucher auf dem falschen Fuß: Eine chilenische Prepaid-SIM ist nicht mehr einfach einstecken und loslegen, und Ihr mitgebrachtes Handy startet einen Countdown, sobald eine lokale SIM eingelegt wird. Wo Chiles Netzbetreiber mit der Werbeaussage nicht übereinstimmen, sagen wir es offen — im Registrierungsabschnitt finden Sie das Kleingedruckte, das wirklich zuschlägt.
 
-**Schnelle Antwort:** Für Ihre Chile eSIM lautet sie: Entel für Reichweite, Movistar für den Preis, und in den Großstädten trennt sie kaum etwas. Noch nie ein Profil installiert? Die [Aktivierungs-Anleitung](/faq/how-to-activate-an-esim/) führt Sie Schritt für Schritt durch, und die Tariftabellen unten erledigen den Rest.
+**Schnelle Antwort:** Für Ihre Chile eSIM lautet sie: Entel für Reichweite, Movistar für den Preis, und in den Großstädten trennt sie kaum etwas. Noch nie ein Profil installiert? Die [was bei der Aktivierung passiert](/faq/what-is-esim-activation-and-how-does-it-work/) führt Sie Schritt für Schritt durch, und die Tariftabellen unten erledigen den Rest.
 
-**Das Urteil vorweg:** Stadtreise? **Entel** hat die breiteste 4G/5G-Abdeckung im Land. Patagonien, der hohe Norden oder die Seenregion? **Movistar** ist die sicherere Wahl, sobald Sie das Zentraltal verlassen. Bleiben Sie in Santiago und zählen jede Pesomünze? **Claro** und **WOM** unterbieten alle in der Stadt und sind außerhalb davon sehr dünn. Oder überspringen Sie die Warteschlange im Laden ganz — eine Chile eSIM von Roami roamt auf Entel, Movistar und Claro ohne RUT, ohne IMEI-Papierkram und ohne Ladenbesuch. Die [Test-eSIM](/free-esim/) testet die Netze kostenlos, und **WEB20** schenkt Ihnen 20 % Rabatt auf [Chile eSIM-Tarife](/chile-esim/).
+**Das Urteil vorweg:** Stadtreise? **Entel** hat die breiteste 4G/5G-Abdeckung im Land. Patagonien, der hohe Norden oder die Seenregion? **Movistar** ist die sicherere Wahl, sobald Sie das Zentraltal verlassen. Bleiben Sie in Santiago und zählen jede Pesomünze? **Claro** und **WOM** unterbieten alle in der Stadt und sind außerhalb davon sehr dünn. Oder überspringen Sie die Warteschlange im Laden ganz — eine Chile eSIM von Roami roamt auf Entel, Movistar und Claro ohne RUT, ohne IMEI-Papierkram und ohne Ladenbesuch. Die Test-eSIM testet die Netze kostenlos, und **WEB20** schenkt Ihnen 20 % Rabatt auf [Chile eSIM-Tarife](/chile-esim/).
 
 ## Was Sie in diesem Guide finden
 
@@ -32,7 +32,7 @@ Wer eine Chile-eSIM wählt, plant 4.300 km Kontraste ein — dieser Guide beglei
 - [Technische Grundlagen und Registrierungsregeln](#technische-grundlagen-und-registrierungsregeln)
 - [Wie schnell Chiles Netze wirklich sind](#wie-schnell-chiles-netze-wirklich-sind)
 - [Die besten Netze je Stadt](#die-besten-netze-je-stadt)
-- [Netzabdeckung von Region zu Region](#netzabdeckung-von-region-zu-region)
+- [Netzabdeckung von Santiago bis Feuerland](#netzabdeckung-von-santiago-bis-feuerland)
 - [Die richtige Wahl nach Reiseplan](#die-richtige-wahl-nach-reiseplan)
 - [IMEI-Regeln und Kaufpraxis](#imei-regeln-und-kaufpraxis)
 - [APN-Einstellungen in Chile](#apn-einstellungen-in-chile)
@@ -42,7 +42,7 @@ Wer eine Chile-eSIM wählt, plant 4.300 km Kontraste ein — dieser Guide beglei
 
 ## Welcher Netzbetreiber zu welcher Route passt
 
-| Ihre Reiseroute | Top-Empfehlung | Warum es überzeugt | Worauf Sie achten sollten |
+| Ihre Route durch Chile | Top-Empfehlung | Begründung | Worauf Sie achten sollten |
 |:---|:---|:---|:---|
 | Städtereise nach Santiago | Entel | Schnellstes urbanes 5G und die tiefste Netzabdeckung in Gebäuden in der Innenstadt | Metro-Bahnsteige sind zu Stoßzeiten überlastet |
 | Valparaíso und Viña del Mar | Entel | Das 4G/5G-Netz entlang der Küste ist bei beiden Netzbetreibern solide, und Entel kommt mit den Hügeln besser zurecht | In den Hügelstadtteilen (cerros) ist der Empfang hinter Beton ungleichmäßig |
@@ -121,7 +121,7 @@ Chiles LTE läuft hauptsächlich auf den Bändern **2, 4, 7 und 28**, mit 5G kon
 
 Chilenische Prepaid-Karten sind seit 2024 an eine Identität gebunden, und seit dem **20. August 2026** muss der Netzbetreiber die Person hinter einer Prepaid-Nummer verifizieren – die Regulierungsbehörde gibt an, dass für ausländische Nutzer ein Reisepass akzeptabel ist. In der Praxis reicht ein Reisepass bei Claro und an vielen Kiosken; eine **RUT** (die chilenische Steuer-ID) wird an einigen Entel- und Movistar-Schaltern verlangt, und die kann ein Tourist nicht vorlegen. Separat und ernster: Ein aus dem Ausland mitgebrachtes Telefon funktioniert in chilenischen Netzen nur etwa **30 Tage am Stück** ab der ersten lokalen SIM-Einlegung, sofern seine **IMEI nicht über die Multibanda-Verwaltung registriert** ist. Diese Prüfung gilt nicht für internationales Roaming oder eine Reise-eSIM, was ein Grund ist, warum ein Roaming-Profil für eine lange Reise die Option mit den wenigsten Reibungsverlusten ist.
 
-### Was passiert bei aufgebrauchtem Datenvolumen?
+### Was passiert, wenn das chilenische Datenvolumen leer ist?
 
 Chilenisches Prepaid berechnet keine Überschreitung. Wenn das Datenvolumen aufgebraucht ist, bricht entweder die Geschwindigkeit ein oder die Daten stoppen, bis Sie ein weiteres Paket kaufen, und die „unbegrenzten“ Wochenvolumen sind nach einem Schwellenwert nur bei gedrosselter Geschwindigkeit unbegrenzt. Prüfen Sie, ob die Gültigkeit Ihres gewählten Pakets ab Aktivierung oder ab erster Verbindung läuft – ein 30-Tage-Paket, das in dem Moment startet, in dem Sie landen, passt schlecht zu einer dreiwöchigen Reise mit verspäteter Landung, während ein Profil mit aufgeschobenem Startdatum genau dazu passt.
 
@@ -135,7 +135,7 @@ Hotspot-Nutzung ist im Allgemeinen erlaubt, aber die Obergrenze variiert je nach
 
 ## Was das Profil gegenüber Roaming kostet
 
-Preise ändern sich schneller als Artikel, daher lebt das aktuelle Angebot auf unserer [Chile-eSIM-Tarifseite](/chile-esim/). Was einem Tarifpreis seine Bedeutung gibt, ist der Markt darunter: Lokale Daten sind günstig, daher kauft der Aufpreis für eine Reise-eSIM Bequemlichkeit statt Gigabytes. Gegen einen Tagespass für Roaming Ihres Heimnetzbetreibers ist eine Chile eSIM eine Größenordnung günstiger, und gegen ein lokal gekauftes Datenvolumen ist es ein moderater Aufpreis im Austausch dafür, die RUT-Frage, die Schlange im Laden und die IMEI-Frist zu überspringen.
+Preise ändern sich schneller als Artikel, daher lebt das aktuelle Angebot auf unserer Chile-eSIM-Tarifseite. Was einem Tarifpreis seine Bedeutung gibt, ist der Markt darunter: Lokale Daten sind günstig, daher kauft der Aufpreis für eine Reise-eSIM Bequemlichkeit statt Gigabytes. Gegen einen Tagespass für Roaming Ihres Heimnetzbetreibers ist eine Chile eSIM eine Größenordnung günstiger, und gegen ein lokal gekauftes Datenvolumen ist es ein moderater Aufpreis im Austausch dafür, die RUT-Frage, die Schlange im Laden und die IMEI-Frist zu überspringen.
 
 ## Wie schnell Chiles Netze wirklich sind
 
@@ -149,7 +149,7 @@ Quellen für diesen Abschnitt: der [Ookla Speedtest Global Index](https://www.sp
 
 Welche Reise-eSIM die bessere Wahl für Ihr Reiseziel ist, basierend auf Netzwerkleistung und lokalen Netzabdeckungsbedingungen:
 
-| Stadt | Bester Netzbetreiber | Warum es funktioniert |
+| Stadt in Chile | Empfohlene Wahl | Was dafür spricht |
 |:---|:---|:---|
 | Santiago | Entel | Das dichteste 5G-Netz des Landes, das Las Condes, Providencia und den Flughafenkorridor abdeckt – sowohl für Geschäftsreisende als auch für Urlauber |
 | Valparaíso | Entel | Das 4G/5G-Netz an der Küste funktioniert zuverlässig an den Hängen und im Hafenviertel; die Upload-Geschwindigkeiten reichen für fotoreiche Tage aus |
@@ -159,11 +159,11 @@ Welche Reise-eSIM die bessere Wahl für Ihr Reiseziel ist, basierend auf Netzwer
 
 Städtereisen sind der klassische Anwendungsfall, in dem sich die automatische Netzwahl bezahlt macht. Laden Sie vor jeder Etappe, die das zentrale Tal verlässt, Offline-Karten herunter – die Fernstraßen im hohen Norden und die patagonischen Routen führen stundenlang ohne brauchbaren Sendemast, und Offline-Navigation verhindert, dass aus einer Funklücke eine falsche Abzweigung wird. Nutzen Sie die Spalte mit den Netzbetreibern als Planungsinstrument und nicht als Versprechen: die Auflagen zur Netzabdeckung verpflichten alle vier Netze, die Städte und Hauptverkehrsstraßen zu versorgen, und genau in den Lücken zwischen ihnen übernimmt eine Chile-eSIM mit Netzwechsel automatisch.
 
-## Netzabdeckung von Region zu Region
+## Netzabdeckung von Santiago bis Feuerland
 
 Betrachten Sie die nationale Geschwindigkeitsangabe für Chile als Obergrenze und nicht als Untergrenze: das regionale Bild unten zeigt, was Sie tatsächlich erleben werden.
 
-| Region | Netzabdeckung | Bester Netzbetreiber | Hinweis |
+| Region in Chile | Netzabdeckung | Empfohlene Wahl | Hinweis |
 |:---|:---|:---|:---|
 | Santiago Metropolitan | 5G in allen großen Netzen, mit solider Netzabdeckung zwischen den Gemeinden | Entel | Metro-Überlastung und tiefe Keller |
 | Valparaíso und die Zentralküste | Küstenorte sind abgedeckt; die Nebenstraßen dahinter sind eher Glückssache | Entel | In den Hügelvierteln ist der Netzempfang ungleichmäßig |
@@ -219,7 +219,7 @@ Beim Kauf vor Ort gibt es zwei spezifische Reibungspunkte. Erstens: **Ausländis
 
 ## Wie die Aktivierung abläuft
 
-Die Aktivierung erfolgt vollständig in den Einstellungen Ihres Telefons. Holen Sie sich das Profil von der [Chile-Tarifseite](/chile-esim/) und folgen Sie dann der [Aktivierungsanleitung](/faq/how-to-activate-an-esim/) für iOS oder Android. Installieren Sie es zu Hause über WLAN statt am Flughafen: Das Profil wird in einer Minute heruntergeladen, bleibt inaktiv, bis es sich erstmals mit einem chilenischen Netz verbindet, und Datenroaming ist der einzige Schalter, den Sie nach der Landung möglicherweise einschalten müssen.
+Die Aktivierung erfolgt vollständig in den Einstellungen Ihres Telefons. Holen Sie sich das Profil von der Chile-Tarifseite und folgen Sie dann der [Aktivierung in iOS und Android](/faq/how-to-activate-an-esim/) für iOS oder Android. Installieren Sie es zu Hause über WLAN statt am Flughafen: Das Profil wird in einer Minute heruntergeladen, bleibt inaktiv, bis es sich erstmals mit einem chilenischen Netz verbindet, und Datenroaming ist der einzige Schalter, den Sie nach der Landung möglicherweise einschalten müssen.
 
 ## APN-Einstellungen in Chile
 
@@ -245,11 +245,11 @@ Allgemeine Fehler – ein Profil, das nicht heruntergeladen wird, ein QR-Scan, d
 
 | Was Sie benötigen | Wo Sie es finden |
 |:---|:---|
-| Bestell- oder Kontonummer | Bestätigungs-E-Mail |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Bestell- oder Kontonummer | Die Buchungsbestätigung per E-Mail |
+| Handy-Modell und iOS-/Android-Version | Einstellungen → Allgemein → Info |
 | EID | `*#06#` |
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
-| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Screenshot der Fehlermeldung | Noch im Fehlerdialog aufnehmen |
+| Datenroaming-Schalter | Einstellungen → Mobilfunk → die chilenische eSIM-Leitung |
 | Bereits versucht | Kurz halten |
 
 ## Grenzübertritt zwischen Chile und Argentinien mit demselben Handy
@@ -302,7 +302,7 @@ Ja, und das sollten Sie auch – WhatsApp ist der Weg, über den Fahrer, Hostels
 
 ### Warum verbindet sich meine Chile-eSIM nicht?
 
-Gehen Sie die vier lokalen Muster oben der Reihe nach durch – IMEI-Uhr, Bolsa-Guthaben, manuelle Netzwahl, dann Tarifgrenze – und falls es weiterhin fehlschlägt, deckt der breitere Fehlerkatalog im [Ratgeber zur Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Halten Sie die EID, die Bestellnummer und einen Screenshot bereit, bevor Sie den Support kontaktieren.
+Gehen Sie die vier lokalen Muster oben der Reihe nach durch – IMEI-Uhr, Bolsa-Guthaben, manuelle Netzwahl, dann Tarifgrenze – und falls es weiterhin fehlschlägt, deckt der breitere Fehlerkatalog im [Fehlerkatalog](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Halten Sie die EID, die Bestellnummer und einen Screenshot bereit, bevor Sie den Support kontaktieren.
 
 [Weitere Fragen? Die vollständigen FAQ →](/faq/)
 
@@ -333,7 +333,7 @@ Nichts hier ist unsere eigene Messung; jede Zahl wird einer namentlich genannten
 
 ## Warum das Multi-Netz-Profil gewinnt
 
-Anstatt sich auf ein chilenisches Netz festzulegen, wechselt Ihre Chile eSIM von Roami zwischen Entel, Movistar und Claro, während Sie reisen – 5G in der Stadt in Santiago, ländliche Reichweite auf der Straße nach Süden. Testen Sie es mit einer [kostenlosen Chile-Test-eSIM](/free-esim/) oder erhalten Sie 20 % Rabatt auf einen kostenpflichtigen Tarif mit dem Code **WEB20**, wenn Sie [Ihre Chile-eSIM bestellen](/chile-esim/).
+Anstatt sich auf ein chilenisches Netz festzulegen, wechselt Ihre Chile eSIM von Roami zwischen Entel, Movistar und Claro, während Sie reisen – 5G in der Stadt in Santiago, ländliche Reichweite auf der Straße nach Süden. Testen Sie es mit einer [kostenlosen Chile-Test-eSIM](/free-esim/) oder erhalten Sie 20 % Rabatt auf einen kostenpflichtigen Tarif mit dem Code **WEB20**, wenn Sie Ihre Chile-eSIM bestellen.
 
 [Chile-eSIM-Tarif holen](/chile-esim/)
 

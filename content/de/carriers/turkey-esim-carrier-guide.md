@@ -2,7 +2,7 @@
 
 title: "Turkcell vs Vodafone vs Türk Telekom: Türkei eSIM"
 
-description: "Roami vergleicht Turkcell, Vodafone und Türk Telekom hinsichtlich Ookla-Daten, Prepaid-Regeln und IMEI-Grenzen, damit Sie den richtigen eSIM-Anbieter für die Türkei wählen."
+description: "Türkei eSIM im Vergleich: Turkcell, Vodafone und Türk Telekom nach Netzabdeckung, IMEI-Registrierung und Preisen für Ihre Reise."
 image: "img/esim/carriers/turkey-esim-carrier-guide.jpg"
 
 date: "2026-09-23T22:32:35+00:00"
@@ -46,11 +46,11 @@ Falls die Grundlagen noch offen sind — unterstützt mein Telefon eSIM, und was
 
 
 
-**Das Urteil vorab:** Bleiben Sie in Istanbul, Ankara oder Izmir? Turkcell ist das konsistenteste Netz des Landes und die sicherste Wahl in Städten. Fahren Sie durch Kappadokien, die Ägäisküste oder das anatolische Hochland? Auch dort liegt Turkcell bei der Consistency vorne, und genau das zählt zwischen den Orten. Wollen Sie eine türkische Nummer ohne Pass-Registrierungspapierkram im Laden? [Roami's Türkei-eSIM](/turkey-esim/) wechselt automatisch zwischen Turkcell, Vodafone und Türk Telekom, und Sie können sie zunächst mit einer [kostenlosen Test-eSIM](/free-esim/) ausprobieren. Mit dem Code **WEB20** erhalten Sie 20 % Rabatt, wenn Sie lieber gleich den vollständigen Tarif kaufen möchten.
+**Das Urteil vorab:** Bleiben Sie in Istanbul, Ankara oder Izmir? Turkcell ist das konsistenteste Netz des Landes und die sicherste Wahl in Städten. Fahren Sie durch Kappadokien, die Ägäisküste oder das anatolische Hochland? Auch dort liegt Turkcell bei der Consistency vorne, und genau das zählt zwischen den Orten. Wollen Sie eine türkische Nummer ohne Pass-Registrierungspapierkram im Laden? Roamis Türkei-Tarif wechselt automatisch zwischen Turkcell, Vodafone und Türk Telekom, und Sie können sie zunächst mit einer [kostenlosen Test-eSIM](/free-esim/) ausprobieren. Mit dem Code **WEB20** erhalten Sie 20 % Rabatt, wenn Sie lieber gleich den vollständigen Tarif kaufen möchten.
 
 
 
-## Die Netzbetreiber hinter Ihrer eSIM
+## Die drei Türkei-Netze: kein vierter Anbieter
 
 
 
@@ -62,11 +62,11 @@ Die Türkei ist ungewöhnlich, denn sie wird nur von drei Netzen versorgt, und j
 
 
 
-| | Turkcell | Vodafone Türkei | Türkisch Telekom |
+| | Turkcell | Vodafone Türkei | Türk Telekom |
 
 |:---|:---|:---|:---|
 
-| Prepaid eSIM für Besucher | Yes, Touristen-eSIM, in der App oder im Store erhältlich | Yes, eSIM auf Prepaid-Tarifen, Reisepass erforderlich | Yes, eSIM auf Prepaid-Tarifen, Reisepass erforderlich |
+| Prepaid-eSIM für Besucher | Ja, Touristen-eSIM, in der App oder im Store erhältlich | Ja, eSIM auf Prepaid-Tarifen, Reisepass erforderlich | Ja, eSIM auf Prepaid-Tarifen, Reisepass erforderlich |
 
 | Best gemessene Signalstärke | Bestes Mobilfunknetz, Konnektivität 77.15, Konsistenz 93.9 % | Höchste videonahe Reichweite, Konsistenz 90.2 % | Stark in allen Bereichen, Konnektivität 73.67 |
 
@@ -102,9 +102,9 @@ Anders als in Kanada oder Japan gibt es in der Türkei keine regionalen Netzbetr
 
 | Wie das Profil ankommt | In der Netzbetreiber-App, per QR-Code nach Identitätsprüfung oder in einer Filiale am Flughafen | QR-Code oder App-Installation sofort nach dem Kauf |
 
-| Typische Touristengebühren | Turkcell 150 TL für 5 GB bis zu 1500 TL für 20 GB; Wettbewerber im Bereich von 650 bis 900 TL | One Sofortpreis, keine Reisepassregistrierung |
+| Typische Touristengebühren | Turkcell 150 TL für 5 GB bis zu 1500 TL für 20 GB; Wettbewerber im Bereich von 650 bis 900 TL | Ein Sofortpreis, keine Reisepassregistrierung |
 
-| Netz-Zugang | One Netzbetreiber, gebunden an Ihren Reisepass | Automatisches Wechseln zwischen Turkcell, Vodafone und Türk Telekom |
+| Netz-Zugang | Ein Netzbetreiber, gebunden an Ihren Reisepass | Automatisches Wechseln zwischen Turkcell, Vodafone und Türk Telekom |
 
 | Ideal für | Längere Aufenthalte oder alle, die eine türkische Nummer für Anrufe und SMS möchten | Reisen von wenigen Tagen bis zu einigen Wochen sowie alle, die bereits vor der Landung online sein möchten |
 
@@ -114,7 +114,7 @@ Für einen normalen Urlaub ist die lokale SIM pro Gigabyte günstiger, aber sie 
 
 
 
-💡 Ein Mehranbieter-Profil ist der praktische Mittelweg: [unsere Türkei-eSIM-Seite](/turkey-esim/) wird sofort bereitgestellt, springt eigenständig zwischen Turkcell, Vodafone und Türk Telekom hin und her und bringt Sie in Istanbul trotzdem auf Turkcell und an der Ägäis auf Türk Telekom, ohne dass ein zweiter Kauf nötig ist.
+💡 Ein Mehranbieter-Profil ist der praktische Mittelweg: unser Türkei-Tarif wird sofort bereitgestellt, springt eigenständig zwischen Turkcell, Vodafone und Türk Telekom hin und her und bringt Sie in Istanbul trotzdem auf Turkcell und an der Ägäis auf Türk Telekom, ohne dass ein zweiter Kauf nötig ist.
 
 
 
@@ -134,7 +134,7 @@ Die türkische 5G-Frequenzauktion endete im Oktober 2025, und das kommerzielle 5
 
 
 
-Sie müssen die Band-Tabelle nicht auswendig lernen. Die sicherere Vorgehensweise ist, Ihre genaue Modellnummer – nicht den Verkaufsnamen – mit dem [Kompatibilitäts-Checker](/compatibility/) abzugleichen. Zur Theorie zuerst: [was Ihr Handy beim Laden eines eSIM-Profils tut](/faq/what-is-esim-activation-and-how-does-it-work/) erklärt den Ablauf.
+Sie müssen die Band-Tabelle nicht auswendig lernen. Die sicherere Vorgehensweise ist, Ihre genaue Modellnummer – nicht den Verkaufsnamen – mit dem Kompatibilitäts-Checker abzugleichen. Zur Theorie zuerst: der Abschnitt zur Profilinstallation erklärt den Ablauf.
 
 
 
@@ -166,25 +166,25 @@ Wenn Ihr Mobiltelefon von einem US- oder europäischen Anbieter stammt, behandel
 
 |:---|:---|:---|
 
-| Ein Telefon, das noch an seinen Verkäufer gebunden ist | Die eSIM lässt sich überhaupt nicht herunterladen | Entsperren Sie es zuerst bei diesem Netzbetreiber und versuchen Sie es dann erneut |
+| Ein Telefon, das noch an seinen Verkäufer gebunden ist | Das Profil lässt sich überhaupt nicht herunterladen | Entsperren Sie es zuerst bei diesem Netzbetreiber und versuchen Sie es dann erneut |
 
-| Mainland-China iPhone | Das Menü „eSIM hinzufügen" fehlt, weil der Chip dort deaktiviert ist | Hier ist nichts zu beheben; verwenden Sie ein anderes Gerät |
+| Mainland-China iPhone | Das Menü „Profil hinzufügen“ fehlt, weil der Chip dort deaktiviert ist | Hier ist nichts zu beheben; verwenden Sie ein anderes Gerät |
 
-| Ein Telefon ohne Band 20 | Es fällt auf die Bänder 3 und 7 zurück, sodass das Signal in ländlichen Gebieten und unter der Erde schwächer wird | Bevorzugen Sie Turkcell wegen seiner Zuverlässigkeit, oder nutzen Sie eine Multi-Netz-eSIM |
+| Ein Telefon ohne Band 20 | Es fällt auf die Bänder 3 und 7 zurück, sodass das Signal in ländlichen Gebieten und unter der Erde schwächer wird | Bevorzugen Sie Turkcell wegen seiner Zuverlässigkeit, oder nutzen Sie ein Multi-Netz-Profil |
 
-| Für alle, die zwei Leitungen nutzen | Die eSIM ist vorhanden, enthält aber keine Daten | Machen Sie die eSIM zur aktiven mobilen Datenleitung |
-
-
-
-Was übrig bleibt, ist eine Eigenheit des Geräts, keine Turkcell-Richtlinie. Prüfen Sie Ihr genaues Modell in der [eSIM-Kompatibilitätsliste](/compatibility/), bevor Sie Geld für einen Tarif ausgeben.
+| Für alle, die zwei Leitungen nutzen | Das Profil ist vorhanden, enthält aber keine Daten | Machen Sie es zur aktiven mobilen Datenleitung |
 
 
 
-## Was kostet eine eSIM pro Gigabyte?
+Was übrig bleibt, ist eine Eigenheit des Geräts, keine Turkcell-Richtlinie. Prüfen Sie Ihr genaues Modell in der [Kompatibilitätsliste](/compatibility/), bevor Sie Geld für einen Tarif ausgeben.
 
 
 
-Die drei Netzbetreiber und eine Reise-eSIM gehen jeweils unterschiedliche Wege, wobei der Unterschied eher in der Bürokratie als im Preis liegt: Turkcell über die eigene App oder den Flughafen-Store, Vodafone und Türk Telekom über ihre Prepaid-Angebote sowie eine Reise-eSIM zusätzlich zu allen dreien. Hier finden Sie jeden Weg der Reihe nach, gefolgt von der einen Regel, die Besucher immer wieder überrascht.
+## Was der Datentarif pro Gigabyte kostet
+
+
+
+Die drei türkischen Netzbetreiber und ein Reise-Profil gehen jeweils unterschiedliche Wege, wobei der Unterschied eher in der Bürokratie als im Preis liegt: Turkcell über die eigene App oder den Flughafen-Store, Vodafone und Türk Telekom über ihre Prepaid-Angebote sowie ein Reise-Profil zusätzlich zu allen dreien. Hier finden Sie jeden Weg der Reihe nach, gefolgt von der einen Regel, die Besucher immer wieder überrascht.
 
 
 
@@ -222,7 +222,7 @@ Turkcell ist für Besucher am einfachsten, da dort eine Touristen-eSIM direkt an
 
 | Welcome Pack | 20 GB | 200 Minuten | 30 Tage | 1500 |
 
-4. Das eSIM-Profil wird in der App oder per QR-Code installiert, und Ihr Paket aktiviert sich automatisch, sobald Sie in der Türkei landen.
+4. Das Profil wird in der App oder per QR-Code installiert, und Ihr Paket aktiviert sich automatisch, sobald Sie in der Türkei landen.
 
 
 
@@ -230,15 +230,19 @@ Turkcell richtet sich mit diesem Angebot gezielt an Besucher, und die App ist vo
 
 
 
+**Kostenrechnung pro Gigabyte.** Bei Turkcell entscheidet die Stufe über den Preis: Das Mini-Paket mit 5 GB kostet 150 TL, also rund 30 TL pro Gigabyte, während das Mega-Paket mit 45 GB bei 360 TL auf etwa 8 TL pro Gigabyte kommt. Das Premium-Paket bringt 75 GB für 530 TL, also rund 7 TL pro Gigabyte, und das Elite-Paket mit 50 GB plus 50 GB Social liegt bei 700 TL für dieselben rund 7 TL pro Gigabyte. Vodafones Touristen-Bundles von 650 bis 900 TL für etwa 20 bis 30 GB landen bei 22 bis 45 TL pro Gigabyte. Cable.co.uk beziffert 1 GB türkische Daten mit 0,44 USD – wer viel Volumen braucht, fährt mit einer großen Stufe also deutlich günstiger als mit mehreren kleinen Käufen.
+
+
+
 ### Sollten Sie eine lokale SIM in der Türkei kaufen?
 
 
 
-Vodafone Türkiye unterstützt eSIM auf seinen Prepaid-Tarifen und verkauft eine eSIM an Besucher, die einen Reisepass vorlegen. Die eigenen Touristen-Bundles bewegen sich im selben Preissegment von 650 bis 900 TL wie die der beiden anderen Netzbetreiber und bieten etwa 20 bis 30 GB sowie einige internationale Gesprächsminuten; die Identitätsprüfung erfolgt im Laden oder über die Vodafone-App.
+Vodafone Türkiye unterstützt digitale Profile auf seinen Prepaid-Tarifen und verkauft eines an Besucher, die einen Reisepass vorlegen. Die eigenen Touristen-Bundles bewegen sich im selben Preissegment von 650 bis 900 TL wie die der beiden anderen Netzbetreiber und bieten etwa 20 bis 30 GB sowie einige internationale Gesprächsminuten; die Identitätsprüfung erfolgt im Laden oder über die Vodafone-App.
 
 
 
-Für eine Vodafone-Netzleitung als Besucher sind die praktischen Wege eine Prepaid-eSIM, die mit Reisepass erworben wird, oder eine Reise-eSIM, die Vodafone-Kapazität mietet. Das Argument von Vodafone für Reisende sind die internationalen Telefon-Bundles, die relevant sind, wenn Sie viel nach Hause telefonieren möchten, statt WhatsApp zu nutzen.
+Für eine Vodafone-Netzleitung als Besucher sind die praktischen Wege eine Prepaid-Karte, die mit Reisepass erworben wird, oder ein Reise-Profil, das Vodafone-Kapazität mietet. Das Argument von Vodafone für Reisende sind die internationalen Telefon-Bundles, die relevant sind, wenn Sie viel nach Hause telefonieren möchten, statt WhatsApp zu nutzen.
 
 
 
@@ -246,11 +250,11 @@ Für eine Vodafone-Netzleitung als Besucher sind die praktischen Wege eine Prepa
 
 
 
-Türk Telekom unterstützt ebenfalls eSIM auf Prepaid-Tarifen und registriert eine solche gegen einen ausländischen Reisepass. In der Regel ist es für günstige Prepaid-Daten die preiswerteste der drei Optionen, und sein Glasfaser-Backbone bietet in den Städten eine zuverlässige Rückverbindung. Der Haken ist, dass die touristischen Bundles weniger offensichtlich vermarktet werden als die von Turkcell; rechnen Sie also damit, im Laden oder in der App nach der Prepaid-eSIM-Option zu fragen, statt eine eigene Touristen-Landingpage zu finden.
+Türk Telekom unterstützt ebenfalls digitale Profile auf Prepaid-Tarifen und registriert eine solche gegen einen ausländischen Reisepass. In der Regel ist es für günstige Prepaid-Daten die preiswerteste der drei Optionen, und sein Glasfaser-Backbone bietet in den Städten eine zuverlässige Rückverbindung. Der Haken ist, dass die touristischen Bundles weniger offensichtlich vermarktet werden als die von Turkcell; rechnen Sie also damit, im Laden oder in der App nach der Prepaid-Option zu fragen, statt eine eigene Touristen-Landingpage zu finden.
 
 
 
-Wenn Sie als Besucher ausschließlich Türk-Telekom-Netzabdeckung wünschen, ist eine Reise-eSIM, die deren Netz einschließt, die unkompliziertere Alternative, da sie den persönlichen Identitätsschritt vollständig umgeht.
+Wenn Sie als Besucher ausschließlich Türk-Telekom-Netzabdeckung wünschen, ist ein Reise-Profil, das deren Netz einschließt, die unkompliziertere Alternative, da sie den persönlichen Identitätsschritt vollständig umgeht.
 
 
 
@@ -270,7 +274,7 @@ Dies ist die Regel, die viele überrascht, und sie ist die größte türkeispezi
 
 | Registrierungsgebühr | 45.614 TL im Jahr 2025, steigend auf 57.241 TL ab dem 1. Januar 2026 | Teuer und wird jedes Jahr überprüft |
 
-| Frequenz | One Gerät pro Reisepass alle drei Jahre | Sie können nicht immer wieder neue Telefone registrieren |
+| Frequenz | Ein Gerät pro Reisepass alle drei Jahre | Sie können nicht immer wieder neue Telefone registrieren |
 
 | Wer kann sich registrieren | Personen mit türkischer Aufenthaltserlaubnis und Zugang zu e-Devlet | Touristen können den Vorgang in der Regel nicht abschließen |
 
@@ -278,7 +282,7 @@ Dies ist die Regel, die viele überrascht, und sie ist die größte türkeispezi
 
 
 
-Genau hier machen Reisende häufig Fehler. Der Kauf einer Prepaid-SIM registriert die Rufnummer mit Ihrem Reisepass; **nicht** Ihr Handy wird registriert. Die 120-Tage-Frist ist eine separate BTK-Regelung für das Endgerät selbst und wird erst relevant, wenn Sie länger als vier Monate bleiben. Wenn Sie eine Reise-eSIM eines nicht-türkischen Anbieters nutzen, ist dieses Profil keine türkische Prepaid-Rufnummer, die an Ihren Reisepass gebunden ist – das ist ein Grund, warum Langzeitbesucher auf Reise-eSIMs setzen, um die Frist komplett zu umgehen. Wenn Sie sich dauerhaft in der Türkei niederlassen, melden Sie das Gerät bei einem Finanzamt oder über e-Devlet an, bringen Sie die Bescheinigung anschließend zu einem Netzbetreiber-Laden und planen Sie die fünfstellige Lira-Gebühr ein.
+Genau hier machen Reisende häufig Fehler. Der Kauf einer Prepaid-SIM registriert die Rufnummer mit Ihrem Reisepass; **nicht** Ihr Handy wird registriert. Die 120-Tage-Frist ist eine separate BTK-Regelung für das Endgerät selbst und wird erst relevant, wenn Sie länger als vier Monate bleiben. Wenn Sie ein Reise-Profil eines nicht-türkischen Anbieters nutzen, ist dieses Profil keine türkische Prepaid-Rufnummer, die an Ihren Reisepass gebunden ist – das ist ein Grund, warum Langzeitbesucher auf Reise-Profile setzen, um die Frist komplett zu umgehen. Wenn Sie sich dauerhaft in der Türkei niederlassen, melden Sie das Gerät bei einem Finanzamt oder über e-Devlet an, bringen Sie die Bescheinigung anschließend zu einem Netzbetreiber-Laden und planen Sie die fünfstellige Lira-Gebühr ein.
 
 
 
@@ -300,13 +304,13 @@ Genau hier machen Reisende häufig Fehler. Der Kauf einer Prepaid-SIM registrier
 
 | Entsperrtes Telefon | Bestätigen Sie, dass die Netzbetreiber-Sperre als Keine SIM-Einschränkungen angezeigt wird |
 
-| WLAN | Installieren Sie das Profil vor dem Flug, nicht erst am Flughafen |
+| WLAN | Profil vor dem Abflug installieren, nicht erst in der Ankunftshalle |
 
 | Eine Karte, die in der Türkei funktioniert | Manche Netzbetreiber-Checkouts lehnen ausländische Rechnungsadressen ab |
 
 
 
-Pläne und aktuelle Tarife finden Sie auf [unserer Türkei-eSIM-Seite](/turkey-esim/). Installieren Sie sie bereits zu Hause, damit sich das Profil sofort nach der Passkontrolle verbindet.
+Pläne und aktuelle Tarife finden Sie in der [Tarifübersicht](/plans/). Installieren Sie sie bereits zu Hause, damit sich das Profil sofort nach der Passkontrolle verbindet.
 
 
 
@@ -326,25 +330,25 @@ Alle folgenden Zahlen stammen aus dem Speedtest-Konnektivitätsbericht Ookla fü
 
 
 
-| Metrik | Turkcell | Türkisch Telekom | Vodafone |
+| Metrik | Turkcell | Türk Telekom | Vodafone |
 
 |:---|:---|:---|:---|
 
 | Speedtest Konnektivitätsbewertung | **77,15** (am besten) | 73,67 | 69,58 |
 
-| Speed Score | **63.51** (best) | 57.73 | 50.8 |
+| Speed Score | **63,51** (bester) | 57,73 | 50,8 |
 
 | Konsistenzwert | **93,9 %** (bester) | 89,4 % | 90,2 % |
 
 | Video-Streaming-Bewertung | **85,08** (bester Wert) | 83,65 | 81,94 |
 
-| Spielstand | **80,23** (am besten) | 79.12 | 77.19 |
+| Spielstand | **80,23** (bester) | 79,12 | 77,19 |
 
 | 5-Sterne-Bewertung | **3,16** (beste) | 2,44 | 2,47 |
 
 
 
-Source: Ookla Speedtest Konnektivitätsbericht — Türkei, Juli bis Dezember 2025, [der Bericht pro Netzbetreiber](https://www.ookla.com/research/reports/turkiye-speedtest-connectivity-report-h2-2025). Der Consistency Score gibt den Anteil der Messungen an, die einen Schwellenwert von 5 Mbps im Download und 1 Mbps im Upload erfüllen – also das, was einer Zuverlässigkeitsbewertung am nächsten kommt.
+Quelle: Ookla Speedtest Konnektivitätsbericht — Türkei, Juli bis Dezember 2025, [der Bericht pro Netzbetreiber](https://www.ookla.com/research/reports/turkiye-speedtest-connectivity-report-h2-2025). Der Consistency Score gibt den Anteil der Messungen an, die einen Schwellenwert von 5 Mbps im Download und 1 Mbps im Upload erfüllen – also das, was einer Zuverlässigkeitsbewertung am nächsten kommt.
 
 
 
@@ -376,7 +380,7 @@ Um das Land einzuordnen: [Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide
 
 | Langzeitaufenthalt über 120 Tage | Zuerst die IMEI-Registrierung vornehmen | Eine lokale Leitung ist günstig, sobald das Gerät registriert ist | Die Sperre greift am 121. Tag, wenn Sie die Registrierung versäumen |
 
-| Mehrländer-Roadtrip | Eine eSIM mit mehreren Netzen | Wechselt automatisch beim Wechsel zwischen Regionen | One Netzbetreiber lässt Sie zwischen den Regionen im Stich |
+| Mehrländer-Roadtrip | Ein Profil mit mehreren Netzen | Wechselt automatisch beim Wechsel zwischen Regionen | Ein Netzbetreiber lässt Sie zwischen den Regionen im Stich |
 
 
 
@@ -430,7 +434,7 @@ Automatisches Wechseln ist die Lösung für diese Versorgungslücken. Ein Profil
 
 
 
-## Manuelle APN-Einrichtung
+## Wann der APN von Hand gesetzt werden muss
 
 
 
@@ -442,11 +446,11 @@ Der APN-Bildschirm ist die letzte Einstellung, die die meisten Besucher vornehme
 
 
 
-Sie benötigen diese nur, wenn Sie eine SIM oder eSIM direkt von einem türkischen Netzbetreiber erworben haben. Reise-eSIM-Profile verwalten ihren eigenen APN; geben Sie dort nichts ein, sofern die Anleitung des Anbieters nicht ausdrücklich etwas anderes sagt.
+Sie benötigen diese nur, wenn Sie eine SIM oder ein Profil direkt bei einem türkischen Netzbetreiber erworben haben. Reise-eSIM-Profile verwalten ihren eigenen APN; geben Sie dort nichts ein, sofern die Anleitung des Anbieters nicht ausdrücklich etwas anderes sagt.
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | APN | Nutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -480,17 +484,17 @@ Alle drei türkischen Netzbetreiber verwenden denselben einfachen `internet` APN
 
 
 
-- **iPhone:** unter Einstellungen → Mobilfunm wählen Sie die eSIM-Leitung aus, öffnen Sie „Mobildatennetzwerk“ und tragen Sie dort den APN ein
+- **iPhone:** unter Einstellungen → Mobilfunk wählen Sie die Tarifleitung aus, öffnen Sie „Mobildatennetzwerk“ und tragen Sie dort den APN ein
 
 - **Android:** gehen Sie zu Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunkte und fügen Sie einen neuen Eintrag hinzu
 
 
 
-Speichern Sie die Eingaben und starten Sie das Telefon neu. Falls keine Webseiten geladen werden, prüfen Sie erneut, dass die eSIM und nicht Ihre heimische Karte als Datenquelle eingestellt ist.
+Speichern Sie die Eingaben und starten Sie das Telefon neu. Falls keine Webseiten geladen werden, prüfen Sie erneut, dass das Profil und nicht Ihre heimische Karte als Datenquelle eingestellt ist.
 
 
 
-## Netzabdeckung über die Hauptstadt hinaus
+## Von der Installation zur Verbindung in der Türkei
 
 
 
@@ -510,11 +514,11 @@ Arbeiten Sie diesen Abschnitt einmal durch und Sie gelangen von einer frischen I
 
 | 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder der Kompatibilitäts-Checker bestätigt Ihr Modell |
 
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud |
+| 3 | QR-Code und Aktivierungscode doppelt gesichert | Einmal in der Galerie, einmal in der Cloud – der Code gilt nur einmal |
 
 | 4 | Profil vor der Abreise installieren | Installieren Sie es zu Hause über WLAN; es verbindet sich automatisch bei der Landung |
 
-| 5 | Datenleitung und Roaming eingerichtet | eSIM für mobile Daten ausgewählt, Daten-Roaming aktiviert |
+| 5 | Datenleitung und Roaming eingerichtet | Reiseprofil für mobile Daten gewählt, Datenroaming aktiviert |
 
 
 
@@ -540,15 +544,15 @@ Die standardmäßige Installationsreihenfolge finden Sie in unserem [Schritt-fü
 
 
 
-### Türkei-eSIM wieder aktivieren: vier Wege
+### Vier Fehlerbilder, die in der Türkei auftreten
 
 
 
-Den umfassenderen Fehlerkatalog finden Sie in unserem [vollständigen eSIM-Fehlerbehebungsleitfaden](/faq/esim-activation-errors-troubleshooting-guide/); die vier folgenden Muster sind diejenigen, denen Sie in der Türkei tatsächlich begegnen werden.
+Den umfassenderen Fehlerkatalog finden Sie in unserem [vollständigen Fehlerbehebungsleitfaden](/faq/esim-activation-errors-troubleshooting-guide/); die vier folgenden Muster sind diejenigen, denen Sie in der Türkei tatsächlich begegnen werden.
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das Profil wird gar nicht erst installiert**
 
 1. Unter Einstellungen -> Allgemein -> Info darf die Netzbetreibersperre keine SIM-Einschränkungen anzeigen
 
@@ -558,7 +562,7 @@ Den umfassenderen Fehlerkatalog finden Sie in unserem [vollständigen eSIM-Fehle
 
 
 
-**B. Installiert, aber keine Signalbalken**
+**B. Installiert, doch keine Signalbalken bei Turkcell, Vodafone oder Türk Telekom**
 
 1. Status der Sperre erneut prüfen
 
@@ -568,11 +572,11 @@ Den umfassenderen Fehlerkatalog finden Sie in unserem [vollständigen eSIM-Fehle
 
 
 
-**C. Signalbalken, aber kein Internet**
+**C. Signalbalken stehen, doch kein Internet über Turkcell, Vodafone oder Türk Telekom**
 
 1. Stimmen Sie den APN-Eintrag mit dem oben für Ihren Netzbetreiber angegebenen Wert ab; alle drei verwenden `internet`
 
-2. Bestätigen Sie, dass die eSIM die Rolle der Datenleitung innehat, bevor Sie ein Netzwerkproblem vermuten
+2. Bestätigen Sie, dass das Reiseprofil die Rolle der Datenleitung innehat, bevor Sie ein Netzwerkproblem vermuten
 
 3. Prüfen Sie, ob Sie Ihr Datenvolumen nicht aufgebraucht haben; Touristenpakete enden nach 28 oder 30 Tagen
 
@@ -596,47 +600,47 @@ Den umfassenderen Fehlerkatalog finden Sie in unserem [vollständigen eSIM-Fehle
 
 |:---|:---|
 
-| Bestell- oder Kundennummer | Bestätigungs-E-Mail |
+| Bestellnummer des Tarifs | Bestätigungs-Mail oder Roami-Konto |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Über das Gerät |
+| Gerätemodell und Systemversion | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
 
 | EID | `*#06#` |
 
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Foto der Fehlermeldung | Sofort sichern – Turkcell und Vodafone verlangen es im Chat zuerst |
 
-| Aktuelle APN-Einstellungen | Einstellungen → Mobilfunknetz |
+| Eingetragener APN | Einstellungen → Mobilfunk → Mobilfunknetz |
 
-| Daten-Roaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
+| Datenroaming der Türkei-Leitung | Einstellungen → Mobiles Netz → Turkcell-, Vodafone- oder Türk-Telekom-Leitung |
 
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
-
-
-
-## Answers auf Abruf: Netzbetreiber-eSIMs in der Türkei
+| Bisher unternommene Schritte | Kurz auflisten: Entsperrung, manuelle Netzwahl, APN-Korrektur, Neustart |
 
 
 
-### Turkcell eSIM-Tarife für Besucher
+## Antworten auf Abruf: türkische Netzbetreiber-Tarife
 
 
 
-Yes, und es ist die einfachste der drei Varianten. Turkcell verkauft eine Touristen-eSIM, die Sie in der App nach einem Pass-Scan, NFC-Tippen und einer kurzen Video-Verifikation aktivieren können, oder in einer offiziellen Filiale, auch am Flughafen Istanbul. Die im Spätsommer 2025 gemessenen Pakete reichten von 150 TL für 5 GB bis 1500 TL für 20 GB, die mittleren Stufen lagen bei etwa 360 bis 700 TL. Das Profil aktiviert sich automatisch, sobald Sie sich erstmals in der Türkei einwählen.
+### Bekomme ich bei Turkcell eine Besucher-eSIM?
 
 
 
-### Verkauft Vodafone Türkiye eine Touristen-eSIM für Besucher?
+Ja, und es ist die einfachste der drei Varianten. Turkcell verkauft einen Touristen-Tarif, den Sie in der App nach einem Pass-Scan, NFC-Tippen und einer kurzen Video-Verifikation aktivieren können, oder in einer offiziellen Filiale, auch am Flughafen Istanbul. Die im Spätsommer 2025 gemessenen Pakete reichten von 150 TL für 5 GB bis 1500 TL für 20 GB, die mittleren Stufen lagen bei etwa 360 bis 700 TL. Das Profil aktiviert sich automatisch, sobald Sie sich erstmals in der Türkei einwählen.
 
 
 
-Vodafone Türkiye unterstützt eSIM auf seinen Prepaid-Linien und registriert sie nach einer Identitätsprüfung auf einen ausländischen Pass. Seine Touristen-Bundles liegen preislich bei 650 bis 900 TL für rund 20 bis 30 GB mit einigen internationalen Gesprächsminuten, und es ist der Netzbetreiber der Wahl, wenn Sie nach Hause telefonieren möchten, statt Daten-Apps zu nutzen. Den Identitätsschritt erledigen Sie in der App oder im Store.
+### Verkauft Vodafone Türkiye eine Touristen-eSIM?
 
 
 
-### Können internationale Besucher eine Türk Telekom eSIM bekommen?
+Vodafone Türkiye unterstützt digitale Profile auf seinen Prepaid-Linien und registriert sie nach einer Identitätsprüfung auf einen ausländischen Pass. Seine Touristen-Bundles liegen preislich bei 650 bis 900 TL für rund 20 bis 30 GB mit einigen internationalen Gesprächsminuten, und es ist der Netzbetreiber der Wahl, wenn Sie nach Hause telefonieren möchten, statt Daten-Apps zu nutzen. Den Identitätsschritt erledigen Sie in der App oder im Store.
 
 
 
-Yes: Türk Telekom unterstützt eSIM auf Prepaid-Linien und registriert sie auf Pässe, in der Regel zum günstigsten Preis der drei. Seine Touristen-Bundles werden weniger offensichtlich vermarktet als die von Turkcell, daher sollten Sie aktiv nach der Prepaid-eSIM-Option fragen, statt eine eigene Touristenseite zu erwarten. Eine Reise-eSIM, die Türk Telekom einschließt, ist der unkompliziertere Weg zu dessen Netz, ohne die persönliche Vor-Ort-Prüfung.
+### Können internationale Besucher eine Türk-Telekom-eSIM bekommen?
+
+
+
+Ja: Türk Telekom unterstützt digitale Profile auf Prepaid-Linien und registriert sie auf Pässe, in der Regel zum günstigsten Preis der drei. Seine Touristen-Bundles werden weniger offensichtlich vermarktet als die von Turkcell, daher sollten Sie aktiv nach der Prepaid-eSIM-Option fragen, statt eine eigene Touristenseite zu erwarten. Ein Reise-Profil, das Türk Telekom einschließt, ist der unkompliziertere Weg zu dessen Netz, ohne die persönliche Vor-Ort-Prüfung.
 
 
 
@@ -648,19 +652,19 @@ Turkcell, nach vorliegenden Erkenntnissen. Im 2H-2025-Türkei-Bericht von Ookla 
 
 
 
-### Welche Formen sind bei einer türkischen SIM erhältlich?
+### Muss ich eine türkische SIM auf meinen Pass registrieren?
 
 
 
-Yes. Jeder türkische Netzbetreiber muss eine Prepaid-SIM auf Ihre Identität registrieren, und für Ausländer bedeutet das: Pass plus Visum oder Einreisestempel. Die SIM-Leitung ist für die gesamte Laufzeit des Tarifs an Ihren Pass gebunden, und die Nummer wird nach Ablauf des Gültigkeitszeitraums wieder vergeben. Diese Leitungsregistrierung ist unabhängig von der Geräte-IMEI-Regel und erfordert nicht die Registrierung Ihres Telefons.
+Ja. Jeder türkische Netzbetreiber muss eine Prepaid-SIM auf Ihre Identität registrieren, und für Ausländer bedeutet das: Pass plus Visum oder Einreisestempel. Die SIM-Leitung ist für die gesamte Laufzeit des Tarifs an Ihren Pass gebunden, und die Nummer wird nach Ablauf des Gültigkeitszeitraums wieder vergeben. Diese Leitungsregistrierung ist unabhängig von der Geräte-IMEI-Regel und erfordert nicht die Registrierung Ihres Telefons.
 
 
 
-### Geräte mit türkischen eSIM-Problemen
+### Wann sperren türkische Netze mein Telefon?
 
 
 
-Wenn Sie eine türkische SIM auf einem ausländischen Telefon länger als 120 Tage ohne Geräteregistrierung nutzen, sperrt die BTK dieses Telefon für alle drei Netze, und nur Notrufe funktionieren weiterhin. Die Registrierungsgebühr lag 2025 bei 45.614 TL und steigt zum 1. Januar 2026 auf 57.241 TL, und Sie dürfen nur ein Gerät pro Pass alle drei Jahre registrieren. Normale Touristen sind ausgenommen, da ihre Aufenthalte deutlich kürzer als das 120-Tage-Fenster sind, und Reise-eSIMs von nicht-türkischen Anbietern umgehen diese Frist vollständig.
+Wenn Sie eine türkische SIM auf einem ausländischen Telefon länger als 120 Tage ohne Geräteregistrierung nutzen, sperrt die BTK dieses Telefon für alle drei Netze, und nur Notrufe funktionieren weiterhin. Die Registrierungsgebühr lag 2025 bei 45.614 TL und steigt zum 1. Januar 2026 auf 57.241 TL, und Sie dürfen nur ein Gerät pro Pass alle drei Jahre registrieren. Normale Touristen sind ausgenommen, da ihre Aufenthalte deutlich kürzer als das 120-Tage-Fenster sind, und Reise-Profile von nicht-türkischen Anbietern umgehen diese Frist vollständig.
 
 
 
@@ -668,11 +672,11 @@ Wenn Sie eine türkische SIM auf einem ausländischen Telefon länger als 120 Ta
 
 
 
-Es muss entsperrt und eSIM-fähig sein, und es hilft, wenn es die in der Türkei genutzten Bänder unterstützt. Die 4.5G-Schicht läuft auf den Bändern 3, 7 und 20, und 5G nutzt n78 – alles Bänder, die die meisten modernen internationalen Telefone bereits besitzen. Führen Sie beide Prüfungen gemeinsam im [Gerätekompatibilitäts-Checker](/compatibility/) durch, bevor Sie einen Tarif kaufen, und falls der Installationsschritt unklar ist, erklärt [wie die eSIM-Aktivierung funktioniert](/faq/what-is-esim-activation-and-how-does-it-work/) das Ganze.
+Es muss entsperrt und eSIM-fähig sein, und es hilft, wenn es die in der Türkei genutzten Bänder unterstützt. Die 4.5G-Schicht läuft auf den Bändern 3, 7 und 20, und 5G nutzt n78 – alles Bänder, die die meisten modernen internationalen Telefone bereits besitzen. Führen Sie beide Prüfungen gemeinsam im Gerätekompatibilitäts-Checker durch, bevor Sie einen Tarif kaufen, und falls der Installationsschritt unklar ist, erklärt [wie die eSIM-Aktivierung funktioniert](/faq/what-is-esim-activation-and-how-does-it-work/) das Ganze.
 
 
 
-### Telefon vor der Türkei entsperren
+### Muss ich mein Telefon vor der Türkei-Reise entsperren?
 
 
 
@@ -680,11 +684,11 @@ Fragen Sie den Netzbetreiber, an den es gebunden ist. Türkische Anbieter müsse
 
 
 
-### Bei einem türkischen Netzbetreiber kaufen oder eine Reise-eSIM nutzen?
+### Bei einem türkischen Netzbetreiber kaufen oder ein Reise-Profil nutzen?
 
 
 
-Direkt bedeutet: ein Netz, eine passregistrierte Leitung und oft eine lokale türkische Nummer für Anrufe und SMS; im Gegenzug erhalten Sie den günstigsten Pro-Gigabyte-Preis und einen Tarif, der für einen längeren Aufenthalt passt. Eine Reise-eSIM bedeutet: sofortige Bereitstellung, keine Passregistrierung, automatisches Wechseln zwischen Turkcell, Vodafone und Türk Telekom sowie ein festgelegter Preis im Voraus. Kurztrip: Reise-eSIM. Planen Sie einen längeren Aufenthalt oder brauchen Sie eine lokale Nummer? Überspringen Sie die Reiseprodukte und gehen Sie direkt zum Netzbetreiber.
+Direkt bedeutet: ein Netz, eine passregistrierte Leitung und oft eine lokale türkische Nummer für Anrufe und SMS; im Gegenzug erhalten Sie den günstigsten Pro-Gigabyte-Preis und einen Tarif, der für einen längeren Aufenthalt passt. Ein Reise-Profil bedeutet: sofortige Bereitstellung, keine Passregistrierung, automatisches Wechseln zwischen Turkcell, Vodafone und Türk Telekom sowie ein festgelegter Preis im Voraus. Kurztrip: Reise-Profil. Planen Sie einen längeren Aufenthalt oder brauchen Sie eine lokale Nummer? Überspringen Sie die Reiseprodukte und gehen Sie direkt zum Netzbetreiber.
 
 
 
@@ -692,15 +696,15 @@ Direkt bedeutet: ein Netz, eine passregistrierte Leitung und oft eine lokale tü
 
 
 
-Gehen Sie die oben genannten türkeispezifischen Muster der Reihe nach durch: Sperrstatus, Netzauswahl, APN und Datenleitung, dann die IMEI-Sperre, falls Sie die 120 Tage überschritten haben, und wenn es weiterhin nicht klappt, behandelt der umfassendere Fehlerkatalog im [eSIM-Aktivierungsfehler-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) alles Weitere. Halten Sie EID, Bestellnummer und einen Screenshot bereit, bevor Sie den Support kontaktieren, und bevorzugen Sie Turkcell, wo die Netzabdeckung zwischen Orten dünner wird.
+Gehen Sie die oben genannten türkeispezifischen Muster der Reihe nach durch: Sperrstatus, Netzauswahl, APN und Datenleitung, dann die IMEI-Sperre, falls Sie die 120 Tage überschritten haben, und wenn es weiterhin nicht klappt, behandelt der umfassendere Fehlerkatalog im [Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) alles Weitere. Halten Sie EID, Bestellnummer und einen Screenshot bereit, bevor Sie den Support kontaktieren, und bevorzugen Sie Turkcell, wo die Netzabdeckung zwischen Orten dünner wird.
 
 
 
-### Aktivierung bei Turkcell, Vodafone und Türk Telekom
+### Wie läuft die Aktivierung bei den drei türkischen Netzen ab?
 
 
 
-Ihr Telefon bringt den eSIM-Chip bereits mit, und was Sie in der Türkei kaufen, ist ein darauf geschriebenes Profil. Der Netzbetreiber spielt ein Profil auf den Chip, der Chip speichert es, und von da an verhält sich die Leitung wie jede andere. Zur gesamten Bereitstellungskette, einschließlich der Aktivierungscodes, siehe [was eSIM-Aktivierung ist und wie sie funktioniert](/faq/what-is-esim-activation-and-how-does-it-work/).
+Ihr Telefon bringt den Chip bereits mit, und was Sie in der Türkei kaufen, ist ein darauf geschriebenes Profil. Der Netzbetreiber spielt ein Profil auf den Chip, der Chip speichert es, und von da an verhält sich die Leitung wie jede andere. Zur gesamten Bereitstellungskette, einschließlich der Aktivierungscodes, siehe den Grundlagenartikel zur Aktivierung.
 
 
 
@@ -708,7 +712,7 @@ Ihr Telefon bringt den eSIM-Chip bereits mit, und was Sie in der Türkei kaufen,
 
 
 
-Yes, und viele Reisende machen das genau so. Belassen Sie Ihre normale SIM im Schacht für eingehende Anrufe und die SMS mit Bank-Codes, und nutzen Sie die türkische eSIM ausschließlich für mobile Daten. Stellen Sie in den Telefoneinstellungen die eSIM als Standard-Datenleitung ein und deaktivieren Sie Datenroaming auf der Heim-SIM, damit keine Hintergrundkosten anfallen. Ein Haken: Die meisten Reise-eSIMs sind reine Datentarife, daher landen SMS, die zwingend ankommen müssen, weiterhin auf Ihrer ursprünglichen Nummer.
+Ja, und viele Reisende machen das genau so. Belassen Sie Ihre normale SIM im Schacht für eingehende Anrufe und die SMS mit Bank-Codes, und nutzen Sie das türkische Profil ausschließlich für mobile Daten. Stellen Sie in den Telefoneinstellungen das Profil als Standard-Datenleitung ein und deaktivieren Sie Datenroaming auf der Heim-SIM, damit keine Hintergrundkosten anfallen. Ein Haken: Die meisten Reise-Profile sind reine Datentarife, daher landen SMS, die zwingend ankommen müssen, weiterhin auf Ihrer ursprünglichen Nummer.
 
 
 
@@ -740,7 +744,7 @@ Dies sind ausschließlich Drittanbieter-Messungen. Ihre eigenen Messungen schwan
 
 
 
-Passieren Sie die Passkontrolle bereits online. Das Profil von Roami wechselt selbstständig zwischen Turkcell, Vodafone und Türk Telekom, sodass sowohl das Hochplateau als auch die Küste stabil versorgt sind. Probieren Sie zuerst den [kostenlosen Datentest](/free-esim/), oder sichern Sie sich 20 % auf einen [türkischen eSIM-Tarif](/turkey-esim/) mit dem Code **WEB20**.
+Passieren Sie die Passkontrolle bereits online. Das Profil von Roami wechselt selbstständig zwischen Turkcell, Vodafone und Türk Telekom, sodass sowohl das Hochplateau als auch die Küste stabil versorgt sind. Probieren Sie zuerst den kostenlosen Datentest, oder sichern Sie sich 20 % auf einen türkischen eSIM-Tarif mit dem Code **WEB20**.
 
 
 

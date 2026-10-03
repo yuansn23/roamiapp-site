@@ -46,7 +46,7 @@ Sie sind sich bei der Geräteunterstützung oder der Installation unsicher? Prü
 
 
 
-**Die Antwort in einem Absatz:** Sie sind in Helsinki auf der Suche nach dem schnellsten Netz für Remote-Arbeit oder Streaming? DNA führt bei jeder wichtigen Kennzahl – im Median 135,95 Mbps insgesamt, beste Werte beim Gaming und Video sowie die meisten Opensignal-Auszeichnungen (12 von 14 im Bericht von Mai 2025). Sie halten sich überwiegend in Städten wie Tampere und Turku auf? Der 5G-Medianwert von Telia beträgt 215,69 Mbps und liegt damit knapp hinter DNA; zudem gewann Telia den Opensignal-Preis für das Video-Erlebnis. Sie reisen nach Norden nach Lappland oder rund um die Seenplatte? Das Netz von Elisa ist im dünn besiedelten Norden und Osten die traditionelle Wahl, wo es die Netzabdeckung mit niemandem teilt. Die meisten Kurzzeitbesucher überspringen die Wahl ganz: Ein [Mehrnetz-Finnland-eSIM-Tarif](/finland-esim/) verbindet sich automatisch mit dem stärksten Netzbetreiber an Ihrem Standort – probieren Sie den [Test kostenlos](/free-esim/) aus, wenn Sie vor der Zahlung einen Beleg haben möchten.
+**Die Antwort in einem Absatz:** Sie sind in Helsinki auf der Suche nach dem schnellsten Netz für Remote-Arbeit oder Streaming? DNA führt bei jeder wichtigen Kennzahl – im Median 135,95 Mbps insgesamt, beste Werte beim Gaming und Video sowie die meisten Opensignal-Auszeichnungen (12 von 14 im Bericht von Mai 2025). Sie halten sich überwiegend in Städten wie Tampere und Turku auf? Der 5G-Medianwert von Telia beträgt 215,69 Mbps und liegt damit knapp hinter DNA; zudem gewann Telia den Opensignal-Preis für das Video-Erlebnis. Sie reisen nach Norden nach Lappland oder rund um die Seenplatte? Das Netz von Elisa ist im dünn besiedelten Norden und Osten die traditionelle Wahl, wo es die Netzabdeckung mit niemandem teilt. Die meisten Kurzzeitbesucher überspringen die Wahl ganz: Ein [Mehrnetz-Finnland-eSIM-Tarif](/finland-esim/) verbindet sich automatisch mit dem stärksten Netzbetreiber an Ihrem Standort – probieren Sie kostenlos aus, wenn Sie vor der Zahlung einen Beleg haben möchten.
 
 
 
@@ -118,7 +118,7 @@ Da dieser Markt kontinuierlich gemessen wird, können Sie zwei unabhängige Date
 
 
 
-**Opensignal Mobile Network Experience, Mai 2025** (nutzergenerierte Messungen, Januar–März 2025): DNA hat **12 von 14 Auszeichnungen** gewonnen oder gemeinsam gewonnen, darunter Download Speed Experience (99,9 Mbps), Upload Speed Experience (20,9 Mbps) und Consistent Quality als alleiniger Gewinner — und wurde als Best Network ausgezeichnet. Telia gewann Video Experience (74,9). Elisa hat historisch gesehen beide Coverage Experience-Auszeichnungen gehalten, also die Kennzahl, die zählt, sobald man die Achse Helsinki–Tampere verlässt.
+**Opensignal Mobile Network Experience, Mai 2025** (nutzergenerierte Messungen, Januar–März 2025): DNA hat **12 von 14 Auszeichnungen** gewonnen oder gemeinsam gewonnen, darunter Download Speed Experience (Download-Tempo, 99,9 Mbps), Upload Speed Experience (Upload-Tempo, 20,9 Mbps) und Consistent Quality (gleichbleibende Qualität) als alleiniger Gewinner — und wurde als Best Network ausgezeichnet. Telia gewann Video Experience (74,9). Elisa hat historisch gesehen beide Coverage Experience-Auszeichnungen gehalten, also die Kennzahl, die zählt, sobald man die Achse Helsinki–Tampere verlässt.
 
 
 
@@ -202,7 +202,7 @@ Jede Zahl auf dieser Seite ist ein Jahresdurchschnitt. Lappland hat keinen Jahre
 
 | Saariselkä | Ein 4G/5G-Korridor verläuft entlang der E75 | Es handelt sich buchstäblich um einen Korridor – das Signal folgt der Straße, das Fjell-Gelände rechts und links bleibt dagegen ohne Empfang |
 
-| Ivalo und der Inari-See | Weitbereichs-Standorte auf 700/800 MHz, die offene Tundra abdecken | Große Reichweite bedeutet geringe Kapazität: Ein See, der im Oktober still ist, wird im Februar zur Schneemobil-Autobahn |
+| Ivalo und der Inari-See | Weitbereichs-Standorte auf 700/800 MHz, die die offene, dünn besiedelte Landschaft abdecken | Große Reichweite bedeutet geringe Kapazität: Ein See, der im Oktober still ist, wird im Februar zur Schneemobil-Autobahn |
 
 
 
@@ -270,7 +270,7 @@ Weil VRs Pendolino Plus und InterCity-Wagen kostenloses WLAN und eine Steckdose 
 
 
 
-## Tarife und Preise im Vergleich
+## Was finnische Tarife und Touristen-eSIMs kosten
 
 
 
@@ -290,7 +290,7 @@ Finnland gehört zu den unkompliziertesten Prepaid-Märkten Europas: es gibt **k
 
 
 
-Zwei strukturelle Hinweise. Erstens: Am Flughafen Helsinki gibt es keine Betreiberläden — nur einen R-Kioski auf der Ankunftsebene — daher sind Käufe am Flughafen physische SIM-Karten, keine eSIMs, mit Service auf Kiosk-Niveau. Zweitens: Die günstigen lokalen MVNOs, über die Sie möglicherweise lesen (Moi, Oomi und ähnliche), erfordern ein finnisches Bankkonto und sind für Besucher nicht zugänglich. Wenn Sie bei der Landung sofort Datenvolumen ohne Ladenbesuch möchten, genau das ist die Lücke, die eine eSIM für Finnland aus einer App füllt: Die [aktuellen Finnland-Tarife](/finland-esim/) zeigen die Tarife, und die Aktivierung wird Schritt für Schritt im [eSIM-Setup-Leitfaden](/faq/how-to-activate-an-esim/) behandelt.
+Zwei strukturelle Hinweise. Erstens: Am Flughafen Helsinki gibt es keine Betreiberläden — nur einen R-Kioski auf der Ankunftsebene — daher sind Käufe am Flughafen physische SIM-Karten, keine eSIMs, mit Service auf Kiosk-Niveau. Zweitens: Die günstigen lokalen MVNOs, über die Sie möglicherweise lesen (Moi, Oomi und ähnliche), erfordern ein finnisches Bankkonto und sind für Besucher nicht zugänglich. Wenn Sie bei der Landung sofort Datenvolumen ohne Ladenbesuch möchten, genau das ist die Lücke, die eine eSIM für Finnland aus einer App füllt: Die aktuellen Finnland-Tarife stehen auf der Tarifseite, und die Aktivierung wird Schritt für Schritt im [eSIM-Setup-Leitfaden](/faq/how-to-activate-an-esim/) behandelt.
 
 
 
@@ -357,6 +357,12 @@ Setzt man den lokalen Tarif gegen den Außenvergleich, fällt das Bild ungewöhn
 
 
 Für eine zehntägige Reise mit normaler Nutzung ergibt die Rechnung dasselbe wie in weiten Teilen Europas: Ein finnischer Prepaid-Tarif mit unbegrenztem Datenvolumen ist pro Gigabyte deutlich günstiger als jede Reise-eSIM, kostet Sie aber einen Ladenbesuch und eine physische SIM-Karte. Eine Reise-eSIM kostet pro Gigabyte mehr und ist in einer Minute betriebsbereit, ganz ohne Papierkram und ohne eigene Nummer. Entscheiden Sie, in welcher der beiden Währungen – Geld oder Zeit – Sie lieber zahlen möchten.
+
+### Zehn Tage Finnland: die Rechnung mit DNA-Preisen
+
+Setzen Sie die veröffentlichten DNA-Stufen auf eine normale Reise an. Zehn Tage mit durchschnittlich 1 GB pro Tag ergeben 10 GB Bedarf. Die Tagesoption Rajaton unlimited kostet 0,99 € pro Tag auf 4G und 1,29 € auf 5G — für zehn Tage also 9,90 € beziehungsweise 12,90 €, unbegrenzt im Inland. Wer einen festen Zeitraum bevorzugt, nimmt Rajaton 7 Tage für 9,99 € und ergänzt bei Bedarf.
+
+Eine Reise-eSIM liegt pro Gigabyte darüber, spart aber den Ladenbesuch, die Aktivierung in einem finnischen Netz und die physische SIM-Karte. Der nationale Maßstab bleibt günstig: Cable.co.uk beziffert ein Gigabyte finnischer Daten mit etwa 0,52 US$, Platz 48 von 237 Märkten. Die eigentliche Entscheidung ist deshalb nicht der Preis pro Gigabyte, sondern ob Sie für 10 GB einen Ladengang einplanen oder in fünf Minuten vor dem Abflug fertig sein möchten.
 
 
 
@@ -474,11 +480,11 @@ Drei Prüfungen, zwei Minuten:
 
 - **Die 2G-Besonderheit.** Finnland hat 3G bereits 2023 und 2024 abgeschaltet, hält aber 2G am Laufen – genau andersherum als in den meisten europäischen Ländern. Ein sehr altes Handy, das auf 3G angewiesen ist, wird sich hier schlechter verhalten als anderswo auf Reisen. Alles, was 4G-fähig ist, funktioniert einwandfrei.
 
-- **Netzbetreiber-Lock.** In Finnland verkaufte Handys sind gesetzlich entsperrt, aber ein anderswo im Vertrag gekauftes Gerät ist möglicherweise nicht entsperrt. Überprüfen Sie auf dem iPhone unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre, oder prüfen Sie Ihr Modell in der [Liste zur Telefonkompatibilität](/compatibility/).
+- **Netzbetreiber-Lock.** In Finnland verkaufte Handys sind gesetzlich entsperrt, aber ein anderswo im Vertrag gekauftes Gerät ist möglicherweise nicht entsperrt. Überprüfen Sie auf dem iPhone unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre, oder prüfen Sie Ihr Modell in der Telefonkompatibilitätsliste.
 
 
 
-## Manuelle APN-Einrichtung
+## APN für eine direkt bei Elisa, DNA oder Telia gekaufte SIM
 
 
 
@@ -486,7 +492,7 @@ Diesen Abschnitt benötigen Sie nur, wenn Sie eine SIM oder eSIM **direkt bei ei
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Finnischer Betreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -506,7 +512,7 @@ Diesen Abschnitt benötigen Sie nur, wenn Sie eine SIM oder eSIM **direkt bei ei
 
 
 
-Führen Sie zunächst die Standardinstallation Ihrer Finnland-eSIM durch – QR-Scan, Leitung beschriften, als Datenleitung festlegen, Datenroaming aktivieren – gemäß den [QR-Installations-Grundlagen](/faq/how-to-activate-an-esim/). Wenn dies fehlschlägt, die Finnland-spezifischen Muster in der Reihenfolge, in der sie tatsächlich auftreten:
+Führen Sie zunächst die Standardinstallation Ihrer Finnland-eSIM durch – QR-Scan, Leitung beschriften, als Datenleitung festlegen, Datenroaming aktivieren – gemäß den oben beschriebenen Grundlagen. Wenn dies fehlschlägt, die Finnland-spezifischen Muster in der Reihenfolge, in der sie tatsächlich auftreten:
 
 
 
@@ -576,7 +582,7 @@ Führen Sie zunächst die Standardinstallation Ihrer Finnland-eSIM durch – QR-
 
 | Endgerätemodell und Software-Build | Einstellungen → Info |
 
-| Die EID der eSIM | `*#06#` und notieren Sie sich diese zwanzigstellige Zeichenfolge |
+| Die EID der eSIM | `*#06#` – notieren Sie sich die vollständige Zeichenfolge |
 
 | Ein Screenshot, der im Moment des Fehlers aufgenommen wurde | Machen Sie ihn, bevor das Banner verschwindet; ein Foto des Bildschirms funktioniert ebenfalls |
 

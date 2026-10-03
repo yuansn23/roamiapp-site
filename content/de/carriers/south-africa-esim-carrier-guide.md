@@ -58,7 +58,7 @@ Die Zahlen auf Netzbetreiber-Ebene oben stammen aus [Ooklas H2 2024 Südafrika-B
 
 
 
-| Ihre Reise | Bester Netzbetreiber | Warum |
+| Ihre Reiseroute | Passender Betreiber | Begründung |
 
 |:---|:---|:---|
 
@@ -164,7 +164,7 @@ Ein Wort zur Vorsicht bei der Interpretation all dessen: derselbe Bericht weist 
 
 
 
-| Stadt | Mittlerer Download | Upload | Latenz | Konstanz | Schnellster Netzbetreiber |
+| Südafrikanische Stadt | Median-Download | Median-Upload | Latenz | Konstanz | Schnellstes Netz |
 
 |:---|:---|:---|:---|:---|:---|
 
@@ -202,7 +202,7 @@ RICA – der Regulation of Interception of Communications and Provision of Commu
 
 
 
-Für Reisende liegt die Hürde konkret darin: Die Adressanforderung ist eine südafrikanische Wohnadresse, die die meisten Besucher nicht haben. Flughafen-Kioske akzeptieren in der Regel eine Hoteladresse, der Vorgang dauert aber schnell zehn Minuten und länger und erfolgt persönlich am Schalter.
+Für Reisende liegt die Hürde konkret darin: Die Adressanforderung ist eine südafrikanische Wohnadresse, die die meisten Besucher nicht haben. Flughafen-Kioske akzeptieren in der Regel eine Hoteladresse, der Vorgang dauert dann schnell zehn Minuten oder länger und erfolgt persönlich am Schalter.
 
 
 
@@ -218,11 +218,11 @@ Eine Konsequenz gilt es einzuplanen: Lokal registrierte Anschlüsse bleiben der 
 
 
 
-Die aktuellen südafrikanischen Optionen – einschließlich unbegrenzter – finden Sie auf der [Südafrika eSIM-Seite](/south-africa-esim/). Die öffentlichen Bezugswerte bilden den Rahmen:
+Die aktuellen südafrikanischen Optionen – einschließlich unbegrenzter – finden Sie in der [Tarifübersicht](/plans/). Die öffentlichen Bezugswerte bilden den Rahmen:
 
 
 
-Der Global Index von Ookla vom August 2026 platziert Südafrika bei einem medianen mobilen Download von **69,57 Mbps**, weltweit auf Platz **65** mit 22 ms Latenz – unter dem weltweiten Median von 109,05 Mbps und genau das, was eine Südafrika-eSIM übernimmt. Cable.co.uk berechnet 1 GB mit etwa **1,81 USD** (149. von 237). Der Digital-2025-Bericht von DataReportal zeigt 50,8 Millionen Internetnutzer (78,9 %) und rund **124 Millionen Mobilfunkverbindungen – 193 % der Bevölkerung**, eine der höchsten gemessenen Multi-SIM-Raten weltweit.
+Der Global Index von Ookla vom August 2026 platziert Südafrika bei einem medianen mobilen Download von **69,57 Mbps**, weltweit auf Platz **65** mit 22 ms Latenz – unter dem weltweiten Median von 109,05 Mbps und genau das, was eine Südafrika-eSIM übernimmt. Cable.co.uk berechnet 1 GB mit etwa **1,81 USD** (149. von 237). Der Digital-2025-Bericht von DataReportal zeigt 50,8 Millionen Internetnutzer (78,9 %) und rund **124 Millionen Mobilfunkverbindungen – 193 % der Bevölkerung**, eine der höchsten gemessenen Multi-SIM-Raten weltweit. **Kostenrechnung für zwei Wochen mit etwa 10 GB:** Rein nach Volumen kostet das mit 1,81 USD pro Gigabyte rund 18 USD – günstig, aber nur, wenn die Karte bereits registriert ist. Rechnet man den RICA-Aufwand hinzu (Reisepass, südafrikanische Adresse, Wartezeit an einem Vodacom-, MTN- oder Cell-C-Schalter), verschiebt sich das Bild zugunsten eines im Voraus gebuchten Profils, das schon bei der Landung verbunden ist.
 
 
 
@@ -234,7 +234,7 @@ Ein zweiter Südafrika-spezifischer Faktor gehört in jede ehrliche Diskussion d
 
 
 
-| Reiseziel | Bester Netzbetreiber | Warum es funktioniert |
+| Ziel in Südafrika | Stärkstes Netz vor Ort | Was den Empfang dort trägt |
 
 |:---|:---|:---|
 
@@ -272,7 +272,7 @@ Für Südafrika gibt es zwei praktische Hinweise. Erstens: Installieren Sie die 
 
 
 
-| Technologie | Genutzte Frequenzbänder | Was dies für Ihr Mobiltelefon bedeutet |
+| Netzstandard | Genutzte Bänder in Südafrika | Bedeutung für Ihr Handy |
 
 |:---|:---|:---|
 
@@ -294,7 +294,7 @@ Ein Hinweis zum Kontext. Die Jahre des nationalen Load-Sheddings haben die Bauwe
 
 
 
-## APN-Werte die tatsächlich funktionieren
+## APN-Werte, die tatsächlich funktionieren
 
 
 
@@ -302,7 +302,7 @@ Südafrika ist der seltene Markt, in dem alle vier Netzbetreiber dieselbe APN-Ze
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Südafrikanischer Betreiber | Zugangspunkt (APN) | Nutzername | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -348,11 +348,11 @@ Die Adressanforderung ist das, was die meisten Besucher nicht sauber erfüllen k
 
 
 
-## Der beste Netzbetreiber für Ihre Reise
+## Wie viel Datenvolumen Ihre Route in Südafrika braucht
 
 
 
-| Reise | Typische Dauer | Komfortables Datenvolumen | Warum |
+| Südafrika-Reise | Übliche Dauer | Passendes Datenvolumen | Weshalb genau so viel |
 
 |:---|:---|:---|:---|
 
@@ -420,7 +420,7 @@ Südafrika ist wie geschaffen für Roadtrips, und die mobilen Daten sind zwische
 
 
 
-Zwei allgemeine Regeln lassen sich ableiten. **Die Städtewerte sind nicht die Straßenwerte** — die Zehn-Städte-Tabelle in diesem Artikel beschreibt das urbane Südafrika, und der ländliche Raum zwischen diesen Städten ist in der Praxis ein anderes Netz, das auf älterer Technologie und geringerer Standortdichte aufbaut. Und **die Touristenrouten sind die anspruchsvolleren Strecken**: die Garden Route und die Drakensberg halten Navigation und Foto-Backup stundenlang am Laufen — und genau das verbraucht ein Datenvolumen am schnellsten.
+Zwei allgemeine Regeln lassen sich ableiten. **Die Städtewerte sind nicht die Straßenwerte** — die Zehn-Städte-Tabelle in diesem Artikel beschreibt das urbane Südafrika, und der ländliche Raum zwischen diesen Städten ist in der Praxis ein anderes Netz, das auf älterer Technologie und geringerer Standortdichte aufbaut. Und **die Touristenrouten sind die anspruchsvolleren Strecken**: die Garden Route und die Drakensberge halten Navigation und Foto-Backup stundenlang am Laufen — und genau das verbraucht ein Datenvolumen am schnellsten.
 
 
 
@@ -625,7 +625,7 @@ In der Mitte dünn und an beiden Enden gut. Kapstadt und der Großraum Durban ha
 
 
 
-### Wer ist besser in Südafrika?
+### MTN oder Vodacom – wer ist in Südafrika besser?
 
 
 
@@ -665,7 +665,7 @@ In Johannesburg und Pretoria ja — Medianwerte von 62–76 Mbps mit über 90 % 
 
 
 
-### Wann sollte ich die eSIM installieren?
+### Wann sollte ich die Südafrika-eSIM aufspielen?
 
 
 
@@ -685,11 +685,11 @@ Ja. Behalten Sie die physische SIM im Telefon für Anrufe und Einmal-Passwörter
 
 
 
-Schlimm genug, um ins Gewicht zu fallen. Die RICA-Registrierung verlangt einen Reisepass und eine südafrikanische Adresse sowie den Gang zu einer Vodacom-, MTN- oder Cell C-Filiale, und das Verfahren ist genau so bürokratisch, wie es klingt. Die Rechtslage für Besucher ist milder, als die Warteschlange vermuten lässt — eine Roaming-Reise-eSIM fällt unter die Ausnahme nach Abschnitt 40(1)(b) — daher umgeht eine [Südafrika-eSIM](/south-africa-esim/) den ganzen Apparat.
+Schlimm genug, um ins Gewicht zu fallen. Die RICA-Registrierung verlangt einen Reisepass und eine südafrikanische Adresse sowie den Gang zu einer Vodacom-, MTN- oder Cell C-Filiale, und das Verfahren ist genau so bürokratisch, wie es klingt. Die Rechtslage für Besucher ist milder, als die Warteschlange vermuten lässt — eine Roaming-Reise-eSIM fällt unter die Ausnahme nach Abschnitt 40(1)(b) — daher umgeht eine Südafrika-eSIM den ganzen Apparat.
 
 
 
-### Was tun wenn das Datenvolumen zur Neige geht?
+### Was tun, wenn das Datenvolumen zur Neige geht?
 
 
 
@@ -731,7 +731,7 @@ Eine RICA-registrierte SIM-Karte kostet Sie einen Reisepass, einen Ladenbesuch u
 
 
 
-- [Südafrika-eSIM-Tarife ansehen](/south-africa-esim/)
+- Südafrika-eSIM-Tarife ansehen
 
 - [Kostenlose Südafrika-eSIM nutzen](/free-esim/) — kostenloser Start
 

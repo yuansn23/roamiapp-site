@@ -50,7 +50,7 @@ Der beste Netzbetreiber hängt weiterhin von der Profilinstallation im Hintergru
 
 
 
-## Welche Netzbetreiber Ihre eSIM nutzen kann
+## Welche Netzbetreiber Ihr Profil nutzen kann
 
 
 
@@ -62,7 +62,7 @@ Der beste Netzbetreiber hängt weiterhin von der Profilinstallation im Hintergru
 
 |:---|:---|:---|:---|:---|
 
-| Prepaid-eSIM für Reisende | Touristentarif nur als physische SIM; Standard-eSIM in der Filiale | eSIM auf Tarifen am Schalter in der Filiale | Tourist Pass Digital kann als online gekaufte eSIM in der Filiale abgeholt werden | eSIM unterstützt, über Filiale oder Self-Service-Kiosk |
+| Digitale SIM für Reisende | Touristentarif nur als physische SIM; Standard-Profil in der Filiale | digitales Profil am Schalter in der Filiale | Tourist Pass Digital als online gekaufte eSIM, Abholung in der Filiale | digital verfügbar, über Filiale oder Self-Service-Kiosk |
 
 | Wohin es bringt | Beste Netzabdeckung in ländlichen Gebieten und Bergregionen, starke Videobewertung | Bestes Gesamtnetz und schnellste Geschwindigkeitsbewertung | Höchste 5G-Verfügbarkeit, große Sendemasten-Infrastruktur | Günstigste Datentarife mit hohem Volumen, beste Nutzerbewertung |
 
@@ -84,11 +84,11 @@ Die Wholesale-Ebene in Italien verkauft Kapazitäten von TIM, Vodafone und WINDT
 
 
 
-| Virtuelle Marke | Host-Netz | eSIM-Unterstützung | Am besten geeignet für |
+| Discount-Marke | Zugrunde liegendes Netz | Digitale SIM verfügbar | Passt für |
 
 |:---|:---|:---|:---|
 
-| Fastweb Mobil | Eigenes Netz plus Vodafone Sharing | eSIM unterstützt | Stadtaufenthalte und Mailand-fokussierte Reisen |
+| Fastweb Mobil | Eigenes Netz plus Vodafone Sharing | digital verfügbar | Stadtaufenthalte und Mailand-fokussierte Reisen |
 
 | Kena Mobile | TIM | Prepaid eSIM | Budget-Reisende, die TIM günstig erreichen möchten |
 
@@ -96,7 +96,7 @@ Die Wholesale-Ebene in Italien verkauft Kapazitäten von TIM, Vodafone und WINDT
 
 | Very Mobile | WINDTRE | Prepaid eSIM | Günstigster Tarif im WINDTRE-Netz |
 
-| PosteMobile | Vodafone | eSIM unterstützt | Besucher, die bereits Poste Italiane-Dienste nutzen |
+| PosteMobile | Vodafone | digital verfügbar | Besucher, die bereits Poste Italiane-Dienste nutzen |
 
 
 
@@ -124,11 +124,11 @@ Zwei Vorbehalte. Erstens: Diese Budgetmarken begrenzen die Datengeschwindigkeit 
 
 
 
-Für einen typischen Italienurlaub ist die günstigere Variante die Italien-eSIM. Ein lokaler Prepaid-Tarif ist pro Gigabyte zwar preiswert, bringt aber einen Filialbesuch, eine mögliche Steuernummer und eine SIM-Gebühr mit sich und bindet Sie an ein einziges Netz. Wo der Netzbetreiber punktet, sind Langlebigkeit und Telefonie: eine echte italienische Rufnummer, unbeschränktes Telefonieren im Inland und ein Tarif, der auch im sechsten Monat noch funktioniert.
+Für einen typischen Aufenthalt im Land ist die günstigere Variante die Italien-eSIM. Ein lokaler Prepaid-Tarif ist pro Gigabyte zwar preiswert, bringt aber einen Filialbesuch, eine mögliche Steuernummer und eine SIM-Gebühr mit sich und bindet Sie an ein einziges Netz. Wo der Netzbetreiber punktet, sind Langlebigkeit und Telefonie: eine echte italienische Rufnummer, unbeschränktes Telefonieren im Inland und ein Tarif, der auch im sechsten Monat noch funktioniert.
 
 
 
-Eine Multinetz-eSIM ist der praktische Mittelweg: [Italien-eSIM von Roami](/italy-esim/) bietet die Bequemlichkeit der sofortigen Bereitstellung, wechselt automatisch zwischen TIM, Vodafone, WINDTRE und Iliad und sorgt dafür, dass Sie sowohl in den Klippendörfern der Amalfi-Küste auf TIM als auch in Mailand auf Vodafone Empfang haben, ohne zweimal kaufen zu müssen.
+Ein Multinetz-Profil ist der praktische Mittelweg: Roamis Italien-eSIM bietet die Bequemlichkeit der sofortigen Bereitstellung, wechselt automatisch zwischen TIM, Vodafone, WINDTRE und Iliad und sorgt dafür, dass Sie sowohl in den Klippendörfern der Amalfi-Küste auf TIM als auch in Mailand auf Vodafone Empfang haben, ohne zweimal kaufen zu müssen.
 
 
 
@@ -154,7 +154,7 @@ Frequenzbandtabellen muss man vor einer Reise nicht auswendig lernen. Was wirkli
 
 ### Ist Ihr Telefon eSIM-bereit für Italien?
 
-Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation einer Italien-eSIM einfach fehlschlägt. Italien hat hier eigene Regeln. Nach italienischem SIM-Sperrgesetz müssen Netzbetreiber jeden Zuschuss offenlegen, ein Teilnehmer kann nach neun Monaten einen Freischaltcode erhalten, indem er die Hälfte des ausgewiesenen Zuschusses bezahlt, und die Sperre muss innerhalb von achtzehn Monaten aufgehoben werden. In der EU insgesamt muss die SIM-Entsperrung nach Ablauf einer etwaigen Vertragslaufzeit kostenlos erfolgen.
+Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation eines italienischen Profils einfach fehlschlägt. Italien hat hier eigene Regeln. Nach italienischem SIM-Sperrgesetz müssen Netzbetreiber jeden Subventionsbetrag offenlegen; ein Teilnehmer kann nach neun Monaten einen Freischaltcode erhalten, indem er die Hälfte des ausgewiesenen Subventionsbetrags bezahlt, und die Sperre muss innerhalb von achtzehn Monaten aufgehoben werden. In der EU insgesamt muss die SIM-Entsperrung nach Ablauf einer etwaigen Vertragslaufzeit kostenlos erfolgen.
 
 
 
@@ -162,7 +162,7 @@ Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation einer It
 
 
 
-**So beheben Sie es:** Bitten Sie den Anbieter, der die Sperre verhängt hat, diese aufzuheben. Abbezahlte Geräte werden normalerweise innerhalb weniger Stunden freigeschaltet, und nach EU-Recht sowie den meisten Heimatanbieter-Regeln fällt keine Gebühr an. Versuchen Sie erst danach, Ihre Italien-eSIM zu installieren.
+**So beheben Sie es:** Bitten Sie den Anbieter, der die Sperre verhängt hat, diese aufzuheben. Abbezahlte Geräte werden normalerweise innerhalb weniger Stunden freigeschaltet, und nach EU-Recht sowie den meisten Heimatanbieter-Regeln fällt keine Gebühr an. Versuchen Sie erst danach, Ihr Profil zu installieren.
 
 
 
@@ -184,11 +184,11 @@ Wenn Sie ein gebrauchtes Telefon oder ein Telefon mit Ratenvertrag gekauft haben
 
 | Internationale Handys ohne n28 oder n1 | Schnell in Städten, nur LTE in ländlichen Gebieten | Erwartetes Verhalten; siehe Regionshinweise unten |
 
-| Dual SIM-Nutzer | eSIM installiert, aber keine Daten | Legen Sie die eSIM als die für mobile Daten verwendete Leitung fest |
+| Zwei SIMs aktiv | Profil geladen, Daten laufen aber über die Heimkarte | In den Datenoptionen das italienische Profil als Standard festlegen |
 
 
 
-Alles, was darüber hinausgeht, ist eher gerätespezifisch als netzbetreiberspezifisch. Prüfen Sie Ihr Mobiltelefon im [eSIM-Kompatibilitätstest](/compatibility/), bevor Sie etwas bezahlen.
+Alles, was darüber hinausgeht, ist eher gerätespezifisch als netzbetreiberspezifisch. Prüfen Sie Ihr Mobiltelefon im Kompatibilitätstest, bevor Sie etwas bezahlen.
 
 
 
@@ -216,11 +216,11 @@ Der TIM Touristentarif ist **ausschließlich als physische SIM erhältlich**. Er
 
 
 
-Vodafone Italia ist das schnellste Netz in den Großstädten und bietet den einfachsten englischsprachigen Support, und eSIM wird bei den Tarifen unterstützt.
+Vodafone Italia ist das schnellste Netz in den Großstädten und bietet den einfachsten englischsprachigen Support, und das digitale Format wird bei den Tarifen unterstützt.
 
 
 
-Das Besucherprodukt von Vodafone ist die **Dolce Vita**-Reihe. Dolce Vita Start bietet 100 GB 5G, 25 GB EU-Daten und 200 Minuten für **14,95 EUR** pro Monat. Dolce Vita Ultra bietet 300 GB, 41 GB EU und dieselben Minuten für **24,95 EUR** pro Monat. Vodafone wirbt mit null Aktivierungsgebühr, weist allerdings nicht immer eine separate SIM-Karten-Gebühr aus, also lassen Sie sich am Schalter den Gesamtpreis bestätigen. Die eSIM wird in der Filiale nach Scannen Ihres Reisepasses ausgestellt, und das Personal übernimmt die Einrichtung.
+Das Besucherprodukt von Vodafone ist die **Dolce Vita**-Reihe. Dolce Vita Start bietet 100 GB 5G, 25 GB EU-Daten und 200 Minuten für **14,95 EUR** pro Monat. Dolce Vita Ultra bietet 300 GB, 41 GB EU und dieselben Minuten für **24,95 EUR** pro Monat. Vodafone wirbt mit null Aktivierungsgebühr, weist allerdings nicht immer eine separate SIM-Karten-Gebühr aus, also lassen Sie sich am Schalter den Gesamtpreis bestätigen. Das digitale Profil wird in der Filiale nach Scannen Ihres Reisepasses ausgestellt, und das Personal übernimmt die Einrichtung.
 
 
 
@@ -244,7 +244,7 @@ Iliad ist der Preisbrecher, mit transparenten, günstigen Hochdatentarifen, hat 
 
 
 
-Der Tarif **Giga 150** von Iliad bietet 150 GB 5G, unbegrenzte Anrufe und EU-Roaming zur fairen Nutzung für etwa **9,99 EUR** pro Monat. Iliad unterstützt eSIM, und da das Unternehmen ein Netz von Selbstbedienungs-Simbox-Automaten in Einkaufszentren betreibt, können Sie in wenigen Minuten eine Karte oder eSIM gegen Ihr Ausweisdokument ausstellen lassen. Der Nachteil ist eine weniger vorhersehbare Netzabdeckung, sobald Sie die großen Verkehrsachsen verlassen, sowie ein weitgehend digitaler Kundenservice.
+Der Tarif **Giga 150** von Iliad bietet 150 GB 5G, unbegrenzte Anrufe und EU-Roaming zur fairen Nutzung für etwa **9,99 EUR** pro Monat. Iliad unterstützt die digitale SIM, und da das Unternehmen ein Netz von Selbstbedienungs-Simbox-Automaten in Einkaufszentren betreibt, können Sie in wenigen Minuten eine Karte oder ein digitales Profil gegen Ihr Ausweisdokument ausstellen lassen. Der Nachteil ist eine weniger vorhersehbare Netzabdeckung, sobald Sie die großen Verkehrsachsen verlassen, sowie ein weitgehend digitaler Kundenservice.
 
 
 
@@ -252,7 +252,7 @@ Der Tarif **Giga 150** von Iliad bietet 150 GB 5G, unbegrenzte Anrufe und EU-Roa
 
 
 
-| Netzbetreiber | Tarif | Datenvolumen in Italien | EU-Datenvolumen | Telefonie | Laufzeit | Preis im Voraus EUR | eSIM |
+| Betreiber | Tarif | Datenvolumen in Italien | EU-Datenvolumen | Telefonie | Laufzeit | Preis im Voraus EUR | Digitale SIM |
 
 |:---|:---|:---|:---|:---|:---|:---|:---|
 
@@ -278,11 +278,11 @@ Preise und Konditionen ändern sich häufig, daher sollten Sie die Tabelle als M
 
 |:---|:---|
 
-| Reisepass | Für jede Prepaid-SIM und eSIM in Italien zwingend erforderlich |
+| Reisepass | Für jede Prepaid-SIM und jedes digitale Profil in Italien zwingend erforderlich |
 
 | Codice fiscale | Wird für Standard- und Monatstarife benötigt; an Flughäfen und in Filialen der Netzbetreiber wird er anhand Ihres Reisepasses erstellt. |
 
-| IMEI | Wählen Sie *#06# um das Gerät zu bestätigen |
+| IMEI | Wählen Sie `*#06#`, um das Gerät zu bestätigen |
 
 | EID | Wird ebenfalls auf dem Bildschirm *#06# angezeigt; die eSIM-Kennung |
 
@@ -290,11 +290,11 @@ Preise und Konditionen ändern sich häufig, daher sollten Sie die Tabelle als M
 
 | Eine Karte, die in Italien funktioniert | Manche Netzbetreiber-Checkouts lehnen ausländische Rechnungsadressen ab |
 
-| WLAN | Installieren Sie das Profil vor dem Flug, nicht erst am Flughafen |
+| WLAN-Zugang | Profil zu Hause aufspielen, nicht erst in der Ankunftshalle |
 
 
 
-Neukunden können den Code **WEB20** verwenden, um 20 % Rabatt zu erhalten, wenn sie [einen Italien-eSIM-Tarif buchen](/italy-esim/), oder sich zunächst die [Italien-Test-eSIM sichern](/free-esim/), um die Netze kostenlos zu testen.
+Neukunden können den Code **WEB20** verwenden, um 20 % Rabatt zu erhalten, wenn sie einen Italien-eSIM-Tarif buchen, oder sich zunächst die Italien-Test-eSIM sichern, um die Netze kostenlos zu testen.
 
 
 
@@ -350,7 +350,7 @@ Zum Kontext für das Land insgesamt: Der Digital 2025 Italy Report von DataRepor
 
 
 
-| Die Reise | Passender Netzbetreiber | Warum | Achtung |
+| Reisestil | Das passende Netz | Begründung | Einschränkung |
 
 |:---|:---|:---|:---|
 
@@ -418,11 +418,11 @@ Sie werden wahrscheinlich nie den APN-Bildschirm öffnen, aber er erklärt die m
 
 
 
-Sie benötigen diese nur, wenn Sie eine SIM oder Italien-eSIM **direkt bei einem italienischen Netzbetreiber** gekauft haben. Wenn das Profil von einer Reise-eSIM stammt, ist der italienische APN bereits hinterlegt.
+Sie benötigen diese nur, wenn Sie eine SIM oder Italien-eSIM **direkt bei einem italienischen Netzbetreiber** gekauft haben. Wenn das Profil von einer Reise-SIM stammt, ist der italienische APN bereits hinterlegt.
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | Zugangspunkt (APN) | Nutzername | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -450,9 +450,9 @@ Die automatische Konfiguration deckt die meisten italienischen Profile ab; dies 
 
 - Ein älteres Endgerät, das die Netzbetreiber-Einstellungen nicht automatisch erkennt
 
-- Ein Profil, das mit einem manuellen Aktivierungscode statt per QR-Scan installiert wurde
+- Ein Profil, das über einen handeingetippten Aktivierungscode statt über den QR-Scan eingerichtet wurde
 
-- Eine vom Netzbetreiber ausgegebene Prepaid-eSIM, bei der die automatische Konfiguration nicht ausgeführt wurde
+- Eine im Shop ausgegebene Prepaid-Leitung, deren Netzeinstellungen nicht automatisch ankommen
 
 - Ein Hotspot, der zwar eine Verbindung herstellt, aber keine Daten weitergibt – unter Android muss dann `dun` beim APN-Typ ergänzt werden
 
@@ -462,7 +462,7 @@ Die automatische Konfiguration deckt die meisten italienischen Profile ab; dies 
 
 ### So geben Sie den APN ein
 
-- **iPhone:** Einstellungen → Mobilfunk → die eSIM-Leitung antippen → Mobiles Datennetz → den APN eintragen
+- **iPhone:** Einstellungen → Mobilfunk → die italienische Leitung antippen → Mobiles Datennetz → den APN eintragen
 
 - **Android:** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunkte (APNs) → einen neuen APN hinzufügen
 
@@ -490,13 +490,13 @@ Der Ablauf in diesem Abschnitt führt Sie von einer sauberen Installation bis hi
 
 | 1 | Das Telefon ist nicht netzbetreibergebunden | Die Netzbetreiberbindung wird in „Über das Telefon“ als „Keine SIM-Einschränkungen“ angezeigt |
 
-| 2 | Das Telefon unterstützt eSIM | *#06# zeigt eine EID an, oder das [Kompatibilitätsprüfungs-Tool](/compatibility/) bestätigt Ihr Modell |
+| 2 | Das Telefon unterstützt die digitale SIM | *#06# zeigt eine EID an, oder das Kompatibilitätsprüfungs-Tool bestätigt Ihr Modell |
 
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud gespeichert |
+| 3 | Aktivierungsdaten gesichert | QR-Blatt fotografiert und eine Kopie in der Cloud abgelegt |
 
 | 4 | Profil vor der Abreise installieren | Zu Hause über WLAN installieren; das Profil verbindet sich automatisch bei der Landung |
 
-| 5 | Datenverbindung und Roaming eingerichtet | eSIM für mobile Daten ausgewählt, Datenroaming aktiviert |
+| 5 | Datenlinie und Roaming aktiv | Italienisches Profil als mobile Datenleitung gewählt, Roaming an |
 
 
 
@@ -516,7 +516,7 @@ Unser [Schritt-für-Schritt-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/
 
 |:---|:---|
 
-| TIM | Der Touristentarif ist ausschließlich als physische SIM-Karte erhältlich; die Standard-eSIM wird im Laden mit Reisepass aktiviert. |
+| TIM | Der Touristentarif ist ausschließlich als physische SIM-Karte erhältlich; das Standard-Profil wird im Laden mit Reisepass aktiviert. |
 
 | Vodafone | eSIM an einem Schalter im Laden nach Identitätsprüfungen |
 
@@ -524,7 +524,7 @@ Unser [Schritt-für-Schritt-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/
 
 | Iliad | eSIM wird unterstützt und wird in einer Filiale oder an einem Simbox-Kiosk gegen Vorlage eines Ausweises ausgestellt |
 
-| Reise-eSIM | Wird per QR-Code installiert und wechselt automatisch zu dem Netz von TIM, Vodafone, WINDTRE oder Iliad mit dem stärksten Empfang (Roaming) |
+| Reise-SIM | Wird per QR-Code installiert und wechselt automatisch zu dem Netz von TIM, Vodafone, WINDTRE oder Iliad mit dem stärksten Empfang (Roaming) |
 
 
 
@@ -532,11 +532,11 @@ Unser [Schritt-für-Schritt-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/
 
 
 
-Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann, ein fehlgeschlagener Scan, eine eSIM, die zwar installiert wird, sich aber nie registriert, werden in unserem [eSIM-Problemlösungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Die vier folgenden Muster sind spezifisch für Italien.
+Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann, ein fehlgeschlagener Scan, ein Profil, das zwar installiert wird, sich aber nie registriert, werden in unserem [eSIM-Problemlösungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Die vier folgenden Muster sind spezifisch für Italien.
 
 
 
-| Symptom | Wahrscheinliche Ursache | Lösung |
+| Fehlerbild | Typische Ursache | Gegenmaßnahme |
 
 |:---|:---|:---|
 
@@ -544,29 +544,29 @@ Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann
 
 | Kein Empfang auf der Fähre zwischen Neapel und Capri oder Sorrento | Auf offener See erwartbar, am schlimmsten auf Iliad | Laden Sie Offline-Karten vor dem Boarding herunter; akzeptieren Sie die Funklücke oder nutzen Sie TIM |
 
-| SIM auf einem Telefon, das auf einen Nicht-EU-Netzbetreiber gesperrt ist, nicht zulässig | Gerät ist netzbetreiberseitig gesperrt | Vor der Reise über den Heim-Netzbetreiber entsperren lassen; eine italienische eSIM hilft in diesem Fall nicht |
+| SIM auf einem Telefon, das auf einen Nicht-EU-Netzbetreiber gesperrt ist, nicht zulässig | Gerät ist netzbetreiberseitig gesperrt | Vor der Reise über den Heim-Netzbetreiber entsperren lassen; ein italienisches Profil hilft in diesem Fall nicht |
 
 | Datennutzung funktioniert, Hotspot jedoch nicht | APN-Typ „dun“ fehlt auf Android oder „Personal Hotspot“ ist auf dem iPhone leer | Fügen Sie „dun“ zum APN-Typ hinzu oder tragen Sie den Personal-Hotspot-APN auf dem iPhone ein und starten Sie das Gerät anschließend neu |
 
 
 
-### Was Sie für den Support bereithalten sollten
+### Unterlagen, die der Support vor Ort erwartet
 
 | Informationen | Wo Sie es finden |
 
 |:---|:---|
 
-| Bestell- oder Kundennummer | Bestätigungs-E-Mail |
+| Auftragsnummer des Kaufs | Aus der Bestätigungsmail |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen, Über |
+| Gerät und Softwarestand | Einstellungen → Allgemein → Info (iOS) bzw. Über das Telefon (Android) |
 
 | EID | *#06# |
 
-| Screenshot des Fehlers | Aufnehmen, bevor sich der Bildschirm ändert |
+| Bildschirmfoto der Meldung | Aufnehmen, solange das Fehlerfenster offen ist |
 
-| Aktuelle APN-Einstellungen | Einstellungen, Mobiles Datennetz |
+| Hinterlegte APN-Werte | Einstellungen → Mobilfunk → Mobiles Datennetz |
 
-| Datenroaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
+| Roaming-Schalter der Datenleitung | Einstellungen → Mobiles Netz → Datenoptionen → eigene Leitung |
 
 | Bereits versuchte Schritte | Kurz halten |
 
@@ -580,7 +580,7 @@ Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann
 
 
 
-Nicht über den Touristentarif. Das TIM-Touristenprodukt ist eine physische SIM, die in einem TIM-Laden oder am Schalter am Flughafen mit Reisepass für 24,99 EUR alles inklusive gekauft wird. TIM verkauft zwar eSIMs zu seinen regulären Tarifen, aber als Besucher bekommt man eine normalerweise nur im Laden nach einer Identitätsprüfung und nicht per QR-Code aus der Ferne.
+Nicht über den Touristentarif. Das TIM-Touristenprodukt ist eine physische SIM, die in einem TIM-Laden oder am Schalter am Flughafen mit Reisepass für 24,99 EUR alles inklusive gekauft wird. TIM verkauft zwar digitale SIMs zu seinen regulären Tarifen, aber als Besucher bekommt man eine normalerweise nur im Laden nach einer Identitätsprüfung und nicht per QR-Code aus der Ferne.
 
 
 
@@ -588,7 +588,7 @@ Nicht über den Touristentarif. Das TIM-Touristenprodukt ist eine physische SIM,
 
 
 
-Ja, auf seinen Tarifen, aber am Ladenschalter und nicht online. Die Vodafone Dolce Vita-Reisepalette beginnt bei 14,95 EUR pro Monat für 100 GB und wird als eSIM ausgestellt, nachdem Ihr Reisepass im Laden gescannt wurde. Wenn Sie das Vodafone-Netz ohne Termin möchten, ist eine Italien-eSIM über das Vodafone-Netz der schnellere Weg.
+Ja, auf seinen Tarifen, aber am Ladenschalter und nicht online. Die Vodafone Dolce Vita-Reisepalette beginnt bei 14,95 EUR pro Monat für 100 GB und wird als digitales Profil ausgestellt, nachdem Ihr Reisepass im Laden gescannt wurde. Wenn Sie das Vodafone-Netz ohne Termin möchten, ist eine Leitung über das Vodafone-Netz der schnellere Weg.
 
 
 
@@ -620,7 +620,7 @@ Bei kurzen Touristentarifen meistens nein. Italien verlangt für jede Prepaid-Le
 
 
 
-Ja, beides: entsperrt und eSIM-fähig. Prüfen Sie beides in einem Schritt mit dem [eSIM-Kompatibilitätsprüfer](/compatibility/), der die EID-Unterstützung und die Band-Frage abdeckt, einschließlich der n28- und n1-5G-Bänder, die vielen internationalen Geräten fehlen. Wenn der Installationsprozess Sie verwirrt, führt die [Grundlagen der Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) Schritt für Schritt durch.
+Ja, beides: entsperrt und eSIM-fähig. Prüfen Sie beides in einem Schritt mit dem eSIM-Kompatibilitätsprüfer, der die EID-Unterstützung und die Band-Frage abdeckt, einschließlich der n28- und n1-5G-Bänder, die vielen internationalen Geräten fehlen. Wenn der Installationsprozess Sie verwirrt, führt die Grundlagen-der-Aktivierung-Seite Schritt für Schritt durch.
 
 
 
@@ -644,7 +644,7 @@ Iliad, mit etwa 9,99 EUR pro Monat für 150 GB mit unbegrenzten Anrufen und EU-R
 
 
 
-Ja, und das ist eine sinnvolle Konfiguration. Behalten Sie Ihre Heimnummer für Anrufe und Verifizierung und leiten Sie italienische Daten über die eSIM. Geben Sie in den Einstellungen der Datenoption die italienische Priorität und lassen Sie die Heimleitung für Anrufe. Deaktivieren Sie Roaming auf der Heimkarte, damit Hintergrunddaten keine Kosten verursachen.
+Ja, und das ist eine sinnvolle Konfiguration. Behalten Sie Ihre Heimnummer für Anrufe und Verifizierung und leiten Sie italienische Daten über das italienische Profil. Stellen Sie in den Datenoptionen das italienische Profil als Priorität ein und lassen Sie die Heimleitung für Anrufe. Deaktivieren Sie Roaming auf der Heimkarte, damit Hintergrunddaten keine Kosten verursachen.
 
 
 
@@ -656,9 +656,9 @@ Weil Sie offenes Wasser überqueren, wo der nächste Mast Kilometer entfernt ist
 
 
 
-### Was lohnt sich für kurze und lange Aufenthalte?
+### Was zählt bei kurzen und was bei langen Aufenthalten?
 
-Direkt bedeutet ein Netz, vom Netzbetreiber bereitgestellte Aktivierung und oft Reisepass plus Steuernummer; dafür erhalten Sie eine echte italienische Nummer und unbegrenzte Inlandsgespräche. Eine Reise-eSIM bedeutet sofortige Bereitstellung, kein Papierkram, automatischer Wechsel zwischen TIM, Vodafone, WINDTRE und Iliad sowie ein fester Vorabpreis. Kurze Reise: Reise-eSIM. Bei längeren Aufenthalten in Italien ändert sich die Rechnung: Eine direkt vom Netzbetreiber ausgegebene SIM ergibt mehr Sinn.
+Direkt bedeutet ein Netz, vom Netzbetreiber bereitgestellte Aktivierung und oft Reisepass plus Steuernummer; dafür erhalten Sie eine echte italienische Nummer und unbegrenzte Inlandsgespräche. Eine Reise-eSIM bedeutet sofortige Bereitstellung, kein Papierkram, automatischer Wechsel zwischen TIM, Vodafone, WINDTRE und Iliad sowie ein fester Vorabpreis. Kurze Reise: Reise-eSIM. Bei längeren Aufenthalten in Italien ändert sich die Rechnung: Eine direkt vom Netzbetreiber ausgegebene SIM ist dann die bessere Wahl.
 
 
 
@@ -666,7 +666,7 @@ Direkt bedeutet ein Netz, vom Netzbetreiber bereitgestellte Aktivierung und oft 
 
 
 
-Eine eSIM ersetzt die Plastikkarte durch einen im Handy fest verbauten Chip; das Profil kommt über die Luft, der Chip speichert es, und die Leitung verhält sich wie jede andere. [Die eSIM-Grundlagen](/faq/what-is-esim-activation-and-how-does-it-work/) erklären den SM-DP+-Handshake und warum jeder QR-Code nur einmal verwendet werden kann.
+Eine eSIM ersetzt die Plastikkarte durch einen im Handy fest verbauten Chip; das Profil kommt über die Luft, der Chip speichert es, und die Leitung verhält sich wie jede andere. Die eSIM-Grundlagen erklären den SM-DP+-Handshake und warum jeder QR-Code nur einmal verwendet werden kann.
 
 
 
@@ -698,7 +698,7 @@ Nur Messungen Dritter. Die tatsächlichen Ergebnisse variieren je nach Gerät, g
 
 
 
-Ein Profil, vier Netze. Die Italien-eSIM von Roami nutzt TIM, Vodafone, WINDTRE und Iliad und wechselt zwischen ihnen, während Sie das Land durchqueren. Testen Sie die Netze kostenlos mit der [kostenlosen Italien-Test-eSIM](/free-esim/), und sichern Sie sich dann 20 % Rabatt mit dem Code **WEB20** auf [Italien-eSIM-Tarifen](/italy-esim/).
+Ein Profil, vier Netze. Die Italien-eSIM von Roami nutzt TIM, Vodafone, WINDTRE und Iliad und wechselt zwischen ihnen, während Sie das Land durchqueren. Testen Sie die Netze kostenlos mit der kostenlosen Italien-Test-eSIM, und sichern Sie sich dann 20 % Rabatt mit dem Code **WEB20** auf Italien-eSIM-Tarifen.
 
 
 

@@ -1,8 +1,7 @@
 ---
 
-title: "Welcher Mauritius-eSIM-Netzbetreiber? my.t, Emtel oder Chili"
-
-description: "my.t, Emtel oder Chili? Roami vergleicht alle drei Mauritius-eSIM-Netzbetreiber und erklärt die Regel, die günstige Prepaid-Pakete nur für Touristen blockiert."
+title: "Mauritius eSIM: my.t, Emtel oder Chili im Vergleich"
+description: "Mauritius eSIM im Vergleich: my.t, Emtel und Chili nach Netzabdeckung, Touristenpaketen und Passpflicht für Ihre Inselreise."
 image: "img/esim/carriers/mauritius-esim-carrier-guide.jpg"
 
 date: "2026-09-25T02:31:24+00:00"
@@ -42,7 +41,7 @@ Eine Mauritius-eSIM für Besucher enthält nicht mehr die günstigen lokalen Pre
 
 
 
-Wenn die eSIM-Unterstützung Ihres Telefons unbestätigt ist, klärt der [Gerätekompatibilitäts-Checker](/compatibility/) dies zuerst.
+Wenn die eSIM-Unterstützung Ihres Telefons unbestätigt ist, klärt der Gerätekompatibilitäts-Checker dies zuerst.
 
 
 
@@ -50,11 +49,11 @@ Wenn die eSIM-Unterstützung Ihres Telefons unbestätigt ist, klärt der [Gerät
 
 
 
-## Wahl Ihres Netzbetreibers
+## Welches Netz passt zu Ihrer Inselroute
 
 
 
-| Ihre Reise | Bester Netzbetreiber | Warum |
+| Ihre Inselroute | Das passende Netz | Begründung |
 
 |:---|:---|:---|
 
@@ -84,7 +83,7 @@ Wenn die eSIM-Unterstützung Ihres Telefons unbestätigt ist, klärt der [Gerät
 
 
 
-One ein staatlicher Platzhirsch, ein privater Herausforderer und ein günstiger Anbieter — und nur zwei der drei sind auf Rodrigues verfügbar:
+Ein staatlicher Platzhirsch, ein privater Herausforderer und ein günstiger Anbieter — und nur zwei der drei sind auf Rodrigues verfügbar:
 
 
 
@@ -96,7 +95,7 @@ One ein staatlicher Platzhirsch, ein privater Herausforderer und ein günstiger 
 
 | Netzabdeckung | Am größten — im Landesinneren, auf den Ringstraßen und den äußeren Inseln | Hervorragend an der Touristenküste | Dünner außerhalb städtischer Gebiete |
 
-| Rodrigues | Yes, 4G/LTE | Yes, 4G/LTE | **Nein** |
+| Rodrigues | Ja, 4G/LTE | Ja, 4G/LTE | **Nein** |
 
 | Touristen-SIM | 1.500 Rs, unbegrenztes 5G, 30 Tage | 1.500 Rs, unbegrenztes 5G, 30 Tage | Günstigere Pakete, kein passendes Touristenprodukt |
 
@@ -130,11 +129,11 @@ Das bedeutet, dass der Preisvergleich für einen kurzen Aufenthalt nicht mehr �
 
 
 
-Fast jeder Mauritius-Konnektivitätsleitfaden im Internet nennt die Preise für Einwohner — Rs 100 für 15 GB und ähnliche — als könnte ein Besucher einfach hineinspazieren und sie kaufen. Das geht nicht. Three ergeben sich folgende Konsequenzen:
+Fast jeder Mauritius-Konnektivitätsleitfaden im Internet nennt die Preise für Einwohner — Rs 100 für 15 GB und ähnliche — als könnte ein Besucher einfach hineinspazieren und sie kaufen. Das geht nicht. Drei Konsequenzen ergeben sich daraus:
 
 
 
-1. **Die Behauptung „Mauritius hat das günstigste Datenvolumen der Region" gilt jetzt nur noch für Einwohner.** ViBesucher stehen vor einem pauschalen Touristenprodukt für Rs 1.500, was die Preis-Leistungs-Rechnung völlig verändert.
+1. **Die Behauptung „Mauritius hat das günstigste Datenvolumen der Region" gilt jetzt nur noch für Einwohner.** Besucher stehen vor einem pauschalen Touristenprodukt für Rs 1.500, was die Preis-Leistungs-Rechnung völlig verändert.
 
 2. **Die Preise bei Wiederverkäufern sind uneinheitlich.** Manche privaten Wiederverkäufer verkaufen das gleiche Touristenprodukt mit Aufschlag; der Flughafenschalter und die offiziellen Shops nicht.
 
@@ -182,7 +181,7 @@ Chili verkauft günstigere Pakete (zuletzt etwa Rs 700 für eine Stufe mit 200 G
 
 | Preis für eine längere Reise | Rs 1.500 für 30 Tage unlimitierte Daten | In der Regel mehr pro Gigabyte |
 
-| Mauritische Nummer | Yes, mit Rs 200 Gesprächsguthaben | Nein — nur Datentarif |
+| Mauritische Nummer | Ja, mit Rs 200 Gesprächsguthaben | Nein — nur Datentarif |
 
 | Rodrigues | Abgedeckt von my.t und Emtel | Prüfen Sie zunächst die Netzabdeckung in Ihrem Profil |
 
@@ -194,7 +193,7 @@ Chili verkauft günstigere Pakete (zuletzt etwa Rs 700 für eine Stufe mit 200 G
 
 
 
-| Region | Netzabdeckung in der Realität | Bester Netzbetreiber | Worauf Sie achten sollten |
+| Inselregion | Empfang vor Ort | Stärkstes Netz | Praxishinweis |
 
 |:---|:---|:---|:---|
 
@@ -212,7 +211,7 @@ Chili verkauft günstigere Pakete (zuletzt etwa Rs 700 für eine Stufe mit 200 G
 
 | Mahébourg und der Südosten | Gut rund um die Stadt und den Flughafenkorridor | Beliebig | Die wilde Südküste hat lange Funklöcher |
 
-| Rodrigues Island | 4G/LTE versorgt durch my.t und Emtel | my.t | Geschwindigkeiten unterhalb der Hauptinsel; my.t in der Regel stärker |
+| Rodrigues | 4G/LTE versorgt durch my.t und Emtel | my.t | Geschwindigkeiten unterhalb der Hauptinsel; my.t in der Regel stärker |
 
 
 
@@ -220,7 +219,7 @@ Chili verkauft günstigere Pakete (zuletzt etwa Rs 700 für eine Stufe mit 200 G
 
 
 
-Mauritius ist 65 km lang, von einer Küstenstraße umringt und verfügt über ein zentrales Hochplateau sowie einige tiefe Schluchten, die es durchschneiden. Three praktische Muster lassen sich erkennen:
+Mauritius ist 65 km lang, von einer Küstenstraße umringt und verfügt über ein zentrales Hochplateau sowie einige tiefe Schluchten, die es durchschneiden. Drei praktische Muster lassen sich erkennen:
 
 
 
@@ -236,11 +235,11 @@ Zum Marktumfeld: Der [Ookla Global Index](https://www.speedtest.net/global-index
 
 
 
-## Was die Tarife kosten
+## Was Touristen auf Mauritius zahlen
 
 
 
-| Route | Was es braucht | Am besten geeignet für |
+| Etappe | Voraussetzungen | Passend für |
 
 |:---|:---|:---|
 
@@ -252,6 +251,14 @@ Zum Marktumfeld: Der [Ookla Global Index](https://www.speedtest.net/global-index
 
 
 
+### Rechenbeispiel: vier Tage gegen zwei Wochen
+
+
+
+Bei Rs 1.500 für 30 Tage unlimitiertes 5G zahlen Sie rund 30 €, egal ob die Reise vier Tage oder vier Wochen dauert — umgerechnet etwa 7,50 € pro Tag bei vier Tagen, aber nur rund 2,15 € pro Tag bei zwei Wochen. Genau deshalb gewinnt eine passend dimensionierte Reise-eSIM unterhalb von etwa einer Woche: Sie zahlen nur die Tage, die Sie wirklich unterwegs sind. Ab einer Woche kippt die Rechnung — und mit Rs 200 Gesprächsguthaben plus +230-Nummer wird die Touristenkarte zusätzlich für alle attraktiv, die Fahrer, Pensionen oder Katamaran-Skipper direkt anrufen wollen.
+
+
+
 ### Wie viel mobiles Datenvolumen braucht man für Mauritius?
 
 
@@ -260,7 +267,7 @@ Für alles unter einer Woche ist das meist günstiger als die Touristenkarte fü
 
 
 
-1. Prüfen Sie das Telefon zuerst mit dem [eSIM-Kompatibilitätstool](/compatibility/).
+1. Prüfen Sie das Telefon zuerst mit dem eSIM-Kompatibilitätstool.
 
 2. Installieren Sie die eSIM über Ihr heimisches WLAN und geben Sie der Leitung eine Bezeichnung wie „Mauritius-Daten".
 
@@ -304,7 +311,7 @@ Für alles unter einer Woche ist das meist günstiger als die Touristenkarte fü
 
 
 
-## Ist Ihr Telefon eSIM-kompatibel?
+## Gerätecheck vor dem Flug nach Mauritius
 
 
 
@@ -316,7 +323,7 @@ my.t, Emtel und Chili senden auf Standardbändern; eine fehlgeschlagene Installa
 
 
 
-| Gerätesituation | Symptom | Was zu tun ist |
+| Gerätekonstellation | Symptom | Nächster Schritt |
 
 |:---|:---|:---|
 
@@ -332,7 +339,7 @@ my.t, Emtel und Chili senden auf Standardbändern; eine fehlgeschlagene Installa
 
 
 
-### Three Schnellchecks vor Ihrem Flug nach Mauritius
+### Drei Schnellchecks vor Ihrem Flug nach Mauritius
 
 
 
@@ -348,7 +355,7 @@ Jeder einzelne schließt eine ganze Klasse von Problemen aus, und keiner dauert 
 
 
 
-## APN manuell hinzufügen
+## APN-Werte für my.t, Emtel und Chili
 
 
 
@@ -356,7 +363,7 @@ Reise-eSIM-Profile bringen ihren eigenen APN mit – geben Sie nichts ein. Für 
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | Zugangspunkt | Benutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -364,7 +371,7 @@ Reise-eSIM-Profile bringen ihren eigenen APN mit – geben Sie nichts ein. Für 
 
 | Emtel | `web` | leer | leer |
 
-| Chile (MTML) | `internet` | leer | leer |
+| Chili (MTML) | `internet` | leer | leer |
 
 
 
@@ -378,7 +385,7 @@ Die Touristenkarte konfiguriert sich normalerweise selbst; dies sind die Situati
 
 - Sie haben eine lokale Touristenkarte statt einer verwalteten Reise-eSIM gekauft
 
-- Ein Profil, das mit einem manuellen Aktivierungscode statt per QR-Scan installiert wurde
+- Eine Touristenkarte von my.t oder Emtel, die über einen Aktivierungscode statt per QR-Scan eingerichtet wurde
 
 - Ein älteres Handy, das die Netzbetreiber-Einstellungen nicht automatisch geladen hat
 
@@ -416,17 +423,17 @@ Alles hier geschieht über das heimische WLAN, denn der ganze Sinn besteht darin
 
 | 1 | Telefon nicht an einen Netzbetreiber gebunden | Auf der Über-uns-Seite wird unter „SIM-Beschränkungen“ „Keine SIM-Beschränkungen“ angezeigt |
 
-| 2 | Telefon unterstützt eSIM | EID wird angezeigt von `*#06#` |
+| 2 | eSIM-Hardware vorhanden | `*#06#` zeigt eine EID an |
 
-| 3 | QR-Code gespeichert | Screenshot auf dem Telefon und in der Cloud |
+| 3 | QR-Code doppelt gesichert | Kopie im Fotoalbum und im Cloud-Speicher |
 
 | 4 | Profil bereits vor der Abreise installiert | Daten sind direkt an der Fluggastbrücke verfügbar – praktisch, wenn Ihr Anschlussflug bereits wartet |
 
-| 5 | Datenleitung und Roaming eingestellt | eSIM ist die Datenleitung, Roaming eingeschaltet |
+| 5 | Datenleitung und Roaming gesetzt | Das Mauritius-Profil trägt die Daten, Roaming ist an |
 
 | 6 | Rodrigues-Erweiterung | Bestätigen Sie vor der Buchung des Fluges, dass der Tarif tatsächlich Rodrigues einschließt |
 
-| 6 | Wanderplan | Sie wissen, dass die Schluchten keine Netzabdeckung haben, und haben jemandem Ihre Route mitgeteilt |
+| 7 | Wanderplan | Sie wissen, dass die Schluchten keine Netzabdeckung haben, und haben jemandem Ihre Route mitgeteilt |
 
 
 
@@ -450,7 +457,7 @@ Alles hier geschieht über das heimische WLAN, denn der ganze Sinn besteht darin
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Die my.t- oder Emtel-Karte lässt sich nicht installieren**
 
 1. Einstellungen -> Allgemein -> Info -> Netzbetreiber-Sperre: bestätigen Sie „Keine SIM-Beschränkungen“
 
@@ -460,9 +467,9 @@ Alles hier geschieht über das heimische WLAN, denn der ganze Sinn besteht darin
 
 
 
-**B. Installiert, aber keine Empfangsbalken**
+**B. Profil installiert, doch die Balken fehlen**
 
-1. Schalten Sie die eSIM-Leitung aus und wieder ein
+1. Deaktivieren Sie die Mauritius-Leitung kurz und schalten Sie sie wieder ein
 
 2. Einstellungen → Mobilfunk → Netzwahl → my.t oder Emtel manuell auswählen
 
@@ -470,7 +477,7 @@ Alles hier geschieht über das heimische WLAN, denn der ganze Sinn besteht darin
 
 
 
-**C. Empfangsbalken, aber kein Internet**
+**C. Balken von my.t, aber keine Datensitzung**
 
 1. Die richtige APN finden Sie in der Tabelle oben – prüfen Sie Ihre Einstellungen
 
@@ -506,19 +513,19 @@ Halten Sie diese Angaben zuerst bereit – ob Sie sich auf der Hauptinsel oder a
 
 | Bestellnummer | Bestätigungs-E-Mail |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Gerätemodell und OS-Stand | iOS: Einstellungen → Allgemein → Info; Android: Einstellungen → Über das Telefon |
 
 | EID | Wählen `*#06#` |
 
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Aufnehmen, solange der Dialog geöffnet ist |
 
 | Auf welcher Insel Sie sich befinden | Die Netzabdeckung auf Rodrigues ist eine andere Frage als auf der Hauptinsel |
 
-| Datenroaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
+| Roaming-Status der Datenleitung | iOS: Einstellungen → Mobilfunk → Mauritius-Leitung; Android: SIM-Manager → Roaming |
 
 
 
-## Rodrigues-Netzabdeckung: ein separater Tarif zu Ihrem Mauritius-eSIM
+## Rodrigues: ein eigenes Kapitel neben Ihrer Mauritius-eSIM
 
 
 
@@ -554,7 +561,7 @@ Da Besucher auf der Hauptinsel keine Residententarife kaufen können, gilt diese
 
 
 
-Three Orte, die Sie einkalkulieren sollten, sortiert danach, wie oft sie Reisende unvorbereitet treffen:
+Drei Orte, die Sie einkalkulieren sollten, sortiert danach, wie oft sie Reisende unvorbereitet treffen:
 
 
 
@@ -574,7 +581,7 @@ Three Orte, die Sie einkalkulieren sollten, sortiert danach, wie oft sie Reisend
 
 
 
-Nein — die günstigen Residenten-Prepaid-Tarife erfordern einen mauritischen Ausweis und eine Adressbestätigung, eine Regel, die an den Schaltern zuletzt im Februar 2026 bestätigt wurde. Viucher kaufen die spezielle Touristen-SIM (Rs 1.500, unlimitiertes 5G, 30 Tage) oder eine online erworbene Reise-eSIM.
+Die günstigen Residenten-Prepaid-Tarife erfordern einen mauritischen Ausweis und eine Adressbestätigung, eine Regel, die an den Schaltern zuletzt im Februar 2026 bestätigt wurde. Besucher kaufen die spezielle Touristen-SIM (Rs 1.500, unlimitiertes 5G, 30 Tage) oder eine online erworbene Reise-eSIM.
 
 
 
@@ -590,7 +597,7 @@ Nein — die my.t- und Emtel-Schalter am SSR International verlangen denselben P
 
 
 
-Yes — die Reisepass-Registrierung ist obligatorisch, und Online-Vorbestellungen verlangen ein Passfoto und Ihre Aufenthaltsadresse. Da der Anbieter zuerst registriert, entfällt bei Online-Reise-eSIMs der Schalterbesuch.
+Ja — die Reisepass-Registrierung ist obligatorisch, und Online-Vorbestellungen verlangen ein Passfoto und Ihre Aufenthaltsadresse. Da der Anbieter zuerst registriert, entfällt bei Online-Reise-eSIMs der Schalterbesuch.
 
 
 
@@ -614,11 +621,11 @@ Gehen Sie davon aus: nein. Das Parkinnere und die Wege zu den Wasserfällen sind
 
 
 
-Yes — Tethering ist auf den Touristenkarten beider großer Anbieter erlaubt, und das unlimitierte Volumen macht es für Laptops und Tablets praktikabel. Beide Netzbetreiber behandeln dies als normales Handyverhalten, ein Zusatzpaket ist nicht nötig.
+Ja — Tethering ist auf den Touristenkarten beider großer Anbieter erlaubt, und das unlimitierte Volumen macht es für Laptops und Tablets praktikabel. Beide Netzbetreiber behandeln dies als normales Handyverhalten, ein Zusatzpaket ist nicht nötig.
 
 
 
-### Der passende Mauritius-Netzbetreiber für Ihre Route
+### Wie viele GB braucht man auf Mauritius?
 
 
 
@@ -630,7 +637,7 @@ Yes — Tethering ist auf den Touristenkarten beider großer Anbieter erlaubt, u
 
 
 
-Yes — in Port Louis, Quatre Bornes, Grand Baie und den Haupttouristenzonen, sowohl von my.t als auch von Emtel. Das Inselinnere und Rodrigues sind 4G-Gebiet, was für Karten und das Teilen von Fotos völlig ausreicht.
+In Port Louis, Quatre Bornes, Grand Baie und den Haupttouristenzonen liefern sowohl my.t als auch Emtel 5G. Das Inselinnere und Rodrigues sind 4G-Gebiet, was für Karten und das Teilen von Fotos völlig ausreicht.
 
 
 
@@ -642,7 +649,7 @@ Die Mobilfunknetze sind besser, als die Festnetzwerte vermuten lassen. [Ookla's 
 
 
 
-### Preiswerte Optionen unter den Mauritius-Tarifen
+### Warum tauchen in Artikeln günstige Mauritius-Preise auf, die Touristen nicht bekommen?
 
 
 
@@ -650,7 +657,7 @@ Denn dort werden die Residenten-Prepaid-Tarife genannt — Rs 100 für 15 GB und
 
 
 
-### Die Kosten von Mauritius-eSIM-Tarifen
+### Kostet die Touristen-SIM am Flughafen Mauritius mehr?
 
 
 
@@ -662,7 +669,7 @@ Beides — der Preis ist identisch, was selten vorkommt. Kaufen Sie am Flughafen
 
 
 
-Nicht mit den lokalen Tarifen, da diese reine Inlandprodukte sind. Falls Ihre Route weiter nach Südafrika, auf die Malediven, nach Réunion oder auf eine Safari-Runde führt, kalkulieren Sie besser einen Regional- oder Mehrländer-Tarif, statt mehrere Einzelprofile zu stapeln — unser [Südafrika-eSIM-Leitfaden](/carriers/south-africa-esim-carrier-guide/) behandelt das häufigste nächste Ziel.
+Nicht mit den lokalen Tarifen, da diese reine Inlandprodukte sind. Falls Ihre Route weiter nach Südafrika, auf die Malediven, nach Réunion oder auf eine Safari-Runde führt, kalkulieren Sie besser einen Regional- oder Mehrländer-Tarif, statt mehrere Einzelprofile zu stapeln — der häufigste Zielmarkt Südafrika wird weiter unten verlinkt.
 
 
 
@@ -690,7 +697,7 @@ Für einen Aufenthalt von zwei Wochen oder mehr mit unlimitiertem 5G: ja — sie
 
 
 
-Weitere Fragen? [Zur FAQ](/faq/)
+Weitere Fragen zu Ihrer Inselkarte? [Zur FAQ](/faq/)
 
 
 
@@ -698,7 +705,7 @@ Weitere Fragen? [Zur FAQ](/faq/)
 
 
 
-Die klassische Mauritius-Reise endet selten dort. Wenn Ihre Route weitergeht, gibt es dieselben Analysen auf Netzbetreiber-Ebene für unseren [Südafrika-eSIM-Leitfaden](/carriers/south-africa-esim-carrier-guide/), die [Malediven-eSIM-Seite](/maldives-esim/) und unseren [Kenia-eSIM-Netzbetreiber-Leitfaden](/carriers/kenya-esim-carrier-guide/) — und ein Mehrländer-Tarif ist in der Regel günstiger als drei separate Profile, wenn Sie eine Indischer-Ozean-Rundreise oder Safari-Schleife zusammensetzen.
+Die klassische Mauritius-Reise endet selten dort. Wenn Ihre Route weitergeht, gibt es dieselben Analysen auf Netzbetreiber-Ebene für unseren Ratgeber zu Südafrika, die [Malediven-eSIM-Seite](/maldives-esim/) und unseren [Kenia-eSIM-Netzbetreiber-Leitfaden](/carriers/kenya-esim-carrier-guide/) — und ein Mehrländer-Tarif ist in der Regel günstiger als drei separate Profile, wenn Sie eine Indischer-Ozean-Rundreise oder Safari-Schleife zusammensetzen.
 
 
 
@@ -727,11 +734,11 @@ Jede Zahl ist eine unabhängige Drittquellenmessung. In der Hochsaison ist es di
 
 
 ## Den passenden Mauritius-Datentarif dimensionieren
-Bestellen Sie vor der Reise, installieren Sie im heimischen WLAN, und verlassen Sie den Ankunftsbereich mit my.t oder Emtel, ohne sich an eine Schalter-Warteschlange anzustellen. Eine [Test-eSIM anfordern](/free-esim/) deckt die ersten Schritte ab, und passende Tarife finden Sie auf der [Mauritius-eSIM-Seite](/mauritius-esim/). Geht es weiter aufs Festland? Unser [Südafrika-eSIM-Leitfaden](/carriers/south-africa-esim-carrier-guide/) behandelt das nächste Netz, das Sie antreffen werden.
+Bestellen Sie vor der Reise, installieren Sie im heimischen WLAN, und verlassen Sie den Ankunftsbereich mit my.t oder Emtel, ohne sich an eine Schalter-Warteschlange anzustellen. Eine Test-eSIM anzufordern deckt die ersten Schritte ab, und passende Tarife finden Sie auf der Mauritius-eSIM-Seite. Geht es weiter aufs Festland? Unser [Ratgeber zu Südafrika](/carriers/south-africa-esim-carrier-guide/) behandelt das nächste Netz, das Sie antreffen werden.
 
 
 
-[Mauritius-Tarif wählen](/mauritius-esim/) · [Kostenlosen Test sichern](/free-esim/) · [Mauritius-eSIM-Seite](/mauritius-esim/)
+[Mauritius-Tarif wählen](/mauritius-esim/) · [Kostenlosen Test sichern](/free-esim/) · Tarifvergleich weiter oben auf dieser Seite
 
 
 

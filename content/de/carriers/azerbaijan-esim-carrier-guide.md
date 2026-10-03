@@ -16,7 +16,7 @@ hero_subtitle_main: "Azercell, Bakcell und Nar – bewertet nach tatsächlicher 
 ---
 
 
-Die meisten Seiten zur Frage „welche Aserbaidschan-eSIM funktioniert hier“ gehen davon aus, dass nur der Preis zählt. Das stimmt nicht. In Aserbaidschan ist die erste Überraschung die **Registrierung**: Wer ein Telefon aus dem Ausland mitbringt und eine lokale SIM-Karte einlegt, muss das Gerät selbst innerhalb von 30 Tagen in der nationalen IMEI-Datenbank registrieren lassen, sonst wird es in allen aserbaidschanischen Netzen gesperrt. Eine Reise-eSIM, die keine lokale Nummer ausgibt, umgeht das vollständig. Die eigentliche Frage dieses Guides lautet daher: **Auf welchem Netz sollte Ihre Aserbaidschan eSIM laufen – und möchten Sie überhaupt eine lokale SIM?** Die drei Netze sind nicht gleichwertig: Azercell erreicht die Ausläufer des Kaukasus, Bakcell ist die günstige Wahl für die Stadt, und Nar ist die Budget-Alternative.
+Die meisten Seiten zur Frage „welche Aserbaidschan-eSIM funktioniert hier“ gehen davon aus, dass nur der Preis zählt. Das stimmt nicht. In Aserbaidschan ist die erste Überraschung die **Registrierung**: Wer ein Telefon aus dem Ausland mitbringt und eine lokale SIM-Karte einlegt, muss das Gerät selbst innerhalb von 30 Tagen in der nationalen IMEI-Datenbank registrieren lassen, sonst wird es in allen aserbaidschanischen Netzen gesperrt. Eine Reise-SIM, die keine lokale Nummer ausgibt, umgeht das vollständig. Die eigentliche Frage dieses Guides lautet daher: **Auf welchem Netz sollte Ihre Aserbaidschan eSIM laufen – und möchten Sie überhaupt eine lokale SIM?** Die drei Netze sind nicht gleichwertig: Azercell erreicht die Ausläufer des Kaukasus, Bakcell ist die günstige Wahl für die Stadt, und Nar ist die Budget-Alternative.
 
 Sie sind sich nicht sicher, ob Ihr Gerät überhaupt eSIM-fähig ist? Der [eSIM-Kompatibilitätscheck](/compatibility/) klärt das in unter einer Minute, und der Artikel zur [eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) beschreibt, was beim Herunterladen eines Profils passiert. Danach übernehmen die Netze selbst das Wort.
 
@@ -28,7 +28,7 @@ Aserbaidschan betreibt eine nationale IMEI-Datenbank (imei.az / my.gov.az). Die 
 
 - Die Frist beginnt, sobald eine **lokale SIM zum ersten Mal** in Ihrem Telefon eine Verbindung herstellt. Sie haben dann **30 Tage** Zeit, das Gerät zu registrieren und eine staatliche Gebühr zu zahlen (je nach Wert des Telefons etwa 30–100 AZN).
 - Andernfalls wird das Telefon **für alle aserbaidschanischen SIM-Karten gesperrt** – nicht nur für die gekaufte.
-- Der Auslöser ist eine **lokale SIM**, nicht die Dauer Ihres Aufenthalts. Eine ausländische SIM im Roaming startet die Frist **nicht**. Ebenso wenig eine **reine Daten-Reise-eSIM**, die keine aserbaidschanische Nummer ausgibt.
+- Der Auslöser ist eine **lokale SIM**, nicht die Dauer Ihres Aufenthalts. Eine ausländische SIM im Roaming startet die Frist **nicht**. Ebenso wenig eine **reine Daten-Reise-SIM**, die keine aserbaidschanische Nummer ausgibt.
 - Die Registrierung erfolgt in ASAN-Service-Centern oder online mit BankID; Sie benötigen den Reisepass und die IMEI (`*#06#` wählen).
 
 Bei Aufenthalten unter 30 Tagen pro Reise trifft das selten. Bei längeren Aufenthalten, Dual-SIM-Nutzern oder beim Import von Geräten ist es ein echter Kostenfaktor. Eine Aserbaidschan eSIM, die keine lokale Nummer ausgibt, ist die saubere Lösung, um online zu bleiben, ohne den IMEI-Prozess anzustoßen.
@@ -42,11 +42,11 @@ Bei Aufenthalten unter 30 Tagen pro Reise trifft das selten. Bei längeren Aufen
 | Marktposition | Größter Netzbetreiber, ~45 % Marktanteil | Größter privater Netzbetreiber | Preiswerter Herausforderer, ~20 % Marktanteil |
 | Stärke der Netzabdeckung | Landesweit; am besten in Bergen und ländlichen Gebieten | Stark in Baku und Städten | Gut in Städten, schwächer in abgelegenen Gebieten |
 | 5G | In Zentral-Baku verfügbar | 4G/5G in städtischen Zentren | 4G-Fokus |
-| Prepaid eSIM für Besucher | Über Reise-eSIMs in seinem Netz | Direkt auf der Bakcell-Website verkauft | Über Reise-eSIMs; einige lokale eSIM |
+| Prepaid eSIM für Besucher | Über Reise-SIMs in seinem Netz | Direkt auf der Bakcell-Website verkauft | Über Reise-SIMs; einige lokale eSIM |
 | Typische touristische Prepaid-Option | Flughafenpaket ~10 GB + 20 Min. ≈ 17 AZN (ca. 10 $) | 11 GB ≈ 15 AZN/Monat, SIM kostenlos | Willkommenspaket 6 GB ≈ 10 AZN; 40/70/130 GB Touristentarife ab 34 AZN |
 | Für wen geeignet | Roadtrips, regionale Reisen, Zuverlässigkeit | Städtereisen, bestes Preis-Leistungs-Verhältnis für Datenvolumen in Baku | Enge Budgets, vor allem Aufenthalte in der Stadt |
 
-Azercell ist die sichere Standardwahl für eine eSIM in Aserbaidschan: Es ist der Netzbetreiber, auf den die offiziellen Netzabdeckungskarten des Landes sowie die meisten Reise-eSIMs standardmäßig zurückgreifen. Bakcell ist der einzige lokale Netzbetreiber, der eSIM offen online an Prepaid-Kunden verkauft. Nar punktet mit dem Preis, ist aber außerhalb der Städte am schwächsten.
+Azercell ist die sichere Standardwahl für eine eSIM in Aserbaidschan: Es ist der Netzbetreiber, auf den die offiziellen Netzabdeckungskarten des Landes sowie die meisten Reise-SIMs standardmäßig zurückgreifen. Bakcell ist der einzige lokale Netzbetreiber, der eSIM offen online an Prepaid-Kunden verkauft. Nar punktet mit dem Preis, ist aber außerhalb der Städte am schwächsten.
 
 ## Welcher Tarif bietet das beste Preis-Leistungs-Verhältnis?
 
@@ -54,7 +54,7 @@ Die Tabelle oben zeigt das Wesentliche auf einen Blick. Im Folgenden finden Sie 
 
 ### Netzabdeckung auf dem Land mit Azercell und Bakcell
 
-Azercell ist der frühere staatliche Monopolist und nach wie vor der Netzbetreiber, auf den die offiziellen Netzabdeckungskarten des Landes sowie die meisten Reise-eSIMs standardmäßig zurückgreifen. Der Anbieter gibt eine Bevölkerungsabdeckung von 99,8 % an und ist der einzige der drei Netzbetreiber, bei dem Reisende laut Berichten auf den Bergstraßen nach Şəki, Qəbələ, Quba und Göygöl durchgängig Empfang haben. Außerdem ist er in der Exklave Nachitschewan tätig, die als aserbaidschanisches Staatsgebiet vom Rest des Landes getrennt ist.
+Azercell ist der frühere staatliche Monopolist und nach wie vor der Netzbetreiber, auf den die offiziellen Netzabdeckungskarten des Landes sowie die meisten Reise-SIMs standardmäßig zurückgreifen. Der Anbieter gibt eine Bevölkerungsabdeckung von 99,8 % an und ist der einzige der drei Netzbetreiber, bei dem Reisende laut Berichten auf den Bergstraßen nach Şəki, Qəbələ, Quba und Göygöl durchgängig Empfang haben. Außerdem ist er in der Exklave Nachitschewan tätig, die als aserbaidschanisches Staatsgebiet vom Rest des Landes getrennt ist.
 
 **Azercell Touristen-Prepaid-Pakete (30 Tage gültig, in AZN):**
 
@@ -68,10 +68,10 @@ Azercell ist der frühere staatliche Monopolist und nach wie vor der Netzbetreib
 
 **So kauft ein Besucher Azercell:**
 1. Am Flughafen Heydar Aliyev (GYD) in der Ankunftshalle von Terminal 1 oder in einem beliebigen Azercell-Shop in der Stadt — legen Sie Ihren **Reisepass** vor; die SIM ist an Sie gebunden.
-2. Oder nutzen Sie Azercell über eine **Reise-eSIM** — kein Reisepass, keine IMEI-Sperre, Installation vor dem Flug.
+2. Oder nutzen Sie Azercell über eine **Reise-SIM** — kein Reisepass, keine IMEI-Sperre, Installation vor dem Flug.
 3. Aufladen über die Azercell-App, *777#-Menüs oder Rubbellose an Kiosken (AZN-Bargeld bereithalten; ausländische Karten werden an kleinen Verkaufsstellen oft abgelehnt).
 
-**Besonderheit:** Die eigene Prepaid-eSIM von Azercell ist kein einfaches Self-Service-Produkt für Touristen; die meisten Besucher greifen über eine Reise-eSIM darauf zu, nicht über einen direkten Azercell-QR. Der APN wird per leerer SMS an **9595** übermittelt.
+**Besonderheit:** Die eigene Prepaid-eSIM von Azercell ist kein einfaches Self-Service-Produkt für Touristen; die meisten Besucher greifen über ein Reise-SIM darauf zu, nicht über einen direkten Azercell-QR. Der APN wird per leerer SMS an **9595** übermittelt.
 
 ### Bakcell für Stadt und Budget
 
@@ -86,7 +86,7 @@ Bakcell ist der größte private Netzbetreiber und die einzige lokale Marke, die
 | TravelSIM 75 | 120 GB | 150 Min landesweit + 70 Min international | 75 AZN | ~44 $ |
 
 **Wie ein Besucher eine Bakcell eSIM kauft:**
-1. Rufen Sie die Bakcell-Website auf und wählen Sie ein [TravelSIM-Paket](http://bakcell.az/en/travelsim) aus.
+1. Rufen Sie die Bakcell-Website auf und wählen Sie ein [TravelSIM-Paket](https://bakcell.az/en/travelsim) aus.
 2. Wählen Sie an der Kasse **eSIM** aus (eine physische SIM-Karte ist stattdessen mit einer einmaligen Gebühr verbunden).
 3. Bezahlen Sie auf der Website mit einer internationalen Karte.
 4. Scannen Sie den QR-Code zur Aktivierung – kein Ladenbesuch, kein Pass-Scan am Schalter erforderlich, obwohl der zugrundeliegende Anschluss weiterhin auf Ihren Pass registriert ist.
@@ -109,7 +109,7 @@ Nar ist die Herausforderer-Marke und in den Städten die günstigste der drei Ne
 **Wie ein Besucher Nar kauft:**
 1. Besuchen Sie einen Nar-Laden und legen Sie den **Reisepass** vor, der auch bei der Einreise verwendet wurde.
 2. Wählen Sie ein TouristSIM-Paket; es aktiviert sich und bleibt 30 Tage gültig, danach wird die SIM automatisch deaktiviert.
-3. Oder nutzen Sie Nar über eine Reise-eSIM, wenn Sie keinen Reisepass-Schritt möchten.
+3. Oder nutzen Sie Nar über ein Reise-SIM, wenn Sie keinen Reisepass-Schritt möchten.
 
 **Besonderheit:** Die „Split“-Datenmenge bedeutet, dass ein Teil des Datenvolumens ausschließlich für Social-Media-Apps (Instagram, TikTok usw.) reserviert ist, sodass das für alles nutzbare Kontingent kleiner ausfällt als die angegebene Zahl. Eine Nacht-Daten-Aktion (*gece* an die 777) bietet 1 AZN unbegrenzt von 00:00–08:00, nützlich für Downloads im Hotel.
 
@@ -119,31 +119,31 @@ Alle drei erfordern einen **Reisepass** für die Prepaid-Registrierung – es gi
 
 | Netzbetreiber | Wo kaufen | Ausweis erforderlich | eSIM für Ausländer | Bezahlprobleme |
 |:---|:---|:---|:---|:---|
-| Azercell | Ankunftshalle Flughafen T1, Stadtläden, Online-Touristenpakete | Reisepass | Reise-eSIMs; lokale eSIM für Touristen weniger verbreitet | Karte wird häufig akzeptiert; Bargeld an Kiosken sicherer |
+| Azercell | Ankunftshalle Flughafen T1, Stadtläden, Online-Touristenpakete | Reisepass | Reise-SIMs; lokale eSIM für Touristen weniger verbreitet | Karte wird häufig akzeptiert; Bargeld an Kiosken sicherer |
 | Bakcell | Flughafen T1, Stadtläden, **Bakcell Website** | Reisepass | **Ja — eSIM beim Checkout auswählen, zum Aktivieren scannen** | Karte auf der Website; Bargeld an den Kiosken |
-| Nar | Flughafen T1, Geschäfte in der Stadt | Reisepass | Via Reise-eSIMs | Karte / Bargeld |
+| Nar | Flughafen T1, Geschäfte in der Stadt | Reisepass | Via Reise-SIMs | Karte / Bargeld |
 
-Am **Flughafen Heydar Aliyev (GYD)** finden Sie im Erdgeschoss der Ankunftshalle von Terminal 1 Kioske von Azercell, Bakcell und Nar, wie dieser [GYD-Flughafen-SIM-Guide](https://www.yourlayoverguide.com/sim-card-at-baku-heydar-aliyev-airport-gyd) zeigt. Die Preise am Flughafen sind höher als in den Stadtgeschäften, daher empfiehlt es sich, dort nur einen kleinen Startertarif zu kaufen und diesen bei einem längeren Aufenthalt in der Stadt aufzuladen – oder noch vor dem Flug eine Reise-eSIM zu installieren und die Warteschlange komplett zu umgehen. Vermeiden Sie Straßenhändler, die „Touristen-SIMs“ anbieten – inoffizielle Karten können überteuert oder nicht registriert sein.
+Am **Flughafen Heydar Aliyev (GYD)** finden Sie im Erdgeschoss der Ankunftshalle von Terminal 1 Kioske von Azercell, Bakcell und Nar, wie dieser [GYD-Flughafen-SIM-Guide](https://www.yourlayoverguide.com/sim-card-at-baku-heydar-aliyev-airport-gyd) zeigt. Die Preise am Flughafen sind höher als in den Stadtgeschäften, daher empfiehlt es sich, dort nur einen kleinen Startertarif zu kaufen und diesen bei einem längeren Aufenthalt in der Stadt aufzuladen – oder noch vor dem Flug ein Reise-SIM zu installieren und die Warteschlange komplett zu umgehen. Vermeiden Sie Straßenhändler, die „Touristen-SIMs“ anbieten – inoffizielle Karten können überteuert oder nicht registriert sein.
 
 An kleinen Aufladestationen werden ausländische Karten häufig abgelehnt. Halten Sie daher etwas **aserbaidschanische Manat (AZN)** in bar für Aufladungen bereit. Beachten Sie die Warnung für Grenzgebiete: In der Nähe der Nordgrenze kann sich Ihr Telefon in das Netz des Nachbarlandes einwählen und Roaming-Gebühren verursachen – schalten Sie dort die automatische Netzwahl aus.
 
 ## Was Sie vor dem Kauf bereithalten sollten
 
-Diese Checkliste gilt sowohl für den Kauf einer Aserbaidschan-eSIM als auch für eine lokale SIM – die linke Spalte zeigt, was beim Kauf vor Ort erforderlich ist, die rechte, was eine Reise-eSIM überflüssig macht.
+Diese Checkliste gilt sowohl für den Kauf einer Aserbaidschan-eSIM als auch für eine lokale SIM – die linke Spalte zeigt, was beim Kauf vor Ort erforderlich ist, die rechte, was ein Reise-SIM überflüssig macht.
 
-| Punkt | Warum es wichtig ist | Lokale SIM-Karte | Reise-eSIM |
+| Punkt | Warum es wichtig ist | Lokale SIM-Karte | Reise-SIM |
 |:---|:---|:---|:---|
 | **IMEI** (`*#06#`) | Geräte-ID; nur erforderlich, wenn eine lokale SIM länger als 30 Tage genutzt wird | Für die IMEI-Registrierung nach Tag 30 erforderlich | Nicht erforderlich |
 | **EID** (`*#06#`) | eSIM-Chip-Kennung für die Profilinstallation | Erforderlich, wenn Sie eine lokale eSIM nutzen | Erforderlich |
 | **Reisepass** | Obligatorischer Ausweis für jede lokale Prepaid-Leitung | Erforderlich an der Verkaufsstelle | Nicht erforderlich an der Verkaufsstelle |
 | **Entsperrtes Telefon** | Eine Netzbetreiber-Sperre blockiert jede eSIM-Installation | Erforderlich | Erforderlich |
 | **AZN-Bargeld** | Fremde Karten werden an vielen Kiosken und Aufladestationen abgelehnt | Bewahren Sie Manat für Aufladungen auf | Nicht erforderlich |
-| **Wi-Fi** | Reise-eSIM zu Hause installieren, nicht im überlasteten GYD-WLAN | N/A (im Geschäft) | Vor der Abreise installieren |
+| **Wi-Fi** | Reise-SIM zu Hause installieren, nicht im überlasteten GYD-WLAN | N/A (im Geschäft) | Vor der Abreise installieren |
 | **VPN (optional)** | Öffentliches WLAN in Cafés ist für Karten geeignet, nicht für Bankgeschäfte | Optional | Optional |
 
-Den einen Punkt, den eine Reise-eSIM **nicht** beseitigt, ist die Prüfung auf ein entsperrtes Handy – ein netzbetreiber-gebundenes Gerät kann keine eSIM installieren. Prüfen Sie dies einmal unter Einstellungen → Über, wo das Sperrfeld ein entsperrtes Handy anzeigen sollte und nicht den Namen eines Netzbetreibers.
+Den einen Punkt, den ein Reise-SIM **nicht** beseitigt, ist die Prüfung auf ein entsperrtes Handy – ein netzbetreiber-gebundenes Gerät kann keine eSIM installieren. Prüfen Sie dies einmal unter Einstellungen → Über, wo das Sperrfeld ein entsperrtes Handy anzeigen sollte und nicht den Namen eines Netzbetreibers.
 
-## Netzabdeckung Region für Region
+## Netzabdeckung von Region zu Region in Aserbaidschan
 
 Die Netzabdeckung ist in Baku stark und in den Bergen dünn. Planen Sie entsprechend der Orte, die Sie tatsächlich besuchen.
 
@@ -178,7 +178,7 @@ Das ist die mit Abstand am häufigsten falsch verstandene Tatsache über Aserbai
 
 **Praktische Auswirkung auf Ihre eSIM:** Da Sie nicht mit dem Auto einreisen können, muss Ihre Aserbaidschan-eSIM nur das Land selbst abdecken (plus Nachitschewan, falls Sie dorthin fliegen). Für die Weiterreise nach Georgien ist eine [eSIM für Georgien](/georgia-esim/) oder ein regionaler Kaukasus-Tarif der richtige zweite Kauf — Ihr Aserbaidschan-Tarif wird in Tiflis nicht roamen.
 
-## Geschwindigkeiten nach Netzbetreiber
+## Geschwindigkeiten der einzelnen Netzbetreiber
 
 Laut [dem Speedtest Global Index von Ookla für August 2026](https://www.speedtest.net/global-index/azerbaijan) liegt Aserbaidschan **weltweit auf Platz 47** beim mobilen Download, mit einem Median von **99,13 Mbps** und 17 ms Latenz. Der globale Median lag in diesem Monat bei 109,05 Mbps — Aserbaidschan liegt also knapp unter dem typischen Marktniveau.
 
@@ -188,7 +188,7 @@ Für den Marktkontext: [DataReportal berichtet von 9,23 Millionen Internetnutzer
 
 Aserbaidschan veröffentlicht keinen eigenen Speedtest-Konnektivitätsbericht pro Netzbetreiber, daher werden die Geschwindigkeiten der Betreiber hier qualitativ beschrieben statt mit erfundenen Zahlen. Die obige Reihenfolge — Azercell mit der größten Netzabdeckung, Bakcell am stärksten in den Städten, Nar am günstigsten — stützt sich auf die Netzabdeckungsangaben der Betreiber und unabhängige Reisetests.
 
-## Welcher Netzbetreiber passt zu Ihrer Reise?
+## Welcher Netzbetreiber passt zu welcher Reiseart?
 
 **Welcher Netzbetreiber zu welcher Reise passt:**
 
@@ -202,13 +202,13 @@ Aserbaidschan veröffentlicht keinen eigenen Speedtest-Konnektivitätsbericht pr
 | Baku–Tiflis Weiterreise-Etappe | Eine separate Georgien-eSIM | Landausreise erlaubt, aber der AZ-Tarif funktioniert nicht im Roaming | Erwerben Sie die [Georgien-eSIM](/georgia-esim/) für die nächste Etappe |
 | Strenges Budget, nur Städte | Nar | Niedrigste Pro-GB-Kosten in der Stadt | Geringe Netzabdeckung außerhalb städtischer Gebiete |
 | Geschäftsreise, Sie benötigen eine lokale Rufnummer | Azercell oder Bakcell | Echte AZ-Rufnummer, Sprache + Daten | Löst die 30-tägige IMEI-Regel aus |
-| Kurzaufenthalt, kein Papierkram | Eine Reise-eSIM auf Azercell/Bakcell | Keine Passregistrierung, keine IMEI-Sperre | Nur Daten – keine lokalen Anrufe/SMS |
+| Kurzaufenthalt, kein Papierkram | Eine Reise-SIM auf Azercell/Bakcell | Keine Passregistrierung, keine IMEI-Sperre | Nur Daten – keine lokalen Anrufe/SMS |
 
 ## APN-Werte der drei Netze
 
 Sie benötigen diese nur, wenn Sie eine lokale SIM- oder eSIM direkt von einem aserbaidschanischen Netzbetreiber erworben haben. Eine als Reise-Produkt verkaufte aserbaidschanische eSIM liefert ihren eigenen APN mit – ändern Sie diesen nicht.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Anbieter | Zugangspunkt | Nutzerkennung | Kennwort |
 |:---|:---|:---|:---|
 | Azercell | `internet` | Leerzeichen | Leerzeichen |
 | Bakcell | `internet.bakcell.com` | Leerzeichen | Leerzeichen |
@@ -216,10 +216,10 @@ Sie benötigen diese nur, wenn Sie eine lokale SIM- oder eSIM direkt von einem a
 
 Wenn die automatische Konfiguration nicht einging, fügen Sie den APN manuell hinzu:
 
-- **iPhone:** tragen Sie ihn unter Einstellungen → Mobilfunk → Ihre eSIM-Leitung → Mobilfunkdaten-Netz ein
+- **iPhone:** tragen Sie ihn unter Einstellungen → Mobilfunk → Ihre Datenleitung → Mobilfunkdaten-Netz ein
 - **Android:** fügen Sie einen neuen Eintrag unter Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunkte hinzu
 
-Speichern Sie und starten Sie das Gerät neu, und legen Sie dann die mobilen Daten auf die eSIM-Leitung statt auf Ihre Heim-SIM. Azercell sendet die Einstellungen zudem per leerer SMS an **9595**, laut der [Internet-Supportseite von Azercell](https://www.azercell.com/en/personal/support/internet/what-do-i-do-if-my-internet-access-is-disrupted.html).
+Speichern Sie und starten Sie das Gerät neu, und legen Sie dann die mobilen Daten auf die Datenleitung statt auf Ihre Heim-SIM. Azercell sendet die Einstellungen zudem per leerer SMS an **9595**, laut der [Internet-Supportseite von Azercell](https://www.azercell.com/en/personal/support/internet/what-do-i-do-if-my-internet-access-is-disrupted.html).
 
 ## Typische eSIM-Fehler vor Ort in Aserbaidschan
 
@@ -227,11 +227,11 @@ Die meisten eSIM-Probleme sind nicht landesspezifisch. Ein QR, der mit „bereit
 
 ### Eine Leitung vor dem Flug richtig einrichten
 
-Zwei Gewohnheiten verhindern die meisten Probleme, bevor sie entstehen. Installieren Sie das Profil über Ihr **heimisches WLAN**, nicht am GYD – das Netz in der Ankunftshalle ist genau dann am stärksten ausgelastet, wenn Ihr Flug landet. Und klären Sie vorab, ob Sie eine **lokale SIM** (Reisepass am Schalter, plus IMEI-Gebühr nach 30 Tagen) oder eine **Reise-eSIM** (keines von beiden) kaufen. Führen Sie in beiden Fällen die Standardreihenfolge einmal durch: eSIM hinzufügen, scannen, Leitung benennen, mobile Daten zuweisen, Roaming aktivieren. Eine lokale Leitung kann nur in Anwesenheit des Passinhabers registriert werden, daher kann man sie nicht für jemand anderen erwerben.
+Zwei Gewohnheiten verhindern die meisten Probleme, bevor sie entstehen. Installieren Sie das Profil über Ihr **heimisches WLAN**, nicht am GYD – das Netz in der Ankunftshalle ist genau dann am stärksten ausgelastet, wenn Ihr Flug landet. Und klären Sie vorab, ob Sie eine **lokale SIM** (Reisepass am Schalter, plus IMEI-Gebühr nach 30 Tagen) oder eine **Reise-SIM** (keines von beiden) kaufen. Führen Sie in beiden Fällen die Standardreihenfolge einmal durch: eSIM hinzufügen, scannen, Leitung benennen, mobile Daten zuweisen, Roaming aktivieren. Eine lokale Leitung kann nur in Anwesenheit des Passinhabers registriert werden, daher kann man sie nicht für jemand anderen erwerben.
 
 ### Warum Ihr Telefon in allen Netzen gesperrt wird
 
-Hier greift die 30-Tage-IMEI-Regel, kein Netzausfall. Wenn Sie eine aserbaidschanische SIM eingesetzt und das Telefon nie in der nationalen Datenbank angemeldet haben, trifft die Sperre jedes lokale Netz gleichzeitig – Azercell, Bakcell und Nar gleichermaßen, einschließlich der Leitung, die Sie gekauft haben. Registrieren Sie sich in einem ASAN-Servicezentrum oder über my.gov.az mit Reisepass und IMEI (`*#06#`), zahlen Sie die staatliche Gebühr, und der Dienst wird wiederhergestellt. Eine Reise-eSIM, die keine aserbaidschanische Nummer vergibt, startet diese Frist nicht, weshalb Langzeitbesucher auf eine solche umsteigen.
+Hier greift die 30-Tage-IMEI-Regel, kein Netzausfall. Wenn Sie eine aserbaidschanische SIM eingesetzt und das Telefon nie in der nationalen Datenbank angemeldet haben, trifft die Sperre jedes lokale Netz gleichzeitig – Azercell, Bakcell und Nar gleichermaßen, einschließlich der Leitung, die Sie gekauft haben. Registrieren Sie sich in einem ASAN-Servicezentrum oder über my.gov.az mit Reisepass und IMEI (`*#06#`), zahlen Sie die staatliche Gebühr, und der Dienst wird wiederhergestellt. Eine Reise-SIM, die keine aserbaidschanische Nummer vergibt, startet diese Frist nicht, weshalb Langzeitbesucher auf eine solche umsteigen.
 
 ### Warum sich Ihr Telefon an der Grenze ins Auslandsnetz einbucht
 
@@ -239,7 +239,7 @@ Entlang der nördlichen Grenze zu Russland und der westlichen Linie zu Armenien 
 
 ### Wenn der APN nicht automatisch lädt
 
-Lokale Prepaid-Leitungen sind der übliche Verursacher. Bakcell erwartet `internet.bakcell.com`, Nar erwartet `nar.az`, und keiner von beiden landet auf einem frisch registrierten Gerät immer automatisch. Geben Sie den APN aus der Tabelle oben erneut ein, starten Sie neu, und prüfen Sie, dass die mobilen Daten auf die eSIM-Leitung statt auf Ihre Heim-SIM zeigen. Azercell-Nutzer können die Einstellungen stattdessen per leerer SMS an **9595** anfordern. Eine Reise-eSIM wird mit eigenem APN geliefert und benötigt dies fast nie.
+Lokale Prepaid-Leitungen sind der übliche Verursacher. Bakcell erwartet `internet.bakcell.com`, Nar erwartet `nar.az`, und keiner von beiden landet auf einem frisch registrierten Gerät immer automatisch. Geben Sie den APN aus der Tabelle oben erneut ein, starten Sie neu, und prüfen Sie, dass die mobilen Daten auf die Datenleitung statt auf Ihre Heim-SIM zeigen. Azercell-Nutzer können die Einstellungen stattdessen per leerer SMS an **9595** anfordern. Eine Reise-SIM wird mit eigenem APN geliefert und benötigt dies fast nie.
 
 ### Warum Nar- und Bakcell-Daten nicht mehr laden
 
@@ -258,21 +258,21 @@ Der Support-Schalter eines lokalen Betreibers arbeitet mit dem Passdatensatz, ni
 | Der Reisepass, auf den die Leitung registriert ist | Das Dokument selbst – jede AZ Prepaid-SIM ist daran gebunden |
 | Geräte-IMEI (`*#06#`) | Erst relevant, sobald eine lokale SIM 30 Tage überschreitet |
 | Der AZN-Bundlecode, den Sie gekauft haben | Rubbellos, SMS-Beleg oder App-Verlauf |
-| In welchem Netz Sie sind | Name der eSIM-Leitung unter Einstellungen → Mobiles Netz |
-| Ein Screenshot des Fehlers | Machen Sie ihn, bevor die Meldung verschwindet |
+| In welchem Netz Sie sind | Name der Datenleitung unter Einstellungen → Mobiles Netz |
+| Fehler-Screenshot | Erstellen Sie ihn, bevor die Meldung verschwindet |
 | Netzbetreiber-Lock-Status des Mobilgeräts | Einstellungen → Info, Feld für den Lock-Status |
 
-Liegt der Fehler in einer **Reise-eSIM** statt in einer lokalen SIM, kann ein Netzbetreiber-Schalter nicht helfen — dort ist das Produkt nicht erfasst. Halten Sie in diesem Fall Ihre Bestellnummer aus der Bestätigungs-E-Mail, Ihre EID (`*#06#`), die APN-Werte und einen Screenshot bereit und wenden Sie sich an den Anbieter.
+Liegt der Fehler in einer **Reise-SIM** statt in einer lokalen SIM, kann ein Netzbetreiber-Schalter nicht helfen — dort ist das Produkt nicht erfasst. Halten Sie in diesem Fall Ihre Bestellnummer aus der Bestätigungs-E-Mail, Ihre EID (`*#06#`), die APN-Werte und einen Screenshot bereit und wenden Sie sich an den Anbieter.
 
 ## Häufige Fragen zur Aserbaidschan eSIM
 
 ### Kann man eine Aserbaidschan-eSIM von Azercell kaufen?
 
-Nicht ohne Weiteres. Die eigene Prepaid-eSIM von Azercell ist kein einfaches Self-Service-Produkt für Touristen; die meisten Besucher nutzen Azercell über eine Reise-eSIM (kein Reisepass und keine IMEI-Registrierung nötig) oder kaufen am GYD eine physische Azercell-SIM mit Reisepass.
+Nicht ohne Weiteres. Die eigene Prepaid-eSIM von Azercell ist kein einfaches Self-Service-Produkt für Touristen; die meisten Besucher nutzen Azercell über ein Reise-SIM (kein Reisepass und keine IMEI-Registrierung nötig) oder kaufen am GYD eine physische Azercell-SIM mit Reisepass.
 
-### Reise-eSIM oder lokale SIM in Aserbaidschan?
+### Reise-SIM oder lokale SIM in Aserbaidschan?
 
-Am **Flughafen Heydar Aliyev (GYD)** gibt es im Erdgeschoss der Ankunftshalle von Terminal 1 Kioske von Azercell, Bakcell und Nar, die Prepaid-Tarife gegen Reisepass verkaufen, laut diesem [GYD-Flughafen-SIM-Guide](https://www.yourlayoverguide.com/sim-card-at-baku-heydar-aliyev-airport-gyd). Die Flughafenpreise liegen über denen in der Stadt. Wer lieber schon verbunden landet, installiert eine Reise-eSIM von Roami vor dem Flug und erspart sich den Kioskbesuch.
+Am **Flughafen Heydar Aliyev (GYD)** gibt es im Erdgeschoss der Ankunftshalle von Terminal 1 Kioske von Azercell, Bakcell und Nar, die Prepaid-Tarife gegen Reisepass verkaufen, laut diesem [GYD-Flughafen-SIM-Guide](https://www.yourlayoverguide.com/sim-card-at-baku-heydar-aliyev-airport-gyd). Die Flughafenpreise liegen über denen in der Stadt. Wer lieber schon verbunden landet, installiert ein Reise-SIM von Roami vor dem Flug und erspart sich den Kioskbesuch.
 
 ### Verkauft Bakcell eine eSIM an Ausländer?
 
@@ -284,7 +284,7 @@ Azercell, nach eigenen Abdeckungsangaben (99,8 % Bevölkerung) und nach überein
 
 ### Wie lauten die Registrierungsregeln in Aserbaidschan?
 
-Die Regeln greifen nur, wenn Sie eine **lokale SIM** länger als 30 Tage nutzen. Die Frist beginnt mit der ersten Verbindung der lokalen SIM; registrieren Sie sich über ASAN oder my.gov.az und zahlen Sie eine Gebühr, sonst wird das Telefon in allen lokalen Netzen gesperrt. Eine Reise-eSIM, die keine AZ-Nummer vergibt, startet diese Frist nicht.
+Die Regeln greifen nur, wenn Sie eine **lokale SIM** länger als 30 Tage nutzen. Die Frist beginnt mit der ersten Verbindung der lokalen SIM; registrieren Sie sich über ASAN oder my.gov.az und zahlen Sie eine Gebühr, sonst wird das Telefon in allen lokalen Netzen gesperrt. Eine Reise-SIM, die keine AZ-Nummer vergibt, startet diese Frist nicht.
 
 ### Welche Tarife sind in Aserbaidschan am günstigsten?
 
@@ -296,9 +296,9 @@ Nein — die Landgrenzen sind seit März 2020 für den Personenverkehr geschloss
 
 ### Funktioniert meine eSIM in Nachitschewan?
 
-Ja – Nachitschewan ist aserbaidschanisches Staatsgebiet und Azercell ist dort aktiv, also funktionieren sowohl eine Reise-eSIM auf Azercell oder Bakcell als auch eine lokale Azercell-SIM. Beachten Sie nur, dass Sie die Exklave per Flug oder über die Landwege Türkei/Iran erreichen, nicht über die Straße von Baku.
+Ja – Nachitschewan ist aserbaidschanisches Staatsgebiet und Azercell ist dort aktiv, also funktionieren sowohl ein Reise-SIM auf Azercell oder Bakcell als auch eine lokale Azercell-SIM. Beachten Sie nur, dass Sie die Exklave per Flug oder über die Landwege Türkei/Iran erreichen, nicht über die Straße von Baku.
 
-### Ist eine Reise-eSIM günstiger als eine lokale SIM?
+### Ist ein Reise-SIM günstiger als eine lokale SIM?
 
 Für eine kurze Reise in der Regel ja. Eine lokale Prepaid-Linie erfordert eine Reisepass-Registrierung und nach 30 Tagen eine IMEI-Gebühr von etwa 30–100 AZN; eine Aserbaidschan-eSIM umgeht beides. Für einen mehrmonatigen Aufenthalt mit echter lokaler Rufnummer kann die direkte Prepaid-Linie weiterhin die bessere Wahl sein.
 
@@ -312,15 +312,15 @@ Ja. Nutzen Sie Ihre Heimleitung für Anrufe/SMS (Bank-Codes), Daten über die eS
 
 ### Funktioniert meine eSIM in Georgien oder Russland weiter?
 
-Nein — Ihr Aserbaidschan-Tarif roamt nicht in diese Länder. Eine Reise-eSIM auf Azercell oder Bakcell endet ebenfalls an der Grenze; kaufen Sie für die Weiterreise eine separate Georgien- oder Russland-eSIM. Ist die SIM *innerhalb* Aserbaidschans nach Wochen ausgefallen, handelt es sich um die IMEI-Sperre, nicht um die Grenze.
+Nein — Ihr Aserbaidschan-Tarif roamt nicht in diese Länder. Eine Reise-SIM auf Azercell oder Bakcell endet ebenfalls an der Grenze; kaufen Sie für die Weiterreise eine separate Georgien- oder Russland-eSIM. Ist die SIM *innerhalb* Aserbaidschans nach Wochen ausgefallen, handelt es sich um die IMEI-Sperre, nicht um die Grenze.
 
 ### Warum funktioniert meine eSIM nicht?
 
 Meist steckt eines der oben beschriebenen lokalen Muster dahinter — IMEI-Sperre, Grenzsignal-Einfang, APN-Fehlkonfiguration, verbrauchtes Fair-Use-Kontingent oder ein hartnäckiges Shop-Profil. Falls keines davon passt, deckt der umfassendere Katalog in [unserem Fehlerbehebungs-Guide](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Halten Sie EID, Bestellnummer und einen Screenshot bereit.
 
-Weitere Fragen? [Alle FAQs ansehen](/faq/)
+Noch Fragen zur Aserbaidschan-eSIM? Antworten finden Sie in unserem [FAQ](/faq/).
 
-## Unsere Quellen
+## Quellen und Daten hinter unserem Aserbaidschan-Vergleich
 
 - Ookla, Cable.co.uk, DataReportal, der Grenzstatus- und GYD-Flughafen-Guide sowie die Tarifseiten von Bakcell/Nar sind inline bei jeder Aussage verlinkt.
 - Azercell-APN (leere SMS an 9595): Azercell-Support, oben inline verlinkt.
@@ -336,6 +336,6 @@ Die Aserbaidschan-eSIM von Roami läuft sowohl im Azercell- als auch im Bakcell-
 
 [Jetzt Aserbaidschan-eSIM holen](/azerbaijan-esim/)
 
-[Kostenlos testen](/free-esim/)
+[Aserbaidschan-eSIM kostenlos testen](/free-esim/)
 
 *Die kostenlose Testversion und der WEB20-Rabatt gelten beide für Neukunden von Roami.*

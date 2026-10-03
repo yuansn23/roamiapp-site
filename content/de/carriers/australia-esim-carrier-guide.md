@@ -3,7 +3,7 @@ title: "Australien eSIM: Telstra, Optus und Vodafone verglichen"
 description: "Australien eSIM im Vergleich: Telstra, Optus und Vodafone nach Abdeckung, Geschwindigkeit und Preis – mit Tariftipps für Ihre Route."
 image: "img/esim/carriers/australia-esim-carrier-guide.jpg"
 date: "2026-09-27T22:51:39+00:00"
-keywords: Australien eSIM-Netzbetreiber, Telstra eSIM, Optus eSIM, Vodafone eSIM, Australien 5G-Netzabdeckung, Australien eSIM APN, eSIM Australien Prepaid, bester eSIM-Netzbetreiber Australien, Australien Reise-eSIM
+keywords: Australien eSIM-Netzbetreiber, Telstra eSIM, Optus eSIM, Vodafone eSIM, Australien 5G-Netzabdeckung, Australien eSIM APN, eSIM Australien Prepaid, bester eSIM-Netzbetreiber Australien, Australien Reiseprofil
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -18,15 +18,15 @@ hero_subtitle_main: "Der Netzbetreiber-Vergleich 2026, basierend auf unabhängig
 
 Eine Australien eSIM auszuwählen bedeutet eigentlich, sich zwischen drei nationalen Netzen zu entscheiden – dieser Guide zeigt, welches Netz zu Ihrer Route passt. Die drei Netze sind nicht austauschbar: Der Unterschied zwischen ihnen wächst mit jedem Kilometer, den Sie zwischen sich und die Küste legen, denn außerhalb der Küstenstädte ist der Kontinent weitgehend unbewohnt. Im Ookla-Australien-Bericht für das 2. Halbjahr 2025 wurde **Optus** als Bestes Mobilfunknetz insgesamt und Bestes 5G-Netz des Landes ausgezeichnet. Die im selben Bericht veröffentlichten Daten auf Netzbetreiber-Ebene decken **Vodafone** vollständig ab, mit einem Consistency Score von 86,4 und einer 5G-Verfügbarkeit von 82,5. **Telstra** gewinnt in diesem Datensatz keine Geschwindigkeitsauszeichnung im direkten Vergleich, besitzt jedoch die größte geografische Abdeckung – und das ist die wichtigste Einzelinformation für alle, die die Küste verlassen. Deshalb verschiebt sich die richtige Wahl je nach Route: Ein Aufenthalt in einer Hafenstadt und eine lange Regionalfahrt brauchen selten dasselbe Netz.
 
-**Schnelle Antwort:** Telstra führt diesen Vergleich bei der reinen Netzabdeckung an, Optus beim Preis-Leistungs-Verhältnis – und dieser Unterschied wird kleiner, je länger Sie an einem Ort bleiben. Die folgenden Routen zeigen, wo sich das Bild umkehrt. Bevor Sie eine Australien-eSIM kaufen, können Sie die Einrichtung vorab mit der [kostenlosen Test-eSIM](/free-esim/) von Roami ausprobieren.
+**Schnelle Antwort:** Telstra führt diesen Vergleich bei der reinen Netzabdeckung an, Optus beim Preis-Leistungs-Verhältnis – und dieser Unterschied wird kleiner, je länger Sie an einem Ort bleiben. Die folgenden Routen zeigen, wo sich das Bild umkehrt. Bevor Sie ein Australien-SIM kaufen, können Sie die Einrichtung vorab mit der kostenlosen Test-eSIM von Roami ausprobieren.
 
-Wenn die Grundlagen noch offen sind – unterstützt mein Telefon eSIM und was passiert eigentlich bei der Aktivierung – beantworten der [Handy-Kompatibilitäts-Check](/compatibility/) und die [Anleitung zur eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) beide Fragen. Diese Seite vergleicht die Netze hinter Ihrer Australien-eSIM und konzentriert sich auf eine einzige Frage: Welcher Netzbetreiber ist sein Geld wert.
+Wenn die Grundlagen noch offen sind – unterstützt mein Telefon eSIM und was passiert eigentlich bei der Aktivierung – beantworten der [Handy-Kompatibilitäts-Check](/compatibility/) und die [Anleitung zur eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) beide Fragen. Diese Seite vergleicht die Netze hinter Ihrer Australien-SIM und konzentriert sich auf eine einzige Frage: Welcher Netzbetreiber ist sein Geld wert.
 
-**Der Überblick in einem Absatz:** Sie bleiben in Sydney, Melbourne, Brisbane, Perth oder Adelaide? Optus hat die Ookla-Auszeichnung als Bestes 5G-Netz gewonnen und ist dort am schnellsten, wo es Empfang hat, während Telstra in den Städten genauso stark ist und bei der 5G-Bevölkerungsabdeckung breiter aufgestellt ist. Sie fahren lange Regionalrouten zwischen den Städten? Nur Telstra hält ein nutzbares Signal, und selbst das ist stellenweise lückenhaft, daher ist ein Satelliten-Messenger jeder eSIM überlegen. Sie möchten eine Australien-eSIM direkt vom Netzbetreiber? Alle drei verkaufen Prepaid-eSIMs, aber jeder verlangt einen Reisepass gemäß Australiens Prepaid-Identitätsgesetz, und keiner bietet Multi-Netz-Abdeckung. Oder überspringen Sie den Papierkram: Mit dem [Gratis-Testplan](/free-esim/) testen Sie die Netze kostenlos, und mit dem Code **WEB20** erhalten Sie 20 % Rabatt auf [Australien Prepaid eSIM-Tarife](/australia-esim/).
+**Der Überblick in einem Absatz:** Sie bleiben in Sydney, Melbourne, Brisbane, Perth oder Adelaide? Optus hat die Ookla-Auszeichnung als Bestes 5G-Netz gewonnen und ist dort am schnellsten, wo es Empfang hat, während Telstra in den Städten genauso stark ist und bei der 5G-Bevölkerungsabdeckung breiter aufgestellt ist. Sie fahren lange Regionalrouten zwischen den Städten? Nur Telstra hält ein nutzbares Signal, und selbst das ist stellenweise lückenhaft, daher ist ein Satelliten-Messenger jeder eSIM überlegen. Sie möchten ein Australien-SIM direkt vom Netzbetreiber? Alle drei verkaufen Prepaid-eSIMs, aber jeder verlangt einen Reisepass gemäß Australiens Prepaid-Identitätsgesetz, und keiner bietet Multi-Netz-Abdeckung. Oder überspringen Sie den Papierkram: Mit dem Gratis-Testplan testen Sie die Netze kostenlos, und mit dem Code **WEB20** erhalten Sie 20 % Rabatt auf australischen Prepaid-eSIM-Tarifen.
 
 ## Die drei Netze Australiens im Überblick
 
-Drei nationale Netze versorgen Australien, und jede Australien-eSIM des Landes läuft in genau einem von ihnen; eine lange Liste von Budget-Marken nutzt deren Sendemasten. Die erste Tabelle ist das Wichtigste auf dieser Seite, denn sie zeigt, dass alle drei nationalen Netzbetreiber Besuchern eine Prepaid-eSIM verkaufen, aber jede bindet Sie an ein einziges Netz und verlangt zuerst Ihren Reisepass.
+Drei nationale Netze versorgen Australien, und jede Australien-SIM des Landes läuft in genau einem von ihnen; eine lange Liste von Budget-Marken nutzt deren Sendemasten. Die erste Tabelle ist das Wichtigste auf dieser Seite, denn sie zeigt, dass alle drei nationalen Netzbetreiber Besuchern eine Prepaid-eSIM verkaufen, aber jede bindet Sie an ein einziges Netz und verlangt zuerst Ihren Reisepass.
 
 ### Telstra oder Optus im direkten Vergleich
 
@@ -56,28 +56,44 @@ Zwei Warnhinweise, die mehr wert sind als die Ersparnis. Erstens nutzen die meis
 
 ### Kann man eine Australien-eSIM von Telstra kaufen?
 
-| | Direkt von einem australischen Netzbetreiber | Reise-eSIM in einem australischen Netz |
+| | Direkt von einem australischen Netzbetreiber | Reiseprofil in einem australischen Netz |
 |:---|:---|:---|
 | Was Sie benötigen | Reisepass zur Identitätsprüfung; für einige Strecken wird eine australische Adresse benötigt | Ein kompatibles, entsperrtes Telefon |
 | Wie das Profil ankommt | App-Aktivierung, Einrichtung im Store oder ein QR-Code des Netzbetreibers | QR-Code oder App-Installation direkt nach dem Checkout |
 | Typische 28-Tage-Kosten | Von etwa 35 bis 55 AUD für 25 bis 70 GB, je nach Netzbetreiber | Ein einziger Vorabpreis, keine SIM-Gebühr, kein Reisepass |
 | Netzzugang | Ein Netzbetreiber, den Sie erworben haben | Automatischer Wechsel zwischen Telstra, Optus und Vodafone |
-| Ausweisregelung | Reisepass wird vor der Aktivierung mit dem amtlichen Ausweisdokument abgeglichen | Reisepass wird beim Checkout für die Reise-eSIM hochgeladen |
+| Ausweisregelung | Reisepass wird vor der Aktivierung mit dem amtlichen Ausweisdokument abgeglichen | Reisepass wird beim Checkout für die Reiseprofil hochgeladen |
 | Ideal für | Aufenthalte von einem Monat oder länger oder alle, die eine australische Telefonnummer benötigen | Reisen von einigen Tagen bis wenigen Wochen sowie alle, die direkt nach der Landung online sein möchten |
 
-Für einen normalen Urlaub ist der Preisunterschied nicht gering. Ein Prepaid-Tarif eines Netzbetreibers ist für Einheimische gedacht, die eine australische Nummer möchten, während eine Reise-eSIM Daten zum Großhandelspreis kauft und das Gerät zwischen Netzen wechseln lässt. Wo der Netzbetreiber punktet, sind Langlebigkeit und Telefonie, eine echte lokale Rufnummer und unbegrenzte Inlandsgespräche, was erst dann relevant wird, wenn Sie in Australien leben oder einen Working Holiday machen.
+Für einen normalen Urlaub ist der Preisunterschied nicht gering. Ein Prepaid-Tarif eines Netzbetreibers ist für Einheimische gedacht, die eine australische Nummer möchten, während ein Reiseprofil Daten zum Großhandelspreis kauft und das Gerät zwischen Netzen wechseln lässt. Wo der Netzbetreiber punktet, sind Langlebigkeit und Telefonie, eine echte lokale Rufnummer und unbegrenzte Inlandsgespräche, was erst dann relevant wird, wenn Sie in Australien leben oder einen Working Holiday machen.
 
 💡 Ein Multi-Netz-eSIM-Profil ist der praktische Mittelweg: [Roamis Australien eSIM](/australia-esim/) bietet den Komfort der sofortigen Bereitstellung und wechselt automatisch zwischen Telstra, Optus und Vodafone – Sie landen also im Outback bei Telstra und in der Stadt bei Optus, ohne doppelt zu kaufen.
 
+## Ankunft in Australien: vom Flughafen ins Netz
+
+Die ersten Minuten nach der Landung entscheiden oft, ob Ihr Tarif einen guten Eindruck macht. In Sydney, Melbourne, Brisbane, Perth und Adelaide gibt es jeweils einen Optus-Shop am Flughafen; Telstra und Vodafone sind dagegen eher in der Stadt erhältlich. Rechnen Sie damit, dass das WLAN in den Ankunftshallen von Sydney, Melbourne und Brisbane genau dann überlastet ist, wenn Sie es am dringendsten brauchen – installieren Sie das Profil daher schon zu Hause über WLAN, bevor Sie das Flugzeug betreten.
+
+### Was am Schalter wirklich passiert
+
+Jeder der drei Netzbetreiber verkauft Besuchern eine Prepaid-eSIM, aber keiner ohne Identitätsprüfung: Halten Sie den Reisepass bereit, und rechnen Sie bei Telstra, Optus oder Vodafone mit einer kurzen Verifizierung in der App oder im Store. Eine australische Adresse ist für die Touristentarife nicht nötig; einige Kassen lehnen allerdings ausländische Rechnungsadressen ab, also nehmen Sie eine Karte mit, die in Australien funktioniert.
+
+### Roaming oder Australien-eSIM: die Rechnung für zwei Wochen
+
+Ein konkretes Beispiel für einen 14-tägigen Städtetrip (Sydney und Melbourne, etwa 15 GB Daten): Der Optus Flex Plus Traveller-Tarif mit 45 GB kostet etwa 35 AUD, Vodafones 28-Tage-Tarif mit 30 GB etwa 40 AUD. Ein Roami-Reiseprofil deckt dieselben Städte ab und wechselt zusätzlich automatisch auf Telstra, sobald die Route das Netz von Optus verlässt – mit dem Code **WEB20** beim ersten Kauf. Wer nur in den Metropolen bleibt, spart bei einem lokalen Prepaid-Tarif kaum, gewinnt aber eine echte australische Rufnummer; wer auch ins Landesinnere fährt, ist mit dem Mehrnetz-Profil besser bedient.
+
+### Randnotiz: das Outback ist der Ausnahmefall
+
+Dieser Guide behandelt das Outback – Nullarbor, Red Centre, Kimberley – ausführlich, weil es netztechnisch ein Sonderfall ist. Für den normalen Urlaub, also Strand, Great Ocean Road, Gold Coast oder Cairns, reicht aber eines der Stadttarife völlig aus; hier ist Optus laut Ookla das beste 5G-Netz und Telstra gleich stark.
+
 ## Funktioniert Ihr Telefon?
 
-Drei Dinge entscheiden, ob Ihre Australien-eSIM reibungslos funktioniert: die Frequenzbänder des Telefons, der SIM-Lock-Status und eine kurze Liste gerätespezifischer Besonderheiten. Alle drei werden unten behandelt, und zwei davon sind in Australien wichtiger als fast überall sonst, da das Land 3G abgeschaltet hat und riesige Funklöcher aufweist.
+Drei Dinge entscheiden, ob Ihre Australien-SIM reibungslos funktioniert: die Frequenzbänder des Telefons, der SIM-Lock-Status und eine kurze Liste gerätespezifischer Besonderheiten. Alle drei werden unten behandelt, und zwei davon sind in Australien wichtiger als fast überall sonst, da das Land 3G abgeschaltet hat und riesige Funklöcher aufweist.
 
 ### Welche Geräte können australische Netze nutzen?
 
 Australische Netzbetreiber bauen ihr 5G auf bestimmten Frequenzbändern auf, und genau diese Aufteilung entscheidet, ob Sie 5G sehen oder nur 4G. Alle drei nationalen Netze nutzen **n78 bei 3500 MHz** als primäres 5G-Band, sodass fast jedes moderne ausländische 5G-Telefon sich dort verbindet. **Telstra** ergänzt das Low-Band **n5 bei 850 MHz** für die 5G-Abdeckung im ländlichen Raum, und **Optus** ergänzt **n40 bei 2300 MHz** für zusätzliche Mid-Band-Kapazität, während **Vodafone** sich auf n78 mit etwas n28 bei 700 MHz konzentriert. Telefone ohne n78 funktionieren weiterhin mit 4G, das in den Städten schnell und im Busch frustrierend langsam ist.
 
-Die eine Australien-spezifische Falle hat nichts mit 5G zu tun. Das Land hat seine 3G-Netze vollständig abgeschaltet, daher muss ein Telefon **VoLTE** unterstützen, um Anrufe zu tätigen und sich überhaupt im Netz zu registrieren. Ein altes Gerät, das nur 3G beherrscht, zeigt selbst dort keinen Empfang, wo Netzabdeckung vorhanden ist. Prüfen Sie Ihr genaues Modell – die Modellnummer, nicht den Marketingnamen – anhand der [Kompatibilitätsseite](/compatibility/). Wie das Zusammenspiel vor der Kaufentscheidung funktioniert, behandelt der Artikel zur [eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/).
+Die eine Australien-spezifische Falle hat nichts mit 5G zu tun. Das Land hat seine 3G-Netze vollständig abgeschaltet, daher muss ein Telefon **VoLTE** unterstützen, um Anrufe zu tätigen und sich überhaupt im Netz zu registrieren. Ein altes Gerät, das nur 3G beherrscht, zeigt selbst dort keinen Empfang, wo Netzabdeckung vorhanden ist. Prüfen Sie Ihr genaues Modell – die Modellnummer, nicht den Marketingnamen – anhand der Kompatibilitätsseite. Wie das Zusammenspiel vor der Kaufentscheidung funktioniert, behandelt der Artikel zur [eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 ### Ist Ihr Gerät mit australischen Netzen kompatibel?
 Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation einer Australien eSIM einfach fehlschlägt, und Australien hat hier klare, aber uneinheitliche Regeln. Anders als in einigen Märkten, in denen jedes Telefon gesperrt ist, sind die meisten in Australien separat erworbenen Telefone bereits entsperrt. Postpaid-Geräte von Telstra, Optus und Vodafone werden in der Regel entsperrt verkauft, während Telefone, die mit einem Prepaid-Starterpaket gebündelt sind, an diesen Netzbetreiber gebunden sein können.
@@ -98,13 +114,13 @@ Wenn Sie ein gebrauchtes Telefon oder ein Telefon mit Prepaid-Tarif gekauft habe
 | Telefon ohne VoLTE oder nur 3G | Keine Registrierung, keine Anrufe, „kein Dienst“ | Australien verfügt nicht über 3G; aktivieren Sie VoLTE oder verwenden Sie ein neueres Telefon |
 | Ausländisches Telefon ohne Band n78 | Nur 4G, zeigt nie 5G an | Erwartet; 4G ist in Städten immer noch schnell |
 | iPhone-Modelle für das chinesische Festland | Keine Option „eSIM hinzufügen“ vorhanden, Hardware deaktiviert | Nicht behebbar; verwenden Sie eine physische SIM-Karte oder ein anderes Gerät |
-| Dual-SIM-Nutzer | eSIM installiert, aber keine Daten | Legen Sie die eSIM als die für mobile Daten genutzte Leitung fest |
+| Dual-SIM-Betrieb | eSIM eingerichtet, aber keine Daten | Legen Sie die eSIM als Leitung für mobile Daten fest |
 
 Abgesehen von diesen Fällen liegt das Problem eher beim Gerät als beim australischen Netz. Geben Sie Ihr genaues Modell auf der [eSIM-Kompatibilitätsseite](/compatibility/) ein, bevor Sie sich für einen Tarif entscheiden, den Sie nicht nutzen können.
 
 ## Welcher Tarif bietet das meiste Datenvolumen pro Dollar?
 
-Es gibt drei Wege zu einer Australien-eSIM, und sie unterscheiden sich eher im Preis und im Papierkram als in der Technik: Telstra für die größte Reichweite, Optus für das ausgezeichnete 5G-Netz und Vodafone für die günstigsten Stadtdaten. Alle drei Wege werden Schritt für Schritt beschrieben, und alle verlangen einen Reisepass.
+Es gibt drei Wege zu einem Australien-SIM, und sie unterscheiden sich eher im Preis und im Papierkram als in der Technik: Telstra für die größte Reichweite, Optus für das ausgezeichnete 5G-Netz und Vodafone für die günstigsten Stadtdaten. Alle drei Wege werden Schritt für Schritt beschrieben, und alle verlangen einen Reisepass.
 
 ### Wo Sie Ihre Australien eSIM kaufen
 
@@ -128,7 +144,7 @@ Die Prepaid-eSIM von Telstra ist die richtige Wahl, wenn das Red Centre, die Nul
 
 Preise sind repräsentative Werte für Touristentarife und können sich ändern; überprüfen Sie den aktuellen Tarif auf der Telstra-Website, bevor Sie kaufen.
 
-### Lokale SIM oder Reise-eSIM in Australien
+### Lokale SIM oder Reiseprofil in Australien
 
 Optus ist der Netzbetreiber, der bei den Ookla-Awards für das 2. Halbjahr 2025 sowohl das beste Mobilfunknetz insgesamt als auch das beste 5G-Netz für Australien gewonnen hat, und er verkauft eine Flex Plus Traveller eSIM, die für kurze Aufenthalte konzipiert ist. Die Tarife sind 5G-fähig und sowohl als SIM als auch als eSIM erhältlich.
 
@@ -155,17 +171,17 @@ Vodafone ist die preisgünstige Option, am stärksten in den Hauptstädten und a
 
 1. Besuchen Sie einen Vodafone-Laden oder die Vodafone-Website und wählen Sie einen Prepaid-Tarif. Ab April 2026 kostet der laufende 28-tägige Prepaid-Tarif 40 AUD für 30 GB.
 2. Wählen Sie an der Kasse eSIM. Eine physische SIM-Karte kostet genauso viel, es entsteht also kein Nachteil, wenn Sie sich für die digitale Variante entscheiden.
-3. Installieren Sie das Profil über WLAN und schalten Sie Daten-Roaming für die eSIM-Leitung ein.
+3. Installieren Sie das Profil über WLAN und schalten Sie Daten-Roaming für die Datenleitung ein.
 4. Schließen Sie die Identitätsprüfung mit Ihrem Reisepass ab. Vodafone wendet dieselbe Determination 2017 an wie die anderen beiden Netzbetreiber.
 
 Vodafone besitzt außerdem die Marken TPG und Lebara und teilt die Netzinfrastruktur mit Optus im Rahmen einer Netzsharing-Vereinbarung, was die effektive Netzabdeckung erweitert hat, aber die eigene veröffentlichte 5G-Verfügbarkeit in den 2H-2025-Daten von Ookla lag bei 82,5 – der niedrigste Wert der drei bei diesem Maßstab. Es ist die richtige Wahl für einen günstigen Sydney- oder Melbourne-Trip, nicht für lange Fahrten in regionale Gebiete.
 
 ### Was Sie vor dem Bezahlen klären sollten
-- **IMEI** — wählen Sie `*#06#`
-- **EID** — ebenfalls aus dem `*#06#`-Bildschirm; dies ist die eigene Kennung der eSIM
+- **IMEI** — mit `*#06#` am Gerät anzeigen; Telstra, Optus und Vodafone gleichen die Nummer bei der Registrierung ab
+- **EID** — ebenfalls auf dem `*#06#`-Bildschirm; das ist die Kennung der eSIM
 - **Reisepass** — erforderlich bei jedem australischen Netzbetreiber gemäß dem Prepaid-Identitätsgesetz
 - **Eine Karte, die in Australien funktioniert** — einige Kassen der Netzbetreiber lehnen ausländische Rechnungsadressen ab
-- **WLAN** — installieren Sie das Profil vor dem Abflug, nicht am Flughafen
+- **WLAN** — richten Sie das Profil zu Hause ein, nicht am Flughafen
 - **Ein entsperrtes Handy** — vergewissern Sie sich, dass unter „Netzbetreiber-Sperre“ die Anzeige „Keine SIM-Einschränkungen“ erscheint
 
 ## Anbieterlandschaft
@@ -193,7 +209,7 @@ Weil der Bericht in diesem Datensatz keinen direkten Geschwindigkeitsvergleich z
 
 ### Welcher Netzbetreiber passt zu Ihrer Reiseart?
 
-| Die Reise | Passender Netzbetreiber | Warum | Achtung |
+| Reiseart | Passendes Netz | Grund | Hinweis |
 |:---|:---|:---|:---|
 | Städtetrip, Sydney, Melbourne, Brisbane, Perth, Adelaide | Optus oder Telstra | Beide stark; Optus gewann Ooklas Auszeichnung für das beste 5G-Netz, Telstra die breiteste 5G-Netzabdeckung für die Bevölkerung | Überlastung in großen Stadien und Veranstaltungsgebieten |
 | Outback, Rotes Zentrum, Uluru, Alice Springs | Telstra | Größte geografische Abdeckung, einziges zuverlässiges Outback-Signal | Selbst Telstra hat Funklöcher; Offline-Karten mitführen |
@@ -228,9 +244,9 @@ Die meisten Reisenden öffnen den APN-Bildschirm nie, und doch ist er der erste 
 
 ### APN-Werte für alle drei Netze
 
-Sie benötigen diese Werte nur, wenn Sie Ihre Australien-eSIM direkt von einem australischen Netzbetreiber gekauft haben. Bei einer Reise-eSIM bringt das Profil seinen eigenen APN mit, also ändern Sie die Einstellungen nicht.
+Sie benötigen diese Werte nur, wenn Sie Ihre Australien-SIM direkt von einem australischen Netzbetreiber gekauft haben. Bei einem Reiseprofil bringt das Profil seinen eigenen APN mit, also ändern Sie die Einstellungen nicht.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Mobilfunkanbieter | Zugangspunkt (APN) | Benutzer | Kennwort |
 |:---|:---|:---|:---|
 | Telstra | `telstra.internet` | leer | leer |
 | Optus | `yesinternet` | leer | leer |
@@ -240,20 +256,20 @@ Lassen Sie Benutzername und Passwort leer. Telstra ist bei seinem APN-String str
 
 ### Wann APN-Einstellungen in Australien manuell nötig sind
 
-- Ein älteres Gerät, das die Netzbetreiber-Einstellungen nicht automatisch übernimmt
-- Ein Profil, das mit einem manuellen Aktivierungscode statt per QR-Scan installiert wurde
-- Eine vom Netzbetreiber ausgegebene Prepaid-eSIM, bei der die automatische Konfiguration nicht lief
-- Bei einer Reise-eSIM fast nie – das ist ja der Sinn eines verwalteten Profils
+- Ein älteres Gerät, das die Netzbetreiber-Einstellungen nicht selbstständig lädt
+- Ein Profil, das Sie mit einem manuellen Aktivierungscode statt per QR-Code eingerichtet haben
+- Eine Prepaid-eSIM des Netzbetreibers, bei der die automatische Konfiguration fehlgeschlagen ist
+- Bei einem Reiseprofil fast nie – das ist ja der Sinn eines verwalteten Profils
 
 ### Wenn sich der APN in Australien nicht automatisch laden lässt
-- **iPhone:** Einstellungen → Mobiles Netz → tippen Sie auf die eSIM-Leitung → Mobilfunknetzwerk → geben Sie den APN ein
+- **iPhone:** Einstellungen → Mobiles Netz → tippen Sie auf die Datenleitung → Mobilfunknetzwerk → geben Sie den APN ein
 - **Android:** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunktnamen → neuen APN hinzufügen
 
 Starten Sie das Telefon nach dem Speichern neu. Falls weiterhin keine Daten fließen, prüfen Sie zuerst, dass die Datenleitung auf die eSIM und nicht auf Ihre Heim-SIM verweist, bevor Sie weitere Änderungen vornehmen.
 
 ## Australien-eSIM installieren und Fehler beheben
 
-Eine einzige Lektüre dieses Abschnitts führt Sie von der sauberen Installation Ihrer Australien-eSIM bis zu einer funktionierenden Verbindung und behandelt die Fehlerbilder, die ein australisches Netz tatsächlich hervorrufen kann – in der Reihenfolge, in der sie auftreten.
+Eine einzige Lektüre dieses Abschnitts führt Sie von der sauberen Installation Ihrer Australien-SIM bis zu einer funktionierenden Verbindung und behandelt die Fehlerbilder, die ein australisches Netz tatsächlich hervorrufen kann – in der Reihenfolge, in der sie auftreten.
 
 ### Fünf Prüfungen vor dem Einlegen der eSIM
 | # | Prüfen | Was „gut“ bedeutet |
@@ -262,19 +278,18 @@ Eine einzige Lektüre dieses Abschnitts führt Sie von der sauberen Installation
 | 2 | Das Telefon unterstützt eSIM und VoLTE | `*#06#` zeigt eine EID an, und das Telefon ist nicht nur 3G-fähig |
 | 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und im Cloud-Speicher hinterlegt |
 | 4 | Profil vor der Abreise installieren | Über WLAN zu Hause installieren; das Profil verbindet sich automatisch bei der Landung |
-| 5 | Datenleitung und Roaming eingestellt | eSIM für mobile Daten ausgewählt, Datenroaming aktiviert |
+| 5 | Datenleitung und Roaming eingestellt | Das Profil für mobile Daten ausgewählt, Datenroaming aktiviert |
 
 Die vierte Prüfung erledigen Sie zu Hause. In den Ankunftshallen von Sydney, Melbourne und Brisbane ist das WLAN genau dann überlastet, wenn Sie es am dringendsten brauchen, und ein Profil, das Sie erst am Boden installieren, konkurriert mit dem aller anderen.
 
-### So installieren Sie das Profil
-
+### So installieren Sie die australische eSIM
 Die Scan- und Beschriftungssequenz ist in allen drei australischen Netzen identisch; was sich unterscheidet, ist, wo die Passkontrolle stattfindet und welche App am Ende die Leitung verwaltet. Die generische Installation – vom Hinzufügen der eSIM bis zur Aktivierung des Roamings – finden Sie in unserer [Aktivierungs-Anleitung](/faq/how-to-activate-an-esim/), daher folgt hier nur das, was abweicht:
 
 - **Telstra:** Aktivierung in der My Telstra App; wählen Sie an der Kasse eSIM und verifizieren Sie Ihren Reisepass in der App
 - **Optus:** Aktivierung über die Optus-Website oder in einem Shop am Flughafen über den Flex Plus Traveller-Tarif; Reisepass wird bei der Aktivierung verifiziert
 - **Vodafone:** Aktivierung im Shop oder über die My Vodafone App; Prepaid-eSIM mit Passkontrollen
 - **Budget-Marken:** Boost, amaysim, felix, Lebara und Kogan aktivieren jeweils in ihrer eigenen App im jeweiligen Hostnetz
-- **Reise-eSIMs:** Installation per QR-Code; dasselbe Profil wechselt per Roaming in das jeweils stärkste Netz von Telstra, Optus oder Vodafone
+- **Reiseprofils:** Installation per QR-Code; dasselbe Profil wechselt per Roaming in das jeweils stärkste Netz von Telstra, Optus oder Vodafone
 
 ### Vier Lösungen wenn sich die eSIM nicht verbindet
 
@@ -290,29 +305,29 @@ Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen wird, ein f
 2. Einstellungen → Mobilfunk → Netzwerkwahl → wählen Sie Telstra, Optus oder Vodafone manuell statt automatisch.
 3. Setzen Sie die Netzwerkeinstellungen vollständig zurück und starten Sie das Gerät neu.
 
-**C. Signalbalken, aber kein Internet**
-1. Vergleichen Sie den APN mit der Netzbetreiber-Tabelle weiter oben in diesem Abschnitt.
+**C. Signalbalken da, aber im Telstra-Netz keine Daten**
+1. Gleichen Sie den APN mit der Netzbetreiber-Tabelle oben in diesem Kapitel ab.
 2. Stellen Sie sicher, dass die Daten über die eSIM laufen und nicht über Ihre Heim-SIM.
 3. Prüfen Sie, ob Sie Ihr Datenvolumen aufgebraucht haben; bei Prepaid-Tarifen wird die Verbindung unterbrochen oder gedrosselt, statt zusätzliche Gebühren zu berechnen.
 
-**D. „SOS“ oder „Nur Notrufe“**
+**D. „SOS“ statt Netz trotz verfügbarem Telstra-Signal**
 1. Die eSIM muss im SIM-Manager eingeschaltet sein.
 2. Deaktivieren oder löschen Sie alle anderen aktiven SIM- oder eSIM-Profile, die Konflikte verursachen könnten.
-3. Starten Sie das Gerät neu und setzen Sie die Netzwerkeinstellungen zurück.
+3. Starten Sie das Telefon neu und setzen Sie die Mobilfunk-Einstellungen zurück.
 4. Als letzten Ausweg entfernen Sie das Profil und installieren Sie es mit einem neuen QR-Code erneut.
 
 ### Was Sie vor dem Anruf beim eSIM-Support bereithalten sollten
 | Informationen | Wo Sie sie finden |
 |:---|:---|
-| Bestell- oder Kontonummer | Bestätigungs-E-Mail |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Über |
+| Bestell- oder Kontonummer | In der Bestätigungs-E-Mail |
+| Telefonmodell und Betriebssystem | Einstellungen → Über |
 | EID | `*#06#` |
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
-| Aktuelle APN-Einstellungen | Einstellungen → Mobiles Datennetz |
-| Datenroaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Fehler-Screenshot | Erstellen Sie ihn, bevor die Meldung verschwindet |
+| APN-Einstellungen jetzt | Einstellungen → Mobiles Datennetz |
+| Datenroaming | Einstellungen → Mobiles Netz → Ihre Datenleitung |
+| Was Sie schon probiert haben | Kurz notieren |
 
-## Häufige Fragen zu Australien-eSIMs und Netzbetreibern
+## Häufige Fragen zu Ihrer Australien eSIM und den Netzbetreibern
 
 ### Verkauft Telstra eine eSIM für Reisende?
 
@@ -332,25 +347,25 @@ Telstra, ohne knappen Zweiten. Es besitzt die größte geografische Abdeckung de
 
 ### Braucht man für eine australische SIM Ausweisdokumente?
 
-Ja. Für eine lokale Prepaid-eSIM von Telstra, Optus oder Vodafone: Seit der Telecommunications (Service Provider — Identity Checks for Prepaid Mobile Carriage Services) Determination 2017 müssen Netzbetreiber die Identität der Kundin oder des Kunden prüfen, für Besucher meist per Reisepass, bevor ein Prepaid-Mobilfunkdienst aktiviert wird, und die ACMA setzt dies durch. Eine Reise-eSIM fragt beim Check-out zwar ebenfalls nach einem Reisepass, sie ist jedoch ein Roaming-Datenprofil und keine lokal registrierte australische Leitung, sodass der Vorgang vor Ort einfacher ausfällt.
+Ja. Für eine lokale Prepaid-eSIM von Telstra, Optus oder Vodafone: Seit der Telecommunications (Service Provider — Identity Checks for Prepaid Mobile Carriage Services) Determination 2017 müssen Netzbetreiber die Identität der Kundin oder des Kunden prüfen, für Besucher meist per Reisepass, bevor ein Prepaid-Mobilfunkdienst aktiviert wird, und die ACMA setzt dies durch. Eine Reiseprofil fragt beim Check-out zwar ebenfalls nach einem Reisepass, sie ist jedoch ein Roaming-Datenprofil und keine lokal registrierte australische Leitung, sodass der Vorgang vor Ort einfacher ausfällt.
 
 ### Welche Geräte bereiten in Australien Probleme?
 
-Es muss entsperrt, eSIM-fähig und in der Lage sein, sich in ein 4G- oder 5G-Netz mit VoLTE einzubuchen, da Australien kein 3G mehr hat. Prüfen Sie Sperrstatus und Bandunterstützung in einem Schritt mit der [Geräte-Kompatibilitätsliste](/compatibility/), die EID-Unterstützung und das n78-5G-Band abdeckt, das jedes australische Netz nutzt. Wer vorab wissen will, was bei der Einrichtung passiert, findet es unter [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/).
+Es muss entsperrt, eSIM-fähig und in der Lage sein, sich in ein 4G- oder 5G-Netz mit VoLTE einzubuchen, da Australien kein 3G mehr hat. Prüfen Sie Sperrstatus und Bandunterstützung in einem Schritt mit der Geräte-Kompatibilitätsliste, die EID-Unterstützung und das n78-5G-Band abdeckt, das jedes australische Netz nutzt. Wer vorab wissen will, was bei der Einrichtung passiert, findet es unter eSIM-Aktivierung erklärt.
 
 ### Wie entsperre ich ein gesperrtes Handy für Australien?
 
 Fragen Sie den Netzbetreiber, an den es gebunden ist. Die meisten in Australien frei verkauften oder über Postpaid erworbenen Handys sind bereits entsperrt; im Prepaid-Bundle verkaufte Geräte können gesperrt sein, mit einer gestaffelten Gebühr, die nach etwa zwei Jahren auf null sinkt. Nach dem Telecommunications Consumer Protections Code muss ein Netzbetreiber ein Gerät kostenlos entsperren, sobald eine etwaige Frist erfüllt ist. Abbezahlte Geräte werden meist innerhalb von ein bis zwei Tagen freigeschaltet. Beim iPhone finden Sie den Sperrstatus unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre.
 
-### Soll ich bei Telstra kaufen oder eine Reise-eSIM nutzen?
-Direkt bedeutet ein Netz, vom Netzbetreiber bereitgestellte Provisionierung und eine Reisepass-Identitätsprüfung; im Gegenzug erhalten Sie eine echte australische Nummer und unbegrenzte Inlandsgespräche. Eine Reise-eSIM bedeutet sofortige Bereitstellung, kein Papierkram außer einem Reisepass-Upload, automatisches Wechseln zwischen Telstra, Optus und Vodafone sowie einen festen Vorabpreis. Kurze Reise: Reise-eSIM. Bleiben Sie monatelang in Australien oder brauchen Sie eine lokale Nummer? Gehen Sie direkt zu einem Netzbetreiber.
+### Soll ich bei Telstra kaufen oder ein Reiseprofil nutzen?
+Direkt bedeutet ein Netz, vom Netzbetreiber bereitgestellte Provisionierung und eine Reisepass-Identitätsprüfung; im Gegenzug erhalten Sie eine echte australische Nummer und unbegrenzte Inlandsgespräche. Eine Reiseprofil bedeutet sofortige Bereitstellung, kein Papierkram außer einem Reisepass-Upload, automatisches Wechseln zwischen Telstra, Optus und Vodafone sowie einen festen Vorabpreis. Kurze Reise: Reiseprofil. Bleiben Sie monatelang in Australien oder brauchen Sie eine lokale Nummer? Gehen Sie direkt zu einem Netzbetreiber.
 
-### Kann ich eine Telstra-eSIM und eine Reise-eSIM gleichzeitig nutzen?
+### Kann ich eine Telstra-eSIM und ein Reiseprofil gleichzeitig nutzen?
 Ja, und das ist eine sinnvolle Konfiguration. Lassen Sie Ihre Heimleitung im physischen Slot für Anrufe und Bank-Codes und nutzen Sie die eSIM für australische Daten. Stellen Sie in den Einstellungen die Datenleitung auf die eSIM und behalten Sie die Heimleitung für Anrufe. Zwei Dinge zu beachten: Deaktivieren Sie Roaming auf der Heim-SIM, damit Hintergrundverkehr nicht berechnet wird, und beachten Sie, dass reine Datenprofile keine SMS empfangen können, sodass Bank-Codes weiterhin auf Ihrer Heimatnummer eingehen.
 
-### Welches Netz nutzen Reise-eSIMs außerhalb der Städte?
+### Welches Netz nutzen Reiseprofils außerhalb der Städte?
 
-Die meisten Reise-eSIMs in Australien laufen im Optus-Netz, das an der Küste und in den Städten hervorragend ist, aber über Hunderte von Kilometern entlang der Nullarbor und durch weite Teile des Outback verschwindet, wo nur Telstra hinkommt. An dem Tag, an dem Sie ins Landesinnere fahren, fällt Optus aus und Ihre eSIM mit ihm. Eine Multi-Netz-eSIM, die sich mit Telstra verbinden kann, löst dieses Problem; andernfalls planen Sie fehlende Netzabdeckung ein und führen Sie für Notfälle ein Satellitengerät mit sich.
+Die meisten Reiseprofils in Australien laufen im Optus-Netz, das an der Küste und in den Städten hervorragend ist, aber über Hunderte von Kilometern entlang der Nullarbor und durch weite Teile des Outback verschwindet, wo nur Telstra hinkommt. An dem Tag, an dem Sie ins Landesinnere fahren, fällt Optus aus und Ihre eSIM mit ihm. Eine Multi-Netz-eSIM, die sich mit Telstra verbinden kann, löst dieses Problem; andernfalls planen Sie fehlende Netzabdeckung ein und führen Sie für Notfälle ein Satellitengerät mit sich.
 
 ### Wie aktiviere ich die eSIM Schritt für Schritt?
 
@@ -358,11 +373,11 @@ Arbeiten Sie die vier Australien-spezifischen Muster oben der Reihe nach ab: Spe
 
 ### Was ist eine eSIM eigentlich?
 
-Eine eSIM ist ein im Gerät verbauter Chip, der Netzbetreiberprofile in Software speichert statt auf einer entnehmbaren Karte. Der Netzbetreiber überträgt ein Profil, das Telefon legt es auf dem Chip ab, und die Leitung funktioniert dann wie jede gewöhnliche SIM. Wie die Technik dahinter funktioniert – von SM-DP+-Servern bis zu Einmal-QR-Codes –, lesen Sie unter [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/).
+Eine eSIM ist ein im Gerät verbauter Chip, der Netzbetreiberprofile in Software speichert statt auf einer entnehmbaren Karte. Der Netzbetreiber überträgt ein Profil, das Telefon legt es auf dem Chip ab, und die Leitung funktioniert dann wie jede gewöhnliche SIM. Wie die Technik dahinter funktioniert – von SM-DP+-Servern bis zu Einmal-QR-Codes –, lesen Sie unter eSIM-Aktivierung erklärt.
 
-Weitere Fragen? [Zur vollständigen FAQ](/faq/)
+Offene Fragen zu Ihrer Australien-eSIM? Antworten im [vollständigen FAQ-Index](/faq/).
 
-## Quellen und Daten hinter diesem Vergleich
+## Quellen und Messdaten zu den australischen Netzen
 
 - **Ookla Speedtest Connectivity Report — Australien, Juli bis Dezember 2025** — [öffnen Sie den Bericht pro Netzbetreiber](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025). Jede auf dieser Seite zitierte Netzbetreiberzahl lässt sich darauf zurückführen: Optus' Auszeichnungen als Bestes Mobilfunknetz und Bestes 5G-Netz sowie Vodafones Connectivity Score von 76,09, Speed Score von 61,8, Consistency Score von 86,4, 5G-Verfügbarkeit von 82,5, Video-Streaming-Score von 85,85 und Game Score von 83,35.
 - **Ookla Speedtest Global Index** — [das Australien-Ranking](https://www.speedtest.net/global-index/australia) enthält den nationalen Median des mobilen Downloads, die Latenz-Zahl und die weltweite Platzierung, monatlich aktualisiert.
@@ -374,9 +389,9 @@ Dies sind Messungen Dritter, keine Versprechen. Endgerät, Band und lokale Zella
 
 ## Wählen Sie Ihre Australien-eSIM für Stadt und Outback
 
-Die Australien-eSIM von Roami verbindet sich mit Telstra, Optus und Vodafone und wählt beim Fahren automatisch das stärkste Netz aus, sodass ein Kauf sowohl die Hafenstadt als auch die Pisten des Roten Zentrums abdeckt. Testen Sie die Netze zunächst mit einer [kostenlosen Australien-Test-eSIM](/free-esim/), oder wenden Sie den Code **WEB20** auf einen kostenpflichtigen Tarif an, wenn Sie [Ihre Australien-eSIM auswählen](/australia-esim/).
+Die Australien-SIM von Roami verbindet sich mit Telstra, Optus und Vodafone und wählt beim Fahren automatisch das stärkste Netz aus, sodass ein Kauf sowohl die Hafenstadt als auch die Pisten des Roten Zentrums abdeckt. Testen Sie die Netze zunächst mit einer [kostenlosen Australien-Test-eSIM](/free-esim/), oder wenden Sie den Code **WEB20** auf einen kostenpflichtigen Tarif an, wenn Sie [Ihre Australien-eSIM auswählen](/australia-esim/).
 
-[Zum Australien-eSIM-Datentarif](/australia-esim/)
+Zum Australien-eSIM-Datentarif
 
 *Code WEB20 gilt für den ersten Kauf*
 

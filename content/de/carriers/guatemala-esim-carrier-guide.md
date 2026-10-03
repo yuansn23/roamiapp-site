@@ -3,6 +3,7 @@
 title: "Welche Guatemala eSIM passt zu Ihrer Reiseroute?"
 
 description: "Die Guatemala eSIM im Duell von Claro und Tigo mit Ookla-Messwerten, Passregeln, Preisen und Netzabdeckung von Antigua bis Tikal."
+
 image: "img/esim/carriers/guatemala-esim-carrier-guide.jpg"
 
 date: "2026-09-26T00:25:44+00:00"
@@ -33,8 +34,9 @@ hero_subtitle_main: "Welches Netz bedient Ihre Route — und was die Daten sagen
 
 
 
-
 **Das Urteil vorab:** Die eSIM-Netzbetreiber in Guatemala laufen auf ein direktes Duell hinaus — **Claro** und **Tigo** kontrollieren den gesamten Markt, ohne ein drittes nationales Netz, seit Movistar 2019 in Claro aufging. Die offiziellen Zahlen der Regulierungsbehörde geben Tigo rund **56 % der Mobilfunkanschlüsse** gegenüber 44 % bei Claro, doch Ooklas Bericht für das 2. Halbjahr 2025 spricht fast jede Leistungsauszeichnung Claro zu: ein medianer Download von **81,14 Mbps gegenüber 28,34 bei Tigo**, ein 5G-Median von 409,62 Mbps sowie die besten Werte bei Konsistenz, Video und Gaming ([Ookla](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h2-2025)). Touristen können bei beiden Prepaid-Dienste kaufen — und beide verkaufen eSIMs, Claro sogar self-serve per QR-Code — mit einem **gültigen Reisepass** als einziges gesetzlich verlangtes Dokument. Daten sind zudem mit die günstigsten auf diesem Kontinent: etwa **1,17 USD pro GB**. Wenn Sie lieber schon vor der Einreise online sein möchten, als an einem Schalter anzustehen, starten Sie mit einer [Guatemala Reise-eSIM](/guatemala-esim/) oder testen Sie das Netz mit einer [kostenlosen Test-eSIM](/free-esim/). Der Support erhält jede Woche die gleichen wenigen Fragen zur Guatemala eSIM; diese Seite sammelt die wirklich relevanten — so formuliert, wie Reisende tatsächlich fragen.
+
+
 
 
 
@@ -42,7 +44,11 @@ hero_subtitle_main: "Welches Netz bedient Ihre Route — und was die Daten sagen
 
 
 
+
+
 Die eigentliche Frage lautet nicht „Welcher Netzbetreiber ist der beste“, sondern „Welcher Netzbetreiber ist der beste *dort, wo Sie gerade stehen*“. Beide Netze sind auf die Touristenkorridore ausgerichtet und werden in den Hochland- und Dschungelregionen an unterschiedlichen Stellen dünner. Dieser Ratgeber führt durch den Markt, die Reiseziele (Antigua, Lago de Atitlán, Tikal, Acatenango), die Kaufregeln und die Lösungen, damit Ihre Guatemala eSIM-Entscheidung fünf Minuten dauert statt eines Umwegs in Petén.
+
+
 
 
 
@@ -50,7 +56,11 @@ Die eigentliche Frage lautet nicht „Welcher Netzbetreiber ist der beste“, so
 
 
 
+
+
 Guatemala ist eines der klarsten Duopole Lateinamerikas. Tigo (Millicom) und Claro (América Móvil) teilen sich den Markt, nachdem América Móvil 2019 die lokale Telefónica-Einheit — Movistar — übernommen hat. Die jüngsten offiziellen Zahlen der Superintendencia de Telecomunicaciones (SIT), veröffentlicht auf [der Website der Regulierungsbehörde](https://www.sit.gob.gt/), zählen 20,7 Millionen aktive Mobilfunkanschlüsse: **55,97 % Tigo, 44,03 % Claro** — und 88,35 % aller Anschlüsse sind Prepaid, weshalb der Tourismusmarkt auf Prepaid-Paketen statt Verträgen basiert.
+
+
 
 
 
@@ -60,7 +70,7 @@ Guatemala ist eines der klarsten Duopole Lateinamerikas. Tigo (Millicom) und Cla
 
 | Anteil der Mobilfunkanschlüsse (SIT, Ende 2024) | 44,03 % | **55,97 %** |
 
-| Medianer Download, alle Technologien (2. Halbjahr 2025) | **81,14 Mbps** | 28,34 Mbps |
+| Medianer Download, alle Technologien (2. Halbjahr 2025) | **81,14 Mbps** | 28,34 Mbps |
 
 | Medianer 5G-Download | **409,62 Mbps** | 65,9 Mbps |
 
@@ -72,7 +82,11 @@ Guatemala ist eines der klarsten Duopole Lateinamerikas. Tigo (Millicom) und Cla
 
 
 
+
+
 Zwei Punkte in dieser Tabelle verdienen einen zweiten Blick. Erstens: Claros zweites Halbjahr 2025 war ein Durchmarsch – schnellstes Netz, bestes 5G-Netz, bestes Video (78,71), bestes Gaming (79,62), höchste Konstanz bei 93,6 % und die beste Nutzerbewertung (3,62/5). Zweitens: der Sieg von Tigo ist von anderer Art: Ein größerer Anteil seiner Nutzer ist häufiger in 5G unterwegs (25,6 % Verfügbarkeit gegenüber 8,4 % bei Claro) und betreibt das größere Netz – Claro ist das schnellere Netz, wo Sie es testen können; Tigo ist das weitere Netz, wo sonst nichts hinkommt.
+
+
 
 
 
@@ -80,11 +94,17 @@ Beide rollen seit 2022 5G aus, konzentriert auf Guatemala-Stadt und die Departem
 
 
 
+
+
 ### Warum Claro bei Geschwindigkeit und Qualität gewinnt
 
 
 
+
+
 Claro hat die gesamte Bestenliste des zweiten Halbjahrs 2025 erobert: **81,14 Mbit/s** mittlerer Download gegenüber 28,34 bei Tigo, ein **409,62 Mbit/s** mittlerer 5G-Download sowie die besten Werte bei Video, Gaming, Konstanz und Nutzerbewertung. Die eigene Verbraucherseite von Claro verkauft jetzt Prepaid-Superpacks ab **Q20 für 3,5 GB über 3 Tage** bis hin zu **Q120 für 17 GB über 30 Tage**, und der Netzbetreiber wirbt in allen 22 Departements mit 5G ([Claro Guatemala](https://www.claro.com.gt/personas/)).
+
+
 
 
 
@@ -96,7 +116,9 @@ Claro hat die gesamte Bestenliste des zweiten Halbjahrs 2025 erobert: **81,14 Mb
 
 - **Was schiefgehen kann:** Die Netzabdeckung wird genau dort dünn, wo eine Reise interessant wird. Wenn Sie Claro wegen der Geschwindigkeit kaufen und dann die Hochlandstraße hinter Sololá oder den Dschungelweg nach Lanquín nehmen, sind Sie in einem Netz mit geringerer Reichweite, als Sie angenommen haben.
 
-- **Szenario:** Sie landen auf La Aurora, kaufen ein Claro-Paket in Guatemala-Stadt und führen einen Videoanruf aus Zona 10 ohne Aussetzer. Drei Tage später, in den Hügeln oberhalb des Atitlán-Sees, laden Ihre Kartenausschnitte nicht mehr.
+- **Szenario:** Sie landen auf La Aurora, kaufen ein Claro-Paket in Guatemala-Stadt und führen von Zona 10 aus einen Videoanruf ohne Aussetzer. Drei Tage später, in den Hügeln oberhalb des Atitlán-Sees, laden Ihre Kartenausschnitte nicht mehr.
+
+
 
 
 
@@ -104,7 +126,11 @@ Claro hat die gesamte Bestenliste des zweiten Halbjahrs 2025 erobert: **81,14 Mb
 
 
 
+
+
 Tigo gewinnt ein anderes Duell. Der eigene FY2025-Geschäftsbericht weist **5.593 Mobilfunkstandorte** aus, die **95 % der Bevölkerung mit 2G und 89 % mit 3G/4G** versorgen, und das Unternehmen hält **56 % der Mobilfunkanschlüsse des Landes** gegenüber 44 % bei Claro. Die 5G-Verfügbarkeit liegt mit **25,6 %** rund dreimal so hoch wie die 8,4 % von Claro – das heißt, wenn Tigo 5G sagt, ist tatsächlich ein größerer Anteil seiner Nutzer darin unterwegs.
+
+
 
 
 
@@ -120,11 +146,17 @@ Tigo gewinnt ein anderes Duell. Der eigene FY2025-Geschäftsbericht weist **5.59
 
 
 
+
+
 ### Die in Guatemala tätigen Netzbetreiber
 
 
 
+
+
 Beide Netzbetreiber stellen Reichweitenbehauptungen auf. Der Unterschied liegt darin, was jeder einzelne behauptet.
+
+
 
 
 
@@ -138,7 +170,7 @@ Beide Netzbetreiber stellen Reichweitenbehauptungen auf. Der Unterschied liegt d
 
 | Median 5G-Download | 409,62 Mbps | 65,9 Mbps |
 
-| 5G-Verfügbarkeit | 8.4% | 25.6% |
+| 5G-Verfügbarkeit | 8,4 % | 25,6 % |
 
 | 5G-Abdeckungsanspruch | Alle 22 Departamentos, laut eigener Website | Konzentriert in Guatemala-Stadt und den Departamentos-Hauptstädten |
 
@@ -146,7 +178,11 @@ Beide Netzbetreiber stellen Reichweitenbehauptungen auf. Der Unterschied liegt d
 
 
 
+
+
 Lesen Sie die letzte Zeile zweimal, denn sie ist die ganze Entscheidung. Eine Reise, die nie den Korridor Guatemala-Stadt–Antigua–Atitlán–Flores verlässt, ist eine Claro-Reise. Eine Reise, die den Korridor verlässt – Lanquín, die Cuchumatanes, die stille Hälfte des Sees –, ist eine Tigo-Reise, und eine Reise-eSIM, die jeweils das vorhandene Netz nutzen kann, umgeht die Entscheidung ganz.
+
+
 
 
 
@@ -154,7 +190,9 @@ Lesen Sie die letzte Zeile zweimal, denn sie ist die ganze Entscheidung. Eine Re
 
 
 
-| Ihre Reiseroute | Top-Empfehlung | Warum es überzeugt | Worauf Sie achten sollten |
+
+
+| Ihre Reise | Die richtige Wahl | Stärkster Grund | Mögliche Falle |
 
 |:---|:---|:---|:---|
 
@@ -168,7 +206,7 @@ Lesen Sie die letzte Zeile zweimal, denn sie ist die ganze Entscheidung. Eine Re
 
 | Semuc Champey und Lanquín | Tigo | Das landesweite Netz ist in den ruhigeren Gegenden und beim Aufstieg zu den Becken die sicherere Wahl | Die Schlucht selbst schwächt das Signal unter dem Kalkstein ab |
 
-| Übernachtung am Acatenango | Weder noch, oberhalb des Ausgangspunkts der Wanderung | Am Basislager gibt es keinen Netzstrom und bei jedem Netzbetreiber einen unzuverlässigen Empfang | Informieren Sie jemanden über Ihr Vorhaben; nehmen Sie eine Powerbank mit |
+| Übernachtung am Acatenango | Keins von beiden, oberhalb des Trailheads | Am Basislager gibt es keinen Netzstrom und bei jedem Netzbetreiber einen unzuverlässigen Empfang | Informieren Sie jemanden über Ihr Vorhaben; nehmen Sie eine Powerbank mit |
 
 | Rucksacktourist mit kleinem Budget | Tigo Prepaid | Größte Reichweite pro Quetzal | Die ländlichen Routen, auf denen Sie sie am meisten brauchen, sind auch die, auf denen die günstigen Busse fahren |
 
@@ -176,11 +214,17 @@ Lesen Sie die letzte Zeile zweimal, denn sie ist die ganze Entscheidung. Eine Re
 
 
 
+
+
 ## Die Netzleistung an Guatemalas Reisezielen
 
 
 
+
+
 Ookla veröffentlicht Stadt- und Departements-Mediane, und diese lesen sich wie eine Karte der Touristenpfade — schnell dort, wo sich Touristen sammeln, und langsamer, sobald der Bus die befestigte Route verlässt.
+
+
 
 
 
@@ -202,7 +246,11 @@ Ookla veröffentlicht Stadt- und Departements-Mediane, und diese lesen sich wie 
 
 
 
+
+
 **Antigua.** Das Kopfsteinpflaster-Herz von Antigua erreicht 62,86 Mbps bei 88 % Konstanz, und beide Netzbetreiber behandeln es als prioritären Markt. Sobald Sie jedoch in Richtung Cerro de la Cruz und die umliegenden Hügel wandern, lässt das Signal nach – der Median des Departements liegt 20+ Mbps unter dem der Stadt, und das hat seinen Grund.
+
+
 
 
 
@@ -210,7 +258,11 @@ Ookla veröffentlicht Stadt- und Departements-Mediane, und diese lesen sich wie 
 
 
 
+
+
 **Tikal und Petén.** Petén erreicht 52,51 Mbps bei 91,4 % Konstanz – besser als man für tiefgelegenen Dschungel erwarten würde, da Flores und der Touristengürtel prioritär versorgt werden. Innerhalb des Nationalparks Tikal gibt es Signal am Eingang und im Besucherbereich, aber es begleitet Sie nicht in die Tempelplätze und Dschungelschleifen. Laden Sie die Parkkarte herunter, bevor Sie eintreten; Guides koordinieren sich per WhatsApp vom Eingang aus, nicht aus dem Blätterdach.
+
+
 
 
 
@@ -218,7 +270,11 @@ Ookla veröffentlicht Stadt- und Departements-Mediane, und diese lesen sich wie 
 
 
 
+
+
 **Guatemala City und das Schnellstraßennetz.** Wenn Ihre Route Flughafen → Antigua → Lake Atitlán über die Hauptstraßen führt, sind Sie im am besten versorgten Korridor des Landes; die Schnellstraßen haben 4G über den größten Teil ihrer Länge, das in den östlichen Departements schwächer wird.
+
+
 
 
 
@@ -226,7 +282,11 @@ Ookla veröffentlicht Stadt- und Departements-Mediane, und diese lesen sich wie 
 
 
 
+
+
 **Chichicastenango und das westliche Hochland.** Der Marktort – Markttage sind Donnerstag und Sonntag – hat nutzbares 4G auf dem Platz und entlang der Hauptzufahrt, genau das, was Sie brauchen, um den Wechselkurs zu prüfen und einem Fahrer zu schreiben. Die Lücke liegt nicht am Ziel, sondern auf dem Weg: Die Straße über die Departementsgrenzen taucht immer wieder in Funklöcher ein. Wenn Sie mit dem Shuttle aus Panajachel oder Antigua kommen, sind das ein paar Stunden mit zeitweise unterbrochenem Signal – die richtige Zeit, um Ihre Rückfahrt bereits gespeichert zu haben, anstatt erst bei Ankunft danach zu suchen.
+
+
 
 
 
@@ -234,7 +294,11 @@ Ookla veröffentlicht Stadt- und Departements-Mediane, und diese lesen sich wie 
 
 
 
+
+
 Fast jede Guatemala-Reiseroute ist eine Kette von Shuttles, und das Verkehrsmittel-Angebot des Landes ist ungewöhnlich breit. Zu wissen, in welchem Verkehrsmittel Sie sitzen, sagt Ihnen, wie viel Konnektivität Sie erwarten können.
+
+
 
 
 
@@ -242,7 +306,11 @@ Fast jede Guatemala-Reiseroute ist eine Kette von Shuttles, und das Verkehrsmitt
 
 
 
+
+
 **Chicken Buses** sind das lokale Netz: umlackierte ehemalige US-Schulbusse, die fast jeden Marktort im westlichen Hochland zu einem Bruchteil der Shuttle-Preise erreichen. Hier ist die Konnektivitätsempfehlung am wenigsten relevant und die Sicherheitsempfehlung am wichtigsten – sie sind regelmäßig überladen, und die Strecken im westlichen Hochland haben einen Ruf für Diebstähle, weshalb die übliche Empfehlung für Besucher eine kurze Tagesetappe statt einer langen Fahrt ist.
+
+
 
 
 
@@ -250,7 +318,11 @@ Fast jede Guatemala-Reiseroute ist eine Kette von Shuttles, und das Verkehrsmitt
 
 
 
+
+
 ## Was ein Gigabyte in Guatemala kostet
+
+
 
 
 
@@ -258,7 +330,11 @@ Guatemala gehört zu den günstigeren Datenmärkten des Kontinents, vorausgesetz
 
 
 
+
+
 **Die Passregel ist gesetzlich vorgeschrieben.** Guatemalas Gesetz für mobile Endgeräte, Decreto 8-2013 (Ley de Equipos Terminales Móviles), verwaltet vom [SIT](https://www.sit.gob.gt/), verlangt von jedem SIM-Käufer einen Ausweis; für Ausländer ist dies ausdrücklich ein **gültiger Reisepass**. Der Verkäufer behält drei Jahre lang eine Kopie, und die Aktivierung ist rechtlich an diese Registrierung gebunden. Kein Pass, keine SIM – weshalb Touristen den Schalter auch nicht umgehen können, indem sie eine physische SIM über einen Freund kaufen.
+
+
 
 
 
@@ -266,11 +342,17 @@ Guatemala gehört zu den günstigeren Datenmärkten des Kontinents, vorausgesetz
 
 
 
+
+
 **Der Weg von Tigo: eSIM im Laden.** Tigo unterstützt eSIM, richtet sie aber in einer Tienda Tigo ein – fordern Sie sie am Schalter, legen Sie Ihren Reisepass vor, und das Profil wird dort geladen. Das veröffentlichte Touristenpaket von Tigo ist **Q149 (ca. 19 USD)**: 10 GB, kostenlose Social-Media-Nutzung und 200 Minuten über 30 Tage, plus die Q10-SIM. Eine Regel von Tigo, die Sie kennen sollten, bevor Sie sich anstellen: Ein nicht bei Tigo gekauftes Handy **muss netzbetreiberfrei entsperrt** sein, sonst schlägt die eSIM-Aktivierung fehl.
 
 
 
+
+
 **Claro gegen Tigo, Schritt für Schritt.** Die beiden Wege unterscheiden sich weniger im Preis als darin, wo sie stattfinden.
+
+
 
 
 
@@ -292,7 +374,17 @@ Guatemala gehört zu den günstigeren Datenmärkten des Kontinents, vorausgesetz
 
 
 
+
+
 Der praktische Unterschied ergibt sich aus der Art und Weise, wie das Profil bereitgestellt wird. Das QR-Modell von Claro ermöglicht es Ihnen, den Großteil der Transaktion selbst durchzuführen, was so lange bequem ist, bis etwas schiefläuft. Das Modell von Tigo bedeutet, dass jedes Problem direkt vor dem Personal auftritt, das es beheben kann. Beide Varianten erfordern den Reisepass – es gibt keinen Weg am Decreto 8-2013 vorbei – und beide kosten mehr als eine Guatemala-eSIM aus dem Reise-Sortiment, sobald man die SIM-Gebühr und die Wartezeit am Schalter hinzurechnet.
+
+
+
+
+
+**Was der Schalter konkret von Ihnen verlangt:** Reisepass original (keine Kopie genügt), den das Personal fotografiert — die Kopie bleibt drei Jahre beim Netzbetreiber, das ist Teil des Decreto 8-2013. Dazu die Q5–Q25 für das Starterpaket je nach Kanal, ein Formular mit Ihrer Unterkunftsadresse und wenige Minuten Geduld, bis die Registrierung durch ist. Erst dann wird das Profil freigeschaltet; ohne abgeschlossene Registrierung bleibt jede Leitung tot.
+
+
 
 
 
@@ -300,11 +392,17 @@ Der praktische Unterschied ergibt sich aus der Art und Weise, wie das Profil ber
 
 
 
-**Oder lassen Sie das alles aus.** Eine Reise-eSIM kauft Claro oder Tigo Datenvolumen zum Großhandelspreis und liefert es vor Ihrem Flug als QR-Code: keine Reisepassregistrierung, keine Transaktion am Schalter auf Spanisch, keine bösen Überraschungen mit einem entsperrten Handy im falschen Moment. Für Reisen von ein bis zwei Wochen beträgt der Preisunterschied nur wenige Dollar; siehe die [Guatemala-Tarife](/guatemala-esim/) oder testen Sie das Erlebnis zunächst mit einer [kostenlosen Probephase](/free-esim/).
+
+
+**Oder lassen Sie das alles aus.** Eine Reise-eSIM kauft Claro oder Tigo Datenvolumen zum Großhandelspreis und liefert es vor Ihrem Flug als QR-Code: keine Reisepassregistrierung, keine Transaktion am Schalter auf Spanisch, keine bösen Überraschungen mit einem entsperrten Handy im falschen Moment. Für Reisen von ein bis zwei Wochen beträgt der Preisunterschied nur wenige Dollar; siehe die Guatemala-Tarife oder testen Sie das Erlebnis zunächst kostenlos.
+
+
 
 
 
 ## Die Anbieter im Überblick
+
+
 
 
 
@@ -326,7 +424,11 @@ Der praktische Unterschied ergibt sich aus der Art und Weise, wie das Profil ber
 
 
 
+
+
 Guatemalas Preisumfeld, zur Einordnung: Der nationale Medianwert für mobile Downloads lag im August 2026 bei 63,38 Mbps – weltweit auf Platz 75, jedoch mit einer bemerkenswert guten Latenz von 19 ms – und DataReportal zählt 20,4 Millionen Mobilfunkanschlüsse bei einer Bevölkerung von rund 18 Millionen ([Digital 2025: Guatemala](https://datareportal.com/reports/digital-2025-guatemala)). Dies ist ein günstiger, reifer, von zwei Anbietern dominierter Mobilfunkmarkt. Was er noch nicht ist – zumindest außerhalb der Hauptstadt –, ist ein schneller: Nur Festnetz-Glasfaser (99,61 Mbps im Landesdurchschnitt, wobei Cable Color mit 85,65 Mbps der schnellste ISP ist) übertrifft den mobilen Median von Claro verlässlich. Bei einer einmonatigen Miete ist Festnetz-Internet das Upgrade, das Sie aushandeln sollten; bei allem anderen nutzt Ihre eSIM das Duopol wie alle anderen auch.
+
+
 
 
 
@@ -334,7 +436,9 @@ Guatemalas Preisumfeld, zur Einordnung: Der nationale Medianwert für mobile Dow
 
 
 
-| Option | Was Sie zahlen | Was Sie erhalten | Der Haken |
+
+
+| Wahlmöglichkeit | Kosten | Leistung | Der Nachteil |
 
 |:---|:---|:---|:---|
 
@@ -348,7 +452,17 @@ Guatemalas Preisumfeld, zur Einordnung: Der nationale Medianwert für mobile Dow
 
 
 
-Der Vergleich ist hier enger als in den meisten Ländern, weil die lokalen Daten in Guatemala wirklich günstig sind. Was die Optionen unterscheidet, ist nicht der Preis pro Gigabyte, sondern die Reibung: Bei drei der vier Angebote müssen Sie sich im Land, im Laden und mit Reisepass aufhalten, bevor Sie online sind.
+
+
+Der Vergleich ist hier enger als in den meisten Ländern, weil die lokalen Daten in Guatemala wirklich günstig sind. Was die Optionen unterscheidet, ist nicht der Preis pro Gigabyte, sondern die Reibung: Bei drei der vier Angebote müssen Sie sich im Land, im Laden und mit Reisepass aufweisen, bevor Sie online sind.
+
+
+
+
+
+**Eine konkrete Rechnung für eine zehntägige Reise** mit rund 2 GB pro Tag, also etwa 20 GB: Das Claro-Paket mit 17 GB für Q120 (rund 15 USD) kommt fast hin, müsste aber mit einem Nachkauf ergänzt werden; das Tigo-Touristenpaket liefert 10 GB für Q149 (rund 19 USD) plus Rufnummer. Zusammen kommen etwa Q270 (rund 22 USD) zustande — dazu die Q10-SIM-Gebühr, der Weg in zwei Läden und die Registrierungszeit. Eine Reise-eSIM mit 10 GB für 30 Tage kostet als einmaliger Festpreis etwa dasselbe wie das Tigo-Paket, ohne Schalter und ohne Registrierung, dafür mit weniger Volumen. Die lokalen Tarife gewinnen klar pro Gigabyte; die Reise-Variante kauft sich mit einem Aufpreis von wenigen Dollar die gesparte Halbtagsplanung ein. Wer einen Monat bleibt oder eine +502-Nummer für Lodges und Veranstalter braucht, registriert sich lokal — alles andere spricht für das Profil aus dem Reise-Shop.
+
+
 
 
 
@@ -356,13 +470,19 @@ Der Vergleich ist hier enger als in den meisten Ländern, weil die lokalen Daten
 
 
 
+
+
 Die Bandfrage ist hier einfach. Beide Netzbetreiber betreiben 4G auf den LTE-Bändern 2, 4, 5, 7, 12 und 28, mit 5G auf n41 und n78 – das übliche Nord-und-Südamerika-Spektrum. Daher funktionieren nahezu alle aktuellen entsperrten Handys aus Amerika vollständig, und europäische oder asiatische Geräte verbinden sich problemlos mit 4G. Die beiden echten Fehlerquellen lassen sich bereits zu Hause vermeiden:
 
 
 
-- **Netzbetreiber-Sperre.** Tigo sagt es offen: Ein Handy, das nicht bei Tigo gekauft wurde, muss „liberado“ – entsperrt – sein, bevor eine eSIM aktiviert wird. Ein gesperrtes Telefon ist die häufigste Ursache dafür, dass eine eSIM in Guatemala die Registrierung verweigert. Prüfen Sie Einstellungen → Allgemein → Info → Netzbetreiber-Sperre, oder prüfen Sie Ihr Modell über die [Kompatibilitätsseite](/compatibility/).
 
-- **Dual-SIM-Einrichtung.** Behalten Sie Ihre Heimatleitung aktiv für Bank-Bestätigungscodes und richten Sie die mobile Datenverbindung auf die eSIM aus – das übliche Zwei-Leitungs-Muster. Detailliertes Bandverhalten finden Sie auf der [eSIM-Kompatibilitätsseite](/compatibility/).
+
+- **Netzbetreiber-Sperre.** Tigo sagt es offen: Ein Handy, das nicht bei Tigo gekauft wurde, muss „liberado“ – entsperrt – sein, bevor eine eSIM aktiviert wird. Ein gesperrtes Telefon ist die häufigste Ursache dafür, dass eine eSIM in Guatemala die Registrierung verweigert. Prüfen Sie Einstellungen → Allgemein → Info → Netzbetreiber-Sperre, oder prüfen Sie Ihr Modell auf der Kompatibilitätsseite.
+
+- **Dual-SIM-Einrichtung.** Behalten Sie Ihre Heimatleitung aktiv für Bank-Bestätigungscodes und richten Sie die mobile Datenverbindung auf die eSIM aus – das übliche Zwei-Leitungs-Muster. Detailliertes Bandverhalten und Gerätelisten finden Sie im eSIM-Kompatibilitätscheck.
+
+
 
 
 
@@ -370,11 +490,17 @@ Die Bandfrage ist hier einfach. Beide Netzbetreiber betreiben 4G auf den LTE-Bä
 
 
 
+
+
 Bei beiden guatemaltekischen Netzbetreibern sowie bei jeder für das Land erstellten Reise-eSIM wird der Zugangspunkt automatisch auf das Gerät übertragen, sobald sich das Profil verbindet. Daher veröffentlicht dieser Leitfaden keinen Claro- oder Tigo-APN-String: Für die Produkte, die ein Besucher kauft, muss man nichts eintippen, und etwas einzutippen ist meist der Grund, warum eine funktionierende Verbindung nicht mehr funktioniert.
 
 
 
+
+
 **Die wenigen Fälle, in denen eine manuelle Eingabe trotzdem hilft:**
+
+
 
 
 
@@ -386,11 +512,17 @@ Bei beiden guatemaltekischen Netzbetreibern sowie bei jeder für das Land erstel
 
 
 
+
+
 In all diesen Fällen holen Sie den Wert vom Schalter oder von Ihrem eSIM-Anbieter – eine aus einem Forum übernommene Zahl ist geraten.
 
 
 
+
+
 **Die beiden Menüpfade:**
+
+
 
 
 
@@ -400,7 +532,11 @@ In all diesen Fällen holen Sie den Wert vom Schalter oder von Ihrem eSIM-Anbiet
 
 
 
+
+
 Speichern, neu starten und dann prüfen, ob die eSIM – und nicht Ihre Heim-SIM – die Leitung ist, die mobile Daten überträgt.
+
+
 
 
 
@@ -408,7 +544,11 @@ Speichern, neu starten und dann prüfen, ob die eSIM – und nicht Ihre Heim-SIM
 
 
 
-Installieren Sie Ihre Guatemala eSIM vor dem Flug: QR-Codes lassen sich gut im Flugzeug-WLAN scannen, aber es gibt keinen Grund, die Bandbreite bei der Ankunft in La Aurora aufs Spiel zu setzen. Die allgemeine Installationsreihenfolge finden Sie in unserem [Schritt-für-Schritt-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/) und die technischen Hintergründe in [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/). Guatemala-spezifische Hinweise:
+
+
+Installieren Sie Ihre Guatemala eSIM vor dem Flug: QR-Codes lassen sich gut im Flugzeug-WLAN scannen, aber es gibt keinen Grund, die Bandbreite bei der Ankunft in La Aurora aufs Spiel zu setzen. Die allgemeine Installationsreihenfolge finden Sie in unserem [Schritt-für-Schritt-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/) und die technischen Hintergründe im Artikel [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/). Guatemala-spezifische Hinweise:
+
+
 
 
 
@@ -420,11 +560,17 @@ Installieren Sie Ihre Guatemala eSIM vor dem Flug: QR-Codes lassen sich gut im F
 
 
 
+
+
 Wenn nach einer sauberen Installation keine Datenverbindung zustande kommt, gehen Sie die Standardabfolge durch – Roaming-Schalter, Datenleitungsauswahl, Neustart – und dann die netzwerkseitigen Lösungen in unserer [Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/). Ein Guatemala-spezifisches Muster: „Kein Dienst“ im Hochland oberhalb von Sololá oder im Inneren von Petén liegt meist an der Geografie, nicht an den Einstellungen. Die APN-Werte in Guatemala werden sowohl bei Produkten der beiden Netzbetreiber als auch bei Reise-eSIMs automatisch bereitgestellt; manuelle Änderungen sind das letzte Mittel und häufiger die Ursache von Problemen als deren Lösung.
 
 
 
+
+
 ### Installation Ihrer Guatemala-eSIM
+
+
 
 
 
@@ -434,7 +580,7 @@ Wenn nach einer sauberen Installation keine Datenverbindung zustande kommt, gehe
 
 | 1 | Das Telefon ist netzbetreiberfrei | Einstellungen → Allgemein → Info → Netzbetreiber-Sperre zeigt „Keine SIM-Einschränkungen“ an — Tigo erfordert dies ausdrücklich |
 
-| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder die [Geräteliste](/compatibility/) bestätigt Ihr Modell |
+| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder die Geräteliste unter „Kompatibilität“ führt Ihr Modell |
 
 | 3 | QR-Code gespeichert | Screenshot in der Handy-Galerie und im Cloud-Speicher |
 
@@ -446,11 +592,17 @@ Wenn nach einer sauberen Installation keine Datenverbindung zustande kommt, gehe
 
 
 
+
+
 ### Wie jedes Profil bei Ihnen ankommt
 
 
 
-Unsere [Aktivierungsanleitung](/faq/how-to-activate-an-esim/) behandelt die allgemeinen Schritte einmal; was sich in Guatemala von Netzbetreiber zu Netzbetreiber unterscheidet, ist die Auslieferung selbst.
+
+
+Unsere Aktivierungsanleitung behandelt die allgemeinen Schritte einmal; was sich in Guatemala von Netzbetreiber zu Netzbetreiber unterscheidet, ist die Auslieferung selbst.
+
+
 
 
 
@@ -462,7 +614,11 @@ Unsere [Aktivierungsanleitung](/faq/how-to-activate-an-esim/) behandelt die allg
 
 
 
+
+
 ### Fünf Fehlerbilder und ihre Lösungen
+
+
 
 
 
@@ -470,7 +626,9 @@ Für den umfassenden Katalog — ein Profil, das sich nicht herunterladen lässt
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+
+
+**A. Das Profil lässt sich nicht auf das Telefon schreiben**
 
 1. Lesen Sie zuerst den Abschnitt zur Netzbetreiber-Sperre; in diesem Markt ist ein gesperrtes Gerät die häufigste Ursache.
 
@@ -480,13 +638,17 @@ Für den umfassenden Katalog — ein Profil, das sich nicht herunterladen lässt
 
 
 
-**B. Installiert, aber keine Signalbalken**
+
+
+**B. Profil steht, doch kein Empfang im Netz von Claro oder Tigo**
 
 1. Prüfen Sie den Lock erneut und starten Sie das Telefon neu.
 
 2. Einstellungen → Mobilfunk → Netzwerkauswahl → Claro oder Tigo manuell auswählen.
 
 3. Netzwerkeinstellungen zurücksetzen und neu starten.
+
+
 
 
 
@@ -500,15 +662,19 @@ Für den umfassenden Katalog — ein Profil, das sich nicht herunterladen lässt
 
 
 
-**D. „SOS“ oder „Nur Notrufe“**
+
+
+**D. Nur Notrufe trotz voller Claro- und Tigo-Abdeckung**
 
 1. Vergewissern Sie sich, dass die eSIM im SIM-Manager eingeschaltet ist.
 
 2. Entfernen Sie alle konkurrierenden Profile vom Telefon.
 
-3. Starten Sie neu und setzen Sie dann die Netzwerkeinstellungen zurück.
+3. Gerät neu starten und danach die Netzwerkkonfiguration zurücksetzen.
 
 4. Wenn das Problem weiterhin besteht, löschen Sie das Profil und installieren Sie es mit einem neuen QR-Code erneut.
+
+
 
 
 
@@ -522,7 +688,11 @@ Für den umfassenden Katalog — ein Profil, das sich nicht herunterladen lässt
 
 
 
+
+
 ### Halten Sie diese Angaben bereit
+
+
 
 
 
@@ -530,19 +700,21 @@ Für den umfassenden Katalog — ein Profil, das sich nicht herunterladen lässt
 
 |:---|:---|
 
-| Bestell- oder Kontoreferenz | Bestätigungs-E-Mail |
+| Bestell- oder Kontokennung | Bestätigungsnachricht des Anbieters |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Handy-Modell und iOS-/Android-Stand | Einstellungen → Über das Telefon |
 
 | EID | `*#06#` |
 
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Ablichtung der Fehlermeldung | Direkt im Fehlerdialog aufnehmen, solange er offen ist |
 
 | Aktuelle APN- und Datenleitungseinstellungen | Einstellungen → Mobiles Datennetzwerk |
 
 | Netzbetreiber und Ort, an dem der Fehler auftrat | Notieren Sie die Uhrzeit und den Netznamen |
 
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Getestete Schritte | Drei Punkte genügen |
+
+
 
 
 
@@ -550,7 +722,11 @@ Für den umfassenden Katalog — ein Profil, das sich nicht herunterladen lässt
 
 
 
+
+
 Guatemala ist das Scharnier Mittelamerikas, und drei Überlandausgänge liegen auf der üblichen Reiseroute. Jeder hat einen anderen Charakter und einen anderen Datentarif.
+
+
 
 
 
@@ -558,7 +734,11 @@ Guatemala ist das Scharnier Mittelamerikas, und drei Überlandausgänge liegen a
 
 
 
+
+
 **Nach Belize — Melchor de Mencos / Benque Viejo del Carmen.** Der natürliche Ausgang, wenn Petén das Ende Ihrer Route ist, und der Grenzübergang, den der Überlandverkehr Cancún–Tikal nutzt. Er ist unkompliziert, und das Busnetz auf der guatemaltekischen Seite verbindet ihn mit Flores und Santa Elena.
+
+
 
 
 
@@ -566,7 +746,11 @@ Guatemala ist das Scharnier Mittelamerikas, und drei Überlandausgänge liegen a
 
 
 
+
+
 Drei Regeln für alle:
+
+
 
 
 
@@ -578,7 +762,11 @@ Drei Regeln für alle:
 
 
 
+
+
 ## Alltagskonnektivität von Ride-Hailing bis Hotel-WLAN
+
+
 
 
 
@@ -586,7 +774,11 @@ Drei praktische Details entscheiden, wie viel von Ihrem eSIM-Datenvolumen Sie ta
 
 
 
+
+
 ### Fortbewegung in Guatemala mit einer Ride-Hailing-App
+
+
 
 
 
@@ -594,7 +786,11 @@ Ubers guatemaltekische Seite ist live, und der veröffentlichte Städteindex umf
 
 
 
+
+
 Zwei Gewohnheiten machen App-Hailing hier funktionsfähig. Erstens: Prüfen Sie den Abholort, bevor Sie sich festlegen — das Angebot ist außerhalb der Hauptstadt knapp genug, dass 20 Minuten Wartezeit normal sind und eine stornierte Fahrt keine Seltenheit ist. Zweitens: Tragen Sie Bargeld bei sich, da eine Kartenzahlung nicht garantiert ist. Tuk-Tuks füllen die Lücke in kleinen Städten und rund um den Atitlán-See, und sie funktionieren eher nach Verhandlung als per App: Einigen Sie sich auf den Preis, bevor Sie einsteigen.
+
+
 
 
 
@@ -602,7 +798,11 @@ Zwei Gewohnheiten machen App-Hailing hier funktionsfähig. Erstens: Prüfen Sie 
 
 
 
+
+
 Die WLAN-Qualität folgt derselben Geografie wie die mobile Netzabdeckung. Hotels in Guatemala-Stadt und Antigua haben gewöhnliche Business-Verbindungen, Panajachel ist solide, und je weiter Sie gehen — Semuc Champey, das Ixil-Dreieck, tiefes Petén — desto wahrscheinlicher finden Sie eine Verbindung, die Nachrichten, aber keinen Videoanruf bewältigt. Wenn Sie von einer Ferienwohnung am See aus arbeiten möchten, prüfen Sie das WLAN der Unterkunft, bevor Sie buchen, und behandeln Sie Ihre eSIM als Backup, nicht als Hauptverbindung.
+
+
 
 
 
@@ -610,11 +810,17 @@ Die WLAN-Qualität folgt derselben Geografie wie die mobile Netzabdeckung. Hotel
 
 
 
+
+
 Die Acatenango-Übernachtung ist der klarste Fall im Land für eine Tour, bei der Ihre eSIM an einem vorhersehbaren Punkt aufhört, nützlich zu sein. Der Trailhead und die unteren Hänge sind von mindestens einem Netzwerk erreichbar; das Basislager liegt auf etwa **3.600 m** und hat **keinen Netzstrom und kein fließendes Wasser**, sodass das Laden an Ihnen liegt. Der Empfang dort oben ist bei jedem Netzbetreiber unzuverlässig — die eigenen Beschreibungen der Betreiber sagen das auch.
 
 
 
+
+
 Was stattdessen zu tun ist:
+
+
 
 
 
@@ -626,7 +832,11 @@ Was stattdessen zu tun ist:
 
 
 
+
+
 ## Ihre Fragen zur eSIM für Guatemala
+
+
 
 
 
@@ -634,7 +844,11 @@ Was stattdessen zu tun ist:
 
 
 
+
+
 Ja. Claro verkauft eine eSIM Prepago, aktiviert über einen eindeutigen QR-Code, erhältlich in Claro-Filialen und bei Händlern. Bringen Sie Ihren gültigen Reisepass mit — das Gesetz verlangt eine Registrierung vor der Aktivierung — und rechnen Sie mit etwa Q55–80 für ein Starter-Datenpaket.
+
+
 
 
 
@@ -642,7 +856,11 @@ Ja. Claro verkauft eine eSIM Prepago, aktiviert über einen eindeutigen QR-Code,
 
 
 
+
+
 Bei der Reichweite Tigo — die eigene Meldung beansprucht 95 % Bevölkerungsabdeckung und hält mehr vom ländlichen Netz. Bei Geschwindigkeit und Qualität, wo beide vorhanden sind, hat Claro die Auszeichnungen von Ookla für das 2. Halbjahr 2025 abgeräumt: 81,14 Mbps im Median gegen Tigos 28,34, sowie beste Konsistenz, Video, Gaming und Nutzerbewertung.
+
+
 
 
 
@@ -650,7 +868,11 @@ Bei der Reichweite Tigo — die eigene Meldung beansprucht 95 % Bevölkerungsabd
 
 
 
+
+
 Nein. Das Gesetz, das die SIM-Registrierung regelt — Decreto 8-2013 — nennt den gültigen Reisepass als Ausweisdokument für Ausländer. Ein DPI ist nur für Postpaid-Verträge und aufenthaltsbezogene Formalitäten erforderlich.
+
+
 
 
 
@@ -658,7 +880,11 @@ Nein. Das Gesetz, das die SIM-Registrierung regelt — Decreto 8-2013 — nennt 
 
 
 
+
+
 Eines der günstigsten der Welt: etwa 1,17 USD pro GB, Platz 109 von 237 Märkten, die Cable.co.uk verfolgt, gegen einen globalen Durchschnitt von 2,59 USD. Touristenpakete kosten Q80–150 für 8–10 GB über 30 Tage bei beiden Netzbetreibern.
+
+
 
 
 
@@ -666,7 +892,11 @@ Eines der günstigsten der Welt: etwa 1,17 USD pro GB, Platz 109 von 237 Märkte
 
 
 
+
+
 Auf der Flores-Seite und am Parkeingang, ja — der Median in Petén liegt bei 52,51 Mbps mit starker Konsistenz. Tief im Inneren der archäologischen Stätte ist nach dem Besucherbereich kein Empfang zu erwarten. Laden Sie den Parkplan herunter und klären Sie die Abholung, bevor Sie hineingehen.
+
+
 
 
 
@@ -674,7 +904,11 @@ Auf der Flores-Seite und am Parkeingang, ja — der Median in Petén liegt bei 5
 
 
 
+
+
 An den unteren Hängen und bei den Basislagern, normalerweise ja — mindestens ein Netz hat Signal an den Übernachtungsplätzen. Darüber erreicht kein Netzbetreiber mehr. Geben Sie Ihr Vorhaben vor dem Aufstieg bekannt und behandeln Sie den Gipfel als Offline-Zeit.
+
+
 
 
 
@@ -682,7 +916,11 @@ An den unteren Hängen und bei den Basislagern, normalerweise ja — mindestens 
 
 
 
+
+
 Nein, aber es ist der schwächste Korridor auf der touristischen Route (Median im Departamento Sololá 36,48 Mbps). Orte wie Panajachel, San Pedro und San Marcos haben solides 4G innerorts; das Wasser, die Boote und die Wege zwischen den Dörfern sind lückenhaft. Prüfen Sie das WLAN jeder Ferienwohnung, bevor Sie einen Remote-Work-Aufenthalt buchen.
+
+
 
 
 
@@ -690,7 +928,11 @@ Nein, aber es ist der schwächste Korridor auf der touristischen Route (Median i
 
 
 
+
+
 Ja — WhatsApp ist an Ihr Konto gebunden, nicht an Ihre SIM. Behalten Sie Ihre Heim-SIM im Telefon für SMS-Codes, nutzen Sie Daten über die eSIM, und jede Tour-Operator, jeder Shuttle-Fahrer und jedes Hotel in Guatemala erreicht Sie genau so, wie sie es erwarten.
+
+
 
 
 
@@ -698,7 +940,11 @@ Ja — WhatsApp ist an Ihr Konto gebunden, nicht an Ihre SIM. Behalten Sie Ihre 
 
 
 
-Eine reine Guatemala-eSIM endet ohne Warnung an der Grenze. Für die Weiterreise pflegt Roami einen [Mexiko-Ratgeber](/carriers/mexico-esim-carrier-guide/) und, weiter südlich, einen vollständigen [Costa-Rica-Ratgeber](/carriers/costa-rica-esim-carrier-guide/) — oder wählen Sie einen Mehrländertarif, wenn Ihre Route mehr als eine Grenze kreuzt.
+
+
+Eine reine Guatemala-eSIM endet ohne Warnung an der Grenze. Für die Weiterreise pflegt Roami einen [Ratgeber für Mexiko](/carriers/mexico-esim-carrier-guide/) und, weiter südlich, einen vollständigen [Guide zu Costa Rica](/carriers/costa-rica-esim-carrier-guide/) — oder wählen Sie einen Mehrländertarif, wenn Ihre Route mehr als eine Grenze kreuzt.
+
+
 
 
 
@@ -706,7 +952,11 @@ Eine reine Guatemala-eSIM endet ohne Warnung an der Grenze. Für die Weiterreise
 
 
 
+
+
 Ja. Datenroaming muss auf der eSIM-Leitung aktiviert bleiben, damit sie sich im lokalen Netz einbucht — das ist bei jeder Reise-eSIM normal und kostet nichts extra, da Ihr Tarif das Volumen enthält, das Sie gekauft haben. Halten Sie Roaming auf Ihrer Heim-SIM aus, um deren internationale Tarife zu vermeiden.
+
+
 
 
 
@@ -714,7 +964,11 @@ Ja. Datenroaming muss auf der eSIM-Leitung aktiviert bleiben, damit sie sich im 
 
 
 
+
+
 Tigo, in der Praxis. Der Median in Petén liegt bei 52,51 Mbps mit 91,4 % Konsistenz, und das größere Netz von Tigo ist dasjenige, das bis zum Parkeingang und in das Gebiet Flores / Santa Elena reicht. Was keiner der beiden Netzbetreiber tut, ist Ihnen in die Ruinen zu folgen: Hinter dem Besucherbereich schließt sich das Blätterdach und der Empfang verschwindet mit ihm. Laden Sie den Parkplan herunter, bevor Sie hineingehen.
+
+
 
 
 
@@ -722,7 +976,11 @@ Tigo, in der Praxis. Der Median in Petén liegt bei 52,51 Mbps mit 91,4 % Konsis
 
 
 
+
+
 Ja — eine Reise-eSIM erfordert gar keinen Ausweis, da es keine guatemaltekische Leitung ist. Es ist ein Roaming-Datenprofil, das sich bei Claro oder Tigo einbucht, daher gilt die Reisepassregel nach Decreto 8-2013 für SIMs und eSIMs, die direkt bei den Netzbetreibern gekauft werden, nicht für Reise-eSIMs. Der Kompromiss ist, dass Sie Daten statt einer +502-Nummer erhalten.
+
+
 
 
 
@@ -730,7 +988,11 @@ Ja — eine Reise-eSIM erfordert gar keinen Ausweis, da es keine guatemaltekisch
 
 
 
+
+
 Ja. Ubers guatemaltekische Seite ist live, und der veröffentlichte Städteindex listet Guatemala-Stadt, Quetzaltenango, Escuintla und Guastatoya auf, wobei Antigua in der Praxis üblicherweise bedient wird. Das Angebot außerhalb dieser Städte ist knapp genug, dass Sie die App prüfen sollten, bevor Sie auf eine Fahrt zählen, und **inDrive** — wo Sie einen Preis vorschlagen und Fahrer kontern — ist die übliche Alternative. Beide brauchen Daten, was ein weiterer Grund ist, mit bereits aktivierter eSIM anzukommen.
+
+
 
 
 
@@ -738,11 +1000,17 @@ Ja. Ubers guatemaltekische Seite ist live, und der veröffentlichte Städteindex
 
 
 
+
+
 Ein reines Guatemala-Profil stoppt an der Grenze. Da Guatemala Teil der CA-4-Gruppe mit El Salvador, Honduras und Nicaragua ist, läuft Ihr Einreisestempel über diese Grenzen hinweg weiter — Ihre Daten jedoch nicht. Wenn Ihre Route auch nur eine Grenze kreuzt, kaufen Sie einen Tarif, der jedes Land auflistet, oder besorgen Sie sich vor Ort einen neuen Dienst.
 
 
 
-## Quellen und Einschränkungen
+
+
+## So sind die Zahlen dieses Ratgebers belegt
+
+
 
 
 
@@ -770,7 +1038,11 @@ Ein reines Guatemala-Profil stoppt an der Grenze. Da Guatemala Teil der CA-4-Gru
 
 
 
+
+
 Nichts auf dieser Seite ist unsere eigene Felderprobung — es sind Drittanbieter-Messungen. Ihr Gerät, Ihre genaue Position und die Auslastung der nächsten Zelle entscheiden, was Sie tatsächlich bekommen.
+
+
 
 
 
@@ -778,7 +1050,11 @@ Nichts auf dieser Seite ist unsere eigene Felderprobung — es sind Drittanbiete
 
 
 
-Installieren Sie Ihre Guatemala eSIM einmal zu Hause und das Profil bucht sich bei Claro oder Tigo ein, sobald Sie La Aurora passiert haben — keine Schlangen am Schalter, keine Passkopie, kein Spanisch am Tresen nötig. Möchten Sie es vorher testen? Eine [kostenlose Guatemala-Test-eSIM](/free-esim/) macht das, oder gehen Sie direkt zu [Guatemala eSIM-Tarifen](/guatemala-esim/).
+
+
+Installieren Sie Ihre Guatemala eSIM einmal zu Hause und das Profil bucht sich bei Claro oder Tigo ein, sobald Sie La Aurora passiert haben — keine Schlangen am Schalter, keine Passkopie, kein Spanisch am Tresen nötig. Möchten Sie es vorher testen? Eine kostenlose Roami-Testversion macht das, oder Sie wählen direkt einen Roami-Tarif für Guatemala aus der Tarifübersicht.
+
+
 
 
 
@@ -786,7 +1062,11 @@ Installieren Sie Ihre Guatemala eSIM einmal zu Hause und das Profil bucht sich b
 
 
 
+
+
 *Nur für Erstkunden*
+
+
 
 
 
@@ -794,5 +1074,7 @@ Installieren Sie Ihre Guatemala eSIM einmal zu Hause und das Profil bucht sich b
 
 
 
-So oder so: richten Sie alles noch vor der Abreise ein: Führen Sie den [Kompatibilitätscheck](/compatibility/) auf Ihrem Telefon aus, testen Sie die Roami [Testversion der eSIM](/free-esim/) und geben Sie **WEB20** beim Checkout ein, falls Sie auf einen vollständigen Roami Tarif für Guatemala upgraden.
+
+
+So oder so: richten Sie alles noch vor der Abreise ein: Führen Sie den Kompatibilitätscheck auf Ihrem Telefon aus, probieren Sie die Roami-Test-eSIM aus und geben Sie **WEB20** beim Checkout ein, falls Sie auf einen vollständigen Roami-Tarif für Guatemala upgraden.
 

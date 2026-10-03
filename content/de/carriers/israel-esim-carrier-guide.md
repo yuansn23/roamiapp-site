@@ -1,9 +1,9 @@
 ---
-title: "Israel-eSIM-Netzbetreiber: Cellcom, Pelephone und Schabbat"
-description: "Roami vergleicht die israelischen eSIM-Netzbetreiber Cellcom, Partner und HOT Mobile, damit Ihre Israelreise Schlangen am Flughafen und Schabbat-Schließungen überspringt."
+title: "Israel eSIM-Netzbetreiber: Cellcom, Pelephone, Hot"
+description: "Israel eSIM im Vergleich: Cellcom, Partner und HOT Mobile nach Abdeckung, Preisen und den Schabbat-Regeln für Ihre Reise."
 image: "img/esim/carriers/israel-esim-carrier-guide.jpg"
 date: "2026-09-25T21:00:41+00:00"
-keywords: Israel eSIM carriers, Israel eSIM, travel eSIM Israel, Cellcom eSIM, Partner eSIM, Pelephone, HOT Mobile, Israel mobile operators, eSIM for tourists Israel, avoid roaming fees Israel, instant eSIM Israel, Dead Sea eSIM, Jerusalem eSIM
+keywords: Israel eSIM, Israel eSIM-Netzbetreiber, Reise-eSIM Israel, Cellcom eSIM, Partner eSIM, Pelephone, HOT Mobile, israelische Mobilfunkanbieter, eSIM für Touristen Israel, Roaming-Gebühren Israel vermeiden, sofortige eSIM Israel, Jerusalem eSIM
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -18,13 +18,13 @@ hero_subtitle_main: "Was die Konnektivität tatsächlich unterbricht, sind Büro
 
 Eine Israel-eSIM fällt selten wegen der Entfernung aus – die Netzabdeckung ist ein gelöstes Problem – und dieser Leitfaden behandelt die tatsächlichen Offline-Auslöser, von den Schabbat-Stunden bis zur langsamen Passregistrierung. Israel ist etwa so groß wie New Jersey, und 91,1 % seiner Bevölkerung sind online. Die Netzabdeckung ist faktisch ein gelöstes Problem: Vier nationale Netze überziehen die Küstenebene, die Hügel Jerusalems, die Galiläa-Region und die Straßenkorridore durch die Negev-Wüste. Und doch sind Reisende hier immer wieder offline, und so gut wie nie wegen der Entfernung. Sie sind offline, weil der Schalter am Flughafen wegen Schabbat geschlossen war, weil ihre Passregistrierung länger dauerte als die Verbindung, die sie erreichen mussten, oder weil sie annahmen, ein Tarif, der in Tel Aviv funktioniert, begleite sie über die Allenby-Brücke. Dieser Leitfaden ist um diese Realität herum aufgebaut – zuerst die Karte, dann die Netzbetreiber, dann die Reiseroute, dann das Kleingedruckte, das tatsächlich entscheidet, ob Ihre Israel-eSIM die gesamte Reise versorgt. Wo Israels Netzbetreiber der Werbung widersprechen, sagen wir es offen – der Abschnitt zur Registrierung enthält das Kleingedruckte, das tatsächlich zuschlägt.
 
-**Schnelle Antwort:** Cellcom gewinnt das Argument um die Netzabdeckung in Israel, Partner gewinnt beim günstigen Datenvolumen – die Tabellen unten klären die Details. Sie können die Einrichtung im Israel-Netz auch kostenlos testen – Roami's [Test-eSIM anfordern](/free-esim/) deckt das ab.
+**Schnelle Antwort:** Cellcom gewinnt das Argument um die Netzabdeckung in Israel, Partner gewinnt beim günstigen Datenvolumen – die Tabellen unten klären die Details. Sie können die Einrichtung im Israel-Netz auch kostenlos testen – die kostenlose Test-eSIM von Roami deckt das ab.
 
 Wenn Sie noch nicht bestätigt haben, dass Ihr Gerät überhaupt eine digitale SIM unterstützt, prüfen Sie es zuerst mit unserem [Kompatibilitäts-Checker](/compatibility/). Alles Weitere auf dieser Seite setzt ein kompatibles, entsperrtes Handy voraus.
 
 **Die 30-Sekunden-Version:** Der israelische Mobilfunkmarkt ist einer der günstigsten weltweit – die Cable.co.uk-Erhebung 2026 beziffert ein durchschnittliches Gigabyte auf **0,02 USD**, Platz 1 von 237 Märkten – daher ist die lokale Infrastruktur ausgezeichnet und der Wettbewerb hart. Vier Netzbetreiber teilen sich das Land: Cellcom, Partner, Pelephone und HOT Mobile. Cellcom ist der größte und in den Städten stark; Pelephone hat einen langen Ruf dafür, im Süden und in der Peripherie das Signal zu halten. Touristen können am Flughafen Ben Gurion mit einem Reisepass eine physische SIM kaufen, aber diese Schalter sind über Schabbat geschlossen, von Freitagnachmittag bis Samstagabend, und teurer als ein vorheriger Online-Kauf. Eine vor dem Flug installierte Reise-eSIM umgeht all das: [Roami's Israel-Tarife](/israel-esim/) aktivieren sich bei der Landung, und Sie können [den Dienst kostenlos testen](/free-esim/), bevor Sie bezahlen.
 
-## ID-Anforderungen für SIM-Käufe
+## Wo Israels Netze stark sind – und wo sie enden
 
 Beginnen wir mit der Geografie, denn sie erklärt, welche Art von Problem Konnektivität hier ist. Fahren Sie von Haifa nach Beersheba – durch die Länge des besiedelten Landes – und Sie verbringen die gesamte Fahrt auf einem Autobahnkorridor mit durchgängigem Signal. Israels Bevölkerung konzentriert sich auf einen schmalen Streifen zwischen dem Mittelmeer und den Hügeln Samarias, und alle vier Netze konkurrieren genau dort am stärksten, was die Netzabdeckung entlang jeder verkehrsreichen Straße nach außen drückt.
 
@@ -59,13 +59,13 @@ Israels Marktstruktur — vier Netze, eine Vielzahl virtueller Betreiber, vom Re
 
 Israels Tarif **Prepaid Tourist** von Cellcom ist das Highlight: **₪99 für 30 Tage mit 120 GB Datenvolumen**, unbegrenzte Inlandsgespräche und SMS, eSIM-Unterstützung, sodass er schon vor der Landung aktiviert werden kann, und es wird außer einem Reisepass nichts benötigt — keine israelische ID, keine lokale Adresse, keine Bonitätsprüfung. Das sind rund US$27 für einen Monat intensiver Nutzung, gemäß [dem vom Anbieter veröffentlichten Touristentarif, der von Israel iPhone Plans erfasst wird](https://israeliphoneplans.com/blog/israel-tourist-sim-card-guide/), auf dem landesweit größten 4G-Netz mit rund 2,8 Millionen Teilnehmern.
 
-| Tarif | Datenvolumen | Laufzeit | Preis | Hinweise |
+| Paket | Volumen | Gültigkeit | Preis | Anmerkung |
 |:---|:---|:---|:---|:---|
 | Prepaid Touristenkarte | 120 GB | 30 Tage | ₪99 (~27 US$) | Unbegrenzte lokale Anrufe + SMS; eSIM unterstützt; nur Reisepass erforderlich |
 | Unlimited 69 (5G-Tarif) | 3 GB Hochgeschwindigkeit | 30 Tage | ₪69 (~US$19) | 5G-Zugang; unbegrenzte Anrufe und SMS |
 | Unbegrenzt 100 | 100 GB | 30 Tage | ₪99 (~US$27) | 5G-Zugang; 50 internationale Gesprächsminuten |
 
-Für eine标准 ein bis zwei Wochen dauernde Reise ist die Prepaid-Tourist-Option im besten Sinne überdimensioniert: 120 GB stehen einem realistischen touristischen Verbrauch von 1 GB pro Tag gegenüber, sodass der Tarif den Reiseplan überdauert und sogar noch Kapazität für einen Laptop als Hotspot übrig bleibt.
+Für eine ein- bis zweiwöchige Reise ist die Prepaid-Tourist-Option im besten Sinne überdimensioniert: 120 GB stehen einem realistischen touristischen Verbrauch von 1 GB pro Tag gegenüber, sodass der Tarif den Reiseplan überdauert und sogar noch Kapazität für einen Laptop als Hotspot übrig bleibt.
 
 **Eine Cellcom-Touristentarif kaufen, Schritt für Schritt:**
 
@@ -112,7 +112,7 @@ Israel-Reiserouten sind bemerkenswert einheitlich – die meisten Besucher legen
 
 | Reisezwischenstopp | Was Sie erwartet | Das tatsächliche Risiko |
 |:---|:---|:---|
-| Tel Aviv und die Küste ─ | Der am besten vernetzte Stadtabschnitt des Landes; jedes Netz ist schnell und dicht ausgebaut ─ | Überlastung am Strand an Sommerwochenenden ─ |
+| Tel Aviv und die Küste | Der am besten vernetzte Stadtabschnitt des Landes; jedes Netz ist schnell und dicht ausgebaut | Überlastung am Strand an Sommerwochenenden |
 | Jerusalem, einschließlich der Altstadt | Starkes Signal in der gesamten Stadt; die steinernen Gassen der Altstadt schwächen den Empfang in Innenräumen | Foto-Uploads aus Kirchen und dem Souk |
 | Totes Meer und Masada | Guter Empfang entlang der Highway 90 und an den Hauptsehenswürdigkeiten | Seitliche Wadis und die östliche Abbruchkante fallen heraus |
 | Negev und Mitzpe Ramon | Zuverlässig in der Stadt und auf der Route 40; der Kraterrand ist ein lokaler Funkloch | Lange Lücken auf Wüstenautobahnen zwischen den Ortschaften |
@@ -122,7 +122,7 @@ Israel-Reiserouten sind bemerkenswert einheitlich – die meisten Besucher legen
 
 Insgesamt betrachtet, sagt die Tabelle etwas Nützliches: Auf einer typischen Israelreise sind die Orte, an denen Sie tatsächlich stehen werden, fast alle abgedeckt. Die Risikospalte bezieht sich auf die Randbereiche – den Moment, in dem Sie die Stätte, die Straße oder die Stadt verlassen. Genau deshalb zahlt sich die automatische Netzwahl hier aus: Eine eSIM, die auf einen Netzbetreiber festgelegt ist, kann auf einer langen Autobahnstrecke an einem schwächeren Signal hängen bleiben als jenem, das drei Sendemasten entfernt verfügbar wäre. Wenn Ihre Reise in Eilat endet und nach Aqaba weitergeht, beachten Sie, dass die jordanische Seite ein anderer Markt ist – unser [Jordanien-eSIM-Leitfaden](/carriers/jordan-esim-carrier-guide/) behandelt den Grenzübertritt, und [Ägypten-eSIM-Tarife](/egypt-esim/) gelten, falls Sinai oder Kairo als Nächstes anstehen.
 
-## Anleitung: Aktivierung Ihrer eSIM
+## Welche Israel-eSIM zu welcher Reiseart passt
 
 | Ihre Reise | Beste Konnektivitätsoption | Warum | Hinweis |
 |:---|:---|:---|:---|
@@ -132,7 +132,7 @@ Insgesamt betrachtet, sagt die Tabelle etwas Nützliches: Auf einer typischen Is
 | Geschäftswoche mit täglichen Videoanrufen | Größeres Datenpaket plus Hotel-Glasfaser | Die Festnetze belegen weltweit den zehnten Platz | Hotspot-Klausel, wenn Sie vom Laptop aus arbeiten |
 | Roadtrip durch die Negev-Wüste und nach Mitzpe Ramon | Multi-Network-Profil | Manuelle Netzsuche ist auf Wüstenautobahnen hilfreich | Der Kraterrand ist bei jedem Netzbetreiber ein Funkloch |
 | Reise durch zwei Länder: Eilat + Petra | Israel-Tarif plus separater Jordanien-Tarif | Israelische Tarife gelten nicht jenseits der Grenze | Installieren Sie das Jordanien-Profil vor dem Grenzübertritt |
-| Pilgergruppenreise | One Profil pro Telefon, Gruppen-WhatsApp | Reiseleiter koordinieren dort alles | Heimatnummern für Bestätigungscodes aktiv lassen |
+| Pilgergruppenreise | Ein Profil pro Telefon, Gruppen-WhatsApp | Reiseleiter koordinieren dort alles | Heimatnummern für Bestätigungscodes aktiv lassen |
 | Ein Monat Remote-Arbeit | Die ₪99-Touristenoption von Cellcom | Einen Monat übergroßes Datenvolumen für ca. 27 US-Dollar | Es gilt lediglich die Reisepassregistrierung; alles andere nicht |
 | Tagesausflüge in Galiläa und auf den Golan | Profil mit Mehrnetzauswahl | Grenzstraßen mit schwacher Versorgung bei allen Netzbetreibern | Sicherheitszonen können das Signal einschränken |
 
@@ -167,13 +167,13 @@ Der Flughafenschalter verkauft Ihnen ein fertiges Produkt: einmal bezahlen, gehe
 
 Die zweite ist, was passiert, wenn das Datenvolumen aufgebraucht ist. Reise-Tarife stellen schlicht die Datenweitergabe ein, wenn das Volumen leer ist – keine Zusatzgebühren, keine unerwarteten Kosten, was einer der leiseren Gründe ist, warum Reisende sie dem Heimnetz-Roaming vorziehen. Mehr holen geht per Aufladung über die App oder Website des Anbieters, die auf dasselbe installierte Profil angewendet wird; es wird nichts neu gescannt oder installiert. Wenn Sie zu denen gehören, die zweimal täglich den Datenverbrauch prüfen, stellen Sie die Verbrauchswarnung beim Kauf ein und vergessen Sie sie danach.
 
-Die dritte ist das Kleingedruckte, das tatsächlich zwischen Anbietern variiert: ob das Profil seine Verbindung als Hotspot teilen kann, ob es sich mit allen vier israelischen Netzen verbindet oder nur mit einigen, und wie der Support um 2 Uhr morgens in Jerusalem aussieht, wenn etwas nicht funktioniert. Genau diese Fragen beantwortet ein Schalterkauf implizit für Sie, und genau die lohnen dreißig Sekunden Onlinelesen. Eine kostenlose Testversion ist der günstigste Weg, die Antworten zu testen – [Roamis Test-eSIM](/free-esim/) installiert sich genauso wie eine kostenpflichtige.
+Die dritte ist das Kleingedruckte, das tatsächlich zwischen Anbietern variiert: ob das Profil seine Verbindung als Hotspot teilen kann, ob es sich mit allen vier israelischen Netzen verbindet oder nur mit einigen, und wie der Support um 2 Uhr morgens in Jerusalem aussieht, wenn etwas nicht funktioniert. Genau diese Fragen beantwortet ein Schalterkauf implizit für Sie, und genau die lohnen dreißig Sekunden Onlinelesen. Eine kostenlose Testversion ist der günstigste Weg, die Antworten zu testen – Roamis Test-eSIM installiert sich genauso wie eine kostenpflichtige.
 
-One Israel-spezifische Ergänzung zum Kleingedruckten: Da lokale Tarife so günstig sind, kaufen manche Reisende ein lokales Paket *und* behalten ein Reiseprofil als Fallback installiert. Das ist eine sinnvolle Redundanzstrategie – der Haken ist, immer nur eine Datenleitung gleichzeitig aktiv zu lassen, da zwei aktivierte Datenquellen auf einem Telefon selbst eine eigene Fehlerkategorie darstellen.
+Eine Israel-spezifische Ergänzung zum Kleingedruckten: Da lokale Tarife so günstig sind, kaufen manche Reisende ein lokales Paket *und* behalten ein Reiseprofil als Fallback installiert. Das ist eine sinnvolle Redundanzstrategie – der Haken ist, immer nur eine Datenleitung gleichzeitig aktiv zu lassen, da zwei aktivierte Datenquellen auf einem Telefon selbst eine eigene Fehlerkategorie darstellen.
 
 ## WhatsApp-Telefonie in israelischen Netzen
 
-One kulturelle Notiz verändert, wie Sie hier Daten nutzen: Israel nutzt WhatsApp in einem Ausmaß, das die meisten Besucher überrascht. Es ist nicht nur beliebt – es ist die Standardschicht für gewöhnliche Kommunikation, von Reiseleitern, die Abholzeiten bestätigen, bis hin zu Restaurants, die Fragen beantworten, und Taxifahrern, die den Treffpunkt koordinieren. DataReportal zählte zu Beginn des Jahres 2025 6,82 Millionen Social-Media-Identitäten im Land, und WhatsApp steht im Zentrum dieser Nutzung für die tägliche Kommunikation.
+Eine kulturelle Notiz verändert, wie Sie hier Daten nutzen: Israel nutzt WhatsApp in einem Ausmaß, das die meisten Besucher überrascht. Es ist nicht nur beliebt – es ist die Standardschicht für gewöhnliche Kommunikation, von Reiseleitern, die Abholzeiten bestätigen, bis hin zu Restaurants, die Fragen beantworten, und Taxifahrern, die den Treffpunkt koordinieren. DataReportal zählte zu Beginn des Jahres 2025 6,82 Millionen Social-Media-Identitäten im Land, und WhatsApp steht im Zentrum dieser Nutzung für die tägliche Kommunikation.
 
 Die praktischen Konsequenzen: Halten Sie Ihre Heimatnummer für Bestätigungscodes aktiv, denn Ihre WhatsApp-Identität ist an sie gebunden – Dual-SIM-Telefone handhaben das sauber, wobei die israelische Datenleitung den Verkehr trägt und Ihre Heimleitung die SMS empfängt. Gehen Sie davon aus, dass jedes Unternehmen, das Sie kontaktieren, schneller auf WhatsApp antwortet als per E-Mail. Und da Sprachanrufe zu lokalen Nummern weniger wichtig sind als früher, ist der Vorteil einer „lokalen Telefonnummer" bei einer Flughafen-SIM hier schwächer als in den meisten Ländern – eine reine Daten-eSIM deckt die überwiegende Mehrheit der tatsächlichen Besucherkommunikation ab.
 
@@ -181,7 +181,7 @@ Zwei Bereiche, in denen WhatsApp in Israel besonders nützlich ist: Reiseleiter 
 
 Wenn Ihr Profil sich installiert, aber niemals Daten fließen, liegt die Ursache meist in den Einstellungen statt im Netz: die falsche Leitung ist für mobile Daten ausgewählt, oder Datenroaming ist auf dem Profil deaktiviert. Unsere [eSIM-Fehlerbehebungs-Ressource](/faq/esim-activation-errors-troubleshooting-guide/) arbeitet die Fehlermuster der Reihe nach durch.
 
-## Tarife kalkulieren
+## Grenzübertritte: Jordanien, Ägypten und die Westbank
 
 Israels Landgrenzen erzeugen Reiserouten, die kein einzelner Tarif abdeckt. Die beiden Übergänge, die für Reisende relevant sind, sind die Allenby-Brücke und der Jordan-Übergang nach Jordanien sowie der Taba-Übergang in den ägyptischen Sinai. Israelische touristische Tarife schließen Nachbarländer in der Regel nicht ein; sobald Ihre eSIM auf einem ägyptischen oder jordanischen Mast einbucht, befinden Sie sich im internationalen Roaming zu fremden Bedingungen – entweder teurer Megabyte-Tarif oder Funkstille.
 
@@ -197,9 +197,9 @@ Für Überland-Routen, die weiter nordwärts Richtung Istanbul führen, gilt die
 - Bestätigen Sie, dass die neue Leitung sich anmeldet und eine Seite lädt, bevor Sie auschecken
 - Wechseln Sie die Datenleitung erst nach der Grenzüberscheidung auf das neue Profil – oder an der Grenze, je nachdem, was die Reiseroute bevorzugt
 - Lassen Sie das israelische Profil installiert und deaktiviert für die Rückreise
-- Halten Sie das Roaming der Heim-SIM während der gesamten Mehrtlandreise ausgeschaltet
+- Halten Sie das Roaming der Heim-SIM während der gesamten Mehrländerreise ausgeschaltet
 
-One regionsspezifischer Hinweis: In der Nähe bestimmter Grenzzonen kann Ihr Telefon Signale der Nachbarländer-Netze einfangen, ohne dass Sie irgendetwas überqueren. Falls Sie Roaming auf Ihrer Heim-SIM aktiviert haben, kann diese versehentliche Einbuchung teuer werden. Halten Sie Datenroaming auf Ihrer Heimleitung für die gesamte Reise deaktiviert und lassen Sie das israelische Profil die Arbeit machen.
+Ein regionsspezifischer Hinweis: In der Nähe bestimmter Grenzzonen kann Ihr Telefon Signale der Nachbarländer-Netze einfangen, ohne dass Sie irgendetwas überqueren. Falls Sie Roaming auf Ihrer Heim-SIM aktiviert haben, kann diese versehentliche Einbuchung teuer werden. Halten Sie Datenroaming auf Ihrer Heimleitung für die gesamte Reise deaktiviert und lassen Sie das israelische Profil die Arbeit machen.
 
 Für Installationen, die scheitern, bevor irgendetwas davon greift – ein nicht scanbarer Code, ein Profil, das nie herunterlädt – ist die [Schritt-für-Schritt-Aktivierungsanleitung](/faq/how-to-activate-an-esim/) die Referenz, und sie liest sich besser zu Hause als an einem Ben-Gurion-Schalter.
 
@@ -209,7 +209,7 @@ Für Installationen, die scheitern, bevor irgendetwas davon greift – ein nicht
 
 **B. Die Leitung aktiviert sich wegen des Kalenders nicht.** Ein Kauf am Freitagnachmittag kann in der Warteschlange sterben: Die Registrierung wird abgeschlossen, die Aktivierung läuft über den Sonnenuntergang hinaus, und der Support verschwindet bis Samstagabend. Die Lösung liegt in der Reihenfolge, nicht im Durchhaltevermögen – kaufen und aktivieren Sie donnerstags oder freitagmorgens, oder landen Sie mit einem vorinstallierten Profil und verlassen Sie sich nie auf eine Schalter-Uhr.
 
-**C. Balken überall, Daten nirgends.** Die Dual-SIM-Triage: Bestätigen Sie, dass die israelische Leitung als mobile Datenleitung eingestellt ist, Datenroaming für diese Leitung aktiviert ist und das Roaming der Heim-SIM aus ist, damit sie nicht konkurriert. Das löst die überwiegende Mehrheit der „es funktioniert nicht"-Meldungen in Hotellobbys; darüber hinaus deckt der [vollständige Fehlerbehebungskatalog](/faq/esim-activation-errors-troubleshooting-guide/) die gerätebezogenen Muster der Reihe nach ab.
+**C. Balken überall, Daten nirgends.** Die Dual-SIM-Triage: Bestätigen Sie, dass die israelische Leitung als mobile Datenleitung eingestellt ist, Datenroaming für diese Leitung aktiviert ist und das Roaming der Heim-SIM aus ist, damit sie nicht konkurriert. Das löst die überwiegende Mehrheit der „es funktioniert nicht"-Meldungen in Hotellobbys; darüber hinaus deckt der vollständige Fehlerbehebungskatalog die gerätebezogenen Muster der Reihe nach ab.
 
 **D. Die Hotspot-Klausel überrascht Laptop-Arbeiter.** Israelische Touristentarife sind großzügig bei den Handydaten und variabel beim Tethering; einige Unlimited-artige Tarife drosseln oder schließen geteilte Verbindungen aus. Prüfen Sie die Klausel vor dem Checkout, falls Sie vom Laptop arbeiten – und bedenken Sie, dass die zehntplatzierten Festnetze des Landes ohnehin bedeuten, dass Hotel-WLAN meist die bessere Arbeitsverbindung ist.
 
@@ -233,21 +233,21 @@ Bevor Sie irgendetwas kaufen, zwei Prüfungen. Erstens, das Gerät: eSIM-Unterst
 
 Falls etwas nicht funktioniert – ein Code, der nicht scannen will, Balken, die nie erscheinen – arbeiten Sie unseren [Aktivierungs-Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) durch, bevor Sie ein Netzproblem annehmen, denn neun von zehn Mal ist es eine Einstellung, eine Sperre oder eine Datenleitungs-Auswahl.
 
-**Müssen Sie einen APN setzen?** Bei einem vorbereitgestellten Profil nein – die Daten sollten einfach funktionieren. Israelische Betreiber spielen die Konfiguration auf kompatiblen Telefonen auch automatisch ein. Nur ein altes, lokal gekauftes Gerät oder ein Profil, das über einen manuellen Aktivierungscode installiert wurde, verlangt meist das Eingeben des Access-Point-Felds von Hand; die [Fehlerbehebungsanleitung](/faq/esim-activation-errors-troubleshooting-guide/) deckt das ab.
+**Müssen Sie einen APN setzen?** Bei einem vorbereitgestellten Profil nein – die Daten sollten einfach funktionieren. Israelische Betreiber spielen die Konfiguration auf kompatiblen Telefonen auch automatisch ein. Nur ein altes, lokal gekauftes Gerät oder ein Profil, das über einen manuellen Aktivierungscode installiert wurde, verlangt meist das Eingeben des Access-Point-Felds von Hand; die Fehlerbehebungsanleitung deckt das ab.
 
 ## Israel-eSIM-Fragen, die Reisende vor dem Kauf stellen
 
-### Kann man eine Israel-eSIM bei Cellcom kaufen?
+### Deckt eine Israel-eSIM das ganze Land ab?
 
-One Tarif deckt das ganze Land ab. Israels Netze sind national; es gibt keine regionale Preis- oder Netzabdeckungs-Aufteilung, die einen Besucher betrifft. Die einzige Planung, die zählt, ist die internationale Kante – Jordanien, Ägypten und die palästinensischen Gebiete, wo die Netzabdeckung von lokalen Betreibern abhängt und nicht garantiert ist.
+Ein Tarif deckt das ganze Land ab. Israels Netze sind national; es gibt keine regionale Preis- oder Netzabdeckungs-Aufteilung, die einen Besucher betrifft. Die einzige Planung, die zählt, ist die internationale Kante – Jordanien, Ägypten und die palästinensischen Gebiete, wo die Netzabdeckung von lokalen Betreibern abhängt und nicht garantiert ist.
 
-### Ihre Kaufoptionen in Israel
+### Funktioniert eine Israel-eSIM in den palästinensischen Gebieten?
 
 Teilweise und unvorhersehbar. In der Nähe der großen Bevölkerungszentren gibt es Netzabdeckung, aber sie hängt davon ab, an welches Gastnetz sich Ihr Profil anbindet, und kein Reise-Tarif kann sie garantieren. Wenn palästinensische Gebiete ein wesentlicher Teil Ihrer Reiseroute sind, recherchieren Sie für diesen Abschnitt besser eine lokale palästinensische SIM-Karte, statt von durchgehender Konnektivität auszugehen.
 
 ### Sollten Sie eine lokale SIM in Israel kaufen?
 
-Yes, und sie funktioniert — Cellcom und Pelephone unterhalten Schalter in den Ankunftshallen, die Registrierung erfordert Ihren Reisepass und wenige Minuten, und Sie erhalten eine israelische Nummer. Beachten Sie nur die Kompromisse: Die Preise am Schalter liegen über den Online-Tarifen, und die Öffnungszeiten fallen am Schabbat vom Freitagnachmittag bis Samstagabend weg. Wenn Sie freitagabends landen, kaufen Sie besser vor dem Abflug.
+Ja, und sie funktioniert — Cellcom und Pelephone unterhalten Schalter in den Ankunftshallen, die Registrierung erfordert Ihren Reisepass und wenige Minuten, und Sie erhalten eine israelische Nummer. Beachten Sie nur die Kompromisse: Die Preise am Schalter liegen über den Online-Tarifen, und die Öffnungszeiten fallen am Schabbat vom Freitagnachmittag bis Samstagabend weg. Wenn Sie freitagabends landen, kaufen Sie besser vor dem Abflug.
 
 ### Cellcom vs. Partner 5G: Was ist besser in Israel?
 
@@ -257,7 +257,7 @@ Nicht als Kaufkriterium. Die 5G-Schicht existiert in den Hauptstädten und ist s
 
 Weniger als Sie für die meisten Reiseziele einplanen würden, denn das WLAN in Hotels und Cafés ist stark und schnell — bedenken Sie, dass die Festnetze des Landes weltweit auf Platz zehn rangieren. Ein praxisnahes Volumen für Karten, WhatsApp, Fahrdienste und das Teilen in sozialen Medien liegt bei etwa 1 GB pro Tag; mehr sollten Sie nur einplanen, wenn Sie unterwegs Videos streamen, wo kein WLAN verfügbar ist.
 
-### Israel eSIM-Tarife und Preise
+### Was passiert, wenn mein Datenvolumen aufgebraucht ist?
 
 Datenvolumen und Gültigkeitszeiträume sind beim Kauf festgelegt; falls die Reise länger wird, laden Sie über die App des Anbieters nach oder kaufen Sie ein neues Paket — das Profil selbst bleibt installiert. Prüfen Sie die Bedingungen auf [Roami's Israel-Seite](/israel-esim/), bevor Sie reisen, wenn Ihre Reisedaten unsicher sind.
 
@@ -269,9 +269,9 @@ In der Regel ja, aber es ist eine Bedingung pro Anbieter und keine Selbstverstä
 
 Für den normalen Reisegebrauch nein. Touristen surfen, schreiben Nachrichten, navigieren und streamen ohne besondere Einschränkungen, und es ist keine besondere Einrichtung für Besucher erforderlich — nur eine aktive Datenverbindung. Wenn Sie es aus beruflichen Gewohnheiten zu Hause benötigen, verhält es sich genauso wie überall — über Ihre eSIM-Verbindung wie gewohnt.
 
-### Cellcom eSIM-Tarife für Besucher
+### Kann man eine Israel-eSIM vor der Reise online kaufen?
 
-Yes, auf zwei Wegen. Mehrere israelische Netzbetreiber — darunter Cellcom und Golan Telecom — verkaufen eSIM-Dienste online, die vor der Abreise per QR-Code aktiviert werden, und Reise-eSIM-Anbieter liefern Israel-Tarife auf die gleiche Weise. Beide Varianten melden Sie sofort bei der Landung in einem israelischen Netz an, was bei einer Ankunft am Schabbat-Wochenende der entscheidende Punkt ist.
+Ja, auf zwei Wegen. Mehrere israelische Netzbetreiber — darunter Cellcom und Golan Telecom — verkaufen eSIM-Dienste online, die vor der Abreise per QR-Code aktiviert werden, und Reise-eSIM-Anbieter liefern Israel-Tarife auf die gleiche Weise. Beide Varianten melden Sie sofort bei der Landung in einem israelischen Netz an, was bei einer Ankunft am Schabbat-Wochenende der entscheidende Punkt ist.
 
 ### Muss man eine SIM-Karte in Israel registrieren?
 
@@ -279,13 +279,13 @@ Der Schalter-Mitarbeiter scannt den maschinenlesbaren Streifen Ihres Reisepasses
 
 ### Beziehen israelische Tarife internationale Gespräche ein?
 
-Tarife für Einheimische bündeln oft ein paar internationale Minuten, und Touristenpakete variieren — die Schalter in der Ankunftshalle bepreisen Gespräche in die Premium-Variante mit ein, während Cellcoms Touristentarif für ₪99 auf Datenvolumen und unbegrenzte Inlandsgespräche setzt. In der Praxis telefonieren die meisten Besucher ohnehin über WhatsApp, und Israels WhatsApp-zentrierte Kommunikationskultur macht einen reinen Datentarif nahezu ausreichend.
+Tarife für Einheimische bündeln oft ein paar internationale Minuten, und Touristenpakete variieren — die Schalter in der Ankunftshalle rechnen Gespräche ins Ausland mit einem Aufpreis ab, während Cellcoms Touristentarif für ₪99 auf Datenvolumen und unbegrenzte Inlandsgespräche setzt. In der Praxis telefonieren die meisten Besucher ohnehin über WhatsApp, und Israels WhatsApp-zentrierte Kommunikationskultur macht einen reinen Datentarif nahezu ausreichend.
 
-### Welche Geräte können eine Israel eSIM nutzen?
+### Ist öffentliches WLAN in Israel sicher?
 
 Behandeln Sie offene Netzwerke wie überall: gut zum Surfen, nicht der richtige Ort für Bankgeschäfte. Israels Städte verfügen über umfangreiches kostenloses städtisches und Café-WLAN, und die Festnetze der Hotels sind ausgezeichnet, aber die praktische Regel bleibt bestehen — erledigen Sie Bankgeschäfte und sensible Logins über Ihre Mobilfunkdatenverbindung, die Ende-zu-Ende zum Netzbetreiber verschlüsselt ist und nicht mit Fremden in der Lobby geteilt wird.
 
-### Regionswechsel mit einer Israel eSIM
+### Bucht sich mein Telefon nahe der Grenze in ein ausländisches Netz ein?
 
 Es kann passieren — die Grenzen verlaufen im Süden und im Arava-Tal nahe an den Straßen, und ein Telefon mit aktiviertem Roaming kann sich an ein ausländisches Netz anbinden, ohne dass Sie eine Grenze überqueren. Deshalb bleibt das Roaming der Heim-SIM während der gesamten Reise ausgeschaltet, und deshalb ist ein auf Israel zugeschnittenes Reise-Profil in grenznahen Abschnitten die sicherere Datenleitung. Wenn Ihr Tarif international Roaming vorsieht, prüfen Sie seine Länderliste für Jordanien und Ägypten, bevor Sie sich in der Nähe der Grenzübergänge darauf verlassen.
 
@@ -293,27 +293,27 @@ Es kann passieren — die Grenzen verlaufen im Süden und im Arava-Tal nahe an d
 
 Wenn Ihr Guthaben an einem Freitag knapp ist, ja. Aufladungen über Apps und Online-Portale funktionieren am Wochenende in der Regel weiter, aber Aufladungen am Schalter und alle Support-Themen, die einen Menschen erfordern, müssen bis Samstagabend warten. Die einfache Regel: Prüfen Sie Ihr verbleibendes Datenvolumen am Freitagmorgen und laden Sie dann auf, damit das Wochenende nie zur Frage der Konnektivität wird.
 
-### Israels stärkstes 5G-Netz
+### Gibt es in Israel flächendeckend 5G?
 
 Wo das Gastnetz Ihres Profils es ausgebaut hat — Tel Aviv, Jerusalem, Haifa und die anderen Großstädte — ja, sofern Tarif und Handy es unterstützen. Außerhalb der Städte sind Sie unabhängig von den Versprechen des Tarifs auf 4G, und genau so erleben es auch die eigenen Kunden der Netzbetreiber. Bei einem nationalen 5G-Median nahe 141 Mbps ist der praktische Unterschied zu einer guten 4G-Verbindung real, aber selten reiserelevant.
 
-### Wählen Sie eine Israel eSIM nach Reiseart
+### Wie lange bleibt eine israelische Touristennummer gültig?
 
-Yes, und schneller als an den meisten Reisezielen: Prepaid-Linien haben ein Gültigkeitsfenster — typischerweise an die letzte Aufladung oder das letzte Paket gebunden — nach dem die Nummer recycelt wird. Eine ungenutzte Touristen-SIM übersteht keine monatelange Pause bis zum nächsten Besuch; das Reise-Profil schneidet besser ab, da ein installiertes Profil beliebig lange inaktiv bleibt und ein neues Paket es reaktiviert. Planen Sie Rückreisen unabhängig vom gewählten Weg mit einem Neukauf ein.
+Schneller als an den meisten Reisezielen: Prepaid-Linien haben ein Gültigkeitsfenster — typischerweise an die letzte Aufladung oder das letzte Paket gebunden — nach dem die Nummer recycelt wird. Eine ungenutzte Touristen-SIM übersteht keine monatelange Pause bis zum nächsten Besuch; das Reise-Profil schneidet besser ab, da ein installiertes Profil beliebig lange inaktiv bleibt und ein neues Paket es reaktiviert. Planen Sie Rückreisen unabhängig vom gewählten Weg mit einem Neukauf ein.
 
 Weitere Fragen? [Zum FAQ](/faq/)
 
-### Israel eSIM: häufige Fragen
+### Unterlagen für den Support-Kontakt
 
 | Was Sie bereithalten sollten | Wo Sie suchen können |
 |:---|:---|
-| Bestell- oder Kontonummer | Bestätigungs-E-Mail |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Bestell- oder Kundennummer | Aus der Bestätigungsmail |
+| Gerät und Softwarestand | iOS: Einstellungen → Allgemein → Info · Android: Einstellungen → Über das Telefon |
 | EID | `*#06#` |
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Bildschirmfoto der Fehlermeldung | Aufnehmen, solange der Dialog noch offen ist |
 | Reisepassnummer, die bei der Registrierung verwendet wird | Der Reisepass selbst |
-| Daten-Roaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Roaming-Schalter der Datenleitung | Einstellungen → Mobilfunk → Datenoptionen → israelische Leitung |
+| Was Sie schon probiert haben | Drei Stichpunkte reichen dem Support |
 
 ## Wo dieser Israel-Reiseführer seine Fakten geprüft hat
 
@@ -324,10 +324,10 @@ Weitere Fragen? [Zum FAQ](/faq/)
 
 Alle Zahlen sind Messungen Dritter und verändern sich mit dem Netzausbau; betrachten Sie sie als Marktüberblick, nicht als Garantie für Ihr eigenes Gerät.
 
-## Roaming und Grenzübertritte
+## So starten Sie mit Roami in Israel
 
-Jede Aussage auf dieser Seite ist überprüfbar, bevor Sie Geld ausgeben: Prüfen Sie Ihr Telefon im [Gerätekompatibilitäts-Check](/compatibility/), und fordern Sie dann [eine kostenlose Test-eSIM](/free-esim/) an — dieselbe Willkommensaktion, mit der Neukunden [auf der kostenlose-eSIM-Seite starten](/free-esim/) können. *Ihre erste Leitung läuft über Roami, ohne Verpflichtung.*
+Jede Aussage auf dieser Seite ist überprüfbar, bevor Sie Geld ausgeben: Prüfen Sie Ihr Telefon im Gerätekompatibilitäts-Check, und fordern Sie dann eine kostenlose Test-eSIM an — dieselbe Willkommensaktion, mit der Neukunden auf der kostenlose-eSIM-Seite starten können. *Ihre erste Leitung läuft über Roami, ohne Verpflichtung.*
 
-Sind Ihre Reisedaten fest, wählen Sie ein Paket auf [Roami's Israel eSIM-Tarifen](/israel-esim/) oder [kaufen Sie direkt](/israel-esim/). Installieren Sie sie zu Hause, landen Sie verbunden und verbringen Sie Ihr Schabbat-Wochenende damit, das Land zu sehen, statt einen geöffneten Schalter zu suchen.
+Sind Ihre Reisedaten fest, wählen Sie ein Paket auf Roamis Israel-eSIM-Tarifen oder kaufen Sie direkt. Installieren Sie sie zu Hause, landen Sie verbunden und verbringen Sie Ihr Schabbat-Wochenende damit, das Land zu sehen, statt einen geöffneten Schalter zu suchen.
 
 Und wenn Sie kaufen möchten: Roami's [Beispiel-eSIM](/free-esim/) ist der risikofreie Einstiegspunkt für Israel, wobei **WEB20** 20 % Rabatt auf Ihren ersten kostenpflichtigen Tarif gewährt, wenn Sie die gesamte Reise über verbunden bleiben möchten.

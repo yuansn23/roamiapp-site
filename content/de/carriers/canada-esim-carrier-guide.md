@@ -18,10 +18,10 @@ hero_subtitle_main: "Kanadas Netzbetreiber auf dem Papier gegenüber in der Prax
 
 **An welchen Netzbetreiber sollte sich Ihre Kanada eSIM verbinden?** Die drei landesweiten Netze sind nicht austauschbar. Laut Ooklas Kanada-Bericht für das 2. Halbjahr 2025 war **Bell** der beste und schnellste 5G-Anbieter mit einem medianen 5G-Download von **171,17 Mbps**. **Rogers** lieferte das beste Videoerlebnis (**86,03**) und die höchste 5G-Verfügbarkeit (**86,7 %**). **TELUS** war insgesamt das konsistenteste Netz (**85,6 %**). Welches davon „am besten“ ist, hängt ganz davon ab, wohin Sie reisen — der beste eSIM-Netzbetreiber für Kanada ist eine Routing-Entscheidung, keine Markenfrage. Dieser Kanada-Guide wurde von Personen verfasst, die täglich eSIMs verkaufen und betreuen, daher liegt der Fokus auf praktischen Abwägungen statt auf Werbeversprechen.
 
-Eine Voraussetzung, die zehn Sekunden Ihrer Zeit wert ist: Prüfen Sie über den [eSIM-Kompatibilitätstest](/compatibility/), ob Ihr Smartphone eSIM-fähig ist, und werfen Sie einen Blick auf [eSIM-Aktivierung im Detail](/faq/what-is-esim-activation-and-how-does-it-work/), falls der Vorgang neu für Sie ist.
+Eine Voraussetzung, die zehn Sekunden Ihrer Zeit wert ist: Prüfen Sie über den [eSIM-Kompatibilitätstest](/compatibility/), ob Ihr Smartphone eSIM-fähig ist, und werfen Sie einen Blick auf die eSIM-Aktivierung im Detail, falls der Vorgang neu für Sie ist.
 
 
-**Wenn Sie sonst nichts lesen:** Aufenthalt in Toronto, Vancouver oder Montreal? Bell ist das schnellste 5G-Netz des Landes. Viel Video-Streaming oder Gaming? Rogers gewinnt beim Video-Score und bei der 5G-Verfügbarkeit. Mit dem Auto durch die Rockies, Neufundland oder Nord-Ontario? TELUS hält das Signal, wo die anderen ausfallen. Möchten Sie eine Kanada-eSIM direkt bei einem kanadischen Netzbetreiber kaufen? Lucky Mobile (Bells Prepaid-Marke) ist die einzige, die eine Touristen-eSIM ohne Bonitätsprüfung und ohne kanadische Adresse verkauft. Oder umgehen Sie den Papierkram: Mit dem [kostenlosen Datentest](/free-esim/) prüfen Sie die Netze ohne Kosten; nutzen Sie den Code **WEB20** für 20 % Rabatt auf [Kanada Prepaid eSIM-Tarife](/canada-esim/).
+**Wenn Sie sonst nichts lesen:** Aufenthalt in Toronto, Vancouver oder Montreal? Bell ist das schnellste 5G-Netz des Landes. Viel Video-Streaming oder Gaming? Rogers gewinnt beim Video-Score und bei der 5G-Verfügbarkeit. Mit dem Auto durch die Rockies, Neufundland oder Nord-Ontario? TELUS hält das Signal, wo die anderen ausfallen. Möchten Sie eine kanadische Datenleitung direkt bei einem kanadischen Netzbetreiber kaufen? Lucky Mobile (Bells Prepaid-Marke) ist die einzige, die eine Touristen-eSIM ohne Bonitätsprüfung und ohne kanadische Adresse verkauft. Oder umgehen Sie den Papierkram: Mit dem kostenlosen Datentest prüfen Sie die Netze ohne Kosten; nutzen Sie den Code **WEB20** für 20 % Rabatt auf [Kanada Prepaid eSIM-Tarife](/canada-esim/).
 
 ## Die Netzbetreiber hinter Ihrer Kanada eSIM
 
@@ -40,7 +40,7 @@ Eine Voraussetzung, die zehn Sekunden Ihrer Zeit wert ist: Prüfen Sie über den
 
 Mit den Zweitmarken Kanadas verschwindet das Papierkram-Problem: Diese Prepaid-Marken verkaufen eine eSIM ohne Bonitätsprüfung und ohne kanadische Adresse.
 
-| Virtuelle Marke | Host-Netz | eSIM-Unterstützung | Am besten geeignet für |
+| Zweitmarke | Gastnetz | eSIM buchbar? | Wofür sie passt |
 |:---|:---|:---|:---|
 | Lucky Mobile | Bell | 0 $ eSIM, Aktivierung in der App | Die meisten Besucher – Prepaid, keine Bonitätsprüfung, Touristentarife |
 | chatr | Rogers | Prepaid, keine Bonitätsprüfung | Kurze Städtereisen mit starker Rogers-Netzabdeckung |
@@ -51,7 +51,7 @@ Mit den Zweitmarken Kanadas verschwindet das Papierkram-Problem: Diese Prepaid-M
 
 Zwei Hinweise. Erstens: Flanker-Marken wie Lucky Mobile, chatr und Public Mobile begrenzen die Datengeschwindigkeit – die Tarife von Lucky Mobile laufen mit 4G-LTE-Geschwindigkeit von bis zu 150 Mbps und fallen anschließend auf **bis zu 128 Kbps** zurück, sobald Ihr Datenvolumen aufgebraucht ist, ohne Zusatzkosten. Zweitens: Ein Prepaid-Tarif, der bei einer dieser Marken erworben wird, ist an ein Netz gebunden. Bei Lucky Mobile nutzen Sie ausschließlich die Sendemasten von Bell, was relevant wird, sobald Sie die Stadt verlassen.
 
-### Kann man eine Kanada-eSIM von Bell kaufen?
+### Kann man eine kanadische Datenleitung von Bell kaufen?
 
 | | Direkt von einem kanadischen Netzbetreiber | Reise-eSIM in einem kanadischen Netz |
 |:---|:---|:---|
@@ -63,17 +63,17 @@ Zwei Hinweise. Erstens: Flanker-Marken wie Lucky Mobile, chatr und Public Mobile
 
 Für einen normalen Urlaub rechnet sich das nicht. Ein kanadischer Prepaid-Tarif berechnet jedes Gigabyte zu Konditionen, die für Einheimische gedacht sind; eine Reise-eSIM kauft Daten zum Großhandelspreis und lässt das Gerät zwischen Netzen wechseln. Wo der Netzbetreiber punktet, sind Langlebigkeit und Telefonie — eine echte kanadische Nummer, unbeschränkte Inlandsgespräche und ein Tarif, der auch im sechsten Monat noch funktioniert.
 
-💡 Ein Multi-Netz-eSIM-Profil ist der praktische Mittelweg: [Roami Canada eSIM](/canada-esim/) bietet den Komfort sofortiger Bereitstellung, wechselt automatisch zwischen Bell, Rogers und TELUS und verbindet Sie in Toronto mit Bell und in den Rockies mit TELUS, ohne dass Sie zweimal kaufen.
+💡 Ein Multi-Netz-Profil ist der praktische Mittelweg: Roami Canada eSIM bietet den Komfort sofortiger Bereitstellung, wechselt automatisch zwischen Bell, Rogers und TELUS und verbindet Sie in Toronto mit Bell und in den Rockies mit TELUS, ohne dass Sie zweimal kaufen.
 
 ## Was Ihr Gerät für Kanada mitbringen muss
 
-Drei Dinge entscheiden darüber, ob Ihre Kanada-eSIM reibungslos funktioniert: die Frequenzbänder des Telefons, der Sperrstatus und eine kurze Liste gerätespezifischer Eigenheiten. Alle drei werden im Folgenden behandelt.
+Drei Dinge entscheiden darüber, ob Ihre kanadische Datenleitung reibungslos funktioniert: die Frequenzbänder des Telefons, der Sperrstatus und eine kurze Liste gerätespezifischer Eigenheiten. Alle drei werden im Folgenden behandelt.
 
 ### Welche Frequenzbänder braucht Ihr Telefon für Kanada?
 
 Kanadische Netzbetreiber bauen ihr 5G auf bestimmten Bändern auf — vor allem **n71 (600 MHz)** für die ländliche Versorgung, dazu n66 und n78 in den Städten. Zahlreiche internationale Geräte, darunter mehrere regionale iPhone-Varianten, werden ohne n71 ausgeliefert. Diese Telefone funktionieren trotzdem: Sie schalten außerhalb dichter Stadtgebiete auf LTE zurück, was im Stadtzentrum in Ordnung ist, in den Bergen aber frustrierend.
 
-Sie müssen die Bandtabellen nicht auswendig lernen. Der zuverlässige Weg ist, Ihr genaues Modell — die Modellnummer, nicht den Marketingnamen — mit dem [Kompatibilitäts-Prüftool](/compatibility/) abzugleichen. Wenn Sie zunächst die technischen Grundlagen verstehen möchten, erklärt die [eSIM-Aktivierung im Detail](/faq/what-is-esim-activation-and-how-does-it-work/) den Ablauf.
+Sie müssen die Bandtabellen nicht auswendig lernen. Der zuverlässige Weg ist, Ihr genaues Modell — die Modellnummer, nicht den Marketingnamen — mit dem [Kompatibilitäts-Prüftool](/compatibility/) abzugleichen. Wenn Sie zunächst die technischen Grundlagen verstehen möchten, erklärt die [wie eine Aktivierung abläuft](/faq/what-is-esim-activation-and-how-does-it-work/) den Ablauf.
 
 ### Telefon vor Kanada entsperren
 
@@ -91,16 +91,16 @@ Wenn Sie ein gebrauchtes Telefon oder ein Telefon vor Dezember 2017 gekauft habe
 
 | Gerät | Symptom | Was zu tun ist |
 |:---|:---|:---|
-| iPhone-Modelle für das chinesische Festland | Keine Option „eSIM hinzufügen“ verfügbar – die Hardware ist in diesem Markt deaktiviert | Nicht behebbar; verwenden Sie eine physische SIM-Karte oder ein anderes Gerät |
+| iPhone aus dem chinesischen Festland | Keine Schaltfläche „eSIM hinzufügen“ – die Hardware ist dort gesperrt | Nicht behebbar; nutzen Sie ein anderes Gerät oder eine physische SIM für Kanada |
 | Samsung-Geräte vom Netzbetreiber | eSIM in den Einstellungen ausgegraut | Bitten Sie zunächst den Netzbetreiber, sie freizuschalten, und starten Sie das Gerät anschließend neu |
 | Internationale Handys ohne n71 | Schnell in Städten, nur LTE in ländlichen Gebieten | Erwartetes Verhalten – siehe die Provinzhinweise unten |
-| Dual-SIM-Nutzer | eSIM installiert, aber keine Daten | Legen Sie die eSIM als die für mobile Daten verwendete Leitung fest |
+| Dual-SIM-Nutzer | Reiseprofil installiert, aber keine Daten | Legen Sie die kanadisches Reise-SIM als die für mobile Daten verwendete Leitung fest |
 
-Alles, was darüber hinausgeht, ist eher gerätespezifisch als netzbetreiberspezifisch. Prüfen Sie Ihr Modell mit dem [eSIM-Kompatibilitätscheck](/compatibility/), bevor Sie Geld für einen Tarif ausgeben.
+Alles, was darüber hinausgeht, ist eher gerätespezifisch als netzbetreiberspezifisch. Prüfen Sie Ihr Modell mit dem eSIM-Kompatibilitätscheck, bevor Sie Geld für einen Tarif ausgeben.
 
 ## Schritt für Schritt zur eigenen Leitung
 
-Es gibt vier Wege zu einer Kanada-eSIM, die sich eher im Papierkram als im Preis unterscheiden: Lucky Mobile für das Bell-Netz, chatr oder ein Besuch im Laden für Rogers, TELUS direkt oder Public Mobile im selben Netz sowie SaskTel innerhalb von Saskatchewan. Jeder Weg wird Schritt für Schritt beschrieben:
+Es gibt vier Wege zu einer kanadische Datenleitung, die sich eher im Papierkram als im Preis unterscheiden: Lucky Mobile für das Bell-Netz, chatr oder ein Besuch im Laden für Rogers, TELUS direkt oder Public Mobile im selben Netz sowie SaskTel innerhalb von Saskatchewan. Jeder Weg wird Schritt für Schritt beschrieben:
 
 ### Ihre Kaufoptionen in Kanada
 
@@ -173,9 +173,9 @@ Wenn der Bericht keine Zahl veröffentlicht, wird die Zelle leer gelassen, statt
 
 Für den Kontext des Landes insgesamt stuft der [Global Index von Speedtest](https://www.speedtest.net/global-index/canada) die mittlere mobile Downloadgeschwindigkeit Kanadas im August 2026 bei **86,08 Mbps** ein, weltweit auf Platz 53, mit 25 ms Latenz. Das Festnetz-Breitband ist mit **257,88 Mbps** deutlich stärker und belegt weltweit Platz 20. Cable.co.uk berechnet 1 GB kanadische mobile Daten mit etwa **USD 5,37**, Platz 216 von 237 Märkten im Vergleich zu einem globalen Durchschnitt von USD 2,59 — Kanada ist einer der teuersten Märkte in der entwickelten Welt für lokale Daten.
 
-### Beste Kanada-eSIM nach Reiseart
+### Beste kanadische Datenleitung nach Reiseart
 
-| Ihre Reise | Bester Netzbetreiber | Warum | Vorsicht vor |
+| Reiseart in Kanada | Empfohlene Wahl | Begründung | Worauf Sie achten sollten |
 |:---|:---|:---|:---|
 | Städtereisen — Toronto, Vancouver, Montreal, Calgary | Bell oder Rogers | Beide sind in der Innenstadt ausgezeichnet; Bell ist schneller, Rogers hat öfter 5G | Die U-Bahn in Toronto hat bei jedem Netzbetreiber schlechten Empfang |
 | Roadtrip, Nationalparks, Rocky Mountains | TELUS | Höchste Konstanz, wenigste Funklöcher außerhalb der Städte | Der Rogers Pass und der Glacier-Nationalpark weisen weiterhin 30–40 km Lücken auf |
@@ -184,7 +184,7 @@ Für den Kontext des Landes insgesamt stuft der [Global Index von Speedtest](htt
 | Reisbudget-Genießer | Lucky Mobile (Bell-Netz) | 19 $/Monat Prepaid, keine Bonitätsprüfung, keine Zusatzkosten bei Überschreitung | Geschwindigkeit gedrosselt auf 150 Mbps, danach 128 Kbps |
 | Aufenthalt in Saskatchewan | SaskTel | Stärkstes Netz innerhalb der Provinz | Netzabdeckung lässt beim Überqueren der Provinzgrenzen nach |
 | Reise mit Fokus auf Québec | Videotron oder Bell | Lokale Netzstärke plus Bells landesweite Netzabdeckung | Ländliches Gaspé ist bei allen Netzbetreibern dünn |
-| Grenzüberschreitende Reiseroute | Ein Nordamerika-Tarif | Eine reine Kanada-eSIM fällt an der US-Grenze ohne Vorwarnung aus | Bei Tagesausflügen zu den Niagarafällen wird man ständig auf dem falschen Fuß erwischt |
+| Grenzüberschreitende Reiseroute | Ein Nordamerika-Tarif | Eine reine kanadische Datenleitung fällt an der US-Grenze ohne Vorwarnung aus | Bei Tagesausflügen zu den Niagarafällen wird man ständig auf dem falschen Fuß erwischt |
 
 ### Wie die Netzabdeckung je Provinz aussieht
 
@@ -206,13 +206,13 @@ Die automatische Netzwahl macht dies möglich. Ein Profil, das zwischen Bell, Ro
 
 ## APN-Einstellungen für kanadische Netze
 
-APN-Einstellungen sind das Letzte, was die meisten Reisenden an ihrer Kanada-eSIM anpassen müssen, und das Erste, das Sie ausschließen sollten, wenn die Datenverbindung ausfällt. Im Folgenden: die Werte für alle vier Netzbetreiber, wann eine manuelle Eingabe wirklich erforderlich ist, und die genauen Menüpfade.
+APN-Einstellungen sind das Letzte, was die meisten Reisenden an ihrer kanadische Datenleitung anpassen müssen, und das Erste, das Sie ausschließen sollten, wenn die Datenverbindung ausfällt. Im Folgenden: die Werte für alle vier Netzbetreiber, wann eine manuelle Eingabe wirklich erforderlich ist, und die genauen Menüpfade.
 
 ### APN-Werte für alle vier Netze
 
-Sie benötigen diese Angaben nur, wenn Sie Ihre Kanada-eSIM **direkt von einem kanadischen Netzbetreiber** gekauft haben. Wenn Sie mit einer Reise-eSIM roamen, liefert das Profil seinen eigenen APN und Sie sollten nichts ändern.
+Sie benötigen diese Angaben nur, wenn Sie Ihre kanadische Datenleitung **direkt von einem kanadischen Netzbetreiber** gekauft haben. Wenn Sie mit einer Reise-eSIM roamen, liefert das Profil seinen eigenen APN und Sie sollten nichts ändern.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Kanadischer Betreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 |:---|:---|:---|:---|
 | Bell | `pda.bell.ca` | leer | leer |
 | Rogers | `ltemobile.apn` | leer | leer |
@@ -223,11 +223,11 @@ Lassen Sie Benutzername und Passwort leer. Falls ein Netzbetreiber andere Werte 
 
 ### Wann Kanada-APN-Werte manuell nötig sind
 
-Die automatische Konfiguration übernimmt in nahezu allen Fällen die Einstellungen Ihrer Kanada-eSIM; diese Liste behandelt die Ausnahmen.
+Die automatische Konfiguration übernimmt in nahezu allen Fällen die Einstellungen Ihrer kanadische Datenleitung; diese Liste behandelt die Ausnahmen.
 
 - Ein älteres Endgerät, das die Netzbetreibereinstellungen nicht eigenständig abruft
-- Ein Profil, das über einen manuellen Aktivierungscode statt per QR-Scan installiert wurde
-- Eine vom Netzbetreiber ausgegebene Prepaid-eSIM, bei der die automatische Konfiguration nicht ausgeführt wurde
+- Ein Profil, das Sie über einen manuellen Aktivierungscode (etwa bei Lucky Mobile) statt per QR-Scan installiert haben
+- Eine direkt bei einem kanadischen Anbieter ausgestellte Prepaid-eSIM, deren automatische Konfiguration fehlgeschlagen ist
 - So gut wie nie bei einer Reise-eSIM – genau das ist der Sinn eines verwalteten Profils
 
 ### APN-Menüpfade für iPhone und Android
@@ -235,11 +235,11 @@ Die automatische Konfiguration übernimmt in nahezu allen Fällen die Einstellun
 Der Menüpfad ist für jedes kanadische Netz identisch; nur die oben genannten Werte variieren.
 
 - **iPhone:** Einstellungen → Mobilfunk → die eSIM-Zeile antippen → Mobilfunkdaten-Netz → APN eintragen
-- **Android:** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunktnamen → neuen APN hinzufügen
+- **Android:** Einstellungen → Netzwerk & Internet → Mobilfunknetz → Zugangspunkte → neuen APN anlegen
 
 Starten Sie das Telefon nach dem Speichern neu. Falls die Datenverbindung weiterhin fehlschlägt, prüfen Sie zuerst, dass die eSIM und nicht Ihre heimische SIM als Datenleitung ausgewählt ist, bevor Sie weitere Änderungen vornehmen.
 
-## Der Aktivierungsweg für eine Kanada-eSIM
+## Der Aktivierungsweg für eine kanadische Datenleitung
 
 Wenn Sie diesen Abschnitt durchgehen, gelangen Sie von einer sauberen Installation zu einer funktionierenden Datenverbindung – und die vier Fehlermuster, die ein kanadisches Netz tatsächlich hervorrufen kann, werden in der Reihenfolge behandelt, in der sie auftreten.
 
@@ -249,11 +249,11 @@ Führen Sie diese fünf Schritte im heimischen WLAN durch, nicht erst in der Ank
 
 | # | Prüfen | Was „gut“ bedeutet |
 |:---|:---|:---|
-| 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | „Keine SIM-Beschränkungen“ wird unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre angezeigt |
-| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder der [Kompatibilitätscheck](/compatibility/) bestätigt Ihr Modell |
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon **und** in einem Cloud-Speicher abgelegt |
+| 1 | Das Telefon ist an keinen Provider gebunden | Unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre erscheint „Keine SIM-Beschränkungen“ |
+| 2 | Ihr Gerät beherrscht eSIM | `*#06#` zeigt eine EID an; kanadische Anbieter lesen dieses Feld vor der Freischaltung |
+| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon **und** in einem Cloud-Speicher abgelegt, bevor Sie fliegen |
 | 4 | Profil vor der Abreise installieren | Installieren Sie das Profil zu Hause über WLAN; die Verbindung wird bei der Landung automatisch hergestellt |
-| 5 | Datenleitung und Roaming eingestellt | eSIM für mobile Daten ausgewählt, Datenroaming aktiviert |
+| 5 | Datenleitung und Roaming eingestellt | kanadische Datenleitung für mobile Daten ausgewählt, Datenroaming aktiviert |
 
 Den vierten Schritt erledigen Sie zu Hause. In den Ankunftshallen von Toronto Pearson und Vancouver ist das WLAN genau dann überlastet, wenn Sie es am dringendsten brauchen, und ein Profil, das Sie vor Ort installieren, konkurriert mit dem aller anderen.
 
@@ -271,24 +271,24 @@ Unsere [Anleitung zur Aktivierung](/faq/how-to-activate-an-esim/) beschreibt den
 
 Allgemeine Aktivierungsfehler – ein Profil, das nicht heruntergeladen werden kann, ein fehlgeschlagener Scan, eine eSIM, die installiert ist, sich aber nie registriert – werden in unserem [eSIM-Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Die vier Fehlermuster unten sind spezifisch für Kanada.
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das kanadische Profil lädt nicht**
 1. Einstellungen → Allgemein → Info → SIM-Lock: „Keine SIM-Beschränkungen“ ist die einzige akzeptable Anzeige
 2. Bestätigen Sie, dass der Code noch aktuell ist – ein bereits verwendeter QR-Code lässt sich nie installieren
 3. Prüfen Sie beim Netzbetreiber, ob das Profil noch aussteht
 
-**B. Installiert, aber keine Signalbalken**
-1. Prüfen Sie den Sperrstatus erneut
+**B. Installiert, aber kein Netz in Kanada**
+1. Kontrollieren Sie unter Einstellungen → Allgemein → Info, ob wirklich „Keine SIM-Beschränkungen“ steht – Bell, Rogers und TELUS lassen nur entsperrte Geräte ins Netz
 2. Einstellungen → Mobilfunk → Netzwerkauswahl → Bell, Rogers oder TELUS manuell statt automatisch auswählen
 3. Netzwerkeinstellungen zurücksetzen und anschließend neu starten
 
-**C. Signalbalken, aber kein Internet**
+**C. Balken da, aber keine Datenverbindung**
 1. APN erneut in der Netzbetreiber-Tabelle oben nachschlagen
-2. Mobile Daten auf die eSIM-Leitung und nicht auf Ihre Heim-SIM legen
+2. Mobile Daten auf die Datenleitung und nicht auf Ihre Heim-SIM legen
 3. Prüfen Sie, ob Ihr Datenvolumen nicht aufgebraucht ist – Lucky Mobile und ähnliche Prepaid-Marken drosseln auf 128 Kbps, anstatt die Verbindung zu trennen
 
-**D. „SOS“ oder „Nur Notrufe“**
+**D. Nur „SOS" oder „Nur Notrufe" in der Statusleiste**
 1. Im SIM-Manager prüfen, ob die eSIM als aktiviert angezeigt wird
-2. Alle anderen aktiven SIM- oder eSIM-Profile deaktivieren oder löschen
+2. Alle anderen aktiven SIM- oder Profile deaktivieren oder löschen
 3. Neu starten und Netzwerkeinstellungen zurücksetzen
 4. Als letzten Ausweg das Profil entfernen und mit einem neuen QR-Code neu installieren
 
@@ -296,13 +296,13 @@ Allgemeine Aktivierungsfehler – ein Profil, das nicht heruntergeladen werden k
 
 | Informationen | Wo Sie diese finden |
 |:---|:---|
-| Bestell- oder Kundennummer | Bestätigungs-E-Mail |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Bestell- oder Kundennummer | Die Auftragsbestätigung per E-Mail von Lucky Mobile, Rogers oder TELUS |
+| Handy-Modell und iOS-/Android-Version | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
 | EID | `*#06#` |
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Noch im Fehlerdialog aufnehmen – den Nachweis, den der Support zuerst sehen will |
 | Aktuelle APN-Einstellungen | Einstellungen → Mobiles Datennetzwerk |
-| Datenroaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Datenroaming-Schalter | Einstellungen → Mobiles Netz → die kanadische Datenleitung |
+| Was Sie schon probiert haben | Kurz und chronologisch aufschreiben |
 
 ## Häufige Fragen zu eSIMs und Netzen in Kanada
 
@@ -328,7 +328,7 @@ Lucky Mobile, mit **19 $/Monat für 500 MB**, 5 GB für 25 $/Monat und 15 GB fü
 
 ### Wie prüfe ich IMEI und EID für Kanada?
 
-Das Gerät muss netzbetreiberfrei und eSIM-fähig sein. Prüfen Sie beides in einem Schritt mit der [eSIM-Kompatibilitätsliste](/compatibility/) — diese deckt die EID-Unterstützung und die Bandfrage ab, einschließlich des ländlichen 5G-Bands n71, das vielen internationalen Geräten fehlt. Wenn Sie zunächst verstehen möchten, was bei der Installation passiert, lesen Sie die [Erklärung der Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/).
+Das Gerät muss netzbetreiberfrei und eSIM-fähig sein. Prüfen Sie beides in einem Schritt mit der eSIM-Kompatibilitätsliste — diese deckt die EID-Unterstützung und die Bandfrage ab, einschließlich des ländlichen 5G-Bands n71, das vielen internationalen Geräten fehlt. Wenn Sie zunächst verstehen möchten, was bei der Installation passiert, lesen Sie die [Erklärung der Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 ### Wie entsperre ich ein Gerät für kanadische Netze?
 
@@ -342,19 +342,19 @@ Direkt bedeutet ein Netz, vom Netzbetreiber ausgestellte Bereitstellung und oft 
 
 Lucky Mobile tut das — es bewirbt eine Touristen-eSIM für Besucher Kanadas mit Tarifen ab 19 $/Monat, ohne Bonitätsprüfung und ohne langfristige Bindung. Bell, Rogers und TELUS verkaufen kein Touristenprodukt im eigentlichen Sinne; ihre nächsten Entsprechungen sind Prepaid-Stufen, die eine kanadische Identifikation voraussetzen.
 
-### Kann ich die eSIM parallel zur Heim-SIM nutzen?
+### Kann ich die kanadische Datenleitung parallel zur Heim-SIM nutzen?
 
-Ja — es ist die sauberste Möglichkeit, eine lokale Nummer zu behalten, während Ihre Heimatleitung aktiv bleibt. Belassen Sie die physische SIM für Anrufe und SMS-Verifizierung und nutzen Sie die Kanada-eSIM für Daten. In den Einstellungen richten Sie mobile Daten auf die eSIM-Leitung und belassen Sie Ihre Heimatleitung für Sprache. Zwei Hinweise: Schalten Sie Datenroaming auf Ihrer Heimat-SIM aus, damit Ihnen kein Hintergrundverkehr berechnet wird, und denken Sie daran, dass die meisten reinen Daten-eSIMs keine SMS empfangen können, sodass Bank-Codes weiterhin auf Ihrer Heimatnummer eingehen.
+Ja — es ist die sauberste Möglichkeit, eine lokale Nummer zu behalten, während Ihre Heimatleitung aktiv bleibt. Belassen Sie die physische SIM für Anrufe und SMS-Verifizierung und nutzen Sie die kanadische Datenleitung für Daten. In den Einstellungen richten Sie mobile Daten auf die Datenleitung und belassen Sie Ihre Heimatleitung für Sprache. Zwei Hinweise: Schalten Sie Datenroaming auf Ihrer Heimat-SIM aus, damit Ihnen kein Hintergrundverkehr berechnet wird, und denken Sie daran, dass die meisten reinen Daten-eSIMs keine SMS empfangen können, sodass Bank-Codes weiterhin auf Ihrer Heimatnummer eingehen.
 
-### Wie aktiviere ich meine Kanada-eSIM Schritt für Schritt?
+### Wie aktiviere ich meine kanadische Datenleitung Schritt für Schritt?
 
 Arbeiten Sie die vier Kanada-spezifischen Muster oben der Reihe nach durch — Sperrstatus, Netzwerkauswahl, APN und Datenleitung, dann Profil-Neuinstallation — und falls es weiterhin fehlschlägt, deckt der umfassendere Fehlerkatalog im [Leitfaden zur Aktivierungsfehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Halten Sie Ihre EID, Bestellnummer und einen Screenshot bereit, bevor Sie den Support kontaktieren.
 
 ### Was macht ein eSIM-Chip genau?
 
-Die eSIM ist ein eingelöteter Chip, der Netzbetreiberprofile anstelle einer Plastikkarte speichert — der Netzbetreiber überträgt ein Profil, Ihr Telefon schreibt es auf den Chip, und die Leitung verhält sich wie jede andere. Die [eSIM-Aktivierung im Detail](/faq/what-is-esim-activation-and-how-does-it-work/) erläutert die SM-DP+-Server und den einmalig verwendbaren QR-Code.
+Die eSIM ist ein eingelöteter Chip, der Netzbetreiberprofile anstelle einer Plastikkarte speichert — der Netzbetreiber überträgt ein Profil, Ihr Telefon schreibt es auf den Chip, und die Leitung verhält sich wie jede andere. Die eSIM-Aktivierung im Detail erläutert die SM-DP+-Server und den einmalig verwendbaren QR-Code.
 
-Weitere Fragen? [Alle FAQs ansehen](/faq/)
+Weitere Fragen zur Netzbetreiberwahl in Kanada? [Antworten im FAQ-Überblick](/faq/)
 
 ## Welche Quellen hinter diesem Guide stehen
 
@@ -368,12 +368,12 @@ Weitere Fragen? [Alle FAQs ansehen](/faq/)
 
 Alles oben Genannte ist eine Drittanbieter-Messung. Ihr eigener Durchsatz schwankt je nach Gerät, dem genutzten Band und der Auslastung der Zelle.
 
-## So nutzen Sie eine Kanada-eSIM in allen Netzen
+## So nutzen Sie eine kanadische Datenleitung in allen Netzen
 
-Roami behält Ihre Kanada-eSIM als einziges Profil und übergibt sie an dasjenige nationale Netz, das dort, wo Sie stehen, am stärksten ist — Bell in der Innenstadt, TELUS auf den Bergpässen. Starten Sie mit einer [kostenlosen Kanada-Test-eSIM](/free-esim/), oder erhalten Sie 20 % Rabatt auf einen kostenpflichtigen Tarif mit dem Code **WEB20**, wenn Sie [Ihre Kanada-eSIM auswählen](/canada-esim/).
+Roami behält Ihre kanadische Datenleitung als einziges Profil und übergibt sie an dasjenige nationale Netz, das dort, wo Sie stehen, am stärksten ist — Bell in der Innenstadt, TELUS auf den Bergpässen. Starten Sie mit einer [kostenlosen Kanada-Test-eSIM](/free-esim/), oder erhalten Sie 20 % Rabatt auf einen kostenpflichtigen Tarif mit dem Code **WEB20**, wenn Sie Ihre kanadische Datenleitung auswählen.
 
-[Den Kanada-eSIM-Tarif holen](/canada-esim/)
+[Den kanadische Datenleitung-Tarif holen](/canada-esim/)
 
 *20 % Rabatt gelten für eine erste Bestellung*
 
-[Kostenlose Kanada-eSIM testen](/free-esim/)
+[Kostenlose kanadische Datenleitung testen](/free-esim/)

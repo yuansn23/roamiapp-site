@@ -16,19 +16,19 @@ hero_subtitle_main: "Welches Netz bedient Ihre Route – und was die Daten sagen
 ---
 
 
-Es gibt hier kein Festland als Sicherheitsnetz – die Malediven bestehen aus 1.192 Koralleninseln, verteilt über 26 Atolle, verbunden nur durch Schnellboote und Wasserflugzeuge, mit zwei lizenzierten Netzbetreibern, die Ihre eSIM zwischen ihnen tragen. Die Entscheidung lautet also nicht „wer ist in der Innenstadt am schnellsten“, sondern „wer hat noch Empfang, wenn ein Transfer Sie an einem Resort 90 km von Malé absetzt“. Dhiraagu bedient die größere Zahl bewohnter Inseln und Resortatolle; Ooredoo ist genau dort am stärksten, wo die meisten Ankünfte zuerst landen – in Malé und Hulhumalé. Wählen Sie falsch, wird Ihre Malediven-eSIM in dem Moment zu einem toten Rechteck, in dem die Hauptstadt hinter Ihnen verschwindet.
+Es gibt auf den Malediven kein Festland als Sicherheitsnetz – die Malediven bestehen aus 1.192 Koralleninseln, verteilt über 26 Atolle, verbunden nur durch Schnellboote und Wasserflugzeuge, mit zwei lizenzierten Netzbetreibern, die Ihre eSIM zwischen ihnen tragen. Die Entscheidung lautet also nicht „wer ist in der Innenstadt am schnellsten“, sondern „wer hat noch Empfang, wenn ein Transfer Sie an einem Resort 90 km von Malé absetzt“. Dhiraagu bedient die größere Zahl bewohnter Inseln und Resortatolle; Ooredoo ist genau dort am stärksten, wo die meisten Ankünfte zuerst landen – in Malé und Hulhumalé. Wählen Sie falsch, wird Ihre Malediven-eSIM in dem Moment zu einem toten Rechteck, in dem die Hauptstadt hinter Ihnen verschwindet.
 
 **Schnelle Antwort:** Kaufen Sie Ihre Malediven eSIM vor der Abreise, installieren Sie sie vor der Landung, und wählen Sie Dhiraagu oder Ooredoo je nachdem, ob Ihre Route ländlich oder städtisch ist – der vollständige Vergleich unten zeigt, wer wofür geeignet ist. Der [Kompatibilitäts-Check](/compatibility/) beantwortet die eine Frage, die Malediven-Besucher am häufigsten überspringen.
 
 Lässt sich das Profil nicht installieren, retten weder Geschwindigkeitstest noch Netzabdeckungskarte die Reise. Die [Kompatibilitätsliste](/compatibility/) und diese [Anleitung zur eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) decken die Grundlagen ab, sodass dieser Guide sich ganz auf den direkten Netzvergleich konzentrieren kann.
 
-**Das Urteil vorab:** Bleiben Sie in einem Resort oder springen Sie zwischen lokalen Inseln? **Dhiraagu** hat die breitere Abdeckung über die Atolle hinweg und ist die sicherere Wahl für alles jenseits von Malé. Verbringen Sie Ihre ersten Nächte in Malé oder Hulhumalé und möchten die schnellsten Stadtgeschwindigkeiten? **Ooredoo** gewinnt dort. Beide verkaufen Touristen-eSIMs direkt (Reisepass + Selfie, QR per E-Mail), und beide sind teuer im Vergleich zu einer Reise-eSIM, die vor dem Flug installiert wird. Am wichtigsten: **Resort-WLAN ist kein Plan** – Transfers, Sandbänke und Bootsausflüge haben keinerlei Empfang, daher ist eine Malediven-eSIM auf Dhiraagu das, was Sie erreichbar hält. Mit der [kostenlosen eSIM-Testphase](/free-esim/) prüfen Sie beide Netze kostenlos; nutzen Sie den Code **WEB20** für 20 % Rabatt auf [Malediven eSIM-Tarife](/maldives-esim/).
+**Das Urteil vorab:** Bleiben Sie in einem Resort oder springen Sie zwischen lokalen Inseln? **Dhiraagu** hat die breitere Abdeckung über die Atolle hinweg und ist die sicherere Wahl für alles jenseits von Malé. Verbringen Sie Ihre ersten Nächte in Malé oder Hulhumalé und möchten die schnellsten Stadtgeschwindigkeiten? **Ooredoo** gewinnt dort. Beide verkaufen Touristen-eSIMs direkt (Reisepass + Selfie, QR per E-Mail), und beide sind teuer im Vergleich zu einer Reise-eSIM, die vor dem Flug installiert wird. Am wichtigsten: **Resort-WLAN ist kein Plan** – Transfers, Sandbänke und Bootsausflüge haben keinerlei Empfang, daher ist ein Profil auf Dhiraagu das, was Sie erreichbar hält. Mit der [kostenlosen eSIM-Testphase](/free-esim/) prüfen Sie beide Netze kostenlos; nutzen Sie den Code **WEB20** für 20 % Rabatt auf [Malediven eSIM-Tarife](/maldives-esim/).
 
 ## Wo welches Netz stärker ist
 
 Die Malediven sind kein Land, das man durchquert – es ist eine Nation aus Koralleninseln, verstreut über 26 Atolle, und Ihre einzigen Verbindungen zwischen ihnen sind Schnellboote und Wasserflugzeuge. Diese Geografie entscheidet alles bei der Netzbetreiberwahl.
 
-- **Malé und Hulhumalé** liegen auf den am besten angebundenen Inseln des Landes. Sowohl Dhiraagu als auch Ooredoo haben hier dichtes 4G/5G, und Ooredoo ist in der Hauptstadt häufig die schnellere der beiden.
+- **Malé und Hulhumalé** liegen auf den am besten angebundenen Inseln des Landes. Sowohl Dhiraagu als auch Ooredoo haben auf den Malediven dichtes 4G/5G, und Ooredoo ist in der Hauptstadt häufig die schnellere der beiden.
 - **Resortatolle (Süd-Ari, Baa, Nord-/Süd-Malé-Atoll)** sind der Bereich, in dem Dhiraagu die Nase vorn hat. Sein Netz erreicht mehr private Resortinseln und entlegene Atolle – deshalb setzen die meisten Reise-eSIMs und Resort-Anbindungen darauf.
 - **Die Transfers selbst haben keine Netzabdeckung.** Eine Wasserflugzeug- oder Schnellbootfahrt ist ein garantiertes Funkloch – keine Balken, keine Daten, kein WLAN. Planen Sie Ihre Nachricht an das nächste Hotel *vor* dem Einsteigen, nicht danach.
 - **Lokale Inseln (Maafushi, Dhigurah, Thulusdhoo)** werden von beiden versorgt, aber Dhiraagu erreicht auch die kleineren Gasthausinseln tendenziell zuverlässiger.
@@ -119,15 +119,15 @@ Sechs Dinge entscheiden darüber, ob eine Touristen-eSIM der Malediven die Regis
 | 3 | **Eine Karte, die auch an ausländischen Kartenterminals funktioniert** | Maledivische Touristenschalter akzeptieren viele Karten nicht – halten Sie eine Ersatzkarte bereit oder kaufen Sie eine Reise-eSIM, die in Ihrer Heimatwährung abgerechnet wird |
 | 4 | **Profil bequem von zu Hause aus installieren** | Am Flughafen Velana überlastet sich das Ankunfts-WLAN, sobald ein ganzer Flug gleichzeitig online geht; installieren Sie Ihr Profil daher in Ruhe über Ihre eigene Verbindung und kommen Sie bereits vernetzt an |
 | 5 | **eSIM als Datenleitung eingerichtet, Roaming aktiviert** | Erledigen Sie das, bevor Sie in den Transfer steigen, sonst kommen Sie im Resort ohne jegliche Datenverbindung an |
-| 6 | **Transfertdetails offline gespeichert** | Kein Funkmast versorgt offenes Wasser, speichern Sie daher Bestätigungen und Kartenausschnitte auf dem Gerät, bevor Sie den Steg verlassen |
+| 6 | **Transferdetails offline gespeichert** | Kein Funkmast versorgt offenes Wasser, speichern Sie daher Bestätigungen und Kartenausschnitte auf dem Gerät, bevor Sie den Steg verlassen |
 
-Und eine nicht in Dokumenten festgehaltene Realität, die es zu wiederholen lohnt: **Das WLAN im Resort ist kein Datentarif.** Betrachten Sie Ihre Malediven-eSIM als das einzige Signal, auf das Sie sich verlassen können, sobald Sie die Lobby hinter sich gelassen haben.
+Und eine nicht in Dokumenten festgehaltene Realität, die es zu wiederholen lohnt: **Das WLAN im Resort ist kein Datentarif.** Betrachten Sie Ihre Datenleitung als das einzige Signal, auf das Sie sich verlassen können, sobald Sie die Lobby hinter sich gelassen haben.
 
 ## Der beste Netzbetreiber je nach Reise
 
 Ihre Reiseroute, nicht ein Geschwindigkeitstest, sollte den Netzbetreiber bestimmen. Acht gängige Malediven-Routen:
 
-| Ihre Reise | Bester Netzbetreiber | Warum | Vorsicht vor |
+| Ihre Route | Empfohlenes Netz | Begründung | Stolperfalle |
 |:---|:---|:---|:---|
 | Städtetrip nach Malé | Ooredoo (am schnellsten) / Dhiraagu (okay) | Beide in der Hauptstadt stark ausgebaut; Ooredoo liegt bei der Geschwindigkeit leicht vorne | Der kurze Weg vom Flughafen in die Stadt ist abgedeckt |
 | Einwöchiger Resortaufenthalt auf zentralen Atollen | Dhiraagu | Größte Reichweite auf Resortinseln | Overwater-Villen weit vom Hauptgebäude können eine schwache Netzabdeckung haben |
@@ -136,13 +136,13 @@ Ihre Reiseroute, nicht ein Geschwindigkeitstest, sollte den Netzbetreiber bestim
 | Baa-Atoll, Mantra-Saison (Mai–Nov) | Dhiraagu | Hauptsächlich bewohnte Inseln versorgt; Dhiraagu ist dort führend | Abgelegene Inseln haben möglicherweise nur 3G oder keinen Empfang |
 | Honeymoon-Overwater-Villa | Dhiraagu | Zuverlässigstes Atoll-Signal für Videoanrufe nach Hause | Resort-WLAN ist auf die Lobby beschränkt; eSIM ist die Absicherung |
 | Tagesausflug zu einer Sandbank / Delfinkreuzfahrt | Keines von beiden | Ausflüge auf offene See sind Funklöcher | Nachricht vor der Abreise aus dem Resort senden |
-| Multi-Atoll-Safaris | Dhiraagu | Einziger Netzbetreiber, auf den man sich zwischen den Inseln verlassen kann | Auf längeren Strecken auf See ist mit Offline-Zeiten zu rechnen |
+| Atoll-Hopping per Boot | Dhiraagu | Der zuverlässigere Netzbetreiber zwischen den Inseln | Auf längeren Strecken auf See ist mit Offline-Zeiten zu rechnen |
 
 Eine Multi-Network-eSIM ist die praktische Antwort auf die Frage „welcher Netzbetreiber“ – sie wählt sich auf dem abgelegenen Atoll Dhiraagu und Ooredoo in Malé aus, ohne dass Sie zweimal kaufen müssen.
 
 ## Netzabdeckung Ihrer Malediven-eSIM in den Atollen
 
-| Region | Realität vor Ort | Bester Netzbetreiber | Vorsicht vor |
+| Atoll bzw. Region | Realität vor Ort | Empfohlenes Netz | Worauf Sie achten sollten |
 |:---|:---|:---|:---|
 | Malé & Hulhumalé | Dichtes 4G/5G, fällt in der Innenstadt selten auf 3G zurück | Ooredoo (am schnellsten) / Dhiraagu (in Ordnung) | Der Transfer vom Flughafen in die Stadt ist kurz und abgedeckt |
 | Süd-Ari- und Baa-Atolle | Große Resortinseln sind gut versorgt; kleinere Inseln haben möglicherweise nur 3G | Dhiraagu | Abgelegene Inseln verfügen möglicherweise nur über 3G oder keinen Empfang |
@@ -159,17 +159,17 @@ Fliegen Sie ab Malé weiter? Die gleiche bewährte Methode gilt auch für die Se
 
 ## Geschwindigkeiten und Marktdaten
 
-Der Speedtest Global Index von Ookla [veröffentlicht keinen Medianwert für mobile oder feste Netze auf den Malediven](https://www.speedtest.net/global-index/maldives) – der Eintrag des Landes zeigt N/A – daher nennen wir keine nationale Download-Zahl, anstatt eine zu schätzen. Was wir mit Quellen belegen können:
+Der Speedtest Global Index von Ookla [veröffentlicht keinen Medianwert für mobile oder feste Netze auf den Malediven](https://www.speedtest.net/global-index/maldives) – der Malediven-Eintrag zeigt N/A – daher nennen wir keine nationale Download-Zahl, anstatt eine zu schätzen. Was wir mit Quellen belegen können:
 
-- **Preis pro GB:** Die weltweite Erhebung von Cable.co.uk beziffert 1 GB mobile Daten auf den Malediven auf etwa [2,16 USD](https://www.cable.co.uk/mobiles/worldwide-data-pricing/), womit das Land auf Platz 164 von 237 Märkten liegt (globaler Durchschnitt: 2,59 USD). Lokale Daten sind mittelpreisig – nicht günstig, aber auch nicht unverschämt teuer.
+- **Preis pro GB:** Die weltweite Erhebung von Cable.co.uk beziffert 1 GB mobile Daten auf den Malediven auf etwa [2,16 USD](https://www.cable.co.uk/mobiles/worldwide-data-pricing/), womit die Malediven auf Platz 164 von 237 Märkten liegt (globaler Durchschnitt: 2,59 USD). Lokale Daten sind mittelpreisig – nicht günstig, aber auch nicht unverschämt teuer.
 - **Marktreife:** DataReportal beziffert die Online-Quote der Malediven auf [84,7 %, mit einer Mobilfunk-Penetrationsrate von 162 %](https://datareportal.com/reports/digital-2025-maldives) – mehr aktive Mobilfunkanschlüsse als Einwohner, was auf Touristen und Dual-SIM-Nutzung zurückzuführen ist.
 - **Netzbetreiberqualität:** Dhiraagu führte die Berichterstattung von Ookla zu den Malediven in puncto Videozuverlässigkeit und Latenz an; Ooredoo führt bei der Geschwindigkeit in der Hauptstadtregion. Unabhängige Mobilfunk-Geschwindigkeitsbenchmarks pro Netzbetreiber für die Malediven sind begrenzt. Betrachten Sie Geschwindigkeitsangaben für Städte daher als Richtwerte, nicht als auf den Mbps genau gemessene Versprechen.
 
-## APN manuell einrichten
+## APN für Dhiraagu und Ooredoo von Hand eintragen – nur in diesen Fällen
 
 Sie benötigen diese Angaben nur, wenn Sie Ihre Malediven-eSIM **direkt von einem maledivischen Netzbetreiber** gekauft haben. Bei einer Reise-eSIM liefert das Profil die eigene APN; in diesem Fall sollten Sie nichts ändern.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Netzbetreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 |:---|:---|:---|:---|
 | Dhiraagu | `internet` | leer | leer |
 | Ooredoo | `internet` | leer | leer |
@@ -178,17 +178,17 @@ Benutzername und Passwort leer lassen. Bei einer Touristen-eSIM werden diese aut
 
 **Wo Sie den APN auf iPhone und Android eintragen:**
 - **iPhone:** Einstellungen → Mobilfunk → auf die eSIM-Leitung tippen → Mobilfunkdaten-Netz → den APN eintragen
-- **Android:** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunkte → neuen APN hinzufügen
+- **Android:** Einstellungen → Netzwerk & Internet → Mobilfunknetz → Zugangspunkte (APN) → APN hinzufügen
 
 Nach dem Speichern das Handy neu starten. Falls die Datenverbindung weiterhin nicht funktioniert, prüfen Sie zuerst, dass die eSIM — und nicht Ihre Heim-SIM — als Datenleitung ausgewählt ist, bevor Sie etwas anderes ändern.
 
 ## Vier typische Fehler der Malediven-eSIM
 
-Nur sehr wenig von dem, was bei einer Malediven-eSIM schiefläuft, ist ein allgemeiner SIM-Fehler. Die Installationsabfolge — Profil hinzufügen, Code scannen, Leitung beschriften, Roaming einschalten — ist Schritt für Schritt in unserem [Aktivierungs-Leitfaden](/faq/how-to-activate-an-esim/) beschrieben, und der gewöhnliche Fehlerkatalog findet sich im [Leitfaden für Aktivierungsprobleme](/faq/esim-activation-errors-troubleshooting-guide/). Der Teil, der wirklich auf diese Inseln beschränkt ist, ist kürzer und fast immer geografisch oder regulatorisch bedingt.
+Nur sehr wenig von dem, was bei einer Malediven-Datenleitung schiefläuft, ist ein allgemeiner SIM-Fehler. Die Installationsabfolge — Profil hinzufügen, Code scannen, Leitung beschriften, Roaming einschalten — ist Schritt für Schritt in unserem [Aktivierungs-Leitfaden](/faq/how-to-activate-an-esim/) beschrieben, und der gewöhnliche Fehlerkatalog findet sich im [Leitfaden für Aktivierungsprobleme](/faq/esim-activation-errors-troubleshooting-guide/). Der Teil, der wirklich auf diese Inseln beschränkt ist, ist kürzer und fast immer geografisch oder regulatorisch bedingt.
 
 ### Volle Balken in Malé und kein Empfang auf dem Atoll
 
-Das ist ein Umstellungseffekt, kein defektes Profil. Eine Malediven-eSIM, die auf Ooredoo festgelegt ist und dann zu einem entfernten Atoll weiterreist, kann einfach deshalb „kein Netz“ anzeigen, weil das Handy keinen neuen Sendemast gewählt hat. Öffnen Sie Einstellungen → Mobilfunk → Netzwahl, lassen Sie „Automatisch“ und wählen Sie Dhiraagu manuell — oder nutzen Sie ein Mehrnetz-Profil, das beim Ortswechsel automatisch neu auswählt. Es ist nichts kaputt; das Handy hängt lediglich am falschen Betreiber für Ihren Standort.
+Das ist ein Umstellungseffekt, kein defektes Profil. Eine Malediven-eSIM, die auf Ooredoo festgelegt ist und dann zu einem entfernten Atoll weiterreist, kann einfach deshalb „kein Netz“ anzeigen, weil das Handy keinen neuen Sendemast gewählt hat. Öffnen Sie Einstellungen → Mobilfunk → Netzwahl, schalten Sie von „Automatisch“ auf manuell um und wählen Sie Dhiraagu — oder nutzen Sie ein Mehrnetz-Profil, das beim Ortswechsel automatisch neu auswählt. Es ist nichts kaputt; das Handy hängt lediglich am falschen Betreiber für Ihren Standort.
 
 Wenn die manuelle Auswahl bei Dhiraagu keinerlei Datenverbindung liefert, ist das Problem von der Netzabdeckung zur Konfiguration gewandert — und bei einer Touristen-eSIM sollte das Profil den APN bereits mitgeliefert haben; es handelt sich also eher um eine Frage an den Netzbetreiber als um eine Einstellungssache.
 
@@ -251,17 +251,17 @@ Die Netzbetreiber übernehmen das für Sie beim Kauf — aber die Registrierung 
 
 ### Reicht das Resort-WLAN statt einer eSIM?
 
-Oft nicht. Resort-WLAN ist in der Regel langsam, gedrosselt oder auf Lobby-/Restaurantbereiche beschränkt und verschwindet bei Transfers und Ausflügen vollständig. Eine Malediven-eSIM auf Dhiraagu ist die zuverlässige Reserve und die einzige Verbindungsmöglichkeit im Wasserflugzeug oder Speedboot.
+Oft nicht. Resort-WLAN ist in der Regel langsam, gedrosselt oder auf Lobby-/Restaurantbereiche beschränkt und verschwindet bei Transfers und Ausflügen vollständig. Ein Profil auf Dhiraagu ist die zuverlässige Reserve und die einzige Verbindungsmöglichkeit im Wasserflugzeug oder Speedboot.
 
 ### Verlangen Geschäfte einen Ausweis für maledivische SIMs?
 
 Ja, wenn Sie am Velana kaufen möchten — die Registrierung mit einem Reisepass ist erforderlich, damit der Schalter die SIM aktiviert, und ein anonymer spontaner Kauf ist nicht möglich. Wenn Sie bereits zu Hause eine Reise-eSIM oder eine vorab gekaufte Netzbetreiber-eSIM installiert haben, müssen Sie am Schalter gar nicht anhalten.
 
-### Kann ich meine eSIM und meine Heimat-SIM gleichzeitig nutzen?
+### Lassen sich Reise-eSIM und Heimat-SIM parallel betreiben?
 
 Ja. Behalten Sie Ihre Heimat-SIM für Anrufe und SMS (deaktivieren Sie deren Datenroaming, damit keine Gebühren anfallen), und nutzen Sie die eSIM für Daten. Die meisten reinen Daten-eSIMs können keine SMS empfangen, daher kommen Bank-Codes weiterhin auf Ihrer Heimatnummer an.
 
-### Gibt es auf jeder Insel Empfang?
+### Gibt es auf jeder Malediven-Insel Empfang?
 
 Auf den wichtigsten Resort- und bewohnten Inseln: ja — sowohl Dhiraagu als auch Ooredoo versorgen sie. Auf den kleinsten oder abgelegensten Inseln müssen Sie mit 3G oder gar nichts rechnen, und während des Boots- oder Wasserflugzeugtransfers zwischen den Inseln ist das Signal komplett weg.
 
@@ -281,7 +281,7 @@ Nein. Ohne Aufenthaltsgenehmigung sind Sie auf die teureren Touristentarife besc
 
 Sie geht offline. Wasserflugzeug- und Speedbootüberfahrten sind während der gesamten Fahrt Funklöcher. Schreiben Sie Ihrem nächsten Hotel eine Nachricht und laden Sie alle Karten oder Unterhaltung herunter, bevor Sie einsteigen.
 
-### Reicht Ooredoo wenn ich Malé nie verlasse?
+### Reicht Ooredoo, wenn ich Malé nie verlasse?
 
 Für einen Aufenthalt nur in Malé/Hulhumalé: ja — Ooredoo ist das schnellere Hauptstadtnetz und eine Touristen-eSIM ist leicht zu kaufen. Sobald Sie in ein Resortatoll wechseln, wird Dhiraagu zur sichereren Wahl.
 
@@ -305,12 +305,12 @@ Ja, beide Netzbetreiber erlauben Aufladungen online oder in Geschäften, aber ei
 
 ## Versorgungslücken bei Wasserflugzeug und Speedboot
 
-Die meisten Verbindungsprobleme auf den Malediven passieren auf einem Transfer, nicht auf einer Insel. Ein Speedboot von Malé zu einer nahegelegenen Insel dauert 20–90 Minuten ohne jedes Signal; ein Wasserflugzeug zu einem weit entfernten Atoll bedeutet 20–45 Minuten Funkstille; und ein Inlandsflug zu einer abgelegenen Insel lässt Sie über dem offenen Wasser ebenfalls offline. Die praktische Routine:
+Die meisten Verbindungsprobleme auf den Malediven passieren auf einem Transfer, nicht auf einer Insel. Ein Speedboot von Malé zu einer nahegelegenen Insel dauert 20–90 Minuten ohne jedes Signal; ein Wasserflugzeug zu einem weit entfernten Atoll bedeutet 20–45 Minuten Funkstille; und ein Inlandsflug zu einer abgelegenen Insel lässt Sie über dem offenen Wasser ebenfalls ohne Empfang. Die praktische Routine:
 
 - **Bevor Sie irgendetwas besteigen**, senden Sie Ihre Resort-Bestätigung, den Transferfahrer-Kontakt und die nächsten Schritte an Ihre Mitreisenden und an sich selbst.
 - **Laden Sie Offline-Karten** für die Atolle herunter, die Sie besuchen — Offline-Kartenbereiche decken die meisten bewohnten Inseln ab.
 - **Sagen Sie den Leuten zu Hause, dass Sie während der Überfahrt ausfallen werden**; versprechen Sie keinen Live-Anruf aus dem Wasserflugzeug.
-- **Richten Sie Ihre Nachrichten an den Inseln aus, nicht auf dem Wasser.** Beide Enden jedes Transfers haben Empfang; die Mitte nicht. In dem Moment, in dem das Boot den Steg berührt, verbindet sich Ihre Malediven-eSIM wieder.
+- **Richten Sie Ihre Nachrichten an den Inseln aus, nicht auf dem Wasser.** Beide Enden jedes Transfers haben Empfang; die Mitte nicht. In dem Moment, in dem das Boot den Steg berührt, verbindet sich Ihre Datenleitung wieder.
 - **Belassen Sie die eSIM auf dem stärksten Netzbetreiber an jedem Ende** — Dhiraagu am Resort, Ooredoo in der Stadt — oder lassen Sie ein Multi-Netz-Profil dies für Sie erledigen.
 
 Das ist auf den Malediven normal, kein Fehler. Die eSIM sorgt dafür, dass Sie *zwischen* den Funklöchern erreichbar bleiben, nicht während dieser.
@@ -328,6 +328,6 @@ Jede Zahl auf dieser Seite ist die Messung eines anderen, nicht unser eigener Te
 
 Eine Roami Malediven-eSIM bündelt Dhiraagu und Ooredoo gleichzeitig und begleitet Sie von der Hauptstadt bis hinaus zu den Atollen — kein zweiter Kauf, kein Hochladen des Reisepasses, das Profil ruht auf Ihrem Telefon, bevor Sie fliegen, sodass die Schlange in der Ankunftshalle und am Check-in-Schalter bedeutungslos werden. Möchten Sie beide Netze zuerst ansehen? Der Test kostet nichts, und wenn Sie sich entscheiden, gibt der Code **WEB20** 20 % Rabatt auf einen kostenpflichtigen [Malediven-eSIM-Tarif](/maldives-esim/). Erst testen, dann kaufen? Beginnen Sie mit der [kostenlosen Malediven-Test-eSIM](/free-esim/).
 
-[Malediven-eSIM holen](/maldives-esim/)
+Malediven-eSIM holen
 
-[Testversion starten](/free-esim/)
+Testversion starten

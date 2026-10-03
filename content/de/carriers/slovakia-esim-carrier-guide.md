@@ -1,10 +1,8 @@
 ---
 
 
-title: "Slowakei eSIM-Netzbetreiber: Telekom, Orange, O2 und 4ka"
-
-
-description: "Roami bewertet die eSIM-Netzbetreiber der Slowakei — Telekom, Orange und 4ka — mit Tarifen für Bratislava, Košice und eine Roadtrip durch die Tatra."
+title: "Slowakei eSIM: Telekom, Orange, O2 oder 4ka im Test"
+description: "Slowakei eSIM im Vergleich: Telekom, Orange, O2 und 4ka nach Netzabdeckung, Preisen und Empfang in der Hohen Tatra für Reisende."
 image: "img/esim/carriers/slovakia-esim-carrier-guide.jpg"
 
 
@@ -52,7 +50,7 @@ hero_subtitle_main: "Was unabhängige Geschwindigkeitsdaten zeigen — und was s
 
 
 
-Die Slowakei spielt eine ungewöhnliche Rolle in der europäischen Reisekonnektivität: Die Netze sind schnell (Ookla platzierte das Land im August 2026 mit 121,19 Mbps auf **Platz 38 weltweit**), doch die lokalen Datenpreise sind wie auf einem Premium-Markt kalkuliert — **2,68 USD pro Gigabyte, Platz 182 von 237**, teurer als der globale Durchschnitt in einer Region, die eigentlich für günstige Datentarife bekannt ist. Diese Kombination prägt jede Entscheidung zur Slowakei eSIM: Die Netze lohnen sich, der lokale Zähler dagegen nicht, und die Wahl des Netzbetreibers — **Telekom**, **Orange** oder der günstige **4ka** — wird vor allem dann wichtig, wenn Sie Bratislava in Richtung Tatra verlassen. Was sieht Roami's Support-Postfach am häufigsten für die Slowakei? Genau die Probleme, die die Abschnitte zu Netzabdeckung und Registrierung weiter unten aufschlüsseln.
+Die Slowakei spielt eine ungewöhnliche Rolle in der europäischen Reisekonnektivität: Die Netze sind schnell (Ookla platzierte das Land im August 2026 mit 121,19 Mbps auf **Platz 38 weltweit**), doch die lokalen Datenpreise sind wie auf einem Premium-Markt kalkuliert — **2,68 USD pro Gigabyte, Platz 182 von 237**, teurer als der globale Durchschnitt in einer Region, die eigentlich für günstige Datentarife bekannt ist. Diese Kombination prägt jede Entscheidung zur Slowakei eSIM: Die Netze lohnen sich, der lokale Zähler dagegen nicht, und die Wahl des Netzbetreibers — **Telekom**, **Orange** oder der günstige **4ka** — wird vor allem dann wichtig, wenn Sie Bratislava in Richtung Tatra verlassen. Was sieht Roamis Support-Postfach am häufigsten für die Slowakei? Genau die Probleme, die die Abschnitte zu Netzabdeckung und Registrierung weiter unten aufschlüsseln.
 
 
 
@@ -82,13 +80,13 @@ Dieser Guide stellt die drei Netze anhand der veröffentlichten Messwerte gegen�
 
 
 
-Die Medianwerte der slowakischen Netzbetreiber hier stammen aus [Ookla's Slowakei-Bericht H2 2024](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024).
+Die Medianwerte der slowakischen Netzbetreiber hier stammen aus dem [Ookla-Slowakei-Bericht H2 2024](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024).
 
 
 
 
 
-| Die Reise | Passender Netzbetreiber | Warum |
+| Etappe Ihrer Slowakei-Route | Passender Netzbetreiber | Begründung |
 
 
 |:---|:---|:---|
@@ -121,7 +119,7 @@ Die Medianwerte der slowakischen Netzbetreiber hier stammen aus [Ookla's Slowake
 
 
 
-Die Werte von Telekom im zweiten Halbjahr 2024 führen Slowakei in allen Kategorien an: ein medianer Download von **102,38 Mbps** (Speed Score 109,35), ein Upload von 20,33 Mbps, 31 ms Latenz und das beste 5G-Gaming-Erlebnis im Land mit einem Game Score von **91,58**. Als Tochtergesellschaft von Deutsche Telekom verbindet sie die dichteste Kapazität der Hauptstadt mit der größten ländlichen Flächenabdeckung – genau die Mischung, die Bergtouren entscheidet. In der Städtetabelle ist Telekom der schnellste Anbieter in Žilina (140,70 Mbps), Nitra und Bratislava.
+Die Werte von Telekom im zweiten Halbjahr 2024 führen in der Slowakei in allen Kategorien: ein medianer Download von **102,38 Mbps** (Speed Score 109,35), ein Upload von 20,33 Mbps, 31 ms Latenz und das beste 5G-Gaming-Erlebnis im Land mit einem Game Score von **91,58**. Als Tochterunternehmen der Deutschen Telekom verbindet sie die dichteste Kapazität der Hauptstadt mit der größten ländlichen Flächenabdeckung – genau die Mischung, die Bergtouren entscheidet. In der Städtetabelle ist Telekom der schnellste Anbieter in Žilina (140,70 Mbps), Nitra und Bratislava.
 
 
 
@@ -151,7 +149,7 @@ Orange Slowakei erreicht einen medianen Download von **81,33 Mbps** (Speed Score
 
 
 
-Slowakens Mobilfunkmarkt ist kleiner als der seiner Nachbarn, und seine Werte sind besser als sein Ruf. Der mediane mobile Download des Landes liegt bei **121,19 Mbps** – Platz 38 weltweit im Speedtest Global Index – womit es vor dem rivalisierenden Österreich und deutlich vor dem größten Teil Mitteleuropas liegt. Was folgt, zeigt, wie sich dieser Durchschnitt verteilt.
+Der slowakische Mobilfunkmarkt ist kleiner als der seiner Nachbarn, und seine Werte sind besser als sein Ruf. Der mediane mobile Download des Landes liegt bei **121,19 Mbps** – Platz 38 weltweit im Speedtest Global Index – womit es vor dem rivalisierenden Österreich und deutlich vor dem größten Teil Mitteleuropas liegt. Was folgt, zeigt, wie sich dieser Durchschnitt verteilt.
 
 
 
@@ -178,7 +176,7 @@ Slowakens Mobilfunkmarkt ist kleiner als der seiner Nachbarn, und seine Werte si
 | Resorts in der Hohen Tatra | Abhängig von der Hochsaison | Telekom | Talorte sind versorgt; hochgelegene Wanderwege nicht |
 
 
-| Ländlicher Osten und Karst | Orange, Telekom | Breitester kombinierter Empfang | 4G und zeitweises 5G erwarten |
+| Ländlicher Osten und Karst (kein separater Median) | — | Telekom, Orange | Breitester kombinierter Empfang – rechnen Sie mit 4G und zeitweisem 5G |
 
 
 
@@ -196,7 +194,7 @@ Das Muster ist ungewöhnlich: **Žilina übertrifft Bratislava um 34 Mbps**, und
 
 
 
-| Reise | Typische Dauer | Komfortables Datenvolumen | Warum |
+| Slowakei-Reise | Übliche Aufenthaltsdauer | Passendes Datenvolumen | Weshalb genau so viel |
 
 
 |:---|:---|:---|:---|
@@ -205,7 +203,7 @@ Das Muster ist ungewöhnlich: **Žilina übertrifft Bratislava um 34 Mbps**, und
 | Städtetrip nach Bratislava | 2–3 Tage | 2–4 GB | WLAN in Hotels und Cafés ist im Stadtzentrum zuverlässig |
 
 
-| Bratislava plus Vienna | 4–5 Tage | 4–6 GB | Zwei Hauptstädte bedeuten zwei Zugstrecken und ständige Kartennutzung |
+| Bratislava plus Wien | 4–5 Tage | 4–6 GB | Zwei Hauptstädte bedeuten zwei Zugstrecken und ständige Kartennutzung |
 
 
 | Wanderwoche in der Hohen Tatra | 5–7 Tage | 6–9 GB | Bergtage verbrauchen Daten für Karten und Foto-Back-ups; das WLAN in den Pensionen ist schwächer |
@@ -223,13 +221,13 @@ Das Muster ist ungewöhnlich: **Žilina übertrifft Bratislava um 34 Mbps**, und
 
 
 
-One Planungshinweis, der Besucher überrascht: **Der Medianwert des Festnetz-Breitbands in der Slowakei beträgt lediglich 112,74 Mbps und liegt damit auf Platz 63 weltweit** – langsamer als das eigene Mobilfunknetz. Wenn Sie aus einem Hotel oder einer Ferienwohnung arbeiten, kann die mobile 5G-Verbindung tatsächlich die schnellere Option sein – das Gegenteil dessen, was die meisten Reisenden bei einer Europareise annehmen.
+Ein Planungshinweis, der Besucher überrascht: **Der Medianwert des Festnetz-Breitbands in der Slowakei beträgt lediglich 112,74 Mbps und liegt damit auf Platz 63 weltweit** – langsamer als das eigene Mobilfunknetz. Wenn Sie aus einem Hotel oder einer Ferienwohnung arbeiten, kann die mobile 5G-Verbindung tatsächlich die schnellere Option sein – das Gegenteil dessen, was die meisten Reisenden bei einer Europareise annehmen.
 
 
 
 
 
-Ookla Berichterstattung über die Slowakei deckt die Netzbetreiber auf nationaler Ebene ab, und die praktischen Unterschiede zwischen ihnen zeigen sich eher in der regionalen Aufteilung als in der allgemeinen Durchschnittszahl. Slowakische Telekom und Orange tauschen je nach Standort die Plätze.
+Die Ookla-Berichterstattung über die Slowakei deckt die Netzbetreiber auf nationaler Ebene ab, und die praktischen Unterschiede zwischen ihnen zeigen sich eher in der regionalen Aufteilung als in der allgemeinen Durchschnittszahl. Slowakische Telekom und Orange tauschen je nach Standort die Plätze.
 
 
 
@@ -247,7 +245,7 @@ Ookla Berichterstattung über die Slowakei deckt die Netzbetreiber auf nationale
 |:---|:---|:---|:---|
 
 
-| Orange Slovensko | Breitere 4G-Abdeckung und größte Reichweite im ländlichen Raum | Stadt-Hotspots liegen leicht zurück Telekom | Hohe Tatra, Slowakisches Paradies, Weinregion-Routen |
+| Orange Slovensko | Breitere 4G-Abdeckung und größte Reichweite im ländlichen Raum | Stadt-Hotspots liegen leicht hinter Telekom zurück | Hohe Tatra, Slowakisches Paradies, Weinregion-Routen |
 
 
 | Slowakisch Telekom | Höchste Geschwindigkeiten in Bratislava und Košice; 5G in den meisten Teilen der Hauptstadt | 4G-Netzabdeckung in ländlichen Gebieten gering Orange und O2 | Aufenthalt in der Stadt mit Tagesausflügen |
@@ -286,19 +284,19 @@ Der slowakische Telekom meldet eine 5G-Netzabdeckung von über 99 % der Bevölke
 
 
 
-Die Slowakei ist EU-Mitglied und Teil des Schengen-Raums, daher gelten zwei Rahmenwerke. Zum Roaming: Eine SIM oder eSIM aus einem anderen EU-Land funktioniert hier zu Inlandspreisen gemäß der „Roam-like-at-home"-Regelung — die [Roaming-Seite](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) der Europäischen Kommission dokumentiert die Rechte und Fair-Use-Grenzen. Bei der Ankunft: Für die meisten Besucher keine Grenzkontrollen, wodurch sich das vorinstallierte eSIM-Profil sofort am Flughafen Vienna oder Bratislava bezahlt macht.
+Die Slowakei ist EU-Mitglied und Teil des Schengen-Raums, daher gelten zwei Rahmenwerke. Zum Roaming: Eine SIM oder eSIM aus einem anderen EU-Land funktioniert hier zu Inlandspreisen gemäß der „Roam-like-at-home"-Regelung — die [Roaming-Seite](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) der Europäischen Kommission dokumentiert die Rechte und Fair-Use-Grenzen. Bei der Ankunft: Für die meisten Besucher keine Grenzkontrollen, wodurch sich das vorinstallierte eSIM-Profil sofort am Flughafen Wien oder Bratislava bezahlt macht.
 
 
 
 
 
-Für Reisende von außerhalb der EU — dem Vereinigten Königreich, den USA und die meisten Reise-eSIM-Nutzer — gibt es keine automatischen Roaming-Rechte, und genau hier spielt eine dedizierte [Slowakei-eSIM](/slovakia-esim/) ihre Stärke aus. Lokale Prepaid-Tarife erfordern eine Registrierung im Laden mit Ausweis, und lokale Daten sind nach den Maßstäben der Region teuer (2,68 USD pro Gigabyte), sodass das vorgekaufte Profil sowohl beim Papierkram als auch bei der Preisplanbarkeit gewinnt. Reine Datentarife enthalten keine slowakische Telefonnummer, was für Touristen irrelevant ist: Nachrichten, Ride-Hailing und Reservierungen laufen alle über Daten, während Ihre Heimatnummer auf der physischen SIM aktiv bleibt.
+Für Reisende von außerhalb der EU — dem Vereinigten Königreich, den USA und die meisten Reise-eSIM-Nutzer — gibt es keine automatischen Roaming-Rechte, und genau hier spielt eine dedizierte Slowakei-eSIM ihre Stärke aus. Lokale Prepaid-Tarife erfordern eine Registrierung im Laden mit Ausweis, und lokale Daten sind nach den Maßstäben der Region teuer (2,68 USD pro Gigabyte), sodass das vorgekaufte Profil sowohl beim Papierkram als auch bei der Preisplanbarkeit gewinnt. Reine Datentarife enthalten keine slowakische Telefonnummer, was für Touristen irrelevant ist: Nachrichten, Ride-Hailing und Reservierungen laufen alle über Daten, während Ihre Heimatnummer auf der physischen SIM aktiv bleibt.
 
 
 
 
 
-💡 Vienna → Bratislava → Budapest ist das klassische Mitteleuropa-Dreieck; ein regionales Profil deckt alles ab, und unser [Ungarn-eSIM-Leitfaden](/carriers/hungary-esim-carrier-guide/) sowie die [Tschechien-eSIM-Seite](/czech-republic-esim/) behandeln die angrenzenden Etappen.
+💡 Wien → Bratislava → Budapest ist das klassische Mitteleuropa-Dreieck; ein regionales Profil deckt alles ab, und unser [Ungarn-eSIM-Leitfaden](/carriers/hungary-esim-carrier-guide/) sowie die [Tschechien-eSIM-Seite](/czech-republic-esim/) behandeln die angrenzenden Etappen.
 
 
 
@@ -310,7 +308,7 @@ Für Reisende von außerhalb der EU — dem Vereinigten Königreich, den USA und
 
 
 
-Die aktuell verfügbaren Slowakei-Tarife, reine Datentarife und Unlimited, finden Sie auf der [Slowakei-eSIM-Seite](/slovakia-esim/). Die öffentlichen Daten erläutern den lokalen Maßstab:
+Die aktuell verfügbaren Slowakei-Tarife, reine Datentarife und Unlimited, finden Sie auf der Slowakei-eSIM-Seite. Die öffentlichen Daten erläutern den lokalen Maßstab:
 
 
 
@@ -349,7 +347,7 @@ Diese Preisreihe ist die Slowakei-Anomalie: schnelle Netze in einer der günstig
 
 
 
-| Reiseziel | Bester Netzbetreiber | Warum es funktioniert |
+| Slowakisches Reiseziel | Stärkstes Netz vor Ort | Was den Empfang dort trägt |
 
 
 |:---|:---|:---|
@@ -406,7 +404,7 @@ Da die meisten Slowakei-Reisen dem gleichen Verlauf folgen — Hauptstadt, ein Z
 
 
 
-**Die Rückreise.** Falls die Reise nach Budapest oder Vienna weitergeht, wird ein reines Slowakei-Profil an der Grenze still — schauen Sie sich vor dem Reisetag, nicht erst am Bahnsteig, unsere [Ungarn-eSIM-Optionen](/hungary-esim/) oder einen regionalen Tarif an.
+**Die Rückreise.** Falls die Reise nach Budapest oder Wien weitergeht, wird ein reines Slowakei-Profil an der Grenze still — schauen Sie sich vor dem Reisetag, nicht erst am Bahnsteig, unsere [Ungarn-eSIM-Optionen](/hungary-esim/) oder einen regionalen Tarif an.
 
 
 
@@ -439,7 +437,7 @@ Da die meisten Slowakei-Reisen dem gleichen Verlauf folgen — Hauptstadt, ein Z
 
 
 
-Zwei Dinge sollten Sie vor dem Flug klären. Erstens die Bandunterstützung: **B20 und n78** sind die Bänder, auf die sich slowakische Netze stützen, und ein nordamerikanisches Gerät unterstützt häufig eines oder beide davon nicht – das kostet Reichweite im Bergland und das gesamte 5G. Zweitens die Netzbetreiberbindung – ein gesperrtes Gerät weist das Profil ab, egal welche Bänder es hat. Das [eSIM-Kompatibilitätstool](/compatibility/) liefert Ihnen beide Antworten in einer einzigen Abfrage.
+Zwei Dinge sollten Sie vor dem Flug klären. Erstens die Bandunterstützung: **B20 und n78** sind die Bänder, auf die sich slowakische Netze stützen, und ein nordamerikanisches Gerät unterstützt häufig eines oder beide davon nicht – das kostet Reichweite im Bergland und das gesamte 5G. Zweitens die Netzbetreiberbindung – ein gesperrtes Gerät weist das Profil ab, egal welche Bänder es hat. Das eSIM-Kompatibilitätstool liefert Ihnen beide Antworten in einer einzigen Abfrage.
 
 
 
@@ -457,7 +455,7 @@ Zwei Dinge sollten Sie vor dem Flug klären. Erstens die Bandunterstützung: **B
 |:---|:---|:---|
 
 
-| 4G LTE | 800 MHz (B20), 1800 MHz (B3), 2600 MHz (B7) | B20 für Reichweite in den Tälern, B7 für Durchsatz in der Stadt. Nahezu alle weltweit genutzten Mobilgeräte unterstützen alle drei Frequenzbänder. |
+| 4G LTE | 800 MHz (B20), 1800 MHz (B3), 2600 MHz (B7) | B20 für Reichweite in den Tälern, B7 für Durchsatz in der Stadt. Ein in Europa verkauftes Gerät deckt in der Regel alle drei ab; nordamerikanische Modelle lassen B20 dagegen häufig weg. |
 
 
 | 5G | 3,5 GHz (n78) | Das wichtigste slowakische 5G-Band. Geräte ab dem Jahr 2020 unterstützen es meistens. |
@@ -490,7 +488,7 @@ Zwei Dinge sollten Sie vor dem Flug klären. Erstens die Bandunterstützung: **B
 
 
 
-## Tarife und Preise im Vergleich
+## Was slowakische Prepaid-Karten und die Slowakei-eSIM kosten
 
 
 
@@ -556,7 +554,7 @@ Eine slowakische Prepaid-Karte ist günstig im Einstieg und günstig in der Verl
 
 
 
-Die Gesamtkosten für eine Woche betragen in der Regel 5–20 €, sobald Sie ein Paket hinzubuchen. Der Kauf der SIM-Karte selbst ist nie der teure Teil.
+Die Gesamtkosten für eine Woche betragen in der Regel 5–20 €, sobald Sie ein Paket hinzubuchen. Der Kauf der SIM-Karte selbst ist nie der teure Teil. Eine Beispielrechnung für sieben Tage mit rund 2 GB pro Tag, also etwa 14 GB: Wer am Schalter eine Prepaid-Karte kauft und nach Volumen zahlt, landet beim Marktdurchschnitt von 2,68 USD pro Gigabyte bei etwa 37,50 USD; mit dem O2-Tagespaket für rund 1,44 € pro Tag sind es dagegen nur etwa 10 € für unbegrenzte Daten – vorausgesetzt, die Registrierung ist vorher erledigt. Eine im Voraus gebuchte Reise-eSIM bleibt ein Festpreis ohne Schalterbesuch, und ob sie günstiger ausfällt, hängt allein vom tatsächlichen Verbrauch ab.
 
 
 
@@ -607,7 +605,7 @@ Hier passiert nichts an einem Schalter: Das Profil kommt per E-Mail, Sie fügen 
 
 
 
-Zwei slowakei-spezifische Hinweise. Erstens: Installieren Sie sie über WLAN, bevor Sie fliegen — die Fahrt von Vienna nach Bratislava ist kurz genug, dass Sie möchten, dass die Daten funktionieren, bevor der Bus den Flughafen verlässt, nicht während der Fahrt. Zweitens: das Terrain — die Slowakei ist das erste Land auf vielen mitteleuropäischen Reiserouten, in dem echte Berge auftauchen, und die Hohe Tatra oberhalb der Talstädte ist für jeden Netzbetreiber offline. Laden Sie Wanderkarten und Unterkunftsdetails in Poprad herunter, nicht am Ausgangspunkt der Wanderung. Wenn das Profil installiert ist, aber in den Städten kein Empfang angezeigt wird, überprüfen Sie Roaming auf der eSIM-Leitung und versuchen Sie eine manuelle Netzwahl (Telekom oder Orange), bevor Sie etwas anderes unternehmen.
+Zwei slowakei-spezifische Hinweise. Erstens: Installieren Sie sie über WLAN, bevor Sie fliegen — die Fahrt von Wien nach Bratislava ist kurz genug, dass Sie möchten, dass die Daten funktionieren, bevor der Bus den Flughafen verlässt, nicht während der Fahrt. Zweitens: das Terrain — die Slowakei ist das erste Land auf vielen mitteleuropäischen Reiserouten, in dem echte Berge auftauchen, und die Hohe Tatra oberhalb der Talstädte ist für jeden Netzbetreiber offline. Laden Sie Wanderkarten und Unterkunftsdetails in Poprad herunter, nicht am Ausgangspunkt der Wanderung. Wenn das Profil installiert ist, aber in den Städten kein Empfang angezeigt wird, überprüfen Sie Roaming auf der eSIM-Leitung und versuchen Sie eine manuelle Netzwahl (Telekom oder Orange), bevor Sie etwas anderes unternehmen.
 
 
 
@@ -667,7 +665,7 @@ Zwei slowakei-spezifische Hinweise. Erstens: Installieren Sie sie über WLAN, be
 
 
 
-**D. Nichts funktioniert an der österreichischen oder ungarischen Grenze.** Ein Profil, das nur für die Slowakei gilt, endet an der Grenze. Falls die Reise nach Vienna oder Budapest weitergeht, prüfen Sie vor dem Reisetag die [Optionen für Ungarn-eSIMs](/hungary-esim/) oder einen regionale Central-Europe-Tarif.
+**D. Nichts funktioniert an der österreichischen oder ungarischen Grenze.** Ein Profil, das nur für die Slowakei gilt, endet an der Grenze. Falls die Reise nach Wien oder Budapest weitergeht, prüfen Sie vor dem Reisetag die Optionen für eine Ungarn-eSIM oder einen regionalen Zentraleuropa-Tarif.
 
 
 
@@ -685,7 +683,7 @@ Zwei slowakei-spezifische Hinweise. Erstens: Installieren Sie sie über WLAN, be
 
 
 
-**Der Empfang ist da, aber es passiert nichts.** Die Three-Einstellungen erklären es: Die eSIM muss die mobile Datenverbindung besitzen, Roaming muss auf dieser Leitung erlaubt sein, und bei einer lokal gekauften Leitung wird der APN des Netzbetreibers benötigt. Prüfen Sie bei einem EU-Tarif auch das Fair-Use-Limit.
+**Der Empfang ist da, aber es passiert nichts.** Drei Einstellungen erklären es: Die eSIM muss die mobile Datenverbindung besitzen, Roaming muss auf dieser Leitung erlaubt sein, und bei einer lokal gekauften Leitung wird der APN des Netzbetreibers benötigt. Prüfen Sie bei einem EU-Tarif auch das Fair-Use-Limit.
 
 
 
@@ -715,7 +713,7 @@ Nur erforderlich, wenn Sie direkt bei einem slowakischen Netzbetreiber kaufen un
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Slowakischer Betreiber | Zugangspunkt (APN) | Nutzername | Kennwort |
 
 
 |:---|:---|:---|:---|
@@ -772,19 +770,19 @@ Planen Sie für beide Tagesenden. Laden Sie morgens Karten und Liftpläne über 
 
 
 
-Lokal gekaufte Daten kosten etwa 2,68 USD pro Gigabyte, Platz 182 von 237 Märkten, gegenüber einem weltweiten Durchschnitt von 2,59 USD. Das ist für die EU ungewöhnlich und genau der Grund, warum eine im Voraus gekaufte Reise-eSIM mit planbaren Kosten die bequeme Wahl für kurze Aufenthalte ist.
+Lokal gekaufte Daten kosten in der Slowakei etwa 2,68 USD pro Gigabyte, Platz 182 von 237 Märkten, gegenüber einem weltweiten Durchschnitt von 2,59 USD. Für eine Woche Stadt plus Tatra reichen 10 GB bequem – urbane Tage sind datenarm, Bergtage verbrauchen mehr für Karten und Foto-Uploads. Nur wer den Hotspot für Laptop-Arbeit braucht, sollte auf 15–20 GB aufstocken; ein im Voraus gebuchter Tarif mit festem Volumen ist hier die planbarere Wahl.
 
 
 
 
 
-### Wo glänzt welches slowakische Netz?
+### Funktioniert das Netz an den Liften der Tatra?
 
 
 
 
 
-An den Liften, meistens ja – die Stationen und die unteren Sektionen der Seilbahnen liegen innerhalb der Netzabdeckung, weshalb das Posten aus dem Lift funktioniert. Höhere Pisten und Gratkanten sehen anders aus, und kein Netz ändert das daran. Wo die Lifte praktisch zählen, ist die Abfahrt: die Talstationen geben Ihnen ein nutzbares Zeitfenster, um Wetter und Buszeiten vor dem nächsten Aufstieg zu prüfen.
+An den Talstationen und den unteren Sektionen der Seilbahnen meistens ja – sie liegen innerhalb der Netzabdeckung, weshalb das Posten aus dem Lift funktioniert. Höhere Pisten und Gratkanten sehen anders aus, und kein Netz ändert daran etwas. Wo die Lifte praktisch zählen, ist die Abfahrt: die Talstationen geben Ihnen ein nutzbares Zeitfenster, um Wetter und Buszeiten vor dem nächsten Aufstieg zu prüfen.
 
 
 
@@ -808,13 +806,13 @@ Wenn sie in einem anderen EU-Land ausgestellt wurde, ja – „Roam like at home
 
 
 
-Telekom, auf derselben ländlichen Flächendeckung, die es auch zur Wahl für die Tatra macht, mit Orange dicht dahinter an den wichtigsten Trailheads. In den Schluchten und an den Klettersteigen verschwindet der Empfang, daher ist ein Profil, das beide Netze erreicht, hier mehr wert als jeder Einzelnetz-Vorteil – und die Pässe zwischen den Trailheads sind verlässlich offline.
+Telekom, auf derselben ländlichen Flächendeckung, die es auch zur Wahl für die Tatra macht, mit Orange dicht dahinter an den wichtigsten Trailheads. In den Schluchten und Klammen des Slowakischen Paradieses verschwindet der Empfang, daher ist ein Profil, das beide Netze erreicht, hier mehr wert als jeder Einzelnetz-Vorteil – und die Pässe zwischen den Trailheads sind verlässlich offline.
 
 
 
 
 
-### Hinweise zur 5G-Netzabdeckung in der Slowakei
+### Gibt es in der Slowakei flächendeckend 5G?
 
 
 
@@ -826,13 +824,13 @@ Nein. 5G konzentriert sich auf Bratislava, Žilina und die regionalen Städte; l
 
 
 
-### Slowakei-Datentarife erklärt
+### Wie viel Datenvolumen passt zu einer Slowakei-Reise von einer Woche?
 
 
 
 
 
-Eine Woche Stadt plus Tatra passt bequem in 5–10 GB: urbane Tage sind leicht (Museen, Cafés und Hotel-WLAN fangen den Rest auf), während Bergtage Daten für Karten und Foto-Uploads verbrauchen – und Hotspot-Stunden in einer Tatrapension mit schwachem WLAN noch schneller zehren. Laden Sie in jedem Fall Offline-Karten vor der Abfahrt aus Bratislava herunter, und denken Sie daran, dass die meisten Profile ein Aufladen erlauben, falls die Woche länger dauert als geplant. One Gerätehinweis: das Gerät muss netzbetreiber-entsperrt sein. Eine physische slowakische SIM-Karte bleibt der Notfall, falls Sie eine lokale Nummer benötigen, aber die übliche Konfiguration ist ein einzelner Datentarif auf der eSIM mit der heimischen Leitung für Anrufe.
+Eine Woche Stadt plus Tatra passt bequem in 5–10 GB: urbane Tage sind leicht (Museen, Cafés und Hotel-WLAN fangen den Rest auf), während Bergtage Daten für Karten und Foto-Uploads verbrauchen – und Hotspot-Stunden in einer Tatrapension mit schwachem WLAN noch schneller zehren. Laden Sie in jedem Fall Offline-Karten vor der Abfahrt aus Bratislava herunter, und denken Sie daran, dass die meisten Profile ein Aufladen erlauben, falls die Woche länger dauert als geplant. Ein Gerätehinweis: das Gerät muss netzbetreiber-entsperrt sein. Eine physische slowakische SIM-Karte bleibt der Notfall, falls Sie eine lokale Nummer benötigen, aber die übliche Konfiguration ist ein einzelner Datentarif auf der eSIM mit der heimischen Leitung für Anrufe.
 
 
 
@@ -844,13 +842,13 @@ Eine Woche Stadt plus Tatra passt bequem in 5–10 GB: urbane Tage sind leicht (
 
 
 
-Yes. Das slowakische Gesetz registriert jede SIM auf eine verifizierte Identität, bringen Sie also einen Reisepass oder EU-Personalausweis mit. Netzbetreiber-Shops erledigen die Registrierung in fünf bis zehn Minuten; Supermarkt- und Online-Wege dauern länger und schlagen manchmal still fehl.
+Ein Reisepass oder ein EU-Personalausweis. Das slowakische Gesetz registriert jede SIM auf eine verifizierte Identität, bringen Sie also eines der beiden Dokumente mit. Netzbetreiber-Shops erledigen die Registrierung in fünf bis zehn Minuten; Supermarkt- und Online-Wege dauern länger und schlagen manchmal still fehl.
 
 
 
 
 
-### Günstigste Tarife in der Slowakei
+### Was sind die günstigsten Tarife in der Slowakei?
 
 
 
@@ -862,7 +860,7 @@ Rund 1,44 € für einen Tag unbegrenzte Daten bei O2 Prepaid, oder ab etwa 3 �
 
 
 
-### Lokale SIM oder Reise-eSIM in der Slowakei?
+### Kann ich eine slowakische SIM am Flughafen Bratislava kaufen?
 
 
 
@@ -874,7 +872,7 @@ Am Flughafen Bratislava gibt es keinen Netzbetreiber-Kiosk. Ein Relay-Zeitungsst
 
 
 
-### Slowakeis 5G-Vorreiter
+### Habe ich in den Tatra-Orten 5G?
 
 
 
@@ -898,13 +896,13 @@ Orange Slovensko, mit der breitesten 4G-Flächendeckung und Reichweite auf dem L
 
 
 
-### Funktioniert eine Slowakei-eSIM in Vienna oder Budapest?
+### Funktioniert eine Slowakei-eSIM in Wien oder Budapest?
 
 
 
 
 
-Nur wenn es ein regionaler oder EU-weiter Tarif ist. Ein Slowakei-spezifisches Profil gilt innerhalb der Slowakei, daher benötigen der Vienna-Tagesausflug und der Budapest-Abschnitt entweder eine regionale Europa-eSIM oder die länderspezifischen Seiten für [Ungarn](/hungary-esim/) und [Tschechien](/czech-republic-esim/).
+Nur wenn es ein regionaler oder EU-weiter Tarif ist. Ein Slowakei-spezifisches Profil gilt innerhalb der Slowakei, daher benötigen der Wien-Tagesausflug und der Budapest-Abschnitt entweder eine regionale Europa-eSIM oder die länderspezifischen Seiten für [Ungarn](/hungary-esim/) und [Tschechien](/czech-republic-esim/).
 
 
 
@@ -916,7 +914,7 @@ Nur wenn es ein regionaler oder EU-weiter Tarif ist. Ein Slowakei-spezifisches P
 
 
 
-Yes, gemessen an den Medianen: Žilina erreicht 140,70 Mbps gegenüber Bratislavas 106,56 Mbps, und Trnava liegt mit 127,31 Mbps ebenfalls vor der Hauptstadt. Der Grund ist die Verkehrsdichte und nicht der Ausbau – Bratislavas Zellen bedienen deutlich mehr Nutzer. Die Hauptstadt kompensiert dies mit durchgängigem 5G über alle vier Netze.
+Nein, gemessen an den Medianen: Žilina erreicht 140,70 Mbps gegenüber Bratislavas 106,56 Mbps, und Trnava liegt mit 127,31 Mbps ebenfalls vor der Hauptstadt. Der Grund ist die Verkehrsdichte und nicht der Ausbau – Bratislavas Zellen bedienen deutlich mehr Nutzer. Die Hauptstadt kompensiert dies mit durchgängigem 5G über alle vier Netze.
 
 
 
@@ -928,13 +926,13 @@ Yes, gemessen an den Medianen: Žilina erreicht 140,70 Mbps gegenüber Bratislav
 
 
 
-Slovak Telekom, dank seiner ländlichen und bergigen Flächendeckung. Talorte und Resort-Dörfer sind abgedeckt, und Telekom's Reichweite erstreckt sich weiter hinauf auf die Zufahrtsstraßen als die anderen. Höhere Pisten haben in keinem Netz Empfang, laden Sie Ihre Karten also besser vor als nach der Seilbahn herunter.
+Slovak Telekom, dank seiner ländlichen und bergigen Flächendeckung. Talorte und Resort-Dörfer sind abgedeckt, und die Reichweite von Telekom erstreckt sich weiter hinauf auf die Zufahrtsstraßen als die anderen. Höhere Pisten haben in keinem Netz Empfang, laden Sie Ihre Karten also besser vor als nach der Seilbahn herunter.
 
 
 
 
 
-### Warum ist Slowakeis Festnetz-Breitband langsamer als das mobile?
+### Warum ist das Festnetz-Breitband in der Slowakei langsamer als das Mobilfunknetz?
 
 
 
@@ -952,13 +950,13 @@ Das ist es, und die Lücke ist groß: der Festnetz-Median des Landes liegt bei 1
 
 
 
-Yes – Prepaid-Leitungen erfordern eine Registrierung, was einen Pass und einen Besuch im Netzbetreiber-Shop bedeutet statt eines Kaufs am Zeitungsstand. In Kombination mit eingeschränkten Öffnungszeiten am Wochenprung macht das eine lokale SIM bei einem kurzen Bratislava-Trip zu einem spürbaren Zeitaufwand.
+Ja – Prepaid-Leitungen erfordern eine Registrierung, was einen Pass und einen Besuch im Netzbetreiber-Shop bedeutet statt eines Kaufs am Zeitungsstand. In Kombination mit eingeschränkten Öffnungszeiten am Wochenende macht das eine lokale SIM bei einem kurzen Bratislava-Trip zu einem spürbaren Zeitaufwand.
 
 
 
 
 
-### Der richtige Slowakei-Netzbetreiber für Ihre Route
+### Wie viel Datenvolumen brauche ich für zwei Wochen Slowakei?
 
 
 
@@ -982,13 +980,13 @@ Planen Sie 12–18 GB für eine zweiwöchige Reise zwischen Bratislava, Košice 
 
 
 
-### eSIM-Installationsschritte für die Slowakei
+### Funktioniert eine Slowakei-eSIM in den Weinorten der Kleinen Karpaten?
 
 
 
 
 
-Yes, bequem. Die Weinorte der Kleinen Karpaten und die Bratislava-Vororte liegen alle innerhalb des urbanen Netzabdeckungsgebiets, wobei Orange und Telekom beide starke Mediane in der Region aufweisen. Der einzige Vorbehalt sind die Keller selbst – Stein und Erde tun, was sie überall tun, also laden oder speichern Sie, was Sie brauchen, bevor Sie hinuntergehen.
+Ja, bequem. Die Weinorte der Kleinen Karpaten und die Bratislava-Vororte liegen alle innerhalb des urbanen Netzabdeckungsgebiets, wobei Orange und Telekom beide starke Mediane in der Region aufweisen. Der einzige Vorbehalt sind die Keller selbst – Stein und Erde tun, was sie überall tun, also laden oder speichern Sie, was Sie brauchen, bevor Sie hinuntergehen.
 
 
 
@@ -1006,25 +1004,25 @@ Für Messaging, Karten und Surfen ja, und es hat das günstigste Einstiegsproduk
 
 
 
-### Region-Hopping mit einer Slowakei-eSIM
+### Gilt EU-Roaming auch für eine in der Slowakei gekaufte Prepaid-Karte?
 
 
 
 
 
-Ja, sie tun es, gemäß den EU-Roam-like-at-home-Regeln, was historisch ein starkes Argument für den lokalen Kauf war. Der Haken ist der Fair-Use-Mechanismus: eine in der Slowakei gekaufte und überwiegend anderswo genutzte Prepaid-Karte kann einen Aufschlag nach sich ziehen, und intensives Tethering ist der übliche Auslöser. Für eine Reise, die in der Slowakei bleibt, stellt sich die Frage nie; bei einer mehrrumpfigen Route vergleichen Sie es mit einem regionalen Profil.
+Ja, das gilt gemäß den EU-Roam-like-at-home-Regeln, was historisch ein starkes Argument für den lokalen Kauf war. Der Haken ist der Fair-Use-Mechanismus: eine in der Slowakei gekaufte und überwiegend anderswo genutzte Prepaid-Karte kann einen Aufschlag nach sich ziehen, und intensives Tethering ist der übliche Auslöser. Für eine Reise, die in der Slowakei bleibt, stellt sich die Frage nie; bei einer mehrrumpfigen Route vergleichen Sie es mit einem regionalen Profil.
 
 
 
 
 
-### Den richtigen Slowakei-Datentarif wählen
+### Sind die slowakischen Datentarife teuer?
 
 
 
 
 
-Es liegt eher am weltweiten Durchschnitt als bei den günstigen Märkten – Cable.co.uk's Preisstudie ordnet es weit unten in der Erschwinglichkeitstabelle ein, und Nachbarn wie Rumänien und Ungarn bieten ein besseres Preis-Leistungs-Verhältnis pro Gigabyte. Eine Reise-eSIM kostet noch einmal mehr, im Gegenzug dafür, dass Sie verbunden ankommen.
+Es liegt eher am weltweiten Durchschnitt als bei den günstigen Märkten – die Preisstudie von Cable.co.uk ordnet die Slowakei weit unten in der Erschwinglichkeitstabelle ein, und Nachbarn wie Rumänien und Ungarn bieten ein besseres Preis-Leistungs-Verhältnis pro Gigabyte. Eine Reise-eSIM kostet noch einmal mehr, im Gegenzug dafür, dass Sie verbunden ankommen.
 
 
 
@@ -1057,13 +1055,13 @@ Behandeln Sie alles hier als Momentaufnahme – slowakische Geschwindigkeiten sc
 - **Betreiber- und Stadtergebnisse** – der [Ookla H2 2024 Slowakei-Bericht](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024).
 
 
-- **Landes-Mediane und globaler Rang** – [Slowakei auf Ookla's monatlichem Index](https://www.speedtest.net/global-index/slovakia).
+- **Landes-Mediane und globaler Rang** – [Slowakei im monatlichen Ookla-Index](https://www.speedtest.net/global-index/slovakia).
 
 
 - **EU-Roaming-Bedingungen und Fair-Use-Limits** – die [Roaming-Seiten „Ihr Europa" der Europäischen Kommission](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm).
 
 
-- **Kosten pro Gigabyte** – [Cable.co.uk's weltweite Erhebung](https://www.cable.co.uk/mobiles/worldwide-data-pricing/), die die Slowakei bei 2,68 USD einordnet, einem der steileren Werte der EU.
+- **Kosten pro Gigabyte** – [weltweite Erhebung von Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/), die die Slowakei bei 2,68 USD einordnet, einem der steileren Werte der EU.
 
 
 - **Menschen und Verbindungen** – [DataReportals Digital 2025: Slowakei](https://datareportal.com/reports/digital-2025-slovakia).
@@ -1087,7 +1085,7 @@ Jedes Netz deckt Bratislava, Košice und die Tatratäler ab; keines deckt die Gr
 
 
 
-Kostenpflichtige slowakische Tarife sind auf der [Slowakei-eSIM-Seite](/slovakia-esim/) aufgeführt, und eine [kostenlose Testversion](/free-esim/) lässt Sie das Netz zuerst testen.
+Kostenpflichtige slowakische Tarife sind in der [Tarifübersicht](/plans/) aufgeführt; eine kostenlose Testversion lässt Sie das Netz zuerst testen.
 
 
 
@@ -1105,6 +1103,6 @@ Kostenpflichtige slowakische Tarife sind auf der [Slowakei-eSIM-Seite](/slovakia
 
 
 
-Roami's Rat ist einfach: verbunden ankommen. Starten Sie mit der [kostenlosen Test-eSIM](/free-esim/), um die 4G-Netzabdeckung risikofrei zu testen, und nutzen Sie dann den Code **WEB20** auf einem vollen Roami-Tarif, sobald Sie die Testversion überzeugt hat.
+Roamis Rat ist einfach: verbunden ankommen. Starten Sie mit der [kostenlosen Test-eSIM](/free-esim/), um die 4G-Netzabdeckung risikofrei zu testen, und nutzen Sie dann den Code **WEB20** auf einem vollen Roami-Tarif, sobald Sie die Testversion überzeugt hat.
 
 

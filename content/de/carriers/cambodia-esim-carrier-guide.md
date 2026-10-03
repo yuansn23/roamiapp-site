@@ -38,7 +38,7 @@ Eine Kambodscha-eSIM ist in einem Markt angesiedelt, der sowohl zu den günstigs
 
 
 
-Dieser Guide behandelt die drei Dinge, die Reisende brauchen: was jeder Netzbetreiber jetzt bietet, da 5G existiert, wie man sich als Besucher verbindet (einschließlich der Reisepass-Registrierungspflicht, die für jede lokale SIM gilt), und wo die Netzabdeckung tatsächlich dünner wird – die Tempel, die Inseln und den Nordosten. Die Geräteunterstützung ist eine einmalige Prüfung über unser [Kompatibilitäts-Abfragetool](/compatibility/).
+Dieser Guide behandelt die drei Dinge, die Reisende brauchen: was jeder Netzbetreiber jetzt bietet, da 5G existiert, wie man sich als Besucher verbindet (einschließlich der Reisepass-Registrierungspflicht, die für jede lokale SIM gilt), und wo die Netzabdeckung tatsächlich dünner wird – die Tempel, die Inseln und den Nordosten. Die Geräteunterstützung ist eine einmalige Prüfung über unser Kompatibilitäts-Abfragetool.
 
 
 
@@ -90,7 +90,7 @@ Es lohnt sich, präzise zu benennen, was das neue 5G in Kambodscha für Besucher
 
 
 
-**Über die Mekong-Grenzen.** Kambodschas Landesgrenzen — Poipet nach Thailand, Bavet nach Vietnam — sind die Stellen, an denen ein rein kambodschanisches Profil still und leise aufhört zu funktionieren, und keiner der Nachbarn vergibt nachsichtige Tagespässe am Schalter. Wenn Ihre Reiseroute Bangkok, Siem Reap und Ho-Chi-Minh-Stadt aneinanderreiht, planen Sie sie mit einer [Thailand eSIM](/thailand-esim/) und einer [Vietnam eSIM](/vietnam-esim/), statt auf ein einziges Profil für die gesamte Schleife zu setzen.
+**Über die Mekong-Grenzen.** Kambodschas Landesgrenzen — Poipet nach Thailand, Bavet nach Vietnam — sind die Stellen, an denen ein rein kambodschanisches Profil still und leise aufhört zu funktionieren, und keiner der Nachbarn vergibt nachsichtige Tagespässe am Schalter. Wenn Ihre Reiseroute Bangkok, Siem Reap und Ho-Chi-Minh-Stadt aneinanderreiht, planen Sie sie mit einer [Thailand eSIM](/thailand-esim/) und einer Vietnam-eSIM, statt auf ein einziges Profil für die gesamte Schleife zu setzen.
 
 
 
@@ -188,7 +188,7 @@ Eine Kambodscha-eSIM ändert die Reihenfolge der Schritte, nicht das Ergebnis: D
 
 
 
-💡 Wenn Sie lieber erst testen möchten, bevor Sie kaufen, ermöglicht es die [kostenlose Test-eSIM](/free-esim/), alles kostenlos zu prüfen, und die aktuellen Tarife finden Sie auf der [Tarifseite für Kambodscha](/cambodia-esim/).
+💡 Wenn Sie lieber erst testen möchten, bevor Sie kaufen, ermöglicht es die [kostenlose Test-eSIM](/free-esim/), alles kostenlos zu prüfen, und die aktuellen Tarife finden Sie auf der Tarifseite für Kambodscha.
 
 
 
@@ -212,7 +212,7 @@ Die kambodschanischen Zahlen für 2025 von DataReportal zeigen 10,8 Millionen In
 
 
 
-| Reiseziel | Bester Netzbetreiber | Warum es funktioniert |
+| Reiseziel in Kambodscha | Empfohlene Wahl | Was dafür spricht |
 
 |:---|:---|:---|
 
@@ -238,7 +238,7 @@ Kein Schritt in dieser Reihenfolge erfordert einen Shop, einen Reisepass oder ei
 
 
 
-Zwei spezifische Prüfungen für Kambodscha lösen die meisten Fälle von „installiert, aber nicht verbunden“. Erstens: Datenroaming – dem Profil muss erlaubt sein, im lokalen Netz zu roamen, und genau dieser Schalter ist der häufigste Übeltäter. Zweitens: Netzauswahl – wenn das Telefon zögert, wählen Sie den Netzbetreiber manuell aus der Netzliste aus (Smart oder Cellcard, je nach Ihrem Tarif), statt auf die automatische Auswahl zu warten. Wenn beides nicht hilft, finden Sie eine umfassendere Übersicht der Ursachen in unserem [eSIM-Problemlösungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/).
+Zwei spezifische Prüfungen für Kambodscha lösen die meisten Fälle von „installiert, aber nicht verbunden“. Erstens: Datenroaming – es muss für das Profil erlaubt sein, im lokalen Netz zu roamen, und genau dieser Schalter ist der häufigste Übeltäter. Zweitens: Netzauswahl – wenn das Telefon zögert, wählen Sie den Netzbetreiber manuell aus der Netzliste aus (Smart oder Cellcard, je nach Ihrem Tarif), statt auf die automatische Auswahl zu warten. Wenn beides nicht hilft, finden Sie eine umfassendere Übersicht der Ursachen in unserem [eSIM-Problemlösungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/).
 
 
 
@@ -276,7 +276,7 @@ Nur relevant, wenn Sie direkt eine kambodschanische SIM-Karte gekauft haben. Ein
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber in Kambodscha | Zugangspunkt | Nutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -330,7 +330,7 @@ Die Registrierungsregel ist der Punkt, der die Rechnung verändert. Sie bedeutet
 
 
 
-| Reise | Typische Dauer | Komfortables Datenvolumen | Warum |
+| Reiseart | Dauer | Sinnvolles Datenvolumen | Grund |
 
 |:---|:---|:---|:---|
 
@@ -620,7 +620,7 @@ Die Netzbetreiber haben am Einführungstag, dem 1. Januar 2026, 767 5G-Standorte
 
 
 
-### Sind lokale Tarife günstiger als eine Reise-eSIM?
+### Sind kambodschanische Prepaid-Tarife billiger als eine Reise-eSIM?
 
 
 
@@ -696,7 +696,7 @@ Verlängern Sie es über das Dashboard des Anbieters, und dasselbe Profil funkti
 
 
 
-Ja. Eine einzelne [Kambodscha-eSIM](/cambodia-esim/) roamt über Smart, Cellcard und Metfone, daher fahren die Tempelrunden um Siem Reap und die südlichen Inseln das jeweils beste verfügbare Signal, ohne dass Sie eine Einstellung anfassen. Planen Sie das Datenvolumen um den Inselabschnitt herum, wo das Ausweich-WLAN am schwächsten und die Versuchung zu streamen am größten ist.
+Ja. Eine einzelne Kambodscha-eSIM roamt über Smart, Cellcard und Metfone, daher fahren die Tempelrunden um Siem Reap und die südlichen Inseln das jeweils beste verfügbare Signal, ohne dass Sie eine Einstellung anfassen. Planen Sie das Datenvolumen um den Inselabschnitt herum, wo das Ausweich-WLAN am schwächsten und die Versuchung zu streamen am größten ist.
 
 
 
@@ -724,7 +724,7 @@ Das erste brauchbare Signal Ihrer Reise sollte nicht das Flughafen-WLAN sein. In
 
 
 
-Erstkunden können mit einer [Kambodscha-Testversion](/free-esim/) beginnen, und die kostenpflichtigen Tarife – sowohl reine Datentarife als auch unlimitierte – finden Sie auf der [Kambodscha-eSIM-Seite](/cambodia-esim/).
+Erstkunden können mit einer Kambodscha-Testversion beginnen, und die kostenpflichtigen Tarife – sowohl reine Datentarife als auch unlimitierte – finden Sie auf der Kambodscha-eSIM-Seite.
 
 
 
@@ -736,5 +736,5 @@ Erstkunden können mit einer [Kambodscha-Testversion](/free-esim/) beginnen, und
 
 
 
-Sie möchten vor dem Kauf vergleichen? Die Roami [kostenlose Starter-eSIM](/free-esim/) deckt das gleiche Gebiet ab wie die oben genannten Netzbetreiber in Kambodscha, und **WEB20** gibt Ihnen 20 % Rabatt auf Ihren ersten Volltarif. Kompatibilitätsbedenken? Der [Checker](/compatibility/) räumt diese in einer Minute aus dem Weg.
+Sie möchten vor dem Kauf vergleichen? Die Roami [kostenlose Starter-eSIM](/free-esim/) deckt das gleiche Gebiet ab wie die oben genannten Netzbetreiber in Kambodscha, und **WEB20** gibt Ihnen 20 % Rabatt auf Ihren ersten Volltarif. Kompatibilitätsbedenken? Der Kompatibilitäts-Check räumt diese in einer Minute aus dem Weg.
 

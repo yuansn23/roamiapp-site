@@ -102,7 +102,7 @@ Falls die eSIM-Unterstützung Ihres Telefons noch unklar ist, klärt der [Kompat
 
 
 
-## Die Netzbetreiber hinter dem Markt
+## Die drei maltesischen Netze im Überblick
 
 
 
@@ -110,7 +110,7 @@ Falls die eSIM-Unterstützung Ihres Telefons noch unklar ist, klärt der [Kompat
 
 
 
-| Die Reise | Passender Netzbetreiber | Warum |
+| Ihr Aufenthalt | Das passende Netz | Kurz begründet |
 
 
 
@@ -286,7 +286,7 @@ Melita hat sich mit Kabelfernsehen und Breitband einen Namen gemacht, doch sein 
 
 
 
-**Das praktische Hindernis sind die Öffnungszeiten, nicht die Regeln.** Die Schalter am Flughafen schließen gegen 19:00 Uhr. Wenn Sie um 22:00 Uhr landen, bleiben Ihnen nur ein Abend am Hotel-WLAN mit anschließendem Filialbesuch in der Stadt am nächsten Morgen oder eine bereits auf Ihrem Telefon installierte Malta-eSIM.
+**Das praktische Hindernis sind die Öffnungszeiten, nicht die Regeln.** Die Schalter am Flughafen schließen gegen 19:00 Uhr. Wenn Sie um 22:00 Uhr landen, bleiben Ihnen nur ein Abend am Hotel-WLAN mit anschließendem Filialbesuch in der Stadt am nächsten Morgen oder ein bereits auf dem Telefon installiertes Malta-Profil.
 
 
 
@@ -310,7 +310,7 @@ Melita hat sich mit Kabelfernsehen und Breitband einen Namen gemacht, doch sein 
 
 
 
-| Was Sie benötigen | Passregistrierung an einem Schalter | Ein kompatibles, entsperrtes Telefon |
+| Voraussetzungen | Passscan am Schalter | Entsperrtes, profil-taugliches Telefon |
 
 
 
@@ -338,7 +338,7 @@ Melita hat sich mit Kabelfernsehen und Breitband einen Namen gemacht, doch sein 
 
 
 
-## Grenzüberschreitende Netzabdeckung
+## EU-Roaming: was Malta als EU-Mitglied bringt
 
 
 
@@ -358,7 +358,7 @@ Malta ist EU-Mitglied, was Ihre Konnektivität auf zweierlei Weise verbessert:
 
 
 
-2. **Eine maltesische SIM roamt innerhalb der EU** nach denselben Regeln — weshalb sich eine [Malta eSIM](/malta-esim/) doppelt nutzen lässt: für die Konnektivität auf einem Tagesausflug mit der Fähre ab Pozzallo nach Sizilien oder für eine längere Mittelmeer-Rundreise.
+2. **Eine maltesische SIM roamt innerhalb der EU** nach denselben Regeln — weshalb sich ein Malta-Datentarif doppelt nutzen lässt: für die Konnektivität auf einem Tagesausflug mit der Fähre ab Pozzallo nach Sizilien oder für eine längere Mittelmeer-Rundreise.
 
 
 
@@ -390,7 +390,7 @@ Malta und Gozo liegen im selben Land, aber die Fähre zwischen den Inseln ist ei
 
 
 
-## Netzabdeckung Region für Region
+## Empfang auf Malta, Insel für Insel
 
 
 
@@ -398,7 +398,7 @@ Malta und Gozo liegen im selben Land, aber die Fähre zwischen den Inseln ist ei
 
 
 
-| Region | Netzabdeckung in der Realität | Bester Netzbetreiber | Worauf Sie achten sollten |
+| Inselabschnitt | Empfang vor Ort | Stärkstes Netz | Praxishinweis |
 
 
 
@@ -470,7 +470,7 @@ Nicht die Geschwindigkeit ist hier die entscheidende Variable — **die Netzübe
 
 
 
-Keiner dieser Punkte ist ein Grund, einen Netzbetreiber zu meiden. Sie sind ein Grund, Uploads am Morgen zu erledigen und eine Malta-eSIM zu bevorzugen, die zwischen allen drei Netzen wechseln kann, statt an eines gebunden zu sein.
+Keiner dieser Punkte ist ein Grund, einen Netzbetreiber zu meiden. Sie sind ein Grund, Uploads am Morgen zu erledigen und ein Malta-Profil zu wählen, das zwischen allen drei Netzen wechseln kann, statt an eines gebunden zu sein.
 
 
 
@@ -529,7 +529,7 @@ Sie verlängern Ihre Reise? Dieselben Übersichten gibt es auch in unserem [Ital
 
 
 
-Dies ist die Route für alle, die nach der Schließung der Flughafenkioske gegen 19:00 Uhr landen: eine Malta-eSIM, installiert ohne Reisepass und ohne Schalter von GO oder Epic.
+Dies ist die Route für alle, die nach der Schließung der Flughafenkioske gegen 19:00 Uhr landen: ein Malta-Datenpaket, installiert ohne Reisepass und ohne Schalter von GO oder Epic.
 
 
 
@@ -537,7 +537,7 @@ Dies ist die Route für alle, die nach der Schließung der Flughafenkioske gegen
 
 
 
-1. Bestätigen Sie, dass das Telefon entsperrt und eSIM-fähig ist, anhand der [eSIM-Kompatibilitätsliste](/compatibility/).
+1. Bestätigen Sie, dass das Telefon entsperrt und eSIM-fähig ist, anhand der eSIM-Kompatibilitätsliste auf unserer Kompatibilitätsseite.
 
 
 
@@ -593,7 +593,7 @@ Dies ist die Route für alle, die nach der Schließung der Flughafenkioske gegen
 
 
 
-**Zwei Prüfungen vor dem Kauf.** Erstens, dass das Mobiltelefon entsperrt und eSIM-fähig ist – [die Kompatibilitätsliste](/compatibility/) klärt beides. Zweitens installieren Sie Ihre Malta-eSIM vor der Abreise – der Flughafenladen schließt gegen 19:00 Uhr, und eine Landung um 22:00 Uhr ohne Konnektivität ist ein selbstverschuldetes Problem.
+**Zwei Prüfungen vor dem Kauf.** Erstens, dass das Mobiltelefon entsperrt und eSIM-fähig ist – [die Kompatibilitätsliste](/compatibility/) klärt beides. Zweitens installieren Sie Ihr Malta-Datenpaket vor der Abreise – der Flughafenladen schließt gegen 19:00 Uhr, und eine Landung um 22:00 Uhr ohne Konnektivität ist ein selbstverschuldetes Problem.
 
 
 
@@ -625,7 +625,7 @@ Maltesische Netzbetreiber senden auf standardmäßigen europäischen Bändern, d
 
 
 
-| Gerätesituation | Symptom | Was zu tun ist |
+| Ausgangslage am Gerät | Typisches Symptom | Lösungswege |
 
 
 
@@ -705,7 +705,7 @@ Reise-eSIM-Profile bringen ihren eigenen APN mit. Bei lokal gekauften Karten, di
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | Zugangspunkt (APN) | Nutzername | Kennwort |
 
 
 
@@ -745,7 +745,7 @@ Ein verwaltetes Reiseprofil schreibt seinen eigenen APN; dies sind die Malta-spe
 
 
 
-- Sie haben eine Netzbetreiber-Leitung gekauft statt eine verwaltete Reise-eSIM
+- Sie haben vor Ort eine GO-, Epic- oder Melita-Karte gekauft statt ein verwaltetes Reiseprofil
 
 
 
@@ -753,7 +753,7 @@ Ein verwaltetes Reiseprofil schreibt seinen eigenen APN; dies sind die Malta-spe
 
 
 
-- Ein älteres Gerät, das die Netzbetreiber-Einstellungen nicht automatisch abgerufen hat
+- Ein älteres Smartphone, das die APN-Werte von GO, Epic oder Melita nicht selbst geladen hat
 
 
 
@@ -825,11 +825,11 @@ Arbeiten Sie diese Liste über das WLAN, dem Sie vertrauen, durch, bevor Sie den
 
 
 
-| 2 | Telefon unterstützt eSIM | EID wird angezeigt von `*#06#` |
+| 2 | eSIM-Hardware vorhanden | `*#06#` zeigt eine EID an |
 
 
 
-| 3 | QR-Code gespeichert | Screenshot auf dem Telefon und in der Cloud |
+| 3 | QR-Code doppelt gesichert | Kopie im Fotoalbum und im Cloud-Speicher |
 
 
 
@@ -889,7 +889,7 @@ Arbeiten Sie diese Liste über das WLAN, dem Sie vertrauen, durch, bevor Sie den
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das Profil will sich gar nicht erst installieren**
 
 
 
@@ -909,11 +909,11 @@ Arbeiten Sie diese Liste über das WLAN, dem Sie vertrauen, durch, bevor Sie den
 
 
 
-**B. Installiert, aber keine Signalbalken**
+**B. Profil läuft, doch keine Signalbalken bei GO, Epic oder Melita**
 
 
 
-1. Schalten Sie die eSIM-Leitung aus und wieder ein
+1. Deaktivieren Sie die Malta-Leitung kurz und schalten Sie sie wieder aktiv
 
 
 
@@ -929,7 +929,7 @@ Arbeiten Sie diese Liste über das WLAN, dem Sie vertrauen, durch, bevor Sie den
 
 
 
-**C. Signalbalken, aber kein Internet**
+**C. Signalbalken stehen, doch kein Internet bei GO, Epic und Melita**
 
 
 
@@ -1001,7 +1001,7 @@ Halten Sie diese Angaben bereit, bevor Sie ein Ticket öffnen – auf welcher In
 
 
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Über das Gerät |
+| Gerätemodell und OS-Stand | iOS: Einstellungen → Allgemein → Info; Android: Einstellungen → Über das Telefon |
 
 
 
@@ -1009,7 +1009,7 @@ Halten Sie diese Angaben bereit, bevor Sie ein Ticket öffnen – auf welcher In
 
 
 
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Aufnehmen, solange der Dialog noch offen ist |
 
 
 
@@ -1017,7 +1017,7 @@ Halten Sie diese Angaben bereit, bevor Sie ein Ticket öffnen – auf welcher In
 
 
 
-| Datenroaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
+| Roaming-Schalter der Datenleitung | iOS: Einstellungen → Mobilfunk → Malta-Leitung; Android: Einstellungen → Netzwerk & Internet → Roaming |
 
 
 
@@ -1101,7 +1101,7 @@ Eine kurze Abfolge, die die meisten Ankunftsprobleme beseitigt:
 
 
 
-1. **Bevor das Flugzeug landet**, schalten Sie Ihre Malta-eSIM ein und aktivieren Sie Datenroaming nur für diese Leitung.
+1. **Bevor das Flugzeug landet**, schalten Sie Ihr Malta-Profil ein und aktivieren Sie Datenroaming nur für diese Leitung.
 
 
 
@@ -1125,7 +1125,7 @@ Eine kurze Abfolge, die die meisten Ankunftsprobleme beseitigt:
 
 
 
-Wenn Sie nach 19:00 Uhr landen, bleiben Ihnen nur die Schritte 1 und 5 – genau deshalb ist die vorab installierte Malta-eSIM die Lösung für späte Flüge.
+Wenn Sie nach 19:00 Uhr landen, bleiben Ihnen nur die Schritte 1 und 5 – genau deshalb ist das vorab installierte Malta-Datenpaket die Lösung für späte Flüge.
 
 
 
@@ -1373,7 +1373,7 @@ Nur wenn Ihre Reise in andere EU-Länder weitergeht und Ihr Heimtarif diese nich
 
 
 
-Geschäfte der Netzbetreiber in Valletta und Sliema haben in der Regel touristenfreundliche Wochenendzeiten, aber die Schalter am Flughafen richten sich nach Flugplänen und nicht nach einem festen Kalender. Gehen Sie davon aus, dass Sie bei der Ankunft möglicherweise nichts kaufen können, und betrachten Sie eine vorab installierte eSIM als den verlässlichen Weg.
+Geschäfte der Netzbetreiber in Valletta und Sliema haben in der Regel touristenfreundliche Wochenendzeiten, aber die Schalter am Flughafen richten sich nach Flugplänen und nicht nach einem festen Kalender. Gehen Sie davon aus, dass Sie bei der Ankunft möglicherweise nichts kaufen können, und betrachten Sie ein vorab installiertes Datenpaket als den verlässlichen Weg.
 
 
 
@@ -1397,7 +1397,7 @@ Einer der drei. Der städtische Ballungsraum wird von allen versorgt, daher ents
 
 
 
-Weitere Fragen? [Vollständiger FAQ-Index](/faq/)
+Weitere Fragen? Im [FAQ-Überblick](/faq/) sammeln wir alle Antworten.
 
 
 
@@ -1461,7 +1461,7 @@ Bei den Zahlen handelt es sich ausschließlich um Drittanbieter-Messungen. Auf s
 
 
 
-Installieren Sie Ihre Malta-eSIM einmal vor der Abreise und kommen Sie bereits verbunden am MLA an, sodass es zwischen GO, Epic und Melita übergibt, während Sie sich von Valletta nach Gozo und Comino bewegen. Starten Sie mit einer [kostenlosen eSIM-Testversion](/free-esim/) oder stellen Sie einen Datentarif auf der [Malta eSIM-Seite](/malta-esim/) zusammen. Geht es danach weiter nach Süden? Unsere [Tunesien eSIM-Tarife](/tunisia-esim/) decken die nächste Station ab.
+Installieren Sie Ihr Malta-Datenpaket einmal vor der Abreise und kommen Sie bereits verbunden am MLA an, sodass es zwischen GO, Epic und Melita übergibt, während Sie sich von Valletta nach Gozo und Comino bewegen. Starten Sie mit einer [kostenlosen eSIM-Testversion](/free-esim/) oder stellen Sie einen Datentarif auf der Malta-eSIM-Seite zusammen. Geht es danach weiter nach Süden? Unsere [Tunesien eSIM-Tarife](/tunisia-esim/) decken die nächste Station ab.
 
 
 
@@ -1469,7 +1469,7 @@ Installieren Sie Ihre Malta-eSIM einmal vor der Abreise und kommen Sie bereits v
 
 
 
-[Malta-Tarif wählen](/malta-esim/) · [Kostenlos testen](/free-esim/) · [Malta eSIM-Seite](/malta-esim/)
+[Malta-Tarif wählen](/malta-esim/) · [Kostenlos testen](/free-esim/) · Vergleiche für Italien und Griechenland finden Sie weiter oben
 
 
 
@@ -1477,7 +1477,7 @@ Installieren Sie Ihre Malta-eSIM einmal vor der Abreise und kommen Sie bereits v
 
 
 
-Sie möchten vor dem Kauf vergleichen? Die [kostenlose Pilot-eSIM](/free-esim/) von Roami deckt in Malta dasselbe Gebiet ab wie die oben genannten Netzbetreiber, und **WEB20** reduziert Ihren ersten vollständigen Roami-Tarif um 20 %. Kompatibilitätsbedenken? Der [Kompatibilitätscheck](/compatibility/) räumt sie in einer Minute aus.
+Sie möchten vor dem Kauf vergleichen? Die kostenlose Pilot-eSIM von Roami deckt in Malta dasselbe Gebiet ab wie die oben genannten Netzbetreiber, und **WEB20** reduziert Ihren ersten vollständigen Roami-Tarif um 20 %. Kompatibilitätsbedenken? Der Kompatibilitätscheck räumt sie in einer Minute aus.
 
 
 

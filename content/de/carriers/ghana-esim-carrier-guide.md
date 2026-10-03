@@ -32,19 +32,19 @@ hero_subtitle_main: "Welches Netz versorgt Ihre Route – und was die Daten sage
 
 
 
-Ghana ist eines der günstigsten Länder in Afrika für mobile Daten und gleichzeitig einer der bürokratisch strengeren Orte, um sie zu kaufen. Der Speedtest Global Index vom August 2026 weist eine mittlere mobile Downloadgeschwindigkeit von **50,87 Mbps** aus – Platz 95 weltweit. Cable.co.uk beziffert 1 GB lokale Daten auf rund **0,40 USD** – Platz 33 von 237 Märkten, verglichen mit einem weltweiten Durchschnitt von 2,59 USD. DataReportal zählte Anfang 2025 38,3 Millionen Mobilfunkverbindungen. Was Ihnen all das nicht verrät: wie eine Ghana eSIM in Ihr Telefon gelangt, denn dieser Markt bringt zwei Besonderheiten mit sich: eine Bargeld-und-Mobile-Money-Wirtschaft sowie ein biometrisches SIM-Registrierungsgesetz, das von der National Communications Authority (NCA) durchgesetzt wird. Jeder der folgenden Ghana-Schritte ist kurz; wir haben beobachtet, wie Erstnutzer jeden davon innerhalb weniger Minuten abschließen. Die Preisübersichten unten zeigen zudem, was eine eSIM in Ghana im Vergleich zum Kauf am Flughafenschalter kostet.
+Ghana ist eines der günstigsten Länder in Afrika für mobile Daten und gleichzeitig einer der bürokratisch strengeren Orte, um sie zu kaufen. Der Speedtest Global Index vom August 2026 weist eine mittlere mobile Downloadgeschwindigkeit von **50,87 Mbps** aus – Platz 95 weltweit. Cable.co.uk beziffert 1 GB lokale Daten auf rund **0,40 USD** – Platz 33 von 237 Märkten, verglichen mit einem weltweiten Durchschnitt von 2,59 USD. DataReportal zählte Anfang 2025 38,3 Millionen Mobilfunkverbindungen. Was Ihnen all das nicht verrät: wie eine Ghana eSIM in Ihr Telefon gelangt, denn dieser Markt bringt zwei Besonderheiten mit sich: eine Bargeld-und-Mobile-Money-Wirtschaft sowie ein biometrisches SIM-Registrierungsgesetz, das von der National Communications Authority (NCA) durchgesetzt wird. Jeder der folgenden Schritte ist kurz; wir haben beobachtet, wie Erstnutzer jeden davon innerhalb weniger Minuten abschließen. Die Preisübersichten unten zeigen zudem, was eine eSIM in Ghana im Vergleich zum Kauf am Flughafenschalter kostet.
 
 
 
-Beide Besonderheiten sind machbar. Dieser Ghana eSIM-Leitfaden geht sie in der Reihenfolge durch, in der sie Ihnen begegnen: zunächst die Netzbetreiberlandschaft – **MTN Ghana** hält rund drei Viertel des Marktes, **Telecel Ghana** (ehemals Vodafone Ghana) etwa 18 %, AT Ghana (ehemals AirtelTigo) unter 8 % – anschließend Registrierung, Kaufwege und Netzabdeckung Region für Region.
+Beide Besonderheiten sind machbar. Dieser Leitfaden geht sie in der Reihenfolge durch, in der sie Ihnen begegnen: zunächst die Netzbetreiberlandschaft – **MTN** hält rund drei Viertel des Marktes, **Telecel** (ehemals Vodafone Ghana) etwa 18 %, AT Ghana (ehemals AirtelTigo) unter 8 % – anschließend Registrierung, Kaufwege und Netzabdeckung Region für Region.
 
 
 
-Unsicher, ob Ihr Gerät überhaupt eSIM-fähig ist? Die [Telefonkompatibilitätsliste](/compatibility/) klärt das in unter einer Minute, und der Erklärtext zum [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/) beschreibt, was beim Herunterladen eines Profils passiert. Danach gehört die Bühne den Netzen selbst.
+Unsicher, ob Ihr Gerät überhaupt eSIM-fähig ist? Die [Telefonkompatibilitätsliste](/compatibility/) klärt das in unter einer Minute, und der Artikel [Was bei der Aktivierung passiert](/faq/what-is-esim-activation-and-how-does-it-work/) beschreibt, was beim Herunterladen eines Profils geschieht. Danach gehört die Bühne den Netzen selbst.
 
 
 
-**Die kurze Antwort:** Sie wollen die größte Netzabdeckung und den einfachsten eSIM-Weg? **MTN Ghana** führt in jeder Hinsicht und verkauft eSIMs über die myMTN-App, das Anfrageportal und in den Filialen. Bevorzugen Sie das vom Vodafone übernommene Netz? Telecel stellt eSIMs nach biometrischer Verifikation in den Ladengeschäften aus. Sie wollen eine günstige Stadtleitung? AT Ghana unterbietet beide. Besucher registrieren sich mit einem **Reisepass und einem Einreisenachweis** – keine Ghana Card erforderlich – und jede lokale Leitung wird biometrisch geprüft. Eine vorinstallierte Reise-eSIM umgeht das alles: Starten Sie mit einer [kostenlosen Test-eSIM](/free-esim/) oder gehen Sie direkt zu einem [Ghana eSIM-Tarif](/ghana-esim/).
+**Die kurze Antwort:** Sie wollen die größte Netzabdeckung und den einfachsten eSIM-Weg? **MTN** führt in jeder Hinsicht und verkauft eSIMs über die myMTN-App, das Anfrageportal und in den Filialen. Bevorzugen Sie das vom Vodafone übernommene Netz? Telecel stellt eSIMs nach biometrischer Verifikation in den Ladengeschäften aus. Sie wollen eine günstige Stadtleitung? AT Ghana unterbietet beide. Besucher registrieren sich mit einem **Reisepass und einem Einreisenachweis** – keine Ghana Card erforderlich – und jede lokale Leitung wird biometrisch geprüft. Eine vorinstallierte Reise-eSIM umgeht das alles: Starten Sie mit einer [kostenlosen Test-eSIM](/free-esim/) oder gehen Sie direkt zu einem [Ghana eSIM-Tarif](/ghana-esim/).
 
 
 
@@ -52,7 +52,7 @@ Unsicher, ob Ihr Gerät überhaupt eSIM-fähig ist? Die [Telefonkompatibilitäts
 
 
 
-Ghana steht ganz oben im GSMA Mobile Money Regulatory Index – eine Einschätzung, die die Bank of Ghana im Februar 2026 erneut bestätigte –, und rund 20 Millionen Ghanaer nutzen regelmäßig ein Wallet. Händler akzeptieren MoMo, Vermieter kassieren die Miete darüber, und an Tankstellen stehen Agenturnummern direkt an den Zapfsäulen. Interoperabilität ist verpflichtend: ein MTN-MoMo-Wallet kann direkt ein Telecel-Cash-Wallet bezahlen.
+Ghana steht ganz oben im GSMA Mobile Money Regulatory Index – eine Einschätzung, die die Bank of Ghana im Februar 2026 erneut bestätigte –, und rund 20 Millionen Menschen im Land nutzen regelmäßig ein Wallet. Händler akzeptieren MoMo, Vermieter kassieren die Miete darüber, und an Tankstellen stehen Agenturnummern direkt an den Zapfsäulen. Interoperabilität ist verpflichtend: ein MTN-MoMo-Wallet kann direkt ein Telecel-Cash-Wallet bezahlen.
 
 
 
@@ -60,11 +60,11 @@ Das ist aus einem Grund wichtig: **ein Wallet muss an eine registrierte lokale L
 
 
 
-So: Kaufen Sie eine Reise-eSIM, wenn Ihr Ghana-Aufenthalt ein Urlaub ist – Städte, Küste, ein Nationalpark, zwei bis drei Wochen. Ergänzen Sie eine lokal registrierte Leitung, wenn die Reise Zahlungen auf ghanaische Weise erfordert: ein Fahrer nennt eine Wallet-Nummer, eine Pension bevorzugt eine Überweisung.
+So: Kaufen Sie eine Reise-eSIM, wenn Ihr Aufenthalt ein Urlaub ist – Städte, Küste, ein Nationalpark, zwei bis drei Wochen. Ergänzen Sie eine lokal registrierte Leitung, wenn die Reise Zahlungen auf ghanaische Weise erfordert: ein Fahrer nennt eine Wallet-Nummer, eine Pension bevorzugt eine Überweisung.
 
 
 
-| Was Sie tatsächlich tun möchten | Daten-Reise-eSIM | NCA-registrierte lokale Ghana-eSIM |
+| Was Sie tatsächlich tun möchten | Daten-Reise-eSIM | NCA-registrierte lokale Leitung |
 
 |:---|:---|:---|
 
@@ -74,11 +74,11 @@ So: Kaufen Sie eine Reise-eSIM, wenn Ihr Ghana-Aufenthalt ein Urlaub ist – St�
 
 | Zahlen Sie einen Anbieter, der eine Wallet-Nummer angibt | Nur über eine Wallet, die Sie bereits im Ausland besitzen | Ja — MoMo, Telecel Cash oder AT Money, die auf Ihrer eigenen Leitung eröffnet wurde |
 
-| Geld von einem Ghanaer empfangen | Nein | Ja |
+| Geld von einer einheimischen Person empfangen | Nein | Ja |
 
 | Kaufen Sie ein Paket mit Bargeld | Nicht zutreffend — die Daten werden mit dem Tarif geliefert | Ja — Bargeld funktioniert in jeder Netzbetreiber-Filiale und bei jedem Straßenhändler |
 
-| Behalten Sie Ihre Festnetznummer für Bank-SMS-Codes | Ja – die Heim-SIM bleibt aktiv neben | Ja, aber Sie führen zwei Leitungen mit sich |
+| Behalten Sie Ihre Festnetznummer für Bank-SMS-Codes | Ja – die Heim-SIM bleibt parallel aktiv | Ja, aber Sie führen zwei Leitungen mit sich |
 
 | Bleiben Sie jenseits einer dreimonatigen Reise erreichbar | Ja | Nein — Anschlüsse für ausländische Staatsangehörige enden nach 90 Tagen oder mit Ablauf Ihres legalen Aufenthalts |
 
@@ -92,7 +92,7 @@ Mobiles Bezahlen ist hier keine Nebensache, sondern die Zahlungsebene – allein
 
 
 
-Ghana verfügt über drei nennenswerte Mobilfunknetze. Im Februar 2026 hielt MTN Ghana **72,12 %** der Mobilfunk-Sprachverträge und **81,29 %** der Mobilfunkdaten; Telecel lag bei 20,7 % bzw. 14,5 %, AT bei 7,2 % bzw. 4,21 %. Im Juni 2026 zählte die NCA 30,52 Millionen Mobilfunkdaten-Verträge, wobei MTN bei 80,10 %, Telecel bei 15,90 % und AT bei 4,00 % lag.
+Das Land verfügt über drei nennenswerte Mobilfunknetze. Im Februar 2026 hielt MTN **72,12 %** der Mobilfunk-Sprachverträge und **81,29 %** der Mobilfunkdaten; Telecel lag bei 20,7 % bzw. 14,5 %, AT bei 7,2 % bzw. 4,21 %. Im Juni 2026 zählte die NCA 30,52 Millionen Mobilfunkdaten-Verträge, wobei MTN bei 80,10 %, Telecel bei 15,90 % und AT bei 4,00 % lag.
 
 
 
@@ -132,7 +132,7 @@ Alle drei verkaufen seit 2022 eSIMs, und das Profil ist in der Regel kostenlos �
 
 
 
-Größe bringt Ausfallsicherheit. MTN trägt den Großteil des mobilen Datenverkehrs in Ghana, sein 4G erreicht laut eigenen FY2025-Zahlen 99,2 % der Bevölkerung, und MoMo ist das, was im Land einer zweiten Währung am nächsten kommt. Für die meisten Besucher ist eine MTN eSIM die pragmatische Wahl: die größte Netzabdeckung, das dichteste 4G in Accra und Kumasi sowie mehr Filialen pro Stadt, falls etwas schiefgeht.
+Größe bringt Ausfallsicherheit. MTN trägt den Großteil des mobilen Datenverkehrs im Land, sein 4G erreicht laut eigenen FY2025-Zahlen 99,2 % der Bevölkerung, und MoMo ist das, was hier einer zweiten Währung am nächsten kommt. Für die meisten Besucher ist eine MTN eSIM die pragmatische Wahl: die größte Netzabdeckung, das dichteste 4G in Accra und Kumasi sowie mehr Filialen pro Stadt, falls etwas schiefgeht.
 
 
 
@@ -156,7 +156,7 @@ Der kommerzielle Vorteil von Telecel ist seine Familie von Paketen ohne Verfalls
 
 
 
-AT Ghana ist der Preiskämpfer mit einigen der günstigsten Pakete auf dem Markt, die über sein eSIM-Portal und seine Service-Center verkauft werden. Die Einschränkungen sind real: das kleinste Netz, die dünnste ländliche Netzabdeckung und ein Unternehmen mitten in einer Fusion. Es funktioniert für einen günstigen Stadtaufenthalt; für eine landesweite Rundreise behandeln Sie es besser als Backup statt als primäre Ghana eSIM.
+AT ist der Preiskämpfer mit einigen der günstigsten Pakete auf dem Markt, die über sein eSIM-Portal und seine Service-Center verkauft werden. Die Einschränkungen sind real: das kleinste Netz, die dünnste ländliche Netzabdeckung und ein Unternehmen mitten in einer Fusion. Es funktioniert für einen günstigen Stadtaufenthalt; für eine landesweite Rundreise behandeln Sie es besser als Backup statt als primäre Leitung.
 
 
 
@@ -198,7 +198,7 @@ Ein Hinweis verdient einen eigenen Absatz: Kaufen Sie niemals eine „vorbereite
 
 
 
-## SIM-Registrierungsregeln
+## Registrierung vor Ort: Reihenfolge, Dokumente, Wartezeit
 
 
 
@@ -314,7 +314,7 @@ AT nimmt eSIM-Anträge über das Portal auf seiner Website oder in einem Kundens
 
 
 
-Der Preis pro Gigabyte ist Ghanas stärkstes Argument für eine lokale Lösung: Cable.co.uk beziffert den landesweiten Durchschnitt auf 0,40 USD pro Gigabyte – weltweit Platz 33. Zwei Hinweise dazu: Netzbetreiber passen ihre Preise mit kurzer Frist an, und ein Großteil des Einzelhandelsmarktes läuft über Wiederverkäufer, die eine Marge aufschlagen und manchmal die Gültigkeitsdauer verlängern. Betrachten Sie diese Zahlen als Marktüberblick, nicht als verbindliches Angebot.
+Der Preis pro Gigabyte ist das stärkste Argument für eine lokale Lösung: Cable.co.uk beziffert den landesweiten Durchschnitt auf 0,40 USD pro Gigabyte – weltweit Platz 33. Zwei Hinweise dazu: Netzbetreiber passen ihre Preise mit kurzer Frist an, und ein Großteil des Einzelhandelsmarktes läuft über Wiederverkäufer, die eine Marge aufschlagen und manchmal die Gültigkeitsdauer verlängern. Betrachten Sie diese Zahlen als Marktüberblick, nicht als verbindliches Angebot.
 
 
 
@@ -326,7 +326,7 @@ Die Pakete mit langer Laufzeit von MTN sind vor allem für Reisen von zwei Woche
 
 
 
-### Die Daten-Staffel ohne Verfall von Telecel Ghana
+### Die Daten-Staffel ohne Verfall von Telecel
 
 
 
@@ -370,6 +370,8 @@ AT ist besonders im unteren Segment wettbewerbsfähig. Die gemeldeten 60-Tage-Pr
 
 Die Dollarbeträge werden mit etwa GHS 11,9 zu USD 1 umgerechnet und sind nur Richtwerte. Wichtig ist folgendes Muster: Eine vierzehntägige normale touristische Nutzung kostet wenige Dollar, und der Unterschied zwischen den Anbietern liegt bei Cent pro Gigabyte.
 
+Für eine konkrete Rechnung: Angenommen, Sie verbrauchen zwei Wochen lang rund 2 GB pro Tag, also 28 GB. Lokal deckt das MTN-Paket mit 50 GB für 200 GHS (etwa 17 USD) diesen Bedarf – und die restlichen 22 GB bleiben wegen der 90-tägigen Gültigkeit für einen zweiten Trip liegen. Dasselbe Volumen über ein Reise-Profil einzukaufen ist am 5-GB-Paket für rund 7 USD gemessen: knapp 1,40 USD pro Gigabyte gegenüber etwa 0,40 USD pro Gigabyte im lokalen Markt. Die Reise-Variante kostet also rund das Dreifache pro Gigabyte, spart dafür die biometrische Registrierung und das Anstehen am Kotoka. Wer einen Monat bleibt und ohnehin MoMo plant, fährt mit der lokalen Leitung besser; wer zwei Wochen Städte und Küste macht, zahlt die Differenz gern für die eingesparte Zeit.
+
 
 
 ## Lokale SIM gegen Reise-eSIM im Preisvergleich
@@ -394,7 +396,7 @@ Die Dollarbeträge werden mit etwa GHS 11,9 zu USD 1 umgerechnet und sind nur Ri
 
 
 
-Die lokale Variante gewinnt beim Preis pro Gigabyte und liefert Ihnen eine ghanaische Rufnummer – praktisch für Rückrufe bei Fahrdiensten und allen Anbietern, die Sie zurückrufen möchten. Die Reise-Variante punktet mit Geschwindigkeit und Einfachheit: kein biometrischer Termin, keine Schlange am Kotoka, Datenfluss, noch bevor Sie die Einreisekontrolle passiert haben. Für die meisten reisetypischen Aufenthalte kaufen Sie mit der Premium-Option eine Stunde Flughafenzeit zurück, und die [Ghana-eSIM von Roami](/ghana-esim/) wechselt automatisch zwischen den Netzen, wenn Sie unterwegs sind.
+Die lokale Variante gewinnt beim Preis pro Gigabyte und liefert Ihnen eine ghanaische Rufnummer – praktisch für Rückrufe bei Fahrdiensten und allen Anbietern, die Sie zurückrufen möchten. Die Reise-Variante punktet mit Geschwindigkeit und Einfachheit: kein biometrischer Termin, keine Schlange am Kotoka, Datenfluss, noch bevor Sie die Einreisekontrolle passiert haben. Für die meisten reisetypischen Aufenthalte kaufen Sie mit der Premium-Option eine Stunde Flughafenzeit zurück, und das Roami-Profil wechselt automatisch zwischen den Netzen, wenn Sie unterwegs sind.
 
 
 
@@ -402,7 +404,7 @@ Die lokale Variante gewinnt beim Preis pro Gigabyte und liefert Ihnen eine ghana
 
 
 
-### Verbindet sich ein iPhone in Ghana?
+### Verbindet sich ein iPhone vor Ort?
 
 
 
@@ -410,7 +412,7 @@ Ghanas 4G läuft auf den LTE-Bändern 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz) u
 
 
 
-Ghanas 5G ist eine Geschichte über gemeinsam genutzte Infrastruktur, die langsamer vorankommt, als die Werbung suggeriert. Die Next-Gen Infrastructure Company (NGIC) betreibt ein Wholesale-Backbone auf 100 MHz des 2600-MHz-Spektrums, das in Accra, Kumasi und Tamale aktiv ist; die Betreiber mieten Kapazitäten bei ihr an. Bis März 2026 hatte sie nur 49 der angepeilten 1.200 Standorte errichtet, und die NCA hat inzwischen eine direkte 5G-Lizenzvergabe auf 3,5 GHz und 26 GHz eröffnet. Ein 4G-Gerät verpasst bisher nicht viel.
+Das 5G im Land ist eine Geschichte über gemeinsam genutzte Infrastruktur, die langsamer vorankommt, als die Werbung suggeriert. Die Next-Gen Infrastructure Company (NGIC) betreibt ein Wholesale-Backbone auf 100 MHz des 2600-MHz-Spektrums, das in Accra, Kumasi und Tamale aktiv ist; die Betreiber mieten Kapazitäten bei ihr an. Bis März 2026 hatte sie nur 49 der angepeilten 1.200 Standorte errichtet, und die NCA hat inzwischen eine direkte 5G-Lizenzvergabe auf 3,5 GHz und 26 GHz eröffnet. Ein 4G-Gerät verpasst bisher nicht viel.
 
 
 
@@ -418,7 +420,7 @@ Ghanas 5G ist eine Geschichte über gemeinsam genutzte Infrastruktur, die langsa
 
 
 
-Ein gesperrtes Telefon blockiert eine Ghana-eSIM ebenso zuverlässig wie eine lokale SIM. Prüfen Sie beim iPhone unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre; „Keine SIM-Beschränkungen“ ist das, was Sie sehen möchten. Wird eine Sperre angezeigt, bitten Sie den ursprünglichen Netzbetreiber, das Gerät vor der Reise zu entsperren. Prüfen Sie Ihr Modell mit dem [eSIM-Gerätecheck](/compatibility/), um eSIM-Unterstützung und Bänder in einem Schritt zu bestätigen.
+Ein gesperrtes Telefon blockiert ein Reise-Profil ebenso zuverlässig wie eine lokale SIM. Prüfen Sie beim iPhone unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre; „Keine SIM-Beschränkungen“ ist das, was Sie sehen möchten. Wird eine Sperre angezeigt, bitten Sie den ursprünglichen Netzbetreiber, das Gerät vor der Reise zu entsperren. Prüfen Sie Ihr Modell mit dem eSIM-Gerätecheck, um eSIM-Unterstützung und Bänder in einem Schritt zu bestätigen.
 
 
 
@@ -432,7 +434,7 @@ Ein gesperrtes Telefon blockiert eine Ghana-eSIM ebenso zuverlässig wie eine lo
 
 | Festland-China iPhone-Modelle | Keine Option „eSIM hinzufügen“ | Verwenden Sie eine physische SIM-Karte oder ein anderes Gerät |
 
-| Dual-SIM-Konfigurationen | Datenverkehr läuft über die heimische SIM | Ghana-eSIM als Mobilfunkdatenleitung festlegen |
+| Dual-SIM-Konfigurationen | Datenverkehr läuft über die heimische SIM | Das Profil als Mobilfunkdatenleitung festlegen |
 
 | Netzbetreiber-gesperrte Samsungs | eSIM-Menü ausgegraut | Entsperren Sie das Gerät über den ursprünglichen Netzbetreiber und starten Sie es anschließend neu |
 
@@ -446,7 +448,7 @@ Ein gesperrtes Telefon blockiert eine Ghana-eSIM ebenso zuverlässig wie eine lo
 
 
 
-Die meisten Ghana eSIM-Fehler passieren, bevor das Flugzeug überhaupt abhebt. Gehen Sie diese Liste zu Hause im WLAN durch – und die Ankunft verläuft deutlich reibungsloser.
+Die meisten Fehler mit einer eSIM passieren hier, bevor das Flugzeug überhaupt abhebt. Gehen Sie diese Liste zu Hause im WLAN durch – und die Ankunft verläuft deutlich reibungsloser.
 
 
 
@@ -476,7 +478,7 @@ Prüfen Sie Option 3 am besten schon zu Hause. Das WLAN am Ankunftsbereich des K
 
 
 
-Landesweit lag Ghanas durchschnittliche mobile Download-Geschwindigkeit im August-2026-Speedtest Global Index bei **50,87 Mbps** – Platz 95 weltweit, bei einer Latenz von 30 ms. DataReportal verzeichnete Anfang 2025 24,3 Millionen Internetnutzer, was einer Durchdringung von 69,9 % entspricht; die NCA-Zählung vom Juni 2026 gab die mobile Datendurchdringung mit rund 89,5 % an.
+Landesweit lag die durchschnittliche mobile Download-Geschwindigkeit im August-2026-Speedtest Global Index bei **50,87 Mbps** – Platz 95 weltweit, bei einer Latenz von 30 ms. DataReportal verzeichnete Anfang 2025 24,3 Millionen Internetnutzer, was einer Durchdringung von 69,9 % entspricht; die NCA-Zählung vom Juni 2026 gab die mobile Datendurchdringung mit rund 89,5 % an.
 
 
 
@@ -500,11 +502,11 @@ Diese Durchschnittswerte stammen aus Opensignal-Messdaten bis Mitte 2026 und bes
 
 
 
-### Netzabdeckung in Ghana Region für Region
+### Netzabdeckung in Ghana: wie weit MTN, Telecel und AT reichen
 
 
 
-| Region | Netzabdeckung in der Praxis | Bester Netzbetreiber | Darauf sollten Sie achten |
+| Region | Empfang in der Praxis | Spitzenwahl | Was Sie einplanen sollten |
 
 |:---|:---|:---|:---|
 
@@ -548,7 +550,7 @@ Ghana grenzt im Osten an Togo, im Norden an Burkina Faso und im Westen an Côte 
 
 
 
-### Ihre Ghana-eSIM jenseits der Grenze
+### Ihr Profil jenseits der Grenze
 
 
 
@@ -580,15 +582,15 @@ Eine Reise-eSIM verändert diese Rechnung: Ein regionales Profil verrechnet das 
 
 
 
-## APN-Werte der Netzbetreiber in Ghana
+## APN-Werte der drei Netzbetreiber
 
 
 
-Datenpakete in Ghana werden über USSD-Menüs und Apps aktiviert, und die Konfiguration auf Netzseite erfolgt nahezu immer automatisch. Diese Werte benötigen Sie nur, wenn eine Ghana-eSIM ohne Einstellungen geliefert wurde oder ein älteres Gerät diese ignoriert hat.
+Datenpakete werden über USSD-Menüs und Apps aktiviert, und die Konfiguration auf Netzseite erfolgt nahezu immer automatisch. Diese Werte benötigen Sie nur, wenn ein Profil ohne Einstellungen geliefert wurde oder ein älteres Gerät diese ignoriert hat.
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -624,7 +626,7 @@ Meist ist ein Name dahinter, der anders geschrieben ist als im Reisepass, oder e
 
 
 
-Meist steckt die automatische Netzwahl dahinter: Stellen Sie sicher, dass das Profil aktiviert ist, und versuchen Sie dann eine manuelle Netzwahl, wählen Sie MTN Ghana, Telecel oder AT explizit aus und starten Sie nach dem Wechsel neu. Wenn Sie sich während der AT-Telecel-Übergangsphase registriert haben und die Bereitstellung in einem Netz gelandet ist, während Sie in einem anderen Netz roamen, löst ein Filialbesuch das Problem.
+Meist steckt die automatische Netzwahl dahinter: Stellen Sie sicher, dass das Profil aktiviert ist, und versuchen Sie dann eine manuelle Netzwahl, wählen Sie MTN, Telecel oder AT explizit aus und starten Sie nach dem Wechsel neu. Wenn Sie sich während der AT-Telecel-Übergangsphase registriert haben und die Bereitstellung in einem Netz gelandet ist, während Sie in einem anderen Netz roamen, löst ein Filialbesuch das Problem.
 
 
 
@@ -632,7 +634,7 @@ Meist steckt die automatische Netzwahl dahinter: Stellen Sie sicher, dass das Pr
 
 
 
-Prüfen Sie den APN anhand der Tabelle oben, bestätigen Sie, dass die eSIM die ausgewählte Datenleitung ist, und vergewissern Sie sich, dass Datenroaming aktiviert ist. Prüfen Sie dann das Paket: Ghanaer Prepaid-Daten enden einfach, wenn das Volumen aufgebraucht ist; mit `*138#` bei MTN, `*700#` bei Telecel oder `*111#` bei AT kaufen Sie innerhalb einer Minute nach.
+Prüfen Sie den APN anhand der Tabelle oben, bestätigen Sie, dass die eSIM die ausgewählte Datenleitung ist, und vergewissern Sie sich, dass Datenroaming aktiviert ist. Prüfen Sie dann das Paket: Prepaid-Daten enden hier einfach, wenn das Volumen aufgebraucht ist; mit `*138#` bei MTN, `*700#` bei Telecel oder `*111#` bei AT kaufen Sie innerhalb einer Minute nach.
 
 
 
@@ -656,7 +658,7 @@ Alles außerhalb dieser vier Muster — fehlgeschlagene Downloads, beschädigte 
 
 
 
-Am einfachsten am Kotoka-Flughafen und in den Filialen der Städte — MTN, Telecel und AT unterhalten alle Schalter oder Mitarbeiter am Kotoka, und die Registrierung erfordert Ihren Reisepass und einen Einreisennachweis. Die Warteschlangen nach Langstreckenankünften können lang sein, weshalb viele Reisende bereits mit installierter Ghana-eSIM ankommen.
+Am einfachsten am Kotoka-Flughafen und in den Filialen der Städte — MTN, Telecel und AT unterhalten alle Schalter oder Mitarbeiter am Kotoka, und die Registrierung erfordert Ihren Reisepass und einen Einreisennachweis. Die Warteschlangen nach Langstreckenankünften können lang sein, weshalb viele Reisende bereits mit installiertem Profil ankommen.
 
 
 
@@ -668,7 +670,7 @@ Nein. Nach den Vorgaben der NCA registrieren sich Besucher mit Reisepass und Ein
 
 
 
-### Verkauft MTN Ghana eSIMs an Ausländer?
+### Verkauft MTN eSIMs an Ausländer?
 
 
 
@@ -696,7 +698,7 @@ MTN, mit deutlicher Tendenz — rund 80 % der mobilen Datenverträge Stand Juni 
 
 
 
-Ja. Bargeld wird in jeder Netzbetreiber-Filiale und bei den tausenden kleinen Paketverkäufern akzeptiert und ist weiterhin der Weg, wie die meisten Ghanaer aufladen. Karten funktionieren in den großen Apps und in den Filialen der Netzbetreiber.
+Ja. Bargeld wird in jeder Netzbetreiber-Filiale und bei den tausenden kleinen Paketverkäufern akzeptiert und ist weiterhin der Weg, wie die meisten Menschen im Land aufladen. Karten funktionieren in den großen Apps und in den Filialen der Netzbetreiber.
 
 
 
@@ -732,7 +734,7 @@ Ja, nach dem verschärften Rahmen werden Leitungen ausländischer Staatsbürger 
 
 
 
-### Kann ich meine Ghana-eSIM in Togo oder Côte d'Ivoire nutzen?
+### Kann ich meine eSIM in Togo oder Côte d'Ivoire nutzen?
 
 
 
@@ -772,5 +774,5 @@ Marktanteils- und Penetrationszahlen stammen aus den monatlichen Marktberichten 
 
 
 
-Ghana belohnt Reisende, die vorbereitet ankommen: Das Registrierungsgesetz ist streng, die Biometrie wird tatsächlich geprüft, und die Warteschlangen am Kotoka sind nicht der Ort, an dem Sie Ihren ersten Abend verbringen möchten. Kaufen Sie eine [Ghana-eSIM](/ghana-esim/) von Roami, bevor Sie fliegen — oder bestellen Sie sie direkt über [roamiapp.com](/ghana-esim/) mit dem Code **WEB20** für 20 % Rabatt — stellen Sie bei der Landung eine Verbindung her und legen Sie bei längeren Aufenthalten bei Bedarf eine lokale MTN-Leitung an. Noch nicht überzeugt? Testen Sie das gesamte Setup mit einer [kostenlosen Multi-Netz-Test-eSIM](/free-esim/).
+Ghana belohnt Reisende, die vorbereitet ankommen: Das Registrierungsgesetz ist streng, die Biometrie wird tatsächlich geprüft, und die Warteschlangen am Kotoka sind nicht der Ort, an dem Sie Ihren ersten Abend verbringen möchten. Kaufen Sie eine [Ghana-eSIM](/ghana-esim/) von Roami, bevor Sie fliegen — oder bestellen Sie sie direkt über roamiapp.com mit dem Code **WEB20** für 20 % Rabatt — stellen Sie bei der Landung eine Verbindung her und legen Sie bei längeren Aufenthalten bei Bedarf eine lokale MTN-Leitung an. Noch nicht überzeugt? Testen Sie das gesamte Setup mit einer [kostenlosen Multi-Netz-Test-eSIM](/free-esim/).
 

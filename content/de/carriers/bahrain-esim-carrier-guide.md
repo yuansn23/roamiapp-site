@@ -34,23 +34,23 @@ hero_subtitle_main: "Batelco, Zain und stc — eine kleine Insel, drei Netze"
 
 
 
-Die Insel ist etwa 50 km breit, daher ist die eSIM-Netzabdeckung in Bahrain nicht das Rätsel, das sie in größeren Ländern darstellt — alle drei Netze erreichen nahezu jeden. Die eigentlichen Entscheidungen sind andere: **Möchten Sie ein Prepaid-Paket mit lokaler Nummer oder eine Reise-eSIM, die Sie vor dem Flug installieren?** Und, neu ab 2026, erlaubt die bahrainische Regulierungsbehörde lizenzierten Netzbetreibern die Ausgabe von **ausschließlich internationalen eSIMs, die die lokale Registrierung vollständig umgehen** — eine echte Veränderung, die es zu kennen lohnt, bevor Sie landen. Dieser Guide beantwortet, auf welchem Netzbetreiber Ihre Bahrain-eSIM laufen sollte, wie jeder einzelne an Touristen verkauft und wo die wenigen Funklöcher tatsächlich liegen.
+Die Insel ist etwa 50 km breit, daher ist die eSIM-Netzabdeckung in Bahrain nicht das Rätsel, das sie in größeren Ländern darstellt — alle drei Netze erreichen nahezu jeden. Die eigentlichen Entscheidungen sind andere: **Möchten Sie ein Prepaid-Paket mit lokaler Nummer oder eine Reise-eSIM, die Sie vor dem Flug installieren?** Und, neu ab 2026, erlaubt die bahrainische Regulierungsbehörde lizenzierten Netzbetreibern die Ausgabe von **ausschließlich internationalen Profile, die die lokale Registrierung vollständig umgehen** — eine echte Veränderung, die es zu kennen lohnt, bevor Sie landen. Dieser Guide beantwortet, auf welchem Netzbetreiber Ihre Bahrain-eSIM laufen sollte, wie jeder einzelne an Touristen verkauft und wo die wenigen Funklöcher tatsächlich liegen.
 
 
 
-**Schnelle Antwort:** Die Entscheidung für einen Netzbetreiber in Bahrain ist weniger wichtig als der Kauf vor dem Flug: Wählen Sie Batelco für die breiteste Karte oder die lokalen Netze für günstige Datentarife, und installieren Sie das Profil vor dem Flug. Ihre erste eSIM? Der [Aktivierungsguide](/faq/how-to-activate-an-esim/) führt Sie durch Download und Installation.
+**Schnelle Antwort:** Die Entscheidung für einen Netzbetreiber in Bahrain ist weniger wichtig als der Kauf vor dem Flug: Wählen Sie Batelco für die breiteste Karte oder die lokalen Netze für günstige Datentarife, und installieren Sie das Profil vor dem Flug. Ihre erste Profil? Der [Aktivierungsguide](/faq/how-to-activate-an-esim/) führt Sie durch Download und Installation.
 
 
 
-Vor dem Netzbetreiber-Vergleich stehen zwei praktische Prüfungen an: Unterstützt Ihr Telefon eSIM und wie funktioniert die Installation? Die [Gerätekompatibilitätsliste](/compatibility/) beantwortet die erste Frage und [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/) die zweite — alles unten dreht sich nur um die Netzbetreiber selbst.
+Vor dem Netzbetreiber-Vergleich stehen zwei praktische Prüfungen an: Unterstützt Ihr Telefon Profil und wie funktioniert die Installation? Die [Gerätekompatibilitätsliste](/compatibility/) beantwortet die erste Frage und [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/) die zweite — alles unten dreht sich nur um die Netzbetreiber selbst.
 
 
 
-**Fazit:** Die Wahl der Bahrain-eSIM dreht sich eigentlich um die Gebühren. Bleiben Sie in Manama oder Juffair? **Batelco** (jetzt unter der Marke Beyon) ist am schnellsten und zuverlässigsten im Stadtzentrum; **Zain** ist die preisbewusste Prepaid-Wahl; **stc** (ehemals Viva) ist der starke Allrounder. Alle drei verkaufen eSIM — aber die Aktivierung im Laden kostet extra (Batelco BHD 8, Zain und stc BHD 3,125). Eine Reise-eSIM auf allen drei Netzen umgeht diese Gebühr und die Schlange am Passschalter. Fahren Sie mit dem Auto über den King-Fahd-Damm nach Saudi-Arabien? Ihr bahrainischer Tarif endet an der Grenze — eine regionale eSIM ist die Lösung.
+**Fazit:** Die Wahl der Bahrain-eSIM dreht sich eigentlich um die Gebühren. Bleiben Sie in Manama oder Juffair? **Batelco** (jetzt unter der Marke Beyon) ist am schnellsten und zuverlässigsten im Stadtzentrum; **Zain** ist die preisbewusste Prepaid-Wahl; **stc** (ehemals Viva) ist der starke Allrounder. Alle drei verkaufen Profil — aber die Aktivierung im Laden kostet extra (Batelco BHD 8, Zain und stc BHD 3,125). Eine Reise-eSIM auf allen drei Netzen umgeht diese Gebühr und die Schlange am Passschalter. Fahren Sie mit dem Auto über den King-Fahd-Damm nach Saudi-Arabien? Ihr bahrainischer Tarif endet an der Grenze — eine regionale Profil ist die Lösung.
 
 
 
-## Die drei Netze hinter Ihrer eSIM
+## Die drei Netze hinter Ihrer Profil
 
 
 
@@ -58,7 +58,7 @@ Vor dem Netzbetreiber-Vergleich stehen zwei praktische Prüfungen an: Unterstüt
 
 
 
-| | Batelco (Beyon) | Zain Bahrain | stc Bahrain |
+| | Batelco (Beyon) | Zain Bahrain | stc der Inselstaat |
 
 |:---|:---|:---|:---|
 
@@ -66,7 +66,7 @@ Vor dem Netzbetreiber-Vergleich stehen zwei praktische Prüfungen an: Unterstüt
 
 | Netzabdeckung | 4G landesweit, starkes 5G in Manama | 4G/5G in Städten, außerhalb mäßig | 4G/5G, gute Abdeckung im ländlichen Raum |
 
-| eSIM für Besucher | Ja, im Laden (Gebühr) oder Reise-eSIM | Ja, im Laden (Gebühr) oder Reise-eSIM | Ja, im Laden (Gebühr) oder Reise-eSIM |
+| Profil für Besucher | Ja, im Laden (Gebühr) oder Reise-eSIM | Ja, im Laden (Gebühr) oder Reise-eSIM | Ja, im Laden (Gebühr) oder Reise-eSIM |
 
 | Starter Prepaid | Ab ca. 4 BHD; Touristen-SIM 7,5 BHD (9 GB + 500 Min., 28 Tage) | Ab ca. 6,30 BHD | Ab ca. 7 BHD |
 
@@ -74,7 +74,7 @@ Vor dem Netzbetreiber-Vergleich stehen zwei praktische Prüfungen an: Unterstüt
 
 
 
-Da die Insel sehr klein ist, geht es bei den Unterschieden zwischen den Netzbetreibern hauptsächlich um **Geschwindigkeit und Tarifwert**, nicht darum, ob Sie Empfang haben. Wählen Sie Ihre Bahrain-eSIM nach Preis und Filialkomfort aus, nicht aus Angst vor schlechter Netzabdeckung.
+Da die Insel sehr klein ist, geht es bei den Unterschieden zwischen den Netzbetreibern hauptsächlich um **Geschwindigkeit und Tarifwert**, nicht darum, ob Sie Empfang haben. Wählen Sie Ihre Reise-eSIM nach Preis und Filialkomfort aus, nicht aus Angst vor schlechter Netzabdeckung.
 
 
 
@@ -82,21 +82,21 @@ Da die Insel sehr klein ist, geht es bei den Unterschieden zwischen den Netzbetr
 
 
 
-Die Telecommunications Regulatory Authority (TRA) Bahrains hat die [Entscheidung Nr. 1 von 2026](https://www.vista-compliance.com/news/newsposts/2026/newspost260324) erlassen, die **internationale reine Daten-eSIMs** regelt. Die praktischen Punkte:
+Die Telecommunications Regulatory Authority (TRA) des Landes hat die [Entscheidung Nr. 1 von 2026](https://www.vista-compliance.com/news/newsposts/2026/newspost260324) erlassen, die **internationale reine Daten-eSIMs** regelt. Die praktischen Punkte:
 
 
 
-- Lizenzierte Betreiber dürfen eSIMs ausgeben, die **nur in ausländischen Netzen** funktionieren, **nur für Daten** sind und **nicht innerhalb von Bahrain** genutzt werden können.
+- Lizenzierte Betreiber dürfen Profile ausgeben, die **nur in ausländischen Netzen** funktionieren, **nur für Daten** sind und **nicht innerhalb des Landes** genutzt werden können.
 
 - Diese sind **von der standardmäßigen SIM-Registrierung und -Verifizierung befreit**, die eine normale bahrainische SIM-Karte erfordert.
 
 - Sie sind auf **90 Tage begrenzt** und müssen technisch auf die internationale Nutzung festgelegt bleiben.
 
-- Entscheidend: Wird eine solche eSIM jemals **innerhalb Bahrains aktiviert**, greifen wieder die normalen Registrierungsregeln.
+- Entscheidend: Wird ein solches Profil jemals **innerhalb des Landes aktiviert**, greifen wieder die normalen Registrierungsregeln.
 
 
 
-Für einen Besucher ist dies wichtig, da es die regulatorische Grundlage für das Reise-eSIM-Modell ist – kaufen Sie vor dem Flug, installieren Sie es zu Hause, und Sie kommen online an, ohne am Schalter eine Passregistrierung vornehmen zu müssen. Es bedeutet auch, dass eine in Bahrain erworbene eSIM von einem globalen Anbieter ein anderes Produkt ist als eine lokale Batelco/Zain/stc Prepaid-SIM.
+Für einen Besucher ist dies wichtig, da es die regulatorische Grundlage für das Reise-eSIM-Modell ist – kaufen Sie vor dem Flug, installieren Sie es zu Hause, und Sie kommen online an, ohne am Schalter eine Passregistrierung vornehmen zu müssen. Es bedeutet auch, dass eine im Land erworbene Profil von einem globalen Anbieter ein anderes Produkt ist als eine lokale Batelco/Zain/stc Prepaid-SIM.
 
 
 
@@ -104,7 +104,7 @@ Für einen Besucher ist dies wichtig, da es die regulatorische Grundlage für da
 
 
 
-Da die Insel klein ist, treten Probleme am Schalter auf, nicht am Mast. Halten Sie diese bereit, damit der Kauf einer Bahrain eSIM nicht zu einer 20-minütigen Odyssee wird.
+Da die Insel klein ist, treten Probleme am Schalter auf, nicht am Mast. Halten Sie diese bereit, damit der Kauf vor Ort nicht zu einer 20-minütigen Odyssee wird.
 
 
 
@@ -118,7 +118,7 @@ Da die Insel klein ist, treten Probleme am Schalter auf, nicht am Mast. Halten S
 
 | **Bahrain-Dinar (BHD)** | Ausländische Karten werden an einigen Aufladestationen abgelehnt | Bargeld für Aufladungen bereithalten; 1 BHD ≈ 2,65 USD |
 
-| **Entsperrtes Handy** | Eine Netzbetreiber-Sperre blockiert jede eSIM | Prüfen Sie Einstellungen → Über; das Sperrfeld muss ein entsperrtes Gerät anzeigen |
+| **SIM-Sperre ausschließen** | Eine Netzbetreiber-Sperre verhindert jede Reise-eSIM | Unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre muss „Keine SIM-Beschränkungen“ stehen |
 
 | **eSIM-Aktivierungsgebühr** | Batelco BHD 8; Zain & stc BHD 3,125 im Laden | Eine Reise-eSIM erhebt keine Aktivierungsgebühr und keinen biometrischen Schritt |
 
@@ -128,15 +128,15 @@ Da die Insel klein ist, treten Probleme am Schalter auf, nicht am Mast. Halten S
 
 
 
-Der biometrische Schritt ist derjenige, der die Leute überrascht (siehe [Bahrain-SIM-Leitfaden](https://www.expatfocus.com/bahrain/guide/bahrain-landlines-and-mobile-phones)). Selbst eine lokale bahrainische eSIM kann nicht remote ausgestellt werden – der Fingerabdruck muss am Schalter erfasst werden – weshalb eine vorinstallierte Reise-eSIM (kein Reisepass, kein Fingerabdruck) der unkompliziertere Weg zur Bahrain-eSIM für einen Kurzbesuch ist.
+Der biometrische Schritt ist derjenige, der die Leute überrascht (siehe [Bahrain-SIM-Leitfaden](https://www.expatfocus.com/bahrain/guide/bahrain-landlines-and-mobile-phones)). Selbst ein lokales Profil kann nicht remote ausgestellt werden – der Fingerabdruck muss am Schalter erfasst werden – weshalb eine vorinstallierte Reise-eSIM (kein Reisepass, kein Fingerabdruck) der unkompliziertere Weg zur Bahrain-eSIM für einen Kurzbesuch ist.
 
 
 
-## Was die Tarife kosten
+## Was Bahrains Prepaid-Tarife wirklich kosten
 
 
 
-Die beworbene Netzabdeckung ist auf einer 50 km großen Insel nahezu identisch. Was eine Bahrain-eSIM tatsächlich von einer anderen unterscheidet, sind der Tarifwert, das Erlebnis im Laden und die eSIM-Gebühr.
+Die beworbene Netzabdeckung ist auf einer 50 km großen Insel nahezu identisch. Was eine Reise-eSIM tatsächlich von einer anderen unterscheidet, sind der Tarifwert, das Erlebnis im Laden und die eSIM-Gebühr.
 
 
 
@@ -170,13 +170,13 @@ Batelco ist der ehemalige Monopolist und der Anbieter, den die meisten Besucher 
 
 2. Legen Sie Ihren **Originalpass** vor und geben Sie einen **Fingerabdruck** für die Registrierung ab.
 
-3. Zahlung — im Shop fällt für eine eSIM eine **Aktivierungsgebühr von 8 BHD** an; eine physische SIM ist in der Regel kostenlos.
+3. Zahlung — im Shop fällt für ein Profil eine **Aktivierungsgebühr von 8 BHD** an; eine physische SIM ist in der Regel kostenlos.
 
 4. Das Personal aktiviert die Leitung; testen Sie die Datenverbindung, bevor Sie den Schalter verlassen.
 
 
 
-**Besonderheit:** Batelco verkauft auch [Voya](https://www.batelco.com/?p=53955/), eine separate datenbasierte Roaming-eSIM für Reisen *außerhalb* Bahrains – nützlich, wenn Bahrain Ihre Basis ist und Sie in der Golfregion unterwegs sind. VoIP (WhatsApp, FaceTime) funktioniert in bahrainischen Netzen ganz normal, sodass eine Batelco-Leitung keine Sperre für Anruf-Apps mit sich bringt.
+**Besonderheit:** Batelco verkauft auch [Voya](https://www.batelco.com/?p=53955/), eine separate datenbasierte Roaming-eSIM für Reisen *außerhalb* des Landes – nützlich, wenn das Königreich Ihre Basis ist und Sie in der [Golfregion](/middle-east-esim/) unterwegs sind. VoIP (WhatsApp, FaceTime) funktioniert in bahrainischen Netzen ganz normal, sodass eine Batelco-Leitung keine Sperre für Anruf-Apps mit sich bringt.
 
 
 
@@ -200,7 +200,7 @@ Zain ist die preisbewusste Wahl mit günstigen Prepaid-Tarifen und häufigen Akt
 
 | Visitor 10GB | 10 GB | 40 lokale Minuten | 30 Tage | 4 BHD | ~$11 |
 
-| Visitor 15GB | 15 GB | 50 Ortsminuten | 30 Tage | 5,5 BHD | ~15 $ |
+| Visitor 15GB | 15 GB | 50 lokale Minuten | 30 Tage | 5,5 BHD | ~15 $ |
 
 | Visitor Unlimited | Unlimited | Unbegrenzt vor Ort | 30 Tage | 12 BHD | ~$32 |
 
@@ -246,11 +246,11 @@ stc gehört zur saudischen stc-Gruppe und betreibt unter seinem früheren Namen 
 
 
 
-**Wie ein Besucher eine stc eSIM kauft:**
+**Wie ein Besucher eine stc Profil kauft:**
 
 1. Am Flughafen (der Viva/stc-Schalter befindet sich direkt nach der Passkontrolle), in jeder stc-Filiale oder über die My stc BH App.
 
-2. Reisepass + Fingerabdruck; einige Tarife (z. B. Prepaid 8.5 International) unterstützen die **sofortige eSIM**-Aktivierung.
+2. Reisepass + Fingerabdruck; einige Tarife (z. B. Prepaid 8.5 International) unterstützen die **sofortige Profil**-Aktivierung.
 
 3. Die eSIM-Gebühr in der Filiale beträgt **BHD 3.125**.
 
@@ -260,11 +260,11 @@ stc gehört zur saudischen stc-Gruppe und betreibt unter seinem früheren Namen 
 
 
 
-## Ihre eSIM kaufen
+## Wo Sie Ihre Bahrain-eSIM bekommen
 
 
 
-| Schritt | Lokale Prepaid-SIM | eSIM vom Netzbetreiber im Laden | Reise-eSIM |
+| Schritt | Lokale Prepaid-SIM | Profil vom Netzbetreiber im Laden | Reise-eSIM |
 
 |:---|:---|:---|:---|
 
@@ -280,15 +280,21 @@ stc gehört zur saudischen stc-Gruppe und betreibt unter seinem früheren Namen 
 
 
 
-Seit 2025 müssen auch autorisierte Convenience-Stores (z. B. BACCO) Ihren **Reisepass entgegennehmen und die SIM registrieren** — etwa 10–15 Minuten inklusive Fingerabdruck, laut diesem [SIM-Vergleich 2026](https://gulftimesnow.com/bahrain-sim-card-2026). Am **Bahrain International Airport** betreiben alle drei Netzbetreiber Ankunftskioske; die Preise liegen etwas über denen in der Stadt. Planen Sie den Registrierungsschritt ein und halten Sie **Bahraini-Dinar (BHD)** bereit, da nicht jeder Aufladevorgang eine ausländische Karte akzeptiert.
+Seit 2025 müssen auch autorisierte Convenience-Stores (z. B. BACCO) Ihren **Reisepass entgegennehmen und die SIM registrieren** — etwa 10–15 Minuten inklusive Fingerabdruck, laut diesem [SIM-Vergleich 2026](https://gulftimesnow.com/bahrain-sim-card-2026). Am **Bahrain International Airport** betreiben alle drei Netzbetreiber Ankunftskioske; die Preise liegen etwas über denen in der Stadt. Die Schalter akzeptieren Barzahlung, und nicht jeder Aufladevorgang lässt sich mit einer ausländischen Karte bezahlen.
+
+**Eine Beispielrechnung für eine Woche im Land:** Der Zain-Besuchertarif mit 5 GB kostet 2,5 BHD, im Laden kommen 3,125 BHD eSIM-Aktivierungsgebühr hinzu — zusammen 5,625 BHD, umgerechnet rund 15 USD, plus Reisepass und Fingerabdruck am Schalter. Bei Batelco fällt allein die Aktivierung mit 8 BHD an, mehr als das Doppelte des gesamten Zain-Tarifs. Eine vor der Reise installierte Reise-eSIM mit ähnlichem Volumen kostet nur den Tarifpreis: keine Gebühr, keine Biometrie, keine Schlange — genau deshalb gewinnt sie bei Aufenthalten unter zwei Wochen.
 
 
+
+### Minutenplan für die Ankunft in Bahrain
+
+Sobald Sie die Passkontrolle passiert haben, stehen links und rechts die Ankunftsschalter aller drei Netzbetreiber. Rechnen Sie so: Schalter finden (2 Minuten), Originalpass und Fingerabdruck vorlegen (10–15 Minuten), Profil aktivieren lassen (3–5 Minuten), Datenverbindung testen (1 Minute). Planen Sie also einen Puffer von 20–30 Minuten ein, wenn Sie vor Ort kaufen. Die Kioskpreise liegen etwas über denen in der Stadt, und die WLAN-Verbindung des Flughafens ist während der großen Ankunftswellen stark ausgelastet. Ihr Plan B ist simpel: Eine vor der Reise installierte Reise-eSIM verbindet sich automatisch, sobald das Flugzeug rollt – kein Schalter, kein Fingerabdruck, keine Wartezeit. Behalten Sie Ihre Heimat-SIM für Bank-SMS aktiv und nutzen Sie die Reise-eSIM als zweite Leitung; diese Dual-SIM-Einrichtung spart Roaming-Gebühren, während die Fingerabdruckpflicht am Schalter entfällt.
 
 ## Überquerung der King-Fahd-Brücke mit einer Bahrain-eSIM
 
 
 
-Das ist die Realität an der Grenze, mit der jede Bahrain-Reiseroute irgendwann konfrontiert wird — und genau hier stößt ein reiner Bahrain-Tarif an seine Grenzen.
+Das ist die Realität an der Grenze, mit der jede Reiseroute durch das Königreich irgendwann konfrontiert wird — und genau hier stößt ein reiner lokaler Tarif an seine Grenzen.
 
 
 
@@ -298,25 +304,25 @@ Das ist die Realität an der Grenze, mit der jede Bahrain-Reiseroute irgendwann 
 
 - stc Bahrain bietet eigene [KSA-Roaming-Pakete](https://wikitechlibrary.com/stc-bahrain-internet-packages/) an: ungefähr **BHD 7 für 3 GB** (eingehende Anrufe sowie GCC-Gespräche kostenlos) und **BHD 20 für 40 GB**, sowie eine Option mit 16 GB / 300 Min — deutlich günstiger als Roaming nach Verbrauch.
 
-- Eine **regionale eSIM für den Golf**, die sowohl Bahrain als auch Saudi-Arabien abdeckt, ist die sauberste Lösung, wenn Ihre Reise mehr als einen Golfstaat umfasst.
+- Eine **regionale Profil für den Golf**, die sowohl das Land als auch Saudi-Arabien abdeckt, ist die sauberste Lösung, wenn Ihre Reise mehr als einen Golfstaat umfasst.
 
-- **In der Nähe der Brücke** schalten Sie die automatische Netzwahl ab, damit Ihr Telefon nicht schon einen saudischen Sender auf der Inselseite wählt und Ihnen Bahrain-Roaming berechnet.
+- **In der Nähe der Brücke** schalten Sie die automatische Netzwahl ab, damit Ihr Telefon nicht schon einen saudischen Sender auf der Inselseite wählt und Ihnen lokales Roaming berechnet.
 
 
 
-Setzen Sie Ihre Reise nach Bahrain entlang des Golfs fort? Diese Nachbarländer haben ihre eigenen recherchierten Ratgeber:
+Setzen Sie Ihre Golfreise fort? Diese Nachbarländer haben ihre eigenen recherchierten Ratgeber:
 
 
 
 - [eSIM-Tarife Saudi-Arabien](/saudi-arabia-esim/)
 
-- [VAE eSIM](/united-arab-emirates-esim/)
+- [VAE Profil](/united-arab-emirates-esim/)
 
-- [eSIM Kuwait](/kuwait-esim/)
+- [Profil Kuwait](/kuwait-esim/)
 
 
 
-💡 Wenn Ihre Route die Brücke überquert oder mehr als einen Golfstaat einschließt, schlägt eine regionale eSIM den Kauf einer neuen SIM in jedem Land.
+💡 Wenn Ihre Route die Brücke überquert oder mehr als einen Golfstaat einschließt, schlägt eine regionale Profil den Kauf einer neuen SIM in jedem Land.
 
 
 
@@ -340,9 +346,9 @@ Da es eine Insel ist, bedeutet „Netzabdeckung“ meistens „wie schnell“, m
 
 | Sitra & die Industriegebiete | Solides 4G, leichteres 5G | Beliebig | Verlangsamungen in der Nähe des Raffinerieverkehrs |
 
-| Hawar-Inseln | Bahrainisches Hoheitsgebiet, aber abgelegen; nur wenige Masten | stc (schwächster Empfang) | Planen Sie einen lückenhaften Empfang ein; nutzen Sie auf der Fähre WLAN |
+| Hawar-Inseln | Staatliches Hoheitsgebiet, aber abgelegen; nur wenige Masten | stc (schwächster Empfang) | Planen Sie einen lückenhaften Empfang ein; nutzen Sie auf der Fähre WLAN |
 
-| König-Fahd-Brücke → Saudi | Die Netze in Bahrain schwächen sich beim Erreichen der Brücke ab | — | Ihr Bahrain-Tarif endet an der Grenze; Roaming ist teuer |
+| König-Fahd-Brücke → Saudi | Die Netze im Land schwächen sich beim Erreichen der Brücke ab | — | Ihr lokaler Tarif endet an der Grenze; Roaming ist teuer |
 
 
 
@@ -354,19 +360,19 @@ Zwischen den Städten sind die wenigen Schwachstellen der Insel die Hawar-Inseln
 
 
 
-[Der Speedtest Global Index für August 2026](https://www.speedtest.net/global-index/bahrain) platziert Bahrain beim mobilen Download **auf Platz 7 weltweit** — mit einem Median von **243,48 Mbps** bei 16 ms Latenz. Das liegt weit über dem globalen Median von 109,05 Mbps und macht Bahrain zu einem der schnellsten Mobilfunkmärkte weltweit.
+[Der Speedtest Global Index für August 2026](https://www.speedtest.net/global-index/bahrain) platziert der Inselstaat beim mobilen Download **auf Platz 7 weltweit** — mit einem Median von **243,48 Mbps** bei 16 ms Latenz. Das liegt weit über dem globalen Median von 109,05 Mbps und macht Bahrain zu einem der schnellsten Mobilfunkmärkte weltweit.
 
 
 
-Beim Preis [veranschlagt Cable.co.uk 1 GB mobile Daten in Bahrain mit etwa 1,31 USD](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) — Platz 121 von 237 Märkten, verglichen mit einem globalen Durchschnitt von 2,59 USD. Günstige Daten, schnelle Netze.
+Beim Preis [veranschlagt Cable.co.uk 1 GB mobile Daten im Land mit etwa 1,31 USD](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) — Platz 121 von 237 Märkten, verglichen mit einem globalen Durchschnitt von 2,59 USD. Günstige Daten, schnelle Netze.
 
 
 
-Zum Kontext: [DataReportal zählt 1,61 Millionen Internetnutzer in Bahrain (99,0 % der Bevölkerung)](https://datareportal.com/reports/digital-2025-bahrain) und 2,52 Millionen Mobilfunkverbindungen — etwa 155 % der Bevölkerung — Anfang 2025.
+Zum Kontext: [DataReportal zählt 1,61 Millionen Internetnutzer im Land (99,0 % der Bevölkerung)](https://datareportal.com/reports/digital-2025-der Inselstaat) und 2,52 Millionen Mobilfunkverbindungen — etwa 155 % der Bevölkerung — Anfang 2025.
 
 
 
-Für Bahrain liegt kein veröffentlichter Speedtest Connectivity Report pro Netzbetreiber vor, daher werden die Mbps auf Betreiberebene hier qualitativ beschrieben statt geschätzt. Die folgende Rangfolge — Batelco am schnellsten im Zentrum, Zain als Preis-Leistungs-Tipp, stc ausgewogen — spiegelt Berichte von Netzbetreibern und Reisenden wider. Wer eine Bahrain eSIM vor allem für Geschwindigkeit kauft, liegt mit Batelco in Manama richtig.
+Für das Königreich liegt kein veröffentlichter Speedtest Connectivity Report pro Netzbetreiber vor, daher werden die Mbps auf Betreiberebene hier qualitativ beschrieben statt geschätzt. Die folgende Rangfolge — Batelco am schnellsten im Zentrum, Zain als Preis-Leistungs-Tipp, stc ausgewogen — spiegelt Berichte von Netzbetreibern und Reisenden wider. Wer ein Bahrain-Profil vor allem für Geschwindigkeit kauft, liegt mit Batelco in Manama richtig.
 
 
 
@@ -376,11 +382,11 @@ Für Bahrain liegt kein veröffentlichter Speedtest Connectivity Report pro Netz
 
 
 
-**Bahrain eSIM nach Reiseart:**
+**Bahrain-Profil nach Reiseart:**
 
 
 
-| Ihre Reiseroute | Top-Empfehlung | Warum es überzeugt | Darauf sollten Sie achten |
+| Reisezweck auf der Insel | Unsere Netz-Empfehlung | Was im konkreten Fall spricht | Was Sie einkalkulieren sollten |
 
 |:---|:---|:---|:---|
 
@@ -392,7 +398,7 @@ Für Bahrain liegt kein veröffentlichter Speedtest Connectivity Report pro Netz
 
 | F1 Grand-Prix-Wochenende | Batelco | Netz für die Menschenmengen in Sakhir ausgelegt | Extreme Überlastung weiterhin möglich |
 
-| Fahrt nach Saudi-Arabien | Eine eSIM für die Golfregion | Der Bahrain-Tarif endet am Damm | Direktes Roaming ist teuer |
+| Fahrt nach Saudi-Arabien | Eine Profil für die Golfregion | Der lokale Tarif endet am Damm | Direktes Roaming ist teuer |
 
 | Sofort online aktivieren, ohne Papierkram | Reise-eSIM für alle drei Netzbetreiber | Keine Schlange am Schalter, keine Aktivierungsgebühr | Nur Daten — keine lokale Rufnummer |
 
@@ -402,15 +408,15 @@ Für Bahrain liegt kein veröffentlichter Speedtest Connectivity Report pro Netz
 
 
 
-## Manuelle APN-Einrichtung
+## Den Bahrain-APN selbst eintragen – nur in drei Fällen
 
 
 
-Nur erforderlich, wenn Sie eine lokale SIM- oder eSIM direkt von Batelco, Zain oder stc erworben haben. Eine als Reise-Produkt verkaufte eSIM aus Bahrain richtet ihren APN selbst ein – bitte nicht ändern.
+Nur erforderlich, wenn Sie eine lokale SIM- oder Profil direkt von Batelco, Zain oder stc erworben haben. Eine als Reise-Produkt verkaufte Profil aus dem Land richtet ihren APN selbst ein – bitte nicht ändern.
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Bahrain-Netz | APN (Zugangspunkt) | Benutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -440,7 +446,7 @@ Speichern Sie die Eingaben und starten Sie das Gerät neu. Richten Sie die mobil
 
 
 
-Routineprobleme mit eSIMs – ein Code, der sich nicht scannen lässt, ein Profil, das bei „Aktivierung“ hängen bleibt, oder eine Leitung, die nie erscheint – sind keine bahrainischen Besonderheiten. Gehen Sie in diesen Fällen die [Aktivierungsanleitung](/faq/how-to-activate-an-esim/) und den umfassenderen [eSIM-Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) durch. Alles, was folgt, ist spezifisch für das Königreich.
+Routineprobleme mit Profile – ein Code, der sich nicht scannen lässt, ein Profil, das bei „Aktivierung“ hängen bleibt, oder eine Leitung, die nie erscheint – sind keine bahrainischen Besonderheiten. Gehen Sie in diesen Fällen die [Aktivierungsanleitung](/faq/how-to-activate-an-esim/) und den umfassenderen [eSIM-Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) durch. Alles, was folgt, ist spezifisch für das Königreich.
 
 
 
@@ -456,7 +462,7 @@ Installieren Sie das Profil bereits zu Hause. Das WLAN am Flughafen Bahrain Inte
 
 
 
-Das ist die neue Falle ab 2026. Gemäß der [Entscheidung Nr. 1 von 2026 der TRA](https://www.vista-compliance.com/news/newsposts/2026/newspost260324) sind **rein internationale eSIMs** nur dann von der lokalen Registrierungspflicht ausgenommen, solange sie ausschließlich in ausländischen Netzen genutzt werden. Wird eine solche eSIM im Königreich aktiviert, greifen wieder die normalen Registrierungsregeln, und die Leitung kann gesperrt werden, bis Sie sich persönlich registrieren – einschließlich Fingerabdruck. Installieren und verbinden Sie die eSIM also im Ausland und nutzen Sie sie weiterhin als Reise-Produkt und nicht als bahrainische Rufnummer.
+Das ist die neue Falle ab 2026. Gemäß der [Entscheidung Nr. 1 von 2026 der TRA](https://www.vista-compliance.com/news/newsposts/2026/newspost260324) sind **rein internationale Profile** nur dann von der lokalen Registrierungspflicht ausgenommen, solange sie ausschließlich in ausländischen Netzen genutzt werden. Wird ein solches Profil im Königreich aktiviert, greifen wieder die normalen Registrierungsregeln, und die Leitung kann gesperrt werden, bis Sie sich persönlich registrieren – einschließlich Fingerabdruck. Installieren und verbinden Sie das Profil also im Ausland und nutzen Sie es weiterhin als Reise-Produkt und nicht als bahrainische Rufnummer.
 
 
 
@@ -464,7 +470,7 @@ Das ist die neue Falle ab 2026. Gemäß der [Entscheidung Nr. 1 von 2026 der TRA
 
 
 
-Bahrainische APNs sind leicht falsch einzutippen: `internet.batelco.com.bh`, `internet.zain.com`, `stc.internet`. Geben Sie den passenden APN für Ihre Leitung erneut ein und starten Sie das Gerät neu. Bleibt das Problem bestehen, liegt es vermutlich am Datenvolumen: Die „Unlimited“-Prepaid-Karte von Zain und andere gedrosselte Tarife drosseln die Geschwindigkeit, anstatt die Verbindung zu unterbrechen – ein plötzlich langsamerer Datendurchsatz ist also die Fair-Use-Grenze und kein Funkausfall.
+Hiesige APNs tippt man leicht falsch ein: `internet.batelco.com.bh`, `internet.zain.com`, `stc.internet`. Geben Sie den passenden APN für Ihre Leitung erneut ein und starten Sie das Gerät neu. Bleibt das Problem bestehen, liegt es vermutlich am Datenvolumen: Zains „Unlimited“-Prepaid-Tarif und andere gedrosselte Pakete reduzieren die Geschwindigkeit, statt die Verbindung zu unterbrechen — ein plötzlich trägerer Datendurchsatz ist also die Fair-Use-Grenze und kein Funkausfall.
 
 
 
@@ -488,7 +494,7 @@ An Grand-Prix-Wochenenden schiebt sich in der Region Sakhir eine inselgroße Men
 
 
 
-Bereits vor der Mautstation der King-Fahd-Brücke kann das stärkste Signal aus Saudi-Arabien kommen, und ein reiner Bahrain-Tarif wird dann entweder funktionslos oder – falls ein Netzbetreiber-Add-on aktiv ist – es werden Gulf-Roaming-Gebühren berechnet, obwohl Sie sich noch auf der Inselseite befinden. Stellen Sie die Netzwerkauswahl bei der Anfahrt auf **manuell** und wählen Sie Batelco, Zain oder stc von Hand aus, oder wechseln Sie zu einer regionalen Gulf-eSIM, die beide Länder abdeckt.
+Bereits vor der Mautstation der King-Fahd-Brücke kann das stärkste Signal aus Saudi-Arabien kommen, und ein reiner lokaler Tarif wird dann entweder funktionslos oder – falls ein Netzbetreiber-Add-on aktiv ist – es werden Gulf-Roaming-Gebühren berechnet, obwohl Sie sich noch auf der Inselseite befinden. Stellen Sie die Netzwerkauswahl bei der Anfahrt auf **manuell** und wählen Sie Batelco, Zain oder stc von Hand aus, oder wechseln Sie zu einer regionalen Gulf-eSIM, die beide Länder abdeckt.
 
 
 
@@ -522,7 +528,12 @@ Bei einer **Reise-eSIM** hat der Schalter eines Netzbetreibers keinen Eintrag un
 
 
 
-## Häufige Fragen zur Bahrain eSIM
+
+### Vor dem Abflug: EID und IMEI für Ihre Bahrain-Leitung prüfen
+
+Eine Bahrain-eSIM wird auf einem profilfähigen Chip installiert – egal, ob Sie Batelco, Zain oder stc buchen. Zwei Werte entscheiden vor der Reise, ob die Einrichtung gelingt: Die EID Ihres Geräts (über `*#06#` abrufbar) identifiziert den eSIM-Chip, und die IMEI bestätigt, dass das Modell die im Land genutzten Bänder unterstützt. Ein netzbetreiber-gesperrtes Handy nimmt keine einzige Reise-eSIM an – die Sperre prüfen Sie unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre, wo „Keine SIM-Beschränkungen“ stehen muss. Wer EID und Modell in einem Schritt auslesen möchte, nutzt einen eSIM-Kompatibilitätstest vor der Buchung.
+
+## Häufige Fragen zu Ihrer Bahrain-Leitung
 
 
 
@@ -530,7 +541,7 @@ Bei einer **Reise-eSIM** hat der Schalter eines Netzbetreibers keinen Eintrag un
 
 
 
-Ja. Batelco (Beyon) verkauft eSIMs im Laden und über Online-Bestellung, aber die Aktivierung im Laden ist mit einer **Gebühr von 8 BHD** ab 2024 verbunden, und Sie registrieren sich mit Reisepass und Fingerabdruck. Eine Reise-eSIM im Netz von Batelco umgeht beides.
+Ja. Batelco (Beyon) verkauft Profile im Laden und über Online-Bestellung, aber die Aktivierung im Laden ist mit einer **Gebühr von 8 BHD** ab 2024 verbunden, und Sie registrieren sich mit Reisepass und Fingerabdruck. Eine Reise-eSIM im Netz von Batelco umgeht beides.
 
 
 
@@ -538,7 +549,7 @@ Ja. Batelco (Beyon) verkauft eSIMs im Laden und über Online-Bestellung, aber di
 
 
 
-Ja. Alle drei Netzbetreiber betreiben Ankunftsschalter am internationalen Flughafen von Bahrain, und sowohl Batelco als auch Zain ermöglichen die Online-Bestellung einer Prepaid-Leitung zur Abholung am Flughafen. Die Preise am Flughafen liegen etwas über denen in der Stadt. Eine vor der Abreise bestellte Reise-eSIM für Bahrain erspart den Schalter, die Reisepass-Schlange und den Fingerabdruck vollständig.
+Ja. Alle drei Netzbetreiber betreiben Ankunftsschalter am internationalen Flughafen, und sowohl Batelco als auch Zain ermöglichen die Online-Bestellung einer Prepaid-Leitung zur Abholung am Flughafen. Die Preise am Flughafen liegen etwas über denen in der Stadt. Eine vor der Abreise bestellte Reise-eSIM für das Land erspart den Schalter, die Reisepass-Schlange und den Fingerabdruck vollständig.
 
 
 
@@ -546,7 +557,7 @@ Ja. Alle drei Netzbetreiber betreiben Ankunftsschalter am internationalen Flugha
 
 
 
-Für eine normale bahrainische Prepaid-SIM ja – Reisepass und Fingerabdruck sind Pflicht. Ausgenommen sind **ausschließlich internationale eSIMs**, also reine Datentarife, die in ausländischen Netzen bleiben und nie in Bahrain aktiviert werden; für diese entfällt die Standardregistrierung.
+Für eine normale bahrainische Prepaid-SIM ja – Reisepass und Fingerabdruck sind Pflicht. Ausgenommen sind **ausschließlich internationale Profile**, also reine Datentarife, die in ausländischen Netzen bleiben und nie im Land aktiviert werden; für diese entfällt die Standardregistrierung.
 
 
 
@@ -562,15 +573,15 @@ Batelco ist in Manama und den wichtigsten Stadtteilen durchgehend am schnellsten
 
 
 
-Bei den Tarifen selbst liegen die Netze etwa gleich auf; der Unterschied liegt in den Gebühren: Eine lokale eSIM im Laden kostet zusätzlich 3,125 BHD (Zain/stc) oder 8 BHD (Batelco), während eine Reise-eSIM keine Aktivierungsgebühr und keinen Reisepass-Schritt hat.
+Bei den Tarifen selbst liegen die Netze etwa gleich auf; der Unterschied liegt in den Gebühren: Eine lokale Profil im Laden kostet zusätzlich 3,125 BHD (Zain/stc) oder 8 BHD (Batelco), während eine Reise-eSIM keine Aktivierungsgebühr und keinen Reisepass-Schritt hat.
 
 
 
-### Funktioniert meine eSIM bei der Fahrt nach Saudi-Arabien?
+### Funktioniert mein Profil bei der Fahrt nach Saudi-Arabien?
 
 
 
-Nein — ein reiner Bahrain-Tarif endet am King-Fahd-Damm. Kaufen Sie entweder einen Saudi-/Regional-Roaming-Add-on bei Ihrem Netzbetreiber (stc verkauft KSA-Pakete ab 7 BHD) oder nutzen Sie eine Gulf-Regional-eSIM, die Saudi-Arabien einschließt.
+Nein — ein reiner lokaler Tarif endet am King-Fahd-Damm. Kaufen Sie entweder einen Saudi-/Regional-Roaming-Add-on bei Ihrem Netzbetreiber (stc verkauft KSA-Pakete ab 7 BHD) oder nutzen Sie eine Gulf-Regional-eSIM, die Saudi-Arabien einschließt.
 
 
 
@@ -586,7 +597,7 @@ Zain ist bei Prepaid meist der Preisführer (Einstiegstarife ab ~6,30 BHD, Besuc
 
 
 
-Nein — anders als in den VAE oder Katar verfolgt Bahrain eine offene Politik bei Internet-Telefonie, sodass WhatsApp, FaceTime und ähnliche Apps sowohl in lokalen Netzen als auch über WLAN grundsätzlich funktionieren. Sie können den Tarif rein nach Preis und Datenvolumen auswählen, ohne sich um die Blockierung von Telefon-Apps sorgen zu müssen.
+Nein — anders als in den VAE oder Katar verfolgt das Königreich eine offene Politik bei Internet-Telefonie, sodass WhatsApp, FaceTime und ähnliche Apps sowohl in lokalen Netzen als auch über WLAN grundsätzlich funktionieren. Sie können den Tarif rein nach Preis und Datenvolumen auswählen, ohne sich um die Blockierung von Telefon-Apps sorgen zu müssen.
 
 
 
@@ -594,7 +605,7 @@ Nein — anders als in den VAE oder Katar verfolgt Bahrain eine offene Politik b
 
 
 
-Bahrain verlangt für jede SIM eine biometrische Registrierung, nicht nur einen Pass-Scan. Planen Sie 10–15 Minuten am Schalter ein; das ist der Hauptgrund, warum eine Reise-eSIM (keine Biometrie, kein Reisepass) bei kurzen Aufenthalten deutlich reibungsloser ist.
+Das Königreich verlangt für jede SIM eine biometrische Registrierung, nicht nur einen Pass-Scan. Planen Sie 10–15 Minuten am Schalter ein; das ist der Hauptgrund, warum eine Reise-eSIM (keine Biometrie, kein Reisepass) bei kurzen Aufenthalten deutlich reibungsloser ist.
 
 
 
@@ -602,7 +613,7 @@ Bahrain verlangt für jede SIM eine biometrische Registrierung, nicht nur einen 
 
 
 
-Ja – behalten Sie Ihre Heimatleitung für Anrufe/SMS, nutzen Sie die Daten über die eSIM und schalten Sie Daten-Roaming auf der Heimatleitung aus, um Gebühren zu vermeiden.
+Ja – behalten Sie Ihre Heimatleitung für Anrufe/SMS, nutzen Sie die Daten über das Profil und schalten Sie Daten-Roaming auf der Heimatleitung aus, um Gebühren zu vermeiden.
 
 
 
@@ -622,7 +633,7 @@ Beginnen Sie mit den oben genannten Inselspezifika — der TRA-Aktivierungsfalle
 
 
 
-Weitere Fragen? [Zur FAQ-Übersicht](/faq/)
+Weitere Fragen zu Batelco, Zain oder stc? [Zur FAQ-Übersicht](/faq/)
 
 
 
@@ -642,11 +653,15 @@ Alles oben Genannte ist eine Einschätzung Dritter, daher wird Ihr eigenes Ergeb
 
 
 
+### Wann die lokale Bahrain-SIM der Reise-eSIM überlegen ist
+
+Die Reise-eSIM gewinnt bei Kurzbesuchen, weil sie den Schalter, den Fingerabdruck und die BHD-Aktivierungsgebühr ersetzt. Es gibt aber drei Fälle, in denen die lokale Karte von Batelco, Zain oder stc die ehrliche Wahl bleibt: Sie bleiben länger als zwei Wochen und brauchen eine echte +973-Rufnummer für Anrufe und Inlands-SMS; Sie wollen das Hotspot/Tethering von stc ohne die separate Daten-Add-on-Freischaltung nutzen; oder Ihr Gerät nimmt kein eSIM-fähiges Profil auf und ist auf eine physische SIM angewiesen. In diesen Fällen zahlen Sie die Registrierung mit Reisepass und Fingerabdruck am Schalter und sparen dafür die laufende Gebühr für ein zweites Reiseprofil. Für alle übrigen Besucher – also die große Mehrheit der Kurztrips nach Manama, Juffair oder auf die Inselstrände – bleibt die vor der Abreise installierte Reise-eSIM die entschieden reibungslosere Lösung, weil sie ohne Registrierung und ohne Warteschlange online geht.
+
 ## Direkt online ab Ankunft in Bahrain
 
 
 
-Eine Roami Bahrain-eSIM macht die Ankunftshalle zum Durchmarsch: kein Pass-Scan, kein Fingerabdruck, keine BHD-Aktivierungsgebühr und keine Suche nach einem Schalter, während Ihr Gepäck kreist. Sie verbindet sich über Batelco, Zain und stc und hält jeweils das stärkste der drei Netze, wo auch immer Sie auf der Insel stehen. Falls Roami neu für Sie ist, starten Sie mit einer kostenlosen Bahrain-Test-eSIM, oder geben Sie den Code **WEB20** bei einem kostenpflichtigen Bahrain-Tarif ein, um **20 % Rabatt** zu erhalten.
+Eine Roami-Reise-eSIM macht die Ankunftshalle zum Durchmarsch: kein Pass-Scan, kein Fingerabdruck, keine BHD-Aktivierungsgebühr und keine Suche nach einem Schalter, während Ihr Gepäck kreist. Sie verbindet sich über Batelco, Zain und stc und hält jeweils das stärkste der drei Netze, wo auch immer Sie auf der Insel stehen. Falls Roami neu für Sie ist, starten Sie mit einer kostenlosen Test-eSIM, oder geben Sie den Code **WEB20** bei einem kostenpflichtigen Tarif ein, um **20 % Rabatt** zu erhalten.
 
 
 
@@ -654,7 +669,7 @@ Eine Roami Bahrain-eSIM macht die Ankunftshalle zum Durchmarsch: kein Pass-Scan,
 
 
 
-[Kostenlose Bahrain-Testversion sichern](/free-esim/)
+[Kostenlose Testversion sichern](/free-esim/)
 
 
 

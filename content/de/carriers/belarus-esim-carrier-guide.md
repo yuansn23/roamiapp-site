@@ -15,7 +15,7 @@ hero_badge: "A1 oder MTS? Ein belarusisches Netz auswählen"
 hero_subtitle_main: "A1, MTS und life:) – bewertet danach, was ein Besucher tatsächlich kaufen, registrieren und bezahlen kann"
 ---
 
-Eine belarussische eSIM auszuwählen verlangt eine andere erste Frage, als sie die Geschwindigkeitsranglisten stellen. Lokale Daten sind außergewöhnlich günstig – der 237-Märkte-Index von Cable.co.uk taxiert 1 GB auf etwa **0,67 USD**, weltweit Platz 66 – und doch lag der mittlere mobile Download Ende 2025 laut DataReportal bei nur **18,55 Mbps**. Wir aktualisieren diese Seite, sobald sich die Richtlinien der Netzbetreiber ändern, denn der schlechteste Reisetech-Ratgeber ist ein Guide, den zwei Jahre lang niemand angefasst hat.
+In Belarus verlangt die Wahl einer belarussischen eSIM eine andere erste Frage, als sie die Geschwindigkeitsranglisten stellen. Lokale Daten sind außergewöhnlich günstig – der 237-Märkte-Index von Cable.co.uk taxiert 1 GB auf etwa **0,67 USD**, weltweit Platz 66 – und doch lag der mittlere mobile Download Ende 2025 laut DataReportal bei nur **18,55 Mbps**. Wir aktualisieren diese Seite, sobald sich die Richtlinien der Netzbetreiber ändern, denn der schlechteste Reisetech-Ratgeber ist ein Guide, den zwei Jahre lang niemand angefasst hat.
 
 Das Netz ist nicht das Problem. Jede im Land verkaufte SIM ist mit einem Reisepass registriert, und die Karten in Ihrem Portemonnaie funktionieren an der Kasse möglicherweise nicht. In Belarus sind die Formalitäten das Produkt, und rund **11,4 Millionen** Mobilfunkanschlüsse bilden diesen Markt.
 
@@ -29,7 +29,7 @@ Wenn die Grundlagen noch offen sind – unterstützt mein Telefon eSIM, und was 
 
 Belarus hat genau drei Mobilfunkanbieter, jeder unter anderer Flagge. **MTS Belarus** gehört mehrheitlich Beltelecom, der staatlichen Telekommunikationsgruppe, Russlands MTS hält den Rest. **A1 Belarus** – weiterhin oft velcom genannt – gehört zur österreichischen A1 Group. **life:)** ist ein Turkcell-Unternehmen. Alle drei sind vom Kommunikationsministerium lizenziert, und seit 2025 nutzen alle drei die von beCloud aufgebaute 5G-Infrastruktur.
 
-| | A1 Belarus | MTS Belarus | life:) |
+| | A1 Belarus | MTS das osteuropäische Land | life:) |
 |:---|:---|:---|:---|
 | Eigentumsverhältnisse | A1 Group (Österreich); früher velcom | Beltelecom 51 % / MTS (Russland) 49 % | Turkcell (Türkei) |
 | Ungefähre Teilnehmerzahl | ~5,0 Millionen (Q3 2024) | ~5,6 Millionen (Q2 2025) | ~1,5 Millionen (Q2 2024) |
@@ -51,6 +51,10 @@ Lesen Sie die Tabelle als Zusammenfassung der Marktstruktur, nicht als Preislist
 Am Flughafen Minsk National haben alle drei Anbieter Schalter im Ankunftsbereich von Terminal 2. Reiseberichte bis 2025 beschreiben ein einheitliches Muster: Reisepass aushändigen, bar oder mit einer lokalen Karte bezahlen, und nach wenigen Minuten mit einem funktionierenden Touristentarif das Gebäude verlassen. Die Pakete sind unlimitierte Datentarife mit großzügigem Telefonievolumen – rund 40 BYN bei A1 und MTS, etwa 30 BYN beim „Like Home“-Tarif von life:) mit 100 GB und 700 Minuten.
 
 Zwei Einschränkungen. Die Aktivierung verläuft in der Regel zügig, aber da die SIM an Ihren Reisepass gebunden ist, erfordert eine spätere Problemlösung den Weg zu einer Marken-Filiale mit demselben Ausweis. Und einige Quellen berichten von strengerer Handhabung – einer lokalen Adresse oder einer Wartezeit, bis die Leitung aktiviert wird – daher sollten Sie keine Flugverbindung in derselben Stunde einplanen, es sei denn, Sie haben vor dem Flug eine Reise-eSIM installiert.
+
+### Minutenplan für die Ankunft am Flughafen Minsk
+
+Alle drei Netzbetreiber unterhalten Schalter im Ankunftsbereich von Terminal 2 des Flughafens Minsk National. Nach der Passkontrolle: Schalter ansteuern (3 Minuten), Reisepass vorlegen (2 Minuten), bar oder mit lokaler Karte bezahlen (2 Minuten), unlimitiertes Touristenpaket aktivieren lassen (3 Minuten), Datenverbindung testen (1 Minute). Rechnen Sie realistisch mit **5–10 Minuten** plus eventueller Warteschlange. Wichtig: Ausländische Visa- und Mastercard funktionieren seit 2022 weitgehend nicht, also tauschen Sie USD oder EUR am Bank-Schalter in Bargeld um, bevor Sie zum Schalter gehen. Ihr Plan B ist eine vor der Reise installierte Reise-eSIM – kein Schalter, kein Bargeld, keine Registrierung, verbunden sobald das Flugzeug rollt. Halten Sie Ihre EID (`*#06#`) und IMEI für den Support bereit.
 
 ### Welches Netz hat das beste 5G in Belarus?
 
@@ -116,13 +120,7 @@ Die Konsequenz ist Asymmetrie. Eine physische SIM-Karte, die an einem Schalter g
 
 Belarus bietet einen kostenlosen, in Echtzeit arbeitenden Online-Registrierungsdienst für ausländische Besucher an, und es ist die am wenigsten schmerzhafte Version des Prozesses. Der Servicecode auf dem Portal ist **200.12.14.1**.
 
-1. **Erstellen oder öffnen Sie ein persönliches Konto** auf dem Zentralen Portal für elektronische Dienste (E-Pasluga) mit einer E-Mail-Adresse und einem Passwort oder mit einer Google- bzw. Apple-Anmeldung.
-2. **Finden Sie den Registrierungsdienst** unter Visa und Reisen, mithilfe des oben genannten Codes.
-3. **Füllen Sie das elektronische Formular** genau so aus, wie es in Ihrem Reisedokument steht: Nachname, Vornamen, Geburtsdatum, Geschlecht, Staatsangehörigkeit sowie die Serie und Nummer des Reisepasses, mit dem Sie eingereist sind.
-4. **Geben Sie den Zweck Ihrer Einreise korrekt an** — Tourismus, Geschäftsreise, Privatbesuch — und nennen Sie die Adresse, an der Sie tatsächlich übernachten.
-5. **Fügen Sie die erforderlichen Dokumente bei**, einschließlich der Daten Ihrer Krankenversicherung und gegebenenfalls Ihrer belarussischen Visumsinformationen.
-6. **Senden Sie den Antrag ab und lesen Sie die Antwort.** Das System entscheidet in Echtzeit und stellt das Ergebnis in Ihr persönliches Konto ein, einschließlich Ihrer Registrierungsnummer und des registrierten Zeitraums.
-7. **Bewahren Sie die Bestätigung auf** und führen Sie sie bis zu Ihrer Abreise zusammen mit Ihrem Reisepass mit sich.
+1. **Erstellen oder öffnen Sie ein persönliches Konto** auf dem Zentralen Portal für elektronische Dienste (E-Pasluga) mit einer E-Mail-Adresse und einem Passwort oder mit einer Google- bzw. Apple-Anmeldung. 2. **Finden Sie den Registrierungsdienst** unter Visa und Reisen, mithilfe des oben genannten Codes. 3. **Füllen Sie das elektronische Formular** genau so aus, wie es in Ihrem Reisedokument steht: Nachname, Vornamen, Geburtsdatum, Geschlecht, Staatsangehörigkeit sowie die Serie und Nummer des Reisepasses, mit dem Sie eingereist sind. 4. **Geben Sie den Zweck Ihrer Einreise korrekt an** — Tourismus, Geschäftsreise, Privatbesuch — und nennen Sie die Adresse, an der Sie tatsächlich übernachten. 5. **Fügen Sie die erforderlichen Dokumente bei**, einschließlich der Daten Ihrer Krankenversicherung und gegebenenfalls Ihrer belarussischen Visumsinformationen. 6. **Senden Sie den Antrag ab und lesen Sie die Antwort.** Das System entscheidet in Echtzeit und stellt das Ergebnis in Ihr persönliches Konto ein, einschließlich Ihrer Registrierungsnummer und des registrierten Zeitraums. 7. **Bewahren Sie die Bestätigung auf** und führen Sie sie bis zu Ihrer Abreise zusammen mit Ihrem Reisepass mit sich.
 
 Zwei Einschränkungen. Das Portal steht ausländischen Staatsbürgern, die aus russischem Gebiet eingereist sind, nicht offen — dort gibt es keine Grenzkontrolle, daher müssen sie sich persönlich anmelden. Und der Online-Weg ist kostenlos, während der persönliche Weg gebührenpflichtig ist und über ERIP-Kioske oder bei einer staatlichen Bank bezahlt wird, wo ausländische Karten nicht akzeptiert werden.
 
@@ -186,10 +184,7 @@ Wenn Sie einen Tag lang zwischen Regionalstädten unterwegs waren, ist eine krie
 
 Die Quellen sind höflich unterschiedlicher Meinung über die Versorgungstiefe im ländlichen Raum, daher hier die ehrliche Form:
 
-- **Sowohl A1 als auch MTS versorgen alle sechs Regionalhauptstädte**, und beide eignen sich für eine Reiseroute entlang von Städten und Hauptstraßen.
-- **Außerhalb davon wird MTS am häufigsten empfohlen**, weshalb es in der Tabelle oben am häufigsten auftaucht.
-- **life:) verliert außerhalb der Städte am schnellsten an Flächendeckung** – der Kompromiss für die günstigeren Preise.
-- **Ein Multi-Netzwerk-Profil umgeht die Debatte**, indem es sich dort, wo Sie gerade stehen, mit dem stärksten der drei Netze verbindet.
+- **Sowohl A1 als auch MTS versorgen alle sechs Regionalhauptstädte**, und beide eignen sich für eine Reiseroute entlang von Städten und Hauptstraßen. - **Außerhalb davon wird MTS am häufigsten empfohlen**, weshalb es in der Tabelle oben am häufigsten auftaucht. - **life:) verliert außerhalb der Städte am schnellsten an Flächendeckung** – der Kompromiss für die günstigeren Preise. - **Ein Multi-Netzwerk-Profil umgeht die Debatte**, indem es sich dort, wo Sie gerade stehen, mit dem stärksten der drei Netze verbindet.
 
 ### Die Netz-Zahlen richtig lesen
 
@@ -216,8 +211,8 @@ Belarus ist nicht Teil der EU, und kein EU-Roaming-Regelwerk gilt dort. Dieser e
 | Ankunft in Belarus | Eine belarussische eSIM roamt auf A1, MTS oder life:) und benötigt aktiviertes Datenroaming | Aktivieren Sie das Roaming für die eSIM-Leitung vor der Landung |
 | Litauen | Ihr belarussisches Profil endet an der Grenze; ein litauischer oder EU-Tarif beginnt, sobald Sie in deren Netz sind | Kaufen Sie ein separates Litauen-Profil oder einen regionalen Tarif |
 | Lettland | Derselbe Tausch wie in Litauen, an einem ruhigeren Grenzübergang | Ein separates Profil für Lettland kostet weniger als eine Roaming-Tagespauschale |
-| Polen | Die belebteste Überlandroute aus Belarus heraus; die Netzabdeckung kehrt direkt nach der Grenze zurück | Entscheiden Sie sich für eine Polen-eSIM, anstatt pro Megabyte zu zahlen |
-| Ukraine | Getrennte Netze und getrennte Tarife; prüfen Sie vor der Reise die aktuellen Einreisebestimmungen | Betrachten Sie es als separaten Kauf und nicht als Erweiterung von Belarus |
+| Polen | Die belebteste Überlandroute aus das osteuropäische Land heraus; die Netzabdeckung kehrt direkt nach der Grenze zurück | Entscheiden Sie sich für eine Polen-eSIM, anstatt pro Megabyte zu zahlen |
+| Ukraine | Getrennte Netze und getrennte Tarife; prüfen Sie vor der Reise die aktuellen Einreisebestimmungen | Betrachten Sie es als separaten Kauf und nicht als Erweiterung von der Staat |
 | Russland | Die beiden Länder haben die Roaming-Gebühren zwischen sich am 1. März 2025 abgeschafft | Lesen Sie den nächsten Abschnitt, bevor Sie davon ausgehen, dass Ihr Tarif Russland abdeckt |
 
 ### Warum Roaming in Russland die Ausnahme ist
@@ -226,15 +221,20 @@ Die eine Grenze, an der Ihre belarussische eSIM zu normalen Bedingungen weiter f
 
 Zwei praktische Hinweise. Die Regelung gilt für Teilnehmer der Netzbetreiber beider Länder, sodass sie einem Reisenden mit europäischer oder amerikanischer SIM nicht hilft — für diese ist Roaming in beiden Ländern schlicht teuer. Und ein EU-Tarif, der für einen baltischen Abschnitt gekauft wurde, gilt nicht in Belarus, da Roam-like-at-home nur für EU-Bürger gilt, die innerhalb der EU und des EWR reisen. Ihre Optionen jenseits der Grenze sind ein separates Profil pro Land oder ein regionaler Tarif, der Belarus ausdrücklich einschließt.
 
-💡 Wenn Belarus eine Station auf einer längeren Reise ist, gibt es die gleiche fundierte Übersicht für jeden Nachbarn — und keiner davon teilt einen Tarif mit Belarus:
+💡 Wenn Belarus eine Station auf einer längeren Reise ist, gibt es die gleiche fundierte Übersicht für jeden Nachbarn — und keiner davon teilt einen Tarif mit das osteuropäische Land:
 
 - [Unser Litauen-Guide](/lithuania-esim/)
 - [eSIM für Lettland](/latvia-esim/)
 - [Polen eSIM-Tarife](/poland-esim/)
 - [Ukraine-eSIM](/ukraine-esim/)
 - [eSIM-Tarife für Russland](/russia-esim/)
+- [eSIM für ganz Europa](/europe-esim/) — wenn Ihre Reise über Belarus hinausgeht
 
 ## Was eine Woche oder ein Monat Daten kostet
+
+### Rechenbeispiel: Roaming gegen Reise-eSIM
+
+Ein konkretes Beispiel für eine Woche Belarus mit rund 2 GB pro Tag (14 GB): Ein lokaler Touristentarif kostet an den Flughafenschaltern etwa **30–40 BYN** (9–12 USD) für ein monatliches Unlimited-Paket, dazu ein Reisepass, Bargeld und eine Registrierung. Der Heimnetz-Roaming-Tagespass Ihres eigenen Anbieters wäre mit Abstand die teuerste Position – Abrechnung pro Megabyte außerhalb von Datenpaketen ist die schlechteste Wahl. Eine Reise-eSIM mit **10 GB für 12–27 USD** braucht keinen Schalter und keine Registrierung und ist in zwei Minuten aktiv. Wer länger als zehn Tage bleibt, muss ohnehin das Land registrieren – dann lohnt die lokale Karte mit +375-Nummer; für Kurztrips gewinnt die Reise-eSIM durch Wegfall von Bargeld und Papierkram.
 
 ### Roaming-Gebühren bei belarussischen Netzbetreibern
 
@@ -260,10 +260,10 @@ Wenn Ihre Reise einen Wochentag als Ankunftstag und ohnehin einen Besuch einer F
 
 Wenn Sie ein Profil von einem Reiseanbieter erworben haben, müssen Sie nichts tun: Der APN ist bereits vorkonfiguriert, und Änderungen verursachen in der Regel mehr Probleme, als sie lösen. Diese Werte sind nur für SIM-Karten relevant, die direkt bei einem belarussischen Netzbetreiber gekauft wurden.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Belarus-Netz | APN | Login | Kennwort |
 |:---|:---|:---|:---|
 | MTS Belarus | `mts` | leer | leer |
-| A1 Belarus (velcom) | `internet` | leer | leer |
+| A1 das osteuropäische Land (velcom) | `internet` | leer | leer |
 | life:) | `internet.life.com.by` | leer | leer |
 
 Ein Hinweis zu A1: In älteren Velcom-Anleitungen ist `web.velcom.by` mit Benutzername und Passwort jeweils auf `web` gesetzt, und einige Aggregatoren führen `vcl.by` auf. Der reine Wert `internet` wird in aktuellen Anleitungen und bei der Bereitstellung durch den Netzbetreiber selbst verwendet. Wenn eine direkt erworbene Leitung nach beiden Varianten keine Datenverbindung zulässt, können Mitarbeiter im Laden die korrekte Zeichenfolge für Ihren Datentarif bestätigen.
@@ -276,7 +276,7 @@ Die universelle Installationsreihenfolge – eSIM hinzufügen, QR-Code scannen, 
 
 **A. Installiert, aber bei Ankunft kein Signal.** Das Profil benötigt aktiviertes Roaming für die eSIM-Leitung – Belarus liegt außerhalb der EU-Rahmenwerke, die Ihr Telefon möglicherweise voraussetzt. Aktivieren Sie Roaming, und wählen Sie dann die manuelle Netzwahl, um A1, MTS oder life:) gezielt auszuwählen.
 
-**B. Signalbalken vorhanden, aber kein Internet.** Prüfen Sie den APN anhand der Tabelle oben, wenn Sie die SIM direkt erworben haben, und vergewissern Sie sich, dass die eSIM und nicht Ihre Heim-SIM als aktive Datenleitung eingestellt ist. Prüfen Sie dann Ihr Datenvolumen: Reisetarife enden, sobald das Datenvolumen aufgebraucht ist, während einige lokale Tarife die Geschwindigkeit drosseln – eine kriechende Verbindung kann also ein erschöpftes Paket und nicht ein defektes sein.
+**B. Signalbalken vorhanden, aber kein Internet.** Prüfen Sie den APN anhand der Tabelle oben, wenn Sie die SIM direkt erworben haben, und vergewissern Sie sich, dass die eSIM und nicht Ihre Heim-SIM als aktive Datenleitung eingestellt ist. Prüfen Sie dann Ihr Datenvolumen: Reisetarife enden, sobald das Datenvolumen aufgebraucht ist, während einige lokale Tarife die Geschwindigkeit drosseln – eine träge Verbindung kann also von einem erschöpften Paket stammen, nicht von einem Defekt.
 
 **C. Die lokale SIM fällt während der Reise aus.** Registrierungspflichtige Leitungen können bei Identitätsabweichungen gesperrt werden, und Prepaid-Guthaben verfällt stillschweigend, sobald ein Paket abläuft. Es gibt keine App-basierte Lösung: Nehmen Sie Ihren Reisepass mit in eine Filiale des Netzbetreibers. Diesen Fehlerfall vermeidet eine Reise-eSIM gezielt.
 
@@ -288,13 +288,13 @@ Der allgemeine Fehlerkatalog – ein Profil, das nicht heruntergeladen wird, ein
 
 | Information | Wo Sie sie finden |
 |:---|:---|
-| Bestell- oder Kundennummer | Die Bestätigungs-E-Mail von Ihrem Netzbetreiber |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Über das Gerät |
+| Ihre Bestell- oder Kundennummer | Die Bestätigungs-E-Mail Ihres Anbieters |
+| Handy-Modell und iOS-/Android-Version | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
 | EID | `*#06#` |
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
-| Aktuelle APN-Werte | Einstellungen → Mobiles Datennetz |
+| Screenshot der Störung | Machen Sie ihn, bevor Sie Einstellungen oder App schließen |
+| Eingestellte APN-Daten | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
 | Daten-Roaming-Status für die eSIM-Leitung | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
-| Was Sie bereits versucht haben | Führen Sie eine kurze schriftliche Liste |
+| Schritte, die Sie schon probiert haben | Notieren Sie Stichworte, bevor Sie den Support kontaktieren |
 
 ## Häufige Fragen zur eSIM in Belarus
 
@@ -328,7 +328,7 @@ Wenn es eine SIM eines belarussischen Netzbetreibers ist, praktisch ja: Die beid
 
 ### Funktioniert mein Telefon mit einer Belarus-eSIM?
 
-Höchstwahrscheinlich ja, sofern das Gerät entsperrt ist und eSIM unterstützt. Die LTE-Bänder — 3, 7 und 20 — sind die üblichen europäischen Frequenzen, und 5G nutzt n78 bei 3500 MHz. Prüfen Sie Ihr Modell anhand der [Kompatibilitätsseite](/compatibility/) und stellen Sie sicher, dass keine Netzsperre vorliegt.
+Höchstwahrscheinlich ja, sofern das Gerät entsperrt ist und eSIM unterstützt. Die LTE-Bänder — 3, 7 und 20 — sind die üblichen europäischen Frequenzen, und 5G nutzt n78 bei 3500 MHz. Prüfen Sie Ihr Modell anhand der Kompatibilitätsseite und stellen Sie sicher, dass keine Netzsperre vorliegt. Tethering und Hotspot laufen über dieselbe Leitung und denselben Tarif; wer die Verbindung mit einem Laptop teilt, plant besser mehr Datenvolumen ein.
 
 ### Muss ich eine Reise-eSIM in Belarus registrieren?
 
@@ -336,7 +336,7 @@ Nein. Die SIM-Registrierungspflicht gilt für SIM-Karten, die innerhalb von Bela
 
 ### Sollte die eSIM die Datenleitung sein?
 
-Ja, und das ist die sinnvolle Konfiguration. Lassen Sie Ihre Heim-SIM für Anrufe und Bank-Codes aktiv, leiten Sie die mobilen Daten über die eSIM um, und schalten Sie Roaming auf der Heim-SIM aus, damit Hintergrunddaten kein Geld kosten.
+Ja, und diese Dual-SIM-Konfiguration ist der sinnvolle Standard: Ihre Heim-SIM bleibt für Anrufe und Bank-Codes aktiv, die mobilen Daten laufen über die eSIM, und Roaming auf der Heim-SIM ist ausgeschaltet, damit Hintergrunddaten kein Geld kosten.
 
 ### Was kostet mobiles Internet in Belarus?
 
@@ -360,14 +360,18 @@ In beiden Fällen besser als der Landesdurchschnitt vermuten lässt. Die Plattfo
 
 Ausschließlich unabhängige Messungen, nach Zeitplänen, die wir nicht beeinflussen. Ihre Geschwindigkeiten variieren je nach Gerät, Band und Auslastung der Funkzelle vor Ort.
 
+### Wann die lokale belarussische SIM der Reise-eSIM überlegen ist
+
+Die Reise-eSIM umgeht Bargeld, Registrierung und Schalter und ist für Kurztrips unter zehn Tagen klar im Vorteil. Es gibt aber zwei Fälle, in denen die lokale Karte von A1, MTS oder life:) die ehrliche Wahl bleibt. Erstens: Bleiben Sie länger als zehn Tage, müssen Sie Ihren Aufenthalt ohnehin bei der Migrationsbehörde oder über E-Pasluga registrieren – die SIM-Registrierung ist dann nur ein weiterer Schritt im selben Papierkram, und eine echte +375-Rufnummer hilft bei lokalen Buchungen und Bestätigungscodes. Zweitens: Wenn Sie ohnehin bar bezahlen wollen und eine physische Karte in einem Markenstore lösen, entfällt der Aufpreis der Reise-eSIM. Für alle übrigen Besucher – also die meisten, die Minsk anfliegen, mit dem Zug weiter nach Vilnius oder Warschau reisen oder nur ein Wochenende bleiben – ist die vor der Abreise installierte Reise-eSIM die sicherere Wahl, weil sie den einzigen echten Stolperstein des Landes ausschaltet: die Tatsache, dass ausländische Karten seit 2022 kaum funktionieren.
+
 ## Installation Ihrer eSIM
 
 Das mobile Datennetz des Landes gehört gemessen zu den günstigsten weltweit; die Bürokratie ist der Teil, der Ihre Vorbereitung verlangt. Richten Sie das Profil zu Hause über WLAN ein, landen Sie in Minsk bereits verbunden, und halten Sie Ihren Reisepass für alles andere bereit. Beginnen Sie mit einer [kostenlosen Testkarte](/free-esim/), um Ihr Telefon zu prüfen, und wählen Sie dann [Ihren Belarus-eSIM-Tarif](/belarus-esim/) — die erste Bestellung wird mit dem Code **WEB20** um 20 Prozent rabattiert.
 
-[Jetzt Belarus-eSIM kaufen](/belarus-esim/)
+Jetzt Belarus-eSIM kaufen
 
 *Erst verbinden, nie registrieren*
 
-[eSIM gratis testen](/free-esim/)
+eSIM gratis testen
 
-Der Rat von Roami ist einfach: verbunden landen. Starten Sie mit einer [gratis Test-eSIM](/free-esim/), um die lokale Netzabdeckung ohne Risiko zu prüfen, und nutzen Sie dann den Code **WEB20** auf einem vollständigen Roami-Tarif, sobald Sie die Testkarte überzeugt hat.
+Der Rat von Roami ist einfach: verbunden landen. Starten Sie mit einer gratis Test-eSIM, um die lokale Netzabdeckung ohne Risiko zu prüfen, und nutzen Sie dann den Code **WEB20** auf einem vollständigen Roami-Tarif, sobald Sie die Testkarte überzeugt hat.

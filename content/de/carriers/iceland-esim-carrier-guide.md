@@ -70,19 +70,19 @@ Sie sind unsicher, ob Ihr Telefon ein eSIM-Profil unterstützt? Eine Abfrage im 
 
 
 
-**Die 30-Sekunden-Version:** Síminn ist Islands Netzabdeckungsführer — der größte Fußabdruck im ländlichen Raum und am Hochlandrand und das Netz, das Einheimische für Nord- und Ostisland empfehlen. Vodafone Island ist der günstige Einstieg (rund 1.790 ISK Starterpaket) mit schnellen Geschwindigkeiten in der Stadt; Nova bietet die größten Datenlimits. Für keine Touristen-SIM ist ein Ausweis erforderlich. Der 10-11-Shop in Keflavík in der Ankunftshalle verkauft Síminn, Vodafone und Nova als **physische** Packs rund um die Uhr, aber wenn Sie eine Island-eSIM möchten, kaufen Sie sie online vor dem Abflug — Netzbetreiber-Shops in Reykjavík verkaufen eSIMs, der Flughafen nicht. Island gehört zum EWR, daher gelten EU-Roaming-zu-Hause-Regeln für isländische Tarife, mit einem Haken: Das EU-Roaming-Kontingent ist deutlich niedriger als das Inlands-Kontingent.
+**Die 30-Sekunden-Version:** Síminn ist Islands Netzabdeckungsführer — der größte Fußabdruck im ländlichen Raum und am Hochlandrand und das Netz, das Einheimische für Nord- und Ostisland empfehlen. Vodafone Island ist der günstige Einstieg (rund 1.790 ISK Starterpaket) mit schnellen Geschwindigkeiten in der Stadt; Nova bietet die größten Datenlimits. Für keine Touristen-SIM ist ein Ausweis erforderlich. Der 10-11-Shop in Keflavík in der Ankunftshalle verkauft Síminn, Vodafone und Nova als **physische** Packs rund um die Uhr, aber wenn Sie ein digitales Profil möchten, kaufen Sie es online vor dem Abflug — Netzbetreiber-Shops in Reykjavík verkaufen Profile, der Flughafen nicht. Island gehört zum EWR, daher gelten EU-Roaming-zu-Hause-Regeln für isländische Tarife, mit einem Haken: Das EU-Roaming-Kontingent ist deutlich niedriger als das Inlands-Kontingent.
 
 
 
 
 
-## Welchen Netzbetreiber sollten Sie wählen?
+## Síminn, Vodafone oder Nova: die Wahl nach Route
 
 
 
 
 
-| Ihre Reiseroute | Top-Empfehlung | Warum sie überzeugt |
+| Ihre Island-Route | Empfohlenes Netz | Begründung |
 
 
 |:---|:---|:---|
@@ -94,7 +94,7 @@ Sie sind unsicher, ob Ihr Telefon ein eSIM-Profil unterstützt? Eine Abfrage im 
 | Reykjavík, Goldener Kreis, Südküste | Jeder der drei | Alle drei Netzbetreiber sind in der besiedelten Südwestregion hervorragend |
 
 
-| Westfjorde und Øxá-Straßen-Umleitungen | Síminn | Der Anbieter für abgelegene Fjorde |
+| Westfjorde und die langen Küstenabschnitte im Norden | Síminn | Der Anbieter für abgelegene Fjorde |
 
 
 | Budget-Städtetrip | Vodafone Island | Günstigste Starterpakete; nur isländische Website als Kompromiss |
@@ -175,7 +175,7 @@ Sie sind unsicher, ob Ihr Telefon ein eSIM-Profil unterstützt? Eine Abfrage im 
 
 
 
-**Niemand verlangt einen Ausweis.** Island ist der seltene europäische Markt, in dem eine Prepaid-Touristenleitung völlig anonym ist — kein Reisepass, kein Ausweis, keine Formulare. Die Kennitala (isländische Personenkennzahl), die in einigen Anleitungen erwähnt wird, gilt nur für **residentielle Vertragskonten**, nicht für Prepaid-Touristenpakete. Das macht Island zu dem einen Reiseziel, bei dem der Vorteil der eSIM gegenüber einer lokalen SIM rein in Bequemlichkeit und Preis liegt, nicht im Papierkram.
+**Niemand verlangt einen Ausweis.** Das Land ist der seltene europäische Markt, in dem eine Prepaid-Touristenleitung völlig anonym ist — kein Reisepass, kein Ausweis, keine Formulare. Die Kennitala (isländische Personenkennzahl), die in einigen Anleitungen erwähnt wird, gilt nur für **private Vertragskonten**, nicht für Prepaid-Touristenpakete. Das macht das Land zu dem einen Reiseziel, bei dem der Vorteil der eSIM gegenüber einer lokalen SIM rein in Bequemlichkeit und Preis liegt, nicht im Papierkram.
 
 
 
@@ -226,7 +226,7 @@ Die Regulierungsbehörde ist die [Post- und Telekommunikationsverwaltung Islands
 
 
 
-Die meisten Länder bestrafen Käufer von SIM-Karten am Flughafen. Island macht das Gegenteil – mit einer wichtigen Ausnahme:
+Die meisten Länder bestrafen Käufer von SIM-Karten am Flughafen. Hier läuft es umgekehrt – mit einer wichtigen Ausnahme:
 
 
 
@@ -244,7 +244,7 @@ Die meisten Länder bestrafen Käufer von SIM-Karten am Flughafen. Island macht 
 
 
 
-Die Schlussfolgerung liegt auf der Hand: **Wenn Sie eine Island-eSIM möchten, kaufen Sie sie online, bevor Sie fliegen.** Wenn Sie mit einer physischen SIM-Karte zufrieden sind, ist Keflavík zu jeder Tages- und Nachtzeit tatsächlich äußerst praktisch.
+Die Schlussfolgerung liegt auf der Hand: **Wenn Sie ein digitales Profil möchten, kaufen Sie es online, bevor Sie fliegen.** Wenn Sie mit einer physischen SIM-Karte zufrieden sind, ist Keflavík zu jeder Tages- und Nachtzeit tatsächlich äußerst praktisch.
 
 
 
@@ -262,10 +262,10 @@ Drei praktische Konsequenzen der Flughafen-Lücke:
 
 
 
-1. **Ihre erste Stunde in Island ist die Abholung des Mietwagens.** Niemand möchte in einem Keflavíker Parkplatz bei horizontalem Regen ein Profil debuggen.
+1. **Ihre erste Stunde vor Ort ist die Abholung des Mietwagens.** Niemand möchte auf einem Parkplatz in Keflavík bei horizontalem Regen ein Profil debuggen.
 
 
-2. **Islands Straßen bestrafen Improvisation.** Die Fahrt von Keflavík nach Reykjavík führt über 50 km offenes Lavafeld; die Fahrt nach Vík ist 190 km lang, mit langen, leeren Strecken. Sie möchten, dass Karten geladen und Daten verfügbar sind, bevor Sie losfahren.
+2. **Die Straßen des Landes bestrafen Improvisation.** Die Fahrt von Keflavík nach Reykjavík führt über 50 km offenes Lavafeld; die Fahrt nach Vík ist 190 km lang, mit langen, leeren Strecken. Sie möchten, dass Karten geladen und Daten verfügbar sind, bevor Sie losfahren.
 
 
 3. **Physische SIM-Karten sind eine völlig ausreichende Reserve.** Wenn Sie ohne eSIM landen, ist das 10-11-Geschäft in zehn Minuten Ihre Rettung – es kostet Sie lediglich einen SIM-Slot und etwas mehr Geld.
@@ -280,13 +280,13 @@ Drei praktische Konsequenzen der Flughafen-Lücke:
 
 
 
-Island gehört zum EWR und Schengen, nicht zur EU – aber die EU-Regelung „Roaming zum Inlandspreis“ gilt auch für Island (ebenso wie für Norwegen und Liechtenstein). Drei praktische Konsequenzen:
+Island gehört zum EWR und Schengen, nicht zur EU – aber die EU-Regelung „Roaming zum Inlandspreis“ gilt auch hier (ebenso wie in Norwegen und Liechtenstein). Drei praktische Konsequenzen:
 
 
 
 
 
-1. **Ein europäischer Tarif, der EU/EWR-Roaming beinhaltet, funktioniert in Island** in der Regel ohne Aufpreis – prüfen Sie die Konditionen Ihres Tarifs, anstatt einfach davon auszugehen, da nicht jedes „EU-Roaming“-Paket Island explizit aufführt.
+1. **Ein europäischer Tarif, der EU/EWR-Roaming beinhaltet, funktioniert hier** in der Regel ohne Aufpreis – prüfen Sie die Konditionen Ihres Tarifs, anstatt einfach davon auszugehen, da nicht jedes „EU-Roaming“-Paket das Land explizit aufführt.
 
 
 2. **Eine isländische SIM-Karte funktioniert im gesamten EU/EWR-Raum per Roaming** – beispielsweise lässt sich die 10-GB-eSIM von Síminn überall in der Zone aktivieren, was ein eleganter Trick für eine mehrtägige Europareise ist: isländische SIM kaufen, in Portugal nutzen.
@@ -304,7 +304,7 @@ Für Tarife aus den USA, Großbritannien, Kanada und Australien gilt „Roaming 
 
 
 
-## Welche Geschwindigkeiten Sie erwarten können
+## Welche Geschwindigkeiten in Island realistisch sind
 
 
 
@@ -352,13 +352,17 @@ Für Tarife aus den USA, Großbritannien, Kanada und Australien gilt „Roaming 
 - **Die Netzabdeckung folgt Bauernhöfen und Fischerdörfern.** Empfang gibt es dort, wo Menschen ganzjährig leben. Ein Tal mit drei Bauernhöfen hat einen Mast; ein Tal mit Wasserfall und Parkplatz nicht.
 
 
-- **Das Wetter unterbricht die Verbindung so zuverlässig wie die Entfernung.** Starker Wind, Schnee und Vulkanasche haben in den letzten Jahren immer wieder Mobilfunkzellen lahmgelegt. Betrachten Sie das Netz als wetterabhängige Infrastruktur – denn in Island ist es das teilweise.
+- **Das Wetter unterbricht die Verbindung so zuverlässig wie die Entfernung.** Starker Wind, Schnee und Vulkanasche haben in den letzten Jahren immer wieder Mobilfunkzellen lahmgelegt. Betrachten Sie das Netz als wetterabhängige Infrastruktur – denn hier ist es das teilweise.
 
 
 
 
 
-Zum Kontext der reinen Geschwindigkeit: Im [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/iceland) gehört Island zu den schnellsten Ländern Europas – aktuelle Ausgaben zeigen einen Festnetz-Median von rund **283 Mbps** (Top 15 weltweit) – und in der Preisstudie von [Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) liegt 1 GB lokaler mobiler Daten rund **1,08 USD**, im Mittelfeld global. [DataReportal Digital 2025: Island](https://datareportal.com/reports/digital-2025-iceland) weist eine Internetpenetration von nahezu 99 % aus – die Infrastruktur ist ausgezeichnet; die Geografie, nicht die Netze, ist die Einschränkung.
+Zum Kontext der reinen Geschwindigkeit: Im [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/iceland) gehört das Land zu den schnellsten Europas – aktuelle Ausgaben zeigen einen Festnetz-Median von rund **283 Mbps** (Top 15 weltweit) – und in der Preisstudie von [Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) liegt 1 GB lokaler mobiler Daten rund **1,08 USD**, im Mittelfeld global. [DataReportal Digital 2025: Island](https://datareportal.com/reports/digital-2025-iceland) weist eine Internetpenetration von nahezu 99 % aus – die Infrastruktur ist ausgezeichnet; die Geografie, nicht die Netze, ist die Einschränkung.
+
+Rechenbeispiel für die Ringstraße: Bei zehn Reisetagen und rund einem Gigabyte pro Tag ergibt der Cable.co.uk-Schnitt von 1,08 USD je GB etwa 11 USD — fast genau das Volumen, für das das 10-GB-Paket von Síminn gedacht ist, das sich zusätzlich in der ganzen EWR-Zone nutzen lässt.
+
+Zweite Lesart derselben Zahl: Wer nur vier Tage bleibt und abends das WLAN der Unterkunft nutzt, kommt mit rund 4 GB aus und liegt damit klar unter dem 10-GB-Paket von Síminn — dann entscheidet der Preis pro Gigabyte, nicht die Paketgröße.
 
 
 
@@ -376,7 +380,7 @@ Reise verlängert? Die gleichen Übersichten gibt es auch für unseren [Leitfade
 
 
 
-| Route | Voraussetzungen | Am besten geeignet für |
+| Bezugsquelle | Was nötig ist | Passt für wen |
 
 
 |:---|:---|:---|
@@ -424,7 +428,7 @@ Reise verlängert? Die gleichen Übersichten gibt es auch für unseren [Leitfade
 
 
 
-1. Bestellen Sie die eSIM über die Website von Síminn; das Paket erhalten Sie als QR-Code per E-Mail.
+1. Bestellen Sie das Profil über die Website von Síminn; das Paket erhalten Sie als QR-Code per E-Mail.
 
 
 2. Installieren Sie sie zu Hause über WLAN.
@@ -460,13 +464,13 @@ Reise verlängert? Die gleichen Übersichten gibt es auch für unseren [Leitfade
 
 
 
-**Vor dem Flug bereithalten:** ein entsperrtes, eSIM-fähiges Smartphone (geprüft auf der [Kompatibilitätsseite](/compatibility/)), Offline-Karten für jede Etappe Ihrer Fahrt sowie die installierte [112 Iceland App](https://www.safetravel.is/) — sie bietet Standort-Check-ins für Alleinwandernde und Fernreisende und nutzt dieselbe Datenverbindung, die Sie gerade einrichten.
+**Vor dem Flug bereithalten:** ein entsperrtes, eSIM-fähiges Smartphone (der Gerätecheck bestätigt beides), Offline-Karten für jede Etappe Ihrer Fahrt sowie die installierte [112 Iceland App](https://www.safetravel.is/) — sie bietet Standort-Check-ins für Alleinwandernde und Fernreisende und nutzt dieselbe Datenverbindung, die Sie gerade einrichten.
 
 
 
 
 
-## Smartphone-Anforderungen für die isländische eSIM
+## Smartphone-Anforderungen für isländische Netze
 
 
 
@@ -496,13 +500,13 @@ Die drei isländischen Netzbetreiber funken auf gewöhnlichen europäischen Bän
 | iPhone für Festlandchina | Keine Option „eSIM hinzufügen“ – auf diesem Markt deaktiviert | Nicht behebbar; nutzen Sie stattdessen eine physische SIM-Karte in Keflavík |
 
 
-| Dual-SIM-Nutzer | eSIM installiert, keine Daten | Mobilfunkdaten auf die eSIM-Leitung und nicht auf die Heim-SIM einstellen |
+| Dual-SIM-Nutzer | eSIM installiert, keine Daten | Mobilfunkdaten auf die Island-Leitung und nicht auf die Heim-SIM einstellen |
 
 
 | Älteres Mobiltelefon | Keine EID, wenn Sie `*#06#` wählen | Kaufen Sie ein physisches Paket am Flughafen |
 
 
-| Telefon auf eine außereuropäische Region eingestellt | Fehlende LTE-Frequenzbänder für einige ländliche Masten | Überprüfen Sie Ihr Modell auf der [eSIM-Kompatibilitätsseite](/compatibility/), bevor Sie sich auf die Netzabdeckung im ländlichen Raum verlassen |
+| Telefon auf eine außereuropäische Region eingestellt | Fehlende LTE-Frequenzbänder für einige ländliche Masten | Überprüfen Sie Ihr Modell auf der Kompatibilitätsseite, bevor Sie sich auf die Netzabdeckung im ländlichen Raum verlassen |
 
 
 
@@ -538,7 +542,7 @@ Reise-eSIM-Profile liefern ihren eigenen APN — ändern Sie nichts. Für lokal 
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Mobilfunk-Anbieter | Zugangspunkt (APN) | Nutzername | Kennwort |
 
 
 |:---|:---|:---|:---|
@@ -573,7 +577,7 @@ Ein manueller APN ist nur in diesen Fällen nötig:
 - Ein älteres Gerät, das die Netzbetreiber-Einstellungen nicht automatisch übernommen hat
 
 
-- Sie haben während der Reise zwischen einer isländischen SIM und einer Reise-eSIM gewechselt
+- Sie haben während der Reise zwischen einer isländischen SIM und einer Reise-SIM gewechselt
 
 
 
@@ -597,7 +601,7 @@ Auf dem iPhone: Einstellungen → Mobiles Netz → die eSIM-Zeile → Mobilfunkn
 
 
 
-Installieren Sie Ihre Island-eSIM noch zu Hause: Scannen Sie den QR-Code über Ihr eigenes WLAN, beschriften Sie die Leitung, bestimmen Sie sie als Datenleitung und schalten Sie Roaming ein. Die [Schritt-für-Schritt-Aktivierungsanleitung](/faq/how-to-activate-an-esim/) zeigt den kompletten Ablauf.
+Installieren Sie Ihr Island-Profil noch zu Hause: Scannen Sie den QR-Code über Ihr eigenes WLAN, beschriften Sie die Leitung, bestimmen Sie sie als Datenleitung und schalten Sie Roaming ein. Die [Aktivierungsanleitung Schritt für Schritt](/faq/how-to-activate-an-esim/) zeigt den kompletten Ablauf.
 
 
 
@@ -621,13 +625,13 @@ Installieren Sie Ihre Island-eSIM noch zu Hause: Scannen Sie den QR-Code über I
 | 2 | Telefon unterstützt eSIM | EID wird angezeigt ab `*#06#` |
 
 
-| 3 | QR-Code gespeichert | Screenshot auf dem Telefon und in der Cloud |
+| 3 | QR-Code gesichert | Screenshot auf dem Gerät und zusätzlich in der Cloud |
 
 
-| 4 | Profil vor der Abreise installiert | Installation über das heimische WLAN; am Flughafen gibt es keinen eSIM-Schalter, der Ihnen helfen kann |
+| 4 | Profil vor der Abreise installiert | Installation über das heimische WLAN; am Flughafen gibt es keinen Aktivierungsschalter, der Ihnen helfen kann |
 
 
-| 5 | Datenlinie und Roaming aktiviert | eSIM ist die Datenlinie, Roaming eingeschaltet |
+| 5 | Datenleitung und Roaming gesetzt | Island-Profil als Standard für mobile Daten, Datenroaming an |
 
 
 | 6 | Hochland- oder F-Straßen-Etappe | Offline-Karte heruntergeladen und die 112-Island-App installiert |
@@ -645,7 +649,7 @@ Installieren Sie Ihre Island-eSIM noch zu Hause: Scannen Sie den QR-Code über I
 
 
 
-1. **Vor der Abreise installieren.** Am Flughafen gibt es keinen eSIM-Schalter, der Ihnen aus der Patsche hilft, und Ihre erste Stunde in Island gehört der Abholung des Mietwagens, nicht der Fehlersuche bei Profilen.
+1. **Vor der Abreise installieren.** Am Flughafen gibt es keinen Schalter für digitale Profile, der Ihnen aus der Patsche hilft, und Ihre erste Stunde in Island gehört der Abholung des Mietwagens, nicht der Fehlersuche bei Profilen.
 
 
 2. **Kein Empfang auf F-Straßen ist erwartetes Verhalten,** kein Fehler. Wenn Sie in den Hochlanden das Signal verlieren, endet dort schlicht das Netz – genau wie oben kartiert.
@@ -666,7 +670,7 @@ Installieren Sie Ihre Island-eSIM noch zu Hause: Scannen Sie den QR-Code über I
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das Profil von Síminn oder Nova lässt sich nicht installieren**
 
 
 1. Unter Einstellungen → Allgemein → Info muss der Netzbetreiber-Lock „Keine SIM-Beschränkungen“ anzeigen
@@ -681,7 +685,7 @@ Installieren Sie Ihre Island-eSIM noch zu Hause: Scannen Sie den QR-Code über I
 
 
 
-**B. Installiert, aber keine Empfangsbalken**
+**B. Profil installiert, doch kein Empfang**
 
 
 1. Bestätigen Sie, dass Sie sich nicht in einer bekannten Funklochzone befinden – die Regionstabelle oben ist die Prüfung
@@ -696,13 +700,13 @@ Installieren Sie Ihre Island-eSIM noch zu Hause: Scannen Sie den QR-Code über I
 
 
 
-**C. Empfangsbalken, aber kein Internet**
+**C. Volle Balken im Síminn-Netz, aber kein Datenfluss**
 
 
 1. APN neu eingeben, damit er exakt mit der Tabelle übereinstimmt
 
 
-2. Sicherstellen, dass die Daten standardmäßig über die eSIM-Leitung laufen
+2. Sicherstellen, dass die Daten standardmäßig über die Island-Leitung laufen
 
 
 3. Roaming in den Einstellungen der eSIM-Leitung aktivieren
@@ -714,13 +718,13 @@ Installieren Sie Ihre Island-eSIM noch zu Hause: Scannen Sie den QR-Code über I
 
 
 
-**D. „SOS“ oder „Nur Notrufe“**
+**D. „SOS“ oder „Nur Notrufe“ im Netz von Nova**
 
 
-1. Im SIM-Manager muss die eSIM-Leitung aktiviert sein
+1. Im SIM-Manager muss die Island-Datenleitung aktiviert sein
 
 
-2. Andere aktive Profile vorübergehend deaktivieren
+2. Übrige aktive Profile vorübergehend abschalten
 
 
 3. Neu starten und die Netzwerkeinstellungen zurücksetzen
@@ -732,13 +736,13 @@ Installieren Sie Ihre Island-eSIM noch zu Hause: Scannen Sie den QR-Code über I
 
 
 
-Wenn Sie tatsächlich in einer abgelegenen Gegend feststecken – Höfn, Ísafjörður, irgendwo hinter dem letzten Sendemast – denken Sie daran: **112 funktioniert in jedem Netz, auch in einem, das nicht Ihres ist**. Notrufe werden unabhängig von Ihrem Tarif weitergeleitet, und die 112-Island-App ermöglicht eine Standort-Check-in, damit die Einsatzkräfte wissen, wo Sie sind.
+Wenn Sie tatsächlich in einer abgelegenen Gegend feststecken – Höfn, Ísafjörður, irgendwo hinter dem letzten Sendemast – denken Sie daran: **112 funktioniert in jedem Netz, auch in einem, das nicht Ihres ist**. Notrufe werden unabhängig von Ihrem Tarif weitergeleitet, und die 112-Island-App ermöglicht einen Standort-Check-in, damit die Einsatzkräfte wissen, wo Sie sind.
 
 
 
 
 
-### Was Sie für den Support bereithalten sollten
+### Unterlagen für den Support-Kontakt in Island
 
 
 
@@ -753,19 +757,19 @@ Wenn Sie tatsächlich in einer abgelegenen Gegend feststecken – Höfn, Ísafj�
 | Bestellnummer | Bestätigungs-E-Mail |
 
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Gerätename und iOS-/Android-Version | Einstellungen → Allgemein → Info (iPhone) bzw. Über das Telefon (Android) |
 
 
 | EID | Wählen `*#06#` |
 
 
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Direkt im Fehlerdialog aufnehmen, bevor der Bildschirm wechselt |
 
 
 | Aktueller Standort | Die Netzabdeckung hier ist geografisch bedingt – der Support wird nachfragen |
 
 
-| Daten-Roaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
+| Roaming-Schalter der Datenleitung | Einstellungen → Mobiles Netz → Island-Daten → Datenroaming |
 
 
 
@@ -810,7 +814,7 @@ Islands wirkliches Konnektivitätsrisiko ist nicht das Netz – es ist die Stra�
 
 
 
-Denn die Fehlerursache ist nicht „kein Empfang“ — sondern „Empfang, aber der Plan, den Sie gemacht haben, ist jetzt unmöglich.“ Eine gesperrte Straße bedeutet eine neue Pension, eine abgesagte Tour, eine geänderte Fähre. All das lässt sich mit einer funktionierenden Datenverbindung im Auto lösen — und nichts davon lässt sich mit einer lokalen SIM lösen, die erst am nächsten Morgen um 09:00 Uhr gekauft wird. Island belohnt eine installierte Island-eSIM mehr als fast jeder andere Ort, gerade weil eine Wetterfront Ihre Reiseroute über den Haufen werfen kann.
+Denn die Fehlerursache ist nicht „kein Empfang“ — sondern „Empfang, aber der Plan, den Sie gemacht haben, ist jetzt unmöglich.“ Eine gesperrte Straße bedeutet eine neue Pension, eine abgesagte Tour, eine geänderte Fähre. All das lässt sich mit einer funktionierenden Datenverbindung im Auto lösen — und nichts davon lässt sich mit einer lokalen SIM lösen, die erst am nächsten Morgen um 09:00 Uhr gekauft wird. Island belohnt eine vorab installierte Datenleitung mehr als fast jeder andere Ort, gerade weil eine Wetterfront Ihre Reiseroute über den Haufen werfen kann.
 
 
 
@@ -849,7 +853,7 @@ Denn die Fehlerursache ist nicht „kein Empfang“ — sondern „Empfang, aber
 
 
 
-Nein — die Läden am Flughafen verkaufen ausschließlich physische SIM-Karten. eSIMs werden in den Läden der Netzbetreiber in Reykjavík und Akureyri sowie online verkauft. Da es in Reykjavík im touristischen Kerngebiet keine Läden der Netzbetreiber gibt, ist der Online-Kauf vor dem Flug der praktische Weg.
+Nein — die Läden am Flughafen verkaufen ausschließlich physische SIM-Karten. Digitale Profile werden in den Läden der Netzbetreiber in Reykjavík und Akureyri sowie online verkauft. Da es in Reykjavík im touristischen Kerngebiet keine Läden der Netzbetreiber gibt, ist der Online-Kauf vor dem Flug der praktische Weg.
 
 
 
@@ -861,7 +865,7 @@ Nein — die Läden am Flughafen verkaufen ausschließlich physische SIM-Karten.
 
 
 
-Nein. Touristen-SIMs und eSIMs sind anonym — kein Reisepass, kein Ausweis. Die Kennitala-Anforderung, die manche Reiseführer erwähnen, gilt nur für residentielle Vertragskonten.
+Nein. Touristen-SIMs und digitale Profile sind anonym — kein Reisepass, kein Ausweis. Die Kennitala-Anforderung, die manche Reiseführer erwähnen, gilt nur für private Vertragskonten.
 
 
 
@@ -909,7 +913,7 @@ In der Regel ja — Island gehört zum EWR, und die Regelung „Roaming zum Inla
 
 
 
-Oft ja — die eSIM-Pakete von Síminn aktivieren sich in der gesamten EWR-Roamingzone, was wirklich nützlich ist, wenn Island die erste Station einer längeren Europareise ist. Prüfen Sie aber das EU-Datenvolumen: Es liegt bei den meisten Paketen deutlich unter dem Inlandstarif.
+Oft ja — die Datenpakete von Síminn aktivieren sich in der gesamten EWR-Roamingzone, was wirklich nützlich ist, wenn Island die erste Station einer längeren Europareise ist. Prüfen Sie aber das EU-Datenvolumen: Es liegt bei den meisten Paketen deutlich unter dem Inlandstarif.
 
 
 
@@ -945,7 +949,7 @@ Alle drei liegen im besiedelten Südwesten bei Geschwindigkeiten, die zu den sch
 
 
 
-Ja, in Reykjavík und im besiedelten Südwesten — alle drei Anbieter haben 5G im Großraum der Hauptstadt, und es wird entlang der Südküste ausgebaut. Eine eSIM nutzt 5G, wo verfügbar, und sonst 4G, ohne dass Sie etwas tun müssen.
+Ja, in Reykjavík und im besiedelten Südwesten — alle drei Anbieter haben 5G im Großraum der Hauptstadt, und es wird entlang der Südküste ausgebaut. Ein Profil nutzt 5G, wo verfügbar, und sonst 4G, ohne dass Sie etwas tun müssen.
 
 
 
@@ -969,7 +973,7 @@ Folgen Sie [safetravel.is](https://www.safetravel.is/) und dem Isländischen Wet
 
 
 
-Ja, auf einem Dual-SIM-Telefon — viele Besucher machen genau das. Behalten Sie Ihre Heimatnummer auf der physischen SIM für Anrufe und Verifizierungscodes mit ausgeschaltetem Datenroaming und nutzen Sie die Island-eSIM für Daten. Wenn Sie stattdessen eine physische SIM am Flughafen kaufen, füllt diese den Steckplatz und Ihre Heimatleitung fällt weg.
+Ja, auf einem Dual-SIM-Telefon — viele Besucher machen genau das. Behalten Sie Ihre Heimatnummer auf der physischen SIM für Anrufe und Verifizierungscodes mit ausgeschaltetem Datenroaming und nutzen Sie das Island-Profil für Daten. Wenn Sie stattdessen eine physische SIM am Flughafen kaufen, füllt diese den Steckplatz und Ihre Heimatleitung fällt weg.
 
 
 
@@ -993,7 +997,7 @@ Nein. Wenn Sie eine brauchen — für eine lokale Buchung, einen Veranstalter od
 
 
 
-Bei den meisten Reise-eSIM-Tarifen ja; einige schränken es ein. In Island ist das wichtig, weil ein volles Auto mit einer geteilten Verbindung häufig vorkommt, und Pension-WLAN in abgelegenen Gebieten kann langsamer sein als die Datenverbindung Ihres Telefons.
+Bei den meisten Reise-eSIM-Tarifen ja; einige schränken es ein. In Island ist das wichtig, weil ein volles Auto mit einer geteilten Verbindung häufig vorkommt, und das WLAN abgelegener Pensionen kann langsamer sein als die Datenverbindung Ihres Telefons.
 
 
 
@@ -1005,7 +1009,7 @@ Bei den meisten Reise-eSIM-Tarifen ja; einige schränken es ein. In Island ist d
 
 
 
-Dafür ist die [112 Iceland App](https://www.safetravel.is/) da — sie erlaubt es, Ihren Standort zu protokollieren, damit Helfer wissen, wo sie suchen sollen, wenn Sie sich nicht melden. Notrufe selbst funktionieren in jedem Netz unabhängig von Ihrem Anbieter, aber nur dort, wo überhaupt ein Signal ist — und das gibt es in den Highlands nicht.
+Dafür ist die [112 Iceland App](https://www.safetravel.is/) da — sie erlaubt es, Ihren Standort zu protokollieren, damit Helfer wissen, wo sie suchen sollen, wenn Sie sich nicht melden. Notrufe selbst funktionieren in jedem Netz unabhängig von Ihrem Anbieter, aber nur dort, wo überhaupt ein Signal ist — und das gibt es im Hochland nicht.
 
 
 
@@ -1041,7 +1045,7 @@ Ja — die App funktioniert über jede Datenverbindung, einschließlich einer we
 
 
 
-Beides kommt im isländischen Winter häufig vor. Eine funktionierende Island-eSIM erlaubt es Ihnen, am Terminal oder am Straßenrand neu zu planen — das ist das praktische Argument für den Kauf vor dem Flug statt für einen geplanten Flughafenkauf.
+Beides kommt im isländischen Winter häufig vor. Eine funktionierende Datenverbindung erlaubt es Ihnen, am Terminal oder am Straßenrand neu zu planen — das ist das praktische Argument für den Kauf vor dem Flug statt für einen geplanten Flughafenkauf.
 
 
 
@@ -1083,20 +1087,20 @@ Weitere Fragen? [FAQ-Übersicht →](/faq/)
 
 
 
-Diese Werte sind Drittanbieter-Messungen, kein Anbieter-Marketing. In Island entscheidet das Gelände, wo die Karte endet — nicht die Netze.
+Diese Werte sind Drittanbieter-Messungen, kein Anbieter-Marketing. Hier entscheidet das Gelände, wo die Karte endet — nicht die Netze.
 
 
 
 
 
 ## Verbunden in Keflavík landen und losfahren
-Online kaufen, zu Hause im WLAN installieren und in Keflavík bereits verbunden landen — das Profil wählt den stärksten Netzbetreiber, während Sie die Ringstraße umrunden. Testen Sie eine [kostenlose Test-eSIM](/free-esim/) oder wählen Sie einen Tarif auf der [Island-eSIM-Seite](/iceland-esim/). Weiter nach Skandinavien? Unser [Norwegen-eSIM-Leitfaden](/carriers/norway-esim-carrier-guide/) behandelt das nächste Netz auf der Route.
+Online kaufen, zu Hause im WLAN installieren und in Keflavík bereits verbunden landen — das Profil wählt den stärksten Netzbetreiber, während Sie die Ringstraße umrunden. Testen Sie eine kostenlose Test-eSIM oder wählen Sie einen Tarif auf der Island-Tarifseite. Weiter nach Skandinavien? Unser [Norwegen-eSIM-Leitfaden](/carriers/norway-esim-carrier-guide/) behandelt das nächste Netz auf der Route.
 
 
 
 
 
-[Island-Tarife ansehen](/iceland-esim/) · [Gratis-Test](/free-esim/) · [Island-eSIM-Überblick](/iceland-esim/)
+[Island-Tarife ansehen](/iceland-esim/) · [Gratis-Test](/free-esim/) · Island-eSIM-Überblick
 
 
 

@@ -3,6 +3,7 @@
 title: "Hongkong eSIM im Vergleich von China Mobile bis 3HK"
 
 description: "Die Hongkong eSIM im Vergleich mit CMHK, csl, SmarTone und 3HK nach Ookla-Messwerten, Preise in HK$ und die Realnamens-Regel für Besucher."
+
 image: "img/esim/carriers/hong-kong-esim-carrier-guide.jpg"
 
 date: "2026-09-26T21:28:17+00:00"
@@ -31,11 +32,17 @@ hero_subtitle_main: "Wo sich Hongkongs Netze unterscheiden: Geschwindigkeit, Net
 
 
 
+
+
 Eine Hongkong eSIM ist der schnellste Weg online in einem der am besten vernetzten Märkte Asiens – und einer der günstigsten. Lokale Daten kosten etwa **0,82 USD pro Gigabyte**, Platz 82 der 237 Märkte, die Cable.co.uk beobachtet, und weit unter dem globalen Durchschnitt, während DataReportal 7,10 Millionen Internetnutzer in Hongkong, China zählt (96,0 % Durchdringung) bei 17,4 Millionen Mobilfunkanschlüssen. Die Infrastruktur, auf die ein Besucherprofil aufsattelt, ist dicht, ausgereift und schnell. Jede Aussage hier verweist auf eine benannte Quelle – die Liste am Ende lohnt sich, bevor Sie für Hongkong zahlen.
 
 
 
-Die Geschwindigkeit hängt weiterhin davon ab, an welches Netz Ihr Profil andockt. In den 1H-2025-Messungen von Ookla erzielte China Mobile Hongkong einen Median-Download von **119,24 Mbps** über alle Technologien und 185,43 Mbps im 5G, während csl mit 92,5 % die beste Konstanz im Markt aufzeichnete. Dieser Ratgeber vergleicht die vier Netze hinter einer Hongkong eSIM nach Bezirk und Reiseform, sodass die Netzwahl eine bewusste Entscheidung ist – und er behandelt die Regel, die mehr Besucher überrascht als jede andere: Jede lokale SIM in Hongkong, China muss vor der Nutzung auf eine echte Identität registriert werden.
+
+
+Die Geschwindigkeit hängt weiterhin davon ab, an welches Netz Ihr Profil andockt. In den 1H-2025-Messungen von Ookla erzielte China Mobile Hongkong einen Median-Download von **119,24 Mbps** über alle Technologien und 185,43 Mbps im 5G, während csl mit 92,5 % die beste Konstanz im Markt aufzeichnete. Dieser Ratgeber vergleicht die vier Netze des Territoriums nach Bezirk und Reiseform, sodass die Netzwahl eine bewusste Entscheidung ist – und er behandelt die Regel, die mehr Besucher überrascht als jede andere: Jede lokale SIM in Hongkong, China muss vor der Nutzung auf eine echte Identität registriert werden.
+
+
 
 
 
@@ -43,37 +50,39 @@ Die Geschwindigkeit hängt weiterhin davon ab, an welches Netz Ihr Profil andock
 
 
 
+
+
 ## So navigieren Sie diesen Ratgeber
 
 
 
-- [Welcher Hong Kong, China eSIM-Netzbetreiber passt zu Ihrer Reise?](#the-best-pick-for-your-hong-kong-trip)
 
-- [China Mobile Hongkong, csl, SmarTone und 3HK im Vergleich](#china-mobile-hong-kong-csl-smartone-and-3hk-compared)
 
-- [Was Prepaid-Tarife in Hongkong-Dollar kosten](#the-cheapest-way-to-buy-data-in-hong-kong)
+- [Die beste Wahl für Ihre Hongkong-Reise](#die-beste-wahl-für-ihre-hongkong-reise)
 
-- [Realnamensregistrierung für jede lokale SIM](#sim-and-esim-registration-in-hong-kong)
+- [Die vier Netzbetreiber im Vergleich](#die-vier-netzbetreiber-im-vergleich)
 
-- [Hongkong eSIM-Grundlagen: Bänder, Registrierung und Fair Use](#hong-kong-esim-fundamentals-bands-registration-and-fair-use)
+- [SIM- und eSIM-Registrierung in Hongkong](#sim--und-esim-registrierung-in-hongkong)
 
-- [Lokale Karte oder Roaming-Profil: der Hongkong-Trade-off](#hong-kong-esim-roaming-and-border-crossings)
+- [eSIM-Grundlagen von Frequenzbändern bis Fair Use](#esim-grundlagen-von-frequenzbändern-bis-fair-use)
 
-- [Hongkong, China eSIM-Netzabdeckung und -Geschwindigkeit nach Gebiet](#hong-kong-esim-speeds-by-carrier)
+- [Roaming mit Hongkong-eSIM und Grenzübertritte](#roaming-mit-hongkong-esim-und-grenzübertritte)
 
-- [Hongkong, China eSIM nach Reiseform](#hong-kong-china-esim-by-trip-shape-six-days-six-different-networks)
+- [Die Hongkong eSIM nach Reiseart in sechs Szenarien](#die-hongkong-esim-nach-reiseart-in-sechs-szenarien)
 
-- [Vor dem Kauf: Dokumente, Zahlung und die Registrierungsschlange](#hong-kong-sim-registration-documents-payment-and-the-queue)
+- [SIM-Registrierung von Dokumenten bis Warteschlange](#sim-registrierung-von-dokumenten-bis-warteschlange)
 
-- [Hongkong eSIM APN-Einstellungen](#hong-kong-apn-configuration)
+- [APN-Konfiguration für Hongkong](#apn-konfiguration-für-hongkong)
 
-- [Wenn eine Hongkong eSIM Probleme macht](#four-local-failure-modes-for-a-hong-kong-esim)
+- [Vier typische Fehlerbilder und ihre Ursachen](#vier-typische-fehlerbilder-und-ihre-ursachen)
 
-- [Übertritt nach Shenzhen und Macau](#crossing-to-shenzhen-and-macao-same-phone-new-data-plan)
+- [Grenzübertritte nach Shenzhen und Macau](#grenzübertritte-nach-shenzhen-und-macau)
 
-- [Häufige Fragen (11 beantwortet)](#common-questions-about-a-hong-kong-esim-11-answered)
+- [Häufige Fragen zur Hongkong eSIM (11 beantwortet)](#häufige-fragen-zur-hongkong-esim-11-beantwortet)
 
-- [Referenzquellen für diesen Hongkong eSIM-Test](#reference-sources-for-this-hong-kong-esim-review)
+- [Referenzquellen für diesen Test](#referenzquellen-für-diesen-test)
+
+
 
 
 
@@ -81,11 +90,15 @@ Die Geschwindigkeit hängt weiterhin davon ab, an welches Netz Ihr Profil andock
 
 
 
+
+
 Datenquelle: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025).
 
 
 
-| Ihre Reise | Bester Netzbetreiber | Warum | Vorsicht vor |
+
+
+| Ihre Reise | Netz der Wahl | Stärkster Grund | Worauf zu achten ist |
 
 |:---|:---|:---|:---|
 
@@ -109,7 +122,11 @@ Datenquelle: [Ookla Speedtest Connectivity Report](https://www.ookla.com/researc
 
 
 
-**Bestes Preis-Leistungs-Angebot:** ein Multi-Netzwerk-Profil mit automatischer Netzbetreiber-Wahl, das die Frage beseitigt, ob Ihre Hongkong eSIM das richtige Netz für Ihren aktuellen Standort gekauft hat.
+
+
+**Bestes Preis-Leistungs-Angebot:** ein Multi-Netzwerk-Profil mit automatischer Netzbetreiber-Wahl, das die Frage beseitigt, ob Ihr Profil in jedem Bezirk das richtige Netz findet.
+
+
 
 
 
@@ -117,7 +134,11 @@ Datenquelle: [Ookla Speedtest Connectivity Report](https://www.ookla.com/researc
 
 
 
+
+
 ### Wer gewinnt in Hongkong beim Tempo?
+
+
 
 
 
@@ -125,7 +146,11 @@ China Mobile Hongkong liefert die Spitzenwerte – medianer Download von **119,2
 
 
 
+
+
 ### Mobilfunkanbieter in Hongkong auf einen Blick
+
+
 
 
 
@@ -133,7 +158,11 @@ csl weist die beste Konsistenz des Marktes auf – **92,5 % der Messungen erreic
 
 
 
+
+
 ### SmarTone als ausgewogene Option
+
+
 
 
 
@@ -141,7 +170,11 @@ SmarTone holt keinen Spitzenwert und muss das auch nicht. Die Stärken liegen in
 
 
 
+
+
 ### Wie viel GB ist in Hongkong der Sweet Spot?
+
+
 
 
 
@@ -149,11 +182,17 @@ SmarTone holt keinen Spitzenwert und muss das auch nicht. Die Stärken liegen in
 
 
 
+
+
 ### So kaufen Sie Daten in Hongkong am günstigsten
 
 
 
+
+
 Lokale Preise werden in Hongkong-Dollar angegeben und beinhalten einen Registrierungsschritt. Für die Umrechnung gilt grob **7,8 HKD pro US-Dollar**.
+
+
 
 
 
@@ -181,7 +220,17 @@ Lokale Preise werden in Hongkong-Dollar angegeben und beinhalten einen Registrie
 
 
 
+
+
 Zwei Muster in dieser Tabelle sind es wert, hervorgehoben zu werden. Erstens: **gemeinsame Kontingente für Hongkong und Macau** finden sich bei Produkten von CMHK, csl und SmarTone – das ist die günstigste Möglichkeit, einen Tagesausflug über die Brücke abzudecken, ohne zweimal zu kaufen. Zweitens: Die tagesweise aufgeteilten Touristenkarten (5 GB pro Tag bei CMHK) wirken großzügig, bis man bemerkt, dass das Kontingent täglich zurückgesetzt wird und nicht aufsummiert wird – sinnvoll für einen intensiven Tagesausflug, aber verschwenderisch für einen ruhigen Tag.
+
+
+
+
+
+**Eine konkrete Rechnung für den typischen Kurztrip:** Vier Tage mit je rund 2 GB, also etwa 8 GB. Die CMHK-Touristenkarte für 3 Tage deckt 5 GB pro Tag für 48 HK$ (rund 6 USD) ab — für vier Tage bräuchten Sie zwei davon, also 96 HK$ für massenhaft ungenutztes Tageskontingent. Dasselbe Datum über die SoSIM (50 GB für 33 HK$, rund 4 USD) kostet weniger als die Hälfte, verlangt aber die Realnamensregistrierung mit Reisepass und den Schalterbesuch. Der Weg über ein Reise-Profil liegt preislich zwischen beiden, fällt aber komplett ohne Registrierung aus und läuft in allen vier Netzen. Wer Wert auf die günstigsten Gigabyte legt und ohnehin eine +852-Nummer will, nimmt die SoSIM; wer den Vier-Tage-Trip ohne Papierkram durchziehen will, gewinnt mit dem Multi-Netz-Profil.
+
+
 
 
 
@@ -189,11 +238,17 @@ Zwei Muster in dieser Tabelle sind es wert, hervorgehoben zu werden. Erstens: **
 
 
 
+
+
 Jede SIM-Karte, die von einem lokalen Netzbetreiber zur Nutzung in Hongkong, China, ausgegeben wird – sowohl Prepaid-Karten als auch monatliche Tarife – muss **vor der Aktivierung eine Registrierung unter dem echten Namen** durchlaufen. Die Vorschrift ist in der Telecommunications (Registration of SIM Cards) Regulation verankert, die seit dem 1. September 2021 in Kraft ist, und die Behörde selbst formuliert es unmissverständlich: Neue Prepaid-Karten können erst genutzt werden, wenn die Registrierung abgeschlossen und verifiziert ist.
 
 
 
+
+
 Was das für Besucher bedeutet:
+
+
 
 
 
@@ -207,7 +262,11 @@ Was das für Besucher bedeutet:
 
 
 
+
+
 Die praktische Konsequenz ist die, die die meisten Reiseblogs falsch darstellen. Ratschläge wie „Kaufe eine Karte bei 7-Eleven und du bist in zwei Minuten online, kein Reisepass nötig“ beschreiben eine Regel, die im Februar 2023 ausgelaufen ist. Convenience-Stores verkaufen die Karten weiterhin günstig und rund um die Uhr, aber die Karte wird erst aktiviert, wenn sie registriert ist, und das bedeutet: Reisepass vorzeigen und auf eine manuelle Überprüfung warten.
+
+
 
 
 
@@ -215,7 +274,11 @@ Die praktische Konsequenz ist die, die die meisten Reiseblogs falsch darstellen.
 
 
 
+
+
 ### Die besten 5G-Gebiete in Hongkong
+
+
 
 
 
@@ -223,7 +286,11 @@ Die Netze in Hongkong, China nutzen für 5G die Bänder **n1 (2100 MHz), n78 (35
 
 
 
+
+
 ### Was verlangen die Registrierungsregeln in Hongkong?
+
+
 
 
 
@@ -231,7 +298,11 @@ Die Registrierung unter dem echten Namen gilt für SIM-Karten, **die von lokalen
 
 
 
-### 3. Fair-Use-Grenzen und was „unbegrenzt“ wirklich bedeutet
+
+
+### Fair-Use-Grenzen und was „unbegrenzt“ wirklich bedeutet
+
+
 
 
 
@@ -239,7 +310,11 @@ Die meisten lokalen Unbegrenzt-Tarife beinhalten eine Fair-Use-Regelung. Das 50-
 
 
 
+
+
 ### Würde eine Hongkong-eSIM auf meinem Handy funktionieren?
+
+
 
 
 
@@ -247,7 +322,11 @@ eSIM funktioniert ab iPhone XS, Google Pixel 3, Samsung Galaxy S20 und den meist
 
 
 
+
+
 ### Welcher Netzbetreiber deckt Hongkong am besten ab?
+
+
 
 
 
@@ -255,11 +334,15 @@ Die städtische Netzabdeckung ist nicht der entscheidende Faktor. Die wirklichen
 
 
 
+
+
 ## Roaming mit Hongkong-eSIM und Grenzübertritte
 
 
 
-| | Eine lokale Prepaid-Karte | Reise-eSIM in lokalen Netzen |
+
+
+| | Lokale Prepaid-Karte | Reise-Profil in lokalen Netzen |
 
 |:---|:---|:---|
 
@@ -279,7 +362,11 @@ Die städtische Netzabdeckung ist nicht der entscheidende Faktor. Die wirklichen
 
 
 
-Die Schere ist in Hongkong, China eng, weil lokale Daten bereits günstig sind. Was die lokale Karte zusätzlich bietet, ist eine **+852-Nummer** — nützlich für Restaurantreservierungen, lokale Apps und Lieferdienste — und der Preis dafür ist ein Registrierungsschritt sowie die Begrenzung auf einen einzigen Netzbetreiber. Für einen viertägigen Städtetrip gewinnt eine Hongkong eSIM mit Multi-Netz-Zugang beim Zeitaufwand; bei einem Monat als Remote-Worker ist der SoSIM-Preis kaum zu schlagen.
+
+
+Die Schere ist in Hongkong, China eng, weil lokale Daten bereits günstig sind. Was die lokale Karte zusätzlich bietet, ist eine **+852-Nummer** — nützlich für Restaurantreservierungen, lokale Apps und Lieferdienste — und der Preis dafür ist ein Registrierungsschritt sowie die Begrenzung auf einen einzigen Netzbetreiber. Für einen viertägigen Städtetrip gewinnt ein Multi-Netz-Profil beim Zeitaufwand; bei einem Monat als Remote-Worker ist der SoSIM-Preis kaum zu schlagen.
+
+
 
 
 
@@ -287,7 +374,11 @@ Die Schere ist in Hongkong, China eng, weil lokale Daten bereits günstig sind. 
 
 
 
-Statt einer Momentaufnahme finden Sie hier die gepflegte Liste der Tarife für Hongkong, China auf unserer [Tarifseite für Hongkong](/hong-kong-esim/). Im folgenden Abschnitt werden diese Preise neben der tatsächlichen Netzleistung des Marktes und den lokalen Kosten pro Gigabyte eingeordnet.
+
+
+Statt einer Momentaufnahme finden Sie hier die gepflegte Liste der Tarife für Hongkong, China auf unserer Tarifseite. Im folgenden Abschnitt werden diese Preise neben der tatsächlichen Netzleistung des Marktes und den lokalen Kosten pro Gigabyte eingeordnet.
+
+
 
 
 
@@ -295,7 +386,11 @@ Statt einer Momentaufnahme finden Sie hier die gepflegte Liste der Tarife für H
 
 
 
-Laut dem Speedtest Global Index von Ookla liegt Hongkong, China weltweit auf **Platz 51** bei der mobilen Downloadgeschwindigkeit, gemessen im Median bei **89,13 Mbit/s** (16 ms Latenz). Das liegt unter dem globalen Median von 109,05 Mbit/s, und es ist relevant, weil jede Hongkong eSIM genau auf dieser lokalen Infrastruktur läuft. Lokale Daten kosten ungefähr **0,82 USD pro GB**, Platz 82 der 237 Märkte, die Cable.co.uk beobachtet. Zum besseren Verständnis des Marktes selbst berichtet DataReportal von 7,10 Millionen Internetnutzern in Hongkong, China (96,0 % Durchdringung) und 17,4 Millionen Mobilfunkanschlüssen — 235 % der Bevölkerung zu Beginn des Jahres 2025.
+
+
+Laut dem Speedtest Global Index von Ookla liegt Hongkong, China weltweit auf **Platz 51** bei der mobilen Downloadgeschwindigkeit, gemessen im Median bei **89,13 Mbit/s** (16 ms Latenz). Das liegt unter dem globalen Median von 109,05 Mbit/s, und es ist relevant, weil jedes Besucherprofil genau auf dieser lokalen Infrastruktur läuft. Lokale Daten kosten ungefähr **0,82 USD pro GB**, Platz 82 der 237 Märkte, die Cable.co.uk beobachtet. Zum besseren Verständnis des Marktes selbst berichtet DataReportal von 7,10 Millionen Internetnutzern in Hongkong, China (96,0 % Durchdringung) und 17,4 Millionen Mobilfunkanschlüssen — 235 % der Bevölkerung zu Beginn des Jahres 2025.
+
+
 
 
 
@@ -303,15 +398,23 @@ Alle drei Zahlen stammen von Dritten und werden unabhängig aktualisiert: [Ookla
 
 
 
+
+
 Eine Anmerkung zum 51. Platz, denn er liest sich schlechter als die Realität. Das Ranking misst einen einzigen Median in einem Gebiet, in dem 5G bereits mehr als 99 % der Bevölkerung versorgt; der Wert wird durch einen langen Schwanz älterer 4G-Tarife nach unten gezogen, nicht durch ein schwaches Netz. In der Praxis liegt ein Besucherprofil auf einem 5G-fähigen Gerät in Central, Tsim Sha Tsui oder in der MTR deutlich über dem Median. Die Zahl, die Ihre Kaufentscheidung prägen sollte, ist nicht das Ranking, sondern die Fair-Use-Grenze der jeweiligen lokalen Karte, die Sie in Betracht ziehen.
 
 
 
-## Beste lokale eSIM für Ihre Region (5 Stadtteile getestet)
+
+
+## Beste lokale eSIM nach Bezirken (5 Stadtteile im Vergleich)
 
 
 
-Welche Reise-eSIM die bessere Wahl für Ihr Reiseziel ist, basierend auf Netzleistung und lokalen Gegebenheiten:
+
+
+Welche Reise-eSIM für Ihr Reiseziel die bessere Wahl ist – abgeleitet aus Netzleistung und lokalen Gegebenheiten:
+
+
 
 
 
@@ -331,7 +434,11 @@ Welche Reise-eSIM die bessere Wahl für Ihr Reiseziel ist, basierend auf Netzlei
 
 
 
-Eine Hongkong eSIM mit mehreren Netzen löst die Bezirksfrage ganz unauffällig: Es verbindet sich automatisch wieder mit dem Netzbetreiber, der am stärksten ist, während Sie sich fortbewegen – was besonders wichtig ist, wenn ein Tag von Büros in Central zu einem Wanderweg in den New Territories führt.
+
+
+Eine Hongkong eSIM mit mehreren Netzen löst die Bezirksfrage ganz unauffällig: Das Profil verbindet sich automatisch wieder mit dem Netzbetreiber, der am stärksten ist, während Sie sich fortbewegen – was besonders wichtig ist, wenn ein Tag von Büros in Central zu einem Wanderweg in den New Territories führt.
+
+
 
 
 
@@ -339,11 +446,15 @@ Eine Hongkong eSIM mit mehreren Netzen löst die Bezirksfrage ganz unauffällig:
 
 
 
+
+
 Betrachten Sie die gebietsweiten Geschwindigkeitswerte eher als Obergrenze denn als Untergrenze: Das folgende Bild der einzelnen Gebiete zeigt, was Sie tatsächlich erleben werden.
 
 
 
-| Region | Netzabdeckung | Bester Netzbetreiber | Hinweis |
+
+
+| Gebiet | Empfangslage | Spitzenwahl | Was zu wissen ist |
 
 |:---|:---|:---|:---|
 
@@ -351,7 +462,7 @@ Betrachten Sie die gebietsweiten Geschwindigkeitswerte eher als Obergrenze denn 
 
 | Kowloon | Auf allen großen Netzbetreibern stark vertreten, mit dichter Netzabdeckung in Einkaufszentren | csl | Engpässe auf Straßenebene in Mong Kok und Tsim Sha Tsui |
 
-| New Territories Ost — Sha Tin, Sai Kung | Zuverlässig in den neuen Städten; lückenhaft, sobald die Wanderwege beginnen | China Mobile Hongkong | Im Sai Kung Country Park gibt es keinerlei Empfang mehr |
+| Neue Territorien Ost — Sha Tin, Sai Kung | Zuverlässig in den neuen Städten; lückenhaft, sobald die Wanderwege beginnen | China Mobile Hongkong | Im Sai Kung Country Park gibt es keinerlei Empfang mehr |
 
 | Westliche Neue Territorien — Tuen Mun, Yuen Long | Gut in dicht besiedelten Gebieten, einschließlich der grenznahen Orte | China Mobile Hongkong | Signal überschneidet sich nahe der Grenze mit den Netzen des Festlands |
 
@@ -363,7 +474,11 @@ Betrachten Sie die gebietsweiten Geschwindigkeitswerte eher als Obergrenze denn 
 
 
 
+
+
 Grenzüberschreitend unterwegs von Hongkong, China? Vergleichen Sie die benachbarten Netze:
+
+
 
 
 
@@ -375,7 +490,11 @@ Grenzüberschreitend unterwegs von Hongkong, China? Vergleichen Sie die benachba
 
 
 
+
+
 Sie reisen zwischen den Regionen? Wählen Sie eine eSIM, die automatisch das Netz wechseln kann, damit Sie nicht am schwachen Punkt eines Netzbetreibers hängenbleiben.
+
+
 
 
 
@@ -383,7 +502,11 @@ Sie reisen zwischen den Regionen? Wählen Sie eine eSIM, die automatisch das Net
 
 
 
+
+
 ### Geschäftsaufenthalt in Central und Admiralty
+
+
 
 
 
@@ -391,7 +514,11 @@ Vier Tage mit Meetings und Kundenessen verlassen die stärkste Stelle auf der Ka
 
 
 
+
+
 ### Shopping- und Food-Tour durch Kowloon
+
+
 
 
 
@@ -399,7 +526,11 @@ Mong Kok mit seinen Straßenmärkten, Jordans Nudel-Lokalen und die Einkaufszent
 
 
 
+
+
 ### Netzabdeckung auf Lantau von Disneyland bis Tai O
+
+
 
 
 
@@ -407,7 +538,11 @@ Eine Fahrt mit der Ngong Ping 360 und ein Tag im Disneyland sind die beiden Erle
 
 
 
+
+
 ### Wandern auf dem MacLehose Trail und in Sai Kung
+
+
 
 
 
@@ -415,7 +550,11 @@ Dies ist die eine Reiseroute, bei der die Wahl des Netzbetreibers das Erlebnis t
 
 
 
+
+
 ### Inselhopping zwischen Cheung Chau und Peng Chau
+
+
 
 
 
@@ -423,7 +562,11 @@ Cheung Chau, Lamma und Peng Chau sind eine Fährfahrt von der Stadt entfernt und
 
 
 
+
+
 ### Tagesausflug nach Macau über die HZMB
+
+
 
 
 
@@ -431,7 +574,11 @@ Die Überquerung der Hongkong-Zhuhai-Macao-Brücke dauert weniger als eine Stund
 
 
 
+
+
 ## SIM-Registrierung von Dokumenten bis Warteschlange
+
+
 
 
 
@@ -453,7 +600,11 @@ Die Überquerung der Hongkong-Zhuhai-Macao-Brücke dauert weniger als eine Stund
 
 
 
-Zwei Reibungspunkte lohnen eine vorausschauende Planung. Erstens, **der Zeitpunkt der Registrierung**: Wer erst bei der Landung eine Karte kauft, kann bei einer manuellen Verifizierung stundenlang offline bleiben – eine bereits zu Hause installierte Hongkong eSIM ist daher die bessere Versicherung für den Anreisetag. Zweitens, **die Bezahlung**: Die Online-Aufladeabläufe der Netzbetreiber lehnen mitunter ausländische Karten ab, weshalb ein Gutschein aus dem Convenience-Store oder eine Zahlung im Laden die verlässlichere Routine ist als der Online-Kauf. Wer die Karte für eine bestimmte Buchung benötigt, kauft sie besser einen Tag früher als am Flughafen.
+
+
+Zwei Reibungspunkte lohnen eine vorausschauende Planung. Erstens, **der Zeitpunkt der Registrierung**: Wer erst bei der Landung eine Karte kauft, kann bei einer manuellen Verifizierung stundenlang offline bleiben – ein bereits zu Hause installiertes Profil ist daher die bessere Versicherung für den Anreisetag. Zweitens, **die Bezahlung**: Die Online-Aufladeabläufe der Netzbetreiber lehnen mitunter ausländische Karten ab, weshalb ein Gutschein aus dem Convenience-Store oder eine Zahlung im Laden die verlässlichere Routine ist als der Online-Kauf. Wer die Karte für eine bestimmte Buchung benötigt, kauft sie besser einen Tag früher als am Flughafen.
+
+
 
 
 
@@ -461,7 +612,11 @@ Zwei Reibungspunkte lohnen eine vorausschauende Planung. Erstens, **der Zeitpunk
 
 
 
-Das Profil trifft wenige Minuten nach dem Checkout per E-Mail ein und wird in den Einstellungen hinzugefügt. Auf der Seite [Hongkong-Tarife](/hong-kong-esim/) finden Sie die Tarife, und unsere [Schritt-für-Schritt-Anleitung zur Aktivierung](/faq/how-to-activate-an-esim/) erklärt die Installation samt Problembehandlung.
+
+
+Das Profil trifft wenige Minuten nach dem Checkout per E-Mail ein und wird in den Einstellungen hinzugefügt. Auf unserer Tarifseite finden Sie die aktuellen Pakete, und die [Schritt-für-Schritt-Anleitung zur Aktivierung](/faq/how-to-activate-an-esim/) erklärt die Installation samt Problembehandlung.
+
+
 
 
 
@@ -469,7 +624,11 @@ Das Profil trifft wenige Minuten nach dem Checkout per E-Mail ein und wird in de
 
 
 
-Roami-Profile sind bereits vorkonfiguriert, sodass die meisten Besucher in Hongkong die APN-Einstellungen nie anfassen müssen. Nur in einem Fall sind sie relevant: Sie haben am Schalter eine lokale China Mobile Hongkong-, csl-, SmarTone- oder 3HK-Karte gekauft, und das Telefon zeigt vollen Empfang, aber keine Daten.
+
+
+Roami-Profile sind bereits vorkonfiguriert, sodass die meisten Besucher die APN-Einstellungen nie anfassen müssen. Nur in einem Fall sind sie relevant: Sie haben am Schalter eine lokale China Mobile Hongkong-, csl-, SmarTone- oder 3HK-Karte gekauft, und das Telefon zeigt vollen Empfang, aber keine Daten.
+
+
 
 
 
@@ -477,7 +636,11 @@ Roami-Profile sind bereits vorkonfiguriert, sodass die meisten Besucher in Hongk
 
 
 
+
+
 Jeder Hongkonger Netzbetreiber veröffentlicht seinen exakten APN auf der eigenen Support-Seite, und das Schalterpersonal trägt ihn beim Kauf in der Regel für Sie ein. Sollte eine Karte später Probleme machen, behebt das Neuinstallieren des Profils oder das erneute Eintragen des ausgedruckten APN die überwiegende Mehrheit der Fälle von „verbunden, aber offline“.
+
+
 
 
 
@@ -485,7 +648,11 @@ Jeder Hongkonger Netzbetreiber veröffentlicht seinen exakten APN auf der eigene
 
 
 
+
+
 Allgemeine Aktivierungsfehler – ein Profil, das nicht herunterlädt, ein fehlgeschlagener Scan, eine eSIM, die sich installiert, aber nie im Netz registriert – sind in unserem [Fehlerleitfaden](/faq/esim-activation-errors-troubleshooting-guide/) zusammengestellt. Die vier folgenden Muster sind die lokalen.
+
+
 
 
 
@@ -493,7 +660,11 @@ Allgemeine Aktivierungsfehler – ein Profil, das nicht herunterlädt, ein fehlg
 
 
 
+
+
 **B. In Central einwandfrei, auf einem Wanderweg Funkstille.** Das ist eine Frage der Netzabdeckung, kein Fehler. Öffnen Sie die Netzwerkauswahl und versuchen Sie China Mobile Hongkong, csl und SmarTone manuell; meldet sich keiner davon an, befinden Sie sich im Gelände eines Country Parks, und keine Einstellung wird helfen.
+
+
 
 
 
@@ -501,11 +672,17 @@ Allgemeine Aktivierungsfehler – ein Profil, das nicht herunterlädt, ein fehlg
 
 
 
+
+
 **D. 5G-Symbol, aber 4G-Geschwindigkeit.** Dem Gerät fehlt möglicherweise das **n79**-Band, oder der Tarif begrenzt den Durchsatz in seiner Stufe. Vergleichen Sie mit einem zweiten Gerät, bevor Sie dem Netz die Schuld geben, und prüfen Sie anschließend die Fair-Use-Grenze Ihres Tarifs.
 
 
 
-### Was der Support wissen will
+
+
+### Was CMHK, csl und SmarTone vom Support erwarten
+
+
 
 
 
@@ -513,17 +690,19 @@ Allgemeine Aktivierungsfehler – ein Profil, das nicht herunterlädt, ein fehlg
 
 |:---|:---|
 
-| Bestell- oder Kontonummer | Bestätigungs-E-Mail |
+| Bestell- oder Kontokennung | Bestätigungsnachricht des Anbieters |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Handy-Modell und iOS-/Android-Stand | Einstellungen → Über das Telefon |
 
 | EID | `*#06#` |
 
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Ablichtung der Fehlermeldung | Direkt im Fehlerdialog aufnehmen, solange er offen ist |
 
 | Registrierungsstatus | Die App des Netzbetreibers oder die Bestätigungsnachricht |
 
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Getestete Schritte | Drei Punkte genügen |
+
+
 
 
 
@@ -531,11 +710,17 @@ Allgemeine Aktivierungsfehler – ein Profil, das nicht herunterlädt, ein fehlg
 
 
 
+
+
 Die Netze von Hongkong, China enden an der Grenze auf beiden Seiten des Territoriums — Macau im Westen, das Festland im Norden. Jede Überquerung hat ihren eigenen Charakter. **Lo Wu und Lok Ma Chau** bringen Sie innerhalb weniger Minuten nach der Einreise in die Shenzhen-U-Bahn, **Shenzhen Bay** ist die Busverbindung, und die **Hongkong–Zhuhai–Macau-Brücke** erreicht Macau in weniger als einer Stunde. Bei jeder von ihnen wird eine reine Hongkong-Karte dunkel, und das automatische Roaming, das einige Karten aktivieren, kann Ihnen eine Rechnung stellen, ohne dass es einen klaren Hinweis gibt.
 
 
 
-Die saubere Lösung sind zwei Profile statt eines heroischen Tarifs. Behalten Sie die Hongkong eSIM für das Territorium und fügen Sie einen Festland- oder Macau-Tarif für die Überquerung hinzu — oder kaufen Sie eine einzelne Karte mit gemeinsamem Hongkong–Macau-Kontingent, wie es CMHK, csl und SmarTone alle anbieten. Bevor Sie das Hotel verlassen, schalten Sie Datenroaming auf der Hongkong-Leitung aus, damit eine Hintergrundsynchronisierung nahe der Grenze keine kostenpflichtige Sitzung starten kann, und laden Sie eine Offline-Karte der Überquerung herunter, die Sie nutzen: genau in der Schlange bei Shenzhen Bay werden Sie etwas nachschlagen wollen.
+
+
+Die saubere Lösung sind zwei Profile statt eines heroischen Tarifs. Behalten Sie Ihr Profil für das Territorium und fügen Sie einen Festland- oder Macau-Tarif für die Überquerung hinzu — oder kaufen Sie eine einzelne Karte mit gemeinsamem Hongkong–Macau-Kontingent, wie es CMHK, csl und SmarTone alle anbieten. Bevor Sie das Hotel verlassen, schalten Sie Datenroaming auf der Hongkong-Leitung aus, damit eine Hintergrundsynchronisierung nahe der Grenze keine kostenpflichtige Sitzung starten kann, und laden Sie eine Offline-Karte der Überquerung herunter, die Sie nutzen: genau in der Schlange bei Shenzhen Bay werden Sie etwas nachschlagen wollen.
+
+
 
 
 
@@ -543,7 +728,11 @@ Die saubere Lösung sind zwei Profile statt eines heroischen Tarifs. Behalten Si
 
 
 
+
+
 ### Braucht jede lokale SIM eine Registrierung?
+
+
 
 
 
@@ -551,7 +740,11 @@ Ja, für jede SIM-Karte, die von einem lokalen Netzbetreiber für den lokalen Ge
 
 
 
+
+
 ### Mit welchem Dokument registriert sich ein Besucher?
+
+
 
 
 
@@ -559,11 +752,17 @@ Ein Besucher ohne Hongkonger Personalausweis registriert sich mit einem akzeptie
 
 
 
+
+
 ### Wie lange dauert die Registrierung?
 
 
 
-Es kommt auf den Weg an. Inhaber eines Hongkonger Personalausweises nutzen die iAM Smart-App und werden fast sofort verifiziert, was die Mehrheit der lokalen Käufer ausmacht. Besucher werden manuell durch den Netzbetreiber verifiziert, daher kann eine über den Schalter gekaufte Karte deutlich länger dauern, bevor Daten fließen — weshalb eine zu Hause installierte Hongkong eSIM der sicherere Plan für den Ankunftstag ist.
+
+
+Es kommt auf den Weg an. Inhaber eines Hongkonger Personalausweises nutzen die iAM Smart-App und werden fast sofort verifiziert, was die Mehrheit der lokalen Käufer ausmacht. Besucher werden manuell durch den Netzbetreiber verifiziert, daher kann eine über den Schalter gekaufte Karte deutlich länger dauern, bevor Daten fließen — weshalb ein zu Hause installiertes Profil der sicherere Plan für den Ankunftstag ist.
+
+
 
 
 
@@ -571,7 +770,11 @@ Es kommt auf den Weg an. Inhaber eines Hongkonger Personalausweises nutzen die i
 
 
 
+
+
 Bis zu **10 Prepaid-SIM-Karten pro Netzbetreiber** pro Person, mit einem separaten Kontingent für jeden Netzbetreiber, und 25 für Firmenkunden. Monatliche Vertragstarife haben keine Obergrenze. Netzbetreiber führen außerdem Stichprobenprüfungen durch und werden Sie auffordern, sich über eine Nachricht von der Absenderadresse **#SIMREG** erneut zu verifizieren.
+
+
 
 
 
@@ -579,7 +782,11 @@ Bis zu **10 Prepaid-SIM-Karten pro Netzbetreiber** pro Person, mit einem separat
 
 
 
+
+
 Nicht in der gleichen Weise. Ein Profil, das von einem internationalen Reise-eSIM-Anbieter ausgegeben wird, ist keine von einem lokalen Netzbetreiber ausgegebene SIM-Karte, daher gilt keine lokale Realnamensregistrierung. Der Nachteil ist, dass es nur Daten bietet: keine +852-Nummer und keine lokalen Gesprächsminuten.
+
+
 
 
 
@@ -587,7 +794,11 @@ Nicht in der gleichen Weise. Ein Profil, das von einem internationalen Reise-eSI
 
 
 
+
+
 Ja, mit einem Vorbehalt. Unbegrenzte Tarife ab HK$188 über 30 Tage sind ein echtes Schnäppchen, und SoSIMs HK$33-Paket bietet 50 GB über 30 Tage vor der Drosselung. Lesen Sie die Fair-Use-Schwelle: danach fallen die Geschwindigkeiten auf etwa 128 kbps, was für Nachrichten in Ordnung und für Video nicht nutzbar ist.
+
+
 
 
 
@@ -595,7 +806,11 @@ Ja, mit einem Vorbehalt. Unbegrenzte Tarife ab HK$188 über 30 Tage sind ein ech
 
 
 
+
+
 Jedes große Netz bietet vollständige Netzabdeckung in allen MTR-Stationen und Tunneln, einschließlich der Airport Express und der Hafenüberquerungen, daher ist die U-Bahn kein Unterscheidungsmerkmal. Wo die Netzbetreiber auseinandergehen, ist die Innenraumabdeckung in älteren Gebäuden und die Reichweite in die Country Parks.
+
+
 
 
 
@@ -603,7 +818,11 @@ Jedes große Netz bietet vollständige Netzabdeckung in allen MTR-Stationen und 
 
 
 
+
+
 Nicht mit einem reinen Hongkong-Tarif. Macau ist eine separate Telekommunikationsregion und das Festland ist ein völlig anderer Markt; beide erfordern eine Roaming-Zubuchung oder einen separaten Tarif. Der günstigste Weg, einen Macau-Tagesausflug abzudecken, ist eine Karte mit gemeinsamem Hongkong–Macau-Kontingent.
+
+
 
 
 
@@ -611,7 +830,11 @@ Nicht mit einem reinen Hongkong-Tarif. Macau ist eine separate Telekommunikation
 
 
 
-SoSIM ist eine Prepaid-Marke im 3HK-Netz mit dem günstigsten großen lokalen Kontingent — etwa **HK$33 für 50 GB über 30 Tage mit 1.500 Minuten**. Es wird an Besucher verkauft wie jedes andere Prepaid-Produkt, was einen Reisepass und eine Realnamensregistrierung bedeutet, und seine Netzabdeckung in den New Territories ist etwas dünner als die von China Mobile Hongkong.
+
+
+SoSIM ist eine Prepaid-Marke im 3HK-Netz mit dem günstigsten großen lokalen Kontingent — etwa **HK$33 für 50 GB über 30 Tage mit 1.500 Minuten**. Es wird an Besucher verkauft wie jedes andere Prepaid-Produkt, was einen Reisepass und eine Realnamensregistrierung bedeutet, und die Netzabdeckung in den New Territories ist etwas dünner als die von China Mobile Hongkong.
+
+
 
 
 
@@ -619,7 +842,11 @@ SoSIM ist eine Prepaid-Marke im 3HK-Netz mit dem günstigsten großen lokalen Ko
 
 
 
+
+
 Ja. Behalten Sie Ihre Heim-SIM im Telefon für Anrufe und Verifizierungscodes und nutzen Sie Daten über die eSIM, wobei Datenroaming auf der Heimleitung ausgeschaltet ist. Dies ist hier wichtiger als gewöhnlich, da ein datenreines Reiseprofil keine SMS empfangen kann, daher kommen Bank- und Buchungscodes weiterhin auf Ihrer ursprünglichen Nummer an.
+
+
 
 
 
@@ -627,7 +854,11 @@ Ja. Behalten Sie Ihre Heim-SIM im Telefon für Anrufe und Verifizierungscodes un
 
 
 
+
+
 Arbeiten Sie die vier oben genannten Muster der Reihe nach ab — Registrierungsstatus, Netzwahl, Tarifgrenze, dann Band- und Fair-Use-Prüfungen — und falls es weiterhin fehlschlägt, deckt der umfassendere Fehlerkatalog in der [Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Halten Sie Ihre EID, die Bestellnummer und einen Screenshot bereit, bevor Sie den Support kontaktieren.
+
+
 
 
 
@@ -635,7 +866,11 @@ Arbeiten Sie die vier oben genannten Muster der Reihe nach ab — Registrierungs
 
 
 
+
+
 ## Häufige Mythen über eSIMs im Territorium
+
+
 
 
 
@@ -643,7 +878,11 @@ Arbeiten Sie die vier oben genannten Muster der Reihe nach ab — Registrierungs
 
 
 
+
+
 **✅ Fakt:** 7-Eleven und Circle K verkaufen rund um die Uhr günstig Karten, aber jede lokal ausgestellte Karte muss vor der Aktivierung die Realnamensregistrierung abschließen. Der Rat „kein Reisepass, kein Papierkram“ beschreibt die Regeln, wie sie vor Februar 2023 galten, und wird Ihnen eine Karte bescheren, die Signal zeigt, aber keine Daten liefert.
+
+
 
 
 
@@ -651,7 +890,11 @@ Arbeiten Sie die vier oben genannten Muster der Reihe nach ab — Registrierungs
 
 
 
-**✅ Fakt:** China Mobile Hongkong führt beim medianen Download (119,24 Mbps) und der 5G-Verfügbarkeit (86,3 %), csl führt bei der Konsistenz (92,5 %), und SoSIM von 3HK gewinnt beim Preis pro Gigabyte, opfert dabei etwas Reichweite in den New Territories. Was zählt, hängt davon ab, ob Ihre Reise ein Sitzungssaal oder ein Wanderweg ist.
+
+
+**✅ Fakt:** China Mobile Hongkong führt beim medianen Download (119,24 Mbps) und der 5G-Verfügbarkeit (86,3 %), csl führt bei der Konsistenz (92,5 %), und SoSIM von 3HK gewinnt beim Preis pro Gigabyte, opfert dabei aber etwas Reichweite in den New Territories. Was zählt, hängt davon ab, ob Ihre Reise ein Sitzungssaal oder ein Wanderweg ist.
+
+
 
 
 
@@ -659,11 +902,17 @@ Arbeiten Sie die vier oben genannten Muster der Reihe nach ab — Registrierungs
 
 
 
+
+
 **✅ Fakt:** Nein. Eine eSIM ist ein Profil, das auf bereits im Telefon vorhandene Hardware geschrieben wird, sodass Ihre Heim-SIM in ihrem Steckplatz bleibt und weiterhin Anrufe und Verifizierungscodes empfängt, während die eSIM die Daten trägt.
 
 
 
+
+
 ## Referenzquellen für diesen Test
+
+
 
 
 
@@ -681,7 +930,11 @@ Arbeiten Sie die vier oben genannten Muster der Reihe nach ab — Registrierungs
 
 
 
-Alles hier Zitierte geht auf eine namentlich genannte Drittquelle zurück, nicht auf unsere eigene Tests. Ihre eigenen Geschwindigkeiten variieren je nach Gerät, Standort und Auslastung.
+
+
+Alles hier Zitierte geht auf eine namentlich genannte Drittquelle zurück, nicht auf unsere eigenen Tests. Ihre eigenen Geschwindigkeiten variieren je nach Gerät, Standort und Auslastung.
+
+
 
 
 
@@ -689,7 +942,11 @@ Alles hier Zitierte geht auf eine namentlich genannte Drittquelle zurück, nicht
 
 
 
-Der Checkout dauert nur Minuten und das Profil landet in Ihrem Posteingang, bereit, am Hongkong International aktiviert zu werden. Sie können zuerst eine [kostenlose Testversion](/free-esim/) ausprobieren oder 20 % sparen auf [Hongkong eSIM-Tarife](/hong-kong-esim/) mit dem Code **WEB20**.
+
+
+Der Checkout dauert nur Minuten und das Profil landet in Ihrem Posteingang, bereit, am Hongkong International aktiviert zu werden. Sie können zuerst eine kostenlose Testversion ausprobieren oder mit dem Code **WEB20** 20 % auf einen Hongkong-Tarif sparen.
+
+
 
 
 
@@ -697,7 +954,11 @@ Der Checkout dauert nur Minuten und das Profil landet in Ihrem Posteingang, bere
 
 
 
+
+
 *Willkommensangebot auf einen ersten Tarif*
+
+
 
 
 

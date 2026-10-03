@@ -22,11 +22,13 @@ Bolivien ist das eine Land in Südamerika, in dem die Frage nach dem Netzbetreib
 
 Dieser Guide vergleicht die drei Netzbetreiber, auf denen eine eSIM für Bolivien laufen kann — das staatliche **Entel**, das zu Millicom gehörende **Tigo** und das günstige Netz **Viva** — und erklärt anschließend, was Touristen vor Ort realistisch kaufen können, was eine Reise-eSIM verändert, und die beiden bolivien-spezifischen Fehlerquellen, die Besucher immer wieder überraschen. Ob das Gerät überhaupt eSIM-fähig ist, ist eine separate Frage, die einmal auf der [Kompatibilitätsseite](/compatibility/) geklärt wird.
 
+Die meisten Besucher verbringen ihre Reise in den Stadt-Dreiecken La Paz und El Alto, Santa Cruz und Cochabamba sowie in Kolonialstädten wie Sucre und Potosí – und dort ist die Wahl zwischen Entel, Tigo und Viva vor allem eine Frage der Stadtdaten, nicht der Reichweite. Die Salzflatte von Uyuni, der Altiplano und der Amazonas sind spektakulär, aber Ausflugsziele und keine Standardrouten; für diese Strecken zählt Entel als breitestes ländliches Netz. Dieser Guide behandelt beides, beginnt aber bei den Orten, an denen die meisten Reisenden tatsächlich verbunden sein wollen.
+
 **Schnelle Einschätzung:** Verbringen Sie mehr als nur ein paar Tage außerhalb der Städte? Dann ist Entel die Wahl — die ländliche Netzabdeckung ist in Bolivien am weitesten, und es ist der einzige Netzbetreiber mit brauchbarem Signal in Uyuni-Stadt und in weiten Teilen des Altiplano. Bleiben Sie in La Paz, Santa Cruz oder Cochabamba? Dann liefert Tigo in der Regel das schnellste 4G in der Stadt. Sie suchen das günstigste Datenvolumen für Messenger und Karten in den Hauptstädten? Das erledigt Viva. Und egal, wen Sie wählen, bedenken Sie die Realität vor Ort: Auf dem Salar de Uyuni selbst gibt es so gut wie kein Signal – bei keinem Netzbetreiber. Laden Sie Offline-Karten herunter, bevor Sie den Ort verlassen.
 
-## Welcher Netzbetreiber erreicht das Altiplano tatsächlich?
+## Welcher Netzbetreiber außerhalb der Städte überzeugt
 
-| Reiseart | Empfohlener Netzbetreiber | Begründung |
+| Reiseszenario | Empfohlener bolivianischer Netzbetreiber | Warum das passt |
 |:---|:---|:---|
 | Salar de Uyuni, Potosí, das Hochland | Entel | Der staatliche Netzbetreiber verfügt über das größte ländliche Netz in Bolivien und ist am stärksten in den kleinen Orten präsent, die die Touristenrouten versorgen, einschließlich der Stadt Uyuni. |
 | La Paz, Santa Cruz, Cochabamba Stadtaufenthalte | Tigo | Tigo Das urbane 4G ist in Innenstadttests das schnellste der drei Städte und bietet ausreichend Kapazität für Videoanrufe und das Hochladen in sozialen Netzwerken. |
@@ -70,15 +72,19 @@ Eine Bolivien-eSIM umgeht das alles: Das Profil wird im Ausland ausgestellt, zu 
 
 Wir verzichten an dieser Stelle bewusst auf eine eingefrorene Preistabelle – Tarifpreise ändern sich, und veraltete Zahlen helfen niemandem. Die [Bolivien-eSIM-Seite](/bolivia-esim/) enthält die aktuelle Tarifliste, sowohl reine Daten- als auch Unlimited-Tarife. Was die öffentlichen Daten hinzufügen, ist Kontext: was Einheimische pro Gigabyte zahlen und wie schnell die Netze tatsächlich laufen.
 
-Der globale Speedtest-Index von Ookla vom August 2026 platziert Bolivien beim mobilen Download global auf **Rang 99**, mit einem Median von **20,65 Mbps** und 22 ms Latenz, gegenüber einem globalen Median von 109,05 Mbps. Ein Reise-eSIM erbt genau diese Infrastruktur – es gibt kein separates „eSIM-Netz“, das sich hinter dem Marketing versteckt.
+Der globale Speedtest-Index von Ookla vom August 2026 platziert Bolivien beim mobilen Download global auf **Rang 99**, mit einem Median von **20,65 Mbps** und 22 ms Latenz, gegenüber einem globalen Median von 109,05 Mbps. Eine Reise-eSIM erbt genau diese Infrastruktur – es gibt kein separates „eSIM-Netz“, das sich hinter dem Marketing versteckt.
 
 Die weltweite Umfrage von Cable.co.uk preist 1 GB bolivianische mobile Daten mit etwa **1,87 USD** – Platz 153 von 237 Märkten, gegenüber einem globalen Durchschnitt von 2,59 USD. Lokale Prepaid-Angebote sind noch günstiger, wenn Sie Schlangen in Shops mögen – Bargeld, Reisepass und physische SIM-Karte sind das Einlassticket –, während der eSIM-Aufpreis Ihnen den Gang ins Geschäft komplett erspart.
 
 Der Markt selbst ist klein, aber vernetzt: DataReportals Schnappschuss von 2025 nennt 8,77 Millionen Bolivianer online (70,2 % der Bevölkerung) mit 13,5 Millionen Mobilfunkverbindungen, entsprechend 108 % der Bevölkerung.
 
+### Rechenbeispiel: Prepaid gegen Reise-eSIM
+
+Ein Tag in La Paz mit 1–2 GB kostet lokal laut Cable.co.uk kaum mehr als **2–4 USD** (Bolivien liegt bei etwa 1,87 USD pro Gigabyte), und ein Besuch im Entel-, Tigo- oder VIVA-Shop samt Reisepassregistrierung kostet kaum Bargeld, dafür einen Nachmittag. Eine Reise-eSIM mit 5 GB für etwa eine Woche liegt im Bereich von **4–8 USD** laut den Preisen auf der Bolivien-eSIM-Seite und spart genau diesen Schalterbesuch. Wer die Salzflächen-Tour oder den Amazonas ansteuert, braucht ohnehin mehr Volumen und sollte den Tarif vorab dimensionieren – unterwegs einen Netzbetreiber-Laden zu finden, gelingt abseits der Städte kaum. Für einen Kurztrip in den Städten gewinnt die Reise-eSIM durch Zeitersparnis; für einen mehrmonatigen Aufenthalt mit lokaler Rufnummer ist die Prepaid-Karte die ehrlichere Wahl.
+
 ## Bester Anbieter für die Städte Ihrer Reise
 
-| Stadt | Bester Netzbetreiber | Warum es funktioniert |
+| Stadt | Das stärkste Netz vor Ort | Warum es dort vorne liegt |
 |:---|:---|:---|
 | La Paz & El Alto | Tigo, Entel | Tigo ist in der Innenstadt schneller; Entel ist an den Talhängen und im weitläufigen El Alto stabiler. |
 | Santa Cruz | Tigo | Die Hauptstadt des Tieflands ist der stärkste Markt von Tigo und bietet die schnellsten urbanen Datenverbindungen des Landes. |
@@ -129,7 +135,7 @@ Bolivien ist der Markt, in dem die ehrliche Antwort auf „wie schnell“ lautet
 
 Wo der Bericht keine Zahl veröffentlicht, bleibt die Zelle leer, anstatt geschätzt zu werden. Aus dieser Tabelle lassen sich zwei Punkte herauslesen. Erstens liegen die bolivianischen Medianwerte eine Größenordnung unter denen Chiles oder Kolumbiens, daher **ist der Tarif, den Sie kaufen, weniger entscheidend als die Frequenzbänder, die Ihr Smartphone empfangen kann** – ein Gerät mit niedrigen Bändern bleibt verbunden, wo ein Flaggschiff, das nur 1900 MHz spricht, dunkel bleibt. Zweitens ist VIVAs Sieg eine Auszeichnung für die **Nutzererfahrung** und nicht für die Geschwindigkeit: Er ergibt sich aus Browsing, Video und Konsistenz, nicht aus dem Spitzendurchsatz.
 
-Für das landesweite Bild verzeichnet DataReportals Digital-Länderdossier 2026 einen medianen mobilen Download von **14,69 Mbps Ende 2025**, ein Anstieg von 3,43 Mbps im Jahresvergleich – eine **30,5 %**-Verbesserung auf niedriger Basis. Bolivien holt schnell auf; es ist nach wie vor der langsamste Markt in Südamerika.
+Für das landesweite Bild verzeichnet DataReportals Digital-Länderdossier 2026 einen medianen mobilen Download von **14,69 Mbps Ende 2025**, ein Anstieg von 3,43 Mbps im Jahresvergleich – eine **30,5 %**-Verbesserung auf niedriger Basis. Bolivien holt schnell auf; es ist nach wie vor der langsamste Markt in [Südamerika](/south-america-esim/).
 
 ### Die Geschwindigkeiten nach Stadt und Departement
 
@@ -152,20 +158,20 @@ Der sinnvolle Weg, das zu lesen, ist eher als Planungsregel und nicht als Verspr
 
 Die Netze in Bolivien sind auf Reichweite ausgelegt, nicht auf Geschwindigkeit, und das zeigt sich darin, welche Frequenzen den Datenverkehr tragen.
 
-| Technologie | Genutzte Frequenzbänder | Was es für Ihr Mobiltelefon bedeutet |
+| Funkstandard | Frequenzbereich | Bedeutung für Ihr Gerät |
 |:---|:---|:---|
 | 4G LTE (urbane Kapazität) | 1900 MHz (B2), 1700/2100 MHz AWS (B4), 2600 MHz (B7) | Nahezu jedes in den letzten sieben Jahren gekaufte internationale Mobiltelefon unterstützt alle drei |
 | 4G LTE (Reichweite) | 850 MHz (B5), 700 MHz (B28) | Die Bänder, die entscheiden, ob Sie beim Überqueren des Altiplano Empfang behalten – bei einem importierten oder Grauimport-Handy unbedingt prüfen |
 | 5G | Keine kommerzielle Nutzung | Ein 5G-Handy bringt Ihnen hier nichts; achten Sie stattdessen auf Frequenzbänder und Akku |
 | Legacy-Sprachtelefonie | 850/1900 MHz GSM | Sprachfallback in Kleinstädten und der Grund, warum eine Dual-SIM-Konfiguration weiterhin hilfreich ist |
 
-Zwei Prüfungen, bevor Sie etwas kaufen. Erstens: Stellen Sie sicher, dass das Telefon **netzbetreiber-entsperrt** ist – ein gesperrtes Handy ist der mit Abstand häufigste Grund, warum eine eSIM sich nicht installieren lässt, und kein Netzbetreiber in Bolivien kann das für Sie beheben. Zweitens: Bestätigen Sie Ihr genaues Modell, nicht den Marketingnamen, das die niedrigen Bänder unterstützt. [Unser eSIM-Kompatibilitätsprüfer](/compatibility/) erledigt beides in einer Abfrage, und wenn Sie die Mechanik dessen, was bei der Installation passiert, verstehen möchten, wird dies in den [Grundlagen der eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) behandelt.
+Zwei Prüfungen, bevor Sie etwas kaufen. Erstens: Stellen Sie sicher, dass das Telefon **netzbetreiber-entsperrt** ist – ein gesperrtes Handy ist der mit Abstand häufigste Grund, warum eine eSIM sich nicht installieren lässt, und kein Netzbetreiber in Bolivien kann das für Sie beheben. Zweitens: Bestätigen Sie Ihr genaues Modell, nicht den Marketingnamen, das die niedrigen Bänder unterstützt. Unser eSIM-Kompatibilitätsprüfer erledigt beides in einer Abfrage, und wenn Sie die Mechanik dessen, was bei der Installation passiert, verstehen möchten, wird dies in den [Grundlagen der eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) behandelt.
 
-## APN-Einstellungen
+## APN für bolivianische Leitungen von Hand setzen
 
 Die folgenden APN-Einstellungen betreffen nur diejenigen, die eine **direkt bei einem bolivianischen Netzbetreiber** gekaufte Leitung nutzen. Eine Reise-eSIM wird mit einem eigenen Profil und einem eigenen APN geliefert; in diesem Fall ist jedes Herumexperimentieren der sicherste Weg, eine funktionierende Verbindung zu beschädigen.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Bolivien-Netz | Zugangspunkt (APN) | Nutzer | Passwort |
 |:---|:---|:---|:---|
 | Entel | `internet.entel.bo` | leer | leer |
 | Tigo | `internet.tigo.bo` | leer | leer |
@@ -173,8 +179,7 @@ Die folgenden APN-Einstellungen betreffen nur diejenigen, die eine **direkt bei 
 
 Lassen Sie Benutzername und Passwort leer, sofern die zur Karte gehörige Aktivierungsanleitung nichts anderes angibt, und richten Sie sich bei abgelehnten Werten nach den Vorgaben der Konfigurationsseite Ihres Netzbetreibers.
 
-- **iPhone:** Einstellungen → Mobiles Netz → das soeben hinzugefügte Profil → Mobilfunknetz → APN. Benutzername und Passwort unverändert lassen.
-- **Android:** Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunkte → das **+** oben rechts → den unten angegebenen APN eintragen und speichern.
+- **iPhone:** Einstellungen → Mobiles Netz → das soeben hinzugefügte Profil → Mobilfunknetz → APN. Benutzername und Passwort unverändert lassen. - **Android:** Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunkte → das **+** oben rechts → den unten angegebenen APN eintragen und speichern.
 
 Speichern Sie die Einstellungen und starten Sie das Gerät neu. Falls die Datenverbindung weiterhin nicht funktioniert, prüfen Sie zunächst, dass die eSIM – und nicht Ihre heimische SIM-Karte – als Datenleitung ausgewählt ist, bevor Sie weitere Änderungen vornehmen. Bei Dual-SIM-Geräten liegt die Ursache für ein bolivianisches Profil, das sich nie aktiviert, häufiger in der falschen Dateneinstellung als in einem Netzproblem.
 
@@ -190,13 +195,13 @@ Bolivien ist einer der wenigen lateinamerikanischen Märkte, in denen ein lokale
 | Aktivierung | Personal aktiviert vor Ort. Aufladungen erfolgen über Rubbellose aus Supermärkten und Kiosken |
 | Konfigurieren | Prüfen Sie den APN direkt am Schalter, nicht erst zwei Stunden später in der Luft |
 
-Boliviens Netzbetreiber haben eSIM nur langsam für Prepaid- und Touristenverträge geöffnet, daher sollten Sie mit einer **physischen SIM-Karte** rechnen, wenn Sie vor Ort eine kaufen. Das ist ein echter struktureller Unterschied zu Chile, Peru oder Kolumbien, wo Besucher eine eSIM bequem in einer App selbst aktivieren können – und es ist das stärkste Einzelargument dafür, mit einem bereits installierten Reiseprofil anzukommen. Vergleichen Sie die Nachbarrouten in unserem [Peru-eSIM-Leitfaden](/carriers/peru-esim-carrier-guide/) und den [Chile-eSIM-Optionen](/chile-esim/), falls Bolivien ein Etappenziel einer längeren Anden-Rundreise ist.
+Boliviens Netzbetreiber haben eSIM nur langsam für Prepaid- und Touristenverträge geöffnet, daher sollten Sie mit einer **physischen SIM-Karte** rechnen, wenn Sie vor Ort eine kaufen. Das ist ein echter struktureller Unterschied zu Chile, Peru oder Kolumbien, wo Besucher eine eSIM bequem in einer App selbst aktivieren können – und es ist das stärkste Einzelargument dafür, mit einem bereits installierten Reiseprofil anzukommen. Vergleichen Sie die Nachbarrouten in unserem [Peru-eSIM-Leitfaden](/peru-esim/) und den [Chile-eSIM-Optionen](/chile-esim/), falls Bolivien ein Etappenziel einer längeren Anden-Rundreise ist.
 
-## Welchen Netzbetreiber sollten Sie wählen?
+## Welcher Netzbetreiber passt zu Ihrer Bolivien-Route?
 
 Bolivianische Datentarife sind auf Einheimische zugeschnitten und werden in Maßen verbraucht; das Risiko besteht nicht darin, bei einem Kurztrip in die Stadt das Datenvolumen aufzubrauchen, sondern bei einer mehrtägigen Tour ohne WLAN und ohne Empfang ohne Verbindung dazustehen.
 
-| Reise | Typische Dauer | Komfortables Datenvolumen | Warum |
+| Reiseroute | Typische Dauer | Komfortables Datenvolumen | Warum das Volumen passt |
 |:---|:---|:---|:---|
 | La Paz, El Alto und Tiwanaku | 3–4 Tage | 2–4 GB | Hotel- und Café-WLAN decken den Großteil des Bedarfs ab |
 | Uyuni-Salzwüste und Südwest-Rundreise | 4–5 Tage | 3–5 GB | Drei bis fünf Tage in einem 4x4, Offline-Karten laufen durchgehend |
@@ -229,7 +234,7 @@ Boliviens klassische Route ist eine Schleife durch drei Höhenlagen, und die Kon
 |:---|:---|:---|:---|
 | La Paz und El Alto | Stadt, Teleférico, zu Fuß | Dichtes 4G im Talkessel; dünner am Rand | Nichts — die am besten vernetzte Etappe der Reise |
 | La Paz nach Copacabana und zum Titicaca-See | Bus, anschließend Boot | Netzabdeckung in den Orten, Lücken auf dem Wasser | Fährzeiten und Buchungsreferenzen, als Screenshot gespeichert |
-| Copacabana nach Puno oder Cusco | Grenzübergang bei Kasani | Bolivianische Netzabdeckung endet an der Grenze | Ein Peru-Profil, falls die Reise weitergeht — siehe die [Peru-eSIM-Seite](/peru-esim/) |
+| Copacabana nach Puno oder Cusco | Grenzübergang bei Kasani | Bolivianische Netzabdeckung endet an der Grenze | Ein Peru-Profil, falls die Reise weitergeht — siehe die Peru-eSIM-Seite |
 | La Paz nach Oruro | Bus, 3–4 Stunden | Zwischen den Orten lückenhaft, an beiden Enden gut | Musik, Podcasts, einen heruntergeladenen Film |
 | Oruro nach Uyuni | Zug oder Bus | Dünne Netzabdeckung über das Altiplano hinweg | Offline-Karten für die Zufahrt zum Salar |
 | Uyuni und die Salzwüste | 4x4-Tour, 3–5 Tage | Auf den Salzwüsten selbst nichts | Kameraspeicher geleert, Powerbank geladen |
@@ -243,11 +248,9 @@ Ein struktureller Vorteil einer Multi-Netz-Bolivien-eSIM auf dieser Route liegt 
 
 Eine Reise-eSIM ist kein eigener Netzbetreiber. Sie unterhält Roaming-Vereinbarungen mit einem oder mehreren bolivianischen Betreibern, und das Telefon verbindet sich mit demjenigen, den das Profil nutzen darf und der aktuell das stärkere Signal liefert. Dieses eine Detail erklärt den größten Teil des Unterschieds zwischen einer reibungslosen Bolivien-Reise und einer frustrierenden.
 
-- **Multi-Netz-Profile** können auf einen zweiten Betreiber ausweichen, wenn der erste schwach ist — der eigentliche Vorteil auf dem Korridor La Paz–Oruro–Uyuni.
-- **Einzelnetz-Profile** binden Sie für die gesamte Reise an einen Netzbetreiber, was rund um Santa Cruz in Ordnung ist, auf dem Altiplano jedoch einschränkt.
-- **Manuelle Auswahl** in den Netzwerkeinstellungen Ihres Telefons ermöglicht es Ihnen, nach einer längeren Funkloch-Strecke einen Wechsel zu erzwingen.
+- **Multi-Netz-Profile** können auf einen zweiten Betreiber ausweichen, wenn der erste schwach ist — der eigentliche Vorteil auf dem Korridor La Paz–Oruro–Uyuni. - **Einzelnetz-Profile** binden Sie für die gesamte Reise an einen Netzbetreiber, was rund um Santa Cruz in Ordnung ist, auf dem Altiplano jedoch einschränkt. - **Manuelle Auswahl** in den Netzwerkeinstellungen Ihres Telefons ermöglicht es Ihnen, nach einer längeren Funkloch-Strecke einen Wechsel zu erzwingen.
 
-Prüfen Sie das Gerät zunächst anhand des [eSIM-Kompatibilitätsleitfadens](/compatibility/) und wählen Sie dann ein Profil, dessen Netzbetreiberliste Entel enthält — außerhalb der Städte ist dies der Name, der zählt.
+Prüfen Sie das Gerät zunächst anhand des eSIM-Kompatibilitätsleitfadens und wählen Sie dann ein Profil, dessen Netzbetreiberliste Entel enthält — außerhalb der Städte ist dies der Name, der zählt.
 
 ## Häufige Fragen zur eSIM in Bolivien
 
@@ -257,7 +260,7 @@ Realistisch gesehen, nein. Die Stadt Uyuni verfügt über Entel-basiertes 4G, da
 
 ### Bringt mein Telefon die nötige eSIM-Unterstützung mit?
 
-Ja, sofern das Telefon eSIM-fähig und entsperrt ist: iPhone XS und neuer, Google Pixel 3 und neuer sowie aktuelle Samsung-Galaxy-Modelle installieren ein bolivianisches Profil ohne Probleme. Da Bolivien mit 4G funkt, benötigen Sie kein 5G-Gerät. Die eine harte Ausnahme bilden iPhones für den chinesischen Festlandmarkt, denen eSIM auf Hardware-Ebene deaktiviert ist. Es lohnt sich, Ihr Modell vor dem Kauf mit der [Gerätekompatibilitätsliste](/compatibility/) abzugleichen.
+Ja, sofern das Telefon eSIM-fähig und entsperrt ist: iPhone XS und neuer, Google Pixel 3 und neuer sowie aktuelle Samsung-Galaxy-Modelle installieren ein bolivianisches Profil ohne Probleme. Ein Schnellcheck genügt: `*#06#` wählen — erscheint eine EID, kann das Gerät ein eSIM-Profil aufnehmen. Da Bolivien mit 4G funkt, benötigen Sie kein 5G-Gerät. Die eine harte Ausnahme bilden iPhones für den chinesischen Festlandmarkt, denen eSIM auf Hardware-Ebene deaktiviert ist. Es lohnt sich, Ihr Modell vor dem Kauf mit der Gerätekompatibilitätsliste abzugleichen.
 
 ### Welcher Betreiber bietet in Bolivien das beste 5G?
 
@@ -277,7 +280,7 @@ Nein. Das bolivianische Reise-Ökosystem — Busse, Hostels, Veranstalter, Resta
 
 ### Wie erzwinge ich die manuelle Netzwahl in Bolivien?
 
-Vergewissern Sie sich, dass Datenroaming auf der eSIM-Leitung aktiviert ist, und wählen Sie dann manuell ein Netz (Entel oder Tigo) aus, statt das Telefon auf Automatik zu lassen — einige Geräte hängen sich an einen schwächeren Betreiber und bleiben dort. Ein Neustart nach der ersten Registrierung löst die meisten verbleibenden Fälle. Immer noch nichts? Arbeiten Sie den [Leitfaden für Aktivierungsfehler](/faq/esim-activation-errors-troubleshooting-guide/) durch oder kontaktieren Sie den Support mit einem Screenshot des Fehlers.
+Vergewissern Sie sich, dass Datenroaming auf der eSIM-Leitung aktiviert ist, und wählen Sie dann manuell ein Netz (Entel oder Tigo) aus, statt das Telefon auf Automatik zu lassen — einige Geräte hängen sich an einen schwächeren Betreiber und bleiben dort. Ein Neustart nach der ersten Registrierung löst die meisten verbleibenden Fälle. Immer noch nichts? Arbeiten Sie den Leitfaden für Aktivierungsfehler durch oder kontaktieren Sie den Support mit einem Screenshot des Fehlers.
 
 ### Wie gut ist der Empfang am Titicacasee?
 
@@ -301,11 +304,11 @@ Gehen Sie nicht davon aus. Die bolivianischen Netzbetreiber waren langsam damit,
 
 ### Welche Frequenzbänder braucht mein Telefon in Bolivien?
 
-Für die Stadtversorgung — 1900 MHz (B2), 1700/2100 MHz AWS (B4) und 2600 MHz (B7) — und idealerweise 850 MHz (B5) sowie 700 MHz (B28), die die Versorgung im ländlichen Raum und auf dem Altiplano tragen. Die meisten gängigen internationalen Geräte verfügen über alle fünf Frequenzen. Der [eSIM-Kompatibilitätstest](/compatibility/) bestätigt dies für Ihr Gerät.
+Für die Stadtversorgung — 1900 MHz (B2), 1700/2100 MHz AWS (B4) und 2600 MHz (B7) — und idealerweise 850 MHz (B5) sowie 700 MHz (B28), die die Versorgung im ländlichen Raum und auf dem Altiplano tragen. Die meisten gängigen internationalen Geräte verfügen über alle fünf Frequenzen. Der eSIM-Kompatibilitätstest bestätigt dies für Ihr Gerät.
 
 ### Funktioniert eine Bolivien-eSIM auch in Peru und Chile?
 
-Ein Einzel-Land-Profil nicht; es wird an der Grenze dunkel, meist ohne Vorwarnung. Wenn die Reiseroute Bolivien mit Peru oder Chile verbindet, kaufen Sie einen Regionalplan oder ein separates Profil für jede Etappe. Unsere [Peru-eSIM-Seite](/peru-esim/) und der [Chile-eSIM-Leitfaden](/carriers/chile-esim-carrier-guide/) behandeln die angrenzenden Etappen.
+Ein Einzel-Land-Profil nicht; es wird an der Grenze dunkel, meist ohne Vorwarnung. Wenn die Reiseroute Bolivien mit Peru oder Chile verbindet, kaufen Sie einen Regionalplan oder ein separates Profil für jede Etappe. Unsere Peru-eSIM-Seite und der Chile-eSIM-Leitfaden behandeln die angrenzenden Etappen.
 
 ### Was kostet mobiles Datenvolumen in Bolivien?
 
@@ -343,7 +346,7 @@ Nur wenn sich das Profil erstmals in einem bolivianischen Netz registriert. Die 
 
 Ja — genau das ist der Sinn, die eSIM neben Ihrer physischen SIM zu betreiben. Ihre übliche Leitung bleibt für Anrufe und Einmal-Passwörter aktiv, das Profil Ihrer Bolivien-eSIM trägt die Daten, und die beiden stören sich nicht. Das Einzige, was Sie vor der Abreise prüfen sollten, ist, ob die SMS Ihrer Bank Sie überhaupt im Ausland erreicht, da dies Sache Ihres Heimatbetreibers und nicht des bolivianischen ist.
 
-### Lohnt sich eine lokale SIM statt einer Reise-eSIM?
+### Wann eine lokale SIM in Bolivien die bessere Wahl ist
 
 Allein nach dem Preis manchmal. Nach dem Zeitaufwand selten. Entel, Tigo und VIVA verlangen alle einen Reisepass und einen Registrierungsschritt für Prepaid, die Schalter haben begrenzte Öffnungszeiten, und die Warteschlangen in La Paz sind keine kleine Steuer auf eine zweiwöchige Reise. Das Reiseprofil kostet mehr pro Gigabyte und spart Ihnen den Nachmittag — und Bolivien hat noch kein kommerzielles 5G, sodass der Geschwindigkeitsvorteil eines lokalen Kaufs nahe null ist.
 
@@ -353,7 +356,7 @@ Allein nach dem Preis manchmal. Nach dem Zeitaufwand selten. Entel, Tigo und VIV
 
 ### Welche eSIM passt zu Kurz- oder Langzeitaufenthalt?
 
-Ein Profil deckt beides ab und verhält sich in beiden Fällen gleich: Eine Multi-Netz-[Bolivien-eSIM](/bolivia-esim/) verbindet sich in jedem Ort mit dem stärksten Signal von Entel, Tigo oder VIVA — das ist die beste verfügbare Annäherung an Kontinuität. Die Funklöcher auf der Salzfläche und in den Yungas sind Versorgungslücken in jedem Netz, keine eSIM-Ausfälle.
+Ein Profil deckt beides ab und verhält sich in beiden Fällen gleich: Eine Multi-Netz-Bolivien-eSIM verbindet sich in jedem Ort mit dem stärksten Signal von Entel, Tigo oder VIVA — das ist die beste verfügbare Annäherung an Kontinuität. Die Funklöcher auf der Salzfläche und in den Yungas sind Versorgungslücken in jedem Netz, keine eSIM-Ausfälle.
 
 ## Woher diese Zahlen stammen
 
@@ -373,11 +376,11 @@ Lesen Sie das als ein einziges Messfenster und nicht als ein Versprechen über d
 
 In Bolivien entscheidet die Netzabdeckung über alles. Das Telefon, das zwischen Uyuni und Potosí durchgehend funktioniert, ist dasjenige, das mit dem gerade nächstgelegenen Sendemast verbunden ist – und dieser Sendemast wechselt auf der Fahrt dreimal den Netzbetreiber.
 
-- [Bolivien eSIM-Tarife](/bolivia-esim/) – reine Daten-Tarife und Optionen mit unlimitiertem Datenvolumen
-- [Kostenlose Test-eSIM](/free-esim/) – nur für Neukunden
+- Bolivien eSIM-Tarife – reine Daten-Tarife und Optionen mit unlimitiertem Datenvolumen
+- Kostenlose Test-eSIM – nur für Neukunden
 
-[Bolivien-Tarif auswählen](/bolivia-esim/)
+Bolivien-Tarif auswählen
 
 *Dreißig Tage Gültigkeit, vor dem Abflug installiert*
 
-Vor Ihrer Reise: Führen Sie den [eSIM-Kompatibilitäts-Check](/compatibility/) durch, laden Sie sich die [kostenlose Multi-Netz-Testversion](/free-esim/) von Roami herunter, um die Netzabdeckung an Ihrem Aufenthaltsort zu testen, und halten Sie den Code **WEB20** bereit – er gibt Ihnen 20 % Rabatt auf jeden Roami-Tarif, sobald Sie sich entscheiden möchten.
+Vor Ihrer Reise: Führen Sie den eSIM-Kompatibilitäts-Check durch, laden Sie sich die kostenlose Multi-Netz-Testversion von Roami herunter, um die Netzabdeckung an Ihrem Aufenthaltsort zu testen, und halten Sie den Code **WEB20** bereit – er gibt Ihnen 20 % Rabatt auf jeden Roami-Tarif, sobald Sie sich entscheiden möchten.

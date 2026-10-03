@@ -184,6 +184,8 @@ Die Preise in diesem Markt bewegen sich ständig, und die Regalpreise an Kiosken
 
 Diese Tabellen sind es wert, gelesen zu werden. Jedes Touristenpaket hat eine **Mindestgültigkeit von 30 Tagen** – eine Option für drei Tage gibt es nicht. Die günstigen Einstiegspakete enthalten ein **geringes EU-Kontingent**, oft drei bis vier Gigabyte, was für einen Grenztag ausreicht, aber nicht für vierzehn Tage dänisches Roaming. Und die reinen Datentarife von Lebara schließen EU-Roaming vollständig aus, weshalb sie pro Gigabyte so günstig erscheinen.
 
+**Rechnung für eine Woche Dänemark.** Rechnen Sie mit rund zwei Gigabyte pro Tag, also etwa 14 GB für sieben Tage. Lebaras mittleres Paket liefert 10 GB für 49 DKK und reicht nur knapp, während Lycamobiles ALL-IN-ONE 30 GB für denselben Preis und mit EU-Kontingent liefert. Auf den Landesdurchschnitt von 0,69 USD pro GB aus der Cable.co.uk-Erhebung gerechnet, entsprechen 14 GB rund 9,70 USD reinem Datenwert. Genau in dieser Größenordnung liegt auch eine Dänemark-eSIM – nur dass das lokale Paket zusätzlich 30 Tage Mindestlaufzeit und einen Pass-Scan verlangt.
+
 
 
 ### Wo Sie eine Dänemark-eSIM kaufen können
@@ -226,7 +228,7 @@ Diese Tabellen sind es wert, gelesen zu werden. Jedes Touristenpaket hat eine **
 
 
 
-| Gerät oder Situation | Symptom | Maßnahme |
+| Endgerät oder Dänemark-Situation | Beobachtung | Empfohlene Maßnahme |
 
 |:---|:---|:---|
 
@@ -322,7 +324,7 @@ Die Flughäfen Billund und Aarhus bieten lediglich Käufe in Convenience-Stores 
 
 
 
-Vergleichen Sie das mit einer bereits vorbereiteten Ankunft. Eine zu Hause installierte Dänemark-eSIM kostet Sie am Flughafen nichts extra: Schalten Sie das Telefon beim Sinkflug in den Flugmodus, deaktivieren Sie ihn, und die Datenleitung registriert sich in einem dänischen Netz, noch bevor Sie die Passkontrolle erreichen. Die U-Bahn vom Flughafen nach Kongens Nytorv braucht vierzehn Minuten, und Sie werden funktionierende Wegbeschreibungen brauchen, bevor Sie einsteigen. Wenn Ihnen der Vorgang noch unbekannt ist, erklärt unser Leitfaden zur [eSIM-Aktivierung und Funktionsweise](/faq/what-is-esim-activation-and-how-does-it-work/), was Ihr Telefon beim Herunterladen eines Profils tut, und die [Schritt-für-Schritt-Aktivierungsanleitung](/faq/how-to-activate-an-esim/) führt Sie durch die exakten Menüs auf iOS und Android.
+Vergleichen Sie das mit einer bereits vorbereiteten Ankunft. Eine zu Hause installierte Dänemark-eSIM kostet Sie am Flughafen nichts extra: Schalten Sie das Telefon beim Sinkflug in den Flugmodus, deaktivieren Sie ihn, und die Datenleitung registriert sich in einem dänischen Netz, noch bevor Sie die Passkontrolle erreichen – die Netzregistrierung dauert nur Sekunden, weil das Profil bereits auf die Frequenzbänder eingestellt ist, die die Sendemasten entlang der Øresund-Küste ausstrahlen. Wer das Datenvolumen per Tethering an Laptop oder Tablet weitergibt, sollte ohnehin das größere Paket wählen. Die U-Bahn vom Flughafen nach Kongens Nytorv braucht vierzehn Minuten, und Sie werden funktionierende Wegbeschreibungen brauchen, bevor Sie einsteigen. Wenn Ihnen der Vorgang noch unbekannt ist, erklärt unser Leitfaden zur [eSIM-Aktivierung und Funktionsweise](/faq/what-is-esim-activation-and-how-does-it-work/), was Ihr Telefon beim Herunterladen eines Profils tut, und die [Schritt-für-Schritt-Aktivierungsanleitung](/faq/how-to-activate-an-esim/) führt Sie durch die exakten Menüs auf iOS und Android.
 
 
 
@@ -395,6 +397,8 @@ Die Wahl des Netzbetreibers unterscheidet die Optionen kaum. Die Reiseroute tut 
 | Nordische Runde — Kopenhagen, Oslo, Stockholm | Europaweiter oder nordischer Tarif | Norwegen gehört zum EWR, daher kann eine dänische SIM-Karte dort ohne Roaminggebühren genutzt werden; ein nordischer Reise-Tarif ermöglicht dies ebenfalls ohne Formalitäten | Die nordischen Länder gelten bei Reise-Tarifen nicht als ein einziges Land |
 
 | Geschäftsreise mit täglichen Videoanrufen | Jedes Netz; prüfen Sie das EU-Kontingent | Telia ist am schnellsten und YouSee hat die geringste Latenz unterwegs | Hotel- und Konferenz-WLAN ist oft schneller als Mobilfunk – nutzen Sie beides |
+
+**Wann eine lokale SIM doch besser ist.** Bleiben Sie länger als einen Monat, benötigen Sie eine dänische Rufnummer für Behördenpost, Vermieter oder Bank oder verbringen Sie fast die ganze Zeit in einer einzigen Stadt, dann schlägt eine registrierte Lebara- oder Lycamobile-Karte die Reise-eSIM pro Gigabyte klar. Dieser Leitfaden hilft Ihnen dann bei Netz- und Anbieterwahl, ersetzt aber nicht den Gang zum Schalter mit Reisepass.
 
 
 
@@ -500,7 +504,7 @@ Dänemarks Geografie macht Grenzübertritte zur Routine statt zur Ausnahme, und 
 
 
 
-**Polen und die baltischen Staaten**, falls Ihre Route südlich oder östlich durch den Kontinent führt, sind gewöhnliches EU-Gebiet für eine in Dänemark ausgegebene Leitung und gewöhnliches Länderlisten-Gebiet für einen Reise-Tarif – siehe [Polen eSIM-Optionen](/europe-esim/) unter den europaweiten Vergleichen, wenn Ihre Route länger ist.
+**Polen und die baltischen Staaten**, falls Ihre Route südlich oder östlich durch den Kontinent führt, sind gewöhnliches EU-Gebiet für eine in Dänemark ausgegebene Leitung und gewöhnliches Länderlisten-Gebiet für einen Reise-Tarif – siehe die europaweiten Vergleiche zu eSIM-Optionen für Polen, wenn Ihre Route länger ist.
 
 
 
@@ -650,7 +654,7 @@ Nein. Kopenhagens Cafés, U-Bahn-Stationen und Bibliotheken bieten kostenloses W
 
 
 
-Arbeiten Sie die vier Muster oben der Reihe nach ab – Datenleitungsauswahl, den Øresund-ähnlichen Footprint-Check, Kontingentstatus und dann das Zurücksetzen der Netzwahl – und falls die Leitung sich weiterhin nicht registriert, deckt der umfassendere Fehlerkatalog im [Fehlerbehebung-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Zuerst EID und Bestellnummer, dann den Support kontaktieren.
+Arbeiten Sie die vier Muster oben der Reihe nach ab – Datenleitungsauswahl, den Øresund-ähnlichen Footprint-Check, Kontingentstatus und dann das Zurücksetzen der Netzwahl – und falls die Leitung sich weiterhin nicht registriert, deckt der umfassendere Fehlerkatalog im Fehlerbehebungs-Leitfaden den Rest ab. Zuerst EID und Bestellnummer, dann den Support kontaktieren.
 
 
 
@@ -662,7 +666,7 @@ Jede Messung auf dieser Seite geht auf einen von drei primären Datensätzen zur
 
 
 
-Zwei weitere Quellen, oben nicht verlinkt:
+Zwei weitere dänische Quellen, oben nicht verlinkt:
 
 
 
@@ -682,9 +686,9 @@ Die Zahlen sind Messungen Dritter und verändern sich von Monat zu Monat. Ihr Ge
 
 
 
-Ein einzelnes Profil zu Hause ersetzt die Warteschlange am Flughafen, den Pass-Scan und die Auflad-Routine vollständig. [Roamis Dänemark-Tarife](/denmark-esim/) decken die vier nationalen Netze mit automatischer Umschaltung ab, und Sie können den gesamten Ablauf mit einer [kostenlosen Testversion](/free-esim/) überprüfen, bevor Sie bezahlen. Landen Sie verbunden; verbringen Sie die Reise mit Schlössern, nicht mit Kiosken.
+Ein einzelnes Profil zu Hause ersetzt die Warteschlange am Flughafen, den Pass-Scan und die Auflad-Routine vollständig. [Roamis Dänemark-Tarife](/denmark-esim/) decken die vier nationalen Netze mit automatischer Umschaltung ab, und Sie können den gesamten Ablauf mit einer kostenlosen Testversion überprüfen, bevor Sie bezahlen. Landen Sie verbunden; verbringen Sie die Reise mit Schlössern, nicht mit Kiosken.
 
 
 
-Richten Sie es auf jeden Fall vor der Abreise ein: prüfen Sie Ihr Gerät mit dem [Kompatibilitäts-Checker](/compatibility/), testen Sie den [gratis Abdeckungstest](/free-esim/) von Roami, und geben Sie **WEB20** an der Kasse ein, wenn Sie später auf einen vollständigen Roami-Tarif für Dänemark upgraden.
+Richten Sie es auf jeden Fall vor der Abreise ein: prüfen Sie Ihr Gerät mit dem [Kompatibilitäts-Checker](/compatibility/), testen Sie den gratis Abdeckungstest von Roami, und geben Sie **WEB20** an der Kasse ein, wenn Sie später auf einen vollständigen Roami-Tarif für Dänemark upgraden.
 

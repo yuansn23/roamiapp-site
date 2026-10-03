@@ -28,7 +28,7 @@ Diese Seite führt Sie Schritt für Schritt durch genau die Entscheidungen, die 
 
 Die Netzbetreiberzahlen auf dieser Seite stammen aus dem [H2-2025-Kolumbien-Bericht von Ookla](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025).
 
-| Ihre Tarife | Empfohlener Netzbetreiber | Was ihn zur Empfehlung macht |
+| Ihre Kolumbien-Reise | Passendes Netz | Was dafür spricht |
 |:---|:---|:---|
 | Rundum-Reisen: Bogotá, Medellín, die Küste | Claro | Bestes Mobilfunknetz insgesamt, beste Konstanz und die überwältigende Mehrheit der 5G-Standorte des Landes. |
 | Starke 5G-Nutzung in versorgten Städten | Tigo | Schnellstes 5G im Land (297,43 Mbps mittlerer Download, 39 ms Latenz) innerhalb der städtischen Versorgungsgebiete. |
@@ -70,7 +70,7 @@ Der kolumbianische Mobilfunkmarkt hat eine strukturelle Tatsache, die es vor jed
 | 5G-Latenz | — | 39 ms | — | — |
 | Konsistenz | **85 %** | — | — | — |
 | 5G-Konsistenz | — | **93,2 %** | — | — |
-| Vi Video-Streaming-Bewertung | — | — | — | **75.84** (bester) |
+| Video-Streaming-Bewertung | — | — | — | **75,84** (beste) |
 | Spiel-Score | **72,50** (bester) | — | — | — |
 | 5G Game Score | **78.33** (bester) | — | — | — |
 
@@ -82,7 +82,7 @@ Die praktische Übersetzung: Bei einer Reise-eSIM in Kolumbien ist es weniger wi
 
 Ookla misst zehn kolumbianische Städte im Detail. Das Muster ist eine Medellín–Bogotá-Achse, die der Küste deutlich voraus ist — das Gegenteil dessen, was die meisten Besucher über eine strandorientierte Reiseroute annehmen.
 
-| Stadt | Mittlerer Download | Upload | Latenz | Konsistenz | Schnellster Netzbetreiber |
+| Kolumbianische Stadt | Median-Download | Upload | Latenz | Konstanz | Schnellstes Netz |
 |:---|:---|:---|:---|:---|:---|
 | Envigado | **54,76 Mbps** | 16,3 Mbps | 48,99 ms | 88,4 % | Claro |
 | Medellín | 50,72 Mbps | 16,47 Mbps | 51,84 ms | 87,2 % | Claro |
@@ -103,7 +103,7 @@ Die regionale Tabelle zeigt, wie sehr die Geografie des Landes die Werte prägt.
 
 | Abteilung | Mittlerer Download | Konstanz | Schnellster Anbieter |
 |:---|:---|:---|:---|
-| Bogotá | **43.5 Mbps** | 86.5% | Claro |
+| Bogotá | **43,5 Mbps** | 86,5 % | Claro |
 | Antioquia | 36,58 Mbps | 84,6 % | Claro |
 | Quindío | 34.94 Mbps | 84,9 % | Claro |
 | Risaralda | 33,65 Mbps | 84,8 % | Claro |
@@ -126,13 +126,15 @@ Die Kaffeeregion — Quindío, Risaralda und Caldas — ist die Überraschung: S
 
 Kolumbien verlangt für die SIM-Aktivierung eine Identitätsregistrierung — vor Ort bedeutet das, einen Reisepass in einer Filiale des Netzbetreibers oder bei einem autorisierten Händler vorzulegen, ein Vorgang, den Reisende typischerweise in Bogotá oder Medellín am ersten oder zweiten Tag erledigen. Manche Wege erfordern zusätzlich ein Selfie oder eine Adressbestätigung. Es funktioniert, kostet aber einen halben Tag.
 
-Über eine Kolumbien-eSIM aus dem Ausland entfällt der Gang zum Schalter komplett: Das Profil wird vor der Abreise ausgestellt und installiert und aktiviert sich bei der Ankunft. Lassen Sie die Heim-SIM für SMS-Codes aktiv, leiten Sie mobile Daten über die eSIM und halten Sie Roaming auf Ihrer regulären Leitung ausgeschaltet — die vollständige Anleitung finden Sie im [eSIM-Aktivierungs-Leitfaden](/faq/what-is-esim-activation-and-how-does-it-work/). Wer sich nicht sofort festlegen möchte, kann [mit einer kostenlosen Test-eSIM starten](/free-esim/) und sich danach entscheiden.
+Über eine Kolumbien-eSIM aus dem Ausland entfällt der Gang zum Schalter komplett: Das Profil wird vor der Abreise ausgestellt und installiert und aktiviert sich bei der Ankunft. Lassen Sie die Heim-SIM für SMS-Codes aktiv, leiten Sie mobile Daten über die eSIM und halten Sie Roaming auf Ihrer regulären Leitung ausgeschaltet — die vollständige Anleitung finden Sie im [eSIM-Aktivierungs-Leitfaden](/faq/what-is-esim-activation-and-how-does-it-work/). Wer sich nicht sofort festlegen möchte, kann mit einer kostenlosen Test-eSIM starten und sich danach entscheiden.
 
-💡 Da kein einzelner kolumbianischer Netzbetreiber überall gewinnt, ist die praktische Wahl ein Profil mit Zugriff auf mehrere Netze: Die [Roami Colombia eSIM](/colombia-esim/) bindet sich automatisch jeweils an den stärksten verfügbaren Netzbetreiber an, wenn Sie zwischen Bogotá, der Kaffeeregion und der Karibikküste unterwegs sind.
+**Die ersten dreißig Minuten in El Dorado.** Immigration, Gepäckband, Ausgang — erst dort stellt sich die Mobilfunkfrage, und dort trennt sich der Reisende mit fertigem Profil von dem ohne. Ist Ihre Kolumbien eSIM bereits zu Hause im WLAN scharf geschaltet worden, geht es vom Flughafen mit Karte und Fahrdienst-App direkt zur Unterkunft. Wer erst vor Ort kauft, sucht den Claro-Schalter in der Ankunftshalle; Reisepass und Registrierung sind Pflicht, und die Warteschlange kostet mehr Zeit als der eigentliche Kauf. Plan B ist das WLAN im Terminal — von dort aus bestellen Sie online ein Profil und aktivieren es erst im Hotelzimmer.
+
+💡 Da kein einzelner kolumbianischer Netzbetreiber überall gewinnt, ist die praktische Wahl ein Profil mit Zugriff auf mehrere Netze: Unsere Roami Colombia eSIM bindet sich automatisch jeweils an den stärksten verfügbaren Netzbetreiber an, wenn Sie zwischen Bogotá, der Kaffeeregion und der Karibikküste unterwegs sind.
 
 ## Preise und Geschwindigkeiten als Referenz
 
-Preistabellen veralten schnell, deshalb ist das aktuelle Kolumbien-Angebot auf der [Colombia eSIM-Seite](/colombia-esim/) zu finden und nicht hier eingefroren. Was die öffentlichen Daten liefern, ist der lokale Vergleichsmaßstab: Was Daten in Kolumbien kosten und wie schnell die Netze tatsächlich sind.
+Preistabellen veralten schnell, deshalb steht das aktuelle Kolumbien-Angebot auf der Colombia eSIM-Seite und nicht eingefroren in diesem Artikel. Was die öffentlichen Daten liefern, ist der lokale Vergleichsmaßstab: Was Daten in Kolumbien kosten und wie schnell die Netze tatsächlich sind.
 
 Der nationale Median Kolumbiens liegt bei **45,46 Mbps**, weltweit auf Platz **83** mit 26 ms Latenz, laut Ookla Globalem Index von August 2026 — unter dem weltweiten Wert von 109,05 Mbps. Genau diese nationale Kennzahl übernimmt eine Colombia eSIM.
 
@@ -142,7 +144,7 @@ DataReportal weist zu Beginn 2025 41,1 Millionen kolumbianische Internetnutzer (
 
 ## Welcher Netzbetreiber in welcher Stadt gewinnt
 
-| Reiseziel | Bester Netzbetreiber | Warum es funktioniert |
+| Reiseziel | Stärkster Netzbetreiber | Was dafür spricht |
 |:---|:---|:---|
 | Bogotá | Claro | Die tiefste 5G-Durchdringung aller kolumbianischen Städte, und die allgemeine Geschwindigkeitsführung von Claro setzt sich in der Hauptstadt fort. Die Höhe beeinträchtigt das Signal nicht, aber die Netzüberlastung – in Stoßzeiten ist mit Verlangsamung zu rechnen. |
 | Medellín & Envigado | Claro, Tigo | Envigado verzeichnet den schnellsten städtischen Median im Land (54,76 Mbps), und der 5G-Anteil im Großraum Claro ist der größte; Tigo ergänzt das schnellste rohe 5G, wo es verfügbar ist. |
@@ -169,7 +171,7 @@ Der Alltag in Kolumbien dreht sich um zwei Dinge, auf die sich Reisende einstell
 
 ## Welche Frequenzbänder eine Kolumbien-eSIM vom Gerät benötigt
 
-| Technologie | Genutzte Frequenzbänder | Was dies für Ihr Mobiltelefon bedeutet |
+| Netztechnik in Kolumbien | Frequenzbänder | Was das für Ihr Handy heißt |
 |:---|:---|:---|
 | 4G LTE (Kapazität) | 1900 MHz (B2), 1700/2100 MHz AWS (B4) | Beide sind bei international verkauften Mobiltelefonen nahezu universell verfügbar |
 | 4G LTE (Reichweite) | 700 MHz (B28), 2600 MHz (B7) | B28 sorgt für Netzabdeckung in ländlichen Gebieten und an der Küste – bei einem Importgerät lohnt sich ein Blick darauf |
@@ -178,11 +180,11 @@ Der Alltag in Kolumbien dreht sich um zwei Dinge, auf die sich Reisende einstell
 
 Die Kompatibilität ist eine Frage mit zwei Teilen: Verfügt das Handy über die nötigen Frequenzbänder, und ist es für jeden Netzbetreiber freigeschaltet? Ein Telefon, das auf einen ausländischen Netzbetreiber gesperrt ist, weigert sich komplett, das Profil anzunehmen, und kein kolumbianischer Anbieter kann helfen. Die [eSIM-Kompatibilitätsliste](/compatibility/) beantwortet beides auf einen Schlag, und die [Erklärung zur eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) erläutert, was bei der Installation passiert.
 
-## Der APN-Schritt
+## APN bei einer kolumbianischen SIM von Hand setzen
 
 Dies ist nur relevant für eine kolumbianische SIM-Karte, die direkt am Schalter des Netzbetreibers gekauft wurde. Eine Reise-eSIM liefert ihren eigenen APN mit, und ein Ändern würde eine funktionierende Verbindung zerstören.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 |:---|:---|:---|:---|
 | Claro Kolumbien | `internet.claro.com.co` | leer | leer |
 | Movistar Kolumbien | `internet.movistar.com.co` | leer | leer |
@@ -196,7 +198,7 @@ Aggregator-Webseiten listen mehrere Varianten für Movistar und Tigo auf; wird e
 
 Speichern und neu starten. Anschließend bestätigen, dass die eSIM und nicht die physische SIM für mobile Daten ausgewählt ist – ein sehr häufiger Grund für „der Tarif funktioniert, aber es lädt nichts“ bei kolumbianischen Dual-SIM-Konfigurationen.
 
-## Lokale SIM oder Reise-eSIM im Kostenvergleich
+## Lokale kolumbianische SIM oder Reise-eSIM: was am Ende günstiger ist
 
 | Schritt | Was passiert |
 |:---|:---|
@@ -225,17 +227,17 @@ Egal welche Basis Sie nutzen, behandeln Sie mobile Daten als Backup zum Festnetz
 
 **Nichts wird installiert.** Überprüfen Sie zuerst den Netzbetreiber-Lock-Status des Geräts und fragen Sie dann, ob der QR-Code bereits eingelöst wurde. Ein abbezahltes Handy, das im Ausland im Vertrag gekauft wurde, ist der übliche Übeltäter.
 
-**Installation erfolgt, aber keine Balken.** Die automatische Einwahl in kolumbianische Netze bleibt manchmal an einer Zelle hängen, die sie nicht halten kann. Aktivieren Sie den Flugmodus für fünfzehn Minuten und wählen Sie danach manuell aus der Netzliste — Claro, Tigo, Movistar oder WOM. Ein Gerät, das gerade eine Departementsgrenze überquert hat, benötigt beim ersten Scan etwas mehr Zeit als üblich.
+**Installation erfolgt, aber keine Balken.** Die automatische Einwahl in kolumbianische Netze bleibt manchmal an einer Funkzelle hängen, die sie nicht halten kann. Aktivieren Sie den Flugmodus für fünfzehn Minuten und wählen Sie danach manuell aus der Netzliste — Claro, Tigo, Movistar oder WOM. Ein Gerät, das gerade eine Departementsgrenze überquert hat, benötigt beim ersten Scan etwas mehr Zeit als üblich.
 
 **Balken vorhanden, aber kein Internet.** Drei Ursachen, in der Reihenfolge ihrer Wahrscheinlichkeit: Die eSIM ist nicht die ausgewählte Datenleitung, Datenroaming ist für diese Leitung deaktiviert oder der APN ist bei einem lokal gekauften Profil falsch. Überprüfen Sie sie in dieser Reihenfolge.
 
 **„Nur Notrufe“.** Zwei Profile teilen sich nicht friedlich ein Funkmodul. Entfernen Sie das zweite Profil, starten Sie neu, setzen Sie die Netzwerkeinstellungen zurück und planen Sie eine Neuinstallation mit einem frischen Code für den Schluss der Liste ein.
 
-Größere Aktivierungsfehler – ein Profil, das nur halb heruntergeladen wird, ein fehlgeschlagener Scan – sind in [unserem Leitfaden zur Fehlerbehebung bei der eSIM-Aktivierung](/faq/esim-activation-errors-troubleshooting-guide/) aufgeführt. Wenn Sie noch überlegen, ob Sie überhaupt mit einem Profil reisen sollen, können Sie mit einer [kostenlosen Test-eSIM](/free-esim/) die Installation vor dem Kauf von Anfang bis Ende testen.
+Größere Aktivierungsfehler – ein Profil, das nur halb heruntergeladen wird, ein fehlgeschlagener Scan – sind in [unserem Leitfaden zur Fehlerbehebung bei der eSIM-Aktivierung](/faq/esim-activation-errors-troubleshooting-guide/) aufgeführt. Wenn Sie noch überlegen, ob Sie überhaupt mit einem Profil reisen sollen, können Sie mit einer kostenlosen Test-eSIM die Installation vor dem Kauf von Anfang bis Ende testen.
 
 ## Wie viel Datenvolumen Ihre Reise braucht
 
-| Reise | Typische Dauer | Komfortables Datenvolumen | Grund |
+| Kolumbien-Reise | Typische Dauer | Sinnvolles Datenvolumen | Warum so viel |
 |:---|:---|:---|:---|
 | Städtetrip nach Bogotá | 3–4 Tage | 3–5 GB | Das Hotel-WLAN erledigt den Großteil der Arbeit |
 | Medellín und Antioquia | 5–7 Tage | 5–8 GB | Fahrdienste, Karten und jede Menge Fotos synchronisieren |
@@ -247,6 +249,8 @@ Größere Aktivierungsfehler – ein Profil, das nur halb heruntergeladen wird, 
 ## Warum lokale Daten günstig sind und eSIM-Preise abweichen
 
 Der kolumbianische Prepaid-Markt vor Ort ist umkämpft — Claro, Tigo, Movistar und WOM buhlen um denselben Prepaid-Kunden — daher liegen die Preise pro Gigabyte deutlich unter dem, was eine Reise-eSIM verlangt. Der Kompromiss ist Zeit und Papierarbeit, nicht Qualität: Dasselbe Netzwerk, an das Sie sich als Besucher anbinden, nutzen auch die Einwohner. Wenn Ihre Reise zwei Wochen dauert, ist die Bequemlichkeit des Reiseprofils den Aufpreis wert. Wenn Sie länger bleiben, besorgen Sie sich eine lokale SIM und behalten Sie die eSIM als Ausweichoption.
+
+**Rechnung: Roaming, lokale SIM oder Reiseprofil.** Für eine Woche mit 2 GB pro Tag verbrauchen Sie etwa 14 GB. Kolumbianisches Prepaid kostet laut Cable.co.uk im Schnitt 0,20 USD pro Gigabyte, also rund 2,80 USD für die gesamte Woche – der zehnte Platz von 237 Märkten. Das Roaming Ihres Heimatanbieters kostet demgegenüber ein Vielfaches: Wer im Ausland surft, zahlt erfahrungsgemäß leicht das Zehnfache des kolumbianischen Preises. Eine Reise-eSIM liegt dazwischen – mehr als die lokale SIM, weit weniger als Roaming, und verfügbar, bevor das Flugzeug rollt. Der Aufpreis gegenüber der lokalen Prepaid-Karte ist schlicht der Preis für den entfallenen Schalterbesuch.
 
 ### Ist Claro die einzige sinnvolle Wahl für eine Kolumbien-eSIM?
 
@@ -260,7 +264,7 @@ Besser als der Landesdurchschnitt vermuten lässt. Quindío verzeichnet einen Me
 
 Ein kolumbienspezifisches Profil gilt nur innerhalb Kolumbiens und nirgendwo sonst. Die beiden Grenzübergänge, die Reisende überraschen, sind die Rumichaca-Brücke nach Ecuador sowie die Luft- und Seerouten Cartagena–Panama — beides häufige Verlängerungen einer kolumbianischen Reiseroute, und beides beendet einen reinen Kolumbien-Tarif in dem Moment, in dem Sie die Grenze überqueren.
 
-Wenn die Reise weitergeht, wählen Sie einen von drei Wegen: pro Etappe ein Länderprofil hinzufügen, einen regionalen Südamerika-Tarif kaufen oder eine zweite eSIM-Leitung installiert lassen und die Datenleitung in den Einstellungen beim Reisen wechseln. Unsere [Ecuador-eSIM-Seite](/ecuador-esim/), der [Panama-eSIM-Leitfaden](/carriers/panama-esim-carrier-guide/) und die [Peru-eSIM-Tarife](/peru-esim/) decken die üblichen Verlängerungen ab.
+Wenn die Reise weitergeht, wählen Sie einen von drei Wegen: pro Etappe ein Länderprofil hinzufügen, einen regionalen Mehrländer-Tarif für Südamerika kaufen oder eine zweite eSIM-Leitung installiert lassen und die Datenleitung in den Einstellungen beim Reisen wechseln. Unsere [Ecuador-eSIM-Seite](/ecuador-esim/), der [Panama-eSIM-Leitfaden](/carriers/panama-esim-carrier-guide/) und die [Peru-eSIM-Tarife](/peru-esim/) decken die üblichen Verlängerungen ab.
 
 ## Häufige Fragen zur Kolumbien-eSIM
 
@@ -278,7 +282,7 @@ Ja, mit Reisepass und einem persönlichen Besuch in einer Filiale oder bei einem
 
 ### Verlangt Kolumbien besondere Frequenzbänder?
 
-Kolumbien verlangt nichts Außergewöhnliches von einem Endgerät: Seine 4G- und 5G-Schichten, einschließlich 700-MHz-LTE und n78, werden von gängigen internationalen Modellen unterstützt. Der [Kompatibilitätstest](/compatibility/) bestätigt Ihr genaues Modell mit einer einzigen Suche.
+Kolumbien verlangt nichts Außergewöhnliches von einem Endgerät: Seine 4G- und 5G-Schichten, einschließlich 700-MHz-LTE und n78, werden von gängigen internationalen Modellen unterstützt. Der Kompatibilitätstest bestätigt Ihr genaues Modell mit einer einzigen Suche.
 
 ### Kann man sich in Kolumbien auf WhatsApp-Anrufe verlassen?
 
@@ -290,7 +294,7 @@ Karten, Ride-Hailing, soziale Medien und tägliche Videoanrufe passen bequem in 
 
 ### Wie gut ist Kolumbiens 5G im Vergleich?
 
-Ja, und zwar wettbewerbsfähig, nicht außergewöhnlich. Tigo führt bei 5G mit einem Median von 297,43 Mbps Download und einem 5G Speed Score von 65,27, vor Movistar mit 280,72 Mbps. Ookla fand keinen statistischen Unterschied zwischen den Anbietern beim gesamten 5G Connectivity Score, was bedeutet, dass das Feld eng beieinander liegt und Ihr Erlebnis eher vom Standort als von der Marke abhängt.
+Durchaus wettbewerbsfähig, wenn auch nicht außergewöhnlich. Tigo führt bei 5G mit einem Median von 297,43 Mbps Download und einem 5G Speed Score von 65,27, vor Movistar mit 280,72 Mbps. Ookla fand keinen statistischen Unterschied zwischen den Anbietern beim gesamten 5G Connectivity Score, was bedeutet, dass das Feld eng beieinander liegt und Ihr Erlebnis eher vom Standort als von der Marke abhängt.
 
 ### Welches Netz die sicherste Wahl ist
 
@@ -308,7 +312,7 @@ Cartagenas Median von 33,92 Mbps und 70,11 ms Latenz sind die schwächsten im Ze
 
 Ja — eine kolumbianische Prepaid-Leitung wird beim Verkauf gegen ein Ausweisdokument registriert, und für einen Besucher ist der Reisepass das entsprechende Dokument. Es gibt keinen legalen anonymen Weg, was einer der Gründe ist, warum eine Reise-eSIM für eine kurze Reise die schnellere Option ist.
 
-### Die APN-Werte der drei Netzbetreiber
+### APN für Claro, Movistar und Tigo in Kolumbien
 
 Claro verwendet `internet.claro.com.co`, Movistar `internet.movistar.com.co` und Tigo `internet`, mit leerem Benutzernamen und Passwort bei allen dreien. WOM überträgt sein Profil automatisch. Sie brauchen dies nur, wenn Sie die Leitung von einem kolumbianischen Netzbetreiber gekauft haben — eine Reise-eSIM konfiguriert sich selbst.
 
@@ -326,7 +330,7 @@ In Bogotá und Medellín ja — bequem. Bogotás Latenz von 36,83 ms macht sie z
 
 ### Wie Sie in Leticia und am Pazifik verbunden bleiben
 
-Kein separates Profil, sondern ein größeres Datenvolumen und geringere Erwartungen. Leticia am Amazonas und die Pazifikstädte um Bahía Solano laufen auf dünnerer Infrastruktur als das Landesinnere, mit Netzabdeckung konzentriert in Siedlungen und nichts dazwischen. Eine Mehrnetz-[Kolumbien-eSIM](/colombia-esim/) verbindet sich überall, wo ein Mast steht; dazwischen sind Offline-Karten der einzige funktionierende Plan.
+Kein separates Profil, sondern ein größeres Datenvolumen und geringere Erwartungen. Leticia am Amazonas und die Pazifikstädte um Bahía Solano laufen auf dünnerer Infrastruktur als das Landesinnere, mit Netzabdeckung konzentriert in Siedlungen und nichts dazwischen. Eine Mehrnetz-Kolumbien-eSIM verbindet sich überall, wo ein Mast steht; dazwischen sind Offline-Karten der einzige funktionierende Plan.
 
 ### Funktioniert Tethering mit der eSIM?
 
@@ -346,11 +350,11 @@ Ja, und es lohnt sich. Behalten Sie Anrufe und Einmal-Codes auf der physischen S
 
 ### Ist eine Claro-Prepaid-Karte preislich besser als ein Reiseprofil?
 
-Kolumbianische Prepaid-Daten sind wirklich günstig — rund 0,20 USD pro Gigabyte, der zehnte Platz von 237 Märkten — daher spricht die Rechnung für eine lokale Karte, wenn Sie die Geduld für einen Claro- oder Tigo-Schalter und eine Reisepassregistrierung mitbringen. Das Reiseprofil verliert auf dem Papier und gewinnt bei der Ankunft: Eine [Kolumbien-eSIM](/colombia-esim/), die Claro, Tigo, Movistar und WOM erreicht, bedeutet keine Warteschlange und kein Einzelnetzbetreiber-Risiko.
+Kolumbianische Prepaid-Daten sind wirklich günstig — rund 0,20 USD pro Gigabyte, der zehnte Platz von 237 Märkten — daher spricht die Rechnung für eine lokale Karte, wenn Sie die Geduld für einen Claro- oder Tigo-Schalter und eine Reisepassregistrierung mitbringen. Das Reiseprofil verliert auf dem Papier und gewinnt bei der Ankunft: Eine Kolumbien-eSIM, die Claro, Tigo, Movistar und WOM erreicht, bedeutet keine Warteschlange und kein Einzelnetzbetreiber-Risiko.
 
 ### Wie Sie Datenvolumen unterwegs nachladen
 
-Laden Sie über das Dashboard des Anbieters auf und behalten Sie dieselbe Installation. Ein paar Minuten im städtischen WLAN stellen das Datenvolumen wieder her, und nichts am Profil, am APN oder an der Netzwerkauswahl ändert sich. Wenn Sie lieber vorher testen möchten, deckt eine [kostenlose Test-eSIM](/free-esim/) die ersten Reisetage ab, ohne sich auf einen Tarif festzulegen.
+Laden Sie über das Dashboard des Anbieters auf und behalten Sie dieselbe Installation. Ein paar Minuten im städtischen WLAN stellen das Datenvolumen wieder her, und nichts am Profil, am APN oder an der Netzwerkauswahl ändert sich. Wenn Sie lieber vorher testen möchten, deckt eine kostenlose Test-eSIM die ersten Reisetage ab, ohne dass Sie sich auf einen Tarif festlegen.
 
 ## Unsere kolumbianischen Quellen im Detail
 
@@ -366,8 +370,8 @@ Alle fünf sind Drittquellen und zeitlich datiert. Sie vergleichen Kolumbien gut
 
 Ein Mehrnetz-Profil, das Claro, Tigo und Movistar erreicht, beantwortet die Netzwerkfrage, wohin die Reise auch geht — Bogotá-Boardroom, Finca in der Kaffeeregion oder Karibikküste.
 
-1. [Siehe die Kolumbien-eSIM-Tarife](/colombia-esim/)
-2. [Kolumbien-eSIM kostenlos testen](/free-esim/) — Neukunden
+1. Siehe die Kolumbien-eSIM-Tarife für Ihre Reisedauer
+2. Kolumbien-eSIM kostenlos testen — Neukunden
 
 [Meine Kolumbien-eSIM holen](/colombia-esim/)
 

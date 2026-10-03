@@ -18,9 +18,9 @@ hero_subtitle_main: "Telia, Tele2 und Telenor Schweden — was die aktuellen Net
 
 Schweden vereint zwei Extreme, die für Ihre Schweden-eSIM wichtig sind: ein 5G-Netz, das zu den besten Europas zählt, und Distanzen im Norden, die einen ganzen Nachmittag an Empfang verschlingen können. Telenor holte die Titel Bestes Mobilfunknetz und Bestes 5G-Netz im [Ookla Speedtest Konnektivitätsbericht für Schweden, 1. Halbjahr 2025](https://www.ookla.com/research/reports/sweden-speedtest-connectivity-report-h1-2025) mit einem medianen 5G-Download von **234,94 Mbps**; Stockholm selbst erreichte **263,63 Mbps** im Median mobil, die schnellste schwedische Stadt. Doch dasselbe Land legt eine viereinhalbstündige Zugfahrt zwischen abgedeckten Korridoren in Norrland hin, und schwedisches Prepaid verlangt per Gesetz eine Passregistrierung. Welcher Netzbetreiber für Ihre Schweden-eSIM der richtige ist — und wie Sie überhaupt eine bekommen — beantwortet die FAQ unten, noch vor allem anderen.
 
-**Schnelle Antwort:** Klären Sie es vor dem Abflug, installieren Sie es vor der Landung, und wählen Sie Telia oder Tele2 je nachdem, ob Ihre Route ländlich oder städtisch ist — der vollständige Vergleich unten zeigt, wer was ist. Diese eine Frage wird von Schweden-Besuchern am häufigsten vergessen; der [Kompatibilitäts-Check](/compatibility/) beantwortet sie.
+**Schnelle Antwort:** Klären Sie es vor dem Abflug, installieren Sie es vor der Landung, und wählen Sie Telia oder Tele2 je nachdem, ob Ihre Route ländlich oder städtisch ist — der vollständige Vergleich unten zeigt, wer was ist. Diese Frage – ob Ihr Telefon überhaupt eSIM-fähig ist – wird von Schweden-Besuchern am häufigsten vergessen; der [Kompatibilitäts-Check](/compatibility/) beantwortet sie.
 
-Die Installation ist das Tor, durch das alles andere geht — [eSIM-Kompatibilitätstool](/compatibility/) und [eSIM-Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/) klären beide Seiten. Dann kehren Sie für die Netz-Urteile zurück.
+Die Installation ist das Tor, durch das alles andere geht — das eSIM-Kompatibilitätstool und die [eSIM-Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/) klären beide Seiten. Dann kehren Sie für die Netz-Urteile zurück.
 
 **Schnelles Urteil:** Nach den Zahlen ist Telenor das stärkste Netz in Schweden — insgesamt am schnellsten (172,67 Mbps im Median) und bei 5G (234,94 Mbps), sowie Gewinner oder Mitgewinner von 11 von 14 Opensignal-Auszeichnungen 2025. Tele2 ist der solide Zweite, Telia hat das beste 5G-Videoerlebnis (90,08) und die größte Reichweite in den hohen Norden, und Tre (3) liefert in den Städten glaubwürdige 115,25 Mbps im 5G-Median. Für die meisten Besucher ist die praktische Antwort eine [Schweden-Reise-eSIM](/sweden-esim/), die zwischen diesen Netzen neu auswählt — [Test starten](/free-esim/) — und kein registrierter lokaler Prepaid-Tarif.
 
@@ -52,7 +52,7 @@ Eine Schweden-eSIM von einem Reiseanbieter ist ein reines Datenpaket — Anrufe 
 
 ### Welche APN-Werte schwedische Netze nutzen
 
-Moderne Geräte provisionieren automatisch, und Reise-eSIM-Profile bringen ihren eigenen APN immer mit. Für die manuelle Eingabe auf einer Direkt-Netzbetreiber-SIM sind die dokumentierten Werte in [der APN-Tabelle unten](#manual-apn-setup-for-sweden) — die Werte für Tele2, Telenor und Tre sind über alle Referenzen hinweg konsistent; die von Telia variieren je nach SIM-Generation.
+Moderne Geräte provisionieren automatisch, und Reise-eSIM-Profile bringen ihren eigenen APN immer mit. Für die manuelle Eingabe auf einer Direkt-Netzbetreiber-SIM stehen die dokumentierten Werte im Abschnitt [manuelle APN-Einrichtung für Schweden](#manuelle-apn-einrichtung-für-schweden) — die Werte für Tele2, Telenor und Tre sind über alle Referenzen hinweg konsistent; die von Telia variieren je nach SIM-Generation.
 
 ### Kann ich eine schwedische eSIM und meine Heimat-SIM gleichzeitig nutzen?
 
@@ -66,9 +66,9 @@ In dieser Reihenfolge: prüfen Sie, dass die eSIM-Leitung aktiviert und für mob
 
 Nach lokalen Maßstäben nein: 1 GB kostet etwa **2,33 USD** — der 170. von 237 Märkten in der Cable.co.uk-Erhebung, knapp unter dem globalen Durchschnitt von 2,59 USD. Billiger als die nordischen Nachbarn, und Tourist-Starterkits zu lokalen Preisen sind angemessen, wenn Sie einen Monat bleiben. Für eine ein- bis zweiwöchige Reise gewinnt eine Festpreis-Reise-eSIM normalerweise trotzdem, sobald man den Registrierungsstopp im Store mitrechnet.
 
-### Wann sollte ich die eSIM installieren?
+### Wann sollte die Schweden-eSIM installiert sein?
 
-Immer vorher. Installieren Sie das Profil in Ihrem heimischen WLAN — es bleibt inaktiv und verbindet sich bei der Landung. Die Installation am Arlanda bedeutet, mit jeder Ankunft um das überlastete Flughafen-WLAN zu konkurrieren, und jeder Aktivierungsfehler ist von der heimischen Couch aus viel einfacher zu beheben als aus der Ankunftshalle. Die vollständige Sequenz steht in [unserer schrittweisen Aktivierungsanleitung](/faq/how-to-activate-an-esim/).
+Immer vorher. Installieren Sie das Profil in Ihrem heimischen WLAN — es bleibt inaktiv und verbindet sich bei der Landung. Die Installation am Arlanda bedeutet, mit jeder Ankunft um das überlastete Flughafen-WLAN zu konkurrieren, und jeder Aktivierungsfehler ist von der heimischen Couch aus viel einfacher zu beheben als aus der Ankunftshalle. Die vollständige Sequenz steht in unserem Aktivierungsleitfaden.
 
 ### Funktioniert die eSIM im Zug nach Kopenhagen?
 
@@ -155,7 +155,7 @@ Die Tabelle oben beschreibt das Muster. Diese hier ist die Reiseroutenansicht �
 | Die Inlandsroute E45 | Ortschaften werden abgedeckt, der Wald dazwischen jedoch nicht | Wenn Sie durchgehende Navigation benötigen, ist die E4 entlang der Golfküste vorzuziehen |
 | Die E4, Malmö bis Luleå | Die am besten abgedeckte Fernstraße des Landes, mit kurzen Aussetzern in Tunneln und dichten Wäldern | Die Standard-Nord-Süd-Route, genau aus diesem Grund |
 | Der E10 quer durch den Norden | Entlang der Strecke gut versorgt, Wildnis auf beiden Seiten | In jedem Ort tanken und herunterladen |
-| Der Kungsleden und die nördlichen Nationalparks | Auf den langen Strecken zwischen den Hütten gibt es praktisch keine Netzabdeckung, und in Sarek gibt es überhaupt keinen Empfang | Offline-Karten, eine Papierversion als Reserve und ein Satellitennotrufgerät – nicht eine bessere eSIM |
+| Der Kungsleden und die nördlichen Nationalparks | Auf den Fernwanderwegen zwischen den Hütten gibt es praktisch keine Netzabdeckung | Wer nur der E10 und den Zufahrtsstraßen folgt, ist versorgt; für Mehrtagestouren laden Sie Offline-Karten und eine Papierversion vorab |
 
 Straßenstatus auf jeder dieser Routen wird live von der Schwedischen Verkehrsbehörde veröffentlicht, deren [Verkehrsinformationsdienst](https://www.trafikverket.se/trafikinformation/) Straßenbedingungen, Sperrungen und Zugstörungen im ganzen Land überträgt. Prüfen Sie dies am Morgen Ihrer Fahrt, nicht am Vorabend.
 
@@ -209,7 +209,7 @@ Seit August 2022 muss jede schwedische Prepaid-SIM mit Lichtbildausweis auf eine
 
 Schwedische Einwohner registrieren sich mit einer Personnummer oder über BankID, sofern sie mobiles Banking nutzen. Ein Besucher registriert sich mit einem Reisepass – genau deshalb ist das Ausweisdokument, das Sie gerade bei sich tragen, bereits der gesamte Kaufvorgang. Die praktische Konsequenz wird leicht übersehen: Eine vorab bezahlte SIM aus dem Regal funktioniert erst nach abgeschlossener Registrierung, und ein Kassenbon ist noch keine Aktivierung.
 
-**Preise in Kronen.** Tourist-Starterkits beginnen üblicherweise bei rund 249 SEK, wobei das Datenvolumen und die Gültigkeitsdauer je nach Marke variieren. Für einen Monat oder länger ist schwedisches Prepaid zu lokalen Preisen ein wirklich gutes Preis-Leistungs-Verhältnis – der Markt liegt mit etwa 2,33 USD pro Gigabyte knapp unter dem globalen Durchschnitt – und es bringt eine schwedische Rufnummer, Telefonie sowie EU-Roamingrechte mit sich. Bei einer Reise von Urlaubslänge ist genau dieser Registrierungsschritt der Aufwand, den ein eSIM zu vermeiden kauft.
+**Preise in Kronen.** Tourist-Starterkits beginnen üblicherweise bei rund 249 SEK, wobei das Datenvolumen und die Gültigkeitsdauer je nach Marke variieren. Für einen Monat oder länger ist schwedisches Prepaid zu lokalen Preisen ein wirklich gutes Preis-Leistungs-Verhältnis – der Markt liegt mit etwa 2,33 USD pro Gigabyte knapp unter dem globalen Durchschnitt – und es bringt eine schwedische Rufnummer, Telefonie sowie EU-Roamingrechte mit sich. Bei einer Reise von Urlaubslänge ist genau dieser Registrierungsschritt der Aufwand, den ein eSIM zu vermeiden kauft. **Kostenrechnung für zwei Wochen mit rund 14 GB:** Nach Volumen kostet das etwa 32,60 USD (14 × 2,33 USD) – dazu kommen einmalig rund 249 SEK für das Starterkit und der Registrierungsstopp im Shop. Für eine kurze Reise ist ein Festpreis-Profil für Schweden damit meist die bequemere Rechnung; bei einem ganzen Monat kippt der Vergleich zugunsten der lokalen Karte.
 
 ## 5G-Ausbau und das Ende von 3G
 
@@ -270,7 +270,7 @@ Die Frage nach dem Netzbetreiber ist durch die Tabelle oben geklärt. Dies sind 
 
 Vier Fragen, in der Reihenfolge, in der sie gestellt werden – mit Antworten, die spezifisch auf Schweden zugeschnitten sind und nicht allgemein gehalten.
 
-**Unterstützt Ihr Telefon überhaupt eSIM?** Wählen Sie `*#06#`. Eine EID bedeutet Ja. Wenn nichts erscheint, prüfen Sie Ihr Modell anhand der [Geräteliste](/compatibility/), bevor Sie Geld ausgeben.
+**Unterstützt Ihr Telefon überhaupt eSIM?** Wählen Sie `*#06#`. Eine EID bedeutet Ja. Wenn nichts erscheint, prüfen Sie Ihr Modell anhand der Geräteliste, bevor Sie Geld ausgeben.
 
 **Funktioniert 4G-Telefonie?** Das ist hier die wichtigste Frage, da Schweden kein 3G mehr als Fallback hat. Stellen Sie sicher, dass „Voice & Data“ auf LTE oder 5G eingestellt ist; sonst haben Sie zwar Daten, aber keine Sprachverbindung – das wirkt wie eine defekte eSIM, ist aber keine.
 
@@ -282,7 +282,7 @@ Vier Fragen, in der Reihenfolge, in der sie gestellt werden – mit Antworten, d
 
 Nur relevant, wenn Sie eine SIM oder eSIM **direkt von einem schwedischen Netzbetreiber** gekauft haben – Reise-eSIM-Profile bringen ihren eigenen APN mit und sollten in Ruhe gelassen werden:
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Schwedisches Netz | APN | Nutzername | Kennwort |
 |:---|:---|:---|:---|
 | Tele2 / Comviq | `internet.tele2.se` | leer | leer |
 | Telenor | `internet.telenor.se` | leer | leer |
@@ -300,7 +300,7 @@ Die Installationsabfolge – QR-Scan, Leitung benennen, als Datenleitung festleg
 3. **Empfang, aber keine Daten.** Bestätigen Sie, dass die eSIM als Datenleitung ausgewählt ist und Roaming dafür aktiviert ist; prüfen Sie anschließend den APN anhand der Tabelle oben, falls es sich um einen Direktkauf beim Netzbetreiber handelt.
 4. **Alles andere.** Sperrstatus, Profil neu installieren, Netzwerk zurücksetzen – die vollständige Abfolge finden Sie im [Aktivierungs-Fehlerleitfaden](/faq/esim-activation-errors-troubleshooting-guide/).
 
-### Drei Fehlerbilder die keine sind
+### Drei Fehlerbilder, die keine sind
 
 **Das Telefon ist in einem Netz eingebucht, weigert sich aber zu telefonieren**
 1. Prüfen Sie, ob VoLTE aktiviert ist: iPhone → Einstellungen → Mobilfunk → Mobildaten-Optionen → Sprache & Daten → LTE oder 5G; Android → SIM-Einstellungen → „4G-Anrufe“
@@ -315,7 +315,7 @@ Die Installationsabfolge – QR-Scan, Leitung benennen, als Datenleitung festleg
 **Installiert, keine Balken, mitten in der Stadt**
 1. Bestätigen Sie, dass die eSIM aktiviert und für mobile Daten ausgewählt ist
 2. Versuchen Sie die manuelle Netzwahl und wählen Sie eines der Netze Telia, Tele2, Telenor oder Tre
-3. Setzen Sie die Netzwerkeinstellungen zurück und starten Sie das Telefon neu
+3. Setzen Sie die Netzwerkeinstellungen zurück und starten Sie das Gerät neu – bei einem Profil, das Sie aus Dänemark oder Finnland mitgebracht haben, ist das oft der entscheidende Schritt
 
 ### Was Sie vor dem Support-Kontakt notieren
 
@@ -361,6 +361,6 @@ Alle Leistungszahlen auf dieser Seite sind veröffentlichte Drittanbietermessung
 
 ## Bringen Sie Ihre Schweden-eSIM vor dem Flug in Ordnung
 
-Die Schweden-eSIM von Roami wechselt zwischen Telia, Tele2, Telenor und Tre und hält sich unterwegs am stärksten Netz fest – Stockholms 5G-Netz auf der einen Seite, die Norrland-Korridore auf der anderen – ganz ohne Registrierungsstopp. [Kostenlos testen](/free-esim/) oder direkt zu [Schweden-eSIM-Tarifen](/sweden-esim/) gehen.
+Die Schweden-eSIM von Roami wechselt zwischen Telia, Tele2, Telenor und Tre und hält sich unterwegs am stärksten Netz fest – Stockholms 5G-Netz auf der einen Seite, die Norrland-Korridore auf der anderen – ganz ohne Registrierungsstopp. [Kostenlos testen](/free-esim/) oder direkt zu den Schweden-eSIM-Tarifen gehen.
 
-Der praktische Tipp: Testen Sie zunächst mit Roamis [kostenlosem Netztest](/free-esim/) – er nutzt dieselbe Infrastruktur wie Telia – und buchen Sie dann einen kostenpflichtigen Roami-Tarif mit dem Code **WEB20**, um 20 % Rabatt zu erhalten, falls Schweden ein regelmäßiges Reiseziel wird.
+Der praktische Tipp: Testen Sie zunächst mit Roamis kostenlosem Netztest – er nutzt dieselbe Infrastruktur wie Telia – und buchen Sie dann einen kostenpflichtigen Roami-Tarif mit dem Code **WEB20**, um 20 % Rabatt zu erhalten, falls Schweden ein regelmäßiges Reiseziel wird.

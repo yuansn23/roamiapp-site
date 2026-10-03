@@ -67,7 +67,7 @@ Zwei Reihen sind es wert, in Worte gefasst zu werden. Erstens: **Die 5G-Verfügb
 
 Die Städte-Tabelle von Ookla ist der stärkste Beleg dafür, dass die Stadt-Debatte vorbei ist. Dies sind die mittleren mobilen Downloads in den bevölkerungsreichsten Städten Belgiens für das erste Halbjahr 2025, wobei der schnellste Anbieter genannt wird, sofern einer führte.
 
-| Stadt | Median Download | Median Upload | Latenz | Konsistenz | Schnellster Netzbetreiber |
+| Stadt | Mittlerer Download | Mittlerer Upload | Latenz | Stabilität | Schnellster Anbieter |
 |:---|:---|:---|:---|:---|:---|
 | Antwerpen | **161.8 Mbps** | 18.61 Mbps | 36.8 ms | 94.2% | Orange |
 | Gent | 147,66 Mbps | 18,03 Mbps | 37,93 ms | 93,3 % | Orange |
@@ -82,7 +82,7 @@ Die Städte-Tabelle von Ookla ist der stärkste Beleg dafür, dass die Stadt-Deb
 
 Orange war in vier der zehn Städte der schnellste Anbieter — Antwerpen, Gent, Löwen und Brüssel — und in den übrigen sechs gab es überhaupt keinen Sieger. Beachten Sie auch das untere Ende der Tabelle: Schaerbeek, die langsamste Stadt, erreichte immer noch 82,82 Mbps. Diese Zahl wäre in den meisten Ländern eine nationale Schlagzeile.
 
-## Die drei Netzbetreiber im Überblick
+## Die drei belgischen Netzbetreiber im Vergleich
 
 Der deutlichste Beleg dafür, wie wenig die Netzwahl für eine Belgien eSIM zählt, ist dieselbe Städtetabelle: Antwerpen führte die belgischen Städte mit einem medianen mobilen Download von 161,8 Mbps an, gefolgt von Gent mit 147,66 Mbps und Brügge mit 145,92 Mbps. Selbst die langsamste Großstadt, Schaerbeek, erreichte 82,82 Mbps — schneller als der nationale Median in den meisten Ländern der Welt. Orange war in vier der zehn Städte der schnellste Anbieter; im Rest gab es überhaupt keinen Sieger.
 
@@ -90,7 +90,7 @@ Zwei Zahlen erklären, warum dieser Markt so einheitlich wirkt. Erstens beträgt
 
 Der einzige Ort, an dem die städtische Parität bricht, ist Überlastung. Rund um das EU-Viertel und Schuman drängen sich an Wochentagen morgens tausende Roamer und Pendler auf dieselben Zellen; dasselbe geschieht am Flughafen Brüssel während der Ankunftswellen und am Grand Place an Sommerabenden. Wenn die Geschwindigkeit dort sinkt, behebt ein Netzwechsel das selten — das Problem ist die Menschenmenge, nicht der Netzbetreiber.
 
-## Die Netzbetreiber
+## Wie Sie zwischen Proximus, Orange und Telenet wählen
 
 Wenn Sie zwischen den dreien wählen, statt einfach den nächstgelegenen Mast zu nehmen, finden Sie hier die gemessenen Unterschiede. Jeder Eintrag behandelt, wo das Netz gewinnt, wie sich ein Besucher einwählt, was es kostet und was schiefgehen kann.
 
@@ -134,7 +134,7 @@ Telenet und BASE sind dieselbe Gruppe und dasselbe Netz. Dies ist das Netz, das 
 
 Die Netzbetreiberfrage beantwortet sich von selbst, sobald Sie die Reise beschreiben. Lesen Sie zuerst die letzte Spalte — dort geht das Geld verloren.
 
-| Reiseart | Empfohlener Netzbetreiber | Begründung | Hinweis |
+| Reiseszenario | Empfohlenes belgisches Netz | Warum das passt | Worauf Sie achten sollten |
 |:---|:---|:---|:---|
 | Städtetrip – Brüssel, Antwerpen, Gent, Brügge | Jede der drei | Die städtischen Medianwerte liegen bei 96–162 Mbps, es gibt keinen statistischen Gewinner | Das EU-Viertel an Wochentagen um 09:00 Uhr und der Grand Place an Sommerabenden sind Überlastungen, keine Netzabdeckung |
 | Wandern oder Autofahren in den Ardennen | Ein Profil, das zwischen allen drei wechseln kann | Das stärkste Netz wechselt von Tal zu Tal | Die Schluchten von Semois, Ourthe, Amblève und Lesse; das Hohe Venn-Plateau |
@@ -143,7 +143,7 @@ Die Netzbetreiberfrage beantwortet sich von selbst, sobald Sie die Reise beschre
 | Budgetreisender | Ganz gleich, welches Prepaid-Bündel am günstigsten ist, oder eine Reise-eSIM | Belgisches Prepaid ist kreditbasiert, d. h. Sie zahlen für das, was Sie aufladen | Für Prepaid ist eine Registrierung mit einem gültigen Ausweis erforderlich; am Flughafen werden ausschließlich physische SIM-Karten verkauft |
 | Bahnwoche zwischen den Großstädten | Proximus oder Orange | Die Intercity-Strecken sind durchgehend versorgt und ermöglichen Videotelefonate | Die Nord-Süd-Verbindungstunnel unter Brüssel fallen für etwa eine Minute aus |
 | Tagesausflug nach Amsterdam, Paris oder Luxemburg | Ein regionaler Mehrländer-Tarif | Ein Profil nur für Belgien endet an der Grenze ohne Vorwarnung | Die Niederlande, Frankreich, Deutschland und Luxemburg sind alle innerhalb von zwei Stunden mit dem Zug erreichbar |
-| Jeder, der ein 2G- oder 3G-Reservehandy mitführt | Keines | 3G ist in Belgien bereits abgeschaltet, 2G folgt 2028–2029 | Ein 3G-Gerät ist hier bereits nutzlos; VoLTE ist nun Pflicht für Telefonie |
+| Jeder, der ein 2G- oder 3G-Reservehandy mitführt | Keines | 3G ist in der Benelux-Staat bereits abgeschaltet, 2G folgt 2028–2029 | Ein 3G-Gerät ist hier bereits nutzlos; VoLTE ist nun Pflicht für Telefonie |
 
 ## Wo eine belgische eSIM an ihre Grenzen stößt
 
@@ -165,13 +165,13 @@ Wo das Signal nicht ausfällt, sondern die Geschwindigkeit, ist Überlastung, un
 
 Daraus folgen zwei praktische Konsequenzen. Erstens: Die Apps, die Sie auf einer Belgien-Reise für Daten brauchen — STIB/MIVB für Brüssel, De Lijn für Flandern, SNCB/NMBS für die Bahn, plus Uber oder Bolt für Fahrten zum Flughafen — erwarten alle eine aktive Verbindung, und insbesondere SNCB stellt Tickets als QR-Codes in der App aus. Zweitens: Ein Taxi oder eine Ride-Hailing-App in einer überlasteten Zelle zu nutzen, ist der Moment, in dem Ihnen ein langsames Netz am meisten auffällt, weil der Fahrer auf eine Karte wartet, die nicht laden will.
 
-## Netzabdeckung von Region zu Region
+## Wo das Signal in Belgien tatsächlich schwächelt
 
-| Region oder Strecke | Was das Netz tatsächlich tut | Was Sie dagegen tun können |
+| Region oder Strecke | Was das belgische Netz tatsächlich tut | Was Sie dagegen tun können |
 |:---|:---|:---|
 | Brüssel und die 19 Gemeinden | Nahezu flächendeckend, einschließlich der STIB-Metrotunnel; Median in Brüssel Stadt bei 96,28 Mbps | Nichts – dies ist die einfachste Konnektivität der gesamten Reise |
 | Antwerpen, Gent, Brügge, Löwen | Die schnellsten Städte des Landes: 125–162 Mbps im Median | Keine; Orange in Antwerpen, Gent und Löwen führend |
-| Wallonische Städte — Lüttich, Charleroi, Namur, Anderlecht | 99–113 Mbps Medianwerte; immer noch über den nationalen Werten der meisten Länder | In der Stadt nichts; das Signal wird schwächer, sobald man den Stadtring verlässt |
+| Wallonische Großstädte — Lüttich, Charleroi, Namur | 99–113 Mbps Medianwerte; immer noch über den nationalen Werten der meisten Länder | In der Stadt nichts; das Signal wird schwächer, sobald man den Stadtring verlässt |
 | Ardennen-Städte — Bastogne, La Roche-en-Ardenne, Durbuy, Dinant, Spa | Abgedeckte Städte; die Netzabdeckung ist in Belgien am stärksten vom Netzbetreiber abhängig | Lassen Sie das Profil zwischen Proximus, Orange und BASE neu auswählen |
 | Ardennen-Täler und Wanderwege — Semois unterhalb von Bouillon, Ourthe, Amblève, Lesse bei Han-sur-Lesse | Eine einzelne Mobilfunkzelle versorgt eine Schlucht; über lange Strecken fällt der Empfang auf 3G oder ganz weg | Laden Sie Offline-Karten herunter, bevor Sie Namur oder Lüttich verlassen |
 | Hochplateau der Hohen Venn / Hautes Fagnes | Dünn besiedelt, exponiert und mit langsamer Netzverbindung | Behandeln Sie diese Region als offline; eine Papierkarte ist hier kein Scherz |
@@ -189,7 +189,7 @@ Die entscheidende Regel betrifft **das Land, in dem die SIM-Karte ausgestellt wu
 
 Auch innerhalb der Zone gelten zwei Einschränkungen. RLAH ist für **gelegentliche Reisen gedacht, nicht für einen dauerhaften Aufenthalt**: Wenn Sie in einem Vier-Monats-Zeitraum mehr Zeit und Datenvolumen im Ausland als zu Hause verbringen, kann Ihr Netzbetreiber Sie kontaktieren und anschließend einen Aufschlag erheben, der auf den Großhandelspreis begrenzt ist. Und **die Schweiz und das Vereinigte Königreich gehören nicht zur Zone** — beide liegen außerhalb der EU und des EWR, sodass Roaming dort eine gewöhnliche kommerzielle Angelegenheit ist.
 
-Reise-eSIMs fallen völlig aus dem Rahmen. Es handelt sich nicht um in der EU ausgestellte Verträge, daher gilt RLAH nicht; die Bedingungen stammen von demjenigen, der Ihnen den Datentarif verkauft hat. In der Praxis bedeutet das: Eine in der EU ausgestellte SIM-Karte erfordert für Belgien keinen Kauf, der Heimattarif eines Nicht-EU-Besuchers erfordert in der Regel eine Alternative, und eine Belgien eSIM ist diese Alternative und nicht ein Begünstigter der Verordnung. Vollständige Details: [Roaming — Fragen & Antworten](https://digital-strategy.ec.europa.eu/en/roaming-questions-answers) der Europäischen Kommission.
+Reise-eSIMs fallen völlig aus dem Rahmen. Es handelt sich nicht um in der EU ausgestellte Verträge, daher gilt RLAH nicht; die Bedingungen stammen von demjenigen, der Ihnen den Datentarif verkauft hat. In der Praxis bedeutet das: Eine in der EU ausgestellte SIM-Karte erfordert für Belgien keinen Kauf, der Heimattarif eines Nicht-EU-Besuchers erfordert in der Regel eine Alternative, und eine der Benelux-Staat eSIM ist diese Alternative und nicht ein Begünstigter der Verordnung. Vollständige Details: [Roaming — Fragen & Antworten](https://digital-strategy.ec.europa.eu/en/roaming-questions-answers) der Europäischen Kommission.
 
 ## Können Touristen eine belgische eSIM direkt bei den Netzbetreibern kaufen?
 
@@ -226,7 +226,7 @@ Belgische Prepaid-SIM-Karten werden über mehr Kanäle verkauft als in den meist
 
 Der Kompromiss ist derselbe, den Sie auch in Frankreich abwägen müssen: Eine direkte belgische SIM-Karte gibt Ihnen eine echte +32-Nummer und Sprachdienst, während eine Reise-eSIM sofortige Bereitstellung, reinen Datendienst und – wichtig – das Recht bietet, sich zu verbinden, ohne sich bei einem belgischen Netzbetreiber zu registrieren. Für die meisten Besucher ist die Belgien eSIM die offensichtlich vorteilhaftere Wahl. Unsere [Belgien eSIM-Tarife](/belgium-esim/) sehen automatisch eine Versorgung in diesen Netzen vor, und eine [eSIM zum Testen](/free-esim/) ermöglicht es Ihnen, das Setup zu prüfen, bevor Sie etwas bezahlen.
 
-## Telefonkompatibilität
+## Ist Ihr Handy für belgische Netze bereit?
 
 Belgien ist bei der Abschaltung alter Netze weiter als die meisten europäischen Länder, und die Reihenfolge ist ungewöhnlich: 3G wurde zuerst abgeschaltet.
 
@@ -238,9 +238,9 @@ Zwei Konsequenzen sollten Sie im Hinterkopf behalten. Erstens verliert ein reine
 
 Für einen normalen Besucher mit einem Handy aus den letzten fünf Jahren gibt es nichts zu tun, außer VoLTE aktiviert zu lassen. Für jeden, der ein altes Backup-Handy „für alle Fälle“ mit sich führt, ist die ehrliche Antwort, dass es in Belgien bereits nicht mehr funktioniert.
 
-## Ist Ihr Handy bereit für die belgischen Netze?
+## Welche Frequenzbänder Ihr Handy für Belgien braucht
 
-Belgische Netzbetreiber setzen 4G auf Band 20 (800 MHz), Band 3 (1800 MHz) und Band 7 (2600 MHz) ein, mit 5G hauptsächlich auf n78 (3500 MHz) sowie n1 und n28. Ein entsperrtes Handy aus den letzten fünf Jahren verfügt über alle diese Bänder; die Checkliste ist dieselbe wie überall in Europa.
+Belgische Netzbetreiber setzen 4G auf Band 20 (800 MHz), Band 3 (1800 MHz) und Band 7 (2600 MHz) ein, mit 5G hauptsächlich auf n78 (3500 MHz) sowie n1 und n28. Ein entsperrtes Handy aus den letzten fünf Jahren verfügt über alle diese Bänder; die Checkliste ist dieselbe wie überall in [Europa](/europe-esim/).
 
 Ein Belgien-spezifischer Hinweis: Der BIPT hat den Zeitplan der Branche zur Abschaltung von 2G bestätigt – Orange, Proximus und Telenet/BASE werden ihre 2G-Netze 2028 und 2029 stilllegen. Wenn Sie ein altes Backup-Handy oder ein reines 2G-Tracker- oder Alarmgerät mit sich führen, wird es in Belgien nicht lange durchhalten. Für alles Moderne sind die einzigen relevanten Prüfungen eSIM-Unterstützung und Netzbetreiber-Sperre; führen Sie Ihr Modell durch den [eSIM-Kompatibilitätstest](/compatibility/), und wenn Sie verstehen möchten, was tatsächlich passiert, wenn ein Profil installiert wird, behandelt unser Erklärer zur [eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) die technischen Hintergründe.
 
@@ -248,7 +248,7 @@ Ein Belgien-spezifischer Hinweis: Der BIPT hat den Zeitplan der Branche zur Absc
 
 Normalerweise sollten Sie die APN-Einstellungen bei einer Reise-eSIM nicht ändern – das Profil bringt seine eigenen mit. Sie sind nur relevant, wenn Sie direkt bei einem belgischen Netzbetreiber kaufen und die automatische Konfiguration fehlschlägt:
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Belgisches Netz | APN (Zugangspunkt) | Benutzer | Kennwort |
 |:---|:---|:---|:---|
 | Proximus | `internet.proximus.be` | leer | leer |
 | Orange Belgien | `mworld.be` | leer | leer |
@@ -269,66 +269,59 @@ Installieren Sie Ihre Belgien-eSIM zu Hause im WLAN, nicht in der Ankunftshalle 
 
 | # | Prüfen | Wie „gut“ aussieht |
 |:---|:---|:---|
-| 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | „Keine SIM-Beschränkungen“ wird unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre angezeigt |
-| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder das [Kompatibilitätstool](/compatibility/) bestätigt das Modell |
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud gespeichert |
+| 1 | Das Handy ist nicht an einen Netzbetreiber gebunden | Unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre steht „Keine SIM-Beschränkungen“ |
+| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder das Kompatibilitätstool bestätigt das Modell |
+| 3 | QR-Code und Aktivierungscode gesichert | Screenshot auf dem Telefon und in der Cloud abgelegt |
 | 4 | Profil vor der Abreise installieren | Über das heimische WLAN installiert; es verbindet sich automatisch bei der Landung |
 | 5 | Datenleitung und Roaming eingerichtet | eSIM für mobile Daten ausgewählt; Daten-Roaming nur für diese Leitung aktiviert |
 | 6 | VoLTE aktiviert | Einstellungen → Mobilfunk → Mobilfunkdatenoptionen → Sprache & Daten zeigt 4G/5G |
 
 ### Wie jeder Netzbetreiber eSIMs ausgibt
 
-- **Reise-eSIM:** ein QR-Code oder eine In-App-Installation unmittelbar nach dem Checkout; das Profil wechselt automatisch zu Proximus, Orange oder Telenet/BASE, je nachdem, welches Netz am stärksten ist – mehr ist nicht erforderlich.
-- **BASE:** Registrierung in der My BASE App – der Identifikationsschritt erfolgt zuerst, danach wird die Leitung aktiviert; ein QR-Scan am Schalter ist nicht nötig.
-- **Proximus:** die eSIM wird über ein MyProximus-Konto ausgegeben oder nach der Passregistrierung als QR-Code im Shop übergeben.
-- **Orange Belgien:** die Prepaid-Leitung wird an der Verkaufsstelle bereitgestellt, sobald die Identität bestätigt ist; die Aktivierung erfolgt also vor Ort beim Personal und nicht zu Hause.
-- **Telenet:** folgt demselben Registrierungsprozess wie BASE, da beide zur selben Gruppe gehören – die appbasierte Identifikation ist also der entscheidende Schritt.
+- **Reise-eSIM:** ein QR-Code oder eine In-App-Installation unmittelbar nach dem Checkout; das Profil wechselt automatisch zu Proximus, Orange oder Telenet/BASE, je nachdem, welches Netz am stärksten ist – mehr ist nicht erforderlich. - **BASE:** Registrierung in der My BASE App – der Identifikationsschritt erfolgt zuerst, danach wird die Leitung aktiviert; ein QR-Scan am Schalter ist nicht nötig. - **Proximus:** die eSIM wird über ein MyProximus-Konto ausgegeben oder nach der Passregistrierung als QR-Code im Shop übergeben. - **Orange Belgien:** die Prepaid-Leitung wird an der Verkaufsstelle bereitgestellt, sobald die Identität bestätigt ist; die Aktivierung erfolgt also vor Ort beim Personal und nicht zu Hause. - **Telenet:** folgt demselben Registrierungsprozess wie BASE, da beide zur selben Gruppe gehören – die appbasierte Identifikation ist also der entscheidende Schritt.
 
 ### Fünf typische Fehlermuster bei belgischen eSIMs und ihre Lösungen
 
 Allgemeine Aktivierungsfehler – ein Profil, das sich nicht herunterladen lässt, ein fehlgeschlagener Scan, eine eSIM, die zwar installiert ist, sich aber nie im Netz registriert – werden in unserem [Leitfaden zu eSIM-Aktivierungsfehlern](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Die fünf folgenden Muster sind die spezifisch belgischen.
 
-**A. Die eSIM lässt sich nicht installieren**
-1. Der Carrier Lock befindet sich unter „Einstellungen → Allgemein → Info“ und muss „Keine SIM-Beschränkungen“ anzeigen.
-2. Der QR-Code darf noch nicht gescannt worden sein – Codes funktionieren fast immer nur einmal.
-3. Fragen Sie beim Anbieter nach, ob das Profil noch ausstehend statt bereits ausgegeben ist.
+**A. Das belgische Profil lädt nicht**
+1. Der Carrier Lock befindet sich unter „Einstellungen → Allgemein → Info“ und muss „Keine SIM-Beschränkungen“ anzeigen. 2. Der QR-Code darf noch nicht gescannt worden sein – Codes funktionieren fast immer nur einmal. 3. Fragen Sie beim Anbieter nach, ob das Profil noch ausstehend statt bereits ausgegeben ist.
 
-**B. Installiert, aber „kein Dienst“**
-1. Deaktivieren Sie die automatische Netzwahl.
-2. Wählen Sie Proximus, Orange oder Telenet/BASE manuell aus und warten Sie bei jedem Netz 30 Sekunden.
-3. In einem Ardennental dauert es etwa zwei Minuten, alle drei auszuprobieren, und meist findet sich so eines.
-4. Setzen Sie die Netzwerkeinstellungen zurück und starten Sie das Gerät neu.
+**B. Installiert, aber in Belgien „Kein Dienst“**
+1. Deaktivieren Sie die automatische Netzwahl. 2. Wählen Sie Proximus, Orange oder Telenet/BASE manuell aus und warten Sie bei jedem Netz 30 Sekunden. 3. In einem Ardennental dauert es etwa zwei Minuten, alle drei auszuprobieren, und meist findet sich so eines. 4. Setzen Sie die Netzwerkeinstellungen zurück und starten Sie das Gerät neu.
 
-**C. Empfangsbalken, aber kein Datendienst**
-1. Stellen Sie sicher, dass die eSIM und nicht Ihre Heim-SIM als Datenleitung festgelegt ist.
-2. Prüfen Sie, ob Datenroaming speziell für die eSIM-Leitung aktiviert ist.
-3. Falls Sie eine belgische Prepaid-Karte gekauft haben, klären Sie eine eventuell noch ausstehende Identitätsregistrierung – eine nicht registrierte Karte kann keine Daten nutzen.
+**C. Empfang da, aber kein Datendienst**
+1. Stellen Sie sicher, dass die eSIM und nicht Ihre Heim-SIM als Datenleitung festgelegt ist. 2. Prüfen Sie, ob Datenroaming speziell für die eSIM-Leitung aktiviert ist. 3. Falls Sie eine belgische Prepaid-Karte gekauft haben, klären Sie eine eventuell noch ausstehende Identitätsregistrierung – eine nicht registrierte Karte kann keine Daten nutzen.
 
-**D. Daten funktionieren, aber Sprache nicht**
-1. Aktivieren Sie VoLTE in den Geräteeinstellungen.
-2. Vergewissern Sie sich, dass das Gerät nicht nur 3G oder 2G unterstützt – 3G ist in Belgien bereits abgeschaltet.
-3. Denken Sie daran, dass reine Daten-Reise-eSIMs keine Anrufe annehmen können; nutzen Sie stattdessen WhatsApp, FaceTime oder Signal.
+**D. Daten laufen, Sprache aber nicht**
+1. Aktivieren Sie VoLTE in den Geräteeinstellungen. 2. Vergewissern Sie sich, dass das Gerät nicht nur 3G oder 2G unterstützt – 3G ist in Belgien bereits abgeschaltet. 3. Denken Sie daran, dass reine Daten-Reise-eSIMs keine Anrufe annehmen können; nutzen Sie stattdessen WhatsApp, FaceTime oder Signal.
 
 **E. Langsam an einem Ort, überall sonst in Ordnung**
-1. Behandeln Sie dies als Überlastung oder Funkschatten im Tal, nicht als Fehlkonfiguration.
-2. Bewegen Sie sich einige hundert Meter Richtung Talausgang oder Hauptstraße.
-3. Warten Sie den morgendlichen Stoßverkehr im EU-Viertel ab, anstatt den Netzbetreiber zu wechseln.
+1. Behandeln Sie dies als Überlastung oder Funkschatten im Tal, nicht als Fehlkonfiguration. 2. Bewegen Sie sich einige hundert Meter Richtung Talausgang oder Hauptstraße. 3. Warten Sie den morgendlichen Stoßverkehr im EU-Viertel ab, anstatt den Netzbetreiber zu wechseln.
 
 ### Was Sie bei einem Supportfall bereithalten
 
 | Informationen | Wo Sie sie finden |
 |:---|:---|
-| Bestell- oder Kontonummer | Bestätigungs-E-Mail |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Bestellreferenz der eSIM-Bestellung | Bestätigungsmail des Anbieters |
+| Telefonmodell und Systemversion | iOS: Einstellungen → Allgemein → Info · Android: Einstellungen → Info |
 | EID | `*#06#` |
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
-| Aktuelle APN-Einstellungen | Einstellungen → Mobiles Datennetz |
-| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
-| Bereits durchgeführte Schritte | Führen Sie eine kurze schriftliche Liste |
+| Foto der Fehleranzeige | Aufnehmen, solange die Meldung zu sehen ist |
+| Hinterlegter APN | Einstellungen → Mobilfunk → die eSIM-Leitung → Mobilfunkdatennetzwerk |
+| Roaming-Status der Datenleitung | Einstellungen → Mobilfunk → Optionen der eSIM-Leitung |
+| Bereits getestete Lösungen | Kurze Stichpunktliste für den Support |
 
 ## Wie schnell und wie teuer Belgien ist
 
-Laut dem Speedtest Global Index von Ookla lag die mittlere mobile Downloadgeschwindigkeit in Belgien im August 2026 bei **139,84 Mbps** — Platz 25 weltweit und deutlich über dem globalen Median von 109,05 Mbps. Lokale Daten kosten etwa **2,23 USD pro GB** (Platz 166 von 237 Märkten, die Cable.co.uk beobachtet), daher ist der Kauf von Daten vor Ort zwar kein Schnäppchen, aber auch kein Wucher. Falls Ihre Reise über Belgien hinausgeht, gilt dieselbe Messmethodik auch in unserem [Frankreich eSIM-Netzbetreiber-Guide](/carriers/france-esim-carrier-guide/), und die Nachbarmärkte werden in unseren [Niederlande-eSIM](/netherlands-esim/)- und [Luxemburg-eSIM](/luxembourg-esim/)-Guides behandelt — hilfreich, wenn Sie Brüssel in eine Eurostar- oder Thalys-Route einbinden.
+Laut dem Speedtest Global Index von Ookla lag die mittlere mobile Downloadgeschwindigkeit in Belgien im August 2026 bei **139,84 Mbps** — Platz 25 weltweit und deutlich über dem globalen Median von 109,05 Mbps. Lokale Daten kosten etwa **2,23 USD pro GB** (Platz 166 von 237 Märkten, die Cable.co.uk beobachtet), daher ist der Kauf von Daten vor Ort zwar kein Schnäppchen, aber auch kein Wucher. Falls Ihre Reise über Belgien hinausgeht, gilt dieselbe Messmethodik auch in unserem [Frankreich eSIM-Netzbetreiber-Guide](/france-esim/), und die Nachbarmärkte werden in unseren [eSIM-Tarifen für die Niederlande](/netherlands-esim/)- und [Luxemburg-eSIM](/luxembourg-esim/)-Guides behandelt — hilfreich, wenn Sie Brüssel in eine Eurostar- oder Thalys-Route einbinden.
+
+### Rechenbeispiel: Roaming aus dem Nicht-EU-Ausland gegen Belgien-eSIM
+
+Ein konkretes Beispiel: Eine Woche Brüssel mit rund 2 GB pro Tag (14 GB) surfen. Ein Besucher aus den USA, Kanada oder Großbritannien nutzt den Heimtarif seines eigenen Anbieters und zahlt Roaming außerhalb von Datenpaketen – meist die teuerste Einzelposition dieser Übersicht. Belgische Prepaid-Daten kosten laut Cable.co.uk etwa **2,23 USD pro GB** (Platz 166 von 237), also rund 31 USD für 14 GB, dazu eine gesetzlich vorgeschriebene Identitätsregistrierung mit Reisepass oder Selfie in der App. Eine Belgien-Reise-eSIM berechnet nur das im Voraus festgelegte Volumen, ohne Aufladung, ohne SIM-Gebühr und ohne Registrierung, und ist in zwei Minuten aktiv. In der EU oder im EWR gilt für einen dort ausgestellten Vertrag hingegen Roam-like-at-home – dann brauchen Sie keine zweite SIM.
+
+### Wann eine lokale SIM in Belgien doch besser ist
+
+Die Reise-eSIM gewinnt für die meisten Kurztrips, aber nicht für jede Situation. Planen Sie einen Aufenthalt von mehreren Monaten oder brauchen Sie eine echte +32-Rufnummer für belgische Banking-Apps, Vertragsabschlüsse oder Termine, ist eine lokale Prepaid-Karte die bessere Wahl – sie funktioniert auch im sechsten Monat noch und bietet Inlandsgespräche, die eine reine Daten-eSIM nicht leistet. Auch wer in Brüssel-Midi mit dem Eurostar ankommt und dort keinen SIM-Schalter findet, sollte die Entscheidung vor der Reise treffen, statt am Bahnhof zu suchen. Halten Sie für den Support Ihre EID (`*#06#`) und IMEI bereit.
 
 ### Wie Sie Daten in Belgien am günstigsten kaufen
 
@@ -349,7 +342,7 @@ Belgiens Lage ist sein bestes Merkmal für eine kurze Reise und sein schlechtest
 | Luxemburg-Stadt | Etwa 3 Stunden | Wird an der Grenze zu Arlon dunkel |
 | Köln, Deutschland | Etwa 2 Stunden | Wird vor Aachen dunkel |
 
-Zwei Gewohnheiten beheben das. Erstens: Wenn mehr als ein Land auf der Reiseroute steht, kaufen Sie einen regionalen Tarif statt zweier Ländertickets – die Nachbarländer sind in unserem [Niederlande-Guide](/carriers/netherlands-esim-carrier-guide/) und in den [Luxemburg-Tarifen](/luxembourg-esim/) abgedeckt, und ein längerer Frankreich-Abschnitt im [Frankreich-Netzbetreiber-Vergleich](/france-esim/). Zweitens: Wenn Sie bewusst ein Einzel-Land-Profil behalten, schalten Sie vor dem Überqueren der Grenze auf manuelle Netzwahl um, damit das Telefon nicht während der gesamten Fahrt nach einem Netz sucht.
+Zwei Gewohnheiten beheben das. Erstens: Wenn mehr als ein Land auf der Reiseroute steht, kaufen Sie einen regionalen Tarif statt zweier Ländertickets – die Nachbarländer sind in unserem [Niederlande-eSIM](/netherlands-esim/) und in den [Luxemburg-Tarifen](/luxembourg-esim/) abgedeckt, und ein längerer Frankreich-Abschnitt im [Frankreich-Netzbetreiber-Vergleich](/france-esim/). Zweitens: Wenn Sie bewusst ein Einzel-Land-Profil behalten, schalten Sie vor dem Überqueren der Grenze auf manuelle Netzwahl um, damit das Telefon nicht während der gesamten Fahrt nach einem Netz sucht.
 
 Ein Detail innerhalb der Zone: Die Übergabe kann einige Minuten dauern – im Zug oder bei einer Straßenüberquerung und nicht am Flughafen – daher ist ein kurzer Abschnitt ohne Empfang nach einer Grenze normal und kein Defekt. Ein Netz, das im letzten Land manuell ausgewählt wurde, blockiert ebenfalls die Übergabe – das ist der einzige Fall, in dem die manuelle Auswahl gegen Sie arbeitet.
 
@@ -377,7 +370,7 @@ In Städten und entlang Hauptstraßen, ja – Bastogne, La Roche-en-Ardenne, Dur
 
 ### Funktionieren belgische Netzbetreiber mit Ihrem Telefon?
 
-Nicht, wenn es auf 3G angewiesen ist, denn die belgischen 3G-Netze wurden im Laufe des Jahres 2025 abgeschaltet. 2G bleibt bestehen, bis die Netzbetreiber es zwischen 2028 und 2029 stilllegen, also hat ein reines 2G-Handy noch etwas Lebenszeit – aber ein Telefon, das für Sprache auf 2G zurückfällt, verliert Anrufe, sofern Sie VoLTE nicht aktivieren.
+Nicht, wenn es auf 3G angewiesen ist, denn die belgischen 3G-Netze wurden im Laufe des Jahres 2025 abgeschaltet. 2G bleibt bestehen, bis die Netzbetreiber es zwischen 2028 und 2029 stilllegen, also hat ein reines 2G-Handy noch etwas Lebenszeit – aber ein Telefon, das für Sprache auf 2G zurückfällt, verliert Anrufe, sofern Sie VoLTE nicht aktivieren. Tethering und Hotspot laufen über dieselbe Datenleitung und dasselbe Volumen; wer im Zug mit dem Laptop arbeitet, teilt einfach den Tarif.
 
 ### Hat die Bahn überall Empfang?
 
@@ -405,14 +398,7 @@ Effektiv nein. Die drei Netze konvergieren in den Städten und unterscheiden sic
 
 ## Woher die Daten dieses Guides stammen
 
-- Die Ookla-Studie für Belgien ([der pro-Netzbetreiber-Bericht H1 2025](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025)) verankert jede oben zitierte Geschwindigkeits- und Latenzzahl – die 93,33 Mbps Median und 38 ms Latenz von Proximus, die 156,37 Mbps 5G-Median und das beste 5G-Videoerlebnis von Orange, die 19,6 % 5G-Verfügbarkeit von Telenet/BASE sowie die Städtetabelle.
-- Ooklas monatlicher Index ([die Belgien-Seite](https://www.speedtest.net/global-index/belgium)) führt den nationalen Median vom August 2026 mit 139,84 Mbps.
-- BASE und Telenet ([die Seite zur Pflicht-Identifikation](https://base.be/en/support/account-personal-data/your-personal-data/mandatory-identification-for-prepaid-sim-cards.html)) dokumentieren die gesetzliche ID-Registrierung für Prepaid-Käufer und den passbasierten App-Weg.
-- BIPT ([die Seite des Regulierers](https://www.bipt.be/)) ist die Quelle für Lizenzierung, Marktstatistiken und den 2G-Zeitplan 2028–2029.
-- BIPT zur Abschaltung selbst ([die 2G-Verbraucherseite](https://bipt.be/consumers/telephone-internet-tv/uitschakeling-van-de-2g-netwerken/2g-networks-shutdown)): 3G endete im Laufe des Jahres 2025, 2G folgt über 2028–2029, und VoLTE ist die Einstellung, die Sie jetzt aktivieren sollten.
-- Die Europäische Kommission ([Roaming Q&A](https://digital-strategy.ec.europa.eu/en/roaming-questions-answers)) erklärt die Reichweite von Roam Like At Home und warum die Regel davon abhängt, wo die SIM ausgestellt wurde.
-- Cable.co.uk ([seine weltweite Datenpreis-Umfrage](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) liefert die 2,23 USD pro GB für Belgien.
-- DataReportal mit GSMA Intelligence ([Digital 2025: Belgien](https://datareportal.com/reports/digital-2025-belgium)) untermauert die Marktgröße: 11,3 Millionen Internetnutzer und 12,0 Millionen Mobilfunkanschlüsse. Wenn Sie eine Zahl entdecken, die veraltet ist, möchte unser Support-Team davon erfahren.
+- Die Ookla-Studie für Belgien ([der pro-Netzbetreiber-Bericht H1 2025](https://www.ookla.com/research/reports/belgium-speedtest-connectivity-report-h1-2025)) verankert jede oben zitierte Geschwindigkeits- und Latenzzahl – die 93,33 Mbps Median und 38 ms Latenz von Proximus, die 156,37 Mbps 5G-Median und das beste 5G-Videoerlebnis von Orange, die 19,6 % 5G-Verfügbarkeit von Telenet/BASE sowie die Städtetabelle. - Ooklas monatlicher Index ([die Belgien-Seite](https://www.speedtest.net/global-index/belgium)) führt den nationalen Median vom August 2026 mit 139,84 Mbps. - BASE und Telenet ([die Seite zur Pflicht-Identifikation](https://base.be/en/support/account-personal-data/your-personal-data/mandatory-identification-for-prepaid-sim-cards.html)) dokumentieren die gesetzliche ID-Registrierung für Prepaid-Käufer und den passbasierten App-Weg. - BIPT ([die Seite des Regulierers](https://www.bipt.be/)) ist die Quelle für Lizenzierung, Marktstatistiken und den 2G-Zeitplan 2028–2029. - BIPT zur Abschaltung selbst ([die 2G-Verbraucherseite](https://bipt.be/consumers/telephone-internet-tv/uitschakeling-van-de-2g-netwerken/2g-networks-shutdown)): 3G endete im Laufe des Jahres 2025, 2G folgt über 2028–2029, und VoLTE ist die Einstellung, die Sie jetzt aktivieren sollten. - Die Europäische Kommission ([Roaming Q&A](https://digital-strategy.ec.europa.eu/en/roaming-questions-answers)) erklärt die Reichweite von Roam Like At Home und warum die Regel davon abhängt, wo die SIM ausgestellt wurde. - Cable.co.uk ([seine weltweite Datenpreis-Umfrage](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) liefert die 2,23 USD pro GB für Belgien. - DataReportal mit GSMA Intelligence ([Digital 2025: Belgien](https://datareportal.com/reports/digital-2025-belgium)) untermauert die Marktgröße: 11,3 Millionen Internetnutzer und 12,0 Millionen Mobilfunkanschlüsse. Wenn Sie eine Zahl entdecken, die veraltet ist, möchte unser Support-Team davon erfahren.
 
 Keine der Zahlen auf dieser Seite stammt von uns; jede kommt aus einer benannten öffentlichen Quelle. Ihre eigenen Geschwindigkeiten variieren je nach Gerät, Standort und Auslastung.
 
@@ -420,10 +406,10 @@ Keine der Zahlen auf dieser Seite stammt von uns; jede kommt aus einer benannten
 
 Ein Profil, kein ID-Papierkram und automatischer Wechsel zwischen Proximus, Orange und Telenet/BASE – installiert, bevor Sie am Brüsseler Flughafen landen oder den Eurostar verlassen.
 
-[Jetzt Belgien-eSIM kaufen](/belgium-esim/)
+Jetzt Belgien-eSIM kaufen
 
 *Roami Neukundenangebot*
 
 [Belgien-eSIM gratis testen](/free-esim/)
 
-Wo auch immer Sie in Belgien landen, Roami hat eine Abkürzung: eine [kostenlose Test-eSIM](/free-esim/), die auf denselben Netzen läuft wie Proximus, und **WEB20** für 20 % Rabatt auf Ihren ersten kostenpflichtigen Tarif.
+Wo auch immer Sie in Belgien landen, Roami hat eine Abkürzung: eine kostenlose Test-eSIM, die auf denselben Netzen läuft wie Proximus, und **WEB20** für 20 % Rabatt auf Ihren ersten kostenpflichtigen Tarif. 

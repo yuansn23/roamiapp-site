@@ -1,13 +1,12 @@
 ---
 
-title: "Mongolia eSIM-Netzbetreiber: Unitel, Mobicom und Netzabdeckung"
-
-description: "Unitel oder Mobicom? Roami vergleicht beide Mongolia eSIM-Netzbetreiber, behandelt die kostenlose Flughafen-eSIM und kartiert den Empfang jenseits von Ulaanbaatar."
+title: "Mongolei eSIM: Unitel oder Mobicom für Ihre Reise?"
+description: "Mongolei eSIM im Vergleich: Unitel und Mobicom nach Netzabdeckung, Flughafen-eSIM und Preisen für Ulaanbaatar und das Umland."
 image: "img/esim/carriers/mongolia-esim-carrier-guide.jpg"
 
 date: "2026-09-25T20:26:30+00:00"
 
-keywords: Mongolia eSIM, Mongolia eSIM-Netzbetreiber, Mongolia eSIM-Anbieter, Unitel eSIM, Mobicom eSIM, Unitel Mongolia, Mobicom Mongolia, Gobi-Netzbetreiber eSIM, Reise-eSIM Mongolia, Sofort-eSIM Mongolia, keine Roaming-Gebühren Mongolia
+keywords: Mongolei eSIM, Mongolei eSIM-Netzbetreiber, Mongolei eSIM-Anbieter, Unitel eSIM, Mobicom eSIM, Netzabdeckung Ulaanbaatar, Reise-eSIM Mongolei, Sofort-eSIM Mongolei, keine Roaming-Gebühren Mongolei
 
 site_name: Roami
 
@@ -34,11 +33,11 @@ hero_subtitle_main: "Mongolias Netzbetreiber auf dem Papier gegenüber in der Pr
 
 
 
-Eine Mongolia eSIM beginnt mit Distanz, nicht mit Marke: Wie weit Sie sich außerhalb von Ulaanbaatar aufhalten, entscheidet alles, und dieser Guide arbeitet die Unitel-gegen-Mobicom-Frage mit dem Flughafendetail auf, das andere übersehen. Mongolia ist das Land, in dem „welcher Netzbetreiber ist am besten" die falsche erste Frage ist — die richtige lautet „wie weit außerhalb von Ulaanbaatar reise ich, und für wie viele Tage". Die Hauptstadt verfügt über schnelles, günstiges, durch und durch modernes mobiles Internet; die Gobi, der Altai und die Ufer des Khövsgöl funktionieren nach völlig anderer Physik, wo Netzabdeckung das nächste Ger-Camp bedeutet und nicht den Trailhead. Dieser Guide behandelt die Unitel-vs-Mobicom-Entscheidung mit dem Touristen-eSIM-Detail vom Flughafen, das andere Artikel übersehen, die Registrierungsregeln und einen regionsweisen Plan für das am dünnsten besiedelte Land der Welt. Dies ist die Mongolia-Version des Gesprächs, das wir Freunden am Vorabend ihres Fluges mitgeben — frei von Fachjargon.
+Eine Mongolei-eSIM beginnt mit Distanz, nicht mit Marke: Wie weit Sie sich außerhalb von Ulaanbaatar aufhalten, entscheidet alles, und dieser Guide arbeitet die Unitel-gegen-Mobicom-Frage mit dem Flughafendetail auf, das andere übersehen. Die Mongolei ist das Land, in dem „welcher Netzbetreiber ist am besten" die falsche erste Frage ist — die richtige lautet „wie weit außerhalb von Ulaanbaatar reise ich, und für wie viele Tage". Die Hauptstadt verfügt über schnelles, günstiges, durch und durch modernes mobiles Internet; das Umland mit Straßenanschluss ist gut versorgt; in der offenen Steppe und der Gobi gilt eine andere Physik — dort bedeutet Netzabdeckung das nächste Ger-Camp, nicht den Trailhead. Dieser Guide behandelt die Unitel-vs-Mobicom-Entscheidung mit dem Touristen-eSIM-Detail vom Flughafen, das andere Artikel übersehen, die Registrierungsregeln und einen regionsweisen Plan für das am dünnsten besiedelte Land der Welt. Dies ist die Mongolei-Version des Gesprächs, das wir Freunden am Vorabend ihres Fluges mitgeben — frei von Fachjargon.
 
 
 
-**Schnelle Antwort:** Wählen Sie Unitel für die größte Reichweite, Mobicom für den niedrigsten Preis pro Gigabyte, und installieren Sie Ihre eSIM in jedem Fall vor der Abreise. Der Rest dieses Guides — Mongolia-Geschwindigkeiten, Preise und Registrierungsregeln — liefert die Details hinter dieser Aufteilung.
+**Schnelle Antwort:** Wählen Sie Unitel für die größte Reichweite, Mobicom für den niedrigsten Preis pro Gigabyte, und installieren Sie Ihre eSIM in jedem Fall vor der Abreise. Der Rest dieses Guides — Geschwindigkeiten, Preise und Registrierungsregeln der Mongolei — liefert die Details hinter dieser Aufteilung.
 
 
 
@@ -50,11 +49,11 @@ Falls Sie Ihr Handy noch nicht überprüft haben, klärt die [Kompatibilitätsli
 
 
 
-## Unitel vs Mobicom: Welcher Mongolia eSIM-Netzbetreiber passt zu Ihrer Reise?
+## Unitel oder Mobicom: Welcher Mongolei-eSIM-Netzbetreiber passt zu Ihrer Reise?
 
 
 
-| Ihre Reiseroute | Top-Empfehlung | Warum sie überzeugt |
+| Ihre Route | Die Empfehlung | Kurz begründet |
 
 |:---|:---|:---|
 
@@ -72,7 +71,7 @@ Falls Sie Ihr Handy noch nicht überprüft haben, klärt die [Kompatibilitätsli
 
 
 
-💡 Bei jeder Reiseroute, die die Hauptstadt verlässt, ist eine Multi-Netz-[Mongolia eSIM](/mongolia-esim/), die zwischen Unitel und Mobicom neu auswählen kann, besser als eine Bindung an einen einzelnen Netzbetreiber – deren ländliche Netzabdeckung überschneidet sich nur teilweise.
+💡 Bei jeder Reiseroute, die die Hauptstadt verlässt, ist eine Multi-Netz-[Mongolei-eSIM](/mongolia-esim/), die zwischen Unitel und Mobicom neu auswählen kann, besser als eine Bindung an einen einzelnen Netzbetreiber – deren ländliche Netzabdeckung überschneidet sich nur teilweise.
 
 
 
@@ -128,11 +127,11 @@ Zwei nationale Großanbieter, ein Spezialist für abgelegene Provinzen und ein N
 
 |:---|:---|:---|
 
-| Was Sie benötigen | Passregistrierung an einem Schalter | Ein kompatibles, entsperrtes Telefon |
+| Voraussetzungen | Passregistrierung vor Ort | Entsperrtes, profil-taugliches Telefon |
 
 | Bei der Aktivierung | Am Flughafen oder in einem Stadtladen | Vor Ihrem Flug, über Ihr eigenes WLAN |
 
-| Mongolische Nummer | Yes | Nein — nur Daten |
+| Mongolische Nummer | Ja | Nein — nur Daten |
 
 | Netz wählen | One Netzbetreiber, fest | Automatisches Wechseln, wo Ihr Datentarif es zulässt |
 
@@ -176,11 +175,11 @@ Das mobile Internet in der Mongolei ist eine Geschichte über die Siedlungsstruk
 
 
 
-### Mongolia Netzabdeckung: Was die Netzabdeckungskarte verschweigt
+### Mongolei-Netzabdeckung: was die Karte verschweigt
 
 
 
-Three Punkte, die Sie verinnerlichen sollten, bevor Sie Ihre Konnektivität planen:
+Drei Punkte, die Sie verinnerlichen sollten, bevor Sie Ihre Konnektivität planen:
 
 
 
@@ -188,11 +187,11 @@ Three Punkte, die Sie verinnerlichen sollten, bevor Sie Ihre Konnektivität plan
 
 - **Touristencamps drängen sich dort, wo es Netzabdeckung gibt.** Die Camps, die Ausländer beherbergen, haben ihren Standort meistens wegen Empfang gewählt oder Starlink installiert. Deshalb hat „mitten im Nirgendwo" oft abends WLAN und morgens auf der Straße gar nichts.
 
-- **Ihr Akku ist wichtiger als Ihre Balken.** Lange Tage im Fahrzeug, in denen das Handy verzweifelt ein Netz sucht, sind der schnellste Weg zu einem leeren Gerät. Nehmen Sie eine Powerbank mit und schalten Sie die eSIM-Leitung in bekannten Funklöchern aus, statt sie suchen zu lassen.
+- **Ihr Akku ist wichtiger als Ihre Balken.** Lange Tage im Fahrzeug, in denen das Handy verzweifelt ein Netz sucht, sind der schnellste Weg zu einem leeren Gerät. Nehmen Sie eine Powerbank mit und schalten Sie die Datenleitung in bekannten Funklöchern aus, statt sie suchen zu lassen.
 
 
 
-One moderne Tatsache verändert die Gleichung für Reisen in abgelegene Gebiete: **Starlink funktioniert in der Mongolei** und wird zunehmend von Reiseveranstaltern und Ger-Camps für Backhaul-WLAN genutzt. Wie in Kenia ersetzt es Ihre eSIM nicht — es erklärt, warum das Camp mitten im Nirgendwo abends trotzdem WLAN hat. Und wenn Sie über den Flughafen ankommen, beachten Sie, dass UBN etwa 50 km vom Stadtzentrum entfernt liegt — wenn Sie spät ankommen und noch nichts installiert haben, ist die kostenlose Mobicom-TouristeneSIM bei der Ankunft die schnellste Lösung.
+Eine moderne Tatsache verändert die Gleichung für Reisen in abgelegene Gebiete: **Starlink funktioniert in der Mongolei** und wird zunehmend von Reiseveranstaltern und Ger-Camps für Backhaul-WLAN genutzt. Wie in Kenia ersetzt es Ihre eSIM nicht — es erklärt, warum das Camp mitten im Nirgendwo abends trotzdem WLAN hat. Und wenn Sie über den Flughafen ankommen, beachten Sie, dass UBN etwa 50 km vom Stadtzentrum entfernt liegt — wenn Sie spät ankommen und noch nichts installiert haben, ist die kostenlose Mobicom-TouristeneSIM bei der Ankunft die schnellste Lösung.
 
 
 
@@ -214,7 +213,7 @@ One moderne Tatsache verändert die Gleichung für Reisen in abgelegene Gebiete:
 
 
 
-Die Regulierungsbehörde ist die [Communications Regulatory Commission of Mongolia](https://www.crc.gov.mn/en), die alle Netzbetreiber lizenziert und Marktdaten veröffentlicht. Der [DataReportal Digital Bericht 2025](https://datareportal.com/reports/digital-2025-mongolia) liefert die oben genannten Verbindungszahlen – und der Überschuss an Verbindungen pro Person ist die Statistik, die erklärt, warum Ulas Netzwerke in Baatar reif wirken, während das Umland ein Jahrzehnt im Rückstand zu sein scheint.
+Die Regulierungsbehörde ist die [Communications Regulatory Commission of Mongolia](https://www.crc.gov.mn/en), die alle Netzbetreiber lizenziert und Marktdaten veröffentlicht. Der [DataReportal Digital Bericht 2025](https://datareportal.com/reports/digital-2025-mongolia) liefert die oben genannten Verbindungszahlen – und der Überschuss an Verbindungen pro Person ist die Statistik, die erklärt, warum Ulaanbaatars Netze reif wirken, während das Umland ein Jahrzehnt im Rückstand zu sein scheint.
 
 
 
@@ -234,7 +233,9 @@ Die Regulierungsbehörde ist die [Communications Regulatory Commission of Mongol
 
 
 
-### # Wie man eine eSIM für die Mongolei einrichtet Die Einrichtung einer eSIM für die Mongolei ist unkompliziert und ermöglicht Ihnen eine sofortige Verbindung nach Ihrer Ankunft. Hier sind die wichtigsten Schritte: ## Voraussetzungen prüfen - Stellen Sie sicher, dass Ihr Smartphone eSIM-fähig ist (die meisten neueren Modelle von Apple, Samsung und Google unterstützen dies). - Vergewissern Sie sich, dass Ihr Gerät entsperrt ist und eSIM-Profile aktivieren kann. - Sie benötigen eine stabile WLAN-Verbindung während der Einrichtung. ## Anbieter auswählen und Plan buchen - Wählen Sie einen Netzbetreiber, der eSIM-Dienste für die Mongolei anbietet. - Vergleichen Sie Datentarife nach Datenvolumen (z. B. 5 GB, 10 GB, 20 GB) und Gültigkeitsdauer. - Achten Sie auf 4G-, LTE- oder 5G-Abdeckung in den Regionen, die Sie bereisen möchten. ## eSIM-Profil installieren - Nach dem Kauf erhalten Sie einen QR-Code oder manuelle Aktivierungsdaten per E-Mail. - Öffnen Sie auf Ihrem Smartphone **Einstellungen > Mobilfunk > Mobilfunkplan hinzufügen** (iPhone) bzw. **Einstellungen > Netzwerk & Internet > Mobilfunknetz > Anbieter herunterladen** (Android). - Scannen Sie den QR-Code oder geben Sie die Aktivierungsdetails ein. - Bestätigen Sie die Installation und benennen Sie den Tarif zur einfachen Identifizierung. ## Roaming und Standardleitung konfigurieren - Aktivieren Sie **Datenroaming** für die eSIM in den Einstellungen. - Wählen Sie die eSIM als Standardleitung für mobile Daten aus. - Sie können Ihre ursprüngliche SIM-Karte weiterhin für Anrufe und SMS verwenden, falls gewünscht. ## Verbindung testen - Starten Sie Ihr Gerät neu, um die Verbindung herzustellen. - Überprüfen Sie die Signalstärke und führen Sie einen Geschwindigkeitstest durch. - Bei Problemen prüfen Sie die APN-Einstellungen gemäß den Anweisungen des Anbieters. ## Tipps für die Mongolei - Die Netzabdeckung ist in Ulaanbaatar und entlang der Hauptverkehrswege gut, kann jedoch in abgelegenen Gobi- oder Steppenregionen eingeschränkt sein. - Erwägen Sie einen Tarif mit ausreichend Datenvolumen für Karten- und Übersetzungs-Apps. - Bewahren Sie einen Offline-Speicher wichtiger Informationen auf, falls die Verbindung abbricht. Mit diesen Schritten sind Sie bereit, die Mongolei mit einer zuverlässigen mobilen Datenverbindung zu erkunden.
+### Die Einrichtung Schritt für Schritt
+
+Die Installation selbst ist unkompliziert: Kompatibilität prüfen, Profil über das heimische WLAN laden, Datenleitung und Roaming setzen, Verbindung testen. Auf die Mongolei zugeschnitten sind vor allem die Reihenfolge und die Vorbereitung — die folgenden fünf Punkte führen in der richtigen Reihenfolge durch:
 
 
 
@@ -244,9 +245,9 @@ Installieren Sie es im heimischen WLAN und es findet Unitel oder Mobicom, sobald
 
 1. Beginnen Sie mit der [Telefon-Kompatibilitätsliste](/compatibility/); entsperrt und eSIM-fähig ist die Mindestanforderung.
 
-2. Beschriften Sie die neue Zeile mit „Mongolia-Daten“ und schließen Sie die Installation über das heimische WLAN ab.
+2. Beschriften Sie die neue Zeile mit „Mongolei-Daten“ und schließen Sie die Installation über das heimische WLAN ab.
 
-3. Legen Sie die eSIM als Ihre mobile Datenleitung fest und aktivieren Sie **Datenroaming** für diese Leitung – Reise-eSIMs roamen standardmäßig über Unitel oder Mobicom.
+3. Legen Sie das Profil als Ihre mobile Datenleitung fest und aktivieren Sie **Datenroaming** für diese Leitung – Reise-eSIMs roamen standardmäßig über Unitel oder Mobicom.
 
 4. Landen Sie auf UBN und lassen Sie das Profil zuweisen; falls dies nicht funktioniert, wählen Sie das Netz manuell aus.
 
@@ -284,11 +285,27 @@ Installieren Sie es im heimischen WLAN und es findet Unitel oder Mobicom, sobald
 
 
 
-**Vor dem Kauf:** Stellen Sie sicher, dass das Telefon entsperrt ist, notieren Sie Ihre EID (`*#06#`) und installieren Sie ein bereits erworbenes Profil **vor** der Abreise – das Profil aktiviert sich, sobald es zum ersten Mal einen mongolischen Funkturm erreicht, und nicht, wenn Sie den Code scannen. Reine Daten-Reise-eSIMs bieten keine mongolische Telefonnummer, daher erfolgt die Kommunikation über WhatsApp oder Telegram, die beide in den lokalen Netzen normal funktionieren.
+### Flughafen oder Stadt: wo sich welcher Kauf lohnt
 
 
 
-## Mongolia eSIM-Gerätekompatibilitätsprüfung
+Der Flughafen UBN liegt rund 50 km von Ulaanbaatar entfernt — eine Fahrt, die ohne Datenverbindung unangenehm wird. Deshalb gilt: Wer nichts vorab installiert hat, nimmt am Mobicom-Schalter die kostenlose 1-GB-eSIM mit Passregistrierung mit und hat sofort Daten für die Fahrt in die Stadt; kostenpflichtige Tarife kommen danach online dazu. Wer ohnehin eine mongolische Nummer für einen Monat will, fährt direkt in eine Unitel- oder Mobicom-Filiale in Ulaanbaatar — dort ist die Prepaid-Auswahl größer, und lokal kostet das Gigabyte laut Cable.co.uk rund 0,38–0,81 USD, einer der günstigsten Werte weltweit. Wer vor dem Flug bucht, umgeht die Frage komplett: Das Profil aktiviert sich beim ersten mongolischen Funkturm.
+
+
+
+### Rechenbeispiel: eine Woche Hauptstadt plus Ausflug
+
+
+
+Bei lokalen Preisen von rund 0,38–0,81 USD je Gigabyte kosten 14 GB — eine Woche mit je 2 GB für Karten, Messenger und Videoanrufe — umgerechnet etwa 5–11 USD, allerdings nur mit Passregistrierung vor Ort. Die kostenlose Mobicom-eSIM vom Flughafen deckt das erste Gigabyte ab, danach kommen kostenpflichtige Aufladungen dazu. Eine vorab gebuchte Reise-eSIM liegt pro Gigabyte darüber, dafür entfallen Registrierung und Schalter, und sie funktioniert bereits im Transferbus statt erst in der Stadt.
+
+
+
+**Vor dem Kauf:** Stellen Sie sicher, dass das Telefon entsperrt ist, notieren Sie Ihre EID (`*#06#`) und installieren Sie ein bereits erworbenes Profil **vor** der Abreise – das Profil aktiviert sich, sobald es zum ersten Mal einen mongolischen Funkturm erreicht, und nicht, wenn Sie den Code scannen. Reine Datenprofile bieten keine mongolische Telefonnummer, daher erfolgt die Kommunikation über WhatsApp oder Telegram, die beide in den lokalen Netzen normal funktionieren.
+
+
+
+## Gerätekompatibilität für die Mongolei-eSIM
 
 
 
@@ -296,7 +313,7 @@ Installieren Sie es im heimischen WLAN und es findet Unitel oder Mobicom, sobald
 
 
 
-Unitel und Mobicom senden auf Bändern, die gängige Mobiltelefone bereits unterstützen, daher liegt ein gescheiterter Einbau in Mongolei fast immer am Gerät selbst. Die üblichen Übeltäter:
+Unitel und Mobicom senden auf Bändern, die gängige Mobiltelefone bereits unterstützen, daher liegt ein gescheiterter Einbau in der Mongolei fast immer am Gerät selbst. Die üblichen Übeltäter:
 
 
 
@@ -310,17 +327,17 @@ Unitel und Mobicom senden auf Bändern, die gängige Mobiltelefone bereits unter
 
 | Dual-SIM-Nutzer | eSIM installiert, keine Daten | Wählen Sie die eSIM-Leitung für mobile Daten aus |
 
-| Älteres Handy | Keine EID von `*#06#` | Reisephysische SIM verwenden |
+| Älteres Handy | Keine EID von `*#06#` | Physische Touristen-SIM verwenden |
 
 | Telefon mit aggressivem Energiesparmodus | Datenverbindung stockt bei ausgeschaltetem Bildschirm | Messaging-Apps auf die Whitelist setzen; das Netz ist in Ordnung |
 
 
 
-### eSIM für die Mongolei: wo kaufen
+### Drei Checks, ob ein mongolisches Profil möglich ist
 
 
 
-Three Schritte, die jeweils eine Frage beantworten, um zu klären, ob ein mongolisches Profil überhaupt eine Option ist:
+Drei Schritte, die jeweils eine Frage beantworten, um zu klären, ob ein mongolisches Profil überhaupt eine Option ist:
 
 
 
@@ -340,11 +357,11 @@ Reise-eSIM-Profile bringen ihren eigenen APN mit. Für lokal gekaufte Tarife, di
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | Zugangspunkt | Benutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
-| Unitel | `internet` | Leerzeichen | Leerzeichen |
+| Unitel | `internet` | leer | leer |
 
 | Mobicom | `internet` | leer | leer |
 
@@ -358,11 +375,11 @@ Ein Reiseprofil schreibt seinen eigenen APN, daher gilt diese Liste nur für lok
 
 
 
-- Sie haben eine Netzbetreiber-Karte gekauft statt einer verwalteten Reise-eSIM
+- Sie haben eine Unitel- oder Mobicom-Karte gekauft statt ein verwaltetes Reiseprofil
 
-- Ein Profil, das über einen manuellen Aktivierungscode statt per QR-Scan installiert wurde
+- Ein mongolisches Profil von Unitel oder Mobicom, das über einen Aktivierungscode statt über den QR-Scan eingerichtet wurde
 
-- Ein älteres Gerät, das die Netzbetreiber-Einstellungen nicht automatisch geladen hat
+- Ein älteres Handy, das die APN-Werte von Unitel oder Mobicom nicht selbst geladen hat
 
 - Die Karte hat sich nach einem Wechsel zwischen Provinzen nicht neu registriert
 
@@ -400,15 +417,15 @@ Die Installation erfolgt zu Hause; die Offline-Karten werden vor der Abreise aus
 
 | 2 | Das Telefon unterstützt eSIM | Die EID wird angezeigt, wenn Sie `*#06#` wählen |
 
-| 3 | QR-Code gespeichert | Screenshot auf dem Telefon und in der Cloud |
+| 3 | QR-Code doppelt gesichert | Kopie im Fotoalbum und im Cloud-Speicher |
 
 | 4 | Profilinstallation vor der Abreise | Installation über das heimische WLAN; Aktivierung bei der Landung |
 
-| 5 | Datenpaket und Roaming eingestellt | eSIM ist die Datenleitung, Roaming aktiviert |
+| 5 | Datenleitung und Roaming gesetzt | Das mongolische Profil trägt die Daten, Roaming ist an |
 
 | 6 | Gobi- oder Khövsgöl-Etappe | Offline-Karten heruntergeladen; mehrägige Funklöcher sind normal |
 
-| 6 | Offline-Karten heruntergeladen | Jede Etappe vor der Abreise aus UB in Ihrer Karten-App gespeichert |
+| 7 | Offline-Karten der Umland-Etappen | Jede Etappe vor der Abreise aus UB in der Karten-App gespeichert |
 
 
 
@@ -430,7 +447,7 @@ Die Installation erfolgt zu Hause; die Offline-Karten werden vor der Abreise aus
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das Unitel- oder Mobicom-Profil lässt sich nicht installieren**
 
 1. Das Handy muss entsperrt sein; Carrier Lock unter „Info" zeigt dies mit „Keine SIM-Beschränkungen" an
 
@@ -440,7 +457,7 @@ Die Installation erfolgt zu Hause; die Offline-Karten werden vor der Abreise aus
 
 
 
-**B. Installiert, aber keine Signalbalken**
+**B. Profil aktiv, aber draußen in der Steppe kein Balken**
 
 1. Bestätigen Sie, dass Sie sich innerhalb eines Versorgungsgebiets befinden – prüfen Sie die Regionstabelle
 
@@ -450,11 +467,11 @@ Die Installation erfolgt zu Hause; die Offline-Karten werden vor der Abreise aus
 
 
 
-**C. Signalbalken, aber kein Internet**
+**C. Balken vorhanden, aber das mongolische Profil liefert keine Daten**
 
 1. Den APN exakt so wie in der Tabelle angegeben erneut eintragen
 
-2. Sicherstellen, dass die Daten über die eSIM und nicht über Ihre Heim-SIM laufen
+2. Sicherstellen, dass die Daten über das mongolische Profil und nicht über Ihre Heim-SIM laufen
 
 3. Datenroaming für diese spezifische Leitung aktivieren
 
@@ -486,19 +503,19 @@ Der Support hier stellt eine Frage, die in den meisten Ländern unüblich ist: g
 
 | Bestellnummer | Bestätigungs-E-Mail |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Gerätemodell und OS-Stand | iOS: Einstellungen → Allgemein → Info; Android: Einstellungen → Über das Telefon |
 
 | EID | Wählen `*#06#` |
 
-| Screenshot des Fehlers | Erstellen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Aufnehmen, solange der Dialog geöffnet ist |
 
 | Aktueller Standort und nächstgelegene Stadt | Die Netzabdeckung ist hier geografisch bedingt – der Support wird nachfragen |
 
-| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Roaming-Status der Datenleitung | iOS: Einstellungen → Mobilfunk → Mongolei-Leitung; Android: SIM-Manager → Roaming |
 
 
 
-## So planen Sie Ihre eSIM-Datenversorgung für eine Überlandreise in der Mongolei
+## Datenvorausplanung: Reisen abseits Ulaanbaatars
 
 
 
@@ -534,7 +551,7 @@ Mongoliens Langstreckenreisen belohnen eine kleine Planung auf eine Weise, wie e
 
 4. **Legen Sie eine tägliche Check-in-Routine fest.** Wenn jemand zu Hause auf Nachrichten von Ihnen wartet, teilen Sie ihm mit, an welchen Tagen Sie nicht erreichbar sein werden.
 
-5. **Deaktivieren Sie die eSIM-Leitung in bestätigten Funklöchern.** Das ständige Suchen nach einem Netz verbraucht Akku, den Sie nicht nachladen können.
+5. **Deaktivieren Sie die Datenleitung in bestätigten Funklöchern.** Das ständige Suchen nach einem Netz verbraucht Akku, den Sie nicht nachladen können.
 
 
 
@@ -550,11 +567,11 @@ Mongolische Handytarife sind günstig, aber die Bandbreite auf dem Land ist nich
 
 
 
-### eSIM-Tarife in der Mongolei
+### Bekommt man am Flughafen UBN eine kostenlose eSIM?
 
 
 
-Yes — und seit Juli 2025 bietet Mobicom ankommenden Touristen am Flughafen Chinggis Khaan International einen **kostenlosen 1-GB-eSIM-QR-Code** an den Schaltern an, mit kostenpflichtigen Aufladungen, die online verfügbar sind. Die Reisepass-Registrierung erfolgt direkt am Schalter. Wenn Ihr Flug spät landet und Sie noch nichts installiert haben, ist dies der schnellste Weg online.
+Ja — und seit Juli 2025 bietet Mobicom ankommenden Touristen am Flughafen Chinggis Khaan International einen **kostenlosen 1-GB-eSIM-QR-Code** an den Schaltern an, mit kostenpflichtigen Aufladungen, die online verfügbar sind. Die Reisepass-Registrierung erfolgt direkt am Schalter. Wenn Ihr Flug spät landet und Sie noch nichts installiert haben, ist dies der schnellste Weg online.
 
 
 
@@ -566,11 +583,11 @@ Unitel, nach dem einhelligen Urteil lokaler Nutzer und Overland-Reisender. Mobic
 
 
 
-### Häufige Fragen zu mongolischen eSIMs
+### Muss eine mongolische SIM auf den Reisepass registriert werden?
 
 
 
-Yes — lokale SIM-Karten müssen auf einen Reisepass registriert werden. Online gekaufte Reise-eSIMs sind bereits über den Anbieter konform, weshalb sie den Schalter komplett umgehen.
+Ja — lokale SIM-Karten müssen auf einen Reisepass registriert werden. Online gekaufte Reise-eSIMs sind bereits über den Anbieter konform, weshalb sie den Schalter komplett umgehen.
 
 
 
@@ -590,7 +607,7 @@ In Ulaanbaatar, ja — 5G wurde an die großen Betreiber vergeben und wird in de
 
 
 
-### Mongolei-Tarife: was Sie bekommen
+### Wie viele GB braucht man in der Mongolei?
 
 
 
@@ -598,7 +615,7 @@ In Ulaanbaatar, ja — 5G wurde an die großen Betreiber vergeben und wird in de
 
 
 
-### Beste eSIM-Wahl für die Mongolei nach Reiseart
+### Lohnt sich Mobicoms kostenloses Touristen-Gigabyte?
 
 
 
@@ -610,7 +627,7 @@ Für einen zweitägigen Stadtaufenthalt, bequem. Für eine Overland-Runde ist es
 
 
 
-Yes — Dual-SIM-Telefone nutzen die eSIM für Daten und Ihre Heimatleitung für Anrufe und SMS-Verifizierung. Deaktivieren Sie Daten-Roaming auf der Heimatleitung, damit Hintergrundverkehr nicht zu internationalen Gebühren abgerechnet wird.
+Ja — Dual-SIM-Telefone nutzen die eSIM für Daten und Ihre Heimatleitung für Anrufe und SMS-Verifizierung. Deaktivieren Sie Daten-Roaming auf der Heimatleitung, damit Hintergrundverkehr nicht zu internationalen Gebühren abgerechnet wird.
 
 
 
@@ -618,7 +635,7 @@ Yes — Dual-SIM-Telefone nutzen die eSIM für Daten und Ihre Heimatleitung für
 
 
 
-Warten Sie, bis Sie tatsächlich in der Mongolei sind (Profile aktivieren sich beim ersten Kontakt mit einem lokalen Mast), aktivieren Sie Daten-Roaming für die eSIM-Leitung und versuchen Sie dann die manuelle Netzwerk-Auswahl. Immer noch nichts? Die Schritt-für-Schritt-Anleitung finden Sie in unserer [eSIM-Fehlerbehebungs-Ressource](/faq/esim-activation-errors-troubleshooting-guide/).
+Warten Sie, bis Sie tatsächlich in der Mongolei sind (Profile aktivieren sich beim ersten Kontakt mit einem lokalen Mast), aktivieren Sie Daten-Roaming für die Datenleitung und versuchen Sie dann die manuelle Netzwerk-Auswahl. Immer noch nichts? Die Schritt-für-Schritt-Anleitung finden Sie in unserer [eSIM-Fehlerbehebungs-Ressource](/faq/esim-activation-errors-troubleshooting-guide/).
 
 
 
@@ -626,11 +643,11 @@ Warten Sie, bis Sie tatsächlich in der Mongolei sind (Profile aktivieren sich b
 
 
 
-Die meisten Reise-Tarife erlauben Tethering, einige nicht — prüfen Sie Ihren Tarif. Es ist hier nützlicher als in den meisten Ländern: ein per Tethering angeschlossenes Laptop mit zwei Balken am Telefon in einem Ger-Camp ist während der Stoßzeiten oft schneller als das gemeinsame Satelliten-WLAN des Camps.
+Die meisten Reise-Tarife erlauben Tethering, einige nicht — prüfen Sie Ihren Tarif. Es ist hier nützlicher als in den meisten Ländern: ein per Tethering angebundener Laptop mit zwei Balken am Telefon in einem Ger-Camp ist während der Stoßzeiten oft schneller als das gemeinsame Satelliten-WLAN des Camps.
 
 
 
-### Netzabdeckung auf dem Land in der Mongolei: Unitel vs. Mobicom
+### Kann ich aus der Mongolei remote arbeiten?
 
 
 
@@ -638,7 +655,7 @@ In Ulaanbaatar, ja — es ist ein modernes Hauptstadtnetz. Auf der Straße behan
 
 
 
-### Wer hat die größte Reichweite in der Mongolei?
+### Telefonieren abseits der Städte in der Mongolei?
 
 
 
@@ -670,7 +687,7 @@ Die Hauptstadt verfügt über vier Netze und eine dichte Netzabdeckung, daher li
 
 
 
-### Unitel eSIM-Tarife für Besucher
+### Kann ich Unitel-Tarife online kaufen?
 
 
 
@@ -686,15 +703,15 @@ Sehr wenig, abgesehen von der lokalen Bürokratie. Camps, Fahrer und Reiseverans
 
 
 
-Weitere Fragen? [View die vollständigen FAQ →](/faq/)
+Weitere Fragen zur Mongolei? Im [FAQ-Überblick](/faq/) finden Sie alle Antworten.
 
 
 
-## Roaming in die Nachbarländer
+## Grenzübertritt: Russland, China und Kasachstan
 
 
 
-Die Mongolei liegt zwischen drei der weltweit unterschiedlichsten Konnektivitätsregime. Overland-Reisende sollten dieselben Aufschlüsselungen für unseren [Russland eSIM-Netzbetreiber-Guide](/carriers/russia-esim-carrier-guide/) lesen — wo lokale SIMs für Ausländer geschlossen sind und Ankunfts-Datenblöcke gelten — die [China eSIM-Seite](/china-esim/) und [Kasachstan eSIM-Tarife](/kazakhstan-esim/), falls Ihre Route nach Westen abbiegt. Ein Grenzübertritt setzt außerdem die meisten Einzel-Land-Profile zurück, daher lohnt es sich, einen Mehrländer-Tarif zu kalkulieren, bevor Sie sich auf ein Profil pro Visum festlegen.
+Die Mongolei liegt zwischen drei der weltweit unterschiedlichsten Konnektivitätsregime. Overland-Reisende sollten dieselben Aufschlüsselungen für unseren [Russland eSIM-Netzbetreiber-Guide](/carriers/russia-esim-carrier-guide/) lesen — wo lokale SIMs für Ausländer geschlossen sind und Ankunfts-Datenblöcke gelten — die [China eSIM-Seite](/china-esim/) und [Kasachstan eSIM-Tarife](/kazakhstan-esim/), falls Ihre Route nach Westen abbiegt. Ein Grenzübertritt setzt außerdem die meisten Einzel-Land-Profile zurück, daher lohnt es sich, einen Mehrländer-Tarif zu kalkulieren, bevor Sie sich auf ein Profil pro Visum festlegen. Praktisch heißt das: Wer von Ulaanbaatar aus Tagesausflüge in die zentralen Aimags unternimmt, merkt von den Grenzen nichts — das Profil funktioniert im Inland unangetastet. Erst bei einer tatsächlichen Überquerung zählt die Wieder-Registrierung: Nach der Wiedereinreise verbindet sich die Datenleitung meist von selbst; hilft das nicht, bringt ein kurzer Flugmodus-Impuls und die manuelle Netzwahl das Profil wieder online. Die Unterschiede zwischen den drei Nachbarn sind größer als alles, was innerhalb der Mongolei passiert.
 
 
 
@@ -728,11 +745,11 @@ All dies sind Drittanbieter-Daten — und in einem Land dieser Größe sagt Ihne
 
 
 
-Bringen Sie das Profil vor der Abreise auf Ihr Telefon, landen Sie am UBN mit aktiven Daten und lassen Sie es sich zwischen Unitel und Mobicom neu verbinden, wenn Städte kommen und gehen. Probieren Sie zuerst die [kostenlose Daten-Testversion](/free-esim/) oder dimensionieren Sie einen Tarif auf der [Mongolei eSIM-Seite](/mongolia-esim/). Danach nach Norden unterwegs? Der [Russland eSIM-Netzbetreiber-Guide](/carriers/russia-esim-carrier-guide/) erklärt, warum diese Grenze die Regeln neu schreibt.
+Bringen Sie das Profil vor der Abreise auf Ihr Telefon, landen Sie am UBN mit aktiven Daten und lassen Sie es sich zwischen Unitel und Mobicom neu verbinden, wenn Städte kommen und gehen. Probieren Sie zuerst die kostenlose Daten-Testversion oder dimensionieren Sie einen Tarif auf der Mongolei-eSIM-Seite. Danach nach Norden unterwegs? Der [Ratgeber zu Russland](/carriers/russia-esim-carrier-guide/) erklärt, warum diese Grenze die Regeln neu schreibt.
 
 
 
-[Mongolei-Tarife ansehen](/mongolia-esim/) · [Kostenlose Testversion aktivieren](/free-esim/) · [Mongolei eSIM-Seite](/mongolia-esim/)
+[Mongolei-Tarife ansehen](/mongolia-esim/) · [Kostenlose Testversion aktivieren](/free-esim/) · Tarifvergleich weiter oben auf dieser Seite
 
 
 

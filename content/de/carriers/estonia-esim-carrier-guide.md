@@ -45,7 +45,7 @@ Für Besucher wird die Auswahl durch zwei Realitäten vereinfacht. Erstens ist E
 
 ### Welches Netz passt zu Ihrem Reiseziel?
 
-| Ihre Tarife | Empfohlener Netzbetreiber | Warum er die beste Wahl ist |
+| Ihre Reise | Empfohlener Netzbetreiber | Warum er die beste Wahl ist |
 |:---|:---|:---|
 | Städtetrip nach Tallinn, Altstadt, Geschäftsreise | Elisa | Schnellstes 5G in der Hauptstadt; Median 336 Mbps |
 | Tartu, Universitäts- und Startup-Szene | Elisa | Starke städtische 5G-Versorgung in der gesamten Stadt |
@@ -64,7 +64,7 @@ Jeder der drei betreibt seine eigene nationale Infrastruktur und verkauft Prepai
 
 [Telia](https://www.telia.ee) (ehemals EMT, weiterhin erreichbar über den `internet.emt.ee` APN) ist der größte Netzbetreiber Estlands und derjenige, dem man abseits der ausgetretenen Pfade vertrauen kann. Seine Prepaid-Marke ist **Super**, verwaltet in der Telia Super App. Dies ist die Wahl für Saaremaa, Hiiumaa, Lahemaa, die Setomaa im Südosten und überall dort, wo die anderen beiden schwächer werden.
 
-**[Telia Super Prepaid](http://www.super.ee/en/teenused/) (30-tägige Internet-Pässe, EUR / ca. USD):**
+**[Telia Super Prepaid](https://www.super.ee/en/teenused/) (30-tägige Internet-Pässe, EUR / ca. USD):**
 
 | Datenvolumen (Estland) | EU/EWR-Grenze | Preis | Ca. USD | Gültigkeit |
 |:---|:---|:---|:---|:---|
@@ -74,7 +74,7 @@ Jeder der drei betreibt seine eigene nationale Infrastruktur und verkauft Prepai
 | 40 GB | 30 GB | 18 € | ~19,60 $ | 30 Tage |
 | 200 GB | 23 GB | 24 € | ~26,15 $ | 30 Tage |
 
-**Wie ein Besucher es kauft:**
+**Wie ein Besucher die Telia-Super-Karte kauft:**
 1. Gehen Sie in einen Telia Esindus (Flagship-)Store — der nächstgelegene vollständige Store zum Flughafen ist in Ülemiste, eine kurze Straßenbahnfahrt vom Flughafen Tallinn entfernt.
 2. Legen Sie Ihren **Reisepass oder EU-Ausweis** vor; das Personal scannt ihn und registriert die eSIM auf Ihren Namen (Gesetz von 2024).
 3. Zahlen Sie das Startguthaben und wählen Sie oben einen Super-Internetzugang (oder ein Kombi-Paket mit Anrufen/SMS).
@@ -96,7 +96,7 @@ Jeder der drei betreibt seine eigene nationale Infrastruktur und verkauft Prepai
 | Unbegrenzt | 22,99 € | ~25,00 $ | 30 Tage |
 | Täglich unbegrenzt | €1,99–2,99 | ~2,20–3,25 $ | 1 Tag |
 
-**So kauft es ein Besucher:**
+**So kauft ein Besucher die Elisa-Zen-Karte:**
 1. Elisa wird in Elisa-Esindus-Filialen, an R-Kiosk (auch im Flughafen Tallinn) sowie in Supermärkten wie Rimi, Prisma und Maxima verkauft.
 2. Zeigen Sie Ihren **Reisepass oder EU-Personalausweis** vor; der Mitarbeiter registriert die eSIM darauf.
 3. Zahlen und einen Zen-Tarif laden; der QR-Code wird per E-Mail zugestellt oder im Laden gescannt.
@@ -116,13 +116,15 @@ Jeder der drei betreibt seine eigene nationale Infrastruktur und verkauft Prepai
 | 15 GB | 9,99 € | ~10,90 $ | 30 Tage |
 | Unbegrenzt | 18,99 € | ~20,70 $ | 30 Tage |
 
-**So kauft ein Besucher es:**
+**So kauft ein Besucher die Tele2-Smart-Karte:**
 1. Tele2 Esindus-Filialen und R-Kiosk (auch am Flughafen Tallinn) verkaufen Starterpakete.
 2. Legen Sie zur persönlichen Registrierung Ihren **Reisepass oder EU-Personalausweis** vor.
 3. Wählen Sie einen Smart-Tarif; scannen Sie den eSIM-QR-Code.
 4. Laden Sie das Guthaben in der Iseteenindus-App auf.
 
 **Eigenheit:** Das Prepaid-Angebot von Tele2 begrenzt EU-Roaming streng und die Netzabdeckung außerhalb der Städte ist die schwächste der drei Anbieter, daher lohnt es sich nur, wenn Sie in Tallinn, Tartu oder Pärnu bleiben und den niedrigsten Preis wünschen.
+
+**Rechnung für eine Woche Estland.** Rechnen Sie mit rund zwei Gigabyte pro Tag, also etwa 14 GB. Lokal decken Sie das mit Telia Super 12 GB für 10 € plus kleinem Nachkauf ab, mit Tele2 Smart 15 GB für 9,99 € oder mit Elisa Zen 8 GB für 7,99 € plus Tageskarte. Hinzu kommen die Einrichtungsgebühr von 2–5 € und der Pass-Scan im Esindus. Auf den Landesdurchschnitt von 1,15 USD pro GB gerechnet, entsprechen 14 GB ungefähr 16 USD. Eine Estland-eSIM liegt in derselben Größenordnung und erspart Ihnen die Einrichtungsgebühr, den Schalterbesuch und das Risiko, dass am Ankunftstag gar kein Esindus geöffnet hat.
 
 ## Ausweispflicht für den SIM-Kauf
 
@@ -136,7 +138,9 @@ Was das in der Praxis bedeutet:
 
 Die estnische Regulierungsbehörde, die **Verbraucherschutz- und Technische Aufsichtsbehörde (TTJA)**, führt die nationale Netzabdeckungskarte, und die Ausweisregel wird von allen drei Netzbetreibern einheitlich durchgesetzt.
 
-## Grenzüberschreitende Netzabdeckung
+**Wann eine lokale SIM doch besser ist.** Bleiben Sie länger als ein paar Wochen, benötigen Sie eine estnische +372-Nummer für Bank, Wohnung oder Behörden oder verbringen Sie die gesamte Zeit in Tallinn, dann schlägt eine registrierte Elisa- oder Tele2-Prepaidkarte die Reise-eSIM beim Preis pro Gigabyte. Der Preis dafür ist der Weg zum Esindus mit dem Originalpass – genau die Hürde, die dieser Guide für Kurzreisende beschreibt.
+
+## Estland-eSIM über die Grenze: Finnland, Lettland und Russland
 
 Estland liegt innerhalb der EU/EWR, daher gilt „Roam Like at Home“ (EU-Verordnung [2022/612](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0612), garantiert bis 2032). Doch die Details sind für Besucher tückisch:
 
@@ -176,11 +180,11 @@ Estlands 24. Platz im weltweiten Ranking ist ein nationaler Durchschnitt – fü
 
 Reisen Sie weiter durch das Baltikum? Die gleiche Behandlung der benachbarten Netzbetreiber finden Sie in [unserem Finnland-Guide](/carriers/finland-esim-carrier-guide/), [der Lettland-eSIM-Seite](/latvia-esim/) und [der Litauen-eSIM-Seite](/lithuania-esim/).
 
-## Manuelle APN-Eingabe
+## APN für Estland von Hand eintragen – nur in zwei Fällen
 
 Sie benötigen diese nur, wenn Sie eine SIM- oder eSIM-Karte **direkt von einem estnischen Netzbetreiber** gekauft haben und sie sich nicht automatisch konfiguriert hat. Eine Reise-eSIM für Estland liefert ihren eigenen APN mit – lassen Sie diese unverändert.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Estnischer Betreiber | Zugangspunkt (APN) | Nutzername | Kennwort |
 |:---|:---|:---|:---|
 | Telia (EMT) | `internet.emt.ee` | leer | leer |
 | Elisa | `internet` | leer | leer |
@@ -280,7 +284,7 @@ Oft nicht. Die Kern-Prepaid-Tarife von Elisa und Tele2 blockieren oder beschrän
 
 Eine lokale Prepaid-eSIM ja – persönlich, mit Reisepass, seit dem Gesetz von 2024. Eine reine Daten-Reise-eSIM ohne estnische Nummer unterliegt dieser Registrierung nicht – genau deshalb ist sie die einfachere Option für Besucher.
 
-### Welche APN-Werte brauchen Telia Elisa und Tele2?
+### Welche APN-Werte brauchen Telia, Elisa und Tele2?
 
 Telia nutzt `internet.emt.ee`, Elisa nutzt `internet`, Tele2 nutzt `internet.tele2.ee` – jeweils mit leerem Benutzernamen und Passwort. Die meisten Telefone konfigurieren automatisch; nur manuell einstellen, wenn die Datenverbindung nach einer Direkt-Netzbetreiber-Installation ausfällt.
 

@@ -2,7 +2,7 @@
 
 title: "Schweiz-eSIM-Netzbetreiber: Swisscom, Sunrise und Salt"
 
-description: "Roami bewertet Swisscom, Sunrise und Salt nach Ookla-Daten, Prepaid-Regeln und Netzabdeckung in den Alpen, damit Sie den passenden Schweiz-eSIM-Netzbetreiber wählen."
+description: "Schweiz eSIM im Vergleich: Swisscom, Sunrise und Salt nach Netzabdeckung in den Alpen, Preisen und Prepaid-Registrierung."
 image: "img/esim/carriers/switzerland-esim-carrier-guide.jpg"
 
 date: "2026-09-23T10:34:23+00:00"
@@ -34,7 +34,7 @@ hero_subtitle_main: "Schweizer Netze ohne Marketing-Glanz"
 
 
 
-Die Schweiz ist das eine Alpenland, in dem Ihre Tarifwahl mit einer Tatsache kollidiert, die die meisten Besucher zu spät lernen. Das Land liegt außerhalb der Europäischen Union und außerhalb der EU-Roamingzone – das Netz, das Sie in Zürich online hält, kann Sie im Moment des Grenzübertritts nach Frankreich ruinieren, und ein französischer Tarif, der bis Basel funktioniert, kann plötzlich pro Megabyte abrechnen, sobald Sie in Genf aus dem Zug steigen. Dieser Guide vergleicht die drei Schweizer Netzbetreiber anhand verifizierter Netzabdeckung und Konsistenzwerte, zeigt die Prepaid-eSIM-Wege, die ausländischen Besuchern offenstehen, und erklärt, wo ein einziges Reise-Profil, das zwischen allen drei Netzen wechselt, Ihnen die böse Grenzüberraschung erspart.
+Die Schweiz ist das eine Alpenland, in dem Ihre eSIM-Wahl mit einer Tatsache kollidiert, die die meisten Besucher zu spät lernen. Das Land liegt außerhalb der Europäischen Union und außerhalb der EU-Roamingzone – das Netz, das Sie in Zürich online hält, kann Sie im Moment des Grenzübertritts nach Frankreich ruinieren, und ein französischer Tarif, der bis Basel funktioniert, kann plötzlich pro Megabyte abrechnen, sobald Sie in Genf aus dem Zug steigen. Dieser Guide vergleicht die drei Schweizer Netzbetreiber anhand verifizierter Netzabdeckung und Konsistenzwerte, zeigt die Prepaid-eSIM-Wege, die ausländischen Besuchern offenstehen, und erklärt, wo ein einziges Reise-Profil, das zwischen allen drei Netzen wechselt, Ihnen die böse Grenzüberraschung erspart.
 
 
 
@@ -46,7 +46,7 @@ Alles andere geht durch das Installations-Tor — das [eSIM-Kompatibilitätstool
 
 
 
-**Die Antwort in einem Absatz:** Sie bleiben in Zürich, Genf oder Basel? Swisscom ist das schnellste und konstanteste Netz und das einzige, das die Hochalpen zuverlässig erreicht. Sie fahren in die Berge nach Zermatt, in die Jungfrau-Region oder den Gotthard-Korridor? Swisscom hält das Signal, wo Sunrise und Salt schwächeln. Sie möchten einen Schweizer Prepaid-Tarif, der auch den EU-Übergang abdeckt? Nur Sunrise verkauft einen Touristen-Prepaid, der standardmäßig Frankreich, Deutschland, Italien und Österreich einschließt. Oder überspringen Sie den Papierkram und die Grenzrechnerei: Die [Roami kostenlose Schweiz-Test-eSIM](/free-esim/) testet die Netze ohne Kosten, und **WEB20** schenkt Ihnen 20 % auf [Schweiz-eSIM-Tarife](/switzerland-esim/).
+**Die Antwort in einem Absatz:** Sie bleiben in Zürich, Genf oder Basel? Swisscom ist das schnellste und konstanteste Netz und das einzige, das die Hochalpen zuverlässig erreicht. Sie fahren in die Berge nach Zermatt, in die Jungfrau-Region oder den Gotthard-Korridor? Swisscom hält das Signal, wo Sunrise und Salt schwächeln. Sie möchten einen Schweizer Prepaid-Tarif, der auch den EU-Übergang abdeckt? Nur Sunrise verkauft einen Touristen-Prepaid, der standardmäßig Frankreich, Deutschland, Italien und Österreich einschließt. Oder überspringen Sie den Papierkram und die Grenzrechnerei: Die [Roami kostenlose Schweiz-Test-eSIM](/free-esim/) testet die Netze ohne Kosten, und **WEB20** schenkt Ihnen 20 % auf Schweiz-eSIM-Tarife.
 
 
 
@@ -66,19 +66,19 @@ Dieser Abschnitt beantwortet die erste praktische Frage: Von den drei Netzen im 
 
 |:---|:---|:---|:---|
 
-| Prepaid eSIM für Besucher | Yes, über das Prepaid-Flat-Angebot für Touristen | Yes, über die Prepaid-Seite für Besucher | Yes, über Salt PrePay |
+| Prepaid-eSIM für Besucher | Ja, über das Prepaid-Flat-Angebot für Touristen | Ja, über die Prepaid-Seite für Besucher | Ja, über Salt PrePay |
 
 | Wo es überzeugt | Schnellstes Netz, beste Alpenabdeckung | Starke Städteabdeckung, einzige Prepaid-Lösung mit EU inklusive | Günstigster Einstieg, gut in Städten |
 
 | Günstigster Prepaid-Einstieg | CHF 20 für 7 Tage unbegrenzt | CHF 19,90 Starterpaket mit Guthaben | Free SIM, CHF 10 Guthaben, Pakete ab CHF 9,95 |
 
-| EU-Roaming inklusive | Nein, nur Schweiz | Yes bei Unlimited Europe Prepaid, 46 Länder | Nein bei Prepaid, Europa nur bei Abonnements |
+| EU-Roaming inklusive | Nein, nur Schweiz | Ja bei Unlimited Europe Prepaid, 46 Länder | Nein bei Prepaid, Europa nur bei Abonnements |
 
-| Einfachheit für Besucher | ★★★ — Online-eSIM, Reisepass für OFCOM-Bestimmungen erforderlich | ★★★ — Online-eSIM, ausländische Adresse akzeptiert | ★★★ — Online-eSIM, Reisepass akzeptiert |
+| Einfachheit für Besucher | ★★★ — online gekauft, Reisepass für OFCOM-Bestimmungen erforderlich | ★★★ — online gekauft, ausländische Adresse akzeptiert | ★★★ — online gekauft, Reisepass akzeptiert |
 
 
 
-**Lesen Sie diese Tabelle genau, denn sie verbirgt die einzige wirklich nützliche Information auf dieser Seite.** Alle drei Schweizer Netzbetreiber verkaufen eine Prepaid-eSIM, die Besucher tatsächlich erwerben können, aber nur Sunrise bündelt die angrenzenden EU-Länder in ein Prepaid-Produkt. Swisscom und Salt verkaufen reine Schweiz-Prepaid-Datentarife. Sobald Sie also mit diesen Tarifen nach Frankreich, Deutschland, Italien oder Österreich einreisen, nutzen Sie kostenpflichtiges Roaming, sofern Sie kein separates Paket hinzubuchen.
+**Lesen Sie diese Tabelle genau, denn sie verbirgt die einzige wirklich nützliche Information auf dieser Seite.** Alle drei hiesigen Netzbetreiber verkaufen eine Prepaid-Karte, die Besucher tatsächlich erwerben können, aber nur Sunrise bündelt die angrenzenden EU-Länder in ein Prepaid-Produkt. Swisscom und Salt verkaufen reine Schweiz-Prepaid-Datentarife. Sobald Sie also mit diesen Tarifen nach Frankreich, Deutschland, Italien oder Österreich einreisen, nutzen Sie kostenpflichtiges Roaming, sofern Sie kein separates Paket hinzubuchen.
 
 
 
@@ -86,25 +86,25 @@ Dieser Abschnitt beantwortet die erste praktische Frage: Von den drei Netzen im 
 
 
 
-In der Schweiz gibt es außerdem eine Reihe kleinerer Prepaid-Marken, die Kapazitäten von den drei Netzbetreibern anmieten, und mehrere davon stellen ebenfalls eSIMs aus.
+In der Schweiz gibt es außerdem eine Reihe kleinerer Prepaid-Marken, die Kapazitäten von den drei Netzbetreibern anmieten, und mehrere davon stellen ebenfalls digitale Profile aus.
 
 
 
-| Marke | Mutter-Netz | Prepaid eSIM? | Für wen geeignet |
+| Marke | Mutter-Netz | Prepaid-eSIM? | Für wen geeignet |
 
 |:---|:---|:---|:---|
 
-| Wingo | Swisscom | Yes | Budget Swisscom Netzabdeckung ohne den Swisscom Preis |
+| Wingo | Swisscom | Ja | Budget Swisscom Netzabdeckung ohne den Swisscom Preis |
 
-| yallo | Sunrise | Yes, über die App | Günstiger Sunrise Datentarif für Städtereisen |
+| yallo | Sunrise | Ja, über die App | Günstiger Sunrise Datentarif für Städtereisen |
 
-| Digitalrepublik | Sunrise | Yes, vollständig online | Technisch versierte Reisende, die günstige unbegrenzte |
+| Digitalrepublik | Sunrise | Ja, vollständig online | Technisch versierte Reisende, die günstige unbegrenzte |
 
-| spusu | Salt | Yes | Salt Netz mit einem kleinen Monatstarif |
+| spusu | Salt | Ja | Salt Netz mit einem kleinen Monatstarif |
 
-| Lebara | Swisscom | Yes | Günstige Anrufe mit Swisscom-Reichweite |
+| Lebara | Swisscom | Ja | Günstige Anrufe mit Swisscom-Reichweite |
 
-| Post Mobile | Salt | Yes | Salt Mobilfunknetz, das in den Postfilialen erhältlich ist |
+| Post Mobile | Salt | Ja | Salt Mobilfunknetz, das in den Postfilialen erhältlich ist |
 
 
 
@@ -112,11 +112,11 @@ Zwei Hinweise sind angebracht. Erstens: Eine Discount-Marke ist nach wie vor an 
 
 
 
-### Kann man eine Switzerland eSIM von Swisscom kaufen?
+### Kann man eine eSIM von Swisscom kaufen?
 
 
 
-| | Direkt von einem Schweizer Netzbetreiber | Reise-eSIM im Schweizer Netz |
+| | Direkt von einem hiesigen Netzbetreiber | Reiseprofil im Schweizer Netz |
 
 |:---|:---|:---|
 
@@ -124,11 +124,11 @@ Zwei Hinweise sind angebracht. Erstens: Eine Discount-Marke ist nach wie vor an 
 
 | So erhalten Sie Ihr Profil | eSIM-QR-Code oder im Laden nach einer Identitätsprüfung | QR-Code direkt nach dem Bestellabschluss |
 
-| Typische Kosten | Swisscom CHF 20 für 7 Tage; Sunrise ab CHF 19,90; Salt kostenlose SIM plus Pakete | One Vorabpreis, keine Ausweisdokumente |
+| Typische Kosten | Swisscom CHF 20 für 7 Tage; Sunrise ab CHF 19,90; Salt kostenlose SIM plus Pakete | Ein fester Vorabpreis, keine Ausweisdokumente |
 
-| Netzabdeckung | One Netzbetreiber oder Sunrise Europa Prepaid in 46 Ländern | Automatisches Wechseln zwischen Swisscom, Sunrise und Salt |
+| Netzabdeckung | Ein Netz oder Sunrise Europa Prepaid in 46 Ländern | Automatischer Wechsel zwischen Swisscom, Sunrise und Salt |
 
-| Am besten für | Lange Aufenthalte, eine Schweizer Nummer, alpiner Fokus bei Swisscom | One bis drei Wochen dauernden Reisen, online bei der Landung, Grenzübertritt |
+| Am besten für | Lange Aufenthalte, eine hiesige Rufnummer, alpiner Fokus bei Swisscom | Ein- bis dreiwöchige Reisen, online direkt bei der Landung, Grenzübertritt |
 
 
 
@@ -136,19 +136,19 @@ Für einen normalen Urlaub ist die Rechnung nicht knapp. Ein Schweizer Prepaid-T
 
 
 
-💡 Ein Multi-Netzwerk-eSIM-Profil ist der praktische Mittelweg: [Roamis Schweiz-eSIM](/switzerland-esim/) bietet den Komfort der sofortigen Bereitstellung, verbindet sich automatisch mit dem der drei Schweizer Netze, das an Ihrem Standort am stärksten ist, und bringt Sie oberhalb der Schneegrenze auf Swisscom, ohne doppelt zu kaufen.
+💡 Ein Multi-Netzwerk-eSIM-Profil ist der praktische Mittelweg: Roamis Landestarif bietet den Komfort der sofortigen Bereitstellung, verbindet sich automatisch mit dem der drei Schweizer Netze, das an Ihrem Standort am stärksten ist, und bringt Sie oberhalb der Schneegrenze auf Swisscom, ohne doppelt zu kaufen.
 
 
 
-## Schweiz eSIM: Anforderungen an das Telefon
+## Schweiz-Tarif: Anforderungen an das Telefon
 
 
 
-Three Dinge entscheiden, ob Ihr Telefon bei einem Schweizer Netzbetreiber funktioniert: die unterstützten Frequenzbänder, der Sperrstatus und eine kurze Liste gerätespezifischer Besonderheiten. Alle drei werden im Folgenden behandelt.
+Drei Punkte entscheiden, ob Ihr Telefon in einem der hiesigen Netze funktioniert: die unterstützten Frequenzbänder, der Sperrstatus und eine kurze Liste gerätespezifischer Besonderheiten. Alle drei werden im Folgenden behandelt.
 
 
 
-### Welche Geräte sind für Schweiz-eSIMs gesperrt?
+### Welche Geräte sind für eSIM-Tarife gesperrt?
 
 
 
@@ -156,15 +156,12 @@ Schweizer Netzbetreiber bauen ihr 5G auf Band n78 bei 3500 MHz und ihr 4G auf de
 
 
 
-Bandtabellen sind keine Abendlektüre, und Sie müssen sie nicht auswendig kennen. Vergleichen Sie die Modellnummer, nicht die Verkaufsbezeichnung, mit der [Kompatibilitätsliste für Telefone](/compatibility/). Wenn Sie die Technik lieber verstehen möchten, bevor Sie sich auf einer Bergstraße darauf verlassen, erklärt [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/) alles.
+Bandtabellen sind keine Abendlektüre, und Sie müssen sie nicht auswendig kennen. Vergleichen Sie die Modellnummer, nicht die Verkaufsbezeichnung, mit der Kompatibilitätsliste für Telefone. Wenn Sie die Technik lieber verstehen möchten, bevor Sie sich auf einer Bergstraße darauf verlassen, erklärt der Aktivierungs-Ablauf alles.
 
 
 
-### Installation Ihrer Schweiz-eSIM
-
-
-
-Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation einer Schweizer eSIM einfach fehlschlägt, und die Sperrfrage hat hier zwei Facetten. Ein Telefon, das mit einem Vertrag von Swisscom, Sunrise oder Salt gekauft wurde, kann gesperrt sein, bis der Vertrag oder das Gerät abbezahlt ist. Ein Telefon von einem EU- oder UK-Netzbetreiber kann an diesen Anbieter gebunden sein und akzeptiert ebenfalls kein Schweizer Profil. Die Schweiz liegt außerhalb der EU-Roamingzone, aber die Sperrregeln werden vom Verkäufer festgelegt, nicht von der Grenze.
+### Installation Ihrer Schweizer eSIM
+Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation einer eSIM hier einfach fehlschlägt, und die Sperrfrage hat hier zwei Facetten. Ein Telefon, das mit einem Vertrag von Swisscom, Sunrise oder Salt gekauft wurde, kann gesperrt sein, bis der Vertrag oder das Gerät abbezahlt ist. Ein Telefon von einem EU- oder UK-Netzbetreiber kann an diesen Anbieter gebunden sein und akzeptiert ebenfalls kein Schweizer Profil. Die Schweiz liegt außerhalb der EU-Roamingzone, aber die Sperrregeln werden vom Verkäufer festgelegt, nicht von der Grenze.
 
 
 
@@ -180,7 +177,7 @@ Wenn Sie ein gebrauchtes Telefon oder ein Vertragstelefon gekauft haben, gehen S
 
 
 
-### Funktioniert mein iPhone mit Schweiz-eSIMs?
+### Funktioniert mein iPhone mit eSIM-Tarifen?
 
 
 
@@ -188,7 +185,7 @@ Wenn Sie ein gebrauchtes Telefon oder ein Vertragstelefon gekauft haben, gehen S
 
 |:---|:---|:---|
 
-| EU- oder Schweizer Handy mit Netzbetreiber-Sperre | eSIM-Installation schlägt vollständig fehl | Zuerst über den ursprünglichen Netzbetreiber entsperren lassen, dann erneut versuchen |
+| EU- oder hiesiges Handy mit Netzbetreiber-Sperre | Installation schlägt vollständig fehl | Zuerst über den ursprünglichen Netzbetreiber entsperren lassen, dann erneut versuchen |
 
 | Telefon unterstützt Band 20 bei 800 MHz nicht | Schwaches Signal in ländlichen Gebieten, Tunneln und im Hochgebirge | Bevorzugen Sie Swisscom oder nutzen Sie eine Multi-Netzwerk-eSIM |
 
@@ -204,7 +201,7 @@ Darüber hinaus ist Ihr Gerät die Variable, nicht Swisscom oder Sunrise. Ein sc
 
 
 
-## Die Möglichkeiten, eine Schweizer eSIM tatsächlich zu erhalten
+## Die Möglichkeiten, einen Landestarif tatsächlich zu erhalten
 
 
 
@@ -212,7 +209,7 @@ Es gibt vier Wege, und sie unterscheiden sich stärker im Preis und im Verhalten
 
 
 
-### Wo Sie eine Schweiz-eSIM finden
+### Wo Sie eine eSIM für die Schweiz finden
 
 
 
@@ -256,7 +253,7 @@ Swisscom weist auf seiner Touristenseite ausdrücklich darauf hin, dass die Schw
 
 
 
-### Lokale SIM in der Schweiz vs. Reise-eSIM
+### Lokale SIM im Land vs. Reise-Tarif
 
 
 
@@ -340,17 +337,17 @@ Salt PrePay-Preise auf einen Blick:
 
 
 
-Salt's europaweite Angebote befinden sich in den Abo-Stufen, nicht in PrePay. Eine in Frankreich oder Italien genutzte Salt Prepaid-Karte fällt daher auf kostenpflichtiges Roaming zurück. Für einen Aufenthalt nur in der Schweiz mit kleinem Budget ist Salt kaum zu schlagen; für eine Reise über mehrere Länder hinweg sind Sunrise oder eine Reise-eSIM die sicherere Wahl.
+Salt's europaweite Angebote befinden sich in den Abo-Stufen, nicht in PrePay. Eine in Frankreich oder Italien genutzte Salt-Prepaid-Karte fällt daher auf kostenpflichtiges Roaming zurück. Für einen Aufenthalt nur in der Schweiz mit kleinem Budget ist Salt kaum zu schlagen; für eine Reise über mehrere Länder hinweg sind Sunrise oder eine Reise-eSIM die sicherere Wahl.
 
 
 
-### Schweiz-eSIM-Tarife auf einen Blick
+### Landestarife auf einen Blick
 
 
 
-- **Reisepass** — erforderlich für die OFCOM-Registrierung bei jeder Schweizer Prepaid-Karte, ob physisch oder eSIM
+- **Reisepass** — erforderlich für die OFCOM-Registrierung bei jeder hiesigen Prepaid-Karte, ob physisch oder digital
 
-- **IMEI** — wählen Sie `*#06#`
+- **IMEI** — die Gerätekennung Ihres Handys, ausgelesen über die Tastenkombination `*#06#`
 
 - **EID** — ebenfalls aus dem `*#06#`-Bildschirm; die eigene Kennung der eSIM
 
@@ -362,11 +359,11 @@ Salt's europaweite Angebote befinden sich in den Abo-Stufen, nicht in PrePay. Ei
 
 
 
-Die Tarife und aktuellen Stufen finden Sie auf unserer [Schweiz-eSIM-Seite](/switzerland-esim/). Schließen Sie die Installation vor der Abreise ab, damit das Profil sofort einsatzbereit ist, sobald Sie die Grenze überqueren.
+Die Tarife und aktuellen Stufen finden Sie in unserer [Tarifübersicht](/plans/). Schließen Sie die Installation vor der Abreise ab, damit das Profil sofort einsatzbereit ist, sobald Sie die Grenze überqueren.
 
 
 
-## Die Schweizer eSIM-Netzbetreiber: Swisscom, Sunrise und Salt
+## Die hiesigen Netzbetreiber: Swisscom, Sunrise und Salt
 
 
 
@@ -390,11 +387,11 @@ Die folgenden Werte auf Netzbetreiberebene stammen aus dem Speedtest-Konnektivit
 
 | Salt | 92,7 |
 
-| Sunrise | 88.3 |
+| Sunrise | 88,3 |
 
 
 
-Source: Ookla Speedtest Konnektivitätsbericht – Schweiz, Juli bis Dezember 2024, [der Bericht pro Netzbetreiber](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h2-2024). Die Konsistenz spiegelt den Anteil der Messungen wider, die einen Schwellenwert von 5 Mbit/s im Download und 1 Mbit/s im Upload erfüllen.
+Quelle: Ookla Speedtest Konnektivitätsbericht – Schweiz, Juli bis Dezember 2024, [der Bericht pro Netzbetreiber](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h2-2024). Die Konsistenz spiegelt den Anteil der Messungen wider, die einen Schwellenwert von 5 Mbit/s im Download und 1 Mbit/s im Upload erfüllen.
 
 
 
@@ -406,7 +403,7 @@ Für das Land insgesamt stufte der [Speedtest Global Index](https://www.speedtes
 
 
 
-### Beste Schweiz-eSIM nach Reiseart
+### Beste eSIM nach Reiseart
 
 
 
@@ -436,7 +433,7 @@ Die Schweizer Netzabdeckung folgt in den Städten dem Geld und in den Bergen den
 
 
 
-| Region | Realität vor Ort | Bester Netzbetreiber |
+| Strecke | Empfang vor Ort | Empfehlung |
 
 |:---|:---|:---|
 
@@ -448,7 +445,7 @@ Die Schweizer Netzabdeckung folgt in den Städten dem Geld und in den Bergen den
 
 | Gotthard-Korridor und Tessiner Täler | Passstraße und Täler mit 4G; das Signal wird auf abgelegenen hohen Pässen schwächer; Swisscom erreicht die entlegensten Orte | Swisscom |
 
-| Grenzgebiete, Genf, Basel, Tessin | Das Telefon kann sich mit einem französischen, deutschen oder italienischen Sendemast verbinden und in beide Richtungen roamen | Reise-eSIM oder ein EU-inclusiver Tarif |
+| Grenzgebiete, Genf, Basel, Tessin | Das Telefon kann sich mit einem französischen, deutschen oder italienischen Sendemast verbinden und in beide Richtungen roamen | Reise-eSIM oder ein EU-inklusiver Tarif |
 
 
 
@@ -457,6 +454,32 @@ Grenzübertritt? Wir veröffentlichen dieselbe fundierte Übersicht für [Frankr
 
 
 Die automatische Netzwahl erledigt dies hier still im Hintergrund. Ein Profil, das zwischen Swisscom, Sunrise und Salt wechseln kann, schließt die Lücken, die ein Einzelnetzbetreiber-Tarif nicht abdecken kann – besonders sobald die Route die Schweiz verlässt.
+
+
+
+## An der Grenze: Was mit Ihrem Profil beim EU-Übertritt passiert
+
+
+
+Wer die Schweiz nur durchquert, merkt nichts. Wer weiterfährt, merkt es auf der Rechnung. Das Land liegt außerhalb der Europäischen Union und des Europäischen Wirtschaftsraums, deshalb endet bei Basel, Genf, Chiasso und Buchs die EU-Roaming-Verordnung. Ein Tarif, der in Freiburg im Breisgau noch wie zu Hause lief, wird auf der hiesigen Seite nach den Auslandspreisen des Heimatanbieters abgerechnet. Und umgekehrt rechnet ein reiner Inlandstarif von Swisscom oder Salt schon die erste Minute in Lörrach oder Konstanz als Roaming ab.
+
+
+
+| Übergang | Was Sie erwartet | Der Ausweg |
+
+|:---|:---|:---|
+
+| Basel und Genf nach Frankreich | Das Telefon wählt sich auf einen französischen Mast; ein Inlandstarif löst Roamingkosten aus | Sunrise Europa-Prepaid oder ein Reiseprofil mit beiden Ländern |
+
+| Schaffhausen und Kreuzlingen nach Deutschland | Die Grenze verläuft mitten durch den Ballungsraum, oft ohne sichtbaren Netzwechsel | In den Netzeinstellungen manuell Swisscom erzwingen |
+
+| Chiasso und Lugano nach Italien | Der italienische Sender ist im Tessin häufig der stärkste | Netzbetreiber manuell festlegen, bevor Sie in den Zug steigen |
+
+| Liechtenstein | Das Fürstentum ist EWR-Mitglied, ein EU-Tarif greift hier plötzlich wieder | Vor der Rückreise nach Buchs das Datenroaming der Heim-SIM prüfen |
+
+
+
+**Die Rechnung für eine typische Woche.** Wer nur Zürich, Genf und die Jungfrau-Region sieht, deckt alles mit der Swisscom Prepaid Flat 7 für CHF 20 ab – unbegrenzt, aber auf etwa 50 Mbps gedrosselt und ausschließlich im Inland. Kommt ein Abstecher nach Annecy, Lindau oder Como dazu, reicht der Inlandstarif nicht mehr, und Sie buchen ein separates Auslandspaket nach. Die Sunrise-Alternative Unlimited Europe 7 kostet CHF 59,90 und legt 60 GB in 46 europäischen Ländern obendrauf; die Differenz von rund CHF 40 trägt die zwei Ausflugstage mühelos. Wer klein bleiben will, nimmt Salts 5-GB-Paket für CHF 14,95 innerhalb des Landes und plant für jeden Grenztag bewusst ein Auslandspaket ein. Cable.co.uk berechnet 1 GB hier mit etwa 7,29 USD, einem der höchsten Werte Europas; genau deshalb ist ein Profil mit den Nachbarnetzen günstiger als das Nachbuchen am Grenzübertritt.
 
 
 
@@ -472,11 +495,11 @@ Der APN-Bildschirm ist einer, den die meisten Menschen nie öffnen – genau des
 
 
 
-Sie benötigen diese Werte nur, wenn Sie eine SIM oder eSIM direkt von einem Schweizer Netzbetreiber gekauft haben. Handelt es sich um eine Reise-eSIM, ist der APN bereits voreingestellt, und manuelle Änderungen bringen die Datenverbindung meistens zum Erliegen.
+Sie benötigen diese Werte nur, wenn Sie eine SIM oder ein Profil direkt von einem hiesigen Netzbetreiber gekauft haben. Handelt es sich um eine Reise-eSIM, ist der APN bereits voreingestellt, und manuelle Änderungen bringen die Datenverbindung meistens zum Erliegen.
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | Zugangspunkt (APN) | Benutzername | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -498,7 +521,7 @@ Benutzername und Passwort leer lassen. Wo ein Betreiber auf einem Wert besteht, 
 
 - Ein älteres Mobiltelefon, das die Betreibereinstellungen nicht automatisch übernimmt
 
-- Ein Profil, das mit einem manuellen Aktivierungscode statt per QR-Scan installiert wurde
+- Ein Profil, das statt per QR-Scan mit dem manuellen Aktivierungscode von Swisscom, Sunrise oder Salt eingerichtet wurde
 
 - Eine vom Netzbetreiber ausgegebene Prepaid eSIM, bei der die automatische Konfiguration nicht ausgeführt wurde
 
@@ -512,15 +535,15 @@ Benutzername und Passwort leer lassen. Wo ein Betreiber auf einem Wert besteht, 
 
 - **iPhone:** Einstellungen → Mobiles Netz → die eSIM-Zeile antippen → Mobilfunknetz → APN eingeben
 
-- **Android:** Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunkte → neuen APN hinzufügen
+- **Android (Samsung, Pixel, Xiaomi):** Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunkte (APN) → neuen Eintrag „Swisscom“ anlegen
 
 
 
-Speichern und das Mobiltelefon neu starten. Stilles Daten-Netz auf einer Bergstraße bedeutet meistens eine falsche Datenleitung, also zuerst prüfen, ob die eSIM ausgewählt ist.
+Speichern und das Mobiltelefon neu starten. Stilles Daten-Netz auf einer Bergstraße bedeutet meistens eine falsche Datenleitung, also zuerst prüfen, ob die eSIM als Datenleitung ausgewählt ist.
 
 
 
-## Vom QR-Code zur Verbindung
+## Vom QR-Scan bis zur ersten Schweizer Datenverbindung
 
 
 
@@ -538,13 +561,13 @@ Eine einzige Anleitung zu diesem Abschnitt deckt die saubere Installation bis hi
 
 | 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | Unter „Einstellungen" -> „Allgemein" -> „Info" wird bei „Netzbetreiberbindung" der Status „Keine SIM-Beschränkungen" angezeigt |
 
-| 2 | Das Telefon unterstützt eSIM | `*#06#` eine EID anzeigt oder der [Kompatibilitäts-Check für das Mobilgerät](/compatibility/) Ihr Modell bestätigt |
+| 2 | Das Telefon unterstützt eSIM | `*#06#` eine EID anzeigt oder der Kompatibilitäts-Check für das Mobilgerät Ihr Modell bestätigt |
 
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud |
+| 3 | QR-Code und Aktivierungscode gesichert | Doppelt ablegen: in der Fotomediathek des Telefons und in der Cloud |
 
 | 4 | Profil vor der Abreise installieren | Installation zu Hause über WLAN; es verbindet sich automatisch bei der Landung |
 
-| 5 | Datenleitung und Roaming eingestellt | eSIM für mobile Daten ausgewählt, Datenroaming aktiviert |
+| 5 | Datenleitung und Roaming zugewiesen | Reiseprofil als aktive Datenleitung gewählt, Datenroaming eingeschaltet |
 
 
 
@@ -560,11 +583,11 @@ Die komplette Schritt-für-Schritt-Anleitung auf einer Seite finden Sie in unser
 
 
 
-- **Swisscom:** Aktivierung über den QR-Code auf der Touristenseite für Prepaid-Tarife; die eSIM verbindet sich beim ersten Netzempfang in der Schweiz, kein Ladenbesuch nötig
+- **Swisscom:** Aktivierung über den QR-Code auf der Touristenseite für Prepaid-Tarife; die eSIM verbindet sich beim ersten Netzempfang hier, kein Ladenbesuch nötig
 
-- **Sunrise:** Online-Registrierung mit Hochladen des Ausweises und einem Video-Selfie; die eSIM wird nach der Prüfung heruntergeladen, ausländische Adresse wird akzeptiert
+- **Sunrise:** Online-Registrierung mit Hochladen des Ausweises und einem Video-Selfie; das Profil wird nach der Prüfung heruntergeladen, ausländische Adresse wird akzeptiert
 
-- **Salt:** PrePay-eSIM wird per QR-Code installiert, sobald die kostenlose SIM und das Guthaben bereitstehen; Reisepass wird akzeptiert
+- **Salt:** Das PrePay-Profil wird per QR-Code installiert, sobald die kostenlose SIM und das Guthaben bereitstehen; Reisepass wird akzeptiert
 
 - **Reise-eSIMs:** Installation per QR-Code, dasselbe Profil verbindet sich automatisch mit dem stärksten verfügbaren Netz von Swisscom, Sunrise oder Salt
 
@@ -578,7 +601,7 @@ Allgemeine Aktivierungsfehler, ein Profil, das sich nicht herunterladen lässt, 
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das Profil landet gar nicht erst auf dem Gerät**
 
 1. Wenn unter „Netzbetreiber-Lock“ (Carrier Lock) die Anzeige „Keine SIM-Beschränkungen“ steht, ist das Gerät entsperrt
 
@@ -590,7 +613,7 @@ Allgemeine Aktivierungsfehler, ein Profil, das sich nicht herunterladen lässt, 
 
 **B. Installiert, aber kein Empfang in den Bergen**
 
-1. Den Sperrstatus erneut prüfen
+1. Den Sperrstatus erneut prüfen – „Keine SIM-Einschränkungen“ ist die Voraussetzung für ein Swisscom-, Salt- oder Sunrise-Profil
 
 2. Einstellungen → Mobilfunk → Netzauswahl → Swisscom manuell wählen, um die beste Versorgung im Alpenraum zu erhalten
 
@@ -618,7 +641,7 @@ Allgemeine Aktivierungsfehler, ein Profil, das sich nicht herunterladen lässt, 
 
 
 
-### Was Sie vor dem Anruf beim Support für eine Schweizer eSIM vorbereiten sollten
+### Was Sie vor dem Anruf beim Support für eine eSIM vorbereiten sollten
 
 
 
@@ -626,51 +649,51 @@ Allgemeine Aktivierungsfehler, ein Profil, das sich nicht herunterladen lässt, 
 
 |:---|:---|
 
-| Bestell- oder Kontonummer | Bestätigungs-E-Mail |
+| Bestellnummer aus dem Roami-Konto | Bestätigungs-Mail des Tarifkaufs |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Handy-Modell und iOS- oder Android-Version | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
 
 | EID | `*#06#` |
 
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Foto der Fehlermeldung | Noch im Dialog aufnehmen – Swisscom und Sunrise sehen es im Service-Chat zuerst |
 
-| Aktuelle APN-Einstellungen | Einstellungen → Mobilfunknetz |
+| Eingetragener Zugangspunkt (APN) | Einstellungen → Mobilfunk → Mobilfunkdatennetz |
 
-| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Status Datenroaming | Einstellungen → Mobilfunk → Swisscom-, Sunrise- oder Salt-Leitung → Datenroaming |
 
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
-
-
-
-## Your Switzerland eSIM: die Fragen, die wirklich zählen
+| Bisher unternommene Schritte | Kurz halten: Entsperrung, manuelle Netzwahl, APN, Neustart |
 
 
 
-### Swisscom eSIM-Tarife für Reisende
+## Schweiz-eSIM: die Fragen, die wirklich zählen
 
 
 
-Yes. Das Prepaid-Flat-Angebot für Touristen von Swisscom verkauft eine eSIM online ohne Vertrag und ohne Schweizer Adresse, für CHF 20 für 7 Tage, CHF 40 für 15 Tage, CHF 65 für 30 Tage und CHF 150 für 90 Tage, alles unlimitiert innerhalb der Schweiz mit einer Drosselung bei etwa 50 Mbps. Der Haken ist, dass das Volumen nur für die Schweiz gilt, sodass Frankreich, Deutschland, Italien oder Österreich kostenpflichtiges Roaming verursachen, sofern Sie keine Reiseoption hinzubuchen.
+### Bietet Swisscom einen eSIM-Tarif für Reisende an?
 
 
 
-### Bietet Sunrise eine Prepaid-eSIM an, die Frankreich, Deutschland, Italien und Österreich einschließt?
+Ja. Das Prepaid-Flat-Angebot für Touristen von Swisscom verkauft ein digitales Profil online ohne Vertrag und ohne Schweizer Adresse, für CHF 20 für 7 Tage, CHF 40 für 15 Tage, CHF 65 für 30 Tage und CHF 150 für 90 Tage, alles unlimitiert innerhalb der Schweiz mit einer Drosselung bei etwa 50 Mbps. Der Haken ist, dass das Volumen nur für die Schweiz gilt, sodass Frankreich, Deutschland, Italien oder Österreich kostenpflichtiges Roaming verursachen, sofern Sie keine Reiseoption hinzubuchen.
 
 
 
-Ja, und es ist die einzige der drei, die die Nachbarländer in das Prepaid bündelt. Sunrise Unlimited Europe 7 für CHF 59,90 und Unlimited Europe 30 für CHF 74,90 bieten unlimitierte Daten in der Schweiz plus 60 GB Hochgeschwindigkeitsdaten in 46 europäischen Ländern, einschließlich aller vier Grenzländer. Bei den Prepaid-Angeboten von Swisscom und Salt fallen diese Länder unter kostenpflichtiges Roaming, daher ist Sunrise für eine grenzüberschreitende Rundreise die Netzbetreiber-eSIM, die Sie kaufen sollten.
+### Bietet Sunrise eine Prepaid-Karte an, die Frankreich, Deutschland, Italien und Österreich einschließt?
 
 
 
-### Können internationale Reisende eine Salt eSIM ohne Schweizer Adresse erhalten?
+Ja, und es ist die einzige der drei, die die Nachbarländer in das Prepaid bündelt. Sunrise Unlimited Europe 7 für CHF 59,90 und Unlimited Europe 30 für CHF 74,90 bieten unlimitierte Daten in der Schweiz plus 60 GB Hochgeschwindigkeitsdaten in 46 europäischen Ländern, einschließlich aller vier Grenzländer. Bei den Prepaid-Angeboten von Swisscom und Salt fallen diese Länder unter kostenpflichtiges Roaming, daher ist Sunrise für eine grenzüberschreitende Rundreise der Betreibertarif, den Sie kaufen sollten.
 
 
 
-Yes. Salt PrePay stellt eine eSIM aus und akzeptiert bei der Identitätsprüfung einen ausländischen Reisepass, ohne dass eine Schweizer Adresse erforderlich ist. Der Einstieg wird als kostenlose SIM mit CHF 10 Guthaben beworben, Datenpakete beginnen bei CHF 9,95 für 1 GB. Salt ist der günstigste Einstieg in der Schweiz, aber dessen Prepaid gilt nur für die Schweiz und ist in den Alpentälern schwächer als Swisscom, wägen Sie also den Preis gegen die alpine Reichweite ab.
+### Können internationale Reisende einen Salt-Tarif ohne hiesige Adresse erhalten?
 
 
 
-### Welcher Netzbetreiber versorgt die Schweiz am besten ab?
+Ja. Salt PrePay stellt ein Profil aus und akzeptiert bei der Identitätsprüfung einen ausländischen Reisepass, ohne dass eine hiesige Adresse erforderlich ist. Der Einstieg wird als kostenlose SIM mit CHF 10 Guthaben beworben, Datenpakete beginnen bei CHF 9,95 für 1 GB. Salt ist der günstigste Einstieg in der Schweiz, aber dessen Prepaid gilt nur für die Schweiz und ist in den Alpentälern schwächer als Swisscom, wägen Sie also den Preis gegen die alpine Reichweite ab.
+
+
+
+### Welcher Netzbetreiber versorgt die Schweiz am besten?
 
 
 
@@ -678,7 +701,7 @@ Swisscom, sowohl nach den Daten als auch vor Ort. Er liegt bei der Konsistenz mi
 
 
 
-### Schweiz-eSIMs beim Roaming nutzen
+### Gilt EU-Roaming in der Schweiz?
 
 
 
@@ -698,19 +721,19 @@ Weil die Roam-Like-at-Home-Obergrenzen nur innerhalb der EU und des EWR gelten, 
 
 
 
-Yes, für jede Schweizer Prepaid-Karte, ob physisch oder eSIM. Das OFCOM verlangt von jedem Netzbetreiber und jeder Discount-Marke, die SIM mit einem Ausweisdokument zu registrieren, wobei ein Reisepass oder eine Schweizer Identitätskarte akzeptiert wird, ein Führerschein jedoch nicht. Diese Prüfung unterscheidet eine Schweizer Prepaid von einer reisefähigen eSIM ohne Dokumentenpflicht, die die Identität stattdessen beim Checkout abwickelt.
+Ja, für jede hiesige Prepaid-Karte, ob physisch oder digital. Das OFCOM verlangt von jedem Netzbetreiber und jeder Discount-Marke, die SIM mit einem Ausweisdokument zu registrieren, wobei ein Reisepass oder eine Schweizer Identitätskarte akzeptiert wird, ein Führerschein jedoch nicht. Diese Prüfung unterscheidet eine hiesige Prepaid von einem Reiseprofil ohne Dokumentenpflicht, die die Identität stattdessen beim Checkout abwickelt.
 
 
 
-### IMEI und EID für die Schweiz prüfen
+### Muss ich IMEI und EID für die Schweiz prüfen?
 
 
 
-Das Gerät muss entsperrt und eSIM-fähig sein, und es hilft, wenn es Band 20 bei 800 MHz für die Versorgung im ländlichen Raum und in Tunneln unterstützt. One finden Sie auf der [Kompatibilitätsseite](/compatibility/) Antworten sowohl zur EID als auch zur Band-Frage. Falls der Installationsschritt unklar ist, lesen Sie [was bei der eSIM-Aktivierung passiert](/faq/what-is-esim-activation-and-how-does-it-work/).
+Das Gerät muss entsperrt und eSIM-fähig sein, und es hilft, wenn es Band 20 bei 800 MHz für die Versorgung im ländlichen Raum und in Tunneln unterstützt. Antworten sowohl zur EID als auch zur Band-Frage finden Sie auf der Kompatibilitätsseite. Falls der Installationsschritt unklar ist, lesen Sie [was bei der eSIM-Aktivierung passiert](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 
 
-### Wie Sie ein netzbetreibergesperrtes Telefon für die Schweiz entsperren
+### Wie entsperre ich ein netzbetreibergesperrtes Telefon für die Schweiz?
 
 
 
@@ -718,23 +741,23 @@ Fragen Sie den Netzbetreiber, an den es gebunden ist. Ein Telefon mit einem Swis
 
 
 
-### Welche Datenmenge sollten Sie für die Schweiz laden?
+### Funktioniert mein EU-Tarif in Liechtenstein, obwohl die Schweiz nicht zur EU gehört?
 
 
 
-Liechtenstein gehört zum EWR, daher funktioniert ein EU- oder EWR-Tarif, der die Schweiz ausschloss, plötzlich zu Heimattarifen, sobald Sie von Österreich nach Liechtenstein wechseln, und wechselt wieder zu internationalen Tarifen, sobald Sie wenige Kilometer weiter wieder in die Schweiz einreisen. Die Grenze ist fast unsichtbar, die Abrechnung jedoch nicht, schalten Sie daher Datenroaming auf Ihrer Heim-SIM aus und nutzen Sie für den Schweizer Abschnitt eine Schweizer oder eine Reise-eSIM.
+Liechtenstein gehört zum EWR, daher funktioniert ein EU- oder EWR-Tarif, der die Schweiz ausschloss, plötzlich zu Heimattarifen, sobald Sie von Österreich nach Liechtenstein wechseln, und wechselt wieder zu internationalen Tarifen, sobald Sie wenige Kilometer weiter wieder in die Schweiz einreisen. Die Grenze ist fast unsichtbar, die Abrechnung jedoch nicht, schalten Sie daher Datenroaming auf Ihrer Heim-SIM aus und nutzen Sie für den Abschnitt hier einen hiesigen Tarif oder ein Reiseprofil.
 
 
 
-### Sollten Sie bei einem Schweizer Netzbetreiber kaufen oder eine Reise-eSIM nutzen?
+### Sollten Sie bei einem hiesigen Netzbetreiber kaufen oder ein Reiseprofil nutzen?
 
 
 
-Direkt bedeutet ein einzelnes Netz, eine OFCOM-Identitätsprüfung und oft eine Schweizer Nummer; im Gegenzug erhalten Sie Inlandsgespräche und, bei Sunrise, eine eingebaute EU-Abdeckung. Eine Reise-eSIM bedeutet sofortige Bereitstellung, keine Dokumente, automatischer Wechsel zwischen Swisscom, Sunrise und Salt sowie ein fester Vorabpreis, der bereits die Grenzüberquerung abdeckt. Kurze Reise: Reise-eSIM. Planen Sie einen längeren Aufenthalt oder benötigen Sie eine lokale Nummer? Überspringen Sie die Reiseprodukte und gehen Sie direkt zum Netzbetreiber.
+Direkt bedeutet ein einzelnes Netz, eine OFCOM-Identitätsprüfung und oft eine Schweizer Nummer; im Gegenzug erhalten Sie Inlandsgespräche und, bei Sunrise, eine eingebaute EU-Abdeckung. Ein Reiseprofil bedeutet sofortige Bereitstellung, keine Dokumente, automatischer Wechsel zwischen Swisscom, Sunrise und Salt sowie ein fester Vorabpreis, der bereits die Grenzüberquerung abdeckt. Kurze Reise: Reiseprofil. Planen Sie einen längeren Aufenthalt oder benötigen Sie eine lokale Nummer? Überspringen Sie die Reiseprodukte und gehen Sie direkt zum Netzbetreiber.
 
 
 
-### Was, wenn meine Schweiz-eSIM in den Bergen nicht mehr funktioniert?
+### Was, wenn mein Landestarif in den Bergen nicht mehr funktioniert?
 
 
 
@@ -746,7 +769,7 @@ Weitere Fragen? [Zum vollständigen FAQ →](/faq/)
 
 
 
-## Die Quellen hinter unseren Schweiz-eSIM-Zahlen
+## Die Quellen hinter diesen Tarif-Zahlen
 
 
 
@@ -770,7 +793,7 @@ Dies sind ausschließlich Drittmessungen und Netzbetreiberangaben. Die Ergebniss
 
 
 
-Landen Sie in Zürich bereits online. Das Profil von Roami wechselt beim Unterwegssein zwischen Swisscom, Sunrise und Salt und steigt oberhalb der Schneegrenze mit Swisscom. Erstkäufer können mit einer [kostenlosen Multi-Netz-Test-eSIM](/free-esim/) starten oder mit dem Code **WEB20** 20 % sparen auf einen [Schweiz-eSIM-Tarif](/switzerland-esim/).
+Landen Sie in Zürich bereits online. Das Profil von Roami wechselt beim Unterwegssein zwischen Swisscom, Sunrise und Salt und steigt oberhalb der Schneegrenze mit Swisscom. Erstkäufer können mit einer kostenlosen Multi-Netz-Test-eSIM starten oder mit dem Code **WEB20** 20 % sparen auf einen Schweiz-eSIM-Tarif.
 
 
 

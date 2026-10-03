@@ -3,7 +3,7 @@ title: "China eSIM mit China Mobile oder China Unicom nutzen"
 description: "China eSIM erklärt: Netzbetreiber, Registrierungspflicht und Routing von China Mobile, China Unicom und China Telecom für Reisende."
 image: "img/esim/carriers/china-esim-carrier-guide.jpg"
 date: "2026-09-27T13:44:42+00:00"
-keywords: China eSIM, China eSIM-Netzbetreiber, Reiseinternet China, China Mobile eSIM, China Unicom eSIM, Plug-and-Play-eSIM, Roaming-Gebühren China vermeiden, eSIM für China-Reisen, Great Wall eSIM, Shanghai eSIM, Peking eSIM
+keywords: China eSIM, China eSIM-Netzbetreiber, Reiseinternet China, China Mobile eSIM, China Unicom eSIM, Plug-and-Play-eSIM, Roaming-Gebühren China vermeiden, eSIM für den Markt-Reisen, Great Wall eSIM, Shanghai eSIM, Peking eSIM
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -15,19 +15,19 @@ hero_badge: "China Mobile vs China Unicom vs Plug-and-Play: das China-Urteil"
 hero_subtitle_main: "Chinas Netzbetreiber auf dem Papier im Vergleich zur Praxis"
 ---
 
-Eine China-eSIM sieht auf den ersten Blick aus wie jeder andere Reisekauf: Datenvolumen auswählen, QR-Code scannen, landen, verbinden. Dieser Teil ist wirklich einfach. Betrachten Sie dies als das China-Briefing vor dem Flug — das, das wir einem Freund schicken würden, ohne Fachchinesisch.
+Eine Festland-eSIM sieht auf den ersten Blick aus wie jeder andere Reisekauf: Datenvolumen auswählen, QR-Code scannen, landen, verbinden. Dieser Teil ist wirklich einfach. Betrachten Sie dies als das China-Briefing vor dem Flug — das, das wir einem Freund schicken würden, ohne Fachchinesisch.
 
-**Schnelle Antwort:** Für die meisten Reisenden ist eine China eSIM mit Plug-and-Play die entspannteste Wahl; Great Wall ist sinnvoll für kleinere Budgets und rein innerstädtische Reisen. Prüfen Sie Ihr Gerät zuerst mit dem [Kompatibilitätscheck](/compatibility/) — diesen Schritt überspringen China-Besucher und bereuen es später.
+**Schnelle Antwort:** Für die meisten Reisenden ist eine China eSIM mit Plug-and-Play die entspannteste Wahl; Great Wall ist sinnvoll für kleinere Budgets und rein innerstädtische Reisen. Prüfen Sie Ihr Gerät zuerst mit dem Kompatibilitätscheck — diesen Schritt überspringen China-Besucher und bereuen es später.
 
 Der Ookla Speedtest Global Index für August 2026 platziert China auf **Rang 12 der Welt bei mobiler Downloadgeschwindigkeit**, mit einem Median von **176,16 Mbps** und 32 ms Latenz, deutlich über dem weltweiten Median von 109,05 Mbps. Cable.co.uk berechnet 1 GB lokale mobile Daten mit etwa **0,38 USD** — Platz 28 von 237 Märkten, gegenüber einem globalen Durchschnitt von 2,59 USD. Die Funktechnik ist hervorragend und die Daten sind günstig.
 
-Warum bereitet die Konnektivität in China dann so vielen Besuchern Probleme? Weil es in Festlandchina ein Identitäts- und Routing-Problem ist, kein Geschwindigkeitsproblem.
+Warum bereitet die Konnektivität im Land dann so vielen Besuchern Probleme? Weil es in Festlandchina ein Identitäts- und Routing-Problem ist, kein Geschwindigkeitsproblem.
 
 Jede SIM-Karte, physisch oder eingebettet, wird unter nationalen Vorschriften auf einen echten Namen registriert, und die drei staatlichen Netzbetreiber haben erst im Oktober 2025 einen streng kontrollierten eSIM-Test gestartet, den Kurzzeitreisende nicht praktisch nutzen können. Auch die Apps, von denen viele Reisende leben, verhalten sich je nachdem anders, wo ihr Profil den Datenverkehr routet.
 
-**Kurz gesagt:** Sie können als Kurzzeitreisender keine Festland-eSIM von China Mobile, China Unicom oder China Telecom kaufen — der eSIM-Dienst der Netzbetreiber in China wurde im Oktober 2025 als In-Store-Test für Einwohner mit in Festlandchina zertifizierten Geräten eingeführt.
+**Kurz gesagt:** Sie können als Kurzzeitreisender keine Festland-eSIM von China Mobile, China Unicom oder China Telecom kaufen — der eSIM-Dienst der Netzbetreiber im Land wurde im Oktober 2025 als In-Store-Test für Einwohner mit in Festlandchina zertifizierten Geräten eingeführt.
 
-Reisende registrieren eine physische SIM-Karte mit einem Reisepass in einer Servicestelle des Netzbetreibers oder installieren häufiger eine China eSIM, die außerhalb Festlandchinas ausgestellt wurde. Eine aus dem Ausland ausgestellte China-eSIM roamt auf China Mobile- oder China Unicom-Sendemasten und routet die Daten international, sodass sie in Minuten installiert ist, keine Registrierung erfordert und die Standardwahl für Reisen unter zwei bis drei Wochen ist. Direkte Netzbetreiber eignen sich für lange Aufenthalte, bei denen eine chinesische Telefonnummer wichtig ist. Prüfen Sie Ihr Gerät zunächst mit dem [eSIM-Kompatibilitätstest](/compatibility/) und testen Sie einen [kostenlosen Netzabdeckungstest](/free-esim/), bevor Sie sich für einen Tarif entscheiden.
+Reisende registrieren eine physische SIM-Karte mit einem Reisepass in einer Servicestelle des Netzbetreibers oder installieren häufiger eine China eSIM, die außerhalb Festlandchinas ausgestellt wurde. Eine aus dem Ausland ausgestellte Festland-eSIM roamt auf China Mobile- oder China Unicom-Sendemasten und routet die Daten international, sodass sie in Minuten installiert ist, keine Registrierung erfordert und die Standardwahl für Reisen unter zwei bis drei Wochen ist. Direkte Netzbetreiber eignen sich für lange Aufenthalte, bei denen eine chinesische Telefonnummer wichtig ist. Prüfen Sie Ihr Gerät zunächst mit dem [eSIM-Kompatibilitätstest](/compatibility/) und testen Sie einen [kostenlosen Netzabdeckungstest](/free-esim/), bevor Sie sich für einen Tarif entscheiden.
 
 ## Die Netze hinter jedem Profil
 
@@ -46,13 +46,13 @@ Zwei Dinge in dieser Tabelle leisten die eigentliche Arbeit:
 - **Skalierung.** Das MIIT zählte **5,05 Millionen 5G-Basisstationen** und 1,84 Milliarden Mobilfunkverträge landesweit bis Mai 2026, mit einer 5G-Durchdringung von rund 70 % in jeder Region.
 - **Einheitlichkeit.** Unabhängig davon, welche Marke eine Reise-eSIM bewirbt, verbindet sich Ihr Telefon als eingehender Roaming-Nutzer mit einem dieser drei Netze.
 
-Die Frage nach dem Netzbetreiber in China ist weniger „welche Marke“ als vielmehr „welche Route“.
+Die Frage nach dem Netzbetreiber im Land ist weniger „welche Marke“ als vielmehr „welche Route“.
 
 ### Warum das Netz selten Ihr Engpass ist
 
 Beim Industriebriefing des Staatsrats im April 2026 meldete das MIIT **4,958 Millionen 5G-Basisstationen** Ende März 2026, die Einführung von 5G-Advanced in **330 Städten**, gigabitfähigen optischen Zugang in jedem Landkreis und 5G in jeder Kleinstadt.
 
-Verwaltungsgemeinden erreichen eine Breitband-Netzabdeckung von 100 %, mehr als 95 % davon über 5G, und entlang von 654.000 km Autobahnen und Eisenbahnstrecken besteht durchgängiger Empfang. Der limitierende Faktor bei einer China-eSIM ist fast nie die Funkschicht.
+Verwaltungsgemeinden erreichen eine Breitband-Netzabdeckung von 100 %, mehr als 95 % davon über 5G, und entlang von 654.000 km Autobahnen und Eisenbahnstrecken besteht durchgängiger Empfang. Der limitierende Faktor bei einer Festland-eSIM ist fast nie die Funkschicht.
 
 ### Was eingehendes Roaming bedeutet
 
@@ -72,7 +72,7 @@ Der Pilot selbst verdient einen klaren Absatz, da die meisten Empfehlungen zu di
 
 Die Aktivierung erfolgt ausschließlich persönlich in einer Service-Halle des Netzbetreibers. Es sind auf dem Festland zertifizierte eSIM-Geräte erforderlich, sodass Überseemodelle keine Profile der Netzbetreiber empfangen können. Und ein Gerät kann maximal zwei inländische eSIM-Nummern halten. Für Einwohner öffnete es die Tür für eSIM-Telefone wie das iPhone Air, das ab dem 22. Oktober 2025 auf dem Festland verkauft wird. Für einen Besucher mit zweiwöchigem Aufenthalt lautet die Antwort praktisch weiterhin: nein.
 
-### Das Feld der Netzbetreiber in China
+### Das Feld der Netzbetreiber im Land
 
 Die meisten Ratgeber antworten mit einem pauschalen Nein. Die korrekte Antwort ist eine Matrix, da die Netzbetreiber bei Beginn des Pilots unterschiedliche Identitätslisten veröffentlichten:
 
@@ -85,7 +85,7 @@ Die meisten Ratgeber antworten mit einem pauschalen Nein. Die korrekte Antwort i
 
 Lesen Sie die dritte Spalte, nicht die zweite. Dass ein Netzbetreiber einen aktiven eSIM-Dienst anbietet, sagt nichts darüber aus, ob Sie ihn auch erwerben können – entscheidend ist, ob die veröffentlichte Dokumentenliste das Dokument enthält, das Sie mit sich führen. Nach den aktuellen Regelungen ist China Unicom die Option für Inhaber eines Reisepasses.
 
-### Erfordern SIM-Karten-Käufe in China einen Ausweis?
+### Erfordern SIM-Karten-Käufe im Land einen Ausweis?
 
 Der Ablauf am Schalter folgt überall derselben Reihenfolge. Bringen Sie die unten aufgeführten Unterlagen mit, dann ist der Besuch kurz; fehlt auch nur eines, wird daraus ein zweiter Termin.
 
@@ -109,7 +109,7 @@ Zwei weitere Hinweise, die es wert sind, gekannt zu werden:
 
 ## Direkt kaufen oder eine Reise-eSIM nutzen?
 
-Jeder andere Länderhilfe behandelt „Netzbetreiber versus Reise-eSIM“ als Preisvergleich. In China ist es eher eine Lebensstilentscheidung, da sich die beiden Produkte in Registrierungsaufwand, Telefonnummer und der Art, wie der Datenverkehr geleitet wird, unterscheiden:
+Jeder andere Länderhilfe behandelt „Netzbetreiber versus Reise-eSIM“ als Preisvergleich. im Land ist es eher eine Lebensstilentscheidung, da sich die beiden Produkte in Registrierungsaufwand, Telefonnummer und der Art, wie der Datenverkehr geleitet wird, unterscheiden:
 
 | | Direkt von China Mobile / Unicom / Telecom | Reise-eSIM, ausgestellt außerhalb des chinesischen Festlands |
 |:---|:---|:---|
@@ -141,7 +141,7 @@ Ehrlichkeit über die Kompromisse erspart viel Frust mitten auf der Reise:
 
 ## Ist Ihr Telefon bereit für eine Festland-eSIM?
 
-Frequenzbänder entscheiden, wie gut Ihr Gerät funktioniert; eine kurze Liste gerätespezifischer Besonderheiten entscheidet, ob es überhaupt funktioniert. Prüfen Sie Ihr Modell vor dem Kauf mit dem [Kompatibilitätscheck](/compatibility/) – es beantwortet beide Fragen auf einmal.
+Frequenzbänder entscheiden, wie gut Ihr Gerät funktioniert; eine kurze Liste gerätespezifischer Besonderheiten entscheidet, ob es überhaupt funktioniert. Prüfen Sie Ihr Modell vor dem Kauf mit dem Kompatibilitätscheck – es beantwortet beide Fragen auf einmal.
 
 ### Welche Frequenzbänder das Festland nutzt
 
@@ -149,26 +149,26 @@ Auf dem chinesischen Festland läuft LTE auf den Bändern 1, 3, 5, 8, 38, 39, 40
 
 Ein fehlendes Band schwächt die Innenraumversorgung oder führt dazu, dass Sie in manchen Stadtteilen von 5G auf 4G zurückfallen; das Telefon funktioniert dadurch weiterhin. Mit einer China eSIM halten Sie oft 4G LTE statt 5G, da eingehende Roaming-Profile 5G nicht immer priorisieren – das reicht für Karten, Messenger und Videoanrufe.
 
-### Welche Gerätemodelle in China ausgeschlossen sind
+### Welche Gerätemodelle im Land ausgeschlossen sind
 
 | Gerät | Symptom | Was zu tun ist |
 |:---|:---|:---|
 | iPhone-Modelle für das chinesische Festland (vor dem iPhone Air) | Keine Option „eSIM hinzufügen“ – stattdessen Dual-SIM mit physischen Karten; die eSIM-Hardware ist in diesem Markt deaktiviert | Nicht behebbar; verwenden Sie eine physische SIM oder ein anderes Gerät |
-| Mainland-zertifizierte eSIM-Smartphones (iPhone Air usw.) | Können in China kein ausländisches Reise-eSIM-Profil annehmen | Installieren Sie das Reise-Profil, bevor Sie das chinesische Festland betreten |
+| Mainland-zertifizierte eSIM-Smartphones (iPhone Air usw.) | Können im Land kein ausländisches Reise-eSIM-Profil annehmen | Installieren Sie das Reise-Profil, bevor Sie das chinesische Festland betreten |
 | Netzbetreiber-gebundene Geräte | eSIM lässt sich installieren, registriert sich aber nie | Zuerst beim ursprünglichen Netzbetreiber entsperren |
 | Dual-SIM-Nutzer | eSIM installiert, keine Daten | Legen Sie die eSIM-Leitung als die für mobile Daten genutzte Leitung fest |
 
 Diese erste Zeile ist der bekannteste Kompatibilitätsfakt in diesem Markt: In Festlandchina verkaufte iPhones wurden jahrelang mit vollständig deaktivierter eSIM ausgeliefert, und Apple führte dort erst ein eSIM-Modell zusammen mit dem Pilotprojekt im Oktober 2025 ein.
 
-### Vom Code zur Verbindung in China
+### Vom Code zur Verbindung im Land
 
 1. Prüfen Sie, ob das Gerät entsperrt ist, wählen Sie dann `*#06#` und notieren Sie sich die EID.
-2. Vergleichen Sie Ihre genaue Modellnummer, nicht den Marketingnamen, mit [der Kompatibilitätsliste](/compatibility/).
+2. Vergleichen Sie Ihre genaue Modellnummer, nicht den Marketingnamen, mit der Kompatibilitätsliste.
 3. Kaufen Sie das Profil und installieren Sie es im heimischen WLAN, nicht erst bei der Ankunft.
 4. Beschriften Sie die Leitung klar und stellen Sie sie als Datenleitung ein, bevor Sie fliegen.
 5. Halten Sie Ihre Heim-SIM für Anrufe und SMS-Bestätigungscodes aktiv.
 
-## Die zwei Wege zu Daten in China
+## Die zwei Wege zu Daten im Land
 
 Es gibt zwei funktionierende Wege. Sie unterscheiden sich im Papierkram, nicht im Schwierigkeitsgrad, und keiner dauert mehr als eine Stunde, wenn Sie vorbereitet ankommen.
 
@@ -211,7 +211,7 @@ Unser Spartipp: Richten Sie vom ersten Tag an eine Datenwarnung bei 80 % Ihres K
 
 ## China eSIM-Netzabdeckung und Geschwindigkeit auf dem Festland
 
-Die nationalen Zahlen stammen von unabhängigen Messungen und werden monatlich aktualisiert. Ookla weist für August 2026 eine mittlere mobile Download-Geschwindigkeit in China von 176,16 Mbps aus – Platz 12 weltweit, mit 32 ms Latenz. Cable.co.uk berechnet im Durchschnitt 0,38 USD pro Gigabyte, Platz 28 von 237 Märkten.
+Die nationalen Zahlen stammen von unabhängigen Messungen und werden monatlich aktualisiert. Ookla weist für August 2026 eine mittlere mobile Download-Geschwindigkeit im Land von 176,16 Mbps aus – Platz 12 weltweit, mit 32 ms Latenz. Cable.co.uk berechnet im Durchschnitt 0,38 USD pro Gigabyte, Platz 28 von 237 Märkten.
 
 Im Digital 2025-Bericht von DataReportal wird eine Internetdurchdringung von **78,0 %** verzeichnet, mobile Anschlüsse liegen bei 132 % der Bevölkerung. China Mobile hat die größte Netzabdeckung und reicht am tiefsten in ländliche und westliche Regionen hinein, während die Regionalstatistiken des MIIT eine nahezu ausgeglichene 5G-Durchdringung zwischen Osten, Zentrum, Westen und Nordosten zeigen.
 
@@ -232,13 +232,13 @@ Nationale Medianwerte sind eine Obergrenze, keine Garantie. Hier dasselbe Bild f
 | Hainan | 5G-Advanced in Boao und entlang der Resortküste | Schnell in Sanya, Haikou und an der Küste | Resortzellen sind im Winter überlastet |
 | Hochgeschwindigkeitsbahnstrecken | Durchgehende Konnektivität auf Hauptstrecken; tiefgehende Netzabdeckung in großen Bahnhöfen | Nutzbar, mit kurzen Unterbrechungen | Übergaben in Tunneln führen zu Datenverlusten im Sekundenbereich |
 
-Zwei Drittel dieser Zeilen beschreiben ein Netz, das sich wie das eines entwickelten Marktes verhält. Die tatsächlichen Einschränkungen in China sind Bürokratie, Genehmigungen und die Verfügbarkeit von Apps – nicht die Anzahl der Signalbalken.
+Zwei Drittel dieser Zeilen beschreiben ein Netz, das sich wie das eines entwickelten Marktes verhält. Die tatsächlichen Einschränkungen im Land sind Bürokratie, Genehmigungen und die Verfügbarkeit von Apps – nicht die Anzahl der Signalbalken.
 
 ### Was auf welchem Routing funktioniert
 
 Dies ist der Teil, der den Alltag am stärksten beeinflusst. Die Tabelle beschreibt, wo ein Dienst erreichbar ist, und das ist eine Eigenschaft des Datenpfads, nicht Ihres Endgeräts. Nichts darin ist eine Konfigurationsanleitung.
 
-| Service | Bei einer auf dem Festland geleiteten Verbindung (lokale SIM) | Bei einer international geleiteten China-eSIM |
+| Service | Bei einer auf dem Festland geleiteten Verbindung (lokale SIM) | Bei einer international geleiteten Festland-eSIM |
 |:---|:---|:---|
 | Google Suche, Gmail, Google Maps | Eingeschränkt | Lädt in der Regel wie zu Hause |
 | WhatsApp, Instagram, Facebook, X | Eingeschränkt | Lädt im Allgemeinen wie zu Hause |
@@ -255,13 +255,13 @@ Dies ist der Teil, der den Alltag am stärksten beeinflusst. Die Tabelle beschre
 Zwei Hinweise vorab:
 
 - Die Verfügbarkeit wird von jedem Dienst in jedem Markt individuell festgelegt und kann sich ohne Ankündigung ändern. Prüfen Sie daher die jeweiligen Apps, auf die Sie angewiesen sind.
-- In beiden Fällen – ob Routing oder lokale Apps – funktionieren WeChat, Alipay, DiDi und Amap mit jeder China-eSIM einwandfrei.
+- In beiden Fällen – ob Routing oder lokale Apps – funktionieren WeChat, Alipay, DiDi und Amap mit jeder Festland-eSIM einwandfrei.
 
-## Manuelle APN-Einrichtung
+## APN für den Markt von Hand setzen – nur in diesen Fällen
 
 Die APN-Einstellungen sind für die meisten Reisenden das Letzte, woran sie Hand anlegen, und zugleich das Erste, das Sie ausschließen sollten, wenn die Datenverbindung mit einer lokal gekauften SIM nicht funktioniert.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber im Land | Zugangspunkt (APN) | Nutzer | Kennwort |
 |:---|:---|:---|:---|
 | China Mobile | `cmnet` (oder `cmiot` bei IoT-/Zweitkarten) | leer | leer |
 | China Unicom | `3gnet` | leer | leer |
@@ -271,13 +271,13 @@ Geben Sie diese nur ein, wenn Sie eine SIM direkt von einem Netzbetreiber gekauf
 
 Bei einer Reise-eSIM ändern Sie nichts. Das Profil bringt seine eigene Konfiguration mit, und das Überschreiben ist die häufigste Ursache für eine unterbrochene Verbindung.
 
-## Vom QR-Code zur Verbindung
+## Von der Aktivierung bis zur Verbindung im Land
 
 Die Aktivierungsschritte sind universell: über WLAN installieren, die Leitung aktivieren, Daten-Roaming einschalten, als Datenleitung festlegen, bei Bedarf neu starten. Die allgemeine Abfolge und der gesamte Fehlerkatalog sind in unserem [Leitfaden zu eSIM-Aktivierungsfehlern](/faq/esim-activation-errors-troubleshooting-guide/) zu finden, und den Hintergrund, was beim Herunterladen eines Profils geschieht, finden Sie unter [Was eine eSIM-Aktivierung ist und wie sie funktioniert](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 Vier Fehlerbilder sind spezifisch für das chinesische Festland.
 
-**A. Das Profil lässt sich nicht herunterladen.** Fast immer ein Download-Versuch in China: Die Bereitstellungsserver sind von chinesischen Netzen aus nicht zuverlässig erreichbar. Installieren Sie Ihre China-eSIM im Ausland, über Ihr heimisches WLAN. Ein bereits installiertes Profil muss nach der Landung nur noch aktiviert werden.
+**A. Das Profil lässt sich nicht herunterladen.** Fast immer ein Download-Versuch im Land: Die Bereitstellungsserver sind von chinesischen Netzen aus nicht zuverlässig erreichbar. Installieren Sie Ihre Festland-eSIM im Ausland, über Ihr heimisches WLAN. Ein bereits installiertes Profil muss nach der Landung nur noch aktiviert werden.
 
 **B. Installiert, aber keine Registrierung.** Prüfen Sie, ob die eSIM-Leitung aktiviert ist, Daten-Roaming eingeschaltet ist und das Telefon entsperrt ist. Versuchen Sie dann die manuelle Netzauswahl – wählen Sie China Mobile oder China Unicom statt der automatischen Auswahl.
 
@@ -297,7 +297,7 @@ Vier Fehlerbilder sind spezifisch für das chinesische Festland.
 
 Eine Folge der chinesischen Aufteilung in separate Märkte bringt mehr Besucher in Schwierigkeiten als jeder technische Fehler: **Hongkong, Macau und Taiwan betreiben jeweils eigene Netze unter eigenen Aufsichtsbehörden**, und eine eSIM für das chinesische Festland deckt diese nicht automatisch ab. Der Übergang von Shenzhen nach Hongkong ist eine echte Grenze für Ihre SIM.
 
-An dieser Grenze funktioniert eine im Festland geroutete Leitung nicht mehr, sobald sie das Festlandnetz verliert. Sie roamt dann zu Roaming-Tarifen auf den Netzbetreibern des Ziellandes, sofern der Tarif das Zielland überhaupt abdeckt – und die meisten touristischen Festland-Produkte tun das nicht. Planen Sie den Grenzübertritt mit Ihrer China-eSIM, statt ihn improvisieren zu wollen.
+An dieser Grenze funktioniert eine im Festland geroutete Leitung nicht mehr, sobald sie das Festlandnetz verliert. Sie roamt dann zu Roaming-Tarifen auf den Netzbetreibern des Ziellandes, sofern der Tarif das Zielland überhaupt abdeckt – und die meisten touristischen Festland-Produkte tun das nicht. Planen Sie den Grenzübertritt mit Ihrer Festland-eSIM, statt ihn improvisieren zu wollen.
 
 ### Was an jeder Grenze mit dem Profil passiert
 
@@ -305,7 +305,7 @@ An dieser Grenze funktioniert eine im Festland geroutete Leitung nicht mehr, sob
 |:---|:---|:---|
 | Shenzhen nach Hongkong | Der Dienst endet an der Grenze; Roaming gilt nur, wenn es im Tarif inbegriffen ist | Eine [Hongkong-eSIM](/hong-kong-esim/) oder ein regionales Profil, das beide abdeckt |
 | Hongkong mit dem Flugzeug | Ihr Festland-Profil wird bei der Ankunft nie aktiviert | Dasselbe, vor der Abreise gekauft und installiert |
-| Zhuhai nach Macau | Wie bei Hongkong – separates Netz und eigene Regulierungsbehörde | Ein [Macau-Profil](/carriers/macau-esim-carrier-guide/) oder ein regionaler Tarif |
+| Zhuhai nach Macau | Wie bei Hongkong – separates Netz und eigene Regulierungsbehörde | Ein [Macau-Profil](/macao-esim/) oder ein regionaler Tarif |
 | Hongkong nach Macau auf dem Seeweg | Weder ein Festland-Profil noch ein reines Hongkong-Profil ist passend | Ein Großchina- oder Asien-Regionaltarif |
 | Nach Taiwan | Ein Festland-Profil funktioniert dort nicht; die Netzabdeckung wird über die Meerenge hinweg nicht gemeinsam genutzt | Eine vor dem Flug erworbene [Taiwan-eSIM](/taiwan-esim/) |
 | Nördlich in die Mongolei | Völlig außerhalb des Festland-Netzes | Prüfen Sie die Länderliste des Tarifs oder kaufen Sie ein zweites Profil |
@@ -318,7 +318,7 @@ Das Muster, das auf fast jeder Reise mit Festlandchina plus Nachbarländern funk
 
 ## Die wichtigsten Fragen vor der Abreise
 
-### Funktionieren WhatsApp-Anrufe in China?
+### Funktionieren WhatsApp-Anrufe im Land?
 
 In den Festlandnetzen – einschließlich einer lokal registrierten China Mobile-, Unicom- oder Telecom-SIM – nein: WhatsApp, Google-Dienste, Instagram und Facebook gehören zu den dort eingeschränkten Apps und Seiten. Reise-eSIMs, deren Daten international geroutet werden, bevor sie ins Netz gehen, verhalten sich anders, und auf solchen Profilen funktionieren diese Dienste in der Regel wie zu Hause. Das ist eine Routing-Eigenschaft, keine Einstellung, die Sie auf einer lokalen SIM ändern können.
 
@@ -338,7 +338,7 @@ Ja. Beide Wallets erlauben ausländischen Besuchern das Verknüpfen internationa
 
 Die meisten Zwei-Wochen-Reisen liegen bequem im Bereich von 10–20 GB: Karten, Übersetzung, Fahrdienste, Messaging und Videoanrufe sind die datenintensiven Anwendungen, und Festlandnutzer verbrauchen im Durchschnitt etwa 24 GB pro Monat. Wenn Sie täglich Videos streamen, wählen Sie eine größere Datenmenge.
 
-### Ist Ihr Modell für die Nutzung mit einer China-eSIM freigeschaltet?
+### Ist Ihr Modell für die Nutzung mit einer Festland-eSIM freigeschaltet?
 
 Wenn es entsperrt, eSIM-fähig ist und die LTE-Bänder 1/3/5/8/38/39/40/41 sowie n41 oder n78 für 5G abdeckt, ja. Die klassische Ausnahme ist ein auf dem chinesischen Festland gekauftes Telefon, bei dem die eSIM-Hardware komplett deaktiviert sein kann. Überprüfen Sie Ihr genaues Modell im [eSIM-Kompatibilitätscheck](/compatibility/) vor dem Kauf.
 
@@ -352,9 +352,9 @@ Sie stellt an der Grenze die Datenbereitstellung ein, sofern der Tarif das Ziel 
 
 ### Funktioniert eine Hongkong-eSIM in Shenzhen?
 
-Nicht als lokaler Dienst – Hongkong-Profile roamen auf Festlandnetzen zu Roaming-Tarifen, wenn überhaupt, und die Netzabdeckung ist grenzüberschreitend nicht garantiert. Nutzen Sie in Shenzhen einen Festland-Tarif und eine [Hongkong-eSIM](/hong-kong-esim/) in Hongkong, oder einen regionalen Tarif, der beide abdeckt.
+Nicht als lokaler Dienst – Hongkong-Profile roamen auf Festlandnetzen zu Roaming-Tarifen, wenn überhaupt, und die Netzabdeckung ist grenzüberschreitend nicht garantiert. Nutzen Sie in Shenzhen einen Festland-Tarif und eine [Hongkong-Profil](/hong-kong-esim/) in Hongkong, oder einen regionalen Tarif, der beide abdeckt.
 
-### Warum lädt mein Profil in China nicht herunter?
+### Warum lädt mein Profil im Land nicht herunter?
 
 Weil Sie versucht haben, sie innerhalb des chinesischen Festlands herunterzuladen. Bereitstellungsserver sind in lokalen Netzen nicht zuverlässig erreichbar. Installieren Sie Profile vor dem Abflug, und wenn Sie vor Ort installieren müssen, nutzen Sie Flughafen- oder Hotel-WLAN und planen Sie Geduld für erneute Versuche ein.
 
@@ -362,19 +362,19 @@ Weil Sie versucht haben, sie innerhalb des chinesischen Festlands herunterzulade
 
 Bei einer Reise-eSIM haben Sie selten die Wahl – das Profil nutzt Roaming in das stärkste Netz, und in Großstädten sind beide hervorragend. Die Stärke von China Mobile ist die Netzabdeckung in ländlichen Gebieten und im Westen; die von Unicom ist die Breite der Ausweisdokumente, die in offiziellen Kanälen akzeptiert werden.
 
-## Häufige Fragen von Reisenden zu China-eSIMs
+## Häufige Fragen von Reisenden zu Festland-eSIMs
 
-### Nimmt mein vorhandenes Telefon eine China-eSIM?
+### Nimmt mein vorhandenes Telefon eine Festland-eSIM?
 
-Geräte ab 2020 qualifizieren sich in der Regel – Ausschlussgründe sind ein Netzbetreiber-Lock oder ein Modell für den chinesischen Festlandmarkt. Führen Sie den [Kompatibilitätstest](/compatibility/) durch, bevor Sie bezahlen.
+Geräte ab 2020 qualifizieren sich in der Regel – Ausschlussgründe sind ein Netzbetreiber-Lock oder ein Modell für den chinesischen Festlandmarkt. Führen Sie den Kompatibilitätstest durch, bevor Sie bezahlen.
 
 ### Stimmen die Netzabdeckungsangaben für meine Route?
 
-Vergleichen Sie die Netzbetreiber-Abschnitte oben mit den Geschwindigkeitsdaten und testen Sie vor einer Entscheidung: Die [kostenlose Starter-eSIM](/free-esim/) von Roami nutzt dieselben Netze und zeigt Ihnen das tatsächliche Signal dort, wo Sie tatsächlich übernachten.
+Vergleichen Sie die Netzbetreiber-Abschnitte oben mit den Geschwindigkeitsdaten und testen Sie vor einer Entscheidung: Die kostenlose Starter-eSIM von Roami nutzt dieselben Netze und zeigt Ihnen das tatsächliche Signal dort, wo Sie tatsächlich übernachten.
 
 ### Welcher Fehler ruiniert China-Reisen?
 
-Ohne Daten landen und versuchen, es über Flughafen-WLAN zu regeln. Installieren und aktivieren Sie Ihre China-eSIM am Abend vor dem Abflug – der gesamte Vorgang ist oben beschrieben und dauert nur Minuten.
+Ohne Daten landen und versuchen, es über Flughafen-WLAN zu regeln. Installieren und aktivieren Sie Ihre Festland-eSIM am Abend vor dem Abflug – der gesamte Vorgang ist oben beschrieben und dauert nur Minuten.
 
 ## Wie dieser Guide recherchiert wurde
 
@@ -386,6 +386,6 @@ Ohne Daten landen und versuchen, es über Flughafen-WLAN zu regeln. Installieren
 
 Die Teilnehmerzahlen der Netzbetreiber und die Bedingungen des Pilotversuchs vom Oktober 2025 stammen aus den eigenen Ankündigungen der Betreiber. Die Zahlen zum Netzausbau, einschließlich 4,958 Millionen Basisstationen, stammen aus dem Staatsrats-Briefing 2026 des MIIT, die Peking- und Tibet-Zahlen von den regionalen Kommunikationsbehörden.
 
-## Klären Sie Ihre China-eSIM vor dem Boarding
+## Klären Sie Ihre Festland-eSIM vor dem Boarding
 
-Die ganze Übung belohnt eine Angewohnheit: frühzeitig entscheiden. Überprüfen Sie Ihr Gerät, wählen Sie Ihre Route – einen [China-eSIM-Tarif](/china-esim/) für sofortige, registrierungsfreie Daten, die auf China Mobile und China Unicom roamt, oder eine Filial-SIM, wenn Ihr Aufenthalt lang genug ist, um eine chinesische Nummer zu wollen – und installieren Sie das Profil zu Hause, wo der Download nicht fehlschlagen kann. Neukunden können mit der [kostenlosen Test-eSIM von Roami](/free-esim/) beginnen, um das Setup zu testen, und der Code **WEB20** bringt 20 % Rabatt auf den ersten Tarif.
+Die ganze Übung belohnt eine Angewohnheit: frühzeitig entscheiden. Überprüfen Sie Ihr Gerät, wählen Sie Ihre Route – einen [Festland-eSIM-Tarif](/china-esim/) für sofortige, registrierungsfreie Daten, die auf China Mobile und China Unicom roamt, oder eine Filial-SIM, wenn Ihr Aufenthalt lang genug ist, um eine chinesische Nummer zu wollen – und installieren Sie das Profil zu Hause, wo der Download nicht fehlschlagen kann. Neukunden können mit der [kostenlosen Test-eSIM von Roami](/free-esim/) beginnen, um das Setup zu testen, und der Code **WEB20** bringt 20 % Rabatt auf den ersten Tarif.

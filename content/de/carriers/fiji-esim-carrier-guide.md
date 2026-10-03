@@ -3,7 +3,7 @@ title: "Die beste Fidschi eSIM zwischen Vodafone und Digicel"
 description: "Fidschi eSIM für Inselhüpfer – Netzabdeckung, Tempo und Preis von Vodafone und Digicel auf Viti Levu, den Mamanucas und den Yasawas."
 image: "img/esim/carriers/fiji-esim-carrier-guide.jpg"
 date: "2026-09-26T18:48:25+00:00"
-keywords: Fidschi eSIM-Netzbetreiber, Fidschi eSIM, primäre Rufnummer aktiv halten, Vodafone Fidschi, Digicel Fidschi, Fidschi Mobilfunkanbieter, Yasawa-Inseln, Beqa Lagoon, kostenloses Roaming, Reise-eSIM, Fidschi Netzvergleich
+keywords: Fidschi eSIM-Netzbetreiber, Fidschi eSIM, primäre Rufnummer aktiv halten, Vodafone Fidschi, Digicel Fidschi, Fidschi Mobilfunkanbieter, Yasawa-Inseln, Nadi, kostenloses Roaming, Reise-eSIM, Fidschi Netzvergleich
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -20,7 +20,7 @@ Die Wahl einer Fidschi-eSIM sollte Ihrer Inselabfolge folgen – Nadi, die Maman
 
 **Schnelle Antwort:** Das lokale Netz gewinnt die Diskussion um Netzabdeckung in Fidschi, das lokale Netz gewinnt bei günstigen Daten – die Tabellen unten klären die Details. Sie können die Einrichtung Ihrer Fidschi-eSIM auch kostenlos über die [kostenlose Starter-eSIM](/free-esim/) von Roami prüfen.
 
-**Fazit:** Fidschi hat genau zwei Mobilfunkanbieter, Vodafone Fidschi und Digicel Fidschi, und nur einer davon – Vodafone – bietet eine touristische eSIM an, die Sie vor der Abreise online buchen können, auf der eigenen Webseite bestätigt: Sie laden Reisepass und Selfie hoch, zahlen mit Karte, und das Profil aktiviert sich am Vorabend Ihres Ankunftsdatums. Digicels Touristenangebot ist eine physische SIM, die am Flughafen Nadi oder in einem Laden gekauft wird. Der Speedtest Global Index von Ookla führt Fidschi in keinem nationalen Ranking, während Cable.co.uk Fidschi zu den weltweit günstigsten Ländern für Datenvolumen zählt. Der praktische Gewinner für Inselhüpfer: Eine Reise-eSIM, die über beide Netze roamt, installiert vor dem Abflug – [kostenlos testen](/free-esim/) oder die [Fidschi-Tarife](/fiji-esim/) ansehen.
+**Fazit:** Fidschi hat genau zwei Mobilfunkanbieter, Vodafone Fidschi und Digicel Fidschi, und nur einer davon – Vodafone – bietet eine touristische eSIM an, die Sie vor der Abreise online buchen können, auf der eigenen Webseite bestätigt: Sie laden Reisepass und Selfie hoch, zahlen mit Karte, und das Profil aktiviert sich am Vorabend Ihres Ankunftsdatums. Digicels Touristenangebot ist eine physische SIM, die am Flughafen Nadi oder in einem Laden gekauft wird. Der Speedtest Global Index von Ookla führt Fidschi in keinem nationalen Ranking, während Cable.co.uk Fidschi zu den weltweit günstigsten Ländern für Datenvolumen zählt. Der praktische Gewinner für Inselhüpfer: Eine Reise-eSIM, die über beide Netze roamt, installiert vor dem Abflug – die [Fidschi-Tarife](/fiji-esim/) ansehen.
 
 ## Lernen Sie die lokalen Netzbetreiber kennen
 
@@ -30,7 +30,7 @@ Die Yasawa Flyer und die kleineren Katamarane, die die westlichen Inseln anfahre
 
 Eine weitere strukturelle Anmerkung: Fidschis Datenmarkt ist ungewöhnlich günstig. Die weltweite Erhebung von Cable.co.uk zählt Fidschi zu den allergünstigsten Ländern der Welt pro Gigabyte, was eine Umschreibung dafür ist, dass die Netze selbst ordentlich sind – die Herausforderung ist die Reichweite, nicht Geschwindigkeit oder Preis.
 
-## Tarife und Preise im Vergleich
+## Was Bula und Traveler in Fidschi kosten
 
 Zwei Anbieter bedeuten zwei Preislisten, und die fidschianischen sind ungewöhnlich gut lesbar: Beide Anbieter veröffentlichen Touristenpakete mit Datenvolumen, die neben westlichen Preisen wie Tippfehler wirken. Der Unterschied zwischen ihnen zeigt sich in der Netzreichweite, nicht in Gigabytes – lesen Sie also die Tabellen unten mit dem Fährenrhythmus des vorherigen Abschnitts im Hinterkopf.
 
@@ -69,6 +69,12 @@ Die Gigabyte-Rechnung spricht deutlich für Digicel; die Netzabdeckung spricht f
 
 Die dritte Option – eine Multi-Netzwerk-Reise-eSIM, die auf beiden Netzbetreibern roamt – umgeht die Wahl vollständig, weshalb sie die Empfehlung für jede Reiseroute mit offener See ist.
 
+### Was zwei Wochen Fidschi an Daten wirklich kosten
+
+Rechnen Sie die Bündel aus der Tabelle auf einen typischen Inselaufenthalt um, ergibt sich ein klares Bild. Digicels Traveler 10 bietet 21 GB für FJ$10 (etwa US$4,50) — das sind rund 0,21 US$ pro Gigabyte, ein Satz, den kaum ein westlicher Tarif unterbietet. Vodafones Bula 35 liefert 50 GB für FJ$35 (etwa US$16), also rund 0,32 US$ pro Gigabyte, und legt 75 lokale sowie 75 internationale Minuten obendrauf.
+
+Für zwei Wochen mit Nachrichten, Karten, leichtem Surfen und gelegentlichen Videoanrufen reichen 10 bis 15 GB, wie die FAQ unten ausführt. Auf dieser Basis kostet die Fidschi-eSIM weniger als eine Woche WLAN-Gebühren in manchen Resorts — und sie funktioniert auf der Fähre, im Hafen und am Wanderweg, wo es keinen Router gibt. Fidschianische Bündel werden einmalig in Landeswährung bezahlt und gelten für einen festen Zeitraum, was die Budgetplanung einfacher macht als bei vielen tagesbasierten Optionen.
+
 ### Verlangen Geschäfte einen Ausweis für den Verkauf von SIM-Karten in Fidschi?
 
 Welche lokale Option Sie auch wählen, für alle gelten dieselben drei Anforderungen. Registrierung: Die fidschianischen Telekommunikationsvorschriften erfordern eine registrierte Identität für jede SIM und eSIM, weshalb am Schalter Ihr Reisepass fotokopiert wird und der Online-eSIM-Prozess nach einem Passfoto plus einem Selfie fragt – eine anonyme Option gibt es nicht. Bezahlung: Die Online-Kasse akzeptiert ausländische Karten, die Schalter nehmen Bargeld und Karten in vier Währungen, doch Stadtgeschäfte und Auflade-Gutscheine sind eher bargeldlastig, was zum Abschnitt über die Bargeldpraxis weiter unten in diesem Leitfaden führt. Gültigkeit: Die Pakete beider Netzbetreiber laufen nach festen Uhren, die sich nicht verlängern, wenn Sie Guthaben auf die SIM selbst laden – das Aufladen des Guthabens und der Kauf eines neuen Datenpakets sind unterschiedliche Vorgänge, und sie zu verwechseln ist die klassische Art, wie Reisende mitten in der Reise einen Tag Netzzugang verlieren.
@@ -79,7 +85,7 @@ Der internationale Flughafen Nadi wickelt fast alle internationalen Ankünfte ab
 
 Die reibungslosere Alternative ist, verbunden anzukommen. Vodafone Fidschi betreibt einen offiziellen Online-Buchungsprozess für Touristen-eSIMs: Sie geben Ihr Ankunftsdatum und Ihre Unterkunft ein, wählen einen Tarif, verifizieren Ihre Identität mit einem Pass-Upload und einem Selfie, zahlen per Karte, und das Profil aktiviert sich automatisch in der Nacht vor Ihrer Landung. Dieser Ablauf ist auf [Vodafone Fidschis eigener Touristen-eSIM-Seite](https://vodafone.com.fj/personal/esim/tourist-esim/) dokumentiert und funktioniert vollständig aus dem Ausland. Keine Warteschlange, kein Papierkram, und eine Verbindung, die steht, bevor die Flugzeugtüren aufgehen – die eSIM ist fertig, bevor Ihr Koffer es ist.
 
-Digicels veröffentlichtes Touristenangebot ist hingegen eine physische SIM, die am Flughafen oder in seinen Filialen verkauft wird – eine gute Option, wenn Sie eine lokale Nummer mit Sprachminuten möchten, die jedoch erfordert, dass Sie persönlich mit Ihrem Original-Reisepass erscheinen. Wenn Sie keine der beiden Warteschlangen am Schalter auf sich nehmen möchten, bringt Sie eine zu Hause installierte Fidschi-eSIM online, noch bevor Sie das Gepäckband erreichen. Prüfen Sie in jedem Fall die Kompatibilität im Voraus: Gleichen Sie Ihr Telefon mit der [Gerätekompatibilitätsliste](/compatibility/) ab, statt um 6 Uhr morgens im Ankunftsbereich einen Netzbetreiber-Lock zu entdecken.
+Digicels veröffentlichtes Touristenangebot ist hingegen eine physische SIM, die am Flughafen oder in seinen Filialen verkauft wird – eine gute Option, wenn Sie eine lokale Nummer mit Sprachminuten möchten, die jedoch erfordert, dass Sie persönlich mit Ihrem Original-Reisepass erscheinen. Wenn Sie keine der beiden Warteschlangen am Schalter auf sich nehmen möchten, bringt Sie eine zu Hause installierte Fidschi-eSIM online, noch bevor Sie das Gepäckband erreichen. Prüfen Sie in jedem Fall die Kompatibilität im Voraus: Gleichen Sie Ihr Telefon vorab mit der Gerätekompatibilitätsliste ab, statt um 6 Uhr morgens im Ankunftsbereich einen Netzbetreiber-Lock zu entdecken.
 
 **Der Weg über den Flughafenschalter, Schritt für Schritt.** Beide Netzbetreiber-Shops befinden sich in der Ankunftshalle von Nadi – Vodafone auf der einen Seite, Digicel auf der anderen – und bleiben laut [Traveltomtoms Nadi-Flughafen-Leitfaden](https://traveltomtom.net/destinations/oceania/fiji/sim-card-nadi) rund um die Uhr geöffnet:
 
@@ -108,6 +114,12 @@ Neun Reiseformen decken nahezu jede Fidschi-Buchung ab, und der richtige Konnekt
 | Hochzeit auf der Insel, sechs Handys | Der Einzel-Checkout mit sechs Profilen bei der eSIM von Vodafone | deckt mit einem einzigen Kauf die gesamte Gesellschaft ab | Überprüfen Sie vorab die eSIM-Unterstützung jedes Geräts |
 
 Die Kernaussage der Tabelle: Je weiter die Reiseroute von der Queens Road und Port Denarau wegführt, desto wichtiger wird die Kaufentscheidung – und desto eher lohnt sich der Aufpreis eines Doppelbetreiber-Profils.
+
+### Wenn nach Fidschi noch Tonga, Samoa oder Neuseeland folgen
+
+Fidschis Netzbetreiber-Tarife gelten nur im Inland, und auch ein Reise-Profil deckt die Nachbarinseln nur ab, wenn der Anbieter sie ausdrücklich listet. Für eine Pazifikroute bedeutet das einen Tarif pro Station: Tonga, Samoa und Vanuatu sind eigene Märkte, und der Sprung nach Australien oder Neuseeland ist ohnehin eine neue Region.
+
+Praktisch heißt das: Buchen Sie für Fidschi einen eigenen Tarif und für die nächste Etappe einen zweiten — oder wählen Sie von vornherein einen Tarif mit mehreren Pazifikmärkten, wenn Ihr Anbieter einen anbietet. Die Nachbarseiten helfen bei der Planung: [Australien-Tarife](/australia-esim/) und [Neuseeland-eSIM](/new-zealand-esim/) decken die beiden großen Stopps östlich und südlich ab, und die [Ozeanien-Übersicht](/oceania-esim/) ordnet die kleineren Inselstaaten ein. Prüfen Sie die Länderliste jeder Etappe einzeln, statt eine pazifikweite Abdeckung anzunehmen.
 
 ## Wo die Netzabdeckung versagt
 
@@ -167,9 +179,9 @@ Wenn Sie als Digital Nomade Inselzeit mit Arbeitsstunden kombinieren, lautet das
 
 Planen Sie entsprechend, dann werden auch die Inseletappen besser. Bündeln Sie Ihre Uploads am Ende einer Festland-Etappe, statt sie tröpfchenweise von Resortinseln zu schicken, stellen Sie die Cloud-Synchronisierung für die gesamte Reise auf manuell, und teilen Sie Kollegen mit, dass die Antwortzeit mit dem Breitengrad steigt — oder in diesem Fall mit den Seemeilen ab Suva. Die Reisenden, die die äußeren Inseln am meisten genießen, sind diejenigen, die aufgehört haben, dort eine Schreibtischverbindung zu erwarten.
 
-Zwei praktische Hinweise für die Überquerung der Insel zwischen Nadi und Suva. Erstens: Die Route über das Inselinnere ist deutlich schlechter versorgt als die Küstenstraße Queens Road — laden Sie die Karte für die jeweilige Route herunter. Zweitens: Regen ist auf der regnerischen Seite keine Metapher; schweres Wetter beeinträchtigt das Signal tatsächlich, was zum Abschnitt über die Zyklonsaison weiter unten führt. Wenn Ihre Südpazifik-Reise weitergeht, decken [unser Australien-eSIM-Leitfaden](/carriers/australia-esim-carrier-guide/) und [Neuseeland-Tarife](/new-zealand-esim/) die nächsten Stopps Richtung Osten oder Süden ab.
+Zwei praktische Hinweise für die Überquerung der Insel zwischen Nadi und Suva. Erstens: Die Route über das Inselinnere ist deutlich schlechter versorgt als die Küstenstraße Queens Road — laden Sie die Karte für die jeweilige Route herunter. Zweitens: Regen ist auf der regnerischen Seite keine Metapher; schweres Wetter beeinträchtigt das Signal tatsächlich, was zum Abschnitt über die Zyklonsaison weiter unten führt. Wenn Ihre Südpazifik-Reise weitergeht, decken [Australien-eSIM-Tarife](/australia-esim/) und [Neuseeland-Tarife](/new-zealand-esim/) die nächsten Stopps Richtung Osten oder Süden ab.
 
-## Vanua Levu und Taveuni als Stresstest der äußeren Inseln
+## Vanua Levu und Taveuni: wenn die Route über Viti Levu hinausgeht
 
 Fidschis zweitgrößte Insel, Vanua Levu, und die Garden Island Taveuni dahinter sind der Ort, an dem die Behauptung „Fidschi funktioniert überall“ auf die Probe gestellt wird. Savusavu, der Yachthafen-Stadt Vanua Levus, hat einen Empfang, der für alles ausreicht, was Besucher brauchen; Taveuni betreibt rund um die Orte ein eigenes bescheidenes Netz. Aber zwischen und jenseits dieser Anker wird die Netzabdeckung zu Taschen, und einige der äußeren Bereiche haben gar keinen Empfang.
 
@@ -185,7 +197,7 @@ Alles oben kompakt für die Reiseplanung. Behandeln Sie „bester Zug“ als die
 
 | Stopp | Was Sie erwartet | Bester Schritt | Hinweis |
 |:---|:---|:---|:---|
-| Flughafen Nadi | Schalter für beide Netzbetreiber, eingeschränktes kostenloses WLAN | Reisen Sie mit einem bereits installierten Profil an | Free WLAN ist auf etwa zwei Stunden oder 1 GB begrenzt |
+| Flughafen Nadi | Schalter für beide Netzbetreiber, eingeschränktes kostenloses WLAN | Reisen Sie mit einem bereits installierten Profil an | Kostenloses WLAN ist auf etwa zwei Stunden oder 1 GB begrenzt |
 | Nadi-Stadt und Denarau | Gute Netzabdeckung in der Stadt und in den Resorts | Standardmäßiges Roamingverhalten | Nichts Besonderes – dies ist der einfache Teil des Landes |
 | Hafen Denarau | Gute Netzabdeckung im Yachthafen | Vor dem Boarding synchronisieren und herunterladen | Signal endet kurz nach dem Ablegen |
 | Mamanucas | Netzabdeckung auf den Hauptresortinseln | Nutzen Sie mobile Daten als Hauptverbindung, WLAN als Bonus | Resort-WLAN ist oft kostenpflichtig |
@@ -207,7 +219,7 @@ Vodafones Ablauf, verifiziert auf [seiner offiziellen Seite](https://vodafone.co
 
 Für Digicel ist die ehrliche Empfehlung einfacher: Sein Touristenprodukt ist eine physische SIM, persönlich mit Ihrem Originalreisepass verkauft, und die Bündel enthalten Gespräche auf einer lokalen Nummer. Wenn Sprachminuten für Sie zählen, funktioniert dieser Weg. Wenn Sie Daten auf den Funkmasten beider Netze möchten, ohne ein Geschäft aufzusuchen, dann ist eine Reise-eSIM, die auf Vodafone und Digicel roamt, die Fidschi-Variante mit dem geringsten Bürokratieaufwand – und die [Mechanik des Profils](/faq/what-is-esim-activation-and-how-does-it-work/) sind zwei Minuten Lesen wert, bevor Sie etwas kaufen.
 
-Beachten Sie, was die Asymmetrie praktisch bedeutet: Vodafones Online-eSIM-Ablauf hat ihn still zum einzigen Netzbetreiber gemacht, mit dem ein Reisender vor der Abreise transagieren kann – ein Wettbewerbsvorteil, der nichts mit Funkmasten und alles mit dem Buchungsbildschirm zu tun hat. Erwarten Sie, dass die Online-Fähigkeiten der beiden Betreiber irgendwann zusammenwachsen – aber für Reisen, die dieses Jahr starten, hat die Frage nach einem Vorab-Kauf eine Antwort mit nur einem Betreiber, und das Multi-Netz-Reiseprofil ist der einzige Weg, der einen Vorab-Kauf mit Digicels Funkmasten verbindet.
+Beachten Sie, was die Asymmetrie praktisch bedeutet: Vodafones Online-eSIM-Ablauf hat ihn still zum einzigen Netzbetreiber gemacht, mit dem ein Reisender vor der Abreise abschließen kann – ein Wettbewerbsvorteil, der nichts mit Funkmasten und alles mit dem Buchungsbildschirm zu tun hat. Erwarten Sie, dass die Online-Fähigkeiten der beiden Betreiber irgendwann zusammenwachsen – aber für Reisen, die dieses Jahr starten, hat die Frage nach einem Vorab-Kauf eine Antwort mit nur einem Betreiber, und das Multi-Netz-Reiseprofil ist der einzige Weg, der einen Vorab-Kauf mit Digicels Funkmasten verbindet.
 
 ## Wo Sie Ihre eSIM kaufen
 
@@ -249,7 +261,7 @@ Verifizieren Sie dann, bevor Sie es brauchen. Bei Ankunft Flugmodus aus, beobach
 
 Erledigen Sie all das vor dem Flug, nicht während des Nadi-Layovers. Flughafen-WLAN ist gedrosselt und geteilt; Ihre Couch ist es nicht. Und bewahren Sie einen Screenshot des QR-Codes in der Cloud auf – ein Profil, das neu installiert werden muss, ist selten, aber der Code liegt in Ihrer E-Mail, und E-Mail liegt im WLAN, das Sie vielleicht nicht haben.
 
-**APN-Einstellungen in zwei Sätzen.** Ihr Fidschi-Profil ist bereits provisioniert, also ist bei der Ankunft keine manuelle Eingabe von Zugangspunkten nötig – Vodafone Fidschi und Digicel Fidschi senden die Konfiguration automatisch an moderne Geräte. Manuelle Eingabe ist der letzte Ausweg für alte Geräte; der [Aktivierungs-Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) zeigt beide Menüwege.
+**APN-Einstellungen in zwei Sätzen.** Ihr Fidschi-Profil ist bereits provisioniert, also ist bei der Ankunft keine manuelle Eingabe von Zugangspunkten nötig – Vodafone Fidschi und Digicel Fidschi senden die Konfiguration automatisch an moderne Geräte. Manuelle Eingabe ist der letzte Ausweg für alte Geräte; der Fehlerbehebungs-Leitfaden zeigt beide Menüwege.
 
 ## Fidschi-eSIM-Fragen von Insel-Hoppern
 
@@ -295,7 +307,7 @@ Der Datenverbrauch in Fidschi ist geringer als an den meisten Reisezielen, da di
 
 ### Ist mein Gerät für die Fidschi-eSIM freigeschaltet?
 
-Ein gesperrtes Handy akzeptiert kein fidschianisches Profil — weder Netzbetreiber-eSIM, Reise-eSIM noch in manchen Fällen eine physische SIM. Prüfen Sie den Sperrstatus, bevor Sie etwas buchen: wählen Sie `*#06#` für eine EID, bestätigen Sie in den Sperr-Einstellungen des Netzbetreibers „Keine SIM-Beschränkungen“ oder prüfen Sie das Modell über [die Gerätekompatibilitätsseite](/compatibility/). Die Entsperrung erfolgt durch einen Anruf bei Ihrem heimischen Netzbetreiber und ist bei einem abbezahlten Gerät meist innerhalb weniger Stunden erledigt.
+Ein gesperrtes Handy akzeptiert kein fidschianisches Profil — weder Netzbetreiber-eSIM, Reise-eSIM noch in manchen Fällen eine physische SIM. Prüfen Sie den Sperrstatus, bevor Sie etwas buchen: wählen Sie `*#06#` für eine EID, bestätigen Sie in den Sperr-Einstellungen des Netzbetreibers „Keine SIM-Beschränkungen“ oder prüfen Sie das Modell auf der Gerätekompatibilitätsseite. Die Entsperrung erfolgt durch einen Anruf bei Ihrem heimischen Netzbetreiber und ist bei einem abbezahlten Gerät meist innerhalb weniger Stunden erledigt.
 
 ### Kann ich mit der Fidschi-eSIM einen Hotspot nutzen?
 
@@ -325,8 +337,8 @@ Die Netzabdeckungs-Beschreibungen sind bewusst qualitativ: Fidschis inselweises 
 
 ## Wählen Sie einen Fidschi-Tarif und packen Sie Offline-Karten ein
 
-Das ideale Fiji-Setup wird daheim entschieden: prüfen Sie das Handy im [eSIM-Kompatibilitäts-Test](/compatibility/), installieren Sie einen Tarif von [Roamis Fidschi-eSIM-Seite](/fiji-esim/), bevor Sie fliegen, und laden Sie die Kartenregionen für jede Inselstation herunter. Bereit, jetzt zu kaufen? Gehen Sie direkt zum [Roami Fidschi-Store](/fiji-esim/).
+Das ideale Fiji-Setup wird daheim entschieden: prüfen Sie das Handy im [eSIM-Kompatibilitäts-Test](/compatibility/), installieren Sie einen Tarif von [Roamis Fidschi-eSIM-Seite](/fiji-esim/), bevor Sie fliegen, und laden Sie die Kartenregionen für jede Inselstation herunter. Bereit, jetzt zu kaufen? Gehen Sie direkt zum Roami Fidschi-Store.
 
-Falls Sie eines dieser Profile noch nie genutzt haben, kann *Ihre erste eSIM ein kostenloser Test* sein — [hier einlösen](/free-esim/) — und Sie landen in Nadi und wissen bereits genau, wie sie sich verhält. Die Fähre fährt ohnehin ohne Empfang mittendurch — aber Sie werden derjenige sein, der aufs Wasser schaut, statt auf die Balken.
+Falls Sie eines dieser Profile noch nie genutzt haben, kann *Ihre erste eSIM ein kostenloser Test* sein – und Sie landen in Nadi und wissen bereits genau, wie sie sich verhält. Die Fähre fährt ohnehin ohne Empfang mittendurch — aber Sie werden derjenige sein, der aufs Wasser schaut, statt auf die Balken.
 
 Eine abschließende Bemerkung von Roami: Reisende, die zuerst die Netzabdeckung testen, bereuen es selten. Der [kostenlose Testplan](/free-esim/) spiegelt die örtliche Einrichtung in den lokalen Netzen wider, und der Code **WEB20** bringt 20 % Rabatt auf einen kostenpflichtigen Roami-Tarif, sobald Sie bereit sind.

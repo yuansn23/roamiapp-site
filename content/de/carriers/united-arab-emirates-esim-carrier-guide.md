@@ -1,13 +1,12 @@
 ---
 
-title: "du oder e&? UAE-eSIM-Netzbetreiber für Dubai-Reisen im Vergleich"
-
-description: "Roami vergleicht die touristischen eSIM-Netzbetreiber du und e& in den Vereinigten Arabischen Emiraten, von kostenlosen Daten bei der Ankunft bis hin zu Mehrwertsteuer und Anrufregelungen."
+title: "VAE eSIM: du oder e& für Dubai und Abu Dhabi wählen"
+description: "VAE eSIM im Vergleich: du und e& nach Netzabdeckung, Daten bei der Ankunft und Mehrwertsteuer – für Dubai und Abu Dhabi."
 image: "img/esim/carriers/united-arab-emirates-esim-guide.jpg"
 
 date: "2026-09-23T12:52:14+00:00"
 
-keywords: United Arab Emirates eSIM, UAE eSIM carriers, du eSIM, Etisalat eSIM, travel eSIM UAE, no roaming fees UAE, Dubai eSIM, Abu Dhabi eSIM, prepaid eSIM UAE, eSIM for tourists UAE
+keywords: VAE eSIM, Vereinigte Arabische Emirate eSIM-Netzbetreiber, du eSIM, Etisalat eSIM, e& eSIM, Reise-eSIM VAE, keine Roaming-Gebühren in den VAE, Dubai eSIM, Abu Dhabi eSIM, Prepaid-eSIM VAE, eSIM für Touristen in den VAE
 
 site_name: Roami
 
@@ -34,7 +33,7 @@ hero_subtitle_main: "Zwei Netze, eine veröffentlichte Preisliste und eine Regul
 
 
 
-Eine UAE-eSIM ist eine jener seltenen Reisekäufe, bei denen das zugrunde liegende Netz nicht die Frage ist — das Angebot ist es. Die VAE sind seit Monaten der schnellste Mobilfunkmarkt der Welt: Im Ookla Global Index belegte das Land im August 2026 mit einer mittleren mobilen Downloadgeschwindigkeit von **675,51 Mbps** und 18 ms Latenz weltweit Platz 1 und Platz 2 im Festnetzbroadband mit 382,40 Mbps. Bei einem weltweiten mobilen Median von 109,05 Mbps ist das kein Wettbewerbsmarkt, sondern eine andere Kategorie. Der Haken liegt auf der Preisseite: Cable.co.uk berechnet 1 GB mobile Daten in den VAE mit rund **4,61 USD**, Platz 211 von 237 Märkten. Die meisten Reisenden suchen eher nach einer Dubai-eSIM als nach einem landesweiten Produkt, aber an den Flughafenschaltern werden dieselben beiden Netze unter beiden Namen verkauft.
+Eine VAE-eSIM ist eine jener seltenen Reisekäufe, bei denen das zugrunde liegende Netz nicht die Frage ist — das Angebot ist es. Die VAE sind seit Monaten der schnellste Mobilfunkmarkt der Welt: Im Ookla Global Index belegte das Land im August 2026 mit einer mittleren mobilen Downloadgeschwindigkeit von **675,51 Mbps** und 18 ms Latenz weltweit Platz 1 und Platz 2 im Festnetzbroadband mit 382,40 Mbps. Bei einem weltweiten mobilen Median von 109,05 Mbps ist das kein Wettbewerbsmarkt, sondern eine andere Kategorie. Der Haken liegt auf der Preisseite: Cable.co.uk berechnet 1 GB mobile Daten in den VAE mit rund **4,61 USD**, Platz 211 von 237 Märkten. Die meisten Reisenden suchen eher nach einem Dubai-Tarif als nach einem landesweiten Produkt, aber an den Flughafenschaltern werden dieselben beiden Netze unter beiden Namen verkauft.
 
 
 
@@ -42,15 +41,15 @@ Die eigentliche Frage lautet also nicht, welches Netz am schnellsten ist — bei
 
 
 
-Eine One Voraussetzung, die zehn Sekunden Ihrer Zeit wert ist: Prüfen Sie im [Kompatibilitäts-Checker](/compatibility/), ob Ihr Gerät eSIM-fähig ist, und werfen Sie einen Blick auf [die Installation eines eSIM-Profils](/faq/what-is-esim-activation-and-how-does-it-work/), falls der Vorgang neu für Sie ist.
+Eine Voraussetzung, die zehn Sekunden Ihrer Zeit wert ist: Prüfen Sie im [Kompatibilitäts-Checker](/compatibility/), ob Ihr Gerät eSIM-fähig ist, und werfen Sie einen Blick auf [was bei der Aktivierung eines Profils passiert](/faq/what-is-esim-activation-and-how-does-it-work/), falls der Vorgang neu für Sie ist.
 
 
 
-**Wenn Sie sonst nichts lesen:** Die VAE haben zwei lizenzierte Netzbetreiber, e& (Etisalat) und du, beide von der TDRA reguliert, sowie Virgin Mobile als MVNO, das das du-Netz nutzt. Beide Netzbetreiber verkaufen offizielle Tourismusprodukte: die Visitor Line von e& beginnt bei **AED 48,99 für 4 GB plus 30 Flexi-Minuten** (28 Tage, vor Mehrwertsteuer), die Tourist-Pakete von du beginnen bei AED 49, und beide bieten an den Flughafenschaltern eine kostenlose 10 GB / 24 Stunden Tourist-eSIM bei der Ankunft an. Kaufen Sie am Flughafenschalter oder über den QR-Code in der Ankunftshalle, wenn Sie sofort eine lokale Rufnummer möchten; kaufen Sie eine UAE-eSIM vor dem Flug online, wenn Sie sofort Daten haben möchten, sobald sich die Flugzeugtüren öffnen.
+**Wenn Sie sonst nichts lesen:** Die VAE haben zwei lizenzierte Netzbetreiber, e& (Etisalat) und du, beide von der TDRA reguliert, sowie Virgin Mobile als MVNO, das das du-Netz nutzt. Beide Netzbetreiber verkaufen offizielle Tourismusprodukte: die Visitor Line von e& beginnt bei **AED 48,99 für 4 GB plus 30 Flexi-Minuten** (28 Tage, vor Mehrwertsteuer), die Tourist-Pakete von du beginnen bei AED 49, und beide bieten an den Flughafenschaltern eine kostenlose 10 GB / 24 Stunden Tourist-eSIM bei der Ankunft an. Kaufen Sie am Flughafenschalter oder über den QR-Code in der Ankunftshalle, wenn Sie sofort eine lokale Rufnummer möchten; kaufen Sie ein VAE-Datenpaket vor dem Flug online, wenn Sie sofort Daten haben möchten, sobald sich die Flugzeugtüren öffnen.
 
 
 
-## TDRA, du und e&: So ist der UAE-eSIM-Markt aufgebaut
+## TDRA, du und e&: So ist der Markt in den VAE aufgebaut
 
 
 
@@ -66,19 +65,19 @@ Alles andere im Regal baut auf diesen beiden Netzen auf:
 
 |:---|:---|:---|:---|
 
-| e& (Etisalat) | One von zwei lizenzierten nationalen Netzbetreibern | Visitor Line eSIM online und an Schaltern | Breites Spektrum an Frequenzen; stark in Abu Dhabi und auf den westlichen Strecken |
+| e& (Etisalat) | Einer der zwei lizenzierten nationalen Netzbetreiber | Visitor Line eSIM online und an Schaltern | Breites Spektrum an Frequenzen; stark in Abu Dhabi und auf den westlichen Strecken |
 
-| du | Der zweite lizenzierte nationale Netzbetreiber | Free Touristen-eSIM plus kostenpflichtige Pakete online und in der App | Dubai-erste Reiserouten; starke 5G-Netzabdeckung in der Stadt |
+| du | Der zweite lizenzierte nationale Netzbetreiber | Kostenlose Touristen-eSIM plus kostenpflichtige Pakete online und in der App | Dubai-erste Reiserouten; starke 5G-Netzabdeckung in der Stadt |
 
 | Virgin Mobile VAE | MVNO im du-Netz | App-basierte eSIM mit Pass-Scan | App-affine Reisende, die große kurzfristige Datenpakete wünschen |
 
 
 
-### UAE eSIM-Marken: Was jedes Etikett im Regal wirklich ist
+### VAE-Marken: Was jedes Etikett im Regal wirklich ist
 
 
 
-Daraus folgen zwei strukturelle Fakten. Erstens: Jede UAE eSIM, die Sie kaufen – von einem Netzbetreiber, einem Schalter am Flughafen oder einer Reiseplattform – läuft letzten Endes entweder über e& oder du; ein drittes Netz gibt es nicht. Zweitens: Die Registrierung ist nicht verhandelbar; die TDRA-Vorschriften verlangen, dass jede SIM gegen einen Reisepass oder eine Emirates-ID registriert wird, Touristenprodukte sind auf Besucher ab 18 Jahren beschränkt, und jeder Reisepass darf nur eine geringe Anzahl aktiver Anschlüsse haben.
+Daraus folgen zwei strukturelle Fakten. Erstens: Jede VAE-SIM, die Sie kaufen – von einem Netzbetreiber, einem Schalter am Flughafen oder einer Reiseplattform – läuft letzten Endes entweder über e& oder du; ein drittes Netz gibt es nicht. Zweitens: Die Registrierung ist nicht verhandelbar; die TDRA-Vorschriften verlangen, dass jede SIM gegen einen Reisepass oder eine Emirates-ID registriert wird, Touristenprodukte sind auf Besucher ab 18 Jahren beschränkt, und jeder Reisepass darf nur eine geringe Anzahl aktiver Anschlüsse haben.
 
 
 
@@ -86,11 +85,11 @@ Daraus folgen zwei strukturelle Fakten. Erstens: Jede UAE eSIM, die Sie kaufen �
 
 
 
-Dies ist der Abschnitt, den der UAE-Blickwinkel verdient, denn beide Netzbetreiber veröffentlichen ein echtes, preisgelistetes Touristenprodukt, und die Stufen decken sich fast Punkt für Punkt. Die Preise unten stammen von den eigenen Seiten der Betreiber und der Zusammenfassung der Angebote bei der Ankunft von Gulf News; behandeln Sie sie als aktuelle Anhaltspunkte, nicht als Garantien.
+Dies ist der Abschnitt, den der VAE-Blickwinkel verdient, denn beide Netzbetreiber veröffentlichen ein echtes, preisgelistetes Touristenprodukt, und die Stufen decken sich fast Punkt für Punkt. Die Preise unten stammen von den eigenen Seiten der Betreiber und der Zusammenfassung der Angebote bei der Ankunft von Gulf News; behandeln Sie sie als aktuelle Anhaltspunkte, nicht als Garantien.
 
 
 
-### e& Visitor-Line-Pakete: UAE eSIM-Preise Paket für Paket
+### e& Visitor-Line-Pakete: die Preise Paket für Paket
 
 
 
@@ -122,7 +121,7 @@ Eine kostenlose 10 GB lokale Daten-eSIM mit 24 Stunden Gültigkeit steht über d
 
 
 
-### Kann man in den Vereinigten Arabischen Emiraten eine eSIM von du kaufen?
+### du-Touristenpakete: die Preise Paket für Paket
 
 
 
@@ -134,7 +133,7 @@ Die angegebenen Preise von du enthalten in der Regel die Mehrwertsteuer.
 
 |:---|:---|:---|:---|:---|
 
-| Free Touristen-eSIM | 10 GB | — | 24 Stunden (eSIM 30 Tage gültig zur Aktivierung) | AED 0 |
+| Kostenlose Touristen-SIM | 10 GB | — | 24 Stunden (Profil 30 Tage gültig zur Aktivierung) | AED 0 |
 
 | Einstiegs-Touristenpaket | 2–4 GB (variiert je nach aktuellem Angebot) | 30 flexi | 28 Tage | AED 49 |
 
@@ -152,11 +151,11 @@ Die du-Datentarife sind ehrlich und nicht vage: du aktualisiert die Inhalte sein
 
 
 
-### du oder Etisalat: Was ist besser in den Vereinigten Arabischen Emiraten?
+### Virgin Mobile als dritter Weg neben du und e&
 
 
 
-Viirgin Mobile UAE nutzt das du-Netz und verkauft reine App-Touristentarife: unlimitiertes Datenvolumen für 3 Tage zu 99 AED, ungefähr 40 GB für 7 Tage zu etwa 142 AED sowie unlimitiertes Datenvolumen für einen Monat zu 500 AED. Die Aktivierung erfolgt komplett in der App – scannen Sie Ihren Reisepass, machen Sie ein Selfie, und der Dienst ist innerhalb weniger Minuten aktiv.
+Virgin Mobile UAE nutzt das du-Netz und verkauft reine App-Touristentarife: unlimitiertes Datenvolumen für 3 Tage zu 99 AED, ungefähr 40 GB für 7 Tage zu etwa 142 AED sowie unlimitiertes Datenvolumen für einen Monat zu 500 AED. Die Aktivierung erfolgt komplett in der App – scannen Sie Ihren Reisepass, machen Sie ein Selfie, und der Dienst ist innerhalb weniger Minuten aktiv.
 
 
 
@@ -180,15 +179,15 @@ Wenn man die beiden offiziellen Angebote nebeneinanderlegt, schrumpfen die Unter
 
 | Unbegrenzt | 7 Tage AED 199,99; 14 Tage AED 319 | 7 Tage AED 199; 14 Tage AED 299 |
 
-| Free Ankunftsdaten | 10 GB für 24 Stunden | 10 GB für 24 Stunden |
+| Kostenlose Ankunftsdaten | 10 GB für 24 Stunden | 10 GB für 24 Stunden |
 
-| Inklusive Anrufe | Yes — 30 bis 525 Flexi-Minuten je Stufe | Yes — 30 bis 200 Flexi-Minuten je Stufe |
+| Inklusive Anrufe | Ja — 30 bis 525 Flexi-Minuten je Stufe | Ja — 30 bis 200 Flexi-Minuten je Stufe |
 
 | Internet-Telefonie-App | GoChat Messenger Promo-Daten in den Premium-Tarifen | BOTIM, HiU, C'ME und Voico unterstützt |
 
 | Gültigkeitsdauer der Leitung | An Ihr Visum gebunden, bis zu 90 Tage | An Ihr Visum gebunden; Pakete verlängerbar |
 
-| Praktischer Vorteil | Breiteres Hochleistungsangebot; Abu Dhabi und westliche Routen | Günstiger in der Einstiegsstufe; DuPionier-Netzgeschichte |
+| Praktischer Vorteil | Breiteres Hochleistungsangebot; Abu Dhabi und westliche Routen | Günstiger in der Einstiegsstufe; Pioniernetz-Geschichte |
 
 
 
@@ -196,11 +195,11 @@ Wenn man die beiden offiziellen Angebote nebeneinanderlegt, schrumpfen die Unter
 
 
 
-Three Punkte sind es wert, klar ausgesprochen zu werden. e& veröffentlicht seine Preise vor der Mehrwertsteuer, während du tendenziell die Preise nach Steuer angibt, sodass ein direkter Vergleich ungefähr ein Zwanzigstel zu jeder e&-Zahl hinzufügt. Die Gesprächsguthaben von e& steigen mit zunehmendem Preis deutlich stärker an, was wichtig ist, wenn Sie planen, gewöhnliche Telefonanrufe statt App-Anrufe zu tätigen. Und in der Einstiegsstufe liegen die beiden Angebote nach Steuerangleichung innerhalb eines Dirham – die Entscheidung hängt also meistens davon ab, welche Netzbetreiber-Geschichte besser zu Ihrer Reiseroute passt, nicht davon, welches Menü günstiger ist.
+Drei Punkte sind es wert, klar ausgesprochen zu werden. e& veröffentlicht seine Preise vor der Mehrwertsteuer, während du tendenziell die Preise nach Steuer angibt, sodass ein direkter Vergleich ungefähr ein Zwanzigstel zu jeder e&-Zahl hinzufügt. Die Gesprächsguthaben von e& steigen mit zunehmendem Preis deutlich stärker an, was wichtig ist, wenn Sie planen, gewöhnliche Telefonanrufe statt App-Anrufe zu tätigen. Und in der Einstiegsstufe liegen die beiden Angebote nach Steuerangleichung innerhalb eines Dirham – die Entscheidung hängt also meistens davon ab, welche Netzbetreiber-Geschichte besser zu Ihrer Reiseroute passt, nicht davon, welches Menü günstiger ist.
 
 
 
-### Vertriebskanäle für eSIMs der Vereinigten Arabischen Emirate
+### Vertriebskanäle für Datenpakete in den VAE
 
 
 
@@ -214,17 +213,17 @@ Three Punkte sind es wert, klar ausgesprochen zu werden. e& veröffentlicht sein
 
 | Zwei Wochen Videotelefonate | e& Visitor Line Premium | 120 Minuten plus GoChat Promo-Daten |
 
-| Ein Monat für leichte Nutzung | des 28-Tage-Pakets | Zum gleichen Preis ohne erneute Registrierung nachkaufbar |
+| Ein Monat für leichte Nutzung | du oder e& | 28-Tage-Paket zum gleichen Preis ohne erneute Registrierung nachkaufbar |
 
-| Zwischenstopp unter 24 Stunden | Entweder kostenlose eSIM bei Ankunft | 10 GB für einen Tag decken den Weg zum Hotel ab |
-
-
-
-One Überlegung gilt für beide Menüs: Eine in den VAE gekaufte eSIM von einer Drittanbieterplattform erscheint nicht in der App eines der beiden Netzbetreiber, sodass Aufladungen und Support über die Plattform und nicht über den Betreiber laufen. Wenn Sie planen, während der Reise Daten nachzubuchen, hält ein Produkt des Netzbetreibers diesen Schritt einfach.
+| Zwischenstopp unter 24 Stunden | Egal welches Netz, kostenloses Ankunftspaket | 10 GB für einen Tag decken den Weg zum Hotel ab |
 
 
 
-## eSIM-Tarife und Preise in den Vereinigten Arabischen Emiraten im Vergleich
+Eine Überlegung gilt für beide Menüs: Ein in den VAE gekauftes Profil von einer Drittanbieterplattform erscheint nicht in der App eines der beiden Netzbetreiber, sodass Aufladungen und Support über die Plattform und nicht über den Betreiber laufen. Wenn Sie planen, während der Reise Daten nachzubuchen, hält ein Produkt des Netzbetreibers diesen Schritt einfach.
+
+
+
+## Tarife und Preise in den Vereinigten Arabischen Emiraten im Vergleich
 
 
 
@@ -236,29 +235,29 @@ Die VAE sind ungewöhnlich darin, wie gut die Flughafenoption ist – kostenlose
 
 |:---|:---|:---|
 
-| Schalter am Flughafen | Free 10-GB-eSIM oder ein kostenpflichtiges Paket, das vom Personal eingerichtet wird, mit sofortiger lokaler Rufnummer | Zum Hauptanreisezeitraum bildet sich eine Schlange, und Sie stellen sich nach einem langen Flug an |
+| Schalter am Flughafen | Kostenloses 10-GB-Paket oder ein kostenpflichtiges Paket, das vom Personal eingerichtet wird, mit sofortiger lokaler Rufnummer | Zum Hauptanreisezeitraum bildet sich eine Schlange, und Sie stellen sich nach einem langen Flug an |
 
-| QR-Code in der Ankunftshalle | Die kostenlose Touristen-eSIM, in wenigen Minuten selbst aktiviert | Keine persönliche Hilfe, falls die Aktivierung fehlschlägt |
+| QR-Code in der Ankunftshalle | Das kostenlose Touristenpaket, in wenigen Minuten selbst aktiviert | Keine persönliche Hilfe, falls die Aktivierung fehlschlägt |
 
 | Einkaufspassage oder Netzbetreiber-Store | Gleiche Verkaufspreise, keine Flughafenzuschläge, Personal vor Ort | Erfordert einen vorherigen Ausflug in die Stadt |
 
-| App oder Website des Netzbetreibers | Vollständiges Menü, eSIM-Option an der Kasse, keine Warteschlange | Sie müssen sich dennoch einer Identitätsprüfung unterziehen |
+| App oder Website des Netzbetreibers | Vollständiges Menü, Profil-Option an der Kasse, keine Warteschlange | Sie müssen sich dennoch einer Identitätsprüfung unterziehen |
 
-| Online-Reise-eSIM, bevor Sie fliegen | Datenaktivierung in dem Moment, in dem Sie landen, keine Registrierung | In den meisten Fällen nur Daten; keine UAE-Telefonnummer |
+| Online-Reise-SIM, bevor Sie fliegen | Datenaktivierung in dem Moment, in dem Sie landen, keine Registrierung | In den meisten Fällen nur Daten; keine VAE-Telefonnummer |
 
 | Flug- oder Hotel-Paket | Gelegentlich ist ein vergünstigter lokaler Tarif inklusive | Selten besser als das Netzbetreiber-Angebot, und die Support-Wege variieren |
 
 
 
-### Was die kostenlose eSIM bei der Einreise wirklich bietet
+### Was das kostenlose Einreisepaket wirklich bietet
 
 
 
-Beide Netzbetreiber stellen 10 GB mit einer Gültigkeit von 24 Stunden zur Verfügung, und das ist tatsächlich nützlich: genug, um eine Fahrt zu buchen, Ihr Hotel zu kontaktieren und eine Karte zu laden. Was sie nicht ist, ist ein Tarif. Wenn der Tag endet, verlängert sich die Leitung nicht von selbst — ein kostenpflichtiges Paket muss über die App, einen Automaten oder ein Geschäft erworben werden. Reisende, die davon ausgehen, dass die kostenlosen Daten einfach weiterlaufen, sind die häufigste Quelle für Verwirrung bei der Konnektivität in den VAE. Betrachten Sie die Einreise-eSIM daher eher als Brücke zu Ihrem eigentlichen Tarif als den Tarif selbst.
+Beide Netzbetreiber stellen 10 GB mit einer Gültigkeit von 24 Stunden zur Verfügung, und das ist tatsächlich nützlich: genug, um eine Fahrt zu buchen, Ihr Hotel zu kontaktieren und eine Karte zu laden. Was sie nicht ist, ist ein Tarif. Wenn der Tag endet, verlängert sich die Leitung nicht von selbst — ein kostenpflichtiges Paket muss über die App, einen Automaten oder ein Geschäft erworben werden. Reisende, die davon ausgehen, dass die kostenlosen Daten einfach weiterlaufen, sind die häufigste Quelle für Verwirrung bei der Konnektivität in den VAE. Betrachten Sie das Einreisepaket daher eher als Brücke zu Ihrem eigentlichen Tarif als den Tarif selbst.
 
 
 
-Flexi-Minuten — die in beiden Tourist-Paketen der Netzbetreiber enthalten sind — funktionieren für lokale und internationale Anrufe, was wichtiger ist, als es klingt: Fahrer von Fahrdiensten, Hotels und Restaurantreservierungen verbrauchen allesamt Sprachminuten. Unabhängig davon, für welchen Weg Sie sich entscheiden, ist eine in den VAE erworbene eSIM von einem der beiden Netzbetreiber innerhalb weniger Minuten nach dem Checkout aktiv.
+Flexi-Minuten — die in beiden Tourist-Paketen der Netzbetreiber enthalten sind — funktionieren für lokale und internationale Anrufe, was wichtiger ist, als es klingt: Fahrer von Fahrdiensten, Hotels und Restaurantreservierungen verbrauchen allesamt Sprachminuten. Unabhängig davon, für welchen Weg Sie sich entscheiden, ist eine in den VAE erworbene Karte von einem der beiden Netzbetreiber innerhalb weniger Minuten nach dem Checkout aktiv.
 
 
 
@@ -266,9 +265,17 @@ Flexi-Minuten — die in beiden Tourist-Paketen der Netzbetreiber enthalten sind
 
 
 
-Stattdessen nach Norden unterwegs? Die [Kuwait eSIM-Seite](/kuwait-esim/) und unser [Bahrain eSIM-Leitfaden](/carriers/bahrain-esim-carrier-guide/) behandeln diese Grenzübertritte, und eine regionale Reise-eSIM meistert einen Landübergang besser als ein Länderpaket.
+Stattdessen nach Norden unterwegs? Die [Kuwait-eSIM](/kuwait-esim/) und die [Bahrain-eSIM](/bahrain-esim/) behandeln diese Grenzübertritte, und eine [Nahost-Regionale](/middle-east-esim/) meistert einen Landübergang besser als ein Länderpaket.
 
 
+
+### Was ein Gigabyte in den VAE wirklich kostet: eine Beispielrechnung
+
+Rechnen Sie es an einem Wochenendtrip durch. Das Einstiegspaket von du kostet 49 AED inklusive Mehrwertsteuer für 2 bis 4 GB – bei 4 GB sind das rund 12 AED pro Gigabyte. e& verlangt für 4 GB 48,99 AED vor 5 % Mehrwertsteuer, also etwa 51,4 AED brutto und damit gut 12,8 AED pro Gigabyte. Der nationale Durchschnitt von 4,61 USD pro Gigabyte, den Cable.co.uk berechnet, liegt deutlich höher: Er beschreibt vor allem die Preise für Einwohner, nicht das Touristenmenü. Die kostenlosen 10 GB bei der Ankunft sind deshalb so wertvoll – sie decken den ersten Tag, an dem Sie am wenigsten Zeit für einen Tarifvergleich haben.
+
+### Wie Sie ein VAE-Paket nachladen
+
+Nachladen ist in den VAE einfach, solange Sie das richtige Produkt gewählt haben. Beide Betreiber erlauben, dasselbe Paket zum gleichen Preis erneut zu kaufen – über die du-App oder die e& UAE App, online oder in einer Filiale. Wer eine Leitung von du verlängern möchte, geht mit Reisepass und Visum in eine du-Filiale; die kostenlosen 10 GB lassen sich nicht verlängern, sondern nur durch ein kostenpflichtiges Paket ersetzen. Kaufen Sie dagegen ein reines Reise-Profil von einer Drittplattform, verschwinden Paket und Aufladung aus den Betreiber-Apps, und der Support läuft über die Plattform. Wer unterwegs nachbuchen will, hält sich an das Angebot der Netzbetreiber.
 
 ## Pass- und Ausweisregeln für SIM-Karten in den Vereinigten Arabischen Emiraten
 
@@ -282,15 +289,15 @@ Die Registrierung ist der Punkt, an dem die Produktpolitur der VAE auf harte Vor
 
 |:---|:---|:---|
 
-| Tourist bei Ankunft | Reisepass im Original, zusätzlich das Visum oder der Einreisestempel, falls erforderlich | Vi nur Besucherprodukte; die Gültigkeit der Karte richtet sich nach Ihrem Visum |
+| Tourist bei Ankunft | Reisepass im Original, zusätzlich das Visum oder der Einreisestempel, falls erforderlich | Nur Besucherprodukte; die Gültigkeit der Karte richtet sich nach Ihrem Visum |
 
 | Tourist mit einem Visum bei der Ankunft | Reisepass | Wie zuvor; Altersbeschränkung ab 18 Jahren gilt |
 
 | GCC-Bürger | GCC-Ausweis wird akzeptiert, vorbehaltlich der Richtlinien des Netzbetreibers | Gleiche Produkte für Besucher, einfachere Überprüfung |
 
-| UAE-Aufenthaltsberechtigte | Originaler Emirates-Ausweis – Kopien und Scans werden nicht akzeptiert | Prepaid- oder Postpaid-Tarife für Aufenthaltsberechtigte |
+| VAE-Aufenthaltsberechtigte | Originaler Emirates-Ausweis – Kopien und Scans werden nicht akzeptiert | Prepaid- oder Postpaid-Tarife für Aufenthaltsberechtigte |
 
-| Einwohner, der einen eSIM-Wechsel wünscht | Emirates-ID, häufig mit UAE-Pass-Verifizierung | Physische SIM in der Betreiber-App in eine eSIM umwandeln |
+| Einwohner, der auf ein Profil wechseln möchte | Emirates-ID, häufig mit VAE-Pass-Verifizierung | Physische SIM in der Betreiber-App in ein Profil umwandeln |
 
 | Jeder Online-Kauf | Passdaten beim Bezahlvorgang; 3D-gesicherte Karte erforderlich | Bestellreferenz innerhalb von sechs Monaten in einer Filiale eingelöst |
 
@@ -304,11 +311,11 @@ Die Trennlinie ist der Tarif, nicht das Netz. Touristenpakete sind auf Reisepäs
 
 
 
-Daraus ergeben sich zwei praktische Konsequenzen. Wenn Ihr Reisepass bereits zwei aktive UAE-Linien aus einer früheren Reise enthält, wird eine dritte abgelehnt, bis Sie eine davon in einer Filiale deaktivieren. Und wenn Sie bleiben möchten, migrieren Sie die Besucherlinie zu einem Resident-Tarif, indem Sie Ihre neue Emirates ID in einer beliebigen Filiale des Netzbetreibers vorlegen.
+Daraus ergeben sich zwei praktische Konsequenzen. Wenn Ihr Reisepass bereits zwei aktive VAE-Linien aus einer früheren Reise enthält, wird eine dritte abgelehnt, bis Sie eine davon in einer Filiale deaktivieren. Und wenn Sie bleiben möchten, migrieren Sie die Besucherlinie zu einem Resident-Tarif, indem Sie Ihre neue Emirates ID in einer beliebigen Filiale des Netzbetreibers vorlegen.
 
 
 
-### UAE eSIM: Was Sie am Tag Ihrer Ankunft prüfen sollten
+### VAE-Ankunft: Was Sie am ersten Tag prüfen sollten
 
 
 
@@ -316,9 +323,9 @@ Daraus ergeben sich zwei praktische Konsequenzen. Wenn Ihr Reisepass bereits zwe
 
 - Dass die Leitung im SIM-Manager Ihres Telefons unter einer eigenen Bezeichnung erscheint
 
-- Dass die kostenlose Ankunfts-eSIM tatsächlich aktiviert wurde, bevor Sie die Halle verlassen
+- Dass das kostenlose Ankunftspaket tatsächlich aktiviert wurde, bevor Sie die Halle verlassen
 
-- Dass Ihre Datenleitung auf die UAE-eSIM und nicht auf Ihre Heim-SIM verweist
+- Dass Ihre Datenleitung auf das VAE-Profil und nicht auf Ihre Heim-SIM verweist
 
 - Dass die App des Netzbetreibers Ihre Nummer erkennt, damit Aufladungen mit einem Tippen erledigt sind
 
@@ -342,11 +349,11 @@ Beim Frequenzspektrum zeigt sich die Zwei-Netzbetreiber-Struktur in der Hardware
 
 | Netzbetreiber-Sperre | iPhone: Einstellungen → Allgemein → Info → Netzbetreiber-Sperre zeigt „Keine SIM-Beschränkungen" an |
 
-| eSIM-Unterstützung | `*#06#` zeigt eine EID an, oder die [eSIM-Kompatibilitätsliste](/compatibility/) bestätigt Ihr Modell |
+| eSIM-Unterstützung | `*#06#` zeigt eine EID an, oder die [Geräteliste für eSIM-Handys](/compatibility/) bestätigt Ihr Modell |
 
 
 
-### UAE eSIM: drei Prüfungen vor dem Abflug
+### VAE: drei Prüfungen vor dem Abflug
 
 
 
@@ -354,19 +361,19 @@ Beim Frequenzspektrum zeigt sich die Zwei-Netzbetreiber-Struktur in der Hardware
 
 - **eSIM-fähig.** Wählen Sie `*#06#` und suchen Sie nach einer EID, bevor Sie Geld ausgeben.
 
-- **Datenleitung ausgewählt.** Legen Sie die UAE eSIM als Mobilfunkdatenleitung fest, sonst übernimmt Ihre Heim-SIM den gesamten Datenverkehr.
+- **Datenleitung ausgewählt.** Legen Sie das VAE-Profil als Mobilfunkdatenleitung fest, sonst übernimmt Ihre Heim-SIM den gesamten Datenverkehr.
 
 
 
-Die Sperrprüfung ist in der Golfregion wichtiger als in den meisten anderen Regionen, weil viele in den UAE und der Region verkaufte Geräte über den Netzbetreiber finanziert und gesperrt sind. Führen Sie alle drei Prüfungen durch, bevor Sie abreisen, und eine UAE eSIM, die Sie zu Hause installiert haben, registriert sich in dem Moment, in dem die Flugzeugtüren geöffnet werden.
+Die Sperrprüfung ist in der Golfregion wichtiger als in den meisten anderen Regionen, weil viele in den VAE und der Region verkaufte Geräte über den Netzbetreiber finanziert und gesperrt sind. Führen Sie alle drei Prüfungen durch, bevor Sie abreisen, und ein VAE-Profil, das Sie zu Hause installiert haben, registriert sich in dem Moment, in dem die Flugzeugtüren geöffnet werden.
 
 
 
-## Netzabdeckung der United Arab Emirates eSIM: du vs. Etisalat
+## Netzabdeckung in den VAE: du gegen e&
 
 
 
-Mit 21,9 Millionen Mobilfunkverbindungen gegenüber einer Bevölkerung von rund 11 Millionen – 195 % der Bevölkerung, laut DataReportal – zählen die UAE zu den am besten vernetzten Ländern weltweit, und der nationale Median von 675,51 Mbps bedeutet, dass selbst „durchschnittlicher“ Service außergewöhnlich ist. In beiden Netzen liefert eine UAE eSIM die gleichen Spitzengeschwindigkeiten; was je nach Region weiterhin variiert, ist welcher Netzbetreiber historisch begünstigt wurde.
+Mit 21,9 Millionen Mobilfunkverbindungen gegenüber einer Bevölkerung von rund 11 Millionen – 195 % der Bevölkerung, laut DataReportal – zählen die VAE zu den am besten vernetzten Ländern weltweit, und der nationale Median von 675,51 Mbps bedeutet, dass selbst „durchschnittlicher“ Service außergewöhnlich ist. In beiden Netzen liefert ein VAE-Profil die gleichen Spitzengeschwindigkeiten; was je nach Region weiterhin variiert, ist welcher Netzbetreiber historisch begünstigt wurde.
 
 
 
@@ -388,7 +395,7 @@ Mit 21,9 Millionen Mobilfunkverbindungen gegenüber einer Bevölkerung von rund 
 
 | Al Ain und östliches Binnenland | e& ist stärker vertreten; die Netzabdeckung verläuft entlang von Hauptverkehrsstraßen und Siedlungen und wird dazwischen schwächer |
 
-| Liwa & die Randregion des Empty Quarter \| Die wirklich abgelegene Option; e& deckt die Hauptrouten ab, doch kein Netzbetreiber garantiert Empfang zwischen den Siedlungen \|
+| Liwa & die Randregion des Empty Quarter | Die wirklich abgelegene Option; e& deckt die Hauptrouten ab, doch kein Netzbetreiber garantiert Empfang zwischen den Siedlungen |
 
 | Dubai–Abu Dhabi-Autobahn (E11) | Durchgehend 5G entlang des Korridors, einschließlich der offenen Strecken zwischen den beiden Städten |
 
@@ -396,15 +403,15 @@ Mit 21,9 Millionen Mobilfunkverbindungen gegenüber einer Bevölkerung von rund 
 
 
 
-### du vs Etisalat: Netzabdeckung im Vergleich
+### du gegen e&: Netzabdeckung im Vergleich
 
 
 
-Das Muster ist: Die „Netzabdeckung in den VAE„ ist tatsächlich eine Dubai-und-Abu-Dhabi-Geschichte mit einem starken sekundären Ring um Schardscha, Adschman und Ras Al Khaimah sowie einer wirklich abgelegenen Randzone in Liwa. Eine VAE-eSIM in einem der beiden Netze bewältigt die ersten drei Bereiche problemlos; nur die äußeren Randgebiete lohnen eine gezielte Planung, denn dort stellt sich nicht die Frage nach der Geschwindigkeit, sondern ob überhaupt ein Standort bei Ihnen ankommt.
+Das Muster ist: Die Netzabdeckung in den VAE ist tatsächlich eine Dubai-und-Abu-Dhabi-Geschichte mit einem starken sekundären Ring um Schardscha, Adschman und Ras Al Khaimah sowie einer wirklich abgelegenen Randzone in Liwa. Ein VAE-Profil in einem der beiden Netze bewältigt die ersten drei Bereiche problemlos; nur die äußeren Randgebiete lohnen eine gezielte Planung, denn dort stellt sich nicht die Frage nach der Geschwindigkeit, sondern ob überhaupt ein Sendemast bei Ihnen ankommt.
 
 
 
-### du vs Etisalat: Welcher Netzbetreiber in den Vereinigten Arabischen Emiraten ist schneller?
+### du gegen e&: Wer ist in den VAE schneller?
 
 
 
@@ -412,7 +419,7 @@ Die Geschichte der Geschwindigkeit in den VAE ist wirklich ungewöhnlich, und di
 
 
 
-| Measure (2025) | e& UAE | du | Hinweis |
+| Messwert (2025) | e& UAE | du | Hinweis |
 
 |:---|:---|:---|:---|
 
@@ -420,7 +427,7 @@ Die Geschichte der Geschwindigkeit in den VAE ist wirklich ungewöhnlich, und di
 
 | Schnellstes 5G-Netz der Welt, Q3–Q4 2025 | Sieger, Speed Score 83,68 | Nicht vergeben | Vierter 5G-Sieg in Folge |
 
-| Medianer Download, alle Technologien | 830,05 Mbps | Nicht vergleichsweise veröffentlicht | Aus Ooklas UAE-Stichprobe |
+| Medianer Download, alle Technologien | 830,05 Mbps | Nicht vergleichsweise veröffentlicht | Aus Ooklas VAE-Stichprobe |
 
 | Medianer Upload, alle Technologien | 48,18 Mbps | Nicht vergleichsweise veröffentlicht | — |
 
@@ -432,7 +439,7 @@ Die Geschichte der Geschwindigkeit in den VAE ist wirklich ungewöhnlich, und di
 
 | Mobiler Medianwert in Abu Dhabi Stadt | 516,11 Mbps | — | Städteranking Mitte 2025, 3. Platz weltweit |
 
-| DuMedianwert der Stadt Mobile | 474,12 Mbps | — | Städteranking Mitte 2025, 4. Platz weltweit |
+| Median der Stadt Dubai | 474,12 Mbps | — | Städteranking Mitte 2025, 4. Platz weltweit |
 
 
 
@@ -440,15 +447,15 @@ Zwei Hinweise zur Transparenz. du veröffentlicht in den geprüften Quellen kein
 
 
 
-Wenn Ihre Reise weiter in den Golf führt, spielen Mehrmeh-Ländertickets ihre Stärke erst dort aus — Ihre VAE-eSIM ist am ersten Grenzübergang nicht mehr nutzbar.
+Wenn Ihre Reise weiter in den Golf führt, spielt erst ein Mehrländer-Ticket seine Stärke aus — Ihre VAE-eSIM ist schon am ersten Grenzübergang nicht mehr nutzbar.
 
 
 
-## Internettelefonie: die Regel, der jeder VAE-eSIM-Nutzer begegnet
+## Internettelefonie: die Regel, der jeder VAE-Nutzer begegnet
 
 
 
-One regulatorische Vorgabe sorgt bei Besuchern der VAE für mehr Beschwerden als jede andere, deshalb gehört sie klar ausgesprochen: **Sprach- und Videoanrufe über allgemeine Internettelefonie-Apps sind in den VAE eingeschränkt**. WhatsApp-, FaceTime- und Skype-Anrufe funktionieren in den lokalen Netzen nicht, entsprechend der von der TDRA überwachten Regelung; Textnachrichten und Daten für Surfen, Social Media, Karten und Streaming funktionieren normal.
+Eine regulatorische Vorgabe sorgt bei Besuchern der VAE für mehr Beschwerden als jede andere, deshalb gehört sie klar ausgesprochen: **Sprach- und Videoanrufe über allgemeine Internettelefonie-Apps sind in den VAE eingeschränkt**. WhatsApp-, FaceTime- und Skype-Anrufe funktionieren in den lokalen Netzen nicht, entsprechend der von der TDRA überwachten Regelung; Textnachrichten und Daten für Surfen, Social Media, Karten und Streaming funktionieren normal.
 
 
 
@@ -460,11 +467,11 @@ Wie der Markt darauf reagiert hat, ist erwähnenswert, weil es aus einer Einschr
 
 
 
-## Praktische Hinweise: Ride-Hailing, Parken und Hotel-WLAN mit einer VAE-eSIM
+## Praktische Hinweise: Ride-Hailing, Parken und Hotel-WLAN in den VAE
 
 
 
-Eine VAE-eSIM dient nicht nur zum Surfen. Mehrere Alltagsdienste in den Emiraten setzen voraus, dass Sie einen Anruf oder eine SMS empfangen können, und ein reines Datentarif-Reiseprofil reicht dafür nicht aus.
+Ein VAE-Profil dient nicht nur zum Surfen. Mehrere Alltagsdienste in den Emiraten setzen voraus, dass Sie einen Anruf oder eine SMS empfangen können, und ein reines Datentarif-Reiseprofil reicht dafür nicht aus.
 
 
 
@@ -476,17 +483,17 @@ Ride-Hailing und Lieferdienste funktionieren am besten, wenn der Fahrer oder Kur
 
 
 
-### Bezahlen in den VAE: Karten, Wallets, Maut und Ihre eSIM-Nummer
+### Bezahlen in den VAE: Karten, Wallets, Maut und Ihre Rufnummer
 
 
 
-| Aufgaben | So funktioniert es | Hilft eine eSIM für die VAE? |
+| Aufgaben | So funktioniert es | Hilft ein VAE-Profil? |
 
 |:---|:---|:---|
 
-| Ride-Hailing (Careem, Uber, Bolt) | Im App-Profil verlinkte ausländische Karte; der Fahrer ruft Sie an | Yes — eine lokale Live-Rufnummer erleichtert die Abholung |
+| Ride-Hailing (Careem, Uber, Bolt) | Im App-Profil verlinkte ausländische Karte; der Fahrer ruft Sie an | Ja — eine lokale Live-Rufnummer erleichtert die Abholung |
 
-| Essenslieferung | Ausländische Karten werden akzeptiert; der Kurier ruft bei Ankunft an | Yes, aus demselben Grund |
+| Essenslieferung | Ausländische Karten werden akzeptiert; der Kurier ruft bei Ankunft an | Ja, aus demselben Grund |
 
 | Dubai parking (SMS) | Kfz-Kennzeichen, Zone und Uhrzeit an 7275 senden | Erfordert eine aktive lokale SIM |
 
@@ -494,9 +501,9 @@ Ride-Hailing und Lieferdienste funktionieren am besten, wenn der Fahrer oder Kur
 
 | Salik-Maut | Pro Schranke wird ein Tag abgezogen, das Aufladen erfolgt in der Salik-App | Nein – das Tag befindet sich im Fahrzeug, nicht auf Ihrem Telefon |
 
-| WLAN in Hotels und Einkaufszentren | Free mit einem Zimmer oder einem Einkauf; oft gut | Daten sind weiterhin wichtig für die Stunden, in denen Sie draußen sind |
+| WLAN in Hotels und Einkaufszentren | Oft kostenlos mit Zimmerkarte oder Einkauf; die Qualität schwankt | Daten sind weiterhin wichtig für die Stunden, in denen Sie draußen sind |
 
-| Kontaktloses Bezahlen | Apple Pay und Google Pay funktionieren mit einer ausländischen Karte | Nein — es ist die Karte, nicht die eSIM |
+| Kontaktloses Bezahlen | Apple Pay und Google Pay funktionieren mit einer ausländischen Karte | Nein — es ist die Karte, nicht das Profil |
 
 | Dubai Metro und Nol | Nol-Karte für die Metro; Aufladen an Stationen oder online | Nein – aber eine Live-Datenverbindung hilft Ihnen bei der Routenplanung |
 
@@ -504,21 +511,21 @@ Ride-Hailing und Lieferdienste funktionieren am besten, wenn der Fahrer oder Kur
 
 
 
-### Zwei Gewohnheiten, die eine UAE-eSIM am Laufen halten
+### Zwei Gewohnheiten, die ein VAE-Profil am Laufen halten
 
 
 
-- **Pinnen Sie die Datenleitung auf die eSIM.** Die meisten „Kein Internet"-Meldungen in den Emiraten entstehen, weil das Telefon stillschweigend die Heim-SIM statt der UAE-eSIM verwendet.
+- **Pinnen Sie die Datenleitung auf das Profil.** Die meisten „Kein Internet"-Meldungen in den Emiraten entstehen, weil das Telefon stillschweigend die Heim-SIM statt der VAE-Karte verwendet.
 
 - **Lassen Sie Datenroaming eingeschaltet.** Lokale Leitungen und verwaltete Reiseprofile benötigen den Roaming-Schalter oft auch innerhalb des Landes.
 
 
 
-Eine einfache Regel deckt alles ab: Behalten Sie die eSIM als Datenleitung und Ihre Heimatnummer für Authentifizierungscodes aktiv, und prüfen Sie die Parkmethode, bevor Sie losfahren, denn der SMS-Weg ist derjenige, der stillschweigend eine lokale SIM erwartet.
+Eine einfache Regel deckt alles ab: Behalten Sie das Profil als Datenleitung und Ihre Heimatnummer für Authentifizierungscodes aktiv, und prüfen Sie die Parkmethode, bevor Sie losfahren, denn der SMS-Weg ist derjenige, der stillschweigend eine lokale SIM erwartet.
 
 
 
-## APN-Einträge für die UAE-Netze
+## APN-Einträge für die Netze in den VAE
 
 
 
@@ -542,7 +549,7 @@ Die Installation selbst folgt einer universellen Reihenfolge – Einstellungen �
 
 
 
-### Einrichtung einer UAE-eSIM in sechs Schritten
+### Einrichtung eines VAE-Profils in sechs Schritten
 
 
 
@@ -550,7 +557,7 @@ Die Installation selbst folgt einer universellen Reihenfolge – Einstellungen �
 
 2. Benennen Sie die Leitung, damit Sie sie von Ihrer Heim-SIM unterscheiden können
 
-3. Legen Sie die UAE-eSIM als die für mobile Daten genutzte Leitung fest
+3. Legen Sie das VAE-Profil als die für mobile Daten genutzte Leitung fest
 
 4. Aktivieren Sie Datenroaming für diese Leitung
 
@@ -560,27 +567,27 @@ Die Installation selbst folgt einer universellen Reihenfolge – Einstellungen �
 
 
 
-### Vier Fehlermuster speziell für eine UAE-eSIM
+### Vier Fehlermuster speziell für ein VAE-Profil
 
 
 
-**A. Die kostenlose 24-Stunden-eSIM ist abgelaufen und „nichts funktioniert".** Sie hat genau so gearbeitet, wie vorgesehen: Die kostenlose Touristen-eSIM bietet 10 GB für einen Tag. Ein kostenpflichtiges Paket hängt sich nicht automatisch daran – kaufen Sie eines über die du- oder e&-App, an einem Schalter oder online, und dieselbe Leitung wird fortgesetzt.
+**A. Das kostenlose 24-Stunden-Paket ist abgelaufen und „nichts funktioniert".** Es hat genau so gearbeitet, wie vorgesehen: Das kostenlose Touristenpaket bietet 10 GB für einen Tag. Ein kostenpflichtiges Paket hängt sich nicht automatisch daran – kaufen Sie eines über die du- oder e&-App, an einem Schalter oder online, und dieselbe Leitung wird fortgesetzt.
 
 
 
-**B. Installiert, aber die Leitung wird nie aktiv.** Die häufigste UAE-spezifische Ursache ist eine unvollständige Identitätsverifizierung: Die TDRA-Registrierung erfordert eine Übereinstimmung mit dem Reisepass (und dem Einreisestempel), manchmal mit einem Selfie, bevor die Leitung aktiv wird. Öffnen Sie den Aktivierungsablauf oder die Netzbetreiber-App erneut und schließen Sie den KYC-Schritt ab; in einem Geschäft erledigt das Personal dies für Sie.
+**B. Installiert, aber die Leitung wird nie aktiv.** Die häufigste VAE-spezifische Ursache ist eine unvollständige Identitätsverifizierung: Die TDRA-Registrierung erfordert eine Übereinstimmung mit dem Reisepass (und dem Einreisestempel), manchmal mit einem Selfie, bevor die Leitung aktiv wird. Öffnen Sie den Aktivierungsablauf oder die Netzbetreiber-App erneut und schließen Sie den KYC-Schritt ab; in einem Geschäft erledigt das Personal dies für Sie.
 
 
 
-**C. „Zwei SIMs pro Reisepass"-Ablehnung.** Wenn Ihr Reisepass bereits zwei aktive UAE-Leitungen trägt – häufig bei Wiederholungsbesuchern –, wird eine dritte abgelehnt. Deaktivieren Sie eine alte Leitung in einem Geschäft des Netzbetreibers, bevor Sie eine neue kaufen.
+**C. „Zwei SIMs pro Reisepass"-Ablehnung.** Wenn Ihr Reisepass bereits zwei aktive VAE-Leitungen trägt – häufig bei Wiederholungsbesuchern –, wird eine dritte abgelehnt. Deaktivieren Sie eine alte Leitung in einem Geschäft des Netzbetreibers, bevor Sie eine neue kaufen.
 
 
 
-**D. Fünf Balken in Dubai, kein Service an der Grenze.** Ein UAE-Touristenpaket gilt nur für die UAE; an der saudischen oder omanischen Grenze fällt es auf Roaming zurück, wenn es überhaupt funktioniert. Akzeptieren Sie entweder Roaming nach Verbrauch von der Touristenleitung oder führen Sie eine separate regionale eSIM für die Überquerung mit sich.
+**D. Fünf Balken in Dubai, kein Service an der Grenze.** Ein VAE-Touristenpaket gilt nur für die VAE; an der saudischen oder omanischen Grenze fällt es auf Roaming zurück, wenn es überhaupt funktioniert. Akzeptieren Sie entweder Roaming nach Verbrauch von der Touristenleitung oder führen Sie eine separate regionale eSIM für die Überquerung mit sich.
 
 
 
-### Kurze Einschätzungen zu eSIMs der Vereinigten Arabischen Emirate
+### Was der Support in den VAE von Ihnen braucht
 
 
 
@@ -602,7 +609,7 @@ Beide Netzbetreiber verfolgen eine Touristenleitung über die TDRA-Identitätspr
 
 | Status der Leitung | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
 
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Bereits unternommene Schritte | Kurz und in Stichpunkten, inklusive jeder manuellen Netzwahl |
 
 
 
@@ -618,15 +625,15 @@ Hängen Sie noch an etwas, das auf dieser Seite nicht behandelt wurde? Die [FAQ-
 
 
 
-Yes – beide Netzbetreiber bündeln in ihren kostenpflichtigen Touristentarifen Flexi-Minuten für lokale und internationale Gespräche: 30 Minuten in den Einstiegstarifen, bis zu 525 im Visitor Line Premium+ von e&. Reise-eSIMs nur mit Datenvolumen von Drittanbieter-Plattformen enthalten in der Regel keine VAE-Rufnummer. Wenn Sie also lokale Anrufe oder OTPs empfangen möchten, kaufen Sie das Produkt des Netzbetreibers.
+Ja – beide Netzbetreiber bündeln in ihren kostenpflichtigen Touristentarifen Flexi-Minuten für lokale und internationale Gespräche: 30 Minuten in den Einstiegstarifen, bis zu 525 im Visitor Line Premium+ von e&. Reise-eSIMs nur mit Datenvolumen von Drittanbieter-Plattformen enthalten in der Regel keine VAE-Rufnummer. Wenn Sie also lokale Anrufe oder OTPs empfangen möchten, kaufen Sie das Produkt des Netzbetreibers.
 
 
 
-### Ihre WhatsApp-Nummer auf einer eSIM der Vereinigten Arabischen Emirate behalten
+### Behalte ich meine WhatsApp-Nummer auf einem VAE-Profil?
 
 
 
-WhatsApp-Sprach- und Videoanrufe sind in den UAE-Netzen eingeschränkt, ebenso wie FaceTime- und Skype-Anrufe – eine regulatorische Beschränkung, kein Netzfehler. Messaging, Surfen und soziale Medien funktionieren normal. Die lizenzierten Internet-Call-Apps, die von den Netzbetreibern unterstützt werden, wie GoChat Messenger und BOTIM, sind der vorgesehene Ersatz für Anrufe.
+WhatsApp-Sprach- und Videoanrufe sind in den VAE-Netzen eingeschränkt, ebenso wie FaceTime- und Skype-Anrufe – eine regulatorische Beschränkung, kein Netzfehler. Messaging, Surfen und soziale Medien funktionieren normal. Die lizenzierten Internet-Call-Apps, die von den Netzbetreibern unterstützt werden, wie GoChat Messenger und BOTIM, sind der vorgesehene Ersatz für Anrufe.
 
 
 
@@ -634,7 +641,7 @@ WhatsApp-Sprach- und Videoanrufe sind in den UAE-Netzen eingeschränkt, ebenso w
 
 
 
-Yes. Sowohl du als auch e& geben Besuchern eine kostenlose 10-GB-eSIM, die 24 Stunden lang gültig ist und nach der Einreise durch Scannen eines QR-Codes in der Ankunftshalle selbst aktiviert wird. Sie ist dafür ausgelegt, Sie zu Ihrem Hotel zu bringen; danach übernimmt ein kostenpflichtiges Paket, und die kostenlose eSIM muss innerhalb von 30 Tagen nach Ausstellung aktiviert werden.
+Ja. Sowohl du als auch e& geben Besuchern eine kostenlose 10-GB-eSIM, die 24 Stunden lang gültig ist und nach der Einreise durch Scannen eines QR-Codes in der Ankunftshalle selbst aktiviert wird. Sie ist dafür ausgelegt, Sie zu Ihrem Hotel zu bringen; danach übernimmt ein kostenpflichtiges Paket, und die kostenlose eSIM muss innerhalb von 30 Tagen nach Ausstellung aktiviert werden.
 
 
 
@@ -642,7 +649,7 @@ Yes. Sowohl du als auch e& geben Besuchern eine kostenlose 10-GB-eSIM, die 24 St
 
 
 
-Yes – die TDRA verlangt, dass jede SIM, ob physisch oder eingebettet, mit einem Reisepass oder einer Emirates ID registriert wird. Touristenprodukte sind auf Besucher ab 18 Jahren beschränkt, und jeder Reisepass darf maximal zwei aktive SIMs pro Anbieter haben. Online-Käufe erfassen dieselben Angaben an der Kasse.
+Ja – die TDRA verlangt, dass jede SIM, ob physisch oder eingebettet, mit einem Reisepass oder einer Emirates ID registriert wird. Touristenprodukte sind auf Besucher ab 18 Jahren beschränkt, und jeder Reisepass darf maximal zwei aktive SIMs pro Anbieter haben. Online-Käufe erfassen dieselben Angaben an der Kasse.
 
 
 
@@ -678,11 +685,11 @@ In der Stadt Abu Dhabi ja, umfassend. Auf den langen westlichen Routen – Liwa 
 
 
 
-### Installationsanleitung für eSIMs der Vereinigten Arabischen Emirate
+### Kann ich das VAE-Profil schon vor dem Abflug installieren?
 
 
 
-Yes – das ist das Hauptargument für den Online-Kauf. Installieren Sie das Profil über Ihr heimisches WLAN, und es registriert sich bei der Landung. Einziger Vorbehalt: Touristenprodukte der Netzbetreiber, die eine persönliche Reisepasskontrolle erfordern, werden online anders registriert; lesen Sie also den Bestellvorgang aufmerksam. Reine Daten-Reise-eSIMs installieren sich ganz ohne Registrierung.
+Ja – das ist das Hauptargument für den Online-Kauf. Installieren Sie das Profil über Ihr heimisches WLAN, und es registriert sich bei der Landung. Einziger Vorbehalt: Touristenprodukte der Netzbetreiber, die eine persönliche Reisepasskontrolle erfordern, werden online anders registriert; lesen Sie also den Bestellvorgang aufmerksam. Reine Daten-Reise-eSIMs installieren sich ganz ohne Registrierung.
 
 
 
@@ -694,7 +701,7 @@ Nehmen Sie die kostenlose Ankunfts-eSIM des Netzbetreibers mit der kürzeren War
 
 
 
-### Steht Ihr Gerät auf der eSIM-Liste der Vereinigten Arabischen Emirate?
+### Brauche ich für Fahrten und Lieferungen eine echte VAE-Nummer?
 
 
 
@@ -706,11 +713,11 @@ Ein Touristenpaket eines Netzbetreibers tut es, und genau das ist der Grund, sic
 
 
 
-Yes, und genau so wird es meistens eingerichtet: Ihre heimische Leitung bleibt für Bank-Codes aktiv, während die VAE-eSIM die Daten überträgt. Zwei Hinweise: Schalten Sie Datenroaming auf der heimischen SIM aus, damit Hintergrundverkehr nicht zu Heimtarifen abgerechnet wird, und denken Sie daran, dass eine reine Daten-eSIM keine SMS empfangen kann – Einmal-Codes landen also weiterhin auf Ihrer eigenen Nummer.
+Ja, und genau so wird es meistens eingerichtet: Ihre heimische Leitung bleibt für Bank-Codes aktiv, während die VAE-eSIM die Daten überträgt. Zwei Hinweise: Schalten Sie Datenroaming auf der heimischen SIM aus, damit Hintergrundverkehr nicht zu Heimtarifen abgerechnet wird, und denken Sie daran, dass eine reine Daten-eSIM keine SMS empfangen kann – Einmal-Codes landen also weiterhin auf Ihrer eigenen Nummer.
 
 
 
-## Wer hat die Zahlen in diesem VAE-eSIM-Guide gemessen?
+## Wer hat die Zahlen in diesem VAE-Ratgeber gemessen?
 
 
 
@@ -726,7 +733,7 @@ Yes, und genau so wird es meistens eingerichtet: Ihre heimische Leitung bleibt f
 
 
 
-Tarifangebote und Promotion-Inhalte ändern sich; die hier beschriebenen Strukturen – zwei lizenzierte Netze, Reisepassregistrierung, kostenlose Ankunfts-eSIM – sind stabil, die exakten Gigabyte pro Dirham nicht. Prüfen Sie die Betreiberseiten kurz vor Ihrem Reisedatum erneut.
+Tarifangebote und Aktionsinhalte ändern sich; die hier beschriebenen Strukturen – zwei lizenzierte Netze, Reisepassregistrierung, kostenloses Ankunftspaket – sind stabil, die exakten Gigabyte pro Dirham nicht. Prüfen Sie die Betreiberseiten kurz vor Ihrem Reisedatum erneut.
 
 
 

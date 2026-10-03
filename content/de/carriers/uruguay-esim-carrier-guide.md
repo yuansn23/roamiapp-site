@@ -34,7 +34,7 @@ hero_subtitle_main: "Was unabhängige Geschwindigkeitsdaten offenbaren — und w
 
 
 
-Eine Uruguay-eSIM bringt eine entscheidende Ausnahme mit sich, die Sie kennen sollten, bevor Sie buchen: In Cabo Polonio gibt es von keinem Netzbetreiber Empfang — dieser Guide behandelt das sowie die Reisepass-Regel in offiziellen Verkaufsstellen. Uruguay ist Südamerikas stiller 5G-Überflieger: Der staatliche Netzbetreiber Antel gehörte zu den regionalen Frühstartern, versorgt Montevideo und die Resortküste flächendeckend und hält das Landesinnere auf eine Weise, die kein Konkurrent erreicht. Doch das Land weist auch eine der deutlichsten Netzabdeckungsausnahmen der Region auf — **Cabo Polonio, ein Dorf ohne Stromnetz und ohne Empfang von irgendeinem Netzbetreiber** — sowie eine Registrierungspflicht, die Ihre Ankunft prägt: Jede SIM, auch für Ausländer, muss in einer offiziellen Verkaufsstelle an einen Reisepass gebunden werden. Dieser Guide behandelt die Entscheidung Antel vs Movistar vs Claro, den Stau-Effekt in Punta del Este im Januar und den Kiosk am Flughafen Carrasco, der für späte Flüge zu früh schließt. Die Abschnitte zu Netzabdeckung und Registrierung unten sind ehrlich über die Uruguay-Ausfälle, die unser Support-Team wöchentlich bearbeitet.
+Eine Uruguay eSIM löst das Einreiseproblem, das jede physische SIM mit sich bringt: Sie landen in Montevideo, in Punta del Este oder mit der Buquebus in Colonia und sind online, ohne am Schalter anzustehen. Uruguay ist Südamerikas stiller 5G-Überflieger — der staatliche Netzbetreiber Antel gehörte zu den regionalen Frühstartern, versorgt die Hauptstadt, die Resortküste um Punta del Este und die Ruta 1 nach Colonia flächendeckend und hält das Landesinnere auf eine Weise, die kein Konkurrent erreicht, während Cable.co.uk die mobilen Daten mit rund 0,28 USD pro Gigabyte zu den zwanzig günstigsten der Welt zählt. Zwei Dinge prägen Ihre Ankunft dennoch: Jede SIM, auch für Ausländer, muss in einer offiziellen Verkaufsstelle an einen Reisepass gebunden werden, und der Antel-Kiosk am Flughafen Carrasco schließt für späte Landungen zu früh. Als belegte Randnotiz für Küstenfahrer: Das Dorf Cabo Polonio an der Rocha-Küste hat von keinem Netzbetreiber Empfang — planen Sie diesen Abstecher offline. Der Rest des Guides behandelt die Entscheidung Antel vs Movistar vs Claro, den Stau-Effekt in Punta del Este im Januar und die Registrierungspflicht, die unser Support-Team wöchentlich bearbeitet.
 
 
 
@@ -54,7 +54,7 @@ Wenn der eSIM-Status Ihres Telefons nicht verifiziert ist, ist der [Gerätekompa
 
 
 
-| Ihre Reise | Bester Netzbetreiber | Warum |
+| Ihre Uruguay-Reise | Empfohlenes Netz | Begründung |
 
 |:---|:---|:---|
 
@@ -74,7 +74,7 @@ Wenn der eSIM-Status Ihres Telefons nicht verifiziert ist, ist der [Gerätekompa
 
 
 
-💡 Eine Multi-Netzwerk-[Uruguay eSIM](/uruguay-esim/) wechselt automatisch zwischen Antel, Movistar und Claro – die Lösung für die Westküstenstraßen, auf denen die drei Netzabdeckungen sich abwechseln.
+💡 Eine Multi-Netzwerk-[Uruguay eSIM](/uruguay-esim/) wechselt automatisch zwischen Antel, Movistar und Claro – die Lösung für die Ruta 1 nach Colonia und die Ruta 5 nach Rivera, auf denen sich die drei Netzkarten abwechseln.
 
 
 
@@ -86,7 +86,7 @@ Wenn der eSIM-Status Ihres Telefons nicht verifiziert ist, ist der [Gerätekompa
 
 
 
-Three-Netzbetreiber, einer davon staatlich, und eine ländliche Karte, die sie deutlich stärker voneinander trennt als es der Preis tut.
+Drei Netzbetreiber, einer davon staatlich, und eine ländliche Karte, die sie deutlicher voneinander trennt als es der Preis tut.
 
 
 
@@ -144,7 +144,7 @@ Claro (América Móvil) ist das kleinste Netz und preislich entsprechend – ord
 
 
 
-**Yes für physische SIM-Karten, mit Papierkram; weniger klar für Netzbetreiber-eSIMs.** Uruguays Netzbetreiber verkaufen Ausländern legal und günstig Prepaid-Anschlüsse, aber jeder Kauf erfordert die persönliche Reisepassregistrierung in einer offiziellen Verkaufsstelle. Das ist ein fixer Zeitaufwand statt Geld – der Vorgang dauert etwa zehn Minuten, und der Angestellte fotografiert Ihr Dokument.
+**Ja für physische SIM-Karten, mit Papierkram; weniger klar für Netzbetreiber-eSIMs.** Uruguays Netzbetreiber verkaufen Ausländern legal und günstig Prepaid-Anschlüsse, aber jeder Kauf erfordert die persönliche Reisepassregistrierung in einer offiziellen Verkaufsstelle. Das ist ein fixer Zeitaufwand statt Geld – der Vorgang dauert etwa zehn Minuten, und der Angestellte fotografiert Ihr Dokument.
 
 
 
@@ -160,7 +160,7 @@ Claro (América Móvil) ist das kleinste Netz und preislich entsprechend – ord
 
 | Bei der Aktivierung | Öffnungszeiten, persönlich | Vor dem Abflug, in Ihrem eigenen WLAN |
 
-| Uruguayanische Nummer | Yes | Nein — nur Datentarif |
+| Uruguayanische Nummer | Ja | Nein — nur Datentarif |
 
 | Lokaler Preis | Etwa 0,28 USD pro GB – einer der günstigsten weltweit | Fester Vorabpreis |
 
@@ -174,7 +174,7 @@ Der Preisunterschied ist real, aber in absoluten Zahlen gering, denn uruguayisch
 
 
 
-## Netzabdeckungslücken in Uruguay: die Ausnahme Cabo Polonio und andere
+## Wo Uruguays Netz abreißt: Rocha-Küste, Landesinneres und die Grenze
 
 
 
@@ -204,11 +204,11 @@ Die meisten Artikel zur Netzabdeckung in Uruguay lesen sich, als hätte das ganz
 
 
 
-### Warum Cabo Polonio überhaupt keinen Empfang hat
+### Randnotiz: warum Cabo Polonio komplett ohne Empfang ist
 
 
 
-Cabo Polonio ist keine gewöhnliche Versorgungslücke – es ist ein Dorf **ohne Stromnetz**, das nur mit einem Geländewagen oder zu Fuß über die Dünen erreichbar ist, und das nächste bestätigte Signal befindet sich etwa 7 km entfernt an der Abzweigung nach Valizas. Three praktische Konsequenzen:
+Cabo Polonio ist keine gewöhnliche Versorgungslücke – es ist ein Dorf **ohne Stromnetz**, das nur mit einem Geländewagen oder zu Fuß über die Dünen erreichbar ist, und das nächste bestätigte Signal befindet sich etwa 7 km entfernt an der Abzweigung nach Valizas. Drei praktische Konsequenzen:
 
 
 
@@ -236,7 +236,7 @@ Marktkontext: [DataReportals Digital 2025: Uruguay](https://datareportal.com/rep
 
 
 
-Sie verlängern die Reise? Die gleichen Übersichten gibt es auch in unserem [Argentinien-eSIM-Guide](/carriers/argentina-esim-carrier-guide/), der [Brasilien-eSIM-Seite](/brazil-esim/) und den [Chile-eSIM-Tarifen](/chile-esim/) – und beachten Sie, dass die Buquebus-Fähre über den Río de la Plata mitten auf der Überfahrt vom argentinischen ins uruguayische Netz wechselt. Stellen Sie daher Roaming ein, bevor Sie an Bord gehen.
+Sie verlängern die Reise? Die gleichen Übersichten gibt es auch für die Nachbarn am Río de la Plata: den [Argentinien-eSIM-Tarif](/argentina-esim/), die [Brasilien-eSIM-Seite](/brazil-esim/) und die [Chile-eSIM-Tarife](/chile-esim/) – und beachten Sie, dass die Buquebus-Fähre mitten auf der Überfahrt vom argentinischen ins uruguayische Netz wechselt. Stellen Sie daher Datenroaming ein, bevor Sie an Bord gehen.
 
 
 
@@ -244,7 +244,7 @@ Sie verlängern die Reise? Die gleichen Übersichten gibt es auch in unserem [Ar
 
 
 
-| Route | Was es braucht | Am besten geeignet für |
+| Weg zur uruguayischen Leitung | Was es braucht | Für wen geeignet |
 
 |:---|:---|:---|
 
@@ -284,9 +284,9 @@ Die Route, die den Carrasco-Schalter und seine Schließzeiten umgeht.
 
 2. Bringen Sie Ihren Reisepass mit; die Registrierung ist gesetzlich vorgeschrieben.
 
-3. Wählen Sie ein paket für Besucher – das Personal spricht etwas Englisch.
+3. Wählen Sie ein Touristenpaket – das Personal an diesem Schalter spricht etwas Englisch.
 
-4. Testen Sie die Datenverbindung, bevor Sie den Schalter verlassen.
+4. Prüfen Sie die Datenverbindung noch am Antel-Schalter, bevor Sie in den Taxistand gehen.
 
 5. Beachten Sie, dass der Schalter **nicht rund um die Uhr geöffnet ist**, was der wichtigste Haken ist.
 
@@ -310,7 +310,7 @@ Die Route, die den Carrasco-Schalter und seine Schließzeiten umgeht.
 
 
 
-**Bevor Sie etwas kaufen:** Vergewissern Sie sich, dass das Telefon entsperrt und eSIM-fähig ist ([Kompatibilitätsliste](/compatibility/)), notieren Sie Ihre EID (`*#06#`) und installieren Sie vorab gekaufte Profile vor der Abreise.
+**Bevor Sie etwas kaufen:** Vergewissern Sie sich, dass das Telefon entsperrt und eSIM-fähig ist, notieren Sie Ihre EID (`*#06#`) und installieren Sie vorab gekaufte Profile vor der Abreise.
 
 
 
@@ -326,7 +326,7 @@ Uruguayische Netze nutzen die standardmäßigen amerikanischen Bänder, die von 
 
 
 
-| Gerätesituation | Symptom | Was zu tun ist |
+| Gerätesituation in Uruguay | Symptom | Lösung im Antel-/Claro-Netz |
 
 |:---|:---|:---|
 
@@ -354,7 +354,7 @@ Führen Sie ihn durch, bevor Sie zu Hause aufbrechen – am Flughafen Carrasco g
 
 - Beim iPhone finden Sie **Carriersperre** unter Einstellungen → Allgemein → Info; „Keine SIM-Beschränkungen“ ist das Ziel.
 
-- Android: Einstellungen -> Verbindungen -> SIM-Manager ist der richtige Ort.
+- Android: Einstellungen → Verbindungen → SIM-Manager ist der richtige Ort.
 
 
 
@@ -366,15 +366,15 @@ Reise-eSIM-Profile bringen ihren eigenen APN mit – geben Sie nichts ein. Bei l
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber (Uruguay) | Zugangspunkt (APN) | Benutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
-| Antel | `apn.antel.com.uy` (gemäß Antel Anweisungen) | Leerzeichen | Leerzeichen |
+| Antel | `apn.antel.com.uy` (laut Antel-Vorgabe) | leer lassen | leer lassen |
 
-| **0** | 0 (gemäß Movistar Anweisungen) | Leerzeichen | Leer |
+| Movistar | `0` (Movistar-Vorgabe in Uruguay) | leer lassen | leer lassen |
 
-| Claro | `internet.claro.com.uy` (gemäß Claro Anweisungen) | Leerzeichen | Leerzeichen |
+| Claro | `internet.claro.com.uy` (laut Claro-Vorgabe) | leer lassen | leer lassen |
 
 
 
@@ -388,7 +388,7 @@ Bei einer verwalteten Reise-eSIM fast nie nötig; dies sind die Fälle mit lokal
 
 - Sie haben eine Netzbetreiber-Leitung gekauft statt einer verwalteten Reise-eSIM
 
-- Ein Profil wurde über einen manuellen Aktivierungscode installiert statt per QR-Scan
+- Das Uruguay-Profil kam per manuellem Aktivierungscode aufs Gerät statt über den Antel-QR-Code
 
 - Ein älteres Gerät, das die Netzbetreibereinstellungen nicht automatisch geladen hat
 
@@ -400,7 +400,7 @@ Bei einer verwalteten Reise-eSIM fast nie nötig; dies sind die Fälle mit lokal
 
 
 
-Einstellungen → Mobiles Netz → [die uruguayische Leitung → Mobilfunkdaten-Netzwerk beim iPhone, bzw. Einstellungen → Netzwerk & Internet → Zugangspunkte (APNs) bei Android. Speichern, neu starten, prüfen, dass die Leitung Antel oder Claro die Datenverbindung übernimmt – offizielle Stellen konfigurieren dies oft schon beim Kauf.
+Beim iPhone: Einstellungen → Mobilfunk → die uruguayische Leitung → Mobilfunkdaten-Netzwerk. Bei Android: Einstellungen → Netzwerk & Internet → Zugangspunkte (APNs). Speichern, neu starten und prüfen Sie, dass die Leitung Antel oder Claro die Datenverbindung übernimmt – offizielle Stellen richten das beim Kauf oft schon ein.
 
 
 
@@ -412,7 +412,7 @@ Vier Schritte, alle vor der Abreise über WLAN: QR scannen, Leitung beschriften,
 
 
 
-### Uruguay-eSM-Check vor dem Flug: sechs Dinge, die Sie im heimischen WLAN einrichten
+### Uruguay-eSIM-Check vor dem Flug: sieben Dinge, die Sie im heimischen WLAN einrichten
 
 
 
@@ -426,17 +426,17 @@ Gehen Sie diese vorab durch, besonders wenn Sie landen, nachdem der Schalter am 
 
 | 1 | Telefon ist nicht an einen Netzbetreiber gebunden | Auf der Info-Seite wird unter „Carrier Lock“ der Hinweis „Keine SIM-Einschränkungen“ angezeigt |
 
-| 2 | Das Telefon unterstützt eSIM | EID wird angezeigt von `*#06#` |
+| 2 | Das Telefon verwaltet eSIM-Profile | Nach `*#06#` erscheint eine EID – ohne sie trägt Antel die Leitung nicht ein |
 
-| 3 | QR-Code gespeichert | Screenshot auf dem Handy und in der Cloud |
+| 3 | QR-Code doppelt gesichert | Bildschirmfoto in der Galerie und Kopie im Cloud-Speicher |
 
 | 4 | Profil vor der Abreise installiert | Bereit für eine Ankunft um Mitternacht oder eine Fährüberfahrt |
 
-| 5 | Datenleitung und Roaming eingestellt | eSIM ist die Datenleitung, Roaming eingeschaltet |
+| 5 | Datenleitung und Roaming gesetzt | Das Uruguay-Profil führt die mobilen Daten, Datenroaming ist an |
 
-| 6 | Cabo Polonio und Fährüberfahrten | Offline-Karte gespeichert und Roaming vor der Buquebus-Überfahrt aktiviert |
+| 6 | Fährüberfahrt mit der Buquebus | Roaming vor dem Einsteigen an, damit das Profil in uruguayischen Gewässern lädt |
 
-| 6 | Offline-Karten für die Strecke nach Polonio | In Montevideo gespeichert, vor der Küstenstraße |
+| 7 | Offline-Karte für die Ruta 1 und die Rocha-Küste | In Montevideo gespeichert, nicht erst in Rocha |
 
 
 
@@ -458,45 +458,45 @@ Gehen Sie diese vorab durch, besonders wenn Sie landen, nachdem der Schalter am 
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das Antel- oder Claro-Profil lässt sich nicht installieren**
 
-1. Der Netzbetreiber-Lock (Einstellungen -> Allgemein -> Info) muss „Keine SIM-Beschränkungen" anzeigen, bevor alles andere relevant wird
+1. Der Netzbetreiber-Lock (iPhone: Einstellungen → Allgemein → Info) muss „Keine SIM-Beschränkungen" zeigen, sonst lehnt das Gerät jedes Fremdprofil ab
 
-2. Stellen Sie sicher, dass der QR-Code noch nicht eingelöst wurde; die meisten funktionieren genau einmal
+2. Prüfen Sie, ob der QR-Code bereits eingelöst wurde – die Codes von Antel und Claro funktionieren genau einmal
 
-3. Bitten Sie den Support, das Profil erneut zu senden, falls es hängt
-
-
-
-**B. Installiert, aber keine Signalbalken**
-
-1. Schalten Sie die Leitung aus, warten Sie kurz, dann wieder ein
-
-2. Einstellungen → Mobilfunk → Netzwerkauswahl → Antel manuell wählen
-
-3. Starten Sie neu und eskalieren Sie erst zu einem Netzwerk-Reset, wenn der Fehler bestehen bleibt
+3. Hängt die Installation, lassen Sie sich das Profil vom Support erneut senden und scannen Sie es in einem stabilen heimischen WLAN
 
 
 
-**C. Signalbalken, aber kein Internet**
+**B. Profil installiert, aber keine Signalbalken in Montevideo oder Punta del Este**
 
-1. Geben Sie den APN anhand der Tabelle manuell neu ein, ohne Abkürzungen
+1. Leitung kurz aus- und wieder einschalten
 
-2. Weisen Sie die eSIM als mobile Datenverbindung zu
+2. Einstellungen → Mobilfunk → Netzwerkauswahl → Antel manuell wählen statt der Automatik
 
-3. Roaming muss auf Leitungsebene aktiviert sein, nicht nur am Gerät
-
-4. Auf der Nutzungsseite ist erkennbar, ob das Datenvolumen aufgebraucht ist
+3. Erst neu starten, dann die Netzwerkeinstellungen zurücksetzen, wenn Antel sich weiterhin nicht einbucht
 
 
 
-**D. Die ganze Woche funktioniert, am Strand oder an der Grenze kein Empfang**
+**C. Signalbalken vorhanden, aber kein Internet über die Uruguay-Leitung**
 
-1. In Cabo Polonio gibt es keinerlei Signal – prüfen Sie zuerst die Regionstabelle
+1. Tragen Sie den APN aus der Tabelle von Hand nach – `apn.antel.com.uy` bei Antel, `internet.claro.com.uy` bei Claro
 
-2. An der brasilianischen Grenze die manuelle Netzwahl erzwingen
+2. Weisen Sie das Uruguay-Profil als mobile Datenverbindung zu
 
-3. Im Januar ist in Punta del Este Überlastung und nicht Netzabdeckung die Ursache
+3. Datenroaming muss auf Leitungsebene aktiv sein, nicht nur am Gerät
+
+4. Auf der Nutzungsseite der eSIM-App sehen Sie, ob das Datenvolumen bereits verbraucht ist
+
+
+
+**D. Die ersten Tage laufen, dann am Strand oder an der brasilianischen Grenze kein Empfang**
+
+1. An der Rocha-Küste und in Cabo Polonio gibt es kein Signal – prüfen Sie zuerst die Regionstabelle oben
+
+2. Rund um Rivera und Chuy die manuelle Netzwahl erzwingen, damit sich das Gerät nicht in ein brasilianisches Netz einbucht
+
+3. Im Januar drosselt nicht die Netzabdeckung, sondern die Überlastung in Punta del Este die Datenrate
 
 
 
@@ -508,21 +508,21 @@ Halten Sie dies bereit, bevor Sie einen Chat öffnen – Versorgungslücken im L
 
 
 
-| Informationen | Wo Sie sie finden |
+| Angabe | Wo Sie sie finden |
 
 |:---|:---|
 
-| Bestellnummer | Bestätigungs-E-Mail |
+| Bestellnummer | Bestätigungs-E-Mail des Anbieters |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Handy-Modell und iOS-/Android-Version | Einstellungen → Allgemein → Info (iPhone) bzw. Einstellungen → Über das Telefon (Android) |
 
-| EID | Wählen `*#06#` |
+| EID | Nach Eingabe von `*#06#` |
 
-| Screenshot des Fehlers | Erstellen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Noch im Fehlerdialog aufnehmen – Antel verlangt ihn im Service-Chat zuerst |
 
-| In welcher Abteilung Sie sich befinden | Binnengebiete und Küstenlücken sind gut dokumentiert |
+| Ihr aktuelles Departamento | Küstenlücken und Binnengebiete sind unterschiedlich dokumentiert |
 
-| Daten-Roaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Ist Datenroaming auf der Uruguay-Leitung aktiv? | Einstellungen → Mobilfunk → Uruguay-Daten → Datenroaming |
 
 
 
@@ -570,15 +570,37 @@ Wenn Uruguay ein Zwischenstopp auf einer längeren Route und nicht das Ziel ist:
 
 
 
+### Was Sie am Antel-Schalter mitbringen – und was Uruguay im Monat wirklich kostet
+
+Zwei Dinge entscheiden, ob sich die lokale Leitung rechnet: der Papierkram an der Theke und die schlichte Datenmenge Ihrer Reise.
+
+| Was Sie für eine lokale SIM brauchen | Realität in Uruguay |
+
+|:---|:---|
+
+| Ausweis | Reisepass im Original – Kopien und Handyfotos werden nicht angenommen |
+
+| Zahlungsmittel | uruguayische Pesos in bar; die Abitab- und Redpagos-Kioske füllen Guthaben ohne Karte auf |
+
+| Adresse | Für eine reine Prepaid-Leitung genügt der Pass; eine Aufenthaltsadresse wird nicht verlangt |
+
+| Fotoregistrierung | Der Angestellte fotografiert den Pass und begrenzt die Zahl der Leitungen pro Dokument |
+
+| Zeitaufwand | rund zehn Minuten am Schalter, plus Wartezeit, wenn Carrasco gerade bedient wird |
+
+Die Kostenrechnung für einen typischen Küstenaufenthalt: Bei **0,28 USD pro Gigabyte** (Cable.co.uk) kostet ein Verbrauch von 2 GB pro Tag über 14 Tage – also rund 28 GB – etwa **7,80 USD** für lokale Daten. Eine Reise-eSIM liegt pro Gigabyte darüber, in absoluten Zahlen aber nur wenige Dollar über diesem Betrag, und sie erspart Ihnen Ausweis, Warteschlange und Aufladegang. Wer länger als zwei Wochen bleibt oder vor Ort arbeitet, für den kippt die Rechnung zur lokalen Antel-Leitung mit ihrer uruguayischen Rufnummer.
+
+
+
 ## Direkte Antworten: eSIMs der gängigen uruguayischen Netzbetreiber
 
 
 
-### Tarife und Preise: Uruguay eSIMs
+### Können Ausländer eine Uruguay-eSIM oder lokale SIM kaufen?
 
 
 
-Yes — physische SIMs sind für Ausländer legal und günstig, mit einer Auflage: Passregistrierung in einer offiziellen Verkaufsstelle sowie einer Begrenzung, wie viele Leitungen pro Pass registriert werden dürfen. Online gekaufte Reise-eSIMs umgehen den Schalter komplett.
+Ja — physische SIMs sind für Ausländer legal und günstig, mit einer Auflage: Passregistrierung in einer offiziellen Verkaufsstelle sowie einer Begrenzung, wie viele Leitungen pro Pass registriert werden dürfen. Online gekaufte Reise-eSIMs umgehen den Schalter komplett.
 
 
 
@@ -586,7 +608,7 @@ Yes — physische SIMs sind für Ausländer legal und günstig, mit einer Auflag
 
 
 
-Yes — jede SIM ist per Gesetz an ein Ausweisdokument gebunden, das an der Verkaufsstelle gescannt oder fotografiert wird. Der Schalter-Schritt entfällt bei online gekauften Reise-eSIMs; der Anbieter übernimmt die Registrierung.
+Ja — jede SIM ist per Gesetz an ein Ausweisdokument gebunden, das an der Verkaufsstelle gescannt oder fotografiert wird. Der Schalter-Schritt entfällt bei online gekauften Reise-eSIMs; der Anbieter übernimmt die Registrierung.
 
 
 
@@ -610,7 +632,7 @@ Nein — und ebenso wenig alles andere. Das Dorf hat von keinem Netzbetreiber Mo
 
 
 
-Yes — das 5G von Antel versorgt das Zentrum von Montevideo, Pocitos und die Hauptstraßen von Punta del Este, mit Movistar und Claro, die selektiv erweitern. Das ländliche Uruguay ist eine 4G-Erfahrung, und das ist durchaus gut.
+Das 5G von Antel versorgt das Zentrum von Montevideo, Pocitos und die Hauptstraßen von Punta del Este, während Movistar und Claro selektiv erweitern. Das ländliche Uruguay bleibt eine 4G-Erfahrung, und die ist durchaus gut.
 
 
 
@@ -634,7 +656,7 @@ Sobald Sie uruguayische Gewässer erreichen, ja — das Profil bucht sich mitten
 
 
 
-Yes — Hotspot und Tethering funktionieren bei den meisten Tarifen, sowohl lokal als auch mit Reise-eSIMs. Beachten Sie die Fair-Use-Bedingungen, wenn Sie im Januar den ganzen Tag einen Laptop an einer Resort-Verbindung betreiben wollen.
+Ja — Hotspot und Tethering funktionieren bei den meisten Tarifen, sowohl lokal als auch mit Reise-eSIMs. Beachten Sie die Fair-Use-Bedingungen, wenn Sie im Januar den ganzen Tag einen Laptop an einer Resort-Verbindung betreiben wollen.
 
 
 
@@ -650,7 +672,7 @@ Da der Markt klein, wohlhabend und staatlich geführt ist: Antel befindet sich i
 
 
 
-Yes, mit einem Haken — es ist der jährliche Stresstest des Landes. Die Bevölkerung der Halbinsel vervielfacht sich in der Sommersaison, und die für eine viel kleinere Stadt ausgelegten Funkzellen werden unter allen aufgeteilt. Erwarten Sie in Spitzenzeiten langsamere Geschwindigkeiten statt fehlenden Empfangs.
+Ja, mit einem Haken — es ist der jährliche Stresstest des Landes. Die Bevölkerung der Halbinsel vervielfacht sich in der Sommersaison, und die für eine viel kleinere Stadt ausgelegten Funkzellen werden unter allen aufgeteilt. Erwarten Sie in Spitzenzeiten langsamere Geschwindigkeiten statt fehlenden Empfangs.
 
 
 
@@ -666,7 +688,7 @@ Für Aufenthalte über zwei Wochen, und besonders wenn Sie ein lokales Konto er�
 
 
 
-Nicht mit einem reinen Uruguay-Tarif. Für eine Río-de-la-Plata- oder Süd-Kegel-Runde lohnt sich eher ein regionaler Tarif statt gestapelter Profile — unser [Argentinien-eSIM-Leitfaden](/carriers/argentina-esim-carrier-guide/) und die [Brasilien-eSIM-Seite](/brazil-esim/) behandeln die beiden häufigsten Folgestopps.
+Nicht mit einem reinen Uruguay-Tarif. Für eine Río-de-la-Plata- oder Süd-Kegel-Runde lohnt sich eher ein regionaler Tarif statt gestapelter Profile — ein Argentinien-eSIM-Guide und die [Brasilien-Netze](/brazil-esim/) behandeln die beiden häufigsten Folgestopps.
 
 
 
@@ -732,13 +754,13 @@ Durchgängig unabhängige Messungen. Uruguays Durchschnittswerte sind wirklich s
 
 
 
-Installieren Sie vor dem Flug, und das Profil bucht sich in dem Moment ein, in dem Sie in Montevideo landen — oder mitten auf dem Fluss, wenn Sie mit der Buquebus kommen — wobei Antel die Verbindung von der Hauptstadt bis zur Atlantikküste hält. Starten Sie mit einem [kostenlosen Test](/free-esim/) und wählen Sie dann einen Tarif auf der [Uruguay-eSIM-Seite](/uruguay-esim/). Anschließend über den Fluss? Unser [Argentinien-eSIM-Leitfaden](/carriers/argentina-esim-carrier-guide/) behandelt das nächste Netz.
+Installieren Sie vor dem Flug, und das Profil bucht sich in dem Moment ein, in dem Sie in Montevideo landen — oder mitten auf dem Fluss, wenn Sie mit der Buquebus kommen — wobei Antel die Verbindung von der Hauptstadt bis zur Atlantikküste hält. Starten Sie mit einem [kostenlosen Test](/free-esim/) und wählen Sie dann einen Tarif auf der [Uruguay-eSIM-Seite](/uruguay-esim/). Anschließend über den Fluss? Der [Argentinien-Guide für das nächste Netz](/argentina-esim/) behandelt den Folgestopp.
 
 
 
-[Uruguay-eSIM-Tarife vergleichen](/uruguay-esim/) · [Kostenlosen Test starten](/free-esim/) · [Uruguay-eSIM-Seite](/uruguay-esim/)
+[Uruguay-eSIM-Tarife im Überblick](/plans/) · [Was beim Aktivieren passiert](/faq/what-is-esim-activation-and-how-does-it-work/) · [Häufige Fragen](/faq/)
 
 
 
-One letzter Schritt vor dem Flug: Prüfen Sie Ihr Telefon auf der [eSIM-Kompatibilitätsseite](/compatibility/) und beginnen Sie dann mit einer Roami [kostenlosen Test-eSIM](/free-esim/), um zu sehen, wie Antel Ihre Route meistert. Der gleiche WEB20-Code bringt 20 % Rabatt auf jeden kostenpflichtigen Roami-Tarif für Uruguay, wenn Sie upgraden.
+Ein letzter Schritt vor dem Flug: Prüfen Sie Ihr Telefon auf eSIM-Eignung und beginnen Sie dann mit einer Roami [kostenlosen Test-eSIM](/free-esim/), um zu sehen, wie Antel Ihre Route meistert. Der gleiche WEB20-Code bringt 20 % Rabatt auf jeden kostenpflichtigen Roami-Tarif für Uruguay, wenn Sie upgraden.
 

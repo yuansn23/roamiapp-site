@@ -92,7 +92,7 @@ Der malaysische Mobilfunkmarkt wirkt wettbewerbsintensiv — Maxis, CelcomDigi, 
 
 
 
-## Die drei Netzbetreiber im Überblick
+## Maxis, CelcomDigi und U Mobile im Porträt
 
 
 
@@ -120,7 +120,7 @@ Der malaysische Mobilfunkmarkt wirkt wettbewerbsintensiv — Maxis, CelcomDigi, 
 
 
 
-## Der beste Netzbetreiber für Ihre Reise
+## Welches Netz zu welcher Reise passt
 
 
 
@@ -128,7 +128,7 @@ Die Halbinsel und Borneo ziehen in unterschiedliche Richtungen, also wählen Sie
 
 
 
-| Die Reise | Passender Netzbetreiber | Warum | Achtung |
+| Ihre Reiseroute | Empfohlenes Netz | Begründung | Stolperstein |
 
 |:---|:---|:---|:---|
 
@@ -184,7 +184,7 @@ Die unten aufgeführten Preise sind die von den Netzbetreibern veröffentlichten
 
 
 
-**Wie ein Besucher es kauft:**
+**So kaufen Besucher ein Hotlink-Touristenpaket:**
 
 1. Hotlink-Schalter befinden sich in den Ankunftshallen von KLIA1 und KLIA2 sowie in Maxis-Filialen in der gesamten Stadt.
 
@@ -226,7 +226,7 @@ Die unten aufgeführten Preise sind die von den Netzbetreibern veröffentlichten
 
 
 
-**So kauft es ein Besucher:**
+**So läuft der CelcomDigi-Kauf am Flughafenschalter ab:**
 
 1. CelcomDigi-Schalter befinden sich in KLIA1 Ebene 3 sowie im KLIA2-Concourse; außerdem bei bluecube, der Digi-Store und autorisierten Händlern.
 
@@ -238,7 +238,7 @@ Die unten aufgeführten Preise sind die von den Netzbetreibern veröffentlichten
 
 
 
-**Besonderheit:** Die Touristenkarte bündelt **3 GB ASEAN-Roaming in zehn Ländern** – wirklich nützlich, wenn Sie nach Singapur übersetzen oder nach Thailand einreisen, allerdings müssen Sie Datenroaming aktivieren, um es nutzen zu können.
+**Besonderheit:** Die Touristenkarte bündelt **3 GB ASEAN-Roaming in zehn Ländern** – wirklich nützlich, wenn Sie die Grenze nach Singapur überqueren oder nach Thailand einreisen, allerdings müssen Sie Datenroaming aktivieren, um es nutzen zu können.
 
 
 
@@ -266,7 +266,7 @@ Die unten aufgeführten Preise sind die von den Netzbetreibern veröffentlichten
 
 
 
-**Wie ein Besucher es kauft:**
+**So bekommen Besucher eine U-Mobile-Prepaid-Karte:**
 
 1. U Mobile wird bei KLIA-Wiederverkäufern und in U-Mobile-Filialen in den Großstädten verkauft.
 
@@ -336,7 +336,7 @@ Malaysias 14. Platz im Weltranking der Mobilfunkgeschwindigkeit (siehe unten) is
 
 
 
-Zwei Faustregeln: Laden Sie Offline-Karten vor jeder Etappe durch Borneo oder das Hochland herunter, und rechnen Sie nicht mit Empfang auf dem Kinabatangan River oder den Mount-Kinabalu-Trails. Und weil diese Region eher zum Durchreisen gedacht ist als für einen einzelnen Aufenthalt, werden die nächsten Länder entlang der Route auf [unserer Singapur-eSIM-Seite](/singapore-esim/), [im Thailand-eSIM-Guide](/carriers/thailand-esim-carrier-guide/) und in [den Indonesien-eSIM-Tarifen](/indonesia-esim/) behandelt — die in den CelcomDigi Tourist Pass enthaltenen 3 GB ASEAN-Roaming sind genau dafür gemacht.
+Zwei Faustregeln: Laden Sie Offline-Karten vor jeder Etappe durch Borneo oder das Hochland herunter, und rechnen Sie nicht mit Empfang auf dem Kinabatangan River oder den Mount-Kinabalu-Trails. Und weil diese Region eher zum Durchreisen gedacht ist als für einen einzelnen Aufenthalt, werden die nächsten Länder entlang der Route auf [unserer Singapur-eSIM-Seite](/singapore-esim/), [den Thailand-eSIM-Tarifen](/thailand-esim/) und in [den Indonesien-eSIM-Tarifen](/indonesia-esim/) behandelt — die in den CelcomDigi Tourist Pass enthaltenen 3 GB ASEAN-Roaming sind genau dafür gemacht.
 
 
 
@@ -382,7 +382,7 @@ Diese Angaben brauchen Sie nur für eine **Direkt-Netzbetreiber-Installation**, 
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber | Zugangspunkt (APN) | Benutzername | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -466,7 +466,7 @@ Leere QR-Bildschirme und hängende Installationen sind überall gleich; die allg
 
 
 
-Seit dem **26. Februar 2026** benötigt eine malaysische Prepaid-Karte einen Originalpass, gegebenenfalls ein Visadokument, eine malaysische Adresse sowie eine Live-Gesichtserfassung am Schalter. Kommen Sie mit einer Fotokopie, einer Buchung ohne Adressangabe oder einem im Hotelzimmer vergessenen Pass, kann der Händler die Karte schlichtig nicht aktivieren — auch kein Neustart hilft.
+Seit dem **26. Februar 2026** benötigt eine malaysische Prepaid-Karte einen Originalpass, gegebenenfalls ein Visadokument, eine malaysische Adresse sowie eine Live-Gesichtserfassung am Schalter. Kommen Sie mit einer Fotokopie, einer Buchung ohne Adressangabe oder einem im Hotelzimmer vergessenen Pass, kann der Händler die Karte schlicht nicht aktivieren — auch kein Neustart hilft.
 
 
 
@@ -522,7 +522,7 @@ Der Support fragt zuerst nach der Registrierungsakte, halten Sie also die Auswei
 
 | Ob Sie sich noch innerhalb Malaysias befinden | DNB 5G folgt Ihnen nicht nach Singapur |
 
-| Einen Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Direkt im Fehlerdialog aufnehmen, solange die Meldung sichtbar ist |
 
 
 
@@ -542,7 +542,7 @@ Für die meisten Besucher **CelcomDigi** — größte Netzabdeckung, beste Verso
 
 
 
-### Welche Dokumente braucht der SIM-Kauf in Malaysia?
+### Ist der SIM-Kauf in Malaysia an Dokumente gebunden?
 
 
 
@@ -654,7 +654,7 @@ Jede Zahl hier ist eine Drittanbieter-Angabe und nicht unser eigener Test, daher
 
 
 
-Eine Roami Malaysia eSIM funktioniert in den Netzen von Maxis, CelcomDigi und U Mobile und wechselt automatisch zum stärksten, wenn sich Ihre Route ändert — Maxis im Klangtal, CelcomDigi, sobald Sie Richtung Kota Kinabalu oder Kuching unterwegs sind — ohne Reisepass-Scan, ohne Gesichtserfassung und ohne RM 5 Schaltergebühr. Zu kündigen gibt es auch nichts: Eine Touristen-Prepaid-Leitung endet nach drei Monaten, während eine Reise-eSIM einfach ausläuft.
+Eine Roami Malaysia eSIM funktioniert in den Netzen von Maxis, CelcomDigi und U Mobile und wechselt automatisch zum stärksten, wenn sich Ihre Route ändert — Maxis im Klang Valley, CelcomDigi, sobald Sie Richtung Kota Kinabalu oder Kuching unterwegs sind — ohne Reisepass-Scan, ohne Gesichtserfassung und ohne RM 5 Schaltergebühr. Zu kündigen gibt es auch nichts: Eine Touristen-Prepaid-Leitung endet nach drei Monaten, während eine Reise-eSIM einfach ausläuft.
 
 
 

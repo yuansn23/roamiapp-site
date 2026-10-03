@@ -532,7 +532,7 @@ Behalten Sie das Guthaben in den Einstellungen Ihres Telefons im Auge, anstatt a
 
 
 
-## APN-Werte
+## APN-Einstellungen für argentinische Netze
 
 
 
@@ -642,6 +642,10 @@ Die vollständige Anleitung mit Menüpfaden pro Plattform für iPhone und Androi
 
 
 
+### Ankunft in Ezeiza: Konnektivität gleich nach der Landung
+
+Am Internationalen Flughafen Ezeiza steht in der Ankunftshalle nur ein einziger Netzbetreiber-Schalter – Personal. Wer Claro oder Movistar vor Ort kaufen will, braucht ein Taxi in die Stadt, und die Filialen in El Calafate oder Ushuaia haben kürzere Öffnungszeiten, als es nach einem Fünf-Stunden-Flug willkommen wäre. Wer mit bereits aktiver Reise-eSIM ankommt, umgeht diesen Apparat komplett und passiert die Einreisekontrolle mit laufender Datenleitung. Die kostenlose Test-eSIM lässt sich bereits zu Hause einrichten, falls Sie die Einrichtung vorab üben möchten.
+
 ### Bereiten Sie Ihr eSIM-Profil vor dem Abflug vor
 
 
@@ -726,7 +730,7 @@ Falls nichts hilft, halten Sie Ihre Bestellnummer, die EID (wählen Sie `*#06#`)
 
 
 
-## Häufige Fragen zu Tarifen und Netzen
+## Häufige Fragen zu Ihrer Argentinien eSIM und den Netzen
 
 
 
@@ -762,7 +766,7 @@ Ja. Datenroaming wird direkt auf der Reise-Leitung aktiviert, und bei einem Prep
 
 
 
-### Kann ich die eSIM parallel zur Heim-SIM nutzen?
+### Kann ich meine Argentinien-eSIM neben der Heim-SIM nutzen?
 
 
 
@@ -860,5 +864,5 @@ Installieren Sie zu Hause, landen Sie verbunden und verbringen Sie die Zeit im L
 
 
 
-Richten Sie es in jedem Fall vor der Abreise ein: Prüfen Sie Ihr Telefon mit dem [Kompatibilitätscheck](/compatibility/), testen Sie die [gratis Test-eSIM](/free-esim/) von Roami und geben Sie **WEB20** an der Kasse ein, falls Sie auf einen vollwertigen Roami-Tarif für Argentinien upgraden.
+Richten Sie es in jedem Fall vor der Abreise ein: Prüfen Sie Ihr Telefon mit dem Kompatibilitätscheck, testen Sie die [gratis Test-eSIM](/free-esim/) von Roami und geben Sie **WEB20** an der Kasse ein, falls Sie auf einen vollwertigen Roami-Tarif für Ihre Argentinien eSIM upgraden.
 

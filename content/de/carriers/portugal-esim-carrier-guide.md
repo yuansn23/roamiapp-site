@@ -18,11 +18,11 @@ hero_subtitle_main: "Netzabdeckung, Preise und das Kleingedruckte, das über Ihr
 
 Portugal verfügt mittlerweile über vier nationale Netze statt drei, und der günstigste ist nicht der langsamste — wichtig zu wissen, bevor Sie eine Portugal-eSIM kaufen. In Ooklas Portugal-Bericht für das 1. Halbjahr 2025 wurde NOS mit einem Speedtest Connectivity Score von 79,87 als Best Mobile Network ausgezeichnet, MEO erhielt die Auszeichnung für das beste 5G-Netz, Vodafone lag bei Konstanz und 5G-Verfügbarkeit mit 80,3 Prozent vorne, und der günstige Newcomer Digi erzielte mit 82,23 die beste Bewertung im Bereich Mobile Gaming. Der Gewinner hängt davon ab, welche Region Sie bereisen. Der Aktualisierungszyklus dieses Guides basiert auf Roamis eigenen Portugal-Aktivierungsdaten und Support-Tickets, mit Pressemitteilungen als sekundärer Quelle.
 
-**Schnelle Antwort:** MEO gewinnt das Argument um die Netzabdeckung in Portugal, NOS gewinnt bei günstigen Daten — die Tabellen unten klären die Details. Sie können Ihr Portugal-eSIM-Setup auch kostenlos über Roamis [Test-eSIM](/free-esim/) prüfen.
+**Schnelle Antwort:** MEO gewinnt das Argument um die Netzabdeckung in Portugal, NOS gewinnt bei günstigen Daten — die Tabellen unten klären die Details. Sie können Ihr Portugal-Setup auch kostenlos über Roamis [Test-eSIM](/free-esim/) prüfen.
 
 Zwei häufige Fragen: Unterstützt das Telefon eSIM, und wie funktioniert die Installation? Prüfen Sie Ihr Modell zuerst auf der [Kompatibilitätsseite](/compatibility/) und lesen Sie dann die [Anleitung zur eSIM-Installation](/faq/what-is-esim-activation-and-how-does-it-work/) — beides sind Voraussetzungen, die diese Seite bewusst überspringt.
 
-**Fazit:** Bleiben Sie in Lissabon, Porto oder an der Algarve? Alle drei etablierten Netze sind in den Städten stark, wobei NOS den Titel Best Mobile Network trägt. Fahren Sie durch das Hinterland des Alentejo, wandern Sie über die Levadas Madeiras oder machen Sie eine Inseltour der Azoren? MEO und Vodafone halten das Signal, wo NOS schwächer wird. Sie möchten eine eSIM, die alle vier Netze ohne Papierkram erreicht? Die [kostenlose Test-eSIM](/free-esim/) testet die Netze ohne Kosten, und **WEB20** gewährt 20 % Rabatt auf [Portugal-eSIM-Tarife](/portugal-esim/).
+**Fazit:** Bleiben Sie in Lissabon, Porto oder an der Algarve? Alle drei etablierten Netze sind in den Städten stark, wobei NOS den Titel Best Mobile Network trägt. Fahren Sie durch das Hinterland des Alentejo, wandern Sie über die Levadas Madeiras oder machen Sie eine Inseltour der Azoren? MEO und Vodafone halten das Signal, wo NOS schwächer wird. Sie möchten die Netze ohne Papierkram erreichen? Roamis kostenlose Testphase prüft sie ohne Kosten, und **WEB20** gewährt 20 % Rabatt auf [Portugal-eSIM-Tarife](/portugal-esim/).
 
 ## Portugals vier Netze im Überblick
 
@@ -66,7 +66,7 @@ Zwei Hinweise. Erstens verlangen mehrere Discountmarken an der Kasse eine portug
 
 Für einen normalen Urlaub spricht die Rechnung eher für Bequemlichkeit als für einen Wohnsitz-Tarif. Ein Netzbetreiber-Vertrag ist für Menschen gedacht, die eine portugiesische Rufnummer und eine monatliche Abrechnung wünschen. Eine Portugal-eSIM von einem Reiseanbieter kauft Daten zum Großhandelspreis ein und ermöglicht es dem Gerät, zwischen den Netzen zu wechseln. Wo der Netzbetreiber punktet, sind Telefonie und Langlebigkeit: eine echte lokale Rufnummer und ein Tarif, der auch im dritten Monat noch funktioniert.
 
-💡 Ein Multi-Netz-eSIM-Profil ist der praktische Mittelweg: [Roamis Portugal-eSIM](/portugal-esim/) bietet den Komfort der sofortigen Bereitstellung, wechselt automatisch zwischen MEO, NOS, Vodafone und Digi und bringt Sie trotzdem zuverlässig auf NOS in Lissabon und MEO auf den Azoren, ohne zweimal zu kaufen.
+💡 Ein Multi-Netz-Profil ist der praktische Mittelweg: [Roamis Portugal-eSIM](/portugal-esim/) bietet den Komfort der sofortigen Bereitstellung, wechselt automatisch zwischen MEO, NOS, Vodafone und Digi und bringt Sie trotzdem zuverlässig auf NOS in Lissabon und MEO auf den Azoren, ohne zweimal zu kaufen.
 
 ## Ist Ihr Telefon bereit für eine Portugal-Netzbetreiber-eSIM?
 
@@ -76,7 +76,7 @@ Drei Dinge entscheiden darüber, ob Ihr Telefon in einem portugiesischen Netz fu
 
 Portugiesische Netzbetreiber bauen ihr 5G auf bestimmten Frequenzbändern auf, angeführt von n78 bei 3,5 GHz für Geschwindigkeit in der Stadt, mit n1 und n3 für eine breitere Netzabdeckung sowie n28 bei 700 MHz und n20 bei 800 MHz für die Reichweite in ländlichen Gebieten und in Innenräumen. Bei 4G sind die Arbeitspferde B3 bei 1800 MHz, B7 bei 2600 MHz, B20 bei 800 MHz und B1 bei 2100 MHz. Die meisten modernen internationalen Smartphones unterstützen diese bereits, sodass ein Besucher aus Nordamerika oder Asien selten komplett ausgeschlossen wird.
 
-Niemand muss die Bandtabellen auswendig kennen. Die Modellnummer schlägt den Marketingnamen, also schauen Sie Ihre in der [eSIM-Kompatibilitätsseite](/compatibility/) nach. [eSIM-Aktivierungsmechanik](/faq/what-is-esim-activation-and-how-does-it-work/) erklärt den Prozess im Detail – nützliche Lektüre, während Sie den Jakobsweg planen.
+Niemand muss die Bandtabellen auswendig kennen. Die Modellnummer schlägt den Marketingnamen, also schauen Sie Ihre eigene im Geräte-Menü nach. [eSIM-Aktivierungsmechanik](/faq/what-is-esim-activation-and-how-does-it-work/) erklärt den Prozess im Detail – nützliche Lektüre, während Sie den Jakobsweg planen.
 
 ### Funktioniert Ihr Telefon in portugiesischen Netzen?
 
@@ -84,7 +84,7 @@ Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation einer Po
 
 **So prüfen Sie es:** iPhone: Einstellungen, dann Allgemein, dann Info, dann Netzbetreiber-Sperre. Die Worte „Keine SIM-Beschränkungen“ bedeuten, dass Sie sich darüber überhaupt keine Sorgen machen müssen. Wenn dort SIM gesperrt steht, lässt sich kein portugiesisches Profil installieren, bis sich das ändert.
 
-**So beheben Sie es:** Wenden Sie sich an den Anbieter, der das Telefon geliefert hat; portugiesische Verkäufer sind verpflichtet, es auf Anfrage zu entsperren. Abbezahlte Geräte werden normalerweise innerhalb weniger Stunden freigeschaltet, und viele Anbieter erledigen dies kostenlos über ihren Self-Service-Kanal. Versuchen Sie erst danach, Ihre eSIM zu installieren.
+**So beheben Sie es:** Wenden Sie sich an den Anbieter, der das Telefon geliefert hat; portugiesische Verkäufer sind verpflichtet, es auf Anfrage zu entsperren. Abbezahlte Geräte werden normalerweise innerhalb weniger Stunden freigeschaltet, und viele Anbieter erledigen dies kostenlos über ihren Self-Service-Kanal. Versuchen Sie erst danach, Ihr Profil zu installieren.
 
 Wenn Sie ein Telefon mit einem Tarif von einem US- oder europäischen Netzbetreiber gekauft haben, gehen Sie davon aus, dass es gesperrt sein könnte, und prüfen Sie es vor dem Abflug. Ein gesperrtes Gerät weigert sich, eine lokale Karte oder ein Profil am Schalter anzunehmen.
 
@@ -95,14 +95,14 @@ Wenn Sie ein Telefon mit einem Tarif von einem US- oder europäischen Netzbetrei
 | Netzbetreiber-gebundenes Smartphone | eSIM-Installation schlägt vollständig fehl | Entsperren Sie das Gerät zuerst über den ursprünglichen Netzbetreiber und versuchen Sie es anschließend erneut |
 | Telefon ohne n28 oder n20 | Schnell in Lissabon und Porto, schwächer im ländlichen Alentejo | Erwartetes Verhalten; im Landesinneren MEO oder Vodafone bevorzugen |
 | iPhones aus Festlandchina | Keine Option zum Hinzufügen einer eSIM verfügbar, Hardware deaktiviert | Nicht behebbar; verwenden Sie ein anderes Gerät |
-| Dual-SIM-Nutzer | eSIM installiert, aber keine Daten | Legen Sie die eSIM als die für mobile Daten verwendete Leitung fest |
+| Gerät mit Dual-SIM | Beide Leitungen aktiv, aber nur die Heim-SIM überträgt Daten | Weisen Sie dem Portugal-Profil unter „Mobiles Netz“ die Datenleitung zu |
 | Sehr altes Android | eSIM-Menü fehlt | Bestätigen Sie die eSIM-Unterstützung vor dem Kauf eines Tarifs |
 
 Alles Weitere betrifft Ihr konkretes Telefon, nicht MEO oder NOS. Prüfen Sie die [Gerätekompatibilitätsliste](/compatibility/) vor dem Bestellvorgang, nicht erst nach der Landung in Lissabon.
 
 ## Tarifgrößen und Kosten
 
-Es gibt vier Wege, und sie unterscheiden sich eher im Papierkram als im Preis: MEO online, NOS und Vodafone im Laden, Digi für Sparfüchse sowie die Portugal-eSIM von Reiseanbietern, die den Schalter überspringt. Jeder Weg, Schritt für Schritt:
+Es gibt vier Wege, und sie unterscheiden sich eher im Papierkram als im Preis: MEO online, NOS und Vodafone im Laden, Digi für Sparfüchse sowie das Reise-Profil von Reiseanbietern, das den Schalter überspringt. Jeder Weg, Schritt für Schritt:
 
 ### MEO online kaufen
 
@@ -147,18 +147,31 @@ Alle Preise sind in Euro und spiegeln typische touristische Prepaid-Bündel im J
 | Vodafone | Traveller Option A | 30 GB, 30 Tage | 12 GB | etwa 20 EUR |
 | Vodafone | Traveller Option B | 50 GB, 30 Tage | 18 GB | ca. 30 EUR |
 
-Diese Bundles sind Daten- und Sprachpakete mit unbegrenzten nationalen SMS und einem Kontingent an Minuten. Reine Daten-eSIMs für Reisen werden anders bepreist, meistens pro Gigabyte, und verzichten komplett auf eine lokale Nummer.
+Diese Bundles sind Daten- und Sprachpakete mit unbegrenzten nationalen SMS und einem Kontingent an Minuten. Reine Datentarife für Reisen werden anders bepreist, meistens pro Gigabyte, und verzichten komplett auf eine lokale Nummer.
+
+### Beispielrechnung: Datenbedarf in Portugal und Preis pro Gigabyte
+
+Nehmen Sie eine typische Woche zu zwei Geräten mit je 2 GB pro Tag, also rund 14 GB. Rechnen Sie mit den oben genannten Bündeln nach, was ein Gigabyte kostet:
+
+| Bündel | Datenvolumen | Preis | Rechnerisch pro GB |
+|:---|:---|:---|:---|
+| MEO Welcome Option A | 25 GB / 15 Tage | ca. 18 EUR | etwa 0,72 EUR |
+| NOS Welcome Pack | 30 GB / 20 Tage | ca. 19 EUR | etwa 0,63 EUR |
+| Vodafone Traveller Option A | 30 GB / 30 Tage | etwa 20 EUR | etwa 0,67 EUR |
+| Vodafone Traveller Option B | 50 GB / 30 Tage | ca. 30 EUR | etwa 0,60 EUR |
+
+Für Reisende aus der EU gilt dabei die Roam-Like-at-Home-Regel: Der Heimtarif rechnet in Portugal zu Inlandskonditionen ab, begrenzt durch das Fair-Use-Datenvolumen. Wer innerhalb dieses Rahmens bleibt, ist mit dem heimischen Tarif oft günstiger; wer ihn überschreitet, zahlt anschließend zu den Bedingungen seines Heimanbieters. Ein portugiesisches Bündel von 18 bis 30 EUR lohnt sich vor allem dann, wenn Sie viel Hotspot teilen oder das Fair-Use-Volumen klein ist.
 
 ### Was Sie für die Registrierung bereithalten
 
 - **Reisepass** — seit 2021 in Portugal für jede SIM- oder eSIM-Registrierung erforderlich
-- **IMEI** — wählen Sie `*#06#`
+- **IMEI** — über `*#06#` im Tastenfeld des Telefons auslesen
 - **EID** — ebenfalls auf dem Bildschirm `*#06#` zu finden; der eigene Identifikator der eSIM
 - **Entsperrtes Telefon** — achten Sie auf den Eintrag „Keine SIM-Einschränkungen“ bei „Carrier Lock“
 - **Eine Karte, die in Portugal funktioniert** — manche Netzbetreiber-Checkouts lehnen ausländische Rechnungsadressen ab
 - **WLAN** — installieren Sie das Profil zu Hause, nicht erst am Flughafen
 
-Installieren Sie das Profil zu Hause. Die Ankunftshallen in Lissabon und Porto haben genau dann überlastetes WLAN, wenn Sie es am dringendsten brauchen, und ein Portugal-eSIM-Profil, das Sie vor Ort installieren, konkurriert mit dem aller anderen.
+Installieren Sie das Profil zu Hause. Die Ankunftshallen in Lissabon und Porto haben genau dann überlastetes WLAN, wenn Sie es am dringendsten brauchen, und ein Portugal-Profil, das Sie vor Ort installieren, konkurriert mit dem aller anderen.
 
 ## Netzabdeckung und Geschwindigkeit im Vergleich
 
@@ -195,7 +208,7 @@ Für das Land als Ganzes stufte der Speedtest Global Index von Ookla Portugals m
 
 ### Bester Portugal eSIM je nach Reiseszenario
 
-| Ihre Reise | Bester Netzbetreiber | Warum | Vorsicht vor |
+| Portugal-Reise | Stärkstes Netz | Begründung | Typische Schwäche |
 |:---|:---|:---|:---|
 | Städtetrip nach Lissabon oder Porto | NOS oder MEO | Beide sind hervorragend im Stadtzentrum; NOS hält den Titel „Bestes Mobilfunknetz“ | Überlastung in den historischen Zentren zu Stoßzeiten |
 | Digitaler Nomade, Videoanrufe | Vodafone | Höchste Konstanz und beste 5G-Verfügbarkeit bei 80,3 Prozent | Upload-Geschwindigkeiten auf stark frequentierten gemeinsam genutzten Sendemasten geringer |
@@ -210,7 +223,7 @@ Für das Land als Ganzes stufte der Speedtest Global Index von Ookla Portugals m
 
 Die Netzabdeckung in Portugal folgt auf dem Festland der Bevölkerungsverteilung, verhält sich auf den Atlantikinseln jedoch deutlich anders, und die meisten übrigen Vergleichsartikel enden beim Festland. Was das streckenweise bedeutet:
 
-| Region | Realität vor Ort | Bester Netzbetreiber | Vorsicht vor |
+| Portugiesische Region | Empfangslage | Empfohlenes Netz | Wermutstropfen |
 |:---|:---|:---|:---|
 | Lissabon und der Tejo | Hervorragendes 4G und wachsendes 5G in jedem Bezirk | NOS oder MEO | Überlastung im historischen Zentrum im Sommer |
 | Porto und der Nordkorridor | Starkes 5G entlang der A1 und in Stadtzentren | NOS | Ländliches Trás-os-Montes ist in jedem Netz schwächer |
@@ -221,9 +234,21 @@ Die Netzabdeckung in Portugal folgt auf dem Festland der Bevölkerungsverteilung
 
 Die Azoren verdienen einen genaueren Blick, weil sie aus dem Muster des Festlands ausbrechen. Alle drei etablierten Netzbetreiber sind dort vertreten, und MEO besitzt die umfangreichste ländliche und maritime Infrastruktur, einschließlich Backhaul zu den abgelegenen westlichen Inseln Flores und Corvo sowie nach Graciosa. NOS und Vodafone sind auf São Miguel, Terceira, Pico und Faial ausgezeichnet, dünnen jedoch auf den Außeninseln aus. Madeira spiegelt dies wider: Funchal und die Südküste sind gut versorgt, während die schroffen Straßen im Norden und das hohe Zentralplateau bei jedem Netzbetreiber lückenhafteren Empfang bieten.
 
-💡 Die automatische Netzwahl ist das, was das Reisen zwischen den Inseln funktionieren lässt. Ein Profil, das zwischen MEO, NOS, Vodafone und Digi wechseln kann, schließt die Lücken, die kein Einzelnetzbetreiber-Tarif schließen kann – besonders wenn eine Fähre oder eine Bergstraße Sie in ein anderes Netz bringt.
+### Streckencheck: welche Korridore den Empfang entscheiden
 
-## Welche APN-Einstellungen verwendet die eSIM jedes portugiesischen Netzbetreibers?
+Wer mit dem Auto oder der Bahn reist, erlebt nicht die Region, sondern die Strecke. Diese Korridore decken die meisten Portugal-Routen ab, sortiert nach der obenstehenden Regionsübersicht:
+
+| Strecke | Empfang unterwegs | Empfehlung |
+|:---|:---|:---|
+| A1 Lissabon–Porto (über Santarém und Coimbra) | Gutes 4G durchgehend, auf weiten Teilen 5G | Jedes Netz; NOS und MEO halten an den Raststätten konstant |
+| A2 Lissabon–Algarve (über Alcácer und Grândola) | Stabil bis Albufeira, im Hinterland des Alentejo dünner | MEO oder Vodafone für die Nebenstraßen |
+| IC8 Richtung Castelo Branco | Solide bis Abrantes, danach ländliche Lücken | MEO, das im Landesinneren die größere Reichweite hat |
+| N125 an der Algarve (Faro–Lagos) | Zuverlässig in den Küstenorten | Vodafone oder MEO; in den ruhigeren Westabschnitten schwächer |
+| Bahnstrecke Lissabon–Algarve (CP) | Gut versorgt bis Tunes, danach Aussetzer in den Hügeln | Offline-Karten für den südlichen Abschnitt herunterladen |
+
+💡 Die automatische Netzwahl ist das, was das Reisen zwischen den Strecken und Inseln funktionieren lässt. Ein Profil, das zwischen MEO, NOS, Vodafone und Digi wechseln kann, schließt die Lücken, die kein Einzelnetzbetreiber-Tarif schließen kann – besonders wenn eine Fähre oder eine Bergstraße Sie in ein anderes Netz bringt.
+
+## Welcher APN gehört in Portugal zu welchem Netzbetreiber?
 
 Nur wenige Reisende bearbeiten jemals den APN, und wenn die Datenverbindung versagt, sollte er überprüft werden, bevor man etwas anderes anfasst. Unten: die Werte für die drei etablierten Netzbetreiber, wann eine manuelle Eingabe tatsächlich erforderlich ist, und die genauen Menüpfade.
 
@@ -231,7 +256,7 @@ Nur wenige Reisende bearbeiten jemals den APN, und wenn die Datenverbindung vers
 
 Sie benötigen diese nur, wenn Sie eine SIM oder eSIM direkt von einem portugiesischen Netzbetreiber gekauft haben. Reiseprofile werden mit ihrem APN ausgeliefert; belassen Sie ihn genau so, wie er angekommen ist.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber in Portugal | Zugangspunkt (APN) | Benutzer | Kennwort |
 |:---|:---|:---|:---|
 | MEO | `internet` | leer | leer |
 | NOS | `internet` | leer | leer |
@@ -239,14 +264,14 @@ Sie benötigen diese nur, wenn Sie eine SIM oder eSIM direkt von einem portugies
 
 Lassen Sie Benutzername und Passwort leer. Dies sind die Standardwerte; wenn Ihre vom Netzbetreiber zugesandte Aktivierungs-E-Mail eine andere APN angibt, vertrauen Sie der E-Mail, da einige Tarife eine abweichende Zeichenfolge verwenden.
 
-### Wann eine manuelle APN-Eingabe nötig ist
+### Wann der portugiesische APN manuell gesetzt werden muss
 
 Manuelle Eingabe ist relevant für:
 
 - Ein Gerät, das zu alt ist, um die Einstellungen des Netzbetreibers automatisch zu empfangen
-- Ein Profil, das mit einem manuellen Aktivierungscode statt per QR-Scan installiert wurde
-- Eine vom Netzbetreiber ausgegebene Prepaid-eSIM, bei der die automatische Konfiguration nicht lief
-- Fast nie bei einer Reise-eSIM – genau das ist der Sinn eines verwalteten Profils
+- Ein MEO- oder NOS-Profil, das per Aktivierungscode statt per QR-Scan eingerichtet wurde
+- Eine Prepaid-Karte aus einer NOS-Loja oder vom Vodafone-Kiosk, bei der die automatische Konfiguration ausblieb
+- Praktisch nie bei einem Reise-Profil – dieses wird fertig konfiguriert ausgeliefert und bleibt unangetastet
 
 ### So finden Sie die APN-Menüs
 
@@ -264,14 +289,14 @@ Ein einziger Durchlauf deckt hier den Weg von der sauberen Installation bis zum 
 | Nr. | Prüfung | Gewünschtes Ergebnis |
 |:---|:---|:---|
 | 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | Unter „Carrier Lock“ sind keine SIM-Einschränkungen sichtbar |
-| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder der Kompatibilitätsprüfer bestätigt Ihr Modell |
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud gespeichert |
+| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder die Geräteliste bestätigt Ihr Modell für MEO und NOS |
+| 3 | MEO-QR-Code und Aktivierungscode gesichert | Screenshot auf dem Telefon und in der Cloud, falls das WLAN in Lissabon streikt |
 | 4 | Profil vor der Abreise installieren | Zu Hause über WLAN installieren; es verbindet sich automatisch bei der Landung |
-| 5 | Datenleitung und Roaming eingerichtet | eSIM für mobile Daten ausgewählt, Datenroaming aktiviert |
+| 5 | Datenleitung und Roaming eingerichtet | Portugal-Profil als Datenleitung gewählt, Datenroaming unter „Mobiles Netz“ aktiv |
 
 Erledigen Sie Schritt vier bereits zu Hause. Das Flughafen-WLAN in Lissabon und Porto ist genau dann überlastet, wenn Sie es brauchen, und ein bereits am Boden installiertes Profil konkurriert mit dem jedes anderen Reisenden.
 
-### So wird Ihre Portugal-eSIM installiert
+### So wird Ihr Portugal-Profil installiert
 
 Die allgemeine Installationsabfolge – eSIM hinzufügen, QR-Code scannen, Leitung benennen, als Datenleitung festlegen, Datenroaming aktivieren – finden Sie in unserer [Schritt-für-Schritt-Aktivierungsanleitung](/faq/how-to-activate-an-esim/). Die Unterschiede je nach Netzbetreiber:
 
@@ -281,9 +306,9 @@ Die allgemeine Installationsabfolge – eSIM hinzufügen, QR-Code scannen, Leitu
 - **Digi:** Prepaid-Anmeldung mit eSIM-Unterstützung, deren Verfügbarkeit je nach Standort noch wächst
 - **Reise-eSIMs:** Installation per QR-Code, dasselbe Profil wechselt je nach Empfang in das stärkste Netz von MEO, NOS, Vodafone oder Digi
 
-### Was speziell bei Portugal-eSIMs schiefläuft
+### Was speziell in Portugal schiefläuft
 
-Allgemeine Aktivierungsfehler – ein Profil, das nicht heruntergeladen wird, ein Scan, der fehlschlägt, eine eSIM, die sich installiert, aber nie im Netz registriert – behandeln wir in unserem [vollständigen eSIM-Fehlerbehebungsleitfaden](/faq/esim-activation-errors-troubleshooting-guide/). Im Folgenden finden Sie die spezifischen Muster für Portugal.
+Allgemeine Aktivierungsfehler – ein Profil, das nicht heruntergeladen wird, ein Scan, der fehlschlägt, ein Datentarif, der sich installiert, aber nie im Netz registriert – behandeln wir in unserem [vollständigen eSIM-Fehlerbehebungsleitfaden](/faq/esim-activation-errors-troubleshooting-guide/). Im Folgenden finden Sie die spezifischen Muster für Portugal.
 
 **A. Der Online-QR-Code von MEO kommt nie an.** Die Zustellung per E-Mail kann fünf bis zehn Minuten dauern, und die Spamfilter an Flughäfen sind sehr streng. Prüfen Sie zuerst den Spam-Ordner und laden Sie den Reisepass erneut hoch, falls die Bestellung bei der Überprüfung hängen geblieben ist.
 
@@ -295,17 +320,17 @@ Allgemeine Aktivierungsfehler – ein Profil, das nicht heruntergeladen wird, ei
 
 **E. Datendienst endet nach dem Überqueren der Grenze nach Spanien auf dem Caminho Português.** Der portugiesische Weg des Jakobswegs verläuft nördlich durch das ländliche Trás-os-Montes und Minho und führt dann nach Galicien. Bei einem einzelnen portugiesischen Netzbetreiber sind die ländlichen Abschnitte im Norden mit MEO oder Vodafone besser versorgt, und sobald Sie die Grenze überqueren, sorgen die EU-Roaming- („Roam like at home“)-Regeln dafür, dass Ihre Daten ohne Aufpreis weiter funktionieren – eine nationale portugiesische SIM-Karte ist also wirklich bis nach Santiago nützlich.
 
-### Was Sie vor dem Support-Kontakt bereithalten
+### Was MEO, NOS oder Vodafone im Support von Ihnen sehen wollen
 
 | Was Sie bereithalten | Wo Sie es finden |
 |:---|:---|
-| Bestell- oder Kundennummer | Bestätigungs-E-Mail |
-| Telefonmodell und Betriebssystemversion | Einstellungen, Über |
+| MEO-Bestellnummer oder NOS-Kundennummer | Bestätigungs-E-Mail aus dem Turistas-Portal bzw. aus der Loja |
+| Handy-Modell und iOS-/Android-Version | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
 | EID | `*#06#` |
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
-| Aktuelle APN-Einstellungen | Einstellungen, Mobiles Datennetz |
-| Datenroaming-Status | Einstellungen, Mobilfunk, Ihre eSIM-Leitung |
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Foto des Fehlerbildschirms | Noch im Dialog aufnehmen – MEO und NOS verlangen den Nachweis zuerst im Service-Chat |
+| Eingestellter APN-Wert | Einstellungen → Mobiles Netz → Portugal-Profil → Mobilfunknetzwerk |
+| Datenroaming-Schalter der Reiseleitung | Einstellungen → Mobilfunk → aktive Portugal-Leitung |
+| Bisher unternommene Schritte | Nur die letzten drei notieren – Liste kurz halten |
 
 ## Was Reisende über Portugals Netze fragen
 
@@ -335,7 +360,7 @@ Ja. Seit 2021 verlangt das portugiesische Gesetz einen Ausweis zum Zeitpunkt der
 
 ### Funktioniert meine Portugal eSIM auf den Azoren und Madeira?
 
-Die Azoren und Madeira sind portugiesisches Staatsgebiet, daher funktioniert dort eine Portugal-eSIM vom Festland als Inlandsverbindung ohne Roaminggebühren. Die Netzabdeckung ist auf den Hauptinseln und in den Städten gut, auf den kleineren Azoreninseln und im vulkanischen Inselinneren jedoch lückenhafter, wobei MEO die abgelegensten Stellen am besten erreicht.
+Die Azoren und Madeira sind portugiesisches Staatsgebiet, daher funktioniert dort ein Festland-Profil als Inlandsverbindung ohne Roaminggebühren. Die Netzabdeckung ist auf den Hauptinseln und in den Städten gut, auf den kleineren Azoreninseln und im vulkanischen Inselinneren jedoch lückenhafter, wobei MEO die abgelegensten Stellen am besten erreicht.
 
 ### Was gilt für eine Portugal eSIM im Ausland?
 
@@ -343,7 +368,7 @@ Da Portugal innerhalb der EU liegt, gilt für jede portugiesische SIM- oder eSIM
 
 ### Ist ein portugiesischer Netzbetreiber-Tarif oder eine Reise-eSIM die bessere Wahl?
 
-Direkt bedeutet ein Netz, vom Netzbetreiber ausgestellte Bereitstellung und oft eine lokale Nummer sowie EU-Roaming; dafür müssen Sie sich registrieren und manchmal in einen Laden gehen. Eine Reise-eSIM bedeutet sofortige Bereitstellung, kein Papierkram, automatisches Wechseln zwischen MEO, NOS, Vodafone und Digi sowie einen festen Vorabpreis. Kurze Reise: Reise-eSIM. Längerer Aufenthalt oder Sie benötigen eine lokale Nummer: direkt.
+Direkt bedeutet ein Netz, vom Netzbetreiber ausgestellte Bereitstellung und oft eine lokale Nummer sowie EU-Roaming; dafür müssen Sie sich registrieren und manchmal in einen Laden gehen. Eine Reise-SIM bedeutet sofortige Bereitstellung, kein Papierkram, automatisches Wechseln zwischen MEO, NOS, Vodafone und Digi sowie einen festen Vorabpreis. Kurze Reise: Reise-eSIM. Längerer Aufenthalt oder Sie benötigen eine lokale Nummer: direkt.
 
 ### Wie bekommen Sie Ihr Telefon entsperrt?
 
@@ -355,9 +380,9 @@ Arbeiten Sie die oben genannten Portugal-spezifischen Schritte der Reihe nach du
 
 ### Wie entsteht eine eSIM-Verbindung?
 
-Die Idee ist einfach: Ein bereits in Ihrem Gerät vorhandener Chip speichert das Netzbetreiber-Profil, sodass keine physische Karte benötigt wird. Der Betreiber stellt das Profil aus, Ihr Gerät schreibt es auf den eingebetteten Chip, und die Leitung fügt sich wie jede andere ein. Die Mechanik, die Aktivierungscodes und auch, warum ein QR-Code nur einmal verwendet werden kann, werden in unserer [Erklärung der eSIM-Technik](/faq/what-is-esim-activation-and-how-does-it-work/) erklärt.
+Die Idee ist einfach: Ein bereits in Ihrem Gerät vorhandener Chip speichert das Netzbetreiber-Profil, sodass keine physische Karte benötigt wird. Der Betreiber stellt das Profil aus, Ihr Gerät schreibt es auf den eingebetteten Chip, und die Leitung fügt sich wie jede andere ein. Die Mechanik, die Aktivierungscodes und auch, warum ein QR-Code nur einmal verwendet werden kann, erklären unsere [FAQ-Seiten zur Aktivierung](/faq/).
 
-Weitere Fragen? [Zur FAQ](/faq/)
+Weitere Fragen rund um MEO, NOS und Vodafone? [Zur FAQ](/faq/)
 
 ## Unsere Datenquellen für Portugal
 
@@ -373,11 +398,11 @@ Wir verlassen uns ausschließlich auf Messungen von Drittanbietern. Die Ergebnis
 
 ### Unterstützt mein derzeitiges Telefon eine eSIM?
 
-Ein Telefon ab 2020 funktioniert fast sicher; Netzbetreiber-Sperren und Hardware aus dem chinesischen Festland sind die Ausnahmen. Führen Sie den [eSIM-Kompatibilitätscheck](/compatibility/) durch, bevor Sie etwas bezahlen.
+Ein Telefon ab 2020 funktioniert fast sicher; Netzbetreiber-Sperren und Hardware aus dem chinesischen Festland sind die Ausnahmen. Führen Sie den eSIM-Kompatibilitätscheck durch, bevor Sie etwas bezahlen.
 
 ### Wie teste ich die Abdeckung für meine Route?
 
-Gleichen Sie die Netzbetreiber-Abschnitte oben mit den Geschwindigkeitsdaten ab, die wir angeben, und testen Sie, bevor Sie sich festlegen: Roamis [kostenlose Test-eSIM](/free-esim/) läuft in denselben Netzen und zeigt Ihnen das tatsächliche Signal dort, wo Sie tatsächlich übernachten.
+Gleichen Sie die Netzbetreiber-Abschnitte oben mit den Geschwindigkeitsdaten ab, die wir angeben, und testen Sie, bevor Sie sich festlegen: Roamis kostenlose Testphase läuft in denselben Netzen und zeigt Ihnen das tatsächliche Signal dort, wo Sie tatsächlich übernachten.
 
 ### Welchen Fehler bereuen Reisende in Portugal am meisten?
 
@@ -385,12 +410,12 @@ Landung ohne Verbindung, dann am Flughafen-WLAN herumkämpfen, um doch noch onli
 
 ## Mit allen Netzen Portugals unterwegs
 
-Eine Portugal-eSIM mit Multi-Netz-Zugang deckt MEO, NOS, Vodafone und Digi ab und wechselt automatisch zum jeweils stärksten Signal, während Sie von Lissabons Straßen über Madeiras Levadas bis zu den Azoren unterwegs sind. Neue Besucher können das [Netz kostenlos testen](/free-esim/) oder den Code **WEB20** für 20 % Rabatt auf [Portugal-eSIM-Tarife](/portugal-esim/) verwenden.
+Ein Portugal-Profil mit Multi-Netz-Zugang deckt MEO, NOS, Vodafone und Digi ab und wechselt automatisch zum jeweils stärksten Signal, während Sie von Lissabons Straßen über Madeiras Levadas bis zu den Azoren unterwegs sind. Neue Besucher können den Code **WEB20** für 20 % Rabatt auf einen Portugal-Tarif verwenden.
 
-[Portugal eSIM kaufen](/portugal-esim/)
+[Portugal-Tarife vergleichen](/plans/)
 
 *Willkommenspreise für Erstnutzer*
 
 [Kostenlose Portugal-Test-eSIM starten](/free-esim/)
 
-Ein letzter Schritt vor dem Abflug: Überprüfen Sie Ihr Telefon auf der [eSIM-Kompatibilitätsseite](/compatibility/), und starten Sie anschließend Roamis [kostenlose Multi-Netz-Testphase](/free-esim/), um zu sehen, wie MEO Ihre Route behandelt. Der Code WEB20 an der Kasse reduziert jeden kostenpflichtigen Roami-Datentarif mit Portugal-Abdeckung um 20 %.
+Ein letzter Schritt vor dem Abflug: Überprüfen Sie Ihr Telefon auf seine eSIM-Eignung, und starten Sie anschließend Roamis kostenlose Multi-Netz-Testphase, um zu sehen, wie MEO Ihre Route behandelt. Der Code WEB20 an der Kasse reduziert jeden kostenpflichtigen Roami-Datentarif mit Portugal-Abdeckung um 20 %.

@@ -42,7 +42,7 @@ Indonesien ist ein Archipel von rund 17.000 Inseln, und seine Mobilfunklandkarte
 
 
 
-**Kurzes Urteil:** **Telkomsel** ist das flächendeckendste Netz des Landes und die richtige Standardwahl für alle, die abseits der Touristenpfade unterwegs sind — die landesweite geografische Netzabdeckung wurde mit 8,6 von 10 bewertet, gegenüber 5,5 für Indosat und 4,8 für XL. **XL** und **Indosat (IM3)** bieten in Bali und Java ein starkes Preis-Leistungs-Verhältnis und können Telkomsel in puncto Zuverlässigkeit im Süden Balis übertreffen. Was auch immer Sie kaufen, denken Sie an die Regel, die mehr Reisende erwischt als jede andere: Ein im Ausland gekauftes Telefon muss für den Zugang zum lokalen Netz **IMEI-registriert** werden, und die Touristenfreigabe gilt 90 Tage. Eine Reise-eSIM umgeht das vollständig — die [kostenlose Test-eSIM](/free-esim/) prüft die Netze ohne Kosten, und der Code **WEB20** reduziert [indonesische eSIM-Datenpakete](/indonesia-esim/) um 20 %.
+**Kurzes Urteil:** **Telkomsel** ist das flächendeckendste Netz des Landes und die richtige Standardwahl für alle, die abseits der Touristenpfade unterwegs sind — die landesweite geografische Netzabdeckung wurde mit 8,6 von 10 bewertet, gegenüber 5,5 für Indosat und 4,8 für XL. **XL** und **Indosat (IM3)** bieten in Bali und Java ein starkes Preis-Leistungs-Verhältnis und können Telkomsel in puncto Zuverlässigkeit im Süden Balis übertreffen. Was auch immer Sie kaufen, denken Sie an die Regel, die mehr Reisende erwischt als jede andere: Ein im Ausland gekauftes Telefon muss für den Zugang zum lokalen Netz **IMEI-registriert** werden, und die Touristenfreigabe gilt 90 Tage. Eine Reise-eSIM umgeht das vollständig — der kostenlose Netztest prüft die Netze ohne Kosten, und der Code **WEB20** reduziert die indonesischen eSIM-Datenpakete um 20 %.
 
 
 
@@ -50,36 +50,20 @@ Indonesien ist ein Archipel von rund 17.000 Inseln, und seine Mobilfunklandkarte
 
 
 
-- [Welcher indonesische eSIM-Netzbetreiber passt zu Ihrer Reise?](#choosing-by-trip-type-in-indonesia)
-
-- [Telkomsel vs. XL vs. Indosat: was Reisende tatsächlich kaufen können](#plans-and-pricing-in-indonesia)
-
-- [Was diese Prepaid-Datenpakete in Rupiah kosten](#money-saving-indonesia-plans)
-
-- [IMEI-Registrierung für ausländische Geräte](#sim-and-esim-registration-in-indonesia)
-
-- [Grundlagen der indonesischen eSIM: Frequenzbänder, Biometrie und Buchungsfenster](#indonesia-esim-fundamentals-bands-biometrics-and-bundle-windows)
-
-- [Lokale SIM oder Roaming-Profil: was passt zu einer Inselhopping-Reise?](#indonesia-esim-roaming-and-border-crossings)
-
-- [Wie schnell ist mobiles Internet in Indonesien?](#indonesia-esim-speeds-by-carrier)
-
-- [eSIM-Netzabdeckung und mobile Geschwindigkeit in Indonesien nach Region](#indonesia-esim-carriers)
-
-- [Indonesische eSIM nach Reiseart](#indonesia-esim-by-trip-shape-seven-islands-seven-different-networks)
-
-- [Vor dem Kauf: Dokumente, IMEI und Bezahlung](#indonesia-sim-registration-documents-imei-and-payment)
-
-- [Vier typische Fehlerbilder](#when-an-indonesia-esim-misbehaves-four-local-failure-modes)
-
-- [Grenzwechsel nach Singapur und Malaysia](#crossing-to-singapore-and-malaysia-same-phone-new-data-plan)
-
-- [Häufige Fragen (12 beantwortet)](#common-questions-about-an-indonesia-esim-12-answered)
-
-- [Recherche und Quellen](#research-and-sources-behind-our-indonesia-esim-coverage)
-
-
-
+- [Welcher indonesische eSIM-Netzbetreiber passt zu Ihrer Reise?](#auswahl-nach-reiseart-in-indonesien)
+- [Telkomsel vs. XL vs. Indosat: was Reisende tatsächlich kaufen können](#tarife-und-preise-in-indonesien)
+- [Was diese Prepaid-Datenpakete in Rupiah kosten](#preisvergleich-zwischen-esim-und-lokaler-sim)
+- [IMEI-Registrierung für ausländische Geräte](#sim-und-esim-registrierung-in-indonesien)
+- [Grundlagen der indonesischen eSIM: Frequenzbänder, Biometrie und Buchungsfenster](#indonesien-esim-grundlagen-von-bändern-bis-paketlaufzeiten)
+- [Lokale SIM oder Roaming-Profil: was passt zu einer Inselhopping-Reise?](#lokale-sim-oder-reise-esim-im-vergleich)
+- [Wie schnell ist mobiles Internet in Indonesien?](#wie-schnell-ist-mobiles-internet-in-indonesien)
+- [eSIM-Netzabdeckung und mobile Geschwindigkeit in Indonesien nach Region](#netzreichweite-von-sumatra-bis-papua)
+- [Indonesische eSIM nach Reiseart](#indonesien-esim-nach-reiseart-auf-sieben-inseln)
+- [Vor dem Kauf: Dokumente, IMEI und Bezahlung](#sim-registrierung-von-dokumenten-bis-zahlung)
+- [Vier typische Fehlerbilder](#vier-typische-fehlerbilder-einer-indonesien-esim)
+- [Grenzwechsel nach Singapur und Malaysia](#grenzwechsel-nach-singapur-und-malaysia)
+- [Häufige Fragen (12 beantwortet)](#häufige-fragen-zu-einer-indonesien-esim-12-beantwortet)
+- [Recherche und Quellen](#recherche-und-quellen-dieses-guides)
 ## Auswahl nach Reiseart in Indonesien
 
 
@@ -176,7 +160,7 @@ Lokale Preise werden in Rupiah veröffentlicht und ändern sich mit den Aktionen
 
 | XL Xtra Combo Flex M (Touristen-eSIM) | 14 GB + 5 Minuten | 30 Tage | Rp 46.000 | ≈ 3 $ |
 
-| Indosat IM3 Travel On | 30 GB | 30 Tage | ab Rp 100.000 | ≈ $6 |
+| Indosat IM3 Travel On | 30 GB | 30 Tage | ab Rp 100.000 | ≈ 6 $ |
 
 | Smartfren Tourist Starter Pack | 15 GB rund um die Uhr + 15 GB nachts | 14 Tage | Rp 100.000 | ≈ 6 $ |
 
@@ -188,7 +172,7 @@ Ein Warnhinweis steht über dieser Tabelle. Derselbe Telkomsel 25-GB-Inlandstari
 
 
 
-## SIM- und eSIM-Registrierung in Indonesien
+## SIM und eSIM-Registrierung in Indonesien
 
 
 
@@ -260,7 +244,7 @@ eSIM funktioniert auf iPhone XS und neuer, Pixel 3 und neuer, Galaxy S20 und neu
 
 
 
-| | Eine lokale Prepaid-Karte | Reise-eSIM in lokalen Netzen |
+| | Prepaid-Karte vor Ort | Reise-Profil in indonesischen Netzen |
 
 |:---|:---|:---|
 
@@ -334,7 +318,7 @@ Welche Indonesien-eSIM besser zu Ihrem Reiseziel passt, basierend auf lokaler Ne
 
 
 
-| Stadt | Bester Netzbetreiber | Warum es funktioniert |
+| Stadt | Empfohlenes Netz | Begründung |
 
 |:---|:---|:---|
 
@@ -354,7 +338,7 @@ Roamis Multi-Netz-eSIM für Indonesien verbindet sich automatisch wieder mit dem
 
 
 
-## Netzabdeckung nach Region
+## Netzreichweite von Sumatra bis Papua
 
 
 
@@ -362,7 +346,7 @@ Die Netzabdeckung in Indonesien ist nicht einheitlich, und der 70. Platz im welt
 
 
 
-| Region | Netzabdeckung | Bester Netzbetreiber | Hinweis |
+| Region | Empfangslage | Empfohlenes Netz | Hinweis vor Ort |
 
 |:---|:---|:---|:---|
 
@@ -488,7 +472,7 @@ Zwei Reibereien sind es wert, vorauszusehen. Erstens, **ausländische Bankkarten
 
 
 
-## APN-Konfiguration
+## APN-Werte für Telkomsel, XL und Indosat
 
 
 
@@ -496,7 +480,7 @@ Die meisten Reisenden müssen hier nie eine APN anfassen, und ein verwaltetes eS
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Operator | Zugangspunkt (APN) | Nutzername | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -516,7 +500,7 @@ Wo Sie es eingeben: **iPhone** → Einstellungen → Mobilfunk → die eSIM-Zeil
 
 
 
-Bei der Ankunft müssen Sie nichts abholen. Ihre Indonesien-eSIM wird nach dem Kauf per E-Mail zugestellt; die [Tarifseite](/indonesia-esim/) enthält Tarife und Aktivierungsschritte, und unser [eSIM-Einrichtungsleitfaden](/faq/how-to-activate-an-esim/) unterstützt die Installation sowohl auf iOS als auch auf Android.
+Bei der Ankunft müssen Sie nichts abholen. Ihre Indonesien-eSIM wird nach dem Kauf per E-Mail zugestellt; die Tarifseite enthält Tarife und Aktivierungsschritte, und unser [eSIM-Einrichtungsleitfaden](/faq/how-to-activate-an-esim/) unterstützt die Installation sowohl auf iOS als auch auf Android.
 
 
 
@@ -552,17 +536,17 @@ Allgemeine Aktivierungsfehler – ein Profil, das nicht heruntergeladen werden k
 
 |:---|:---|
 
-| Bestell- oder Kontonummer | Bestätigungs-E-Mail |
+| Bestell- oder Kontonummer | Bestätigungsmail des Anbieters |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Über das Gerät |
+| Gerätemodell und Android-Version | Einstellungen → Über das Telefon |
 
 | IMEI und EID | `*#06#` |
 
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Aufnehmen, solange der Fehlerdialog noch offen ist |
 
 | IMEI-Registrierungsstatus | Der Netzbetreiber-Zähler oder das Zollportal |
 
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Bereits durchgeführte Schritte | Kurz und in Reihenfolge notiert |
 
 
 
@@ -670,7 +654,7 @@ Es hilft. Ride-Hailing, Essenslieferung und einige Bezahl-Apps sind auf eine +62
 
 
 
-### Wo fange ich an wenn die eSIM keine Verbindung herstellt?
+### Wo fange ich an, wenn die eSIM keine Verbindung herstellt?
 
 
 
@@ -682,7 +666,7 @@ Arbeiten Sie die vier oben genannten Muster der Reihe nach ab — IMEI-Status, A
 
 
 
-## Ihre eSIM-Mythen entlarvt
+## Drei eSIM-Mythen im Faktencheck
 
 
 
@@ -724,7 +708,7 @@ Arbeiten Sie die vier oben genannten Muster der Reihe nach ab — IMEI-Status, A
 
 - **Komdigi und indonesischer Zoll** — die Überarbeitung der Teilnehmerregistrierung steht in [Permenkomdigi Nr. 7 von 2026](https://jdih.komdigi.go.id/), und der IMEI-Weg für importierte Handys in [Bea Cukais Leitfaden](https://www.beacukai.go.id/).
 
-- **Netzbetreiber- und Marktseiten** — Touristentarifpreise und die Lücke zwischen Flughafen und Stadt stammen aus [LokalFinds Bali-SIM-Umfrage](https://lokalfinds.com/blog/bali-sim-card-2026) und [Roaflys Indonesien-Touristen-SIM-Leitfaden](http://www.roafly.com/blog/indonesia-tourist-sim-card-prices), beide abgerufen im September 2026. Unser Support-Team greift genau auf diese Referenzen zurück, wenn eine Indonesien-Abdeckungsbehauptung angefochten wird.
+- **Netzbetreiber- und Marktseiten** — Touristentarifpreise und die Lücke zwischen Flughafen und Stadt stammen aus [LokalFinds Bali-SIM-Umfrage](https://lokalfinds.com/blog/bali-sim-card-2026) und [Roaflys Indonesien-Touristen-SIM-Leitfaden](https://www.roafly.com/blog/indonesia-tourist-sim-card-prices), beide abgerufen im September 2026. Unser Support-Team greift genau auf diese Referenzen zurück, wenn eine Indonesien-Abdeckungsbehauptung angefochten wird.
 
 
 
@@ -736,7 +720,7 @@ Alle hier zitierten Benchmarks werden von den oben aufgeführten Dritten veröff
 
 
 
-Laden Sie Ihre Indonesien-eSIM zu Hause über WLAN, und sie verbindet sich bei der Landung wieder mit dem stärksten lokalen Netz in Jakarta, Bali und darüber hinaus. Starten Sie mit einer [kostenlosen Indonesien-Testversion](/free-esim/), oder erhalten Sie 20 % Rabatt auf [Indonesien eSIM-Tarife](/indonesia-esim/) mit dem Code **WEB20**.
+Laden Sie Ihre Indonesien-eSIM zu Hause über WLAN, und sie verbindet sich bei der Landung wieder mit dem stärksten lokalen Netz in Jakarta, Bali und darüber hinaus. Starten Sie mit einer kostenlosen Indonesien-Testversion, oder erhalten Sie 20 % Rabatt auf die Indonesien-eSIM-Tarife mit dem Code **WEB20**.
 
 
 

@@ -1,8 +1,7 @@
 ---
 
-title: "Bester eSIM-Netzbetreiber in Montenegro: m:tel, Telekom, One"
-
-description: "m:tel, Crnogorski Telekom oder One? Roami vergleicht alle drei montenegrinischen eSIM-Netzbetreiber, mit dem 15-€-Touristentarif und der Bergnetzabdeckung."
+title: "Montenegro eSIM: m:tel, Telekom oder One im Vergleich"
+description: "Montenegro eSIM im Vergleich: m:tel, Crnogorski Telekom und One nach Küstenabdeckung, 15-€-Touristentarif und Bergempfang."
 image: "img/esim/carriers/montenegro-esim-carrier-guide.jpg"
 
 date: "2026-09-24T17:10:03+00:00"
@@ -34,11 +33,11 @@ hero_subtitle_main: "Welches Netz versorgt Ihre Route — und was die Daten sage
 
 
 
-Montenegro ist still und leise zu einem der großzügigsten Touristendaten-Märkte Europas geworden: **500 GB für 15 € über 15 Tage** von jedem seiner drei Anbieter, mit 5G von allen dreien und eSIMs, die Sie online kaufen können, noch bevor Sie landen. Es gibt allerdings eine Falle, die Besucher erwischt, die eine Kiosk-SIM ohne Registrierung kaufen — und es ist **kein** EU-Land, sodass europäische Reisende, die annehmen, dass ihr Heimattarif hier ohne Zusatzkosten roamt, eine schmerzhafte Überraschung erleben. Dieser Guide behandelt die drei Netzbetreiber mit ihren tatsächlichen Touristentarifen, das Roaming im westlichen Balkan, das eine eSIM zur Sechs-Länder-Karte macht, und die Aufteilung Berg-vs-Küste bei der Netzabdeckung, die Ihre Wahl entscheidet. Die folgenden Knackpunkte sind diejenigen, die Erstnutzer einer Montenegro-eSIM am häufigsten hereinlegen.
+Montenegro ist still und leise zu einem der großzügigsten Touristendaten-Märkte Europas geworden: **500 GB für 15 € über 15 Tage** von jedem seiner drei Anbieter, mit 5G von allen dreien und eSIM-Profilen, die Sie online kaufen können, noch bevor Sie landen. Es gibt allerdings eine Falle, die Besucher erwischt, die eine Kiosk-SIM ohne Registrierung kaufen — und es ist **kein** EU-Land, sodass europäische Reisende, die annehmen, dass ihr Heimattarif hier ohne Zusatzkosten roamt, eine schmerzhafte Überraschung erleben. Dieser Guide behandelt die drei Netzbetreiber mit ihren tatsächlichen Touristentarifen, das Roaming im westlichen Balkan, das eine montenegrinische Leitung zur Sechs-Länder-Karte macht, und die Aufteilung Küste-vs-Binnenland bei der Netzabdeckung, die Ihre Wahl entscheidet. Die folgenden Knackpunkte sind diejenigen, die Erstnutzer eines Montenegro-Datentarifs am häufigsten hereinlegen.
 
 
 
-**Schnelle Antwort:** Direkt auf den Punkt: eSIM-Kompatibilität ist die sichere Standardwahl für die Netzabdeckung in ganz Montenegro, wobei die lokalen Netze in und nahe den Hauptstädten meist günstiger sind. Die Tabellen weiter unten liefern den Beweis — und der [Kompatibilitäts-Check](/compatibility/) beantwortet die Handyfrage, bevor Sie sich festlegen.
+**Schnelle Antwort:** Direkt auf den Punkt: ein Multi-Netz-Profil ist die sichere Standardwahl für die Netzabdeckung in ganz Montenegro, wobei die lokalen Netze in und nahe den Hauptstädten meist günstiger sind. Die Tabellen weiter unten liefern den Beweis — und der Kompatibilitäts-Check beantwortet die Handyfrage, bevor Sie sich festlegen.
 
 
 
@@ -46,7 +45,7 @@ Unsicher, ob Ihr Telefon geeignet ist? Der [eSIM-Geräte-Check](/compatibility/)
 
 
 
-**Schnelle Einschätzung:** m:tel hat die beste ländliche und Bergnetzabdeckung; Crnogorski Telekom (T-Mobile Montenegro) hat die breiteste Gesamtkarte und ist die sicherste Wahl für Durmitor und den Norden; One (der frühere Telenor) ist an der Küste stark mit 5G in Budva, Kotor und Podgorica. Alle drei verkaufen Touristen-eSIMs online — m:tel über eine 2–3-minütige ID-plus-Selfie-Prüfung — mit 500 GB/15 Tage für 15 €, 1 TB/30 Tage für 20 € und unbegrenzten Stufen um 25 €. Die Registrierung mit Reisepass oder Ausweis ist gesetzlich vorgeschrieben. Montenegro ist nicht in der EU: EU-Roam-like-at-home gilt nicht, aber lokale Touristenpakete enthalten Westbalkan-Roaming, und die Tarife von Crnogorski Telekom beinhalten als Einzige zusätzlich Kroatien.
+**Schnelle Einschätzung:** m:tel hat die beste ländliche und Bergnetzabdeckung; Crnogorski Telekom (T-Mobile Montenegro) hat die breiteste Gesamtkarte und ist die sicherste Wahl für die Hauptstadt, die Küstenstraße und das Landesinnere, bis hinauf in das Durmitor-Gebiet; One (der frühere Telenor) ist an der Küste stark mit 5G in Budva, Kotor und Podgorica. Alle drei verkaufen Touristenprofile online — m:tel über eine 2–3-minütige ID-plus-Selfie-Prüfung — mit 500 GB/15 Tage für 15 €, 1 TB/30 Tage für 20 € und unbegrenzten Stufen um 25 €. Die Registrierung mit Reisepass oder Ausweis ist gesetzlich vorgeschrieben. Montenegro ist nicht in der EU: EU-Roam-like-at-home gilt nicht, aber lokale Touristenpakete enthalten Westbalkan-Roaming, und die Tarife von Crnogorski Telekom beinhalten als Einzige zusätzlich Kroatien.
 
 
 
@@ -54,7 +53,7 @@ Unsicher, ob Ihr Telefon geeignet ist? Der [eSIM-Geräte-Check](/compatibility/)
 
 
 
-| Reiseart | Empfohlener Netzbetreiber | Der Grund |
+| Reisevorhaben | Passendes Netz | Begründung |
 
 |:---|:---|:---|
 
@@ -84,7 +83,7 @@ Unsicher, ob Ihr Telefon geeignet ist? Der [eSIM-Geräte-Check](/compatibility/)
 
 
 
-Three Netzbetreiber, eine gemeinsame Touristenleiter – die Unterschiede sind Berge, Roaming und der Kroatien-Bonus:
+Drei Netzbetreiber, eine gemeinsame Touristenleiter – die Unterschiede sind Berge, Roaming und der Kroatien-Bonus:
 
 
 
@@ -96,7 +95,7 @@ Three Netzbetreiber, eine gemeinsame Touristenleiter – die Unterschiede sind B
 
 | Abdeckung in ländlichen Gebieten und Bergregionen | Beste Zuverlässigkeit abseits asphaltierter Straßen | Breiteste Gesamtabdeckung | Etwas hinter den anderen beiden Anbietern |
 
-| 5G | Yes, in Städten und an der Küste | Podgorica sowie die Küste | Stärkster Ruf in Budva und Kotor |
+| 5G | Ja, in Städten und an der Küste | Podgorica sowie die Küste | Stärkster Ruf in Budva und Kotor |
 
 | Touristen-Einreisetarif | 15 € / 500 GB / 15 Tage | 15 € / 500 GB / 15 Tage | 15 € / 500 GB / 15 Tage |
 
@@ -104,7 +103,7 @@ Three Netzbetreiber, eine gemeinsame Touristenleiter – die Unterschiede sind B
 
 | Roaming in den Westbalkan | Inklusive, 8–10 GB | Inklusive | Inklusive |
 
-| Roaming in Kroatien | Nein | **Yes — einzigartig** | Nein |
+| Roaming in Kroatien | Nein | **Ja — einzigartig** | Nein |
 
 | Extras | — | — | HBO Max drei Monate kostenlos |
 
@@ -144,7 +143,7 @@ One — 2022 aus Telenor umbenannt — ist der dritte Wettbewerber, mit hervorra
 
 
 
-**Yes — und Montenegro ist einer der wenigen Märkte, in denen die Netzbetreiber ein echtes Online-Touristenprodukt aufgebaut haben.** Alle drei verkaufen direkt an Besucher über ihre eigenen Websites, wobei die Identitätsprüfung online erfolgt. Die Prüfung bei m:tel — Ausweis plus Selfie — dauert zwei bis drei Minuten, und das Profil wird als QR-Code geliefert, den Sie noch vor dem Flug auf Ihrem Smartphone installieren.
+**Ja — und Montenegro ist einer der wenigen Märkte, in denen die Netzbetreiber ein echtes Online-Touristenprodukt aufgebaut haben.** Alle drei verkaufen direkt an Besucher über ihre eigenen Websites, wobei die Identitätsprüfung online erfolgt. Die Prüfung bei m:tel — Ausweis plus Selfie — dauert zwei bis drei Minuten, und das Profil wird als QR-Code geliefert, den Sie noch vor dem Flug auf Ihrem Smartphone installieren.
 
 
 
@@ -164,7 +163,7 @@ One — 2022 aus Telenor umbenannt — ist der dritte Wettbewerber, mit hervorra
 
 | Bei der Aktivierung | Sofort, beim ersten Kontakt mit einem lokalen Sendemast | Vor Ihrem Flug, in Ihrem eigenen WLAN |
 
-| Montenegrinische Rufnummer | Yes | Nein — nur Datentarif |
+| Montenegrinische Rufnummer | Ja | Nein — nur Datentarif |
 
 | Freimengen | 500 GB für 15 € – effektiv unbegrenzt | Preis pro Gigabyte |
 
@@ -174,11 +173,11 @@ One — 2022 aus Telenor umbenannt — ist der dritte Wettbewerber, mit hervorra
 
 
 
-**The honest comparison:** Beim reinen Preis-Leistungs-Verhältnis sind Montenegros lokale Touristentarife in ganz Europa kaum zu schlagen. 15 € für 500 GB sind kein Tippfehler, und 20 € für ein Terabyte im Monat lassen einen Gigabyte-basierten Reisetarif teuer wirken. Was eine Reise-eSIM stattdessen bietet, ist Bequemlichkeit — keine ID-Verifizierung, keine lokale Registrierungslogik und ein Profil, das man mit einer Karte kaufen kann, die die Website des Netzbetreibers möglicherweise ablehnt. Wenn Ihr Handy eSIM-fähig ist und Sie kein Problem damit haben, ein Foto Ihres Ausweises in das Portal einer serbischen Telekommunikationsgruppe hochzuladen, kaufen Sie direkt und sparen Sie richtig Geld.
+**Der ehrliche Vergleich:** Beim reinen Preis-Leistungs-Verhältnis sind Montenegros lokale Touristentarife in ganz Europa kaum zu schlagen. 15 € für 500 GB sind kein Tippfehler, und 20 € für ein Terabyte im Monat lassen einen Gigabyte-basierten Reisetarif teuer wirken. Was ein Reise-Profil stattdessen bietet, ist Bequemlichkeit — keine ID-Verifizierung, keine lokale Registrierungslogik und ein Profil, das man mit einer Karte kaufen kann, die die Website des Netzbetreibers möglicherweise ablehnt. Wenn Ihr Handy eSIM-fähig ist und Sie kein Problem damit haben, ein Foto Ihres Ausweises in das Portal einer serbischen Telekommunikationsgruppe hochzuladen, kaufen Sie direkt und sparen Sie richtig Geld.
 
 
 
-## Registration: The Legal Side
+## Registrierung: die Rechtslage in Montenegro
 
 
 
@@ -186,7 +185,7 @@ Dies ist das wertvollste Stück praktischer Information in diesem Ratgeber: **in
 
 
 
-### The Montenegro kiosk SIM trap, step by step
+### Die Kiosk-SIM-Falle Schritt für Schritt
 
 
 
@@ -200,11 +199,11 @@ Dies ist das wertvollste Stück praktischer Information in diesem Ratgeber: **in
 
 | 3 | Nimmt an, dass die SIM-Karte defekt ist | Kauft eine neue – gleiches Ergebnis |
 
-| 4 | Vibefindet sich ein Laden eines Netzbetreibers | Das Personal kann die ursprüngliche SIM registrieren und wiederherstellen |
+| 4 | Findet der Besucher ein Laden eines Netzbetreibers | Das Personal kann die ursprüngliche SIM registrieren und wiederherstellen |
 
 
 
-Der saubere Weg, den ganzen Aufwand zu umgehen: **kaufen Sie die Touristen-eSIM online, bevor Sie reisen.** Alle drei Netzbetreiber verkaufen direkt — m:tel über [seine Touristenseite](https://www.mtel.me/for-tourists), Telekom und One ebenfalls — und das Profil aktiviert sich beim ersten Kontakt mit einem montenegrinischen Sendemast. Kein Kiosk, keine ungültige Karte, kein zweiter Weg in die Stadt.
+Der saubere Weg, den ganzen Aufwand zu umgehen: **kaufen Sie das Touristenprofil online, bevor Sie reisen.** Alle drei Netzbetreiber verkaufen direkt — m:tel über [seine Touristenseite](https://www.mtel.me/for-tourists), Telekom und One ebenfalls — und das Profil aktiviert sich beim ersten Kontakt mit einem montenegrinischen Sendemast. Kein Kiosk, keine ungültige Karte, kein zweiter Weg in die Stadt.
 
 
 
@@ -218,7 +217,7 @@ Montenegro ist kein EU-Mitglied. Die Konsequenzen, nach Schwere des Schmerzes:
 
 1. **Ihr EU-Tarif roamt hier zu internationalen Preisen** — oft mehrere Euro pro Megabyte bei einigen Heim-Netzbetreibern. EU-Bewohner: prüfen Sie es, bevor Sie sich darauf verlassen.
 
-2. **Lokale Touristenpakete enthalten Westbalkan-Roaming** — Serbien, Bosnien und Herzegowina, Nordmazedonien, Albanien und Kosovo — was eine montenegrinische eSIM zur Konnektivität für eine Reise durch sechs Länder macht.
+2. **Lokale Touristenpakete enthalten Westbalkan-Roaming** — Serbien, Bosnien und Herzegowina, Nordmazedonien, Albanien und Kosovo — was eine montenegrinische Leitung zur Konnektivität für eine Reise durch sechs Länder macht.
 
 3. **Crnogorski Telekom fügt diesem Netz einzigartig Kroatien** hinzu.
 
@@ -232,19 +231,23 @@ Montenegro ist kein EU-Mitglied. Die Konsequenzen, nach Schwere des Schmerzes:
 
 - **Besucher aus Großbritannien, den USA, Kanada und Australien:** Sie waren nie von Roam-like-at-home abgedeckt, also ändert sich nichts — kaufen Sie das lokale Paket oder eine Reise-eSIM wie überall sonst.
 
-- **Regionale Roadtrip-Reisende:** Ein montenegrinisches Paket mit Westbalkan-Roaming ist wohl der beste einzelne Konnektivitätskauf in der Region. One-Kauf, sechs Länder.
+- **Regionale Roadtrip-Reisende:** Ein montenegrinisches Paket mit Westbalkan-Roaming ist wohl der beste einzelne Konnektivitätskauf in der Region. Ein Kauf, sechs Länder.
 
 
 
 Preiskontext: [Cable.co.uks weltweite Umfrage](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) preist mobile Daten in Montenegro auf ungefähr **0,32 USD pro GB** — unter den 25 günstigsten von 237 Märkten — und [DataReportals Digitale 2025-Daten](https://datareportal.com/reports/digital-2025-montenegro) zählen 1,43 Millionen Mobilfunkverbindungen, 224 % der Bevölkerung. [Der Global Index von Ookla](https://www.speedtest.net/global-index/montenegro) zeigt feste Medianwerte um 91 Mbps — ein schneller, günstiger, wettbewerbsintensiver kleiner Markt.
 
+### Rechenbeispiel: ein Roaming-Tag gegen den 15-€-Tarif
+
+Rechnen wir zwei typische Tage gegenüber: Ein EU-Besucher, dessen Heimtarif hier zu internationalen Preisen roamt — bei manchen Anbietern mehrere Euro pro Megabyte — zahlt für einen einzigen Tag mit 300 MB einen dreistelligen Eurobetrag, wenn die Datenleitung im Hintergrund läuft und kein Datenpaket gebucht ist. Derselbe Woche-Einkauf mit dem lokalen Touristentarif kostet 15 € für 500 GB über 15 Tage — genug, um Hotspot für Reisebegleiter mitzuliefern und an der Küste Videos hochzuladen, ohne aufs Kontingent zu schauen. Selbst wenn Ihr Heimatanbieter „nur“ 10 € pro Roaming-Tag berechnen sollte, sind Sie nach anderthalb Tagen bei den Kosten des gesamten Montenegro-Tarifs. Deshalb die klare Reihenfolge: Datenroaming der Heimleitung ausschalten, bevor Sie die Grenze passieren, und auf das lokale Profil wechseln.
 
 
-## Regionale Netzabdeckung
+
+## Empfang von der Küste bis ins Hinterland, Region für Region
 
 
 
-| Region | Netzabdeckung in der Praxis | Bester Netzbetreiber | Worauf Sie achten sollten |
+| Region | Empfang in der Praxis | Stärkstes Netz | Praxishinweis |
 
 |:---|:---|:---|:---|
 
@@ -260,7 +263,7 @@ Preiskontext: [Cable.co.uks weltweite Umfrage](https://www.cable.co.uk/mobiles/w
 
 | Tara-Schlucht und der Norden | Empfang an Aussichtspunkten und in Ortschaften, Lücken in der Schlucht | m:tel / Telekom | Die tiefe Schlucht beschattet jedes Netz |
 
-| Ufer des Skutarisees | Gut in den Hauptdörfern und Virpazar |⁌ Beliebig | Schwach auf der albanischen Seite des Gewässers |
+| Ufer des Skutarisees | Gut in den Hauptdörfern und Virpazar | Beliebig | Schwach auf der albanischen Seite des Gewässers |
 
 | Prokletije und die östliche Grenze | Über die Hauptdörfer hinaus spärlich | m:tel | Als Expeditionsgelände behandeln, nicht als zusammenhängendes Gelände |
 
@@ -284,7 +287,7 @@ Montenegro presst eine Küstenlinie, ein Kalksteinmassiv und tiefe Canyons in ei
 
 
 
-Hinweise zu den Flughäfen: Sowohl in Podgorica (TGD) als auch in Tivat (TIV) gibt es während der Ankunftszeiten Schalter oder Kioske der Netzbetreiber, wobei die Quellen uneinig sind, wie zuverlässig der Schalter in Tivat bei späten Flügen ist – ein weiterer Grund, warum die Online-eSIM vor dem Flug die risiköärmere Variante ist.
+Hinweise zu den Flughäfen: Sowohl in Podgorica (TGD) als auch in Tivat (TIV) gibt es während der Ankunftszeiten Schalter oder Kioske der Netzbetreiber, wobei die Quellen uneinig sind, wie zuverlässig der Schalter in Tivat bei späten Flügen ist – ein weiterer Grund, warum die Online-eSIM vor dem Flug die risikoärmere Variante ist.
 
 
 
@@ -296,7 +299,7 @@ Grenzübertritt? Dieselben Schwachstellen gelten für unseren [Kroatien-eSIM-Gui
 
 
 
-| Route | Was es braucht | Am besten geeignet für |
+| Etappe | Voraussetzungen | Passend für |
 
 |:---|:---|:---|
 
@@ -352,11 +355,11 @@ Grenzübertritt? Dieselben Schwachstellen gelten für unseren [Kroatien-eSIM-Gui
 
 
 
-**Halten Sie bereit:** ein entsperrtes, eSIM-fähiges Telefon ([Handy-Kompatibilitätsprüfung](/compatibility/)) sowie bei Kauf vor Ort Ihren Reisepass. Notieren Sie sich Ihre EID (`*#06#`) für Supportgespräche.
+**Halten Sie bereit:** ein entsperrtes, eSIM-fähiges Telefon (Handy-Kompatibilitätsprüfung genügt) sowie bei Kauf vor Ort Ihren Reisepass. Notieren Sie sich Ihre EID (`*#06#`) für Supportgespräche.
 
 
 
-## Telefonkompatibilität
+## Handy-Check für montenegrinische Netze
 
 
 
@@ -376,7 +379,7 @@ Alle drei montenegrinischen Netzbetreiber nutzen gewöhnliche europäische Bänd
 
 | Mainland-China-iPhone | Keine Option „eSIM hinzufügen“ verfügbar – in diesem Markt deaktiviert | Nicht behebbar; eine physische SIM-Karte bei Ankunft ist der einzige Weg |
 
-| al-SIM-Nutzer | eSIM installiert, keine Daten | Die Datenleitung muss auf die eSIM umgestellt werden. |
+| Dual-SIM-Nutzer | eSIM installiert, keine Daten | Die Datenleitung muss auf die eSIM umgestellt werden. |
 
 | Älteres Mobiltelefon | Keine EID beim Wählen von `*#06#` | Kaufen Sie eine physische SIM-Karte in einem Geschäft, nicht an einem Kiosk |
 
@@ -408,7 +411,7 @@ Touristische eSIM-Profile bringen ihren eigenen APN mit — Sie müssen nichts e
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Netzbetreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -428,11 +431,11 @@ Online-Touristenprofile sind bereits vorkonfiguriert, daher handelt es sich hier
 
 
 
-- Sie haben eine Netzbetreiber-Karte gekauft statt einer verwalteten Reise-eSIM
+- Sie haben eine m:tel-, Telekom- oder One-Karte gekauft statt ein verwaltetes Reiseprofil
 
 - Ein Profil wurde mit einem manuellen Aktivierungscode statt per QR-Scan installiert
 
-- Ein älteres Gerät, das die Netzbetreibereinstellungen nicht automatisch übernommen hat
+- Ein älteres Handy, das die APN-Werte der drei lokalen Netze nicht selbst übernommen hat
 
 - Sie sind in ein Land des westlichen Balkans eingereist und die Karte hat sich nicht neu angemeldet
 
@@ -468,17 +471,17 @@ Erledigen Sie alles zu Hause — der Vorteil einer online gekauften montenegrini
 
 | 1 | Telefon nicht an einen Netzbetreiber gebunden | Das Feld „Carrier Lock“ zeigt „Keine SIM-Beschränkungen“ an |
 
-| 2 | Das Telefon unterstützt eSIM | EID wird angezeigt von `*#06#` |
+| 2 | eSIM-Hardware vorhanden | `*#06#` zeigt eine EID an |
 
-| 3 | QR-Code gespeichert | Screenshot auf dem Handy und in der Cloud |
+| 3 | QR-Code doppelt gesichert | Kopie im Fotoalbum und im Cloud-Speicher |
 
 | 4 | Profil vor der Abreise installiert | Über das heimische WLAN installiert und bei der Landung sofort einsatzbereit |
 
-| 5 | Datenleitung und Roaming eingestellt | eSIM ist die Datenleitung, Roaming eingeschaltet |
+| 5 | Datenleitung und Roaming gesetzt | Das Montenegro-Profil trägt die Daten, Roaming ist an |
 
 | 6 | Etappen Kotor und Durmitor | Offline-Karte für die Bergpässe und die Buchtstraße |
 
-| 6 | Registrierung vollständig umgangen | Sie haben die eSIM online gekauft, sodass keine Kiosk-SIM existiert, die ungültig gemacht werden könnte |
+| 7 | Registrierung vollständig umgangen | Sie haben die eSIM online gekauft, sodass keine Kiosk-SIM existiert, die ungültig gemacht werden könnte |
 
 
 
@@ -502,7 +505,7 @@ Erledigen Sie alles zu Hause — der Vorteil einer online gekauften montenegrini
 
 
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Das Profil von m:tel oder One lässt sich nicht installieren**
 
 1. Zuerst die One-Hürde prüfen: In Einstellungen -> Allgemein -> Info muss bei „SIM-Beschränkungen“ „Keine“ stehen.
 
@@ -512,7 +515,7 @@ Erledigen Sie alles zu Hause — der Vorteil einer online gekauften montenegrini
 
 
 
-**B. Installiert, aber keine Empfangsbalken**
+**B. Profil installiert, doch das Signal fehlt**
 
 1. Schalten Sie die eSIM-Leitung aus und wieder ein.
 
@@ -522,9 +525,9 @@ Erledigen Sie alles zu Hause — der Vorteil einer online gekauften montenegrini
 
 
 
-**C. Empfangsbalken, aber kein Internet**
+**C. Empfangsbalken, doch kein Internet bei m:tel, Telekom oder One**
 
-1. Vergleichen Sie den APN mit der Netzbetreiber-Tabelle weiter oben in diesem Abschnitt.
+1. Gleichen Sie den Zugangspunkt mit der m:tel-, Telekom- und One-Tabelle weiter oben ab.
 
 2. Legen Sie die eSIM als Datenleitung fest.
 
@@ -542,7 +545,7 @@ Erledigen Sie alles zu Hause — der Vorteil einer online gekauften montenegrini
 
 3. Lassen Sie die Karte registrieren und wiederherstellen.
 
-4. Erwägen Sie den Wechsel zu einer Online-Touristen-eSIM, statt denselben Ablauf zu wiederholen.
+4. Erwägen Sie den Wechsel zu einem Online-Touristenprofil, statt denselben Ablauf zu wiederholen.
 
 
 
@@ -560,15 +563,15 @@ Halten Sie diese Informationen bereit – in Montenegro ist die Herkunft der SIM
 
 | Bestellnummer | Bestätigungs-E-Mail |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Gerätemodell und OS-Stand | iOS: Einstellungen → Allgemein → Info; Android: Einstellungen → Über das Telefon |
 
 | EID | Wählen Sie `*#06#` |
 
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Aufnehmen, solange der Dialog geöffnet ist |
 
 | Wo die SIM-Karte gekauft wurde | Kiosk-Käufe sind ein bekanntes Problem — sagen Sie das auch |
 
-| Daten-Roaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
+| Roaming-Status der Datenleitung | iOS: Einstellungen → Mobiles Netz → Montenegro-Leitung; Android: SIM-Manager → Roaming |
 
 
 
@@ -576,11 +579,11 @@ Halten Sie diese Informationen bereit – in Montenegro ist die Herkunft der SIM
 
 
 
-### Montenegro‑eSIM‑Datentarife und Preise
+### Kann man Montenegro-eSIMs online kaufen?
 
 
 
-Yes — alle drei Netzbetreiber verkaufen Touristen‑eSIMs direkt online, und die ID‑plus‑Selfie‑Verifizierung von m:tel dauert etwa 2–3 Minuten. Dies ist einer der klarsten Fälle überhaupt für eine lokale eSIM, die Sie wirklich vor der Ankunft kaufen können.
+Ja — alle drei Netzbetreiber verkaufen Touristen‑eSIMs direkt online, und die ID‑plus‑Selfie‑Verifizierung von m:tel dauert etwa 2–3 Minuten. Dies ist einer der klarsten Fälle überhaupt für eine lokale eSIM, die Sie wirklich vor der Ankunft kaufen können.
 
 
 
@@ -592,7 +595,7 @@ Rund 15 € für 500 GB über 15 Tage, 20 € für 1 TB über 30 Tage oder etwa 
 
 
 
-### Roaming mit einer Montenegro‑eSIM
+### Gilt EU-Roaming mit einer Montenegro-eSIM?
 
 
 
@@ -604,11 +607,11 @@ Nein. Montenegro ist kein EU‑Mitglied und Roam‑like‑at‑home gilt nicht �
 
 
 
-Weil sie nicht registriert wurde. SIMs, die an Kiosken und Zeitungsständen verkauft werden, müssen vor dem Einlegen registriert werden, und das System des Netzbetreibers erklärt eine nicht registrierte Leitung für ungültig, sobald sie im Netz erscheint. Bringen Sie sie mit Ihrem Reisepass in einen Store des Netzbetreibers oder kaufen Sie alternativ eine online‑Touristen‑eSIM.
+Weil sie nicht registriert wurde. SIMs, die an Kiosken und Zeitungsständen verkauft werden, müssen vor dem Einlegen registriert werden, und das System des Netzbetreibers erklärt eine nicht registrierte Leitung für ungültig, sobald sie im Netz erscheint. Bringen Sie sie mit Ihrem Reisepass in einen Store des Netzbetreibers oder kaufen Sie alternativ ein Online-Touristenprofil.
 
 
 
-### Montenegros Mobilfunknetze
+### Welches Netz hat in Montenegro die beste Abdeckung?
 
 
 
@@ -620,7 +623,7 @@ Crnogorski Telekom hat die breiteste Gesamtabdeckung und m:tel die beste Konstan
 
 
 
-Yes — Reisepass‑ oder Ausweis‑Registrierung ist gesetzlich vorgeschrieben, einschließlich eines Selfies mit Ihrem Ausweis für die eSIM‑Verifizierung von m:tel. Die Falle: Eine Kiosk‑SIM, die vor der Registrierung in ein Telefon eingelegt wird, wird vom System ungültig gemacht. Registrieren Sie sie zuerst in einer offiziellen Filiale oder kaufen Sie die eSIM online und umgehen Sie diesen Schritt.
+Ja — Reisepass‑ oder Ausweis‑Registrierung ist gesetzlich vorgeschrieben, einschließlich eines Selfies mit Ihrem Ausweis für die eSIM‑Verifizierung von m:tel. Die Falle: Eine Kiosk‑SIM, die vor der Registrierung in ein Telefon eingelegt wird, wird vom System ungültig gemacht. Registrieren Sie sie zuerst in einer offiziellen Filiale oder kaufen Sie das Profil online und umgehen Sie diesen Schritt.
 
 
 
@@ -628,7 +631,7 @@ Yes — Reisepass‑ oder Ausweis‑Registrierung ist gesetzlich vorgeschrieben,
 
 
 
-Yes — alle drei Netzbetreiber betreiben 5G, mit der besten Netzabdeckung in Podgorica und entlang der Küste. Außerhalb der Städte ist 4G die funktionierende Schicht, und in den Bergen ist es das, was das Gelände zulässt.
+Ja — alle drei Netzbetreiber betreiben 5G, mit der besten Netzabdeckung in Podgorica und entlang der Küste. Außerhalb der Städte ist 4G die funktionierende Schicht, und in den Bergen ist es das, was das Gelände zulässt.
 
 
 
@@ -648,7 +651,7 @@ Möglich, wenn Ihr Telefon Hotspot‑Tethering unterstützt — prüfen Sie die 
 
 
 
-### Montenegro‑eSIM‑Empfehlungen, Reise für Reise
+### Wie viele GB brauche ich in Montenegro?
 
 
 
@@ -656,7 +659,7 @@ Weniger als Sie denken, gemessen an den Volumen — 5–10 GB decken Karten, Mes
 
 
 
-### Wer hat die breiteste Netzabdeckung in Montenegro?
+### Wann wird das Netz in Montenegro langsam?
 
 
 
@@ -680,7 +683,7 @@ Wenn Sie damit einverstanden sind, ein Ausweisfoto in das Portal eines lokalen N
 
 
 
-### Wie viel Daten benötige ich in Montenegro?
+### Welcher Tarif ist der Standard bei allen drei Netzbetreibern?
 
 
 
@@ -688,7 +691,7 @@ Es ist der Standard‑Touristentarif bei allen drei Netzbetreibern, und er ist r
 
 
 
-### Wer hat das schnellste Netz in Montenegro?
+### Wie starte ich in Montenegro am schnellsten durch?
 
 
 
@@ -704,7 +707,7 @@ Nur für lokale Anrufe. Hotels, Apartments und Reiseveranstalter in Montenegro k
 
 
 
-Weitere Fragen? [View full FAQ](/faq/)
+Offene Fragen? Im [FAQ-Überblick](/faq/) beantworten wir alle Punkte zur eSIM in Montenegro.
 
 
 
@@ -736,13 +739,13 @@ Alles oben Genannte ist eine unabhängige Messung. Hier entscheidet das Gelände
 
 
 
-Kaufen Sie die Touristen‑eSIM online, installieren Sie sie zu Hause und landen Sie in Tivat oder Podgorica mit 500 GB, ohne Schalterbesuch und ohne unregistrierte Kiosk‑SIM. Starten Sie mit einem [Try before you buy](/free-esim/) oder wählen Sie einen Tarif auf der [Montenegro‑eSIM‑Seite](/montenegro-esim/). Weiter die Adria hinunter? Unsere [Albanien‑eSIM‑Seite](/albania-esim/) deckt den nächsten Abschnitt ab.
+Kaufen Sie die Touristen‑eSIM online, installieren Sie sie zu Hause und landen Sie in Tivat oder Podgorica mit 500 GB, ohne Schalterbesuch und ohne unregistrierte Kiosk‑SIM. Starten Sie mit einem [Testen, bevor Sie kaufen](/free-esim/) oder wählen Sie einen Tarif auf der Montenegro-eSIM-Seite. Weiter die Adria hinunter? Unsere [Albanien‑eSIM‑Seite](/albania-esim/) deckt den nächsten Abschnitt ab.
 
 
 
-[Montenegro‑Tarif auswählen](/montenegro-esim/) · [Mit dem kostenlosen Test starten](/free-esim/) · [Montenegro‑eSIM‑Seite](/montenegro-esim/)
+[Montenegro-Tarif auswählen](/montenegro-esim/) · [Mit dem kostenlosen Test starten](/free-esim/) · Tarifvergleich weiter oben auf dieser Seite
 
 
 
-One letzte Prüfung vor der Abreise: Ihr Telefon auf der [eSIM‑Kompatibilitätsseite](/compatibility/), dann starten Sie mit einem Roami [kostenlosen Roami‑Test](/free-esim/) und beobachten Sie, wie die eSIM‑Kompatibilität Ihre Route behandelt. Wenn das funktioniert, nimmt Sie der Code **WEB20** 20 % auf jeden kostenpflichtigen Roami‑Tarif für Montenegro.
+Eine letzte Prüfung vor der Abreise: Ihr Telefon auf der eSIM-Kompatibilitätsseite, dann starten Sie mit einem Roami kostenlosen Roami-Test und beobachten Sie, wie die eSIM‑Kompatibilität Ihre Route behandelt. Wenn das funktioniert, nimmt Sie der Code **WEB20** 20 % auf jeden kostenpflichtigen Roami‑Tarif für Montenegro.
 

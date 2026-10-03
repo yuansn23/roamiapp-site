@@ -27,7 +27,7 @@ Unsicher, ob Ihr Gerät unterstützt wird oder wie die Installation abläuft? Pr
 
 ### Vodafone vs T-Mobile vs O2 für Reisende
 
-Drei Netzbetreiber besitzen die Sendemasten, und sie sind ungewöhnlich gleichmäßig aufgestellt: T-Mobile CZ ist nach Teilnehmern der größte (rund 40 Prozent Marktanteil), O2 CZ ist der ehemalige staatliche Platzhirsch mit der größten Gesamtverbindungsbasis, und Vodafone CZ — das frühere Oskar-Netz — komplettiert das Trio. Reguliert vom Tschechischen Telekommunikationsamt (ČTÚ), betreiben alle drei ausgereifte 4G-Netze und 5G im städtischen Maßstab, und ihre Prepaid-Preise unterscheiden sich auf Einstiegsniveau nur um wenige Hundert Kronen.
+Drei Netzbetreiber besitzen in Tschechien die Sendemasten, und sie sind ungewöhnlich gleichmäßig aufgestellt: T-Mobile CZ ist nach Teilnehmern der größte (rund 40 Prozent Marktanteil), O2 CZ ist der ehemalige staatliche Platzhirsch mit der größten Gesamtverbindungsbasis, und Vodafone CZ — das frühere Oskar-Netz — komplettiert das Trio. Reguliert vom Tschechischen Telekommunikationsamt (ČTÚ), betreiben alle drei ausgereifte 4G-Netze und 5G im städtischen Maßstab, und ihre Prepaid-Preise unterscheiden sich auf Einstiegsniveau nur um wenige Hundert Kronen.
 
 | | Vodafone CZ | T-Mobile CZ | O2 CZ |
 |:---|:---|:---|:---|
@@ -41,7 +41,7 @@ Behandeln Sie die Angaben der einzelnen Netzbetreiber als das, was sie sind: unt
 
 ### Die Starterpakete der drei Netzbetreiber
 
-Die Einstiegspreise bewegen sich hier in einer engen Spanne, sodass das Datenvolumen und die Gültigkeitsdauer die eigentlichen Unterscheidungsmerkmale sind und nicht die Schlagzeile mit der Krone.
+Die Einstiegspreise bewegen sich in Tschechien in einer engen Spanne, sodass das Datenvolumen und die Gültigkeitsdauer die eigentlichen Unterscheidungsmerkmale sind und nicht die Schlagzeile mit der Krone.
 
 | Einsteiger | Netzbetreiber | Preis | Was ist enthalten | eSIM-Hinweis |
 |:---|:---|:---|:---|:---|
@@ -72,7 +72,7 @@ Die Szene der virtuellen Betreiber in Tschechien gehört zu den dichtesten in Eu
 
 Für einen Besucher ist die MVNO-Schicht eher eine Kuriosität als eine echte Option: Die meisten Marken verkaufen über tschechischsprachige Apps und Kioske ohne englischen Support, und die Ersparnis gegenüber einem 299-CZK-Startpaket ist gering. Der einzige relevante Punkt ist die Netzwerkvererbung — eine Kaktus-SIM ist hinsichtlich der Netzabdeckung eine T-Mobile-SIM, und ebenso jedes eSIM-Profil für die Tschechische Republik, das darauf einbucht — was ab dem Moment wichtig wird, in dem Sie Prag verlassen.
 
-## Netzabdeckung in Prag und im Rest des Landes
+## Netzabdeckung in Tschechien: Prag und der Rest des Landes
 
 ### Was die tschechische Hauptstadt tatsächlich liefert
 
@@ -84,11 +84,11 @@ Der Flughafen ist ähnlich reibungslos: Vodafone betreibt Shops in den Terminals
 
 ### Die Regionalstädte von Brünn bis Pilsen
 
-Brünn, Ostrava, Pilsen und Olmütz liegen alle innerhalb dichter 4G- und aktiver 5G-Abdeckung aller drei Netze, und die Autobahn- und Bahnstrecken, die sie mit Prag verbinden, bleiben bei Geschwindigkeit nutzbar. In diesem Teil der Karte hört die Wahl des Netzbetreibers tatsächlich auf, eine Rolle zu spielen: Unabhängige, für 2026 zusammengefasste Studien beschreiben T-Mobile als das Netz mit der besten landesweiten 4G/5G-Netzabdeckung, während O2 das schnellste 5G in Prag liefert und Vodafone die weiteste 5G-Verbreitung — drei verschiedene Siege, ein wettbewerbsintensiver Markt.
+Brünn, Ostrava, Pilsen und Olmütz liegen alle innerhalb dichter 4G- und aktiver 5G-Abdeckung aller drei Netze, und die Autobahn- und Bahnstrecken, die sie mit Prag verbinden, bleiben bei Geschwindigkeit nutzbar. In diesem Teil Tschechiens hört die Wahl des Netzbetreibers tatsächlich auf, eine Rolle zu spielen: Unabhängige, für 2026 zusammengefasste Studien beschreiben T-Mobile als das Netz mit der besten landesweiten 4G/5G-Netzabdeckung, während O2 das schnellste 5G in Prag liefert und Vodafone die weiteste 5G-Verbreitung — drei verschiedene Siege, ein wettbewerbsintensiver Markt.
 
-Die praktische Konsequenz ist, dass ein Single-Network-Profil innerhalb dieser Städte nicht offensichtlich benachteiligt ist, wohl aber auf dem Weg zwischen ihnen — ein gesperrtes Profil kann auf einem schwächeren Netzbetreiber sitzen, während ein besserer vom selben Hügel aus sendet.
+Die praktische Konsequenz ist, dass ein Single-Network-Profil innerhalb dieser Städte nicht offensichtlich benachteiligt ist, wohl aber auf dem Weg zwischen ihnen — ein gesperrtes Profil kann in Tschechien auf einem schwächeren Netzbetreiber sitzen, während ein besserer vom selben Hügel aus sendet.
 
-### Ländliche Netzabdeckung von Böhmen bis Mähren
+### Ländliche Netzabdeckung in Tschechien von Böhmen bis Mähren
 
 | Region | Realität vor Ort | Beste Wahl | Worauf Sie achten sollten |
 |:---|:---|:---|:---|
@@ -110,7 +110,7 @@ Die praktische Konsequenz ist, dass ein Single-Network-Profil innerhalb dieser S
 
 ## Tagesausflüge von Prag und was Ihre eSIM dort leistet
 
-Prag ist die Basis für die meisten Reiserouten durch Tschechien, und auf der Karte der Tagesausflüge zeigt sich, ob eine [Tschechien-eSIM](/czech-republic-esim/) ihren Dienst tut oder nicht. Das Schienennetz strahlt von der Hauptstadt aus, daher ist fast jeder klassische Ausflug eher eine Zugfahrt als eine Autofahrt.
+Prag ist die Basis für die meisten Reiserouten durch Tschechien, und auf der Karte der Tagesausflüge zeigt sich, ob eine Tschechien-eSIM ihren Dienst tut oder nicht. Das Schienennetz strahlt von der Hauptstadt aus, daher ist fast jeder klassische Ausflug eher eine Zugfahrt als eine Autofahrt.
 
 ### Die richtige eSIM für die Tschechische Republik für jeden Ausflug
 
@@ -126,7 +126,7 @@ Prag ist die Basis für die meisten Reiserouten durch Tschechien, und auf der Ka
 | Olmütz | Etwa 2 Std. 15 | Durchgehend auf der Hauptstrecke und durch das Zentrum | T-Mobile oder O2 |
 | Liberec und Ještěd | Etwa 2 Stunden mit dem Zug | In der Stadt gut ausgebaut; der Ještěd-Kamm ist die schwache Stelle | T-Mobile |
 
-### Wie viel Datenvolumen die Ausflüge brauchen
+### Wie viel Datenvolumen Tagesausflüge in Tschechien brauchen
 
 Ein Tarif, der für die Hauptstadt dimensioniert ist, ist meistens auch für die Ausflüge dimensioniert, weil die gleichen Gewohnheiten mit Ihnen in den Zug reisen:
 
@@ -155,7 +155,7 @@ Die Tschechischen Bahnen bieten in vielen Fernverkehrszügen kostenloses WLAN an
 | Prag–München | Etwa 5 Std. 40 über Pilsen und Regensburg | WLAN im Zug sowie für den Großteil der Fahrt nutzbare mobile Datenverbindung | Die Strecke durch den Bayerischen Wald bei der Anfahrt nach Pilsen |
 | Prag–Krakau | Etwa 7 bis 8 Stunden über Ostrava und Bohumín | Ab Bohumín polnische Netzbetreiber | Ein ganzer Tag: Sie benötigen einen Tarif, der beide Länder abdeckt |
 
-Für einen Tagesausflug nach Český Krumlov oder Karlovy Vary statt einer Bahn-Odyssee genügt jede eSIM eines großen Netzbetreibers — lassen Sie das Telefon einfach an jedem Halt neu ins Netz einbuchen, anstatt mit einem gesperrten Einzelnetz-Profil zu kämpfen.
+Für einen Tagesausflug nach Český Krumlov oder Karlovy Vary statt einer Bahn-Odyssee genügt in Tschechien jede eSIM eines großen Netzbetreibers — lassen Sie das Telefon einfach an jedem Halt neu ins Netz einbuchen, anstatt mit einem gesperrten Einzelnetz-Profil zu kämpfen. Geht die Route über die Grenze — Prag–Wien, Prag–Berlin oder ein Abstecher nach Dresden — trägt das EU-Roaming eines tschechischen Prepaid-Guthabens zunächst weiter; für mehr als ein paar Tage lohnen sich eigene [Österreich-Tarife](/austria-esim/) oder die [Deutschland-eSIM](/germany-esim/).
 
 ## Was lokale SIM und Reise-eSIM kosten
 
@@ -170,7 +170,7 @@ Tschechiens Durchschnitt von 3,12 USD pro Gigabyte belegt Platz 193 von 237 Mär
 | Slowakei | 2,68 | 182. | Fast so teuer wie Tschechien selbst |
 | Tschechische Republik | 3,12 | 193. | Teuerstes in seiner Region, allerdings immer noch unter den US- und kanadischen Tarifen |
 
-Die praktische Lesart: Kaufen Sie Ihr Datenvolumen vor oder bei der Ankunft, denn der lokale Preis ist nicht das Schnäppchen, das der Ruf der Region vermuten lässt. Eine in der Tschechischen Republik online erworbene eSIM kostet typischerweise zwischen 10 und 20 US-Dollar für 10 GB über 30 Tage und unterbietet damit jeden Einstiegstarif außer der Twist-eSIM für 150 CZK. Sparen Sie sich das Preis-Suchen und konzentrieren Sie sich lieber auf die Netzabdeckung als auf Kronen.
+Die praktische Lesart: Kaufen Sie Ihr Datenvolumen vor oder bei der Ankunft, denn der lokale Preis ist nicht das Schnäppchen, das der Ruf Tschechiens vermuten lässt. Eine in der Tschechischen Republik online erworbene eSIM kostet typischerweise zwischen 10 und 20 US-Dollar für 10 GB über 30 Tage und unterbietet damit jeden Einstiegstarif außer der Twist-eSIM für 150 CZK. Sparen Sie sich das Preis-Suchen und konzentrieren Sie sich lieber auf die Netzabdeckung als auf Kronen.
 
 ## SIM-Kauf und Registrierung in Tschechien
 
@@ -197,7 +197,7 @@ Die Self-Service-Route jedes Betreibers funktioniert wie folgt:
 
 Beim reinen Preis haben die tschechischen Starterpakete die Nase vorn, was die Kosten pro Gigabyte angeht, und ein tschechisches Prepaid-Guthaben bietet sogar einen gewissen Roaming-Wert in der EU/EWR. Die Reise-eSIM gewinnt in jeder anderen Hinsicht: sofortige Bereitstellung, keine Ausweispflicht, keine tschechischsprachige App und automatisches Wechseln zwischen allen drei Netzen. Wenn Sie die Wahl auf die Reiseroute und die Reisedauer abstimmen, ergibt sich die richtige eSIM für die Tschechische Republik von selbst.
 
-### Wie viel Datenvolumen Ihre Reiseart braucht
+### Wie viel Datenvolumen Ihre Tschechien-Reise braucht
 
 | Reiseart | Empfohlenes Datenvolumen | Begründung |
 |:---|:---|:---|
@@ -226,7 +226,7 @@ Das Muster ist klar: Alles, was innerhalb einer App läuft, funktioniert über D
 
 ### Aufladen einer tschechischen Prepaid-eSIM-Karte
 
-Aufladungen sind innerhalb Tschechiens einfach und von außerhalb eher umständlich – das ist es wert, im Voraus zu wissen, bevor Sie sich auf eine lokale Nummer festlegen.
+Nachladen ist innerhalb Tschechiens einfach und von außerhalb eher umständlich – das ist es wert, im Voraus zu wissen, bevor Sie sich auf eine lokale Nummer festlegen.
 
 | Methode | Wo es funktioniert | Welche Netzbetreiber | Hinweise |
 |:---|:---|:---|:---|
@@ -237,15 +237,15 @@ Aufladungen sind innerhalb Tschechiens einfach und von außerhalb eher umständl
 | Filiale des Netzbetreibers | Markenläden in jeder größeren Stadt | Alle drei | Das Personal kann Sie auch auf ein Daten-Add-on umstellen |
 | Karte online aus dem Ausland | Webseiten der Netzbetreiber | Manche | Nicht-tschechische Karten werden häufig abgelehnt — der Hauptgrund, warum eine Reise-eSIM einfacher ist |
 
-Eine wiederkehrende Falle: Ungenutztes Guthaben verfällt, wenn Sie nicht mehr aufladen, und Netzbetreiber sperren eine Karte nach wenigen Monaten Inaktivität. Bei einer ein bis zweiwöchigen Reise merkt man das nie. Wenn Sie eine tschechische Nummer zwischen den Besuchen behalten möchten, richten Sie sich eine Erinnerung ein.
+Eine wiederkehrende Falle: Ungenutztes Guthaben verfällt, wenn Sie nicht mehr aufladen, und Netzbetreiber sperren eine Karte nach wenigen Monaten Inaktivität. Bei ein bis zwei Wochen in Tschechien merkt man das nie. Wenn Sie eine tschechische Nummer zwischen den Besuchen behalten möchten, richten Sie sich eine Erinnerung ein.
 
 ## eSIM-Kompatibilität mit 5G-Bändern und Gerätesperren
 
 ### Tschechische eSIM-Bänder und die zwei entscheidenden Prüfungen
 
-Die drei Netze teilen sich eine gemeinsame europäische Bandbasis — **LTE-Bänder 1, 3, 7, 8 und 20**, wobei Band 20 (800 MHz) die Reichweite im ländlichen Raum sicherstellt — und bauen 5G hauptsächlich auf **n78 bei 3500 MHz** auf. O2 betreibt zusätzlich einen TDD-Block bei 3700 MHz, und Vodafone nutzt 5G ebenfalls auf n3 (1800 MHz), wodurch Mid-Band-5G in mehr Regionen verfügbar wird. Praktisch jedes europäische und internationale Flaggschiff der letzten Jahre unterstützt alles davon, und anders als in einigen Märkten gibt es kein exotisches Band, das Reisenden mit hoher Wahrscheinlichkeit fehlt.
+Die drei Netze teilen sich in Tschechien eine gemeinsame europäische Bandbasis — **LTE-Bänder 1, 3, 7, 8 und 20**, wobei Band 20 (800 MHz) die Reichweite im ländlichen Raum sicherstellt — und bauen 5G hauptsächlich auf **n78 bei 3500 MHz** auf. O2 betreibt zusätzlich einen TDD-Block bei 3700 MHz, und Vodafone nutzt 5G ebenfalls auf n3 (1800 MHz), wodurch Mid-Band-5G in mehr Regionen verfügbar wird. Praktisch jedes europäische und internationale Flaggschiff der letzten Jahre unterstützt alles davon, und anders als in einigen Märkten gibt es kein exotisches Band, das Reisenden mit hoher Wahrscheinlichkeit fehlt.
 
-Die üblichen zwei Prüfungen gelten weiterhin. Stellen Sie sicher, dass das Telefon nicht an einen Netzbetreiber gebunden ist — Einstellungen → Allgemein → Info → Netzbetreiber-Sperre sollte „Keine SIM-Beschränkungen“ anzeigen — und prüfen Sie die eSIM-Unterstützung anhand der EID, die erscheint, wenn Sie `*#06#` wählen, oder direkt über das [eSIM-Kompatibilitätstool](/compatibility/). iPhones für das chinesische Festland haben eSIM hardwareseitig deaktiviert und können kein Profil installieren. Ein gesperrtes Telefon ist der mit Abstand häufigste Grund, warum eine eSIM für die Tschechische Republik nicht installiert werden kann, also klären Sie das vor dem Kauf.
+Die üblichen zwei Prüfungen gelten weiterhin. Stellen Sie sicher, dass das Telefon nicht an einen Netzbetreiber gebunden ist — Einstellungen → Allgemein → Info → Netzbetreiber-Sperre sollte „Keine SIM-Beschränkungen“ anzeigen — und prüfen Sie die eSIM-Unterstützung anhand der EID und der IMEI, die erscheinen, wenn Sie `*#06#` wählen, oder direkt über das eSIM-Kompatibilitätstool. iPhones für das chinesische Festland haben eSIM hardwareseitig deaktiviert und können kein Profil installieren. Ein gesperrtes Telefon ist der mit Abstand häufigste Grund, warum eine eSIM für die Tschechische Republik nicht installiert werden kann, also klären Sie das vor dem Kauf.
 
 ## Wie schnell ist eine eSIM in der Tschechischen Republik in der Praxis?
 
@@ -261,11 +261,11 @@ Die nationalen Zahlen stammen aus dem Speedtest Global Index von Ookla für **Au
 | Median 5G-Download | 160,54 Mbps (51.) | — |
 | Medianer fixer Download | 91,69 Mbps (84.) | 129,68 Mbps |
 
-Das Land liegt bei der reinen Geschwindigkeit unter dem globalen Median, übertrifft diesen jedoch bei der Latenz – die 19 ms sind der Grund, warum Anrufe, Gaming und Karten auch dann reaktionsschnell wirken, wenn die beworbenen Mbps-Werte eher durchschnittlich ausfallen. DataReportal zählt **14,8 Millionen Mobilfunkanschlüsse**, was etwa 139 Prozent der Bevölkerung entspricht, sowie 10,1 Millionen Internetnutzer (94,2 Prozent Durchdringung) – es handelt sich also um einen gesättigten Markt, in dem die Netzbetreiber über das Erlebnis konkurrieren und nicht darüber, ob es überhaupt eine Netzabdeckung gibt.
+Tschechien liegt bei der reinen Geschwindigkeit unter dem globalen Median, übertrifft diesen jedoch bei der Latenz – die 19 ms sind der Grund, warum Anrufe, Gaming und Karten auch dann reaktionsschnell wirken, wenn die beworbenen Mbps-Werte eher durchschnittlich ausfallen. DataReportal zählt **14,8 Millionen Mobilfunkanschlüsse**, was etwa 139 Prozent der Bevölkerung entspricht, sowie 10,1 Millionen Internetnutzer (94,2 Prozent Durchdringung) – es handelt sich also um einen gesättigten Markt, in dem die Netzbetreiber über das Erlebnis konkurrieren und nicht darüber, ob es überhaupt eine Netzabdeckung gibt.
 
 ### Was Opensignal über die Netze misst
 
-Wo sie sich unterscheiden, ist der Unterschied erfahrbar, und Opensignals Tschechien-Bericht vom Februar 2025 trennt die Anbieter schärfer als jede Marketing-Seite: T-Mobile erhielt die Auszeichnung „Bestes Netz“ und gewann 12 von 14 Awards, während O2 Vodafone als Gewinner der 5G-Netzabdeckungs-Erfahrung ablöste und nun gemeinsam mit Vodafone an der Spitze bei der 5G-Verfügbarkeit liegt, vor T-Mobile. Das eigene Modernisierungsprogramm von O2 brachte es auf 5.300 5G-Basisstationen, die laut eigenen Angaben 96 Prozent der Bevölkerung abdecken.
+Wo sie sich unterscheiden, ist der Unterschied erfahrbar, und Opensignals Tschechien-Bericht vom Februar 2025 trennt die Anbieter schärfer als jede Marketing-Seite: T-Mobile erhielt die Auszeichnung „Bestes Netz“ und gewann 12 von 14 Auszeichnungen, während O2 Vodafone als Gewinner der 5G-Netzabdeckungs-Erfahrung ablöste und nun gemeinsam mit Vodafone an der Spitze bei der 5G-Verfügbarkeit liegt, vor T-Mobile. Das eigene Modernisierungsprogramm von O2 brachte es auf 5.300 5G-Basisstationen, die laut eigenen Angaben 96 Prozent der Bevölkerung abdecken.
 
 Für Inhaber einer Tschechien-eSIM ist die praktische Übersetzung kurz. In Prag werden Sie den Unterschied nicht bemerken, unabhängig davon, welches Netz Sie nutzen. In einem Regionalzug zwischen Brünn und Ostrava oder oberhalb der Baumgrenze im Böhmerwald könnte es anders aussehen – und genau dort zahlt sich ein Profil aus, das den stärksten Netzbetreiber erneut auswählen kann.
 
@@ -281,15 +281,14 @@ Drei Gewohnheiten ergeben sich aus dieser Tabelle:
 
 - **Bei einem Einzelnetz-Tarif** übernehmen Sie exakt die ländliche Netzabdeckung eines einzigen Netzbetreibers.
 - **Bei einer Multi-Netz-eSIM für die Tschechische Republik** meldet sich das Profil automatisch neu an, wenn Sie zwischen Funkzellen wechseln.
-- **In beiden Fällen** beseitigt kein Tarif Empfangsprobleme in einem steinernen Keller oder auf einem Bergkamm.
+- **In beiden Fällen** beseitigt kein Tarif in Tschechien Empfangsprobleme in einem steinernen Keller oder auf einem Bergkamm.
 
 ## APN-Einstellungen für alle drei tschechischen Netzbetreiber
 
-### Die APN-Werte im Überblick
-
+### Die APN-Werte von T-Mobile, O2 und Vodafone
 Eine Reise-eSIM wird mit einer bereits im Profil hinterlegten APN ausgeliefert – ändern Sie diese nicht. Diese Werte gelten nur, wenn Sie Ihre Tschechien-eSIM direkt bei einem Netzbetreiber gekauft haben und die automatische Konfiguration nicht erfolgt ist.
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Tschechischer Netzbetreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 |:---|:---|:---|:---|
 | Vodafone CZ | `internet` | leer | leer |
 | T-Mobile CZ | `internet.t-mobile.cz` | leer | leer |
@@ -311,11 +310,11 @@ Bestätigen Sie, dass die eSIM die ausgewählte Mobilfunkdaten-Leitung ist und d
 
 ### Wenn die Verbindung da ist aber nichts lädt
 
-Prepaid-Guthaben verfällt hier in den meisten Fällen, statt stillschweigend gedrosselt zu werden — wenn die Geschwindigkeit einbricht oder die Daten stoppen, prüfen Sie zunächst Ihr verbleibendes Paket in der App des Netzbetreibers oder über einen USSD-Guthabencode (Vodafone antwortet `*111#`). Ein aufgeladenes, aber nicht aktiviertes Datenpaket ist der klassische Touristenfehler: Guthaben ist kein Datentarif.
+Prepaid-Guthaben verfällt in Tschechien in den meisten Fällen, statt stillschweigend gedrosselt zu werden — wenn die Geschwindigkeit einbricht oder die Daten stoppen, prüfen Sie zunächst Ihr verbleibendes Paket in der App des Netzbetreibers oder über einen USSD-Guthabencode (Vodafone antwortet `*111#`). Ein aufgeladenes, aber nicht aktiviertes Datenpaket ist der klassische Touristenfehler: Guthaben ist kein Datentarif.
 
 ### Wenn das Signal in Kellern und Menschenmengen stirbt
 
-Menschenmengen in der Altstadt, tiefe Steinkeller und regionale Bahntunnel fressen auf jedem Netz das Signal. Bewegen Sie sich, gehen Sie über die Erdoberfläche oder warten Sie — das ist Physik, keine Konfiguration. Halten Sie Ihre Bestellnummer, EID und einen Screenshot bereit, falls Sie den Support kontaktieren, und notieren Sie, welche Schritte Sie bereits versucht haben.
+Menschenmengen in der Prager Altstadt, tiefe Steinkeller und regionale Bahntunnel in Tschechien fressen auf jedem Netz das Signal. Bewegen Sie sich, gehen Sie über die Erdoberfläche oder warten Sie — das ist Physik, keine Konfiguration. Halten Sie Ihre Bestellnummer, EID und einen Screenshot bereit, falls Sie den Support kontaktieren, und notieren Sie, welche Schritte Sie bereits versucht haben.
 
 ## Was Besucher vor der Buchung fragen
 
@@ -337,7 +336,7 @@ T-Mobile CZ wird am häufigsten für die landesweite Reichweite genannt, einschl
 
 ### Funktioniert eine tschechische eSIM in der Slowakei oder in Deutschland?
 
-Ja. Als EU-Mitgliedstaat gilt in Tschechien das Roam-like-at-home-Framework: Ein tschechisches Prepaid-Guthaben kann in der gesamten EU und im EWR ohne Aufpreis genutzt werden, innerhalb der Fair-Use-Grenzen. Für eine Reise Prag plus Wien oder Prag plus Berlin deckt eine tschechische SIM oder eine Mehrländer-Reise-eSIM die gesamte Route ab.
+Ja. Als EU-Mitgliedstaat gilt in Tschechien das Roam-like-at-home-Framework: Ein tschechisches Prepaid-Guthaben kann in der gesamten EU und im EWR ohne Aufpreis genutzt werden, innerhalb der Fair-Use-Grenzen. Für eine Reise Prag plus Wien oder Prag plus Berlin deckt eine tschechische SIM oder ein [Europa-Tarif](/europe-esim/) die gesamte Route ab.
 
 ### Unterstützt Kaktus eSIM?
 
@@ -353,11 +352,11 @@ Ja, bei den Netzbetreibern selbst: Eine Prepaid-SIM oder eSIM — Twist, Go Kart
 
 ### Besteht Ihr Telefon den Kompatibilitäts-Check?
 
-Ja – wenn es entsperrt und eSIM-fähig ist. Tschechische Netze nutzen die europäischen Standard-LTE-Bänder (1, 3, 7, 8, 20) und 5G auf n78 bei 3500 MHz, was praktisch alle internationalen Flaggschiffe unterstützen. Überprüfen Sie Ihr Modell in der [Kompatibilitätsliste](/compatibility/), bevor Sie kaufen.
+Ja – wenn es entsperrt und eSIM-kompatibel ist. Tschechische Netze nutzen die europäischen Standard-LTE-Bänder (1, 3, 7, 8, 20) und 5G auf n78 bei 3500 MHz, was praktisch alle internationalen Flaggschiffe unterstützen. Überprüfen Sie Ihr Modell in der [Kompatibilitätsliste](/compatibility/), bevor Sie kaufen.
 
 ### Wie gehen Sie bei Aktivierungsproblemen vor?
 
-Führen Sie die vier tschechienspezifischen Muster oben aus — Verifikationsstatus, Datenleitung und Roaming-Schalter, Paketaktivierung und dann Standort — und nutzen Sie [unseren vollständigen Fehlerbehebungsleitfaden](/faq/esim-activation-errors-troubleshooting-guide/) für den gesamten Fehlerkatalog. Bestellnummer, EID und ein Screenshot des Fehlers beschleunigen jeden Support-Kontakt erheblich.
+Führen Sie die vier Muster für Tschechien oben aus — Verifikationsstatus, Datenleitung und Roaming-Schalter, Paketaktivierung und dann Standort — und nutzen Sie [unseren vollständigen Fehlerbehebungsleitfaden](/faq/esim-activation-errors-troubleshooting-guide/) für den gesamten Fehlerkatalog. Bestellnummer, EID und ein Screenshot des Fehlers beschleunigen jeden Support-Kontakt erheblich.
 
 ## Die Quellen hinter jeder Zahl dieses Leitfadens
 
@@ -369,8 +368,8 @@ Führen Sie die vier tschechienspezifischen Muster oben aus — Verifikationssta
 
 LTE- und 5G-NR-Bänder folgen der tschechischen Bandtabelle von FrequencyCheck und der eigenen Netzwerkdokumentation der Netzbetreiber, und die Fahrzeiten der Bahn folgen den veröffentlichten Fahrplänen von ČD, ÖBB und den Betreibern. Keine Zahl auf dieser Seite stammt aus eigener Messung; jede lässt sich auf eine namentlich genannte öffentliche Quelle zurückführen, und die tatsächlichen Ergebnisse variieren je nach Gerät, Band und lokaler Netzlast.
 
-## Installieren Sie zu Hause und landen Sie verbunden
+## Installieren Sie zu Hause und landen Sie in Tschechien verbunden
 
-Ein Profil, drei Netze, null Kiosk-Schlangen: zu Hause installieren, verbunden ankommen und die eSIM überall das stärkste tschechische Netz wählen lassen — Prager Platz oder Landstraße in Südböhmen. Starten Sie mit dem [kostenlosen Netzabdeckungstest](/free-esim/) und bestellen Sie anschließend [Ihre Tschechien-eSIM](/czech-republic-esim/). Verwenden Sie den Code **WEB20** für 20 Prozent Rabatt auf Ihren ersten Tarif.
+Ein Profil, drei Netze, null Kiosk-Schlangen: zu Hause installieren, verbunden ankommen und die eSIM in Tschechien überall das stärkste Netz wählen lassen — Prager Platz oder Landstraße in Südböhmen. Starten Sie mit dem [kostenlosen Netzabdeckungstest](/free-esim/) und bestellen Sie anschließend [Ihre Tschechien-eSIM](/czech-republic-esim/). Verwenden Sie den Code **WEB20** für 20 Prozent Rabatt auf Ihren ersten Tarif.
 
-Wenn Sie lieber testen möchten, bevor Sie sich festlegen, läuft die [Beispiel-eSIM](/free-esim/) von Roami in denselben Netzen, die dieser Leitfaden vergleicht — einschließlich Vodafone CZ. **WEB20** bringt 20 % Rabatt auf einen kostenpflichtigen Tschechische-Republik-Tarif für Erstkunden von Roami.
+Wenn Sie lieber testen möchten, bevor Sie sich festlegen, läuft die Beispiel-eSIM von Roami in denselben Netzen, die dieser Leitfaden vergleicht — einschließlich Vodafone CZ. **WEB20** bringt 20 % Rabatt auf einen kostenpflichtigen Tschechische-Republik-Tarif für Erstkunden von Roami.

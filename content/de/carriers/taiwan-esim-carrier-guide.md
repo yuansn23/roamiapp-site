@@ -2,7 +2,7 @@
 
 title: "Chunghwa vs Taiwan Mobile vs FarEasTone: Taiwan eSIM"
 
-description: "Roami vergleicht Chunghwa Telecom und Taiwan Mobile, damit Ihre Taiwan, China eSIM vom Taipei MRT bis zu den Straßen von Alishan den richtigen Netzbetreiber nutzt."
+description: "Taiwan, China eSIM im Vergleich: Chunghwa Telecom, Taiwan Mobile und FarEasTone nach Netzabdeckung, Preisen und Registrierung."
 image: "img/esim/carriers/taiwan-esim-carrier-guide.jpg"
 
 date: "2026-09-23T07:39:56+00:00"
@@ -42,7 +42,7 @@ Eine Taiwan eSIM kann tatsächlich unbegrenzt sein und bereits vor dem Flug geka
 
 
 
-**Das Urteil vorweg:** Chunghwa Telecom ist der klare Leistungsführer – Ookla's H2-2025-Bericht zu Taiwan maß im Median 346 Mbps 5G-Download und 94,5 % Konsistenz in diesem Netz, das beste auf der Insel. Taiwan Mobile ist der starke urbane Allrounder, und FarEasTone liefert ernsthafte 5G-Geschwindigkeit (257 Mbps im Median) zu budgetfreundlichen Preisen. Kaufen Sie Ihre Taiwan, China eSIM online vor der Abreise, installieren Sie sie zu Hause und umgehen Sie die Schlange am Flughafen Taoyuan komplett. Testen Sie das Setup risikofrei mit einer [kostenlosen Test-eSIM](/free-esim/) und nutzen Sie dann den Code **WEB20** für 20 % Rabatt auf Ihren ersten Tarif.
+**Das Urteil vorweg:** Chunghwa Telecom ist der klare Leistungsführer – Der H2-2025-Bericht von Ookla zu Taiwan maß im Median 346 Mbps 5G-Download und 94,5 % Konsistenz in diesem Netz, das beste auf der Insel. Taiwan Mobile ist der starke urbane Allrounder, und FarEasTone liefert ernsthafte 5G-Geschwindigkeit (257 Mbps im Median) zu budgetfreundlichen Preisen. Kaufen Sie Ihre Taiwan, China eSIM online vor der Abreise, installieren Sie sie zu Hause und umgehen Sie die Schlange am Flughafen Taoyuan komplett. Testen Sie das Setup risikofrei mit einer [kostenlosen Test-eSIM](/free-esim/) und nutzen Sie dann den Code **WEB20** für 20 % Rabatt auf Ihren ersten Tarif.
 
 
 
@@ -58,11 +58,11 @@ Erstens: Die drei landesweiten Netzbetreiber – Chunghwa Telecom, Taiwan Mobile
 
 
 
-Zweitens: Die Insel ist klein, dicht besiedelt und stark ausgebaut, daher sind Funklöcher selten und eng. Laut Ookla's globalem Index vom August 2026 liegt der Medianwert für mobile Downloads bei **110,74 Mbps, Platz 44 weltweit** – deutlich über dem globalen Median von 109,05 Mbps, und dieser Wert wird durch Bergwanderwege nach unten gezogen, nicht durch Städte. Die Preisumfrage von Cable.co.uk beziffert 1 GB lokale Daten auf etwa **0,69 USD**, Platz 71 von 237 Märkten im Vergleich zum globalen Durchschnitt von 2,59 USD.
+Zweitens: Die Insel ist klein, dicht besiedelt und stark ausgebaut, daher sind Funklöcher selten und eng. Laut dem globalen Index von Ookla vom August 2026 liegt der Medianwert für mobile Downloads bei **110,74 Mbps, Platz 44 weltweit** – deutlich über dem globalen Median von 109,05 Mbps, und dieser Wert wird durch Bergwanderwege nach unten gezogen, nicht durch Städte. Die Preisumfrage von Cable.co.uk beziffert 1 GB lokale Daten auf etwa **0,69 USD**, Platz 71 von 237 Märkten im Vergleich zum globalen Durchschnitt von 2,59 USD.
 
 
 
-Wenn Sie noch nicht bestätigt haben, dass Ihr Gerät überhaupt digitale SIM-Profile unterstützt, führen Sie es zunächst durch die [Telefon-Kompatibilitätsliste](/compatibility/) – alles andere in diesem Guide setzt voraus, dass dieser Punkt abgehakt ist.
+Wenn Sie noch nicht bestätigt haben, dass Ihr Gerät überhaupt digitale SIM-Profile unterstützt, führen Sie es zunächst durch die Telefon-Kompatibilitätsliste – alles andere in diesem Guide setzt voraus, dass dieser Punkt abgehakt ist.
 
 
 
@@ -206,7 +206,7 @@ Unabhängig vom gewählten Weg gilt die Regelung zur namentlichen Registrierung:
 
 
 
-## Was jeder Tarif kostet
+## Was Taiwan-Tarife pro Tag kosten
 
 
 
@@ -246,7 +246,7 @@ Das sichere Muster: kaufen Sie einen maßvollen Unlimited-Tarif für das Handy, 
 
 
 
-| Duration | Preis | Kosten pro Tag |
+| Laufzeit | Preis | Kosten pro Tag |
 
 |:---|:---|:---|
 
@@ -260,7 +260,24 @@ Das sichere Muster: kaufen Sie einen maßvollen Unlimited-Tarif für das Handy, 
 
 
 
-Die Tageskosten sinken mit zunehmender Laufzeit – das ist die höfliche Umschreibung dafür, dass die langen Tarifstufen unterteuert sind: Ein Monat unbegrenzte taiwanesische Daten kostet in etwa das, was ein einziger Roaming-Tag bei vielen Heimnetzbetreibern ausmacht. Das erklärt auch, warum die kurzen Tarifstufen zuerst ausverkauft sind – die Arbitrage läuft in die andere Richtung.
+Die Tageskosten sinken mit zunehmender Laufzeit – das ist die höfliche Umschreibung dafür, dass die langen Tarifstufen unterteuert sind: Ein Monat unbegrenzte taiwanesische Daten kostet in etwa das, was ein einziger Roaming-Tag bei vielen Heimnetzbetreibern ausmacht. Die Tageskosten sinken mit zunehmender Laufzeit – das ist die höfliche Umschreibung dafür, dass die langen Tarifstufen unterteuert sind: Ein Monat unbegrenzte taiwanesische Daten kostet in etwa das, was ein einziger Roaming-Tag bei vielen Heimnetzbetreibern ausmacht. Das erklärt auch, warum die kurzen Tarifstufen zuerst ausverkauft sind – die Arbitrage läuft in die andere Richtung.
+
+
+
+**Kostenrechnung: eine Woche Taipei plus Ostküste.** Ein 7-Tage-Tarif von Chunghwa kostet NT$500, also rund 16 US-Dollar für unbegrenzte Inlandsdaten – umgerechnet etwa NT$71 pro Tag. Wer zum selben Preis die 5-Tage-Stufe nimmt, verschenkt zwei Tage, weil Chunghwa beide Stufen identisch bepreist. Für zwei gemeinsam Reisende sind zwei getrennte Profile die robustere Wahl: Jeder Kauf registriert eine eigene Reisepassnummer, und das Teilen einer einzigen Leitung verdoppelt nur die Fehlerquellen.
+
+
+
+| Reiseform | Passender Tarif | Rechnung |
+|:---|:---|:---|
+| Drei Tage Taipei | 3-Tage-4G-Paket | NT$300 (~9 US$), unbegrenzt in der Stadt |
+| Eine Woche Küste und Berge | 7-Tage-4G-Paket | NT$500 (~16 US$), rund NT$71 pro Tag |
+| Zwei Wochen Inselrundfahrt | 15-Tage-4G-Paket | NT$700 (~22 US$), rund NT$47 pro Tag |
+| Ein Monat mobiles Arbeiten | 30-Tage-Paket | NT$1.000 (~31 US$), rund NT$33 pro Tag |
+
+
+
+**Wann eine lokale Schalter-SIM doch besser ist.** Die ehrliche Grenze: Ein Reiseprofil ist ein reiner Datentarif ohne taiwanische Rufnummer. Wer für eine Bank-App, eine Hotelbuchung oder einen Lieferdienst eine lokale Nummer braucht, wer mehr als zwei Geräte gleichzeitig versorgen möchte oder wer den Tarif vor Ort verlängern will, fährt mit einem Schalterkauf bei Chunghwa oder Taiwan Mobile besser – vorausgesetzt, Sie bringen den Reisepass mit und nehmen die Schalterzeiten bis etwa 21:30 Uhr in Kauf.
 
 
 
@@ -290,11 +307,11 @@ Die Tageskosten sinken mit zunehmender Laufzeit – das ist die höfliche Umschr
 
 
 
-One Hinweis zur Registrierung: Lokale Netzbetreiber operieren unter den Regeln der National Communications Commission (NCC), die für SIM-Produkte eine Verifizierung mit echtem Namen vorschreiben. Touristentarife erledigen dies beim Kauf mit der Reisepassnummer – digital oder am Schalter – halten Sie also in jedem Fall Ihren Reisepass bereit.
+Ein Hinweis zur Registrierung: Lokale Netzbetreiber operieren unter den Regeln der National Communications Commission (NCC), die für SIM-Produkte eine Verifizierung mit echtem Namen vorschreiben. Touristentarife erledigen dies beim Kauf mit der Reisepassnummer – digital oder am Schalter – halten Sie also in jedem Fall Ihren Reisepass bereit.
 
 
 
-## Welchen Netzbetreiber sollten Sie wählen?
+## Welches Netz passt zu welcher Reiseetappe?
 
 
 
@@ -330,7 +347,7 @@ Zwei strukturelle Hinweise, die die Tabelle nicht zeigen kann. Der Hochgeschwind
 
 | Taipeh langes Wochenende, 3–4 Tage | 300 NT$ Chunghwa 4G-Tarif oder eine Reise-eSIM | Der günstigste Tarif deckt den Aufenthalt bereits ab | Die Schalter am Flughafen schließen gegen 21:30 Uhr |
 
-| One-Wochen-Classic-Rundreise mit HSR | 7-Tage-4G-Datenpaket für NT$500 | Unbegrenztes Datenvolumen für die gesamte Rundreise | Die 5-Tage-Option kostet ebenfalls NT$300 — wählen Sie die größere Variante, wenn es passt |
+| Einwöchige Klassik-Rundreise mit HSR | 7-Tage-4G-Datenpaket für NT$500 | Unbegrenztes Datenvolumen für die gesamte Rundreise | Die 5-Tage-Option kostet ebenfalls NT$300 — wählen Sie die größere Variante, wenn es passt |
 
 | Fahrten durch Alishan und das zentrale Bergland | Chunghwa-Netztarif | Beste ländliche Netzabdeckung und konstante Verbindung | Funklöcher oberhalb der Baumgrenze bei jedem Netzbetreiber |
 
@@ -342,13 +359,13 @@ Zwei strukturelle Hinweise, die die Tabelle nicht zeigen kann. Der Hochgeschwind
 
 | Nachtmarkt-Food-Tour, viele Social-Media-Videos | Jede Unlimited-Variante | Die Nutzung ist nur relevant, wenn die Fair-Use-Klausel dies vorsieht | Lesen Sie die Klausel, nicht das Marketingwort |
 
-| Familie, mehrere Geräte | One Profil pro Telefon | Günstiger und stabiler als das Zusammenfassen | Jeder Kauf registriert einen Reisepass |
+| Familie, mehrere Geräte | Ein Profil pro Telefon | Günstiger und stabiler als das Zusammenfassen | Jeder Kauf registriert einen Reisepass |
 
 | Kaohsiung und die Küste von Kenting | Taiwan Mobile oder FarEasTone Stufe | Die südlichen Städte werden von allen drei Netzbetreibern gut versorgt | Leere Küstenabschnitte dünnen die Netzabdeckung aus |
 
 
 
-## Regionale Netzabdeckung
+## Wo auf der Insel der Empfang hält – und wo nicht
 
 
 
@@ -414,7 +431,7 @@ Von Juli bis Oktober ist Taifunsaison, und ein direkter Treffer reißt Teile des
 
 
 
-One regionaler Hinweis, der in der Saison wichtig ist: Die Verbindungen der Außeninseln zum Festland-Stromnetz sind die verwundbaren Ränder des Systems, daher erholen sich Green Island, Lanyu und Teile von Penghu nach einem Sturm am langsamsten. Falls Ihre Route diese Inseln in den Taifunmonaten einschließt, behandeln Sie den Tag nach dem Sturm standardmäßig als offline und freuen Sie sich, falls wider Erwarten doch ein Signal funktioniert.
+Ein regionaler Hinweis, der in der Saison wichtig ist: Die Verbindungen der Außeninseln zum Festland-Stromnetz sind die verwundbaren Ränder des Systems, daher erholen sich Green Island, Lanyu und Teile von Penghu nach einem Sturm am langsamsten. Falls Ihre Route diese Inseln in den Taifunmonaten einschließt, behandeln Sie den Tag nach dem Sturm standardmäßig als offline und freuen Sie sich, falls wider Erwarten doch ein Signal funktioniert.
 
 
 
@@ -426,7 +443,7 @@ Praktische Vorbereitungen am Abend vor einem angekündigten Sturm: Laden Sie all
 
 
 
-Die Einrichtung folgt dem üblichen Fernablauf: kaufen, den QR-Code oder den One-Tap-Install-Link erhalten, die Leitung in den Einstellungen hinzufügen, als Datenleitung festlegen, Datenroaming aktivieren. Erledigen Sie das zu Hause. In den Einstellungen lautet die vollständige Reihenfolge:
+Die Einrichtung folgt dem üblichen Fernablauf: kaufen, den QR-Code oder den Ein-Klick-Installationslink erhalten, die Leitung in den Einstellungen hinzufügen, als Datenleitung festlegen, Datenroaming aktivieren. Erledigen Sie das zu Hause. In den Einstellungen lautet die vollständige Reihenfolge:
 
 
 
@@ -452,15 +469,15 @@ Der taiwanspezifische Fehler ist fast immer frequenzbandbezogen und nicht abdeck
 
 
 
-**APN-Einstellungen, kurz.** Touristenprofile sind hier digital und vorkonfiguriert, und alle drei Netzbetreiber spielen die Konfiguration auf moderne Geräte — das Feld für den Zugangspunkt ist also etwas, das Sie nicht selbst suchen müssen. Es erscheint nur in Randfällen: eine vor Ort gekaufte SIM auf einem älteren Gerät oder ein manueller Aktivierungscode. Der [Leitfaden zur Aktivierungs-Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/) behandelt diese Fälle.
+**APN-Einstellungen, kurz.** Touristenprofile sind hier digital und vorkonfiguriert, und alle drei Netzbetreiber spielen die Konfiguration auf moderne Geräte — das Feld für den Zugangspunkt ist also etwas, das Sie nicht selbst suchen müssen. Es erscheint nur in Randfällen: eine vor Ort gekaufte SIM auf einem älteren Gerät oder ein manueller Aktivierungscode. Der Leitfaden zur Aktivierungs-Fehlerbehebung behandelt diese Fälle.
 
 
 
-## Three Fehlerbilder, die nur bei Reisen nach Taiwan, China auftreten
+## Drei Fehlerbilder, die nur bei Reisen nach Taiwan, China auftreten
 
 
 
-**A. Das eSIM-Menü ist auf einem Vertragshandy gesperrt.** Über Ratenkauf oder Vertrag bei einem lokalen Netzbetreiber erworbene Geräte haben die eSIM-Funktion oft deaktiviert, bis der Vertrag abgeschlossen ist — das klassische Symptom ist eine ausgegraute Option „eSIM hinzufügen" auf einem Gerät, das ansonsten modern und für physische SIM-Karten entsperrt ist. Ein gebrauchtes Telefon mit Ursprung in Taiwan, China verdient vor der Nutzung als Reise-Profil eine zusätzliche Prüfung anhand der [Gerätekompatibilitätsreferenz](/compatibility/), und ein gesperrtes Gerät benötigt zunächst die Freigabe seines ursprünglichen Netzbetreibers.
+**A. Das eSIM-Menü ist auf einem Vertragshandy gesperrt.** Über Ratenkauf oder Vertrag bei einem lokalen Netzbetreiber erworbene Geräte haben die eSIM-Funktion oft deaktiviert, bis der Vertrag abgeschlossen ist — das klassische Symptom ist eine ausgegraute Option „eSIM hinzufügen" auf einem Gerät, das ansonsten modern und für physische SIM-Karten entsperrt ist. Ein gebrauchtes Telefon mit Ursprung in Taiwan, China verdient vor der Nutzung als Reise-Profil eine zusätzliche Prüfung anhand der Gerätekompatibilitätsreferenz, und ein gesperrtes Gerät benötigt zunächst die Freigabe seines ursprünglichen Netzbetreibers.
 
 
 
@@ -486,15 +503,15 @@ Keines der drei ist ein Abdeckungsfehler, und genau darin liegt das wiederkehren
 
 | Bestell- oder Gutscheinnummer | Bestätigungs-E-Mail oder Reseller-App |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Gerätemodell und Android- bzw. iOS-Version | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
 
 | EID | `*#06#` |
 
-| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Bild der Fehlermeldung | Sofort sichern, solange der Dialog noch offen ist – das sehen Chunghwa und Taiwan Mobile im Chat zuerst |
 
 | Reisepassnummer zur Registrierung | Der beim Kauf verwendete Reisepass |
 
-| Daten-Roaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Datenroaming der Insel-Leitung | Einstellungen → Mobilfunk → Chunghwa- oder Taiwan-Mobile-Leitung → Datenroaming |
 
 
 
@@ -502,15 +519,15 @@ Keines der drei ist ein Abdeckungsfehler, und genau darin liegt das wiederkehren
 
 
 
-### Reise-eSIM oder lokale SIM in Taiwan?
+### Sind unbegrenzte Datentarife in Taiwan die Regel?
 
 
 
-Yes – unbegrenzte Touristentarife sind ein Standardprodukt aller drei Netzbetreiber, erhältlich entweder an Flughafenschaltern oder als digitales Profil. Der ehrliche Hinweis betrifft die Fair-Use-Klausel: Prüfen Sie, ob Ihr Tarif wirklich unbegrenzt ist oder ob er ein High-Speed-Volumen mit anschließender Drosselung enthält. Für eine ein- bis zweiwöchige Reise mit normaler touristischer Nutzung funktioniert beides; Vielstreamer sollten die Klausel lesen.
+Ja – unbegrenzte Touristentarife sind ein Standardprodukt aller drei Netzbetreiber, erhältlich entweder an Flughafenschaltern oder als digitales Profil. Der ehrliche Hinweis betrifft die Fair-Use-Klausel: Prüfen Sie, ob Ihr Tarif wirklich unbegrenzt ist oder ob er ein High-Speed-Volumen mit anschließender Drosselung enthält. Für eine ein- bis zweiwöchige Reise mit normaler touristischer Nutzung funktioniert beides; Vielstreamer sollten die Klausel lesen.
 
 
 
-### eSIM-Tarifpreise in Taiwan
+### Welche Karte lohnt sich für Berge, Städte oder kleines Budget?
 
 
 
@@ -518,7 +535,7 @@ Chunghwa, wenn Ihre Route Berge, die Ostküste oder ländliche Gebiete einschlie
 
 
 
-### Welcher Netzbetreiber gewinnt beim Tempo in Taiwan?
+### Wie zuverlässig ist das Netz auf der HSR-Strecke?
 
 
 
@@ -526,7 +543,7 @@ Die Metropolregionen Taipeh und Kaohsiung sind über die Plattformen abgedeckt, 
 
 
 
-### Welche Ausweise funktionieren für den SIM-Kauf in Taiwan?
+### Brauche ich für den SIM-Kauf in Taiwan einen Ausweis?
 
 
 
@@ -538,7 +555,7 @@ Für Schalterkäufe: ja – es gelten die Regeln zur Realnamensregistrierung, un
 
 
 
-Yes, und das sollten Sie auch. Halten Sie Ihre Heim-SIM für Anrufe und SMS-Verifizierungscodes aktiv, leiten Sie mobile Daten an die taiwanesische Leitung und schalten Sie Datenroaming auf der Heim-SIM aus, damit sie still bleibt. Die meisten datenonly-Touristenprofile können keine SMS empfangen, daher gehen Banking-Codes weiterhin auf Ihrer Heimatnummer ein – genau wie es sein soll.
+Ja, und das sollten Sie auch. Halten Sie Ihre Heim-SIM für Anrufe und SMS-Verifizierungscodes aktiv, leiten Sie mobile Daten an die taiwanesische Leitung und schalten Sie Datenroaming auf der Heim-SIM aus, damit sie still bleibt. Die meisten datenonly-Touristenprofile können keine SMS empfangen, daher gehen Banking-Codes weiterhin auf Ihrer Heimatnummer ein – genau wie es sein soll.
 
 
 
@@ -572,11 +589,11 @@ Falls Ihre Reise auf das Festland führt – Xiamen liegt vom Kinmen aus sichtba
 
 
 
-### Ausweisanforderungen für den SIM-Kauf in Taiwan
+### Welche Dokumente verlangt FarEasTone beim SIM-Kauf?
 
 
 
-FarEasTone's Touristenkäufe verlangen einen Reisepass plus ein zweites Ausweisdokument – Führerschein, Visum oder Einreiseerlaubnis –, während die meisten anderen Schalter den Reisepass allein registrieren. Ein zweites Lichtbilddokument bei sich zu haben kostet nichts und erspart die eine Papierüberraschung, die diese Reise bereithalten kann.
+Die Touristenkäufe bei FarEasTone verlangen einen Reisepass plus ein zweites Ausweisdokument – Führerschein, Visum oder Einreiseerlaubnis –, während die meisten anderen Schalter den Reisepass allein registrieren. Ein zweites Lichtbilddokument bei sich zu haben kostet nichts und erspart die eine Papierüberraschung, die diese Reise bereithalten kann.
 
 
 
@@ -596,7 +613,7 @@ Nein – jeder ist ein eigener Telekommunikationsmarkt, und ein taiwanesischer T
 
 
 
-### 5G in Taiwan: Wer bietet was
+### Reicht in Taiwan 4G, oder brauche ich ein 5G-Handy?
 
 
 
@@ -612,7 +629,7 @@ Nein. Die Flughafenschalter bedienen internationale Ankünfte den ganzen Tag auf
 
 
 
-### Die Netzbetreiber-Landschaft in Taiwan
+### Welcher Netzbetreiber in Taiwan ist durchweg der beste?
 
 
 
@@ -632,7 +649,7 @@ Nur über Tethering, und nur wenn die Tarifklausel es erlaubt – die Chunghwa 5
 
 
 
-- **Ookla Speedtest Connectivity Report – Taiwan H2 2025** – [der pro-Netzbetreiber-Bericht](https://www.ookla.com/research/reports/taiwan-speedtest-connectivity-report-tw-h2-2025) liefert jede oben zitierte netzwerkbezogene Kennzahl, einschließlich Chunghwa's 346 Mbps medianem 5G-Download und 94,5 % Konstanz.
+- **Ookla Speedtest Connectivity Report – Taiwan H2 2025** – [der pro-Netzbetreiber-Bericht](https://www.ookla.com/research/reports/taiwan-speedtest-connectivity-report-tw-h2-2025) liefert jede oben zitierte netzwerkbezogene Kennzahl, einschließlich des 346-Mbps-Median-5G-Downloads von Chunghwa und 94,5 % Konstanz.
 
 - **Ookla Speedtest Global Index** – [der Taiwan-Eintrag](https://www.speedtest.net/global-index/taiwan) verfolgt das nationale Median von 110,74 Mbps und sein weltweites Ranking Monat für Monat.
 
@@ -664,5 +681,5 @@ Bevor Sie losfliegen, der gesamte Leitfaden in einem Atemzug: Prüfen Sie das Te
 
 
 
-Sie wollen vor dem Bezahlen vergleichen? Roami's [kostenlose Test-eSIM](/free-esim/) deckt die oben genannten Netzbetreiber in ganz Taiwan ab, während **WEB20** 20 % auf Ihren ersten vollständigen Roami-Tarif rabattiert. Fragen zur Kompatibilität? Eine One-minütige Prüfung mit dem [Checker](/compatibility/) klärt es.
+Sie wollen vor dem Bezahlen vergleichen? Roamis kostenlose Test-eSIM deckt die oben genannten Netzbetreiber in ganz Taiwan ab, während **WEB20** 20 % auf Ihren ersten vollständigen Roami-Tarif rabattiert. Fragen zur Kompatibilität? Eine einminütige Prüfung klärt es.
 

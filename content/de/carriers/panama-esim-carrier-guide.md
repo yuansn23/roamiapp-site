@@ -18,7 +18,7 @@ hero_subtitle_main: "+Móvil, Tigo, Claro und Digicel im Test"
 
 Eine Panama eSIM hat einen klaren Favoriten und einen steilen Flughafen-Aufschlag, und dieser Leitfaden behandelt beides — plus die Reisepass-Registrierungspflicht, die jeder Besucher auslöst. Panama ist das mittelamerikanische Land, in dem die Netzbetreiber-Frage eine klare Antwort hat (+Móvil besitzt die breiteste Netzabdeckung), die Flughafen-Frage ebenfalls eine klare Antwort hat (eine 7-tägige unbegrenzte Touristen-SIM kostet etwa **$30 am Tocumen und $10 oder weniger in der Stadt** — der steilste Flughafen-Aufschlag in der Region), und die Registrierungsregel eindeutig ist: **Die Reisepass-Registrierung für jede SIM ist gesetzlich vorgeschrieben.** Dieser Leitfaden behandelt die vier Anbieter — einschließlich Digicel, das vierte Netz, das in den neuesten Artikeln stillschweigend weggelassen wird — die Inseln, an denen die Netzabdeckung endet, und die Währungsbesonderheit, die Preisvergleiche hier ungewöhnlich einfach macht: Panama rechnet in US-Dollar.
 
-**Schnelle Antwort:** Die meisten Reisenden in Panama werden mit den lokalen Netzen am glücklichsten; Reise-eSIMs lohnen sich bei knapperem Budget und reinen Städtereisen. Bestätigen Sie Ihr Gerät im [Kompatibilitäts-Checker](/compatibility/), bevor Sie alles andere erledigen — der in Panama am häufigsten übersprungene Schritt.
+**Schnelle Antwort:** Die meisten Reisenden werden hier mit den lokalen Netzen am glücklichsten; Verwaltete Profile lohnen sich bei knapperem Budget und reinen Städtereisen. Bestätigen Sie Ihr Gerät mit einem Kompatibilitätswerkzeug, bevor Sie alles andere erledigen — der am häufigsten übersprungene Schritt.
 
 Unsicher, ob Ihr Handy eine eSIM unterstützt? Ein einziger Blick in den [eSIM-Kompatibilitätstest](/compatibility/) klärt es.
 
@@ -26,27 +26,27 @@ Unsicher, ob Ihr Handy eine eSIM unterstützt? Ein einziger Blick in den [eSIM-K
 
 ## +Móvil gegen den Rest im Vergleich für Ihre Reise
 
-| Die Reise | Passender Netzbetreiber | Warum |
+| Ihre Panamareise | Passendes Netz | Begründung |
 |:---|:---|:---|
 | Panama-Stadt und der Kanal-Korridor | Beliebig — alle vier versorgen die Hauptstadt | +Móvil ist bei der Konstanz knapp vorne; Überlastung ist der einzige Feind |
 | Landesweite Reisen (David – Boquete – Santiago) | +Móvil | Das einzige Netz, das auch außerhalb des städtischen Korridors zuverlässig bleibt |
 | Bocas-del-Toro-Archipel | +Móvil oder Digicel | Die Hauptinsel ist abgedeckt; kleinere Inseln sind bei allen Anbietern nur lückenhaft versorgt |
 | San Blas (Guna Yala) | Plan für Offline-Nutzung | Netzabdeckung ist auf die Hauptinseln beschränkt und auch dort nur eingeschränkt verfügbar |
-| Darién und abgelegener Dschungel | Kein Netz – Satellitenverbindung einplanen | Dies ist bei jedem Netzbetreiber funklochfreies Niemandsland |
+| Darién und abgelegener Dschungel | Kein Netz – Satellitenverbindung einplanen | Hier gibt es bei keinem Netzbetreiber Versorgung, weil schlicht keine Straße und kein Mast hinkommt |
 | Transitreise durch den Kanal auf einer Kreuzfahrt | Beliebig | Der Empfang folgt den Schleusen, nicht dem Gewässer dazwischen |
 | Surftrip nach Santa Catalina oder Playa Venao | +Móvil | Die Küstenorte sind versorgt; die Straßen an der Küste zwischen den Orten sind es nicht |
 
-💡 Eine Multi-Netzwerk-[Panama eSIM](/panama-esim/) wählt automatisch den stärksten Netzbetreiber, während Sie zwischen der Hauptstadt und dem Landesinneren unterwegs sind – die praktische Lösung für ein Land, in dem sich die ländlichen Netze der vier Anbieter kaum überschneiden.
+💡 Eine Multi-Netzwerk-[Reise-eSIM für Panama](/panama-esim/) wählt automatisch den stärksten Netzbetreiber, während Sie zwischen der Hauptstadt und dem Landesinneren unterwegs sind – die praktische Lösung für ein Land, in dem sich die ländlichen Netze der vier Anbieter kaum überschneiden.
 
 ## Die vier Netzbetreiber im echten Vergleich
 
 ### Alle vier Netze mit eSIM im Überblick
 
-Panama hat vier aktive Netze statt drei, und die entscheidende Variable ist weniger, welche Marke Sie wählen, sondern wo Sie Ihre Panama eSIM oder SIM-Karte kaufen.
+Panama hat vier aktive Netze statt drei, und die entscheidende Variable ist weniger, welche Marke Sie wählen, sondern wo Sie Ihre Reise-eSIM oder SIM-Karte kaufen.
 
 | | +Móvil | Tigo | Claro | Digicel |
 |:---|:---|:---|:---|:---|
-| Muttergesellschaft | Cable & Wireless Panama | Millicom (umbenannt Movistar) | América Móvil | karibisch verwurzelte Gruppe |
+| Muttergesellschaft | Cable & Wireless Panama | Millicom (aus Movistar Panama hervorgegangen) | América Móvil | karibisch verwurzelte Gruppe |
 | Landesweite Netzabdeckung | Die größte | In Städten stark, in ländlichen Gebieten dünner | In Städten stark, in ländlichen Gebieten dünner | In der Stadt gut ausgebaut, auf dem Land dünn |
 | Kanal-Korridor | Zuverlässig | Gut | Gut | Gut |
 | Archipel | Beste der vier | Lückenhaft | Lückenhaft | Bocas Hauptinsel |
@@ -77,7 +77,7 @@ Digicel ist in Panama weiterhin als vierter Mobilfunknetzbetreiber tätig — ei
 | Filialen der Netzbetreiber in der Stadt und Einkaufszentren-Kioske (Albrook, Multiplaza) | **~10 $ oder weniger für ähnliche Pakete** | SIM-Karte selbst 3–5 $; gleiche Registrierung, günstigerer Preis |
 | Supermärkte und Minimärkte | SIM + Aufladen zu lokalen Tarifen | Registrierung weiterhin erforderlich |
 
-**Die Registrierung ist bei allen vier Anbietern gleich:** Die Vorlage eines gültigen Reisepasses zur Registrierung einer SIM-Karte ist in Panama eine gesetzliche Pflicht und wird an jeder Verkaufsstelle kontrolliert — an Kiosken am Flughafen, in Geschäften der Netzbetreiber, in Supermärkten wie Riba Smith und El Rey, in Apotheken und in kleinen Eckläden. Der Mitarbeiter erfasst Ihre Passdaten; die Aktivierung erfolgt in der Regel sofort.
+**Die Registrierung ist bei allen vier Anbietern gleich:** Die Vorlage eines gültigen Reisepasses zur Registrierung einer SIM-Karte ist hier eine gesetzliche Pflicht und wird an jeder Verkaufsstelle kontrolliert — an Kiosken am Flughafen, in Geschäften der Netzbetreiber, in Supermärkten wie Riba Smith und El Rey, in Apotheken und in kleinen Eckläden. Der Mitarbeiter erfasst Ihre Passdaten; die Aktivierung erfolgt in der Regel sofort.
 
 ### Wo sollten Sie Ihre Panama eSIM kaufen?
 
@@ -92,7 +92,7 @@ Digicel ist in Panama weiterhin als vierter Mobilfunknetzbetreiber tätig — ei
 
 ## Der Tocumen-Flughafen-SIM-Aufschlag und wie Sie ihn umgehen
 
-Der internationale Flughafen Tocumen ist der Ort, an dem die meisten Besucher erstmals mit der Frage nach der Panama eSIM in Berührung kommen — und er ist gleichzeitig der teuerste Preismesser des Landes.
+Der internationale Flughafen Tocumen ist der Ort, an dem die meisten Besucher erstmals mit der Frage nach der Reise-eSIM in Berührung kommen — und er ist gleichzeitig der teuerste Preismesser des Landes.
 
 ### Die Preisrechnung am Tocumen mit Kiosk und Stadtladen
 
@@ -100,17 +100,17 @@ Der internationale Flughafen Tocumen ist der Ort, an dem die meisten Besucher er
 - **Ein Paar:** doppelt so viel Wartezeit, doppelt so viel Aufschlag — etwa 40 $ extra.
 - **Eine Familie mit drei Personen:** der Kauf am Flughafen kostet rund **60 $ mehr** als dieselben drei SIM-Karten, die in der Stadt gekauft werden.
 
-Die zwei sauberen Umgehungswege: kaufen Sie am ersten Tag eine SIM in einem Ladengeschäft in der Stadt, wenn Ihre Ankunft tagsüber erfolgt, oder installieren Sie eine [Panama eSIM](/panama-esim/), die Sie noch vor dem Flug online erwerben — kein Schalter, kein Aufschlag, und die Daten funktionieren schon am Gate. Eine vorab gekaufte Panama eSIM umgeht den Aufschlag komplett.
+Die zwei sauberen Umgehungswege: kaufen Sie am ersten Tag eine SIM in einem Ladengeschäft in der Stadt, wenn Ihre Ankunft tagsüber erfolgt, oder installieren Sie eine Reise-eSIM, die Sie noch vor dem Flug online erwerben — kein Schalter, kein Aufschlag, und die Daten funktionieren schon am Gate. Eine vorab gekaufte Reise-eSIM umgeht den Aufschlag komplett.
 
 ### Warum der SIM-Aufschlag am Flughafen Tocumen in Panama existiert
 
-Drei Faktoren wirken in Panama auf eine Weise zusammen, wie sie es in den meisten Ländern nicht tun:
+Drei Faktoren wirken hier zusammen, wie in kaum einem anderen Land:
 
 1. **Die Kioske am Flughafen Tocumen sind eine Konzession, kein Netzbetreiber-Laden.** Der Betreiber, der sie führt, kalkuliert für Transitpassagiere, die keine Alternative haben.
 2. **Die Stadt ist nah.** Panama-Stadt liegt nur 25–35 Minuten vom Flughafen entfernt, sodass das Zeitfenster des „gefangenen Publikums“ kurz ist — die Kioske kalkulieren jedoch so, als wäre es das nicht.
 3. **Nachtankünfte sind häufig.** Transatlantikflüge und Flüge von der US-Westküste landen nach Mitternacht, wenn die Ladengeschäfte in der Stadt bereits geschlossen sind und die Kioske die einzige Option darstellen — allerdings schließen diese gegen 00:30 Uhr.
 
-**Die praktische Regel:** wenn Ihr Flug zwischen ungefähr 05:30 und 00:30 Uhr landet und Sie eine lokale SIM möchten, warten Sie dennoch auf die Stadt. Landet er außerhalb dieser Zeiten, können Sie am Flughafen gar keine SIM kaufen — was die Frage zugunsten einer vorab installierten Panama eSIM entscheidet.
+**Die praktische Regel:** wenn Ihr Flug zwischen ungefähr 05:30 und 00:30 Uhr landet und Sie eine lokale SIM möchten, warten Sie dennoch auf die Stadt. Landet er außerhalb dieser Zeiten, können Sie am Flughafen gar keine SIM kaufen — was die Frage zugunsten einer vorab installierten Reise-eSIM entscheidet.
 
 ## Die Netzabdeckung der vier Netzbetreiber
 
@@ -139,7 +139,7 @@ Verlängern Sie die Reise? Die gleichen Übersichten gibt es auch für unseren [
 
 ## Drei Wege zur SIM in Panama
 
-| Route | Was es braucht | Am besten geeignet für |
+| Bezugsweg in Panama | Was nötig ist | Für wen |
 |:---|:---|:---|
 | Reise-eSIM online vor dem Abflug kaufen | Über WLAN installieren, Roaming bei der Landung aktivieren | Die meisten Reisenden — umgehen den Aufpreis von 30 $ am Flughafen vollständig |
 | Filiale oder Kiosk im Einkaufszentrum vor Ort am ersten Tag | Passregistrierung, ca. 10 $ | Reisende, die eine lokale Nummer und die größten lokalen Datentarife wünschen |
@@ -149,7 +149,7 @@ Verlängern Sie die Reise? Die gleichen Übersichten gibt es auch für unseren [
 
 Das ist die Route, die die Flughafen-Gebühr von 30 $ und die nächtliche Funkstille am Tocumen komplett umgeht.
 
-1. Prüfen Sie das Gerät mit dem [Kompatibilitäts-Checker](/compatibility/): entsperrt und eSIM-fähig.
+1. Prüfen Sie das Gerät mit der [Kompatibilitätsprüfung vor dem Kauf](/compatibility/): entsperrt und eSIM-fähig.
 2. Die Installation gehört ins heimische WLAN; benennen Sie die Linie „Panama-Daten“, damit sie leicht zu erkennen ist.
 3. Mobilfunkdaten darauf einstellen und **Datenroaming** aktivieren.
 4. Landung in Tocumen, das Profil verbindet sich — kein Schalter, keine Warteschlange, keine 30-$-Taxe.
@@ -170,15 +170,15 @@ Das ist die Route, die die Flughafen-Gebühr von 30 $ und die nächtliche Funkst
 3. Die Reisepass-Registrierung erfolgt direkt vor Ort.
 4. Beachten Sie die Öffnungszeiten: ungefähr 05:30–00:30, eine Ankunft um 02:00 findet hier also gar keinen offenen Schalter.
 
-**Vor dem Kauf.** Prüfen Sie zwei Dinge — das Gerät ist entsperrt und eSIM-fähig ([eSIM-Kompatibilitäts-Checker](/compatibility/)), und Sie haben Ihre EID notiert (`*#06#`). Installieren Sie vorgekaufte Profile vor der Abreise. Ein lokaler Hinweis: WhatsApp ist in Panama die Standardebene für Anrufe und Nachrichten, eine reine Daten-eSIM deckt also nahezu jede praktische Kommunikation ab.
+**Vor dem Kauf.** Prüfen Sie zwei Dinge — das Gerät ist entsperrt und eSIM-fähig, und Sie haben Ihre EID notiert (`*#06#`). Installieren Sie vorgekaufte Profile vor der Abreise. Ein lokaler Hinweis: WhatsApp ist in Panama die Standardebene für Anrufe und Nachrichten, ein reiner Datentarif deckt also nahezu jede praktische Kommunikation ab.
 
 ## Panama-eSIM-Gerätecheck
 
 ### Ist mein Telefon für eine Panama-eSIM geeignet?
 
-Panama nutzt die üblichen amerikanischen Frequenzen, die die meisten internationalen Geräte problemlos unterstützen. Wo es Probleme gibt:
+Panama nutzt die üblichen nordamerikanischen Frequenzbänder, die die meisten internationalen Geräte problemlos unterstützen. Wo es Probleme gibt:
 
-| Gerätesituation | Symptom | Was zu tun ist |
+| Panama-Fall | Was Sie sehen | Was hilft |
 |:---|:---|:---|
 | Netzbetreiber-gebundenes Handy | Installation schlägt fehl oder die Leitung zeigt keinen Empfang | Vereinbaren Sie die Entsperrung vorab mit Ihrem Heimnetzbetreiber |
 | iPhone für Festlandchina | Keine Option „eSIM hinzufügen“ verfügbar — in diesem Markt deaktiviert | Nicht behebbar — holen Sie eine physische SIM-Karte am Tocumen |
@@ -188,7 +188,7 @@ Panama nutzt die üblichen amerikanischen Frequenzen, die die meisten internatio
 
 ### Was Sie vor dem Kauf prüfen sollten
 
-Prüfen Sie dies, bevor Sie irgendetwas bezahlen — ein netzbetreibergesperrtes Gerät lässt sich aus Panama heraus nicht entsperren.
+Prüfen Sie dies, bevor Sie irgendetwas bezahlen — ein netzbetreibergesperrtes Gerät lässt sich vor Ort nicht entsperren.
 
 - Wählen Sie `*#06#`. Eine **EID** bestätigt, dass das Gerät über eSIM-Hardware verfügt.
 - iPhone: **Netzbetreiber-Sperre** unter Einstellungen → Allgemein → Info — ohne den Eintrag „Keine SIM-Beschränkungen“ lässt sich das Profil nicht installieren.
@@ -198,7 +198,7 @@ Prüfen Sie dies, bevor Sie irgendetwas bezahlen — ein netzbetreibergesperrtes
 
 Reise-eSIM-Profile bringen ihren eigenen APN mit — bitte nichts verändern. Für lokal gekaufte SIM-Karten, bei denen die Datenverbindung nicht funktioniert:
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Panamaisches Netz | Zugangspunkt (APN) | Nutzer | Kennwort |
 |:---|:---|:---|:---|
 | +Móvil | `plus` (gemäß +Móvil-Anweisungen) | leer | leer |
 | Tigo | `internet.tigo.pa` | leer | leer |
@@ -207,20 +207,20 @@ Reise-eSIM-Profile bringen ihren eigenen APN mit — bitte nichts verändern. F�
 
 ### APN-Werte für die vier Netzbetreiber Panamas
 
-Nur in wenigen Situationen in Panama ist eine manuelle Eingabe der Einstellungen erforderlich.
+Nur in wenigen Fällen ist eine manuelle Eingabe der Einstellungen nötig.
 
-- Sie haben eine Netzbetreiber-Karte gekauft statt einer verwalteten Reise-eSIM
+- Sie haben eine Prepaid-Karte von +Móvil, Tigo, Claro oder Digicel gekauft statt eines verwalteten Reiseprofils
 - Ein Profil wurde über einen manuellen Aktivierungscode statt per QR-Scan installiert
 - Ein älteres Gerät hat die Netzbetreiber-Einstellungen nicht automatisch geladen
 - Die Karte hat sich nach einer Reise in einen Archipel nicht neu eingebucht
 
 ### Wo Sie den APN auf dem Handy eintragen
 
-Auf dem iPhone: Einstellungen → Mobilfunk → [die panamaische Karte] → Mobilfunkdaten-Netz. Auf Android: Einstellungen → Netzwerk & Internet → Zugangspunkte. Speichern, neu starten und prüfen, ob die Daten über die eSIM laufen – nicht über Ihre Heim-SIM –, denn bei Dual-SIM zeigt die Standardeinstellung oft noch ins Ausland.
+Auf dem iPhone: Einstellungen → Mobilfunk → [die panamaische Karte] → Mobilfunkdaten-Netz. Auf Android: Einstellungen → Netzwerk & Internet → Zugangspunkte. Speichern, neu starten und prüfen, ob die Daten über die Panama-Leitung laufen – nicht über Ihre Heim-SIM –, denn bei Dual-SIM zeigt die Standardeinstellung oft noch ins Ausland.
 
 ## Einrichtung und Fehlerbehebung für eine Panama-eSIM
 
-Scannen Sie den QR-Code Ihrer Panama eSIM zu Hause über WLAN, benennen Sie die Karte, leiten Sie die Daten darüber, aktivieren Sie Roaming. Die [eSIM-Einrichtungsanleitung](/faq/how-to-activate-an-esim/) führt Sie der Reihe nach durch die Schritte.
+Scannen Sie den QR-Code Ihres Panama-Profils zu Hause über WLAN, benennen Sie die Karte, leiten Sie die Daten darüber, aktivieren Sie Roaming. Die [eSIM-Einrichtungsanleitung](/faq/how-to-activate-an-esim/) führt Sie der Reihe nach durch die Schritte.
 
 ### Die Checkliste vor der Landung in Tocumen
 
@@ -229,10 +229,10 @@ Gehen Sie das zu Hause durch, wo WLAN kostenlos ist und kein Verkaufskiosk mitmi
 | # | Prüfen | Was „gut“ bedeutet |
 |:---|:---|:---|
 | 1 | Telefon nicht netzbetreiber-gesperrt | „Keine SIM-Einschränkungen“ unter Netzbetreiber-Sperre angezeigt |
-| 2 | Das Telefon unterstützt eSIM | EID wird angezeigt von `*#06#` |
+| 2 | Das Handy bringt eSIM-Hardware mit | Nach `*#06#` erscheint eine EID in den Einstellungen |
 | 3 | QR-Code gespeichert | Screenshot auf dem Smartphone und in der Cloud |
 | 4 | Profil vor der Abreise installiert | Auf dem heimischen WLAN installiert, bereit für die Landung in der Nacht |
-| 5 | Datenlinie und Roaming eingestellt | eSIM ist die Datenleitung, Roaming eingeschaltet |
+| 5 | Datenlinie und Roaming eingestellt | Die Panama-Leitung stellt die mobilen Daten, Roaming ist eingeschaltet |
 | 6 | San-Blas- oder Bocas-Etappe | Offline-Karte – Guna Yala und der Archipel sind die Stellen mit lückenhafter Netzabdeckung |
 
 ### Die Installation Schritt für Schritt
@@ -244,19 +244,19 @@ Gehen Sie das zu Hause durch, wo WLAN kostenlos ist und kein Verkaufskiosk mitmi
 
 ### Vier typische Fehlerbilder und ihre Lösungen
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Der QR-Code scannt sauber, das Profil bleibt aber im Ladebildschirm hängen**
 1. Gehen Sie zu Einstellungen → Allgemein → Info; die Netzbetreiber-Sperre sollte „Keine SIM-Beschränkungen“ anzeigen
 2. Stellen Sie sicher, dass der Code noch nicht verwendet wurde – eSIM-QRs sind in der Regel nur einmal nutzbar
 3. Der Support kann Ihnen sagen, ob das Profil noch zur Freischaltung bereitsteht
 
-**B. Installiert, aber keine Signalbalken**
+**B. Profil installiert, doch es erscheint kein einziges Balkensymbol**
 1. Schalten Sie die Leitung aus, warten Sie kurz und dann wieder ein
 2. Einstellungen → Mobilfunk → Netzwahl → wählen Sie +Móvil, Tigo, Claro oder Digicel manuell
 3. Versuchen Sie es mit einem Neustart, und dann als zweiten Schritt mit dem Zurücksetzen der Netzwerkeinstellungen
 
-**C. Signalbalken, aber kein Internet**
+**C. Die Balken stehen, doch keine Seite lädt**
 1. Stimmen Sie den APN-Eintrag mit dem oben für Ihren Netzbetreiber angegebenen Wert ab
-2. Die eSIM sollte die Standardleitung für mobile Daten sein – bestätigen Sie das
+2. Die Panama-Leitung sollte die Standardleitung für mobile Daten sein – bestätigen Sie das
 3. Aktivieren Sie Datenroaming speziell für diese Leitung
 4. Prüfen Sie, ob das Datenvolumen noch nicht aufgebraucht ist
 
@@ -269,14 +269,14 @@ Gehen Sie das zu Hause durch, wo WLAN kostenlos ist und kein Verkaufskiosk mitmi
 
 Halten Sie diese bereit – welche Provinz oder Insel Sie nutzen, ist die erste Frage, die der Support stellt.
 
-| Details, die wir benötigen | Wo Sie diese finden |
+| Angabe, die der Support braucht | Wo Sie sie ablesen |
 |:---|:---|
 | Bestellnummer | Bestätigungs-E-Mail |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Handy-Modell und iOS-/Android-Version | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
 | EID | Wählen Sie `*#06#` |
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Noch im Fehlerdialog festhalten – der Support liest daran ab, in welchem Netz sich Ihr Profil befindet |
 | In welcher Provinz oder Insel Sie sich befinden | Die Netzabdeckung ist regional, und Inselgruppen bilden einen eigenen Fall |
-| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Ist Datenroaming auf der Panama-Leitung aktiv? | Einstellungen → Mobilfunk → Panama-Daten |
 
 ## Bezahlen in Panama und warum Ihre Verbindung zählt
 
@@ -293,7 +293,7 @@ Keines davon erfordert eine lokale Nummer. Es erfordert eine funktionierende Ver
 
 ### Kann ich am Flughafen Tocumen eine SIM kaufen?
 
-Ja — die Travel Data Global-Kioske verkaufen rund um die Uhr Touristen-SIMs (ungefähr 05:30–00:30) mit sofortiger Passregistrierung für etwa **30 $ für 7 Tage unlimitierte Daten**. Dasselbe Paket kostet in der Stadt rund 10 $, daher lautet der häufige Rat: eSIM vor dem Flug oder im Stadtgeschäft am ersten Tag.
+Ja — die Travel Data Global-Kioske verkaufen in den Ankunftsbereichen T1/T2 Touristen-SIMs (etwa 05:30–00:30 Uhr) mit sofortiger Passregistrierung für rund **30 $ für 7 Tage unlimitierte Daten**. Dasselbe Paket kostet in der Stadt rund 10 $, daher lautet der häufige Rat: Profil vor dem Flug oder am ersten Tag in ein Stadtgeschäft.
 
 ### Werden SIM-Läden nach einem Ausweis fragen?
 
@@ -317,7 +317,7 @@ Der 5G-Ausbau schreitet in Panama-Stadt und anderen großen Zentren voran; eine 
 
 ### Brauche ich in Panama eine lokale Nummer?
 
-Normalerweise nicht — WhatsApp übernimmt Anrufe, Nachrichten und die meiste Geschäftskommunikation, und reine Daten-eSIMs betreiben es einwandfrei. Eine lokale Nummer ist vor allem bei längeren Aufenthalten und für das lokale Bankwesen relevant.
+Normalerweise nicht — WhatsApp übernimmt Anrufe, Nachrichten und die meiste Geschäftskommunikation, und reine Datentarife betreiben es einwandfrei. Eine lokale Nummer ist vor allem bei längeren Aufenthalten und für das lokale Bankwesen relevant.
 
 ### Wie viel Datenvolumen brauche ich in Panama?
 
@@ -329,7 +329,7 @@ Nein. Ein gesperrtes Telefon akzeptiert kein Drittanbieter-Profil. Prüfen Sie E
 
 ### Ist die Flughafen-SIM wirklich so viel teurer?
 
-Ja — etwa das Dreifache des Stadtpreises, was Panama zu einem der krassesten Flughafenaufschläge überhaupt macht. Der Kauf in der Stadt ist dasselbe Produkt zu etwa einem Drittel des Preises, mit identischen Registrierungsanforderungen.
+Ja — etwa das Dreifache des Stadtpreises, was das Land zu einem der krassesten Flughafenaufschläge überhaupt macht. Der Kauf in der Stadt ist dasselbe Produkt zu etwa einem Drittel des Preises, mit identischen Registrierungsanforderungen.
 
 ### Kann ich die eSIM in Dollar bezahlen?
 
@@ -337,7 +337,7 @@ Panama verwendet den US-Dollar als Währung, daher ist jeder Preis direkt mit de
 
 ### Was gilt für Rundreisen durch mehrere Länder?
 
-Nicht mit einem reinen Panama-Tarif. Für eine Mittel- oder Südamerika-Rundreise kalkulieren Sie besser einen regionalen Tarif, statt Einzel-Länder-Profile zu stapeln — unser [Costa-Rica-eSIM-Leitfaden](/carriers/costa-rica-esim-carrier-guide/) und die [Kolumbien-eSIM-Seite](/colombia-esim/) behandeln die beiden häufigsten nächsten Ziele.
+Nicht mit einem reinen Panama-Tarif. Für eine Mittel- oder Südamerika-Rundreise kalkulieren Sie besser einen regionalen Tarif, statt Einzel-Länder-Profile zu stapeln — unser Costa-Rica-eSIM-Leitfaden und die [Kolumbien-eSIM-Seite](/colombia-esim/) behandeln die beiden häufigsten nächsten Ziele.
 
 ### Sind lokale SIM-Karten in Panama günstig?
 
@@ -360,10 +360,10 @@ Weitere Fragen? [Komplette FAQ →](/faq/)
 
 Alle Messungen stammen von Dritten. Besonders die Netzabdeckung auf den Inseln schwankt je nach Wetter, Booten und dem Felsen, auf dem Sie gerade stehen.
 
-## Vom QR-Code zur Verbindung
+## Zuhause installiert, in Tocumen schon online
 
-Installieren Sie das Profil Ihrer Panama eSIM zu Hause und Sie passieren Tocumen, ohne einen Kiosk anzufassen oder den Aufschlag bei der Ankunft zu zahlen, der aus 10 $ Daten 30 $ macht. Probieren Sie zuerst eine [kostenlose Test-eSIM](/free-esim/), oder wählen Sie einen Tarif auf der [Panama-eSIM-Seite](/panama-esim/). Geht es anschließend nach Norden? Unser [Costa-Rica-eSIM-Leitfaden](/carriers/costa-rica-esim-carrier-guide/) behandelt die nächste Grenze.
+Installieren Sie das Profil Ihrer Panama eSIM zu Hause und Sie passieren Tocumen, ohne einen Kiosk anzufassen oder den Aufschlag bei der Ankunft zu zahlen, der aus 10 $ Daten 30 $ macht. Probieren Sie zuerst eine [kostenlose Test-eSIM](/free-esim/), oder wählen Sie einen Tarif auf der [Panama-eSIM-Seite](/panama-esim/). Geht es anschließend nach Norden? Unser [Guide für Costa Rica](/carriers/costa-rica-esim-carrier-guide/) behandelt die nächste Grenze.
 
-[Panama-eSIM-Tarif wählen](/panama-esim/) · [Kostenlose Testphase starten](/free-esim/) · [Panama-eSIM-Seite](/panama-esim/)
+Panama-eSIM-Tarif wählen · Kostenlose Testphase starten · Panama-eSIM-Seite
 
 Ein abschließender Hinweis von Roami: Reisende, die die Netzabdeckung vorher testen, bereuen es selten. Die [kostenlose Testkarte](/free-esim/) spiegelt das lokale Setup in den lokalen Netzen wider, und der Code **WEB20** gibt 20 % auf einen kostenpflichtigen Roami-Tarif, sobald Sie bereit sind.

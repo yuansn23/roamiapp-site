@@ -1,9 +1,9 @@
 ---
 title: "Kroatien eSIM für die Inseln: HT, A1 und Telemach"
-description: "Roami testet Hrvatski Telekom, A1 und Telemach entlang der Adria, damit Ihr Kroatien-eSIM-Netzbetreiber von der Fähre bis zur Insel funktioniert."
+description: "Kroatien eSIM im Vergleich: Hrvatski Telekom, A1 und Telemach nach Küstenabdeckung, Inselfähren, Preisen und EU-Roaming."
 image: "img/esim/carriers/croatia-esim-carrier-guide.jpg"
 date: "2026-09-27T04:29:22+00:00"
-keywords: Kroatien eSIM, Kroatien eSIM-Netzbetreiber, Hrvatski Telekom, A1 Hrvatska, Telemach, Plitvicer Seen, Dubronnik, High-Speed-Daten, keine Roaming-Gebühren, eSIM-Kompatibilität
+keywords: Kroatien eSIM, Kroatien eSIM-Netzbetreiber, Hrvatski Telekom, A1 Hrvatska, Telemach, Plitvicer Seen, Dubrovnik, High-Speed-Daten, keine Roaming-Gebühren, eSIM-Kompatibilität
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -15,28 +15,28 @@ hero_badge: "HT, A1 oder Telemach? Die Wahl für Kroatien"
 hero_subtitle_main: "Geschwindigkeitswerte, Netzabdeckung im ländlichen Raum und Touristenregeln – alles auf einen Blick"
 ---
 
-Die richtige Kroatien eSIM wird auf dem Wasser entschieden, nicht in Zagreb: Dieser Guide ordnet die Netze so, wie Sie sie tatsächlich nutzen werden – Fähren, Buchten und Kreuzfahrtstopps. Die meisten Länder-Guides ordnen die Netze nach Geschwindigkeit in der Hauptstadt. In Kroatien bricht diese Methode, denn das Produkt, das die meisten Besucher kaufen, ist die Küste: eine Fähre von Split nach Hvar, eine Woche in einer Bucht auf Korčula oder ein achtstündiger Kreuzfahrtstopp in Dubronnik. Keiner der Kroatien-Schritte unten sollte länger als ein paar Minuten dauern – wir haben die Zeit gestoppt, als Erstnutzer jeden einzelnen ausgeführt haben.
+Die richtige Kroatien eSIM wird auf dem Wasser entschieden, nicht in Zagreb: Dieser Guide ordnet die Netze so, wie Sie sie tatsächlich nutzen werden – Fähren, Buchten und Kreuzfahrtstopps. Die meisten Länder-Guides ordnen die Netze nach Geschwindigkeit in der Hauptstadt. In Kroatien bricht diese Methode, denn das Produkt, das die meisten Besucher kaufen, ist die Küste: eine Fähre von Split nach Hvar, eine Woche in einer Bucht auf Korčula oder ein achtstündiger Kreuzfahrtstopp in Dubrovnik. Keiner der Kroatien-Schritte unten sollte länger als ein paar Minuten dauern – wir haben die Zeit gestoppt, als Erstnutzer jeden einzelnen ausgeführt haben.
 
-**Schnelle Antwort:** Direkt auf den Punkt: eSIM-Kompatibilität ist die sichere Standardwahl für Netzabdeckung in ganz Kroatien, wobei die lokalen Netze in den größeren Städten meist günstiger sind. Geschwindigkeits- und Preistabellen für jedes Netz folgen unten – und der [Kompatibilitäts-Check](/compatibility/) klärt jede Handyzweifel in etwa einer Minute.
+**Schnelle Antwort:** Auf die Netzabdeckung in ganz Kroatien gerechnet ist die Hrvatski Telekom die sichere Standardwahl; in den größeren Städten sind die lokalen Netze meist günstiger. Geschwindigkeits- und Preistabellen für jedes Netz folgen unten – und der [Kompatibilitäts-Check](/compatibility/) klärt jede Handyzweifel in etwa einer Minute.
 
 Die nationalen Statistiken sind solide, nicht spektakulär. Der mediane mobile Download wurde mit **120,15 Mbps** gemessen, weltweit auf Platz 40 im Ookla Speedtest Global Index für August 2026, mit einem medianen 5G-Download von 193,52 Mbps (Platz 36). Lokale Daten sind mit etwa **1,19 USD pro GB** günstig, Platz 111 von 237 Märkten in der Cable.co.uk-Erhebung, gegenüber einem globalen Durchschnitt von 2,59 USD.
 
 Aber eine Kroatien eSIM wird auf den Inseln bewertet, nicht in Zagreb: Die Netze sind auf die Fährkorridore, die Marinas und den Sommeransturm ausgelegt. Dieser Guide zeigt, welcher Netzbetreiber wo standhält, was Besucher zahlen, und jeden Schritt zu einer aktiven Datenleitung an Deck.
 
-Geschwindigkeitsdiagramme und Netzabdeckungskarten sind irrelevant, wenn das Profil nie installiert wird. Der [Kompatibilitäts-Check](/compatibility/) und diese [eSIM-Aktivierungs-Anleitung](/faq/what-is-esim-activation-and-how-does-it-work/) decken die Grundlagen ab, sodass sich dieser Guide auf den direkten Vergleich der Netze konzentrieren kann.
+Geschwindigkeitsdiagramme und Netzabdeckungskarten sind irrelevant, wenn das Profil nie installiert wird. Der Kompatibilitäts-Check und diese [eSIM-Aktivierungs-Anleitung](/faq/what-is-esim-activation-and-how-does-it-work/) decken die Grundlagen ab, sodass sich dieser Guide auf den direkten Vergleich der Netze konzentrieren kann.
 
 **Kurzfassung:** Die Hrvatski Telekom eSIM ist der landesweite Anker – die größte Abdeckung, der stärkste Insel- und Nationalpark-Empfang, und das Netz, auf das eine Fährroute oder ein Kreuzfahrt-Zwischenstopp zurückgreifen sollte. Die A1 Hrvatska eSIM ist das Preis-Leistungs-Angebot, mit einer tatsächlich online buchbaren Touristenleitung (unbegrenztes 5G ab 10,90 € für drei Tage, 29 € für 30 Tage). Die Telemach Hrvatska eSIM ist die günstige Datenoption – rund 9,95 € für 100 GB, im Laden gekauft – und ihr Netz gewinnt nun unabhängige Geschwindigkeitsauszeichnungen. Zuerst mit der [kostenlosen Test-eSIM](/free-esim/) testen, oder den Code **WEB20** für 20 % Rabatt auf einen [Kroatien eSIM-Tarif](/croatia-esim/) verwenden.
 
 ## Kroatien eSIM: Warum die Adria über Ihr Netz entscheidet
 
-Kroatien ist ein langes, schmales Land, dessen Bevölkerung an der Küste konzentriert ist, und die Netze folgen den Touristengeldern: Die Zellendichte ist am höchsten entlang der Fährkorridore, die Split mit Hvar, Brač, Korčula und Vis verbinden, entlang des Archipels von Zadar und rund um die Altstadt von Dubronnik. Im Karst-Inneren und in den Hochlagen von Gorski Kotar wird sie rasch dünn.
+Kroatien ist ein langes, schmales Land, dessen Bevölkerung an der Küste konzentriert ist, und die Netze folgen den Touristengeldern: Die Zellendichte ist am höchsten entlang der Fährkorridore, die Split mit Hvar, Brač, Korčula und Vis verbinden, entlang des Archipels von Zadar und rund um die Altstadt von Dubrovnik. Im Karst-Inneren und in den Hochlagen von Gorski Kotar wird sie rasch dünn.
 
 HAKOM, die nationale Regulierungsbehörde, bestätigt dieses Muster in ihren jährlichen regionalen Erhebungen: ausgezeichnete Leistung in Kreisstädten und Touristenzentren, dünnere Versorgung dazwischen.
 
 - Die Wahl des Netzbetreibers ist am wichtigsten *auf* dem Wasser und *zwischen* den Orten, nicht in ihnen.
 - Jede Kroatien eSIM, die das stärkste Netz neu auswählen kann – statt sich auf einen Netzbetreiber festzulegen – macht aus einem Abdeckungsrisiko ein kontrolliertes Hand-off.
 
-One strukturelle Tatsache, die früh geklärt sein sollte: Kroatien ist EU- und Eurozonen-Mitglied und seit dem 1. Januar 2023 Teil des Schengen-Raums. Die Preise unten sind in Euro – aber **Roam-like-at-home gilt für Tarife von EU-Einwohnern, nicht für Besucher**. Kroatische Betreiber beinhalten in Touristenprodukten wenig oder gar kein EU-Roaming-Datenvolumen, da die Fair-Use-Zuteilungen auf die inländische Saison kalibriert sind.
+Eine strukturelle Tatsache, die früh geklärt sein sollte: Kroatien ist EU- und Eurozonen-Mitglied und seit dem 1. Januar 2023 Teil des Schengen-Raums. Die Preise unten sind in Euro – aber **Roam-like-at-home gilt für Tarife von EU-Einwohnern, nicht für Besucher**. Kroatische Betreiber beinhalten in Touristenprodukten wenig oder gar kein EU-Roaming-Datenvolumen, da die Fair-Use-Zuteilungen auf die inländische Saison kalibriert sind.
 
 ## Der Markt auf einen Blick
 
@@ -60,13 +60,13 @@ Diese Struktur ist für eine Entscheidung bei einer kroatischen eSIM wichtiger a
 
 Alle drei großen Messprogramme haben kürzlich über Kroatien berichtet, und sie sind sich nicht einig:
 
-| Netzbetreiber | Ookla Speedtest Konnektivitätsbewertung (Q3–Q4 2025) | Ookla mittlerer Download | Openssignal-Download (Jul–Sep 2025) | Openssignal-Upload |
+| Kroatischer Netzbetreiber | Ookla-Konnektivitätsbewertung (Q3–Q4 2025) | Mittlerer Ookla-Download | Opensignal-Download (Jul–Sep 2025) | Opensignal-Upload |
 |:---|:---|:---|:---|:---|
-| Telemach Hrvatska | **81.20** — Preisträger | **138.12 Mbps** | 75.7 Mbps | **17.4 Mbps** |
+| Telemach Hrvatska | **81,20** — Preisträger | **138,12 Mbps** | 75,7 Mbps | **17,4 Mbps** |
 | Kroatisch Telekom | 80,73 | nicht veröffentlicht | **89,0 Mbps** | 15,9 Mbps |
 | A1 Hrvatska | 74,76 | nicht veröffentlicht | 59,2 Mbps | 9,6 Mbps |
 
-Ookla s Speedtest -Auszeichnungen haben Telemach sowohl als Bestes Mobilfunknetz als auch als Schnellstes Mobilfunknetz benannt, mit einem Speed Score von 69,78 gegenüber 68,4 und 59,46.
+Die Speedtest-Auszeichnungen von Ookla benennen Telemach sowohl als bestes Mobilfunknetz als auch als schnellstes Mobilfunknetz, mit einem Speed Score von 69,78 gegenüber 68,4 und 59,46.
 
 ### Kroatien-Netzauszeichnungen sind sich uneinig: Welche Kennzahl wählt Ihre eSIM aus?
 
@@ -95,12 +95,12 @@ Betrachten Sie nationale Mittelwerte als die Obergrenze für jede Kroatien-eSIM;
 | Split und die dalmatinischen Inseln | Hervorragend in Split, in der Stadt Hvar, auf Brač und Korčula; schwach auf Vi, der Rückseite von Šolta und Lastovo | Hrvatski Telekom | Der Empfang bricht wenige Minuten nachdem die Katamaran-Fähre den Steg verlassen hat ab |
 | Dubrovnik und der äußerste Süden | Sehr gut in der Altstadt und entlang der Küstenstraße nach Cavtat | HT | Die Überlastung an Kreuzfahrttagen ist die schlimmste im ganzen Land |
 | Nationalparks Plitvice und Krka | Die Orte an den Eingängen sind versorgt; im Inneren der Wanderwege besteht kein Empfang | Kroatisch Telekom | Kaufen Sie Tickets online, bevor Sie eintreten — laden Sie alles vorab herunter |
-| Slawonien — Osijek, Vukovar | Solides 4G und 5G in den Hauptstädten; die Autobahn A3 ist durchgehend abgedeckt | HT oder A1 | Virfer zwischen Osijek und der ungarischen Grenze verfügen über LTE |
+| Slawonien — Osijek, Vukovar | Solides 4G und 5G in den Hauptstädten; die Autobahn A3 ist durchgehend abgedeckt | HT oder A1 | Dörfer zwischen Osijek und der ungarischen Grenze verfügen über LTE |
 
 Jenseits von Kroatien erstreckt sich dieselbe Küste in Märkte, die ein rein kroatisches Profil nicht abdeckt — [Slowenien eSIM-Tarife](/slovenia-esim/) im Norden und zwei weitere die Küste hinunter:
 
 - Unser [Italien eSIM-Guide](/carriers/italy-esim-carrier-guide/) auf der anderen Seite der Adria
-- [Montenegro eSIM-Optionen](/montenegro-esim/) an der Mündung der Bucht
+- [Montenegro-Datentarife](/montenegro-esim/) an der Mündung der Bucht
 
 ## Insel für Insel, Fähre für Fähre: wo eine kroatische eSIM zuverlässig funktioniert
 
@@ -117,12 +117,12 @@ Zwei Kvarner-Inseln sind per Straße erreichbar, was Ihre Planung der Netzabdeck
 | Korčula | Autofähre Orebić–Dominče (ca. 15 Min.) oder Katamaran von Split | Gut in Korčula-Stadt und Vela Luka; der Pelješac-Kanal ist lückenhaft | Hrvatski Telekom |
 | Mljet | Autofähre Prapratno–Sobra (ca. 45 Min.); Katamarane ab Dubrovnik | Brauchbar in Sobra und Polače; im Inneren des Nationalparks gibt es keinen Empfang | Kroatisch Telekom |
 | Vis | Autofähre Split–Vis (ca. 2 Std. 20 Min.) | Gut in Vis Stadt und Komiža; der äußerste Westen und Stiniva sind schwach | Hrvatski Telekom |
-| Anfahrt | Straßenbrücke von Süden oder Fähre Prizna–Žigljen (ca. 15 Min.) von Norden | Entlang der Hauptstraße und in Novalja zuverlässig; die Bora kann die Fähre ausfallen lassen | A1 Hrvatska oder HT |
+| Pag | Straßenbrücke von Süden oder Fähre Prizna–Žigljen (ca. 15 Min.) von Norden | Entlang der Hauptstraße und in Novalja zuverlässig; die Bora kann die Fähre ausfallen lassen | A1 Hrvatska oder HT |
 | Krk | Mautfreie Straßenbrücke; Rijekas Flughafen liegt auf der Insel | Durchgehende Netzabdeckung; die Brücke wird bei starkem Borawind für hohe Fahrzeuge gesperrt | A1 Hrvatska oder HT |
-| Rabatt | Fähre Stinica–Mišnjak (ca. 15 Min.), betrieben von Rapska plovidba | Gut in Rab-Stadt und Lopar; die Überfahrt selbst ist eine Lücke | HT oder Telemach |
+| Rab | Fähre Stinica–Mišnjak (ca. 15 Min.), betrieben von Rapska plovidba | Gut in Rab-Stadt und Lopar; die Überfahrt selbst ist eine Lücke | HT oder Telemach |
 | Lošinj | Zuerst mit der Fähre nach Cres, dann über die Drehbrücke von Osor; oder Valbiska–Merag von Krk aus | Mali Lošinj und Veli Lošinj sind versorgt; der Norden der Insel ist dünn | Kroatisch Telekom |
 
-### Croatia ferry coverage: crossing times and what happens offshore
+### Fährüberfahrten in Kroatien: Fahrzeiten und was an Bord passiert
 
 Kroatiens Fähren gibt es in zwei Varianten, und der Unterschied entscheidet darüber, ob Ihre Kroatien eSIM an Bord funktioniert. Katamarane befördern nur Fußpassagiere und bleiben näher an der Küste; Autofähren sind langsamer, nehmen Fahrzeuge mit und sind im Sommer zuerst ausverkauft.
 
@@ -149,13 +149,13 @@ Dieselben Zellen, die im Oktober den nationalen Median erzeugen, bedienen im Aug
 | Monat | Auslastung der Küstenzellen | Das ist zu erwarten | Praktischer Schritt |
 |:---|:---|:---|:---|
 | April und Oktober | Gering | Nahe am Jahresmittel nahezu überall | Die besten Randmonate für umfangreiche Uploads |
-| Mai | Light | Fast mittlere Geschwindigkeiten fast überall, einschließlich der Inseln | Der preisgünstigste Monat für Vielsurfer |
+| Mai | Mäßig | Fast mittlere Geschwindigkeiten fast überall, einschließlich der Inseln | Der preisgünstigste Monat für Vielsurfer |
 | Juni | Zunehmend | Volle Geschwindigkeit außer im Hafen von Split und Dubrovnik an Kreuzfahrttagen | Geeignet für Videoanrufe und Remote-Arbeit |
 | Juli | Spitzenzeit | Gedränge am Fährterminal und an der Hafenpromenade ab dem späten Vormittag; Inselstädte werden nach 18:00 langsamer | Laden Sie vor dem Boarding herunter; nutzen Sie in Innenräumen WLAN |
-| August | Spitzenzeit, anhaltend | Der schlimmste Monat an Hvars Uferpromenade und in der DuAltstadt von Dubrovnik | Verlegen Sie schwere Datenübertragungen in die frühen Morgenstunden |
+| August | Spitzenzeit, anhaltend | Der schlimmste Monat an Hvars Uferpromenade und in der Altstadt von Dubrovnik | Verlegen Sie schwere Datenübertragungen in die frühen Morgenstunden |
 | September | Sinkend | Die Geschwindigkeiten erholen sich im Laufe des Monats, da der Charterverkehr abnimmt | Besser als August in jeder Hinsicht |
 
-## Was die Tarife kosten
+## Was die kroatischen Tarife wirklich kosten
 
 HT lenkt das gesamte Prepaid-Geschäft über **Simpa**, das in T-Centern, Tisak-Kiosken, Postämtern und Tankstellen für wenige Euro mit enthaltenem Guthaben verkauft wird. Die rein digitalen **eSIMPA**-Bundles, die in der Moj Telekom-App aktiviert werden, kosten etwa 9,99 € für 5 GB bis 18,45 € für 15 GB über 30 Tage — aktuelle Angebote bitte in der App prüfen.
 
@@ -163,7 +163,7 @@ Für Kurzaufenthalter verkaufen HT-Shops (und einige Tisak-Kioske) Touristenedit
 
 ### Günstigste Daten in Kroatien im Vergleich
 
-Three-Gewohnheiten verhindern, dass ein günstiger kroatischer Preis teuer wird:
+Drei Gewohnheiten verhindern, dass ein günstiger kroatischer Preis teuer wird:
 
 - **Prüfen Sie das Gültigkeitsfenster, nicht nur die Gigabytes.** Ein 15-GB-/30-Tage-Bundle und ein 15-GB-/7-Tage-Bundle sind unterschiedliche Produkte bei einer Schlagzeile.
 - **Gehen Sie davon aus, dass „unlimitiert" eine Fair-Use-Klausel enthält.** Touristische Unlimited-Tarife laufen in der Regel mit voller Geschwindigkeit bis zu einem täglichen Kontingent und werden danach gedrosselt.
@@ -199,15 +199,15 @@ Im direkten Vergleich ist die Spanne geringer, als die Werbung vermuten lässt: 
 | Unterlagen | Reisepass in einem Geschäft (Online-A1-Touristen-eSIM ausgenommen) | Keine |
 | Verfügbarkeit vor der Ankunft | A1 online; HT und Telemach persönlich nach der Landung | Überall und jederzeit |
 | Reale Preisanker | 10,90 € für 3 unbegrenzte Tage (A1); ca. 10–13 € unbegrenzte Woche (HT); 9,95 € / 100 GB (Telemach) | ca. 4–9 € für 5 GB, ca. 14–22 € für 10 GB, Tagestarife mit unlimitiertem Datenvolumen ab ca. 2,50 €/Tag |
-| Lokale Nummer | Yes bei Sprachpaketen | Selten — die meisten sind reine Datentarife |
-| Netzabdeckung | One Netzbetreiber | Automatischer Wechsel zwischen HT, A1 und Telemach |
-| Ideal für | Aufenthalte von über einer Woche, intensive Nutzung, eine funktionierende kroatische Nummer | One – bis zu zweiwöchige Reisen, Kreuzfahrt-Zwischenstopps, Landen und sofort verbunden |
+| Lokale Nummer | Ja bei Sprachpaketen | Selten — die meisten sind reine Datentarife |
+| Netzabdeckung | Ein Netzbetreiber | Automatischer Wechsel zwischen HT, A1 und Telemach |
+| Ideal für | Aufenthalte von über einer Woche, intensive Nutzung, eine funktionierende kroatische Nummer | Bis zu zweiwöchige Reisen, Kreuzfahrt-Zwischenstopps, Landen und sofort verbunden |
 
 Die Pro-GB-Wirtschaftlichkeit spricht für die lokalen kroatischen eSIM-Pakete — eine 100-GB-Karte für 9,95 € Telemach ist auf dem Papier unschlagbar — aber zwei der drei Netzbetreiber verkaufen nur persönlich, und ein Einzelnetzbetreiber-Tarif kann nicht auf HTs Inselstärke zurückgreifen, wenn Sie daran vorbeisegeln.
 
 ## Ist Ihr Telefon mit eSIMs kroatischer Netzbetreiber kompatibel?
 
-Three-Prüfungen entscheiden, ob Ihr Telefon ein kroatisches Profil speichern kann: unterstützte Bänder, Sperrstatus und eine EID. Kroatien ist unkompliziert europäisch: 4G läuft auf den Bändern 3, 7 und 20, und 5G wurde auf dem n78-Band (3,5 GHz) in Zagreb, Split, Rijeka und Dubrodnik ausgerollt. Jedes in Europa verkaufte Gerät funktioniert unverändert; Geräte aus anderen Regionen funktionieren meistens, aber eine Minderheit hat kein Band 20 oder n78 — das Symptom ist schneller Dienst in der Innenstadt und LTE auf der Küstenstraße.
+Three-Prüfungen entscheiden, ob Ihr Telefon ein kroatisches Profil speichern kann: unterstützte Bänder, Sperrstatus und eine EID. Kroatien ist unkompliziert europäisch: 4G läuft auf den Bändern 3, 7 und 20, und 5G wurde auf dem n78-Band (3,5 GHz) in Zagreb, Split, Rijeka und Dubrovnik ausgerollt. Jedes in Europa verkaufte Gerät funktioniert unverändert; Geräte aus anderen Regionen funktionieren meistens, aber eine Minderheit hat kein Band 20 oder n78 — das Symptom ist schneller Dienst in der Innenstadt und LTE auf der Küstenstraße.
 
 ### Der Installationsprozess der kroatischen eSIM
 
@@ -217,9 +217,9 @@ Three-Prüfungen entscheiden, ob Ihr Telefon ein kroatisches Profil speichern ka
 
 Überspringen Sie das Auswendiglernen der Bänder und prüfen Sie Ihre genaue Modellnummer stattdessen in der [eSIM-Kompatibilitätsliste](/compatibility/). Es dauert zwei Minuten und klärt beide Fragen — Hardware und Sperrstatus inklusive.
 
-## SIM-Registrierungsregeln
+## Registrierung: was Kroatien beim SIM-Kauf verlangt
 
-Three Kaufwege existieren. Wählen Sie den falschen, und aus einer kroatischen eSIM, die Minuten dauern sollte, wird eine Schlange im Juli.
+Drei Kaufwege existieren. Wählen Sie den falschen, und aus einer kroatischen eSIM, die Minuten dauern sollte, wird eine Schlange im Juli.
 
 ### Der Weg im Laden (HT und Telemach)
 
@@ -241,7 +241,7 @@ Tisak — die grünen Kioske an jedem Flughafen, Busbahnhof und in den Hauptstra
 
 ### Der Reise-eSIM-Weg in Kroatien
 
-Kaufen Sie vor dem Flug, installieren Sie es zu Hause über WLAN, und das Profil verbindet sich bei der Landung in Zagreb, Split oder Dubrodnik — kein Schalter, keine Registrierung, automatische Netzbetreiberwahl. Für einen Kreuzfahrt-Zwischenstopp oder eine einwöchige Küstenrunde ist dies normalerweise die rationale Wahl, zu einem moderaten Pro-GB-Aufpreis; unser [eSIM-Aktivierungshandbuch](/faq/how-to-activate-an-esim/) deckt den Installationsschritt ab.
+Kaufen Sie vor dem Flug, installieren Sie es zu Hause über WLAN, und das Profil verbindet sich bei der Landung in Zagreb, Split oder Dubrovnik — kein Schalter, keine Registrierung, automatische Netzbetreiberwahl. Für einen Kreuzfahrt-Zwischenstopp oder eine einwöchige Küstenrunde ist dies normalerweise die rationale Wahl, zu einem moderaten Pro-GB-Aufpreis; unser [eSIM-Aktivierungshandbuch](/faq/how-to-activate-an-esim/) deckt den Installationsschritt ab.
 
 ### Was kostet Daten in Kroatien?
 
@@ -251,27 +251,27 @@ Kaufen Sie vor dem Flug, installieren Sie es zu Hause über WLAN, und das Profil
 
 ## Fährkorridore und August-Überlastung: kroatische eSIM-Geschwindigkeiten erklärt
 
-Die August-2026-Mediane — 120,15 Mbps über alle Technologien, 193,52 Mbps bei 5G — werden dort gemessen, wo die Nutzer sind, genau dort, wo die Zellen kämpfen. Die Three-Mechanik komprimiert die realen Geschwindigkeiten in der Saison:
+Die August-2026-Mediane — 120,15 Mbps über alle Technologien, 193,52 Mbps bei 5G — werden dort gemessen, wo die Nutzer sind, genau dort, wo die Zellen kämpfen. Die Mechanik dahinter komprimiert die realen Geschwindigkeiten in der Saison:
 
-1. **Terminal-Spitzen.** Splitps Fährhafen und Dubrodniks Kreuzfahrtterminal konzentrieren Tausende von Ankünften auf wenigen Hektaren Netzabdeckung, also rechnen Sie zwischen 07:00 und 10:00 sowie bei den Nachmittagsabfahrten mit mehrsekündigen Seitenladezeiten.
+1. **Terminal-Spitzen.** Splits Fährhafen und Dubrovniks Kreuzfahrtterminal konzentrieren Tausende von Ankünften auf wenigen Hektaren Netzabdeckung, also rechnen Sie zwischen 07:00 und 10:00 sowie bei den Nachmittagsabfahrten mit mehrsekündigen Seitenladezeiten.
 2. **Insel-Sättigung.** Die Zellen von Hvar-Stadt bedienen im Juli eine vielfache Bevölkerung der eigentlichen Einwohnerschaft, und Speedtest-Ergebnisse an dieser Waterfront im August werden dem nationalen Median in keinem Netz entsprechen.
 3. **Stille auf offener See.** Ab etwa 10 km vor der Küste hält Sie kein Netzbetreiber. Fähren zwischen den größeren Inseln haben oft brauchbares Signal in Sichtweite beider Landseiten, und das ist die ehrliche Obergrenze der maritimen Konnektivität.
 
 Außerhalb dieser Zeiten arbeitet eine kroatische eSIM komfortabel über dem, was der Preis des Landes von 1,19 € pro GB vermuten lässt: Videoanrufe aus einer Rovinj-Wohnung im Juni sind unspektakulär — und das ist das Kompliment.
 
-### Wer betreibt das beste Netz in Kroatien?
+### Wie Sie auf dem Wasser das beste Netz herausholen
 
 - **Dem Meer zugewandt.** Marina-seitige Liegeplätze und Vorderdecks auf Katamaranen halten einen brauchbaren Vorteil weit länger als ein Innensitz.
 - **Laden Sie vorab herunter und schalten Sie dann ab.** Offline-Karten, Fährtickets und Downloads vor dem Boarding schlagen jeden Workaround an Bord.
-- **Erwarten Sie, dass der Betreibername wechselt.** Ein Multi-Netz-Profil verbindet sich mit der stärksten Küstenzelle; dieses Flackern ist normal, kein Fehler.
+- **Erwarten Sie, dass der Betreibername wechselt.** Ein Multi-Netz-Profil verbindet sich mit dem stärksten Sendemast der Küste; dieses Flackern ist normal, kein Fehler.
 
 ## APN-Einstellungen für Hrvatski Telekom, A1 Hrvatska und Telemach-eSIMs
 
 Die manuelle APN-Eingabe ist ein letzter Ausweg, kein Ritual. Reise-eSIM-Profile tragen ihre eigenen Einstellungen und sollten niemals bearbeitet werden, und eine im Laden gekaufte kroatische eSIM provisioniert sich fast immer automatisch. Falls ein im Laden gekauftes Profil installiert wird, aber keine Daten durchlässt, versuchen Sie diese Werte:
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Kroatischer Netzbetreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 |:---|:---|:---|:---|
-| Hrvatski Telekom (Simpa) | `internet.ht.hr` | blank | blank |
+| Hrvatski Telekom (Simpa) | `internet.ht.hr` | leer | leer |
 | A1 Hrvatska | `data.vip.hr` | leer | leer |
 | Telemach Kroatien | `internet.tele2.hr` | leer | leer |
 
@@ -322,7 +322,7 @@ Darüber hinaus finden Sie den allgemeinen Katalog von Installations- und Regist
 
 Ein Kreuzfahrttag ist das schwierigste Konnektivitätsproblem in Kroatien: Sie landen in der am stärksten belasteten Funkzelle des Landes mit der wenigsten Zeit, irgendetwas zu lösen.
 
-### Kroatien-eSIM-Anbieter, aufgelistet
+### Ein Kreuzfahrtstag in Kroatien, Stunde für Stunde
 
 1. **Am Vorabend:** Vergewissern Sie sich, dass die eSIM installiert und aktiviert ist und als Datenleitung eingestellt ist, mit aktiviertem Roaming für sie und deaktiviertem Roaming für Ihre Heim-SIM.
 2. **07:00–07:30 Uhr, vor Anker:** Laden Sie eine Offline-Karte herunter und machen Sie einen Screenshot Ihrer Rückkehr-zum-Schiff-Informationen, solange das WLAN des Schiffes noch das beste ist.
@@ -340,15 +340,15 @@ Zwei Hektar Kai können fünftausend Menschen und tausend Telefone fassen. Die Z
 
 ## Ihre Kroatien-eSIM-Antworten zum Mitnehmen
 
-### Kroatien-Netzabdeckungskarte, nach Gebiet
+### Welches Netz funktioniert auf den dalmatinischen Inseln?
 
-Yes – HT ist auf allen drei Inseln das stärkste Netz, mit solideem 4G in den Hauptorten und Häfen. Die Strecken im Inneren von Brač und die abgelegenen Seiten von Vis sind dünner, und die Geschwindigkeit sinkt unter der Juli–August-Last. Für eine inselreiche Reiseroute ist HT die Standardwahl.
+Ja – HT ist auf allen drei Inseln das stärkste Netz, mit solideem 4G in den Hauptorten und Häfen. Die Strecken im Inneren von Brač und die abgelegenen Seiten von Vis sind dünner, und die Geschwindigkeit sinkt unter der Juli–August-Last. Für eine inselreiche Reiseroute ist HT die Standardwahl.
 
 ### Lokale SIM vs. eSIM für Touristen in Kroatien
 
 Die einzige kroatische eSIM, die Sie aus dem Ausland kaufen können, stammt vom Online-Touristenangebot von A1 Hrvatska oder von internationalen Reise-eSIM-Anbietern; Hrvatski Telekom und Telemach stellen Besucher-eSIMs in den Shops nach der Landung aus. Wenn Sie spät ankommen, kaufen Sie vorab online; andernfalls löst ein Tisak-Kiosk am Flughafen das Ganze in fünfzehn Minuten.
 
-### Wie viele GB sollten Sie für Kroatien laden?
+### Wie stark belastet der Sommer das kroatische Netz?
 
 Überlastung, nicht Ihr Tarif. Kreuzfahrtschifftage treiben die Funkzellen der Altstadt weit über ihre Auslegungsgrenze hinaus, und jeder Netzbetreiber drosselt gemeinsam. Verbinden Sie sich vor 08:00 oder nach 19:00 Uhr, oder treten Sie einige Straßen zurück von der Stradun – das Netz erholt sich, wenn die Menschenmengen abnehmen.
 
@@ -360,7 +360,7 @@ Netzbetreiber und die meisten Einzelhandelsführer sagen ja: Registrierung mit e
 
 Nicht standardmäßig. Kroatische Touristenprodukte enthalten wenig oder gar kein EU-Roaming-Datenvolumen, und Bosnien, Montenegro und der Rest des Westbalkans liegen vollständig außerhalb des EU-Roaming-Regimes. Slowenien kann als EU-Mitglied bei einigen Tarifen mit einem kleinen Kontingent abgedeckt sein – aber nichts hier deckt ein rein kroatisches Profil ab.
 
-### Wer bietet in Kroatien Mobilfunkdienste an?
+### Welches Netz hält am Fährterminal am stärksten?
 
 Welches Profil am Terminal das stärkste Signal hält – in diesen beiden Häfen ist das meist Hrvatski Telekom, obwohl Telemach bei der gemessenen Zuverlässigkeit landesweit inzwischen vorne liegt. Für einen sechs- bis achtstündigen Aufenthalt ist eine am Vorabend aktivierte Reise-eSIM besser als der Kauf an Land: keine Registrierungstheke, keine Schlange und Daten sind verfügbar, bevor die Gangway heruntergelassen wird.
 
@@ -370,11 +370,11 @@ Eine unbegrenzte kroatische eSIM kostet 10–15 € für eine Woche bis zehn Tag
 
 ### Hotspot-Nutzung mit kroatischen eSIMs
 
-Yes – Eine kroatische eSIM erlaubt Tethering bei allen drei Netzbetreibern für Touristen- und Prepaid-Produkte, da kroatische Netzbetreiber dies bei Prepaid-Daten nicht sperren. Beobachten Sie das Datenvolumen, nicht die Erlaubnis: Unbegrenzte Tarife laufen mit voller Geschwindigkeit bis zu einem täglichen Kontingent und werden danach gedrosselt, sodass ein Laptop, der den Nachmittag über Videos zieht, diese Grenze schneller erreicht als ein Telefon.
+Ja – Eine kroatische eSIM erlaubt Tethering bei allen drei Netzbetreibern für Touristen- und Prepaid-Produkte, da kroatische Netzbetreiber dies bei Prepaid-Daten nicht sperren. Beobachten Sie das Datenvolumen, nicht die Erlaubnis: Unbegrenzte Tarife laufen mit voller Geschwindigkeit bis zu einem täglichen Kontingent und werden danach gedrosselt, sodass ein Laptop, der den Nachmittag über Videos zieht, diese Grenze schneller erreicht als ein Telefon.
 
 ### Wo ist 5G in Kroatien am stärksten?
 
-Yes. Alle drei Netzbetreiber haben 5G auf dem n78-Band in den größeren Küstenstädten ausgebaut – Split, Rijeka, Zadar, Dubrovnik – und der nationale 5G-Median von 193,52 Mbps spiegelt diesen Ausbau wider. Auf einer kleinen Insel oder in einem ländlichen Binnenlandkreis sitzt eine kroatische eSIM stattdessen auf 4G, was bei kroatischen LTE-Geschwindigkeiten selten ein Problem ist.
+Alle drei Netzbetreiber haben 5G auf dem n78-Band in den größeren Küstenstädten ausgebaut – Split, Rijeka, Zadar, Dubrovnik – und der nationale 5G-Median von 193,52 Mbps spiegelt diesen Ausbau wider. Auf einer kleinen Insel oder in einem ländlichen Binnenlandkreis sitzt eine kroatische eSIM stattdessen auf 4G, was bei kroatischen LTE-Geschwindigkeiten selten ein Problem ist.
 
 ### Was passiert mit einer kroatischen eSIM, wenn die Fähre den Hafen verlässt?
 
@@ -394,4 +394,4 @@ Nationale Preisvergleiche stammen aus der weltweiten Datenpreisstudie von Cable.
 
 An der Adria werden Reisende belohnt, die die Konnektivität bereits vor der Gangway klären: Fahrpläne heruntergeladen, Tickets in der Wallet und eine Datenleitung, die der Küste folgt. [Roamis Kroatien-eSIM](/croatia-esim/) wechselt automatisch zwischen Hrvatski Telekom, A1 Hrvatska und Telemach — von Insel zu Insel, von Hafen zu Hafen. [Kostenlose Test-eSIM](/free-esim/) zum Ausprobieren; verwenden Sie den Code **WEB20** für 20 % Rabatt auf Ihren ersten Tarif.
 
-One letzte Prüfung vor der Abreise: Ihr Telefon auf der [eSIM-Kompatibilitätsseite](/compatibility/), dann beginnen Sie mit einer Roami [Test-eSIM anfordern](/free-esim/) und beobachten Sie, wie die eSIM-Kompatibilität Ihre Route behandelt. Wenn das funktioniert, nimmt der Code **WEB20** 20 % auf jeden kostenpflichtigen Roami-Tarif für Kroatien.
+Eine letzte Prüfung vor der Abreise: Ihr Telefon auf der eSIM-Kompatibilitätsseite, dann beginnen Sie mit einer Roami Test-eSIM und beobachten Sie, wie das Profil Ihre Route behandelt. Wenn das funktioniert, nimmt der Code **WEB20** 20 % auf jeden kostenpflichtigen Roami-Tarif für Kroatien.

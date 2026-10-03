@@ -17,7 +17,7 @@ Eine Entscheidung für eine Nicaragua-eSIM beginnt mit einer ungewöhnlichen Tat
 
 Die nationalen Zahlen setzen die Erwartungen. [DataReportals Digital 2025: Nicaragua](https://datareportal.com/reports/digital-2025-nicaragua) zählte **4,47 Millionen Internetnutzer Anfang 2025 — 64,1 Prozent Durchdringung, deutlich unter dem regionalen Durchschnitt — und 8,71 Millionen Mobilfunkverbindungen**, etwa 125 pro 100 Personen. [Cable.co.uk weltweiter Datenpreisvergleich](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) stuft Nicaragua als **das günstigste Land Mittelamerikas für mobile Daten mit etwa 0,55 USD pro Gigabyte** ein, und [Ooklas Speedtest Global Index für Nicaragua](https://www.speedtest.net/global-index/nicaragua) zeigt mediane mobile Downloads je nach Messreihe zwischen etwa 28 und 41 Mbps, global in den hohen 90ern platziert — brauchbares 4G, kein schnelles 5G.
 
-**Die Kurzfassung:** Claro hält etwa die Hälfte des Marktes und die breiteste Netzabdeckung — es ist das einzig sinnvolle Netz für die Corn Islands, die andere Seite von Ometepe und die meisten ländlichen Routen. Tigo konkurriert stark in Managua und den Pazifikstädten. CooTel und Yota existieren, sind aber Nischenanbieter. Keiner der Netzbetreiber bietet eine Self-Service-Touristen-eSIM. Ihre realistischen Optionen sind eine **Reise-eSIM, die auf Claro oder Tigo roamt** — sofort, ohne Registrierung, etwa 3–7 $ pro Gigabyte — oder eine **lokale Claro- oder Tigo-SIM mit Reisepassregistrierung**. Diese Variante kostet etwa einen Dollar für den Chip, wenige Dollar pro Gigabyte, plus eine echte +505-Nummer. Kaufen Sie das Reiseprofil für Trips unter zwei Wochen; kaufen Sie lokal für einen Monat oder die Karibik. [Roamis kostenlose Test-eSIM](/free-esim/) für einen Netzabdeckungstest, und nutzen Sie den Code **WEB20** für 20 % Rabatt auf jeden kostenpflichtigen Tarif — [Länderabdeckung prüfen](/plans/).
+**Die Kurzfassung:** Claro hält etwa die Hälfte des Marktes und die breiteste Netzabdeckung — es ist das einzig sinnvolle Netz für die Corn Islands, die andere Seite von Ometepe und die meisten ländlichen Routen. Tigo konkurriert stark in Managua und den Pazifikstädten. CooTel und Yota existieren, sind aber Nischenanbieter. Keiner der Netzbetreiber bietet eine Self-Service-Touristen-eSIM. Ihre realistischen Optionen sind eine **Reise-eSIM, die auf Claro oder Tigo roamt** — sofort, ohne Registrierung, etwa 3–7 $ pro Gigabyte — oder eine **lokale Claro- oder Tigo-SIM mit Reisepassregistrierung**. Diese Variante kostet etwa einen Dollar für den Chip, wenige Dollar pro Gigabyte, plus eine echte +505-Nummer. Kaufen Sie das Reiseprofil für Trips unter zwei Wochen; kaufen Sie lokal für einen Monat oder die Karibik. Nutzen Sie Roamis kostenlose Test-eSIM für einen Netzabdeckungstest, und nutzen Sie den Code **WEB20** für 20 % Rabatt auf jeden kostenpflichtigen Tarif von Roami — [Länderabdeckung prüfen](/plans/).
 
 ## Welche lokalen eSIM-Optionen bieten Claro und Tigo?
 
@@ -118,7 +118,7 @@ Die lokale Nummer ist in Nicaragua wichtiger als fast überall sonst, weil **Wha
 
 ## Ist Ihr Telefon bereit für eine Nicaragua-eSIM?
 
-Das nicaraguanische LTE funkt auf schmalem, bekanntem Terrain: Das 4G von Claro läuft auf **1700 MHz (AWS, Band 4)** und das von Tigo auf **1900 MHz (Band 2)**, mit UMTS 850 darunter für Sprache; einige Geräteangaben führen auch 700 MHz (Band 28) für Claro auf. In den USA und Europa verkaufte Telefone unterstützen diese Bänder routinemäßig – es ist die gleiche Bandfamilie, die in weiten Teilen der Region genutzt wird –, daher ist Bandangst weitgehend unbegründet. Für asiatische Märkte hergestellte Geräte haben gelegentlich kein Band 4, was sie auf 3G zurückwirft.
+Das nicaraguanische LTE funkt auf schmalem, bekanntem Terrain: Das 4G von Claro läuft auf dem Frequenzband **1700 MHz (AWS, Band 4)** und das von Tigo auf **1900 MHz (Band 2)**, mit UMTS 850 darunter für Sprache; einige Geräteangaben führen auch 700 MHz (Band 28) für Claro auf. In den USA und Europa verkaufte Telefone unterstützen diese Bänder routinemäßig – es ist die gleiche Bandfamilie, die in weiten Teilen der Region genutzt wird –, daher ist Bandangst weitgehend unbegründet. Für asiatische Märkte hergestellte Geräte haben gelegentlich kein Band 4, was sie auf 3G zurückwirft.
 
 Der Netzbetreiber-Lock ist wiederum das eigentliche Hindernis. Ein Profil eines beliebigen Anbieters lässt sich auf einem gesperrten Gerät nicht installieren oder nicht verbinden. Prüfen Sie **Einstellungen → Allgemein → Info → Netzbetreiber-Lock** (iPhone) oder das Netzmenü (Android) vor dem Kauf und holen Sie bei Bedarf eine Entsperrung vom ursprünglichen Netzbetreiber. Abbezahlte Geräte sind innerhalb weniger Tage meist kostenlos entsperrt. Überprüfen Sie mit dem [Kompatibilitätscheck](/compatibility/), ob Ihr Modell für eine Nicaragua-eSIM geeignet ist, und falls das Konzept neu ist, erklärt [der eSIM-Aktivierungs-Leitfaden](/faq/what-is-esim-activation-and-how-does-it-work/) Schritt für Schritt die Mechanik mit QR-Code und Profil.
 
@@ -129,11 +129,11 @@ Zu 5G: TELCOR reservierte den Bereich 3300–3700 MHz bereits im November 2022 f
 Die meisten Konnektivitätsprobleme in Nicaragua werden vor dem Flug entschieden, nicht am Flughafenschalter. Gehen Sie diese Liste in der Woche Ihrer Buchung durch.
 
 - **Reisepass-Gültigkeit und eine Kopie.** Die Registrierung an einem Claro- oder Tigo-Schalter ist passbasiert; eine Kopie plus ein Handyfoto der Passseite erspart eine Diskussion, wenn das Original im Hotelsafe liegt.
-- **Ein entsperrtes, eSIM-fähiges Gerät.** Prüfen Sie die Modellnummer, nicht den Marketingnamen, in der [eSIM-Kompatibilitätsliste](/compatibility/) und vergewissern Sie sich, dass der Netzbetreiber-Lock „Keine SIM-Beschränkungen“ anzeigt.
+- **Ein entsperrtes, eSIM-kompatibles Gerät.** Prüfen Sie die Modellnummer, nicht den Marketingnamen, in der [eSIM-Kompatibilitätsliste](/compatibility/) und vergewissern Sie sich, dass der Netzbetreiber-Lock „Keine SIM-Beschränkungen“ anzeigt.
 - **Ihre Bank, gewarnt.** Fremde Karten sind in Nicaragua die größte Reibungsquelle. Kartenterminals lehnen sie häufiger ab als in den Nachbarländern, American Express wird oft nicht akzeptiert, und kleine Händler sind nur bargeldtauglich. Informieren Sie Ihre Bank über die Reise, damit ein Tankstopp in Managua keinen Betrugsalarm auslöst.
 - **Córdoba, nicht Dollar, für kleine Einkäufe.** Flughafenschalter akzeptieren oft Dollar, aber pulperías, Busse und Marktstände wollen Córdoba. Kleine Scheine mitführen.
 - **Offline-Karten und Buchungsbestätigungen.** Laden Sie Google Maps für den Pazifikkorridor, Ometepe und jedes karibische Ziel herunter, das Sie gebucht haben, sowie PDFs der Bootsfahrpläne und Buchungen.
-- **Ihre Heim-SIM für Codes behalten.** Eine reine Daten-Reise-eSIM kann keine SMS empfangen, daher kommen Bank- und Airline-Bestätigungscodes weiterhin auf Ihrer Heimatnummer. Lassen Sie diese Leitung für Sprache und SMS aktiv, mit ausgeschaltetem Datenroaming.
+- **Ihre Heim-SIM für Codes behalten.** Eine reine Daten-Reise-eSIM kann keine SMS empfangen, daher kommen Bank- und Airline-Bestätigungscodes weiterhin auf Ihrer Heimatnummer. Lassen Sie diese Leitung für Sprache und SMS aktiv, mit ausgeschaltetem Datenroaming. Notieren Sie sich außerdem IMEI und EID aus `*#06#`, falls der Support sie später braucht.
 - **WhatsApp installiert und funktionsfähig.** Es ist der Standardkanal für Unterkünfte, Shuttles und Reiseveranstalter. Richten Sie es vor dem Flug ein, denn eine frische Nummer braucht bei Ankunft einen Tag zum Warmlaufen.
 
 Das eine, was man später nicht mehr reparieren kann, ist eine abgelehnte Fremdkartenzahlung. Wenn Sie eine Reise-eSIM kaufen möchten, schließen Sie den Kauf zu Hause ab, wo Sie es mit einer zweiten Karte in Minuten erneut versuchen können, statt um 23 Uhr bei der Ankunft mit Hotel-WLAN.
@@ -153,7 +153,7 @@ Die Wahl der Paketgröße ist Raterei, wenn man keine grobe Vorstellung davon ha
 | 30 Minuten YouTube in 480p | ≈ 250 MB |
 | 30 Minuten Netflix in HD | ≈ 700 MB |
 
-Die praktische Orientierung für eine Nicaragua-Reise: Navigation und Messaging sind fast kostenlos, Video treibt die Rechnung. Eine Woche mit Karten, WhatsApp und gelegentlichen Foto-Uploads passt bequem in 3–5 GB. Kommen täglich etwa eine Stunde Streaming am Abend hinzu, landen Sie schnell bei 10 GB oder mehr – genau dort, wo die lokale Claro-Staffel (NIO 300 für 10 GB über 15 Tage) ein Reise-Paket preislich unterbietet – als Ausgleich für die Warteschlange von oben.
+Die praktische Orientierung für eine Nicaragua-Reise: Navigation und Messaging sind fast kostenlos, Video treibt die Rechnung. Eine Woche mit Karten, WhatsApp und gelegentlichen Foto-Uploads passt bequem in 3–5 GB. Kommen täglich etwa eine Stunde Streaming am Abend hinzu, landen Sie schnell bei 10 GB oder mehr – genau dort, wo die lokale Claro-Staffel (NIO 300 für 10 GB über 15 Tage) ein Reise-Paket preislich unterbietet – als Ausgleich für die Warteschlange von oben. Wer den Laptop über den Handy-Hotspot mitversorgt, plant Zusatzvolumen ein: Tethering läuft über dasselbe Kontingent und ist bei manchen lokalen Karten nur eingeschränkt erlaubt.
 
 Planen Sie auch Tage ein, an denen Sie bewusst offline sind. Auf Little Corn streamt niemand, und ein Profil, das drei Tage ungenutzt bleibt, verbraucht trotzdem sein Gültigkeitsfenster. Ein Paket mit kurzer Gültigkeit ist daher die falsche Wahl für eine Inselhopping-Route, die absichtlich ohne Verbindung auskommt.
 
@@ -191,7 +191,7 @@ Weder Claro noch Tigo verkauft Besuchern online eine eSIM. „Eine Nicaragua-eSI
 
 ## Netzabdeckung von der Pazifikseite bis zur Karibikküste
 
-Die nationalen Statistiken beschreiben ein Land mit zwar vorhandener, aber ungleich verteilter Konnektivität. Der Ookla-Index verortet die medianen mobilen Downloadraten zwischen ungefähr **28 und 41 Mbps**, das Festnetz-Breitband liegt bei rund 121 Mbps. Die 64,1 Prozent Internetdurchdringung von DataReportal verdecken eine deutliche Kluft zwischen Stadt und Land. [Freedom House „Freedom on the Net 2024 – Länderkapitel Nicaragua“](https://freedomhouse.org/country/nicaragua/freedom-net/2024) dokumentiert das Defizit der ländlichen Konnektivität und die Programme in der Karibikregion, die es schließen sollen; mehr als sieben von zehn Landbewohnern Nicaraguas haben weiterhin keinen Zugang zu Internet von ausreichender Qualität. Was das regional bedeutet:
+Die nationalen Statistiken beschreiben ein Land mit zwar vorhandener, aber ungleich verteilter Konnektivität. Der Ookla-Index verortet die medianen mobilen Downloadraten zwischen ungefähr **28 und 41 Mbps**, das Festnetz-Breitband liegt bei rund 121 Mbps. Die 64,1 Prozent Internetdurchdringung von DataReportal verdecken eine deutliche Kluft zwischen Stadt und Land. Für Videoanrufe zählt dabei weniger die Spitzenbandbreite als die Latenz, und die schwankt zwischen Managua und der Karibikküste stärker als der Download. [Freedom House „Freedom on the Net 2024 – Länderkapitel Nicaragua“](https://freedomhouse.org/country/nicaragua/freedom-net/2024) dokumentiert das Defizit der ländlichen Konnektivität und die Programme in der Karibikregion, die es schließen sollen; mehr als sieben von zehn Landbewohnern Nicaraguas haben weiterhin keinen Zugang zu Internet von ausreichender Qualität. Was das regional bedeutet:
 
 | Region | Realität vor Ort |
 |:---|:---|
@@ -201,7 +201,7 @@ Die nationalen Statistiken beschreiben ein Land mit zwar vorhandener, aber ungle
 | Rivas, San Juan del Sur und die Küste von Tola | In der Stadt und an den Hauptstränden stark; in den Hügeln um die Bucht und am Rand von Popoyo schwächer |
 | Ometepe | Claro 3G/4G in Moyogalpa und Altagracia; schwach bis kein Empfang an den Vulkangipfeln und am gegenüberliegenden Ufer |
 | Río San Juan & Solentiname | 3G in San Carlos und rund um den Archipel; längere Funklöcher auf dem Fluss selbst |
-| Nördliches Hochland (Estelí, Jinotega, Matagalpa) | Brauchbares 4G in den Städten, lückenhaft auf den Kaffeestraßen dazwischen |
+| Nördliches Hochland rund um Estelí, Jinotega und Matagalpa | Brauchbares 4G in den Städten, lückenhaft auf den Kaffeestraßen dazwischen |
 | Karibikküste (Bluefields, Pearl Lagoon, Puerto Cabezas) | Höchstens 3G in der Stadt, EDGE außerhalb; Big Corn verfügt über Claro 4G im Hauptort, Little Corn meistens 3G oder kein Empfang |
 
 Die Karibikküste ist eine völlig andere Konnektivitätswelt, und der beste Rat auf Guide-Niveau lautet, sie als Offline-first zu behandeln. Es sind Infrastrukturinvestitionen eingetroffen. Das Caribbean-Kommunikationsprogramm der Regierung hat neue Glasfaserkabel in die Region verlegt, darunter 115 Kilometer, von denen laut einer Ankündigung Anfang 2024 zehntausende Einwohner profitieren. Doch Wirbelstürme bleiben die feste Realität der Region, und als Sturm Julia 2022 hindurchzog, war die gesamte Karibikseite für eine Weile ohne Strom und Telekommunikation. Vor Ort bedeutet das Claro 4G beschränkt auf Big Corns Ortschaft, EDGE und Geduld auf Little Corn, sowie **keine Reise-eSIM, die Türme herbeizaubern kann, wo keine existieren**. Laden Sie Karten, Buchungsbestätigungen und Bootsfahrpläne in Managua herunter, bevor Sie nach Bluefields oder auf die Inseln fliegen.
@@ -212,7 +212,7 @@ Ein Verhaltenshinweis gehört hierher und nicht in einen Abschnitt über Netzbet
 
 Nicaragua belohnt es, wenn der Tarif auf die Reiseroute abgestimmt wird, da sich die Konnektivität des Landes sauber zwischen dem Pazifikkorridor, dem nördlichen Hochland und der Karibik aufteilt. Zehn Reiserouten, die die Frage entscheiden:
 
-| Ihre Reiseroute | Was eingerichtet werden muss | Warum es funktioniert | Worauf Sie achten sollten |
+| Ihre Route durch Nicaragua | Was vorher eingerichtet wird | Warum es in der Praxis funktioniert | Der Haken auf dieser Strecke |
 |:---|:---|:---|:---|
 | Managua → Granada → Masaya, koloniale Rundreise, 7–10 Tage | Reise-eSIM auf Claro | Konstantes 4G, keine Registrierung, keine Warteschlange | Nichts Ernstes; Lehmwände blockieren das Signal in Innenräumen |
 | Doppelschlot-Rundreise auf Ometepe, 2–3 Tage | Reise-eSIM auf Claro, Offline-Karten heruntergeladen | Claro erreicht Moyogalpa und Altagracia; Tigo nicht | An den Vulkankängen kein Empfang; Fähren-WLAN ist kein Plan |
@@ -254,7 +254,7 @@ Ein Profil live zu bekommen folgt dem üblichen Rhythmus: Installation über WLA
 
 **B. Signal im falschen Netz.** Wenn Ihr Reiseprofil auf Claro provisioniert ist, das Telefon sich aber bei Tigo einbucht (oder umgekehrt) ohne Datendienst, erzwingen Sie die manuelle Netzwerkauswahl und wählen Sie das Partnernetz. Auf dem iPhone: Einstellungen → Mobiles Netz → Netzwerkauswahl; auf Android: Mobilfunknetze → Betreiber. Schalten Sie anschließend die automatische Auswahl aus, damit das Telefon nicht wieder zurückspringt.
 
-**C. Kein Datendienst an der Karibikküste.** Big Corn und Little Corn bedienen oft nur 3G oder EDGE; einige Telefone suchen endlos nach 4G und bleiben erfolglos. Stellen Sie den bevorzugten Netzwerkmodus so ein, dass 3G eingeschlossen ist, warten Sie auf die Registrierung und akzeptieren Sie im Ort eingestellige Geschwindigkeiten. Außerhalb des Ortes gibt es nichts zu reparieren – es ist kein Signal zu finden.
+**C. Kein Datendienst an der Karibikküste.** Big Corn und Little Corn bedienen oft nur 3G oder EDGE; einige Telefone suchen endlos nach 4G und bleiben erfolglos. Stellen Sie den bevorzugten Netzwerkmodus so ein, dass 3G eingeschlossen ist, warten Sie auf die Registrierung und akzeptieren Sie im Ort einstellige Geschwindigkeiten in Mbit/s. Außerhalb des Ortes gibt es nichts zu reparieren – es ist kein Signal zu finden.
 
 **D. Alles bricht gleichzeitig zusammen.** Wenn das Stromnetz einer Stadt ausfällt, folgen die mit Batterien betriebenen Mobilfunkmasten innerhalb weniger Stunden, und das ist außerhalb von Managua ein regelmäßiges Ereignis. Keine Profiländerung hilft. Warten Sie es aus, weichen Sie auf Hotel-WLAN aus, wo vorhanden, und halten Sie Reservierungen und Karten offline bereit, damit ein abendlicher Ausfall eine Unannehmlichkeit und keine Krise ist.
 
@@ -276,7 +276,7 @@ Die Konnektivitäts-Lektion ist an allen dieselbe: **Ein Nur-Nicaragua-Profil fu
 
 In offiziellen Claro und Tigo Läden ja – das Personal registriert die Leitung während des Kaufs auf Ihren Reisepass, ein Vorgang von zehn bis fünfzehn Minuten. Informelle Anbieter verkaufen manchmal SIMs ohne Registrierung, aber nicht registrierte Leitungen riskieren die Sperrung. Wenn Sie den Papierkram ganz überspringen möchten, ist eine Nicaragua-eSIM von einem Reiseanbieter, die unter dessen Netzbetreiber-Vereinbarungen in lokalen Netzen roamt und überhaupt keine lokale Registrierung erfordert.
 
-### Welches Netz passt besser Claro oder Tigo?
+### Welches Netz passt besser zu Ihrer Route, Claro oder Tigo?
 
 Claro für die meisten Reisenden: ungefähr die Hälfte des Marktes, die breiteste ländliche Netzabdeckung und die einzige praktische Option für die Corn Islands, die ruhigere Seite Ometepes und Nebenstraßen. Tigo ist innerhalb Managuas und der Pazifikstädte mit starken Stadttarifen ausgezeichnet. Eine Reise-eSIM nutzt aus genau diesem Grund meistens das Netz von Claro — prüfen Sie die Netzangabe des Anbieters vor dem Kauf.
 
@@ -316,7 +316,7 @@ Nichts Automatisches — ein Nur-Nicaragua-Tarif funktioniert einfach nicht mehr
 
 Es hilft, ist aber nicht zwingend. Nicaraguanische Unternehmen nutzen überwiegend WhatsApp, was mit einer datenbezogenen eSIM problemlos funktioniert, sobald Sie online sind — Sie schreiben von Ihrer heimischen Nummer. Eine +505-Nummer ist hauptsächlich für lokale Sprachanrufe, für registrierungspflichtige Dienste und für alle, die lang genug bleiben, um eine lokale Identität zu wollen, wichtig.
 
-### Was tun wenn die eSIM nicht funktioniert?
+### Was tun, wenn die eSIM in Nicaragua nicht funktioniert?
 
 Befolgen Sie die vier Nicaragua-spezifischen Muster oben der Reihe nach — registrierte Leitung, erzwungene Netzwahl, 3G-Fallback auf den Inseln und Geduld bei Stromausfällen — und arbeiten Sie dann den [Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) durch. Halten Sie Ihre EID, die Bestellnummer und einen Screenshot bereit, bevor Sie den Support kontaktieren.
 
@@ -332,12 +332,12 @@ Nur Drittanbieter-Messungen. Lokale Prepaid-Preise sind ungefähre Einzelhandels
 
 ## Ohne Warteschlange online gehen
 
-Zwei Netze, ein Anmeldeschalter, null Grund, den Ankunftstag in einer Warteschlange zu verbringen. Installieren Sie ein Profil, das die Netzabdeckung von Claro von Granada bis zu den Corn Islands nutzt, behalten Sie Ihre Heimatnummer für Codes aktiv, und erledigen Sie den Papierkram im Hintergrund. [Aktuelle Tarife ansehen](/plans/), [kostenlosen Netztest durchführen](/free-esim/), wenn Sie vorher einen Beweis möchten, und den Promo-Code **WEB20** beim Checkout eingeben, um 20 % zu sparen.
+Zwei Netze, ein Anmeldeschalter, null Grund, den Ankunftstag in einer Warteschlange zu verbringen. Installieren Sie ein Profil, das die Netzabdeckung von Claro von Granada bis zu den Corn Islands nutzt, behalten Sie Ihre Heimatnummer für Codes aktiv, und erledigen Sie den Papierkram im Hintergrund. [Aktuelle Tarife ansehen](/plans/), kostenlosen Netztest durchführen, wenn Sie vorher einen Beweis möchten, und den Promo-Code **WEB20** beim Checkout eingeben, um 20 % zu sparen.
 
 [Nicaragua eSIM kaufen](/nicaragua-esim/)
 
 [Kostenlosen Nicaragua-Test starten](/free-esim/)
 
-Weitere Fragen? [Zur FAQ](/faq/)
+Fragen zu Nicaragua? Im [FAQ-Bereich](/faq/) finden Sie die Antworten.
 
-Egal, wo Sie in Nicaragua landen, Roami hat eine Abkürzung: eine [kostenlose Roami-Testversion](/free-esim/), die dasselbe Netz nutzt wie Claro, und **WEB20** für 20 % Rabatt auf Ihren ersten kostenpflichtigen Tarif.
+Egal, wo Sie in Nicaragua landen, Roami hat eine Abkürzung: eine kostenlose Roami-Testversion, die im selben Netz läuft wie Claro, und **WEB20** für 20 % Rabatt auf Ihren ersten kostenpflichtigen Tarif.

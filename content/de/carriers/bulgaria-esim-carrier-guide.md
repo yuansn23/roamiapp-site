@@ -40,7 +40,7 @@ Wenig Reiseziele spalten die Frage nach dem „besten Netz“ so scharf nach Geo
 
 
 
-Eine Voraussetzung, die zehn Sekunden Ihrer Zeit wert ist: Bestätigen Sie über die [eSIM-Kompatibilitätsseite](/compatibility/), dass Ihr Gerät eSIM-fähig ist, und werfen Sie einen Blick in die [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/), falls der Ablauf neu für Sie ist.
+Eine Voraussetzung, die zehn Sekunden Ihrer Zeit wert ist: Bestätigen Sie über die [Kompatibilitätsseite](/compatibility/), dass Ihr Gerät eSIM-fähig ist, und werfen Sie einen Blick in die [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/), falls der Ablauf neu für Sie ist.
 
 
 
@@ -174,7 +174,7 @@ Zwei Details sind es wert, genauer erläutert zu werden. Seit dem 1. Juli 2021 h
 
 
 
-- [eSIM-Guide für Griechenland](/carriers/greece-esim-carrier-guide/)
+- [eSIM für Griechenland](/greece-esim/)
 
 - [eSIM-Vergleich Rumänien](/romania-esim/)
 
@@ -326,7 +326,7 @@ Ob eine eSIM in Bulgarien auf Ihrem Gerät funktioniert, hängt von drei Prüfun
 
 
 
-Merken Sie sich keine Bandtabellen; der zuverlässige Weg ist, Ihr genaues Modell — die Modellnummer, nicht den Marketingnamen — mit der [Gerätekompatibilitätsliste](/compatibility/) abzugleichen. Zehn Minuten Prüfen sind besser als das Debuggen eines toten Profils in einem Rila-Tal, wo der nächste Laden 40 km entfernt ist.
+Merken Sie sich keine Bandtabellen; der zuverlässige Weg ist, Ihr genaues Modell — die Modellnummer, nicht den Marketingnamen — mit der passenden Gerätekompatibilitätsliste abzugleichen. Zehn Minuten Prüfen sind besser als das Debuggen eines toten Profils in einem Rila-Tal, wo der nächste Laden 40 km entfernt ist.
 
 
 
@@ -388,7 +388,7 @@ Der Support ist hinter der Kurzwahl 123 erreichbar, und `*123#` zeigt das verble
 
 
 
-### Sechs Prüfungen vor dem Abflug
+### Sieben Bulgarien-Prüfungen vor dem Abflug
 
 
 
@@ -412,7 +412,7 @@ Der Support ist hinter der Kurzwahl 123 erreichbar, und `*123#` zeigt das verble
 
 
 
-Installieren Sie jedes Profil über das WLAN in Ihrem Hotel, nicht im Flughafenbereich. Wenn die Installation nicht reibungslos verläuft, finden Sie in unserer [eSIM-Aktivierungsanleitung](/faq/how-to-activate-an-esim/) die allgemeine Reihenfolge für beide Plattformen.
+Installieren Sie jedes Profil über das WLAN in Ihrem Hotel, nicht im Flughafenbereich. Wenn die Installation nicht reibungslos verläuft, finden Sie in unserer [Aktivierungsanleitung für Profile](/faq/how-to-activate-an-esim/) die allgemeine Reihenfolge für beide Plattformen.
 
 
 
@@ -562,7 +562,7 @@ Die generische Installation – Einstellungen, eSIM hinzufügen, QR-Code scannen
 
 
 
-**C. Signalbalken, aber kein Internet.** Prüfen Sie den APN anhand der Tabelle unten – das ist der häufigste Fehler bulgarischer Netzbetreiber bei manuell installierten Profilen. Bestätigen Sie, dass Datenroaming für die eSIM-Leitung aktiviert ist, da das Profil auch zu Hause als Roaming-Leitung registriert wird. Prüfen Sie dann Ihr Datenvolumen: Lokale Packs werden eher gedrosselt oder abgeschaltet, statt Mehrverbrauch abzurechnen.
+**C. Signalbalken, aber kein Internet.** Prüfen Sie den APN anhand der Tabelle unten – das ist der häufigste Fehler bulgarischer Netzbetreiber bei manuell installierten Profilen. Bestätigen Sie, dass Datenroaming für die Datenleitung aktiviert ist, da das Profil auch zu Hause als Roaming-Leitung registriert wird. Prüfen Sie dann Ihr Datenvolumen: Lokale Packs werden eher gedrosselt oder abgeschaltet, statt Mehrverbrauch abzurechnen.
 
 
 
@@ -588,7 +588,7 @@ Die generische Installation – Einstellungen, eSIM hinzufügen, QR-Code scannen
 
 | APN-Einträge auf der Zeile | Cellular Data Network bzw. Access Point Names |
 
-| Roaming-Umschaltzustand | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Roaming-Umschaltzustand | Einstellungen → Mobilfunk → Ihre Datenleitung |
 
 | Der genaue Tarifname | Die Aktivierungs-E-Mail oder die Tarifseite in der App |
 
@@ -606,7 +606,7 @@ APN-Einstellungen sind für die meisten Reisenden das Letzte, woran sie Hand anl
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Betreiber in Bulgarien | Zugangspunkt (APN) | Nutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -622,7 +622,7 @@ Yettels eigene Prepaid-eSIM-Bedingungen nennen die Zustellung über den `interne
 
 
 
-So bearbeiten Sie diese Werte auf dem iPhone: Einstellungen → Mobilfunk → die eSIM-Zeile antippen → Mobilfunkdaten-Netz. Auf Android: Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunkte (APNs) öffnen und einen neuen Eintrag hinzufügen. Speichern, neu starten und prüfen, dass die eSIM – und nicht Ihre Heim-SIM – die aktive Datenleitung ist.
+So bearbeiten Sie diese Werte auf dem iPhone: Einstellungen → Mobilfunk → die Zeile des Profils antippen → Mobilfunkdaten-Netz. Auf Android: Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunkte (APNs) öffnen und einen neuen Eintrag hinzufügen. Speichern, neu starten und prüfen, dass die eSIM – und nicht Ihre Heim-SIM – die aktive Datenleitung ist.
 
 
 
@@ -690,7 +690,7 @@ Weniger als fast überall in der EU. Lokale Prepaid-Pakete reichen von etwa 7,67
 
 
 
-Ja – alle drei Netzbetreiber betreiben 5G in der Hauptstadt sowie in Plovdiv, Varna und Burgas, auf dem n78-Band. Der nationale 5G-Download-Median lag im August 2026 bei 282,70 Mbps. Ihr Gerät muss n78 unterstützen und entsperrt sein; die eSIM selbst ändert nichts an den erreichbaren Geschwindigkeiten.
+Ja – alle drei Netzbetreiber betreiben 5G in der Hauptstadt sowie in Plovdiv, Varna und Burgas, auf dem n78-Band. Der nationale 5G-Download-Median lag im August 2026 bei 282,70 Mbps. Ihr Gerät muss n78 unterstützen und entsperrt sein; das Profil selbst ändert nichts an den erreichbaren Geschwindigkeiten.
 
 
 
@@ -706,7 +706,7 @@ Ja, sie wählt sich ein, aber rechnen Sie in Sonnenstrand und am Goldstrand wäh
 
 
 
-Ja. Eine reine Daten-eSIM berührt Ihre Rufnummer nie – WhatsApp, iMessage und Ihre Banking-Apps laufen weiterhin über Ihre Heim-SIM zur Verifizierung, während die Daten über das bulgarische Profil fließen. Belassen Sie Anrufe und SMS in den Einstellungen auf Ihrer Heimleitung und stellen Sie „Mobile Daten“ auf die eSIM.
+Ja. Eine reine Datenleitung berührt Ihre Rufnummer nie – WhatsApp, iMessage und Ihre Banking-Apps laufen weiterhin über Ihre Heim-SIM zur Verifizierung, während die Daten über das bulgarische Profil fließen. Belassen Sie Anrufe und SMS in den Einstellungen auf Ihrer Heimleitung und stellen Sie „Mobile Daten“ auf die eSIM.
 
 
 
@@ -722,7 +722,7 @@ Wählen Sie `*123#` und drücken Sie die Anruftaste – die Antwort zeigt Ihr ve
 
 
 
-Ja. Auch wenn Sie sich physisch in Bulgarien aufhalten, werden die meisten lokalen eSIMs als Roaming-Leitungen registriert, und sowohl iOS als auch Android sperren die Daten, solange Roaming für diese Leitung nicht aktiviert ist. Schalten Sie Roaming nur für die eSIM ein und lassen Sie es für Ihre Heim-SIM aus, um unerwartete Kosten zu vermeiden.
+Ja. Auch wenn Sie sich physisch in Bulgarien aufhalten, werden die meisten lokalen Profile als Roaming-Leitungen registriert, und sowohl iOS als auch Android sperren die Daten, solange Roaming für diese Leitung nicht aktiviert ist. Schalten Sie Roaming nur für die eSIM ein und lassen Sie es für Ihre Heim-SIM aus, um unerwartete Kosten zu vermeiden.
 
 
 
@@ -756,5 +756,5 @@ Bulgarien belohnt Vorbereitung: Die Netze sind schnell, die Preise gehören zu d
 
 
 
-Der pragmatische Zug: Testen Sie zunächst mit der [kostenlosen Pilot-eSIM](/free-esim/) von Roami – sie nutzt dieselbe Infrastruktur wie die lokalen Netze – und buchen Sie anschließend einen kostenpflichtigen Roami-Tarif mit dem Code **WEB20** für 20 % Rabatt, falls Bulgarien ein regelmäßiges Reiseziel wird.
+Der pragmatische Zug: Testen Sie zunächst mit der kostenlosen Pilot-eSIM von Roami – sie nutzt dieselbe Infrastruktur wie die lokalen Netze – und buchen Sie anschließend einen kostenpflichtigen Roami-Tarif mit dem Code **WEB20** für 20 % Rabatt, falls Bulgarien ein regelmäßiges Reiseziel wird.
 

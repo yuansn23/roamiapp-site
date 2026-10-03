@@ -1,8 +1,7 @@
 ---
 
-title: "Spain-eSIM-Netzbetreiber-Guide: Movistar, Orange, Vodafone"
-
-description: "Roami vergleicht Movistar und Orange für eine Spanien-eSIM, mit Praxismessungen, Reisepass-Registrierungsvorschriften und APN-Einstellungen."
+title: "Spanien eSIM: Movistar, Orange oder Vodafone wählen"
+description: "Spanien eSIM im Vergleich: Movistar, Orange und Vodafone nach Netzabdeckung, Preisen und der Registrierungspflicht für Prepaid."
 image: "img/esim/carriers/spain-esim-carrier-guide.jpg"
 
 date: "2026-09-23T16:48:17+00:00"
@@ -38,7 +37,7 @@ hero_subtitle_main: "Was unabhängige Geschwindigkeitsdaten zeigen – und was s
 
 
 
-**Schnelle Antwort:** Movistar ist das Netz, das die meisten Reisenden in Spanien zuerst in die engere Auswahl nehmen sollten; Orange ist die Preis-Alternative, die es sich lohnt, dagegen zu vergleichen. Wenn Sie lieber die Netzabdeckung testen als Datenblätter lesen möchten, ist Roami's [kostenlose Test-eSIM](/free-esim/) der risikofreie Einstieg in Spanien.
+**Schnelle Antwort:** Movistar ist das Netz, das die meisten Reisenden in Spanien zuerst in die engere Auswahl nehmen sollten; Orange ist die Preis-Alternative, die es sich lohnt, dagegen zu vergleichen. Wenn Sie lieber die Netzabdeckung testen als Datenblätter lesen möchten, ist Roamis [kostenlose Test-eSIM](/free-esim/) der risikofreie Einstieg in Spanien.
 
 
 
@@ -46,7 +45,7 @@ Bevor Sie Netzbetreiber vergleichen, sind zwei Dinge zu klären: Gerätekompatib
 
 
 
-**Die 30-Sekunden-Version:** Bleiben Sie in Madrid oder Barcelona? Movistar ist das stärkste Rundum-Netz und führt bei der ländlichen Reichweite. Streamen oder Gaming? Orange liegt knapp vorne bei den Video- und Gaming-Werten. Wandern auf dem Camino de Santiago oder Autofahrt durch die Pyrenäen? Movistar hält das Signal, wo die anderen schwächer werden. Sie möchten eine spanische Nummer und EU-Roaming? Jede der vier Prepaid-eSIMs funktioniert, aber bei allen ist eine Reisepass-Registrierung am Verkaufsort erforderlich. Oder überspringen Sie den Papierkram: die [kostenlose Test-eSIM](/free-esim/) testet die Netze kostenlos, und der Code **WEB20** spart 20 % auf [Spanien-Prepaid-eSIM-Tarife](/spain-esim/).
+**Die 30-Sekunden-Version:** Bleiben Sie in Madrid oder Barcelona? Movistar ist das stärkste Rundum-Netz und führt bei der ländlichen Reichweite. Streamen oder Gaming? Orange liegt knapp vorne bei den Video- und Gaming-Werten. Wandern auf dem Camino de Santiago oder Autofahrt durch die Pyrenäen? Movistar hält das Signal, wo die anderen schwächer werden. Sie möchten eine spanische Nummer und EU-Roaming? Jede der vier Prepaid-Karten funktioniert, aber bei allen ist eine Reisepass-Registrierung am Verkaufsort erforderlich. Oder überspringen Sie den Papierkram: die kostenlose Test-eSIM testet die Netze kostenlos, und der Code **WEB20** spart 20 % auf die Spanien-Prepaid-eSIM-Tarife.
 
 
 
@@ -54,7 +53,7 @@ Bevor Sie Netzbetreiber vergleichen, sind zwei Dinge zu klären: Gerätekompatib
 
 
 
-Spanien verfügt über vier physische Netze, und auf jedem ist eine Prepaid-eSIM für Reisende erhältlich. Die Marken darunter sind wichtig, denn sie bestimmen Ihren Preis, den Registrierungsaufwand und auf welchen Funkmasten Sie tatsächlich sitzen.
+Spanien verfügt über vier physische Netze, und auf jedem ist eine Prepaid-Karte für Reisende erhältlich. Die Marken darunter sind wichtig, denn sie bestimmen Ihren Preis, den Registrierungsaufwand und auf welchen Funkmasten Sie tatsächlich sitzen.
 
 
 
@@ -66,9 +65,9 @@ Spanien verfügt über vier physische Netze, und auf jedem ist eine Prepaid-eSIM
 
 |:---|:---|:---|:---|:---|
 
-| Besitzt ein eigenes Netz | Yes, Telefónica | Yes, fusionierte 2024 mit MásMóvil | Yes, jetzt im Besitz von Zegona | Yes, plus Movistar Roaming im ländlichen Raum |
+| Besitzt ein eigenes Netz | Ja, Telefónica | Ja, fusionierte 2024 mit MásMóvil | Ja, jetzt im Besitz von Zegona | Ja, plus Movistar Roaming im ländlichen Raum |
 
-| Prepaid eSIM für Besucher | Yes, über die Mi Movistar-App | Yes, über die My Orange-App | Yes, über das Vodafone Prepaid-Portal | Yes, über die Mi Yoigo-App |
+| Prepaid-Karte für Besucher | Ja, über die Mi Movistar-App | Ja, über die My Orange-App | Ja, über das Vodafone Prepaid-Portal | Ja, über die Mi Yoigo-App |
 
 | Wo es überzeugt | Insgesamt am besten und beste Netzabdeckung im ländlichen Raum | Bestes Gaming und starke Videowiedergabe | Solide Städteabdeckung, gutes Roaming in Großbritannien und den USA | Geringster Preis pro Gigabyte |
 
@@ -78,7 +77,7 @@ Spanien verfügt über vier physische Netze, und auf jedem ist eine Prepaid-eSIM
 
 
 
-**Der praktische Nutzen steht in der letzten Zeile:** Alle vier Netzbetreiber verkaufen eine Prepaid-eSIM, die ein internationaler Besucher erwerben kann, aber keiner von ihnen ermöglicht es Ihnen, anonym zu bleiben. Das spanische Gesetz verlangt, dass jede SIM-Karte, ob physisch oder eSIM, auf eine verifizierte Identität registriert wird, und ein Reisepass ist das Dokument, das Touristen verwenden. Der Netzbetreiber, den Sie wählen, beeinflusst Ihren Preis und Ihre Netzabdeckung, nicht Ihren Papieraufwand.
+**Der praktische Nutzen steht in der letzten Zeile:** Alle vier Netzbetreiber verkaufen eine Prepaid-Karte, die ein internationaler Besucher erwerben kann, aber keiner von ihnen ermöglicht es Ihnen, anonym zu bleiben. Das spanische Gesetz verlangt, dass jede SIM-Karte, ob physisch oder eSIM, auf eine verifizierte Identität registriert wird, und ein Reisepass ist das Dokument, das Touristen verwenden. Der Netzbetreiber, den Sie wählen, beeinflusst Ihren Preis und Ihre Netzabdeckung, nicht Ihren Papieraufwand.
 
 
 
@@ -94,15 +93,15 @@ Die günstigeren Namen im Regal sind keine eigenständigen Netze. Sie mieten Kap
 
 |:---|:---|:---|:---|
 
-| Lowi | Vodafone | Yes, rund 12,90 EUR für 25 GB | Budget-Aufenthalte in der Stadt auf der Vodafone-Spur |
+| Lowi | Vodafone | Ja, rund 12,90 EUR für 25 GB | Budget-Aufenthalte in der Stadt auf der Vodafone-Spur |
 
-| O2 | Movistar | Yes, etwa 12 EUR für 20 GB | Gelegenheitsnutzer, die Movistar günstig erreichen möchten |
+| O2 | Movistar | Ja, etwa 12 EUR für 20 GB | Gelegenheitsnutzer, die Movistar günstig erreichen möchten |
 
 | Simyo | MásOrange (Orange) | Nur für ausgewählte Tarife verfügbar, ca. 8 EUR für 15 GB | Orange Netzabdeckung zum günstigsten Preis |
 
-| Pepephone | MásOrange (MásMóvil-Seite) | Yes, ca. 14,95 EUR für 20 GB | Lange Aufenthalte, akzeptiert internationale Karten |
+| Pepephone | MásOrange (MásMóvil-Seite) | Ja, ca. 14,95 EUR für 20 GB | Lange Aufenthalte, akzeptiert internationale Karten |
 
-| Lebara | MásOrange (MásMóvil-Seite) | Yes | Internationale Anrufer, Familie im Ausland |
+| Lebara | MásOrange (MásMóvil-Seite) | Ja | Internationale Anrufer, Familie im Ausland |
 
 | Lycamobile | MásOrange (MásMóvil-Seite) | Variiert je nach Tarif | Günstige internationale Gesprächsminuten |
 
@@ -134,11 +133,11 @@ Zwei Hinweise. Erstens sind Budgetmarken bei der Anmeldung oft strenger: Einige 
 
 
 
-Die Wirtschaftlichkeit hängt davon ab, was Ihnen wichtig ist. Eine spanische Prepaid-eSIM bietet einen günstigen lokalen Tarif, eine echte spanische Rufnummer mit EU-Roaming inklusive – das ist bei einem längeren Aufenthalt oder für den Empfang von Bank-Codes wirklich nützlich. Eine Reise-eSIM kauft Daten zum Großhandelspreis, erspart Ihnen die Passkontrolle und ermöglicht es dem Gerät, sich zwischen allen vier Netzen zu bewegen, ohne dass Sie eines auswählen müssen. Wo der Netzbetreiber punktet, sind die lokale Rufnummer und das EU-Roaming-Kontingent; wo die Reise-eSIM punktet, sind die sofortige Bereitstellung und die fehlende Registrierung.
+Die Wirtschaftlichkeit hängt davon ab, was Ihnen wichtig ist. Eine spanische Prepaid-Karte bietet einen günstigen lokalen Tarif, eine echte spanische Rufnummer mit EU-Roaming inklusive – das ist bei einem längeren Aufenthalt oder für den Empfang von Bank-Codes wirklich nützlich. Ein Reise-Profil kauft Daten zum Großhandelspreis, erspart Ihnen die Passkontrolle und ermöglicht es dem Gerät, sich zwischen allen vier Netzen zu bewegen, ohne dass Sie eines auswählen müssen. Wo der Netzbetreiber punktet, sind die lokale Rufnummer und das EU-Roaming-Kontingent; wo die Reise-eSIM punktet, sind die sofortige Bereitstellung und die fehlende Registrierung.
 
 
 
-Ein Multi-Netz-eSIM-Profil ist der praktische Mittelweg: [Roami's Spanien-eSIM](/spain-esim/) bietet den Komfort der sofortigen Bereitstellung, wechselt automatisch zwischen Movistar, Orange, Vodafone und Yoigo und sorgt dafür, dass Sie sowohl in den Bergen mit Movistar als auch in der Stadt mit Orange Empfang haben, ohne zweimal kaufen zu müssen.
+Ein Multi-Netz-eSIM-Profil ist der praktische Mittelweg: Roamis Spanien-eSIM bietet den Komfort der sofortigen Bereitstellung, wechselt automatisch zwischen Movistar, Orange, Vodafone und Yoigo und sorgt dafür, dass Sie sowohl in den Bergen mit Movistar als auch in der Stadt mit Orange Empfang haben, ohne zweimal kaufen zu müssen.
 
 
 
@@ -146,7 +145,7 @@ Ein Multi-Netz-eSIM-Profil ist der praktische Mittelweg: [Roami's Spanien-eSIM](
 
 
 
-Three Dinge entscheiden darüber, ob Ihr Telefon mit einem spanischen Netzbetreiber funktioniert: die unterstützten Frequenzbänder, der Sperrstatus und eine kurze Liste gerätespezifischer Besonderheiten. Alle drei werden im Folgenden behandelt.
+Drei Dinge entscheiden darüber, ob Ihr Telefon mit einem spanischen Netzbetreiber funktioniert: die unterstützten Frequenzbänder, der Sperrstatus und eine kurze Liste gerätespezifischer Besonderheiten. Alle drei werden im Folgenden behandelt.
 
 
 
@@ -166,7 +165,7 @@ Niemand muss sich diese Bandnummern merken. Der zuverlässigste Schritt ist, die
 
 
 
-Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation einer Spanien-eSIM einfach fehlschlägt. Anders als in einigen Märkten werden die meisten in Spanien und der Europäischen Union verkauften Telefone entsperrt ausgeliefert, da die EU-Einzelhandelspraxis standardmäßig offene Geräte vorsieht. Die Telefone, die Besucher Probleme bereiten, sind Vertragshandsets, die an einen Netzbetreiber in den USA, Kanada, Japan oder im Nahen Osten gebunden sind.
+Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation eines Spanien-Profils fehlschlägt. Anders als in einigen Märkten werden die meisten in Spanien und der Europäischen Union verkauften Telefone entsperrt ausgeliefert, da die EU-Einzelhandelspraxis standardmäßig offene Geräte vorsieht. Die Telefone, die Besucher Probleme bereiten, sind Vertragshandsets, die an einen Netzbetreiber in den USA, Kanada, Japan oder im Nahen Osten gebunden sind.
 
 
 
@@ -192,15 +191,15 @@ Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation einer Sp
 
 | Geräte ohne B20 oder n28a | Schnell in Städten, schwach im ländlichen Spanien | Erwartetes Verhalten; im Landesinneren besser Movistar bevorzugen |
 
-| Dual-SIM-Nutzer | eSIM installiert, aber keine Daten | Legen Sie die eSIM als die für mobile Daten verwendete Leitung fest |
+| Zwei Leitungen aktiv | Profil installiert, aber keine Daten | Weisen Sie die mobilen Daten ausdrücklich der spanischen Leitung zu |
 
 
 
-Jede verbleibende Ursache liegt beim Gerät, nicht beim spanischen Netzbetreiber. Prüfen Sie Ihr Modell vor der Tarifbuchung im [Gerätekompatibilitäts-Check](/compatibility/).
+Jede verbleibende Ursache liegt beim Gerät, nicht beim spanischen Netzbetreiber. Prüfen Sie Ihr Modell vor der Tarifbuchung im Gerätekompatibilitäts-Check.
 
 
 
-## Was jeder Tarif kostet
+## Was Prepaid-Tarife bei Movistar, Orange, Vodafone und Yoigo kosten
 
 
 
@@ -212,7 +211,7 @@ Es gibt vier Wege, die sich mehr bei der Registrierung als beim Preis unterschei
 
 |:---|:---|:---|:---|:---|
 
-| Movistar | Basic Prepaid | Around 40 GB | Around 10 | 28 days |
+| Movistar | Basic Prepaid | Etwa 40 GB | Etwa 10 | 28 Tage |
 
 | Orange (MásOrange) | Prepaid 10 | 60 GB plus 20 GB Bonus | Etwa 10 | 28 Tage |
 
@@ -222,7 +221,7 @@ Es gibt vier Wege, die sich mehr bei der Registrierung als beim Preis unterschei
 
 
 
-Preise ändern sich schneller als Artikel, daher behandeln Sie die Tabelle als Momentaufnahme der Einstiegstarife und nicht als aktuelles Angebot. Das aktuelle Angebot finden Sie auf unserer [Spanien eSIM-Tarife-Seite](/spain-esim/).
+Preise ändern sich schneller, als dieser Ratgeber nachkommt; behandeln Sie die Tabelle daher als Momentaufnahme der Einstiegstarife und nicht als aktuelles Angebot. Das aktuelle Angebot finden Sie in unserer [Tarifübersicht](/plans/). **Beispielrechnung für zehn Tage mit rund 10 GB:** Bei Vodafone kostet der Prepago S rund 10 EUR für 90 GB, bei Orange der Prepago 10 rund 10 EUR für 60 GB plus 20 GB Bonus – rechnet man die Reisepass-Registrierung und den Gang zum Laden hinzu, ist das bei einem langen Aufenthalt günstiger als ein Reise-Profil. Wer nur drei oder vier Tage in Madrid bleibt, für den ist die sofort verfügbare Verbindung bei der Landung den kleinen Aufpreis meist wert.
 
 
 
@@ -230,7 +229,7 @@ Preise ändern sich schneller als Artikel, daher behandeln Sie die Tabelle als M
 
 
 
-Movistar ist Spaniens größter Netzbetreiber und führend in der Netzabdeckung und gehört zu Telefónica. Visitoren kaufen eine Prepaid-eSIM über die Mi-Movistar-App oder in einer Movistar-Filiale.
+Movistar ist Spaniens größter Netzbetreiber und führend in der Netzabdeckung und gehört zu Telefónica. Besucher kaufen eine Prepaid-eSIM über die Mi-Movistar-App oder in einer Movistar-Filiale.
 
 
 
@@ -256,7 +255,7 @@ Movistar gibt eSIM-Unterstützung für iPhone XS und neuer, Google Pixel 3 und n
 
 
 
-Orange ist jetzt die Verbrauchermarke von MásOrange, der Gruppe, die 2024 aus dem Zusammenschluss von Orange Spanien und MásMóvil entstanden ist. Visitoren können eine Orange-Prepaid-eSIM über die My-Orange-App kaufen, wo der Prepago-10-Tarif rund 10 EUR für 60 GB plus 20 GB Bonus mit unbegrenzten Inlandgesprächen und 28 Tagen Gültigkeit kostet. EU-Roaming in diesem Tarif erreicht bis zu 26 GB.
+Orange ist jetzt die Verbrauchermarke von MásOrange, der Gruppe, die 2024 aus dem Zusammenschluss von Orange Spanien und MásMóvil entstanden ist. Besucher können eine Orange-Prepaid-Karte über die My-Orange-App kaufen, wo der Prepago-10-Tarif rund 10 EUR für 60 GB plus 20 GB Bonus mit unbegrenzten Inlandgesprächen und 28 Tagen Gültigkeit kostet. EU-Roaming in diesem Tarif erreicht bis zu 26 GB.
 
 
 
@@ -264,11 +263,11 @@ Zur MásOrange-Familie gehören auch Yoigo, Jazztel, Simyo, Pepephone, Lebara un
 
 
 
-### Die Kosten der Spanien-eSIM-Tarife
+### Was kostet die Prepaid-Karte bei Vodafone Spanien?
 
 
 
-Vodafone Spanien wurde von der Vodafone-Gruppe an Zegona Communications verkauft, doch das Netz und der Prepaid-eSIM-Prozess bleiben unverändert. Visitoren melden sich über das Vodafone-Prepaid-Portal oder in einer Filiale an.
+Vodafone Spanien wurde von der Vodafone-Gruppe an Zegona Communications verkauft, doch das Netz und der Prepaid-Prozess bleiben unverändert. Besucher melden sich über das Vodafone-Prepaid-Portal oder in einer Filiale an.
 
 
 
@@ -288,7 +287,7 @@ Die Prepaid-Stufen von Yoigo unterbieten die drei großen Netzbetreiber: rund 7 
 
 
 
-### Movistar eSIM-Tarife für Besucher
+### Welche Unterlagen brauchen Sie für eine spanische Prepaid-SIM?
 
 
 
@@ -302,7 +301,7 @@ Die Prepaid-Stufen von Yoigo unterbieten die drei großen Netzbetreiber: rund 7 
 
 - **Eine Karte, die in Spanien funktioniert** — einige Kassen der Netzbetreiber lehnen ausländische Zahlungsmittel ab, Budget-Marken sind strenger
 
-- **WLAN** — installieren Sie das Profil vor dem Flug, nicht am Flughafen
+- **Heimisches WLAN** — installieren Sie das Profil vor dem Abflug in Madrid oder Barcelona, nicht erst im Ankunftsbereich
 
 
 
@@ -322,7 +321,7 @@ Alle folgenden Werte stammen aus dem Speedtest-Connectivity-Report von Ookla fü
 
 
 
-| Metrisch | 0 | 0 | 0 | 0 |
+| Kennzahl | Movistar | Orange (MásOrange) | Vodafone | Yoigo |
 
 |:---|:---|:---|:---|:---|
 
@@ -374,17 +373,17 @@ Zum Kontext für das Land insgesamt: Laut dem Speedtest Global Index von Ookla l
 
 
 
-| Reiseart | Empfohlener Netzbetreiber | Begründung | Hinweis |
+| Art der Spanien-Reise | Empfohlenes Netz | Begründung | Praxis-Hinweis |
 
 |:---|:---|:---|:---|
 
-| Städtereise, Madrid oder Barcelona | Movistar oder Orange | Beide hervorragend im Stadtzentrum; Movistar am schnellsten, Orange stärkstes Video | Metro Stationen variieren je nach Linie |
+| Städtereise, Madrid oder Barcelona | Movistar oder Orange | Beide hervorragend im Stadtzentrum; Movistar am schnellsten, Orange stärkstes Video | Die U-Bahn-Stationen variieren je nach Linie |
 
 | Camino de Santiago | Movistar | Beste ländliche Netzabdeckung, deckt Ortschaften und die Lücken der Hochebene am besten ab | Ländliche Abschnitte zwischen den Etappen fallen weiterhin aus |
 
 | Pyrenäen oder Sierra Nevada | Movistar | Niedrige Bänder reichen am weitesten in Täler und Pässe hinein | Oberhalb von 1500 m sehen Sie möglicherweise nur 3G oder gar nichts |
 
-| Gaming oder intensive Videos | Orange | Bester Gaming-Wert mit 84,59 und ein starker Video-Wert | Upload-Geschwindigkeiten schwächeln Movistar |
+| Gaming oder intensive Videos | Orange | Bester Gaming-Wert mit 84,59 und ein starker Video-Wert | die Upload-Geschwindigkeiten sind bei Movistar schwächer |
 
 | Strand- und Inselurlaub | Movistar oder Orange | Resortgebiete sind gut abgedeckt bei beiden | Fähren zwischen den Inseln haben keinen Empfang |
 
@@ -446,11 +445,11 @@ Betrachten Sie die APN-Einstellungen als Ausweichschicht: selten angefasst, aber
 
 
 
-Sie benötigen diese nur, wenn Sie eine SIM oder eSIM **direkt bei einem spanischen Netzbetreiber** gekauft haben. Eine Reise-eSIM liefert ihren eigenen APN für Spanien, daher ist keine Bearbeitung erforderlich.
+Sie benötigen diese nur, wenn Sie eine Karte **direkt bei einem spanischen Netzbetreiber** gekauft haben. Ein Reise-Profil liefert seinen eigenen APN für Spanien, daher ist keine Bearbeitung erforderlich.
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Spanisches Netz | APN | Benutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -468,21 +467,21 @@ Lassen Sie Benutzername und Passwort leer, wenn die Tabelle keine Angaben zeigt.
 
 
 
-### Spanien-Netze: APN-Details
+### Wann eine manuelle Spanien-APN wirklich nötig ist
 
 
 
-- Ein älteres Gerät, das die Netzbetreibereinstellungen nicht automatisch übernimmt
+- Ein älteres Handy, das die Konfigurations-SMS von Movistar oder Orange nicht mehr verarbeitet
 
-- Ein Profil, das mit einem manuellen Aktivierungscode statt per QR-Scan installiert wurde
+- Ein Profil, das Sie mit einem manuellen Aktivierungscode statt per QR-Scan eingerichtet haben
 
-- Eine vom Netzbetreiber ausgestellte Prepaid-eSIM, bei der die automatische Konfiguration nicht durchgelaufen ist
+- Eine direkt bei Vodafone oder Yoigo ausgestellte Prepaid-Karte, bei der die automatische Konfiguration nicht durchgelaufen ist
 
-- Fast nie bei einer Reise-eSIM, denn genau das ist der Sinn eines verwalteten Profils
+- Fast nie bei einem verwalteten Reise-Profil, denn dessen APN ist fest voreingestellt
 
 
 
-### Fälle, in denen eine manuelle Spanien-APN nötig ist
+### Wo Sie die APN auf iPhone und Android eintragen
 
 
 
@@ -492,7 +491,7 @@ Lassen Sie Benutzername und Passwort leer, wenn die Tabelle keine Angaben zeigt.
 
 
 
-Starten Sie das Gerät nach dem Speichern neu. Wenn danach nichts geladen wird, prüfen Sie, dass die Datenleitung auf die spanische eSIM und nicht auf die Heim-SIM eingestellt ist.
+Starten Sie das Gerät nach dem Speichern neu. Wenn danach nichts geladen wird, prüfen Sie, dass die Datenleitung auf das spanische Profil und nicht auf die Heim-SIM eingestellt ist.
 
 
 
@@ -514,13 +513,13 @@ Lesen Sie diesen Abschnitt einmal und Sie haben den gesamten Weg abgedeckt — v
 
 | 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | Unter „Einstellungen > Allgemein > Info > Netzbetreiber-Sperre“ wird „Keine SIM-Einschränkungen“ angezeigt |
 
-| 2 | Das Telefon unterstützt eSIM | \*#06# zeigt eine EID an, oder das [eSIM-Kompatibilitätstool](/compatibility/) bestätigt Ihr Modell |
+| 2 | Das Telefon unterstützt eSIM | \*#06# zeigt eine EID an, oder das eSIM-Kompatibilitätstool bestätigt Ihr Modell |
 
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud gespeichert |
+| 3 | QR-Code und Aktivierungscode zweifach gesichert | Screenshot im Handy-Speicher und zusätzlich in Ihrer Cloud-Ablage |
 
 | 4 | Profil vor der Abreise installieren | Zu Hause über WLAN installieren; das Profil verbindet sich automatisch nach der Landung |
 
-| 5 | Datenleitung und Roaming eingestellt | eSIM für mobile Daten ausgewählt, Datenroaming aktiviert |
+| 5 | Datenleitung und Roaming gewählt | Die Spanien-Leitung liefert die mobilen Daten, Datenroaming ist darauf aktiviert |
 
 
 
@@ -548,11 +547,11 @@ Die Standardinstallation, vom Hinzufügen der eSIM bis zum Roaming-Schalter, ist
 
 
 
-### Aktivierung bei Movistar, Orange und Vodafone in Spanien
+### Vier Fehlermuster, die spanische Netze erzeugen
 
 
 
-Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann, ein fehlgeschlagener Scan, eine eSIM, die sich zwar installiert, aber nie registriert, werden in unserem [vollständigen eSIM-Fehlerbehebungsleitfaden](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Achten Sie beim Weiterlesen auf diese vier Spanien-spezifischen Muster.
+Grundlegende Aktivierungsfehler – ein Profil, das sich nicht herunterladen lässt, ein fehlgeschlagener Scan oder eine Leitung, die sich installiert, aber nie registriert – behandelt unser [vollständiger eSIM-Fehlerbehebungsleitfaden](/faq/esim-activation-errors-troubleshooting-guide/). Für Spanien sind die folgenden vier Muster typisch.
 
 
 
@@ -566,7 +565,7 @@ Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann
 
 
 
-**B. Installiert, aber keine Empfangsbalken**
+**B. Das Profil sitzt, aber es erscheinen keine Empfangsbalken**
 
 1. Überprüfen Sie den SIM-Lock-Status erneut
 
@@ -600,23 +599,23 @@ Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann
 
 
 
-| Information | Wo Sie sie finden |
+| Angabe für den Support | Wo Sie sie in Ihrem Gerät finden |
 
 |:---|:---|
 
-| Bestell- oder Kundennummer | Bestätigungs-E-Mail |
+| Bestellnummer bei Movistar, Orange, Vodafone oder Yoigo | Die Bestätigungs-E-Mail des jeweiligen Netzbetreibers |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen, Über |
+| Handy-Modell und iOS- bzw. Android-Version | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
 
 | EID | \*#06# |
 
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Screenshot der Fehlermeldung | Noch im Fehlerdialog aufnehmen – genau diesen Nachweis will der Netzbetreiber im Chat zuerst sehen |
 
-| Aktuelle APN-Einstellungen | Einstellungen, Mobiles Datennetz |
+| Aktueller APN-Wert der Leitung | Einstellungen → Mobilfunk → Mobilfunk-Datennetzwerk |
 
-| Datenroaming-Status | Einstellungen, Mobilfunk, Ihre eSIM-Leitung |
+| Ist Datenroaming auf der spanischen Leitung aktiv? | Einstellungen → Mobilfunk → die eSIM-Leitung |
 
-| Bereits versucht | Kurz halten |
+| Bisherige Schritte | Stichpunkte in der Reihenfolge, in der Sie sie versucht haben |
 
 
 
@@ -628,7 +627,7 @@ Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann
 
 
 
-Yes. Movistar verkauft eine Prepaid-eSIM über die Mi-Movistar-App oder im Laden, mit Einstiegstarifen ab etwa 10 EUR für 40 GB. Der Haken ist das spanische Registrierungsgesetz: Vor der Freischaltung des Profils muss ein Reisepass verifiziert werden, und ein Wechsel von physischer SIM zu eSIM kann mit einer einmaligen Gebühr verbunden sein, sofern Sie nicht iPhone Quick Transfer nutzen.
+Ja. Movistar verkauft eine Prepaid-eSIM über die Mi-Movistar-App oder im Laden, mit Einstiegstarifen ab etwa 10 EUR für 40 GB. Der Haken ist das spanische Registrierungsgesetz: Vor der Freischaltung des Profils muss ein Reisepass verifiziert werden, und ein Wechsel von physischer SIM zu eSIM kann mit einer einmaligen Gebühr verbunden sein, sofern Sie nicht iPhone Quick Transfer nutzen.
 
 
 
@@ -636,7 +635,7 @@ Yes. Movistar verkauft eine Prepaid-eSIM über die Mi-Movistar-App oder im Laden
 
 
 
-Yes. Orange Spanien hat 2024 mit MásMóvil zu MásOrange fusioniert, aber die Marke Orange bleibt die wichtigste Verbrauchermarke der Gruppe, und Orange-Prepaid-eSIMs werden weiterhin unter dem Namen Orange über die My-Orange-App verkauft. Zur selben Gruppe gehören auch Yoigo, Jazztel, Simyo, Pepephone, Lebara und Lycamobile.
+Ja. Orange Spanien hat 2024 mit MásMóvil zu MásOrange fusioniert, aber die Marke Orange bleibt die wichtigste Verbrauchermarke der Gruppe, und Orange-Prepaid-eSIMs werden weiterhin unter dem Namen Orange über die My-Orange-App verkauft. Zur selben Gruppe gehören auch Yoigo, Jazztel, Simyo, Pepephone, Lebara und Lycamobile.
 
 
 
@@ -644,7 +643,7 @@ Yes. Orange Spanien hat 2024 mit MásMóvil zu MásOrange fusioniert, aber die M
 
 
 
-Yes, gesetzlich. Nach den EU-Roam-Like-at-Home-Regeln (Verordnung EU 2022/612, gültig bis 2032) funktioniert eine spanische Prepaid-eSIM in der gesamten EU und im EWR innerhalb fairer Nutzungsgrenzen ohne Aufpreis. Beispielsweise erlaubt das Prepago 10 von Orange bis zu 26 GB Roaming aus dem Datenvolumen. Das Vereinigte Königreich ist nach dem Brexit nicht mehr automatisch abgedeckt, und Andorra und Gibraltar liegen außerhalb der EU, sodass dort Roaming-Gebühren anfallen können.
+Ja, gesetzlich. Nach den EU-Roam-Like-at-Home-Regeln (Verordnung EU 2022/612, gültig bis 2032) funktioniert eine spanische Prepaid-eSIM in der gesamten EU und im EWR innerhalb fairer Nutzungsgrenzen ohne Aufpreis. Beispielsweise erlaubt das Prepago 10 von Orange bis zu 26 GB Roaming aus dem Datenvolumen. Das Vereinigte Königreich ist nach dem Brexit nicht mehr automatisch abgedeckt, und Andorra und Gibraltar liegen außerhalb der EU, sodass dort Roaming-Gebühren anfallen können.
 
 
 
@@ -672,7 +671,7 @@ Nein, sie sind Marken, die Kapazitäten von den vier Eigentümern mieten. Lowi l
 
 
 
-### Welche Datenmenge passt für Spanien?
+### Welcher spanische Netzbetreiber bietet das beste Preis-Leistungs-Verhältnis?
 
 
 
@@ -680,17 +679,17 @@ Yoigo, pro Gigabyte gerechnet. Die Prepaid-Tarife reichen von etwa 7 EUR für 7 
 
 
 
-### Movistar oder Orange 5G: Was ist in Spanien besser?
+### Unterstützt mein Handy die spanischen 5G-Bänder?
 
 
 
-Wenn Ihr Smartphone europäische Bänder unterstützt, dann ja. Das spanische 5G nutzt n1, n3, n7, n28a (700 MHz), n78 (3,5 GHz) und n258 (26 GHz). Das wichtigste Band außerhalb der Städte ist n28a, das niedrige 700-MHz-Band, das Versorgungslücken im ländlichen Raum und in Innenräumen schließt; fehlt dieses Band, funktioniert das Telefon zwar in Städten, verliert aber die tiefste Netzabdeckung. Prüfen Sie Ihr Modell vor dem Flug in der [Kompatibilitätsliste](/compatibility/).
+Wenn Ihr Smartphone europäische Bänder unterstützt, dann ja. Das spanische 5G nutzt n1, n3, n7, n28a (700 MHz), n78 (3,5 GHz) und n258 (26 GHz). Das wichtigste Band außerhalb der Städte ist n28a, das niedrige 700-MHz-Band, das Versorgungslücken im ländlichen Raum und in Innenräumen schließt; fehlt dieses Band, funktioniert das Telefon zwar in Städten, verliert aber die tiefste Netzabdeckung. Prüfen Sie Ihr Modell vor dem Flug in der Kompatibilitätsliste.
 
 
 
-### Geräte, die in Spanien Probleme haben
+### Kann ich eine Spanien-eSIM und meine Heimat-SIM gleichzeitig nutzen?
 
-Yes, und es ist eine sinnvolle Konfiguration. Führen Sie Anrufe und Verifizierung über Ihre Heimleitung und nutzen Sie spanische Daten über die eSIM. Weisen Sie die Daten der spanischen eSIM-Leitung zu und belassen Sie die Heimleitung für Sprache. Zwei Hinweise: Deaktivieren Sie Roaming auf der Heimleitung, um Hintergrundgebühren zu vermeiden, und rechnen Sie damit, dass Verifizierungs-SMS weiterhin auf Ihrer Heimatrufnummer eingehen statt auf dem Datenprofil.
+Ja, und es ist eine sinnvolle Konfiguration. Führen Sie Anrufe und Verifizierung über Ihre Heimleitung und nutzen Sie spanische Daten über die eSIM. Weisen Sie die Daten der spanischen eSIM-Leitung zu und belassen Sie die Heimleitung für Sprache. Zwei Hinweise: Deaktivieren Sie Roaming auf der Heimleitung, um Hintergrundgebühren zu vermeiden, und rechnen Sie damit, dass Verifizierungs-SMS weiterhin auf Ihrer Heimatrufnummer eingehen statt auf dem Datenprofil.
 
 
 
@@ -698,7 +697,7 @@ Yes, und es ist eine sinnvolle Konfiguration. Führen Sie Anrufe und Verifizieru
 
 
 
-Der Wechsel, den Sie früher am Movistar- oder Orange-Schalter vorgenommen haben, ist heute ein Download, denn Spanien nutzt denselben Embedded-SIM-Standard wie überall sonst. Der Netzbetreiber überträgt ein Profil auf den eingebauten Chip des Geräts, und die resultierende Leitung verhält sich dann wie jede gewöhnliche SIM im Telefon. Der Vorgang selbst, einschließlich der Frage, warum ein QR-Code nur einmal gescannt werden kann, wird im [eSIM-Aktivierungs-Leitfaden](/faq/what-is-esim-activation-and-how-does-it-work/) erklärt.
+Der Wechsel, den Sie früher am Movistar- oder Orange-Schalter vorgenommen haben, ist heute ein Download, denn Spanien nutzt denselben Embedded-SIM-Standard wie überall sonst. Der Netzbetreiber überträgt ein Profil auf den eingebauten Chip des Geräts, und die resultierende Leitung verhält sich dann wie jede gewöhnliche SIM im Telefon. Der Vorgang selbst, einschließlich der Frage, warum ein QR-Code nur einmal gescannt werden kann, wird im eSIM-Aktivierungs-Leitfaden erklärt.
 
 
 
@@ -734,11 +733,11 @@ Es werden ausschließlich Drittanbieter-Messungen zitiert. Was Sie tatsächlich 
 
 
 
-## Die richtige Größe Ihres Datentarifs
+## Ihre Spanien-eSIM in drei Schritten starten
 
 
 
-Ein einziges Roami-Profil verbindet Movistar, Orange, Vodafone und Yoigo und wechselt mit Ihnen von Madrid in die Berge, ohne Schalter und ohne Pass. Starten Sie mit einer [kostenlosen Spanien-Test-eSIM](/free-esim/), oder nutzen Sie den Code **WEB20** für 20 % Rabatt auf [Spanien-eSIM-Tarife](/spain-esim/).
+Ein einziges Roami-Profil verbindet Movistar, Orange, Vodafone und Yoigo und wechselt mit Ihnen von Madrid in die Berge, ohne Schalter und ohne Pass. Starten Sie mit einer kostenlosen Spanien-Test-eSIM, oder nutzen Sie den Code **WEB20** für 20 % Rabatt auf [Spanien-eSIM-Tarife](/spain-esim/).
 
 
 

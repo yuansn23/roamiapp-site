@@ -3,7 +3,7 @@ title: "Die Europa eSIM im Vergleich von Orange bis Vodafone"
 description: "Die Europa eSIM im Vergleich: Roaming-Regeln, Länderlisten und Preise, damit eine Installation jede Grenze Ihrer Rundreise abdeckt."
 image: "img/esim/carriers/europe-esim-carrier-guide.jpg"
 date: "2026-09-26T22:09:52+00:00"
-keywords: Europe eSIM, Business-Travel-eSIM, Vodafone Europe, Deutsche Telekom Europe, keine Roaming-Gebühren, zuverlässiges Netz in Europa
+keywords: Europa eSIM, Europa eSIM-Netzbetreiber, Business-Travel-eSIM, Vodafone Europa, Deutsche Telekom Europa, keine Roaming-Gebühren, zuverlässiges Netz in Europa, Länderabdeckung Europa eSIM
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -24,7 +24,7 @@ Geschwindigkeitstests und Netzabdeckungskarten sind irrelevant, wenn das Profil 
 
 **Die kurze Antwort:** Wenn Ihre Reise mehr als ein europäisches Land berührt — und die meisten tun das — ist eine regionale Europa-eSIM fast immer die richtige Wahl: ein Kauf, eine Installation, automatische Netzübergänge an jeder Grenze und keine Sprachbarriere am Schalter. Kaufen Sie einen Einzel-Land-Tarif nur, wenn Sie nachweislich an einem Ort bleiben; kaufen Sie eine lokale SIM erst bei der Ankunft, wenn Sie eine lokale Rufnummer benötigen oder einen Monat oder länger bleiben wollen. Die „Roam like at home“-Regeln der EU sind großzügig, aber sie schützen lokal ausgestellte SIMs, nicht im Ausland erworbene Reise-Tarife — weshalb das Lesen der Länderliste eines regionalen Tarifs, insbesondere für die Schweiz, Norwegen und das Vereinigte Königreich, die mit Abstand wichtigste Prüfung ist, die Sie vornehmen werden. Starten Sie mit einer [kostenlosen Multi-Netzwerk-Test-eSIM](/free-esim/), um Ihr Handy zu bestätigen, und wählen Sie dann ein Paket auf der [Europa-eSIM-Seite](/europe-esim/).
 
-## Vom QR-Code zur Verbindung
+## Wie aus einem QR-Code in Europa eine Verbindung wird
 
 Alles auf dieser Seite folgt aus der Wahl in dieser Tabelle, daher lohnt es sich, genau zu lesen.
 
@@ -36,11 +36,11 @@ Alles auf dieser Seite folgt aus der Wahl in dieser Tabelle, daher lohnt es sich
 | Grenzübertritt | Automatische Netzwahl | Erneut kaufen oder offline gehen | Erneut kaufen oder offline gehen |
 | Ideal für | Nahezu jede mehrtägige Europareise | Aufenthalte in einer einzigen Stadt | Lange Aufenthalte oder alle, die eine lokale Rufnummer benötigen |
 
-Das Muster, das es zu erkennen gilt: Die erste Option ist die einzige, deren Netzabdeckung zur Form einer Europareise passt. Reisende bleiben hier selten in einem einzigen Land — der ganze Reiz des Kontinents ist die Dichte der Grenzen, die es zu überqueren lohnt. Eine regionale Europa-eSIM ist genau für diese Bewegung gebaut: Sie wechselt in jedem Land ihrer Liste auf einen lokalen Netzbetreiber, und Ihr Telefon übernimmt die Übergabe, während Sie aus dem Zugfenster schauen. Die anderen beiden Optionen sind ehrliche Produkte, aber jede setzt voraus, dass Ihre Reise anders geformt ist, als eine Europareise es normalerweise ist.
+Das Muster, das es zu erkennen gilt: Die erste Option ist die einzige, deren Netzabdeckung zur Form einer Europareise passt. Reisende bleiben in Europa selten in einem einzigen Land — der ganze Reiz Europas ist die Dichte der Grenzen, die es zu überqueren lohnt. Eine regionale Europa-eSIM ist genau für diese Bewegung gebaut: Sie wechselt in jedem Land ihrer Liste auf einen lokalen Netzbetreiber, und Ihr Telefon übernimmt die Übergabe, während Sie aus dem Zugfenster schauen. Die anderen beiden Optionen sind ehrliche Produkte, aber jede setzt voraus, dass Ihre Reise anders geformt ist, als eine Europareise es normalerweise ist.
 
-Wenn Sie eine Reise mit einem dominanten Standort abwägen — eine Woche Meetings in Frankfurt mit einem Wochenendausflug nach Prag — ist das der nächste Fall für eine einzelne [Deutschland-eSIM](/germany-esim/), da der Großteil Ihrer Nutzung in einem Markt stattfindet. Bei jeder weiteren Bewegung gewinnt die regionale Rechnung.
+Wenn Sie eine Reise mit einem dominanten Standort abwägen — eine Woche Meetings in Frankfurt mit einem Wochenendausflug nach Prag — ist das der nächste Fall für eine einzelne Deutschland-eSIM, da der Großteil Ihrer Nutzung in einem Markt stattfindet. Bei jeder weiteren Bewegung gewinnt die regionale Rechnung.
 
-## Die lokalen Netzbetreiber im Überblick
+## Europas Netzbetreiber und ihre Reiseprodukte
 
 Der Dreiervergleich oben klärt die *Form* des Kaufs; dieser Abschnitt klärt die konkreten Produkte, denn selbst innerhalb der Spalte „lokaler Anbieter“ gibt es eine echte Spanne zwischen einem französischen Touristenpaket, das in Europa roamt, und einer deutschen Prepaid-Karte, die dies größtenteils nicht tut. Die drei Namen decken den Großteil dessen ab, was Besucher tatsächlich kaufen.
 
@@ -73,7 +73,7 @@ Zwei Besonderheiten, die Sie vor dem Kauf kennen sollten. Erstens: Das Tethering
 
 ### Der deutsche Prepaid-Markt von Telekom bis Aldi Talk
 
-Für die Route „eine dominierende Basis“ ist der deutsche Prepaid-Markt der nützliche Vergleich, denn er ist der größte Europas und seine Preisstruktur ist ungewöhnlich transparent. Unser eigener [Prepaid-Preisratgeber Deutschland](/blog/germany-esim-local-carriers-prepaid-guide) verfolgt die aktuellen Stufen: **Telekom MagentaMobil** liegt bei etwa 20 € für 5 GB und 30 € für 10 GB; **Vodafone CallYa** und **O2 Prepaid** bewegen sich um die 12–15 € für 10 GB; und die Supermarkt-Marken – **Aldi Talk**, **Lidl Connect**, **congstar** – landen für dieselbe Datenmenge bei etwa 8–13 €.
+Für die Route „eine dominierende Basis“ ist der deutsche Prepaid-Markt der nützliche Vergleich, denn er ist der größte Europas und seine Preisstruktur ist ungewöhnlich transparent. Unsere [Prepaid-Tarifübersicht](/plans/) verfolgt die aktuellen Stufen: **Telekom MagentaMobil** liegt bei etwa 20 € für 5 GB und 30 € für 10 GB; **Vodafone CallYa** und **O2 Prepaid** bewegen sich um die 12–15 € für 10 GB; und die Supermarkt-Marken – **Aldi Talk**, **Lidl Connect**, **congstar** – landen für dieselbe Datenmenge bei etwa 8–13 €.
 
 | Tarif | Datenvolumen | Ca. Preis | Identitätsprüfung |
 |:---|:---|:---|:---|
@@ -86,7 +86,7 @@ Das deutsche Recht (Telekommunikationsgesetz, TKG) verlangt eine Identitätsprü
 
 Vodafones Prepaid-Marke verdient in diesem Zusammenhang einen weiteren Satz, denn **CallYa** verkauft ein ausdrückliches Europa-Add-on, das EU-Roaming-Daten zusätzlich zum Inlandsvolumen bündelt – das deutlichste Beispiel dafür, wie ein lokaler Netzbetreiber RLAH für Reisende verpackt. O2 und Telekom verkaufen Entsprechendes. Das Kleingedruckte ist stets das faire Nutzungsvolumen: Die Daten des Add-ons sind in Deutschland großzügig und auf ein kleineres Roaming-Kontingent begrenzt; jenseits dieser Grenze bewegt sich der Aufpreis pro Gigabyte an der EU-Obergrenze. Für eine Reise mit zwei Ländern, die an einem großen Markt verankert ist, kann diese Struktur einen regionalen Tarif schlagen; bei mobileren Routen führt sie genau die länderweise Buchhaltung wieder ein, die das regionale Produkt eigentlich vermeiden soll.
 
-Beachten Sie, was die Preisstaffel über den Rest des Kontinents verrät: Eine französische oder italienische Prepaid-Karte kostet einen Bruchteil dieser Beträge, und das regionale Reise-Produkt liegt preislich zwischen den Discount-Marken und den Premium-Netzen. Keine der lokalen Routen liefert mehr als ein Land, ohne dass die EU-Roaming-Regeln die Arbeit übernehmen – genau der Mechanismus, den der nächste Abschnitt erläutert.
+Beachten Sie, was die Preisstaffel über den Rest Europas verrät: Eine französische oder italienische Prepaid-Karte kostet einen Bruchteil dieser Beträge, und das regionale Reise-Produkt liegt preislich zwischen den Discount-Marken und den Premium-Netzen. Keine der lokalen Routen liefert mehr als ein Land, ohne dass die EU-Roaming-Regeln die Arbeit übernehmen – genau der Mechanismus, den der nächste Abschnitt erläutert.
 
 ## Grenzüberschreitung mit einer eSIM
 
@@ -116,9 +116,9 @@ Ein regionaler Tarif ist nur so gut wie seine Abdeckungsliste, und Europas Geogr
 
 Die Disziplin, die jede dieser Fallen vermeidet, kostet zwei Minuten: Legen Sie vor dem Kauf einer Europa-eSIM Ihre Reiseroute neben die Länderliste des Tarifs, Markt für Markt. Jedes Land, in dem Sie eine Nacht verbringen, sollte namentlich auf dieser Liste stehen. Wenn ein Tagesausflug in die Schweiz führt, muss die Schweiz namentlich aufgeführt sein, nicht nur implizit. Für länderspezifische Planung innerhalb der Region decken unsere drei Länderseiten die Märkte ab, die die meisten Routen verankern:
 
-- [Frankreich eSIM](/france-esim/) für den atlantisch-alpinen Westen
-- [Italien eSIM](/italy-esim/) für das mediterrane Zentrum
-- [Griechenland eSIM](/greece-esim/) für das östliche Ende
+- [eSIM-Tarife für Frankreich](/france-esim/) für den atlantisch-alpinen Westen
+- [eSIM-Tarife für Italien](/italy-esim/) für das mediterrane Zentrum
+- [eSIM-Tarife für Griechenland](/greece-esim/) für das östliche Ende
 
 ## Was eine regionale eSIM an jeder Zuggrenze tut
 
@@ -130,7 +130,7 @@ Eine physische Ausnahme, die es zu kennen gilt: der Ärmelkanal-Tunnel selbst. E
 
 ## Wann der SIM-Schalter in Europa noch gewinnt
 
-Die übliche Empfehlung lautet, vor dem Flug zu kaufen, und in Europa stimmt dieser Rat häufiger als anderswo. Aber der Weg über den Schalter ist nicht verschwunden, und es lohnt sich, genau zu wissen, was er beinhaltet – denn für eine Minderheit von Reisen ist er tatsächlich das bessere Produkt.
+Die übliche Empfehlung lautet, vor dem Flug zu kaufen, und in Europa stimmt dieser Rat häufiger als anderswo. Aber der Weg über den Schalter ist in Europa nicht verschwunden, und es lohnt sich, genau zu wissen, was er beinhaltet – denn für eine Minderheit von Reisen ist er tatsächlich das bessere Produkt.
 
 **Wie ein Kauf am Schalter tatsächlich abläuft:**
 
@@ -142,9 +142,23 @@ Die übliche Empfehlung lautet, vor dem Flug zu kaufen, und in Europa stimmt die
 
 **Wann der Schalter noch gewinnt**, in vier Fällen: Sie brauchen eine echte lokale Rufnummer für Inlandanrufe und SMS-Codes, nicht nur eine französische Nummer; Ihr Aufenthalt dauert einen Monat oder länger, wo die lokalen Pro-Gigabyte-Preise zu Ihren Gunsten wirken; Ihr Gerät kann gar kein Reise-Profil aufnehmen; oder Sie bevorzugen Bargeld und eine Wirtschaft aus Aufladekarten passt zu Ihnen. Für alle anderen Fälle – und das ist die überwältigende Mehrheit der Zwei-Wochen-Routen – gewinnt das vorgekaufte regionale Profil beim Preis, beim Zeitaufwand und bei der Anzahl fremdsprachiger Gespräche pro Gigabyte.
 
+### Ankunft am ersten Flughafen: der Ablauf, wenn Sie nichts vorbereitet haben
+
+Landen Sie ohne installiertes Profil, entscheidet die erste halbe Stunde am Flughafen. Die großen europäischen Drehkreuze — Frankfurt, Charles de Gaulle, Wien — haben in den Ankunftshallen Kioske von Orange, Vodafone, Telekom und ihren nationalen Pendants; rechnen Sie mit fünf bis fünfzehn Minuten für die Registrierung einschließlich Wartezeit.
+
+Der Plan B für den Fall, dass die Schlange länger ist als Ihr Anschluss: Nehmen Sie das Flughafen-WLAN für Taxi- oder Bahn-App und kaufen Sie die Karte erst in der Stadt, wo der Andrang kleiner ist. Was Sie nicht tun sollten, ist die Registrierung in der Ankunftshalle zu erzwingen und dabei den Zug zu verpassen. Mit einem vor dem Abflug installierten Profil entfällt dieser Schritt vollständig — Sie sind in Europa online, sobald das Flugzeug die Türen öffnet.
+
 ## Gigabyte-Ökonomie
 
 Die Bahnrouten unten sind die klassischen Formen; diese Tabelle weitet den Blick auf die Reisen, die Reisende tatsächlich buchen – mit dem jeweils passenden Produkt und dem Check, der sie rettet.
+
+### Was eine Europareise wirklich kostet: eine Beispielrechnung
+
+Nehmen Sie die klassische Route — zwei Wochen durch Europa, vier Länder, rund ein Gigabyte pro Tag. Die Preise in diesem Artikel reichen für die Rechnung, und sie fällt deutlicher aus, als die Werbung vermuten lässt.
+
+Eine regionale Lösung liegt bei 24,99 €: Das Orange-Holiday-Paket mit 20 GB über 14 Tage deckt den Tagesbedarf von 14 GB mit Reserve und landet bei rund 1,25 € pro Gigabyte. Wer mehr Puffer möchte, zahlt 47,99 € für 100 GB — dann sinkt der Gigabyte-Preis auf etwa 0,48 €. Gegen eine deutsche Prepaid-Karte gerechnet: Telekom MagentaMobil kostet 20 € für 5 GB und 30 € für 10 GB, also rund 3 € pro Gigabyte und damit mehr als das Doppelte des regionalen Pakets. Die Supermarkt-Marken Aldi Talk, Lidl Connect und congstar liegen bei 8–13 € für 10 GB, also bei 0,80–1,30 € pro Gigabyte — aber nur in Deutschland, ohne Puffer für die Schweiz oder das Vereinigte Königreich.
+
+Der eigentliche Kostenhebel ist nicht das Gigabyte, sondern die Zahl der Schalter. Jede lokal gekaufte Karte bringt eine Identitätsprüfung mit; bei vier Ländern sind das vier Besuche mit vier Wartezeiten. Die günstigste Rechnung ist deshalb selten die mit den meisten Registrierungen. Und die teuerste Variante bleibt die, die niemand einplant: ungedecktes Roaming in einem Nicht-EU-Markt wie der Schweiz, wo ein Gigabyte im Landesdurchschnitt 7,29 USD kostet.
 
 | Ihre Reise | Beste Passung | Warum | Der entscheidende Check |
 |:---|:---|:---|:---|
@@ -165,17 +179,17 @@ Gewöhnen Sie sich daran, die rechte Spalte als Gewohnheit und nicht als Liste v
 
 Anhand von Reiserouten lässt sich das konkret nachvollziehen, daher im Folgenden die drei klassischen europäischen Bahn-Routen mit dem jeweils zu erwartenden Empfangsverhalten an den einzelnen Halten.
 
-**Die Renaissancerunde – Paris, Mailand, Wien, Prag.** Das kulturelle Herzstück des Kontinents und vier EU-Märkte, in denen jede kompetente regionale Liste vollständig ist. Paris nach Mailand überquert die Alpen Richtung Italien; Mailand nach Wien führt durch oder am Rand von Österreich; Wien nach Prag führt nach Tschechien. Alle vier Teilstrecken sind EU-Binnenverkehr, daher kommen sowohl eine regionale Europa-eSIM als auch eine vor Ort gekaufte französische SIM-Karte problemlos zurecht – der Unterschied zeigt sich erst beim Kauf, und da gewinnt der regionale Tarif für Besucher klar die Oberhand. Achten Sie bei der Liste auf die landschaftlich reizvollen Strecken über den Gotthard und den Brenner, die an der Schweizer Grenze vorbeiführen.
+**Die Renaissancerunde – Paris, Mailand, Wien, Prag.** Das kulturelle Herzstück Europas und vier EU-Märkte, in denen jede kompetente regionale Liste vollständig ist. Paris nach Mailand überquert die Alpen Richtung Italien; Mailand nach Wien führt durch oder am Rand von Österreich; Wien nach Prag führt nach Tschechien. Alle vier Teilstrecken sind EU-Binnenverkehr, daher kommen sowohl eine regionale Europa-eSIM als auch eine vor Ort gekaufte französische SIM-Karte problemlos zurecht – der Unterschied zeigt sich erst beim Kauf, und da gewinnt der regionale Tarif für Besucher klar die Oberhand. Achten Sie bei der Liste auf die landschaftlich reizvollen Strecken über den Gotthard und den Brenner, die an der Schweizer Grenze vorbeiführen.
 
 **Die Mittelmeerrunde – Barcelona, die Riviera, Rom, Athen.** Spanien, Frankreich, Italien, Griechenland: vier EU-Märkte, dazu das Meer zwischen ihnen, auf dem eine Fähre bei jedem Anbieter praktisch offline-Zeit bedeutet. Dies ist die Runde, in der sich der länderweise Einkauf am meisten rächt – vier Reisepass-Registrierungen an vier Schaltern – und in der das Inselinnere der einzige Empfangspunkt ist, den es vorausschauend zu beachten gilt. Der Empfang auf den Inseln folgt der Küste und den Orten; die Wanderung am Kraterrand ist kein Problem, die Wanderung im Inselinneren möglicherweise nicht.
 
 **Die Nordische Runde – Kopenhagen, Stockholm, Oslo.** Dänemark, Schweden, Norwegen: drei wohlhabende, hervorragend vernetzte Märkte, von denen zwei EU-Mitglieder sind und Norwegen als EWR-Drittstaat dazukommt. Auf einer regionalen Liste, die alle drei nennt, funktioniert die Runde einfach, einschließlich der berühmt abgelegenen Mittelabschnitte der Bahnstrecke Oslo–Bergen, auf denen der Empfang bei jedem Anbieter je nach Tal mehr oder weniger stark schwankt. Wenn Sie über den Polarkreis hinaus weiter nach Norden fahren, sind Sie mit jedem Produkt außerhalb der flächendeckenden Versorgung, und das ist Geografie und kein Tarifmangel. Eine eSIM deckt die Runde ab; der Kauf von drei länderspezifischen SIM-Karten deckt sie dreifach ab, an drei Schaltern, in drei Sprachen.
 
-Das übergeordnete Muster über alle drei Runden hinweg: Ein reiner EU-Tarif reicht technisch gesehen für zwei der drei Runden aus, aber der Spielraum ist gering – ein kleiner Abstecher in die Schweiz, eine Verlängerung nach Großbritannien – und der Preis für diese Knappheit ist, dass Sie Ihre Reise um Ihre Konnektivität herum neu planen müssen. Der regionale Tarif ist die einzige Option, die Ihnen das nie abverlangt.
+Das übergeordnete Muster über alle drei Runden durch Europa hinweg: Ein reiner EU-Tarif reicht technisch gesehen für zwei der drei Runden aus, aber der Spielraum ist gering – ein kleiner Abstecher in die Schweiz, eine Verlängerung nach Großbritannien – und der Preis für diese Knappheit ist, dass Sie Ihre Reise um Ihre Konnektivität herum neu planen müssen. Der regionale Tarif ist die einzige Option, die Ihnen das nie abverlangt.
 
 ## Wo die Balken in Europa tatsächlich verschwinden
 
-Europa ist dicht, aber Dichte ist nicht Gleichförmigkeit – die Funklöcher hier sind konkret, vorhersehbar und meistens geologisch bedingt. Acht Korridore und Regionen, in denen sich alle Produkte auf dieser Seite gleich verhalten:
+Europa ist dicht, aber Dichte ist nicht Gleichförmigkeit – die Funklöcher in Europa sind konkret, vorhersehbar und meistens geologisch bedingt. Acht Korridore und Regionen, in denen sich alle Produkte auf dieser Seite gleich verhalten:
 
 | Region | Was passiert mit dem Signal | Praktischer Schritt |
 |:---|:---|:---|
@@ -188,7 +202,7 @@ Europa ist dicht, aber Dichte ist nicht Gleichförmigkeit – die Funklöcher hi
 | Griechische Inseln im Inselinneren | Küste und Städte ja; im Landesinneren von Naxos oder Kreta kann es dunkel sein | Bleiben Sie auf markierten Küstenrouten, um Konnektivität zu gewährleisten |
 | Routen im westlichen Balkan | Dünner als im EU-Kerngebiet; die Aufnahme in die Liste variiert je nach Netzbetreiber | Überprüfen Sie Bosnien, Albanien und Serbien auf der Liste des Datentarifs, bevor Sie sich darauf verlassen |
 
-Zwei Beobachtungen, die es wert sind, mitgenommen zu werden. Erstens: Keine dieser Lücken ist ein Fehler im Tarif – sie sind für die eigene Bevölkerung der Region identisch, und ein europäisches Premium-Netz schlägt sich am Gotthard nicht besser als eine günstige Reise-eSIM. Zweitens: Die Lücken häufen sich in Zügen und auf Wanderungen, weshalb der Abschnitt zur Datenplanung unten so stark auf Offline-Downloads setzt: Die Verbindung, auf die Sie sich verlassen können, ist die am Bahnhof und im Hotel.
+Zwei Beobachtungen, die es wert sind, mitgenommen zu werden. Erstens: Keine dieser Lücken ist ein Fehler im Tarif – sie sind für die eigene Bevölkerung Europas identisch, und ein europäisches Premium-Netz schlägt sich am Gotthard nicht besser als eine günstige Reise-eSIM. Zweitens: Die Lücken häufen sich in Zügen und auf Wanderungen, weshalb der Abschnitt zur Datenplanung unten so stark auf Offline-Downloads setzt: Die Verbindung, auf die Sie sich verlassen können, ist die am Bahnhof und im Hotel.
 
 ## Wie viel Datenvolumen braucht eine Europareise?
 
@@ -219,7 +233,7 @@ Wenn Ihre Reise ein tiefer Einblick in ein einzelnes Land ist, liefern die Länd
 
 Die Installation ist dieselbe Fünf-Minuten-Routine wie bei jeder Reise-eSIM, und sie zu Hause durchzuführen ist genau das, was die erste Grenze unspektakulär macht. Kaufen Sie über WLAN, scannen Sie den Aktivierungscode, beschriften Sie die Leitung und stellen Sie sie als Datenleitung mit aktiviertem Roaming ein — dann lassen Sie sie schlafen, bis Sie im ersten Land landen. Beim Aufsetzen registriert sie sich bei einem lokalen Netzbetreiber, genau wie vorgesehen. Die vollständige Anleitung mit Screenshots für iPhone und Android finden Sie in unserer [Aktivierungsanleitung](/faq/how-to-activate-an-esim/).
 
-Prüfen Sie vor dem Kauf die zwei Punkte, die nahezu alle Fehler vermeiden. Kompatibilität: iPhones ab dem XS, Samsungs S20-Generation und neuer sowie Google Pixel ab 3 sind auf der sicheren Seite, aber die [eSIM-Kompatibilitätsseite](/compatibility/) ist die maßgebliche Liste und fängt auch die regionalen Varianten ab — einschließlich iPhones für das chinesische Festland — bei denen die Hardware deaktiviert ist. Entsperrstatus: Ein an einen Netzbetreiber gebundenes Telefon weist jedes Profil zurück, das es nicht selbst ausgestellt hat, und kein Reiseplan kann dies umgehen. Wählen Sie `*#06#` und prüfen Sie, ob eine EID erscheint.
+Prüfen Sie vor dem Kauf die zwei Punkte, die nahezu alle Fehler vermeiden. Kompatibilität: iPhones ab dem XS, Samsungs S20-Generation und neuer sowie Google Pixel ab 3 sind auf der sicheren Seite, aber die Kompatibilitätsliste fängt auch die regionalen Varianten ab — einschließlich iPhones für das chinesische Festland — bei denen die Hardware deaktiviert ist. Entsperrstatus: Ein an einen Netzbetreiber gebundenes Telefon weist jedes Profil zurück, das es nicht selbst ausgestellt hat, und kein Reiseplan kann dies umgehen. Wählen Sie `*#06#` und prüfen Sie, ob eine EID erscheint.
 
 **Die komprimierte Checkliste vor dem Kauf:**
 
@@ -232,11 +246,11 @@ Prüfen Sie vor dem Kauf die zwei Punkte, die nahezu alle Fehler vermeiden. Komp
 
 Wenn das Profil installiert ist, aber nie eine Verbindung herstellt, gehen Sie zuerst die Einstellungs-Checkliste durch, bevor Sie den Tarif verdächtigen: richtige Leitung für mobile Daten ausgewählt, Datenroaming für die Reiseleitung aktiviert und kein in Konflikt stehendes Profil mehr aktiv. Unser [Ratgeber zur eSIM-Problemlösung](/faq/esim-activation-errors-troubleshooting-guide/) behandelt den vollständigen Katalog von Aktivierungsfehlern in der Reihenfolge, in der sie typischerweise auftreten.
 
-**Die APN-Frage, für einen regionalen Tarif beantwortet.** Eine mehrtägige Reise-eSIM bringt ihren eigenen Access Point mit, also gibt es beim Wechsel zwischen Netzen nichts zu konfigurieren — das gehört zu dem, wofür Sie bezahlen. Eine von einem lokalen EU-Anbieter gekaufte SIM konfiguriert sich normalerweise ebenfalls selbst. Wenn ein Gerät nach der Installation keine Verbindung herstellen will, behandelt die [Anleitung zur Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/) den manuellen APN-Pfad.
+**Die APN-Frage, für einen regionalen Tarif beantwortet.** Eine mehrtägige Reise-eSIM bringt ihren eigenen Access Point mit, also gibt es beim Wechsel zwischen Netzen nichts zu konfigurieren — das gehört zu dem, wofür Sie bezahlen. Eine von einem lokalen EU-Anbieter gekaufte SIM konfiguriert sich normalerweise ebenfalls selbst. Wenn ein Gerät nach der Installation keine Verbindung herstellen will, behandelt unser Fehlerbehebungskatalog den manuellen APN-Pfad.
 
-## Wenn eine Europa-eSIM Probleme machts
+## Wenn eine Europa-eSIM Probleme macht
 
-Vier Fehlermuster sind für diesen Kontinent spezifisch, und alle vier sind von Ihrem Einstellungsbildschirm aus in unter einer Minute diagnostizierbar.
+Vier Fehlermuster sind für Europa spezifisch, und alle vier sind von Ihrem Einstellungsbildschirm aus in unter einer Minute diagnostizierbar.
 
 **A. Der Tarif wird beim Grenzübertritt in die Schweiz oder das Vereinigte Königreich dunkel.** Fehlt das soeben betretene Land in der Liste Ihres Tarifs, hängt sich das Telefon entweder an nichts an oder roamt in einem Netz, das Ihr Tarif nicht abdeckt. Lösung: Prüfen Sie zuerst die Länderliste und erzwingen Sie dann unter Einstellungen → Mobilfunknetze eine manuelle Netzwahl. Schließt der Tarif den Markt tatsächlich aus, rettet keine Einstellung — das ist die Abdeckungslisten-Falle von vorhin, und die Lösung findet sich beim Kauf, nicht im Zug.
 
@@ -252,7 +266,7 @@ Alles außerhalb dieser vier — ein Profil, das sich nicht herunterlädt, eine 
 
 ### Genießt eine Reise-eSIM den EU-Roaming-Schutz?
 
-Nein. Roam-like-at-home-Regeln gelten für Kunden von EU- und EWR-Anbietern, und eine Reise-eSIM ist kein solcher. Der Tarif roamt stattdessen nach kommerziellem Design, weshalb seine Länderliste — und nicht die EU-Verordnung — Ihre Abdeckung definiert. Der Vorteil der Nichtzugehörigkeit zu diesem Regime: Der Pauschalpreis des Tarifs hat bereits jede Grenze der Liste eingepreist.
+Nein. Roam-like-at-home-Regeln gelten für Kunden von EU- und EWR-Anbietern, und eine Reise-eSIM ist kein solcher. Der Tarif roamt stattdessen nach kommerziellem Design, weshalb in Europa seine Länderliste — und nicht die EU-Verordnung — Ihre Abdeckung definiert. Der Vorteil der Nichtzugehörigkeit zu diesem Regime: Der Pauschalpreis des Tarifs hat bereits jede Grenze der Liste eingepreist.
 
 ### Schlägt eine lokale SIM die Reise-eSIM?
 
@@ -272,7 +286,7 @@ Ja, innerhalb des Gültigkeitsfensters und des Datenvolumens des Tarifs — viel
 
 ### Wie viele Gigabyte sollte ich kaufen?
 
-Richten Sie sich nach der Reiseroute, nicht nach dem Kontinent: 1 GB pro Tag ist eine realistische Obergrenze für Navigation, Transit-Apps, Messaging und Social Sharing, also deckt ein 15–20-GB-Paket bequem zwei Wochen ab, einschließlich Zug-Streaming. Wenn Sie remote arbeiten, addieren Sie die Video-Call-Last oben drauf. Aufladungen gelten für das installierte Profil, daher ist ein Zukurz-Kauf wieder behebbar.
+Richten Sie sich nach der Reiseroute, nicht nach Europa: 1 GB pro Tag ist eine realistische Obergrenze für Navigation, Transit-Apps, Messaging und Social Sharing, also deckt ein 15–20-GB-Paket bequem zwei Wochen ab, einschließlich Zug-Streaming. Wenn Sie remote arbeiten, addieren Sie die Video-Call-Last oben drauf. Aufladungen gelten für das installierte Profil, daher ist ein Zukurz-Kauf wieder behebbar.
 
 ### Verlangt jeder SIM-Kauf in Europa einen Ausweis?
 
@@ -302,7 +316,7 @@ Nicht automatisch, und das ist eine wirklich häufige Überraschung. Die Zwergst
 
 Oft ja. Profile verfallen bei den meisten Reiseprodukten nicht durch Nichtnutzung, und das erneute Aktivieren eines installierten Profils für eine Rückreise ist ein Einstellungsschalter — allerdings sind das Datenvolumen und die Gültigkeit aufgebraucht, also rechnen Sie damit, aufzuladen oder ein frisches Paket hinzuzufügen, statt die ursprüngliche Datenmenge erneut zu verwenden. Bietet der Anbieter regionale Aufladungen, die auf bestehende Profile angewendet werden, kann ein Europa-Tarif tatsächlich zu einer dauerhaften Reisebegleitung werden.
 
-### Was passiert bei aufgebrauchtem Datenvolumen?
+### Was in Europa passiert, wenn das Datenvolumen aufgebraucht ist
 
 Bei einer Reise-eSIM stoppt die Datenübertragung einfach — keine Volumenüberschreitungsabrechnung, keine stillen Gebühren — und eine Aufladung über die App oder das Dashboard des Anbieters stellt sie auf demselben installierten Profil wieder her, ohne Neuinstallation. Bei einer lokal gekauften EU-SIM, die im Ausland roamt, bremst die Fair-Use-Grenze Sie eher aus, statt Sie zu stoppen, bis Sie aufladen. Machen Sie die Aufladung in beiden Fällen lieber über die Hotelverbindung statt über den Bahnsteig; das Dashboard lässt sich nur mit funktionierender Internetverbindung erreichen.
 
@@ -327,7 +341,7 @@ Alle Zahlen sind Drittanbieter-Messungen und verändern sich, wenn sich Netze un
 
 ## So sichern Sie Ihren Europa-Tarif
 
-Die Entscheidung, noch einmal zusammengefasst: eine Installation, ein Preis und eine Netzabdeckungsliste, die Sie nun wie ein Profi gelesen haben. [Kompatibilität prüfen](/compatibility/) und [kostenlos testen](/free-esim/).
+Die Entscheidung, noch einmal zusammengefasst: eine Installation, ein Preis und eine Netzabdeckungsliste, die Sie nun wie ein Profi gelesen haben. Prüfen Sie die Kompatibilität Ihres Geräts und testen Sie den Tarif kostenlos.
 
 Wenn die Reiseroute feststeht, ist die [Europa-eSIM-Auswahl](/europe-esim/) der nächste Schritt. Die Grenzen regeln sich von selbst.
 

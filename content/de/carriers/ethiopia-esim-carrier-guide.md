@@ -7,7 +7,7 @@ image: "img/esim/carriers/ethiopia-esim-carrier-guide.jpg"
 
 date: "2026-09-26T00:39:19+00:00"
 
-keywords: Ethiopia eSIM, Ethiopia eSIM Netzbetreiber, Ethio Telecom, Safaricom, Dual-SIM, Reise-eSIM, Roaming-Gebühren vermeiden, Lalibela, 5G, lokaler Datentarif
+keywords: Äthiopien eSIM, Äthiopien eSIM-Netzbetreiber, Ethio Telecom, Safaricom Äthiopien, Dual-SIM, Reise-eSIM, Roaming-Gebühren vermeiden, Addis Abeba, 5G, lokaler Datentarif
 
 site_name: Roami
 
@@ -42,7 +42,7 @@ hero_subtitle_main: "Wo sich die Netze in Äthiopien unterscheiden: Geschwindigk
 
 
 
-## Wer betreibt die Netze
+## Wer Äthiopiens Netze tatsächlich betreibt
 
 
 
@@ -108,33 +108,41 @@ Für einen normalen Urlaub gewinnt die Reise-eSIM bei der Zeit, nicht nur beim G
 
 
 
-## Wahl Ihres Netzbetreibers
+## Netzbetreiberwahl nach Äthiopien-Route
 
 
 
-| Ihre Reise | Bester Netzbetreiber | Warum |
+| Äthiopien-Route | Passendes Netz | Begründung |
 
 |:---|:---|:---|
 
-| Historischer Norden (Addis, Bahir Dar, Lalibela, Gondar) | Ethio Telecom | Das einzige Netz mit einer sinnvollen Netzabdeckung im nördlichen Hochland |
+| Historische Route im Norden (Addis Abeba, Bahir Dar, Gondar, Lalibela) | Ethio Telecom | Das einzige Netz mit durchgehender Netzabdeckung im nördlichen Hochland |
 
-| Geschäftsaufenthalt in Addis Abeba | Entweder — Ethio Telecom für Netzabdeckung, Safaricom für eine zweite Leitung | Beide Netzbetreiber sind in der Hauptstadt gut ausgebaut; Safaricom Ethiopia ist oft weniger ausgelastet |
+| Geschäftsreise nach Addis Abeba | Ethio Telecom oder Safaricom Ethiopia | Beide Netze sind in der Hauptstadt gesund ausgebaut; Safaricom ist zu Stoßzeiten oft weniger ausgelastet |
 
-| Südliche Route (Hawassa, Arba Minch, Omo-Tal) | Ethio Telecom | 4G folgt den größeren Städten; die Netzabdeckung von Safaricom Äthiopien wird außerhalb der Städte schnell dünner |
+| Städtereise in den Süden (Addis, Hawassa, Arba Minch) | Ethio Telecom | 4G folgt den größeren Städten; Safaricom wird dazwischen schnell dünn |
 
-| Simien-Berge abseits der Hauptroute | Keine — planen Sie offline | Hochgebirgsabschnitte sind funklose Zonen in jedem äthiopischen Netz |
+| Rundreise Addis Abeba – Dire Dawa – Harar | Ethio Telecom | In beiden Städten 4G, auf der langen Straße dazwischen wechselhaft |
 
-| Monatelanger Aufenthalt mit lokalen Anrufen | Ethio Telecom direkt | Die einzige realistische Möglichkeit, an eine registrierte äthiopische Nummer zu gelangen |
+| Nationalpark Simien-Berge (Zufahrt per Straße) | Keines — planen Sie offline | Nur die Ausgangspunkte und Lodges haben Empfang; das Plateau ist in jedem äthiopischen Netz eine Funkstille |
 
-| Nachts am Bole ankommen | Reise-eSIM | Um 02:00 hat nichts geöffnet und nichts ist schnell |
+| Mehrwöchiger Aufenthalt mit äthiopischer Rufnummer | Ethio Telecom im Laden | Der einzige realistische Weg zu einer registrierten Landesnummer |
+
+| Ankunft nachts um 02:00 am Bole | Reise-eSIM | Zu dieser Uhrzeit hat kein Schalter geöffnet |
 
 
 
 Ein Profil, zwei Netze: Eine Multi-Netzwerk-eSIM für Äthiopien wählt automatisch den stärkeren Netzbetreiber aus, während Sie sich bewegen. Dies ist besonders auf der Strecke Addis Abeba–Bahir Dar wichtig, wo die beiden Netzabdeckungen ungleichmäßig überlappen.
 
+### Was an Äthiopiens Grenzen mit Ihrem Profil passiert
+
+Äthiopien ist ein Binnenland mit sechs Landnachbarn, und ein reiner Äthiopien-Tarif endet exakt an jeder dieser Grenzen. Für die Praxis sind drei Übergänge relevant. Nach Kenia führt die Straße über Moyale an der Südgrenze: Dort bricht das äthiopische Profil ab, und Ihr Telefon registriert sich, sobald es ein kenianisches Netz findet, nur mit einem Tarif, der Kenia ausdrücklich abdeckt. Unsere kenianische Seite beschreibt, was auf der anderen Seite gilt — der [Netzbetreiber-Guide für Kenia](/carriers/kenya-esim-carrier-guide/) nennt Safaricom Kenya und die dortigen Registrierungsregeln. Nach Dschibuti folgt die Bahn- und Straßenachse dem Korridor, den Ethio Telecom selbst als bestversorgt bezeichnet. Und nach Somaliland im Osten gibt es keinen verlässlichen Übergang für Reisende.
+
+Die praktische Konsequenz: Planen Sie für jede Ostafrika-Reise, die zwei Länder berührt, ein separates Profil pro Land ein, oder wählen Sie von Anfang an einen [Afrika-Regionaltarif](/africa-esim/), der mehrere Märkte in einem Datenpool bündelt. Innerhalb Äthiopiens selbst wechselt Ihr Profil dagegen nichts — hier bleibt es bei der Wahl zwischen Ethio Telecom und Safaricom Ethiopia.
 
 
-## Die lokalen Netzbetreiber im Überblick
+
+## Die zwei äthiopischen Netzbetreiber im Detail
 
 
 
@@ -222,9 +230,15 @@ Zwei praktische Konsequenzen. Erstens: Eine lokale SIM-Karte zu kaufen ist ein P
 
 Die Regulierungsbehörde selbst, die [Ethiopian Communications Authority](https://eca.et), ist die Stelle, die Netzbetreiber lizenziert und die Serviceregeln für den Markt verwaltet – lohnenswerte Lektüre, wenn Sie die Primärquelle statt einer Blogzusammenfassung lesen möchten.
 
+### Ankunft am Flughafen Bole: die erste Stunde in Äthiopien
+
+Den Ablauf sollten Sie kennen, bevor Sie ihn erleben. Nach dem Verlassen des Flugzeugs treffen Sie im Ankunftsbereich von Addis Ababa Bole auf die Schalter von Ethio Telecom; eine vergleichbare Präsenz von Safaricom Ethiopia gibt es dort nicht. Der Schalterweg kostet Sie eine Registrierung mit Reisepass und Foto — in einer Stadtfiliale sind dafür meist 30 bis 90 Minuten realistisch, am Flughafen zu den Stoßzeiten der Ankünfte dauert es länger.
+
+Der Plan B für die erste Stunde ist einfach: Mit einem vor dem Abflug installierten Profil haben Sie Daten, bevor Sie am Gepäckband stehen. Ohne vorinstallierte Äthiopien-eSIM bleiben Sie bis zum Schalter offline — und bei einer Landung um 02:00 Uhr entscheidet genau das darüber, ob Ihre Navigation läuft oder ob Sie auf die Öffnung warten. Laden Sie deshalb die Adresse Ihrer Unterkunft und eine Fahrt-App offline, und heben Sie sich ein paar Megabyte für die Fahrt ins Hotel auf; im Ankunftsbereich benötigen Sie dafür nichts weiter.
 
 
-## Geschwindigkeiten nach Netzbetreiber
+
+## Wie schnell Äthiopiens Netze wirklich sind
 
 
 
@@ -242,25 +256,25 @@ Für die Äthiopien eSIM heißt das: Rechnen Sie mit einem Netz, das in Addis Ab
 
 Dieses letzte Zahlenpaar lohnt es, etwas genauer zu betrachten. Äthiopien hat *Mobilfunkanschlüsse*, die sich der Bevölkerungszahl annähern, doch der Anteil der Menschen, die das Internet tatsächlich nutzen, ist nur ein Bruchteil davon – ein Zeichen dafür, dass Mobiltelefone und SIM-Karten weit verbreitet sind, während erschwingliche Datentarife, Netzabdeckung und Geräteleistung es nicht sind. Es ist auch der Grund, weshalb Ihre Erfahrung als Reisender mit einem modernen Smartphone und einem Prepaid-Datentarif spürbar besser ausfällt, als es der nationale Durchschnitt vermuten lässt – solange Sie sich in den Hauptverkehrskorridoren bewegen.
 
-Was dies Strecke für Strecke bedeutet:
+Was das für Ihre Äthiopien-Route konkret bedeutet:
 
 
 
-| Route | Das erwartet Sie | Darauf sollten Sie achten |
+| Äthiopien-Strecke | Was Sie erwarten können | Worauf Sie achten sollten |
 
 |:---|:---|:---|
 
-| Addis Abeba | Beste Konnektivität im Land; 5G in den zentralen Stadtteilen | Überlastung zu Stoßzeiten; die Geschwindigkeiten schwanken im Tagesverlauf |
+| Addis Abeba | Beste Konnektivität im Land; 5G in den zentralen Stadtteilen | Überlastung zu Stoßzeiten; die Geschwindigkeiten schwanken im Tagesverlauf stark |
 
 | Addis–Bahir Dar–Gondar (historischer Norden) | Nutzbares 4G in den Städten, 3G auf den Strecken dazwischen | Amhara war in der Vergangenheit wiederholt von Netzabschaltungen betroffen |
 
 | Lalibela und das Hochland | 4G in der Stadt, auf den Zufahrtsstraßen schwach | Das Hochland-Gelände blockiert das Signal auf Nebenstraßen |
 
-| Bahir Dar und der Tanasee | Gut in der Stadt, lückenhaft am Seeufer | — |
+| Bahir Dar und der Tanasee | Gut in der Stadt, lückenhaft am Seeufer | Rund um die Klöster am See rechnen Sie mit Funklöchern |
 
 | Hawassa, Arba Minch, der Süden | 4G entlang der Hauptstraße, Lücken zwischen den Städten | Lange stille Abschnitte auf Nebenstraßen |
 
-| Simien-Berge-Trekking | Empfang am Ausgangspunkt und in den Lodges, auf dem Plateau kein Empfang | Karten herunterladen; eine Powerbank mitführen |
+| Nationalpark Simien-Berge (Zufahrt per Straße) | Empfang an den Ausgangspunkten und in den Lodges, auf dem Plateau keiner | Eine Powerbank mitführen und Karten offline speichern |
 
 | Danakil-Senke | Praktisch keine | Planen Sie diese Etappe vollständig offline |
 
@@ -288,11 +302,11 @@ Was dies Strecke für Strecke bedeutet:
 
 
 
-### eSIM-Installationsschritte für Äthiopien
+### Route 1: Reise-eSIM vor dem Abflug installieren
 
 
 
-1. Bestätigen Sie mit dem [eSIM-Kompatibilitätstool](/compatibility/), dass Ihr Smartphone eSIM-fähig und entsperrt ist.
+1. Bestätigen Sie, dass Ihr Smartphone eSIM-fähig und entsperrt ist — die Prüfschritte stehen weiter oben.
 
 2. Kaufen Sie den Tarif und installieren Sie das Profil zu Hause über WLAN – nicht erst am Flughafen.
 
@@ -304,7 +318,7 @@ Was dies Strecke für Strecke bedeutet:
 
 
 
-### Route 2 über Ethio Telecom am Bole-Flughafen
+### Route 2: Am Schalter von Ethio Telecom im Flughafen Bole
 
 
 
@@ -318,7 +332,7 @@ Was dies Strecke für Strecke bedeutet:
 
 
 
-### Route 3 über einen Safaricom-Laden
+### Route 3: Am Schalter eines Safaricom-Ladens
 
 
 
@@ -330,11 +344,11 @@ Was dies Strecke für Strecke bedeutet:
 
 
 
-Die dritte Route hat einen Haken, den Sie kennen sollten: eine lokal gekaufte Leitung erfordert eine persönliche biometrische Registrierung, und die Filialpräsenz von Safaricom Ethiopia außerhalb der Hauptstadt ist begrenzt. Für eine zweiwöchige Reise gewinnt die Reise-eSIM-Route auf jeder Achse – außer wenn Sie eine äthiopische Rufnummer brauchen. Und da Hotels, Fahrer und Reiseveranstalter in Äthiopien ohnehin über WhatsApp koordinieren, deckt eine reine Datenleitung nahezu alles ab.
+Der Weg über einen Safaricom-Laden hat einen Haken, den Sie kennen sollten: eine lokal gekaufte Leitung erfordert eine persönliche biometrische Registrierung, und die Filialpräsenz von Safaricom Ethiopia außerhalb der Hauptstadt ist begrenzt. Für eine zweiwöchige Reise gewinnt die Reise-eSIM-Route auf jeder Achse – außer wenn Sie eine äthiopische Rufnummer brauchen. Und da Hotels, Fahrer und Reiseveranstalter in Äthiopien ohnehin über WhatsApp koordinieren, deckt eine reine Datenleitung nahezu alles ab.
 
 **Bevor Sie kaufen, halten Sie Folgendes bereit:**
 
-- Ein entsperrtes, eSIM-fähiges Telefon — prüfen Sie es anhand der [Kompatibilitätsliste](/compatibility/), falls Sie sich nicht sicher sind
+- Ein entsperrtes, eSIM-fähiges Telefon — prüfen Sie es notfalls anhand der weiter oben beschriebenen Schritte
 
 - Die eSIM **vor** dem Flug installiert: bei der Landung Datenroaming aktivieren, und das Profil verbindet sich mit einem lokalen Netz
 
@@ -364,19 +378,19 @@ Drei Dinge entscheiden, ob Ihr Smartphone in einem äthiopischen Netz funktionie
 
 
 
-| Gerätesituation | Symptom | Was zu tun ist |
+| Handy-Situation in Äthiopien | Symptom | Sofortmaßnahme |
 
 |:---|:---|:---|
 
-| Mainland-China iPhone-Modelle | Keine Option „eSIM hinzufügen“ vorhanden – die Hardware ist in diesem Markt deaktiviert | Nicht behebbar; verwenden Sie eine physische SIM-Karte oder ein anderes Gerät |
+| iPhone-Modelle für das chinesische Festland | Es fehlt die Option „eSIM hinzufügen“ – die Hardware ist für diesen Markt deaktiviert | Nicht behebbar; nutzen Sie eine physische SIM-Karte oder ein anderes Gerät |
 
-| Netzbetreiber-gebundenes Handy (häufig bei Vertragsgeräten) | eSIM lässt sich nicht installieren oder wird ohne Service installiert | Fragen Sie den Netzbetreiber, an den es gebunden ist, nach einer Entsperrung, bevor Sie fliegen |
+| Netzbetreiber-gebundenes Vertragshandy | Die Äthiopien-eSIM lässt sich nicht installieren oder bleibt ohne Dienst | Vor dem Flug die Entsperrung beim Heimnetzbetreiber anfordern |
 
-| Vom Netzbetreiber erworbene Samsung-Geräte | eSIM-Option in den Einstellungen ausgegraut | Zuerst entsperren, dann neu starten und erneut versuchen |
+| Vom Netzbetreiber bezogenes Samsung-Gerät | Die eSIM-Option in den Einstellungen ist ausgegraut | Erst entsperren, dann neu starten und erneut versuchen |
 
-| Dual-SIM-Nutzer | eSIM installiert, aber keine Daten | eSIM als Datenleitung festlegen |
+| Dual-SIM-Nutzer | Profil installiert, aber keine mobilen Daten | Die äthiopische Leitung als Datenleitung festlegen |
 
-| Älteres Gerät ohne eSIM | Keine EID in `*#06#` | Nutzen Sie eine physische Reise-SIM oder planen Sie mit einem lokalen Anschluss |
+| Älteres Gerät ohne eSIM-Hardware | `*#06#` zeigt keine EID | Physische Reise-SIM nutzen oder einen lokalen Anschluss einplanen |
 
 
 
@@ -402,7 +416,7 @@ Die meisten Reise-eSIM-Profile enthalten ihren eigenen APN und erfordern keine E
 
 
 
-| Netzbetreiber | APN | Benutzername | Passwort |
+| Äthiopischer Netzbetreiber | Zugangspunkt (APN) | Nutzer | Kennwort |
 
 |:---|:---|:---|:---|
 
@@ -416,13 +430,13 @@ Die meisten Reise-eSIM-Profile enthalten ihren eigenen APN und erfordern keine E
 
 Das manuelle Eingeben des APN ist in diesen vier Fällen nötig:
 
-- Sie haben eine vom Netzbetreiber ausgegebene SIM-Karte gekauft und keine verwaltete Reise-eSIM
+- Sie haben direkt bei Ethio Telecom oder Safaricom Ethiopia gekauft und nutzen keine verwaltete Reise-eSIM
 
-- Ein älteres Gerät, das die Netzbetreibereinstellungen nicht automatisch übernommen hat
+- Ihr Telefon hat die Konfiguration des äthiopischen Betreibers nicht selbst übernommen
 
-- Ein Profil, das über einen manuellen Aktivierungscode statt per QR-Scan installiert wurde
+- Das Profil wurde über einen eingegebenen Aktivierungscode statt per QR-Scan eingerichtet
 
-- Sie haben nach dem Ende einer Netzabschaltung den Anbieter gewechselt und das Profil hat sich nicht sauber neu registriert
+- Nach dem Ende einer regionalen Netzabschaltung hat sich das Profil nicht sauber neu registriert
 
 ### Wenn der APN nicht automatisch geladen wird
 
@@ -446,7 +460,7 @@ Die generische Installation – QR-Code zu Hause über WLAN scannen, die Leitung
 
 
 
-### Sechs Prüfungen vor dem Abflug
+### Sechs Prüfungen vor dem Abflug nach Addis Abeba
 
 
 
@@ -458,17 +472,17 @@ Die generische Installation – QR-Code zu Hause über WLAN scannen, die Leitung
 
 | 2 | Das Telefon unterstützt eSIM | Eine EID wird angezeigt, wenn Sie `*#06#` wählen |
 
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon **und** in einem Cloud-Speicher |
+| 3 | QR-Code und Aktivierungscode doppelt gesichert | Screenshot auf dem Handy **und** eine Kopie in der Cloud, bevor Sie das heimische WLAN verlassen |
 
 | 4 | Profil vor der Abreise installieren | Installation über das heimische WLAN, damit die Verbindung sofort nach der Landung hergestellt wird |
 
-| 5 | Datenleitung und Roaming eingestellt | eSIM für mobile Daten ausgewählt, Datenroaming aktiviert |
+| 5 | Datenleitung und Roaming gesetzt | Die Äthiopien-eSIM trägt die mobilen Daten, Datenroaming ist für diese Leitung aktiv |
 
 | 6 | Offline-Fallback bereit | Offline-Karten sowie Screenshots der Buchungen auf dem Telefon gespeichert |
 
 ### eSIM für Äthiopien Schritt für Schritt aktivieren
 
-1. **Installation vor der Abreise.** Es gibt zwar Schalter am Flughafen Bole, doch Schlangen und Registrierungsformalitäten kosten bei der Ankunft wertvolle Zeit; ein vorinstalliertes Profil braucht nur noch aktiviertes Daten-Roaming.
+1. **Installation vor der Abreise.** Es gibt zwar Schalter am Flughafen Bole, doch Schlangen und Registrierungsformalitäten kosten bei der Ankunft wertvolle Zeit; ein vorinstalliertes Profil braucht nur noch aktiviertes Datenroaming.
 
 2. **Wählen Sie das Netz manuell aus, wenn das Profil nicht aktiviert wird.** Einstellungen → Mobilfunk → Netzauswahl → wählen Sie Ethio Telecom (bzw. den Netzbetreiber, der in Ihrem Tarif angegeben ist) aus, anstatt die Auswahl auf automatisch zu belassen.
 
@@ -480,47 +494,47 @@ Die generische Installation – QR-Code zu Hause über WLAN scannen, die Leitung
 
 
 
-### Vier Lösungen wenn die äthiopische eSIM hakt
+### Vier Fehlerbilder, die in Äthiopien typisch sind
 
-**A. Die eSIM lässt sich nicht installieren**
+**A. Die Äthiopien-eSIM lässt sich in Addis nicht installieren**
 
 1. Einstellungen → Allgemein → Info enthält das Feld Netzbetreiber-Lock; es sollte „Keine SIM-Einschränkungen“ anzeigen.
 
-2. QR-Codes lassen sich fast immer nur einmal scannen – versuchen Sie keine zweite Installation mit demselben Code
+2. Ein äthiopisches Profil lässt sich fast immer nur einmal scannen – fordern Sie beim Anbieter einen neuen Code an, statt es mit dem alten erneut zu versuchen
 
-3. Fragen Sie den Netzbetreiber, ob das Profil noch auf die Freischaltung wartet
-
-
-
-**B. Installiert, aber keine Signalbalken**
-
-1. Schalten Sie die eSIM-Leitung im SIM-Manager aus und wieder ein
-
-2. Einstellungen → Mobilfunk → Netzauswahl → Ethio Telecom manuell auswählen
-
-3. Starten Sie das Gerät zunächst neu; behalten Sie das Zurücksetzen der Netzwerkeinstellungen als Option für später
+3. Hängt die Installation, fragen Sie nach, ob das Profil noch auf die Freischaltung wartet — im Ankunftsbereich von Bole ist das der häufigste Grund für ein stehendes Profil
 
 
 
-**C. Signalbalken, aber kein Internet**
+**B. Profil installiert, aber in Addis keine Signalbalken**
 
-1. Überprüfen Sie Ihren APN anhand der Tabelle, bevor Sie fortfahren
+1. Schalten Sie die äthiopische Leitung im SIM-Manager aus und wieder ein
 
-2. Stellen Sie sicher, dass die mobile Datennutzung auf die eSIM-Leitung und nicht auf Ihre heimische SIM-Karte eingestellt ist
+2. Einstellungen → Mobilfunk → Netzauswahl → Ethio Telecom manuell auswählen; Safaricom Ethiopia erscheint nicht überall in der Liste
 
-3. Datenroaming für diese bestimmte Leitung aktivieren – deaktiviertes Roaming ist die mit Abstand häufigste Ursache
-
-4. Prüfen Sie, ob Ihr Datenvolumen noch nicht aufgebraucht ist
+3. Starten Sie das Gerät zunächst neu; das Zurücksetzen der Netzwerkeinstellungen bleibt die letzte Option
 
 
 
-**D. Daten und Sprache komplett tot, in jeder App**
+**C. Signalbalken vorhanden, aber keine Daten in Äthiopien**
+
+1. Vergleichen Sie den APN von Ethio Telecom mit der Tabelle oben — dort steht `internet`, nicht ein leeres Feld
+
+2. Stellen Sie sicher, dass die mobile Datennutzung auf die äthiopische Leitung und nicht auf Ihre heimische SIM-Karte zeigt
+
+3. Aktivieren Sie Datenroaming für genau diese Leitung – ein deaktivierter Schalter ist hier die mit Abstand häufigste Ursache
+
+4. Prüfen Sie, ob Ihr Datenvolumen aufgebraucht ist; ein Nachkauf läuft bei einer Landesleitung über telebirr oder eine Rubbelkarte
+
+
+
+**D. Daten und Sprache gleichzeitig tot, in jeder App**
 
 1. Starten Sie das Gerät einmal neu und prüfen Sie anschließend die Netzauswahl.
 
-2. Fragen Sie Einheimische: Abschaltungen sind vor Ort allgemein bekannt, lange bevor sie in den Nachrichten erscheinen
+2. Fragen Sie im Hotel nach der aktuellen Lage: Regionale Abschaltungen in Amhara oder Oromia sprechen sich vor Ort herum, lange bevor sie Meldung machen
 
-3. Wenn es eine Sperrung ist, gibt es nichts zu beheben — wechseln Sie zu Ihrem Offline-Plan und warten Sie es ab
+3. Liegt eine Sperre vor, gibt es am Telefon nichts zu reparieren — wechseln Sie in den Offline-Plan mit heruntergeladenen Karten und Screenshots
 
 
 
@@ -528,21 +542,21 @@ Die generische Installation – QR-Code zu Hause über WLAN scannen, die Leitung
 
 
 
-| Informationen | Wo Sie sie finden |
+| Angabe | Wie Sie sie in Äthiopien bereitstellen |
 
 |:---|:---|
 
-| Bestellnummer | Bestätigungs-E-Mail |
+| Bestell- oder Tarifnummer | Steht in der Bestätigungs-E-Mail – leiten Sie sie an sich selbst weiter, bevor Sie fliegen |
 
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| Handy-Modell und Android- bzw. iOS-Version | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
 
-| EID | Wählen `*#06#` |
+| EID des Profils | Über `*#06#` auslesen und die vollständige Zeichenfolge notieren |
 
-| Screenshot des Fehlers | Erstellen Sie ihn, bevor sich der Bildschirm ändert |
+| Bildschirmfoto des Fehlers | Aufnehmen, solange die Meldung steht – der Anbieter will es als Erstes sehen |
 
-| Aktuelle APN-Einstellungen | Einstellungen → Mobilfunknetz |
+| Eingestellter APN | Einstellungen → Mobilfunk → äthiopische Leitung → Mobilfunkdaten-Netzwerk |
 
-| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Roaming-Schalter der äthiopischen Leitung | Einstellungen → Mobilfunk → die Äthiopien-eSIM-Zeile |
 
 | Region, in der Sie sich gerade befinden | In Äthiopien wichtig — Abschaltungen sind geografisch begrenzt |
 
@@ -642,7 +656,7 @@ Ja, im physischen Steckplatz. Lassen Sie sie für eingehende Anrufe und Verifizi
 
 
 
-Eine Powerbank und mehr Geduld als üblich. Stromausfälle außerhalb von Addis sind routine, Hotel-WLAN ist wechselhaft, und das Einzige, das man sich nicht freikaufen kann, ist ein regionaler Shutdown — deshalb ist eine heruntergeladene Kopie Ihrer Karten, Buchungen und Tickets das Wertvollste auf Ihrem Telefon.
+Eine Powerbank und mehr Geduld als üblich. Stromausfälle außerhalb von Addis sind an der Tagesordnung, Hotel-WLAN ist wechselhaft, und das Einzige, das man sich nicht freikaufen kann, ist eine regionale Netzabschaltung — deshalb ist eine heruntergeladene Kopie Ihrer Karten, Buchungen und Tickets das Wertvollste auf Ihrem Telefon.
 
 
 
@@ -680,11 +694,11 @@ Alle Zahlen sind unabhängige Drittmessungen. In Äthiopien prägen Strom, Terra
 
 ## Installieren Sie die Äthiopien-eSIM vor dem Flug
 
-Installieren Sie Ihre Äthiopien-eSIM über das WLAN zu Hause, schalten Sie Datenroaming ein und steigen Sie am Flughafen Bole bereits online aus dem Flugzeug — Ihr physischer Steckplatz bleibt frei für Anrufe und Verifizierungscodes. Starten Sie mit einer [kostenlosen Testkarte](/free-esim/), dann [Äthiopien-Tarife ansehen](/plans/). Weiterreise in der Region? Unser [Guide für Kenia](/carriers/kenya-esim-carrier-guide/) behandelt das nächste Netz, das Ihnen begegnet.
+Installieren Sie Ihre Äthiopien-eSIM über das WLAN zu Hause, schalten Sie Datenroaming ein und steigen Sie am Flughafen Bole bereits online aus dem Flugzeug — Ihr physischer Steckplatz bleibt frei für Anrufe und Verifizierungscodes. Starten Sie mit einer [kostenlosen Testkarte](/free-esim/), dann [Äthiopien-Tarife ansehen](/plans/). Weiterreise in der Region? Unser Kenia-Guide behandelt das nächste Netz, das Ihnen begegnet.
 
 
 
-[Äthiopien-eSIM-Tarife vergleichen](/ethiopia-esim/) · [Kostenlose Testkarte sichern](/free-esim/) · [Äthiopien-eSIM-Seite](/ethiopia-esim/)
+[Äthiopien-eSIM-Tarife vergleichen](/ethiopia-esim/)
 
 
 

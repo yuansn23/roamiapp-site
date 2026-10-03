@@ -20,9 +20,9 @@ hero_subtitle_main: "Wo sich die Netze Costa Ricas unterscheiden: Geschwindigkei
 
 **Schnelle Antwort:** Wählen Sie für Ihre Costa Rica eSIM Claro für Geschwindigkeit in der Stadt und Kölbi für Empfang draußen, und installieren Sie das Profil in jedem Fall vor der Abreise. Der Rest dieses Guides — Costa-Rica-Geschwindigkeiten, Preise und Registrierungsregeln — liefert die Details hinter dieser Aufteilung.
 
-Die entscheidende Frage ist, **an welches Netz Ihre Costa-Rica-eSIM anbinden soll, je nachdem, wohin Sie reisen**. Die Netzabdeckungskarte wird vom Ökotourismus selbst geprägt: dicht und schnell im Central Valley, genau dort dünner werdend, wo die Nebelwälder und Nationalparks beginnen. Wenn Sie noch nicht geprüft haben, ob Ihr Telefon eSIM unterstützt, starten Sie mit dem [Kompatibilitäts-Check-Tool](/compatibility/) und kehren Sie dann zur Frage des Netzbetreibers zurück.
+Die entscheidende Frage ist, **an welches Netz Ihre eSIM in Costa Rica anbinden soll, je nachdem, wohin Sie reisen**. Die Netzabdeckungskarte wird vom Ökotourismus selbst geprägt: dicht und schnell im Central Valley, genau dort dünner werdend, wo die Nebelwälder und Nationalparks beginnen. Wenn Sie noch nicht geprüft haben, ob Ihr Telefon eSIM unterstützt, starten Sie mit dem [Kompatibilitäts-Check-Tool](/compatibility/) und kehren Sie dann zur Frage des Netzbetreibers zurück.
 
-## Ihre Reise, Ihr eSIM-Netzbetreiber
+## Ihre Reise durch Costa Rica, Ihr passender Netzbetreiber
 
 ### Die drei Netze im Überblick
 
@@ -42,7 +42,7 @@ Lesen Sie die Spalte zur Geschwindigkeit und die zur Netzabdeckung zusammen, den
 
 Die Geschwindigkeitszahlen von Claro sind die stärksten auf dem Markt: ein medianer Download von **84,51 Mbps**, mehr als doppelt so viel wie bei Kölbi oder Liberty, das schnellste Netz in 8 der 10 größten Städte, die beste Gaming-Bewertung (74,5) und die höchste Nutzerbewertung (3,95/5) im H1-2025-Bericht von Ookla. Was Sie dafür bekommen, ist ein Netz, das für dichte Besiedelung ausgelegt ist – San José, das Central Valley, Liberia und die Badeorte, in denen Touristen tatsächlich Geld ausgeben. Die [eigene Verbraucherseite](https://www.claro.cr/) von Claro bewirbt jetzt 5G und bietet Prepaid-„Superpacks“ als Einstiegsprodukt an.
 
-- **Am besten für:** rohe Geschwindigkeit und Gaming in Städten und entlang der touristischen Hauptkorridore.
+- **Am besten für:** rohe Geschwindigkeit und Gaming in den Städten Costa Ricas und entlang der touristischen Hauptkorridore.
 - **Kaufweg für Reisende:** Prepaid-SIM oder eSIM in einer Claro-Filiale, bei einem autorisierten Händler oder am Claro-Schalter am Flughafen Juan Santamaría (SJO); dieselbe Reisepass-Registrierung wie überall sonst hier.
 - **Was es kostet:** Prepaid-Bundles von wenigen Tausend Colónes bis hin zu Monatspaketen; der Landesdurchschnitt liegt bei 1,86 USD/GB.
 - **Was schiefgehen kann:** Das Netz ist schnell, wo es vorhanden ist, und dünn, wo es fehlt. Claro für die Geschwindigkeit zu kaufen und dann nach Monteverde oder Drake Bay zu fahren, ist die klassische Fehlkombination — das Netz von Claro wird früher dünn als das von Kölbi.
@@ -85,11 +85,11 @@ H1 2025 hat Claro die Geschwindigkeitskrone, Kölbi den Video-Award und Liberty 
 | Nutzerbewertung | **3,95/5** (Bestwert) | — | — |
 | Schnellstes Netz in | 8 der 10 größten Städte | — | — |
 
-Die Lücken sind genauso aufschlussreich wie die Zahlen selbst: Niemand veröffentlicht eine Geschwindigkeit für ländliche Gebiete oder einzelne Nationalparks, weil niemand diese konsistent messen kann. Im Global Index von Ookla liegt der nationale Median der mobilen Downloadgeschwindigkeit bei **70,96 Mbps**, weltweit auf Platz 63 – das Land schneidet in der Gesamtbetrachtung gut ab, auch wenn die Aufteilung pro Netzbetreiber ungleichmäßig ist.
+Die Lücken sind genauso aufschlussreich wie die Zahlen selbst: Niemand veröffentlicht eine Geschwindigkeit für ländliche Gebiete oder einzelne Nationalparks, weil niemand diese konsistent messen kann. Im Global Index von Ookla liegt der nationale Median der mobilen Downloadgeschwindigkeit bei **70,96 Mbps**, weltweit auf Platz 63 – Costa Rica schneidet in der Gesamtbetrachtung gut ab, auch wenn die Aufteilung pro Netzbetreiber ungleichmäßig ist.
 
 ### Günstigste Datentarife in Costa Rica
 
-| Ihre Tarife | Empfohlener Netzbetreiber | Was macht ihn zur Empfehlung | Worauf Sie achten sollten |
+| Reisestil in Costa Rica | Passendes Netz | Warum diese Empfehlung | Der Haken |
 |:---|:---|:---|:---|
 | Städtetrip — San José, Alajuela, Heredia, Cartago | Claro | Schnellstes Netz im Valle Central; die Provinz Heredia führt das Land mit 51,23 Mbps an | Nichts Besonderes — das Valle Central ist der einfache Teil von Costa Rica |
 | Strand- und Resorturlaub — Tamarindo, Jacó, Playas del Coco | Claro oder Liberty | Beide sind in den gut erschlossenen Touristengebieten stark aufgestellt | Die Straße *zwischen* den Küstenorten ist der Bereich mit den Versorgungslücken |
@@ -99,25 +99,25 @@ Die Lücken sind genauso aufschlussreich wie die Zahlen selbst: Niemand veröffe
 | Sparfüchsler | Claro oder Liberty Prepaid | Günstigster Einstieg; lokale Daten kosten im Schnitt 1,86 USD/GB | Für Kölbis eSIM-Variante ist ein Ladenbesuch nötig |
 | Grenzüberschreitende Reiseroute | Mehrländer-Profil | Eine eSIM nur für Costa Rica stoppt an der Grenze ohne Vorwarnung | Sowohl Paso Canoas als auch Peñas Blancas bringen Wartezeiten und Formalitäten mit sich |
 
-## Wo versagt Ihre eSIM-Netzabdeckung tatsächlich?
+## Wo die Netzabdeckung in Costa Rica tatsächlich endet
 
-Dies ist der Abschnitt, den eine allgemeine Seite „Beste eSIM für Costa Rica" nicht liefert, denn die Antwort ist regional. Die Provinzmittelwerte von Ookla zeigen bereits den Gradienten: Heredia führt mit 51,23 Mbps, San José liegt bei 50,57, und die Werte sinken, sobald man das Zentraltal verlässt – Guanacaste 46,04, Puntarenas 43,79, Limón 42,32. Netzabdeckung gibt es in allen sieben Provinzen; was nachlässt, ist die Zuverlässigkeit.
+Dies ist der Abschnitt, den eine allgemeine Seite „Beste eSIM für Costa Rica" nicht liefert, denn die Antwort ist regional. Die Provinzmittelwerte von Ookla zeigen bereits den Gradienten: Heredia führt mit 51,23 Mbps, San José liegt bei 50,57, und die Werte sinken, sobald man das Zentraltal verlässt – Guanacaste 46,04, Puntarenas 43,79, Limón 42,32. Costa Rica hat in allen sieben Provinzen Netzabdeckung; was nachlässt, ist die Zuverlässigkeit.
 
-### Das Zentraltal um San José
+### Das Zentraltal von Costa Rica um San José
 
 Das Zentraltal – San José, Alajuela, Heredia, Cartago – ist der einfache Teil von Costa Rica. Jeder Netzbetreiber ist hier schnell, Pozos am Rand von San José verzeichnet mit 72,76 Mbps den schnellsten städtischen Median des Landes, und entlang der Überlandstraßen hält 4G. Selbst Río Segundo, die am langsamsten gemessene Stadt mit 37,34 Mbps, eignet sich problemlos für Karten und Video. Tagesausflüge zu den Vulkanen Poás und Irazú bleiben auf dem größten Teil des Wegs verbunden, wobei die letzten Kilometer der Bergstraße bei jedem Netzbetreiber lückenhaft sind.
 
-### Guanacaste und die Strände am Nordpazifik
+### Guanacaste: Costa Ricas Strände am Nordpazifik
 
 Liberia, Tamarindo, Playas del Coco und die Gegend um Rincón de la Vieja sind gut versorgt, und Claro ist im gesamten Provinzgebiet der schnellste Anbieter. Die Lücken zeigen sich zwischen den Badeorten: Die Küstenstraße südlich von Tamarindo Richtung Nosara und Samara führt durch lange ländliche Abschnitte, in denen der Empfang kommt und geht, und die Strände im Süden der Nicoya-Halbinsel (Montezuma, Santa Teresa) liegen am Ende der Versorgung. Der gleiche Provinzmedian von 46,04 Mbps besteht neben einer Konsistenz von 80,3 % – das Netz funktioniert, nur nicht durchgehend.
 
-### Zentralpazifik um Jacó und Manuel Antonio
+### Costa Ricas Zentralpazifik um Jacó und Manuel Antonio
 
 Der Korridor San José–Jacó–Quepos zählt zu den am besten versorgten Touristenrouten des Landes, und Manuel Antonio selbst – der meistbesuchte Nationalpark des Landes – liegt direkt neben Quepos, einer echten Stadt mit echten Sendemasten. Der Empfang auf den Wegen innerhalb des Parks ist am Strandende gut und wird auf den Waldrunden schwächer. Auf den Zufahrtsstraßen und den weniger begangenen Wegen zeigt der Versorgungsbereich von Kölbi seine Stärke gegenüber dem schnelleren, aber dünneren Netz von Claro.
 
-### Monteverde und der Nebelwald in der Höhe
+### Monteverde und Costa Ricas Nebelwald in der Höhe
 
-Im Ort Monteverde und auf der Seite von Santa Elena gibt es von allen Netzbetreibern brauchbaren Empfang – überraschend für ein Bergdorf auf 1.400 m. Was nicht hält, sind die Reservate selbst: Sobald man auf den Wegen des Monteverde Cloud Forest Reserve oder des Santa Elena Reserve in den Nebelwald absteigt, verschwindet der Empfang mit dem Licht. Laden Sie vor dem Aufstieg Ihre Wanderkarte und die WhatsApp-Nummer Ihrer Unterkunft herunter; WhatsApp ist in Costa Rica der Standard für alles, von Shuttle-Abholungen bis zu Guide-Bestätigungen.
+Im Ort Monteverde und auf der Seite von Santa Elena gibt es von allen Netzbetreibern brauchbaren Empfang – überraschend für ein Bergdorf in Costa Rica auf 1.400 m. Was nicht hält, sind die Reservate selbst: Sobald man auf den Wegen des Monteverde Cloud Forest Reserve oder des Santa Elena Reserve in den Nebelwald absteigt, verschwindet der Empfang mit dem Licht. Laden Sie vor dem Aufstieg Ihre Wanderkarte und die WhatsApp-Nummer Ihrer Unterkunft herunter; WhatsApp ist in Costa Rica der Standard für alles, von Shuttle-Abholungen bis zu Guide-Bestätigungen.
 
 ### Netzabdeckung an der Karibikküste von Costa Rica und im äußersten Süden
 
@@ -125,7 +125,7 @@ Puerto Viejo de Talamanca und Cahuita sind versorgt, und die Provinz Limón weis
 
 Die praktische Regel: Wenn mehr als zwei Nächte Ihrer Reise östlich von Limón, südlich von Drake Bay oder oberhalb der Wolkengrenze liegen, planen Sie lieber mit der Stille als gegen sie – Offline-Karten und ein Guide, der Sie über das WLAN der Lodge erreichen kann.
 
-### Konnektivität in den Nationalparks
+### Konnektivität in den Nationalparks von Costa Rica
 
 Die sechs Parks, die die meisten Costa-Rica-Reiserouten prägen, teilen sich kein einheitliches Versorgungsprofil. Hier ist die Realität auf der Zufahrtsstraße und hinter dem Eingang.
 
@@ -138,9 +138,9 @@ Die sechs Parks, die die meisten Costa-Rica-Reiserouten prägen, teilen sich kei
 | Tortuguero | 4G im Dorf selbst | Kein Empfang auf den Kanälen oder im Nationalpark – Boote sind per definitionem Funklöcher | Transfers, Tickets und Bargeld vor dem Boarding der Lancha organisieren |
 | Rincón de la Vieja, Guanacaste | Abdeckung auf der Zufahrt von Liberia nach Curubandé | Wird auf den oberen Wegen und den Pfaden zu den Wasserfällen schwächer | Kölbi ist die sicherere Wahl, sobald man die Hauptstraße verlässt |
 
-Diese Tabelle ist das gesamte Argument dieses Artikels im Kleinformat: Die Straßen zu den Nationalparks sind Kölbi-Land, die Städte gehören allen, und die Nationalparks gehören niemandem.
+Diese Tabelle ist das gesamte Argument dieses Artikels im Kleinformat: Die Straßen zu den Nationalparks sind in Costa Rica Kölbi-Land, die Städte gehören allen, und die Nationalparks gehören niemandem.
 
-## Netzabdeckung auf den großen Routen
+## Costa Rica auf den großen Straßen: Netzabdeckung Strecke für Strecke
 
 Die meisten Besucher bewegen sich entlang einer Handvoll bekannter Straßen, und für Ihre Costa-Rica-eSIM ist die Netzabdeckung auf jeder einzelnen im Voraus bekannt.
 
@@ -148,7 +148,7 @@ Die meisten Besucher bewegen sich entlang einer Handvoll bekannter Straßen, und
 
 **Ruta 32 nach Limón.** Die Schnellstraße San José–Limón verläuft durch den **Nationalpark Braulio Carrillo**, und der Abschnitt über dem Dschungel war jahrelang berüchtigt für Nebel, Erdrutsche und ein vollständiges Fehlen von Empfang. Das ändert sich gerade. ICE und seine Tochtergesellschaft CNFL haben im Juni 2025 ein Projekt über ₡7,5 Milliarden gestartet, um eine 26 km lange Strecke mit Beleuchtung und Mobilfunk-Netzabdeckung zu versehen; die Fertigstellung ist für den **20. Februar 2026** geplant, wobei die ersten Abschnitte zwischen dem Zurquí-Tunnel und Kilometer 27 sowie vom Río Sucio zur Seilbahn von Guápiles in Betrieb gehen ([TicosLand](https://ticosland.com/landmark-route-32-upgrade-nears-completion-bringing-light-and-connectivity-to-caribbean-corridor/)). Fahren Sie die Strecke trotzdem bei Tageslicht und laden Sie Offline-Karten für den Bergabschnitt herunter: Zurquí ist der einzige Straßentunnel des Landes, und Tunnel unterbrechen die Datenverbindung bei jedem Netzbetreiber.
 
-**Die Fähre Puntarenas–Paquera.** Wenn Ihre Reiseroute über den Golf von Nicoya auf die südliche Halbinsel führt — Montezuma, Santa Teresa, Mal País — ist die Überfahrt die praktische Abkürzung und spart Stunden gegenüber der Umfahrung des Golfs. [Naviera Tambor](http://www.navieratambor.com/) betreibt die Route seit 1992, eine Überfahrt von 11 Seemeilen mit drei Schiffen (Tambor II, III und IV), die sowohl Fußgänger als auch Fahrzeuge befördern. Zwei Hinweise zur Konnektivität: Rechnen Sie damit, dass der Empfang auf See kommt und geht, und denken Sie daran, dass in der Hochsaison die Fahrzeugplätze ausverkauft sind, buchen Sie also rechtzeitig, wenn Sie mit dem Auto aufs Schiff wollen. Nach Paquera sind die weiterführenden Straßen nach Montezuma und Santa Teresa physisch in schlechtem Zustand, also laden Sie Ihre Karten herunter, bevor Sie sich zum Boarding anstellen.
+**Die Fähre Puntarenas–Paquera.** Wenn Ihre Reiseroute über den Golf von Nicoya auf die südliche Halbinsel führt — Montezuma, Santa Teresa, Mal País — ist die Überfahrt die praktische Abkürzung und spart Stunden gegenüber der Umfahrung des Golfs. Der costa-ricanische Fährbetrieb Naviera Tambor bedient die Route seit 1992, eine Überfahrt von 11 Seemeilen mit drei Schiffen (Tambor II, III und IV), die sowohl Fußgänger als auch Fahrzeuge befördern. Zwei Hinweise zur Konnektivität: Rechnen Sie damit, dass der Empfang auf See kommt und geht, und denken Sie daran, dass in der Hochsaison die Fahrzeugplätze ausverkauft sind, buchen Sie also rechtzeitig, wenn Sie mit dem Auto aufs Schiff wollen. Nach Paquera sind die weiterführenden Straßen nach Montezuma und Santa Teresa physisch in schlechtem Zustand, also laden Sie Ihre Karten herunter, bevor Sie sich zum Boarding anstellen.
 
 **Waze, Google Maps und Offline-Vorbereitung.** Google-Maps-Offlinegebiete sind hier das verlässliche Werkzeug: Laden Sie das ganze Land oder zumindest Nicoya, Osa und das zentrale Hochland über das WLAN des Hotels herunter. Waze ist das bessere Werkzeug für Live-Verkehr und Adressen, wo Sie Empfang haben, und der eigene Offline-Modus ist im Vergleich eingeschränkt — betrachten Sie es also als Ergänzung. Das ist am wichtigsten auf den unbefestigten Inlandstraßen der Halbinsel Nicoya, der Zufahrt nach Osa und dem Bergpass der Ruta 32 — drei Orte, an denen ein Handy ohne Empfang Ihnen trotzdem sagen muss, welche Abzweigung Sie nehmen müssen.
 
@@ -156,7 +156,7 @@ Die meisten Besucher bewegen sich entlang einer Handvoll bekannter Straßen, und
 
 Ein Shuttle-Fahrer kennt die Route und ihre Funklöcher bereits; eine Selbstfahrer-Route tut das nicht. Daraus folgen zwei Gewohnheiten. Erstens: Aktivieren Sie die Daten, bevor Sie den Flughafen verlassen, und nicht erst in einem Badeort — das WLAN bei Ankunft am SJO ist kostenlos, und es gibt einen Kölbi/ICE-Kiosk gegenüber den Gepäckbändern, sodass der Flughafen der effizienteste Ort ist, um eine Leitung einzurichten ([Juan Santamaría International Airport](https://www.sjoairport.com/)). Zweitens: Legen Sie eine Powerbank ins Auto: Auf der Costanera zwischen Parrita und Dominical und auf der Zufahrt nach Osa ist Ihr Telefon auch Ihre Karte, und es auf 4 % um 16 Uhr herunterzufahren ist der Fehler, der aus einer zweistündigen Fahrt eine vierstündige macht.
 
-## Prepaid-SIM vor Ort vs. Reise-eSIM-Preise
+## Prepaid-SIM in Costa Rica oder Reise-eSIM: der Preisvergleich
 
 Kölbi ist der freundlichste Netzbetreiber für Spontankäufe von Besuchern, und auf der offiziellen Website gibt es ein eigenes [„chip turista“-Produkt](https://www.kolbi.cr/) neben dem regulären Prepaid-Sortiment.
 
@@ -190,13 +190,13 @@ Costa Rica funktioniert mit Prepaid, und das Aufladen ist wirklich einfach, soba
 - **Das Bargeldproblem:** Die meisten dieser Kanäle setzen Colones in der Hand oder eine lokale Zahlungsmethode voraus. Eine ausländische Karte wird nicht immer akzeptiert, und kleinere Geschäfte sind nur bargeldbasiert, also planen Sie einen Bargeldbetrag für Aufladungen ein, auch wenn Ihr Hotel Karten akzeptiert.
 - **Der Rhythmus:** Prepaid-Pakete laufen in festen Gültigkeitszeiträumen. Wenn Sie einen Monat bleiben, prüfen Sie beim Kauf die aktive Laufzeit des Pakets, anstatt sie am 20. Tag zu entdecken.
 
-Diese Liste ist das praktische Argument für eine Reise-eSIM auf einen Blick. Eine Prepaid-Leitung ist pro Gigabyte günstiger, aber jeder der oben genannten Schritte — der Schalter, der Pass-Scan, das Bargeld, der Aufladerhythmus — ist eine Aufgabe, die Sie auf Spanisch im Urlaub erledigen, mit einem Telefon, das noch nicht online ist. Ein [Roami Costa-Rica-Profil](/costa-rica-esim/) ersetzt all das durch einen QR-Code, bevor Sie fliegen.
+Diese Liste ist das praktische Argument für eine Reise-eSIM auf einen Blick. Eine Prepaid-Leitung ist pro Gigabyte günstiger, aber jeder der oben genannten Schritte — der Schalter, der Pass-Scan, das Bargeld, der Aufladerhythmus — ist eine Aufgabe, die Sie auf Spanisch im Urlaub erledigen, mit einem Telefon, das noch nicht online ist. Ein Roami Costa-Rica-Profil ersetzt all das durch einen QR-Code, bevor Sie fliegen.
 
 ## Gibt es 5G in Costa Rica?
 
 Kaum — und hier irren ältere Artikel. Die costa-ricanische 5G-Spektrum-Auktion war jahrelang verzögert und wurde schließlich **im Januar 2025 abgeschlossen**, als SUTEL nationale Lizenzen in den Bändern 700 MHz, 2,3 GHz, 3,5 GHz und 26 GHz an Claro und Liberty sowie regionale Lizenzen an fünf lokale Betreiber vergab ([Cullen International](https://www.cullen-international.com/news/2025/02/In-the-Americas--Costa-Rica-auctioned-more-than-1000-MHz-for-5G.html)). Liberty hat Mitte 2025 mit Ericsson das erste eigenständige 5G-Netz des Landes gestartet; Claro baut auf seinem neu ersteigerten Spektrum auf; und Kölbis 5G bleibt ein Pilotprogramm, während ICE eine separate landesweite Open-RAN-Ausschreibung durchführt ([U.S. Trade Administration country guide](https://www.trade.gov/country-commercial-guides/costa-rica-strategic-and-emerging-technologies)).
 
-Was das für Ihre eSIM bedeutet, ist einfach: Planen Sie mit 4G LTE. 5G gibt es in Teilen von San José bei Claro und Liberty, aber die nationale 5G-Netzabdeckung ist embryonal, und kein costa-ricanisches Netz bringt 5G dorthin, wo die Nationalparks und Strände der Touristen sind. Zu den Frequenzbändern: 4G läuft auf LTE-Bändern 2, 4, 5, 7, 12 und 17, 5G auf n78 und im niedrigen Band n28 — jedes Telefon, das den [Kompatibilitätscheck](/compatibility/) besteht, wird sich verbinden; ein Gerät, dem ein bestimmtes Band fehlt, fällt einfach auf die immer noch ausgezeichnete 4G-Schicht zurück.
+Was das für Ihre eSIM bedeutet, ist einfach: Planen Sie mit 4G LTE. 5G gibt es in Teilen von San José bei Claro und Liberty, aber die nationale 5G-Netzabdeckung ist embryonal, und kein costa-ricanisches Netz bringt 5G dorthin, wo die Nationalparks und Strände der Touristen sind. Zu den Frequenzbändern: In Costa Rica läuft 4G auf den LTE-Bändern 2, 4, 5, 7, 12 und 17, 5G auf n78 und im niedrigen Band n28 — jedes Telefon, das den Kompatibilitätscheck besteht, wird sich verbinden; ein Gerät, dem ein bestimmtes Band fehlt, fällt einfach auf die immer noch ausgezeichnete 4G-Schicht zurück.
 
 ### Wer führt 5G in Costa Rica an?
 
@@ -213,8 +213,8 @@ Die ehrliche Zusammenfassung: **Ihre eSIM für Costa Rica läuft mit 4G LTE** �
 | | Direkt von Kölbi / Claro / Liberty | Reise-eSIM |
 |:---|:---|:---|
 | Unterlagen | Passregistrierung, persönlich, 10–20 Minuten | Keine — QR-Code oder App-Installation zu Hause |
-| Netz | One Netzbetreiber, fest | Nutzt lokale Netzbetreibernetzwerke; Multi-Netz-Profile wählen sich beim Wechsel automatisch neu |
-| Telefonnummer | Yes, eine echte costa-ricanische Nummer | In der Regel nur für Daten; SMS-Codes kommen weiterhin auf Ihrer Heimreise-SIM an |
+| Netz | Ein Netzbetreiber, fest | Nutzt lokale Netzbetreibernetzwerke; Multi-Netz-Profile wählen sich beim Wechsel automatisch neu |
+| Telefonnummer | Ja, eine echte costa-ricanische Nummer | In der Regel nur für Daten; SMS-Codes kommen weiterhin auf Ihrer Heimreise-SIM an |
 | Typische Kosten | ca. 10–25 USD für Touristendatenpakete; lokale Daten kosten durchschnittlich **1,86 USD/GB** (152. von 237 Märkten, [Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) | Einmaliger Festpreis, kein Auflade-Aufwand |
 | Am besten für | Aufenthalte von mehr als drei Wochen oder wenn Sie eine lokale Rufnummer benötigen | Reisen von einer bis drei Wochen, sofort nach der Landung verbunden |
 
@@ -230,7 +230,7 @@ Hintergrund zu diesen Preisen: DataReportal zählt 4,76 Millionen Internetnutzer
 
 Der Pro-Gigabyte-Vergleich spricht für eine lokale Prepaid-Karte – und wird es auch immer tun. Was die Tabelle nicht zeigen kann, ist der Wert der Stunde, die Sie nicht an einem Schalter verbringen, am Bankautomaten, bevor Sie zum Flughafenschalter hetzen, oder beim Aufladen, das Sie am neunten Tag auf Spanisch aushandeln müssen. Für eine ein- bis zweiwöchige Reise liegt der Unterschied im einstelligen Dollarbereich; bleiben Sie einen Monat, holen Sie sich die lokale SIM.
 
-## APN-Einstellungen
+## APN in Costa Rica: wann Sie wirklich eingreifen müssen
 
 APN-Einstellungen sind das Letzte, woran man Hand anlegen sollte, und gleichzeitig das Erste, das man ausschließen sollte, wenn die Datenverbindung streikt. Für Costa Rica ist die ehrliche Antwort kürzer, als eine Tabelle vermuten lässt.
 
@@ -251,7 +251,7 @@ Fragen Sie in diesen Fällen den Schalter oder Ihren eSIM-Anbieter nach dem Wert
 
 **Die eine costa-Rica-spezifische Regel:** Vergewissern Sie sich nach jeder Änderung, dass die eSIM – und nicht Ihre Heim-SIM – als Datenleitung ausgewählt ist. Neun von zehn Malen ist das „APN-Problem" in Wahrheit ein Datenleitungs-Problem.
 
-## So aktivieren Sie Ihre Costa-Rica-eSIM ohne böse Überraschungen
+## So aktivieren Sie Ihre eSIM für Costa Rica ohne böse Überraschungen
 
 Installieren Sie das Profil zu Hause im WLAN, bevor Sie fliegen – das WLAN bei der Ankunft in San José ist genau dann überlastet, wenn alle anderen ihres installieren. Die allgemeine Reihenfolge (eSIM hinzufügen, QR-Code scannen, Leitung beschriften, als Datenleitung festlegen, Datenroaming aktivieren) finden Sie in unserer [Aktivierungsanleitung](/faq/how-to-activate-an-esim/); was Ihr Telefon während der Installation im Hintergrund tut, erklärt [eSIM-Aktivierungsmechanik](/faq/what-is-esim-activation-and-how-does-it-work/). Costa-Rica-spezifische Hinweise:
 
@@ -259,9 +259,9 @@ Installieren Sie das Profil zu Hause im WLAN, bevor Sie fliegen – das WLAN bei
 - **Lokale SIM-Registrierung:** Wenn Sie am Flughafen einen Kölbi- oder Claro-Chip kaufen, testen Sie die Datenverbindung, bevor Sie den Schalter verlassen. Registrierungsverzögerungen sind der häufigste Grund, warum eine frische SIM „nicht funktioniert" – sie wird möglicherweise erst einige Stunden später aktiviert.
 - **Duale SIM:** Lassen Sie Ihre Heimleitung für SMS-Bestätigungscodes aktiv und lassen Sie die mobilen Daten über die eSIM laufen.
 
-Wenn die Datenverbindung ausfällt, gehen Sie die üblichen Verdächtigen der Reihe nach durch: Roaming-Schalter aus, falsche Datenleitung ausgewählt, dann die netzseitigen Lösungen in unserem [Leitfaden zur Fehlerbehebung bei der Aktivierung](/faq/esim-activation-errors-troubleshooting-guide/). Eine costa-Rica-Besonderheit: „Kein Signal" tief im Corcovado, in Tortuguero oder im hohen Talamanca ist kein Einstellungsproblem – kein Profil repariert Physik, also begeben Sie sich Richtung Küstenstraße oder in eine Ortschaft.
+Wenn die Datenverbindung ausfällt, gehen Sie die üblichen Verdächtigen der Reihe nach durch: Roaming-Schalter aus, falsche Datenleitung ausgewählt, dann die netzseitigen Lösungen in unserem [Leitfaden zur Fehlerbehebung bei der Aktivierung](/faq/esim-activation-errors-troubleshooting-guide/). Eine Besonderheit in Costa Rica: „Kein Signal" tief im Corcovado, in Tortuguero oder im hohen Talamanca ist kein Einstellungsproblem – kein Profil repariert Physik, also begeben Sie sich Richtung Küstenstraße oder in eine Ortschaft.
 
-### Was kosten mobile Daten in Costa Rica?
+### Die sechs Punkte, die vor der Abreise in Costa Rica stimmen müssen
 
 Die meisten der folgenden Punkte sind allgemeingültig; die zwei, die bei der Ankunft in Costa Rica den Ausschlag geben, sind die im Laden übliche Registrierungspraxis, die Kölbi für seine „Chip Turista" anwendet, sowie Offline-Karten für die Nationalparks und die Anfahrt zur Osa-Halbinsel.
 
@@ -269,65 +269,65 @@ Die meisten der folgenden Punkte sind allgemeingültig; die zwei, die bei der An
 |:---|:---|:---|
 | 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | In den Einstellungen unter Allgemein -> Info wird bei „SIM-Einschränkungen" die Meldung „Keine SIM-Einschränkungen" angezeigt |
 | 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder die [Liste eSIM-fähiger Geräte](/compatibility/) bestätigt Ihr Modell |
-| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud gespeichert |
+| 3 | QR-Code und Aktivierungscode doppelt gesichert | Screenshot in der Galerie, zusätzlich in iCloud bzw. Google Drive ablegen |
 | 4 | Profil vor der Abreise installieren | Zu Hause über WLAN installieren; es verbindet sich bei der Landung |
 | 5 | Datenleitung und Roaming eingerichtet | eSIM für mobile Daten ausgewählt, Datenroaming nur für diese Leitung aktiviert |
 | 6 | Offline-Karten heruntergeladen | Google-Maps-Offline-Gebiet für Costa Rica gespeichert, plus Ihre erste Lodge angeheftet |
 
-### Ist mobiles Internet in Costa Rica teuer?
+### Wie die Aktivierung in Costa Rica je nach Netzbetreiber abläuft
 
 Die allgemeine Installationsabfolge — eSIM hinzufügen, QR-Code scannen, Leitung beschriften, als Datenleitung festlegen, Datenroaming aktivieren — finden Sie in unserem [Schritt-für-Schritt-Leitfaden zur eSIM-Aktivierung](/faq/how-to-activate-an-esim/). Was je nach Netzbetreiber in Costa Rica abweicht:
 
 - **Kölbi (ICE):** Die Aktivierung ist an die Registrierung im Laden gebunden, daher werden Leitung und Profil zusammen am Schalter eingerichtet — testen Sie die Datenverbindung, bevor Sie den Laden verlassen.
 - **Claro:** Prepaid-SIMs und eSIMs werden in Geschäften, bei Händlern und am SJO-Schalter verkauft, die Registrierung erfolgt beim Kauf.
 - **Liberty:** Ladenbasierte Aktivierung sowohl für SIM als auch eSIM, konzentriert im Central Valley und in größeren Orten.
-- **Reise-eSIMs:** Installation per QR-Code zu Hause; das Profil nutzt das Costa-Ricanische Netz, mit dem Ihr Anbieter Roaming-Vereinbarungen hat — häufig Kölbi aufgrund seiner Netzabdeckung.
+- **Reise-eSIMs:** Installation per QR-Code zu Hause; das Profil nutzt das Netz in Costa Rica, mit dem Ihr Anbieter Roaming-Vereinbarungen hat — häufig Kölbi aufgrund seiner Netzabdeckung.
 
-### Fünfe Fehlermuster in costa-Ricanischen Netzen
+### Fünf Fehlerbilder, die in Costa Rica typisch sind
 
-Den allgemeinen Fehlerkatalog — ein Profil, das sich nicht herunterladen lässt, ein fehlgeschlagener Scan, eine eSIM, die sich installiert, aber nie registriert — finden Sie in unserem [vollständigen Leitfaden zur Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/). Die costa-Rica-spezifischen Muster sind diese:
+Den allgemeinen Fehlerkatalog — ein Profil, das sich nicht herunterladen lässt, ein abgebrochener Scan, eine Leitung, die sich nie registriert — finden Sie im [vollständigen Leitfaden zur Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/). In Costa Rica kommen fünf Muster hinzu, die in unseren Support-Tickets am häufigsten auftauchen:
 
-**A. Die eSIM lässt sich nicht installieren**
-1. Einstellungen → Allgemein → Info: Stellen Sie sicher, dass unter „SIM-Lock" „Keine SIM-Einschränkungen" angezeigt wird.
-2. QR-Code prüfen: Ein unvollständiger oder bereits verwendeter Code ist meistens die Ursache.
-3. Bitten Sie Ihren Anbieter, das Profil neu auszustellen; ein ausstehender Status auf Anbieterseite blockiert Ihres.
+**A. Das Profil lässt sich gar nicht hinzufügen**
+1. Einstellungen → Allgemein → Info: Unter „SIM-Einschränkungen" muss „Keine SIM-Einschränkungen" stehen.
+2. Prüfen Sie, ob der QR-Code bereits eingelöst wurde — ein zweiter Scan desselben Codes schlägt immer fehl.
+3. Lassen Sie das Profil beim Anbieter neu ausstellen; ein offener Bestellstatus auf dessen Seite blockiert die Installation.
 
-**B. Installiert, aber keine Empfangsbalken**
-1. Lock-Status erneut prüfen.
-2. Einstellungen → Mobilfunk → Netzwahl → Kölbi, Claro oder Liberty manuell statt automatisch auswählen.
-3. Netzwerk zurücksetzen und anschließend komplett neu starten.
+**B. Das Profil sitzt, aber in Monteverde oder auf der Osa-Halbinsel fehlt jedes Netz**
+1. Sperrstatus erneut kontrollieren.
+2. Einstellungen → Mobilfunk → Netzwahl → Kölbi (ICE), Claro oder Liberty von Hand wählen statt automatisch.
+3. Netzwerkeinstellungen zurücksetzen und das Gerät komplett neu starten.
 
-**C. Empfangsbalken, aber keine Daten**
+**C. Balken stehen, doch Costa Rica liefert keine Daten**
 1. In den Mobilfunk-Einstellungen „Mobile Daten" auf die Costa-Rica-Leitung setzen, nicht auf Ihre Heim-SIM.
 2. Datenroaming nur für die Reise-Leitung aktivieren — nicht für Ihre Heim-SIM.
 3. Prüfen, ob Ihr Datenvolumen aufgebraucht ist — ein verbrauchtes lokales Paket kann Ihnen Balken ohne Datenverbindung bescheren.
 
-**D. „SOS" oder „Nur Notrufe"**
-1. Einstellungen → Mobilfunk öffnen und prüfen, ob das Costa-Rica-Profil aktiviert ist.
-2. Alle anderen aktiven Profile deaktivieren (oder löschen), damit nur die Costa-Rica-Leitung um das Netz konkurriert.
-3. Neustart durchführen und Netzwerkeinstellungen zurücksetzen.
-4. Wenn sich nichts ändert: Profil löschen und mit einem neu ausgestellten QR-Code erneut installieren.
+**D. „Nur Notrufe" nach dem Grenzübertritt bei Paso Canoas**
+1. Einstellungen → Mobilfunk öffnen und prüfen, ob das Costa-Rica-Profil noch aktiv ist.
+2. Alle weiteren Profile deaktivieren, damit nur die Reise-Leitung um das Netz konkurriert.
+3. Neustart durchführen, danach die Netzwerkeinstellungen zurücksetzen.
+4. Bringt das nichts: Profil löschen und mit einem frisch ausgestellten QR-Code neu installieren.
 
-**E. Eine lokale SIM zeigt Balken und dann nichts**
-1. Dies ist meistens eine Registrierungsverzögerung, kein Einstellungsfehler — gehen Sie zurück zum Schalter.
-2. Bitten Sie das Personal, die Registrierung zu erneuern oder eine neue SIM auszugeben, anstatt APN-Felder zu bearbeiten.
-3. Wenn Sie tief in Corcovado, Tortuguero oder im hohen Talamanca sind: Stopp — kein Profil ändert Physik, und kein Netzbetreiber hat dort Empfang.
+**E. Eine im Laden gekaufte Kölbi-SIM zeigt Balken und dann nichts**
+1. Das ist fast immer die Registrierungsverzögerung, kein Einstellungsfehler — gehen Sie zurück zum Schalter.
+2. Lassen Sie die Registrierung erneuern oder einen neuen Chip ausgeben, statt an den APN-Feldern zu drehen.
+3. Tief im Corcovado, auf den Tortuguero-Kanälen oder oberhalb der Talamanca-Wolkengrenze: Stopp — kein Profil ändert Physik, und kein Netzbetreiber hat dort Empfang.
 
 ### Costa-Rica-eSIM-Support: Zuerst diese Angaben sammeln
 
 | Informationen | Wo Sie sie finden |
 |:---|:---|
-| Bestell- oder Kontonummer | Bestätigungs-E-Mail |
-| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
-| EID | `*#06#` |
-| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
-| Aktuelle APN- und Datenleitungs-Einstellungen | Einstellungen → Mobiles Datennetzwerk |
-| Daten-Roaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
-| Bereits versuchte Schritte | Halten Sie die Liste kurz |
+| Bestellnummer Ihres Costa-Rica-Profils | Bestätigungs-E-Mail des Anbieters |
+| Handy-Modell und iOS-/Android-Version | Einstellungen → Allgemein → Info (iOS) bzw. Einstellungen → Über das Telefon (Android) |
+| EID der eSIM-Leitung | `*#06#` wählen und den angezeigten Wert notieren |
+| Screenshot der Fehlermeldung | Sofort aufnehmen – Kölbi- und Roami-Support sehen ihn zuerst |
+| Aktuell gewählter APN und Datenleitung | Einstellungen → Mobilfunk → Mobiles Datennetzwerk |
+| Ist Datenroaming nur für die Reise-Leitung aktiv? | Einstellungen → Mobilfunk → die Costa-Rica-Leitung → Datenroaming |
+| Schritte, die Sie schon probiert haben | Halten Sie die Liste kurz und chronologisch |
 
-## Roaming und Grenzübertritte
+## Costa Rica verlassen: Roaming und die zwei Landgrenzen
 
-Costa-Rica-eSIMs enden an der Grenze, und beide Landübergänge haben ihre Eigenheiten.
+eSIMs für Costa Rica enden an der Grenze, und beide Landübergänge haben ihre Eigenheiten.
 
 **Paso Canoas, nach Panama.** Der südliche Übergang an der Interamericana ist der meistfrequentierte Grenzübergang der Region und zu Fuß am unübersichtlichsten: Die beiden Immigrationsgebäude liegen nicht nebeneinander, die Lücke überbrücken Sie mit Bus oder Taxi, und Warteschlangen von 30–60 Minuten für Fußgänger sind normal, während Feiertagsspitzen noch länger ausfallen. Der Empfang am Grenzübergang selbst ist bei jedem Netzbetreiber ein Glücksspiel — ein denkbar schlechter Zeitpunkt, um online nach einem Busfahrplan zu suchen.
 
@@ -338,7 +338,7 @@ Zwei Dinge sollten Sie vor jedem der beiden Übergänge klären:
 - **Ausreisepapiere und Bargeld.** Die costa-ricanische Landausreisesteuer wird beglichen, bevor Sie die Einwanderungsbehörde erreichen, und das System erwartet eine lokale Bank oder einen Kiosk, der manchmal außer Betrieb ist — erledigen Sie es also besser vorab als erst am Schlagbaum. Tragen Sie Colones und kleine US-Dollar-Scheine bei sich.
 - **Ein Plan für Ihre Daten.** Falls Ihre Route eine Grenze überschreitet, kaufen Sie ein Profil, das jedes Land entlang der Strecke abdeckt, statt eines Einzel-Land-Tarifs. Für Überland-Routen finden Sie Roamis separaten [Panama-eSIM-Leitfaden](/carriers/panama-esim-carrier-guide/), den [Guatemala-Netzbetreiber-Leitfaden](/carriers/guatemala-esim-carrier-guide/) weiter nördlich oder [Mexiko-Tarife](/mexico-esim/), falls Ihre Route weiter durch den Isthmus führt. Ein Mittelamerika-Profil für mehrere Länder ist besser, als an jeder frontera neu zu kaufen.
 
-## Häufige Fragen zu Costa-Rica-Netzbetreibern und eSIMs
+## Häufige Fragen zu Netzbetreibern und eSIM in Costa Rica
 
 ### Ländliche Netzabdeckung in Costa Rica: Claro gegen Kölbi
 
@@ -346,21 +346,21 @@ Kölbi. Als staatliches ICE-Netz betreibt es das größte Sendemast-Gebiet und i
 
 ### Wer hat das schnellste Netz in Costa Rica?
 
-Ja, nach den H1-2025-Medianwerten von Claro: 84,51 Mbps gegenüber 36,79 bei Kölbi. Doch der Abstand ist ein urbantes Phänomen — Ookla stufte auch Liberty's Konsistenz mit 86,0 % vor allen anderen ein, und Kölbi gewann die Auszeichnung für das Videoerlebnis. In einem Nebelwald greift keine dieser Zahlen.
+Nach den H1-2025-Medianwerten von Claro lautet die Antwort ja: 84,51 Mbps gegenüber 36,79 bei Kölbi. Doch der Abstand ist ein urbantes Phänomen — Ookla stufte auch Liberty's Konsistenz mit 86,0 % vor allen anderen ein, und Kölbi gewann die Auszeichnung für das Videoerlebnis. In einem Nebelwald greift keine dieser Zahlen.
 
 ### Verlangen Geschäfte einen Ausweis für den Verkauf von SIM-Karten in Costa Rica?
 
-Yes. Alle drei Netzbetreiber registrieren Prepaid-SIMs im Rahmen des SUTEL-Systems gegen Ihren Reisepass. Bringen Sie das physische Dokument mit; Kopien werden manchmal abgelehnt.
+Ja. Alle drei Netzbetreiber registrieren Prepaid-SIMs im Rahmen des SUTEL-Systems gegen Ihren Reisepass. Bringen Sie das physische Dokument mit; Kopien werden manchmal abgelehnt.
 
 ### Wo 5G in Costa Rica funktioniert
 
-Nur in Fragmenten. Die Spektrumauktion endete im Januar 2025, Liberty startete Mitte 2025 das erste eigenständige 5G-Netz und Claro baut aus, aber die Netzabdeckung beschränkt sich auf Teile der Großstädte. Ihre Costa-Rica-eSIM wird ihr Leben im 4G verbringen, das schnell und gut verteilt ist.
+Nur in Fragmenten. Die Spektrumauktion endete im Januar 2025, Liberty startete Mitte 2025 das erste eigenständige 5G-Netz und Claro baut aus, aber die Netzabdeckung beschränkt sich auf Teile der Großstädte. Ihre eSIM wird in Costa Rica ihr Leben im 4G verbringen, das schnell und gut verteilt ist.
 
-### Was beinhaltet die Registrierung einer Costa-Rica-SIM?
+### Laufen günstige Handys in den Netzen von Costa Rica?
 
-Wenn das Gerät entsperrt ist und eSIM-fähig, im Wesentlichen ja — costa-ricanische Netzbetreiber nutzen gängige LTE-Bänder (2/4/5/7/12/17), die in ganz Amerika verbreitet sind. iPhone-Modelle für den chinesischen Markt haben gar keine eSIM. Prüfen Sie Ihr genaues Modell mit dem [eSIM-Kompatibilitäts-Checker](/compatibility/), bevor Sie kaufen.
+Wenn das Gerät entsperrt ist und eSIM-fähig, im Wesentlichen ja — costa-ricanische Netzbetreiber nutzen gängige LTE-Bänder (2/4/5/7/12/17), die in ganz Amerika verbreitet sind. iPhone-Modelle für den chinesischen Markt haben gar keine eSIM. Prüfen Sie Ihr genaues Modell mit dem eSIM-Kompatibilitäts-Checker, bevor Sie kaufen.
 
-### APN-Werte für Claro, Kölbi und ICE-eSIMs
+### Muss ich den APN in Costa Rica von Hand einstellen?
 
 Fast nie. Lokale Netzbetreiber-SIMs konfigurieren sich bei der Registrierung automatisch, und Reise-eSIMs bringen ihren eigenen APN im Profil mit — ihn zu ändern bringt meistens alles durcheinander. Wenn eine im Laden aktivierte SIM zwar Empfang, aber nach stundenlangem Warten keine Daten anzeigt, bitten Sie das Ladenteam, sie neu zu registrieren, statt manuell an den Einstellungen herumzuspielen.
 
@@ -372,13 +372,13 @@ Eine reine Costa-Rica-eSIM endet an der Grenze. Für Überland-Routen hat Roami 
 
 Weil Reise-eSIMs auf lokalen Gastnetzen laufen. ICE/Kölbi, Claro oder Liberty als Netzbetreibernamen zu sehen, ist normal und erwartet — es zeigt Ihnen, welche Sendemasten Sie tatsächlich nutzen.
 
-### Claro gegen Kölbi: Netzabdeckung im Vergleich
+### Claro gegen Kölbi: Netzabdeckung in Costa Rica im Vergleich
 
 Kölbi, was die Reichweite angeht, und auf den Zufahrtsstraßen ist es nicht knapp — es betreibt das größte Netzgebiet und ist das Netz, das Lodges meinen, wenn sie sagen, dass dort draußen nur ein Netzbetreiber funktioniert. Doch „am besten im Park" übertreibt, was irgendein Netzbetreiber leistet: innerhalb des Corcovado, auf den Kanälen von Tortuguero oder oberhalb der Talamanca-Nebelwaldgrenze gibt es auf keinem Netz Empfang, und das ist Geografie, keine Schwäche des Netzbetreibers.
 
 ### Ist eine Prepaid-SIM günstiger als eine Costa-Rica-eSIM?
 
-Pro Gigabyte ja — lokale Daten kosten im Durchschnitt **1,86 USD/GB**, einer der günstigeren Tarife der Region, und ein Touristen-Bundle von Kölbi kann ein gutes Preis-Leistungs-Verhältnis bieten. Rechnen Sie die Reisepass-Registrierung, die Warteschlange im Laden, den bargeldlosen Flughafenkiosk und das Aufladen hinzu, und der Abstand schmilzt bei einer kurzen Reise schnell dahin. Bei unter zwei Wochen sind die meisten Besucher mit [Costa-Rica-Datentarifen](/costa-rica-esim/) besser bedient; bei über einem Monat kaufen Sie lokal.
+Pro Gigabyte ja — lokale Daten kosten im Durchschnitt **1,86 USD/GB**, einer der günstigeren Tarife der Region, und ein Touristen-Bundle von Kölbi kann ein gutes Preis-Leistungs-Verhältnis bieten. Rechnen Sie die Reisepass-Registrierung, die Warteschlange im Laden, den bargeldlosen Flughafenkiosk und das Aufladen hinzu, und der Abstand schmilzt bei einer kurzen Reise schnell dahin. Bei unter zwei Wochen sind die meisten Besucher mit Costa-Rica-Datentarifen besser bedient; bei über einem Monat kaufen Sie lokal.
 
 ### Brauche ich eine costa-ricanische Telefonnummer?
 
@@ -388,7 +388,7 @@ Nur wenn Sie lokale Anrufe tätigen oder entgegennehmen oder SMS von costa-rican
 
 Selten. Das eigenständige 5G-Netz von Liberty und der Ausbau von Claro decken Teile der Städte und einige Touristenzonen ab, und Kölbi ist mit 5G noch in einer Pilotphase. Ihre eSIM wird fast die gesamte Zeit mit 4G LTE verbringen, das schnell und gut verteilt ist. Wählen Sie Ihren Netzbetreiber nach der Netzabdeckung dort, wo Sie hinfahren, nicht nach einem 5G-Label, das bei Ihrer Ankunft möglicherweise gar nicht verfügbar ist.
 
-## Datenquellen zur Costa-Rica-eSIM: Was wir gemessen haben und wer sie veröffentlicht hat
+## Datenquellen zur eSIM in Costa Rica: was wir geprüft haben und wer es veröffentlicht hat
 
 - Jede Angabe zu Netzbetreibern, Städten und Provinzen oben geht auf den [Costa-Rica-H1-2025-Bericht](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025) von Ookla zurück.
 - Der Abschluss der 5G-Auktion in Costa Rica im Januar 2025 wird im [Americas-Spektrum-Auktions-Tracker](https://www.cullen-international.com/news/2025/02/In-the-Americas--Costa-Rica-auctioned-more-than-1000-MHz-for-5G.html) von Cullen International verfolgt.
@@ -401,19 +401,19 @@ Selten. Das eigenständige 5G-Netz von Liberty und der Ausbau von Claro decken T
 - Die 5G-Kommunikation und das Prepaid-Superpack-Angebot von Claro werden auf [Claro Costa Rica](https://www.claro.cr/) beschrieben.
 - Der regionale und Nationalpark-Kontext hinter den Reiseziel-Hinweisen stammt von [Visit Costa Rica (ICT)](https://www.visitcostarica.com/en).
 - Ankunftsleistungen, einschließlich des in den Aktivierungshinweisen erwähnten kostenlosen WLAN, werden vom [Internationalen Flughafen Juan Santamaría](https://www.sjoairport.com/) dokumentiert.
-- Die im Fahrabschnitt beschriebene Überfahrt Puntarenas–Paquera wird von [Naviera Tambor](http://www.navieratambor.com/) betrieben.
+- Die im Fahrabschnitt beschriebene Überfahrt Puntarenas–Paquera wird vom costa-ricanischen Fährbetrieb Naviera Tambor durchgeführt.
 - ICEs Beleuchtungs- und Netzabdeckungsprojekt im Wert von ₡7,5 Milliarden auf der Autobahn San José–Limón wird von [TicosLand](https://ticosland.com/landmark-route-32-upgrade-nears-completion-bringing-light-and-connectivity-to-caribbean-corridor/) berichtet. Mindestens zwei unabhängige Quellen — das ist der Maßstab für jede Zahl auf dieser Seite.
 
 Die Zahlen sind Messungen Dritter, nicht unsere eigenen Tests; Ihr Ergebnis variiert je nach Gerät, Band und Anzahl der Nutzer, die sich den nächstgelegenen Sendemast teilen.
 
-## Installieren Sie eine Costa-Rica-eSIM und landen Sie am SJO bereits verbunden
+## Installieren Sie Ihre eSIM für Costa Rica und landen Sie am SJO verbunden
 
-Bestellen Sie zu Hause, scannen Sie den QR-Code einmal, und Sie nutzen Costa Rica's stärkstes lokales Netz, sobald Sie die Ankunft hinter sich gelassen haben — keine Warteschlange im Laden, keine Reisepass-Kopie, nichts auf Ihrer Heimrechnung abgerechnet. Neukunden können zunächst eine [kostenlose Costa-Rica-eSIM testen](/free-esim/) oder direkt einen [Costa-Rica-Tarif auswählen](/costa-rica-esim/).
+Bestellen Sie zu Hause, scannen Sie den QR-Code einmal, und Sie nutzen in Costa Rica das stärkste lokale Netz, sobald Sie die Ankunft hinter sich gelassen haben — keine Warteschlange im Laden, keine Reisepass-Kopie, nichts auf Ihrer Heimrechnung abgerechnet. Neukunden können zunächst eine kostenlose Costa-Rica-eSIM testen oder direkt einen Costa-Rica-Tarif auswählen.
 
 [Jetzt Costa-Rica-eSIM kaufen](/costa-rica-esim/)
 
 *Erstkäufer-Angebot*
 
-[Free Costa-Rica-Test-eSIM](/free-esim/)
+[Kostenlose Costa-Rica-Test-eSIM](/free-esim/)
 
-Und wenn Sie bereit sind zu kaufen: Roamis [kostenloser Netztest](/free-esim/) ist der risikofreie Einstieg für Costa Rica, mit **WEB20**, das 20 % auf Ihren ersten kostenpflichtigen Tarif gibt, wenn Sie sich entscheiden, die gesamte Reise lang verbunden zu bleiben.
+Und wenn Sie bereit sind zu kaufen: Roamis kostenloser Netztest ist der risikofreie Einstieg für Costa Rica, mit **WEB20**, das 20 % auf Ihren ersten kostenpflichtigen Tarif gibt, wenn Sie sich entscheiden, die gesamte Reise lang verbunden zu bleiben.
