@@ -24,7 +24,7 @@ breadcrumb_items:
 
   url: ''
 
-hero_badge: 'L\'Argentina gira su "chip" — e la burocrazia dietro di essi è insolita'
+hero_badge: "L'Argentina gira su \"chip\" — e la burocrazia dietro di essi è insolita"
 
 hero_subtitle_main: "Personal è la rete più veloce per misurazione; il terreno decide il resto"
 
