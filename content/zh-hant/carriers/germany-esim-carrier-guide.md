@@ -1,283 +1,395 @@
 ---
-title: "去德國旅遊必看：eSIM 方案、價格與網速完整整理。"
-description: "需要德國的 eSIM？Roami 實測 Telekom、Vodafone 和 O2 的 5G 速度與覆蓋，根據旅行需求推薦最合適的方案。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 德國，預付數據，5G 網路，Telekom，Vodafone，O2，Roami eSIM，德國旅遊上網"
-site_name: "Roami"
-brand_name: "Roami"
+title: "德國 eSIM 怎麼挑？Telekom、Vodafone、O2 完整比較"
+description: "德國 eSIM 該辦哪一家電信業者？Roami 就 5G 網速、鄉村覆蓋與歐盟漫遊表現，衡量 Telekom、Vodafone 與 O2 三大業者，並詳解預付卡身分驗證規定與 APN 設定，從柏林到羅曼蒂克大道，幫你挑出德國最穩的 eSIM。"
+image: "img/esim/carriers/germany-esim-carrier-guide.jpg"
+date: "2026-09-26T09:25:04+00:00"
+keywords: Germany eSIM carriers, Telekom eSIM, Vodafone eSIM, O2 eSIM, Aldi Talk eSIM, Lidl Connect eSIM, 德國 5G 覆蓋率, 德國 eSIM APN, eSIM 德國預付卡, 德國最佳 eSIM 業者
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "德國 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇩🇪] 德國最新旅遊 eSIM 指南"
-hero_subtitle_main: "德國 eSIM：體驗極速 5G"
-hero_subtitle_highlight: "Telekom 與 Vodafone 頂級 5G 覆蓋"
-hero_description_line1: "多樣化的資費方案，德國 eSIM 適合短期訪客、學生與商務人士，讓您輕鬆使用全 德國 的高速數據。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "德國 eSIM"
-hero_link_url: "/germany-esim/"
-tldr_summary: "【國際旅行必備：5G eSIM 解決方案，無縫切換網路】前往德國，您需要穩定且高速的網路。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025) 數據，Telekom 以中位下載 99.01 Mbps 奪冠，5G 更達 159.46 Mbps；Vodafone 與 O2 則提供優異覆蓋。Roami eSIM 讓您無需實體卡，抵達即連線，完美整合德國頂尖網路，無論在柏林、慕尼黑或法蘭克福，都能享受極速 5G。結論：Roami eSIM 是您德國之旅最聰明的連線選擇。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "德國 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：德國 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "德國 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：德國 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 德國 eSIM 前須知"
-
-  - href: "#faq"
-    text: "德國 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "德國 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：德國該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Telekom"
-    carrier_class: "text-magenta-600"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)，Telekom 提供最快整體網路（中位下載 99.01 Mbps）與最佳 5G 體驗（159.46 Mbps），適合重度遠端工作與視訊會議。"
-
-  - travel: "城市觀光客"
-    carrier: "Vodafone"
-    carrier_class: "text-red-600"
-    reason: "Vodafone 在鄉村與城市間覆蓋均衡，中位下載 69.87 Mbps，5G 達 103.08 Mbps，適合打卡、導航與串流。"
-
-  - travel: "預算有限背包客"
-    carrier: "O2"
-    carrier_class: "text-blue-600"
-    reason: "O2 擁有最高 5G 可用性（72.4%），中位下載 50.16 Mbps，價格親民，適合基本社交與通訊。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 德國 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "telekom-esim"
-    title: "Telekom eSIM 總覽：極速王者"
-    best_for: "此方案絕對是最佳選擇，若您追求極致速度與低延遲，適合商務人士、遊戲玩家與高畫質串流愛好者。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)，Telekom 5G 可用性表現優異，但略低於 O2。\n- **下載速度**：中位下載 99.01 Mbps，5G 中位下載 159.46 Mbps，為全德國最快。\n- **上傳速度**：中位 18.29 Mbps，5G 中位 24.84 Mbps。\n- **延遲**：平均 35 ms，5G 僅 33 ms。\n- **一致性**：93.5% 樣本達 5 Mbps 下載 / 1 Mbps 上傳門檻。"
-    arcep_note: "經德國聯邦網路局（Bundesnetzagentur）確認，Telekom 持有主要頻譜授權，覆蓋全國。"
-    connect_note: "啟用過程順暢，Roami eSIM 支援即時 QR code 掃描，抵達德國後自動連線。"
-    user_scenarios: "- **[柏林圍牆紀念館]**：在歷史遺址使用 Telekom 5G 即時查閱 AR 導覽，下載速度達 150 Mbps，無延遲。\n- **[新天鵝堡]**：偏遠山區仍保有穩定訊號，上傳高畫質照片至社群媒體，上傳速度約 20 Mbps。\n- **[慕尼黑啤酒節]**：人潮擁擠下仍維持低延遲（35 ms），直播狂歡不卡頓。"
-    bg_color: "bg-magenta-50"
-
-  - id: "vodafone-esim"
-    title: "Vodafone eSIM 總覽：最佳鄉村覆蓋"
-    best_for: "此方案絕對是最佳選擇，若您經常自駕穿越鄉村或小鎮，Vodafone 提供均衡的速度與廣泛覆蓋。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)，Vodafone 5G 可用性良好，中位下載 69.87 Mbps。\n- **下載速度**：中位下載 69.87 Mbps，5G 中位下載 103.08 Mbps。\n- **上傳速度**：中位約 15 Mbps，5G 中位約 20 Mbps。\n- **延遲**：平均 38 ms，5G 約 35 ms。\n- **一致性**：約 88% 樣本達 5 Mbps 下載 / 1 Mbps 上傳門檻。"
-    arcep_note: "經德國聯邦網路局（Bundesnetzagentur）確認，Vodafone 在鄉村地區有額外覆蓋義務。"
-    connect_note: "啟用過程順暢，Roami eSIM 支援即時 QR code 掃描，抵達德國後自動連線。"
-    user_scenarios: "- **[羅曼蒂克大道]**：自駕穿越童話小鎮，Vodafone 在偏遠路段仍提供穩定導航，下載速度約 60 Mbps。\n- **[黑森林]**：健行時使用離線地圖預載，實際連線速度約 50 Mbps，可即時分享風景。\n- **[漢堡港]**：在繁忙港口區域，5G 下載達 100 Mbps，上傳貨運文件無延遲。"
-    bg_color: "bg-red-50"
-
-  - id: "o2-esim"
-    title: "O2 eSIM 總覽：最高 5G 可用性"
-    best_for: "此方案絕對是最佳選擇，若您預算有限但希望享有最高 5G 可用性（72.4%），適合輕度使用者。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)，O2 以 72.4% 的 5G 可用性領先全德國。\n- **下載速度**：中位下載 50.16 Mbps，5G 中位下載 67.03 Mbps。\n- **上傳速度**：中位約 12 Mbps，5G 中位約 16 Mbps。\n- **延遲**：平均 42 ms，5G 約 38 ms。\n- **一致性**：約 80% 樣本達 5 Mbps 下載 / 1 Mbps 上傳門檻。"
-    arcep_note: "經德國聯邦網路局（Bundesnetzagentur）確認，O2 在都市地區 5G 覆蓋密集。"
-    connect_note: "啟用過程順暢，Roami eSIM 支援即時 QR code 掃描，抵達德國後自動連線。"
-    user_scenarios: "- **[柏林亞歷山大廣場]**：在市中心使用 O2 5G，可用性高，下載速度約 65 Mbps，適合社群打卡。\n- **[科隆大教堂]**：觀光熱點人潮多，仍可保持連線，上傳照片速度約 15 Mbps。\n- **[法蘭克福機場]**：轉機時快速查詢航班資訊，5G 可用性確保不中斷。"
-    bg_color: "bg-blue-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 德國 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 德國 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 德國 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 德國 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 德國主要 5G/4G 頻段與裝置相容性"
-    content: "德國 5G 主要使用 n1 (2100 MHz)、n3 (1800 MHz)、n28 (700 MHz)、n78 (3500 MHz) 頻段；4G LTE 則以 B1、B3、B7、B20 為主。購買 eSIM 前請確認您的裝置支援這些頻段，尤其是 n78 與 B20，以確保最佳覆蓋。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "德國法規要求所有預付 SIM 卡（含 eSIM）需進行實名認證（KYC）。Roami eSIM 在購買時會要求提供護照或身分證件掃描，並通過自動驗證，過程約 5-10 分鐘，請提前準備。"
-
-  - heading: "3. 公平使用政策（FUP）與數據上限"
-    content: "多數德國 eSIM 方案設有公平使用政策，例如每日高速數據上限（如 1GB/日）後降速至 128 kbps。Roami 提供透明資費，請在購買前確認方案細節，避免超量後網速過慢。"
-
-  - heading: "4. 啟用時效與有效期限"
-    content: "德國 eSIM 通常需在購買後 30 天內啟用，啟用後有效期限依方案而異（如 7 天、15 天、30 天）。Roami eSIM 支援抵達德國後掃描 QR code 啟用，請勿提前啟用以避免浪費天數。"
-
-  - heading: "5. 網路鎖與雙卡使用注意事項"
-    content: "若您的手機曾與特定電信商綁約（網路鎖），可能無法使用其他營運商的 eSIM。此外，德國 eSIM 可與實體 SIM 卡並存，但請在手機設定中指定數據來源為 eSIM，並關閉數據漫遊開關（若方案已含漫遊）。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：德國最佳 eSIM"
-city_guide_desc: "了解哪款德國 eSIM 是您目的地的最佳選擇，根據城市特性與網路效能推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "柏林"
-    carriers: "Telekom"
-    reason: "柏林為首都且人口密集，Telekom 提供最快中位下載速度（99.01 Mbps），適合商務與觀光。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)，柏林在行動網路測試中表現優異。"
-
-  - city: "慕尼黑"
-    carriers: "Telekom"
-    reason: "慕尼黑是德國固定網路最快城市（中位下載 108.1 Mbps），行動網路亦由 Telekom 領先。適合科技展會與啤酒節期間大量數據需求。"
-
-  - city: "杜塞道夫"
-    carriers: "Telekom"
-    reason: "杜塞道夫錄得最快行動中位下載速度 148.6 Mbps，Telekom 在此表現最佳，適合商務旅客與數位遊牧民族。"
-
-  - city: "漢堡"
-    carriers: "Vodafone"
-    reason: "漢堡為港口城市，Vodafone 在鄉村與城市間覆蓋均衡，適合自駕前往周邊小鎮。中位下載 69.87 Mbps 足以應付導航與串流。"
-
-  - city: "法蘭克福"
-    carriers: "O2"
-    reason: "法蘭克福為國際機場與金融中心，O2 擁有最高 5G 可用性（72.4%），適合轉機旅客與輕度使用者，價格實惠。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 德國 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在柏林、慕尼黑等大城，使用 Telekom eSIM 享受 5G 極速（下載 159.46 Mbps），即時查詢博物館資訊、AR 導覽與串流影片。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往黑森林或新天鵝堡，Vodafone 提供穩定鄉村覆蓋，中位下載 69.87 Mbps，確保離線地圖預載與即時分享。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "沿羅曼蒂克大道自駕，O2 的 5G 可用性（72.4%）讓導航不中斷，即使偏遠路段仍可連線。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在波羅的海沿岸如呂根島，Telekom 提供最佳一致性（93.5% 樣本達標），適合上傳度假照片與視訊通話。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "德國 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "網路覆蓋是否包含德國的主要交通樞紐，如機場、高鐵與地鐵？"
-    a: "是的，德國三大營運商（Telekom、Vodafone、O2）在法蘭克福、慕尼黑、柏林等主要機場以及 ICE 高鐵沿線均有良好覆蓋。地鐵（U-Bahn）與 S-Bahn 車站內通常也有 4G/5G 訊號，但隧道內可能短暫中斷。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)，Telekom 在交通樞紐的表現最佳。"
-
-  - q: "德國 eSIM 是否適合線上遊戲，平均網路延遲（ping）為何？"
-    a: "適合。Telekom 提供最低平均延遲 35 ms（5G 僅 33 ms），非常適合即時戰略與射擊遊戲。Vodafone 延遲約 38 ms，O2 約 42 ms。Roami eSIM 搭配 Telekom 網路，可提供流暢的遊戲體驗。"
-
-  - q: "如果我的德國 eSIM 安裝成功後無法找到網路，該怎麼辦？"
-    a: "請先確認手機已開啟數據漫遊（設定 > 行動網路 > 數據漫遊），並手動選擇營運商（如 Telekom.de）。若仍無訊號，請重新啟動手機，或刪除 eSIM 設定檔後重新掃描 QR code。Roami 客服提供 24/7 支援。"
-
-  - q: "我可以同時使用實體 SIM 卡（原門號）與德國 eSIM 嗎？"
-    a: "可以。大多數手機支援雙卡雙待，您可將實體 SIM 卡保留原門號（關閉數據漫遊），並將 eSIM 設為數據來源。請注意，部分方案不支援語音通話，僅提供數據。"
-
-  - q: "抵達德國機場後，如何正確啟用 Roami eSIM 設定檔？"
-    a: "購買後您將收到一封含 QR code 的電子郵件。抵達德國後，請連接機場免費 Wi-Fi，掃描 QR code 並安裝設定檔。安裝完成後，開啟數據漫遊，手動選擇營運商（建議 Telekom），即可開始使用。"
-
-# 迷思
-myths_title: "⚠️ 德國 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "德國所有營運商速度都差不多。"
-    truth: "錯誤。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)，Telekom 中位下載 99.01 Mbps，遠高於 Vodafone 的 69.87 Mbps 與 O2 的 50.16 Mbps，差異顯著。"
-
-  - myth: "5G 覆蓋在德國鄉村地區已經普及。"
-    truth: "不完全正確。O2 雖有最高 5G 可用性（72.4%），但鄉村地區仍以 4G 為主。Telekom 與 Vodafone 持續擴建，但偏遠山區可能僅有 3G 或無訊號。"
-
-  - myth: "eSIM 比實體 SIM 卡更不穩定。"
-    truth: "錯誤。eSIM 技術與實體 SIM 卡同樣可靠，且無需插拔，減少損壞風險。Roami eSIM 使用 Telekom 等頂級網路，穩定性一致。"
-
-  - myth: "德國預付卡不需要實名認證。"
-    truth: "錯誤。自 2017 年起，德國法規要求所有預付 SIM 卡（含 eSIM）需進行 KYC 實名認證，否則將被鎖卡。Roami 在購買時即完成驗證。"
-
-  - myth: "在德國使用 eSIM 會產生高額漫遊費。"
-    truth: "錯誤。Roami eSIM 提供固定費率方案，無隱藏漫遊費。您只需在出發前購買方案，抵達後即可使用，費用遠低於傳統國際漫遊。"
-
-# 數據來源
-data_sources_title: "德國 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 基於 Speedtest Intelligence 數據，分析 2025 年上半年德國行動與固網效能，提供中位下載/上傳速度、延遲與一致性指標。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 發布德國行動網路體驗報告，涵蓋覆蓋、速度與應用體驗評分，作為交叉驗證參考。"
-
-  - name: "德國聯邦網路局（Bundesnetzagentur）2025"
-    description: "德國電信監管機構提供頻譜分配、覆蓋義務與服務品質統計，確保數據合規性。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已標註來源。實際體驗可能因裝置、地點與時間而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異，建議出發前確認 Roami eSIM 方案細節。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的德國 eSIM"
-cta_desc: "即時存取，無需實體卡，抵達德國即享極速 5G。"
-cta_button_text: "立即購買德國 eSIM"
-cta_button_link: "/germany-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "德國 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 德國 eSIM 指南
+  url: ''
+hero_badge: "德國 eSIM：電信業者的實地指南"
+hero_subtitle_main: "哪張網路服務你的路線——以及數據怎麼說"
 ---
+
+
+三張全國網路覆蓋德國，而沒有任何一張是自動的答案。在 Ookla 的 2025 上半年德國報告中，Telekom 被評為最佳行動網路與最佳 5G 網路，並以 78.87 拿下最高的 Speedtest Connectivity Score。Vodafone 繳出三巨頭中最強的鄉村覆蓋，O2 則以 72.4% 領先 5G 可用性。哪一家最適合你，取決於你涵蓋的地域——正確的德國業者是一個路線規劃決策，而不是品牌決策。本指南每隔幾個月就會根據 Roami 的德國啟用紀錄與支援工單重建一次——光靠新聞稿驅動不了它。
+
+**簡短回答：** 30 秒的版本：Telekom 是全德國覆蓋的安全預設，Vodafone 在主要城市及其周邊通常更便宜。下方是支撐這個說法的數據，如果你的手機需要先檢查，還有[相容性檢查器](/compatibility/)。
+
+如果設定檔裝不進去，再快的速度圖表或覆蓋地圖都救不了這趟旅程。[手機相容性清單](/compatibility/)與這篇 [eSIM 啟用教學](/faq/what-is-esim-activation-and-how-does-it-work/)涵蓋了基礎，讓本指南能騰出空間正面比較各張網路。
+
+**精簡版：** 留在柏林、慕尼黑、漢堡或法蘭克福？Telekom 是德國最快、最一致的網路。要開車穿越巴伐利亞、黑森林或小城鎮？Vodafone 在 O2 衰減的地方仍握有訊號。想要便宜的城市方案？O2 及其折扣品牌（含 Aldi Talk 與 blau）比其他業者低 20% 到 40%。最大的單一門檻是身分驗證：德國法律要求每一張預付 SIM 與 eSIM 都要註冊，所以沒有真正匿名的現場 eSIM。想跳過文件與 PostIdent 排隊？Roami 的免費試用 eSIM 免費測試各張網路，優惠碼 WEB20 為[德國預付 eSIM 方案](/germany-esim/)折抵 20%。
+
+## 你的 eSIM 所用的網路由誰營運
+
+### Telekom 對 Vodafone：在德國哪家更好？
+
+| | Telekom | Vodafone | O2 |
+|:---|:---|:---|:---|
+| 遊客預付 eSIM | 預付 eSIM 需透過客服把實體 SIM 轉換，或用月租型的 eSIM | 免費的 CallYa eSIM 線上訂購，需身分查核 | 直接的預付 eSIM，線上護照驗證 |
+| 標誌性強項 | 最佳整體網路與最佳 5G 網路 | 最強的鄉村與高速公路覆蓋 | 最便宜且 5G 可用性最高 |
+| 最低成本的預付入門 | MagentaMobil Prepaid 4 週 4.95 歐元起 | CallYa Start 4 週 1 GB 4.99 歐元 | 預付 eSIM 4 週 20 GB 9.99 歐元 |
+| 遊客購買流程 | 中等門檻，需驗證 | 低門檻，eSIM 免費，抵達後驗證 | 低門檻，行前線上驗證 |
+
+本頁最重要的事實就在那張表裡：三家全國業者都賣預付 eSIM，但每一家都要求德國的身分驗證，門號才會生效。沒有任何德國業者販售匿名的遊客 eSIM。Telekom 讓預付 eSIM 麻煩一點——要先啟用實體 SIM、再透過客服簽發——而 Vodafone 與 O2 讓你直接訂購 eSIM 設定檔。
+
+### 哪些平價品牌與區域轉售商賣 eSIM
+
+德國的折扣品牌騎在三張網路上，是遊客找到最低價的地方，但 eSIM 路徑不總是即時的。
+
+| 品牌 | 底層網路 | eSIM | 適合誰 |
+|:---|:---|:---|:---|
+| Aldi Talk | O2 | 要先訂購並啟用實體 SIM，之後才有 eSIM | 不介意多一步的預算型城市使用者 |
+| Lidl Connect | Vodafone | 實體 SIM 啟用後，透過客戶入口取得 eSIM | 同樣價格下，鄉村與火車覆蓋優於 O2 |
+| Otelo | Vodafone | SIM 啟用後透過 Otelo 入口取得 eSIM | 緊預算也要 Vodafone 網路的人 |
+| blau | O2 | 預付與合約方案皆支援 eSIM | 長期停留，但合約需要歐盟或德國居留 |
+| Congstar | Telekom | 預付與合約都有 eSIM | 要 Telekom 覆蓋但不要 Telekom 溢價的人 |
+
+兩個提醒。第一，Aldi Talk、Lidl Connect 與 Otelo 不會給新客戶即時的 eSIM：你必須先收到並啟用一張實體 SIM，再到帳戶入口轉換，而這仍會觸發同樣的法律身分查核。第二，每個折扣品牌都綁定一張宿主網路，所以 Aldi Talk 與 blau 給你 O2 覆蓋、僅此而已——一旦你離開城市，這件事就重要了。
+
+### 可以向 Telekom 買德國 eSIM 嗎？
+
+| | 直接向德國業者購買 | 騎在德國網路上的旅遊 eSIM |
+|:---|:---|:---|
+| 你需要什麼 | 護照與一個驗證步驟；部分路線需要德國地址 | 一支相容且解鎖的手機 |
+| 設定檔如何送達 | 驗證後由業者簽發 eSIM | 結帳後立即取得 QR 碼或 App 安裝 |
+| 典型的 20 GB 價格 | Vodafone 或 O2 預付約 4 週 9.99 歐元 | 單一預付價，無 SIM 費、無驗證 |
+| 網路存取 | 單一業者 | 在 Telekom、Vodafone 與 O2 之間自動切換 |
+| 最適合 | 停留一個月以上，或任何需要德國門號的人 | 一到三週的行程，以及想落地即上線的任何人 |
+
+對正常的假期而言，經濟學偏向旅遊 eSIM。德國預付方案按四週週期收費並強制護照查核，而旅遊 eSIM 以批發價買數據，讓裝置在網路之間自由移動。業者贏的地方是壽命與語音：真正的德國門號、國內無限通話，以及第六個月仍然有效的方案。如果你想先測試網路再承諾方案，[免費試用 eSIM](/free-esim/)，只在覆蓋符合你的路線時才升級。
+
+多網路 eSIM 設定檔是實用的中間路線：一張[德國 eSIM 方案](/germany-esim/)保留即時交付的便利，在 Telekom、Vodafone 與 O2 之間自動切換，還能讓你在慕尼黑落在 Telekom、在黑森林落在 Vodafone，不必買兩次。
+
+## 你的手機相容 eSIM 嗎？
+
+三件事決定你的手機能否在德國業者的網路上使用：它的頻段、鎖定狀態，以及一份簡短的裝置特例清單。三者都在下面涵蓋。
+
+### 哪些裝置被擋在德國 eSIM 之外？
+
+德國業者在特定頻段上建設 5G：以 3.6 GHz 的 n78 提供容量、700 MHz 的 n28 提供覆蓋，以及 2100 MHz 的 n1；4G LTE 則使用 800 MHz 頻段 20、1800 MHz 頻段 3 與 2600 MHz 頻段 7。不少國際手機缺少其中一個或多個頻段，尤其是 n28，而那些手機仍然可用：離開密集市區後會退回 LTE，在市中心沒問題，在鄉間就令人沮喪。
+
+不必背德國頻段表。最安全的做法是拿精確型號對照 [eSIM 裝置檢查器](/compatibility/)。如果你想先了解內部原理，[手機載入 eSIM 設定檔時發生了什麼](/faq/what-is-esim-activation-and-how-does-it-work/)會走完整個流程。
+
+### 電信鎖會擋住你的德國 eSIM 嗎
+有鎖的手機是德國 eSIM 安裝直接失敗最常見的原因，而德國在這件事上的處理與加拿大不同。歐盟沒有像 CRTC Wireless Code 那樣單一強制的解鎖法律，所以手機不受法律要求出廠即解鎖。實務上，在歐盟或英國購買的手機幾乎都是解鎖出售的，這意味著德國的鎖定問題幾乎總是來自仍綁在非歐盟業者的手機，最常見是還在合約期內的美國月租機。
+
+**檢查它：** 在 iPhone 上，打開設定，然後一般、關於本機，讀取電信鎖那一行。如果顯示「無 SIM 卡限制（No SIM restrictions）」，沒有任何東西擋路。如果畫面寫著「SIM 已鎖定」，第三方 eSIM 無法安裝，直到鎖被解除。
+
+**修復它：** 聯繫提供這支手機的電信業者，請求解鎖。已繳清的裝置通常數小時內就能解鎖，而且不涉及任何德國費用，因為鎖在你的原電信業者手上，不是德國的。然後再嘗試安裝 eSIM。
+
+如果你拿到的是二手手機，請當作可能有鎖，起飛前先驗證。完整細節在於你的原電信業者，而不是德國的監管機關。
+
+### 德國網路會接受你的手機嗎？
+
+| 裝置 | 症狀 | 該怎麼辦 |
+|:---|:---|:---|
+| 中國大陸版 iPhone | 完全沒有「加入 eSIM」選項，該市場的硬體被停用 | 無法修復，改用實體 SIM 或另一台裝置 |
+| 電信業者購買的 Samsung | 設定中 eSIM 呈灰色 | 先請業者解鎖，再重新開機 |
+| 缺少 n28 或 n78 的國際手機 | 市區很快，鄉間只有 LTE | 屬預期行為，見下方地區說明 |
+| 雙 SIM 使用者 | eSIM 已安裝但沒有數據 | 把 eSIM 設為用於行動數據的門號 |
+| 有鎖的非歐盟手機 | 安裝完全失敗 | 旅行前先向原電信業者解鎖 |
+
+這之後的一切都是手機問題，不是德國網路問題。為任何方案付費之前，先把你的具體機型跑一遍[手機相容性檢查器](/compatibility/)。
+
+## 價格，正面對決
+
+存在四條路線，它們的差異更多在文件而非價格：透過客服的 Telekom 預付、線上的 Vodafone CallYa、O2 的直接預付，或實體 SIM 之後的折扣品牌。每條路線，一步一步：
+
+### 遊客在哪裡買德國 eSIM
+
+Telekom 自己的消費者方案是月租型，需要德國地址與信用查核，但預付路線對遊客開放。MagentaMobil Prepaid 4 週 4.95 歐元起，含 1 GB 數據與 50 分鐘通話；往上依序為 8 GB 9.95 歐元、15 GB 14.95 歐元與 25 GB 19.95 歐元，最高到 4 週 99.95 歐元的無限方案。全部包含最高 300 Mbit/s 的 5G 與歐盟漫遊。
+
+**Telekom eSIM，一步一步：**
+
+1. 在 telekom.de 訂購 MagentaMobil Prepaid，選擇合適的方案，然後收到入門組合。
+2. 啟用實體 SIM，並透過 PostIdent 或 VideoIdent 以護照完成身分驗證。
+3. 透過 Telekom 客服申請 eSIM 轉換，客服會把設定檔簽發到你的手機。
+4. 沒有信用查核、沒有綁約期限，但 eSIM 這一步要經過客服，而不是一鍵式 App 安裝。
+
+Telekom 也在月租型 MagentaMobil 方案上直接販售 eSIM，如果你能通過地址與信用查核，這是最乾淨的 eSIM 路徑。
+
+### 在德國，本地 SIM 還是旅遊 eSIM？
+
+可以，而且 Vodafone 是三巨頭中最容易讓遊客購買的。CallYa 是它的預付品牌，提供完全線上訂購的免費 eSIM。
+
+**Vodafone CallYa eSIM，一步一步：**
+
+1. 到 vodafone.de，選擇附 eSIM 的 CallYa，輸入資料並挑選方案。
+2. 以電子郵件收到內含登入資料與啟用說明的訂單確認。
+3. 抵達德國後，到任何德國郵政（Deutsche Post）分行以 PostIdent 完成身分驗證，或在 App 中以 VideoIdent 完成。
+4. 以電子郵件收到 QR 碼或啟用連結，在你的 eSIM 設定中掃描，然後儲值。
+
+CallYa 方案按四週週期運行：CallYa Start 給 4.99 歐元 1 GB，CallYa Allnet Flat S 給 9.99 歐元 25 GB，CallYa Allnet Flat M 給 14.99 歐元 50 GB，CallYa Black 為 79.99 歐元無限，Jahrespaket M 則是每年 99.99 歐元 250 GB。全部包含歐盟漫遊。未完成身分驗證前 SIM 保持鎖定，所以把 PostIdent 那一步當作真正的關卡。
+
+### 德國 eSIM 套餐與定價
+
+由 Telefonica Germany 營運的 O2，直接透過其「Prepaid eSIM for Europe」方案販售預付 eSIM：4 週 20 GB 9.99 歐元，或 4 週 40 GB 14.99 歐元，含歐盟漫遊，速度最高 300 Mbit/s。高速額度用完後，O2 讓你以最高 1 Mbit/s 下載與 384 Kbit/s 上傳的速度保持在線上，而不是直接斷網。
+
+**O2 eSIM，一步一步：**
+
+1. 在 o2online.de 訂購 O2 預付 eSIM 並選擇方案。
+2. 註冊時在線上驗證護照，O2 支援外國護照，但部分非歐盟文件需要更長時間。
+3. 以電子郵件收到 QR 碼，出發前或抵達後安裝。
+4. 預付路線不需要德國地址，只需要身分查核。
+
+如果你想要 O2 的價格但只計畫待在市區，Aldi Talk 與 blau 轉售 O2 且價格更低，代價是上面描述的「先實體 SIM」的 eSIM 繞路。O2 本身是較簡單的 eSIM 路徑。
+
+### 給遊客的 Telekom eSIM 方案
+
+- **IMEI**：撥 `*#06#`
+- **EID**：同樣在 `*#06#` 畫面，這是 eSIM 自己的識別碼
+- **證件照片**：護照是德國身分驗證的標準文件
+- **德國地址或飯店地址**：部分業者路線與月租方案需要
+- **能在德國使用的卡片**：部分業者結帳會拒絕外國帳單地址
+- **Wi-Fi**：出發前安裝設定檔，不要在機場裝
+
+### 德國如何為你的預付 eSIM 驗證身分
+
+德國法律要求每一張預付 SIM 與 eSIM 都要驗證身分，這是讓最多遊客措手不及的國家特有規定。各種方法對外國護照的可靠度不同。
+
+| 方法 | 運作方式 | 外國護照？ |
+|:---|:---|:---|
+| 德國郵政的 PostIdent | 帶護照到任何郵局分行，工作人員親自驗證 | 可以，最可靠的選項 |
+| VideoIdent | 透過業者或 WebID App 的視訊通話 | 非歐盟護照常受限 |
+| eID | 歐盟或德國身分證的線上身分功能 | 僅限歐盟或德國身分證，不適用護照 |
+| 業者門市現場 | 帶護照到 Vodafone、O2 或 Telekom 門市 | 可以，但店員可能推銷更貴的方案 |
+
+如果走業者路線，把出發後的第一個早晨預留給 PostIdent；或者用旅遊 eSIM 完全跳過它。
+
+### 在其他國家使用你的德國 eSIM
+
+可以，而這正是德國真正的跨境加分項。因為德國在歐盟內，預付方案遵循 Roam Like At Home 規則，所以你的德國額度在公平使用限制內於整個歐盟都可用。
+
+| 業者 | 包含歐盟漫遊 | 注意事項 |
+|:---|:---|:---|
+| Telekom MagentaMobil | 有，歐盟與歐洲經濟區，較高檔次含瑞士與英國 | 瑞士與英國只在部分方案 |
+| Vodafone CallYa | 有，45 個歐盟國家 | 瑞士另外收費 |
+| O2 Prepaid | 有，歐盟、歐洲經濟區、挪威、冰島、列支敦斯登 | 不含瑞士 |
+| O2 上的 Aldi Talk | 有，歐盟 | 不含瑞士 |
+| Vodafone 上的 Lidl Connect | 有，歐盟與英國 | 查核公平使用的流量上限 |
+
+瑞士不在歐盟內，所以幾乎每個德國方案都把它列為獨立計費區。如果你的行程會進入瑞士，請為它專門規劃，而不是假設你的德國 eSIM 覆蓋它。
+
+## 德國的 eSIM 業者：Telekom、Vodafone 與 O2
+
+兩個問題決定這裡的選擇：每張網路在你的路線上表現如何，以及你進行的是什麼樣的旅程。下面的基準數據處理速度，行程表則處理哪張網路適合你。
+
+### Telekom 對 Vodafone：哪個德國業者更快？
+
+以下所有數字來自 Ookla 的德國 Speedtest Intelligence 數據，期間為 **2025 年 1 月至 6 月**（2025 上半年），國家層級測量，發布於 [Ookla 2025 上半年德國 Speedtest 連線報告](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)。
+
+| 指標 | Telekom | Vodafone | O2 |
+|:---|:---|:---|:---|
+| Speedtest Connectivity Score | **78.87**（最高） | 74.77 | 71.28 |
+| 速度分數 | **68.13**（最快） | 61.51 | 54.91 |
+| 一致性分數 | **93.5**（最佳） | 89.3 | 87 |
+| 5G 可用性 | 57.9% | 68.6% | **72.4%**（最高） |
+| 影片串流分數 | **81.68**（最佳） | 79.58 | 78.99 |
+| 遊戲分數 | **90.62**（最佳） | 88.31 | 87.24 |
+| 五星評級 | **3.99**（最高） | 2.89 | 3.15 |
+
+空白格表示 Ookla 未公布數值，而不是估計值。兩件值得注意的事：O2 在 5G 可用性上領先，意味著你掛在 5G 上的時間最多，但在原始速度上落後；而 Telekom 的勝利在一致性——樣本達到 5 Mbps 下載與 1 Mbps 上傳門檻的比例——這正是鄉間道路上要緊的那個指標。在同一份報告中，Telekom 被評為 2025 上半年德國的最佳行動網路與最佳 5G 網路。
+
+作為國家層級的背景，Cable.co.uk 對德國行動數據 1 GB 的定價約 2.14 美元，遠低於全球平均 2.59 美元；DataReportal 統計德國約有 7,890 萬網路使用者（滲透率 93.5%），以及約 1.08 億個行動連線。以歐洲標準而言，德國的網路成熟且平價，這就是旅遊 eSIM 能騎在堅實本地基礎設施上的原因。
+
+### 按行程類型選最佳德國 eSIM
+
+| 你的計畫 | 首選業者 | 為什麼是它 | 注意事項 |
+|:---|:---|:---|:---|
+| 柏林、慕尼黑、漢堡、法蘭克福城市小旅行 | Telekom | 市中心最快且最一致的網路 | 大型活動時擁塞 |
+| 自駕、巴伐利亞、黑森林 | Vodafone | 鄉村與高速公路覆蓋強勁 | 深谷中仍然零星 |
+| 預算型城市停留 | O2 | 最便宜，市區表現強 | 一離開城市就轉弱 |
+| 遊戲與視訊通話 | Telekom | 遊戲分數最高 90.62、影片 81.68 | O2 在兩項指標都落後 |
+| 跨境歐盟行程 | 任何含歐盟漫遊的方案 | 在整個歐盟使用、零額外費用 | 大多不含瑞士 |
+| 商務差旅 | Telekom 或 Vodafone | 城市與機場有可靠 5G | 魯爾區尖峰時段 O2 擁塞 |
+| 長期停留或留學 | O2 或 Aldi Talk | 月費低，真省錢 | 需要身分驗證 |
+
+### Telekom 對 Vodafone：覆蓋比較
+
+德國的覆蓋跟著人口走：城市地區密集而快速，次要道路與山區則快速稀薄。逐條路線的意義是：
+
+| 地區 | 實際情況 | 最佳業者 | 注意事項 |
+|:---|:---|:---|:---|
+| 柏林與東部 | 三家都有密集城市 5G，城市之間強勁 | Telekom | 亞歷山大廣場周邊與大型活動時擁塞 |
+| 慕尼黑與巴伐利亞 | 城市 5G 強勁，阿爾卑斯度假山谷較零星 | Telekom | O2 在巴伐利亞鄉間與阿爾卑斯快速變薄 |
+| 萊茵蘭、科隆、杜塞道夫 | 三家都有 5G，高速公路沿線維持 | Telekom | 魯爾都會區尖峰時段擁塞 |
+| 漢堡與北部海岸 | 城市可靠，沿海道路衰減 | Vodafone | 波羅的海路段與北海強風削弱訊號，O2 最弱 |
+| 黑森林與中部高地 | 覆蓋跟著聚落走 | Vodafone | 深谷沒有訊號，下載離線地圖 |
+| 德國鐵路 ICE 走廊 | 列車載有聚合所有網路的 WiFi，你自己的 eSIM 仍依賴軌道旁的基地台 | Telekom 或 Vodafone | O2 在鄉村鐵路上空白最大，隧道裡人人斷訊 |
+
+巴伐利亞鄉間與波羅的海海岸的空白是真實的：O2 特別容易在安靜的沿海道路與阿爾卑斯側谷掉訊，而 Telekom 與 Vodafone 撐得較好。在火車上，ICE 的 WiFi 藉由聚合所有網路掩蓋了空白，但一旦你在隧道或偏遠路段依賴自己的 eSIM，宿主網路就是全部。
+
+規劃會離開德國的路線？往西走，比較[法國 eSIM 方案](/france-esim/)；往比荷盧與阿爾卑斯方向，則看[荷蘭 eSIM 方案](/netherlands-esim/)與[奧地利 eSIM 方案](/austria-esim/)。如果你的行程多次跨越邊境，一張[歐洲 eSIM](/europe-esim/) 用一個設定檔涵蓋所有歐盟國家。
+
+自動業者切換正是在這裡發揮價值的部分。一個能在 Telekom、Vodafone 與 O2 之間移動的設定檔，涵蓋了任何單一業者方案都無法覆蓋的區域空白。
+
+## 手動輸入 APN
+
+APN 畫面是你最不該需要、但數據斷線時最值得先檢查的東西。下面是三張網路加上它們折扣品牌的值、真正需要手動輸入的時機，以及確切的選單路徑。
+
+### Telekom、Vodafone 與 O2 eSIM 的 APN 值
+
+只有當你直接向德國業者或其網路上的品牌購買 SIM 或 eSIM 時才需要這些。使用旅遊 eSIM 時，設定檔自帶 APN，所以那些欄位請保持原樣。
+
+| 業者或品牌 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| Telekom | `internet.t-mobile.de` | 留空 | 留空 |
+| Vodafone 與 Lidl Connect | `web.vodafone.de` | 留空 | 留空 |
+| O2、Aldi Talk、blau、otelo | `pinternet.interkom.de` | 留空 | 留空 |
+
+使用者名稱與密碼留空。對基於 O2 的門號，如果 `pinternet.interkom.de` 連不上，`internet` 是可用的後備值，但較長的那組字串才是目前的標準。如果業者要求額外的值，設定檔附帶的啟用說明會寫清楚。
+
+### 德國的業者 APN 設定
+
+- 一台不會自行拉取電信業者設定的舊手機
+- 一個以手動啟用代碼而非掃描 QR 碼加入的設定檔
+- 一張業者發的預付 eSIM，但自動配置從未完成
+- 在旅遊 eSIM 上這幾乎不是問題，這正是受管理設定檔的全部意義
+
+### 手動輸入德國 APN：時機與原因
+
+- **iPhone：** 打開設定，選行動服務，選 eSIM 門號，然後行動數據網路，輸入 APN
+- **Android：** 打開設定，到連線、行動網路、存取點名稱，新增一筆 APN
+
+儲存後，重新啟動手機。如果數據仍然沒有出現，先確認被選為行動數據門號的是 eSIM 而不是原 SIM，再去動其他設定。
+
+## 德國 eSIM：從安裝到第一格訊號
+
+這一節走一遍，就從乾淨安裝到可用的數據，並涵蓋德國網路真正會產生的故障模式，按你會遇到的順序。
+
+### 安裝德國 eSIM
+
+| # | 檢查項目 | 正常的樣子 |
+|:---|:---|:---|
+| 1 | 手機沒有電信鎖 | 關於本機中的電信鎖顯示「無 SIM 卡限制」 |
+| 2 | 手機支援 eSIM | `*#06#` 顯示 EID，或[相容性頁面](/compatibility/)確認你的機型 |
+| 3 | QR 碼與啟用代碼已保存 | 截圖存在手機與雲端兩處 |
+| 4 | 出發前已安裝設定檔 | 在家裡的 Wi-Fi 上安裝，設定檔在你落地時連線 |
+| 5 | 數據門號與漫遊已設定 | eSIM 被選為行動數據，數據漫遊開啟 |
+
+第 4 步在家裡做。法蘭克福與慕尼黑的入境大廳，Wi-Fi 恰恰在你最需要它時最擁塞，你在現場安裝的設定檔得和所有人的搶。
+
+### 德國 eSIM：從安裝到上線
+
+我們的[啟用指南](/faq/how-to-activate-an-esim/)涵蓋從加入 eSIM 到開啟漫遊的普通流程。依業者的差異在於：
+
+- **Telekom：** 預付 eSIM 在實體 SIM 啟用後透過客服簽發；月租 eSIM 在驗證後結帳時啟用
+- **Vodafone CallYa：** 免費 eSIM 線上訂購，抵達後以 PostIdent 驗證身分，QR 碼以電子郵件送達
+- **O2 Prepaid：** 直接的預付 eSIM，線上護照驗證，QR 碼以電子郵件送達
+- **Aldi Talk、Lidl Connect、Otelo：** 必須先訂購並啟用實體 SIM，再到入口轉換為 eSIM
+- **旅遊 eSIM：** 以 QR 碼安裝，同一個設定檔會漫遊到 Telekom、Vodafone 或 O2 中最強的一張
+
+### 德國 eSIM 故障：四個修法
+
+一般的啟用錯誤、裝不進去的設定檔、失敗的掃描、裝了卻永遠不註冊的 eSIM，已涵蓋於我們的[啟用錯誤疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)。下面四種故障模式是德國特有的。
+
+**A. eSIM 裝不進去**
+1. 確認電信鎖顯示「無 SIM 卡限制」
+2. 檢查 QR 碼是否清晰且尚未被掃描，因為大多數只能用一次
+3. 業者可以確認設定檔是否在驗證後等待簽發
+
+**B. 已安裝，但沒有訊號格**
+1. 再次檢查鎖定狀態
+2. 設定、行動服務、網路選擇，改為手動選擇 Telekom、Vodafone 或 O2，而不是自動
+3. 重置所有網路設定，然後再次重新開機
+
+**C. 有訊號格，但沒有網路**
+1. 對照上面的表檢查 APN
+2. 確認被選為數據門號的是 eSIM，不是原 SIM
+3. 檢查你是否已用完額度——O2 會限速到 1 Mbit/s 而不是直接停止，其他預付品牌則執行公平使用上限
+
+**D. 顯示「SOS」或「僅限緊急電話」**
+1. 確認 eSIM 在 SIM 管理員中已開啟
+2. 關閉或移除任何其他作用中的 SIM 或 eSIM 設定檔
+3. 重新開機並重置網路設定
+4. 最後手段：刪除設定檔，用一組新的 QR 碼重裝
+
+### 聯繫德國 eSIM 支援前要準備什麼
+
+| 我們會問什麼 | 去哪裡找 |
+|:---|:---|
+| 訂單或帳戶號碼 | 確認郵件 |
+| 手機型號與作業系統版本 | 設定、關於本機 |
+| EID | `*#06#` |
+| 錯誤的截圖 | 在畫面變化前截下來 |
+| 目前的 APN 設定 | 設定、行動數據網路 |
+| 數據漫遊狀態 | 設定、你的 eSIM 門號 |
+| 已經試過的步驟 | 保留一份簡短清單 |
+
+## 常見問題：德國 eSIM 與電信業者
+
+### 作為遊客，我可以直接向 Telekom 買預付 eSIM 嗎？
+
+技術上可以，但不是一鍵完成。Telekom 的預付 eSIM 要在你啟用一張實體 MagentaMobil Prepaid SIM 並完成身分驗證之後，透過客服簽發。Telekom 的月租型 MagentaMobil 方案在結帳時直接提供 eSIM，但那些需要德國地址與信用查核。對大多數遊客而言，預付路線才是現實的選項。
+
+### Vodafone 的 eSIM 需要德國地址嗎？
+
+CallYa 預付方面，訂購不需要固定地址，只需要一個聯絡點，但你必須完成身分驗證，通常是抵達後到郵局分行做 PostIdent。Vodafone 是三巨頭中最友善遊客的，因為 eSIM 本身免費且可線上訂購。如果你想要 Vodafone 網路但不要那一步，騎在 Vodafone 網路上的旅遊 eSIM 是替代方案。
+
+### 國際遊客可以買 O2 的 eSIM 嗎？
+
+可以。O2 透過其網站直接販售預付 eSIM，註冊過程中線上完成護照驗證。方案 4 週 20 GB 起價 9.99 歐元，含歐盟漫遊。對想要一張真正的德國 eSIM、卻不想經歷 Aldi Talk 與 Lidl Connect 強加的「先實體 SIM」繞路的遊客，O2 是好選擇。
+
+### 德國的業者陣容
+
+綜合證據來看，是 Vodafone。Telekom 在一致性與原始速度上領先，但 Vodafone 在高速公路與小城鎮握訊號更穩，而 O2 在城市之外最弱。如果你的行程離開主要都會區，偏向 Telekom 或 Vodafone，並且無論如何都為黑森林與阿爾卑斯山谷下載離線地圖。
+
+### 10 GB 在德國夠用嗎？
+
+O2 與它的折扣品牌。O2 自己的預付 eSIM 4 週 20 GB 起價 9.99 歐元，Aldi Talk 與 blau 以相似或更低的價格轉售 O2，Lidl Connect 則以約 8.99 歐元的四週組合起轉售 Vodafone。Telekom 最貴。按你的覆蓋需求選品牌，而不是買最便宜的、第二天就沒訊號。
+
+### 德國 eSIM 需要身分驗證嗎？
+
+要，無一例外。德國法律要求每一張預付 SIM 與 eSIM 都要驗證身分，所以門號生效前必須經過 PostIdent、VideoIdent、eID 或門市現場其中一種護照查核。這是與旅遊 eSIM 最大的單一差異——後者完全不需要德國驗證。
+
+### 裝置檢查：德國的 IMEI 與 EID
+
+手機必須解鎖且支援 eSIM。用 [eSIM 相容性頁面](/compatibility/)一次檢查兩項，它涵蓋 EID 支援與頻段問題，包括許多國際手機缺少的 n28 與 n78 5G 頻段。如果你想先看看設定過程中會發生什麼，讀一讀 [eSIM 啟用時發生了什麼](/faq/what-is-esim-activation-and-how-does-it-work/)。
+
+### 德國各地的漫遊定價
+
+可以。因為德國在歐盟內，預付方案遵循 Roam Like At Home，所以你的額度在公平使用限制內於整個歐盟都可用。陷阱是瑞士——它不在歐盟內，幾乎每家德國業者都另外收費——所以瑞士一日遊要專門規劃。
+
+### 你該選哪家德國業者：Telekom 對 Vodafone？
+
+直接購買意味著單一網路、業者簽發的配置，以及一次護照查核，交換的是真正的德國門號與國內無限通話。旅遊 eSIM 意味著即時交付、零文件、在 Telekom、Vodafone 與 O2 之間自動切換，以及固定的預付價格。短程旅行，用旅遊 eSIM。以月計的行程——或者本地門號要緊的話——直接向業者購買。
+
+### 像 Aldi Talk 這樣的平價品牌賣的是真正的預付 eSIM 嗎？
+
+它們在 O2 或 Vodafone 上賣預付方案，但對新客戶而言 eSIM 不是即時的。Aldi Talk、Lidl Connect 與 Otelo 要求你先訂購並啟用實體 SIM，再到帳戶入口轉換為 eSIM，而同樣的身分查核依然適用。它們便宜，但不無摩擦。
+
+### 哪些裝置在德國 eSIM 上有問題
+
+鎖在你的原電信業者手上，不是德國的，因為德國沒有強制解鎖法律。聯繫手機被鎖定的業者請求解鎖；已繳清的裝置數小時內就能解鎖，且不涉及任何德國費用。登機前，在設定、一般、關於本機、電信鎖檢查該狀態。
+
+### 在 Telekom、Vodafone 與 O2 上啟用
+
+按順序處理上面四種德國特有的模式——鎖定狀態、網路選擇、APN 與數據門號——然後是設定檔重裝；如果仍然失敗，[eSIM 問題解決指南](/faq/esim-activation-errors-troubleshooting-guide/)中更完整的錯誤目錄涵蓋其餘情況。聯繫支援之前，備妥你的 EID、訂單號碼與一張截圖。
+
+還有問題？[查看完整常見問題 →](/faq/)
+
+## 業者資料來源
+
+- **Ookla Speedtest Connectivity Report，德國 2025 上半年**：[按業者的報告](https://www.ookla.com/research/reports/germany-speedtest-connectivity-report-h1-2025)保存了這裡引用的每一項業者層級數字：Telekom 的 78.87 Connectivity Score、68.13 速度分數與最佳行動網路獎、Vodafone 的鄉村強勢數字，以及 O2 的 72.4% 5G 可用性。
+- **Ookla Speedtest Global Index**：[德國條目](https://www.speedtest.net/global-index/germany)承載上文使用的全國中位數速度與世界排名背景，每月更新。
+- **Cable.co.uk 全球數據定價**：[完整的國家表](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)確立了德國約每 GB 2.14 美元的平均價格。
+- **Bundesnetzagentur**：[聯邦網路監管機關](https://www.bundesnetzagentur.de/EN/Home/home_node.html)公布頻譜、執照與覆蓋規則，形塑德國 eSIM 能做什麼，包括身分驗證要求。
+- **DataReportal，Digital 2025 Germany**：[國家報告](https://datareportal.com/reports/digital-2025-germany)支撐約 7,890 萬網路使用者與 1.08 億行動連線的市場規模數字。
+- **業者頁面**：方案價格、交付方式與身分驗證步驟來自 [Telekom MagentaMobil Prepaid](https://www.telekom.de/)、[Vodafone CallYa](https://www.vodafone.de/freikarten/travel-germany-esim/) 與 [O2 Prepaid eSIM](https://www.o2online.de/mobilfunk/prepaid/sim-card-europe/)。
+
+以上全部都是第三方測量。你自己的結果會隨手機、你停留的頻段以及附近小區的負載而異。
+
+## 用一張德國 eSIM 跳過 PostIdent 排隊
+
+Roami 在 Telekom、Vodafone 與 O2 之間交接同一個設定檔，所以柏林地鐵月台與黑森林山谷，都由當下最強的網路服務。從[免費的德國試用 eSIM](/free-esim/) 開始，或在[購買你的德國 eSIM](/germany-esim/) 時，用優惠碼 **WEB20** 為付費方案折抵 20%。
+
+[取得德國 eSIM 方案](/germany-esim/)
+
+*新買家：首份方案 8 折*
+
+[試用免費的德國 eSIM](/free-esim/)

@@ -1,351 +1,493 @@
 ---
-title: "Couverture 5G pour Tunisie : un guide eSIM complet."
-description: "Roami vous aide à choisir entre Tunisie Telecom, Ooredoo et Orange Tunisie pour votre eSIM Tunisie. Comparez les débits 5G, la couverture et les tarifs pour votre voyage au Tunisie."
-date: "2026-06-17T06:04:16+00:00"
+title: "Quel opérateur eSIM choisir pour voyager en Tunisie ?"
 
-keywords: eSIM Tunisie, données prépayées, réseau 5G, Tunisie Telecom, Ooredoo, Orange
-  Tunisie, guide eSIM voyage
+description: "Roami compare Tunisie Telecom, Ooredoo et Orange pour une eSIM Tunisie : couverture, vitesse et prix, du littoral au grand sud."
+
+image: "img/esim/carriers/tunisia-esim-carrier-guide.jpg"
+
+date: "2026-09-23T01:30:02+00:00"
+
+keywords: eSIM Tunisie, opérateurs eSIM Tunisie, opérateurs mobiles Tunisie, données prépayées, réseau 5G, Tunisie Telecom, Ooredoo, Orange, eSIM voyage, Roami
+
 site_name: Roami
+
 brand_name: Roami
+
 breadcrumb_items:
+
 - name: Roami
+
   url: /
+
 - name: Guide eSIM Tunisie
+
   url: ''
-hero_badge: 🇹🇳 Guide actuel de l'eSIM de voyage Tunisie
-hero_subtitle_main: 'Tunisie eSIM: Activation instantanée sans temps d''attente'
-hero_subtitle_highlight: Couverture réseau 5G premium via Tunisie Telecom, Ooredoo
-  et Orange
-hero_description_line1: Avec une couverture réseau haut débit dans les grandes villes
-  et les sites touristiques, l'eSIM Tunisie vous maintient connecté de manière stable,
-  que vous soyez en road trip, en shopping ou au travail.
-hero_description_line2: Connectez-vous en quelques secondes et profitez d'une navigation
-  illimitée.
-hero_link_text: eSIM Tunisie
-hero_link_url: /tunisia-esim/
-tldr_summary: 'Une eSIM pour le monde entier : pas de coupures de connexion en travaillant
-  à l''étranger. Selon les données Speedtest Intelligence de la période juillet-décembre
-  2024, Tunisie Telecom domine le réseau fixe avec un score de connectivité global
-  de 52,79 et des vitesses médianes de téléchargement de 17,45 Mbps. Pour le mobile,
-  Ooredoo offre la meilleure expérience de jeu avec un score de 80,02, tandis que
-  Tunisie Telecom affiche la meilleure cohérence réseau (87,6 % des échantillons dépassant
-  5 Mbps en descendant). Avec Roami, vous accédez à ces réseaux sans engagement, activation
-  instantanée par QR code, idéal pour les voyageurs et nomades numériques en Tunisie.'
-sidebar_more_hint: Faites glisser pour voir plus
-sidebar_title: Tunisie eSIM Liens rapides
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Sélection rapide : Quel fournisseur d''eSIM Tunisie choisir ?'
-- href: '#operators'
-  text: Test des meilleurs opérateurs mobiles eSIM Tunisie
-- href: '#city-guide'
-  text: 'Guide des villes : La meilleure eSIM pour Tunisie'
-- href: '#before-buy'
-  text: Ce que vous devez savoir avant d'acheter une eSIM Tunisie
-- href: '#faq'
-  text: Questions fréquentes sur l'eSIM Tunisie
-- href: '#myths'
-  text: Mythes et faits sur l'eSIM Tunisie
-- href: '#data-sources'
-  text: Sources des données
-quick_picks_title: 'Sélection rapide : Quel fournisseur d''eSIM Tunisie devriez-vous
-  choisir ?'
-quick_picks_table_headers:
-- Votre style de voyage
-- Fournisseur recommandé
-- Performance du réseau
-quick_picks_note_prefix: 'Source des données : '
-quick_picks_note_carrier: '[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Nomades numériques
-  carrier: Tunisie Telecom
-  carrier_class: text-blue-600
-  reason: Meilleur réseau fixe et meilleure cohérence mobile (87,6 %). Idéal pour
-    le télétravail stable.
-- travel: Voyageurs urbains
-  carrier: Ooredoo
-  carrier_class: text-red-600
-  reason: Meilleure expérience de jeu mobile (score 80,02) et bonne couverture 4G/5G
-    dans les grandes villes.
-- travel: Explorateurs ruraux
-  carrier: Orange Tunisie
-  carrier_class: text-orange-600
-  reason: Bonne couverture dans les zones moins denses, complémentaire aux autres
-    opérateurs.
-cta_button_main_text: Voir l'eSIM de voyage Tunisie la plus économique
-cta_button_sub_text: Commutation automatique de réseau, supporte la comparaison automatique
-  des prix des données prépayées
-operator_labels:
-  best_for: 'Idéal pour :'
-  core_data: 'Données clés :'
-  connect_note_label: 'Note de connexion eSIM :'
-operators:
-- id: tunisie-telecom-esim
-  title: 'Test eSIM Tunisie Telecom : Meilleure couverture fixe et mobile cohérente'
-  best_for: Ce forfait est le meilleur choix absolu pour les utilisateurs recherchant
-    une connexion stable, que ce soit en fixe ou en mobile. Tunisie Telecom offre
-    la meilleure cohérence réseau mobile (87,6 %) et le réseau fixe le plus rapide.
-  core_data: '- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024),
-    Tunisie Telecom n''a pas été déclaré le plus rapide en mobile, mais il domine
-    le fixe.
 
-    - **Débit descendant médian (fixe)** : 17,45 Mbps
+hero_badge: "Un pays, deux voyages complètement différents"
 
-    - **Débit montant médian (fixe)** : 8,28 Mbps
+hero_subtitle_main: "Planifiez vos données autour de l'itinéraire, pas du comptoir d'aéroport"
 
-    - **Cohérence mobile** : 87,6 % des échantillons ≥ 5 Mbps descendant / 1 Mbps
-    montant
-
-    - **Score de connectivité global (fixe)** : 52,79'
-  arcep_note: Confirmé par l'autorité locale des télécommunications (INTT) et les
-    données Speedtest Intelligence de juillet-décembre 2024.
-  connect_note: L'activation se déroule sans problème via QR code. Aucune vérification
-    d'identité supplémentaire n'est requise pour les eSIM de voyage Roami.
-  user_scenarios: '- **Avenue Habib Bourguiba, Tunis** : En travaillant depuis un
-    café, le réseau fixe de Tunisie Telecom offre une latence faible et un débit stable
-    pour les visioconférences.
-
-    - **Médina de Tunis** : Même dans les ruelles étroites, la cohérence mobile garantit
-    une navigation fluide sans coupures.
-
-    - **Route entre Tunis et Sousse** : En déplacement, le réseau mobile reste fiable
-    pour le streaming et la navigation GPS.'
-  bg_color: bg-blue-50
-- id: ooredoo-esim
-  title: 'Test eSIM Ooredoo : Meilleure expérience de jeu mobile'
-  best_for: Ce forfait est le meilleur choix pour les joueurs mobiles et les utilisateurs
-    intensifs de données en déplacement. Ooredoo offre la meilleure expérience de
-    jeu avec un score de 80,02.
-  core_data: '- **Expérience de jeu mobile** : Score de 80,02 (meilleur de Tunisie)
-    selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024)
-
-    - **Débit mobile** : Aucun opérateur mobile le plus rapide n''a été déclaré, mais
-    Ooredoo est en tête pour la qualité de jeu.
-
-    - **Couverture** : Bonne couverture 4G/5G dans les zones urbaines et périurbaines.'
-  arcep_note: Données issues de Speedtest Intelligence (juillet-décembre 2024) et
-    confirmées par les rapports OpenSignal.
-  connect_note: L'activation de l'eSIM Ooredoo via Roami est instantanée. Profitez
-    de l'itinérance sans frais supplémentaires.
-  user_scenarios: '- **Port de La Goulette** : En attendant le ferry, jouez à des
-    jeux en ligne avec une latence minimale grâce au réseau Ooredoo.
-
-    - **Carthage** : Lors d''une visite des ruines, restez connecté pour partager
-    des photos et vidéos en temps réel.
-
-    - **Sousse** : Dans les stations balnéaires, le réseau Ooredoo supporte le streaming
-    HD sans mise en mémoire tampon.'
-  bg_color: bg-red-50
-- id: orange-tunisie-esim
-  title: 'Test eSIM Orange Tunisie : Bon équilibre pour les voyageurs'
-  best_for: Ce forfait est idéal pour les voyageurs qui visitent à la fois les grandes
-    villes et les zones rurales. Orange offre une couverture équilibrée et des performances
-    solides.
-  core_data: '- **Performance** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024),
-    Orange Tunisie n''est pas en tête dans les catégories spécifiques mais offre une
-    expérience globale satisfaisante.
-
-    - **Couverture** : Bonne présence dans les zones urbaines et rurales.
-
-    - **Débits** : Compétitifs, bien que légèrement inférieurs à Tunisie Telecom en
-    fixe.'
-  arcep_note: Données basées sur les rapports de l'INTT et les analyses de marché
-    de 2024.
-  connect_note: L'eSIM Orange Tunisie s'active en quelques minutes. Aucun enregistrement
-    de passeport n'est nécessaire pour les forfaits de voyage.
-  user_scenarios: '- **Djerba** : En explorant l''île, le réseau Orange assure une
-    connexion stable pour les appels et la navigation.
-
-    - **Tozeur** : Dans le désert, la couverture Orange permet de rester en contact
-    avec les proches.
-
-    - **Kairouan** : Lors de la visite de la grande mosquée, partagez votre expérience
-    sans interruption.'
-  bg_color: bg-orange-50
-cards_compatibility_title: Vérifiez la liste de compatibilité eSIM Tunisie
-cards_compatibility_desc: Vérifiez si votre téléphone prend en charge l'eSIM Tunisie
-  et les bandes 5G locales
-cards_free_title: Obtenez votre eSIM Tunisie gratuite
-cards_free_desc: eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans
-  frais d'itinérance
-cards_free_badge: GRATUIT
-cards_app_title: Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM
-cards_app_desc: 'Code promo : <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | Gestion eSIM en un clic'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Ce que vous devez savoir avant d'acheter une eSIM Tunisie
-before_buy_sections:
-- heading: 1. Bandes 5G/4G principales en Tunisie
-  content: Les opérateurs tunisiens utilisent principalement les bandes 4G LTE B3
-    (1800 MHz), B7 (2600 MHz) et B20 (800 MHz). Pour la 5G, les bandes n78 (3500 MHz)
-    et n1 (2100 MHz) sont déployées dans les grandes villes. Assurez-vous que votre
-    appareil prend en charge ces fréquences.
-- heading: 2. Exigence d'enregistrement d'identité (KYC)
-  content: Pour les cartes SIM locales, un enregistrement du passeport est obligatoire.
-    Cependant, avec une eSIM de voyage Roami, aucune vérification d'identité n'est
-    requise. Vous pouvez activer votre forfait immédiatement après l'achat.
-- heading: 3. Politique de limitation de débit (FUP)
-  content: Certains forfaits locaux appliquent une politique d'utilisation équitable
-    (FUP) après un certain volume de données. Les eSIM Roami offrent des forfaits
-    avec des limites claires, sans réduction de débit cachée.
-- heading: 4. Couverture dans les zones rurales
-  content: Tunisie Telecom offre la meilleure cohérence réseau (87,6 %), ce qui en
-    fait le choix le plus fiable pour les déplacements hors des grandes villes. Ooredoo
-    et Orange sont également performants mais peuvent avoir des zones d'ombre.
-- heading: 5. Itinérance et appels vocaux
-  content: Les eSIM de voyage Roami sont principalement dédiées aux données. Les appels
-    vocaux et SMS ne sont pas inclus. Utilisez des applications comme WhatsApp ou
-    Skype pour communiquer.
-city_guide_title: 'Guide des villes : La meilleure eSIM pour Tunisie'
-city_guide_desc: Découvrez quelle eSIM Tunisie est le meilleur choix pour votre ville
-  de destination, en fonction des performances réseau locales.
-city_table_headers:
-- Ville
-- Fournisseur eSIM recommandé
-- Raison / Caractéristiques
-city_recommendations:
-- city: Tunis
-  carriers: Tunisie Telecom
-  reason: Capitale avec la meilleure couverture fixe et mobile. Tunisie Telecom offre
-    le débit fixe le plus rapide (17,45 Mbps) et une cohérence mobile de 87,6 %. Idéal
-    pour les professionnels et les touristes.
-- city: Sousse
-  carriers: Ooredoo
-  reason: Station balnéaire très fréquentée. Ooredoo offre la meilleure expérience
-    de jeu mobile (score 80,02), parfait pour les activités de loisirs et le streaming
-    en bord de mer.
-- city: Sfax
-  carriers: Orange Tunisie
-  reason: Deuxième plus grande ville, avec un mélange de zones urbaines et industrielles.
-    Orange offre un bon équilibre entre performance et couverture, adapté aux voyageurs
-    d'affaires.
-- city: Djerba
-  carriers: Tunisie Telecom
-  reason: Île touristique majeure. Tunisie Telecom assure une connexion stable dans
-    les zones touristiques et les hôtels, avec une excellente cohérence réseau.
-- city: Zaghouan
-  carriers: Tunisie Telecom
-  reason: Région avec le meilleur débit fixe médian (13,46 Mbps) selon les données.
-    Tunisie Telecom est le choix optimal pour les résidents et les visiteurs cherchant
-    une connexion fiable.
-city_guide_tip: '💡 Astuce : Si vous utilisez l''eSIM multi-réseau de Roami, votre
-  téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection
-  manuelle requise.'
-scene_guide_title: 🎯 Choisissez la meilleure eSIM Tunisie selon votre scénario de
-  voyage
-scene_items:
-- icon: 🏛️
-  title: Découvreur de villes
-  text: Explorez les souks de Tunis et les ruines de Carthage avec une connexion 4G/5G
-    stable. Téléchargez des guides, partagez des photos et utilisez la navigation
-    GPS sans souci.
-- icon: 🏞️
-  title: Amoureux de la nature
-  text: Randonnez dans les montagnes de l'Atlas ou visitez le parc national de Boukornine.
-    La cohérence réseau de Tunisie Telecom (87,6 %) garantit une connexion même dans
-    les zones reculées.
-- icon: 🚗
-  title: Roadtrippeur
-  text: Parcourez la route côtière de Tunis à Sfax. Avec Ooredoo, profitez d'une expérience
-    de jeu et de streaming ininterrompue pendant les trajets.
-- icon: 🏖️
-  title: Vacancier à la plage
-  text: Détendez-vous sur les plages de Hammamet ou de Mahdia. Orange Tunisie offre
-    une couverture équilibrée pour rester connecté tout en profitant du soleil.
-scene_guide_footer: 💡 L'édition multi-réseau de l'eSIM Roami Tunisie détecte automatiquement
-  votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle
-  requise.
-faq_title: Questions fréquentes sur l'eSIM Tunisie
-faq_prefix: Q
-faq_suffix: ': '
-faq_more_link_text: Plus de questions ? Voir la FAQ complète →
-faq_more_link_url: /faq/
-faq:
-- q: La vitesse Internet en Tunisie est-elle affectée lorsque plusieurs appareils
-    sont connectés simultanément via le hotspot eSIM ?
-  a: Oui, le partage de connexion (hotspot) peut réduire la vitesse perçue, car la
-    bande passante est partagée entre les appareils. Avec un forfait eSIM Roami, vous
-    bénéficiez de données dédiées, mais le débit dépend du réseau local. Tunisie Telecom
-    offre le meilleur débit fixe (17,45 Mbps), ce qui est idéal pour le hotspot. Pour
-    une expérience optimale, limitez le nombre d'appareils connectés.
-- q: Une vérification d'identité (KYC) ou un enregistrement de passeport est-il requis
-    pour acheter et utiliser l'eSIM Tunisie ?
-  a: Non, pour les eSIM de voyage Roami, aucune vérification d'identité (KYC) ni enregistrement
-    de passeport n'est nécessaire. L'activation est instantanée après l'achat. Cependant,
-    les cartes SIM locales tunisiennes exigent un enregistrement du passeport conformément
-    à la réglementation nationale.
-- q: L'eSIM bascule-t-elle automatiquement vers le meilleur réseau lors d'un voyage
-    transfrontalier ou n'est-elle valable que pour Tunisie ?
-  a: L'eSIM Roami pour Tunisie est conçue pour une utilisation uniquement sur le réseau
-    tunisien. Elle ne bascule pas automatiquement vers d'autres réseaux en cas de
-    voyage transfrontalier. Pour une couverture multi-pays, Roami propose des forfaits
-    régionaux ou mondiaux. Vérifiez les détails de votre forfait avant de voyager.
-- q: L'eSIM Tunisie permet-elle d'appeler des numéros locaux ou de recevoir des SMS
-    ?
-  a: Non, les eSIM de voyage Roami sont des forfaits de données uniquement. Vous ne
-    pouvez pas passer d'appels vocaux ni recevoir de SMS sur le réseau local. Utilisez
-    des applications de messagerie (WhatsApp, Telegram) pour les appels et les messages.
-- q: Combien de temps après le paiement réussi faut-il pour recevoir le code QR de
-    l'eSIM Tunisie ?
-  a: Le code QR de l'eSIM Roami est généralement envoyé par e-mail dans les 5 à 10
-    minutes suivant le paiement réussi. Dans la plupart des cas, il est disponible
-    immédiatement. Si vous ne le recevez pas, vérifiez votre dossier de courriers
-    indésirables ou contactez le support client.
-myths_title: ⚠️ Mythes et faits courants sur l'eSIM Tunisie
-myth_label: '❌ Mythe : '
-truth_label: '✅ Fait : '
-myths:
-- myth: Tous les opérateurs tunisiens offrent la même vitesse 5G.
-  truth: Faux. Selon Speedtest Intelligence, Tunisie Telecom est le plus rapide en
-    fixe (17,45 Mbps descendant), tandis qu'Ooredoo excelle dans l'expérience de jeu
-    mobile (score 80,02). Les performances varient considérablement selon l'opérateur
-    et la localisation.
-- myth: Les eSIM sont plus lentes que les cartes SIM physiques.
-  truth: Faux. Les eSIM utilisent exactement les mêmes réseaux mobiles que les cartes
-    SIM physiques. La vitesse dépend de l'opérateur et de la couverture, pas du format
-    de la carte SIM.
-- myth: Il est impossible d'utiliser une eSIM en Tunisie sans enregistrement KYC.
-  truth: Faux. Les eSIM de voyage Roami ne nécessitent aucun enregistrement KYC. Seules
-    les cartes SIM locales achetées en boutique exigent un passeport.
-- myth: Le réseau mobile tunisien est trop lent pour le streaming vidéo.
-  truth: Faux. Avec Ooredoo, l'expérience de jeu mobile est notée 80,02, ce qui indique
-    une latence faible et un débit suffisant pour le streaming HD. Tunisie Telecom
-    offre également une cohérence de 87,6 %, garantissant une expérience fluide.
-- myth: Les forfaits eSIM sont toujours plus chers que les cartes SIM locales.
-  truth: Faux. Les eSIM Roami offrent des prix compétitifs et éliminent les frais
-    d'itinérance. De plus, vous évitez les tracas d'achat en boutique et l'enregistrement
-    de passeport.
-data_sources_title: Sources des données sur les réseaux mobiles Tunisie
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024)'
-  description: Analyse des performances des réseaux fixes et mobiles en Tunisie pour
-    la période juillet-décembre 2024. Données basées sur Speedtest Intelligence.
-- name: OpenSignal 2024
-  description: Rapport sur l'expérience mobile en Tunisie, incluant la couverture
-    4G/5G et les vitesses de téléchargement.
-- name: Autorité de régulation des télécommunications (INTT) 2024
-  description: Données officielles sur la couverture réseau et les obligations des
-    opérateurs en Tunisie.
-data_sources_footer: Toutes les données de performance réseau citées ci-dessus proviennent
-  de rapports tiers accessibles au public, notamment Speedtest Intelligence (Ookla),
-  OpenSignal et l'INTT. Les résultats peuvent varier en fonction de l'emplacement,
-  de l'appareil et de l'heure de la journée.
-data_sources_note: Les vitesses et la couverture réseau peuvent varier en fonction
-  de votre emplacement, de l'appareil utilisé et des conditions du réseau. Les données
-  présentées sont des médianes ou des scores moyens sur la période indiquée.
-cta_title: Obtenez votre eSIM Tunisie dès aujourd'hui
-cta_desc: Obtenez un accès immédiat au meilleur réseau tunisien sans frais d'itinérance.
-  Activation instantanée par QR code, compatible avec tous les appareils eSIM.
-cta_button_text: Acheter l'eSIM Tunisie maintenant
-cta_button_link: /tunisia-esim/
-cta_free_trial_note: Exclusif pour les nouveaux clients
-cta_free_trial_text: eSIM d'essai Tunisie gratuite
-cta_free_trial_link: /free-esim/
 ---
+
+
+
+
+
+
+Une eSIM Tunisie ne se choisit pas comme si le pays était une seule destination : la côte, la capitale et l'intérieur sud se comportent différemment, et ce guide les sépare honnêtement. La plupart des conseils de connectivité traitent la Tunisie comme une seule destination. Elle ne l'est pas. Imaginez le briefing qu'un ami connaisseur vous remettrait pour la Tunisie ; c'est cette page, sans le jargon.
+
+**Réponse rapide :** sur la côte, les trois réseaux nationaux se valent et servent bien votre eSIM ; vers le sud, c'est la portée qui décide — les tableaux ci-dessous tranchent les détails. Vous pouvez aussi essayer la configuration réseau Tunisie sans frais — l'[essai multi-réseau gratuit](/free-esim/) de Roami la couvre.
+
+Une semaine sur la côte — Tunis, Sidi Bou Said, Hammamet, Sousse, Djerba — est un voyage à données faciles et bien couvert où n'importe lequel des trois réseaux nationaux servira bien votre eSIM.
+
+Une semaine qui s'étire vers le sud-ouest — Tozeur, Kebili et les villes du sud — est un problème de routage, où savoir quel opérateur détient le signal de lisière compte.
+
+Ce guide est organisé comme vous voyagez réellement : itinéraire d'abord, puis les opérateurs, puis les comptoirs d'aéroport, puis la configuration.
+
+**En bref :** Sur la côte, les trois opérateurs — Ooredoo, Orange et l'étatisé Tunisie Telecom — livrent une expérience 4G solide, et Ookla n'a trouvé aucune différence de vitesse statistiquement significative entre eux au H2 2024.
+
+Tunisie Telecom a la meilleure constance (87,6 %), Ooredoo le meilleur score gaming et la seule pré-commande eSIM d'aéroport utilisable, et Orange détiendrait le signal de lisière le plus loin vers le sud.
+
+Acheter à l'aéroport de Tunis-Carthage fonctionne (kiosque Ooredoo à l'arrivée, paiement par carte, enregistrement au passeport obligatoire) ; les comptoirs de Monastir sont aléatoires.
+
+L'option à faible friction est une eSIM voyage installée à la maison : vérifiez votre téléphone sur le [vérificateur d'appareils eSIM](/compatibility/), essayez l'[essai gratuit](/free-esim/) d'abord, ou choisissez les [forfaits Tunisie de Roami](/tunisia-esim/) avant de voler.
+
+
+
+## Quelle eSIM Tunisie pour votre voyage ?
+
+Les voyageurs en Tunisie font dans leur écrasante majorité l'un des deux voyages types, et le calcul de connectivité diffère nettement entre eux.
+
+La semaine côtière est un circuit stations-et-médina le long de la Méditerranée — villes denses, couloirs d'autoroute, signal fiable partout où dort un touriste. La semaine sud part vers le sud-ouest depuis la côte, où les villes s'écartent et les réseaux grand public s'éclaircissent vite.
+
+### Où sont vendues les eSIM Tunisie ?
+
+Choisir une eSIM pour la Tunisie est facile sur la côte et décisif dans le sud, car les deux voyages récompensent l'inverse.
+
+- **Sur la côte**, chaque réseau fonctionne, donc la décision porte sur la durée et le prix du forfait plutôt que sur l'opérateur
+
+- **Dans le sud**, la décision porte sur la portée, et une eSIM qui peut basculer entre opérateurs vaut plus qu'un bundle moins cher
+
+- **Entre les deux**, les couloirs d'autoroute se comportent comme la côte, c'est pourquoi un voyageur côte-uniquement ne remarque jamais la différence
+
+Si vous décidez encore si votre téléphone supporte l'eSIM du tout, commencez par le [vérificateur de compatibilité des appareils](/compatibility/) et revenez ici avec un appareil confirmé.
+
+### Quel est le moyen le moins cher d'acheter des données en Tunisie ?
+
+L'erreur la plus commune est d'acheter un forfait de données dimensionné et choisi pour le mauvais voyage.
+
+Un visiteur côte qui achète le plus gros package gaspille de l'argent, car streaming, cartes et envois photos tiennent confortablement dans une petite allowance. Un conducteur dans le sud qui suppose une couverture constante court un risque de sécurité réel plutôt qu'une facture.
+
+Déterminez quel voyage vous faites avant de dépenser un dinar, et le reste de ce guide s'emboîte.
+
+## Quelle couverture sur la côte : Tunis, Sidi Bou Said et Djerba ?
+
+Le circuit nord classique va de Tunis à la côte et retour, et c'est le voyage que 80 % des visiteurs font.
+
+Dans la capitale, la médina, la Ville Nouvelle et la presqu'île de Carthage sont toutes densément couvertes.
+
+Plus au sud le long de l'autoroute, la ceinture de stations prend le relais.
+
+### Quelle couverture à Tunis, Sidi Bou Said et Carthage ?
+
+- **La médina** et l'Avenue Habib Bourguiba siègent dans la couverture la plus dense du pays
+
+- **Sidi Bou Said**, vingt minutes plus haut sur la route côtière, ne perd jamais le signal
+
+- **Carthage** et la ligne de tramway léger TGM sont couverts d'un bout à l'autre
+
+- **Les excursions d'une journée** à Dougga, Cap Bon et Kairouan continuent de fonctionner sur la même eSIM
+
+### Quelle couverture à Hammamet, Sousse, El Jem et Djerba ?
+
+Hammamet et Sousse sont des villes balnéaires où le Wi-Fi d'hôtel est médiocre au mieux, et votre propre eSIM est l'option fiable.
+
+Deux arrêts méritent mention spéciale.
+
+L'amphithéâtre romain d'El Jem siège dans une ville intérieure de taille moyenne entièrement couverte malgré sa position hors de la bande côtière principale.
+
+Et Djerba, l'île station du sud-est, est accessible par la chaussée à El Kantara ou par avion vers l'aéroport Djerba-Zarzis — les deux routes d'arrivée sont couvertes, et les zones de stations de l'île gardent une 4G forte toute l'année.
+
+Dimensionner l'eSIM pour la semaine côte est simple : 5 Go est confortable, 10 Go est généreux.
+
+Entre les villes, le couloir d'autoroute A1 reste connecté sur presque toute sa longueur — la navigation y reste guidée quasiment en continu.
+
+## Quelle couverture dans le sud : Tozeur, Douz et au-delà ?
+
+Au sud-ouest de Gafsa, la carte réseau change. Tozeur, la ville aux palmeraies sur le circuit sud, est une vraie ville à couverture complète.
+
+De là, les itinéraires se fragmentent : la chaussée vers Kebili, les vieux villages berbères autour de Tataouine et Medenine au sud-est, et la ville oasis de Douz.
+
+### Que valent les données à Tozeur, Douz et Kebili ?
+
+Voici la surprise utile enfouie dans les données régionales d'Ookla : les médianes mesurées dans les gouvernorats du sud profond ne sont pas mauvaises du tout.
+
+Tozeur a enregistré 30,51 Mbps, Medenine 29,26, Kebili 27,58 et Tataouine 25,91 — des chiffres respectables, car les mesures arrivent là où vivent les gens, sur les routes et dans les villes.
+
+Ce que les médianes ne peuvent pas vous dire, c'est que ces villes sont des îles.
+
+Entre elles — sur les longues routes rurales qui relient les villes du sud — il n'y a aucun signal d'aucune sorte, d'aucun opérateur, à aucun prix. Aucune eSIM ne change cela : la limitation est géographique, pas commerciale.
+
+### Que vaut le signal à Matmata et en excursion d'une journée ?
+
+Les lieux de tournage sont la raison pour laquelle beaucoup de visiteurs poussent si loin au sud, et ils siègent dans deux situations de connectivité différentes.
+
+- **Les palmeraies de Tozeur et la vieille ville**, accessibles par route, gardent le signal la plupart du temps
+
+- **Matmata et ses hôtels souterrains** siègent dans un village couvert
+
+- **Au-delà des dernières villes** commence la zone où la couverture s'arrête totalement
+
+- **Les opérateurs de tourisme** qui font des excursions du sud profond emportent des téléphones satellite pour les urgences — comptez sur les leurs, pas les vôtres
+
+La règle de la semaine : traitez chaque ville comme une île de connectivité, téléchargez tout le sud comme zone de carte hors ligne avant de quitter la côte, et traitez toute excursion au-delà d'une route balisée comme une activité totalement hors ligne.
+
+## Comment Ooredoo, Orange et Tunisie Telecom diffèrent pour un visiteur ?
+
+La Tunisie a trois opérateurs nationaux, et contrairement à la plupart des marchés de la région, la course de vitesse au sommet s'est terminée par une égalité. Dans le Speedtest Connectivity Report d'Ookla pour la Tunisie, H2 2024, il n'y avait pas de fournisseur mobile le plus rapide — aucune différence statistique entre les trois en vitesse de téléchargement ou expérience vidéo.
+
+| Opérateur | Propriété | Force ressort (H2 2024) | Caractère pour les voyageurs |
+
+|:---|:---|:---|:---|
+
+| Tunisie Telecom | Étatisé | Meilleure constance mobile : 87,6 % des échantillons au-dessus de 5/1 Mbps | Le choix fiabilité ; aussi le FAI fixe le plus rapide (17,45 Mbps médian) |
+
+| Ooredoo | Groupe qatari | Meilleure expérience de gaming mobile, Game Score 80,02 | Performance urbaine à faible latence ; processus de pré-commande eSIM le plus fort |
+
+| Orange Tunisie | Groupe français | Disponibilité large sur les grands couloirs | Détiendrait le signal de lisière le plus loin vers le désert sud |
+
+
+
+Les trois ont allumé la 5G commerciale en février 2025, faisant de la Tunisie l'un des marchés 5G les plus récents d'Afrique.
+
+La couverture est centrée sur les villes — Tunis par-dessus tout — donc planifiez autour d'une 4G solide et traitez la 5G comme un bonus, pas une base.
+
+### Ooredoo Tunisie est-elle la plus adaptée aux visiteurs ?
+
+Ooredoo est l'opérateur où un visiteur est le plus susceptible de se retrouver, et pas seulement à cause des chiffres.
+
+- **Ce qu'il offre** — le meilleur score de gaming mobile du marché à 80,02, ce qui reflète une faible latence et donc des appels vidéo plus fluides, plus le seul flux d'achat numérique orienté visiteur du pays
+
+- **Où il est le plus fort** — Tunis et la région capitale, où Ookla l'a nommé fournisseur le plus rapide, et les villes côtières qui portent la plupart du trafic touristique
+
+- **La faiblesse** — son atout est urbain et mené par la latence plutôt que géographique ; ce n'est pas l'opérateur qui détient le signal le plus longtemps aux franges du grand sud
+
+L'angle d'achat compte autant que le réseau.
+
+Ooredoo gère une pré-commande eSIM en ligne : vous demandez le profil sur son site, sélectionnez votre aéroport d'arrivée, complétez la vérification d'identité en ligne, et recevez un QR code par e-mail ou au retrait aéroport. Ça fonctionne, mais exige quelques jours de délai — ce n'est pas un correctif instantané sur la passerelle d'embarquement.
+
+### Orange Tunisie : la meilleure portée dans le sud ?
+
+L'atout d'Orange est le plus dur à mesurer et le plus facile à remarquer au mauvais endroit.
+
+- **Ce qu'il offre** — disponibilité large sur les grands couloirs, et une présence que les voyageurs rapportent constamment aux dernières villes avant le sud grand ouvert
+
+- **Où il est le plus fort** — la zone de transition entre la Tunisie habitée et le sud vide, où ses cellules tendent à tenir le plus longtemps
+
+- **La faiblesse** — ses propres produits eSIM visent les résidents via ses propres canaux, et il ne vend aucune version touristique sans rendez-vous aux aéroports
+
+Pour un voyage côte-uniquement, Orange est interchangeable avec les deux autres. Pour une route qui pousse vers Douz, Ksar Ghilane ou la frontière algérienne, un profil qui peut s'attacher à Orange vaut la peine d'être gardé dans la liste.
+
+### Tunisie Telecom : le leader de la constance ?
+
+L'opérateur étatique a gagné la seule métrique qui prédit comment un voyage se ressent réellement.
+
+- **Ce qu'il offre** — la meilleure constance mobile du pays, avec 87,6 pour cent des échantillons franchissant le seuil de 5 Mbps réception / 1 Mbps envoi, plus le haut débit fixe le plus rapide du marché
+
+- **Où il est le plus fort** — l'intérieur et les villes secondaires, et il était le fournisseur le plus rapide à travers huit gouvernorats dans le tableau régional d'Ookla
+
+- **La faiblesse** — son produit eSIM est bâti pour les résidents, donc un visiteur ne peut pas simplement acheter ; la route pratique vers son réseau est une eSIM voyage qui l'inclut
+
+Traitez ce chiffre de constance comme l'équivalent le plus proche que ce marché a d'une mesure « est-ce que ça marche partout », et il compte le plus hors des grandes villes.
+
+## Quel prix pour quel forfait eSIM en Tunisie ?
+
+Deux aéroports portent la plupart du trafic visiteur, et ils ne sont pas équivalents. Même là où les comptoirs fonctionnent, ils résolvent un problème que vous n'avez pas à avoir.
+
+- La photocopie de passeport, la file derrière le dernier vol charter, la question cash-ou-carte — tout disparaît quand l'eSIM est déjà installée avant le décollage
+
+- Une eSIM installée la veille au soir reste dormante jusqu'à ce qu'elle touche un réseau tunisien, donc une configuration hâtive ne coûte rien
+
+- La mécanique est couverte dans [comment un profil s'installe sur votre téléphone](/faq/what-is-esim-activation-and-how-does-it-work/), et les étapes d'installation dans [le mode d'emploi d'activation](/faq/how-to-activate-an-esim/)
+
+| | SIM prépayée locale | eSIM voyage |
+
+|:---|:---|:---|
+
+| Paperasse | Enregistrement au passeport, en personne, par loi | Vérifié en ligne à la caisse |
+
+| Où | Kiosque d'aéroport ou boutique opérateur | N'importe où, avant le départ |
+
+| Paiement | Espèces en dinars, ou carte au kiosque TUN | Votre méthode de paiement habituelle |
+
+| Réseau | Un opérateur, fixe | Sélection automatique à travers les trois |
+
+| Numéro local | Oui | Data uniquement ; gardez votre SIM d'origine pour les codes SMS |
+
+
+
+### Comment acheter une SIM aux arrivées de Tunis-Carthage ?
+
+**Tunis-Carthage (TUN)** est l'option fiable. Dans la zone d'arrivée près de la réclamation de bagages, Ooredoo opère un kiosque avec Orange immédiatement à côté, et une SIM touristique de base coûte environ 20 dinars.
+
+Apportez votre passeport physique — l'enregistrement contre lui est une exigence légale pour chaque SIM vendue en Tunisie, pas une formalité — et une carte de paiement, car les kiosques d'aéroport ne traitent généralement pas en espèces. Dix minutes, et vous avez une ligne locale fonctionnelle.
+
+### SIM aéroport Monastir : pourquoi le personnel suit l'horaire des vols ?
+
+**Monastir (MIR)**, la porte d'entrée charter pour la côte de Sousse, est moins fiable. Le personnel de comptoir suit les horaires de vols et la disponibilité du personnel, et les arrivées les jours calmes trouvent parfois personne.
+
+Si Monastir est votre point d'entrée, ayez un plan de secours : une boutique opérateur en ville plus tard le même jour, ou une eSIM voyage déjà installée dans l'avion.
+
+Une règle s'applique aux deux aéroports.
+
+N'achetez jamais à des vendeurs de rue informels — chaque SIM doit être enregistrée à un passeport, et les cartes non enregistrées sont déconnectées par le réseau, parfois en quelques jours.
+
+## Quels réseaux mobiles en Tunisie ?
+
+Rassemblez les chiffres nationaux et la Tunisie se profile comme un marché de milieu de gamme, en amélioration constante. Divisez-les par gouvernorat et quelques hypothèses sur les zones fortes et faibles sont réécrites.
+
+### Combien de Go pour un voyage Tunisie ?
+
+Le Speedtest Global Index plaçait le téléchargement mobile médian du pays à **50,79 Mbps** en août 2026, classé 80e dans le monde à 21 ms de latence. Le haut débit fixe mesurait 22,54 Mbps.
+
+| Métrique | Tunisie (août 2026) | Note |
+
+|:---|:---|:---|
+
+| Téléchargement mobile médian | 50,79 Mbps (80e) | Sous l'Europe de l'Ouest, bien au-dessus des traînards de la région |
+
+| Latence mobile médiane | 21 ms | Bon pour appels et gaming |
+
+| Téléchargement fixe médian | 22,54 Mbps | Le Wi-Fi d'hôtel est souvent pire que la ligne de données de votre eSIM |
+
+| Coût moyen du 1 Go | 1,28 USD (119e sur 237) | Moyenne mondiale : 2,59 USD |
+
+
+
+Pour un visiteur cela se traduit simplement : appels vidéo, streaming et navigation fonctionnent tous confortablement sur n'importe quelle eSIM que vous installez, et la 5G nationale n'est pas encore la réalité.
+
+Sur le prix, l'étude de Cable.co.uk place un gigaoctet de données tunisiennes à 1,28 USD — moins cher que la moyenne mondiale, bien que nettement au-dessus des voisins Maroc (0,63 USD) et Algérie (0,73 USD).
+
+Le rapport Digital 2025 : Tunisie de DataReportal compte 15,7 millions de connexions mobiles (128 pour cent de la population) et 10,5 millions d'internautes (84,9 pour cent de pénétration), avec des vitesses mobiles médianes de 26,56 Mbps début 2025.
+
+C'est un pays connecté ; la variabilité est géographique, pas infrastructurelle.
+
+### Quelles vitesses par gouvernorat, du nord au sud ?
+
+Le tableau régional d'Ookla pour le H2 2024 est inhabituellement détaillé — les 24 gouvernorats — et il réécrit quelques hypothèses :
+
+| Région | Téléchargement mobile médian | Constance | Fournisseur le plus rapide |
+
+|:---|:---|:---|:---|
+
+| Tunis | 35,4 Mbps | 90,1 % | Ooredoo |
+
+| La Manouba | 32,38 Mbps | 85 % | — |
+
+| Sfax | 31,43 Mbps | 91,1 % | — |
+
+| Tozeur (sud-ouest désertique) | 30,51 Mbps | 89,6 % | — |
+
+| Medenine (Porte du Sahara) | 29,26 Mbps | 84,4 % | Tunisie Telecom |
+
+| Kebili (Chott el Djerid) | 27,58 Mbps | 90,7 % | — |
+
+| Monastir | 23,52 Mbps | 85,4 % | Tunisie Telecom |
+
+| Sousse | 22,64 Mbps | 80,4 % | Tunisie Telecom |
+
+| Kasserine (ouest-centre) | 17,27 Mbps | 79,3 % | — |
+
+
+
+Lisez ce tableau comme « villes et routes », pas « territoire ».
+
+Tunisie Telecom était le fournisseur le plus rapide à travers huit gouvernorats et prend la couronne de constance nationalement ; Ooredoo a gagné la capitale elle-même.
+
+Les lignes frappantes sont celles du sud — Tozeur, Kebili, Medenine et Tataouine affichent toutes des médianes au-dessus de 25 Mbps, ce qui vous dit que les villes du sud et les autoroutes qui les relient sont correctement desservies. Les vraies zones mortes sont les espaces ruraux entre elles.
+
+La région mesurée la plus lente n'est pas le sud du tout mais Kasserine dans l'ouest-centre forestier, à 17,27 Mbps. Pour une route côte-plus-sud, une eSIM qui sélectionne les réseaux automatiquement obtient la constance de Tunisie Telecom dans l'intérieur et la performance capitale d'Ooredoo sans choisir entre les deux.
+
+Si votre route continue vers l'ouest, la même logique s'applique à [Algérie](/algeria-esim/). Plus largement dans le Maghreb, [Maroc](/morocco-esim/) et [Égypte](/egypt-esim/) sont couverts avec la même profondeur.
+
+## Quelles entrées APN par réseau en Tunisie ?
+
+Un nom de point d'accès est le réglage auquel personne ne pense jusqu'à ce qu'une ligne de données se taise. Voici ce qu'il contrôle, quand vous devez réellement le taper, et où siègent les menus sur chaque plateforme.
+
+### Que contrôle réellement l'APN (nom du point d'accès) ?
+
+L'APN est le label que votre téléphone passe au réseau pour que l'opérateur sache quelle passerelle doit porter votre trafic. C'est de l'information de routage plutôt qu'une identité, et sur une eSIM fonctionnelle il est totalement invisible.
+
+Le configurer mal et le symptôme est indéquivoque : barres de signal à l'écran, un enregistrement réseau actif, et zéro connectivité. Rien de visible ne vous dit que la passerelle est mal configurée, c'est pourquoi il appartient au haut de toute liste de dépannage.
+
+### APN Tunisie : quand taper les valeurs vous-même ?
+
+Comme un profil voyage porte sa configuration avec lui, rien en Tunisie n'exige normalement de taper les valeurs de point d'accès. Ooredoo, Orange et Tunisie Telecom poussent aussi les réglages automatiquement aux appareils compatibles.
+
+- La saisie manuelle est réservée aux appareils plus anciens appariés à une SIM achetée localement
+
+- Un forfait écrit dans le téléphone avec un code tapé plutôt qu'un scan QR peut en avoir besoin aussi
+
+- Un appareil réinitialisé d'usine, ou un forfait réinstallé après une erreur, peut perdre les valeurs
+
+N'inventez jamais les chaînes.
+
+L'e-mail d'installation de votre forfait, les pages de support de l'opérateur et toute paperasse de comptoir portent les valeurs, donc prenez-les de là et de nulle part ailleurs. Si un champ est déjà rempli, laissez-le.
+
+### APN Tunisie : l'essentiel à retenir
+
+Ouvrez Réglages, tapez Cellulaire, tapez la ligne Tunisie, puis Réseau de données cellulaires. Tapez la valeur dans le champ APN et laissez nom d'utilisateur et mot de passe vides sauf indication contraire.
+
+Enregistrez l'entrée et redémarrez pour que le téléphone relise la passerelle. Si rien ne s'améliore, vérifiez que la ligne éditée est celle qui gère les données mobiles.
+
+### Quelles eSIM Tunisie ont besoin d'un APN tapé ?
+
+Ouvrez Réglages, puis Connexions, puis Réseaux mobiles, puis Noms des points d'accès. Ajoutez une entrée, enregistrez-la, et sélectionnez-la pour que l'appareil cesse d'utiliser l'ancienne.
+
+Les libellés bougent entre fabricants — certaines versions classent l'écran sous Plus de réseaux, et d'autres le nomment « APN » carrément.
+
+Redémarrez ensuite et re-vérifiez la sélection de ligne de données.
+
+Si le profil s'installe mais refuse encore de se connecter, parcourez la [marche de dépannage](/faq/esim-activation-errors-troubleshooting-guide/) avant de tout racheter.
+
+## SIM locale ou eSIM voyage : quel coût en Tunisie ?
+
+Deux petites choses lissent un voyage tunisien : savoir ce qu'une ligne locale coûte réellement contre un forfait voyage, et savoir comment fonctionne le côté argent une fois sur place.
+
+### Combien coûte un Go de données en Tunisie ?
+
+Une SIM touristique de base à Tunis-Carthage tourne autour de 20 dinars, contre le prix fixe et connu d'avance d'une eSIM voyage — et les coûts cachés sont l'enregistrement au passeport, la file et le verrouillage mono-réseau.
+
+- **Une ligne locale** vous donne un numéro tunisien, un réseau, et un cycle de recharge que vous devez gérer en espèces
+
+- **Une eSIM voyage** vous donne un prix fixe connu d'avance, une sélection automatique de réseau et aucune visite de magasin
+
+- **Par gigaoctet**, la Tunisie siège à 1,28 USD contre une moyenne mondiale de 2,59 USD, donc aucune route n'est chère selon les standards internationaux
+
+- **La différence** est la commodité, pas le prix affiché, pour tout voyage de moins d'un mois
+
+Les recharges diffèrent aussi.
+
+Une eSIM voyage est renouvelée depuis le même compte ou appli que vous l'avez achetée, tandis qu'une ligne prépayée locale exige une carte de recharge ou une visite de kiosque.
+
+### Vos questions eSIM Tunisie, en bref
+
+Le dinar tunisien est une monnaie gérée que vous obtenez à l'intérieur du pays, et la vie quotidienne tourne bien plus sur les espèces que sur la carte. Les kiosques d'aéroport prennent les cartes, mais les recharges côté ville, les taxis et la plupart des cafés veulent des billets — gardez une réserve.
+
+La langue fonctionne de la même façon.
+
+Le français et l'arabe font tout tourner, et les menus opérateurs, formulaires d'enregistrement et signalétique de magasin supposent au moins l'un des deux. L'anglais est parlé dans les zones de stations et par le personnel plus jeune des villes, mais la traduction hors ligne vaut le coup pour tout ce qui est bureaucratique.
+
+## Comment installer votre eSIM Tunisie avant le vol ?
+
+Dix minutes à la maison vous achètent un atterrissage connecté. La séquence d'installation de votre eSIM est détaillée dans le [guide de configuration eSIM](/faq/how-to-activate-an-esim/), et la version courte est ci-dessous.
+
+### Comment configurer une eSIM Tunisie en dix minutes ?
+
+1. Confirmez que le téléphone est débloqué et prêt eSIM — une [recherche de compatibilité d'appareil](/compatibility/) tranche en un passage si vous doutez.
+
+2. Achetez le forfait eSIM ; le QR code arrive par e-mail immédiatement, prêt à écrire le profil sur la puce embarquée.
+
+3. Installez sur Wi-Fi, faites une capture du code quelque part hors-appareil, et étiquetez la ligne.
+
+4. Laissez la ligne désactivée jusqu'à l'atterrissage, puis activez-la, définissez-la comme ligne de données, et autorisez l'itinérance des données sur l'eSIM tunisienne uniquement.
+
+L'installation avant le départ compte plus ici que dans la plupart des destinations, car les deux principaux aéroports d'arrivée concentrent toute leur charge de vols dans des fenêtres étroites et le Wi-Fi du hall d'arrivée en souffre en conséquence.
+
+Le seul groupe qui ne devrait pas installer tôt : personne, vraiment — les eSIM restent dormantes jusqu'à ce qu'elles touchent un réseau local, donc une configuration de la veille ne coûte rien et sauve une file.
+
+### Comment garder votre numéro d'origine actif pendant le voyage ?
+
+Gardez votre ligne d'origine active pour les appels et les codes SMS bancaires, et pointez les données mobiles sur l'eSIM Tunisie. Deux réglages préviennent les erreurs classiques.
+
+- **Itinérance des données désactivée** sur votre SIM d'origine, pour qu'elle ne capte jamais le trafic de fond
+
+- **La ligne tunisienne sélectionnée** comme ligne de données dans les réglages SIM de votre téléphone
+
+- **Les codes de vérification** continuent d'arriver sur votre numéro d'origine, car la plupart des eSIM voyage sont data uniquement — ce qui est exactement ce que vous voulez
+
+### Que faire quand le profil eSIM ne se connecte pas ?
+
+Activez la ligne, confirmez qu'elle est la ligne de données sélectionnée, basculez l'itinérance des données, puis re-scannez les réseaux manuellement. Tunisie Telecom, Orange et Ooredoo apparaîtront tous dans la liste.
+
+Si ça échoue encore, les correctifs ordonnés siègent dans le [guide de dépannage d'activation](/faq/esim-activation-errors-troubleshooting-guide/). Le support peut émettre un profil frais si le vôtre est défectueux, donc ayez votre numéro de commande et une capture de l'erreur prêts.
+
+## Questions fréquentes sur les eSIM en Tunisie
+
+### Votre modèle est-il approuvé pour les eSIM Tunisie ?
+
+Presque certainement pas comme bloqueur. La 4G de Tunisie roule sur les bandes internationales communes — 1800 MHz (B3) et 2600 MHz (B7) en ville, 800 MHz (B20) pour la portée — que couvre virtuellement tout appareil international récent. Le déploiement 5G utilise 700 MHz et 3,5 GHz dans les zones urbaines.
+
+Tout téléphone sorti ces cinq dernières années pour le marché européen fonctionnera sur une eSIM tunisienne.
+
+### SIM locale ou eSIM voyage : que choisir en Tunisie ?
+
+Pour un court séjour, l'eSIM voyage : prix fixe connu d'avance, sélection automatique entre les trois réseaux, aucun comptoir. Si vous tenez à une ligne locale, Ooredoo gère une pré-commande en ligne : demandez le profil sur son site, choisissez votre aéroport d'arrivée, vérifiez votre identité, et récupérez le QR code par e-mail ou au retrait — laissez plusieurs jours. Orange et Tunisie Telecom visent leurs propres produits eSIM vers les résidents, et aucun n'offre de version touristique sans rendez-vous à l'aéroport.
+
+Pour une livraison instantanée, la route internationale voyage est plus simple.
+
+### Quels forfaits et prix eSIM en Tunisie ?
+
+Comptez environ 20 dinars pour une SIM touristique de base au kiosque d'aéroport, et 1,28 USD par Go en moyenne nationale contre 2,59 USD dans le monde — la Tunisie reste un marché abordable pour les données. Une eSIM voyage affiche un prix fixe connu d'avance, et les forfaits Tunisie de Roami sont dimensionnés par durée de séjour. À noter : ces forfaits sont data uniquement, les appels et codes SMS restant sur votre SIM d'origine.
+
+### Quelle eSIM Tunisie convient à votre voyage ?
+
+Côte-uniquement : 5 à 8 Go. Côte plus circuit sud : les mêmes 5 à 8 Go, car les jours du sud sont largement hors ligne — la contrainte là est les cartes, pas les mégaoctets, et votre allowance eSIM s'étire plus loin que vous ne l'attendez. Ajoutez de la marge si vous regardez des vidéos en streaming chaque soir ou activez le partage de connexion pour un ordinateur portable.
+
+### Quel réseau couvre le plus de Tunisie ?
+
+Tunisie Telecom, pour la couverture : meilleure constance nationale (87,6 %) et fournisseur le plus rapide dans huit gouvernorats, surtout l'intérieur et les villes secondaires. Orange tiendrait le signal le plus loin aux franges du sud ; une eSIM multi-réseau profite des deux sans avoir à choisir.
+
+Sur le salin lui-même et hors des routes pavées, supposez qu'il n'y a aucune couverture. Téléchargez des cartes hors ligne pour tout le sud-ouest avant de quitter Tozeur ou Douz.
+
+### Et si mon eSIM ne se connecte pas après l'atterrissage ?
+
+Activez la ligne, confirmez qu'elle est la ligne de données sélectionnée, basculez l'itinérance des données, puis re-scannez les réseaux manuellement. Si ça échoue encore, parcourez les correctifs ordonnés dans le guide de dépannage et contactez le support avec votre numéro de commande et une capture, pour qu'un profil de remplacement puisse être émis si l'original est défectueux.
+
+### Quels sont les réseaux mobiles de Tunisie ?
+
+Si votre forfait vous laisse choisir, traitez la portée comme priorité plutôt que la vitesse. Orange est l'opérateur que les voyageurs rapportent le plus souvent détenant le signal aux dernières villes avant le sud grand ouvert, et Tunisie Telecom est le leader de constance à travers les gouvernorats de l'intérieur. Sur une eSIM gérée vous ne choisissez pas du tout — elle s'attache au réseau le plus fort là où vous vous tenez.
+
+### Combien coûtent les données en Tunisie ?
+
+Environ 20 dinars pour une SIM touristique de base au kiosque Ooredoo dans la zone d'arrivée, avec Orange à côté.
+
+Apportez une carte de paiement, car les comptoirs d'aéroport ne prennent généralement pas les espèces, et apportez votre passeport physique, car l'enregistrement contre lui est obligatoire pour chaque SIM vendue dans le pays.
+
+### Avez-vous besoin d'un passeport pour acheter une SIM en Tunisie ?
+
+Oui, et depuis janvier 2025 les visiteurs européens ont besoin spécifiquement d'un passeport — les cartes d'identité nationales ne sont plus acceptées à la frontière. C'est pratique plutôt que agaçant, car le document dont vous avez besoin pour toute inscription SIM locale est celui que vous portez de toute façon.
+
+### Comment recharger une eSIM Tunisie ?
+
+Depuis le même compte ou la même appli que l'achat. Une eSIM voyage se renouvelle en quelques tapes, ce qui est la route la plus simple si vous bougez entre villes ; une ligne prépayée locale exige plutôt une carte de recharge ou une visite de kiosque, payée en dinars espèces.
+
+### Mon eSIM fonctionnera-t-elle à Djerba et dans les stations balnéaires ?
+
+Oui. Djerba est accessible par la chaussée El Kantara ou par avion vers l'aéroport Djerba-Zarzis, les deux routes sont couvertes, et les zones de stations de l'île gardent une 4G forte toute l'année.
+
+La même chose s'applique le long de la ceinture Hammamet et Sousse, où votre propre ligne de données est généralement plus fiable que le Wi-Fi d'hôtel.
+
+Plus de questions ? [Voir la FAQ complète →](/faq/)
+
+## D'où viennent les chiffres de ce guide ?
+
+- **Ookla Speedtest Connectivity Report — Tunisie H2 2024** — [le rapport pays](https://www.ookla.com/research/reports/tunisia-speedtest-connectivity-report-h2-2024) est la source des prix opérateurs, des scores de constance et gaming, et de chaque chiffre régional du tableau de couverture.
+
+- **Ookla Speedtest Global Index** — [l'entrée Tunisie](https://www.speedtest.net/global-index/tunisia) porte les médianes nationales d'août 2026 de 50,79 Mbps mobile et 22,54 Mbps fixe.
+
+- **Cable.co.uk prix mondiaux des données** — [le tableau des 237 marchés](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) tarife 1 Go de données tunisiennes à 1,28 USD contre le reste du monde.
+
+- **DataReportal / GSMA Intelligence** — [Digital 2025 : Tunisie](https://datareportal.com/reports/digital-2025-tunisia) soutient les chiffres de taille de marché et de vitesse début-2025 cités ci-dessus.
+
+- **GSMA Mobile Connectivity Index** — [le scorecard de couverture](https://www.mobileconnectivityindex.com/) note la Tunisie sur la couverture, l'abordabilité et l'adoption aux côtés de ses pairs régionaux. Deux sources, deux chiffres pour la Tunisie ? Nous notons l'écart plutôt que de choisir le plus favorable.
+
+Tous les chiffres sont des mesures tierces avec une date attachée. Couverture et vitesses bougent avec les mises à niveau réseau et la congestion, donc traitez-les comme un instantané bien sourcé plutôt qu'une garantie.
+
+## Peut-on tester une eSIM Tunisie gratuitement avant de choisir ?
+
+Que votre semaine soit médinas et plages ou salins et décors de film, la bonne approche est la même : installez votre eSIM avant de voler, atterrissez connecté, et laissez le profil choisir le plus fort de Ooredoo, Orange et Tunisie Telecom à mesure que vous avancez.
+
+[Essayez une eSIM d'essai gratuite](/free-esim/) sans rien payer d'avance, puis parcourez les [forfaits de données Tunisie](/tunisia-esim/) — dimensionnés par durée de voyage, livrés en secondes, et supportés nuit et jour.
+
+Une note de clôture de Roami : les voyageurs qui testent la couverture d'abord regrettent rarement. L'[eSIM d'essai](/free-esim/) reflète la configuration locale sur les réseaux locaux, et le code **WEB20** retranche 20 % d'un forfait Roami payant quand vous êtes prêt.

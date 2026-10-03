@@ -103,11 +103,6 @@ denmark:
   desc_html: "Główni dostawcy eSIM w Danii: TDC Net, Telenor, 3 Denmark. Różnice w prędkości i cenach – kliknij, aby zobaczyć."
   btn_text: "Operatorzy w Danii"
 
-dominican:
-  title: "Przewodnik po operatorach eSIM na Dominikanie"
-  desc_html: "Operatorzy na Dominikanie: Claro, Altice, Viva. Tabela porównawcza funkcji eSIM."
-  btn_text: "Operatorzy na Dominikanie"
-
 dominican-republic:
   title: "Przewodnik po operatorach eSIM w Republice Dominikańskiej"
   desc_html: "Główni operatorzy w Republice Dominikańskiej: Claro, Altice, Viva. Zasięg eSIM i obsługa hotspotu w skrócie."

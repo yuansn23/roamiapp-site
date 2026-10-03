@@ -1,288 +1,394 @@
 ---
-title: "想到愛爾蘭旅遊？eSIM 方案、5G 速度與價格全攻略。"
-description: "Roami 仔細評測了 3 Ireland、Vodafone 和 Eir 在愛爾蘭的 5G 效能表現，從市區到郊區的覆蓋狀況一一分析，幫您找到最適合愛爾蘭旅行的上網方案。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 愛爾蘭，預付數據，5G 網路，3 Ireland，Vodafone，Eir，Roami eSIM，愛爾蘭旅遊上網，Speedtest 數據"
-site_name: "Roami"
-brand_name: "Roami"
+title: "愛爾蘭 eSIM 該選哪家？Three、Vodafone、Eir 比較"
+description: "愛爾蘭 eSIM 要辦哪一家電信業者？Roami 針對實測網速、預付卡規定與 APN 設定，為短期停留的訪客比較 Three、Vodafone 與 Eir，從都柏林到莫赫懸崖與凱里環線逐段檢視覆蓋，幫你挑出愛爾蘭全程穩定的 eSIM，自駕更放心。"
+image: "img/esim/carriers/ireland-esim-carrier-guide.jpg"
+date: "2026-09-25T00:37:08+00:00"
+keywords: 愛爾蘭 eSIM 電信業者, 愛爾蘭 eSIM 業者, Three eSIM, Vodafone eSIM, Eir eSIM, 愛爾蘭 5G 覆蓋率, 愛爾蘭 eSIM APN, 愛爾蘭預付卡 eSIM, 愛爾蘭最佳 eSIM 電信業者, 愛爾蘭 travel eSIM, 北愛爾蘭漫遊
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "愛爾蘭 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇮🇪] 愛爾蘭 最新旅遊 eSIM 指南"
-hero_subtitle_main: "愛爾蘭 eSIM：無需等待，立即啟用"
-hero_subtitle_highlight: "3 Ireland 與 Eir 頂級 5G 覆蓋"
-hero_description_line1: "以 愛爾蘭 eSIM 取代傳統漫遊方案，節省通訊開支。相容多種裝置，滿足各類型旅客的上網需求。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "愛爾蘭 eSIM"
-hero_link_url: "/ireland-esim/"
-tldr_summary: "【無縫全球漫遊：經濟型 5G eSIM，多國通訊無障礙】\n\nRoami 的愛爾蘭 eSIM 讓您無需更換實體 SIM 卡，即可在抵達後立即連上 3 Ireland 的頂尖 5G 網路。根據 Ookla 2025 下半年報告，3 Ireland 的中位下載速度達 82.44 Mbps，5G 中位下載速度更高達 139.87 Mbps，為全愛爾蘭最快。無論您是在都柏林市中心、利默里克（中位行動下載 128.48 Mbps）或盧坎（中位固網下載 292.8 Mbps），Roami eSIM 都能提供穩定、高速的連線。結論：選擇 Roami 愛爾蘭 eSIM，就是選擇無縫、經濟且高效的全球漫遊體驗。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "愛爾蘭 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：愛爾蘭 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "愛爾蘭 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：愛爾蘭 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 愛爾蘭 eSIM 前須知"
-
-  - href: "#faq"
-    text: "愛爾蘭 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "愛爾蘭 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：愛爾蘭 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "3 Ireland"
-    carrier_class: "text-purple-600"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)，3 Ireland 在 2025 下半年擁有最佳整體行動網路與最佳 5G 網路，中位下載速度 82.44 Mbps，5G 中位下載 139.87 Mbps，最適合需要穩定高速連線的遠端工作者。"
-
-  - travel: "城市觀光客"
-    carrier: "Vodafone"
-    carrier_class: "text-red-600"
-    reason: "Vodafone 在 5G 下載速度排名第二（81.5 Mbps），且覆蓋廣泛，非常適合在都柏林、科克等主要城市打卡、導航與社群分享。"
-
-  - travel: "鄉村探險家"
-    carrier: "Eir"
-    carrier_class: "text-green-600"
-    reason: "Eir 擁有最佳的 5G 可用性（82.6%），並在固網遊戲體驗中奪冠，適合前往莫赫懸崖、康尼馬拉等偏遠地區仍希望保持連線的旅客。"
-
-  - travel: "遊戲玩家"
-    carrier: "3 Ireland"
-    carrier_class: "text-purple-600"
-    reason: "3 Ireland 在 2025 下半年提供最佳的 5G 遊戲體驗（5G Game Score 91.37），低延遲（36 ms）與高速下載確保流暢的連線遊戲。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 愛爾蘭 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "3-ireland-esim"
-    title: "3 Ireland eSIM 總覽：最快 5G 網路"
-    best_for: "此方案絕對是最佳選擇，適合追求極致下載速度與低延遲的用戶，尤其是重度串流、遊戲與大檔案傳輸者。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)，3 Ireland 的 5G 可用性為 82.6%。\n- **下載速度**：中位下載速度 82.44 Mbps，5G 中位下載速度 139.87 Mbps，為全愛爾蘭最快。\n- **上傳速度**：中位上傳速度 10.15 Mbps，5G 中位上傳速度 12.87 Mbps。\n- **延遲**：整體延遲 38 ms，5G 延遲 36 ms。\n- **遊戲體驗**：5G Game Score 91.37，為最佳 5G 遊戲體驗。\n- **一致性**：5G 一致性達 71.9%（下載 ≥25 Mbps，上傳 ≥3 Mbps）。"
-    arcep_note: "經愛爾蘭通訊監管機構 ComReg 確認，3 Ireland 為主要頻譜持有者之一，其 5G 網路使用 3.6 GHz 頻段，覆蓋持續擴張中。"
-    connect_note: "啟用過程順暢，Roami eSIM 支援即時 QR code 掃描啟用，無需實體 SIM 卡，抵達愛爾蘭後自動連線至 3 Ireland 網路。"
-    user_scenarios: "- **[都柏林聖殿酒吧區]**：在人群密集的酒吧與餐廳，3 Ireland 的高速網路讓您即時上傳 IG 限時動態、視訊通話不卡頓。\n- **[科克市郊自駕]**：沿著野性大西洋之路行駛，3 Ireland 的 5G 覆蓋讓導航與串流音樂不中斷。\n- **[高威大學城]**：學生與數位遊牧民族在校園內進行線上會議、雲端協作，享受低延遲與高下載速度。"
-    bg_color: "bg-purple-50"
-
-  - id: "vodafone-esim"
-    title: "Vodafone eSIM 總覽：穩定覆蓋與第二快 5G"
-    best_for: "此方案適合需要廣泛覆蓋與穩定連線的旅客，尤其是在城市與主要交通樞紐間移動。"
-    core_data: "- **5G 下載速度**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)，Vodafone 的 5G 中位下載速度為 81.5 Mbps，僅次於 3 Ireland。\n- **整體表現**：雖然未在主要指標奪冠，但 Vodafone 在 Speedtest Connectivity Score 中表現穩定，是可靠的備選。\n- **覆蓋**：Vodafone 在愛爾蘭擁有廣泛的 4G/5G 覆蓋，尤其在鄉村地區表現良好。"
-    arcep_note: "ComReg 資料顯示 Vodafone 持有 900 MHz、1800 MHz 及 3.6 GHz 頻段，確保城鄉覆蓋均衡。"
-    connect_note: "Roami eSIM 支援 Vodafone 網路，啟用簡單，掃描 QR code 後即可使用，適合不熟悉技術的旅客。"
-    user_scenarios: "- **[都柏林機場到市區]**：抵達後立即連線，使用 Uber、地圖導航與即時通訊，Vodafone 在機場與市區間提供無縫切換。\n- **[利默里克市中心]**：利默里克擁有全愛爾蘭最快的行動中位下載速度（128.48 Mbps），Vodafone 在此城市表現優異。\n- **[莫赫懸崖觀光]**：在熱門景點，Vodafone 的覆蓋讓您能即時分享懸崖美景，避免斷線。"
-    bg_color: "bg-red-50"
-
-  - id: "eir-esim"
-    title: "Eir eSIM 總覽：最佳 5G 可用性與固網遊戲體驗"
-    best_for: "此方案適合需要最廣泛 5G 覆蓋的用戶，以及對固網遊戲體驗有要求的家庭或數位遊牧民族。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)，Eir 的 5G 可用性為 82.6%，與 3 Ireland 並列最佳。\n- **遊戲體驗**：Eir Fibre 在 ISP 中擁有最佳遊戲體驗，適合使用固網寬頻的用戶。\n- **行動速度**：中位下載速度 52.85 Mbps，次於 3 Ireland，但覆蓋更廣。"
-    arcep_note: "ComReg 指出 Eir 在 5G 頻譜拍賣中取得 3.6 GHz 與 26 GHz 頻段，積極擴展 5G 覆蓋。"
-    connect_note: "Roami eSIM 可選用 Eir 網路，啟用後自動連接，適合需要穩定連線的長途旅行者。"
-    user_scenarios: "- **[盧坎郊區]**：盧坎擁有全愛爾蘭最快的固網中位下載速度（292.8 Mbps），Eir Fibre 在此表現最佳，適合需要高速寬頻的遠端工作者。\n- **[康尼馬拉國家公園]**：在偏遠地區，Eir 的高 5G 可用性確保您能保持基本連線，用於緊急通訊與簡單導航。\n- **[都柏林家庭住宿]**：若您入住配有 Eir Fibre 的 Airbnb，可享受最佳遊戲與串流體驗。"
-    bg_color: "bg-green-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 愛爾蘭 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 愛爾蘭 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 愛爾蘭 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 愛爾蘭 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 愛爾蘭主要 5G/4G 頻段與裝置相容性"
-    content: "愛爾蘭營運商使用的 5G 頻段包括 n78（3.6 GHz）、n1（2100 MHz）及 n28（700 MHz）。4G 則以 Band 3（1800 MHz）、Band 20（800 MHz）及 Band 1（2100 MHz）為主。購買 eSIM 前，請確認您的手機支援這些頻段，尤其是 n78 以獲得最佳 5G 體驗。多數 2020 年後上市的旗艦機型皆相容。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "愛爾蘭法規要求所有預付 SIM 卡（包括 eSIM）使用者進行實名認證（KYC）。啟用 Roami eSIM 時，您可能需要上傳護照或身分證件照片，並提供自拍照以完成驗證。此流程通常在幾分鐘內完成，請確保證件清晰且在有效期內。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "多數愛爾蘭 eSIM 方案設有公平使用政策，即使用「無限數據」方案，當月用量超過一定門檻（例如 20-50 GB）後，速度可能被降速至 1-2 Mbps。Roami 的方案通常標示明確，請在購買前仔細閱讀條款，避免超量後體驗下降。"
-
-  - heading: "4. eSIM 啟用與轉移注意事項"
-    content: "愛爾蘭 eSIM 通常透過 QR code 啟用，請在出發前掃描並安裝設定檔。注意：eSIM 設定檔一經安裝，更換手機時可能無法直接轉移，需重新購買或聯繫客服。建議將 QR code 截圖備份，以防遺失。"
-
-  - heading: "5. 網路覆蓋與速度差異"
-    content: "根據 Ookla 數據，3 Ireland 在速度上領先，但 Eir 在 5G 可用性上並列第一。城市如利默里克（行動下載 128.48 Mbps）與盧坎（固網下載 292.8 Mbps）表現突出，但偏遠地區如多尼戈爾郡可能僅有 4G 訊號。選擇 eSIM 時，請根據您的旅行路線權衡速度與覆蓋。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：愛爾蘭 最佳 eSIM"
-city_guide_desc: "了解哪款 愛爾蘭 eSIM 是您目的地的最佳選擇，根據當地網路效能與覆蓋特性推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "都柏林"
-    carriers: "3 Ireland"
-    reason: "首都擁有密集的 5G 基地台，3 Ireland 在此提供最快下載速度（中位 82.44 Mbps），適合商務旅客與觀光客進行視訊會議、串流與導航。"
-
-  - city: "利默里克"
-    carriers: "Vodafone"
-    reason: "利默里克錄得全愛爾蘭最快的行動中位下載速度 128.48 Mbps，Vodafone 在此城市表現穩定，適合需要高速上傳與下載的用戶。"
-
-  - city: "盧坎"
-    carriers: "Eir"
-    reason: "盧坎擁有最快的固網中位下載速度 292.8 Mbps，Eir Fibre 為最佳 ISP 選擇。若您入住當地使用 Eir 寬頻的住宿，搭配 Eir eSIM 可享一致體驗。"
-
-  - city: "科克"
-    carriers: "3 Ireland"
-    reason: "科克為愛爾蘭第二大城，3 Ireland 的 5G 覆蓋良好，中位下載速度領先，適合在英國市場、聖芬巴爾座堂等地打卡分享。"
-
-  - city: "高威"
-    carriers: "Eir"
-    reason: "高威是通往康尼馬拉的門戶，Eir 的高 5G 可用性（82.6%）確保您在市區與近郊都能保持連線，適合探索拉丁區與鹽山海灘。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 愛爾蘭 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在都柏林、科克等城市穿梭，您需要穩定且快速的網路來導航、查詢餐廳評價與即時分享。推薦 3 Ireland eSIM，其 5G 中位下載 139.87 Mbps 讓您秒傳照片與影片。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往莫赫懸崖、巨人堤道或康尼馬拉國家公園，網路覆蓋可能不穩定。選擇 Eir eSIM，其 5G 可用性最高（82.6%），在偏遠地區仍能維持基本連線，確保安全與導航。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "沿著野性大西洋之路或凱里環自駕，需要不間斷的導航與音樂串流。3 Ireland 的低延遲（36 ms）與高速下載確保 Google Maps 與 Spotify 流暢運作，即使在山區也表現可靠。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在威克洛海灘或因奇海灘享受陽光時，仍想保持連線。Vodafone 的廣泛覆蓋讓您在海岸線也能上傳限時動態，且其 5G 下載速度（81.5 Mbps）足以應付串流影片。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "愛爾蘭 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "愛爾蘭 不同地區與城市之間是否存在明顯的網速差異？"
-    a: "是的，根據 Ookla 2025 下半年數據，利默里克的行動中位下載速度高達 128.48 Mbps，而盧坎的固網中位下載速度更達 292.8 Mbps。相比之下，偏遠鄉村地區可能僅有 4G 訊號，速度降至 20-30 Mbps。因此，選擇 eSIM 時應考慮您的旅行路線，城市地區推薦 3 Ireland，鄉村則可選 Eir 以獲得較佳覆蓋。"
-
-  - q: "在 愛爾蘭 的地鐵、深谷或偏遠地區，eSIM 是否仍能收到網路訊號？"
-    a: "愛爾蘭地鐵系統（如都柏林 LUAS）多為地面或淺層地下，訊號通常良好。但在深谷（如凱里環某些路段）或極偏遠地區（如多尼戈爾郡），訊號可能中斷。Eir 的 5G 可用性最高（82.6%），在這些區域表現相對較佳。建議提前下載離線地圖，並準備備用通訊方式。"
-
-  - q: "我的 愛爾蘭 eSIM 方案的有效期與扣款從何時開始計算？"
-    a: "Roami eSIM 方案的有效期通常從您啟用（即連接至愛爾蘭本地網路）的那一刻開始計算。例如，一個 7 天方案將在啟用後連續 168 小時內有效。扣款則在購買時一次性完成，無隱藏費用。請務必在抵達愛爾蘭後再掃描 QR code 啟用，以免提前消耗天數。"
-
-  - q: "當多個裝置同時連接 愛爾蘭 eSIM 熱點時，網速是否會下降？"
-    a: "是的，當您將手機作為熱點分享給筆電、平板等其他裝置時，總頻寬會被分割。例如，若 3 Ireland 提供 82.44 Mbps 下載，兩台裝置同時使用時，每台可能僅獲得約 40 Mbps。此外，熱點分享會增加延遲。建議重度使用者（如視訊會議）直接使用手機網路，或為每個裝置單獨購買 eSIM 方案。"
-
-  - q: "更換手機時，如何將啟用中的 愛爾蘭 eSIM 設定檔轉移到新手機？"
-    a: "目前多數 eSIM（包括 Roami）不支援直接轉移設定檔。您需要在新手機上重新掃描原始 QR code 或聯繫客服取得新的啟用碼。部分營運商提供 eSIM 設定檔重新下載功能，但需在舊手機上先刪除設定檔。建議在更換手機前備份 QR code，並確保新手機已解鎖且相容。"
-
-# 迷思
-myths_title: "⚠️ 愛爾蘭 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "愛爾蘭所有營運商的 5G 速度都差不多。"
-    truth: "事實並非如此。根據 Ookla 2025 下半年數據，3 Ireland 的 5G 中位下載速度為 139.87 Mbps，而 Vodafone 為 81.5 Mbps，差距近 70%。選擇營運商會顯著影響您的上網體驗。"
-
-  - myth: "在愛爾蘭偏遠地區，所有 eSIM 都無法使用。"
-    truth: "雖然偏遠地區覆蓋較差，但 Eir 的 5G 可用性高達 82.6%，在康尼馬拉、莫赫懸崖等地仍能提供基本連線。選擇 Eir 為基礎的 eSIM 可大幅提升偏遠地區的可用性。"
-
-  - myth: "eSIM 比實體 SIM 卡更耗電。"
-    truth: "eSIM 與實體 SIM 卡的功耗差異極小，現代手機的電量管理已最佳化。實際耗電主要取決於訊號強度與使用情境，而非 SIM 卡類型。"
-
-  - myth: "無限數據方案真的沒有上限。"
-    truth: "多數無限數據方案設有公平使用政策（FUP），例如每月超過 30 GB 後可能降速至 1 Mbps。購買前請仔細閱讀條款，Roami 的方案會明確標示 FUP 門檻。"
-
-  - myth: "愛爾蘭的 5G 網路只在都柏林市中心可用。"
-    truth: "雖然都柏林 5G 覆蓋最密集，但根據 Ookla 數據，利默里克、科克、高威等城市也有良好 5G 覆蓋。Eir 與 3 Ireland 的 5G 可用性均超過 82%，顯示 5G 已擴展至主要城鎮。"
-
-# 數據來源
-data_sources_title: "愛爾蘭 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據基於數百萬次真實用戶測試，提供 2025 下半年愛爾蘭行動與固網效能分析，包括中位下載速度、5G 可用性與遊戲體驗評分。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的 2025 年愛爾蘭行動網路體驗報告，提供涵蓋、速度與應用體驗的獨立分析，作為交叉驗證的補充來源。"
-
-  - name: "ComReg（愛爾蘭通訊監管委員會）2025"
-    description: "ComReg 發布的年度通訊市場報告，包含頻譜分配、營運商市占率與覆蓋義務等官方數據，確保法規與技術資訊的準確性。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已盡力確保準確性。實際體驗可能因裝置、地點、時間與網路負載而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查閱最新覆蓋地圖，並選擇符合需求的 eSIM 方案。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 愛爾蘭 eSIM"
-cta_desc: "即時存取，無需等待。選擇 Roami 愛爾蘭 eSIM，享受 3 Ireland 最快 5G 網路，讓您的旅程暢連無阻。"
-cta_button_text: "立即購買 愛爾蘭 eSIM"
-cta_button_link: "/ireland-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "愛爾蘭 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 愛爾蘭 eSIM 指南
+  url: ''
+hero_badge: "該買哪家愛爾蘭電信業者？"
+hero_subtitle_main: "去掉行銷濾鏡的愛爾蘭網路"
 ---
+
+
+選擇愛爾蘭 eSIM 的關鍵在於你實際會開車走的路——本指南畫出三家網路各自在哪裡勝出。愛爾蘭的三家網路在不同指標、不同郡各擅勝場。在 Ookla 的 2025 下半年愛爾蘭報告中，Three 以 74.84 的 Speedtest Connectivity Score 榮膺最佳行動網路，Vodafone 以 83.5 拿下最高的一致性分數，Eir 則以 82.6% 領先 5G 可用率。請為你實際會開的路選擇，而不是為頭條獎項選擇。
+
+**快速解答：** 大多數在愛爾蘭的旅客用 Three 會最滿意；Vodafone 適合預算更緊、只走城市的人。從[相容性檢查器](/compatibility/)開始：這是愛爾蘭旅客最常跳過、事後付出代價的一步。
+
+手機支援與安裝原理優先——比較可以等這些搞清楚之後再說。[裝置相容性清單](/compatibility/)解答第一個問題，[eSIM 開通說明](/faq/what-is-esim-activation-and-how-does-it-work/)解答第二個——以下所有內容都聚焦在電信業者本身。
+
+**30 秒版本：** 留在都柏林、科克或高威？Three 是全國最快的網路，下載中位數 82.44 Mbps，5G 下載中位數 139.87 Mbps。大量追劇或打遊戲？Three 以遊戲分數 89.04 和影音 83.7 勝出。開車走狂野大西洋之路、康尼馬拉或多尼戈爾？Vodafone 和 Eir 在鄉村低頻段上延伸最遠，Eir 以 82.6% 領先 5G 可用率。想以訪客身分直接向愛爾蘭電信業者購買？三家都線上販售旅遊 eSIM，不需跑門市，而且與大多數國家不同，完全不需要身分證件。或者跳過所有手續：[免費多網路試用 eSIM](/free-esim/) 免費測試網路，優惠碼 **WEB20** 為[愛爾蘭預付卡 eSIM 方案](/ireland-esim/)省下 20%。
+
+## 你的 eSIM 能連上的愛爾蘭電信業者
+
+### Three 對決 Vodafone：在愛爾蘭哪個更好？
+
+| | Three | Vodafone | Eir |
+|:---|:---|:---|:---|
+| 給訪客的預付卡旅遊 eSIM | 有——Visit Ireland，即時 eSIM，但僅限愛爾蘭共和國 | 有——Data Unlimited 5G，即時 eSIM | 有——旅遊 eSIM，透過 IMEI 線上開通 |
+| Ookla 2025 下半年測得的最佳表現 | 整體連線最佳 74.84；速度分數最快 60.22 | 一致性最高 83.5；影音最強 83.47 | 5G 可用率最高 82.6；遊戲最佳 86.33 |
+| 最便宜的預付卡旅遊入門 | Visit Ireland：5GB、7 天、15 歐元 | Data Unlimited 5G：每 28 天 20 歐元 | 旅遊 eSIM：每 28 天 20 歐元吃到飽 |
+| 訪客取得的難易度 | ★★★——線上購買，不用門市、不用身分證件 | ★★★——線上購買，不用門市、不用身分證件 | ★★★——透過 IMEI 線上購買，不用門市、不用身分證件 |
+
+**請仔細閱讀這張表，因為它包含了本頁最有用的一個事實：** 三家全國性電信業者現在都販售訪客可在登機前線上購買的預付卡旅遊 eSIM，不用跑門市、不用護照。這很不尋常。在許多國家，遊客會被推向實體 SIM 或旅遊 eSIM，但在愛爾蘭，三家網路透過 App 化的 eSIM 直接爭取臨時上門的訪客。
+
+### 哪些平價品牌向訪客販售 eSIM
+
+愛爾蘭的平價品牌正是 eSIM 版圖有趣的地方，因為並非所有品牌都發行數位 SIM。
+
+| 品牌 | 隸屬網路 | 給訪客的 eSIM | 適合誰 | 價格 |
+|:---|:---|:---|:---|:---|
+| 48 | Three | 無——標準方案寄送實體 SIM | 想要便宜 Three 吃到飽數據的長期停留 | 每月自 10.99 歐元起 |
+| GoMo | Eir | 有——僅限 App，逐月計費 | 停留超過一個月、想要便宜 Eir 吃到飽 | 每月 12.99 歐元 |
+| Tesco Mobile | Three | 無——僅實體 SIM | 想要從 Tesco 取得 Three 門號 SIM 的消費者 | 15 歐元，12 個月合約 |
+| Lycamobile | Eir | 有——28 天預付，結帳時發行 eSIM | 想要便宜 Eir 通話與簡訊的通話族 | 每 28 天 12.99 歐元 |
+
+兩個提醒。第一，48 和 Tesco Mobile 是例外：兩者都走 Three 網路但寄送實體卡，所以沒有 SIM 卡槽的手機——例如美國版 iPhone 14 或更新的機型——無法使用。第二，GoMo 和 Lycamobile 是月租或 28 天產品，而不是七天旅遊通行證，所以更適合長期停留而非長週末。電信業者直營贏在長期性和真正的愛爾蘭號碼；平價品牌贏在同一批基站上的價格。
+
+### 可以向 Three 購買愛爾蘭 eSIM 嗎？
+
+| | 直接向愛爾蘭電信業者購買 | 走愛爾蘭網路的旅遊 eSIM |
+|:---|:---|:---|
+| 你需要什麼 | 一支相容且無鎖的手機；線上結帳用的卡或電子郵件 | 一支相容且無鎖的手機 |
+| 設定檔如何交付 | 儲值後的 eSIM 下載或 QR code | 結帳後立即送達的 QR code 或 App 安裝 |
+| 典型成本 | 預付卡旅遊方案 15 到 25 歐元 | 一次付清的單一價格，無 SIM 費 |
+| 網路存取 | 單一業者：Three、Vodafone 或 Eir | 在 Three、Vodafone 和 Eir 之間自動切換 |
+| 身分規定 | 無法律要求證件；販賣機和商店完全不查 | 完全不用證件 |
+| 最適合 | 停留超過一個月，或任何需要本地號碼的人 | 幾天到幾週的行程，以及任何想落地即上網的人 |
+
+對一般假期而言，算術指向一邊。本地預付卡方案以歐元按次儲值計費，並把你綁在一個網路上；旅遊 eSIM 以批發價購買數據，讓裝置在網路之間移動。電信業者直營贏在真正的愛爾蘭號碼和無限國內通話，而這只在你定居或長住愛爾蘭時才有意義。
+
+💡 多網路 eSIM 設定檔是實用的中間路線：[Roami 的愛爾蘭 eSIM](/ireland-esim/) 保留即時交付的便利，在 Three、Vodafone 和 Eir 之間自動切換，讓你在都柏林落在 Three、在康尼馬拉落在 Vodafone，而不必買兩次。
+
+## 能使用 eSIM 的手機
+
+三件事決定你的手機能不能在愛爾蘭電信業者上運作：它的頻段、鎖定狀態，以及一小份裝置特定怪癖清單。以下全部涵蓋。
+
+### 你的手機對愛爾蘭而言支援 eSIM 嗎？
+
+愛爾蘭電信業者的 4G 建立在特定頻段上，5G 則落在一段窄頻譜。鄉村骨幹是 800 MHz 的 Band 20，5G 另有 700 MHz 的 Band 28 作為較新的低頻支援。Vodafone 和 Eir 在次要和區域道路上投入了最重的 Band 20 建設，這正是它們比原始速度數字所暗示的更能抵達西部海岸的原因。城市和較大城鎮再以 1800 MHz 的 Band 3 和 2100 MHz 的 Band 1 補充容量，而 5G 幾乎完全落在 3500 MHz 的 n78 上——這個頻段的訊號很少能離開基站超過兩三公里。
+
+| 頻段 | 頻率 | 對你旅程的作用 |
+|:---|:---|:---|
+| Band 20 (LTE) | 800 MHz | 鄉村骨幹；讓訊號繞過海岸岬角、穿過西部山谷 |
+| Band 28 (5G) | 700 MHz | 較新的低頻 5G，在鄉間比 n78 延伸更遠 |
+| Band 3 (LTE) | 1800 MHz | 城市和城鎮容量 |
+| Band 1 (LTE) | 2100 MHz | 郊區走廊容量 |
+| Band 7 (LTE) | 2600 MHz | 額外的城市容量 |
+| n78 (5G) | 3500 MHz | 僅限城市的快速 5G；訊號很少到達基站 3 km 之外 |
+
+去愛爾蘭旅行沒有人需要研究頻段表。安全的做法是把你的確切型號、而不是商店標籤，對照 [eSIM 裝置檢查器](/compatibility/)核對。如果你想了解那個幕後握手的原理，[eSIM 開通時發生什麼](/faq/what-is-esim-activation-and-how-does-it-work/)中有完整說明，買之前可以先讀。
+
+### 你的手機在愛爾蘭能做 eSIM 嗎？
+
+鎖定的手機是愛爾蘭 eSIM 安裝直接失敗最常見的原因。愛爾蘭沒有加拿大或日本那類全國性鎖機規定，所以鎖定狀態完全取決於最初販售這支手機的電信業者。
+
+**路徑：** iPhone 上是 設定 -> 一般 -> 關於本機 -> 電信鎖定（Carrier Lock）。畫面顯示「無 SIM 卡限制（No SIM restrictions）」表示沒有任何阻礙。畫面顯示「SIM 已鎖定（SIM locked）」則會擋下所有第三方設定檔，直到解鎖為止。
+
+**怎麼解：** 只有原始賣方能解除鎖定，所以從那裡開始，而不是找當地商店。過合約期的手機通常在一天內解除且免費。之後再嘗試安裝你的 eSIM。
+
+如果你買的是二手手機，或來自美國或歐洲電信業者的手機，請預設它可能是鎖定的，並在登機前確認。
+
+### IMEI 與 EID：愛爾蘭需要什麼
+
+| 裝置 | 症狀 | 該怎麼做 |
+|:---|:---|:---|
+| 中國大陸版 iPhone 型號 | 完全沒有「加入 eSIM」選項，該市場的硬體已停用 | 無法修復；改用實體 SIM 或其他裝置 |
+| 電信客製版 Samsung | 設定中 eSIM 呈灰色 | 先請電信業者解鎖，再重新開機 |
+| 缺少 Band 20 的國際手機 | 城鎮裡很快，西部鄉間 LTE 掉線 | 預期行為；依賴 Vodafone 或 Eir，或改用多網路 eSIM |
+| 只用過 Vodafone 3G 的手機 | 失去服務，因為 Vodafone 在 2023 到 2024 年間關閉了 3G | 使用 4G 或 5G 裝置 |
+| 雙 SIM 使用者 | eSIM 已安裝但沒有數據 | 把 eSIM 設為行動數據所用的門號 |
+
+從這裡開始，變數來自你的裝置而不是 Three 或 Eir。在投入任何選擇之前，先對你的確切手機執行[手機相容性檢查器](/compatibility/)。
+
+## 本地電信業者：Three、Vodafone 與 Eir
+
+有四條路線，它們的差異更多在手續而不是價格：Three 的訪客 eSIM、Vodafone 和 Eir 的旅遊方案，以及走它們網路的平價品牌。每條路線，逐步說明：
+
+### 愛爾蘭 eSIM 在哪裡販售
+
+Three 是你要速度時的網路，而且它販售一款正是為此打造的訪客產品。其「Visit Ireland」eSIM 有兩種口味：5GB、7 天、15 歐元，或 25GB、28 天、25 歐元。兩者都線上即時開通，沒有實體 SIM、不用跑門市。
+
+**Three Visit Ireland，逐步操作：**
+
+1. 打開 Three Ireland 的遊客頁面，選擇 Visit Ireland eSIM 方案。
+2. 用卡或 PayPal 付款；沒有信用審查，也不需要愛爾蘭地址。
+3. 在相容裝置上，eSIM 會在設定過程中自動開通，無需 QR code。如果你的裝置不支援自動開通，Three 會寄來 QR code 供掃描。
+4. 儲值以啟用額度；方案從那一刻開始計算。
+
+一個容易絆倒人的限制：依 Three 自己的條款，Visit Ireland 額度只能在愛爾蘭共和國境內使用。如果你的行程跨入北愛爾蘭，這個方案在那裡不涵蓋你。對只走共和國的一般旅行，它非常出色；對環島行程，請閱讀下方北愛爾蘭章節。
+
+### 本地 SIM 對決旅遊 eSIM：愛爾蘭篇
+
+Vodafone 是愛爾蘭第一家支援 eSIM 的電信業者，其遊客路線很乾淨。「Data Unlimited 5G」預付卡方案提供吃到飽 5G 數據，外加 100 分鐘跨網通話和簡訊，每 28 天儲值 20 歐元，可在抵達前或抵達後以 eSIM 線上開通。
+
+**Vodafone 旅遊 eSIM，逐步操作：**
+
+1. 在 Vodafone Ireland 網站訂購 Pay as you Go 旅遊 eSIM。
+2. 完成設定 eSIM；相容手機自動開通，其他手機會收到 QR code。
+3. 落地後儲值 20 歐元以啟用方案。
+4. 新申辦的 My Vodafone 帳戶在註冊後還可獲得 10 歐元免費通話額度。
+
+Vodafone 在 Ookla 2025 下半年數據中以 83.5 繳出最高的一致性分數，所以它是穩定的選擇，但請注意它的 5G 可用率最低，僅 58.7%，意味著你花在 4G 上的時間比花在 Vodafone 5G 上的多。
+
+### 愛爾蘭 eSIM 數據方案與資費
+
+Eir 擁有自己的網路，並以 5G 覆蓋作為賣點，它販售一款直接的旅遊 eSIM：吃到飽 5G 數據加吃到飽通話簡訊，每 28 天 20 歐元，落地前以手機的 IMEI 線上開通。
+
+**Eir 旅遊 eSIM，逐步操作：**
+
+1. 在 Eir 網站或 App 選擇 Eir 旅遊 eSIM。
+2. 輸入你的 IMEI；設定檔會在出行前備妥。
+3. 在家的 Wi-Fi 上安裝 eSIM，抵達後它就會連線。
+4. 不用跑門市、不用身分證件、沒有合約。
+
+Eir 以 82.6% 領先 Ookla 2025 下半年的 5G 可用率，是三者中最高，這正是它即使速度分數 53.36 落後 Three，仍是強勁的鄉村和小城鎮選擇的原因。
+
+### Three 給訪客的 eSIM 方案
+
+- **IMEI** — 撥打 `*#06#`
+- **EID** — 同樣來自 `*#06#` 畫面；這是 eSIM 自身的識別碼
+- **能在愛爾蘭使用的卡** — 線上結帳接受國際卡和 PayPal
+- **一個電子郵件地址** — eSIM QR code 或開通連結會寄到那裡
+- **Wi-Fi** — 登機前安裝設定檔，不要在機場
+- **不需要護照** — 與大多數國家不同，愛爾蘭的預付卡 eSIM 購買不需任何身分證件
+
+方案與目前的層級見我們的[愛爾蘭 eSIM 頁面](/ireland-esim/)。出發前把設定檔裝好；它應該在你落地那一刻醒來。
+
+## 各電信業者的 eSIM 速度與覆蓋率如何比較？
+
+接下來的內容取決於兩件事：你所在地點的實測網路效能，以及你規劃的旅行類型。下方測量數據涵蓋前者；行程類型和地方表格涵蓋後者。
+
+### Three 對決 Vodafone：哪家愛爾蘭電信業者更快？
+
+以下所有數據來自 Ookla 為本指南提供的業者層級資料，出自愛爾蘭 Speedtest Connectivity Report，蒐集期為 2025 年 7 月至 12 月。完整報告見 [Ireland Speedtest Connectivity Report H2 2025](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)。
+
+| 指標 | Three | Vodafone | Eir |
+|:---|:---|:---|:---|
+| Speedtest Connectivity Score（最佳行動網路） | 74.84 | 69.26 | 71.27 |
+| Speed Score（最快行動網路） | 60.22 | 49.15 | 53.36 |
+| Consistency Score | 82.8 | 83.5 | 82.2 |
+| 5G 可用率 | 74.7% | 58.7% | 82.6% |
+| 影音串流分數 | 83.7 | 83.47 | 83.31 |
+| 遊戲分數（最佳行動遊戲） | 89.04 | 87.3 | 86.33 |
+| 5 星評分（最受好評） | 3.04 | 2.76 | 2.62 |
+
+在報告也公布中位數速度之處，情況與上表一致。Three 的全技術下載中位數為 82.44 Mbps，5G 下載中位數 139.87 Mbps，全技術上傳 10.15 Mbps、延遲 38 ms。Eir 的全技術下載中位數為 52.85 Mbps。Vodafone 的 5G 下載中位數為 81.5 Mbps。每個數字都來自同一份 Ookla 報告。
+
+兩件值得注意的事：Vodafone 在一致性上領先，卻在 5G 可用率上大幅落後，所以你得到穩定的 4G 體驗但待在 5G 上的時間更少；而 Eir 的勝利是 5G 觸達，這恰恰在你最不預期看到 5G 圖示的城鎮和較小聚落才有意義。
+
+### 每種旅程合適的愛爾蘭 eSIM
+
+| 你的計畫 | 首選業者 | 入選原因 | 注意 |
+|:---|:---|:---|:---|
+| 城市小旅行——都柏林、科克、高威 | Three | 下載中位數最快 82.44 Mbps，速度分數最佳 | 都柏林市中心尖峰時段壅塞 |
+| 鄉村西部——康尼馬拉、多尼戈爾、凱里 | Vodafone 或 Eir | Band 20 低頻觸達最佳；Eir 領先 5G 可用率 | 主要道路之外仍有真實缺口 |
+| 影音、串流、遊戲 | Three | 遊戲分數最佳 89.04、影音 83.7 | 上傳不是三者中最快的 |
+| 商務差旅與通話 | 任何業者直營 | 真正的愛爾蘭號碼和吃到飽通話 | 旅遊 eSIM 僅數據，無本地號碼 |
+| 環島——都柏林加貝爾法斯特 | 英國與愛爾蘭旅遊 eSIM | 一個方案涵蓋兩個司法管轄區 | 單一共和國方案在邊界就停了 |
+| 預算型長期停留 | Eir 上的 GoMo 或 Three 上的 48 | 便宜吃到飽，但 48 寄實體 SIM | 48 的標準方案沒有 eSIM |
+
+### Three 對決 Vodafone：覆蓋率比較
+
+愛爾蘭的覆蓋跟著人口走：城市和主要道路密集，偏遠的大西洋邊緣迅速變薄。狂野大西洋之路——從多尼戈爾到科克、長 2500 公里的沿海路線——是最清楚的例子，因為它串起了覆蓋良好的城鎮和西歐一些最敵視訊號的地形。
+
+| 區域 | 覆蓋現實 | 最佳業者 | 注意 |
+|:---|:---|:---|:---|
+| 都柏林與東部 | 密集 5G；M50 和 DART 線都有覆蓋 | 皆可，Three 最快 | 尖峰時段市中心壅塞 |
+| 科克與南部海岸 | 城市良好；沿海後路時好時壞 | Vodafone | 西科克半島訊號變薄 |
+| 高威與康尼馬拉 | 主幹 N59 有覆蓋；泥炭道路時斷時續 | Three 或 Vodafone | 康尼馬拉內陸有真實缺口 |
+| 狂野大西洋之路，多尼戈爾到科克 | 城鎮良好；偏遠沿海和山路變薄或沒有 | Three 或 Vodafone | 為整條路線下載離線地圖 |
+| Aran 群島 | 4G 尚可，三者中 Three 最強 | Three | 島嶼之間的渡輪航程失去訊號 |
+| 凱里半島——Dingle、Iveragh、Beara | 主幹道沒問題；像 Conor Pass 這類山口訊號劣化 | Vodafone | 山口會歸零 |
+
+偏遠路段正是這條路線的精髓，所以要為它們做準備。Vodafone 或 Three 上的設定檔涵蓋城鎮和較繁忙的路段；完整的離線地圖帶你穿過泥炭道路、海岸岬角和沒有任何網路能完全觸達的渡輪缺口。
+
+### 跨進北愛爾蘭後有什麼變化
+
+北愛爾蘭是英國的一部分，所以它使用英國的網路——EE、Vodafone UK、O2 和 Three UK——而不是愛爾蘭的。自英國脫歐後，歐盟「Roam Like at Home」規則不再涵蓋北愛爾蘭，這造成了旅客在島上面臨的最常見覆蓋困惑。
+
+| 你的方案 | 在北愛爾蘭可用嗎 | 須知 |
+|:---|:---|:---|
+| Three Visit Ireland 旅遊 eSIM | 否——僅限愛爾蘭共和國 | Three 自己的條款把額度限定在共和國境內 |
+| Three Ireland 預付卡 | 部分可用——約每 MB 0.14 分，除非你買日漫遊通行證 | 邊界基站常把你交給英國網路 |
+| Vodafone Ireland 預付卡 | 通常可以——本國數據額度適用於英國 | 在你的具體方案上確認 |
+| Eir 預付卡 | 可以——在英國 Roam Like Home，額度用完後約每 100MB 每天 1.99 歐元 | 依賴它之前先確認 |
+| 英國與愛爾蘭旅遊 eSIM | 可以——一個方案涵蓋邊界兩側 | 環島行程最乾淨的選擇 |
+
+大多數愛爾蘭業者在主要方案上自願維持共和國到北愛爾蘭的免費漫遊，但像 Three Visit Ireland 這樣的預付卡旅遊方案明確僅限共和國，且 Three 預付卡在英國若無漫遊通行證會按 MB 計費。對都柏林加貝爾法斯特的行程，乾淨的答案是把你兩個司法管轄區視為一體的區域方案，這樣你的手機永遠不會察覺那道開放邊界。一個值得了解的在地慣例：從共和國撥打到北愛爾蘭市話，可以加撥 048 前綴以按國內費率計費。
+
+規劃會離開愛爾蘭的路線？從 [eSIM for the United Kingdom](/united-kingdom-esim/) 開始，或者如果你的行程跨越多國，比較 [Europe eSIM](/europe-esim/)。
+
+只有當網路選擇保持在自動時，這一切才能乾淨地運作。能在 Three、Vodafone 和 Eir 之間移動的設定檔，涵蓋任何單一業者方案都無法涵蓋的地方與邊界缺口。
+
+## 愛爾蘭電信業者的 eSIM 使用哪些 APN 設定
+
+APN 值很少需要動，也正因如此，當數據停止運作時它們反而被忽略。以下是各愛爾蘭網路的設定，供無法避免手動輸入時使用，外加確切的選單路徑。
+
+### Three、Vodafone 與 Eir eSIM 的 APN 值
+
+只有當你直接向愛爾蘭電信業者購買 SIM 或 eSIM 時才需要這些。旅遊 eSIM 的 APN 已預載，所以忍住不要去編輯它。
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| Three Ireland | `internet` | 留空 | 留空 |
+| Vodafone Ireland | `internet` | 留空 | 留空 |
+| Eir | `data.myeirmobile.ie` | 留空 | 留空 |
+
+使用者名稱和密碼保持空白。Eir 的值取自 Eir 自己的支援頁面；Three 和 Vodafone 使用其設定檔通常會自動載入的愛爾蘭標準預設值。如果業者要求不同的值，隨設定檔附上的開通說明會註明。
+
+### 愛爾蘭電信業者的 APN 設定
+
+- 一部不會自行接收電信設定的較舊手機
+- 一個以手動開通代碼而非 QR 掃描安裝的設定檔
+- 一張自動配置沒有執行的電信發行預付卡 eSIM
+- 旅遊 eSIM 上幾乎永遠不用——這正是託管設定檔的意義所在
+
+### 手動 APN：愛爾蘭什麼時候需要
+
+- **iPhone：** 設定 → 行動網路（Cellular），選擇 eSIM 門號 → 行動數據網路 → 輸入 APN
+- **Android：** 設定 → 連接 → 行動網路 → 存取點名稱 → 新增一條 APN
+
+儲存後重啟手機。如果什麼都載不出來，先確認被選為數據門號的是 eSIM 而不是你平常的 SIM。
+
+## 如何開通你的 eSIM 並修復問題
+
+把這個章節走一遍，你就能從乾淨安裝走到可用連線，並涵蓋愛爾蘭網路實際會產生的故障模式，按你會遇到的順序排列。
+
+### 對愛爾蘭 eSIM 而言有問題的手機
+
+| # | 檢查 | 「良好」的樣子 |
+|:---|:---|:---|
+| 1 | 手機沒有電信鎖定 | 關於本機畫面列出 Carrier Lock：「無 SIM 卡限制」 |
+| 2 | 手機支援 eSIM | `*#06#` 顯示 EID，或[相容性頁面](/compatibility/)確認你的型號 |
+| 3 | QR code 與開通代碼已保存 | 截圖存在手機和雲端儲存中 |
+| 4 | 設定檔在出發前安裝 | 在家的 Wi-Fi 上安裝；設定檔在你落地時連線 |
+| 5 | 數據門號與漫遊已設定 | eSIM 被選為行動數據，數據漫遊已開啟 |
+
+第 4 步在家裡做。都柏林機場和入境大廳的 Wi-Fi 恰恰在你最需要時最壅塞，而你在現場安裝的設定檔還得和所有人的設定檔搶頻寬。
+
+### 愛爾蘭 eSIM 的安裝流程
+
+從新增 eSIM 到開啟漫遊的每一次點按，都在[開通教學指南](/faq/how-to-activate-an-esim/)中展示。因業者而異的部分：
+
+- **Three：** Visit Ireland eSIM 在相容裝置上自動開通，其他裝置透過寄送的 QR code；儲值以開始計算額度
+- **Vodafone：** 旅遊 eSIM 在結帳後發行、安裝即開通；儲值 20 歐元啟動方案
+- **Eir：** 旅遊 eSIM 以你的 IMEI 備妥，抵達時開通
+- **平價品牌：** GoMo 和 Lycamobile 在其 App 內或以電子郵件發行 eSIM；48 和 Tesco Mobile 則寄送實體 SIM
+- **旅遊 eSIM：** 以 QR code 安裝，同一個設定檔漫遊到 Three、Vodafone 或 Eir 中最強的那個
+
+### 愛爾蘭 eSIM 失效的四種修法
+
+一般開通錯誤、無法下載的設定檔、掃描失敗、裝了卻永遠不註冊的 eSIM，都收錄在我們的 [eSIM 開通錯誤指南](/faq/esim-activation-errors-troubleshooting-guide/)。愛爾蘭有自己的四種模式，列在下面。
+
+**A. eSIM 無法安裝**
+1. 打開 關於本機 設定，確認 Carrier Lock 顯示「無 SIM 卡限制」
+2. 保護 QR code 避免刮傷和重複掃描，因為大多數是一次性使用後失效
+3. 一通電話給業者，就能確認設定檔是否還在待處理狀態
+
+**B. 已安裝，但沒有訊號格**
+1. 重新檢查鎖定狀態
+2. 設定 → 行動網路（Cellular）→ 網路選擇 → 手動選擇 Three、Vodafone 或 Eir，而非自動
+3. 重置網路設定並重新開機
+
+**C. 有訊號格，但沒有網路**
+1. 儲存前逐欄對照上表
+2. 再次確認持有數據門號角色的是 eSIM，而不是你日常的 SIM
+3. 檢查你是否用完了額度；部分吃到飽方案在公平使用上限後會降速
+
+**D. 跨進北愛爾蘭後失去服務**
+1. 如果你在僅限共和國的旅遊方案上，例如 Three Visit Ireland，這是預期行為；改用英國與愛爾蘭方案或本地英國 eSIM
+2. 如果你在 Vodafone 或 Eir 預付卡上，確認漫遊已啟用且方案包含英國使用
+3. 在旅遊 eSIM 上，確認方案的地區涵蓋英國，而不只是共和國
+4. 萬不得已，移除設定檔並用全新的 QR code 重新安裝
+
+### 在愛爾蘭聯絡客服前要備妥什麼
+
+| 基本資料 | 在哪裡找 |
+|:---|:---|
+| 訂單或帳號號碼 | 確認郵件 |
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+| EID | `*#06#` |
+| 錯誤截圖 | 在畫面變化之前截取 |
+| 目前的 APN 設定 | 設定 → 行動數據網路 |
+| 數據漫遊狀態 | 設定 → 行動網路（Cellular）→ 你的 eSIM 門號 |
+| 已嘗試過的步驟 | 保持一份簡短清單 |
+
+## 旅客最常問的愛爾蘭 eSIM 問題
+
+### 訪客可以從 Three Ireland 購買預付卡 eSIM 嗎？
+
+可以，而且是三者中最簡單的。Three 的 Visit Ireland eSIM 提供 5GB、7 天、15 歐元，或 25GB、28 天、25 歐元，線上即時開通，沒有實體 SIM、不用跑門市、不用身分證件。唯一的限制是額度僅限愛爾蘭共和國，所以它不涵蓋北愛爾蘭。
+
+### Vodafone Ireland 有販售旅遊 eSIM 嗎？
+
+有。Vodafone 的 Data Unlimited 5G 預付卡方案提供吃到飽 5G 數據，外加 100 分鐘跨網通話和簡訊，每 28 天儲值 20 歐元，可在你抵達前或抵達後以 eSIM 線上開通。Vodafone 是愛爾蘭第一家支援 eSIM 的電信業者，並在 Ookla 2025 下半年數據中繳出最高的一致性分數，所以在原始 5G 速度不如可靠連線重要的地方，它是穩定的選擇。
+
+### 短期造訪選 Eir 的 eSIM 好嗎？
+
+對短期造訪而言，如果你的路線離開城市，Eir 是強勁的選擇。它以 82.6% 領先 Ookla 2025 下半年的 5G 可用率，是三者中最高，其旅遊 eSIM 提供吃到飽 5G 數據和吃到飽通話簡訊，每 28 天 20 歐元，以你的 IMEI 線上開通。它的速度分數 53.36 落後 Three，所以都柏林市中心在 Three 上會感覺更快，但小城鎮和西部偏向 Eir 的觸達。
+
+### 哪個平價品牌對旅客的 eSIM 最好？
+
+在平價品牌中，GoMo 和 Lycamobile 都發行 eSIM，而 48 和 Tesco Mobile 只寄實體 SIM。GoMo 是 Eir 的 App 專屬品牌，每月 12.99 歐元吃到飽數據，最適合停留超過一個月；Lycamobile 走 Eir 網路，每 28 天 12.99 歐元，適合想要便宜通話的通話族。如果你的手機沒有 SIM 卡槽，避開 48 和 Tesco Mobile，改用 GoMo、Lycamobile 或旅遊 eSIM。
+
+### 護照影本在愛爾蘭可以用嗎？
+
+不行。與德國、日本或許多其他國家不同，愛爾蘭沒有強制的 SIM 登記制度，所以你可以從販賣機、超市或 App 購買預付卡 SIM 或 eSIM，完全不需要身分證件。部分門市基於自家政策可能會在店內開通時要求有照片的證件，線上結帳要一張卡和一個電子郵件，但法律並不要求。說每家業者都要護照的旅遊部落格，描述的是其他國家，不是愛爾蘭。
+
+### 我的愛爾蘭 eSIM 在北愛爾蘭能用嗎？
+
+取決於方案。北愛爾蘭使用英國網路，且自英國脫歐後歐盟漫遊規則不再涵蓋它。Three 的 Visit Ireland 旅遊 eSIM 明確僅限共和國，所以在邊界就停了；Vodafone 和 Eir 預付卡方案通常包含英國使用，但請查閱條款；而英國與愛爾蘭旅遊 eSIM 用一個方案涵蓋兩側。對都柏林加貝爾法斯特的行程，區域方案是乾淨的選擇。
+
+### 愛爾蘭：業者陣容
+
+Vodafone 和 Three 在西部沿岸延伸最遠，因為兩者都在承載訊號繞過海岸岬角、穿過山谷的 Band 20 低頻上投入巨大。Eir 憑藉其傳統回程網路在凱里和西科克很強。沒有任何網路能完全覆蓋偏遠路段，所以把 Vodafone 或 Three 的 eSIM 與離線地圖搭配，而不是在泥炭道路和山口上信任即時訊號。
+
+### 在愛爾蘭哪個網路最好？
+
+Aran 群島有尚可的 4G，三者中 Three 最強，但它們與本島之間的渡輪航程會失去訊號，較小的島嶼在離開村莊後也會變薄。康尼馬拉的問題是它的覆蓋性泥炭地和花崗岩：基站沿 N59 相距很遠，所以一旦你轉上單線的沿海環路，訊號就會衰減或消失。出發前下載離線地圖，因為那些缺口中的導航依賴它們。
+
+### 我如何確認我的手機支援愛爾蘭 eSIM？
+
+用 [eSIM 相容性頁面](/compatibility/)一次確認鎖定狀態和 eSIM 支援，它涵蓋 EID 支援以及鄉村觸達的 Band 20 問題。如果你想先了解安裝原理，請讀 [eSIM 設定檔如何安裝](/faq/what-is-esim-activation-and-how-does-it-work/)。大多數 iPhone XS 及更新、Pixel 3 及更新、Galaxy S20 及更新的手機都符合資格。
+
+### 如果我的愛爾蘭 eSIM 連不上怎麼辦？
+
+依序處理上述愛爾蘭特有的模式：鎖定狀態、網路選擇、APN 和數據門號，然後是北愛爾蘭檢查；如果仍然失敗，[開通錯誤疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)中更完整的錯誤目錄涵蓋其餘部分。附上 EID、訂單號碼和錯誤截圖，客服回覆會更快。
+
+### 你該選哪家愛爾蘭電信業者：Three 對決 Vodafone？
+
+可以。走在愛爾蘭網路上的優質旅遊 eSIM 會連接到 Three、Vodafone 或 Eir 中在你所在位置最強的那個，並隨你移動而在它們之間切換，這正是狂野大西洋之路上你想要的，因為沒有任何單一業者能覆蓋每一段。直營電信 eSIM 一生都停在一個網路上。
+
+### 什麼是 eSIM，它在你的手機裡如何運作？
+
+在底層，eSIM 是固定在手機內部的一顆晶片，可以容納多個電信設定檔，取代一張實體卡。實務上，網路端交付一個設定檔，手機把它存在內部晶片上，門號就像任何其他門號一樣運作。完整鏈條——包括 SM-DP+ 伺服器以及 QR code 掃一次就失效的原因——見 [eSIM 開通原理](/faq/what-is-esim-activation-and-how-does-it-work/)。
+
+還有其他問題？[查看完整 FAQ →](/faq/)
+
+## 愛爾蘭 eSIM 比較所依據的文件
+
+- **Ookla Speedtest Connectivity Report——愛爾蘭，2025 年 7 月至 12 月** — [分業者報告](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)支持這裡的每一個業者層級數據：Three 的 74.84 連線分數和 60.22 速度分數、Vodafone 的 83.5 一致性、Eir 的 82.6 5G 可用率，以及 Three 的 82.44 Mbps 和 Eir 的 52.85 Mbps 中位數下載速度。
+- **Ookla Speedtest Global Index** — [愛爾蘭條目](https://www.speedtest.net/global-index/ireland)載有全國行動下載中位數和世界排名，每月更新。
+- **Commission for Communications Regulation (ComReg)** — [官方電信監管機構](https://www.comreg.ie/)發布了愛爾蘭頻段規劃和鄉村低頻解釋所引用的頻譜分配與覆蓋地圖。
+- **Cable.co.uk 全球數據定價** — [完整國家表格](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)載有愛爾蘭每 GB 價格，約 1.50 美元，排名屬歐洲較便宜的市場之一。
+- **Three Ireland、Vodafone Ireland 與 Eir** — [Three 的 eSIM 頁面](https://www.three.ie/esim.html)、Vodafone 的旅遊 eSIM 頁面和 Eir 的支援頁面，是上述方案價格、交付方式與免證件購買規則的依據。
+
+僅第三方測量。請預期因手機型號、所用頻段和當地基站繁忙程度而異。
+
+## 每 GB 定價
+
+在離開前把設定檔裝好，它會在落地時醒來，隨你的路線在 Three、Vodafone 和 Eir 之間移動。新客戶可以先領取[愛爾蘭免費試用](/free-esim/)，或用優惠碼 **WEB20** 以 20% 優惠購買[愛爾蘭 eSIM 方案](/ireland-esim/)。
+
+[立即購買你的愛爾蘭 eSIM](/ireland-esim/)
+
+*新客戶限時優惠*
+
+[免費試用愛爾蘭](/free-esim/)
+
+來自 Roami 的結語：先測試覆蓋再說的旅客，很少會後悔。[領取測試 eSIM](/free-esim/) 在 Three 上模擬本地配置，而優惠碼 **WEB20** 會在你準備好時為付費 Roami 方案省下 20%。

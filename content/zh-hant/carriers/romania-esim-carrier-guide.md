@@ -1,274 +1,372 @@
 ---
-title: "去羅馬尼亞出差上網方案怎麼選？eSIM 比較完整指南。"
-description: "Roami 整理了羅馬尼亞兩大電信 Orange 和 DIGI 的 eSIM 方案，從 5G 覆蓋範圍、上網速度和方案價格全面分析，幫助您找到最適合羅馬尼亞旅遊的 eSIM。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 羅馬尼亞，預付數據，5G 網路，Orange，DIGI，Roami，旅遊上網"
-site_name: "Roami"
-brand_name: "Roami"
+title: "羅馬尼亞 eSIM 該選哪家？Orange、DIGI 性價比比較"
+description: "羅馬尼亞 eSIM 要辦哪一家電信商？Orange 與 DIGI 為當地立下性價比標竿。Roami 就網速、覆蓋率與資費比較兩者，從布加勒斯特到特蘭西瓦尼亞的公路旅行路線逐段實測，整理預付方案與 APN，幫你選對羅馬尼亞 eSIM，公路旅行更順。"
+image: "img/esim/carriers/romania-esim-carrier-guide.jpg"
+date: "2026-09-24T13:46:25+00:00"
+keywords: eSIM 羅馬尼亞, 羅馬尼亞 eSIM 電信商, Orange 羅馬尼亞, DIGI 羅馬尼亞, Vodafone 羅馬尼亞, 預付卡流量, 5G 網路, 羅馬尼亞行動上網
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "羅馬尼亞 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "🇷🇴 羅馬尼亞 最新旅遊 eSIM 指南"
-hero_subtitle_main: "羅馬尼亞 eSIM：實體 SIM 卡的簡易替代方案"
-hero_subtitle_highlight: "Orange 與 DIGI 頂級 5G 覆蓋"
-hero_description_line1: "憑藉在主要城市與旅遊區的高速覆蓋，羅馬尼亞 eSIM 確保您在購物、工作或觀光時都能穩定連線。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "羅馬尼亞 eSIM"
-hero_link_url: "/romania-esim/"
-tldr_summary: "【無憂全球商務差旅：一張 eSIM 暢遊多國高速網路】Roami 的羅馬尼亞 eSIM 讓您無需更換實體 SIM 卡，即可在抵達時立即連接當地頂尖網路。根據 Ookla 2025 下半年報告，Orange 以中位下載 86.91 Mbps（整體）與 156.76 Mbps（5G）奪得最快行動網路寶座，DIGI 則以 126.22 Mbps 的 5G 中位下載緊追在後。無論是商務視訊會議、串流高畫質影片或即時導航，Roami eSIM 搭配 Orange 與 DIGI 的優異效能，為您提供無縫、高速的連線體驗，是跨國差旅的最佳夥伴。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "羅馬尼亞 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：羅馬尼亞 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "羅馬尼亞 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：羅馬尼亞 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 羅馬尼亞 eSIM 前須知"
-
-  - href: "#faq"
-    text: "羅馬尼亞 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "羅馬尼亞 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：羅馬尼亞 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Orange"
-    carrier_class: "text-orange-600"
-    reason: "Orange 在 2025 下半年獲得最佳行動網路與最佳 5G 網路獎項，中位下載速度達 86.91 Mbps，5G 中位下載更高達 156.76 Mbps，非常適合需要大量上傳下載、視訊會議的遠距工作者。"
-
-  - travel: "一般觀光客"
-    carrier: "DIGI"
-    carrier_class: "text-yellow-600"
-    reason: "DIGI 提供極具競爭力的價格與穩定的 5G 體驗，中位 5G 下載速度為 126.22 Mbps，且擁有最佳的 5G 遊戲體驗分數，適合日常社群分享、地圖導航與輕度影音串流。"
-
-  - travel: "鄉村探險家"
-    carrier: "Orange"
-    carrier_class: "text-orange-600"
-    reason: "Orange 擁有最高的 5G 可用性（50.9% 用戶多數時間可連上 5G），且整體網路一致性最佳（92.6% 樣本達標），在偏遠地區也能提供較穩定的連線。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 羅馬尼亞 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "orange-esim"
-    title: "Orange eSIM 總覽：最佳整體效能與 5G 覆蓋"
-    best_for: "此方案絕對是最佳選擇，若您追求極致速度與最廣泛的 5G 覆蓋。Orange 在 2025 下半年獲得最佳行動網路、最佳 5G 網路、最快行動網路等多項殊榮，是效能至上的首選。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)，Orange 的 5G 可用性為 50.9%，為市場最高。\n- **下載速度**：整體中位下載 86.91 Mbps，5G 中位下載 156.76 Mbps。\n- **上傳速度**：整體中位上傳 18.57 Mbps，5G 中位上傳 27.62 Mbps。\n- **延遲**：整體中位延遲 41 ms，5G 中位延遲 39 ms。\n- **一致性**：92.6% 樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻，為最佳一致性。\n- **影片體驗**：最佳 5G 影片串流體驗（85.99 分）。"
-    arcep_note: "經當地電信主管機關確認，Orange 為羅馬尼亞最大行動營運商之一，持有完整的 4G/5G 頻譜執照，服務品質受國家監管。"
-    connect_note: "啟用過程順暢，掃描 QR code 後數分鐘內即可連網，支援多數現代 eSIM 手機。"
-    user_scenarios: "- **【布加勒斯特老城區】**：在人潮擁擠的舊城區，Orange 的高速網路讓您即時上傳 Instagram 限時動態、使用 Google Maps 導航，不會因網路壅塞而延遲。\n- **【布拉索夫與布朗城堡】**：前往吸血鬼城堡途中，Orange 的 5G 覆蓋讓您沿途串流音樂、查詢景點歷史，甚至在城堡內進行視訊通話。\n- **【多瑙河三角洲】**：在偏遠的自然保護區，Orange 的網路一致性（92.6%）確保您能傳送緊急訊息或分享即時生態影片。"
-    bg_color: "bg-orange-50"
-
-  - id: "digi-esim"
-    title: "DIGI eSIM 總覽：最佳遊戲體驗與高 CP 值"
-    best_for: "此方案適合預算有限但仍想享受高速 5G 的旅客。DIGI 在 5G 遊戲體驗上奪冠，且 5G 中位下載速度達 126.22 Mbps，僅次於 Orange。"
-    core_data: "- **5G 下載速度**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)，DIGI 的 5G 中位下載速度為 126.22 Mbps。\n- **5G 一致性**：DIGI 擁有最佳的 5G 一致性，88.1% 樣本達到 25 Mbps 下載 / 3 Mbps 上傳門檻。\n- **遊戲體驗**：最佳 5G 遊戲體驗分數，適合低延遲需求的線上遊戲。\n- **整體速度**：整體中位下載速度為 64.75 Mbps，為市場第二。"
-    arcep_note: "DIGI 為羅馬尼亞主要電信集團 RCS & RDS 旗下品牌，受國家通訊監管機構 ANCOM 監管，服務品質穩定。"
-    connect_note: "啟用過程順暢，掃描 QR code 後數分鐘內即可連網，支援多數現代 eSIM 手機。"
-    user_scenarios: "- **【布加勒斯特地鐵】**：在地鐵站內，DIGI 的 5G 一致性讓您流暢觀看短影片、收聽 Podcast，打發通勤時間。\n- **【康斯坦察海灘】**：在黑海沿岸，DIGI 的高速網路讓您即時上傳海灘照片、與朋友視訊，享受夏日時光。\n- **【錫比烏古城】**：在歷史悠久的廣場上，使用 DIGI 網路進行線上地圖導航、查詢餐廳評價，體驗順暢不卡頓。"
-    bg_color: "bg-yellow-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 羅馬尼亞 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 羅馬尼亞 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 羅馬尼亞 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 羅馬尼亞 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 羅馬尼亞主要 5G/4G 頻段與裝置相容性"
-    content: "羅馬尼亞營運商 Orange 與 DIGI 主要使用 5G NR 頻段 n78（3.5 GHz）與 n1（2100 MHz），4G LTE 則以 B3（1800 MHz）、B7（2600 MHz）、B20（800 MHz）為主。購買 eSIM 前，請確認您的智慧型手機支援上述頻段，以確保最佳連線體驗。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "根據羅馬尼亞法規，所有預付 SIM 卡（包括 eSIM）均需進行實名認證（KYC）。Roami 在購買流程中會要求您提供護照或身分證件照片，並填寫基本個人資訊，以符合當地監管要求。請確保上傳清晰、有效的證件檔案。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "多數羅馬尼亞 eSIM 方案設有每日或總量公平使用政策。例如，部分方案在每日使用超過 2GB 後可能降速至 128 kbps。請仔細閱讀 Roami 的方案說明，選擇符合您數據需求的方案，避免高速流量耗盡後影響使用體驗。"
-
-  - heading: "4. 啟用時效與 QR code 使用期限"
-    content: "Roami 的羅馬尼亞 eSIM 通常在付款成功後數分鐘內透過電子郵件發送 QR code。QR code 的有效期限一般為 30 至 90 天，請在出發前掃描並安裝，抵達當地後開啟數據漫遊即可自動連網。"
-
-  - heading: "5. 網路覆蓋與偏遠地區注意事項"
-    content: "Orange 在羅馬尼亞擁有最佳的 5G 可用性（50.9%）與網路一致性（92.6%），但在喀爾巴阡山脈深處或多瑙河三角洲等極偏遠地區，訊號可能減弱。建議下載離線地圖，並準備備用通訊方案。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：羅馬尼亞 最佳 eSIM"
-city_guide_desc: "了解哪款羅馬尼亞 eSIM 是您目的地的最佳選擇，根據各城市實測速度與營運商優勢推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "布加勒斯特"
-    carriers: "Orange"
-    reason: "首都人口密集，Orange 擁有最佳整體網路效能（中位下載 86.91 Mbps）與最高 5G 可用性（50.9%），在商業區與觀光景點提供穩定高速連線。"
-
-  - city: "雅西（Iași）"
-    carriers: "Orange"
-    reason: "雅西在 2025 下半年錄得最快行動中位下載速度 155.1 Mbps，為羅馬尼亞主要城市之冠。Orange 的 5G 網路在此表現優異，適合需要極速上傳下載的用戶。"
-
-  - city: "蒂米什瓦拉（Timișoara）"
-    carriers: "Orange"
-    reason: "蒂米什瓦拉擁有最快的固網中位下載速度（333.25 Mbps），行動網路同樣由 Orange 領先。作為西部文化重鎮，Orange 的覆蓋讓您在廣場與博物館內順暢連線。"
-
-  - city: "康斯坦察（Constanța）"
-    carriers: "DIGI"
-    reason: "黑海沿岸度假勝地，DIGI 提供高 CP 值的 5G 體驗（中位下載 126.22 Mbps），在海灘與餐廳區訊號穩定，適合上傳照片與視訊通話。"
-
-  - city: "布拉索夫（Brașov）"
-    carriers: "Orange"
-    reason: "鄰近布朗城堡與喀爾巴阡山脈，Orange 的網路一致性（92.6%）在郊區與山區仍能維持基本連線，確保導航與緊急通訊不中斷。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 羅馬尼亞 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在布加勒斯特、雅西等歷史古城，Orange 的 5G 網路讓您即時查詢景點資訊、使用擴增實境導覽，並快速上傳高解析度照片與影片。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往喀爾巴阡山脈或多瑙河三角洲，Orange 的高網路一致性（92.6%）確保您在偏遠地區仍能使用離線地圖、傳送緊急訊息，並分享自然美景。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "沿著羅馬尼亞鄉間公路自駕，Orange 的 5G 可用性（50.9%）讓您使用即時路況導航、串流音樂，並在休息站順暢進行視訊通話。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在黑海沿岸的康斯坦察與馬馬亞海灘，DIGI 的高速 5G 網路讓您即時上傳海灘照片、與親友視訊，享受無縫的夏日連線體驗。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "羅馬尼亞 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "在羅馬尼亞的地鐵、深谷或偏遠地區，eSIM 是否仍能收到網路訊號？"
-    a: "在布加勒斯特地鐵站內，Orange 與 DIGI 的 4G/5G 覆蓋良好，多數車站與月台均可正常連線。但在喀爾巴阡山脈深谷或多瑙河三角洲極偏遠地區，訊號可能減弱或中斷。建議事先下載離線地圖，並選擇網路一致性較高的 Orange（92.6% 樣本達標）以提升偏遠地區的連線機率。"
-
-  - q: "在羅馬尼亞，連線是否足夠穩定，以順暢播放 YouTube 或 Netflix 等 HD 影片？"
-    a: "是的，非常穩定。Orange 在 2025 下半年獲得最佳 5G 影片串流體驗（85.99 分），整體中位下載速度達 86.91 Mbps，5G 中位下載更高達 156.76 Mbps，足以流暢播放 4K 影片。DIGI 的 5G 中位下載也有 126.22 Mbps，同樣能輕鬆應付 HD 串流。"
-
-  - q: "成功付款後，多久能收到羅馬尼亞 eSIM 的 QR code？"
-    a: "Roami 通常在付款成功後數分鐘內，將 QR code 與安裝說明發送至您註冊的電子郵件信箱。若未收到，請檢查垃圾郵件夾，或聯繫客服協助重新發送。建議在出發前至少 24 小時完成購買與安裝。"
-
-  - q: "羅馬尼亞 eSIM 是否有特定的每日數據用量上限（例如每日 2GB 後降速）？"
-    a: "部分 Roami 方案設有每日公平使用政策（FUP），例如每日高速流量上限為 2GB，超過後降速至 128 kbps。但也有無限高速方案可供選擇。請在購買前仔細閱讀方案說明，選擇最符合您數據需求的產品。"
-
-  - q: "我可以使用羅馬尼亞 eSIM 透過 WhatsApp、WeChat 或 FaceTime 進行語音或視訊通話嗎？"
-    a: "完全可以。羅馬尼亞 eSIM 提供完整的數據連線，支援所有基於 IP 的通訊應用程式。Orange 的低延遲（5G 中位 39 ms）與高速上傳（5G 中位 27.62 Mbps）確保 WhatsApp、WeChat、FaceTime 等語音與視訊通話清晰流暢。"
-
-# 迷思
-myths_title: "⚠️ 羅馬尼亞 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "羅馬尼亞的 5G 網路只在布加勒斯特可用。"
-    truth: "事實：Orange 的 5G 可用性達 50.9%，代表超過一半的用戶多數時間可連上 5G，覆蓋範圍已擴展至雅西、蒂米什瓦拉、康斯坦察等主要城市及周邊區域。"
-
-  - myth: "所有營運商的網路速度都差不多。"
-    truth: "事實：根據 Ookla 數據，Orange 整體中位下載 86.91 Mbps，遠高於 DIGI 的 64.75 Mbps；5G 中位下載 Orange 為 156.76 Mbps，DIGI 為 126.22 Mbps，差異顯著。"
-
-  - myth: "eSIM 在羅馬尼亞無法用於熱點分享。"
-    truth: "事實：多數 Roami 的羅馬尼亞 eSIM 方案支援熱點分享，可將網路連線分享給筆電、平板等其他裝置。但請注意部分方案可能限制分享速度或流量，購買前請確認條款。"
-
-  - myth: "羅馬尼亞的網路在偏遠山區完全無法使用。"
-    truth: "事實：Orange 的網路一致性達 92.6%，在喀爾巴阡山脈主要道路與村莊仍可維持基本連線，但在深谷或密林深處訊號可能較弱。建議搭配離線地圖使用。"
-
-  - myth: "預付 eSIM 的啟用流程複雜且耗時。"
-    truth: "事實：Roami 的 eSIM 啟用非常簡單，付款後掃描 QR code 即可安裝，抵達羅馬尼亞後開啟數據漫遊，數分鐘內即可自動連網，無需繁瑣設定。"
-
-# 數據來源
-data_sources_title: "羅馬尼亞 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據，基於 2025 下半年（2H 2025）數百萬次真實用戶測試，提供羅馬尼亞各營運商的行動與固網速度、5G 效能、一致性與影片體驗等指標。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的行動網路體驗報告，分析羅馬尼亞主要營運商的 5G 可用性、下載速度、遊戲體驗與影片串流品質，提供獨立第三方觀點。"
-
-  - name: "ANCOM（羅馬尼亞國家通訊監管機構）2025"
-    description: "羅馬尼亞國家通訊監管機構 ANCOM 發布的年度通訊市場報告，涵蓋營運商覆蓋率、頻譜執照、服務品質監測等官方數據。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已盡力確保準確性。實際體驗可能因裝置、地點、時間與網路負載而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查閱最新用戶評價與營運商官網。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的羅馬尼亞 eSIM"
-cta_desc: "即時存取高速網路，無需更換實體 SIM 卡。掃描 QR code 即可啟用，讓您的羅馬尼亞之旅暢連無阻。"
-cta_button_text: "立即購買羅馬尼亞 eSIM"
-cta_button_link: "/romania-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "羅馬尼亞 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 羅馬尼亞 eSIM 指南
+  url: ''
+hero_badge: "Orange vs DIGI：價格與觸及的羅馬尼亞判定"
+hero_subtitle_main: "Orange、DIGI 的價格與觸及正面對決"
 ---
+
+
+羅馬尼亞是歐洲的流量價格異數。當地人每 GB 約付 **0.54 美元**——在 237 個市場中排第 50，大約是德國流量價格的五分之一——而固網寬頻全國平均達 **276.18 Mbps**，全球第 15。行動速度則相對普通：Ookla 2026 年 8 月的指數把該國排在第 56 位、82.57 Mbps。對羅馬尼亞 eSIM 而言，有趣的張力正在這裡：世界級的便宜流量、世界級的光纖，以及一個 **Orange** 在速度、可用率與穩定性上領先、而 **DIGI**——把羅馬尼亞流量變得舉世聞名地便宜的低價巨頭——握有 5G 穩定性與遊戲體驗的行動格局。留幾分鐘即可，不用更多——本指南底下的任何一個羅馬尼亞步驟，我們的測試用戶從來沒花超過這個時間。
+
+**快速結論：** 選當地網路是為了最廣的足跡，選當地網路也是為了最低的每 GB 成本，無論如何都在出發前裝好你的 eSIM。速度、價格與登記規則會在本指南後面解釋這個取捨背後的細節。
+
+本指南為旅人梳理這片格局：每家電信商真正擅長什麼、歐盟漫遊規則如何適用、覆蓋圖會在哪裡背叛你（主要是 Transfăgărășan 與多瑙河三角洲），以及安裝前該準備什麼。準備好時，用我們的[eSIM 相容性表格](/compatibility/)確認你的手機。
+
+**先講結論：** Orange 是預設選擇——最快的行動網路（中位數 86.91 Mbps，5G 上 156.76 Mbps）、最佳 5G 可用率（50.9%）、最佳穩定性（92.6%），以及最好的鄉村觸及。DIGI 是性價比挑戰者：全歐洲最便宜的流量文化、88.1% 的 5G 穩定性，以及全國最好的 5G 遊戲體驗。出發前安裝一張[羅馬尼亞 eSIM](/romania-esim/)，並預期城市表現優異、山口時好時壞、而三角洲對所有人都是離線狀態。
+
+## 羅馬尼亞 eSIM 選擇：城市小旅行、公路旅行還是長住
+
+本指南引用的速度出自 [Ookla 的 2025 年下半年羅馬尼亞報告](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)。
+
+| 你的計畫 | 首選電信商 | 為什麼選它 |
+|:---|:---|:---|
+| Bucharest、Cluj、Timișoara 城市停留 | Orange | 最快中位數、最多 5G 可用率，以及最強的全方位城市體驗。 |
+| 喀爾巴阡自駕：Transfăgărășan、Bucegi | Orange | 最佳穩定性（92.6%）與鄉村觸及——地圖還活著與整片空白的差別。 |
+| 重度流量使用 | DIGI | 羅馬尼亞便宜流量傳奇的背後網路；在其觸及處有 88.1% 的 5G 穩定性。 |
+| 行動遊戲 | DIGI | 2025 年下半年報告中羅馬尼亞最佳的 5G 遊戲體驗。 |
+
+## 羅馬尼亞 eSIM 電信商速度：Orange、DIGI 與完整城市數據
+
+### 羅馬尼亞的行動市場
+
+Orange Romania 在 2025 年下半年的成績單近乎橫掃：整體中位數下載 **86.91 Mbps**、5G 上 **156.76 Mbps**，上傳 18.57 Mbps（5G 上 27.62），全國最高的 5G 可用率 **50.9%**，以及最佳穩定性——92.6% 的樣本超過 5 Mbps 下行 / 1 Mbps 上行。再加上最佳 5G 影音串流分數（85.99），以及監管機關 ANCOM 描繪的 Orange 擁有最大頻譜組合的圖像，結論很簡單：最快的網路，同時也是你離開市區後最可能還有訊號的那一張。Iași 的 155.1 Mbps 城市中位數——羅馬尼亞最快——就落在 Orange 的東部網路上。
+
+### 哪家羅馬尼亞電信商的 5G 領先？
+
+DIGI（RCS&RDS）靠壓低羅馬尼亞行動價格建立名聲，而它的 5G 網路早已不是笑話：中位數 5G 下載 **126.22 Mbps**、全國最佳 5G 穩定性——**88.1%** 的樣本高於 25 Mbps 下行 / 3 Mbps 上行——以及 2025 年下半年報告中最好的 5G 遊戲體驗。它的整體中位數（64.75 Mbps）落後 Orange，且足跡集中在城市與近郊——Timișoara 是它的展示櫥窗，333.25 Mbps 的固網寬頻在此定調。對旅客而言，DIGI 是性價比車道：強處非常強，鄉村觸及則明顯第二。
+
+### Vodafone 與 Telekom Romania，簡述
+
+兩者都仍是持照的全國業者，也都作為備援車道出現在多網路 eSIM 方案中。兩者在 2025 年下半年的 Ookla 報告中都沒有拿下一個獎項，所以本指南——如同大多數旅客行程——把市場視為一場 Orange 對 DIGI 的競賽，外加兩位替補。
+
+Ookla 的 2025 年下半年羅馬尼亞報告量測的是人們實際所在之處的效能，而不只是全國平均值。因為羅馬尼亞 eSIM 會附掛到訊號最強的網路，實際問題是你的行程落在快的縣還是慢的縣——而差距非常寬。
+
+### 羅馬尼亞各城市中位數行動下載
+
+| 城市 | 中位數下載 | 上傳 | 延遲 | 穩定性 | 最快業者 |
+|:---|:---|:---|:---|:---|:---|
+| Iași | 155.13 Mbps | 31.66 Mbps | 42.17 ms | 96.2% | 無贏家 |
+| Cluj-Napoca | 140.17 Mbps | 27.77 Mbps | 41.59 ms | 95.3% | 無贏家 |
+| Ploiești | 129.06 Mbps | 29.2 Mbps | 29.29 ms | 93.1% | Orange |
+| Timișoara | 120.58 Mbps | 23.1 Mbps | 44.65 ms | 94.4% | Orange |
+| Oradea | 107.24 Mbps | 26.36 Mbps | 44.14 ms | 95.9% | Orange |
+| Constanța | 102.36 Mbps | 23.57 Mbps | 37.97 ms | 92.5% | 無贏家 |
+| Sibiu | 101.33 Mbps | 18.95 Mbps | 37.73 ms | 92.5% | Orange |
+| Craiova | 94.12 Mbps | 19.14 Mbps | 45.21 ms | 93.3% | Orange |
+| Brașov | 92.03 Mbps | 16.81 Mbps | 34.61 ms | 92.3% | Orange |
+| Bucharest | 91.89 Mbps | 24.54 Mbps | 31.11 ms | 94.9% | Orange |
+
+反直覺的結果：**Bucharest 是羅馬尼亞大城市中最慢的**，中位數 91.89 Mbps，而 Iași 以 155.13 Mbps 領先。首都的數字反映的是壅塞與龐大的裝置組合，而非建設較弱；它的延遲仍是全國最好的 31.11 ms。對旅客而言，十個城市全部超過 90 Mbps——對地圖、視訊通話與上傳綽綽有餘。
+
+### 羅馬尼亞各縣中位數行動下載
+
+| 縣 | 中位數下載 | 穩定性 | 最快業者 |
+|:---|:---|:---|:---|
+| Iași County | 113.53 Mbps | 92.6% | 無贏家 |
+| Cluj County | 103.43 Mbps | 92.6% | 無贏家 |
+| Bucharest | 91.89 Mbps | 94.9% | Orange |
+| Timiș | 87.93 Mbps | 90.8% | Orange |
+| Bihor County | 74.24 Mbps | 91.7% | Orange |
+| Mehedinți County | 74.24 Mbps | 91.3% | Orange |
+| Constanța | 72.21 Mbps | 89.4% | 無贏家 |
+| Dolj County | 71.17 Mbps | 90.4% | Orange |
+| Sibiu | 70.62 Mbps | 89.1% | Orange |
+| Brașov | 69.55 Mbps | 88.7% | Orange |
+| Prahova | 59.22 Mbps | 87.4% | 無贏家 |
+| Mureș | 57.22 Mbps | 88% | Orange |
+| Tulcea | 55.75 Mbps | 89.3% | Orange |
+| Maramureș | 53.59 Mbps | 89.8% | Orange |
+| Suceava County | 44.56 Mbps | 86.3% | 無贏家 |
+| Caraș-Severin County | 46.47 Mbps | 85.3% | 無贏家 |
+| Harghita County | 38.23 Mbps | 85.1% | 無贏家 |
+| Covasna County | 38.44 Mbps | 89% | 無贏家 |
+| Giurgiu County | 33.96 Mbps | 79.3% | 無贏家 |
+
+Orange 在羅馬尼亞 14 個地區是最快業者；沒有任何單一電信商處處獲勝，而穩定性——超過 5 Mbps 下行 / 1 Mbps 上行的樣本比例——即使在最弱的縣也維持在 79% 以上。特蘭西瓦尼亞的旅遊帶（Brașov、Sibiu、Cluj）落在 70–103 Mbps 區間；朝 Harghita 與 Covasna 的喀爾巴阡各縣是慢的那一端，大約是 Iași 中位數的三分之一。
+
+## 透過羅馬尼亞 eSIM 看歐盟漫遊規則
+
+歐盟會員身分在羅馬尼亞是雙面刃。好的一面是，來自其他會員國的 SIM 或 eSIM 在這裡以國內費率使用——「roam like at home」——歐盟執行委員會的[漫遊頁面](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm)載明了權利與公平使用流量上限。其次，它也是一個警告：羅馬尼亞出了名便宜的當地流量不會跟著你走——歐盟方案的漫遊額度受公平使用公式限制，所以帶著歐盟設定檔前來的重度用戶仍會撞到天花板。
+
+對沒有歐盟方案的旅客，旅遊設定檔是可預期的答案：出發前安裝，落地後附掛到 Orange 或 DIGI，本國 SIM 保留用於驗證。純流量設定檔不含羅馬尼亞門號——對遊客無妨，因為叫車、訂位與通訊軟體都能用你現有門號的數據運作。身分登記適用於當地購買的 SIM（在電信商門市出示護照），這正是 eSIM 路線跳過的到場步驟。
+
+💡 一趟走完 Bucharest、Budapest 與 Sofia？一張區域設定檔勝過三張；我們的[匈牙利 eSIM 指南](/carriers/hungary-esim-carrier-guide/)與[保加利亞旅遊 eSIM 頁面](/bulgaria-esim/)涵蓋這兩個鄰國。
+
+## 帶著 eSIM 跨越邊界
+
+從純流量組合到無限方案的羅馬尼亞資費，都列在[羅馬尼亞 eSIM 頁面](/romania-esim/)。公開數據勾勒出當地的現實：
+
+| 指標 | 羅馬尼亞 | 全球中位數 |
+|:---|:---|:---|
+| 中位數行動下載 | 82.57 Mbps（全球第 56，2026 年 8 月） | 109.05 Mbps |
+| 中位數行動延遲 | 21 ms | 24 ms |
+| 中位數固網下載 | 276.18 Mbps（全球第 15） | 129.68 Mbps |
+| 1 GB 平均成本 | 0.54 美元（237 個市場中第 50） | 2.59 美元 |
+
+行動與固網兩欄之間的差距，就是一張表格講完的羅馬尼亞故事：光纖是世界級、行動是中段班，而流量以任何標準都算便宜。DataReportal 統計，2025 年開年時羅馬尼亞有 1,780 萬上網人口（94.0%）與 2,530 萬行動連線（133%）。對旅客而言，實際的重點是城市裡的飯店與公寓 Wi-Fi 往往非常出色——eSIM 的價值在路上發揮，而那正是 Orange 的穩定性優勢最要緊的地方。
+
+## 羅馬尼亞 eSIM 覆蓋率：Bucharest、特蘭西瓦尼亞與海岸
+
+| 目的地 | 最佳電信商 | 為什麼可行 |
+|:---|:---|:---|
+| Bucharest | Orange | 全國最深的 5G 可用率與最佳的全方位中位數；尖峰時段預期市中心壅塞。 |
+| Iași | Orange | 羅馬尼亞最快的城市中位數（155.1 Mbps）——Orange 的東部堡壘。 |
+| Timișoara | DIGI、Orange | DIGI 的展示城市，擁有最快的固網寬頻（333.25 Mbps）；Orange 掌握行動優勢。 |
+| Cluj-Napoca | Orange | 科技樞紐享有 Orange 的低 5G 延遲（39 ms）與強上傳——非常適合遠距工作。 |
+| Brașov 與喀爾巴阡 | Orange | 山谷與度假區周邊靠穩定性取勝；高海拔山口在每張網路上都有空隙。 |
+| 多瑙河三角洲 | Orange | 城鎮與主要水道沿岸有訊號；越深入，離線程度越高。 |
+
+## 安裝羅馬尼亞 eSIM：設定順序
+
+沒有櫃檯也沒有店員：線上付款、以電子郵件收到設定檔、在設定中加入它，並允許 eSIM 門號漫遊。整件事在家裡的 Wi-Fi 上是五分鐘的活，早點做也免得長途飛行後在 Henri Coandă 機場找 SIM 卡。兩個平台的[開通教學](/faq/how-to-activate-an-esim/)都可以照著做，[失敗清單](/faq/esim-activation-errors-troubleshooting-guide/)涵蓋行不通時該怎麼辦。
+
+給公路旅行者的兩個羅馬尼亞注意事項。第一，Transfăgărășan 與 Transalpina 公路橫越真正的覆蓋真空——壯麗的那種——所以在出發登坡前就在 Sibiu 或 Brașov 下載離線地圖與住宿資訊，別等到山頂。第二，如果你的手機在山區停駐在訊號弱的電信商上，從網路清單手動選 Orange；自動選擇在地形中不一定會挑到最強的可用網路。城市抵達則簡單得多：Bucharest Otopeni 機場各網路覆蓋都扎實，只要出發前漫遊已開啟，設定檔在你落地的瞬間就會連上。
+
+### 羅馬尼亞 eSIM：在家就值得做的五項檢查
+
+| # | 檢查項 | 合格狀態 |
+|:---|:---|:---|
+| 1 | 裝置未鎖定 | 「No SIM restrictions」 |
+| 2 | 具備 eSIM 硬體 | `*#06#` 下可見 EID |
+| 3 | QR 碼備份兩次 | 手機與雲端儲存各一張截圖 |
+| 4 | 出發前已安裝設定檔 | 在家用 Wi-Fi 安裝，別用機場 Wi-Fi |
+| 5 | 數據門號與漫遊已設定 | eSIM 承載數據，數據漫遊已啟用 |
+
+### 誰在羅馬尼亞營運這些網路？
+
+**A. 已安裝，但在 Bucharest 沒有訊號格。** 手動選網路——Orange、Vodafone 或 DIGI——路徑是設定 → 行動服務（Cellular） → 網路選擇。羅馬尼亞的網路有時會拒絕外國設定檔的第一次自動附掛，手動選取可以繞過等待。
+
+**B. 有訊號，沒流量。** 十次有九次是上面的 APN 一欄，或數據門號仍指向本國 SIM。重置任何東西之前先檢查這兩項。
+
+**C. 城市裡流量正常，喀爾巴阡山區就失效。** 這在訊號稀薄的縣（Harghita、Covasna、Giurgiu）屬預期行為。手動切到最強的可用網路，並只有當手機執意抓住一個微弱的 5G 基地台時才退回 3G/2G。
+
+**D. 在保加利亞或匈牙利跨境失效。** 純羅馬尼亞設定檔在邊界就停了。如果你的路線繼續往黑海海岸或穿過巴爾幹，出發前查看[保加利亞 eSIM 頁面](/bulgaria-esim/)或區域型歐洲設定檔。
+
+## 羅馬尼亞的火車、巴士與通往多瑙河三角洲的路
+
+羅馬尼亞旅行分成兩種連線狀態，為兩者都做規劃，才能讓羅馬尼亞 eSIM 持續有用。
+
+**鐵路與巴士網。** Bucharest–Brașov 線、西行往 Timișoara 與 Cluj 的路線，以及城際巴士網，大部分路段在 Orange 上都有可用覆蓋——平原上足以串流，鐵路爬進喀爾巴阡山時的斷訊則屬預期。國鐵與長途巴士平台的車票都在 App 內購買並以 QR 驗票，這讓即時數據成為搭車流程的一部分。
+
+**三角洲與偏遠道路。** Tulcea 以東的一切表現都不同：訊號跟著主要水道與城鎮走，民宿的 Wi-Fi 只到院子邊界為止，而深入蘆葦叢的船程天生就是離線。正確的模式與玻利維亞鹽沼教會人們的相同——在最後一個城市訂好並下載，把船程當飛航模式，讓 Orange 的穩定性處理開往 Tulcea 的車程。
+
+**現金、卡片與連線。** 羅馬尼亞城市對刷卡友善，但三角洲的鄉間加油站、市集攤位與民宿仍然依賴現金——下載地圖、帶點列伊，eSIM 的工作就很單純：導航、通訊軟體，以及偶爾從山谷裡撥出的視訊通話。
+
+## 哪些網路賣給旅客
+
+在羅馬尼亞當地購買真的便宜，而且每家電信商現在都有旅客憑護照就能辦完的預付卡路線。以下價格是 2026 年公布的預付卡資費，以列伊（RON）計價；1 歐元約 5 RON，所以 20 RON 大約 4 歐元。
+
+### 在羅馬尼亞鄉間，誰的訊號撐得住？
+
+Orange 擁有最廣的 4G 足跡與最好的鄉村觸及，這也是為什麼一旦你的行程離開 Bucharest，它就是預設推薦。
+
+| 方案 | 流量 | 有效期 | 價格 |
+|:---|:---|:---|:---|
+| 預付卡 5 GB | 5 GB | 30 天 | 20 RON |
+| 預付卡 15 GB | 15 GB | 30 天 | 40 RON |
+| 預付卡 30 GB | 30 GB | 30 天 | 55 RON |
+| 預付卡無限 | 無限 | 30 天 | 79 RON |
+
+Orange 在 Henri Coandă（Otopeni）機場的到達大廳設有有人服務的 kiosk，是全國從機場到連線最快的路徑。帶上護照：登記當場完成。
+
+### 羅馬尼亞最便宜的方案
+
+Vodafone 的預付卡資費與 Orange 相差幾列伊——5 GB 18 RON、15 GB 38 RON、30 GB 52 RON、無限 72 RON。歷史上它在黑海海岸略佔上風；在特蘭西瓦尼亞與城市裡兩者可互換。它的 APN 與 Orange 不同，只有當你的手機無法自動取得設定時才需要在意。
+
+### 羅馬尼亞的流量行情是多少？
+
+DIGI（RCS & RDS）多年來只做月繳用戶，之後在 2025 年 11 月收購了 Telekom Romania Mobile 的預付卡客戶群，並於 2026 年 3 月前完成遷移——這也是為什麼 DIGI 預付卡現在到處都買得到，而不只在少數幾家門市。
+
+| 方案 | 流量 | 有效期 | 價格 |
+|:---|:---|:---|:---|
+| 預付卡 10 GB | 10 GB | 30 天 | 15 RON |
+| 預付卡 30 GB | 30 GB | 30 天 | 22 RON |
+| 預付卡 50 GB | 50 GB | 30 天 | 28 RON |
+| 預付卡無限 | 無限 | 30 天 | 35 RON |
+
+30 GB 只要 22 RON，DIGI 大約是 Orange 同量級價格的三分之一。代價是偏遠鄉間個位數百分比的覆蓋差異，以及大城市以外較少的門市。
+
+### 羅馬尼亞的行動流量貴嗎？
+
+| 步驟 | 發生什麼 | 時間 |
+|:---|:---|:---|
+| 找一家門市 | Orange 與 DIGI 在機場有 kiosk；三家的門市遍布每個購物中心 | 5–20 分鐘 |
+| 登記 | 交出護照，資料登錄到門號上 | 5–10 分鐘 |
+| 開通與設定 | 店員當場開通；流量不通時檢查 APN | 5 分鐘 |
+| 之後儲值 | 超市的儲值券，或電信商 App | — |
+
+這是你第一個早晨的 15–35 分鐘。旅遊 eSIM 用較高的每 GB 價格換來免排隊，而且沒有當地門號——多數旅客在看到 30 GB 當地流量比一杯咖啡還便宜後，權衡的結果仍是選 eSIM。
+
+## 你的手機與 eSIM 相容嗎？
+
+### 羅馬尼亞網路使用哪些頻率
+
+| 技術 | 使用中的頻段 | 對你的手機代表什麼 |
+|:---|:---|:---|
+| 4G LTE | 800 MHz（B20）、1800 MHz（B3）、2600 MHz（B7） | B20 承載鄉村觸及；B7 承載城市速度。多數全球手機三者俱全。 |
+| 5G | 3.5 GHz（n78） | 羅馬尼亞 5G 的主力頻段。2020 年起的旗艦機通常支援。 |
+| 備援 | 2G/3G 舊頻段 | 用於語音備援與最稀薄的鄉村角落。 |
+
+沒有 n78 的手機仍然很好用：它停留在 LTE 上，而羅馬尼亞的 LTE 中位數（Orange 全國 86.91 Mbps）勝過大多數國家的 5G。
+
+### 旅客在哪裡購買羅馬尼亞 eSIM
+
+1. **電信商鎖定。** 在 iPhone 上，設定 → 一般 → 關於本機有電信商鎖定一項，必須顯示「No SIM restrictions」。歐洲販售的手機只有在補貼合約下購買才會鎖定。
+2. **eSIM 支援。** `*#06#` 在相容手機上會顯示 EID；我們的[相容性檢查器](/compatibility/)可確認機型。
+3. **雙 SIM 行為。** 把 eSIM 設為行動數據門號，本國 SIM 保留給通話與簡訊驗證碼。
+4. **中國市場 iPhone。** 中國大陸販售的機型完全停用 eSIM 硬體；在羅馬尼亞使用實體 SIM 或換一台裝置。
+
+## 手動加入 APN
+
+只有當你**直接購買羅馬尼亞 SIM 或電信商 eSIM**，或你的手機沒有自動收到設定時才需要。旅遊 eSIM 自帶 APN，什麼都不用改。
+
+| 電信商 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| Orange Romania | `internet` | 留空 | 留空 |
+| Vodafone Romania | `live.vodafone.com` | 留空 | 留空 |
+| DIGI | `internet` | 留空 | 留空 |
+
+**在哪裡輸入：** iPhone 路徑是設定 → 行動服務（Cellular） → 該門號 → 行動數據網路（Cellular Data Network）。Android 路徑是設定 → 連線 → 行動網路 → 存取點名稱（APN），在那裡新增一筆。儲存、重新開機，並確認承載數據的是 eSIM，再診斷其他問題。
+
+## 哪家羅馬尼亞電信商適合你的行程
+
+羅馬尼亞預付卡便宜到多買損失有限，但旅遊 eSIM 的定價接近歐洲水準——所以讓額度配合行程，而不是預設買最大方案。
+
+| 行程 | 典型長度 | 舒適的額度 | 原因 |
+|:---|:---|:---|:---|
+| Bucharest 城市小旅行 | 3–4 天 | 3–5 GB | 飯店與咖啡廳 Wi-Fi 吸收晚間用量；地圖、Bolt 搭車與通訊軟體是唯一固定消耗。 |
+| Bucharest + 搭火車遊特蘭西瓦尼亞 | 7 天 | 5–8 GB | CFR 火車上的 Wi-Fi 不穩，查站點與時刻表都靠行動數據。 |
+| 喀爾巴阡公路旅行 | 7–10 天 | 10–15 GB | 導航、離線地圖下載、音樂與沿途照片上傳；山谷吃訊號也吃流量。 |
+| 多瑙河三角洲 | 4–5 天 | 4–6 GB | 村莊有覆蓋，村莊之間的水道沒有。上船前在 Tulcea 下載地圖。 |
+| 黑海海岸，7–8 月 | 7 天 | 8–12 GB | 海灘季壅塞拖慢 Wi-Fi，更多流量轉向行動網路；海岸的上傳累積很快。 |
+| 遠距工作一個月 | 30 天 | 25 GB 以上，或當地 DIGI 預付卡 | 22 RON 的 DIGI 30 GB 預付卡，超過一個月的任何旅遊 eSIM 都比不過。 |
+
+## 羅馬尼亞連線真正轉薄的兩條路線
+
+**多瑙河三角洲。** Tulcea、Sulina、Sfântu Gheorghe 與 Murighiol 都有可用覆蓋，Tulcea 縣繳出 55.75 Mbps 的中位數——對濕地地區而言算體面。空隙在水上：村莊之間的水道會長時間失去訊號，而且是每張網路皆然。在 Tulcea 下載三角洲的離線地圖，把船程視為離線時間。
+
+**高海拔喀爾巴阡山口。** Transfăgărășan 與 Transalpina 大部分路段有訊號，失敗集中在狹窄、森林覆蓋的山谷。大約 1,800 公尺以上，把手機視為緊急電話不可靠的工具，認真健行時帶紙本地圖。冬季的積雪封路則直接讓問題消失。
+
+### 羅馬尼亞的行動流量比歐盟其他地方便宜嗎？
+
+是的，差距很大。Cable.co.uk 把羅馬尼亞行動流量的每 GB 定價在約 **0.54 美元**，在調查的 237 個市場中排第 50，而全球平均是 2.59 美元——而 DIGI 的預付卡資費比這更低。麻煩是程序上的而非財務上的：當地門號意味著登記與跑一趟店面，這正是旅遊 eSIM 溢價的去處。
+
+### 依行程型態：選哪張羅馬尼亞 eSIM
+
+Orange，憑藉其在三角洲城鎮與主要水道沿岸的穩定性。Tulcea、Sulina 與較大的村莊有訊號，在較小的水道上轉薄，而那裡沒有任何電信商能觸及。上船前為水道下載離線地圖，因為船上不會有 Wi-Fi。
+
+### 羅馬尼亞 eSIM 在摩爾多瓦或塞爾維亞能用嗎？
+
+只有在區域方案上可以——純羅馬尼亞設定檔在邊界就停了，而且兩個鄰國都不在歐盟漫遊架構內。如果你的行程繼續向東或向西南，請買多國設定檔，別指望歐盟漫遊規則帶你走完。
+
+## 羅馬尼亞 eSIM 買家速查 FAQ
+
+### 羅馬尼亞 eSIM 在保加利亞、匈牙利或烏克蘭能用嗎？
+
+只在羅馬尼亞境內。會跨邊界的人應該每一段帶一張設定檔（我們的[烏克蘭 eSIM 指南](/carriers/ukraine-esim-carrier-guide/)涵蓋東邊的鄰國），或使用區域方案。歐盟漫遊權利只適用於在歐盟境內發行的設定檔，不適用於一般旅遊 eSIM。
+
+### 在羅馬尼亞哪個更好：Orange 還是 DIGI？
+
+Orange 在速度、可用率、穩定性與鄉村觸及上勝出；DIGI 在價格文化、其城市的 5G 穩定性與遊戲效能上勝出。對在移動中的旅客，Orange 是更安全的預設——一旦你的路線離開市中心，還站著的網路就是它。
+
+### 5G 在羅馬尼亞哪裡可用
+
+不。Orange 以 50.9% 的 5G 可用率領先，集中在主要城市；DIGI 的 5G 在它的城市堡壘中強勁。鄉村羅馬尼亞——包括喀爾巴阡度假區——跑在 4G 上，以 Orange 92.6% 的穩定性而言完全可靠。
+
+### 哪些手機不能用羅馬尼亞 eSIM？
+
+實際上任何現代未鎖定的手機都可以：羅馬尼亞的 800/1800/2600 MHz LTE 層與 n78、n1 上的 5G 層都是主流機型的標準配置。跑一遍[eSIM 相容性清單](/compatibility/)就知道你的合不合格。
+
+### 我的羅馬尼亞 eSIM 有效期何時起算？
+
+大多數旅遊 eSIM 方案是首次在羅馬尼亞連上網路時起算——在家安裝，有效期等你落地才開始。一次付清購買，無自動續約。方案頁面會標明每個資費的確切有效期。
+
+### 羅馬尼亞對決：當地 SIM、旅遊 eSIM
+
+城市旅行：5–10 GB 從容涵蓋地圖、叫車、串流與視訊通話，特別是有好的公寓 Wi-Fi 吸收晚間用量。喀爾巴阡公路旅行的一週會把流量用出兩倍價值——導航、音樂與沿途照片上傳——所以如果路線離開 Bucharest 超過一天就帶雙倍，並把熱點分享留到晚上——鄉間基地台比城市中位數更快限速熱點負載。Orange 或 DIGI 店內開通的預付卡 SIM 仍是當地價格基準；可以中途儲值的旅遊流量方案，用一點價格換來永遠不用排隊。
+
+### 把羅馬尼亞電信商配對到你的行程
+
+可以，從容有餘。Cluj 縣記錄 103.43 Mbps 的中位數下載，Brașov 為 69.55 Mbps，兩者穩定性都在 88% 以上。空隙在山口而非城鎮：較高的喀爾巴阡山谷訊號轉薄，所以在走 Transfăgărășan 或 Transalpina 的前一天下載離線地圖。
+
+### 在羅馬尼亞 Digi 真的比 Orange 便宜嗎？
+
+就流量體積而言，是的——DIGI 的 30 GB 要 22 RON，Orange 的預付卡同量級是 55 RON。差價買到的是覆蓋深度：Orange 在 2025 年下半年報告的 14 個地區速度領先，而且對零散的鄉村聚落掌握更好。在 Bucharest、Cluj 與 Sibiu，兩者接近到由價格決定。
+
+### 價格清單：羅馬尼亞 eSIM 方案
+
+Orange 與 DIGI 都在到達大廳設有 kiosk，所以可以——但要有慣常的機場溢價與大型航班抵達後的排隊。如果你的航班落地很晚，kiosk 可能已經關門；出發前裝好的 eSIM 完全消除這個風險。
+
+### 羅馬尼亞的手動 APN 數值
+
+`internet`，使用者名稱與密碼留空。Vodafone Romania 用 `live.vodafone.com`，DIGI 用 `internet`。旅遊 eSIM 會自行設定，不該去動它。
+
+### 什麼文件能用來辦羅馬尼亞 SIM？
+
+可以。羅馬尼亞法律要求預付卡門號登記在經驗證的身分下，所以電信商會在銷售時記錄你的護照資料。同樣規則也適用於當地電信商 eSIM——這正是國外發行的旅遊 eSIM 安靜的優勢之一。
+
+### 30 GB 的羅馬尼亞流量多少錢？
+
+在 DIGI 上是 22 RON——約 4.40 歐元。Orange 同量級收 55 RON，Vodafone 52 RON。作為對比，英國的 Cable.co.uk 調查把羅馬尼亞行動流量定價在約每 GB 0.31 美元，屬歐洲最便宜之列。
+
+### 羅馬尼亞行程需要多少流量？
+
+時好時壞，而且可以預期。Orange 與 Vodafone 掌握大部分山谷路段與隧道入口，DIGI 在高海拔較薄，高海拔山口會整段完全消失，長到足以造成影響。在 Sibiu 或 Curtea de Argeș 下載路線，把車程本身當成離線時間，而不是等著訊號格回來。
+
+### 在羅馬尼亞 Orange 值得比 DIGI 多付溢價嗎？
+
+在鄉村特蘭西瓦尼亞與 Maramureș，值得——Orange 在 Ookla 2025 年下半年報告的 14 個地區拿下最快業者頭銜。在 Bucharest、Cluj-Napoca 與 Timișoara，兩者相差幾個百萬位元以內，而 DIGI 的預付卡流量約只要三分之一價。
+
+### 我的羅馬尼亞 eSIM 在 Bucharest 地鐵能用嗎？
+
+能。Bucharest 的地鐵網路與車站都有行動覆蓋，不過車站之間的隧道就跟任何地方的隧道一樣——預期月台邊緣會有短暫斷訊，而非整條系統沒訊號。
+
+### 開啟羅馬尼亞設定檔的正確時機是什麼？
+
+在家裡、用你自己的 Wi-Fi，在出發前一兩天——然後保持未啟用直到抵達 Bucharest。它在首次向羅馬尼亞網路註冊時才會喚醒，所以早裝沒有成本，而在長途飛行後的 Henri Coandă 機場才裝則有真實成本。
+
+### 我的本國門號在羅馬尼亞會繼續收簡訊嗎？
+
+會，而且鑑於現在有太多服務依賴發到熟悉門號的驗證碼，保留它值得。實體 SIM 處理通話與一次性密碼，數據交給 eSIM，並在出發前確認你的本國資費對漫遊語音的計價你能接受。
+
+### 羅馬尼亞的流量是全歐盟最便宜的——為什麼不直接買預付卡？
+
+當地預付卡是歐盟最便宜的流量，所以問題完全在時間而非價格。羅馬尼亞預付卡門號意味著一家店面、一本護照與一次身分登記，而且讓你整趟行程被綁在 Orange、DIGI 或 Vodafone 上。旅遊設定檔每 GB 貴一些，但能觸及全部三家，這也是為什麼對短於一個月的行程，[羅馬尼亞 eSIM](/romania-esim/) 是更好的答案。
+
+### 在多瑙河三角洲可以儲值嗎？
+
+可以，但要在出發前做好。儲值本身在業者的 App 裡只要幾分鐘，麻煩的是找到執行它的網路——三角洲正是那種額度在你察覺前幾天就悄悄耗盡的地方。另一段需要規劃的是喀爾巴阡山口，那裡每張網路的覆蓋都會轉薄。
+
+## 羅馬尼亞 eSIM 資料來源與解讀方式
+
+- **網路與縣市效能** — 出自 [Ookla 的 2025 年下半年羅馬尼亞報告](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)，提供 Orange、DIGI 與 Vodafone 的指標、十個城市中位數與縣市表格。
+- **羅馬尼亞目前的排名** — [羅馬尼亞在 Ookla 每月 Global Index 的頁面](https://www.speedtest.net/global-index/romania)。
+- **漫遊規則** — 正式載明於[歐盟執行委員會的 Your Europe 漫遊頁面](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm)。
+- **每 GB 0.54 美元的比較** — [Cable.co.uk 的全球調查](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)。
+- **市場規模** — [DataReportal, Digital 2025: Romania](https://datareportal.com/reports/digital-2025-romania)。
+- **實售預付卡資費** — 業者自己的網站：[Orange Romania](https://www.orange.ro/)、[Vodafone Romania](https://www.vodafone.ro/) 與 [DIGI](https://www.digi.ro/)，上述方案連同有效期都列在那裡。DIGI 自 2025 年 11 月起接手 Telekom Romania Mobile 的預付卡客群，這些資費因此全國販售。當來源在羅馬尼亞數據上不一致時，我們公布差距，而不是公布比較好看的數字。
+
+每個數字都是一次有日期的外部量測：用來比較市場很可靠，用來猜某個喀爾巴阡山口則沒用。
+
+## 選一張羅馬尼亞設定檔，輕裝上路
+
+當地預付卡是最便宜的路，但代價是跑一趟店面；旅遊設定檔用一點點節省換來在家完成一切。
+
+- [比較羅馬尼亞 eSIM 方案](/romania-esim/) — 純流量或無限
+- [從免費羅馬尼亞 eSIM 開始](/free-esim/) — 完全免費
+
+[挑選羅馬尼亞方案](/romania-esim/)
+
+*在家用 Wi-Fi 購買，落地瞬間即時可用*
+
+如果你想先試用再承諾，Roami 的[試用 eSIM](/free-esim/) 跑在本指南比較的相同網路上——包括當地網路。新 Roami 客戶還可以用 **WEB20** 讓付費的羅馬尼亞方案省 20%。

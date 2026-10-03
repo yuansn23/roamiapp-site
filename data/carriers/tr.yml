@@ -124,12 +124,6 @@ denmark:
   btn_text: "Danimarka Operatörleri"
   btn_url: "/carriers/denmark-esim-carrier-guide/"
 
-dominican:
-  title: "Dominik eSIM Operatör Rehberi"
-  desc_html: "Dominik'teki operatörler: Claro, Altice, Viva. eSIM özellik karşılaştırma tablosu."
-  btn_text: "Dominik Operatörleri"
-  btn_url: "/carriers/dominican-esim-carrier-guide/"
-
 dominican-republic:
   title: "Dominik Cumhuriyeti eSIM Operatör Rehberi"
   desc_html: "Dominik Cumhuriyeti'ndeki yaygın operatörler: Claro, Altice, Viva. eSIM kapsama alanı ve internet paylaşımı desteği bir bakışta."

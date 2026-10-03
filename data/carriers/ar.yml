@@ -124,12 +124,6 @@ denmark:
   btn_text: "مشغلو الدنمارك"
   btn_url: "/carriers/denmark-esim-carrier-guide/"
 
-dominican:
-  title: "دليل مشغلي eSIM في دومينيكا"
-  desc_html: "المشغلون في دومينيكا: Claro، Altice، Viva. جدول مقارنة ميزات eSIM."
-  btn_text: "مشغلو دومينيكا"
-  btn_url: "/carriers/dominican-esim-carrier-guide/"
-
 dominican-republic:
   title: "دليل مشغلي eSIM في جمهورية الدومينيكان"
   desc_html: "المشغلون الرئيسيون في جمهورية الدومينيكان: Claro، Altice، Viva. تغطية eSIM ودعم نقطة الاتصال في لمحة."

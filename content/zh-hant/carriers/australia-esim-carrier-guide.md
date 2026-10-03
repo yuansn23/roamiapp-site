@@ -1,288 +1,385 @@
 ---
-title: "澳洲 eSIM 怎麼選最划算？網路速度與覆蓋完整分析。"
-description: "需要澳洲的 eSIM？Roami 實測 Optus、Telstra 和 Superloop 的 5G 速度與覆蓋，根據旅行需求推薦最合適的方案。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 澳洲，預付數據，5G 網路，Optus，Telstra，Vodafone，Superloop，Speedtest，Ookla"
-site_name: "Roami"
-brand_name: "Roami"
+title: "澳洲 eSIM 電信業者怎麼選？Telstra、Optus、Vodafone 完整比較"
+description: "去澳洲旅遊，eSIM 要選 Telstra、Optus 還是 Vodafone？Roami 就城市 5G 網速、預付卡規則與區域斷訊風險評比三大電信業者，整理覆蓋地圖、資費比較與 APN 設定，幫你依路線挑出最穩定的澳洲 eSIM，內陸到海岸一路有訊號。"
+image: "img/esim/carriers/australia-esim-carrier-guide.jpg"
+date: "2026-09-27T22:51:39+00:00"
+keywords: 澳洲 eSIM 電信業者, Telstra eSIM, Optus eSIM, Vodafone eSIM, 澳洲 5G 覆蓋率, 澳洲 eSIM APN, eSIM 澳洲預付卡, 最佳澳洲 eSIM 業者, 澳洲旅遊 eSIM
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "澳洲 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇦🇺 旗幟] 澳洲 最新旅遊 eSIM 指南"
-hero_subtitle_main: "澳洲 eSIM：雙卡雙待裝置的理想搭檔"
-hero_subtitle_highlight: "Optus 與 Telstra 頂級 5G 覆蓋"
-hero_description_line1: "使用 澳洲 eSIM 體驗不中斷的高速網路。無需實體寄送，適合短期旅行與長期停留，提供多種彈性方案。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "澳洲 eSIM"
-hero_link_url: "/australia-esim/"
-tldr_summary: "【無限 5G 數據：多裝置共享，效率更高】根據 Ookla 2025 下半年報告，Optus 以中位下載 124.34 Mbps 奪得最快行動網路，5G 中位下載更達 199.92 Mbps。Telstra 則以 91.6% 一致性稱霸穩定度。Roami 澳洲 eSIM 讓您一卡多裝置共享，無需換卡，即時啟用，無論在雪梨、墨爾本或阿德雷德都能享受頂級連線。結論：選擇 Roami eSIM，就是選擇澳洲最快的 Optus 網路，搭配無限數據方案，效率翻倍。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "澳洲 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：澳洲 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "澳洲 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：澳洲 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 澳洲 eSIM 前須知"
-
-  - href: "#faq"
-    text: "澳洲 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "澳洲 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：澳洲 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Optus"
-    carrier_class: "text-orange-600"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，Optus 擁有最佳整體行動網路與 5G 網路，中位下載 124.34 Mbps，5G 中位下載 199.92 Mbps，最適合需要高速上傳下載的遠端工作者。"
-
-  - travel: "城市觀光客"
-    carrier: "Telstra"
-    carrier_class: "text-blue-600"
-    reason: "Telstra 以 91.6% 一致性得分領先，代表在市區與郊區都能維持穩定連線，適合頻繁使用地圖、社群媒體的旅客。"
-
-  - travel: "重度遊戲玩家"
-    carrier: "Optus"
-    carrier_class: "text-orange-600"
-    reason: "Optus 在 5G 遊戲體驗項目奪冠，低延遲與高速下載讓手遊、雲端遊戲流暢無阻。"
-
-  - travel: "固定寬頻替代者"
-    carrier: "Superloop"
-    carrier_class: "text-green-600"
-    reason: "Superloop 是澳洲最快固網 ISP，中位下載 274.98 Mbps，上傳 47.01 Mbps，適合需要穩定高速家用網路的長期停留者。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 澳洲 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "optus-esim"
-    title: "Optus eSIM 總覽：最快行動與 5G 網路"
-    best_for: "此方案絕對是最佳選擇，如果您追求極致下載速度與 5G 體驗。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，Optus 在 2025 下半年奪得最佳行動網路與最佳 5G 網路雙冠王。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，Optus 5G 中位下載速度達 199.92 Mbps，5G 中位上傳 12.95 Mbps，5G 延遲 29 ms。\n- **下載速度**：整體中位下載 124.34 Mbps，領先 Telstra 的 118.03 Mbps。\n- **上傳速度**：中位 9.8 Mbps。\n- **延遲**：整體最低延遲 32 ms。\n- **遊戲體驗**：最佳 5G 遊戲體驗。\n- **一致性**：5G 一致性 80.5%（25 Mbps 下載 / 3 Mbps 上傳門檻）。"
-    arcep_note: "經澳洲通訊及媒體管理局（ACMA）確認，Optus 持有全國性頻譜執照，並持續擴建 5G 基礎設施。"
-    connect_note: "啟用過程順暢，掃描 QR code 即可在數分鐘內開通，支援雙卡雙待，原門號仍可接收簡訊。"
-    user_scenarios: "- **[雪梨歌劇院與港灣大橋]**：在雪梨港邊使用 Optus eSIM 進行直播或視訊通話，根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，雪梨雖非最快城市，但 Optus 的 5G 低延遲確保流暢不卡頓。\n- **[墨爾本聯邦廣場與塗鴉巷]**：墨爾本固定寬頻中位下載 137.71 Mbps 為城市最快，搭配 Optus 行動網路，在巷弄間打卡上傳照片毫無壓力。\n- **[阿德雷德巴羅莎谷酒莊]**：阿德雷德擁有最快行動中位下載 155.65 Mbps，在郊區酒莊也能高速分享美酒佳餚。"
-    bg_color: "bg-orange-50"
-
-  - id: "telstra-esim"
-    title: "Telstra eSIM 總覽：最穩定的網路體驗"
-    best_for: "此方案絕對是最佳選擇，如果您需要最可靠的連線品質，尤其是在偏遠地區或鄉村。Telstra 擁有最高的整體一致性得分。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，Telstra 5G 中位下載 163.22 Mbps，5G 中位上傳未提供，5G 延遲未提供。\n- **下載速度**：整體中位下載 118.03 Mbps。\n- **上傳速度**：未提供。\n- **延遲**：未提供。\n- **遊戲體驗**：未提及。\n- **一致性**：整體一致性 91.6%（5 Mbps 下載 / 1 Mbps 上傳門檻），為市場最佳。"
-    arcep_note: "Telstra 為澳洲最大電信商，受 ACMA 監管，其網路覆蓋範圍最廣，包含內陸與偏遠地區。"
-    connect_note: "eSIM 啟用簡單，支援多數現代手機，可保留原門號接收驗證碼。"
-    user_scenarios: "- **[烏魯魯（艾爾斯岩）]**：在偏遠的北領地，Telstra 的廣泛覆蓋讓您能即時分享壯麗日落，避免斷訊。\n- **[大堡礁（凱恩斯）]**：出海前下載離線地圖，Telstra 的穩定訊號在碼頭與市區提供可靠連線。\n- **[塔斯馬尼亞搖籃山]**：山區健行時，Telstra 的一致性確保緊急通訊與導航不中斷。"
-    bg_color: "bg-blue-50"
-
-  - id: "vodafone-esim"
-    title: "Vodafone eSIM 總覽：最佳影片串流體驗"
-    best_for: "此方案絕對是最佳選擇，如果您熱衷於觀看串流影片、YouTube 或 Netflix。Vodafone 在影片串流體驗項目得分最高。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，Vodafone 未在速度項目領先，但影片串流得分 85.96 為市場最佳。\n- **下載速度**：未提供。\n- **上傳速度**：未提供。\n- **延遲**：未提供。\n- **遊戲體驗**：未提及。\n- **一致性**：未提供。"
-    arcep_note: "Vodafone 澳洲（現為 TPG Telecom 一部分）受 ACMA 監管，在城市地區提供具競爭力的服務。"
-    connect_note: "eSIM 啟用快速，支援雙卡，適合短期旅遊使用。"
-    user_scenarios: "- **[黃金海岸主題樂園]**：排隊時觀看串流影片打發時間，Vodafone 的最佳影片體驗讓緩衝次數降到最低。\n- **[雪梨邦迪海灘]**：躺在沙灘上追劇，享受流暢的影片串流。\n- **[墨爾本維多利亞市場]**：邊逛邊用手機看食譜影片，Vodafone 確保影片即點即播。"
-    bg_color: "bg-red-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 澳洲 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 澳洲 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 澳洲 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 澳洲 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段與裝置相容性"
-    content: "澳洲主要營運商使用以下頻段：\n- **5G**：n78 (3500 MHz) 為主流，n40 (2300 MHz)、n1 (2100 MHz) 輔助。\n- **4G**：B1 (2100 MHz)、B3 (1800 MHz)、B5 (850 MHz)、B7 (2600 MHz)、B28 (700 MHz)。\n購買 eSIM 前請確認您的裝置支援上述頻段，尤其是中國品牌手機可能缺少 B28，影響 Telstra 鄉村覆蓋。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "澳洲電信法規要求所有預付卡（含 eSIM）使用者完成身分驗證（KYC）。您需要提供護照資料頁照片或澳洲駕照，部分營運商可能要求自拍照。Roami 的 eSIM 已簡化流程，上傳護照後通常在 10 分鐘內完成審核。"
-
-  - heading: "3. 公平使用政策（FUP）與數據上限"
-    content: "多數「無限數據」方案設有公平使用門檻，例如每日超過 1.5GB 後降速至 1.5 Mbps。請仔細閱讀方案條款。Roami 的無限方案在每日 2GB 內提供全速，之後仍可繼續使用但速度較慢，適合一般社交媒體與地圖使用。"
-
-  - heading: "4. 網路覆蓋與城市差異"
-    content: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，阿德雷德行中位下載 155.65 Mbps 為行動最快城市，墨爾本固定寬頻最快（137.71 Mbps）。但偏遠地區如塔斯馬尼亞內陸、西澳沙漠，Telstra 覆蓋最佳。選擇 eSIM 時請考慮您的旅遊路線。"
-
-  - heading: "5. 雙卡雙待與熱點分享限制"
-    content: "澳洲 eSIM 普遍支援熱點分享，但部分方案可能限制分享速度或裝置數量。Roami 的 eSIM 允許最多 5 台裝置同時連接，且不影響原門號來電。請在購買前確認方案是否支援熱點。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：澳洲 最佳 eSIM"
-city_guide_desc: "了解哪款 澳洲 eSIM 是您目的地的最佳選擇，根據 Ookla 2025 下半年數據與城市特色。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "雪梨"
-    carriers: "Optus"
-    reason: "雪梨為國際門戶，Optus 的 5G 高速網路讓您在歌劇院直播、中央車站通勤時都能享受低延遲。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，雪梨雖非最快城市，但 Optus 整體表現最佳。"
-
-  - city: "墨爾本"
-    carriers: "Optus"
-    reason: "墨爾本擁有澳洲最快固定寬頻（137.71 Mbps），搭配 Optus 行動網路，無論在聯邦廣場、塗鴉巷或維多利亞市場，都能高速上傳與串流。"
-
-  - city: "阿德雷德"
-    carriers: "Optus"
-    reason: "阿德雷德行中位下載 155.65 Mbps 為行動最快城市，Optus 在此表現尤為突出，適合在巴羅莎谷酒莊或阿德雷德山區高速連線。"
-
-  - city: "布里斯本"
-    carriers: "Telstra"
-    reason: "布里斯本為通往黃金海岸與陽光海岸的門戶，Telstra 的一致性（91.6%）確保在郊區與海灘地帶穩定連線，適合家庭旅遊。"
-
-  - city: "伯斯"
-    carriers: "Telstra"
-    reason: "伯斯地處西澳，距離其他城市較遠，Telstra 的廣泛覆蓋在前往尖峰石陣、羅特尼斯島時提供可靠訊號，避免斷訊。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 澳洲 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在雪梨、墨爾本等大都會，使用 Optus eSIM 享受 5G 高速，輕鬆查詢地圖、預訂餐廳、上傳社群媒體。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，Optus 中位下載 124.34 Mbps，讓您秒開網頁。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往烏魯魯、大堡礁或塔斯馬尼亞荒野，Telstra eSIM 提供最穩定的連線（一致性 91.6%），確保導航與緊急通訊不中斷。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "沿著大洋路或內陸公路自駕，Telstra 的廣泛覆蓋讓您隨時查詢路況、播放音樂。搭配 Roami 多裝置共享，同行親友皆可連線。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在黃金海岸、邦迪海灘或白天堂沙灘，Vodafone eSIM 提供最佳影片串流體驗（得分 85.96），讓您躺在沙灘上追劇不卡頓。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "澳洲 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "在 澳洲 主要城市，晚間尖峰時段網速是否明顯變慢？"
-    a: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，澳洲主要城市如雪梨、墨爾本在晚間尖峰時段（19:00-22:00）可能出現速度下降，但 Optus 與 Telstra 的網路容量充足，通常降幅在 10-20% 以內。Roami 使用的 Optus 網路在尖峰時段仍能維持 100 Mbps 以上下載，觀看 4K 影片或視訊會議不受影響。"
-
-  - q: "我可以使用 澳洲 eSIM 透過 WhatsApp、WeChat 或 FaceTime 進行語音或視訊通話嗎？"
-    a: "可以。澳洲 eSIM 提供完整數據連線，支援所有 VoIP 應用程式。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，Optus 的低延遲（32 ms）與高速下載確保視訊通話清晰流暢。Roami 的 eSIM 不封鎖任何通訊軟體，您可自由使用 WhatsApp、WeChat、FaceTime 等。"
-
-  - q: "如果在旅途中 澳洲 eSIM 的數據用量用完，我可以輕鬆加購嗎？"
-    a: "可以。Roami 提供線上加購功能，透過官方網站或 App 即可在數分鐘內購買額外數據包，無需更換 eSIM。加購後立即生效，不影響原有服務。建議出發前先購買足夠方案，避免臨時加購的延遲。"
-
-  - q: "澳洲 eSIM 是否適合線上遊戲，平均網路延遲（ping）為何？"
-    a: "適合。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，Optus 提供最佳 5G 遊戲體驗，5G 延遲僅 29 ms，整體延遲 32 ms，足以流暢遊玩《原神》、《傳說對決》等即時對戰遊戲。Telstra 與 Vodafone 的延遲也普遍在 30-40 ms 之間。Roami 的 eSIM 使用 Optus 網路，遊戲體驗極佳。"
-
-  - q: "當多個裝置同時連接 澳洲 eSIM 熱點時，網速是否會下降？"
-    a: "會。熱點分享會將頻寬分配給所有連線裝置，導致單一裝置速度下降。例如 Optus 中位下載 124.34 Mbps，若 5 台裝置同時使用，每台約可獲得 25 Mbps，仍足以應付 HD 串流與網頁瀏覽。Roami 的 eSIM 支援最多 5 台裝置，建議重度使用時限制連線數量以維持速度。"
-
-# 迷思
-myths_title: "⚠️ 澳洲 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "迷思：澳洲所有營運商的 5G 速度都差不多。"
-    truth: "事實：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，Optus 的 5G 中位下載 199.92 Mbps，遠高於 Telstra 的 163.22 Mbps，差距達 22%。選擇營運商會顯著影響體驗。"
-
-  - myth: "迷思：Telstra 在每個地方都是最快的。"
-    truth: "事實：Telstra 以一致性（91.6%）聞名，但速度上 Optus 整體更快（124.34 vs 118.03 Mbps）。在阿德雷德，Optus 甚至達到 155.65 Mbps 中位下載。"
-
-  - myth: "迷思：eSIM 比實體 SIM 卡慢。"
-    truth: "事實：eSIM 與實體 SIM 卡使用相同的網路基礎設施，速度無差異。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)，eSIM 用戶同樣能享受 Optus 的 5G 高速。"
-
-  - myth: "迷思：無限數據方案永遠不會降速。"
-    truth: "事實：多數無限方案設有公平使用政策（FUP），例如每日超過 2GB 後降速。Roami 的無限方案在每日 2GB 內提供全速，之後降速至 1.5 Mbps，仍可傳訊息與使用地圖。"
-
-  - myth: "迷思：在偏遠地區，所有營運商都收不到訊號。"
-    truth: "事實：Telstra 的覆蓋範圍最廣，在烏魯魯、塔斯馬尼亞內陸等偏遠地區仍有訊號。Optus 與 Vodafone 在這些區域可能無服務。選擇 eSIM 時請依旅遊路線決定。"
-
-# 數據來源
-data_sources_title: "澳洲 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據，涵蓋 2025 年 7 月至 12 月澳洲行動與固定網路效能分析，包含下載速度、上傳速度、延遲、一致性與遊戲體驗等指標。"
-
-  - name: "OpenSignal 2025 年 12 月報告"
-    description: "OpenSignal 的澳洲行動網路體驗報告，提供 5G 可用性、下載速度體驗、影片體驗等獨立分析，與 Ookla 數據互為補充。"
-
-  - name: "澳洲通訊及媒體管理局（ACMA）2025 年頻譜與覆蓋報告"
-    description: "ACMA 發布的澳洲電信市場統計，包含營運商頻譜持有、覆蓋義務與消費者權益資訊，確保數據的官方權威性。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已標註來源。實際體驗可能因裝置、地點、時間與網路負載而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查閱最新覆蓋地圖，並選擇符合需求的方案。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 澳洲 eSIM"
-cta_desc: "即時存取 Optus 最快 5G 網路，無需換卡，掃碼啟用。選擇 Roami，享受高速穩定的澳洲連線。"
-cta_button_text: "立即購買 澳洲 eSIM"
-cta_button_link: "/australia-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "澳洲 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 澳洲 eSIM 指南
+  url: ''
+hero_badge: "澳洲電信業者對決：2026 數據"
+hero_subtitle_main: "以獨立測速數據打造的 2026 業者比較"
 ---
+
+
+選擇澳洲 eSIM，其實是在三張全國性網路之間做選擇——而它們之間的差距，隨著你離開海岸的每一公里而不斷擴大——本指南為你標出哪一張吻合你的路線。澳洲的三張全國性網路並不能互換，而它們之間的差距，會隨著你把自己與海岸之間的距離每增加一公里而擴大，因為這片大陸大部分是空的。在 Ookla 的 2025 下半年澳洲報告中，**Optus** 被評為全國最佳行動網路（Best Mobile Network）和最佳 5G 網路（Best 5G Network）。同一份報告中公布的業者層級圖表數據完整涵蓋了 **Vodafone**，其一致性分數（Consistency Score）為 86.4，5G 可用率為 82.5。**Telstra** 在這個資料集中沒有贏得正對決的速度獎項，但它擁有最大的地理足跡——這對任何要離開海岸的人來說，都是最重要的一個事實。這也是為什麼正確的選擇會隨路線而變：海港城市小住與長途區域自駕，很少需要同一張網路。
+
+**快速解答：**在這場比較中，Telstra 以原始覆蓋領先，Optus 以性價比領先——而且停留越久，差距越窄。下方的路線會顯示反轉發生在哪裡。你也可以用 Roami 的[樣本 eSIM](/free-esim/) 親自試用澳洲設定。
+
+如果基本問題還沒有答案——我的手機支援 eSIM 嗎、啟用過程中實際會發生什麼——[手機相容性檢測](/compatibility/)和 [eSIM 啟用機制](/faq/what-is-esim-activation-and-how-does-it-work/)會回答兩者。本頁把問題聚焦在一件事上：哪家業者值得你付錢。
+
+**一段話版本的答案：**留在雪梨、墨爾本、布里斯本、伯斯或阿得雷德？Optus 拿下了 Ookla 的最佳 5G 網路獎，在有訊號之處最快，而 Telstra 在城市裡同樣強勁、5G 人口覆蓋更廣。在城市之間開長途區域路線？只有 Telstra 保得住可用訊號，而且有些地方連它也是時斷時續，所以衛星通訊器在那裡勝過任何 eSIM。身為訪客想要業者 eSIM？三家都賣預付 eSIM，但每一張都依澳洲的預付實名法要求護照，而且沒有一家給你多網路覆蓋。或者跳過這些手續：[免費試用方案](/free-esim/)零成本測試各網路，並以優惠碼 **WEB20** 為[澳洲預付 eSIM 方案](/australia-esim/)省下 20%。
+
+## 本地電信業者：Telstra、Optus 與 Vodafone
+
+三張網路運行澳洲，而一長串平價品牌騎在它們的基地台上。第一張表是本頁最重要的內容，因為它顯示：三張全國性業者確實都賣訪客可買的預付 eSIM，但每一張都把你鎖在單一網路上，而且都先要你的護照。
+
+### Telstra 與 Optus：在澳洲哪個更好？
+
+| | Telstra | Optus | Vodafone |
+|:---|:---|:---|:---|
+| 訪客 eSIM 可得性 | 可以，透過 My Telstra App 購買觀光 eSIM | 可以，Optus 官網上的 Flex Plus Traveller eSIM | 可以，門市或 Vodafone App 上的預付 eSIM |
+| 突出優勢 | 最大地理足跡，內陸（Outback）與鄉村觸及最佳 | Ookla 2025 下半年最佳行動網路與最佳 5G 網路 | 最便宜的預付入門，n78 頻段上的強勁都會 5G |
+| 上網最便宜的方式 | 7 天 3 GB，13 澳元 | 1 天 3 GB 5 澳元，或 5 天 15 GB 20 澳元 | 28 天 30 GB，40 澳元（持續性方案，2026 年 4 月起） |
+| 訪客如何購買 | ★★★ App 或門市，需護照 | ★★★ App 或機場門市，需護照 | ★★ App 或門市，需護照 |
+
+**最重要的那個事實在最後一行：**三家全國性業者都賣訪客可購買的預付 eSIM，但沒有任何一張是隨到隨辦的匿名購買。自《2017 年電信（服務提供商——預付行動承載服務身分查核）裁定》（Telecommunications (Service Provider — Identity Checks for Prepaid Mobile Carriage Services) Determination 2017）以來，澳洲就要求在預付行動服務啟用前完成身分驗證，由 ACMA 執行。你會出示護照，而且你會被綁在一張網路上。你一離開城市，那唯一一張網路就是你的 eSIM 唯一看得見的網路。
+
+### 澳洲的平價流量方案
+
+澳洲的平價層級是訪客找到更便宜預付 eSIM 的地方，形式可能是業者的副品牌，或是向三巨頭之一租用網路容量的品牌。
+
+| 品牌 | 運行的網路 | eSIM | 適合誰 |
+|:---|:---|:---|:---|
+| Boost Mobile | 完整 Telstra 網路 | 有 | 區域公路旅行，因為它是唯一擁有完整足跡的 Telstra 經銷商 |
+| amaysim | Optus | 有 | 城市與沿海的便宜 Optus 覆蓋 |
+| felix Mobile | Vodafone | 有 | 以城市為基地的停留，無限數據 |
+| Lebara | Vodafone | 有 | 打往歐洲和亞洲的國際電話組合包 |
+| Kogan Mobile | Vodafone | 有 | 加送流量的預算型長期停留 |
+| Everyday Mobile (Woolworths) | Telstra Wholesale | 有 | 便宜，但鄉村觸及略遜於完整 Telstra |
+
+有兩個警告比省下的錢更有價值。第一，大多數 Telstra 經銷商騎在 Telstra Wholesale 網路上，它的覆蓋範圍小於 Telstra 和 Boost Mobile 使用的完整 Telstra 網路，所以它們會在 Optus 和 Vodafone 變薄的同樣地方變薄。第二，這些品牌的預付方案都停留在單一網路上。你在 amaysim 上得到的是 Optus 的基地台，別無其他——當你把車開到海岸以西時，這就很關鍵了。
+
+### 可以向 Telstra 購買澳洲 eSIM 嗎？
+
+| | 直接向澳洲業者購買 | 澳洲網路上的旅遊 eSIM |
+|:---|:---|:---|
+| 你需要什麼 | 護照做身分驗證；某些路線需要澳洲地址 | 一支相容、已解鎖的手機 |
+| 設定檔如何送達 | App 內啟用、店內設定，或業者 QR code | 結帳後立即透過 QR code 或 App 安裝 |
+| 典型 28 天成本 | 依業者不同，25 到 70 GB 約 35 到 55 澳元起 | 一個一次付清的固定價格，無 SIM 費、無護照 |
+| 網路存取 | 一家業者，你買的那家 | 在 Telstra、Optus 和 Vodafone 之間自動切換 |
+| 證件規則 | 啟用前以政府身分證件核對護照 | 旅遊 eSIM 在結帳時上傳護照 |
+| 最適合 | 停留一個月以上，或需要澳洲門號的人 | 數天到數週的行程，以及想一落地就上線的人 |
+
+對一般假期而言，價差並不接近。業者預付方案是為想要澳洲門號的居民設計的，而旅遊 eSIM 以批發價購買數據，讓裝置在網路之間移動。業者勝出的地方在長期和語音——真正的本地門號和無限國內通話——只有當你住在澳洲或停留打工度假時才重要。
+
+💡 多網路 eSIM 設定檔是實用的中間路線：[Roami 的澳洲 eSIM](/australia-esim/) 保留了即時交付的便利，在 Telstra、Optus 和 Vodafone 之間自動切換，還能讓你不用買兩次就在內陸落在 Telstra、在城市落在 Optus。
+
+## 你的手機能用嗎？
+
+三件事決定你的手機能否在澳洲業者上運作：它的頻段、鎖定狀態，以及一小串裝置特有的怪癖。三件事都在下方涵蓋，其中兩件在澳洲比在幾乎任何地方都重要，因為這個國家已經關閉 3G，而且有巨大的斷訊區。
+
+### 哪些裝置可以使用澳洲 eSIM？
+
+澳洲業者把 5G 建在特定頻段上，而這個分配決定了你看到的是 5G 還是只有 4G。三張全國性網路都以 **3500 MHz 的 n78** 作為主要 5G 頻段，所以幾乎任何現代外國 5G 手機都能連上。**Telstra** 加上了低頻 **850 MHz 的 n5** 以延伸鄉村 5G，**Optus** 加上 **2300 MHz 的 n40** 提供額外的中頻容量，而 **Vodafone** 則專注於 n78 並有部分 700 MHz 的 n28。沒有 n78 的手機仍可用 4G——在城市裡很快，在內陸則令人沮喪。
+
+有一個與 5G 無關的澳洲專屬陷阱。這個國家已完全關閉 3G 網路，所以手機必須支援 **VoLTE** 才能撥打電話，也才能在網路上註冊。只支援 3G 的舊手機，即使有覆蓋也會顯示無服務。請以你的確切型號——型號而非行銷名稱——對照[相容性頁面](/compatibility/)檢查。至於購買決定之前的原理，[手機載入 eSIM 設定檔時會發生什麼](/faq/what-is-esim-activation-and-how-does-it-work/)有完整說明。
+
+### 你的手機與澳洲網路相容嗎？
+有鎖的手機是 eSIM 安裝直接失敗最常見的原因，而澳洲在這裡的規則明確但並不統一。與某些每支手機都有鎖的市場不同，在澳洲以全額價出售的大多數手機本來就是解鎖的。Telstra、Optus 和 Vodafone 的月約手機一般以解鎖狀態出售，而搭預付新手包販售的手機則可能鎖定在該業者。
+
+依《電信消費者保護規範》（Telecommunications Consumer Protections Code），一旦任何合約或最低期限屆滿，業者必須免費解鎖裝置。對仍在鎖定狀態的預付裝置，業者會依服務已啟用多久收取遞減費用：Telstra 在使用未滿六個月時約收 80 澳元、六個月至兩年之間收 25 澳元、兩年之後免費；Optus 採類似標準；Vodafone 在六個月內約收 50 澳元、之後 25 澳元。實用的建議是：起飛前先查清楚。
+
+**檢查它：**iPhone → 設定 → 一般 → 關於本機 → 電信鎖（較新的 iOS 上標為服務提供商鎖）。顯示「No SIM restrictions」表示手機已就緒。顯示「SIM locked」表示在任何解鎖完成之前，第三方設定檔都無法安裝。
+
+**修復它：**要求提供手機的網路解鎖。已繳清的月約裝置通常一兩天內就會解鎖，且一旦期限符合就不收費。只有在解鎖之後才嘗試安裝 eSIM。
+
+如果你買的是二手機，或預付方案綁約機，就假設它可能有鎖並在起飛前確認。完整細節在[聯邦立法登記冊](https://www.legislation.gov.au/Details/F2017L01514)上，該處發布 ACMA 就預付身分與解鎖所執行的裁定。
+
+### 澳洲 eSIM 的 IMEI 與 EID 檢查
+
+| 裝置 | 症狀 | 該怎麼做 |
+|:---|:---|:---|
+| 在澳洲預付方案上購買的手機 | 鎖定在一家業者，eSIM 安裝失敗 | 申請解鎖；前六個月內可能收費 |
+| 不支援 VoLTE 或僅 3G 的手機 | 無法註冊、無法通話、「無服務」 | 澳洲已無 3G；啟用 VoLTE 或換較新的手機 |
+| 缺少 n78 頻段的外國手機 | 只有 4G，永遠不顯示 5G | 符合預期；4G 在城市裡仍然很快 |
+| 中國大陸版 iPhone 機型 | 完全沒有「加入 eSIM」選項，硬體被停用 | 無法修復；改用實體 SIM 或其他裝置 |
+| 雙 SIM 使用者 | eSIM 已安裝但沒有數據 | 把 eSIM 設為行動數據使用的線路 |
+
+除了這些情況，問題出在手機而不是澳洲網路。在訂下一個你用不了的方案之前，把你的確切型號輸入 [eSIM 相容性頁面](/compatibility/)。
+
+## 哪個方案每一塊錢換到最多數據？
+
+有三條路線，它們的差異更多在價格和手續而非技術：Telstra 給最廣的觸及、Optus 給得獎的 5G 網路，Vodafone 給最便宜的城市數據。以下逐條路線、逐步驟說明，而且每一條都要護照。
+
+### 澳洲 eSIM：哪裡買
+
+當你的行程離開人口稠密的海岸，Telstra 就是該選的業者，而且它販售訪客可購買的預付觀光 eSIM。Telstra 的觀光 eSIM 從 7 天到 12 個月不等，所有方案都包含澳洲國內無限通話和簡訊。
+
+**Telstra 觀光 eSIM，逐步驟：**
+
+1. 下載 My Telstra App 或開啟 Telstra 官網，選擇預付觀光方案。短期入門是 7 天 3 GB，13 澳元。
+2. 結帳時選擇 eSIM 而不是實體 SIM。eSIM 設定檔不加收費用。
+3. 連上 Wi-Fi 並依提示安裝設定檔。App 會帶你完成線路命名和開啟數據漫遊。
+4. 身分驗證使用你的護照，在服務啟用前於 App 內完成。觀光方案不需要澳洲地址。
+
+如果紅中心（Red Centre）、納拉伯平原（Nullarbor）或西澳偏遠地區是行程的一部分，Telstra 的預付 eSIM 就是正確選擇，因為它的足跡是唯一真正觸及那些地方的。
+
+| 方案長度 | 數據 | 國內通話 | 價格（澳元） |
+|:---|:---|:---|:---|
+| 7 天 | 3 GB | 無限 | 13 |
+| 28 天 | 15 GB 至 70 GB | 無限 | 39 至 69 |
+| 6 個月 | 70 GB | 無限 | 180 |
+| 12 個月 | 165 GB | 無限 | 350 |
+
+價格是具代表性的觀光方案數字且會變動；購買前請在 Telstra 官網核對目前的層級。
+
+### 在澳洲本地購買對上選擇旅遊 eSIM
+
+Optus 是在 2025 下半年拿下 Ookla 澳洲最佳行動網路與最佳 5G 網路獎的業者，並販售為短期造訪打造的 Flex Plus Traveller eSIM。這些方案支援 5G，並有 SIM 和 eSIM 兩種格式。
+
+**Optus Flex Plus Traveller eSIM，逐步驟：**
+
+1. 到 Optus 官網或 Optus 機場門市（雪梨、墨爾本、布里斯本、伯斯和阿得雷德都有）挑選 Traveller 方案。
+2. 結帳時選擇 eSIM。最短的選項是 1 天 3 GB，5 澳元。
+3. 在 Wi-Fi 上安裝設定檔並設為你的數據線。較大方案的速度上限為 150 Mbps，串流和地圖都夠用。
+4. 在啟用步驟驗證你的護照。Optus 不會在沒有身分查核的情況下把這些方案賣給訪客。
+
+| 方案長度 | 數據 | 國內與國際通話 | 速度 | 價格（澳元） |
+|:---|:---|:---|:---|:---|
+| 5 天 | 15 GB | 國內無限、標準國際無限 | 上限 150 Mbps | 見 Optus 官網 |
+| 14 天 | 45 GB | 國內無限、標準國際無限 | 上限 150 Mbps | 約 35 |
+| 28 天 | 70 GB | 國內無限、標準國際無限 | 無上限 | 約 45 |
+
+注意 45 GB 和 70 GB 方案只在前三次儲值給足額度，之後回落到較小的標準量。請在 Optus 官網核對目前的優惠。
+
+### 澳洲 eSIM 方案，標好價格
+
+Vodafone 是預算之選，在首都城市最強，一離開城市就最弱。它販售訪客可在門市或透過 My Vodafone App 啟用的預付 eSIM，而且通常是在城市停留時持有澳洲門號最便宜的方式。
+
+**Vodafone 預付 eSIM，逐步驟：**
+
+1. 造訪 Vodafone 門市或 Vodafone 官網並選擇預付方案。自 2026 年 4 月起，持續性 28 天預付方案為 30 GB 40 澳元。
+2. 結帳時選擇 eSIM。實體 SIM 價格相同，所以選擇數位版沒有任何代價。
+3. 在 Wi-Fi 上安裝設定檔，並為 eSIM 線路開啟數據漫遊。
+4. 用護照完成身分驗證。Vodafone 適用與其他兩家業者相同的 2017 年裁定查核。
+
+Vodafone 也擁有 TPG 和 Lebara 品牌，並依網路共享協議與 Optus 共用網路基礎設施，這拓寬了它的實際覆蓋，但它在 Ookla 2025 下半年數據中自行公布的 5G 可用率為 82.5，是三者中該指標最低的。對便宜的雪梨或墨爾本行程而言它是正確選擇，對長途區域自駕則不是。
+
+### 付錢購買澳洲 eSIM 前該處理好的事
+- **IMEI** — 撥 `*#06#`
+- **EID** — 也在 `*#06#` 畫面上；這是 eSIM 自己的識別碼
+- **護照** — 依預付實名法，每一家澳洲業者都要求
+- **一張在澳洲能用的卡** — 某些業者結帳會拒絕外國帳單地址
+- **Wi-Fi** — 起飛前安裝設定檔，不要在機場才裝
+- **一支已解鎖的手機** — 確認電信鎖顯示 No SIM restrictions
+
+## 業者格局
+
+兩個因素決定接下來的內容：你旅遊之地的量測速度，以及你進行的是什麼類型的旅程。下方的業者結果涵蓋原始性能，行程表格涵蓋適配度。
+
+### 在澳洲營運的業者
+
+下方所有業者層級數據都來自 Ookla 的澳洲 Speedtest 連線報告，蒐集期間為 2025 年 7 月至 12 月。該報告將 **Optus** 評為全國最佳行動網路與最佳 5G 網路。此資料集中公布的詳細逐業者圖表數據完整涵蓋 **Vodafone**，而那些是這裡唯一重現的業者層級分數，以確保沒有任何數字被四捨五入或憑空捏造。
+
+| 指標 | Vodafone（2025 下半年） |
+|:---|:---|
+| Speedtest 連線分數 | 76.09 |
+| 速度分數 | 61.8 |
+| 一致性分數 | 86.4 |
+| 5G 可用率 | 82.5 |
+| 影片串流分數（行動） | 85.85 |
+| 遊戲分數 | 83.35 |
+| 五星評分 | 2.81 |
+| 影片串流分數（固網 ISP） | 83.88 |
+
+來源：Ookla Speedtest 連線報告 — 澳洲，2025 年 7 月至 12 月，[逐業者報告](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)。一致性分數反映達到 5 Mbps 下載與 1 Mbps 上傳門檻的樣本比例。Vodafone 的 5G 可用率 82.5 意味著約五分之四的樣本掛載到 5G。同一份報告的頭條獎項由 Optus 拿下最佳行動網路與最佳 5G 網路。
+
+在該資料集未公布 Telstra 或 Optus 正對決速度數據之處，誠實的立場是：三者之間的區別因素是地理覆蓋，而不是原始城市速度。至於全國整體的脈絡，Ookla 的 [Speedtest Global Index](https://www.speedtest.net/global-index/australia) 顯示，澳洲的行動下載中位數在 2026 年 8 月約為 121 Mbps，全球排名第 37，延遲 20 ms。Cable.co.uk 把 1 GB 澳洲行動數據定價在約 0.44 美元，237 個市場中第 39 名，所以相較於北美或歐洲，本地數據是便宜的。
+
+### 依旅程型態選最佳澳洲 eSIM
+
+| 旅程 | 最合適的業者 | 原因 | 要注意什麼 |
+|:---|:---|:---|:---|
+| 城市小住：雪梨、墨爾本、布里斯本、伯斯、阿得雷德 | Optus 或 Telstra | 兩者都強；Optus 拿下 Ookla 最佳 5G 獎，Telstra 5G 人口覆蓋最廣 | 大型體育場和活動園區的壅塞 |
+| 內陸、紅中心、烏魯魯、愛麗斯泉 | Telstra | 最大地理足跡，唯一可靠的內陸訊號 | 連 Telstra 都有缺口；攜帶離線地圖 |
+| 橫越納拉伯平原 | Telstra，或衛星裝置 | 唯一有任何訊號的業者，且時斷時續 | 數百公里無覆蓋；個人定位信標才是真正的安全工具 |
+| 預算型城市停留 | Vodafone | 最便宜的預付，n78 頻段上強勁的都會 5G | 一離開城市就變弱 |
+| 大堡礁或島嶼行程 | Telstra | 最佳沿海和城鎮覆蓋 | 船隻離岸約 10 公里外失去訊號 |
+| 跨區域公路旅行 | 多網路 eSIM | 隨移動自動切換 | 單一業者方案在區域之間出現缺口 |
+| 打工度假或長期停留 | Telstra 或 Boost（完整 Telstra） | 澳洲門號、完整鄉村觸及 | 月費高於 Vodafone |
+
+### Telstra 與 Optus：覆蓋比較
+
+澳洲的覆蓋跟著海岸走：人們居住之處密集，往內陸迅速變薄，在偏遠中心和遙遠的西部消失。逐條路線來看，這意味著：
+
+| 州或領地 | 實際情況 |
+|:---|:---|
+| 新南威爾斯 | 雪梨和海岸在三家都極佳。一旦離開高速公路，藍山和內陸路線會迅速失去 Vodafone 和 Optus。 |
+| 維多利亞 | 墨爾本極佳；大洋路全程 Telstra 持續、Optus 沿海岸、Vodafone 只在城鎮之間。 |
+| 昆士蘭 | 布里斯本、黃金海岸和凱恩斯良好。凱恩斯以北的沿海公路有缺口，大堡礁船隻離岸約 10 公里外失去訊號。 |
+| 南澳 | 阿得雷德強勁。從奧古斯塔港以東往北領地邊界方向，以及橫越納拉伯平原，Optus 和 Vodafone 長距離消失；只有 Telstra 時斷時續。 |
+| 西澳 | 伯斯良好。納拉伯橫越線是數百公里無訊號、僅 Telstra 時斷時續，而金伯利和偏遠路徑常常完全沒有。 |
+| 塔斯馬尼亞 | 荷巴特、朗塞斯頓和主要路線上不錯。偏遠內陸和西海岸即使 Telstra 也時好時壞。 |
+| 北領地 | 只有達爾文、愛麗斯泉和烏魯魯有覆蓋。紅中心靠 Telstra 撐住；Optus 和 Vodafone 在城鎮之間長距離消失。 |
+| 澳洲首都特區 | 坎培拉在三張網路上都強勁。 |
+
+在規劃離開澳洲的路線嗎？先看[紐西蘭 eSIM](/new-zealand-esim/)、比較[斐濟 eSIM 方案](/fiji-esim/)，或參考[新加坡 eSIM](/singapore-esim/)。如果你的行程涵蓋區域內多個國家，一張[大洋洲](/oceania-esim/)方案能省下買兩次的錢。
+
+跨網路的自動選網正是優勢所在。一張能在 Telstra、Optus 和 Vodafone 之間移動的設定檔，涵蓋了任何單一業者方案都無法涵蓋的區域缺口，而且這是橫越澳洲海岸到海岸公路旅行中保持連線的唯一方法。
+
+## 可用的 APN 數值
+
+大多數旅人從不打開 APN 畫面，然而當數據卡住時，它卻是第一個值得查看的地方。以下涵蓋各業者的數值、真正需要手動輸入的情況，以及各平台的選單路徑。
+
+### Telstra、Optus 與 Vodafone eSIM 的 APN 數值
+
+只有當你直接向澳洲業者購買了 SIM 或 eSIM 時才會需要這些。在旅遊 eSIM 上，設定檔自帶 APN，所以別動那些設定。
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| Telstra | `telstra.internet` | 留空 | 留空 |
+| Optus | `yesinternet` | 留空 | 留空 |
+| Vodafone | `live.vodafone.com` | 留空 | 留空 |
+
+使用者名稱和密碼保持空白。Telstra 對它的 APN 字串很嚴格：必須全小寫且無空格。如果某業者要求其他數值，你的設定檔隨附的啟用說明會寫明。
+
+### 澳洲 APN 設定，逐業者說明
+
+- 較舊的手機，不會自動接收業者設定
+- 以手動啟用碼而非掃描 QR code 安裝的設定檔
+- 業者發行的預付 eSIM，自動配置沒有執行
+- 旅遊 eSIM 上幾乎不需要——這正是託管型設定檔的意義
+
+### 澳洲：當 APN 無法自動載入時
+- **iPhone：**設定 → 行動網路（Cellular）→ 點選 eSIM 線路 → 行動數據網路（Cellular Data Network）→ 輸入 APN
+- **Android：**設定 → 連接（Connections）→ 行動網路（Mobile Networks）→ 存取點名稱（Access Point Names）→ 新增一筆 APN
+
+儲存後重新啟動手機。如果數據仍然不通，在更改其他任何東西之前，先確認數據線指向的是 eSIM 而不是你家 SIM。
+
+## 安裝與排解澳洲 eSIM 故障
+
+把這一節讀一遍，就能從乾淨安裝走到可用連線，並走過澳洲網路真正會產生的故障模式——按照你遇到它們的順序。
+
+### eSIM 裝入前的四項檢查
+| # | 檢查項目 | 「良好」的樣子 |
+|:---|:---|:---|
+| 1 | 手機沒有電信鎖 | 關於本機畫面顯示電信鎖：「No SIM restrictions」 |
+| 2 | 手機支援 eSIM 和 VoLTE | `*#06#` 顯示 EID，且手機不是僅 3G |
+| 3 | QR code 和啟用碼已保存 | 截圖同時存在手機和雲端空間 |
+| 4 | 設定檔在出發前已安裝 | 在家於 Wi-Fi 上安裝；設定檔在你落地時連線 |
+| 5 | 數據線與漫遊已設定 | eSIM 被選為行動數據、數據漫遊已開啟 |
+
+第四步請在家裡做。雪梨、墨爾本和布里斯本到達大廳的 Wi-Fi，恰恰在你最需要的時候最擁擠，而在地上才安裝的設定檔得和所有人的搶頻寬。
+
+### 安裝你的 eSIM
+
+掃描加命名的流程在三張澳洲網路上完全相同；改變的是護照查核發生在哪裡，以及最終由哪個 App 擁有這條線路。通用的安裝流程——從加入 eSIM 到啟用漫遊——在我們的[啟用操作指南](/faq/how-to-activate-an-esim/)中，所以以下只列差異之處：
+
+- **Telstra：**在 My Telstra App 中啟用；結帳時選 eSIM，並在 App 內驗證護照
+- **Optus：**從 Optus 官網或機場門市以 Flex Plus Traveller 方案啟用；啟用時驗證護照
+- **Vodafone：**在門市或透過 My Vodafone App 啟用；附護照查核的預付 eSIM
+- **平價品牌：**Boost、amaysim、felix、Lebara 和 Kogan 各自在自家 App 內於宿主網路上啟用
+- **旅遊 eSIM：**以 QR code 安裝，同一組設定檔漫遊到 Telstra、Optus 或 Vodafone 中訊號最強者
+
+### eSIM 無法連線的四種修復
+
+一般啟用錯誤、無法下載的設定檔、失敗的掃描、裝好了卻永遠不註冊的 eSIM，都在我們的 [eSIM 啟用修復指南](/faq/esim-activation-errors-troubleshooting-guide/)中。以下四種模式是澳洲特有的，而前三種直接源自這個國家的地理。
+
+**A. 在納拉伯、紅中心或偏遠路徑上沒有訊號**
+1. 這是預期行為，不是故障。只有 Telstra 觸及這些地方，而且連它也是時斷時續。
+2. 如果你的設定檔允許，在網路選擇中手動把 eSIM 切到 Telstra。
+3. 在離開最後一個有訊號的城鎮之前下載離線地圖。在無覆蓋之處遇到危及生命的緊急情況，正確的工具是已註冊的個人定位信標，而不是手機。
+
+**B. 已安裝，但在城市裡沒有訊號格**
+1. 重新檢查鎖定狀態，並確認 eSIM 已啟用。
+2. 設定 → 行動網路（Cellular）→ 網路選擇 → 手動選擇 Telstra、Optus 或 Vodafone，而不是自動。
+3. 完整重置網路設定，然後再重開機一次。
+
+**C. 有訊號格，但沒有網路**
+1. 將 APN 與本節稍早的業者表格交叉核對。
+2. 驗證數據已路由到 eSIM，而不是你家 SIM。
+3. 檢查你是否已用完數據額度；預付方案會停止或限速，而不是收取超量費。
+
+**D. 「SOS」或「僅限緊急電話」**
+1. 必須在 SIM 管理員中把 eSIM 開啟。
+2. 停用或刪除任何其他可能衝突的有效 SIM 或 eSIM 設定檔。
+3. 重新開機並重置網路設定。
+4. 最後手段：移除設定檔，用一組全新的 QR code 重新安裝。
+
+### 聯絡 Optus、Telstra 或你的 eSIM 供應商前該準備什麼
+| 資訊 | 在哪裡找到 |
+|:---|:---|
+| 訂單或帳戶號碼 | 確認郵件 |
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+| EID | `*#06#` |
+| 錯誤截圖 | 趁畫面還沒變之前先截 |
+| 目前的 APN 設定 | 設定 → 行動數據網路（Cellular Data Network） |
+| 數據漫遊狀態 | 設定 → 行動網路（Cellular）→ 你的 eSIM 線路 |
+| 已嘗試過的步驟 | 做一份簡短的清單 |
+
+## 你的澳洲業者 eSIM 問與答
+
+### 給訪客的 Telstra eSIM 方案
+
+可以。Telstra 透過 My Telstra App 和門市販售預付觀光 eSIM，方案從 7 天 3 GB 13 澳元到 12 個月不等。依澳洲預付實名法，你在啟用時驗證護照，且觀光方案不需要澳洲地址。只要你的路線離開海岸，Telstra 就是該選的業者。
+
+### Optus 有賣訪客可購買的觀光 eSIM 嗎？
+
+有，而且就是那家得獎的。Optus 把它的方案命名為 Flex Plus Traveller eSIM，在 Optus 官網以及雪梨、墨爾本、布里斯本、伯斯和阿得雷德的機場門市有售。方案從 1 天 3 GB 5 澳元到 28 天 70 GB 45 澳元，全部支援 5G，啟用時驗證護照。Ookla 評選 Optus 為澳洲 2025 下半年的最佳行動網路與最佳 5G 網路。
+
+### 國際訪客能取得 Vodafone 預付 eSIM 嗎？
+
+可以。Vodafone 在門市和透過 My Vodafone App 販售預付 eSIM，自 2026 年 4 月起持續性 28 天方案為 30 GB 40 澳元。與其他兩家業者相同的身分規則要求護照。Vodafone 是最便宜的選項且在城市裡強勁，但它在 Ookla 2025 下半年數據中公布的 5G 可用率 82.5 是三者最低，鄉村觸及也最小。
+
+### 誰對澳洲的覆蓋最徹底？
+
+Telstra，而且沒有接近的第二名。它擁有全國最大的地理足跡，也是唯一在紅中心、納拉伯平原的大部分，以及西澳偏遠地區和北領地有任何有意義訊號的全國性網路。連 Telstra 都有長距離缺口，所以請下載離線地圖，並把衛星通訊器視為真正偏遠路徑上的安全裝置。
+
+### 在澳洲買 SIM 需要哪些證件？
+
+若要購買 Telstra、Optus 或 Vodafone 的本地預付 eSIM，是的。自《2017 年電信（服務提供商——預付行動承載服務身分查核）裁定》以來，業者必須在預付行動服務啟用前驗證客戶身分——訪客通常是護照——並由 ACMA 執行。旅遊 eSIM 在結帳時仍會要求護照，但它是漫遊數據設定檔，而不是在本地註冊的澳洲門號，所以實地流程更簡單。
+
+### 對 eSIM 而言有問題的手機
+
+它需要已解鎖、支援 eSIM，並能在 4G 或 5G 網路上以 VoLTE 註冊，因為澳洲已經沒有 3G。用[裝置相容性清單](/compatibility/)一次核對鎖定狀態和頻段支援——它涵蓋 EID 支援和每張澳洲網路都使用的 n78 5G 頻段。想在開始前先看看設定期間會發生什麼？閱讀 [eSIM 啟用如何運作](/faq/what-is-esim-activation-and-how-does-it-work/)。
+
+### 如何為澳洲解鎖有電信鎖的手機
+
+向鎖定它的業者申請。在澳洲以全額價或月約出售的大多數手機本來就是解鎖的；預付綁約機可能有鎖，費用遞減、約兩年後歸零。依《電信消費者保護規範》，一旦任何期限符合，業者必須免費解鎖裝置。已繳清的裝置通常一兩天內就會解鎖。在 iPhone 上，鎖定狀態位於設定 → 一般 → 關於本機 → 電信鎖。
+
+### 我該向 Telstra 購買，還是用旅遊 eSIM？
+
+直購意味著一張網路、業者提供的開通，以及護照身分查核；換來的是真正的澳洲門號和無限國內通話。旅遊 eSIM 意味著即時交付、除了上傳護照外沒有其他手續、在 Telstra、Optus 和 Vodafone 之間自動切換，以及一個一次付清的固定價格。短程旅行：旅遊 eSIM。要在澳洲停留數月，或需要本地門號？直接向業者購買。
+
+### 我可以同時使用 Telstra eSIM 和旅遊 eSIM 嗎？
+
+可以，而且這是合理的配置。讓你的原門號留在實體卡槽中負責來電和銀行驗證碼，把澳洲數據放到 eSIM 上。在設定中，把數據線設為 eSIM，並讓原門號負責通話。有兩件事要注意：停用原 SIM 的漫遊，避免背景流量被收費；並注意純數據的設定檔無法收簡訊，所以銀行驗證碼仍會送到你的原門號上。
+
+### 澳洲的區域覆蓋
+
+澳洲大多數旅遊 eSIM 騎在 Optus 網路上，它在海岸和城市極佳，但橫越納拉伯平原和大部分內陸地區時會消失數百公里——那裡只有 Telstra 觸及。你往內陸走的那一天，Optus 會斷訊，你的 eSIM 隨之斷訊。一張能掛載 Telstra 的多網路 eSIM 可以解決這個問題；否則請以無覆蓋為前提規劃，並攜帶衛星裝置以備緊急之用。
+
+### 逐步啟用你的 eSIM
+
+依序處理上述四種澳洲特有的模式——鎖定狀態、網路選擇、APN 和數據線，然後是設定檔重新安裝——如果仍然失敗，[eSIM 啟用疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)中更完整的錯誤目錄涵蓋其餘情況。聯絡客服前，先備妥你的 EID、訂單編號和錯誤截圖。
+
+### eSIM究竟是什麼，用一段話說明
+
+eSIM 是內建於手機中的晶片，以軟體而非可抽換卡片的形式保存業者設定檔。業者傳送設定檔、手機將它存到晶片上，該線路之後就和平常的 SIM 一樣運作。它背後的管線工程——從 SM-DP+ 伺服器到單次使用的 QR code——在 [eSIM 啟用是什麼以及如何運作](/faq/what-is-esim-activation-and-how-does-it-work/)中有完整說明。
+
+還有問題嗎？[查看完整常見問題](/faq/)
+
+## 我們澳洲 eSIM 業者評級背後的資料來源
+
+- **Ookla Speedtest 連線報告 — 澳洲，2025 年 7 月至 12 月** — [開啟逐業者報告](https://www.ookla.com/research/reports/australia-speedtest-connectivity-report-h2-2025)。本頁引用的每一個業者數字都可追溯到它：Optus 的最佳行動網路與最佳 5G 網路獎項，以及 Vodafone 的連線分數 76.09、速度分數 61.8、一致性分數 86.4、5G 可用率 82.5、影片串流分數 85.85 與遊戲分數 83.35。
+- **Ookla Speedtest Global Index** — [澳洲排名](https://www.speedtest.net/global-index/australia)承載全國行動下載中位數、延遲數字與世界排名，每月更新。
+- **聯邦立法登記冊** — [裁定 F2017L01514](https://www.legislation.gov.au/Details/F2017L01514)，即《2017 年電信（服務提供商——預付行動承載服務身分查核）裁定》，是上述護照身分規則，由 ACMA 執行。
+- **Optus 官方預付** — [Optus 預付頁面](https://www.optus.com.au/prepaid)記載 Flex Plus Traveller eSIM 定價以及訪客遵循的啟用步驟。
+- **Cable.co.uk 全球數據價格** — [該 237 市場表格](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)訂定澳洲行動數據的每 GB 價格。當澳洲覆蓋聲明受到質疑時，我們的客服團隊正是拿這些參考資料應對。
+
+這些是第三方量測，不是承諾。手機、頻段和當地基站的負載，都會改變你實際看到的數字。
+
+## 鎖定一張跟著你深入內陸的澳洲 eSIM
+
+Roami 的設定檔掛載 Telstra、Optus 和 Vodafone，並在你開車時重新選擇訊號最強者，所以一次購買就涵蓋海港城市和紅中心的土路。先用[免費澳洲試用 eSIM](/free-esim/) 測試各網路，或在[挑選付費方案](/australia-esim/) 時套用優惠碼 **WEB20**。
+
+[取得 eSIM 方案](/australia-esim/)
+
+*優惠碼 WEB20 適用於首次購買*
+
+[從免費澳洲試用開始](/free-esim/)

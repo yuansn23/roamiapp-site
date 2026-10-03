@@ -1,310 +1,379 @@
 ---
-title: "Non preoccuparti del segnale in Canada con la eSIM 5G"
-description: "Roami utilizza le reti 5G di Rogers, Bell e Telus in Canada. Copertura estesa dalle metropoli alle Montagne Rocciose. Dati veloci, attivazione immediata via QR."
-date: "2026-06-22T04:28:45+00:00"
-keywords: "eSIM Canada, dati prepagati, rete 5G, Bell, Rogers, TELUS, roaming Canada, eSIM viaggio Canada"
-site_name: "Roami"
-brand_name: "Roami"
+title: "Operatori eSIM Canada: Bell, Rogers o TELUS per te?"
+description: "Tra Toronto e le Rocky Mountains, Roami confronta Bell, Rogers e TELUS su 5G, copertura rurale e prezzi per la tua eSIM Canada."
+image: "img/esim/carriers/canada-esim-carrier-guide.jpg"
+date: "2026-09-27T19:35:36+00:00"
+keywords: operatori eSIM Canada, eSIM Bell, eSIM Rogers, eSIM TELUS, eSIM SaskTel, eSIM Lucky Mobile, copertura 5G Canada, APN eSIM Canada, eSIM Canada prepagata, miglior operatore eSIM Canada
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "Guida eSIM Canada"
-    url: ""
-
-# Blocco Hero
-hero_badge: "🇨🇦 Nuova guida eSIM per Canada"
-hero_subtitle_main: "eSIM per Canada: Dati ad alta velocità 24/7"
-hero_subtitle_highlight: "Copertura 5G top con Bell, Rogers e TELUS"
-hero_description_line1: "Scegli l'eSIM per Canada e connettiti alla rete 5G ad alta velocità non appena arrivi. Compatibile con iPhone e Android, offre una connessione stabile per lavoro, studio o svago, facendoti risparmiare tempo e denaro."
-hero_description_line2: "Connettiti in un secondo e naviga senza limiti."
-hero_link_text: "eSIM Canada"
-hero_link_url: "/canada-esim/"
-tldr_summary: "【Trasferte di lavoro globali senza preoccupazioni: una eSIM per navigare ad alta velocità in più paesi】. Con Roami e la nostra eSIM per Canada, accedi alla rete 5G di Bell, Rogers e TELUS senza costi di roaming. Secondo i dati Ookla del secondo semestre 2025, Bell è il provider più veloce con una velocità mediana di download 5G di 171.17 Mbps, mentre Rogers offre la migliore esperienza video (punteggio 86.03) e la più alta disponibilità 5G (86.7%). TELUS garantisce la massima consistenza di rete (85.6%). Scegli Roami per una connettività senza pensieri in Canada."
-
-# Navigazione laterale
-sidebar_more_hint: "Scorri per vedere altro"
-sidebar_title: "Link rapidi per eSIM Canada"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "Scelta rapida: quale operatore eSIM per Canada?"
-
-  - href: "#operators"
-    text: "Panoramica dei migliori operatori eSIM mobili in Canada"
-
-  - href: "#city-guide"
-    text: "Guida città: migliore eSIM per Canada"
-
-  - href: "#before-buy"
-    text: "Cosa sapere prima di acquistare l'eSIM per Canada"
-
-  - href: "#faq"
-    text: "Domande frequenti su eSIM per Canada"
-
-  - href: "#myths"
-    text: "Miti e fatti sull'eSIM per Canada"
-
-  - href: "#data-sources"
-    text: "Fonti dei dati"
-
-
-# Tabella decisione rapida
-quick_picks_title: "Scelta rapida: quale operatore eSIM per Canada?"
-quick_picks_table_headers:
-
-  - "Il tuo stile di viaggio"
-
-  - "Operatore consigliato"
-
-  - "Performance di rete (dati)"
-
-quick_picks_note_prefix: "Fonte dati:"
-quick_picks_note_carrier: "[Rapporto sulla connettività Ookla Speedtest](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "Nomade digitale"
-    carrier: "Bell"
-    carrier_class: "text-orange-600"
-    reason: "Bell è il più veloce in Canada: download 5G mediano 171.17 Mbps, upload 13.61 Mbps. Ideale per chi lavora da remoto e necessita di connessioni stabili e performanti."
-
-  - travel: "Viaggiatore video-dipendente"
-    carrier: "Rogers"
-    carrier_class: "text-red-600"
-    reason: "Rogers offre la migliore esperienza video (punteggio 86.03) e la più alta disponibilità 5G (86.7%). Perfetto per streaming e videochiamate senza interruzioni."
-
-  - travel: "Esploratore outdoor"
-    carrier: "TELUS"
-    carrier_class: "text-purple-600"
-    reason: "TELUS ha la migliore consistenza di rete (85.6% dei campioni sopra 5 Mbps download / 1 Mbps upload). Affidabile anche in aree remote e parchi nazionali."
-
-
-# Testi bottoni principali
-cta_button_main_text: "Vedi le migliori offerte eSIM per Canada"
-cta_button_sub_text: "Cambio rete automatico, confronto prezzi prepagati"
-
-# Etichette comuni per gli operatori
-operator_labels:
-  best_for: "Migliore per:"
-  core_data: "Dati di rete:"
-  connect_note_label: "Nota sulla connessione eSIM:"
-
-# Dati operatori
-operators:
-
-  - id: "bell-esim"
-    title: "Panoramica Bell eSIM: il più veloce in Canada"
-    best_for: "Questa opzione è assolutamente la migliore per chi cerca la massima velocità di download e upload, sia in 5G che in reti combinate."
-    core_data: "- **Disponibilità 5G**: secondo [Rapporto sulla connettività Ookla Speedtest](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025), Bell è il provider 5G più veloce in Canada nel secondo semestre 2025.\n- **Velocità di download 5G mediana**: 171.17 Mbps\n- **Velocità di upload 5G mediana**: 13.61 Mbps\n- **Latenza 5G**: 38 ms\n- **Velocità di download combinata mediana**: 107.51 Mbps\n- **Velocità di upload combinata mediana**: 9.78 ms\n- **Latenza combinata**: 42 ms\n- **Speedtest Connectivity Score**: 69.99 (miglior rete 5G)\n- **Fibra fissa Bell pure fibre**: download 372.04 Mbps, upload 321.44 Mbps"
-    regulator_note: "Confermato dall'autorità locale CRTC (Canadian Radio-television and Telecommunications Commission) che Bell è uno dei tre operatori nazionali con licenze 5G su bande 3500 MHz."
-    connect_note: "Attivazione semplice tramite QR code. Compatibile con tutti i dispositivi eSIM. Nessun costo di roaming."
-    user_scenarios: "- **[Parco Nazionale di Banff]**: Con Bell, puoi condividere in tempo reale le foto delle Montagne Rocciose grazie alla velocità di upload 5G di 13.61 Mbps.\n- **[Toronto Union Station]**: Durante gli spostamenti in metropolitana, Bell garantisce una connessione stabile per chiamate e messaggi.\n- **[Vancouver Stanley Park]**: Naviga senza interruzioni mentre esplori il parco urbano più grande del Canada."
-    bg_color: "bg-blue-50"
-
-  - id: "rogers-esim"
-    title: "Panoramica Rogers eSIM: migliore esperienza video e disponibilità 5G"
-    best_for: "Questa opzione è assolutamente la migliore per chi guarda molti video in streaming, fa videochiamate o vuole essere sempre connesso al 5G."
-    core_data: "- **Disponibilità 5G**: secondo [Rapporto sulla connettività Ookla Speedtest](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025), Rogers ha la più alta disponibilità 5G in Canada (86.7% dei utenti accede al 5G la maggior parte del tempo).\n- **Video Streaming Score**: 86.03 (migliore esperienza video mobile)\n- **Velocità di download 5G mediana**: non specificata, ma rete performante.\n- **Copertura**: eccellente nelle aree urbane e suburbane."
-    regulator_note: "Confermato dall'autorità locale CRTC che Rogers possiede licenze 5G su bande 600 MHz e 3500 MHz, garantendo ampia copertura."
-    connect_note: "Attivazione semplice tramite QR code. Supporta doppia eSIM. Piani flessibili senza contratto."
-    user_scenarios: "- **[CN Tower, Toronto]**: Trasmetti in live streaming la vista panoramica dalla torre più alta del Canada con video di alta qualità.\n- **[Montréal, Vieux-Port]**: Goditi videochiamate nitide mentre passeggi lungo il porto storico.\n- **[Calgary Stampede]**: Condividi i momenti del rodeo in tempo reale senza buffering."
-    bg_color: "bg-red-50"
-
-  - id: "telus-esim"
-    title: "Panoramica TELUS eSIM: massima consistenza di rete"
-    best_for: "Questa opzione è assolutamente la migliore per chi viaggia in aree remote o parchi nazionali e ha bisogno di una connessione affidabile."
-    core_data: "- **Consistenza di rete**: secondo [Rapporto sulla connettività Ookla Speedtest](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025), TELUS ha la migliore consistenza di rete mobile in Canada (85.6% dei campioni sopra 5 Mbps download / 1 Mbps upload).\n- **Velocità di download combinata mediana**: 101.95 Mbps (secondo posto)\n- **Velocità di download 5G mediana**: 138.76 Mbps (secondo posto)\n- **Copertura**: eccellente nelle aree rurali e nei parchi nazionali."
-    regulator_note: "Confermato dall'autorità locale CRTC che TELUS è uno dei tre operatori nazionali con licenze 5G su bande 3500 MHz e 600 MHz."
-    connect_note: "Attivazione semplice tramite QR code. Compatibile con tutti i dispositivi eSIM. Assistenza clienti 24/7."
-    user_scenarios: "- **[Parco Nazionale di Jasper]**: Con TELUS, puoi chiamare i soccorsi o navigare nei sentieri anche in zone isolate.\n- **[Niagara Falls]**: Carica foto e video delle cascate senza preoccuparti della copertura.\n- **[Québec City, Old Town]**: Mantieni la connessione mentre esplori le stradine storiche."
-    bg_color: "bg-purple-50"
-
-
-# Tre card
-cards_compatibility_title: "Verifica la compatibilità dell'eSIM per Canada"
-cards_compatibility_desc: "Scopri se il tuo telefono supporta l'eSIM per Canada e le bande 5G locali"
-cards_free_title: "Ottieni eSIM gratuita per Canada"
-cards_free_desc: "Prova gratuita a tempo limitato dell'eSIM, sperimenta la rete 5G locale senza costi di roaming"
-cards_free_badge: "Gratuita"
-cards_app_title: "Scarica l'app Roami e ottieni il 20% di sconto sull'eSIM"
-cards_app_desc: "Codice sconto: <strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | Gestisci la tua eSIM con un clic"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# Cosa sapere prima dell'acquisto
-before_buy_title: "Cosa sapere prima di acquistare l'eSIM per Canada"
-before_buy_sections:
-
-  - heading: "1. Bande 5G e 4G in Canada"
-    content: "Gli operatori canadesi utilizzano principalmente le bande 5G n78 (3500 MHz) per velocità elevate e n71 (600 MHz) per copertura estesa. Per il 4G LTE, le bande principali sono 2, 4, 5, 7, 12, 13, 17, 29, 66. Assicurati che il tuo dispositivo supporti queste bande per una connettività ottimale."
-
-  - heading: "2. Requisiti KYC e registrazione"
-    content: "In Canada, l'acquisto di una eSIM prepagata non richiede generalmente la verifica dell'identità (KYC) per turisti. Tuttavia, alcuni operatori potrebbero richiedere la registrazione del passaporto per attivare la linea. Con Roami, nessuna verifica aggiuntiva: attivazione immediata."
-
-  - heading: "3. Policy di uso equo (FUP)"
-    content: "I piani dati illimitati in Canada spesso includono una politica di uso equo. Dopo aver superato una certa soglia (es. 20-50 GB al mese), la velocità può essere ridotta a 128 kbps - 1 Mbps. Verifica sempre i termini del piano prima dell'acquisto."
-
-  - heading: "4. Copertura nelle aree rurali e parchi nazionali"
-    content: "TELUS e Bell condividono le torri in molte aree rurali, offrendo la migliore copertura nei parchi nazionali come Banff e Jasper. Rogers ha una copertura leggermente inferiore nelle zone remote ma eccelle nelle città."
-
-  - heading: "5. Roaming e costi nascosti"
-    content: "Con una eSIM locale, eviti i costi di roaming internazionali. Assicurati che il piano includa chiamate e SMS se necessari. Roami offre piani solo dati, ideali per navigazione e app di messaggistica."
-
-
-# Tabella consigli città
-city_guide_title: "Guida città: migliore eSIM per Canada"
-city_guide_desc: "Scopri quale eSIM per Canada è la migliore per la tua destinazione, basata sulle performance di rete reali."
-city_table_headers:
-
-  - "Città"
-
-  - "Operatore eSIM consigliato"
-
-  - "Motivo / Caratteristiche"
-
-city_recommendations:
-
-  - city: "Vancouver"
-    carriers: "Bell"
-    reason: "Vancouver ha la più alta velocità mobile mediana tra le città canadesi (136.92 Mbps). Bell è il provider più veloce, ideale per chi lavora o fa streaming in questa città tecnologica."
-
-  - city: "Edmonton"
-    carriers: "Bell (fibra fissa)"
-    reason: "Edmonton ha la più alta velocità fissa mediana (298 Mbps). Per chi soggiorna a lungo, Bell pure fibre è la scelta migliore per connessioni domestiche ultraveloci."
-
-  - city: "Toronto"
-    carriers: "Rogers"
-    reason: "Toronto è un hub finanziario e culturale. Rogers offre la migliore esperienza video e la più alta disponibilità 5G (86.7%), perfetto per professionisti e turisti."
-
-  - city: "Montréal"
-    carriers: "TELUS"
-    reason: "Montréal ha una forte presenza di TELUS. La sua consistenza di rete (85.6%) garantisce connessioni affidabili anche nei quartieri storici e nei sotterranei della città."
-
-  - city: "Calgary"
-    carriers: "Bell"
-    reason: "Calgary è vicina alle Montagne Rocciose. Bell offre la migliore velocità 5G (171.17 Mbps) per chi viaggia tra città e parchi nazionali."
-
-city_guide_tip: "💡 Suggerimento: se usi l'eSIM multi-rete Roami, il telefono passerà automaticamente al miglior operatore locale senza bisogno di selezionarlo manualmente."
-
-# Guida per scenari di viaggio
-scene_guide_title: "🎯 Scegli la migliore eSIM per Canada in base al tuo scenario di viaggio"
-scene_items:
-
-  - icon: "🏛️"
-    title: "Esploratore urbano"
-    text: "Scopri le città canadesi con una connessione 5G stabile. Con Bell, ottieni la massima velocità per navigare tra musei, ristoranti e attrazioni. Vancouver e Toronto sono coperte al meglio."
-
-  - icon: "🏞️"
-    title: "Amante della natura"
-    text: "Visita i parchi nazionali come Banff e Jasper. TELUS offre la migliore consistenza di rete in aree remote, permettendoti di condividere foto e rimanere in contatto anche nei sentieri."
-
-  - icon: "🚗"
-    title: "Viaggiatore in auto"
-    text: "Percorri la Trans-Canada Highway con Rogers. La sua alta disponibilità 5G (86.7%) ti garantisce navigazione e streaming musicale senza interruzioni durante il viaggio."
-
-  - icon: "🏖️"
-    title: "Amante della spiaggia"
-    text: "Rilassati sulle spiagge della British Columbia o del Lake Ontario. Con Bell, carica foto e video in alta risoluzione grazie alla velocità di upload 5G di 13.61 Mbps."
-
-scene_guide_footer: "💡 L'eSIM multi-rete Roami rileva automaticamente il tuo scenario e passa alla rete migliore senza configurazioni manuali."
-
-# FAQ
-faq_title: "Domande frequenti sull'eSIM per Canada"
-faq_prefix: "D"
-faq_suffix: "："
-faq_more_link_text: "Hai altre domande? Vedi le FAQ complete →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "Il sistema si connette automaticamente al miglior operatore locale in Canada senza configurazione manuale?"
-    a: "Sì, con Roami la tua eSIM si connette automaticamente alla rete disponibile più performante tra Bell, Rogers e TELUS. Non è necessaria alcuna configurazione manuale: attiva il QR code e sei online."
-
-  - q: "Il mio telefono supporta doppia eSIM. Posso attivare due profili eSIM contemporaneamente in Canada?"
-    a: "Sì, se il tuo telefono supporta la doppia eSIM (es. iPhone 13 e successivi, Google Pixel 7 e successivi), puoi attivare due profili eSIM contemporaneamente. Ad esempio, puoi mantenere la tua linea italiana per chiamate e SMS e usare la eSIM Roami per i dati in Canada."
-
-  - q: "È richiesta la verifica dell'identità (KYC) o la registrazione del passaporto per acquistare e utilizzare l'eSIM per Canada?"
-    a: "No, per l'acquisto e l'attivazione della eSIM Roami per Canada non è richiesta alcuna verifica dell'identità (KYC) o registrazione del passaporto. L'attivazione è immediata tramite QR code, senza burocrazia."
-
-  - q: "Quale operatore locale offre la copertura più forte e affidabile nei parchi nazionali e nelle città più famose di Canada?"
-    a: "TELUS e Bell offrono la migliore copertura nei parchi nazionali (Banff, Jasper) grazie alla condivisione delle torri. Nelle città, Bell è il più veloce (download 5G 171.17 Mbps), mentre Rogers ha la più alta disponibilità 5G (86.7%). La scelta dipende dalle tue priorità: velocità o copertura estesa."
-
-  - q: "I piani dati illimitati per Canada hanno una politica di uso equo (FUP) o limiti di banda?"
-    a: "Sì, molti piani dati illimitati in Canada includono una politica di uso equo. Dopo aver superato una soglia (es. 20-50 GB al mese), la velocità può essere ridotta a 128 kbps - 1 Mbps. Roami offre piani trasparenti con soglie chiare, senza sorprese."
-
-
-# Miti e fatti
-myths_title: "⚠️ Miti e fatti comuni sull'eSIM per Canada"
-myth_label: "❌ Mito："
-truth_label: "✅ Fatto："
-myths:
-
-  - myth: "In Canada il 5G è disponibile solo nelle grandi città."
-    truth: "Falso. Rogers ha una disponibilità 5G dell'86.7% a livello nazionale, e TELUS/Bell coprono anche molte aree rurali e parchi nazionali con il 5G su banda 600 MHz."
-
-  - myth: "Tutti gli operatori canadesi hanno la stessa velocità."
-    truth: "Falso. Bell è significativamente più veloce: download 5G mediano 171.17 Mbps contro 138.76 Mbps di TELUS. Rogers eccelle per esperienza video e disponibilità."
-
-  - myth: "Le eSIM per Canada sono più costose del roaming tradizionale."
-    truth: "Falso. Le eSIM Roami offrono piani prepagati competitivi, spesso più economici del roaming internazionale, senza costi nascosti e con attivazione immediata."
-
-  - myth: "La connessione mobile nei parchi nazionali è inesistente."
-    truth: "Falso. TELUS e Bell garantiscono una copertura affidabile nei principali parchi nazionali (Banff, Jasper, Yoho) con velocità sufficienti per navigazione e chiamate."
-
-  - myth: "Per usare una eSIM in Canada serve un telefono sbloccato."
-    truth: "Vero. Il telefono deve essere sbloccato per accettare una eSIM di un operatore diverso. La maggior parte dei dispositivi moderni venduti in Italia è già sbloccata."
-
-
-# Fonti dati
-data_sources_title: "Fonti dei dati sulla rete mobile di Canada"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest: [Rapporto sulla connettività Ookla Speedtest](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)"
-    description: "Rapporto sulla performance delle reti mobili e fisse in Canada, secondo semestre 2025. Include velocità di download/upload, latenza, consistenza e disponibilità 5G per Bell, Rogers e TELUS."
-
-  - name: "OpenSignal 2025"
-    description: "Report sulla copertura 5G e sull'esperienza utente in Canada. Conferma che Bell, Rogers e TELUS sono i tre operatori dominanti con licenze 5G su bande 3500 MHz e 600 MHz."
-
-  - name: "CRTC (Canadian Radio-television and Telecommunications Commission) 2025"
-    description: "Ente regolatore nazionale canadese. Pubblica dati ufficiali sulle licenze degli operatori, bande di frequenza e copertura territoriale."
-
-data_sources_footer: "Tutti i dati sulla performance di rete citati si basano su rapporti pubblici di terze parti (Ookla, OpenSignal, CRTC) e sono aggiornati al secondo semestre 2025. Le velocità effettive possono variare."
-data_sources_note: "Velocità e copertura possono variare in base a posizione, dispositivo, ora e carico della rete. I dati si riferiscono a test effettuati in condizioni ottimali."
-
-# CTA prodotto
-cta_title: "Ottieni subito la tua eSIM per Canada"
-cta_desc: "Accesso istantaneo alla rete 5G di Bell, Rogers e TELUS. Attivazione in 1 minuto, nessun costo di roaming, piani flessibili per ogni esigenza."
-cta_button_text: "Acquista ora eSIM per Canada"
-cta_button_link: "/canada-esim/"
-cta_free_trial_note: "Solo per nuovi clienti"
-cta_free_trial_text: "Prova gratuita eSIM per Canada"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: Guida eSIM Canada
+  url: ''
+hero_badge: "Operatori eSIM Canada: la classifica onesta"
+hero_subtitle_main: "Gli operatori del Canada sulla carta contro sul terreno"
 ---
 
-# eSIM per Canada: Dati ad alta velocità 24/7
 
-> **💡 Riepilogo per il viaggiatore：** 【Trasferte di lavoro globali senza preoccupazioni: una eSIM per navigare ad alta velocità in più paesi】. Con Roami e la nostra eSIM per Canada, accedi alla rete 5G di Bell, Rogers e TELUS senza costi di roaming. Secondo i dati Ookla del secondo semestre 2025, Bell è il provider più veloce con una velocità mediana di download 5G di 171.17 Mbps, mentre Rogers offre la migliore esperienza video (punteggio 86.03) e la più alta disponibilità 5G (86.7%). TELUS garantisce la massima consistenza di rete (85.6%). Scegli Roami per una connettività senza pensieri in Canada.
+**A quale operatore dovrebbe connettersi la tua eSIM Canada?** Le tre reti nazionali non sono intercambiabili. Nel report Canada 2S 2025 di Ookla, **Bell** è stato il provider 5G migliore e più veloce con una mediana di download 5G di **171,17 Mbps**. **Rogers** ha offerto la migliore esperienza video (**86,03**) e la più alta disponibilità 5G (**86,7%**). **TELUS** è stata la rete più costante nel complesso (**85,6%**). Quale sia il "migliore" dipende interamente da dove stai andando — il miglior operatore eSIM per il Canada è una decisione di instradamento, non di marca. Questa guida sul Canada è scritta da persone che vendono e supportano eSIM ogni giorno, quindi privilegia i compromessi pratici rispetto alle affermazioni da brochure.
 
-## Cosa sapere prima di acquistare l'eSIM per Canada
+Un prerequisito che vale dieci secondi del tuo tempo: conferma che il tuo telefono supporti le eSIM tramite il [quiz di compatibilità eSIM](/compatibility/), e dai un'occhiata a [come funziona l'installazione di una eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) se il processo è nuovo per te.
 
 
-### 1. Bande 5G e 4G in Canada {#1-bande-5g-e-4g-in-canada}
-Gli operatori canadesi utilizzano principalmente le bande 5G n78 (3500 MHz) per velocità elevate e n71 (600 MHz) per copertura estesa. Per il 4G LTE, le bande principali sono 2, 4, 5, 7, 12, 13, 17, 29, 66. Assicurati che il tuo dispositivo supporti queste bande per una connettività ottimale.
+**Se non leggi altro:** Soggiorni a Toronto, Vancouver o Montreal? Bell è la rete 5G più veloce del paese. Guardi tanti video o giochi? Rogers vince sul punteggio video e sulla disponibilità 5G. Percorri le Rockies, Terranova o il nord dell'Ontario? TELUS tiene il segnale dove gli altri lo perdono. Vuoi comprare direttamente da un operatore canadese come visitatore? Lucky Mobile (il marchio prepagato di Bell) è l'unico che vende una eSIM turistica senza verifica creditizia e senza indirizzo canadese. Oppure salta la burocrazia: la [prova dati gratuita](/free-esim/) testa le reti senza costi; applica il codice **WEB20** per il 20% di sconto sui [piani eSIM prepagati Canada](/canada-esim/).
 
-### 2. Requisiti KYC e registrazione {#2-requisiti-kyc-e-registrazione}
-In Canada, l'acquisto di una eSIM prepagata non richiede generalmente la verifica dell'identità (KYC) per turisti. Tuttavia, alcuni operatori potrebbero richiedere la registrazione del passaporto per attivare la linea. Con Roami, nessuna verifica aggiuntiva: attivazione immediata.
+## Gli operatori mobili in Canada
 
-### 3. Policy di uso equo (FUP) {#3-policy-di-uso-equo-fup}
-I piani dati illimitati in Canada spesso includono una politica di uso equo. Dopo aver superato una certa soglia (es. 20-50 GB al mese), la velocità può essere ridotta a 128 kbps - 1 Mbps. Verifica sempre i termini del piano prima dell'acquisto.
+### Bell, Rogers e TELUS, fianco a fianco
 
-### 4. Copertura nelle aree rurali e parchi nazionali {#4-copertura-nelle-aree-rurali-e-parchi-nazionali}
-TELUS e Bell condividono le torri in molte aree rurali, offrendo la migliore copertura nei parchi nazionali come Banff e Jasper. Rogers ha una copertura leggermente inferiore nelle zone remote ma eccelle nelle città.
+| | Bell | Rogers | TELUS |
+|:---|:---|:---|:---|
+| eSIM per turisti | Via Lucky Mobile, il marchio prepagato di Bell | Non venduta direttamente — il prepagato passa per chatr e Fido | Livelli prepagati pubblicati esistono, ma l'attivazione è emessa dall'operatore |
+| Migliore per | 5G più veloce e rete complessiva più veloce | Migliore esperienza video, più alta disponibilità 5G | Rete più costante |
+| Prezzo prepagato d'ingresso | Lucky Mobile: $19/mese per 500 MB | Piani prepagati chatr, nessuna verifica creditizia | Nationwide Talk, Text & Data 35: $35 CAD per 1 GB / 30 giorni |
+| Percorso d'acquisto turistico | ★★★ — eSIM a $0 attivata nell'app Lucky Mobile | ★★ — passaporto più permesso di lavoro/studio o carta PR, in negozio | ★★ — eSIM istantanea al checkout con un piano, ma si applica una verifica creditizia |
 
-### 5. Roaming e costi nascosti {#5-roaming-e-costi-nascosti}
-Con una eSIM locale, eviti i costi di roaming internazionali. Assicurati che il piano includa chiamate e SMS se necessari. Roami offre piani solo dati, ideali per navigazione e app di messaggistica.
+**Lo schema da notare per primo:** nessuno dei tre operatori nazionali vende una eSIM Canada prepagata pulita e walk-up a un visitatore internazionale. Bell indirizza i visitatori a Lucky Mobile, Rogers spinge il prepagato verso chatr, e TELUS attiverà una eSIM nel momento in cui prendi un piano — ma un piano significa verifica creditizia e identificazione canadese.
+
+### Lucky Mobile, chatr, Public Mobile e i marchi flanker
+
+Visita i marchi flanker del Canada e il problema della burocrazia scompare: queste etichette prepagate vendono una eSIM senza verifica creditizia e senza indirizzo canadese.
+
+| Marchio virtuale | Rete ospitante | Supporto eSIM | Ideale per |
+|:---|:---|:---|:---|
+| Lucky Mobile | Bell | eSIM a $0, attivata nell'app | La maggior parte dei visitatori — prepagato, nessuna verifica creditizia, piani turistici |
+| chatr | Rogers | Prepagato, nessuna verifica creditizia | Breve soggiorno in città dove la copertura Rogers è forte |
+| Public Mobile | TELUS | eSIM prepagata | Viaggiatori budget che vogliono la copertura TELUS senza la burocrazia TELUS |
+| Freedom Mobile | Rete propria più roaming con partner | eSIM prepagata | Soggiorni più lunghi in Ontario, Alberta e nelle città della BC |
+| SaskTel | Rete propria (noSTRINGS Prepaid) | Configurazione e gestione eSIM supportate | Chiunque trascorra tempo reale nel Saskatchewan |
+| Videotron | Rete propria nel Quebec | Opzioni prepagate | Viaggi focalizzati sul Quebec |
+
+Due avvertenze. Primo, i marchi flanker come Lucky Mobile, chatr e Public Mobile limitano le velocità dei dati — i piani di Lucky Mobile girano a velocità 4G LTE fino a 150 Mbps e poi scendono a **fino a 128 Kbps** una volta esaurita la quota, senza addebiti per eccedenze. Secondo, un piano prepagato comprato da uno qualsiasi di questi marchi è legato a una sola rete. Hai i ripetitori di Bell su Lucky Mobile e di nessun altro, il che conta nel momento in cui lasci la città.
+
+### Puoi comprare una eSIM Canada da Bell?
+
+| | Direttamente da un operatore canadese | eSIM da viaggio su una rete canadese |
+|:---|:---|:---|
+| Cosa serve | Passaporto o documento; alcuni percorsi richiedono un indirizzo canadese; il postpagato richiede verifica creditizia | Un telefono compatibile e sbloccato |
+| Come arriva il profilo | Attivazione in-app, configurazione in negozio, o un codice QR emesso dall'operatore | Codice QR o installazione via app subito dopo il checkout |
+| Costo tipico 10 GB | Circa $35 CAD per il primo gigabyte su un livello prepagato TELUS, più una tassa SIM di $10–15 su alcuni marchi | Un unico prezzo upfront, nessuna tassa SIM |
+| Accesso alla rete | Un solo operatore | Commutazione automatica tra Bell, Rogers e TELUS |
+| Ideale per | Soggiorni di due settimane o più, o chiunque abbia bisogno di un numero di telefono canadese | Viaggi di una o due settimane, e chiunque voglia essere online all'atterraggio |
+
+L'economia non è vicina per una vacanza normale. Un piano prepagato canadese addebita per gigabyte a tariffe costruite per i residenti; una eSIM Canada da viaggio compra dati all'ingrosso e lascia il dispositivo muoversi tra le reti. Dove l'operatore vince è longevità e voce — un vero numero canadese, chiamate nazionali illimitate, e un piano che funziona ancora al sesto mese.
+
+💡 Un profilo eSIM multi-rete è la via di mezzo pratica: la [eSIM Canada di Roami](/canada-esim/) mantiene la comodità della consegna immediata, commuta automaticamente tra Bell, Rogers e TELUS, e ti mette comunque su Bell a Toronto e su TELUS sulle Rockies senza comprare due volte.
+
+## Telefoni che accettano una eSIM
+
+Tre cose decidono se il tuo telefono funziona su un operatore canadese: le sue bande, lo stato del blocco, e una breve lista di particolarità specifiche del dispositivo. Tutte e tre sono trattate qui sotto.
+
+### Quali telefoni sono esclusi?
+
+Gli operatori canadesi costruiscono la loro 5G su bande specifiche — in particolare **n71 (600 MHz)** per la portata rurale, più n66 e n78 in città. Molti telefoni internazionali, comprese diverse varianti regionali di iPhone, vengono spediti senza n71. Quei telefoni funzionano comunque: ricadono sull'LTE appena lasci le aree urbane dense, il che va bene in centro ed è frustrante in montagna.
+
+Non devi imparare le tabelle delle bande. La mossa affidabile è controllare il tuo modello esatto, numero di modello e non nome commerciale, contro lo [strumento di ricerca compatibilità](/compatibility/). Se vuoi prima la meccanica sottostante, [cosa fa il tuo telefono quando carica un profilo eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) spiega il processo.
+
+### Sbloccare il telefono prima del Canada
+
+Un telefono bloccato è la singola ragione più comune per cui un'installazione di eSIM canadese fallisce — e il Canada è insolitamente generoso nel risolverlo.
+
+Ai sensi del Wireless Code del CRTC, **i telefoni venduti dai fornitori di servizi canadesi devono essere sbloccati**, e se un dispositivo è bloccato sulla rete di un fornitore, quel fornitore deve "sbloccare il dispositivo, o dare al cliente i mezzi per sbloccare il dispositivo, su richiesta, senza costi." Quel requisito — Regola F.1.(ii) — è entrato in vigore il **1° dicembre 2017**. Il CRTC nomina anche la eSIM direttamente nel suo stesso consiglio di viaggio come modo per evitare costi di roaming.
+
+**Dove guardare:** Impostazioni -> Generali -> Info -> Carrier Lock su iPhone. Se dice "Nessuna restrizione SIM", sei a posto. Se dice "SIM bloccata", nessuna eSIM di terzi si installerà finché quello non cambia.
+
+**Risolvilo:** contatta l'operatore a cui il telefono è bloccato e richiedi lo sblocco. I dispositivi pagati per intero vengono di solito liberati entro poche ore, e non c'è nessuna tassa. Solo allora prova a installare la tua eSIM.
+
+Se hai comprato un telefono usato, o un telefono prima di dicembre 2017, assumi che possa essere bloccato e controlla prima di volare. Dettaglio completo: [CRTC — viaggiare con il tuo dispositivo](https://crtc.gc.ca/eng/phone/mobile/trav.htm).
+
+### Il mio iPhone funziona con l'eSIM?
+
+| Dispositivo | Sintomo | Cosa fare |
+|:---|:---|:---|
+| Modelli iPhone della Cina continentale | Nessuna opzione "Aggiungi eSIM" del tutto — l'hardware è disabilitato in quel mercato | Non risolvibile; usa una SIM fisica o un altro dispositivo |
+| Samsung comprato dall'operatore | eSIM in grigio nelle impostazioni | Chiedi prima all'operatore di sbloccarlo, poi riavvia |
+| Telefoni internazionali senza n71 | Veloce in città, solo LTE nelle aree rurali | Comportamento atteso — vedi le note sulle province qui sotto |
+| Utenti dual SIM | eSIM installata ma nessun dato | Imposta la eSIM come linea usata per i dati mobili |
+
+Tutto oltre questo è specifico del dispositivo piuttosto che dell'operatore. Passa il tuo modello attraverso il [verificatore di compatibilità eSIM](/compatibility/) prima di spendere soldi per un piano.
+
+## Ottenere una eSIM canadese, passo dopo passo
+
+Esistono quattro percorsi, e differiscono più nella burocrazia che nel prezzo: Lucky Mobile per la rete Bell, chatr o una visita in negozio per Rogers, TELUS diretto o Public Mobile sulla stessa rete, e SaskTel dentro il Saskatchewan. Ogni percorso, passo dopo passo:
+
+### Le tue opzioni d'acquisto in Canada
+
+I piani consumer di Bell stesso sono postpagati: vogliono un indirizzo canadese e una verifica creditizia. I visitatori internazionali sono indirizzati a **Lucky Mobile**, il marchio prepagato di Bell, che è davvero costruito per questo.
+
+**eSIM Lucky Mobile, passo dopo passo:**
+
+1. Scarica l'app Lucky Mobile My Account e scegli un piano prepagato — il livello d'ingresso è **$19/mese per 500 MB**, con $25/mese per 5 GB e $30/mese per 15 GB sopra.
+2. Scegli eSIM al checkout. È **$0** — una SIM fisica porta invece un addebito una tantum di $10.
+3. Attiva dentro l'app. Se hai attivato sul sito web, tocca la notifica sul telefono, o inserisci manualmente il codice di attivazione su `bmc.prod.ondemandconnectivity.com`.
+4. Nessuna verifica creditizia, nessun contratto a termine. Non ci sono addebiti per eccedenze di dati — una volta usata la quota, le velocità scendono a fino a 128 Kbps.
+
+Lucky Mobile commercializza esplicitamente una eSIM turistica per le persone che visitano il Canada, ed elenca il supporto eSIM per iPhone XS e successivi, Google Pixel 3 e successivi, e Samsung Galaxy S21 / Z Fold 3 / Flip 3 / Note20 e successivi. Controlla il tuo modello prima di comprare.
+
+### SIM locali in Canada contro l'opzione da viaggio
+
+Rogers non vende una eSIM Canada prepagata diretta ai visitatori. Il prepagato sta con **chatr** (nessuna verifica creditizia, nessun contratto), e **Fido** copre il mid-market flessibile.
+
+Per un piano Rogers stesso, il percorso del nuovo arrivato è una visita in negozio: porta il **passaporto più un permesso di lavoro o studio, una carta di residente permanente, o una Confirmation of Permanent Residence**, e il personale ti sistemeraà. Le pagine di supporto di Rogers stesse accolgono la domanda "Perché non riesco a completare la mia attivazione eSIM online?" — il che ti dice che la via online non è affidabile per tutti. Calcola una visita in negozio, o compra dati sulla rete Rogers attraverso una eSIM Canada invece.
+
+### Piani e prezzi: eSIM Canada
+
+TELUS supporta davvero bene la eSIM: porta un dispositivo compatibile eSIM, prendi un piano, e si attiva **istantaneamente dopo il checkout**, mentre una SIM fisica arriva in 5 a 10 giorni lavorativi per una tassa una tantum di **$15**. Il dettaglio è che questa è la via del piano, il che significa una verifica creditizia.
+
+La linea prepagata di TELUS — Nationwide Talk, Text & Data — è il modo più economico di tenere una linea TELUS senza contratto:
+
+| Piano | Dati | Chiamate | Validità | Prezzo |
+|:---|:---|:---|:---|:---|
+| Nationwide Talk, Text & Data 35 | 1 GB | Illimitate nazionali | 30 giorni | $35 CAD |
+| Nationwide Talk, Text & Data 90 | 3 GB | Illimitate nazionali | 90 giorni | $90 CAD |
+| Nationwide Talk, Text & Data 150 | 3 GB | Illimitate nazionali | 180 giorni | $159 CAD |
+
+L'attivazione prepagata è emessa dall'operatore piuttosto che self-serve, quindi pianifica una firma in negozio o un codice di attivazione emesso dall'assistenza invece di assumere un codice QR istantaneo al checkout. Se vuoi solo la copertura TELUS come visitatore, **Public Mobile** gira sulla stessa rete con eSIM prepagata e molta meno burocrazia.
+
+### Domande comuni prima dell'acquisto
+
+Una eSIM SaskTel è disponibile attraverso il servizio **noSTRINGS Prepaid** dell'operatore, e SaskTel pubblica guide di configurazione e gestione per essa. È la scelta giusta se il Saskatchewan è una parte reale del tuo itinerario e non un semplice attraversamento — la copertura dentro la provincia è eccellente, e si dirada appena la lasci.
+
+### Acquisti SIM Canada: documento richiesto
+
+Le firme con gli operatori in Canada vanno più in fretta quando queste sono già in mano.
+
+- **IMEI** — componi `*#06#`
+- **EID** — anch'esso dalla schermata `*#06#`; questo è l'identificatore della eSIM stessa
+- **Documento d'identità con foto** — il passaporto è lo standard per le firme in negozio con gli operatori
+- **Un indirizzo canadese** — richiesto su alcuni percorsi degli operatori, e sui piani postpagati in generale
+- **Una carta che funziona in Canada** — alcuni checkout degli operatori rifiutano indirizzi di fatturazione stranieri
+- **Wi-Fi** — installa il profilo prima di volare, non all'aeroporto
+
+## Velocità eSIM Canada: Bell contro Rogers
+
+Due domande chiudono questa sezione: quanto è veloce ogni rete dove ti trovi davvero, e che tipo di viaggio stai facendo. Le figure Ookla qui sotto rispondono alla prima; la tabella dei tipi di viaggio risponde alla seconda.
+
+### Bell contro Rogers: quale operatore canadese è più veloce?
+
+Tutte le figure qui sotto provengono dai dati Ookla Speedtest Intelligence per il **2S 2025** (periodo di raccolta luglio–dicembre 2025) e sono misurazioni a livello nazionale.
+
+| Metrica | Bell | Rogers | TELUS |
+|:---|:---|:---|:---|
+| Mediana download 5G | **171,17 Mbps** (la più veloce) | — | 138,76 Mbps |
+| Mediana download, tutte le tecnologie | **107,51 Mbps** (la più veloce) | — | 101,95 Mbps |
+| Mediana upload, tutte le tecnologie | 9,78 Mbps | — | — |
+| Latenza, tutte le tecnologie | 42 ms | — | — |
+| Disponibilità 5G | 74,3% | **86,7%** (la più alta) | 74,9% |
+| Punteggio Video Streaming | 84,71 | **86,03** (il migliore) | 85,32 |
+| Costanza | 84,5% | 83,3% | **85,6%** (la migliore) |
+| Speedtest Connectivity Score | **75,18** (il più alto) | 73,73 | 75,10 |
+
+Dove il report non pubblica una cifra, la cella è lasciata vuota piuttosto che stimata. Due cose da notare: Rogers guida sulla **disponibilità** (quanto spesso sei davvero sulla 5G) pur restando indietro sulla velocità grezza, e la vittoria di TELUS è la **costanza** — la quota di campioni che rispetta una soglia di 5 Mbps giù / 1 Mbps su — che è esattamente la metrica che conta su un'autostrada.
+
+Per il contesto sul paese nel suo complesso, l'[Ookla Speedtest Global Index](https://www.speedtest.net/global-index/canada) ha posto la mediana di download mobile del Canada a **86,08 Mbps** ad agosto 2026, 53ª al mondo, con latenza di 25 ms. La banda fissa è molto più forte a **257,88 Mbps**, 20ª nel mondo. Cable.co.uk prezza 1 GB di dati mobili canadesi a circa **USD 5,37**, 216ª su 237 mercati contro una media globale di USD 2,59 — il Canada è uno dei mercati più cari del mondo sviluppato per i dati locali.
+
+### Miglior eSIM Canada per stile di viaggio
+
+| Il tuo viaggio | Miglior operatore | Perché | Attenzione a |
+|:---|:---|:---|:---|
+| City break — Toronto, Vancouver, Montreal, Calgary | Bell o Rogers | Entrambe eccellenti in centro; Bell è più veloce, Rogers tiene la 5G più spesso | La metropolitana di Toronto ha segnale scarso su ogni operatore |
+| Road trip, parchi nazionali, Rockies | TELUS | La costanza più alta, meno zone morte fuori dalle città | Rogers Pass e Glacier National Park hanno ancora buchi di 30–40 km |
+| Video, streaming, gaming | Rogers | Il miglior punteggio video e la più alta disponibilità 5G | Le velocità upload restano indietro rispetto a Bell |
+| Viaggi di lavoro e videochiamate | Bell | Upload più veloce e latenza più bassa nelle grandi città | Chiedi un piano più alto negli hotel — il segnale migliora sopra il 5° piano |
+| Viaggiatore budget | Lucky Mobile (rete Bell) | $19/mese prepagato, nessuna verifica creditizia, nessuna tassa di eccedenza | Velocità limitate a 150 Mbps, poi 128 Kbps |
+| Soggiorno nel Saskatchewan | SaskTel | La rete più forte dentro la provincia | La copertura cala quando attraversi i confini provinciali |
+| Viaggio focalizzato sul Quebec | Videotron o Bell | Forza della rete locale più l'impronta nazionale di Bell | La Gaspé rurale è sottile su tutti gli operatori |
+| Itinerario transfrontaliero | Un piano Nord America | Una eSIM solo-Canada muore al confine USA senza avviso | Le gite giornaliere alle Niagara Falls colgono la gente di continuo |
+
+### Bell contro Rogers: copertura a confronto
+
+La copertura 5G del Canada segue la popolazione: densa nelle aree metropolitane censuarie, che si dirada in fretta lungo le strade secondarie e scompare nei territori. Cosa significa questo percorso per percorso:
+
+| Provincia | Realtà sul terreno |
+|:---|:---|
+| British Columbia | La copertura urbana è affidabile; le strade secondarie si diradano in fretta. Rogers Pass ha circa 40 km senza segnale, e la costa ovest dell'Isola di Vancouver attorno a Tofino e Ucluelet è limitata. |
+| Alberta | Solida dove vive la gente. L'Icefields Parkway tra Lake Louise e Jasper percorre circa 230 km con quasi nessuna copertura. Scarica mappe offline prima di percorrerla. |
+| Ontario | Forte a Toronto, Ottawa e nel corridoio; il nord dell'Ontario oltre Sudbury ha grandi vuoti tra i paesi. |
+| Quebec | Bell è la rete più forte nel complesso. La Penisola Gaspé ha copertura limitata — scarica le mappe per l'intero giro. |
+| Nuova Scozia | Ok a Halifax; il Cabot Trail su Cape Breton ha zone morte. |
+| Terranova | Affidabile nei paesi; il segnale sfuma sui tratti costieri più tranquilli e cala circa 30 minuti dopo che il traghetto lascia la Nuova Scozia. |
+| Yukon, Territori del Nord-Ovest, Nunavut | Copertura solo a Whitehorse, Yellowknife e in pochi paesi lungo l'autostrada. La Dempster Highway percorre 700+ km con essenzialmente niente. Un satellite messenger è lo strumento giusto lì, non una eSIM migliore. |
+
+Pianificare un percorso che lascia il Canada? Parti da [eSIM per gli Stati Uniti](/united-states-esim/), o confronta i [piani eSIM Messico](/mexico-esim/). Se il tuo itinerario attraversa confini più di una volta, una [eSIM Nord America](/north-america-esim/) ti salva dall'acquistare due volte.
+
+La selezione automatica della rete è ciò che rende questo possibile. Un profilo che può muoversi tra Bell, Rogers e TELUS copre i vuoti provinciali che nessun piano a singolo operatore può.
+
+## Impostazioni APN per le linee eSIM canadesi
+
+Le impostazioni APN sono l'ultima cosa che la maggior parte dei viaggiatori deve toccare e la prima da escludere quando i dati falliscono. Qui sotto: i valori per tutti e quattro gli operatori, quando l'inserimento manuale è davvero richiesto, e i percorsi esatti dei menu.
+
+### Valori APN per le eSIM Bell, Rogers e TELUS
+
+Ti serviranno solo se hai comprato una SIM o eSIM **direttamente da un operatore canadese**. Se sei in roaming su una eSIM da viaggio, il profilo fornisce il suo APN e non dovresti cambiare nulla.
+
+| Operatore | APN | Nome utente | Password |
+|:---|:---|:---|:---|
+| Bell | `pda.bell.ca` | vuoto | vuoto |
+| Rogers | `ltemobile.apn` | vuoto | vuoto |
+| TELUS | `sp.telus.com` | vuoto | vuoto |
+| SaskTel | `pda.stm.sk.ca` | vuoto | vuoto |
+
+Lascia vuoti nome utente e password. Se quegli operatori richiedono valori, le istruzioni di attivazione fornite con il tuo profilo li dichiareranno.
+
+### Valori APN manuali per il Canada
+
+La configurazione automatica gestisce i profili degli operatori canadesi in quasi ogni caso; questa lista copre le eccezioni.
+
+- Un telefono più vecchio che non raccoglie mai da solo le impostazioni dell'operatore
+- Un profilo installato tramite un codice di attivazione manuale piuttosto che una scansione QR
+- Una eSIM prepagata emessa dall'operatore dove la configurazione automatica non è partita
+- Quasi mai su una eSIM da viaggio — è il punto di un profilo gestito
+
+### Casi che richiedono un APN Canada manuale
+
+Il percorso dei menu è lo stesso su qualsiasi rete canadese tu sia; cambiano solo i valori sopra.
+
+- **iPhone:** Impostazioni → Cellulare → tocca la linea eSIM → Rete Dati Cellulare → inserisci l'APN
+- **Android:** Impostazioni → Connessioni → Reti Mobili → Nomi dei Punti di Accesso → aggiungi un nuovo APN
+
+Dopo il salvataggio, riavvia il telefono. Se i dati falliscono ancora, conferma che sia la eSIM, non la SIM di casa, la linea dati selezionata prima di cambiare altro.
+
+## Il percorso di attivazione
+
+Un passaggio attraverso questa sezione ti porta da un'installazione pulita a una connessione dati funzionante — e copre i quattro schemi di guasto che una rete canadese può davvero produrre, nell'ordine in cui li incontrerai.
+
+### Controlli pre-volo per una eSIM canadese
+
+Falli sul Wi-Fi a casa piuttosto che nella hall degli arrivi.
+
+| # | Controllo | Come appare "ok" |
+|:---|:---|:---|
+| 1 | Il telefono non è bloccato su operatore | "Nessuna restrizione SIM" appare in Impostazioni -> Generali -> Info -> Carrier Lock |
+| 2 | Il telefono supporta la eSIM | `*#06#` mostra un EID, o il [verificatore di compatibilità](/compatibility/) conferma il tuo modello |
+| 3 | Codice QR e codice di attivazione salvati | Screenshot conservato sul telefono **e** nell'archiviazione cloud |
+| 4 | Profilo installato prima della partenza | Installa sul Wi-Fi a casa; il profilo si connette quando atterri |
+| 5 | Linea dati e roaming impostati | eSIM selezionata per i dati mobili, roaming dati attivo |
+
+Fai il punto 4 a casa. Le hall arrivi di Toronto Pearson e Vancouver hanno Wi-Fi congestionato esattamente quando ne hai più bisogno, e un profilo che installi a terra compete con quello di tutti gli altri.
+
+### Mettere il profilo sul tuo telefono
+
+La nostra [guida all'attivazione passo-passo](/faq/how-to-activate-an-esim/) copre la sequenza generica — Impostazioni, Cellulare, Aggiungi eSIM, scansione, etichetta la linea, scegli la linea dati, abilita il roaming. Sulle reti canadesi le differenze sono queste:
+
+- **Lucky Mobile (Bell):** attivata nell'app My Account; nessuna scansione QR necessaria, e un codice di attivazione manuale è disponibile se la notifica non arriva
+- **Rogers:** il profilo è emesso dall'operatore — l'attivazione self-serve online è inaffidabile, quindi aspettati un'attivazione in negozio o via telefono
+- **TELUS:** attivazione eSIM istantanea dopo il checkout quando prendi un piano; l'attivazione prepagata è emessa dall'operatore
+- **SaskTel:** la configurazione eSIM è documentata e supportata, e di solito viene completata insieme alla firma prepagata
+- **eSIM da viaggio:** installazione tramite codice QR, e lo stesso profilo fa roaming sulla più forte tra Bell, Rogers o TELUS
+
+### Quattro passi per correggere la connessione
+
+Gli errori di attivazione generali — un profilo che non si scarica, una scansione che fallisce, una eSIM che si installa ma non si registra mai — sono trattati nella nostra [guida alla risoluzione dei problemi eSIM](/faq/esim-activation-errors-troubleshooting-guide/). I quattro schemi di guasto qui sotto sono specifici del Canada.
+
+**A. La eSIM non si installa**
+1. Impostazioni -> Generali -> Info -> Carrier Lock: "Nessuna restrizione SIM" è l'unica lettura accettabile
+2. Conferma che il codice sia ancora fresco -- un QR usato non si installa mai
+3. Controlla con l'operatore se il profilo è ancora in sospeso
+
+**B. Installata, ma nessuna barra di segnale**
+1. Ricontrolla lo stato del blocco
+2. Impostazioni → Cellulare → Selezione Rete → seleziona Bell, Rogers o TELUS manualmente invece che automaticamente
+3. Cancella le impostazioni di rete, poi riavvia
+
+**C. Barre di segnale, ma niente internet**
+1. Ri-guarda l'APN nella tabella dell'operatore sopra
+2. Punta i dati mobili sulla linea eSIM, non sulla SIM di casa
+3. Controlla di non aver esaurito la quota dati — Lucky Mobile e marchi prepagati simili throtano a 128 Kbps invece di fermarsi
+
+**D. "SOS" o "Solo chiamate di emergenza"**
+1. Controlla che il gestore SIM mostri la eSIM come abilitata
+2. Disabilita o elimina ogni altra SIM attiva o profilo eSIM
+3. Riavvia e reimposta le impostazioni di rete
+4. Come ultima risorsa, rimuovi il profilo e reinstalla da un codice QR fresco
+
+### Cosa avere pronto prima di chiamare Bell, Rogers o TELUS
+
+| Informazione | Dove trovarla |
+|:---|:---|
+| Numero d'ordine o account | Email di conferma |
+| Modello del telefono e versione OS | Impostazioni → Info |
+| EID | `*#06#` |
+| Screenshot dell'errore | Scattalo prima che lo schermo cambi |
+| Impostazioni APN attuali | Impostazioni → Rete Dati Cellulare |
+| Stato del roaming dati | Impostazioni → Cellulare → la tua linea eSIM |
+| Passi già provati | Tieni una breve lista |
+
+## Domande e risposte
+
+### Piani eSIM Bell per i visitatori
+
+Non come visitatore. I piani consumer di Bell sono postpagati e vogliono un indirizzo canadese e una verifica creditizia. Bell instrada i clienti prepagati a **Lucky Mobile**, dove una eSIM a $0 si attiva nell'app su piani da $19/mese. È il percorso eSIM Bell per i visitatori internazionali.
+
+### Una eSIM Rogers richiede un indirizzo canadese?
+
+Per un piano Rogers, sì — la firma avviene in negozio con un passaporto più un permesso, una carta PR o una Confirmation of Permanent Residence, il che significa identificazione canadese e una configurazione di fatturazione canadese. Se vuoi la rete Rogers senza quello, compra una eSIM da viaggio sulla rete Rogers, o usa chatr per il prepagato.
+
+### I visitatori internazionali possono comprare una eSIM TELUS?
+
+Tecnicamente sì — TELUS attiva una eSIM istantaneamente dopo il checkout quando prendi un piano, e pubblica livelli prepagati Nationwide Talk, Text & Data da $35 CAD. In pratica la via del piano coinvolge una verifica creditizia e l'attivazione prepagata è emessa dall'operatore, quindi la maggior parte dei visitatori è servita meglio da Public Mobile sulla stessa rete o da una eSIM da viaggio.
+
+### Quale rete è la migliore in Canada?
+
+TELUS, sull'evidenza. Ha registrato la **Migliore Costanza di Rete Mobile in Canada all'85,6%** — la quota di test che rispetta una soglia di 5 Mbps giù / 1 Mbps su — che è la cosa più vicina a una misura di affidabilità rurale. Bell è più veloce dove ha segnale. Nessun operatore copre l'Icefields Parkway o la Dempster Highway, quindi scarica le mappe offline a prescindere.
+
+### Quanti dati servono per il Canada?
+
+Lucky Mobile, a **$19/mese per 500 MB**, con 5 GB a $25/mese e 15 GB a $30/mese, nessuna verifica creditizia e nessuna tassa di eccedenza. Oltre la quota le velocità scendono a fino a 128 Kbps, quindi abbina il livello al tuo uso piuttosto che comprare il più economico e fare throttling dal secondo giorno.
+
+### Controllare IMEI ed EID per il Canada
+
+Deve essere libero da operatore e pronto per la eSIM. Controlla entrambi in un solo passaggio con la [lista di compatibilità eSIM](/compatibility/) — copre il supporto EID e la questione delle bande, compresa la banda 5G rurale n71 che molti telefoni internazionali non hanno. Se vuoi prima capire cosa succede durante l'installazione, leggi [la spiegazione dell'attivazione eSIM](/faq/what-is-esim-activation-and-how-does-it-work/).
+
+### Dispositivi problematici da conoscere
+
+Chiedi all'operatore a cui è bloccato. Ai sensi della Regola F.1.(ii) del Wireless Code del CRTC, in vigore dal 1° dicembre 2017, un fornitore deve sbloccare un dispositivo o darti i mezzi per sbloccarlo **su richiesta, senza costi** — e i telefoni venduti dai fornitori canadesi devono essere sbloccati in partenza. Una volta pagati per intero, i dispositivi di solito si sbloccano entro poche ore. Controlla lo stato su Impostazioni → Generali → Info → Carrier Lock.
+
+### Bell contro Rogers: quale è meglio in Canada?
+
+Diretto significa una rete, un'attivazione emessa dall'operatore, e spesso documento o un indirizzo canadese; in cambio ottieni un vero numero canadese e chiamate nazionali illimitate. Una eSIM da viaggio significa consegna immediata, nessuna burocrazia, commutazione automatica tra Bell, Rogers e TELUS, e un prezzo fisso upfront. Viaggio breve: eSIM da viaggio. Soggiorno di mesi in Canada, o serve un numero locale? Vai diretto con un operatore.
+
+### Gli operatori canadesi offrono piani eSIM specifici per turisti?
+
+Lucky Mobile sì — commercializza una eSIM turistica per i visitatori del Canada con piani a partire da $19/mese, nessuna verifica creditizia e nessun impegno a lungo termine. Bell, Rogers e TELUS non vendono un prodotto turistico in quanto tale; i loro equivalenti più vicini sono livelli prepagati che presuppongono un'identificazione canadese.
+
+### Gli operatori canadesi in breve
+
+Sì — è il modo più pulito di tenere un numero locale mentre la tua linea di casa resta attiva. Lascia la SIM fisica per le chiamate e la verifica SMS e metti i dati sulla eSIM. In Impostazioni, punta i Dati Mobili sulla linea eSIM e lascia la linea di casa per la voce. Due avvertenze: spegni il roaming dati sulla SIM di casa così non vieni fatturato per traffico in background, e ricorda che la maggior parte delle eSIM solo dati non può ricevere SMS, quindi i codici della banca arrivano comunque sul tuo numero di casa.
+
+### Attivazione eSIM Canada passo-passo
+
+Segui i quattro schemi specifici del Canada sopra in ordine — stato del blocco, selezione della rete, APN e linea dati, poi reinstallazione del profilo — e se fallisce ancora, il catalogo errori più ampio nella [guida alla risoluzione dell'attivazione](/faq/esim-activation-errors-troubleshooting-guide/) copre il resto. Tieni pronti EID, numero d'ordine e uno screenshot prima di contattare l'assistenza.
+
+### Cosa fa un chip eSIM con un profilo Bell o Rogers
+
+La eSIM è un chip saldato che contiene profili di operatore invece di una carta di plastica — l'operatore spinge un profilo, il tuo telefono lo scrive sul chip, e la linea si comporta come qualsiasi altra. [Attivazione eSIM spiegata](/faq/what-is-esim-activation-and-how-does-it-work/) spiega i server SM-DP+ e il codice QR monouso.
+
+Altre domande? [Vedi le FAQ complete →](/faq/)
+
+## Fonti per questa guida
+
+- **Ookla Speedtest Connectivity Report — Canada, 2S 2025** — [il report per operatore](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025) contiene ogni cifra a livello di operatore usata qui: la mediana download 5G di 171,17 Mbps di Bell, la disponibilità 5G dell'86,7% e il punteggio video di 86,03 di Rogers, e la costanza dell'85,6% di TELUS.
+- **Ookla Speedtest Global Index** — [la voce Canada](https://www.speedtest.net/global-index/canada) fornisce la mediana mobile nazionale di 86,08 Mbps e la cifra fissa di 257,88 Mbps, aggiornate mensilmente.
+- **Prezzi dati mondiali di Cable.co.uk** — [la tabella completa dei paesi](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) fissa il prezzo medio per gigabyte del Canada a USD 5,37.
+- **DataReportal / GSMA Intelligence** — [i dati principali digitali 2025 del Canada](https://datareportal.com/reports/digital-2025-canada) sostengono le cifre sulla dimensione del mercato.
+- **CRTC** — [viaggiare con il tuo dispositivo](https://crtc.gc.ca/eng/phone/mobile/trav.htm) e il Wireless Code portano le regole di sblocco dei dispositivi citate sopra.
+- **Pagine degli operatori** — prezzi dei piani dati, percorsi di consegna e requisiti di identificazione sono presi da [piani Lucky Mobile](https://www.luckymobile.ca/plans), [Rogers prepagato](https://www.rogers.com/plans/prepaid), [piani TELUS e attivazione eSIM](https://www.telus.com/shop/mobility/bring-your-own-device) e [SaskTel noSTRINGS Prepaid](https://www.sasktel.com/wps/wcm/connect/content/home/mobility/plans/nostrings-prepaid).
+- **GSMA Intelligence / Mobile Connectivity Index** — [la scheda di valutazione del mercato](https://www.mobileconnectivityindex.com/) valuta il Canada su copertura, convenienza e adozione.
+
+Tutto ciò che sta sopra è una misurazione di terzi. Il tuo throughput reale si muoverà con il telefono, la banda su cui ti trovi e quanto è caricata la cella.
+
+## Porta una sola eSIM Canada attraverso Bell, Rogers e TELUS
+
+Roami mantiene un solo profilo e lo consegna alla rete nazionale più forte dove ti trovi — Bell in centro, TELUS sui passi di montagna. Parti con una [eSIM di prova gratuita Canada](/free-esim/), o prendi il 20% di sconto su un piano a pagamento con il codice **WEB20** quando [scegli la tua eSIM Canada](/canada-esim/).
+
+[Prendi il piano eSIM Canada](/canada-esim/)
+
+*Il 20% di sconto si applica a un primo ordine*
+
+[Prova una eSIM Canada gratuita](/free-esim/)

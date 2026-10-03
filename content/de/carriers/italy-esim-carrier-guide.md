@@ -1,352 +1,714 @@
 ---
-title: "Brauchen Sie mobiles Internet in Italien? Unser eSIM Guide."
-description: "Mit Roami den perfekten Italien eSIM Anbieter finden. Wir vergleichen Vodafone, WINDTRE und Iliad – von der Stadt bis aufs Land in Italien."
-date: "2026-06-17T06:04:19+00:00"
 
-keywords: eSIM Italien, Prepaid Daten, 5G Netz, Vodafone Italien, Iliad Italien, WINDTRE,
-  Roami eSIM, Reise Internet Italien
+title: "Welches Netz für Ihre Italien eSIM und was kostet es?"
+
+description: "Die Italien eSIM von TIM bis Iliad im Ookla-Vergleich – Geschwindigkeiten, Netzabdeckung von den Dolomiten bis Sizilien und alle Preise."
+image: "img/esim/carriers/italy-esim-carrier-guide.jpg"
+
+date: "2026-09-25T18:10:14+00:00"
+
+keywords: Italien eSIM-Netzbetreiber, TIM eSIM, Vodafone Italien eSIM, WINDTRE eSIM, Iliad eSIM, Italien 5G Netzabdeckung, Italien eSIM APN, eSIM Italien Prepaid, bester eSIM-Netzbetreiber Italien, Italien Reisen eSIM
+
 site_name: Roami
+
 brand_name: Roami
+
 breadcrumb_items:
+
 - name: Roami
+
   url: /
+
 - name: Italien eSIM-Guide
+
   url: ''
-hero_badge: 🇮🇹 Italien Reise-eSIM Aktueller Guide
-hero_subtitle_main: 'Italien eSIM: Sofortiges Plug-and-Play-Reise-Internet'
-hero_subtitle_highlight: Premium 5G-Netzabdeckung durch Vodafone und Iliad
-hero_description_line1: Die Italien eSIM unterstützt den Online-Kauf und die sofortige
-  Aktivierung ohne den Austausch physischer SIM-Karten. Sie deckt Großstädte ab, hilft
-  Ihnen, sich von teuren Roaming-Gebühren zu verabschieden und Italien unbeschwert
-  zu bereisen.
-hero_description_line2: Verbinden Sie sich in Sekundenschnelle und genießen Sie unbegrenztes
-  Surfen.
-hero_link_text: Italien eSIM
-hero_link_url: /italy-esim/
-tldr_summary: 'Speziell für digitale Nomaden entwickelt: Unbegrenzte Datenlösungen
-  für mehrere Länder. Mit der Roami Italien eSIM surfen Sie im schnellsten 5G-Netz
-  des Landes – Vodafone erreicht laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)
-  eine mediane Downloadgeschwindigkeit von 72,91 Mbps (alle Technologien) und 241,99
-  Mbps im 5G-Netz. Iliad ist der schnellste Festnetzanbieter mit 360,42 Mbps. Genießen
-  Sie nahtlose Konnektivität in Mailand, Rom, Padua und Genua, ohne Roaming-Gebühren.'
-sidebar_more_hint: Wischen, um mehr zu sehen
-sidebar_title: Italien eSIM Schnelle Links
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Kurzauswahl: Welchen Italien eSIM-Anbieter sollten Sie wählen?'
-- href: '#operators'
-  text: Top Italien eSIM-Mobilfunkanbieter im Test
-- href: '#city-guide'
-  text: 'Städte-Guide: Die beste eSIM für Italien'
-- href: '#before-buy'
-  text: Dinge, die Sie vor dem Kauf einer Italien eSIM wissen müssen
-- href: '#faq'
-  text: Häufig gestellte Fragen zur Italien eSIM
-- href: '#myths'
-  text: Mythen und Fakten über die Italien eSIM
-- href: '#data-sources'
-  text: Datenquellen
-quick_picks_title: 'Kurzauswahl: Welchen Italien eSIM-Anbieter sollten Sie wählen?'
-quick_picks_table_headers:
-- Ihr Reisestil
-- Empfohlener Anbieter
-- Netzwerkdatenleistung
-quick_picks_note_prefix: 'Datenquelle: '
-quick_picks_note_carrier: '[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Digitale Nomaden
-  carrier: Vodafone
-  carrier_class: text-orange-600
-  reason: 'Beste Gesamtleistung: 72,91 Mbps Download, 241,99 Mbps 5G. Höchste 5G-Gaming-
-    und Video-Streaming-Qualität.'
-- travel: Städte-Entdecker
-  carrier: WINDTRE
-  carrier_class: text-purple-600
-  reason: Beste 5G-Verfügbarkeit (74,8% der Nutzer). Ideal für dichte urbane Gebiete.
-- travel: Preisbewusste Vielsurfer
-  carrier: Iliad
-  carrier_class: text-blue-600
-  reason: Schnellster Festnetz-ISP (360,42 Mbps). Auch mobil sehr wettbewerbsfähig.
-- travel: Gamer & Streamer
-  carrier: Sky
-  carrier_class: text-green-600
-  reason: Beste Gaming- und Video-Streaming-Erfahrung (laut [Ookla Speedtest Connectivity
-    Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)).
-cta_button_main_text: Die kostengünstigste Italien Reise-eSIM ansehen
-cta_button_sub_text: Automatischer Netzwerkwechsel, unterstützt automatischen Prepaid-Daten-Preisvergleich
-operator_labels:
-  best_for: 'Am besten für:'
-  core_data: 'Kerndaten:'
-  connect_note_label: 'eSIM-Verbindungshinweis:'
-operators:
-- id: vodafone-esim
-  title: 'Vodafone eSIM Test: Beste Abdeckung auf dem Land'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für alle, die Wert auf höchste
-    Geschwindigkeit und beste 5G-Erfahrung legen. Perfekt für digitale Nomaden und
-    Vielreisende.
-  core_data: '- **5G-Verfügbarkeit**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)
-    beträgt die mediane 5G-Downloadgeschwindigkeit 241,99 Mbps.
 
-    - **Downloadrate**: 72,91 Mbps (alle Technologien), 241,99 Mbps (5G).
+hero_badge: "Italiens Mobilfunknetze, bewertet für Ihre Reise"
 
-    - **Uploadrate**: 12,83 Mbps (alle Technologien), 17,52 Mbps (5G).
+hero_subtitle_main: "Three Netze, eine Entscheidung und die Daten, um sie zu treffen"
 
-    - **Latenz**: 45 ms (5G).
-
-    - **5G-Konsistenz**: 81,7% der Proben erreichen ≥25 Mbps Download und ≥3 Mbps
-    Upload.
-
-    - **Connectivity Score**: 75,95 (Gesamt), 72,65 (5G).'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde AGCOM (2025). Vodafone
-    führt in den meisten Metriken.
-  connect_note: Die Aktivierung verläuft nahtlos über die Roami App. Nach QR-Code-Scan
-    sofort online – ideal für Ankunft am Flughafen.
-  user_scenarios: '- **Kolosseum, Rom**: Teilen Sie Ihre Live-Storys in 4K, ohne Puffer.
-    Vodafone liefert selbst bei Spitzenzeiten stabile 5G-Geschwindigkeiten.
-
-    - **Uffizien, Florenz**: Nutzen Sie Augmented-Reality-Apps für Kunstwerke – geringe
-    Latenz und hohe Bandbreite sorgen für flüssige Erlebnisse.
-
-    - **Cinque Terre**: Wandern Sie entlang der Küste und streamen Sie Musik oder
-    Podcasts – Vodafone deckt auch ländliche Pfade gut ab.'
-  bg_color: bg-blue-50
-- id: iliad-esim
-  title: 'Iliad eSIM Test: Schnellster Festnetz-Ersatz'
-  best_for: Ideal für preisbewusste Nutzer, die zu Hause oder im Café maximale Downloadraten
-    benötigen. Iliad ist der schnellste Festnetzanbieter Italiens.
-  core_data: '- **Mediane Downloadgeschwindigkeit (Festnetz)**: 360,42 Mbps.
-
-    - **Mediane Uploadgeschwindigkeit (Festnetz)**: 237,62 Mbps.
-
-    - **Mobilfunk**: Iliad ist auch im Mobilfunk stark, aber nicht Marktführer.
-
-    - **Empfehlung**: Perfekt als stationärer Hotspot oder für datenintensive Arbeiten.'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde AGCOM (2025). Iliad
-    ist der schnellste ISP.
-  connect_note: Die Iliad eSIM von Roami wird automatisch aktiviert. Einfach QR-Code
-    scannen und loslegen – kein manuelles Setup nötig.
-  user_scenarios: '- **Mailand, Navigli**: Arbeiten Sie von einer Bar aus – Iliad
-    bietet Festnetzgeschwindigkeiten, ideal für große Datei-Uploads.
-
-    - **Bologna, Universität**: Nutzen Sie die eSIM für Recherchen und Video-Calls
-    – die hohe Uploadrate von 237 Mbps macht Sie zum Produktivitäts-Champion.
-
-    - **Turin, Mole Antonelliana**: Streamen Sie 8K-Videos von Sehenswürdigkeiten
-    – Iliad liefert die nötige Bandbreite.'
-  bg_color: bg-blue-50
-- id: windtre-esim
-  title: 'WINDTRE eSIM Test: Beste 5G-Verfügbarkeit'
-  best_for: Perfekt für Reisende, die in Großstädten und touristischen Hotspots unterwegs
-    sind und stets die beste 5G-Abdeckung wünschen.
-  core_data: '- **5G-Verfügbarkeit**: 74,8% der Nutzer haben Zugang zum 5G-Netz (höchster
-    Wert).
-
-    - **Downloadrate**: Nicht die schnellste, aber sehr konstante Verbindung.
-
-    - **Empfehlung**: Ideal für Städtereisen, wo Abdeckung vor Spitzengeschwindigkeit
-    geht.'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde AGCOM (2025). WINDTRE
-    führt bei 5G-Verfügbarkeit.
-  connect_note: Die WINDTRE eSIM von Roami verbindet sich automatisch mit dem stärksten
-    verfügbaren 5G-Signal. Kein manuelles Netzwerk-Suche nötig.
-  user_scenarios: '- **Vatikanstadt, Rom**: In Menschenmengen bleibt die Verbindung
-    stabil – WINDTREs hohe 5G-Verfügbarkeit verhindert Netzüberlastung.
-
-    - **Venedig, Markusplatz**: Posten Sie Fotos und Videos sofort – WINDTREs Netz
-    ist in touristischen Zentren stark ausgebaut.
-
-    - **Neapel, Spaccanapoli**: Nutzen Sie Navigation und Restaurant-Apps ohne Unterbrechung
-    – konstante 5G-Abdeckung in engen Gassen.'
-  bg_color: bg-blue-50
-cards_compatibility_title: Prüfen Sie die Italien eSIM Kompatibilitätsliste
-cards_compatibility_desc: Prüfen Sie, ob Ihr Telefon Italien eSIM und lokale 5G-Bänder
-  unterstützt
-cards_free_title: Holen Sie sich Ihre kostenlose Italien eSIM
-cards_free_desc: Begrenzte kostenlose Test-eSIM, erleben Sie das lokale 5G-Highspeed-Netzwerk
-  ohne Roaming-Kosten
-cards_free_badge: KOSTENLOS
-cards_app_title: Roami App herunterladen & 20% Rabatt auf eSIM erhalten
-cards_app_desc: 'Rabattcode: <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | One-Tap-eSIM-Verwaltung'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Dinge, die Sie vor dem Kauf einer Italien eSIM wissen müssen
-before_buy_sections:
-- heading: 1. Wichtige 5G/4G-Frequenzbänder in Italien
-  content: 'Italienische Mobilfunker nutzen hauptsächlich folgende Bänder: 5G: n78
-    (3500 MHz), n257 (26 GHz – mmWave, nur in Ballungszentren), n1 (2100 MHz), n3
-    (1800 MHz). 4G/LTE: Band 3 (1800 MHz), Band 7 (2600 MHz), Band 20 (800 MHz – für
-    ländliche Abdeckung). Stellen Sie sicher, dass Ihr Smartphone diese Bänder unterstützt
-    – die meisten aktuellen Modelle tun dies.'
-- heading: 2. Registrierungspflicht (KYC) für eSIM in Italien
-  content: In Italien ist für jede SIM-Karte (auch eSIM) eine Identitätsprüfung (Know
-    Your Customer – KYC) vorgeschrieben. Sie müssen bei der Aktivierung Ihren Reisepass
-    oder Personalausweis vorlegen. Roami führt diese Prüfung digital durch – Sie müssen
-    lediglich ein Foto Ihres Ausweises hochladen. Die Freischaltung erfolgt innerhalb
-    weniger Minuten.
-- heading: 3. Fair-Use-Policy (FUP) und Drosselung
-  content: Die meisten italienischen Tarife unterliegen einer Fair-Use-Policy. Nach
-    Überschreiten eines bestimmten Datenvolumens (z. B. 30 GB pro Monat) kann die
-    Geschwindigkeit gedrosselt werden. Roami bietet jedoch spezielle „Unlimited“-Tarife
-    ohne Drosselung für die ersten 30 Tage – ideal für intensive Nutzung.
-- heading: 4. Netzabdeckung in ländlichen Gebieten
-  content: Während Vodafone und WINDTRE in Städten exzellente 5G-Abdeckung bieten,
-    kann es in ländlichen Regionen (z. B. Toskana, Apulien) zu Lücken kommen. Hier
-    ist 4G+ (LTE Advanced) oft die einzige Option. Iliad hat in ländlichen Gebieten
-    eine etwas geringere Abdeckung. Prüfen Sie vor Reiseantritt die Abdeckungskarten
-    der Anbieter.
-- heading: 5. Kompatibilität mit Ihrem Smartphone
-  content: Nicht alle Smartphones unterstützen eSIM. iPhones ab dem XS/XR, Google
-    Pixel ab dem 3a, Samsung Galaxy ab dem S20 und die meisten aktuellen Modelle sind
-    kompatibel. Ältere Geräte oder China-Varianten haben oft keine eSIM-Funktion.
-    Prüfen Sie in den Einstellungen unter „Mobiles Netzwerk“ > „eSIM hinzufügen“.
-city_guide_title: 'Städte-Guide: Die beste eSIM für Italien'
-city_guide_desc: Finden Sie heraus, welche Italien eSIM für Ihre Zielstadt die beste
-  Wahl ist. Basierend auf echten Speedtest-Daten und lokaler Netzabdeckung.
-city_table_headers:
-- Stadt
-- Empfohlener eSIM-Anbieter
-- Grund / Eigenschaften
-city_recommendations:
-- city: Padua
-  carriers: Vodafone
-  reason: Padua ist die Stadt mit der schnellsten mobilen Downloadgeschwindigkeit
-    Italiens (132,38 Mbps). Vodafone ist hier der Spitzenreiter. Ideal für datenintensive
-    Arbeiten und Streaming.
-- city: Genua
-  carriers: Iliad
-  reason: Genua hat die schnellste feste Internetgeschwindigkeit (207,35 Mbps). Iliad
-    ist der schnellste ISP. Perfekt für digitale Nomaden, die von ihrer Unterkunft
-    aus arbeiten.
-- city: Mailand
-  carriers: WINDTRE
-  reason: Mailand ist eine 5G-Hochburg. WINDTRE bietet die beste 5G-Verfügbarkeit
-    (74,8%). In der Modemetropole sind Sie immer bestens vernetzt – ideal für Business
-    und Shopping.
-- city: Rom
-  carriers: Vodafone
-  reason: Rom ist touristisch stark frequentiert. Vodafone bietet die beste Gesamtleistung
-    und 5G-Gaming-Erfahrung. Perfekt für Live-Streams vom Kolosseum oder der Vatikanstadt.
-- city: Florenz
-  carriers: Sky
-  reason: Florenz ist ein Zentrum für Kunst und Kultur. Sky bietet die beste Video-Streaming-Erfahrung.
-    Ideal für Museums-Apps und virtuelle Touren in Echtzeit.
-city_guide_tip: '💡 Tipp: Wenn Sie die Multi-Netzwerk-eSIM von Roami nutzen, wechselt
-  Ihr Telefon automatisch zum besten lokalen Anbieter – keine manuelle Auswahl erforderlich.'
-scene_guide_title: 🎯 Wählen Sie die beste Italien eSIM basierend auf Ihrem Reiseszenario
-scene_items:
-- icon: 🏛️
-  title: Stadtentdecker
-  text: Erkunden Sie Rom, Florenz oder Venedig. Mit der Vodafone eSIM haben Sie selbst
-    in Menschenmengen stabiles 5G. Nutzen Sie Augmented-Reality-Apps für historische
-    Stätten oder streamen Sie Live-Führungen.
-- icon: 🏞️
-  title: Naturliebhaber
-  text: Wandern Sie in den Dolomiten oder der Toskana. WINDTREs hohe 5G-Verfügbarkeit
-    sorgt auch in ländlichen Gebieten für Verbindung. Perfekt für Navigation und Notfallkommunikation.
-- icon: 🚗
-  title: Roadtripper
-  text: Reisen Sie von Mailand nach Sizilien. Die Iliad eSIM bietet hohe Downloadraten
-    für Offline-Karten und Musik-Streaming. Dank der Fair-Use-Policy kein Drossel-Risiko.
-- icon: 🏖️
-  title: Strandurlauber
-  text: Entspannen Sie an der Amalfiküste oder in Sardinien. Mit der Roami eSIM bleiben
-    Sie in Kontakt, teilen Sie Ihre Urlaubsfotos sofort und vermeiden Sie teure Roaming-Gebühren.
-scene_guide_footer: 💡 Die Roami Italien eSIM Multi-Netzwerk-Edition erkennt Ihr Szenario
-  automatisch und wechselt in das beste Netzwerk – keine manuelle Einrichtung erforderlich.
-faq_title: Häufig gestellte Fragen zur Italien eSIM
-faq_prefix: F
-faq_suffix: ': '
-faq_more_link_text: Weitere Fragen? Komplette FAQ ansehen →
-faq_more_link_url: /faq/
-faq:
-- q: Was soll ich tun, wenn meine Italien eSIM nach der erfolgreichen Installation
-    kein Netzwerk findet?
-  a: Stellen Sie sicher, dass die Daten-Roaming-Funktion in Ihren Mobilfunk-Einstellungen
-    aktiviert ist. Wählen Sie manuell das Netzwerk aus (z. B. Vodafone IT oder WINDTRE).
-    Starten Sie das Gerät neu. Falls das Problem bestehen bleibt, kontaktieren Sie
-    den Roami-Kundenservice – die Reaktionszeit beträgt in der Regel unter 5 Minuten.
-- q: Verbindet sich das System vollautomatisch mit dem stärksten lokalen Netzbetreiber
-    in Italien, ohne manuelles Setup?
-  a: Ja, die Roami eSIM ist so konfiguriert, dass sie sich automatisch mit dem stärksten
-    verfügbaren Netz verbindet. In der Regel wird Vodafone bevorzugt, da es die beste
-    Gesamtleistung bietet. Sie können jedoch in den Einstellungen manuell einen anderen
-    Anbieter auswählen, falls gewünscht.
-- q: In welchen Sprachen ist der Kundenservice für die Italien eSIM verfügbar und
-    wie lange ist die Reaktionszeit?
-  a: Der Kundenservice von Roami ist auf Deutsch, Englisch, Italienisch, Französisch
-    und Spanisch verfügbar. Die durchschnittliche Reaktionszeit beträgt weniger als
-    5 Minuten im Chat und unter 1 Stunde per E-Mail. Bei dringenden Problemen (z.
-    B. keine Verbindung) ist der Chat die schnellste Option.
-- q: Wird die Internetgeschwindigkeit in Italien beeinträchtigt, wenn mehrere Geräte
-    gleichzeitig über den eSIM-Hotspot verbunden sind?
-  a: Ja, die Geschwindigkeit kann sich verringern, da die Bandbreite geteilt wird.
-    Bei einem 5G-Tarif mit 241 Mbps (Vodafone) sind 2-3 Geräte problemlos möglich.
-    Bei intensiver Nutzung (z. B. 4K-Streaming auf zwei Geräten) kann es zu Engpässen
-    kommen. Roami empfiehlt, für Teamsitzungen oder große Downloads ein Gerät zu priorisieren.
-- q: Kann die Italien eSIM als primäre Karte für alle mobilen Datenverbindungen genutzt
-    werden?
-  a: Ja, Sie können die Roami eSIM als primäre Datenkarte einrichten. Telefonate und
-    SMS sind jedoch nicht enthalten – es handelt sich um eine reine Daten-eSIM. Für
-    Anrufe nutzen Sie bitte VoIP-Dienste wie WhatsApp, Skype oder Zoom. Die eSIM ist
-    ideal für Internet, Streaming und Navigation.
-myths_title: ⚠️ Häufige Mythen und Fakten über die Italien eSIM
-myth_label: '❌ Mythos: '
-truth_label: '✅ Fakt: '
-myths:
-- myth: 'Mythos: In Italien ist das Internet generell langsam.'
-  truth: 'Fakt: Italien hat eines der schnellsten 5G-Netze Europas. Vodafone erreicht
-    241,99 Mbps im 5G-Netz. In Städten wie Padua und Genua sind Spitzenwerte von über
-    130 Mbps (mobil) bzw. 207 Mbps (fest) möglich.'
-- myth: 'Mythos: eSIMs sind in Italien nicht verbreitet und werden oft nicht unterstützt.'
-  truth: 'Fakt: Alle großen italienischen Anbieter (Vodafone, WINDTRE, Iliad) unterstützen
-    eSIM. Die Roami eSIM ist sofort aktivierbar und wird von den meisten aktuellen
-    Smartphones akzeptiert.'
-- myth: 'Mythos: Man braucht eine italienische Steuernummer (Codice Fiscale), um eine
-    SIM zu kaufen.'
-  truth: 'Fakt: Für Prepaid-eSIMs von Roami ist kein Codice Fiscale nötig. Die Identitätsprüfung
-    (KYC) erfolgt mit Ihrem Reisepass. Der Kauf ist für Touristen völlig unkompliziert.'
-- myth: 'Mythos: 5G in Italien ist nur in Mailand und Rom verfügbar.'
-  truth: 'Fakt: 5G ist in über 200 Städten verfügbar, darunter Turin, Bologna, Neapel,
-    Palermo und viele kleinere Städte. WINDTRE bietet eine 5G-Verfügbarkeit von 74,8%
-    – das bedeutet, dass fast 3 von 4 Nutzern ständig 5G haben.'
-- myth: 'Mythos: Roaming in Italien ist günstiger als eine lokale eSIM.'
-  truth: 'Fakt: Roaming-Gebühren können schnell teuer werden (oft 10-20 € pro GB).
-    Eine lokale Roami eSIM ist deutlich günstiger – unbegrenzte Datenpläne beginnen
-    bereits bei wenigen Euro pro Tag.'
-data_sources_title: Datenquellen Italien Mobilfunknetze
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)'
-  description: Ookla Speedtest Intelligence® Daten für Italien, 1. Halbjahr 2025.
-    Enthält mediane Download-/Upload-Geschwindigkeiten, 5G-Leistung, Konsistenz und
-    Connectivity Scores für Vodafone, WINDTRE, Iliad und Sky.
-- name: OpenSignal 2025
-  description: OpenSignal-Bericht zur 5G-Verfügbarkeit und -Erfahrung in Italien.
-    Bestätigt WINDTREs Führung bei 5G-Verfügbarkeit und Vodafones Spitzenposition
-    bei Geschwindigkeit.
-- name: AGCOM (Autorità per le Garanzie nelle Comunicazioni) 2025
-  description: Italienische Regulierungsbehörde für Telekommunikation. Veröffentlicht
-    vierteljährliche Berichte zur Netzabdeckung, Frequenznutzung und Verbraucherrechte.
-    Bestätigt die Einhaltung der KYC-Pflicht und FUP-Regeln.
-data_sources_footer: Alle oben zitierten Netzleistungsdaten stammen aus öffentlich
-  zugänglichen Berichten Dritter (Ookla, OpenSignal, AGCOM) und wurden für den Zeitraum
-  1. Halbjahr 2025 erhoben. Die tatsächliche Geschwindigkeit kann je nach Standort,
-  Gerät und Netzauslastung variieren.
-data_sources_note: Netzwerkgeschwindigkeiten und Abdeckung können variieren. Die angegebenen
-  Werte sind Mediane aus einer Vielzahl von Tests. Roami übernimmt keine Garantie
-  für die dauerhafte Erreichbarkeit dieser Werte.
-cta_title: Sichern Sie sich Ihre Italien eSIM noch heute
-cta_desc: Erhalten Sie sofortigen Zugang zum schnellsten 5G-Netz Italiens. Keine versteckten
-  Kosten, keine Roaming-Gebühren. Aktivierung in unter 5 Minuten.
-cta_button_text: Jetzt Italien eSIM kaufen
-cta_button_link: /italy-esim/
-cta_free_trial_note: Exklusiv für Neukunden
-cta_free_trial_text: Kostenlose Italien Test-eSIM
-cta_free_trial_link: /free-esim/
 ---
+
+
+
+
+
+
+**Die entscheidende Frage ist einfach — mit welchem Netzbetreiber sollte Ihre Italien eSIM sich verbinden?** Die vier nationalen Netze sind nicht austauschbar. Im Ookla 1H 2025 Italien-Bericht wurde **Vodafone** als Bestes Mobilfunknetz und Bestes 5G-Netz ausgezeichnet, mit einem Speedtest Connectivity Score von **75,95**. **WINDTRE** erreichte mit **74,8 Prozent** die höchste 5G-Verfügbarkeit. **TIM** führte das Video-Streaming-Erlebnis mit **76,53** an. **Iliad** bot das beste Preis-Leistungs-Verhältnis und die höchste Nutzerbewertung mit **3,34**. Welches das beste Netz ist, hängt ganz davon ab, wohin Sie reisen, denn der beste eSIM-Netzbetreiber für Italien ist eine Routing-Entscheidung, keine Markenentscheidung. Dies ist die Italien-Version des Gesprächs, das wir Freunden am Abend vor dem Abflug mitgeben — ohne Fachchinesisch.
+
+
+
+**Schnelle Antwort:** Wählen Sie TIM für die größte Netzabdeckung, WINDTRE für den niedrigsten Preis pro Gigabyte, und installieren Sie Ihre Italien-eSIM in jedem Fall vor der Abreise. Die folgenden Abschnitte — Italien-Geschwindigkeiten, Preise, Registrierungsregeln — erläutern diese Aufteilung im Detail.
+
+
+
+Der beste Netzbetreiber hängt weiterhin von der Profilinstallation im Hintergrund ab — falls einer der beiden Teile unsicher wirkt, beginnen Sie mit dem [eSIM-Kompatibilitätstool](/compatibility/) und der [eSIM-Aktivierungsanleitung](/faq/what-is-esim-activation-and-how-does-it-work/). Kehren Sie dann für die Netz-Urteile zurück.
+
+
+
+**Die Antwort in einem Absatz:** Bleiben Sie in Rom, Mailand, Florenz oder Venedig? Vodafone und TIM bieten das schnellste und konstanteste 5G in den Städten. Fahren Sie mit der Fähre nach Capri oder entlang der Amalfi-Küste? Das 700-MHz-Niederband von TIM erreicht Orte, an denen die anderen schwächeln. Sie suchen den günstigsten Tarif? Iliad liegt bei etwa 9,99 EUR für 150 GB, ist in den Bergen jedoch weniger verlässlich. Sie möchten als Besucher direkt bei einem italienischen Netzbetreiber kaufen? Rechnen Sie mit einem Reisepass, einer möglichen Steuernummer und oft mit einer physischen SIM statt einer sauberen Remote-eSIM. Oder überspringen Sie den Papierkram: Die [kostenlose Test-eSIM](/free-esim/) testet die Netze kostenlos, bevor Sie [Italien eSIM-Tarife vergleichen](/italy-esim/).
+
+
+
+## Welche Netzbetreiber Ihre eSIM nutzen kann
+
+
+
+### Der Direktvergleich der vier Netze für Besucher
+
+
+
+| | TIM | Vodafone | WINDTRE | Iliad |
+
+|:---|:---|:---|:---|:---|
+
+| Prepaid-eSIM für Reisende | Touristentarif nur als physische SIM; Standard-eSIM in der Filiale | eSIM auf Tarifen am Schalter in der Filiale | Tourist Pass Digital kann als online gekaufte eSIM in der Filiale abgeholt werden | eSIM unterstützt, über Filiale oder Self-Service-Kiosk |
+
+| Wohin es bringt | Beste Netzabdeckung in ländlichen Gebieten und Bergregionen, starke Videobewertung | Bestes Gesamtnetz und schnellste Geschwindigkeitsbewertung | Höchste 5G-Verfügbarkeit, große Sendemasten-Infrastruktur | Günstigste Datentarife mit hohem Volumen, beste Nutzerbewertung |
+
+| Günstigste Option in | TIM Tourist: EUR 24,99 alles inklusive für 200 GB | Dolce Vita Start: EUR 14,95 pro Monat | Tourist Pass Digital: EUR 25 Einstiegspreis | Giga 150: etwa EUR 9,99 pro Monat für 150 GB |
+
+| Verbindung bei Ankunft | ★★ — Reisepass plus eventuell Steuercode, im Laden | ★★ — Reisepass, Mitarbeiter richten die eSIM ein | ★★★ — online kaufen, eSIM ausgestellt, bei Ankunft abholen | ★★ — Reisepass, Simbox-Kiosk oder Laden |
+
+
+
+**Wo die Registrierungshürde auftritt:** Italienische Netzbetreiber verkaufen zwar eSIMs, doch eine unkomplizierte, spontan und vollständig online erhältliche Prepaid-eSIM für ausländische Besucher ist eher die Ausnahme als die Regel. Das Touristenprodukt von TIM ist eine physische SIM, Vodafone und TIM stellen eSIMs am Schalter aus, WINDTRE kommt dem Online-Kauf am nächsten, erfordert jedoch weiterhin die Abholung bei Ankunft, und Iliad verlangt einen persönlichen Schritt. Der Grund dafür ist die Registrierung – jede italienische SIM ist an eine verifizierte Identität gebunden, und die Prüfungen gehen von einem Wohnsitz in Italien aus.
+
+
+
+### Die günstigen Zweitmarken und ihre Netze
+
+
+
+Die Wholesale-Ebene in Italien verkauft Kapazitäten von TIM, Vodafone und WINDTRE unter günstigeren Marken, und dort finden Besucher einfachere Prepaid-Datentarife.
+
+
+
+| Virtuelle Marke | Host-Netz | eSIM-Unterstützung | Am besten geeignet für |
+
+|:---|:---|:---|:---|
+
+| Fastweb Mobil | Eigenes Netz plus Vodafone Sharing | eSIM unterstützt | Stadtaufenthalte und Mailand-fokussierte Reisen |
+
+| Kena Mobile | TIM | Prepaid eSIM | Budget-Reisende, die TIM günstig erreichen möchten |
+
+| ho. Mobile | Vodafone | Prepaid eSIM | Kurze Städtereisen im Vodafone Netz |
+
+| Very Mobile | WINDTRE | Prepaid eSIM | Günstigster Tarif im WINDTRE-Netz |
+
+| PosteMobile | Vodafone | eSIM unterstützt | Besucher, die bereits Poste Italiane-Dienste nutzen |
+
+
+
+Zwei Vorbehalte. Erstens: Diese Budgetmarken begrenzen die Datengeschwindigkeit und priorisieren bei Überlastung herunter – genau dann, wenn es am meisten stört, etwa auf einem vollen Platz in Venedig oder einem Bahnsteig am Bahnhof Roma Termini. Zweitens: Ein Tarif einer dieser Marken ist an ein einziges Netz gebunden. Sie nutzen auf Kena ausschließlich die Sendemasten von TIM und keine anderen, was wichtig wird, sobald Sie die Stadt verlassen oder in ein Tal hinabfahren.
+
+
+
+### Direktkauf oder Reise-eSIM in Italien
+
+
+
+| | Direkt von einem italienischen Netzbetreiber | Reise-eSIM in einem italienischen Netz |
+
+|:---|:---|:---|
+
+| Was Sie benötigen | Reisepass; bei vielen Tarifen wird zusätzlich ein Codice Fiscale verlangt; bei touristischen Tarifen ist manchmal nur eine physische SIM erhältlich | Ein kompatibles, entsperrtes Smartphone |
+
+| So erhalten Sie Ihr Profil | Im Store bei der Einrichtung oder per QR-Code vom Netzbetreiber nach der Identitätsprüfung | QR-Code oder App-Installation sofort nach dem Kauf |
+
+| Typische 200 GB Kosten | TIM Tourist ca. 24,99 EUR alles inklusive; WINDTRE ca. 25 EUR; Vodafone Dolce Vita ab 14,95 EUR pro Monat | Ein einziger Vorabpreis, keine SIM-Gebühr, keine Steuernummer |
+
+| Netzzugriff | Ein einzelnes Netz | Automatisches Wechseln zwischen TIM, Vodafone, WINDTRE und Iliad |
+
+| Ideal für | Aufenthalte von einem Monat oder länger, oder alle, die eine italienische Telefonnummer benötigen | Reisen von ein bis drei Wochen sowie alle, die sofort nach der Landung online sein möchten |
+
+
+
+Für einen typischen Italienurlaub ist die günstigere Variante die Italien-eSIM. Ein lokaler Prepaid-Tarif ist pro Gigabyte zwar preiswert, bringt aber einen Filialbesuch, eine mögliche Steuernummer und eine SIM-Gebühr mit sich und bindet Sie an ein einziges Netz. Wo der Netzbetreiber punktet, sind Langlebigkeit und Telefonie: eine echte italienische Rufnummer, unbeschränktes Telefonieren im Inland und ein Tarif, der auch im sechsten Monat noch funktioniert.
+
+
+
+Eine Multinetz-eSIM ist der praktische Mittelweg: [Italien-eSIM von Roami](/italy-esim/) bietet die Bequemlichkeit der sofortigen Bereitstellung, wechselt automatisch zwischen TIM, Vodafone, WINDTRE und Iliad und sorgt dafür, dass Sie sowohl in den Klippendörfern der Amalfi-Küste auf TIM als auch in Mailand auf Vodafone Empfang haben, ohne zweimal kaufen zu müssen.
+
+
+
+## Ist Ihr Telefon mit einem italienischen eSIM-Netzbetreiber kompatibel?
+
+
+
+Drei Faktoren entscheiden darüber, ob Ihr Telefon bei einem italienischen Netzbetreiber funktioniert: die unterstützten Frequenzbänder, der Sperrstatus und eine kurze Liste gerätespezifischer Besonderheiten. Alle drei werden im Folgenden behandelt.
+
+
+
+### Funktioniert mein Telefon mit einer Italien-eSIM?
+
+
+
+Italienische Netzbetreiber bauen ihr 5G-Netz auf bestimmten Frequenzbändern auf, vor allem **n78 bei 3500 MHz** für Kapazität, **n1 bei 2100 MHz** und **n28 bei 700 MHz** für die Reichweite in historischen Ortskernen und Tälern. Ihr 4G nutzt B1, B3, B7, B8, B20 bei 800 MHz und B28 bei 700 MHz. Zahlreiche internationale Geräte, darunter einige regionale iPhone-Varianten, werden ohne das niedrige Band n28 ausgeliefert. Diese Telefone funktionieren trotzdem: sie schalten auf LTE zurück, sobald Sie die dicht bebauten Stadtgebiete verlassen, was in der Innenstadt gut und in einem Bergdorf frustrierend ist.
+
+
+
+Frequenzbandtabellen muss man vor einer Reise nicht auswendig lernen. Was wirklich hilft, ist die spezifische Modellnummer mit der [Gerätekompatibilitätsliste](/compatibility/) abzugleichen. Wenn Ihnen die technischen Hintergründe wichtiger sind als die Liste der Netzbetreiber, lesen Sie den [Ablauf des Profil-Downloads](/faq/what-is-esim-activation-and-how-does-it-work/).
+
+
+
+### Ist Ihr Telefon eSIM-bereit für Italien?
+
+Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation einer Italien-eSIM einfach fehlschlägt. Italien hat hier eigene Regeln. Nach italienischem SIM-Sperrgesetz müssen Netzbetreiber jeden Zuschuss offenlegen, ein Teilnehmer kann nach neun Monaten einen Freischaltcode erhalten, indem er die Hälfte des ausgewiesenen Zuschusses bezahlt, und die Sperre muss innerhalb von achtzehn Monaten aufgehoben werden. In der EU insgesamt muss die SIM-Entsperrung nach Ablauf einer etwaigen Vertragslaufzeit kostenlos erfolgen.
+
+
+
+**So prüfen Sie es:** iPhone: Gehen Sie zu Einstellungen, Allgemein, Info, Netzbetreibersperre. Zeigt der Bildschirm „Keine SIM-Beschränkungen“ an, ist das Telefon für jedes Profil freigeschaltet. Zeigt der Bildschirm „SIM gesperrt“ an, werden externe Profile blockiert, bis die Sperre aufgehoben wird.
+
+
+
+**So beheben Sie es:** Bitten Sie den Anbieter, der die Sperre verhängt hat, diese aufzuheben. Abbezahlte Geräte werden normalerweise innerhalb weniger Stunden freigeschaltet, und nach EU-Recht sowie den meisten Heimatanbieter-Regeln fällt keine Gebühr an. Versuchen Sie erst danach, Ihre Italien-eSIM zu installieren.
+
+
+
+Wenn Sie ein gebrauchtes Telefon oder ein Telefon mit Ratenvertrag gekauft haben, gehen Sie davon aus, dass es gesperrt sein könnte, und prüfen Sie dies vor dem Abflug.
+
+
+
+### Italien IMEI- und EID-Prüfungen
+
+
+
+| Gerät | Symptom | Maßnahme |
+
+|:---|:---|:---|
+
+| iPhone-Modelle für das chinesische Festland | Es gibt keine Möglichkeit zum Hinzufügen einer eSIM, da die Hardware in diesem Markt deaktiviert ist | Dies lässt sich nicht beheben; verwenden Sie eine physische SIM-Karte oder ein anderes Gerät |
+
+| Vom US-, kanadischen oder japanischen Netzbetreiber erworbenes Telefon | SIM-Karte nicht für ein italienisches Profil zugelassen | Vor der Reise über den Heimnetzbetreiber entsperren lassen |
+
+| Internationale Handys ohne n28 oder n1 | Schnell in Städten, nur LTE in ländlichen Gebieten | Erwartetes Verhalten; siehe Regionshinweise unten |
+
+| Dual SIM-Nutzer | eSIM installiert, aber keine Daten | Legen Sie die eSIM als die für mobile Daten verwendete Leitung fest |
+
+
+
+Alles, was darüber hinausgeht, ist eher gerätespezifisch als netzbetreiberspezifisch. Prüfen Sie Ihr Mobiltelefon im [eSIM-Kompatibilitätstest](/compatibility/), bevor Sie etwas bezahlen.
+
+
+
+## So kaufen Sie bei den Netzbetreibern ein
+
+
+
+Es gibt vier Wege, die sich mehr im Papierkram als im Preis unterscheiden: TIM für die größte Reichweite, Vodafone für Geschwindigkeit in der Stadt, WINDTRE für 5G-Verfügbarkeit und Iliad für den Preis. Jeder Weg, Schritt für Schritt.
+
+
+
+### Kann man eine Italien-eSIM von TIM kaufen?
+
+
+
+TIM ist der alte Platzhirsch und die sicherste Wahl, wenn Sie Zeit außerhalb der Touristenzentren verbringen, allerdings ist das touristische Produkt bewusst einfach gehalten.
+
+
+
+Der TIM Touristentarif ist **ausschließlich als physische SIM erhältlich**. Er bietet 200 GB 5G-Daten in Italien, 23 GB nutzbar in der gesamten EU, unbegrenzte Inlandsminuten sowie 100 internationale Minuten, für 30 Tage. Der ausgewiesene Gesamtpreis beträgt **24,99 EUR**, bestehend aus einem Tarif von 14,99 EUR plus 10 EUR für die SIM, bei kostenloser Aktivierung. Sie erhalten ihn in einer TIM-Filiale, am Schalter am Flughafen Rom Fiumicino oder Mailand Malpensa oder in einer Tabacchi-Filiale gegen Vorlage Ihres Reisepasses. TIM unterstützt zwar eSIM bei den Standardtarifen, doch die Aktivierung als ausländischer Besucher erfordert in der Regel einen Filialbesuch mit Identitätsprüfung statt eines Remote-QR-Codes.
+
+
+
+### So bekommen Sie eine Vodafone-eSIM
+
+
+
+Vodafone Italia ist das schnellste Netz in den Großstädten und bietet den einfachsten englischsprachigen Support, und eSIM wird bei den Tarifen unterstützt.
+
+
+
+Das Besucherprodukt von Vodafone ist die **Dolce Vita**-Reihe. Dolce Vita Start bietet 100 GB 5G, 25 GB EU-Daten und 200 Minuten für **14,95 EUR** pro Monat. Dolce Vita Ultra bietet 300 GB, 41 GB EU und dieselben Minuten für **24,95 EUR** pro Monat. Vodafone wirbt mit null Aktivierungsgebühr, weist allerdings nicht immer eine separate SIM-Karten-Gebühr aus, also lassen Sie sich am Schalter den Gesamtpreis bestätigen. Die eSIM wird in der Filiale nach Scannen Ihres Reisepasses ausgestellt, und das Personal übernimmt die Einrichtung.
+
+
+
+### Verkauft WINDTRE eine Prepaid-eSIM an Besucher?
+
+
+
+WINDTRE ist der einzige der vier Anbieter, der einen Touristentarif online mit eSIM-Option verkauft, und damit auf dem Papier am besucherfreundlichsten.
+
+
+
+Der **Tourist Pass Digital** bietet 200 GB 5G, 23 GB EU-Daten, unbegrenzte italienische Minuten und 100 Minuten in 53 Länder, für 30 Tage. Der Listenpreis beträgt **25 EUR**, allerdings kommen auf derselben offiziellen Seite im Kleingedruckten noch 10 EUR SIM-Kosten sowie ein kleiner Betrag im Zusammenhang mit iMessage hinzu, daher sollten Sie etwa 35 EUR einplanen. Sie kaufen ihn online vor dem Abflug und holen die eSIM oder SIM bei einer WINDTRE-Filiale oder einem Flughafenkiosk bei der Ankunft ab. Er ist neuen ausländischen Kunden ohne italienische Steuernummer vorbehalten und kann auf derselben Leitung nicht verlängert werden.
+
+
+
+### Ist die Iliad-eSIM für Touristen erhältlich?
+
+
+
+Iliad ist der Preisbrecher, mit transparenten, günstigen Hochdatentarifen, hat allerdings die wenigsten Filialen mit Personal und die am wenigsten vorhersehbare Netzabdeckung im ländlichen Raum.
+
+
+
+Der Tarif **Giga 150** von Iliad bietet 150 GB 5G, unbegrenzte Anrufe und EU-Roaming zur fairen Nutzung für etwa **9,99 EUR** pro Monat. Iliad unterstützt eSIM, und da das Unternehmen ein Netz von Selbstbedienungs-Simbox-Automaten in Einkaufszentren betreibt, können Sie in wenigen Minuten eine Karte oder eSIM gegen Ihr Ausweisdokument ausstellen lassen. Der Nachteil ist eine weniger vorhersehbare Netzabdeckung, sobald Sie die großen Verkehrsachsen verlassen, sowie ein weitgehend digitaler Kundenservice.
+
+
+
+### Die Touristentarife im Tabellenvergleich
+
+
+
+| Netzbetreiber | Tarif | Datenvolumen in Italien | EU-Datenvolumen | Telefonie | Laufzeit | Preis im Voraus EUR | eSIM |
+
+|:---|:---|:---|:---|:---|:---|:---|:---|
+
+| TIM | TIM Tourist | 200 GB 5G | 23 GB | Unbegrenzt IT plus 100 internationale Minuten | 30 Tage | 24,99 | Nur physische SIM |
+
+| Vodafone | Dolce Vita Start | 100 GB 5G | 25 GB | 200 Min IT und 40 Länder | 30 Tage | 14,95 pro Monat | Im Laden |
+
+| Vodafone | Dolce Vita Ultra | 300 GB 5G | 41 GB | 200 Min IT und 40 Länder | 30 Tage | 24,95 pro Monat | Im Laden |
+
+| WINDTRE | Tourist Pass Digital | 200 GB 5G | 23 GB | Unbegrenzt IT plus 100 Min in 53 Länder | 30 Tage | 25 EUR Listenpreis, 10 EUR SIM im Kleingedruckten | Online, Abholung bei Ankunft |
+
+| Iliad | Giga 150 | 150 GB 5G | Faire Nutzung EU | Unbegrenzte Telefonate | Monatlich | ca. 9,99 | eSIM oder SIM, Self-Service |
+
+
+
+Preise und Konditionen ändern sich häufig, daher sollten Sie die Tabelle als Momentaufnahme aus dem Jahr 2026 betrachten und den endgültigen Betrag vor der Zahlung noch einmal bestätigen.
+
+
+
+### Was Sie zum Kauf mitbringen müssen
+
+| Punkt | Warum es wichtig ist |
+
+|:---|:---|
+
+| Reisepass | Für jede Prepaid-SIM und eSIM in Italien zwingend erforderlich |
+
+| Codice fiscale | Wird für Standard- und Monatstarife benötigt; an Flughäfen und in Filialen der Netzbetreiber wird er anhand Ihres Reisepasses erstellt. |
+
+| IMEI | Wählen Sie *#06# um das Gerät zu bestätigen |
+
+| EID | Wird ebenfalls auf dem Bildschirm *#06# angezeigt; die eSIM-Kennung |
+
+| Entsperrtes Handy | Erforderlich für jede eSIM oder SIM von Nichtansässigen |
+
+| Eine Karte, die in Italien funktioniert | Manche Netzbetreiber-Checkouts lehnen ausländische Rechnungsadressen ab |
+
+| WLAN | Installieren Sie das Profil vor dem Flug, nicht erst am Flughafen |
+
+
+
+Neukunden können den Code **WEB20** verwenden, um 20 % Rabatt zu erhalten, wenn sie [einen Italien-eSIM-Tarif buchen](/italy-esim/), oder sich zunächst die [Italien-Test-eSIM sichern](/free-esim/), um die Netze kostenlos zu testen.
+
+
+
+## Geschwindigkeiten und Netzabdeckung der Netze
+
+
+
+Dieser Abschnitt beantwortet zwei Fragen: die tatsächliche Leistung dort, wo Sie sich aufhalten werden, und welche Art von Reise Sie planen. Die Zahlen unten klären die Leistung, und die Reisetabelle zeigt, welcher Anbieter zu Ihrer Route passt.
+
+
+
+### Wer liefert die besten Messwerte?
+
+
+
+Alle folgenden Angaben stammen aus den Speedtest-Intelligence-Daten von Ookla für **Italien 1. Halbjahr 2025** (Erhebungszeitraum Januar bis Juni 2025) und sind nationale Messungen über die fünf Netzbetreiber, die Ookla bewertet hat.
+
+
+
+| Metrik | Vodafone | WINDTRE | Fastweb | TIM | Iliad |
+
+|:---|:---|:---|:---|:---|:---|
+
+| Speedtest Konnektivitätsbewertung | **75,95** (beste) | 74,84 | 74,47 | 72,15 | 70,64 |
+
+| Speed Score | **65,73** (schnellster) | 65,23 | 64,17 | 58,66 | 55,97 |
+
+| Konsistenzwert | 89,2 | 89,2 | 87,3 | 85,3 | 88,8 |
+
+| 5G-Verfügbarkeit | 49,2 | **74,8** (höchster Wert) | 71,6 | 68,9 | 68,6 |
+
+| Video-Streaming-Bewertung | 76,49 | 74,68 | 75,15 | **76,53** (am besten) | 74,95 |
+
+| Spielwertung | **84,62** (beste) | 83,78 | 83,87 | 84,45 | 80,33 |
+
+| 5-Sterne-Bewertung | 3,23 | 3,11 | 2,95 | 2,76 | **3,34** (höchster) |
+
+
+
+Quelle: Ookla Speedtest Connectivity Report, Italien 1. Halbjahr 2025, verfügbar unter https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025.
+
+
+
+Wo keine Daten veröffentlicht wurden, ist die Zelle leer, ohne geschätzten Wert. Zwei Dinge sind bemerkenswert: Vodafone gewinnt beim zusammengesetzten Connectivity Score und beim reinen Speed Score, liegt jedoch bei der 5G-Verfügbarkeit mit 49,2 Prozent deutlich zurück, da das 5G-Netz auf Städte konzentriert ist und keine flächendeckende Netzabdeckung bietet. WINDTRE gewinnt bei der Verfügbarkeit, liegt aber beim Tempo im Mittelfeld. Die stille Stärke von TIM ist der Video-Score – die Kennzahl, die für Streaming und Videoanrufe am wichtigsten ist. Iliad erhält mit 3,34 die höchste Nutzerbewertung, obwohl die Konstanz unter den vier großen Anbietern am geringsten ist, was zeigt, wie viel Reisende den Preis schätzen.
+
+
+
+Zum Kontext für das Land insgesamt: Der Digital 2025 Italy Report von DataReportal gibt die nationale mittlere mobile Downloadgeschwindigkeit Ende 2025 mit etwa **85,39 Mbit/s** an, und Cable.co.uk berechnet 1 GB italienische mobile Daten mit rund **0,09 USD**, was den zweitgünstigsten Preis weltweit bedeutet. Italien ist ein wirklich günstiges Land, um Datentarife zu kaufen, sobald man in einem lokalen Netz ist.
+
+
+
+### Italien eSIM-Empfehlungen nach Reisetyp
+
+
+
+| Die Reise | Passender Netzbetreiber | Warum | Achtung |
+
+|:---|:---|:---|:---|
+
+| Städtereise, Rom, Mailand, Florenz, Venedig | Vodafone oder TIM | Beide hervorragend in der Innenstadt; Vodafone am schnellsten, TIM am zuverlässigsten | In den U-Bahn-Tunneln Roms ist der Empfang bei jedem Netzbetreiber schwach |
+
+| Amalfiküste und Klippenorte | TIM | 700 MHz n28 dringt tief in die Kalksteinschluchten vor | Vodafone und WINDTRE sind in den Schluchten schwächer |
+
+| Fähren von Neapel nach Capri und Sorrento | TIM | Starke Sichtverbindung über See von den Küstenhügeln | Iliad-Aussetzer am häufigsten während der Überfahrt |
+
+| Skifahren in den Dolomiten | TIM | Beste Netzabdeckung im ländlichen Raum mit niedrigen Frequenzbändern | Oberhalb der Baumgrenze gibt es überhaupt keinen Empfang |
+
+| Günstiger Langzeitaufenthalt | Iliad | Günstigste 150 GB für etwa 9,99 EUR | Weniger vorhersehbar, sobald Sie die Korridore verlassen |
+
+| Bestes 5G überall | WINDTRE | 5G zu 74,8 Prozent verfügbar | Niedrigere Rohgeschwindigkeit als Vodafone |
+
+| Gaming und Videoanrufe | Vodafone oder TIM | Beste Spiel- und Videobewertungen | Keine wesentlichen Schwächen in Städten |
+
+| Mehrere Länder in Europa | Eine Europa-Reise-eSIM | EU-Roaming inklusive | Eine lokale SIM-Karte funktioniert im Roaming, jedoch mit gedrosseltem Datenvolumen |
+
+
+
+### Wo TIM mit 700 MHz Vodafone übertrifft
+
+
+
+Das italienische 5G konzentriert sich rund um die Großstädte, wird entlang von Nebenstraßen schwächer und endet oberhalb der Baumgrenze. So sieht es auf den einzelnen Strecken aus:
+
+
+
+| Region | Realität vor Ort | Bester Netzbetreiber | Vorsicht |
+
+|:---|:---|:---|:---|
+
+| Rom und Latium | Die Städte sind der stärkste Teil der Netzabdeckung, 5G bei jedem großen Netzbetreiber verfügbar | TIM oder Vodafone | Die Tunnel der U-Bahn von Rom haben bei allen Netzbetreibern schlechten Empfang |
+
+| Mailand, Turin und der Norden | Dichtes städtisches 5G-Netz, stark in der gesamten Po-Ebene | WINDTRE oder Vodafone | Keine größeren |
+
+| Neapel, Amalfi und der Süden | Städtische Netzabdeckung zuverlässig; für Orte an den Klippen wird Low-Band benötigt | TIM auf n28 | Schluchten von Positano und Ravello; Fähren verlieren mitten auf der Überfahrt das Netz |
+
+| Sizilien und Sardinien | Zuverlässig auf den Hauptinseln und in den Resorts; im Landesinneren lückenhaft | TIM oder Vodafone | Funklöcher bei der Ankunft mit der Fähre; das sardische Inland ist schwach versorgt |
+
+| Alpen und Dolomiten | Skigebiete und Talstraßen in Ordnung; in großer Höhe nicht mehr | TIM | Oberhalb der Baumgrenze gibt es keinen Empfang |
+
+| Venedig und die Lagune | Dicht besiedelt, in der Hochsaison überlaufen | Vodafone | Die sommerlichen Menschenmassen überlasten die Netze; Acqua alta beeinträchtigt das Fortkommen, nicht jedoch den Empfang |
+
+
+
+Planen Sie eine Route, die Italien verlässt? Beginnen Sie mit dem [Frankreich-eSIM-Guide](/carriers/france-esim-carrier-guide/), vergleichen Sie den [Schweiz-eSIM-Guide](/carriers/switzerland-esim-carrier-guide/) oder werfen Sie einen Blick auf die [Griechenland-eSIM-Seite](/greece-esim/). Wenn Ihre Reiseroute mehrere Grenzen überschreitet, spart eine [Europa-eSIM](/europe-esim/) den doppelten Kauf.
+
+
+
+Das automatische Wechseln zwischen Netzbetreibern macht die Sache erst praktisch. Eine Italien-eSIM, die zwischen TIM, Vodafone und WINDTRE wechseln kann, schließt die regionalen Lücken, die kein einzelner Netzbetreiber-Tarif abdecken kann, und Roamis Italien-eSIM erledigt genau das ohne einen Pass-Termin.
+
+
+
+## APN-Einstellungen für Italiens Netze
+
+
+
+Sie werden wahrscheinlich nie den APN-Bildschirm öffnen, aber er erklärt die meisten plötzlichen Datenausfälle. Die folgende Tabelle listet alle Netzbetreiber-Werte auf, die Situationen, in denen Sie sie eingeben müssen, und wo Sie den Bildschirm finden.
+
+
+
+### APN-Werte der vier Netze
+
+
+
+Sie benötigen diese nur, wenn Sie eine SIM oder Italien-eSIM **direkt bei einem italienischen Netzbetreiber** gekauft haben. Wenn das Profil von einer Reise-eSIM stammt, ist der italienische APN bereits hinterlegt.
+
+
+
+| Netzbetreiber | APN | Benutzername | Passwort |
+
+|:---|:---|:---|:---|
+
+| TIM | `ibox.tim.it` | leer | leer |
+
+| Vodafone | `mobile.vodafone.it` | leer | leer |
+
+| WINDTRE | `internet.it` | leer | leer |
+
+| Iliad | `iliad` | leer | leer |
+
+
+
+Benutzername und Passwort leer lassen. Falls ein Netzbetreiber Werte verlangt, finden Sie diese in den Aktivierungsanweisungen, die Ihrem Profil beiliegen.
+
+
+
+### Diese Fälle verlangen eine manuelle APN
+
+
+
+Die automatische Konfiguration deckt die meisten italienischen Profile ab; dies sind die Fälle, in denen die oben genannten Werte weiterhin manuell eingegeben werden müssen.
+
+
+
+- Ein älteres Endgerät, das die Netzbetreiber-Einstellungen nicht automatisch erkennt
+
+- Ein Profil, das mit einem manuellen Aktivierungscode statt per QR-Scan installiert wurde
+
+- Eine vom Netzbetreiber ausgegebene Prepaid-eSIM, bei der die automatische Konfiguration nicht ausgeführt wurde
+
+- Ein Hotspot, der zwar eine Verbindung herstellt, aber keine Daten weitergibt – unter Android muss dann `dun` beim APN-Typ ergänzt werden
+
+- So gut wie nie bei einer Italien-eSIM, denn genau das ist der Sinn eines verwalteten Profils
+
+
+
+### So geben Sie den APN ein
+
+- **iPhone:** Einstellungen → Mobilfunk → die eSIM-Leitung antippen → Mobiles Datennetz → den APN eintragen
+
+- **Android:** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunkte (APNs) → einen neuen APN hinzufügen
+
+- **iPhone-Hotspot:** Im selben Bildschirm „Mobiles Datennetz“ auch den persönlichen Hotspot mit demselben APN ausfüllen, sonst kann die Hotspot-Option verschwinden
+
+
+
+Speichern und das Gerät neu starten. Falls weiterhin keine Datenverbindung zustande kommt, prüfen Sie, ob als Datenleitung das italienische Profil und nicht Ihre heimische Karte ausgewählt ist.
+
+
+
+## Installation und Fehlerbehebung Schritt für Schritt
+
+
+
+Der Ablauf in diesem Abschnitt führt Sie von einer sauberen Installation bis hin zu funktionierenden Daten und behandelt die Fehlerbilder, die in italienischen Netzen tatsächlich auftreten – in der Reihenfolge, in der Sie ihnen begegnen.
+
+
+
+### Italien eSIM zum Gerät hinzufügen
+
+| # | Prüfen | Was gut aussieht |
+
+|:---|:---|:---|
+
+| 1 | Das Telefon ist nicht netzbetreibergebunden | Die Netzbetreiberbindung wird in „Über das Telefon“ als „Keine SIM-Einschränkungen“ angezeigt |
+
+| 2 | Das Telefon unterstützt eSIM | *#06# zeigt eine EID an, oder das [Kompatibilitätsprüfungs-Tool](/compatibility/) bestätigt Ihr Modell |
+
+| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud gespeichert |
+
+| 4 | Profil vor der Abreise installieren | Zu Hause über WLAN installieren; das Profil verbindet sich automatisch bei der Landung |
+
+| 5 | Datenverbindung und Roaming eingerichtet | eSIM für mobile Daten ausgewählt, Datenroaming aktiviert |
+
+
+
+Schritt 4 zu Hause erledigen. In den Ankunftshallen von Fiumicino und Malpensa ist das WLAN genau dann überlastet, wenn Sie es am meisten benötigen, und ein Profil, das Sie am Boden installieren, konkurriert mit dem aller anderen.
+
+
+
+### Wie das Profil jedes Netzes ankommt
+
+
+
+Unser [Schritt-für-Schritt-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/) deckt die Standardsequenz „eSIM hinzufügen, QR-Code scannen und Datenleitung auswählen“ ab. Italienische Netzbetreiber unterscheiden sich darin, wie das Profil ausgestellt wird:
+
+
+
+| Netzbetreiber | So erhält ein Besucher die eSIM |
+
+|:---|:---|
+
+| TIM | Der Touristentarif ist ausschließlich als physische SIM-Karte erhältlich; die Standard-eSIM wird im Laden mit Reisepass aktiviert. |
+
+| Vodafone | eSIM an einem Schalter im Laden nach Identitätsprüfungen |
+
+| WINDTRE | Tourist Pass Digital kann als eSIM online erworben und bei der Ankunft abgeholt werden |
+
+| Iliad | eSIM wird unterstützt und wird in einer Filiale oder an einem Simbox-Kiosk gegen Vorlage eines Ausweises ausgestellt |
+
+| Reise-eSIM | Wird per QR-Code installiert und wechselt automatisch zu dem Netz von TIM, Vodafone, WINDTRE oder Iliad mit dem stärksten Empfang (Roaming) |
+
+
+
+### Keine Verbindung? Vier Lösungen für eine Italien-eSIM
+
+
+
+Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann, ein fehlgeschlagener Scan, eine eSIM, die zwar installiert wird, sich aber nie registriert, werden in unserem [eSIM-Problemlösungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Die vier folgenden Muster sind spezifisch für Italien.
+
+
+
+| Symptom | Wahrscheinliche Ursache | Lösung |
+
+|:---|:---|:---|
+
+| Installiert, aber in einem historischen Zentrum bei langsamem GPRS festgefahren | Dicke Steinmauern blockieren Mid-Band-5G und 4G | Stellen Sie die Netzwahl manuell auf TIM um, dessen 700-MHz-n28 in Gebäude vordringt |
+
+| Kein Empfang auf der Fähre zwischen Neapel und Capri oder Sorrento | Auf offener See erwartbar, am schlimmsten auf Iliad | Laden Sie Offline-Karten vor dem Boarding herunter; akzeptieren Sie die Funklücke oder nutzen Sie TIM |
+
+| SIM auf einem Telefon, das auf einen Nicht-EU-Netzbetreiber gesperrt ist, nicht zulässig | Gerät ist netzbetreiberseitig gesperrt | Vor der Reise über den Heim-Netzbetreiber entsperren lassen; eine italienische eSIM hilft in diesem Fall nicht |
+
+| Datennutzung funktioniert, Hotspot jedoch nicht | APN-Typ „dun“ fehlt auf Android oder „Personal Hotspot“ ist auf dem iPhone leer | Fügen Sie „dun“ zum APN-Typ hinzu oder tragen Sie den Personal-Hotspot-APN auf dem iPhone ein und starten Sie das Gerät anschließend neu |
+
+
+
+### Was Sie für den Support bereithalten sollten
+
+| Informationen | Wo Sie es finden |
+
+|:---|:---|
+
+| Bestell- oder Kundennummer | Bestätigungs-E-Mail |
+
+| Telefonmodell und Betriebssystemversion | Einstellungen, Über |
+
+| EID | *#06# |
+
+| Screenshot des Fehlers | Aufnehmen, bevor sich der Bildschirm ändert |
+
+| Aktuelle APN-Einstellungen | Einstellungen, Mobiles Datennetz |
+
+| Datenroaming-Status | Einstellungen → Mobiles Netz → Ihre eSIM-Leitung |
+
+| Bereits versuchte Schritte | Kurz halten |
+
+
+
+## Was Reisende über die Netze fragen
+
+
+
+### Bekomme ich als Besucher eine eSIM von TIM?
+
+
+
+Nicht über den Touristentarif. Das TIM-Touristenprodukt ist eine physische SIM, die in einem TIM-Laden oder am Schalter am Flughafen mit Reisepass für 24,99 EUR alles inklusive gekauft wird. TIM verkauft zwar eSIMs zu seinen regulären Tarifen, aber als Besucher bekommt man eine normalerweise nur im Laden nach einer Identitätsprüfung und nicht per QR-Code aus der Ferne.
+
+
+
+### Ist Vodafones Touristen-eSIM im Angebot?
+
+
+
+Ja, auf seinen Tarifen, aber am Ladenschalter und nicht online. Die Vodafone Dolce Vita-Reisepalette beginnt bei 14,95 EUR pro Monat für 100 GB und wird als eSIM ausgestellt, nachdem Ihr Reisepass im Laden gescannt wurde. Wenn Sie das Vodafone-Netz ohne Termin möchten, ist eine Italien-eSIM über das Vodafone-Netz der schnellere Weg.
+
+
+
+### Welches Netz hat die bessere 5G-Verfügbarkeit?
+
+
+
+WINDTRE. Der Ookla-1H-2025-Italien-Bericht listet 74,8 Prozent 5G-Verfügbarkeit für WINDTRE, gegenüber 68,9 Prozent bei TIM. Für die Erreichbarkeit in ländlichen Gebieten und Bergen ist TIM immer noch die stärkere Wahl wegen seines 700-MHz-Low-Bands. Wählen Sie WINDTRE, um in Städten möglichst oft im 5G zu sein, TIM für Empfang, wo das Gelände schwierig ist.
+
+
+
+### Deckt TIM oder Vodafone das ländliche Italien besser ab?
+
+
+
+TIM, nach den Daten und in der Praxis. Sein Low-Band n28 bei 700 MHz dringt durch Kalksteinschluchten und in Bergtäler vor, wo das auf Kapazität ausgelegte 5G von Vodafone und das dünnere Netz von Iliad Schwierigkeiten haben. Kein Netzbetreiber versorgt die hohen Dolomiten oberhalb der Baumgrenze, laden Sie also unbedingt Offline-Karten herunter.
+
+
+
+### Braucht der eSIM-Kauf eine Steuernummer?
+
+
+
+Bei kurzen Touristentarifen meistens nein. Italien verlangt für jede Prepaid-Leitung einen Reisepass, aber die Touristenprodukte von TIM, Vodafone und WINDTRE sind so konzipiert, dass sie allein mit Reisepass aktiviert werden, und Netzbetreiber- oder Flughafenläden erzeugen eine Steuernummer aus Ihrem Reisepass, falls ein Standardtarif eine benötigt. Bei Budgetmarken und Monatsverträgen wird der codice fiscale häufiger sofort verlangt.
+
+
+
+### Muss Ihr Handy für Italien entsperrt sein?
+
+
+
+Ja, beides: entsperrt und eSIM-fähig. Prüfen Sie beides in einem Schritt mit dem [eSIM-Kompatibilitätsprüfer](/compatibility/), der die EID-Unterstützung und die Band-Frage abdeckt, einschließlich der n28- und n1-5G-Bänder, die vielen internationalen Geräten fehlen. Wenn der Installationsprozess Sie verwirrt, führt die [Grundlagen der Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/) Schritt für Schritt durch.
+
+
+
+### Wie entsperre ich ein netzbetreibergebundenes Handy?
+
+
+
+Fragen Sie den Netzbetreiber, an den es gebunden ist, in der Regel Ihren Heimnetzbetreiber. Nach EU-Regeln ist die SIM-Entsperrung nach einer eventuellen Vertragslaufzeit kostenlos, und das italienische Recht begrenzt, wie lange eine Sperre dauern darf. Abbezahlte Geräte werden meist innerhalb weniger Stunden freigegeben. Prüfen Sie den Status unter Einstellungen → Allgemein → Info → Netzbetreibersperre, bevor Sie fliegen.
+
+
+
+### Welcher Anbieter ist am günstigsten?
+
+
+
+Iliad, mit etwa 9,99 EUR pro Monat für 150 GB mit unbegrenzten Anrufen und EU-Roaming unter Fair Use, ohne langfristige Bindung. Der Kompromiss ist eine weniger berechenbare Netzabdeckung außerhalb der Hauptstrecken und überwiegend digitaler Support. Beim Überschreiten des Volumens folgt Iliad einer Fair-Use-Regelung, statt Überziehungsgebühren zu berechnen.
+
+
+
+### Können Heimat-SIM und Reise-eSIM parallel laufen?
+
+
+
+Ja, und das ist eine sinnvolle Konfiguration. Behalten Sie Ihre Heimnummer für Anrufe und Verifizierung und leiten Sie italienische Daten über die eSIM. Geben Sie in den Einstellungen der Datenoption die italienische Priorität und lassen Sie die Heimleitung für Anrufe. Deaktivieren Sie Roaming auf der Heimkarte, damit Hintergrunddaten keine Kosten verursachen.
+
+
+
+### Warum habe ich auf der Fähre kein Netz?
+
+
+
+Weil Sie offenes Wasser überqueren, wo der nächste Mast Kilometer entfernt ist und die Übergabe zwischen Küstenzellen abreißt. Das ist bei jedem Netzbetreiber zu erwarten und am schlimmsten bei Iliad. Laden Sie Offline-Karten von Capri herunter, bevor Sie an Bord gehen, und verlassen Sie sich während der Überfahrt nicht auf Streaming.
+
+
+
+### Was lohnt sich für kurze und lange Aufenthalte?
+
+Direkt bedeutet ein Netz, vom Netzbetreiber bereitgestellte Aktivierung und oft Reisepass plus Steuernummer; dafür erhalten Sie eine echte italienische Nummer und unbegrenzte Inlandsgespräche. Eine Reise-eSIM bedeutet sofortige Bereitstellung, kein Papierkram, automatischer Wechsel zwischen TIM, Vodafone, WINDTRE und Iliad sowie ein fester Vorabpreis. Kurze Reise: Reise-eSIM. Bei längeren Aufenthalten in Italien ändert sich die Rechnung: Eine direkt vom Netzbetreiber ausgegebene SIM ergibt mehr Sinn.
+
+
+
+### Wie funktioniert der eSIM-Chip im Handy?
+
+
+
+Eine eSIM ersetzt die Plastikkarte durch einen im Handy fest verbauten Chip; das Profil kommt über die Luft, der Chip speichert es, und die Leitung verhält sich wie jede andere. [Die eSIM-Grundlagen](/faq/what-is-esim-activation-and-how-does-it-work/) erklären den SM-DP+-Handshake und warum jeder QR-Code nur einmal verwendet werden kann.
+
+
+
+Weitere Fragen? [Alle FAQ-Antworten →](/faq/)
+
+
+
+## Woher die Zahlen stammen
+
+
+
+- Jede netzbetreiberspezifische Zahl hier stammt aus dem **Ookla Speedtest Connectivity Report für Italien, 1H 2025** — [Bericht öffnen](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025) für den Connectivity Score von 75,95 und den Speed Score von 65,73 bei Vodafone, die 5G-Verfügbarkeit von 74,8 Prozent bei WINDTRE, den Video-Score von 76,53 bei TIM und die Nutzerbewertung von 3,34 bei Iliad.
+
+- Der nationale Medianwert für mobile Downloads stammt aus dem **Ookla Speedtest Global Index** — [dem Italien-Eintrag](https://www.speedtest.net/reports/italy/), der monatlich aktualisiert wird.
+
+- Italiens durchschnittlicher Preis von etwa 0,09 USD pro Gigabyte stammt aus der **Cable.co.uk weltweiten Datenpreisstudie** — [der globalen 1GB-Kostentabelle](https://www.cable.co.uk/mobiles/worldwide-data-pricing/).
+
+- Marktkontext und nationaler Medianwert für mobile Geschwindigkeit werden durch den **DataReportal Digital 2025 Italien-Bericht** gestützt — [dem Länderbericht](https://datareportal.com/reports/digital-2025-italy).
+
+- Tarifpreise, Bereitstellungsarten und Identifikationsregeln wurden direkt von den Anbietern übernommen: [Vodafone Italien](https://www.vodafone.it/), [WINDTRE](https://www.windtre.it/) und [Iliad](https://www.iliad.it/). Ist Ihnen eine veraltete Zahl aufgefallen? Unser Support-Team würde es gern erfahren.
+
+
+
+Nur Messungen Dritter. Die tatsächlichen Ergebnisse variieren je nach Gerät, genutztem Band und Auslastung der lokalen Zelle. Die italienische Regulierungsbehörde AGCOM legt die Lizenz- und Netzabdeckungspflichten hinter diesen Netzen fest.
+
+
+
+## Schnappen Sie sich Ihr Profil für alle vier Netze
+
+
+
+Ein Profil, vier Netze. Die Italien-eSIM von Roami nutzt TIM, Vodafone, WINDTRE und Iliad und wechselt zwischen ihnen, während Sie das Land durchqueren. Testen Sie die Netze kostenlos mit der [kostenlosen Italien-Test-eSIM](/free-esim/), und sichern Sie sich dann 20 % Rabatt mit dem Code **WEB20** auf [Italien-eSIM-Tarifen](/italy-esim/).
+
+
+
+[Italien-eSIM-Tarif buchen](/italy-esim/)
+
+
+
+*Nur für Neukunden, ein Code pro Bestellung*
+
+
+
+[Kostenlosen Italien-Test starten](/free-esim/)
+

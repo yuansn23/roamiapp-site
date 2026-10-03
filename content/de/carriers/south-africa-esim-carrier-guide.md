@@ -1,345 +1,749 @@
 ---
-title: "Wie schnell ist 5G in Südafrika? Ein eSIM Reiseführer."
-description: "Mit Roami den perfekten Südafrika eSIM Anbieter finden. Wir vergleichen Vodacom und MTN – von der Stadt bis aufs Land in Südafrika."
-date: "2026-06-17T06:04:19+00:00"
 
-keywords: eSIM Südafrika, Prepaid Daten, 5G Netz, Vodacom, MTN, Roaming Alternativen
+title: "Südafrika eSIM trotz RICA ohne Registrierung nutzen"
+
+description: "RICA macht lokale SIM-Karten umständlich. Roami erklärt die Ausnahme und vergleicht Vodacom und MTN für Ihre Südafrika eSIM vor der Landung."
+image: "img/esim/carriers/south-africa-esim-carrier-guide.jpg"
+
+date: "2026-09-23T22:27:11+00:00"
+
+keywords: eSIM Südafrika, Südafrika eSIM Netzbetreiber, Vodacom eSIM, MTN eSIM, Cell C eSIM, 5G Netzwerk, Prepaid-Daten, Roaming
+
 site_name: Roami
+
 brand_name: Roami
+
 breadcrumb_items:
+
 - name: Roami
+
   url: /
-- name: Südafrika eSIM-Guide
+
+- name: Südafrika eSIM Ratgeber
+
   url: ''
-hero_badge: '[Landesflagge] Südafrika Reise-eSIM Aktueller Guide'
-hero_subtitle_main: 'Südafrika eSIM: Verabschieden Sie sich von internationalen Roaming-Gebühren'
-hero_subtitle_highlight: Premium 5G-Netzabdeckung durch Vodacom und MTN
-hero_description_line1: Machen Sie Auslandsreisen einfach und schnell mit einer Südafrika
-  eSIM. Sie deckt die wichtigsten lokalen Mobilfunknetze mit stabilen Signalen, transparenten
-  Preisen und null versteckten Gebühren ab.
-hero_description_line2: Verbinden Sie sich in Sekundenschnelle und genießen Sie unbegrenztes
-  Surfen.
-hero_link_text: Südafrika eSIM
-hero_link_url: /south-africa-esim/
-tldr_summary: 'Erste Wahl für digitale Nomaden: Nahtloses grenzüberschreitendes 5G-Netzwerk
-  für kontinuierliche Reisen durch mehrere Länder. Laut [Ookla Speedtest Connectivity
-  Report](https://www.ookla.com/research/reports/south-africa-speedtest-connectivity-report-h2-2024)
-  erreicht Vodacom eine 5G-Downloadrate von 227,92 Mbit/s, während MTN mit 97,32 Punkten
-  Speed Score das schnellste Gesamtnetz bietet. Mit Roami eSIM surfen Sie in Pretoria
-  (76,03 Mbit/s mobil) und Kapstadt (52,59 Mbit/s fest) zuverlässig und ohne Roaming-Gebühren.'
-sidebar_more_hint: Wischen, um mehr zu sehen
-sidebar_title: Südafrika eSIM Schnelle Links
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Kurzauswahl: Welchen Südafrika eSIM-Anbieter sollten Sie wählen?'
-- href: '#operators'
-  text: Top Südafrika eSIM-Mobilfunkanbieter im Test
-- href: '#city-guide'
-  text: 'Städte-Guide: Die beste eSIM für Südafrika'
-- href: '#before-buy'
-  text: Dinge, die Sie vor dem Kauf einer Südafrika eSIM wissen müssen
-- href: '#faq'
-  text: Häufig gestellte Fragen zur Südafrika eSIM
-- href: '#myths'
-  text: Mythen und Fakten über die Südafrika eSIM
-- href: '#data-sources'
-  text: Datenquellen
-quick_picks_title: 'Kurzauswahl: Welchen Südafrika eSIM-Anbieter sollten Sie wählen?'
-quick_picks_table_headers:
-- Ihr Reisestil
-- Empfohlener Anbieter
-- Netzwerkdatenleistung
-quick_picks_note_prefix: 'Datenquelle: '
-quick_picks_note_carrier: '[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-africa-speedtest-connectivity-report-h2-2024)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Digitale Nomaden
-  carrier: Vodacom
-  carrier_class: text-orange-600
-  reason: Höchste 5G-Downloadrate (227,92 Mbit/s) und beste 5G-Abdeckung für intensives
-    Arbeiten unterwegs.
-- travel: Gamer & Streamer
-  carrier: MTN
-  carrier_class: text-yellow-600
-  reason: Beste 5G-Gaming- und Video-Streaming-Erfahrung (Score 69,78) sowie niedrigste
-    Latenz (36 ms).
-- travel: Städte-Entdecker
-  carrier: MTN
-  carrier_class: text-yellow-600
-  reason: Schnellstes Gesamtnetz (Speed Score 97,32) mit 77,13 Mbit/s Download – ideal
-    für Navigation und Social Media.
-- travel: Roadtripper & Landurlauber
-  carrier: Vodacom
-  carrier_class: text-orange-600
-  reason: Beste 5G-Konsistenz (87,7%) und hohe Verfügbarkeit auch außerhalb der Metropolen.
-cta_button_main_text: Die kostengünstigste Südafrika Reise-eSIM ansehen
-cta_button_sub_text: Automatischer Netzwerkwechsel, unterstützt automatischen Prepaid-Daten-Preisvergleich
-operator_labels:
-  best_for: 'Am besten für:'
-  core_data: 'Kerndaten:'
-  connect_note_label: 'eSIM-Verbindungshinweis:'
-operators:
-- id: vodacom-esim
-  title: 'Vodacom eSIM Test: Beste 5G-Geschwindigkeit'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für alle, die maximale 5G-Downloadraten
-    benötigen – perfekt für datenintensive Anwendungen wie Video-Konferenzen und große
-    Datei-Uploads.
-  core_data: '- **5G-Downloadrate**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-africa-speedtest-connectivity-report-h2-2024)
-    beträgt die mediane 5G-Downloadrate 227,92 Mbit/s – Spitzenwert in Südafrika.
 
-    - **5G-Uploadrate**: 14,75 Mbit/s.
+hero_badge: "Südafrika eSIM im Vergleich: Vodacom, MTN und Cell C"
 
-    - **5G-Latenz**: 36 ms.
+hero_subtitle_main: "Südafrikas Netze ohne Marketing-Glanz"
 
-    - **5G Speed Score**: 192,57.
-
-    - **Netzkonsistenz (5G)**: 87,7% der Proben erreichen mindestens 25 Mbit/s Download
-    und 3 Mbit/s Upload.'
-  arcep_note: Bestätigt durch die südafrikanische Regulierungsbehörde ICASA (Stand
-    2024).
-  connect_note: Die Aktivierung verläuft nahtlos über QR-Code. Roami eSIM nutzt das
-    Vodacom-Netz bevorzugt für 5G-Verbindungen.
-  user_scenarios: '- **Kapstadt (Tafelberg)**: Während der Seilbahnfahrt und auf dem
-    Gipfel bleibt die Verbindung stabil – 5G-Downloads von über 200 Mbit/s ermöglichen
-    Live-Streams in Echtzeit.
-
-    - **Gartenroute (N2-Autobahn)**: Auch auf langen Fahrten zwischen Mossel Bay und
-    Storms River bleibt die 5G-Abdeckung hoch – ideal für Navigation und Musik-Streaming.
-
-    - **Kruger-Nationalpark**: In den Hauptcamps und Lodges ist 5G verfügbar – schnelle
-    Uploads von Safari-Fotos und -Videos sind problemlos möglich.'
-  bg_color: bg-orange-50
-- id: mtn-esim
-  title: 'MTN eSIM Test: Beste Gaming- und Streaming-Qualität'
-  best_for: Dieser Tarif ist die optimale Wahl für Gamer, Streamer und alle, die eine
-    gleichbleibend hohe Netzqualität und niedrige Latenz schätzen.
-  core_data: '- **Speed Score (alle Technologien)**: 97,32 – schnellstes Gesamtnetz.
-
-    - **Mediane Downloadrate**: 77,13 Mbit/s.
-
-    - **Mediane Uploadrate**: 13,81 Mbit/s.
-
-    - **Latenz**: 36 ms.
-
-    - **5G Gaming Score**: 69,78 (Bester Wert).
-
-    - **5G Video Streaming Score**: 69,78 (Bester Wert).
-
-    - **Netzkonsistenz (alle Technologien)**: 92,8% der Proben erreichen mindestens
-    5 Mbit/s Download und 1 Mbit/s Upload.
-
-    - **5G-Verfügbarkeit**: 40,3% der Nutzer haben mehrheitlich 5G-Zugang (höchster
-    Wert).'
-  arcep_note: Bestätigt durch die südafrikanische Regulierungsbehörde ICASA (Stand
-    2024).
-  connect_note: Die Aktivierung verläuft nahtlos über QR-Code. Roami eSIM priorisiert
-    das MTN-Netz für optimale Latenz und Streaming-Qualität.
-  user_scenarios: '- **Johannesburg (Sandton City)**: Beim Einkaufen und in Restaurants
-    liefert MTN stabile 5G-Geschwindigkeiten – perfekt für mobiles Gaming und Video-Anrufe.
-
-    - **Durban (Golden Mile)**: Am Strand und in der Promenade bleibt die Verbindung
-    zuverlässig – Streaming in 4K ohne Pufferung.
-
-    - **Pretoria (Union Buildings)**: In der Hauptstadt erreicht MTN die höchste mobile
-    Downloadrate (76,03 Mbit/s) – ideal für Navigation und Social Media.'
-  bg_color: bg-yellow-50
-cards_compatibility_title: Prüfen Sie die Südafrika eSIM Kompatibilitätsliste
-cards_compatibility_desc: Prüfen Sie, ob Ihr Telefon Südafrika eSIM und lokale 5G-Bänder
-  unterstützt
-cards_free_title: Holen Sie sich Ihre kostenlose Südafrika eSIM
-cards_free_desc: Begrenzte kostenlose Test-eSIM, erleben Sie das lokale 5G-Highspeed-Netzwerk
-  ohne Roaming-Kosten
-cards_free_badge: KOSTENLOS
-cards_app_title: Roami App herunterladen & 20% Rabatt auf eSIM erhalten
-cards_app_desc: 'Rabattcode: <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | One-Tap-eSIM-Verwaltung'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Dinge, die Sie vor dem Kauf einer Südafrika eSIM wissen müssen
-before_buy_sections:
-- heading: 1. Wichtige 5G/4G-Frequenzbänder in Südafrika
-  content: Südafrika nutzt für 5G hauptsächlich die Bänder n78 (3500 MHz) und n1 (2100
-    MHz). Für 4G/LTE sind die Bänder 1 (2100 MHz), 3 (1800 MHz), 20 (800 MHz) und
-    28 (700 MHz) relevant. Stellen Sie sicher, dass Ihr Smartphone diese Frequenzen
-    unterstützt, um die beste Netzabdeckung zu erhalten.
-- heading: 2. Registrierungspflicht (KYC) für eSIM in Südafrika
-  content: In Südafrika ist eine Identifikationspflicht (Know Your Customer – KYC)
-    für alle Mobilfunkdienste gesetzlich vorgeschrieben. Bei der Aktivierung einer
-    Roami eSIM müssen Sie Ihren Reisepass oder Personalausweis hochladen. Die Prüfung
-    erfolgt automatisiert und dauert in der Regel nur wenige Minuten.
-- heading: 3. Fair-Use-Policy (FUP) und Drosselung
-  content: Die meisten eSIM-Tarife unterliegen einer Fair-Use-Policy. Nach Überschreiten
-    eines bestimmten Datenvolumens (z. B. 50 GB pro Monat) kann die Geschwindigkeit
-    gedrosselt werden. Roami bietet transparente Tarife ohne versteckte Drosselung
-    – prüfen Sie die genauen Konditionen vor dem Kauf.
-- heading: 4. Netzabdeckung in ländlichen Gebieten
-  content: Während die 5G-Abdeckung in Städten wie Johannesburg, Kapstadt und Pretoria
-    exzellent ist, kann sie in ländlichen Regionen (z. B. Karoo, Nordkap) eingeschränkt
-    sein. Hier greifen Sie automatisch auf 4G/LTE zurück. Vodacom und MTN haben die
-    beste ländliche Abdeckung.
-- heading: 5. Kompatibilität mit Ihrem Smartphone
-  content: Nicht alle Smartphones unterstützen eSIM. iPhones ab dem XS/XR, Google
-    Pixel ab dem 3a und die meisten Samsung Galaxy Modelle ab dem S20 sind eSIM-kompatibel.
-    Prüfen Sie vor der Reise, ob Ihr Gerät eSIM-fähig ist und entsperrt (SIM-Lock-frei)
-    ist.
-city_guide_title: 'Städte-Guide: Die beste eSIM für Südafrika'
-city_guide_desc: Finden Sie heraus, welche Südafrika eSIM für Ihre Zielstadt die beste
-  Wahl ist. Basierend auf aktuellen Speedtest-Daten und lokalen Netzbesonderheiten.
-city_table_headers:
-- Stadt
-- Empfohlener eSIM-Anbieter
-- Grund / Eigenschaften
-city_recommendations:
-- city: Pretoria
-  carriers: MTN
-  reason: Pretoria verzeichnet die schnellste mobile Downloadrate (76,03 Mbit/s) aller
-    südafrikanischen Städte. MTN bietet hier die beste Kombination aus Geschwindigkeit
-    und Abdeckung – ideal für Berufstätige und digitale Nomaden.
-- city: Kapstadt
-  carriers: Vodacom
-  reason: Kapstadt führt bei festen Breitbandgeschwindigkeiten (52,59 Mbit/s). Vodacom
-    hat in der Mother City das stärkste 5G-Netz, perfekt für Touristen, die im Stadtzentrum,
-    am Waterfront oder am Tafelberg schnell surfen möchten.
-- city: Johannesburg
-  carriers: MTN
-  reason: Als Wirtschaftszentrum profitiert Johannesburg von MTNs hervorragender 5G-Verfügbarkeit
-    (40,3%) und niedriger Latenz. Gamer und Streamer kommen hier voll auf ihre Kosten.
-- city: Durban
-  carriers: Vodacom
-  reason: Durban an der Ostküste hat eine wachsende 5G-Infrastruktur. Vodacom bietet
-    hier die stabilsten Verbindungen entlang der Golden Mile und in den nördlichen
-    Vororten – optimal für Strandurlauber.
-- city: Port Elizabeth (Gqeberha)
-  carriers: MTN
-  reason: In der Küstenstadt Port Elizabeth liefert MTN die konsistentesten Geschwindigkeiten.
-    Die Stadt ist ein wichtiger Knotenpunkt für Roadtrips entlang der Garden Route
-    – MTN gewährleistet zuverlässige Navigation und Kommunikation.
-city_guide_tip: '💡 Tipp: Wenn Sie die Multi-Netzwerk-eSIM von Roami nutzen, wechselt
-  Ihr Telefon automatisch zum besten lokalen Anbieter – keine manuelle Auswahl erforderlich.'
-scene_guide_title: 🎯 Wählen Sie die beste Südafrika eSIM basierend auf Ihrem Reiseszenario
-scene_items:
-- icon: 🏛️
-  title: Stadtentdecker
-  text: Erkunden Sie Johannesburgs Maboneng-Viertel oder Kapstadts Bo-Kaap mit 5G-Geschwindigkeit.
-    Nutzen Sie Augmented-Reality-Apps für historische Touren und laden Sie hochauflösende
-    Fotos sofort in die Cloud hoch.
-- icon: 🏞️
-  title: Naturliebhaber
-  text: Im Kruger-Nationalpark oder in den Drakensbergen ist 4G/LTE die primäre Verbindung.
-    Mit Roami eSIM bleiben Sie in den Lodges und Aussichtspunkten online – perfekt
-    für Live-Updates von Wildtierbeobachtungen.
-- icon: 🚗
-  title: Roadtripper
-  text: Auf der Garden Route von Kapstadt nach Port Elizabeth sorgt die Roami eSIM
-    für durchgehende Navigation. Verpassen Sie keine Abzweigung und streamen Sie Ihre
-    Lieblings-Playlists ohne Unterbrechung.
-- icon: 🏖️
-  title: Strandurlauber
-  text: An den Stränden von Durban oder Umhlanga Rocks genießen Sie stabiles 5G. Teilen
-    Sie Ihre Strandmomente in Echtzeit auf Social Media und bleiben Sie mit der Heimat
-    in Verbindung – ohne Roaming-Kosten.
-scene_guide_footer: 💡 Die Roami Südafrika eSIM Multi-Netzwerk-Edition erkennt Ihr
-  Szenario automatisch und wechselt in das beste Netzwerk – keine manuelle Einrichtung
-  erforderlich.
-faq_title: Häufig gestellte Fragen zur Südafrika eSIM
-faq_prefix: F
-faq_suffix: ': '
-faq_more_link_text: Weitere Fragen? Komplette FAQ ansehen →
-faq_more_link_url: /faq/
-faq:
-- q: Kann die Südafrika eSIM als primäre Karte für alle mobilen Datenverbindungen
-    genutzt werden?
-  a: Ja, die Roami eSIM für Südafrika kann als primäre Datenkarte genutzt werden.
-    Sie bietet Zugang zu den lokalen 5G/4G-Netzen von Vodacom und MTN. Beachten Sie
-    jedoch, dass es sich um eine reine Daten-eSIM handelt – Telefonie und SMS werden
-    nicht unterstützt. Für Anrufe können Sie VoIP-Dienste wie WhatsApp oder Skype
-    verwenden.
-- q: Eignet sich die Südafrika eSIM für Online-Gaming und wie hoch ist die durchschnittliche
-    Netzwerklatenz (Ping)?
-  a: Ja, die eSIM eignet sich hervorragend für Online-Gaming. Laut [Ookla Speedtest
-    Connectivity Report](https://www.ookla.com/research/reports/south-africa-speedtest-connectivity-report-h2-2024)
-    beträgt die durchschnittliche Latenz im 5G-Netz von Vodacom und MTN 36 ms. MTN
-    bietet zudem die beste 5G-Gaming-Erfahrung (Score 69,78). In Städten wie Johannesburg
-    und Kapstadt sind Ping-Werte unter 30 ms möglich – ideal für Echtzeit-Spiele.
-- q: Wird die Internetgeschwindigkeit in Südafrika beeinträchtigt, wenn mehrere Geräte
-    gleichzeitig über den eSIM-Hotspot verbunden sind?
-  a: Die Geschwindigkeit kann bei intensiver Nutzung mehrerer Geräte leicht sinken,
-    da die Bandbreite geteilt wird. Mit einer 5G-Verbindung (bis zu 227,92 Mbit/s
-    Download) bleiben jedoch auch bei 3–4 gleichzeitig verbundenen Geräten flüssige
-    Streams und schnelle Downloads möglich. Für maximale Leistung empfehlen wir, datenintensive
-    Aktivitäten wie 4K-Streaming auf ein Gerät zu beschränken.
-- q: Ist es möglich, mehrere Datenpakete für Südafrika zu kaufen und diese nacheinander
-    zu aktivieren?
-  a: Ja, Sie können mehrere Datenpakete für Südafrika erwerben und diese flexibel
-    nacheinander aktivieren. Roami ermöglicht es, Pakete im Voraus zu kaufen und bei
-    Bedarf zu aktivieren – perfekt für längere Aufenthalte oder Nachbuchungen. Die
-    Aktivierung erfolgt jeweils über einen neuen QR-Code oder direkt im Kundenportal.
-- q: Kann ich in Südafrika manuell einen anderen lokalen Netzbetreiber auswählen,
-    wenn das aktuelle Signal schwach ist?
-  a: Ja, die Roami eSIM unterstützt die manuelle Netzauswahl. Sie können in den Geräteeinstellungen
-    zwischen den verfügbaren Partnernetzen (Vodacom, MTN) wechseln. Standardmäßig
-    wählt das Gerät automatisch das stärkste Signal. Bei schwachem Empfang empfehlen
-    wir, manuell auf das andere Netz umzuschalten – insbesondere in ländlichen Gebieten.
-myths_title: ⚠️ Häufige Mythen und Fakten über die Südafrika eSIM
-myth_label: '❌ Mythos: '
-truth_label: '✅ Fakt: '
-myths:
-- myth: In Südafrika gibt es nur in Großstädten 5G.
-  truth: Falsch. Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-africa-speedtest-connectivity-report-h2-2024)
-    haben Vodacom und MTN ihre 5G-Netze auch in mittelgroßen Städten wie Port Elizabeth,
-    Bloemfontein und Nelspruit ausgebaut. Die 5G-Verfügbarkeit von MTN liegt bei 40,3%
-    – das bedeutet, dass zwei von fünf Nutzern mehrheitlich 5G empfangen.
-- myth: Alle eSIM-Anbieter in Südafrika sind gleich schnell.
-  truth: Nein. Die Geschwindigkeit variiert stark je nach Netzbetreiber. Vodacom führt
-    bei 5G-Downloads (227,92 Mbit/s), während MTN das schnellste Gesamtnetz (Speed
-    Score 97,32) und die beste Gaming-Qualität bietet. Roami arbeitet mit beiden Top-Betreibern
-    zusammen.
-- myth: Man braucht in Südafrika eine physische SIM-Karte, um günstige Tarife zu bekommen.
-  truth: Das stimmt nicht. eSIM-Tarife sind inzwischen genauso günstig wie physische
-    Prepaid-Karten. Roami bietet wettbewerbsfähige Preise ohne versteckte Gebühren
-    und ermöglicht die sofortige Aktivierung – ohne Shop-Besuch.
-- myth: Südafrikas Mobilfunknetz ist generell langsam und unzuverlässig.
-  truth: Das Gegenteil ist der Fall. Südafrika gehört zu den führenden afrikanischen
-    Ländern im 5G-Ausbau. Mit 5G-Spitzengeschwindigkeiten von über 227 Mbit/s und
-    einer Netzkonsistenz von 92,8% (MTN) ist das Netz für die meisten Anwendungen
-    mehr als ausreichend.
-- myth: Man muss vor Reiseantritt eine lokale SIM-Karte kaufen, um Roaming-Gebühren
-    zu vermeiden.
-  truth: Nein. Mit einer Roami eSIM können Sie bereits vor Ihrer Abreise ein Datenpaket
-    kaufen und bei der Landung aktivieren. Sie vermeiden so vollständig internationale
-    Roaming-Gebühren und haben sofortigen Zugang zum lokalen Netz.
-data_sources_title: Datenquellen Südafrika Mobilfunknetze
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-africa-speedtest-connectivity-report-h2-2024)'
-  description: Offizieller Bericht über die Netzwerkleistung in Südafrika für das
-    zweite Halbjahr 2024. Enthält Daten zu 5G-Geschwindigkeiten, Latenz und Netzkonsistenz
-    von Vodacom und MTN.
-- name: OpenSignal 2024
-  description: Unabhängige Analyse der mobilen Netzwerkerfahrung in Südafrika, einschließlich
-    5G-Verfügbarkeit, Video-Streaming und Gaming-Qualität.
-- name: ICASA (Independent Communications Authority of South Africa) 2024
-  description: Regulierungsbehörde, die Frequenzzuteilungen und Netzabdeckungsdaten
-    für Südafrika veröffentlicht. Bestätigt die offiziellen Netzbetreiber und deren
-    Lizenzen.
-data_sources_footer: Alle oben zitierten Netzleistungsdaten stammen aus öffentlich
-  zugänglichen Berichten Dritter (Ookla, OpenSignal, ICASA) und beziehen sich auf
-  das zweite Halbjahr 2024. Die tatsächliche Geschwindigkeit kann je nach Standort,
-  Gerät und Netzauslastung variieren.
-data_sources_note: Netzwerkgeschwindigkeiten und Abdeckung können variieren. Die angegebenen
-  Werte sind Mediane oder Durchschnittswerte aus umfangreichen Testreihen. Roami garantiert
-  keine Mindestgeschwindigkeiten, arbeitet jedoch mit den leistungsstärksten lokalen
-  Partnern zusammen.
-cta_title: Sichern Sie sich Ihre Südafrika eSIM noch heute
-cta_desc: Erhalten Sie sofortigen Zugang zu Vodacom- und MTN-5G-Netzen. Keine versteckten
-  Kosten, keine Roaming-Gebühren. Aktivierung in Sekunden per QR-Code.
-cta_button_text: Jetzt Südafrika eSIM kaufen
-cta_button_link: /south-africa-esim/
-cta_free_trial_note: Exklusiv für Neukunden
-cta_free_trial_text: Kostenlose Südafrika Test-eSIM
-cta_free_trial_link: /free-esim/
 ---
+
+
+
+
+
+
+Südafrika ist das eine große Reiseziel, bei dem der wichtigste eSIM-Faktor ein Gesetz ist, nicht ein Netzwerk. **RICA** — das SIM-Registrierungsgesetz des Landes — verlangt, dass jede lokal verkaufte SIM persönlich mit Reisepass und einer südafrikanischen Adresse registriert wird, was den SIM-Schalter am Flughafen zur Hürde macht, genau wenn Ihr Safari-Transfer wartet. Die Netze selbst sind stark: **Vodacom** und **MTN** betreiben echtes nationales 5G, und der nationale Median von 69,57 Mbps (Ookla, August 2026) führt die Region an. Alle drei Ebenen zu verstehen — Netze, Registrierungsgesetz und die Geografie zwischen Kapstadt und Krüger — ist das, was eine gute Südafrika eSIM-Entscheidung tatsächlich braucht.
+
+
+
+**Kurze Antwort:** Die Netzbetreiber-Entscheidung in Südafrika ist weniger wichtig als der Kauf vor dem Abflug: Wählen Sie Vodacom für die größte Abdeckung oder MTN für günstige Daten, und installieren Sie das Profil Ihrer Südafrika eSIM vor der Abreise. Ihre erste eSIM? Der [Schritt-für-Schritt-Aktivierungsratgeber](/faq/how-to-activate-an-esim/) zeigt die komplette Download- und Installationsroutine.
+
+
+
+Dieser Ratgeber behandelt sie der Reihe nach. Die eSIM-Unterstützung Ihres Geräts ist eine separate Ein-Minuten-Frage auf der [Telefon-Kompatibilitätsliste](/compatibility/).
+
+
+
+**Die Kurzversion:** Vodacom ist der Standard bei der Netzabdeckung — der größte 4G-Fußabdruck und das schnellste 5G (227,92 Mbps medianer Download). MTN ist der Erlebnis-Vorreiter: bestes 5G-Gaming und -Streaming, höchste 5G-Verfügbarkeit (40,3 %) und das stärkste Netz im ländlichen Raum und in Townships. Cell C ist die Budgetspur, die weitgehend auf der Infrastruktur von MTN mitläuft. Lokale SIMs erfordern eine RICA-Registrierung (Reisepass plus südafrikanische Adresse, persönlich); eine im Ausland ausgestellte Reise-eSIM verbindet sich über Roaming und umgeht den Vorgang vollständig. Installieren Sie eine [Südafrika eSIM](/south-africa-esim/) vor dem Abflug und landen Sie verbunden am O.R. Tambo oder in Kapstadt.
+
+
+
+## Die beste Südafrika eSIM je nach Reiseart
+
+
+
+Die Zahlen auf Netzbetreiber-Ebene oben stammen aus [Ooklas H2 2024 Südafrika-Bericht](https://www.ookla.com/research/reports/south-africa-speedtest-connectivity-report-h2-2024).
+
+
+
+| Ihre Reise | Bester Netzbetreiber | Warum |
+
+|:---|:---|:---|
+
+| Kapstadt, Johannesburg und Durban | Vodacom | Schnellste 5G-Medianwerte (227,92 Mbps) und die umfassendste städtische Netzabdeckung. |
+
+| Garden Route und Fahrten durch ländliche Gebiete | MTN | Höchste 5G-Verfügbarkeit (40,3 %), 92,8 % Konsistenz und die stärkste ländliche Präsenz außerhalb der Städte. |
+
+| Kruger und die Wildreservate | MTN, Vodacom | An den Hauptcamps und Eingängen ist ein Signal vorhanden; die abgelegenen Teile des Parks sind für alle offline. |
+
+| Günstige Stadtaufenthalte | Cell C | Die günstigste Variante, nutzt MTNs Netz in den meisten Gebieten — annehmbare 44,07 Mbps für leichte Nutzung. |
+
+
+
+## Die Zahlen hinter den drei Netzen
+
+
+
+### Vodacom gegen MTN im Tempo
+
+
+
+Vodacom — mehrheitlich im Besitz der Vodafone-Gruppe — ist Südafrikas größter Netzbetreiber, und seine Ookla-Werte führen beim 5G-Tempo: ein mittlerer 5G-Download von **227,92 Mbps** mit 14,75 Mbps im Upload und 36 ms Latenz, ein 5G-Speed-Score von 192,57 sowie laut der Regulierungsbehörde ICASA die größte Spektrumsposition im 3,5-GHz-Band. Seine 4G-Netzabdeckung ist im Land am weitesten verbreitet und reicht in jede Sekundärstadt jeder Provinz. Für einen Besucher, der die Küstenstraßen des Western Cape mit den Geschäftsvierteln Gautengs verbindet, ist Vodacom das Netz, das höchstwahrscheinlich zuerst verfügbar ist.
+
+
+
+### MTN als Erlebnis-Führer
+
+
+
+Der H2-2024-Bericht von MTN erzählt die Geschichte der Erlebnisqualität: das beste 5G-Gaming und Video-Streaming im Land, **92,8 %** der Messungen bestehen die Konsistenz-Marke von 5 Mbps im Download / 1 Mbps im Upload, und mit 40,3 % die höchste 5G-Verfügbarkeit, da die Nutzer die meiste Zeit im 5G-Netz sind. Sein mittlerer Gesamtwert (77,13 Mbps) bleibt hinter dem 5G-Spitzenwert von Vodacom zurück, aber seine Netzabdeckung in ländlichen Gebieten und Townships gilt weithin als die stärkste des Landes — genau das, was die Garden Route, die Panorama Route und die Straßen zwischen den Wildreservaten erfordern. Afrikas größte Mobilfunk-Netzbetreibergruppe bringt ernsthafte Infrastruktur dorthin, wohin Touristen erst dann denken, wenn das Signal verschwindet.
+
+
+
+### Cell C als Sparspur
+
+
+
+Cell C hat sich vom Netzeigentümer zu einer Marke gewandelt, die weitgehend die Infrastruktur von MTN nutzt, und ihre Rolle für Reisende ist einfach: die günstigste Spur, mit einem mittleren Download von 44,07 Mbps, der in den Städten Messaging, Karten und Social Media bewältigt. Für einen kurzen, preiswerten Stadtaufenthalt in Ordnung; die falsche Wahl für ländliche Routen, wo man die volle Stärke des Host-Netzes braucht.
+
+
+
+### Telkom Mobile als viertes Netz in Kürze
+
+
+
+Telkom Mobile ist das vierte Netz des Landes — in den Städten ein gutes Preis-Leistungs-Verhältnis, außerhalb davon dünner. Es taucht in Multi-Netz-eSIM-Tarifen als Ausweichspur auf, nicht als erste Wahl, und die messbaren Unterschiede liegen in dem oben beschriebenen Zweikampf.
+
+
+
+Südafrika ist der Markt, in dem das schnellste Netz und das beste Netz unterschiedliche Dinge sind, und die Lücke zwischen ihnen ist groß genug, um sie einzuplanen. Der Südafrika-Bericht von Ookla für das 2. Halbjahr 2024 (Erhebungszeitraum Juli bis Dezember 2024) macht **MTN** zum schnellsten Mobilfunkanbieter insgesamt und **Vodacom** zum schnellsten im 5G-Netz.
+
+
+
+| Metrisch | MTN | Vodacom | Cell C | Telkom |
+
+|:---|:---|:---|:---|:---|
+
+| Speed Score, alle Technologien | **97,32** (schnellster) | — | — | — |
+
+| Medianer Download, alle Technologien | **77,13 Mbps** | 55,95 Mbps | 44,07 Mbps | — |
+
+| Medianer Upload, alle Technologien | **13,81 Mbps** | — | — | — |
+
+| Latenz | **36 ms** | — | — | — |
+
+| 5G-Geschwindigkeitswertung | — | **192,57** (schnellstes 5G) | — | — |
+
+| Median 5G-Download | 172,51 Mbps | **227,92 Mbps** | — | — |
+
+| Median 5G-Upload | — | 14,75 Mbps | — | — |
+
+| 5G-Latenz | — | 36 ms | — | — |
+
+| Konsistenz | **92,8 %** (bester Wert) | — | — | — |
+
+| 5G-Konsistenz | **87,7 %** (beste) | — | — | — |
+
+| 5G-Verfügbarkeit | **40,3 %** (höchste) | 35,2 % | — | — |
+
+| Video-Streaming-Bewertung | **64,12** (am besten) | — | — | — |
+
+| 5G Video-Streaming-Bewertung | **82,89** (am besten) | — | — | — |
+
+| Spielpunktzahl | **65,56** (Bestwert) | — | — | — |
+
+| 5G Game Score | **69,78** (Bestwert) | — | — | — |
+
+
+
+**MTN nimmt fast alles mit, außer der 5G-Speed-Krone.** Es ist insgesamt das schnellste Netzwerk mit 77,13 Mbps gegenüber Vodacom mit 55,95 und Cell C mit 44,07, am konsistentesten sowohl in der All-Technologie- (92,8 %) als auch in der 5G-Wertung (87,7 %), hat die höchste 5G-Verfügbarkeit mit 40,3 % und erzielt die besten Ergebnisse bei Video, 5G-Video und Gaming. **Vodacom gewinnt die eine Kennzahl, auf die seine Marke ausgerichtet ist**, mit einem medianen 5G-Download von 227,92 Mbps gegenüber MTN mit 172,51 und einem 5G-Speed-Score von 192,57.
+
+
+
+**Cell C konkurriert eher über den Preis als über die Leistung**: 44,07 Mbps gegenüber MTN mit 77,13 Mbps im All-Technologie-Median. Ausreichend für Nachrichten und Navigation; nicht für Streaming oder mobiles Arbeiten ausgelegt.
+
+
+
+Ein Wort zur Vorsicht bei der Interpretation all dessen: derselbe Bericht weist darauf hin, dass die nationalen Mobilfunk-Mediane des Landes deutlich unter diesen Anbieterwerten liegen, da große Teile des ländlichen Südafrika noch mit älterer Technologie versorgt werden. Die oben genannten Zahlen beschreiben die Städte, die Ihre Reiseroute tatsächlich berührt; die Realität auf Provinzebene folgt im nächsten Abschnitt.
+
+
+
+### Welcher Netzbetreiber gewinnt in Südafrika beim Speed?
+
+
+
+| Stadt | Mittlerer Download | Upload | Latenz | Konstanz | Schnellster Netzbetreiber |
+
+|:---|:---|:---|:---|:---|:---|
+
+| Pretoria | **76,03 Mbps** | 12,55 Mbps | 33,4 ms | 92,3 % | — |
+
+| Bloemfontein | 69,02 Mbps | 13,18 Mbps | 40,21 ms | 92 % | — |
+
+| Johannesburg | 62,55 Mbps | 12,46 Mbps | 33,82 ms | 90,9 % | — |
+
+| Kapstadt | 56,49 Mbps | 9,51 Mbps | 36,75 ms | 86,1 % | MTN |
+
+| East London | 55,87 Mbps | 10,42 Mbps | 59,82 ms | 89,7 % | — |
+
+| Vereeniging | 52,07 Mbps | 9,81 Mbps | 36,26 ms | 89 % | — |
+
+| Port Elizabeth | 51,74 Mbps | 9,75 Mbps | 49,46 ms | 86,9 % | MTN |
+
+| Pietermaritzburg | 46,33 Mbps | 9,42 Mbps | 42,07 ms | 83,3 % | MTN |
+
+| Durban | 44,24 Mbps | 11,11 Mbps | 37,15 ms | 87,8 % | MTN |
+
+| Soshanguve | 29,27 Mbps | 8,98 Mbps | 36,81 ms | 85 % | — |
+
+
+
+Drei Werte für Reisende. **Pretoria führt mit 76,03 Mbps**, gefolgt von Johannesburg mit 62,55 – der Ballungsraum Gauteng ist der am besten angebundene Teil des Landes. **Kapstadt, die beliebteste Touristenstadt, liegt mit 56,49 Mbps auf Platz vier und weist die zweitniedrigste Konstanz auf** – eine Kapstadt-Reiseroute ist daher ein guter Ort, um eine Festnetzverbindung als Backup bereitzuhalten. Und **Soshanguves 29,27 Mbps verdeutlichen die Kluft in den Townships**, die innerhalb derselben Metropolregion liegen wie Pretorias 76,03 Mbps – die mobile Qualität in Südafrika ist innerhalb der Städte ungleichmäßig, nicht nur zwischen ihnen.
+
+
+
+## Die SIM-Registrierung und was sie bedeutet
+
+
+
+RICA – der Regulation of Interception of Communications and Provision of Communication-Related Information Act – verlangt, dass **jede in Südafrika verkaufte SIM-Karte vor der Aktivierung mit einer verifizierten Identität und Adresse registriert wird**. Die eigenen Hinweise des Netzbetreibers sind eindeutig: Die [Vodacom RICA-Seite](https://www.vodacom.co.za/vodacom/help/rica) führt Reisepass plus Adressnachweis als Mindestanforderung für ausländische Staatsbürger auf, mit Registrierung in einer Filiale oder über digitale Kanäle.
+
+
+
+Für Reisende liegt die Hürde konkret darin: Die Adressanforderung ist eine südafrikanische Wohnadresse, die die meisten Besucher nicht haben. Flughafen-Kioske akzeptieren in der Regel eine Hoteladresse, der Vorgang dauert aber schnell zehn Minuten und länger und erfolgt persönlich am Schalter.
+
+
+
+Hier die juristische Nuance, die es zu kennen lohnt, dokumentiert im [De Rebus, dem Fachjournal südafrikanischer Anwälte](https://www.derebus.org.za/the-legal-status-of-esims-in-south-africa-rica-popia-and-compliance/): Abschnitt 40(1)(b) des RICA **befreit ausdrücklich Kunden, die ihr SIM-Profil im Ausland aktivieren und lokale Netze über Roaming nutzen** – die Bestimmung wurde genau für den Fall des ausländischen Reisenden formuliert. Eine Reise-eSIM, die außerhalb Südafrikas ausgegeben und auf Vodacom oder MTN im Rahmen eines Roaming-Abkommens genutzt wird, fällt nicht unter die lokale Registrierungspflicht. Das ist keine Gesetzeslücke, sondern die im Gesetz selbst verankerte Ausnahme, und deshalb ist der eSIM-Weg in diesem Markt der entspannte Weg.
+
+
+
+Eine Konsequenz gilt es einzuplanen: Lokal registrierte Anschlüsse bleiben der einzige Weg, eine südafrikanische Telefonnummer zu erhalten. Reise-eSIMs ohne Telefonnummer bieten keine – für Touristen in Ordnung (WhatsApp trägt den Tourismus in Südafrika), relevant, wenn Sie eine Inlands-SMS-Verifizierung benötigen.
+
+
+
+## Südafrika eSIM-Preise im Vergleich zu lokalen Prepaid-Tarifen
+
+
+
+Die aktuellen südafrikanischen Optionen – einschließlich unbegrenzter – finden Sie auf der [Südafrika eSIM-Seite](/south-africa-esim/). Die öffentlichen Bezugswerte bilden den Rahmen:
+
+
+
+Der Global Index von Ookla vom August 2026 platziert Südafrika bei einem medianen mobilen Download von **69,57 Mbps**, weltweit auf Platz **65** mit 22 ms Latenz – unter dem weltweiten Median von 109,05 Mbps und genau das, was eine Südafrika-eSIM übernimmt. Cable.co.uk berechnet 1 GB mit etwa **1,81 USD** (149. von 237). Der Digital-2025-Bericht von DataReportal zeigt 50,8 Millionen Internetnutzer (78,9 %) und rund **124 Millionen Mobilfunkverbindungen – 193 % der Bevölkerung**, eine der höchsten gemessenen Multi-SIM-Raten weltweit.
+
+
+
+Ein zweiter Südafrika-spezifischer Faktor gehört in jede ehrliche Diskussion der Netzabdeckung: **Load-Shedding**. Jahrelange geplante Stromabschaltungen haben die Netze darauf trainiert, Sendemasten mit Backup-Batterien zu betreiben. Auch wenn sich Eskoms Netzleistung dramatisch verbessert hat – über längere Zeiträume 2025–2026 ohne geplante Abschaltungen – bringen lokale Ausfälle Standorte weiterhin vorübergehend offline. Netzabdeckungskarten beschreiben Sendemasten; das Stromnetz entscheidet, ob sie aktiv sind.
+
+
+
+## Netzabdeckung von Johannesburg bis zur Garden Route
+
+
+
+| Reiseziel | Bester Netzbetreiber | Warum es funktioniert |
+
+|:---|:---|:---|
+
+| Johannesburg & Pretoria | Vodacom, MTN | Die stärkste 5G-Abdeckung des Landes in beiden Netzen; in den Hauptverkehrszeiten ist mit Stau auf den Autobahnen zu rechnen. |
+
+| Kapstadt & die Winelands | Vodacom | Umfassende Netzabdeckung im City Bowl und auf der Halbinsel; auf den ruhigeren Küstenstraßen südlich des Cape Point gibt es Lücken. |
+
+| Durban und KwaZulu-Natal | Vodacom, MTN | Die Strandabschnitte und die Stadt sind gut ausgebaut; die Straßen an der Nordküste werden zwischen den Orten dünner. |
+
+| Garden Route | MTN | Die beste Konstanz auf den Strecken zwischen den Orten – genau dort, wo ein Netz tatsächlich auf die Probe gestellt wird. |
+
+| Kruger & die nördlichen Parks | MTN, Vodacom | Die Hauptcamps und Eingänge haben Empfang; abgelegene Teile des Parks haben dies nicht, für niemanden. Planen Sie die Safari als Offline-Erlebnis. |
+
+| Port Elizabeth / Gqeberha | Cell C, Vodacom | Die Netzabdeckung in der Stadt ist bei beiden solide; Cell C eignet sich mit der Preisgestaltung gut für kurze und preiswerte Aufenthalte. |
+
+
+
+**Jenseits der Grenze.** Südafrikanische Reiserouten werden zunehmend mit der Region verknüpft: Die N7 verläuft nach Norden Richtung Namibias Fischfluss-Gegend, und Safari-Pläne werden häufig mit Ostafrika verglichen. Ein reiner Südafrika-Datentarif wird am Vioolsdrift-Übergang nicht mehr funktionieren. Falls die Route weitergeht, decken unser [Namibia-eSIM-Leitfaden](/carriers/namibia-esim-carrier-guide/) und die [Kenia-eSIM-Seite](/kenya-esim/) die anschließenden Etappen ab.
+
+
+
+## So installieren Sie das Profil
+
+
+
+Die Aktivierung Ihrer Südafrika eSIM erfolgt vollständig zu Hause: Sie zahlen, das Profil kommt in Ihrem Posteingang an, Sie fügen es in den Einstellungen hinzu, machen es zur Datenleitung und erlauben Roaming darauf. RICA spielt auf diesem Weg keine Rolle — kein Shop, keine Passkopie, keine Warteschlange. Anleitungen für beide Plattformen finden Sie im [eSIM-Installationsleitfaden](/faq/how-to-activate-an-esim/), und die Liste der Fehlerquellen steht im [Leitfaden zur eSIM-Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/).
+
+
+
+Für Südafrika gibt es zwei praktische Hinweise. Erstens: Installieren Sie die eSIM vor dem Flug — die Fahrt vom O.R. Tambo in die Stadt ist lang genug, um relevant zu sein, und Ihr Transferfahrer wird über WhatsApp koordiniert, wofür man Daten braucht. Zweitens: Planen Sie die Konnektivität in der Safari als Bonus und nicht als Selbstverständlichkeit ein: Laden Sie Offline-Karten für die Parkabschnitte herunter, und betrachten Sie den Empfang in den Camps als Ausnahme, die die Regel bestätigt. Falls das Profil zwar installiert wird, sich aber nie in einem Netz registriert, prüfen Sie, ob das Handy netzbetreiberunabhängig entsperrt ist, kontrollieren Sie Roaming auf der eSIM-Leitung und versuchen Sie eine manuelle Netzwahl (Vodacom oder MTN), bevor Sie eine tiefgreifendere Fehlersuche starten.
+
+
+
+## Ist Ihr Telefon bereit?
+
+
+
+| Technologie | Genutzte Frequenzbänder | Was dies für Ihr Mobiltelefon bedeutet |
+
+|:---|:---|:---|
+
+| 4G LTE | 1800 MHz (B3), 2100 MHz (B1), 800 MHz (B20), 2600 MHz (B7) | Das Kernset; B20 sorgt für die ländliche Netzabdeckung |
+
+| 4G LTE (Kapazität) | 2300 MHz (B40, TDD) | Urbane Kapazität in Gauteng und den Küstenmetropolen |
+
+| 5G | 3,5 GHz (n78), zusätzlich 2,6 GHz bei einem Netzbetreiber | n78 bildet die Grundlage für die oben genannten 5G-Werte; die entscheidende Spezifikation ist die Unterstützung durch das Endgerät |
+
+| Legacy | GSM 900/1800 | Sprachfallback in ländlichen Gebieten |
+
+
+
+Das lohnt sich noch vor dem Flug. Die Netzabdeckung im ländlichen Raum und 5G hängen beide von **B20 und n78** ab, und für Nordamerika beschaffte Geräte lassen diese Bänder häufig weg. Der zweite Punkt ist die Netzbetreiber-Sperre: ein Vertragshandy aus dem Ausland weist das Profil direkt zurück. Der [eSIM-Gerätecheck](/compatibility/) klärt beides.
+
+
+
+Ein Hinweis zum Kontext. Die Jahre des nationalen Load-Sheddings haben die Bauweise südafrikanischer Netze geprägt: Die Netzbetreiber investierten stark in Batterie- und Generator-Backups an ihren Standorten, und die Netzabdeckung auf den Hauptverkehrsrouten ist widerstandsfähiger, als es der Ruf vermuten lässt. Die Bedingungen ändern sich, daher lohnt es sich, bei Ihrer Unterkunft nach der aktuellen Lage vor Ort zu fragen, statt eines der beiden Extreme vorauszusetzen.
+
+
+
+## APN-Werte die tatsächlich funktionieren
+
+
+
+Südafrika ist der seltene Markt, in dem alle vier Netzbetreiber dieselbe APN-Zeichenfolge verwenden, was die manuelle Eingabe zum Kinderspiel macht.
+
+
+
+| Netzbetreiber | APN | Benutzername | Passwort |
+
+|:---|:---|:---|:---|
+
+| Vodacom | `internet` | `guest` | leer |
+
+| MTN | `internet` | `guest` | leer |
+
+| Telkom | `internet` | `guest` | `guest` |
+
+| Cell C | `internet` | leer | leer |
+
+
+
+Lassen Sie die Felder für Proxy, Port und Server leer, sofern der Netzbetreiber keine kontobezogenen Werte vorgibt. Vodacom ist in seiner eigenen Verbraucheranleitung diesbezüglich eindeutig: Setzen Sie das APN-Feld auf `internet`, lassen Sie die optionalen Felder unverändert, speichern Sie, und starten Sie das Gerät anschließend neu, bevor Sie es testen.
+
+
+
+- iPhone-Nutzer: Einstellungen → Mobilfunk → tippen Sie auf die Südafrika-Leitung → Mobilfunk-Datennetz → geben Sie den APN ein.
+
+- **Android:** Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunkte → **+** → geben Sie den Wert des Netzbetreibers ein und speichern Sie.
+
+
+
+## Der Weg zur lokalen SIM-Karte
+
+
+
+| Schritt | Was passiert |
+
+|:---|:---|
+
+| Kaufen | Vodacom, MTN, Cell C und Telkom Geschäfte sowie Supermärkte und Schalter am Flughafen |
+
+| Registrierung | RICA erfordert eine vollständige Registrierung: Reisepass sowie eine südafrikanische Adresse für eine lokal ausgestellte Leitung |
+
+| Aktivierung | Das Personal übernimmt Registrierung und Aktivierung direkt am Schalter. Aufladungen erfolgen über Gutscheine oder die App des Netzbetreibers |
+
+| Zeitaufwand | Rechnen Sie mit einer echten Warteschlange und einem Formular, nicht mit einem Kauf am Automaten |
+
+
+
+Die Adressanforderung ist das, was die meisten Besucher nicht sauber erfüllen können, und sie ist der Grund, warum die lokale SIM-Route auf diesem Markt die umständlichste in dieser Liste ist. Eine Südafrika eSIM als Roaming-Profil unterliegt nicht dem RICA, was sie zur praktischen Route für einen normalen Urlaub macht – und die rechtliche Position zu dieser Unterscheidung wird in der De-Rebus-Analyse dargelegt, die am Ende dieser Seite verlinkt ist.
+
+
+
+## Der beste Netzbetreiber für Ihre Reise
+
+
+
+| Reise | Typische Dauer | Komfortables Datenvolumen | Warum |
+
+|:---|:---|:---|:---|
+
+| Städtetrip Kapstadt | 4–5 Tage | 4–6 GB | Hotel-WLAN ist üblich; die Zuverlässigkeit in der Stadt beträgt nur 86,1 % |
+
+| Kapstadt plus die Winelands | 7 Tage | 6–9 GB | An Fahrtagen Navigation eingeschaltet lassen |
+
+| Garden Route Selbstfahrer-Rundreise | 7–10 Tage | 10–14 GB | Lange Strecken zwischen den Orten und lückenhaftes WLAN in den Gästehäusern |
+
+| Kruger und das Lowveld | 5–7 Tage | 6–9 GB | Lodges verfügen über WLAN; bei Pirschfahrten besteht kein Empfang |
+
+| Johannesburg und Pretoria | 4–5 Tage | 4–6 GB | Die schnellsten Städte des Landes, daher steigt der Verbrauch |
+
+| Ein Monat Telearbeit | 30 Tage | 25 GB+ oder Festnetzanschluss | Bei Anrufen zählt Konstanz, nicht Geschwindigkeit |
+
+
+
+## Typische Fehler und ihre Behebung
+
+
+
+**Nichts lässt sich installieren.** Verdächtigen Sie zuerst die Netzbetreiber-Sperre und erst danach einen bereits verbrauchten QR-Code — und beachten Sie, dass kein südafrikanischer Netzbetreiber helfen kann, da Sie kein Konto bei ihm führen.
+
+
+
+**Es installiert sich, registriert sich aber nie.** Aktivieren Sie für fünfzehn Sekunden den Flugmodus und wählen Sie anschließend Vodacom, MTN oder Cell C manuell aus. Ist das Gerät weiterhin netzbetreiberseitig gesperrt, bleibt dieses Symptom bei jeder Änderung der Einstellungen bestehen, bis die Sperre aufgehoben wird.
+
+
+
+**Voller Empfang, null Durchsatz.** Überprüfen Sie, dass die mobilen Daten auf Ihre Südafrika eSIM verweisen, Roaming ausschließlich für diese Leitung aktiviert ist und eine lokal erworbene SIM den APN `internet` nutzt. Ein abgelaufenes Prepaid-Datenpaket sieht genau gleich aus, prüfen Sie daher zuerst das Guthaben.
+
+
+
+**Nur Notrufe möglich.** Entfernen Sie alle weiteren aktiven Profile, starten Sie das Telefon neu und setzen Sie anschließend die Netzwerkeinstellungen zurück. Erst danach lohnt sich der Versuch einer Neuinstallation mit einem frischen Code.
+
+
+
+Darüber hinaus finden Sie den vollständigen Fehlerkatalog im [Ratgeber zur Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/).
+
+
+
+## Drei Routen für Selbstfahrer und wie Sie verbunden bleiben
+
+
+
+Südafrika ist wie geschaffen für Roadtrips, und die mobilen Daten sind zwischen den Städten, die die Routen verbinden, ungleichmäßig verteilt. Die gemessenen Werte machen dieses Muster deutlich: Pretoria mit 76,03 Mbps, Kapstadt mit 56,49, Durban mit 44,24 — und lange Strecken dazwischen, für die kein Netzbetreiber einen Medianwert veröffentlicht, weil der Datenverkehr zu gering ist, um ihn zu messen.
+
+
+
+| Route | Tage | Konnektivitätsbild | Die eine Sache, die Sie vorbereiten sollten |
+
+|:---|:---|:---|:---|
+
+| Kapstadt und die Winelands | 5–7 | 56,49 Mbps Stadmedian mit 86,1 % Konsistenz | Die Konsistenz in Kapstadt liegt unter den nationalen Spitzenwerten – nutzen Sie Hotel-WLAN als Hauptverbindung |
+
+| Die Garden Route: Kapstadt bis Port Elizabeth | 7–10 | Küstenstädte abgedeckt, lange ländliche Funklöcher dazwischen | Eine Offline-Karte der gesamten N2, nicht einzelner Städte |
+
+| Johannesburg, Pretoria und das Highveld | 4–6 | Die schnellsten Städte des Landes: 76,03 und 62,55 Mbps | Nichts – dies ist der am besten vernetzte Teil der Reise |
+
+| Kruger und das Lowveld | 5–7 | Lodges und Camps sind verbunden, der Buschwald nicht | Laden Sie alles vor der morgendlichen Pirschfahrt herunter |
+
+| Durban und die Küste von KwaZulu-Natal | 5–7 | 44,24 Mbps, die langsamste der gemessenen Großstädte | Planen Sie eher mit 4G-Mittelwerten als mit 5G-Erwartungen |
+
+| Drakensberg und das Landesinnere | 3–5 | In den Bergstraßen ist das Funksignal schnell weg | Papierkarten sind in den Bergen kein Paranoia, sondern Pflicht |
+
+
+
+Zwei allgemeine Regeln lassen sich ableiten. **Die Städtewerte sind nicht die Straßenwerte** — die Zehn-Städte-Tabelle in diesem Artikel beschreibt das urbane Südafrika, und der ländliche Raum zwischen diesen Städten ist in der Praxis ein anderes Netz, das auf älterer Technologie und geringerer Standortdichte aufbaut. Und **die Touristenrouten sind die anspruchsvolleren Strecken**: die Garden Route und die Drakensberg halten Navigation und Foto-Backup stundenlang am Laufen — und genau das verbraucht ein Datenvolumen am schnellsten.
+
+
+
+Bei der Netzbetreiber-Frage sind die Daten eindeutig, wenn Ihre Route ambitioniert ist. **MTN ist mit 92,8 % das konstanteste Netz im Land** und bietet mit 40,3 % die höchste 5G-Verfügbarkeit sowie die besten Video- und Gaming-Werte — alles Faktoren, die auf einer Landstraße mehr zählen als der Spitzendurchsatz. **Vodacom führt beim 5G-Tempo** mit einem Median von 227,92 Mbps, was vor allem in Gauteng und in den Küstenmetropolen relevant ist. Eine Südafrika eSIM, die sich mit beiden verbinden kann, ist die richtige Wahl für eine Selbstfahrer-Route, die Städte mit langen, leeren Straßen kombiniert.
+
+
+
+### Load-Shedding und Ihre eSIM
+
+
+
+Geplante Stromabschaltungen gehören hier zur Reiseplanung, und sie beeinträchtigen mobile Daten weniger, als Besucher befürchten – ein Restrisiko bleibt aber. Basisstationen verfügen über Batterie- und manchmal Generator-Backup, sodass ein typischer zwei- oder vierstündiger Slot meist unbemerkt bleibt. Es sind die längeren Abschaltungen der höheren Stufen, die die Netzabdeckung ausdünnen, und in solchen Fenstern hält ein Netz mit dichterer Standortstruktur in der Regel besser stand als ein kleineres.
+
+
+
+Die Gewohnheiten sind einfach: Laden Sie eine Powerbank vor einem geplanten Slot auf, laden Sie Offline-Karten bei gutem Empfang herunter, und behandeln Sie jedes Datenproblem während des Load-Sheddings als Infrastruktur-Ereignis und nicht als eSIM-Fehler. Wenn der Fehler nach Rückkehr des Stroms weiterhin besteht, gehen Sie die oben genannten Prüfungen der Reihe nach durch.
+
+
+
+## Leserfragen zur Südafrika eSIM
+
+
+
+### Muss ich meine eSIM mit Ausweis registrieren?
+
+
+
+Nein. RICA bezieht sich auf SIMs, die innerhalb Südafrikas von lokalen Anbietern aktiviert werden; im Ausland ausgestellte und per Roaming genutzte Profile fallen unter die eigene Reisenden-Ausnahme des Gesetzes (Abschnitt 40(1)(b)). Lokal gekaufte SIMs — einschließlich lokaler eSIMs — erfordern jedoch eine vollständige Registrierung mit Reisepass und Adresse, weshalb eine registrierte lokale Prepaid-SIM-Karte der einzige Weg zu einer südafrikanischen Nummer ist.
+
+
+
+### Welches Netz ist für eine Rundreise besser?
+
+
+
+MTN, gemäß den Konsistenzdaten: 92,8 % der Stichproben erreichen den Mindestschwellenwert, dazu der stärkste ländliche Footprint. Vodacom liegt knapp dahinter und ist in den Städten schneller. Laden Sie in jedem Fall Offline-Karten für die Abschnitte zwischen Knysna, Plettenberg Bay und den östlichen Teilen herunter.
+
+
+
+### Bekomme ich überall 5G?
+
+
+
+In den großen Metropolen ja — der 5G-Median von Vodacom liegt mit 227,92 Mbps an der Spitze der Messungen, und die Verfügbarkeitswerte von MTN sorgen dafür, dass Sie häufiger im 5G verbleiben. Außerhalb der Städte trägt 4G alles in Geschwindigkeiten, über die die meisten Besucher nicht klagen werden.
+
+
+
+### Sind WhatsApp-Anrufe in Südafrika nutzbar?
+Ja — das Konto bleibt an die Nummer Ihrer physischen SIM gebunden, die weiterhin SMS-Codes empfängt, auch wenn Roaming-Daten deaktiviert sind. Die eSIM überträgt nur Daten — und da der südafrikanische Tourismus über WhatsApp läuft (Lodges, Transfers, Restaurants), ist das die Kombination, die Sie wollen.
+
+
+
+### Welche Datenmenge passt zu einer Südafrika-Reise?
+
+
+
+Eine Kapstadt-plus-Safari-Reise über zwei Wochen passt gut in 10 GB: Stadttage sind datenarm, Tage im Game-Reserve sind naturgemäß offline, und Lodges verfügen in der Regel über WLAN. Wer zusätzlich Laptop-Hotspot-Zeit braucht, sollte das verdoppeln — Tethering verbraucht schnell Daten und unterliegt Fair-Use-Grenzen des Tarifs — und wenn es mitten in der Reise knapp wird, ist eine Nachbuchung mit einem Fingertipp erledigt, keine Krise.
+
+
+
+### Wie stark stört Load-Shedding den Empfang?
+
+
+
+Weit weniger als früher — das Netz hat 2025–2026 längere Phasen ohne geplante Abschaltungen durchlaufen, und die Masten verfügen über Batterie-Backup. Lokale Ausfälle können Standorte weiterhin vorübergehend außer Betrieb setzen; wenn der Empfang stadtweit für eine Stunde verschwindet, liegt es meist am Strom und nicht an Ihrer eSIM.
+
+
+
+### Welches Netz ist am schnellsten?
+
+
+
+MTN insgesamt — ein Median-Download von 77,13 Mbps gegenüber 55,95 Mbps bei Vodacom und 44,07 Mbps bei Cell C, mit einem Speed Score von 97,32 und der niedrigsten Latenz bei 36 ms. Vodacom gewinnt speziell bei 5G mit einem Median-5G-Download von 227,92 Mbps gegenüber 172,51 Mbps bei MTN.
+
+
+
+### Können Besucher die Registrierung in Südafrika umgehen?
+
+
+
+Nein. RICA gilt für lokal ausgestellte SIMs und erfordert einen Reisepass plus eine südafrikanische Adresse — genau deshalb haben Reisende mit dem lokalen Weg Schwierigkeiten. Eine Roaming-Reise-eSIM wird nicht unter RICA registriert, und genau diese Unterscheidung macht sie zur praktischen Option für einen Urlaub.
+
+
+
+### Warum ist Kapstadt langsamer als Pretoria?
+
+
+
+Kapstadt verzeichnet einen Median von 56,49 Mbps gegenüber 76,03 Mbps in Pretoria, mit der zweitniedrigsten Konsistenz in der Zehn-Städte-Tabelle bei 86,1 %. Die Gauteng-Conurbation weist die dichteste Erschließung des Landes auf. Für einen Aufenthalt in Kapstadt nutzen Sie das Hotel-WLAN als Hauptverbindung und behandeln die eSIM als Fallback.
+
+
+
+### Reicht Cell C für Touristen in Südafrika aus?
+
+
+
+Für Messaging, Karten und Surfen ja — der Preis ist der Anziehungspunkt. Der All-Technology-Median von 44,07 Mbps liegt deutlich hinter den 77,13 Mbps von MTN, daher ist es eher eine Budget-Option als die erste Wahl, insbesondere für Streaming oder Telearbeit.
+
+
+
+### Welche APN-Werte gelten in Südafrika?
+
+
+
+Alle vier großen Anbieter verwenden `internet`, mit `guest` als Benutzername für Vodacom, MTN und Telkom sowie leeren Zugangsdaten für Cell C. Die eigene Verbraucheranleitung von Vodacom lautet, Proxy-, Port- und Server-Felder leer zu lassen und das Gerät nach dem Speichern neu zu starten.
+
+
+
+### Wie schnell ist mobiles Internet in Südafrika?
+
+
+
+Pretoria führt Südafrikas Städtetabelle mit 76,03 Mbps an, Johannesburg folgt mit 62,55 Mbps auf Platz drei, beide mit etwa 33–34 ms Latenz. Es ist die am besten vernetzte Region des Landes und der sinnvollste Ort, um Videoanrufe oder große Uploads einzuplanen.
+
+
+
+### Reicht mobiles Internet für Videoanrufe in Johannesburg?
+
+
+
+Ja, und Johannesburg–Pretoria ist der einfachste Ort im Land, um sich darauf zu verlassen. Die Mediane liegen im Bereich von 62–76 Mbps bei einer Konsistenz über 90 %, und die Latenz von 36 ms bei MTN ist komfortabel für einen Videoanruf. Für einen einmonatigen Aufenthalt ist Festnetz-Breitband dennoch die bessere Hauptleitung mit der eSIM als Failover — aber für eine zweiwöchige Arbeitsreise trägt sich die mobile Verbindung selbst.
+
+
+
+### Gibt es in Südafrika 5G?
+
+
+
+Ja, von Vodacom und MTN, auf 3,5 GHz (n78), wobei 2,6 GHz von einem Anbieter genutzt wird. Die Verfügbarkeit ist die eigentliche Einschränkung: Nutzer von MTN verbringen 40,3 % ihrer Zeit mit verfügbarem 5G, Nutzer von Vodacom 35,2 % — daher ist 5G eher eine Stadt-und-Korridor-Erfahrung als eine landesweite.
+
+
+
+### Welche Bänder brauche ich?
+
+
+
+1800 MHz, 2100 MHz und 800 MHz für LTE-Netzabdeckung, plus 3,5 GHz (n78) für 5G. B20 bei 800 MHz ist das Band, das nordamerikanische Geräte am häufigsten nicht mitbringen, und es sorgt für Reichweite im ländlichen Raum.
+
+
+
+### Wie viel Daten braucht ein Selbstfahrer-Trip?
+
+
+
+Zehn bis vierzehn Gigabyte für einen sieben- bis zehntägigen Selbstfahrer-Trip. Navigation läuft durchgehend, WLAN in Gästehäusern ist unzuverlässig, und die Strecken zwischen den Ortschaften sind lang — genau die Tour, auf der sich ein Offline-Kartendownload sofort bezahlt macht.
+
+
+
+### Funktioniert meine Südafrika-eSIM auch in Namibia oder Botsuana?
+
+
+
+Nur mit einem regionalen Tarif. Ein Profil, das nur Südafrika abdeckt, endet an der Grenze, was Selbstfahrer-Trips auf der N7 Richtung Namibia oder quer durch nach Botsuana oft überrascht. Unser [Leitfaden für Namibia](/carriers/namibia-esim-carrier-guide/) und die [Übersicht für Kenia](/kenya-esim/) behandeln die Anschlussetappen.
+
+
+
+### Funktioniert die eSIM auf Safari?
+
+
+
+Ja, für die Camps und Lodges, die in der Regel WLAN und ein brauchbares Signal haben. Die Pirschfahrten selbst sehen anders aus — die Fahrzeuge bewegen sich in Gebieten ohne jegliche Netzabdeckung, also laden Sie alles vor der morgendlichen Abfahrt herunter und erwarten Sie nicht, vom Heck eines 4x4 aus zu streamen.
+
+
+
+### Welches Netz passt zu kurzen und langen Aufenthalten?
+
+
+
+MTN, wegen der Konstanz — 92,8 % über alle Technologien und 87,7 % bei 5G, beides die besten Werte im Land — sowie die höchste 5G-Verfügbarkeit bei 40,3 %. Der Vorteil von Vodacom ist die Spitzen-5G-Geschwindigkeit mit einem Median von 227,92 Mbps, was sich in den Städten auszahlt, weniger auf den Strecken dazwischen. Ein Multi-Netz-Profil kann beide nutzen.
+
+
+
+### Wie halte ich Offline-Karten über einen langen Selbstfahrer-Trip aktuell?
+
+
+
+Laden Sie Region für Region herunter statt alles auf einmal. Südafrikanische Kartenkacheln sind groß, und mehrere Provinzen über eine Gästehaus-Verbindung herunterzuladen ist so langsam, dass Sie es vorzeitig abbrechen. Aktualisieren Sie jede Region am Vorabend der Etappe über WLAN und behalten Sie das eSIM-Datenvolumen für Live-Verkehrsmeldungen, Tankstopps und die eine Buchung, die sich nicht verschieben lässt.
+
+
+
+### Welche südafrikanische Stadt hat die schnellsten mobilen Daten?
+
+
+
+Pretoria, mit einem Median von 76,03 Mbps und 92,3 % Konstanz, gefolgt von Bloemfontein mit 69,02 und Johannesburg mit 62,55 Mbps. Die Gauteng-Region ist der am besten vernetzte Teil des Landes — eine hilfreiche Information, wenn Sie ein Video-Telefonat oder einen großen Upload einplanen möchten.
+
+
+
+### Lohnt sich die eSIM für zwei Wochen?
+
+
+
+Ja. Die RICA-Registrierung verlangt einen Reisepass sowie eine südafrikanische Adresse für eine lokal ausgestellte Karte, die die meisten Besucher nicht vorweisen können, und die Warteschlange ist noch das geringste Problem. Ein Roaming-Reiseprofil umgeht das Verfahren komplett und funktioniert ab der Landung.
+
+
+
+### Wo ist die Netzabdeckung am stärksten?
+
+
+
+In der Mitte dünn und an beiden Enden gut. Kapstadt und der Großraum Durban haben die stärksten städtischen Netze, während die Garden Route und die Abschnitte der Eastern Cape dazwischen über lange Strecken nur ein Netz oder gar nichts bieten. Die ländliche Netzabdeckung von MTN ist die breiteste der vier, weshalb das Netz für einen Selbstfahrer-Trip empfohlen wird — ehrlich gesagt aber raten wir, jede Karte herunterzuladen, bevor Sie eine Ortschaft verlassen.
+
+
+
+### Wer ist besser in Südafrika?
+
+
+
+MTN, mit dem besten Mobile-Video-Erlebnis bei 64,12 und dem besten 5G-Videowert von 82,89 im 2H-2024-Bericht von Ookla, sowie den besten Gaming-Werten in beiden Kategorien. Der Vorteil von Vodacom ist die 5G-Spitzengeschwindigkeit mit einem Median von 227,92 Mbps.
+
+
+
+### Benötigen südafrikanische Prepaid-Karten eine Adresse?
+
+
+
+Ja — die RICA-Registrierung für eine lokal ausgestellte SIM erfordert einen Reisepass und eine südafrikanische Adresse, und genau diese Anforderung macht den lokalen Weg für Reisende schwierig. Eine Reise-eSIM unterliegt nicht der RICA-Pflicht, weshalb sie die übliche Wahl für einen Urlaub ist.
+
+
+
+### Lohnt sich 5G außerhalb der Städte?
+
+
+
+In Gauteng und den Metropolen an der Küste ja: Die Median-5G-Downloads von Vodacom mit 227,92 Mbps und MTN mit 172,51 Mbps liegen deutlich über den Werten über alle Technologien. Außerhalb dieser Gebiete ist die Verfügbarkeit der limitierende Faktor — MTN hat eine 5G-Verfügbarkeit von 40,3 % und Vodacom von 35,2 %, sodass Sie die meiste Zeit ohnehin auf 4G unterwegs sind, egal welcher Tarif.
+
+
+
+### Wie viel Daten brauche ich für Kapstadt?
+
+
+
+Vier bis sechs Gigabyte für einen vier- bis fünftägigen Aufenthalt. Kapstadt erreicht 56,49 Mbps mit der zweitniedrigsten Konstanz in der Zehn-Städte-Tabelle bei 86,1 %, daher lohnt es sich, Hotel-WLAN als Hauptverbindung zu behalten und die eSIM als zuverlässige Reserve.
+
+
+
+### Kann ich eine Südafrika-eSIM für eine Geschäftsreise nutzen?
+
+
+
+In Johannesburg und Pretoria ja — Medianwerte von 62–76 Mbps mit über 90 % Konstanz machen mobile Daten zu einer brauchbaren Arbeitsverbindung, und die Latenz von MTN bei 36 ms ist gut für Anrufe. Für einen einmonatigen Aufenthalt bleibt Festnetz-Breitband die bessere Hauptleitung, mit der eSIM als Ausfalloption.
+
+
+
+### Wann sollte ich die eSIM installieren?
+
+
+
+Zu Hause, und lassen Sie sie ausgeschaltet bis zur Landung. Die Gültigkeit beginnt mit der ersten Einbuchung in ein südafrikanisches Netz, das Profil kann also zwei Wochen bereitliegen, ohne dass ein Tag verloren geht — und mit einer vorab installierten Südafrika eSIM passieren Sie die Ankunft am O.R. Tambo, ohne in einer SIM-Schlange zu stehen.
+
+
+
+### Bleibt die Heimatnummer erreichbar?
+
+
+
+Ja. Behalten Sie die physische SIM im Telefon für Anrufe und Einmal-Passwörter und legen Sie die eSIM als Datenleitung fest. Nichts im Reiseprofil stört eingehende Anrufe auf Ihre gewohnte Nummer, was die meisten Besucher unterschätzen, wenn sie einen Zwei-Wochen-Roadtrip planen und unterwegs einen Bank-Code brauchen.
+
+
+
+### Wie schlimm ist die RICA-Bürokratie wirklich?
+
+
+
+Schlimm genug, um ins Gewicht zu fallen. Die RICA-Registrierung verlangt einen Reisepass und eine südafrikanische Adresse sowie den Gang zu einer Vodacom-, MTN- oder Cell C-Filiale, und das Verfahren ist genau so bürokratisch, wie es klingt. Die Rechtslage für Besucher ist milder, als die Warteschlange vermuten lässt — eine Roaming-Reise-eSIM fällt unter die Ausnahme nach Abschnitt 40(1)(b) — daher umgeht eine [Südafrika-eSIM](/south-africa-esim/) den ganzen Apparat.
+
+
+
+### Was tun wenn das Datenvolumen zur Neige geht?
+
+
+
+Erweitern Sie es direkt über die App des Netzbetreibers und behalten Sie Ihr bestehendes Profil; das Aufladen dauert nur wenige Minuten. Die Reiseroute, an der dies wirklich zum Problem wird, ist die Garden Route selbst, denn die schönsten Stopps liegen genau dort, wo der Empfang schwach ist und es keinen Netzbetreiber-Shop gibt – das Aufladen muss also in einer Stadt erfolgen und nicht in dem Moment, in dem Sie es eigentlich brauchen. Planen Sie Ihren Datentarif rund um die Fahrt, nicht um die Städte.
+
+
+
+## Die Quellen dieser Zahlen
+
+
+
+| Abbildung in diesem Leitfaden | Originalveröffentlichung |
+
+|:---|:---|
+
+| Vodacom, MTN, Cell C und Telkom Kennzahlen sowie die Stadtmediane | [Ookla Speedtest Konnektivitätsbericht, Südafrika 2H 2024](https://www.ookla.com/research/reports/south-africa-speedtest-connectivity-report-h2-2024) |
+
+| Der nationale Median und das weltweite Ranking | [Südafrika auf dem Globalen Index von Ookla](https://www.speedtest.net/global-index/south-africa) |
+
+| RICA-Registrierungsregeln | [Offizielle RICA-Seite von Vodacom](https://www.vodacom.co.za/vodacom/help/rica) |
+
+| Die Abschnitt-40(1)(b)-Reisendenausnahme | [De Rebus, das südafrikanische Anwaltsjournal](https://www.derebus.org.za/the-legal-status-of-esims-in-south-africa-rica-popia-and-compliance/) |
+
+| Der Preis von 1,81 US-Dollar pro Gigabyte | [Cable.co.uk weltweite Datenpreise](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) |
+
+| Bevölkerungsreichweite und Verbindungen | [DataReportal, Digital 2025: Südafrika](https://datareportal.com/reports/digital-2025-south-africa) |
+
+
+
+Zwei Einträge beruhen auf Gesetz und nicht auf Messwerten und veralten daher am schnellsten — überprüfen Sie den aktuellen Stand, bevor Sie sich darauf stützen.
+
+
+
+## So starten Sie mit Ihrer Südafrika eSIM
+
+
+
+Eine RICA-registrierte SIM-Karte kostet Sie einen Reisepass, einen Ladenbesuch und Wartezeit. Ihre Südafrika eSIM kostet Sie nichts davon und übersteht Load-Shedding, wenn das Stromnetz ausfällt.
+
+
+
+- [Südafrika-eSIM-Tarife ansehen](/south-africa-esim/)
+
+- [Kostenlose Südafrika-eSIM nutzen](/free-esim/) — kostenloser Start
+
+
+
+[Meine Südafrika-eSIM auswählen](/south-africa-esim/)
+
+
+
+*Kein RICA-Schalter, keine Warteschlange*
+
+
+
+Wo auch immer Sie in Südafrika landen, Roami hat eine Abkürzung: eine [kostenlose Multi-Netz-Testversion](/free-esim/), die dieselben Netze wie Vodacom nutzt, wobei **WEB20** 20 % auf Ihren ersten kostenpflichtigen Roami-Tarif spart.
+

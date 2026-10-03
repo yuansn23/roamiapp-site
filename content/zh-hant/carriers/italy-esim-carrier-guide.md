@@ -1,288 +1,714 @@
 ---
-title: "義大利 eSIM 怎麼選最划算？網路速度與覆蓋完整分析。"
-description: "想找最好的義大利 eSIM？Roami 實際比較 Vodafone、Iliad 和 WINDTRE 的 5G 涵蓋範圍與網速表現，讓您在義大利旅遊時隨時保持順暢連線。"
-date: "2026-06-17T06:15:09+00:00"
 
-keywords: "eSIM 義大利，預付數據，5G 網路，Vodafone，Iliad，WINDTRE，旅遊 eSIM，義大利上網"
-site_name: "Roami"
-brand_name: "Roami"
+title: "義大利 eSIM 該選哪家？TIM、Vodafone、WINDTRE 比較"
+
+description: "義大利 eSIM 要辦哪一家電信業者？Roami 分析 TIM、Vodafone 與 WINDTRE 的網速、覆蓋率與預付資費，從羅馬、米蘭到托斯卡尼鄉間與阿瑪菲海岸逐段實測，整理預付卡規定與 APN 設定，幫你義大利全程選對 eSIM，一路都順暢。"
+image: "img/esim/carriers/italy-esim-carrier-guide.jpg"
+
+date: "2026-09-25T18:10:14+00:00"
+
+keywords: 義大利 eSIM 電信業者, TIM eSIM, Vodafone 義大利 eSIM, WINDTRE eSIM, Iliad eSIM, 義大利 5G 覆蓋率, 義大利 eSIM APN, eSIM 義大利預付卡, 義大利最佳 eSIM 電信業者, 義大利旅遊 eSIM
+
+site_name: Roami
+
+brand_name: Roami
+
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "義大利 eSIM 指南"
-    url: ""
 
-# Hero 區塊文案
-hero_badge: "[🇮🇹] 義大利 最新旅遊 eSIM 指南"
-hero_subtitle_main: "義大利 eSIM：保留原號碼，暢遊當地"
-hero_subtitle_highlight: "Vodafone 與 Iliad 頂級 5G 覆蓋"
-hero_description_line1: "無需更換 SIM 卡槽，義大利 eSIM 的數位啟用方式讓您更輕鬆地在 義大利 保持高速連線。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "義大利 eSIM"
-hero_link_url: "/italy-esim/"
-tldr_summary: "【商務旅行不中斷：經濟型 eSIM 方案，實現全球行動力】在義大利，Vodafone 以中位下載 72.91 Mbps 與 5G 下載 241.99 Mbps 奪得最佳行動網路與最佳 5G 網路；Iliad 則以中位下載 360.42 Mbps 成為最快固網 ISP。Roami 的義大利 eSIM 整合這些頂級營運商，讓您無需更換實體 SIM 卡，即可在米蘭、羅馬、威尼斯等城市享受不中斷的商務連線。結論：選擇 Roami eSIM，以經濟實惠的價格獲得 Vodafone 與 Iliad 的頂尖網路效能，實現真正的全球行動力。"
+- name: Roami
 
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "義大利 eSIM 快速連結"
-sidebar_links:
+  url: /
 
-  - href: "#quick-picks"
-    text: "快速選擇：義大利 該選哪家 eSIM 營運商？"
+- name: 義大利 eSIM 指南
 
-  - href: "#operators"
-    text: "義大利 最佳行動 eSIM 營運商總覽"
+  url: ''
 
-  - href: "#city-guide"
-    text: "城市指南：義大利 最佳 eSIM"
+hero_badge: "為你的旅程評比義大利的行動網路"
 
-  - href: "#before-buy"
-    text: "購買 義大利 eSIM 前須知"
-
-  - href: "#faq"
-    text: "義大利 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "義大利 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：義大利 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Vodafone"
-    carrier_class: "text-orange-600"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)，Vodafone 擁有最佳行動網路（中位下載 72.91 Mbps）與最佳 5G 網路（中位下載 241.99 Mbps），非常適合需要穩定高速連線的遠端工作者。"
-
-  - travel: "城市觀光客"
-    carrier: "Iliad"
-    carrier_class: "text-blue-600"
-    reason: "Iliad 是義大利最快的固網 ISP（中位下載 360.42 Mbps），在城市區域提供極速體驗，適合頻繁上傳照片、使用地圖與社群媒體的旅客。"
-
-  - travel: "戶外探險者"
-    carrier: "WINDTRE"
-    carrier_class: "text-green-600"
-    reason: "WINDTRE 擁有最高的 5G 可用性（74.8%），在偏遠地區與國家公園仍能保持連線，適合自駕與自然愛好者。"
-
-  - travel: "預算有限者"
-    carrier: "Sky"
-    carrier_class: "text-purple-600"
-    reason: "Sky 提供最佳遊戲與影片串流體驗，以較低成本獲得優質娛樂，適合預算有限但仍需良好網路品質的旅客。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 義大利 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "vodafone-esim"
-    title: "Vodafone eSIM 總覽：最佳鄉村覆蓋"
-    best_for: "此方案絕對是最佳選擇，適合需要全義大利穩定高速網路的商務旅客與數位遊牧民族。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)，Vodafone 的 5G 連線分數為 72.65，中位 5G 下載速度達 241.99 Mbps。\n- **下載速度**：中位下載速度 72.91 Mbps，中位上傳速度 12.83 Mbps。\n- **5G 遊戲體驗**：5G 遊戲分數 82.76，5G 影片串流分數 87.13。\n- **一致性**：5G 一致性達 81.7%（樣本超過 25 Mbps 下載 / 3 Mbps 上傳門檻）。"
-    arcep_note: "經當地電信主管機關 AGCOM 確認，Vodafone 在 2025 年上半年持續符合覆蓋義務，尤其在鄉村與高速公路沿線表現優異。"
-    connect_note: "啟用過程順暢，支援 eSIM 快速轉移；Roami 提供 24/7 中文客服協助設定。"
-    user_scenarios: "- **[羅馬競技場與古羅馬廣場]**：在古蹟密集區，Vodafone 的 5G 覆蓋讓您即時上傳高解析度照片與直播，無延遲。\n- **[多洛米蒂山脈健行]**：在偏遠山區，Vodafone 的 5G 一致性（81.7%）確保導航與緊急通訊不中斷。\n- **[威尼斯運河遊船]**：即使在移動的船上，Vodafone 的低延遲（45 ms）讓視訊通話與串流保持流暢。"
-    bg_color: "bg-blue-50"
-
-  - id: "iliad-esim"
-    title: "Iliad eSIM 總覽：城市極速首選"
-    best_for: "適合在米蘭、羅馬等大都會區需要極速下載與上傳的用戶，例如串流創作者與重度數據使用者。"
-    core_data: "- **固網速度**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)，Iliad 的中位下載速度為 360.42 Mbps，中位上傳速度為 237.62 Mbps，為義大利最快固網 ISP。\n- **行動網路**：雖然 Iliad 在行動網路數據未單獨列出，但其固網效能反映其在城市光纖基礎建設的優勢。"
-    arcep_note: "AGCOM 報告指出 Iliad 持續擴張光纖到府（FTTH）覆蓋，2025 年已涵蓋主要城市 80% 以上區域。"
-    connect_note: "eSIM 啟用簡便，支援即時 QR code 掃描；Roami 提供繁體中文設定指南。"
-    user_scenarios: "- **[米蘭大教堂與艾曼紐二世迴廊]**：在人潮擁擠的觀光熱點，Iliad 的固網級速度讓您秒傳大型檔案與 4K 影片。\n- **[佛羅倫斯烏菲茲美術館]**：排隊時快速下載語音導覽 App 與高解析度藝術品圖片，無需等待。\n- **[波隆那美食之旅]**：即時上傳美食照片與打卡，享受無延遲的社群互動。"
-    bg_color: "bg-blue-50"
-
-  - id: "windtre-esim"
-    title: "WINDTRE eSIM 總覽：最高 5G 可用性"
-    best_for: "適合經常移動、需要廣泛 5G 覆蓋的旅客，尤其是自駕與戶外活動愛好者。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)，WINDTRE 的 5G 可用性達 74.8%，為義大利最高。\n- **行動網路**：雖然未提供具體速度數據，但其高可用性確保在更多地點能連上 5G。"
-    arcep_note: "AGCOM 2025 年報告指出 WINDTRE 在偏遠地區與高速公路沿線的 5G 覆蓋率領先同業。"
-    connect_note: "eSIM 支援一鍵啟用，Roami 提供 7×24 小時技術支援。"
-    user_scenarios: "- **[阿瑪菲海岸自駕]**：沿著蜿蜒海岸線，WINDTRE 的高 5G 可用性讓導航與音樂串流不中斷。\n- **[西西里島埃特納火山健行]**：在火山區域，即使訊號較弱，WINDTRE 仍能提供穩定的 5G 連線。\n- **[五漁村徒步小徑]**：在隧道與山區之間，WINDTRE 的廣泛覆蓋確保您隨時與外界保持聯繫。"
-    bg_color: "bg-blue-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 義大利 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 義大利 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 義大利 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 義大利 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段與裝置相容性"
-    content: "義大利主要營運商（Vodafone、Iliad、WINDTRE）使用 5G 頻段 n78（3.5 GHz）與 n257（28 GHz），4G 則以 Band 3（1800 MHz）、Band 7（2600 MHz）與 Band 20（800 MHz）為主。購買 eSIM 前，請確認您的裝置支援這些頻段，尤其是非歐版手機可能缺少 Band 20，導致鄉村覆蓋較差。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "根據義大利電信法規，所有預付 SIM 卡（含 eSIM）均需進行實名認證（KYC）。您需要提供護照或身分證件照片，並在啟用過程中上傳。Roami 的 eSIM 已整合自動化 KYC 流程，通常 5 分鐘內完成審核。"
-
-  - heading: "3. 公平使用政策（FUP）與數據上限"
-    content: "多數義大利 eSIM 方案設有公平使用政策，例如每日 1-2 GB 高速數據後降速至 128 kbps。部分無限方案在達到 30-50 GB 後可能限速。請仔細閱讀方案條款，避免超量後網速大幅下降。"
-
-  - heading: "4. 熱點分享與多裝置連線限制"
-    content: "部分義大利 eSIM 方案禁止或限制熱點分享（tethering）。若您需要將網路分享給筆電或平板，請選擇明確支援熱點分享的方案。Roami 的義大利 eSIM 通常允許最多 5 台裝置同時連線。"
-
-  - heading: "5. 啟用時效與效期"
-    content: "eSIM 通常在購買後 30 天內需啟用，啟用後有效期從首次連網起算（例如 7 天、15 天或 30 天）。請在出發前 1-2 天購買並安裝 QR code，抵達義大利後再開啟數據漫遊以激活方案。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：義大利 最佳 eSIM"
-city_guide_desc: "了解哪款 義大利 eSIM 是您目的地的最佳選擇，根據當地網路效能與覆蓋特性推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "羅馬"
-    carriers: "Vodafone"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)，Vodafone 擁有最佳行動網路，在古蹟密集區與地鐵站內仍提供穩定 5G 連線，適合觀光客頻繁使用地圖與社群媒體。"
-
-  - city: "米蘭"
-    carriers: "Iliad"
-    reason: "Iliad 為義大利最快固網 ISP，在米蘭這座時尚與商業之都提供極速下載，適合商務旅客與內容創作者。"
-
-  - city: "帕多瓦"
-    carriers: "Vodafone"
-    reason: "帕多瓦錄得最快行動中位下載速度 132.38 Mbps，Vodafone 在此城市表現尤為突出，適合需要高速行動網路的旅客。"
-
-  - city: "熱那亞"
-    carriers: "Iliad"
-    reason: "熱那亞擁有最快固網中位下載速度 207.35 Mbps，Iliad 的固網級效能讓您在港口城市享受流暢的串流與上傳體驗。"
-
-  - city: "威尼斯"
-    carriers: "WINDTRE"
-    reason: "威尼斯水道縱橫，建築密集，WINDTRE 最高的 5G 可用性（74.8%）確保您在運河之間與小巷中仍能保持連線。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 義大利 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在羅馬、佛羅倫斯等歷史名城，Vodafone 的 5G 網路讓您即時查詢古蹟資訊、上傳照片與使用擴增實境導覽，無需擔心擁擠區域的訊號壅塞。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "在多洛米蒂山脈、科莫湖等自然景點，WINDTRE 的高 5G 可用性確保您在健行、划船時仍能使用導航與緊急通訊，享受安全又連線的戶外體驗。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "沿著阿瑪菲海岸或托斯卡尼鄉間自駕，Vodafone 的 5G 一致性（81.7%）讓音樂串流、即時路況與視訊通話不中斷，長途駕駛更安心。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在薩丁尼亞、西西里島的海灘，Iliad 的固網級速度讓您秒傳度假照片與影片，即使在偏遠海灘也能享受高速上傳。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "義大利 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "義大利 eSIM 的支援服務提供哪些語言，回應時間為何？"
-    a: "Roami 的義大利 eSIM 支援繁體中文、英文與義大利文客服。回應時間通常為 5 分鐘內（即時聊天），電子郵件支援則在 2 小時內回覆。24/7 全年無休。"
-
-  - q: "在 義大利 的地鐵、深谷或偏遠地區，eSIM 是否仍能收到網路訊號？"
-    a: "在米蘭、羅馬等地鐵站內，Vodafone 與 WINDTRE 提供 4G/5G 覆蓋，但部分深層月台可能訊號較弱。在多洛米蒂山區或五漁村隧道中，WINDTRE 的 5G 可用性最高（74.8%），但仍可能出現間歇性斷訊。建議預先下載離線地圖。"
-
-  - q: "使用 義大利 eSIM 熱點分享時，是否有連接裝置數量限制？"
-    a: "Roami 的義大利 eSIM 通常允許最多 5 台裝置同時連線。部分方案可能限制熱點分享功能，購買前請確認方案說明。若需大量分享，建議選擇支援無限熱點的進階方案。"
-
-  - q: "如何確認 eSIM 在 義大利 的特定目的地是否擁有可靠的覆蓋？"
-    a: "您可參考 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025) 的覆蓋地圖，或使用 OpenSignal 的即時覆蓋工具。Roami 官網亦提供各營運商（Vodafone、Iliad、WINDTRE）的覆蓋率比較表，輸入目的地地址即可查看預估訊號強度。"
-
-  - q: "在 義大利 最著名的國家公園與城市中，哪家本地電信商提供最強且最可靠的覆蓋？"
-    a: "在國家公園（如大帕拉迪索國家公園、奇倫托國家公園），WINDTRE 因最高 5G 可用性（74.8%）提供最廣泛覆蓋。在城市（如羅馬、米蘭），Vodafone 以最佳行動網路（中位下載 72.91 Mbps）與最佳 5G 網路（241.99 Mbps）勝出。Iliad 則在固網覆蓋良好的城市區域提供極速體驗。"
-
-# 迷思
-myths_title: "⚠️ 義大利 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "義大利 eSIM 只能在主要城市使用，鄉村完全沒訊號。"
-    truth: "事實：WINDTRE 的 5G 可用性達 74.8%，Vodafone 的 5G 一致性為 81.7%，兩者在鄉村與山區均有良好覆蓋。多洛米蒂山脈與托斯卡尼鄉間皆可穩定連線。"
-
-  - myth: "所有義大利 eSIM 方案都提供無限高速數據。"
-    truth: "事實：多數方案設有公平使用政策（FUP），每日或每月高速數據上限後會降速。例如每日 1-2 GB 後降至 128 kbps。購買前務必確認數據上限與降速條件。"
-
-  - myth: "eSIM 啟用後必須在義大利境內才能使用。"
-    truth: "事實：eSIM 可在台灣或其他國家先安裝 QR code，但首次啟用連網必須在義大利境內。建議出發前安裝完畢，抵達後開啟數據漫遊即可激活。"
-
-  - myth: "義大利 eSIM 不支援熱點分享，只能單一裝置使用。"
-    truth: "事實：Roami 的義大利 eSIM 通常支援熱點分享，最多可連接 5 台裝置。部分方案可能限制，但多數進階方案皆開放分享功能。"
-
-  - myth: "義大利的 5G 速度比台灣慢很多。"
-    truth: "事實：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)，Vodafone 的 5G 中位下載速度達 241.99 Mbps，與台灣主流 5G 速度相當甚至更快。在帕多瓦，行動中位下載速度更高達 132.38 Mbps，表現優異。"
-
-# 數據來源
-data_sources_title: "義大利 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 的 Speedtest Intelligence® 數據，基於 2025 年上半年數百萬次真實用戶測試，提供行動與固網速度、5G 可用性與一致性等指標。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的義大利行動網路體驗報告，分析 5G 可用性、下載速度與影片串流體驗，數據收集期間為 2025 年 1 月至 6 月。"
-
-  - name: "AGCOM（義大利電信監管局）2025"
-    description: "義大利通訊監管局（AGCOM）發布的 2025 年第一季覆蓋與服務品質報告，涵蓋各營運商的 4G/5G 覆蓋義務履行情況。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已標註來源。實際體驗可能因裝置、地點與時間而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前參考最新覆蓋地圖，並選擇支援多個營運商的 eSIM 方案以獲得最佳體驗。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 義大利 eSIM"
-cta_desc: "即時存取 Vodafone、Iliad 與 WINDTRE 的頂級網路，無需更換 SIM 卡。掃描 QR code 即可啟用，24/7 中文客服支援。"
-cta_button_text: "立即購買 義大利 eSIM"
-cta_button_link: "/italy-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "義大利 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
+hero_subtitle_main: "三家網路，一個決定，以及幫你做決定的數據"
 
 ---
+
+
+
+
+
+
+**決定性的問題很簡單——你的義大利 eSIM 該連上哪家電信業者？** 四家全國性網路並不能互換。在 Ookla 的 2025 年上半年義大利報告中，**Vodafone** 獲評為最佳行動網路與最佳 5G 網路，Speedtest 連線品質分數為 **75.95**。**WINDTRE** 拿下最高的 5G 可用率，達 **74.8%**。**TIM** 在影片串流體驗上領先，得分 **76.53**。**Iliad** 提供最漂亮的帳面價格與最高的用戶評分 **3.34**。哪一家最好，完全取決於你要去哪裡，所以義大利最佳 eSIM 電信業者是一道路由決策題，而不是品牌選擇題。這就是我們在朋友出發前一晚會講的那套義大利版說明，只是去掉了術語。
+
+
+
+**快速答案：** 選 TIM 是為了最廣的覆蓋範圍，選 WINDTRE 是為了每 GB 最低的成本，無論如何都在出發前裝好 eSIM。接下來的章節——義大利的速度、價格、實名登記規定——會詳細拆解這個取捨。
+
+
+
+再好的電信業者，仍取決於背後安裝的設定檔——如果其中任何一環讓你沒把握，先從 [eSIM 相容性工具](/compatibility/) 和 [eSIM 啟用指南](/faq/what-is-esim-activation-and-how-does-it-work/) 開始。。然後再回來看網路評比。
+
+
+
+**一段話的答案：** 停留在羅馬、米蘭、佛羅倫斯或威尼斯？Vodafone 和 TIM 在市區跑出最快、最穩定的 5G。搭船去卡布里島，或沿著阿瑪菲海岸懸崖開車？TIM 的 700 MHz 低頻段能到達其他網路收不到的地方。想要最便宜的方案？Iliad 大約 9.99 歐元可拿到 150 GB，但在山區的表現較難預期。想以旅客身分直接向義大利電信業者購買？請預期需要護照、可能需要稅籍編號，而且往往是實體 SIM 卡，而不是乾脆的遠端 eSIM。或者跳過所有繁瑣手續：[免費試用 eSIM](/free-esim/) 先讓你零成本測試各家網路，再[比較義大利 eSIM 方案](/italy-esim/)。
+
+
+
+## 哪些電信業者承載你的 eSIM
+
+
+
+### TIM、Vodafone、WINDTRE 與 Iliad，為旅客做的比較
+
+
+
+| | TIM | Vodafone | WINDTRE | Iliad |
+
+|:---|:---|:---|:---|:---|
+
+| 旅客預付 eSIM | 觀光方案僅提供實體 SIM；標準 eSIM 需到門市辦理 | 門市櫃檯可在方案上開通 eSIM | Tourist Pass Digital 可線上購買 eSIM，到店領取 | 支援 eSIM，可透過門市或自助機台辦理 |
+
+| 領先項目 | 鄉村與山區覆蓋最佳，影片分數強勁 | 整體網路最佳、速度分數最快 | 5G 可用率最高，基地台覆蓋範圍廣 | 高流量方案最便宜，用戶評分最高 |
+
+| 最便宜的入門方式 | TIM Tourist：總計 24.99 歐元含 200 GB | Dolce Vita Start：每月 14.95 歐元 | Tourist Pass Digital：帳面價 25 歐元 | Giga 150：每月約 9.99 歐元含 150 GB |
+
+| 抵達後開通難易度 | ★★ — 護照加上可能需要的稅籍編號，須到門市 | ★★ — 護照，由店員設定 eSIM | ★★★ — 線上購買、核發 eSIM，抵達後領取 | ★★ — 護照，Simbox 自助機台或門市 |
+
+
+
+**實名登記這道牆出現在哪裡：** 義大利的電信業者確實有賣 eSIM，但對外國旅客來說，能夠隨到隨辦、完全遠端完成的預付 eSIM 是例外而非常態。TIM 的觀光產品是實體 SIM，Vodafone 和 TIM 的 eSIM 要在櫃檯開通，WINDTRE 最接近遠端辦理但仍需抵達後領取，Iliad 則要求親自辦理一個步驟。原因在於實名登記——每張義大利 SIM 卡都綁定一個經驗證的身分，而這些審核機制預設申請人具有義大利居留身分。
+
+
+
+### TIM vs Vodafone：哪一家義大利電信業者比較快？
+
+
+
+義大利的批發層級會以更便宜的品牌轉售 TIM、Vodafone 和 WINDTRE 的網路容量，旅客正是在這裡找到更簡單的預付流量方案。
+
+
+
+| 虛擬品牌 | 承載網路 | eSIM 支援 | 最適合 |
+
+|:---|:---|:---|:---|
+
+| Fastweb Mobile | 自有網路加上 Vodafone 共用 | 支援 eSIM | 都市行程與以米蘭為主的旅程 |
+
+| Kena Mobile | TIM | 預付 eSIM | 想以低價獲得 TIM 覆蓋的精打細算旅客 |
+
+| ho. Mobile | Vodafone | 預付 eSIM | 在 Vodafone 網路上的短期都市停留 |
+
+| Very Mobile | WINDTRE | 預付 eSIM | WINDTRE 覆蓋範圍內最便宜的入門選擇 |
+
+| PosteMobile | 間接使用 TIM 加上 Vodafone | 支援 eSIM | 已在使用義大利郵政（Poste Italiane）服務的旅客 |
+
+
+
+兩點提醒。第一，這些平價品牌會限速並在網路壅塞時降低優先順序，而這正是擠滿遊客的威尼斯廣場或羅馬特米尼車站月台最要命的時刻。第二，向這些品牌購買的方案都綁定單一網路。你在 Kena 上只能用 TIM 的基地台，別無其他，這在你離開市區或下到山谷的那一刻就會變得很重要。
+
+
+
+### TIM vs Vodafone：在義大利哪一家比較好？
+
+
+
+| | 直接向義大利電信業者購買 | 跑在義大利網路上的旅遊 eSIM |
+
+|:---|:---|:---|
+
+| 你需要準備什麼 | 護照；許多辦理途徑還要求稅籍編號（codice fiscale）；觀光方案有時僅提供實體 SIM | 一支相容且未鎖的手機 |
+
+| 設定檔如何取得 | 門市現場設定，或通過身分查驗後由電信業者核發 QR code | 結帳後立即取得 QR code 或透過 App 安裝 |
+
+| 200 GB 典型費用 | TIM Tourist 總計約 24.99 歐元；WINDTRE 約 25 歐元；Vodafone 依月費級距 | 一筆預付價格，無 SIM 卡費，無需稅籍編號 |
+
+| 網路使用 | 單一電信業者 | 在 TIM、Vodafone、WINDTRE 和 Iliad 之間自動切換 |
+
+| 最適合 | 停留一個月以上，或需要義大利門號的人 | 一到三週的旅程，以及想一落地就上線的人 |
+
+
+
+對典型的義大利假期來說，旅遊 eSIM 是比較便宜的路。本地預付方案每 GB 雖然便宜，但多出護照臨櫃辦理、可能需要的稅籍編號，以及 SIM 卡費，而且把你鎖死在單一網路上。電信業者的優勢在於長期與語音：真正的義大利門號、無限國內通話，以及到了第六個月仍然有效的方案。
+
+
+
+多網路 eSIM 設定檔是務實的中間路線：[Roami 的義大利 eSIM](/italy-esim/) 保有即時開通的便利，在 TIM、Vodafone、WINDTRE 和 Iliad 之間自動切換，讓你在阿瑪菲峽谷落在 TIM 上、在米蘭落在 Vodafone 上，而不必買兩次。
+
+
+
+## 你的手機相容義大利 eSIM 電信業者嗎？
+
+
+
+決定你的手機能否在義大利電信業者網路上運作的因素有三：頻段、鎖機狀態，以及一小串裝置特有的怪癖。以下涵蓋這三點。
+
+
+
+### 我的手機能用義大利 eSIM 嗎？
+
+
+
+義大利的電信業者在特定頻段上建設 5G，主要是承載容量的 **n78（3500 MHz）**、**n1（2100 MHz）**，以及深入石造建築和山谷的 **n28（700 MHz）**。它們的 4G 使用 B1、B3、B7、B8、800 MHz 的 B20，以及 700 MHz 的 B28。許多國際手機，包括部分 iPhone 區域版本，出廠時並不支援低頻段 n28。這些手機仍然可用：離開人口密集的市區後會回落到 LTE，在市中心沒問題，但在懸崖上的村落裡會令人沮喪。
+
+
+
+出發前不必背頻段表。真正有用的是把你的具體型號與[裝置相容性清單](/compatibility/)對照。如果比起電信業者清單，你更想了解原理，可以讀讀[手機載入 eSIM 設定檔時會發生什麼](/faq/what-is-esim-activation-and-how-does-it-work/)。
+
+
+
+### 你的手機在義大利可以使用 eSIM 嗎？
+
+鎖機是義大利 eSIM 安裝直接失敗最常見的原因。義大利在這方面有自己的規定。依據義大利的 SIM 鎖相關法律，電信業者必須揭露任何補貼，用戶在九個月後可支付標示補貼金額的一半取得解鎖碼，且鎖必須在十八個月內解除。在整個歐盟範圍內更廣泛地說，任何綁約期結束後，SIM 解鎖必須免費辦理。
+
+
+
+**檢查方法：** iPhone 依序進入設定、一般、關於本機、電信業者鎖（Carrier Lock）。如果畫面顯示「無 SIM 卡限制（No SIM restrictions）」，這支手機對任何設定檔都是解鎖的。如果畫面顯示「SIM 已鎖（SIM locked）」，在鎖解除之前無法載入外部設定檔。
+
+
+
+**解決方法：** 向持有鎖的電信業者申請解除。已繳清款項的裝置通常幾小時內就會解鎖，且依據歐盟及大多數原電信業者的規定不收取費用。完成之後再安裝你的義大利 eSIM。
+
+
+
+如果你買的是二手手機，或綁約購買的手機，請預設它可能是鎖定的，出發前先確認。
+
+
+
+### 義大利 IMEI 與 EID 檢查
+
+
+
+| 裝置 | 症狀 | 該怎麼做 |
+
+|:---|:---|:---|
+
+| 中國大陸版 iPhone | 完全沒有「加入 eSIM」選項，硬體在該市場被停用 | 無法解決；改用實體 SIM 或其他裝置 |
+
+| 購自美國、加拿大或日本的電信綁約手機 | 在義大利設定檔上顯示「SIM 不允許」 | 出發前先向原電信業者解鎖 |
+
+| 不支援 n28 或 n1 的國際手機 | 市區很快，鄉村只有 LTE | 屬預期行為；見下方的地區說明 |
+
+| 雙 SIM 用戶 | eSIM 已安裝但沒有數據 | 將 eSIM 設定為行動數據使用的門號 |
+
+
+
+超出以上範圍的問題都屬於裝置特定，而非電信業者特定。付錢之前，先在 [eSIM 相容性檢測](/compatibility/) 查一下你的手機。
+
+
+
+## 價格比較
+
+
+
+存在四條路徑，它們在繁瑣手續上的差異比在價格上更大：TIM 覆蓋最廣、Vodafone 市區最快、WINDTRE 的 5G 可用率最高、Iliad 則勝在價格。以下逐條說明。
+
+
+
+### 可以向 TIM 買義大利 eSIM 嗎？
+
+
+
+TIM 是老牌龍頭，當你會在旅遊核心區以外活動時它是最安全的選擇，但它的觀光產品刻意做得非常簡單。
+
+
+
+TIM 的 TIM Tourist 方案**僅提供實體 SIM**。它在義大利境內提供 200 GB 的 5G 流量，23 GB 可在歐盟境內使用，國內通話無限外加 100 分鐘國際通話，有效期 30 天。公布總價為 **24.99 歐元**，由 14.99 歐元的方案費加 10 歐元的 SIM 卡費組成，開通免費。你可以憑護照在 TIM 門市、羅馬菲烏米奇諾或米蘭馬爾彭薩機場櫃檯，或菸草店（tabacchi）購買。TIM 的標準方案確實支援 eSIM，但外國旅客要開通通常意味著親臨門市與身分查驗，而不是遠端拿到 QR code。
+
+
+
+### 旅客買得到 Vodafone eSIM 嗎？
+
+
+
+Vodafone 義大利是大城市中最快的網路，也是英語支援最友善的，而且它的方案確實支援 eSIM。
+
+
+
+Vodafone 的旅客產品是 **Dolce Vita** 系列。Dolce Vita Start 提供 100 GB 的 5G、25 GB 的歐盟流量和 200 分鐘通話，每月 **14.95 歐元**。Dolce Vita Ultra 提供 300 GB、41 GB 歐盟流量和相同分鐘數，每月 **24.95 歐元**。Vodafone 宣稱零開通費，但並不一定會單獨公布 SIM 卡費用，所以請在櫃檯確認總價。eSIM 是在你護照掃描後於門市核發，設定由店員處理。
+
+
+
+### WINDTRE 有賣給旅客的預付 eSIM 嗎？
+
+
+
+WINDTRE 是四家中唯一能在線上購買附 eSIM 選項觀光方案的，這使它理論上對旅客最友善。
+
+
+
+**Tourist Pass Digital** 提供 200 GB 的 5G、23 GB 的歐盟流量、義大利國內通話無限以及撥打 53 個國家共 100 分鐘，有效期 30 天。帳面價格是 **25 歐元**，但同一個官方頁面的細則裡還加了 10 歐元的 SIM 卡費和一筆與 iMessage 相關的小額費用，所以預算請抓到約 35 歐元。你在出發前於線上購買，抵達後到 WINDTRE 門市或機場自助機台領取 eSIM 或 SIM 卡。它專為沒有義大利稅籍編號的新外國客戶保留，且無法在同一門號上續購。
+
+
+
+### 旅客買得到 Iliad eSIM 嗎？
+
+
+
+Iliad 是價格破壞者，以透明的低價高流量方案著稱，但它的人工門市最少，鄉村覆蓋的可預期性也最弱。
+
+
+
+Iliad 的 **Giga 150** 方案提供 150 GB 的 5G、無限通話，以及公平使用原則下的歐盟漫遊，每月約 **9.99 歐元**。Iliad 支援 eSIM，而且因為它在購物中心經營一批自助 Simbox 自動販賣機，你可以在幾分鐘內憑身分證件開出一張卡或 eSIM。代價是離開主要交通動線之後覆蓋較難預期，以及幾乎全數位化的客戶支援。
+
+
+
+### 誰在義大利經營行動網路
+
+
+
+| 電信業者 | 方案 | 義大利流量 | 歐盟流量 | 語音 | 有效期 | 預付價格（歐元） | eSIM |
+
+|:---|:---|:---|:---|:---|:---|:---|:---|
+
+| TIM | TIM Tourist | 200 GB 5G | 23 GB | 義大利國內無限加 100 分鐘國際 | 30 天 | 24.99 | 僅實體 SIM |
+
+| Vodafone | Dolce Vita Start | 100 GB 5G | 25 GB | 義大利及 40 國共 200 分鐘 | 30 天 | 每月 14.95 | 門市辦理 |
+
+| Vodafone | Dolce Vita Ultra | 300 GB 5G | 41 GB | 義大利及 40 國共 200 分鐘 | 30 天 | 每月 24.95 | 門市辦理 |
+
+| WINDTRE | Tourist Pass Digital | 200 GB 5G | 23 GB | 義大利無限加撥打 53 國 100 分鐘 | 30 天 | 帳面價 25，細則內含 10 歐元 SIM 費 | 線上購買，抵達後領取 |
+
+| Iliad | Giga 150 | 150 GB 5G | 公平使用 | 無限通話 | 每月 | 約 9.99 | eSIM 或 SIM，自助辦理 |
+
+
+
+價格與條款經常變動，所以請把這張表視為 2026 年拍下的快照，付款前先確認最終金額。
+
+
+
+### 在哪裡購買義大利 eSIM
+
+| 項目 | 為什麼重要 |
+
+|:---|:---|
+
+| 護照 | 義大利每張預付 SIM 和 eSIM 都必備 |
+
+| 稅籍編號（codice fiscale） | 標準方案與月繳方案需要；機場和電信門市可從你的護照現場生成 |
+
+| IMEI | 撥打 *#06# 確認裝置 |
+
+| EID | 同樣在 *#06# 畫面上；eSIM 的識別碼 |
+
+| 未鎖手機 | 任何非居民身分的 eSIM 或 SIM 都需要 |
+
+| 能在義大利使用的卡片 | 有些電信業者的結帳頁面會拒絕國外帳單地址 |
+
+| Wi-Fi | 出發前就安裝好設定檔，不要等到機場 |
+
+
+
+新客戶在[申辦義大利 eSIM 方案](/italy-esim/)時可使用代碼 **WEB20** 享 8 折優惠，或先[領取免費義大利試用 eSIM](/free-esim/) 零成本測試各家網路。
+
+
+
+## eSIM 電信業者：TIM、Vodafone 與 WINDTRE
+
+
+
+這一章回答兩件事：你在實際所在地能拿到的真實表現，以及你規劃的是哪一種旅程。下面的數據解決性能問題，旅程表解決哪一家業者適合你的路線。
+
+
+
+### 哪一家電信業者最快？
+
+
+
+以下所有數據都來自 Ookla 的 Speedtest Intelligence **義大利 2025 年上半年**資料（蒐集期間為 2025 年 1 月至 6 月），是對 Ookla 評比的五家業者所做的全國層級測量。
+
+
+
+| 指標 | Vodafone | WINDTRE | Fastweb | TIM | Iliad |
+
+|:---|:---|:---|:---|:---|:---|
+
+| Speedtest 連線品質分數 | **75.95**（最佳） | 74.84 | 74.47 | 72.15 | 70.64 |
+
+| 速度分數 | **65.73**（最快） | 65.23 | 64.17 | 58.66 | 55.97 |
+
+| 一致性分數 | 89.2 | 89.2 | 87.3 | 85.3 | 88.8 |
+
+| 5G 可用率 | 49.2 | **74.8**（最高） | 71.6 | 68.9 | 68.6 |
+
+| 影片串流分數 | 76.49 | 74.68 | 75.15 | **76.53**（最佳） | 74.95 |
+
+| 遊戲分數 | **84.62**（最佳） | 83.78 | 83.87 | 84.45 | 80.33 |
+
+| 五星評分 | 3.23 | 3.11 | 2.95 | 2.76 | **3.34**（最高） |
+
+
+
+資料來源：Ookla Speedtest Connectivity Report, Italy 1H 2025，網址：https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025。
+
+
+
+未公布資料的欄位留白，不填入任何估計值。有兩件事值得注意：Vodafone 在綜合連線品質分數和原始速度分數上獲勝，但 5G 可用率卻以 49.2% 大幅落後，因為它的 5G 集中在城市，而非全面覆蓋。WINDTRE 可用率奪冠，速度卻只在中等。TIM 的隱藏強項是影片分數，這是串流和視訊通話最重要的指標。Iliad 在四大主要業者中一致性最低，用戶評分卻最高（3.34），這告訴你旅客有多看重它的價格。
+
+
+
+作為全國背景：DataReportal 的 Digital 2025 義大利報告指出，2025 年底全國行動下載中位數約為 **85.39 Mbps**，而 Cable.co.uk 估算義大利 1 GB 行動數據價格約為 **0.09 美元**，是全球第二便宜。一旦接上本地網路，義大利買流量確實便宜。
+
+
+
+### 依旅客類型提供的義大利 eSIM 建議
+
+
+
+| 旅程型態 | 最合適的業者 | 原因 | 注意事項 |
+
+|:---|:---|:---|:---|
+
+| 城市小旅行：羅馬、米蘭、佛羅倫斯、威尼斯 | Vodafone 或 TIM | 兩者在市中心都很出色；Vodafone 最快，TIM 最穩定 | 羅馬地鐵隧道內所有業者的訊號都偏弱 |
+
+| 阿瑪菲海岸懸崖小鎮 | TIM | 700 MHz n28 能深入石灰岩峽谷 | Vodafone 和 WINDTRE 在溝壑地帶較弱 |
+
+| 那不勒斯—卡布里—蘇連多渡輪跳島 | TIM | 從山頂站形成的強勁海上視距傳播 | Iliad 在航程中段斷訊最頻繁 |
+
+| 多洛米蒂山滑雪 | TIM | 低頻段鄉村覆蓋最佳 | 森林線以上完全沒有訊號 |
+
+| 精打細算的長期停留 | Iliad | 150 GB 約 9.99 歐元最便宜 | 離開主要動線後較難預期 |
+
+| 各地都要最好的 5G | WINDTRE | 74.8% 的時間都在 5G 上 | 原始速度低於 Vodafone |
+
+| 遊戲與視訊通話 | Vodafone 或 TIM | 遊戲與影片分數頂尖 | 市區內無重大問題 |
+
+| 多國歐洲行程 | 歐洲旅遊 eSIM | 內建歐盟漫遊 | 本地 SIM 可漫遊但流量配額有限 |
+
+
+
+### TIM 的 700 MHz 在哪些地區勝過 Vodafone，逐一檢視
+
+
+
+義大利的 5G 集中在都會區，沿次要道路逐漸稀薄，到森林線以上就消失了。逐條路線的實況：
+
+
+
+| 地區 | 實際狀況 | 最佳業者 | 注意事項 |
+
+|:---|:---|:---|:---|
+
+| 羅馬與拉齊奧 | 城市是地圖上最強的部分，所有主要網路都有 5G | TIM 或 Vodafone | 羅馬地鐵隧道內所有業者的訊號都差 |
+
+| 米蘭、杜林與北部 | 都會區 5G 密集，整個波河谷覆蓋強勁 | WINDTRE 或 Vodafone | 無重大問題 |
+
+| 那不勒斯、阿瑪菲與南部 | 都市覆蓋可靠；懸崖村落需要低頻段 | TIM 的 n28 | 波西塔諾和拉維洛的峽谷；渡輪航程中段斷訊 |
+
+| 西西里與薩丁尼亞 | 主要島嶼和度假區可靠；內陸零星 | TIM 或 Vodafone | 抵港渡輪空窗；薩丁尼亞內陸稀薄 |
+
+| 阿爾卑斯與多洛米蒂 | 滑雪場和谷地道路沒問題；高海拔則否 | TIM | 森林線以上完全沒有訊號 |
+
+| 威尼斯與潟湖 | 都會密集，旺季壅塞 | Vodafone | 夏天人潮讓基地台過載；高水位（acqua alta）影響行走，不影響訊號 |
+
+
+
+規劃離開義大利的路線？先看[法國 eSIM 指南](/carriers/france-esim-carrier-guide/)、比較[瑞士 eSIM 指南](/carriers/switzerland-esim-carrier-guide/)，或看看[希臘 eSIM 頁面](/greece-esim/)。如果你的行程多次跨越國界，一張[歐洲 eSIM](/europe-esim/) 能讓你不必買兩次。
+
+
+
+在業者之間自動切換，正是讓這一切變得實用的關鍵。一個能在 TIM、Vodafone 和 WINDTRE 之間移動的設定檔，可以補上任何單一電信業者方案都無法覆蓋的區域空隙，而 Roami 的義大利 eSIM 正是這樣做的，還不需要排隊辦護照登記。
+
+
+
+## 輸入 APN
+
+
+
+你可能永遠不會打開 APN 畫面，但它解釋了大多數突發的數據故障。下表列出每一組電信業者的數值、哪些情況需要手動輸入，以及該去哪裡找這個畫面。
+
+
+
+### TIM、Vodafone 與 WINDTRE eSIM 的 APN 數值
+
+
+
+只有當你**直接向義大利電信業者**購買 SIM 或 eSIM 時才需要這些。如果設定檔來自旅遊 eSIM，它已經內含義大利的 APN。
+
+
+
+| 電信業者 | APN | 使用者名稱 | 密碼 |
+
+|:---|:---|:---|:---|
+
+| TIM | `ibox.tim.it` | 留空 | 留空 |
+
+| Vodafone | `mobile.vodafone.it` | 留空 | 留空 |
+
+| WINDTRE | `internet.it` | 留空 | 留空 |
+
+| Iliad | `iliad` | 留空 | 留空 |
+
+
+
+使用者名稱和密碼請留空。如果某家業者要求填值，設定檔隨附的啟用說明會寫明。
+
+
+
+### 義大利電信業者的 APN 數值
+
+
+
+自動設定涵蓋大多數義大利設定檔；以下這些情況仍需要手動輸入上述數值。
+
+
+
+- 較舊的手機，不會自動擷取電信業者設定
+
+- 以手動啟用碼而非 QR 掃描安裝的設定檔
+
+- 電信業者核發的預付 eSIM，但自動設定沒有執行
+
+- 可連線的熱點卻不分享數據，這在 Android 上需要在 APN 類型中加入 `dun`
+
+- 旅遊 eSIM 上幾乎不會發生，這正是託管式設定檔的意義所在
+
+
+
+### 何時需要手動輸入義大利 APN
+
+- **iPhone：** 設定 → 行動服務（Cellular）→ 點選 eSIM 門號 → 行動數據網路（Cellular Data Network）→ 輸入 APN
+
+- **Android：** 設定 → 連線 → 行動網路 → 存取點名稱（APN）→ 新增 APN
+
+- **iPhone 熱點：** 在同一個行動數據網路畫面中，也要把個人熱點（Personal Hotspot）填上相同的 APN，否則熱點選項可能會消失
+
+
+
+儲存後重新啟動手機。如果數據仍然不通，確認所選的數據門號是義大利設定檔，而不是你本地的卡片。
+
+
+
+## 安裝、啟用、驗證：義大利 eSIM 步驟
+
+
+
+把這一章走一遍，你就能從乾淨安裝走到數據可用，並涵蓋義大利網路實際會出現的故障型態，按你會遇到它們的順序排列。
+
+
+
+### 將義大利 eSIM 加入你的裝置
+
+| # | 檢查項目 | 正常的樣子 |
+
+|:---|:---|:---|
+
+| 1 | 手機未被電信鎖定 | 關於本機中的電信業者鎖顯示「無 SIM 卡限制」 |
+
+| 2 | 手機支援 eSIM | *#06# 顯示 EID，或[相容性查詢工具](/compatibility/)確認你的型號 |
+
+| 3 | 已保存 QR code 和啟用碼 | 截圖存在手機和雲端儲存空間 |
+
+| 4 | 出發前已安裝設定檔 | 在家用 Wi-Fi 安裝；設定檔會在你落地時連上網 |
+
+| 5 | 數據門號與漫遊已設定 | eSIM 已選為行動數據，開啟數據漫遊 |
+
+
+
+第 4 步請在家完成。菲烏米奇諾和馬爾彭薩的入境大廳 Wi-Fi 偏偏在你最需要的時候最塞，而在現場才安裝的設定檔還得跟所有人的搶頻寬。
+
+
+
+### TIM、Vodafone、WINDTRE 或 Iliad 的設定檔如何取得
+
+
+
+我們的[逐步啟用指南](/faq/how-to-activate-an-esim/)涵蓋標準的「加入 eSIM」、QR 掃描和數據門號選擇流程。義大利電信業者在設定檔核發方式上各有不同：
+
+
+
+| 電信業者 | 旅客如何取得 eSIM |
+
+|:---|:---|
+
+| TIM | 觀光方案僅提供實體 SIM；標準 eSIM 憑護照在門市開通 |
+
+| Vodafone | 通過身分查驗後於門市櫃檯在方案上開通 eSIM |
+
+| WINDTRE | Tourist Pass Digital 可線上購買 eSIM，抵達後領取 |
+
+| Iliad | 支援 eSIM，憑身分證件在門市或 Simbox 自助機台核發 |
+
+| 旅遊 eSIM | 以 QR code 安裝，同一個設定檔漫遊到 TIM、Vodafone、WINDTRE 或 Iliad 中訊號最強的一家 |
+
+
+
+### 沒有連線？義大利 eSIM 的四種修復法
+
+
+
+一般啟用錯誤、設定檔無法下載、掃描失敗、eSIM 已安裝卻始終未註冊等問題，請見我們的 [eSIM 問題排解指南](/faq/esim-activation-errors-troubleshooting-guide/)。以下是四種義大利特有的型態。
+
+
+
+| 症狀 | 可能原因 | 修復方式 |
+
+|:---|:---|:---|
+
+| 在歷史城區內已安裝卻卡在緩慢的 GPRS | 厚重的石牆阻擋中頻 5G 和 4G | 手動將網路選擇切換到 TIM，其 700 MHz n28 能穿透建築 |
+
+| 那不勒斯到卡布里或蘇連多的渡輪航程中沒有訊號 | 開闊水域上的預期現象，Iliad 最嚴重 | 登船前下載離線地圖；接受空窗或改用 TIM |
+
+| 鎖在非歐盟電信業者的手機上顯示「SIM 不允許」 | 裝置被電信鎖定 | 出發前先向原電信業者解鎖；任何義大利 eSIM 都救不了 |
+
+| 數據可用但熱點失效 | Android 上 APN 類型缺少 dun，或 iPhone 上個人熱點 APN 為空 | 在 APN 類型中加入 dun，或在 iPhone 上填妥個人熱點 APN，然後重新啟動 |
+
+
+
+### 該選哪家業者：TIM vs Vodafone？
+
+| 資訊 | 到哪裡找 |
+
+|:---|:---|
+
+| 訂單或帳戶號碼 | 確認信 |
+
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+
+| EID | *#06# |
+
+| 錯誤訊息截圖 | 趁畫面還沒變之前先截 |
+
+| 目前的 APN 設定 | 設定 → 行動數據網路 |
+
+| 數據漫遊狀態 | 設定 → 行動服務 → 你的 eSIM 門號 |
+
+| 已嘗試過的步驟 | 列一張簡短清單 |
+
+
+
+## 旅客對你的 eSIM 的常見問題
+
+
+
+### 在義大利：本地 SIM 與旅客 eSIM 的比較
+
+
+
+不是觀光方案。TIM 的 TIM Tourist 產品是實體 SIM，憑護照在 TIM 門市或機場櫃檯購買，總價 24.99 歐元。TIM 的常規方案確實有賣 eSIM，但旅客要取得通常得親臨門市並通過身分查驗，而不是遠端拿到 QR code。
+
+
+
+### Vodafone 的旅客 eSIM：有在賣嗎？
+
+
+
+有，在其方案上，但要在門市櫃檯辦理而非遠端。Vodafone 的 Dolce Vita 旅客系列每月 14.95 歐元起含 100 GB，在你護照於店內掃描後以 eSIM 核發。如果你想用 Vodafone 網路又不想預約辦理，搭載 Vodafone 的旅遊 eSIM 是更快的路。
+
+
+
+### TIM vs Vodafone 的 5G：在義大利哪一家比較好？
+
+
+
+以可用率來說，是的。WINDTRE 在 Ookla 的 2025 年上半年義大利報告中以 74.8% 的 5G 可用率領先，TIM 為 68.9%。鄉村和山區覆蓋方面，TIM 仍因 700 MHz 低頻段而較強。想在城市裡盡可能常駐 5G 就選 WINDTRE；想在艱難地形中保持訊號就選 TIM。
+
+
+
+### 義大利的鄉村覆蓋：TIM vs Vodafone
+
+
+
+TIM，無論看數據還是實際體驗都是。它的 700 MHz 低頻段 n28 能穿透石灰岩峽谷、深入山谷，而 Vodafone 疊加容量的 5G 和網路較薄的 Iliad 在那裡都很吃力。沒有任何業者能覆蓋多洛米蒂森林線以上的高山，所以無論如何都先下載離線地圖。
+
+
+
+### 義大利 eSIM 方案的價格
+
+
+
+對短期觀光方案來說，通常不需要。義大利規定每張預付門號都要護照，但 TIM、Vodafone 和 WINDTRE 的觀光產品就是設計成只憑護照開通，如果標準方案需要稅籍編號，電信門市或機場店家也能從你的護照現場生成。平價品牌和月繳合約則更可能一開始就要求稅籍編號（codice fiscale）。
+
+
+
+### 在義大利表現掙扎的手機
+
+
+
+它必須是解鎖的且支援 eSIM。用 [eSIM 相容性檢測器](/compatibility/) 一次檢查兩項，它涵蓋 EID 支援與頻段問題，包括許多國際手機缺少的 n28 和 n1 這兩個 5G 頻段。如果你困惑的是安裝流程，[eSIM 啟用原理](/faq/what-is-esim-activation-and-how-does-it-work/)會一步步講解。
+
+
+
+### 為義大利解鎖被電信鎖定的手機
+
+
+
+向鎖定它的電信業者申請，通常是你的本地電信。依據歐盟規定，任何綁約期結束後 SIM 解鎖免費，義大利法律也限制鎖定可以持續的時間。已繳清的裝置通常幾小時內解鎖。出發前先到設定、一般、關於本機、電信業者鎖確認狀態。
+
+
+
+### 最實惠的義大利方案
+
+
+
+Iliad，每月約 9.99 歐元可獲得 150 GB，含無限通話和公平使用原則下的歐盟漫遊，無長期綁約。代價是離開主要動線後覆蓋較難預期，且支援幾乎全數位化。超出配額時，Iliad 依公平使用政策處理，而不是收取超量費。
+
+
+
+### 本地 SIM 和義大利 eSIM 可以同時使用嗎？
+
+
+
+可以，而且這是合理的配置。讓你的本地門號保留語音和驗證簡訊，把義大利數據導向 eSIM。在設定中，把數據任務交給義大利設定檔，本地門號留給通話。關閉本地卡的漫遊，以免背景流量產生費用。
+
+
+
+### 義大利該預載多少流量？
+
+
+
+因為你會跨越開闊水域，最近的基地台遠在數公里之外，沿海基地台之間的交遞也會掉線。這在每家業者上都會發生，Iliad 最嚴重。登船前先下載卡布里的離線地圖，航程中不要指望串流。
+
+
+
+### TIM 的旅客 eSIM 方案
+
+直購意味著單一網路、電信業者自行供裝，而且通常要護照加稅籍編號；作為交換，你得到真正的義大利門號和無限國內通話。旅遊 eSIM 意味著即時開通、免文件、在 TIM、Vodafone、WINDTRE 和 Iliad 之間自動切換，以及固定的預付價格。短程旅行：旅遊 eSIM。長期居留在義大利則會改變算式：向電信業者直購的 SIM 更合理。
+
+
+
+### 你手機裡承載義大利設定檔的那顆 eSIM 晶片
+
+
+
+eSIM 用固定在手機內部的晶片取代塑膠卡片；設定檔透過空中下載送達，晶片保存它，這個門號的行為和其他門號沒有兩樣。[什麼是 eSIM 啟用以及它如何運作](/faq/what-is-esim-activation-and-how-does-it-work/)會解釋 SM-DP+ 交握，以及為什麼每個 QR code 都是一次性的。
+
+
+
+還有問題嗎？[還有問題？檢視完整常見問題 →](/faq/)
+
+
+
+## 我們義大利 eSIM 業者數據背後的資料來源
+
+
+
+- 本頁所有業者層級的數據都追溯到 **Ookla Speedtest Connectivity Report for Italy, 1H 2025** — [開啟各業者報告](https://www.ookla.com/research/reports/italy-speedtest-connectivity-report-h1-2025)，其中有 Vodafone 的 75.95 連線品質分數與 65.73 速度分數、WINDTRE 的 74.8% 5G 可用率、TIM 的 76.53 影片分數，以及 Iliad 的 3.34 用戶評分。
+
+- 全國行動下載中位數取自 **Ookla Speedtest Global Index** — [義大利頁面](https://www.speedtest.net/reports/italy/)，每月更新。
+
+- 義大利每 GB 約 0.09 美元的平均價格來自 **Cable.co.uk 全球數據定價調查** — [1GB 全球價格表](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)。
+
+- 市場背景與全國行動速度中位數由 **DataReportal 的 Digital 2025 義大利報告**支持 — [國家報告](https://datareportal.com/reports/digital-2025-italy)。
+
+- 方案價格、開通方式與身分驗證規定取自業者本身：[Vodafone 義大利](https://www.vodafone.it/)、[WINDTRE](https://www.windtre.it/) 和 [Iliad](https://www.iliad.it/)。發現哪個數字過期了嗎？我們的支援團隊很樂意知道。
+
+
+
+僅為第三方測量數據。實際結果會因手機、使用的頻段以及當地基地台的負載而異。義大利的通訊主管機關 AGCOM 制定了這些網路背後的執照與覆蓋義務。
+
+
+
+## 帶上你的義大利 eSIM，一落地就上線
+
+
+
+一個設定檔，四張網路。Roami 的義大利 eSIM 跑在 TIM、Vodafone、WINDTRE 和 Iliad 上，隨著你穿越全國自動在它們之間跳換。先用[義大利免費試用 eSIM](/free-esim/) 免費測試各網路，再於[義大利 eSIM 方案](/italy-esim/)上用代碼 **WEB20** 解鎖 8 折優惠。
+
+
+
+[申辦我的義大利 eSIM 方案](/italy-esim/)
+
+
+
+*僅限新客戶，每筆訂單限用一次代碼*
+
+
+
+[開始義大利免費試用](/free-esim/)
+

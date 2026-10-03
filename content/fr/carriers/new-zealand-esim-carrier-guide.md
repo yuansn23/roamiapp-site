@@ -1,10 +1,9 @@
 ---
-title: "Le 5G est-il assez rapide pour Nouvelle-Zélande ? Guide eSIM."
-description: "Ne choisissez pas votre eSIM Nouvelle-Zélande au hasard. Roami teste Spark, One NZ et 2degrees pour vous offrir la meilleure connexion 5G au Nouvelle-Zélande."
-date: "2026-06-17T06:04:16+00:00"
-
-keywords: eSIM Nouvelle-Zélande, données prépayées, réseau 5G, One NZ, Spark, 2degrees,
-  voyage Nouvelle-Zélande, données illimitées
+title: "Opérateurs eSIM Nouvelle-Zélande : lequel choisir ?"
+description: "Roami compare One NZ et Spark sur la vitesse, la couverture et les prix des forfaits eSIM touristiques en Nouvelle-Zélande."
+image: "img/esim/carriers/new-zealand-esim-carrier-guide.jpg"
+date: "2026-09-24T23:25:22+00:00"
+keywords: new zealand esim carriers, one nz esim, spark esim, 2degrees esim, skinny esim, new zealand 5g coverage, new zealand esim apn, esim new zealand prepaid, best esim carrier new zealand, new zealand travel esim
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -12,361 +11,388 @@ breadcrumb_items:
   url: /
 - name: Guide eSIM Nouvelle-Zélande
   url: ''
-hero_badge: 🇳🇿 Guide actuel de l'eSIM de voyage Nouvelle-Zélande
-hero_subtitle_main: 'Nouvelle-Zélande eSIM: Dites adieu aux frais d''itinérance internationaux'
-hero_subtitle_highlight: Couverture réseau 5G premium via One NZ, Spark et 2degrees
-hero_description_line1: Profitez d'un Internet haut débit ininterrompu avec l'eSIM
-  Nouvelle-Zélande. Aucune livraison physique requise. Elle prend en charge les courts
-  séjours comme les longs séjours avec une variété de forfaits flexibles.
-hero_description_line2: Connectez-vous en quelques secondes et profitez d'une navigation
-  illimitée.
-hero_link_text: eSIM Nouvelle-Zélande
-hero_link_url: /new-zealand-esim/
-tldr_summary: 'Dites adieu aux frais d''itinérance élevés : données 5G illimitées
-  pour plusieurs appareils avec l''eSIM Roami en Nouvelle-Zélande. Selon les données
-  Ookla du premier semestre 2025, One NZ est le meilleur réseau mobile global (Score
-  de connectivité 74,58), Spark domine la 5G avec un débit descendant médian de 342,37
-  Mbps, et 2degrees offre la meilleure constance réseau (91% des échantillons ≥ 5
-  Mbps descendant). Que vous exploriez Wellington (débit mobile médian 186,4 Mbps)
-  ou Lower Hutt (débit fixe médian 223,26 Mbps), Roami vous garantit une connexion
-  rapide et fiable.'
-sidebar_more_hint: Faites glisser pour voir plus
-sidebar_title: Nouvelle-Zélande eSIM Liens rapides
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Sélection rapide : Quel fournisseur d''eSIM Nouvelle-Zélande choisir ?'
-- href: '#operators'
-  text: Test des meilleurs opérateurs mobiles eSIM Nouvelle-Zélande
-- href: '#city-guide'
-  text: 'Guide des villes : La meilleure eSIM pour Nouvelle-Zélande'
-- href: '#before-buy'
-  text: Ce que vous devez savoir avant d'acheter une eSIM Nouvelle-Zélande
-- href: '#faq'
-  text: Questions fréquentes sur l'eSIM Nouvelle-Zélande
-- href: '#myths'
-  text: Mythes et faits sur l'eSIM Nouvelle-Zélande
-- href: '#data-sources'
-  text: Sources des données
-quick_picks_title: 'Sélection rapide : Quel fournisseur d''eSIM Nouvelle-Zélande devriez-vous
-  choisir ?'
-quick_picks_table_headers:
-- Votre style de voyage
-- Fournisseur recommandé
-- Performance du réseau
-quick_picks_note_prefix: 'Source des données : '
-quick_picks_note_carrier: '[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Nomades numériques
-  carrier: Spark
-  carrier_class: text-red-600
-  reason: Spark offre le meilleur réseau 5G avec un débit descendant médian de 342,37
-    Mbps, idéal pour le télétravail et les vidéoconférences.
-- travel: Aventuriers en plein air
-  carrier: One NZ
-  carrier_class: text-blue-600
-  reason: One NZ est le meilleur réseau mobile global (Score de connectivité 74,58)
-    et offre la meilleure disponibilité 5G (60,9% du temps), parfait pour les zones
-    rurales.
-- travel: Voyageurs soucieux de leur budget
-  carrier: 2degrees
-  carrier_class: text-green-600
-  reason: 2degrees est le FAI fixe le plus rapide (débit descendant médian 220,52
-    Mbps) et offre la meilleure constance réseau mobile (91%), excellent rapport qualité-prix.
-cta_button_main_text: Voir l'eSIM de voyage Nouvelle-Zélande la plus économique
-cta_button_sub_text: Commutation automatique de réseau, supporte la comparaison automatique
-  des prix des données prépayées
-operator_labels:
-  best_for: 'Idéal pour :'
-  core_data: 'Données clés :'
-  connect_note_label: 'Note de connexion eSIM :'
-operators:
-- id: one-nz-esim
-  title: 'Test eSIM One NZ : Meilleure couverture à la campagne'
-  best_for: Ce forfait est le meilleur choix absolu pour les voyageurs qui explorent
-    les zones rurales et les parcs nationaux de Nouvelle-Zélande, grâce à la meilleure
-    disponibilité 5G du pays.
-  core_data: '- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025),
-    le taux de disponibilité 5G est de 60,9%, le plus élevé de Nouvelle-Zélande.
-
-    - **Score de connectivité** : 74,58, meilleur réseau mobile global.
-
-    - **Expérience de jeu mobile** : Score de jeu de 79,30, idéal pour les gamers
-    en déplacement.'
-  arcep_note: 'Confirmé par l''autorité locale des télécommunications (Commerce Commission)
-    : One NZ détient des licences de spectre 5G étendues, notamment dans les bandes
-    700 MHz et 3,5 GHz, assurant une large couverture.'
-  connect_note: L'activation se déroule sans problème via l'application Roami. Un
-    simple scan du QR code et vous êtes connecté au réseau One NZ en quelques secondes.
-  user_scenarios: '- **Randonnée au Tongariro Alpine Crossing** : One NZ offre une
-    couverture 5G même dans les zones montagneuses reculées, vous permettant de partager
-    vos photos en temps réel.
-
-    - **Road trip sur la côte ouest de l''Île du Sud** : Grâce à la disponibilité
-    5G de 60,9%, vous restez connecté entre les glaciers et les forêts pluviales.'
-  bg_color: bg-blue-50
-- id: spark-esim
-  title: 'Test eSIM Spark : Vitesse 5G ultrarapide pour les nomades numériques'
-  best_for: Ce forfait est le meilleur choix pour les professionnels en déplacement
-    qui ont besoin de débits 5G ultra-rapides pour le télétravail, les vidéoconférences
-    et les téléchargements lourds.
-  core_data: '- **Débit descendant médian 5G** : Selon [Rapport de connectivité Speedtest
-    Ookla](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025),
-    le débit médian en téléchargement est de 342,37 Mbps, le plus rapide de Nouvelle-Zélande.
-
-    - **Débit montant médian 5G** : 20,64 Mbps.
-
-    - **Latence 5G** : 48 ms, idéal pour les applications en temps réel.
-
-    - **Score de vitesse 5G** : 62,12.'
-  arcep_note: 'Confirmé par l''autorité locale des télécommunications : Spark a investi
-    massivement dans les bandes 5G mmWave et 3,5 GHz, offrant des vitesses de pointe
-    dans les centres-villes.'
-  connect_note: L'activation est instantanée via l'application Roami. Une fois le
-    QR code scanné, vous bénéficiez immédiatement des vitesses 5G de Spark.
-  user_scenarios: '- **Travail depuis un café à Auckland** : Téléchargez des fichiers
-    volumineux et participez à des visioconférences sans lag grâce au débit descendant
-    de 342,37 Mbps.
-
-    - **Streaming 4K à Queenstown** : Regardez vos séries préférées en 4K sans mise
-    en mémoire tampon, même aux heures de pointe.'
-  bg_color: bg-red-50
-- id: 2degrees-esim
-  title: 'Test eSIM 2degrees : Fiabilité et constance pour les voyageurs connectés'
-  best_for: Ce forfait est le meilleur choix pour les voyageurs qui privilégient une
-    connexion stable et fiable, avec une excellente constance réseau même dans les
-    zones moins densément peuplées.
-  core_data: '- **Constance réseau mobile** : Selon [Rapport de connectivité Speedtest
-    Ookla](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025),
-    91% des échantillons dépassent le seuil de 5 Mbps descendant et 1 Mbps montant,
-    le meilleur du marché.
-
-    - **Débit descendant médian fixe** : 220,52 Mbps, le FAI fixe le plus rapide de
-    Nouvelle-Zélande.
-
-    - **Débit montant médian fixe** : 99,55 Mbps.'
-  arcep_note: 'Confirmé par l''autorité locale des télécommunications : 2degrees a
-    optimisé son réseau pour une couverture homogène, notamment dans les zones périurbaines
-    et rurales.'
-  connect_note: L'activation est simple et rapide via l'application Roami. Le réseau
-    2degrees offre une connexion stable dès l'activation.
-  user_scenarios: '- **Séjour à Lower Hutt** : Profitez du débit fixe le plus rapide
-    de Nouvelle-Zélande (223,26 Mbps) pour travailler ou vous divertir.
-
-    - **Voyage en famille à Rotorua** : La constance réseau de 91% garantit que toute
-    la famille reste connectée, même lors des visites des geysers et des sources chaudes.'
-  bg_color: bg-green-50
-cards_compatibility_title: Vérifiez la liste de compatibilité eSIM Nouvelle-Zélande
-cards_compatibility_desc: Vérifiez si votre téléphone prend en charge l'eSIM Nouvelle-Zélande
-  et les bandes 5G locales
-cards_free_title: Obtenez votre eSIM Nouvelle-Zélande gratuite
-cards_free_desc: eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans
-  frais d'itinérance
-cards_free_badge: GRATUIT
-cards_app_title: Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM
-cards_app_desc: 'Code promo : <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | Gestion eSIM en un clic'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Ce que vous devez savoir avant d'acheter une eSIM Nouvelle-Zélande
-before_buy_sections:
-- heading: 1. Bandes 5G/4G principales en Nouvelle-Zélande
-  content: Les principaux opérateurs (One NZ, Spark, 2degrees) utilisent les bandes
-    5G n78 (3,5 GHz) pour les vitesses élevées et n28 (700 MHz) pour la couverture
-    étendue. En 4G, les bandes B1 (2100 MHz), B3 (1800 MHz), B7 (2600 MHz) et B28
-    (700 MHz) sont largement déployées. Assurez-vous que votre appareil prend en charge
-    ces bandes pour une expérience optimale.
-- heading: 2. Exigence KYC (Know Your Customer) pour les eSIM
-  content: La Nouvelle-Zélande impose une vérification d'identité pour toute carte
-    SIM, y compris les eSIM. Vous devrez fournir une pièce d'identité (passeport)
-    et une preuve d'adresse lors de l'activation. Roami simplifie ce processus en
-    collectant vos informations en toute sécurité lors de l'achat.
-- heading: 3. Politique de Fair Use (FUP) et limites de données
-  content: Les forfaits eSIM en Nouvelle-Zélande sont soumis à des politiques d'utilisation
-    équitable. Après avoir dépassé un certain seuil (généralement 20-50 Go par mois),
-    les vitesses peuvent être réduites à 1-2 Mbps. Roami propose des forfaits avec
-    des limites claires pour éviter les mauvaises surprises.
-- heading: 4. Couverture réseau dans les zones reculées
-  content: Bien que les trois opérateurs offrent une bonne couverture dans les villes,
-    les zones rurales et montagneuses peuvent avoir une couverture limitée. One NZ
-    offre la meilleure disponibilité 5G (60,9%), mais il est recommandé de télécharger
-    des cartes hors ligne pour les régions éloignées comme Fiordland ou les Alpes
-    du Sud.
-- heading: 5. Compatibilité des appareils avec les eSIM
-  content: La plupart des smartphones récents (iPhone XS et ultérieurs, Google Pixel
-    3 et ultérieurs, Samsung Galaxy S20 et ultérieurs) prennent en charge les eSIM.
-    Vérifiez que votre appareil est déverrouillé et compatible avec les bandes néo-zélandaises
-    avant d'acheter un forfait Roami.
-city_guide_title: 'Guide des villes : La meilleure eSIM pour Nouvelle-Zélande'
-city_guide_desc: Découvrez quelle eSIM Nouvelle-Zélande est le meilleur choix pour
-  votre ville de destination, en fonction des performances réseau locales et de vos
-  besoins de connectivité.
-city_table_headers:
-- Ville
-- Fournisseur eSIM recommandé
-- Raison / Caractéristiques
-city_recommendations:
-- city: Wellington
-  carriers: Spark
-  reason: Wellington est la ville la plus performante pour les vitesses mobiles avec
-    un débit descendant médian de 186,4 Mbps. Spark, leader de la 5G, est idéal pour
-    profiter de ces vitesses élevées, que ce soit pour le travail ou les loisirs.
-- city: Auckland
-  carriers: One NZ
-  reason: Auckland, la plus grande ville, bénéficie de la meilleure disponibilité
-    5G avec One NZ (60,9%). Parfait pour les voyageurs d'affaires et les touristes
-    qui ont besoin d'une connexion fiable dans toute la métropole.
-- city: Christchurch
-  carriers: 2degrees
-  reason: Christchurch offre une couverture équilibrée. 2degrees, avec sa constance
-    réseau de 91%, est idéal pour les résidents et les visiteurs qui explorent la
-    ville et ses environs, y compris la péninsule de Banks.
-- city: Queenstown
-  carriers: One NZ
-  reason: Queenstown, destination touristique majeure, bénéficie de la couverture
-    étendue de One NZ, notamment dans les zones montagneuses environnantes. Idéal
-    pour les amateurs de sports d'aventure qui veulent rester connectés.
-- city: Lower Hutt
-  carriers: 2degrees
-  reason: Lower Hutt est la ville la plus performante pour les vitesses fixes avec
-    un débit descendant médian de 223,26 Mbps. 2degrees, le FAI fixe le plus rapide,
-    est le choix optimal pour les résidents et les travailleurs à distance.
-city_guide_tip: '💡 Astuce : Si vous utilisez l''eSIM multi-réseau de Roami, votre
-  téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection
-  manuelle requise.'
-scene_guide_title: 🎯 Choisissez la meilleure eSIM Nouvelle-Zélande selon votre scénario
-  de voyage
-scene_items:
-- icon: 🏛️
-  title: Découvreur de villes
-  text: Explorez Auckland, Wellington et Christchurch avec une connexion 5G ultra-rapide.
-    Utilisez Spark pour des débits descendants allant jusqu'à 342 Mbps, parfaits pour
-    la navigation, les applications de voyage et les réseaux sociaux.
-- icon: 🏞️
-  title: Amoureux de la nature
-  text: Randonnez dans les parcs nationaux comme Tongariro ou Abel Tasman avec One
-    NZ. Sa disponibilité 5G de 60,9% vous permet de partager vos aventures en temps
-    réel, même dans les zones reculées.
-- icon: 🚗
-  title: Roadtrippeur
-  text: Parcourez la Nouvelle-Zélande en voiture ou en camping-car. One NZ offre la
-    meilleure couverture routière, tandis que 2degrees assure une constance réseau
-    de 91% pour les appels et la navigation GPS.
-- icon: 🏖️
-  title: Vacancier à la plage
-  text: Détendez-vous sur les plages de la péninsule de Coromandel ou de la baie des
-    Îles. Spark vous offre des vitesses 5G élevées pour le streaming et les appels
-    vidéo, même en bord de mer.
-scene_guide_footer: 💡 L'édition multi-réseau de l'eSIM Roami Nouvelle-Zélande détecte
-  automatiquement votre scénario et bascule vers le meilleur réseau – aucune configuration
-  manuelle requise.
-faq_title: Questions fréquentes sur l'eSIM Nouvelle-Zélande
-faq_prefix: Q
-faq_suffix: ': '
-faq_more_link_text: Plus de questions ? Voir la FAQ complète →
-faq_more_link_url: /faq/
-faq:
-- q: Roami offre-t-elle un support client en ligne 24h/24 en cas de problèmes de connexion
-    en Nouvelle-Zélande ?
-  a: Oui, Roami propose un support client en ligne 24h/24 et 7j/7 via chat en direct
-    et email. Notre équipe est formée pour résoudre rapidement les problèmes de connexion,
-    d'activation ou de configuration eSIM. Vous pouvez nous contacter à tout moment,
-    où que vous soyez en Nouvelle-Zélande.
-- q: Comment activer exactement le profil eSIM Roami dès mon arrivée à l'aéroport
-    en Nouvelle-Zélande ?
-  a: 'L''activation est simple : 1) Achetez votre forfait Roami avant votre départ.
-    2) Vous recevrez un QR code par email. 3) À votre arrivée à l''aéroport d''Auckland,
-    de Wellington ou de Christchurch, activez les données mobiles, scannez le QR code
-    dans les paramètres de votre téléphone (Réglages > Données mobiles > Ajouter un
-    forfait). 4) Votre eSIM sera active en quelques secondes. Pas besoin de carte
-    SIM physique.'
-- q: Aurai-je un signal réseau avec l'eSIM même dans les métros, les vallées profondes
-    ou les zones reculées en Nouvelle-Zélande ?
-  a: La couverture dépend de l'opérateur choisi. One NZ offre la meilleure disponibilité
-    5G (60,9%) et une couverture étendue dans les zones rurales. Spark excelle dans
-    les centres-villes avec des vitesses 5G élevées. 2degrees offre la meilleure constance
-    réseau (91%). Dans les métros et les vallées profondes, le signal peut être réduit,
-    mais les trois opérateurs assurent une couverture de base. Pour les zones très
-    reculées, nous recommandons One NZ.
-- q: L'eSIM Nouvelle-Zélande peut-elle être utilisée comme carte principale pour toutes
-    les connexions de données mobiles ?
-  a: Oui, absolument. L'eSIM Roami peut être configurée comme votre forfait de données
-    principal. Vous pouvez l'utiliser pour la navigation, les appels VoIP (WhatsApp,
-    Skype), les réseaux sociaux, le streaming et le télétravail. Assurez-vous simplement
-    que votre téléphone prend en charge les eSIM et qu'il est déverrouillé. Vous pouvez
-    également conserver votre carte SIM physique pour les appels internationaux si
-    nécessaire.
-- q: Dans quelles langues le support client pour l'eSIM Nouvelle-Zélande est-il disponible
-    et quel est le temps de réponse ?
-  a: Le support client Roami est disponible en français, anglais, espagnol, allemand,
-    italien, portugais et chinois. Le temps de réponse moyen est de moins de 5 minutes
-    pour le chat en direct et de moins d'une heure pour les emails. Notre équipe est
-    basée dans plusieurs fuseaux horaires pour garantir une assistance rapide, où
-    que vous soyez en Nouvelle-Zélande.
-myths_title: ⚠️ Mythes et faits courants sur l'eSIM Nouvelle-Zélande
-myth_label: '❌ Mythe : '
-truth_label: '✅ Fait : '
-myths:
-- myth: Les eSIM sont moins fiables que les cartes SIM physiques en Nouvelle-Zélande.
-  truth: Faux. Les eSIM utilisent la même technologie réseau que les cartes SIM physiques.
-    Elles sont tout aussi fiables, voire plus, car elles ne peuvent pas être perdues
-    ou endommagées. De plus, elles permettent une activation instantanée sans avoir
-    à chercher un magasin physique.
-- myth: La 5G en Nouvelle-Zélande est limitée aux grandes villes comme Auckland et
-    Wellington.
-  truth: Bien que la 5G soit plus concentrée dans les zones urbaines, One NZ offre
-    une disponibilité 5G de 60,9% à l'échelle nationale, y compris dans de nombreuses
-    zones rurales et touristiques. Spark et 2degrees étendent également leur couverture
-    5G dans les villes secondaires et les axes routiers principaux.
-- myth: Tous les opérateurs offrent la même vitesse et la même couverture en Nouvelle-Zélande.
-  truth: Non. Selon les données Ookla du premier semestre 2025, Spark est le leader
-    de la 5G avec un débit descendant médian de 342,37 Mbps, One NZ est le meilleur
-    réseau mobile global (Score de connectivité 74,58), et 2degrees offre la meilleure
-    constance réseau (91%). Chaque opérateur a ses forces spécifiques.
-- myth: Les forfaits eSIM sont plus chers que les cartes SIM locales en Nouvelle-Zélande.
-  truth: Pas nécessairement. Les forfaits eSIM Roami sont compétitifs et offrent souvent
-    des avantages supplémentaires comme l'activation instantanée, le support client
-    multilingue et la flexibilité des forfaits. De plus, vous évitez les frais d'itinérance
-    internationaux, ce qui peut représenter des économies significatives.
-- myth: Vous avez besoin d'une connexion Wi-Fi pour activer une eSIM en Nouvelle-Zélande.
-  truth: Non. Vous pouvez activer votre eSIM Roami en utilisant les données mobiles
-    de votre carte SIM physique (si vous en avez une) ou en vous connectant à un réseau
-    Wi-Fi public à l'aéroport. Une fois le QR code scanné, l'eSIM est activée et prête
-    à l'emploi.
-data_sources_title: Sources des données sur les réseaux mobiles Nouvelle-Zélande
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025)'
-  description: Analyse des performances des réseaux mobiles et fixes en Nouvelle-Zélande
-    pour le premier semestre 2025, basée sur les données Speedtest Intelligence. Inclut
-    les scores de connectivité, les vitesses médianes 5G et la constance réseau.
-- name: OpenSignal 2025
-  description: Rapport sur l'expérience utilisateur des réseaux mobiles en Nouvelle-Zélande,
-    couvrant la disponibilité 5G, les vitesses de téléchargement et la latence. Données
-    collectées auprès de millions d'appareils utilisateurs.
-- name: Commerce Commission de Nouvelle-Zélande 2025
-  description: Rapport réglementaire sur la couverture réseau, les licences de spectre
-    et les performances des opérateurs. Fournit des données officielles sur les déploiements
-    5G et 4G à travers le pays.
-data_sources_footer: Toutes les données de performance réseau citées ci-dessus proviennent
-  de rapports tiers accessibles au public, notamment Ookla, OpenSignal et la Commerce
-  Commission de Nouvelle-Zélande. Ces sources sont reconnues pour leur fiabilité et
-  leur méthodologie rigoureuse.
-data_sources_note: Les vitesses et la couverture réseau peuvent varier en fonction
-  de votre emplacement, de l'heure de la journée, de la congestion du réseau et de
-  votre appareil. Les données présentées sont des moyennes et des médianes basées
-  sur des échantillons collectés entre janvier et juin 2025.
-cta_title: Obtenez votre eSIM Nouvelle-Zélande dès aujourd'hui
-cta_desc: Obtenez un accès immédiat à Internet haut débit en Nouvelle-Zélande avec
-  l'eSIM Roami. Activation instantanée, couverture 5G étendue et support client 24h/24.
-  Dites adieu aux frais d'itinérance et profitez de vos voyages en toute sérénité.
-cta_button_text: Acheter l'eSIM Nouvelle-Zélande maintenant
-cta_button_link: /new-zealand-esim/
-cta_free_trial_note: Exclusif pour les nouveaux clients
-cta_free_trial_text: eSIM d'essai Nouvelle-Zélande gratuite
-cta_free_trial_link: /free-esim/
+hero_badge: "À l'intérieur des réseaux mobiles de Nouvelle-Zélande"
+hero_subtitle_main: "Les opérateurs néo-zélandais sur le papier versus sur le terrain"
 ---
+
+
+Choisir une eSIM Nouvelle-Zélande signifie choisir entre trois réseaux qui gagnent des récompenses différentes — ce guide associe chacun aux trajets que vous avez planifiés. Dans le rapport H1 2025 d'Ookla pour la Nouvelle-Zélande, One NZ a été nommé meilleur réseau mobile, tandis que Spark était le réseau 5G le plus rapide et 2degrees menait sur la constance et le haut débit fixe. Où vous roulez décide lequel mérite vos données. Que voit l'assistance Roami le plus souvent dans sa boîte de réception pour la Nouvelle-Zélande ? Les mêmes pannes que détaillent les sections couverture et enregistrement ci-dessous.
+
+**Réponse rapide :** One NZ si vous vous déplacez à travers la Nouvelle-Zélande, Spark si vous restez basé dans une seule ville. Vitesses, prix et les petites lignes d'enregistrement ci-dessous soutiennent ce partage — commencez à la [page de compatibilité](/compatibility/) pour écarter les problèmes de combiné.
+
+Un prérequis de dix secondes : confirmez que votre combiné est compatible eSIM via la [page de compatibilité eSIM](/compatibility/), et parcourez [comment fonctionne l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) si le processus vous est nouveau.
+
+**En bref :** Vous restez à Auckland, Wellington ou Christchurch ? One NZ a remporté le prix du meilleur réseau mobile et atteint 60,9 % de disponibilité 5G, la plus haute des trois. Vous consommez beaucoup de vidéo ou roulez dans l'île du Sud ? Spark détient la 5G la plus rapide et la portée rurale la plus large, et sa sous-marque Skinny vend l'eSIM au gigaoctet le moins cher sur ce même réseau. Vous voulez une eSIM opérateur en tant que visiteur ? Les trois MNO vendent maintenant des eSIM prépayées directement, et Skinny est la seule vraie marque économique. Ou évitez la paperasse : l'[essai de données gratuit](/free-esim/) teste les réseaux sans frais, et le code **WEB20** retire 20 % des [forfaits eSIM prépayés Nouvelle-Zélande](/new-zealand-esim/).
+
+## Quels réseaux néo-zélandais acceptent les eSIM visiteurs ?
+
+Cette section règle la première question que chaque visiteur pose : sur quels réseaux vous pouvez réellement acheter une eSIM prépayée, et de savoir si une ligne à un seul opérateur ou un profil de voyage est le plus intelligent pour votre route.
+
+### One NZ vs Spark : lequel est meilleur en Nouvelle-Zélande ?
+
+| | One NZ | Spark | 2degrees |
+|:---|:---|:---|:---|
+| Disponibilité eSIM visiteur | Oui, commandé en ligne, installé par QR avant le vol | Oui, eSIM uniquement en ligne via Travel Packs | Oui, sur combinés sélectionnés en appli ou magasin |
+| Force de pointe | Prix du meilleur réseau mobile, plus haute disponibilité 5G | 5G la plus rapide, portée rurale et ouest la plus forte | Réseau le plus constant, haut débit fixe le plus rapide |
+| Moyen le moins cher sur le réseau | Travel SIM 29 $ pour 2 GB sur 30 jours | Travel Pack 29 $ pour 2 GB sur 90 jours | Unlimited Travel SIM dès 24 $ pour 3 jours |
+| Comment les visiteurs l'achètent | ★★★ — QR en ligne, pas de passeport nécessaire | ★★★ — eSIM uniquement en ligne, packs 90 jours | ★★★ — carte SIM visiteur, retrait aéroport et magasin |
+
+**Lisez ce tableau attentivement, car il contient le fait le plus utile de cette page :** la Nouvelle-Zélande est inhabituellement accueillante pour les visiteurs. Contrairement aux marchés où les grands réseaux se cachent derrière des sous-marques, les trois opérateurs nationaux vendent une eSIM prépayée qu'un visiteur international peut acheter directement, sans enregistrement passeport ni adresse locale. One NZ a été le vainqueur absolu du prix du meilleur réseau mobile d'Ookla pour le H1 2025, Spark était le réseau 5G le plus rapide, et 2degrees affichait les meilleurs scores de constance et haut débit fixe.
+
+### Quelles sous-marques proposent des eSIM en Nouvelle-Zélande ?
+
+La seule vraie sous-marque économique de Nouvelle-Zélande est Skinny, qui roule sur le réseau de Spark et atteint les mêmes zones rurales pour moins cher.
+
+| Marque | Réseau utilisé | eSIM pour visiteurs | À qui elle convient |
+|:---|:---|:---|:---|
+| Skinny | Spark | Oui, achetée dans l'appli, activée en composant 456 après l'atterrissage | Moyen le moins cher au gigaoctet de rouler sur le réseau rural de Spark |
+| One NZ prépayé | One NZ | Oui, commandé en ligne, installé par QR avant le vol | Voyageurs voulant le prix du meilleur réseau mobile |
+| 2degrees prépayé | 2degrees | Oui, sur combinés sélectionnés, en appli ou magasin | Séjours ville où 2degrees est fort et bon marché |
+| Spark Travel Packs | Spark | Oui, eSIM uniquement en ligne, validité 90 jours | Road trips qui quittent les villes |
+
+Deux mises en garde. D'abord, une sous-marque ou un forfait économique qui loue la capacité Spark ou 2degrees reste lié à un réseau, aussi montre-t-il les mêmes trous que la maison dès que vous quittez les routes principales. Ensuite, aucune de ces marques ne vend de produit "sans démarche" battant une eSIM de voyage pour la commodité, car chacune veut encore une étape d'activation néo-zélandaise et une carte de paiement.
+
+### Pouvez-vous acheter une eSIM Nouvelle-Zélande auprès de One NZ ?
+
+| | Directement d'un opérateur néo-zélandais | eSIM de voyage sur un réseau néo-zélandais |
+|:---|:---|:---|
+| Ce dont vous avez besoin | Téléphone débloqué, carte de paiement, parfois un numéro local | Un téléphone compatible, débloqué |
+| Comment le profil arrive | QR par e-mail, installation en appli, ou retrait magasin | Code QR ou installation appli immédiatement après le paiement |
+| Coût type 10 GB | Environ 49 $ NZD pour un pack 60 à 90 jours | Un prix unique à l'avance, sans frais de carte SIM |
+| Accès réseau | Un opérateur | Basculement automatique entre One NZ, Spark et 2degrees |
+| Idéal pour | Séjours d'un mois ou plus, ou quiconque a besoin d'un numéro local | Voyages de jours à semaines, et quiconque veut être en ligne à l'atterrissage |
+
+Pour un séjour standard, l'eSIM de voyage l'emporte clairement sur le plan du prix. Un forfait prépayé local est conçu pour les résidents voulant un numéro néo-zélandais et une facturation mensuelle ; une eSIM de voyage achète des données en gros et laisse l'appareil se déplacer entre réseaux. Là où l'opérateur gagne est la longévité et la voix, un vrai numéro local et des appels nationaux illimités, ce qui ne compte qu'une fois installé en Nouvelle-Zélande.
+
+💡 Un profil eSIM multi-réseaux est la voie médiane pratique : l'[eSIM Nouvelle-Zélande de Roami](/new-zealand-esim/) garde la commodité de la livraison instantanée, bascule automatiquement entre One NZ, Spark et 2degrees, et vous pose encore sur Spark en montagne et One NZ en ville sans acheter deux fois.
+
+## Votre combiné est-il prêt pour une eSIM Nouvelle-Zélande ?
+
+Trois choses décident si votre téléphone fonctionne sur un opérateur néo-zélandais : ses bandes, son état de verrouillage, et l'arrêt de la 3G qui a changé les règles de la voix en 2026. Les trois sont couverts ci-dessous.
+
+### Votre téléphone est-il compatible eSIM pour la Nouvelle-Zélande ?
+
+Les opérateurs néo-zélandais construisent leur 4G sur la bande 1 à 2100 MHz, la bande 3 à 1800 MHz, et la bande 28 à 700 MHz pour la couverture basse bande qui compte hors des villes. Leur 5G siège sur n78 à 3,5 GHz, avec un peu de n40 à 2300 MHz en zones denses. La bande que les visiteurs manquent le plus souvent est la bande 28, car elle porte le signal dans les vallées et le long des routes de montagne de l'île du Sud.
+
+Inutile d'apprendre les tableaux de bandes par cœur. Recherchez le numéro de modèle plutôt que le nom marketing dans la [liste de compatibilité des appareils](/compatibility/) ; c'est la version qui décide. À savoir avant un long vol : [ce qu'est l'activation eSIM et comment elle fonctionne](/faq/what-is-esim-activation-and-how-does-it-work/) décrit le téléchargement qui transforme la puce en ligne de travail.
+
+### Quels sont les réseaux néo-zélandais ?
+
+Un téléphone verrouillé est la raison la plus courante pour qu'une installation eSIM néo-zélandaise échoue simplement, et la Nouvelle-Zélande a une règle inhabituellement légère ici : il n'y a pas de loi d'enregistrement de carte SIM, aussi une ligne prépayée s'active sans passeport, et le seul verrou qui vous bloque est celui que votre opérateur domestique a mis sur le combiné.
+
+**Vérifiez-le :** sur iPhone, ouvrez Réglages, puis Général, puis À propos, puis Verrouillage opérateur. « Aucune restriction SIM » est exactement ce que vous voulez voir avant d'acheter. S'il indique « SIM verrouillée », aucune eSIM externe ne s'installera tant que cela ne change pas.
+
+**Corrigez-le :** la demande de déverrouillage revient au magasin ou à l'opérateur qui a vendu l'appareil à l'origine. Un téléphone hors contrat est généralement déverrouillé en quelques heures, et normalement pour rien. N'essayez d'installer votre eSIM qu'après.
+
+Si vous avez acheté un téléphone d'occasion, ou un téléphone d'un marché hors Nouvelle-Zélande, supposez qu'il peut être verrouillé et vérifiez avant de prendre l'avion. La Nouvelle-Zélande a aussi mis fin à la 3G en 2026, ce qui signifie qu'un téléphone ne faisant que la 4G données sans VoLTE perd la capacité de passer des appels, aussi la vérification de verrouillage n'est que la moitié de l'histoire.
+
+### Mon combiné peut-il utiliser une eSIM Nouvelle-Zélande ?
+
+| Appareil | Symptôme | Que faire |
+|:---|:---|:---|
+| Modèles iPhone de Chine continentale | Aucune option « Ajouter eSIM » du tout, le matériel est désactivé sur ce marché | Irréparable, utilisez une carte SIM physique ou un autre appareil |
+| Samsung acheté opérateur | eSIM grisée dans les réglages | Demandez à l'opérateur de le déverrouiller d'abord, puis redémarrez |
+| Téléphone sans bande 28 | Rapide en ville, 4G uniquement et faible dans les vallées rurales | Attendu, appuyez sur Spark qui utilise fortement la bande 28 |
+| Combiné non compatible VoLTE | Les données fonctionnent mais pas d'appels, y compris 111 | Activez VoLTE ou gardez un secours pour les urgences |
+| Utilisateurs double-SIM | eSIM installée mais pas de données | Définissez l'eSIM comme ligne utilisée pour les données mobiles |
+
+Le reste tient à votre combiné plutôt qu'à Spark ou One NZ. Avant d'acheter, passez votre modèle dans le [vérificateur de compatibilité eSIM](/compatibility/) ; cela prend une minute.
+
+## Combien coûtent les eSIM en Nouvelle-Zélande ?
+
+Quatre routes existent, et elles diffèrent plus par la paperasse que par le prix : Spark via ses Travel Packs, One NZ via sa Travel SIM prépayée, 2degrees via son Unlimited Travel SIM, et Skinny sur le réseau Spark pour l'acheteur économique. Chaque route, étape par étape :
+
+### Où acheter une eSIM en Nouvelle-Zélande ?
+
+Les forfaits grand public de Spark ne visent pas les visiteurs, mais ses Travel Packs, eux, si : ils sont vendus comme eSIM uniquement via le site web. Les visiteurs internationaux sont dirigés droit vers ce produit, conçu pour un court séjour.
+
+**Spark Travel Pack, étape par étape :**
+
+1. Ouvrez la page Spark Travel Pack et choisissez un forfait prépayé ; l'eSIM est le seul mode de livraison vendu en ligne.
+2. Choisissez la formule données-seules ou le pack tout inclus portant aussi appels et SMS.
+3. Payez avec une carte fonctionnant en Nouvelle-Zélande ; le profil arrive par e-mail comme code QR.
+4. Scannez le code sur Wi-Fi avant le vol, puis il se connecte dès l'atterrissage.
+
+Les Travel Packs tout inclus de Spark fonctionnent sur une validité de 90 jours et le niveau d'entrée est **29 $ NZD pour 2 GB** avec 200 min et SMS NZ et 100 internationaux. Le niveau **49 $ NZD** donne 10 GB avec appels illimités NZ et Australie et 200 min internationales, le niveau **79 $ NZD** donne 50 GB avec 300 min internationales, et le niveau **129 $ NZD** donne 120 GB qui ralentit après l'enveloppe. Les packs données-seules démarrent à **15 $ NZD pour 5 GB** et montent à 89 $ NZD pour 100 GB. Lu au gigaoctet, l'écart se creuse avec le volume : 29 $ pour 2 GB font environ 14,50 $ NZD le Go, contre environ 1,60 $ le Go sur le pack 79 $ pour 50 GB — neuf fois moins pour le même réseau.
+
+| Forfait | Données | Appels et SMS | Validité | Prix (NZD) |
+|:---|:---|:---|:---|:---|
+| Travel Pack | 2 GB | 200 min et SMS NZ, 100 international | 90 jours | 29 $ |
+| Travel Pack | 10 GB | Illimité NZ et AU, 200 international | 90 jours | 49 $ |
+| Travel Pack | 50 GB | Illimité NZ et AU, 300 international | 90 jours | 79 $ |
+| Travel Pack | 120 GB | Illimité NZ et AU, 300 international, vitesse réduite après | 90 jours | 129 $ |
+| eSIM data uniquement | 5 GB à 100 GB | Aucun | 90 jours | 15 $ à 89 $ |
+
+Spark commercialise explicitement ces Travel Packs pour les personnes visitant la Nouvelle-Zélande, et liste le support eSIM pour iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, et Samsung Galaxy S20 et ultérieurs. Vérifiez votre modèle avant d'acheter.
+
+### Carte SIM locale ou eSIM visiteur en Nouvelle-Zélande ?
+
+One NZ, le réseau anciennement appelé Vodafone, vend une Travel SIM prépayée qu'un visiteur international peut commander en ligne et installer par QR avant le départ, ou retirer comme carte SIM physique en magasin.
+
+Pour une ligne One NZ elle-même, la voie visiteur est la Travel SIM prépayée plutôt qu'un contrat postpayé :
+
+| Forfait | Données | Appels et SMS | Validité | Prix (NZD) |
+|:---|:---|:---|:---|:---|
+| Travel SIM | 2 GB | 200 min et SMS NZ | 30 jours | 29 $ |
+| Travel SIM | 10 GB | Illimité NZ, 200 min internationales | 60 jours | 49 $ |
+| Travel SIM | 40 GB | Illimité NZ, 200 min internationales | 90 jours | 69 $ |
+
+One NZ a déployé proprement son support eSIM : apportez un appareil compatible eSIM, commandez la Travel SIM, et elle s'installe par QR. L'astuce est que le niveau d'entrée 2 GB est un produit de 30 jours tandis que les packs plus grands courent 60 à 90 jours, aussi adaptez la validité à votre voyage plutôt qu'aux seules données.
+
+### Combien coûtent les forfaits eSIM Nouvelle-Zélande ?
+
+2degrees vend un Unlimited Travel SIM conçu uniquement pour les visiteurs, avec données, appels et SMS illimités vers les numéros néo-zélandais et australiens. Il est disponible dans les aéroports, magasins 2degrees et un partenaire qui expédie dans le monde, et l'eSIM est livrée par QR via le portail travel-sim.
+
+| Durée | Prix (NZD) | Ce que vous obtenez |
+|:---|:---|:---|
+| 3 jours | 24 $ | Données, appels, SMS illimités vers NZ et AU |
+| 7 jours | 35 $ | Données, appels, SMS illimités vers NZ et AU |
+| 10 jours | 50 $ | Données, appels, SMS illimités vers NZ et AU |
+| 14 jours | 60 $ | Données, appels, SMS illimités vers NZ et AU |
+| 21 jours | 80 $ | Données, appels, SMS illimités vers NZ et AU |
+| 30 jours | 95 $ | Données, appels, SMS illimités vers NZ et AU |
+
+2degrees note que ce produit est pour les visiteurs uniquement et ne peut être transféré vers un forfait prépayé standard, aussi est-ce un outil propre de court séjour. Si vous voulez la couverture 2degrees comme ligne type résident, son eSIM prépayée ordinaire commence à 8 $ NZD par mois pour 150 MB jusqu'à 25 $ NZD pour 3 GB. Skinny, sous-marque économique de Spark, est le moyen le moins cher de rouler sur le réseau de Spark : son forfait populaire de quatre semaines est **17 $ NZD** avec 1,5 GB qui se reportent, et vous achetez l'eSIM dans l'appli Skinny, puis composez 456 après l'atterrissage pour activer.
+
+### Que préparer avant d'acheter une eSIM Nouvelle-Zélande ?
+
+- **IMEI** — composez `*#06#`
+- **EID** — aussi depuis l'écran `*#06#`, l'identifiant propre de l'eSIM
+- **Carte de paiement** — certaines caisses opérateur rejettent les adresses de facturation étrangères
+- **Téléphone débloqué** — le champ Verrouillage opérateur sous Réglages -> Général -> À propos doit dire Aucune restriction SIM
+- **Vérification VoLTE** — envoyez `3G` à `550` pour confirmer que votre combiné garde l'appel après l'arrêt
+- **Partage de connexion** — confirmez que le forfait l'inclut avant de diffuser la connexion à un ordinateur
+- **Wi-Fi** — installez le profil avant le vol, pas à l'aéroport
+
+Les forfaits et niveaux actuels vivent sur notre [page forfaits Nouvelle-Zélande](/new-zealand-esim/). Réglez le profil à la maison, car c'est pendant le long vol que vous ne voudrez rien avoir à faire.
+
+## Quels débits offrent One NZ et Spark ?
+
+Deux questions règlent cette section : comment chaque réseau se comporte là où vous êtes réellement, et quel type de voyage vous faites. Les chiffres Ookla ci-dessous répondent au premier ; les tableaux par type de voyage et par région au second.
+
+### One NZ vs Spark : quel opérateur néo-zélandais est plus rapide ?
+
+Tous les chiffres ci-dessous proviennent du rapport de connectivité Speedtest d'Ookla pour la Nouvelle-Zélande, période de collecte janvier à juin 2025, et sont des mesures au niveau national tirées des données opérateur fournies pour ce guide.
+
+| Métrique | One NZ | 2degrees | Spark |
+|:---|:---|:---|:---|
+| Score de connectivité Speedtest | 74,58 (meilleur) | 72,85 | 72,59 |
+| Score de vitesse | 65,77 | 65,24 | 63,53 |
+| Score de constance | 86,3 | 91 (meilleur) | 86,1 |
+| Disponibilité 5G | 60,9 % (la plus haute) | 37 % | 30,6 % |
+| Score de streaming vidéo | 74,6 | 74,61 | 72,58 |
+| Score de jeu | 79,3 (meilleur) | 78,47 | 77,18 |
+| Note 5 étoiles | 3,01 | 3,2 (meilleur) | 3,16 |
+
+Source : rapport de connectivité Speedtest d'Ookla, Nouvelle-Zélande, janvier à juin 2025, [le rapport par opérateur](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025). Le score de connectivité combine vitesse, web et expérience vidéo ; le score de constance est la part des échantillons atteignant un seuil de 5 Mbps descendant et 1 Mbps montant.
+
+Deux choses à remarquer : One NZ mène sur le score de connectivité global et la disponibilité 5G, qui est exactement la métrique qui compte une fois hors des villes, tandis que 2degrees gagne la constance et Spark traîne sur la disponibilité 5G car sa 5G est concentrée en zone urbaine. Sur le même rapport, Wellington était la plus rapide des villes peuplées de Nouvelle-Zélande à une médiane mobile de 186,4 Mbps, Dunedin deuxième et Christchurch troisième, et Lower Hutt la plus lente à 79,03 Mbps.
+
+Pour le contexte du pays, l'[indice Speedtest Global d'Ookla](https://www.speedtest.net/global-index/new-zealand) plaçait la Nouvelle-Zélande autour de 27e mondial pour la médiane mobile de 2025 à environ 200 Mbps, bien au-dessus de la médiane mondiale. Sur le haut débit fixe, 2degrees était le FAI le plus rapide avec une médiane de 220,52 Mbps, devant Spark à 192,98 Mbps, et Cable.co.uk tarife 1 GB de données néo-zélandaises à environ USD 5,89, ce qui rend les données locales d'un prix moyen plutôt que bon marché.
+
+### Quelle eSIM Nouvelle-Zélande pour votre type de voyage ?
+
+| Type de voyage | Opérateur recommandé | La raison | À surveiller |
+|:---|:---|:---|:---|
+| Pause ville, Auckland, Wellington, Christchurch | One NZ ou Spark | Tous deux excellents en centre-ville ; One NZ a remporté le meilleur réseau mobile | La disponibilité 5G de Spark est plus faible hors du centre |
+| Road trip, île du Sud, Fiordland, West Coast | Spark | Plus large portée rurale et usage le plus lourd de la bande 28 | Milford Road a encore un trou noir de 120 km |
+| Vidéo, streaming, jeu | One NZ ou Spark | One NZ meilleur score jeu à 79,3, Spark 5G la plus rapide | Les débits montants traînent le téléchargement |
+| Voyageur économique | Skinny sur Spark | Forfait quatre semaines à 17 $, moins cher au gigaoctet | Lié à un réseau, pas de basculement |
+| Voyage affaires et appels | One NZ ou Spark | Fiable et large, vrai numéro local | Les eSIM de voyage sont data uniquement, pas de numéro local |
+| Road trip multi-régions | Une eSIM multi-réseaux | Bascule au mouvement | Les forfaits à un opérateur montrent des trous entre régions |
+
+### One NZ vs Spark : quelle est la meilleure couverture ?
+
+La couverture néo-zélandaise suit la population : dense dans les centres principaux, s'effilant vite le long des routes de montagne et disparaissant dans les fjords. Ce que cela signifie route par route :
+
+| Région | Réalité sur le terrain |
+|:---|:---|
+| Auckland et le nord | 5G sur les trois réseaux dans les villes, et elle tient le long des autoroutes entre elles. Les étirements ruraux du Northland et la East Cape le long de SH35 ont de longs angles morts côtiers sans signal fiable. |
+| Wellington et le bas de l'île du Nord | Les villes sont la partie la plus forte de la carte, avec une bonne couverture autoroutière entre. Le Central Plateau et la Desert Road montrent des trous une fois quitté les villes. |
+| Canterbury et le Mackenzie | Bon où vivent les gens ; inégal une fois la population s'étale. L'autoroute du mont Cook perd le signal dans les 20 km finaux vers Aoraki. |
+| Queenstown et les Alpes du Sud | Les villes de vallée et stations de ski sont couvertes ; au-dessus de la limite des arbres cela tombe. Milford Road et les cols de la West Coast portent les pires trous noirs. |
+| West Coast et Fiordland | La couverture suit les agglomérations ; attendez des zones mortes sur les longs tronçons entre. Haast Pass et Arthur's Pass comptent chacun 65 à 100 km avec quasi rien. |
+| Great Walks | Les pistes Milford, Routeburn et Kepler n'ont aucune couverture cellulaire utilisable, et la plupart des refuges du Department of Conservation n'ont aucune réception. Téléchargez les cartes hors ligne avant de commencer. |
+
+Planifiez un voyage qui quitte la Nouvelle-Zélande ? Commencez avec [eSIM pour l'Australie](/australia-esim/), comparez [forfaits eSIM Fiji](/fiji-esim/), ou regardez [eSIM Singapour](/singapore-esim/). Si votre itinéraire franchit les océans plus d'une fois, une [eSIM Océanie](/oceania-esim/) vous évite d'acheter deux fois.
+
+Rien de tout cela ne demande de surveillance tant que la sélection de réseau reste automatique. Un profil pouvant passer entre One NZ, Spark et 2degrees couvre les trous régionaux qu'aucun forfait à un opérateur ne peut.
+
+## Quels sont les APN des opérateurs néo-zélandais ?
+
+La plupart des voyageurs n'ouvrent jamais l'écran APN, aussi est-ce le premier suspect naturel le jour où les données s'arrêtent. Ci-dessous : les valeurs pour les trois opérateurs plus Skinny, quand la saisie manuelle est vraiment requise, et les chemins de menu exacts.
+
+### Quelles valeurs APN pour One NZ, Spark et 2degrees ?
+
+Vous n'en aurez besoin que si vous avez acheté une carte SIM ou eSIM **directement d'un opérateur néo-zélandais**. Les profils de voyage arrivent avec leur APN déjà réglé, et le modifier à la légère est le moyen le plus rapide de perdre des données.
+
+| Opérateur | APN | Nom d'utilisateur | Mot de passe |
+|:---|:---|:---|:---|
+| One NZ | `vodafone` | vide | vide |
+| Spark | `internet` | vide | vide |
+| 2degrees | `2degrees` | vide | vide |
+| Skinny | `internet` | vide | vide |
+
+Laissez nom d'utilisateur et mot de passe vides. Si un réseau veut un champ rempli, le document accompagnant le profil le nomme.
+
+### Comment configurer l'APN des opérateurs néo-zélandais ?
+
+- Un combiné trop ancien pour capter les paramètres opérateur seul
+- Un profil installé via code d'activation manuel plutôt qu'un scan QR
+- Une eSIM prépayée émise par opérateur où la configuration automatique n'a pas tourné
+- Presque jamais sur une eSIM de voyage, ce qui est le point d'un profil géré
+
+### Quand l'APN automatique échoue-t-il en Nouvelle-Zélande ?
+
+- **iPhone :** Réglages, puis Cellulaire, appuyez sur la ligne eSIM, puis Réseau de données cellulaires, puis saisissez l'APN
+- **Android :** Réglages, puis Connexions, puis Réseaux mobiles, puis Noms des points d'accès, puis ajoutez un nouvel APN
+
+Après l'enregistrement, redémarrez le téléphone. Quand les données refusent de circuler, vérifiez que l'eSIM est définie comme ligne de données avant toute autre chose.
+
+## Comment activer votre eSIM et corriger les pannes ?
+
+Une passe à travers cette section vous mène d'une installation propre à une connexion de données fonctionnelle, et couvre les schémas de panne qu'un réseau néo-zélandais peut réellement produire, dans l'ordre où vous les rencontrerez.
+
+### Comment installer une eSIM Nouvelle-Zélande sur votre téléphone ?
+
+| # | Vérification | À quoi le bon ressemble |
+|:---|:---|:---|
+| 1 | Téléphone non verrouillé opérateur | Aucune restriction SIM visible sous Verrouillage opérateur |
+| 2 | Téléphone compatible eSIM | `*#06#` montre un EID, ou l'[outil de recherche de compatibilité](/compatibility/) confirme votre modèle |
+| 3 | Code QR et code d'activation sauvegardés | Capture d'écran stockée sur le téléphone et dans le stockage cloud |
+| 4 | Profil installé avant le départ | Installez sur Wi-Fi à la maison, le profil se connecte à l'atterrissage |
+| 5 | Ligne de données et itinérance réglées | eSIM sélectionnée pour les données mobiles, itinérance des données activée |
+
+Faites l'étape 4 à la maison. Les halls d'arrivée d'Auckland et Christchurch ont un Wi-Fi congestionné exactement quand vous en avez le plus besoin, et un profil installé sur place se dispute le même réseau que tous les autres arrivants.
+
+### Comment passer de l'installation à la connexion ?
+
+La version pas à pas complète, y compris l'activation de l'itinérance à la fin, est dans notre [guide d'activation](/faq/how-to-activate-an-esim/). Ce qui diffère par opérateur :
+
+- **Spark :** activé depuis l'e-mail Travel Pack ; eSIM uniquement en ligne, scan et installation sur Wi-Fi
+- **One NZ :** commandé en ligne, installé par QR avant le vol, ou carte SIM physique en magasin
+- **2degrees :** Unlimited Travel SIM livrée par QR via le portail travel-sim, jours ajoutés après l'atterrissage
+- **Skinny :** acheté dans l'appli, puis composez 456 après l'arrivée pour finir l'activation
+- **eSIM de voyage :** installé par code QR, et le même profil itinère sur le plus fort de One NZ, Spark ou 2degrees
+
+### Que faire quand votre eSIM Nouvelle-Zélande ne fonctionne pas ?
+
+Les erreurs d'activation générales, un profil qui ne se télécharge pas, un scan qui échoue, une eSIM qui s'installe mais ne s'enregistre jamais, sont couvertes dans notre [guide de dépannage d'activation](/faq/esim-activation-errors-troubleshooting-guide/). Les quatre schémas ci-dessous sont les spécifiques à la Nouvelle-Zélande.
+
+**A. L'eSIM ne s'installera pas**
+1. Dans À propos, confirmez que Verrouillage opérateur dit Aucune restriction SIM
+2. Le code QR fonctionne généralement une seule fois, aussi scannez-le soigneusement la première fois
+3. Un message rapide au réseau peut confirmer que le profil n'est pas bloqué en attente
+
+**B. Installée, mais aucune barre de signal**
+1. Revérifiez l'état de verrouillage
+2. Réglages, Cellulaire, Sélection du réseau, choisissez One NZ, Spark ou 2degrees manuellement plutôt qu'automatique
+3. Purgez les réglages réseau enregistrés, puis redémarrez le téléphone
+
+**C. Barres de signal, mais pas d'internet**
+1. Relisez le tableau ci-dessus et assurez-vous que chaque champ correspond
+2. Vérifiez que la ligne de données active pointe bien sur l'eSIM plutôt que sur votre carte SIM locale
+3. Rappelez-vous qu'un profil voyage données-seules ne reçoit pas de SMS, aussi les codes bancaires arrivent encore sur votre numéro local
+
+**D. Vous êtes dans un trou noir Fiordland ou de montagne**
+1. C'est la géographie, pas une panne ; aucun forfait ne crée de signal là où il n'y en a pas
+2. Basculez sur Spark si vous êtes sur un autre réseau, car Spark utilise le plus la bande 28 pour la portée rurale
+3. Ouvrez les cartes hors ligne téléchargées avant de quitter Te Anau ou la dernière ville
+
+### Que rassembler avant de contacter le support néo-zélandais ?
+
+| Détails demandés | Où regarder |
+|:---|:---|
+| Numéro de commande ou de compte | E-mail de confirmation |
+| Modèle de téléphone et version OS | Réglages, À propos |
+| EID | `*#06#` |
+| Capture de l'erreur | Prenez-la avant que l'écran ne change |
+| Paramètres APN actuels | Réglages, Réseau de données cellulaires |
+| État d'itinérance des données | Réglages, Cellulaire, votre ligne eSIM |
+| Étapes déjà essayées | Gardez une courte liste |
+
+## One NZ, Spark et 2degrees : que proposent-ils aux visiteurs ?
+
+### Quels forfaits eSIM One NZ pour les visiteurs ?
+
+Oui : la Travel SIM prépayée, commandable en ligne et installable par QR avant le départ, sans passeport ni adresse locale. Les niveaux vont de 29 $ NZD pour 2 GB sur 30 jours à 69 $ NZD pour 40 GB sur 90 jours, et le profil arrive par e-mail comme code QR qui se connecte à l'atterrissage.
+
+### One NZ vend-il une eSIM touristique pour les courts séjours ?
+
+Oui. One NZ, le réseau autrefois appelé Vodafone, vend une Travel SIM prépayée qu'un visiteur international peut commander en ligne et installer par QR avant le départ, avec des niveaux de 29 $ NZD pour 2 GB sur 30 jours à 69 $ NZD pour 40 GB sur 90 jours. En pratique, l'entrée 30 jours est plus courte que le pack 90 jours de Spark, aussi adaptez la validité à votre voyage.
+
+### L'Unlimited Travel SIM 2degrees est-il une vraie option eSIM ?
+
+Il l'est, et il est conçu uniquement pour les visiteurs. L'Unlimited Travel SIM donne données, appels et SMS illimités vers les numéros néo-zélandais et australiens pour trois à trente jours, tarifé de 24 $ NZD pour trois jours à 95 $ NZD pour trente jours, livré par QR via le portail travel-sim. Il ne peut être transféré vers un forfait prépayé standard, aussi traitez-le comme un outil propre de court séjour.
+
+### Quelle pièce d'identité faut-il pour une eSIM néo-zélandaise ?
+
+Presque aucune. La Nouvelle-Zélande n'a pas de loi d'enregistrement de carte SIM, aussi une eSIM prépayée s'active sans passeport, et la principale chose qui vous bloque est un téléphone encore verrouillé à votre opérateur domestique. Vous avez besoin d'un combiné débloqué et d'une carte de paiement acceptée par la caisse, et certains revendeurs peuvent demander un nom, mais les opérateurs eux-mêmes n'exigent pas d'enregistrement passeport pour les lignes prépayées.
+
+### Comment vérifier IMEI et EID de votre appareil ?
+
+Composez `*#06#` : l'écran affiche l'IMEI, et sur un appareil compatible eSIM l'EID juste en dessous — notez les deux avant d'acheter. Profitez-en pour vérifier le VoLTE : la Nouvelle-Zélande a retiré la 3G entre fin 2025 et le 31 mars 2026, et une fois la 3G partie, un combiné faisant la 4G données mais pas la voix sur LTE perd la capacité de passer des appels, y compris les appels d'urgence 111. Envoyez `3G` à `550` pour vérifier votre appareil, et sur iPhone confirmez que Réglages, Mobile, Options de données mobiles, Voix et données montre 4G ou 5G avec VoLTE activé.
+
+### Couverture rurale : One NZ vs Spark, qui couvre le mieux ?
+
+Spark, au vu des preuves, car il utilise le plus la bande 28 à 700 MHz pour la portée basse bande, et les voyageurs rapportent constamment le signal le plus large hors des villes. One NZ a remporté le prix du meilleur réseau mobile et mène sur la disponibilité 5G à 60,9 %, ce qui aide dans les villes couvertes, mais Spark est le réseau sur lequel s'appuient la plupart des randonneurs et campeurs de l'île du Sud. Aucun opérateur ne couvre le trou noir de Milford Road ni les Great Walks, aussi téléchargez les cartes hors ligne quoi qu'il arrive.
+
+### Quel opérateur a le plus grand réseau en Nouvelle-Zélande ?
+
+One NZ par les prix : il a remporté le titre de meilleur réseau mobile d'Ookla H1 2025 et mène la disponibilité 5G à 60,9 %. Mais en étendue rurale utile, Spark revendique la portée la plus large grâce à son usage intensif de la bande 28, et 2degrees reste le plus constant mais le plus urbain des trois. Le plus grand réseau dépend donc de la métrique : le plus récompensé en ville, le plus loin hors des routes.
+
+### Quelle couverture par région en Nouvelle-Zélande ?
+
+Dense dans les centres principaux — Auckland, Wellington, Christchurch — fiable le long des autoroutes qui les relient, plus fine sur les routes rurales de l'île du Sud, et absente des recoins touristiques reculés : Milford Road garde un trou noir continu d'environ 120 km entre Te Anau Downs et Milford Sound, le tunnel Homer de 1,2 km est une zone morte dure, et les sentiers Milford, Routeburn et Kepler comme la plupart des refuges du Department of Conservation n'ont aucune réception. Un téléphone n'est pas un dispositif de sécurité à lui seul : associez une eSIM de voyage à des cartes hors ligne et, sur les sentiers reculés, une balise de localisation personnelle louée au DOC à Te Anau ou Queenstown.
+
+### Quels appareils ont des problèmes d'eSIM en Nouvelle-Zélande ?
+
+Vérifiez votre modèle exact, pas le nom de magasin, contre le [vérificateur de compatibilité eSIM](/compatibility/), et confirmez qu'il a la bande 28 à 700 MHz pour la portée rurale plus n78 pour la 5G. Si la liste de bandes est intimidante, le vérificateur est la voie rapide ; la plupart des iPhone XS et ultérieurs, Pixel 3 et ultérieurs et Galaxy S20 et ultérieurs vont bien en ville et sont faibles seulement dans les vallées.
+
+### Devez-vous acheter auprès d'un opérateur néo-zélandais ou utiliser une eSIM de voyage ?
+
+Direct signifie un réseau, approvisionnement émis par opérateur, et souvent un numéro local et appels illimités ; en échange vous faites l'étape d'activation et parfois un obstacle carte de paiement. Une eSIM de voyage signifie livraison instantanée, pas de paperasse, basculement automatique entre One NZ, Spark et 2degrees, et un prix fixe à l'avance. Court séjour : eSIM de voyage. Mois en Nouvelle-Zélande, ou vous avez besoin d'un numéro local : direct.
+
+### Comment activer votre eSIM sur One NZ, Spark et 2degrees ?
+
+L'activation suit la même séquence partout : scanner le QR code, étiqueter la ligne, la définir comme ligne de données, activer l'itinérance. Les différences tiennent à la livraison : Spark active depuis l'e-mail Travel Pack, One NZ s'installe par QR avant le vol, 2degrees livre par QR via le portail travel-sim, et Skinny se finalise en composant 456 après l'atterrissage. Si la ligne s'installe mais ne fonctionne pas, parcourez les schémas néo-zélandais ci-dessus dans l'ordre — état de verrouillage, sélection de réseau, APN et ligne de données, puis réinstallation de profil — et le [guide de dépannage erreurs eSIM](/faq/esim-activation-errors-troubleshooting-guide/) couvre le reste. Rassemblez l'EID, votre numéro de commande et une capture avant de soulever le ticket.
+
+### Que fait réellement l'eSIM dans votre téléphone ?
+
+Une eSIM supprime la carte plastique : une puce dans le téléphone détient le profil opérateur à la place. Votre opérateur remet un profil, le téléphone le stocke sur la puce intégrée, et dès lors il fonctionne comme une carte SIM normale. [Comment fonctionne l'installation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) couvre la mécanique complète, serveurs SM-DP+ inclus, plus la règle à usage unique derrière le code.
+
+Plus de questions ? [Index FAQ complet](/faq/)
+
+## Questions courantes avant de choisir une eSIM Nouvelle-Zélande
+
+### Mon téléphone actuel prendra-t-il une eSIM néo-zélandaise ?
+
+Si le téléphone date de 2020 ou après, il fonctionnera presque certainement ; les verrouillages opérateur et le matériel de Chine continentale font exception. Lancez la [vérification de compatibilité eSIM](/compatibility/) avant de payer quoi que ce soit.
+
+### Comment vérifier les promesses de couverture des opérateurs ?
+
+Recoupez les sections opérateur ci-dessus avec les données de vitesse que nous citons, puis testez avant de vous engager : l'[eSIM d'essai](/free-esim/) de Roami roule sur les mêmes réseaux et vous montre le signal réel là où vous restez réellement.
+
+### Quelle est l'erreur qui gâche les voyages néo-zélandais ?
+
+Atterrir sans connectivité, puis batailler avec le Wi-Fi d'aéroport pour un correctif. Installez et activez votre eSIM néo-zélandaise la veille du vol — tout le processus est couvert ci-dessus et prend quelques minutes.
+
+## Nos sources pour ce guide eSIM Nouvelle-Zélande
+
+- Les chiffres au niveau opérateur reposent sur le **rapport de connectivité Speedtest d'Ookla pour la Nouvelle-Zélande, janvier à juin 2025** — [le rapport par opérateur](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025) fournit le score de connectivité de 74,58 d'One NZ et sa disponibilité 5G de 60,9 %, la constance de 91 de 2degrees, la 5G la plus rapide de Spark et la médiane ville de Wellington de 186,4 Mbps.
+- Les dates de retrait 3G de décembre 2025 au 31 mars 2026 et l'exigence VoLTE sont expliquées par la **New Zealand Telecommunications Forum** — [l'explication de l'arrêt 3G](https://www.tcf.org.nz/digital-living/understanding-the-3g-shutdown), avec son service de vérification public à 3gshutdown.co.nz.
+- La transition 3G, et le point que la 4G n'est pas un remplacement un-pour-un surtout pour les appels 111, est documentée par la **Commerce Commission** — [le régulateur néo-zélandais](https://www.comcom.govt.nz/).
+- Le prix moyen d'environ USD 5,89 par gigaoctet de Nouvelle-Zélande provient de **Cable.co.uk prix des données mondiales** — [la table pays complète](https://www.cable.co.uk/mobiles/worldwide-data-pricing/).
+- Prix des forfaits, modes de livraison et règles d'identification proviennent des opérateurs : [Spark Travel Packs](https://www.spark.co.nz/online/shop/mobile-plans/travel-pack), [One NZ prépayé](https://one.nz/prepay/), [2degrees Unlimited Travel SIM](https://www.2degrees.nz/mobile-plans/unlimited-travel-sim) et [Skinny](https://www.skinny.co.nz/). Quand possible, les données viennent des régulateurs et opérateurs directement, pas d'agrégateurs résumant la Nouvelle-Zélande.
+
+Mesures tierces uniquement. Le chiffre que vous voyez évoluera avec votre combiné, la bande en jeu, et la charge sur l'antenne locale.
+
+## Que régler sur votre eSIM avant le long vol ?
+
+L'eSIM Nouvelle-Zélande de Roami saute entre One NZ, Spark et 2degrees sans que vous touchiez un réglage. Échantillonnez-la avec l'[eSIM d'essai gratuite](/free-esim/), puis retirez 20 % des [forfaits eSIM Nouvelle-Zélande](/new-zealand-esim/) avec le code **WEB20**.
+
+[Achetez l'eSIM Nouvelle-Zélande](/new-zealand-esim/)
+
+*Offre d'introduction, nouveaux voyageurs*
+
+[Prenez l'essai NZ gratuit](/free-esim/)

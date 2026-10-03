@@ -1,284 +1,798 @@
 ---
-title: "去瑞士玩需要網路？一篇看懂 eSIM 怎麼挑最適合。"
-description: "需要瑞士的 eSIM？Roami 實測 Swisscom 和 Salt 的 5G 速度與覆蓋，根據旅行需求推薦最合適的方案。"
-date: "2026-06-17T06:15:09+00:00"
 
-keywords: "eSIM 瑞士，預付數據，5G 網路，瑞士電信，Swisscom，Salt，Ookla 報告"
-site_name: "Roami"
-brand_name: "Roami"
+title: "瑞士 eSIM 怎麼挑？Swisscom、Sunrise、Salt 比較"
+
+description: "瑞士 eSIM 要辦哪一家電信業者？Roami 依 Ookla 實測數據、預付卡規定與阿爾卑斯山區覆蓋，評比 Swisscom、Sunrise 與 Salt 的網速與資費，從蘇黎世、策馬特到冰川快線沿線逐段檢視，幫你選對瑞士 eSIM，登山列車也涵蓋。"
+
+image: "img/esim/carriers/switzerland-esim-carrier-guide.jpg"
+
+date: "2026-09-23T10:34:23+00:00"
+
+keywords: Switzerland eSIM carriers, Swisscom eSIM, Sunrise eSIM, Salt eSIM, Switzerland 5G coverage, Switzerland eSIM APN, eSIM Switzerland prepaid, best eSIM carrier Switzerland, Switzerland travel eSIM, Switzerland EU roaming
+
+site_name: Roami
+
+brand_name: Roami
+
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "瑞士 eSIM 指南"
-    url: ""
 
-# Hero 區塊文案
-hero_badge: "[🇨🇭] 瑞士 最新旅遊 eSIM 指南"
-hero_subtitle_main: "瑞士 eSIM：支援熱點分享"
-hero_subtitle_highlight: "Swisscom 與 Salt 頂級 5G 覆蓋"
-hero_description_line1: "瑞士 eSIM 支援流暢的 HD 影片串流與社群媒體使用，覆蓋機場、購物區與熱門景點，是極具性價比的數據選擇。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "瑞士 eSIM"
-hero_link_url: "/switzerland-esim/"
-tldr_summary: "【告別昂貴漫遊費：迎接全球自由通訊時代】前往瑞士旅遊，無需再負擔高額漫遊費。透過 Roami 瑞士 eSIM，您可即時啟用當地網路，享受 Swisscom 與 Salt 提供的頂級 5G 體驗。根據 Ookla 2025 上半年報告，Swisscom 中位 5G 下載速度達 178.25 Mbps，Salt 則提供最佳 5G 遊戲體驗。Roami eSIM 支援熱點分享，讓您在多裝置間自由切換，無論在蘇黎世、日內瓦或少女峰，都能保持高速連線。結論：選擇 Roami 瑞士 eSIM，就是選擇自由、經濟與高效的通訊方案。"
+- name: Roami
 
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "瑞士 eSIM 快速連結"
-sidebar_links:
+  url: /
 
-  - href: "#quick-picks"
-    text: "快速選擇：瑞士 該選哪家 eSIM 營運商？"
+- name: 瑞士 eSIM 指南
 
-  - href: "#operators"
-    text: "瑞士 最佳行動 eSIM 營運商總覽"
+  url: ''
 
-  - href: "#city-guide"
-    text: "城市指南：瑞士 最佳 eSIM"
+hero_badge: "瑞士 eSIM 比較：Swisscom、Sunrise 與 Salt"
 
-  - href: "#before-buy"
-    text: "購買 瑞士 eSIM 前須知"
-
-  - href: "#faq"
-    text: "瑞士 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "瑞士 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：瑞士 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Swisscom"
-    carrier_class: "text-red-600"
-    reason: "根據 Ookla 報告，Swisscom 為最快行動網路，中位 5G 下載 178.25 Mbps，適合大量數據傳輸與視訊會議。"
-
-  - travel: "遊戲玩家"
-    carrier: "Salt"
-    carrier_class: "text-yellow-600"
-    reason: "Salt 獲得最佳 5G 遊戲體驗評分，低延遲與高穩定性滿足即時對戰需求。"
-
-  - travel: "城市觀光客"
-    carrier: "Swisscom"
-    carrier_class: "text-red-600"
-    reason: "Swisscom 在蘇黎世、巴塞爾、伯恩等主要城市均為最快營運商，覆蓋率與速度表現最佳。"
-
-  - travel: "山區健行者"
-    carrier: "Swisscom"
-    carrier_class: "text-red-600"
-    reason: "Swisscom 在偏遠區域如阿爾卑斯山區提供較佳覆蓋，確保健行途中仍可保持連線。"
-
-  - travel: "預算有限旅客"
-    carrier: "Salt"
-    carrier_class: "text-yellow-600"
-    reason: "Salt 常提供更具競爭力的價格方案，同時在 5G 遊戲與串流體驗上表現優異，性價比高。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 瑞士 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "swisscom-esim"
-    title: "Swisscom eSIM 總覽：最佳整體網路"
-    best_for: "此方案絕對是最佳選擇，適合追求極致速度與穩定性的用戶。Swisscom 在 2025 上半年獲得最佳行動網路與最佳 5G 網路獎項，中位 5G 下載速度達 178.25 Mbps。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h1-2025)，Swisscom 擁有最佳 5G 可用性評分，覆蓋範圍廣泛。\n- **下載速度**：中位 5G 下載 178.25 Mbps，上傳 28.39 Mbps。\n- **延遲**：城市平均延遲約 29-31 ms，適合即時通訊與串流。\n- **一致性**：在 Kloten 達到 95.5% 一致性，表現穩定。"
-    arcep_note: "經當地電信主管機關 OFCOM 確認，Swisscom 為瑞士最大電信營運商，持有全國性頻譜執照，並持續投資 5G 基礎建設。"
-    connect_note: "啟用過程順暢，透過 Roami 平台購買後，掃描 QR code 即可在數分鐘內完成設定，支援熱點分享。"
-    user_scenarios: "- **[少女峰 Jungfraujoch]**：在海拔 3,454 公尺的歐洲之巔，Swisscom 提供穩定的 4G/5G 訊號，讓您即時分享壯麗雪景。\n- **[蘇黎世班霍夫大街]**：在購物天堂中，Swisscom 的高速網路讓您流暢使用地圖、支付與社群媒體。\n- **[日內瓦湖區]**：沿湖漫步時，Swisscom 的低延遲連線確保視訊通話不中斷。"
-    bg_color: "bg-red-50"
-
-  - id: "salt-esim"
-    title: "Salt eSIM 總覽：最佳遊戲與串流體驗"
-    best_for: "此方案適合重度串流與遊戲玩家。Salt 在 2025 上半年獲得最佳 5G 遊戲體驗評分，並在影片串流評分上與 Swisscom 並列頂尖。"
-    core_data: "- **5G 遊戲體驗**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h1-2025)，Salt 的 5G 遊戲評分為最高，延遲表現優異。\n- **下載速度**：雖然整體速度略低於 Swisscom，但在城市區域仍可達 100+ Mbps。\n- **影片串流**：5G 影片串流評分與 Swisscom 相當，適合 Netflix、YouTube 等平台。\n- **覆蓋**：主要城市與交通樞紐覆蓋良好，偏遠地區略遜於 Swisscom。"
-    arcep_note: "經 OFCOM 確認，Salt 為瑞士第三大行動網路營運商，持有 5G 頻譜，專注於提供高品質娛樂體驗。"
-    connect_note: "啟用過程順暢，Roami 提供即時 QR code 啟用，支援 eSIM 設定檔下載，無需實體 SIM 卡。"
-    user_scenarios: "- **[日內瓦國際機場]**：抵達後立即啟用 Salt eSIM，快速查詢航班資訊與交通路線。\n- **[琉森卡貝爾橋]**：在歷史景點中，使用 Salt 網路直播或上傳高畫質影片。\n- **[策馬特馬特洪峰]**：雖然山區覆蓋 Swisscom 較佳，但 Salt 在城鎮區域仍提供足夠速度。"
-    bg_color: "bg-yellow-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 瑞士 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 瑞士 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 瑞士 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 瑞士 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 瑞士主要 5G/4G 頻段與裝置相容性"
-    content: "瑞士行動網路主要使用以下頻段：4G LTE：Band 1 (2100 MHz)、Band 3 (1800 MHz)、Band 7 (2600 MHz)、Band 20 (800 MHz)。5G NR：n78 (3500 MHz)、n28 (700 MHz)。購買 eSIM 前，請確認您的智慧型手機支援上述頻段，尤其是 n78 與 Band 20，以確保最佳覆蓋與速度。"
-
-  - heading: "2. KYC 身份驗證要求"
-    content: "根據瑞士法規，購買預付 SIM 卡或 eSIM 時，營運商可能要求進行身份驗證（KYC）。Roami 平台已簡化此流程，通常僅需提供護照或身份證件照片，並填寫基本個人資訊。部分方案可能無需立即驗證，但建議提前準備好證件以備不時之需。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "瑞士的「無限數據」方案通常設有公平使用政策，例如每日或每月高速數據上限（如 1GB/天後降速至 128 kbps）。請仔細閱讀方案條款，避免超出後體驗大幅下降。Roami 提供的方案會明確標示 FUP 門檻，讓您安心使用。"
-
-  - heading: "4. 熱點分享（Tethering）支援"
-    content: "多數瑞士 eSIM 方案支援熱點分享，但部分營運商可能限制分享速度或裝置數量。Roami 瑞士 eSIM 明確支援熱點分享，讓您可將網路分享給筆電、平板等裝置，適合商務旅客或多人共用。"
-
-  - heading: "5. 啟用方式與時效"
-    content: "eSIM 啟用通常透過掃描 QR code 完成，需在購買後 30 天內啟用。啟用後，方案有效期從首次連網開始計算。建議在出發前一天或抵達機場時啟用，以確保即時可用。Roami 提供 24/7 客服支援，協助解決啟用問題。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：瑞士 最佳 eSIM"
-city_guide_desc: "了解哪款 瑞士 eSIM 是您目的地的最佳選擇，根據城市網路效能與覆蓋特性推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "蘇黎世"
-    carriers: "Swisscom"
-    reason: "蘇黎世為瑞士最大城市，Swisscom 在此提供中位下載 146.55 Mbps，為最快營運商。適合商務旅客與觀光客，覆蓋完整且延遲低。"
-
-  - city: "日內瓦"
-    carriers: "Swisscom"
-    reason: "日內瓦為國際組織聚集地，Swisscom 網路速度達 114.86 Mbps，一致性 93.6%，適合頻繁使用視訊會議與數據傳輸。"
-
-  - city: "巴塞爾"
-    carriers: "Swisscom"
-    reason: "巴塞爾為瑞士最快區域 Basel-Stadt 的核心城市，Swisscom 中位下載 146.38 Mbps，區域平均達 142.2 Mbps，適合需要高速網路的用戶。"
-
-  - city: "伯恩"
-    carriers: "Swisscom"
-    reason: "首都伯恩的 Swisscom 網路速度為 144.21 Mbps，覆蓋歷史城區與聯邦大廈，適合觀光與工作。"
-
-  - city: "盧加諾"
-    carriers: "Salt"
-    reason: "盧加諾位於義大利語區，Salt 在此提供具競爭力的價格與良好 5G 體驗，適合預算有限但重視串流與遊戲的旅客。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 瑞士 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在蘇黎世、日內瓦等城市，推薦 Swisscom eSIM，享受高速下載與穩定連線，輕鬆使用地圖、社群媒體與即時通訊。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往少女峰、馬特洪峰等山區，Swisscom 提供最佳偏遠覆蓋，確保健行途中仍可保持連線，分享美景。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕穿越瑞士，Swisscom 的全國性覆蓋讓導航與串流不中斷，支援熱點分享，方便乘客使用多裝置。"
-
-  - icon: "🏖️"
-    title: "湖區休閒者"
-    text: "在日內瓦湖、琉森湖區，Salt eSIM 提供高品質影片串流體驗，適合在湖畔放鬆時觀看影片或直播。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "瑞士 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "我可以同時使用實體 SIM 卡（原門號）與 瑞士 eSIM 嗎？"
-    a: "可以。大多數現代智慧型手機支援雙卡雙待，您可將原門號實體 SIM 卡保留用於語音通話與簡訊，同時啟用瑞士 eSIM 作為數據來源。請在手機設定中將 eSIM 設為預設數據線路，並啟用數據漫遊。Roami 瑞士 eSIM 支援此功能，讓您無需更換門號即可享受高速網路。"
-
-  - q: "我可以使用 瑞士 eSIM 透過 WhatsApp、WeChat 或 FaceTime 進行語音或視訊通話嗎？"
-    a: "可以。瑞士 eSIM 提供數據連線，因此您可透過任何 VoIP 應用程式（如 WhatsApp、WeChat、FaceTime、Skype）進行語音或視訊通話。請注意，這些通話會消耗數據流量，建議在 Wi-Fi 環境下使用以節省方案額度。Roami 方案通常包含足夠數據，滿足日常通訊需求。"
-
-  - q: "瑞士 的無限數據方案是否有嚴格公平使用政策（FUP）或頻寬限制？"
-    a: "是的，瑞士的「無限數據」方案通常設有公平使用政策。例如，每日高速數據上限可能為 1GB 或 2GB，超出後速度會降至 128 kbps 或更低，僅能傳送文字訊息。部分方案可能每月總量限制為 10GB 或 20GB。購買前請仔細閱讀 Roami 提供的方案條款，選擇符合您使用習慣的選項。"
-
-  - q: "購買和使用 瑞士 eSIM 是否需要身份驗證（KYC）或護照登記？"
-    a: "根據瑞士法規，部分 eSIM 方案可能要求進行身份驗證（KYC），通常需要提供護照或身份證件照片。Roami 平台已整合簡化流程，您只需在購買時上傳證件即可快速完成驗證。若選擇無需 KYC 的方案，則可直接啟用，但建議提前準備證件以備不時之需。"
-
-  - q: "更換手機時，如何將啟用中的 瑞士 eSIM 設定檔轉移到新手機？"
-    a: "eSIM 設定檔通常與單一裝置綁定，無法直接轉移。若需更換手機，您需要先在新手機上重新購買或重新下載 eSIM 設定檔。部分營運商提供 QR code 重新下載功能，但多數情況下需聯繫客服協助。Roami 提供 24/7 客服支援，可協助您在新裝置上重新啟用 eSIM。建議在更換手機前備份 QR code 或聯繫客服。"
-
-# 迷思
-myths_title: "⚠️ 瑞士 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "瑞士所有營運商網路速度都差不多。"
-    truth: "根據 Ookla 2025 上半年報告，Swisscom 中位 5G 下載速度為 178.25 Mbps，遠高於其他營運商。Salt 在遊戲體驗上表現最佳，但整體速度仍有差距。選擇營運商時應根據個人需求。"
-
-  - myth: "eSIM 只能在昂貴的旗艦手機上使用。"
-    truth: "eSIM 技術已廣泛支援中高階手機，包括 iPhone XS 以後機型、Google Pixel 3 以後機型、Samsung Galaxy S20 以後機型等。購買前可查閱 Roami 相容性列表，確認您的裝置是否支援。"
-
-  - myth: "瑞士山區完全沒有網路覆蓋。"
-    truth: "Swisscom 在阿爾卑斯山區提供廣泛覆蓋，包括少女峰、馬特洪峰等熱門景點。根據報告，Swisscom 在偏遠區域的一致性仍達 90% 以上，但速度可能低於城市。"
-
-  - myth: "無限數據方案真的沒有上限。"
-    truth: "瑞士的無限數據方案通常設有公平使用政策（FUP），例如每日 1GB 高速數據後降速。購買前務必閱讀條款，避免超出後體驗下降。"
-
-  - myth: "使用 eSIM 會比實體 SIM 卡更耗電。"
-    truth: "eSIM 與實體 SIM 卡的功耗差異極小，現代手機已最佳化雙卡管理。實際使用中，影響電量的主要因素是訊號強度與數據使用量，而非 SIM 卡類型。"
-
-# 數據來源
-data_sources_title: "瑞士 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 2025 上半年瑞士 Speedtest 連線報告，提供基於數百萬次測試的行動網路效能數據，包括下載/上傳速度、延遲、一致性與營運商排名。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 瑞士行動網路體驗報告，分析 5G 可用性、影片體驗、遊戲體驗等指標，提供獨立第三方觀點。"
-
-  - name: "OFCOM 2025"
-    description: "瑞士聯邦通訊委員會（OFCOM）發布的頻譜分配與網路覆蓋報告，確認營運商執照與基礎建設投資情況。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，數據收集期間為 2025 年 1 月至 6 月。實際體驗可能因裝置、地點與網路負載而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查閱最新報告，並選擇適合您行程的方案。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 瑞士 eSIM"
-cta_desc: "即時存取高速網路，無需漫遊費。掃描 QR code 即可啟用，支援熱點分享。"
-cta_button_text: "立即購買 瑞士 eSIM"
-cta_button_link: "/switzerland-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "瑞士 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
+hero_subtitle_main: "去掉行銷濾鏡的瑞士網路"
 
 ---
+
+
+
+
+
+
+瑞士是唯一一個你的資費選擇會撞上一件大多數旅客太晚才知道之事的阿爾卑斯國家。這個國家位於歐盟之外、歐盟漫遊區之外，所以同一張在蘇黎世讓你保持線上的網路，可能在你一跨進法國就讓你破產；而一張一路陪你到巴塞爾的法國方案，可能在你踏出日內瓦火車站的下一秒就開始按 MB 計費。本指南以經過驗證的覆蓋與穩定度數據比較三家瑞士業者，說明外國旅客可走的預付卡 eSIM 路線，並解釋一張能在三張網路之間移動的單一旅遊設定檔在何處幫你免去邊界上的意外。
+
+
+
+**快速答案：** 誠實的總結：要覆蓋選 Swisscom，要價格選 Sunrise，而大城市裡兩者差距極小。如果這是你的第一張設定檔，先看[啟用教學](/faq/how-to-activate-an-esim/)，再比較下方的方案表。
+
+
+
+其餘一切都得通過安裝這道關卡——[eSIM 相容性工具](/compatibility/)與[eSIM 啟用指南](/faq/what-is-esim-activation-and-how-does-it-work/)分別解決它的兩端。然後再回來看網路評價。
+
+
+
+**一段話答案：** 停留蘇黎世、日內瓦或巴塞爾？Swisscom 是最快、最穩定的網路，也是唯一能可靠抵達高阿爾卑斯山區的網路。要進策馬特、少女峰地區或聖哥達走廊的山區？Swisscom 在 Sunrise 與 Salt 轉弱之處仍保有訊號。想要一張連歐盟跨界都涵蓋的瑞士預付卡？只有 Sunrise 販售預設涵蓋法國、德國、義大利與奧地利的旅客預付卡。或者跳過文件手續與邊界算術：[Roami 的瑞士免費試用 eSIM](/free-esim/) 零成本測試各家網路，**WEB20** 可讓[瑞士 eSIM 方案](/switzerland-esim/)省 20%。
+
+
+
+## 你 eSIM 的候選業者
+
+
+
+這一節回答第一個實務問題：全國三張網路之中，外國旅客實際上能向哪些購買預付卡 eSIM，以及每一家給你什麼。
+
+
+
+### Swisscom vs Sunrise：在瑞士哪家更好？
+
+
+
+| | Swisscom | Sunrise | Salt |
+
+|:---|:---|:---|:---|
+
+| 提供旅客的預付卡 eSIM | 是，透過 Prepaid Flat 旅客方案 | 是，透過旅客預付卡頁面 | 是，透過 Salt PrePay |
+
+| 優勢所在 | 網路最快，阿爾卑斯覆蓋最佳 | 城市強勁，唯一預付卡含歐盟 | 入門最便宜，城鎮表現良好 |
+
+| 最便宜的預付卡入門 | CHF 20 七天無限量 | CHF 19.90 入門組合含通話費 | SIM 免費、CHF 10 通話費，加值包自 CHF 9.95 起 |
+
+| 含歐盟漫遊 | 否，僅瑞士 | 是，Unlimited Europe 預付卡含 46 國 | 預付卡不含，歐盟限月租方案 |
+
+| 對旅客的便利度 | ★★★ — 線上 eSIM，依 OFCOM 規定需護照 | ★★★ — 線上 eSIM，接受外國地址 | ★★★ — 線上 eSIM，接受護照 |
+
+
+
+**把這張表看仔細，因為它藏著本頁最有用的一個事實。** 三家瑞士網路都販售旅客真的買得到的預付卡 eSIM，但只有 Sunrise 把鄰近歐盟國家打包進預付卡產品。Swisscom 與 Salt 販售僅限瑞士的預付卡數據，所以在這些方案上一旦跨進法國、德國、義大利或奧地利，你就處於付費漫遊，除非另外加購套裝。
+
+
+
+### 瑞士行動通訊的玩家
+
+
+
+瑞士還有一批健康的較小預付卡品牌，向三張網路租用容量，其中數家也發行 eSIM。
+
+
+
+| 品牌 | 母網路 | 預付卡 eSIM？ | 適合誰 |
+
+|:---|:---|:---|:---|
+
+| Wingo | Swisscom | 是 | 沒有 Swisscom 價格的 Swisscom 覆蓋 |
+
+| yallo | Sunrise | 是，透過 App | 城市停留的便宜 Sunrise 數據 |
+
+| Digital Republic | Sunrise | 是，全線上 | 想要低價無限量的科技型旅人 |
+
+| spusu | Salt | 是 | 小額月費的 Salt 網路 |
+
+| Lebara | Swisscom | 是 | 搭配 Swisscom 覆蓋的便宜通話 |
+
+| Post Mobile | Salt | 是 | 在郵局分局購買的 Salt 網路 |
+
+
+
+兩點提醒。第一，平價品牌仍然綁定單一母網路，所以一旦離開山谷，它呈現的山區空隙與母網路一模一樣。第二，這些品牌每一個都必須執行與母網路相同的 OFCOM 身分查驗，所以走小品牌並不能跳過護照這一步。
+
+
+
+### 可以向 Swisscom 購買瑞士 eSIM 嗎？
+
+
+
+| | 直接向瑞士電信業者購買 | 跑在瑞士網路上的旅遊 eSIM |
+
+|:---|:---|:---|
+
+| 你需要什麼 | OFCOM 實名登記用護照；月租可能要求瑞士地址 | 一支相容且未鎖定的手機 |
+
+| 設定檔如何送達 | 身分查驗後發送 eSIM QR 碼，或在門市辦理 | 結帳後立即取得 QR 碼 |
+
+| 典型成本 | Swisscom CHF 20 七天；Sunrise 自 CHF 19.90 起；Salt SIM 免費加套裝 | 單一預付價格，免身分文件 |
+
+| 網路存取 | 單一業者，或 Sunrise 歐洲預付卡涵蓋 46 國 | 在 Swisscom、Sunrise 與 Salt 之間自動切換 |
+
+| 最適合 | 長期停留、瑞士門號、專注瑞士山區的 Swisscom | 一至三週的行程、落地即上網、跨越邊界 |
+
+
+
+對一般假期而言，這筆帳沒有懸念。瑞士預付卡方案以法郎計價換一個瑞士門號，而在 Swisscom 與 Salt 上，它一碰到邊界就停。旅遊 eSIM 以批發價購買數據並讓裝置在網路之間移動，這正是行程一旦離開瑞士時你想要的。
+
+
+
+💡 多網路 eSIM 設定檔是實用的中間路線：[Roami 的瑞士 eSIM](/switzerland-esim/) 保留即時送達的便利，自動重新連上你所在之處三張瑞士網路中最強的一張，並讓你在雪線之上仍落在 Swisscom，而不必買兩次。
+
+
+
+## 瑞士 eSIM：手機需求
+
+
+
+三件事決定你的手機能否在瑞士業者的網路上運作：頻段、鎖定狀態，以及一小串裝置特有的問題。三者在下方都有涵蓋。
+
+
+
+### 哪些裝置無法使用瑞士 eSIM？
+
+
+
+瑞士業者的 5G 建在 3500 MHz 的 n78 頻段上，4G 建在 B1、B3、B7 與 B20 頻段上。其中對旅客最關鍵的是 800 MHz 的 B20，因為它是把訊號送進隧道、偏遠山谷與寧靜山路的低頻層。缺少 B20 的手機在每個城市都能運作，但會失去區分 Swisscom 與其他業者的鄉村與高山覆蓋。
+
+
+
+頻段表不是床頭讀物，你也不需要背誦。請拿型號、而不是店家標籤，去對照[手機相容性清單](/compatibility/)。如果你想先弄懂機制再放心地在山路上依賴它，[eSIM 啟用原理解說](/faq/what-is-esim-activation-and-how-does-it-work/)把一切攤開來講。
+
+
+
+### 安裝你的瑞士 eSIM
+
+
+
+鎖定的手機是瑞士 eSIM 安裝直接失敗最常見的原因，而鎖定的問題在這裡有兩個面向。從 Swisscom、Sunrise 或 Salt 以合約購買的手機，在合約或裝置款項付清之前可能是鎖定的。從歐盟或英國業者帶來的手機可能鎖定在該業者上，同樣不會接受瑞士設定檔。瑞士在歐盟漫遊區之外，但鎖定規則由賣家決定，不由邊界決定。
+
+
+
+**檢查方式：** 在 iPhone 上，開啟「設定」→「一般」→「關於本機」→「電信業者鎖定（Carrier Lock）」。當畫面顯示「無 SIM 卡限制（No SIM restrictions）」，任何旅遊設定檔都能安裝。顯示「SIM 已鎖定（SIM locked）」的判定會擋下所有旅遊設定檔的安裝，沒有例外。
+
+
+
+**解決方式：** 向原始賣家申請解鎖；Swisscom 與 Sunrise 都無法替不是它們賣出的手機解鎖。款項付清後，解鎖通常當天完成且免費。只有在這之後才嘗試安裝你的 eSIM。
+
+
+
+如果你買的是二手機或合約機，請假設它可能被鎖定並在出發前確認。瑞士監管機構 OFCOM 制定的身分規則在本頁其他地方引用，而鎖定狀態是另一回事，由原始賣家處理。
+
+
+
+### 我的 iPhone 能用瑞士 eSIM 嗎？
+
+
+
+| 裝置 | 症狀 | 該怎麼做 |
+
+|:---|:---|:---|
+
+| 被電信鎖定的歐盟或瑞士手機 | eSIM 安裝完全失敗 | 先透過原始業者解鎖，再重試 |
+
+| 缺少 800 MHz Band 20 的手機 | 鄉村、隧道與高山訊號弱 | 優先選 Swisscom，或使用多網路 eSIM |
+
+| 中國大陸版 iPhone | 完全沒有「加入 eSIM」選項，硬體被停用 | 無法解決；改用其他裝置 |
+
+| 雙 SIM 使用者 | eSIM 已安裝但沒有數據 | 把 eSIM 設為行動數據門號 |
+
+| 較舊的手機 | 無法自動抓取 APN | 從下方表格手動輸入 APN |
+
+
+
+除此之外，變數在於你的裝置，而非 Swisscom 或 Sunrise。現在花一分鐘過一遍[eSIM 裝置檢查工具](/compatibility/)，勝過日後在 2,000 公尺高處對著失效的方案。
+
+
+
+## 實際取得瑞士 eSIM 的幾種方式
+
+
+
+共有四條路線，它們在價格與邊界行為上的差異比安裝本身更大：要最佳網路選 Swisscom，要唯一含歐盟的預付卡選 Sunrise，要最便宜入門選 Salt，會跨邊界的每個人都適合旅遊 eSIM。逐一說明每條路線。
+
+
+
+### 到哪裡找瑞士 eSIM
+
+
+
+Swisscom 是在位業者，也是多數旅客最終在山區想要的網路。它的旅客路線是 Prepaid Flat 方案，正是為此而設計的。
+
+
+
+**Swisscom Prepaid Flat，逐步說明：**
+
+
+
+1. 開啟 Swisscom 旅客預付卡頁面並選擇時長——入門方案為 **CHF 20 七天**，其上依序為 CHF 40 十五天、CHF 65 三十天與 CHF 150 九十天。
+
+2. 結帳時選擇 eSIM。Swisscom 以 QR 碼安裝設定檔，只要你的手機支援 eSIM，就不需要跑一趟門市。
+
+3. 掃描專屬 QR 碼，設定檔在瑞士一連上 Swisscom 網路即自動啟用。
+
+4. 無合約、無長期綁定。瑞士境內數據無限量，但限速至約 50 Mbps 下載，對地圖、車票與視訊通話綽綽有餘。
+
+
+
+Swisscom Prepaid Flat 價格一覽：
+
+
+
+| 方案 | 數據 | 有效期限 | 價格（CHF） |
+
+|:---|:---|:---|:---|
+
+| Prepaid Flat 7 | 無限量，限速 50 Mbps | 7 天 | 20 |
+
+| Prepaid Flat 15 | 無限量，限速 50 Mbps | 15 天 | 40 |
+
+| Prepaid Flat 30 | 無限量，限速 50 Mbps | 30 天 | 65 |
+
+| Prepaid Flat 90 | 無限量，限速 50 Mbps | 90 天 | 150 |
+
+
+
+Swisscom 在其旅客頁面明確指出瑞士不適用歐盟漫遊法規，這是一則偽裝成賣點的警告：無限量額度僅限瑞士，法國、德國、義大利或奧地利一律使用付費漫遊，除非加購旅遊選項。購買前先確認你的機型。
+
+
+
+### 在瑞士買本地卡 vs 選旅遊 eSIM
+
+
+
+Sunrise 是唯一一家販售預先內含鄰近歐盟國家的旅客預付卡的全國性業者，這使它成為瑞士加法德義奧環線的自然首選。
+
+
+
+**Sunrise 旅客預付卡，逐步說明：**
+
+
+
+1. 開啟 Sunrise 旅客預付卡頁面。入門組合為 **CHF 19.90**，內含 CHF 20 通話費。
+
+2. 線上登記預付卡 eSIM。Sunrise 表示不需要瑞士地址並接受外國地址，身分驗證透過證件上傳與一段短視訊自拍完成。
+
+3. 選擇方案。基本的 Unlimited CH 費率為 **每 24 小時 CHF 2.50**，享有瑞士境內無限數據、通話與簡訊。對跨越邊界友善的選擇是 **Unlimited Europe 7，CHF 59.90** 與 **Unlimited Europe 30，CHF 74.90**，在包括法國、德國、義大利與奧地利在內的 46 個歐洲國家加上 60 GB 高速數據。
+
+4. eSIM 在登記後立即下載，歐洲額度自首次使用起算。
+
+
+
+Sunrise 旅客預付卡價格一覽：
+
+
+
+| 方案 | 數據 | 有效期限 | 價格（CHF） |
+
+|:---|:---|:---|:---|
+
+| Unlimited CH 入門組合 | 瑞士無限量，含 CHF 20 通話費 | 8 天通話費效期 | 19.90 |
+
+| Unlimited Europe 7 | 瑞士無限量加 46 國 60 GB | 7 天 | 59.90 |
+
+| Unlimited Europe 30 | 瑞士無限量加 46 國 60 GB | 30 天 | 74.90 |
+
+
+
+關鍵在於覆蓋。Sunrise 在城市極為出色，但在高處雪坡上比 Swisscom 薄，所以前往策馬特或少女峰地區的滑雪者，應把省下的邊界費用與高山上的空隙放在一起衡量。
+
+
+
+### Salt 有賣給旅客的預付卡 eSIM 嗎
+
+
+
+Salt 是省錢選項，也是在瑞士上網最便宜的方式，只是它的預付卡是三家中最不適合高山、也最不適合跨越邊界的。
+
+
+
+**Salt PrePay，逐步說明：**
+
+
+
+1. 訂購 Salt PrePay 入門組合。Salt 宣傳 **SIM 免費並內含 CHF 10 通話費**，eSIM 路線可透過其啟用流程取得。
+
+2. 完成身分驗證步驟。Salt 的驗證流程接受外國護照與外國身分證。
+
+3. 加購數據包。目前的瑞士數據包為 **1 GB CHF 9.95**、**5 GB CHF 14.95** 與 **25 GB CHF 29.95**，每個皆為 30 天有效。若偏好按量計費，Unlimited Surf 日費率約為**每個使用日 CHF 1.99**。
+
+4. 通話費與數據包就緒後，eSIM 以 QR 碼安裝。
+
+
+
+Salt PrePay 價格一覽：
+
+
+
+| 項目 | 數據 | 有效期限 | 價格（CHF） |
+
+|:---|:---|:---|:---|
+
+| 入門 SIM | SIM 免費，含 CHF 10 通話費 | 通話費無短期到期日 | 0，免費 |
+
+| 數據包 1 GB | 1 GB | 30 天 | 9.95 |
+
+| 數據包 5 GB | 5 GB | 30 天 | 14.95 |
+
+| 數據包 25 GB | 25 GB | 30 天 | 29.95 |
+
+| Unlimited Surf 日 | 每使用日無限量 | 每 24 小時 | 每日 1.99 |
+
+
+
+Salt 的含歐洲方案存在於月租層級，不在 PrePay，所以在法國或義大利使用的 Salt 預付卡會落回付費漫遊。對預算緊繃的純瑞士停留，Salt 難以超越；對跨境行程，Sunrise 或旅遊 eSIM 是更穩妥的選擇。
+
+
+
+### 瑞士 eSIM 方案一覽
+
+
+
+- **護照** — 每一張瑞士預付卡（實體或 eSIM）的 OFCOM 登記都必備
+
+- **IMEI** — 撥 `*#06#`
+
+- **EID** — 同樣在 `*#06#` 畫面上；eSIM 自身的識別碼
+
+- **解鎖的手機** — 在電信業者鎖定條目中確認顯示無 SIM 卡限制
+
+- **能在瑞士使用的卡片** — 部分業者結帳會拒絕外國帳單地址
+
+- **Wi-Fi** — 起飛前就安裝設定檔，而不是在機場
+
+
+
+方案與目前層級請見我們的[瑞士 eSIM 頁面](/switzerland-esim/)。出發前完成安裝，讓設定檔在你跨過邊界的瞬間就緒。
+
+
+
+## 瑞士 eSIM 業者：Swisscom、Sunrise 與 Salt
+
+
+
+兩個問題就能解決這一節：每張網路在你實際站立之處有多可靠，以及你進行的是哪種旅行。Ookla 的穩定度數據回答前者，行程類型表回答後者。
+
+
+
+### Swisscom、Sunrise 與 Salt 的穩定度如何
+
+
+
+下列業者層級數據來自 Ookla 的瑞士 Speedtest 連線品質報告，資料蒐集期間為 2024 年 7 月至 12 月，是瑞士區塊為本指南提供的穩定度評分。
+
+
+
+| 業者 | 穩定度評分（Ookla 2024 下半年） |
+
+|:---|:---|
+
+| Swisscom | 93.4 |
+
+| Salt | 92.7 |
+
+| Sunrise | 88.3 |
+
+
+
+來源：Ookla Speedtest 連線品質報告——瑞士，2024 年 7 月至 12 月，[各業者報告](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h2-2024)。穩定度反映達到下載 5 Mbps、上傳 1 Mbps 門檻的樣本比例。
+
+
+
+Swisscom 在穩定度上領先，Salt 緊隨其後，Sunrise 落後但仍高於 88%。2026 年另一項獨立的瑞士網路測試把原始下載速度拉得更開，Swisscom 頂端約 506 Mbps、Sunrise 約 274 Mbps、Salt 約 154 Mbps，這說明了為什麼在基地台遙遠之處，Swisscom 是安全的選擇。Ookla 報告未公布數據之處，該格留空而非估算。
+
+
+
+就全國整體而言，Ookla 的 [Speedtest Global Index](https://www.speedtest.net/global-index/switzerland) 顯示瑞士 2026 年 8 月的行動下載中位數為 **120.25 Mbps**，全球第 39 名，延遲 **17 ms**。固網寬頻強得多，約 **480.57 Mbps**，第 3 名。Cable.co.uk 評估瑞士行動數據 1 GB 約 **7.29 美元**，使瑞士成為歐洲最貴的數據市場之一，也是「買本地方案或旅遊方案、而不是漫遊」最有力的論據。
+
+
+
+### 依旅行風格挑選最佳瑞士 eSIM
+
+
+
+| 你的計畫 | 首選業者 | 入選原因 | 注意事項 |
+
+|:---|:---|:---|:---|
+
+| 城市小旅行，蘇黎世、日內瓦、巴塞爾 | Swisscom 或 Sunrise | 兩者在市中心都很出色；Swisscom 最快 | 車站尖峰壅塞 |
+
+| 在阿爾卑斯山滑雪或健行 | Swisscom | 高山覆蓋最廣，少女峰車站與策馬特高點 | 3,000 公尺以上仍請下載離線地圖 |
+
+| 預算型停留 | Salt 或 Sunrise | Salt SIM 免費加便宜套裝；Sunrise 日費率 | Salt 在高海拔較弱 |
+
+| 跨境前往法德義奧 | Sunrise Unlimited Europe 預付卡 | 一張預付卡涵蓋 46 國 | Swisscom 與 Salt 預付卡僅限瑞士 |
+
+| 商務差旅與視訊通話 | Swisscom | 穩定度與速度最強 | 旅遊 eSIM 為純數據，無本地門號 |
+
+| 多區域鐵路旅行 | 多網路 eSIM | 隨你移動自動切換 | 單一業者在邊界處露出空隙 |
+
+
+
+### Swisscom vs Sunrise：覆蓋率比較
+
+
+
+瑞士的覆蓋在城市裡跟著錢走，在山區跟著纜車走。在真實的瑞士路線上，這幅圖景是這樣展開的：
+
+
+
+| 地區 | 實地情況 | 最佳業者 |
+
+|:---|:---|:---|
+
+| 蘇黎世、日內瓦、巴塞爾、伯恩、洛桑 | 中心、湖畔城鎮與交通樞紐 5G 密集；市中心很少掉回 4G | 皆可；Swisscom 最快 |
+
+| 伯恩高地與少女峰 | 格林德瓦與茵特拉根有覆蓋；海拔 3454 公尺的少女峰車站有 Swisscom 訊號；穆倫與勞特布魯嫩走 4G | Swisscom |
+
+| 策馬特與馬特洪峰 | 村莊與纜車 5G 密集；Gornergrat 與高處雪坡在 Swisscom 上最穩；冰河區轉薄 | Swisscom |
+
+| 聖哥達走廊與提契諾山谷 | 埡口道路與山谷走 4G；偏遠高埡口訊號轉薄；Swisscom 覆蓋最遠 | Swisscom |
+
+| 邊界地帶，日內瓦、巴塞爾、提契諾 | 手機可能鎖上法國、德國或義大利的基地台，雙向漫遊 | 旅遊 eSIM 或含歐盟方案 |
+
+
+
+要跨越邊界嗎？我們為[法國 eSIM 方案](/france-esim/)、[德國 eSIM 方案](/germany-esim/)、[義大利 eSIM 方案](/italy-esim/)與[奧地利 eSIM 方案](/austria-esim/)提供同樣有來源依據的解析。如果你的行程涵蓋多國，一張[歐洲 eSIM](/europe-esim/) 可以省下買兩次的錢。
+
+
+
+自動網路選擇在這裡默默扛下工作。能在 Swisscom、Sunrise 與 Salt 之間移動的設定檔，涵蓋任何單一業者方案都無法補足的空隙，尤其當路線離開瑞士之後。
+
+
+
+## 動手設定 APN
+
+
+
+APN 畫面是多數人從不打開的頁面，這也使它成為數據悄悄失效時第一個該檢查的地方。下面是三家業者的數值、真正需要手動輸入的時機，以及確切的選單路徑。
+
+
+
+### Swisscom、Sunrise 與 Salt eSIM 的 APN 數值
+
+
+
+只有當你直接向瑞士電信業者購買 SIM 或 eSIM 時才需要這些。如果門號是旅遊 eSIM，其 APN 已預載，手動修改往往會弄壞數據通道。
+
+
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+
+|:---|:---|:---|:---|
+
+| Swisscom | `gprs.swisscom.ch` | 留空 | 留空 |
+
+| Sunrise | `internet` | 留空 | 留空 |
+
+| Salt | `internet.salt.ch` | 留空 | 留空 |
+
+
+
+使用者名稱與密碼請留空。若某業者堅持要填值，設定檔自帶的說明會寫明。
+
+
+
+### 在瑞士網路上設定 APN
+
+
+
+- 不會自動抓取電信業者設定的較舊手機
+
+- 以手動啟用碼而非 QR 掃描安裝的設定檔
+
+- 自動設定未執行的業者預付卡 eSIM
+
+- 旅遊 eSIM 幾乎不會遇到，這正是託管設定檔的意義所在
+
+
+
+### 當瑞士 APN 未自動送達時
+
+
+
+- **iPhone：** 設定 → 行動服務（Cellular）→ 點選 eSIM 門號 → 行動數據網路 → 輸入 APN
+
+- **Android：** 設定 → 連接 → 行動網路 → 存取點名稱（APN）→ 新增 APN
+
+
+
+儲存後重新啟動手機。山路上的無聲數據通常是數據門號設定錯誤，所以先確認 eSIM 已被選中。
+
+
+
+## 從 QR 碼到連上網路
+
+
+
+把這一節走完一遍，就能涵蓋從乾淨安裝到數據可用的全程，包括一張瑞士網路實際會產生的故障模式，依序排列。
+
+
+
+### 瑞士啟用：步驟
+
+
+
+| # | 檢查項目 | 正常的樣子 |
+
+|:---|:---|:---|
+
+| 1 | 手機未被電信鎖定 | 設定 → 一般 → 關於本機下的電信業者鎖定顯示無 SIM 卡限制 |
+
+| 2 | 手機支援 eSIM | `*#06#` 顯示 EID，或[手機相容性檢查工具](/compatibility/)確認你的機型 |
+
+| 3 | QR 碼與啟用碼已備份 | 截圖存在手機與雲端儲存空間 |
+
+| 4 | 出發前已安裝設定檔 | 在家中以 Wi-Fi 安裝；抵達時即連線 |
+
+| 5 | 數據門號與漫遊已設定 | eSIM 選為行動數據，數據漫遊開啟 |
+
+
+
+第 4 步在家裡完成。蘇黎世與日內瓦的入境大廳 Wi-Fi 恰恰在你最需要它時最壅塞，而你在當地才安裝的設定檔得和所有人的搶頻寬。
+
+
+
+### 在 Swisscom、Sunrise 與 Salt 上啟用
+
+
+
+想在一頁內看完整個流程，我們的[啟用教學指南](/faq/how-to-activate-an-esim/)是參考。各業者的差異在於：
+
+
+
+- **Swisscom：** 從旅客預付卡頁面的 QR 碼啟用；eSIM 在瑞士首次觸網即連線，免跑門市
+
+- **Sunrise：** 線上登記，需證件上傳與視訊自拍；驗證後下載 eSIM，接受外國地址
+
+- **Salt：** 免費 SIM 與通話費就緒後，PrePay eSIM 以 QR 碼安裝；接受護照
+
+- **旅遊 eSIM：** 以 QR 碼安裝，同一設定檔自動重新連上 Swisscom、Sunrise 或 Salt 中最強的一張
+
+
+
+### 該選哪個瑞士業者：Swisscom vs Sunrise？
+
+
+
+一般啟用錯誤、無法下載的設定檔、掃描失敗、安裝了卻始終未註冊的 eSIM，都在我們的[eSIM 疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)中涵蓋。往下讀時，請留意這四種瑞士特有的模式。
+
+
+
+**A. eSIM 無法安裝**
+
+
+
+1. 當電信業者鎖定顯示無 SIM 卡限制，即確認已解鎖
+
+2. 小心掃碼一次就好；幾乎所有 QR 碼首次使用後即失效
+
+3. 詢問業者 OFCOM 登記是否仍在處理中，因為身分查驗失敗會擋下啟用
+
+
+
+**B. 已安裝，但山區沒有訊號**
+
+
+
+1. 再次檢查鎖定狀態
+
+2. 設定 → 行動服務 → 網路選擇 → 手動選擇 Swisscom 以取得最佳高山覆蓋
+
+3. 清除所有網路設定並再重開機一次，並記得纜車之上覆蓋會轉薄
+
+
+
+**C. 有訊號格數，但跨過邊界後收到意外的漫遊帳單**
+
+
+
+1. 確認 eSIM 是數據門號，且你本國 SIM 的數據漫遊已關閉
+
+2. 在 Swisscom 或 Salt 預付卡上，僅限瑞士的數據代表法德義奧皆為付費漫遊；改用 Sunrise 歐洲方案或旅遊 eSIM
+
+3. 在日內瓦、巴塞爾或提契諾，手動強制選擇瑞士網路，避免手機鎖上法德義的基地台
+
+
+
+**D. 有訊號格數，但沒有網路**
+
+
+
+1. 確認你輸入的每個值都出現在上表的某處
+
+2. 確認數據門號指定給 eSIM 而非你本國的卡
+
+3. 確認你沒有用完額度；Salt 預付卡在套裝用盡後會降速或停止
+
+
+
+### 打給瑞士 eSIM 客服前該準備什麼
+
+
+
+| 資訊 | 到哪裡找 |
+
+|:---|:---|
+
+| 訂單或帳號號碼 | 確認電子郵件 |
+
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+
+| EID | `*#06#` |
+
+| 錯誤畫面截圖 | 在畫面變動前先截圖 |
+
+| 目前的 APN 設定 | 設定 → 行動數據網路 |
+
+| 數據漫遊狀態 | 設定 → 行動服務 → 你的 eSIM 門號 |
+
+| 已嘗試過的步驟 | 留一份簡短清單 |
+
+
+
+## 你的瑞士 eSIM：真正重要的問題
+
+
+
+### 提供旅客的 Swisscom eSIM 方案
+
+
+
+可以。Swisscom 的 Prepaid Flat 旅客方案線上販售 eSIM，無合約、不需要瑞士地址，CHF 20 七天、CHF 40 十五天、CHF 65 三十天與 CHF 150 九十天，全部在瑞士境內無限量、限速約 50 Mbps。關鍵在於額度僅限瑞士，所以法國、德國、義大利或奧地利一律使用付費漫遊，除非加購旅遊選項。
+
+
+
+### Sunrise 有販售含法德義奧的預付卡 eSIM 嗎？
+
+
+
+有，而且它是三家中唯一把鄰國打包進預付卡的。Sunrise 的 Unlimited Europe 7（CHF 59.90）與 Unlimited Europe 30（CHF 74.90）提供瑞士境內無限數據，外加 46 個歐洲國家的 60 GB 高速數據，含全部四個鄰國。Swisscom 與 Salt 的預付卡把這些國家留在付費漫遊，所以跨境環線要買的就是 Sunrise 的電信 eSIM。
+
+
+
+### 國際旅客可以在沒有瑞士地址的情況下取得 Salt eSIM 嗎？
+
+
+
+可以。Salt PrePay 發行 eSIM 並在身分查驗中接受外國護照，不需要瑞士地址。入門組合宣傳為 SIM 免費含 CHF 10 通話費，數據包自 1 GB CHF 9.95 起。Salt 是瑞士最便宜的入門，但其預付卡僅限瑞士，且在山谷之上比 Swisscom 薄，請把價格與高山覆蓋放在一起衡量。
+
+
+
+### 哪家業者的覆蓋最全面？
+
+
+
+依證據與實地情況來看是 Swisscom。它以 93.4 領先 Ookla 穩定度，而且它是能抵達其他業者觸及不到之處的網路：海拔 3454 公尺的少女峰車站月台、策馬特上方的 Gornergrat，以及聖哥達走廊的偏遠路段。Sunrise 與 Salt 在度假區與村莊表現強勁，但在高處雪坡與冰河上轉弱，所以任何登高之前先下載離線地圖。
+
+
+
+### 漫遊時使用瑞士 eSIM 的情況
+
+
+
+不行。瑞士不在歐盟也不在歐洲經濟區，所以歐盟「在家漫遊」法規止步於邊界。一張在法國免費運作的歐盟或歐洲經濟區資費方案，在你跨越邊界的瞬間就開始按業者的瑞士費率計費，而許多僅限歐洲的旅遊方案完全排除瑞士。依賴之前，先確認你的方案有列名瑞士。
+
+
+
+### 為什麼我的歐盟資費在瑞士要加收費用？
+
+
+
+因為「在家漫遊」的資費上限只適用於歐盟與歐洲經濟區境內，即 27 個歐盟成員國加上挪威、冰島與列支敦斯登。瑞士是 EFTA 成員但從未加入歐洲經濟區，所以它位於那個保護區之外，你的本國業者可能把它歸入獨立且更貴的資費帶。有些歐盟業者自願涵蓋瑞士，但涵蓋是一項你必須核實的商業優惠，不是權利。
+
+
+
+### 買瑞士預付卡 SIM 需要身分證件嗎？
+
+
+
+需要，任何瑞士預付卡——實體或 eSIM——都是。OFCOM 要求每一家業者與每一個平價品牌以身分證件登記 SIM，護照或瑞士身分證可接受，駕照則不行。正是這項查驗讓瑞士預付卡有別於免文件的旅遊 eSIM——後者在結帳時處理身分。
+
+
+
+### 為瑞士檢查 IMEI 與 EID
+
+
+
+手機需要解鎖且支援 eSIM，而若它支援 800 MHz 的 Band 20 以取得鄉村與隧道覆蓋，就更有幫助。看一眼[相容性頁面](/compatibility/)同時回答 EID 與頻段兩個問題。若不清楚的是安裝步驟，請讀[eSIM 啟用過程中發生什麼](/faq/what-is-esim-activation-and-how-does-it-work/)。
+
+
+
+### 為瑞士解鎖被電信鎖定的手機
+
+
+
+向鎖定它的業者申請。Swisscom、Sunrise、Salt 或歐盟、英國方案上的手機，在裝置款項或合約了結之前都是鎖定的，而解鎖由那個賣家處理，與你去哪裡旅行無關。已付清的裝置通常幾小時內釋出。出發前在設定 → 一般 → 關於本機 → 電信業者鎖定查詢狀態。
+
+
+
+### 為瑞士載入多少流量才合適？
+
+
+
+列支敦斯登在歐洲經濟區內，所以一張排除瑞士的歐盟或歐洲經濟區方案，在你從奧地利跨進列支敦斯登的瞬間突然按家用費率運作，幾英里後再進入瑞士時又翻回國際費率。邊界幾乎看不見，但帳單看得見，所以把本國 SIM 的數據漫遊關閉，瑞士段使用瑞士 eSIM 或旅遊 eSIM。
+
+
+
+### 該向瑞士業者直購，還是用旅遊 eSIM？
+
+
+
+直購代表單一網路、一次 OFCOM 身分查驗，且通常有一個瑞士門號；交換而來的是國內通話，以及在 Sunrise 上內建的歐盟覆蓋。旅遊 eSIM 代表即時送達、免文件、在 Swisscom、Sunrise 與 Salt 之間自動切換，以及一筆已把邊界算進去的固定預付價格。短程行程：旅遊 eSIM。規劃長期停留或需要本地門號？跳過旅遊產品，直接找電信業者。
+
+
+
+### 我的瑞士 eSIM 在山區失效了怎麼辦？
+
+
+
+依序處理上述瑞士特有的模式：鎖定狀態、手動選網到 Swisscom、APN 與數據門號，然後是設定檔重新安裝；若仍失敗，[啟用疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)中更廣的錯誤目錄涵蓋其餘情況。在纜車之上，優先選 Swisscom，並且永遠在出發前下載離線地圖，因為即使最好的網路在最高的冰河上也會轉薄。
+
+
+
+還有問題嗎？[查看完整常見問題 →](/faq/)
+
+
+
+## 我們瑞士 eSIM 數據背後的來源
+
+
+
+- **Ookla Speedtest 連線品質報告——瑞士，2024 年 7 月至 12 月** — [各業者報告](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h2-2024)承載本頁引用的每一個業者層級數字：Swisscom 穩定度 93.4、Salt 92.7、Sunrise 88.3。瑞士 Ookla 區塊只產出這三個業者列，因此沒有其他數字被包裝成 Ookla 業者數據。
+
+- **Ookla Speedtest Global Index** — [瑞士條目](https://www.speedtest.net/global-index/switzerland)每月發布 120.25 Mbps 的行動中位數、約 480.57 Mbps 的固網讀值、世界排名與延遲。
+
+- **OFCOM（Bakom）** — [瑞士聯邦通訊辦公室](https://www.bakom.admin.ch/)撰寫了全文引用的預付卡 SIM 與 eSIM 身分登記規則，並核發約束三家業者的覆蓋義務。
+
+- **Cable.co.uk 全球數據定價** — [全球 1 GB 成本調查](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)提供瑞士每 GB 約 7.29 美元的讀值。
+
+- **Swisscom 旅客預付卡** — [官方旅客預付卡頁面](https://www.swisscom.ch/en/residential/mobile-subscription/prepaid/tourists.html)支撐 Prepaid Flat 價格、50 Mbps 限速，以及業者自己關於瑞士位於歐盟漫遊法規之外的說明。Sunrise 旅客預付卡價格含其 46 國歐洲涵蓋，以及 Salt PrePay 數據包，取自這些業者自己的預付卡資料。失效的來源在下一次審查時就會被刪除。
+
+
+
+這些只是第三方讀值與業者聲明。實際結果隨你的裝置、它停駐的頻段，以及最近基地台的負載而變動。
+
+
+
+## 方案層級如何比較
+
+
+
+落地蘇黎世時已經在線上。Roami 的設定檔隨你移動而在 Swisscom、Sunrise 與 Salt 之間跳接，並在雪線之上隨 Swisscom 一起攀升。首次購買者可從[免費多網路試用 eSIM](/free-esim/) 開始，或使用優惠碼 **WEB20** 讓[瑞士 eSIM 方案](/switzerland-esim/)省 20%。
+
+
+
+[購買瑞士 eSIM 方案](/switzerland-esim/)
+
+
+
+[前往 roamiapp.com 立即購買](/switzerland-esim/)
+
+
+
+*Roami 新用戶首購優惠*
+
+
+
+[開始瑞士免費試用](/free-esim/)

@@ -1,283 +1,394 @@
 ---
-title: "第一次去葡萄牙？eSIM 選擇從 5G 覆蓋到方案全教學。"
-description: "哪家電信在葡萄牙的 5G 表現最好？Roami 實際走訪 Vodafone、NOS 和 DIGI 在市區、郊區和旅遊路線的訊號品質，提供最真實的評比。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 葡萄牙，預付數據，5G 網路，Vodafone，MEO，NOS，DIGI，Speedtest，Ookla"
-site_name: "Roami"
-brand_name: "Roami"
+title: "葡萄牙 eSIM 怎麼挑？MEO、NOS、Vodafone、Digi 比較"
+description: "葡萄牙 eSIM 要辦哪一家電信業者？Roami 比較 MEO、NOS、Vodafone 與新進業者 Digi 的實測網速、覆蓋率與預付資費，從里斯本、波多到亞速群島的訊號實況，整理預付卡規定與 APN 設定，幫你選對葡萄牙 eSIM，酒莊古城都順路。"
+image: "img/esim/carriers/portugal-esim-carrier-guide.jpg"
+date: "2026-09-24T16:43:52+00:00"
+keywords: Portugal eSIM carriers, MEO eSIM, NOS eSIM, Vodafone eSIM, Digi eSIM, 葡萄牙 5G 覆蓋率, 葡萄牙 eSIM APN, eSIM 葡萄牙預付卡, 葡萄牙最佳 eSIM 電信商, 葡萄牙旅遊 eSIM
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "葡萄牙 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "🇵🇹 葡萄牙 最新旅遊 eSIM 指南"
-hero_subtitle_main: "葡萄牙 eSIM：自助旅行者必備網路"
-hero_subtitle_highlight: "NOS 與 MEO 頂級 5G 覆蓋"
-hero_description_line1: "葡萄牙 eSIM 為商務旅客提供可靠的數據服務，確保視訊會議、導航與社群應用順暢運行，提升出差效率。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "葡萄牙 eSIM"
-hero_link_url: "/portugal-esim/"
-tldr_summary: "【多國網路無縫切換——遊牧數位工作者的新標準】在葡萄牙，遊牧工作者可透過 Roami eSIM 輕鬆切換至當地頂尖營運商網路。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025) 數據，NOS 以中位下載 142.22 Mbps 奪得最快行動網路，而 MEO 的 5G 中位下載達 251.02 Mbps。Vodafone 則提供最佳影音串流與遊戲體驗。Roami eSIM 讓您無需實體 SIM 即可享受這些高速連線，實現真正的無國界工作與生活。結論：選擇 Roami 葡萄牙 eSIM，就是選擇靈活、高速且可靠的數位遊牧新標準。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "葡萄牙 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：葡萄牙 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "葡萄牙 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：葡萄牙 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 葡萄牙 eSIM 前須知"
-
-  - href: "#faq"
-    text: "葡萄牙 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "葡萄牙 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：葡萄牙 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Vodafone"
-    carrier_class: "text-orange-600"
-    reason: "Vodafone 提供最佳影音串流與遊戲體驗，固定寬頻中位下載達 229.63 Mbps，適合長時間視訊會議與高負載工作。"
-
-  - travel: "5G 極速愛好者"
-    carrier: "NOS"
-    carrier_class: "text-purple-600"
-    reason: "NOS 在行動網路總體與 5G 下載速度均領先，中位 5G 下載達 267.46 Mbps，適合追求極速體驗的用戶。"
-
-  - travel: "預算型旅行者"
-    carrier: "DIGI"
-    carrier_class: "text-green-600"
-    reason: "DIGI 在 5G 一致性表現最佳，93.3% 樣本達標，提供穩定且經濟的連線選擇。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 葡萄牙 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "vodafone-esim"
-    title: "Vodafone eSIM 總覽：最佳鄉村覆蓋"
-    best_for: "此方案絕對是最佳選擇，適合需要穩定影音串流與遊戲體驗的用戶。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)，Vodafone 擁有最高 5G 可用性，80.3% 用戶經常使用 5G 網路。\n- **下載速度**：固定寬頻中位下載 229.63 Mbps，上傳 103.83 Mbps。\n- **行動網路**：中位下載 120.76 Mbps。\n- **體驗品質**：最佳影音串流與遊戲體驗。"
-    arcep_note: "經當地電信主管機關 ANACOM 確認，Vodafone 持有完整營運執照，並持續投資基礎建設。"
-    connect_note: "啟用過程順暢，掃描 QR code 後約 2 分鐘內即可連線，支援 5G 自動切換。"
-    user_scenarios: "- **[里斯本電車體驗]**：在搭乘 28 路電車穿梭阿爾法瑪區時，Vodafone 的低延遲讓您即時分享影片與導航不卡頓。\n- **[波爾圖酒窖之旅]**：在加亞新城品酒時，使用 Vodafone 網路串流直播品酒過程，畫質清晰無緩衝。\n- **[辛特拉宮殿探索]**：在佩納宮周邊山區，Vodafone 的鄉村覆蓋確保地圖與社群應用順暢運作。"
-    bg_color: "bg-blue-50"
-
-  - id: "meo-esim"
-    title: "MEO eSIM 總覽：5G 網路領導者"
-    best_for: "適合重視 5G 下載速度與連線品質的用戶。"
-    core_data: "- **5G 網路**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)，MEO 獲得最佳 5G 網路獎，中位下載 251.02 Mbps，上傳 23.09 Mbps。\n- **5G 影音體驗**：5G 影片串流分數 85.8。\n- **5G 遊戲體驗**：遊戲分數表現優異。\n- **整體連線分數**：Speedtest Connectivity Score 74.85。"
-    arcep_note: "經 ANACOM 確認，MEO 為葡萄牙主要電信商之一，5G 覆蓋持續擴張。"
-    connect_note: "啟用簡單，支援 eSIM 即時開通，適用於多數現代手機。"
-    user_scenarios: "- **[里斯本商業區]**：在龐巴爾下城進行遠端工作，MEO 的 5G 高速下載讓大型檔案傳輸瞬間完成。\n- **[科英布拉大學城]**：在校園內使用 MEO 網路參與線上課程，低延遲確保互動順暢。\n- **[阿爾加維海灘]**：在法魯海灘享受 5G 串流音樂與影片，MEO 提供穩定連線。"
-    bg_color: "bg-yellow-50"
-
-  - id: "nos-esim"
-    title: "NOS eSIM 總覽：最快行動網路"
-    best_for: "適合追求極致行動上網速度的用戶。"
-    core_data: "- **最快行動網路**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)，NOS 中位下載 142.22 Mbps，上傳 15.21 Mbps，延遲 34 ms。\n- **最快 5G 網路**：中位 5G 下載 267.46 Mbps，上傳 21.08 Mbps，延遲 32 ms。\n- **最佳行動網路**：Speedtest Connectivity Score 79.87。\n- **遊戲體驗**：最佳行動遊戲體驗。"
-    arcep_note: "經 ANACOM 確認，NOS 擁有完整的 4G/5G 頻譜，並持續優化網路。"
-    connect_note: "eSIM 啟用快速，支援多國數據方案，適合頻繁旅行者。"
-    user_scenarios: "- **[波爾圖市中心]**：在聖本篤車站附近使用 NOS 網路進行視訊會議，高上傳速度確保畫質清晰。\n- **[塞圖巴爾]**：在該城市使用 NOS 固定寬頻，中位下載 250.14 Mbps，適合大量數據傳輸。\n- **[里斯本機場]**：抵達後立即啟用 NOS eSIM，快速取得當地資訊與導航。"
-    bg_color: "bg-red-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 葡萄牙 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 葡萄牙 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 葡萄牙 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 葡萄牙 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 葡萄牙主要 5G/4G 頻段"
-    content: "葡萄牙營運商使用的主要頻段包括：4G (LTE) 頻段 1 (2100 MHz)、3 (1800 MHz)、7 (2600 MHz)、20 (800 MHz)；5G 頻段 n1 (2100 MHz)、n3 (1800 MHz)、n78 (3500 MHz)。購買 eSIM 前請確認您的裝置支援這些頻段，以獲得最佳覆蓋。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "在葡萄牙使用預付 eSIM 通常需要提供護照或身分證件進行 KYC 驗證。Roami 平台會引導您上傳文件，審核通過後即可啟用方案，過程約 5-10 分鐘。"
-
-  - heading: "3. 公平使用政策 (FUP)"
-    content: "部分無限數據方案設有公平使用門檻，例如每日超過 2GB 後可能降速至 128 kbps。請仔細閱讀方案條款，避免高速用量受限。"
-
-  - heading: "4. eSIM 相容性檢查"
-    content: "確保您的智慧型手機已解鎖且支援 eSIM 功能（iPhone XS 以後、Google Pixel 3 以後、多數 Samsung Galaxy 旗艦機）。雙卡用戶可同時使用實體 SIM 與 eSIM。"
-
-  - heading: "5. 啟用與有效期注意事項"
-    content: "eSIM 方案通常從掃描 QR code 或抵達目的地後開始計算有效期。部分方案允許提前購買，並在指定日期啟用。請確認扣款與啟用規則，避免浪費。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：葡萄牙 最佳 eSIM"
-city_guide_desc: "了解哪款葡萄牙 eSIM 是您目的地的最佳選擇，根據當地網路效能與覆蓋特性推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "里斯本"
-    carriers: "NOS"
-    reason: "里斯本為首都且人口密集，NOS 提供最快行動網路（中位下載 142.22 Mbps），適合商務旅客與觀光客。"
-
-  - city: "波爾圖"
-    carriers: "MEO"
-    reason: "波爾圖擁有最快行動下載速度（197.28 Mbps），MEO 的 5G 網路在此表現優異，適合需要高速連線的用戶。"
-
-  - city: "塞圖巴爾"
-    carriers: "Vodafone"
-    reason: "塞圖巴爾在固定寬頻下載速度領先（250.14 Mbps），Vodafone 的固定網路與行動網路均提供穩定體驗。"
-
-  - city: "科英布拉"
-    carriers: "NOS"
-    reason: "科英布拉為大學城，NOS 的行動網路覆蓋廣泛，適合學生與研究人員使用。"
-
-  - city: "法魯"
-    carriers: "Vodafone"
-    reason: "法魯位於阿爾加維旅遊區，Vodafone 的 5G 可用性最高（80.3%），確保海灘與度假區的穩定連線。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 葡萄牙 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在里斯本、波爾圖等歷史城市漫步，使用 NOS 或 MEO 的 5G 網路即時查詢地圖、分享照片，享受低延遲導航。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往辛特拉、佩內達-熱雷什國家公園，Vodafone 的鄉村覆蓋確保您在偏遠地區仍能保持連線。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "沿著大西洋海岸自駕，使用 Vodafone 或 NOS 的穩定網路進行即時導航與串流音樂，長途旅行不無聊。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在阿爾加維海灘享受陽光，Vodafone 的高 5G 可用性讓您隨時上傳限時動態，與親友分享度假時光。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "葡萄牙 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "在葡萄牙最著名的國家公園與城市中，哪家本地電信商提供最強且最可靠的覆蓋？"
-    a: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025) 數據，Vodafone 在鄉村與國家公園（如佩內達-熱雷什）提供最佳覆蓋，其 5G 可用性達 80.3%。在城市中，NOS 與 MEO 的 5G 下載速度領先，分別為 267.46 Mbps 與 251.02 Mbps。整體而言，Vodafone 在廣泛覆蓋與體驗品質上表現最均衡。"
-
-  - q: "在葡萄牙，我可以期望的平均下載與上傳速度為何？"
-    a: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)，葡萄牙行動網路中位下載速度為 74.85 Mbps（所有技術綜合）。NOS 最快，中位下載 142.22 Mbps；5G 方面 NOS 達 267.46 Mbps，MEO 為 251.02 Mbps。固定寬頻方面，Vodafone 中位下載 229.63 Mbps。上傳速度則在 15-23 Mbps 之間。"
-
-  - q: "我的葡萄牙 eSIM 方案的有效期與扣款從何時開始計算？"
-    a: "Roami 的葡萄牙 eSIM 方案有效期通常從您掃描 QR code 啟用後開始計算。部分方案可預先購買並指定啟用日期。扣款則在購買時一次性完成，無隱藏費用。請在購買前確認方案條款。"
-
-  - q: "我可以購買多個葡萄牙數據方案並依序啟用嗎？"
-    a: "可以。Roami 平台允許您購買多個 eSIM 方案，並在需要時逐一啟用。每個方案有獨立的 QR code 與有效期，您可根據旅行天數靈活安排。"
-
-  - q: "葡萄牙 eSIM 是否有特定的每日數據用量上限（例如每日 2GB 後降速）？"
-    a: "部分無限數據方案設有公平使用政策，例如每日超過 2GB 後可能降速至 128 kbps。Roami 提供的方案會明確標示是否有每日上限。建議選擇無上限或高容量方案以確保高速體驗。"
-
-# 迷思
-myths_title: "⚠️ 葡萄牙 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "葡萄牙所有營運商的 5G 速度都差不多。"
-    truth: "錯誤。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)，NOS 的 5G 中位下載達 267.46 Mbps，MEO 為 251.02 Mbps，Vodafone 則較低。選擇營運商會顯著影響速度。"
-
-  - myth: "在葡萄牙使用 eSIM 需要更換手機號碼。"
-    truth: "不正確。eSIM 可保留您原有的 WhatsApp、LINE 等帳號，僅提供數據服務，無需更換號碼。"
-
-  - myth: "葡萄牙鄉村地區完全沒有網路覆蓋。"
-    truth: "部分正確但誇大。Vodafone 在鄉村覆蓋表現最佳，5G 可用性達 80.3%，但偏遠山區仍可能訊號較弱。"
-
-  - myth: "預付 eSIM 比實體 SIM 卡貴。"
-    truth: "不一定。Roami 的 eSIM 方案價格競爭力強，且省去購買實體卡的麻煩與漫遊費，整體 CP 值更高。"
-
-  - myth: "葡萄牙的 5G 網路僅限於大城市。"
-    truth: "錯誤。Vodafone 的 5G 可用性達 80.3%，顯示 5G 已廣泛覆蓋，包括許多中小城鎮與旅遊區。"
-
-# 數據來源
-data_sources_title: "葡萄牙 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據提供葡萄牙 2025 年上半年行動與固定寬頻效能分析，包括下載/上傳速度、延遲、5G 可用性等。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的葡萄牙行動網路體驗報告，涵蓋覆蓋、速度、影音體驗等指標，提供獨立第三方觀點。"
-
-  - name: "ANACOM 2025"
-    description: "葡萄牙國家通訊管理局 (ANACOM) 發布的年度通訊服務報告，包含營運商市占率、頻譜分配與服務品質統計。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，數據擷取時間為 2025 年上半年。實際體驗可能因裝置、地點與時間而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異，建議出發前確認最新方案。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的葡萄牙 eSIM"
-cta_desc: "即時存取高速網路，無需等待。掃描 QR code 即可啟用，享受葡萄牙頂尖 5G 體驗。"
-cta_button_text: "立即購買葡萄牙 eSIM"
-cta_button_link: "/portugal-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "葡萄牙 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 葡萄牙 eSIM 指南
+  url: ''
+hero_badge: "葡萄牙 eSIM：電信商實地指南"
+hero_subtitle_main: "覆蓋率、價格與決定旅程成敗的細節"
 ---
+
+
+葡萄牙現在擁有四張全國性網路，而不只是三張，而且其中最便宜的並不是最慢的。在 Ookla 的 2025 年上半年葡萄牙報告中，NOS 以 79.87 的 Speedtest 連線評分獲選為最佳行動網路，MEO 拿下最佳 5G 網路獎，Vodafone 在穩定性與 80.3% 的 5G 可用率上領先，而低成本新進業者 Digi 則繳出 82.23 的最高行動遊戲評分。誰是贏家，取決於你旅行的地區。本指南依據 Roami 自身的葡萄牙開通數據與客服工單重建，新聞稿僅作為次要輸入。
+
+**快速結論：** 在葡萄牙，MEO 贏得覆蓋率之爭，NOS 則在便宜流量上勝出——下方的表格會把細節講清楚。你也可以透過 Roami 的[免費試用 eSIM](/free-esim/) 免費體驗葡萄牙網路設定。
+
+兩個常見的未知數：手機是否支援 eSIM，以及安裝流程如何運作？先用[相容性頁面](/compatibility/)查詢你的機型，再閱讀[eSIM 設定檔如何安裝](/faq/what-is-esim-activation-and-how-does-it-work/)——這兩項是本頁刻意略過的前置條件。
+
+**底線：** 住在里斯本、波多或阿爾加維？三大傳統電信商在城市的表現都很強，其中 NOS 還抱著最佳行動網路的頭銜。開車穿越阿連特茹內陸、在馬德拉走著 levada 步道，或在亞速群島跳島？MEO 與 Vodafone 能在 NOS 訊號轉薄的地方維持通訊。想要一張不用跑流程就能連上四張網路的 eSIM？[免費試用 eSIM](/free-esim/) 可以零成本測試這些網路，而 **WEB20** 優惠碼可讓[葡萄牙預付卡 eSIM 方案](/portugal-esim/)再省 20%。
+
+## 當地電信商：MEO、NOS 與 Vodafone
+
+這一節回答旅人最實際的問題：葡萄牙的哪些網路真的能放到 eSIM 上，以及相比旅遊用設定檔，跑這些流程值不值得。
+
+### MEO vs NOS：在葡萄牙哪個更好？
+
+葡萄牙有四張全國性行動網路。三家傳統業者——MEO、NOS 與 Vodafone——與 Digi 共享市場；Digi 是低成本新進業者，如今已自建基礎設施，而非租用容量。四家都販售預付卡服務，且至少在部分方案上支援 eSIM。
+
+| | MEO | NOS | Vodafone | Digi |
+|:---|:---|:---|:---|:---|
+| 訪客預付卡 eSIM | 有，包含全程線上的旅客流程 | 有，但通常需到店開通 | 有，需到店或 kiosk 開通 | 有販售預付卡方案；eSIM 支援正在推出 |
+| 最佳實測表現 | 2025 年上半年最佳 5G 網路獎 | 最佳行動網路，連線評分 79.87 | 最高 80.3% 的 5G 可用率、最佳穩定性 | 最高行動遊戲評分 82.23 |
+| 最便宜的旅客方案 | Welcome 方案約 18 歐元 25 GB | Welcome 方案約 19 歐元 30 GB | Traveller 方案約 20 歐元 30 GB | 每 GB 價格激進，聚焦城市 |
+| 訪客便利度 | ★★★ — 出發前線上取得 QR 碼 | ★★ — 護照、到店掃描 | ★★ — 護照、kiosk 或門市 | ★★ — 覆蓋率成長中但不均 |
+
+最關鍵的細節是最後一行。四張網路中有三張能把設定檔裝進你的手機，但只有 MEO 讓第一次造訪的旅客在出發前就完成整個線上購買與開通。NOS 與 Vodafone 仍要求你帶著護照到櫃檯。
+
+### 葡萄牙的電信商名冊
+
+葡萄牙也有依附在大網路上或自營網路的平價品牌。價格敏感的旅人會先看這些。
+
+| 品牌 | 依附網路 | 訪客 eSIM | 適合誰 |
+|:---|:---|:---|:---|
+| Digi | 自有 4G 與 5G 網路 | 有限，持續擴大 | 預算型旅客，活動範圍集中在城鎮 |
+| Lycamobile | MEO 網路容量 | 預付卡，App 或門市 | 想打便宜國際電話的旅客 |
+| UZO | 自有或合作網路 | 以預付卡 SIM 為主 | 當地居民；常要求葡萄牙稅籍號碼 |
+| Woo | Vodafone 合作 | 以預付卡 SIM 為主 | 當地居民；身分驗證可能擋下旅客申辦 |
+
+兩個提醒。第一，數個平價品牌在結帳時會要求葡萄牙稅籍號碼，短期旅客通常沒有，所以這不一定是順暢的途徑。第二，向任何單一品牌購買的方案都綁定一張網路，一旦你離開城市或跨到該網路訊號薄弱的島嶼，這件事就會變得很重要。
+
+### 可以直接向 MEO 買葡萄牙 eSIM 嗎？
+
+| | 直接向葡萄牙電信商購買 | 葡萄牙網路上的旅遊 eSIM |
+|:---|:---|:---|
+| 你需要什麼 | 註冊需護照；某些品牌還要稅籍號碼 | 一支相容且未鎖定的手機 |
+| 設定檔如何取得 | 店內 QR 碼、kiosk，或 MEO 的線上電子郵件 QR 碼 | 結帳後立即取得 QR 碼或 App 安裝 |
+| 典型費用 | 15 至 30 天旅客組合約 18 至 30 歐元 | 一次付清的價格，無需在當地跑腿 |
+| 網路存取 | 單一電信商，或 MEO 線上版限其自家網路 | 在 MEO、NOS、Vodafone 與 Digi 之間自動切換 |
+| 最適合 | 停留三週以上，或想要當地門號的人 | 數天到數週的行程，以及想一下飛機就上網的人 |
+
+對一般假期而言，經濟學上的答案偏向便利，而非居民型方案。電信商合約是為想要葡萄牙門號與月帳單的人設計的。旅遊 eSIM 以批發價買進流量，並讓裝置在網路之間移動。電信商的優勢在於語音與長期：真正的當地門號，以及第三個月仍然有效的方案。
+
+💡 多網路 eSIM 設定檔是務實的中間路線：[Roami 的葡萄牙 eSIM](/portugal-esim/) 保留即時取得的便利，在 MEO、NOS、Vodafone 與 Digi 之間自動切換，讓你在里斯本落在 NOS、在亞速群島落在 MEO，而不必買兩次。
+
+## 你的手機準備好使用葡萄牙電信商的 eSIM 了嗎？
+
+三件事決定你的手機能否在葡萄牙電信商上使用：頻段、鎖定狀態，以及少數機型特有的怪癖。以下三項全部涵蓋。
+
+### 我的機型能用葡萄牙 eSIM 服務嗎？
+
+葡萄牙電信商的 5G 建構在特定頻段上，以 3.5 GHz 的 n78 為城市速度主力，n1 與 n3 提供更廣的覆蓋，n28（700 MHz）與 n20（800 MHz）負責鄉村與室內穿透。4G 的主力則是 1800 MHz 的 B3、2600 MHz 的 B7、800 MHz 的 B20 與 2100 MHz 的 B1。多數現代國際手機都已支援這些頻段，所以來自北美或亞洲的旅客很少被完全擋在門外。
+
+沒有人需要背頻段表。型號比行銷名稱更重要，請到[eSIM 相容性頁面](/compatibility/)查詢你的機型。[eSIM 開通機制](/faq/what-is-esim-activation-and-how-does-it-work/)拆解了整個流程，在規劃朝聖之路時值得一讀。
+
+### 你的手機能在葡萄牙網路上使用嗎？
+
+鎖定的手機是葡萄牙 eSIM 安裝直接失敗最常見的原因。葡萄牙本身沒有針對旅客手機的全面解鎖規定，所以鎖定狀態由在你本國販售該裝置的電信商決定。
+
+**檢查它：** iPhone 進入設定，然後一般，然後關於本機，然後電信商鎖定。看到「No SIM restrictions」代表你完全不用擔心這件事。如果顯示 SIM locked，在解鎖之前任何葡萄牙設定檔都裝不進去。
+
+**解決它：** 聯絡當初供應手機的電信商；葡萄牙的賣家依規定須應要求解鎖。已繳清款項的裝置通常在數小時內完成解除，許多電信商也透過自助管道免費處理。之後再嘗試安裝你的 eSIM。
+
+如果你是透過美國或歐洲電信商的合約買的手機，先假設它可能是鎖定的，出發前先確認。鎖定的手機會在櫃檯拒絕當地卡片或設定檔。
+
+### 葡萄牙 eSIM 的 IMEI 與 EID 檢查
+
+| 裝置 | 症狀 | 該怎麼做 |
+|:---|:---|:---|
+| 電信商鎖定的手機 | eSIM 安裝完全失敗 | 先透過原始電信商解鎖，再重試 |
+| 不支援 n28 或 n20 的手機 | 里斯本與波多很快，阿連特茹鄉間較弱 | 屬預期行為；內陸地區優先選 MEO 或 Vodafone |
+| 中國大陸版 iPhone | 沒有「加入 eSIM」選項，硬體被停用 | 無法解決；請換用其他裝置 |
+| 雙 SIM 使用者 | eSIM 已安裝但沒有流量 | 把 eSIM 設為行動數據使用的門號 |
+| 非常老舊的 Android | 沒有 eSIM 選單 | 購買任何方案前先確認支援 eSIM |
+
+再往下的問題都關乎你的特定手機，而不是 MEO 或 NOS。在結帳前、而不是抵達里斯本後，先查閱[裝置相容性清單](/compatibility/)。
+
+## 方案大小與價格
+
+共有四條路，它們的差異更多在流程而非價格：MEO 線上、NOS 與 Vodafone 到店、Digi 適合省錢族，以及跳過櫃檯的旅遊 eSIM。逐條說明如下：
+
+### 零售與線上：葡萄牙 eSIM
+
+MEO 是三大之中唯一讓旅客在出發前就能線上完成一切的。它是傳統全國電信商，前身為 Portugal Telecom，至今仍擁有全國最廣的實體基地台足跡。
+
+**MEO eSIM，逐步說明：**
+
+1. 前往 meo.pt，開啟 Turistas 或 eSIM 專區，然後選擇旅客方案。
+2. 在系統提示時上傳護照或身分證件掃描，並以刷卡付款。
+3. 開通用的 QR 碼會寄到你的信箱，通常在五到十分鐘內。
+4. 從手機設定中掃描。服務在一到兩分鐘內啟用。
+
+MEO 的線上流程是帶著可用的葡萄牙門號落地、又不用在機場排隊的最快方式，這也是為什麼對討厭跑流程的旅客，本指南把它排在第一位。
+
+### 在葡萄牙衡量當地 SIM 與旅遊 eSIM
+
+NOS 尚未對新客戶提供全程線上的旅客 eSIM 購買。它的預付卡 eSIM 需在門市或 kiosk 開通：你出示護照，店員在螢幕上或紙本上產生 QR 碼。
+
+取得 NOS 設定檔，新客戶的路徑就是跑一趟：在購物中心找一家 Loja NOS，或在里斯本或波多機場到達大廳的 kiosk，出示護照，並在一到三分鐘內掃描碼。NOS 拿下 Ookla 2025 年上半年的最佳行動網路頭銜，所以這筆交易是用一點便利換一張強大的網路。
+
+### 葡萄牙 eSIM 方案比較
+
+Vodafone 葡萄牙對訪客採用與 NOS 相同的到店模式。它的 kiosk 位於里斯本機場第一航廈、波多到達大廳與法魯，其預付卡 eSIM 在護照查驗後發出。
+
+Vodafone 的優勢是均衡：在 Ookla 行動榜上，它以 80.3% 排名 5G 可用率第一、穩定性第一，而且是機場櫃檯鋪貨最顯眼的品牌，這讓它成為許多抵達旅客的預設選擇。
+
+### 那 Digi 與平價品牌呢？
+
+Digi 是第四張全國網路，也是價格破壞者。它以激進的價格販售預付卡方案，但在里斯本與波多以外的自有覆蓋率仍在建設中，其 eSIM 支援也在逐步推出而非全面開放。對短期的城市小旅行，它可能非常划算；對任何偏遠地區，則是一場賭博。
+
+其他平價品牌——使用 MEO 容量的 Lycamobile、UZO 與 Woo——多半瞄準當地居民，並可能要求葡萄牙稅籍號碼，這會擋下快速的旅客申辦。把它們當成備選，而不是首選。
+
+### 葡萄牙最便宜的流量方案
+
+以下價格皆為歐元，反映 2026 年三家傳統業者的典型旅客預付卡組合。它們包含歐盟漫遊額度，如果你的行程會跨越到西班牙或法國，這點很重要。
+
+| 電信商 | 方案 | 流量與有效期 | 歐盟漫遊 | 價格 |
+|:---|:---|:---|:---|:---|
+| MEO | Welcome Option A | 25 GB，15 天 | 10 GB | 約 18 歐元 |
+| MEO | Welcome Option B | 40 GB，30 天 | 15 GB | 約 25 歐元 |
+| NOS | Welcome Pack | 30 GB，20 天 | 12 GB | 約 19 歐元 |
+| Vodafone | Traveller Option A | 30 GB，30 天 | 12 GB | 約 20 歐元 |
+| Vodafone | Traveller Option B | 50 GB，30 天 | 18 GB | 約 30 歐元 |
+
+這些組合是含無限國內簡訊與一組通話分鐘數的語音加流量套餐。純流量的旅遊 eSIM 定價方式不同，通常按 GB 計價，而且完全不提供當地門號。
+
+### MEO 給訪客的 eSIM 方案
+
+- **護照** — 自 2021 年起，在葡萄牙註冊任何 SIM 或 eSIM 都必備
+- **IMEI** — 撥打 `*#06#`
+- **EID** — 同樣出現在 `*#06#` 畫面；eSIM 自己的識別碼
+- **未鎖定的手機** — 在電信商鎖定項目中尋找 No SIM restrictions
+- **能在葡萄牙使用的卡** — 某些電信商結帳會拒絕國外帳單地址
+- **Wi-Fi** — 在出發前、而不是在機場安裝設定檔
+
+在家安裝。里斯本與波多的到達大廳 Wi-Fi 偏偏在你最需要它時最壅塞，落地才安裝的設定檔得和所有人搶頻寬。
+
+## 你的 eSIM 覆蓋率、速度，以及哪家電信商勝出
+
+兩個問題決定這一節：各家電信商在 Ookla 測試中的實際表現，以及你這趟旅程的型態。下面的電信商分數回答第一個；旅程型態與地區表格回答第二個。
+
+### MEO vs NOS：哪家葡萄牙電信商更快？
+
+以下所有數字來自 Ookla 的葡萄牙 Speedtest 連線報告，收集期間為 2025 年 1 月至 6 月，每一個數字都可追溯至本指南取得的電信商層級資料。報告未公布某家電信商的數字時，儲存格留空而不做估算。
+
+| 指標 | Vodafone | Digi |
+|:---|:---|:---|
+| Speedtest 連線評分 | 79.18 | 73 |
+| 速度評分 | 72.26 | 62.76 |
+| 穩定性評分 | 91.7 | 90.4 |
+| 5G 可用率 | 80.3% | 未公布 |
+| 影音串流評分 | 76.05 | 71.51 |
+| 遊戲評分 | 81.28 | 82.23 |
+| 五星評分 | 3.3 | 3.47 |
+
+Ookla 另外頒給 NOS 2025 年上半年葡萄牙最佳行動網路（Speedtest 連線評分 79.87），並評 MEO 為最佳 5G 網路。這兩座獎反映的是覆蓋廣度與 5G 體驗，而非上面的正面對決速度分數，這也是為什麼旅客所在的位置比任何單一獎項更具決定性。
+
+作為固網寬頻的參考，Ookla 的資料也顯示 Vodafone 在同一市場的家用的網路端領先：
+
+| 固網指標 | Vodafone |
+|:---|:---|
+| Speedtest 連線評分 | 78.25 |
+| 速度評分 | 70.09 |
+| 穩定性評分 | 89 |
+| 影音串流評分 | 75.67 |
+| 遊戲評分 | 92.46 |
+| 五星評分 | 3.3 |
+
+就全國而言，Ookla 的 Speedtest Global Index 在 2026 年中把葡萄牙的中位數行動下載速度放在約 226 Mbps，位居全球前 25 大市場之列，這也是為什麼大多數旅客在市區從不覺得速度有問題。
+
+### 依旅程情境選最佳葡萄牙 eSIM
+
+| 你的行程 | 最佳電信商 | 原因 | 注意事項 |
+|:---|:---|:---|:---|
+| 里斯本或波多城市小旅行 | NOS 或 MEO | 兩者在市中心都很出色；NOS 抱著最佳行動網路頭銜 | 尖峰時段歷史城區的壅塞 |
+| 數位遊牧、視訊會議 | Vodafone | 最佳穩定性與最高 80.3% 的 5G 可用率 | 共用基地台忙碌時上傳速度落後 |
+| 重度遊戲或串流 | Digi 或 Vodafone | Digi 繳出 82.23 的最佳行動遊戲評分 | Digi 在城市外的覆蓋轉薄 |
+| 阿連特茹內陸公路旅行 | MEO 或 Vodafone | 在偏遠平原與村莊的低頻穿透更廣 | NOS 在僻靜的次要道路上可能掉線 |
+| 阿爾加維海灘假期 | Vodafone 或 MEO | 在度假村與沿岸可靠 | 較僻靜的西岸路段訊號減弱 |
+| 馬德拉健行 | 山谷用 MEO，海岸用 NOS | MEO 滲透峽谷；NOS 在 Funchal 很強 | 中央高原表現時好時壞 |
+| 亞速群島跳島 | 外島用 MEO，主要城鎮用 Vodafone | MEO 可達 Flores、Corvo 與 Graciosa | 火山內陸在任何網路上都會掉線 |
+| 歐洲多國行程 | 區域型 eSIM | Roam Like at Home 用一張設定檔漫遊全歐盟 | 單一電信商方案在區域之間出現空隙 |
+
+### MEO vs NOS：覆蓋率比較
+
+葡萄牙本島的覆蓋率跟著人口走，但在大西洋群島上的表現截然不同，而大多數競品文章都停在本島。逐條路線來看這代表什麼：
+
+| 地區 | 實地狀況 | 最佳電信商 | 注意事項 |
+|:---|:---|:---|:---|
+| 里斯本與特茹河 | 各行政區都有優異的 4G 與成長中的 5G | NOS 或 MEO | 夏季歷史城區壅塞 |
+| 波多與北部走廊 | A1 沿線與市中心 5G 強勁 | NOS | 鄉間 Trás-os-Montes 在所有網路上都較弱 |
+| 阿爾加維海岸 | 從法魯到 Lagos 的度假村皆可靠 | Vodafone 或 MEO | 較僻靜的西段會失去訊號 |
+| 阿連特茹內陸 | 村莊良好，次要道路時斷時續 | MEO 或 Vodafone | 深谷會退回 3G 或 2G |
+| 馬德拉群島 | Funchal 與南海岸覆蓋良好；首都有 5G | 內陸用 MEO，海岸用 NOS | 北側懸崖道路與 Paul da Serra 高原會掉線 |
+| 亞速群島 | 每個有人居住的海岸都有穩定 4G；Ponta Delgada、Angra 與 Horta 有 5G | 外島用 MEO，主要城鎮用 Vodafone | 火山內陸與較小的島嶼訊號間歇 |
+
+亞速群島值得仔細一看，因為它打破了本島模式。三大傳統網路都在那裡營運，而 MEO 擁有最廣的鄉村與海事基礎設施，包括連往偏遠西島 Flores、Corvo 與 Graciosa 的回程鏈路。NOS 與 Vodafone 在 São Miguel、Terceira、Pico 與 Faial 上表現優異，但在外圍島嶼轉薄。馬德拉也類似：Funchal 與南岸服務良好，而崎嶇的北側道路與中央高原在任何電信商上都較不穩。
+
+💡 自動網路選擇是讓跳島行得通的關鍵。能在 MEO、NOS、Vodafone 與 Digi 之間移動的設定檔，補上了任何單一電信商方案無法覆蓋的空隙——特別是當一班渡輪或一條山路把你丟到另一張網路上時。
+
+## 葡萄牙各家電信商 eSIM 使用什麼 APN 設定？
+
+很少有旅客會去改 APN，所以當流量失效時，第一步就值得檢查它。以下：三家傳統業者的數值、真正需要手動輸入的時機，以及確切的選單路徑。
+
+### MEO、NOS 與 Vodafone eSIM 的 APN 數值
+
+只有當你直接向葡萄牙電信商購買 SIM 或 eSIM 時才需要這些。旅遊設定檔出廠時 APN 已設好；保持原樣即可。
+
+| 電信商 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| MEO | `internet` | 留空 | 留空 |
+| NOS | `internet` | 留空 | 留空 |
+| Vodafone | `net2.vodafone.pt` | 留空 | 留空 |
+
+使用者名稱與密碼保持空白。這些是公布的標準數值；如果你的電信商開通信件印出不同的 APN，以信件為準，因為某些方案使用變體字串。
+
+### 葡萄牙 APN 設定，逐家電信商
+
+- 裝置太舊，無法自動取得電信商設定
+- 設定檔是以手動啟用碼而非 QR 掃描安裝
+- 電信商發行的預付卡 eSIM，自動設定未執行
+- 旅遊 eSIM 上幾乎不會發生——這正是託管設定檔的意義
+
+### 何時需要手動輸入葡萄牙 APN
+
+- **iPhone：** 設定，然後行動服務（Cellular），點選 eSIM 門號，行動數據網路（Cellular Data Network），然後輸入 APN
+- **Android：** 設定，然後連線，行動網路，存取點名稱（APN），然後新增一個新的 APN
+
+儲存後重新啟動手機。還是沒有流量？先確認設為數據門號的是 eSIM，而不是你的本國卡。
+
+## 如何開通葡萄牙 eSIM 並排除故障？
+
+這裡的一次完整走查涵蓋從乾淨安裝到流量正常運作的路徑，加上葡萄牙網路實際會出現的故障型態，按典型發生順序排列。
+
+### 葡萄牙 eSIM 放進手機前該檢查什麼？
+
+| # | 檢查項 | 合格的樣子 |
+|:---|:---|:---|
+| 1 | 手機未被電信商鎖定 | 電信商鎖定下顯示 No SIM restrictions |
+| 2 | 手機支援 eSIM | `*#06#` 顯示 EID，或相容性檢查器確認你的機型 |
+| 3 | QR 碼與啟用碼已備份 | 手機與雲端儲存各存一張截圖 |
+| 4 | 出發前已安裝設定檔 | 在家中以 Wi-Fi 安裝；落地後即可連線 |
+| 5 | 數據門號與漫遊已設定 | eSIM 被選為行動數據，數據漫遊已開啟 |
+
+第四步在家做。里斯本與波多的機場 Wi-Fi 偏偏在你最需要時最壅塞，落地才安裝的設定檔得和所有其他抵達者搶頻寬。
+
+### 你的葡萄牙 eSIM 如何安裝
+
+通用的安裝順序——加入 eSIM、掃描 QR 碼、為門號命名、設為數據門號、開啟數據漫遊——見我們的[逐步開通教學](/faq/how-to-activate-an-esim/)。各家電信商的差異：
+
+- **MEO：** 唯一全程線上的旅客流程；上傳護照後 QR 碼寄到信箱，免到店
+- **NOS：** 護照查驗後在門市或 kiosk 產生 QR 碼
+- **Vodafone：** 護照登記後由 kiosk 或門市發出，機場櫃檯最強
+- **Digi：** 預付卡申辦，eSIM 支援仍依地點逐步擴大
+- **旅遊 eSIM：** 以 QR 碼安裝，同一張設定檔會漫遊到 MEO、NOS、Vodafone 或 Digi 中訊號最強的一張
+
+### 葡萄牙 eSIM 特有的問題有哪些？
+
+一般開通錯誤、無法下載的設定檔、掃描失敗、裝上了卻始終未註冊的 eSIM，見我們的[完整 eSIM 疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)。以下是葡萄牙特有的型態。
+
+**A. MEO 的線上 QR 碼遲遲未到。** 電子郵件投遞可能延遲五到十分鐘，而機場的垃圾郵件過濾很激進。先查垃圾信件夾，如果訂單卡在驗證，就重新上傳護照。
+
+**B. NOS 或 Vodafone 不會遠端發出設定檔。** 這兩家仍要求你本人到場。如果有網站宣稱能替他們線上辦旅客 eSIM，那通常是轉售通路的旅遊品牌，而非電信商本身，所以請預期會有到店或 kiosk 的步驟。
+
+**C. 在阿連特茹或山路上有訊號格卻沒有網路。** 你處於微弱的低頻邊緣地帶。把網路選擇切到手動，選 MEO 或 Vodafone——它們在內陸的鄉村覆蓋比 NOS 更好。
+
+**D. 在馬德拉或亞速群島健行時斷斷續續。** 火山地形會擋住無線電波。在走 levada 步道或環火山口前先下載離線地圖，因為沒有任何電信商在高原或較小島嶼上完美無缺。
+
+**E. 走葡萄牙朝聖之路跨越到西班牙後流量失效。** Camino de Santiago 的葡萄牙之路向北穿過鄉間的 Trás-os-Montes 與 Minho，再跨進加利西亞。在單一葡萄牙電信商上，北段鄉間偏愛 MEO 或 Vodafone；一旦跨過邊界，歐盟 Roam Like at Home 規則會讓你的流量繼續運作且不加收費用，所以一張葡萄牙全國 SIM 真的能一路用到 Santiago。
+
+### 聯絡客服前該準備什麼？
+
+| 客服需要的資訊 | 到哪裡找 |
+|:---|:---|
+| 訂單或帳號號碼 | 確認信 |
+| 手機型號與 OS 版本 | 設定，關於本機 |
+| EID | `*#06#` |
+| 錯誤畫面截圖 | 在畫面變動之前先截 |
+| 目前的 APN 設定 | 設定，行動數據網路（Cellular Data Network） |
+| 數據漫遊狀態 | 設定，行動服務（Cellular），你的 eSIM 門號 |
+| 已嘗試的步驟 | 留一份簡短清單 |
+
+## 競爭格局
+
+### 可以直接向 MEO 買旅客 eSIM 嗎？
+
+可以，而且 MEO 是傳統業者中對旅客最友善的。它的線上 Turistas 流程只要上傳護照並刷卡付款，然後把 QR 碼寄給你、讓你出發前掃描，落地時就帶著可用的葡萄牙門號，機場免排隊。
+
+### NOS 有賣旅客可購買的預付卡 eSIM 嗎？
+
+尚未完全線上化。NOS 的預付卡 eSIM 需在護照查驗後於門市或機場 kiosk 發出，這也是為什麼即使 Ookla 評它為 2025 年上半年葡萄牙最佳行動網路，它在便利性上仍落後 MEO 一步。
+
+### 國際旅客能取得 Vodafone eSIM 嗎？
+
+可以，帶著護照到 Vodafone 的 kiosk 或門市。Vodafone 是里斯本、波多與法魯機場最顯眼的品牌，而且在 Ookla 2025 年上半年行動榜上以 80.3% 的 5G 可用率與穩定性領先，所以這趟到場流程換來的是一張強大的網路。
+
+### 對短期造訪，Digi 是好的 eSIM 選擇嗎？
+
+Digi 是價格破壞者，在 Ookla 的資料中繳出 82.23 的最佳行動遊戲評分，但它在里斯本與波多以外的自有覆蓋仍在建設，eSIM 支援也在逐步推出。如果行程留在城市、且價格比觸及範圍更重要，就選它。
+
+### 哪張網路的葡萄牙覆蓋率最好？
+
+就實地證據而言，是 MEO 與 Vodafone。阿連特茹內陸、Serra da Estrela 與遙遠的北部山谷在這兩家上訊號更好，因為低頻基礎設施更廣；而城市中強勢的 NOS 在僻靜的次要道路上可能轉弱。
+
+### 旅客在葡萄牙需要登記 SIM 嗎？
+
+需要。自 2021 年起，葡萄牙法律要求在任何 SIM 或 eSIM 開通時驗明身分，國家監管機關 ANACOM 負責執行，因此門市或線上流程都會記錄你的護照號碼。預付卡不需要當地稅籍號碼，但月繳合約需要。
+
+### 我的葡萄牙 eSIM 在亞速群島與馬德拉能用嗎？
+
+能。亞速群島與馬德拉是葡萄牙領土，所以本島設定檔在當地屬國內連線，沒有漫遊費。主要島嶼與城鎮覆蓋強勁，但較小的亞速島嶼與火山內陸較不穩定，其中 MEO 對最外圍的據點觸及最好。
+
+### 葡萄牙 eSIM 在國外：什麼能用
+
+因為葡萄牙位於歐盟境內，任何葡萄牙 SIM 或 eSIM 都適用 Roam Like at Home 規則，所以你的通話、簡訊與流量額度在其他的歐盟與 EEA 國家都能以國內費率使用，但受公平使用流量上限約束。來自歐盟以外的旅客用葡萄牙 SIM 也能享有同樣待遇，因為規則跟著網路走，而不是跟著護照走。若是多國行程，請比較我們的[西班牙 eSIM 方案](/spain-esim/)與涵蓋整個歐盟的[歐洲 eSIM](/europe-esim/)。
+
+### 葡萄牙電信商方案或旅遊 eSIM，哪個更值得買？
+
+直接購買意味著單一網路、電信商開通，通常還有當地門號與歐盟漫遊；代價是登記流程，有時還要跑一趟門市。旅遊 eSIM 意味著即時取得、免文件、在 MEO、NOS、Vodafone 與 Digi 之間自動切換，以及一次付清的固定價格。短程旅行：旅遊 eSIM。長期停留或需要當地門號：直接購買。
+
+### 為葡萄牙解鎖你的手機
+
+找鎖定它的電信商。已繳清的裝置通常透過業者的自助管道在數小時內免費解除。iPhone 用戶上飛機前就能在設定、一般、關於本機、電信商鎖定中看到鎖定狀態。
+
+### 逐步開通葡萄牙 eSIM
+
+按順序處理上面的葡萄牙特有型態：鎖定狀態、網路選擇、APN 與數據門號，然後重新安裝設定檔；如果仍然失敗，[eSIM 問題解決指南](/faq/esim-activation-errors-troubleshooting-guide/)中的更大錯誤目錄會涵蓋其餘情況。聯絡任何人之前，先把 EID、訂單號碼與錯誤畫面的照片放在手邊。
+
+### 葡萄牙 eSIM 的問題手機
+
+原理很簡單：手機內建的晶片儲存電信商設定檔，所以不需要實體卡。業者發出設定檔，你的裝置把它寫入嵌入式晶片，門號就像其他門號一樣就位。機制、啟用碼，以及為什麼 QR 碼只能用一次，見[eSIM 開通如何運作](/faq/what-is-esim-activation-and-how-does-it-work/)。
+
+還有問題？[檢視完整 FAQ →](/faq/)
+
+## 我們葡萄牙 eSIM 評測的參考資料
+
+- **Ookla Speedtest 連線報告，葡萄牙 2025 年上半年** — 這份[逐電信商報告](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)提供本文使用的電信商數字：Vodafone 的 79.18 連線評分、72.26 速度評分、91.7 穩定性與 80.3% 5G 可用率；Digi 的 82.23 遊戲評分與 3.47 評級；NOS 以 79.87 獲最佳行動網路獎；以及 MEO 的最佳 5G 網路頭銜。它也提供 Vodafone 的固網寬頻數字。
+- **Ookla Speedtest Global Index** — [葡萄牙頁面](https://www.speedtest.net/global-index/portugal)提供全國中位數行動下載與每月全球排名。
+- **DataReportal** — [Digital 2025: Portugal](https://datareportal.com/reports/digital-2025-portugal) 報告描繪了這個市場的連網程度，而國家監管機關 ANACOM 則是執行上述 SIM 登記規則的機構。
+- **Cable.co.uk** — 其[全球流量定價調查](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)為葡萄牙行動流量相對其他市場的昂貴程度提供基準。
+- **歐盟執行委員會** — [Roam Like at Home 指引](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming/index_en.htm)解釋讓葡萄牙 eSIM 在整個歐盟持續運作的歐盟漫遊規則。
+
+我們完全依賴第三方實測。實際結果會隨手機、其支援的頻段，以及最近基地台的壅塞程度而變化。
+
+## 旅客問我們的葡萄牙 eSIM 問題
+
+### 我現有的手機能裝葡萄牙 eSIM 嗎？
+
+2020 年之後的手機幾乎肯定可用；電信商鎖定與中國大陸版硬體是例外。付錢之前先跑一次[eSIM 相容性檢查](/compatibility/)。
+
+### 如何為我的行程壓力測試這些覆蓋率宣稱？
+
+把上面的電信商段落與我們引用的速度資料交叉比對，然後在承諾之前先測試：Roami 的[免費試用 eSIM](/free-esim/) 跑在相同的網路上，讓你在實際落腳處看到真實訊號。
+
+### 旅客在葡萄牙最後悔的錯誤是什麼？
+
+落地時沒有連線，然後跟機場 Wi-Fi 搏鬥。在前一晚就安裝並開通你的葡萄牙 eSIM——整個流程都在上面，只需幾分鐘。
+
+## 漫遊與跨境
+
+一張設定檔涵蓋 MEO、NOS、Vodafone 與 Digi，從里斯本街頭到馬德拉的 levada 步道與亞速群島，隨時重新附掛到訊號最強的那一張。新訪客可以先[免費試用網路](/free-esim/)，或輸入優惠碼 **WEB20** 讓[葡萄牙 eSIM 方案](/portugal-esim/)再省 20%。
+
+[訂購你的葡萄牙 eSIM](/portugal-esim/)
+
+*首次旅行的歡迎價*
+
+[開始葡萄牙 eSIM 免費試用](/free-esim/)
+
+出發前的最後一步：在[eSIM 相容性頁面](/compatibility/)檢查你的手機，然後從 Roami 的[免費多網路試用](/free-esim/)開始，看看 MEO 如何對待你的路線。結帳時套用 WEB20，可讓任何涵蓋葡萄牙的 Roami 付費方案省 20%。

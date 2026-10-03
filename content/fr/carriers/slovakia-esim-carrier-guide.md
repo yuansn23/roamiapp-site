@@ -1,380 +1,395 @@
 ---
-title: "Direction Slovaquie ? Choisissez la meilleure eSIM."
-description: "Vous hésitez entre Telekom, Orange et 4ka pour Slovaquie ? Roami vous montre les vrais débits 5G et les tarifs pour votre voyage au Slovaquie."
-date: "2026-06-17T06:04:16+00:00"
+title: "Opérateurs eSIM Slovaquie : quel réseau choisir ?"
 
-keywords: eSIM Slovaquie, données prépayées, réseau 5G, Telekom, Orange, 4ka, guide
-  voyage, Roami
+description: "Roami compare Telekom, Orange, O2 et 4ka pour une eSIM Slovaquie : couverture, vitesse et prix, de Bratislava aux Tatras."
+
+image: "img/esim/carriers/slovakia-esim-carrier-guide.jpg"
+
+date: "2026-09-23T02:03:37+00:00"
+
+keywords: eSIM Slovaquie, opérateurs eSIM Slovaquie, Telekom Slovaquie, Orange Slovaquie, eSIM 4ka, couverture mobile Slovaquie, données prépayées, réseau 5G
+
 site_name: Roami
+
 brand_name: Roami
+
 breadcrumb_items:
+
 - name: Roami
+
   url: /
+
 - name: Guide eSIM Slovaquie
+
   url: ''
-hero_badge: 🇸🇰 Guide actuel de l'eSIM de voyage Slovaquie
-hero_subtitle_main: 'Slovaquie eSIM: Activation rapide sans carte SIM physique'
-hero_subtitle_highlight: Couverture réseau 5G premium via Telekom, Orange et 4ka
-hero_description_line1: Rendez les voyages à l'étranger simples et rapides avec l'eSIM
-  Slovaquie. Elle couvre les principaux réseaux mobiles locaux avec des signaux stables,
-  des prix transparents et aucun frais caché.
-hero_description_line2: Connectez-vous en quelques secondes et profitez d'une navigation
-  illimitée.
-hero_link_text: eSIM Slovaquie
-hero_link_url: /slovakia-esim/
-tldr_summary: 'Dites adieu aux frais d''itinérance exorbitants : entrez dans l''ère
-  de la connectivité mondiale gratuite. Avec Roami, votre eSIM Slovaquie vous offre
-  un accès immédiat au meilleur réseau du pays. Selon le rapport Ookla H2 2024, Telekom
-  domine avec un débit médian de téléchargement de 102,38 Mbps et un score de vitesse
-  de 109,35. Que vous soyez à Žilina (140,70 Mbps) ou à Bratislava (106,56 Mbps),
-  profitez d''une expérience 5G fluide, idéale pour le gaming et le streaming, sans
-  aucun frais caché.'
-sidebar_more_hint: Faites glisser pour voir plus
-sidebar_title: Slovaquie eSIM Liens rapides
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Sélection rapide : Quel fournisseur d''eSIM Slovaquie choisir ?'
-- href: '#operators'
-  text: Test des meilleurs opérateurs mobiles eSIM Slovaquie
-- href: '#city-guide'
-  text: 'Guide des villes : La meilleure eSIM pour Slovaquie'
-- href: '#before-buy'
-  text: Ce que vous devez savoir avant d'acheter une eSIM Slovaquie
-- href: '#faq'
-  text: Questions fréquentes sur l'eSIM Slovaquie
-- href: '#myths'
-  text: Mythes et faits sur l'eSIM Slovaquie
-- href: '#data-sources'
-  text: Sources des données
-quick_picks_title: 'Sélection rapide : Quel fournisseur d''eSIM Slovaquie devriez-vous
-  choisir ?'
-quick_picks_table_headers:
-- Votre style de voyage
-- Fournisseur recommandé
-- Performance du réseau
-quick_picks_note_prefix: 'Source des données : '
-quick_picks_note_carrier: '[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Nomades numériques
-  carrier: Telekom
-  carrier_class: text-orange-600
-  reason: Meilleure vitesse globale (102,38 Mbps en download) et meilleure expérience
-    de jeu (Game Score 89,16). Idéal pour le télétravail et le streaming.
-- travel: Voyageurs urbains
-  carrier: Orange
-  carrier_class: text-orange-600
-  reason: Deuxième meilleur débit (81,33 Mbps) et excellente couverture dans les grandes
-    villes comme Bratislava et Košice.
-- travel: Randonneurs et aventuriers
-  carrier: 4ka
-  carrier_class: text-orange-600
-  reason: Réseau en développement, bon rapport qualité-prix pour les zones moins densément
-    peuplées, bien que les vitesses soient plus modestes (33,88 Mbps).
-cta_button_main_text: Voir l'eSIM de voyage Slovaquie la plus économique
-cta_button_sub_text: Commutation automatique de réseau, supporte la comparaison automatique
-  des prix des données prépayées
-operator_labels:
-  best_for: 'Idéal pour :'
-  core_data: 'Données clés :'
-  connect_note_label: 'Note de connexion eSIM :'
-operators:
-- id: telekom-esim
-  title: 'Test eSIM Telekom : Meilleure performance globale'
-  best_for: 'Ce forfait est le meilleur choix absolu pour les utilisateurs exigeants
-    : gaming, streaming 4K, visioconférences et téléchargements lourds.'
-  core_data: '- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024),
-    Telekom offre la meilleure expérience de jeu 5G avec un score de 91,58.
 
-    - **Débit descendant médian** : 102,38 Mbps
+hero_badge: "4ka, Telekom ou Orange ? Le choix slovaque"
 
-    - **Débit montant médian** : 20,33 Mbps
+hero_subtitle_main: "Ce que révèlent les données de vitesse indépendantes — et ce qu'elles omettent"
 
-    - **Latence** : 31 ms
-
-    - **Score de vitesse** : 109,35 (le plus élevé du marché)'
-  arcep_note: Confirmé par l'autorité locale des télécommunications (Úrad pre reguláciu
-    elektronických komunikácií a poštových služieb) comme l'opérateur le plus performant
-    du pays.
-  connect_note: L'activation se déroule sans problème via le QR code Roami. La configuration
-    APN est automatique sur la plupart des smartphones récents.
-  user_scenarios: '- **Žilina** : Avec un débit de 140,70 Mbps, Telekom est le fournisseur
-    le plus rapide de la ville. Parfait pour les nomades numériques installés dans
-    les cafés du centre historique.
-
-    - **Bratislava** : Dans la capitale, Telekom offre 106,56 Mbps en download. Idéal
-    pour les réunions en ligne depuis le quartier d''affaires de Ružinov.
-
-    - **Nitra** : Troisième ville la plus rapide (121 Mbps) avec Telekom comme opérateur
-    recommandé pour les étudiants et les professionnels.'
-  bg_color: bg-blue-50
-- id: orange-esim
-  title: 'Test eSIM Orange : Excellent compromis vitesse/prix'
-  best_for: Ce forfait est le meilleur choix pour les voyageurs souhaitant un bon
-    équilibre entre performance et coût, avec une couverture fiable dans tout le pays.
-  core_data: '- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024),
-    Orange est le deuxième opérateur pour la 5G, avec des performances solides.
-
-    - **Débit descendant médian** : 81,33 Mbps
-
-    - **Débit montant médian** : Non spécifié dans le rapport, mais généralement autour
-    de 18-20 Mbps
-
-    - **Latence** : Non spécifiée, mais comparable à Telekom (environ 30-35 ms)
-
-    - **Score de vitesse** : Non spécifié, mais inférieur à Telekom'
-  arcep_note: Orange est un opérateur historique régulé par l'Úrad pre reguláciu elektronických
-    komunikácií, garantissant une couverture nationale étendue.
-  connect_note: L'activation est simple et rapide. Orange est compatible avec la plupart
-    des appareils eSIM. Aucune configuration manuelle n'est nécessaire.
-  user_scenarios: '- **Trnava** : Deuxième ville la plus rapide (127,31 Mbps) – Orange
-    y est très performant, idéal pour les déplacements professionnels.
-
-    - **Trenčín** : Orange est le fournisseur le plus rapide de la ville (100,80 Mbps).
-    Parfait pour les visites touristiques du château.
-
-    - **Banská Bystrica** : Avec 101,66 Mbps, Orange offre une excellente expérience
-    pour les randonneurs dans les basses Tatras.'
-  bg_color: bg-orange-50
-- id: 4ka-esim
-  title: 'Test eSIM 4ka : Option économique pour les petits budgets'
-  best_for: Ce forfait est le meilleur choix pour les voyageurs à petit budget ou
-    ceux qui n'ont besoin que de données de base (messagerie, navigation web légère).
-  core_data: '- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024),
-    4ka est en retard sur la 5G par rapport à Telekom et Orange.
-
-    - **Débit descendant médian** : 33,88 Mbps
-
-    - **Débit montant médian** : Non spécifié, mais généralement inférieur à 10 Mbps
-
-    - **Latence** : Non spécifiée, probablement plus élevée (40-50 ms)
-
-    - **Score de vitesse** : 30,91 (le plus bas du marché)'
-  arcep_note: 4ka (SWAN) est un opérateur alternatif régulé, offrant une couverture
-    principalement urbaine. Vérifiez la disponibilité dans votre zone de voyage.
-  connect_note: L'activation via Roami est simple, mais les performances peuvent varier.
-    Idéal pour une utilisation légère en ville.
-  user_scenarios: '- **Košice** : Avec 81,72 Mbps (tous opérateurs confondus), 4ka
-    peut suffire pour une utilisation basique dans la deuxième ville du pays.
-
-    - **Prešov** : La ville la plus lente (70,87 Mbps) – 4ka y est une option économique
-    acceptable pour les courts séjours.
-
-    - **Martin** : 97,37 Mbps – 4ka peut convenir pour les voyageurs de passage dans
-    cette ville moyenne.'
-  bg_color: bg-green-50
-cards_compatibility_title: Vérifiez la liste de compatibilité eSIM Slovaquie
-cards_compatibility_desc: Vérifiez si votre téléphone prend en charge l'eSIM Slovaquie
-  et les bandes 5G locales
-cards_free_title: Obtenez votre eSIM Slovaquie gratuite
-cards_free_desc: eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans
-  frais d'itinérance
-cards_free_badge: GRATUIT
-cards_app_title: Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM
-cards_app_desc: 'Code promo : <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | Gestion eSIM en un clic'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Ce que vous devez savoir avant d'acheter une eSIM Slovaquie
-before_buy_sections:
-- heading: 1. Bandes 5G/4G principales en Slovaquie
-  content: 'Les opérateurs slovaques utilisent principalement les bandes 5G suivantes
-    : n78 (3,5 GHz) pour la 5G à haute vitesse, et n1 (2100 MHz) pour une meilleure
-    couverture. Pour la 4G, les bandes principales sont B3 (1800 MHz), B7 (2600 MHz)
-    et B20 (800 MHz). Assurez-vous que votre smartphone est compatible avec ces fréquences
-    pour une expérience optimale.'
-- heading: 2. Exigence d'identification (KYC) pour l'eSIM
-  content: En Slovaquie, l'achat d'une eSIM prépayée (y compris via Roami) nécessite
-    une vérification d'identité (KYC). Vous devrez fournir une pièce d'identité valide
-    (passeport ou carte d'identité) lors de l'activation. Ce processus est entièrement
-    en ligne et sécurisé.
-- heading: 3. Politique d'utilisation équitable (FUP) et limitation de débit
-  content: Les forfaits dits « illimités » en Slovaquie sont soumis à une politique
-    d'utilisation équitable (FUP). Après un certain volume de données (généralement
-    20 à 50 Go par mois), le débit peut être réduit à 1-2 Mbps. Roami applique également
-    cette règle pour garantir une qualité de service équitable pour tous.
-- heading: 4. Couverture réseau dans les zones rurales et montagneuses
-  content: Si vous prévoyez de voyager dans les Hautes Tatras ou les zones rurales,
-    privilégiez Telekom ou Orange. Selon le rapport Ookla, Telekom offre la meilleure
-    couverture et les vitesses les plus élevées, même en dehors des grandes villes.
-    4ka peut être moins fiable dans ces régions.
-- heading: 5. Compatibilité des smartphones avec l'eSIM
-  content: L'eSIM Roami est compatible avec la plupart des smartphones récents (iPhone
-    XS et ultérieur, Google Pixel 3 et ultérieur, Samsung Galaxy S20 et ultérieur,
-    etc.). Vérifiez la liste de <a href="/compatibility/" class="font-bold text-blue-600">Compatibilité
-    eSIM</a> sur notre site avant l'achat. Les appareils verrouillés par un opérateur
-    peuvent ne pas fonctionner.
-city_guide_title: 'Guide des villes : La meilleure eSIM pour Slovaquie'
-city_guide_desc: Découvrez quelle eSIM Slovaquie est le meilleur choix pour votre
-  ville de destination, basé sur les données de performance réelles du rapport Ookla
-  H2 2024.
-city_table_headers:
-- Ville
-- Fournisseur eSIM recommandé
-- Raison / Caractéristiques
-city_recommendations:
-- city: Žilina
-  carriers: Telekom
-  reason: Žilina est la ville la plus rapide de Slovaquie avec un débit médian de
-    140,70 Mbps. Telekom y est le fournisseur le plus performant, idéal pour les nomades
-    numériques et les gamers.
-- city: Trnava
-  carriers: Orange
-  reason: Deuxième ville la plus rapide (127,31 Mbps). Orange y offre une excellente
-    couverture et des vitesses stables, parfait pour les voyageurs d'affaires.
-- city: Bratislava
-  carriers: Telekom
-  reason: Capitale dynamique avec un débit de 106,56 Mbps. Telekom est le fournisseur
-    le plus rapide, recommandé pour les touristes et les professionnels. Orange est
-    une bonne alternative.
-- city: Košice
-  carriers: Orange
-  reason: Deuxième plus grande ville, avec un débit de 81,72 Mbps. Orange offre une
-    couverture fiable dans le centre historique et les zones résidentielles. Telekom
-    est également un bon choix.
-- city: Prešov
-  carriers: Telekom
-  reason: Ville la plus lente (70,87 Mbps), mais Telekom y est généralement le plus
-    performant. Recommandé pour les voyageurs à petit budget ou les courts séjours.
-city_guide_tip: '💡 Astuce : Si vous utilisez l''eSIM multi-réseau de Roami, votre
-  téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection
-  manuelle requise.'
-scene_guide_title: 🎯 Choisissez la meilleure eSIM Slovaquie selon votre scénario de
-  voyage
-scene_items:
-- icon: 🏛️
-  title: Découvreur de villes
-  text: Explorez Bratislava, Košice ou Trnava avec une connexion 5G ultra-rapide.
-    Téléchargez des guides, utilisez Google Maps en temps réel et partagez vos photos
-    sur les réseaux sociaux sans attendre.
-- icon: 🏞️
-  title: Amoureux de la nature
-  text: Randonnez dans les Hautes Tatras ou le Paradis Slovaque avec une couverture
-    fiable. Telekom offre la meilleure réception en montagne. Utilisez des applications
-    de randonnée et restez joignable en cas d'urgence.
-- icon: 🚗
-  title: Roadtrippeur
-  text: Parcourez la Slovaquie en voiture avec une eSIM qui fonctionne partout. De
-    Žilina à Banská Bystrica, profitez d'un streaming musical ininterrompu et d'un
-    GPS précis. Orange est un excellent choix pour les longs trajets.
-- icon: 🏖️
-  title: Vacancier à la plage
-  text: Bien que la Slovaquie n'ait pas de plages, les lacs comme le Štrbské Pleso
-    ou le lac Zemplínska šírava sont parfaits pour se détendre. Restez connecté avec
-    une eSIM économique de 4ka pour partager vos moments de détente.
-scene_guide_footer: 💡 L'édition multi-réseau de l'eSIM Roami Slovaquie détecte automatiquement
-  votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle
-  requise.
-faq_title: Questions fréquentes sur l'eSIM Slovaquie
-faq_prefix: Q
-faq_suffix: ': '
-faq_more_link_text: Plus de questions ? Voir la FAQ complète →
-faq_more_link_url: /faq/
-faq:
-- q: L'eSIM Slovaquie est-elle adaptée aux jeux en ligne et quelle est la latence
-    moyenne du réseau (ping) ?
-  a: Oui, l'eSIM Roami est parfaitement adaptée aux jeux en ligne, surtout si vous
-    choisissez Telekom. Selon le rapport Ookla H2 2024, Telekom offre la meilleure
-    expérience de jeu avec un Game Score de 89,16 (toutes technologies confondues)
-    et un score de 91,58 spécifiquement pour la 5G. La latence moyenne est de 31 ms,
-    ce qui est excellent pour les jeux compétitifs comme Fortnite ou Call of Duty
-    Mobile. Orange offre également une bonne expérience, mais avec une latence légèrement
-    plus élevée.
-- q: À quelle vitesse de réseau moyenne (téléchargement et téléversement) puis-je
-    m'attendre en Slovaquie ?
-  a: Les vitesses varient selon l'opérateur et la ville. En moyenne, avec Telekom
-    (le plus rapide), attendez-vous à un débit descendant médian de 102,38 Mbps et
-    un débit montant de 20,33 Mbps. Orange offre 81,33 Mbps en download, et 4ka 33,88
-    Mbps. Dans les villes les plus performantes comme Žilina, le débit peut atteindre
-    140,70 Mbps. Même dans les villes les plus lentes comme Prešov, vous aurez au
-    moins 70,87 Mbps. Ces chiffres sont basés sur le rapport Ookla H2 2024.
-- q: Roami offre-t-elle un support client en ligne 24h/24 en cas de problèmes de connexion
-    en Slovaquie ?
-  a: Oui, Roami propose un support client disponible 24h/24 et 7j/7 via chat en direct
-    et email. Notre équipe est formée pour résoudre rapidement les problèmes de connexion,
-    de configuration APN ou de <a href="/compatibility/" class="font-bold text-blue-600">Compatibilité
-    eSIM</a>. En cas de problème, contactez-nous immédiatement et nous vous assisterons
-    en français, anglais ou slovaque.
-- q: Pour les forfaits illimités en Slovaquie, existe-t-il une politique d'utilisation
-    équitable stricte (FUP) ou un ralentissement de la bande passante ?
-  a: Oui, tous les forfaits dits « illimités » en Slovaquie, y compris ceux de Roami,
-    sont soumis à une politique d'utilisation équitable (FUP). Généralement, après
-    avoir consommé un certain volume de données (par exemple 30 Go par mois), le débit
-    peut être réduit à 1-2 Mbps. Cette limitation est levée au début du cycle de facturation
-    suivant. Cette pratique est standard chez tous les opérateurs slovaques (Telekom,
-    Orange, 4ka) pour garantir une qualité de service équitable.
-- q: L'eSIM Slovaquie permet-elle d'appeler des numéros locaux ou de recevoir des
-    SMS ?
-  a: L'eSIM Roami est principalement conçue pour les données mobiles (Internet). Elle
-    ne permet pas d'effectuer des appels vocaux traditionnels vers des numéros locaux
-    ni de recevoir des SMS. Cependant, vous pouvez utiliser des applications de VoIP
-    comme WhatsApp, Skype ou Viber pour passer des appels et envoyer des messages
-    via Internet. Pour les appels d'urgence, composez le 112 (numéro d'urgence européen)
-    – il fonctionne même sans crédit, mais nécessite un réseau disponible.
-myths_title: ⚠️ Mythes et faits courants sur l'eSIM Slovaquie
-myth_label: '❌ Mythe : '
-truth_label: '✅ Fait : '
-myths:
-- myth: Tous les opérateurs slovaques offrent la même vitesse 5G.
-  truth: Faux. Selon le rapport Ookla H2 2024, Telekom domine largement avec un débit
-    descendant médian de 102,38 Mbps, contre 81,33 Mbps pour Orange et seulement 33,88
-    Mbps pour 4ka. Le choix de l'opérateur a un impact majeur sur votre expérience.
-- myth: Bratislava est la ville avec le meilleur réseau mobile de Slovaquie.
-  truth: Faux. Bien que Bratislava soit la capitale, elle se classe seulement 5ème
-    en termes de vitesse de téléchargement médiane (106,56 Mbps). Žilina est la ville
-    la plus rapide avec 140,70 Mbps, suivie de Trnava (127,31 Mbps) et Nitra (121
-    Mbps).
-- myth: Une eSIM est plus chère qu'une carte SIM physique en Slovaquie.
-  truth: Faux. Les eSIM Roami sont souvent plus économiques, surtout pour les courts
-    séjours. Vous évitez les frais d'itinérance des opérateurs traditionnels et les
-    frais d'activation en boutique. De plus, vous pouvez choisir des forfaits flexibles
-    adaptés à votre durée de voyage.
-- myth: La 5G est disponible partout en Slovaquie.
-  truth: Faux. La couverture 5G est encore principalement concentrée dans les grandes
-    villes (Bratislava, Košice, Žilina). Dans les zones rurales et montagneuses, la
-    4G reste le réseau dominant. Telekom offre la meilleure couverture 5G, mais il
-    est conseillé de vérifier la carte de couverture avant de voyager.
-- myth: Les forfaits « illimités » n'ont aucune limite de données.
-  truth: Faux. Comme mentionné, tous les forfaits illimités en Slovaquie sont soumis
-    à une politique d'utilisation équitable (FUP). Après un certain seuil (généralement
-    20-50 Go), le débit est réduit. Lisez attentivement les conditions générales avant
-    d'acheter.
-data_sources_title: Sources des données sur les réseaux mobiles Slovaquie
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024)'
-  description: Rapport officiel de connectivité pour la Slovaquie, période H2 2024
-    (juillet-décembre 2024). Fournit des données de performance réseau (vitesses de
-    téléchargement, téléversement, latence, scores de jeu) pour les principaux opérateurs
-    mobiles (Telekom, Orange, 4ka) et les villes les plus peuplées.
-- name: OpenSignal 2024
-  description: Rapport sur l'expérience mobile en Slovaquie, analysant la couverture
-    4G/5G, la disponibilité et la qualité de la vidéo en streaming. OpenSignal utilise
-    des tests passifs pour évaluer l'expérience réelle des utilisateurs.
-- name: Úrad pre reguláciu elektronických komunikácií a poštových služieb (Autorité
-    slovaque des télécommunications) 2024
-  description: Rapport annuel de l'autorité de régulation slovaque, fournissant des
-    données officielles sur la couverture réseau, les parts de marché des opérateurs
-    et les plaintes des consommateurs. Source fiable pour les informations réglementaires.
-data_sources_footer: Toutes les données de performance réseau citées ci-dessus proviennent
-  de rapports tiers accessibles au public, notamment le rapport Ookla Speedtest Connectivity
-  Report H2 2024 pour la Slovaquie. Les vitesses et la couverture peuvent varier en
-  fonction de votre emplacement, de votre appareil et des conditions du réseau.
-data_sources_note: Les vitesses et la couverture réseau peuvent varier en fonction
-  de votre emplacement, de votre appareil, de l'heure de la journée et des conditions
-  du réseau. Les données présentées sont des médianes basées sur des millions de tests
-  effectués par les utilisateurs de Speedtest.
-cta_title: Obtenez votre eSIM Slovaquie dès aujourd'hui
-cta_desc: Profitez d'une connexion 5G ultra-rapide dès votre arrivée en Slovaquie.
-  Activation instantanée, pas de frais d'itinérance, et un support client disponible
-  24h/24. Choisissez le forfait qui correspond à votre voyage.
-cta_button_text: Acheter l'eSIM Slovaquie maintenant
-cta_button_link: /slovakia-esim/
-cta_free_trial_note: Exclusif pour les nouveaux clients
-cta_free_trial_text: eSIM d'essai Slovaquie gratuite
-cta_free_trial_link: /free-esim/
 ---
+
+
+La Slovaquie joue un rôle inhabituel dans la connectivité voyage européenne : les réseaux sont rapides (Ookla a classé le pays **38e mondial** en août 2026 à 121,19 Mbps), pourtant les données locales sont tarifées comme un marché premium — **2,68 USD le gigaoctet, 182e sur 237**, plus cher que la moyenne mondiale dans une région célèbre pour ses données bon marché. Cette combinaison façonne chaque décision eSIM Slovaquie : les réseaux valent la peine d'être utilisés, le comptoir local vaut la peine d'être évité, et le choix de l'opérateur — **Telekom**, **Orange** ou le budget **4ka** — compte surtout une fois que vous quittez Bratislava pour les Tatras. Que voit la boîte de réception du support de Roami le plus souvent pour la Slovaquie ? Les mêmes défaillances que les sections couverture et enregistrement ci-dessous détaillent.
+
+**Réponse rapide :** 4ka mène cette comparaison sur la couverture brute, les réseaux locaux sur le rapport qualité-prix — bien que l'écart se réduise plus vous restez longtemps au même endroit. Les routes ci-dessous montrent où cela bascule. Vous pouvez aussi mettre le dispositif Slovaquie à l'épreuve avec l'[essai gratuit Roami](/free-esim/).
+
+Ce guide compare les trois réseaux sur les mesures publiées, explique le contexte de l'itinérance de l'UE, et cartographie la couverture honnête de la capitale aux montagnes. Le support des appareils, y compris les bandes qui comptent ici, est couvert sur le [vérificateur de compatibilité des appareils](/compatibility/).
+
+**En bref :** Slovak Telekom est le leader global — médianes les plus rapides (102,38 Mbps), meilleure expérience de jeu 5G (Game Score 91,58), et empreinte rurale la plus vaste. Orange est le solide deuxième (81,33 Mbps médian) avec une excellente couverture urbaine à Bratislava et dans les villes de l'ouest. 4ka est le challenger budget, adéquat pour un usage léger aux prix les plus bas. Une eSIM [Slovaquie](/slovakia-esim/) multiréseau s'attache à celui qui gagne localement — ce qui compte plus ici que dans la plupart des capitales de l'UE, car le terrain commence à deux heures de l'aéroport.
+
+## Quelle eSIM Slovaquie : ville, Tatras ou transit ?
+
+Les médianes des opérateurs slovaques ici remontent au [rapport H2 2024 d'Ookla sur la Slovaquie](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024).
+
+| Le voyage | Opérateur le mieux adapté | Pourquoi |
+|:---|:---|:---|
+| Escapade Bucarest | Telekom | Les médianes les plus rapides de la capitale (106,56 Mbps médiane urbaine) et la meilleure latence. |
+| Hautes Tatras et routes de montagne | Telekom | L'empreinte rurale et montagne la plus vaste — la différence entre une carte vivante et aucune sur les sentiers. |
+| Villes de l'ouest : Žilina, Trnava, Nitra | Telekom, Orange | Žilina affiche la médiane urbaine la plus rapide du pays (140,70 Mbps) ; Orange tient solidement l'ouest. |
+| Usage léger budget | 4ka | Les forfaits les moins chers, adéquats pour la messagerie et les cartes en ville. |
+
+## À quoi ressemble le marché mobile slovaque ?
+
+### Quels réseaux trouve-t-on en Slovaquie ?
+
+Les chiffres H2 2024 de Telekom mènent la Slovaquie toutes catégories : un téléchargement médian de **102,38 Mbps** (Score de vitesse 109,35), un envoi de 20,33 Mbps, 31 ms de latence, et la meilleure expérience de jeu 5G du pays avec un Game Score de **91,58**. Filiale de Deutsche Telekom, il associe la capacité la plus dense de la capitale à l'empreinte rurale la plus vaste — la combinaison qui décide les itinéraires de montagne. Dans le tableau urbain, Telekom est le fournisseur le plus rapide à Žilina (140,70 Mbps), Nitra et Bratislava.
+
+### Orange : que vaut le deuxième réseau urbain ?
+
+Orange Slovaquie affiche un téléchargement médian de **81,33 Mbps** (Score de vitesse 89,16) avec 18,50 Mbps en envoi et 32 ms de latence, et il tient une excellente couverture à travers la vieille ville de Bratislava et les villes de l'ouest — la médiane urbaine de Trnava à 127,31 Mbps repose largement sur Orange. C'est le réseau que les locaux notent pour la fiabilité dans l'ouest peuplé, et la voie naturelle numéro deux dans tout profil multiréseau.
+
+### 4ka : que vaut le challenger à petit prix ?
+
+4ka (Swan Mobile) est le jeu du rapport qualité-prix : un téléchargement médian de **33,88 Mbps** et 10,00 Mbps en envoi, avec un 5G et une couverture limités concentrés sur les villes et leurs environs. Pour la messagerie, les cartes et l'appel vidéo occasionnel, il fait le travail au plus bas prix local — et c'est sa portée honnête. Au-delà d'un usage léger, ou tout itinéraire en montagne, appartient à Telekom ou Orange.
+
+La marché mobile de Slovaquie est plus petit que celui de ses voisins et ses chiffres sont meilleurs que sa réputation. La médiane de téléchargement mobile du pays s'établit à **121,19 Mbps** — 38e mondial sur l'indice Speedtest Global — ce qui le place devant le rival voisin autrichien et bien devant la majeure partie de l'Europe centrale. Voici comment cette moyenne est distribuée.
+
+| Ville | Téléchargement médian | Meilleur opérateur | Pourquoi cela arrive |
+|:---|:---|:---|:---|
+| Žilina | **140,70 Mbps** | Telekom | La médiane urbaine la plus rapide du pays, dans le nord-ouest |
+| Trnava | 127,31 Mbps | Orange | La plus forte performance urbaine d'Orange hors capitale |
+| Bratislava | 106,56 Mbps | Telekom | La densité du trafic coûte à la capitale son pic de vitesse, comme partout |
+| Košice | 81,72 Mbps | Orange, Telekom | La principale ville de l'est, environ un quart derrière Bratislava |
+| Stations Hautes Tatras | Dépend de la saison | Telekom | Les villes de la vallée sont couvertes ; les hauts sentiers ne le sont pas |
+| Est rural et le Karst | Orange, Telekom | Plus large empreinte combinée | Attendez-vous à du 4G et un 5G intermittent |
+
+Le schéma est inhabituel : **Žilina bat Bratislava de 34 Mbps**, et Trnava — une ville moyenne de l'ouest — bat la capitale à plate couture. L'avantage de Bratislava n'est pas la vitesse mais l'ampleur : c'est là que les quatre réseaux ont déployé le 5G en continu, ce qui compte plus pour un séjour de deux jours qu'un chiffre de pointe.
+
+### Quelle eSIM Slovaquie pour votre itinéraire ?
+
+| Voyage | Durée type | Allocation confortable | Pourquoi |
+|:---|:---|:---|:---|
+| Escapade Bratislava | 2–3 jours | 2–4 Go | Le Wi-Fi hôtel et café est fiable à travers le centre |
+| Bratislava plus Vienne | 4–5 jours | 4–6 Go | Deux capitales signifient deux trajets en train et un usage constant des cartes |
+| Semaine de randonnée Hautes Tatras | 5–7 jours | 6–9 Go | Les jours de montagne brûlent des données en cartes et sauvegardes photos ; le Wi-Fi des guesthouses est plus faible |
+| Paradis slovaque et l'est | 5–7 jours | 6–8 Go | Košice affiche 81,72 Mbps, et des trous ruraux apparaissent entre les villes |
+| Circuit spa et bien-être | 4–5 jours | 4–6 Go | Le Wi-Fi du resort couvre les longs après-midis |
+| Quinzaine de télétravail | 14 jours | 20 Go+ | Le haut débit fixe slovaque n'est que dans le milieu du tableau, donc le mobile porte souvent la charge |
+
+Une note de planification qui surprend les visiteurs : **la médiane de haut débit fixe de Slovaquie n'est que de 112,74 Mbps, 63e mondiale**, ce qui est plus lent que son réseau mobile. Si vous travaillez depuis un hôtel ou un appartement, la connexion mobile 5G peut véritablement être l'option la plus rapide — l'inverse de l'hypothèse que la plupart des voyageurs apportent à un voyage européen.
+
+Ookla rapporte la Slovaquie au niveau national des opérateurs, et les différences pratiques entre eux apparaissent dans la répartition régionale plutôt que dans le chiffre phare. Slovak Telekom et Orange échangent les places selon où vous êtes.
+
+### Quelles entreprises exploitent les réseaux slovaques ?
+
+| Opérateur | Force | Faiblesse | À qui il convient |
+|:---|:---|:---|:---|
+| Orange Slovensko | Empreinte 4G la plus vaste et plus large portée rurale | Pics urbains derrière Telekom | Tatras, Paradis slovaque, routes des vignobles |
+| Slovak Telekom | Vitesses les plus rapides à Bratislava et Košice ; 5G à travers la majeure partie de la capitale | Couverture 4G rurale derrière Orange et O2 | Séjours en ville avec excursions |
+| O2 Slovaquie | Prix avantageux, 4G solide, 5G fort dans les zones peuplées | Plus fin et plus lent dans les villages de l'est isolés | Voyages budget sur l'axe Bratislava–Košice |
+| 4ka | Forfaits les moins chers, vendus même aux bureaux de poste | Petit réseau propre, itinérance nationale sur Orange | Courts séjours où le prix bat la prévisibilité |
+
+Une eSIM voyage évite ce tableau en s'attachant au réseau le plus fort là où vous êtes. Sur la boucle Bratislava–Tatras–Košice, cela signifie que vous ne choisissez pas entre la prise rurale d'Orange et la vitesse urbaine de Telekom — vous avez les deux.
+
+### Quel opérateur offre le meilleur 5G en Slovaquie ?
+
+Slovak Telekom rapporte plus de 99 % de couverture de population sur 5G, O2 se situe près de 92 %, et Orange dans la bande 80–90 % ; 4ka traîne les deux sur le spectre et l'empreinte. Les chiffres de couverture de population flattent la carte, puisque la population slovaque est concentrée dans quelques vallées et villes. En pratique : attendez le 5G à Bratislava, Košice, Žilina, Poprad et Nitra, et attendez-vous à redescendre en 4G dès qu'une route grimpe.
+
+## Comment le roam-like-at-home influe-t-il sur votre eSIM ?
+
+La Slovaquie est un pays membre de l'UE et de l'espace Schengen, donc deux cadres s'appliquent. Sur l'itinérance : une carte SIM ou eSIM émise dans un autre pays de l'UE y fonctionne aux tarifs nationaux sous les règles « itinérance comme à la maison » — la [page d'itinérance de la Commission européenne](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) documente les droits et les limites d'usage raisonnable. À l'arrivée : pas de file aux frontières pour la plupart des visiteurs, ce qui fait payer immédiatement le profil préinstallé à l'aéroport de Vienne ou Bratislava.
+
+Pour les voyageurs hors UE — le Royaume-Uni, les États-Unis, et la plupart des utilisateurs d'eSIM voyage — il n'y a pas de droits d'itinérance automatiques, et c'est là qu'une [eSIM Slovaquie](/slovakia-esim/) dédiée mérite son prix. Le prépayé local exige un enregistrement en magasin avec une pièce d'identité, et les données locales sont chères selon les standards de la région (2,68 USD le gigaoctet), donc le profil préacheté gagne sur la paperasse et la prévisibilité du prix. Les forfaits data uniquement n'incluent aucun numéro slovaque, ce qui est sans rapport pour les touristes : messagerie, VTC et réservations fonctionnent tous sur les données avec votre numéro domestic actif sur la carte SIM physique.
+
+💡 Vienne → Bratislava → Budapest est le triangle classique de l'Europe centrale ; un profil régional le couvre, et notre [guide eSIM Hongrie](/carriers/hungary-esim-carrier-guide/) et la [page eSIM République tchèque](/czech-republic-esim/) couvrent les étapes adjacentes.
+
+## eSIM ou bundle prépayé slovaque : quel tarif ?
+
+Les gammes slovaques actuellement disponibles, data uniquement et illimité, sont sur la [page eSIM Slovaquie](/slovakia-esim/). Les données publiques expliquent le critère local :
+
+| Métrique | Slovaquie | Médiane mondiale |
+|:---|:---|:---|
+| Téléchargement mobile médian | 121,19 Mbps (38e mondial, août 2026) | 109,05 Mbps |
+| Latence mobile médiane | 20 ms | 24 ms |
+| Téléchargement fixe médian | 112,74 Mbps (63e mondial) | 129,68 Mbps |
+| Coût moyen du 1 Go | 2,68 USD (182e sur 237) | 2,59 USD |
+
+Cette ligne de prix est l'anomalie slovaque : des réseaux rapides dans une des économies les moins chères de l'UE, et des données locales tarifées au-dessus de la moyenne mondiale — un héritage d'un marché petit et concentré. Le compte 2025 de DataReportal : 5,05 millions d'internautes (91,8 %) et 6,20 millions de connexions mobiles — 113 % de la population. Pour un visiteur, le calcul est simple : les réseaux sont excellents, et la voie eSIM évite à la fois le comptoir d'enregistrement et le prix local.
+
+## Quelle couverture eSIM de Bratislava à Kosice ?
+
+| Destination | Meilleur opérateur | Pourquoi ça marche |
+|:---|:---|:---|
+| Bratislava | Telekom | La capitale affiche une médiane urbaine de 106,56 Mbps avec Telekom comme fournisseur le plus rapide ; la vieille ville et le quartier du château sont couverts à fond. |
+| Žilina | Telekom | La médiane urbaine la plus rapide du pays (140,70 Mbps) — le bastion septentrional de Telekom. |
+| Trnava | Orange | La médiane urbaine de Trnava à 127,31 Mbps repose sur le réseau occidental d'Orange. |
+| Košice | Orange, Telekom | La principale ville de l'est affiche une médiane de 81,72 Mbps ; les deux réseaux couvrent bien le centre. |
+| Hautes Tatras | Telekom | Les villes de station et les routes de vallée sont couvertes ; les hauts sentiers au-dessus de la limite des arbres sont des zones mortes sur tous les réseaux. |
+| Karst slovaque et est rural | Telekom | L'empreinte rurale la plus vaste ; attendez des trous entre les villes sur les routes secondaires. |
+
+## Quel opérateur pour votre voyage en Slovaquie ?
+
+Parce que la plupart des voyages slovaques suivent la même colonne vertébrale — capitale, un train, les montagnes — voici à quoi ressemble la connectivité étape par étape.
+
+**Bratislava, heures 0–24.** L'aéroport est à 20 minutes du centre, et le corridor bus comme la vieille ville tiennent un bon 4G/5G sur Telekom et Orange. N'achetez rien à l'aéroport : le profil installé à la maison se connecte pendant la descente. Passez la première soirée à synchroniser les cartes hors ligne pour le reste du voyage, car la capitale est le dernier endroit avec une couverture indulgente.
+
+**Les étapes interurbaines.** Le corridor Bratislava–Košice via Žilina est l'artère ferroviaire du pays, et la couverture tient sur la majeure partie — la médiane urbaine de 140,70 Mbps de Žilina n'est pas un hasard. Les tronçons ruraux entre Trenčín et Žilina retombent à de brefs flottements 4G ; téléchargez les podcasts à Bratislava et vous ne le remarquerez pas.
+
+**Poprad et les Tatras.** Le signal à Poprad est excellent ; en montagne il se dégrade avec l'altitude. Štrbské Pleso et Tatranská Lomnica gardent des données utilisables sur Telekom, les têtes de sentier plus hautes s'effacent en une heure de marche, et tout au-dessus de la limite des arbres est air mort sur tous les réseaux. Le bon schéma : planifiez la route en ville, faites une capture des réservations de refuge, et traitez la randonnée elle-même comme la partie hors ligne des vacances.
+
+**L'étape retour.** Si le voyage continue vers Budapest ou Vienne, un profil Slovaquie uniquement se tait à la frontière — consultez nos [options eSIM Hongrie](/hungary-esim/) ou un forfait régional avant le jour du voyage, pas sur le quai.
+
+## Quelles bandes et quels appareils pour une eSIM Slovaquie ?
+
+| Technologie | Bandes utilisées | Ce que cela signifie pour votre appareil |
+|:---|:---|:---|
+| 4G LTE | 800 MHz (B20), 1800 MHz (B3), 2600 MHz (B7) | L'ensemble européen standard ; B20 porte la portée en montagne |
+| 4G LTE (supplément) | 2100 MHz (B1), 900 MHz (B8) | Capacité urbaine et repli rural |
+| 5G | 3,5 GHz (n78) | La bande derrière chaque affirmation 5G slovaque — un appareil sans n78 reste en 4G |
+| Héritage | GSM 900/1800, UMTS 2100 | Repli voix ; les appareils 3G seuls anciens sont de plus en plus marginaux |
+
+Deux choses à régler avant de prendre l'avion. La première est le support de bande : **B20 et n78** sont ce sur quoi s'appuient les réseaux slovaques, et un appareil nord-américain arrive souvent sans l'une ou l'autre, ce qui coûte la portée montagne et tout le 5G. La seconde est le verrouillage opérateur — un appareil verrouillé repousse le profil quelles que soient ses bandes. L'[outil de compatibilité eSIM](/compatibility/) vous donne les deux réponses en une recherche.
+
+### Quelles fréquences 4G et 5G utilisées en Slovaquie ?
+
+| Technologie | Bandes | Effet pratique |
+|:---|:---|:---|
+| 4G LTE | 800 MHz (B20), 1800 MHz (B3), 2600 MHz (B7) | B20 pour la portée dans les vallées, B7 pour le débit urbain. Presque tous les appareils du monde portent les trois. |
+| 5G | 3,5 GHz (n78) | La principale bande 5G slovaque. Les appareils depuis 2020 l'incluent pour la plupart. |
+| Héritage | 900/1800 MHz GSM, 2100 MHz UMTS | Repli voix et les poches rurales les plus fines. |
+
+### Quelles vérifications avant de prendre l'avion pour la Slovaquie ?
+
+1. **Appareil déverrouillé.** Vérifiez Réglages → Général → À propos sur iPhone ; l'entrée Carrier Lock doit indiquer « Aucune restriction SIM ».
+
+2. **Capacité eSIM.** `*#06#` affiche un EID sur un appareil compatible ; la [liste de compatibilité](/compatibility/) vérifie le modèle exact.
+
+3. **Configuration double SIM.** Gardez la carte SIM du domicile pour les appels et les codes de vérification, et pointez les données mobiles sur la ligne eSIM.
+
+4. **Réalité de l'altitude.** Au-dessus d'environ 1 500 m dans les Hautes Tatras — et dans des parties du Karst slovaque — chaque réseau a de véritables zones mortes. C'est le terrain, pas une défaillance d'opérateur.
+
+## Quels forfaits eSIM Slovaquie et à quel prix ?
+
+| Opérateur | Produit d'entrée | Bundle de données typique | Notes |
+|:---|:---|:---|:---|
+| 4ka | Starter environ 4 € avec crédit et 1 Go de données UE pour 30 jours | Bundles quatre semaines | Entrée la moins chère ; vendu même aux bureaux de poste ; plus petit réseau propre |
+| Slovak Telekom | Easy pack environ 5 € avec crédit | Données plafonnées au jour | Plus large empreinte rurale et montagne |
+| O2 Slovaquie | Starter de 1–2 € | Illimité au jour à environ 1,44 €, bundles quatre semaines | Fort 5G dans les zones peuplées |
+| Orange | Starter de 1–2 € | Ajouts comme 1 Go pour environ 2,05 € sur 7 jours | Plus large empreinte 4G |
+
+Deux points structurels. **L'enregistrement est requis pour une ligne prépayée slovaque**, ce qui signifie un passeport et une visite en magasin plutôt qu'un achat en supermarché. Et **le timing compte** : acheter à l'arrivée pendant un week-end ou un jour férié peut signifier attendre un jour, car les magasins d'opérateur ont des horaires limités. Si votre voyage est de deux ou trois jours à Bratislava, cette file représente une part significative.
+
+Là où l'achat local gagne est un long séjour, un voyage à proximité linguistique où un numéro local aide pour les réservations, ou un itinéraire qui continue vers des voisins hors UE. Là où une eSIM gagne est tout le reste : activation instantanée, aucun enregistrement, et un profil qui fonctionne dès que l'avion atterrit à M. R. Štefánik.
+
+Le prépayé slovaque est bon marché à démarrer et bon marché à prolonger, avec un hic qui compte plus ici que dans la plupart de l'Europe : il n'y a aucun kiosque d'opérateur à l'aéroport de Bratislava.
+
+| Opérateur | Pack de démarrage | Bundle de données typique | Notes |
+|:---|:---|:---|:---|
+| 4ka | 4 €, inclut 4 € de crédit et 1 Go de données UE pour 30 jours | Bundles quatre semaines d'environ 3 € | Vendu en bureaux de poste et supermarchés ainsi qu'en magasins |
+| Slovak Telekom (Easy) | 5 €, inclut 5 € de crédit | Plafond journalier de 2 € en prépayé | Gérable dans l'appli opérateur |
+| O2 (Voľnosť) | 1–2 € | Données illimitées au jour à 1,44 € ; bundles quatre semaines dès 3 € | Route la moins chère vers une journée à forte donnée |
+| Orange (Prima Voľba) | 1–2 € | Ajouts comme 1 Go pour 2,05 € sur 7 jours | Plus large portée rurale |
+
+La dépense totale pour une semaine est généralement de 5–20 € une fois ajouté un bundle. Acheter la carte SIM elle-même n'est jamais la partie chère.
+
+### Où acheter une eSIM Slovaquie ?
+
+- **Magasins d'opérateur** — Orange et Telekom ont des boutiques dans les centres Eurovea et Aupark de Bratislava et sur Hlavná à Košice, avec du personnel anglophone qui complète l'enregistrement sur place.
+
+- **Bureaux de poste et supermarchés** — la route la plus facile vers un pack 4ka, mais vous pouvez rester à vous auto-enregistrer, ce qui n'est explicitement pas instantané.
+
+- **Aéroport de Bratislava** — aucun kiosque d'opérateur n'existe. Un kiosque Relay propose parfois des kits O2 ou Orange, sans garantie de stock ni d'ouverture tardive. Ne prévoyez pas d'atterrir connecté.
+
+- **eSIM** — les quatre opérateurs vendent désormais des eSIM aux clients prépayés, mais une eSIM locale ne vous exempte pas de l'enregistrement. Une eSIM voyage si, ce qui est un argument plus fort pour une en Slovaquie que dans la plupart de l'Europe.
+
+### Qu'exigent les règles d'enregistrement slovaques ?
+
+Chaque carte SIM slovaque est enregistrée à un nom et un numéro de passeport, et une carte d'identité nationale de l'UE fonctionne aussi. Faites-le dans un magasin d'opérateur, où le personnel complète le processus en environ cinq à dix minutes ; les routes en ligne et supermarché sont plus lentes et moins fiables. Une eSIM émise hors Slovaquie saute l'étape car le profil n'est pas une ligne slovaque.
+
+## Comment installer votre eSIM Slovaquie à la maison ?
+
+Rien ici ne se passe à un comptoir : le profil arrive par e-mail, vous l'ajoutez dans Réglages, le réglez comme ligne de données et activez l'itinérance dessus. Les instructions menu par menu pour iOS et Android sont dans les [instructions d'activation](/faq/how-to-activate-an-esim/) ; une ligne qui ne se lève pas est traitée dans la [liste de dépannage](/faq/esim-activation-errors-troubleshooting-guide/).
+
+Deux notes spécifiques à la Slovaquie. D'abord, installez sur le Wi-Fi avant de prendre l'avion — le transfert Vienne–Bratislava est assez court pour que vous vouliez des données fonctionnelles avant que le bus ne quitte l'aéroport, pas pendant. Ensuite, le terrain : la Slovaquie est le premier pays de nombreux itinéraires d'Europe centrale où apparaissent de vraies montagnes, et les Hautes Tatras au-dessus des villes de vallée sont hors ligne pour chaque opérateur. Téléchargez les cartes de randonnée et les détails d'hébergement à Poprad, pas au départ du sentier. Si le profil s'installe mais n'affiche pas de barres en ville, vérifiez l'itinérance sur la ligne eSIM et essayez une sélection manuelle du réseau (Telekom ou Orange) avant toute autre chose.
+
+### Quelles vérifications avant le départ pour votre eSIM Slovaquie ?
+
+| # | Vérification | État de réussite |
+|:---|:---|:---|
+| 1 | Téléphone déverrouillé | « Aucune restriction SIM » |
+| 2 | Matériel eSIM disponible | EID affiché sous `*#06#` |
+| 3 | Code QR stocké deux fois | Capture d'écran sur l'appareil et dans le cloud |
+| 4 | Profil installé à la maison | Pas sur le Wi-Fi de l'aéroport de Bratislava |
+| 5 | Ligne de données et itinérance configurées | La eSIM porte les données avec l'itinérance activée |
+
+### Quelles pannes eSIM un réseau slovaque peut-il produire ?
+
+**A. Pas d'enregistrement après l'atterrissage.** Réglez le réseau manuellement (Orange, Telekom, O2 ou 4ka) depuis la Sélection de réseau. Les réseaux slovaques refusent parfois la première attach automatique d'un profil étranger.
+
+**B. Signal mais pas de données.** Vérifiez la ligne APN ci-dessus, puis confirmez que la ligne de données est la eSIM plutôt que votre carte SIM du domicile. Ces deux expliquent presque chaque cas.
+
+**C. Les données meurent en grimpant vers les Tatras.** Attendu. Descendez le mode réseau en 4G et choisissez un opérateur manuellement plutôt que de laisser le téléphone s'accrocher à une cellule 5G faible sur une crête.
+
+**D. Rien ne fonctionne à travers la frontière autrichienne ou hongroise.** Un profil Slovaquie uniquement s'arrête à la frontière. Si le voyage continue vers Vienne ou Budapest, consultez les [options eSIM Hongrie](/hungary-esim/) ou un forfait régional Europe centrale avant le jour du voyage.
+
+**L'installation échoue carrément.** Le verrouillage opérateur est la première chose à écarter, un code QR déjà scanné la seconde. Comme la plupart des codes sont à usage unique, la réponse est un reémettage plutôt qu'une nouvelle tentative.
+
+**Elle s'installe mais ne trouve pas de réseau.** Un cycle mode avion de quinze secondes, puis un choix manuel entre Telekom, Orange, O2 et 4ka. Un appareil qui vient juste d'Autriche ou Hongrie en a besoin plus souvent qu'à l'ordinaire.
+
+**Les barres sont là mais rien ne bouge.** Trois réglages l'expliquent : la eSIM doit détenir les données mobiles, l'itinérance doit être permise sur cette ligne, et une ligne achetée localement a besoin de l'APN de l'opérateur. Sur un forfait de l'UE, vérifiez le plafond d'usage raisonnable aussi.
+
+**Appels d'urgence uniquement.** Un second profil actif est le premier suspect. Désactivez-le, redémarrez, réinitialisez les réglages réseau, et seulement alors réinstallez à partir d'un code neuf.
+
+Pour les cas restants, voir la [liste de dépannage](/faq/esim-activation-errors-troubleshooting-guide/) ; l'installation étape par étape vit dans les [instructions d'activation](/faq/how-to-activate-an-esim/).
+
+## Quels APN vérifiés pour les réseaux slovaques ?
+
+Nécessaires seulement quand vous achetez directement à un opérateur slovaque et que les réglages automatiques n'arrivent pas. Les profils eSIM voyage portent leur propre APN et doivent être laissés tranquilles.
+
+| Opérateur | APN | Nom d'utilisateur | Mot de passe |
+|:---|:---|:---|:---|
+| Orange Slovensko | `internet` | vide | vide |
+| Slovak Telekom | `internet` | vide | vide |
+| O2 Slovaquie | `o2internet` | vide | vide |
+| 4ka | `internet` | vide | vide |
+
+**Où le saisir :** atteignez-le sur iOS via Réglages → Cellular → la ligne → Réseau de données cellulaires, et sur Android via Réglages → Connexions → Réseaux mobiles → Noms des points d'accès. Enregistrez et redémarrez ; puis vérifiez quelle ligne porte les données avant de toucher un autre réglage.
+
+### Quelle eSIM Slovaquie pour une semaine de ski ?
+
+L'hiver change le profil de données plus que la version estivale. Les forfaits de remontées, l'état des pistes et les applis météo veulent tous une connexion live à la base du resort, tandis que les pentes au-dessus de la limite des arbres n'ont aucune couverture sur aucun réseau slovaque — un fait qui mord plus fort en février qu'en juillet, quand davantage de la journée se passe en bas dans la vallée.
+
+Planifiez autour des deux extrémités de la journée. Téléchargez les cartes et les horaires de remontées sur le Wi-Fi de l'hébergement chaque matin, gardez le téléphone au chaud avec la ligne de données sur la eSIM, et attendez-vous à ce que la montée vers Strbske Pleso ou Jasna s'interrompe exactement aux endroits que la carte de couverture suggère déjà.
+
+## Questions fréquentes eSIM et opérateur Slovaquie
+
+### Un forfait de 10 Go suffit-il pour la Slovaquie ?
+
+Les données achetées localement — environ 2,68 USD le gigaoctet, 182e sur 237 marchés, contre une moyenne mondiale de 2,59 USD. C'est inhabituel pour l'UE et c'est exactement pourquoi une eSIM voyage préachetée à prix prévisible est le choix confortable pour les courts séjours.
+
+### Où brille chaque réseau slovaque ?
+
+Sur les remontées, pour la plupart oui — les stations et les sections basses de câble sont à l'intérieur de la couverture, ce qui est pourquoi poster depuis une remontée fonctionne. Les sentiers plus hauts et les lignes de crête sont une autre histoire, et aucun réseau ne le change. Là où les remontées comptent pratiquement, c'est la descente : les stations de base vous donnent une fenêtre utilisable pour vérifier la météo et les horaires de bus avant la prochaine montée.
+
+### Puis-je utiliser une carte SIM de l'UE en Slovaquie sans frais supplémentaires ?
+
+Si elle a été émise dans un autre pays de l'UE, oui — « l'itinérance comme à la maison » s'applique, dans la limite d'usage raisonnable des données de votre forfait domestic. Les profils hors UE n'ont pas ces droits, c'est pourquoi des forfaits Slovaquie dédiés ou des profils européens régionaux sont la route pratique pour tous les autres.
+
+### Quel opérateur choisir pour le parc national du Paradis slovaque ?
+
+Telekom, sur la même empreinte rurale qui en fait le choix des Tatras, avec Orange juste derrière sur les principales têtes de sentier. Les gorges et les sections de via ferrata sont là où le signal part, donc un profil qui atteint les deux réseaux vaut plus ici que n'importe quel avantage mono-opérateur — et les cols entre les têtes de sentier sont fiablement hors ligne.
+
+### Où en est la 5G en Slovaquie ?
+
+Non. Le 5G se concentre à Bratislava, Žilina et les villes régionales ; les zones rurales et les montagnes fonctionnent en 4G — qui, à 121,19 Mbps médian national, n'est pas une baisse significative pour les voyageurs.
+
+### Comment fonctionnent les forfaits de données slovaques ?
+
+Une semaine ville-plus-Tatras tient confortablement dans 5–10 Go : les jours urbains sont légers (musées, cafés et Wi-Fi d'hôtel absorbent le reste), tandis que les jours de montagne brûlent des données en cartes et envois photos — et les heures de partage de connexion dans une guesthouse des Tatras au Wi-Fi faible brûlent plus vite encore. Téléchargez les cartes hors ligne avant de quitter Bratislava dans tous les cas, et rappelez-vous que la plupart des profils acceptent une recharge si la semaine dure plus longtemps que prévu. Une note d'appareil : le téléphone doit être déverrouillé opérateur. Une carte SIM slovaque physique reste le repli si vous avez besoin d'un numéro local, mais la configuration standard est un seul forfait de données sur la eSIM avec la ligne domestic gardée pour les appels.
+
+### Quels documents une carte SIM slovaque accepte-t-elle ?
+
+Oui. La loi slovaque enregistre chaque carte SIM à une identité vérifiée, donc apportez un passeport ou une carte d'identité de l'UE. Les magasins d'opérateur complètent l'enregistrement en cinq à dix minutes ; les routes supermarché et en ligne prennent plus longtemps et échouent parfois silencieusement.
+
+### Quels sont les forfaits les moins chers en Slovaquie ?
+
+Environ 1,44 € pour une journée de données illimitées sur le prépayé O2, ou à partir d'environ 3 € pour un bundle quatre semaines. Les packs de démarrage vont de 1 à 5 € incluant le crédit : 4ka facture 4 € avec 4 € de crédit et 1 Go de données UE pour 30 jours, Slovak Telekom 5 € avec 5 € de crédit, et Orange et O2 autour de 1–2 €.
+
+### Carte SIM locale ou eSIM voyage en Slovaquie ?
+
+Il n'y a aucun kiosque d'opérateur à l'aéroport de Bratislava. Un kiosque Relay porte parfois des kits O2 ou Orange, mais le stock et les horaires d'ouverture sont imprévisibles. Si atterrir connecté compte, installez une eSIM avant le départ.
+
+### Qui est le leader 5G en Slovaquie ?
+
+Dans les villes de station, généralement oui — Poprad et les principales agglomérations des Tatras sont à l'intérieur de la couverture 5G. Sur les sentiers, attendez le 4G et de vraies zones mortes au-dessus d'environ 1 500 m sur tous les réseaux. Téléchargez les cartes hors ligne avant toute randonnée sérieuse.
+
+### Quel réseau couvre le mieux la Slovaquie rurale ?
+
+Orange Slovensko, sur la plus large empreinte 4G et la plus large portée rurale — le bon choix pour les Tatras, le Paradis slovaque et le pays des vignobles. Slovak Telekom est plus rapide à Bratislava et Košice, tandis qu'O2 s'appuie sur les prix avantageux.
+
+### Une eSIM Slovaquie fonctionne-t-elle à Vienne ou Budapest ?
+
+Uniquement si c'est un forfait régional ou paneuropéen. Un profil spécifique à la Slovaquie est valide à l'intérieur de la Slovaquie, donc la journée à Vienne et l'étape Budapest ont besoin soit d'une eSIM Europe régionale soit des pages par pays pour la [Hongrie](/hungary-esim/) et la [République tchèque](/czech-republic-esim/).
+
+### Bratislava est-elle la ville la plus rapide pour les données mobiles en Slovaquie ?
+
+Oui, sur les médianes mesurées : Žilina affiche 140,70 Mbps contre 106,56 Mbps pour Bratislava, et Trnava à 127,31 Mbps bat aussi la capitale. La cause est la densité du trafic plutôt que le déploiement — les cellules de Bratislava servent bien plus d'utilisateurs. La capitale compense avec un 5G continu à travers les quatre réseaux.
+
+### Quel réseau slovaque est le meilleur pour les Hautes Tatras ?
+
+Slovak Telekom, grâce à son empreinte rurale et montagne. Les villes de vallée et villages de station sont couverts, et la portée de Telekom s'étend plus haut dans les routes d'accès que les autres. Les sentiers plus hauts n'ont de couverture sur aucun réseau, donc téléchargez vos cartes avant le téléphérique plutôt qu'après.
+
+### Pourquoi le haut débit fixe slovaque est-il plus lent que son mobile ?
+
+Il l'est, et l'écart est grand : la médiane fixe du pays est de 112,74 Mbps (63e mondial) tandis que sa médiane mobile est de 121,19 Mbps (38e). Pour un séjour de travail, cela signifie que la connexion mobile 5G peut véritablement être l'option la plus rapide — à tester avant de supposer que le Wi-Fi d'hôtel est meilleur.
+
+### L'enregistrement SIM est-il obligatoire en Slovaquie ?
+
+Oui — les lignes prépayées exigent un enregistrement, ce qui signifie un passeport et une visite en magasin d'opérateur plutôt qu'un achat en kiosque. Combiné aux horaires d'ouverture limités du week-end, cela fait d'une carte SIM locale un coût de temps significatif lors d'un court séjour à Bratislava.
+
+### Quel opérateur slovaque pour votre itinéraire ?
+
+Budgetisez 12–18 Go pour une quinzaine répartie entre Bratislava, Košice et les montagnes. Les jours de ville sont légers car le Wi-Fi hôtel et café fait le gros du travail ; les jours de montagne ne le sont pas, car navigation, sauvegarde photo et Wi-Fi de guesthouse faible poussent tout le trafic sur la ligne mobile. Quiconque travaille à distance devrait ajouter 5–10 Go supplémentaires pour les appels.
+
+### Quelles bandes me faut-il pour une eSIM Slovaquie ?
+
+800 MHz (B20) pour la portée, 1800 MHz (B3) et 2600 MHz (B7) pour la capacité, et 3,5 GHz (n78) pour le 5G. B20 et n78 sont les deux qu'un appareil nord-américain omet le plus souvent, ce qui vous coûterait la couverture montagne et tout le 5G.
+
+### Comment installer une eSIM Slovaquie, étape par étape ?
+
+Oui, confortablement. Les villages viticoles des Petits Carpates et la banlieue de Bratislava sont tous à l'intérieur de l'enveloppe de couverture urbaine, Orange et Telekom affichant tous deux des médianes fortes à travers la région. La seule réserve est les caves elles-mêmes — la pierre et la terre font ce qu'elles font partout, donc téléchargez ou enregistrez ce dont vous avez besoin avant de descendre sous terre.
+
+### 4ka est-il assez bon pour un touriste en Slovaquie ?
+
+Pour la messagerie, les cartes et la navigation, oui, et il a le produit d'entrée le moins cher des quatre. Son propre réseau est le plus petit, donc il s'appuie sur l'itinérance nationale pour la couverture hors des villes. Traitez-le comme un choix budget et attendez du 4G plutôt qu'un 5G rapide.
+
+### Votre eSIM Slovaquie fonctionne-t-elle de région en région ?
+
+Ils le font, sous les règles de l'UE « itinérance comme à la maison », ce qui était historiquement un fort argument pour acheter localement. Le hic est le mécanisme d'usage raisonnable : une carte prépayée achetée en Slovaquie et utilisée surtout ailleurs peut attirer un supplément, et le fort partage de connexion est le déclencheur habituel. Pour un voyage qui reste en Slovaquie, la distinction ne surgit jamais ; pour un itinéraire multi-pays, comparez-la à un profil régional.
+
+### Quel pack de données choisir pour la Slovaquie ?
+
+Il se situe près de la moyenne mondiale plutôt que parmi les marchés bon marché — l'étude de prix de Cable.co.uk le place bien bas dans le tableau d'abordabilité, et des voisins comme la Roumanie et la Hongrie offrent un meilleur rapport qualité-prix au gigaoctet. Une eSIM voyage coûte encore plus, en échange d'arriver connecté.
+
+### Quel réseau slovaque a le meilleur 5G ?
+
+Orange et Telekom mènent sur la couverture 5G dans les zones peuplées, avec O2 juste derrière et fort en ville. L'empreinte 5G de 4ka est la plus petite. Comme les cinq médianes urbaines les plus rapides de Slovaquie sont partagées entre Orange et Telekom, le choix compte moins que de choisir un profil capable d'utiliser les deux.
+
+## Références eSIM Slovaquie
+
+Traitez tout cela comme un instantané — les vitesses slovaques bougent avec les mises à niveau et la congestion, et au-dessus de 1 500 m avec la montagne elle-même. Six références se trouvent derrière les chiffres.
+
+- **Résultats opérateur et ville** — le [rapport H2 2024 d'Ookla sur la Slovaquie](https://www.ookla.com/research/reports/slovakia-speedtest-connectivity-report-h2-2024).
+
+- **Médianes nationales et rang mondial** — la [Slovaquie sur l'indice mensuel d'Ookla](https://www.speedtest.net/global-index/slovakia).
+
+- **Conditions d'itinérance de l'UE et plafonds d'usage raisonnable** — les [pages d'itinérance Your Europe de la Commission européenne](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm).
+
+- **Coût par gigaoctet** — l'[étude mondiale de Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/), plaçant la Slovaquie à 2,68 USD, l'un des tarifs les plus raides de l'UE.
+
+- **Personnes et connexions** — [DataReportal, Digital 2025 : Slovaquie](https://datareportal.com/reports/digital-2025-slovakia).
+
+- **Packs de démarrage et bundles** — les sites des opérateurs eux-mêmes : [Orange Slovensko](https://www.orange.sk/), [Slovak Telekom](https://www.telekom.sk/), [O2 Slovaquie](https://www.o2.sk/) et [4ka](https://www.4ka.sk/).
+
+## Pourquoi charger votre eSIM Slovaquie avant de partir ?
+
+Chaque réseau couvre Bratislava, Košice et les vallées des Tatra ; aucun ne couvre les crêtes au-dessus de la limite des arbres. Un seul profil multiréseau couvre les deux.
+
+Les gammes slovaques payantes sont listées sur la [page eSIM Slovaquie](/slovakia-esim/), et un [essai gratuit](/free-esim/) vous laisse tester le réseau d'abord.
+
+[Obtenir une eSIM Slovaquie](/slovakia-esim/)
+
+*Quatre opérateurs, une eSIM*
+
+Le conseil de Roami est simple : atterrissez connecté. Commencez par l'[eSIM d'essai sans coût](/free-esim/) pour échantillonner la couverture 4ka sans risque, puis utilisez le code **WEB20** sur un forfait Roami complet quand l'essai vous convainc.

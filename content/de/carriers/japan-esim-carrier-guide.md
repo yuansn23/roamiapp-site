@@ -1,10 +1,9 @@
 ---
-title: "Japan eSIM: Netzabdeckung, Geschwindigkeit und Tarife."
-description: "Japan Reise eSIM: Roami hilft Ihnen bei der Wahl zwischen Rakuten, SoftBank und NTT Docomo. Vergleichen Sie 5G Geschwindigkeiten, Preise und Netzabdeckung für Japan."
-date: "2026-06-17T06:04:19+00:00"
-
-keywords: eSIM Japan, Prepaid Daten, 5G Netz, Rakuten Mobile, SoftBank, NTT DoCoMo,
-  Roami eSIM, Reise-eSIM Japan, mobiles Internet Japan
+title: "Japan eSIM-Netzbetreiber: Docomo, au, SoftBank, Rakuten"
+description: "Nicht sicher, welcher Japan eSIM-Netzbetreiber der richtige ist? Roami vergleicht Docomo- und SoftBank-Geschwindigkeiten, Prepaid-Regelungen und APN-Einstellungen für Ihre Reise."
+image: "img/esim/carriers/japan-esim-carrier-guide.jpg"
+date: "2026-09-25T15:13:47+00:00"
+keywords: Japan eSIM-Netzbetreiber, Docomo eSIM, au eSIM, SoftBank eSIM, Rakuten Mobile eSIM, 5G-Netzabdeckung Japan, Japan eSIM APN, eSIM Japan Prepaid, bester eSIM-Netzbetreiber Japan, Japan Reise eSIM
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -12,392 +11,378 @@ breadcrumb_items:
   url: /
 - name: Japan eSIM-Guide
   url: ''
-hero_badge: 🇯🇵 Japan Reise-eSIM Aktueller Guide
-hero_subtitle_main: 'Japan eSIM: Kostengünstige Reise-Datentarife'
-hero_subtitle_highlight: Premium 5G-Netzabdeckung durch Rakuten Mobile, NTT DoCoMo
-  und SoftBank
-hero_description_line1: Diese eSIM deckt weite Gebiete in Japan ab und bietet eine
-  schnelle und stabile Datenverbindung. Sie ersetzt traditionelle internationale Roaming-Dienste
-  und macht Ihre Auslandsreise viel bequemer.
-hero_description_line2: Verbinden Sie sich in Sekundenschnelle und genießen Sie unbegrenztes
-  Surfen.
-hero_link_text: Japan eSIM
-hero_link_url: /japan-esim/
-tldr_summary: 'Ein Muss für internationale Reisen: 5G-eSIM-Lösungen mit nahtlosem
-  Netzwerkwechsel. Laut aktuellen Speedtest-Daten (2H 2024) ist Rakuten Mobile mit
-  einer medianen 5G-Downloadrate von 151,16 Mbps der schnellste 5G-Anbieter in Japan.
-  SoftBank bietet die beste Video-Streaming- und Gaming-Erfahrung. Mit einer Roami
-  eSIM für Japan profitieren Sie von diesen Spitzenleistungen, ohne sich um Roaming-Gebühren
-  kümmern zu müssen. Die eSIM verbindet sich automatisch mit dem jeweils besten verfügbaren
-  Netz – ob Rakuten Mobile für maximale Geschwindigkeit oder NTT DoCoMo für die beste
-  5G-Verfügbarkeit (43 % der Nutzer). Ideal für Reisende, die in Tokio, Osaka oder
-  auf dem Land stets schnell online sein möchten.'
-sidebar_more_hint: Wischen, um mehr zu sehen
-sidebar_title: Japan eSIM Schnelle Links
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Kurzauswahl: Welchen Japan eSIM-Anbieter sollten Sie wählen?'
-- href: '#operators'
-  text: Top Japan eSIM-Mobilfunkanbieter im Test
-- href: '#city-guide'
-  text: 'Städte-Guide: Die beste eSIM für Japan'
-- href: '#before-buy'
-  text: Dinge, die Sie vor dem Kauf einer Japan eSIM wissen müssen
-- href: '#faq'
-  text: Häufig gestellte Fragen zur Japan eSIM
-- href: '#myths'
-  text: Mythen und Fakten über die Japan eSIM
-- href: '#data-sources'
-  text: Datenquellen
-quick_picks_title: 'Kurzauswahl: Welchen Japan eSIM-Anbieter sollten Sie wählen?'
-quick_picks_table_headers:
-- Ihr Reisestil
-- Empfohlener Anbieter
-- Netzwerkdatenleistung
-quick_picks_note_prefix: 'Datenquelle: '
-quick_picks_note_carrier: '[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Geschäftsreisende & Power-User
-  carrier: Rakuten Mobile
-  carrier_class: text-red-600
-  reason: Schnellstes 5G-Netz mit 151,16 Mbps Download – ideal für Videokonferenzen
-    und große Dateiübertragungen.
-- travel: Streaming- & Gaming-Fans
-  carrier: SoftBank
-  carrier_class: text-yellow-600
-  reason: Beste Video-Streaming- und Gaming-Erfahrung laut Speedtest Intelligence
-    – perfekt für Unterhaltung unterwegs.
-- travel: Vielfahrer & Landreisende
-  carrier: NTT DoCoMo
-  carrier_class: text-blue-600
-  reason: Höchste 5G-Verfügbarkeit (43 %) – beste Abdeckung auch in ländlichen Regionen
-    und entlang der Shinkansen-Strecken.
-- travel: Preisbewusste Reisende
-  carrier: au (KDDI)
-  carrier_class: text-green-600
-  reason: Stabiles 5G-Netz mit 115,24 Mbps Download – gute Leistung zu günstigeren
-    Tarifen.
-cta_button_main_text: Die kostengünstigste Japan Reise-eSIM ansehen
-cta_button_sub_text: Automatischer Netzwerkwechsel, unterstützt automatischen Prepaid-Daten-Preisvergleich
-operator_labels:
-  best_for: 'Am besten für:'
-  core_data: 'Kerndaten:'
-  connect_note_label: 'eSIM-Verbindungshinweis:'
-operators:
-- id: rakuten-mobile-esim
-  title: 'Rakuten Mobile eSIM Test: Schnellstes 5G-Netz Japans'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für alle, die maximale 5G-Geschwindigkeit
-    benötigen – ideal für Geschäftsreisende, digitale Nomaden und alle, die große
-    Datenmengen in Echtzeit übertragen.
-  core_data: '- **5G-Download (Median)**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024)
-    beträgt die mediane 5G-Downloadrate von Rakuten Mobile 151,16 Mbps – der Spitzenwert
-    in Japan.
-
-    - **5G-Upload (Median)**: 26,1 Mbps – ebenfalls führend.
-
-    - **5G-Latenz**: 49 ms – reaktionsschnell für Echtzeitanwendungen.
-
-    - **Netzwerkkonsistenz**: 89,9 % der Proben erreichen mindestens 5 Mbps Download
-    / 1 Mbps Upload – bester Wert im Markt.
-
-    - **5G-Konsistenz**: 84,3 % der Proben erreichen mindestens 25 Mbps Download /
-    3 Mbps Upload – ebenfalls führend.'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde (MIC) und unabhängige
-    Tests von Ookla (2H 2024).
-  connect_note: 'Die Aktivierung verläuft nahtlos: Nach QR-Code-Scan ist die eSIM
-    sofort einsatzbereit. Rakuten Mobile priorisiert 5G und schaltet bei Bedarf auf
-    das 4G-Netz um.'
-  user_scenarios: '- **Shinkansen-Hochgeschwindigkeitszug (Tokio–Osaka)**: Selbst
-    bei 300 km/h bleibt die Verbindung stabil – ideal für Streaming oder Arbeit unterwegs.
-
-    - **Großstadt-Tokio (Shibuya Crossing)**: In der belebtesten Fußgängerzone der
-    Welt surfen Sie mit 5G ohne Verzögerung – perfekt für Live-Übertragungen.
-
-    - **Abgelegene Onsen (z. B. Hakone)**: Auch in den Bergen bietet Rakuten Mobile
-    eine zuverlässige 5G-Abdeckung – entspanntes Surfen nach dem Bad.'
-  bg_color: bg-red-50
-- id: softbank-esim
-  title: 'SoftBank eSIM Test: Beste Unterhaltungserfahrung'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für Reisende, die Wert auf flüssiges
-    Video-Streaming und reaktionsschnelles Gaming legen – ideal für Familien und Unterhaltungsliebhaber.
-  core_data: '- **Video-Streaming-Score**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024)
-    erreicht SoftBank einen Score von 75,91 – der beste Wert für mobiles Video in
-    Japan.
-
-    - **Gaming-Score**: 80,94 – ebenfalls führend, mit niedriger Latenz für Echtzeit-Spiele.
-
-    - **5G-Download (Median)**: 115,24 Mbps (au) – SoftBank liegt im Mittelfeld, punktet
-    aber mit optimierten Streaming-Pipelines.
-
-    - **Netzabdeckung**: Exzellent in urbanen Zentren und entlang der Hauptverkehrsachsen.'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde (MIC) und unabhängige
-    Tests von Ookla (2H 2024).
-  connect_note: 'Die Aktivierung verläuft nahtlos: Nach QR-Code-Scan ist die eSIM
-    sofort einsatzbereit. SoftBank optimiert automatisch die Verbindung für Video-
-    und Gaming-Dienste.'
-  user_scenarios: '- **Universal Studios Japan (Osaka)**: Während Sie in der Schlange
-    stehen, streamen Sie Filme in 4K ohne Puffer – perfekt für die Wartezeit.
-
-    - **Akihabara (Tokio)**: In der Gaming-Hauptstadt der Welt spielen Sie Mobile-Games
-    mit minimaler Latenz – ideal für E-Sports-Fans.
-
-    - **Kyoto (Arashiyama Bambuswald)**: Teilen Sie Ihre Eindrücke sofort auf Social
-    Media – SoftBank priorisiert Uploads für flüssige Video-Posts.'
-  bg_color: bg-yellow-50
-- id: ntt-docomo-esim
-  title: 'NTT DoCoMo eSIM Test: Beste 5G-Verfügbarkeit'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für Reisende, die auch abseits
-    der Großstädte zuverlässig 5G empfangen möchten – ideal für Roadtrips und Naturliebhaber.
-  core_data: '- **5G-Verfügbarkeit**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024)
-    haben 43 % der NTT DoCoMo-Nutzer die meiste Zeit 5G – der höchste Wert in Japan.
-
-    - **5G-Download (Median)**: 119,75 Mbps – solide Leistung, nur knapp hinter Rakuten
-    Mobile.
-
-    - **Netzabdeckung**: Exzellent in ländlichen Gebieten, entlang von Autobahnen
-    und in den Bergen.
-
-    - **Konsistenz**: 89,9 % der Proben erreichen mindestens 5 Mbps Download / 1 Mbps
-    Upload – gleichauf mit Rakuten Mobile.'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde (MIC) und unabhängige
-    Tests von Ookla (2H 2024).
-  connect_note: 'Die Aktivierung verläuft nahtlos: Nach QR-Code-Scan ist die eSIM
-    sofort einsatzbereit. NTT DoCoMo schaltet intelligent zwischen 5G und 4G um, um
-    die beste Verbindung zu gewährleisten.'
-  user_scenarios: '- **Hokkaido-Roadtrip (z. B. Furano–Biei)**: Selbst in den abgelegenen
-    Lavendelfeldern haben Sie 5G – ideal für Navigation und spontane Posts.
-
-    - **Berg Fuji (5. Station)**: Auf 2.300 m Höhe surfen Sie mit 5G – perfekt für
-    Live-Streams vom Gipfel.
-
-    - **Okinawa (abgelegene Strände)**: Auch auf den entlegenen Inseln der Präfektur
-    Okinawa bleibt die Verbindung stabil – ideal für digitale Nomaden am Strand.'
-  bg_color: bg-blue-50
-cards_compatibility_title: Prüfen Sie die Japan eSIM Kompatibilitätsliste
-cards_compatibility_desc: Prüfen Sie, ob Ihr Telefon Japan eSIM und lokale 5G-Bänder
-  unterstützt
-cards_free_title: Holen Sie sich Ihre kostenlose Japan eSIM
-cards_free_desc: Begrenzte kostenlose Test-eSIM, erleben Sie das lokale 5G-Highspeed-Netzwerk
-  ohne Roaming-Kosten
-cards_free_badge: KOSTENLOS
-cards_app_title: Roami App herunterladen & 20% Rabatt auf eSIM erhalten
-cards_app_desc: 'Rabattcode: <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | One-Tap-eSIM-Verwaltung'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Dinge, die Sie vor dem Kauf einer Japan eSIM wissen müssen
-before_buy_sections:
-- heading: 1. Wichtige 5G/4G-Frequenzbänder in Japan
-  content: Japan nutzt für 5G hauptsächlich die Bänder n77 (3,7 GHz), n78 (3,5 GHz)
-    und n257 (28 GHz). Für 4G/LTE sind die Bänder 1 (2100 MHz), 3 (1800 MHz), 8 (900
-    MHz), 11 (1500 MHz) und 21 (1500 MHz) relevant. Achten Sie darauf, dass Ihr Smartphone
-    diese Bänder unterstützt – die meisten aktuellen Modelle tun dies. Roami eSIMs
-    sind mit allen gängigen Geräten kompatibel.
-- heading: 2. Registrierungspflicht (KYC) bei japanischen Mobilfunkanbietern
-  content: In Japan ist für den Kauf einer lokalen SIM-Karte eine Identitätsprüfung
-    (Know Your Customer, KYC) erforderlich. Bei eSIMs von Roami entfällt dieser Schritt,
-    da die Aktivierung vollständig online und ohne Vorlage eines Ausweises erfolgt.
-    Sie müssen lediglich den QR-Code scannen – ideal für Kurzzeitreisende.
-- heading: 3. Fair-Use-Policy (FUP) und Drosselung
-  content: Die meisten japanischen Anbieter, darunter Rakuten Mobile, SoftBank und
-    NTT DoCoMo, wenden eine Fair-Use-Policy an. Nach Überschreiten eines bestimmten
-    Datenvolumens (z. B. 10 GB pro Tag) wird die Geschwindigkeit gedrosselt. Roami
-    eSIMs bieten transparente Tarife ohne versteckte Drosselung – Sie wissen genau,
-    wie viel Highspeed-Datenvolumen Sie erhalten.
-- heading: 4. Netzsperren und VoLTE-Kompatibilität
-  content: Japanische Netze setzen zunehmend auf VoLTE (Voice over LTE) und VoNR (Voice
-    over 5G). Stellen Sie sicher, dass Ihr Smartphone VoLTE unterstützt, da ältere
-    Geräte möglicherweise keine Sprachverbindung herstellen können. Roami eSIMs sind
-    für reine Datennutzung optimiert – Telefonie erfolgt über Apps wie WhatsApp oder
-    Skype.
-- heading: 5. eSIM-Kompatibilität und Geräte-Freischaltung
-  content: Nicht alle Smartphones unterstützen eSIMs. iPhones ab dem XS/XR, Google
-    Pixel ab dem 3a und die meisten Samsung Galaxy-Modelle ab dem S20 sind eSIM-fähig.
-    Prüfen Sie vor der Reise, ob Ihr Gerät entsperrt (simlockfrei) ist. Roami bietet
-    eine Kompatibilitätsprüfung auf der Website an.
-city_guide_title: 'Städte-Guide: Die beste eSIM für Japan'
-city_guide_desc: Finden Sie heraus, welche Japan eSIM für Ihre Zielstadt die beste
-  Wahl ist. Basierend auf den aktuellen Speedtest-Daten (2H 2024) empfehlen wir je
-  nach Stadt und Nutzungsprofil unterschiedliche Anbieter.
-city_table_headers:
-- Stadt
-- Empfohlener eSIM-Anbieter
-- Grund / Eigenschaften
-city_recommendations:
-- city: Tokio
-  carriers: Rakuten Mobile
-  reason: Tokio ist eine der dichtesten 5G-Städte der Welt. Rakuten Mobile bietet
-    hier die höchsten Downloadraten (151,16 Mbps) – ideal für Geschäftsreisende und
-    Digital Nomads, die in Shibuya, Shinjuku oder Akihabara unterwegs sind.
-- city: Osaka
-  carriers: SoftBank
-  reason: Osaka ist die Gaming- und Entertainment-Hauptstadt Japans. Mit SoftBank
-    profitieren Sie von der besten Video-Streaming- und Gaming-Erfahrung – perfekt
-    für Besuche im Universal Studios Japan oder in der Dotonbori-Vergnügungsmeile.
-- city: Kyoto
-  carriers: NTT DoCoMo
-  reason: Kyoto vereint historische Tempel mit moderner Technik. NTT DoCoMo bietet
-    die beste 5G-Verfügbarkeit (43 %) – auch in den engen Gassen von Gion oder in
-    den Bambuswäldern von Arashiyama haben Sie stabiles Internet.
-- city: Sapporo (Hokkaido)
-  carriers: NTT DoCoMo
-  reason: Sapporo ist das Tor zu Hokkaidos Naturwundern. NTT DoCoMo gewährleistet
-    auch in ländlichen Gebieten wie Furano oder Biei eine zuverlässige 5G-Verbindung
-    – ideal für Roadtrips und Outdoor-Aktivitäten.
-- city: Fukuoka (Kyushu)
-  carriers: Rakuten Mobile
-  reason: Fukuoka ist eine aufstrebende Tech-Metropole. Rakuten Mobile liefert hier
-    Spitzengeschwindigkeiten – perfekt für Coworking-Spaces und digitale Nomaden,
-    die die Stadt erkunden.
-city_guide_tip: '💡 Tipp: Wenn Sie die Multi-Netzwerk-eSIM von Roami nutzen, wechselt
-  Ihr Telefon automatisch zum besten lokalen Anbieter – keine manuelle Auswahl erforderlich.'
-scene_guide_title: 🎯 Wählen Sie die beste Japan eSIM basierend auf Ihrem Reiseszenario
-scene_items:
-- icon: 🏛️
-  title: Stadtentdecker
-  text: 'Erkunden Sie Tokios Stadtteile Shibuya, Shinjuku und Akihabara mit 5G-Geschwindigkeit.
-    Nutzen Sie Echtzeit-Navigation, um versteckte Izakayas zu finden, und streamen
-    Sie Ihre Erlebnisse live auf Social Media. Empfohlenes Netz: Rakuten Mobile für
-    maximale Geschwindigkeit.'
-- icon: 🏞️
-  title: Naturliebhaber
-  text: 'Wandern Sie auf dem Fuji oder durch die Bambuswälder von Kyoto – mit NTT
-    DoCoMo haben Sie auch in abgelegenen Gebieten 5G. Teilen Sie Ihre Fotos sofort
-    und nutzen Sie Offline-Karten als Backup. Empfohlenes Netz: NTT DoCoMo für beste
-    Abdeckung.'
-- icon: 🚗
-  title: Roadtripper
-  text: 'Reisen Sie mit dem Mietwagen von Tokio nach Osaka oder durch Hokkaido. Mit
-    einer Roami eSIM bleiben Sie auf Autobahnen und in ländlichen Regionen online
-    – ideal für Navigation, Musik-Streaming und spontane Stopps. Empfohlenes Netz:
-    NTT DoCoMo oder Rakuten Mobile.'
-- icon: 🏖️
-  title: Strandurlauber
-  text: 'Entspannen Sie an den Stränden von Okinawa oder Kamakura. Mit SoftBank streamen
-    Sie Filme in 4K und bleiben mit Freunden in Verbindung – auch wenn das Netz mal
-    schwächer wird. Empfohlenes Netz: SoftBank für beste Video-Erfahrung.'
-scene_guide_footer: 💡 Die Roami Japan eSIM Multi-Netzwerk-Edition erkennt Ihr Szenario
-  automatisch und wechselt in das beste Netzwerk – keine manuelle Einrichtung erforderlich.
-faq_title: Häufig gestellte Fragen zur Japan eSIM
-faq_prefix: F
-faq_suffix: ': '
-faq_more_link_text: Weitere Fragen? Komplette FAQ ansehen →
-faq_more_link_url: /faq/
-faq:
-- q: Bietet Roami einen 24-Stunden-Online-Kundensupport, falls ich in Japan Verbindungsprobleme
-    habe?
-  a: Ja, Roami bietet einen 24/7-Kundensupport per Live-Chat und E-Mail. Sollten Sie
-    in Japan Verbindungsprobleme haben – sei es aufgrund von Netzüberlastung oder
-    Konfigurationsfehlern – steht Ihnen das Support-Team jederzeit zur Seite. Die
-    durchschnittliche Antwortzeit beträgt weniger als 5 Minuten. Zusätzlich finden
-    Sie in der Roami-App eine umfangreiche Wissensdatenbank mit Lösungen für häufige
-    Probleme.
-- q: Ist es möglich, mehrere Datenpakete für Japan zu kaufen und diese nacheinander
-    zu aktivieren?
-  a: Ja, das ist problemlos möglich. Sie können mehrere Roami eSIM-Datenpakete für
-    Japan erwerben und diese nacheinander aktivieren. Jedes Paket wird mit einem eigenen
-    QR-Code geliefert. Nach Ablauf des ersten Pakets scannen Sie einfach den QR-Code
-    des nächsten Pakets, um es zu aktivieren. Beachten Sie, dass Sie nicht gleichzeitig
-    zwei aktive eSIMs desselben Anbieters nutzen können – Sie müssen das alte Profil
-    vorher deaktivieren.
-- q: Schließt die Netzabdeckung wichtige Verkehrsknotenpunkte wie Flughäfen, Hochgeschwindigkeitszüge
-    und U-Bahnen in Japan mit ein?
-  a: Ja, die Netzabdeckung von Roami eSIMs umfasst alle wichtigen Verkehrsknotenpunkte
-    in Japan. Flughäfen wie Narita, Haneda, Kansai und Chubu sind vollständig mit
-    5G abgedeckt. Auch in den Shinkansen-Hochgeschwindigkeitszügen (z. B. Tokio–Osaka)
-    und in den U-Bahn-Systemen der Großstädte (Tokio Metro, Osaka Metro) haben Sie
-    eine stabile Datenverbindung. In Tunneln kann es kurzzeitig zu Unterbrechungen
-    kommen, die aber in der Regel nur wenige Sekunden dauern.
-- q: Mit welchen lokalen Mobilfunkanbietern verbindet sich die Roami eSIM in Japan?
-  a: 'Die Roami eSIM für Japan verbindet sich automatisch mit den drei großen lokalen
-    Netzbetreibern: NTT DoCoMo, SoftBank und au (KDDI). Je nach Verfügbarkeit und
-    Signalstärke wählt das Gerät das jeweils beste Netz aus. Rakuten Mobile wird derzeit
-    nicht direkt unterstützt, aber die drei genannten Anbieter decken über 99 % der
-    Bevölkerung ab. Die Roami eSIM priorisiert NTT DoCoMo für die beste 5G-Verfügbarkeit
-    und SoftBank für optimale Streaming-Erfahrung.'
-- q: Unterstützt die Japan eSIM Hotspot-Tethering, um das Datenvolumen mit anderen
-    Geräten zu teilen?
-  a: Ja, die Roami eSIM für Japan unterstützt Hotspot-Tethering (auch als persönlicher
-    Hotspot bekannt). Sie können Ihr Datenvolumen mit bis zu 5 anderen Geräten teilen
-    – ideal, um Laptop, Tablet oder die Geräte von Reisebegleitern mit Internet zu
-    versorgen. Beachten Sie, dass die Geschwindigkeit beim Tethering leicht reduziert
-    sein kann, da die Bandbreite geteilt wird. Die Funktion ist standardmäßig aktiviert
-    und erfordert keine zusätzliche Konfiguration.
-myths_title: ⚠️ Häufige Mythen und Fakten über die Japan eSIM
-myth_label: '❌ Mythos: '
-truth_label: '✅ Fakt: '
-myths:
-- myth: In Japan gibt es nur ein einziges Mobilfunknetz – alle Anbieter nutzen dasselbe.
-  truth: 'Fakt: Japan hat drei große Mobilfunknetze: NTT DoCoMo, SoftBank und au (KDDI).
-    Rakuten Mobile ist als vierter Anbieter hinzugekommen. Jedes Netz hat eigene Stärken:
-    Rakuten Mobile ist am schnellsten (151,16 Mbps 5G-Download), NTT DoCoMo hat die
-    beste 5G-Verfügbarkeit (43 %) und SoftBank bietet die beste Video- und Gaming-Erfahrung.
-    Roami eSIMs nutzen die Netze von NTT DoCoMo, SoftBank und au.'
-- myth: 5G in Japan ist nur in Tokio und Osaka verfügbar.
-  truth: 'Fakt: 5G ist in ganz Japan verfügbar, auch in ländlichen Regionen. NTT DoCoMo
-    hat die höchste 5G-Verfügbarkeit (43 % der Nutzer haben die meiste Zeit 5G). Selbst
-    in abgelegenen Gebieten wie Hokkaido, Okinawa und den Bergen um den Fuji gibt
-    es 5G-Abdeckung. Die Präfekturen Osaka und Saitama gehören zu den leistungsstärksten
-    Regionen – Osaka führt bei mobilen Downloadraten (63,12 Mbps).'
-- myth: Japanische Mobilfunktarife sind extrem teuer und nur mit langen Verträgen
-    erhältlich.
-  truth: 'Fakt: Für Touristen gibt es günstige Prepaid-Optionen wie Roami eSIMs, die
-    ohne Vertragslaufzeit auskommen. Ein 10-GB-Datenpaket für 30 Tage kostet oft unter
-    20 Euro. Die lokalen Anbieter bieten ebenfalls Prepaid-Tarife an, die jedoch eine
-    japanische Adresse und KYC erfordern. Roami umgeht diese Hürde und bietet sofortige
-    Aktivierung.'
-- myth: Man braucht in Japan unbedingt eine physische SIM-Karte – eSIMs funktionieren
-    nicht zuverlässig.
-  truth: 'Fakt: eSIMs funktionieren in Japan einwandfrei. Die meisten modernen Smartphones
-    (iPhone XS/XR, Google Pixel 3a, Samsung Galaxy S20) unterstützen eSIMs. Roami
-    eSIMs werden innerhalb von Sekunden per QR-Code aktiviert und bieten die gleiche
-    Geschwindigkeit und Abdeckung wie physische SIM-Karten. In Tests von Ookla (2H
-    2024) wurden eSIMs nicht benachteiligt.'
-- myth: In Japan ist das Internet generell langsam – besonders in ländlichen Gebieten.
-  truth: 'Fakt: Japan gehört zu den Ländern mit den schnellsten mobilen Internetgeschwindigkeiten
-    weltweit. Die mediane 5G-Downloadrate von Rakuten Mobile beträgt 151,16 Mbps –
-    das ist schneller als in den meisten europäischen Ländern. Auch in ländlichen
-    Gebieten sind Geschwindigkeiten von über 50 Mbps üblich. Die Präfektur Saitama
-    hat die schnellsten festen Internetgeschwindigkeiten (239,22 Mbps).'
-data_sources_title: Datenquellen Japan Mobilfunknetze
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024)'
-  description: Ookla ist der weltweit führende Anbieter von Internet-Geschwindigkeitstests.
-    Der Bericht 'Japan – Mobile Network Performance Report – 2H 2024' basiert auf
-    Millionen von Speedtest-Ergebnissen und liefert die Grundlage für alle genannten
-    Geschwindigkeits- und Konsistenzdaten.
-- name: OpenSignal 2024
-  description: OpenSignal veröffentlicht regelmäßig Berichte zur mobilen Netzwerkerfahrung
-    in Japan. Der 'Japan Mobile Network Experience Report – 2024' analysiert Faktoren
-    wie Video-Streaming, Gaming und 5G-Verfügbarkeit. Die Daten bestätigen die Führungsposition
-    von SoftBank bei Video- und Gaming-Erfahrung.
-- name: Ministerium für Innere Angelegenheiten und Kommunikation (MIC) Japan 2024
-  description: Das MIC ist die japanische Regulierungsbehörde für Telekommunikation.
-    Es veröffentlicht jährlich Berichte zur Netzabdeckung und Frequenznutzung. Die
-    Daten des MIC bestätigen die 5G-Abdeckung von NTT DoCoMo und die Einhaltung der
-    Fair-Use-Policy durch alle Anbieter.
-data_sources_footer: Alle oben zitierten Netzleistungsdaten stammen aus öffentlich
-  zugänglichen Berichten Dritter (Ookla, OpenSignal, MIC Japan) und beziehen sich
-  auf den Zeitraum 2H 2024. Die Daten können je nach Standort, Gerät und Netzauslastung
-  variieren.
-data_sources_note: Netzwerkgeschwindigkeiten und Abdeckung können variieren. Die tatsächliche
-  Leistung hängt von Ihrem Standort, Ihrem Gerät, der Netzauslastung und anderen Faktoren
-  ab. Roami eSIMs bieten Zugang zu den Netzen von NTT DoCoMo, SoftBank und au – die
-  genannten Spitzenwerte gelten für die jeweiligen Anbieter und können nicht garantiert
-  werden.
-cta_title: Sichern Sie sich Ihre Japan eSIM noch heute
-cta_desc: Erhalten Sie sofortigen Zugang zu Japans schnellsten 5G-Netzen – ohne Roaming-Gebühren,
-  ohne Vertrag. Aktivieren Sie Ihre eSIM in Sekunden und surfen Sie ab dem ersten
-  Moment Ihrer Reise mit Highspeed.
-cta_button_text: Jetzt Japan eSIM kaufen
-cta_button_link: /japan-esim/
-cta_free_trial_note: Exklusiv für Neukunden
-cta_free_trial_text: Kostenlose Japan Test-eSIM
-cta_free_trial_link: /free-esim/
+hero_badge: "Der Vergleich der japanischen Netzbetreiber: Datentarife 2026"
+hero_subtitle_main: "Docomo, au und SoftBank — was die neuesten Netzdaten tatsächlich zeigen"
 ---
+
+
+Wählen Sie ein Netz, nicht eine Marke: An welchen Netzbetreiber sollte sich Ihre Japan eSIM verbinden? Die vier nationalen Netze Japans sind nicht austauschbar. Laut Ookla's Japan-Bericht 2. Halbjahr 2024 war Rakuten Mobile das konstanteste Netz mit 89,9 %, SoftBank bot das beste Video- und Gaming-Erlebnis, NTT Docomo führte bei der 5G-Verfügbarkeit mit 43 %, und au bot eine ausgewogene Abdeckung in Stadt und Land. Welches davon am besten ist, hängt davon ab, wohin Sie reisen, denn der beste eSIM-Netzbetreiber für Japan ist eine Routing-Entscheidung, keine Markenentscheidung. Nachdem wir genügend Reisende durch ihre erste Japan eSIM begleitet haben, kennen wir die üblichen Stolpersteine; die folgenden Abschnitte gehen sie der Reihe nach durch.
+
+Manche Telefone können gar keine eSIM verwenden, und viele Leute haben noch nie eine Profilinstallation gesehen. Beide Lücken werden anderswo behandelt — der [Kompatibilitäts-Checker](/compatibility/) und die [Aktivierungs-Anleitung](/faq/what-is-esim-activation-and-how-does-it-work/) — damit sich diese Seite auf die Netze konzentrieren kann.
+
+**Wenn Sie nichts anderes lesen:** Bleiben Sie in Tokio, Osaka oder Kyoto? Rakuten Mobile bietet das schnellste 5G des Landes mit 151,16 Mbps und das konstanteste Netz mit 89,9 %. Streamen Sie viel Video oder spielen Sie viel? SoftBank gewinnt beim Video-Score (75,91) und beim Gaming-Score (80,94). Geht es ins ländliche Tohoku, nach Hokkaido oder in die Berge? NTT Docomo hält das Signal, wo die anderen schwächer werden, dank der besten 5G-Verfügbarkeit mit 43 %. Möchten Sie als Besucher eine Netzbetreiber-eSIM? Nur au verkauft eine direkt vor Ort, über seine Marke povo bei Lawson. Oder überspringen Sie den Papierkram: Mit dem [kostenlosen eSIM-Test](/free-esim/) können Sie die Netze kostenlos testen; verwenden Sie den Code **WEB20** für 20 % Rabatt auf [Japan Prepaid eSIM-Datentarife](/japan-esim/).
+
+## Welche Netze kann Ihre eSIM nutzen?
+
+### Docomo, au, SoftBank und Rakuten, bewertet für Reisende
+
+| | NTTDocomo | au (KDDI) | 0 | Rakuten Mobile |
+|:---|:---|:---|:---|:---|
+| Prepaid-eSIM für Kurzzeitbesucher | Nein — eine direkte eSIM erfordert eine japanische Adresse und eine Aufenthaltskarte | Yes — povo verkauft eine Touristen-eSIM bei Lawson | Nein — LINEMO erfordert eine Aufenthaltskarte | Nein — eKYC erfordert eine Aufenthaltskarte und eine japanische Karte |
+| Bester gemessener Empfang | Breite Netzabdeckung, beste 5G-Verfügbarkeit bei 43 % | Ausgewogene Stadt- und Landversorgung | Beste Werte für Video (75,91) und Gaming (80,94) | Schnellstes 5G (151,16 Mbps), höchste Konstanz (89,9 %) |
+| Günstigster direkter Touristentarif | Kein direkter Tarif; Docomo Netz über IIJ ab 2.480 Yen | povo 3 GB / 7 Tage für 2.200 Yen | Kein direkter Tarif; SoftBank Netz über Reise-eSIM | Kein direkter Tarif; Resident-Tarif ab 1.078 Yen/Monat |
+| Einfachheit für einen Besucher | ★ — nur für Einwohner | ★★★ — bei Lawson mit Bargeld und Reisepass kaufen | ★ — nur für Einwohner | ★ — nur für Einwohner |
+
+**Three der vier Türen sind geschlossen.** Docomo, SoftBank und Rakuten leiten ihre eigene eSIM jeweils über Verträge für Einwohner, die eine Aufenthaltskarte und eine japanische Zahlungsmethode voraussetzen. Nur au öffnet eine Tür für Touristen, nämlich über seine Marke povo in den Lawson-Convenience-Stores. Alle anderen erreichen diese Netze über eine Reise-eSIM, die auf deren Netz aufsetzt.
+
+### Günstigste Datentarife in Japan im Vergleich
+
+Japans vierte Ebene ist der Bereich, in dem Besucher tatsächlich nutzbare Prepaid-eSIMs finden, entweder von einer Submarke eines Netzbetreibers oder von einer Budgetmarke, die Netzkapazität anmietet.
+
+| Marke | Mutter-Netzbetreiber | Touristen-eSIM? | Für wen geeignet |
+|:---|:---|:---|:---|
+| IIJmio Japan Travel SIM | NTT Docomo | Yes — ab 25. November 2025 bei FamilyMart erhältlich | Visitoren, die Docomo Netzabdeckung ohne Vertrag wünschen |
+| povo | au (KDDI) | Yes — bei Lawson | Kurzaufenthalte, Barzahler, Fans des au-Netzes |
+| LINEMO | SoftBank | Nein – eine Aufenthaltskarte ist erforderlich | Preisbewusste Einwohner |
+| ahamo | NTT Docomo | Nein – japanische Ausweisnummer erforderlich | Für Einwohner, die 20 GB benötigen |
+| UQ mobile | au (KDDI) | Nein – japanische Ausweisdokumente erforderlich | Einwohner im au-Versorgungsgebiet |
+| Y!mobile | SoftBank | Nein – japanische Ausweisnummer erforderlich | Einwohner in SoftBank-Gebieten |
+
+Zwei Hinweise. Erstens: Discountmarken, die Docomo- oder au-Kapazitäten mieten, sind weiterhin an ein einziges Netz gebunden und weisen daher beim Verlassen der Stadt dieselben Lücken auf wie der Mutterkonzern. Zweitens: Ab dem 1. April 2026 muss jede dieser Marken vor der Aktivierung Ihren Reisepass oder Ihre Aufenthaltskarte scannen, womit die alte „anonyme Reise-SIM" der Vergangenheit angehört.
+
+### Kann man eine Japan-eSIM von Docomo kaufen?
+
+| | Direkt von einem japanischen Netzbetreiber | Reise-eSIM in einem japanischen Netz |
+|:---|:---|:---|
+| Was Sie benötigen | Reisepass und in den meisten Fällen eine Aufenthaltskarte; japanische Zahlungsmethode | Ein kompatibles, entsperrtes Telefon |
+| So erhältst du dein Profil | Im Store, in der App oder per QR-Code nach der Identitätsprüfung | QR-Code oder App-Installation direkt nach dem Kauf |
+| Typische Kosten | povo 3 GB / 7 Tage für 2.200 Yen; Resident-Tarife von 990 bis 2.970 Yen pro Monat | One Anschaffungspreis, keine Aufenthaltskarte erforderlich |
+| Netzwerkzugriff | One Netzbetreiber oder povo im au-Netz | Automatischer Wechsel zwischen Docomo, au, SoftBank, Rakuten |
+| ID-Regelung ab April 2026 | Reisepass an der Verkaufsstelle gescannt | Reisepass beim Checkout hochgeladen |
+| Ideal für | Längere Aufenthalte mit Aufenthaltskarte | Reisen von Tagen bis Wochen, online bei der Einreise aktiv |
+
+Für eine zweiwöchige Reise sprechen die Zahlen nicht für einen lokalen Tarif. Ein Netzbetreiber-Vertrag ist für Einwohner gedacht, die eine japanische Nummer und eine monatliche Abrechnung möchten; eine Reise-eSIM kauft Daten zum Großhandelspreis und lässt das Gerät zwischen Netzwerken wechseln. Wo der Netzbetreiber punktet, sind Langlebigkeit und Telefonie, eine echte lokale Nummer und unbegrenzte Inlandsgespräche, was erst dann eine Rolle spielt, wenn Sie tatsächlich in Japan leben.
+
+💡 Ein Multi-Netzwerk-eSIM-Profil ist der praktische Mittelweg: [Roami's Japan-eSIM](/japan-esim/) bietet den Komfort der sofortigen Bereitstellung, wechselt automatisch zwischen Docomo, au, SoftBank und Rakuten und bringt Sie trotzdem in Tokio mit Rakuten und in den Bergen mit Docomo online, ohne zweimal zu kaufen.
+
+## eSIM-Kompatibilität prüfen
+
+Three Dinge entscheiden darüber, ob Ihr Telefon bei einem japanischen Netzbetreiber funktioniert: seine Frequenzbänder, sein Sperrstatus und eine kurze Liste gerätespezifischer Eigenheiten. Alle drei werden im Folgenden behandelt.
+
+### Ist mein Modell für den Japan-eSIM-Dienst geeignet?
+
+Japanische Netzbetreiber bauen ihr 5G auf bestimmten Frequenzbändern auf, und die Aufteilung ist wichtiger als in den meisten Ländern. Rakuten Mobile, au und SoftBank teilen sich alle das globale Mid-Band n77, sodass fast jedes ausländische 5G-Telefon dort eine Verbindung herstellen kann. NTT Docomo fügt eine eigene n79-Schicht hinzu und stützt sich für die Low-Band-Abdeckung auf LTE-Band 19 bei 800 MHz, und viele nordamerikanische und europäische Geräte werden ohne diese beiden ausgeliefert. Diese Telefone funktionieren zwar weiterhin auf Docomo, fallen jedoch auf die Bänder 1 und 3 zurück und verlieren in ländlichen Gebieten, in Bergtunneln und im Shinkansen den Empfang.
+
+Die japanische Frequenzbandliste sieht einschüchternd aus und lohnt sich größtenteils nicht zu lernen. Die sichere Wette ist, Ihr genaues Modell, die Modellnummer und nicht den Handelsnamen, mit der [eSIM-Kompatibilitätsliste](/compatibility/) abzugleichen. Möchten Sie die Theorie vor der Praxis? [Was Ihr Telefon beim Laden eines eSIM-Profils tut](/faq/what-is-esim-activation-and-how-does-it-work/) erklärt den Ladevorgang.
+
+### Docomo vs. au: Was ist in Japan besser?
+Ein gesperrtes Telefon ist der häufigste Grund, warum die Installation einer Japan-eSIM einfach fehlschlägt, und Japan hat hier ungewöhnlich klare Regeln.
+
+Laut Richtlinien des Ministeriums für innere Angelegenheiten und Kommunikation, die im September 2019 in Kraft traten, müssen japanische Netzbetreiber eine SIM-Lock-Entfernung anbieten, und der Vorgang ist kostenlos, wenn er über den Online- oder Telefonkanal des Netzbetreibers erfolgt. Seit Mai 2015 verkaufte Telefone können entsperrt werden, sobald eine vorgeschriebene Sperrfrist, üblicherweise etwa 100 bis 180 Tage, abgelaufen ist. Das MIC nennt die eSIM in seinen eigenen Reisehinweisen als Möglichkeit, Roaming-Gebühren zu vermeiden.
+
+**So prüfen Sie es:** iPhone → Einstellungen → Allgemein → Info → Netzbetreiber-Sperre. Wenn dort „Keine SIM-Beschränkungen" steht, kann das Telefon ein Profil annehmen. Steht dort „SIM gesperrt", lässt sich kein externes Profil laden, bis das Gerät freigeschaltet wurde.
+
+**So beheben Sie es:** Der Anbieter, bei dem das Gerät gekauft wurde, ist der richtige Ansprechpartner für eine Entsperrung. Abbezahlte Geräte werden normalerweise innerhalb weniger Stunden freigeschaltet, und über den Self-Service-Kanal des Netzbetreibers fallen keine Gebühren an. Versuchen Sie erst danach, Ihre eSIM zu installieren.
+
+Wenn Sie ein Telefon von einem US- oder europäischen Anbieter gekauft haben, gehen Sie davon aus, dass es gesperrt sein könnte, und prüfen Sie es vor dem Flug. Alle Details: [MIC — Reisen mit Ihrem Gerät](https://www.soumu.go.jp/english/).
+
+### Gerätekompatibilität in Japan
+
+| Gerät | Symptom | Was zu tun ist |
+|:---|:---|:---|
+| Anbietergebundenes Smartphone, zum Beispiel ein US-Netzbetreiber-Lock | eSIM-Installation schlägt vollständig fehl | Zuerst über den ursprünglichen Netzbetreiber entsperren, dann erneut versuchen |
+| Ausländisches Handy ohne Band 19 | Docomo fällt nur auf die Bänder 1 und 3 zurück; Funklöcher in Zügen und im Gebirge | Nutzen Sie SoftBank oder au oder eine Multi-Netz-eSIM |
+| Telefon ohne n77 oder n78 | Nur 4G, kein 5G | Erwartet; 4G ist in Japan immer noch schnell |
+| Mainland-China iPhone | Keine eSIM-Option verfügbar, Hardware deaktiviert | Nicht behebbar; verwenden Sie ein anderes Gerät |
+| Dual-SIM-Nutzer | eSIM installiert, aber keine Daten | Legen Sie die eSIM als mobile Datenleitung fest |
+
+Darüber entscheidet nicht das Netz, sondern das Gerät. Geben Sie Ihr genaues Gerät in den [Gerätekompatibilitäts-Check](/compatibility/) ein, bevor Sie einen Tarif buchen.
+
+## GB-Preisvergleich
+
+Es gibt vier Wege, und sie unterscheiden sich eher im Papieraufwand als im Preis: povo über au für eine echte Touristen-eSIM, Docomo und SoftBank über Anbieter für Einheimische sowie Rakuten als Vertrag für Einheimische. Jeder Weg, Schritt für Schritt.
+
+### Vertriebskanäle für Japan-eSIMs
+
+Die eigene Verbraucher-eSIM von Docomo richtet sich an inländische Nutzer: Sie verlangt eine japanische Adresse und eine Aufenthaltskarte und läuft über Tarife wie ahamo, Gigaho oder Gigalight. Internationale Besucher werden stattdessen über das Docomo-Netz über Discount-Marken bedient.
+
+**Docomo als Besucher erreichen, Schritt für Schritt:**
+
+1. Die sauberste Touristenroute ist die IIJmio Japan Travel SIM, die im 4G- und 3G-Netz von Docomo funktioniert. Ab dem 25. November 2025 wird sie an den Multifunktionskopierern von FamilyMart in ganz Japan verkauft.
+2. Wählen Sie am Kopierer einen Tarif, bezahlen Sie an der Kasse und erhalten Sie einen Zettel mit einem Aktivierungscode.
+3. Registrieren Sie sich auf der speziellen Website, geben Sie den Code ein und laden Sie das eSIM-Profil über WLAN herunter.
+4. Keine Aufenthaltskarte, keine japanische Kreditkarte, und die Tarife sind reine Datentarife ohne Vertrag.
+
+Docomo bedient Besucher bewusst auf diese Weise und nicht über die eigene App, da die eigene eSIM eine Identität als Einwohner voraussetzt. Prüfen Sie Ihr Gerät vor dem Kauf.
+
+### Japan-Preischeck: lokale vs. Reise-eSIM
+
+au ist der eine nationale Netzbetreiber, der eine Touristen-eSIM direkt verkauft. Seine Marke povo hat am 1. Juli 2025 die „povo2.0 Japan SIM" in rund 14.600 Lawson-Filialen eingeführt, und sie ist genau dafür gemacht.
+
+**povo Touristen-eSIM, Schritt für Schritt:**
+
+1. Wählen Sie an einem Lawson-Kopierer oder an der Kasse einen Tarif und bezahlen Sie bar.
+2. Scannen Sie den QR-Code auf dem Zettel und öffnen Sie die spezielle Website.
+3. Geben Sie die PIN der SIM-Karte ein und fügen Sie das eSIM-Profil zu Ihrem Gerät hinzu.
+4. Sie verbinden sich in etwa drei Minuten mit dem au-Netz, ohne Aufenthaltskarte, ohne japanische Karte.
+
+| Netzbetreiber oder Marke | Tarif | Datenvolumen und Gültigkeit | Preis (JPY) | Kauf |
+|:---|:---|:---|:---|:---|
+| über povo | 3 GB / 7 Tage | 3 GB, 7 Tage | 2.200 Yen | Lawson, bar |
+| über povo | 10 GB / 30 Tage | 10 GB, 30 Tage | ¥3.280 | Lawson, Bargeld |
+| au über povo | 25 GB / 30 Tage | 25 GB, 30 Tage | ¥4.580 | Lawson, Bargeld |
+| au über povo | Unbegrenzt / 7 Tage | unbegrenzt, 7 Tage | ¥4.500 | Lawson, Bargeld |
+| Docomo über IIJ | 3 GB / 30 Tage | 3 GB, 30 Tage | ¥2.480 | FamilyMart |
+| Docomo über IIJ | 10 GB / 30 Tage | 10 GB, 30 Tage | ¥3.280 | FamilyMart |
+| Docomo über IIJ | 55 GB / 30 Tage | 55 GB, 30 Tage | ¥5,780 | FamilyMart |
+| Rakuten, ansässig | SAIKYO bis zu 3 GB | monatlich | ¥1.078/Monat | App, Aufenthaltskarte |
+| SoftBank über LINEMO, ortsansässig | 3 GB | monatlich | ¥990/Monat | App, Aufenthaltsausweis |
+| SoftBank über LINEMO, Wohnsitz | 20 GB | monatlich | ¥2,970/Monat | App, Aufenthaltsausweis |
+
+povo weist darauf hin, dass die Geschwindigkeit bei Netzüberlastung begrenzt sein kann – das ist der eine Haken an einem stark besuchten Festivaltag. Wenn Sie als Besucher ausschließlich au-Netzabdeckung wünschen, ist povo der richtige Weg; eine Reise-eSIM ist die Alternative, die zusätzlich die anderen drei Netzbetreiber erreicht.
+
+### Verkauft SoftBank eine Touristen-eSIM für Besucher
+
+SoftBank verkauft keine direkte Prepaid-eSIM an Kurzzeitbesucher. Seine Online-Billigmarke LINEMO verlangt eine Aufenthaltskarte und eine japanische Zahlungsmethode, und seine eSIM-Tarife sind auf Personen mit dauerhaftem oder besonderem Daueraufenthaltsstatus beschränkt. Die eigene Prepaid-Geschichte von SoftBank ist eine physische SIM und der Free Wi-Fi Passport, keine Touristen-eSIM.
+
+Für SoftBank-Netzabdeckung als Besucher sind die praktischen Wege eine Reise-eSIM, die auf SoftBank läuft, oder eine Billigmarke, die dessen Kapazität mietet. SoftBank bleibt ein lohnendes Ziel, weil Ookla es in der zweiten Jahreshälfte 2024 als am besten für Video und Gaming bewertet hat – was wichtig ist, wenn Sie unterwegs streamen oder spielen.
+
+### Was kosten Japan-eSIM-Tarife
+
+Rakuten Mobile ist das schnellste und konstanteste Netz in Ooklas Datenerhebung zu Japan in der zweiten Jahreshälfte 2024, ist aber für Residenten gedacht. Sein eKYC verlangt eine Aufenthaltskarte oder eine Bescheinigung über den besonderen Daueraufenthaltsstatus, eine japanische Adresse sowie eine japanische Kreditkarte oder ein japanisches Bankkonto. Ausländische Karten werden abgelehnt.
+
+Rakutens SAIKYO-Plan ist wirklich günstig – etwa ¥1.078/Mon. bis 3 GB, ¥2.178/Mon. von 3 bis 20 GB und ¥3.278/Mon. über 20 GB mit einer unlimitierten Stufe –, aber die Zugangsvoraussetzungen sind der entscheidende Punkt. Ein normaler Tourist mit 90-tägigem Aufenthalt kann sie nicht erfüllen, sodass Rakuten Besucher eher über Reise-eSIM-Marken erreicht, die sein Netz mieten, als direkt.
+
+### Docomo eSIM-Tarife für Besucher
+- **Reisepass** – gescannt oder fotografiert; bei jeder Bestellung ab dem 1. April 2026 erforderlich
+- **Aufenthaltskarte** – nur, wenn Sie als Resident einen Netzbetreibervertrag abschließen
+- **IMEI** – über `*#06#` abrufen
+- **EID** – ebenfalls über den `*#06#`-Bildschirm; die eigene Kennung der eSIM
+- **Entsperrtes Telefon** – achten Sie im Eintrag „Carrier Lock" auf „No SIM restrictions"
+- **WLAN** – installieren Sie das Profil vor dem Flug, nicht erst am Flughafen
+- **Eine Karte, die in Japan funktioniert** – einige Netzbetreiber-Bestellungen lehnen ausländische Rechnungsadressen ab
+
+Die Tarife und aktuellen Stufen finden Sie auf unserer [Japan eSIM-Seite](/japan-esim/). Installieren Sie sie zu Hause, damit sich das Profil sofort nach der Landung verbindet.
+
+## Ihre eSIM-Geschwindigkeiten: Docomo vs. au
+
+Zwei Dinge entscheiden die Antwort: die Geschwindigkeit, die jeder Netzbetreiber dort liefert, wo Sie sein werden, und die Art Ihrer Reise. Die unten aufgeführten Netzbetreiber-Bewertungen klären die Geschwindigkeitsfrage, die Reise-Tabelle die zweite.
+
+### Wie konstant sind Rakuten Mobile, SoftBank, au und Docomo
+
+Alle folgenden Zahlen stammen aus dem Ookla Speedtest Connectivity Report für Japan, Erhebungszeitraum Juli bis Dezember 2024, und die Konsistenzwerte auf Netzbetreiberebene sind die für diesen Leitfaden bereitgestellten Werte.
+
+| Netzbetreiber | Konsistenzwert |
+|:---|:---|
+| Rakuten Mobile | 89,9 |
+| SoftBank | 85,7 |
+| NTT Docomo | 84,9 |
+| au | 82.4 |
+
+Source: Ookla Speedtest Konnektivitätsbericht — Japan, Juli bis Dezember 2024, [der Bericht pro Netzbetreiber](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024). Der Consistency Score gibt den Anteil der Messungen an, die 5 Mbps im Download und 1 Mbps im Upload erreichen.
+
+Wo der Bericht weitere Details zu den Netzbetreibern veröffentlicht, deckt sich das Bild mit der obenstehenden Tabelle. Rakuten Mobile war das schnellste 5G-Netz mit einem medianen 5G-Download von 151,16 Mbps und einem 5G Speed Score von 139,48. NTT Docomo belegte beim 5G-Download mit 119,75 Mbps den zweiten Platz und führte bei der 5G-Verfügbarkeit mit 43 %. au erreichte einen medianen 5G-Download von 115,24 Mbps. SoftBank erzielte mit 75,91 den besten Video-Streaming-Score und mit 80,94 den besten Gaming-Score. Jede Zahl geht auf denselben Ookla-Bericht zurück.
+
+| Metrik | Rakuten Mobile | au | NTT Docomo | SoftBank |
+|:---|:---|:---|:---|:---|
+| Median 5G-Download | 151,16 Mbps | 115,24 Mbps | 119,75 Mbps | nicht veröffentlicht |
+| 5G-Geschwindigkeitswert | 139,48 | nicht veröffentlicht | nicht veröffentlicht | 104,96 |
+| Bester Video-Streaming-Wert | nicht veröffentlicht | nicht veröffentlicht | nicht veröffentlicht | 75,91 |
+| Bester Gaming-Score | nicht veröffentlicht | nicht veröffentlicht | nicht veröffentlicht | 80,94 |
+| Beste 5G-Verfügbarkeit | nicht veröffentlicht | nicht veröffentlicht | 43% | nicht veröffentlicht |
+| Konstantes Netz | 89,9 % | nicht veröffentlicht | nicht veröffentlicht | nicht veröffentlicht |
+
+Für den Kontext zum Land insgesamt zeigt der [Speedtest Global Index](https://www.speedtest.net/global-index/japan) von Ookla die mittlere mobile Downloadgeschwindigkeit in Japan bei rund 66 Mbps, also deutlich unter dem globalen Median, da Japans Stärke eher in Dichte und Zuverlässigkeit liegt als in reiner Geschwindigkeit. Cable.co.uk berechnet 1 GB japanische mobile Daten auf etwa 3,48 USD, was Platz 201 von 237 Märkten entspricht – lokale Datentarife sind also mittelpreisig und nicht gerade günstig.
+
+### Bester japanischer Netzbetreiber für Reisetarife
+
+| Ihre Reise | Bester Netzbetreiber | Warum | Vorsicht vor |
+|:---|:---|:---|:---|
+| Städtereise, Tokio, Osaka, Kyoto | Rakuten Mobile | Schnellstes 5G mit 151,16 Mbps und am konstantesten mit 89,9 % | Festivalmassen drosseln das Netz zu Stoßzeiten |
+| Video-Streaming, Gaming | SoftBank | Bestes Video (75,91) und Gaming (80,94) | Upload ist nicht der schnellste |
+| Ländliches Tohoku, Hokkaido, Bergregionen | NTT Docomo | Größte Netzabdeckung, beste 5G-Verfügbarkeit bei 43 % | Ihr Telefon benötigt Band 19 für Low-Band |
+| Ausgewogene Stadt- und Regionalabdeckung | au | Starke landesweite Netzabdeckung mit der povo Touristen-eSIM | Erfordert B18 oder B26 für ländliche Gebiete |
+| Geschäftsreisen und Anrufe | Docomo oder SoftBank | Zuverlässig und weitreichend | Reise-eSIMs sind nur für Daten, keine lokale Rufnummer |
+| Mehrtägiger Roadtrip durch mehrere Regionen | Eine eSIM mit mehreren Netzbetreibern | Automatischer Wechsel beim Grenzübertritt | Tarife mit nur einem Netzbetreiber weisen Lücken zwischen den Regionen auf |
+
+### Das Feld der Netzbetreiber in Japan
+
+Die Netzabdeckung in Japan folgt der Bevölkerungsdichte – in den Metropolregionen ist sie dicht, entlang der Bergstraßen wird sie schnell lückenhaft und auf den äußeren Inseln ist sie weitgehend nicht vorhanden. Route für Route:
+
+| Region | Realität vor Ort |
+|:---|:---|
+| Tokio und Kanto | Alle vier stark; Rakuten bietet das schnellste 5G; Osaka verzeichnete die schnellste mittlere mobile Downloadgeschwindigkeit in Japan mit 63,12 Mbps (Ookla) |
+| Osaka und Kansai | Die Netzabdeckung in den Städten ist ausgezeichnet; Dotonbori und Universal Studios Japan bleiben auch bei viel Betrieb schnell. |
+| Hokkaido | Docomo am stärksten in ländlichen Gebieten und Skiregionen; Rakuten und SoftBank schwach abseits der Hauptrouten |
+| Tohoku | Docomo ist führend; die anderen sind außerhalb der Präfekturhauptstädte dünn besiedelt |
+| Kyushu und Shikoku | Die Netzabdeckung in den Städten ist gut; auf ländlichen Bergstraßen ist sie bei jedem Netzbetreiber lückenhaft |
+| Okinawa | Docomo und SoftBank sind auf der Hauptinsel gut; die äußeren Inseln sind dünn |
+| Bergregionen | Band 19 von Docomo hält das Signal; Rakuten ist außerhalb der Städte eingeschränkt |
+| Shinkansen | Docomo ist in Tunneln am zuverlässigsten; laden Sie immer zuerst Offline-Karten herunter |
+
+Grenzübertritt? Wir veröffentlichen dieselbe Quellenaufschlüsselung für [Südkorea eSIM-Tarife](/south-korea-esim/), vergleichen [Taiwan, China eSIM](/taiwan-esim/) und [Hongkong, China Reise-eSIM](/hong-kong-esim/). Wenn Ihre Reise mehrere Länder umfasst, spart eine [Asien](/asia-esim/) den doppelten Kauf.
+
+Deshalb ist der automatische Netzbetreiberwechsel auf einer Japanreise wichtig. Ein Profil, das zwischen Docomo, au, SoftBank und Rakuten wechseln kann, deckt die regionalen Lücken ab, die ein Einzelnetzbetreiber-Tarif nicht schließen kann.
+
+## Die benötigten APN-Werte
+
+Der APN-Bildschirm ist besonders bei Tarifen wichtig, die innerhalb Japans gekauft wurden, da das Profil nicht immer eigene Werte mitführt. Hier sind die Werte pro Netzbetreiber, die wenigen Fälle, in denen eine manuelle Eingabe nötig ist, und die exakten Menüs.
+
+### APN-Werte für Docomo, au und SoftBank eSIMs
+
+Sie benötigen diese nur, wenn Sie eine SIM oder eSIM direkt von einem japanischen Netzbetreiber oder einer Discount-Marke auf dessen Netz gekauft haben. Eine Reise-eSIM in Japan bringt ihre eigenen APN-Werte mit und erfordert keine manuelle Eingabe.
+
+| Netzbetreiber | APN | Benutzername | Passwort |
+|:---|:---|:---|:---|
+| NTT Docomo | `spmode.ne.jp` | leer | leer |
+| au (KDDI) | 0 | Leer | Leerzeichen |
+| SoftBank | `smile.world` | leer | leer |
+| Rakuten Mobile | `rmobile.jp` | `rm` | `0000` |
+
+Lassen Sie Benutzername und Passwort leer, außer bei Rakuten Mobile, wo der Netzbetreiber `rm` und `0000` vorgibt. Sollte ein Anbieter auf einem Wert bestehen, finden Sie diesen in den Unterlagen, die dem Profil beiliegen.
+
+### APN-Konfiguration in Japan
+
+Die meisten japanischen Profile konfigurieren sich selbst; die folgenden seltenen Fälle sind die Ausnahmen.
+
+- Ein älteres Gerät, das die Netzbetreibereinstellungen nicht automatisch abruft
+- Ein Profil, das mit einem manuellen Aktivierungscode statt per QR-Scan installiert wurde
+- Eine vom Netzbetreiber ausgegebene Prepaid-eSIM, bei der die automatische Konfiguration nicht ausgeführt wurde
+- Fast nie bei einer Reise-eSIM, denn genau darin liegt der Vorteil eines verwalteten Profils
+
+### Japan: wenn sich die APN nicht automatisch lädt
+- **iPhone:** Öffnen Sie Einstellungen → Mobilfunk → tippen Sie auf die eSIM-Leitung → Mobilfunkdaten-Netzwerk → geben Sie die APN ein
+- **Android:** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunkte → neuen APN hinzufügen
+
+Starten Sie das Telefon nach dem Speichern neu. Wenn die Datenverbindung weiterhin nicht funktioniert, prüfen Sie zuerst, ob die Datenleitung dem japanischen Profil gehört, bevor Sie weitere Einstellungen ändern.
+
+## Japan-eSIM-Aktivierung ohne Drama
+
+Ein einziger Durchgang dieses Abschnitts deckt alles ab – von der sauberen Installation bis zu funktionierenden Daten, einschließlich der Fehlerbilder, die ein japanisches Netz erzeugen kann, in der Reihenfolge, in der sie typischerweise auftreten.
+
+### Japan-eSIM: Installationsanleitung
+| # | Prüfen | Was „gut" bedeutet |
+|:---|:---|:---|
+| 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | Es sind keine SIM-Einschränkungen unter „Info“ -> „Netzbetreiber-Sperre“ aufgeführt |
+| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder der Kompatibilitätsprüfer bestätigt Ihr Modell |
+| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud-Speicherung |
+| 4 | Profil vor der Abreise installieren | Über WLAN zu Hause installieren; es verbindet sich automatisch bei der Landung |
+| 5 | Datenverbindung und Roaming eingerichtet | eSIM für mobile Daten ausgewählt, Datenroaming aktiviert |
+
+Erledigen Sie Schritt 4 bereits zu Hause. Die Ankunftshallen von Narita, Haneda und Kansai haben genau dann ein überlastetes WLAN, wenn Sie es am dringendsten benötigen, und ein Profil, das Sie am Boden installieren, konkurriert mit dem aller anderen.
+
+### Welchen japanischen Netzbetreiber sollten Sie wählen: Docomo oder au?
+
+Der übliche Weg – eSIM hinzufügen, QR-Code scannen, Datenleitung auswählen – ist in unserer [Aktivierungsanleitung](/faq/how-to-activate-an-esim/) beschrieben. Was sich zwischen den japanischen Netzbetreibern unterscheidet:
+
+- **Docomo über IIJ:** Aktivierung über den FamilyMart-Beleg und die dedizierte Website; manuelle APN-Eingabe erforderlich
+- **au über povo:** Aktivierung bei Lawson über den QR-Code und die PIN auf der SIM-Karte; eSIM im au-Netz
+- **SoftBank über LINEMO:** Variante für in Japan Ansässige, app-basiert mit eKYC per Residence Card; kein Touristen-Workflow
+- **Rakuten Mobile:** Variante für in Japan Ansässige, app-basiert nach eKYC; kein Touristen-Workflow
+- **Reise-eSIMs:** Installation per QR-Code, dasselbe Profil wechselt per Roaming in dasjenige Netz (Docomo, au, SoftBank oder Rakuten), das am stärksten ist
+
+### Vier Lösungen für eine stockende Japan-eSIM
+
+Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann, ein fehlgeschlagener Scan oder eine eSIM, die zwar installiert, aber nie registriert wird, werden in unserem [eSIM-Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Japan weist vier eigene Muster auf, die im Folgenden aufgeführt sind.
+
+**A. Die eSIM lässt sich nicht installieren**
+1. Wenn unter „SIM-Lock“ die Option „Keine SIM-Beschränkungen“ angezeigt wird, ist das Telefon entsperrt
+2. Prüfen Sie, ob der QR-Code sauber und ungescannt ist; die meisten sind nur einmal verwendbar
+3. Fragen Sie nach, ob das Profil aufseiten des Netzbetreibers in der Warteschlange steht
+
+**B. Installiert, aber keine Signalbalken**
+1. Erneut den SIM-Lock-Status prüfen
+2. Einstellungen → Mobilfunk → Netzwerkauswahl → Docomo, au, SoftBank oder Rakuten manuell auswählen, statt die automatische Auswahl zu verwenden
+3. Netzwerk zurücksetzen und anschließend einen vollständigen Neustart durchführen
+
+**C. Signalbalken vorhanden, aber kein Internet**
+1. Den APN-Eintrag für Ihren Netzbetreiber in der Tabelle erneut prüfen
+2. Sicherstellen, dass die Japan-eSIM die Datenleitung ist und nicht Ihre Heim-SIM
+3. Prüfen, ob Sie nicht in eine Fair-Use-Drosselung gelaufen sind; unbegrenzte Reisetarife werden nach einem Tageslimit oft auf ein Minimum reduziert
+
+**D. Funklöcher im Zug oder in den Bergen**
+1. Wenn Sie über Docomo verbunden sind, prüfen, ob Ihr Telefon Band 19 unterstützt; ohne dieses fallen Sie auf Band 1 und 3 zurück
+2. Auf SoftBank oder au wechseln, die global abgestimmte niedrige Bänder nutzen, oder eine eSIM mit mehreren Netzen verwenden
+3. Offline-Karten vor Fahrtantritt im Shinkansen oder vor einem Wanderweg herunterladen
+
+### Was Sie bereithalten sollten, bevor Sie den japanischen Kundenservice kontaktieren
+| Informationen | Wo Sie sie finden |
+|:---|:---|
+| Bestell- oder Kundennummer | Bestätigungs-E-Mail |
+| Telefonmodell und Betriebssystemversion | Einstellungen → Info |
+| EID | `*#06#` |
+| Screenshot des Fehlers | Machen Sie ihn, bevor sich der Bildschirm ändert |
+| Aktuelle APN-Einstellungen | Einstellungen → Mobiles Datennetz |
+| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Bereits ausprobierte Schritte | Halten Sie die Liste kurz |
+
+## Ihre Japan-eSIM- und Netzbetreiber-Fragestunde
+
+### Kann ich eine Touristen-eSIM direkt bei NTT Docomo kaufen?
+
+Nicht als Laufkundschaft. Die eigene eSIM von Docomo läuft über Vertragstarife für Einwohner wie ahamo und erfordert eine japanische Adresse sowie eine Aufenthaltskarte. Besucher erreichen das Netz von Docomo über die IIJmio Japan Travel SIM in FamilyMart oder über eine Reise-eSIM; beide nutzen Docomo-Kapazitäten ohne Vertrag.
+
+### Verkauft au eine Prepaid-eSIM, die Besucher kaufen können?
+
+Yes, und es ist der einzige landesweite Netzbetreiber, der dies tut. Die Marke povo von au verkauft ab dem 1. Juli 2025 eine Touristen-eSIM bei Lawson, mit Tarifen von ¥2.200 für 3 GB über 7 Tage bis ¥4.500 für unbegrenztes Datenvolumen über 7 Tage, zahlbar in bar und ohne Aufenthaltskarte. Die Verbindung zu au's Netz erfolgt in etwa drei Minuten.
+
+### Können internationale Besucher eine SoftBank eSIM erhalten?
+
+Nicht direkt. Die Marke LINEMO von SoftBank benötigt eine Aufenthaltskarte und eine japanische Zahlungsmethode, und ihre eSIM-Stufen sind auf Personen mit dauerhafter oder besonderer Daueraufenthaltsgenehmigung beschränkt. Besucher erhalten SoftBank-Daten über eine Reise-eSIM, die das Netz mietet; dort sind die branchenführenden Video- und Gaming-Werte von SoftBank weiterhin nützlich.
+
+### Ist Rakuten Mobile eine gute eSIM-Wahl für einen Kurzaufenthalt?
+
+Rakuten ist in den Daten von Ookla für das 2. Halbjahr 2024 das schnellste und konstanteste Netz, aber die eigene eSIM erfordert eine Aufenthaltskarte, eine japanische Adresse und eine japanische Karte, sodass sich ein Tourist mit Kurzaufenthalt nicht anmelden kann. Rakuten erreicht Besucher stattdessen über Reise-eSIM-Marken, die auf seinem Netz aufsetzen.
+
+### Docomo vs. au: Netzabdeckung im Vergleich
+
+NTT Docomo, basierend auf den Erkenntnissen. Ookla führte die 5G-Verfügbarkeit mit 43 % an und gewinnt bei der Breite der Netzabdeckung, insbesondere in Hokkaido, Tohoku und den Bergen, da das Low-Band-Layer Band 19 nutzt. Der Haken ist, dass vielen ausländischen Telefonen Band 19 fehlt, sodass sie die Abdeckung von Docomo nur auf den Bändern 1 und 3 sehen. Eine Multi-Netz-eSIM umgeht diese Falle.
+
+### Bestes Netz nach Netzabdeckung in Japan
+
+Docomo leitet seine grundlegende Netzabdeckung über Band 19 bei 800 MHz und sein 5G über n79 bei 4,5 GHz; keines davon ist in den meisten nordamerikanischen oder europäischen Telefonen verfügbar. Ohne diese Bände hält sich Ihr Gerät an die Bänder 1 und 3, die städtische Layer sind, sodass Tunnel, Landstraßen und Skigebiete ausfallen. SoftBank ist das für ausländische Telefone freundlichste Netz, da es das globale Band 8 und n77 nutzt.
+
+### Der japanische SIM-Registrierungsprozess
+
+Ab dem 1. April 2026 ja, für fast alle. Das Ministerium für innere Angelegenheiten und Kommunikation verlangt von allen Käufern von Daten-SIM und eSIM, Touristen wie Einwohnern, einen Ausweis: einen Reisepass für Touristen, eine Aufenthaltskarte für Einwohner. Die Regel gilt im Laden ebenso wie online, daher verlangen Reise-eSIM-Checkouts nun das Hochladen eines Reisepassfotos, bevor das Profil heruntergeladen wird.
+
+### Sollte ich bei einem japanischen Netzbetreiber kaufen oder eine Reise-eSIM nutzen?
+Direkt bedeutet ein Netz, vom Betreiber bereitgestellte Provisionierung und oft eine Aufenthaltskarte oder japanische Zahlungsmethode; im Gegenzug erhalten Sie eine echte lokale Nummer und monatliche Abrechnung. Eine Reise-eSIM bedeutet sofortige Bereitstellung, keinen Papierkram, automatisches Wechseln zwischen Docomo, au, SoftBank und Rakuten sowie einen festen Vorabpreis. Kurztrip: Reise-eSIM. Leben in Japan: direkt.
+
+### Umgang mit einem gesperrten Telefon in Japan
+
+Fragen Sie den Netzbetreiber, an den es gebunden ist. Gemäß den MIC-Richtlinien, die im September 2019 in Kraft traten, müssen Netzbetreiber die SIM-Entsperrung kostenlos über ihren Online- oder Telefonkanal anbieten, und seit Mai 2015 verkaufte Telefone sind entsperrbar, sobald eine eventuelle Sperrfrist von etwa 100 bis 180 Tagen verstrichen ist. Entsperrungsanfragen bei abbezahlten Geräten werden meist innerhalb weniger Stunden bearbeitet. iPhone-Besitzer können den Sperrstatus unter Einstellungen → Allgemein → Info → Netzbetreiber-Sperre ablesen.
+
+### IMEI und EID für Japan prüfen
+
+Es muss entsperrt und eSIM-fähig sein, und es hilft, wenn es die Bänder unterstützt, die jeder Netzbetreiber nutzt. Prüfen Sie beides in einem Schritt mit dem [eSIM-Kompatibilitätstool](/compatibility/), das die EID-Unterstützung und die Band-19-Frage für Docomo abdeckt. Falls der Installationsschritt unklar ist, erklärt [so funktioniert die eSIM-Installation](/faq/what-is-esim-activation-and-how-does-it-work/) das Verfahren.
+
+### Was tun, wenn meine Japan-eSIM im Shinkansen nicht mehr funktioniert?
+
+Arbeiten Sie die Japanspezifischen Punkte der Reihe nach ab: Sperrstatus, Netzwahl, APN und Datenleitung, dann Profil neu installieren; falls es weiterhin nicht klappt, deckt der umfassendere Fehlerkatalog im [Leitfaden zur Behebung von eSIM-Aktivierungsproblemen](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Im Hochgeschwindigkeitszug bevorzugen Sie Docomo für Tunnelstabilität und laden Sie stets Offline-Karten herunter, bevor Sie einsteigen.
+
+### Der Chip, der ein Docomo- oder au-Profil speichert
+
+Der Chip ist bereits in Ihr Telefon gelötet – was ein japanischer Kauf hinzufügt, ist ein Profil. Der Netzbetreiber spielt es auf den Chip, der Chip speichert es, und die Verbindung verhält sich dann normal. [der eSIM-Aktivierungs-Erklärer](/faq/what-is-esim-activation-and-how-does-it-work/) behandelt die Bereitstellung, einschließlich Aktivierungscodes.
+
+Weitere Fragen? [Zur vollständigen FAQ](/faq/)
+
+## Die Japan-eSIM-Netzbetreiber: Docomo, au und SoftBank
+
+- Die Werte auf Betreiberebene auf dieser Seite stützen sich auf den **Ookla Speedtest Connectivity Report für Japan, Juli bis Dezember 2024** – [der Bericht pro Netzbetreiber](https://www.ookla.com/research/reports/japan-speedtest-connectivity-report-h2-2024) liefert für Rakuten Mobile 89,9 % Konsistenz und 151,16 Mbps mittleren 5G-Download, für SoftBank 75,91 Video- und 80,94 Gaming-Werte, für Docomo 43 % 5G-Verfügbarkeit und für au 115,24 Mbps mittleren 5G-Download.
+- Der nationale Medianwert für mobile Downloads in Japan und das Weltrang stammen aus dem **Ookla Speedtest Global Index** – [der Japan-Eintrag](https://www.speedtest.net/global-index/japan), monatlich aktualisiert.
+- Die SIM-Entsperrungsregeln und die Identitätsprüfungspflicht ab April 2026 sind vom **Ministerium für innere Angelegenheiten und Kommunikation (MIC)** dokumentiert – [die nationale Regulierungsbehörde](https://www.soumu.go.jp/english/).
+- Die Preise der Touristen-eSIM von au, die Verfügbarkeit bei Lawson und die Aktivierungsschritte wurden im **KDDI News Room** gemeldet – [die povo2.0-Japan-SIM-Bekanntmachung](https://newsroom.kddi.com/english/news/detail/kddi_nr-640_4003.html).
+- Der Pro-Gigabyte-Wert für Japan stammt aus **Cable.co.uk Worldwide Data Pricing** – [die vollständige Ländertabelle](https://www.cable.co.uk/mobiles/worldwide-data-pricing/).
+
+Dies sind ausschließlich Drittquellen. Ihre eigenen Ergebnisse variieren je nach Telefon, dem Band, auf dem es sich einwählt, und der Auslastung des nahegelegenen Sendemasts.
+
+## Ihre Japan-eSIM, bereit vor dem Einsteigen
+
+Die Japan-eSIM von Roami wechselt zwischen Docomo, au, SoftBank und Rakuten Mobile, damit Sie von Tokio bis Hokkaido online bleiben. Holen Sie sich die [kostenlose Japan-Test-eSIM](/free-esim/), um die Netzabdeckung zu testen, oder erhalten Sie 20 % Rabatt auf [Japan-eSIM-Tarife](/japan-esim/) mit dem Code **WEB20**.
+
+[Japan-eSIM kaufen](/japan-esim/)
+
+*Erstkäufer, einmalig nutzbar*
+
+[Kostenlose Japan-Testversion sichern](/free-esim/)

@@ -1,274 +1,752 @@
 ---
-title: "去印尼旅行該選哪家 eSIM？5G 網速與方案完整比較。"
-description: "計劃去印尼旅行嗎？Roami 為您實際測試 Telkomsel、XL 和 IM3 Ooredoo 的 5G 網路表現，讓您輕鬆比較各家方案，選出最適合的印尼 eSIM 方案。"
-date: "2026-06-17T06:15:09+00:00"
 
-keywords: "eSIM 印尼，預付數據，5G 網路，Telkomsel，XL，Roami eSIM"
-site_name: "Roami"
-brand_name: "Roami"
+title: "印尼 eSIM 怎麼挑？Telkomsel、XL、IM3 Ooredoo 比較"
+
+description: "印尼 eSIM 該辦哪一家電信業者？Roami 以 5G 網速、延遲表現與旅遊方案比較 Telkomsel、XL Axiata 與 IM3 Ooredoo，從雅加達、巴里島到日惹與蘇門答臘逐段實測覆蓋，整理資費與 APN 設定，幫你跳島選對印尼 eSIM。"
+image: "img/esim/carriers/indonesia-esim-carrier-guide.jpg"
+
+date: "2026-09-26T09:20:29+00:00"
+
+keywords: eSIM Indonesia, 預付卡流量, 5G 網路, Telkomsel, XL, IM3 Ooredoo, travel eSIM, roaming free, Indonesia eSIM 電信業者, Indonesia eSIM 運營商
+
+site_name: Roami
+
+brand_name: Roami
+
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "印尼 eSIM 指南"
-    url: ""
 
-# Hero 區塊文案
-hero_badge: "🇮🇩 印尼 最新旅遊 eSIM 指南"
-hero_subtitle_main: "印尼 eSIM：立即購買，即時連線"
-hero_subtitle_highlight: "Telkomsel 與 XL 頂級 5G 覆蓋"
-hero_description_line1: "透過 印尼 eSIM 跳過排隊買 SIM 卡的麻煩。線上付款後立即取得 QR code，幾分鐘內完成啟用，快速解決 印尼 的上網問題。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "印尼 eSIM"
-hero_link_url: "/indonesia-esim/"
-tldr_summary: "【無憂全球商務差旅：一張 eSIM 暢遊多國高速網路】對於經常往返印尼的商務旅客，Roami eSIM 提供即時連線，無需更換實體 SIM 卡。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024) 數據，Telkomsel 在 2024 下半年以 42.93 的速度得分奪冠，中位下載速度達 32.11 Mbps，上傳 13.86 Mbps，延遲僅 47 ms；XL 則以 87.2% 的一致性表現最佳。Roami eSIM 自動連接當地頂級網路，讓您在雅加達會議、峇里島度假或泗水出差時，都能享受穩定高速的 5G 體驗。結論：選擇 Roami eSIM，就是選擇無縫、高效、可靠的全球商務連線。"
+- name: Roami
 
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "印尼 eSIM 快速連結"
-sidebar_links:
+  url: /
 
-  - href: "#quick-picks"
-    text: "快速選擇：印尼 該選哪家 eSIM 營運商？"
+- name: 印尼 eSIM 指南
 
-  - href: "#operators"
-    text: "印尼 最佳行動 eSIM 營運商總覽"
+  url: ''
 
-  - href: "#city-guide"
-    text: "城市指南：印尼 最佳 eSIM"
+hero_badge: "印尼 eSIM 比較：Telkomsel、XL 與 IM3 Ooredoo"
 
-  - href: "#before-buy"
-    text: "購買 印尼 eSIM 前須知"
-
-  - href: "#faq"
-    text: "印尼 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "印尼 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：印尼 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Telkomsel"
-    carrier_class: "text-red-600"
-    reason: "Telkomsel 在 2024 下半年綜合技術最快，中位下載 32.11 Mbps，5G 下載中位數 74.09 Mbps，5G 可用性 3.5% 最高，適合需要穩定高速網路的遠端工作者。"
-
-  - travel: "影音串流愛好者"
-    carrier: "XL"
-    carrier_class: "text-blue-600"
-    reason: "XL 提供最佳 5G 影片體驗（88.67 分），5G 遊戲體驗得分 79.55，且網路一致性達 87.2%，適合追劇、直播與遊戲玩家。"
-
-  - travel: "一般旅客"
-    carrier: "IM3 Ooredoo"
-    carrier_class: "text-yellow-600"
-    reason: "IM3 Ooredoo 中位下載速度 26.7 Mbps，表現穩定，價格通常較親民，適合日常社交媒體、地圖導航與輕度使用。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 印尼 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "telkomsel-esim"
-    title: "Telkomsel eSIM 總覽：最快整體網路與 5G 領導者"
-    best_for: "此方案絕對是最佳選擇，適合需要最快下載速度、最佳影片與遊戲體驗的用戶，尤其適合商務旅客與重度使用者。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024)，Telkomsel 在 2024 下半年擁有最高 5G 可用性，達 3.5%。\n- **下載速度**：中位下載速度 32.11 Mbps，5G 中位下載速度 74.09 Mbps。\n- **上傳速度**：中位上傳速度 13.86 Mbps，5G 上傳速度 28.14 Mbps。\n- **延遲**：47 ms。\n- **速度得分**：42.93，為所有技術綜合最快。"
-    arcep_note: "經當地電信主管機關（印尼通訊與資訊部）確認，Telkomsel 為印尼最大電信營運商，擁有最廣泛的 4G/5G 覆蓋。"
-    connect_note: "啟用過程順暢，Roami eSIM 支援自動連接 Telkomsel 網路，無需手動設定。"
-    user_scenarios: "- **峇里島海灘**：在庫塔海灘或烏布使用 Telkomsel 5G，中位下載 74.09 Mbps，上傳 Instagram 限時動態或進行視訊通話毫無延遲。\n- **雅加達商務會議**：在 Sudirman 中央商業區，Telkomsel 提供 32.11 Mbps 中位下載，確保大型檔案上傳與視訊會議流暢。\n- **日惹古城探索**：在婆羅浮屠寺廟周邊，Telkomsel 的廣泛覆蓋確保地圖導航與即時分享不中斷。"
-    bg_color: "bg-red-50"
-
-  - id: "xl-esim"
-    title: "XL eSIM 總覽：最佳 5G 影片與遊戲體驗"
-    best_for: "此方案絕對是最佳選擇，適合影音串流、線上遊戲與需要高一致性網路的用戶。"
-    core_data: "- **5G 影片體驗**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024)，XL 在 2024 下半年 5G 影片串流得分 88.67，為市場最佳。\n- **5G 遊戲體驗**：5G 遊戲得分 79.55。\n- **網路一致性**：87.2% 的樣本達到或超過 5 Mbps 下載與 1 Mbps 上傳門檻，為市場最佳一致性。\n- **中位下載速度**：27.66 Mbps（所有技術綜合）。"
-    arcep_note: "經當地電信主管機關確認，XL 為印尼第二大電信營運商，在都市地區提供優異的 5G 覆蓋。"
-    connect_note: "啟用過程順暢，Roami eSIM 支援自動連接 XL 網路，提供最佳串流體驗。"
-    user_scenarios: "- **雅加達購物中心**：在 Grand Indonesia 或 Plaza Indonesia 使用 XL 5G，享受 88.67 分的影片串流體驗，觀看 Netflix 或 YouTube 不緩衝。\n- **萬隆咖啡廳**：在萬隆創意區，XL 的 5G 遊戲得分 79.55，適合玩《原神》或《傳說對決》等手遊。\n- **龍目島海灘**：在 Senggigi 海灘，XL 的一致性網路確保直播或視訊通話穩定。"
-    bg_color: "bg-blue-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 印尼 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 印尼 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 印尼 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 印尼 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段"
-    content: "印尼主要營運商（Telkomsel、XL、IM3 Ooredoo）使用 4G 頻段 B1 (2100)、B3 (1800)、B8 (900)、B28 (700) 以及 5G 頻段 n1 (2100)、n3 (1800)、n28 (700)、n40 (2300)、n78 (3500)。購買 eSIM 前請確認您的裝置支援這些頻段，以獲得最佳連線。"
-
-  - heading: "2. KYC 要求"
-    content: "印尼法規要求所有 SIM 卡（包括 eSIM）必須進行實名登記。購買 Roami eSIM 時，您需要提供護照資料與入境資訊（如簽證或入境章），部分營運商可能要求上傳自拍照。請確保資料正確，以免啟用延遲。"
-
-  - heading: "3. 公平使用政策（FUP）"
-    content: "多數印尼 eSIM 方案設有每日或總量公平使用限制。例如，超過每日 1GB 後速度可能降至 128 kbps。Roami 提供透明 FUP 說明，請在購買前確認方案細節，避免超量後降速影響體驗。"
-
-  - heading: "4. 啟用與連線時間"
-    content: "Roami eSIM 在付款後立即透過電子郵件發送 QR code，掃描後幾分鐘內即可啟用。建議在出發前於有 Wi-Fi 的環境下完成安裝，抵達印尼後開啟數據漫遊即可自動連線。"
-
-  - heading: "5. 多國漫遊與數據共享"
-    content: "若您計劃從印尼前往新加坡、馬來西亞等鄰國，Roami 提供多國 eSIM 方案，無需更換 SIM 卡。請注意，部分方案不支援熱點分享，購買前請確認您的需求。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：印尼 最佳 eSIM"
-city_guide_desc: "了解哪款 印尼 eSIM 是您目的地的最佳選擇，根據當地網路效能與覆蓋推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "雅加達"
-    carriers: "Telkomsel"
-    reason: "雅加達為商業與政治中心，Telkomsel 提供最快下載速度（32.11 Mbps）與最佳 5G 可用性（3.5%），適合商務旅客與重度使用者。"
-
-  - city: "峇里島（登巴薩）"
-    carriers: "Telkomsel"
-    reason: "峇里島為印尼最快區域，中位下載速度達 43.65 Mbps。Telkomsel 在庫塔、烏布等觀光區提供穩定 5G 覆蓋，適合上傳照片與視訊通話。"
-
-  - city: "泗水"
-    carriers: "XL"
-    reason: "泗水為東爪哇最大城市，XL 以 87.2% 的一致性表現提供穩定連線，適合日常社交媒體與串流。"
-
-  - city: "萬隆"
-    carriers: "XL"
-    reason: "萬隆為創意與科技中心，XL 的 5G 遊戲得分 79.55，適合手遊玩家與影音創作者。"
-
-  - city: "日惹"
-    carriers: "Telkomsel"
-    reason: "日惹為文化古城，Telkomsel 擁有最廣泛的覆蓋，確保在婆羅浮屠、普蘭巴南等偏遠寺廟區域仍有穩定訊號。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 印尼 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在雅加達、泗水等大都市，Telkomsel 提供最快 5G 速度（中位下載 74.09 Mbps），適合使用地圖導航、即時翻譯與社交媒體打卡。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往峇里島、龍目島或科莫多國家公園，Telkomsel 的廣泛覆蓋確保在偏遠景點仍有訊號，方便分享絕美風景。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕穿越爪哇島或蘇門答臘，XL 的高一致性（87.2%）確保導航不中斷，避免迷路。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在峇里島海灘享受陽光，XL 的 5G 影片體驗得分 88.67，適合串流音樂、觀看影片或直播夕陽。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "印尼 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "印尼 eSIM 的支援服務提供哪些語言，回應時間為何？"
-    a: "Roami 提供 24/7 多語言客服支援，包括英文、中文與印尼文。一般問題的回應時間約為 5-10 分鐘，複雜問題則在 1 小時內回覆。您可透過即時聊天、電子郵件或 WhatsApp 聯繫。"
-
-  - q: "我可以將 印尼 eSIM 用作所有行動數據連線的主要 SIM 卡嗎？"
-    a: "可以。Roami eSIM 可設定為主要數據 SIM 卡，用於所有網路連線。請注意，部分裝置不支援雙 SIM 卡同時使用數據，建議在設定中將 Roami eSIM 設為預設數據線路，並關閉實體 SIM 的數據漫遊以避免額外費用。"
-
-  - q: "Roami eSIM 在 印尼 會連接到哪些本地行動電信商？"
-    a: "Roami eSIM 在印尼會自動連接到 Telkomsel 與 XL 等頂級本地營運商。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024) 數據，Telkomsel 為最快整體網路（速度得分 42.93），XL 則提供最佳 5G 影片體驗（88.67 分）。Roami 會根據訊號強度與網路品質動態切換，確保最佳連線。"
-
-  - q: "在智慧型手機設定中，是否需要開啟數據漫遊才能讓 eSIM 在 印尼 運作？"
-    a: "是的，您需要在手機設定中開啟數據漫遊，Roami eSIM 才能正常連線。這是因為 eSIM 本質上屬於漫遊服務。請放心，開啟數據漫遊不會產生額外費用，Roami 方案已包含所有數據費用。建議在抵達印尼後再開啟，以避免在出發地意外使用數據。"
-
-  - q: "如何確認 eSIM 在 印尼 的特定目的地是否擁有可靠的覆蓋？"
-    a: "您可參考 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024) 的覆蓋地圖，或使用 OpenSignal 的即時覆蓋工具。一般來說，Telkomsel 在都市與偏遠地區覆蓋最廣，XL 在都市 5G 表現優異。Roami 也提供目的地覆蓋查詢功能，您可在購買前輸入目的地確認。"
-
-# 迷思
-myths_title: "⚠️ 印尼 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "印尼所有營運商速度都一樣慢。"
-    truth: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024) 數據，Telkomsel 中位下載速度達 32.11 Mbps，5G 下載更達 74.09 Mbps，遠高於其他營運商。選擇正確營運商可獲得極佳體驗。"
-
-  - myth: "eSIM 在印尼無法使用 5G。"
-    truth: "Roami eSIM 支援 5G 連線。Telkomsel 在 2024 下半年 5G 可用性達 3.5%，XL 提供最佳 5G 影片體驗（88.67 分）。只要裝置支援且所在區域有 5G 訊號，即可享受高速網路。"
-
-  - myth: "印尼 eSIM 啟用非常複雜。"
-    truth: "Roami eSIM 啟用非常簡單：付款後收到 QR code，掃描後幾分鐘內即可使用。無需前往實體門市或排隊，適合旅客。"
-
-  - myth: "峇里島網路最慢，因為是觀光區。"
-    truth: "事實上，峇里島是印尼最快區域，中位下載速度達 43.65 Mbps，高於全國平均。Telkomsel 在峇里島提供優異的 5G 覆蓋。"
-
-  - myth: "印尼 eSIM 只能連接一家營運商。"
-    truth: "Roami eSIM 會自動連接 Telkomsel 與 XL 等多家營運商，根據訊號強度與品質動態切換，確保最佳連線。"
-
-# 數據來源
-data_sources_title: "印尼 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024)"
-    description: "基於 Speedtest Intelligence 數據，涵蓋 2024 下半年印尼所有技術綜合與 5G 效能指標，包括下載/上傳速度、延遲、一致性與可用性。"
-
-  - name: "OpenSignal 2024"
-    description: "提供印尼行動網路體驗報告，包含影片體驗、遊戲體驗與語音應用體驗等指標，補充 Ookla 數據。"
-
-  - name: "印尼通訊與資訊部（Kominfo）2024"
-    description: "印尼國家電信監管機構，提供營運商覆蓋範圍、頻譜分配與服務品質監管數據。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已標註來源。數據可能因時間、地點與裝置而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議在購買前參考最新報告。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 印尼 eSIM"
-cta_desc: "即時存取，無需排隊。選擇 Roami，享受 Telkomsel 與 XL 頂級網路。"
-cta_button_text: "立即購買 印尼 eSIM"
-cta_button_link: "/indonesia-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "印尼 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
+hero_subtitle_main: "獨立速度數據揭示了什麼——以及它漏掉了什麼"
 
 ---
+
+
+
+
+
+
+印尼是一個由約 17,000 座島嶼組成的群島國家，它的行動網路地圖也是如此運作。巴里島與雅加達有歐洲等級的速度；一程開往吉利群島的渡輪讓你只剩一格訊號，而四王群島（Raja Ampat）的民宿靠的是退潮時最近基地台勉強伸到的那一點訊號。因此選擇印尼 eSIM 是兩個決定而非一個：你連上哪張網路，以及你的手機到底被不被允許連上它。
+
+
+
+**快速結論：** 當地網路是多數訪客在印尼應該優先列入名單的網路；當地網路則是值得與它比價的 CP 值替代選項。如果你寧願實測覆蓋而不是讀規格，Roami 的[免費覆蓋測試](/free-esim/)是印尼的零風險入口。
+
+
+
+**快速判定：** **Telkomsel** 是全國覆蓋最廣的網路，也是任何要離開觀光路線的人的正確預設——全國地理覆蓋得分 8.6 / 10，對上 Indosat 的 5.5 與 XL 的 4.8。**XL** 與 **Indosat (IM3)** 在巴里島與爪哇是強勁的 CP 值選擇，在巴里島南部的穩定度上甚至可能勝過 Telkomsel。無論你買什麼，記住那條困住最多訪客的規則：國外購買的手機需要**註冊 IMEI** 才能使用本地網路，而遊客的寬限期為 90 天。旅遊 eSIM 則完全繞開這一點——[免費試用 eSIM](/free-esim/) 免費測試各網路，折扣碼 **WEB20** 替[印尼 eSIM 方案](/indonesia-esim/)省下 20%。
+
+
+
+## 直接跳到你需要的部分
+
+
+
+- [哪種印尼 eSIM 電信業者適合你的旅程？](#choosing-by-trip-type-in-indonesia)
+
+- [Telkomsel vs XL vs Indosat：訪客實際上能買到什麼](#plans-and-pricing-in-indonesia)
+
+- 這些預付方案用盧比算是多少錢](#money-saving-indonesia-plans)
+
+- [外國手機的 IMEI 註冊](#sim-and-esim-registration-in-indonesia)
+
+- [印尼 eSIM 基礎知識：頻段、生物辨識與方案有效期](#indonesia-esim-fundamentals-bands-biometrics-and-bundle-windows)
+
+- [本地 SIM 或漫遊 profile：哪個適合跳島行程？](#indonesia-esim-roaming-and-border-crossings)
+
+- [印尼的行動網路有多快？](#indonesia-esim-speeds-by-carrier)
+
+- [印尼 eSIM 各區域覆蓋與行動速度](#indonesia-esim-carriers)
+
+- [依旅程形態看印尼 eSIM](#indonesia-esim-by-trip-shape-seven-islands-seven-different-networks)
+
+- [購買前：文件、IMEI 與支付](#indonesia-sim-registration-documents-imei-and-payment)
+
+- [印尼 eSIM 出狀況時](#when-an-indonesia-esim-misbehaves-four-local-failure-modes)
+
+- [跨境前往新加坡與馬來西亞](#crossing-to-singapore-and-malaysia-same-phone-new-data-plan)
+
+- [常見問題（12 題解答）](#common-questions-about-an-indonesia-esim-12-answered)
+
+- [我們印尼 eSIM 覆蓋內容背後的研究與來源](#research-and-sources-behind-our-indonesia-esim-coverage)
+
+
+
+## 依旅程類型選擇印尼 eSIM
+
+
+
+數據來源：[Ookla Speedtest 連線報告](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024)。
+
+
+
+| 旅程類型 | 推薦業者 | 原因 | 注意事項 |
+
+|:---|:---|:---|:---|
+
+| 巴里島 — 水明漾、倉古、庫塔 | Telkomsel 或 XL | Telkomsel 在南部有最佳平均下載；XL 的一致性領先 | 海灘俱樂部與別墅牆壁厚實 |
+
+| 烏布與巴里島北部丘陵 | Telkomsel | 一離開南部主要走廊，訊號最強 | 稻田別墅室內會失去訊號 |
+
+| 雅加達與大雅加達 | Telkomsel | 最低延遲與環線內最密的 5G | 通勤時段嚴重擁塞 |
+
+| 日惹與婆羅浮屠 | Telkomsel | 寺廟建築群與全市覆蓋可靠 | 日出時婆羅浮屠的人潮拖低吞吐量 |
+
+| 龍目島與吉利群島 | Telkomsel | 在馬塔蘭與接駁路線上保持覆蓋 | 船一離岸，島嶼之間訊號即中斷 |
+
+| 蘇門答臘 — 棉蘭、多巴湖、武吉拉旺 | Telkomsel | 唯一在主要城鎮之外仍有覆蓋的業者 | 叢林旅宿依賴衛星 Wi-Fi |
+
+| 科莫多、弗洛雷斯與納閩巴霍 | Telkomsel | 納閩巴霍與主要城鎮有覆蓋 | 跨島航程上幾乎什麼都沒有 |
+
+| 四王群島與巴布亞 | Telkomsel | Waisai 與索龍附近有訊號；全國最廣的覆蓋 | 潛點完全沒有覆蓋 |
+
+| 布羅莫與東爪哇 | Telkomsel | 觀景點與外南夢有訊號 | 黎明前的行程在基地台醒來之前就出發 |
+
+| 數位遊民，倉古住一個月 | Indosat 或 XL | 更低價格下有競爭力的大額度 | 適用本地註冊與 IMEI 時限 |
+
+
+
+**多數行程的 CP 值之選：** 一個自動切換網路、隨時比較預付數據價格的 profile。
+
+
+
+## 印尼的方案與價格
+
+
+
+### Telkomsel：最佳整體表現與最廣的地圖
+
+
+
+Telkomsel 在所有頭條指標上領先：速度得分 42.93、下載中位數 32.11 Mbps、上傳中位數 13.86 Mbps、延遲 47 ms，外加全國最高的 5G 可用率——**3.5%** 的用戶大部分時間在 5G 上。它的 5G 下載中位數為 74.09 Mbps，5G 一致性 80.7%。不過，真正該決定你購買的數字不是這些——而是 Telkomsel 的**地理覆蓋得分 8.6 / 10**，對上 Indosat 的 5.5 與 XL 的 4.8，這正是「在納閩巴霍或武吉拉旺手機能用」與「手機變紙鎮」的分界。
+
+
+
+### XL：一致性與影片之選
+
+
+
+XL 拿下最佳 5G 影片串流得分（**88.67**）與最高整體網路一致性 **87.2%**，下載中位數 27.66 Mbps。在巴里島南部它與 Telkomsel 相當，依 Opensignal 2026 年 4 至 6 月的測量，在穩定度與 5G 駐留時間上常常領先。它的遊客 eSIM——**Xtra Combo Flex M**，約 Rp 46,000，14 GB / 30 天含五分鐘通話——是市場上最便宜的電信發行遊客產品之一，線上註冊需要護照資料、電子郵件與手機的 IMEI。
+
+
+
+### Indosat (IM3)：日常 CP 值之選
+
+
+
+Indosat 以 IM3 Ooredoo 品牌販售，下載中位數 26.7 Mbps，速度排第三，卻在價格上壓過兩家對手：當地標價顯示**每月約 Rp 110,000 得 72 GB，含稅**，其 Travel On 遊客系列 30 GB 約自 Rp 100,000 起。在雅加達、萬隆與泗水，它是強勁的日常選擇。但它不是帶去四王群島的業者。
+
+
+
+### Smartfren 與 by.U：小眾選項
+
+
+
+每份價格比較都會出現的兩個名字，各自適合很窄的情境。**Smartfren 的 Tourist Starter Pack** 標價 Rp 100,000，14 天 30 GB，但要看清拆分：15 GB 是全時段數據，15 GB 只限午夜，所以它不是表面上的 30 GB。**by.U**，Telkomsel 的全數位品牌，販售小型方案，約 Rp 15,000 得 7 GB，而有效期在不同活動中曾被標為 14、20 與 30 天——對居民方便，對兩週訪客難以預測。
+
+
+
+### 省錢的印尼方案
+
+
+
+當地價格以盧比公布並隨促銷變動。換算以**約 17,900 印尼盾兌 1 美元**計。
+
+
+
+| 產品 | 流量 | 有效期 | 價格 (Rp) | ≈ 美元 |
+
+|:---|:---|:---|:---|:---|
+
+| Telkomsel Tourist Prepaid Card | 25 GB + 25 本地通話分鐘 | 30 天 | Rp 150,000 | ≈ $8 |
+
+| Telkomsel WNA Tourist Starterpack | 60 GB | 30 天 | Rp 250,000 | ≈ $14 |
+
+| Telkomsel 外國人方案（最高層級） | 200 GB | 30 天 | Rp 800,000 | ≈ $45 |
+
+| Telkomsel eSIM SIMPATI | 3 GB | 短期有效 | Rp 35,000 | ≈ $2 |
+
+| XL Xtra Combo Flex M（遊客 eSIM） | 14 GB + 5 分鐘 | 30 天 | Rp 46,000 | ≈ $3 |
+
+| Indosat IM3 Travel On | 30 GB | 30 天 | 自 Rp 100,000 起 | ≈ $6 |
+
+| Smartfren Tourist Starter Pack | 15 GB 全時段 + 15 GB 午夜限定 | 14 天 | Rp 100,000 | ≈ $6 |
+
+| by.U Super Kaget | 7 GB | 依活動而定 | 自 Rp 15,000 起 | ≈ $1 |
+
+
+
+這張表上方還有一個警告。同一個標價 Rp 150,000 的 Telkomsel 25 GB 全國方案，2026 年在登巴薩機場的經銷櫃檯被錄得 **Rp 400,000**——同樣的額度貴了近三倍。如果你必須一落地就上線，在機場買最小的包，隔天再到市區的官方 GraPARI 或 IM3 門市升級。
+
+
+
+## 印尼的 SIM 與 eSIM 註冊
+
+
+
+印尼自 2020 年起要求進口手機向其網路報備，未註冊的手機可能正常運作一段時間後停止連線。三件事值得分開，因為旅客經常混淆：
+
+
+
+- **註冊 SIM 不等於註冊手機。** 這是兩個獨立的程序。未註冊手機上的預付線路即使已登記，仍會被斷網。
+
+- **遊客有臨時途徑。** 海關指引允許停留**最長 90 天**的訪客透過行動運營商自己的通路註冊裝置——這正是官方機場櫃檯或 GraPARI 門市在向你要護照的同時要 IMEI 所做的事。它多花兩到五分鐘。
+
+- **更長的停留需要正式途徑。** 超過 90 天適用海關框架，申報手機價值有約 **500 美元**的免稅額，超出部分課進口稅。
+
+
+
+如果你讓本國 SIM 保持國際漫遊、用旅遊 eSIM 跑數據，以上全都與你無關——這正是外國手機改用 eSIM 是「繞開」而非「解決」這個問題的原因。
+
+
+
+2026 年又疊加了一層註冊要求。**2026 年第 7 號 Permenkomdigi 法規**自 2026 年 1 月 19 日生效，全面改革用戶註冊：自 2026 年 7 月 1 日起，每位新用戶在註冊時都要通過**生物辨識臉部識別檢查**，且每個身分在每家運營商名下以**三個預付門號**為上限。外國人以護照、KITAS 或 KITAP 註冊。Telkomsel 在其遊客產品上自訂每本護照三張 SIM 卡與三個 eSIM 的上限。兩個實際後果：帶你入境時用的那本護照，別指望囤卡。
+
+
+
+## 印尼 eSIM 基礎知識：頻段、生物辨識與方案有效期
+
+
+
+### 誰握有印尼最強的 5G？
+
+
+
+印尼 5G 主要運行在 **n40 (2300 MHz)** 與 **n78 (3500 MHz)** 上，而 4G LTE 則落在 **B1 (2100 MHz)、B3 (1800 MHz)、B5 (850 MHz)、B8 (900 MHz) 與 B40 (2300 MHz)**。多數近年的國際手機都涵蓋這些，但 n40 是許多西方型號缺少的頻段，所以在歐洲顯示 5G 的手機在這裡可能只有 4G。用型號編號——而非行銷名稱——對照[手機相容性清單](/compatibility/)查證。
+
+
+
+### 2. 身分查驗、生物辨識與三門號上限
+
+
+
+買本地線路意味著一次註冊，而自 2026 年 7 月起，註冊包含生物辨識檢查。外國訪客接受護照；較長停留接受 KITAS 或 KITAP。上限是每個身分每家運營商三個預付門號，Telkomsel 對其遊客產品套用同樣的天花板。隨機一家便利商店賣的卡往往以未啟用狀態發售，只有通過身分驗證後才會開通。
+
+
+
+### 3. 公平使用門檻以及之後會發生什麼
+
+
+
+多數預付方案帶有公平使用政策，過了門檻後速度會掉到 256 kbps 至 1 Mbps 之間——夠傳訊息，不夠看即時路況的地圖。也要注意額度的形狀：Smartfren 的「30 GB」一半是全時段、一半只限午夜，而 by.U 的有效期會隨活動變動。購買前同時確認門檻與期限。
+
+
+
+### 印尼 eSIM 的購買選項
+
+
+
+印尼預付方案的時鐘從線路第一次連上本地網路起算，而不是你付款的時間。有些方案讓你選擇起始日。如果你在機場買卡、兩小時後到飯店才插入，倒數從飯店開始。買你將在抵達當天使用的方案。
+
+
+
+### iPhone 與印尼 eSIM
+
+
+
+eSIM 適用於 iPhone XS 及之後、Pixel 3 及之後、Galaxy S20 及之後，以及多數近年的 Android 旗艦——但手機還必須**未上電信鎖**，否則無論硬體支不支援，第三方 profile 都裝不進去。如果安裝機制對你是新事物，[eSIM profile 如何安裝](/faq/what-is-esim-activation-and-how-does-it-work/)逐步說明會發生什麼。
+
+
+
+## 印尼 eSIM 的漫遊與跨境
+
+
+
+| | 本地預付卡 | 走本地網路的旅遊 eSIM |
+
+|:---|:---|:---|
+
+| 你需要什麼 | 護照、生物辨識註冊，若手機為國外購入還需 IMEI 註冊 | 一支相容、未上鎖的手機 |
+
+| profile 如何送達 | 在門市或櫃檯，附帶文件手續 | 付款當下即得 QR code |
+
+| 典型花費 | 遊客包 Rp 46,000–250,000 | 一個預付價格，免跑櫃檯 |
+
+| 網路存取 | 單一業者，通常 Telkomsel | 在 Telkomsel、XL 與 Indosat 之間自動切換 |
+
+| 門號 | 真正的 +62 門號，叫車與 GoPay 都用得上 | 純數據，通常無門號 |
+
+| 90 天規則 | 外國手機需要 IMEI 註冊才能留在本地網路 | 漫遊 profile 不受此規則約束 |
+
+| 最適合 | 一個月以上的停留，或 App 與訂房需要的本地門號 | 一到三週的旅程，落地即上線 |
+
+
+
+在印尼，本地路線便宜又實用，這是許多市場沒有的待遇——+62 門號是司機、民宿與外送 App 找到你的方式。它的代價是帶著護照與 IMEI 在 GraPARI 花一小時辦手續。兩週跳島行程，旅遊 eSIM 是更短的路徑；倉古住兩個月，本地卡在價格與門號上勝出。
+
+
+
+## 價格檢查：你的 eSIM vs 本地 SIM vs 漫遊
+
+
+
+價格本身請用我們的[印尼方案頁面](/indonesia-esim/)——它永遠反映今天的陣容。再與下方的本地基準比較——每 GB 成本、中位數速度，以及已經上線的人數。
+
+
+
+## 各業者的印尼 eSIM 速度
+
+
+
+2026 年 8 月，印尼的行動下載速度中位數為 **66.34 Mbps**，使該國在 Ookla 全球指數中排第 **70** 名。當月全球中位數為 109.05 Mbps，印尼低於典型市場。
+
+
+
+| 指標 | 印尼 | 全球中位數 |
+
+|:---|:---|:---|
+
+| 行動下載中位數 | 66.34 Mbps（全球第 70） | 109.05 Mbps |
+
+| 行動延遲中位數 | 20 ms | 24 ms |
+
+| 固網下載中位數 | 51.4 Mbps（全球第 113） | 129.68 Mbps |
+
+| 1 GB 平均價格 | 0.28 美元（237 個市場中第 17） | 2.59 美元 |
+
+
+
+價格方面，Cable.co.uk 的全球調查把印尼 1 GB 行動數據定價約 **0.28 美元**，在 237 個市場中排第 17，對上 2.59 美元的全球平均。背後的市場已相當成熟：依 DataReportal 的 2025 年數據，印尼有 2.12 億網路使用者（人口的 74.6%）與 3.56 億行動連線——人口的 125%。
+
+
+
+每個數字都來自獨立、定期更新的第三方：[Ookla Speedtest 全球指數](https://www.speedtest.net/global-index/indonesia)、[Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)、[DataReportal](https://datareportal.com/reports/digital-2025-indonesia)。
+
+
+
+全國中位數與價格之間的落差就是印尼市場的故事：數據是全球最便宜之列，而速度低於世界平均，因為平均值包含小城鎮數以百萬計的 4G 連線。對旅客的含義很簡單——大方地買，因為額度幾乎不要錢；而在雅加達與巴里島南部之外，別指望頭條的 5G 數字。
+
+
+
+## 五城市 eSIM 實測
+
+
+
+依當地網路表現與覆蓋，哪種印尼 eSIM 更適合你的目的地：
+
+
+
+| 城市 | 最佳業者 | 為什麼行得通 |
+
+|:---|:---|:---|
+
+| 雅加達 | Telkomsel | 首都是全國最密的 5G 市場，Sudirman、Thamrin 與中央商務區延遲低 |
+
+| 巴里島（登巴薩） | Telkomsel 或 XL | 巴里島錄得印尼最快的行動下載中位數 43.65 Mbps；XL 的一致性領先，Telkomsel 平均速度領先 |
+
+| 泗水 | Indosat | 所有運營商覆蓋都紮實，而 IM3 在東爪哇的日常瀏覽上最便宜 |
+
+| 萬隆 | XL | 遠距工作者聚集地，XL 的 87.2% 一致性與 88.67 影片得分正適合咖啡廳辦公 |
+
+| 日惹 | Telkomsel | 廣泛覆蓋與 47 ms 延遲，讓婆羅浮屠與普蘭巴南周邊的地圖、視訊與購票 App 保持靈敏 |
+
+
+
+Roami 的印尼多網路 eSIM 會自動重新連上最佳的本地網路，你不必在城市之間管理設定。
+
+
+
+## 印尼 eSIM 電信業者
+
+
+
+印尼的覆蓋並不均勻，全球第 70 的排名是全國平均，而不是對你行程的承諾。以下是地圖實際的分布。
+
+
+
+| 區域 | 覆蓋 | 最佳業者 | 注意 |
+
+|:---|:---|:---|:---|
+
+| 雅加達與大雅加達 | 每張主要網路都有 5G，商場室內覆蓋密集 | Telkomsel | 通勤時段嚴重擁塞 |
+
+| 西爪哇 — 萬隆、茂物 | 走廊沿線城市 4G 強勁、5G 起步 | XL | 萬隆以西的山路在村莊之間斷訊 |
+
+| 中爪哇與日惹 | 城市與主要寺廟建築群覆蓋可靠 | Telkomsel | 通往南海岸的鄉村道路稀薄 |
+
+| 東爪哇 — 泗水、瑪琅、布羅莫 | 城市覆蓋良好；布羅莫觀景點有訊號 | Telkomsel | 黎明前的行程在網路醒來前就出發 |
+
+| 巴里島與龍目島 | 南部與馬塔蘭強勁；一離開主要道路就參差 | Telkomsel | 船一離岸，吉利群島之間什麼都沒有 |
+
+| 蘇門答臘 — 棉蘭、多巴湖、武吉拉旺 | 城鎮良好；一離開幹道就有缺口 | Telkomsel | 叢林旅宿依賴衛星 Wi-Fi |
+
+| 加里曼丹 — 巴厘巴板、坤甸 | 城市尚可，內陸稀疏 | Telkomsel | 漫長的河運路線沒有覆蓋 |
+
+| 小巽他群島 — 弗洛雷斯、科莫多、納閩巴霍 | 納閩巴霍與主要城鎮有覆蓋；其間極少 | Telkomsel | 跨島航程處於離線狀態 |
+
+| 馬魯古與巴布亞 — 索龍、Waisai、四王群島 | 城鎮附近與部分潛水路線有訊號 | Telkomsel | 多數潛點與民宿沒有覆蓋 |
+
+
+
+要從印尼跳去鄰國？比較鄰近的網路：
+
+
+
+- [我們的新加坡指南](/carriers/singapore-esim-carrier-guide/)
+
+- [馬來西亞 eSIM 方案](/malaysia-esim/)
+
+- [我們的泰國指南](/carriers/thailand-esim-carrier-guide/)
+
+
+
+如果你會四處移動，多網路 eSIM 勝過單一業者方案：它會在你所在之處重新連上訊號最強的網路。
+
+
+
+## 依旅程形態看印尼 eSIM：七座島，七種不同的網路
+
+
+
+### 巴里島覆蓋：南部海灘假期
+
+
+
+水明漾、倉古與庫塔位於這座島地圖最強的區域，Telkomsel 在這裡有最佳平均下載，XL 在一致性上與之抗衡。海灘俱樂部與別墅牆壁厚實，室內少一格是常態。買寬裕的額度：每 GB 0.28 美元，沒有理由節省，而雨季時天氣 App 是你手機上最重要的東西。
+
+
+
+### 烏布與北部丘陵：巴里島內陸覆蓋
+
+
+
+烏布本身在任何網路上都沒問題；麻煩從稻田別墅與火山邊的民宿開始，那裡 Telkomsel 是最可能撐住訊號的業者。如果你的工作依賴視訊通話，訂房時選明確宣傳光纖的住宿，而不是賭行動數據。
+
+
+
+### 雅加達與通勤帶：5G 與擁塞
+
+
+
+雅加達擁有全國最好的 5G，也有最糟的擁塞。Telkomsel 的 47 ms 延遲是 Sudirman 通話最該在意的數字，而 XL 因為基地台布點更密，在商場裡的室內訊號常常更強。別把視訊會議排在週一早上七點。
+
+
+
+### 日惹與寺廟巡禮覆蓋
+
+
+
+日出的婆羅浮屠與午後的普蘭巴南在所有網路上都有覆蓋，Telkomsel 的廣泛覆蓋讓其間的購票 App 與叫車保持靈敏。瓶頸是人而非基礎設施：日出時，寺廟平台上的人潮都在搶同一批基地台。
+
+
+
+### 龍目島與吉利群島覆蓋
+
+
+
+馬塔蘭與龍目島本島有覆蓋，開往吉利群島的接駁在船還看得見陸地時都有訊號。群島本身的訊號參差，往往取決於你訂了島的哪一側。把這段航程視為離線時間，登船前下載好需要的東西。
+
+
+
+### 科莫多、弗洛雷斯與納閩巴霍覆蓋
+
+
+
+納閩巴霍與弗洛雷斯主要城鎮有可用的 4G，而潛水船的路線多半沒有。如果你要潛科莫多，把上傳安排在傍晚；這座海洋公園本身就是標準印尼行程中最大片的真正斷網地帶之一。
+
+
+
+### 四王群島與巴布亞：印尼最偏遠的覆蓋
+
+
+
+本頁最偏遠的行程。索龍與 Waisai 有訊號，再往外，實際的網路就是你的民宿或船宿提供的那一點。若你要深入遠離城鎮的地方，帶上衛星通訊器，並把行動數據當成加分項而非安全網。
+
+
+
+## 印尼 SIM 註冊：文件、IMEI 與支付
+
+
+
+| 項目 | 為何重要 |
+
+|:---|:---|
+
+| 護照 | 預付註冊必備，櫃檯的生物辨識檢查也要 |
+
+| IMEI (`*#06#`) | 若你在外國手機上用本地 SIM，運營商通路註冊需要它 |
+
+| 入境章或 e-VOA | 櫃檯在依你的居留許可登記裝置時會要求 |
+
+| 盧比現金 | 攤販與許多櫃檯不收卡，小鈔加快流程 |
+
+| EID 或相容性檢查 | 確認手機能保存 eSIM profile |
+
+| 離線地圖 | 問題是島與島之間的島，不是城鎮 |
+
+
+
+有兩個摩擦值得預期。第一，**外國卡片**：本地運營商 App 與儲值入口經常拒收國際卡，可靠的做法是用便利商店的現金儲值券，或到官方門市當面付款，之後再用運營商 App。第二，**櫃檯與門市價差**：機場經銷商很方便，但同樣的額度可能開出官方價的數倍。如果抵達時間允許，在機場買最小的包，隔天再到市區的 GraPARI、Gerai IM3 或 XL Center 完成購買。
+
+
+
+## APN 設定
+
+
+
+這裡多數旅客從不碰 APN，而託管的 eSIM profile 到手時設定已載入完畢——去編輯它們正是弄壞一條可用線路的經典方法。當地購買的 SIM 卡通常自動設定，但當真的需要手動輸入時，這些是有文件依據的數值：
+
+
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+
+|:---|:---|:---|:---|
+
+| Telkomsel | `internet` | 留空 | 留空 |
+
+| XL Axiata | `internet` | 留空 | 留空 |
+
+| Indosat / IM3 | `indosatgprs` | 留空 | 留空 |
+
+
+
+輸入位置：**iPhone** → 設定 → 行動服務（Cellular）→ eSIM 線路 → 行動數據網路（Cellular Data Network）。**Android** → 設定 → 連接（Connections）→ 行動網路（Mobile Networks）→ 存取點名稱（APN）→ 新增 APN。儲存、選取新 profile、重新開機，並給手機兩三分鐘重新連線。如果設定不生效，去問賣你線路的店家，而不是照論壇的數值亂打——錯誤的 APN 字串會模仿真實故障，浪費一小時。
+
+
+
+## 手機相容性
+
+
+
+落地後沒有任何東西需要領取。profile 在結帳後以電子郵件送達；[印尼 eSIM 頁面](/indonesia-esim/)有方案與啟用步驟，我們的 [eSIM 設定指南](/faq/how-to-activate-an-esim/)處理 iOS 與 Android 的安裝。
+
+
+
+## 印尼 eSIM 出狀況時：四種本地失效模式
+
+
+
+一般的啟用錯誤——下不了載的 profile、掃描失敗、裝了卻永不註冊的 eSIM——都收錄在 [eSIM 錯誤疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)。以下四種模式是印尼專屬的。
+
+
+
+**A. 本地 SIM 有訊號格，一天後就停了。** 經典的 IMEI 案例。未註冊的外國手機在本地網路上有一段臨時寬限期，然後失去存取權。用你的護照與入境文件完成運營商通路的 IMEI 註冊，或把數據移到不受此規則約束的旅遊 eSIM。
+
+
+
+**B. 有訊號，但行動數據永遠連不上。** 幾乎都是 APN。確認發行線路的運營商對應的正確數值、儲存、重新開機，並給手機一分鐘重新連線。這是印尼預付卡上最常見的無聲失效。
+
+
+
+**C. 數據在登巴薩可用，在前往龍目島或弗洛雷斯的航程上就斷了。** 覆蓋問題，不是故障。打開網路選擇，逐一手動嘗試各運營商，然後接受海上航程就是離線時間，靠離線地圖。
+
+
+
+**D. 方案到期遠比預期早。** 有效期從第一次連上網路起算，而不是購買時間，且促銷方案有各自的期限。在運營商 App——MyTelkomsel、myXL 或 myIM3——查看剩餘額度與到期日，而不是假定網路壞了。
+
+
+
+### 印尼 eSIM 客服支援：先備齊什麼
+
+
+
+| 資訊 | 到哪裡找 |
+
+|:---|:---|
+
+| 訂單或帳戶號碼 | 確認信 |
+
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+
+| IMEI 與 EID | `*#06#` |
+
+| 錯誤畫面截圖 | 在畫面變化前先截 |
+
+| IMEI 註冊狀態 | 運營商櫃檯或海關入口網站 |
+
+| 已嘗試的步驟 | 留一份簡短清單 |
+
+
+
+## 跨境前往新加坡與馬來西亞：同一支手機，新的數據方案
+
+
+
+印尼的邊界都是短程跳轉與徹底的網路更換。**巴淡島與民丹島**距新加坡一程渡輪，**新山**是一段長堤跨過去、從蘇門答臘的城市則是短程航班，而馬來西亞婆羅洲的**古晉與亞庇**距加里曼丹近到可以排入同一份行程。在每一處，印尼本地方案都在邊界止步。
+
+
+
+兩個習慣就能涵蓋。出發前買好包含新加坡或馬來西亞的方案——東南亞區域 profile 抵達時自動切換網路，無需二次註冊——以及接近渡輪或邊防站時，關閉印尼線路的數據漫遊，免得背景同步以漫遊費率啟動計費連線。如果你跨境超過一次，區域方案比兩次本地加值便宜，還省去第二次護照註冊。
+
+
+
+## 印尼 eSIM 常見問題（12 題解答）
+
+
+
+### 印尼各家網路各自強在哪？
+
+
+
+Telkomsel，以最廣的全國覆蓋——其地理覆蓋得分 8.6 / 10，對上 Indosat 的 5.5 與 XL 的 4.8。這種廣度體現在科莫多、Gunung Leuser 與布羅莫，也體現在雅加達、巴里島、泗水與日惹。XL 在巴里島南部與萬隆以一致性而非覆蓋取勝。
+
+
+
+### 印尼 eSIM 設定，逐步說明
+
+
+
+Telkomsel 錄得全國最佳的 5G 遊戲體驗（得分 79.55），全部技術平均延遲 47 ms，玩 Mobile Legends、PUBG Mobile 等遊戲足夠。要盯的變數是大雅加達的尖峰時段擁塞，而不是網路本身。
+
+
+
+### 印尼 eSIM 啟用，逐步說明
+
+
+
+可以，而且應該。profile 在自家 Wi-Fi 上從 QR code 安裝，保持休眠直到第一次連上印尼網路，所以你還在國外時有效期時鐘不會啟動。先確認裝置未上鎖且支援 eSIM。
+
+
+
+### 我的印尼 eSIM 有效期何時起算？
+
+
+
+從第一次連上印尼的本地網路起算，不是購買時間。有些方案允許自選起始日。為你抵達的那一天購買，而不是下單那天，並查清條款，免得方案在你的信箱裡就過期了。
+
+
+
+### 可以匿名買印尼 SIM 嗎？
+
+
+
+如果手機是國外購入的，可以——指使用本地網路而言。停留最長 90 天的訪客可在購買 SIM 時透過行動運營商安排，這正是機場櫃檯與 GraPARI 門市拿你的護照與入境文件做的事。花幾分鐘，不收費。超過 90 天則適用海關程序，申報手機價值有免稅額。
+
+
+
+### 印尼的 SIM 註冊也涵蓋裝置 IMEI 嗎？
+
+
+
+不涵蓋，而這正是讓人斷網的錯誤。兩種註冊互相獨立：未註冊手機上登記正確的預付線路仍會被斷網。如果你打算依賴本地 SIM，就在同一次跑門市時兩件事一起辦。
+
+
+
+### 買印尼 SIM 用哪些證件？
+
+
+
+依 2026 年第 7 號 Permenkomdigi 法規，每家運營商三個門號，該法規也自 2026 年 7 月 1 日起為新用戶引入生物辨識臉部識別檢查。除此之外，Telkomsel 對遊客產品設每本護照三張 SIM 卡與三個 eSIM 的上限。
+
+
+
+### 印尼的 5G 概況
+
+
+
+還不到時候。Telkomsel 以**3.5%** 的用戶大部分時間在 5G 上領先。4G LTE 仍是你實際會用的網路，尤其在雅加達與巴里島南部之外，而良好的 4G 連線對地圖、通話、串流與熱點工作綽綽有餘。
+
+
+
+### 為什麼機場比市區門市貴這麼多？
+
+
+
+因為機場櫃檯是經銷商。同一個標價 Rp 150,000 的 Telkomsel 25 GB 全國方案，2026 年在登巴薩機場櫃檯被錄得 Rp 400,000。如果必須立刻上線就在機場買最小量，然後到市區的官方 GraPARI、Gerai IM3 或 XL Center 完成購買。
+
+
+
+### 印尼 eSIM 並用時，我的本國門號還能正常運作嗎？
+
+
+
+能——WhatsApp 是全印尼司機、民宿與旅行社的預設通訊工具。把本國 SIM 留在手機裡接來電與驗證碼，數據跑 eSIM，並關閉本國線路的數據漫遊，免得背景流量觸發國際費用。
+
+
+
+### 用 Gojek 或 Grab 需要本地門號嗎？
+
+
+
+有幫助。叫車、外送與部分支付 App 圍繞 +62 門號建立，司機常常直接打電話而不是傳訊。純數據的旅遊 eSIM 跑得動這些 App，但如果你打算靠 Gojek 過一個月，本地註冊的卡是更順的配置。
+
+
+
+### 印尼 eSIM 連不上時從哪裡下手？
+
+
+
+依序處理上方四種模式——IMEI 狀態、APN、網路選擇，然後是方案有效期——如果仍然失敗，[疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)裡更廣的錯誤目錄會接手其餘部分。聯絡客服前先把 IMEI、訂單號碼與截圖備妥。
+
+
+
+[查看完整 FAQ](/faq/)
+
+
+
+## eSIM 迷思，破解
+
+
+
+### 印尼的註冊流程
+
+
+
+**✅ 事實：** 你需要註冊 IMEI，但不一定在機場：運營商通路的途徑在你入境後的前 90 天內於任何官方 GraPARI 或 XL Center 都可辦理，而且免費。用數據 eSIM 搭配漫遊中的本國 SIM 的旅客則完全跳過。
+
+
+
+### ❌ 迷思：上鎖的手機用印尼 eSIM 也沒問題。
+
+
+
+**✅ 事實：** 不行。電信鎖會拒絕第三方 eSIM profile，無論硬體支援什麼，所以買任何東西之前，必須先向原電信解除鎖定。
+
+
+
+### ❌ 迷思：所有印尼 eSIM 都用同一張網路、同一種速度。
+
+
+
+**✅ 事實：** 供應商合作的運營商不同。Telkomsel 在速度與廣度上領先，XL 在一致性與影片上領先，Indosat 在爪哇城市的價格上領先。在這麼大的國家，你落在哪張網路比結帳頁上的品牌更重要。
+
+
+
+## 我們印尼 eSIM 覆蓋內容背後的研究與來源
+
+
+
+- **Ookla 印尼連線報告 2H 2024** — [市場報告](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024)供應這裡引用的每一個業者層級數字：Telkomsel 的速度得分、XL 的 88.67 影片得分與 87.2% 一致性，以及 Indosat 的 26.7 Mbps 中位數。
+
+- **Ookla Speedtest 全球指數** — [印尼頁面](https://www.speedtest.net/global-index/indonesia)載有全國下載中位數、延遲與世界排名，每月重新發布。
+
+- **Cable.co.uk** — [其 237 市場價格調查](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)載有此處引用的當地每 GB 價格。
+
+- **DataReportal / GSMA Intelligence** — [印尼的 Digital 2025 頭條數據](https://datareportal.com/reports/digital-2025-indonesia)是網路使用者規模與行動連線總數的依據。
+
+- **Komdigi 與印尼海關** — 用戶註冊改革見 [Permenkomdigi No. 7 of 2026](https://jdih.komdigi.go.id/)，進口手機的 IMEI 途徑見 [Bea Cukai 的指引](https://www.beacukai.go.id/)。
+
+- **電信與市場頁面** — 遊客方案價格與機場對市區的價差取自 [LokalFinds 的巴里島 SIM 調查](https://lokalfinds.com/blog/bali-sim-card-2026)與 [Roafly 的印尼遊客 SIM 指南](http://www.roafly.com/blog/indonesia-tourist-sim-card-prices)，均於 2026 年 9 月查閱。當印尼覆蓋宣稱受到質疑時，我們的客服團隊用的正是這幾份參考。
+
+
+
+此處引用的所有基準數據都由上述第三方發布。把它們當作方向性指引，而非保證。
+
+
+
+## 讓你的 eSIM 運作起來
+
+
+
+在家用 Wi-Fi 載入 profile，一落地它就會重新連上雅加達、巴里島乃至更遠處訊號最強的本地網路。從[免費印尼試用](/free-esim/)開始，或用折扣碼 **WEB20** 替[印尼 eSIM 方案](/indonesia-esim/)省 20%。
+
+
+
+[立即購買你的印尼 eSIM](/indonesia-esim/)
+
+
+
+*適用於首個 Roami 方案*
+
+
+
+[開始你的印尼免費試用](/free-esim/)
+

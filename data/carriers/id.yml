@@ -124,12 +124,6 @@ denmark:
   btn_text: "Operator Denmark"
   btn_url: "/carriers/denmark-esim-carrier-guide/"
 
-dominican:
-  title: "Panduan Operator eSIM Dominika"
-  desc_html: "Operator di Dominika: Claro, Altice, Viva. Tabel perbandingan fitur eSIM."
-  btn_text: "Operator Dominika"
-  btn_url: "/carriers/dominican-esim-carrier-guide/"
-
 dominican-republic:
   title: "Panduan Operator eSIM Republik Dominika"
   desc_html: "Operator utama di Republik Dominika: Claro, Altice, Viva. Cakupan eSIM dan dukungan hotspot sekilas."

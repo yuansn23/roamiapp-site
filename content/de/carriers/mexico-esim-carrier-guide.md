@@ -1,10 +1,9 @@
 ---
-title: "5G Abdeckung in Mexiko: ein kompletter eSIM Reiseführer."
-description: "Die Wahl zwischen Telcel, Movistar und Telcel für Mexiko? Roami zeigt echte 5G Geschwindigkeiten und die besten Tarife für Ihren Aufenthalt in Mexiko."
-date: "2026-06-17T06:04:19+00:00"
-
-keywords: eSIM Mexiko, Prepaid Daten, 5G Netz, Telcel, Totalplay, Roami eSIM, mobiles
-  Internet Mexiko
+title: "Mexiko eSIM mit Telcel, AT&T und Movistar vergleichen"
+description: "Mexiko eSIM von Telcel, AT&T und Movistar nach Abdeckung, Speed und Prepaid-Regeln – mit APN-Werten und der Aktivierung Schritt für Schritt."
+image: "img/esim/carriers/mexico-esim-carrier-guide.jpg"
+date: "2026-09-25T23:54:57+00:00"
+keywords: Mexiko eSIM-Netzbetreiber, Telcel eSIM, AT&T Mexiko eSIM, Movistar eSIM, Mexiko 5G Netzabdeckung, Mexiko eSIM APN, eSIM Mexiko Prepaid, bester eSIM-Netzbetreiber Mexiko, Mexiko Reise eSIM, Telcel Marktanteil
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -12,346 +11,369 @@ breadcrumb_items:
   url: /
 - name: Mexiko eSIM-Guide
   url: ''
-hero_badge: 🇲🇽 Mexiko Reise-eSIM Aktueller Guide
-hero_subtitle_main: 'Mexiko eSIM: Kaufen und sofort verbinden'
-hero_subtitle_highlight: Premium 5G-Netzabdeckung durch Telcel und Movistar
-hero_description_line1: Die Mexiko eSIM unterstützt reibungsloses HD-Video-Streaming
-  sowie die Nutzung sozialer Medien und deckt Flughäfen, Einkaufsviertel und beliebte
-  malerische Gebiete als äußerst kostengünstige Datenoption ab.
-hero_description_line2: Verbinden Sie sich in Sekundenschnelle und genießen Sie unbegrenztes
-  Surfen.
-hero_link_text: Mexiko eSIM
-hero_link_url: /mexico-esim/
-tldr_summary: 'Eine eSIM für die ganze Welt: Keine Verbindungsabbrüche beim Arbeiten
-  im Ausland. Mit Roami und der Mexiko eSIM surfen Sie im schnellsten 5G-Netz des
-  Landes – Telcel erreicht laut aktuellen Tests eine mediane Downloadgeschwindigkeit
-  von 80,6 Mbps und 212,68 Mbps im 5G-Netz. Ob in Mexiko-Stadt, Monterrey oder Zapopan:
-  Genießen Sie stabile Verbindungen für Videokonferenzen und Streaming, ohne Roaming-Gebühren.
-  Ideal für digitale Nomaden und Geschäftsreisende.'
-sidebar_more_hint: Wischen, um mehr zu sehen
-sidebar_title: Mexiko eSIM Schnelle Links
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Kurzauswahl: Welchen Mexiko eSIM-Anbieter sollten Sie wählen?'
-- href: '#operators'
-  text: Top Mexiko eSIM-Mobilfunkanbieter im Test
-- href: '#city-guide'
-  text: 'Städte-Guide: Die beste eSIM für Mexiko'
-- href: '#before-buy'
-  text: Dinge, die Sie vor dem Kauf einer Mexiko eSIM wissen müssen
-- href: '#faq'
-  text: Häufig gestellte Fragen zur Mexiko eSIM
-- href: '#myths'
-  text: Mythen und Fakten über die Mexiko eSIM
-- href: '#data-sources'
-  text: Datenquellen
-quick_picks_title: 'Kurzauswahl: Welchen Mexiko eSIM-Anbieter sollten Sie wählen?'
-quick_picks_table_headers:
-- Ihr Reisestil
-- Empfohlener Anbieter
-- Netzwerkdatenleistung
-quick_picks_note_prefix: 'Datenquelle: '
-quick_picks_note_carrier: '[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Digitale Nomaden
-  carrier: Telcel
-  carrier_class: text-red-600
-  reason: Telcel bietet die beste 5G-Abdeckung und höchste Downloadraten (mediane
-    80,6 Mbps). Ideal für datenintensive Arbeiten wie Videokonferenzen und große Uploads.
-- travel: Städtereisende
-  carrier: Movistar
-  carrier_class: text-blue-600
-  reason: Gute Abdeckung in Ballungszentren wie Mexiko-Stadt und Guadalajara. Günstigere
-    Tarife bei solider Leistung (mediane 32,8 Mbps).
-- travel: Abenteuerurlauber
-  carrier: Telcel
-  carrier_class: text-red-600
-  reason: Telcel hat die konsistenteste Netzabdeckung (90,5% der Proben über 5 Mbps
-    Download). Verlässlich auch in ländlichen Regionen und Nationalparks.
-- travel: Kurzzeitbesucher
-  carrier: Roami eSIM (Telcel-Netz)
-  carrier_class: text-green-600
-  reason: Sofortige Aktivierung, keine Vertragsbindung. Nutzt das Telcel-Netz für
-    maximale Geschwindigkeit und Zuverlässigkeit.
-cta_button_main_text: Die kostengünstigste Mexiko Reise-eSIM ansehen
-cta_button_sub_text: Automatischer Netzwerkwechsel, unterstützt automatischen Prepaid-Daten-Preisvergleich
-operator_labels:
-  best_for: 'Am besten für:'
-  core_data: 'Kerndaten:'
-  connect_note_label: 'eSIM-Verbindungshinweis:'
-operators:
-- id: telcel-esim
-  title: 'Telcel eSIM Test: Beste 5G-Geschwindigkeit und Abdeckung'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für alle, die maximale Downloadraten
-    und eine stabile 5G-Verbindung benötigen. Telcel ist der unangefochtene Marktführer
-    in Mexiko.
-  core_data: '- **5G-Verfügbarkeit**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)
-    beträgt die mediane 5G-Downloadgeschwindigkeit 212,68 Mbps, die 5G-Uploadgeschwindigkeit
-    25,83 Mbps und die 5G-Latenz 54 ms.
-
-    - **Downloadrate**: Mediane Downloadgeschwindigkeit über alle Technologien: 80,6
-    Mbps. Mediane Uploadgeschwindigkeit: 13,16 Mbps. Latenz: 64 ms.
-
-    - **Netzkonsistenz**: 90,5% der Proben erreichen mindestens 5 Mbps Download und
-    1 Mbps Upload. Im 5G-Netz: 89,4% der Proben erreichen mindestens 25 Mbps Download
-    und 3 Mbps Upload.
-
-    - **Beste 5G-Erfahrung**: Telcel erzielt die besten Werte für 5G-Gaming (Score
-    82,69) und 5G-Video-Streaming (Score 82,69).'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde IFT (Instituto
-    Federal de Telecomunicaciones) sowie durch unabhängige Tests von Ookla und OpenSignal.
-    Telcel führt in fast allen Leistungskennzahlen.
-  connect_note: Die Aktivierung verläuft nahtlos über Roami eSIM. Nach Zahlung erhalten
-    Sie sofort einen QR-Code. Scannen Sie diesen in den Einstellungen Ihres Smartphones
-    – schon sind Sie mit dem Telcel-Netz verbunden.
-  user_scenarios: '- **Flughafen Mexiko-Stadt (MEX)**: Nach der Landung sofort verbinden.
-    Mit 80,6 Mbps medianem Download können Sie problemlos HD-Videos streamen oder
-    große Arbeitsdateien herunterladen.
-
-    - **Zócalo, Mexiko-Stadt**: Trotz hoher Nutzerdichte bleibt die Verbindung stabil.
-    Perfekt für Live-Streams von historischen Plätzen.
-
-    - **Monterrey**: In der schnellsten Fixed-Broadband-Stadt (108,79 Mbps) profitieren
-    Sie auch mobil von Spitzengeschwindigkeiten.'
-  bg_color: bg-red-50
-- id: movistar-esim
-  title: 'Movistar eSIM Test: Günstige Alternative mit guter Stadtabdeckung'
-  best_for: Movistar ist eine preiswerte Alternative für Reisende, die hauptsächlich
-    in Städten unterwegs sind und keine extremen Spitzengeschwindigkeiten benötigen.
-  core_data: '- **5G-Verfügbarkeit**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)
-    beträgt die mediane 5G-Downloadgeschwindigkeit 51,03 Mbps.
-
-    - **Downloadrate**: Mediane Downloadgeschwindigkeit über alle Technologien: 32,8
-    Mbps.
-
-    - **Netzkonsistenz**: Gute Abdeckung in urbanen Zentren, aber schwächer in ländlichen
-    Gebieten im Vergleich zu Telcel.
-
-    - **Beste 5G-Erfahrung**: Movistar liegt in den 5G-Erfahrungswerten hinter Telcel,
-    bietet aber ein solides Preis-Leistungs-Verhältnis.'
-  arcep_note: Movistar ist einer der drei großen Mobilfunkanbieter in Mexiko und wird
-    von der IFT reguliert. Die Netzqualität wird regelmäßig in OpenSignal-Berichten
-    bewertet.
-  connect_note: Die Roami eSIM mit Movistar-Netz wird ebenfalls per QR-Code aktiviert.
-    Ideal für Kurzaufenthalte oder als Zweit-eSIM für geringes Datenvolumen.
-  user_scenarios: '- **Guadalajara**: In der zweitgrößten Stadt Mexikos surfen Sie
-    mit Movistar zuverlässig. Nutzen Sie die eSIM für Navigation und soziale Medien.
-
-    - **Cancún**: In Touristenhochburgen ist die Abdeckung gut. Perfekt für Strand-Selfies
-    und Videoanrufe.
-
-    - **Puebla**: Historische Stadt mit guter Netzabdeckung. Movistar eignet sich
-    für gelegentliches Surfen und Messaging.'
-  bg_color: bg-blue-50
-cards_compatibility_title: Prüfen Sie die Mexiko eSIM Kompatibilitätsliste
-cards_compatibility_desc: Prüfen Sie, ob Ihr Telefon Mexiko eSIM und lokale 5G-Bänder
-  unterstützt
-cards_free_title: Holen Sie sich Ihre kostenlose Mexiko eSIM
-cards_free_desc: Begrenzte kostenlose Test-eSIM, erleben Sie das lokale 5G-Highspeed-Netzwerk
-  ohne Roaming-Kosten
-cards_free_badge: KOSTENLOS
-cards_app_title: Roami App herunterladen & 20% Rabatt auf eSIM erhalten
-cards_app_desc: 'Rabattcode: <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | One-Tap-eSIM-Verwaltung'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Dinge, die Sie vor dem Kauf einer Mexiko eSIM wissen müssen
-before_buy_sections:
-- heading: '1. 5G/4G-Frequenzbänder: Kompatibilität Ihres Smartphones prüfen'
-  content: Mexiko nutzt für 5G hauptsächlich die Bänder n41 (2500 MHz), n78 (3500
-    MHz) und n260 (mmWave, nur in ausgewählten Gebieten). Für 4G/LTE sind die Bänder
-    2 (1900 MHz), 4 (1700/2100 MHz AWS), 7 (2600 MHz) und 17 (700 MHz) relevant. Die
-    meisten modernen Smartphones (iPhone 12/13/14/15/16, Samsung Galaxy S21/S22/S23/S24,
-    Google Pixel 6/7/8/9) unterstützen diese Bänder. Ältere Geräte oder China-Modelle
-    können Einschränkungen haben. Prüfen Sie vor Reiseantritt die technischen Daten
-    Ihres Geräts.
-- heading: '2. KYC (Know Your Customer): Registrierungspflicht für Prepaid-Karten'
-  content: In Mexiko müssen alle Prepaid-SIM-Karten (auch eSIMs) registriert werden.
-    Bei Roami eSIM erfolgt die Identitätsprüfung digital beim Kauf. Sie müssen in
-    der Regel ein gültiges Ausweisdokument (Reisepass) hochladen. Ohne abgeschlossene
-    Registrierung wird der Dienst nach wenigen Tagen deaktiviert. Achten Sie darauf,
-    dass Ihr Ausweis während des gesamten Aufenthalts gültig ist.
-- heading: 3. Fair-Use-Policy (FUP) und Drosselung
-  content: Die meisten mexikanischen Anbieter, einschließlich Telcel und Movistar,
-    haben eine Fair-Use-Policy. Nach Überschreiten eines bestimmten Datenvolumens
-    (z. B. 2 GB pro Tag) wird die Geschwindigkeit gedrosselt. Roami eSIM bietet transparente
-    Tarife ohne versteckte Drosselung. Prüfen Sie vor dem Kauf die genauen Konditionen
-    Ihres Tarifs.
-- heading: '4. Netzabdeckung: Stadt vs. Land'
-  content: Telcel hat die beste Abdeckung in ländlichen Gebieten und Nationalparks
-    (z. B. Copper Canyon, Chiapas). Movistar und AT&T (früher Nextel) konzentrieren
-    sich auf Ballungszentren. Wenn Sie abgelegene Regionen bereisen, wählen Sie einen
-    Tarif im Telcel-Netz. In Städten wie Mexiko-Stadt, Monterrey oder Guadalajara
-    sind alle Anbieter gut aufgestellt.
-- heading: 5. Roaming und Auslandsnutzung
-  content: Eine mexikanische eSIM ist nur für die Nutzung in Mexiko vorgesehen. Roaming
-    in andere Länder ist in der Regel nicht inbegriffen. Wenn Sie auch in den USA
-    oder Mittelamerika surfen möchten, benötigen Sie eine separate eSIM oder einen
-    Tarif mit Nordamerika-Roaming. Roami eSIM bietet spezielle regionale Tarife für
-    Nordamerika an.
-city_guide_title: 'Städte-Guide: Die beste eSIM für Mexiko'
-city_guide_desc: Finden Sie heraus, welche Mexiko eSIM für Ihre Zielstadt die beste
-  Wahl ist. Basierend auf aktuellen Speedtest-Daten und lokaler Netzabdeckung.
-city_table_headers:
-- Stadt
-- Empfohlener eSIM-Anbieter
-- Grund / Eigenschaften
-city_recommendations:
-- city: Mexiko-Stadt (Ciudad de México)
-  carriers: Telcel
-  reason: Als Hauptstadt mit der höchsten Bevölkerungsdichte bietet Telcel die stabilste
-    und schnellste Verbindung. Mediane mobile Downloadgeschwindigkeit von 57,78 Mbps
-    (nationaler Durchschnitt). Ideal für Geschäftsreisende und Touristen, die in der
-    Innenstadt, im Polanco-Viertel oder am Flughafen MEX unterwegs sind.
-- city: Monterrey
-  carriers: Telcel
-  reason: Monterrey ist die Stadt mit der schnellsten festen Internetgeschwindigkeit
-    (108,79 Mbps) und profitiert auch mobil von Telcels Spitzenwerten. Perfekt für
-    digitale Nomaden und Technologie-Enthusiasten, die auf zuverlässiges 5G angewiesen
-    sind.
-- city: Zapopan (bei Guadalajara)
-  carriers: Telcel
-  reason: 'Zapopan hat die schnellste mediane mobile Downloadgeschwindigkeit aller
-    mexikanischen Städte: 52,9 Mbps. Telcel bietet hier die beste 5G-Abdeckung. Empfohlen
-    für Reisende, die das Technologiezentrum Guadalajara besuchen.'
-- city: Cancún
-  carriers: Movistar
-  reason: In der Touristenhochburg Cancún ist die Netzabdeckung aller Anbieter gut.
-    Movistar bietet hier günstigere Tarife bei ausreichender Geschwindigkeit für Strandaktivitäten,
-    Social Media und Navigation. Telcel ist ebenfalls eine gute Wahl, aber oft teurer.
-- city: Oaxaca-Stadt
-  carriers: Telcel
-  reason: Oaxaca ist kulturell reich, aber die Netzabdeckung kann in den umliegenden
-    Dörfern und Bergregionen schwanken. Telcel hat die konsistenteste Abdeckung (90,5%
-    Konsistenz) und ist daher die sicherste Wahl für Reisende, die auch abgelegene
-    Märkte und Ruinen besuchen.
-city_guide_tip: '💡 Tipp: Wenn Sie die Multi-Netzwerk-eSIM von Roami nutzen, wechselt
-  Ihr Telefon automatisch zum besten lokalen Anbieter – keine manuelle Auswahl erforderlich.'
-scene_guide_title: 🎯 Wählen Sie die beste Mexiko eSIM basierend auf Ihrem Reiseszenario
-scene_items:
-- icon: 🏛️
-  title: Stadtentdecker
-  text: 'Erkunden Sie Mexiko-Stadt, Guadalajara oder Monterrey. Mit Telcels 5G-Netz
-    streamen Sie Museen-Führungen in HD, nutzen Augmented-Reality-Apps für historische
-    Stätten und bleiben in Kontakt. Empfohlene eSIM: Telcel (Roami).'
-- icon: 🏞️
-  title: Naturliebhaber
-  text: 'Wandern Sie im Copper Canyon oder besuchen Sie die Wasserfälle von Agua Azul.
-    Telcel bietet die beste Abdeckung in Nationalparks. Nutzen Sie Offline-Karten
-    und teilen Sie Ihre Erlebnisse in Echtzeit. Empfohlene eSIM: Telcel (Roami).'
-- icon: 🚗
-  title: Roadtripper
-  text: 'Reisen Sie mit dem Auto von Cancún nach Tulum oder durch die Baja California.
-    Verlassen Sie sich auf Telcels konsistentes Netz für Navigation und Notfallkommunikation.
-    Die eSIM von Roami aktiviert sich automatisch beim Grenzübertritt. Empfohlene
-    eSIM: Telcel (Roami).'
-- icon: 🏖️
-  title: Strandurlauber
-  text: 'Entspannen Sie in Cancún, Playa del Carmen oder Puerto Vallarta. Movistar
-    bietet hier gute Geschwindigkeiten zu günstigeren Preisen. Perfekt für Instagram-Stories,
-    Videoanrufe und Streaming am Pool. Empfohlene eSIM: Movistar (Roami).'
-scene_guide_footer: 💡 Die Roami Mexiko eSIM Multi-Netzwerk-Edition erkennt Ihr Szenario
-  automatisch und wechselt in das beste Netzwerk – keine manuelle Einrichtung erforderlich.
-faq_title: Häufig gestellte Fragen zur Mexiko eSIM
-faq_prefix: F
-faq_suffix: ': '
-faq_more_link_text: Weitere Fragen? Komplette FAQ ansehen →
-faq_more_link_url: /faq/
-faq:
-- q: Wie lange dauert es nach der erfolgreichen Zahlung, bis ich den QR-Code für die
-    Mexiko eSIM erhalte?
-  a: Nach erfolgreicher Zahlung erhalten Sie den QR-Code in der Regel innerhalb von
-    1–5 Minuten per E-Mail. In seltenen Fällen kann es bis zu 30 Minuten dauern. Sollten
-    Sie nach 30 Minuten keine E-Mail erhalten haben, überprüfen Sie Ihren Spam-Ordner
-    und kontaktieren Sie den Kundenservice. Der QR-Code ist ab Ausstellung 30 Tage
-    gültig.
-- q: In welchen Sprachen ist der Kundenservice für die Mexiko eSIM verfügbar und wie
-    lange ist die Reaktionszeit?
-  a: Der Kundenservice von Roami ist in Deutsch, Englisch und Spanisch verfügbar.
-    Die Reaktionszeit beträgt in der Regel weniger als 2 Stunden bei E-Mail-Anfragen
-    und unter 30 Minuten im Live-Chat (sofern verfügbar). Bei dringenden Problemen
-    (z. B. Aktivierungsfehler) wird eine sofortige Bearbeitung garantiert.
-- q: Gibt es einen bestimmten Grenzwert für den Datenverbrauch (z. B. nach 2 GB pro
-    Tag), ab dem die Geschwindigkeit der Mexiko eSIM reduziert wird?
-  a: Ja, viele mexikanische Anbieter haben eine Fair-Use-Policy (FUP). Bei Roami eSIM
-    hängt die Drosselung vom gewählten Tarif ab. Standardtarife drosseln nach 2 GB
-    pro Tag auf 128 kbps. Premium-Tarife bieten oft ungedrosseltes Datenvolumen. Prüfen
-    Sie vor dem Kauf die genauen Konditionen auf der Produktseite.
-- q: Welche Schritte muss ich unternehmen, wenn der Aktivierungs-QR-Code für meine
-    Mexiko eSIM nicht per E-Mail ankommt?
-  a: 1. Überprüfen Sie Ihren Spam- und Werbeordner. 2. Stellen Sie sicher, dass Sie
-    die richtige E-Mail-Adresse bei der Bestellung angegeben haben. 3. Kontaktieren
-    Sie den Roami-Kundenservice per Live-Chat oder E-Mail mit Ihrer Bestellnummer.
-    4. Als Notlösung kann der QR-Code in Ihrem Roami-Kundenkonto unter 'Meine Bestellungen'
-    heruntergeladen werden.
-- q: Kann ich in Mexiko manuell einen anderen lokalen Netzbetreiber auswählen, wenn
-    das aktuelle Signal schwach ist?
-  a: Ja, das ist möglich. Gehen Sie in die Einstellungen Ihres Smartphones unter 'Mobiles
-    Netz' > 'Netzbetreiber' und deaktivieren Sie die automatische Auswahl. Wählen
-    Sie manuell einen verfügbaren Anbieter (z. B. Telcel, Movistar oder AT&T). Beachten
-    Sie, dass Roami eSIM standardmäßig auf das beste Netz eingestellt ist. Ein manueller
-    Wechsel kann zu Verbindungsproblemen führen, wenn Ihr Tarif nur ein bestimmtes
-    Netz unterstützt.
-myths_title: ⚠️ Häufige Mythen und Fakten über die Mexiko eSIM
-myth_label: '❌ Mythos: '
-truth_label: '✅ Fakt: '
-myths:
-- myth: 'Mythos: In Mexiko gibt es nur ein einziges Mobilfunknetz.'
-  truth: 'Fakt: Mexiko hat drei große Netzbetreiber: Telcel (Marktführer), Movistar
-    und AT&T (früher Nextel). Telcel hat die beste Abdeckung und Geschwindigkeit,
-    aber Movistar und AT&T sind in Städten gute Alternativen.'
-- myth: 'Mythos: 5G ist in ganz Mexiko verfügbar.'
-  truth: 'Fakt: 5G ist hauptsächlich in Großstädten wie Mexiko-Stadt, Monterrey, Guadalajara
-    und Zapopan verfügbar. In ländlichen Gebieten dominiert 4G/LTE. Telcel hat den
-    größten 5G-Ausbau, aber die Abdeckung ist noch nicht flächendeckend.'
-- myth: 'Mythos: Eine lokale SIM-Karte ist immer günstiger als eine eSIM.'
-  truth: 'Fakt: Lokale SIM-Karten können günstiger sein, aber eSIMs bieten Vorteile
-    wie sofortige Aktivierung, keine physische Karte und die Möglichkeit, mehrere
-    Tarife zu speichern. Roami eSIM bietet wettbewerbsfähige Preise und erspart Ihnen
-    den Gang zu einem lokalen Shop.'
-- myth: 'Mythos: Die Internetgeschwindigkeit in Mexiko ist generell langsam.'
-  truth: 'Fakt: Laut aktuellen Tests erreicht Telcel eine mediane Downloadgeschwindigkeit
-    von 80,6 Mbps und 212,68 Mbps im 5G-Netz. Das ist schneller als in vielen europäischen
-    Ländern. In Spitzenzeiten kann die Geschwindigkeit in Touristengebieten jedoch
-    schwanken.'
-- myth: 'Mythos: eSIMs funktionieren nicht mit allen Smartphones.'
-  truth: 'Fakt: Die meisten modernen Smartphones (iPhone XS und neuer, Samsung Galaxy
-    S20 und neuer, Google Pixel 3 und neuer) unterstützen eSIMs. Ältere Modelle oder
-    China-Varianten können Einschränkungen haben. Prüfen Sie die <a href="/compatibility/"
-    class="font-bold text-blue-600">eSIM-Kompatibilität</a> auf der Roami-Website.'
-data_sources_title: Datenquellen Mexiko Mobilfunknetze
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)'
-  description: Ookla Speedtest Intelligence® Daten für das 2. Halbjahr 2025. Enthält
-    mediane Download-/Upload-Geschwindigkeiten, Latenz, 5G-Leistung und Netzkonsistenz
-    für Mexiko. Telcel wird als schnellster und konsistentester Anbieter ausgewiesen.
-- name: OpenSignal 2025
-  description: OpenSignal-Bericht zur Mobilfunk-Erfahrung in Mexiko. Bestätigt Telcels
-    Führungsposition in den Kategorien 'Best Mobile Network', 'Best 5G Network' und
-    'Best Gaming Experience'.
-- name: IFT (Instituto Federal de Telecomunicaciones) 2025
-  description: Die mexikanische Regulierungsbehörde für Telekommunikation. Veröffentlicht
-    regelmäßig Berichte zur Netzabdeckung, Frequenznutzung und Qualität der Dienste.
-    Bestätigt die Marktführerschaft von Telcel.
-data_sources_footer: Alle oben zitierten Netzleistungsdaten stammen aus öffentlich
-  zugänglichen Berichten Dritter (Ookla, OpenSignal, IFT) und können je nach Standort,
-  Tageszeit und Gerät variieren. Roami eSIM übernimmt keine Garantie für die tatsächliche
-  Geschwindigkeit vor Ort.
-data_sources_note: Netzwerkgeschwindigkeiten und Abdeckung können variieren. Die angegebenen
-  Werte sind Mediane aus umfangreichen Tests und repräsentieren die typische Nutzererfahrung.
-cta_title: Sichern Sie sich Ihre Mexiko eSIM noch heute
-cta_desc: Erhalten Sie sofortigen Zugang zum schnellsten 5G-Netz Mexikos. Keine versteckten
-  Kosten, keine Vertragsbindung. Ideal für Geschäftsreisen, Urlaub oder digitales
-  Nomadentum.
-cta_button_text: Jetzt Mexiko eSIM kaufen
-cta_button_link: /mexico-esim/
-cta_free_trial_note: Exklusiv für Neukunden
-cta_free_trial_text: Kostenlose Mexiko Test-eSIM
-cta_free_trial_link: /free-esim/
+hero_badge: "Mexiko eSIM-Netzbetreiber: das ehrliche Ranking"
+hero_subtitle_main: "Der Netzbetreiber-Vergleich 2026, basierend auf unabhängigen Geschwindigkeitsdaten"
 ---
+
+
+Die drei nationalen Netze in Mexiko fallen spürbar auseinander, sobald man die Städte verlässt. In Ooklas Mexiko-Bericht 2H 2025 wurde **Telcel** sowohl als Bestes Mobilfunknetz insgesamt als auch als Bestes 5G-Netz ausgezeichnet, mit einem Consistency Score von **90,5 %** und einem Speed Score von **64,11**. **AT&T Mexiko** und **Movistar** liegen in jeder gemessenen Kennzahl zurück, und ein vierter Name in den Daten, **ALTAN Redes**, ist das Großhandelsnetz, das kleinere Marken mitnutzen, und keine Leitung, die Sie selbst kaufen. Was die Wahl Ihrer Mexiko-eSIM entscheidet, ist die Route, nicht die Marke. Wenn Mexikos Netzbetreiber in ihrer Werbung übertreiben, benennen wir das — siehe den Abschnitt zur Registrierung für das Kleingedruckte, das zählt.
+
+**Schnelle Antwort:** Telcel gewinnt das Argument zur Netzabdeckung in Mexiko, Movistar gewinnt beim günstigen Datentarif — die Tabellen unten klären die Details. Sie können die Netze auch vor dem Bezahlen mit Roamis [kostenlosem Netztest](/free-esim/) ausprobieren.
+
+Wenn die Grundlagen noch offene Fragen sind — unterstützt mein Telefon eSIM, und was passiert eigentlich bei der Aktivierung — beantworten die [Kompatibilitätsliste](/compatibility/) und [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/) beides. Was folgt, ist eine Geldfrage, keine Technikfrage: welcher Netzbetreiber sich Ihr Geld verdient.
+
+**Das Urteil vorab:** Bleiben Sie in Mexiko-Stadt, Cancún oder Los Cabos? Telcel ist das stärkste und konsistenteste Netz im Land und hält das Signal in ländlichen Abschnitten, in denen AT&T und Movistar schwächer werden. Sie möchten eine Prepaid-eSIM ohne Ladenbesuch? AT&T Mexiko verkauft eine über die AT&T Go App, und Movistar stellt eine per QR-Code aus, nachdem Sie Ihren Reisepass verknüpft haben. Fahren Sie in die Vereinigten Staaten oder leben Sie nahe der Grenze? AT&Ts Nordamerika-Roaming ist herausragend. Oder überspringen Sie den Papierkram ganz: [kostenlose Test-eSIM](/free-esim/) testet die Netze ohne Kosten, und **WEB20** schenkt Ihnen 20 % auf [Mexiko-eSIM-Tarife](/mexico-esim/).
+
+## Die Netzbetreiber hinter Ihrer eSIM
+
+Dieser erste Abschnitt zeigt die Netzbetreiber, bei denen Sie als Besucher tatsächlich eine Prepaid-eSIM kaufen können, und stellt die Direkt-gegen-Reise-Entscheidung für Ihre Mexiko-eSIM in einer Ansicht dar. Mexiko bringt eine Besonderheit mit, die Kanada und Japan nicht haben: jede Prepaid-Leitung, einschließlich eSIM, muss vor der Nutzung mit einem offiziellen Ausweis verknüpft werden.
+
+### Der Direktvergleich der drei Netzbetreiber
+
+| | Telcel | AT&T Mexiko | Movistar |
+|:---|:---|:---|:---|
+| Prepaid-eSIM für Besucher | Ja, über die Prepaid-Marke Amigo, über die Mi Telcel-App, telcel.com oder ein Servicecenter | Ja, über AT&T Go, eine reine App-basierte Prepaid-eSIM | Ja, per QR-Code nach Verknüpfung Ihres Reisepasses oder lokalen Ausweises |
+| Beste gemessene Signalstärke | Bestes Mobilfunknetz und bestes 5G-Netz in Ookla 2. Halbjahr 2025; Konsistenz 90,5 % | Zweites Netz bei den meisten Bewertungen; starkes Roaming in den USA und Kanada | Drittes Netz bei den meisten Bewertungen; günstigerer Prepaid-Tarif für städtische Gebiete |
+| Günstigster Prepaid-Einstieg | Aufladungen ab 100 MXN auf den Amigo Sin Límite-Stufen | AT&T Go 6,5 GB für 150 MXN, 30 Tage | Aufladungen ab 100 MXN, Gültigkeit 10 bis 30 Tage |
+| Bewertung für Besucher | ★★ — erfordert die übliche Prepaid-Identitätsregistrierung, kein spontan erhältliches Touristenprodukt | ★★★ — vollständig app-basiert, kein Laden, erfordert eine mexikanische ID oder einen Reisepass | ★★ — QR-Aktivierung, aber nur innerhalb Mexikos mit landesweiter Netzabdeckung |
+
+**Lesen Sie diese Tabelle sorgfältig, denn sie enthält die wichtigste Information auf dieser Seite:** Alle drei nationalen Netzbetreiber verkaufen inzwischen eine Prepaid-eSIM, aber keiner davon verkauft eine unkomplizierte, anonyme Touristen-eSIM am Flughafenschalter. Jeder von ihnen leitet Sie durch das mexikanische Identitätsregistrierungssystem, was bedeutet, dass ein Reisepass (oder ein lokaler Ausweis) zwingend erforderlich ist, bevor die Leitung aktiviert wird. Der Unterschied besteht lediglich darin, wie viel des Vorgangs in einer App statt in einem Servicecenter stattfindet.
+
+### Günstige Marken und regionale Optionen mit eSIM
+
+Mexikos vierte Ebene ist der Bereich, in dem Besucher die günstigsten Daten finden, allerdings surft man dabei auf den Sendemasten eines anderen Anbieters.
+
+| Marke | Zugrundeliegendes Netz | eSIM | Idealer Nutzer |
+|:---|:---|:---|:---|
+| AT&T Go | AT&T Mexiko | Reine App-eSIM mit Prepaid, kein Ladenbesuch nötig | Grenzgänger und alle, die Roaming in den USA und Kanada wünschen |
+| Movistar Prepaid eSIM | Movistar | QR-Code nach Verknüpfung mit Reisepass oder Personalausweis | Städte, in denen Movistar günstig ist |
+| Wim von AT&T | AT&T Mexiko | 100 % eSIM-Digitalmarke | App-first-Käufer, die gebündelte Lifestyle-Vorteile wünschen |
+| Marken im Netz von ALTAN Redes | Großhandelsnetz Red Compartida | eSIM, sofern angeboten | Abgelegene ländliche Gebiete, in die nur das gemeinsam genutzte Netz reicht |
+
+Zwei Hinweise. Erstens: Ein Prepaid-Tarif, den Sie bei einer dieser Marken kaufen, ist an ein Netz gebunden, sodass Sie auf AT&T Go die Sendemasten von AT&T nutzen und keine anderen – das macht sich sofort bemerkbar, sobald Sie die Stadt verlassen. Zweitens: Die Identitätsregistrierungspflicht gilt für alle Anbieter, daher gibt es in Mexiko keine anonyme Reise-SIM mehr.
+
+### Kann man eine Mexiko-eSIM bei Telcel kaufen?
+
+| | Direkt von einem mexikanischen Netzbetreiber | Reise-eSIM in einem mexikanischen Netz |
+|:---|:---|:---|
+| Was Sie benötigen | Reisepass oder Personalausweis; der Netzbetreiber registriert Ihre Leitung, bevor sie funktioniert | Ein kompatibles, entsperrtes Smartphone |
+| So erhalten Sie Ihr Profil | App, QR-Code oder Besuch in einem Service-Center | QR-Code oder App-Installation sofort nach dem Checkout |
+| Typische Kosten | Aufladungen ab 100 MXN; die Karte selbst kostet wenig oder nur symbolisch | Ein Vorabpreis, kein Registrierungsschritt |
+| Netzzugriff | Ein Netzbetreiber | Automatischer Wechsel zwischen Telcel, AT&T und Movistar |
+| Identitätsregelung | Reisepass oder Personalausweis vor der Aktivierung verknüpft | Reisepass bei einigen Produkten an der Kasse hochgeladen |
+| Ideal für | Langaufenthalte oder alle, die eine mexikanische Telefonnummer benötigen | Reisen von Tagen bis Wochen, ab dem Moment der Landung online |
+
+Bei einer typischen Zwei-Wochen-Reise ist die Rechnung einseitig. Ein mexikanischer Prepaid-Tarif ist für Einheimische gedacht, die eine lokale Rufnummer möchten, und er bringt einen Schritt zur Identitätsregistrierung mit sich, den eine Reise-eSIM vermeidet. Wo der Netzbetreiber punktet, sind Langlebigkeit und Telefonie: eine echte mexikanische Rufnummer, unbegrenzte Inlandsgespräche und ein Tarif, der auch im sechsten Monat noch funktioniert. Eine Reise-eSIM punktet mit Bequemlichkeit und damit, mehr als ein Netz zu erreichen, ohne doppelt zu kaufen. Eine Mexiko-eSIM als Reise-Profil vereint beides.
+
+💡 Ein Multi-Netz-eSIM-Profil ist der praktische Mittelweg: [Roamis Mexiko-eSIM](/mexico-esim/) bietet die Bequemlichkeit der sofortigen Bereitstellung, wechselt automatisch zwischen Telcel, AT&T und Movistar und bringt Sie trotzdem ohne doppelten Kauf in die Sierra auf Telcel und an die Grenze auf AT&T.
+
+## Anforderungen Ihres eSIM-Geräts
+
+Drei Dinge entscheiden darüber, ob Ihr Telefon bei einem mexikanischen Netzbetreiber funktioniert: seine Frequenzbänder, sein Sperrstatus und eine kurze Liste gerätespezifischer Besonderheiten. Alle drei werden im Folgenden behandelt, denn ein gesperrtes oder bandbegrenztes Mobiltelefon ist der häufigste Grund, warum die Installation einer Mexiko-eSIM fehlschlägt.
+
+### Welche Frequenzbänder Mexikos Netze nutzen
+
+Mexikanische Netzbetreiber bauen 4G auf den Bändern 2, 4, 5 und 7 sowie 5G auf n41 und n78 auf. Die meisten internationalen Mobiltelefone decken diese ab, aber einigen regionalen Varianten fehlt Band 5 bei 850 MHz, das die Low-Band-Schicht ist, die das Signal in Gebäude und in die Sierra von Oaxaca trägt. Telefone, denen dieses Band fehlt, funktionieren in den Großstädten weiterhin und fallen andernorts auf Band 4 und Band 7 zurück.
+
+Hier ist keine Recherche zu Frequenzbändern erforderlich. Die Modellnummer schlägt den Marketingnamen jedes Mal, also gleichen Sie Ihre mit der [Kompatibilitätsliste für Telefone](/compatibility/) ab. Vor dem Flug klärt die [Erklärung der eSIM-Aktivierung](/faq/what-is-esim-activation-and-how-does-it-work/), was das Telefon beim Eintreffen eines Profils tatsächlich tut.
+
+### Die Regeln zur Netzbetreiber-Sperre in Mexiko
+
+Ein gesperrtes Telefon verhindert die Installation zuverlässig, und Mexiko hat hier ungewöhnlich klare Regeln. Gemäß den Richtlinien des IFT, dem Bundesinstitut für Telekommunikation, müssen Netzbetreiber ein Gerät kostenlos entsperren. Prepaid-Mobiltelefone, wie ein mit einem Amigo-Kit gekauftes Telefon, werden bereits entsperrt verkauft. Postpaid- oder finanzierte Geräte werden entsperrt, sobald der Vertrag endet oder das Gerät abbezahlt ist, und der Netzbetreiber muss den Entsperrcode innerhalb von 24 Stunden nach der Anfrage ausliefern.
+
+**Schauen Sie nach:** Einstellungen -> Allgemein -> Info -> Netzbetreiber-Sperre (iPhone). Wenn dort „Keine SIM-Beschränkungen“ steht, akzeptiert das Telefon jedes Profil. Wenn das Telefon „SIM gesperrt“ anzeigt, wird keine externe eSIM installiert, bis dies behoben ist.
+
+**Beheben Sie es:** Fordern Sie die Entsperrung bei dem Betreiber an, der das Mobiltelefon verkauft hat; die IFT-Regeln verpflichten ihn, diese bereitzustellen. Abbezahlte Geräte werden normalerweise innerhalb eines Tages freigeschaltet, und es fällt keine Gebühr an. Versuchen Sie erst dann, Ihre eSIM zu installieren.
+
+Von US- oder europäischen Betreibern stammende Telefone können weiterhin gesperrt sein, also überprüfen Sie dies vor der Abreise. Vollständige Details: [IFT-Geräteentsperrung](https://www.ift.org.mx/).
+
+### Typische Geräteprobleme im Überblick
+
+| Gerät | Problem | Maßnahme |
+|:---|:---|:---|
+| Vertraglich gebundenes Telefon vom Netzbetreiber | eSIM-Installation schlägt fehl oder die Leitung lässt sich nicht registrieren | Zuerst über den ursprünglichen Netzbetreiber entsperren, dann erneut versuchen |
+| Internationales Gerät ohne Band 5 | In Städten schnell, in der Sierra und in Gebäuden schwächer | Erwartetes Verhalten; bevorzugen Sie Telcel, das die größte Low-Band-Reichweite bietet |
+| Festland-China-iPhone-Modelle | Keine Option „eSIM hinzufügen“ vorhanden, die Hardware ist deaktiviert | Nicht behebbar; verwenden Sie ein anderes Gerät |
+| Dual-SIM-Nutzer | eSIM installiert, aber keine Daten | Legen Sie die eSIM als die für mobile Daten verwendete Leitung fest |
+
+Was bleibt, ist telefonspezifisches Verhalten, nicht etwas, das Telcel oder AT&T steuert. Zehn Sekunden mit dem [eSIM-Geräte-Check](/compatibility/) sind billiger als ein Tarif, den Sie in Oaxaca nicht nutzen können.
+
+## Vier Wege zu Ihrer eSIM
+
+Es gibt vier Wege zu einer Mexiko-eSIM, und sie unterscheiden sich eher beim Papieraufwand als beim Preis: Telcel über Amigo Prepaid, AT&T Mexiko über AT&T Go, Movistar per QR-Code und eine Reise-eSIM, die alle drei nutzt. Jeder Weg, Schritt für Schritt.
+
+### Telcels Amigo-eSIM Schritt für Schritt
+
+Telcel ist Mexikos dominierender Netzbetreiber, daher ist seine eSIM diejenige, nach der die meisten Reisenden zuerst fragen. Die Amigo Prepaid eSIM ist die kartenlose Version von Telcels Amigo-Prepaid-Reihe: gleiche Anrufe, Nachrichten und Datenvolumen, installiert als Profil statt als Plastikchip.
+
+**Telcel Amigo eSIM, Schritt für Schritt:**
+
+1. Stellen Sie sicher, dass Ihr Telefon eSIM-kompatibel und entsperrt ist.
+2. Fordern Sie die Amigo eSIM über die Mi Telcel App, telcel.com oder in einer Telcel Kundenberatung an.
+3. Scannen Sie den QR-Code oder installieren Sie das Profil über die Einstellungen Ihres Telefons.
+4. Schließen Sie die Prepaid-Identitätsregistrierung ab, damit die Leitung aktiviert wird.
+5. Tätigen Sie Ihre erste Aufladung; die Leitung bleibt bis zu 60 Tage ohne weitere Aufladung aktiv.
+
+Die eigenen Prepaid-Tarife von Telcel sind die günstigste Möglichkeit, eine mexikanische Leitung ohne Vertrag zu besitzen, und die Kosten für die Leitung selbst sind niedrig oder symbolisch. Was Sie tatsächlich bezahlen, sind die Aufladungen. Telcel weist darauf hin, dass die Amigo eSIM für jemanden gedacht ist, der eine mexikanische Leitung durchgehend nutzt, was bedeutet, dass sie am besten geeignet ist, sobald Sie das reine Touristenfenster hinter sich lassen und eine lokale Rufnummer möchten. Wenn Sie nur für eine Woche Daten benötigen, ist eine Reise-eSIM mit weniger Aufwand verbunden.
+
+### AT&T Go als reine App-eSIM
+
+AT&T Mexiko ist der einzige nationale Netzbetreiber, der eine echte App-only-Prepaid-eSIM verkauft, und das macht ihn für einen Besucher am einfachsten, der nie ein Geschäft betreten möchte. Sein AT&T Go-Produkt ist ausschließlich über eSIM-Technologie auf kompatiblen Smartphones erhältlich und wird vollständig innerhalb der Mi AT&T App gekauft und aktiviert.
+
+**AT&T Go eSIM, Schritt für Schritt:**
+
+1. Installieren Sie die Mi AT&T App aus dem Google Play oder dem App Store.
+2. Scannen Sie den Onboarding-QR-Code oder öffnen Sie den App-Link.
+3. Aktivieren Sie die eSIM kostenlos.
+4. Wählen Sie ein AT&T Go-Paket und installieren Sie das Profil.
+5. Verknüpfen Sie während der Anmeldung Ihren mexikanischen Ausweis oder Reisepass.
+
+| Paket | Datenvolumen | Gültigkeit | Preis (MXN) |
+|:---|:---|:---|:---|
+| AT&T Go small | 6,5 GB | 30 Tage | 150 |
+| AT&T Go medium | 10 GB | 30 Tage | 200 |
+| AT&T Go large | 20 GB | 30 Tage | 300 |
+
+Alle drei AT&T-Go-Pakete enthalten unbegrenzte Anrufe und SMS in Mexiko und den Vereinigten Staaten, was den eigentlichen Unterschied dieses Netzbetreibers ausmacht: eine einzige Prepaid-eSIM, die über die Grenze hinweg funktioniert. Wenn Ihre Reise beide Länder berührt, ist das besser als eine rein mexikanische Leitung, die an der Grenze den Dienst einstellt.
+
+### Movistar Prepaid-eSIM mit QR-Code
+
+Movistar ist Mexikos dritter landesweiter Netzbetreiber und verkauft eine Prepaid-eSIM; der Weg dorthin hat jedoch eine Eigenheit, die Sie vor dem Flug kennen sollten. Laut offizieller Vorschrift müssen Sie Ihre Leitung mit Ihrer INE, CURP oder Ihrem Reisepass verknüpfen, und die eSIM bleibt inaktiv, bis diese Verknüpfung abgeschlossen ist. Das Profil muss außerdem installiert werden, während Sie sich in Mexiko unter der eigenen nativen Netzabdeckung von Movistar befinden, nicht unter der erweiterten Netzabdeckung, die es von Telcel zukauft.
+
+**Movistar Prepaid-eSIM, Schritt für Schritt:**
+
+1. Kaufen Sie die eSIM bei einem Anbieter, der den QR-Code ausstellt.
+2. Erhalten Sie den QR per E-Mail mit einem Verknüpfungslink.
+3. Verknüpfen Sie Ihren Reisepass oder lokalen Ausweis über den zugesandten Link.
+4. Installieren Sie das Profil per QR-Code, sobald Sie sich physisch in Mexiko befinden.
+5. Warten Sie auf die Aktivierung; die Leitung bleibt bis zu 60 Tage ohne Aufladung gültig.
+
+Movistar-Prepaid-Aufladungen beginnen bei 100 MXN aufwärts, und das Datenvolumen pro Aufladung ändert sich je nach Aktion. Bestätigen Sie daher die genauen Gigabyte in der App am Tag des Kaufs. Der Netzbetreiber ist in Städten am günstigsten und wird in ländlichen Gebieten dünner – genau dort, wo Telcel die Nase vorn hat.
+
+### Die Checkliste vor dem Kauf
+
+- **Reisepass** — erforderlich für jede Netzbetreiber-eSIM als Ausländer; Einheimische nutzen INE oder CURP
+- **IMEI** — wählen Sie `*#06#`
+- **EID** — ebenfalls über den Bildschirm `*#06#`; der eigene Identifikator der eSIM
+- **Entsperrtes Telefon** — Der Carrier Lock muss „Keine SIM-Beschränkungen“ anzeigen, sonst lässt sich keine eSIM installieren
+- **WLAN** — installieren Sie das Profil vor dem Flug, nicht am Flughafen
+- **Eine Karte, die in Mexiko funktioniert** — einige Netzbetreiber-Checkouts lehnen ausländische Rechnungsadressen ab
+
+Tarife und aktuelle Stufen für Ihre Mexiko-eSIM finden Sie auf unserer [Tarifseite](/mexico-esim/). Installieren Sie sie vor dem Flug, und die Leitung begrüßt Sie bei der Landung, statt sich mit dem Flughafen-WLAN herumzuschlagen.
+
+## Geschwindigkeit aller mexikanischen Netze
+
+Zwei Faktoren bestimmen hier die Wahl: wie jedes Netz auf Ihrer konkreten Route funktioniert, und wofür die Reise ist. Die Zahlen unten klären den ersten Punkt; die Reisetabelle den zweiten.
+
+### Welches mexikanische Netz ist das schnellste?
+
+Alle folgenden Zahlen stammen aus dem Speedtest-Connectivity-Report von Ookla für Mexiko, Erfassungszeitraum Juli bis Dezember 2025, und sind nationale Messwerte. Die vierte Zeile, ALTAN Redes, ist das Wholesale-Netz Red Compartida, das kleinere Marken nutzen.
+
+| Metrik | Telcel | AT&T Mexiko | Movistar | ALTAN Redes |
+|:---|:---|:---|:---|:---|
+| Speedtest Konnektivitätsbewertung | **73,1** (höchster) | 61,41 | 63,21 | 52,78 |
+| Speed Score | **64,11** (schnellster) | 39,6 | 43,35 | 28,43 |
+| Konsistenz-Score | **90,5 %** (am besten) | 70,8 % | 80,8 % | 68,8 % |
+| Video-Streaming-Score | **80,44** (bester Wert) | 77,6 | 76,47 | 73,4 |
+| Game Score | **77,73** (bester) | 74,03 | 71,75 | 56,48 |
+| 5-Sterne-Bewertung | **3,51** (Bestwert) | 2,71 | 3,22 | 2,79 |
+
+Quelle: Ookla Speedtest Konnektivitätsbericht — Mexiko, Juli bis Dezember 2025, [der pro-Netzbetreiber-Bericht](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025). Der Consistency Score zählt den Anteil der Messungen, die 5 Mbit/s im Download und 1 Mbit/s im Upload erreichen. Telcel hat im genannten Zeitraum sowohl Bestes Mobilfunknetz als auch Bestes 5G-Netz gewonnen. Eine leere Zelle bedeutet stets, dass der Bericht eine Zahl zurückgehalten hat, und niemals, dass sie geschätzt wurde.
+
+Zum Kontext für das Land insgesamt hat Ooklas [Speedtest Global Index](https://www.speedtest.net/global-index/mexico) für Mexiko im August 2026 einen medianen mobilen Download von **46,39 Mbit/s** gemessen, weltweit auf Platz 82, mit 33 ms Latenz. Cable.co.uk preist 1 GB mexikanischer mobiler Daten auf rund **2,03 USD**, Platz 162 von 237 Märkten, sodass mobile Daten vor Ort eher im mittleren Preissegment liegen. Zur Marktstruktur: Telcel schloss das Jahr 2025 mit etwa **57,5 %** der aktiven Mobilfunkanschlüsse ab, laut Daten der Regulierungsbehörde IFT, gegenüber rund 15 % bei AT&T und 12 bis 14 % bei Movistar. Deshalb zeigt sich der Vorteil bei der Netzabdeckung von Telcel überall, wo Sie unterwegs sind.
+
+### Die passende Mexiko eSIM zu Ihrer Reise finden
+
+| Ihre Reiseroute | Top-Empfehlung | Warum es überzeugt | Darauf achten |
+|:---|:---|:---|:---|
+| Städtetrip nach Mexiko-Stadt | Telcel | Höchste Zuverlässigkeit, erholt sich am schnellsten nach Überlastung | Die Metro hat bei jedem Netzbetreiber schlechten Empfang |
+| Strandresort in Cancún und an der Riviera Maya | Telcel | Am stärksten in der Hotelzone und entlang der Resortkorridore | Küstenstraße südlich von Tulum ist lückenhaft |
+| Los Cabos und Baja California Sur | Telcel | Beste Netzabdeckung in den Kap-Städten | Lange Funklöcher entlang der Wüstenautobahn |
+| Oaxaca-Sierra und ländliches Mexiko | Telcel | Beste Konsistenz bei 90,5 %, größte Reichweite im niedrigen Frequenzband | Tiefe Täler und abgelegene Pueblos haben weiterhin Aussetzer |
+| Grenzüberschreitende Reise in die Vereinigten Staaten | AT&T Mexiko | AT&T Go enthält Roaming in den USA und Kanada | Eine reine Mexiko-eSIM funktioniert an der Grenze nicht mehr |
+| Budget-Städtereise | Movistar Prepaid-eSIM | Günstigste Aufladungen für die Stadt | Muss innerhalb von Mexiko aktiviert werden |
+| Langzeitaufenthalt mit einer lokalen Nummer | Telcel Amigo eSIM | Lokale Nummer, kein Vertrag | Erfordert eine Identitätsregistrierung im Voraus |
+
+### Netzabdeckung Region für Region
+
+Die Netzabdeckung in Mexiko folgt der Bevölkerungsverteilung: dicht in den Großstädten, entlang ländlicher Highways schnell abnehmend und in der tiefen Sierra weitgehend verschwindend. Was das für Ihre Route bedeutet.
+
+| Region | Realität vor Ort |
+|:---|:---|
+| Mexiko-Stadt und das zentrale Hochland | Alle drei nationalen Netzbetreiber sind in der Innenstadt gut ausgebaut; Telcel erreicht die höchste Konstanz und erholt sich daher am schnellsten nach Überlastungen in großen Veranstaltungsorten und der U-Bahn. |
+| Cancún und die Riviera Maya | Die Resort-Korridore und die Hotelzone werden gut von Telcel versorgt und in geringerem Maße von Movistar; das Signal wird entlang der Küstenstraße südlich von Tulum und Richtung Bacalar schwächer, wo Reisende von Funklöchern im Dschungel berichten. |
+| Los Cabos und Baja California Sur | Die Netzabdeckung konzentriert sich auf Cabo San Lucas, San José del Cabo und den Korridor dazwischen; auf der Transpeninsular-Route zwischen den Orten berichten Autofahrer von den längsten Empfangslücken. |
+| Die Oaxaca-Sierra | Das bergige Gelände in der Sierra Madre del Sur sorgt für eine lückenhafte Netzabdeckung; Telcel erreicht die meisten Dörfer, doch tiefe Täler und abgelegene Pueblos fallen weiterhin aus. Laden Sie daher Offline-Karten herunter, bevor Sie einen Bus nehmen oder zu einem Ausgangspunkt von Wanderwegen aufbrechen. |
+| Grenzstaat Baja California | Tijuana, Ensenada und Mexicali sind dicht und zuverlässig; sobald man den Grenzkorridor Richtung Landesinnere verlässt, treten auf den Autobahnen dieselben Lücken auf wie im Süden. |
+| Überqueren der Grenze in die Vereinigten Staaten | Eine eSIM, die nur für Mexiko gilt, endet an der Grenze ohne Vorwarnung; bei Reisen, die beide Länder berühren, spart ein Nordamerika-Tarif oder die regionale eSIM den doppelten Kauf. |
+
+Planen Sie eine Route, die Mexiko verlässt? Vergleichen Sie die [USA-eSIM](/united-states-esim/), [Guatemala Reise-eSIM](/guatemala-esim/) oder eine [Nordamerika-eSIM](/north-america-esim/), wenn Ihre Reiseroute mehrfach Grenzen überschreitet.
+
+Der Trick hinter alldem ist, die Netzwahl auf automatisch zu lassen. Ein Profil, das zwischen Telcel, AT&T und Movistar wechseln kann, schließt die regionalen Lücken, die kein Einzelnetzbetreiber-Tarif abdecken kann.
+
+## Die APN-Werte im Überblick
+
+Das APN-Menü ist ein Ort, den die meisten Reisenden nie aufsuchen – und genau deshalb steht es ganz oben auf der Checkliste, wenn die Datenübertragung Probleme macht. Die Einstellungen für jeden mexikanischen Netzbetreiber folgen unten, einschließlich der genauen Menüpfade, für den Fall, dass eine manuelle Eingabe unvermeidlich ist.
+
+### APN-Werte der drei Netzbetreiber
+
+Sie benötigen diese Angaben nur, wenn Sie eine Mexiko-eSIM **direkt von einem Netzbetreiber** gekauft haben. Roaming-Profile wie eine Reise-eSIM bringen ihren eigenen APN mit, und dessen Bearbeitung führt meistens zu Fehlern.
+
+| Netzbetreiber | APN | Benutzername | Passwort |
+|:---|:---|:---|:---|
+| Telcel | `internet.itelcel.com` | leer | leer |
+| AT&T Mexiko | `ai.attmx.com` | leer | leer |
+| Movistar | `internet.movistar.mx` | leer | leer |
+
+Benutzername und Passwort leer lassen. Einige Telcel-Anleitungen nennen `webgprs` und `webgprs2002` für ältere Konten; falls die automatische Konfiguration nicht ausgeführt wurde, probieren Sie diese Werte nur, wenn die leeren Felder nicht funktionieren. Verlangt ein Netzbetreiber einen Wert, finden Sie ihn in den Aktivierungsanweisungen, die Ihrem Profil beiliegen.
+
+### Wann eine manuelle Eingabe nötig ist
+
+- Ein Telefon, das zu alt ist, um Netzbetreiber-Einstellungen automatisch abzurufen
+- Ein Profil, das mit einem manuellen Aktivierungscode statt per QR-Scan installiert wurde
+- Eine vom Netzbetreiber ausgegebene Prepaid-eSIM, bei der die automatische Konfiguration nicht lief
+- Fast nie bei einer Reise-eSIM – genau das ist der Sinn eines verwalteten Profils
+
+### Die Menüwege für iPhone und Android
+
+- **iPhone:** Öffnen Sie Einstellungen → Mobilfunk → tippen Sie auf die eSIM-Leitung → Mobilfunkdaten-Netz → geben Sie den APN ein
+- **Android:** Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunkte → neuen APN hinzufügen
+
+Starten Sie das Telefon nach dem Speichern neu. Bevor Sie tiefer gehend Fehler beheben, prüfen Sie, dass die mobilen Daten auf die eSIM und nicht auf Ihre Heimatleitung verweisen.
+
+## Von der Installation bis zur Aktivierung
+
+Dieser Abschnitt führt Sie Schritt für Schritt von einer sauberen Installation bis zu einer funktionierenden Datenverbindung. Sie deckt zudem genau die Fehlerbilder ab, die ein mexikanisches Netz tatsächlich erzeugen kann – in der Reihenfolge, in der sie auftreten.
+
+### Ihre Mexiko-eSIM installieren
+
+| # | Überprüfen | Was Sie sehen möchten |
+|:---|:---|:---|
+| 1 | Das Telefon akzeptiert jedes Netz | Einstellungen → Allgemein → Info → Netzbetreiber-Sperre zeigt „Keine SIM-Beschränkungen“ |
+| 2 | eSIM-Hardware ist vorhanden | Beim Wählen von `*#06#` wird eine EID angezeigt, oder der [Gerätekompatibilitäts-Check](/compatibility/) bestätigt Ihr Modell |
+| 3 | Der QR-Code ist gesichert | Ein Screenshot, der sowohl auf dem Telefon **als auch** in der Cloud gespeichert ist |
+| 4 | Profil vor dem Flug bereit | Über das heimische WLAN installiert; es aktiviert sich sofort bei der Landung |
+| 5 | Datenrouting vorbereitet | eSIM für mobile Daten ausgewählt mit aktiviertem Roaming |
+
+Schritt 4 führen Sie zu Hause durch. In den Ankunftshallen von Mexiko-Stadt und Cancún ist das WLAN genau dann überlastet, wenn Sie es am dringendsten benötigen, und ein Profil, das Sie erst am Boden installieren, konkurriert mit dem aller anderen.
+
+### Ihre Mexiko-eSIM aktivieren
+
+Wenn Sie lieber Screenshots folgen als einer Zusammenfassung, begleitet Sie der [Schritt-für-Schritt-eSIM-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/) durch die gesamte Installation. Was je nach Netzbetreiber variiert:
+
+| Netzbetreiber | Aktivierungsunterschied |
+|:---|:---|
+| Telcel Amigo | Über die Mi-Telcel-App, auf telcel.com oder in einem Service-Center angefordert; die Identitätsregistrierung muss abgeschlossen sein, bevor die Leitung aktiviert wird |
+| AT&T Go | Vollständig app-basiert in Mi AT&T; kein Besuch im Laden nötig; Ausweis oder Reisepass wird bei der Anmeldung verknüpft |
+| Movistar Prepaid-eSIM | QR, die Leitung bleibt jedoch inaktiv, bis Sie Ihren Reisepass oder einen lokalen Ausweis verknüpfen, und nur innerhalb Mexikos unter einheimischer Netzabdeckung |
+| Reise-eSIMs | Installation per QR-Code, und dasselbe Profil wechselt per Roaming zu dem von Telcel, AT&T oder Movistar, das am stärksten ist |
+
+### Vier Rettungsschritte bei Störungen
+
+Allgemeine Aktivierungsfehler, ein Profil, das sich nicht herunterladen lässt, ein fehlgeschlagener Scan sowie eine eSIM, die sich installiert, aber nie registriert, werden in unserem [Hilfe bei Aktivierungsfehlern](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Nachfolgend finden Sie die vier Muster, die speziell in Mexiko auftreten.
+
+**A. Die eSIM lässt sich nicht installieren**
+1. Bestätigen Sie, dass das Telefon selbst entsperrt ist – unter „Info“ muss „Netzbetreiber-Sperre“ die Angabe „Keine SIM-Beschränkungen“ zeigen
+2. Behandeln Sie den QR-Code als Einmal-Code: sauber, ungescannt und einsatzbereit
+3. Fragen Sie beim Netzbetreiber nach, ob die Leitung ihre Identitätsregistrierung bereits abgeschlossen hat
+
+**B. Installiert, aber keine Signalbalken**
+1. Überprüfen Sie den Sperrstatus erneut
+2. Einstellungen → Mobilfunk → Netzwahl → wählen Sie Telcel, AT&T oder Movistar manuell statt automatisch aus
+3. Vollständige Zurücksetzung der Netzwerkeinstellungen, dann ein weiterer Neustart
+
+**C. Signalbalken, aber kein Internet**
+1. Sehen Sie sich die Einträge nochmals im Vergleich zur Tabelle oben an
+2. Stellen Sie sicher, dass die Datenroute über die eSIM und nicht über Ihre heimische Karte läuft
+3. Prüfen Sie, ob Sie nicht in eine Drosselung aufgrund fairer Nutzung geraten sind; Prepaid-Aufladungen können nach Erreichen des Datenvolumens auf ein Minimum sinken
+
+**D. Funkloch auf der Baja-Highway oder der Riviera-Maya-Straße**
+1. Wenn Sie bei Movistar sind: Die Leitung muss im nativen Movistar-Netz laufen und nicht über die Telcel-Erweiterung
+2. Wechseln Sie auf Telcel, das die breiteste Erreichbarkeit im Low-Band-Bereich in der Sierra und im ländlichen Hinterland bietet
+3. Laden Sie Offline-Karten vor jeder langen Highway- oder Wanderparkplatz-Fahrt herunter
+
+### Was Sie für den Support bereithalten
+
+| Benötigte Informationen | Wo Sie diese finden |
+|:---|:---|
+| Bestell- oder Kundennummer | Bestätigungs-E-Mail |
+| Telefonmodell und Betriebssystemversion | Einstellungen → Über das Gerät |
+| EID | `*#06#` |
+| Screenshot des Fehlers | Machen Sie es, bevor sich der Bildschirm ändert |
+| Aktuelle APN-Einstellungen | Einstellungen → Mobiles Datennetz |
+| Daten-Roaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Status der Identitätsregistrierung | Die Verknüpfungsbestätigung von Ihrem Netzbetreiber |
+
+## Schnelle Antworten auf häufige Fragen
+
+Das sind die Fragen, die Reisende tatsächlich in die Suche tippen, beantwortet auf Grundlage der Fakten oben.
+
+### Kann ich als Besucher direkt bei Telcel eine Prepaid eSIM kaufen?
+
+Ja, über die Prepaid-Marke Amigo. Telcel stellt die Amigo eSIM über die Mi Telcel App, telcel.com oder ein Kundenservicecenter aus, und die Kosten für die Leitung selbst sind gering oder symbolisch. Der Haken ist die standardmäßige Prepaid-Identitätsregistrierung, das heißt, Ihr Reisepass oder ein lokaler Ausweis muss verknüpft werden, bevor die Leitung funktioniert. Daher ist es nicht das sofortige Flughafenprodukt, das sich ein reiner Tourist wünschen würde.
+
+### Verkauft AT&T eine Prepaid eSIM für Besucher?
+
+Ja, und es ist die einfachste der drei. AT&T Go ist eine reine App-Prepaid-eSIM, die vollständig in der Mi AT&T App gekauft und aktiviert wird, ohne Ladenbesuch und ohne physische Chipkarte. Die Pakete umfassen 6,5 GB für 150 MXN, 10 GB für 200 MXN und 20 GB für 300 MXN über 30 Tage, und sie enthalten unbegrenzte Anrufe und SMS in Mexiko und den Vereinigten Staaten, was der wirkliche Vorteil des Netzbetreibers für Grenzreisende ist.
+
+### Können internationale Besucher eine Movistar eSIM erhalten?
+
+Ja, per QR-Code, aber mit einer Besonderheit. Movistar verlangt, dass Sie Ihren Reisepass, INE oder CURP verknüpfen, bevor die Leitung aktiv wird, und das Profil muss installiert werden, während Sie sich physisch in Mexiko unter der nativen Netzabdeckung von Movistar befinden, nicht unter dem erweiterten Netz von Telcel. Die Belohnung sind die günstigsten städtischen Prepaid-Aufladungen, was Movistar zu einer guten Wahl für einen Städteaufenthalt macht, sobald Sie eingerichtet sind.
+
+### Welches Netz ist auf dem Land besser?
+
+Telcel, basierend auf den Beweisen. Es verzeichnete den besten Consistency Score in den 2H 2025 Mexiko-Daten von Ookla mit 90,5 %, also dem Anteil der Tests, die einen Schwellenwert von 5 Mbps im Download und 1 Mbps im Upload erfüllen, was die zuverlässigste Annäherung an ein Maß für ländliche Zuverlässigkeit darstellt. AT&T lag bei 70,8 % und Movistar bei 80,8 %, daher ist Telcel der Netzbetreiber, den Sie in der Sierra von Oaxaca und entlang der Highways in Baja behalten sollten.
+
+### Benötigen Prepaid-SIMs in Mexiko einen Ausweis?
+
+Ja, für jede in Mexiko gekaufte Netzbetreiber-eSIM. Das mexikanische Mobilfunkregister von 2026 verlangt, dass jede Prepaid-Leitung, physische SIM oder eSIM, mit einem offiziellen Ausweis verknüpft wird, wobei Ausländer einen Reisepass verwenden und Einheimische eine INE oder CURP. Eine nicht registrierte Leitung kann gesperrt werden, daher sollten Sie den Verknüpfungsschritt abschließen, bevor Sie sich auf die Verbindung verlassen. Eine Reise-eSIM kann dies stattdessen beim Checkout erledigen, was ein Grund ist, warum Besucher sie wählen.
+
+### Was tun bei einem gesperrten Telefon?
+
+Fragen Sie den Netzbetreiber, an den es gebunden ist. Gemäß den IFT-Richtlinien müssen Netzbetreiber ein Gerät kostenlos entsperren; Prepaid-Geräte wie ein Amigo Kit werden bereits entsperrt verkauft, und Postpaid- oder finanzierte Geräte werden entsperrt, sobald der Vertrag endet oder das Telefon abbezahlt ist, wobei der Code innerhalb von 24 Stunden geliefert wird. Abbezahlte Geräte werden normalerweise innerhalb eines Tages freigegeben. Status prüfen unter Einstellungen → Allgemein → Info → Netzbetreibersperre.
+
+### Was Ihr Telefon mitbringen muss
+
+Es muss entsperrt und eSIM-fähig sein, und es hilft, wenn es Band 5 bei 850 MHz für niedrige Frequenzbereiche unterstützt. Die [Kompatibilitätsseite](/compatibility/) klärt EID-Unterstützung und die Band-Frage an einem Ort. Sind Sie bei der Installation unsicher, führt [die Profil-Installation](/faq/what-is-esim-activation-and-how-does-it-work/) Sie Schritt für Schritt durch.
+
+### Was tun wenn die Aktivierung fehlschlägt?
+
+Arbeiten Sie die vier Mexiko-spezifischen Muster oben der Reihe nach ab: Sperrstatus, Netzwahl, APN und Datenleitung, dann Profil-Neuinstallation. Wenn es dann immer noch fehlschlägt, deckt der breitere Fehlerkatalog im [eSIM-Fehlerbehebungsleitfaden](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Halten Sie Ihre EID, Bestellnummer und Ihre Identitätsregistrierungsbestätigung bereit, bevor Sie den Support kontaktieren.
+
+### Soll ich die Heimnummer parallel behalten?
+
+Ja, und es ist eine sinnvolle Einrichtung. Belassen Sie die Heimatnummer auf ihrer physischen SIM, um weiterhin Anrufe und Codes zu empfangen, und lassen Sie die eSIM die Daten tragen. Wählen Sie unter Mobile Daten in den Einstellungen die eSIM und behalten Sie die Heimatleitung für Anrufe. Zwei Warnungen: Deaktivieren Sie Roaming auf der Heimatkarte, um Hintergrundkosten zu stoppen, und beachten Sie, dass reine Datenprofile keine SMS empfangen können, daher gehen Bank-Codes weiterhin auf Ihrer üblichen Nummer ein.
+
+### Warum lässt sich Movistar nicht im Ausland aktivieren?
+
+Laut offizieller Bestimmung verlangt Movistar, dass die eSIM unter seiner eigenen nativen Netzabdeckung installiert wird, nicht unter der erweiterten Netzabdeckung, die es von Telcel kauft, und die Leitung bleibt inaktiv, bis Sie Ihren Reisepass oder einen lokalen Ausweis verknüpfen. Diese Verknüpfung und die Prüfung der nativen Netzabdeckung sind der Grund, warum das Profil im Ausland nicht abgeschlossen werden kann. Planen Sie die Installation nach der Landung über mexikanisches WLAN, nicht vor dem Flug.
+
+### Wie funktioniert eine eSIM technisch?
+
+Betrachten Sie sie als einen im Gerät eingebauten Chip, der Netzbetreiberprofile speichert und die herausnehmbare Karte vollständig ersetzt. Der Ablauf ist einfach: Der Betreiber liefert ein Profil, das Telefon speichert es auf diesem internen Chip, und die Leitung verhält sich normal. Neugierig auf SM-DP+-Server oder warum dieser Code genau einmal funktioniert? [eSIM-Aktivierungsmechanik](/faq/what-is-esim-activation-and-how-does-it-work/) erklärt beides.
+
+### Welcher mexikanische Netzbetreiber passt zu Ihrer Reiseroute?
+
+AT&T Mexiko, weil seine AT&T Go Prepaid-eSIM unbegrenzte Anrufe und SMS in Mexiko und den Vereinigten Staaten in einem Tarif enthält, und das Nordamerika-Roaming des Netzbetreibers ist sein klarster Vorteil gegenüber Telcel und Movistar. Wenn Ihre Reise länger ist oder Sie eine mexikanische Registrierung ganz vermeiden möchten, ist eine [Nordamerika-eSIM](/north-america-esim/), die beide Seiten der Grenze abdeckt, die sauberere Wahl.
+
+Mehr Fragen? [Alle FAQ ansehen](/faq/)
+
+## Die Referenzquellen im Überblick
+
+- Jede netzbetreiberbezogene Zahl stammt aus dem **Ookla Speedtest Connectivity Report für Mexiko, Juli bis Dezember 2025** — [der pro-Netzbetreiber-Bericht](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025) dokumentiert den Connectivity Score von 73,1, den Speed Score von 64,11 und die Consistency von 90,5 % für Telcel sowie die Werte für AT&T, Movistar und ALTAN Redes.
+- Der nationale Median der mobilen Downloadgeschwindigkeit von 46,39 Mbps für August 2026 und das globale Ranking stammen aus dem **Ookla Speedtest Global Index** — [der Mexiko-Eintrag](https://www.speedtest.net/global-index/mexico), monatlich aktualisiert.
+- Die Regeln zur Geräteentsperrung und der Rahmen der Identitätsregistrierung werden vom **Instituto Federal de Telecomunicaciones (IFT)** festgelegt — [die nationale Regulierungsbehörde](https://www.ift.org.mx/).
+- Die nur-in-der-App-verfügbaren eSIM-Pakete und ihre MXN-Preise sind auf **AT&T Mexiko** veröffentlicht — [die AT&T Go Prepaid-eSIM-Seite](https://www.att.com.mx/planes/prepago/att-go).
+- Der Preis pro Gigabyte in Mexiko stammt aus der **weltweiten Datenpreisübersicht von Cable.co.uk** — [die vollständige Ländertabelle](https://www.cable.co.uk/mobiles/worldwide-data-pricing/). Sie werden die ursprünglichen Daten auf jeder Quelle sehen — beurteilen Sie die Aktualität selbst.
+
+Nur Messungen von Dritten. Tatsächliche Ergebnisse hängen von Ihrem Gerät, seinem aktuellen Band und der Auslastung des nächsten Funkmasts ab.
+
+## Holen Sie sich eine Mexiko-eSIM vor dem Abflug
+
+Überspringen Sie die Registrierungsschlange. Die Roami-Mexiko-eSIM wechselt automatisch zwischen Telcel, AT&T und Movistar, wohin Sie auch reisen. Testen Sie die Netze mit einer [kostenlosen Mexiko-Test-eSIM](/free-esim/), und sparen Sie dann 20 % auf [Mexiko-eSIM-Tarife](/mexico-esim/) mit dem Code **WEB20**.
+
+[Mexiko-eSIM holen](/mexico-esim/)
+
+*Eine Nutzung pro Reisendem*
+
+[Mexiko-Netze kostenlos testen](/free-esim/)

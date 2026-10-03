@@ -1,274 +1,751 @@
 ---
-title: "去柬埔寨玩需要網路？一篇看懂 eSIM 怎麼挑最適合。"
-description: "想找最好的柬埔寨 eSIM？Roami 實際比較 Smart 和 Cellcard 的 5G 涵蓋範圍與網速表現，讓您在柬埔寨旅遊時隨時保持順暢連線。"
-date: "2026-06-17T06:15:09+00:00"
 
-keywords: "eSIM 柬埔寨，預付數據，5G 網路，Smart，Cellcard，MekongNet，數位遊牧，旅遊指南"
-site_name: "Roami"
-brand_name: "Roami"
+title: "柬埔寨 eSIM 要選哪家電信業者？Smart、Cellcard、Metfone 完整比較"
+
+description: "前往柬埔寨旅行，不確定 eSIM 要辦哪一家電信業者？Roami 比較 Smart、Cellcard 與 Metfone 的速度、覆蓋率與價格，從金邊、吳哥窟一路實測到離島訊號缺口，整理 5G 進展、護照登記與 APN 設定，幫你出發前選對柬埔寨 eSIM。"
+image: "img/esim/carriers/cambodia-esim-carrier-guide.jpg"
+
+date: "2026-09-27T22:36:03+00:00"
+
+keywords: eSIM 柬埔寨, 柬埔寨 eSIM 電信業者, Smart Axiata eSIM, Cellcard eSIM, Metfone eSIM, 預付數據, 柬埔寨 5G 網路, 旅遊 eSIM
+
+site_name: Roami
+
+brand_name: Roami
+
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "柬埔寨 eSIM 指南"
-    url: ""
 
-# Hero 區塊文案
-hero_badge: "🇰🇭 柬埔寨 最新旅遊 eSIM 指南"
-hero_subtitle_main: "柬埔寨 eSIM：保留原號碼，暢遊當地"
-hero_subtitle_highlight: "Smart 與 Cellcard 頂級 5G 覆蓋"
-hero_description_line1: "透過 柬埔寨 eSIM 讓海外旅行輕鬆又快速。覆蓋當地主要行動網路，訊號穩定，價格透明，無隱藏費用。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "柬埔寨 eSIM"
-hero_link_url: "/cambodia-esim/"
-tldr_summary: "【數位遊牧民族的最佳選擇：無縫跨國 5G 網路，連續多國旅行不斷線】根據 Ookla 2025 上半年數據，Smart 以中位下載 59.76 Mbps 奪冠，Cellcard 則提供最佳影片串流體驗。Roami 的柬埔寨 eSIM 讓您保留原號碼，同時享受 Smart 與 Cellcard 的頂級網路，無論在金邊、暹粒或西哈努克，都能高速連線。結論：選擇 Roami eSIM，就是選擇柬埔寨最快的行動網路與最穩定的連線品質。"
+- name: Roami
 
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "柬埔寨 eSIM 快速連結"
-sidebar_links:
+  url: /
 
-  - href: "#quick-picks"
-    text: "快速選擇：柬埔寨 該選哪家 eSIM 營運商？"
+- name: 柬埔寨 eSIM 指南
+  url: ''
 
-  - href: "#operators"
-    text: "柬埔寨 最佳行動 eSIM 營運商總覽"
+hero_badge: "為你的旅程評比柬埔寨行動網路"
 
-  - href: "#city-guide"
-    text: "城市指南：柬埔寨 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 柬埔寨 eSIM 前須知"
-
-  - href: "#faq"
-    text: "柬埔寨 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "柬埔寨 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：柬埔寨 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Smart"
-    carrier_class: "text-green-600"
-    reason: "Smart 在 2025 上半年以中位下載 59.76 Mbps 奪冠，且擁有最佳遊戲體驗與 90.8% 的連線穩定性，適合長時間遠端工作與串流。"
-
-  - travel: "觀光旅客"
-    carrier: "Cellcard"
-    carrier_class: "text-blue-600"
-    reason: "Cellcard 提供最佳影片串流體驗（73.10 分），適合在景點打卡、觀看影片，且覆蓋廣泛。"
-
-  - travel: "商務人士"
-    carrier: "Smart"
-    carrier_class: "text-green-600"
-    reason: "Smart 擁有最低延遲 37 ms 與最高上傳速度 12.04 Mbps，確保視訊會議與大檔案傳輸順暢。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 柬埔寨 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "smart-esim"
-    title: "Smart eSIM 總覽：最快行動網路"
-    best_for: "此方案絕對是最佳選擇，若您追求極致下載速度與遊戲體驗。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)，Smart 在 2025 上半年以中位下載 59.76 Mbps 領先所有競爭對手，且連線穩定性高達 90.8%。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)，中位下載速度為 59.76 Mbps，上傳 12.04 Mbps，延遲 37 ms。\n- **下載速度**：中位 59.76 Mbps（最快）。\n- **上傳速度**：中位 12.04 Mbps。\n- **影片串流**：71.85 分。\n- **遊戲體驗**：最佳（未提供具體分數）。\n- **連線穩定性**：90.8% 樣本達標。"
-    arcep_note: "經當地電信主管機關確認，Smart 持有完整 4G/5G 頻譜執照，並持續擴建基礎設施。"
-    connect_note: "啟用過程順暢，掃描 QR code 後 5 分鐘內即可連線，支援熱點分享。"
-    user_scenarios: "- **【吳哥窟】**：在暹粒的寺廟群中，Smart 提供穩定的 4G/5G 訊號，讓您即時上傳照片與導航。\n- **【金邊夜市】**：即使在擁擠的夜市，Smart 的低延遲確保直播與視訊通話不卡頓。\n- **【西哈努克海灘】**：海邊度假時，Smart 的下載速度讓您流暢觀看串流影片。"
-    bg_color: "bg-green-50"
-
-  - id: "cellcard-esim"
-    title: "Cellcard eSIM 總覽：最佳影片串流體驗"
-    best_for: "此方案適合重度影片觀看者與串流愛好者。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)，Cellcard 在影片串流體驗上獲得 73.10 分，為市場最佳。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)，中位下載速度為 36.76 Mbps。\n- **下載速度**：中位 36.76 Mbps。\n- **上傳速度**：未提供具體數字，但整體表現穩定。\n- **影片串流**：73.10 分（最佳）。\n- **遊戲體驗**：未提供具體分數。\n- **連線穩定性**：未提供具體數據。"
-    arcep_note: "經當地電信主管機關確認，Cellcard 擁有廣泛的 4G 覆蓋，並持續投資 5G 建設。"
-    connect_note: "啟用過程順暢，掃描 QR code 後即可使用，支援多裝置熱點分享。"
-    user_scenarios: "- **【金邊皇宮】**：在觀光景點串流歷史解說影片，Cellcard 的影片體驗讓您享受高畫質不緩衝。\n- **【馬德望竹火車】**：在移動中觀看旅遊 Vlog，Cellcard 提供穩定的串流品質。\n- **【貢布河畔】**：在河邊咖啡廳觀看 Netflix，Cellcard 的影片串流分數確保流暢播放。"
-    bg_color: "bg-blue-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 柬埔寨 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 柬埔寨 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 柬埔寨 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 柬埔寨 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段與裝置相容性"
-    content: "柬埔寨主要營運商 Smart 與 Cellcard 使用 4G 頻段 B3 (1800 MHz)、B7 (2600 MHz)、B8 (900 MHz) 以及 5G 頻段 n78 (3500 MHz)。購買 eSIM 前，請確認您的智慧型手機支援上述頻段，以確保最佳連線品質。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "根據柬埔寨電信監管機構規定，所有 SIM 卡（包括 eSIM）均需進行實名認證。購買 Roami eSIM 時，您需要上傳護照或身分證件照片，並填寫基本個人資訊。認證通常在 24 小時內完成，建議出發前至少提前 2 天購買。"
-
-  - heading: "3. 公平使用政策 (FUP) 與數據限制"
-    content: "多數柬埔寨 eSIM 方案設有公平使用政策，例如每日高速數據上限（如 1GB/天）後降速至 128 kbps。請仔細閱讀方案條款，避免在大量下載或串流時觸發降速。Roami 提供透明 FUP 說明，確保您不會意外超量。"
-
-  - heading: "4. 覆蓋範圍與偏遠地區注意事項"
-    content: "Smart 與 Cellcard 在城市與主要旅遊景點（如金邊、暹粒、西哈努克）提供優異覆蓋。但在偏遠山區或離島（如高龍島），訊號可能較弱。建議下載離線地圖，並準備備用連線方案。"
-
-  - heading: "5. eSIM 啟用與技術支援"
-    content: "Roami 提供 24/7 線上客服，協助您解決啟用問題。eSIM 可於出發前在家中安裝，抵達柬埔寨後掃描 QR code 即可啟用。若裝置不支援 eSIM，可考慮實體 SIM 卡方案。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：柬埔寨 最佳 eSIM"
-city_guide_desc: "了解哪款柬埔寨 eSIM 是您目的地的最佳選擇，根據當地網路效能與用戶回饋。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "金邊"
-    carriers: "Smart"
-    reason: "首都金邊擁有最密集的基地台，Smart 以 59.76 Mbps 中位下載速度提供最快體驗，適合商務與娛樂。"
-
-  - city: "暹粒"
-    carriers: "Cellcard"
-    reason: "暹粒是吳哥窟所在地，Cellcard 的影片串流體驗最佳，讓您在遊覽寺廟後流暢觀看旅遊紀錄片。"
-
-  - city: "西哈努克"
-    carriers: "Smart"
-    reason: "海灘城市西哈努克，Smart 的低延遲與高速下載讓您在海邊直播、上傳照片不延遲。"
-
-  - city: "馬德望"
-    carriers: "Cellcard"
-    reason: "馬德望以竹火車與鄉村風光聞名，Cellcard 提供穩定的 4G 覆蓋，適合串流當地文化影片。"
-
-  - city: "貢布"
-    carriers: "Smart"
-    reason: "貢布以河畔與胡椒農場著稱，Smart 的連線穩定性高達 90.8%，確保在郊區也能保持連線。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 柬埔寨 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在金邊與暹粒的寺廟、博物館與夜市間穿梭，Smart 的高速網路讓您即時查詢地圖、分享打卡，並串流導覽影片。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往貢布國家公園或高龍島，Cellcard 的穩定訊號讓您在自然環境中仍能保持聯繫，上傳絕美風景照。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕遊柬埔寨，Smart 的低延遲確保 Google Maps 導航即時更新，並在偏遠路段提供可靠的網路備援。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在西哈努克與高龍撒冷島享受陽光，Smart 的下載速度讓您流暢觀看串流影片，或與親友視訊分享海景。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "柬埔寨 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "我可以在出發前於家中安裝柬埔寨旅遊 eSIM 嗎？"
-    a: "可以。Roami 提供出發前安裝選項，您只需在收到 QR code 後掃描並儲存 eSIM 設定檔。抵達柬埔寨後，開啟數據漫遊即可自動啟用，無需更換實體 SIM 卡。"
-
-  - q: "我可以購買多個柬埔寨數據方案並依序啟用嗎？"
-    a: "是的，您可以購買多個方案並分別儲存。但請注意，同一時間僅能啟用一個 eSIM 方案。若需切換，請在手機設定中停用目前方案，再啟用另一個。Roami 的 App 可協助管理多個方案。"
-
-  - q: "Roami 是否提供 24/7 線上支援，以解決我在柬埔寨的連線問題？"
-    a: "是的，Roami 提供 24/7 多語言線上客服，可透過 App 內建聊天或電子郵件聯繫。若遇到啟用失敗、速度異常或覆蓋問題，客服團隊會在數分鐘內回應。"
-
-  - q: "如果我從裝置中刪除柬埔寨 eSIM，之後可以重新安裝嗎？"
-    a: "可以，但需注意重新安裝次數可能有限制。Roami 通常允許在方案有效期內重新安裝一次。若您不慎刪除，請聯繫客服取得新的 QR code 或啟用碼。建議在刪除前先備份 eSIM 設定檔。"
-
-  - q: "此柬埔寨數據方案是否包含傳統語音通話與 SMS？"
-    a: "Roami 的柬埔寨 eSIM 方案主要為數據方案，不包含傳統語音通話分鐘數或 SMS 簡訊。但您可透過 VoIP 服務（如 WhatsApp、Skype）進行語音與視訊通話。若需當地號碼，建議另購實體 SIM 卡。"
-
-# 迷思
-myths_title: "⚠️ 柬埔寨 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "柬埔寨所有營運商速度都一樣慢。"
-    truth: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)，Smart 在 2025 上半年中位下載速度達 59.76 Mbps，遠高於 Cellcard 的 36.76 Mbps，顯示營運商間存在顯著差異。"
-
-  - myth: "eSIM 只能在昂貴的旗艦手機上使用。"
-    truth: "越來越多的中階手機（如 Google Pixel 系列、iPhone SE、Samsung Galaxy A 系列）也支援 eSIM。購買前請查閱 Roami 的相容性列表。"
-
-  - myth: "柬埔寨的網路在偏遠地區完全無法使用。"
-    truth: "雖然偏遠地區覆蓋較弱，但 Smart 與 Cellcard 在主要公路與旅遊景點（如吳哥窟、西哈努克）提供穩定的 4G/5G 訊號。Smart 的連線穩定性達 90.8%，多數地區仍可正常使用。"
-
-  - myth: "使用 eSIM 會耗電更快。"
-    truth: "eSIM 與實體 SIM 的耗電量幾乎無差異。耗電主要來自螢幕亮度、背景 App 與訊號強度。在訊號良好的地區，eSIM 不會顯著增加耗電。"
-
-  - myth: "柬埔寨的 5G 網路尚未成熟，不值得購買。"
-    truth: "Smart 已推出商用 5G 服務，並在 2025 上半年獲得最快行動網路獎項。5G 覆蓋持續擴大中，尤其在金邊與暹粒市中心，5G 體驗已相當可靠。"
-
-# 數據來源
-data_sources_title: "柬埔寨 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/cambodia-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據，涵蓋 2025 上半年柬埔寨所有行動與固網營運商的速度、延遲與覆蓋分析。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的柬埔寨行動網路體驗報告，提供影片串流、遊戲體驗與覆蓋範圍的獨立評比。"
-
-  - name: "柬埔寨電信監管機構 (TRC) 2025"
-    description: "柬埔寨電信監管委員會 (TRC) 發布的官方頻譜分配與服務品質報告，確保數據合規性。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已標示來源。實際體驗可能因裝置、地點與時間而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查閱最新用戶回饋。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的柬埔寨 eSIM"
-cta_desc: "即時存取 Smart 與 Cellcard 的頂級網路，保留原號碼，無漫遊費。掃描 QR code 即刻啟用。"
-cta_button_text: "立即購買柬埔寨 eSIM"
-cta_button_link: "/cambodia-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "柬埔寨 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
+hero_subtitle_main: "2026 年電信業者比較，建立在獨立速度數據之上"
 
 ---
+
+
+
+
+
+
+柬埔寨 eSIM 所處的市場，既是全球數據最便宜的地方之一，又剛剛踏入 5G——本指南把這兩個問題拆開來談。柬埔寨在兩個方向上同時都是不尋常的 eSIM 市場。行動數據是**全球最便宜之列**——Cable.co.uk 在 237 個國家中把它排在第 5 名，約 **每 GB 0.12 美元**——然而商業 5G 才在 **2026 年 1 月 1 日**開通，電信部當時核准 Smart、Cellcard 和 Metfone 點亮其新網路的第一期。所以「柬埔寨的 5G 夠快嗎？」有一個簡短的答案（為時尚早）和一個有用的答案：現在對柬埔寨 eSIM 真正重要的是 Phnom Penh 和暹粒之外的 4G 一致性，加上知道在機場 SIM 登記是怎麼運作的。
+
+
+
+本指南涵蓋旅客需要的三件事：5G 出現後每家業者現在提供什麼、旅客如何連上網路（包括適用於每張當地 SIM 的護照登記規定），以及覆蓋率真正變薄的地方——寺廟、島嶼和東北部。手機支援是一次的檢查，在我們的[相容性查詢工具](/compatibility/)上完成。
+
+
+
+**簡短回答：** Smart 是柬埔寨要追趕的網路——它在 5G 之前就在全國行動速度上領先（Ookla 2025 年上半年報告中位數 59.76 Mbps），在商業 5G 的第一個完整季度再次領先（2026 年 Q1 全技術中位數 178.14 Mbps）。Cellcard 擁有影片體驗，並繳出最高的初期 5G 速度讀值（輕負載開通季的 5G 下載中位數 548.27 Mbps）。Metfone 是鄉村和邊境省份的專家。Phnom Penh 和暹粒有 5G；其他地方目前跑 4G。出發前安裝[柬埔寨 eSIM](/cambodia-esim/)，完全跳過機場櫃檯。
+
+
+
+## 全國 5G：Smart Axiata、Cellcard 和 Metfone 的 5G 覆蓋比較
+
+
+
+柬埔寨為期五年的 5G 試驗監管暫停於 2024 年結束，2026 年 1 月 1 日，郵電部同時核准 **Cellcard (CamGSM)、Smart (Smart Axiata) 和 Metfone (Viettel Cambodia)** 開通商業 5G。三張網路在開通日啟用了 767 座 5G 站點，並在 3 月初突破 1,500 座，集中在 Phnom Penh 和暹粒，以及約十二個省份的關鍵區域。
+
+
+
+第一個完整季度的測量顯示（Ookla，2026 年 Q1）：
+
+
+
+| 指標 | Smart | Cellcard | Metfone |
+
+|:---|:---|:---|:---|
+
+| 5G 下載中位數 | 336.01 Mbps | **548.27 Mbps** | 217.90 Mbps |
+
+| 5G 可用性 | **31.4%** | 17.9% | 16.1% |
+
+| 全技術下載中位數 | **178.14 Mbps** | 111.56 Mbps | 52.26 Mbps |
+
+
+
+這份數據有兩個誠實的提醒。開通季的 5G 速度偏高，因為幾乎還沒有人用上新網路——Ookla 自己也把這些讀值定位為基線，而不是最終排名。而一成到三成出頭的 5G 可用性告訴你實際的情況：**2026 年柬埔寨的大多數連線仍發生在 4G 上**，而 Smart 自 2025 年初以來每個季度都領先全技術速度指標。
+
+
+
+值得精確說明柬埔寨的新 5G 今年對旅客改變了什麼、沒改變什麼。
+
+
+
+**在 Phnom Penh 和暹粒改變的：** 真正的 5G 速度（開通季中位數在 217 到 548 Mbps 之間）、叫車和視訊通話的更低延遲，以及最密集城區裡 4G 開始吃緊的餘裕。如果你的手機支援 n78，你會在市中心和機場周邊感受到差別。
+
+
+
+**尚未改變的：** 其他所有地方。開通地圖涵蓋兩座旅遊首都加上約十二個省份的關鍵區域；Battambang、海岸和東北部目前跑 4G。而且由於初期 5G 網路負載輕，今天的速度讀值會隨採用成長而回落——用一致性來規劃，而不是用開通季紀錄。
+
+
+
+**實際的數據預算。** 寺廟加城市的行程很輕：地圖、PassApp 叫車、翻譯和社群上傳，一週 3–5 GB 就夠，而全球最便宜數據的基準意味著飯店 Wi-Fi 很少像其他地方那樣是瓶頸。島嶼日是例外——Koh Rong 零散的覆蓋讓離線娛樂比任何方案升級都聰明。如果真的不夠用，多數旅遊數據方案支援從帳戶儀表板一鍵儲值，並注意熱點使用出自同一份餘額——在海岸用筆電一個下午，燒掉的速度比寺廟一週快得多。
+
+
+
+**跨越湄公河邊境。** 柬埔寨的陸路口岸——波貝進泰國、巴域進越南——是僅限柬埔寨的設定檔悄悄失效的地方，而兩個鄰國的櫃台都不賣寬容的單日通行。如果你的行程把曼谷、暹粒和胡志明市串在一起，用一張[泰國 eSIM](/thailand-esim/) 和一張[越南 eSIM](/vietnam-esim/) 來規劃，而不是賭一張設定檔跑完整個環線。
+
+
+
+## 柬埔寨的 5G 覆蓋
+
+
+
+### Smart Axiata 與 Cellcard：哪家柬埔寨業者更快？
+
+
+
+Smart 的領先早於 5G。在 Ookla 的 2025 年上半年柬埔寨報告中，它錄得下載中位數 **59.76 Mbps**、上傳 12.04 Mbps、全國最低延遲 37 ms，以及 90.8% 樣本高於 5 Mbps 下載 / 1 Mbps 上傳的一致性——當你在行進的嘟嘟車上上傳寺廟照片時，這些才是重要的指標。2026 年 Q1 數據顯示同樣的順序延續到 5G 時代：最快的全技術中位數，以及 31.4%、幾乎是兩個對手兩倍的 5G 可用性。
+
+
+
+對旅客來說，Smart 是預設答案：Phnom Penh 和旅遊走廊最強、叫車和導航 App 的延遲最佳，整體覆蓋也最廣。
+
+
+
+### 誰在柬埔寨的速度排行榜上領先？
+
+
+
+Cellcard 是柬埔寨本土運營商，早早投資影片最佳化——其 73.10 的影片串流分數領先 2025 年上半年報告，並在開通季繳出單一最高的 5G 速度讀值，548.27 Mbps 下載中位數。實務上，Cellcard 在 Phnom Penh、暹粒和 Sihanoukville 都是強勁選擇，特別是如果你的夜晚是串流而不只是傳訊息。
+
+
+
+### 柬埔寨的鄉村覆蓋：Smart Axiata 與 Cellcard
+
+
+
+Metfone（Viettel Cambodia）是擁有最深省份和邊境覆蓋的運營商，並補完了開通三強的 5G 地圖。Ookla 的開通季數據把它排在速度第三，但它伸入 Mondulkiri、Ratanakiri 和 Kampot 等省份的 4G 覆蓋，正是它在比較中佔有一席之地的原因：如果你的路線會在柬埔寨鄉村待上真正的時間，以 Metfone 為基礎的覆蓋就是安全網。
+
+
+
+### MekongNet：固網寬頻，不是柬埔寨 eSIM 業者
+
+
+
+MekongNet 常被和這三家一起提起，但它是**固網 ISP**，不是行動業者——它的招牌是全國最快的固網寬頻（下載中位數 54.29 Mbps）。它與柬埔寨 eSIM 的關聯僅在於背景：Phnom Penh 和暹粒的旅館和共同工作空間運行在 MekongNet 這類固網 ISP 上，這就是為什麼你的 eSIM 和住宿 Wi-Fi 是互補，而不是競爭。長住遠端工作者應該圍繞駐地的固網連線做規劃，把 eSIM 留給移動使用。
+
+
+
+柬埔寨的數字在一個季度內改變了性格。郵電部協調了 **Smart Axiata、Cellcard 和 Metfone 於 2026 年 1 月 1 日**同步商業開通，每家運營商使用 **100 MHz 的 3.5 GHz C-band** 頻譜。運營商在**開通日啟用 767 座 5G 站點**，並於**2026 年 3 月初突破 1,500 座**。Ookla 的 2026 年 Q1 測量——第一個完整商業季度——將全國 5G 下載中位數定在 **356.63 Mbps**，比 4G **提升 7.29 倍**，超越幾個遠為成熟的區域 5G 市場。
+
+
+
+### 柬埔寨行程需要多少數據？
+
+
+
+| 指標 | Cellcard | Smart Axiata | Metfone |
+
+|:---|:---|:---|:---|
+
+| 5G 下載中位數 | **548.27 Mbps** | 336.01 Mbps | 217.90 Mbps |
+
+| 5G 可用性 | 17.9% | **31.4%** | 16.1% |
+
+| 全技術下載中位數 | 111.56 Mbps | **178.14 Mbps** | 52.26 Mbps |
+
+
+
+把這三列放在一起讀，故事就反轉了。**Cellcard 有最高的 5G 尖峰；Smart Axiata 有最多的 5G。** Smart 以 31.4% 領先 5G 可用性，幾乎是 Cellcard 17.9% 的兩倍，而且自 2025 年 Q1 起每個季度都領先全技術中位數——一個早於 5G 開通的領先。可用性才是決定你在暹粒走動時手機是否真的在 5G 上的指標，就這一點而言，Smart 是你想要的運營商。
+
+
+
+**Metfone 在價格上低於其他兩家**，效能代價也可測量：52.26 Mbps 的全技術中位數對照 Smart 的 178.14 Mbps。它的 5G 足跡以 16.1% 可用性居三者最窄。寺廟一週它夠用；工作出差它不夠。
+
+
+
+報告本身提出的一個誠實提醒：這些是**輕負載網路上的第一個季度數字**。樣本集中在 Phnom Penh 和暹粒的早期採用者，而速度通常會隨採用擴大和流量累積而下降。把業者排名當作基線，而不是判決——並預期三者的差距會在 2026 年內收窄。
+
+
+
+### 柬埔寨 eSIM 效能站得住的地方，逐路線來看
+
+
+
+| 路線 | 預期情況 | 實用建議 |
+
+|:---|:---|:---|
+
+| Phnom Penh | 全國最密集的 5G 部署 | 重型上傳或視訊通話就在這裡做 |
+
+| 暹粒和 Angkor | 城市和主要寺廟環線周邊有 5G | 石造內部擋掉一切——走出迴廊 |
+
+| Sihanoukville 和海岸 | 城市 4G，5G 陸續抵達 | 渡輪路段訊號變薄；截圖你的船票 |
+
+| Koh Rong 和島嶼 | 最好也只算零散，依賴度假村 Wi-Fi | 上船前下載好娛樂內容 |
+
+| Battambang、Kampot、Kratie | 城鎮內 4G 穩固，鄉間有缺口 | 地圖沒問題，串流不行 |
+
+| 波貝和巴域邊境口岸 | 柬埔寨覆蓋止於界線 | 單國方案死在這裡——見下方邊境說明 |
+
+
+
+## 在柬埔寨連上網路：登記、旅客 SIM 和 eSIM
+
+
+
+柬埔寨的每一張 SIM——旅客或當地——都要求**以護照進行身分登記**。業者的機場櫃台或城市門市在門號啟用前登錄你的護照資料，啟用通常即時完成。實體旅客 SIM 在 Phnom Penh 的 Techo 國際機場和暹粒–Angkor 國際機場的到達大廳業者櫃台販售，預付旅客商品以只有這個市場才開得出來的價格捆綁大量數據。
+
+
+
+旅遊 eSIM 改變的是操作順序而不是結果：登記發生在線上購買時，設定檔在家安裝，門號在你落地時掛上 Smart 或 Cellcard。這在抵達時省下的是真實時間——旺季 Phnom Penh 機場的 SIM 排隊很長，而叫車 App（首推 PassApp）在你一出關的那一刻就需要可用的數據。在家 Wi-Fi 上安裝、讓國內 SIM 保持啟用以收簡訊驗證、把 eSIM 設為數據線——機制見 [eSIM 安裝如何運作](/faq/what-is-esim-activation-and-how-does-it-work/)。
+
+
+
+💡 如果你想先試再買，[Roami 的免費試用 eSIM](/free-esim/) 讓你零成本確認一切正常，現行方案則在[柬埔寨 eSIM 頁面](/cambodia-esim/)上。
+
+
+
+## 你的 eSIM 速度與價格，排名與出處
+
+
+
+2026 年 8 月，Ookla 的 Speedtest Global Index 測得柬埔寨行動下載中位數 **111.9 Mbps**——全球**第 43 名**，延遲 18 ms，高於全球中位數 109.05 Mbps。旅遊 eSIM 用的正是這套基礎設施。這裡沒有任何數字只靠單一來源站立；每個都至少有一個備援。
+
+
+
+Cable.co.uk 把 1 GB 柬埔寨行動數據定價約 **0.12 美元**——**237 個市場中第 5 名**，對照全球平均 2.59 美元，這讓柬埔寨成為地球上最便宜的數據市場之一。這個便宜是你旅遊 eSIM 對比的基準：eSIM 的賣點是便利和即時設定，而不是對當地預付卡的價差套利。
+
+
+
+DataReportal 的柬埔寨 2025 年數據顯示 1,080 萬網路用戶（人口的 60.7%）和 2,530 萬個連線——143%——一個 SIM 數量輕鬆超過人口的市場。
+
+
+
+## 你的 eSIM 覆蓋：Phnom Penh、暹粒和海岸
+
+
+
+| 目的地 | 最佳業者 | 為什麼可行 |
+
+|:---|:---|:---|
+
+| Phnom Penh | Smart | 全國最密集的 5G 足跡、最高全技術速度、PassApp 和外送 App 的最低延遲。尖峰時段預期河岸和市場周邊擁塞。 |
+
+| 暹粒和 Angkor | Smart、Cellcard | 5G 在開通階段即抵達暹粒。Cellcard 的影片表現適合漫長夜晚；Smart 保有較強的整體足跡。寺廟內部在每張網路上都擋訊號——園區整體沒問題。 |
+
+| Sihanoukville 和島嶼 | Smart、Cellcard | 海濱度假村和城市覆蓋良好。Koh Rong 和 Koh Rong Samloem 零散——島嶼是 4G 覆蓋不再理所當然的地方。 |
+
+| Battambang 和西北部 | Smart | 覆蓋跟著城鎮和國道走；聚落之間出現長缺口。 |
+
+| Kampot、Kep 和南部海岸 | Metfone、Smart | Metfone 的省份深度顯現在較小的南部城鎮；海岸公路有死段。 |
+
+| Mondulkiri 和 Ratanakiri | Metfone | 東北部是柬埔寨最難的覆蓋。城鎮裡有訊號；鎮間道路是離線路段。 |
+
+
+
+## 出發前安裝你的 eSIM
+
+
+
+這個流程中沒有任何一步需要門市、護照或簽名。訂購設定檔、以電子郵件收貨、在設定中加入，然後為該線開啟數據漫遊。在家做，而不是在 Phnom Penh 的到達 Wi-Fi 上——那個 Wi-Fi 能用但慢到你不會想在上面除錯設定檔。[在 iOS 或 Android 上開通 eSIM](/faq/how-to-activate-an-esim/) 另有專文說明。
+
+
+
+兩項柬埔寨特有檢查能解決大多數「裝了卻連不上」的情況。第一，數據漫遊：設定檔必須被允許漫遊到當地網路，而這個開關是最常見的元兇。第二，網路選擇：如果手機猶豫不決，從網路清單手動選擇業者（依你的方案選 Smart 或 Cellcard），而不是等自動選擇。如果都無效，更廣泛的原因目錄在我們的 [eSIM 問題排解指南](/faq/esim-activation-errors-troubleshooting-guide/)中。
+
+
+
+寺廟日的另一個實用提示：Angkor 的石塊對訊號做的事，和它們當年對圍城做的事一樣。預期各大寺廟內部對每張網路都是死區，而園區道路、城鎮和飯店則有紮實 4G 和成長中的 5G。
+
+
+
+## 頻段、手機與柬埔寨 eSIM 相容性問題
+
+
+
+| 技術 | 使用頻段 | 對你手機的意義 |
+
+|:---|:---|:---|
+
+| 4G LTE | 1800 MHz (B3)、2600 MHz (B7) | 承載柬埔寨大部分流量的兩個頻段；中國以外販售的手機幾乎都有 |
+
+| 4G LTE（覆蓋距離） | 900 MHz (B8) | 鄉村和省份覆蓋，包括 Metfone 較廣的鄉村足跡 |
+
+| 5G | 3.5 GHz C-band (n78) | 三家運營商都於 2026 年 1 月在 n78 開通；2020 年之後的旗艦或中階 5G 手機都涵蓋 |
+
+| 傳統網路 | 2100 MHz UMTS、GSM 900/1800 | 語音備援；部分舊裝置在室內仍鎖定其上 |
+
+
+
+n78 是唯一值得檢查的要求。許多在 5G 使用其他頻段的市場販售的手機完全沒有它——它們在 4G 上完美運作，卻永遠不會在柬埔寨顯示 5G 圖示。把你的確切型號跑一遍 [eSIM 相容性檢查器](/compatibility/)，而不是靠規格表猜。
+
+
+
+## 若需要 APN
+
+
+
+只有直接購買柬埔寨門號才相關。旅遊 eSIM 自帶設定檔。
+
+
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+
+|:---|:---|:---|:---|
+
+| Cellcard | `cellcard` | 留空 | 留空 |
+
+| Smart Axiata | `smart` | 留空 | 留空 |
+
+| Metfone | `metfone` | 留空 | 留空 |
+
+
+
+這些值就是小寫的業者名稱，這也是為什麼人們總以為不可能是這個答案。使用者名稱和密碼留空，驗證設為 PAP 或 CHAP，儲存，然後把飛航模式切十秒鐘以強制重新註冊。
+
+
+
+- **iPhone：** 設定 → 行動網路（Cellular）→ 柬埔寨線 → 行動數據網路 → APN（使用者名稱和密碼欄位保持空白）。
+
+- **Android：** 設定 → 行動網路 → 存取點名稱 → **+** → 以小寫輸入業者名稱並儲存。
+
+
+
+兩個柬埔寨特有怪癖值得知道。有些手機會收到**不完整的自動設定檔**，產生經典的「滿格訊號、什麼都載不動」症狀——手動輸入 APN 能修好。另外在雙 SIM 裝置上，確認承載數據的是柬埔寨設定檔，而不是你的國內線。
+
+
+
+## 當地 SIM 與旅遊 eSIM：成本算術
+
+
+
+| 步驟 | 發生什麼 |
+
+|:---|:---|
+
+| 購買 | 機場到達大廳櫃台、業者門市、便利商店和街頭亭子。機場較貴且省事；城鎮較便宜 |
+
+| 登記 | 登記是強制且被執行的：銷售點上你的護照被輸入業者系統 |
+
+| 價格形狀 | 入門 SIM 加短天數數據組合只要幾美元；一週舒適使用是其小倍數 |
+
+| 啟用 | 店員通常當場安裝並啟用。離開前檢查 APN |
+
+| 儲值 | 商店和亭子的儲值券，或業者 App |
+
+
+
+改變算術的是登記規定。它意味著護照是硬性要求、市場攤位的 SIM 登記在你名下而非匿名，也意味著你在隊伍裡耗掉的十分鐘無可避免。旅遊 eSIM 完全跳過排隊——對寺廟加島嶼的行程，這通常是正確的交易。
+
+
+
+## 為你的旅程選出最佳柬埔寨 eSIM 業者：Smart Axiata 與 Cellcard
+
+
+
+| 旅程 | 一般長度 | 舒適的流量額度 | 原因 |
+
+|:---|:---|:---|:---|
+
+| Phnom Penh 城市小旅行 | 3–4 天 | 3–5 GB | 飯店 Wi-Fi 覆蓋夜晚 |
+
+| Angkor 和暹粒| 4–5 天 | 4–6 GB | 寺廟日燒地圖、照片同步和嘟嘟車 App |
+
+| Phnom Penh 加海岸 | 7–10 天 | 8–12 GB | 兩次轉乘、渡輪訂票、島上沒有可靠 Wi-Fi |
+
+| Koh Rong 島嶼週 | 5–7 天 | 4–6 GB | 離線娛樂勝過更大的方案 |
+
+| 遠端工作兩週 | 14 天 | 20 GB 以上 | 視訊通話需要頻寬也需要城市據點 |
+
+
+
+## 柬埔寨的 eSIM 業者：Smart Axiata、Cellcard 和 Metfone
+
+
+
+| # | 檢查項目 | 「正常」的樣子 |
+
+|:---|:---|:---|
+
+| 1 | 手機未上鎖 | 設定 → 關於本機顯示「無 SIM 卡限制」 |
+
+| 2 | eSIM 硬體存在 | 撥 `*#06#` 時出現 EID |
+
+| 3 | QR 碼保存在兩處 | 截圖存在手機上和雲端儲存中 |
+
+| 4 | 出發前已安裝設定檔 | 走家中 Wi-Fi，不是機場 Wi-Fi |
+
+| 5 | 數據線與漫遊已設定 | eSIM 承載行動數據，該線的數據漫遊已開啟 |
+
+
+
+**故障 1——完全裝不了。** 兩個元兇是有電信鎖的手機，和已經用過一次的 QR 碼。一次性代碼無法重掃，所以要求重新核發，而不是反覆重試。
+
+
+
+**故障 2——裝了卻永遠不註冊。** 給射頻一次乾淨的掃描：開飛航模式、數十五秒、關閉。然後打開網路選擇，手動選 **Smart Axiata、Cellcard 或 Metfone**，因為自動選擇可能落在它守不住的省份基地台上。兩次嘗試之間重新開機。
+
+
+
+**故障 3——有訊號格但什麼都載不動。** 這是 APN 不完整的模式。確認 eSIM 是數據線、對照上表驗證 APN，之後才考慮其他原因。
+
+
+
+**故障 4——手機顯示「僅限緊急電話」。** 兩個設定檔搶一個射頻是常見原因。關掉第二個、重新開機、重設網路設定，全新安裝放最後一步。
+
+
+
+超出這四種的情況收錄在[疑難排解目錄](/faq/esim-activation-errors-troubleshooting-guide/)中，而通用安裝順序見[開通逐步指南](/faq/how-to-activate-an-esim/)。
+
+
+
+## 柬埔寨的寺廟與島嶼行程，逐日連線
+
+
+
+全國 5G 的頭條數字既亮眼又狹窄：它們描述的是 2026 年 1 月 1 日才商業化的網路上的 Phnom Penh 和暹粒。真實的兩週行程會把大部分時間花在這兩座城市之外，所以以下是最多旅客走的路線上連線的實際表現。
+
+
+
+| 天數 | 你在哪裡 | 數據現實 | 應對方式 |
+
+|:---|:---|:---|:---|
+
+| 1 | 抵達 Phnom Penh | 5G，全國最密集的部署 | 什麼都不用裝——設定檔已生效；只需測 APN |
+
+| 2–3 | Phnom Penh、Tuol Sleng、王宮 | 全程全速 5G | 重型上傳在這裡做，不要留到海岸 |
+
+| 4 | 前往暹粒的路途，5–6 小時 | 城鎮有 4G，公路有缺口 | 出發前下載整條路線的離線地圖 |
+
+| 5–7 | Angkor、Banteay Srei、Tonle Sap | 城市和主要環線周邊有 5G | 石造迴廊擋訊號——走出寺廟 |
+
+| 8 | 暹粒到 Sihanoukville，飛機或公路 | 搭機乾淨俐落；公路有漫長鄉村路段 | 若開車，截圖旅舍地址和電話 |
+
+| 9–10 | Sihanoukville 和 Otres | 城市 4G，5G 陸續抵達 | 渡輪訂票在碼頭需要數據——前一晚做好 |
+
+| 11–13 | Koh Rong 或 Koh Rong Sanloem | 最好也只算零散，依賴度假村 Wi-Fi | 上船前下載電影、音樂和地圖 |
+
+| 14 | 回程，或邊境 | 覆蓋止於波貝或巴域| 若行程續行，為泰國或越南準備第二張設定檔 |
+
+
+
+要內化的模式是：柬埔寨的連線是**前重後輕**的。你停留時間最少的兩座城市擁有最好的網路，而你要放鬆的海岸和島嶼擁有最弱的。實務上，這意味著上傳要趁早——一週的寺廟照片從暹粒同步，成本只是從只有一條共用衛星連線的島嶼做同樣工作的零頭。
+
+
+
+有兩個具體陷阱值得點名。**船埠和渡輪碼頭**是必須確認訂位的地方，而斷線的代價是下一班船的位子，所以前一晚確認交通，而不是開船前十分鐘。以及 **波貝和巴域的陸路邊境**是單國設定檔無預警失效的地方——如果路線把曼谷、暹粒和胡志明市串在一起，我們的[泰國 eSIM 指南](/carriers/thailand-esim-carrier-guide/)和[越南 eSIM 頁面](/vietnam-esim/)涵蓋兩側的路段。
+
+
+
+### 可以向 Smart Axiata 買柬埔寨 eSIM 嗎？
+
+
+
+許多旅客把柬埔寨和鄰國搭配，而這個決定比行銷暗示的簡單。
+
+
+
+| 你的行程 | 該買什麼 | 為什麼 |
+
+|:---|:---|:---|
+
+| 只去柬埔寨 | 柬埔寨 eSIM | 每 GB 最佳價格，且沒有你用不到的覆蓋 |
+
+| 柬埔寨加泰國或越南 | 東南亞區域方案 | 一次安裝涵蓋整個環線，邊境不再構成問題 |
+
+| 柬埔寨加繞道其他地方 | 每段行程一張單國設定檔 | 區域組合包含的國家各有差異 |
+
+
+
+陷阱是為三國環線買了單國設定檔，然後在巴域或波貝過境時才發現。如果路線會繞回自己身上，區域方案在簡單性上勝出，即使貴一點點。
+
+
+
+## 常見問題
+
+
+
+### Smart Axiata 與 Cellcard 5G：在柬埔寨哪家更好？
+
+
+
+不適用此問法。商業 5G 於 2026 年 1 月 1 日在 Phnom Penh、暹粒和約十二個其他省份的關鍵區域開通，建設在 2026 年持續推進。開通區域之外，你的 eSIM 跑 4G——鑑於 Smart 90.8% 的一致性分數，這沒有聽起來像降級。
+
+
+
+### 我的手機能裝柬埔寨 eSIM 嗎？
+
+
+
+能——iPhone XS 及之後的機型都能順利安裝柬埔寨設定檔，Google Pixel 3+ 和近期的 Samsung Galaxy 裝置也是。手機必須沒有電信鎖。購買前對照我們的[相容性表](/compatibility/)確認確切型號。
+
+
+
+### WhatsApp 語音通話在柬埔寨接得通嗎？
+
+
+
+接得通。純流量的柬埔寨 eSIM 用你現有的號碼跑 WhatsApp、Telegram 和 App 驗證，因為你的國內 SIM 在實體卡槽保持啟用以收簡訊。只有數據流量移到 eSIM。銀行 OTP 繼續落在你的原門號上，所以把它的漫遊關掉以避免意外帳單。
+
+
+
+### 匿名 SIM 在柬埔寨合法嗎？
+
+
+
+登記要求附著於當地 SIM 的啟用；在國外核發的旅遊 eSIM 設定檔完全繞過親辦流程，這正是機場櫃台和 eSIM 結帳體驗差那麼多的原因。相對地，當地旅客 SIM 在櫃台需要你的護照——無論如何都帶著，反正出入境也要用。
+
+
+
+### 柬埔寨 eSIM 設定，逐步說明
+
+
+
+城市裡可以。Smart 的 37 ms 延遲（2025 年上半年）對即時遊戲和視訊通話非常出色，5G 建設正在進一步壓低 Phnom Penh 的延遲。在鄉村省份，預期視訊通話會起伏，遊戲最好留在城鎮裡玩。
+
+
+
+### 柬埔寨 eSIM 開通，逐步說明
+
+
+
+多數情況可以，方法是重新掃描保存在你帳戶中的原始 QR 碼。如果代碼遺失，客服可以重新核發。首次安裝前先截圖 QR——不用花一分錢，卻省掉一整類客服工單。
+
+
+
+### 在柬埔寨圍繞 5G 來規劃值得嗎？
+
+
+
+值得，而且暹粒是正確的據點，因為它在 2026 年 1 月 1 日就處於第一波 5G 開通階段。15–20 GB 的方案涵蓋兩週的視訊通話、上傳和地圖使用，旅舍 Wi-Fi 吸收重型傳輸。你不能指望的是走省道的日子：離開通區域越遠，連線越多回落到 4G。
+
+
+
+### Smart Axiata 與 Cellcard：在柬埔寨哪家更好？
+
+
+
+對多數旅客是 Smart Axiata：它以 31.4% 領先 5G 可用性，以 178.14 Mbps 領先全技術中位數，這個領先自 2025 年 Q1 起每季都在。Cellcard 繳出全國最高的 5G 尖峰 548.27 Mbps，Metfone 則是以 52.26 Mbps 全技術中位數作為預算選項。
+
+
+
+### 5G 在柬埔寨哪裡表現最好？
+
+
+
+因為尖峰和一致性是兩回事。Cellcard 的 548.27 Mbps 5G 下載中位數是在輕負載、少數用戶爭奪容量的網路上測得的。Smart 的 5G 對更大比例的用戶可用——31.4% 對 17.9%——這才是你在城市裡走動時感受得到的東西。Ookla 自己的判讀是這些第一個季度的數字是基線，會隨採用成長而壓縮。
+
+
+
+### 柬埔寨的 5G 領跑者
+
+
+
+預期它們會下降。2026 年 Q1 的 356.63 Mbps 中位數反映的是兩座城市裡、剛建成 C-band 站點上的早期採用者用戶群；隨著更多手機掛上和流量累積，中位數通常會向區域常態回落。實際後果是：今天買的方案在 2026 年的表現，會比同一張方案在 2028 年的表現好。
+
+
+
+### 柬埔寨 eSIM 在哪裡販售
+
+
+
+Phnom Penh 機場、市內的業者門市，以及 Central Market 和 Psar Thmei 周邊的手機攤都賣預付入門包，通常是 Smart 或 Cellcard 旅客組合，櫃台以護照登記。價格低、隊伍以區域標準來說也短；多數旅客跳過它的原因是旅遊設定檔早已在家裝好。
+
+
+
+### Smart Axiata、Cellcard 和 Metfone eSIM 的 APN 值
+
+
+
+如果你買的是旅遊 eSIM，不需要——設定檔自帶 APN。如果你直接向業者購買，值分別是 `cellcard`、`smart` 和 `metfone`，全部小寫，使用者名稱和密碼留空。不完整的自動設定檔是「滿格訊號、什麼都載不動」的常見原因。
+
+
+
+### 柬埔寨的鄉村和偏遠覆蓋
+
+
+
+Phnom Penh 和暹粒裡相當充裕：那裡的 5G 中位數遠高於視訊通話所需，而 Smart 的 178.14 Mbps 全技術中位數即使在 4G 上也很慷慨。島嶼和省城則請圍繞不可靠的連線來規劃，而不是快速的連線。
+
+
+
+### 柬埔寨 eSIM 在泰國和越南也能用嗎？
+
+
+
+不能——單國設定檔止於邊境。柬埔寨在波貝（往泰國）和巴域（往越南）的陸路口岸，正是行程中途把人困住的地方。如果路線續行，比較一張[泰國 eSIM 方案](/thailand-esim/)和[越南 eSIM 選項](/vietnam-esim/)。
+
+
+
+### 柬埔寨數據方案的構成
+
+
+
+四到六 GB 能很從容地涵蓋五天的暹粒停留——地圖、嘟嘟車 App、照片備份和訊息，夜晚由飯店 Wi-Fi 承擔。寺廟環線本身有覆蓋，但石造迴廊擋訊號，所以離線地圖仍值得下載。
+
+
+
+### 柬埔寨價格檢查：當地與旅遊 eSIM
+
+
+
+你可以在 Phnom Penh 或暹粒的到達大廳買到已登記的實體 SIM，店員通常會替你設定好。向柬埔寨業者買 eSIM 比實體路線更難預測；出發前裝好的旅遊 eSIM 則完全避開這個問題。
+
+
+
+### Metfone 對一般度假夠好嗎？
+
+
+
+訊息、地圖和瀏覽來說夠，而且它有三者中最廣的鄉村足跡。其 52.26 Mbps 全技術中位數和 16.1% 的 5G 可用性在城市裡明顯落後 Smart 和 Cellcard，所以它更適合省份行程而不是城市行程。
+
+
+
+### 島嶼上 Smart Axiata 還是 Cellcard 更好？
+
+
+
+兩者都不能可靠到達島嶼——Koh Rong 和 Koh Rong Sanloem 在三家運營商的開通足跡之外，所以度假村 Wi-Fi 才是實際的連線，eSIM 是備援。Smart Axiata 較高的 31.4% 5G 可用性，讓它在進島的陸路段和 Sihanoukville 周邊佔優。
+
+
+
+### 哪張柬埔寨 eSIM 適合你的行程
+
+
+
+可以。僅限柬埔寨的設定檔在波貝口岸就失效，而在邊境買泰國門號既不快也不便宜。要嘛出發前直接買東南亞區域方案，要嘛為每個國家攜帶獨立設定檔。
+
+
+
+### 柬埔寨 5G，逐網路來看
+
+
+
+可能沒有 2026 年 Q1 數字暗示的那麼快，而這是預期中的事，不是警訊。356.63 Mbps 的全國中位數是在剛建成的 C-band 站點上、小規模早期採用者群中測得的；Ookla 自己的判讀是速度會隨採用擴大而下降。業者排名也應該會收窄。
+
+
+
+### 柬埔寨有多少 5G 站點？
+
+
+
+運營商在 2026 年 1 月 1 日開通日於三張網路啟用 767 座 5G 站點，並於 2026 年 3 月初突破 1,500 座——建設聚焦 Phnom Penh 和暹粒，而非全國覆蓋。
+
+
+
+### 省錢的柬埔寨方案
+
+
+
+每 GB 而言，是的，通常便宜一半以上。差別在於登記隊伍：一本護照、一個櫃台和一位輸入你資料的店員，這在三天行程上是真實成本，在三週行程上則是輕鬆省下。
+
+
+
+### 柬埔寨 eSIM 方案價格
+
+
+
+出發前買，除非你喜歡在機場櫃台討價還價。柬埔寨的登記要求意味著抵達後購買是一道交易手續而非單純購買，而你在家安裝的設定檔在飛機落地的第二秒就能運作。不過，如果你需要柬埔寨門號來打電話，當地路線是唯一能提供它的。
+
+
+
+### 柬埔寨 eSIM 允許熱點共享嗎？
+
+
+
+幾乎總是允許，且出自同一份額度而非另計。在島嶼上，度假村 Wi-Fi 又共享又慢，把筆電接到你自己的連線往往比飯店的網路快——直到你撞上方案的公平使用上限。
+
+
+
+### 哪家柬埔寨業者的鄉村覆蓋最廣？
+
+
+
+歷史上是 Metfone，憑藉其 Viettel 支撐的全省建設，而這份鄉村覆蓋正是它在 Phnom Penh–暹粒走廊之外仍是合理選擇的原因，儘管其全技術中位數只有 52.26 Mbps。
+
+
+
+### 在柬埔寨主動追求 5G 值得嗎？
+
+
+
+在 356.63 Mbps 的全國中位數和 Cellcard 網路上的 548.27 Mbps 面前，值得——它對照片備份和大檔下載是真正的變革性提升，而且正好集中在多數旅客度過最初幾天的兩座城市裡。
+
+
+
+### 柬埔寨設定檔該在登機前還是落地後開啟？
+
+
+
+在家安裝，然後保持關閉直到你落地。出發前幾天在自己 Wi-Fi 上花十分鐘，比在機場頻寬上除錯 QR 碼是更好的時間運用，而設定檔在看到柬埔寨網路之前處於休眠——所以提早載入沒有任何損失。
+
+
+
+### 一次性密碼還會送到我的原門號嗎？
+
+
+
+會，前提是你讓平常的線留在實體 SIM 上、讓 eSIM 只處理數據。銀行和訂房驗證碼繼續落在它們一直在的地方，WhatsApp 也保留你註冊的號碼。行不通的是期待打到 eSIM 數據線的來電——它沒有語音服務。
+
+
+
+### Smart Axiata 與 Cellcard 價格比較
+
+
+
+每 GB 而言，有時。以你假期的每小時而言，不。機場櫃台賣的旅客包看起來很誘人，直到你把隊伍、護照影本和啟用等待算進去，而柬埔寨的數據本來就是全球最便宜之列，約每 GB 0.12 美元——這正是旅遊設定檔定價的基準。只有當你需要為長期停留準備柬埔寨門號時才值得。
+
+
+
+### 我在 Koh Rong 上流量用完了怎麼辦？
+
+
+
+從供應商的儀表板延長，同一張設定檔繼續運作——不需要新 QR 碼，不需要重新安裝。Koh Rong 和 Koh Rong Sanloem 的島上 Wi-Fi 零散到你不能指望在察覺的那一刻就儲值，所以上船前給自己留一 GB 的餘裕。
+
+
+
+### Smart Axiata 旅客 eSIM 方案
+
+
+
+涵蓋。單一 [柬埔寨 eSIM](/cambodia-esim/) 在 Smart、Cellcard 和 Metfone 之間漫遊，所以暹粒周邊的寺廟環線和南部島嶼都掛在最強的可用訊號上，你不用碰任何設定。把額度圍繞島嶼段來規劃，那裡的備援 Wi-Fi 最弱、串流的誘惑最高。
+
+
+
+## 本頁柬埔寨數字的來源
+
+
+
+柬埔寨的數字來自四個公開來源。5G 開通細節——2026 年 1 月 1 日的日期、首日啟用的 767 座站點，以及第一季度的各業者中位數——來自 [Ookla 的湄公河 5G 分析](https://www.ookla.com/articles/mekong-5g-q1-2026)，開通日期和第一期省份則與 [The Star 對 MPTC 宣布的報導](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/12/31/cambodia-to-roll-out-5g-mobile-services-from-jan-1-2026)交叉核對。
+
+
+
+111.9 Mbps 的全國中位數和柬埔寨第 43 名的排名來自 [Ookla 的每月 Global Index](https://www.speedtest.net/global-index/cambodia)。每 GB 0.12 美元來自 [Cable.co.uk 的 237 市場調查](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)，1,080 萬網路用戶和 2,530 萬連線來自 [DataReportal 的 Digital 2025 條目](https://datareportal.com/reports/digital-2025-cambodia)。
+
+
+
+這些都不是我們自己的測量。開通季的中位數告訴你網路能做到什麼，而不是你落地那天它會做什麼。
+
+
+
+## 出發前把柬埔寨設定好
+
+
+
+你旅程的第一個可用訊號不該是機場 Wi-Fi。出發前安裝，設定檔在你出 Phnom Penh 海關之前就已生效。
+
+
+
+首次購買的客戶可以[從免費柬埔寨試用開始](/free-esim/)，付費分級——純流量和無限流量皆是——則在[柬埔寨 eSIM 頁面](/cambodia-esim/)上。
+
+
+
+[立即購買柬埔寨 eSIM](/cambodia-esim/)
+
+
+
+*新客戶可先免費試用*
+
+
+
+想付費前先比較？Roami 的[免費入門 eSIM](/free-esim/) 在柬埔寨涵蓋與上述業者相同的地盤，而 **WEB20** 讓你的第一個完整方案省 20%。對相容性有任何疑慮？[檢查器](/compatibility/)一分鐘就能釐清。
+

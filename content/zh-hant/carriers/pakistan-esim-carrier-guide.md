@@ -1,297 +1,1124 @@
 ---
-title: "計劃去巴基斯坦旅行？先搞懂 eSIM 怎麼選最適合您。"
-description: "Roami 仔細評測了 Jazz、Zong 和 PTCL Flash Fiber 在巴基斯坦的 5G 效能表現，從市區到郊區的覆蓋狀況一一分析，幫您找到最適合巴基斯坦旅行的上網方案。"
-date: "2026-06-17T06:15:09+00:00"
 
-keywords: "eSIM 巴基斯坦，預付數據，5G 網路，Jazz，Zong，PTCL Flash Fiber，Transworld，Ookla Speedtest"
-site_name: "Roami"
-brand_name: "Roami"
+
+title: "巴基斯坦 eSIM 怎麼挑？Jazz、Zong、Transworld 比較"
+
+
+description: "巴基斯坦 eSIM 要辦哪一家電信業者？Roami 將 Jazz 與 Zong 一較高下，比較實測 5G 網速、城市覆蓋率與全國旅行路線上的表現，整理預付資費、申辦規定與 APN 設定，從伊斯蘭瑪巴德到喀喇蚩，幫你選對 eSIM，南北行程都順。"
+image: "img/esim/carriers/pakistan-esim-carrier-guide.jpg"
+
+
+date: "2026-09-24T05:22:40+00:00"
+
+
+keywords: eSIM 巴基斯坦, 巴基斯坦 eSIM 電信業者, 巴基斯坦 eSIM 營運商, 預付數據, 5G 網路, Jazz, Zong, PTCL Flash Fiber, Transworld, travel eSIM, 熱點共享
+
+
+site_name: Roami
+
+
+brand_name: Roami
+
+
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "巴基斯坦 eSIM 指南"
-    url: ""
 
-# Hero 區塊文案
-hero_badge: "🇵🇰 巴基斯坦 最新旅遊 eSIM 指南"
-hero_subtitle_main: "巴基斯坦 eSIM：全國高速覆蓋"
-hero_subtitle_highlight: "Jazz 與 Zong 頂級 5G 覆蓋"
-hero_description_line1: "選擇 巴基斯坦 eSIM，抵達後即可連接高速 5G 網路。相容 iPhone 與 Android，為旅行、工作或學習提供穩定網路，節省您的時間與金錢。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "巴基斯坦 eSIM"
-hero_link_url: "/pakistan-esim/"
-tldr_summary: "【告別高額漫遊費：多裝置無限數據 5G 方案】前往巴基斯坦，告別昂貴的國際漫遊費。Roami 提供多裝置共享的無限數據 5G eSIM 方案，讓您與旅伴同時高速上網。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025) 數據，Jazz 以 24.13 Mbps 中位下載速度奪冠，Zong 則提供最佳遊戲體驗。選擇 Roami 巴基斯坦 eSIM，享受頂級網路效能，省錢又省心。"
 
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "巴基斯坦 eSIM 快速連結"
-sidebar_links:
+- name: Roami
 
-  - href: "#quick-picks"
-    text: "快速選擇：巴基斯坦 該選哪家 eSIM 營運商？"
 
-  - href: "#operators"
-    text: "巴基斯坦 最佳行動 eSIM 營運商總覽"
+  url: /
 
-  - href: "#city-guide"
-    text: "城市指南：巴基斯坦 最佳 eSIM"
 
-  - href: "#before-buy"
-    text: "購買 巴基斯坦 eSIM 前須知"
+- name: 巴基斯坦 eSIM 指南
 
-  - href: "#faq"
-    text: "巴基斯坦 eSIM 常見問題"
 
-  - href: "#myths"
-    text: "巴基斯坦 eSIM 迷思與事實"
+  url: ''
 
-  - href: "#data-sources"
-    text: "數據來源"
 
-# 快速決策表格
-quick_picks_title: "快速選擇：巴基斯坦 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
+hero_badge: "巴基斯坦 eSIM 正面對決：Jazz 對決 Zong"
 
-  - "您的旅行風格"
 
-  - "推薦營運商"
+hero_subtitle_main: "以數據為先解析巴基斯坦的行動網路"
 
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Jazz"
-    carrier_class: "text-red-600"
-    reason: "Jazz 是巴基斯坦最快的行動網路，中位下載速度達 24.13 Mbps，上傳 8.89 Mbps，延遲僅 48 ms，適合長時間視訊會議與大量檔案傳輸。"
-
-  - travel: "遊戲玩家"
-    carrier: "Zong"
-    carrier_class: "text-green-600"
-    reason: "Zong 提供最佳行動遊戲體驗，低延遲與高穩定性讓您暢玩線上遊戲不卡頓。"
-
-  - travel: "家庭旅行者"
-    carrier: "PTCL Flash Fiber"
-    carrier_class: "text-blue-600"
-    reason: "PTCL Flash Fiber 在 ISP 中擁有最佳遊戲體驗，適合飯店或民宿內多人同時串流影音與遊戲。"
-
-  - travel: "商務旅客"
-    carrier: "Transworld"
-    carrier_class: "text-purple-600"
-    reason: "Transworld 是巴基斯坦最快的固網 ISP，中位下載 34.86 Mbps、上傳 30.5 Mbps，適合需要穩定高速連線的商務工作。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 巴基斯坦 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "jazz-esim"
-    title: "Jazz eSIM 總覽：最快行動網路"
-    best_for: "此方案絕對是最佳選擇，適合追求極速下載與上傳的用戶。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)，Jazz 在 2H 2025 期間為巴基斯坦最快行動網路。\n- **下載速度**：中位下載速度 24.13 Mbps。\n- **上傳速度**：中位下載速度 8.89 Mbps。\n- **延遲**：最低延遲 48 ms。\n- **Speed Score**：42.14。\n- **Speedtest Connectivity Score**：59.83（最佳行動網路）。\n- **影片體驗**：影片串流分數 68.46（最佳行動影片體驗）。"
-    arcep_note: "經當地電信主管機關確認，Jazz 持有完整營運執照，並持續擴展 5G 覆蓋。"
-    connect_note: "啟用過程順暢，掃描 QR code 即可連線，支援多數現代手機。"
-    user_scenarios: "- **[拉合爾古城]**：在巴德夏希清真寺與拉合爾堡打卡上傳，Jazz 的高速上傳讓您即時分享。\n- **[喀拉蚩市區]**：在繁忙的商業區進行視訊會議，低延遲確保通話清晰。\n- **[伊斯蘭堡山區]**：在馬格拉山國家公園導航與串流，Jazz 覆蓋穩定。"
-    bg_color: "bg-red-50"
-
-  - id: "zong-esim"
-    title: "Zong eSIM 總覽：最佳遊戲體驗"
-    best_for: "此方案絕對是最佳選擇，適合手遊玩家與需要低延遲的用戶。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)，Zong 提供最佳行動遊戲體驗。\n- **下載速度**：中位下載速度 20.5 Mbps。\n- **一致性**：86.2% 樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻，為最一致網路。\n- **遊戲體驗**：最佳行動遊戲體驗。"
-    arcep_note: "經當地電信主管機關確認，Zong 持續投資遊戲優化與低延遲技術。"
-    connect_note: "啟用過程順暢，掃描 QR code 即可連線，支援多數現代手機。"
-    user_scenarios: "- **[喀拉蚩海邊]**：在克利夫頓海灘玩手遊，Zong 的低延遲讓您順暢對戰。\n- **[拉合爾美食街]**：排隊時玩遊戲打發時間，穩定連線不中斷。\n- **[伊斯蘭堡咖啡廳]**：與朋友連線對戰，享受最佳遊戲體驗。"
-    bg_color: "bg-green-50"
-
-  - id: "ptcl-flash-fiber-esim"
-    title: "PTCL Flash Fiber eSIM 總覽：最佳 ISP 遊戲體驗"
-    best_for: "此方案絕對是最佳選擇，適合飯店或民宿內多人同時使用。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)，PTCL Flash Fiber 在 ISP 中提供最佳遊戲體驗。\n- **遊戲體驗**：最佳 ISP 遊戲體驗。"
-    arcep_note: "經當地電信主管機關確認，PTCL Flash Fiber 為主要固網寬頻供應商。"
-    connect_note: "啟用過程順暢，掃描 QR code 即可連線，支援多數現代手機。"
-    user_scenarios: "- **[伊斯蘭堡飯店]**：在飯店房間內串流 4K 影片與進行線上會議。\n- **[拉合爾民宿]**：與家人共享網路，多人同時上網不卡頓。\n- **[喀拉蚩商務旅館]**：進行大型檔案上傳與下載，穩定高速。"
-    bg_color: "bg-blue-50"
-
-  - id: "transworld-esim"
-    title: "Transworld eSIM 總覽：最快固網 ISP"
-    best_for: "此方案絕對是最佳選擇，適合需要極速上傳的內容創作者。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)，Transworld 是巴基斯坦最快 ISP。\n- **下載速度**：中位下載速度 34.86 Mbps。\n- **上傳速度**：中位下載速度 30.5 Mbps。"
-    arcep_note: "經當地電信主管機關確認，Transworld 專注於企業與高階住宅寬頻。"
-    connect_note: "啟用過程順暢，掃描 QR code 即可連線，支援多數現代手機。"
-    user_scenarios: "- **[伊斯蘭堡工作室]**：上傳高畫質影片到雲端，30.5 Mbps 上傳速度大幅縮短時間。\n- **[拉合爾辦公室]**：進行大數據備份與遠端協作。\n- **[喀拉蚩豪宅]**：享受流暢的 4K 串流與線上遊戲。"
-    bg_color: "bg-purple-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 巴基斯坦 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 巴基斯坦 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 巴基斯坦 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 巴基斯坦 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段與裝置相容性"
-    content: "巴基斯坦主要營運商（Jazz、Zong、Telenor、Ufone）使用 4G 頻段 B1 (2100)、B3 (1800)、B5 (850)、B8 (900)、B40 (2300) 等。5G 則以 n78 (3500) 為主。購買 eSIM 前請確認您的裝置支援這些頻段，尤其是非亞洲版本手機。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "巴基斯坦電信法規要求所有 SIM 卡（含 eSIM）必須進行實名認證（KYC）。外國旅客需提供護照影本與入境章頁面。部分 eSIM 供應商會預先完成認證，但建議您保留護照掃描檔以備查驗。"
-
-  - heading: "3. 公平使用政策（FUP）與每日用量限制"
-    content: "多數巴基斯坦 eSIM 方案設有每日公平使用上限（例如每日 2GB 高速後降速至 128kbps）。若您需要大量數據（如視訊會議、串流），請選擇無限高速方案或留意 FUP 條款。"
-
-  - heading: "4. 網路覆蓋與城市差異"
-    content: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)，費薩拉巴德與伊斯蘭堡為效能最佳城市。Jazz 在行動網路領先，但偏遠山區（如北部吉爾吉特）覆蓋較弱。建議主要城市使用 Jazz/Zong，偏遠地區搭配當地備用方案。"
-
-  - heading: "5. eSIM 啟用與技術支援"
-    content: "巴基斯坦 eSIM 通常透過掃描 QR code 啟用，需穩定網路連線（建議出發前在 Wi-Fi 環境下載設定檔）。若啟用失敗，請聯繫供應商客服，多數提供 24/7 線上支援。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：巴基斯坦 最佳 eSIM"
-city_guide_desc: "了解哪款巴基斯坦 eSIM 是您目的地的最佳選擇，根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025) 數據與當地覆蓋情況。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "伊斯蘭堡"
-    carriers: "Jazz / Transworld"
-    reason: "伊斯蘭堡擁有巴基斯坦最快的固網下載速度（中位 24.57 Mbps）。Jazz 行動網路表現優異，Transworld 則適合飯店內高速上網。"
-
-  - city: "費薩拉巴德"
-    carriers: "Jazz"
-    reason: "費薩拉巴德是行動網路最快的城市，中位下載速度達 24.13 Mbps。Jazz 在此城市表現最佳，適合商務與日常使用。"
-
-  - city: "喀拉蚩"
-    carriers: "Zong"
-    reason: "喀拉蚩為最大城市，Zong 提供最佳遊戲體驗與高一致性（86.2%），適合人口密集區的穩定連線。"
-
-  - city: "拉合爾"
-    carriers: "Jazz / PTCL Flash Fiber"
-    reason: "拉合爾歷史景點眾多，Jazz 的高速上傳讓您即時分享照片；PTCL Flash Fiber 則適合民宿內多人串流。"
-
-  - city: "木爾坦"
-    carriers: "Jazz"
-    reason: "木爾坦為南部重要城市，Jazz 的全國覆蓋與速度優勢在此同樣適用，適合旅行與工作。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 巴基斯坦 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在拉合爾、喀拉蚩等大城市穿梭，使用 Jazz 或 Zong eSIM 確保地圖導航、社群打卡與即時翻譯順暢。Jazz 的下載速度達 24.13 Mbps，讓您快速載入景點資訊。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往北部山區（如罕薩、斯卡杜），Jazz 覆蓋較廣，但偏遠地區訊號可能不穩。建議預載離線地圖，並搭配 Zong 作為備用。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "沿著喀喇崑崙公路自駕，需要穩定導航與即時路況。Jazz 的低延遲（48 ms）確保導航反應迅速，Transworld 則適合休息站的高速上網。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在喀拉蚩的克利夫頓海灘或卡拉奇海濱度假，Zong 的最佳遊戲體驗與一致性讓您串流音樂、影片不中斷。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "巴基斯坦 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "我的手機支援雙 eSIM。我可以在巴基斯坦同時啟用兩個 eSIM 設定檔嗎？"
-    a: "可以，只要您的手機支援雙 eSIM（如 iPhone 13 以上、Google Pixel 7 以上），即可同時啟用兩個 eSIM 設定檔。建議一個用於主要數據（如 Jazz），另一個保留原門號接收簡訊。請注意，同時啟用可能增加耗電，且需確保兩個設定檔皆已完成 KYC 認證。"
-
-  - q: "我可以將巴基斯坦 eSIM 用作所有行動數據連線的主要 SIM 卡嗎？"
-    a: "是的，您可以將巴基斯坦 eSIM 設為主要數據 SIM 卡。在手機設定中選擇該 eSIM 作為「行動數據」來源，即可使用其網路進行上網、通話（若支援 VoLTE）與簡訊。部分 eSIM 方案僅提供數據，不包含語音號碼，請在購買前確認方案內容。"
-
-  - q: "如果在旅途中巴基斯坦 eSIM 的數據用量用完，我可以輕鬆加購嗎？"
-    a: "多數 eSIM 供應商提供線上加購功能，透過官方 App 或網站即可購買額外數據包，通常即時生效。建議選擇支援彈性加購的供應商，並留意加購方案是否同樣受公平使用政策限制。部分方案也提供自動續費選項，避免用量中斷。"
-
-  - q: "巴基斯坦 eSIM 是否有特定的每日數據用量上限（例如每日 2GB 後降速）？"
-    a: "是的，許多巴基斯坦 eSIM 方案設有每日公平使用上限（FUP），例如每日 2GB 高速數據後降速至 128kbps。降速後仍可傳送文字訊息與使用基本地圖，但無法順暢觀看影片。若您需要大量數據，請選擇「真正無限高速」方案或留意方案說明中的 FUP 條款。"
-
-  - q: "如果當前訊號較弱，我可以手動選擇巴基斯坦的其他本地電信商嗎？"
-    a: "部分 eSIM 供應商允許手動選擇網路，但多數會鎖定特定營運商（如 Jazz 或 Zong）。若您的手機支援，可嘗試在設定中關閉「自動選擇網路」，手動搜尋並選擇其他可用網路。請注意，手動切換可能導致連線不穩定或需重新認證，建議優先使用供應商指定的主要網路。"
-
-# 迷思
-myths_title: "⚠️ 巴基斯坦 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "巴基斯坦所有地區的 5G 覆蓋都一樣好。"
-    truth: "事實：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)，費薩拉巴德與伊斯蘭堡的行動網路效能最佳，偏遠山區（如北部地區）覆蓋較弱。Jazz 在城市表現領先，但鄉村仍需依賴 4G 或備用方案。"
-
-  - myth: "eSIM 在巴基斯坦無法進行 KYC 認證。"
-    truth: "事實：巴基斯坦法規要求所有 SIM 卡（含 eSIM）進行實名認證。信譽良好的 eSIM 供應商會預先處理 KYC，旅客只需提供護照影本即可。請避免購買未經認證的 eSIM，以免遭封鎖。"
-
-  - myth: "巴基斯坦的行動網路速度很慢，無法串流影片。"
-    truth: "事實：Jazz 的中位下載速度達 24.13 Mbps，足以流暢播放 1080p 影片。Zong 的遊戲體驗更證明低延遲與高穩定性。選擇正確營運商即可享受優質串流體驗。"
-
-  - myth: "所有 eSIM 方案都提供無限高速數據，沒有隱藏限制。"
-    truth: "事實：多數方案設有每日公平使用上限（如 2GB 後降速）。真正無限高速方案價格較高，且可能仍有合理使用條款。購買前務必閱讀方案細則。"
-
-  - myth: "在巴基斯坦使用 eSIM 會比實體 SIM 卡更貴。"
-    truth: "事實：eSIM 省去購買實體卡的交通與時間成本，且常有旅遊專屬優惠。Roami 等供應商提供競爭力價格，搭配高速網路，整體 CP 值往往更高。"
-
-# 數據來源
-data_sources_title: "巴基斯坦 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla 的 Speedtest Intelligence® 數據，涵蓋 2H 2025 巴基斯坦行動與固網效能分析，包含下載/上傳速度、延遲、遊戲體驗與影片串流分數。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的巴基斯坦行動網路體驗報告，提供覆蓋、速度與一致性評比，可與 Ookla 數據交叉驗證。"
-
-  - name: "巴基斯坦電信管理局 (PTA) 2025"
-    description: "巴基斯坦電信管理局（PTA）發布的官方統計數據，包含營運商市佔率、頻譜分配與服務品質監測報告。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，僅供參考。實際體驗可能因裝置、地點、時間與網路負載而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查閱最新報告，並選擇信譽良好的 eSIM 供應商。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的巴基斯坦 eSIM"
-cta_desc: "即時存取高速網路，無需排隊、無需實體卡。掃描 QR code 即可啟用，讓您的巴基斯坦之旅暢連無阻。"
-cta_button_text: "立即購買巴基斯坦 eSIM"
-cta_button_link: "/pakistan-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "巴基斯坦 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
 
 ---
+
+
+
+
+
+
+
+
+
+
+巴基斯坦的 eSIM 運行在四個行動網路之一上，而落到哪個網路，決定了什麼在卡拉奇好用、什麼在罕薩好用，以及你能不能在拉合爾的飯店大廳叫到車。這就是全部的決策，本頁會逐一網路、逐一價格地把這件事講清楚。
+
+
+
+
+
+**快速答案：** 誠實的總結：在地網路在覆蓋範圍上勝出，在地網路在價格上勝出，而大城市裡兩者幾乎不分上下。如果你是 eSIM 新手，請先看 [啟用教學](/faq/how-to-activate-an-esim/)——下面的方案表格可以等等再看。
+
+
+
+
+
+[巴基斯坦旅遊 eSIM](/pakistan-esim/)
+
+
+
+
+
+**快速重點：** Jazz 是全國最快的行動網路，在 [Ookla 巴基斯坦 Speedtest 連線報告](https://www.ookla.com/research/reports/pakistan-speedtest-connectivity-report-h2-2025) 中，2025 年下半年錄得 **24.13 Mbps 中位數下載與 8.89 Mbps 中位數上傳**，延遲最低為 48 ms，行動影片得分也最佳。Zong 則以最高穩定性回擊——**86.2% 的樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻**——這正是它在喀喇崑崙公路上表現更穩的原因。Ufone 與 Telenor 則在價格與北部覆蓋上補位。Roami 的設定檔會在 Jazz 與 Zong 之間自動切換，保留熱點共享功能，並以 QR 碼安裝。新旅客可以領取 [Roami 免費試用 eSIM](/free-esim/)，或用代碼 **WEB20** 在 [巴基斯坦 eSIM 方案](/pakistan-esim/) 上享 8 折優惠。
+
+
+
+
+
+*滑動查看更多*
+
+
+
+
+
+## 你的 eSIM 快速連結
+
+
+
+
+
+- [哪個巴基斯坦 eSIM 電信業者適合你的旅程？](#pakistan-esim-carriers)
+
+
+- [Jazz vs Zong vs PTCL Flash Fiber vs Transworld：我們的發現](#jazz-vs-zong-vs-ptcl-flash-fiber-vs-transworld-what-we-found)
+
+
+- [購買前必知的 5 件事](#before-you-buy-a-pakistan-esim-five-things-that-decide-the-outcome)
+
+
+- [最適合你所在城市的巴基斯坦 eSIM（實測 5 個城市）](#city-tests-which-pakistan-esim-performs)
+
+
+- [巴基斯坦 eSIM 各區域的覆蓋率與速度](#how-far-and-how-fast-carriers-across-pakistan)
+
+
+- [最適合你行程的巴基斯坦 eSIM](#matching-a-pakistan-esim-to-the-route-you-are-travelling)
+
+
+- [常見問題（解答 12 題）](#common-questions-about-pakistan-esim-12-answered)
+
+
+- [迷思與事實](#pakistan-esim-claims-worth-checking)
+
+
+- [本頁引用的巴基斯坦 eSIM 資料來源](#pakistan-esim-sources-we-draw-on)
+
+
+
+
+
+## 巴基斯坦 eSIM 電信業者
+
+
+
+
+
+旅客實際可能用到的四個行動網路是 **Jazz、Zong、Ufone 和 Telenor**，另外 SCO 網路覆蓋吉爾吉特-巴爾蒂斯坦（Gilgit-Baltistan）與阿扎德喀什米爾（Azad Kashmir）。以下每個電信業者的數據都來自 Ookla 2025 年下半年巴基斯坦報告的第三方測量，而非實地測試。
+
+
+
+
+
+| 你的計畫 | 首選電信業者 | 入選理由 |
+
+
+|:---|:---|:---|
+
+
+| 遠距工作與視訊會議 | Jazz | 最快的行動網路，24.13 Mbps 中位數下載，48 ms 最低延遲，行動影片得分 68.46 全場最佳 |
+
+
+| 遊戲與長途公路駕駛 | Zong | 2025 年下半年最佳行動遊戲體驗與最高穩定性，86.2% 的樣本達到 5 Mbps 下載 / 1 Mbps 上傳 |
+
+
+| 北部山谷與喀喇崑崙公路 | Zong 或 SCO | Zong 的穩定性在山口路段表現更佳；SCO 是吉爾吉特-巴爾蒂斯坦與阿扎德喀什米爾的區域電信業者 |
+
+
+| 預算型城市旅遊 | Ufone | 市場上最便宜的混合組合，包括 PKR 499 的 18 GB / 30 天組合 |
+
+
+| 卡拉奇、拉合爾與伊斯蘭瑪巴德之間的商務出差 | Jazz | 特約門市網路最廣，可獲得當面支援，城市穩定性也最佳 |
+
+
+| 筆記型電腦熱點共享 | 皆可——但需確認方案 | 預付組合允許熱點共享；你會碰到的限制是流量額度，而不是電信業者 |
+
+
+
+
+
+**划算之選：** 自動切換網路，加上自動比較預付數據價格。
+
+
+
+
+
+## Jazz vs Zong vs PTCL Flash Fiber vs Transworld：我們的發現
+
+
+
+
+
+以下章節先介紹旅客真正買得到的四個行動網路，再說明固定寬頻的情況，供停留時間長到想在家裡有 Wi-Fi 的人參考。價格每月都在變動，所以請把表格當成各業者定價的輪廓，而不是即時價目表。
+
+
+
+
+
+| | Jazz | Zong | Ufone | Telenor |
+
+
+|:---|:---|:---|:---|:---|
+
+
+| 擁有者 | Veon（Pakistan Mobile Communications） | China Mobile Pakistan | PTCL / Etisalat | PTCL，自 2025 年 12 月 31 日起 |
+
+
+| 中位數下載（2025 年下半年） | **24.13 Mbps**（最快） | 20.5 Mbps | 報告未公布 | 報告未公布 |
+
+
+| 穩定性 | 城市與公路表現強勁 | **86.2%**（最佳） | — | 北部表現良好 |
+
+
+| 旅客可辦 eSIM | 可以——需在 Jazz 服務中心進行生物辨識驗證 | 可以——需生物辨識驗證 | 可以——商店、特約門市、服務中心 | 可以 |
+
+
+| 通報的 eSIM 費用 | 既有門號 PKR 2,000，新門號 PKR 5,000 | PKR 2,000 | 因通路而異 | 因通路而異 |
+
+
+| 優勢所在 | 速度、延遲、影片、特約門市深度 | 穩定性、遊戲、北部路線 | 價格 | 北部覆蓋率 |
+
+
+
+
+
+### 哪個巴基斯坦網路速度最快？
+
+
+
+
+
+**最適合：** 任何需要網路「就是能用」的人——遠距工作者、商務旅客，以及行程從卡拉奇到拉合爾再到伊斯蘭瑪巴德的訪客。
+
+
+
+
+
+Jazz 在 2025 年下半年創下巴基斯坦所有行動網路中最快的中位數下載（24.13 Mbps）與上傳（8.89 Mbps）速度，延遲最低為 48 ms，Speed Score 為 42.14，Connectivity Score 為 59.83，獲 Ookla 評為最佳行動網路（Best Mobile Network）。其 68.46 的影片串流得分也是四者中最佳。Jazz 同時擁有全國最大的用戶規模與最密集的特約門市網路，這一點比聽起來更重要：能走進門市處理的問題，當天下午就能解決。
+
+
+
+
+
+預付方案價格，來自公開的 Jazz 套餐清單：
+
+
+
+
+
+| Jazz 預付組合 | 流量 | 通話 | 價格（PKR） | ≈ 美元 |
+
+
+|:---|:---|:---|:---|:---|
+
+
+| 每月 3 GB | 3 GB | — | PKR 434 | ≈ $1.55 |
+
+
+| 每月 15 GB | 15 GB | — | PKR 956 | ≈ $3.41 |
+
+
+| 觀光 SIM | 10 GB | 200 分鐘 Jazz 網內、25 分鐘網外 | ≈ PKR 1,000 | ≈ $3.57 |
+
+
+| eSIM，既有門號 | — | — | PKR 2,000 | ≈ $7.14 |
+
+
+| eSIM，新門號 | — | — | PKR 5,000 | ≈ $17.86 |
+
+
+
+
+
+匯率換算採用約 PKR 280 兌 1 美元的參考匯率，因此右欄請視為概略值。Jazz 套餐階梯取自一份[公開的 Jazz 套餐清單](https://sekho.com.pk/technology/how-to-activate-warid-4g-lte-on-your-mobile-free-trial-for-postpaid-prepaid/)；觀光 SIM 與 eSIM 費用數字分別來自[一份 2026 年巴基斯坦 SIM 指南](https://pakcitizenguide.com/how-to-easily-obtain-a-sim-card-in-pakistan-as-a-foreigner) 與[一篇逐一比較電信業者的 eSIM 評測](https://yaalo.com/blog/sim-card/pakistan-sim-card)。每一項都請在櫃檯再次確認。
+
+
+
+
+
+**購買步驟（Jazz）：**
+
+
+1. 前往 Jazz Experience Centre 或機場櫃檯——伊斯蘭瑪巴德、卡拉奇與拉合爾的入境大廳都有。
+
+
+2. 出示護照與簽證；工作人員會掃描兩者並採集指紋進行生物辨識驗證。
+
+
+3. 從當期價目表挑選組合，若想通話綁流量，可指定觀光組合。
+
+
+4. 完成 NADRA 系統的生物辨識驗證，並保留驗證收據。
+
+
+5. 等待開通簡訊，如果數據沒有自動連上，就將 APN 設為 `internet.jazz.net`。
+
+
+
+
+
+### 各巴基斯坦電信業者的速度
+
+
+
+
+
+**最適合：** 遊戲玩家、長途駕駛，以及任何要前往伊斯蘭瑪巴德以北的人——在那裡，穩住可用的訊號比訊號快更重要。
+
+
+
+
+
+Zong 的帳面數字低於 Jazz——中位數下載 20.5 Mbps——但它贏得了決定山區道路地圖能否重新載入的那項指標。**Zong 有 86.2% 的樣本達到或超過 5 Mbps 下載與 1 Mbps 上傳門檻**，是 2025 年下半年巴基斯坦最高的穩定性，Ookla 也頒給它最佳行動遊戲體驗。Zong 對中國訪客也特別有深度，反映了其中國移動（China Mobile）母公司背景以及承載的中巴經濟走廊（CPEC）流量。
+
+
+
+
+
+旅客預付方案價格：
+
+
+
+
+
+| Zong 預付組合 | 流量 | 通話 | 價格（PKR） | ≈ 美元 |
+
+
+|:---|:---|:---|:---|:---|
+
+
+| 訪客 SIM | 12 GB | 1,000 分鐘 Zong 網內、50 分鐘網外 | PKR 999 | ≈ $3.57 |
+
+
+| 每月 Premium | 40 GB | 1,000 分鐘網外 | PKR 1,200 | ≈ $4.29 |
+
+
+| eSIM 開通費 | — | — | PKR 2,000 | ≈ $7.14 |
+
+
+| 每月數據組合，15 GB | 15 GB | — | ≈ PKR 800 | ≈ $2.86 |
+
+
+
+
+
+**購買步驟（Zong）：**
+
+
+1. 前往 Zong 官方客服中心或品牌特約門市——小型手機店通常無法處理外國護照的註冊。
+
+
+2. 交出護照與簽證；文件會被掃描並留存。
+
+
+3. 完成指紋驗證；無論實體 SIM 或 eSIM，Zong 都要求這一步。
+
+
+4. 選擇組合——訪客組合附帶的流量與網內通話分鐘數，比其他網路的觀光組合更多。
+
+
+5. 在整趟行程依賴 eSIM 之前，先向 PTA 確認其 IMEI 註冊狀態。
+
+
+
+
+
+### 巴基斯坦電信業者的低價方案
+
+
+
+
+
+就純數據而言，Ufone 是四者中最便宜的，其混合組合在帳面 GB 數上也低於 Jazz 和 Zong。旅客最常提到的組合是 **PKR 499 的 18 GB / 30 天組合**，另有 PKR 299 的 12 GB 週組合。城市內與主要高速公路的覆蓋率可靠，次要道路上則比 Jazz 或 Zong 稀薄。如果你的行程是兩週的城市遊且價格是決定性因素，Ufone 是誠實的建議；若行程包含北部，就不是。
+
+
+
+
+
+### Telenor：北部表現良好，正在轉型中
+
+
+
+
+
+Telenor 以北部山谷可靠的覆蓋率建立了口碑，因此常成為健行行程的選擇。局面在 **2025 年 12 月 31 日 PTCL 完成收購 Telenor Pakistan** 時改變，此後套餐品牌也在陸續調整。與其相信任何公開清單（包括本頁），不如在櫃檯詢問目前的最新情況，並確認對方提供的觀光組合，是否與該網路在自家 App 內宣傳的相同。
+
+
+
+
+
+### 巴基斯坦固定寬頻，給長住旅客
+
+
+
+
+
+主宰速度榜的兩家固網業者都不是行動電信業者：**Transworld** 在 2025 年下半年繳出最快的固網中位數下載 **34.86 Mbps、上傳 30.5 Mbps**，**PTCL Flash Fiber** 則在 ISP 之中擁有最佳遊戲體驗。只有當你在卡拉奇、拉合爾或伊斯蘭瑪巴德租屋一個月以上時，這兩家才與你有關。對一般旅行而言，行動 eSIM 就是全部的答案。
+
+
+
+
+
+## 購買巴基斯坦 eSIM 前：決定結果的五件事
+
+
+
+
+
+### 巴基斯坦支援你的裝置型號嗎？
+
+
+
+
+
+巴基斯坦的 4G LTE 運行於 Band 3（1800 MHz）、Band 5（850 MHz）與 Band 40（2300 MHz）；5G 使用 n78（3500 MHz）與 n41（2500 MHz）。Jazz 和 Zong 已在卡拉奇、拉合爾與伊斯蘭瑪巴德部署 5G，並仍在擴建。在歐洲、中東灣區與亞洲販售的旗艦手機通常涵蓋所有這些頻段；缺 Band 40 的手機回退到 LTE 的頻率會比你希望的更頻繁。
+
+
+
+
+
+### 巴基斯坦 SIM 需要哪些文件？
+
+
+
+
+
+這是讓訪客栽跟頭的一步，而且不只是一份表格。巴基斯坦的監管機關要求每個門號都必須通過生物辨識驗證，外國人則以**護照與有效簽證取代 CNIC** 註冊。[巴基斯坦電信管理局](https://www.pta.gov.pk/) 將外國人的門號上限設為每本護照少數幾個——通常為三個——而且門號的有效期通常綁定簽證期限，所以當你停留在該國的許可失效時，觀光 SIM 也可能跟著停用。正如[一篇外國人註冊指南](https://simsowner.net.pk/sim-card-foreigners-tourists-pakistan/)所述，請預期指紋採集、護照掃描，以及一個當地聯絡地址，通常就是你的飯店。
+
+
+
+
+
+### 3. 巴基斯坦預付組合上的「無限量」是什麼意思
+
+
+
+
+
+巴基斯坦的預付組合幾乎都有上限，而且上限通常是流量位元組數而非降速。由此有兩個後果。第一，「每月」組合是隨日曆到期的固定流量，不是可以拉長使用的訂閱。第二，流量用完時數據是直接停止而非變慢，所以熱點共享的筆記型電腦可能一個下午就燒掉一週的額度。請看組合的流量數字而不是名稱，如果要熱點共享，就買比你以為需要更大的一組。
+
+
+
+
+
+### 巴基斯坦最好的網路是哪家？
+
+
+
+
+
+北部的吉爾吉特-巴爾蒂斯坦與開柏-普什圖省（Khyber Pakhtunkhwa）的山谷，是全國平均值失去意義的地方——見下面的區域表格。Zong 的穩定性優勢在這裡顯現，而 SCO 是吉爾吉特-巴爾蒂斯坦與阿扎德喀什米爾的在地業者。無論買哪家業者的 SIM，都請為喀喇崑崙公路下載離線地圖。
+
+
+
+
+
+### 訪客在巴基斯坦可以免註冊嗎？
+
+
+
+
+
+巴基斯坦另有一套裝置核准制度。使用巴基斯坦 SIM 的進口手機可能需要透過 **[Device Identification Registration and Blocking System](https://dirbs.pta.gov.pk/)** 取得核准，符合資格的訪客通常可以免費登記一台個人裝置，每次入境最長 120 天。撥打 `*#06#` 查詢你的 IMEI，並注意該流程需要一個已以你名義開通的巴基斯坦門號——外國門號不行。
+
+
+
+
+
+## 方案選擇與價格
+
+
+
+
+
+**路線一：旅遊 eSIM，出發前購買。**
+
+
+
+
+
+1. 用 [裝置相容性檢查工具](/compatibility/) 確認你的手機已解鎖且支援 eSIM——鎖機的手機會在安裝時失敗，而不是在結帳時。
+
+
+2. 購買方案，在家透過 Wi-Fi 安裝設定檔，然後為門號命名。
+
+
+3. 將 eSIM 設為行動數據使用的門號，並開啟數據漫遊。
+
+
+4. 落地後，關閉你本國 SIM 的數據漫遊，並在離開入境大廳前確認設定檔已連上網路。
+
+
+5. 將 QR 碼截圖保存在雲端儲存空間，以備重新安裝。
+
+
+
+
+
+**路線二：在地 SIM，抵達當地購買。**
+
+
+
+
+
+1. 前往官方電信業者據點——伊斯蘭瑪巴德、卡拉奇或拉合爾的機場櫃檯、Jazz Experience Centre，或 Zong、Ufone、Telenor 的品牌服務中心。路邊攤販與無品牌商店無法處理護照註冊，可能賣給你登記在他人名下的門號。
+
+
+2. 出示你的**護照與簽證正本**；兩者都會被掃描並建檔保存。
+
+
+3. 提供當地地址——飯店地址即可——並在註冊表格上填寫來訪目的與預計停留時間。
+
+
+4. 對照 NADRA 系統完成**指紋生物辨識驗證**。即使是觀光客也要經過這一步；沒有例外。
+
+
+5. 選擇組合，記下到期日，並保留驗證收據。
+
+
+6. 離開櫃檯前先測試數據，並確認門號登記在你的護照名下。
+
+
+
+
+
+旅遊 eSIM 路線的存在，正是為了跳過第二到第六步。在地路線的存在，則是因為它每 GB 更便宜，並給你一個可以撥打當地電話的巴基斯坦門號。兩者都沒有錯；只是適合不同的行程長度。
+
+
+
+
+
+## 在巴基斯坦上網的帳單：eSIM 與其他方式比較
+
+
+
+
+
+價格比文章變動得更快，所以目前的巴基斯坦方案列表在我們的 [巴基斯坦方案頁面](/pakistan-esim/) 上。下面的三方比較才是決定價值的關鍵：巴基斯坦預付觀光組合、旅遊 eSIM，以及你本國業者的漫遊費率。
+
+
+
+
+
+| | 當地觀光 SIM | 旅遊 eSIM | 本國方案漫遊 |
+
+
+|:---|:---|:---|:---|
+
+
+| 一般入門價格 | 組合 PKR 500–2,000，外加 SIM 費 | 一個一次性預付價格 | 由你的本國業者決定 |
+
+
+| 流量 | 觀光組合 30 天內 10–12 GB | 依組合大小而異 | 常見每日上限 |
+
+
+| 設定 | 在櫃檯出示護照、簽證並做指紋驗證 | 在家安裝 | 什麼都不用 |
+
+
+| 電話門號 | 有——巴基斯坦門號 | 無 | 你自己的門號 |
+
+
+| 連線所需時間 | 含櫃檯辦理 30–60 分鐘 | 落地即可 | 落地即可 |
+
+
+| 最適合 | 停留三週以上 | 兩週以內的行程 | 就成本而言：誰都不適合 |
+
+
+
+
+
+讓這個比較具體的在地錨點：巴基斯坦行動數據價格約 **每 GB 0.12 美元**，在 Cable.co.uk 追蹤的 237 個市場中便宜度排第六，而全球平均接近 2.59 美元。這就是漫遊費率要對抗的數字——而大多數都輸得很慘。
+
+
+
+
+
+## 實測速度比較
+
+
+
+
+
+2026 年 8 月，巴基斯坦的行動下載速度中位數為 **32.01 Mbps**，在 [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/pakistan) 中排名**第 95** 位。作為對照，同期全球行動下載中位數為 109.05 Mbps，巴基斯坦低於此水準。
+
+
+
+
+
+當地數據價格約 **每 GB 0.12 美元**，在 [Cable.co.uk 追蹤](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) 的 237 個市場中排第 6。
+
+
+
+
+
+背後的市場已趨成熟：[DataReportal 的 2025 年數據](https://datareportal.com/reports/digital-2025-pakistan) 統計巴基斯坦有 1.16 億網路使用者（占人口 45.7%）與 1.9 億個行動連線。
+
+
+
+
+
+## 城市實測：哪個巴基斯坦 eSIM 表現好
+
+
+
+
+
+哪個網路值得選，取決於你站在哪個城市。行動網路數據來自 Ookla 的 2025 年下半年巴基斯坦報告；固網寬頻數據則是給較長停留者的參考。
+
+
+
+
+
+| 城市 | 最佳行動電信業者 | 原因 |
+
+
+|:---|:---|:---|
+
+
+| 費薩拉巴德 | Jazz | 該市在人口眾多城市中繳出最快的行動下載中位數 24.13 Mbps，而 Jazz 的行動網路表現領先全國 |
+
+
+| 伊斯蘭瑪巴德 | Jazz | 首都全區行動覆蓋率強，Margalla Hills 的道路網路在 Jazz 與 Zong 上都有覆蓋 |
+
+
+| 卡拉奇 | Zong | 巴基斯坦最大城市看重穩定性甚於峰值速度，而 Zong 以 86.2% 擁有全國最佳穩定性 |
+
+
+| 拉合爾 | Jazz | Jazz 的 48 ms 延遲與高速下載，讓地圖與串流在舊城區的擁塞中依然流暢 |
+
+
+| 拉瓦爾品第 | Ufone 或 Jazz | Ufone 的 PKR 499 / 18 GB 組合是短暫雙城停留的划算之選；需要最佳覆蓋率就選 Jazz |
+
+
+
+
+
+💡 在巴基斯坦城市之間移動，正是自動網路選擇發揮價值的地方。
+
+
+
+
+
+## 覆蓋多遠、速度多快：巴基斯坦各區域的電信業者
+
+
+
+
+
+巴基斯坦的全國速度數字掩蓋了大量在地差異。以下是你在可能造訪的每個區域可以預期的情況，包括死區。
+
+
+
+
+
+| 區域 | 實際情況 |
+
+
+|:---|:---|
+
+
+| 卡拉奇與信德省海岸 | 各網路在市區皆有 4G，Sonmiani 以西的沿海公路逐漸稀薄；尖峰時段擁塞會拖慢速度 |
+
+
+| 中部旁遮普（拉合爾、費薩拉巴德、木爾坦） | 地圖上最強、最可靠的部分——全區 4G 與 5G，城市間高速公路上有薄薄的 5G 層 |
+
+
+| 伊斯蘭瑪巴德、拉瓦爾品第與 Potohar | 4G 與 5G 可靠；Margalla 山脈後方的山路覆蓋迅速減弱 |
+
+
+| 開柏-普什圖省（白沙瓦、斯瓦特、Naran） | 城鎮覆蓋良好；山谷聚落之間會失去訊號，Kaghan 道路在山口路段斷斷續續 |
+
+
+| 吉爾吉特-巴爾蒂斯坦山谷（Gilgit、Hunza、Skardu） | Gilgit 與 Karimabad 訊號強，Skardu 尚可用；村落之間有長距離空窗，高處支谷完全沒有訊號 |
+
+
+| 喀喇崑崙公路與 Khunjerab | 沿線聚落有訊號，山口則失效；前往 Khunjerab 山口的路段大部分處於離線狀態 |
+
+
+| Fairy Meadows 與南迦帕爾巴特峰（Nanga Parbat）路線 | Fairy Meadows 本身沒有訊號；從 Raikot Bridge 出發的吉普車道完全沒有 |
+
+
+| 俾路支省（奎達、Makran 海岸、瓜達爾） | 奎達市區有覆蓋；通往瓜達爾的沿海公路有巨大空窗，不是可以依賴手機的路線 |
+
+
+
+
+
+有三個區域因素會改變你對 SIM 的需求：**SCO** 是吉爾吉特-巴爾蒂斯坦與阿扎德喀什米爾的電信業者，而 Zong 對 Jazz 的穩定性優勢，在開柏-普什圖省與喀喇崑崙路線上最為明顯。要走北部長程路段，請在離開伊斯蘭瑪巴德前下載離線地圖——這不是換個更好的方案就能補上基地台的情況。
+
+
+
+
+
+要從巴基斯坦跨境嗎？比較鄰國的網路：
+
+
+
+
+
+- [印度 eSIM 方案](/india-esim/)
+
+
+- [阿拉伯聯合大公國 eSIM 指南](/carriers/united-arab-emirates-esim-carrier-guide/)
+
+
+- [沙烏地阿拉伯旅遊 eSIM](/saudi-arabia-esim/)
+
+
+
+
+
+💡 由於各區域覆蓋率不均，能在當地切換網路的 eSIM，會勝過鎖定單一業者的 eSIM。
+
+
+
+
+
+## 為你的巴基斯坦行程搭配合適的 eSIM
+
+
+
+
+
+巴基斯坦的行程分成兩個世界——密集的南部與中部城市，以及北部山區——而兩者適合的電信業者不同。以下列出十種行程，以及每種該怎麼設定。
+
+
+
+
+
+| 你的路線 | 該怎麼設定 | 為什麼可行 | 注意事項 |
+
+
+|:---|:---|:---|:---|
+
+
+| 卡拉奇城市小旅行（Clifton、DHA、Saddar） | Jazz 或 Zong 上的旅遊 eSIM | 你會去的地方都有 4G，落地即用 | 尖峰時段擁塞拖慢的程度超出距離給人的印象 |
+
+
+| 拉合爾與蒙兀兒古蹟巡禮 | Jazz 上的旅遊 eSIM | 在舊城區使用地圖與叫車服務延遲最低 | 厚牆古蹟內部訊號會下降 |
+
+
+| Wagah 邊界儀式一日遊 | Jazz 上的旅遊 eSIM | 從拉合爾到邊界覆蓋連續 | 儀式人潮會讓當地基站飽和 |
+
+
+| 伊斯蘭瑪巴德–拉瓦爾品第首都中停 | Jazz 上的旅遊 eSIM | 最佳城市覆蓋與最強的特約門市支援 | Margalla 山路訊號很快消失 |
+
+
+| 罕薩山谷與 Karimabad | Zong 上的旅遊 eSIM，加上離線地圖 | Zong 的穩定性在山谷中更能維持；SCO 覆蓋該區域 | Gilgit 與村落之間什麼都沒有 |
+
+
+| 喀喇崑崙公路往 Khunjerab 自駕 | Zong 上的旅遊 eSIM 加離線地圖 | 聚落有覆蓋；山口沒有 | 依訊號空窗規劃加油、現金與住宿 |
+
+
+| Skardu 與 Deosai 草原 | 當地 Zong 或 SCO SIM | 當地業者用的就是在地門號 | Deosai 實際上處於離線狀態；衛星通訊器勝過更好的方案 |
+
+
+| Fairy Meadows 與南迦帕爾巴特峰路線 | 一切離線準備 | 草原上沒有基地台 | 從 Raikot Bridge 出發的吉普車道完全沒有覆蓋 |
+
+
+| Swat、Naran 與 Kaghan 山谷 | Zong 上的旅遊 eSIM | Zong 在北部的穩定性優於其全國排名 | Naran 以上與 Babusar 沿線覆蓋轉薄 |
+
+
+| 需要筆電熱點共享的商務出差 | 大流量組合的旅遊 eSIM | 允許熱點共享；組合大小才是真正的限制 | 熱點共享的筆電一天就能用光一個月的組合 |
+
+
+
+
+
+十種行程的共同模式：在南部與中部，按速度選；在北部，按穩定性選並攜帶離線地圖。這與大多數人選方案的方式正好相反。
+
+
+
+
+
+## 裝置相容性檢查
+
+
+
+
+
+你可以在幾分鐘內自行加入設定檔——方案與啟用細節在 [巴基斯坦 eSIM 頁面](/pakistan-esim/)，各平台的逐步教學在我們的 [eSIM 啟用指南](/faq/how-to-activate-an-esim/)。
+
+
+
+
+
+**iPhone：** 設定 → 行動網路（Cellular） → 加入 eSIM → 掃描 QR 碼，然後為門號命名，並設為行動數據使用的門號。
+
+
+
+
+
+**Android：** 設定 → 連接 → SIM 卡管理員 → 加入 eSIM，然後掃描 QR 碼，並將新設定檔設為偏好的數據 SIM。
+
+
+
+
+
+無論哪種方式，都要為 eSIM 門號開啟數據漫遊，讓本國 SIM 保持啟用以便接聽電話與接收驗證碼，並關閉本國門號的數據漫遊，以免背景流量被計費。如果櫃檯幫你裝的是在地 SIM，同樣的兩項設定也決定數據能否流動。
+
+
+
+
+
+## 讓 eSIM 正常運作：真正會發生的故障
+
+
+
+
+
+一般性的啟用錯誤——設定檔無法下載、掃描失敗、eSIM 安裝了卻一直無法註冊——都在我們的 [eSIM 啟用錯誤指南](/faq/esim-activation-errors-troubleshooting-guide/) 中。以下清單聚焦於在巴基斯坦真正重要的四種模式。
+
+
+
+
+
+**A. 在地 SIM 能用，但幾小時後就停了。** 典型的生物辨識驗證失敗：註冊未與 NADRA 紀錄乾淨地完成比對，業者的系統封鎖了門號。帶著護照正本、簽證與驗證收據回到同一家特約門市重新驗證。不要買替代的新 SIM——新的也會以同樣方式失效。
+
+
+
+
+
+**B. 在本國好好的進口手機，插上巴基斯坦 SIM 卻顯示無服務。** 問題出在裝置而不是 SIM：手機的 IMEI 未在 PTA 裝置系統中獲得核准。撥打 `*#06#` 取得 IMEI，確認其狀態，並登記該裝置。這與 SIM 註冊是兩回事，也是「手機在本國能用、在巴基斯坦不能用」最常見的單一原因。
+
+
+
+
+
+**C. 已安裝，但在喀喇崑崙公路或山谷城鎮沒有數據。** 手機正在搜尋不存在的 4G 或 5G。強制手動選網並允許 3G，然後接受山谷現有的訊號，而不是等待不存在的頻段。在聚落中這通常能恢復可用訊號；在山口上則無訊號可恢復。
+
+
+
+
+
+**D. 你的旅遊 eSIM 停留在較弱的網路上。** 漫遊設定檔會附著在其開通時指定的合作網路，也可能飄移到另一個沒有數據協議的網路。關閉自動選網，將手機鎖定在產品頁面指名的合作網路，等你離開該區域後再重新開啟自動選擇。
+
+
+
+
+
+### Jazz、Zong 或 Telenor 客服需要你提供什麼
+
+
+
+
+
+準備好你的 EID（撥 `*#06#` 可得）、訂單或帳號號碼、設定檔應附著的合作網路名稱、錯誤截圖，以及一份你已嘗試過什麼的簡短清單。巴基斯坦的驗證問題都圍繞註冊紀錄，所以備妥護照與收據能大幅縮短通話時間。
+
+
+
+
+
+## 從巴基斯坦出境：印度、阿富汗、伊朗與中國
+
+
+
+
+
+巴基斯坦的各陸地邊界情況各不相同，每一處都以不同方式終結你的巴基斯坦覆蓋。
+
+
+
+
+
+**印度——Wagah/Attari。** 拉合爾附近的 Attari–Wagah 口岸是兩國之間唯一常態運作的陸路通道，當外交關係惡化時可能臨時關閉。邊境手續約需 30 分鐘到兩小時以上，這個口岸也是第三國國籍旅客最忙碌的一段，因為兩邊的簽證都不好取得。你的巴基斯坦 SIM 在最後一個巴基斯坦哨站就會失效；一份涵蓋兩國的方案，是讓你跨境後持續上線的唯一辦法。Kartarpur 走廊是另一條僅供朝聖的通道，不是一般入境口岸。
+
+
+
+
+
+**阿富汗——Torkham。** 開柏路線上的主要口岸，距伊斯蘭瑪巴德約四小時車程，貨運繁忙且需要提前很久安排簽證。覆蓋在邊界即告終止；在緊鄰邊界的地帶，沒有任何旅遊設定檔可以依靠的漫遊安排。
+
+
+
+
+
+**伊朗——Taftan。** Quetta–Zahedan 走廊上的邊防哨站非常偏遠——經 N-40 距伊斯蘭瑪巴德約 1,520 公里——而且巴基斯坦一側的沿路訊號有長距離空窗。走這條路的旅客應把整條走廊當作離線優先來準備：離線地圖、現金與列印的行程表。
+
+
+
+
+
+**中國——Khunjerab 山口。** 海拔 4,693 公尺，這是世界最高的鋪面國際口岸，也是喀喇崑崙公路的北端終點。它有季節性，一般 5 月至 9 月開放，而且無論從哪一側，山口上都沒有可用訊號。不管你帶什麼方案，都要為這段空窗做好規劃。
+
+
+
+
+
+每種情況的模式都一樣：**僅限巴基斯坦的設定檔會在邊界無聲無息地失效**，多國方案是唯一的解法。請為整條行程購買，而不是只為你落地的第一個國家。
+
+
+
+
+
+## 巴基斯坦 eSIM 常見問題（解答 12 題）
+
+
+
+
+
+### 你的手機能在巴基斯坦網路上運作嗎？
+
+
+
+
+
+可以。如果你的手機支援雙 eSIM（iPhone 13 及之後、Google Pixel 7 及之後，以及同等級的 Samsung 機型），可以同時安裝兩個設定檔。同一時間只能有一個承載數據，你可以在設定中切換。Roami 支援此功能，讓你在巴基斯坦設定檔處理數據的同時，保持本國 eSIM 啟用用於通話。
+
+
+
+
+
+### 巴基斯坦的數據在尖峰時段會變慢嗎？
+
+
+
+
+
+會，跟任何網路一樣——大約晚間 7 點到 11 點需求高峰時，吞吐量會變慢。Jazz 在整個測量期間仍有 24.13 Mbps 的中位數下載，而 Zong 的 86.2% 穩定性分數顯示它在高負載下依然站得住。買更大的流量組合買不到優先權；如果尖峰時段的表現對你重要，請選擇你所在城市穩定性較好的網路。
+
+
+
+
+
+### 問：我實際上該期待什麼速度？
+
+
+
+
+
+根據 2025 年下半年 Speedtest Intelligence 數據，巴基斯坦最快的行動網路是 Jazz，中位數下載 24.13 Mbps、上傳 8.89 Mbps，延遲 48 ms。Zong 緊隨其後，中位數下載 20.5 Mbps，擁有全國最佳穩定性。就全國而言，Ookla 全球指數顯示 2026 年 8 月巴基斯坦的行動下載中位數為 32.01 Mbps。你自己測到的數字會隨手機、頻段與時段而變動。
+
+
+
+
+
+### WhatsApp 通話在巴基斯坦能用嗎？
+可以。Roami 的巴基斯坦方案是純數據方案，這正是 VoIP 服務所需要的——WhatsApp、WeChat、FaceTime、Skype 與 Zoom 都能透過這個連線使用。Jazz 的 48 ms 延遲與 8.89 Mbps 上傳讓視訊通話在城市中很穩定。純數據 eSIM 不支援傳統電路交換語音通話，所以讓本國 SIM 保持啟用於語音是值得的。
+
+
+
+
+
+### 巴基斯坦 eSIM 銷售通路一覽
+
+
+
+
+
+可以。你可以預先購買多個巴基斯坦組合，保存在帳戶中並依序啟用——先啟用 7 天組合，到期後再啟用 30 天組合。每個都用 QR 碼或透過 App 啟用，適合長期停留與重複造訪。
+
+
+
+
+
+### 問：使用巴基斯坦 eSIM 需要完成生物辨識驗證嗎？
+
+
+
+
+
+若是在地開通的門號，需要——任何 Jazz、Zong、Ufone 或 Telenor 的門號，無論實體或嵌入式，都要以護照或 CNIC 加指紋驗證註冊。在巴基斯坦境外購買的旅遊 eSIM 則是透過漫遊設定檔連線，不在當地註冊，因此不需要生物辨識步驟。不要以為所有標著「eSIM」的產品都免於這項要求：業者品牌的 eSIM 屬於巴基斯坦門號，須遵循當地規定。
+
+
+
+
+
+### 巴基斯坦 SIM 需要什麼證件？
+
+
+
+
+
+比巴基斯坦公民能辦的少。外國人的上限通常被報導為每本護照三個門號，而公民每份 CNIC 可辦五個，且門號的有效期通常綁定你的簽證期限，而非無限期。如果你計畫長住，請在櫃檯詢問簽證到期後門號會如何處理。
+
+
+
+
+
+### 巴基斯坦 eSIM 的 IMEI 與 EID 審查
+
+
+
+
+
+有可能，如果它的 IMEI 尚未在裝置註冊系統中獲得核准。巴基斯坦對進口手機的核准與 SIM 註冊是分開的，符合資格的訪客通常可以免費登記一台個人裝置，每次入境最長 120 天。如果你打算用在地 SIM，出發前請在官方 DIRBS 入口網站查詢 IMEI，並注意該流程需要一個以你名義開通的巴基斯坦門號。
+
+
+
+
+
+### 巴基斯坦有 5G 了嗎？
+
+
+
+
+
+有，在主要城市。Jazz 和 Zong 已在卡拉奇、拉合爾與伊斯蘭瑪巴德以 n78（3500 MHz）與 n41（2500 MHz）部署 5G，覆蓋仍在擴建。在這些城市之外，請當作只有 4G——全國 32.01 Mbps 的下載中位數是 LTE 時代的數字，在山谷城鎮看到手機上的 5G 標示都太樂觀。
+
+
+
+
+
+### 巴基斯坦電信業者盤點
+
+
+
+
+
+Zong，以穩定性證據而言——其 86.2% 的樣本通過 5 Mbps 下載 / 1 Mbps 上傳門檻，全國最佳，而穩定性正是決定山區道路地圖能否重新載入的關鍵。SCO 是吉爾吉特-巴爾蒂斯坦與阿扎德喀什米爾的區域業者，值得在當地詢問。沒有任何業者覆蓋 Khunjerab 山口或 Fairy Meadows，所以離線地圖不是可有可無。
+
+
+
+
+
+### 我可以分享巴基斯坦 eSIM 的連線嗎？
+
+
+
+
+
+可以。Roami 的巴基斯坦方案支援熱點共享，巴基斯坦的預付組合一般也允許。實際限制是流量總量而不是政策：熱點共享的筆電在一個下午的視訊會議中就可能用完一個月的組合，所以請依熱點共享需求而非手機用量來挑組合大小。
+
+
+
+
+
+### 問：跨入印度或伊朗時，我的連線會怎樣？
+
+
+
+
+
+會停止。僅限巴基斯坦的設定檔在境外沒有覆蓋，而且通常不會出現警告訊息——手機就這樣失去服務。多國方案是跨越陸地邊界保持上線的唯一辦法，而且在 Torkham、Taftan 與 Khunjerab 沿線的邊界地帶，無論你持什麼方案都沒有可用訊號。
+
+
+
+
+
+[查看完整常見問題 →](/faq/)
+
+
+
+
+
+## 值得查證的巴基斯坦 eSIM 說法
+
+
+
+
+
+### 迷思：每個巴基斯坦 eSIM 速度都一樣。
+
+
+
+
+
+**事實：** 不是。2025 年下半年，Jazz 以 24.13 Mbps 的中位數下載與最佳影片得分領先市場，Zong 以 86.2% 的穩定性與遊戲體驗領先，而固網業者則處於完全不同的級別，Transworld 下載達 34.86 Mbps。速度因業者、城市與時段而異。
+
+
+
+
+
+### 各業者在巴基斯坦的 5G 可用性
+
+
+
+
+
+**事實：** 是的，在卡拉奇、拉合爾與伊斯蘭瑪巴德，透過 Jazz 與 Zong 部署的 n78（3500 MHz）與 n41（2500 MHz）頻段。覆蓋範圍仍在向這些城市之外擴建，Roami 的設定檔在 5G 存在的地方會連上 5G。
+
+
+
+
+
+### 巴基斯坦 SIM 註冊流程
+
+
+
+
+
+**事實：** 旅遊 eSIM 不是在地開通的門號，所以不用經過護照加指紋的註冊流程。Jazz、Zong、Ufone 與 Telenor 在地開通的 eSIM 則需要。請閱讀產品頁面，弄清楚你買的是兩者中的哪一種。
+
+
+
+
+
+## 本頁引用的巴基斯坦 eSIM 資料來源
+
+
+
+
+
+- **Ookla Speedtest Connectivity Report（巴基斯坦 2025 下半年）**——Jazz 與 Zong 的各業者數據，包括中位數速度、延遲、影片得分、連線得分與 86.2% 的穩定性數字。
+
+
+- **Ookla Speedtest Global Index**——上文引用的每月全國行動中位數、延遲與世界排名。
+
+
+- **Cable.co.uk 全球數據價格調查**——每 GB 0.12 美元的當地價格，以及巴基斯坦在 237 個市場中的第六名。
+
+
+- **DataReportal Digital 2025: Pakistan 與 GSMA Intelligence**——網路使用者與行動連線數量，以及 GSMA Mobile Connectivity Index 的市場成熟度指標。
+
+
+- **巴基斯坦電信管理局（PTA）與 DIRBS**——生物辨識註冊架構、每本外國護照的門號上限，以及獨立的裝置核准制度。
+
+
+- **業者與指南來源**——Jazz 與 Zong 的套餐資料，以及用於觀光組合與 eSIM 費用數字的第三方 SIM 指南；價格每月變動，請在銷售點確認。本清單每季重新查證一次——無法查證的條目會被移除。
+
+
+
+
+
+這裡的每個數字都是第三方測量，而非我們自己的實地測試，而且這些數字逐月變動——請把它們當作市場背景，而不是對你自己行程的預測。
+
+
+
+
+
+## 漫遊至鄰近國家
+
+
+
+
+
+抵達拉合爾或卡拉奇時就已經在線上。Roami 巴基斯坦 eSIM 運行於 Jazz 與 Zong，自動切換網路，並內建熱點共享讓數據持續流動。新旅客可以從[免費巴基斯坦試用 eSIM](/free-esim/) 開始，或用代碼 **WEB20** 在 [巴基斯坦 eSIM 方案](/pakistan-esim/) 上享 8 折優惠。
+
+
+
+
+
+[購買你的巴基斯坦 eSIM](/pakistan-esim/)
+
+
+
+
+
+*首次購買者專屬上市優惠*
+
+
+
+
+
+[試用免費巴基斯坦 eSIM](/free-esim/)

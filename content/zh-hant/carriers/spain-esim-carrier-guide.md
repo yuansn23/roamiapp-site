@@ -1,283 +1,764 @@
 ---
-title: "西班牙 eSIM 怎麼選最划算？網路速度與覆蓋完整分析。"
-description: "挑選西班牙 eSIM 不用再煩惱，Roami 實際測試 Movistar、Orange 和 DIGI 的 5G 速度與覆蓋範圍，為您直接推薦最佳方案。"
-date: "2026-06-17T06:15:09+00:00"
 
-keywords: "eSIM 西班牙，預付數據，5G 網路，西班牙 eSIM 指南，Roami 西班牙"
-site_name: "Roami"
-brand_name: "Roami"
+title: "西班牙 eSIM 怎麼挑？Movistar、Orange、Vodafone 比較"
+
+description: "西班牙 eSIM 要辦哪一家電信業者？Roami 比較 Movistar、Orange 與 Vodafone 的實測網速、覆蓋率與預付資費，詳解護照實名登記規定與 APN 設定，從馬德里、巴塞隆納到安達魯西亞各城逐段檢視，幫你選對西班牙 eSIM。"
+
+image: "img/esim/carriers/spain-esim-carrier-guide.jpg"
+
+date: "2026-09-23T16:48:17+00:00"
+
+keywords: Spain eSIM carriers, Movistar eSIM, Orange eSIM, Vodafone Spain eSIM, Yoigo eSIM, Spain 5G coverage, Spain eSIM APN, prepaid eSIM Spain, best eSIM carrier Spain, EU roaming Spain
+
+site_name: Roami
+
+brand_name: Roami
+
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "西班牙 eSIM 指南"
-    url: ""
 
-# Hero 區塊文案
-hero_badge: "[🇪🇸] 西班牙 最新旅遊 eSIM 指南"
-hero_subtitle_main: "西班牙 eSIM：自助旅行者必備網路"
-hero_subtitle_highlight: "Movistar 與 Orange 頂級 5G 覆蓋"
-hero_description_line1: "選擇 西班牙 eSIM，抵達後即可連接高速 5G 網路。相容 iPhone 與 Android，為旅行、工作或學習提供穩定網路，節省您的時間與金錢。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "西班牙 eSIM"
-hero_link_url: "/spain-esim/"
-tldr_summary: "【專為數位遊牧民族打造：多國無限數據傳輸方案】根據 Ookla 2025 上半年報告，Movistar 以中位下載 102.94 Mbps 奪下最佳行動網路，其 5G 中位下載更高達 191.62 Mbps。Orange 則提供最佳影片串流體驗。固定網路方面，DIGI 以 321.62 Mbps 中位下載稱霸。Roami 的西班牙 eSIM 讓您無需換卡，抵達即連上這些頂級網路，無論在馬德里工作、巴塞隆納直播或格拉納達遠距會議，都能享受低延遲、高頻寬的穩定連線。結論：選擇 Roami eSIM，等於擁有西班牙最快行動與固網等級的數據體驗。"
+- name: Roami
 
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "西班牙 eSIM 快速連結"
-sidebar_links:
+  url: /
 
-  - href: "#quick-picks"
-    text: "快速選擇：西班牙 該選哪家 eSIM 營運商？"
+- name: 西班牙 eSIM 指南
 
-  - href: "#operators"
-    text: "西班牙 最佳行動 eSIM 營運商總覽"
+  url: ''
 
-  - href: "#city-guide"
-    text: "城市指南：西班牙 最佳 eSIM"
+hero_badge: "Movistar、Orange 還是 Vodafone 西班牙？西班牙的選擇"
 
-  - href: "#before-buy"
-    text: "購買 西班牙 eSIM 前須知"
-
-  - href: "#faq"
-    text: "西班牙 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "西班牙 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：西班牙 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Movistar"
-    carrier_class: "text-blue-600"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，Movistar 擁有最佳整體行動網路（中位下載 102.94 Mbps）與最佳 5G 網路（中位下載 191.62 Mbps），且 5G 可用率高達 78.7%，非常適合需要穩定高速連線進行遠距工作的數位遊牧民族。"
-
-  - travel: "城市探索者"
-    carrier: "Orange"
-    carrier_class: "text-orange-600"
-    reason: "Orange 提供最佳影片串流體驗，且中位下載速度 72.72 Mbps 僅次於 Movistar。在巴塞隆納、馬德里等大城市覆蓋極佳，適合頻繁使用社群媒體、觀看影片的城市旅客。"
-
-  - travel: "預算有限背包客"
-    carrier: "DIGI"
-    carrier_class: "text-green-600"
-    reason: "DIGI 雖為 MVNO，但根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，其固定網路中位下載高達 321.62 Mbps，上傳亦達 321.14 Mbps，是西班牙最快固網。若您主要使用 Wi-Fi 或飯店網路，搭配 DIGI 行動方案可享有極高性價比。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 西班牙 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "movistar-esim"
-    title: "Movistar eSIM 總覽：最佳整體與 5G 網路"
-    best_for: "此方案絕對是最佳選擇，適合追求極致速度與覆蓋的用戶。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，Movistar 在 1H 2025 獲得最佳行動網路與最佳 5G 網路雙料冠軍。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，中位 5G 下載速度為 191.62 Mbps，5G 可用率高達 78.7%。\n- **下載速度**：整體中位下載 102.94 Mbps，上傳 14.4 Mbps，延遲 50 ms。\n- **5G 下載速度**：中位 5G 下載 191.62 Mbps，5G 上傳 17.86 Mbps，5G 延遲 47 ms。\n- **一致性**：88.8% 樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻；5G 則有 76.7% 達到 25 Mbps 下載 / 3 Mbps 上傳。\n- **影片體驗**：5G 影片串流分數 86.75，5G 遊戲體驗分數 80.32。"
-    arcep_note: "經當地電信主管機關（CNMC）確認，Movistar 為西班牙最大營運商，擁有最廣泛的 4G/5G 覆蓋，尤其在偏遠地區表現優異。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時開通。抵達西班牙後掃描 QR code 即可連線，無需繁瑣設定。"
-    user_scenarios: "- **[聖家堂直播]**：在巴塞隆納聖家堂前進行 4K 直播，Movistar 的 5G 低延遲（47 ms）與高上傳（17.86 Mbps）確保畫面流暢不卡頓。\n- **[格拉納達遠距會議]**：在阿爾罕布拉宮附近使用視訊會議，Movistar 的 5G 可用率 78.7% 讓您即使在歷史建築密集區也能穩定連線。\n- **[馬德里工作咖啡廳]**：在馬德里市中心咖啡廳處理大檔案，102.94 Mbps 下載速度讓雲端備份瞬間完成。"
-    bg_color: "bg-blue-50"
-
-  - id: "orange-esim"
-    title: "Orange eSIM 總覽：最佳影片串流體驗"
-    best_for: "此方案適合重度影音使用者與城市旅客。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，Orange 提供最佳影片串流體驗，且整體速度僅次於 Movistar。"
-    core_data: "- **下載速度**：整體中位下載 72.72 Mbps，僅次於 Movistar。\n- **影片體驗**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，Orange 與 Movistar 並列最佳影片串流體驗 ISP。\n- **5G 速度**：中位 5G 下載 138.23 Mbps，排名第二。\n- **覆蓋**：Orange 在主要城市與觀光區覆蓋密集，適合城市探索。"
-    arcep_note: "經 CNMC 確認，Orange 為西班牙第二大行動營運商，與 Movistar 共享部分基礎設施，覆蓋品質穩定。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時開通。抵達西班牙後掃描 QR code 即可連線，無需繁瑣設定。"
-    user_scenarios: "- **[巴塞隆納海灘串流]**：在巴塞隆納海灘觀看 Netflix 4K 影片，Orange 的影片串流優化讓緩衝次數降到最低。\n- **[塞維亞廣場打卡]**：在西班牙廣場上傳高畫質 Instagram 限時動態，72.72 Mbps 下載與穩定上傳確保即時分享。\n- **[瓦倫西亞美食直播]**：在中央市場直播海鮮燉飯製作過程，Orange 的低延遲讓互動零時差。"
-    bg_color: "bg-orange-50"
-
-  - id: "digi-esim"
-    title: "DIGI eSIM 總覽：最快固網等級速度"
-    best_for: "此方案適合預算有限但重視下載速度的用戶。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，DIGI 是西班牙最快固網 ISP，中位下載 321.62 Mbps。"
-    core_data: "- **固定網路速度**：中位下載 321.62 Mbps，中位上傳 321.14 Mbps，為西班牙最快。\n- **行動網路**：DIGI 為 MVNO，主要依賴 Movistar 或 Orange 基礎設施，速度可能因地區而異。\n- **價格**：通常提供極具競爭力的價格方案，適合長期停留或大量數據需求者。"
-    arcep_note: "經 CNMC 確認，DIGI 為西班牙主要 MVNO，以低價高速方案著稱，但行動覆蓋依賴母公司網路。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時開通。抵達西班牙後掃描 QR code 即可連線，無需繁瑣設定。"
-    user_scenarios: "- **[馬德里 Airbnb 遠距工作]**：在 Airbnb 使用 DIGI 固網等級速度（321.62 Mbps）進行大檔案上傳與下載，效率媲美辦公室。\n- **[巴塞隆納共享辦公室]**：在 coworking space 搭配 DIGI 行動數據作為備援，確保連線不中斷。\n- **[長途火車旅行]**：從馬德里到巴塞隆納的 AVE 火車上，DIGI 依賴 Movistar 網路提供穩定連線，適合串流音樂與輕度工作。"
-    bg_color: "bg-green-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 西班牙 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 西班牙 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 西班牙 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 西班牙 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段與裝置相容性"
-    content: "西班牙主要營運商（Movistar、Orange、Vodafone）使用 5G NR 頻段 n78（3.5 GHz）與 n1（2100 MHz），4G LTE 則以 band 3（1800 MHz）、band 7（2600 MHz）與 band 20（800 MHz）為主。購買 eSIM 前請確認您的裝置支援這些頻段，尤其是 band 20 對於偏遠地區覆蓋至關重要。iPhone 12 以上及多數 Android 旗艦機均相容。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "西班牙法規要求預付 SIM 卡（含 eSIM）需進行實名認證（KYC）。購買 Roami 西班牙 eSIM 時，您需要提供護照或國民身分證照片，並填寫基本個人資訊。認證通常在數分鐘內完成，通過後即可收到 QR code 啟用。"
-
-  - heading: "3. 公平使用政策（FUP）與每日數據上限"
-    content: "多數西班牙 eSIM 方案設有公平使用政策，例如每日高速數據上限（如 2GB 後降速至 128 kbps）。Roami 的無限方案通常包含每日一定量的高速數據，超出後仍可繼續使用但速度受限。請仔細閱讀方案條款，避免在串流或大檔案下載時觸發降速。"
-
-  - heading: "4. 網路覆蓋與速度差異"
-    content: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，L’Hospitalet de Llobregat 是西班牙網速最快的城市（行動中位 154.27 Mbps，固網 298.26 Mbps）。馬德里、巴塞隆納等大城市覆蓋極佳，但偏遠山區或小島（如梅諾卡島）可能僅有 4G 或較慢速度。選擇 eSIM 時請確認營運商在您行程區域的覆蓋地圖。"
-
-  - heading: "5. eSIM 啟用與疑難排解"
-    content: "Roami 西班牙 eSIM 支援出發前安裝，抵達後掃描 QR code 啟用。若無法連線，請確認已開啟數據漫遊、APN 設定正確，並手動選擇營運商（如 Movistar 或 Orange）。多數問題可透過重新開機或重新掃描 QR code 解決。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：西班牙 最佳 eSIM"
-city_guide_desc: "了解哪款 西班牙 eSIM 是您目的地的最佳選擇，根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025) 的數據與當地覆蓋特性。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "L’Hospitalet de Llobregat"
-    carriers: "Movistar"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，此城市擁有西班牙最快行動中位下載速度（154.27 Mbps）與固網速度（298.26 Mbps）。Movistar 在此表現最佳，適合需要極速連線的商務旅客。"
-
-  - city: "馬德里"
-    carriers: "Orange"
-    reason: "馬德里作為首都，Orange 提供優異的影片串流體驗與穩定的 5G 覆蓋。適合在太陽門廣場、普拉多博物館等地打卡上傳，或於咖啡廳進行遠距工作。"
-
-  - city: "巴塞隆納"
-    carriers: "Movistar"
-    reason: "巴塞隆納觀光客眾多，Movistar 的 5G 可用率 78.7% 確保在聖家堂、蘭布拉大道等人潮密集區仍能高速連線。適合直播、視訊會議等需求。"
-
-  - city: "塞維亞"
-    carriers: "Orange"
-    reason: "塞維亞以歷史景點聞名，Orange 在安達盧西亞地區覆蓋良好，且影片串流體驗佳。適合在西班牙廣場、塞維亞大教堂附近分享高畫質內容。"
-
-  - city: "格拉納達"
-    carriers: "Movistar"
-    reason: "格拉納達的阿爾罕布拉宮位於山丘，Movistar 的廣泛覆蓋確保在景區內仍能穩定連線。適合遠距工作者在歷史氛圍中保持生產力。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 西班牙 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在馬德里、巴塞隆納等大城市，推薦 Orange eSIM。其最佳影片串流體驗讓您隨時觀看旅遊指南、上傳 IG 限動，且 72.72 Mbps 中位下載足以應付導航與社群媒體。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往庇里牛斯山或國家公園，Movistar 的 5G 可用率 78.7% 與廣泛覆蓋是首選。即使在山區，仍能保持連線分享美景，或使用離線地圖備援。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "長途自駕需要穩定導航與音樂串流。Movistar 的低延遲（50 ms）與高一致性（88.8% 樣本達標）確保 Google Maps 即時更新，並在偏遠路段仍能連線。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在 Costa del Sol 或巴塞隆納海灘，Orange 的影片串流優化讓您享受無緩衝的 Netflix 或 Spotify。海邊人潮眾多時，Orange 的網路容量表現穩定。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "西班牙 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "西班牙 不同地區與城市之間是否存在明顯的網速差異？"
-    a: "是的，根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，L’Hospitalet de Llobregat 的行動中位下載速度高達 154.27 Mbps，而部分偏遠地區可能僅有 20-30 Mbps。馬德里、巴塞隆納等大城市平均速度較高，但山區或小島（如梅諾卡島）可能僅有 4G 且速度較慢。選擇 eSIM 時建議參考營運商覆蓋地圖。"
-
-  - q: "我可以同時使用實體 SIM 卡（原門號）與 西班牙 eSIM 嗎？"
-    a: "可以。多數雙卡手機（如 iPhone XS 以上、Android 旗艦）支援同時使用實體 SIM 與 eSIM。您可將原門號設為語音與簡訊，eSIM 設為數據專用。請注意，部分方案可能不支援雙卡同時啟用，建議購買前確認 Roami 的相容性說明。"
-
-  - q: "如果我的 西班牙 eSIM 安裝成功後無法找到網路，該怎麼辦？"
-    a: "請依序嘗試：1. 開啟數據漫遊（設定 > 行動服務 > 選擇 eSIM > 數據漫遊）。2. 手動選擇營運商（設定 > 行動服務 > 網路選擇 > 關閉自動，選擇 Movistar 或 Orange）。3. 重新開機。4. 刪除 eSIM 設定檔，重新掃描 QR code 安裝。若仍無效，請聯繫 Roami 客服。"
-
-  - q: "我可以在出發前於家中安裝 西班牙 旅遊 eSIM 嗎？"
-    a: "可以。Roami 西班牙 eSIM 支援出發前安裝，您會收到 QR code，建議在出發前於有 Wi-Fi 的環境下掃描安裝。抵達西班牙後，開啟數據漫遊即可自動連線。請注意，部分方案可能從啟用當日開始計算天數，請確認方案條款。"
-
-  - q: "西班牙 eSIM 是否有特定的每日數據用量上限（例如每日 2GB 後降速）？"
-    a: "多數西班牙 eSIM 方案設有公平使用政策（FUP），例如每日高速數據上限為 2GB 或 5GB，超出後降速至 128 kbps 或 256 kbps。Roami 的無限方案通常包含每日一定量的高速數據，降速後仍可瀏覽網頁與使用通訊軟體，但串流影片可能受影響。購買前請仔細閱讀方案說明。"
-
-# 迷思
-myths_title: "⚠️ 西班牙 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "西班牙所有營運商的 5G 速度都差不多。"
-    truth: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)，Movistar 的 5G 中位下載速度為 191.62 Mbps，而 Orange 為 138.23 Mbps，差距顯著。選擇營運商會直接影響您的實際體驗。"
-
-  - myth: "eSIM 只能在最新旗艦手機上使用。"
-    truth: "eSIM 技術已廣泛支援 iPhone XS 以上、Google Pixel 3 以上、三星 Galaxy S20 以上等機型，並非僅限最新旗艦。購買前可查詢 Roami 的相容性列表。"
-
-  - myth: "西班牙偏遠地區完全沒有網路覆蓋。"
-    truth: "雖然偏遠地區速度較慢，但 Movistar 的 5G 可用率達 78.7%，且 4G 覆蓋率超過 95%。多數國家公園與鄉村地區仍有基本連線，適合離線地圖備援。"
-
-  - myth: "預付 eSIM 無法用於熱點分享。"
-    truth: "多數 Roami 西班牙 eSIM 方案支援熱點分享，但可能設有流量限制或降速政策。請確認方案條款，部分無限方案可能禁止或限制熱點使用。"
-
-  - myth: "西班牙 eSIM 啟用後必須在 24 小時內使用，否則失效。"
-    truth: "Roami 西班牙 eSIM 通常有較長的啟用期限（例如 30 天），您可在購買後於期限內任意時間啟用。啟用後方案天數才開始計算，適合提前購買。"
-
-# 數據來源
-data_sources_title: "西班牙 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據，涵蓋 2025 年上半年西班牙行動與固定網路效能分析，包括中位下載/上傳速度、5G 可用率、一致性等指標。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的西班牙行動網路體驗報告，提供影片串流、遊戲體驗、語音應用等用戶體驗評分，可與 Ookla 數據互補。"
-
-  - name: "CNMC（西班牙國家市場與競爭委員會）2025"
-    description: "西班牙電信監管機構 CNMC 發布的季度覆蓋與市場份額報告，確認各營運商的頻譜持有與覆蓋義務，為官方權威來源。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已標註來源。實際體驗可能因裝置、地點、時間與網路負載而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查詢最新覆蓋地圖，並備妥離線方案。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 西班牙 eSIM"
-cta_desc: "即時存取高速 5G 網路，無漫遊費，抵達即連線。選擇 Roami，享受 Movistar 與 Orange 頂級網路。"
-cta_button_text: "立即購買 西班牙 eSIM"
-cta_button_link: "/spain-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "西班牙 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
+hero_subtitle_main: "獨立測速數據揭示了什麼——又遺漏了什麼"
 
 ---
+
+
+
+
+
+
+**你的西班牙 eSIM 該跑在哪個網路上？** 西班牙在歐洲相當特殊，因為網路版圖在 2024 年重新洗牌。Orange 與 MásMóvil 合併為名為 MásOrange 的單一集團，Vodafone 西班牙轉手給 Zegona，Yoigo 則以獨立品牌運作於 MásOrange 旗下，同時仍保有自己的無線網路。結果是旅客實際上能買到的四張實體網路：Movistar、MásOrange（Orange）、Vodafone 與 Yoigo。它們並不能互換。在 Ookla 的 2025 上半年西班牙報告中，**Movistar** 以 **77.3** 的 Speedtest 連線品質評分奪下最佳行動網路，並以 **78.7%** 擁有最高的 5G 可用率。**Orange** 以 **84.59** 拿下最佳遊戲體驗，而 **Vodafone** 與 **Yoigo** 在原始速度上落後，但在城市中依然完全可用。因此哪家勝出取決於你的行程而非品牌忠誠度：路線越偏遠，選擇越收斂。
+
+
+
+**快速答案：** Movistar 是多數旅客在西班牙應該優先列入清單的網路；Orange 是值得拿來比價的高性價比替代方案。如果你寧願實測覆蓋率也不想讀規格，Roami 的[免費試用 eSIM](/free-esim/) 是你在西班牙零風險的入門選擇。
+
+
+
+比較電信業者前先確認兩件事：裝置相容性與安裝流程。[裝置相容性清單](/compatibility/)回答第一件事，[eSIM 安裝如何運作](/faq/what-is-esim-activation-and-how-does-it-work/)回答第二件事——以下所有內容都聚焦在電信業者本身。
+
+
+
+**30 秒版本：** 停留馬德里或巴塞隆納？Movistar 是最強的全方位網路，在鄉村覆蓋上也領先。大量串流或打遊戲？Orange 在影片與遊戲評分上略勝。走聖雅各之路或開車穿越庇里牛斯山？Movistar 在其他訊號衰退之處仍能保持訊號。想要一個西班牙門號與歐盟漫遊？四張預付卡 eSIM 都可以，但每一張都強制在銷售點進行護照實名登記。或者跳過這些手續：[免費試用 eSIM](/free-esim/) 零成本測試各家網路，優惠碼 **WEB20** 可讓[西班牙預付卡 eSIM 方案](/spain-esim/)打 8 折。
+
+
+
+## 你的 eSIM 背後：電信業者陣容
+
+
+
+西班牙運行四張實體網路，旅客可以在每一張上購買預付卡 eSIM。背後的品牌很重要，因為它們決定你的價格、你的實名登記關卡，以及你實際落在哪些基地台上。
+
+
+
+### Movistar vs Orange：在西班牙哪家更好？
+
+
+
+| | Movistar | MásOrange (Orange) | Vodafone | Yoigo |
+
+|:---|:---|:---|:---|:---|
+
+| 自有網路 | 是，Telefónica | 是，2024 年與 MásMóvil 合併 | 是，現為 Zegona 所有 | 是，另加 Movistar 鄉村漫遊 |
+
+| 提供旅客的預付卡 eSIM | 是，透過 Mi Movistar App | 是，透過 My Orange App | 是，透過 Vodafone 預付卡入口 | 是，透過 Mi Yoigo App |
+
+| 優勢所在 | 整體最佳、鄉村覆蓋最佳 | 遊戲最佳、影片表現強勁 | 城市穩固、英國與美國漫遊良好 | 每 GB 價格最低 |
+
+| 最便宜的預付卡入門 | 約 10 歐元 40 GB | 約 10 歐元 60 GB 加贈流量 | 約 10 歐元 90 GB | 約 7 歐元 7 GB、20 歐元 50 GB |
+
+| 旅客如何取得 | 護照實名登記，App 或門市 | 護照實名登記，App 或門市 | 護照實名登記，App 或門市 | 護照實名登記，App 或門市 |
+
+
+
+**真正有用的重點在最後一行：** 四家業者都販售國際旅客可以購買的預付卡 eSIM，但沒有一家允許你匿名使用。西班牙法律要求每一張 SIM——實體或 eSIM——都必須登記在經過驗證的身分下，而護照正是旅客使用的證件。你選擇哪家業者改變的是你的價格與覆蓋率，而不是你的文件手續。
+
+
+
+### 西班牙需要認識的網路
+
+
+
+貨架上的便宜品牌並不是獨立網路。它們向上面的四個擁有者租用容量，這就是為什麼它們的覆蓋率與母網路如出一轍。
+
+
+
+| 品牌 | 底層網路 | eSIM | 適合誰 |
+
+|:---|:---|:---|:---|
+
+| Lowi | Vodafone | 是，約 12.90 歐元 25 GB | 在 Vodafone 覆蓋範圍內的省錢城市停留 |
+
+| O2 | Movistar | 是，約 12 歐元 20 GB | 想以低價享有 Movistar 覆蓋的輕度使用者 |
+
+| Simyo | MásOrange (Orange) | 僅限部分方案，約 8 歐元 15 GB | 以最低價格獲得 Orange 覆蓋 |
+
+| Pepephone | MásOrange（MásMóvil 一側） | 是，約 14.95 歐元 20 GB | 長期停留，接受國際信用卡 |
+
+| Lebara | MásOrange（MásMóvil 一側） | 是 | 國際通話、親友在國外的使用者 |
+
+| Lycamobile | MásOrange（MásMóvil 一側） | 因方案而異 | 便宜的國際通話分鐘數 |
+
+| Digi | 自有網路加 Movistar 漫遊 | 有限，多為月租型 | 最便宜的流量，約 10 歐元 50 GB |
+
+
+
+兩點提醒。第一，平價品牌在申辦時可能更嚴格：有幾家要求西班牙身分證（NIE 或 DNI）與西班牙金融卡，僅持護照的旅客可能無法通過。第二，這些品牌的預付卡方案都綁定單一母網路。你在 Simyo 上得到的是 Orange 的基地台，別無其他——一旦離開城市或翻越山口，這一點就很關鍵。
+
+
+
+### 可以向 Movistar 購買西班牙 eSIM 嗎？
+
+
+
+| | 直接向西班牙電信業者購買 | 跑在西班牙網路上的旅遊 eSIM |
+
+|:---|:---|:---|
+
+| 你需要什麼 | 實名登記用護照；部分管道要求西班牙地址；能在西班牙使用的卡片 | 一支相容且未鎖定的手機 |
+
+| 設定檔如何送達 | 身分驗證後以 QR 碼透過電子郵件或在 App 內發送 | 結帳後立即取得 QR 碼或 App 安裝 |
+
+| 典型成本 | 每 28 至 30 天約 10 至 20 歐元可享 7 至 90 GB | 單一預付價格，無 SIM 費用、無排隊登記 |
+
+| 網路存取 | 單一業者（或其平價品牌） | 在 Movistar、Orange、Vodafone 與 Yoigo 之間自動切換 |
+
+| 最適合 | 停留一個月以上，或需要西班牙電話門號的人 | 一到兩週的行程，以及想一落地就能上網的人 |
+
+
+
+經濟帳取決於你重視什麼。西班牙預付卡 eSIM 收取低廉的本地費率，並給你一個附歐盟漫遊的真正西班牙門號，對長期停留或接收銀行驗證碼來說確實有用。旅遊 eSIM 以批發價購買流量、跳過護照櫃台，並讓裝置在四張網路之間自由移動而無需你做選擇。本地業者的優勢是本地門號與歐盟漫遊額度；旅遊 eSIM 的優勢是即時送達與免登記。
+
+
+
+多網路 eSIM 設定檔是實用的中間路線：[Roami 的西班牙 eSIM](/spain-esim/) 保留即時送達的便利，在 Movistar、Orange、Vodafone 與 Yoigo 之間自動切換，讓你在山上落在 Movistar、在城市落在 Orange，而不必買兩次。
+
+
+
+## 你的手機吃得上這張 eSIM 嗎？
+
+
+
+三件事決定你的手機能否在西班牙電信業者的網路上運作：頻段、鎖定狀態，以及一小串裝置特有的問題。三者在下方都有涵蓋。
+
+
+
+### 舊手機能用西班牙 eSIM 嗎？
+
+
+
+西班牙業者的 4G 建在 B1、B3、B7、B8、B20（800 MHz）與 B28a（700 MHz）頻段上，5G 建在 n1、n3、n7、n28a（700 MHz）、n78（3.5 GHz）與 n258（26 GHz）上。在歐洲、亞洲與美洲銷售的多數國際手機都已支援這些頻段，所以相容性很少像在加拿大那樣成為問題。真正區分城市與鄉村的是 4G 的 B20（800 MHz）與 5G 的 n28a（700 MHz）：缺少這兩個頻段的手機在馬德里與巴塞隆納仍能運作，但會失去填補鄉村山谷的低頻覆蓋。
+
+
+
+沒有人需要背誦這些頻段數字。最可靠的做法是把確切型號對照[eSIM 相容性清單](/compatibility/)。想先了解技術背景？[手機載入 eSIM 設定檔時會發生什麼](/faq/what-is-esim-activation-and-how-does-it-work/)是最佳的起點。
+
+
+
+### 你的手機在西班牙能用 eSIM 嗎？
+
+
+
+鎖定的手機是西班牙 eSIM 安裝直接失敗最常見的原因。與某些市場不同，在西班牙與歐盟銷售的大多數手機都是解鎖的，因為歐盟零售慣例預設開放裝置。會讓旅客栽跟頭的是綁定美國、加拿大、日本或中東業者合約的門號手機。
+
+
+
+**檢查方式：** iPhone 前往「設定」→「一般」→「關於本機」→「電信業者鎖定（Carrier Lock）」。若顯示「無 SIM 卡限制（No SIM restrictions）」，代表沒有業者鎖定這支裝置。若顯示「SIM 已鎖定（SIM locked）」，在裝置解鎖之前無法安裝任何第三方設定檔。
+
+
+
+**解決方式：** 向鎖定裝置的電信業者申請解鎖。鎖定移除後，再嘗試安裝你的 eSIM。如果你買的是二手機或水貨機，請假設它可能被鎖定並在出發前確認。
+
+
+
+### 西班牙 IMEI 與 EID 檢查
+
+
+
+| 裝置 | 症狀 | 該怎麼做 |
+
+|:---|:---|:---|
+
+| 中國大陸版 iPhone 機型 | 完全沒有「加入 eSIM」選項，硬體在該市場被停用 | 無法解決；改用實體 SIM 或其他裝置 |
+
+| 在國外被鎖定的電信版 Samsung | 設定中 eSIM 選項呈灰色 | 先請原始電信業者解鎖，再重新開機 |
+
+| 缺少 B20 或 n28a 的手機 | 城市很快、西班牙鄉村很弱 | 屬預期行為；內陸地區優先選 Movistar |
+
+| 雙 SIM 使用者 | eSIM 已安裝但沒有流量 | 把 eSIM 設為行動數據所使用的門號 |
+
+
+
+其餘任何原因都在裝置本身，而非西班牙電信業者。在購買方案前，先用[裝置相容性檢查工具](/compatibility/)查一下你的機型。
+
+
+
+## 各方案要多少錢
+
+
+
+共有四條路線，它們在登記手續上的差異比價格更大：Movistar 直購、Orange 或任何 MásOrange 旗下品牌、Vodafone 直購，以及 MásOrange 集團內的 Yoigo。逐一說明每條路線。
+
+
+
+| 業者 | 入門預付卡方案 | 流量 | 價格（歐元） | 有效期限 |
+
+|:---|:---|:---|:---|:---|
+
+| Movistar | Prepago Básico | 約 40 GB | 約 10 | 28 天 |
+
+| Orange (MásOrange) | Prepago 10 | 60 GB 加 20 GB 加贈 | 約 10 | 28 天 |
+
+| Vodafone | Prepago S | 90 GB | 約 10 | 28 天 |
+
+| Yoigo | Prepago 25 | 25 GB | 約 15 | 30 天 |
+
+
+
+價格比文章更新得快，所以請把這張表當作入門方案的快照，而非即時報價。目前的組合請見我們的[西班牙 eSIM 方案頁](/spain-esim/)。
+
+
+
+### 旅客在哪裡購買西班牙 eSIM
+
+
+
+Movistar 是西班牙最大的電信業者與覆蓋率領先者，由 Telefónica 持有。旅客透過 Mi Movistar App 或 Movistar 門市購買預付卡 eSIM。
+
+
+
+**Movistar eSIM，逐步說明：**
+
+
+
+1. 下載 Mi Movistar App 並選擇預付卡方案。入門預付卡約 10 歐元 40 GB，更高階方案約 20 歐元 50 GB。
+
+2. 結帳時選擇 eSIM。新申辦的 eSIM 主線免費；除非使用 iPhone 快速移轉，否則實體 SIM 轉 eSIM 可能收取一次性費用。
+
+3. 以護照驗證身分。西班牙法律要求在設定檔發出前完成實名登記。
+
+4. 透過 QR 碼接收 eSIM 或直接在 App 內安裝，抵達後開啟數據漫遊。
+
+
+
+Movistar 公布支援 eSIM 的機型為 iPhone XS 及之後、Google Pixel 3 及之後，以及 Samsung Galaxy S20 及之後。購買前先確認你的機型。
+
+
+
+### 西班牙：本地 SIM 對決旅遊 eSIM
+
+
+
+Orange 現在是 MásOrange 的消費品牌門面，該集團由 Orange 西班牙於 2024 年與 MásMóvil 合併而成。旅客可透過 My Orange App 購買 Orange 預付卡 eSIM，其中 Prepago 10 方案約 10 歐元可享 60 GB 加 20 GB 加贈流量，附國內無限通話與 28 天有效期限。該方案的歐盟漫遊最高可達 26 GB。
+
+
+
+MásOrange 家族還包括 Yoigo、Jazztel、Simyo、Pepephone、Lebara 與 Lycamobile，因此同一集團幾乎涵蓋每一個價格帶。如果你想要 Orange 的網路但不想要 Orange 的品牌，Simyo 是最便宜的路線，而 Pepephone 較容易接受國際信用卡。所有品牌仍都需要護照或西班牙身分證登記。
+
+
+
+### 西班牙 eSIM 方案的成本
+
+
+
+Vodafone 西班牙已由 Vodafone 集團售予 Zegona Communications，但網路與預付卡 eSIM 流程不變。旅客透過 Vodafone 預付卡入口或門市申辦。
+
+
+
+Vodafone 的預付卡方案在流量上相當大方：Prepaid S 約 10 歐元 90 GB，Prepaid M 約 15 歐元 270 GB，皆無綁約。驗證護照後，Vodafone 會寄出 QR 碼與六位數確認碼；在手機設定中掃描該碼並輸入確認碼即可下載設定檔。Vodafone 也支援 iOS 17.4 及之後版本的 iPhone 快速移轉，不必 QR 碼即可將 SIM 轉為 eSIM。
+
+
+
+### Yoigo 有賣給旅客的預付卡 eSIM 嗎？
+
+
+
+Yoigo 有販售預付卡 eSIM，對省錢的旅客值得仔細研究。它經營自己的都會網路，並透過與 Movistar 的全國漫遊協議涵蓋鄉村與山區，因此 Yoigo 預付卡使用者在城市以外實際上繼承了 Movistar 的覆蓋範圍。
+
+
+
+Yoigo 的預付卡方案價格低於三大業者：約 7 歐元 7 GB、12 歐元 15 GB、15 歐元 25 GB、20 歐元 50 GB 與 30 歐元 100 GB，全部為 30 天有效期限。登記可線上完成並以視訊驗證身分，接受外國護照，營業時間內 QR 碼通常在一小時內送達。Yoigo 門市有限，約 150 間且多在馬德里、巴塞隆納、瓦倫西亞與塞維亞，所以多數旅客選擇線上登記。
+
+
+
+### 提供旅客的 Movistar eSIM 方案
+
+
+
+- **護照** — 每一家西班牙業者與平價品牌的登記都必備
+
+- **IMEI** — 撥 \*#06# 確認手機支援 eSIM
+
+- **EID** — 同樣在 \*#06# 畫面上，eSIM 自身的識別碼
+
+- **西班牙或飯店地址** — 登記時會詢問；飯店或 Airbnb 地址通常可接受
+
+- **能在西班牙使用的卡片** — 部分業者結帳會拒絕外國帳單資訊，平價品牌更嚴格
+
+- **Wi-Fi** — 起飛前就安裝設定檔，而不是在機場
+
+
+
+## 本地業者：Movistar、Orange 與 Vodafone 西班牙
+
+
+
+這一節歸結為兩個問題：每張網路在你要去的地方表現如何，以及你是哪一種旅人。下列實測數據涵蓋網路品質，而行程矩陣涵蓋適配度。
+
+
+
+### Movistar vs Orange：哪個西班牙業者更快？
+
+
+
+以下所有數據來自 Ookla 的 **2025 上半年西班牙** Speedtest 連線品質報告（資料蒐集期間為 2025 年 1 月至 6 月），屬全國層級的業者量測。完整報告見 https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025。
+
+
+
+| 指標 | Movistar | Orange | Vodafone | Yoigo |
+
+|:---|:---|:---|:---|:---|
+
+| Speedtest 連線品質評分 | **77.3**（最佳） | 73.59 | 69.51 | 68.62 |
+
+| 速度評分 | **68.81**（最快） | 62.41 | 53.72 | 53.5 |
+
+| 穩定度評分 | **88.8**（最佳） | 84.7 | 86 | 83.5 |
+
+| 5G 可用率 | **78.7%**（最高） | 72.9% | 68.2% | 67.5% |
+
+| 影片串流評分 | 74.85 | 73.99 | 74.27 | 72.4 |
+
+| 遊戲評分 | 83.46 | **84.59**（最佳） | 82.99 | 82.06 |
+
+| 五星評價 | **3.06**（最高） | 2.97 | 2.76 | 2.69 |
+
+
+
+| Ookla 2025 上半年獎項 | 獲獎業者 | 公布數值 |
+
+|:---|:---|:---|
+
+| 最佳行動網路（連線品質評分） | Movistar | 77.3 |
+
+| 最快行動網路（速度評分） | Movistar | 68.81 |
+
+| 最佳穩定度評分 | Movistar | 88.8 |
+
+| 最高 5G 可用率 | Movistar | 78.7% |
+
+| 最佳行動遊戲體驗 | Orange | 84.59 |
+
+| 最佳影片串流評分 | Movistar | 74.85 |
+
+| 最高評價（五星） | Movistar | 3.06 |
+
+
+
+報告未為某業者公布更精細數據之處，上表排名直接取自公布的列。兩點值得注意：Movistar 在頭條的連線品質評分、原始速度評分、5G 可用率與穩定度上全面領先，這正是公路旅行最在意的組合；而 Orange 的勝利在於遊戲體驗與強勁的影片評分。Vodafone 與 Yoigo 在速度上落後，但在城市中依然穩固，Yoigo 更能借用 Movistar 的鄉村覆蓋。
+
+
+
+就全國整體而言，Ookla 的 Speedtest Global Index 顯示西班牙 2026 年 8 月的行動下載中位數約 83.65 Mbps，全球第 55 名，延遲 34 ms；Cable.co.uk 評估西班牙行動數據每 GB 約 0.48 美元，是其追蹤的 237 個市場中最便宜的一批。
+
+
+
+### 依你的旅行方式挑選最佳西班牙 eSIM
+
+
+
+| 行程類型 | 推薦業者 | 原因 | 注意事項 |
+
+|:---|:---|:---|:---|
+
+| 城市小旅行，馬德里或巴塞隆納 | Movistar 或 Orange | 兩者在市中心都很出色；Movistar 最快，Orange 影片最強 | 地鐵訊號隨路線而異 |
+
+| 聖雅各之路 | Movistar | 鄉村覆蓋最佳，最能補足城鎮與美索他台地之間的空隙 | 各階段之間的鄉村路段仍會斷訊 |
+
+| 庇里牛斯山或內華達山脈 | Movistar | 低頻段最能深入山谷與山口 | 1500 公尺以上可能只剩 3G 或完全沒訊號 |
+
+| 遊戲或重度影片 | Orange | 遊戲評分最佳（84.59）且影片評分強勁 | 上傳速度落後 Movistar |
+
+| 海灘與海島假期 | Movistar 或 Orange | 兩者的度假區覆蓋都很完善 | 島嶼之間的渡輪沒有訊號 |
+
+| 預算型旅客 | Yoigo | 每 GB 價格最低，加 Movistar 鄉村漫遊 | 自有網路較小、僅限都會區 |
+
+| 長期停留並需要西班牙門號 | 四者皆可 | 真正的西班牙門號加附歐盟漫遊 | 護照實名登記為必要程序 |
+
+
+
+### Movistar vs Orange：覆蓋率比較
+
+
+
+西班牙的覆蓋跟著人口走：地中海沿岸弧線與大城市密集，人煙稀少的內陸與高山迅速變薄。逐條路線來看，這代表：
+
+
+
+| 地區 | 實地情況 |
+
+|:---|:---|
+
+| 馬德里與中部 | 城市內 5G 密集；市中心很少掉回 4G。地鐵有訊號但並非每條路線都有。 |
+
+| 巴塞隆納與加泰隆尼亞 | 都會 5G 強勁；老城區夏季會壅塞。海岸線覆蓋良好。 |
+
+| 瓦倫西亞與東海岸 | 海灘城鎮覆蓋良好，離開建成帶後變薄。七八月非常擁擠。 |
+
+| 塞維亞與安達魯西亞 | 城市覆蓋沒問題；斷訊出現在鄉間小路與白色山城。 |
+
+| 鄉村內陸、卡斯提亞與埃斯特雷馬杜拉 | 本土覆蓋最弱，偏遠道路有空隙；Movistar 覆蓋最遠。開車前先下載離線地圖。 |
+
+| 庇里牛斯山與高山 | 山谷城鎮有訊號，約 1500 公尺以上轉弱；山口可能只有 3G 或沒訊號。 |
+
+| 聖雅各之路 | 城鎮與村莊有覆蓋，布爾戈斯與萊昂之間的鄉村台地以及北方海岸路線有空隙。 |
+
+| 巴利阿里群島 | 馬約卡、伊維薩與梅諾卡的度假區覆蓋強勁；特拉蒙塔納山區內陸時有時無。 |
+
+| 加那利群島 | 特內里費與大加那利觀光區覆蓋良好；泰德峰周邊的火山內陸轉薄。島嶼之間的渡輪沒有訊號。 |
+
+
+
+規劃會離開西班牙的路線？先看 [eSIM 葡萄牙](/portugal-esim/)、比較[法國 eSIM 方案](/france-esim/)，或看看[義大利 eSIM 覆蓋](/italy-esim/)。如果你的行程多次跨越國界，一張[歐洲 eSIM](/europe-esim/) 可以省下買兩次的錢。
+
+
+
+自動網路選擇會在西班牙行程中扛起大部分工作。能在 Movistar、Orange、Vodafone 與 Yoigo 之間移動的設定檔，涵蓋任何單一業者方案都無法補足的區域性空隙。
+
+
+
+## 西班牙電信業者的 eSIM 用什麼 APN 設定？
+
+
+
+把 APN 設定想成備援層：很少被碰觸，卻在什麼都載不動時起決定作用。下面是四家業者的數值、真正需要手動輸入的時機，以及確切的選單路徑。
+
+
+
+### Movistar、Orange 與 Vodafone 西班牙 eSIM 的 APN 數值
+
+
+
+只有當你**直接向西班牙電信業者**購買 SIM 或 eSIM 時才需要這些。旅遊 eSIM 會自帶適用西班牙的 APN，無需修改。
+
+
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+
+|:---|:---|:---|:---|
+
+| Movistar | `movistar.es` | `movistar` | `movistar` |
+
+| Orange (MásOrange) | `orangeworld` | `orange` | `orange` |
+
+| Vodafone | `airtelnet.es` | 留空 | 留空 |
+
+| Yoigo | `yoigo` | `yoigo` | `yoigo` |
+
+
+
+表格標示留空之處，使用者名稱與密碼就留空。若某業者堅持要填值，設定檔的文件或電子郵件會列明。
+
+
+
+### 西班牙網路：APN 細節
+
+
+
+- 不會自動抓取電信業者設定的較舊手機
+
+- 以手動啟用碼而非 QR 掃描安裝的設定檔
+
+- 自動設定未執行的業者預付卡 eSIM
+
+- 旅遊 eSIM 幾乎不會遇到，這正是託管設定檔的意義所在
+
+
+
+### 需要手動設定西班牙 APN 的情況
+
+
+
+- **iPhone：** 設定 → 行動服務（Cellular）→ 點選 eSIM 門號 → 行動數據網路 → 輸入 APN
+
+- **Android：** 設定 → 連接 → 行動網路 → 存取點名稱（APN）→ 新增 APN
+
+
+
+儲存後重新啟動手機。若之後仍載不動任何內容，確認數據門號設為西班牙 eSIM 而非你本國的 SIM。
+
+
+
+## 如何啟用西班牙 eSIM 並排解問題？
+
+
+
+把這一節讀一遍，你就能覆蓋整條路——從乾淨安裝到數據可用，再加上西班牙網路實際會產生的故障模式，按出現頻率排列。
+
+
+
+### 安裝西班牙 eSIM
+
+
+
+| # | 檢查項目 | 正常的樣子 |
+
+|:---|:---|:---|
+
+| 1 | 手機未被電信業者鎖定 | 設定 → 一般 → 關於本機 → 電信業者鎖定顯示「無 SIM 卡限制」 |
+
+| 2 | 手機支援 eSIM | \*#06# 顯示 EID，或 [eSIM 相容性工具](/compatibility/)確認你的機型 |
+
+| 3 | QR 碼與啟用碼已備份 | 截圖存在手機與雲端儲存空間 |
+
+| 4 | 出發前已安裝設定檔 | 在家中以 Wi-Fi 安裝；抵達時設定檔即連線 |
+
+| 5 | 數據門號與漫遊已設定 | eSIM 選為行動數據，數據漫遊開啟 |
+
+
+
+第 4 步在家裡完成。馬德里巴拉哈斯與巴塞隆納埃爾普拉特機場的入境大廳 Wi-Fi 恰恰在你最需要它時最壅塞，而你在當地才安裝的設定檔得和所有人的搶頻寬。
+
+
+
+### 西班牙 eSIM 啟用逐步說明
+
+
+
+從「加入 eSIM」到漫遊開關的常規安裝，已記錄在我們的 [eSIM 設定指南](/faq/how-to-activate-an-esim/)。各業者的差異在於：
+
+
+
+- **Movistar：** eSIM 主線免費，在 Mi Movistar App 內安裝或護照驗證後以 QR 碼安裝；除非使用 iPhone 快速移轉，實體轉 eSIM 可能收費
+
+- **Orange 與 MásOrange 旗下品牌：** 身分驗證後以電子郵件寄送 QR 碼；部分品牌將 SIM 轉 eSIM 收取少許費用
+
+- **Vodafone：** 寄出 QR 碼加六位數確認碼；支援 iOS 17.4 及之後版本的 iPhone 快速移轉
+
+- **Yoigo：** 線上視訊身分驗證，QR 碼約一小時內送達；門市啟用地點有限
+
+- **旅遊 eSIM：** 以 QR 碼安裝，同一設定檔會自動漫遊到四張網路中訊號最強的一張
+
+
+
+### 在 Movistar、Orange 與 Vodafone 西班牙上啟用
+
+
+
+一般啟用錯誤、無法下載的設定檔、掃描失敗、安裝了卻始終未註冊的 eSIM，都在我們的[完整 eSIM 疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)中涵蓋。往下讀時，請留意這四種西班牙特有的模式。
+
+
+
+**A. 結帳時登記被拒**
+
+
+
+1. 確認護照清晰且未過期
+
+2. 若要求西班牙地址，改試飯店或 Airbnb 地址
+
+3. 改用接受國際信用卡的業者或平價品牌，例如 Pepephone 或 O2
+
+
+
+**B. 已安裝，但沒有訊號格數**
+
+
+
+1. 再次檢查鎖定狀態
+
+2. 設定 → 行動服務 → 網路選擇，改成手動選擇 Movistar、Orange、Vodafone 或 Yoigo，而非自動
+
+3. 重置網路設定、重新開機，然後再測一次
+
+
+
+**C. 有訊號格數，但沒有網路**
+
+
+
+1. 對照表格逐字重新輸入 APN
+
+2. 確認數據設為西班牙 eSIM 門號而非你本國的 SIM。
+
+3. 確認你沒有用完流量額度，平價預付卡方案在達到上限後會大幅降速
+
+
+
+**D. 城市可用，進山就斷**
+
+
+
+1. 接受西班牙鄉村確實時好時壞；前往庇里牛斯山或台地前先下載離線地圖
+
+2. 在單一業者方案上，手動網路選擇可能找回自動模式找不到的格數
+
+3. 多網路旅遊 eSIM 無需你操作即可重新連上四張網路中最強的一張
+
+
+
+### 聯絡客服前該準備什麼？
+
+
+
+| 資訊 | 到哪裡找 |
+
+|:---|:---|
+
+| 訂單或帳號號碼 | 確認電子郵件 |
+
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+
+| EID | \*#06# |
+
+| 錯誤畫面截圖 | 在畫面變動前先截圖 |
+
+| 目前的 APN 設定 | 設定 → 行動數據網路 |
+
+| 數據漫遊狀態 | 設定 → 行動服務 → 你的 eSIM 門號 |
+
+| 已嘗試過的步驟 | 留一份簡短清單 |
+
+
+
+## 旅客對西班牙 eSIM 業者的常見問題
+
+
+
+### 國際旅客可以向 Movistar 購買預付卡 eSIM 嗎？
+
+
+
+可以。Movistar 透過 Mi Movistar App 或門市販售預付卡 eSIM，入門方案約 10 歐元 40 GB。關鍵在於西班牙的實名登記法：設定檔發出前必須完成護照驗證，而且除非使用 iPhone 快速移轉，實體 SIM 轉 eSIM 可能收取一次性費用。
+
+
+
+### Orange 在與 MásMóvil 合併後還存在嗎？
+
+
+
+存在。Orange 西班牙於 2024 年與 MásMóvil 合併組成 MásOrange，但 Orange 品牌仍是該集團主要的消費者門面，Orange 預付卡 eSIM 仍以 Orange 名義透過 My Orange App 販售。同一集團也經營 Yoigo、Jazztel、Simyo、Pepephone、Lebara 與 Lycamobile。
+
+
+
+### 西班牙 eSIM 在其他地方能用嗎？
+
+
+
+可以，這是法律規定。依據歐盟「在家漫遊」規則（歐盟法規 2022/612，有效期至 2032 年），西班牙預付卡 eSIM 在公平使用額度內可於整個歐盟與歐洲經濟區免費使用。例如，Orange 的 Prepago 10 允許從其額度中最多撥 26 GB 用於漫遊。英國在脫歐後不再自動涵蓋，安道爾與直布羅陀在歐盟之外，因此可能收費漫遊。
+
+
+
+### 護照影本在西班牙行得通嗎？
+
+
+
+對西班牙業者或平價品牌來說，可以。依西班牙國內法律，每一張西班牙 SIM——實體或 eSIM——都必須綁定經驗證的身分，而護照正是旅客使用的證件。國際旅遊 eSIM 則改在供應商的本國登記，因此啟用時通常完全不需要西班牙身分證件。這項登記豁免正是旅客選擇旅遊 eSIM 而非本地 SIM 的主要原因之一。
+
+
+
+### 該選哪家西班牙業者：Movistar vs Orange？
+
+
+
+依證據來看是 Movistar。它在 Ookla 2025 上半年西班牙報告中以 78.7% 領先 5G 可用率，並以 88.8% 領先穩定度——即達到下載 5 Mbps、上傳 1 Mbps 門檻的測試比例，這是最接近鄉村可靠度的衡量指標。Yoigo 透過漫遊協議借用 Movistar 的鄉村網路，因此 Yoigo 預付卡使用者在內陸地區也能得到相近的覆蓋。
+
+
+
+### 西班牙的平價品牌有自己的網路嗎？
+
+
+
+沒有，它們是向四個擁有者租用容量的品牌。Lowi 跑在 Vodafone 上，O2 跑在 Movistar 上，Simyo、Pepephone、Lebara 與 Lycamobile 跑在 MásOrange 集團上。它們的覆蓋與母網路一致，但登記規定可能更嚴格，有幾家要求西班牙身分證與西班牙金融卡，短期旅客可能沒有。
+
+
+
+### 多大的流量量適合西班牙？
+
+
+
+以每 GB 計算是 Yoigo。它的預付卡方案約 7 歐元 7 GB 到 20 歐元 50 GB，並繼承 Movistar 的鄉村漫遊。三大之中，Vodafone 的 Prepago S 約 10 歐元 90 GB 是最划算的流量，而 Orange 的 Prepago 10 約 10 歐元 60 GB 加贈流量是最強的全方位觀光方案。
+
+
+
+### Movistar vs Orange 5G：在西班牙哪家更好？
+
+
+
+如果你的手機支援歐洲頻段，就能用。西班牙的 5G 使用 n1、n3、n7、n28a（700 MHz）、n78（3.5 GHz）與 n258（26 GHz）。城市之外最關鍵的頻段是 n28a——填補鄉村與室內空隙的低頻 700 MHz 頻段；缺少它的手機在城市仍能運作，但會失去最深層的覆蓋。出發前先在[相容性清單](/compatibility/)確認你的機型。
+
+
+
+### 在西班牙水土不服的手機
+
+
+
+可以，而且這是合理的設定。用本國門號撥打電話與接收驗證，西班牙數據走 eSIM。把數據指定給西班牙 eSIM 門號，本國門號留給語音。兩點提醒：關閉本國門號的漫遊以避免背景計費，並且預期驗證簡訊會持續送到你的本國門號而非數據設定檔。
+
+
+
+### 西班牙設定檔載入後，eSIM 晶片上會發生什麼
+
+
+
+你過去得在 Movistar 或 Orange 櫃台完成的轉換，如今是一次下載，因為西班牙與世界各地使用相同的嵌入式 SIM 標準。業者把設定檔推送到手機內建晶片上，產生的門號之後的行為就像手機裡任何一張普通的 SIM。這項轉換本身——包括 QR 碼為何只能掃一次——在[eSIM 啟用說明](/faq/what-is-esim-activation-and-how-does-it-work/)中有解釋。
+
+
+
+### 西班牙 eSIM 啟用失敗時該怎麼辦
+
+
+
+依序處理上述四種西班牙特有的模式：鎖定狀態、網路選擇、APN 與數據門號，然後是設定檔重新安裝；若仍失敗，[eSIM 啟用疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)中更廣的錯誤目錄涵蓋其餘情況。聯絡客服前，先備妥 EID、訂單號碼與問題截圖。
+
+
+
+還有問題嗎？[瀏覽完整常見問題](/faq/)
+
+
+
+## 西班牙 eSIM 資料來源與參考文獻
+
+
+
+- **Ookla Speedtest 連線品質報告，2025 上半年西班牙** — 這份[各業者報告](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)支撐本文所有業者層級的數據：Movistar 的 77.3 連線品質評分、Orange 的 84.59 遊戲評分、Vodafone 的 86 穩定度與 Yoigo 的 67.5% 5G 可用率。
+
+- **Ookla Speedtest Global Index** — [西班牙條目](https://www.speedtest.net/global-index/spain)給出約 83.65 Mbps 的行動中位數與 34 ms 延遲，每月更新。
+
+- **Cable.co.uk** — 這份[全球 1 GB 成本調查](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)是西班牙每 GB 約 0.48 美元數據的出處。
+
+- **CNMC（Comisión Nacional de los Mercados y la Competencia，西班牙國家市場與競爭委員會）** — 這位[官方電信監管機構](https://www.cnmc.es/)公布頻譜、執照與合併救濟措施（包括 Orange 與 MásMóvil 的合併），這些都決定了西班牙 eSIM 能做什麼。
+
+- **DataReportal 與 GSMA Intelligence** — [Digital 2025: Spain](https://datareportal.com/reports/digital-2025-spain) 報告提供上文引用的市場規模與普及率數據。我們每季重新查驗這裡的每個來源，並移除不再成立的內容。
+
+
+
+本文僅引用第三方量測。你實際看到的表現取決於你的裝置、它鎖定的頻段，以及當地的網路負載。
+
+
+
+## 為你的流量方案抓對大小
+
+
+
+單一 Roami 設定檔連結 Movistar、Orange、Vodafone 與 Yoigo，隨你從馬德里走向山區自動切換，全程不見護照櫃台。從[西班牙免費試用 eSIM](/free-esim/) 開始，或使用優惠碼 **WEB20** 讓[西班牙 eSIM 方案](/spain-esim/)打 8 折。
+
+
+
+[取得你的西班牙 eSIM](/spain-esim/)
+
+
+
+*新旅客首單優惠價*
+
+
+
+[啟用西班牙免費 eSIM 試用](/free-esim/)

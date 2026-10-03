@@ -1,293 +1,419 @@
 ---
-title: "想出國去哥斯大黎加？先看這篇 eSIM 選擇完整攻略。"
-description: "需要哥斯大黎加的 eSIM？Roami 實測 Claro 和 Kölbi 的 5G 速度與覆蓋，根據旅行需求推薦最合適的方案。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 哥斯大黎加，預付數據，5G 網路，Claro，Kölbi，Telecable，Metrocom，Roami eSIM，哥斯大黎加旅遊網路"
-site_name: "Roami"
-brand_name: "Roami"
+title: "哥斯大黎加 eSIM 怎麼挑？Claro、Kölbi、Liberty 電信商比較"
+description: "哥斯大黎加 eSIM 該選哪一家電信商？城市裡 Claro 的速度是 Kölbi 的兩倍，國家公園卻需要 Kölbi 的基地台。Roami 比較 Claro、Kölbi 與 Liberty 的覆蓋、資費與 APN 設定，幫你依旅程挑出哥斯大黎加的 eSIM。"
+image: "img/esim/carriers/costa-rica-esim-carrier-guide.jpg"
+date: "2026-09-27T07:00:48+00:00"
+keywords: Costa Rica eSIM carriers, Costa Rica eSIM operators, Claro eSIM, Kölbi eSIM, ICE eSIM, Liberty Costa Rica eSIM, Costa Rica 5G coverage, Costa Rica eSIM rural coverage, eSIM Costa Rica prepaid, best eSIM carrier Costa Rica
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "哥斯大黎加 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇨🇷] 哥斯大黎加 最新旅遊 eSIM 指南"
-hero_subtitle_main: "哥斯大黎加 eSIM：5G 旅行網路首選"
-hero_subtitle_highlight: "Claro、Kölbi 與 Metrocom 頂級 5G 覆蓋"
-hero_description_line1: "無需更換 SIM 卡槽，哥斯大黎加 eSIM 的數位啟用方式讓您更輕鬆地在 哥斯大黎加 保持高速連線。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "哥斯大黎加 eSIM"
-hero_link_url: "/costa-rica-esim/"
-tldr_summary: "【告別昂貴漫遊費：迎接全球自由通訊時代】前往哥斯大黎加，無需再忍受高額漫遊費。Roami eSIM 讓您以當地價格享受高速網路，根據 Ookla 2025 上半年報告，Claro 行動網路中位下載速度達 84.51 Mbps，上傳 16.72 Mbps，為最快行動網路；Metrocom 固網中位下載達 310.06 Mbps，上傳 277.34 Mbps。無論在聖荷西市區或波索斯郊區，Roami 自動連接最強本地電信商，確保您隨時隨地保持連線。結論：選擇 Roami eSIM，告別昂貴漫遊，迎接真正自由的全球通訊時代。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "哥斯大黎加 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：哥斯大黎加 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "哥斯大黎加 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：哥斯大黎加 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 哥斯大黎加 eSIM 前須知"
-
-  - href: "#faq"
-    text: "哥斯大黎加 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "哥斯大黎加 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：哥斯大黎加 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Claro"
-    carrier_class: "text-blue-600"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)，Claro 為哥斯大黎加最快行動網路，中位下載 84.51 Mbps，上傳 16.72 Mbps，適合大量上傳下載的遠端工作。"
-
-  - travel: "影音串流愛好者"
-    carrier: "Kölbi"
-    carrier_class: "text-red-600"
-    reason: "Kölbi 獲得最佳行動影片體驗評分 74.5，適合在旅途中觀看 Netflix、YouTube 等高畫質串流。"
-
-  - travel: "高效能遊戲玩家"
-    carrier: "Claro"
-    carrier_class: "text-blue-600"
-    reason: "Claro 同時獲得最佳行動遊戲體驗獎項，低延遲與高穩定性滿足即時對戰需求。"
-
-  - travel: "城市觀光客"
-    carrier: "Claro"
-    carrier_class: "text-blue-600"
-    reason: "Claro 在聖荷西、阿拉胡埃拉等主要城市均為最快營運商，市區下載速度穩定在 48-54 Mbps。"
-
-  - travel: "自然探險者"
-    carrier: "Kölbi"
-    carrier_class: "text-red-600"
-    reason: "Kölbi 擁有廣泛的鄉村覆蓋，在偏遠國家公園與山區仍能維持基本連線。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 哥斯大黎加 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "claro-esim"
-    title: "Claro eSIM 總覽：最快行動網路首選"
-    best_for: "此方案絕對是最佳選擇，適合追求極速下載、穩定上傳與低延遲遊戲體驗的用戶。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)，Claro 中位下載速度達 84.51 Mbps，上傳 16.72 Mbps，為哥斯大黎加最快行動網路。\n- **影片體驗**：影片串流評分 68.31，表現優異。\n- **遊戲體驗**：獲得最佳行動遊戲體驗獎項。\n- **城市覆蓋**：在波索斯（72.76 Mbps）、聖拉斐爾德埃斯卡蘇（61.6 Mbps）等城市為最快營運商。"
-    arcep_note: "經當地電信主管機關 SUTEL 確認，Claro 持有完整 4G/5G 頻譜執照，服務符合國家規範。"
-    connect_note: "啟用過程順暢，掃描 QR code 後自動連接 Claro 網路，無需手動設定 APN。"
-    user_scenarios: "- **[波索斯郊區]**：在波索斯享受 72.76 Mbps 下載速度，遠端會議與大檔案傳輸無延遲。\n- **[聖荷西市區]**：在首都聖荷西以 48.84 Mbps 下載速度，流暢使用地圖導航與社群媒體。\n- **[阿拉胡埃拉]**：在阿拉胡埃拉以 53.96 Mbps 下載速度，輕鬆串流音樂與影片。"
-    bg_color: "bg-blue-50"
-
-  - id: "kolbi-esim"
-    title: "Kölbi eSIM 總覽：最佳影片串流與鄉村覆蓋"
-    best_for: "此方案絕對是最佳選擇，適合喜愛觀看高畫質影片、深入偏遠地區的旅客。"
-    core_data: "- **影片體驗**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)，Kölbi 獲得最佳行動影片串流體驗評分 74.5。\n- **下載速度**：中位下載速度約 40-50 Mbps（基於市場平均推估）。\n- **覆蓋範圍**：在鄉村與國家公園區域覆蓋優於其他營運商。"
-    arcep_note: "經當地電信主管機關 SUTEL 確認，Kölbi 為國營電信商，擁有最廣泛的基礎設施。"
-    connect_note: "啟用過程順暢，掃描 QR code 後自動連接 Kölbi 網路，部分地區需手動選擇網路。"
-    user_scenarios: "- **[曼努埃爾安東尼奧國家公園]**：在海灘與叢林交界處，以穩定訊號上傳即時動態。\n- **[阿雷納爾火山區]**：在火山腳下觀看串流影片，享受 74.5 分的影片體驗。\n- **[蒙特維德雲霧森林]**：在雲霧森林中保持基本通訊與導航。"
-    bg_color: "bg-red-50"
-
-  - id: "telecable-esim"
-    title: "Telecable eSIM 總覽：固網級影片體驗"
-    best_for: "此方案絕對是最佳選擇，適合飯店或 Airbnb 內需要高品質影片串流的旅客。"
-    core_data: "- **影片體驗**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)，Telecable 獲得最佳 ISP 影片串流體驗。\n- **下載速度**：固網中位下載速度約 100-200 Mbps（基於市場報告推估）。\n- **適用場景**：主要為固網寬頻，eSIM 方案可能透過 Wi-Fi 呼叫提供服務。"
-    arcep_note: "經當地電信主管機關 SUTEL 確認，Telecable 為主要固網營運商。"
-    connect_note: "啟用過程順暢，掃描 QR code 後自動連接 Telecable 合作行動網路。"
-    user_scenarios: "- **[聖佩德羅飯店]**：在聖佩德羅的飯店內，以固網級速度串流 4K 影片。\n- **[埃斯卡蘇商業區]**：在商業區的 Airbnb 內進行高畫質視訊會議。"
-    bg_color: "bg-green-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 哥斯大黎加 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 哥斯大黎加 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 哥斯大黎加 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 哥斯大黎加 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段與裝置相容性"
-    content: "哥斯大黎加主要營運商（Claro、Kölbi、Telecable）使用 4G 頻段 B2 (1900)、B4 (1700/2100 AWS)、B5 (850)、B7 (2600)、B12 (700)、B17 (700)、B28 (700 APT)；5G 頻段 n78 (3500)。購買 eSIM 前請確認您的裝置支援上述頻段，尤其是 5G n78 頻段。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "哥斯大黎加電信法規要求所有預付卡（含 eSIM）用戶進行實名認證（KYC）。Roami eSIM 在啟用時會要求您上傳護照或身分證件照片，並填寫基本個人資訊，以符合當地監管要求。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "多數哥斯大黎加 eSIM 方案設有公平使用政策，例如每日高速數據上限（如 1GB/日）後降速至 128 kbps。請仔細閱讀方案條款，避免長時間大量下載導致速度受限。"
-
-  - heading: "4. 網路覆蓋與速度差異"
-    content: "根據 Ookla 2025 上半年報告，哥斯大黎加行動網路中位下載速度為 65.82 Mbps，但城市間差異顯著：波索斯達 72.76 Mbps，而里奧塞貢多僅 37.34 Mbps。偏遠山區與國家公園覆蓋較弱，建議選擇 Kölbi 以獲得較佳鄉村訊號。"
-
-  - heading: "5. 啟用方式與技術支援"
-    content: "Roami eSIM 採用 QR code 掃描啟用，無需實體 SIM 卡。啟用後若遇連線問題，可透過 Roami App 內建客服或 24/7 線上聊天獲得協助。建議在出發前完成啟用，並下載離線地圖備用。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：哥斯大黎加 最佳 eSIM"
-city_guide_desc: "了解哪款哥斯大黎加 eSIM 是您目的地的最佳選擇，根據 Ookla 2025 上半年數據提供精準推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "聖荷西"
-    carriers: "Claro"
-    reason: "首都聖荷西中位下載速度 48.84 Mbps，Claro 為最快營運商，適合商務旅客與觀光客。市區覆蓋密集，餐廳、咖啡廳連線穩定。"
-
-  - city: "波索斯"
-    carriers: "Claro"
-    reason: "波索斯以 72.76 Mbps 中位下載速度位居哥斯大黎加最快城市，Claro 獨占鰲頭。適合需要高效能網路的數位遊牧民族。"
-
-  - city: "聖佩德羅"
-    carriers: "Claro"
-    reason: "聖佩德羅中位下載速度 55.42 Mbps，Claro 為最快營運商。大學城區年輕人口多，網路需求高，適合學生與年輕旅客。"
-
-  - city: "阿拉胡埃拉"
-    carriers: "Claro"
-    reason: "阿拉胡埃拉中位下載速度 53.96 Mbps，Claro 為最快營運商。靠近國際機場，適合轉機或短暫停留旅客。"
-
-  - city: "卡塔戈"
-    carriers: "Claro"
-    reason: "卡塔戈中位下載速度 45.62 Mbps，Claro 為最快營運商。歷史古城，適合文化旅遊者，網路足以滿足導航與社群分享。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 哥斯大黎加 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在聖荷西、聖佩德羅等城市漫步，使用 Claro eSIM 享受 48-55 Mbps 下載速度，即時查詢地圖、餐廳評價與社群打卡。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往阿雷納爾火山、蒙特維德雲霧森林，選擇 Kölbi eSIM 獲得最佳鄉村覆蓋，確保導航與緊急通訊不中斷。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "沿著泛美公路自駕，Claro 在主要公路沿線提供穩定訊號，搭配 Google Maps 離線導航，輕鬆抵達目的地。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在曼努埃爾安東尼奧、瓜納卡斯特海灘，Kölbi 提供穩定連線，上傳海灘美照、串流音樂無煩惱。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "哥斯大黎加 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "如何確認 eSIM 在哥斯大黎加的特定目的地是否擁有可靠的覆蓋？"
-    a: "您可以參考 Ookla 2025 上半年報告中的城市數據：波索斯（72.76 Mbps）、聖拉斐爾德埃斯卡蘇（61.6 Mbps）、聖佩德羅（55.42 Mbps）等城市覆蓋良好。偏遠地區建議選擇 Kölbi 營運商，其鄉村覆蓋較廣。出發前也可下載 Speedtest App 進行現場測試。"
-
-  - q: "Roami eSIM 在哥斯大黎加會連接到哪些本地行動電信商？"
-    a: "Roami eSIM 在哥斯大黎加會自動連接到 Claro、Kölbi 或 Telecable 等主要本地電信商，根據訊號強度與網路品質動態切換，確保您始終享有最佳連線體驗。"
-
-  - q: "系統是否會自動連接到哥斯大黎加最強的本地電信商，無需手動設定？"
-    a: "是的，Roami eSIM 採用智慧網路選擇技術，會自動掃描並連接當前位置訊號最強、速度最快的本地電信商（如 Claro 或 Kölbi），無需手動設定 APN 或選擇網路。"
-
-  - q: "哥斯大黎加 eSIM 是否適合線上遊戲，平均網路延遲（ping）為何？"
-    a: "適合。根據 Ookla 報告，Claro 獲得最佳行動遊戲體驗獎項，在波索斯平均延遲約 31.78 ms，聖荷西約 32.97 ms，足以流暢進行多數線上遊戲。建議選擇 Claro eSIM 以獲得最低延遲。"
-
-  - q: "哥斯大黎加不同地區與城市之間是否存在明顯的網速差異？"
-    a: "是的，差異顯著。根據 Ookla 2025 上半年數據，最快城市波索斯中位下載速度 72.76 Mbps，最慢城市里奧塞貢多僅 37.34 Mbps，差距近一倍。省級方面，埃雷迪亞省最快（51.23 Mbps），利蒙省最慢（42.32 Mbps）。建議根據目的地選擇合適營運商。"
-
-# 迷思
-myths_title: "⚠️ 哥斯大黎加 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "哥斯大黎加全國網路速度都一樣快。"
-    truth: "錯誤。根據 Ookla 2025 上半年報告，波索斯中位下載 72.76 Mbps，而里奧塞貢多僅 37.34 Mbps，城市間差異極大。"
-
-  - myth: "只有 Claro 有 5G 網路。"
-    truth: "不正確。Kölbi 與 Telecable 也提供 5G 服務，但 Claro 在速度與遊戲體驗上表現最佳。"
-
-  - myth: "eSIM 在偏遠國家公園完全無法使用。"
-    truth: "部分正確。偏遠地區訊號較弱，但 Kölbi 在鄉村覆蓋較佳，仍可維持基本通訊與簡訊功能。"
-
-  - myth: "哥斯大黎加 eSIM 啟用需要當地身分證。"
-    truth: "錯誤。Roami eSIM 僅需護照進行 KYC 認證，無需當地身分證，外國旅客可輕鬆啟用。"
-
-  - myth: "所有 eSIM 方案都沒有公平使用限制。"
-    truth: "錯誤。多數方案設有每日高速數據上限（如 1GB/日），超過後降速。購買前請仔細閱讀條款。"
-
-# 數據來源
-data_sources_title: "哥斯大黎加 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 2025 上半年哥斯大黎加連線報告，提供行動與固網速度、影片體驗、遊戲體驗等詳細數據。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 2025 年哥斯大黎加行動網路體驗報告，涵蓋覆蓋率、速度與一致性評分。"
-
-  - name: "SUTEL（哥斯大黎加電信監管局）2025"
-    description: "哥斯大黎加電信監管局 SUTEL 發布的官方網路品質統計，包含頻譜執照與服務合規資訊。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，數據擷取時間為 2025 年上半年。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異，建議出發前參考最新報告。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的哥斯大黎加 eSIM"
-cta_desc: "即時存取高速網路，無漫遊費，掃描 QR code 即刻啟用。"
-cta_button_text: "立即購買哥斯大黎加 eSIM"
-cta_button_link: "/costa-rica-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "哥斯大黎加 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 哥斯大黎加 eSIM 指南
+  url: ''
+hero_badge: "為你的旅程評比哥斯大黎加的行動網路"
+hero_subtitle_main: "哥斯大黎加各家網路的差異所在：速度、覆蓋率與櫃檯規則"
 ---
+
+
+**結論先說：** 紙面上看，Claro 在哥斯大黎加 eSIM 電信商中全面勝出——中位數下載速度達 **84.51 Mbps**，遠高於 Kölbi 的 36.79 和 Liberty 的 39.46，同時擁有最佳遊戲評分，並在 10 個最大城市中的 8 個擁有最快網路（[Ookla, H1 2025](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)）。但到了雨林，排名就會翻轉。國營 ICE 旗下的 Kölbi 擁有比任何人都多的基地台，是唯一在國家公園道路上仍有訊號的電信商——如果你的行程包含 Manuel Antonio、Monteverde 或 Osa 半島，這一點至關重要。遊客只需護照就能在抵達時購買 Kölbi 預付卡 SIM，但其 eSIM 途徑必須親臨門市。如果你希望在落地前就有網路可用，[哥斯大黎加旅遊 eSIM](/costa-rica-esim/) 可以完全跳過櫃檯——而[免費 eSIM 試用](/free-esim/)讓你零成本測試網路。本指南每隔幾個月就會根據 Roami 自身的開通紀錄和客服工單中反映的哥斯大黎加實況重建，而不只是依賴新聞稿。
+
+**快速回答：** 想要最廣的覆蓋範圍選 Claro，想要每 GB 最低成本選 Kölbi，無論哪種都請在出發前先安裝好 eSIM。本指南其餘部分——哥斯大黎加的速度、價格和實名登記規則——將為這個取捨補充細節。
+
+真正重要的決定是：**根據你的目的地，你的哥斯大黎加 eSIM 應該掛在哪個網路上**。覆蓋地圖正是由生態旅遊本身塑造的：中央谷地密集且快速，而恰好從雲霧林和國家公園開始變薄。如果你尚未確認手機支援 eSIM，先使用[相容性查詢工具](/compatibility/)，再回來做電信商決定。
+
+## 你的旅程，你的 eSIM 電信商
+
+### Claro vs Kölbi：在哥斯大黎加哪個更好？
+
+三個名字幾乎涵蓋了你在哥斯大黎加會遇到的每一個訊號：**Kölbi**，由 ICE 營運的國營電信商；**Claro**，América Móvil 旗下的網路；以及 **Liberty**，它在 2021 年併購了 Movistar 的哥斯大黎加業務。**SUTEL** 負責對這三家發照並監管，而網路報告中的第四個名字——Telecable——是一家固網 ISP，值得留意的是它適合公寓住宿使用，而非你的 eSIM。
+
+| | Claro | Kölbi (ICE) | Liberty |
+|:---|:---|:---|:---|
+| 中位數下載速度（2025 上半年） | **84.51 Mbps**（最快） | 36.79 Mbps | 39.46 Mbps |
+| 突出指標 | 最佳遊戲（74.5），最高評分 3.95/5 | 最佳影片體驗（68.31） | 最佳一致性（86.0%） |
+| 鄉村與國家公園覆蓋 | 主幹道良好，離開主幹道較薄 | 全國最廣的覆蓋範圍 | 在中央谷地和城市最強 |
+| 5G 狀態 | 2025 年 1 月頻譜標售後開始部署 | 僅試點階段 | 首個 5G 獨立組網，2025 年中 |
+| 遊客購買途徑 | 門市與機場亭購買預付卡 SIM | 門市、機場亭和超市販售預付卡「chip turista」 | Liberty 門市販售預付卡 SIM |
+
+把速度欄和覆蓋欄一起看，因為它們指向相反的方向。Claro 的 84.51 Mbps 是市場上其他對手的兩倍以上，但速度是在有人測速的地方測得的——城市、公路、海濱小鎮——而讓訊號在叢林道路上存活的基地台數量，大部分屬於 Kölbi。Liberty 拿下了最佳一致性分數（86.0% 的樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻）——這是最能預測視訊通話中途不卡頓連線的指標。
+
+### Claro vs Kölbi：哪家哥斯大黎加電信商更快？
+
+Claro 的頭條數字是市場上最強的：中位數下載速度 **84.51 Mbps**，是 Kölbi 或 Liberty 的兩倍以上，在 10 個最大城市中的 8 個擁有最快網路，最佳遊戲評分（74.5）和 Ookla 2025 上半年報告中的最高用戶評分（3.95/5）。這為你換來的是一張為密度而打造的網路——San José、中央谷地、Liberia，以及遊客真正消費的海濱小鎮。Claro 的[自家消費者網站](https://www.claro.cr/)現以 5G 為主打，並將預付卡「Superpacks」作為入門產品推廣。
+
+- **最擅長：** 在城市和主要旅遊走廊上的原始速度與遊戲表現。
+- **遊客購買途徑：** 在 Claro 門市、授權經銷商，或 Juan Santamaría 機場（SJO）的 Claro 櫃檯購買預付卡 SIM 或 eSIM；這裡同樣適用與其他地方相同的護照實名登記。
+- **費用：** 預付卡方案從幾千科朗到為期一個月的套裝不等；全國平均為每 GB 1.86 美元。
+- **會出什麼問題：** 這個網路在有覆蓋的地方很快，沒覆蓋的地方就很薄。為了速度買 Claro 然後開車去 Monteverde 或 Drake Bay，是典型的錯配——Claro 的覆蓋比 Kölbi 更早變薄。
+- **情境：** 你在 SJO 落地，開通一張 Claro eSIM，第一晚在 Escazú 順暢地串流。兩天後，在 Tamarindo 以南的公路上，你只剩一格訊號，看著地圖圖塊變灰。
+
+### Kölbi：決定叢林道路生死的基地台數量
+
+Kölbi 是國營的 ICE 網路，它贏的是另一場比賽。它擁有全國最大的覆蓋範圍，這就是為什麼它是唯一在國家公園聯外道路以及海濱小鎮之間的鄉村空隙中仍有訊號的電信商。Ookla 2025 上半年的數據讓 Kölbi 拿下最佳影片體驗（**68.31**）和 36.79 Mbps 的中位數下載速度——這個數字反映了 Kölbi 用戶的測速地點：不只在 San José，還包括其他兩家網路早已放棄的偏遠地區。
+
+- **最擅長：** 觸達——三者中最廣的覆蓋範圍，也是當住宿告訴你「這裡只有一個網路有訊號」時的預設答案。
+- **遊客購買途徑：** 在 Kölbi 門市、超市和 SJO 機場亭販售的[「chip turista」預付卡產品](https://www.kolbi.cr/)。
+- **費用：** 以每 GB 計是全國最便宜的取得流量的途徑，在櫃檯用科朗購買——但你付出的是櫃檯排隊時間。
+- **會出什麼問題：** eSIM 途徑。Kölbi 有公布 eSIM 服務，但對訪客的遠端開通並不可靠——實際可行的途徑是親臨門市、在櫃檯完成交易，而不是在家掃描 QR 碼。
+- **情境：** 你在接近 Drake Bay 的 Corcovado 路上，你的住宿已提醒 Kölbi 是唯一能到達那裡的網路，而你手機裡的旅遊 eSIM 正行駛在 Kölbi 的基地台上，因為你的供應商就是這樣搭建的。
+
+### Claro vs Kölbi 5G：在哥斯大黎加哪個更好？
+
+Liberty——2021 年併購 Movistar 哥斯大黎加業務的那家——拿下了市場最佳一致性分數 **86.0%**，即通過 5 Mbps 下載 / 1 Mbps 上傳門檻的樣本比例，而這正是預測視訊通話不會中途卡頓的指標。Liberty 還在 2025 年中開通了哥斯大黎加首張 5G 獨立組網（Standalone），與 Ericsson 合作建設於 700 MHz 和 3.5 GHz 頻段，首先瞄準 Guanacaste、中太平洋和北大區（Northern Zone）的旅遊與商業樞紐。
+
+- **最擅長：** 在其覆蓋區域內的一致性，加上推廣所及之處的早期 5G。
+- **遊客購買途徑：** 在 Liberty 門市購買預付卡 SIM 或 eSIM，而 Liberty 的門市集中在中谷地和較大的城鎮，而非每個海濱村落。
+- **費用：** 屬於市場上較便宜的預付卡入門選擇。
+- **會出什麼問題：** 覆蓋範圍以都市和度假區走廊優先；深鄉村和國家公園邊緣的覆蓋是 Kölbi 的地盤。
+- **情境：** 在 Jacó 或 Playas del Coco 住一週，你想要一家表現可預測的電信商——你買的是一致性，而不是頭條速度。
+
+### Claro、Kölbi 和 Liberty 的每一項 Ookla 2025 上半年數據
+
+2025 上半年把速度王冠給了 Claro、影片獎給了 Kölbi、一致性獎給了 Liberty，下表列出 Ookla 公布的每一家電信商的全部數據。未單獨公布的數據，儲存格保持空白而非估算值。
+
+| 指標（Ookla，2025 上半年） | Claro | Kölbi (ICE) | Liberty |
+|:---|:---|:---|:---|
+| 中位數下載速度，所有技術 | **84.51 Mbps**（最快） | 36.79 Mbps | 39.46 Mbps |
+| 中位數 5G 下載速度 | — | — | — |
+| 中位數上傳速度 | — | — | — |
+| 延遲 | — | — | — |
+| 5G 可用性 | — | — | — |
+| 影片串流分數 | — | **68.31**（最佳） | — |
+| 一致性（5 Mbps 下載 / 1 Mbps 上傳） | — | — | **86.0%**（最佳） |
+| 遊戲分數 | **74.5**（最佳） | — | — |
+| 用戶評分 | **3.95/5**（最高） | — | — |
+| 最快網路所在 | 10 個最大城市中的 8 個 | — | — |
+
+空白處和數字一樣有資訊量：沒有人公布鄉村或單一公園的速度，因為沒有人能一致地測量它。在 Ookla 的全球指數中，全國行動網路下載中位數為 **70.96 Mbps**，全球排名第 63——儘管各電信商之間的分化懸殊，該國整體表現良好。
+
+### 哥斯大黎加最便宜的流量方案
+
+| 你的行程 | 首選電信商 | 為什麼選它 | 注意事項 |
+|:---|:---|:---|:---|
+| 城市短遊 — San José、Alajuela、Heredia、Cartago | Claro | 谷地最快網路；Heredia 省以 51.23 Mbps 領先全國 | 沒什麼好擔心的——中央谷地是哥斯大黎加最輕鬆的部分 |
+| 海灘與度假區 — Tamarindo、Jacó、Playas del Coco | Claro 或 Liberty | 兩者在成熟旅遊走廊上都很強 | 海濱小鎮*之間*的道路才是斷訊所在 |
+| 國家公園巡禮 — Manuel Antonio、Monteverde、Arenal、Tortuguero | Kölbi | 公園聯外道路上最廣的覆蓋 | 沒有任何網路能到達步道本身 |
+| Osa 半島與 Corcovado | Kölbi | 唯一在大部分聯外路上有可用訊號的電信商 | Drake Bay 訊號時斷時續；公園邊緣的住宿常常完全離線 |
+| 中谷地遠端工作 | Liberty | 最佳一致性，加上早期 5G；固網光纖更快 | 先評估租屋處的 Wi-Fi，再評估行動方案 |
+| 預算型旅客 | Claro 或 Liberty 預付卡 | 入門最便宜；本地流量平均每 GB 1.86 美元 | Kölbi 的 eSIM 途徑需要親臨門市 |
+| 跨國行程 | 多國設定檔 | 僅限哥斯大黎加的 eSIM 會毫無預警地停在邊境 | Paso Canoas 和 Peñas Blancas 兩地都會增加排隊與文件手續 |
+
+## 你的 eSIM 覆蓋率實際上在哪裡失效？
+
+這是通用的「哥斯大黎加最佳 eSIM」頁面不會告訴你的部分，因為答案是分區域的。Ookla 的各省中位數已經顯示出梯度：Heredia 省以 51.23 Mbps 領先，San José 為 50.57，數字隨你離開中央谷地而下滑——Guanacaste 46.04、Puntarenas 43.79、Limón 42.32。七個省全都有覆蓋；衰退的是可靠性。
+
+### 哥斯大黎加中央谷地覆蓋：San José 與山脈地帶
+
+中央谷地——San José、Alajuela、Heredia、Cartago——是哥斯大黎加最輕鬆的部分。每家電信商在這裡都很快，San José 郊區的 Pozos 以 72.76 Mbps 擁有全國最快的城市中位數，4G 在城際公路上保持穩定。即使是 Río Segundo——測得最慢的城市，37.34 Mbps——用於地圖和影片也綽綽有餘。Poás 和 Irazú 火山一日遊的大部分路程都能保持連線，只有山路最後幾公里在任何電信商上都斷斷續續。
+
+### Guanacaste 覆蓋：北部太平洋海灘
+
+Liberia、Tamarindo、Playas del Coco 和 Rincón de la Vieja 一帶覆蓋良好，Claro 是全省最快的業者。空隙出現在海濱小鎮之間：從 Tamarindo 往南經過 Nosara 和 Samara 的沿海道路穿越漫長的鄉村路段，訊號時有時無，而 Nicoya 半島南部的海灘（Montezuma、Santa Teresa）位於網格末端。同樣 46.04 Mbps 的省中位數伴隨著 80.3% 的一致性——網路可用，只是不連續。
+
+### 中太平洋覆蓋：Jacó 與 Manuel Antonio
+
+San José–Jacó–Quepos 走廊是全國覆蓋最好的旅遊路線之一，而 Manuel Antonio 本身——全國遊客最多的國家公園——就坐落在 Quepos 旁邊，一個有真實基地台的真實城鎮。公園步道內的訊號在海灘一端良好，在森林環線上變薄。在聯外道路和次要步道上，Kölbi 的覆蓋展現出對比它更快但更稀疏的 Claro 網路的優勢。
+
+### Monteverde 與雲霧林高地：高海拔的覆蓋
+
+Monteverde 鎮和 Santa Elena 一側有各家的可用訊號——對一個海拔 1,400 公尺的山頂村落而言相當驚人。撐不住的是保護區本身：一旦你沿著 Monteverde Cloud Forest Reserve 或 Santa Elena Reserve 的步道下到雲霧林中，覆蓋就隨著光線一起消失了。上山前先下載好你的步道地圖和住宿的 WhatsApp 號碼；哥斯大黎加的一切安排——從接駁車到嚮導確認——都是透過 WhatsApp 完成的。
+
+### 哥斯大黎加加勒比海沿岸覆蓋與極南端
+
+Puerto Viejo de Talamanca 和 Cahuita 有覆蓋，Limón 省的中位數為 42.32 Mbps——七省中最低。從 Puerto Viejo 往南到 Manzanillo，覆蓋變得時斷時續，而 Gandoca-Manzanillo 野生動物保護區的步道實際上是離線的。Tortuguero 是特殊案例：村落有 4G，但運河網和國家公園沒有——船隻天生就是訊號死角。Osa 半島則是全國最難保持連線的地方：Drake Bay 訊號時斷時續，而 Corcovado 國家公園邊緣的住宿經常完全沒有行動訊號，這也是為什麼如今這麼多住宿改打衛星 Wi-Fi 廣告。Cerro Chirripó 和 Talamanca 海拔約 3,000 公尺以上的高處，超出所有電信商的範圍。
+
+實用原則：如果你的行程有超過兩晚在 Limón 以東、Drake Bay 以南，或雲線以上，就順著靜默來規劃而不是對抗它——離線地圖，以及一位能透過住宿 Wi-Fi 聯絡上你的嚮導。
+
+### 哥斯大黎加國家公園連線，逐一檢視
+
+作為大多數哥斯大黎加行程支柱的六座公園，並不共用同一份覆蓋樣貌。以下是聯外道路和園區閘門內的實況。
+
+| 公園或區域 | 聯外道路上 | 園區內 | 應該準備什麼 |
+|:---|:---|:---|:---|
+| Manuel Antonio，Quepos 旁 | 強——San José–Jacó–Quepos 走廊是全國覆蓋最好的旅遊路線之一 | 海灘一端良好，森林環線上變薄 | 截圖你的公園門票和入園時間；不要指望入口處的 Wi-Fi |
+| Monteverde 與 Santa Elena 保護區 | Monteverde 鎮和 Santa Elena 一側可用 | 保護區步道上訊號消失 | 在鎮上下載步道地圖和住宿的 WhatsApp 號碼 |
+| Arenal / La Fortuna | La Fortuna 和環湖道路 4G 可靠 | 火山步道和吊橋線路上斷斷續續 | 在 La Fortuna 買卡——兩個網路都在主街上販售 |
+| Corcovado 與 Osa 半島 | 從 Sierpe 和 Drake Bay 起時斷時續 | 公園邊緣的住宿實際上沒有訊號 | 訂房前先問清楚住宿是否有衛星 Wi-Fi |
+| Tortuguero | 村落本身有 4G | 運河和公園內沒有——船隻天生是訊號死角 | 上船前先安排好接駁、門票和現金 |
+| Rincón de la Vieja，Guanacaste | Liberia–Curubandé 聯外路有覆蓋 | 上段步道和瀑布路徑變薄 | 一旦離開主路，Kölbi 是較穩的選擇 |
+
+那張表就是本文全部論點的縮影：通往公園的路是 Kölbi 的地盤，城鎮屬於所有人，而公園不屬於任何人。
+
+## 哥斯大黎加 eSIM 覆蓋：Claro vs Kölbi
+
+大多數訪客沿著少數幾條有名有姓的道路移動，而每一條的覆蓋情況都是可以預先掌握的。
+
+**27 號公路與 Costanera（34 號公路）。** 27 號公路是從 San José 下到 Caldera 的收費高速公路，34 號公路——Costanera——沿著海岸經過 Jacó、Parrita 和 Quepos 與之銜接。這是全國覆蓋最好的長途駕車路線：你幾乎全程都能保持資料連線，這正是這麼多行程使用它的原因。準備零錢或卡片繳過路費，並預期空隙出現在濱海城鎮之間的次要道路，而不是高速公路本身。
+
+**通往 Limón 的 32 號公路。** San José–Limón 高速公路穿越 **Braulio Carrillo 國家公園**，多年來叢林上方那段路以濃霧、山崩和完全沒有訊號而惡名昭彰。這正在改變。ICE 及其子公司 CNFL 於 2025 年 6 月啟動一項 75 億科朗的工程，為一段 26 公里的路段帶來照明和行動訊號，目標於 **2026 年 2 月 20 日**完工，首段將在 Zurquí 隧道與 27 公里處之間，以及 Sucio 河到 Guápiles 空中纜車之間率先開通（[TicosLand](https://ticosland.com/landmark-route-32-upgrade-nears-completion-bringing-light-and-connectivity-to-caribbean-corridor/)）。即便如此，仍請在白天行駛，並為山區路段下載離線地圖：Zurquí 是全國唯一的公路隧道，而隧道會讓所有電信商的數據中斷。
+
+**Puntarenas–Paquera 渡輪。** 如果你的行程跨越 Nicoya 灣前往南部半島——Montezuma、Santa Teresa、Mal País——這段航程是最實際的捷徑，能省下繞灣開車的數小時。[Naviera Tambor](http://www.navieratambor.com/) 自 1992 年起營運這條航線，11 海浬的航程由三艘船（Tambor II、III 和 IV）承載徒步旅客和車輛。兩個連線注意事項：預期海上訊號時有時無，並記得旺季車位會售罄，若要自駕上船請提早訂位。過了 Paquera 之後，前往 Montezuma 和 Santa Teresa 的道路路況顛簸，所以排隊登船前先把地圖下載好。
+
+**Waze、Google Maps 與離線準備。** Google Maps 的離線區域在這裡是最可靠的工具：在飯店 Wi-Fi 上下載整個國家，或至少下載 Nicoya、Osa 和中部高地。在有訊號的地方，Waze 是更好的即時路況與門牌工具，但相比之下其離線模式有限——把它當補充工具。這在 Nicoya 半島的內陸土路、Osa 聯外路和 32 號公路山口最為關鍵，這三個地方手機就算沒有訊號也必須告訴你該走哪個岔路。
+
+### 哥斯大黎加行程適合多大的方案？
+
+接駁車司機早已熟悉路線和它的空隙；自駕行程則不是。由此有兩個習慣。第一，在離開機場前就開通數據，而不是到了海濱小鎮——SJO 入境區 Wi-Fi 免費，且行李轉盤對面有 Kölbi/ICE 亭，所以機場是搞定門號效率最高的地方（[Juan Santamaría 國際機場](https://www.sjoairport.com/)）。第二，車上備一顆行動電源：在 Parrita 與 Dominical 之間的 Costanera 上，以及在 Osa 聯外路上，你的手機同時也是你的地圖，下午 4 點電量剩 4% 正是把兩小時車程變成四小時的那個錯誤。
+
+## 本地 SIM 與旅遊 eSIM 的價格比較
+
+值得——但要注意怎麼買。Kölbi 是對現場到訪遊客最友善的電信商，其官方網站在標準預付卡系列之外還提供專屬的[「chip turista」產品](https://www.kolbi.cr/)。
+
+**Kölbi 預付卡途徑的運作方式：**
+
+1. **帶上護照。** 在哥斯大黎加賣出的每一張 SIM 都要綁定購買者身分——這是 SUTEL 架構下的規定——所以櫃檯人員會掃描你的護照，把門號綁到你的姓名和證件號碼上。預留 10–20 分鐘，而且別指望一離開櫃檯門號就能用。
+
+2. **就近購買。** Kölbi 透過大多數城鎮的自營門市、Juan Santamaría 機場（SJO）行李提領對面的亭子、藥局和超市販售。機場亭收科朗現金，如果你只帶美元落地，請先用 ATM 提款。
+
+3. **選一個旅遊或預付卡流量方案。** 旅客回報的旅遊套裝價格約為 ₡5,000–12,500（約 10–25 美元），可用 7–30 天、含 3–10 GB。如果你願意透過 Mi Kölbi App 管理儲值，標準「Dominio Prepago」方案的門檻更低。
+
+4. **要 eSIM 就去門市。** Kölbi 有公布 eSIM 服務並支援相容手機，但旅客反映對非居民遠端開通效果不一——可靠的途徑是在 Kölbi 門市索取 eSIM，由工作人員當場登記並寫入。（Kölbi 於 2026 年 7 月推出的「eSIM Global by Airalo」正好相反：是給出國旅遊的哥斯大黎加人用的，不是給入境遊客用的。）
+
+Claro 和 Liberty 以類似的護照實名條件販售預付卡 SIM——Claro 在 SJO 設有機場櫃檯，Liberty 門市（多在中谷地和較大城鎮）同時販售 SIM 和 eSIM。
+
+### Kölbi「chip turista」途徑能做與不能做的事
+
+上面的四個步驟是面向遊客的版本。以下是決定它在你的旅程上是否管用的細節。
+
+- **實名登記是法定程序，不是店家偏好。** 哥斯大黎加的每一條預付卡門號都綁定身分證件，對訪客而言就是護照。帶實體證件；有時會被拒收照片。
+- **實際上可以在哪裡買：** Kölbi 在大多數城鎮的自營門市、Juan Santamaría 機場行李提領對面的亭子，外加超市、藥局和授權經銷商。機場亭最方便也最不靈活——收科朗現金，且每個航班抵達背後都排著隊。
+- **離開櫃檯前要檢查什麼：** 餘額和流量方案，而不只是 SIM。實名登記可能有延遲，所以新門號可能先有訊號格卻沒有數據。如果幾小時內什麼都不通，回到櫃檯處理，而不是自己改設定。
+- **eSIM 限制才是真正的約束。** Kölbi 支援相容手機的 eSIM，但對非居民訪客而言可靠的途徑是到店辦理——這代表你無法像購買旅遊 eSIM 那樣，在家裡沙發上買一張 Kölbi eSIM。如果你的計畫仰賴落地即連線，這一個事實就替你做了決定。
+
+### 哥斯大黎加預付卡 SIM 的付款與儲值
+
+哥斯大黎加是預付卡的天下，一旦你握有本地門號，儲值真的很容易——麻煩的是之前的一切。
+
+- **在哪裡：** 街角小店、超市、藥局、自助儲值機、電信商自家 App，以及——如果你有哥斯大黎加銀行帳戶——透過 SINPE Móvil 或本地網路銀行。
+- **怎麼做：** 刮刮卡儲值券（*tarjetas de recarga*）在社區小店（*pulperías*）仍然隨處可得，這是你在遠離銀行的地方儲值的方式。
+- **現金問題：** 這些通路大多預設你手上有科朗或本地支付方式。外國卡不一定被接受，較小的店面只收現金，所以即使你的飯店收卡，也要為儲值預留一筆現金。
+- **節奏：** 預付卡套裝按固定有效期運作。如果你要待一個月，購買時就確認方案的有效期，而不是到第 20 天才發現。
+
+這份清單就是旅遊 eSIM 的實用理由，一次講完。預付卡門號每 GB 更便宜，但上面每一步——櫃檯、護照掃描、現金預備、儲值節奏——都是你要用西班牙語、在假期中、拿著一支還沒上線的手機完成的任務。[Roami 哥斯大黎加方案](/costa-rica-esim/)用起飛前的一個 QR 碼取代所有這些。
+
+## 哥斯大黎加的 5G：Claro、Kölbi 與 ICE 5G 覆蓋比較
+
+幾乎沒有——而這正是舊文章誤導人的地方。哥斯大黎加的 5G 頻譜標售延宕多年，終於在 **2025 年 1 月完成**，SUTEL 將 700 MHz、2.3 GHz、3.5 GHz 和 26 GHz 頻段的全國執照授予 Claro 和 Liberty，並向五家本地業者發出區域執照（[Cullen International](https://www.cullen-international.com/news/2025/02/In-the-Americas--Costa-Rica-auctioned-more-than-1000-MHz-for-5G.html)）。Liberty 於 2025 年中與 Ericsson 合作推出全國首張 5G 獨立組網；Claro 正在新取得的頻譜上部署；而 Kölbi 的 5G 仍是試點計畫，同時 ICE 另行進行全國性的 Open RAN 招標（[U.S. Trade Administration 國家指南](https://www.trade.gov/country-commercial-guides/costa-rica-strategic-and-emerging-technologies)）。
+
+這對你的 eSIM 意味著什麼很直接：按 4G LTE 規劃。5G 存在於 San José 的部分區域（Claro 和 Liberty），但全國 5G 覆蓋仍在萌芽期，而且沒有任何哥斯大黎加網路把 5G 放到遊客的公園和海灘所在。頻段方面：4G 運行於 LTE 頻段 2、4、5、7、12 和 17，5G 在 n78 和低頻 n28——任何通過[相容性檢查](/compatibility/)的手機都能連上；缺少特定頻段的裝置只是回落到依然出色的 4G 層。
+
+### 誰在哥斯大黎加的 5G 領先？
+
+| 網路 | 5G 狀態 | 覆蓋所在 | 對你的意義 |
+|:---|:---|:---|:---|
+| Liberty | 哥斯大黎加及中美洲首張 5G 獨立組網，2025 年中與 Ericsson 合作推出 | 先覆蓋 Guanacaste、中太平洋和北大區的旅遊與商業樞紐 | 如果你的行程是度假區走廊，5G 有機會遇到——但不保證 |
+| Claro | 在 2025 年 1 月標售取得的頻譜上部署 | 主要城市，持續擴大 | 關鍵之處 4G 都快；5G 端看你恰好站在哪裡 |
+| Kölbi (ICE) | 試點階段，另有一項全國性 Open RAN 招標進行中 | 在低頻頻段上試驗 | 不要為了 Kölbi 5G 規劃這趟旅程 |
+
+誠實的總結：**你的哥斯大黎加 eSIM 將活在 4G LTE 上**，它快速、分布良好，而且——對地圖、訂票和照片來說——完全夠用。把 5G 當成在某些市中心和度假區核心出現的獎勵，永遠不要把它當作選擇電信商的理由。
+
+## 該向哥斯大黎加電信商購買，還是使用旅遊 eSIM？
+
+| | 直接向 Kölbi / Claro / Liberty 購買 | 旅遊 eSIM |
+|:---|:---|:---|
+| 文件手續 | 護照實名登記，本人到場，10–20 分鐘 | 無——在家掃 QR 碼或裝 App |
+| 網路 | 單一電信商，固定 | 行駛本地電信商網路；多網路設定檔會隨你移動重新選網 |
+| 電話號碼 | 有，真正的哥斯大黎加門號 | 通常僅數據；簡訊驗證碼仍由你的家用 SIM 接收 |
+| 典型費用 | 旅遊流量套裝約 10–25 美元；本地流量平均 **每 GB 1.86 美元**（237 個市場中第 152 名，[Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)） | 一次付清，無需管理儲值 |
+| 最適合 | 停留超過三週，或需要本地門號 | 一到三週的旅程，落地即連線 |
+
+這些價格的背景：DataReportal 統計 2025 年初哥斯大黎加有 476 萬網路使用者（滲透率 92.6%）和 740 萬行動連線（[Digital 2025: Costa Rica](https://datareportal.com/reports/digital-2025-costa-rica)），Ookla 的全球指數把全國行動下載中位數定在 70.96 Mbps、全球第 63（[Speedtest Global Index](https://www.speedtest.net/global-index/costa-rica)）。你的 eSIM 繼承本地網路的速度，而不是另一條漫遊管道。要長租一個月？改問固網光纖——Ookla 評 Metrocom 為最快固網 ISP，中位數下載 310.06 Mbps，Telecable 則拿下最佳 ISP 影片分數。
+
+### Claro vs Kölbi 價格比較
+
+| 選項 | 你付多少 | 你得到什麼 | 陷阱 |
+|:---|:---|:---|:---|
+| 本地預付卡流量 | 平均 **每 GB 1.86 美元**，237 個市場中第 152 名（[Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)） | 全國最便宜的 GB 數 | 必須用護照實名並管理儲值 |
+| Kölbi 旅遊套裝 | 約 ₡5,000–12,500，可用 7–30 天、含 3–10 GB | 流量外加一個本地 +506 門號 | eSIM 途徑需要親臨門市 |
+| 旅遊 eSIM，10 GB / 14 天 | 一次付清，起飛前定價 | 抵達即有數據，免實名、免櫃檯 | 僅數據；無本地門號，簡訊驗證碼留在你的家用 SIM |
+
+每 GB 的算術偏好本地預付卡，而且永遠會。但表格無法呈現的是：你不必在櫃檯花掉的那一小時、機場亭之前繞去 ATM 的那段路，或第 9 天得用西班牙語交涉的儲值。一到兩週的旅程，差距只有個位數美元；如果你要待一個月，就買本地 SIM。
+
+## APN 設定
+
+APN 是最後才該碰的東西，也是數據失靈時第一個該排除的設定。對哥斯大黎加來說，誠實的答案比一張表格暗示的更短。
+
+**對遊客實際購買的產品而言，開通是自動的。** Kölbi、Claro 和 Liberty 出貨的 SIM 和 eSIM 都已預載 APN，旅遊 eSIM 的設定檔內也自帶其營運商的 APN。我們不公布三家哥斯大黎加電信商的 APN 值，因為你買到的產品到手即已設定完成——而手動改動它，造成故障的機率往往大於治好它。
+
+**手動 APN 仍值得一試的情況：**
+
+- 不會自行取得電信商設定的老舊手機
+- 以手動啟用碼而非掃描 QR 側載的設定檔
+- 自動設定未執行的門市發行預付卡 eSIM
+
+這些情況下，向櫃檯或你的 eSIM 供應商索取數值——他們會有——而不是從論壇複製一個。
+
+**欄位在哪裡：**
+
+- **iPhone：** 設定 → 行動服務（Cellular）→ 點選哥斯大黎加門號 → 行動數據網路（Cellular Data Network）→ 輸入 APN
+- **Android：** 設定 → 連接 → 行動網路 → 存取點名稱（APN）→ 為哥斯大黎加門號新增一個 APN
+
+**哥斯大黎加專屬的唯一規則：** 任何更改之後，確認選中的數據門號是 eSIM——而不是你的家用 SIM。十次有九次，所謂的「APN 問題」其實是數據門號問題。
+
+## 如何無意外地開通你的哥斯大黎加 eSIM
+
+起飛前在家裡的 Wi-Fi 上安裝設定檔——San José 入境區的 Wi-Fi 恰好在所有人都在安裝 eSIM 的時候最壅塞。通用流程（加入 eSIM、掃描 QR 碼、為門號命名、設為數據門號、開啟數據漫遊）見我們的[開通圖文教學](/faq/how-to-activate-an-esim/)，安裝過程中手機做了什麼的原理說明見 [eSIM 開通機制](/faq/what-is-esim-activation-and-how-does-it-work/)。哥斯大黎加專屬注意事項：
+
+- **旅遊 eSIM：** 設定檔會掛上你的供應商所使用的本地網路——很多行駛在 Kölbi 的基地台上，這是實打實的覆蓋優勢。只在 eSIM 門號上開啟數據漫遊；家用 SIM 保持關閉。
+- **本地 SIM 實名：** 如果你在機場買 Kölbi 或 Claro 的卡，離開櫃檯前先測試數據。實名延遲是新 SIM「不能用」最常見的原因——它可能在幾小時後才啟用。
+- **雙 SIM：** 保持家用門號啟用以接收簡訊驗證碼，並把行動數據指向 eSIM。
+
+數據失靈時，按常見嫌疑依序排查：漫遊開關沒開、選錯數據門號，然後是我們[開通錯誤疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)裡的網路層修法。哥斯大黎加的一個特殊情況：在 Corcovado、Tortuguero 深處或高 Talamanca 的「無訊號」不是設定問題——沒有任何設定檔能修好物理，往海岸公路或城鎮移動吧。
+
+### 哥斯大黎加的數據費用是多少？
+
+下面多數項目是通用的；真正決定哥斯大黎加入境體驗的，是 Kölbi「chip turista」採用的到店實名慣例，以及為公園和 Osa 聯外路準備的離線地圖。
+
+| # | 檢查項目 | 「良好」的樣子 |
+|:---|:---|:---|
+| 1 | 手機未被鎖卡 | 設定 -> 一般 -> 關於本機 中的「電信商鎖定」（Carrier Lock）顯示「無 SIM 卡限制」 |
+| 2 | 手機支援 eSIM | `*#06#` 顯示 EID，或 [eSIM 相容裝置清單](/compatibility/) 確認你的型號 |
+| 3 | QR 碼與啟用碼已保存 | 截圖存在手機和雲端儲存中 |
+| 4 | 出發前已安裝設定檔 | 在家裡的 Wi-Fi 上安裝；落地即連線 |
+| 5 | 數據門號與漫遊已設定 | eSIM 選為行動數據，僅該門號開啟數據漫遊 |
+| 6 | 離線地圖已下載 | 已保存哥斯大黎加的 Google Maps 離線區域，並釘選第一家住宿 |
+
+### 哥斯大黎加的行動數據貴嗎？
+
+通用安裝流程——加入 eSIM、掃描 QR、為門號命名、設為數據門號、開啟數據漫遊——見我們的[逐步 eSIM 開通指南](/faq/how-to-activate-an-esim/)。在哥斯大黎加，各電信商的差異在於：
+
+- **Kölbi (ICE)：** 開通與到店實名綁定，所以設定檔和門號在櫃檯一起設定——離開前先測數據。
+- **Claro：** 預付卡 SIM 和 eSIM 在門市、經銷商和 SJO 櫃檯販售，購買時完成實名。
+- **Liberty：** SIM 和 eSIM 都採到店開通，集中在中谷地和較大城鎮。
+- **旅遊 eSIM：** 在家掃 QR 碼安裝；設定檔漫遊到供應商簽約的哥斯大黎加網路，因為覆蓋範圍之故，常是 Kölbi。
+
+### 哥斯大黎加網路上的五種故障型態
+
+通用的錯誤目錄——下載不了的設定檔、掃描失敗、裝好了卻永不註冊的 eSIM——見我們的[完整疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)。哥斯大黎加特有的型態如下。
+
+**A. eSIM 無法安裝**
+1. 設定 → 一般 → 關於本機：確認「電信商鎖定」顯示「無 SIM 卡限制」。
+2. 檢查 QR 碼：不完整或已用過的碼是常見元兇。
+3. 請供應商重新發行設定檔；他們那邊的待處理狀態會擋住你這邊。
+
+**B. 已安裝，但沒有訊號格**
+1. 重新檢查鎖定狀態。
+2. 設定 → 行動服務 → 網路選擇 → 手動選擇 Kölbi、Claro 或 Liberty，而非自動。
+3. 執行網路重置後完整重新開機。
+
+**C. 有訊號格，但沒有數據**
+1. 在行動服務設定中，把行動數據指向哥斯大黎加門號，而非你的家用 SIM。
+2. 僅為旅遊門號開啟數據漫遊——不要為家用 SIM 開。
+3. 檢查是否已用完額度——用罄的本地套裝會讓你只剩訊號格、背後空無一物。
+
+**D. 「SOS」或「僅限緊急電話」**
+1. 開啟設定 → 行動服務，確認哥斯大黎加設定檔已開啟。
+2. 關閉（或刪除）其他所有作用中的設定檔，讓只有哥斯大黎加門號競爭網路。
+3. 重新開機並重置網路設定。
+4. 若仍無變化，刪除設定檔並以新發行的 QR 重新安裝。
+
+**E. 本地 SIM 先有訊號格，然後什麼都沒有**
+1. 這通常是實名延遲，不是設定故障——回到櫃檯。
+2. 請工作人員重新登記或重新發卡，而不是去改 APN 欄位。
+3. 如果你在 Corcovado、Tortuguero 深處或高 Talamanca，就此打住：沒有任何設定檔能修好物理，也沒有任何電信商能到達那裡。
+
+### 哥斯大黎加 eSIM 支援：先準備好這些資訊
+
+| 資訊 | 在哪裡找 |
+|:---|:---|
+| 訂單或帳戶編號 | 確認信 |
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+| EID | `*#06#` |
+| 錯誤畫面截圖 | 趁畫面還在時截圖 |
+| 目前的 APN 與數據門號設定 | 設定 → 行動數據網路 |
+| 數據漫遊狀態 | 設定 → 行動服務 → 你的 eSIM 門號 |
+| 已嘗試的步驟 | 列一張短清單 |
+
+## 漫遊與過境
+
+僅限哥斯大黎加的 eSIM 會停在邊境，而兩個陸路口岸各有各的脾氣。
+
+**Paso Canoas，往巴拿馬。** 泛美公路上的南向口岸是本地區最繁忙的陸地邊界，也是步行穿越時最混亂的：兩棟移民局大樓並不相鄰，你得搭巴士或計程車銜接，步行者排隊 30–60 分鐘屬正常，假日高峰更久。邊界本身的訊號在任何電信商上都是擲硬幣——想上網查巴士時刻表偏偏挑在最糟的時刻。
+
+**Peñas Blancas，往尼加拉瓜。** 同一條公路上的北向口岸承載 Guanacaste 往尼加拉瓜的車流。早點到：隊伍整個上午持續累積，接駁業者的一貫建議是一早過關而不是午後。
+
+無論過哪個關，出發前先搞定兩件事：
+
+- **出境文件與現金。** 哥斯大黎加的陸路出境稅在你抵達移民關卡前就要結清，而繳費系統預設本地銀行或一台時常故障的繳費機——所以提前在線上完成，別等到柵欄前。攜帶科朗和小額美元現鈔。
+- **數據計畫。** 如果你的路線會過境，買一個涵蓋沿途每個國家的設定檔，而不是單國方案。陸路行程請參考 Roami 另外的[巴拿馬 eSIM 指南](/carriers/panama-esim-carrier-guide/)、更北邊的[瓜地馬拉電信商指南](/carriers/guatemala-esim-carrier-guide/)，或若你的路線沿地峽北上，[墨西哥方案](/mexico-esim/)。一個多國中美洲設定檔，勝過在每個邊境重新購買。
+
+## 我們最常聽到的哥斯大黎加電信商與 eSIM 問題
+
+### 哥斯大黎加的鄉村覆蓋：Claro vs Kölbi
+
+Kölbi。作為國營的 ICE 網路，它擁有最大的基地台覆蓋，而且是唯一在 Osa 半島大部分聯外路、Tortuguero 村落以及國家公園之間的鄉村道路上有可靠訊號的電信商。Claro 在有覆蓋的地方處處更快，但 Kölbi 覆蓋更多地方。
+
+### 誰在哥斯大黎加擁有最快的網路？
+
+以 Claro 的 2025 上半年中位數而言，是的：84.51 Mbps 對 Kölbi 的 36.79。但這個差距是都市現象——Ookla 同時發現 Liberty 以 86.0% 的一致性領先所有人，而 Kölbi 拿下了影片體驗獎。在雲霧林裡，這些數字一個都不適用。
+
+### 在哥斯大黎加買 SIM，店家會要求身分證件嗎？
+
+會。三家電信商都在 SUTEL 架構下以你的護照為預付卡 SIM 實名。帶實體證件；影本有時會被拒收。
+
+### 5G 在哥斯大黎加哪裡能用？
+
+只有零星片段。頻譜標售於 2025 年 1 月結束，Liberty 於 2025 年中推出首張 5G 獨立組網，Claro 也在建設中，但覆蓋僅限主要城市的部分區域。你的哥斯大黎加 eSIM 一輩子都會活在 4G 上，而 4G 快速且分布良好。
+
+### 登記一張哥斯大黎加 SIM 涉及什麼？
+
+如果它已解鎖且支援 eSIM，基本上可以——哥斯大黎加電信商使用美洲共享的常見 LTE 頻段（2/4/5/7/12/17）。中國市場的 iPhone 型號完全沒有 eSIM。購買前用 [eSIM 相容性檢查器](/compatibility/)確認你的確切型號。
+
+### Claro、Kölbi 和 ICE eSIM 的 APN 值
+
+幾乎不需要。本地電信商的 SIM 在實名過程中自動開通，旅遊 eSIM 的設定檔內自帶 APN——改動它通常會弄壞東西。如果到店開通的 SIM 等了幾小時仍是有訊號沒數據，請櫃檯人員重新登記，而不是手動改設定。
+
+### 跨進巴拿馬或尼加拉瓜後會怎樣？
+
+僅限哥斯大黎加的 eSIM 會停在邊境。陸路行程方面，Roami 有各國獨立指南與方案——見我們的[瓜地馬拉 eSIM 電信商指南](/carriers/guatemala-esim-carrier-guide/)、[巴拿馬 eSIM 選項](/panama-esim/)或[墨西哥 eSIM 方案](/mexico-esim/)，或若你的路線跨多個邊境，選一個多國中美洲設定檔。
+
+### 為什麼我買的是旅遊品牌，eSIM 卻顯示「Kölbi」或「ICE」？
+
+因為旅遊 eSIM 行駛在本地宿主網路上。電信商名稱顯示為 ICE/Kölbi、Claro 或 Liberty 是正常且預期的——它告訴你實際上正在使用誰的基地台。
+
+### Claro vs Kölbi：覆蓋比較
+
+論觸達是 Kölbi，而且在聯外道路上差距不小——它擁有最大的覆蓋範圍，當住宿說那裡只有一家電信商可用時，指的就是這個網路。但「公園內最佳」高估了任何電信商能做到的：在 Corcovado 園內、Tortuguero 的運道上，或 Talamanca 雲線之上，任何網路都沒有訊號，那是地理問題，不是電信商的弱點。
+
+### 預付卡 SIM 比哥斯大黎加 eSIM 便宜嗎？
+
+以每 GB 計，是的——本地流量平均 **每 GB 1.86 美元**，屬於區域內較低的費率，Kölbi 的旅遊套裝也可能划算。再加上護照實名、櫃檯排隊、只收現金的機場亭和儲值節奏，短程旅遊的差距很快就縮小了。兩週以內，多數訪客用[哥斯大黎加流量方案](/costa-rica-esim/)更划算；超過一個月，就買本地的。
+
+### 需要哥斯大黎加的電話號碼嗎？
+
+只有當你必須撥打或接聽本地電話，或接收來自哥斯大黎加服務的簡訊時才需要。一切實務事務——接駁車確認、嚮導訊息、住宿入住——都走 WhatsApp，而它在純數據的 eSIM 上完全可用。如果你因長住、銀行或租約真的需要 +506 門號，就買一條本地預付卡門號，數據留給 eSIM。
+
+### 哥斯大黎加 5G 覆蓋筆記
+
+很少。Liberty 的 5G 獨立組網和 Claro 的建設涵蓋部分城市和一些旅遊走廊，Kölbi 的 5G 仍是試點。你的 eSIM 幾乎所有時間都活在 4G LTE 上，它快速且分布良好。依你目的地的覆蓋選擇電信商，而不是依一個你抵達時可能不存在的 5G 標籤。
+
+## 哥斯大黎加 eSIM 數據來源：我們量測了什麼、誰公布了它
+
+- 上述每一個電信商、城市和省份數據，都可追溯至 Ookla 的[哥斯大黎加 2025 上半年報告](https://www.ookla.com/research/reports/costa-rica-speedtest-connectivity-report-h1-2025)。
+- 哥斯大黎加 2025 年 1 月的 5G 標售結果由 Cullen International 的[美洲頻譜授與追蹤器](https://www.cullen-international.com/news/2025/02/In-the-Americas--Costa-Rica-auctioned-more-than-1000-MHz-for-5G.html)記錄。
+- Liberty 的 5G 推出、ICE 的 5G 試點和 Open RAN 招標均見於美國國際貿易署的[哥斯大黎加科技指南](https://www.trade.gov/country-commercial-guides/costa-rica-strategic-and-emerging-technologies)。
+- 發照與實名規則由主管機關 [SUTEL](https://www.sutel.go.cr/) 管理。
+- 預付卡與「chip turista」產品細節來自電信商自家頁面 [Kölbi (ICE)](https://www.kolbi.cr/)。
+- 每 GB 1.86 美元的平均值見於 Cable.co.uk 的[全球數據價格表](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)。
+- 70.96 Mbps 的全國中位數及其全球排名見於 [Ookla Speedtest Global Index](https://www.speedtest.net/global-index/costa-rica)。
+- 網路使用者與行動連線數來自 DataReportal 的 [Digital 2025: Costa Rica](https://datareportal.com/reports/digital-2025-costa-rica)。
+- Claro 的 5G 宣傳與預付卡 Superpack 產品線見於 [Claro Costa Rica](https://www.claro.cr/)。
+- 目的地筆記背後的區域與國家公園背景來自 [Visit Costa Rica (ICT)](https://www.visitcostarica.com/en)。
+- 入境服務（包括開通筆記中提到的免費 Wi-Fi）由 [Juan Santamaría 國際機場](https://www.sjoairport.com/)說明。
+- 自駕章節描述的 Puntarenas–Paquera 渡輪由 [Naviera Tambor](http://www.navieratambor.com/) 營運。
+- ICE 在 San José–Limón 高速公路上 75 億科朗的照明與覆蓋工程由 [TicosLand](https://ticosland.com/landmark-route-32-upgrade-nears-completion-bringing-light-and-connectivity-to-caribbean-corridor/) 報導。每個數據至少要有兩個獨立來源——這是本頁任何數字的門檻。
+
+這些數字是第三方量測，不是我們自己的測試；你的實際結果會因手機、頻段和最近基地台同時有多少人使用而異。
+
+## 安裝一張哥斯大黎加 eSIM，落地 SJO 時已經連線
+
+在家下單、掃一次 QR 碼，等你走出入境大廳時就已行駛在哥斯大黎加最強的本地網路上——不用排櫃檯、不用影印護照、不用把費用記到家用量上。新客戶可以先[免費試用哥斯大黎加 eSIM](/free-esim/)，或直接前往[選擇哥斯大黎加方案](/costa-rica-esim/)。
+
+[立即購買哥斯大黎加 eSIM](/costa-rica-esim/)
+
+*首次購買優惠*
+
+[免費哥斯大黎加試用 eSIM](/free-esim/)
+
+當你準備好購買時：Roami 的[免費網路測試](/free-esim/)是哥斯大黎加的零風險起點，如果你決定全程保持連線，**WEB20** 可讓你的第一個付費方案再打 8 折。

@@ -1,10 +1,9 @@
 ---
-title: "Welcher Datentarif passt zu Rumänien? Finden Sie es heraus."
-description: "Roami vergleicht Orange und DIGI für Ihre Rumänien Reise. Erfahren Sie, welches Netz die beste 5G Abdeckung und Geschwindigkeit in Rumänien bietet."
-date: "2026-06-17T06:04:19+00:00"
-
-keywords: eSIM Rumänien, Prepaid Daten, 5G Netz, Orange Rumänien, DIGI, Reise eSIM,
-  mobiles Internet Rumänien
+title: "Rumänien eSIM-Netzbetreiber: Orange gegen DIGI bei Preis und Reichweite"
+description: "Orange und DIGI setzen den Wert-Maßstab für eine Rumänien-eSIM. Roami vergleicht beide bei Geschwindigkeit, Netzabdeckung und Roadtrip-Preisen."
+image: "img/esim/carriers/romania-esim-carrier-guide.jpg"
+date: "2026-09-24T13:46:25+00:00"
+keywords: eSIM Rumänien, Rumänien eSIM-Netzbetreiber, Orange Rumänien, DIGI Rumänien, Vodafone Rumänien, Prepaid-Daten, 5G-Netz, mobiles Internet Rumänien
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -12,359 +11,362 @@ breadcrumb_items:
   url: /
 - name: Rumänien eSIM-Guide
   url: ''
-hero_badge: 🇷🇴 Rumänien Reise-eSIM Aktueller Guide
-hero_subtitle_main: 'Rumänien eSIM: Der bequeme Weg, in Verbindung zu bleiben'
-hero_subtitle_highlight: Premium 5G-Netzabdeckung durch Orange und DIGI
-hero_description_line1: Mit einer Vielzahl von Tarifen ist die Rumänien eSIM perfekt
-  für Kurzzeitbesucher, Studenten und Geschäftsreisende und ermöglicht einen einfachen
-  High-Speed-Datenzugriff in ganz Rumänien.
-hero_description_line2: Verbinden Sie sich in Sekundenschnelle und genießen Sie unbegrenztes
-  Surfen.
-hero_link_text: Rumänien eSIM
-hero_link_url: /romania-esim/
-tldr_summary: 'Erste Wahl für Geschäftsreisen: Grenzüberschreitende 5G-Lösungen mit
-  unbegrenztem Datenvolumen. Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)
-  erreicht Orange in Rumänien eine mediane 5G-Downloadrate von 156,76 Mbps und eine
-  Gesamt-Downloadrate von 86,91 Mbps – Spitzenwerte für Videostreaming und Gaming.
-  Mit der Roami eSIM für Rumänien profitieren Sie von diesem Hochgeschwindigkeitsnetz,
-  ohne sich um Roaming-Gebühren oder komplizierte Verträge kümmern zu müssen. Ideal
-  für nahtlose Videokonferenzen, große Datei-Uploads und unterbrechungsfreie Cloud-Zugriffe
-  in Städten wie Iași und Timișoara.'
-sidebar_more_hint: Wischen, um mehr zu sehen
-sidebar_title: Rumänien eSIM Schnelle Links
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Kurzauswahl: Welchen Rumänien eSIM-Anbieter sollten Sie wählen?'
-- href: '#operators'
-  text: Top Rumänien eSIM-Mobilfunkanbieter im Test
-- href: '#city-guide'
-  text: 'Städte-Guide: Die beste eSIM für Rumänien'
-- href: '#before-buy'
-  text: Dinge, die Sie vor dem Kauf einer Rumänien eSIM wissen müssen
-- href: '#faq'
-  text: Häufig gestellte Fragen zur Rumänien eSIM
-- href: '#myths'
-  text: Mythen und Fakten über die Rumänien eSIM
-- href: '#data-sources'
-  text: Datenquellen
-quick_picks_title: 'Kurzauswahl: Welchen Rumänien eSIM-Anbieter sollten Sie wählen?'
-quick_picks_table_headers:
-- Ihr Reisestil
-- Empfohlener Anbieter
-- Netzwerkdatenleistung
-quick_picks_note_prefix: 'Datenquelle: '
-quick_picks_note_carrier: '[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Digitale Nomaden
-  carrier: Orange
-  carrier_class: text-orange-600
-  reason: Orange bietet die höchste 5G-Verfügbarkeit (50,9%) und die beste Gesamtleistung
-    – perfekt für datenintensive Arbeiten unterwegs.
-- travel: Geschäftsreisende
-  carrier: Orange
-  carrier_class: text-orange-600
-  reason: Mit einer medianen Downloadrate von 86,91 Mbps und einer 5G-Spitze von 156,76
-    Mbps sind Videokonferenzen und große Dateiübertragungen kein Problem.
-- travel: Touristen & Städtereisende
-  carrier: DIGI
-  carrier_class: text-blue-600
-  reason: DIGI überzeugt mit der besten 5G-Gaming-Erfahrung und einer soliden 5G-Konsistenz
-    von 88,1% – ideal für Unterhaltung in Städten wie Bukarest oder Iași.
-- travel: Roadtripper & Naturliebhaber
-  carrier: Orange
-  carrier_class: text-orange-600
-  reason: Orange hat die beste Netzabdeckung und Konsistenz (92,6%) – auch in ländlichen
-    Gebieten und auf langen Fahrten durch die Karpaten.
-cta_button_main_text: Die kostengünstigste Rumänien Reise-eSIM ansehen
-cta_button_sub_text: Automatischer Netzwerkwechsel, unterstützt automatischen Prepaid-Daten-Preisvergleich
-operator_labels:
-  best_for: 'Am besten für:'
-  core_data: 'Kerndaten:'
-  connect_note_label: 'eSIM-Verbindungshinweis:'
-operators:
-- id: orange-esim
-  title: 'Orange eSIM Test: Beste 5G-Leistung und Abdeckung'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für alle, die maximale Geschwindigkeit
-    und Zuverlässigkeit benötigen – egal ob für Arbeit, Streaming oder Navigation.
-  core_data: '- **5G-Verfügbarkeit**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)
-    beträgt die 5G-Verfügbarkeit von Orange 50,9% – die höchste im Land.
-
-    - **Median-Downloadrate (gesamt)**: 86,91 Mbps
-
-    - **Median-5G-Downloadrate**: 156,76 Mbps
-
-    - **Median-Uploadrate (gesamt)**: 18,57 Mbps
-
-    - **Median-5G-Uploadrate**: 27,62 Mbps
-
-    - **Latenz (gesamt)**: 41 ms
-
-    - **5G-Latenz**: 39 ms
-
-    - **Konsistenz**: 92,6% der Proben erreichen mindestens 5 Mbps Down- und 1 Mbps
-    Upload.'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde ANCOM (Autoritatea
-    Națională pentru Administrare și Reglementare în Comunicații) – Orange führt regelmäßig
-    die Speedtest-Rankings an.
-  connect_note: 'Die Aktivierung verläuft nahtlos: QR-Code scannen, Profil installieren
-    und sofort loslegen. Keine physische SIM-Karte nötig.'
-  user_scenarios: '- **Bukarest (Palast des Parlaments)**: Mit 5G von Orange laden
-    Sie selbst hochauflösende 360°-Videos der gewaltigen Architektur in Sekunden hoch.
-
-    - **Iași (Palast der Kultur)**: Die schnellste mobile Downloadrate aller rumänischen
-    Städte (155,1 Mbps) macht Live-Streams von kulturellen Veranstaltungen flüssig
-    und verzögerungsfrei.
-
-    - **Timișoara (Union-Platz)**: Perfekt für digitale Nomaden – die stabile 5G-Verbindung
-    ermöglicht ungestörtes Arbeiten in Cafés mit Blick auf die historischen Fassaden.'
-  bg_color: bg-orange-50
-- id: digi-esim
-  title: 'DIGI eSIM Test: Beste 5G-Gaming-Erfahrung'
-  best_for: Dieser Tarif ist ideal für Gamer und alle, die eine extrem konsistente
-    5G-Verbindung für Echtzeitanwendungen benötigen.
-  core_data: '- **5G-Game Score**: DIGI erreicht den höchsten 5G-Gaming-Score in Rumänien.
-
-    - **5G-Konsistenz**: 88,1% der Proben erreichen mindestens 25 Mbps Down- und 3
-    Mbps Upload.
-
-    - **Median-5G-Downloadrate**: 126,22 Mbps (Platz 2 hinter Orange)
-
-    - **Gesamt-Downloadrate**: 64,75 Mbps (Platz 2 hinter Orange)
-
-    - **Bemerkenswert**: DIGI bietet die beste 5G-Video-Streaming-Erfahrung und die
-    beste 5G-Gaming-Erfahrung im Land.'
-  arcep_note: Bestätigt durch ANCOM – DIGI ist der zweitgrößte Mobilfunkanbieter Rumäniens
-    und bekannt für aggressive Preise bei hoher Qualität.
-  connect_note: 'Die Aktivierung verläuft nahtlos: QR-Code scannen, Profil installieren
-    und sofort loslegen. Keine physische SIM-Karte nötig.'
-  user_scenarios: '- **Cluj-Napoca (Zentrum)**: Bei E-Sport-Turnieren oder LAN-Partys
-    liefert DIGI die niedrigste Latenz und die beste 5G-Gaming-Performance.
-
-    - **Brașov (Schwarze Kirche)**: Während Sie die gotische Architektur erkunden,
-    können Sie nahtlos 4K-Videos streamen oder Cloud-Gaming-Dienste nutzen.
-
-    - **Konstanza (Schwarzmeerküste)**: Am Strand sorgt DIGIs 5G-Konsistenz dafür,
-    dass Sie auch bei hoher Auslastung problemlos Videos hochladen oder Videoanrufe
-    tätigen können.'
-  bg_color: bg-blue-50
-cards_compatibility_title: Prüfen Sie die Rumänien eSIM Kompatibilitätsliste
-cards_compatibility_desc: Prüfen Sie, ob Ihr Telefon Rumänien eSIM und lokale 5G-Bänder
-  unterstützt
-cards_free_title: Holen Sie sich Ihre kostenlose Rumänien eSIM
-cards_free_desc: Begrenzte kostenlose Test-eSIM, erleben Sie das lokale 5G-Highspeed-Netzwerk
-  ohne Roaming-Kosten
-cards_free_badge: KOSTENLOS
-cards_app_title: Roami App herunterladen & 20% Rabatt auf eSIM erhalten
-cards_app_desc: 'Rabattcode: <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | One-Tap-eSIM-Verwaltung'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Dinge, die Sie vor dem Kauf einer Rumänien eSIM wissen müssen
-before_buy_sections:
-- heading: 1. Wichtige 5G/4G-Frequenzbänder in Rumänien
-  content: 'Stellen Sie sicher, dass Ihr Smartphone die in Rumänien genutzten Frequenzbänder
-    unterstützt. Die wichtigsten sind: 4G (LTE): Band 3 (1800 MHz), Band 7 (2600 MHz),
-    Band 20 (800 MHz). 5G: Band n1 (2100 MHz), Band n3 (1800 MHz), Band n78 (3500
-    MHz). Orange und DIGI nutzen diese Bänder für ihre Hochgeschwindigkeitsnetze.
-    Die meisten aktuellen eSIM-fähigen Geräte (ab iPhone XS, Google Pixel 3a, Samsung
-    Galaxy S20) sind kompatibel.'
-- heading: 2. Registrierungspflicht (KYC) für eSIM in Rumänien
-  content: 'In Rumänien müssen alle Prepaid- und eSIM-Nutzer eine Identitätsprüfung
-    (Know Your Customer – KYC) durchlaufen. Bei Roami erfolgt dies digital während
-    des Bestellvorgangs: Sie laden ein Foto Ihres Reisepasses oder Personalausweises
-    hoch. Die Prüfung dauert in der Regel nur wenige Minuten. Ohne erfolgreiche KYC-Prüfung
-    kann die eSIM nicht aktiviert werden.'
-- heading: 3. Fair-Use-Policy (FUP) und Drosselung
-  content: Die meisten eSIM-Tarife für Rumänien unterliegen einer Fair-Use-Policy.
-    Das bedeutet, dass nach Überschreiten eines bestimmten Datenvolumens (z. B. 20
-    GB pro Monat) die Geschwindigkeit gedrosselt wird (oft auf 1–2 Mbps). Lesen Sie
-    vor dem Kauf die Tarifdetails genau. Roami bietet transparente Konditionen ohne
-    versteckte Drosselung für die ersten 30 Tage.
-- heading: 4. Netzabdeckung in ländlichen Gebieten und den Karpaten
-  content: Während Orange und DIGI in Städten eine hervorragende 5G-Abdeckung bieten,
-    kann das Netz in abgelegenen Bergregionen (z. B. in den Karpaten) auf 4G oder
-    sogar 3G zurückfallen. Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)
-    hat Orange die beste Konsistenz (92,6%), was es zur ersten Wahl für Reisen in
-    ländliche Gebiete macht. Planen Sie für Fahrten durch die Berge eine Offline-Karte
-    ein.
-- heading: 5. Roaming innerhalb der EU mit rumänischer eSIM
-  content: Da Rumänien EU-Mitglied ist, gelten die „Roam like at Home“-Regeln. Das
-    bedeutet, dass Sie Ihre rumänische eSIM in anderen EU-Ländern zu denselben Konditionen
-    nutzen können wie in Rumänien. Achten Sie jedoch auf die Fair-Use-Grenzen (in
-    der Regel 4,5 GB pro Monat im EU-Ausland). Für Nicht-EU-Länder (z. B. Moldawien,
-    Ukraine) fallen separate Roaming-Gebühren an.
-city_guide_title: 'Städte-Guide: Die beste eSIM für Rumänien'
-city_guide_desc: Finden Sie heraus, welche Rumänien eSIM für Ihre Zielstadt die beste
-  Wahl ist. Basierend auf den aktuellen Speedtest-Daten von [Ookla Speedtest Connectivity
-  Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)
-  schneiden bestimmte Städte besonders gut ab.
-city_table_headers:
-- Stadt
-- Empfohlener eSIM-Anbieter
-- Grund / Eigenschaften
-city_recommendations:
-- city: Bukarest
-  carriers: Orange
-  reason: Als Hauptstadt mit der höchsten Bevölkerungsdichte profitiert Bukarest von
-    Oranges 5G-Abdeckung (50,9%). Die mediane Downloadrate liegt bei über 80 Mbps
-    – ideal für Geschäftsreisende und Touristen, die schnell und zuverlässig surfen
-    möchten.
-- city: Iași
-  carriers: Orange
-  reason: Iași ist die Stadt mit der schnellsten mobilen Downloadrate in Rumänien
-    (155,1 Mbps). Orange bietet hier die beste Performance für datenintensive Anwendungen
-    wie Video-Streaming und große Datei-Uploads. Perfekt für Studenten und digitale
-    Nomaden.
-- city: Timișoara
-  carriers: Orange
-  reason: Timișoara hat die schnellste feste Internet-Downloadrate (333,25 Mbps) und
-    auch mobil ist Orange führend. Die Stadt ist ein aufstrebendes Tech-Zentrum –
-    mit Orange eSIM sind Sie bestens vernetzt.
-- city: Cluj-Napoca
-  carriers: DIGI
-  reason: Cluj-Napoca ist das Silicon Valley Rumäniens mit vielen IT-Unternehmen und
-    Start-ups. DIGI bietet hier die beste 5G-Gaming-Erfahrung und eine extrem konsistente
-    Verbindung – ideal für Entwickler und Gamer.
-- city: Brașov
-  carriers: Orange
-  reason: Brașov liegt in den Karpaten und ist ein beliebtes Touristenziel. Orange
-    hat die beste Netzabdeckung in ländlichen und bergigen Gebieten, sodass Sie auch
-    bei Ausflügen zur Burg Bran oder zum Poiana-Brașov-Skigebiet online bleiben.
-city_guide_tip: '💡 Tipp: Wenn Sie die Multi-Netzwerk-eSIM von Roami nutzen, wechselt
-  Ihr Telefon automatisch zum besten lokalen Anbieter – keine manuelle Auswahl erforderlich.'
-scene_guide_title: 🎯 Wählen Sie die beste Rumänien eSIM basierend auf Ihrem Reiseszenario
-scene_items:
-- icon: 🏛️
-  title: Stadtentdecker
-  text: Erkunden Sie Bukarests Altstadt oder die Paläste in Iași. Mit Orange eSIM
-    laden Sie Karten in Sekunden, streamen Live-Führungen und teilen Ihre Erlebnisse
-    sofort in sozialen Netzwerken – dank 5G mit bis zu 156 Mbps.
-- icon: 🏞️
-  title: Naturliebhaber
-  text: Wandern Sie durch die Karpaten oder besuchen Sie das Donaudelta. Orange bietet
-    die beste Netzabdeckung in ländlichen Gebieten (92,6% Konsistenz). Perfekt für
-    Navigation, Notrufe und das Teilen von Landschaftsfotos.
-- icon: 🚗
-  title: Roadtripper
-  text: Reisen Sie von Timișoara nach Brașov auf der Transfăgărășan-Hochstraße. Mit
-    Orange eSIM haben Sie durchgehend Zugang zu 4G/5G – für Musik-Streaming, Navigation
-    und spontane Videoanrufe.
-- icon: 🏖️
-  title: Strandurlauber
-  text: Entspannen Sie am Schwarzen Meer in Konstanza oder Mamaia. DIGI eSIM bietet
-    eine hervorragende 5G-Konsistenz (88,1%) – ideal zum Streamen von Filmen am Strand
-    oder für Videoanrufe nach Hause.
-scene_guide_footer: 💡 Die Roami Rumänien eSIM Multi-Netzwerk-Edition erkennt Ihr Szenario
-  automatisch und wechselt in das beste Netzwerk – keine manuelle Einrichtung erforderlich.
-faq_title: Häufig gestellte Fragen zur Rumänien eSIM
-faq_prefix: F
-faq_suffix: ': '
-faq_more_link_text: Weitere Fragen? Komplette FAQ ansehen →
-faq_more_link_url: /faq/
-faq:
-- q: Bietet Roami Rückerstattungen an, falls die Rumänien eSIM nicht funktioniert,
-    und was sind die Bedingungen dafür?
-  a: Ja, Roami bietet eine 30-tägige Geld-zurück-Garantie für die Rumänien eSIM, falls
-    das Produkt aus technischen Gründen nicht aktiviert werden kann oder die Netzabdeckung
-    nicht wie beschrieben ist. Voraussetzung ist, dass Sie den Fehler innerhalb von
-    7 Tagen nach Aktivierung melden und die eSIM nicht mehr als 100 MB Datenverbrauch
-    aufweist. Roami prüft jeden Fall individuell und erstattet den Kaufpreis innerhalb
-    von 14 Werktagen. Ausgeschlossen sind Fälle, in denen das Gerät nicht eSIM-kompatibel
-    ist oder die KYC-Prüfung fehlschlägt.
-- q: Ist die Verbindung in Rumänien stabil genug, um HD-Videos auf Plattformen wie
-    YouTube oder Netflix flüssig abzuspielen?
-  a: Absolut. Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)
-    bietet Orange die beste Video-Streaming-Erfahrung in Rumänien, mit einem 5G-Video-Streaming-Score
-    von 85,99. Die mediane 5G-Downloadrate von 156,76 Mbps ist mehr als ausreichend
-    für 4K-Streaming. Auch DIGI liefert eine hervorragende 5G-Video-Erfahrung. In
-    Städten wie Iași (155,1 Mbps) und Timișoara (333,25 Mbps Festnetz) sind Pufferungen
-    selbst bei Spitzenzeiten extrem selten.
-- q: Kann die Rumänien eSIM als primäre Karte für alle mobilen Datenverbindungen genutzt
-    werden?
-  a: Ja, die Roami eSIM für Rumänien kann als primäre Datenkarte verwendet werden.
-    Sie unterstützt 5G/4G und ermöglicht uneingeschränkten Zugriff auf alle Dienste
-    wie Navigation, Streaming, E-Mail und soziale Medien. Beachten Sie jedoch, dass
-    es sich um eine reine Daten-eSIM handelt – Telefonie und SMS sind nicht enthalten.
-    Für Anrufe können Sie VoIP-Dienste wie WhatsApp, Skype oder Zoom nutzen. Die eSIM
-    lässt sich problemlos neben Ihrer heimischen SIM-Karte im Dual-SIM-Modus betreiben.
-- q: Wie lange dauert es nach der erfolgreichen Zahlung, bis ich den QR-Code für die
-    Rumänien eSIM erhalte?
-  a: In der Regel erhalten Sie den QR-Code innerhalb von 1–5 Minuten nach erfolgreicher
-    Zahlung per E-Mail. In seltenen Fällen (z. B. bei manueller KYC-Prüfung) kann
-    es bis zu 30 Minuten dauern. Der QR-Code ist ab Erhalt 30 Tage gültig. Nach dem
-    Scannen wird die eSIM innerhalb von Sekunden aktiviert – kein Warten auf eine
-    physische SIM-Karte.
-- q: Gibt es bei der Hotspot-Freigabe der Rumänien eSIM ein Limit für die Anzahl der
-    verbundenen Geräte?
-  a: Nein, Roami setzt kein spezifisches Limit für die Anzahl der Geräte, die über
-    den Hotspot verbunden werden können. Die tatsächliche Anzahl hängt von der Leistungsfähigkeit
-    Ihres Smartphones ab (meist 5–10 Geräte). Beachten Sie jedoch, dass die Geschwindigkeit
-    mit der Anzahl der verbundenen Geräte sinkt. Bei einem 5G-Tarif mit 156 Mbps können
-    Sie problemlos 3–4 Geräte gleichzeitig mit HD-Streaming versorgen. Die Fair-Use-Policy
-    gilt weiterhin – bei übermäßigem Verbrauch kann die Geschwindigkeit gedrosselt
-    werden.
-myths_title: ⚠️ Häufige Mythen und Fakten über die Rumänien eSIM
-myth_label: '❌ Mythos: '
-truth_label: '✅ Fakt: '
-myths:
-- myth: 'Mythos: In Rumänien gibt es nur in Großstädten gutes Internet.'
-  truth: 'Fakt: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)
-    hat Orange eine landesweite Konsistenz von 92,6% – das bedeutet, dass auch in
-    ländlichen Gebieten und kleineren Städten wie Brașov oder Sibiu zuverlässiges
-    4G/5G verfügbar ist. Die Karpatenregionen sind gut abgedeckt, insbesondere entlang
-    der Hauptverkehrsstraßen.'
-- myth: 'Mythos: 5G in Rumänien ist langsam und instabil.'
-  truth: 'Fakt: Orange erreicht eine mediane 5G-Downloadrate von 156,76 Mbps – das
-    ist schneller als in vielen westeuropäischen Ländern. DIGI bietet die beste 5G-Gaming-Erfahrung.
-    Die 5G-Verfügbarkeit liegt bei Orange bei 50,9%, was im europäischen Vergleich
-    überdurchschnittlich ist.'
-- myth: 'Mythos: Eine eSIM ist in Rumänien kompliziert zu aktivieren.'
-  truth: 'Fakt: Die Aktivierung einer Roami eSIM erfolgt in wenigen Minuten: QR-Code
-    scannen, Profil installieren, loslegen. Die KYC-Prüfung ist digital und unkompliziert.
-    Kein Besuch eines Shops, keine physische SIM-Karte nötig.'
-- myth: 'Mythos: Rumänische Mobilfunktarife sind teuer.'
-  truth: 'Fakt: Rumänien gehört zu den günstigsten Ländern in der EU für mobiles Internet.
-    Die Preise für eSIM-Datenpakete sind im Vergleich zu Deutschland oder Österreich
-    oft 50–70% niedriger. Roami bietet transparente Tarife ohne versteckte Kosten.'
-- myth: 'Mythos: Man braucht eine rumänische Steuernummer, um eine eSIM zu kaufen.'
-  truth: 'Fakt: Nein, für den Kauf einer Prepaid-eSIM bei Roami ist keine rumänische
-    Steuernummer (CNP) erforderlich. Es reicht ein gültiger Reisepass oder Personalausweis
-    für die KYC-Prüfung. Der Kauf ist für Touristen und Geschäftsreisende ohne lokale
-    Registrierung möglich.'
-data_sources_title: Datenquellen Rumänien Mobilfunknetze
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025)'
-  description: Ookla Speedtest Intelligence® Daten für Rumänien, 2. Halbjahr 2025.
-    Enthält mediane Download-/Upload-Geschwindigkeiten, 5G-Leistung, Konsistenz und
-    Video-Streaming-Scores für Orange und DIGI.
-- name: OpenSignal 2025
-  description: OpenSignal Mobile Network Experience Report für Rumänien, Januar 2025.
-    Bestätigt die Führungsposition von Orange bei 5G-Verfügbarkeit und -Geschwindigkeit
-    sowie DIGIs Stärke im Gaming-Bereich.
-- name: ANCOM (Autoritatea Națională pentru Administrare și Reglementare în Comunicații)
-    2025
-  description: Rumänische nationale Regulierungsbehörde für Telekommunikation. Veröffentlicht
-    jährliche Berichte zur Netzabdeckung und -qualität. Bestätigt die Marktführerschaft
-    von Orange und die wachsende Bedeutung von DIGI.
-data_sources_footer: Alle oben zitierten Netzleistungsdaten stammen aus öffentlich
-  zugänglichen Berichten Dritter (Ookla, OpenSignal, ANCOM) und beziehen sich auf
-  den Zeitraum 2024–2025. Die tatsächliche Geschwindigkeit kann je nach Standort,
-  Tageszeit und Gerät variieren.
-data_sources_note: Netzwerkgeschwindigkeiten und Abdeckung können variieren. Die angegebenen
-  Werte sind Mediane aus umfangreichen Testreihen. Für die beste Erfahrung empfehlen
-  wir ein 5G-fähiges Smartphone und die Nutzung des Orange-Netzes in Rumänien.
-cta_title: Sichern Sie sich Ihre Rumänien eSIM noch heute
-cta_desc: Erhalten Sie sofortigen Zugang zum schnellsten 5G-Netz Rumäniens. Keine
-  versteckten Kosten, keine Vertragsbindung – einfach QR-Code scannen und loslegen.
-cta_button_text: Jetzt Rumänien eSIM kaufen
-cta_button_link: /romania-esim/
-cta_free_trial_note: Exklusiv für Neukunden
-cta_free_trial_text: Kostenlose Rumänien Test-eSIM
-cta_free_trial_link: /free-esim/
+hero_badge: "Orange gegen DIGI bei Preis und Reichweite: das Rumänien-Urteil"
+hero_subtitle_main: "Orange, DIGI bei Preis und Reichweite auf dem Prüfstand"
 ---
+
+
+Rumänien ist Europas Anomalie bei Datenpreisen. Einheimische zahlen etwa **0,54 USD pro Gigabyte** – Platz 50 von 237 Märkten, ungefähr ein Fünftel des Datenpreises in Deutschland – und das Festnetz-Internet liegt landesweit bei **276,18 Mbps**, Platz 15 weltweit. Die mobilen Geschwindigkeiten sind gewöhnlicher: Der Ookla-Index vom August 2026 setzt das Land mit 82,57 Mbps auf Platz 56. Für eine Rumänien-eSIM liegt genau dort die interessante Spannung: weltklasse günstige Daten, weltklasse Glasfaser und eine mobile Landschaft, in der **Orange** bei Geschwindigkeit, Verfügbarkeit und Konstanz führt, während **DIGI** – der Discount-Riese, der rumänische Daten berühmt günstig gemacht hat – 5G-Konstanz und Gaming besitzt. Planen Sie ein paar Minuten ein, nicht mehr – genau so lange hat jeder Rumänien-Schritt unten unsere Testnutzer gekostet.
+
+**Schnelle Antwort:** Wählen Sie die lokalen Netze für die größte Reichweite, die lokalen Netze für die niedrigsten Kosten pro Gigabyte und installieren Sie Ihre eSIM in jedem Fall vor der Abreise. Geschwindigkeiten, Preise und Registrierungsregeln weiter unten in diesem Rumänien-Guide erklären das Kleingedruckte hinter dieser Aufteilung.
+
+Dieser Guide arbeitet diese Landschaft für Reisende durch: was jeder Netzbetreiber tatsächlich gut kann, wie die EU-Roaming-Regeln gelten, wo die Netzabdeckungskarte Sie im Stich lässt (die Transfăgărășan und das Donaudelta, meistens) und was Sie vor der Installation bereithalten sollten. Prüfen Sie Ihr Handy anhand unserer [eSIM-Kompatibilitätstabelle](/compatibility/), wenn Sie bereit sind.
+
+**Das Urteil vorab:** Orange ist die Standardwahl – schnellstes mobiles Netz (Median 86,91 Mbps, 156,76 Mbps im 5G), beste 5G-Verfügbarkeit (50,9 %), beste Konstanz (92,6 %) und die beste Reichweite im ländlichen Raum. DIGI ist der Preis-Herausforderer: günstigste Datenkultur in Europa, 5G-Konstanz von 88,1 % und das beste 5G-Gaming-Erlebnis des Landes. Installieren Sie eine [Rumänien-eSIM](/romania-esim/) vor der Abreise und rechnen Sie mit hervorragender Leistung in der Stadt, lückenhaften Bergpässen und Offline-Strecken im Delta – für alle.
+
+## Rumänien-eSIM-Wahl: Städtereise, Roadtrip oder Langzeitaufenthalt
+
+Die in diesem Guide angegebenen Geschwindigkeiten stammen aus [Ookla's Rumänien-Bericht H2 2025](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025).
+
+| Ihre Tarife | Empfohlener Netzbetreiber | Was macht ihn zur Empfehlung |
+|:---|:---|:---|
+| Aufenthalte in den Städten Bukarest, Cluj und Timișoara | Orange | Schnellste Medianwerte, größte 5G-Verfügbarkeit und das stärkste städtische Gesamterlebnis. |
+| Karpatenstraßen: Transfăgărășan, Bucegi | Orange | Die beste Konsistenz (92,6 %) und ländliche Reichweite – der Unterschied zwischen einer live funktionierenden Karte und einer leeren. |
+| Datennutzung mit großem Budget | DIGI | Das Netz hinter Rumäniens bekannt günstigen Daten; 88,1 % 5G-Konsistenz, wo es verfügbar ist. |
+| Mobile Gaming | DIGI | Bestes 5G-Gaming-Erlebnis in Rumänien im H2-2025-Bericht. |
+
+## Rumänien eSIM-Netzbetreibergeschwindigkeiten: Orange, DIGI und die vollständigen Stadtdaten
+
+### Der Mobilfunkmarkt in Rumänien
+
+Orange Rumäniens H2-2025-Zeugnis kommt einem sauberen Gesamtsieg nahe: medianer Download von **86,91 Mbps** insgesamt und **156,76 Mbps** im 5G, Upload von 18,57 Mbps (27,62 im 5G), die höchste 5G-Verfügbarkeit des Landes bei **50,9 %** und die beste Konsistenz mit 92,6 % der Messungen, die 5 Mbps im Download / 1 Mbps im Upload erreichen. Hinzu kommen die beste 5G-Videostreaming-Bewertung (85,99) und das Bild der Regulierungsbehörde ANCOM, dass Orange das größte Frequenzportfolio hält — das Fazit ist einfach: Das schnellste Netz ist zugleich dasjenige, bei dem Sie am ehesten noch Empfang haben, wenn Sie die Stadtgrenzen hinter sich lassen. Iașis 155,1 Mbps Stadtmedian — der schnellste in Rumänien — liegt auf dem östlichen Netz von Orange.
+
+### Welcher rumänische Netzbetreiber führt bei 5G?
+
+DIGI (RCS&RDS) hat seinen Ruf durch den Sturz der rumänischen Mobilfunkpreise aufgebaut, und sein 5G-Netz ist längst kein Witz mehr: ein medianer 5G-Download von **126,22 Mbps**, die landesweit beste 5G-Konsistenz mit **88,1 %** der Messungen über 25 Mbps im Download / 3 Mbps im Upload sowie das beste 5G-Gaming-Erlebnis im H2-2025-Bericht. Sein Gesamtmedian (64,75 Mbps) liegt hinter dem von Orange, und sein Footprint konzentriert sich auf Städte und Vororte — Timișoara ist seine Vorzeigestadt, wo 333,25 Mbps im Festnetz das Tempo vorgeben. Für Reisende ist DIGI die preiswerte Spur: stark, wo er stark ist, und klar zweiter Platz bei der ländlichen Reichweite.
+
+### Vodafone und Telekom in Rumänien, kurz gesagt
+
+Beide bleiben lizenzierte nationale Betreiber und tauchen in Multi-Netz-eSIM-Tarifen als Ausweichspuren auf. Keiner gewann eine Kategorie im H2-2025-Bericht von Ookla, daher behandelt dieser Leitfaden — wie die meisten Reisepläne — den Markt als ein Rennen Orange gegen DIGI mit zwei Statisten.
+
+Der H2-2025-Rumänien-Bericht von Ookla misst die Leistung dort, wo Menschen tatsächlich sind, nicht nur landesweit. Da sich eine Rumänien-eSIM mit dem jeweils stärksten Netz verbindet, ist die praktische Frage, ob Ihre Reiseroute in einem schnellen oder einem langsamen Kreis liegt — und die Spanne ist groß.
+
+### Medianer mobiler Download in Rumänien nach Stadt
+
+| Stadt | Mittlerer Download | Upload | Latenz | Konstanz | Schnellster Netzbetreiber |
+|:---|:---|:---|:---|:---|:---|
+| Iași | 155.13 Mbps | 31.66 Mbps | 42.17 ms | 96.2% | Kein Sieger |
+| Cluj-Napoca | 140,17 Mbps | 27,77 Mbps | 41,59 ms | 95,3 % | Kein Sieger |
+| Ploiești | 129.06 Mbps | 29.2 Mbps | 29.29 ms | 93.1% | Orange |
+| Timișoara | 120,58 Mbps | 23,1 Mbps | 44,65 ms | 94,4 % | Orange |
+| Oradea | 107,24 Mbps | 26,36 Mbps | 44,14 ms | 95,9 % | Orange |
+| Constanța | 102,36 Mbps | 23,57 Mbps | 37,97 ms | 92,5 % | Kein Gewinner |
+| Sibiu | 101.33 Mbps | 18.95 Mbps | 37.73 ms | 92.5% | Orange |
+| Craiova | 94,12 Mbps | 19,14 Mbps | 45,21 ms | 93,3 % | Orange |
+| Brașov | 92.03 Mbps | 16.81 Mbps | 34.61 ms | 92.3% | Orange |
+| Bukarest | 91,89 Mbps | 24,54 Mbps | 31,11 ms | 94,9 % | Orange |
+
+Das überraschende Ergebnis: **Bukarest ist die langsamste der großen Städte Rumäniens** mit einem Median von 91,89 Mbps, während Iași mit 155,13 Mbps an der Spitze liegt. Der Wert der Hauptstadt spiegelt eher Überlastung und eine enorme Gerätevielfalt wider als einen schwächeren Ausbau; die Latenz ist mit 31,11 ms jedoch weiterhin die beste des Landes. Für Besucherinnen und Besucher übertreffen alle zehn Städte die 90-Mbps-Marke – mehr als genug für Karten, Videotelefonate und Uploads.
+
+### Medianer mobiler Download in Rumänien nach Kreis
+
+| Landkreis | Mittlerer Download | Konstanz | Schnellster Anbieter |
+|:---|:---|:---|:---|
+| Kreis Iași | 113,53 Mbps | 92,6 % | Kein Gewinner |
+| Kreis Cluj | 103,43 Mbps | 92,6 % | Kein Sieger |
+| Bukarest | 91,89 Mbps | 94,9 % | Orange |
+| Timiș | 87,93 Mbps | 90,8 % | Orange |
+| Kreis Bihor | 74,24 Mbps | 91,7 % | Orange |
+| Kreis Mehedinți | 74,24 Mbps | 91,3 % | Orange |
+| Constanța | 72,21 Mbps | 89,4 % | Kein Gewinner |
+| Dolj County | 71,17 Mbps | 90,4 % | Orange |
+| Sibiu | 70,62 Mbps | 89,1 % | Orange |
+| Brașov | 69,55 Mbps | 88,7 % | Orange |
+| Prahova | 59.22 Mbps | 87,4 % | Kein Gewinner |
+| Mureș | 57,22 Mbps | 88 % | Orange |
+| Tulcea | 55,75 Mbps | 89,3 % | Orange |
+| Maramureș | 53,59 Mbps | 89,8 % | Orange |
+| Kreis Suceava | 44,56 Mbps | 86,3 % | Kein Gewinner |
+| Kreis Caraș-Severin | 46,47 Mbps | 85,3 % | Kein Gewinner |
+| Kreis Harghita | 38,23 Mbps | 85,1 % | Kein Gewinner |
+| Kreis Covasna | 38,44 Mbps | 89 % | Kein Gewinner |
+| Kreis Giurgiu | 33,96 Mbps | 79,3 % | Kein Gewinner |
+
+Orange war in 14 der Regionen Rumäniens der schnellste Anbieter; kein einzelner Netzbetreiber gewinnt überall, und die Konstanz — der Anteil der Messungen, die 5 Mbps im Download / 1 Mbps im Upload erreichen — bleibt selbst im schwächsten Kreis über 79 %. Die Touristengürtel Siebenbürgens (Brașov, Sibiu, Cluj) liegen im Bereich von 70–103 Mbps; die Karpaten-Kreise Richtung Harghita und Covasna bilden das langsame Ende, mit etwa einem Drittel des Medianwerts von Iași.
+
+## EU-Roaming-Regeln im Licht einer Rumänien-eSIM
+
+Die EU-Mitgliedschaft wirkt in Rumänien in beide Richtungen. Positiv ist, dass eine SIM oder eSIM aus einem anderen Mitgliedstaat hier zu Inlandspreisen gemäß „Roam like at Home“ funktioniert — die [Roaming-Seite](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) der Europäischen Kommission erläutert die Rechte und die Fair-Use-Datenlimits. Zweitens ist sie als Warnung wichtig: Rumäniens bekannt günstiges lokales Datenvolumen reist nicht mit — das Roaming-Kontingent eines EU-Tarifs ist durch Fair-Use-Formeln gedeckelt, sodass Vielnutzer, die mit EU-Profilen anreisen, dennoch an Grenzen stoßen.
+
+Für Besucher ohne EU-Tarif ist ein Reise-Profil die vorhersehbare Lösung: vor der Abreise installiert, bei der Landung mit Orange oder DIGI verknüpft, wobei die Heim-SIM für die Verifizierung im Gerät bleibt. Datenonly-Profile enthalten keine rumänische Rufnummer — für Touristen kein Problem, da Fahrdienste, Reservierungen und Messenger-Dienste alle über Datennutzung mit der bestehenden Nummer funktionieren. Die Identitätsregistrierung gilt für lokal gekaufte SIMs (Reisepass im Netzbetreiber-Shop), also genau den persönlichen Schritt, den die eSIM-Variante umgeht.
+
+💡 Bukarest, Budapest und Sofia in einer Reise? Ein One-Regionalprofil schlägt drei einzelne Tarife; unser [Ungarn-eSIM-Guide](/carriers/hungary-esim-carrier-guide/) und die [Bulgarien-Reise-eSIM-Seite](/bulgaria-esim/) decken die Nachbarn ab.
+
+## Die eSIM über die Grenze mitnehmen
+
+Die rumänischen Tarife, von Datenonly-Bundles bis zu unlimitiert, sind auf der [Rumänien-eSIM-Seite](/romania-esim/) katalogisiert. Die öffentlichen Daten zeichnen das Bild der lokalen Realität:
+
+| Messung | Rumänien | Globaler Median |
+|:---|:---|:---|
+| Mittlere mobile Download-Geschwindigkeit | 82,57 Mbit/s (56. weltweit, August 2026) | 109,05 Mbit/s |
+| Mittlere mobile Latenz | 21 ms | 24 ms |
+| Mittlerer fixer Download | 276,18 Mbps (15. weltweit) | 129,68 Mbps |
+| Durchschnittliche Kosten für 1 GB | USD 0,54 (50. von 237) | USD 2,59 |
+
+Die Lücke zwischen den Spalten für Mobilfunk und Festnetz erzählt die Geschichte Rumäniens in einer Tabelle: Glasfaser ist Weltklasse, Mobilfunk liegt im Mittelfeld, und Daten sind nach jedem Standard günstig. DataReportal zählte zu Beginn des Jahres 2025 17,8 Millionen rumänische Internetnutzer (94,0 %) und 25,3 Millionen Mobilfunkverbindungen (133 %). Für einen Besucher ist die praktische Erkenntnis, dass Hotel- und Apartment-WLAN in den Städten oft ausgezeichnet ist – die eSIM spielt ihre Stärke unterwegs aus, also genau dort, wo der Konsistenzvorteil von Orange zählt.
+
+## eSIM-Netzabdeckung in Rumänien: Bukarest, Transsilvanien und die Küste
+
+| Reiseziel | Bester Netzbetreiber | Warum es funktioniert |
+|:---|:---|:---|
+| Bukarest | Orange | Die tiefste 5G-Verfügbarkeit im Land und die besten Gesamtmittelwerte; in der Innenstadt ist zur Stoßzeit mit Überlastung zu rechnen. |
+| Iași | Orange | Die schnellste städtische Medianverbindung in Rumänien (155,1 Mbps) — die östliche Hochburg von Orange. |
+| Timișoara | DIGI, Orange | die Vorzeigestadt von DIGI, mit dem schnellsten Festnetz-Breitband (333,25 Mbps); Orange hat die Nase vorn im Mobilfunk. |
+| Cluj-Napoca | Orange | Das Technologiezentrum profitiert von der niedrigen 5G-Latenz von Orange (39 ms) und den starken Upload-Geschwindigkeiten – ideal für Remote-Arbeit. |
+| Brașov & die Karpaten | Orange | In den Tälern und rund um die Resorts ist die Verbindung konstant gut; auf den hohen Pässen gibt es jedoch bei jedem Netzbetreiber Lücken in der Netzabdeckung. |
+| Donaudelta | Orange | In den Ortschaften und entlang der Hauptkanäle gibt es Empfang; je weiter man ins Innere vordringt, desto häufiger ist man offline. |
+
+## Installation einer Rumänien-eSIM: die Einrichtungsreihenfolge
+
+Es gibt keinen Schalter und keine Theke: online bezahlen, das Profil per E-Mail erhalten, es in den Einstellungen hinzufügen und Roaming auf der eSIM-Leitung erlauben. Das Ganze ist eine Fünf-Minuten-Aufgabe im heimischen WLAN, und wer es frühzeitig erledigt, muss am Flughafen Henri Coandă nach einem langen Flug nicht nach einer SIM-Karte suchen. Sie können die [Aktivierungs-Anleitung](/faq/how-to-activate-an-esim/) für beide Plattformen nutzen, und die [Fehlerliste](/faq/esim-activation-errors-troubleshooting-guide/) behandelt, was zu tun ist, wenn es nicht funktioniert.
+
+Zwei Rumänien-spezifische Hinweise für Roadtripper. Erstens überqueren die Transfăgărășan und Transalpina echte Netzabdeckungslücken – wirklich spektakuläre –, also laden Sie Offline-Karten und Unterkunftsdetails in Sibiu oder Brașov vor der Auffahrt herunter, nicht erst am Gipfel. Zweitens: Falls Ihr Telefon in den Bergen bei einem schwachen Netzbetreiber einbucht, wählen Sie Orange manuell aus der Netzliste aus; die automatische Auswahl wählt im Gelände nicht immer das stärkste verfügbare Netz. Die Ankunft in der Stadt ist einfacher: Der Flughafen Bukarest Otopeni verfügt über solide Netzabdeckung von allen Netzen, und das Profil verbindet sich sofort nach der Landung, sofern Roaming vor der Abreise aktiviert wurde.
+
+### Rumänien-eSIM: die fünf Prüfungen, die sich zu Hause lohnen
+
+| # | Prüfen | Bestanden-Status |
+|:---|:---|:---|
+| 1 | Gerät entsperrt | „Keine SIM-Einschränkungen" |
+| 2 | eSIM-Hardware vorhanden | EID sichtbar unter `*#06#` |
+| 3 | QR-Code zweimal gespeichert | Screenshot auf dem Telefon und in einem Cloud-Speicher |
+| 4 | Profil vor der Abreise installieren | Über das heimische WLAN installieren, nicht über das Flughafen-WLAN |
+| 5 | Datenleitung und Roaming eingerichtet | eSIM überträgt Daten, Datenroaming aktiviert |
+
+### Wer betreibt die Netze in Rumänien?
+
+**A. Installiert, aber keine Balken in Bukarest.** Wählen Sie das Netz manuell aus – Orange, Vodafone oder DIGI – unter Einstellungen → Mobilfunk → Netzauswahl. Rumänische Netze lehnen die erste automatische Einbuchung eines ausländischen Profils manchmal ab, und eine manuelle Auswahl umgeht die Wartezeit.
+
+**B. Signal, aber keine Daten.** In neun von zehn Fällen liegt es an der oben genannten APN-Zeile oder daran, dass die Datenleitung noch auf die Heim-SIM verweist. Überprüfen Sie beides, bevor Sie etwas zurücksetzen.
+
+**C. Daten funktionieren in der Stadt, sterben in den Karpaten.** Erwartetes Verhalten in den dünner besiedelten Kreisen (Harghita, Covasna, Giurgiu). Wechseln Sie manuell zum stärksten verfügbaren Netz und wechseln Sie nur dann auf 3G/2G, wenn das Gerät unbedingt an einer schwachen 5G-Zelle festhalten will.
+
+**D. Grenzüberschreitender Ausfall in Bulgarien oder Ungarn.** Ein reines Rumänien-Profil endet an der Grenze. Wenn Ihre Route weiter zur Schwarzmeerküste oder durch den Balkan führt, prüfen Sie die [Bulgarien eSIM-Seite](/bulgaria-esim/) oder ein regionales Europa-Profil, bevor Sie aufbrechen.
+
+## Rumänische Züge, Busse und die Straße zum Donaudelta
+
+Reisen in Rumänien teilen sich in zwei Konnektivitätsregime, und wer beide einplant, macht eine Rumänien-eSIM erst richtig nützlich.
+
+**Das Schienen- und Busnetz.** Die Strecke Bukarest–Brașov, die westlichen Routen nach Timișoara und Cluj sowie das Überlandbusnetz bieten auf Orange auf den meisten Abschnitten brauchbare Netzabdeckung – lang genug zum Streamen in der Ebene, mit den erwarteten Aussetzern, wo die Strecke in die Karpaten steigt. Tickets für den Bahnbetreiber und die Fernbusplattformen werden in Apps gekauft und per QR validiert, womit Live-Daten Teil des Einsteigevorgangs sind.
+
+**Das Delta und die Nebenstraßen.** Alles östlich von Tulcea verhält sich anders: Signal folgt den Hauptkanälen und den Ortschaften, Gästehäuser haben WLAN, das an der Grundstücksgrenze endet, und Bootstransfers ins Schilf sind naturgemäß offline. Das richtige Muster ist dasselbe, das auch die Salzflächen in Bolivien lehren – in der letzten Stadt buchen und herunterladen, das Boot wie Flugmodus behandeln und die Konstanz von Orange die Fahrt nach Tulcea meistern lassen.
+
+**Bargeld, Karten und Konnektivität.** Rumänische Städte sind kartentauglich, doch ländliche Tankstellen, Marktstände und Gästehäuser im Delta setzen weiter auf Bargeld – laden Sie Karten herunter und führen Sie Lei mit sich, dann bleibt die Aufgabe der eSIM einfach: Navigation, Messaging und gelegentliche Videoanrufe aus einem Bergtal.
+
+## Welche Netze verkaufen an Besucher
+
+Lokal zu kaufen ist in Rumänien wirklich günstig, und jeder Netzbetreiber bietet inzwischen einen Prepaid-Weg, den ein Tourist mit dem Reisepass abschließen kann. Die unten genannten Preise sind die veröffentlichten Prepaid-Stufen von 2026 und werden in Lei (RON) angegeben; 1 € liegt bei rund 5 RON, also entsprechen 20 RON etwa 4 €.
+
+### Wessen Signal hält im ländlichen Rumänien stand?
+
+Orange verfügt über die breiteste 4G-Abdeckung und die beste ländliche Reichweite, weshalb es die Standardempfehlung ist, sobald Ihre Reise Bukarest verlässt.
+
+| Tarif | Datenvolumen | Laufzeit | Preis |
+|:---|:---|:---|:---|
+| Prepaid 5 GB | 5 GB | 30 Tage | 20 RON |
+| Prepaid 15 GB | 15 GB | 30 Tage | 40 RON |
+| Prepaid 30 GB | 30 GB | 30 Tage | 55 RON |
+| Prepaid Unlimited | Unbegrenzt | 30 Tage | 79 RON |
+
+Orange betreibt im Ankunftsbereich des Henri Coandă (Otopeni) personalbesetzte Kioske – das ist die schnellste Route vom Flughafen zur Verbindung in diesem Land. Bringen Sie Ihren Reisepass mit: Die Registrierung wird direkt vor Ort durchgeführt.
+
+### Die günstigsten Tarife in Rumänien
+
+Die Prepaid-Stufen von Vodafone liegen nur wenige Lei unter denen von Orange – 18 RON für 5 GB, 38 RON für 15 GB, 52 RON für 30 GB und 72 RON für unbegrenzt. Historisch gesehen lag der Anbieter an der Schwarzmeerküste leicht vorn; in Transsilvanien und in den Städten sind die beiden austauschbar. Der APN unterscheidet sich von dem von Orange, was allerdings nur relevant ist, wenn Ihr Telefon die Einstellungen nicht automatisch übernimmt.
+
+### Was kostet mobiles Internet in Rumänien?
+
+DIGI (RCS & RDS) bot jahrelang ausschließlich Postpaid-Tarife an, übernahm dann im November 2025 die Prepaid-Kundenbasis von Telekom Romania Mobile und migrierte sie bis März 2026 – daher ist DIGI Prepaid mittlerweile überall erhältlich und nicht nur in einigen wenigen Filialen.
+
+| Tarif | Datenvolumen | Laufzeit | Preis |
+|:---|:---|:---|:---|
+| Prepaid 10 GB | 10 GB | 30 Tage | 15 RON |
+| Prepaid 30 GB | 30 GB | 30 Tage | 22 RON |
+| Prepaid 50 GB | 50 GB | 30 Tage | 28 RON |
+| Prepaid Unlimited | Unbegrenzt | 30 Tage | 35 RON |
+
+Bei 22 RON für 30 GB ist DIGI ungefähr ein Drittel so teuer wie Orange für dasselbe Volumen. Der Kompromiss sind Unterschiede in der Netzabdeckung im einstelligen Prozentbereich in ländlichen Gebieten und weniger Filialen außerhalb der Großstädte.
+
+### Ist mobiles Internet in Rumänien teuer?
+
+| Schritt | Was passiert | Zeit |
+|:---|:---|:---|
+| Find a store | Orange und DIGI haben Kioske am Flughafen; alle drei sind in jedem Einkaufszentrum vertreten | 5–20 Min. |
+| Registrierung | Reisepass übergeben, Daten zur Leitung erfasst | 5–10 Min. |
+| Aktivierung und Konfiguration | Personal nimmt die Aktivierung sofort vor; APN prüfen, falls keine Datenübertragung erfolgt | 5 Min. |
+| Später aufladen | Aufladegutscheine aus Supermärkten oder über die Netzbetreiber-App | — |
+
+Das sind 15–35 Minuten Ihres ersten Morgens. Eine Reise-eSIM tauscht die Warteschlange gegen einen höheren Preis pro Gigabyte und eine fehlende lokale Nummer ein – die Rechnung, die die meisten Besucher zugunsten der eSIM aufstellen, sobald sie sehen, dass 30 GB lokales Datenvolumen weniger kostet als ein Kaffee.
+
+## Ist Ihr Telefon eSIM-kompatibel?
+
+### Welche Frequenzen rumänische Netzbetreiber nutzen
+
+| Technologie | Genutzte Frequenzbänder | Was das für Ihr Handy bedeutet |
+|:---|:---|:---|
+| 4G LTE | 800 MHz (B20), 1800 MHz (B3), 2600 MHz (B7) | B20 sorgt für Reichweite im ländlichen Raum; B7 liefert Geschwindigkeit in der Stadt. Die meisten weltweit erhältlichen Smartphones unterstützen alle drei Bänder. |
+| 5G | 3,5 GHz (n78) | Das Arbeitsband für das rumänische 5G. Flaggschiffe ab 2020 unterstützen es in der Regel. |
+| Fallback | 2G/3G-Legacy-Bänder | Wird für Sprach-Fallback und die dünnsten ländlichen Gebiete verwendet. |
+
+Auch ein Telefon ohne n78 funktioniert gut: Es bleibt im LTE-Netz, und die rumänischen LTE-Mittelwerte (86,91 Mbps auf Orange landesweit) übertreffen die 5G-Werte der meisten Länder.
+
+### Wo Besucher rumänische eSIMs kaufen
+
+1. **Netzbetreiber-Lock.** Auf dem iPhone finden Sie unter Einstellungen → Allgemein → Info den Eintrag „Netzbetreiber-Lock", der „Keine SIM-Beschränkungen" anzeigen muss. In der EU verkaufte Telefone sind nur dann gesperrt, wenn sie mit einem subventionierten Vertrag erworben wurden.
+2. **eSIM-Unterstützung.** `*#06#` zeigt eine EID auf einem kompatiblen Gerät an; unser [Kompatibilitätscheck](/compatibility/) bestätigt das Modell.
+3. **Dual SIM-Verhalten.** Legen Sie die eSIM als Mobilfunk-Datenleitung fest und verwenden Sie die Heim-SIM weiterhin für Anrufe und SMS-Codes.
+4. **iPhones für den chinesischen Markt.** In Festlandchina verkaufte Modelle deaktivieren die eSIM-Hardware vollständig; verwenden Sie in Rumänien eine physische SIM oder ein anderes Gerät.
+
+## APN manuell hinzufügen
+
+Sie benötigen diese Angaben nur, wenn Sie eine **rumänische SIM oder eine Netzbetreiber-eSIM direkt gekauft** haben oder wenn Ihr Telefon die Einstellungen nicht automatisch empfangen hat. Eine Reise-eSIM liefert ihren eigenen APN mit und benötigt keine Änderungen.
+
+| Netzbetreiber | APN | Benutzername | Passwort |
+|:---|:---|:---|:---|
+| Orange Rumänien | `internet` | leer | leer |
+| Vodafone Rumänien | `live.vodafone.com` | leer | leer |
+| DIGI | `internet` | leer | leer |
+
+**Wo Sie es eingeben:** Der iPhone-Pfad führt über Einstellungen → Mobilfunk → die Leitung → Mobiles Datennetzwerk. Der Android-Pfad führt über Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunkte, wo Sie einen neuen Eintrag hinzufügen. Speichern Sie, starten Sie neu und stellen Sie sicher, dass die eSIM Daten überträgt, bevor Sie etwas anderes diagnostizieren.
+
+## Welcher rumänische Netzbetreiber zu Ihrem Reiseplan passt
+
+Rumänische Prepaid-Tarife sind günstig genug, dass ein Zuviel kaum ins Gewicht fällt, aber eine Reise-eSIM preist Daten näher an der europäischen Norm an – passen Sie das Datenvolumen also besser an den Reiseplan an, statt standardmäßig die größte Stufe zu wählen.
+
+| Reise | Typische Dauer | Komfortables Datenvolumen | Warum |
+|:---|:---|:---|:---|
+| Städtetrip nach Bukarest | 3–4 Tage | 3–5 GB | WLAN im Hotel und in Cafés deckt die Abende ab; Karten, Bolt-Fahrten und Messaging sind die einzigen ständigen Datennutzungen. |
+| Bukarest + Siebenbürgen mit dem Zug | 7 Tage | 5–8 GB | Das Bord-WLAN in CFR-Zügen ist lückenhaft, sodass Bahnhofsrecherchen und Fahrpläne über mobile Daten laufen. |
+| Karpaten-Roadtrip | 7–10 Tage | 10–15 GB | Navigation, Offline-Kartendownloads, Musik- und Foto-Uploads unterwegs; Täler schlucken Signal und Daten. |
+| Donau-Delta | 4–5 Tage | 4–6 GB | Virfer sind abgedeckt; die Kanäle dazwischen nicht. Laden Sie die Karten in Tulcea vor der Bootsfahrt herunter. |
+| Schwarzmeerküste, Juli–August | 7 Tage | 8–12 GB | In der Hochsaison verlangsamt sich das WLAN am Strand, daher wird mehr Datenverkehr über das mobile Netz abgewickelt; Uploads von der Küste summieren sich. |
+| Remote-Work-Monat | 30 Tage | 25 GB+, oder lokales DIGI-Prepaid | Eine DIGI-Prepaidkarte mit 30 GB für 22 RON unterbietet jede Reise-eSIM bei einem Monat. |
+
+## Die beiden Strecken, auf denen die rumänische Netzabdeckung wirklich nachlässt
+
+**Das Donaudelta.** Tulcea, Sulina, Sfântu Gheorghe und Murighiol verfügen alle über eine brauchbare Netzabdeckung, und der Kreis Tulcea erreicht einen Median von 55,75 Mbps – für eine Feuchtgebietsregion respektabel. Die Lücke zeigt sich auf dem Wasser: Die Kanäle zwischen den Dörfern verlieren über weite Strecken das Signal, in jedem Netz. Laden Sie in Tulcea eine Offline-Karte des Deltas herunter und behandeln Sie die Bootsüberfahrten als Offline-Zeit.
+
+**Hohe Karpatenpässe.** Transfăgărășan und Transalpina halten den Empfang über den größten Teil ihrer Länge, wobei die Ausfälle sich in schmalen, bewaldeten Tälern konzentrieren. Oberhalb von etwa 1.800 m sollten Sie das Handy für Notrufe als unzuverlässig betrachten und bei ernsthaften Wanderungen eine Papierkarte mitführen. Die schneebedingt gesperrten Abschnitte im Winter stellen die Frage ohnehin nicht mehr.
+
+### Ist mobile Datenübertragung in Rumänien günstiger als im Rest der EU?
+
+Yes, mit großem Abstand. Cable.co.uk berechnet ein Gigabyte rumänischer mobiler Daten auf etwa **0,54 USD**, den 50. von 237 untersuchten Märkten, gegenüber einem weltweiten Durchschnitt von 2,59 USD – und DIGIs Prepaid-Tarife unterbieten sogar das noch. Der Haken ist eher verfahrenstechnisch als finanziell: Eine lokale SIM-Karte bedeutet Registrierung und einen Ladenbesuch, und genau dort schlägt der Aufpreis für Reise-eSIMs zu Buche.
+
+### Nach Reiseart: Welche Rumänien-eSIM?
+
+Orange, dank seiner Konstanz in den Städten des Deltas und entlang der Hauptkanäle. In Tulcea, Sulina und den größeren Dörfern ist Empfang vorhanden, während er auf den kleineren Wasserwegen nachlässt, wo kein Netzbetreiber hinkommt. Laden Sie Offline-Karten für die Kanäle herunter, bevor Sie an Bord gehen, denn das Boot wird kein WLAN haben.
+
+### Funktioniert eine Rumänien-eSIM in Moldawien oder Serbien?
+
+Nur mit einem regionalen Tarif – ein rein rumänisches Profil endet an der Grenze, und keiner der Nachbarn ist auf die gleiche Weise in den EU-Roaming-Rahmen eingebunden. Wenn Ihre Reise weiter nach Osten oder Südwesten geht, kaufen Sie lieber ein Mehrländer-Profil, anstatt sich auf die EU-Roaming-Regeln zu verlassen.
+
+## Kurzer FAQ für Käufer von Rumänien-eSIMs
+
+### Funktioniert eine Rumänien-eSIM in Bulgarien, Ungarn oder der Ukraine?
+
+Nur innerhalb der Grenzen Rumäniens. Grenzgänger sollten entweder pro Etappe ein eigenes Profil mitführen (unser [Ukraine-eSIM-Leitfaden](/carriers/ukraine-esim-carrier-guide/) behandelt den östlichen Nachbarn) oder einen regionalen Tarif nutzen. Die EU-Roaming-Rechte gelten nur für Profile, die innerhalb des EU-Blocks ausgestellt wurden, nicht allgemein für Reise-eSIMs.
+
+### Was ist besser in Rumänien: Orange oder DIGI?
+
+Orange gewinnt bei Geschwindigkeit, Verfügbarkeit, Konstanz und ländlicher Reichweite; DIGI gewinnt beim Preis-Leistungs-Verhältnis, bei der 5G-Konstanz in den eigenen Städten und beim Gaming. Für einen Reisenden in Bewegung ist Orange die sicherere Standardwahl – sobald Ihre Route die Stadtzentren verlässt, ist dessen Netz dasjenige, das noch steht.
+
+### Wo 5G in Rumänien funktioniert
+
+Nein. Orange liegt mit 50,9 % 5G-Verfügbarkeit vorn, konzentriert auf die Großstädte; DIGIs 5G ist in seinen urbanen Hochburgen stark. Das ländliche Rumänien – einschließlich der Karpaten-Resorts – läuft über 4G, das bei Orange mit 92,6 % Konstanz absolut verlässlich ist.
+
+### Welche Handys können keine rumänischen eSIMs nutzen?
+
+Praktisch jedes moderne entsperrte Handy: Rumäniens LTE-Schichten bei 800/1800/2600 MHz und seine 5G-Schichten auf n78 und n1 sind bei gängigen Modellen Standard. One-pass in der [eSIM-Kompatibilitätsliste](/compatibility/) zeigt Ihnen, ob Ihres qualifiziert ist.
+
+### Wann beginnt die Gültigkeit meiner Rumänien-eSIM?
+
+Bei den meisten Reise-eSIM-Tarifen startet die Uhr bei der ersten Netzverbindung in Rumänien – installieren Sie sie zu Hause, und die Gültigkeit wartet, bis Sie landen. One-Zeit im Voraus kaufen, keine automatische Verlängerung. Die Tarifseite nennt das genaue Gültigkeitsfenster pro Stufe.
+
+### Rumänien im direkten Vergleich: lokale SIM vs. Reise-eSIM
+
+Städtereisen: 5–10 GB decken Karten, Fahrdienste, Streaming und Videoanrufe bequem ab, zumal gutes Apartment-WLAN die Abende auffängt. Eine Karpaten-Roadtrip-Woche verdient ihr Datenvolumen doppelt – Navigation, Musik und Foto-Uploads von unterwegs – also nehmen Sie das Doppelte mit, wenn die Route länger als einen Tag Bukarest verlässt, und beschränken Sie die Hotspot-Nutzung auf die Abende – ländliche Masten drosseln geteilte Lasten früher als die städtischen Mediane vermuten lassen. Eine im Laden aktivierte Prepaid-SIM-Karte von Orange oder DIGI bleibt der lokale Preis-Maßstab; ein Reise-Datentarif mit Aufladung mitten auf der Reise kostet etwas von diesem Preisvorteil, erspart aber das Schlangestehen.
+
+### Passen Sie einen rumänischen Netzbetreiber zu Ihrer Reise an
+
+Yes, bequem. Der Kreis Cluj verzeichnet 103,43 Mbps Median-Download und Brașov 69,55 Mbps, beide mit einer Konstanz über 88 %. Die Lücken liegen eher auf den Bergpässen als in den Städten: Der Empfang lässt in den höheren Karpatentälern nach, also laden Sie Offline-Karten vor einem Transfăgărășan- oder Transalpina-Tag herunter.
+
+### Ist Digi in Rumänien wirklich günstiger als Orange?
+
+Beim Datenvolumen ja – 30 GB kosten bei DIGI 22 RON gegenüber 55 RON im Prepaid-Tarif von Orange. Was Sie für die Differenz bekommen, ist Abdeckungstiefe: Orange führte in 14 Regionen des H2-2025-Berichts bei der Geschwindigkeit und hat den besseren Zugriff auf verstreute ländliche Siedlungen. In Bukarest, Cluj und Sibiu sind die beiden so nah beieinander, dass der Preis entscheidet.
+
+### Preisliste: Rumänien-eSIM-Tarife
+
+Orange und DIGI betreiben beide Kioske in der Ankunftshalle, also ja – mit dem üblichen Flughafenaufschlag und Warteschlangen nach großen Ankünften. Wenn Ihr Flug spät landet, sind die Kioske möglicherweise schon geschlossen; eine vor der Abreise installierte eSIM eliminiert dieses Risiko vollständig.
+
+### Manuelle APN-Werte für Rumänien
+
+`internet`, mit leer gelassenem Benutzernamen und Passwort. Vodafone Rumänien verwendet `live.vodafone.com` und DIGI verwendet `internet`. Eine Reise-eSIM konfiguriert sich selbst und sollte nicht angefasst werden.
+
+### Welche Dokumente gelten für eine rumänische SIM?
+
+Yes. Das rumänische Recht verlangt, dass Prepaid-Anschlüsse auf eine verifizierte Identität registriert werden, daher erfasst der Netzbetreiber Ihre Passdaten beim Verkauf. Die gleiche Regel gilt für eine eSIM eines lokalen Anbieters – was einer der stillen Vorteile einer im Ausland ausgestellten Reise-eSIM ist.
+
+### Wie viel kosten 30 GB rumänische Daten?
+
+Bei DIGI 22 RON – etwa 4,40 €. Orange berechnet 55 RON für das gleiche Volumen und Vodafone 52 RON. Zum Vergleich: Die Cable.co.uk-Erhebung aus dem Vereinigten Königreich bewertet rumänische mobile Daten mit rund 0,31 USD pro Gigabyte, was zu den günstigsten in Europa gehört.
+
+### Wie viel Daten für eine Rumänien-Reise?
+
+Lückenhaft und erwartungsgemäß. Orange und Vodafone halten die meisten Talabschnitte und die Tunnelzufahrten, DIGI ist in der Höhe dünner, und die hohen Pässe fallen für Strecken, die lang genug sind, um relevant zu sein, komplett aus. Laden Sie die Route in Sibiu oder Curtea de Argeș herunter und behandeln Sie die Fahrt selbst als Offline-Zeit, anstatt auf die Rückkehr der Balken zu warten.
+
+### Lohnt sich Orange in Rumänien der Aufpreis gegenüber DIGI?
+
+Im ländlichen Siebenbürgen und im Maramureș ja – Orange holte sich den Titel des schnellsten Anbieters in 14 Regionen des H2-2025-Berichts von Ookla. In Bukarest, Cluj-Napoca und Timișoara liegen die beiden nur wenige Megabit auseinander, und DIGIs Prepaid-Daten kosten rund ein Drittel weniger.
+
+### Funktioniert meine Rumänien-eSIM in der Bukarester U-Bahn?
+
+Yes. Die Mobilfunkabdeckung erstreckt sich über das U-Bahn-Netz und die Stationen in Bukarest, wobei sich die Tunnel zwischen den Stationen wie Tunnel überall verhalten – rechnen Sie mit kurzen Aussetzern an den Bahnsteigkanten, nicht mit einem kompletten Ausfall.
+
+### Wann ist der richtige Moment, um das Rumänien-Profil zu aktivieren?
+
+Zu Hause, im eigenen WLAN, ein bis zwei Tage vor der Abreise – und lassen Sie es dann inaktiv, bis Sie Bukarest erreichen. Es wacht bei der erstmaligen Registrierung in einem rumänischen Netz auf, daher kostet eine frühe Installation nichts, ein Installieren am Henri Coandă nach einem langen Flug hingegen sehr wohl.
+
+### Wird meine Heimatnummer in Rumänien weiter SMS empfangen?
+
+Yes, und angesichts der Tatsache, dass viele Dienste heute von einem Code an eine vertraute Nummer abhängen, lohnt es sich, sie zu behalten. Führen Sie Anrufe und Einmal-Passwörter über die physische SIM, Daten über die eSIM, und prüfen Sie vor der Abreise, dass Roaming-Telefonie in Ihrem Heimattarif zu einem für Sie akzeptablen Preis enthalten ist.
+
+### Rumäniens Daten sind die günstigsten in der EU – warum dann nicht einfach Prepaid kaufen?
+
+Lokales Prepaid ist die günstigste Datenoption in der Europäischen Union, also geht es bei der Frage ausschließlich um Zeit, nicht um den Preis. Eine rumänische Prepaid-Leitung bedeutet einen Laden, einen Reisepass und eine Identitätsregistrierung und bindet Sie für die gesamte Reise an Orange, DIGI oder Vodafone. Das Reise-Profil kostet pro Gigabyte mehr und erreicht alle diese Netze, weshalb eine [Rumänien-eSIM](/romania-esim/) für alles unter einem Monat die bessere Antwort ist.
+
+### Ist Aufladen im Donaudelta möglich?
+
+Möglich, aber erledigen Sie es, bevor Sie losfahren. Die Aufladung selbst dauert ein paar Minuten in der App des Anbieters, das Problem ist, eine Verbindung dafür zu finden – das Delta ist genau die Art von Ort, an der das Datenvolumen still Tage vorher aufbraucht, bevor Sie es bemerken. Der andere Abschnitt, den Sie einplanen sollten, sind die Karpatenpässe, wo die Netzabdeckung in jedem Netz nachlässt.
+
+## Quellen für die Rumänien-eSIM und wie man sie liest
+
+- **Netzwerk- und Kreis-Leistung** — aus dem [H2-2025-Rumänien-Bericht von Ookla](https://www.ookla.com/research/reports/romania-speedtest-connectivity-report-h2-2025), der die Metriken von Orange, DIGI und Vodafone, die zehn Stadt-Mediane und die Kreistabelle liefert.
+- **Wo Rumänien gerade steht** — [Rumänien im monatlichen Global Index von Ookla](https://www.speedtest.net/global-index/romania).
+- **Die Roaming-Regeln** — formell dargelegt auf den [Roaming-Seiten „Your Europe“ der Europäischen Kommission](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm).
+- **Der Vergleich von 0,54 USD pro Gigabyte** — [die weltweite Erhebung von Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/).
+- **Marktgröße** — [DataReportal, Digital 2025: Rumänien](https://datareportal.com/reports/digital-2025-romania).
+- **Prepaid-Tarife im Verkauf** — die Websites der Betreiber selbst: [Orange Rumänien](https://www.orange.ro/), [Vodafone Rumänien](https://www.vodafone.ro/) und [DIGI](https://www.digi.ro/), wo die oben genannten Tarife mit ihren Gültigkeitsfenstern aufgeführt sind. DIGI hat im November 2025 die Prepaid-Basis von Telekom Romania Mobile übernommen, weshalb diese Tarife jetzt landesweit verkauft werden. Wo Quellen bei Rumänien uneinig sind, veröffentlichen wir die Lücke, nicht die schmeichelhaftere Zahl.
+
+Jede Zahl ist eine datierte externe Messung: zuverlässig für den Vergleich von Märkten, nutzlos, um einen einzelnen Karpatenpass einzuschätzen.
+
+## Wählen Sie ein rumänisches Profil und reisen Sie leicht
+
+Lokales Prepaid ist der günstigste Weg, kostet Sie aber einen Ladenbesuch; ein Reise-Profil tauscht einen Teil dieser Ersparnis gegen die Einrichtung vor der Haustür.
+
+- [Vergleichen Sie Rumänien-eSIM-Tarife](/romania-esim/) – nur Daten oder unbegrenzt
+- [Starten Sie mit der kostenlosen Rumänien-eSIM](/free-esim/) – keine Gebühr
+
+[Wählen Sie einen Rumänien-Tarif](/romania-esim/)
+
+*Auf WLAN gekauft, aktiv in dem Moment, in dem Sie landen*
+
+Wenn Sie lieber erst testen möchten, bevor Sie sich festlegen, läuft Roamis [Test-eSIM](/free-esim/) in denselben Netzen, die dieser Leitfaden vergleicht – einschließlich der lokalen Netze. Neue Roami-Kunden können außerdem **WEB20** für 20 % Rabatt auf einen kostenpflichtigen Rumänien-Tarif nutzen.

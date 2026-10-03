@@ -1,274 +1,705 @@
 ---
-title: "去香港出差上網方案怎麼選？eSIM 比較完整指南。"
-description: "想在香港保持順暢連線？Roami 實際評測 中國移動香港、csl 和 SmarTone 的 5G 網路品質，帶您選出最適合的香港 eSIM。"
-date: "2026-06-17T06:15:09+00:00"
 
-keywords: "eSIM 香港，預付數據，5G 網路，中國移動香港，Netvigator，數位遊牧民族，旅遊上網"
-site_name: "Roami"
-brand_name: "Roami"
+title: "香港 eSIM 該選哪家電信業者？CMHK、csl、SmarTone 比較"
+
+description: "香港 eSIM 要辦哪一家電信業者？Roami 比較 CMHK、csl 與 SmarTone 的 5G 網速、覆蓋率與旅客適用方案，從尖沙咀到離島逐段檢視，整理預付資費、申辦方式與 APN 設定，幫你香港落地即上網，逛街搭車都順暢，免換卡麻煩。"
+
+image: "img/esim/carriers/hong-kong-esim-carrier-guide.jpg"
+
+date: "2026-09-26T21:28:17+00:00"
+
+keywords: eSIM Hong Kong, China, prepaid data, 5G network, China Mobile Hong Kong, Netvigator, travel internet, Hong Kong eSIM carriers, Hong Kong eSIM operators
+
+site_name: Roami
+
+brand_name: Roami
+
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "香港 eSIM 指南"
-    url: ""
 
-# Hero 區塊文案
-hero_badge: "[🇭🇰 旗幟] 香港 最新旅遊 eSIM 指南"
-hero_subtitle_main: "香港 eSIM：實體 SIM 卡的簡易替代方案"
-hero_subtitle_highlight: "中國移動香港 頂級 5G 覆蓋"
-hero_description_line1: "以 香港 eSIM 取代傳統漫遊方案，節省通訊開支。相容多種裝置，滿足各類型旅客的上網需求。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "香港 eSIM"
-hero_link_url: "/hong-kong-esim/"
-tldr_summary: "【數位遊牧民族的最佳選擇：無縫跨國 5G 網路，連續多國旅行不斷線】。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025) 數據，中國移動香港在 2025 年上半年以中位下載速度 119.24 Mbps 奪得最快行動網路寶座，5G 中位下載速度更高達 185.43 Mbps。Roami 的香港 eSIM 讓您無需實體 SIM 卡，即可享受這頂尖效能，無論是穿梭於中環金融區、探索大嶼山自然景觀，或是前往澳門、深圳等鄰近城市，都能保持高速連線。結論：選擇 Roami 香港 eSIM，就是選擇穩定、快速且無國界的數位遊牧生活。"
+- name: Roami
 
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "香港 eSIM 快速連結"
-sidebar_links:
+  url: /
 
-  - href: "#quick-picks"
-    text: "快速選擇：香港 該選哪家 eSIM 營運商？"
+- name: 中國香港 eSIM 指南
+  url: ''
 
-  - href: "#operators"
-    text: "香港 最佳行動 eSIM 營運商總覽"
+hero_badge: "Hong Kong eSIM: which network wins where?"
 
-  - href: "#city-guide"
-    text: "城市指南：香港 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 香港 eSIM 前須知"
-
-  - href: "#faq"
-    text: "香港 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "香港 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：香港 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "中國移動香港"
-    carrier_class: "text-orange-600"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)，中國移動香港在 2025 年上半年擁有最佳行動網路（Speedtest Connectivity Score 77.07）及最快 5G 下載速度（中位 185.43 Mbps），非常適合需要穩定高速網路的遠端工作者。"
-
-  - travel: "一般旅客"
-    carrier: "csl"
-    carrier_class: "text-blue-600"
-    reason: "csl 在 2025 年上半年擁有最一致的網路體驗（92.5% 樣本達標），適合在市區頻繁移動、需要穩定連線的旅客。"
-
-  - travel: "重度串流玩家"
-    carrier: "SmarTone"
-    carrier_class: "text-green-600"
-    reason: "SmarTone 的 5G 中位下載速度為 146.3 Mbps，僅次於中國移動香港，且擁有良好的影音串流體驗，適合觀看高畫質影片或進行視訊通話。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 香港 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "china-mobile-hk-esim"
-    title: "中國移動香港 eSIM 總覽：最佳整體網路"
-    best_for: "此方案絕對是最佳選擇，適合追求極致速度與廣泛 5G 覆蓋的用戶。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)，中國移動香港在 2025 年上半年囊括最快行動網路、最快 5G 網路及最佳 5G 可用性（86.3%）等多項冠軍。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)，中位 5G 可用性達 86.3%，為全港最高。\n- **下載速度**：中位下載速度 119.24 Mbps（所有技術），5G 中位下載速度 185.43 Mbps。\n- **上傳速度**：中位上傳速度 18.57 Mbps（所有技術），5G 中位上傳速度 26.43 Mbps。\n- **延遲**：中位延遲 30 ms（所有技術），5G 中位延遲 27 ms。"
-    arcep_note: "經通訊事務管理局（OFCA）確認，中國移動香港為持有有效牌照的流動網絡營運商，其頻譜分配與服務品質均符合監管要求。"
-    connect_note: "啟用過程順暢，掃描 QR code 後即可在支援 eSIM 的裝置上啟用，無需前往門市。"
-    user_scenarios: "- **[太平山頂]**：在山頂纜車站與觀景台，使用中國移動香港 5G 網路即時上傳 4K 影片，中位下載速度 185.43 Mbps 確保零延遲。\n- **[香港國際機場]**：在離境大堂或轉機區，86.3% 的 5G 可用性讓您隨時進行視訊會議或串流娛樂。\n- **[南丫島徒步]**：即使在離島郊區，中國移動香港的廣泛覆蓋仍能提供穩定的 4G/5G 連線，滿足導航與社交媒體需求。"
-    bg_color: "bg-blue-50"
-
-  - id: "csl-esim"
-    title: "csl eSIM 總覽：最穩定的網路體驗"
-    best_for: "此方案適合對連線穩定性要求極高的用戶，例如頻繁進行視訊通話或線上遊戲的旅客。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)，csl 在 2025 年上半年擁有最佳網路一致性（92.5% 樣本達標）。"
-    core_data: "- **網路一致性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)，92.5% 的樣本達到 5 Mbps 下載與 1 Mbps 上傳門檻，為全港最高。\n- **5G 一致性**：85.5% 的 5G 樣本達到 25 Mbps 下載與 3 Mbps 上傳門檻。\n- **下載速度**：中位下載速度 92.73 Mbps（所有技術）。\n- **上傳速度**：中位上傳速度（未提供，但整體表現穩定）。"
-    arcep_note: "csl 為香港主要流動網絡營運商之一，受 OFCA 監管，其服務品質與頻譜使用均符合法規。"
-    connect_note: "啟用過程簡單，掃描 QR code 後即可使用，支援多數 eSIM 裝置。"
-    user_scenarios: "- **[迪士尼樂園]**：在樂園內高密度人群環境中，csl 的高一致性確保遊客能順暢使用 app 排隊、分享照片。\n- **[會展中心]**：參加展會或會議時，穩定的連線讓您無中斷地進行直播或商務通話。\n- **[地鐵隧道]**：在港鐵車廂內，csl 的網路最佳化提供不間斷的串流體驗。"
-    bg_color: "bg-blue-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 香港 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 香港 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 香港 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 香港 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 香港主要 5G/4G 頻段"
-    content: "香港行動網路使用多種頻段，包括 5G 的 n1 (2100 MHz)、n78 (3500 MHz)、n79 (4900 MHz)，以及 4G 的 Band 1 (2100 MHz)、Band 3 (1800 MHz)、Band 7 (2600 MHz)、Band 8 (900 MHz)。購買 eSIM 前請確認您的裝置支援這些頻段，以獲得最佳覆蓋與速度。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "根據香港法規，使用預付 SIM 卡（包括 eSIM）需進行實名登記。購買 Roami 香港 eSIM 時，您需要提供護照或身分證件進行驗證。啟用過程通常在幾分鐘內完成，確保合規且安全。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "多數無限數據方案設有公平使用政策，例如每日超過 2GB 後速度可能降至 128 kbps。請仔細閱讀方案條款，選擇符合您使用習慣的數據量。Roami 提供透明 FUP 說明，避免超量後降速困擾。"
-
-  - heading: "4. 裝置相容性與 eSIM 啟用"
-    content: "eSIM 支援 iPhone XS 以上、Google Pixel 3 以上、Samsung Galaxy S20 以上等機型。啟用時需掃描 QR code 或手動輸入啟用碼，並確保裝置已解鎖。部分中國品牌手機可能不支援 eSIM，購買前請確認。"
-
-  - heading: "5. 覆蓋範圍與網路切換"
-    content: "香港地形多變，從密集市區到偏遠離島，網路覆蓋可能差異。中國移動香港提供最佳 5G 可用性（86.3%），而 csl 則以一致性見長。Roami eSIM 通常自動選擇最強訊號，但您也可手動切換營運商以優化連線。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：香港 最佳 eSIM"
-city_guide_desc: "了解哪款 香港 eSIM 是您目的地的最佳選擇，根據當地網路效能與旅遊需求推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "香港島（中環、銅鑼灣）"
-    carriers: "中國移動香港"
-    reason: "商業與購物核心區域，中國移動香港提供最快 5G 速度（中位 185.43 Mbps），適合商務人士與重度網路使用者。"
-
-  - city: "九龍（尖沙咀、旺角）"
-    carriers: "csl"
-    reason: "高密度旅遊區，csl 的網路一致性（92.5% 達標）確保在人潮擁擠時仍能穩定連線，適合打卡、導航與即時通訊。"
-
-  - city: "新界（沙田、大埔）"
-    carriers: "中國移動香港"
-    reason: "郊區與住宅區混合，中國移動香港的 5G 可用性（86.3%）提供廣泛覆蓋，適合探索自然景點如大帽山、林村郊野公園。"
-
-  - city: "離島（大嶼山、南丫島）"
-    carriers: "中國移動香港"
-    reason: "偏遠地區，中國移動香港的網路基礎設施較完善，中位下載速度 119.24 Mbps 確保在戶外活動時仍能保持連線。"
-
-  - city: "赤鱲角（香港國際機場）"
-    carriers: "中國移動香港"
-    reason: "轉機或抵達時需要即時連線，中國移動香港的 5G 可用性最高，讓您快速啟用 eSIM 並開始使用。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 香港 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "穿梭於中環、尖沙咀等繁華區域，使用中國移動香港 eSIM 享受 185.43 Mbps 5G 下載速度，即時分享 IG 限時動態、使用 AR 導航，無需擔心緩衝。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往龍脊、麥理浩徑等郊野公園，csl 的高網路一致性（92.5% 達標）確保在偏遠路徑上仍能使用地圖與緊急通訊，安心探索。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕遊香港，中國移動香港的 5G 可用性（86.3%）讓您在高速公路與隧道中保持導航連線，中位延遲僅 27 ms，確保即時路況更新。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在淺水灣、赤柱等海灘，使用 Roami eSIM 串流音樂或進行視訊通話，中國移動香港的中位上傳速度 26.43 Mbps（5G）讓您輕鬆上傳海灘美照。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "香港 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "如何確認 eSIM 在 香港 的特定目的地是否擁有可靠的覆蓋？"
-    a: "您可以參考 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025) 的覆蓋地圖，或使用 Speedtest 應用程式在當地測試。中國移動香港在 2025 年上半年擁有最佳 5G 可用性（86.3%），而 csl 則以網路一致性（92.5% 達標）著稱。建議選擇 Roami 提供的 eSIM，其自動選擇最強訊號營運商，確保在太平山頂、迪士尼樂園等熱門景點都有穩定連線。"
-
-  - q: "在智慧型手機設定中，是否需要開啟數據漫遊才能讓 eSIM 在 香港 運作？"
-    a: "是的，您需要在手機設定中開啟「數據漫遊」選項，才能讓 eSIM 正常連接香港本地網路。這是因為 eSIM 本質上是在使用非本地營運商的服務。請放心，Roami 的 eSIM 方案已包含所有數據費用，開啟漫遊不會產生額外收費。建議在抵達香港後再開啟，以避免在飛機上意外連網。"
-
-  - q: "香港 eSIM 的支援服務提供哪些語言，回應時間為何？"
-    a: "Roami 提供繁體中文、英文、簡體中文等多語言客服支援，可透過即時聊天、電子郵件或電話聯繫。一般回應時間在 5 分鐘內（即時聊天），電子郵件則在 2 小時內回覆。我們的團隊熟悉香港當地網路狀況，能快速協助解決啟用或連線問題。"
-
-  - q: "如果 香港 eSIM 無法使用，Roami 是否提供退款，條件為何？"
-    a: "是的，Roami 提供 30 天退款保證。若您的 eSIM 在啟用後因技術問題無法正常使用，且經客服確認非人為因素（如裝置不相容、未開啟數據漫遊），我們將全額退款。請保留購買憑證與錯誤截圖，以加速處理流程。部分方案可能因已使用部分數據而按比例退款，詳情請參閱條款。"
-
-  - q: "香港 的無限數據方案是否有嚴格公平使用政策（FUP）或頻寬限制？"
-    a: "是的，多數無限數據方案設有公平使用政策。例如，每日使用超過 2GB 後，速度可能降至 128 kbps，僅能傳送文字訊息。Roami 的香港 eSIM 方案在購買頁面清楚標示 FUP 門檻，建議重度使用者選擇高數據量方案（如 10GB 或 20GB），以確保全程高速體驗。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)，中國移動香港的中位下載速度為 119.24 Mbps，即使超過 FUP 門檻，降速後仍可應付基本通訊。"
-
-# 迷思
-myths_title: "⚠️ 香港 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "香港所有營運商的 5G 速度都差不多。"
-    truth: "錯誤。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)，中國移動香港的 5G 中位下載速度為 185.43 Mbps，遠高於 SmarTone 的 146.3 Mbps 與 csl 的未公開數據。選擇營運商會顯著影響實際體驗。"
-
-  - myth: "eSIM 比實體 SIM 卡更不穩定。"
-    truth: "不正確。eSIM 使用與實體 SIM 卡相同的網路技術，穩定性取決於營運商基礎設施。香港的 eSIM 支援所有主要營運商，且 Roami 提供自動網路切換，確保最佳連線。"
-
-  - myth: "在香港使用 eSIM 需要先解鎖手機。"
-    truth: "部分正確。若手機曾綁定特定營運商（如美國 AT&T 鎖機），則需解鎖才能使用其他營運商的 eSIM。但多數解鎖手機可直接使用。購買前請確認裝置狀態。"
-
-  - myth: "香港的無限數據方案真的無限，不會降速。"
-    truth: "錯誤。所有無限方案均有公平使用政策（FUP），超過每日或每月門檻後會降速。例如，每日超過 2GB 後速度可能降至 128 kbps。請仔細閱讀條款。"
-
-  - myth: "在香港偏遠地區（如南丫島）完全沒有網路覆蓋。"
-    truth: "不正確。中國移動香港的 5G 可用性達 86.3%，csl 的網路一致性為 92.5%，即使在離島郊區，仍有穩定的 4G/5G 訊號。Roami eSIM 會自動連接可用最強訊號，確保基本通訊與導航。"
-
-# 數據來源
-data_sources_title: "香港 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據，基於 2025 年上半年數百萬次測試，提供香港行動與固定寬頻網路的真實效能指標，包括中位下載/上傳速度、延遲與 5G 可用性。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的 2025 年香港行動網路體驗報告，分析用戶實際體驗，包括影片串流、遊戲體驗與語音應用程式效能，提供營運商排名與深入洞察。"
-
-  - name: "通訊事務管理局（OFCA）2025"
-    description: "香港通訊事務管理局（OFCA）發布的官方統計數據，涵蓋頻譜分配、服務品質監管與營運商合規資訊，確保所有引用數據符合當地法規。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，包括 Ookla、OpenSignal 與 OFCA，確保資訊客觀且可驗證。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議在購買前參考最新用戶評價與官方覆蓋地圖。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 香港 eSIM"
-cta_desc: "即時存取，無需等待。掃描 QR code 即可啟用，享受中國移動香港頂級 5G 網路。"
-cta_button_text: "立即購買 香港 eSIM"
-cta_button_link: "/hong-kong-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "香港 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
+hero_subtitle_main: "Where Hong Kong's networks differ: speed, coverage and the counter rules"
 
 ---
+
+
+
+中國香港 eSIM 是在這個亞洲連線程度最高的市場之一最快上網的方式——也是最便宜的之一。本地數據約 **USD 0.82 每 GB**，在 Cable.co.uk 追蹤的 237 個市場中排第 82 位，遠低於全球平均；DataReportal 則統計中國香港有 710 萬網路用戶（滲透率 96.0%）、1,740 萬個行動連線。旅客設定檔所依附的基礎設施密集、成熟且快速。這裡的每一項宣稱都指向具名的來源——結尾的清單值得在付錢購買香港門號前先看一遍。
+
+
+
+速度仍取決於你的設定檔附著到哪個網路。在 Ookla 的 2025 上半年測量中，China Mobile Hong Kong 錄得全技術中位下載 **119.24 Mbps**、5G 上 185.43 Mbps，而 csl 錄得市場最佳的一致性 92.5%。本指南按行政區和行程形態比較 China Mobile Hong Kong、csl、SmarTone 和 3HK，讓路由選擇是一個深思熟慮的決定——它也涵蓋那條比任何規則都更讓訪客意外的規定：中國香港的每一張本地 SIM 都必須以真實身分註冊才能使用。
+
+
+
+**簡短回答：**China Mobile Hong Kong 是香港 eSIM 最快的網路，中位下載（119.24 Mbps）和 5G 可用性（86.3%）雙雙領先。csl 是視訊通話的一致性之選（92.5%），也是九龍舊式樓宇中室內覆蓋最強的。SmarTone 為輕度用戶在速度與價格間取得平衡，3HK 的 SoSIM 則是最便宜的「握有一個月本地數據」方式。任何本地預付卡啟用前都需要以護照完成實名註冊，所以為它預留幾分鐘——或用多網路設定檔跳過櫃檯。[Roami 的 Hong Kong eSIM](/hong-kong-esim/) 起飛前即可安裝，並自動切換電信。
+
+
+
+## 本指南導覽
+
+
+
+- [哪個中國香港 eSIM 電信適合你的行程？](#the-best-pick-for-your-hong-kong-trip)
+
+- [China Mobile Hong Kong、csl、SmarTone 與 3HK 對比](#china-mobile-hong-kong-csl-smartone-and-3hk-compared)
+
+- [預付方案以港幣計的價格](#the-cheapest-way-to-buy-data-in-hong-kong)
+
+- [每張本地 SIM 的實名註冊](#sim-and-esim-registration-in-hong-kong)
+
+- [香港 eSIM 基礎：頻段、註冊與公平使用](#hong-kong-esim-fundamentals-bands-registration-and-fair-use)
+
+- [本地卡或漫遊設定檔：香港的取捨](#hong-kong-esim-roaming-and-border-crossings)
+
+- [中國香港 eSIM 各區覆蓋與速度](#hong-kong-esim-speeds-by-carrier)
+
+- [中國香港 eSIM 按行程形態](#hong-kong-china-esim-by-trip-shape-six-days-six-different-networks)
+
+- [購買前：文件、付款與註冊排隊](#hong-kong-sim-registration-documents-payment-and-the-queue)
+
+- [香港 eSIM APN 設定](#hong-kong-apn-configuration)
+
+- [香港 eSIM 出問題時](#four-local-failure-modes-for-a-hong-kong-esim)
+
+- [跨境到深圳與澳門](#crossing-to-shenzhen-and-macao-same-phone-new-data-plan)
+
+- [常見問題（11 題解答）](#common-questions-about-a-hong-kong-esim-11-answered)
+
+- [本次香港 eSIM 評測的參考來源](#reference-sources-for-this-hong-kong-esim-review)
+
+
+
+## 你的香港行程最佳選擇
+
+
+
+資料來源：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hong-kong-sar-speedtest-connectivity-report-h1-2025)。
+
+
+
+| 你的行程 | 最佳電信 | 為什麼 | 要注意什麼 |
+
+|:---|:---|:---|:---|
+
+| 中環或金鐘商務停留 | csl | 一致性最高達 92.5%，這正是視訊會議實際需要的 | 辦公大樓尖峰時段負載 |
+
+| 九龍購物與美食巡禮 | csl | 旺角和佐敦舊式樓宇室內覆蓋強 | 尖沙咀周邊的街面壅塞 |
+
+| 數位遊民，一個月以上 | 3HK（SoSIM）或 CMHK | 約 HK$33 起、30 天的最便宜大額本地額度 | SoSIM 過公平使用門檻後速度急降 |
+
+| 重度串流與遊戲 | China Mobile Hong Kong | 5G 下載最快（185.43 Mbps）、5G 延遲最低（27 ms） | 上傳落後於其下載數字 |
+
+| 登山與郊野公園 | China Mobile Hong Kong | 5G 覆蓋最廣，步道口與山脊上很要緊 | 西貢深處和八仙嶺仍會斷訊 |
+
+| 大嶼山、迪士尼與昂坪 | csl | 纜車上與園區周邊連線穩定 | 大澳外圍巷弄室內訊號弱 |
+
+| 離島——長洲、南丫島 | SmarTone | 在建設有限的較小島嶼覆蓋可靠 | 渡輪航段與小型碼頭不穩 |
+
+| 經港珠澳大橋澳門一日遊 | 香港–澳門共享額度卡 | 一份額度涵蓋大橋兩側 | 僅限香港的方案在邊界就停 |
+
+| 深圳一日遊 | 另辦中國大陸方案 | 香港卡不漫遊就不涵蓋大陸 | 本地卡的漫遊費率很重 |
+
+
+
+**CP 值最高選項：**一張具備電信自動切換的多網路設定檔，直接消掉「我買的網路對不對得上我站立之處」這個問題。
+
+
+
+## China Mobile Hong Kong、csl、SmarTone 與 3HK 對比
+
+
+
+### 在香港誰的速度贏？
+
+
+
+China Mobile Hong Kong 拿下頭條數字——全技術中位下載 **119.24 Mbps**、5G 上 **185.43 Mbps**、5G 可用性 86.3%，以及市場最低的 5G 延遲 27 ms，外加最佳的行動遊戲分數。它握有 3.5 GHz 頻段中數一數二大的 5G 頻譜組合，其覆蓋也延伸到新界和郊野公園，比對手更深入。如果你的行程包含步道、邊境城鎮或重度串流，這就是要偏好的網路。
+
+
+
+### 香港行動運營商一覽
+
+
+
+csl 交出市場最佳的一致性——**92.5% 的樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻**，5G 上以更嚴格的 25/3 Mbps 標準也有 85.5%——中位下載 **92.73 Mbps**。這個組合正是它成為視訊通話之選、以及九龍舊式唐樓中室內投資顯現成效的原因。它在原始速度和 5G 可用性上落後 China Mobile Hong Kong，卻是中環多數商務旅客最終落在的網路。
+
+
+
+### SmarTone：均衡、以服務為本的選項
+
+
+
+SmarTone 沒有贏得任何頭條指標，也不需要。它的賣點是本地人在意的那幾區的網路穩定度，以及一種留住本可轉台客戶的服務口碑。對旅客而言，實際效果很簡單：SmarTone 在離島上是合理的預設，城市行程也是好選擇，預付等級約 **HK$68 買 10 GB，或 HK$188 買 30 天不限量**。
+
+
+
+### 香港 GB 的甜蜜點在哪？
+
+
+
+3 Hong Kong（3HK）跑著市場上最便宜的觀光卡，並透過其 **SoSIM** 預付品牌提供最便宜的「握有一個月本地數據」方式——約 **HK$33 買 50 GB 用 30 天，含 1,500 分鐘本地通話**，過公平使用門檻後降速至 128 kbps。其新界覆蓋比 CMHK 略有不均，在市區內鮮少構成問題，但在步道上會。注意 SoSIM 是本地實體卡或 eSIM 產品，所以仍需實名註冊。
+
+
+
+### 在香港買數據最便宜的方式
+
+
+
+本地價格以港幣報價，且包含一道註冊程序。換算按約 **7.8 港幣兌 1 美元**計。
+
+
+
+| 產品 | 數據 | 有效期 | 價格（HK$） | ≈ USD |
+
+|:---|:---|:---|:---|:---|
+
+| 3HK SoSIM 本地套裝 | 50 GB，之後 128 kbps | 30 天 | HK$33 | ≈ $4 |
+
+| CMHK 觀光 SIM | 香港 5 GB/天 + 澳門 500 MB/天 | 3 天 | HK$48 | ≈ $6 |
+
+| CMHK 觀光 SIM | 香港 5 GB/天 + 澳門 500 MB/天 | 7 天 | HK$78 | ≈ $10 |
+
+| CMHK 觀光 30 天 | 30 GB + 300 分鐘本地通話 | 30 天 | HK$128 | ≈ $16 |
+
+| csl Discover Hong Kong | 10 GB 香港–澳門共享 + 5 GB 僅限香港 | 3 天 | HK$58 | ≈ $7 |
+
+| 3HK 觀光 | 30 GB + 200 分鐘本地通話 | 7 天 | HK$88 | ≈ $11 |
+
+| SmarTone 預付 | 10 GB + 100 分鐘本地通話 | 30 天 | HK$68 | ≈ $9 |
+
+| SmarTone 預付不限量 | 限量速的不限流量 | 30 天 | HK$188 | ≈ $24 |
+
+| SmarTone 中國–香港–澳門卡 | 3 GB 共享 + 10 分鐘 | 30 天 | HK$95 | ≈ $12 |
+
+
+
+那張表裡有兩個模式值得讀出來。第一，**香港–澳門共享額度**出現在 CMHK、csl 和 SmarTone 的產品上，這是涵蓋一日大橋行程而不用買兩次的最便宜方式。第二，按日切分的觀光卡（CMHK 的每天 5 GB）看起來慷慨，直到你注意到額度是重置而非累積——重度一日遊沒問題，輕度使用就浪費。
+
+
+
+## 香港的 SIM 與 eSIM 註冊
+
+
+
+本地運營商為在中國香港使用而發行的每一張 SIM 卡——預付卡與月租服務方案皆然——都必須在**啟用前完成實名註冊**。該要求依《電訊（登記 SIM 卡）規例》（Telecommunications (Registration of SIM Cards) Regulation），自 2021 年 9 月 1 日生效，主管機關自己的指引說得很直白：新預付卡在註冊完成並核驗之前不得使用。
+
+
+
+這對旅客意味著什麼：
+
+
+
+- **觀光客以旅行證件註冊。**護照是可接受的身分證明文件；不需要香港身分證，也沒有居留資格測試。
+
+- **非居民的核驗是人工的。**香港身分證持有人的註冊透過 **iAM Smart** app 進行，實際上即時完成。其他所有人都由運營商核驗，因此啟用可能延遲數小時而非數秒。
+
+- **有上限。**每人每家運營商最多可註冊 **10 張預付 SIM 卡**；企業用戶上限 25 張。月租服務方案卡沒有限制。
+
+- **註冊會定期複查。**運營商會抽樣檢查，並以寄件地址 **#SIMREG** 發送核驗請求；持卡人未回應的卡片可能被註銷並停止運作。
+
+
+
+實際上的後果，正是多數旅遊部落格寫錯的那一條。「在 7-Eleven 買張卡，兩分鐘上網，不用護照」之類的建議描述的是 2023 年 2 月就終結的規則。便利商店仍全天候廉價賣卡，但卡片在完成註冊前不會啟用，而註冊意味著出示護照並等待人工核驗。
+
+
+
+## 香港 eSIM 基礎：頻段、註冊與公平使用
+
+
+
+### 香港的 5G 最佳區域
+
+
+
+中國香港的網路以 **n1（2100 MHz）、n78（3500 MHz）和 n79（4900 MHz）**做 5G，以 **B1、B3、B7、B8 和 B28** 做 4G LTE。多數近期手機都涵蓋這些，但 n79 是區分中階機與旗艦機的那一個頻段，並承載相當比例的本地 5G 容量。查確切型號，別用猜的。
+
+
+
+### 香港的註冊規則要求什麼？
+
+
+
+實名註冊適用於**本地運營商發行**的 SIM 卡。這一點值得說明白，因為網路上的說法自相矛盾：在香港買的卡需要註冊，而國際旅遊 eSIM 供應商發出的設定檔不是本地 SIM 卡，也不會向香港電信註冊。交換條件是旅遊設定檔僅限數據，而且沒有 +852 號碼。
+
+
+
+### 3. 公平使用門檻與「不限量」的意思
+
+
+
+多數本地不限量方案都有公平使用政策。SoSIM 的 50 GB 套裝在過門檻後降到 **128 kbps**，其他「不限量」等級則以全速的一定比例降速而非停用。看門檻，不要看字眼：降到 128 kbps 的方案收發訊息堪用，對即時路況的地圖毫無用處。
+
+
+
+### 香港 eSIM 能跑在我的手機上嗎？
+
+
+
+eSIM 支援 iPhone XS 及之後、Google Pixel 3 及之後、Samsung Galaxy S20 及之後，以及多數近期 Android 旗艦。裝置也必須**已解鎖**。購買前兩者都用[相容性檢測工具](/compatibility/)核對。如果這些機制對你是新東西，[eSIM 設定檔如何安裝](/faq/what-is-esim-activation-and-how-does-it-work/)用淺白的話解釋。
+
+
+
+### 哪家運營商的香港覆蓋最全面？
+
+
+
+市區覆蓋不是考驗。真正的空窗在 **Sai Kung**（西貢）和 **Pat Sin Leng**（八仙嶺）郊野公園的地質深處、部分較小的離島，以及少數舊樓的深處室內空間。China Mobile Hong Kong 覆蓋最廣；csl 在邊緣地帶最穩。龍脊步道、港鐵全系統（含隧道）和機場快線在每一個網路上都有可用訊號。
+
+
+
+## 香港 eSIM 漫遊與跨境
+
+
+
+| | 本地預付卡 | 跑本地網路的旅遊 eSIM |
+
+|:---|:---|:---|
+
+| 你需要什麼 | 護照與實名註冊 | 一支相容且已解鎖的手機 |
+
+| 設定檔如何送達 | 店內或櫃檯，然後註冊 | 結帳後立即收到 QR 碼 |
+
+| 首次數據時間 | 現場核驗則幾分鐘；人工核驗排隊則更久 | 落地即通，或開啟漫遊的那一刻 |
+
+| 典型價格 | 30 天 50 GB 自 HK$33 起（SoSIM） | 單一預付價，免跑櫃檯 |
+
+| 網路存取 | 單一電信 | 在 csl、SmarTone 和 CMHK 之間自動切換 |
+
+| 電話號碼 | 真實 +852 號碼，含本地通話分鐘數 | 僅數據，通常無號碼 |
+
+| 最適合 | 一個月以上的停留，以及任何需要本地號碼的人 | 數週以內的行程，以及落地即上網 |
+
+
+
+在中國香港，這個差距很窄，因為本地數據本來就便宜。本地卡多給的是一個 **+852 號碼**——對餐廳訂位、本地 app 和外送有用——它收走的是一道註冊程序和單一電信的天花板。四天的城市小旅行，旅遊 eSIM 時間上勝出；一個月的遠端工作，SoSIM 的價格難以反駁。
+
+
+
+## 各選項要花多少
+
+
+
+與其給一張快照，這裡是我們 [Hong Kong, China eSIM 方案頁面](/hong-kong-esim/)上持續維護的中國香港方案清單。下方一節把那些價格放到市場實際的網路性能與本地每 GB 成本旁邊。
+
+
+
+## 你的 eSIM 速度：市場的全球排名
+
+
+
+Ookla 的 Speedtest Global Index 把中國香港的行動下載速度排在全球第 **51** 位，中位數 **89.13 Mbps**（延遲 16 ms）。這低於 109.05 Mbps 的全球中位數，而它之所以重要，是因為旅遊 eSIM 跑的正是這套本地基礎設施。本地數據定價約 **USD 0.82 每 GB**，在 Cable.co.uk 追蹤的 237 個市場中排第 82 位。就市場本身的背景而言，DataReportal 報告中國香港有 710 萬網路用戶（滲透率 96.0%）和 1,740 萬個行動連線——2025 年初為人口的 235%。
+
+
+
+這三個數字都是第三方的，且獨立更新：[Ookla Speedtest Global Index](https://www.speedtest.net/global-index/hong-kong-%28sar%29)、[Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)、[DataReportal](https://datareportal.com/reports/digital-2025-hong-kong)。
+
+
+
+關於第 51 位多說一句，因為它看起來比實際更差。該排名衡量的是一個全域中位數，而這片土地上 5G 已覆蓋超過 99% 的人口；這個數字被一大串較舊的 4G 方案拉低，而不是被一個弱網路拉低。實務上，在 5G 手機上的旅客設定檔，無論在中環、尖沙咀還是港鐵上，都會遠高於中位數。真正該決定你購買的數字不是排名，而是你考慮中的那張本地卡的公平使用門檻。
+
+
+
+## 依你所在區域選最佳本地 eSIM（實測 5 區）
+
+
+
+根據網路性能與本地條件，哪張旅遊 eSIM 更適合你的目的地：
+
+
+
+| 行政區 | 最佳電信 | 為什麼有效 |
+
+|:---|:---|:---|
+
+| 香港島——中環、灣仔、銅鑼灣 | China Mobile Hong Kong | 全境最密集的商業區，最快的 5G 與 86.3% 可用性在此最要緊 |
+
+| 九龍——尖沙咀、旺角、觀塘 | csl | 高密度與壅塞，92.5% 的一致性勝過尖峰速度 |
+
+| 新界——沙田、荃灣、元朗 | China Mobile Hong Kong | 橫跨新市鎮、屋邨與交通樞紐的最廣 5G 覆蓋 |
+
+| 大嶼山——東涌、迪士尼、昂坪 | csl | 纜車上與園區周邊穩定，半途斷訊最掃興 |
+
+| 離島——長洲、南丫島、坪洲 | SmarTone | 在建設有限的較小島嶼覆蓋可靠 |
+
+
+
+多網路設定檔悄悄解掉分區問題：它隨你移動重新附著到最強的電信，當一天從中環辦公室切換到新界步道口時，這一點最要緊。
+
+
+
+## 香港各電信 eSIM 速度
+
+
+
+把全境速度數字當上限而非下限：下面逐區的畫面才是你實際會體驗到的。
+
+
+
+| 區域 | 覆蓋 | 最佳電信 | 要注意 |
+
+|:---|:---|:---|:---|
+
+| 香港島 | 全區優異，包括港鐵線的深層隧道 | China Mobile Hong Kong | 尖峰時段銅鑼灣周邊壅塞 |
+
+| 九龍 | 各大網路都強，商場室內覆蓋密集 | csl | 旺角和尖沙咀的街面壅塞 |
+
+| 新界東——沙田、西貢 | 新市鎮可靠；一進步道就不穩 | China Mobile Hong Kong | 西貢郊野公園深處完全斷訊 |
+
+| 新界西——屯門、元朗 | 有人煙處良好，包括邊境城鎮 | China Mobile Hong Kong | 邊界附近訊號與大陸網路重疊 |
+
+| 大嶼山 | 東涌、迪士尼和昂坪強；大澳較薄 | csl | 島嶼南側的登山步道會斷訊 |
+
+| 離島——長洲、南丫島、坪洲 | 主島與度假區可用；較小島嶼有限 | SmarTone | 渡輪航線與小型碼頭不穩 |
+
+| 跨境——深圳灣、羅湖、港珠澳大橋 | 本地方案在邊界結束；共享額度卡繼續 | 視方案而定 | 自動漫遊可能在沒有明確提示下向你收費 |
+
+
+
+從中國香港跨界？比較鄰近網路：
+
+
+
+- [中國澳門旅遊 eSIM](/carriers/macau-esim-carrier-guide/)
+
+- [中國 eSIM 指南](/carriers/china-esim-carrier-guide/)
+
+- [我們的中國台灣指南](/carriers/taiwan-esim-carrier-guide/)
+
+
+
+在區域間移動？選一張能自動切換網路的 eSIM，免得卡在某一家電信的弱點上。
+
+
+
+## 中國香港 eSIM 按行程形態：六天，六種不同的網路
+
+
+
+### 中環與金鐘商務停留：香港覆蓋率
+
+
+
+四天的會議與客戶晚宴不會離開地圖上最強的那塊，所以一致性勝過絕對速度：csl 的 92.5% 正是讓視訊通話不在句子中間凍住的那個數字。把飯店 Wi-Fi 留作大檔傳輸的備援，並記得高樓層客房有時落在覆蓋陰影裡。
+
+
+
+### 九龍購物與美食巡禮：室內覆蓋率
+
+
+
+旺角的街市、佐敦的麵店和尖沙咀的商場都位於密集的混凝土裡，這正是室內覆蓋決定支付 app 在收銀台能否開啟的地方。csl 在舊式唐樓表現最好；China Mobile Hong Kong 的原始容量扛得住街面人潮。預期下午 6 點到 10 點之間會有速度下滑，而不是斷網。
+
+
+
+### 大嶼山覆蓋率：迪士尼、昂坪與大澳
+
+
+
+昂坪 360 之旅和迪士尼一日，是中途斷訊最讓人記憶深刻的兩個場景，而兩者都在大嶼山。csl 在纜車上和度假區周邊手更穩。大澳的棚屋巷弄室內會失訊，這正是預先載好離線地圖的好時機。
+
+
+
+### 麥理浩徑與西貢登山覆蓋率
+
+
+
+這是唯一一個電信選擇真正改變體驗的行程。China Mobile Hong Kong 更廣的覆蓋在更多步道口和山脊上保住一格訊號；而在西貢和八仙嶺郊野公園的地質深處，每個網路都斷訊。把登山當離線活動，把路線告訴某人，並帶行動電源——搜尋訊號是清空電池最快的方式。
+
+
+
+### 離島跳島：長洲、南丫島、坪洲覆蓋率
+
+
+
+長洲、南丫島和坪洲離市區一趟渡輪，建設程度低一階。SmarTone 在本地最可靠；主要渡輪航線有訊號，較小的碼頭則沒有。別計畫在海港中央進行即時上傳。
+
+
+
+### 依旅行風格選最佳香港 eSIM
+
+
+
+跨越港珠澳大橋不到一小時，卻徹底改變你的電信區域。澳門跑自己的網路，所以僅限香港的方案在橋的另一頭就失效。要嘛買一張**香港–澳門共享額度**的卡——CMHK、csl 和 SmarTone 都有賣——要嘛出發前裝一張澳門 eSIM，讓設定檔自己切換。
+
+
+
+## 香港 SIM 註冊：文件、付款與排隊
+
+
+
+| 項目 | 為什麼重要 |
+
+|:---|:---|
+
+| 護照 | 實名註冊可接受的旅行證件 |
+
+| EID 或相容性查核 | 確認手機能接收 eSIM 設定檔 |
+
+| 一張本地可用的卡 | 有些電信儲值入口會拒絕外國帳單地址 |
+
+| 現金或八達通支付小額消費 | 便利商店的卡常是現金交易 |
+
+| 離線地圖 | 郊野公園和離島沒有備援 |
+
+| 飯店地址 | 註冊時偶爾被要求作為聯絡地址 |
+
+
+
+有兩個摩擦值得預先規劃。第一，**註冊時間**：落地一刻就買卡，人工核驗可能讓你離線數小時，所以在家裝好的旅遊 eSIM 才是更好的抵達日保險。第二，**付款**：電信線上儲值流程有時拒絕外國卡，這讓便利商店憑證或店內付款成為可靠常規而非線上作業。如果這張卡要趕上某個特定訂位，提早一天買，別在機場買。
+
+
+
+## 支援 eSIM 的手機
+
+
+
+設定檔在結帳後幾分鐘內寄達信箱，你在設定裡加入即可。方案見 [Hong Kong, China eSIM 頁面](/hong-kong-esim/)，安裝與排解見我們的[逐步啟用指南](/faq/how-to-activate-an-esim/)。
+
+
+
+## 香港 APN 設定
+
+
+
+Roami 設定檔出廠即預先設定，所以多數旅客在香港從不碰 APN。它們只在一種情況下重要：你在櫃檯買了本地 China Mobile Hong Kong、csl、SmarTone 或 3HK 門號，而手機顯示滿格訊號卻沒有數據。
+
+
+
+**iPhone：**設定 → 行動網路（Cellular）→ 選門號 → 行動數據網路（Cellular Data Network）。Android：設定 → 網路與網際網路 → SIM 卡 → 存取點名稱（APN）。
+
+
+
+每家香港運營商都在自己的支援網站公布確切 APN，櫃檯人員通常會在購買時替你輸入。如果門號之後出問題，重新安裝設定檔或重新輸入印出的 APN，能解決絕大多數「已連線但離線」的情況。
+
+
+
+## 香港 eSIM 的四種在地故障模式
+
+
+
+一般的啟用錯誤——下載不了的設定檔、掃描失敗、裝了卻永遠不註冊的 eSIM——都收錄在 [eSIM 啟用修復指南](/faq/esim-activation-errors-troubleshooting-guide/)。以下四種模式是在地的。
+
+
+
+**A. 有訊號格，但沒有數據，卡是在市區買的。**原因幾乎總是註冊。尚未完成實名核驗的預付卡會顯示訊號卻拒絕數據。查運營商的訊息，確認註冊是已完成而非待處理。
+
+
+
+**B. 中環完美，步道上沉默。**這是覆蓋形狀，不是故障。開啟手動網路選擇，逐一嘗試 China Mobile Hong Kong、csl 和 SmarTone；如果都註冊不上，你就在郊野公園的地質深處，任何設定都幫不上。
+
+
+
+**C. 一跨到深圳或澳門數據就停。**這是方案邊界，不是故障。僅限香港的設定檔在另一側沒有覆蓋；出發前切到共享額度卡，或中國大陸或澳門 eSIM。
+
+
+
+**D. 5G 圖示配 4G 速度。**手機可能缺 **n79** 頻段，或方案在該等級限速。先和第二台裝置對照再怪網路，然後檢查方案的公平使用門檻。
+
+
+
+### 香港網路背後的公司
+
+
+
+| 資訊 | 到哪裡找 |
+
+|:---|:---|
+
+| 訂單或帳戶號碼 | 確認信 |
+
+| 手機型號與 OS 版本 | 設定 → 關於本機 |
+
+| EID | `*#06#` |
+
+| 錯誤截圖 | 在畫面變化之前先截 |
+
+| 註冊狀態 | 運營商 app 或確認簡訊 |
+
+| 已嘗試過的步驟 | 留一份簡短清單 |
+
+
+
+## 跨境到深圳與澳門：同一支手機，新的數據方案
+
+
+
+中國香港的網路在這片土地的兩側——西邊的澳門、北邊的大陸——都在邊界停止。每個口岸各有性格。**羅湖和落馬洲**讓你過完關幾分鐘內就搭上深圳地鐵，**深圳灣**是跨境巴士的通道，**港珠澳大橋**則在一小時內抵達澳門。在每一個口岸上，僅限香港的卡都會斷訊，而部分卡片開啟的自動漫遊可能在沒有明確提示下向你收費。
+
+
+
+乾淨的配置是兩個設定檔，而不是一個英勇的方案。中國香港 eSIM 留在境內用，跨境時加一張大陸或澳門方案——或買一張共享香港–澳門額度的卡，CMHK、csl 和 SmarTone 都有公布。離開飯店前，把香港門號的數據漫遊關掉，讓邊界附近的一次背景同步無法啟動計費工作階段，並下載你要使用口岸的離線地圖：深圳灣的排隊人潮正是你最想查點什麼的時候。
+
+
+
+## 關於香港 eSIM 的常見問題（11 題解答）
+
+
+
+### 在香港，旅客可以免註冊嗎？
+
+
+
+不可以，凡是由本地運營商為本地使用而發行的 SIM 卡——包括預付卡——都要註冊。註冊必須在卡片啟用前完成，且該要求自 2023 年 2 月起即適用於新預付卡。便利商店賣的卡也不例外。
+
+
+
+### 香港 SIM 註冊流程
+
+
+
+可以。沒有香港身分證的旅客以可接受的旅行證件——通常是護照——註冊，運營商使用那些資料。沒有居留要求，也不需要本地地址。
+
+
+
+### 註冊要多久？
+
+
+
+取決於途徑。香港身分證持有人使用 iAM Smart app，幾乎立即核驗，這是多數本地買家。旅客由運營商人工核驗，所以臨櫃買的卡可能要明顯更久數據才會通——這正是在家裝好的 eSIM 才是更安全的抵達日方案的原因。
+
+
+
+### 一個人能註冊幾張預付 SIM？
+
+
+
+每人每家運營商最多 **10 張預付 SIM 卡**，各家運營商額度分開計算，企業用戶為 25 張。月租服務方案卡沒有上限。運營商也會抽樣檢查，並透過寄件地址 **#SIMREG** 的訊息要求你重新核驗。
+
+
+
+### 網路上買的 eSIM 需要註冊嗎?
+
+
+
+不以同樣的方式。國際旅遊 eSIM 供應商發出的設定檔不是本地運營商發行的 SIM 卡，所以不適用本地實名註冊。交換條件是它僅限數據：沒有 +852 號碼，也沒有本地語音分鐘數。
+
+
+
+### 香港的行動數據真的很便宜嗎？
+
+
+
+便宜，但有一個但書。30 天 HK$188 起的不限量等級是貨真價實的好價，SoSIM 的 HK$33 套裝則給 50 GB 用 30 天，之後才降速。讀公平使用門檻：過門檻後速度降到約 128 kbps，收訊息堪用，看影片沒戲。
+
+
+
+### 哪家電信在港鐵上最好？
+
+
+
+每一個主要網路在所有港鐵車站和隧道都有完整覆蓋，包括機場快線和過海隧道，所以地鐵不是差異點。電信真正分歧的是舊樓的室內覆蓋，以及延伸進郊野公園的深度。
+
+
+
+### 我的香港 SIM 在澳門或中國大陸能用嗎？
+
+
+
+僅限香港的方案不行。澳門是獨立的電信區域，大陸則完全是另一個市場；兩者都需要漫遊加購或獨立方案。涵蓋澳門一日遊最便宜的方式，是一張香港–澳門共享額度的卡。
+
+
+
+### SoSIM 是什麼，旅客可以買嗎？
+
+
+
+SoSIM 是跑在 3HK 網路上的預付品牌，擁有最便宜的大額本地額度——約 **HK$33 買 50 GB 用 30 天，含 1,500 分鐘**。它和其他預付產品一樣對旅客銷售，也就是說需要護照與實名註冊，且其新界覆蓋比 China Mobile Hong Kong 略有不均。
+
+
+
+### 用 eSIM 時，我的銀行驗證碼還收得到嗎？
+
+
+
+收得到。原 SIM 留在手機裡收發電話和驗證碼，數據跑 eSIM，並把原門號的數據漫遊關掉。在這裡這一點比平常更重要，因為僅數據的旅遊設定檔收不到簡訊，銀行和訂位驗證碼照樣進你的原號碼。
+
+
+
+### 如何設定香港 eSIM
+
+
+
+按順序處理上面四種模式——註冊狀態、網路選擇、方案邊界，然後是頻段與公平使用檢查——如果還是不通，[eSIM 啟用疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)裡更完整的錯誤目錄涵蓋其餘部分。聯絡客服前備妥你的 EID、訂單號碼和截圖。
+
+
+
+[探索 FAQ](/faq/)
+
+
+
+## 關於本地 eSIM 的常見迷思
+
+
+
+### ❌ 迷思：你可以從便利商店買到匿名 SIM。
+
+
+
+**✅ 事實：**7-Eleven 和 OK 便利店仍然全天候廉價賣卡，但每一張本地發行的卡都必須在啟用前完成實名註冊。「不用護照、不用手續」的建議描述的是 2023 年 2 月之前的規則，會讓你拿著一張有訊號、沒數據的卡。
+
+
+
+### ❌ 迷思：這裡所有 eSIM 的速度和覆蓋都一樣。
+
+
+
+**✅ 事實：**China Mobile Hong Kong 在中位下載（119.24 Mbps）和 5G 可用性（86.3%）上領先，csl 在一致性（92.5%）上領先，3HK 的 SoSIM 則在每 GB 價格上贏，代價是犧牲一些新界深度。哪個重要，取決於你的行程是會議室還是步道口。
+
+
+
+### ❌ 迷思：用 eSIM 就得拔掉你的實體 SIM。
+
+
+
+**✅ 事實：**不需要。eSIM 是寫進手機內建硬體的設定檔，所以你的原 SIM 留在卡槽裡，繼續接收來電和驗證碼，而數據由 eSIM 承載。
+
+
+
+## 本次香港 eSIM 評測的參考來源
+
+
+
+- **Ookla Speedtest Global Index**——[中國香港頁面](https://www.speedtest.net/global-index/hong-kong-%28sar%29)提供上文引用的每月中位速度、延遲與世界排名。
+
+- **Cable.co.uk 行動數據定價**——[全球 1GB 成本調查](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)是每 GB 數字的出處。
+
+- **DataReportal**——[Digital 2025: Hong Kong](https://datareportal.com/reports/digital-2025-hong-kong) 支撐上文引用的市場規模數字。
+
+- **Office of the Communications Authority**——[實名註冊計畫](https://www.ofca.gov.hk/simreg)記載本文描述的註冊義務、10 張卡上限與抽樣檢查流程。
+
+- **電信與市場頁面**——方案價格、額度與有效期取自 [SmarTone 的預付資費](https://5g.smartone.com/en/mobile_and_price_plans/prepaid/data_sim/charges.jsp)和 [SimGuide 的香港 SIM 比較](https://simguidetravel.com/sim-card-hong-kong)，均於 2026 年 9 月查閱。
+
+- **Opensignal**——[獨立網路報告](https://www.opensignal.com/reports)提供網路體驗的第二重印證。單一來源的宣稱沒有登上本頁——每一項都有交叉佐證。
+
+
+
+這裡引用的一切都能追溯到具名的第三方來源，而非我們自己的測試。你自己的速度會隨手機、位置和壅塞程度而變。
+
+
+
+## 起飛前先拿好你的 eSIM
+
+
+
+結帳只要幾分鐘，設定檔就會寄到你的信箱，在香港國際機場隨時可以開啟。你可以先試 [Hong Kong, China 免費試用](/free-esim/)，或用折扣碼 **WEB20** 讓 [Hong Kong eSIM 方案](/hong-kong-esim/)打 8 折。
+
+
+
+[立即購買你的 Hong Kong, China eSIM](/hong-kong-esim/)
+
+
+
+*首張方案歡迎優惠*
+
+
+
+[免費試用 Hong Kong, China](/free-esim/)
+

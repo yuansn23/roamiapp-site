@@ -124,12 +124,6 @@ denmark:
   btn_text: "덴마크 통신사"
   btn_url: "/carriers/denmark-esim-carrier-guide/"
 
-dominican:
-  title: "도미니카 eSIM 통신사 가이드"
-  desc_html: "도미니카 통신사: Claro, Altice, Viva. eSIM 기능 비교표."
-  btn_text: "도미니카 통신사"
-  btn_url: "/carriers/dominican-esim-carrier-guide/"
-
 dominican-republic:
   title: "도미니카 공화국 eSIM 통신사 가이드"
   desc_html: "도미니카 공화국 주요 통신사: Claro, Altice, Viva. eSIM 커버리지 및 핫스팟 지원을 한눈에."

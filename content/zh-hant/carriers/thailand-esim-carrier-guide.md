@@ -1,274 +1,368 @@
 ---
-title: "去泰國旅行該用哪種 eSIM？上網方案完整比較指南。"
-description: "Roami 的泰國 eSIM 深入評比直接比較 AIS 和 TrueMove H 的 5G 速度表現、覆蓋範圍與方案價格，讓您一目瞭然。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 泰國，預付數據，5G 網路，AIS，TrueMove H，旅遊 eSIM，數位遊牧民族"
-site_name: "Roami"
-brand_name: "Roami"
+title: "泰國 eSIM 該選哪家？AIS、TrueMove H、dtac 完整比較"
+description: "泰國 eSIM 要辦哪一家電信業者？Roami 依據 Ookla 2025 上半年速度數據、NBTC 護照註冊規定與南部離島覆蓋率，比較 AIS、TrueMove H 與 dtac 的資費與網速，從曼谷到清邁與普吉，幫你選對泰國 eSIM。"
+image: "img/esim/carriers/thailand-esim-carrier-guide.jpg"
+date: "2026-09-23T04:25:29+00:00"
+keywords: 泰國 eSIM 電信業者, AIS eSIM, TrueMove H eSIM, dtac eSIM, 泰國 5G 覆蓋率, 泰國 eSIM APN, eSIM 泰國預付卡, 泰國最佳 eSIM 電信業者
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "泰國 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇹🇭] 泰國最新旅遊 eSIM 指南"
-hero_subtitle_main: "泰國 eSIM：24/7 高速數據傳輸"
-hero_subtitle_highlight: "AIS 與 TrueMove H 頂級 5G 覆蓋"
-hero_description_line1: "泰國 eSIM 覆蓋多個地區的 5G 高速數據服務，滿足您旅行、商務與日常通訊需求，無任何困擾。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "泰國 eSIM"
-hero_link_url: "/thailand-esim/"
-tldr_summary: "【數位遊牧民族的最佳選擇：無縫跨國 5G 網路，連續多國旅行不斷線】。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025) 數據，AIS 在 2025 年上半年以中位下載速度 104.33 Mbps 與 5G 中位下載速度 177.19 Mbps 領先市場，並獲得最佳行動網路與最佳 5G 網路獎項。Roami 的泰國 eSIM 讓您無需更換實體 SIM 卡，即可享受 AIS 或 TrueMove H 的頂級 5G 覆蓋，無論在曼谷、清邁或普吉島都能保持高速連線。結論：選擇 Roami 泰國 eSIM，就是選擇最可靠、最快速的數位遊牧體驗。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "泰國 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：泰國 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "泰國 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：泰國 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 泰國 eSIM 前須知"
-
-  - href: "#faq"
-    text: "泰國 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "泰國 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：泰國該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "AIS"
-    carrier_class: "text-green-600"
-    reason: "AIS 在 2025 年上半年獲得最佳行動網路與最佳 5G 網路獎項，中位下載速度達 104.33 Mbps，5G 中位下載速度達 177.19 Mbps，最適合需要穩定高速網路的遠端工作者。"
-
-  - travel: "一般旅客"
-    carrier: "TrueMove H"
-    carrier_class: "text-blue-600"
-    reason: "TrueMove H 擁有最高的 5G 可用性（74.2%），適合在各大城市與旅遊景點頻繁移動的旅客，確保隨時隨地享有 5G 連線。"
-
-  - travel: "重度串流玩家"
-    carrier: "AIS"
-    carrier_class: "text-green-600"
-    reason: "AIS 提供最佳行動遊戲體驗（Game Score 79.71），低延遲（37 ms）與高速上傳（23.21 Mbps），適合串流影片與線上遊戲。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 泰國 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "ais-esim"
-    title: "AIS eSIM 總覽：最佳整體網路效能"
-    best_for: "此方案絕對是最佳選擇，適合需要最高下載速度、最低延遲與最佳遊戲體驗的使用者。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025)，AIS 在 2025 年上半年獲得最佳 5G 網路獎項，5G 中位下載速度為 177.19 Mbps。\n- **下載速度**：中位下載速度 104.33 Mbps（所有技術合併），領先 TrueMove H 的 70.73 Mbps。\n- **上傳速度**：中位上傳速度 23.21 Mbps（所有技術合併），5G 中位 30.06 Mbps。\n- **延遲**：最低延遲 37 ms（所有技術合併），5G 延遲 35 ms。\n- **一致性**：95% 樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻，5G 樣本 91.4% 達到 25 Mbps 下載 / 3 Mbps 上傳門檻。"
-    arcep_note: "經泰國國家廣播電視與電信委員會（NBTC）確認，AIS 為泰國最大行動網路營運商，持有完整頻譜執照。"
-    connect_note: "啟用過程順暢，掃描 QR code 後即可連線，支援 5G 自動切換。"
-    user_scenarios: "- **[大皇宮與玉佛寺]**：在曼谷舊城區人潮擁擠處，AIS 的低延遲與高下載速度讓您即時上傳照片、使用地圖導航，不會卡頓。\n- **[清邁素帖山]**：在山區步道中，AIS 的廣泛覆蓋確保您即使在偏遠寺廟也能保持連線，分享即時動態。\n- **[普吉島芭東海灘]**：在海灘區域，AIS 的 5G 高速網路讓您串流音樂、觀看影片，享受無縫娛樂。"
-    bg_color: "bg-green-50"
-
-  - id: "truemove-h-esim"
-    title: "TrueMove H eSIM 總覽：最佳 5G 可用性"
-    best_for: "此方案適合需要最高 5G 可用性、經常移動於不同城市與旅遊景點的旅客。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025)，TrueMove H 在 2025 年上半年擁有最高的 5G 可用性，達 74.2%。\n- **下載速度**：中位下載速度 70.73 Mbps（所有技術合併），5G 中位 127.44 Mbps。\n- **上傳速度**：5G 中位上傳速度未直接提供，但整體表現穩定。\n- **延遲**：未提供具體延遲數據，但 5G 網路表現良好。\n- **一致性**：未提供具體一致性數據，但 5G 可用性高代表多數時間可享受高速連線。"
-    arcep_note: "經泰國 NBTC 確認，TrueMove H 為泰國第二大行動網路營運商，擁有廣泛的 5G 頻譜。"
-    connect_note: "啟用過程簡單，支援 eSIM 即時啟用，自動連接 5G 網路。"
-    user_scenarios: "- **[曼谷素萬那普機場]**：在機場入境大廳，TrueMove H 的高 5G 可用性讓您一下飛機就能快速連線，查詢交通資訊。\n- **[芭達雅步行街]**：在夜生活區人潮眾多時，TrueMove H 的 5G 網路確保您能順暢使用社群媒體與即時通訊。\n- **[大城歷史公園]**：在戶外古蹟區域，TrueMove H 的廣泛覆蓋讓您隨時查詢歷史資料，分享旅遊照片。"
-    bg_color: "bg-blue-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 泰國 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 泰國 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 泰國 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 泰國 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段"
-    content: "泰國主要營運商 AIS 與 TrueMove H 支援的 5G 頻段包括 n28 (700 MHz)、n41 (2500 MHz)、n78 (3500 MHz) 等；4G 頻段則包括 Band 1、3、5、8、40 等。購買 eSIM 前請確認您的裝置支援這些頻段，以獲得最佳連線體驗。"
-
-  - heading: "2. KYC 要求"
-    content: "根據泰國國家廣播電視與電信委員會（NBTC）規定，所有預付 SIM 卡（包括 eSIM）均需進行實名認證（KYC）。購買 Roami 泰國 eSIM 時，您需要提供護照照片與個人資訊以完成註冊，確保符合當地法規。"
-
-  - heading: "3. 公平使用政策（FUP）"
-    content: "部分無限數據方案可能設有公平使用政策，例如每日超過 1 GB 後速度降為 128 kbps。請仔細閱讀方案條款，選擇符合您使用需求的方案，避免高速數據用完後影響體驗。"
-
-  - heading: "4. 方案有效期與扣款"
-    content: "eSIM 方案的有效期從啟用那一刻開始計算，而非購買日。例如，7 天方案將在啟用後連續 7 天內有效，時間到後自動失效。請在抵達泰國後再啟用，以充分利用方案天數。"
-
-  - heading: "5. 網路覆蓋與速度差異"
-    content: "雖然 AIS 與 TrueMove H 在全國主要城市提供 5G 服務，但偏遠地區（如島嶼、山區）可能僅有 4G 或 3G 訊號。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025) 數據，AIS 在整體速度與一致性上領先，而 TrueMove H 在 5G 可用性上佔優。請根據您的旅行路線選擇最適合的營運商。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：泰國最佳 eSIM"
-city_guide_desc: "了解哪款泰國 eSIM 是您目的地的最佳選擇，根據城市特性與網路效能推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "曼谷"
-    carriers: "AIS"
-    reason: "曼谷是泰國首都與商業中心，AIS 在 2025 年上半年以中位下載速度 104.33 Mbps 領先，且擁有最佳 5G 網路。在擁擠的市區如暹羅廣場、素坤逸，AIS 的低延遲與高速能確保順暢的串流與導航。"
-
-  - city: "清邁"
-    carriers: "AIS"
-    reason: "清邁以古城與山區景點聞名，AIS 的網路一致性最佳（95% 樣本達標），在素帖山等偏遠地區也能維持穩定連線，適合需要可靠網路的旅客。"
-
-  - city: "普吉島"
-    carriers: "TrueMove H"
-    reason: "普吉島是熱門海島旅遊目的地，TrueMove H 擁有最高的 5G 可用性（74.2%），在芭東海灘、卡倫海灘等人潮密集區能自動切換 5G，確保高速上網。"
-
-  - city: "芭達雅"
-    carriers: "TrueMove H"
-    reason: "芭達雅以夜生活與海灘活動著稱，TrueMove H 的高 5G 可用性在步行街與海灘區域提供穩定連線，適合即時分享照片與使用社群媒體。"
-
-  - city: "大城"
-    carriers: "AIS"
-    reason: "大城是歷史古城，擁有眾多戶外寺廟遺址。AIS 的廣泛覆蓋與低延遲（37 ms）讓您在古蹟區查詢歷史資料、使用地圖導航時不中斷。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 泰國 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在曼谷、清邁等城市，使用 AIS eSIM 享受 5G 高速網路，輕鬆使用地圖導航、即時翻譯與社群分享。AIS 的中位下載速度 104.33 Mbps 確保您在人潮中也能流暢上網。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往泰北山區或國家公園時，AIS 的網路一致性最佳（95% 樣本達標），即使在偏遠地區也能保持基本連線，適合使用離線地圖與緊急通訊。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕遊泰國時，TrueMove H 的高 5G 可用性（74.2%）讓您在主要公路與城市間移動時自動連接 5G，確保導航與音樂串流不中斷。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在普吉島、蘇梅島等海灘度假時，TrueMove H 的 5G 網路讓您在海邊也能高速上網，串流影片、視訊通話，享受無縫的度假體驗。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "泰國 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "成功付款後，多久能收到泰國 eSIM 的 QR code？"
-    a: "付款成功後，您將在幾分鐘內收到內含 QR code 的電子郵件。請檢查您的收件匣（包括垃圾郵件資料夾）。若超過 10 分鐘仍未收到，請聯繫客服協助。"
-
-  - q: "網路覆蓋是否包含泰國的主要交通樞紐，如機場、高鐵與地鐵？"
-    a: "是的，AIS 與 TrueMove H 在泰國所有主要機場（如素萬那普機場、廊曼機場）、BTS 空鐵、MRT 地鐵以及火車站均提供 5G/4G 覆蓋。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025) 數據，AIS 在曼谷等城市擁有最佳網路效能，確保您在交通樞紐也能高速連線。"
-
-  - q: "我可以購買多個泰國數據方案並依序啟用嗎？"
-    a: "可以。您可以在 Roami 平台購買多個 eSIM 方案，並在需要時逐一啟用。請注意，每個方案的有效期從啟用那一刻開始計算，建議在當前方案到期前再啟用下一個，以確保連續覆蓋。"
-
-  - q: "我的泰國 eSIM 方案的有效期與扣款從何時開始計算？"
-    a: "方案的有效期從您掃描 QR code 並成功啟用 eSIM 的那一刻開始計算。例如，7 天方案將在啟用後連續 7 天內有效，時間到後自動失效。扣款則在購買時一次性完成，無後續隱藏費用。"
-
-  - q: "如果我的泰國 eSIM 安裝成功後無法找到網路，該怎麼辦？"
-    a: "請先確認您的裝置已開啟數據漫遊，並手動選擇網路營運商（AIS 或 TrueMove H）。若仍無法連線，請重新啟動手機。若問題持續，請聯繫 Roami 客服，我們將協助您排除問題。"
-
-# 迷思
-myths_title: "⚠️ 泰國 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "泰國 eSIM 只能在曼谷使用，偏遠地區沒有訊號。"
-    truth: "事實：AIS 與 TrueMove H 在全國主要城市與旅遊景點均有覆蓋。AIS 在 2025 年上半年獲得最佳行動網路獎項，其網路一致性達 95%，即使在清邁山區或海島也能維持基本連線。"
-
-  - myth: "所有 eSIM 方案的速度都一樣，選最便宜的就好。"
-    truth: "事實：不同營運商的速度差異顯著。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025) 數據，AIS 的中位下載速度為 104.33 Mbps，而 TrueMove H 為 70.73 Mbps。選擇適合您需求的營運商才能獲得最佳體驗。"
-
-  - myth: "eSIM 安裝複雜，需要專業技術。"
-    truth: "事實：Roami 的 eSIM 安裝非常簡單，只需掃描 QR code 並按照指示操作即可。整個過程約 5 分鐘，無需專業知識。"
-
-  - myth: "泰國 5G 網路只在市中心可用。"
-    truth: "事實：TrueMove H 的 5G 可用性高達 74.2%，代表多數用戶在大部分時間都能連接到 5G 網路。AIS 的 5G 中位下載速度達 177.19 Mbps，在許多郊區與旅遊景點也提供 5G 服務。"
-
-  - myth: "使用 eSIM 會耗電更快，影響手機續航。"
-    truth: "事實：eSIM 與實體 SIM 的耗電量幾乎相同。現代手機已最佳化 eSIM 管理，不會對電池壽命造成明顯影響。"
-
-# 數據來源
-data_sources_title: "泰國 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據顯示，AIS 在 2025 年上半年獲得最佳行動網路與最佳 5G 網路獎項，中位下載速度 104.33 Mbps，5G 中位下載速度 177.19 Mbps。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的報告指出，AIS 在泰國的行動網路體驗中持續領先，包括下載速度、上傳速度與延遲等指標。"
-
-  - name: "泰國國家廣播電視與電信委員會（NBTC）2025"
-    description: "NBTC 的官方數據確認 AIS 與 TrueMove H 為泰國主要行動網路營運商，並持有完整的 5G 頻譜執照。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，數據截至 2025 年上半年。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異，建議出發前確認最新資訊。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的泰國 eSIM"
-cta_desc: "即時存取高速 5G 網路，無需更換 SIM 卡，掃描 QR code 即可啟用。"
-cta_button_text: "立即購買泰國 eSIM"
-cta_button_link: "/thailand-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "泰國 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 泰國 eSIM 指南
+  url: ''
+hero_badge: "泰國 eSIM：哪個網路在哪裡勝出？"
+hero_subtitle_main: "三個網路、一個決定，以及幫你做決定的數據"
 ---
+
+
+泰國三大全國性網路並不能互換，離曼谷越遠，它們之間的差距就越大。在 Ookla 的 2025 上半年泰國報告中，**AIS** 獲選為綜合最佳行動網路與最佳 5G 網路，Speedtest 連線評分為 **76.05**。**TrueMove H** 擁有最高的 5G 可用率，達 **74.2%**。**dtac** 在純速度上落後，但仍交出 **92.5%** 的一致性評分。因此哪一個適合你，取決於你的行程：是城市加海岸線的環線，還是山區與較小的泰國灣離島。在泰國，行銷宣傳與現實有時並不一致；每當出現這種情況，我們會明確指出，而註冊一節則載有那些會讓人吃虧的細則。
+
+裝置支援情況各異，而第一次安裝 eSIM 設定檔對多數旅客來說也是陌生領域。這兩個問題都在其他頁面有說明——[eSIM 相容性頁面](/compatibility/)與[啟用原理說明](/faq/what-is-esim-activation-and-how-does-it-work/)——所以本頁可以專注在網路本身。
+
+**如果只看一段話：** 留在曼谷、普吉島或清邁？AIS 是獲獎最多的網路，TrueMove H 則最常保持 5G 連線。要去離島或北部山區？AIS 在鄉村與離島的口碑最好。想以旅客身分直接向泰國電信業者購買？可以，但 NBTC 規定需要護照加上櫃檯現場人臉掃描。或者跳過所有手續：[免費試用 eSIM](/free-esim/) 零成本測試各網路；輸入優惠碼 **WEB20** 可享 [泰國預付卡 eSIM 方案](/thailand-esim/) 75 折優惠。
+
+## 支撐你 eSIM 網路的營運商
+
+### AIS、TrueMove H 和 dtac 並排比較
+
+| | AIS | TrueMove H | dtac |
+|:---|:---|:---|:---|
+| 旅客預付卡 eSIM | 旅客 eSIM 可於線上、AIS 門市及機場櫃檯購買 | 旅客 eSIM 可於線上及 True 門市購買 | 2023 年合併後以 True 集團名義販售旅客 eSIM |
+| 優勢所在 | Ookla 2025 上半年綜合最佳網路與最佳 5G 網路 | 全國最高 5G 可用率 | 多數旅客方案中入門價最低 |
+| 最便宜的旅客入門方案 | 8 天 15 GB 方案約 299 泰銖 | 8 天 15 GB 方案約 299 至 449 泰銖 | 8 天 15 GB 方案約 299 泰銖 |
+| 旅客取得方式 | ★★★ — 線上購買 eSIM，或門市出示護照加人臉掃描 | ★★★ — 線上購買 eSIM，或門市出示護照加人臉掃描 | ★★★ — True 集團下相同的線上或門市管道 |
+
+**決定你旅程的是最後一行：** 三個網路都販售旅客 eSIM，但在泰國購買實體 SIM 卡必須經過 NBTC 註冊，需要護照與現場人臉掃描。能跳過櫃檯的 eSIM 購買管道是出發前線上購買的方案，它們同樣讓你連上 AIS、TrueMove H 或 dtac 的基地台。
+
+### NT 與依附在 AIS 或 TrueMove H 上的轉售品牌
+
+除了三大業者之外，泰國還有一個國營的第四網路，以及一層向 AIS 或 True 租用容量的行動虛擬品牌。它們很少比主流業者更便宜，但它們解釋了為什麼有些頁面上會出現掛在熟悉基地台上的陌生名稱。
+
+| 品牌 | 運行的網路 | eSIM | 適合誰 |
+|:---|:---|:---|:---|
+| National Telecom (NT)，前身為 CAT 的 my | 自有 2300 MHz 網路加漫遊協議 | 部分後付費方案提供 eSIM | 長期停留及想要國營替代選擇的使用者 |
+| Aimobile 及其他行動虛擬品牌 | 依附 AIS 或 True 網路 | 因品牌而異 | 想要 AIS 覆蓋率但不想辦 AIS 手續的精打細算旅客 |
+| 旅遊 eSIM 轉售商 | AIS、TrueMove H 或 dtac | 出發前以 QR 碼交付 | 想完全跳過護照排隊的旅客 |
+
+兩點提醒。第一，依附其他網路的平價品牌會把你限制在宿主網路的覆蓋範圍內，所以掛在 AIS 上的行動虛擬品牌只給你 AIS 的基地台，別無其他。第二，向任何單一電信業者購買的預付卡方案都綁定一個網路，這在你離開城市或跨到較安靜的離島時就會有影響。
+
+### 可以直接向 AIS 買泰國 eSIM 嗎？
+
+| | 直接向泰國電信業者購買 | 泰國網路上的旅遊 eSIM |
+|:---|:---|:---|
+| 你需要什麼 | 護照加現場人臉掃描；部分後付費管道需要泰國地址 | 一支相容且未鎖定的手機 |
+| 設定檔如何交付 | App 內啟用、門市設定，或電信業者發出的 QR 碼 | 結帳後立即以 QR 碼或 App 安裝 |
+| 15 GB 典型價格 | 旅客方案約 299 至 699 泰銖，外加門市註冊步驟 | 一個一次性預付價格，無需排隊註冊 |
+| 網路存取 | 單一電信業者 | 在可用處自動切換 AIS、TrueMove H 和 dtac |
+| 最適合 | 停留一個月以上，或需要泰國電話號碼的人 | 一到三週的旅程，以及想在落地時就上線的人 |
+
+對標準的兩週旅程而言，旅遊 eSIM 在價格上勝出。泰國預付卡方案按套餐收費，並把你綁定在一個註冊預約上；旅遊 eSIM 以批發價購買流量，讓裝置在多個網路之間移動。電信業者的優勢在於長期與語音：一個真正的泰國門號、本地通話，以及到第三個月仍然有效的方案。
+
+多網路 eSIM 設定檔是實用的中間路線：[Roami 的泰國 eSIM](/thailand-esim/) 保留即時交付的便利，在 AIS、TrueMove H 和 dtac 之間自動切換，讓你在離島落在 AIS、在城市落在 TrueMove H，而且不必買兩次。
+
+## 泰國 eSIM 的相容性檢查清單
+
+決定你的手機能否在泰國電信業者的網路上使用的有三件事：頻段、鎖定狀態，以及一小串特定裝置的怪癖。以下三項全部涵蓋。
+
+### Android 裝置能用泰國 eSIM 嗎？
+
+泰國電信業者的 5G 建構在特定頻段上——主要是鄉村覆蓋用的 **n28 (700 MHz)**、城市容量用的 **n41 (2600 MHz)** 與 **n78 (3500 MHz)**，都會區另有 **n1** 與 **n3**。許多國際手機，包括若乾 iPhone 區域版本，出廠時並不具備完整的泰國中頻段組合。這些手機仍然可用：離開人口稠密市區後會回落到 4G，在市中心沒問題，在安靜的離島上則令人沮喪。
+
+頻段表在實務上很少幫得上旅客。可靠的做法是用型號而非行銷名稱，去對照[裝置相容性清單](/compatibility/)。如果你想先了解原理，[手機載入 eSIM 設定檔時會發生什麼](/faq/what-is-esim-activation-and-how-does-it-work/)有詳細說明。
+
+| 技術 | 泰國使用的頻段 |
+|:---|:---|
+| 4G LTE | B1 (2100 MHz)、B3 (1800 MHz)、B5 (850 MHz)、B8 (900 MHz)、B20 (800 MHz)、B28 (700 MHz)、B40 (2300 MHz) |
+| 5G NR | n1 (2100 MHz)、n3 (1800 MHz)、n28 (700 MHz)、n40 (2300 MHz)、n41 (2600 MHz)、n78 (3500 MHz)、n79 (4500 MHz) |
+
+一支具備 n28 和 n41 的手機即可覆蓋承載泰國大部分 5G 容量的中頻段組合；缺少這些頻段意味著更多回落到 4G。
+
+### 你的手機與泰國網路相容嗎？
+鎖定的手機是泰國 eSIM 安裝直接失敗最常見的原因，而泰國沒有任何規定強制電信業者為你解鎖裝置。
+
+泰國不要求電信業者在一定期限後解鎖手機，所以解鎖完全取決於你原屬電信業者的政策。如果裝置已付清款項，多數原屬電信業者會在數小時內解除鎖定，通常是免費的；如果還在分期付款中，鎖定會一直維持到結清餘額為止。
+
+**檢查方法：** iPhone 依序進入「設定 → 一般 → 關於本機 → 電信鎖（Carrier Lock）」。若顯示「無 SIM 卡限制（No SIM restrictions）」，就可以直接安裝。若顯示「SIM 卡已鎖定（SIM locked）」，在業者解鎖之前，任何外部設定檔都無法安裝。
+
+**解決方法：** 聯繫鎖定手機的電信業者並要求解除鎖定。之後再嘗試安裝你的泰國 eSIM。
+
+如果你買的是二手機，或來自你已不再使用的電信業者的手機，請預設它可能是鎖定的，並在出發前先確認。
+
+### 泰國的 IMEI/EID 要求
+
+| 裝置 | 症狀 | 該怎麼做 |
+|:---|:---|:---|
+| 中國大陸版 iPhone | 完全沒有「加入 eSIM」選項——硬體在該市場被停用 | 無法解決；改用實體 SIM 卡或另一支裝置 |
+| 電信業者綁約版 Samsung | 設定中 eSIM 選項變灰 | 先請電信業者解鎖，然後重新開機 |
+| 缺少 n28 或 n41 的國際手機 | 在曼谷很快，在離島與山區只有 4G | 屬預期行為——見下方區域說明 |
+| 雙 SIM 卡使用者 | eSIM 已安裝但沒有流量 | 把 eSIM 設為用於行動數據的門號 |
+
+如果這些都不符合你的情況，原因在手機端而不是泰國網路。先在 [eSIM 相容性測試](/compatibility/)確認你的手機，再購買。
+
+## 比較方案價值
+
+共有三條路徑，它們的差異更多在手續而非價格：AIS 直接購買、TrueMove H 直接購買，以及 True 集團內的 dtac。逐一說明每條路徑：
+
+### 如何取得泰國 eSIM
+
+AIS 是覆蓋範圍最大的網路，也是 Ookla 2025 上半年報告中獲獎最多的業者。國際旅客可以用兩種方式購買旅客 eSIM。
+
+**AIS eSIM 逐步教學：**
+
+1. 從 AIS 旅客頁面或轉售商線上購買並在結帳時選擇 eSIM，或到 AIS 門市或機場櫃檯現場購買。
+2. 若線上購買，掃描以電子郵件寄送的 QR 碼，並將門號標籤命名為「Thailand」。
+3. 若門市購買，交出護照並完成現場人臉掃描；工作人員會當場啟用設定檔。
+4. 將 eSIM 設為你的行動數據門號，並開啟數據漫遊。
+
+AIS 旅客方案從 8 天 15 GB 約 299 泰銖的套餐，到接近 899 至 1199 泰銖的 30 天套餐，中間還有社群應用程式吃到飽的等級。購買前先確認你的機型，並保留 AIS App 以便儲值。
+
+### TrueMove H 有賣旅客 eSIM 嗎
+
+TrueMove H 是 True Corporation 旗下的消費者品牌，透過與 AIS 相同的線上與門市管道販售旅客 eSIM。
+
+TrueMove H 的優勢在 5G 可用率：Ookla 測得 TrueMove H 在 2025 上半年擁有泰國最高的 5G 可用率 **74.2%**。它的旅客方案定價與 AIS 相仿，8 天 15 GB 套餐約 299 至 449 泰銖，30 天吃到飽套餐約 1199 泰銖。門市規定也一樣：護照加人臉掃描，然後立即啟用。
+
+### 泰國本地 SIM 卡與旅遊 eSIM 比較
+
+有。dtac 於 2023 年 3 月與 True 合併組成 True Corporation，dtac 仍以自己的消費者品牌運作，擁有自己的旅客 eSIM 與 SIM 卡產品。兩個網路已於 2025 年 10 月完成基地台整合為單一「One Network」，因此 dtac eSIM 現在也受益於合併後的基礎設施。
+
+dtac 的旅客方案通常入門價最低：8 天 15 GB 套餐可低至約 299 泰銖，15 天 30 GB 套餐約 599 泰銖，30 天套餐約 1199 泰銖。覆蓋率在城市很強，主要離島也不錯，但 AIS 在北部鄉村與較小的泰國灣離島仍然領先，所以要把價格與你的目的地一起衡量。
+
+### 旅客預付卡 eSIM 方案一覽
+
+以下是標準的機場與官方管道旅客方案。價格因零售商而異，機場櫃檯通常比線上略高；所有數字均以泰銖計。
+
+| 電信業者 | 8 天方案 | 15 天方案 | 30 天方案 |
+|:---|:---|:---|:---|
+| AIS | 15 GB，約 299 泰銖 | 30 GB，約 599 至 699 泰銖 | 50 GB 約 899 泰銖；吃到飽約 1199 泰銖 |
+| TrueMove H | 15 GB，約 299 至 449 泰銖 | 30 GB，約 699 泰銖 | 吃到飽，約 1199 泰銖 |
+| dtac | 15 GB，約 299 泰銖 | 30 GB，約 599 泰銖 | 吃到飽，約 1199 泰銖 |
+
+每個旅客方案都運行在單一電信業者的網路上，並在公平使用量上限之後降速而非斷網，所以請把流量額度與你的串流和導航用量匹配。
+
+### 泰國 eSIM 流量方案與費率
+
+- **護照** — NBTC 規定任何門市 SIM 卡或 eSIM 註冊都必須出示；外籍旅客必須出示正本
+- **泰國地址或飯店名稱** — 部分電信業者註冊表格會要求填寫，即使是旅客也一樣
+- **一支相容且未鎖定的手機** — 出發前先確認鎖定狀態
+- **Wi-Fi** — 在落地前安裝設定檔，而不是在擁擠的機場櫃檯
+- **付款方式** — 電信業者 App 與部分櫃檯偏好本地支付方式；旅遊 eSIM 接受國際信用卡
+- **IMEI 與 EID** — 撥 `*#06#`，以便啟用卡住時支援人員能識別裝置
+
+## 本地電信業者：AIS、TrueMove H 與 dtac
+
+本節有兩個變數很重要：你目的地點的實際速度，以及你的旅程形態。稍後的效能數據回答速度問題；行程表回答另一個。
+
+### AIS 與 TrueMove H：哪個泰國電信業者更快？
+
+以下所有數字來自 Ookla 的 Speedtest 連線報告（**泰國，2025 上半年**，蒐集期間為 2025 年 1 月至 6 月），屬全國層級的電信業者測量。完整的個別業者報告發布於 [Ookla 泰國 2025 上半年報告](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025)。
+
+| 指標 | AIS | TrueMove H | dtac |
+|:---|:---|:---|:---|
+| Speedtest 連線評分 | **76.05**（最佳行動網路） | 73.77 | 71.9 |
+| 速度評分 | **69.79**（最快） | 65.68 | 60.99 |
+| 一致性評分 (%) | **95** | 93.4 | 92.5 |
+| 5G 可用率 (%) | 72.7 | **74.2**（最高） | 65.2 |
+| 遊戲評分 | **79.71** | 77.3 | 76.73 |
+| 五星評級 | **3.6** | 3.22 | 3.23 |
+
+Ookla 的報告將 **AIS** 評為泰國 2025 上半年的綜合最佳行動網路與最佳 5G 網路，**TrueMove H** 在 5G 可用率上領先，**dtac** 在所有速度指標上排第三，但一致性差距只在幾分之內。空白儲存格表示沒有公開數字；沒有任何數字是為了填滿表格而估計的。有兩點值得注意：AIS 贏在結合速度、一致性與覆蓋率的綜合連線評分，而 TrueMove H 贏在你實際連上 5G 的時間比例。
+
+就全國整體而言，Ookla 的 [Speedtest Global Index](https://www.speedtest.net/global-index/thailand) 顯示泰國 2026 年 8 月的行動下載中位數為 **134.45 Mbps**，全球排名第 **26**，延遲 **20 ms**。Cable.co.uk 將泰國 1 GB 行動數據的價格定在約 **0.41 美元**，在 237 個市場中排第 34 位，而全球平均為 2.59 美元——泰國是亞洲較便宜的行動數據市場之一。
+
+### 泰國 eSIM 選擇：按行程推薦
+
+| 行程 | 最合適的電信業者 | 原因 | 注意事項 |
+|:---|:---|:---|:---|
+| 城市小旅行 — 曼谷、清邁、芭達雅 | AIS 或 TrueMove H | 兩者在市區都很出色；AIS 綜合評分最高，TrueMove H 最常保持 5G | 曼谷較深的 MRT 路段任何業者都會失去訊號 |
+| 海灘假期 — 普吉島、喀比、華欣 | TrueMove H 或 AIS | 兩者對度假村走廊覆蓋良好；TrueMove H 的 5G 在線時間領先 | 離島之間的船程訊號時有時無 |
+| 跳島 — 蘇美島、龜島、皮皮島 | AIS | AIS 在較小的泰國灣離島口碑最好 | 離島之間的安靜路段訊號變薄 |
+| 北部山區 — 清邁、因他儂山、夜豐頌 | AIS | 三者中鄉村與高地覆蓋最好 | 山區的鄉道仍會降到 4G 或完全沒有訊號 |
+| 遊戲與串流 | AIS | 遊戲評分最高，達 79.71 | 上傳速度略遜於下載 |
+| 預算型旅客 | dtac | 最便宜的旅客入門方案約 299 泰銖 | 離開城市後覆蓋較弱 |
+| 湄公河邊境 — 清萊、廊開 | AIS | 邊境附近鄉村覆蓋最廣 | 鄰國網路的跨境訊號可能干擾漫遊判斷 |
+| 多國環線 | 具區域覆蓋的旅遊 eSIM | 僅限泰國的 eSIM 在邊境會無預警失效 | 寮國或柬埔寨一日遊經常讓人中招 |
+
+### AIS 與 TrueMove H：覆蓋率比較
+
+泰國的覆蓋跟著旅客地圖走，而不是行政地圖：曼谷到普吉島的走廊沿線很穩，一旦你用大陸換成較小的離島，覆蓋就明顯變薄。逐列說明：
+
+| 區域 | 實際情況 |
+|:---|:---|
+| 曼谷與中部平原 | 三個網路在主要城市都有 5G，且在城市之間的高速公路上也能保持。AIS 最快；TrueMove H 最常連上 5G。 |
+| 普吉島與安達曼海岸 | 度假城鎮內可靠；較安靜的海岸公路路段與船程上訊號減弱。AIS 與 TrueMove H 都覆蓋海灘區。 |
+| 清邁與北部 | 市區覆蓋沒問題——落差出現在鄉道上與因他儂山上。AIS 的高地覆蓋最好。 |
+| 蘇美島、帕岸島與泰國灣離島 | 有人居住的島嶼覆蓋穩定，小島上（如龜島偏遠海灣）則稀薄或沒有。AIS 在主要街道之外領先。 |
+| 伊善與東北部鄉村 | 城鎮有覆蓋，城鎮之間的鄉間並不連續。AIS 覆蓋最廣；dtac 在這裡較弱。 |
+| 湄公河邊境府 | 城鎮內有覆蓋，但寮國的訊號可能出現在你的手機上，干擾網路選擇。請手動鎖定泰國電信業者。 |
+
+規劃會離開泰國的路線？先看 [越南 eSIM](/vietnam-esim/)，比較 [柬埔寨 eSIM 方案](/cambodia-esim/)，或看看 [馬來西亞 eSIM 方案](/malaysia-esim/)。如果你的行程多次跨越國境，一張 [亞洲](/asia-esim/) eSIM 能省下買兩次的錢。
+
+多網路設定檔的意義正是這種自動切換。能在 AIS 與 TrueMove H 之間移動的設定檔，涵蓋任何單一業者方案無法覆蓋的區域性缺口。
+
+## 手動 APN 設定值
+
+旅客 SIM 卡通常會自動設定，所以請把 APN 畫面視為排障工具，而不是設定步驟。本節提供所有業者的數值、少數需要手動輸入的情況，以及逐項點選的路徑。
+
+### AIS、TrueMove H 和 dtac eSIM 的 APN 值
+
+只有當你**直接向泰國電信業者**購買 SIM 卡或 eSIM 時才需要這些。泰國的旅遊 eSIM 設定檔出廠時已預載自己的 APN。
+
+| 電信業者 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| AIS | `internet` | 留空 | 留空 |
+| TrueMove H | `internet` | 留空 | 留空 |
+| dtac | `www.dtac.co.th` | 留空 | 留空 |
+
+使用者名稱與密碼請留空。若業者要求填入數值，設定檔的說明文件中會載明。
+
+### 泰國電信業者的 APN 表
+
+AIS、TrueMove H 和 dtac 的旅客設定檔通常已預先設定，所以手動輸入屬於排障動作而非設定步驟。在以下情況才需要用到：
+
+- 不會自動擷取電信業者設定的舊機型
+- 以手動啟用碼而非 QR 掃描安裝的設定檔
+- 自動設定未執行的電信業者預付卡 eSIM
+- 旅遊 eSIM 幾乎不需要——這正是受管理設定檔的意義所在
+
+### 手動輸入泰國 APN：時機與原因
+- **iPhone：** 設定 → 行動服務（Cellular）→ 點選 eSIM 門號 → 行動數據網路（Cellular Data Network）→ 輸入 APN
+- **Android：** 設定 → 連線 → 行動網路 → 存取點名稱（APN）→ 新增 APN
+
+儲存後重新啟動手機。如果流量仍然無法載入，請確認目前使用的數據門號是泰國設定檔而不是你的原屬 SIM 卡。
+
+## 從購買到可用流量：你的 eSIM 完整流程
+
+這一節從頭到尾走一遍：從乾淨安裝到可用流量，再加上泰國網路實際會出現的故障模式，按照你會遇到的順序排列。
+
+### 如何設定泰國 eSIM
+| # | 檢查項目 | 「正常」的樣子 |
+|:---|:---|:---|
+| 1 | 手機未被電信鎖定 | 關於本機畫面顯示電信鎖：「無 SIM 卡限制（No SIM restrictions）」 |
+| 2 | 手機支援 eSIM | `*#06#` 顯示 EID，或[相容性查詢工具](/compatibility/)確認你的機型 |
+| 3 | QR 碼與啟用碼已保存 | 截圖同時存在手機**與**雲端儲存空間 |
+| 4 | 設定檔在出發前已安裝 | 在家透過 Wi-Fi 安裝；設定檔在落地時連線 |
+| 5 | 數據門號與漫遊已設定 | eSIM 被選為行動數據，數據漫遊已開啟 |
+
+第 4 步請在家完成。素萬那普與廊曼機場的抵達大廳在你最需要網路的那一刻恰恰最擁擠，而在當地安裝的設定檔還要和所有人的下載搶頻寬。
+
+### 啟用你的泰國 eSIM
+
+安裝的通用部分——掃碼、命名門號、開啟漫遊——在我們的[逐步啟用指南](/faq/how-to-activate-an-esim/)中。各泰國電信業者在此之上新增的部分：
+
+- **AIS：** eSIM 以 QR 碼透過電子郵件或 App 交付；門市啟用需要護照加人臉掃描
+- **TrueMove H：** 同樣的線上 QR 流程；城市 5G 很強，所以在曼谷預期可快速連上
+- **dtac：** True 集團下的 eSIM；自 2025 年 10 月起受益於合併後的 One Network
+- **旅遊 eSIM：** 以 QR 碼安裝，同一個設定檔可漫遊到 AIS、TrueMove H 或 dtac 中訊號最強的一個
+
+### 泰國 eSIM 四步排障流程
+
+一般啟用錯誤——設定檔無法下載、掃描失敗、eSIM 裝了但一直無法註冊——在我們的 [eSIM 錯誤排障指南](/faq/esim-activation-errors-troubleshooting-guide/)中。以下四種模式值得先點名，因為它們在泰國不斷重複出現。
+
+**A. eSIM 無法安裝**
+1. 查看設定 → 一般 → 關於本機：電信鎖必須顯示「無 SIM 卡限制（No SIM restrictions）」
+2. 檢查 QR 碼是否清晰無污損且未使用過，因為多數只能掃描一次
+3. 詢問電信業者設定檔是否仍處於待處理狀態
+
+**B. 已安裝，但沒有訊號格**
+1. 再次檢查鎖定狀態
+2. 設定 → 行動服務 → 網路選擇 → 手動選擇 AIS、TrueMove H 或 dtac，而不是自動，特別是在湄公河邊境附近會出現寮國基地台的地方
+3. 清除網路設定，然後重新啟動
+
+**C. 有訊號格，但沒有網路**
+1. 對照上方你業者的那一列，再檢查一次 APN
+2. 把數據門號指向泰國 eSIM 而不是你的原屬 SIM 卡。
+3. 檢查流量額度是否已用完——旅客方案在公平使用量上限後會降速而不是停止
+
+**D. 在離島上顯示「SOS」或「僅限緊急電話」**
+1. eSIM 必須在 SIM 卡管理員中切換為開啟
+2. 停用或刪除任何其他啟用中的 SIM 卡或 eSIM 設定檔以避免衝突
+3. 重新開機並重設網路設定
+4. 僅在最後一步，刪除設定檔並用新的 QR 碼重新安裝
+
+### 聯繫泰國 eSIM 客服前要準備的資訊
+
+| 需要提供的資訊 | 在哪裡找 |
+|:---|:---|
+| 訂單或帳號號碼 | 確認電子郵件 |
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+| EID | `*#06#` |
+| 錯誤截圖 | 趕在畫面變化之前截取 |
+| 目前的 APN 設定 | 設定 → 行動數據網路 |
+| 數據漫遊狀態 | 設定 → 行動服務 → 你的 eSIM 門號 |
+| 已嘗試過的步驟 | 留一份簡短清單 |
+
+## 泰國電信業者 eSIM 常見問題
+
+### 旅客的 AIS eSIM 方案
+
+有。AIS 在線上、AIS 門市與機場櫃檯販售旅客 eSIM。線上 eSIM 以 QR 碼交付，無需臨櫃辦理；門市 SIM 卡依 NBTC 規定需要護照與現場人臉掃描。AIS 旅客方案 8 天 15 GB 起價約 299 泰銖。
+
+### 在泰國註冊 SIM 卡涉及什麼？
+
+門市 SIM 卡或 eSIM 的話，是的——NBTC 規定每個新門號都要護照註冊加現場人臉掃描。如果你在出發前線上購買 TrueMove H eSIM，註冊由賣方處理，你就能跳過櫃檯排隊。
+
+### AIS 與 TrueMove H：在泰國哪個更好？
+
+有。dtac 於 2023 年 3 月與 True 合併組成 True Corporation，但 dtac 仍以 dtac 品牌販售自己的旅客 SIM 卡與 eSIM 產品。兩個網路已於 2025 年 10 月完成基地台整合為單一 One Network，因此 dtac eSIM 現在運行在合併後的基礎設施上。
+
+### 誰宣稱在泰國擁有最廣的覆蓋？
+
+AIS 在較小的泰國灣離島（如龜島以及蘇美島和皮皮島較安靜的部分）口碑最好。TrueMove H 和 dtac 對主要度假區街道覆蓋良好，但在島嶼之間移動或搭船時會變薄。
+
+### 泰國 eSIM 麻煩裝置
+
+不需要。旅客用的 eSIM 通常只有數據，不需要本地門號。你可以用 WhatsApp、LINE、FaceTime 與類似應用程式通話和傳訊。只有當特定銀行 App、飯店訂房或外送服務要求泰國門號時才需要。
+
+### 旅遊 eSIM 和我的原屬 SIM 卡可以同時使用嗎？
+
+可以，而且這是明智的設定。慣用的分工在泰國很有效：實體 SIM 卡留原屬門號，本地設定檔跑數據。把數據設定指向泰國設定檔，原屬門號留給通話。關閉原屬門號的漫遊，背景流量就不會算到你的帳單上。
+
+### 鎖定的手機怎麼在泰國使用？
+
+出發前向鎖定它的電信業者申請解鎖；泰國沒有規定強制本地解鎖。你的手機在「設定 → 一般 → 關於本機 → 電信鎖（Carrier Lock）」下顯示鎖定狀態。顯示「SIM 卡已鎖定（SIM locked）」的手機在原屬電信業者解除鎖定之前，無法安裝任何泰國 eSIM。
+
+### 泰國方案中的省錢選擇
+
+dtac 通常入門價最低，8 天 15 GB 旅客套餐約 299 泰銖，AIS 和 TrueMove H 起價接近同一數字，30 天吃到飽等級則爬升到約 1199 泰銖。平價品牌與 7-Eleven 空白 SIM 卡起價更低，但需要另外加購套餐。
+
+### 為什麼我的 eSIM 在搭船時失效了？
+
+離島之間的船程會讓你離開基地台範圍，手機可能抓住微弱的鄰國訊號或完全失去服務。這在較安靜的泰國灣與安達曼航線上是預期行為。開船前下載離線地圖，靠岸後手動重新選擇你的泰國電信業者。
+
+### 一張 eSIM 能同時覆蓋泰國與鄰國嗎？
+
+泰國 eSIM 只在泰國境內有效。跨境到寮國、柬埔寨或馬來西亞需要另一個方案或區域 eSIM。多國 eSIM 涵蓋區域旅行，比在每個邊境購買更省事。
+
+### 落地泰國時 eSIM 晶片做了什麼
+
+eSIM 晶片永久位於你的手機內，儲存你載入的任何設定檔。設定檔一旦寫入晶片，這個門號的行為就和手機上其他連線一樣。其背後的交付鏈，包括為什麼 QR 碼只能使用一次，在 [eSIM 設定檔如何安裝](/faq/what-is-esim-activation-and-how-does-it-work/)中有說明。
+
+### 在 AIS、TrueMove H 和 dtac 上完成啟用
+
+依序處理上方四種泰國特有模式——鎖定狀態、網路選擇、APN 與數據門號，然後是設定檔重新安裝——如果仍然失敗，[排障指南](/faq/esim-activation-errors-troubleshooting-guide/)中更完整的錯誤目錄涵蓋其餘情況。聯繫客服前請備妥 EID、訂單號碼和錯誤截圖。
+
+還有問題？[完整 FAQ 索引](/faq/)
+
+## 如何解讀泰國 eSIM 資料來源
+
+- **Ookla Speedtest 連線報告 — 泰國 2025 上半年** — [個別業者報告](https://www.ookla.com/research/reports/thailand-speedtest-connectivity-report-h1-2025)載有本文使用的每個業者層級數字：AIS 的 76.05 連線評分與最佳行動網路獎、TrueMove H 的 74.2% 5G 可用率，以及 dtac 的 92.5% 一致性評分。
+- **Ookla Speedtest Global Index** — [泰國條目](https://www.speedtest.net/global-index/thailand)逐月更新 134.45 Mbps 的全國行動中位數與全球第 26 名的排名。
+- **Cable.co.uk 全球數據定價** — [完整國家表格](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)提供泰國每 GB 0.41 美元的平均價格。
+- **NBTC（國家廣播及電信委員會）** — [監管機構網站](https://www.nbtc.go.th/)制定了上文引用的 SIM 卡註冊與人臉掃描規定（該網站封鎖爬蟲，但仍是權威發布方）。
+- **電信業者頁面** — [AIS](https://www.ais.th/en)、[True Corporation 與 TrueMove H](https://www.true.th/en) 和 [dtac](https://www.dtac.co.th/en) 是核對方案價格、交付方式與身分要求的來源。任何數字都要與兩個獨立來源交叉核對後才會登上本頁。
+
+這些都僅為第三方測量。實際結果會隨你的手機、你抓住的頻段，以及當地基站的負載而變化。
+
+## 一分鐘搞定你的泰國 eSIM
+
+從素萬那普機場開始就保持聯繫。Roami 讓你的數據在 AIS、TrueMove H 和 dtac 之間移動，你不用碰任何設定，城市到離島的切換全自動。第一次使用？先領取[免費 eSIM 試用](/free-esim/)，或使用優惠碼 **WEB20** 享 [泰國 eSIM 方案](/thailand-esim/) 75 折優惠。
+
+[購買泰國 eSIM 方案](/thailand-esim/)
+
+[在 roamiapp.com 購買](/thailand-esim/)
+
+*僅限 Roami 新客戶*
+
+[開始泰國免費試用](/free-esim/)

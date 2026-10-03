@@ -1,283 +1,380 @@
 ---
-title: "去匈牙利上網好困擾？5G eSIM 方案挑選懶人包。"
-description: "挑選匈牙利 eSIM 不用再煩惱，Roami 實際測試 Yettel、Magyar Telekom 和 One 的 5G 速度與覆蓋範圍，為您直接推薦最佳方案。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 匈牙利，預付數據，5G 網路，Yettel，Magyar Telekom，One，匈牙利旅遊上網，匈牙利 eSIM 推薦"
-site_name: "Roami"
-brand_name: "Roami"
+title: "匈牙利 eSIM 怎麼挑？Yettel、Magyar Telekom、One 比較"
+description: "匈牙利 eSIM 該辦哪一家電信業者？Roami 評比 Yettel、Magyar Telekom 與 One 的 5G 網速、資費與覆蓋率，從布達佩斯市區到多瑙河灣與東部平原逐段實測，整理預付方案、申辦規定與 APN 設定，幫你選對匈牙利 eSIM。"
+image: "img/esim/carriers/hungary-esim-carrier-guide.jpg"
+date: "2026-09-26T18:40:50+00:00"
+keywords: eSIM Hungary, Hungary eSIM 電信業者, Yettel eSIM, Magyar Telekom eSIM, One Hungary, 預付卡流量, 5G 網路, travel eSIM Hungary
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "匈牙利 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇭🇺] 匈牙利 最新旅遊 eSIM 指南"
-hero_subtitle_main: "匈牙利 eSIM：24/7 高速數據傳輸"
-hero_subtitle_highlight: "Yettel 與 Magyar Telekom 頂級 5G 覆蓋"
-hero_description_line1: "透過 QR code 快速安裝，立即使用。匈牙利 eSIM 幫您避開機場排隊人潮，提供智慧上網解決方案。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "匈牙利 eSIM"
-hero_link_url: "/hungary-esim/"
-tldr_summary: "【數位遊牧民族的最佳選擇：無縫跨國 5G 網路，連續多國旅行不斷線】根據 Ookla 2025 上半年數據，Yettel 在匈牙利提供最快 5G 中位下載速度 369.08 Mbps，並獲得最佳行動網路與 5G 網路獎項。Magyar Telekom 則擁有最高 5G 可用性（50.8%）。Roami 的匈牙利 eSIM 讓您無需更換實體 SIM 卡，即可享受這些頂級網路，無論是穿梭布達佩斯、前往 Szombathely 或 Miskolc，都能保持高速連線。結論：選擇 Roami eSIM，等於擁有匈牙利最快的行動網路體驗。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "匈牙利 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：匈牙利 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "匈牙利 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：匈牙利 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 匈牙利 eSIM 前須知"
-
-  - href: "#faq"
-    text: "匈牙利 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "匈牙利 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：匈牙利 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Yettel"
-    carrier_class: "text-purple-600"
-    reason: "Yettel 在 2025 上半年獲得最佳行動網路與最快 5G 網路獎項，中位 5G 下載速度達 369.08 Mbps，適合大量上傳下載、視訊會議與雲端工作。"
-
-  - travel: "一般旅遊者"
-    carrier: "Magyar Telekom"
-    carrier_class: "text-blue-600"
-    reason: "Magyar Telekom 擁有最高 5G 可用性（50.8%），且影片串流體驗評分最高（91.23），適合在市區與景點穩定觀看影片、使用社群媒體。"
-
-  - travel: "預算有限者"
-    carrier: "One"
-    carrier_class: "text-green-600"
-    reason: "One 提供最佳遊戲體驗，且價格通常較具競爭力，適合輕度上網、通訊軟體與導航使用。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 匈牙利 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "yettel-esim"
-    title: "Yettel eSIM 總覽：最快 5G 網路"
-    best_for: "此方案絕對是最佳選擇，如果您需要極速 5G 下載與上傳，適合重度數據使用者、遠端工作者與遊戲玩家。"
-    core_data: "- **5G 下載速度**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025)，中位 5G 下載速度為 369.08 Mbps，領先其他營運商。\n- **5G 上傳速度**：中位 5G 上傳速度為 37.18 Mbps。\n- **4G 下載速度**：中位 4G 下載速度為 68.40 Mbps。\n- **4G 上傳速度**：中位 4G 上傳速度為 15.02 Mbps。\n- **網路一致性**：94.6% 樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻。\n- **5G 遊戲體驗**：最佳 5G 遊戲體驗評分。"
-    arcep_note: "經當地電信主管機關 NMHH（Nemzeti Média- és Hírközlési Hatóság）確認，Yettel 持續投資 5G 基礎建設，符合國家頻譜使用規範。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時開通，無需前往門市。"
-    user_scenarios: "- **[布達佩斯鏈橋]**：在鏈橋上直播多瑙河日落，Yettel 的 5G 上傳速度確保畫面清晰不卡頓。\n- **[赫維茲溫泉湖]**：在歐洲最大的生物活性溫泉湖旁，使用高速網路分享即時動態，下載速度讓您秒傳高畫質影片。\n- **[德布勒森大教堂]**：在德布勒森市中心使用導航與地圖，4G/5G 覆蓋穩定，避免迷路。"
-    bg_color: "bg-purple-50"
-
-  - id: "magyar-telekom-esim"
-    title: "Magyar Telekom eSIM 總覽：最佳 5G 可用性與影片串流"
-    best_for: "此方案適合重視影片串流品質與穩定 5G 連線的使用者，尤其適合在市區長時間觀看 YouTube、Netflix 等平台。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025)，Magyar Telekom 的 5G 可用性最高，達 50.8%。\n- **影片串流體驗**：最佳行動影片串流體驗評分 91.23。\n- **5G 下載速度**：中位 5G 下載速度為 101.82 Mbps。\n- **5G 上傳速度**：中位 5G 上傳速度未單獨列出，但整體表現穩定。"
-    arcep_note: "經 NMHH 確認，Magyar Telekom 擁有廣泛的 5G 頻譜資源，並持續擴大全國覆蓋。"
-    connect_note: "eSIM 啟用簡單，支援多數現代手機，提供穩定的連線體驗。"
-    user_scenarios: "- **[布達佩斯城堡區]**：在歷史景點使用手機觀看導覽影片，Magyar Telekom 的高影片串流評分確保流暢播放。\n- **[塞切尼溫泉浴場]**：排隊等候時串流音樂或影片，5G 可用性高，不易斷線。\n- **[埃格爾城堡]**：在城堡內使用社群媒體打卡上傳，網路穩定可靠。"
-    bg_color: "bg-blue-50"
-
-  - id: "one-esim"
-    title: "One eSIM 總覽：最佳遊戲體驗與經濟實惠"
-    best_for: "此方案適合預算有限但仍需良好網路體驗的使用者，尤其適合輕度上網、遊戲與通訊。"
-    core_data: "- **5G 下載速度**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025)，中位 5G 下載速度為 66.84 Mbps。\n- **遊戲體驗**：One 獲得最佳 ISP 遊戲體驗獎項，適合線上遊戲。\n- **整體表現**：雖然速度不及 Yettel，但價格更具競爭力。"
-    arcep_note: "經 NMHH 確認，One 在匈牙利市場提供穩定的 4G/5G 服務，符合監管要求。"
-    connect_note: "eSIM 啟用快速，支援即時開通，適合短期旅遊使用。"
-    user_scenarios: "- **[巴拉頓湖]**：在湖邊度假時使用地圖導航與社群媒體，One 的網路足以應付日常需求。\n- **[佩奇古城]**：在古城區使用通訊軟體與家人聯繫，網路穩定。\n- **[匈牙利鄉間小鎮]**：在偏遠地區仍可維持基本連線，適合自駕旅行者。"
-    bg_color: "bg-green-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 匈牙利 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 匈牙利 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 匈牙利 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 匈牙利 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段與裝置相容性"
-    content: "匈牙利主要營運商（Yettel、Magyar Telekom、One）使用 5G NR 頻段 n78（3.5 GHz）與 n1（2100 MHz），4G LTE 則以 B3（1800 MHz）、B7（2600 MHz）與 B20（800 MHz）為主。購買 eSIM 前，請確認您的智慧型手機支援上述頻段，尤其是 n78 以獲得最佳 5G 體驗。多數 2020 年後上市的旗艦機型均相容。"
-
-  - heading: "2. KYC 要求與實名制規定"
-    content: "根據匈牙利國家媒體與通訊管理局（NMHH）規定，所有預付 SIM 卡（包括 eSIM）均需進行實名認證（KYC）。購買 Roami eSIM 時，您需要提供護照或身分證件照片，並填寫基本個人資訊。啟用過程通常在數分鐘內完成，無需前往門市。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "多數匈牙利 eSIM 方案設有公平使用政策，例如每日高速數據上限（如 1GB、2GB 或 5GB），超過後速度會降至 128 kbps 或 256 kbps。部分無限方案亦可能隱含速度限制。請仔細閱讀方案條款，選擇符合您使用習慣的數據量。"
-
-  - heading: "4. 網路覆蓋與偏遠地區注意事項"
-    content: "匈牙利城市地區（布達佩斯、德布勒森、塞格德等）4G/5G 覆蓋良好，但鄉村、山區（如比克山脈）或靠近奧地利邊境的部分區域可能訊號較弱。Yettel 與 Magyar Telekom 在偏遠地區的覆蓋相對較佳，建議自駕旅行者選擇這兩家營運商的方案。"
-
-  - heading: "5. eSIM 啟用與技術支援"
-    content: "Roami 的匈牙利 eSIM 支援即時 QR code 啟用，無需實體 SIM 卡。請確保您的裝置已解鎖且支援 eSIM 功能（如 iPhone XS 以上、Google Pixel 3 以上、三星 Galaxy S20 以上等）。啟用後若遇連線問題，可透過 Roami 24/7 客服或官方網站取得協助。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：匈牙利 最佳 eSIM"
-city_guide_desc: "了解哪款匈牙利 eSIM 是您目的地的最佳選擇，根據城市特性與網路效能推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "布達佩斯"
-    carriers: "Yettel 或 Magyar Telekom"
-    reason: "首都擁有最密集的 5G 基地台，Yettel 提供最快下載速度（369.08 Mbps），適合商務與串流；Magyar Telekom 則有最高 5G 可用性（50.8%），確保穩定連線。"
-
-  - city: "松博特海伊"
-    carriers: "Yettel"
-    reason: "根據 Ookla 數據，松博特海伊是匈牙利行動網路最快的城市，中位下載速度達 130.9 Mbps。Yettel 在此表現最佳，適合需要高速網路的旅客。"
-
-  - city: "米什科爾茨"
-    carriers: "Magyar Telekom"
-    reason: "米什科爾茨擁有最快的固定寬頻中位下載速度（250.88 Mbps），但行動網路方面，Magyar Telekom 的 5G 可用性高，適合在市中心與景點穩定上網。"
-
-  - city: "德布勒森"
-    carriers: "Yettel"
-    reason: "匈牙利第二大城，Yettel 的 4G/5G 覆蓋廣泛，中位下載速度領先，適合學生與商務旅客。"
-
-  - city: "塞格德"
-    carriers: "One"
-    reason: "塞格德以大學城聞名，One 提供經濟實惠的方案且遊戲體驗佳，適合學生與預算有限的旅客。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 匈牙利 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在布達佩斯、德布勒森等城市漫步，使用 Yettel 或 Magyar Telekom 的 eSIM，享受高速 5G 網路，隨時查詢地圖、翻譯與景點資訊，並即時分享照片與影片。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往巴拉頓湖、比克國家公園或赫維茲溫泉湖，選擇 Yettel 的 eSIM 以獲得較佳鄉村覆蓋，確保導航與緊急通訊暢通無阻。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕穿越匈牙利鄉間，使用 Yettel 或 Magyar Telekom 的 eSIM，利用穩定的 4G/5G 網路進行即時導航、尋找加油站與住宿，避免迷路。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在巴拉頓湖沿岸度假，選擇 One 的 eSIM 以節省預算，同時享受足夠的網路速度進行社群媒體打卡、串流音樂與視訊通話。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "匈牙利 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "成功付款後，多久能收到 匈牙利 eSIM 的 QR code？"
-    a: "付款成功後，您將在數分鐘內透過電子郵件收到 QR code。若未收到，請檢查垃圾郵件夾，或聯繫 Roami 客服。啟用過程僅需掃描 QR code 並安裝設定檔，即可立即使用。"
-
-  - q: "匈牙利 eSIM 是否支援全國 4G 與 5G 網路？"
-    a: "是的，Roami 的匈牙利 eSIM 支援 Yettel、Magyar Telekom 與 One 的 4G 與 5G 網路。根據 Ookla 2025 上半年數據，Yettel 提供最快 5G 下載速度（369.08 Mbps），Magyar Telekom 則有最高 5G 可用性（50.8%）。請確保您的裝置支援相關頻段。"
-
-  - q: "在 匈牙利，連線是否足夠穩定，以順暢播放 YouTube 或 Netflix 等 HD 影片？"
-    a: "絕對足夠。Magyar Telekom 在影片串流體驗評分中獲得 91.23 分（滿分 100），Yettel 的 5G 中位下載速度達 369.08 Mbps，遠高於 HD 串流所需的最低 5 Mbps。即使在 4G 網路下，Yettel 的中位下載速度也有 68.40 Mbps，足以流暢播放 1080p 甚至 4K 影片。"
-
-  - q: "在 匈牙利，我可以期望的平均下載與上傳速度為何？"
-    a: "根據 Ookla 2025 上半年數據，匈牙利整體行動中位下載速度為 70.43 Mbps。若使用 Yettel 5G，中位下載可達 369.08 Mbps，上傳 37.18 Mbps；Magyar Telekom 5G 中位下載為 101.82 Mbps；One 5G 中位下載為 66.84 Mbps。實際速度會因地點、時間與網路負載而異。"
-
-  - q: "我的手機支援雙 eSIM。我可以在 匈牙利 同時啟用兩個 eSIM 設定檔嗎？"
-    a: "可以。多數支援雙 eSIM 的手機（如 iPhone 13 以上、Google Pixel 7 以上）允許同時啟用兩個 eSIM。您可將 Roami 匈牙利 eSIM 設為數據專用，另一個 eSIM 保留原門號通話與簡訊。請注意，同時使用雙 eSIM 可能略微增加耗電，但不會影響網路效能。"
-
-# 迷思
-myths_title: "⚠️ 匈牙利 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "匈牙利所有營運商的 5G 速度都差不多。"
-    truth: "錯誤。根據 Ookla 2025 上半年數據，Yettel 的 5G 中位下載速度（369.08 Mbps）遠高於 Magyar Telekom（101.82 Mbps）與 One（66.84 Mbps），差距超過 3 倍。"
-
-  - myth: "在匈牙利使用 eSIM 需要前往門市辦理。"
-    truth: "不正確。Roami 的匈牙利 eSIM 完全線上購買與啟用，透過 QR code 即可安裝，無需前往任何實體門市，省時又方便。"
-
-  - myth: "匈牙利鄉村地區完全沒有 4G/5G 訊號。"
-    truth: "並非如此。雖然鄉村覆蓋不如城市密集，但 Yettel 與 Magyar Telekom 在主要公路、城鎮與旅遊景點（如巴拉頓湖、赫維茲）均有良好 4G 覆蓋，部分地區甚至提供 5G。"
-
-  - myth: "eSIM 只能使用一個方案，無法更換營運商。"
-    truth: "可以更換。若您的裝置支援多個 eSIM 設定檔，您可以同時儲存多個方案，並在設定中切換使用。Roami 提供靈活的方案選擇，讓您根據需求調整。"
-
-  - myth: "匈牙利 eSIM 的數據速度會被限制在 128 kbps。"
-    truth: "只有超過公平使用政策（FUP）上限後才會降速。多數 Roami 方案提供每日高速數據（如 1GB、2GB 或 5GB），超過後才降速。選擇足夠的數據量即可避免降速。"
-
-# 數據來源
-data_sources_title: "匈牙利 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據，涵蓋 2025 年上半年（1H 2025）匈牙利行動與固定網路效能分析，包括下載/上傳速度、延遲、一致性與 5G 可用性。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的匈牙利行動網路體驗報告，提供影片串流、遊戲體驗、語音應用與下載速度等評分，補充 Ookla 數據的面向。"
-
-  - name: "NMHH（匈牙利國家媒體與通訊管理局）2025"
-    description: "匈牙利監管機構 NMHH 發布的頻譜分配、覆蓋義務與服務品質報告，確保營運商符合國家標準。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已標示來源。Roami 不直接控制營運商網路，實際體驗可能因裝置、地點與時間而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議在購買前確認您的裝置相容性與方案條款。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 匈牙利 eSIM"
-cta_desc: "即時存取高速 5G 網路，無漫遊費，24/7 客服支援。掃描 QR code 即可啟用，讓您的匈牙利之旅暢連無阻。"
-cta_button_text: "立即購買 匈牙利 eSIM"
-cta_button_link: "/hungary-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "匈牙利 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 匈牙利 eSIM 指南
+  url: ''
+hero_badge: "深入匈牙利行動網路"
+hero_subtitle_main: "以數據為先的匈牙利行動網路解析"
 ---
+
+
+匈牙利 eSIM 以其價格而言擁有異常出色的速度數據，本指南將帶你走訪三大全國性網路，讓你知道哪一個最適合你的行程。匈牙利是歐洲少見的「速度數字好得令人不好意思」的目的地——而且是好的那種不好意思。在 Ookla 的 2025 年上半年連線報告中，**Yettel 錄得 369.08 Mbps 的 5G 下載中位數**，是該地區最快的讀數之一；Magyar Telekom 則以全國最高的 5G 可用率和最佳影片體驗得分迎戰。三家電信業者、三種截然不同的優勢，而對旅人來說，問題大多取決於你的行程是落在布達佩斯與巴拉頓湖之間的哪一段。以下關於覆蓋率與實名登記的內容皆出自 Roami 自己的匈牙利客服工單——包括出錯的案例。
+
+**快速結論：** Yettel 在純覆蓋率上領先本次評比，Magyar Telekom 在 CP 值上領先——停留越久，差距越小。下方的路線分析會告訴你在哪裡情勢會翻轉。你也可以用[免費網路測試](/free-esim/)實際檢驗匈牙利的設定。
+
+本指南按照一趟旅程實際展開的方式來處理匈牙利 eSIM 的抉擇：哪個業者適合哪條路線、獨立測量數據顯示了什麼、歐盟漫遊規則如何改變持有歐洲方案旅客的算盤，以及安裝前該檢查什麼。頻段、鎖機與 EID 已在 [eSIM 裝置檢查器](/compatibility/)另行處理，本頁專注於匈牙利。
+
+**30 秒版本：** Yettel 是速度之選（最快的 5G 與 4G 中位數，94.6% 的最佳一致性）。Magyar Telekom 是可用率與串流之選（50.8% 的最高 5G 可用率、91.23 的最佳影片體驗）。One 是遊戲與 CP 值之選，擁有全國最佳的 5G 遊戲體驗。以歐洲標準而言，三者都非常優秀；差異出現在布達佩斯的密集市中心與鄉村平原之間，而非城市各區之間。多網路[匈牙利 eSIM 方案](/hungary-esim/)直接替你解決這個問題，自動連上你所在地訊號最強的業者。
+
+## 為你的旅程選擇合適的 eSIM
+
+此處的速度與網路可用率數據取自 [Ookla 的 2025 年上半年匈牙利報告](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025)。
+
+| 你的旅程 | 最佳業者 | 原因 |
+|:---|:---|:---|
+| 布達佩斯城市小旅行 | Yettel | 最快的 5G 中位數（369.08 Mbps），市內各區的整體一致性也最強。 |
+| 巴拉頓湖夏季長住 | Yettel、Magyar Telekom | 兩者都牢牢覆蓋湖岸；南岸在旺季預期會有擁塞。 |
+| 行動中進行視訊通話與串流 | Magyar Telekom | 最佳影片體驗得分（91.23）與全國最高 5G 可用率。 |
+| 行動遊戲 | One | 匈牙利最佳的 5G 遊戲體驗，延遲具競爭力。 |
+| 鄉村路線：大平原、北部丘陵 | Yettel、Magyar Telekom | 兩家擁有最廣的鄉村覆蓋；One 集中於城鎮。 |
+
+## Yettel、Magyar Telekom 與 One：2025 年上半年測量結果
+
+### Yettel 對決 Magyar Telekom：哪個匈牙利業者更快？
+
+Yettel 的 2025 年上半年數據在兩個速度層級都領先報告：5G 下載中位數 **369.08 Mbps**、上傳 37.18 Mbps，4G 中位數 68.40 Mbps，並以 **94.6%** 的樣本達到下行 5 Mbps / 上行 1 Mbps 的全國最佳一致性。白話來說：最快的網路同時也是首都之外最穩定的網路——這正是它同時出現在上表城市列與鄉村列首位的原因。Yettel 由 PPF Group 控股多數，經營前 Telenor Hungary 的網路，擁有長期累積的鄉村覆蓋基礎。
+
+### Magyar Telekom：可用率與影片的領先者
+
+Magyar Telekom 是 Deutsche Telekom 在匈牙利的分支，贏得的是描述「你究竟有多少時間在 5G 上」的指標：50.8% 的 5G 可用率為匈牙利最高，加上 91.23 的最佳行動影片體驗得分。它的 5G 下載中位數（101.82 Mbps）落後 Yettel 的亮眼數字，但可用率與影片品質才是你在實際串流或在行進列車上視訊通話時感受到的東西。對於要在布達佩斯或德布勒森待上一個月的遠距工作者，Telekom 的特性最符合工作需求。
+
+### One eSIM：匈牙利的遊戲與 CP 值挑戰者
+
+One（由 4iG 支持）是匈牙利的第三張網路，它在 Ookla 故事裡的關鍵字是延遲：全國最佳的 5G 遊戲體驗，報告期間的 5G 下載中位數為 66.84 Mbps。它是當地人在價格敏感方案上的選擇，對旅人而言也是個完全稱職的第三選項——在塞格德（Szeged）與佩奇（Pécs）這類城鎮真正有用，兩者之間則較稀薄。
+
+匈牙利有一家業者的領先幅度大到讓你在看其他資料之前就能定案：Ookla 涵蓋 2025 年 1 月至 6 月的 1H 2025 報告，以不小的差距將 **Yettel** 同時評為最佳行動網路（Best Mobile Network）與最佳 5G 網路（Best 5G Network）。
+
+| 指標 | Yettel | Magyar Telekom | One |
+|:---|:---|:---|:---|
+| Speedtest 連線評分 | **80.28**（最佳行動網路） | — | — |
+| Speedtest 5G 連線評分 | **79.87**（最佳 5G 網路） | — | — |
+| 5G 速度評分 | **78.69**（最快 5G） | — | — |
+| 4G 速度評分 | **70.97**（最快 4G） | — | — |
+| 5G 下載中位數 | **369.08 Mbps** | 101.82 Mbps | 66.84 Mbps |
+| 5G 上傳中位數 | **37.18 Mbps** | — | — |
+| 5G 延遲 | 31 ms | — | — |
+| 4G 下載中位數 | **68.40 Mbps** | — | — |
+| 4G 上傳中位數 | **15.02 Mbps** | — | — |
+| 一致性 | **94.6%**（最佳） | — | — |
+| 5G 一致性 | **96.2%**（最佳） | — | — |
+| 5G 可用率 | — | **50.8%**（最高） | — |
+| 影片串流得分 | — | **91.23**（最佳） | — |
+| 遊戲得分 | **88.64**（最佳） | — | — |
+| 5G 遊戲得分 | **91.23**（最佳） | — | — |
+| 五星評分 | **3.82**（評分最高） | — | — |
+
+那個 369.08 Mbps 的 5G 下載中位數不是打錯字，而與第二名的差距本身就是故事：Magyar Telekom 在同一指標上錄得 101.82 Mbps，One 為 66.84 Mbps。但這張表並非一面倒的橫掃，例外之處同樣重要。**可用率是 Magyar Telekom 的強項：50.8% 的 5G 可用率**，意味著它一半的用戶大部分時間都在 5G 上，同時擁有 91.23 的最佳行動影片得分。**Yettel 自身的數據則說明了可用率與速度為何是兩回事**：當你在 5G 上時，它的 5G 最快，5G 一致性達 96.2%，而它在速度上遠遠領先 5G 可用率榜，而非在覆蓋廣度上。
+
+對訪客而言，實際的解讀是：Yettel 是你想要的網路，Magyar Telekom 是你不會介意的網路，而 One 是 5G 下載中位數 66.84 Mbps 的預算選項。
+
+### 匈牙利哪家業者最快？
+
+| 城市 | 下載中位數 | 上傳 | 延遲 | 一致性 | 最快業者 |
+|:---|:---|:---|:---|:---|:---|
+| Szombathely | **130.9 Mbps** | 23.75 Mbps | 37.31 ms | 93.6% | Yettel |
+| Szeged | 91.94 Mbps | 21.44 Mbps | 39.92 ms | 92.1% | Yettel |
+| 布達佩斯 | 88.94 Mbps | 25.06 Mbps | 30.65 ms | 94.2% | Yettel |
+| Nyíregyháza | 86.48 Mbps | 22.48 Mbps | 38.16 ms | 92.8% | Yettel |
+| Pécs | 85.44 Mbps | 23.95 Mbps | 36.45 ms | 95.3% | Yettel |
+| Debrecen | 84.93 Mbps | 22.83 Mbps | 36.46 ms | 92.5% | Yettel |
+| Miskolc | 82.46 Mbps | 25.52 Mbps | 36.28 ms | 94.9% | Yettel |
+| Győr | 77.96 Mbps | 21.94 Mbps | 37.88 ms | 93.2% | Yettel |
+| Kecskemét | 77.67 Mbps | 17.77 Mbps | 35.7 ms | 89.4% | Yettel |
+| Székesfehérvár | 70.04 Mbps | 21.34 Mbps | 33.01 ms | 92.4% | Yettel |
+
+布達佩斯並非城市榜首——Szombathely 才是，達 130.9 Mbps——但首都錄得**所有受測匈牙利城市中最低的延遲，30.65 ms**，這才是它讓通話與地圖感覺流暢的原因。Yettel 在全部十個城市都是最快業者，無一例外的大滿貫。
+
+### 匈牙利 eSIM 各區域表現
+
+| 區域 | 下載中位數 | 一致性 | 最快業者 |
+|:---|:---|:---|:---|
+| 布達佩斯 | **89.02 Mbps** | 94.2% | Yettel |
+| Somogy 州 | 87.64 Mbps | 93.1% | Yettel |
+| Vas 州 | 74.11 Mbps | 94.2% | Yettel |
+| Hajdú-Bihar | 72.55 Mbps | 92.2% | Yettel |
+| Veszprém | 71.86 Mbps | 93% | Yettel |
+| Csongrád | 68.37 Mbps | 90.7% | Yettel |
+| Zala 州 | 66.51 Mbps | 92.4% | Yettel |
+| Baranya | 66.47 Mbps | 94.2% | Yettel |
+| Győr-Moson-Sopron | 60.8 Mbps | 90.6% | Yettel |
+| Pest 州 | 52.26 Mbps | 88.9% | Yettel |
+| Heves 州 | 51.32 Mbps | 90.2% | N/A |
+| Nógrád 州 | 43.74 Mbps | 91.3% | Yettel |
+
+有兩個數據值得特別標註。**環繞布達佩斯的 Pest 州落後首都 36 Mbps**——通勤帶不是城市本身，環線外一間飯店並不繼承布達佩斯的數字。而 **Nógrád 以 43.74 Mbps 成為最慢的區域**，如果你的行程是鄉村匈牙利而非城市小旅行，這是該記住的數字。
+
+## 歐盟漫遊規則，以及它們對 eSIM 使用者的影響
+
+匈牙利是歐盟成員國，這對「誰需要什麼」很重要。在其他成員國發行的 SIM 或 eSIM，依「歸漫遊」制度在此以國內費率漫遊——歐盟執行委員會的[漫遊頁面](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm)列明了相關權利與公平使用上限。來自英國、美國及其他地區的旅客則不享有這類自動權利，而本國電信在歐洲的漫遊費用往往慘不忍睹。
+
+這正是旅遊 eSIM 填補的空缺：出發前購買並安裝的匈牙利或歐洲區域 profile，落地後以當地費率連上 Yettel、Telekom 或 One。兩個實用提醒：純數據旅遊 eSIM 不附匈牙利門號（遊客很少需要匈牙利簡訊驗證），且歐盟漫遊權利不延伸至非歐盟供應商的方案——請確認你供應商的區域方案只涵蓋歐盟集團，還是也包括你的鄰國。
+
+💡 如果你的路線是維也納 → 布達佩斯 → 布拉提斯拉瓦，一個區域 profile 勝過三次單國購買；我們的[斯洛伐克 eSIM 指南](/carriers/slovakia-esim-carrier-guide/)與[羅馬尼亞 eSIM 頁面](/romania-esim/)涵蓋相鄰的路段。
+
+## 你的 eSIM 價格對比當地 SIM
+
+各種純數據與吃到飽層級的匈牙利即時價格，請見[匈牙利 eSIM 頁面](/hungary-esim/)。公開數據提供當地背景：
+
+| 指標 | 匈牙利 | 全球中位數 |
+|:---|:---|:---|
+| 行動下載中位數 | 94.32 Mbps（全球第 48，2026 年 8 月） | 109.05 Mbps |
+| 行動延遲中位數 | 22 ms | 24 ms |
+| 固網下載中位數 | 271.36 Mbps（全球第 16） | 129.68 Mbps |
+| 1 GB 平均價格 | 1.71 美元（237 個市場中第 146） | 2.59 美元 |
+
+匈牙利的行動速度在全國層面略低於全球中位數，但其固網位列世界前 20——而 Cable.co.uk 將當地數據定價為每 GB 1.71 美元，全球居中。加上 DataReportal 的 2025 年數據——909 萬網路使用者（94.1%）與 1,130 萬連線（117%）——這個市場已接近飽和。
+
+實際的翻譯是：匈牙利預付卡很親民，但需要持證件到店實名登記——跳過櫃檯這項旅遊 eSIM 的標準優勢在此處與任何地方一樣適用。
+
+## 你的 eSIM 從布達佩斯到巴拉頓的覆蓋
+
+| 目的地 | 最佳業者 | 為什麼行得通 |
+|:---|:---|:---|
+| 布達佩斯 | Yettel | 首都最快的中位數；千禧地下鐵（Millennium Underground）較舊的隧道是市中心唯一可靠的死區。 |
+| Szombathely 與西部 | Yettel | Szombathely 錄得匈牙利最快的城市中位數之一（130.9 Mbps），正值 Yettel 的西部大本營。 |
+| Debrecen | Magyar Telekom | 這座大學城享有 Telekom 最佳的 5G 可用率——對學生與長住工作者是天然的選擇。 |
+| Miskolc 與東北部 | Magyar Telekom | Telekom 的區域實力貫穿北部城鎮；Bükk 丘陵在山谷之上轉趨稀薄。 |
+| Szeged 與南部平原 | One、Yettel | One 的低延遲很好地服務這座學生城；Yettel 是城鎮之間的後備。 |
+| 巴拉頓湖 | Yettel、Magyar Telekom | 湖畔度假鎮四面覆蓋良好；七至八月的人潮會拉低南岸速度。 |
+
+## 你需要多少流量？
+
+匈牙利的旅遊基礎設施依靠少數幾個 App 運作，它們決定了真正的流量預算。
+
+**交通。** 布達佩斯 BKK 的車票與通行證在官方 App 內販售，閘門以 QR 驗票——閘門前的即時連線是日常的一部分。往返維也納、布拉提斯拉瓦與德布勒森的城際鐵路在三張網路上覆蓋都不錯，行動票證與 MAV App 在行進間表現穩定。
+
+**溫泉浴場與博物館。** 大型浴場（Széchenyi、Rudas）與主要博物館都推行時段制的線上預約，旺季現場容納量不值得賭上一個下午。用飯店 Wi-Fi 完成預約、再出示手機離線副本上的 QR，是最穩妥的模式。
+
+**一日遊。** 多瑙河曲流（Szentendre、Visegrád、Esztergom）與巴拉頓湖是經典的逃離路線，兩條路線沿途覆蓋都紮實——Yettel 的一致性數字大部分正是在這些走廊上累積的。城鎮之間，短暫的 4G 閃斷已是最壞的情況。
+
+一個值得知道的特性：匈牙利各電信網路之間不互相 fallback，因此單網路方案可能在山谷裡掛在微弱訊號上，而看得見對面更強的基地台。這正是多網路[匈牙利 eSIM](/hungary-esim/) 要消除的失效模式。
+
+## 起飛前設定匈牙利 eSIM
+
+每一步都在你自己的手機內完成：profile 送到你的信箱，你在設定中加入它、指定為數據線路並允許其漫遊。不需要匈牙利地址、不需要門市、不需要身分查驗。iOS 與 Android 分別在[啟用指南](/faq/how-to-activate-an-esim/)中處理；一直沒動靜的線路則由[逐項除錯指南](/faq/esim-activation-errors-troubleshooting-guide/)涵蓋。
+
+兩點匈牙利專屬提醒。第一，起飛前先在 Wi-Fi 上安裝——布達佩斯機場入境區的 Wi-Fi 尚堪使用，但沒有理由在國內只要兩分鐘的事到那裡去 debug。第二，匈牙利電信網路嚴格分立：以 Yettel 為基礎的方案不會在覆蓋缺口中悄悄轉用 Telekom 的基地台，這正是多網路 profile 存在要解決的情境。如果你的計畫包含北部山徑或 Őrség 邊境地區，這個區別絕非紙上談兵。
+
+## 匈牙利 eSIM 頻段、手機與 3G 關閉
+
+| 技術 | 使用中的頻段 | 對你手機的意義 |
+|:---|:---|:---|
+| 4G LTE | 800 MHz (B20)、1800 MHz (B3)、2600 MHz (B7)、2100 MHz (B1) | 標準歐洲組合；B20 承載鄉村涵蓋 |
+| 4G LTE（擴展涵蓋） | 700 MHz (B28)、900 MHz (B8) | 用於覆蓋延伸與語音 fallback |
+| 5G | 3.5 GHz (n78) 加上 2100 MHz (n1, DSS) 與 700 MHz (n28) | n78 提供速度；n1 與 n28 擴展範圍而非吞吐量 |
+| 3G | 已關閉 | 匈牙利於 2023 年 11 月關閉 3G——僅支援 3G 的裝置將完全無法使用 |
+
+3G 退役是這個市場唯一真正重要的相容性事實：無論數據方案涵蓋什麼，語音 fallback 到 3G 的舊款進口手機在匈牙利都撥不出電話。確認手機支援 4G 或 5G，並用[手機相容性檢查器](/compatibility/)確認 profile 這一側。
+
+## 各網路的 APN 值
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| Magyar Telekom | `internet.telekom` | 留空 | 留空 |
+| One（前 Vodafone Hungary） | `internet` | 留空 | 留空 |
+| Yettel | 依資費而定為 `net` 或 `online` | 留空 | 留空 |
+
+Yettel 的值取決於資費，因此使用 Yettel 線路最安全的做法是讓自動 profile 運作，只在數據失靈時才介入。One 匈牙利自己的支援頁面明確寫道 APN 為 `internet`，使用者名稱與密碼留空，這使它成為三者中最容易手動設定的。
+
+- **iPhone：** 設定 → 行動服務（Cellular）→ 匈牙利 eSIM → 行動數據網路（Cellular Data Network）→ APN。
+- **Android：** 設定 → 連接（Connections）→ 行動網路（Mobile Networks）→ 存取點名稱（APN）→ **+** → 以業者命名，輸入數值，儲存。
+
+## 本地 SIM 與旅遊 eSIM 的成本
+
+| 路線 | 你的花費 |
+|:---|:---|
+| Yettel 預付卡 | 預付層級據報約 590 福林 1 GB 含 30 分鐘通話，1,990 福林 5 GB 含 60 分鐘，於匈牙利與歐盟境內有效 |
+| Magyar Telekom 預付卡 | 據報方案包括 Maraton 系列約 5,990 福林的 10 GB 層級，用完前不會過期 |
+| 實名登記 | 匈牙利以你的姓名與證件號碼登記預付線路——需護照或歐盟國民身分證 |
+| 購買地點 | 業者門市、機場攤位、書報攤，eSIM 則可線上購買 |
+
+實名登記規則正是本地 SIM 需要跑一趟門市、而不是在攤位買一買就走的原因。如果你第一個早晨的兩小時比每 GB 省下的錢更有價值——對四天的布達佩斯行程通常如此——那就帶著裝好的 profile 抵達。
+
+## 依旅程選擇最佳匈牙利 eSIM 業者：Yettel 對決 Magyar Telekom
+
+| 旅程 | 典型天數 | 舒適的流量額度 | 原因 |
+|:---|:---|:---|:---|
+| 布達佩斯城市小旅行 | 3–4 天 | 3–5 GB | 飯店 Wi-Fi 與咖啡廳 Wi-Fi 隨處可見 |
+| 布達佩斯加巴拉頓湖 | 7 天 | 6–9 GB | 湖畔 Wi-Fi 比首都更參差 |
+| 溫泉浴場與水療行程 | 5 天 | 4–6 GB | 度假村 Wi-Fi 撐起悠長的午後 |
+| 鄉村匈牙利、村莊與葡萄園 | 7 天 | 6–9 GB | Nógrád 與 Pest 州的中位數只有布達佩斯的三分之一 |
+| 鐵路之旅，布達佩斯往返維也納或布拉提斯拉瓦 | 7 天 | 6–10 GB | 車上 Wi-Fi 不可靠；手機扛下整趟旅程 |
+| 遠距工作一個月 | 30 天 | 25 GB 以上或本地方案 | 本地預付線路在此是更好的長住之選 |
+
+## 修復連不上線的匈牙利 eSIM
+
+**安裝失敗。** 首要嫌疑是電信鎖，其次是被用過的 QR code。在另一個歐盟國家以合約購入的手機經常就是問題所在。
+
+**裝好了卻沒訊號格。** 將手機切成飛航模式十五秒，然後在 Yettel、Magyar Telekom 或 One 之間手動選擇。有一個原因值得提早排除：只講 3G 的手機在匈牙利正是這個症狀，任何設定都救不回來。
+
+**有訊號但沒吞吐量。** 依序確認三件事——承載行動數據的是 eSIM 而非本國線路、該線路的漫遊已開啟，以及（若是當地購買的資費）APN 與業者的一致。
+
+**僅限緊急通話。** 先移除第二個作用中的 profile，再重新開機。只有在那沒有改變任何事時才重設網路設定，重新安裝是萬不得已的最後一步。
+
+上述清單以外的任何情況，由 [eSIM 啟用修復指南](/faq/esim-activation-errors-troubleshooting-guide/)涵蓋，安裝順序本身則見[eSIM 啟用逐步教學](/faq/how-to-activate-an-esim/)。
+
+## 一週連線不斷線的匈牙利：從布達佩斯到巴拉頓與多瑙河曲流
+
+匈牙利面積小、覆蓋好、又好開車，使它成為純行動網路旅遊的較佳目的地之一。區域數據清楚顯示這份信心在哪裡成立、哪裡不成立。
+
+| 階段 | 地點 | 下載中位數 | 該有的打算 |
+|:---|:---|:---|:---|
+| 第 1–3 天 | 布達佩斯 | 88.94 Mbps、延遲 30.65 ms | 全國最佳的通話環境 |
+| 第 4 天 | 多瑙河曲流：Szentendre、Visegrád、Esztergom | 適用布達佩斯區域數據 | 河谷在基地台之間起伏；地圖先離線快取 |
+| 第 5–6 天 | 巴拉頓湖南岸 | Somogy 州 87.64 Mbps | 全國第二好的區域，比預期更好 |
+| 第 6–7 天 | 巴拉頓北岸與 Veszprém | Veszprém 71.86 Mbps | 葡萄園道路在村莊之間轉趨稀薄 |
+| 選配 | Pécs 與 Baranya | 66.47 Mbps、一致性 94.2% | 這裡的強項是一致性，不是速度 |
+| 選配 | Eger 與 Heves 州 | 51.32 Mbps、無勝出業者 | 唯一沒有業者領先的區域 |
+| 別抱期望 | Nógrád 州 | 43.74 Mbps——全國最慢 | 進入前先把該下載的都下載 |
+
+對規劃真正重要的兩個發現：**巴拉頓湖的連線比它的度假勝地名聲暗示的更好**，Somogy 州錄得 87.64 Mbps 與 93.1% 一致性；而**環繞布達佩斯的通勤帶 Pest 州則掉到 52.26 Mbps**——首都中位數的三分之一。如果你為了省住宿費而住在布達佩斯郊區，別以為你繼承了城市的數字。
+
+因為匈牙利處於歐盟「歸漫遊」框架內，同一個方案在公平使用上限內會跟著你跨境到奧地利、斯洛伐克、克羅埃西亞、塞爾維亞或羅馬尼亞。這使匈牙利 eSIM 作為中歐環線基地異常划算——但若路線會離開歐盟，請確認每個鄰國的規則。我們的[斯洛伐克 eSIM 方案](/slovakia-esim/)與[羅馬尼亞 eSIM 指南](/carriers/romania-esim-carrier-guide/)涵蓋最常見的兩個延伸。
+
+### 帶著匈牙利 eSIM 遊多瑙河河輪
+
+布達佩斯與帕紹之間的河輪是人們造訪這段歐洲的另一種方式。船隻行進時，你的手機沒有陸地網路可連，船上 Wi-Fi——通常是衛星——是唯一選項，因此把航行的時段視為離線時段，停靠時先把需要的東西下載好。
+
+在布達佩斯市區本身，profile 的表現與任何城市 eSIM 相同。複雜之處在下游：僅限匈牙利的方案在斯洛伐克與德國邊境就會失效，因此如果行程是布達佩斯—帕紹的單程而非往返環線，請權衡中歐區域方案與匈牙利 profile——我們的[斯洛伐克 eSIM 業者](/slovakia-esim/)與[德國 eSIM 頁面](/germany-esim/)涵蓋最常被順道加上去的兩段。
+
+## 常見的匈牙利 eSIM 問題解答
+
+### 你的裝置通得過匈牙利的 eSIM 檢測嗎？
+
+幾乎肯定通得過，只要它未上鎖且支援 eSIM。匈牙利的 4G 頻段（800/1800/2600 MHz）與 5G（n78 為主，n1 擴展覆蓋）受主流國際手機支援。在[相容性頁面](/compatibility/)查一次即可確認你的確切型號。
+
+### Yettel 與 Magyar Telekom 的 5G：在匈牙利哪個更好？
+
+都很好。Yettel 2025 年上半年 369.08 Mbps 的 5G 下載中位數位列中歐最快的讀數之一，而 Magyar Telekom 50.8% 的 5G 可用率意味著你在城市裡真正長時間待在 5G 上，而不是一天看見一次圖示。在布達佩斯與區域城市之外，4G 扛起工作——而以 68.40 Mbps（Yettel 的 4G 中位數）而言，那並不算辛苦。
+
+### 匈牙利 eSIM 可以分享網路嗎？
+
+可以。旅遊 eSIM 方案支援網路分享，這對火車上開筆電的人很重要——布達佩斯、維也納與布拉提斯拉瓦之間的城際鐵路在三張網路上覆蓋都很好。
+
+### 哪些手機能載入匈牙利 eSIM？
+
+遊客幾乎不需要。叫車、訂位與訊息都透過數據以你現有的門號運作。本地門號只有在需要國內簡訊驗證或停留數月時才變得相關，而到那個時候，一張經實名登記的本地方案——通常是門市開通的預付 SIM 卡——本來就比較合理。較短的旅程，一個支援途中加值的旅遊數據方案就涵蓋訪客的一切所需。
+
+### 我的歐盟 SIM 在匈牙利使用會被額外收費嗎？
+
+如果方案是歐盟發行的，且在你本國資費設定的公平使用上限之內，不會。非歐盟 profile（英國、美國及大多數旅遊 eSIM）沒有自動權利；其價格由方案本身決定，這正是專門設計的[匈牙利 eSIM](/hungary-esim/) 通常在價格與可預測性兩方面都勝出的原因。
+
+### 匈牙利 eSIM：安裝
+
+確認 eSIM 線路已啟用數據漫遊，然後嘗試手動選網（Yettel 或 Magyar Telekom）而非自動——手機偶爾會停在最弱的業者上。如果它仍然拒絕，[eSIM 啟用疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)的結構化檢查清單會接手其餘部分。
+
+### 匈牙利業者速度比較
+
+Yettel，而且差距明確。它的 5G 下載中位數為 369.08 Mbps，對上 Magyar Telekom 的 101.82 Mbps 與 One 的 66.84 Mbps，並錄得全國最佳的一致性——全部技術 94.6%、5G 96.2%——且在全部十個受測城市中都是最快業者。
+
+### 在匈牙利，Magyar Telekom 是 Yettel 的好替代嗎？
+
+是的，而且有一項指標它直接擊敗 Yettel：50.8% 的 5G 可用率，意味著一半的用戶大部分時間都在 5G 上。它也擁有匈牙利最佳的行動影片體驗，得分 91.23。你放棄峰值速度——5G 中位數 101.82 Mbps 對 369.08——換取覆蓋廣度。
+
+### 為什麼布達佩斯的行動下載比 Szombathely 慢？
+
+Szombathely 錄得匈牙利最快的城市中位數 130.9 Mbps，對上布達佩斯的 88.94 Mbps，這看似違反直覺，直到你把用戶密度算進去：首都的基地台承載多得多的流量。布達佩斯以所有受測城市中最低的延遲 30.65 ms 補回來，這才是它感覺反應靈敏的原因。
+
+### 匈牙利還有 3G 嗎？
+
+沒有。匈牙利於 2023 年 11 月關閉其 3G 網路。依賴 3G 做語音 fallback 的手機撥不出電話，而無法駐留 4G 的裝置根本無法有效註冊網路。出發前先確認你的手機支援 4G LTE 或 5G。
+
+### 匈牙利 SIM 需要身分驗證嗎？
+
+需要——預付線路以你的姓名與證件號碼登記，接受護照或歐盟國民身分證。這使本地 SIM 成為一趟門市行程而非書報攤購買，也是旅遊 eSIM 對短假期而言是更快選項的主因。
+
+### Yettel 與 Magyar Telekom eSIM 的 APN 值
+
+Magyar Telekom 使用 `internet.telekom`，One 使用 `internet` 且使用者名稱與密碼留空，Yettel 則依資費使用 `net` 或 `online`。只有當地購買的線路才用得上——旅遊 eSIM 會自行設定。
+
+### 匈牙利的鄉村覆蓋：Yettel 對決 Magyar Telekom
+
+是的，而且比大多數訪客預期的更好：包含巴拉頓南岸的 Somogy 州錄得 87.64 Mbps 與 93.1% 一致性，全國第二、僅次於布達佩斯。鄉村的 Nógrád 是弱點，43.74 Mbps。
+
+### 匈牙利 eSIM 可以在奧地利、斯洛伐克或克羅埃西亞使用嗎？
+
+可以，包含歐盟漫遊的方案涵蓋這些地方。匈牙利屬於「歸漫遊」框架，因此國內額度會跟著你走遍歐洲，受公平使用規則約束。關於北面的鄰國，請閱讀我們的[斯洛伐克覆蓋頁面](/slovakia-esim/)。
+
+### 匈牙利合理的流量預算是多少？
+
+一週舒適的布達佩斯行程約需五到八 GB，已計入地圖、交通 App、訊息與照片備份，其餘由飯店與咖啡廳 Wi-Fi 承擔。布達佩斯的低延遲也使它成為適合接視訊通話的城市。
+
+### 認識匈牙利的數據方案
+
+它位於全球每 GB 平均價附近——Cable.co.uk 的價格調查將匈牙利排在中段，而非羅馬尼亞那類便宜市場。本地預付方案是 CP 值路線；旅遊 eSIM 每 GB 較貴，但省下實名排隊。
+
+### Yettel 與 Magyar Telekom：在匈牙利哪個更好？
+
+依區域數據來看，是 Yettel——它是除 Heves 之外每個區域的最快業者，而 Heves 沒有業者勝出。全國最慢的區域是 43.74 Mbps 的 Nógrád，所以如果你的行程是村莊與葡萄園而非城市，無論帶哪個 profile 都請下載離線地圖。
+
+### 帶著匈牙利 eSIM 繼續前行
+
+主要業者的預付層級，其國內額度通常延伸到歐盟、土耳其與瑞士而不加價，受公平使用上限約束。如果你的旅程續行至奧地利、斯洛伐克或克羅埃西亞，這是本地線路最有力的論點之一。
+
+### 你需要多大的匈牙利數據包
+
+比大多數訪客以為的更好。包含南岸的 Somogy 州錄得 87.64 Mbps 與 93.1% 一致性——全國第二、僅次於布達佩斯。經 Veszprém 的北岸為 71.86 Mbps。弱點是葡萄園的小路，而非湖畔城鎮。
+
+### Pest 州的連線與布達佩斯一樣好嗎？
+
+沒有，而且差距顯著：Pest 州的 5G 中位數為 52.26 Mbps，對上布達佩斯的 89.02 Mbps，一致性也從 94.2% 掉到 88.9%。如果你的住宿為了省錢設在首都之外，請為明顯較弱的行動連線做預算——並確認飯店的 Wi-Fi 能不能補上這個差額。
+
+### 哪個匈牙利城市的行動數據最好？
+
+Szombathely，130.9 Mbps——全國最快的城市中位數。布達佩斯以 88.94 Mbps 排第三，但擁有所有匈牙利城市中最低的延遲 30.65 ms，對通話而言這比速度數字更重要。
+
+### 在匈牙利可以只靠行動數據嗎？
+
+可以，而且很從容。所有受測城市都在 70 Mbps 以上、一致性介於 89% 到 95% 之間、首都延遲 30 ms，單一 eSIM 方案就能覆蓋一趟正常的匈牙利旅程，不需要固網備援——包括結合布達佩斯與巴拉頓湖的一週。
+
+### 我已經有歐盟 SIM——還需要匈牙利 profile 嗎？
+
+如果你的歐盟 SIM 是旅遊或漫遊產品，多半不用；如果它是含漫遊額度的本國資費，那完全取決於上限。專用[匈牙利 eSIM](/hungary-esim/) 的適用情境是重度使用：一個觸及 Yettel、Magyar Telekom 與 One 的多網路 profile，在公平使用限速會把你的本國線路壓到龜速時，依然持續可用。
+
+### 匈牙利數據在跑時，我的本國門號還會響嗎？
+
+會。實體 SIM 接收來電與驗證簡訊，eSIM 承載數據，這個組合在匈牙利毫不稀奇，因為兩者都是現代手機的主流配置。除非你的資費包含漫遊，否則請關閉本國線路的數據漫遊——決定帳單的是那個設定，而不是 eSIM。
+
+### Yettel 合約還是布達佩斯門市的預付卡？
+
+兩者都不值得你花假期時間。匈牙利以身分登記預付 SIM，門市行程不可避免，而 Yettel 或 Telekom 的合約根本不對訪客開放。本地新手包對出國一學期的學生而言是划算的；對布達佩斯與巴拉頓之間的一週而言，你在家裝好的 profile 早已勝出。
+
+### 逐趟旅程的匈牙利 eSIM 選擇
+
+可以——加值在供應商的 App 內完成，靠湖畔民宿提供的任何 Wi-Fi 都行。你不能做的是指望巴拉頓菲賴德（Balatonfüred）週日有電信門市開門。匈牙利的覆蓋均勻到你很少想到網路，所以彈藥耗盡是規劃失誤，而不是覆蓋問題。
+
+### 價格最低的匈牙利方案
+
+以每 GB 計算不利，以總花費計算輕鬆。匈牙利的行動數據約為每 GB 1.71 美元，在歐盟屬於偏貴，紙面上本地數據包比旅遊層級便宜——但數據包需要門市、護照與開通等待，且只覆蓋一張網路。旅遊 profile 付出的是橫跨三張網路的覆蓋廣度，這是訪客幾乎永遠值得做的交易。
+
+## 匈牙利 eSIM 資料來源：我們引用數字的出處
+
+| 來源 | 本指南用它做什麼 |
+|:---|:---|
+| [Ookla Speedtest 連線報告，匈牙利 1H 2025](https://www.ookla.com/research/reports/hungary-speedtest-connectivity-report-h1-2025) | Yettel、Magyar Telekom 與 One 的業者指標，以及城市中位數 |
+| [Ookla Speedtest 全球指數](https://www.speedtest.net/global-index/hungary) | 匈牙利當前的全國中位數與世界排名 |
+| [歐盟執行委員會——Your Europe 漫遊規則](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) | 「歸漫遊」權利及其公平使用上限 |
+| [Cable.co.uk 全球數據價格](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) | 每 GB 1.71 美元的比較 |
+| [DataReportal，Digital 2025: Hungary](https://datareportal.com/reports/digital-2025-hungary) | 網路使用者普及率與行動連線數 |
+
+前兩項按 Ookla 的時程更新，價格與普及率數據則每年更新。在做決定引用數字之前，先查證來源。名單每季重審一次；無法重現的來源會被剔除。
+
+## 出發前選好你的匈牙利 eSIM
+
+在 Yettel 的速度、Telekom 的覆蓋與 One 的價格之間，三個名字的選擇比必要的更難。多網路 profile 則完全消除它。
+
+新客戶可以[免費試用匈牙利 eSIM](/free-esim/)，或直接前往[當前的匈牙利方案](/hungary-esim/)。
+
+[立即購買匈牙利 eSIM](/hungary-esim/)
+
+*首次使用者免費試用*
+
+Roami 的建議很簡單：一落地就是連線狀態。先用[免費試用 eSIM](/free-esim/) 無風險地體驗 Yettel 覆蓋，試用說服你之後，在完整的 Roami 方案上使用折扣碼 **WEB20**。

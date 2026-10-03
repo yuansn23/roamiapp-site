@@ -1,288 +1,369 @@
 ---
-title: "荷蘭 eSIM 選購指南：5G 網速、方案價格與使用建議。"
-description: "想在荷蘭保持順暢連線？Roami 實際評測 Odido、KPN Mobile 和 Vodafone 的 5G 網路品質，帶您選出最適合的荷蘭 eSIM。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 荷蘭，預付數據，5G 網路，Odido，KPN，Vodafone，荷蘭旅遊上網，荷蘭eSIM推薦"
-site_name: "Roami"
-brand_name: "Roami"
+title: "荷蘭 eSIM 該選哪家？Odido、KPN、Vodafone 比較"
+description: "荷蘭 5G 到處都快，真正的問題是哪家電信業者適合你。Roami 實測 Odido、KPN 與 Vodafone 的網速、覆蓋與預付資費，從阿姆斯特丹到風車村與海牙逐段檢視，整理申辦規定與 APN 設定，幫你選出不折騰的荷蘭 eSIM，騎車散步都順。"
+image: "img/esim/carriers/netherlands-esim-carrier-guide.jpg"
+date: "2026-09-24T02:10:48+00:00"
+keywords: eSIM 荷蘭, 荷蘭 eSIM 電信商, Odido eSIM, KPN Mobile eSIM, Vodafone Netherlands, 預付卡數據, 5G 網路, travel eSIM
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "荷蘭 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "🇳🇱 荷蘭 最新旅遊 eSIM 指南"
-hero_subtitle_main: "荷蘭 eSIM：5G 旅行網路首選"
-hero_subtitle_highlight: "Odido 與 KPN 頂級 5G 覆蓋"
-hero_description_line1: "適用於 荷蘭 的 eSIM 支援線上購買與即時啟用，無需更換實體 SIM 卡。覆蓋主要城市，幫助您告別昂貴的漫遊費用，讓您在 荷蘭 旅行無憂。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "荷蘭 eSIM"
-hero_link_url: "/netherlands-esim/"
-tldr_summary: "【告別高額漫遊費：多裝置無限數據 5G 方案】在荷蘭旅行，告別昂貴的國際漫遊費，選擇 Roami 的荷蘭 eSIM，即可享受 Odido 與 KPN 頂級 5G 網路。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025) 數據，Odido 在 2025 上半年以中位下載速度 216.3 Mbps 奪冠，5G 中位下載更達 272.74 Mbps，無論在阿姆斯特丹運河畔直播、鹿特丹視訊會議，或是在埃因霍溫科技園區遠端工作，都能獲得流暢穩定的連線。Roami eSIM 支援多裝置熱點分享，讓您與旅伴同時上網，徹底擺脫漫遊帳單焦慮。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "荷蘭 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：荷蘭 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "荷蘭 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：荷蘭 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 荷蘭 eSIM 前須知"
-
-  - href: "#faq"
-    text: "荷蘭 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "荷蘭 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：荷蘭 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Odido"
-    carrier_class: "text-orange-600"
-    reason: "Odido 在 2025 上半年荷蘭整體行動網路中位下載速度達 216.3 Mbps，5G 中位下載更達 272.74 Mbps，最適合需要高速上傳下載的遠端工作者。"
-
-  - travel: "重度影音串流者"
-    carrier: "Odido"
-    carrier_class: "text-orange-600"
-    reason: "Odido 獲得最佳行動影片體驗評分 93.84，5G 遊戲體驗也居冠，觀看 Netflix、YouTube 4K 影片流暢無緩衝。"
-
-  - travel: "鄉村與偏遠地區旅行者"
-    carrier: "KPN Mobile"
-    carrier_class: "text-blue-600"
-    reason: "KPN Mobile 在 5G 一致性表現最佳，88.6% 樣本達到 25 Mbps 下載門檻，鄉村覆蓋穩定可靠。"
-
-  - travel: "預算有限輕度使用者"
-    carrier: "Vodafone"
-    carrier_class: "text-red-600"
-    reason: "Vodafone 中位下載速度 104.7 Mbps，足以應付日常社群、地圖與通訊軟體，價格通常更具競爭力。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 荷蘭 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "odido-esim"
-    title: "Odido eSIM 總覽：荷蘭最快 5G 網路"
-    best_for: "此方案絕對是最佳選擇，適合追求極致速度的用戶，無論是 4K 串流、大檔案下載或低延遲遊戲，Odido 都能提供頂尖體驗。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)，Odido 在 2025 上半年獲得荷蘭最佳 5G 網路獎項，5G 連線分數達 77.11。\n- **下載速度**：整體中位下載速度 216.3 Mbps，5G 中位下載速度 272.74 Mbps。\n- **上傳速度**：整體中位 23.98 Mbps，5G 中位 28.38 Mbps。\n- **延遲**：整體中位延遲 33 ms，5G 中位延遲 32 ms。\n- **影片體驗**：影片串流分數 93.84，為荷蘭最佳。\n- **遊戲體驗**：5G 遊戲體驗分數最高，適合即時對戰。"
-    arcep_note: "經荷蘭電信監管機構（ACM）確認，Odido 為荷蘭主要電信營運商之一，持有完整頻譜執照，服務符合國家規範。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時下載與 QR Code 掃描，抵達荷蘭後自動連網，無需繁瑣設定。"
-    user_scenarios: "- **【阿姆斯特丹運河遊船】**：在運河遊船上開啟 Instagram 直播，Odido 的低延遲與高上傳速度讓觀眾即時欣賞運河風光，無卡頓。\n- **【埃因霍溫高科技園區出差】**：在埃因霍溫參加國際會議，需要同時進行視訊會議、雲端檔案同步與即時協作，Odido 的 272.74 Mbps 5G 下載確保一切順暢。\n- **【鹿特丹 Markthal 美食市集】**：在熱門市集內排隊時，快速上傳美食照片與打卡影片，Odido 的高上傳速度讓您秒速分享。"
-    bg_color: "bg-orange-50"
-
-  - id: "kpn-esim"
-    title: "KPN Mobile eSIM 總覽：最穩定的 5G 連線"
-    best_for: "此方案適合需要穩定連線的用戶，特別是在鄉村或郊區旅行時，KPN 的 5G 一致性表現最佳，確保不間斷的網路體驗。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)，KPN Mobile 在 2025 上半年獲得最佳 5G 一致性獎項，88.6% 樣本達到 25 Mbps 下載與 3 Mbps 上傳門檻。\n- **下載速度**：整體中位下載速度 152.08 Mbps，5G 中位下載速度 182.84 Mbps。\n- **上傳速度**：5G 中位上傳速度表現優異，僅次於 Odido。\n- **延遲**：5G 延遲表現良好，適合即時通訊與串流。"
-    arcep_note: "KPN 為荷蘭歷史最悠久的電信營運商，受荷蘭電信監管機構（ACM）嚴格監管，網路品質與用戶權益有保障。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時下載與 QR Code 掃描，抵達荷蘭後自動連網，無需繁瑣設定。"
-    user_scenarios: "- **【羊角村（Giethoorn）划船】**：在羊角村寧靜的運河上划船，使用 KPN 穩定的網路查詢地圖、上傳風景照片，即使偏遠地區也能保持連線。\n- **【梵谷森林公園（Hoge Veluwe）騎單車】**：在國家公園內騎單車，需要即時導航與分享位置，KPN 的高一致性確保網路不中斷。\n- **【小孩堤防（Kinderdijk）風車區】**：在觀光客眾多的風車區，KPN 的穩定網路讓您順利上傳影片、進行視訊通話，不受人潮影響。"
-    bg_color: "bg-blue-50"
-
-  - id: "vodafone-esim"
-    title: "Vodafone eSIM 總覽：均衡的網路選擇"
-    best_for: "此方案適合預算有限但仍需可靠網路的用戶，Vodafone 提供穩定的中速連線，足以應付日常社群、地圖與通訊需求。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)，Vodafone 在 2025 上半年整體中位下載速度為 104.7 Mbps，5G 中位下載速度為 114.99 Mbps。\n- **上傳速度**：5G 中位上傳速度表現中等，足以應付一般上傳需求。\n- **延遲**：延遲表現穩定，適合瀏覽網頁與社群媒體。"
-    arcep_note: "Vodafone 為荷蘭三大電信營運商之一，受荷蘭電信監管機構（ACM）監管，服務品質符合國家標準。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時下載與 QR Code 掃描，抵達荷蘭後自動連網，無需繁瑣設定。"
-    user_scenarios: "- **【阿姆斯特丹博物館廣場】**：在博物館廣場排隊入場時，使用 Vodafone 網路瀏覽社群、回覆訊息，速度足夠應付日常使用。\n- **【海牙席凡寧根海灘】**：在海灘上傳照片、打卡，Vodafone 的穩定連線讓您輕鬆分享度假時光。\n- **【烏特勒支運河邊咖啡廳】**：在運河邊咖啡廳使用地圖查詢附近景點、瀏覽旅遊資訊，Vodafone 提供流暢的體驗。"
-    bg_color: "bg-red-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 荷蘭 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 荷蘭 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 荷蘭 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 荷蘭 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 荷蘭主要 5G/4G 頻段與裝置相容性"
-    content: "荷蘭電信營運商主要使用以下頻段：4G LTE 頻段包括 Band 1 (2100 MHz)、Band 3 (1800 MHz)、Band 7 (2600 MHz)、Band 20 (800 MHz)；5G NR 頻段包括 n1 (2100 MHz)、n3 (1800 MHz)、n7 (2600 MHz)、n78 (3500 MHz)。購買 eSIM 前，請確認您的智慧型手機支援上述頻段，尤其是 5G n78 頻段，以獲得最佳連線體驗。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "荷蘭電信服務通常需要進行 KYC（Know Your Customer）實名認證。購買 eSIM 時，您可能需要提供護照或身分證件照片，以及個人基本資訊（姓名、國籍、居住地址）。部分 eSIM 供應商會簡化流程，僅需上傳證件即可完成驗證，請務必選擇信譽良好的供應商以保障個資安全。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "荷蘭 eSIM 方案通常設有公平使用政策（Fair Usage Policy），即使標榜「無限數據」，在達到一定用量後（例如每日 1-2 GB 或總量 20-30 GB），速度可能會被降速至 128 Kbps 或 256 Kbps。請仔細閱讀方案條款，選擇符合您使用習慣的數據量，避免在旅途中遭遇降速困擾。"
-
-  - heading: "4. 熱點分享（Tethering）限制"
-    content: "部分荷蘭 eSIM 方案可能限制熱點分享功能，或僅允許連接 1-2 台裝置。如果您計劃與旅伴共享網路，請務必確認方案是否支援熱點分享，以及連接裝置數量上限。Roami 的 eSIM 通常支援多裝置熱點分享，讓您與家人朋友同時上網。"
-
-  - heading: "5. 方案有效期與啟用時效"
-    content: "荷蘭 eSIM 方案的有效期通常從啟用那一刻開始計算，例如 7 天、15 天或 30 天方案。請注意，部分方案要求您在購買後一定天數內（如 30 天）啟用，否則會失效。建議在出發前一天或抵達當天啟用，以最大化使用天數。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：荷蘭 最佳 eSIM"
-city_guide_desc: "了解哪款 荷蘭 eSIM 是您目的地的最佳選擇，根據城市特性與網路效能推薦最適合的營運商。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "阿姆斯特丹"
-    carriers: "Odido"
-    reason: "阿姆斯特丹是荷蘭首都與觀光重鎮，人潮密集，Odido 以 216.3 Mbps 的中位下載速度提供最穩定的連線，無論在運河區、博物館廣場或紅燈區，都能順暢使用地圖、社群與串流。"
-
-  - city: "鹿特丹"
-    carriers: "Odido"
-    reason: "鹿特丹為現代化港口城市，擁有許多創新建築與商業區。Odido 的 5G 網路在鹿特丹表現優異，適合商務旅客進行視訊會議、大檔案傳輸，以及觀光客上傳照片與影片。"
-
-  - city: "海牙"
-    carriers: "KPN Mobile"
-    reason: "海牙是荷蘭政治中心，擁有許多國際組織與大使館。KPN Mobile 以 88.6% 的 5G 一致性表現提供最穩定的連線，適合需要可靠網路的商務人士與政府機構訪客。"
-
-  - city: "烏特勒支"
-    carriers: "Odido"
-    reason: "烏特勒支是荷蘭交通樞紐與大學城，年輕人口眾多。Odido 的高速網路能滿足學生與年輕旅客的社群、串流與遊戲需求，中央車站與運河區覆蓋良好。"
-
-  - city: "埃因霍溫"
-    carriers: "Odido"
-    reason: "埃因霍溫是荷蘭科技重鎮，擁有飛利浦等高科技公司。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)，埃因霍溫是荷蘭行動網路下載速度最快的城市，中位數達 220.42 Mbps，Odido 在此提供極致效能，適合科技工作者與數位遊牧民族。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 荷蘭 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在阿姆斯特丹、鹿特丹等大城市，使用 Odido eSIM 享受高速 5G 網路，隨時查詢地圖、預訂餐廳、上傳社群動態，即使在人潮擁擠的觀光景點也能保持流暢連線。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往羊角村、梵谷森林公園或小孩堤防等自然景點，KPN Mobile 的高一致性網路確保您在偏遠地區也能穩定連線，順利使用導航、分享風景照片。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕遊荷蘭，需要穩定的導航與即時路況資訊。Odido 與 KPN 的 5G 網路在高速公路與鄉間道路均有良好覆蓋，讓您安心駕駛，隨時查詢加油站、停車場與景點資訊。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在海牙席凡寧根海灘或澤蘭省海灘度假，使用 Vodafone 或 Odido eSIM，在沙灘上輕鬆上傳照片、進行視訊通話，享受陽光與網路的雙重樂趣。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "荷蘭 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "在 荷蘭，連線是否足夠穩定，以順暢播放 YouTube 或 Netflix 等 HD 影片？"
-    a: "是的，荷蘭的網路基礎設施非常先進，尤其是 Odido 與 KPN Mobile 的 5G 網路。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)，Odido 的影片串流分數高達 93.84，5G 中位下載速度達 272.74 Mbps，足以順暢播放 4K 影片。即使在 4G 網路下，中位下載速度也超過 100 Mbps，播放 HD 影片完全沒有問題。"
-
-  - q: "我的 荷蘭 eSIM 方案的有效期與扣款從何時開始計算？"
-    a: "荷蘭 eSIM 方案的有效期通常從您啟用 eSIM 的那一刻開始計算，而非購買時間。例如，如果您購買 7 天方案，並在抵達荷蘭當天啟用，則有效期為連續 7 天。扣款則在購買時一次性完成，不會有後續隱藏費用。請注意，部分方案可能要求在購買後 30 天內啟用，否則會失效。"
-
-  - q: "如果我從裝置中刪除 荷蘭 eSIM，之後可以重新安裝嗎？"
-    a: "通常可以，但需視供應商政策而定。多數 eSIM 供應商允許您在有效期限內重新安裝已刪除的 eSIM，只需登入您的帳戶，重新下載 eSIM 設定檔或掃描原始 QR Code 即可。但請注意，部分方案可能限制重新安裝次數，建議在刪除前先備份 QR Code 或確認供應商的重新安裝政策。"
-
-  - q: "使用 荷蘭 eSIM 熱點分享時，是否有連接裝置數量限制？"
-    a: "是的，部分荷蘭 eSIM 方案可能限制熱點分享的裝置數量，常見限制為 1 至 2 台裝置。如果您計劃與旅伴共享網路，請務必在購買前確認方案是否支援熱點分享，以及連接裝置數量上限。Roami 的 eSIM 通常支援多裝置熱點分享，讓您與家人朋友同時上網，無需額外購買多張 SIM 卡。"
-
-  - q: "如果在旅途中 荷蘭 eSIM 的數據用量用完，我可以輕鬆加購嗎？"
-    a: "可以，多數 eSIM 供應商提供方便的加購服務。您只需登入供應商的應用程式或網站，選擇額外的數據方案，即可立即充值，無需更換 eSIM 或重新設定。部分供應商甚至支援自動加值功能，當數據用量接近上限時自動補充，確保網路不中斷。建議在出發前先了解供應商的加購流程與價格。"
-
-# 迷思
-myths_title: "⚠️ 荷蘭 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "荷蘭的 eSIM 只能在阿姆斯特丹等大城市使用，鄉村地區完全沒有訊號。"
-    truth: "錯誤。荷蘭的電信基礎設施非常完善，Odido、KPN 與 Vodafone 的網路覆蓋率極高，即使在羊角村、梵谷森林公園等鄉村地區，4G/5G 訊號依然穩定。KPN Mobile 更以 88.6% 的 5G 一致性表現獲得最佳穩定性獎項，偏遠地區連線可靠。"
-
-  - myth: "荷蘭所有 eSIM 方案都限制熱點分享，無法與旅伴共用網路。"
-    truth: "並非所有方案都限制熱點分享。許多 eSIM 供應商（如 Roami）支援多裝置熱點分享，讓您與家人朋友同時上網。購買前請仔細閱讀方案條款，選擇支援熱點分享的方案即可。"
-
-  - myth: "荷蘭的 5G 網路速度很慢，不如台灣或韓國。"
-    truth: "完全錯誤。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)，Odido 在 2025 上半年的 5G 中位下載速度高達 272.74 Mbps，位居全球前列。荷蘭的 5G 網路速度與覆蓋在歐洲名列前茅，足以媲美亞洲頂尖國家。"
-
-  - myth: "在荷蘭使用 eSIM 需要先到電信門市辦理實名認證，非常麻煩。"
-    truth: "不需要。現今多數 eSIM 供應商提供完全線上的 KYC 認證流程，您只需上傳護照照片與填寫基本資料，即可在幾分鐘內完成認證並啟用 eSIM，無需親自前往門市。"
-
-  - myth: "荷蘭 eSIM 的價格非常昂貴，不如使用國際漫遊方案。"
-    truth: "恰恰相反。荷蘭 eSIM 方案通常比國際漫遊費用便宜許多，尤其是針對數據用量較大的旅客。例如，Roami 提供的荷蘭 eSIM 方案價格實惠，且無隱藏費用，讓您以更低的成本享受高速網路，徹底告別昂貴的漫遊帳單。"
-
-# 數據來源
-data_sources_title: "荷蘭 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據，基於 2025 上半年數百萬次真實用戶測試，提供荷蘭各營運商的行動與固定網路速度、延遲、一致性與影片體驗評分。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的荷蘭行動網路體驗報告，涵蓋下載速度、上傳速度、影片體驗、遊戲體驗與語音應用體驗，提供獨立第三方分析。"
-
-  - name: "荷蘭消費者與市場管理局（ACM）2025"
-    description: "荷蘭電信監管機構 ACM 發布的年度電信市場報告，包含頻譜分配、覆蓋義務、消費者權益與服務品質監管資訊。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，數據擷取時間為 2025 上半年。實際體驗可能因裝置、地點、時間與網路負載而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異，建議出發前確認您的裝置相容性與方案條款。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 荷蘭 eSIM"
-cta_desc: "即時存取，無需等待。購買後立即透過電子郵件接收 QR Code，抵達荷蘭掃描即可啟用。享受 Odido 與 KPN 頂級 5G 網路，告別漫遊費。"
-cta_button_text: "立即購買 荷蘭 eSIM"
-cta_button_link: "/netherlands-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "荷蘭 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 荷蘭 eSIM 指南
+  url: ''
+hero_badge: "荷蘭 eSIM：電信商實地指南"
+hero_subtitle_main: "覆蓋率、價格，以及決定你旅程體驗的細則"
 ---
+
+
+荷蘭是人們造訪時最渾然不覺、卻連線程度最高的國家。城市密集、網路密集，而 Ookla 的 2025 上半年報告顯示一場真正的三強競爭：**Odido** 拿下全國最快的中位數（全技術 216.3 Mbps，5G 上 272.74 Mbps），**KPN Mobile** 以 5G 一致性取勝（88.6% 的樣本下載超過 25 Mbps），**Vodafone** 則穩守廣大的消費主流中間地帶。荷蘭 eSIM 搭載的正是這一切——真正的決策點是你的方案掛在哪個網路上，以及你對荷蘭平原盡頭那些地方的期待：瓦登群島、費呂沃（Veluwe）的森林，以及串連兩者之間的火車。本指南不含任何匿名產品；文末的來源清單涵蓋每一個荷蘭數據。
+
+本指南涵蓋電信商比較、旅客適用的 EU 漫遊角度、在史基浦（Schiphol）機場的落地事宜，以及一個比幾乎任何地方都更容易連線的國家——除了少數例外地區——的覆蓋率誠實真相。你的手機型號是否支援 eSIM，可在[相容性查詢工具](/compatibility/)上得到答案。
+
+**如果只看一段：** Odido 是速度之選——以大幅差距領先荷蘭最快中位數，適合重度流量使用者和熱點分享。KPN Mobile 是穩定之選，尤其在大城市以外和國家公園。Vodafone 是全能型，城市覆蓋在你實際會去的地方都很扎實。以歐洲標準，三家都很優秀；多網路[荷蘭 eSIM](/netherlands-esim/) 則在每個地點自動掛上當地表現最好的網路。
+
+## 為城市小旅行或長期停留挑選 eSIM
+
+以下每個荷蘭測量數據都取自 [Ookla 的 2025 上半年荷蘭分析](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)。
+
+| 行程類型 | 建議電信商 | 原因 |
+|:---|:---|:---|
+| 阿姆斯特丹、鹿特丹、烏特勒支城市停留 | Odido | 全國最快中位數，包括 Eindhoven 的 220.42 Mbps 城市紀錄。 |
+| 鄉村路線：費呂沃、弗里斯蘭、北部 | KPN Mobile | 最佳 5G 一致性（88.6% 超過 25 Mbps 下載）以及在 Randstad 以外最強的紀錄。 |
+| 觀光標準：博物館、運河、一日遊 | Vodafone | 觀光地圖到哪都可靠，速度屬中階但絕不覺得慢。 |
+| 在荷蘭遠端工作 | Odido | 上傳速度（5G 上 28.38 Mbps）和原始頻寬適合視訊通話與大型傳輸。 |
+
+## Odido、KPN 與 Vodafone：誰領先，領先在哪
+
+### Odido vs KPN Mobile：哪家荷蘭電信商更快？
+
+Odido 的 2025 上半年數字在所有頭條指標都領先：全技術中位數下載 **216.3 Mbps**（KPN 為 152.08 Mbps，Vodafone 為 104.7 Mbps）、5G 上 272.74 Mbps、5G 上傳 28.38 Mbps，整體 Speedtest Connectivity Score 為 84.34。它前身是 T-Mobile Netherlands，如今與光纖業者 T-Mobile/Tele2 的基礎設施合併為 Odido 品牌，其領先建立在密集的都會容量上——城市數據表也印證了這點，Eindhoven 的 220.42 Mbps 中位數是全國人口大城中最快的讀值。論原始速度，荷蘭境內沒有對手能接近。
+
+### KPN Mobile：一致性冠軍
+
+KPN 的故事是城市之外真正重要的那個：市場上最佳的 5G 一致性，**88.6% 的樣本達到或超過下載 25 Mbps／上傳 3 Mbps**。它的 5G 中位數下載（182.84 Mbps）和整體中位數（152.08 Mbps）落後於 Odido 的峰值，但 KPN——身為龍頭電信商，肩負主管機關 ACM（Autoriteit Consument en Markt，消費者與市場管理局）執行的最深厚鄉村義務——是在費呂沃和阿姆斯特丹表現如一的網路。對會離開 Randstad 的行程而言，KPN 的地板最高。
+
+### Vodafone：可靠的全能選手
+
+Vodafone 的荷蘭網路整體中位數 104.7 Mbps、5G 上 114.99 Mbps——紙面上三家最慢，卻仍快過歐洲大部分地區的都會現實。它的強項在廣度：觀光荷蘭——博物館區、火車站、史基浦機場、沿海小鎮——覆蓋透徹，網路從不需要你操心。作為多網路設定檔中的一個選項，它是可靠的第三車道。
+
+荷蘭的速度高到讓電信商選擇看起來像學術問題——直到細節說了算。在取材自 2025 年 1 月至 6 月的 Ookla 1H 2025 荷蘭報告中，**Odido** 同時拿下最佳行動網路（Best Mobile Network）和最佳 5G 網路（Best 5G Network）。
+
+| 指標 | Odido | KPN Mobile | Vodafone |
+|:---|:---|:---|:---|
+| Speedtest Connectivity Score | **84.34**（最佳行動網路） | — | — |
+| Speedtest 5G Connectivity Score | **77.11**（最佳 5G 網路） | — | — |
+| 全技術中位數下載 | **216.3 Mbps** | 152.08 Mbps | 104.7 Mbps |
+| 全技術中位數上傳 | **23.98 Mbps** | — | — |
+| 延遲 | 33 ms | — | — |
+| 5G 中位數下載 | **272.74 Mbps** | 182.84 Mbps | 114.99 Mbps |
+| 5G 中位數上傳 | **28.38 Mbps** | — | — |
+| 5G 延遲 | **32 ms** | — | — |
+| 全技術一致性 | 無贏家（92.7–95.5%） | 無贏家 | 無贏家 |
+| 5G 一致性 | — | **88.6%**（最佳） | — |
+| 影音串流分數 | **81.31**（最佳） | — | — |
+| 遊戲分數 | **92.76**（最佳） | — | — |
+| 5G 遊戲分數 | **93.84**（最佳） | — | — |
+| 5 星評分 | — | **3.39**（評分最高） | — |
+
+差距比這個市場看似齊一的品質所暗示的更大：**Odido 的 216.3 Mbps 中位數是 Vodafone 104.7 Mbps 的兩倍以上**，且 5G 上差距更大。但有兩個數字指向另一面。**KPN 擁有最佳的 5G 一致性 88.6%**，而且 **KPN 以 3.39／5 分是其用戶評價最高的網路**——這提醒我們，Ookla 自己的一致性指標在三家中沒有找到統計上的贏家，整個市場落在 92.7% 到 95.5% 之間。
+
+對旅客的誠實總結：任何荷蘭網路對地圖、火車和影片都綽綽有餘，如果設定檔可以選，Odido 是你想要的那個。
+
+### 荷蘭誰領跑速度排名？
+
+| 城市 | 中位數下載 | 上傳 | 延遲 | 一致性 | 最快供應商 |
+|:---|:---|:---|:---|:---|:---|
+| Eindhoven | **220.42 Mbps** | 30.22 Mbps | 31.25 ms | 96.6% | Odido |
+| 鹿特丹 | 210.87 Mbps | 30.33 Mbps | 30.04 ms | 95.9% | Odido |
+| Haarlem | 210.03 Mbps | 24.44 Mbps | 31.48 ms | 95.6% | Odido |
+| 烏特勒支 | 205.11 Mbps | 28.16 Mbps | 30.98 ms | 95.3% | Odido |
+| Groningen | 193.47 Mbps | 26.68 Mbps | 35.72 ms | 96.3% | 無贏家 |
+| Tilburg | 187.94 Mbps | 22.95 Mbps | 32.54 ms | 94.2% | Odido |
+| 阿姆斯特丹 | 186.4 Mbps | 24.07 Mbps | 30.54 ms | 94% | Odido |
+| 海牙 | 184.74 Mbps | 26.27 Mbps | 30.23 ms | 94.1% | Odido |
+| Arnhem | 184.51 Mbps | 25.97 Mbps | 30.29 ms | 94.7% | 無贏家 |
+| Almere | 181.13 Mbps | 21.4 Mbps | 32.86 ms | 94.9% | Odido |
+
+阿姆斯特丹並不是荷蘭最快的城市——Eindhoven 才是，快了 34 Mbps——但首都的 30.54 ms 延遲與其他地方不相上下，而且十個城市之間的差距只有 39 Mbps。這種平坦性才是實際重點：在阿姆斯特丹、烏特勒支、鹿特丹和海牙之間搭火車旅行，不會出現任何連線成為問題的時刻。
+
+### 荷蘭 eSIM 各省份表現
+
+| 省份 | 中位數下載 | 一致性 | 最快供應商 |
+|:---|:---|:---|:---|
+| 南荷蘭省（South Holland） | **171.35 Mbps** | 95.7% | Odido |
+| 烏特勒支省 | 162.28 Mbps | 95% | Odido |
+| Overijssel | 161.19 Mbps | 94.9% | Odido |
+| 北布拉邦省（North Brabant） | 159.64 Mbps | 94.9% | Odido |
+| 北荷蘭省（North Holland） | 159.28 Mbps | 94.6% | Odido |
+| Limburg | 156.58 Mbps | 95.2% | Odido |
+| Zeeland | 156.31 Mbps | 95% | Odido |
+| Flevoland | 153.7 Mbps | 93.7% | Odido |
+| 海爾德蘭省（Gelderland） | 151.26 Mbps | 93.8% | Odido |
+| 弗里斯蘭省（Friesland） | 144.49 Mbps | 95.7% | Odido |
+| Groningen 省 | 143.71 Mbps | 95.3% | Odido |
+| Drenthe | 133.13 Mbps | 92.5% | Odido |
+
+荷蘭的區域地板水準驚人：**連最慢的省份 Drenthe 都有 133.13 Mbps**，這在多數國家是榜首數字。Odido 是全部十二個省份的最快供應商，一致性處處高於 92%。如果你的行程是在弗里斯蘭騎單車或去瓦登群島，連線根本不是規劃上的限制。
+
+## 帶著 eSIM 跨境移動
+
+荷蘭是 EU 會員國，因此適用「如同在家漫遊」（roam like at home）框架：在其他 EU 國家發行的 SIM 或 eSIM 在這裡以國內費率使用，額度受你的居家方案所設的公平使用流量上限約束——歐盟執委會的[漫遊頁面](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm)記載了相關權利與限制。來自 EU 之外的旅人（含脫歐後的英國）沒有自動權利，而居家電信商在西歐的漫遊費率穩定地昂貴。
+
+對其他人來說，直接的路徑是在出發前購買並安裝好的旅遊設定檔：落地時它掛上 Odido、KPN 或 Vodafone，居家門號留在卡槽裡收驗證訊息。純數據設定檔不含荷蘭電話號碼——對多數觀光客無關緊要，因為荷蘭的日常生活（NS 行程規劃、iDEAL 付款、餐廳訂位）都透過 App 進行，只靠數據就跑得動。一個本地的小差異：許多荷蘭 App 預設歐洲付款方式，但連線本身從來不是障礙。
+
+💡 接下來要飛比利時或德國？區域設定檔讓你不用買兩次；我們的[比利時 eSIM 指南](/carriers/belgium-esim-carrier-guide/)和[德國 eSIM 方案](/germany-esim/)涵蓋鄰近路段。
+
+## 你的 eSIM 價格對比荷蘭預付卡
+
+荷蘭定價——純數據與無限量方案都有——見於[荷蘭 eSIM 頁面](/netherlands-esim/)。公開基準數據給出了框架：
+
+**158.27 Mbps** 的行動中位數下載讓荷蘭在 Ookla 2026 年 8 月指數中排全球**第 18 名**，延遲 19 ms，遠高於 109.05 Mbps 的全球中位數。荷蘭行動網路在本地使用上也是歐洲最貴的之一：Cable.co.uk 定價 1 GB 為 **1.61 美元**（237 個市場中第 138 名）——低於 2.59 美元的全球平均，但遠高於鄰國比利時和德國的本地費率。本地預付卡需要到店出示證件註冊，這正是旅遊 eSIM 途徑完全去除的摩擦。DataReportal 記錄這裡有 2,530 萬個行動連線——人口的 138%——是歐洲最小也最密集的市場之一。
+
+實際翻譯成白話：你在這裡買旅遊 eSIM 是為了方便和即開即用，不是為了價格套利——荷蘭本地方案性價比不錯，而任何設定檔背後的網路都很優秀。
+
+## 荷蘭 eSIM 覆蓋率：Randstad、海岸與邊境地區
+
+| 目的地 | 最佳電信商 | 為什麼好用 |
+|:---|:---|:---|
+| 阿姆斯特丹 | KPN, Odido | 兩家在運河環帶都很優秀；繁忙市中心周邊 KPN 一致性略勝，Odido 則是原始速度。 |
+| 鹿特丹與海牙 | Odido | 全市最快中位數延續到 Randstad 南部；港區覆蓋透徹。 |
+| Eindhoven | Odido | 全國最快的城市（中位數 220.42 Mbps）——Odido 的科技園區腹地。 |
+| 烏特勒支與中部 | KPN | 大學城的一致性，火車、校園與共同工作空間都穩。 |
+| 高費呂沃國家公園與森林 | KPN | 國家公園正是 KPN 鄉村一致性發揮之處；Odido 和 Vodafone 在步道上退回 4G。 |
+| 瓦登群島與北部 | Vodafone, KPN | 主要島嶼（Texel、Terschelling）覆蓋良好；較小的島嶼和渡輪航線對誰都是零星。 |
+
+## 在抵達史基浦之前安裝荷蘭 eSIM
+
+落地後沒有東西要領取。設定檔在結帳後以電子郵件送達；[荷蘭 eSIM 頁面](/netherlands-esim/)有最新方案，[逐步啟用教學](/faq/how-to-activate-an-esim/)處理 iOS 和 Android 的安裝。在 eSIM 門號上開啟數據漫遊——這是人們最常忘記的一個開關——並把它設為數據連線，居家 SIM 繼續負責語音和簡訊。
+
+兩個荷蘭特有的提醒。第一，在家安裝：史基浦機場沒問題，但沒有必要把列車排隊的時間花在除錯一個在客廳 Wi-Fi 上兩分鐘就能裝好的設定檔。第二，火車是個測試案例：三家網路的城際覆蓋都不錯，且貫穿 Randstad 大部分地區，但深切的隧道和北部路線的少數鄉村路段仍會短暫掉入死區——搭長途車前先下載 NS 車票和離線地圖。如果設定檔真的裝上了卻始終連不上，[eSIM 故障排除指南](/faq/esim-activation-errors-troubleshooting-guide/)裡的結構化檢查清單會抓出其餘的原因。
+
+## 荷蘭的火車、單車，以及你的 eSIM 驅動的 App 層
+
+荷蘭對 App 的依賴比幾乎任何目的地都深，而這些 App 定義了你的 eSIM 實際上在做什麼。
+
+**鐵路層。** NS 行程規劃和電子車票靠數據運作，而 Odido、KPN 和 Vodafone 的城際覆蓋貫穿 Randstad 大部分地區——隧道和北部少數鄉村路段會短暫掉線，所以長途車前先下載車票。非接觸式卡付款（OVpay）可直接在車站閘門使用，如果你的手機付款卡在抵達前就設定好，這點很值得知道。
+
+**單車層。** OV-fiets 租賃單車用同一張交通卡解鎖，導航用 Google Maps 或荷蘭的單車 App——兩者都吃流量，但在三家任一網路上都沒問題。在阿姆斯特丹開著即時導航騎單車，確實是對都會網路更好的測試之一，而三家都通過了。
+
+**博物館與訂票。** 大型機構（Rijksmuseum、梵谷博物館、安妮之家）採時段入場票，旺季真的會售罄——前一晚用 Wi-Fi 訂票、離線攜帶 QR，是永不失手的做法。
+
+這些都不需要荷蘭電話號碼；需要的是可靠的數據，而這正是荷蘭網路從不虧待你的那一件事。
+
+## 荷蘭 eSIM 頻段、手機，以及在這裡真正重要的事
+
+| 技術 | 使用頻段 | 對你的手機意味著什麼 |
+|:---|:---|:---|
+| 4G LTE | 800 MHz (B20)、1800 MHz (B3)、2600 MHz (B7) | 標準荷蘭組合；歐洲或亞洲販售的手機幾乎都支援 |
+| 4G LTE（額外容量） | 2100 MHz (B1)、900 MHz (B8) | 都會容量與鄉村備援 |
+| 5G | 3.5 GHz (n78)，另有 700 MHz (n28) 與 2100 MHz (n1) 負責涵蓋 | n78 帶來 272 Mbps 中位數；n28 把 5G 鋪進鄉村 |
+| 舊制 | GSM 900/1800、UMTS 2100 | 僅語音備援 |
+
+兩個相容性提醒。第一，荷蘭使用歐洲頻段規劃，為北美市場購買的手機可能缺少 B20 和 n78——在市中心可用，但在 Zeeland 和 Drenthe 會變薄。第二，在國外綁約購買的電信鎖手機會完全拒絕設定檔。[eSIM 相容性檢查器](/compatibility/)一次查詢就能解決這兩個問題。
+
+## 真正有效的 APN 設定
+
+荷蘭電信商會自動推送設定，而旅遊 eSIM 自帶設定檔，所以在這裡手動輸入 APN 真的很罕見。如果你在購買本地門號後確實需要，市場上的模式是一致的：APN 欄位填入電信商自己的字串，使用者名稱和密碼留空，確切數值以電信商支援頁面為準，而不是第三方清單。
+
+- **iPhone：** 設定 → 行動網路（Cellular）→ 荷蘭 eSIM → 行動數據網路 → APN。
+- **Android：** 設定 → 連接 → 行動網路 → 存取點名稱（APN）→ **+** → 輸入 APN 並儲存。
+
+值得記住選單路徑的原因，是它能解決的症狀：**本地購買的預付卡門號有訊號格卻沒數據**，幾乎都是 APN 或數據門號問題，不是網路故障。在旅遊 eSIM 上，對應的症狀幾乎總是數據門號或漫遊開關。
+
+## 哪條路徑花費更少
+
+| 步驟 | 發生什麼 |
+|:---|:---|
+| 購買 | KPN、Odido 和 Vodafone 門市、超市、手機行以及史基浦機場抵達大廳 |
+| 註冊 | 荷蘭的預付卡 SIM 相對自由販售，但部分電信商啟用時要求出示證件 |
+| 啟用 | 店員幾分鐘內啟用；加值透過儲值券或電信商 App |
+| 續約 | 荷蘭預付卡套餐常自動續約，不想續第二個月就要查看 App |
+
+荷蘭是本地購買較容易的 EU 市場之一——隊伍短、店員會說英文、隨處可買。仍然要帶著 eSIM 抵達的理由是：預先安裝的設定檔從飛機落地那一刻就能用，對三天的阿姆斯特丹行程而言，這是落地即有數據與第一天就四處找門市的差別。
+
+## 荷蘭 eSIM 的流量規劃，短期或長期停留
+
+| 行程 | 典型長度 | 舒適額度 | 原因 |
+|:---|:---|:---|:---|
+| 阿姆斯特丹城市小旅行 | 3–4 天 | 3–5 GB | 飯店和咖啡廳 Wi-Fi 無所不在又快 |
+| 搭火車遊阿姆斯特丹、鹿特丹、海牙 | 5–7 天 | 5–8 GB | 火車 Wi-Fi 尚可但隧道中不可靠 |
+| 單車之旅，弗里斯蘭或 Zeeland | 7–10 天 | 8–12 GB | 導航整天運作，鄉村 Wi-Fi 更少見 |
+| 瓦登群島 | 4–5 天 | 4–6 GB | 渡輪和島上覆蓋比本土薄 |
+| 含通話的商務一週 | 5 天 | 5–8 GB | 33 ms 延遲讓網路堪當臨時辦公室 |
+| 遠端工作一個月 | 30 天 | 25 GB 以上或本地方案 | 荷蘭固網寬頻快又便宜，大量工作交給它 |
+
+## 荷蘭 eSIM 故障與排除方法
+
+**安裝無法開始。** 先檢查手機的電信鎖，再確認 QR 代碼是否已被使用過；QR 為單次有效，解法是向供應商要一組新代碼。
+
+**裝好了卻沒有訊號格。** 先強制關閉射頻十五秒，然後在「網路選擇」中手動選擇 Odido、KPN 或 Vodafone。從德國或比利時入境的旅客例行性地需要這一步來強制重新連上荷蘭網路。
+
+**有訊號格但數據卡住。** 檢查三件事：eSIM 是行動數據門號、它已允許漫遊、以及本地預付卡的 APN 與電信商相符。如果你是從比利時或德國入境，先開關一次飛航模式再深入調查。
+
+**僅限緊急通話。** 關閉其他作用中的設定檔、重啟，然後重設網路設定；新安裝會排在清單最底。
+
+超出這些範圍的問題屬於[完整 eSIM 故障排除指南](/faq/esim-activation-errors-troubleshooting-guide/)，而[啟用步驟](/faq/how-to-activate-an-esim/)涵蓋安裝本身。
+
+## 阿姆斯特丹以外的荷蘭覆蓋：三角洲、群島與邊境
+
+荷蘭有這份整本指南中最平坦的連線概況——十大城市之間差距 39 Mbps，最慢省份的地板是 133.13 Mbps。這讓路線規劃異常簡單，只有三個值得知道的特定例外。
+
+| 路線 | 省份 | 中位數下載 | 備註 |
+|:---|:---|:---|:---|
+| 阿姆斯特丹、Haarlem、烏特勒支 | 北荷蘭省、烏特勒支省 | 186–210 Mbps | 核心鐵路三角；沒有需要繞著規劃的缺口 |
+| 鹿特丹、海牙、Delft | 南荷蘭省 | 171.35 Mbps——最快省份 | 全國連線最好的區域 |
+| Eindhoven 與北布拉邦 | 北布拉邦省 | 城市 220.42 Mbps、省份 159.64 Mbps | Eindhoven 是荷蘭最快的城市 |
+| Groningen、弗里斯蘭、Drenthe | 北部 | 143.71、144.49、133.13 Mbps | 全國最低中位數，但仍相當快 |
+| Zeeland 與三角洲工程 | Zeeland | 156.31 Mbps，一致性 95% | 島嶼之間的鄉村道路是薄弱點 |
+| 瓦登群島：Texel、Vlieland、Terschelling | 弗里斯蘭、北荷蘭 | 島上覆蓋各異 | 渡輪航線沒有可用訊號 |
+| Maastricht 與 Limburg | Limburg | 156.58 Mbps | 南端尖角；跨境進比利時或德國時留意 EU 漫遊 |
+
+三個例外值得事先準備。**往瓦登群島的渡輪航線**是連線會中斷一小時以上的地方，上船前先確認住宿和單車租借。**三角洲工程與 Zeeland 的鄉村道路**有你在城市裡找不到的薄弱點，即使該省整體一致性達 95%。而**邊境地區**——Maastricht 進比利時和德國、Enschede 進德國——如果你的方案僅限荷蘭，可能會是電信商切換而非漫遊計費，所以任何會碰到鄰國的行程，多國歐洲設定檔是更安全的購買。
+
+數據明確**不**支持的一個想法是：荷蘭之旅需要高階方案或特定電信商。全國地板 133 Mbps、中位數延遲 33 ms、每個省份一致性都在 92% 以上，網路不是變數——你的方案額度才是。按行程配額，不用按覆蓋配額。
+
+### 荷蘭火車過境：當你的 eSIM 進入比利時或德國
+
+荷蘭小到邊境會出現在平常的一日遊上，而這正是兩個看似相同的產品分道揚鑣之處。**荷蘭電信商 SIM**——來自 Odido、KPN 或 Vodafone 的本地預付卡門號——在 roam-like-at-home 規則下於 EU 境內免費漫遊。**荷蘭旅遊 eSIM** 是單一國家產品，在邊境就停止，這會讓走阿姆斯特丹–布魯塞爾或阿姆斯特丹–科隆路線的人措手不及。
+
+如果行程留在單一國家內，荷蘭 eSIM 是較便宜的答案。如果是經布魯塞爾和科隆再折返的鐵路環線，把歐洲區域方案和三個國家設定檔比價——我們的[比利時 eSIM 電信商](/belgium-esim/)和[德國 eSIM 頁面](/germany-esim/)涵蓋最常見的兩段。
+
+## 荷蘭 eSIM 與電信商：問題服務台
+
+### Odido vs KPN Mobile：在荷蘭哪個更好？
+
+看你在哪裡，誰最強就選誰——這正是多網路設定檔的論點。單一網路方案：城市裡要速度選 Odido，城市外要穩定選 KPN，要可靠的中間地帶覆蓋選 Vodafone。在阿姆斯特丹或鹿特丹市內，它們之間的差異比行銷暗示的小。
+
+### Odido vs KPN Mobile 5G：在荷蘭哪個更好？
+
+在城市和城際走廊上，實質上是有——荷蘭在 2026 年 8 月排全球第 18 名。誠實的例外是較小的瓦登群島、部分自然保護區，以及弗里斯蘭和 Drenthe 的少數鄉村角落，那裡 4G 仍是主力。
+
+### 荷蘭 eSIM 可以分享熱點嗎？
+
+可以，而且值得：城市裡的飯店 Wi-Fi 常常計量收費或很慢，掛在 Odido 上的設定檔開 5G 熱點，對筆電工作常常是更快的選項。
+
+### 哪些手機能跑荷蘭 eSIM？
+
+幾乎不需要。交通、付款和訂票都透過只靠數據就能運作的 App，驗證碼則透過實體 SIM 卡送到你的居家門號。荷蘭號碼只有長期停留和本地合約才重要；對一般造訪而言，eSIM 上的一個數據方案——行程拉長就在中途加值——包辦一切。
+
+### 我的 EU SIM 在荷蘭能用嗎？
+
+如果是在另一個 EU 國家發行的，可以——EU 漫遊規則適用，公平使用流量上限由你的居家方案定義。英國、美國和其他非 EU 設定檔沒有這些權利，這正是為什麼專屬的[荷蘭 eSIM](/netherlands-esim/) 才是可預期的選項。
+
+### Odido vs KPN Mobile：覆蓋率比較
+
+確認 eSIM 已被選為數據門號且其數據漫遊已開啟，然後開關一次飛航模式。重啟後問題仍在，就照[啟用故障排除指南](/faq/esim-activation-errors-troubleshooting-guide/)逐步排查——APN 和設定檔狀態是最常見的其餘原因。
+
+### 各電信商的荷蘭行動速度
+
+Odido，在所有頭條指標上：全技術中位數下載 216.3 Mbps、5G 中位數下載 272.74 Mbps、最佳影片分數 81.31、最佳遊戲體驗 92.76。它也是十個受測城市和十二個省份中全部的最快供應商。
+
+### 在荷蘭 KPN 比 Odido 好嗎？
+
+有兩項指標上是：KPN 擁有市場上最佳的 5G 一致性 88.6%，且以 3.39／5 分是其用戶評價最高的荷蘭網路。Odido 贏在速度。既然 Ookla 在三家的整體一致性上沒有找到統計差異，選擇的重要性比差距暗示的小。
+
+### 荷蘭行動數據有多快？
+
+阿姆斯特丹錄得 186.4 Mbps 中位數下載、24.07 Mbps 上傳、30.54 ms 延遲。它不是荷蘭最快的城市——Eindhoven 以 220.42 Mbps 領先——但首都的延遲與全國任何地方一樣好，這正是它感覺快的原因。
+
+### 為什麼 Vodafone 在荷蘭比 Odido 慢？
+
+Ookla 的 1H 2025 報告記錄 Vodafone 中位數下載 104.7 Mbps，對比 Odido 的 216.3 Mbps；5G 上為 114.99 Mbps 對 272.74 Mbps。兩者都仍然相當快；差距反映的是頻譜持有和基地台密度，而不是一般使用者在地圖或訊息上會察覺的任何東西。
+
+### 荷蘭頂尖的 5G 電信商？
+
+不需要。荷蘭最慢的省份 Drenthe，在含 4G 的指標上仍有 133.13 Mbps，比多數國家的 5G 還快。5G 增加的是大型傳輸的餘裕，而不是改變一般旅遊使用時網路的感受。
+
+### Odido 和 KPN Mobile eSIM 的 APN 值
+
+荷蘭電信商自動推送設定，旅遊 eSIM 自帶設定檔，所以很少需要手動輸入。如果你買了本地預付卡，確切數值用電信商自己的支援頁面，不要用第三方清單——選單路徑在 iPhone 上是「設定 → 行動網路（Cellular）→ 行動數據網路」。
+
+### 荷蘭 eSIM 能涵蓋比利時和德國嗎？
+
+帶 EU 漫遊的方案可以：荷蘭在 roam-like-at-home 框架內，額度可跨境使用不加價，公平使用限制除外。我們的[比利時覆蓋頁面](/belgium-esim/)涵蓋南邊鄰國。
+
+### 荷蘭鄉村覆蓋：Odido vs KPN Mobile
+
+出奇地好。全國延遲 33 ms、多數省份一致性 95% 以上、中位數 180 Mbps 以上，意味著行動連線是可信的辦公室替代品，而荷蘭的飯店與咖啡廳 Wi-Fi 也快到足以處理大量傳輸。
+
+### 10 GB 在荷蘭夠用嗎？
+
+火車加城市的一週預抓五到八 GB：地圖、訊息和照片備份佔大宗，串流交給飯店 Wi-Fi。單車之旅再加幾 GB，因為導航整天連續運作。
+
+### 可以向 Odido 買荷蘭 eSIM 嗎？
+
+可以——史基浦機場抵達大廳有電信商櫃檯和販售預付卡 SIM 的商店，通常店員會說英文、隊伍不長。對旅客而言，荷蘭電信商的 eSIM 比實體路徑更難預期，這是在登機前先安裝旅遊設定檔的理由之一。
+
+### 荷蘭數據方案一覽
+
+以每 GB 計，荷蘭落在歐洲中段——在 Cable.co.uk 的定價研究中比比利時和德國便宜，比波蘭或羅馬尼亞貴。本地預付卡套餐是划算路徑；旅遊 eSIM 則是落地即用的那一個。
+
+### 荷蘭 SIM 需要證件嗎？
+
+比許多 EU 市場寬鬆——預付卡 SIM 隨處可買，但部分電信商啟用時要求出示證件。不是你在匈牙利或科威特遇到的那種生物辨識式註冊，但仍然是要到店一趟，而非即買即用。
+
+### 挑選你的荷蘭數據額度
+
+一週五到八 GB 是誠實的範圍。電車、博物館和咖啡廳都有 Wi-Fi，所以 eSIM 承載的是地圖、車票、翻譯和晚間的上傳，而非所有東西。如果你打算在咖啡廳工作就再加幾 GB，因為荷蘭網路快到一場視訊通話會不知不覺吃掉一小時的額度。
+
+### 瓦登群島的覆蓋夠好嗎？
+
+群島本身的主要村莊有都會級覆蓋，與本土弗里斯蘭 144.49 Mbps 的中位數相當。例外是渡輪航程：Den Helder 到 Texel、或 Harlingen 到 Terschelling 之間，一小時以上沒有可用訊號，所以上船前先訂好住宿和交通。
+
+### 哪個荷蘭城市的行動數據最快？
+
+Eindhoven，中位數 220.42 Mbps，領先鹿特丹的 210.87 和 Haarlem 的 210.03 Mbps。阿姆斯特丹在十城表中排第七，186.4 Mbps——人口密度犧牲了它的峰值速度，但其 30.54 ms 延遲與全國任何地方一樣好。
+
+### 荷蘭 eSIM 在哪裡販售
+
+值得，理由和在 EU 任何地方買都一樣：到手即已安裝、落地即能用，而史基浦機場不是你該花第一個小時找 SIM 的地方。荷蘭的零售路徑很方便，但那仍是你短期假期不需要排的隊。
+
+### 荷蘭行動數據在火車上好用嗎？
+
+比火車 Wi-Fi 好得多。阿姆斯特丹、烏特勒支、鹿特丹和海牙之間的城際列車穿越的省份，中位數最低 143 Mbps、一致性 95% 以上，而車上 Wi-Fi 共享且在隧道中不穩。重要的事都交給 eSIM。
+
+### 島上的行動數據夠用來視訊通話嗎？
+
+在主要村莊，可以——Texel、Terschelling 和 Schiermonnikoog 有本土等級的覆蓋，從民宿打視訊沒問題。不行的是在水上打：從 Den Helder 和 Harlingen 出發的航程，一小時以上沒有可用訊號，這一點在排定渡輪上的會議之前值得知道。
+
+### 荷蘭行動電信商速覽
+
+網路端幾乎不會，方案端偶爾會。荷蘭電信商對一般數據流量不公布任何限速，但旅遊設定檔的公平使用條款可能特別針對熱點使用設上限。對城市小旅行這無關緊要；如果你打算 tether 筆電工作一整週，買之前先讀該方案的條款，而不是之後。
+
+### 荷蘭 eSIM 設定，一步一步
+
+事前。設定檔在註冊上荷蘭網路之前處於休眠狀態，所以在家載入不花任何成本，也免掉你在史基浦機場找 Wi-Fi 和 QR 代碼的狼狽。有效期從第一次註冊起算，不是付款那天。
+
+### 在荷蘭該買本地嗎？
+
+僅限荷蘭的設定檔不會——但區域歐洲方案會，而且如果你的行程會跨境，這才是值得買的版本。單一國家 eSIM 在火車駛離荷蘭網路時連線中斷；多國方案讓同一個設定檔穿越布魯塞爾或亞琛時保持運作。如果行程留在荷蘭境內，沒有理由為多餘的覆蓋付錢。
+
+### 依旅遊風格選最佳荷蘭 eSIM
+
+可以，和在家完全一樣：實體 SIM 收電話和驗證碼，eSIM 走荷蘭數據。荷蘭網路快到實際風險與旅人預期相反——你會比計畫用更多數據，而不是更少，因為連線好到讓你忘了它的存在。
+
+### 史基浦機場 SIM 攤位，還是預先購買的 eSIM？
+
+荷蘭預付卡很好買——超市、手機行、機場——而且需要註冊，這在搭完紅眼航班、早上七點時是你未必想要的一步。預先購買的[荷蘭 eSIM](/netherlands-esim/) 讓你不經櫃檯就獲得 Odido、KPN 和 Vodafone 的覆蓋。想先看看它表現如何，可以先用[免費試用 eSIM](/free-esim/)。
+
+## 荷蘭 eSIM 資料來源：數字從哪裡來
+
+三份公開參考資料支撐本頁。電信商指標、5G 可用率以及所有城市和省份讀值取自 [Ookla 的 1H 2025 荷蘭報告](https://www.ookla.com/research/reports/netherlands-speedtest-connectivity-report-h1-2025)。荷蘭中位數每月在[荷蘭的 Ookla 指數](https://www.speedtest.net/global-index/netherlands)更新，158.27 Mbps 數字與第 18 名排名都在那裡。本文引用的 EU 漫遊權利改述自[歐盟執委會的 Your Europe 頁面](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm)。如果我們的來源對荷蘭數據有分歧，我們呈現區間而不是好看的數字。
+
+另有兩個媒體提供金錢與人口背景：
+
+- [Cable.co.uk 的全球定價調查](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) ——每 GB 1.61 美元、237 個市場中第 138 名的來源。
+- [DataReportal, Digital 2025: Netherlands](https://datareportal.com/reports/digital-2025-netherlands) ——連線數與人口覆蓋。
+
+## 上飛機前選好你的荷蘭 eSIM 設定檔
+
+Odido、KPN 和 Vodafone 表現都好；要避免的是在第一天排註冊隊伍。
+
+選擇[荷蘭 eSIM 方案](/netherlands-esim/)，或先用[先試再買](/free-esim/)。
+
+[預訂荷蘭 eSIM](/netherlands-esim/)
+
+*一個設定檔，每個網路*
+
+Roami 的建議很簡單：落地即連線。先用[試駕 eSIM](/free-esim/) 無風險體驗 Odido 覆蓋，試用說服你之後，用代碼 **WEB20** 購買完整的 Roami 方案。

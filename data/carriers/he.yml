@@ -124,12 +124,6 @@ denmark:
   btn_text: "מפעילי דנמרק"
   btn_url: "/carriers/denmark-esim-carrier-guide/"
 
-dominican:
-  title: "מדריך מפעילי eSIM דומיניקנית"
-  desc_html: "מפעילים בדומיניקנית: Claro, Altice, Viva. טבלת השוואת תכונות eSIM."
-  btn_text: "מפעילי דומיניקנית"
-  btn_url: "/carriers/dominican-esim-carrier-guide/"
-
 dominican-republic:
   title: "מדריך מפעילי eSIM הרפובליקה הדומיניקנית"
   desc_html: "מפעילים עיקריים ברפובליקה הדומיניקנית: Claro, Altice, Viva. כיסוי eSIM ותמיכה בנקודה חמה במבט אחד."

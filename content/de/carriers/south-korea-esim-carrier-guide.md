@@ -1,390 +1,370 @@
 ---
-title: "Beste Südkorea eSIM Tarife für Reisende 2026."
-description: "Besser verbunden in Südkorea: Roami vergleicht SK Telecom, LG U+ und KT, damit Sie die ideale eSIM vor Ihrer Südkorea Reise wählen können."
-date: "2026-06-17T06:04:19+00:00"
-
-keywords: eSIM Südkorea, Prepaid Daten, 5G Netz, SK Telecom, LG U+, KT, Roami eSIM,
-  Reise eSIM, mobiles Internet Südkorea
+title: "SK Telecom führt das Feld für Ihre Südkorea-eSIM"
+description: "SK Telecom führt insgesamt, LG U+ bei 5G, KT am Flughafen. Der Südkorea-eSIM-Vergleich mit Passregel, APN-Werten und Jeju-Abdeckung."
+image: "img/esim/carriers/south-korea-esim-carrier-guide.jpg"
+date: "2026-09-23T19:49:44+00:00"
+keywords: eSIM Südkorea, Südkorea eSIM-Netzbetreiber, Prepaid-Daten, 5G-Netz, SK Telecom, LG U+, KT, Roami eSIM, Reise-Internet
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
 - name: Roami
   url: /
-- name: Südkorea eSIM-Guide
+- name: Leitfaden für eSIM in Südkorea
   url: ''
-hero_badge: 🇰🇷 Südkorea Reise-eSIM Aktueller Guide
-hero_subtitle_main: 'Südkorea eSIM: Premium-Wahl für 5G-Reisenetzwerke'
-hero_subtitle_highlight: Premium 5G-Netzabdeckung durch SK Telecom, LG U+ und KT
-hero_description_line1: Verabschieden Sie sich von exorbitanten internationalen Roaming-Gebühren
-  mit einer Südkorea eSIM. Verbinden Sie sich schnell mit lokalen Netzwerken und genießen
-  Sie stabile High-Speed-Daten für eine entspannte Reise.
-hero_description_line2: Verbinden Sie sich in Sekundenschnelle und genießen Sie unbegrenztes
-  Surfen.
-hero_link_text: Südkorea eSIM
-hero_link_url: /south-korea-esim/
-tldr_summary: 'Nahtloser Netzwerkwechsel in mehreren Ländern: Der neue Standard für
-  reisende digitale Nomaden. Südkorea ist ein globaler 5G-Vorreiter mit nahezu landesweiter
-  Abdeckung. Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-  erreicht SK Telecom im Gesamtnetz eine Speed Score von 236,24 und eine mediane Downloadrate
-  von 205,10 Mbps. Für 5G-Nutzer bietet LG U+ mit einer Speed Score von 456,32 und
-  einer medianen 5G-Downloadrate von 546,83 Mbps die schnellste mobile Gaming-Erfahrung.
-  Mit einer Roami eSIM surfen Sie in Seoul, Busan oder Daejeon stets im besten verfügbaren
-  Netz – ohne Vertragsbindung und mit sofortiger Aktivierung.'
-sidebar_more_hint: Wischen, um mehr zu sehen
-sidebar_title: Südkorea eSIM Schnelle Links
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Kurzauswahl: Welchen Südkorea eSIM-Anbieter sollten Sie wählen?'
-- href: '#operators'
-  text: Top Südkorea eSIM-Mobilfunkanbieter im Test
-- href: '#city-guide'
-  text: 'Städte-Guide: Die beste eSIM für Südkorea'
-- href: '#before-buy'
-  text: Dinge, die Sie vor dem Kauf einer Südkorea eSIM wissen müssen
-- href: '#faq'
-  text: Häufig gestellte Fragen zur Südkorea eSIM
-- href: '#myths'
-  text: Mythen und Fakten über die Südkorea eSIM
-- href: '#data-sources'
-  text: Datenquellen
-quick_picks_title: 'Kurzauswahl: Welchen Südkorea eSIM-Anbieter sollten Sie wählen?'
-quick_picks_table_headers:
-- Ihr Reisestil
-- Empfohlener Anbieter
-- Netzwerkdatenleistung
-quick_picks_note_prefix: 'Datenquelle: '
-quick_picks_note_carrier: '[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Digitale Nomaden
-  carrier: SK Telecom
-  carrier_class: text-blue-600
-  reason: Beste Gesamtleistung mit Speed Score 236,24 und höchster Konsistenz (89,6%
-    der Tests über 5 Mbps Down/1 Mbps Up). Ideal für Videokonferenzen und Cloud-Arbeit.
-- travel: Gamer & Streamer
-  carrier: LG U+
-  carrier_class: text-red-600
-  reason: Schnellstes 5G-Netz mit 456,32 Speed Score und bester Gaming-Erfahrung (92,56
-    Game Score). Perfekt für latenzempfindliche Anwendungen.
-- travel: Städte-Entdecker
-  carrier: KT
-  carrier_class: text-gray-600
-  reason: Starke 5G-Downloadraten (526,41 Mbps) und zuverlässige Abdeckung in Ballungszentren.
-    Gute Wahl für Touristen in Seoul und Busan.
-cta_button_main_text: Die kostengünstigste Südkorea Reise-eSIM ansehen
-cta_button_sub_text: Automatischer Netzwerkwechsel, unterstützt automatischen Prepaid-Daten-Preisvergleich
-operator_labels:
-  best_for: 'Am besten für:'
-  core_data: 'Kerndaten:'
-  connect_note_label: 'eSIM-Verbindungshinweis:'
-operators:
-- id: sk-telecom-esim
-  title: 'SK Telecom eSIM Test: Beste Gesamtleistung'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für alle, die eine zuverlässige
-    und schnelle Verbindung in ganz Südkorea benötigen. Laut [Ookla Speedtest Connectivity
-    Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-    ist SK Telecom der schnellste Mobilfunkanbieter mit einer Speed Score von 236,24
-    und einer medianen Downloadrate von 205,10 Mbps. Die Netzwerkkonsistenz liegt
-    bei 89,6% – ideal für Geschäftsreisende und digitale Nomaden.
-  core_data: '- **5G-Verfügbarkeit**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-    beträgt die mediane 5G-Downloadrate von SK Telecom 513,74 Mbps.
-
-    - **Downloadrate**: Median 205,10 Mbps (alle Technologien).
-
-    - **Uploadrate**: Median 19,53 Mbps.
-
-    - **Latenz**: 90 ms.
-
-    - **Konsistenz**: 89,6% der Tests erreichen mindestens 5 Mbps Down/1 Mbps Up.'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde (KCC) und unabhängige
-    Tests von OpenSignal. SK Telecom hält den größten Marktanteil in Südkorea.
-  connect_note: Die Aktivierung verläuft nahtlos über QR-Code. Nach der ersten Verbindung
-    wählt sich die Roami eSIM automatisch in das SK Telecom Netz ein.
-  user_scenarios: '- **Seoul (Myeongdong)**: Selbst in dicht besiedelten Einkaufsstraßen
-    bleibt die Verbindung stabil. Laden Sie Karten und Social Media ohne Verzögerung.
-
-    - **Busan (Haeundae Beach)**: Auch am Strand surfen Sie mit hoher Geschwindigkeit.
-    Perfekt für Instagram Stories und Videoanrufe.
-
-    - **Jeju Island**: In ländlichen Gebieten bietet SK Telecom die beste Abdeckung.
-    Ideal für Roadtrips und Wanderungen.'
-  bg_color: bg-blue-50
-- id: lg-uplus-esim
-  title: 'LG U+ eSIM Test: 5G-Spitzenreiter für Gamer'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für Gamer und Streamer, die
-    auf niedrige Latenz und hohe 5G-Geschwindigkeiten angewiesen sind. Laut [Ookla
-    Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-    ist LG U+ der schnellste 5G-Anbieter mit einer Speed Score von 456,32 und einer
-    medianen 5G-Downloadrate von 546,83 Mbps. Die beste mobile Gaming-Erfahrung (92,56
-    Game Score) macht diesen Anbieter zur ersten Wahl für Online-Gaming unterwegs.
-  core_data: '- **5G-Verfügbarkeit**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-    beträgt die mediane 5G-Downloadrate von LG U+ 546,83 Mbps.
-
-    - **5G-Uploadrate**: Median 44,28 Mbps.
-
-    - **5G-Latenz**: 72 ms.
-
-    - **Speed Score (5G)**: 456,32.
-
-    - **Gaming Score (5G)**: 92,56.'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde (KCC). LG U+ investiert
-    stark in 5G-Infrastruktur und bietet die beste Performance in Ballungszentren.
-  connect_note: Die Aktivierung verläuft nahtlos über QR-Code. Nach der ersten Verbindung
-    wählt sich die Roami eSIM automatisch in das LG U+ Netz ein.
-  user_scenarios: '- **Seoul (Gangnam)**: In der Technologie-Hochburg surfen Sie mit
-    maximaler 5G-Geschwindigkeit. Perfekt für Cloud-Gaming und 4K-Streaming.
-
-    - **Daejeon (Daedeok Innopolis)**: In der Wissenschaftsstadt profitieren Sie von
-    den schnellsten mobilen Downloadraten (204,73 Mbps im Stadtdurchschnitt).
-
-    - **Suwon-si**: In dieser Stadt erreichen Sie die höchsten festen Downloadraten
-    (196,37 Mbps). Ideal für Remote-Work und große Datei-Uploads.'
-  bg_color: bg-red-50
-- id: kt-esim
-  title: 'KT eSIM Test: Starke 5G-Alternative'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für preisbewusste Reisende,
-    die dennoch nicht auf 5G-Geschwindigkeit verzichten möchten. Laut [Ookla Speedtest
-    Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-    erreicht KT eine mediane 5G-Downloadrate von 526,41 Mbps und liegt damit nur knapp
-    hinter LG U+. Die Gesamtleistung ist solide, mit einer medianen Downloadrate von
-    109,33 Mbps.
-  core_data: '- **5G-Verfügbarkeit**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-    beträgt die mediane 5G-Downloadrate von KT 526,41 Mbps.
-
-    - **Downloadrate (alle Technologien)**: Median 109,33 Mbps.
-
-    - **Position im Markt**: Drittplatzierter Anbieter, aber mit starker 5G-Performance.
-
-    - **Abdeckung**: Hervorragend in Großstädten und entlang der Hauptverkehrswege.'
-  arcep_note: Bestätigt durch die lokale Telekommunikationsbehörde (KCC). KT ist einer
-    der drei großen Netzbetreiber und bietet eine zuverlässige Alternative.
-  connect_note: Die Aktivierung verläuft nahtlos über QR-Code. Nach der ersten Verbindung
-    wählt sich die Roami eSIM automatisch in das KT Netz ein.
-  user_scenarios: '- **Seoul (Hongdae)**: In diesem belebten Viertel surfen Sie zuverlässig
-    mit 5G. Ideal für spontane Videoanrufe und Navigation.
-
-    - **Busan (Gamcheon Village)**: Auch in den engen Gassen des Kulturviertels bleibt
-    die Verbindung stabil.
-
-    - **Gyeongju**: In der historischen Stadt mit vielen Freiluftmuseen haben Sie
-    guten Empfang für Reiseführer-Apps.'
-  bg_color: bg-gray-50
-cards_compatibility_title: Prüfen Sie die Südkorea eSIM Kompatibilitätsliste
-cards_compatibility_desc: Prüfen Sie, ob Ihr Telefon Südkorea eSIM und lokale 5G-Bänder
-  unterstützt
-cards_free_title: Holen Sie sich Ihre kostenlose Südkorea eSIM
-cards_free_desc: Begrenzte kostenlose Test-eSIM, erleben Sie das lokale 5G-Highspeed-Netzwerk
-  ohne Roaming-Kosten
-cards_free_badge: KOSTENLOS
-cards_app_title: Roami App herunterladen & 20% Rabatt auf eSIM erhalten
-cards_app_desc: 'Rabattcode: <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | One-Tap-eSIM-Verwaltung'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Dinge, die Sie vor dem Kauf einer Südkorea eSIM wissen müssen
-before_buy_sections:
-- heading: '1. 5G/4G-Frequenzbänder: Kompatibilität sicherstellen'
-  content: Südkorea nutzt für 5G hauptsächlich die Bänder n78 (3,5 GHz) und n258 (28
-    GHz, mmWave). Die 4G/LTE-Abdeckung erfolgt über B1 (2100 MHz), B3 (1800 MHz) und
-    B8 (900 MHz). Die meisten modernen Smartphones unterstützen diese Bänder. Prüfen
-    Sie vor dem Kauf, ob Ihr Gerät für n78 und die LTE-Bänder ausgelegt ist, um die
-    beste Geschwindigkeit zu erhalten.
-- heading: 2. Registrierungspflicht (KYC) für ausländische Nutzer
-  content: In Südkorea besteht eine gesetzliche Registrierungspflicht (Know Your Customer)
-    für alle Mobilfunknutzer. Bei der Aktivierung einer eSIM müssen Sie Ihren Reisepass
-    oder Personalausweis angeben. Roami übernimmt die Registrierung für Sie, sodass
-    Sie sich nicht selbst um die komplizierte Anmeldung bei einem lokalen Anbieter
-    kümmern müssen.
-- heading: 3. Fair-Use-Policy (FUP) und Drosselung
-  content: Die meisten eSIM-Tarife unterliegen einer Fair-Use-Policy. Nach Überschreiten
-    eines bestimmten Datenvolumens (z. B. 2 GB pro Tag) kann die Geschwindigkeit gedrosselt
-    werden. Achten Sie bei der Auswahl Ihres Tarifs auf die genauen FUP-Bedingungen.
-    Roami bietet transparente Tarife ohne versteckte Drosselung für die ersten 30
-    Tage.
-- heading: 4. Netzabdeckung in ländlichen Gebieten
-  content: Während die 5G-Abdeckung in Großstädten wie Seoul, Busan und Daejeon hervorragend
-    ist, kann sie in ländlichen Regionen und auf Inseln wie Jeju dünner sein. SK Telecom
-    bietet die beste ländliche Abdeckung. Für Reisen in abgelegene Gebiete empfiehlt
-    sich ein Tarif mit automatischem Fallback auf 4G/LTE.
-- heading: 5. Roaming und Mehrwertdienste
-  content: Eine lokale eSIM vermeidet teures internationales Roaming. Beachten Sie,
-    dass einige Dienste wie VoIP (Skype, WhatsApp) in Südkorea nicht eingeschränkt
-    sind. Die Nutzung von Streaming-Diensten (Netflix, YouTube) ist mit den hohen
-    5G-Geschwindigkeiten problemlos möglich. Achten Sie auf Tarife ohne Portsperren
-    für maximale Flexibilität.
-city_guide_title: 'Städte-Guide: Die beste eSIM für Südkorea'
-city_guide_desc: Finden Sie heraus, welche Südkorea eSIM für Ihre Zielstadt die beste
-  Wahl ist. Basierend auf den aktuellen Speedtest-Daten von [Ookla Speedtest Connectivity
-  Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-  empfehlen wir je nach Stadt unterschiedliche Anbieter.
-city_table_headers:
-- Stadt
-- Empfohlener eSIM-Anbieter
-- Grund / Eigenschaften
-city_recommendations:
-- city: Seoul
-  carriers: SK Telecom oder LG U+
-  reason: Seoul ist die Hauptstadt und bietet die beste 5G-Abdeckung. SK Telecom ist
-    ideal für Geschäftsreisende (höchste Konsistenz), LG U+ für Gamer (beste 5G-Geschwindigkeit).
-    Die mediane Downloadrate liegt bei über 200 Mbps.
-- city: Busan
-  carriers: SK Telecom
-  reason: Busan ist die zweitgrößte Stadt und ein wichtiger Hafen. SK Telecom bietet
-    die zuverlässigste Abdeckung entlang der Küste und in den beliebten Stränden wie
-    Haeundae. Perfekt für Touristen, die viel unterwegs sind.
-- city: Daejeon
-  carriers: LG U+
-  reason: Daejeon ist die Wissenschaftsstadt Südkoreas und verzeichnet die schnellsten
-    mobilen Downloadraten (204,73 Mbps). LG U+ ist hier die erste Wahl für maximale
-    5G-Geschwindigkeit, ideal für Technik-Enthusiasten und Remote-Worker.
-- city: Suwon-si
-  carriers: KT
-  reason: Suwon-si ist eine wichtige Industriestadt südlich von Seoul. Hier werden
-    die höchsten festen Downloadraten gemessen (196,37 Mbps). KT bietet eine starke
-    5G-Alternative mit guten Tarifen für Vielnutzer.
-- city: Jeju-si (Jeju Island)
-  carriers: SK Telecom
-  reason: Jeju Island ist ein beliebtes Urlaubsziel mit vulkanischer Landschaft. SK
-    Telecom hat die beste Abdeckung in ländlichen Gebieten und entlang der Küstenstraßen.
-    Ideal für Roadtrips und Wanderungen, bei denen eine stabile Verbindung wichtig
-    ist.
-city_guide_tip: '💡 Tipp: Wenn Sie die Multi-Netzwerk-eSIM von Roami nutzen, wechselt
-  Ihr Telefon automatisch zum besten lokalen Anbieter – keine manuelle Auswahl erforderlich.'
-scene_guide_title: 🎯 Wählen Sie die beste Südkorea eSIM basierend auf Ihrem Reiseszenario
-scene_items:
-- icon: 🏛️
-  title: Stadtentdecker
-  text: Erkunden Sie Seouls Paläste und Märkte mit einer zuverlässigen 5G-Verbindung.
-    Nutzen Sie Echtzeit-Navigation, um sich in den belebten Gängen von Myeongdong
-    zurechtzufinden. Mit einer Roami eSIM bleiben Sie jederzeit online, ohne sich
-    um lokale SIM-Karten kümmern zu müssen.
-- icon: 🏞️
-  title: Naturliebhaber
-  text: Wandern Sie auf dem Jeju Olle Trail oder im Seoraksan-Nationalpark. SK Telecom
-    bietet die beste Abdeckung in abgelegenen Gebieten. Teilen Sie Ihre Erlebnisse
-    sofort in sozialen Medien oder nutzen Sie Offline-Karten, die Sie vorab geladen
-    haben.
-- icon: 🚗
-  title: Roadtripper
-  text: Reisen Sie entlang der Ostküste von Gangneung bis Sokcho. Mit einer eSIM haben
-    Sie stets Zugang zu Navigations-Apps und können spontan Unterkünfte buchen. Die
-    hohe Netzwerkkonsistenz von SK Telecom sorgt für eine unterbrechungsfreie Verbindung.
-- icon: 🏖️
-  title: Strandurlauber
-  text: Genießen Sie die Strände von Busan (Haeundae, Gwangalli) mit schnellem Internet.
-    Streamen Sie Musik, laden Sie Fotos hoch oder führen Sie Videoanrufe mit der Familie.
-    LG U+ bietet die beste 5G-Geschwindigkeit für datenintensive Aktivitäten am Strand.
-scene_guide_footer: 💡 Die Roami Südkorea eSIM Multi-Netzwerk-Edition erkennt Ihr Szenario
-  automatisch und wechselt in das beste Netzwerk – keine manuelle Einrichtung erforderlich.
-faq_title: Häufig gestellte Fragen zur Südkorea eSIM
-faq_prefix: F
-faq_suffix: ': '
-faq_more_link_text: Weitere Fragen? Komplette FAQ ansehen →
-faq_more_link_url: /faq/
-faq:
-- q: Eignet sich die Südkorea eSIM für Online-Gaming und wie hoch ist die durchschnittliche
-    Netzwerklatenz (Ping)?
-  a: Ja, die Südkorea eSIM eignet sich hervorragend für Online-Gaming. Laut [Ookla
-    Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-    bietet LG U+ die beste mobile Gaming-Erfahrung mit einem Game Score von 92,56
-    und einer 5G-Latenz von nur 72 ms. SK Telecom erreicht eine Latenz von 90 ms im
-    Gesamtnetz. Diese Werte sind für die meisten Online-Spiele wie PUBG Mobile, League
-    of Legends oder Call of Duty Mobile mehr als ausreichend. Für kompetitives Gaming
-    empfehlen wir einen Tarif mit LG U+ als bevorzugtem Netzwerk.
-- q: Gibt es einen bestimmten Grenzwert für den Datenverbrauch (z. B. nach 2 GB pro
-    Tag), ab dem die Geschwindigkeit der Südkorea eSIM reduziert wird?
-  a: Ja, die meisten eSIM-Tarife in Südkorea unterliegen einer Fair-Use-Policy (FUP).
-    Typische Grenzwerte liegen bei 2 GB pro Tag oder 30 GB pro Monat. Nach Überschreiten
-    dieser Grenzen wird die Geschwindigkeit auf 128 kbps bis 1 Mbps gedrosselt. Roami
-    bietet transparente Tarife ohne versteckte Drosselung für die ersten 30 Tage.
-    Prüfen Sie vor dem Kauf die genauen FUP-Bedingungen des gewählten Tarifs. Für
-    Vielnutzer empfehlen wir einen Tarif mit hohem Datenvolumen oder unbegrenztem
-    Datenkontingent.
-- q: Ist die Verbindung in Südkorea stabil genug, um HD-Videos auf Plattformen wie
-    YouTube oder Netflix flüssig abzuspielen?
-  a: Absolut. Südkorea ist eines der Länder mit der schnellsten Internetverbindung
-    weltweit. Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-    beträgt die mediane Downloadrate im 5G-Netz von LG U+ 546,83 Mbps, bei SK Telecom
-    513,74 Mbps. Selbst 4K-Streaming ist damit problemlos möglich. Die hohe Netzwerkkonsistenz
-    von SK Telecom (89,6%) stellt sicher, dass die Verbindung auch in Stoßzeiten stabil
-    bleibt. YouTube, Netflix und lokale Dienste wie TVING laufen flüssig ohne Pufferung.
-- q: Ist es möglich, mehrere Datenpakete für Südkorea zu kaufen und diese nacheinander
-    zu aktivieren?
-  a: Ja, bei Roami können Sie mehrere Datenpakete für Südkorea erwerben und diese
-    nacheinander aktivieren. Jedes Paket wird nach Verbrauch des vorherigen aktiviert.
-    Sie müssen lediglich sicherstellen, dass Sie die Pakete vor Reiseantritt kaufen.
-    Die Aktivierung erfolgt automatisch, sobald das erste Paket aufgebraucht ist.
-    Dies ist besonders praktisch für längere Aufenthalte oder wenn Sie Ihr Datenvolumen
-    flexibel anpassen möchten.
-- q: Mit welchen lokalen Mobilfunkanbietern verbindet sich die Roami eSIM in Südkorea?
-  a: 'Die Roami eSIM verbindet sich automatisch mit den drei großen südkoreanischen
-    Mobilfunkanbietern: SK Telecom, LG U+ und KT. Je nach Tarif und Verfügbarkeit
-    wählt sich Ihr Gerät in das jeweils beste Netz ein. SK Telecom bietet die beste
-    Gesamtleistung (Speed Score 236,24), LG U+ die schnellsten 5G-Geschwindigkeiten
-    (456,32 Speed Score) und KT eine zuverlässige Alternative. Die automatische Netzauswahl
-    stellt sicher, dass Sie stets die optimale Verbindung erhalten.'
-myths_title: ⚠️ Häufige Mythen und Fakten über die Südkorea eSIM
-myth_label: '❌ Mythos: '
-truth_label: '✅ Fakt: '
-myths:
-- myth: In Südkorea ist das Internet überall gleich schnell.
-  truth: 'Nein, die Geschwindigkeit variiert stark je nach Stadt und Anbieter. Laut
-    [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)
-    erreicht Daejeon die schnellsten mobilen Downloadraten (204,73 Mbps), während
-    andere Städte niedrigere Werte aufweisen. Auch zwischen den Anbietern gibt es
-    Unterschiede: SK Telecom führt im Gesamtnetz, LG U+ im 5G-Bereich.'
-- myth: 5G in Südkorea ist nur in Großstädten verfügbar.
-  truth: 5G ist in Südkorea nahezu landesweit verfügbar, aber die Abdeckung in ländlichen
-    Gebieten kann dünner sein. Die Regierung hat mmWave-Lizenzen zurückgezogen, was
-    die Einführung von mmWave-Smartphones verzögert hat. Dennoch ist das 5G-Netz auf
-    den Hauptverkehrswegen und in allen größeren Städten hervorragend ausgebaut.
-- myth: Eine lokale SIM-Karte ist immer günstiger als eine eSIM.
-  truth: Nicht unbedingt. Lokale SIM-Karten erfordern oft eine komplizierte Registrierung
-    (KYC) und sind nur mit einem gültigen Visum erhältlich. eSIMs von Roami sind sofort
-    aktivierbar, erfordern keine physische Karte und bieten transparente Preise ohne
-    versteckte Gebühren. Für Kurzaufenthalte sind eSIMs oft die kostengünstigere und
-    bequemere Lösung.
-- myth: Alle eSIMs in Südkorea haben die gleiche Netzqualität.
-  truth: Nein, die Netzqualität hängt vom zugrunde liegenden Anbieter ab. Roami eSIMs
-    nutzen die Netze von SK Telecom, LG U+ und KT. SK Telecom bietet die höchste Konsistenz
-    (89,6%), LG U+ die besten 5G-Geschwindigkeiten. Die Wahl des Tarifs beeinflusst
-    direkt Ihre Surf-Erfahrung.
-- myth: In Südkorea gibt es keine Datenschutzbedenken bei eSIMs.
-  truth: Südkorea hat strenge Datenschutzgesetze, aber die Registrierungspflicht (KYC)
-    bedeutet, dass Ihre persönlichen Daten (Reisepass) erfasst werden. Roami behandelt
-    Ihre Daten vertraulich und gemäß der DSGVO. Achten Sie darauf, nur bei vertrauenswürdigen
-    Anbietern zu kaufen, um Datenmissbrauch zu vermeiden.
-data_sources_title: Datenquellen Südkorea Mobilfunknetze
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024)'
-  description: Offizieller Speedtest Intelligence Bericht für Südkorea, 1. Halbjahr
-    2024. Enthält Daten zu Downloadraten, Latenz und Netzwerkkonsistenz für SK Telecom,
-    LG U+ und KT.
-- name: OpenSignal 2024
-  description: Unabhängiger Bericht zur mobilen Netzwerkerfahrung in Südkorea. Bestätigt
-    die Führungsposition von SK Telecom bei der Gesamtleistung und LG U+ bei 5G-Gaming.
-- name: Korea Communications Commission (KCC) 2024
-  description: Offizielle Regulierungsbehörde für Telekommunikation in Südkorea. Veröffentlicht
-    regelmäßig Berichte zur Netzabdeckung und Frequenznutzung.
-data_sources_footer: Alle oben zitierten Netzleistungsdaten stammen aus öffentlich
-  zugänglichen Berichten Dritter (Ookla, OpenSignal, KCC) und beziehen sich auf das
-  1. Halbjahr 2024. Die tatsächliche Geschwindigkeit kann je nach Standort, Gerät
-  und Netzauslastung variieren.
-data_sources_note: Netzwerkgeschwindigkeiten und Abdeckung können variieren. Die angegebenen
-  Werte sind Mediane und repräsentieren die typische Leistung. Für aktuelle Informationen
-  besuchen Sie die offiziellen Quellen.
-cta_title: Sichern Sie sich Ihre Südkorea eSIM noch heute
-cta_desc: Erhalten Sie sofortigen Zugang zu den schnellsten 5G-Netzen Südkoreas. Keine
-  versteckten Kosten, keine komplizierte Registrierung. Ideal für Geschäftsreisende,
-  Touristen und digitale Nomaden.
-cta_button_text: Jetzt Südkorea eSIM kaufen
-cta_button_link: /south-korea-esim/
-cta_free_trial_note: Exklusiv für Neukunden
-cta_free_trial_text: Kostenlose Südkorea Test-eSIM
-cta_free_trial_link: /free-esim/
+hero_badge: "Südkorea eSIM: Welches Netz gewinnt wo?"
+hero_subtitle_main: "Three Netze, eine Entscheidung und die Daten, um sie zu treffen"
 ---
+
+
+Südkorea braucht beim Thema Geschwindigkeit keine Vorstellung — das Land gehört seit Jahren zur Weltspitze der Mobilfunkländer, und der Ookla-Index von August 2026 weist den nationalen Median mit **250,56 Mbps, Platz 6 weltweit** aus. Was es allerdings braucht, ist eine Erklärung seiner ungewöhnlichen Marktstruktur, denn Korea ist das seltene Reiseziel, an dem **die lokalen Netzbetreiber selbst die besten Tourismusprodukte verkaufen**, die Identitätsregeln für Einwohner und Besucher unterschiedlich sind und einige der Apps, die Sie nutzen möchten (vor allem die Taxi-App), stillschweigend eine koreanische Nummer bevorzugen. Eine Südkorea-eSIM richtig zu wählen heißt, alle drei Ebenen zu verstehen, nicht nur die Geschwindigkeitstabelle — und früh zu entscheiden, denn Südkoreas eigener Datenmarkt ist einer der teuersten in der entwickelten Welt.
+
+**Schnelle Antwort:** Roami, wenn Sie mit Ihrer Südkorea-eSIM viel unterwegs sind, die lokalen Netze, wenn Sie in einer Stadt bleiben. Diese Aufteilung zieht sich durch die folgenden Angaben zu Geschwindigkeit, Preis und Registrierung; die [Kompatibilitätsseite](/compatibility/) klärt zuerst die Gerätefrage.
+
+Dieser Leitfaden vergleicht **SK Telecom**, **KT** und **LG U+** anhand der veröffentlichten Messwerte, erläutert den Unterschied zwischen Reisepass und Ausländerregistrierungskarte, der jeden Kauf prägt, und zeigt, wo die weltbeste urbane 5G-Abdeckung dünner wird — vor allem auf Jejus Wanderwegen. Die eSIM-Unterstützung je nach Modell finden Sie im [Kompatibilitäts-Check](/compatibility/).
+
+**Kurzfassung:** Alle drei Netze sind ausgezeichnet; die Unterschiede sind gering und standortabhängig. SK Telecom führt insgesamt (Speed Score 236,24, Median 205,10 Mbps, beste Konstanz bei 89,6 %). LG U+ hat die 5G-Spitzenwerte (Median 5G-Download 546,83 Mbps, Speed Score 456,32, bestes 5G-Gaming bei 92,56). KT ist der ausgewogene Allrounder (526,41 Mbps Median 5G) mit der stärksten Flughafenpräsenz. Touristen können Netzbetreiber-eSIMs und SIMs allein mit dem Reisepass kaufen — kein koreanischer Ausweis erforderlich. Eine reine Daten-Reise-[Südkorea eSIM](/south-korea-esim/) ist der einfachste Weg; aktuelle Tarife finden Sie auf der [Korea eSIM-Tarifseite](/south-korea-esim/).
+
+## Die passende Südkorea-eSIM je nach Reiseart
+
+Die hier zitierten Kennzahlen der koreanischen Betreiber stammen aus [Ooklas Südkorea-Report](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024).
+
+| Ihre Reiseroute | Top-Empfehlung | Warum es überzeugt |
+|:---|:---|:---|
+| Seoul und die Hauptstadtregion | SK Telecom | Beste Gesamtmediane und stärkste Konstanz (89,6 %) in den dichtesten Stadtteilen. |
+| Spitzen-5G: Gaming, riesige Downloads | LG U+ | Die schnellsten 5G-Messwerte im Land (546,83 Mbps im Median) und die beste Gaming-Bewertung. |
+| Ankunft in Incheon, ausgewogene Nutzung in der Stadt | KT | Zuverlässiges 5G überall, wo es darauf ankommt, mit den sichtbarsten Flughafenschaltern und Touristenschaltern. |
+| Jeju und die Inseln | SK Telecom, KT | Die stärkste Netzabdeckung in ländlichen Gebieten und auf den Inseln; an den Wanderwegen rund um den Hallasan wird das Netz für alle schwächer. |
+
+## SK Telecom KT und LG U+ im gemessenen Abstand
+
+### SK Telecom als Gesamtsieger
+
+Die Halbjahreszahlen 2024 von SKT führen die Gesamttabelle an: ein Speed Score von **236,24**, ein mittlerer Download von **205,10 Mbps**, Upload von 19,53 Mbps und die beste Konsistenz im Land bei **89,6 %** der Messungen über 5 Mbps im Download / 1 Mbps im Upload. Sein 5G-Mittelwert (513,74 Mbps) liegt hinter dem Spitzenwert von LG U+, aber die Kombination aus Geschwindigkeit und Konstanz ist genau das, was sich bei einem normalen Tag in Seoul anfühlt — Züge, Menschenmengen und ein Netz, das nicht schwankt. SKT betreibt außerdem das größte Filialnetz, was wichtig ist, falls Sie doch einmal einen physischen Kundenschalter aufsuchen müssen.
+
+### Südkoreas 5G und sein stärkster Netzbetreiber
+
+Das 5G von LG U+ ist das schnellste Nutzererlebnis in Korea: ein mittlerer 5G-Download von **546,83 Mbps**, 5G-Upload von 44,28 Mbps, ein 5G-Speed Score von **456,32** und das beste 5G-Gaming-Erlebnis (Game Score 92,56). Sein Gesamtdurchschnitt (127,99 Mbps) liegt unter dem von SKT, da ein größerer Teil seines Datenverkehrs über 4G läuft — aber wo sein 5G reicht, sowohl in Gangnam als auch in Daejeon (dem schnellsten Städte-Mittelwert des Landes mit 204,73 Mbps), lädt in Korea nichts schneller herunter.
+
+### KT mit der stärksten Flughafenpräsenz
+
+KT verzeichnet einen mittleren 5G-Download von **526,41 Mbps** und einen Gesamtdurchschnitt von 109,33 Mbps — bei den reinen Zahlen knapp hinter den Führenden, in der Praxis weder vorne noch abgeschlagen. Sein Unterscheidungsmerkmal für Reisende ist die Logistik: die stärkste Flughafenpräsenz in Incheon und Gimpo, eine tiefe Netzabdeckung entlang der Transitkorridore und touristische Produkte (einschließlich T-money-integrierter SIM-Karten), die um das Ankunftserlebnis herum konzipiert sind. Für einen Erstbesucher ist KT das Netz, das Ihre Südkorea-eSIM höchstwahrscheinlich zuerst sieht.
+
+### 5G-mmWave als Fußnote ohne Rolle
+
+Korea hat zum 5G-Start 28-GHz-mmWave lizenziert und den Betreibern die Lizenzen später entzogen, weil die Ausbauauflagen nicht erfüllt wurden — daher läuft das heutige 5G auf dem 3,5-GHz-Band (n78), und kein gängiges Smartphone verpasst etwas Wesentliches. Wenn ein Reiseführer in Seoul immer noch mmWave verspricht, ist er nicht mehr aktuell.
+
+Südkoreas drei Netze sind so gut, dass die Reihenfolge fast eine Frage der Rundung ist — bis man auf 5G schaut, wo sich ein Netzbetreiber klar absetzt. Der Ookla-Bericht für Südkorea über das **1. Halbjahr 2024** (Erhebungszeitraum Januar bis Juni 2024) kürt **SK Telecom** zum schnellsten Anbieter insgesamt und verleiht **LG U+** die 5G-Krone.
+
+| Kennzahl | SK Telecom | KT | LG U+ |
+|:---|:---|:---|:---|
+| Speed Score, alle Technologien | **236,24** (schnellster) | — | — |
+| Mittlerer Download, alle Technologien | **205,10 Mbps** | 109,33 Mbps | 127,99 Mbps |
+| Medianer Upload, alle Technologien | 19,53 Mbps | — | — |
+| Latenz | 90 ms | — | — |
+| 5G-Geschwindigkeitstest | — | — | **456,32** (schnellstes 5G) |
+| Medianer 5G-Download | 513,74 Mbps | 526,41 Mbps | **546,83 Mbps** |
+| Medianer 5G-Upload | — | — | **44,28 Mbps** |
+| 5G-Latenz | — | — | **72 ms** |
+| Konsistenz | **89,6 %** (beste) | — | — |
+| 5G-Konsistenz | kein Gewinner | kein Gewinner | kein Gewinner |
+| Gaming-Bewertung | **91,34** (am besten) | — | — |
+| 5G-Gaming-Bewertung | — | — | **92,56** (beste) |
+
+Drei Messungen. **SK Telecom besitzt das Alltagsnetz** — 205,10 Mbps über alle Technologien gegenüber 127,99 bei LG U+ und 109,33 bei KT, die beste Konstanz mit 89,6 % sowie das beste Gaming-Erlebnis über alle Technologien mit 91,34. **Alle drei liegen bei der 5G-Geschwindigkeit praktisch gleichauf** mit 513,74, 526,41 und 546,83 Mbps, weshalb Ookla **keinen Gewinner** für die 5G-Konsistenz kürt — die Unterschiede liegen innerhalb der Messtoleranz. Und **LG U+ ist der 5G-Spezialist** bei den Werten, die entscheiden, wie es sich anfühlt: den schnellsten 5G-Medianwert, das schnellste 5G-Upload mit 44,28 Mbps und die niedrigste 5G-Latenz mit 72 ms.
+
+Eine Zahl, die Reisende überrascht: **Die Latenz von SK Telecom über alle Technologien beträgt 90 ms**, deutlich über dem, was der Median von 205 Mbps vermuten lässt. Die Latenz im koreanischen Mobilfunk ist eine seit Langem bestehende strukturelle Eigenheit und kein Fehler — und sie ist der Grund, warum eine koreanische Verbindung sich beim Download normal anfühlen kann, bei einem Echtzeit-Anruf jedoch leicht ungewöhnlich.
+
+### Wer gewinnt in Südkorea beim Speed-Vergleich?
+
+| Stadt | Mittlerer Download | Upload | Latenz | Konstanz | Schnellster Netzbetreiber |
+|:---|:---|:---|:---|:---|:---|
+| Daejeon | **204,73 Mbps** | 20,11 Mbps | 80,83 ms | 89,7 % | SK Telecom |
+| Daegu | 196,88 Mbps | 19,15 Mbps | 81,94 ms | 88,5 % | SK Telecom |
+| Suwon-si | 196,84 Mbps | 21,41 Mbps | 98,65 ms | 90,8 % | SK Telecom |
+| Gwangju | 195,28 Mbps | 18,84 Mbps | 67,88 ms | 86,9 % | SK Telecom |
+| Goyang-si | 190,74 Mbps | 18,61 Mbps | 93,47 ms | 90,7 % | SK Telecom |
+| Seoul | 184,48 Mbps | 21,18 Mbps | 93,99 ms | 90,2 % | SK Telecom |
+| Seongnam-si | 180,56 Mbps | 23,01 Mbps | 99,01 ms | 90,1 % | SK Telecom |
+| Incheon | 142,39 Mbps | 18,78 Mbps | 89,82 ms | 87,6 % | LG U+ |
+| Busan | 133,51 Mbps | 18,74 Mbps | 76,39 ms | 87 % | SK Telecom |
+
+**Seoul liegt auf dem sechsten Platz und nicht auf dem ersten**, mit 184,48 Mbps – die Bevölkerungsdichte der koreanischen Hauptstadt kostet etwas Höchstgeschwindigkeit, genau wie bei Budapest in Ungarn. **Incheon, Standort des wichtigsten internationalen Flughafens, ist mit 142,39 Mbps die langsamste Stadt in der Übersicht** und die einzige, in der LG U+ SK Telecom schlägt – was wichtig zu wissen ist, da die meisten Reisenden ihre eSIM in Incheon zum ersten Mal testen. Es sind trotzdem 142 Mbps bei 87,6 % Konsistenz; es ist nichts falsch, die Messlatte liegt in diesem Land einfach höher.
+
+### eSIM-Leistung in Südkorea nach Provinz
+
+| Provinz | Mittlerer Download | Konstanz | Schnellster Anbieter |
+|:---|:---|:---|:---|
+| Gangwon-do | **173,35 Mbps** | 88,1 % | SK Telecom |
+| Gyeonggi-do | 162,55 Mbps | 88,1 % | SK Telecom |
+| Jeollabuk-do | 160,65 Mbps | 85,9 % | SK Telecom |
+| Chungcheongbuk-do | 143,68 Mbps | 84 % | SK Telecom |
+| Gyeongsangbuk-do | 137,6 Mbps | 84,9 % | SK Telecom |
+| Chungcheongnam-do | 132,65 Mbps | 84,5 % | SK Telecom |
+| Jeollanam-do | 129,36 Mbps | 84,1 % | SK Telecom |
+| Gyeongsangnam-do | 125,32 Mbps | 84,7 % | SK Telecom |
+| Jeju-do | 103,75 Mbps | 82,3 % | Kein Gewinner |
+
+**Jeju-do bildet das untere Ende mit 103,75 Mbps** und ist die einzige Provinz, in der kein Netzbetreiber statistisch schneller ist — erwähnenswert für eine Inselreise, auch wenn 103 Mbps für jeden Urlaub mehr als ausreichen und Ihre Südkorea-eSIM auch hier alltagstauglich bleibt. **Gangwon-do führt mit 173,35 Mbps**, dort liegen die Skigebiete.
+
+## Dokumentationspflichten für SIMs
+
+Koreas Identitätsregeln teilen den Markt in zwei Hälften, und Reisende stehen auf der einfachen Seite. Einwohner registrieren sich mit einer Alien Registration Card (ARC); **Touristen kaufen Netzbetreiber-SIMs und eSIMs allein mit dem Reisepass** — der offizielle [Seoul-Tourismusguide](https://visit.seoul.kr/en/articles/seoul-sim-card-guide-2025) erläutert die Optionen und Preisspannen. Die Touristenprodukte der Netzbetreiber sind wirklich gut: die Traveler SIM von SKT, die Prepaid-eSIM-Reihe von KT (online mit Rabatt erhältlich, im Laden verlängerbar) und die Daten-SIMs von LG U+ bieten alle unbegrenzte Daten über feste Zeitfenster, wobei KT einige Tarife mit einer lokalen 010-Nummer für App-Verifizierung verkauft. Alle erfordern ein entsperrtes Handy, ebenso wie jedes Reise-Profil.
+
+Die Vor- und Nachteile sollten Sie kennen, bevor Sie wählen:
+
+- **Reine Daten-eSIM (Reiseanbieter oder Netzbetreiber):** keine koreanische Nummer, kein persönlicher Schritt, vor der Abreise installiert. Die Standardkonfiguration für Touristen.
+- **Netzbetreiber-Touristen-SIM/eSIM mit 010-Nummer:** kostet mehr, erfordert eventuell einen Schalterbesuch und ermöglicht App-Verifizierung, die einige koreanische Dienste erwarten — insbesondere Kakao Taxi und bestimmte Liefer-Apps.
+- **Pocket WiFi:** unbegrenzte Daten für Gruppen, an Flughafenschaltern abgeholt und zurückgegeben. Für Familien mit mehreren Geräten weiterhin eine sinnvolle Option.
+
+Reine Südkorea-eSIM-Datenprofile decken den Touristen-Mainstream ab: Naver Map und KakaoMap (beide besser als Google Maps in Korea, eine Eigenheit, die Sie vor der Landung kennen sollten), Papago für Übersetzungen und die T-money-App für Transit-Aufladungen laufen alle problemlos über reine Daten. Die vollständige Installationsanleitung finden Sie in unserem [Aktivierungs-Ratgeber](/faq/how-to-activate-an-esim/).
+
+💡 Noch unsicher, ob ein koreanisches Profil auf Ihrem Telefon funktioniert? Die [kostenlose Multi-Netz-Test-eSIM](/free-esim/) klärt die Frage kostenlos, bevor Sie sich für einen Tarif entscheiden.
+
+## Was mobile Daten in Südkorea kosten
+
+Die koreanischen Tarifpreise, unbegrenzt und nur Daten, sind auf der [Südkorea-eSIM-Seite](/south-korea-esim/) zusammengestellt. Die öffentlichen Benchmarks umreißen den Markt:
+
+Ooklas Index für August 2026 gibt Korea **250,56 Mbps** medianen mobilen Download, **Platz 6** weltweit, bei 25 ms Latenz — weit vor dem globalen Median von 109,05 Mbps. Cable.co.uk preist 1 GB mit etwa **5,01 USD**, **Platz 214 von 237 Märkten** — Korea zählt zu den *teuersten* entwickelten Datenmärkten, was das Gegenstück zu seinen Geschwindigkeiten ist und der Grund, warum Prepaid-Touristenprodukte (mit ihren gebündelten Unlimited-Fenstern) den Besuchermarkt dominieren. DataReportal gibt Korea mit 50,4 Millionen Internetnutzern (97,4 %) und 69,2 Millionen Mobilfunkverbindungen (134 %) zum Jahresbeginn 2025 an.
+
+Die praktische Übersetzung: Die Wirtschaftlichkeit lokaler SIMs begünstigt Gelegenheitsbesucher hier nicht, Netzbetreiber-Touristentarife sind für das Privileg bepreist, und eine speziell entwickelte Reise-eSIM konkurriert preislich genau deshalb, weil Koreas eigener Datenmarkt teuer ist.
+
+## Südkorea-eSIM-Netzabdeckung von Seoul bis Busan und Jeju
+
+| Reiseziel | Bester Netzbetreiber | Warum es funktioniert |
+|:---|:---|:---|
+| Seoul | SK Telecom | Die beste Konstanz dank der Dichte der Hauptstadt; das U-Bahn-System ist vollständig abgedeckt. |
+| Busan | SKT, LG U+ | Haeundae und die Hafenviertel sind bei beiden hervorragend; im Sommer ist am Strand mit erhöhtem Andrang zu rechnen. |
+| Daejeon & Suwon | LG U+ | Daejeon verzeichnet den schnellsten städtischen Median des Landes (204,73 Mbps); Suwon erreicht im Median über 196 Mbps. |
+| Incheon & die Flughäfen | KT | Die stärkste Präsenz am Flughafen und eine zuverlässige Netzabdeckung auf der Flughafenbahn. |
+| Jeju-Insel | SKT, KT | Städte und die Resorts im Süden sind gut abgedeckt; die oberen Wanderwege am Hallasan und die ruhigen Abschnitte der Ostküste lassen die Netzabdeckung jedoch nachlassen. |
+
+## South-Korea-eSIM vor der Ankunft in Incheon installieren
+
+Das Profil trifft per E-Mail innerhalb weniger Minuten nach dem Kauf ein und wird in den Einstellungen installiert; die [Seite mit den Korea-eSIM-Tarifen](/south-korea-esim/) zeigt die aktuellen Optionen, und der allgemeine Fehlerkatalog ist im [Leitfaden zur Fehlerbehebung](/faq/esim-activation-errors-troubleshooting-guide/) zu finden.
+
+Korea bringt eine technische Besonderheit mit, die Sie vorab kennen sollten: Bei einigen Profilen – insbesondere MVNO-basierenden Tarifen – muss ein APN manuell eingegeben werden. Die Standardwerte sind `lte.sktelecom.com` für SKT, `lte.ktfwing.com` für KT und `internet.lguplus.co.kr` für LG U+, Benutzername und Passwort bleiben leer; die meisten Reise-eSIMs sind bereits vorkonfiguriert und erfordern keine Eingabe. Ansonsten ist die Vorgehensweise überall gleich: zu Hause über WLAN installieren, die eSIM als Datenleitung festlegen, Datenroaming dafür aktivieren und die Heim-SIM für SMS-Verifizierung aktiv lassen. Die Ankunftshallen in Incheon sind belebt genug, dass Sie dort nicht erst noch nach einer Lösung suchen möchten.
+
+One Hinweis zur Konnektivität vor Ort: WLAN ist in Korea in Cafés und der U-Bahn allgegenwärtig, aber die relevanten Apps (Naver Map, KakaoMap, Papago, Lieferplattformen) setzen voraus, dass Sie ständig online sind – genau diese Lücke zwischen den Hotspots schließt die eSIM.
+
+## Pocket-Wi-Fi versus eSIM im Jahr 2026
+
+Südkorea ist eines der wenigen Reiseziele, an denen der alte Rat, einen Pocket-Wi-Fi-Router am Flughafen Incheon zu mieten, noch Befürworter findet, weshalb ein ehrlicher Vergleich lohnenswert ist.
+
+**Wo Pocket-Wi-Fi weiterhin punktet:** bei Gruppen. One eine unbegrenzte Miete deckt drei bis fünf Geräte ab, die Kosten teilen sich auf, und auf keinem Telefon muss etwas installiert werden. Die Abholung und Rückgabe am Flughafen sind unkompliziert.
+
+**Wo die eSIM jetzt punktet:** bei allen anderen. Ein Profil kostet pro Tag weniger, erfordert keine Abhol- oder Rückgabeschlangen, befindet sich auf dem Telefon, das Sie ohnehin dabei haben (kein zweites Gerät, das geladen werden muss), und hält Ihre Heimnummer für Verifizierungszwecke aktiv – genau das, was ein Pocket-Wi-Fi nicht leisten kann. Da Koreas 5G auf n78 läuft, bietet ein modernes Smartphone mit eSIM dasselbe Netzerlebnis wie der Router, nur ohne zusätzliche Hardware.
+
+**Das Hybrid-Modell:** Familien entscheiden sich zunehmend für beides – ein Pocket-Wi-Fi für gemeinsam genutzte Tablets und Laptops, eSIMs auf jedem Erwachsenen-Telefon für Navigation und Messaging. Da ein reiner Datentarif für Korea keinen Gang zum Schalter erfordert, lässt er sich mit wenigen Minuten Aufwand zu Hause in den Anreiseplan integrieren.
+
+## Welche Telefone eine Südkorea-eSIM unterstützen
+
+| Technologie | Genutzte Frequenzbänder | Was es für Ihr Mobiltelefon bedeutet |
+|:---|:---|:---|
+| 4G LTE | 800 MHz (B5), 1800 MHz (B3), 2100 MHz (B1), 2600 MHz (B7) | Das koreanische Standard-Set; ein in Korea oder Japan gekauftes Handy verfügt über alle vier Frequenzen |
+| 5G | 3,5 GHz (n78) | Das einzige Band, das derzeit kommerzielles koreanisches 5G überträgt, und der Grund für die 546-Mbps-Werte |
+| 5G Millimeterwelle | 28 GHz — Lizenzen entzogen | Die Lizenzen für das mmWave-Spektrum wurden entzogen, wodurch mmWave-Endgeräte verzögert wurden und dieses Band aus dem Netzplan gestrichen wurde |
+| Legacy | 2G und 3G eingestellt | Ältere Geräte, die auf 3G-Fallback angewiesen sind, werden sich nicht im Sprachnetz registrieren |
+
+Die praktische Konsequenz all dessen: **Die einzige Bandangabe, die für eine koreanische eSIM wirklich zählt, ist n78 sowie der übliche LTE-Frequenzbereich**, und ein Mobiltelefon ohne n78 liefert trotzdem ein LTE-Erlebnis mit über 180 Mbps. Korea zeichnet sich auch dadurch aus, dass ältere Netztechnologien außer Betrieb genommen wurden – ein Gerät, das auf 3G angewiesen ist, funktioniert also überhaupt nicht. Überprüfen Sie Ihr Modell auf der [Kompatibilitätsseite](/compatibility/), falls Sie mit einem älteren oder importierten Mobiltelefon reisen.
+
+## Was eine koreanische SIM oder eSIM für einen Besucher kostet
+
+Koreanische Netzbetreiber bieten tatsächlich konkurrenzfähige Prepaid-Touristenprodukte an, und die ausgewiesenen Preise an Flughäfen und in Convenience-Stores sind eine nützliche Orientierung – auch wenn Sie nie eines davon kaufen.
+
+| Produkt | Daten | Gültigkeit | Preis |
+|:---|:---|:---|:---|
+| KT 5G Reise-SIM | 2 GB täglich plus 20 Minuten Sprach-/Textnutzung | 5 Tage | ₩20.000 |
+| SKT Prepaid-SIM | 5 GB insgesamt, nach | 7 Tagen gedrosselt | ₩25.000 |
+| EG Sim Korea | Unbegrenzt, 1 GB täglich mit hoher Geschwindigkeit, danach gedrosselt | 10 Tage | ₩28.000 |
+| Entdecken Sie den Seoul Pass mit SIM | 1,5 GB täglich plus Tourist Pass | 15 Tage | ₩45,000 |
+| KT, monatlich | 30 GB, danach Drosselung auf 5 Mbps nach | 30 Tagen | ₩70.000 |
+| SKT Langzeitaufenthalt | 1 GB Highspeed pro Tag | 60 Tage | ₩120.000 |
+| Convenience-Store-SIM | Touristentarif mit kurzer Laufzeit | 5–10 Tage | ₩15.000–₩25.000 |
+
+Zwei strukturelle Hinweise. **Südkorea ist der seltene Markt, auf dem die Netzbetreiber selbst die besten Touristentarife verkaufen** — die eigenen Prepaid-Angebote von KT und SKT sind wettbewerbsfähig mit eSIMs von Drittanbietern und nicht schlechter, was das Gegenteil der meisten Reiseziele ist. Und der **Weg über die Convenience-Stores für ₩15.000 für fünf Tage** ist die günstigste physische Option, auf Kosten von eingeschränktem englischsprachigen Support und mitarbeitergestützter Aktivierung.
+
+## Die Südkorea-APN-Liste
+
+| Netzbetreiber | APN | Benutzername | Passwort |
+|:---|:---|:---|:---|
+| SK Telecom | `lte.sktelecom.com` | leer | leer |
+| KT | `lte.ktfwing.com` | blank | blank |
+| LG U+ | `internet.lguplus.co.kr` | leer | leer |
+
+Das Profil von SK Telecom konfiguriert sich auf den meisten Geräten automatisch; **KT ist der Anbieter, bei dem am häufigsten die manuelle Eingabe erforderlich ist**, was erwähnenswert ist, da KT die auffälligsten Schalter an den Flughäfen betreibt. Die MCC für Korea ist 450, mit den MNC 05 (SKT), 08 (KT) und 06 (LG U+) – iOS trägt diese Werte automatisch ein und blendet die Felder nicht ein.
+
+- **iPhone:** Einstellungen → Mobilfunk → die Korea-eSIM → Mobilfunkdaten-Netzwerk → APN.
+- **Android:** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunkte → **+** → geben Sie den unten stehenden APN ein.
+
+## Südkorea – Netzbetreiber-Empfehlungen für Reisende
+
+| Reise | Typische Dauer | Komfortables Datenvolumen | Grund |
+|:---|:---|:---|:---|
+| Städtetrip nach Seoul | 3–5 Tage | 4–6 GB | Das Hotel-WLAN ist schnell; das WLAN in der U-Bahn und in Cafés schließt die Lücken |
+| Seoul plus ein DMZ-Tagesausflug | 4–5 Tage | 5–8 GB | Reisebusse bieten kein nutzbares WLAN |
+| Seoul, Busan, Gyeongju mit dem KTX | 7–10 Tage | 10–14 GB | WLAN im Zug ist unzuverlässig und Navigation läuft durchgehend |
+| Jeju-Insel Woche | 5–7 Tage | 6–9 GB | Die schwächste Provinz im Bericht mit 103,75 Mbps |
+| Skiwoche in Gangwon-do | 5–7 Tage | 6–9 GB | Resorts verfügen über WLAN; die Lifte und Pisten jedoch nicht |
+| Remote-Work-Fortnight | 14 Tage | 20 GB+ | 90 ms mobile latency makes hotel fibre the better call line |
+
+Wenn Sie für Videoanrufe auf das Mobilfunknetz setzen wollen, planen Sie die Kapazität entsprechend – die Besonderheit bei der Latenz ist hier der limitierende Faktor, nicht die Bandbreite. Ein Produkt von KT oder SKT mit einer lokalen 010-Rufnummer ist die Rückfalloption für alles, was zwingend eine koreanische Telefonnummer verlangt.
+
+## Die koreanische App-Schicht, die Ihre eSIM versorgen muss
+
+Südkorea verfügt über eine ausgezeichnete Netzabdeckung und ein eigenwilliges App-Ökosystem. Genau dieses Missverhältnis sorgt bei Besuchern für Frust. Three Downloads vor dem Abflug: **Naver Map oder KakaoMap** zur Navigation, da Google Maps in Korea nur eingeschränkt funktioniert; **Papago** für Übersetzungen, das Koreanisch besser beherrscht als allgemeine Übersetzungstools; und **KakaoTalk**, über das Gästehäuser, Restaurants und Reiseveranstalter Buchungen entgegennehmen. Eine T-money-Fahrkarte samt zugehöriger App ermöglicht es Ihnen, unterwegs Ihren Kontostand zu prüfen, sobald Sie Datenvolumen haben.
+
+Nichts davon ist ein Netzproblem, und alles davon entscheidet darüber, ob Ihre Koreareise reibungslos verläuft oder Sie ständig nach dem Weg fragen müssen.
+
+## Schritt-für-Schritt-Fehlerbehebung bei einer koreanischen eSIM
+
+**Installation schlägt fehl.** Ein Carrier-Lock ist der erste Verdächtige – ein im Ausland im Vertrag gekauftes Handy ist die häufigste Ursache – gefolgt von einem bereits verbrauchten QR-Code.
+
+**Installation erfolgt, aber kein Empfang.** Fünfzehn gezählte Sekunden im Flugmodus, dann eine manuelle Auswahl – SK Telecom, KT oder LG U+ in dieser Reihenfolge. Koreanische Netze registrieren sich innerhalb von Sekunden. Hält der Zustand ohne Netz länger als eine Minute an, liegt das Problem eher am Endgerät als am Netz.
+
+**Verbunden, aber kein Durchsatz.** Prüfen Sie, ob die eSIM die Datenleitung ist und Roaming für sie aktiviert ist. Bei einer lokal gekauften KT-Leitung sollten Sie prüfen, ob sich der manuelle APN-String vom Standard unterscheidet, bevor Sie einen Fehler vermuten.
+
+**Nur Notrufe möglich.** Die Ursache ist meist eine veraltete Registrierung: Deaktivieren Sie alle anderen aktiven Profile, starten Sie neu, setzen Sie die Netzwerkeinstellungen zurück und installieren Sie die eSIM erst dann erneut, wenn diese Schritte nicht helfen.
+
+Alles andere gehört in [den vollständigen eSIM-Fehlerbehebungs-Leitfaden](/faq/esim-activation-errors-troubleshooting-guide/).
+
+## Eine Reiseroute von Seoul nach Busan mit einer einzigen koreanischen eSIM
+
+Südkorea bündelt ungewöhnlich viel Reiseerlebnis auf kleinem Raum und ist dabei hervorragend vernetzt. Die Messdaten zeigen eine Route, auf der die Verbindung nie ein Problem darstellt – die Apps sind es, was bei den meisten Reisezielen genau umgekehrt ist.
+
+| Etappe | Transport | Mittlerer Download | Was Sie vorbereiten sollten |
+|:---|:---|:---|:---|
+| Ankunft in Incheon nach Seoul | AREX-Zug | Incheon erreicht 142,39 Mbps – die langsamste gemessene Stadt | Testen Sie das Profil hier; wenn es in Incheon funktioniert, funktioniert es überall |
+| Seoul, Tage 1–3 | U-Bahn und zu Fuß | 184,48 Mbps mit 90,2 % Konsistenz | Naver Map oder KakaoMap vor der Ankunft installieren |
+| Tagesausflug zur DMZ | Bustour | Die Netzabdeckung innerhalb der DMZ ist eingeschränkt | Laden Sie den Treffpunkt der Tour herunter und drucken Sie eine Kopie aus |
+| Seoul nach Gangneung oder in die Skigebiete von Gangwon | KTX | Gangwon-do ist mit 173,35 Mbps die schnellste Provinz | Keine |
+| Seoul nach Gyeongju | KTX | Gyeongsangbuk-do mit 137,6 Mbps | Offline-Karte für den Spaziergang durch das historische Viertel |
+| Gyeongju nach Busan | KTX | Busan mit 133,51 Mbps, 87 % Konsistenz | Nichts |
+| Jeju mit dem Flugzeug, dann mit der Fähre zurück auf das Festland | Flug und Fähre | Jeju-do mit 103,75 Mbps, dem unteren Ende des Landes | Laden Sie Offline-Karten für Jeju herunter, bevor Sie in See stechen |
+
+Three streckenspezifische Hinweise für eine Südkorea-Reiseroute. **Incheon ist der Ort, an dem Sie das Netzwerk zuerst beurteilen werden**, und mit 142,39 Mbps bei 87,6 % Konsistenz ist es die langsamste Stadt des Landes – das ist eine Eigenheit von Dichte und Verkehrsaufkommen, kein Fehler, und es ist gut, das zu wissen, bevor Sie schließen, dass das Profil fehlerhaft konfiguriert ist. **Die DMZ-Tour** führt durch Gebiete mit bewusst eingeschränkter Netzabdeckung, also behandeln Sie diesen Tag als Offline-Tag. Und **die Fähre nach Jeju** hat, wie alle koreanischen Seepassagen, auf der Überfahrt in der Mitte ein lückenhaftes Signal – genau dann, wenn Sie die Inselkarte brauchen werden.
+
+Die tiefgreifendste Planungsfolge der südkoreanischen Netzqualität ist, dass **Bandbreite nicht mehr der Engpass ist, sondern die Apps**. Papago für Übersetzungen, KakaoTalk für Buchungen, T-money für den Nahverkehr und die lokalen Karten-Apps setzen alle voraus, dass Sie Daten haben – und sie funktionieren alle schlecht oder gar nicht, wenn Sie sich auf die Google-Pendants verlassen. Diese App-Ebene vor dem Abflug zu klären, ist mehr wert als jedes Upgrade Ihres Tarifs.
+
+### Jeju, Skigebiet und Fährnetzabdeckung in Südkorea
+
+Seoul und Busan dominieren die südkoreanischen Geschwindigkeitstabellen, aber koreanische Reiserouten verlassen regelmäßig das Festland, und die Netzabdeckung außerhalb dieser Städte ist gut: Jeju wird von allen drei südkoreanischen Netzbetreibern versorgt, und die Skigebiete in Gangwon rund um Pyeongchang liegen innerhalb solider 4G- und 5G-Versorgungsgebiete.
+
+Die Lücken sind die, die Sie in Südkorea erwarten würden. Fährüberfahrten und die höheren Trails auf Hallasan oder Seoraksan sind die Stellen, an denen das Signal verschwindet, und eine reine Daten-eSIM ohne koreanische Nummer ist hier das richtige Profil – Navigation, Übersetzung und Buchungen laufen ausschließlich über Daten, was alles abdeckt, was ein Ski- oder Inseltag tatsächlich benötigt.
+
+## Was Reisende zu südkoreanischen Netzbetreiber-eSIMs fragen
+
+### Benötigen südkoreanische SIM-Verkäufe immer einen Reisepass?
+
+Nein. Touristen-SIMs und eSIMs – von den Netzbetreibern selbst oder von Reiseanbietern – funktionieren nur mit Reisepassverifikation. Die ARC-Anforderung gilt für Einwohner, die Standardlokaltarife abschließen, nicht für Besucherprodukte.
+
+### Wem gehören die Netzbetreiber in Südkorea?
+
+Alle drei sind hervorragend; die praktischen Unterschiede sind ortsabhängig. SKT führt insgesamt und bei der Konsistenz, LG U+ besitzt die 5G-Spitze und das Gaming, KT ist die ausgewogene Wahl mit der besten Flughafenlogistik. Ein Multi-Netzwerk-Profil hebt die Wahl ganz auf und bucht sich automatisch in das stärkste Netz am jeweiligen Standort ein.
+
+### Reichen 10 GB für Südkorea?
+
+Für die meisten ja – die Apps installieren und laufen ausschließlich über Daten. Der Haken: Einige koreanische Dienste verifizieren Konten mit lokalen SMS-Codes, und insbesondere die Taxibestellung funktioniert am besten mit einer koreanischen 010-Nummer. Wenn Ihre Woche von diesen Abläufen abhängt, sollten Sie einen Touristentarif des Netzbetreibers mit lokaler Nummer in Betracht ziehen; ansonsten deckt die reine Datenlösung die Standardreiseroute ab.
+
+### Wo 5G in Südkorea am stärksten ist
+
+Nicht für praktische Zwecke. Die 28-GHz-Lizenzen wurden entzogen, nachdem Ausbaufristen verpasst wurden, daher läuft koreanisches 5G auf dem 3,5-GHz-Band – das mit 546,83 Mbps bei LG U+ Geschwindigkeiten liefert, die kein mmWave-abhängiges Merkmal für einen Reisenden verbessern würde.
+
+### Kann ich meine südkoreanische eSIM in Japan oder Taiwan, China verwenden?
+
+Innerhalb Koreas und nirgendwo sonst. Die [Japan-eSIM-Seite](/japan-esim/) und der [Taiwan, China eSIM-Leitfaden](/carriers/taiwan-esim-carrier-guide/) behandeln die benachbarten Etappen, und ein regionales Ostasien-Profil deckt die gesamte Route in einem Kauf ab.
+
+### Südkoreanische Datentarife verstehen
+
+10 GB sind komfortabel für Karten, Übersetzungen, Nahverkehrs-Apps und tägliches Streaming, wobei Café- und U-Bahn-WLAN den Rest auffangen. Viel-Videoanrufer und Hotspot-Nutzer sollten 20 GB mitführen – aber beachten Sie, dass koreanische Daten lokal teuer sind, daher passt es hier mehr als in den meisten Reisezielen, Ihren Datentarif an den tatsächlichen Verbrauch anzupassen.
+
+### Wer ist am schnellsten: Südkorea-Geschwindigkeiten
+
+SK Telecom im Alltagsgebrauch – ein Median-Download von 205,10 Mbps gegenüber 127,99 Mbps bei LG U+ und 109,33 Mbps bei KT, mit der besten Konsistenz von 89,6 % und der schnellsten Netzbetreiber-Platzierung in acht der neun gemessenen Städte. Bei 5G sind die drei effektiv gleichauf, mit LG U+ knapp vorn bei einem Median von 546,83 Mbps.
+
+### Ist SK Telecom, KT oder LG U+ am besten für eine Touristen-eSIM?
+
+SK Telecom für Netzabdeckung und Konsistenz, insbesondere zwischen Incheon und dem Zentrum von Seoul. LG U+, wenn 5G-Durchsatz Priorität hat – es hält den schnellsten 5G-Median, den schnellsten 5G-Upload und die niedrigste 5G-Latenz. KT ist die ausgewogene Option mit der stärksten Flughafenpräsenz, ist aber auch das Netz, das am häufigsten eine manuelle APN-Eingabe erfordert.
+
+### Wie schnell sind mobile Daten in Südkorea?
+
+Nutzerdichte. Daejeon verzeichnet einen Median von 204,73 Mbps gegenüber 184,48 Mbps in Seoul, da die Zellen der Hauptstadt deutlich mehr Verkehr tragen. Seoul erreicht dennoch 90,2 % Konsistenz, daher ist der Unterschied im normalen Gebrauch unsichtbar – dasselbe Muster zeigt sich in Ungarn und den Niederlanden.
+
+### Ist Ihr Modell für die Nutzung mit einer südkoreanischen eSIM freigeschaltet?
+
+Nur wenn etwas es konkret erfordert, etwa Buchungs-Apps, die per SMS verifizieren. Reine Daten-Touristenprofile funktionieren problemlos ohne eines, und Touristen benötigen keine ARC oder koreanische ID, um eine Netzbetreiber-eSIM zu kaufen – ein Reisepass genügt. Einige KT-Tarife bündeln für einen höheren Preis eine 010-Nummer, falls Sie eine benötigen.
+
+### APN-Daten für südkoreanische Netze
+
+SK Telecom verwendet `lte.sktelecom.com`, KT `lte.ktfwing.com` und LG U+ `internet.lguplus.co.kr`, alle mit leeren Zugangsdaten und MCC 450 (MNC 05, 08 bzw. 06). SK Telecom konfiguriert auf den meisten Handys automatisch, während KT am häufigsten die manuelle Eingabe erfordert.
+
+### Hinweise zur südkoreanischen 5G-Netzabdeckungskarte
+
+Nicht um zu funktionieren, und nicht um schnell zu sein. Ein 5G-Handy schaltet die 513–546 Mbps 5G-Mediane auf 3,5 GHz frei, aber ein reines 4G-Telefon erreicht in Seoul immer noch rund 180 Mbps, was mehr ist, als irgendeine Reiseaufgabe benötigt. Das entscheidende Band ist n78; die [eSIM-Kompatibilitätsseite](/compatibility/) bestätigt, ob Ihr Modell es hat.
+
+### Wo Daten in Südkorea am günstigsten sind
+
+Veröffentlichte Touristenprodukte beginnen bei ₩20.000 für eine fünftägige KT 5G-Reise-SIM mit 2 GB pro Tag und 20 Minuten Sprache, ₩25.000 für eine siebentägige SKT-Prepaid-Leitung mit 5 GB und ₩28.000 für zehn Tage unbeschränkte Nutzung mit 1 GB täglichem High-Speed-Kontingent. Bei ₩45.000 fügt das Discover Seoul Pass-Bundle zu 15 Tagen mit 1,5 GB täglichem Datenvolumen einen Touristenpass hinzu.
+
+### Dimensionierung Ihres südkoreanischen Datenpakets
+
+Maßvoll. Jeju-do verzeichnet einen Median von 103,75 Mbps gegenüber 173,35 Mbps in Gangwon-do und ist die einzige Provinz, in der Ookla keinen statistisch schnelleren Anbieter fand. Bei 103 Mbps liegt es dennoch weit vor den meisten Ländern – dies ist eine relative Lücke innerhalb eines exzellenten Marktes.
+
+### Kann man mit einer südkoreanischen eSIM tetheren?
+
+Bei fast allen Reise-Profilen hier erlaubt, abgerechnet gegen dasselbe Kontingent. Die koreanische Bandbreite ist selten der limitierende Faktor; für lange Videoanrufe ist Hotel-Glasfaser wegen der 90-ms-Mobilfunklatenz dennoch die bessere Verbindung, und ein KT- oder SKT-Tarif mit lokaler Nummer hilft bei Apps, die per SMS verifizieren.
+
+### Funktioniert eine südkoreanische eSIM in Japan?
+
+Nur mit einem Mehrländer-Tarif. Korea und Japan sind in fast jedem Reise-eSIM-Katalog separate Profile, und ein reiner Korea-Tarif funktioniert ab dem Moment der Landung in Tokio nicht mehr. Unser [Japan-eSIM-Leitfaden](/carriers/japan-esim-carrier-guide/) behandelt die Überfahrt.
+
+### Beste südkoreanische eSIM nach Reiseart
+
+Vier bis sechs Gigabyte reichen für einen fünftägigen Seoul-Aufenthalt, wobei U-Bahn- und Café-WLAN die Lücken füllen und Hotel-WLAN Video abwickelt. Fügen Sie einige Gigabyte für eine mehrtägige KTX-Route hinzu, auf der Navigations- und Buchungs-Apps den ganzen Tag laufen.
+
+### Ist eine koreanische eSIM besser als Pocket-WiFi?
+
+Für ein bis zwei Reisende ist eine eSIM einfacher: nichts abzuholen, zurückzugeben, aufzuladen oder zu verlieren, und keine Kaution. Pocket-WiFi ist weiterhin für eine Familie oder Gruppe sinnvoll, die eine Verbindung über mehrere Geräte teilt, und kann am Flughafen abgeholt und wieder abgegeben werden – aber es bietet niemals eine Nummer und es ist ein weiteres Gerät, das geladen werden muss.
+
+### Ist der Flughafen Incheon bei mobilen Daten schlechter als Seoul?
+
+Etwas, und interessanterweise: Incheon verzeichnet einen Median von 142,39 Mbps gegenüber 184,48 Mbps in Seoul, was ihn zur langsamsten Stadt im koreanischen Bericht und zur einzigen Stadt macht, in der LG U+ SK Telecom schlägt. Bei 142 Mbps mit 87,6 % Konsistenz ist nichts falsch – aber es ist gut zu wissen, dass der erste Geschwindigkeitstest bei der Ankunft nicht repräsentativ für das Land ist.
+
+### Brauche ich entlang der gesamten KTX-Strecken mobile Daten?
+
+Yes, und es funktioniert: Gangwon-do führt die Provinzen mit 173,35 Mbps an, Gyeongsangbuk-do mit 137,6 Mbps und Gyeongsangnam-do mit 125,32 Mbps. Das WLAN im Zug ist im Vergleich unzuverlässig, daher ist ein Datentarif auf einer Strecke Seoul–Busan tatsächlich die bessere Verbindung.
+
+### Südkorea-eSIM: wo kaufen
+
+Vorher. Die Netzbetreiber-Schalter in Incheon verkaufen tatsächlich gute Touristenprodukte, sind aber auch der langsamste Teil der Ankunft, und ein zu Hause geladenes Profil ist bei der Landung sofort aktiv. Die Flughafenvariante gewinnt nur, wenn Sie gezielt eine koreanische Sprachnummer möchten.
+
+### Bleibt meine Heimatnummer für Zwei-Faktor-Codes aktiv?
+
+Yes, und das ist das Setup, das die meisten Besucher nutzen: Festnetz auf der physischen SIM für Anrufe und Verifizierungscodes, koreanische Daten auf der eSIM. Das ist in Korea wichtiger als an den meisten Orten, weil so viele Dienste – Banking, Airline-Check-in, sogar einige Transport-Apps – einen Code an die registrierte Nummer senden.
+
+### Die eigene Touristen-SIM von KT gegen eine Reise-eSIM – was gewinnt?
+
+Korea ist ungewöhnlich, da die Netzbetreiber selbst konkurrenzfähige Touristenprodukte verkaufen, daher ist der ehrliche Vergleich eng. Die Schalter von KT und SK Telecom geben Ihnen eine koreanische 010-Nummer und eine lokale Sprachleitung, die einige Liefer- und Reservierungsdienste verlangen; eine Multi-Netzwerk-[Südkorea-eSIM](/south-korea-esim/) bietet Ihnen Netzabdeckung von SK Telecom, KT und LG U+ mit nichts als einem Reisepass und ohne Warteschlange. Wenn Sie die Nummer brauchen, nehmen Sie den Schalter; wenn Sie online sein müssen, nehmen Sie die eSIM.
+
+### Aufladeoptionen für südkoreanische eSIMs
+
+Über die App des Anbieters, in wenigen Minuten, unter Beibehaltung desselben Profils. Koreanische Daten sind lokal teuer – etwa 5,01 USD pro Gigabyte – daher passt es hier mehr als fast überall sonst, das Tarifniveau an den tatsächlichen Verbrauch anzupassen. Laden Sie vor der Fähre oder dem Flug nach Jeju nach, anstatt sich auf Insel-WLAN in dem Moment zu verlassen, in dem das Kontingent aufgebraucht ist.
+
+## Datenquellen hinter diesem Südkorea-Leitfaden
+
+Jede koreanische Leistungszahl in diesem Artikel stammt aus [Ookla's Südkorea-Konnektivitätsbericht für 1H 2024](https://www.ookla.com/research/reports/south-korea-speedtest-connectivity-report-h12024), der auch die mmWave-Lizenzdetails sowie die Metriken von SK Telecom, KT und LG U+ liefert. Sowohl der Median von 250,56 Mbps als auch Koreas sechster Platz im Weltranking stammen aus [Ookla's monatlichem Index für Korea](https://www.speedtest.net/global-index/south-korea). Jede Zahl ist durch mindestens zwei Quellen belegt, niemals nur durch eine.
+
+Für die besucherorientierten Details – Schalterpreise, die Reisepassregel, welche Tarife eine koreanische ID verlangen – ist die Referenz [Visits offizieller Seoul-SIM-Karten-Leitfaden](https://visit.seoul.kr/en/articles/seoul-sim-card-guide-2025). Der Kontext mit 5,01 USD pro Gigabyte stammt aus [der weltweiten Umfrage von Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/), und die Marktzahlen aus [DataReportals Digital 2025: Südkorea](https://datareportal.com/reports/digital-2025-south-korea).
+
+Beachten Sie, dass koreanische Zahlen schnell veralten – diese Netze wurden in zehn Jahren zweimal neu aufgebaut.
+
+## Einrichtung einer südkoreanischen eSIM
+
+Die drei koreanischen Netze sind alle stark, und die Warteschlange am Incheon-Netzbetreiberschalter ist das Langsamste bei der Ankunft. Laden Sie Ihr Profil zu Hause und es verbindet sich bei der Landung.
+
+Die [Südkorea-eSIM-Seite](/south-korea-esim/) führt die kostenpflichtigen Tarife; ein [kostenloses Testprofil](/free-esim/) ist die risikarme Möglichkeit, das Netz vorher zu prüfen.
+
+[Südkorea-eSIM bestellen](/south-korea-esim/)
+
+*Keine koreanische ID erforderlich*
+
+Vor Ihrer Reise: führen Sie den [eSIM-Kompatibilitäts-Check](/compatibility/) durch, holen Sie sich Roami's [Test-eSIM](/free-esim/), um die Netzabdeckung an Ihrem Aufenthaltsort zu testen, und halten Sie **WEB20** bereit – es gewährt 20 % Rabatt auf jeden Roami-Tarif, wenn Sie bereit sind, sich festzulegen.

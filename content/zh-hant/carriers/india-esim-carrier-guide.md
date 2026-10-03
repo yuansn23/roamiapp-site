@@ -1,279 +1,387 @@
 ---
-title: "想要去印度旅途中隨時連線？eSIM 選擇完整解析。"
-description: "Roami 整理了印度三大電信 Jio、Airtel 和 Vi India 的 eSIM 方案，從 5G 覆蓋範圍、上網速度和方案價格全面分析，幫助您找到最適合印度旅遊的 eSIM。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 印度，預付數據，5G 網路，Jio，Airtel，Roami，旅遊 eSIM，印度上網"
-site_name: "Roami"
-brand_name: "Roami"
+title: "印度 eSIM 該選哪家？Jio、Airtel、Vi 三大業者比較"
+description: "印度 eSIM 要辦哪一家電信業者？Roami 以實測網速、預付 KYC 規定與 APN 設定比較 Jio、Airtel 與 Vi，從德里、孟買到喀拉拉與拉賈斯坦邦逐段檢視覆蓋表現，幫你依路線選出印度最適合的 eSIM，城鄉都穩定上網，出差旅遊都適用。"
+image: "img/esim/carriers/india-esim-carrier-guide.jpg"
+date: "2026-09-26T12:43:56+00:00"
+keywords: India eSIM 電信業者, India eSIM 運營商, Jio eSIM, Airtel eSIM, Vi eSIM, India 5G 覆蓋率, India eSIM APN, eSIM India 預付卡, best eSIM carrier India, India travel eSIM
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "印度 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇮🇳] 印度 最新旅遊 eSIM 指南"
-hero_subtitle_main: "印度 eSIM：立即購買，即時連線"
-hero_subtitle_highlight: "Jio 與 Airtel 頂級 5G 覆蓋"
-hero_description_line1: "多樣化的資費方案，印度 eSIM 適合短期訪客、學生與商務人士，讓您輕鬆使用全 印度 的高速數據。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "印度 eSIM"
-hero_link_url: "/india-esim/"
-tldr_summary: "【專為數位遊牧民族打造：多國無限數據傳輸方案】印度 eSIM 讓您無縫切換至當地頂尖網路。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024) 數據，Jio 在 2024 下半年以中位下載速度 158.63 Mbps 奪冠，5G 中位下載更達 258.54 Mbps；Airtel 則提供最佳影音串流與遊戲體驗。Roami 的印度 eSIM 方案整合 Jio 與 Airtel 網路，讓數位遊牧民族在孟買、德里、班加羅爾等城市享受穩定連線，無需擔心漫遊費用。結論：選擇 Roami 印度 eSIM，即享頂級 5G 速度與無限數據，工作娛樂不中斷。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "印度 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：印度 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "印度 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：印度 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 印度 eSIM 前須知"
-
-  - href: "#faq"
-    text: "印度 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "印度 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：印度 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Jio"
-    carrier_class: "text-red-600"
-    reason: "Jio 在 2024 下半年獲得 Speedtest 最快行動網路與最快 5G 網路雙料冠軍，中位下載速度 158.63 Mbps，5G 中位下載 258.54 Mbps，適合需要高速上傳下載的遠端工作者。"
-
-  - travel: "影音串流愛好者"
-    carrier: "Airtel"
-    carrier_class: "text-green-600"
-    reason: "Airtel 在 2024 下半年提供最佳影片串流體驗與 5G 遊戲體驗，適合觀看 YouTube、Netflix 或玩手遊的用戶。"
-
-  - travel: "預算有限背包客"
-    carrier: "Vi India"
-    carrier_class: "text-purple-600"
-    reason: "Vi India 雖然速度較慢（中位下載 21.60 Mbps），但資費通常更便宜，適合基本通訊與輕度上網。"
-
-  - travel: "鄉村與偏遠地區旅行者"
-    carrier: "Jio"
-    carrier_class: "text-red-600"
-    reason: "Jio 擁有最佳覆蓋與最高 5G 可用性（73.7%），在偏遠地區也能保持連線。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 印度 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "jio-esim"
-    title: "Jio eSIM 總覽：最快 5G 與最佳覆蓋"
-    best_for: "此方案絕對是最佳選擇，如果您追求極致速度與廣泛覆蓋。Jio 在 2024 下半年以 Speed Score 174.89 奪冠，5G 中位下載達 258.54 Mbps，且 5G 可用性高達 73.7%。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024)，Jio 的 5G 可用性為 73.7%，領先所有競爭者。\n- **下載速度**：中位下載速度 158.63 Mbps（所有技術合計），5G 中位下載 258.54 Mbps。\n- **上傳速度**：中位上傳速度 8.93 Mbps，5G 中位上傳 14.54 Mbps。\n- **延遲**：整體中位延遲 62 ms，5G 延遲 55 ms。"
-    arcep_note: "經印度電信管理局（TRAI）確認，Jio 持續在頻譜拍賣與基礎建設投資上保持領先，符合國家寬頻計畫目標。"
-    connect_note: "啟用過程順暢，透過 Roami 購買後掃描 QR code 即可啟用，支援多數 eSIM 手機。"
-    user_scenarios: "- **[孟買當地火車通勤]**：在擁擠的孟買當地火車上，Jio 的 5G 網路讓您流暢觀看串流影片或進行視訊會議，中位下載 258.54 Mbps 確保不卡頓。\n- **[德里紅堡觀光]**：在德里紅堡等熱門景點，Jio 的高覆蓋率讓您即時上傳照片、使用地圖導航，無需擔心訊號死角。\n- **[喀拉拉邦回水之旅]**：在船屋上享受寧靜時光，Jio 的 5G 可用性 73.7% 讓您在偏遠水道上仍能保持連線，分享美景。"
-    bg_color: "bg-red-50"
-
-  - id: "airtel-esim"
-    title: "Airtel eSIM 總覽：最佳影音與遊戲體驗"
-    best_for: "此方案絕對是最佳選擇，如果您重視串流品質與遊戲延遲。Airtel 在 2024 下半年獲得最佳影片串流體驗與 5G 遊戲體驗獎項。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024)，Airtel 的 5G 一致性達 79.8%（下載≥25 Mbps，上傳≥3 Mbps）。\n- **下載速度**：中位下載速度 100.67 Mbps（所有技術合計），5G 中位下載 205.1 Mbps。\n- **上傳速度**：中位上傳速度未單獨公布，但整體表現穩定。\n- **延遲**：5G 延遲表現優異，適合即時遊戲。"
-    arcep_note: "經印度電信管理局（TRAI）確認，Airtel 在都市與鄉村的覆蓋持續擴張，並積極參與 5G 頻譜部署。"
-    connect_note: "啟用過程順暢，Roami 提供 QR code 即時啟用，支援多數 eSIM 手機。"
-    user_scenarios: "- **[班加羅爾科技園區]**：在班加羅爾的科技園區工作，Airtel 的低延遲與高一致性讓您進行流暢的視訊會議與雲端協作。\n- **[果阿海灘派對]**：在果阿海灘上直播派對，Airtel 的影片串流體驗確保上傳順暢，觀眾無緩衝。\n- **[齋浦爾琥珀堡導覽]**：使用擴增實境（AR）導覽應用程式，Airtel 的 5G 遊戲體驗讓互動更即時。"
-    bg_color: "bg-green-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 印度 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 印度 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 印度 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 印度 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 印度主要 5G/4G 頻段與裝置相容性"
-    content: "印度 5G 主要使用 n78（3.5 GHz）頻段，4G 則以 Band 3（1800 MHz）、Band 40（2300 MHz）與 Band 41（2500 MHz）為主。購買 eSIM 前請確認您的裝置支援這些頻段，尤其是非印度版手機。Jio 與 Airtel 均廣泛部署 n78，確保高速連線。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "印度電信法規要求所有 SIM 卡（包含 eSIM）使用者完成 KYC（Know Your Customer）驗證。Roami 的印度 eSIM 方案已預先完成 KYC，您無需提供護照或簽證即可啟用，但若直接向當地營運商購買，則需提交護照影本與簽證資訊。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "多數印度 eSIM 方案設有 FUP，例如每日或每月高速數據上限（如 1GB/天），超過後降速至 128 Kbps 或 256 Kbps。Roami 的無限方案通常包含每日 FUP，請在購買前確認條款，避免降速影響使用。"
-
-  - heading: "4. 網路覆蓋與漫遊注意事項"
-    content: "Jio 與 Airtel 在都市與主要旅遊區覆蓋良好，但偏遠山區（如拉達克、東北七州）訊號可能較弱。Roami eSIM 通常自動選擇最強訊號，但若前往極偏遠地區，建議搭配離線地圖。"
-
-  - heading: "5. eSIM 啟用與技術支援"
-    content: "Roami 的印度 eSIM 支援 QR code 啟用，多數現代手機（iPhone XS 以上、Google Pixel 3 以上等）皆相容。啟用後若遇問題，可透過 Roami 24/7 客服或線上知識庫排除。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：印度 最佳 eSIM"
-city_guide_desc: "了解哪款 印度 eSIM 是您目的地的最佳選擇，根據當地網路效能與覆蓋特性推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "孟買"
-    carriers: "Jio"
-    reason: "孟買是金融與娛樂中心，人潮密集。Jio 的 5G 可用性 73.7% 與中位下載 258.54 Mbps 確保在擁擠的當地火車與商業區仍能高速連線。"
-
-  - city: "德里"
-    carriers: "Airtel"
-    reason: "德里歷史景點眾多，Airtel 的影片串流體驗最佳，適合在紅堡、印度門等地即時上傳影片與使用 AR 導覽。"
-
-  - city: "班加羅爾"
-    carriers: "Jio"
-    reason: "班加羅爾是印度矽谷，Jio 的極速 5G 適合遠端工作者與科技新創人士，中位下載 158.63 Mbps 滿足大量數據傳輸需求。"
-
-  - city: "果阿"
-    carriers: "Airtel"
-    reason: "果阿以海灘與夜生活聞名，Airtel 的 5G 遊戲體驗與低延遲適合直播與即時互動，且 5G 一致性 79.8% 確保穩定訊號。"
-
-  - city: "齋浦爾"
-    carriers: "Jio"
-    reason: "齋浦爾是旅遊熱點，Jio 的廣泛覆蓋在琥珀堡、城市宮殿等景點提供可靠連線，5G 可用性 73.7% 減少訊號死角。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 印度 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在孟買、德里等大都市，Jio 的 5G 網路讓您流暢使用地圖、叫車應用與社群媒體，中位下載 158.63 Mbps 確保即時載入。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往喀拉拉邦回水或喜馬拉雅山區，Jio 的高覆蓋率與 5G 可用性 73.7% 讓您在偏遠地區仍能分享美景與導航。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕穿越印度國道，Airtel 的 5G 一致性 79.8% 確保導航不中斷，並可即時查詢路況與加油站資訊。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在果阿或本地治里的海灘，Airtel 的影片串流體驗讓您直播夕陽、上傳影片，觀眾無緩衝。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "印度 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "我可以同時使用實體 SIM 卡（原門號）與 印度 eSIM 嗎？"
-    a: "可以。大多數支援 eSIM 的手機（如 iPhone XS 以上、Google Pixel 3 以上）允許同時啟用一張實體 SIM 與一張 eSIM。您可保留原門號接收簡訊與來電，同時使用印度 eSIM 上網。請在手機設定中將 eSIM 設為數據來源，並確認原門號未開啟數據漫遊以避免額外費用。"
-
-  - q: "如果在旅途中 印度 eSIM 的數據用量用完，我可以輕鬆加購嗎？"
-    a: "可以。Roami 提供線上加購功能，您可透過 Roami 官網或應用程式購買額外數據方案，通常即時生效。部分方案支援自動加值，避免數據中斷。建議在出發前確認加購流程，或選擇包含足夠數據的初始方案。"
-
-  - q: "印度 的無限數據方案是否有嚴格公平使用政策（FUP）或頻寬限制？"
-    a: "是的，多數印度 eSIM 無限方案設有 FUP。例如每日高速數據上限為 1GB 或 2GB，超過後降速至 128 Kbps 或 256 Kbps，僅能傳送文字訊息與基本網頁瀏覽。購買前請仔細閱讀方案條款，Roami 會在產品頁面清楚標示 FUP 門檻。"
-
-  - q: "更換手機時，如何將啟用中的 印度 eSIM 設定檔轉移到新手機？"
-    a: "轉移 eSIM 設定檔需視營運商政策而定。Roami 的印度 eSIM 通常可透過重新掃描原始 QR code 或聯絡客服取得新 QR code 來重新安裝。部分營運商支援 eSIM 快速轉移（如 iPhone 的 eSIM 快速轉移功能）。建議在更換手機前備份 QR code，或聯繫 Roami 客服協助。"
-
-  - q: "如果我從裝置中刪除 印度 eSIM，之後可以重新安裝嗎？"
-    a: "通常可以，但需視方案條款。Roami 的印度 eSIM 在有效期限內可重新安裝，您只需使用原始 QR code 或透過 Roami 帳戶重新下載設定檔。若 QR code 已過期或遺失，請聯繫客服取得新的啟用碼。請注意，部分方案可能限制重新安裝次數。"
-
-# 迷思
-myths_title: "⚠️ 印度 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "印度 eSIM 只能在主要城市使用，鄉村完全沒訊號。"
-    truth: "Jio 的 5G 可用性達 73.7%，且覆蓋範圍持續擴張至鄉村。雖然偏遠山區訊號較弱，但多數旅遊景點與鄉鎮均有 4G/5G 覆蓋。"
-
-  - myth: "印度 eSIM 速度很慢，無法觀看 HD 影片。"
-    truth: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024)，Jio 中位下載速度 158.63 Mbps，5G 中位下載 258.54 Mbps，足以流暢播放 4K 影片。Airtel 更獲得最佳影片串流體驗獎項。"
-
-  - myth: "所有印度 eSIM 都需要繁瑣的 KYC 認證。"
-    truth: "Roami 的印度 eSIM 已預先完成 KYC，您無需提供個人證件即可啟用。但若直接向當地營運商購買，則需提交護照與簽證資訊。"
-
-  - myth: "印度 eSIM 只能使用 Jio 或 Airtel 其中一家網路。"
-    truth: "Roami 的印度 eSIM 通常會自動選擇最強訊號的當地網路，可能同時支援 Jio 與 Airtel，確保最佳連線品質。"
-
-  - myth: "印度 eSIM 啟用後無法在有效期限內延長使用。"
-    truth: "Roami 提供加購與延長方案，您可在有效期限內購買額外天數或數據，無需更換 eSIM。部分方案支援自動續約。"
-
-# 數據來源
-data_sources_title: "印度 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024)"
-    description: "Ookla 的 Speedtest Intelligence 數據，涵蓋 2024 下半年印度行動與固定網路效能分析，包括中位下載/上傳速度、延遲、5G 可用性與一致性。"
-
-  - name: "OpenSignal 2024 年 12 月報告"
-    description: "OpenSignal 的印度行動網路體驗報告，提供影片串流、遊戲體驗、語音應用程式體驗等指標，補充使用者體驗面向。"
-
-  - name: "印度電信管理局（TRAI）2024 年第四季報告"
-    description: "TRAI 的印度電信服務效能監測報告，包含各營運商的覆蓋率、頻譜持有與服務品質數據，作為官方監管依據。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已標示來源。Roami 不直接控制當地網路品質，實際體驗可能因裝置、地點與時間而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查閱最新報告，並選擇適合您行程的方案。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 印度 eSIM"
-cta_desc: "即時存取高速 5G 網路，無需排隊、無需實體 SIM。掃描 QR code 即啟用，讓您從抵達印度那一刻起就保持連線。"
-cta_button_text: "立即購買 印度 eSIM"
-cta_button_link: "/india-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "印度 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 印度 eSIM 指南
+  url: ''
+hero_badge: "Jio、Airtel 還是 Vi？印度的抉擇"
+hero_subtitle_main: "Jio、Airtel 與 Vi 的實力檢驗"
 ---
+
+
+選擇印度 eSIM 意味著把網路對上你要去的邦：三家私營運營商與一家國營巨頭瓜分地圖，本指南告訴你誰在哪裡勝出。印度疊了四張網路——三張私營、一張國營——由你的行程決定取捨。在 Ookla 的 2024 下半年印度報告中，Jio 是最快的行動網路業者，5G 下載中位數達 258.54 Mbps；Airtel 在影片與 5G 遊戲體驗上領先；Vi 在純速度上墊底。把網路對上你實際旅行的邦，而不是對上廣告。裝過旅遊 eSIM 了嗎？直接跳到印度電信比較——啟用一節是為完全的新手寫的。
+
+**快速結論：** 在印度各地移動選 Jio，定居單一城市選 Airtel。這個分野在下方速度、價格與實名登記細節中都站得住腳；[相容性頁面](/compatibility/)先處理手機的問題。
+
+第一個值得確定的問題：你的手機到底能不能裝 eSIM？[eSIM 相容性清單](/compatibility/)在一分鐘內給你答案，而[ eSIM 啟用如何運作](/faq/what-is-esim-activation-and-how-does-it-work/)的說明解釋 profile 下載時發生了什麼。此後的一切都關於網路。
+
+**重點整理：** 留在孟買、德里或邦加羅爾？Jio 是全國最快的網路，也是唯一運行真正獨立組網（standalone）5G 的業者。串流影片多或在移動中打遊戲？Airtel 在影片與 5G 遊戲得分上勝出。要深入拉達克、拉賈斯坦沙漠或東北部？Jio 覆蓋更遠，但沒有任何單一業者能覆蓋高山隘口。想跳過護照排隊與啟用等待？[免費測試](/free-esim/)免費檢驗各網路，折扣碼 **WEB20** 給[印度預付 eSIM 方案](/india-esim/) 20% 折扣。
+
+## 當地電信業者：Jio、Airtel 與 Vi
+
+本節說明外國遊客實際上能連上哪些印度運營商，以及在印度買本地卡為何與大多數國家截然不同。
+
+### Jio 對決 Airtel：在印度哪個更好？
+
+| | Jio | Airtel | Vi |
+|:---|:---|:---|:---|
+| 訪客 eSIM 途徑 | 在機場櫃檯與門市販售，但必須先完成親自到場的護照 KYC | 在機場櫃檯與門市販售，但必須先完成親自到場的護照 KYC | 在門市販售，但必須先完成親自到場的護照 KYC |
+| 最強項 | 最快的網路、最廣的覆蓋、唯一真正的獨立組網 5G | 最佳影片與 5G 遊戲體驗，城市表現強勁 | 最便宜的城市方案，都會區覆蓋尚可 |
+| 最低價預付 | 約 ₹299 / 28 天，每天 2 GB | 約 ₹299 / 28 天，每天 2 GB | 約 ₹299 / 28 天，每天 1.5 GB |
+| 訪客購買途徑 | ★★ — 主要機場的 Airtel 與 Jio 櫃檯，需護照加簽證 | ★★ — 主要機場的 Airtel 與 Jio 櫃檯，需護照加簽證 | ★ — 城市可用，鄉村覆蓋較弱 |
+
+**仔細看這張表，因為它包含本頁最有用的一個事實：** 印度每一家電信業者都要你親自完成該國的人工身分查驗之後，才販售預付 eSIM。沒有匿名即買即用的產品，訪客也沒有 Aadhaar 生物辨識的捷徑。印度居民透過 Aadhaar eKYC 幾分鐘就能完成身分確認；外國護照持有人無法使用 Aadhaar，因此同一條門號要花上數小時的文件審查。
+
+### 全場選手：印度行動電信
+
+印度實際上有四張行動網路，而第四張正是多數旅客忽略的那一張。
+
+| 品牌 | 運行的網路 | eSIM | 適合誰 |
+|:---|:---|:---|:---|
+| Jio | 自有 4G 與 5G 網路 | 有，完成護照 KYC 後 | 離開大城市的旅客、想要獨立組網 5G 的人 |
+| Airtel | 自有 4G 與 5G 網路 | 有，完成護照 KYC 後 | 城市停留、影片串流、移動中打遊戲 |
+| Vi (Vodafone Idea) | 自有 4G 網路，5G 有限 | 有，完成護照 KYC 後 | 停留在都會區的預算型旅客 |
+| BSNL | 國營網路 | 有限，多為實體 SIM | 私營覆蓋轉薄的偏遠與邊境地區 |
+
+兩點提醒。第一，BSNL 為政府所有，鄉村與邊境覆蓋倚賴國家，但其速度與一致性遠遠落後私營三強——Ookla 給 BSNL 的一致性得分為 40.7，Jio 則是 83.7。第二，本地發行的 eSIM 終身綁定一家業者，因此一旦離開該網路的強勢區域，你就只能自求多福。
+
+### 可以向 Jio 買印度 eSIM 嗎？
+
+| | 直接向印度電信購買 | 走印度網路的旅遊 eSIM |
+|:---|:---|:---|
+| 你需要什麼 | 護照、印度簽證、護照照片、飯店地址證明 | 一支相容、未上鎖的手機 |
+| profile 如何送達 | 完成人工 KYC 後在門市或機場櫃檯取得，有時是 QR，但一定在驗證之後 | 結帳後立即取得 QR code 或 App 安裝 |
+| 典型 28 天花費 | 約 ₹299 至 ₹849，每天 1.5 至 2 GB 加無限通話 | 一個美元計價的預付價格，免盧比文件手續 |
+| 網路存取 | 你在櫃檯選定的單一業者 | 在印度主要網路之間自動切換 |
+| 本地門號 | 有，真正的印度 +91 門號 | 通常純數據，無印度門號 |
+| 最適合 | 停留一個月以上，或需要印度門號使用 UPI 與 App 的人 | 數天到數週的旅程，以及想一落地就上線的人 |
+
+印度的經濟學很不尋常，因為當地數據便宜得驚人，所以如果你等得起一天啟用，電信路線在價格上勝出。旅遊路線贏在便利，以及不用護照就能觸及多張網路。電信路線仍然勝出的地方是印度門號本身——本地叫車 App、火車訂票與 UPI 支付都要它。
+
+💡 多網路 eSIM profile 是實際的中間路線：[我們的印度 eSIM](/india-esim/) 保留即時送達的便利，在 Jio 與 Airtel 之間自動切換，讓你在小鎮落在 Jio、在城市落在 Airtel，不必買兩次。
+
+## 印度 eSIM 相容性檢查清單
+
+決定你的手機能否使用印度電信的有三件事：頻段、鎖機狀態，以及一小串特定裝置的怪癖。三者都在下方涵蓋。
+
+### 較舊的手機能用印度 eSIM 嗎？
+
+印度電信在多數現代全球手機已支援的頻段上建設 4G 與 5G，十年前那種頻段焦慮大體已經消失。使用中的頻段是 4G LTE band 1、3、5、8、28、40、41，以及 5G band n28、n78 與有限的 n258。如果你的手機支援 band 41 與 5G n78，你就覆蓋得很好，而近四五年販售的幾乎每一款旗艦機都支援。
+
+不需要背頻段表。可靠的做法是用你的確切型號——型號編號，而非行銷名稱——到[裝置相容性檢查器](/compatibility/)查一次。好奇 profile 落地時底層發生了什麼？[什麼是 eSIM 啟用及其運作方式](/faq/what-is-esim-activation-and-how-does-it-work/)逐步解釋。
+
+### 哪些手機過不了印度的 eSIM 檢查？
+
+鎖機是印度 eSIM 安裝直接失敗最常見的原因，而這裡的規則與你在本國的預期相反。印度本身不鎖它販售的手機，所以從 Jio、Airtel 或 Vi 買的手機通常本來就是自由的。咬到旅客的鎖是你在美國、歐洲或其他地方的本國電信上的鎖，而這把鎖跟著手機跨越邊境。
+
+**去哪裡看：** iPhone 的設定 -> 一般 -> 關於本機 -> 電信鎖。看到「無 SIM 限制（No SIM restrictions）」就是綠燈。如果顯示「SIM 已鎖」，在那改變之前任何印度 profile 都裝不了。
+
+**解決它：** 聯絡鎖定手機的電信並在起飛前申請解鎖。裝置一旦完全付清款項，解鎖通常幾小時內免費完成。然後才嘗試安裝你的印度 eSIM。
+
+如果你買的是二手機或合約機，假定它可能上鎖並在登機前查清楚。本地 eSIM 無法覆蓋硬體鎖。
+
+### 印度 eSIM 的 IMEI 與 EID 檢查
+
+| 裝置 | 症狀 | 該怎麼做 |
+|:---|:---|:---|
+| 中國大陸版 iPhone 型號 | 完全沒有「加入 eSIM」選項，該市場停用此硬體功能 | 無法修復；用實體 SIM 或另一支裝置 |
+| 電信合約購入的 Samsung | 設定中 eSIM 呈灰色 | 先請本國電信解鎖，然後重新開機 |
+| 不支援 band 41 或 n78 的手機 | 城市快，鄉村 4G 慢 | 預期行為；見下方區域覆蓋說明 |
+| 雙 SIM 用戶 | eSIM 已安裝但無數據 | 將印度 eSIM 設為行動數據使用的線路 |
+
+這一步之後的一切取決於你手上的手機，而非 Jio 或 Airtel。在 [eSIM 相容性工具](/compatibility/)花兩分鐘，勝過在德里機場櫃檯才發現問題。
+
+## 價格正面交鋒
+
+存在四條路線，它們的差異更多在文件手續而非價格：機場櫃檯的 Jio 與 Airtel、城市裡的 Vi，以及只在私營網路淡出處存在的 BSNL。逐條路線、逐步說明。
+
+### 旅客在哪裡買印度 eSIM
+
+Jio 是印度最大的運營商，也是唯一運行不依賴 4G 的真正獨立組網 5G 核心的業者。國際訪客無法在抵達前線上購買 Jio eSIM，因為 Jio 自己的 App 啟用流程假定你已持有可驗證的有效印度門號。實際途徑是親自到場。
+
+**Jio eSIM，逐步操作：**
+
+1. 前往德里、孟買或邦加羅爾等主要國際機場的 Jio 櫃檯，或市內的 Jio 門市。
+2. 出示你的護照正本、簽證、一張護照規格照片，以及飯店地址作為居住地證明。
+3. 櫃檯錄取你的資料與現場照片，然後提交人工 KYC，因為你沒有 Aadhaar。
+4. 你會收到 profile 或實體 SIM；eSIM 的 QR 在驗證通過後才送達，花時間的是這一段而非銷售本身。
+
+Jio 的預付價格是全球最低之列，這正是預算旅客的預設選擇，但記得下述的啟用延遲適用於所有非居民。
+
+### 在印度選旅遊 eSIM 還是本地 SIM？
+
+Airtel 是多數旅客最先接觸的運營商，因為它的櫃檯就設在德里、孟買、邦加羅爾、清奈與海得拉巴的入境大廳。Airtel 的網路是 Ookla 評為影片串流與 5G 遊戲最佳的一張，其機場人員每天處理外國護照，並以英語服務。
+
+**Airtel eSIM，逐步操作：**
+
+1. 過完海關後，在行李大廳出口附近找 Airtel 攤位。
+2. 交出你的護照、簽證、照片與飯店地址證明。
+3. 工作人員填寫客戶開戶表單並拍攝現場照片存入政府紀錄。
+4. 人工驗證通過後發出 eSIM profile，接著你掃描 QR 並把 Airtel 設為數據線路。
+
+Airtel 機場的預付遊客包比其官網的居民價格略高，櫃檯加價就是你跳過市區排隊所付出的代價。Airtel 或 Jio 任何一家都能把首次訪客服務得很好，落地時若只有一個櫃檯有人，就用它。
+
+### Vi 有賣遊客可用的預付 eSIM 嗎
+
+Vi（即 Vodafone Idea 品牌）確實販售預付 eSIM，但它的覆蓋是三家私營業者中最弱的。Vi 在大城市與幾條旅遊線路上表現不錯，價格與 Jio、Airtel 相當，但它的鄉村與公路覆蓋明顯較薄，所以只有當你的行程完全待在大城市時它才是安全選擇。
+
+對訪客而言，Vi 走與其他家相同的護照加簽證 KYC，以及相同的啟用等待。如果你的計畫涉及小鎮、山城或長途開車，Jio 或 Airtel 是更穩的選擇，Vi 退為備援而非主力。
+
+### 在印度取得數據最便宜的方法
+
+價格經常變動，因此把下表視為取自各運營商公開預付頁面與機場遊客包的參考層級，付款前請確認當前價格。
+
+| 運營商 | 每日數據 | 有效期 | 約略價格 (INR) |
+|:---|:---|:---|:---|
+| Jio | 每天 2 GB | 28 天 | 自 299 起 |
+| Jio | 每天 2 GB | 56 天 | 自 533 起 |
+| Jio | 每天 2 GB | 84 天 | 自 799 起 |
+| Airtel | 每天 2 GB | 28 天 | 自 299 起 |
+| Airtel | 每天 2 GB | 84 天 | 自 839 起 |
+| Vi | 每天 1.5 GB | 28 天 | 自 299 起 |
+| 機場遊客包 | 約每天 1 GB | 28 天 | 約 500 |
+
+這些盧比價格正是本地線路在價格上無可匹敵的原因，但記得伴隨而來的啟用等待與護照排隊。旅遊路線用這筆節省換取即時送達與零文件手續。
+
+### 印度各地的 eSIM 方案價格
+
+| # | 文件 | 為何重要 |
+|:---|:---|:---|
+| 1 | 護照正本 | 會影印或掃描；正本必須出示 |
+| 2 | 有效印度簽證 | 紙本電子簽證核准或蓋章；系統會查驗 |
+| 3 | 護照規格照片 | 一到兩張；有些櫃檯改拍現場照 |
+| 4 | 飯店地址證明 | 訂房確認即符合本地地址規定 |
+| 5 | 未上鎖的手機 | 確認電信鎖顯示「無 SIM 限制」 |
+| 6 | 印度盧比或可用的卡片 | 機場櫃檯可能偏好現金；外國卡片有時被拒 |
+| 7 | Wi-Fi | 只在驗證通過後才安裝 profile，不要在半空中裝 |
+
+事先在手機裡預載護照頁、簽證與飯店訂房的截圖，櫃檯就不必和緩慢的連線搏鬥。決定前先瀏覽[印度 eSIM 方案](/india-esim/)的當前層級。
+
+## 你的 eSIM 覆蓋速度與該選哪家業者
+
+本節取決於兩個問題：每張網路在你的實際路線上表現如何，以及你是哪一種旅人。Ookla 表格回答第一個問題；旅程類型矩陣回答第二個。
+
+### Jio 對決 Airtel：哪個印度業者更快？
+
+以下所有數據來自 Ookla 針對印度的 Speedtest 連線報告，收集期間為 2024 年 7 月至 12 月，為跨人口最多市場的全國層級測量。
+
+| 指標 | Jio | Airtel | Vi |
+|:---|:---|:---|:---|
+| 5G 下載中位數 | 258.54 Mbps | 205.10 Mbps | 未公布 |
+| 5G 上傳中位數 | 14.54 Mbps | 未公布 | 未公布 |
+| 5G 速度得分 | 213.27 | 未公布 | 未公布 |
+| 下載中位數，全部技術 | 158.63 Mbps | 100.67 Mbps | 21.60 Mbps |
+| 上傳中位數，全部技術 | 8.93 Mbps | 未公布 | 未公布 |
+| 延遲，全部技術 | 62 ms | 未公布 | 未公布 |
+| 5G 可用率 | 73.7% | 未公布 | 未公布 |
+| 5G 一致性 | 未公布 | 79.8% | 未公布 |
+| 覆蓋得分 | 65.66 | 58.17 | 未公布 |
+| 一致性得分 | 83.7 | 83.6 | 未公布 |
+
+空白代表 Ookla 沒有公布數字，不是我們估的。兩個值得注意之處：Jio 在 5G 純速度與覆蓋廣度上領先，而 Airtel 的強項是體驗品質——影片串流與 5G 遊戲得分，以及 79.8% 的 5G 一致性。Vi 全技術中位數 21.60 Mbps 顯示它在投資上落後了多少。
+
+作為全國整體的背景，Ookla 的 [Speedtest 全球指數](https://www.speedtest.net/global-index/india)在 2026 年 8 月把印度的行動下載中位數排在 128.20 Mbps、全球第 32，延遲 26 ms。固網寬頻低得多，63.94 Mbps，世界第 100。Cable.co.uk 將 1 GB 印度行動數據定價約 0.16 美元，在 237 個市場中排第 7，對上 2.59 美元的全球平均——這正是本地線路一旦終於開通後如此便宜的原因。
+
+### 依旅行風格選最佳印度 eSIM
+
+| 你的行程 | 首選 | 勝出原因 | 注意事項 |
+|:---|:---|:---|:---|
+| 城市小旅行：孟買、德里、邦加羅爾 | Jio 或 Airtel | 兩者在市區都很優秀；Jio 更快，Airtel 影片更好 | 機場 Wi-Fi 恰好在你最需要時擁塞 |
+| 影片串流與遊戲 | Airtel | Ookla 數據中最佳的影片串流與 5G 遊戲體驗 | 兩家的上傳都不是最快的 |
+| 跨邦公路旅行 | Jio | 最廣的覆蓋與唯一的獨立組網 5G | 沙漠與山隘仍然斷訊 |
+| 預算旅客 | Jio | 同樣流量下最低的預付價格 | 速度依電信圈（circle）而異 |
+| 商務旅行與通話 | Airtel | 城市強勁穩定，英語支援容易 | 本地門號需要 KYC 等待 |
+| 列城、拉達克與邊境地區 | Jio 或 BSNL | Jio 覆蓋較遠；BSNL 是偏遠邊區的生命線 | 邦外預付卡在查謨-克什米爾無法使用 |
+| 東北各邦 | Airtel 或 Jio | 兩者在古瓦哈提與主要城鎮都有 5G | 鄉村山谷在任何業者上都參差 |
+
+### Jio 對決 Airtel：覆蓋比較
+
+印度的覆蓋跟著人口走：都會區密集，沙漠公路沿線迅速轉薄，高山隘口以上消失。逐條路線的實況：
+
+| 區域 | 地面實況 |
+|:---|:---|
+| 孟買、德里、邦加羅爾、清奈、海得拉巴、加爾各答 | 三張私營網路都很強；Ookla 評齋浦爾為最快大城市，181.68 Mbps，Jio 在九個大城市全面最快。 |
+| 拉賈斯坦沙漠帶 | 齋浦爾與城市良好，一離開主要道路明顯轉弱；齋浦爾到賈沙梅爾的公路有漫長的靜默路段。 |
+| 喜馬拉雅北部、拉達克、Spiti、馬納里 | 只有山谷有覆蓋；高山隘口與步道參差到全無，出發前請下載離線地圖。 |
+| 查謨-克什米爾 | 依電信部（Department of Telecommunications）安全規定，邦外預付 SIM 在邊界即失效；只有 postpaid 或本地查謨-克什米爾遊客 SIM 可用。BSNL 是偏遠地區的生命線。 |
+| 東北部：阿薩姆、梅加拉亞、阿魯納恰爾 | 古瓦哈提與各邦首府有 Airtel 與 Jio 的 5G，但鄉村山谷與邊境縣在所有私營業者上都稀薄。 |
+| 果亞與喀拉拉 | 旅遊海岸覆蓋紮實；內陸與回水區降到 4G。 |
+
+規劃離開印度的路線？從[尼泊爾 eSIM 指南](/carriers/nepal-esim-carrier-guide/)開始、比較[孟加拉 eSIM 方案](/bangladesh-esim/)，或若你的行程跨越多國，一個[亞洲](/asia-esim/)方案讓你免於買兩次。
+
+把網路選擇留在自動，正是保持這種無縫體驗的關鍵。能在 Jio 與 Airtel 之間移動的 profile 覆蓋了任何單一業者方案無法涵蓋的區域缺口，也讓你免於查謨-克什米爾的邦外 SIM 問題。
+
+## 輸入 APN
+
+幾乎沒有人需要碰 APN 設定，這正是數據不動時應該第一個排除的原因。下方：三家業者的數值、真正需要手動輸入的時機，以及確切的選單路徑。
+
+### Jio、Airtel 與 Vi eSIM 的 APN 值
+
+只有當你直接向印度電信購買 SIM 或 eSIM 時才需要這些。旅遊 eSIM 出廠即預載 APN，落地日少一件要設定的事。
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| Jio | `jionet` | 留空 | 留空 |
+| Airtel | `airtelgprs.com` | 留空 | 留空 |
+| Vi | `www` | 留空 | 留空 |
+
+使用者名稱與密碼留空。若運營商要求其他內容，隨 profile 送達的說明會寫明。
+
+### 印度電信的 APN 表
+
+- 較舊、未自動取得電信設定的裝置
+- 以手動啟用碼而非 QR 掃描安裝的 profile
+- 自動設定未執行的電信發行預付 eSIM
+- 旅遊 eSIM 上幾乎不會發生——這正是託管 profile 的意義
+
+### 印度自動 APN 失效時
+
+- **iPhone：** 進入設定 → 行動服務（Cellular）→ 點選 eSIM 線路 → 行動數據網路（Cellular Data Network）→ 加入 APN
+- **Android：** 設定 → 連接（Connections）→ 行動網路（Mobile Networks）→ 存取點名稱（APN）→ 加入新 APN
+
+儲存後重新開機。如果數據仍失靈，在改動其他任何東西之前，先確認選定的數據線路是印度 eSIM 而非你的本國 SIM。
+
+## 你的 eSIM 設定與修復
+
+一口氣讀完本節，你就能從乾淨安裝走到數據可用，並依序走過印度網路可能產生的各種失效模式。
+
+### 印度 eSIM 安裝指南
+
+| # | 檢查項目 | 正常長什麼樣 |
+|:---|:---|:---|
+| 1 | 手機無電信鎖 | 關於本機 -> 電信鎖列出「無 SIM 限制」 |
+| 2 | 手機支援 eSIM | `*#06#` 顯示 EID，或相容性檢查器確認你的型號 |
+| 3 | QR code 與啟用碼已保存 | 截圖存在手機與雲端 |
+| 4 | KYC 文件備妥 | 護照、簽證、照片與飯店地址都在手上 |
+| 5 | 數據線路與漫遊已設定 | eSIM 已選為行動數據，數據漫遊已開 |
+
+只在電信的驗證通過後才安裝，因為本地發行的印度 eSIM 在線路開通前無法連線。德里與孟買的機場 Wi-Fi 恰好在你最需要時擁塞，所以等待期間請規劃用飯店 Wi-Fi。
+
+### 你該選哪家印度電信：Jio 對決 Airtel？
+
+我們的[啟用教學](/faq/how-to-activate-an-esim/)涵蓋完整流程，包括多數人錯過的設定。各業者的差異：
+
+- **Jio：** 親自護照 KYC 後發行 eSIM；你可能需要在本地線路上撥 1977 完成電話驗證
+- **Airtel：** 機場與門市櫃檯在 KYC 後發出 QR；撥打 59059 的電話驗證常能完成啟用
+- **Vi：** KYC 後在門市發行，同樣有電話驗證步驟；鄉村啟用支援較弱
+- **BSNL：** 多為實體 SIM，用於私營網路淡出處
+- **旅遊 eSIM：** 以 QR code 安裝，同一個 profile 漫遊到 Jio 或 Airtel 較強的一方
+
+讓每位初次到訪者驚訝的細節是等待。居民透過 Aadhaar 幾分鐘完成身分確認；外國護照走人工審查，因此白天機場櫃檯的啟用通常需要二到四小時，市區門市或深夜則可能長達二十四小時，有時更久。
+
+### 印度 eSIM 的四步復原
+
+針對更廣的失效目錄——從卡住的下載到裝好卻永遠不註冊的 profile——請用我們的 [eSIM 疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)。四種模式在印度反覆出現——下方清單涵蓋它們。
+
+**A. eSIM 無法安裝**
+
+1. 設定 -> 一般 -> 關於本機 -> 電信鎖應顯示「無 SIM 限制」
+2. 啟用碼通常只能精確掃描一次，所以保持乾淨、只用一次
+3. 問電信 KYC 是否已通過，因為本地線路在驗證通過前不會下載
+
+**B. 已安裝，但沒有訊號格**
+
+1. 重新檢查鎖機狀態
+2. 設定 → 行動服務 → 網路選擇 → 手動選擇 Jio 或 Airtel 而非自動
+3. 重設網路設定，然後重新開機
+
+**C. 有訊號格，但沒有網路**
+
+1. 將每個 APN 欄位對照上方表格的數值
+2. 確認作用中的數據線路是印度 eSIM，而非你的本國 SIM
+3. 確認你沒有用完每日流量額度，之後印度預付方案會嚴格限速
+
+**D. 本地門號收不到 OTP 或 UPI 驗證碼**
+
+1. 確認電話驗證已完成，因為未驗證的線路無法收發簡訊
+2. 確保設定為接收簡訊的是印度線路，而非旅遊 eSIM
+3. 記住純數據的旅遊 eSIM 永遠收不到這些驗證碼，這正是有些旅客同時保留本地線路的原因
+
+### 聯絡印度客服前該備妥什麼
+
+| 資訊 | 到哪裡找 |
+|:---|:---|
+| 訂單或帳戶號碼 | 確認信或電信 App |
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+| EID | `*#06#` |
+| 錯誤畫面截圖 | 在畫面變化前先截 |
+| 目前的 APN 設定 | 設定 → 行動數據網路 |
+| 數據漫遊狀態 | 設定 → 行動服務 → 你的 eSIM 線路 |
+| 已嘗試的步驟 | 留一份簡短清單 |
+
+## 常見的印度 eSIM 問題
+
+### 訪客的 Jio eSIM 方案
+
+不能，而這是多數指南跳過的陷阱。Jio 與 Airtel 只在機場櫃檯或門市完成親自護照查驗後，才向新的外國客戶發行 eSIM，因為它們的 App 假定你已持有可驗證的有效印度門號。一落地就連線的唯一方法，是走它們網路而免本地 KYC 的旅遊 eSIM，或者跑一趟櫃檯並等完啟用延遲。
+
+### 逐步啟用印度 eSIM
+
+印度在每條新連線開通前都要驗證，居民透過 Aadhaar eKYC 即時完成。外國護照持有人沒有 Aadhaar，電信因此改跑人工文件審查，這就是白天機場櫃檯的啟用通常需要二到四小時、市區門市可能長達一整天的原因。深夜落地，你可能要等到早上。
+
+### 辦印度 SIM 需要 Aadhaar 卡嗎？
+
+不需要。Aadhaar 只供印度居民使用。外國遊客以護照、有效簽證、照片與飯店地址登記，任何堅持要 Aadhaar 的店家就是搞錯了遊客規定。代價是沒有 Aadhaar 你就失去即時 eKYC 途徑，繼承人工等待。
+
+### 誰宣稱印度最廣的覆蓋？
+
+證據上是 Jio。Ookla 給 Jio 最高的覆蓋得分 65.66，對上 Airtel 的 58.17，而 Jio 的 4G 從一開始就是為了觸及小鎮與公路而建。不過在最偏遠的邊境縣，國營的 BSNL 才是真正的生命線，因為它的任務正是私營網路沒有商業興趣之處的覆蓋。
+
+### Jio 對決 Airtel 的 5G：在印度哪個更好？
+
+都好。Jio 是唯一建了不依賴 4G 的獨立組網 5G 核心的印度大型運營商，這正是它得以在 Ookla 數據中報出最低延遲與最高 5G 速度的原因。Airtel 在其 4G 核心之上以非獨立（non-standalone）模式運行 5G，部署更快，但架構不同。
+
+### 印度 eSIM 出國：什麼能用
+
+部分能用。在拉達克與查謨-克什米爾其餘地區，依電信部安全規定，在區外購買的預付 SIM 跨過邊界即失效，因此你需要 postpaid 線路或在斯利那加或查謨當地購買的查謨-克什米爾遊客 SIM。高山隘口本身，預期任何業者都有漫長的無訊號路段，所以先下載離線地圖。
+
+### 為什麼 UPI 與印度 App 需要本地門號？
+
+因為印度的一切——火車訂票、外送、叫車 App 到 UPI 支付——都靠發送到 +91 門號的一次性密碼運作。純數據的旅遊 eSIM 收不到這些驗證碼，這是有些訪客仍願意為本地線路排護照隊的最大單一原因。如果你打算在當地支付，就讓本地線路專門為簡訊保持存活。
+
+### 該向印度電信購買還是用旅遊 eSIM？
+
+直接購買意味著單一網路、電信開通、護照排隊與啟用等待，但給你接收 OTP 的真實印度門號與全球最便宜的單位 GB 數據。旅遊 eSIM 意味著即時送達、零文件、在 Jio 與 Airtel 間自動切換、固定的預付價格。短旅程，或只需要地圖與訊息：旅遊 eSIM。待一個月，或必須用 UPI 支付：本地線路。
+
+### 哪些裝置在印度會鬧脾氣
+
+兩個要求最重要：手機必須未上鎖且支援 eSIM，理想情況還應涵蓋 Jio 與 Airtel 使用的頻段。用[相容性清單](/compatibility/)一次查完兩項，它涵蓋印度 4G 與 5G 的頻段問題。如果不清楚的是安裝步驟，[eSIM 安裝如何運作](/faq/what-is-esim-activation-and-how-does-it-work/)有解釋。
+
+### 在 Jio、Airtel 與 Vi 上啟用
+
+依序處理上方四個印度專屬模式——鎖機狀態、網路選擇、APN 與數據線路，然後是 profile 重新安裝——如果仍然失敗，[啟用疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)裡更廣的錯誤目錄會接手其餘部分。寫信給客服前，先把 EID、訂單號碼與錯誤截圖備齊。
+
+### 手機裡的 eSIM 晶片究竟在做什麼？
+
+你的手機不是攜帶可抽換的卡片，而是一顆出廠即安裝、可保存多組電信 profile 的晶片。你購買的是一組 profile：運營商送達它，手機把它寫入嵌入式晶片，它就開始像一條普通線路運作。機制——SM-DP+ 伺服器、啟用碼，以及為何 QR code 只能用一次——在 [eSIM 啟用說明](/faq/what-is-esim-activation-and-how-does-it-work/)中解釋。
+
+還有問題？[查看完整 FAQ →](/faq/)
+
+## 本印度 eSIM 指南查證過的來源
+
+- **Ookla Speedtest 連線報告，印度，2024 年 7 月至 12 月** — [分業者報告](https://www.ookla.com/research/reports/india-speedtest-connectivity-report-h2-2024)支撐這裡的每一個業者層級數字：Jio 的 258.54 Mbps 5G 下載中位數與 213.27 的 5G 速度得分、Airtel 的影片與 5G 遊戲領先、Jio 的 73.7% 5G 可用率與 65.66 覆蓋得分、Airtel 的 79.8% 5G 一致性，以及 Jio、Airtel 與 BSNL 的 83.7 / 83.6 / 40.7 一致性得分。
+- **Ookla Speedtest 全球指數** — [印度條目](https://www.speedtest.net/global-index/india)載有每月更新的行動 128.20 Mbps 與固網 63.94 Mbps 全國中位數，構成國家層級的背景。
+- **印度政府電信部（Department of Telecommunications）** — 邦外預付 SIM 在查謨-克什米爾無法使用的安全規定，以及要求外國旅客提供護照與簽證的 KYC 規則，由 DoT 與電信主管機關制定。
+- **Cable.co.uk 全球數據價格** — [完整國家表格](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)載有印度約 0.16 美元每 GB 的平均價格。
+- **運營商頁面** — Jio、Airtel 與 Vi 公布其預付層級；[Jio 預付](https://www.jio.com)與 [Airtel 預付](https://www.airtel.in)是上引參考盧比層級的代表性來源，價格會變動，應在運營商網站確認。下一次審核會移除任何停止公布的內容。
+
+僅使用第三方測量。實際速度隨你的手機、它駐留的頻段，以及附近基地台的擁擠程度而波動。
+
+## 幾分鐘內啟用你的印度 eSIM
+
+起飛前裝好 profile，落地過完入境就讓它鎖定 Jio 或 Airtel，沒有護照櫃檯、沒有 KYC 等待。首次客戶可以用[免費印度試用](/free-esim/)測試，或用折扣碼 **WEB20** 替[印度 eSIM 方案](/india-esim/)省下 20%。
+
+[立即購買你的印度 eSIM](/india-esim/)
+
+*首次購買優惠*
+
+[領取你的印度免費試用](/free-esim/)
+
+出發前：跑一次 [eSIM 相容性檢查](/compatibility/)、領取 Roami 的[免費試用 eSIM](/free-esim/) 在你停留處測試覆蓋，並把 **WEB20** 放在手邊——當你準備好付費時，它替任何 Roami 方案打 8 折。

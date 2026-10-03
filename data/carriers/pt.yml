@@ -124,12 +124,6 @@ denmark:
   btn_text: "Operadoras da Dinamarca"
   btn_url: "/carriers/denmark-esim-carrier-guide/"
 
-dominican:
-  title: "Guia de Operadoras eSIM na República Dominicana"
-  desc_html: "Operadoras na República Dominicana: Claro, Altice, Viva. Tabela comparativa de recursos eSIM."
-  btn_text: "Operadoras da República Dominicana"
-  btn_url: "/carriers/dominican-esim-carrier-guide/"
-
 dominican-republic:
   title: "Guia de Operadoras eSIM na República Dominicana"
   desc_html: "Principais operadoras na República Dominicana: Claro, Altice, Viva. Cobertura eSIM e suporte a hotspot rapidamente."

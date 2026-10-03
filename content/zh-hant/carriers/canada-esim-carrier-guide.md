@@ -1,283 +1,379 @@
 ---
-title: "加拿大 eSIM 2026 懶人包：方案價格、5G 速度一次看。"
-description: "想在加拿大保持順暢連線？Roami 實際評測 Bell、Rogers 和 TELUS 的 5G 網路品質，帶您選出最適合的加拿大 eSIM。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 加拿大，預付數據，5G 網路，Bell，Rogers，TELUS，Roami eSIM，加拿大旅遊上網"
-site_name: "Roami"
-brand_name: "Roami"
+title: "加拿大 eSIM 該選哪家？Bell、Rogers、TELUS 三大業者比較"
+description: "加拿大 eSIM 要辦哪一家電信業者？Roami 比較 Bell、Rogers 與 TELUS 的 5G 網速、偏鄉穩定性與預付卡規則，從多倫多、溫哥華到洛磯山脈自駕路線逐段檢視覆蓋，整理資費與 APN 設定，幫你選出橫跨東西岸都可靠的方案。"
+image: "img/esim/carriers/canada-esim-carrier-guide.jpg"
+date: "2026-09-27T19:35:36+00:00"
+keywords: Canada eSIM carriers, Bell eSIM, Rogers eSIM, TELUS eSIM, SaskTel eSIM, Lucky Mobile eSIM, 加拿大 5G 覆蓋率, Canada eSIM APN, eSIM 加拿大預付卡, best eSIM carrier Canada
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "加拿大 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇨🇦] 加拿大 最新旅遊 eSIM 指南"
-hero_subtitle_main: "加拿大 eSIM：體驗極速 5G"
-hero_subtitle_highlight: "Bell、Rogers 與 TELUS 頂級 5G 覆蓋"
-hero_description_line1: "以 加拿大 eSIM 取代傳統漫遊方案，節省通訊開支。相容多種裝置，滿足各類型旅客的上網需求。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "加拿大 eSIM"
-hero_link_url: "/canada-esim/"
-tldr_summary: "【多國網路無縫切換——遊牧數位工作者的新標準】加拿大擁有全球領先的 5G 基礎設施，Bell 以中位下載 171.17 Mbps 奪得最快 5G 網路寶座，Rogers 則以 86.03 分提供最佳影片體驗。Roami eSIM 讓您無需更換實體 SIM 卡，即可在 Bell、Rogers、TELUS 三大營運商之間自動切換，確保無論身處溫哥華、多倫多或班夫國家公園，都能享受穩定高速連線。結論：對於追求生產力與娛樂品質的數位遊牧者，加拿大 eSIM 是實現無縫工作與生活的終極方案。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "加拿大 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：加拿大 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "加拿大 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：加拿大 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 加拿大 eSIM 前須知"
-
-  - href: "#faq"
-    text: "加拿大 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "加拿大 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：加拿大 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Bell"
-    carrier_class: "text-blue-600"
-    reason: "Bell 在 2025 下半年以中位 5G 下載速度 171.17 Mbps 奪冠，上傳達 13.61 Mbps，最適合需要大量上傳檔案、視訊會議的遠距工作者。"
-
-  - travel: "影音娛樂愛好者"
-    carrier: "Rogers"
-    carrier_class: "text-red-600"
-    reason: "Rogers 的影片串流體驗分數高達 86.03，5G 可用性達 86.7%，確保 YouTube、Netflix 流暢播放不卡頓。"
-
-  - travel: "戶外探險家"
-    carrier: "TELUS"
-    carrier_class: "text-green-600"
-    reason: "TELUS 以 85.6% 的一致性得分提供最穩定的連線，在偏遠地區也能維持基本通訊，適合國家公園與山區旅行。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 加拿大 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "bell-esim"
-    title: "Bell eSIM 總覽：最快 5G 網路"
-    best_for: "此方案絕對是最佳選擇，若您追求極致下載速度與低延遲，適合重度數據使用者與遊戲玩家。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)，Bell 在 2025 下半年獲得 Speedtest Connectivity Score 69.99 分，為最佳 5G 網路。\n- **下載速度**：中位 5G 下載速度 171.17 Mbps，上傳 13.61 Mbps，延遲 38 ms。\n- **整體行動網路**：中位下載 107.51 Mbps，上傳 9.78 Mbps，延遲 42 ms。"
-    arcep_note: "經加拿大廣播電視及電信委員會（CRTC）確認，Bell 為主要授權營運商，頻譜資源充足。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時下載，相容多數解鎖手機。"
-    user_scenarios: "- **[班夫國家公園]**：在路易斯湖與夢蓮湖之間移動時，Bell 的 5G 覆蓋讓您即時上傳高畫質照片與直播，中位下載速度仍可維持 100 Mbps 以上。\n- **[多倫多市中心]**：在 CN Tower 周邊擁擠區域，Bell 的低延遲（38 ms）確保視訊會議與雲端協作不中斷。\n- **[溫哥華史丹利公園]**：沿著海堤慢跑時，Bell 的 5G 網路讓您流暢播放 Spotify 與導航，無緩衝困擾。"
-    bg_color: "bg-blue-50"
-
-  - id: "rogers-esim"
-    title: "Rogers eSIM 總覽：最佳影片體驗"
-    best_for: "若您主要使用手機觀看影片、串流媒體或進行直播，Rogers 是最佳選擇。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)，Rogers 的 5G 可用性達 86.7%，為全加拿大最高。\n- **影片體驗**：Video Streaming Score 86.03 分，領先其他營運商。\n- **整體表現**：雖然下載速度未奪冠，但穩定的影片串流品質適合長時間觀看。"
-    arcep_note: "經 CRTC 認證，Rogers 擁有廣泛的 5G 頻段（包括 n78），覆蓋主要城市與高速公路。"
-    connect_note: "eSIM 啟用簡便，支援熱點分享，適合多人共用數據。"
-    user_scenarios: "- **[尼加拉瀑布]**：在觀景台直播瀑布美景時，Rogers 的高影片串流分數確保畫面清晰不延遲。\n- **[蒙特婁舊城區]**：漫步於鵝卵石街道，使用 Google Maps 與 Instagram 無縫加載。\n- **[渥太華國會山莊]**：夏季音樂節期間，Rogers 的高可用性讓您隨時分享動態。"
-    bg_color: "bg-red-50"
-
-  - id: "telus-esim"
-    title: "TELUS eSIM 總覽：最穩定的連線"
-    best_for: "適合經常前往偏遠地區或需要可靠通訊的用戶，例如自駕旅行者與戶外工作者。"
-    core_data: "- **一致性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)，TELUS 以 85.6% 的一致性得分（下載 ≥5 Mbps、上傳 ≥1 Mbps）獲得最佳行動網路一致性。\n- **5G 下載**：中位 5G 下載速度 138.76 Mbps，上傳未單獨公布，但整體表現穩定。\n- **覆蓋**：TELUS 與 Bell 共享部分基礎設施，在鄉村地區覆蓋良好。"
-    arcep_note: "CRTC 資料顯示 TELUS 在西部省份（如卑詩省、亞伯達省）擁有優勢覆蓋。"
-    connect_note: "eSIM 支援即時啟用，相容多數裝置，設定簡單。"
-    user_scenarios: "- **[賈斯珀國家公園]**：在哥倫比亞冰原附近，TELUS 的一致性確保緊急通訊與導航可用。\n- **[黃刀鎮]**：觀賞極光時，穩定的連線讓您即時上傳照片，無需擔心斷線。\n- **[魁北克市]**：在芳堤娜城堡飯店周邊，TELUS 提供可靠的 5G 訊號，適合商務旅客。"
-    bg_color: "bg-green-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 加拿大 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 加拿大 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 加拿大 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 加拿大 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段與裝置相容性"
-    content: "加拿大主要營運商（Bell、Rogers、TELUS）使用以下頻段：5G 主要為 n78（3500 MHz）、n66（AWS）、n71（600 MHz）；4G LTE 則以 Band 2、4、5、7、12、13、17 為主。購買 eSIM 前，請確認您的裝置支援這些頻段，尤其是 n78 以獲得最佳 5G 體驗。多數 2020 年後推出的旗艦手機（如 iPhone 12 以上、Samsung S21 以上）皆相容。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "根據加拿大法規，所有預付 SIM/eSIM 均需進行實名認證（KYC）。啟用 Roami eSIM 時，您需要提供護照或政府核發的身份證明文件掃描，並填寫基本個人資訊。認證過程通常在數分鐘內完成，請確保證件清晰且在有效期內。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "加拿大營運商普遍實施公平使用政策。例如，標榜「無限數據」的方案通常在達到一定用量（如 20-50 GB）後會降速至 128 Kbps - 1 Mbps。Roami 的 eSIM 方案會明確標示 FUP 門檻，請根據您的使用習慣選擇合適方案，避免降速影響體驗。"
-
-  - heading: "4. 網路覆蓋與偏遠地區注意事項"
-    content: "加拿大國土遼闊，北部與山區覆蓋有限。Bell 與 TELUS 共享部分基站，在鄉村地區表現較佳；Rogers 則在城市與主要公路沿線覆蓋優秀。若您計劃前往育空、西北領地或努納武特，建議下載離線地圖，並準備備用通訊方案。"
-
-  - heading: "5. eSIM 啟用與技術支援"
-    content: "Roami eSIM 支援 QR code 掃描啟用，無需實體 SIM 卡。請在出發前安裝，並確保手機已解鎖且連接到 Wi-Fi。若遇到問題，Roami 提供 24/7 線上客服，可透過 App 或網站即時求助。建議保留 eSIM 設定檔截圖以備不時之需。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：加拿大 最佳 eSIM"
-city_guide_desc: "了解哪款加拿大 eSIM 是您目的地的最佳選擇，根據當地網路效能與覆蓋特性推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "溫哥華"
-    carriers: "Bell"
-    reason: "溫哥華擁有加拿大最快的行動下載速度（中位 136.92 Mbps），Bell 的 5G 網路在此表現最佳，適合商務旅客與數位遊牧者。"
-
-  - city: "艾德蒙頓"
-    carriers: "TELUS"
-    reason: "艾德蒙頓的固網下載速度達 298 Mbps，為全國最快；TELUS 在此擁有強大基礎設施，提供穩定的行動網路，適合需要可靠連線的居民與旅客。"
-
-  - city: "多倫多"
-    carriers: "Rogers"
-    reason: "多倫多人口密集，Rogers 的 5G 可用性最高（86.7%），影片串流體驗分數領先，適合觀光客與影音愛好者。"
-
-  - city: "蒙特婁"
-    carriers: "Bell"
-    reason: "蒙特婁為法語區文化中心，Bell 的 5G 下載速度（171.17 Mbps）與低延遲（38 ms）讓您在節慶活動中順暢直播與分享。"
-
-  - city: "卡加利"
-    carriers: "TELUS"
-    reason: "卡加利鄰近洛磯山脈，TELUS 的一致性得分（85.6%）確保在前往班夫國家公園的途中保持穩定連線，適合戶外探險者。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 加拿大 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在多倫多、溫哥華等大城市，Bell 與 Rogers 提供極速 5G，讓您流暢使用地圖導航、社群媒體與串流影片。推薦 Bell 以獲得最快下載速度。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往班夫、賈斯珀國家公園時，TELUS 的穩定連線是首選。85.6% 的一致性得分確保在偏遠地區仍能通訊與導航。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "橫貫加拿大公路（Trans-Canada Highway）沿途，Rogers 的 5G 可用性最高，提供連續導航與音樂串流。建議搭配離線地圖備用。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在溫哥華的基斯蘭奴海灘或多倫多的安大略湖濱，Bell 的低延遲網路讓您輕鬆上傳照片與視訊通話，享受無縫連線。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "加拿大 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "加拿大 eSIM 是否支援撥打本地電話或接收 SMS 簡訊？"
-    a: "Roami 的加拿大 eSIM 主要提供數據服務，不包含傳統語音通話或 SMS 簡訊功能。不過，您可以透過 VoIP 應用程式（如 WhatsApp、Skype、Google Voice）撥打與接收電話，以及使用即時通訊軟體傳送訊息。若需要本地門號，建議另外購買傳統 SIM 卡或使用虛擬號碼服務。"
-
-  - q: "在加拿大，連線是否足夠穩定，以順暢播放 YouTube 或 Netflix 等 HD 影片？"
-    a: "是的，加拿大擁有世界頂尖的行動網路。根據 Ookla 數據，Bell 的 5G 中位下載速度達 171.17 Mbps，Rogers 的影片串流體驗分數為 86.03，均能輕鬆支援 4K 影片串流。即使在 4G LTE 環境下，中位下載速度也超過 100 Mbps，足以順暢播放 HD 影片。不過，偏遠地區可能因覆蓋限制而降速。"
-
-  - q: "Roami eSIM 在加拿大會連接到哪些本地行動電信商？"
-    a: "Roami eSIM 在加拿大會自動連接到三大主要營運商：Bell、Rogers 與 TELUS。根據您的所在地點與訊號強度，裝置會智慧選擇最佳網路，確保您始終享有最穩定的連線。這三間營運商合計覆蓋全國超過 99% 的人口區域。"
-
-  - q: "加拿大 eSIM 是否支援熱點分享（將數據分享給其他裝置）？"
-    a: "是的，Roami 的加拿大 eSIM 支援熱點分享功能。您可以將手機作為行動熱點，與筆電、平板或其他裝置共享數據。請注意，部分方案可能對熱點分享有速度或流量限制，建議購買前確認方案細節。一般來說，每日 1-2 GB 的熱點使用量是常見的公平使用範圍。"
-
-  - q: "加拿大的無限數據方案是否有嚴格公平使用政策（FUP）或頻寬限制？"
-    a: "是的，加拿大營運商普遍實施公平使用政策。例如，標榜「無限數據」的方案通常在達到一定用量（如 20-50 GB）後會降速至 128 Kbps - 1 Mbps。Roami 的 eSIM 方案會明確標示 FUP 門檻與降速後的速率。建議根據您的使用習慣選擇合適方案，若需大量下載或串流，可考慮高容量方案以避免降速。"
-
-# 迷思
-myths_title: "⚠️ 加拿大 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "加拿大所有營運商的 5G 速度都差不多。"
-    truth: "事實並非如此。根據 Ookla 2025 下半年數據，Bell 的 5G 中位下載速度為 171.17 Mbps，遠高於 TELUS 的 138.76 Mbps，差距超過 23%。選擇營運商會顯著影響您的實際體驗。"
-
-  - myth: "在加拿大使用 eSIM 會比實體 SIM 卡慢。"
-    truth: "eSIM 與實體 SIM 卡在技術上使用相同的網路基礎設施，速度與穩定性完全一致。eSIM 的優勢在於無需更換卡片、可遠端啟用，且支援多組設定檔，適合頻繁出國的旅客。"
-
-  - myth: "加拿大偏遠地區完全沒有行動網路覆蓋。"
-    truth: "雖然北部與山區覆蓋較稀疏，但 Bell 與 TELUS 共享基站，在主要公路與國家公園遊客中心周邊通常有 4G/5G 訊號。TELUS 的一致性得分 85.6% 顯示即使在偏遠地區，仍有高機率獲得可用連線。建議出發前查閱營運商覆蓋地圖。"
-
-  - myth: "無限數據方案代表可以無限制使用高速網路。"
-    truth: "所有「無限數據」方案均設有公平使用政策（FUP）。例如，達到 30 GB 後速度可能降至 512 Kbps，僅足夠傳送文字訊息。購買前務必確認 FUP 門檻與降速後的速度，以免影響使用。"
-
-  - myth: "加拿大 5G 網路僅限於大城市。"
-    truth: "雖然 5G 覆蓋以城市為中心，但 Rogers 的 5G 可用性達 86.7%，表示大部分用戶多數時間可連接到 5G 網路。Bell 與 TELUS 也在持續擴展 5G 至郊區與高速公路沿線。2025 年，主要城市間的主要公路已大部分覆蓋 5G。"
-
-# 數據來源
-data_sources_title: "加拿大 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據基於數百萬次真實用戶測試，提供 2025 下半年加拿大行動與固網效能分析，包括下載/上傳速度、延遲、一致性與影片串流分數。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 發布的加拿大行動網路體驗報告，涵蓋 5G 可用性、下載速度體驗、影片體驗等指標，提供獨立第三方驗證。"
-
-  - name: "CRTC（加拿大廣播電視及電信委員會）2025"
-    description: "加拿大電信監管機構 CRTC 定期發布通訊服務報告，包含營運商頻譜持有、覆蓋義務與消費者權益資訊，為官方權威來源。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，數據收集期間為 2025 年下半年。實際體驗可能因裝置、地點、時間與網路負載而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查閱最新覆蓋地圖，並備妥備用方案。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的加拿大 eSIM"
-cta_desc: "即時存取高速 5G 網路，無需更換 SIM 卡。選擇 Roami，享受 Bell、Rogers、TELUS 三大營運商的最佳連線。"
-cta_button_text: "立即購買加拿大 eSIM"
-cta_button_link: "/canada-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "加拿大 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 加拿大 eSIM 指南
+  url: ''
+hero_badge: "加拿大 eSIM 電信業者：誠實排名"
+hero_subtitle_main: "紙面上的加拿大電信業者與實地表現"
 ---
+
+
+**你的加拿大 eSIM 應該連上哪家電信業者？** 三大全國性網路並不能互換。根據 Ookla 的 2025 下半年加拿大報告，**Bell** 是最佳且最快的 5G 供應商，5G 中位數下載速度為 **171.17 Mbps**。**Rogers** 擁有最佳影片體驗（**86.03**）與最高的 5G 可用率（**86.7%**）。**TELUS** 則是整體上最穩定的網路（**85.6%**）。哪一家「最好」完全取決於你要去哪裡——最適合加拿大的 eSIM 電信業者是一個路由決策，而不是品牌決策。本加拿大指南由每天銷售與支援 eSIM 的團隊撰寫，因此更看重實際取捨而非宣傳文案。
+
+有一個值得花十秒確認的前提：先透過 [eSIM 相容性測驗](/compatibility/)確認你的手機支援 eSIM，如果對安裝流程不熟悉，也可以瀏覽 [eSIM 安裝如何運作](/faq/what-is-esim-activation-and-how-does-it-work/)。
+
+
+**如果只看一段話：** 留在多倫多、溫哥華或蒙特婁？Bell 是全國最快的 5G 網路。常看串流影片或玩遊戲？Rogers 在影片評分和 5G 可用率上勝出。要開車穿越洛磯山脈、紐芬蘭或安大略北部？在其他訊號消失的地方，TELUS 仍能維持訊號。想以旅客身分直接向加拿大電信業者購買？Lucky Mobile（Bell 的預付卡品牌）是唯一一家販售免信用審查、也無需加拿大地址的旅遊 eSIM 的業者。或者跳過所有手續：[免費流量試用](/free-esim/)讓你免費測試各網路；輸入優惠碼 **WEB20**，[加拿大預付 eSIM 方案](/canada-esim/)即享 8 折優惠。
+
+## 你的 eSIM：候選電信業者
+
+### Bell、Rogers 和 TELUS 並列比較
+
+| | Bell | Rogers | TELUS |
+|:---|:---|:---|:---|
+| 旅客 eSIM | 透過 Lucky Mobile（Bell 的預付卡品牌） | 不直接販售——預付卡業務由 chatr 和 Fido 提供 | 有公開的預付卡資費，但 eSIM 由業者端開通 |
+| 最擅長 | 最快的 5G 與最快的整體網路 | 最佳影片體驗、最高 5G 可用率 | 最穩定的網路 |
+| 預付卡入門價 | Lucky Mobile：每月 19 加幣 500 MB | chatr 預付方案，免信用審查 | Nationwide Talk, Text & Data 35：35 加幣享 1 GB / 30 天 |
+| 旅客購買途徑 | ★★★ — 在 Lucky Mobile App 內開通 0 元 eSIM | ★★ — 需護照加工作/學習許可或永久居民卡，須臨櫃辦理 | ★★ — 選方案時結帳即可立即取得 eSIM，但需信用審查 |
+
+**首先要注意的模式：** 三大全國性業者都沒有為國際旅客提供乾淨俐落、隨到隨買的預付 eSIM。Bell 把旅客導向 Lucky Mobile，Rogers 把預付卡業務推給 chatr，而 TELUS 只要你辦方案就能立刻開通 eSIM——但辦方案意味著信用審查和加拿大身分證件。
+
+### Lucky Mobile、chatr、Public Mobile 與子品牌
+
+選擇加拿大的子品牌，文件問題就消失了：這些預付卡品牌販售免信用審查、也無需加拿大地址的 eSIM。
+
+| 虛擬品牌 | 承載網路 | eSIM 支援 | 最適合 |
+|:---|:---|:---|:---|
+| Lucky Mobile | Bell | 0 元 eSIM，於 App 內開通 | 大多數旅客——預付卡、免信用審查、有旅遊方案 |
+| chatr | Rogers | 預付卡、免信用審查 | Rogers 覆蓋良好城市的短期停留 |
+| Public Mobile | TELUS | 預付卡 eSIM | 想用 TELUS 覆蓋卻不想辦 TELUS 手續的精打細算旅客 |
+| Freedom Mobile | 自有網路加上合作漫遊 | 預付卡 eSIM | 在安大略、亞伯達和 BC 省城市的較長停留 |
+| SaskTel | 自有網路（noSTRINGS Prepaid） | 支援 eSIM 設定與管理 | 會在薩斯喀徹溫省停留較長時間的人 |
+| Videotron | 魁北克自有網路 | 預付卡選項 | 以魁北克為主的行程 |
+
+兩個提醒。第一，像 Lucky Mobile、chatr 和 Public Mobile 這類子品牌會限制數據速度——Lucky Mobile 的方案以最高 150 Mbps 的 4G LTE 速度運行，流量用完後降至**最高 128 Kbps**，且不收取超量費用。第二，從這些品牌購買的預付方案綁定單一網路。在 Lucky Mobile 上你只能用 Bell 的基地台，別無其他——一旦離開城市，這一點就很關鍵。
+
+### 可以直接向 Bell 購買加拿大 eSIM 嗎？
+
+| | 直接向加拿大電信業者購買 | 跑在加拿大網路上的旅遊 eSIM |
+|:---|:---|:---|
+| 你需要什麼 | 護照或證件；部分途徑需要加拿大地址；後付卡需要信用審查 | 一支相容且未鎖的手機 |
+| 設定檔如何到手 | App 內開通、門市設定，或由業者發出的 QR code | 結帳後立即取得 QR code 或 App 安裝 |
+| 典型 10 GB 成本 | TELUS 預付資費第一個 GB 約 35 加幣，部分品牌另收 10–15 加幣的 SIM 費 | 一口價，無 SIM 費 |
+| 網路存取 | 單一業者 | 在 Bell、Rogers 和 TELUS 之間自動切換 |
+| 最適合 | 停留兩週以上，或需要加拿大門號的人 | 一到兩週的行程，以及想一落地就上網的人 |
+
+對一般假期來說，經濟帳差距很大。加拿大預付方案是按為當地居民設定的單價收取每 GB 費用；旅遊 eSIM 則以批發價購買流量，並讓裝置在網路之間移動。直接向業者購買的優勢在於長期與語音——一個真正的加拿大門號、無限國內通話，以及第六個月仍然有效的方案。
+
+💡 多網路 eSIM 設定檔是務實的中間路線：[Roami 的加拿大 eSIM](/canada-esim/) 保留即時交付的便利性，在 Bell、Rogers 和 TELUS 之間自動切換，讓你在多倫多落在 Bell、在洛磯山脈落在 TELUS，而不需要買兩次。
+
+## 支援 eSIM 的手機
+
+三件事決定你的手機能否在加拿大電信業者網路上運作：頻段、鎖機狀態，以及一小份裝置特定怪癖清單。以下全部涵蓋。
+
+### 哪些手機無法使用加拿大 eSIM？
+
+加拿大業者把 5G 建構在特定頻段上——尤其是涵蓋偏鄉的 **n71（600 MHz）**，城市裡還有 n66 和 n78。許多國際手機，包括數款 iPhone 區域版本，出廠時並沒有 n71。這些手機仍然可用：離開人口稠密的城市區域後會退回 LTE，在市區沒問題，在山區就令人懊惱。
+
+你不需要背頻段表。可靠的做法是用你的確切型號——是型號而非行銷名稱——對照[相容性查詢工具](/compatibility/)。如果想先了解底層原理，[手機載入 eSIM 設定檔時發生什麼事](/faq/what-is-esim-activation-and-how-does-it-work/)解釋了整個流程。
+
+### 出發加拿大前解鎖手機
+
+鎖機是 eSIM 安裝失敗最常見的原因——而加拿大在這方面特別慷慨。
+
+根據 CRTC 的無線服務規範（Wireless Code），**加拿大電信服務商售出的手機必須為解鎖狀態**，如果裝置被鎖定在某業者的網路上，該業者必須「應要求免費解鎖裝置，或提供客戶解鎖裝置的方法」。這項要求——規則 F.1.(ii)——於 **2017 年 12 月 1 日**生效。CRTC 在自己的旅遊建議中也直接點名 eSIM 是避免漫遊費用的方法。
+
+**在哪裡查看：** iPhone 上的「設定 → 一般 → 關於本機 → 電信業者鎖（Carrier Lock）」。如果顯示「無 SIM 卡限制（No SIM restrictions）」，就沒問題。如果顯示「SIM 已鎖（SIM locked）」，在解除之前任何第三方 eSIM 都無法安裝。
+
+**怎麼解決：** 聯絡手機被鎖定的電信業者並申請解鎖。已繳清款項的裝置通常在數小時內就會解除，而且不收費。然後才嘗試安裝你的 eSIM。
+
+如果你買的是二手手機，或在 2017 年 12 月之前購買，請假設它可能被鎖，並在出發前確認。完整細節：[CRTC——攜帶裝置旅行](https://crtc.gc.ca/eng/phone/mobile/trav.htm)。
+
+### 我的 iPhone 能用加拿大 eSIM 嗎？
+
+| 裝置 | 症狀 | 怎麼辦 |
+|:---|:---|:---|
+| 中國大陸版 iPhone 機型 | 完全沒有「加入 eSIM」選項——硬體在該市場被停用 | 無法解決；改用實體 SIM 或其他裝置 |
+| 電信合約版 Samsung | 設定中 eSIM 選項呈灰色 | 先請電信業者解鎖，再重新開機 |
+| 缺少 n71 的國際手機 | 市區很快，偏鄉只剩 LTE | 屬預期行為——見下方的省份說明 |
+| 雙 SIM 使用者 | eSIM 已安裝但沒有數據 | 把 eSIM 設為行動數據所用的門號 |
+
+除此之外的問題都屬於裝置特定，而非電信業者特定。在花錢買方案之前，先把你的型號跑一遍 [eSIM 相容性檢查器](/compatibility/)。
+
+## 一步步取得加拿大 eSIM
+
+共有四條路，差異主要在手續而非價格：Bell 網路走 Lucky Mobile，Rogers 走 chatr 或臨櫃辦理，TELUS 直接申辦或選擇同一網路的 Public Mobile，以及薩斯喀徹溫省境內的 SaskTel。每條路一步一步來：
+
+### 在加拿大的購買選項
+
+Bell 自家的消費方案是後付卡：他們要求加拿大地址和信用審查。國際旅客會被導向 **Lucky Mobile**——Bell 的預付卡品牌，而且是真的為此而設計。
+
+**Lucky Mobile eSIM，一步一步：**
+
+1. 下載 Lucky Mobile My Account App 並選擇預付方案——入門資費為**每月 19 加幣 500 MB**，其上有每月 25 加幣 5 GB 和每月 30 加幣 15 GB。
+2. 結帳時選擇 eSIM。它是 **0 元**——實體 SIM 則收取一次性的 10 加幣費用。
+3. 在 App 內開通。如果你是在網站上開通的，點一下手機上的通知，或在 `bmc.prod.ondemandconnectivity.com` 手動輸入開通碼。
+4. 免信用審查、無綁約。沒有流量超量收費——流量用完後速度降至最高 128 Kbps。
+
+Lucky Mobile 明確針對來加拿大的旅客行銷旅遊 eSIM，並列出支援 eSIM 的機型：iPhone XS 及之後、Google Pixel 3 及之後，以及 Samsung Galaxy S21 / Z Fold 3 / Flip 3 / Note20 及之後。購買前先確認你的型號。
+
+### 加拿大當地 SIM 與旅遊方案比較
+
+Rogers 不向旅客直接販售預付 eSIM。預付卡業務歸 **chatr**（免信用審查、無綁約），**Fido** 則覆蓋彈性的中階市場。
+
+至於 Rogers 方案本身，新進門的路徑是臨櫃辦理：攜帶**護照加上工作或學習許可、永久居民卡，或永久居民確認書（Confirmation of Permanent Residence）**，工作人員就會幫你設定。Rogers 自己的支援頁面甚至會回答「為什麼我無法在線上完成 eSIM 開通？」——這說明線上途徑對所有人來說並不可靠。預留一趟門市行程的時間，或者改用跑在 Rogers 網路上的旅遊 eSIM 購買數據。
+
+### 方案與價格：加拿大 eSIM
+
+TELUS 是確實支援 eSIM 的：帶一台支援 eSIM 的裝置、申辦一個方案，就會在**結帳後立即開通**；實體 SIM 則需 5 到 10 個工作天寄送，一次性費用 **15 加幣**。問題在於這是方案路徑，代表需要信用審查。
+
+TELUS 的預付產品線——Nationwide Talk, Text & Data——是無約持有 TELUS 門號最便宜的方式：
+
+| 方案 | 流量 | 通話 | 有效期 | 價格 |
+|:---|:---|:---|:---|:---|
+| Nationwide Talk, Text & Data 35 | 1 GB | 全國無限 | 30 天 | 35 加幣 |
+| Nationwide Talk, Text & Data 90 | 3 GB | 全國無限 | 90 天 | 90 加幣 |
+| Nationwide Talk, Text & Data 150 | 3 GB | 全國無限 | 180 天 | 159 加幣 |
+
+預付卡的開通由業者端處理而非自助，所以請預留臨櫃申辦或由支援端發出開通碼的時間，不要假設結帳時就能拿到即時 QR code。如果你只是以旅客身分想用 TELUS 的覆蓋，**Public Mobile** 跑在同一網路上，預付卡 eSIM 且手續少得多。
+
+### 常見的 eSIM 問題
+
+SaskTel eSIM 可透過該業者的 **noSTRINGS Prepaid** 服務取得，SaskTel 也為此發布了設定與管理指南。如果薩斯喀徹溫省是你的行程中貨真價實的一站而不只是路過，這是正確選擇——省內覆蓋極佳，離開該省就會變稀薄。
+
+### 在加拿大購買 SIM 需要的證件
+
+具備以下項目，在加拿大向電信業者申辦會快很多。
+
+- **IMEI** — 撥打 `*#06#`
+- **EID** — 同樣在 `*#06#` 畫面；這是 eSIM 自身的識別碼
+- **附照片證件** — 臨櫃向電信業者申辦時以護照為標準
+- **加拿大地址** — 部分業者途徑需要，後付方案基本上都需要
+- **能在加拿大使用的卡** — 部分業者結帳會拒絕國外帳單地址
+- **Wi-Fi** — 出發前就安裝設定檔，而不是在機場
+
+## 加拿大 eSIM 速度：Bell 對 Rogers
+
+這一節由兩個問題決定：你實際所在之處每個網路有多快，以及你這趟旅行是什麼型態。下方的 Ookla 數據回答前者；旅行型態表回答後者。
+
+### Bell 對 Rogers：哪家加拿大業者更快？
+
+以下所有數據來自 Ookla 的 Speedtest Intelligence 資料，時間為 **2025 下半年**（蒐集期間 2025 年 7 月至 12 月），且為全國層級測量。
+
+| 指標 | Bell | Rogers | TELUS |
+|:---|:---|:---|:---|
+| 5G 中位數下載 | **171.17 Mbps**（最快） | — | 138.76 Mbps |
+| 全技術中位數下載 | **107.51 Mbps**（最快） | — | 101.95 Mbps |
+| 全技術中位數上傳 | 9.78 Mbps | — | — |
+| 全技術延遲 | 42 ms | — | — |
+| 5G 可用率 | 74.3% | **86.7%**（最高） | 74.9% |
+| 影片串流評分 | 84.71 | **86.03**（最佳） | 85.32 |
+| 穩定性 | 84.5% | 83.3% | **85.6%**（最佳） |
+| Speedtest 連線評分 | **75.18**（最高） | 73.73 | 75.10 |
+
+報告未公布的數字，儲存格保持空白而不做估計。兩件事值得注意：Rogers 在**可用率**（你實際處於 5G 的時間比例）領先但原始速度落後，而 TELUS 的強項是**穩定性**——達到下載 5 Mbps / 上傳 1 Mbps 門檻的樣本比例——這正是高速公路上最要緊的指標。
+
+作為全國整體的背景資料，Ookla 的 [Speedtest Global Index](https://www.speedtest.net/global-index/canada) 顯示 2026 年 8 月加拿大行動下載中位數為 **86.08 Mbps**，全球第 53 名，延遲 25 ms。固網寬頻則強得多，為 **257.88 Mbps**，全球第 20 名。Cable.co.uk 計價加拿大行動數據每 GB 約 **5.37 美元**，在 237 個市場中排第 216 名，而全球平均為 2.59 美元——加拿大是已開發世界中當地數據最貴的市場之一。
+
+### 依旅行型態選最佳 eSIM
+
+| 你的行程 | 最佳業者 | 原因 | 注意事項 |
+|:---|:---|:---|:---|
+| 城市小旅行——多倫多、溫哥華、蒙特婁、卡加利 | Bell 或 Rogers | 兩者在市區都很優秀；Bell 更快，Rogers 更常維持 5G | 多倫多地鐵各家訊號都不好 |
+| 公路旅行、國家公園、洛磯山脈 | TELUS | 穩定性最高，城外死區最少 | Rogers Pass 山口路段仍有 30–40 公里無訊號 |
+| 影片、串流、遊戲 | Rogers | 最佳影片評分與最高 5G 可用率 | 上傳速度落後 Bell |
+| 商務旅行與視訊通話 | Bell | 大城市中最快的上傳與最低延遲 | 請飯店安排較高樓層——5 樓以上訊號較好 |
+| 精打細算旅客 | Lucky Mobile（Bell 網路） | 每月 19 加幣預付卡、免信用審查、無超量費 | 速度上限 150 Mbps，之後 128 Kbps |
+| 薩斯喀徹溫省停留 | SaskTel | 省內最強的網路 | 跨省界後覆蓋下降 |
+| 以魁北克為主的行程 | Videotron 或 Bell | 當地網路實力加上 Bell 的全國版圖 | 加斯佩半島鄉間各家都稀薄 |
+| 跨國行程 | 北美洲方案 | 僅限加拿大的 eSIM 會在美國邊界無預警失效 | 尼加拉瀑布一日遊經常讓人中招 |
+
+### Bell 對 Rogers：覆蓋率比較
+
+加拿大的 5G 覆蓋跟著人口走：在人口普查都會區內很密集，沿次要公路迅速變稀，在北部地方則完全消失。逐條路線來看這代表什麼：
+
+| 省份 | 實際狀況 |
+|:---|:---|
+| 英屬哥倫比亞（BC 省） | 市區覆蓋可靠；次要道路迅速稀疏。Rogers Pass 約有 40 公里無訊號，溫哥華島西岸 Tofino 和 Ucluelet 一帶覆蓋有限。 |
+| 亞伯達 | 有人居住的地方很紮實。Lake Louise 到 Jasper 之間的冰原大道（Icefields Parkway）約 230 公里幾乎沒有覆蓋。開車前先下載離線地圖。 |
+| 安大略 | 多倫多、渥太華及走廊地帶訊號強；Sudbury 以北的安大略北部，城鎮之間有大片空窗。 |
+| 魁北克 | Bell 是整體上最強的網路。加斯佩半島覆蓋有限——環線全程請下載地圖。 |
+| 新斯科舍 | 哈利法克斯沒問題；布雷頓角島的 Cabot Trail 有死區。 |
+| 紐芬蘭 | 城鎮內可靠；較僻靜的海岸路段訊號轉弱，渡輪駛離新斯科舍約 30 分鐘後訊號消失。 |
+| 育空、西北地方、努納福特 | 只有白馬市、黃刀鎮和少數公路城鎮有覆蓋。Dempster 公路全長 700 多公里，基本上什麼都沒有。在那些地方，衛星通訊器才是正確工具，而不是更好的 eSIM。 |
+
+規劃會離開加拿大的路線？從[美國 eSIM](/united-states-esim/) 開始，或比較[墨西哥 eSIM 方案](/mexico-esim/)。如果你的行程會多次跨境，[北美洲 eSIM](/north-america-esim/) 能讓你不用買兩次。
+
+自動網路選擇是這一切可行的關鍵。一個能在 Bell、Rogers 和 TELUS 之間移動的設定檔，能補上任何單一業者方案都補不了的省際空窗。
+
+## 加拿大 eSIM 門號的 APN 設定
+
+APN 設定是多數旅客最後才會碰到的東西，卻是數據失靈時第一個該排除的項目。以下是四家業者的數值、什麼情況才真的需要手動輸入，以及確切的選單路徑。
+
+### Bell、Rogers 和 TELUS eSIM 的 APN 數值
+
+只有當你**直接向加拿大電信業者**購買 SIM 或 eSIM 時才需要這些。如果你是用漫遊的旅遊 eSIM，設定檔自帶 APN，什麼都不該改。
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| Bell | `pda.bell.ca` | 留空 | 留空 |
+| Rogers | `ltemobile.apn` | 留空 | 留空 |
+| TELUS | `sp.telus.com` | 留空 | 留空 |
+| SaskTel | `pda.stm.sk.ca` | 留空 | 留空 |
+
+使用者名稱和密碼保持空白。如果那些業者要求填值，隨設定檔附上的開通說明會寫明。
+
+### 加拿大的手動 APN 數值
+
+自動設定在幾乎所有情況下都能處理加拿大業者的設定檔；以下清單涵蓋例外情況。
+
+- 一支從不自行接收電信業者設定的舊手機
+- 透過手動開通碼而非掃描 QR code 安裝的設定檔
+- 自動設定未執行的業者發行預付 eSIM
+- 旅遊 eSIM 幾乎不會——這正是託管設定檔的意義所在
+
+### 需要手動設定加拿大 APN 的情況
+
+不論你在哪家加拿大網路上，選單路徑都一樣；只有上述數值會變。
+
+- **iPhone：** 設定 → 行動服務（Cellular） → 點選 eSIM 門號 → 行動數據網路 → 輸入 APN
+- **Android：** 設定 → 連接 → 行動網路 → 存取點名稱（APN） → 新增一個 APN
+
+儲存後重新開機。如果數據仍然失靈，在更改任何其他設定之前，先確認被選為數據門號的是 eSIM，而不是你本國的 SIM。
+
+## 加拿大 eSIM 的開通路徑
+
+把這一節走一遍，你就能從乾淨安裝走到可用的數據連線——並涵蓋加拿大網路實際會產生的四種故障模式，按你會遇到它們的順序排列。
+
+### eSIM 的行前檢查
+
+在家裡的 Wi-Fi 下做這五項，而不是在機場入境大廳。
+
+| # | 檢查項目 | 「良好」的樣子 |
+|:---|:---|:---|
+| 1 | 手機未被鎖定 | 「設定 → 一般 → 關於本機 → 電信業者鎖」顯示「無 SIM 卡限制」 |
+| 2 | 手機支援 eSIM | `*#06#` 顯示 EID，或[相容性檢查器](/compatibility/)確認你的型號 |
+| 3 | QR code 和開通碼已保存 | 截圖同時存在手機**與**雲端空間 |
+| 4 | 出發前已安裝設定檔 | 在家透過 Wi-Fi 安裝；設定檔會在你落地時連線 |
+| 5 | 數據門號與漫遊已設定 | 選擇 eSIM 作為行動數據，並開啟數據漫遊 |
+
+第 4 步請在家完成。多倫多皮爾遜機場和溫哥華機場的入境大廳，偏偏在你最需要網路時 Wi-Fi 最壅塞，而你在當地才安裝的設定檔還得跟所有人的裝置搶頻寬。
+
+### 把 eSIM 裝到手機上
+
+我們的[逐步開通指南](/faq/how-to-activate-an-esim/)涵蓋通用流程——設定、行動服務、加入 eSIM、掃描、為門號命名、選擇數據門號、開啟漫遊。在加拿大網路上，差異如下：
+
+- **Lucky Mobile（Bell）：** 在 My Account App 內開通；不需掃描 QR code，如果通知一直沒來，也可以使用手動開通碼
+- **Rogers：** 設定檔由業者端發出——線上自助開通不可靠，請預期臨櫃或電話方式開通
+- **TELUS：** 申辦方案後結帳即時開通 eSIM；預付卡的開通由業者端處理
+- **SaskTel：** eSIM 設定有文件且受支援，通常伴隨預付卡申辦一併完成
+- **旅遊 eSIM：** 透過 QR code 安裝，同一個設定檔會漫遊到 Bell、Rogers 或 TELUS 中訊號最強的一個
+
+### eSIM 疑難排解的四步演練
+
+一般開通錯誤——設定檔無法下載、掃描失敗、eSIM 裝了卻始終沒註冊——請參考我們的 [eSIM 疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)。以下四種故障模式則是加拿大特有的。
+
+**A. eSIM 無法安裝**
+1. 設定 → 一般 → 關於本機 → 電信業者鎖：「無 SIM 卡限制」是唯一可接受的顯示
+2. 確認開通碼仍然有效——用過的 QR code 永遠裝不上
+3. 如果設定檔仍在等待中，向業者確認
+
+**B. 已安裝，但沒有訊號格**
+1. 重新確認鎖機狀態
+2. 設定 → 行動服務 → 網路選擇 → 手動選擇 Bell、Rogers 或 TELUS，取代自動選擇
+3. 清除網路設定，然後重新開機
+
+**C. 有訊號格，但沒有網路**
+1. 回到上方的業者表格再查一次 APN
+2. 把行動數據指向 eSIM 門號，而不是本國 SIM
+3. 確認你沒有用完流量——Lucky Mobile 和類似預付品牌會把速度降到 128 Kbps 而不是直接斷網
+
+**D. 顯示「SOS」或「僅限緊急電話」**
+1. 確認 SIM 管理員顯示 eSIM 為啟用狀態
+2. 停用或刪除其他所有作用中的 SIM 或 eSIM 設定檔
+3. 重新開機並重設網路設定
+4. 最後手段：移除設定檔，用全新的 QR code 重新安裝
+
+### 打電話給 Bell、Rogers 或 TELUS 前：把這些準備在手邊
+
+| 資訊 | 在哪裡找到 |
+|:---|:---|
+| 訂單號或帳號 | 確認信 |
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+| EID | `*#06#` |
+| 錯誤畫面截圖 | 在畫面改變之前先截 |
+| 目前的 APN 設定 | 設定 → 行動數據網路 |
+| 數據漫遊狀態 | 設定 → 行動服務 → 你的 eSIM 門號 |
+| 已嘗試過的步驟 | 留一份簡短清單 |
+
+## 問題與解答
+
+### 旅客的 Bell eSIM 方案
+
+以旅客身分來說，沒有。Bell 的消費方案是後付卡，要求加拿大地址和信用審查。Bell 把預付卡客戶導向 **Lucky Mobile**，在那裡 0 元 eSIM 在 App 內開通，方案自每月 19 加幣起。這就是國際旅客使用 Bell eSIM 的途徑。
+
+### Rogers eSIM 需要加拿大地址嗎？
+
+要辦 Rogers 方案的話，需要——申辦在門市進行，需攜帶護照加上許可、永久居民卡或永久居民確認書，這代表需要加拿大身分證件與加拿大帳務設定。如果你想要 Rogers 網路但不想這些，就買跑在 Rogers 網路上的旅遊 eSIM，或用 chatr 辦預付卡。
+
+### 國際旅客可以買 TELUS eSIM 嗎？
+
+技術上可以——只要申辦方案，TELUS 會在結帳後立即開通 eSIM，並公布 35 加幣起的預付 Nationwide Talk, Text & Data 資費。實際上，方案路徑涉及信用審查，預付卡的開通又由業者端處理，所以大多數旅客用同一網路上的 Public Mobile，或用旅遊 eSIM 會更划算。
+
+### 加拿大哪個網路最好？
+
+證據來說是 TELUS。它創下**加拿大最佳行動網路穩定性 85.6%**——達到下載 5 Mbps / 上傳 1 Mbps 門檻的測試比例——這是最接近偏鄉可靠度衡量的一項指標。Bell 在有訊號的地方更快。沒有任何業者能覆蓋冰原大道或 Dempster 公路，所以無論如何都請下載離線地圖。
+
+### 在加拿大需要多少流量？
+
+Lucky Mobile，**每月 19 加幣 500 MB**，5 GB 每月 25 加幣、15 GB 每月 30 加幣，免信用審查、無超量收費。超過額度後速度會降至最高 128 Kbps，所以請按實際用量選擇資費，而不是買最便宜的，然後第二天就被限速。
+
+### 為加拿大檢查 IMEI 和 EID
+
+必須是無鎖且支援 eSIM 的手機。用 [eSIM 相容性清單](/compatibility/)一次檢查兩項——它涵蓋 EID 支援與頻段問題，包括許多國際手機缺少的 n71 偏鄉 5G 頻段。如果想先了解安裝過程中會發生什麼，請閱讀 [eSIM 開通原理](/faq/what-is-esim-activation-and-how-does-it-work/)。
+
+### eSIM 容易出問題的裝置
+
+聯絡手機被鎖定的電信業者。根據 CRTC 無線服務規範的規則 F.1.(ii)，自 2017 年 12 月 1 日起生效，業者必須**應要求免費**解鎖裝置或提供解鎖方法——而且加拿大業者售出的手機本來就必須是解鎖的。繳清款項後的裝置通常在數小時內解鎖。在「設定 → 一般 → 關於本機 → 電信業者鎖」查看狀態。
+
+### Bell 對 Rogers：在加拿大哪個更好？
+
+直接購買代表單一網路、業者端開通，而且往往需要證件或加拿大地址；換來的是一個真正的加拿大門號和無限國內通話。旅遊 eSIM 代表即時交付、免手續、在 Bell、Rogers 和 TELUS 之間自動切換，以及一口價。短程旅行：旅遊 eSIM。在加拿大停留數月，或需要當地門號？直接向業者申辦。
+
+### 加拿大電信業者有提供旅客專屬的 eSIM 方案嗎？
+
+Lucky Mobile 有——它針對來加拿大的旅客行銷旅遊 eSIM，方案每月 19 加幣起，免信用審查、無長期承諾。Bell、Rogers 和 TELUS 沒有這種意義上的旅客產品；最接近的是假定持有人具備加拿大身分證件的預付資費。
+
+### 加拿大：電信業者陣容
+
+可以——這是在本國門號保持運作的同時保留當地門號的最乾淨方式。讓實體 SIM 負責通話和簡訊驗證，把數據交給 eSIM。在設定中，把行動數據指向 eSIM 門號，本國門號留給語音。兩個提醒：關閉本國 SIM 的數據漫遊，避免背景流量計費；並記住大多數純數據 eSIM 無法收簡訊，所以銀行驗證碼仍然會送到你的本國門號。
+
+### 逐步開通你的 eSIM
+
+按順序處理上述四種加拿大特有的故障模式——鎖機狀態、網路選擇、APN 和數據門號，然後重新安裝設定檔——如果仍然失敗，[開通疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)中更完整的錯誤目錄涵蓋其餘情況。聯絡支援之前，先備妥 EID、訂單號和一張截圖。
+
+### eSIM 晶片如何處理 Bell 或 Rogers 的設定檔
+
+eSIM 是一顆焊在機板上的晶片，用來存放電信業者設定檔，而不是一張塑膠卡——業者推送設定檔，你的手機把它寫進晶片，然後這個門號的行為就跟任何其他門號一樣。[eSIM 開通原理](/faq/what-is-esim-activation-and-how-does-it-work/)解釋了 SM-DP+ 伺服器和單次使用的 QR code。
+
+還有其他問題嗎？[查看完整常見問題 →](/faq/)
+
+## 本 eSIM 指南的參考資料
+
+- **Ookla Speedtest 連線報告——加拿大，2025 下半年** — [各業者報告](https://www.ookla.com/research/reports/canada-speedtest-connectivity-report-h2-2025)收錄了本文使用的所有業者層級數據：Bell 171.17 Mbps 的 5G 下載中位數、Rogers 86.7% 的 5G 可用率和 86.03 的影片評分，以及 TELUS 85.6% 的穩定性。
+- **Ookla Speedtest Global Index** — [加拿大頁面](https://www.speedtest.net/global-index/canada)提供 86.08 Mbps 的全國行動中位數和 257.88 Mbps 的固網數據，每月更新。
+- **Cable.co.uk 全球數據定價** — [完整國家表格](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)確立加拿大每 GB 5.37 美元的平均價格。
+- **DataReportal / GSMA Intelligence** — [加拿大 2025 數位化核心數據](https://datareportal.com/reports/digital-2025-canada)支撐本文的市場規模數字。
+- **CRTC** — [攜帶裝置旅行](https://crtc.gc.ca/eng/phone/mobile/trav.htm)和無線服務規範載有上文引用的裝置解鎖規則。
+- **業者頁面** — 方案價格、交付途徑和證件要求取自 [Lucky Mobile 方案](https://www.luckymobile.ca/plans)、[Rogers 預付卡](https://www.rogers.com/plans/prepaid)、[TELUS 方案與 eSIM 開通](https://www.telus.com/shop/mobility/bring-your-own-device)以及 [SaskTel noSTRINGS Prepaid](https://www.sasktel.com/wps/wcm/connect/content/home/mobility/plans/nostrings-prepaid)。
+- **GSMA Intelligence / Mobile Connectivity Index** — [市場記分卡](https://www.mobileconnectivityindex.com/)就覆蓋、可負擔性和普及度為加拿大評分。
+
+以上全部是第三方測量。你自己的實際速度會隨手機、所處頻段和基地台負載而變動。
+
+## 用一張加拿大 eSIM 暢行 Bell、Rogers 和 TELUS
+
+Roami 只維持一個設定檔，並在你所在之處把它交給訊號最強的全國性網路——市區是 Bell，山口是 TELUS。從[加拿大免費試用 eSIM](/free-esim/) 開始，或在[選擇你的加拿大 eSIM](/canada-esim/) 時使用優惠碼 **WEB20**，付費方案即享 8 折。
+
+[取得加拿大 eSIM 方案](/canada-esim/)
+
+*8 折優惠適用於首筆訂單*
+
+[試用免費加拿大 eSIM](/free-esim/)

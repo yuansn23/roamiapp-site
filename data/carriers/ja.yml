@@ -124,12 +124,6 @@ denmark:
   btn_text: "デンマークのキャリア"
   btn_url: "/carriers/denmark-esim-carrier-guide/"
 
-dominican:
-  title: "ドミニカ eSIM キャリアガイド"
-  desc_html: "ドミニカのキャリア：Claro、Altice、Viva。eSIM機能比較表。"
-  btn_text: "ドミニカのキャリア"
-  btn_url: "/carriers/dominican-esim-carrier-guide/"
-
 dominican-republic:
   title: "ドミニカ共和国 eSIM キャリアガイド"
   desc_html: "ドミニカ共和国の主要キャリア：Claro、Altice、Viva。eSIMカバレッジとテザリング対応がひと目でわかる。"

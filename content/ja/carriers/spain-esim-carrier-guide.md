@@ -1,310 +1,382 @@
 ---
-title: "スペインeSIMでデータ通信するときの速度はどう？"
-description: "RoamiのスペインeSIMは現地キャリア網の安定品質が最大の魅力。事前購入でQRコード受取り出発前に設定完了。到着後は電源ONするだけの手軽さ。24時間日本語サポート付き。到着前に設定完了で現地ですぐ使えて便利。"
-date: "2026-06-26T11:08:17+00:00"
-keywords: "eSIM スペイン, プリペイドデータ, 5Gネットワーク, Movistar, Orange, DIGI, 旅行用eSIM, スペイン 通信"
-site_name: "Roami"
-brand_name: "Roami"
+title: "スペイン eSIM キャリアガイド：Movistar、Orange、Vodafone"
+description: "Roami がスペインの eSIM について Movistar と Orange を比較。実測速度、パスポート登録規則、APN 設定を紹介します。"
+image: "img/esim/carriers/spain-esim-carrier-guide.jpg"
+date: "2026-09-23T16:48:17+00:00"
+keywords: スペイン eSIM キャリア, Movistar eSIM, Orange eSIM, Vodafone Spain eSIM, Yoigo eSIM, スペイン 5G カバー範囲, スペイン eSIM APN, プリペイド eSIM スペイン, おすすめ eSIM キャリア スペイン, EU ローミング スペイン
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "スペイン eSIMガイド"
-    url: ""
-
-# ヒーローブロックのテキスト
-hero_badge: "🇪🇸 スペイン 旅行用eSIM 最新ガイド"
-hero_subtitle_main: "スペイン のeSIM：今すぐ購入、すぐに接続"
-hero_subtitle_highlight: "MovistarとOrangeによるトップクラスの5Gカバレッジ"
-hero_description_line1: "海外旅行者向けに特別設計されたスペインのeSIMは、デュアルSIMスマホに対応。通常の番号はそのままに、現地の高速ネットワークを利用してよりスマートな接続を実現します。"
-hero_description_line2: "数秒で接続、制限なしでブラウジング。"
-hero_link_text: "eSIM スペイン"
-hero_link_url: "/spain-esim/"
-tldr_summary: "高額なローミング料金に別れを告げ、自由なグローバル通信の時代へ。RoamiのスペインeSIMを利用すれば、現地の最速ネットワーク（Movistarの5G中央値191.62 Mbps、DIGIの固定回線321.62 Mbps）にアクセス可能。QRコードをスキャンするだけで即座にアクティベーションされ、マドリードの美術館巡りからバルセロナのビーチまで、ストレスフリーな高速接続を実現します。"
-
-# サイドバーナビゲーション
-sidebar_more_hint: "スライドして続きを見る"
-sidebar_title: "スペイン のeSIMクイックリンク"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "クイックセレクション：スペイン でどのeSIM事業者を選ぶ？"
-
-  - href: "#operators"
-    text: "スペイン の主要eSIM事業者まとめ"
-
-  - href: "#city-guide"
-    text: "都市別ガイド：スペイン で最適なeSIM"
-
-  - href: "#before-buy"
-    text: "スペイン でeSIMを購入前に知っておくべきこと"
-
-  - href: "#faq"
-    text: "スペイン のeSIMに関するよくある質問"
-
-  - href: "#myths"
-    text: "スペイン のeSIMに関する神話と現実"
-
-  - href: "#data-sources"
-    text: "データソース"
-
-
-# クイック判断テーブル
-quick_picks_title: "クイックセレクション：スペイン でどのeSIM事業者を選ぶ？"
-quick_picks_table_headers:
-
-  - "あなたの旅行スタイル"
-
-  - "推奨事業者"
-
-  - "データに基づくネットワークパフォーマンス"
-
-quick_picks_note_prefix: "データソース："
-quick_picks_note_carrier: "[Ookla Speedtest レポート](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "デジタルノマド"
-    carrier: "Movistar"
-    carrier_class: "text-blue-600"
-    reason: "[Ookla Speedtest レポート](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025) によると、Movistarは全技術統合で中央値ダウンロード速度102.94 Mbps、5Gで191.62 Mbpsを記録し、最速のモバイルネットワークを提供。安定した接続性と低遅延（50 ms）でリモートワークに最適。"
-
-  - travel: "都市観光客"
-    carrier: "Orange"
-    carrier_class: "text-orange-600"
-    reason: "Orangeは動画ストリーミング体験で最高評価。マドリードやバルセロナなどの都市部で安定した速度（72.72 Mbps）を提供し、観光情報の検索やSNS投稿に十分。"
-
-  - travel: "長期滞在者"
-    carrier: "DIGI"
-    carrier_class: "text-green-600"
-    reason: "DIGIは固定回線で最速（321.62 Mbps）だが、モバイルでも競争力あり。長期滞在で自宅やホテルでの大容量データ利用に最適。"
-
-
-# メインボタンテキスト
-cta_button_main_text: "スペイン の最適な旅行用eSIMプランを見る"
-cta_button_sub_text: "自動ネットワーク切り替えとプリペイドデータ価格比較"
-
-# 事業者共通ラベル
-operator_labels:
-  best_for: "最適なユーザー："
-  core_data: "主要データ："
-  connect_note_label: "eSIM接続ノート："
-
-# 事業者データ
-operators:
-
-  - id: "movistar-esim"
-    title: "Movistar eSIM：最速モバイルネットワークと5G体験"
-    best_for: "このプランは最適な選択肢です。高速データ通信と安定した5G接続を求める旅行者に最適。"
-    core_data: "- **5G利用可能性**：[Ookla Speedtest レポート](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025) によると、中央値5Gダウンロード速度は191.62 Mbps、5Gアップロード速度は17.86 Mbps、5Gレイテンシは47 ms。\n- **ダウンロード速度**：全技術統合で中央値102.94 Mbps、アップロード14.4 Mbps、レイテンシ50 ms。\n- **一貫性**：88.8%のサンプルが5 Mbpsダウンロード/1 Mbpsアップロードの閾値を達成。\n- **5G可用性**：78.7%のユーザーが5Gネットワークに大部分アクセス。"
-    arcep_note: "現地規制当局（CNMC）によって確認済み。Movistarはスペイン最大の通信事業者で、全国的なカバレッジを提供。"
-    connect_note: "アクティベーションプロセスはスムーズです。RoamiのeSIMを購入後、QRコードをスキャンするだけで即座に接続。"
-    user_scenarios: "- **マドリードのプラド美術館**：混雑した館内でもMovistarの5Gネットワークでスムーズに音声ガイドをストリーミング。\n- **バルセロナのサグラダ・ファミリア**：高解像度の写真を即座にアップロード。\n- **セビリアのアルカサル**：庭園でのライブ配信も低遅延で実現。"
-    bg_color: "bg-blue-50"
-
-  - id: "orange-esim"
-    title: "Orange eSIM：最高の動画ストリーミング体験"
-    best_for: "このプランは最適な選択肢です。動画視聴やストリーミングを重視する旅行者に最適。"
-    core_data: "- **動画ストリーミングスコア**：[Ookla Speedtest レポート](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025) によると、OrangeはISPの中で最高の動画ストリーミング体験を記録。\n- **ダウンロード速度**：全技術統合で中央値72.72 Mbps。\n- **5Gダウンロード速度**：中央値138.23 Mbps。"
-    arcep_note: "現地規制当局（CNMC）によって確認済み。Orangeはスペイン第2の事業者で、都市部でのカバレッジが特に強い。"
-    connect_note: "アクティベーションプロセスはスムーズです。RoamiのeSIMを購入後、QRコードをスキャンするだけで即座に接続。"
-    user_scenarios: "- **バルセロナのカンプ・ノウ**：スタジアム内で試合のハイライトを途切れなく視聴。\n- **グラナダのアルハンブラ宮殿**：観光中にYouTubeで歴史解説動画をストリーミング。\n- **マドリードのレティーロ公園**：公園でNetflixを楽しむ。"
-    bg_color: "bg-orange-50"
-
-  - id: "digi-esim"
-    title: "DIGI eSIM：固定回線級の超高速データ"
-    best_for: "このプランは最適な選択肢です。ホテルや自宅で大容量データを必要とする長期滞在者に最適。"
-    core_data: "- **固定回線速度**：[Ookla Speedtest レポート](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025) によると、DIGIは中央値ダウンロード速度321.62 Mbps、アップロード速度321.14 Mbpsで最速のISP。\n- **モバイル速度**：モバイルでも競争力のある速度を提供。"
-    arcep_note: "現地規制当局（CNMC）によって確認済み。DIGIは低価格で高速なサービスを提供する新興事業者。"
-    connect_note: "アクティベーションプロセスはスムーズです。RoamiのeSIMを購入後、QRコードをスキャンするだけで即座に接続。"
-    user_scenarios: "- **バレンシアのアパートメント**：長期滞在でリモートワークや大容量ファイルのアップロードに最適。\n- **マラガのコワーキングスペース**：複数デバイスを接続しても速度低下なし。\n- **サン・セバスティアンのホテル**：4K動画のストリーミングも快適。"
-    bg_color: "bg-green-50"
-
-
-# 3つのカード
-cards_compatibility_title: "スペイン でのeSIM互換性を確認"
-cards_compatibility_desc: "お使いのスマホがeSIMとスペインの現地5Gバンドに対応しているか確認"
-cards_free_title: "スペイン 用無料eSIMを入手"
-cards_free_desc: "期間限定で現地高速5G eSIMを無料トライアル、ローミング不要"
-cards_free_badge: "無料"
-cards_app_title: "RoamiアプリをダウンロードしてeSIMが20%割引"
-cards_app_desc: "プロモーションコード：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | ワンクリックでeSIMを管理"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購入前に
-before_buy_title: "スペイン でeSIMを購入前に知っておくべきこと"
-before_buy_sections:
-
-  - heading: "1. 主要な5G/4Gバンド"
-    content: "スペインの主要事業者（Movistar、Orange、Vodafone）は、5Gでn78（3.5GHz）、n1（2100MHz）、n3（1800MHz）を、4GでB1（2100MHz）、B3（1800MHz）、B7（2600MHz）、B20（800MHz）を使用。対応端末を確認してください。"
-
-  - heading: "2. KYC要件"
-    content: "スペインのeSIM購入時には、有効なパスポートまたは身分証明書の提出が必要。Roamiではオンラインで簡単にアップロード可能。"
-
-  - heading: "3. フェアユースポリシー"
-    content: "各プランにはフェアユースポリシーが適用され、大量のデータ使用（例：1日2GB超）により速度制限がかかる場合があります。詳細はプラン説明を確認。"
-
-  - heading: "4. アクティベーション手順"
-    content: "購入後、メールで送付されるQRコードをスマホの設定からスキャン。iOSは「設定」→「モバイル通信」→「eSIMを追加」、Androidは「設定」→「ネットワークとインターネット」→「SIM」→「eSIMを追加」。"
-
-  - heading: "5. 対応端末"
-    content: "iPhone XS以降、Google Pixel 3以降、Samsung Galaxy S20以降など、eSIM対応のアンロック済み端末が必要。事前に確認を推奨。"
-
-
-# 都市別推奨テーブル
-city_guide_title: "スペイン 都市別ガイド：最適なeSIM"
-city_guide_desc: "スペイン の各目的地で最適なeSIMを見つけよう。各都市のネットワークパフォーマンスと推奨事業者を紹介。"
-city_table_headers:
-
-  - "都市"
-
-  - "推奨eSIM事業者"
-
-  - "理由・特徴"
-
-city_recommendations:
-
-  - city: "マドリード"
-    carriers: "Movistar"
-    reason: "首都であり、Movistarの5Gカバレッジが最も充実。プラド美術館や王宮などの観光地でも高速接続が期待できる。"
-
-  - city: "バルセロナ"
-    carriers: "Orange"
-    reason: "観光客が多く、Orangeの動画ストリーミング性能が活きる。サグラダ・ファミリアやカンプ・ノウでのストリーミングに最適。"
-
-  - city: "バレンシア"
-    carriers: "DIGI"
-    reason: "長期滞在者が多く、DIGIの固定回線級速度が便利。科学博物館やビーチでのデータ利用に最適。"
-
-  - city: "セビリア"
-    carriers: "Movistar"
-    reason: "アルカサルや大聖堂などの観光地で安定した接続が必要。Movistarの一貫性の高いネットワークが信頼できる。"
-
-  - city: "グラナダ"
-    carriers: "Orange"
-    reason: "アルハンブラ宮殿周辺での動画視聴にOrangeのストリーミング性能が活きる。観光情報の検索も快適。"
-
-city_guide_tip: "💡 ヒント：RoamiのマルチネットワークeSIMを使えば、電話が自動的に最適な現地事業者に切り替わるため、手動設定は不要です。"
-
-# 旅行シナリオ別ガイド
-scene_guide_title: "🎯 スペイン での旅行タイプに合わせた最適なeSIMの選び方"
-scene_items:
-
-  - icon: "🏛️"
-    title: "都市探検家"
-    text: "マドリードやバルセロナの美術館、歴史的建造物を巡る際に、Movistarの高速5Gで音声ガイドやARアプリをストレスなく利用。"
-
-  - icon: "🏞️"
-    title: "自然愛好家"
-    text: "ピレネー山脈やシエラネバダ国立公園でのハイキング中も、Orangeの安定した4G/5Gで地図やSNSをチェック。"
-
-  - icon: "🚗"
-    title: "ロードトリッパー"
-    text: "アンダルシア地方の田舎道をドライブする際、Movistarの広範なカバレッジでナビゲーションを途切れなく利用。"
-
-  - icon: "🏖️"
-    title: "ビーチラバー"
-    text: "コスタ・デル・ソルやイビサ島のビーチで、DIGIの高速データを使ってインスタグラムに写真を即座にアップロード。"
-
-scene_guide_footer: "💡 RoamiのマルチネットワークeSIMはあなたのシナリオを自動検出し、最良のネットワークに接続します。手動調整は不要です。"
-
-# FAQ
-faq_title: "スペイン のeSIMに関するよくある質問"
-faq_prefix: "質問"
-faq_suffix: "："
-faq_more_link_text: "さらに質問がありますか？完全なFAQを見る →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "スペインのeSIMには1日あたりのデータ制限（例：1日2GBを超えると速度低下）がありますか？"
-    a: "はい、多くのプランにはフェアユースポリシーがあり、1日あたりのデータ使用量が一定量（例：2GB）を超えると速度が制限される場合があります。Roamiのプラン詳細で確認してください。"
-
-  - q: "Roamiはスペインでの接続問題を解決するために24時間オンラインサポートを提供していますか？"
-    a: "はい、Roamiは24時間オンラインサポートを提供しており、チャットやメールで接続問題を迅速に解決します。"
-
-  - q: "スペインのeSIMは全国で4Gおよび5Gネットワークに対応していますか？"
-    a: "はい、主要事業者（Movistar、Orange、Vodafone）は全国的に4Gおよび5Gネットワークを展開しており、都市部から地方まで広範囲をカバーしています。"
-
-  - q: "スペインのデータプランを複数購入し、順次アクティベートすることはできますか？"
-    a: "はい、複数のプランを購入し、必要なタイミングで順次アクティベートすることが可能です。各プランは個別のQRコードで管理されます。"
-
-  - q: "スペインの主要都市では、ピーク時にインターネット速度が著しく低下しますか？"
-    a: "観光地やイベント時にはネットワークが混雑し、速度が低下する可能性があります。ただし、MovistarやOrangeの5Gネットワークは比較的安定しており、大きな影響は少ないです。"
-
-
-# 神話と現実
-myths_title: "⚠️ スペイン のeSIMに関するよくある神話と現実"
-myth_label: "❌ 神話："
-truth_label: "✅ 現実："
-myths:
-
-  - myth: "スペインのeSIMは高額で、現地SIMより割高"
-    truth: "実際には、RoamiのeSIMは競争力のある価格で提供され、ローミング料金を回避できるため、総コストは現地SIMと同等かそれ以下です。"
-
-  - myth: "eSIMは設定が難しく、技術に詳しくないと使えない"
-    truth: "QRコードをスキャンするだけで簡単に設定完了。iOS・Androidともにガイド付きで、初心者でも数分でアクティベート可能。"
-
-  - myth: "スペインの5Gはまだ一部の都市でしか使えない"
-    truth: "Movistarの5G可用性は78.7%と高く、主要都市だけでなく多くの地域で5Gが利用可能です。"
-
-  - myth: "eSIMは物理SIMよりセキュリティが低い"
-    truth: "eSIMは物理SIMと同等のセキュリティ規格を採用。紛失リスクがなく、リモートで無効化できるため、むしろ安全です。"
-
-  - myth: "スペインのネットワークは観光地で常に遅い"
-    truth: "L’Hospitalet de Llobregatではモバイル中央値154.27 Mbpsを記録。観光地でも高速な接続が期待できます。"
-
-
-# データソース
-data_sources_title: "スペイン のモバイルネットワークデータソース"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest レポート](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025)"
-    description: "2025年上半期のSpeedtest Intelligenceデータに基づく、スペインのモバイルおよび固定ブロードバンドネットワークパフォーマンスレポート。"
-
-  - name: "OpenSignal 2024年次レポート"
-    description: "スペインのモバイルネットワーク体験に関する詳細分析。カバレッジ、速度、一貫性を評価。"
-
-  - name: "CNMC（スペイン市場競争委員会）2024年年次報告"
-    description: "スペインの電気通信市場の規制データと事業者別の加入者数、カバレッジ統計。"
-
-data_sources_footer: "引用されているすべてのネットワークパフォーマンスデータは、第三者の公開レポートに基づいています。実際の体験は環境により異なる場合があります。"
-data_sources_note: "ネットワーク速度とカバレッジは、場所、デバイス、時間、ネットワーク負荷によって異なる場合があります。最新情報は各事業者の公式サイトをご確認ください。"
-
-# 商品CTA
-cta_title: "今すぐ スペイン のeSIMを入手"
-cta_desc: "即時アクセス、ローミング不要。QRコードで数秒アクティベーション。"
-cta_button_text: "今すぐ スペイン eSIMを購入"
-cta_button_link: "/spain-esim/"
-cta_free_trial_note: "新規顧客限定"
-cta_free_trial_text: "スペイン 用eSIM無料トライアル"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: スペイン eSIM ガイド
+  url: ''
+hero_badge: "Movistar、Orange、それとも Vodafone スペイン？ スペインの選択"
+hero_subtitle_main: "独立した速度データが明らかにすること——そして見落とすもの"
 ---
 
-# スペイン のeSIM：今すぐ購入、すぐに接続
 
-> **💡 旅行者向けまとめ：** 高額なローミング料金に別れを告げ、自由なグローバル通信の時代へ。RoamiのスペインeSIMを利用すれば、現地の最速ネットワーク（Movistarの5G中央値191.62 Mbps、DIGIの固定回線321.62 Mbps）にアクセス可能。QRコードをスキャンするだけで即座にアクティベーションされ、マドリードの美術館巡りからバルセロナのビーチまで、ストレスフリーな高速接続を実現します。
+**あなたのスペイン eSIM を担うべきネットワークは？** スペイン（Spain）は欧州で異例です。ネットワーク地図が2024年に組み替えられたからです。Orange と MásMóvil は MásOrange という単一グループに合併し、Vodafone Spain は Zegona に売却され、Yoigo は MásOrange 内の別ブランドとして運びながらも独自の無線ネットワークを維持。結果、訪問者が実際に購入できる物理ネットワークは4つ：Movistar、MásOrange（Orange）、Vodafone、Yoigo です。これらは互換ではありません。Ookla の 1H 2025 スペインレポートでは、 **Movistar** が Speedtest Connectivity Score **77.3** と最高の 5G 普及率 **78.7%** で Best Mobile Network を受賞。**Orange** は最高のゲーム体験 **84.59** を記録、一方 **Vodafone** と **Yoigo** は生速度で後塵を拝するが都市では十分実用。したがってどれが勝つかはブランド忠誠ではなく旅程に従う：道が空くほど選択肢は絞られる。
 
-## スペイン でeSIMを購入前に知っておくべきこと
+**早わかり：** Movistar は大半の訪問者がスペインでまず候補にすべきネットワーク；Orange はそれに対して価格を比べる価値ある代替。仕様を読むよりカバー範囲を試したいなら、Roami の [無料トライアル eSIM](/free-esim/) がスペインでの無リスクの入り口。
 
+キャリアを比較する前に決める2つのこと：端末対応とインストール手順。[端末対応リスト](/compatibility/) が1つ目を、[eSIM インストールの仕組み](/faq/what-is-esim-activation-and-how-does-it-work/) が2つ目を答える——以下はすべてキャリア自体に留まる。
 
-### 1. 主要な5G/4Gバンド {#1-主要な5g4gバンド}
-スペインの主要事業者（Movistar、Orange、Vodafone）は、5Gでn78（3.5GHz）、n1（2100MHz）、n3（1800MHz）を、4GでB1（2100MHz）、B3（1800MHz）、B7（2600MHz）、B20（800MHz）を使用。対応端末を確認してください。
+**30秒バージョン：** マドリードかバルセロナに滞在？ Movistar が最強のオールラウンドネットワークで地方の届達で首位。頻繁にストリーミングやゲーム？ Orange がビデオとゲームスコアで僅差首位。サンティアゴ巡礼路を歩くかピレネーを運転？ Movistar が他が消える場所で電波を保つ。スペイン番号と EU ローミングが欲しい？ 4つのプリペイド eSIM のいずれも可だが、すべて販売時にパスポート登録を強要。あるいは書類を省略： [無料トライアル eSIM](/free-esim/) でネットワークを無料で試せ、コード **WEB20** が [スペインのプリペイド eSIM プラン](/spain-esim/) から20% を割引。
 
-### 2. KYC要件 {#2-kyc要件}
-スペインのeSIM購入時には、有効なパスポートまたは身分証明書の提出が必要。Roamiではオンラインで簡単にアップロード可能。
+## あなたの eSIM の裏側：キャリア陣
 
-### 3. フェアユースポリシー {#3-フェアユースポリシー}
-各プランにはフェアユースポリシーが適用され、大量のデータ使用（例：1日2GB超）により速度制限がかかる場合があります。詳細はプラン説明を確認。
+スペインは4つの物理ネットワークで動き、訪問者は各々でプリペイド eSIM を買える。その下のブランドが重要なのは、あなたの価格、登録の関門、そして実際に乗る塔を決めるから。
 
-### 4. アクティベーション手順 {#4-アクティベーション手順}
-購入後、メールで送付されるQRコードをスマホの設定からスキャン。iOSは「設定」→「モバイル通信」→「eSIMを追加」、Androidは「設定」→「ネットワークとインターネット」→「SIM」→「eSIMを追加」。
+### Movistar vs Orange：スペインでどちらが優秀？
 
-### 5. 対応端末 {#5-対応端末}
-iPhone XS以降、Google Pixel 3以降、Samsung Galaxy S20以降など、eSIM対応のアンロック済み端末が必要。事前に確認を推奨。
+| | Movistar | MásOrange (Orange) | Vodafone | Yoigo |
+|:---|:---|:---|:---|:---|
+| 自社ネットワークを持つ | はい、Telefónica | はい、2024年に MásMóvil と合併 | はい、現在は Zegona 所有 | はい、さらに Movistar 地方ローミング |
+| 旅行者向けプリペイド eSIM | はい、Mi Movistar アプリ経由 | はい、My Orange アプリ経由 | はい、Vodafone プリペイドポータル経由 | はい、Mi Yoigo アプリ経由 |
+| 強み | 総合最高と地方カバー範囲最高 | 最高のゲームと強いビデオ | 確実な都市、良好な英米ローミング | 1GB あたり最安 |
+| 最安のプリペイド入り口 | 40 GB で約 10 EUR | 60 GB ＋ ボーナスで約 10 EUR | 90 GB で約 10 EUR | 7 GB で約 7 EUR、50 GB で 20 EUR |
+| 旅行者としての入手 | パスポート登録、アプリまたは店舗 | パスポート登録、アプリまたは店舗 | パスポート登録、アプリまたは店舗 | パスポート登録、アプリまたは店舗 |
+
+**有用なまとめは最終行にある：** 4キャリアすべてが国際訪問者が買えるプリペイド eSIM を売るが、匿名を維持させるものはない。スペイン法はすべての SIM（物理・eSIM）を検証済み身元に登録することを要し、観光客が使う書類はパスポート。選ぶキャリアは価格とカバー範囲を変え、書類を変えない。
+
+### スペインで知っておくべきネットワーク
+
+棚の安い名前は独立ネットワークではない。彼らは上の4所有者の1つから容量を借りるため、カバー範囲が親を鏡写し。
+
+| ブランド | 基盤ネットワーク | eSIM | 理想の利用者 |
+|:---|:---|:---|:---|
+| Lowi | Vodafone | はい、25 GB で約 12.90 EUR | Vodafone 足迹上の予算都市滞在 |
+| O2 | Movistar | はい、20 GB で約 12 EUR | Movistar 届達を安く望む軽利用者 |
+| Simyo | MásOrange (Orange) | 選択プランのみ、15 GB で約 8 EUR | 最安の Orange カバー範囲 |
+| Pepephone | MásOrange (MásMóvil 側) | はい、20 GB で約 14.95 EUR | 長期滞在、国際カード受付 |
+| Lebara | MásOrange (MásMóvil 側) | はい | 国際通話、他国の家族 |
+| Lycamobile | MásOrange (MásMóvil 側) | プランによる | 安い国際通話分数 |
+| Digi | 自社ネットワーク＋Movistar ローミング | 限定、大半は postpaid | 最安データ、50 GB で約 10 EUR |
+
+二点注意。第一に、予算ブランドはサインアップで厳格になり得る：いくつかはスペイン ID（NIE または DNI）とスペインのカードを求め、パスポートのみの観光客は通過できない。第二に、これらブランドのプリペイドプランは1つの親ネットワークに縛られる。Simyo なら Orange の塔しか使えず他社はなし、それが都市を離れ山の峠を越える瞬間に重要。
+
+### Movistar からスペインの eSIM を買える？
+
+| | スペインのキャリアから直接 | スペインのネットワーク上のトラベル eSIM |
+|:---|:---|:---|
+| 必要なもの | 登録用パスポート；一部ルートはスペイン住所を求める；スペインで動くカード | 対応かつ SIM ロック解除済みのスマホ |
+| プロファイルの届き方 | 身元確認後、メールまたはアプリ内で QR コード | 決済直後に QR コードまたはアプリで即時インストール |
+| 典型的な費用 | 28〜30日で 7〜90 GB につき約 10〜20 EUR | 一律前払い価格、SIM 手数料なし、登録行列なし |
+| ネットワーク接続 | 1キャリア（またはその予算ブランド） | Movistar、Orange、Vodafone、Yoigo 間の自動切替 |
+| おすすめの用途 | 1ヶ月以上の滞在、またはスペインの電話番号が必要な人 | 1〜2週間の旅、および着陸時にオンラインを望む人 |
+
+経済性は重視するもので異なる。スペインのプリペイド eSIM は低い現地料金を課し、EU ローミング込みの本物のスペイン番号を渡し、長期滞在や銀行コード受信に本当に有用。トラベル eSIM は卸価格でデータを買い、パスポート窓口を飛ばし、あなたが1つを選ばずに4ネットワークすべて間を端末が移動。キャリアが勝つのは現地番号と EU ローミング枠；トラベル eSIM が勝つのは即時配信と登録不要。
+
+実用的な中道はマルチネットワーク eSIM プロファイル：[Roami のスペイン eSIM](/spain-esim/) は即時配信の便利さを保ち、Movistar、Orange、Vodafone、Yoigo 間を自動切替し、山では Movistar に、都市では Orange に、2度買うことなく着地。
+
+## あなたのスマホは eSIM を受け付ける？
+
+端末がスペインのキャリアで動くかは3つの点で決まる。対応バンド、ロック状態、そして端末固有の短いクセ。この3点を以下で扱う。
+
+### 古いスマホはスペインの eSIM を受け付ける？
+
+スペインのキャリアは 4G をバンド B1、B3、B7、B8、B20 (800 MHz)、B28a (700 MHz) で、5G を n1、n3、n7、n28a (700 MHz)、n78 (3.5 GHz)、n258 (26 GHz) で構築。欧州・アジア・米州で売られた国際端末の大半はすでにこれらを支援するため、互換性が問題になることはカナダのような場合を除き稀。都市と地方を分ける実際のバンドは、4G で B20 (800 MHz)、5G で n28a (700 MHz)：これらを欠く電話はマドリードやバルセロナでは動くが、地方の谷を満たす低周波の届達を失う。
+
+これらバンド番号を丸暗記する必要はない。最も頼れる手順は正確な型番を [eSIM 対応リスト](/compatibility/) に合わせること。先に技術的背景が良い？ [電話が eSIM プロファイルを読み込む際の動作](/faq/what-is-esim-activation-and-how-does-it-work/) が始める場所。
+
+### あなたの端末はスペインで eSIM をこなせる？
+
+SIM ロックされたスマホはスペイン eSIM インストールが単純に失敗する最も一般的な理由。いくつかの市場と異なり、スペインと EU で売られる大半の電話は到着時ロック解除済み、なぜなら EU 小売慣行はオープン端末が既定だから。訪問者を躓かせる電話は、米国・カナダ・日本・中東のキャリアにロックされた契約端末。
+
+**確認：** iPhone で設定→一般→情報→通信事業者ロック。「SIM ロックなし」の行は誰も端末を握っていないことを意味。もし「SIM ロックあり」とあれば、端末が解放されるまでサードパーティのプロファイルはインストールされない。
+
+**解決：** 端末をロックした事業者にロック解除を依頼。解除された後でのみ eSIM のインストールを試す。中古や並行輸入電話を買ったなら、ロックされている可能性を想定し飛行前に確認を。
+
+### スペインの IMEI と EID チェック
+
+| 端末 | 症状 | 対処法 |
+|:---|:---|:---|
+| 中国本土向け iPhone モデル | 「eSIM を追加」の項目が全くなく、当該市場ではハードウェア無効化 | 修正不可；物理 SIM または別端末 |
+| 海外でロックされたキャリア購入 Samsung | 設定で eSIM がグレーアウト | 元のキャリアに先にロック解除を依頼、その後再起動 |
+| B20 または n28a 非対応端末 | 都市は速いが地方スペインは弱い | 予想される挙動；内陸は Movistar を推奨 |
+| デュアル SIM 利用者 | eSIM はインストール済みだがデータなし | eSIM をモバイルデータに使う回線に設定 |
+
+残る原因はスペインのキャリアではなく端末にある。プランを決める前に [端末対応チェッカー](/compatibility/) で機種を通すこと。
+
+## 各プランの費用
+
+4つのルートがあり、価格より登録で差がある：Movistar 直接、Orange または任意の MásOrange ブランド、Vodafone 直接、そして MásOrange グループ内の Yoigo。各ルートを順に。
+
+| キャリア | 入門プリペイドプラン | データ | 価格 (EUR) | 有効期間 |
+|:---|:---|:---|:---|:---|
+| Movistar | Prepago Básico | 約 40 GB | 約 10 | 28日 |
+| Orange (MásOrange) | Prepago 10 | 60 GB ＋ 20 GB ボーナス | 約 10 | 28日 |
+| Vodafone | Prepago S | 90 GB | 約 10 | 28日 |
+| Yoigo | Prepago 25 | 25 GB | 約 15 | 30日 |
+
+価格は記事より速く動くため、表を入り口ティアのスナップショットとして扱い生見積もりではなく。現在のラインアップは [スペイン eSIM プランページ](/spain-esim/) に。
+
+### 旅行者がスペイン eSIM を買う場所
+
+Movistar はスペイン最大の事業者であり Telefónica 所有のカバー範囲リーダー。訪問者は Mi Movistar アプリまたは Movistar 店舗でプリペイド eSIM を購入。
+
+**Movistar eSIM、ステップバイステップ：**
+
+1. Mi Movistar アプリをダウンロードしプリペイドプランを選択。入り口プリペイドは 40 GB で約 10 EUR、上位ティアは 50 GB で約 20 EUR 近く。
+2. 決済時に eSIM を選択。新規本線 eSIM は無料；物理 SIM から eSIM への交換は、iPhone Quick Transfer を使わない限り1回手数料がかかる場合。
+3. パスポートで身元を確認。スペイン法はプロファイル解放前の登録を要する。
+4. QR コードで eSIM を受け取るかアプリで直接インストールし、到着時にデータローミングをオン。
+
+Movistar は iPhone XS 以降、Google Pixel 3 以降、Samsung Galaxy S20 以降の eSIM 対応を公表。購入前に機種を確認を。
+
+### スペイン：現地 SIM 対トラベル eSIM
+
+Orange は今や MásOrange の消費者向け顔、2024年に Orange Spain が MásMóvil と合併して形成されたグループ。訪問者は My Orange アプリで Orange プリペイド eSIM を買え、そこで Prepago 10 プランは 60 GB ＋ 20 GB ボーナスで約 10 EUR、国内通話無制限と28日有効。そのプランの EU ローミングは最大 26 GB に達。
+
+MásOrange ファミリーには Yoigo、Jazztel、Simyo、Pepephone、Lebra、Lycamobile も含まれ、同じグループがほぼすべての価格帯をカバー。Orange のネットワークを Orange のブランドなしで望むなら Simyo が最安ルート、Pepephone は国際カードを受け入れやすい。いずれもパスポートまたはスペイン ID 登録が必要。
+
+### スペイン eSIM プランの費用
+
+Vodafone Spain は Vodafone Group から Zegona Communications に売却されたが、ネットワークとプリペイド eSIM プロセスは変わらず。訪問者は Vodafone プリペイドポータルまたは店舗で登録。
+
+Vodafone のプリペイドティアはデータが寛大：Prepago S は 90 GB で約 10 EUR、Prepago M は 270 GB で約 15 EUR、いずれも契約なし。パスポート確認後、Vodafone は QR コードと6桁の確認コードをメール送信；電話の設定でコードをスキャンしプロファイルをダウンロードするためコードを入力。Vodafone は iOS 17.4 以降の iPhone Quick Transfer も支援し、QR なしで SIM を eSIM に変換。
+
+### Yoigo は旅行者向けプリペイド eSIM を売る？
+
+Yoigo はプリペイド eSIM を売り、予算旅行者にじっくり見る価値あり。自社の都市ネットワークを運び、地方と山岳地帯向けに Movistar との全国ローミング契約を使うため、Yoigo プリペイド利用者は事実上都市外で Movistar の足迹を継承。
+
+Yoigo プリペイドティアは3大キャリアを下回る：7 GB で約 7 EUR、15 GB で 12 EUR、25 GB で 15 EUR、50 GB で 20 EUR、100 GB で 30 EUR、すべて30日有効。登録はビデオ ID 確認でオンライン可、外国パスポート受付、QR コードは営業時間中通常1時間以内に届く。Yoigo 店舗は限られ、マドリード・バルセロナ・バレンシア・セビリアを中心に約150、大半の訪問者はオンライン登録。
+
+### 旅行者向け Movistar eSIM プラン
+
+- **パスポート** — すべてのスペインキャリアと予算ブランドの登録に必須
+- **IMEI** — `*#06#` にダイヤルし電話が eSIM を受け付けるか確認
+- **EID** — 同じく `*#06#` 画面から、eSIM 自身の識別子
+- **スペインまたはホテルの住所** — 登録時に求められる；ホテルや Airbnb の住所は通常受付
+- **スペインで動くカード** — 一部キャリア決済は外国請求を拒否、予算ブランドはより厳格
+- **Wi-Fi** — 空港ではなく飛行前にプロファイルをインストール
+
+## 現地キャリア：Movistar、Orange、Vodafone スペイン
+
+このセクションは2つの問いに帰着：各ネットワークが行き先でどう性能を出すか、そしてあなたはどんな旅行者か。以下の測定数値はネットワーク品質を、旅程マトリックスは適合をカバー。
+
+### Movistar vs Orange：どのスペインキャリアが速い？
+
+以下の数値はすべて Ookla の **スペイン 1H 2025 Speedtest Connectivity Report**（収集期間：2025年1月〜6月）に基づき、全国レベルのキャリア測定値。全文レポートは https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025。
+
+| 指標 | Movistar | Orange | Vodafone | Yoigo |
+|:---|:---|:---|:---|:---|
+| Speedtest Connectivity Score | **77.3**（最高） | 73.59 | 69.51 | 68.62 |
+| Speed Score | **68.81**（最速） | 62.41 | 53.72 | 53.5 |
+| Consistency Score | **88.8**（最高） | 84.7 | 86 | 83.5 |
+| 5G Availability | **78.7%**（最高） | 72.9% | 68.2% | 67.5% |
+| Video Streaming Score | 74.85 | 73.99 | 74.27 | 72.4 |
+| Game Score | 83.46 | **84.59**（最高） | 82.99 | 82.06 |
+| 5-Star Rating | **3.06**（首位） | 2.97 | 2.76 | 2.69 |
+
+| Ookla 1H 2025 の受賞 | 受賞キャリア | 公表値 |
+|:---|:---|:---|
+| Best Mobile Network（Connectivity Score） | Movistar | 77.3 |
+| Fastest Mobile Network（Speed Score） | Movistar | 68.81 |
+| Best Consistency Score | Movistar | 88.8 |
+| Highest 5G Availability | Movistar | 78.7% |
+| Best Mobile Gaming Experience | Orange | 84.59 |
+| Best Video Streaming Score | Movistar | 74.85 |
+| Top Rated（5-Star） | Movistar | 3.06 |
+
+レポートがキャリアのよりきれいな数値を公表しない場合、上の順位は公表行から直接取られる。注目すべき2点：Movistar はヘッドラインの Connectivity Score、生 Speed Score、5G 普及率、一貫性で首位——まさにロードトリップで重要な混合——であり、Orange の勝利はゲーム体験と強いビデオスコア。Vodafone と Yoigo は速度で後塵を拝するが都市では確実、そして Yoigo は Movistar の地方届達を借りる。
+
+国全体の文脈として、Ookla の Speedtest Global Index はスペインのモバイルダウンロード中央値を2026年8月で約 83.65 Mbps（世界55位、遅延 34 ms）とし、Cable.co.uk はスペインのモバイルデータを1GB あたり約 USD 0.48 と算出、追跡する237市場で最も安い部類。
+
+### 旅のスタイルに合う最良のスペイン eSIM
+
+| 旅程タイプ | おすすめキャリア | 理由 | 注意 |
+|:---|:---|:---|:---|
+| 都市滞在、マドリードまたはバルセロナ | Movistar または Orange | 両方ともダウンタウン優秀；Movistar 最速、Orange 最強ビデオ | 地下鉄駅は路線ごとに差 |
+| サンティアゴ巡礼路 | Movistar | 最良の地方届達、町とメセタの空白を最もカバー | 区間間の地方区間は依然落ちる |
+| ピレネーまたはシエラネバダ | Movistar | 低バンドが谷と峠へ最も遠く届く | 1500 m 以上は 3G か無しか |
+| ゲームや重いビデオ | Orange | Game Score 84.59 最高で強いビデオスコア | アップロード速度は Movistar に劣る |
+| ビーチ・島休暇 | Movistar または Orange | 両方ともリゾート地区よくカバー | 島間フェリーは電波なし |
+| 予算旅行者 | Yoigo | 1GB あたり最安、Movistar 地方ローミング | 都市のみの小さい自社ネットワーク |
+| スペイン番号必要の長期滞在 | 4つのいずれか | 本物のスペイン番号＋EU ローミング込み | パスポート登録必須 |
+
+### Movistar vs Orange：カバー範囲比較
+
+スペインのカバー範囲は人口に従う：地中海沿岸弧と大都市で密、空いた内陸と高山で急速に薄れる。ルートごとの意味：
+
+| 地域 | 現地の実態 |
+|:---|:---|
+| マドリードと中央 | 都市全体で強い都市 5G；ダウンタウンで 4G に落ちることは稀。地下鉄は電波あるが全路線ではない。 |
+| バルセロナとカタルーニャ | 強い都市 5G；旧市街は夏に混雑。海岸線よくカバー。 |
+| バレンシアと東海岸 | ビーチの町を通じ良好、建込み地帯を離れると薄い。7月と8月は非常に混雑。 |
+| セビリアとアンダルシア | 都市カバー範囲は問題なし；落ち込みは地方の B 級道と白い村で。 |
+| 地方内陸、カスティーリャとエストレマドゥーラ | 本土で最弱のカバー範囲、遠い道に空白；Movistar が最も遠く届く。運転前にオフライン地図をダウンロード。 |
+| ピレネーと高いシエラ | 谷の町に電波、約 1500 m 以上で落ちる；峠は 3G か無しか。 |
+| サンティアゴ巡礼路 | 町と村でカバー、ブルゴスとレオン間の地方メセタと海岸 Norte ルートで空白。 |
+| バレアレス諸島 | マヨルカ、イビサ、メノルカのリゾートで強い；Serra de Tramuntana 内陸は不規則。 |
+| カナリア諸島 | テネリフェとグラン・カナリアの観光地でよくカバー；テイデ周辺の火山内陸は薄い。島間フェリーは電波なし。 |
+
+スペインを離れるルートを計画中？ まず [ポルトガルの eSIM](/portugal-esim/) から、[フランス eSIM プラン](/france-esim/) を比較、または [イタリア eSIM カバー範囲](/italy-esim/) を確認。国境を複数回越えるなら、[ヨーロッパ eSIM](/europe-esim/) が2度買う手間を省く。
+
+自動ネットワーク選択がスペイン旅程の重労働を担う。Movistar、Orange、Vodafone、Yoigo 間を移動できるプロファイルが、単一キャリアプランのいずれもカバーできない地域の空白を埋める。
+
+## スペインのキャリア eSIM はどの APN 設定を使う？
+
+APN 設定をフォールバック層と考えよ：めったに触らないが、何も読み込まない時に決定的。以下に4キャリアの値、手動入力が本当に必要な場合、そして正確なメニューパス。
+
+### Movistar、Orange、Vodafone のスペイン eSIM の APN 値
+
+これらが必要になるのは、SIM または eSIM を**スペインのキャリアから直接**購入した場合のみ。トラベル eSIM はスペイン用の独自 APN を供給するため編集不要。
+
+| キャリア | APN | ユーザー名 | パスワード |
+|:---|:---|:---|:---|
+| Movistar | `movistar.es` | `movistar` | `movistar` |
+| Orange (MásOrange) | `orangeworld` | `orange` | `orange` |
+| Vodafone | `airtelnet.es` | 空白 | 空白 |
+| Yoigo | `yoigo` | `yoigo` | `yoigo` |
+
+表が空白と示す場所はユーザー名とパスワードを空に。事業者が値を要する場合、プロファイルの書類またはメールに記載。
+
+### スペインのネットワーク：APN の詳細
+
+- キャリア設定を自動取得しない古い端末
+- QR スキャンではなく手動の有効化コードからインストールしたプロファイル
+- 自動設定が実行されなかったキャリア発行のプリペイド eSIM
+- マネージドプロファイルの存在意義であるトラベル eSIM では、ほぼない
+
+### 手動スペイン APN が必要な場合
+
+- **iPhone:** 設定→モバイル→eSIM 回線をタップ→モバイルデータ通信ネットワーク→APN を入力
+- **Android:** 設定→接続→モバイルネットワーク→アクセスポイント名→新規 APN を追加
+
+保存後、スマホを再起動。それでも何も読み込まないなら、データ回線が自宅 SIM ではなくスペイン eSIM に設定されているか確認。
+
+## スペイン eSIM の有効化と問題解決は？
+
+このセクションを一度読めば全体の道をカバー——クリーンなインストールから実データまで、さらにスペインのネットワークが生む失敗パターンを順番に。
+
+### スペイン eSIM のインストール
+
+| # | 確認 | 正常な状態 |
+|:---|:---|:---|
+| 1 | スマホがキャリアロックされていない | 設定→一般→情報→通信事業者ロックが「SIM ロックなし」 |
+| 2 | スマホが eSIM 対応 | `*#06#` で EID 表示、または [eSIM 対応ツール](/compatibility/) が機種確認 |
+| 3 | QR コードと有効化コードを保存 | スマホとクラウド保存の両方にスクリーンショット |
+| 4 | 出発前にプロファイルをインストール | 自宅 Wi-Fi でインストール；着陸時に接続 |
+| 5 | データ回線とローミングを設定 | eSIM をモバイルデータに選択、データローミング ON |
+
+ステップ4は自宅で。マドリード＝バラハスとバルセロナ＝エル・プラットの到着ロビーは、最も必要な時に混雑した Wi-Fi があり、地上でインストールするプロファイルは他人のと競合。
+
+### ステップバイステップのスペイン eSIM 有効化
+
+Add eSIM からローミング切替までの通常インストールは [eSIM セットアップガイド](/faq/how-to-activate-an-esim/) に文書化。キャリアごとの違い：
+
+- **Movistar:** 無料の本線 eSIM、Mi Movistar アプリまたはパスポート確認後の QR でインストール；物理→eSIM 交換は iPhone Quick Transfer 使用時を除き手数料の可能性
+- **Orange と MásOrange ブランド:** 身元確認後のメール QR；SIM から eSIM への交換に少額の再発行手数料を課すブランドあり
+- **Vodafone:** QR コード＋6桁確認コードをメール；iOS 17.4 以降の iPhone Quick Transfer 対応
+- **Yoigo:** オンラインのビデオ ID 確認、QR は約1時間以内に届く；限定拠点での店頭有効化
+- **トラベル eSIM:** QR コードでインストール。同じプロファイルが4ネットワークの最強にローミング
+
+### Movistar、Orange、Vodafone スペインでの有効化
+
+一般的な有効化エラー、ダウンロードされないプロファイル、失敗するスキャン、インストールされるが登録されない eSIM は [完全な eSIM トラブルシューティングガイド](/faq/esim-activation-errors-troubleshooting-guide/) でカバー。以下の4つのスペイン固有パターンに読み進めながら注意。
+
+**A. 決済時に登録拒否**
+
+1. パスポートが鮮明で期限切れでないか確認
+2. スペイン住所を求められたらホテルや Airbnb 住所を試す
+3. 国際カードを受け入れるキャリアや予算ブランド（Pepephone や O2 など）に切替
+
+**B. インストール済みだが電波なし**
+
+1. ロック状態を再確認
+2. 設定→モバイル→ネットワーク選択で、自動ではなく Movistar、Orange、Vodafone、Yoigo を手動選択
+3. ネットワーク設定リセット、電源再投入、その後再テスト
+
+**C. 電波はあるがインターネットなし**
+
+1. 表から APN を1文字ずつ再入力
+2. データが自宅 SIM ではなくスペイン eSIM 回線に設定されているか確認
+3. データ容量を使い切っていないか確認、予算プリペイドは上限後強く絞る
+
+**D. 都市では動くが山で死ぬ**
+
+1. 地方スペインが本当に不規則なことを受け入れ；ピレネーやメセタ前にオフライン地図をダウンロード
+2. 単一キャリアプランなら手動ネットワーク選択が、自動が見つけなかった場所で1本の電波を回復する場合あり
+3. マルチネットワークのトラベル eSIM は入力なしで4つ中最強に再接続
+
+### サポート連絡前に何を用意？
+
+| 情報 | 確認場所 |
+|:---|:---|
+| 注文またはアカウント番号 | 確認メール |
+| スマホの機種と OS バージョン | 設定→情報 |
+| EID | `*#06#` |
+| エラーのスクリーンショット | 画面が変わる前に撮影 |
+| 現在の APN 設定 | 設定→モバイルデータ通信ネットワーク |
+| データローミングの状態 | 設定→モバイル→お使いの eSIM 回線 |
+| 既に試した手順 | 短いリストを保管 |
+
+## スペイン eSIM キャリアについて訪問者が尋ねること
+
+### 国際訪問者は Movistar からプリペイド eSIM を買える？
+
+はい。Movistar は Mi Movistar アプリまたは店舗でプリペイド eSIM を売り、入り口ティアは 40 GB で約 10 EUR。落とし穴はスペイン登録法：プロファイル解放前にパスポート確認が必須、そして物理→eSIM 交換は iPhone Quick Transfer を使わない限り1回手数料の可能性。
+
+### MásMóvil 合併後も Orange は残る？
+
+はい。Orange Spain は2024年に MásMóvil と合併して MásOrange を形成したが、Orange ブランドはグループの主要な消費者向け顔のまま、Orange プリペイド eSIM は My Orange アプリを通じ Orange 名で販売継続。同じグループは Yoigo、Jazztel、Simyo、Pepephone、Lebra、Lycamobile も運ぶ。
+
+### スペイン eSIM は他地域でも動く？
+
+はい、法的に。EU Roam Like at Home 規則（Regulation EU 2022/612、2032年まで有効）の下、スペインのプリペイド eSIM は公平利用上限内で追加費用なしに EU と EEA 全体で動作。例えば Orange の Prepago 10 は割当のうち最大 26 GB のローミングを許可。イギリスは Brexit 後自動カバー対象外、アンドラとジブラルタルは EU 外のため有料ローミングの可能性。
+
+### パスポートのコピーでスペインでは効く？
+
+スペインのキャリアまたは予算ブランドなら、はい。すべてのスペイン SIM（物理・eSIM）は国内法の下で検証済み身元に紐付く必要があり、観光客が使う書類はパスポート。国際トラベル eSIM は代わりに事業者の母国で登録するため、通常有効化にスペイン ID 不要。その登録免除が訪問者が現地ではなくトラベル eSIM を選ぶ主な理由の1つ。
+
+### どのスペインキャリアを選ぶべき：Movistar vs Orange？
+
+証拠によれば Movistar。同社は Ookla の 1H 2025 スペインレポートで 5G 普及率 78.7% と一貫性 88.8%（5 Mbps 下り・1 Mbps 上り閾値を満たすテストの割合、地方信頼性の最も近い指標）で首位。Yoigo はローミング契約で Movistar の地方ネットワークを借りるため、Yoigo プリペイド利用者は同様の内陸届達を得る。
+
+### スペインの予算ブランドは自社ネットワークを運ぶ？
+
+いいえ、彼らは4所有者から容量を借りるブランド。Lowi は Vodafone 上、O2 は Movistar 上、Simyo・Pepephone・Lebra・Lycamobile は MásOrange グループ上。カバー範囲は親ネットワークに一致するが、登録規則はより厳格になり得、短期滞在者にはないスペイン ID とスペインカードを求めるものも。
+
+### スペインに合うデータ量は？
+
+1GB あたりで言えば Yoigo。そのプリペイドティアは 7 GB で約 7 EUR から 50 GB で 20 EUR まで、そして Movistar の地方ローミングを継承。 big 3 の中では、Vodafone の Prepago S（90 GB で約 10 EUR）が金額あたり最多データ、Orange の Prepago 10（60 GB ＋ ボーナスで約 10 EUR）が最強のオールラウンド観光ティア。
+
+### Movistar vs Orange の 5G：スペインでどちらが優秀？
+
+欧州バンド対応電話なら動く。スペインの 5G は n1、n3、n7、n28a (700 MHz)、n78 (3.5 GHz)、n258 (26 GHz) を使用。都市外で最も重要なバンドは n28a、地方と屋内の空白を埋める低い 700 MHz 帯；これを欠く電話は都市では動くが最深のカバー範囲を失う。飛行前に [対応リスト](/compatibility/) で機種を確認を。
+
+### スペインで苦労する端末
+
+はい、そしてそれは賢明な設定。自宅回線で通話と認証を、スペインデータを eSIM で。スペイン eSIM 回線にデータを割当て、音声は自宅回線のまま。2つの警告が適用：自宅回線のローミングをオフにしてバックグラウンド課金を避け、認証 SMS はデータプロファイルではなく自宅番号に届き続けることを想定。
+
+### スペインのプロファイルが読み込まれると eSIM チップで何が起きるか
+
+かつて Movistar や Orange のカウンターで行った交換は今やダウンロード、なぜならスペインは他と同じ組込 SIM 標準を使うため。キャリアはプロファイルを端末の内蔵チップに押し込み、結果の回線は電話内の通常の SIM 同様に振る舞う。転送自体、なぜ QR コードが1回のスキャンのみ生きるか含め、[eSIM 有効化解説](/faq/what-is-esim-activation-and-how-does-it-work/) で説明。
+
+### スペイン eSIM の有効化が失敗したら
+
+上の4つのスペイン固有パターンを順に処理：ロック状態、ネットワーク選択、APN、データ回線、その後プロファイル再インストール。それでも失敗なら、[eSIM 有効化トラブルシューティングガイド](/faq/esim-activation-errors-troubleshooting-guide/) の広範なエラー一覧が残りをカバー。サポート呼び出し前に EID、注文番号、問題のスクリーンショットを集めて。
+
+さらに質問？ [完全な FAQ を見る](/faq/)
+
+## スペイン eSIM の出典と参考文献
+
+- **Ookla Speedtest Connectivity Report, Spain 1H 2025** — [キャリア別レポート](https://www.ookla.com/research/reports/spain-speedtest-connectivity-report-h1-2025) が、ここでのすべてのキャリアレベル数値の根拠：Movistar の Connectivity Score 77.3、Orange の Game Score 84.59、Vodafone の Consistency 86、Yoigo の 5G 普及率 67.5%。
+- **Ookla Speedtest Global Index** — [スペインの項](https://www.speedtest.net/global-index/spain) が、約 83.65 Mbps のモバイルと 34 ms 遅延の全国中央値を毎月更新。
+- **Cable.co.uk** — [1GB の世界的費用調査](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) が、スペインの約 USD 0.48 / GB 数値の出所。
+- **CNMC (Comisión Nacional de los Mercados y la Competencia)** — [公式通信規制当局](https://www.cnmc.es/) が、Orange-MásMóvil の組合せを含め、スペイン eSIM の能力を形作るスペクトル・免許・合併救済を公表。
+- **DataReportal と GSMA Intelligence** — [Digital 2025: Spain](https://datareportal.com/reports/digital-2025-spain) レポートが、上で引用した市場規模と普及率の数値を供給。四半期に1度、ここでのすべてのソースを再実行し、通用しなくなったものを除去。
+
+第三者の測定のみを引用。実際に見えるものはあなたの端末、捕捉するバンド、地域ネットワーク負荷に依存。
+
+## データプランのサイジング
+
+単一の Roami プロファイルが Movistar、Orange、Vodafone、Yoigo を結び、マドリードから山へ移動する際にパスポート窓口を見かけず切替。まず [無料スペイン トライアル eSIM](/free-esim/) から、または [スペイン eSIM プラン](/spain-esim/) から20% オフにコード **WEB20** を適用。
+
+[あなたのスペイン eSIM を取得](/spain-esim/)
+
+*新規訪問者向け初回価格*
+
+[無料スペイン eSIM トライアルを有効化](/free-esim/)

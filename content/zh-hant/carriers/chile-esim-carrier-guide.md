@@ -1,270 +1,340 @@
 ---
-title: "去智利旅行該用哪種 eSIM？上網方案完整比較指南。"
-description: "Roami 整理了智利各大電信 eSIM 方案，從 5G 速度、涵蓋範圍到方案價格完整分析，幫助您找到最適合智利旅遊的上網方案。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 智利，預付數據，5G 網路，MundoPacifico，Maipú，Valparaiso，Speedtest Connectivity Score"
-site_name: "Roami"
-brand_name: "Roami"
+title: "智利 eSIM 怎麼挑？Entel、Movistar、Claro 完整評比"
+description: "智利 eSIM 該辦哪一家電信業者？Roami 為 Entel、Movistar 與 Claro 排名，從聖地牙哥的城市 5G、阿塔卡馬沙漠地帶到巴塔哥尼亞的覆蓋缺口逐一實測，整理預付資費、申辦規定與 APN 設定，幫你依行程挑出最穩的智利 eSIM。"
+image: "img/esim/carriers/chile-esim-carrier-guide.jpg"
+date: "2026-09-27T16:30:09+00:00"
+keywords: eSIM Chile, Chile eSIM carriers, Chile eSIM operators, Entel eSIM, Movistar eSIM, Claro eSIM, 預付卡數據, 5G 網路, Roami eSIM, 智利旅遊上網
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "智利 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇨🇱] 智利最新旅遊 eSIM 指南"
-hero_subtitle_main: "智利 eSIM：雙卡雙待裝置的理想搭檔"
-hero_subtitle_highlight: "MundoPacifico 頂級固網與 5G 覆蓋"
-hero_description_line1: "智利 eSIM 支援流暢的 HD 影片串流與社群媒體使用，覆蓋機場、購物區與熱門景點，是極具性價比的數據選擇。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "智利 eSIM"
-hero_link_url: "/chile-esim/"
-tldr_summary: "【告別昂貴漫遊費：迎接全球自由通訊時代】前往智利旅遊，無需再忍受高額漫遊費。Roami 提供的智利 eSIM 讓您以當地價格享受高速網路。根據 Ookla Speedtest Intelligence® 數據，MundoPacifico 以 83.87 的 Speedtest Connectivity Score 獲評為智利最佳固網營運商，中位下載速度高達 477.45 Mbps，上傳速度 389.51 Mbps。在首都聖地牙哥的 Maipú 區，中位下載速度更達 368.31 Mbps，而 Valparaiso 則以 352.33 Mbps 領先各區。選擇 Roami eSIM，您即可自動連接這些頂級網路，無論是城市探索、自然景點還是海灘度假，都能享受穩定快速的連線，真正實現全球自由通訊。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "智利 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：智利 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "智利 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：智利 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 智利 eSIM 前須知"
-
-  - href: "#faq"
-    text: "智利 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "智利 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：智利該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "MundoPacifico"
-    carrier_class: "text-orange-600"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025)，MundoPacifico 擁有智利最快的固網中位下載速度 477.45 Mbps，以及最佳連線體驗評分 83.87，適合需要大量上傳下載、視訊會議的遠距工作者。"
-
-  - travel: "城市觀光客"
-    carrier: "MundoPacifico"
-    carrier_class: "text-orange-600"
-    reason: "在智利人口最多的城市 Maipú，MundoPacifico 提供中位下載速度 368.31 Mbps，足以流暢觀看 HD 影片、使用地圖導航與社群媒體。"
-
-  - travel: "自然探險家"
-    carrier: "MundoPacifico"
-    carrier_class: "text-orange-600"
-    reason: "MundoPacifico 在 Valparaiso 地區以 352.33 Mbps 的中位下載速度領先，該地區涵蓋多個國家公園與海岸線，適合在偏遠景點保持連線。"
-
-  - travel: "短期出差"
-    carrier: "MundoPacifico"
-    carrier_class: "text-orange-600"
-    reason: "MundoPacifico 獲評為最佳固網營運商，連線穩定性高，適合需要穩定 VPN 連線、電子郵件與雲端協作的商務旅客。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 智利 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "mundopacifico-esim"
-    title: "MundoPacifico eSIM 總覽：最佳固網與高速體驗"
-    best_for: "此方案絕對是最佳選擇，適合追求極速下載、穩定連線與優質串流體驗的用戶。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025)，MundoPacifico 在智利主要城市提供廣泛的 5G 覆蓋，中位下載速度達 477.45 Mbps。\n- **下載速度**：中位下載速度 477.45 Mbps，上傳速度 389.51 Mbps。\n- **連線體驗評分**：Speedtest Connectivity Score 83.87，包含網頁瀏覽與影片串流表現。\n- **城市表現**：Maipú 中位下載 368.31 Mbps，Valparaiso 中位下載 352.33 Mbps。"
-    arcep_note: "經當地電信主管機關確認，MundoPacifico 符合智利國家電信監管機構的服務品質標準，並在 Speedtest 評比中獲得最佳固網認證。"
-    connect_note: "啟用過程順暢，掃描 QR code 後即可自動連線至 MundoPacifico 網路，無需手動設定 APN。"
-    user_scenarios: "- **[阿塔卡馬沙漠]**：在世界上最乾燥的沙漠中，MundoPacifico 的穩定連線讓您即時分享星空照片與 GPS 定位，無需擔心訊號中斷。\n- **[復活節島摩艾石像]**：偏遠島嶼上，MundoPacifico 提供可靠的數據服務，讓您上傳高解析度影片與家人視訊通話。\n- **[聖地牙哥地鐵與 Cerro San Cristóbal]**：在繁忙的都市交通與登山纜車上，享受不間斷的串流音樂與社群媒體更新。"
-    bg_color: "bg-blue-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 智利 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 智利 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 智利 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 智利 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 智利主要 5G/4G 頻段與裝置相容性"
-    content: "智利營運商（如 MundoPacifico）主要使用 4G 頻段 B2 (1900 MHz)、B4 (1700/2100 MHz AWS)、B7 (2600 MHz)、B12 (700 MHz) 以及 5G 頻段 n78 (3500 MHz)。購買 eSIM 前，請確認您的智慧型手機支援上述頻段，以確保最佳連線品質。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "根據智利國家電信法規，所有預付 SIM 卡（包括 eSIM）均需進行實名認證（KYC）。購買 Roami eSIM 時，您需要提供護照掃描件或當地身份證件，並完成線上驗證程序，否則服務將被限制。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "多數智利 eSIM 方案設有公平使用政策，例如每日或每月高速數據上限（如 1GB/天後降速至 128 kbps）。請仔細閱讀方案條款，避免超量後網速大幅下降影響使用體驗。"
-
-  - heading: "4. 覆蓋範圍與偏遠地區注意事項"
-    content: "MundoPacifico 在主要城市與交通幹線提供優異覆蓋，但在阿塔卡馬沙漠、巴塔哥尼亞高原等偏遠地區，訊號可能較弱。建議下載離線地圖，並準備備用通訊方案。"
-
-  - heading: "5. eSIM 啟用與雙卡設定"
-    content: "Roami eSIM 支援雙卡雙待，您可保留原門號接收簡訊，同時使用智利數據。啟用時請掃描 QR code 並在設定中啟用「數據漫遊」，部分 Android 裝置需手動選擇 APN。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：智利最佳 eSIM"
-city_guide_desc: "了解哪款智利 eSIM 是您目的地的最佳選擇，根據當地網路效能與覆蓋數據推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "聖地牙哥 (Santiago)"
-    carriers: "MundoPacifico"
-    reason: "作為首都與最大城市，MundoPacifico 在此提供極速網路，Maipú 區中位下載達 368.31 Mbps，適合商務與觀光。"
-
-  - city: "瓦爾帕萊索 (Valparaiso)"
-    carriers: "MundoPacifico"
-    reason: "該地區以 352.33 Mbps 的中位下載速度領先全國，彩色山城與海港景點網路穩定，適合即時分享。"
-
-  - city: "康塞普西翁 (Concepción)"
-    carriers: "MundoPacifico"
-    reason: "智利第二大都會區，MundoPacifico 提供可靠的 5G 覆蓋，適合大學城與工業區的頻繁數據使用。"
-
-  - city: "安托法加斯塔 (Antofagasta)"
-    carriers: "MundoPacifico"
-    reason: "北部礦業重鎮，MundoPacifico 網路在沿海與市區表現優異，滿足商務旅客與觀光客需求。"
-
-  - city: "維尼亞德爾馬 (Viña del Mar)"
-    carriers: "MundoPacifico"
-    reason: "著名海灘度假城市，MundoPacifico 提供高速連線，讓您在沙灘上享受串流與社群媒體不中斷。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 智利 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在聖地牙哥、瓦爾帕萊索等城市漫步，使用 MundoPacifico eSIM 即時查詢地圖、預訂餐廳、上傳社群動態，享受 368.31 Mbps 以上的下載速度。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往阿塔卡馬沙漠或百內國家公園，MundoPacifico 在主要觀景點提供穩定訊號，讓您分享絕美風景與 GPS 軌跡。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "沿著 5 號公路自駕，MundoPacifico 在主要城鎮與休息站提供連續覆蓋，確保導航與音樂串流不中斷。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在維尼亞德爾馬、拉塞雷納等海灘，MundoPacifico 的高速網路讓您輕鬆上傳海景影片、進行視訊通話。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "智利 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "系統是否會自動連接到智利最強的本地電信商，無需手動設定？"
-    a: "是的，Roami eSIM 會自動掃描並連接到智利最強的本地網路（根據 Ookla 數據，MundoPacifico 為最佳固網營運商）。您只需在啟用後開啟數據漫遊，系統即會自動選擇最優訊號，無需手動設定。"
-
-  - q: "如何確認 eSIM 在智利的特定目的地是否擁有可靠的覆蓋？"
-    a: "您可參考 Roami 官網的覆蓋地圖，或查閱 Ookla Speedtest Intelligence® 數據。例如，Maipú 與 Valparaiso 的中位下載速度分別為 368.31 Mbps 與 352.33 Mbps，顯示這些城市覆蓋極佳。偏遠地區建議事先下載離線地圖。"
-
-  - q: "如果我的智利 eSIM 啟用 QR code 未收到電子郵件，該怎麼辦？"
-    a: "請先檢查垃圾郵件匣，並確認購買時填寫的電子郵件地址正確。若仍未收到，請聯繫 Roami 客服（支援即時聊天與電子郵件），我們將在 24 小時內重新發送 QR code。"
-
-  - q: "在智利最著名的國家公園與城市中，哪家本地電信商提供最強且最可靠的覆蓋？"
-    a: "根據 Ookla 最新數據，MundoPacifico 在智利主要城市（如 Maipú、Valparaiso）與國家公園周邊城鎮提供最佳覆蓋與速度。其 Speedtest Connectivity Score 為 83.87，中位下載速度 477.45 Mbps，是智利最可靠的固網營運商。"
-
-  - q: "在智利主要城市，晚間尖峰時段網速是否明顯變慢？"
-    a: "根據 Speedtest Intelligence® 數據，MundoPacifico 在尖峰時段仍能維持穩定的連線品質，未出現顯著降速。其連線體驗評分包含網頁瀏覽與影片串流表現，顯示即使在晚間，用戶仍可享受流暢的網路體驗。"
-
-# 迷思
-myths_title: "⚠️ 智利 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "智利所有營運商網路速度都差不多。"
-    truth: "錯誤。根據 Ookla 數據，MundoPacifico 以 477.45 Mbps 的中位下載速度大幅領先其他營運商，並獲得最佳固網評分 83.87，差異顯著。"
-
-  - myth: "偏遠地區如阿塔卡馬沙漠完全沒有網路。"
-    truth: "部分正確。主要城鎮與觀光景點仍有 MundoPacifico 覆蓋，但沙漠深處訊號微弱。建議提前下載離線地圖，並使用 Roami eSIM 在可連線區域取得導航資訊。"
-
-  - myth: "eSIM 啟用後需要手動選擇營運商。"
-    truth: "不正確。Roami eSIM 支援自動網路選擇，會優先連接到最強的本地營運商（如 MundoPacifico），無需手動設定。"
-
-  - myth: "智利 5G 網路只在聖地牙哥市中心可用。"
-    truth: "錯誤。MundoPacifico 的 5G 覆蓋已擴展至 Maipú、Valparaiso、Concepción 等多個主要城市，中位下載速度均超過 350 Mbps。"
-
-  - myth: "使用 eSIM 會耗電更快，因為需要持續搜尋訊號。"
-    truth: "現代 eSIM 與實體 SIM 的功耗幾乎相同。Roami eSIM 會鎖定最強訊號，反而減少手機搜尋網路的次數，有助於節省電量。"
-
-# 數據來源
-data_sources_title: "智利 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025)"
-    description: "基於 Speedtest Intelligence® 數據，MundoPacifico 在 2025 年上半年獲評為智利最佳固網營運商，Speedtest Connectivity Score 83.87，中位下載速度 477.45 Mbps。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 報告指出智利主要營運商在 5G 可用性與下載速度方面的表現，MundoPacifico 在連線體驗指標上持續領先。"
-
-  - name: "智利國家電信監管局 (SUBTEL) 2025"
-    description: "SUBTEL 發布的年度服務品質報告，確認 MundoPacifico 在固網與行動網路的覆蓋率與穩定性符合國家標準。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已標註來源。實際體驗可能因裝置、地點與時間而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查閱最新覆蓋地圖。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的智利 eSIM"
-cta_desc: "即時存取高速網路，無需實體 SIM 卡，掃描 QR code 即可啟用。"
-cta_button_text: "立即購買智利 eSIM"
-cta_button_link: "/chile-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "智利 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 智利 eSIM 指南
+  url: ''
+hero_badge: "深入智利的行動網路"
+hero_subtitle_main: "速度評分、偏鄉覆蓋與旅客規定，一次看完"
 ---
+
+
+選擇智利 eSIM，等於為全長 4,300 公里的地貌反差做規劃——從聖地牙哥的快速網路，到南方公路（Carretera Austral）的訊號死區——本指南會走完這整段路。智利全長 4,300 公里，行動網路地圖也同樣被拉得又長又窄。一個在聖地牙哥表現亮眼的設定檔，到了南方公路可能什麼都連不上；而在百內國家公園（Torres del Paine）撐住一格訊號的業者，往往不是在市中心速度測試中奪冠的那家。最近有兩條購買規則出現變化，兩條都會讓旅客踩坑：智利預付卡不再是插上就能用，而你的手機一旦插入當地 SIM，倒數計時就開始了。凡是智利業者的行銷文案與實況不符之處，我們都會直說——請看註冊登記一節，那裡有真正咬人的細節。
+
+**快速回答：** 老實的總結是：要涵蓋範圍選 Entel，要價格選 Movistar，而在大城市裡兩者差距很小。從沒安裝過設定檔？[開通教學](/faq/how-to-activate-an-esim/)會帶你走一遍，其餘交給下方的方案表格。
+
+**先講結論：** 城市行程？**Entel** 擁有全國最廣的 4G/5G 版圖。巴塔哥尼亞、極北或湖區？離開中央谷地後，**Movistar** 是較穩妥的選擇。只待在聖地牙哥、每一比索都要計較？**Claro** 和 **WOM** 在城內最便宜，出了城卻明顯稀疏。或者完全跳過門市排隊——旅遊 eSIM 以漫遊方式連上 Entel、Movistar 和 Claro，不需要 RUT、不需要 IMEI 文件、也不必跑門市。[試用 eSIM](/free-esim/) 讓你免費測試各網路，優惠碼 **WEB20** 再為[智利 eSIM 方案](/chile-esim/)省下 20%。
+
+## 每 GB 的成本
+
+- [哪一家智利 eSIM 業者適合你的行程？](#best-chile-esim-carrier-for-your-trip-entel-vs-movistar)
+- [Entel vs Movistar vs Claro：旅客實際上能買到什麼](#where-to-purchase-a-chile-esim)
+- [這些方案用比索算是多少錢](#entel-vs-movistar-prices-compared)
+- [智利 eSIM 基礎知識：頻段、身分查驗與流量上限](#chile-esim-data-how-much-do-you-need)
+- [該買智利 SIM，還是用旅遊 eSIM 漫遊？](#should-you-buy-a-chilean-sim-or-roam-on-a-travel-esim)
+- [智利 eSIM 速度：網路的真實表現](#the-chile-esim-carriers-entel-movistar-and-claro)
+- [智利 eSIM 覆蓋率與各區域行動速度](#chile-esim-coverage-entel-vs-movistar)
+- [依行程選智利 eSIM](#best-chile-esim-carrier-for-your-trip)
+- [智利 eSIM 行前準備：文件、IMEI 與付款陷阱](#imei-rules-for-phones-in-chile)
+- [智利 eSIM 的 APN 設定](#apn-settings-for-chile)
+- [智利 eSIM 出狀況時](#when-a-chile-esim-misbehaves-four-local-failure-modes)
+- [常見問題（解答 11 題）](#chile-esim-quick-answers)
+- [智利 eSIM 業者佐證與資料來源](#chile-esim-carrier-evidence-and-source-list)
+
+## 哪一家智利 eSIM 業者適合你的行程：Entel 對 Movistar
+
+| 你的行程 | 首選 | 勝出原因 | 注意事項 |
+|:---|:---|:---|:---|
+| 聖地牙哥城市小旅行 | Entel | 最快的都市 5G，市中心建築內覆蓋最深 | 尖峰時段地鐵月台很壅塞 |
+| 瓦爾帕萊索與比尼亞德爾馬 | Entel | 兩家業者的海岸 4G/5G 都穩，而 Entel 在山坡地處理得更好 | 山坡社區（cerros）在混凝土後方訊號不均 |
+| 聖佩德羅德阿塔卡馬與高原地帶 | Movistar | 在北部城鎮與公路沿線的公開涵蓋範圍最廣 | 4,300 公尺高的間歇泉與鹽沼內部完全沒有訊號 |
+| 百內國家公園與納塔萊斯港 | Movistar | 納塔萊斯港鎮上和公園各入口有強 4G | W 路線任何營地都沒有覆蓋 |
+| 南方公路（Carretera Austral） | Entel 或 Movistar | 城鎮內有訊號，城鎮之間幾乎沒有 | 數百公里的碎石路一格訊號也沒有 |
+| 湖區——普孔、巴拉斯港、奇洛埃 | Entel | 度假小鎮和渡輪碼頭都有覆蓋 | 比亞里卡火山登山路線和森林步道是死區 |
+| 復活節島（拉帕努伊） | Entel | Entel 的 4G 涵蓋安加羅阿（Hanga Roa）和機場路 | 鎮區與海岸路線之外一無所有 |
+| 數位遊牧，單一城市住一個月 | WOM 或 Claro | 全智利最便宜的大容量預付 bolsa | 城市以外的覆蓋明顯稀薄 |
+| 聖地牙哥加上門多薩或巴里洛切 | 多網路美洲方案 | 僅限智利的設定檔會在邊界無預警停止 | Los Libertadores 山口有大段訊號空窗 |
+
+**最划算的選擇：** 一個在四個網路之間自動切換的設定檔，讓地理條件替你做決定，而不是一次無法反悔的購買。
+
+## 到哪裡購買智利 eSIM
+
+智利有四個真正的行動網路——**Entel**、**Movistar**、**Claro** 和 **WOM**——其上還有一個規模小得多的預付卡玩家 Virgin Mobile。在較舊的速度文章中你會看到一個名字，但它不屬於這一組。**Mundo Pacífico（現為 Mundo）** 是固網寬頻 ISP：Ookla 曾稱它為全球最快的固網供應商，其以智利比索計價的光纖方案與 eSIM 這種行動產品毫無關係。如果哪張比較表把 Mundo 和 Entel 並列在智利旅遊 SIM 的清單裡，那張表量錯了技術類別。
+
+### Entel 對 Movistar：在智利哪個更好？
+
+Entel 是多數旅客應該預設選擇的業者。它的 4G/5G 版圖是智利最廣的，握有最大的 5G 頻譜配置之一，而且是在南方公路沿線城鎮持續運作的網路。它同時也是最可能在櫃檯拒絕外國人的業者：Entel 門市以拒絕想用護照登記預付卡的遊客聞名，所以請預留被第一家拒絕後再跑第二家的時間。變通方式是把 bolsa 儲值到在別處買到的晶片上，或直接用一張永遠不需要進門市的 eSIM。
+
+### 智利的偏鄉覆蓋：Entel 對 Movistar
+
+Movistar 是價格與覆蓋的折衷。它公開的預付方案——約 **5,000 智利比索享 40 GB 加 500 分鐘、有效期 30 天**——是市場上被引用最多的旅遊優惠，其偏鄉涵蓋範圍僅次於 Entel。對極北地區、湖區和納塔萊斯港而言，它是旅客事後最懊悔沒選的那一家。注意品牌變動：Movistar 的厄瓜多業務已轉移至 Millicom，但智利業務仍屬 Telefónica。
+
+### 買智利 SIM 時誰會查驗你的身分？
+
+Claro 以用戶數計是拉丁美洲最大的業者，也是三家之中登記時最友善的——它公布了一條**「soy extranjero」**（我是外國人）的護照登記途徑，這一點很重要，因為預付門號現在必須綁定經查驗的身分。它的預付包很激進：約 **5,000 智利比索享 50 GB 加 500 分鐘和社群媒體流量、有效期 30 天**。你要放棄的是偏鄉深度；在大城市之外，Claro 的地圖比 Entel 或 Movistar 稀疏得更快。
+
+### 精打細算的智利數據方案
+
+WOM 靠價格打出品牌，至今仍提供市場上最便宜的大容量 bolsa——約 **8,000 智利比索享 24 GB 加無限分鐘、有效期 30 天**——另有接近 4,990 比索的 7 天無限 bolsa。Virgin Mobile 的起價更低，約自 2,000 比索起。兩者用在聖地牙哥加瓦爾帕萊索的行程完全沒問題，但對任何要從中央谷地向南或向北走的人來說是糟糕的選擇。
+
+### Entel 對 Movistar 價格比較
+
+當地預付價格以智利比索公布，且隨促銷浮動，所以請把表格當作錨點而非報價。換算採用約 **960 智利比索兌 1 美元**。
+
+| 業者 | 流量 | 有效期 | 價格（CLP） | ≈ 美元 |
+|:---|:---|:---|:---|:---|
+| Movistar | 40 GB + 500 分鐘 | 30 天 | CLP 5,000 | ≈ $5 |
+| Entel | 10 GB | 15 天 | CLP 5,000 | ≈ $5 |
+| Entel | 20 GB | 30 天 | CLP 10,000 | ≈ $10 |
+| Claro | 8 GB | 15 天 | CLP 4,000 | ≈ $4 |
+| Claro | 50 GB + 社群流量 | 30 天 | CLP 5,000 | ≈ $5 |
+| WOM | 24 GB + 無限分鐘 | 30 天 | CLP 8,000 | ≈ $8 |
+| Virgin Mobile | 隨包而異 | 7 天 | CLP 2,000 起 | ≈ $2 |
+| 僅入門晶片 | — | — | ≈ CLP 2,000 | ≈ $2 |
+
+每週 bolsa 彈性大，但每 GB 最不划算：Entel 的 7 天包約 3,000 比索 4 GB，對比 30 天 10,000 比索 20 GB。由此得出兩個習慣：買你能說服自己的最長有效期，並在上一包到期前儲值——一旦 bolsa 失效，數據就直接停止，而且通常不會有你能察覺的警告。
+
+## 該買智利 SIM，還是用旅遊 eSIM 漫遊？
+
+| | 直接向 Entel、Movistar、Claro 或 WOM 購買 | 跑在相同網路上的旅遊 eSIM |
+|:---|:---|:---|
+| 你需要什麼 | 護照供身分查驗；部分櫃檯仍要求 RUT | 一支相容且未鎖的手機 |
+| 設定檔如何到手 | 臨櫃登記與開通，或買一張儲好 bolsa 的晶片 | 付款當下取得 QR code |
+| 典型入門成本 | 晶片 2,000 比索，再加 5,000–10,000 比索買 30 天 bolsa | 一口價，無晶片費 |
+| 網路存取 | 單一網路，就是賣你晶片的那家 | 在 Entel、Movistar 和 Claro 之間自動切換 |
+| 30 天的陷阱 | 國外帶來的手機需要 IMEI 註冊才能繼續使用當地網路 | 漫遊設定檔完全不受 IMEI 規則約束 |
+| 電話號碼 | 一個真正的 +56 智利門號 | 純數據，通常無門號 |
+| 最適合 | 停留超過一個月，或需要當地門號的人 | 一到三週的行程，以及一落地就有網路 |
+
+在智利，兩條路的經濟帳很接近，因為當地數據是真的便宜——買得聰明的話，一個月的預付卡可能比一週的旅遊 eSIM 數據還便宜。當地途徑給你的是一個用來訂餐廳、叫外送的 +56 門號，代價則是一整個下午的門市奔波，加上你自己手機上的 IMEI 倒數。兩週假期，託管設定檔在時間上勝出；兩個月長住，當地晶片在價格上勝出。
+
+## 你的 eSIM 流量估算：實際需要多少
+
+智利便宜的當地數據掩蓋了旅遊方案耗盡得多快，因為旅客在這裡做的事都很吃流量：長途自駕時的即時路況導航、一整週遊覽的照片備份，以及在宣稱有 Wi-Fi 卻什麼都沒有的青年旅館和家人視訊。一個實用的粗略預算是：地圖、通訊軟體和輕度瀏覽每天 500 MB；如果分享網路給筆電，每天 1 GB；如果上傳影片或看串流，每天 2 GB。七天的聖地牙哥城市小旅行 5 GB 綽綽有餘。兩週的阿塔卡馬加巴塔哥尼亞路線應從 10 GB 起跳，主要是因為離線地圖要下載一次、更新時還要再下載一次。如果你的行程包含現場直播的登山遠足或遠端工作，買 20 GB 然後別再想這件事。
+
+## 智利 eSIM 流量：你需要多少？
+
+### 誰在智利經營行動網路
+
+智利的 LTE 主要運行在頻段 **2、4、7 和 28**，5G 則集中在 **n78（3500 MHz）**。在美洲或歐洲販售的任何近年的 iPhone、Samsung Galaxy 或 Pixel 都涵蓋這些頻段。為單一亞洲市場打造的手機可能不涵蓋，而 eSIM 無法補上缺失的頻段——只會退回 3G 或直接沒訊號。
+
+### 智利 SIM 需要哪些文件？
+
+智利預付卡自 2024 年起綁定身分，且自 **2026 年 8 月 20 日**起，業者必須查驗預付門號背後的當事人——主管機關表示外國人可使用護照。實務上，在 Claro 和許多攤販點，一本護照就夠；**RUT**（智利稅籍編號）是一些 Entel 和 Movistar 櫃檯會要求的文件，而旅客不可能有。另外，更嚴重的是：國外帶來的手機，從首次插入當地 SIM 起只能在智利網路上使用約 **連續 30 天**，除非透過 Multibanda 行政註冊登記其 **IMEI**。這項檢查不適用於國際漫遊或旅遊 eSIM——這也是漫遊設定檔成為長途旅行低阻力選項的原因之一。
+
+### 10 GB 撐得起智利之行嗎？
+
+智利預付卡不收取超量費用。borsa 用完後，要麼速度驟降，要麼數據直接停止，直到你購買下一個包；而「無限」的週包也只是在某個門檻之後以限速的方式「無限」。確認你選的方案有效期是從開通起算還是從首次連線起算——落地當下就起算的 30 天 bolsa，很難配合一趟落地延誤的三週行程；而可設定延後啟用日期的設定檔就沒這個問題。
+
+### Android 手機支援智利 eSIM 嗎？
+
+智利 eSIM 適用於 2019 年起的多數未鎖手機，包括 iPhone XR 及之後、Google Pixel 3 及之後、Samsung Galaxy S20 及之後。出發前用[裝置相容性檢查器](/compatibility/)核對確切型號——是型號，不是行銷名稱。兩種常見例外：中國大陸版 iPhone 變體（其 eSIM 硬體被停用），以及被鎖定的手機（會拒絕任何第三方設定檔）。
+
+### 智利 eSIM 允許分享網路嗎？
+
+熱點分享一般是被允許的，但上限隨方案而異——從廉價包的單一額外裝置，到託管設定檔的五個裝置。如果你的行程依賴筆電分享網路，先確認方案允許，而不是在一家沒有 Wi-Fi 的旅館才發現被封鎖。另一個實用提醒：在智利，買一個較大的 30 天包通常比儲值兩次便宜，所以請按行程長度而不是第一天用量來決定包的大小。
+
+## 你的 eSIM 能跨境使用嗎？
+
+價格的變動比文章快，因此目前的方案清單在我們的[智利 eSIM 方案頁](/chile-esim/)上。方案價格之所以有意義，在於其背後的市場：當地數據便宜，所以旅遊 eSIM 的溢價買到的是便利而非容量。比起本國業者的漫遊日租，同一個設定檔便宜一個數量級；比起在當地買的 bolsa，它只是小幅加價，換取跳過 RUT 問題、門市排隊和 IMEI 倒數。
+
+## 智利的 eSIM 業者：Entel、Movistar 和 Claro
+
+Ookla 的 Speedtest Global Index 把智利的行動下載速度排在全球第 **58** 名，中位數 **79.51 Mbps**、延遲 24 ms——低於 109.05 Mbps 的全球中位數，這很重要，因為旅遊 eSIM 正是在這套當地基礎設施上運作。當地數據約 **每 GB 0.64 美元**，在 Cable.co.uk 追蹤的 237 個市場中排第 61 名。底層市場已相當成熟：依 DataReportal 的 2025 年數據，智利有 1,860 萬網路使用者（人口的 94.1%）和 3,070 萬個行動連線，為人口的 155%；網路層級的業者報告則由 [Ookla](https://www.ookla.com/research/reports/chile-speedtest-connectivity-report-h1-2025) 另行發布。
+
+把這些數字放在一起看，描述的是一個用起來便宜、但原始速度屬於中段的市場。每 GB 0.64 美元之下，即使 10 GB 的預付 bolsa 按當地價也所費不多，所以熱點分享、長時間開地圖這類重度習慣，並不像單看方案價格那樣懲罰人。**79.51 Mbps** 的全國中位數對串流、視訊通話和雲端備份都夠用。真正的限制是覆蓋形狀而非吞吐量：5G 集中在大城市，你的路線離聖地牙哥越遠，就越依賴 4G LTE 和 Movistar 的偏鄉涵蓋。
+
+本節資料來源：[Ookla Speedtest Global Index](https://www.speedtest.net/global-index/chile)、Cable.co.uk 的[全球數據定價調查](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)以及 [DataReportal 的 Digital 2025 報告](https://datareportal.com/reports/digital-2025-chile)。
+
+## 在五個城市實測智利 eSIM
+
+依網路表現與當地覆蓋條件，哪張旅遊 eSIM 更適合你的目的地：
+
+| 城市 | 最佳業者 | 有效原因 |
+|:---|:---|:---|
+| 聖地牙哥 | Entel | 全國最密的 5G，涵蓋 Las Condes、Providencia 和機場走廊，商務與觀光皆宜 |
+| 瓦爾帕萊索 | Entel | 海岸 4G/5G 在山坡地和港區都撐得住；上傳速度足以應付照片量大的日子 |
+| 康塞普西翁 | Entel | 在智利第二大大學城和 Biobío 走廊沿線的都市覆蓋可靠 |
+| 聖佩德羅德阿塔卡馬 | Movistar | 北部最好的偏鄉涵蓋，鎮上活動保持連線，公路日的退化也可預期 |
+| 納塔萊斯港 | Movistar | 鎮上和百內國家公園入口有強 4G，這已經是所有網路的極限 |
+
+城市之間的移動，正是自動網路選擇展現價值的地方。在任何離開中央谷地的路段之前先下載離線地圖——極北的公路和巴塔哥尼亞路線會連續數小時見不到可用基地台，離線導航能把死區擋在「轉錯方向」之外。請把業者那一欄當作規劃工具而非承諾：覆蓋義務促使四家網路都服務城鎮與幹道，而它們之間的空窗正是多網路設定檔自動交接之處。
+
+## 智利 eSIM 覆蓋：Entel 對 Movistar
+
+把智利的全國速度數字當作天花板而非地板：下表的區域圖像才是你實際會體驗到的。
+
+| 區域 | 覆蓋狀況 | 最佳業者 | 注意事項 |
+|:---|:---|:---|:---|
+| 聖地牙哥首都大區 | 各大網路都有 5G，行政區之間覆蓋穩定 | Entel | 地鐵壅塞與深層地下室 |
+| 瓦爾帕萊索與中部海岸 | 海岸度假區有覆蓋；其後方的小路時好時壞 | Entel | 山坡社區訊號不均 |
+| 北奇科（Norte Chico）——拉塞雷納、科金博 | 城鎮與 Ruta 5 有覆蓋；內陸山谷沒有 | Entel | Elqui Valley 的側路會斷訊 |
+| 北格蘭德（Norte Grande）與高原地帶 | 只有城鎮和公路有訊號；開闊沙漠沒有 | Movistar | Calama、聖佩德羅與邊界之間有大段空窗 |
+| 湖區——Los Lagos、Los Ríos | 度假小鎮運作良好；火山坡面與林道不行 | Entel | 比亞里卡登山路線沒有訊號 |
+| 奇洛埃與伊瓦涅斯將軍艾森大區 | Castro、蒙特港和 Chaitén 良好；南方公路沿線稀疏 | Entel | 往 Cochrane 方向的碎石路段是死區 |
+| 麥哲倫與智利南極大區 | 蓬塔阿雷納斯和納塔萊斯港可用；兩者之間幾乎沒有 | Movistar | 公園內部完全沒有覆蓋 |
+| 復活節島（拉帕努伊） | Entel 4G 涵蓋安加羅阿和機場路 | Entel | 全島其餘地方，包括海岸路線，都沒有訊號 |
+
+行程要延伸到智利以外？本站的鄰國指南：
+
+- [比較阿根廷 eSIM](/argentina-esim/)
+- [秘魯 eSIM 方案](/peru-esim/)
+- [玻利維亞 eSIM](/bolivia-esim/)
+
+在不同區域之間移動？一個地區的最佳業者很少是下一個地區的最佳——這正是多網路 eSIM 被設計來解決的問題。
+
+## 依行程選最佳智利 eSIM 業者
+
+### 智利覆蓋：聖地牙哥與瓦爾帕萊索的長週末
+
+三、四天的博物館、纜車與街頭藝術行程，很少離開地圖上訊號強的部分，所以哪家網路都行，價格說了算。買你能拿到、不必跑門市差事的最便宜 30 天 bolsa；為瓦爾帕萊索的山坡預先下載 Google 地圖，因為訊號會被混凝土擋住；並把遇到的問題預期為壅塞而非斷訊。
+
+### 極北地區：城鎮之間的大段空窗
+
+聖佩德羅德阿塔卡馬有可用的 4G，山谷觀景點入口附近也有訊號。Calama 和鹽沼之間什麼都沒有，所以這裡的紀律是離線：下載路線、下載間歇泉的噴發時刻表，並把任何上傳都當作城鎮裡才做的事。Movistar 是其公開覆蓋地圖與旅客回報最接近的一家。
+
+### 巴塔哥尼亞與南方公路：智利的覆蓋邊疆
+
+納塔萊斯港有訊號，百內國家公園入口有訊號，而 W 路線沒有——不論花多少錢、用哪家業者。如果你的行程是遠足，按四天完全離線來規劃，borsa 買比行程表面看起來更小的一包。南方公路上模式重演：只有城鎮，城鎮之間是大段碎石路空窗。
+
+### 智利湖區與奇洛埃的覆蓋
+
+普孔、巴拉斯港、瓦爾迪維亞和 Castro 都有紮實的覆蓋，渡輪航線在港口附近也有訊號。故障點在海拔和樹冠：比亞里卡登山路線和度假村後方的森林步道很早就失去訊號。這一段路上，一個允許熱點分享的方案，在一台收音機都不管用的租賃車裡能物超所值。
+
+### 復活節島（拉帕努伊）覆蓋
+
+Entel 的 4G 讓安加羅阿和機場路可用，而島上有管制的旅遊基礎設施意味著大部分規劃本來就在鎮上完成。安加羅阿之外，全島是離線狀態：下載地圖、出發前先訂好租車，別打算在摩艾石像旁打視訊電話。
+
+## 智利的手機 IMEI 規則
+
+| 項目 | 為什麼重要 |
+|:---|:---|
+| 護照 | 智利預付門號現在必須查驗的身分證件 |
+| 裝置 IMEI（`*#06#`） | 若計畫用當地 SIM 超過約 30 天，Multibanda 註冊需要它 |
+| EID 或相容性檢查 | 確認手機至少能安裝 eSIM 設定檔 |
+| 能在智利使用的卡 | 部分業者網站在線上儲值時會拒絕國外帳單地址 |
+| 小額現金比索 | 攤販和藥局第一次儲值通常只收現金 |
+| 離線地圖 | 在家下載，而不是在一格訊號的租賃車停車場 |
+
+兩個專屬於當地購買的摩擦點。第一，**外國卡經常失敗**：業者的線上儲值流程預期智利卡或綁定 RUT 的帳戶——可靠的做法是第一次購買在實體店用現金或刷卡，之後改用業者自己的 App。第二，**機場的價格與供貨**：聖地牙哥阿圖羅·梅里諾·貝尼特斯機場（SCL）櫃檯存貨不穩定，可靠的選擇是市區的業者門市——Costanera Center 商場、Providencia 大道或 Paseo Ahumada 商店街。飛往 Calama 或蒙特港之前，先在聖地牙哥把流量儲好，那些地方的儲值選項會變少。
+
+## 你的手機受支援嗎？
+
+開通完全在你的手機設定內完成。從[智利方案頁](/chile-esim/)取得設定檔，再按 iOS 或 Android 的[開通教學](/faq/how-to-activate-an-esim/)操作。在家裡的 Wi-Fi 下安裝，而不是在機場：設定檔一分鐘內下載完成，並處於休眠狀態直到首次連上智利網路；落地後唯一可能需要開啟的開關是數據漫遊。
+
+## 智利的 APN 設定
+
+旅遊設定檔自行管理其存點名稱，所以 Roami eSIM 在智利無需任何手動輸入。只有當你在當地購買業者門號——從 Entel、Movistar 或 Claro 櫃檯——而手機無法自動拉取設定時，APN 才有意義。
+
+**iPhone：** 設定 → 行動服務（Cellular） → 選擇門號 → 行動數據網路。**Android：** 設定 → 網路與網際網路 → SIM 卡 → 存取點名稱（APN）。
+
+智利業者把 APN 印在預付卡說明插頁上，而不是公布一個通用值，所以請從包裝或業者自己的支援頁面逐字照抄。經典故障模式是有訊號格卻沒有數據：幾乎在所有情況下，修正 APN——或刪除並重新安裝設定檔——就能恢復連線。
+
+## 智利 eSIM 出狀況時：四種在地故障模式
+
+一般性錯誤——設定檔無法下載、QR code 掃描失敗、eSIM 裝了卻始終沒註冊——收錄在 [eSIM 錯誤疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)。以下四種模式是智利特有的。
+
+**A. 當地購買的 SIM 連上後，約一個月就斷線。** 這是 Multibanda 規則，不是故障。國外帶來的手機從首次插入當地 SIM 起在智利網路上約有 30 天；未做 IMEI 註冊就會被擋。旅遊 eSIM 或漫遊設定檔永遠不受影響。
+
+**B. 在店裡買的晶片：有訊號格，卻沒有數據。** 門號已註冊但 bolsa 從未載入，或業者的促銷流量窗口已悄悄到期。在業者的 App 查餘額、買一包 bolsa，然後重新開機。
+
+**C. 城外只有 3G 或 4G。** 這是覆蓋問題，不是設定問題。先別假設設定檔壞了——打開網路選擇，逐一手動嘗試 Entel、Movistar、Claro 和 WOM；多網路設定檔會替你做這件事。
+
+**D. 數據在阿根廷邊界或越嶺公路的智利側停止。** 僅限智利的方案會在邊界無預警終止，這正是門多薩和巴里洛切一日遊常讓人中招的原因。過境前先切換到多國美洲方案。
+
+### 智利 eSIM 問題排解準備
+
+| 需要提供什麼 | 在哪裡找到 |
+|:---|:---|
+| 訂單號或帳號 | 確認信 |
+| 手機型號與作業系統版本 | 設定 → 關於本機 |
+| EID | `*#06#` |
+| 錯誤畫面截圖 | 在畫面改變之前先截 |
+| 數據漫遊狀態 | 設定 → 行動服務 → 你的 eSIM 門號 |
+| 已嘗試過的步驟 | 留一份簡短清單 |
+
+## 用同一支手機往來智利與阿根廷
+
+智利與阿根廷的網路不會互通；它們在山口處戛然而止。實際使用的過境點是 **Los Libertadores**（聖地牙哥—門多薩，高海拔長時間排隊，兩側訊號時有時無）、**Cardenal Samoré**（巴拉斯港—巴里洛切）以及通往里奧加耶戈斯和烏斯懷亞的南部 **Integración Austral**。在任何一條線上，僅限智利的設定檔在你通過移民檢查的瞬間就會熄滅，而到了另一側，在門多薩或巴里洛切找到門市之前，你也買不到當地阿根廷晶片。
+
+兩個習慣能讓這件事毫無痛感。出發前買一個涵蓋兩國的方案——南美或美洲設定檔以漫遊方式越過山口，抵達後切換到阿根廷網路——並為邊界地帶本身保留離線地圖，因為巴士停下來時兩邊的網路都不可靠。如果你會過境不止一次，區域方案比兩份當地 bolsa 便宜，也省去第二次註冊。
+
+## 智利 eSIM：快速解答
+
+### 可以直接向 Entel 買智利 eSIM 嗎？
+
+不是每個櫃檯都行。自 2026 年 8 月 20 日起，業者必須查驗預付門號背後的身分，而主管機關表示外國人可使用護照——Claro 明確公布了以護照為本的途徑。一些 Entel 和 Movistar 門市要求的是 RUT，而旅客拿不出來，這正是跑門市存在實質風險的原因。以漫遊方式連上當地網路的 eSIM 兩者都不需要。
+
+### 智利業者與你的手機相容嗎？
+
+有可能。國外帶來的手機，從首次插入智利 SIM 起約有 30 個連續天的當地網路使用權，除非其 IMEI 已透過 Multibanda 行政註冊完成登記——該制度由 SUBTEL 監督、由獲授權的認證公司辦理。每人每年第一支個人手機的註冊免費，視各公司額度而定；額外的註冊收取約 **15,694 智利比索**的費用。漫遊與旅遊 eSIM 不受此規則約束。
+
+### 該選哪家智利業者：Entel 對 Movistar？
+
+在納塔萊斯港和公園各入口，Movistar 是較穩的選擇，Entel 在鎮上緊追在後。公園內部——W 路線、各營地、Grey 冰川路線——沒有任何業者有覆蓋。下載離線地圖，並告訴別人你預計何時回到有訊號的地方。
+
+### Entel 對 Movistar：覆蓋率比較
+
+可以，但只限有人居住的地方。Entel 的 4G 讓安加羅阿和機場路可用；拉帕努伊其餘地方在所有網路上都是離線的。把上傳安排在鎮上，別指望熱點應付任何時效敏感的事。
+
+### 智利的行動數據有多貴？
+
+2026 年公布的預付價格從約 **5,000 智利比索（Movistar，40 GB 加 500 分鐘、30 天）** 到約 10,000 比索（Entel 的 20 GB 30 天包），WOM 約 8,000 比索 24 GB 加無限分鐘。週包每 GB 更貴。價格隨促銷浮動，請在櫃檯確認。
+
+### 在智利，當地 SIM 與旅遊 eSIM 的算帳
+
+Entel 支援 eSIM，但直接購買意味著跑一趟門市和身分登記，而 Entel 櫃檯以拒絕外國客人聞名。務實的途徑是用護照登記一張 Claro 或 Movistar 晶片，或用一張根本不需要櫃檯的旅遊 eSIM。
+
+### 帶著你的智利 eSIM 繼續前行
+
+只有方案寫明可以才行。僅限智利的設定檔在山口處停止。要去門多薩、巴里洛切或烏斯懷亞，你需要阿根廷或區域美洲方案——抵達後自動切換網路，無需再次註冊。
+
+### 我的 bolsa 用完了會怎樣？
+
+預付卡不收超量費：門號要麼被大幅限速，要麼停止服務，直到你買下一個包；「無限」的週包也只是門檻後限速的「無限」。購買前確認有效期起算點——開通或首次連線——並在城市裡儲值，而不是在小村莊。
+
+### 智利的漫遊費用
+
+需要。旅遊 eSIM 以漫遊夥伴身分連上當地網路，所以 eSIM 門號的數據漫遊必須開啟——iOS 上是「設定 → 行動服務 → 行動數據選項」。同時把你本國 SIM 的漫遊關掉，避免背景流量觸發國際計費。
+
+### 在智利可以用 WhatsApp 通話嗎？
+
+可以，而且你應該用——在智利，駕駛、旅館和旅行社都是透過 WhatsApp 聯絡旅客的。把本國 SIM 留在手機裡負責通話和驗證碼，數據跑 eSIM，本國門號的漫遊保持關閉。
+
+### 我的智利 eSIM 連不上——下一步？
+
+按順序處理上述四種在地模式——IMEI 倒數、borsa 餘額、手動網路選擇、方案邊界——如果仍然失敗，[疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)中更完整的錯誤目錄涵蓋其餘情況。聯絡支援前，備妥 EID、訂單號和一張截圖。
+
+[還有問題嗎？查看完整常見問題 →](/faq/)
+
+## 關於你的 eSIM 的常見迷思
+
+### ❌ 迷思：智利的 eSIM 只在聖地牙哥能用。
+
+**✅ 事實：** 覆蓋遍及全國——Entel 和 Movistar 都能到達巴塔哥尼亞城鎮、極北地區和奇洛埃。不存在的是城鎮之間空曠地帶的覆蓋，而那是規劃問題，不是訊號問題。
+
+### 在智利買 SIM：證件規定
+
+**✅ 事實：** 一本護照就足以使用旅遊 eSIM，主管機關也允許業者以護照為外國人查驗預付身分。旅客仍拿不出來的是 RUT，這正是部分業者櫃檯拒絕他們的原因。
+
+### ❌ 迷思：改用 eSIM 意味著比實體晶片更慢的數據。
+
+**✅ 事實：** 兩者以相同的頻段、相同的速度連上相同的基地台。差別在行政層面：託管 eSIM 到手時已完成設定，而店購晶片則取決於身分登記和 IMEI 註冊是否順利。
+
+## 智利 eSIM 業者佐證與資料來源
+
+- **Ookla Speedtest Global Index** — [智利的排名](https://www.speedtest.net/global-index/chile)載有本頁速度主張背後的行動與固網下載中位數，每月更新。
+- **Cable.co.uk** — [237 個市場的定價調查](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)確立當地每 GB 價格。
+- **DataReportal / GSMA Intelligence** — [智利 2025 數位化核心數據](https://datareportal.com/reports/digital-2025-chile)支撐本頁的普及率與行動連線數字。
+- **SUBTEL** — [電信主管機關](https://www.subtel.gob.cl/)公布頻譜配置、預付身分查驗規則和上文引用的覆蓋義務；IMEI 一側則透過 [Multibanda](https://www.multibanda.cl/) 及其獲授權的認證公司處理。
+- **業者與市場頁面** — 預付價格與門市行為取自 [Traveltomtom 的智利 SIM 指南](https://traveltomtom.net/destinations/south-america/chile/sim-card-chile)和 [Expat.cl 的業者概覽](https://www.expat.cl/guide-chile/internet-phones/mobile-phones-chile-operators-networks-plans-buy)，兩者皆於 2026 年 9 月查閱。
+- **Opensignal** — [其網路報告](https://www.opensignal.com/reports)提供對網路體驗的第二個獨立視角。若兩者出現分歧，以結帳頁面為準——並請回報落差。
+
+本文沒有任何自測數據；每個數字都歸屬於具名的公開來源。請把它們當作市場層級的參考，而不是對單一行程的預測。
+
+## 電信業者陣容
+
+Roami 的設定檔不在單一智利網路上押注，而是隨你的移動在 Entel、Movistar 和 Claro 之間切換——聖地牙哥的城市 5G，南下列途的偏鄉涵蓋。在[智利免費試用 eSIM](/free-esim/) 上測試，或在[訂購智利 eSIM](/chile-esim/) 時使用優惠碼 **WEB20**，付費方案即省 20%。
+
+[取得智利 eSIM 方案](/chile-esim/)
+
+*優惠適用於首個 Roami 方案*
+
+[領取智利免費試用](/free-esim/)

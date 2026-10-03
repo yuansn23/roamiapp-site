@@ -1,265 +1,379 @@
 ---
-title: "去墨西哥旅遊 eSIM 怎麼挑？5G 速度與價格完整分析。"
-description: "Roami 整理了墨西哥各大電信 eSIM 方案，從 5G 速度、涵蓋範圍到方案價格完整分析，幫助您找到最適合墨西哥旅遊的上網方案。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 墨西哥，預付數據，5G 網路，Telcel，Totalplay，數位遊牧民族，旅遊 eSIM"
-site_name: "Roami"
-brand_name: "Roami"
+title: "墨西哥 eSIM 怎麼挑？Telcel、AT&T、Movistar 比較"
+description: "正在規劃墨西哥之旅？Roami 依實測網速、預付卡規定與 APN 設定評比 Telcel、AT&T 與 Movistar，從墨西哥城到坎昆與瓦哈卡逐段檢視覆蓋表現，整理資費比較與挑選建議，幫你出發前就選對墨西哥 eSIM，從古蹟到海灘都順暢。"
+image: "img/esim/carriers/mexico-esim-carrier-guide.jpg"
+date: "2026-09-25T23:54:57+00:00"
+keywords: 墨西哥 eSIM 電信業者, Telcel eSIM, AT&T Mexico eSIM, Movistar eSIM, 墨西哥 5G 覆蓋, 墨西哥 eSIM APN, 墨西哥 eSIM 預付, 墨西哥最佳 eSIM 業者, 墨西哥旅遊 eSIM, Telcel 市占率
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "墨西哥 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇲🇽] 墨西哥 最新旅遊 eSIM 指南"
-hero_subtitle_main: "墨西哥 eSIM：全國高速覆蓋"
-hero_subtitle_highlight: "Telcel 與 Totalplay 頂級 5G 覆蓋"
-hero_description_line1: "墨西哥 eSIM 覆蓋多個地區的 5G 高速數據服務，滿足您旅行、商務與日常通訊需求，無任何困擾。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "墨西哥 eSIM"
-hero_link_url: "/mexico-esim/"
-tldr_summary: "【專為數位遊牧民族打造：多國無限數據傳輸方案】根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025) 的數據，Telcel 在 2025 下半年以中位下載速度 80.6 Mbps 蟬聯最快行動網路，其 5G 中位下載速度更高達 212.68 Mbps。Totalplay 則以 165.21 Mbps 的中位下載速度成為最快固網 ISP。Roami 的墨西哥 eSIM 讓您無需更換實體 SIM 卡，即可享受 Telcel 的頂級 5G 覆蓋，無論是在墨西哥城、蒙特雷還是薩波潘，都能保持高速連線。結論：選擇 Roami eSIM，就是選擇墨西哥最快的行動網路，讓數位遊牧民族隨時隨地高效工作與娛樂。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "墨西哥 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：墨西哥 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "墨西哥 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：墨西哥 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 墨西哥 eSIM 前須知"
-
-  - href: "#faq"
-    text: "墨西哥 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "墨西哥 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：墨西哥 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Telcel"
-    carrier_class: "text-red-600"
-    reason: "Telcel 擁有最佳行動網路與最快 5G 網路，中位下載速度 80.6 Mbps，5G 中位下載速度 212.68 Mbps，最適合需要穩定高速連線的遠距工作者。"
-
-  - travel: "城市探索者"
-    carrier: "Telcel"
-    carrier_class: "text-red-600"
-    reason: "Telcel 在薩波潘（Zapopan）提供最快行動下載速度（52.9 Mbps），適合在城市中頻繁移動、需要即時導航與社群分享的旅客。"
-
-  - travel: "海灘度假者"
-    carrier: "Telcel"
-    carrier_class: "text-red-600"
-    reason: "Telcel 的 5G 覆蓋持續擴展至主要度假勝地，提供穩定的串流與通話體驗，讓您在坎昆、圖盧姆等地享受不間斷的假期。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 墨西哥 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "telcel-esim"
-    title: "Telcel eSIM 總覽：最佳全國覆蓋與最快 5G"
-    best_for: "此方案絕對是最佳選擇，適合需要最快行動網路與最廣 5G 覆蓋的用戶。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)，Telcel 在 2025 下半年獲得最佳行動網路與最佳 5G 網路獎項。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)，Telcel 的 5G 中位下載速度為 212.68 Mbps，領先其他營運商。\n- **下載速度**：中位下載速度 80.6 Mbps，中位上傳速度 13.16 Mbps。\n- **延遲**：中位延遲 64 ms，5G 延遲更低至 54 ms。\n- **一致性**：90.5% 的樣本達到或超過 5 Mbps 下載與 1 Mbps 上傳的門檻。"
-    arcep_note: "經當地電信主管機關 IFT（聯邦電信研究所）確認，Telcel 為墨西哥最大行動網路營運商，擁有最廣泛的頻譜與基站部署。"
-    connect_note: "啟用過程順暢，透過 Roami 購買後掃描 QR code 即可立即啟用，無需前往門市。"
-    user_scenarios: "- **[奇琴伊察（Chichén Itzá）]**：在馬雅遺跡中，Telcel 的 5G 網路讓您即時上傳高解析度照片與直播，無需擔心訊號中斷。\n- **[墨西哥城地鐵]**：在擁擠的地鐵系統中，Telcel 的低延遲（64 ms）確保您能流暢使用地圖與叫車 App。\n- **[瓜納華托彩色山城]**：在蜿蜒的巷弄中，Telcel 的廣泛覆蓋讓您隨時保持連線，分享旅行點滴。"
-    bg_color: "bg-red-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 墨西哥 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 墨西哥 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 墨西哥 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 墨西哥 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 主要 5G/4G 頻段與裝置相容性"
-    content: "墨西哥主要營運商 Telcel 使用 4G LTE 頻段 B2 (1900 MHz)、B4 (AWS-1)、B5 (850 MHz)、B12 (700 MHz) 與 B66 (AWS-3)；5G 則使用 n41 (2500 MHz) 與 n78 (3500 MHz)。購買 eSIM 前，請確認您的裝置支援這些頻段，尤其是非墨西哥版手機。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "墨西哥電信法規要求所有預付 SIM 卡（包括 eSIM）進行 KYC（認識你的客戶）認證。購買 Roami eSIM 時，您需要提供護照或國民身份證的清晰照片，以及自拍照以完成驗證。此流程通常在啟用前自動完成。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "雖然 Roami 提供「無限數據」方案，但所有方案均受公平使用政策約束。若您在短時間內使用極大量數據（例如超過每日 5GB），營運商可能會暫時降速。建議避免長時間進行 4K 串流或大規模檔案下載。"
-
-  - heading: "4. 熱點分享限制"
-    content: "部分墨西哥 eSIM 方案可能限制熱點分享功能。購買前請仔細閱讀方案說明。Roami 的墨西哥 eSIM 通常允許熱點分享，但速度與連線裝置數量可能受限（例如最多 5 台裝置）。"
-
-  - heading: "5. 啟用與有效期限"
-    content: "Roami eSIM 在購買後透過電子郵件發送 QR code，掃描後即可啟用。請注意，eSIM 的有效期限通常從啟用那一刻開始計算，而非購買日。若您計劃在未來某個日期使用，請務必在抵達墨西哥後再掃描啟用。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：墨西哥 最佳 eSIM"
-city_guide_desc: "了解哪款 墨西哥 eSIM 是您目的地的最佳選擇，根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025) 的實際速度測試數據。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "墨西哥城"
-    carriers: "Telcel"
-    reason: "作為首都與最大城市，Telcel 提供最廣泛的 5G 覆蓋。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)，Telcel 在墨西哥城的行動中位下載速度為 80.6 Mbps，適合商務旅客與數位遊牧民族。"
-
-  - city: "蒙特雷"
-    carriers: "Telcel"
-    reason: "蒙特雷是墨西哥最快固網下載速度的城市（108.79 Mbps），但行動網路同樣由 Telcel 主導。Telcel 的 5G 網路在蒙特雷的工業區與商業區表現優異，適合需要高速連線的專業人士。"
-
-  - city: "薩波潘"
-    carriers: "Telcel"
-    reason: "薩波潘擁有墨西哥最快的行動中位下載速度（52.9 Mbps）。Telcel 在此城市的 5G 覆蓋密集，非常適合頻繁使用地圖、社群媒體與串流服務的旅客。"
-
-  - city: "坎昆"
-    carriers: "Telcel"
-    reason: "坎昆是熱門度假勝地，Telcel 在飯店區與主要景點提供穩定的 5G 訊號。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)，Telcel 的 5G 遊戲與影片串流體驗最佳，適合在海灘上享受不間斷的娛樂。"
-
-  - city: "瓜達拉哈拉"
-    carriers: "Telcel"
-    reason: "作為科技與新創中心，瓜達拉哈拉對高速網路需求高。Telcel 在此城市提供低延遲（64 ms）與高一致性（90.5% 樣本達標）的服務，適合遠距工作者與數位遊牧民族。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 墨西哥 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在墨西哥城、蒙特雷等大都市，Telcel 的 5G 網路讓您即時導航、叫車與上傳社群媒體。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)，Telcel 的 5G 影片串流評分高達 82.69，確保您流暢觀看旅遊指南影片。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往奇琴伊察、圖盧姆等自然與歷史遺跡時，Telcel 的廣泛覆蓋讓您即使在偏遠地區也能保持連線。Telcel 的 5G 遊戲體驗評分最佳，適合在營地進行線上遊戲或直播。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕穿越墨西哥時，Telcel 的網路一致性（90.5% 樣本達標）確保您沿途使用導航與音樂串流不中斷。Telcel 的低延遲（64 ms）讓即時路況更新更準確。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在坎昆、巴亞爾塔港等海灘度假地，Telcel 的 5G 網路提供穩定的串流體驗。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)，Telcel 的 5G 影片串流評分為 82.69，讓您在海灘上享受高畫質影片。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "墨西哥 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "使用 墨西哥 eSIM 熱點分享時，是否有連接裝置數量限制？"
-    a: "是的，Roami 的墨西哥 eSIM 通常允許熱點分享，但連線裝置數量可能限制在 5 台以內。此外，熱點分享速度可能低於直接使用裝置的速度，且會消耗方案內的總數據量。建議在需要分享時，優先使用支援 5G 的裝置以獲得最佳體驗。"
-
-  - q: "如果我的 墨西哥 eSIM 啟用 QR code 未收到電子郵件，該怎麼辦？"
-    a: "若您在購買後 10 分鐘內未收到包含 QR code 的電子郵件，請先檢查垃圾郵件或促銷郵件夾。若仍未找到，請透過 Roami 官網的即時聊天或電子郵件聯繫 24/7 客服，提供您的訂單編號與購買時使用的電子郵件地址，客服將重新發送 QR code。"
-
-  - q: "如何確認 eSIM 在 墨西哥 的特定目的地是否擁有可靠的覆蓋？"
-    a: "您可以參考 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025) 的覆蓋地圖，或使用 OpenSignal 的應用程式查看特定區域的訊號強度。此外，Roami 的產品頁面會列出合作營運商（如 Telcel）的覆蓋範圍。一般來說，Telcel 在墨西哥主要城市與旅遊景點提供最可靠的 5G 與 4G 覆蓋。"
-
-  - q: "Roami 是否提供 24/7 線上支援，以解決我在 墨西哥 的連線問題？"
-    a: "是的，Roami 提供 24/7 全天候線上支援，可透過官網的即時聊天功能或電子郵件聯繫。支援團隊能協助解決啟用問題、網路設定與速度異常等常見問題。回應時間通常在 5 分鐘內，緊急情況可優先處理。"
-
-  - q: "墨西哥 eSIM 的支援服務提供哪些語言，回應時間為何？"
-    a: "Roami 的支援服務提供英文、西班牙文與繁體中文。回應時間根據問題複雜度而異：一般查詢約 5-10 分鐘內回覆，技術問題可能需要 30 分鐘至 1 小時。建議在聯繫時提供詳細的裝置型號、作業系統版本與錯誤訊息，以加快處理速度。"
-
-# 迷思
-myths_title: "⚠️ 墨西哥 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "墨西哥所有營運商的 5G 速度都差不多。"
-    truth: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)，Telcel 的 5G 中位下載速度為 212.68 Mbps，遠高於第二名的 Movistar（51.03 Mbps）。選擇 Telcel 才能獲得最快的 5G 體驗。"
-
-  - myth: "在墨西哥使用 eSIM 需要實名認證，非常麻煩。"
-    truth: "KYC 認證是墨西哥法規要求，但 Roami 已將流程數位化。您只需在購買時上傳護照照片與自拍照，系統會自動完成驗證，整個過程不到 5 分鐘，無需前往門市。"
-
-  - myth: "墨西哥的偏遠地區完全沒有網路覆蓋。"
-    truth: "Telcel 擁有墨西哥最廣泛的網路覆蓋，包括許多偏遠旅遊景點。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)，Telcel 的網路一致性高達 90.5%，即使在鄉村地區也能維持基本連線。"
-
-  - myth: "eSIM 只能在最新款手機上使用。"
-    truth: "eSIM 技術已廣泛支援 iPhone XS 以後、Google Pixel 3 以後、Samsung Galaxy S20 以後等機型。購買前請至 Roami 官網確認您的裝置型號是否相容。"
-
-  - myth: "墨西哥的無限數據方案真的完全無限制。"
-    truth: "所有無限數據方案均受公平使用政策（FUP）約束。若每日使用量超過 5GB，營運商可能會暫時降速。建議避免長時間進行 4K 串流或大規模下載，以維持高速體驗。"
-
-# 數據來源
-data_sources_title: "墨西哥 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據顯示，Telcel 在 2025 下半年獲得最佳行動網路與最佳 5G 網路獎項，中位下載速度 80.6 Mbps，5G 中位下載速度 212.68 Mbps。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的 2025 年報告指出，Telcel 在墨西哥的 5G 可用性與影片串流體驗方面領先其他營運商，特別是在墨西哥城與蒙特雷等主要城市。"
-
-  - name: "IFT（聯邦電信研究所）2025"
-    description: "墨西哥電信監管機構 IFT 的年度報告確認 Telcel 為市場領導者，擁有最多的基站數量與最廣的 4G/5G 覆蓋範圍，並符合所有 KYC 與數據保護法規。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，包括 Ookla、OpenSignal 與 IFT。實際體驗可能因裝置、地點與網路負載而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議在購買前參考 Roami 官網的最新覆蓋地圖與用戶評價。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 墨西哥 eSIM"
-cta_desc: "即時存取 Telcel 的頂級 5G 網路，無需更換 SIM 卡。掃描 QR code 即可啟用，享受高速連線。"
-cta_button_text: "立即購買 墨西哥 eSIM"
-cta_button_link: "/mexico-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "墨西哥 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 墨西哥 eSIM 指南
+  url: ''
+hero_badge: "墨西哥 eSIM 電信業者：誠實的排名"
+hero_subtitle_main: "2026 年電信業者比較，建立在獨立速度數據之上"
 ---
+
+
+一旦離開城市，墨西哥三張全國網路的差距立刻拉開。在 Ookla 的 2025 下半年墨西哥報告中，**Telcel** 同時獲選為綜合最佳行動網路與最佳 5G 網路，一致性得分 **90.5%**，速度得分 **64.11**。**AT&T Mexico** 與 **Movistar** 在每項測量指標上都落後，而數據中的第四個名字 **ALTAN Redes** 是較小品牌借以運作的批發網路，不是你自己能辦的門號。決定選擇的是你的路線，而不是品牌。如果墨西哥業者在行銷上誇大，我們會指出來——見註冊章節中真正重要的細則。
+
+**快速結論：** 在墨西哥，Telcel 贏得覆蓋之爭，Movistar 贏得便宜流量——下面的表格搞定細節。付費之前，你也可以透過 Roami 的 [免費網路測試](/free-esim/) 先試用墨西哥網路設定。
+
+如果基本問題還沒有答案——手機是否支援 eSIM、啟用過程實際會發生什麼——[相容性清單](/compatibility/) 和 [eSIM 啟用解析](/faq/what-is-esim-activation-and-how-does-it-work/) 會回答兩者。接下來是錢的問題，不是技術問題：哪家業者值得你花錢。
+
+**先講結論：** 只待在墨西哥城、坎昆或洛斯卡沃斯？Telcel 是全國最強、最穩定的網路，在 AT&T 和 Movistar 訊號轉弱的鄉間路段仍保持訊號。想要免到門市的預付 eSIM？AT&T Mexico 透過 AT&T Go App 販售一款，Movistar 則在你綁定護照後以 QR 碼發行。要開車進美國或住在邊境附近？AT&T 的北美漫遊是最突出的賣點。或者完全跳過文件流程：[免費測試 eSIM](/free-esim/) 零成本測試各網路，**WEB20** 可為 [墨西哥預付 eSIM 方案](/mexico-esim/) 省 20%。
+
+## 你的 eSIM 背後的電信業者
+
+本節先列出旅客實際能買到預付 eSIM 的業者，並以一張表呈現直辦與旅遊 eSIM 的抉擇。墨西哥有一個加拿大和日本都沒有的轉折：每條預付線路——包括 eSIM——都必須先綁定官方身分證件才能使用。
+
+### Telcel vs AT&T：在墨西哥哪家更好？
+
+| | Telcel | AT&T Mexico | Movistar |
+|:---|:---|:---|:---|
+| 旅客可辦的預付 eSIM | 有，透過 Amigo 預付品牌，經 Mi Telcel App、telcel.com 或服務中心 | 有，透過 AT&T Go，僅限 App 的預付 eSIM | 有，綁定護照或本地證件後以 QR 碼發行 |
+| 最強的實測表現 | Ookla 2025 下半年綜合最佳行動網路與最佳 5G 網路；一致性 90.5% | 多數指標上居第二；美國與加拿大漫遊強勁 | 多數指標上居第三；都市預付更便宜 |
+| 最便宜的預付門檻 | Amigo Sin Límite 檔位儲值 100 MXN 起 | AT&T Go 6.5 GB 售 150 MXN，30 天 | 儲值 100 MXN 起，有效期 10 至 30 天 |
+| 旅客取得難易度 | ★★——需標準預付身分登記，不是即到即辦的旅客產品 | ★★★——全程 App 完成，免門市，需墨西哥證件或護照 | ★★——QR 啟用，但僅限墨西哥境內原生覆蓋下 |
+
+**請仔細看這張表，因為它包含本頁最有用的一個事實：**三張全國網路現在都賣預付 eSIM，但沒有任何一家會在機場櫃檯賣給你乾淨、匿名的旅客 eSIM。每一條路都會經過墨西哥的身分登記系統，也就是說門號開通前必須有護照（或本地證件）。差別只在流程有多少在 App 完成、多少在服務中心完成。
+
+### 哪些平價品牌與區域選項有賣 eSIM
+
+墨西哥的第四層是旅客找到最便宜流量的地方，但它跑在別人的基地台上。
+
+| 品牌 | 底層網路 | eSIM | 適合的用戶 |
+|:---|:---|:---|:---|
+| AT&T Go | AT&T Mexico | 僅限 App 的預付 eSIM，免門市 | 邊境旅客與任何想要美加漫遊的人 |
+| Movistar 預付 eSIM | Movistar | 綁定護照或本地證件後發 QR 碼 | Movistar 便宜的城市停留 |
+| Wim by AT&T | AT&T Mexico | 100% eSIM 數位品牌 | 喜歡 App 優先、想要生活權益加值的買家 |
+| 掛在 ALTRAN Redes 下的品牌 | 批發 Red Compartida 網路 | 有提供處即支援 eSIM | 只有共用網路能抵達的深鄉間地點 |
+
+兩個提醒。第一，向這些品牌任一家購買的預付方案都綁定單一網路，所以你用 AT&T Go 就只有 AT&T 的基地台，別無分號——一旦離開城市這點就很關鍵。第二，身分登記要求適用所有品牌，墨西哥已經沒有匿名旅遊 SIM 這回事了。
+
+### 可以直接向 Telcel 買墨西哥 eSIM 嗎？
+
+| | 直接向墨西哥業者購買 | 跑在墨西哥網路上的旅遊 eSIM |
+|:---|:---|:---|
+| 你需要什麼 | 護照或本地證件；業者先登記你的線路才能使用 | 一支相容且已解鎖的手機 |
+| 設定檔如何到手 | App、QR 碼或親訪服務中心 | 結帳後立即以 QR 碼或 App 安裝 |
+| 一般費用 | 儲值 100 MXN 起；線路本身費用極低或象徵性 | 一次預付價，無登記步驟 |
+| 網路存取 | 單一業者 | 在 Telcel、AT&T 與 Movistar 之間自動切換 |
+| 身分規定 | 啟用前先綁定護照或本地證件 | 部分產品在結帳時上傳護照 |
+| 最適合 | 長期停留，或需要墨西哥門號的人 | 數天到數週的旅程，落地即上線 |
+
+典型兩週旅程的算術是一面倒的。墨西哥預付方案是為想要本地門號的居民設計的，還多一道旅遊 eSIM 可避開的身分登記步驟。電信業者的優勢在長期與語音：真正的墨西哥門號、無限國內通話，以及到第六個月仍然有效的方案。旅遊 eSIM 則勝在便利，以及不必買兩次就能接觸多張網路。
+
+💡 多網路 eSIM 設定檔是務實的中間路線：[Roami 的墨西哥 eSIM](/mexico-esim/) 保留即時取得的便利，在 Telcel、AT&T 與 Movistar 之間自動切換，讓你在高山地區落在 Telcel、在邊境落在 AT&T，而且不必買兩次。
+
+## 你的 eSIM 裝置需求
+
+三件事決定你的手機能否在墨西哥業者上使用：頻段、鎖定狀態，以及一小串特定裝置的怪癖。以下三者都涵蓋，因為鎖定或頻段受限的手機是墨西哥 eSIM 安裝失敗最常見的原因。
+
+### 我的 iPhone 在墨西哥相容嗎？
+
+墨西哥業者把 4G 建在頻段 2、4、5、7 上，5G 建在 n41 與 n78 上。多數國際手機都涵蓋這些，但有少數區域版本缺 850 MHz 的頻段 5——那是把訊號帶進室內、跨越瓦哈卡山區的低頻層。缺它的手機在大城市仍可使用，其他地方則回落到頻段 4 和頻段 7。
+
+這裡不需要做頻段功課。型號永遠比行銷名稱可靠，拿你的型號對照 [手機相容性清單](/compatibility/) 即可。出發前，[eSIM 啟用時會發生什麼](/faq/what-is-esim-activation-and-how-does-it-work/) 解釋了設定檔抵達時手機實際在做什麼。
+
+### 你的手機與墨西哥網路相容嗎？
+
+鎖定的手機是墨西哥 eSIM 安裝直接失敗最常見的原因，而墨西哥在這方面的規定異常明確。依 IFT（聯邦電信研究院）的準則，業者必須免費解鎖裝置。預付手機——例如隨 Amigo Kit 購買的手機——出廠即已解鎖。合約機或分期機在合約結束或繳清後解鎖，且業者必須在申請後 24 小時內提供解鎖碼。
+
+**檢查：** 設定 -> 一般 -> 關於本機 -> 電信鎖（Carrier Lock）（iPhone）。如果該欄位顯示「無 SIM 限制（No SIM restrictions）」，手機可以接受任何設定檔。如果顯示「SIM 已鎖定」，解決之前任何外部 eSIM 都裝不進去。
+
+**解決：** 向售出手機的電信業者申請解鎖；IFT 規定他們必須提供。已繳清的裝置通常一天內處理完成，且不收費。之後再嘗試安裝你的 eSIM。
+
+來自美國或歐洲電信的手機可能仍有鎖，出發前請確認。完整細節：[IFT——解鎖你的裝置](https://www.ift.org.mx/)。
+
+### 墨西哥：IMEI 與 EID 檢查
+
+| 裝置 | 症狀 | 處理方式 |
+|:---|:---|:---|
+| 向電信購買且合約未滿的手機 | eSIM 安裝失敗或線路無法註冊 | 先透過原電信解鎖，再重試 |
+| 缺頻段 5 的國際手機 | 城市裡很快，山區與室內較弱 | 預期行為；建議選低頻覆蓋最廣的 Telcel |
+| 中國大陸版 iPhone 機型 | 完全沒有「加入 eSIM」選項，硬體已停用 | 無法解決；改用其他裝置 |
+| 雙 SIM 使用者 | eSIM 已安裝但沒有數據 | 把 eSIM 設為行動數據用的線路 |
+
+剩下的都是手機本身的行為，不是 Telcel 或 AT&T 能控制的。花十秒用 [eSIM 裝置檢查工具](/compatibility/)，比辦一個在瓦哈卡用不了的方案划算。
+
+## 實際取得 eSIM 的幾條路
+
+一共四條路，差異主要在文件流程而非價格：透過 Amigo 預付辦 Telcel、透過 AT&T Go 辦 AT&T Mexico、以 QR 碼辦 Movistar，以及跑在三張網路上的旅遊 eSIM。逐條路線、逐步說明。
+
+### 購買墨西哥 eSIM
+
+Telcel 是墨西哥的龍頭業者，所以它的 eSIM 是多數旅客第一個問的。Amigo 預付 eSIM 是 Telcel Amigo 預付門號的無卡版本：同樣的通話、簡訊與流量，以設定檔形式安裝，取代實體晶片。
+
+**Telcel Amigo eSIM，逐步操作：**
+
+1. 確認手機支援 eSIM 且已解鎖。
+2. 透過 Mi Telcel App、telcel.com 或 Telcel 客服中心申請 Amigo eSIM。
+3. 掃描 QR 碼，或從手機設定安裝設定檔。
+4. 完成預付身分登記，線路隨即開通。
+5. 儲值第一次；未儲值時線路最長可維持 60 天有效。
+
+Telcel 自家的預付檔位是不簽約持有墨西哥門號最便宜的方式，線路本身的費用極低或只是象徵性。你真正付錢的是儲值。Telcel 說明 Amigo eSIM 是為長期使用墨西哥門號的人設計的，也就是說最適合已過純觀光階段、想要本地門號的你。如果只需要一週的流量，旅遊 eSIM 摩擦更小。
+
+### 墨西哥：本地 SIM 對上旅遊 eSIM
+
+AT&T Mexico 是唯一販售貨真價實、僅限 App 的預付 eSIM 的全國業者，對從不想踏進門市的旅客而言最容易。其 AT&T Go 產品僅以 eSIM 技術在相容智慧手機上提供，購買與啟用全程在 Mi AT&T App 內完成。
+
+**AT&T Go eSIM，逐步操作：**
+
+1. 從 Google Play 或 App Store 安裝 Mi AT&T App。
+2. 掃描引導 QR 碼或開啟 App 連結。
+3. 免費啟用 eSIM。
+4. 選擇 AT&T Go 套餐並安裝設定檔。
+5. 註冊時綁定你的墨西哥證件或護照。
+
+| 套餐 | 流量 | 有效期 | 價格（MXN） |
+|:---|:---|:---|:---|
+| AT&T Go 小方案 | 6.5 GB | 30 天 | 150 |
+| AT&T Go 中方案 | 10 GB | 30 天 | 200 |
+| AT&T Go 大方案 | 20 GB | 30 天 | 300 |
+
+三款 AT&T Go 套餐都含墨西哥與美國的無限通話和簡訊，這是該業者真正的差異化賣點：一張預付 eSIM 跨境可用。如果你的行程橫跨兩國，這比在邊界就斷線的墨西哥單國門號強得多。
+
+### 墨西哥 eSIM 方案一覽
+
+Movistar 是墨西哥第三家全國業者，也販售預付 eSIM，但流程有一個起飛前值得知道的怪癖。依官方規定，你必須把線路綁定到你的 INE、CURP 或護照，綁定完成前 eSIM 一律未啟用。設定檔也必須在墨西哥境內、Movistar 自身的原生覆蓋下安裝——不是它向 Telcel 購買的延伸覆蓋。
+
+**Movistar 預付 eSIM，逐步操作：**
+
+1. 向會發 QR 碼的賣家購買 eSIM。
+2. 透過電子郵件收到 QR 碼與一條綁定連結。
+3. 透過寄給你的連結綁定護照或本地證件。
+4. 人到了墨西哥之後，再以 QR 碼安裝設定檔。
+5. 等待啟用；未儲值時線路最長可維持 60 天有效。
+
+Movistar 預付儲值從 100 MXN 起，每次儲值的流量額度隨促銷變動，購買當天請在 App 內確認確切 GB 數。該業者在城市最便宜、鄉間轉薄——而這正是 Telcel 拉開差距的地方。
+
+### 旅客適用的 Telcel eSIM 備忘清單
+
+- **護照**——以外國人身分辦任何電信 eSIM 都需要；本地人用 INE 或 CURP
+- **IMEI**——撥 `*#06#`
+- **EID**——同樣來自 `*#06#` 畫面；eSIM 自身的識別碼
+- **已解鎖手機**——電信鎖必須顯示「無 SIM 限制（No SIM restrictions）」，否則任何 eSIM 都裝不進去
+- **Wi-Fi**——出發前安裝設定檔，不要留到機場
+- **能在墨西哥使用的卡**——部分電信結帳會拒絕國外帳單地址
+
+方案與現行檔位都在我們的 [墨西哥 eSIM 頁面](/mexico-esim/)。出發前裝好，落地那一刻線路就迎接你，不必搶機場 Wi-Fi。
+
+## 墨西哥 eSIM 速度：Telcel vs AT&T
+
+這裡的選擇取決於兩個因素：各網路在你的具體路線上的表現，以及這趟旅程的目的。下面的數字解決前者，旅程表格解決後者。
+
+### Telcel vs AT&T：哪家墨西哥業者更快？
+
+以下所有數據來自 Ookla 針對墨西哥的 Speedtest Connectivity Report，收集期間為 2025 年 7 月至 12 月，屬全國層級測量。第四行的 ALTRAN Redes 是較小品牌使用的批發 Red Compartida 網路。
+
+| 指標 | Telcel | AT&T Mexico | Movistar | ALTRAN Redes |
+|:---|:---|:---|:---|:---|
+| Speedtest Connectivity 得分 | **73.1**（最高） | 61.41 | 63.21 | 52.78 |
+| 速度得分 | **64.11**（最快） | 39.6 | 43.35 | 28.43 |
+| 一致性得分 | **90.5%**（最佳） | 70.8% | 80.8% | 68.8% |
+| 影音串流得分 | **80.44**（最佳） | 77.6 | 76.47 | 73.4 |
+| 遊戲得分 | **77.73**（最佳） | 74.03 | 71.75 | 56.48 |
+| 五星評級 | **3.51**（頂級） | 2.71 | 3.22 | 2.79 |
+
+資料來源：Ookla Speedtest Connectivity Report——墨西哥，2025 年 7 月至 12 月，[各業者報告](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025)。一致性得分計算的是達到下載 5 Mbps、上傳 1 Mbps 門檻的樣本比例。Telcel 在該期間同時拿下綜合最佳行動網路與最佳 5G 網路。空白欄位一律代表報告未公布數字，絕非猜測值。
+
+至於全國整體背景：Ookla 的 [Speedtest Global Index](https://www.speedtest.net/global-index/mexico) 測得墨西哥 2026 年 8 月行動下載中位數為 **46.39 Mbps**，全球排名第 82，延遲 33 ms。Cable.co.uk 對墨西哥行動數據每 1 GB 的定價約 **2.03 美元**，在 237 個市場中排第 162，所以本地數據屬中價位而非便宜。市場結構方面，依主管機關 CRT 數據，Telcel 以約 **57.5%** 的活躍行動線路結束 2025 年，AT&T 約 15%，Movistar 約 12% 至 14%——這就是為什麼 Telcel 的覆蓋優勢在你旅行的每個角落都顯現出來。
+
+### 依行程搭配墨西哥 eSIM
+
+| 你的行程 | 首選 | 勝出原因 | 留意事項 |
+|:---|:---|:---|:---|
+| 墨西哥城城市小旅行 | Telcel | 一致性最高，壅塞後恢復最快 | 每家業者在捷運地鐵內訊號都差 |
+| 坎昆與 Riviera Maya 海灘度假 | Telcel | 飯店區與度假走廊沿線最強 | Tulum 以南的海岸公路時斷時續 |
+| 洛斯卡沃斯與南下加利福尼亞州 | Telcel | 海角城市中覆蓋最佳 | 沙漠公路有長距離空窗 |
+| 瓦哈卡山區與鄉間墨西哥 | Telcel | 一致性 90.5% 最佳，低頻覆蓋最廣 | 深谷與偏遠村落仍會掉線 |
+| 跨境前往美國 | AT&T Mexico | AT&T Go 含美國與加拿大漫遊 | 墨西哥單國 eSIM 在邊界斷線 |
+| 預算型城市停留 | Movistar 預付 eSIM | 都市儲值最便宜 | 必須在墨西哥境內啟用 |
+| 需要本地門號的長期停留 | Telcel Amigo eSIM | 本地門號，免合約 | 需事先完成身分登記 |
+
+### Telcel vs AT&T：覆蓋比較
+
+墨西哥的覆蓋跟著人口走：都會區密集，鄉間公路迅速轉薄，深山則完全消失。以下是逐路線的實況。
+
+| 地區 | 實地實況 |
+|:---|:---|
+| 墨西哥城與中部高原 | 三張全國網路在市中心都很強；Telcel 一致性最高，在大型場館與地鐵內壅塞後恢復最快。 |
+| 坎昆與 Riviera Maya | 度假走廊與飯店區由 Telcel 服務良好，Movistar 次之；Tulum 以南往 Bacalar 方向的海岸公路訊號轉薄，旅客回報叢林中有斷訊路段。 |
+| 洛斯卡沃斯與南下加利福尼亞州 | 覆蓋緊貼 Cabo San Lucas、San José del Cabo 及兩者之間的走廊；城鎮之間的跨半島公路是駕駛回報最長斷訊的地方。 |
+| 瓦哈卡山區 | Sierra Madre del Sur 的山地地形讓覆蓋零散；Telcel 能抵達的村落最多，但深谷與偏遠村落仍會掉線，搭任何長途巴士或上登山口前先下載離線地圖。 |
+| 下加利福尼亞邊境州 | Tijuana、Ensenada 與 Mexicali 密集可靠；一旦離開邊境走廊往內陸走，就會出現與南部相同的公路空窗。 |
+| 跨境進入美國 | 墨西哥單國 eSIM 會在邊界無預警停止；行程橫跨兩國時，北美方案或區域 eSIM 可以省去買兩次。 |
+
+規劃會離開墨西哥的路線？比較 [美國 eSIM](/united-states-esim/)、[瓜地馬拉旅遊 eSIM](/guatemala-esim/)，若行程多次跨境則看 [北美 eSIM](/north-america-esim/)。
+
+這一切底下的訣竅是讓網路選擇保持自動。能在 Telcel、AT&T 與 Movistar 之間移動的設定檔，補上任何單一業者方案都補不了的區域空窗。
+
+## 你需要的 APN 數值
+
+APN 面板是多數旅客從不踏足的地方，這也是為什麼數據出狀況時它排檢查清單第一位。以下依序是每家墨西哥業者的設定，涵蓋手動輸入無可避免的少數情況，附上確切的選單路徑。
+
+### Telcel、AT&T 與 Movistar eSIM 的 APN 數值
+
+只有當你**直接向墨西哥業者**購買 SIM 或 eSIM 時才需要這些。旅遊 eSIM 等漫遊設定檔自帶 APN，手動編輯通常反而會弄壞它。
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| Telcel | `internet.itelcel.com` | 留空 | 留空 |
+| AT&T Mexico | `ai.attmx.com` | 留空 | 留空 |
+| Movistar | `internet.movistar.mx` | 留空 | 留空 |
+
+使用者名稱與密碼留空。部分 Telcel 教學為舊帳戶列出 `webgprs` 與 `webgprs2002`；若自動設定沒有執行，僅在留空數值失敗時才嘗試那些。如果業者要求某個值，設定檔隨附的啟用說明會載明。
+
+### 在墨西哥網路上設定 APN
+
+- 手機太舊，無法自動下載電信商設定
+- 設定檔是用手動啟用碼而非 QR 掃描安裝的
+- 電信發行的預付 eSIM，自動設定沒有執行
+- 旅遊 eSIM 幾乎不會需要——這正是受管理設定檔的意義
+
+### 手動輸入墨西哥 APN：何時以及為什麼
+
+- **iPhone：** 開啟設定 → 行動服務（Cellular）→ 點選 eSIM 線路 → 行動數據網路 → 輸入 APN
+- **Android：** 設定 → 連接 → 行動網路 → 存取點名稱（APN）→ 新增 APN
+
+儲存後重新開機。進一步排障之前，先確認行動數據指向 eSIM 而不是你的原門號。
+
+## 墨西哥 eSIM：啟用並保持可用
+
+這一章走完一遍，你就從乾淨安裝走到可用的數據連線，並涵蓋墨西哥網路實際會產生的故障模式，順序就是你會遇到的順序。
+
+### 安裝你的墨西哥 eSIM
+
+| # | 檢查項目 | 你想看到的結果 |
+|:---|:---|:---|
+| 1 | 手機可接受任何網路 | 設定 → 一般 → 關於本機 → 電信鎖顯示「無 SIM 限制（No SIM restrictions）」 |
+| 2 | 具備 eSIM 硬體 | 撥 `*#06#` 列出 EID，或 [手機相容性檢查工具](/compatibility/) 通過你的機型 |
+| 3 | QR 碼已備份 | 截圖同時存在手機**與**雲端空間 |
+| 4 | 出發前設定檔就緒 | 於家中 Wi-Fi 安裝完成；落地即甦醒 |
+| 5 | 數據路由已備妥 | 選擇 eSIM 作為行動數據並開啟漫遊 |
+
+第 4 步在家裡做。墨西哥城與坎昆的入境大廳 Wi-Fi 偏偏在你最需要的時刻最壅塞，落地才安裝的設定檔得和所有人搶頻寬。
+
+### 啟用你的墨西哥 eSIM
+
+如果你寧可跟著截圖走也不要摘要，[eSIM 啟用逐步指南](/faq/how-to-activate-an-esim/) 會帶完整個安裝。各業者的差異：
+
+| 業者 | 啟用差異 |
+|:---|:---|
+| Telcel Amigo | 透過 Mi Telcel App、telcel.com 或服務中心申請；身分登記通過前線路不會開通 |
+| AT&T Go | 全程在 Mi AT&T App 內完成；免門市；註冊時綁定證件或護照 |
+| Movistar 預付 | QR 安裝，但綁定護照或本地證件前線路保持未啟用，且僅限墨西哥境內原生覆蓋 |
+| 旅遊 eSIM | 以 QR 碼安裝，同一設定檔自動漫遊到 Telcel、AT&T 或 Movistar 中訊號最強者 |
+
+### 拯救墨西哥 eSIM 的四個動作
+
+一般啟用錯誤、設定檔無法下載、掃描失敗、裝好了卻始終不註冊的 eSIM，都在我們的 [eSIM 啟用疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/) 涵蓋範圍內。以下是墨西哥特有的四種模式。
+
+**A. eSIM 無法安裝**
+1. 確認手機本身已解鎖——關於本機中電信鎖必須顯示「無 SIM 限制（No SIM restrictions）」
+2. 把 QR 碼當成一次性憑證：乾淨、未掃描、隨時可用
+3. 向業者確認線路的身分登記是否已通過
+
+**B. 已安裝，但沒有訊號格數**
+1. 重新確認鎖定狀態
+2. 設定 → 行動服務 → 網路選擇 → 手動選擇 Telcel、AT&T 或 Movistar，而非自動
+3. 完整重置網路設定，然後再重新開機一次
+
+**C. 有訊號格數，但沒有網路**
+1. 再把你的輸入對照上表核對一次
+2. 確認數據路由走的是 eSIM 而不是你的原門號
+3. 確認沒有觸發公平使用限速；預付儲值在額度用畢後可能降到保底速度
+
+**D. 在下加利福尼亞公路或 Riviera Maya 沿線遇到死區**
+1. 如果你在 Movistar 上，記得它必須跑在原生覆蓋上而非 Telcel 延伸覆蓋，所以可行的話切到 Telcel
+2. 切換到 Telcel，它的低頻伸入山區與鄉間內陸的覆蓋最廣
+3. 任何長途公路或登山口車程前先下載離線地圖
+
+### 墨西哥 eSIM 快答資料
+
+| 所需資訊 | 哪裡找 |
+|:---|:---|
+| 訂單或帳戶編號 | 確認信 |
+| 手機型號與 OS 版本 | 設定 → 關於本機 |
+| EID | `*#06#` |
+| 錯誤畫面截圖 | 趁畫面還沒變之前截下來 |
+| 目前的 APN 設定 | 設定 → 行動數據網路 |
+| 數據漫遊狀態 | 設定 → 行動服務 → 你的 eSIM 線路 |
+| 身分登記狀態 | 業者寄給你的綁定確認 |
+
+## 常見問題快速解答
+
+以下是旅客真的會在搜尋引擎輸入的問題，依上述事實回答。
+
+### 身為旅客可以直接向 Telcel 買預付 eSIM 嗎？
+
+可以，透過 Amigo 預付品牌。Telcel 經由 Mi Telcel App、telcel.com 或客服中心發行 Amigo eSIM，線路本身費用極低或只是象徵性。關鍵在於標準的預付身分登記——線路生效前必須綁定護照或本地證件，所以它不是純觀光客想要的即辦即用機場產品。
+
+### AT&T 有賣旅客可用的預付 eSIM 嗎？
+
+有，而且是三者中最容易的。AT&T Go 是僅限 App 的預付 eSIM，購買與啟用全程在 Mi AT&T App 內完成，免門市、免實體晶片。套餐為 30 天內 6.5 GB 售 150 MXN、10 GB 售 200 MXN、20 GB 售 300 MXN，並含墨西哥與美國的無限通話和簡訊——這正是該業者對邊境旅客的真正優勢。
+
+### 國際旅客能辦 Movistar eSIM 嗎？
+
+可以，以 QR 碼辦理，但有個怪癖。Movistar 要求你在線路生效前綁定護照、INE 或 CURP，而且設定檔必須在你人在墨西哥、Movistar 原生覆蓋下安裝——不是 Telcel 延伸網路。回報是全城最便宜的都市預付儲值，設定完成後 Movistar 是城市停留的好選擇。
+
+### 墨西哥的鄉間覆蓋：Telcel vs AT&T
+
+證據站在 Telcel 這邊。它在 Ookla 2025 下半年墨西哥數據中錄得最佳一致性得分 90.5%——即達到下載 5 Mbps、上傳 1 Mbps 門檻的測試比例，這是最接近鄉間可靠度的指標。AT&T 為 70.8%，Movistar 為 80.8%，所以要在瓦哈卡山區和下加利福尼亞公路上保持連線，選 Telcel。
+
+### 墨西哥的預付 SIM 需要證件嗎？
+
+需要，在墨西哥境內購買的任何電信 eSIM 都是。墨西哥的 2026 行動登記制度要求每條預付線路——實體 SIM 或 eSIM——都綁定官方證件，外國人用護照，本地人用 INE 或 CURP。未登記的線路可能被封鎖，所以在你依賴這條連線之前先完成綁定。旅遊 eSIM 可能在結帳時就代辦，這也是旅客選它的原因之一。
+
+### 墨西哥旅程與鎖定的手機
+
+向鎖定它的業者詢問。依 IFT 準則，業者必須免費解鎖裝置；Amigo Kit 之類的預付手機出廠即解鎖，合約機或分期機在合約結束或繳清後解鎖，解鎖碼於 24 小時內提供。已繳清的裝置通常一天內處理完成。在設定 → 一般 → 關於本機 → 電信鎖查看狀態。
+
+### 墨西哥 eSIM 的問題裝置
+
+手機需要已解鎖且支援 eSIM，若還支援 850 MHz 頻段 5 的低頻覆蓋更好。[相容性頁面](/compatibility/) 一次搞定 EID 支援與頻段問題。對安裝本身沒把握？[eSIM 設定檔如何安裝](/faq/what-is-esim-activation-and-how-does-it-work/) 帶你走一遍。
+
+### 在 Telcel、AT&T 與 Movistar 上排障啟用
+
+按順序處理上述四種墨西哥特有模式：鎖定狀態、網路選擇、APN 與數據線路，然後是設定檔重裝；如果仍然失敗，[eSIM 疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/) 的更完整錯誤目錄涵蓋其餘情況。聯繫客服前，先備妥你的 EID、訂單編號與身分登記確認。
+
+### 墨西哥的業者陣容
+
+可以，而且是合理的配置。讓原門號留在實體 SIM 上繼續接聽來電與驗證碼，讓 eSIM 承載數據。在設定的行動數據中選擇 eSIM，原門號專責通話。兩個警告：關掉原門號卡的漫遊以避免背景費用，並注意純數據設定檔收不了簡訊，銀行驗證碼仍會送到你平用的門號。
+
+### 修復失敗的墨西哥 eSIM 啟用
+
+依官方規定，Movistar 要求 eSIM 必須在其自身原生覆蓋下安裝——不是它向 Telcel 購買的延伸覆蓋——且你綁定護照或本地證件前線路保持未啟用。這道綁定與原生覆蓋檢查，就是設定檔在國外無法完成安裝的原因。請計畫落地後在墨西哥的 Wi-Fi 上安裝，而不是出發前。
+
+### eSIM 在造訪墨西哥的手機裡實際做什麼？
+
+把它想成手機內建的一顆晶片，儲存電信設定檔，完全取代可抽換的卡片。流程很簡單：業者傳送設定檔，手機把它存進那顆內部晶片，線路就跟平常一樣運作。好奇 SM-DP+ 伺服器，或為什麼那組碼只能用一次？[eSIM 啟用機制](/faq/what-is-esim-activation-and-how-does-it-work/) 解釋兩者。
+
+### 哪家墨西哥業者符合你的行程？
+
+AT&T Mexico——因為它的 AT&T Go 預付 eSIM 在同一方案內含墨西哥與美國的無限通話和簡訊，而該業者的北美漫遊是它相對 Telcel 與 Movistar 最清楚的優勢。如果行程更長，或你想完全避開墨西哥的登記流程，一張兩側邊境都涵蓋的 [北美 eSIM](/north-america-esim/) 是更乾淨的選擇。
+
+還有疑問？[查看完整 FAQ →](/faq/)
+
+## 本墨西哥 eSIM 指南的參考來源
+
+- 每個業者層級數字都取自 **Ookla Speedtest Connectivity Report——墨西哥，2025 年 7 月至 12 月**——[各業者報告](https://www.ookla.com/research/reports/mexico-speedtest-connectivity-report-h2-2025) 記載了 Telcel 的 73.1 Connectivity 得分、64.11 速度得分與 90.5% 一致性，以及 AT&T、Movistar 與 ALTRAN Redes 的數字。
+- 2026 年 8 月全國行動下載中位數 46.39 Mbps 與全球排名來自 **Ookla Speedtest Global Index**——[墨西哥條目](https://www.speedtest.net/global-index/mexico)，每月更新。
+- 裝置解鎖規定與身分登記框架由 **Instituto Federal de Telecomunicaciones (IFT)** 制定——[國家主管機關](https://www.ift.org.mx/)。
+- 僅限 App 的 eSIM 套餐與其 MXN 價格公布於 **AT&T Mexico**——[AT&T Go 預付 eSIM 頁面](https://www.att.com.mx/planes/prepago/att-go)。
+- 墨西哥每 GB 價格取自 **Cable.co.uk 全球數據定價**——[完整國家表格](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)。每個來源都標有原始日期——新舊程度請自行判斷。
+
+僅為第三方測量結果。實際結果取決於你的裝置、當下頻段，以及最近基地台的壅塞狀況。
+
+## 起飛前辦好墨西哥 eSIM
+
+跳過登記排隊。Roami 的墨西哥 eSIM 在你旅行的每個角落於 Telcel、AT&T 與 Movistar 之間自動切換。先用 [免費墨西哥試用 eSIM](/free-esim/) 試試各網路，再以優惠碼 **WEB20** 在 [墨西哥 eSIM 方案](/mexico-esim/) 省 20%。
+
+[取得墨西哥 eSIM](/mexico-esim/)
+
+*每位旅客限用一次*
+
+[免費試用墨西哥網路](/free-esim/)

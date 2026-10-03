@@ -124,12 +124,6 @@ denmark:
   btn_text: "Nhà mạng Đan Mạch"
   btn_url: "/carriers/denmark-esim-carrier-guide/"
 
-dominican:
-  title: "Hướng dẫn nhà mạng eSIM Dominica"
-  desc_html: "Các nhà mạng tại Dominica: Claro, Altice, Viva. Bảng so sánh tính năng eSIM."
-  btn_text: "Nhà mạng Dominica"
-  btn_url: "/carriers/dominican-esim-carrier-guide/"
-
 dominican-republic:
   title: "Hướng dẫn nhà mạng eSIM Cộng hòa Dominica"
   desc_html: "Các nhà mạng phổ biến tại Cộng hòa Dominica: Claro, Altice, Viva. Xem nhanh vùng phủ eSIM và hỗ trợ điểm phát sóng."

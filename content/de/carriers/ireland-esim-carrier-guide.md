@@ -1,10 +1,9 @@
 ---
-title: "Beste Irland eSIM Tarife für Reisende 2026."
-description: "Roamis Irland eSIM Guide bewertet 3, Vodafone und Eir. Finden Sie heraus, welcher Carrier in Irland das schnellste 5G und die beste Abdeckung hat."
-date: "2026-06-17T06:04:19+00:00"
-
-keywords: eSIM Irland, Prepaid Daten, 5G Netz, 3 Irland, Vodafone Irland, Eir Irland,
-  Roami eSIM, digitale Nomaden Irland
+title: "Welche Irland eSIM passt zu Three, Vodafone und Eir?"
+description: "Irland eSIM im Test: Three, Vodafone und Eir nach Ookla-Messwerten – Netzabdeckung, Wild Atlantic Way und Preise für Touristen."
+image: "img/esim/carriers/ireland-esim-carrier-guide.jpg"
+date: "2026-09-25T00:37:08+00:00"
+keywords: Irland eSIM-Netzbetreiber, Irland eSIM-Anbieter, Three eSIM, Vodafone eSIM, Eir eSIM, Irland 5G-Netzabdeckung, Irland eSIM APN, eSIM Irland Prepaid, bester eSIM-Netzbetreiber Irland, Irland Reise-eSIM, Roaming Nordirland
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -12,368 +11,386 @@ breadcrumb_items:
   url: /
 - name: Irland eSIM-Guide
   url: ''
-hero_badge: 🇮🇪 Irland Reise-eSIM Aktueller Guide
-hero_subtitle_main: 'Irland eSIM: Erleben Sie blitzschnelle 5G-Geschwindigkeiten'
-hero_subtitle_highlight: Premium 5G-Netzabdeckung durch 3, Vodafone und Eir
-hero_description_line1: Kein Wechsel des SIM-Kartensteckplatzes erforderlich. Die
-  digitale Aktivierung der Irland eSIM bietet eine bequemere Möglichkeit, eine stabile
-  High-Speed-Verbindung in Irland aufrechtzuerhalten.
-hero_description_line2: Verbinden Sie sich in Sekundenschnelle und genießen Sie unbegrenztes
-  Surfen.
-hero_link_text: Irland eSIM
-hero_link_url: /ireland-esim/
-tldr_summary: 'Erste Wahl für digitale Nomaden: Nahtloses grenzüberschreitendes 5G-Netzwerk
-  für kontinuierliche Reisen durch mehrere Länder. Laut [Ookla Speedtest Connectivity
-  Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)
-  erreicht der führende Anbieter 3 in Irland eine mediane 5G-Downloadrate von 139,87
-  Mbps und eine Gesamt-Downloadrate von 82,44 Mbps. Mit Roami eSIM profitieren Sie
-  von dieser Spitzenleistung, ohne sich um Roaming-Gebühren oder komplizierte Verträge
-  kümmern zu müssen. Ideal für digitale Nomaden, die in Dublin, Limerick oder Cork
-  zuverlässig arbeiten möchten.'
-sidebar_more_hint: Wischen, um mehr zu sehen
-sidebar_title: Irland eSIM Schnelle Links
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Kurzauswahl: Welchen Irland eSIM-Anbieter sollten Sie wählen?'
-- href: '#operators'
-  text: Top Irland eSIM-Mobilfunkanbieter im Test
-- href: '#city-guide'
-  text: 'Städte-Guide: Die beste eSIM für Irland'
-- href: '#before-buy'
-  text: Dinge, die Sie vor dem Kauf einer Irland eSIM wissen müssen
-- href: '#faq'
-  text: Häufig gestellte Fragen zur Irland eSIM
-- href: '#myths'
-  text: Mythen und Fakten über die Irland eSIM
-- href: '#data-sources'
-  text: Datenquellen
-quick_picks_title: 'Kurzauswahl: Welchen Irland eSIM-Anbieter sollten Sie wählen?'
-quick_picks_table_headers:
-- Ihr Reisestil
-- Empfohlener Anbieter
-- Netzwerkdatenleistung
-quick_picks_note_prefix: 'Datenquelle: '
-quick_picks_note_carrier: '[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Digitale Nomaden
-  carrier: 3 (Drei)
-  carrier_class: text-orange-600
-  reason: Bietet die höchste 5G-Downloadrate (139,87 Mbps) und die beste Gesamtleistung.
-    Ideal für datenintensive Arbeiten wie Videokonferenzen und große Uploads.
-- travel: Städtereisende & Touristen
-  carrier: Vodafone
-  carrier_class: text-red-600
-  reason: Hervorragende Abdeckung in städtischen Gebieten und auf dem Land. Stabile
-    5G-Geschwindigkeiten (81,5 Mbps) und zuverlässige Verbindung.
-- travel: Gamer & Streaming-Fans
-  carrier: Eir (Festnetz) / 3 (Mobil)
-  carrier_class: text-blue-600
-  reason: Eir Fibre bietet die beste Gaming-Erfahrung im Festnetz, während 3 die beste
-    5G-Gaming-Erfahrung liefert. Perfekt für unterwegs.
-- travel: Preisbewusste Reisende
-  carrier: Eir (Mobil)
-  carrier_class: text-green-600
-  reason: Gute 5G-Verfügbarkeit (82,6%) und solide Geschwindigkeiten (52,85 Mbps)
-    zu oft günstigeren Preisen als die Konkurrenz.
-cta_button_main_text: Die kostengünstigste Irland Reise-eSIM ansehen
-cta_button_sub_text: Automatischer Netzwerkwechsel, unterstützt automatischen Prepaid-Daten-Preisvergleich
-operator_labels:
-  best_for: 'Am besten für:'
-  core_data: 'Kerndaten:'
-  connect_note_label: 'eSIM-Verbindungshinweis:'
-operators:
-- id: 3-esim
-  title: '3 (Drei) eSIM Test: Spitzenreiter in Geschwindigkeit und 5G'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für alle, die maximale 5G-Geschwindigkeit
-    und beste Netzleistung benötigen. Ideal für digitale Nomaden und Vielnutzer.
-  core_data: '- **5G-Downloadrate (Median)**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)
-    beträgt die mediane 5G-Downloadrate 139,87 Mbps.
-
-    - **Gesamt-Downloadrate (Median)**: 82,44 Mbps.
-
-    - **5G-Uploadrate (Median)**: 12,87 Mbps.
-
-    - **Latenz (5G)**: 36 ms.
-
-    - **Speedtest Connectivity Score**: 74,84 (Gesamt), 68,23 (5G).
-
-    - **5G-Konsistenz**: 71,9% der Proben erreichen mindestens 25 Mbps Down- und 3
-    Mbps Upload.'
-  arcep_note: Bestätigt durch die irische Regulierungsbehörde ComReg und unabhängige
-    Tests von [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025).
-    3 führt in den meisten Leistungskennzahlen.
-  connect_note: Die Aktivierung verläuft nahtlos über die Roami-App. Nach QR-Code-Scan
-    ist das Profil sofort einsatzbereit. 3 bietet die beste 5G-Abdeckung in Städten
-    wie Dublin, Cork und Limerick.
-  user_scenarios: '- **Dublin City Centre**: Surfen Sie mit 5G-Geschwindigkeit durch
-    die belebte Grafton Street. Laden Sie Reiseführer in Sekunden herunter.
-
-    - **Limerick**: Genießen Sie die schnellste mobile Downloadrate Irlands (128,48
-    Mbps) – perfekt für Remote Work.
-
-    - **Cliffs of Moher**: Auch in abgelegenen Touristenattraktionen bleibt die Verbindung
-    stabil, dank des starken 3-Netzes.'
-  bg_color: bg-orange-50
-- id: vodafone-esim
-  title: 'Vodafone eSIM Test: Beste Abdeckung auf dem Land'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für Reisende, die auch in ländlichen
-    Regionen Irlands zuverlässig verbunden sein möchten.
-  core_data: '- **5G-Downloadrate (Median)**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)
-    beträgt die mediane 5G-Downloadrate 81,5 Mbps.
-
-    - **Gesamt-Downloadrate (Median)**: 52,85 Mbps (Platz 2).
-
-    - **5G-Uploadrate (Median)**: 12,87 Mbps.
-
-    - **Latenz (5G)**: 36 ms.
-
-    - **Speedtest Connectivity Score**: 74,84 (Gesamt), 68,23 (5G).
-
-    - **5G-Konsistenz**: 71,9% der Proben erreichen mindestens 25 Mbps Down- und 3
-    Mbps Upload.'
-  arcep_note: Bestätigt durch die irische Regulierungsbehörde ComReg und unabhängige
-    Tests von [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025).
-    Vodafone hat eine der größten Netzabdeckungen.
-  connect_note: Die Aktivierung verläuft nahtlos über die Roami-App. Nach QR-Code-Scan
-    ist das Profil sofort einsatzbereit. Vodafone bietet eine hervorragende Abdeckung
-    entlang der Wild Atlantic Way.
-  user_scenarios: '- **Wild Atlantic Way**: Navigieren Sie zuverlässig entlang der
-    malerischen Küstenstraße. Teilen Sie Fotos von den Klippen in Echtzeit.
-
-    - **Connemara Nationalpark**: Bleiben Sie auch in abgelegenen Gebieten in Verbindung
-    – ideal für Notfälle und Social Media.
-
-    - **Dublin Airport**: Direkt nach der Landung sofort online – keine Wartezeiten,
-    kein SIM-Karten-Wechsel.'
-  bg_color: bg-red-50
-- id: eir-esim
-  title: 'Eir eSIM Test: Beste 5G-Verfügbarkeit und Gaming-Erlebnis'
-  best_for: Dieser Tarif ist die absolute Spitzenwahl für preisbewusste Nutzer und
-    Gamer, die eine hohe 5G-Verfügbarkeit schätzen.
-  core_data: '- **5G-Verfügbarkeit**: Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)
-    beträgt die 5G-Verfügbarkeit 82,6%.
-
-    - **Gesamt-Downloadrate (Median)**: 52,85 Mbps.
-
-    - **5G-Downloadrate (Median)**: 81,5 Mbps.
-
-    - **5G-Gaming Score**: 91,37 (Beste 5G-Gaming-Erfahrung).
-
-    - **Speedtest Connectivity Score**: 74,84 (Gesamt), 68,23 (5G).
-
-    - **5G-Konsistenz**: 71,9% der Proben erreichen mindestens 25 Mbps Down- und 3
-    Mbps Upload.'
-  arcep_note: Bestätigt durch die irische Regulierungsbehörde ComReg und unabhängige
-    Tests von [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025).
-    Eir bietet die beste 5G-Verfügbarkeit im Land.
-  connect_note: Die Aktivierung verläuft nahtlos über die Roami-App. Nach QR-Code-Scan
-    ist das Profil sofort einsatzbereit. Eir eignet sich besonders für Städtereisende,
-    die viel streamen und spielen.
-  user_scenarios: '- **Dublin**: Spielen Sie unterwegs Online-Spiele mit minimaler
-    Latenz. Ideal für Pendler in der DART.
-
-    - **Cork**: Streamen Sie Musik und Videos in hoher Qualität, ohne Unterbrechungen.
-
-    - **Galway**: Nutzen Sie die hohe 5G-Verfügbarkeit für Videoanrufe mit der Familie.'
-  bg_color: bg-blue-50
-cards_compatibility_title: Prüfen Sie die Irland eSIM Kompatibilitätsliste
-cards_compatibility_desc: Prüfen Sie, ob Ihr Telefon Irland eSIM und lokale 5G-Bänder
-  unterstützt
-cards_free_title: Holen Sie sich Ihre kostenlose Irland eSIM
-cards_free_desc: Begrenzte kostenlose Test-eSIM, erleben Sie das lokale 5G-Highspeed-Netzwerk
-  ohne Roaming-Kosten
-cards_free_badge: KOSTENLOS
-cards_app_title: Roami App herunterladen & 20% Rabatt auf eSIM erhalten
-cards_app_desc: 'Rabattcode: <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | One-Tap-eSIM-Verwaltung'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Dinge, die Sie vor dem Kauf einer Irland eSIM wissen müssen
-before_buy_sections:
-- heading: 1. Wichtige 5G/4G-Frequenzbänder in Irland
-  content: Irland nutzt für 5G hauptsächlich die Bänder n78 (3500 MHz) und n1 (2100
-    MHz). Für 4G/LTE sind die Bänder 3 (1800 MHz), 7 (2600 MHz) und 20 (800 MHz) entscheidend.
-    Stellen Sie sicher, dass Ihr Smartphone diese Bänder unterstützt, um die beste
-    Abdeckung zu erhalten. Die Roami eSIM ist mit allen gängigen Geräten kompatibel.
-- heading: 2. Registrierungspflicht (KYC) für eSIM in Irland
-  content: In Irland ist für den Kauf einer eSIM eine Identitätsprüfung (Know Your
-    Customer – KYC) erforderlich. Sie müssen bei der Aktivierung Ihren Reisepass oder
-    Personalausweis vorlegen. Roami erfüllt alle gesetzlichen Anforderungen und gewährleistet
-    einen schnellen und sicheren Verifizierungsprozess.
-- heading: 3. Fair-Use-Policy (FUP) und Drosselung
-  content: Die meisten irischen Anbieter, einschließlich der von Roami genutzten Netze,
-    haben eine Fair-Use-Policy. Nach Überschreiten eines bestimmten Datenvolumens
-    (z. B. 20 GB pro Tag) kann die Geschwindigkeit gedrosselt werden. Lesen Sie die
-    Tarifdetails vor dem Kauf sorgfältig. Roami bietet transparente Tarife ohne versteckte
-    Drosselung.
-- heading: '4. Netzabdeckung: Stadt vs. Land'
-  content: Während die 5G-Abdeckung in Städten wie Dublin, Cork und Limerick hervorragend
-    ist, kann sie in ländlichen Gebieten wie dem County Mayo oder Donegal eingeschränkt
-    sein. Für Reisen aufs Land empfiehlt sich ein Anbieter mit guter 4G-Abdeckung,
-    wie Vodafone. Roami nutzt das jeweils beste verfügbare Netz.
-- heading: 5. Kompatibilität mit Ihrem Smartphone
-  content: Nicht alle Smartphones unterstützen eSIM. Überprüfen Sie vor der Reise,
-    ob Ihr Gerät eSIM-fähig ist (z. B. iPhone XS oder neuer, Google Pixel 3 oder neuer,
-    Samsung Galaxy S20 oder neuer). Roami bietet eine Kompatibilitätsprüfung auf der
-    Website an.
-city_guide_title: 'Städte-Guide: Die beste eSIM für Irland'
-city_guide_desc: Finden Sie heraus, welche Irland eSIM für Ihre Zielstadt die beste
-  Wahl ist. Basierend auf den neuesten Speedtest-Daten von [Ookla Speedtest Connectivity
-  Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025).
-city_table_headers:
-- Stadt
-- Empfohlener eSIM-Anbieter
-- Grund / Eigenschaften
-city_recommendations:
-- city: Dublin
-  carriers: 3 (Drei)
-  reason: Dublin ist das wirtschaftliche Zentrum Irlands. 3 bietet hier die höchsten
-    5G-Geschwindigkeiten (139,87 Mbps) und die beste Netzstabilität. Ideal für Geschäftsreisende
-    und digitale Nomaden, die in Cafés oder Coworking-Spaces arbeiten.
-- city: Limerick
-  carriers: 3 (Drei)
-  reason: Limerick ist die Stadt mit der schnellsten mobilen Downloadrate Irlands
-    (128,48 Mbps). 3 ist hier die erste Wahl für alle, die maximale Geschwindigkeit
-    benötigen. Perfekt für Studenten und Technikbegeisterte.
-- city: Cork
-  carriers: Vodafone
-  reason: Cork ist eine wichtige Hafenstadt mit guter Anbindung an ländliche Gebiete.
-    Vodafone bietet hier eine hervorragende Abdeckung, die auch in den umliegenden
-    Dörfern zuverlässig ist. Ideal für Reisende, die die Region erkunden möchten.
-- city: Galway
-  carriers: Eir
-  reason: Galway ist das Tor zum Westen Irlands. Eir bietet hier eine hohe 5G-Verfügbarkeit
-    (82,6%) und ist ideal für Touristen, die die Stadt und die nahegelegenen Sehenswürdigkeiten
-    wie die Cliffs of Moher besuchen.
-- city: Lucan
-  carriers: Virgin Media (Festnetz) / 3 (Mobil)
-  reason: Lucan hat die schnellste feste Internetgeschwindigkeit Irlands (292,8 Mbps).
-    Für mobile Nutzung ist 3 die beste Wahl. Ideal für Einwohner und Langzeitreisende,
-    die eine Kombination aus schnellem Festnetz und mobilem Internet benötigen.
-city_guide_tip: '💡 Tipp: Wenn Sie die Multi-Netzwerk-eSIM von Roami nutzen, wechselt
-  Ihr Telefon automatisch zum besten lokalen Anbieter – keine manuelle Auswahl erforderlich.'
-scene_guide_title: 🎯 Wählen Sie die beste Irland eSIM basierend auf Ihrem Reiseszenario
-scene_items:
-- icon: 🏛️
-  title: Stadtentdecker
-  text: Erkunden Sie Dublin, Cork und Limerick mit maximaler 5G-Geschwindigkeit. Nutzen
-    Sie Augmented-Reality-Apps für historische Touren oder streamen Sie Live-Videos
-    von der St. Patrick's Cathedral. Mit Roami eSIM bleiben Sie immer online.
-- icon: 🏞️
-  title: Naturliebhaber
-  text: Wandern Sie durch den Killarney-Nationalpark oder den Connemara-Nationalpark.
-    Auch in abgelegenen Gebieten bietet Vodafone eine zuverlässige 4G-Abdeckung. Teilen
-    Sie Ihre Abenteuer sofort auf Social Media.
-- icon: 🚗
-  title: Roadtripper
-  text: Bereisen Sie den Wild Atlantic Way oder die Ring of Kerry. Mit der Roami eSIM
-    haben Sie jederzeit Zugang zu Navigationsdiensten und können Unterkünfte spontan
-    buchen. 3 bietet die beste Geschwindigkeit entlang der Hauptverkehrsadern.
-- icon: 🏖️
-  title: Strandurlauber
-  text: Entspannen Sie an den Stränden von Inchydoney oder Ballybunion. Streamen Sie
-    Musik und Filme in hoher Qualität. Eir bietet eine hervorragende 5G-Verfügbarkeit
-    in Küstenstädten. Perfekt für einen entspannten Tag am Meer.
-scene_guide_footer: 💡 Die Roami Irland eSIM Multi-Netzwerk-Edition erkennt Ihr Szenario
-  automatisch und wechselt in das beste Netzwerk – keine manuelle Einrichtung erforderlich.
-faq_title: Häufig gestellte Fragen zur Irland eSIM
-faq_prefix: F
-faq_suffix: ': '
-faq_more_link_text: Weitere Fragen? Komplette FAQ ansehen →
-faq_more_link_url: /faq/
-faq:
-- q: In welchen Sprachen ist der Kundenservice für die Irland eSIM verfügbar und wie
-    lange ist die Reaktionszeit?
-  a: Der Kundenservice von Roami ist in Deutsch, Englisch, Französisch und Spanisch
-    verfügbar. Die durchschnittliche Reaktionszeit beträgt weniger als 5 Minuten im
-    Live-Chat und maximal 2 Stunden bei E-Mail-Anfragen. Unser Support-Team ist 24/7
-    erreichbar, um Ihnen bei Fragen zur Aktivierung oder Nutzung Ihrer Irland eSIM
-    zu helfen.
-- q: Gibt es bei der Hotspot-Freigabe der Irland eSIM ein Limit für die Anzahl der
-    verbundenen Geräte?
-  a: Nein, bei Roami gibt es kein festes Limit für die Anzahl der Geräte, die Sie
-    über den Hotspot verbinden können. Sie können Ihr Smartphone als mobilen WLAN-Hotspot
-    nutzen und mehrere Geräte wie Laptop, Tablet oder ein zweites Handy gleichzeitig
-    verbinden. Beachten Sie jedoch, dass die Geschwindigkeit mit der Anzahl der verbundenen
-    Geräte abnehmen kann. Die Fair-Use-Policy des jeweiligen Netzbetreibers gilt weiterhin.
-- q: Unterstützt die eSIM in Irland flächendeckend 4G- und 5G-Netzwerke?
-  a: Ja, die Roami eSIM unterstützt sowohl 4G/LTE als auch 5G in Irland. Die tatsächliche
-    Verfügbarkeit hängt vom gewählten Netzbetreiber ab. 3 bietet die beste 5G-Abdeckung
-    in Städten, während Vodafone eine hervorragende 4G-Abdeckung auf dem Land bietet.
-    Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)
-    erreicht 3 eine mediane 5G-Downloadrate von 139,87 Mbps. In ländlichen Gebieten
-    kann die 5G-Abdeckung eingeschränkt sein, aber 4G ist fast überall verfügbar.
-- q: Kann ich die Irland eSIM nach dem Löschen von meinem Gerät erneut installieren?
-  a: Ja, Sie können die Irland eSIM nach dem Löschen erneut installieren, sofern Sie
-    den ursprünglichen QR-Code oder die Aktivierungsdaten noch haben. Wir empfehlen,
-    den QR-Code als Screenshot oder in einer Cloud zu speichern. Bei Verlust können
-    Sie sich an den Roami-Kundenservice wenden, der Ihnen einen neuen QR-Code ausstellen
-    kann. Die eSIM ist für die einmalige Installation auf einem Gerät ausgelegt, kann
-    aber bei Bedarf auf ein neues Gerät übertragen werden.
-- q: Wie genau aktiviere ich das Roami eSIM-Profil direkt nach der Ankunft am Flughafen
-    in Irland?
-  a: 'Die Aktivierung ist denkbar einfach: 1. Stellen Sie sicher, dass Ihr Smartphone
-    mit dem Internet verbunden ist (z. B. über Flughafen-WLAN). 2. Öffnen Sie die
-    Roami-App oder die E-Mail mit Ihrem QR-Code. 3. Gehen Sie zu den Einstellungen
-    Ihres Smartphones und wählen Sie ''Mobiles Netzwerk'' > ''eSIM hinzufügen''. 4.
-    Scannen Sie den QR-Code. 5. Folgen Sie den Anweisungen auf dem Bildschirm. Nach
-    wenigen Minuten ist Ihre Irland eSIM aktiv und Sie können sofort surfen. Bei Problemen
-    hilft der 24/7-Kundenservice.'
-myths_title: ⚠️ Häufige Mythen und Fakten über die Irland eSIM
-myth_label: '❌ Mythos: '
-truth_label: '✅ Fakt: '
-myths:
-- myth: Irland hat nur in Dublin gutes Internet.
-  truth: Falsch. Während Dublin die höchsten Geschwindigkeiten bietet, haben auch
-    Limerick (128,48 Mbps mobil) und Lucan (292,8 Mbps fest) Spitzenwerte. Die 5G-Abdeckung
-    von 3 und Eir erstreckt sich über viele Städte und Gemeinden.
-- myth: eSIMs sind in Irland teurer als physische SIM-Karten.
-  truth: Nicht unbedingt. Roami bietet wettbewerbsfähige Preise, oft günstiger als
-    Roaming-Tarife deutscher Anbieter. Zudem entfallen Aktivierungsgebühren und Sie
-    sparen Zeit, da Sie keine lokale SIM kaufen müssen.
-- myth: 5G ist in Irland nur für Einheimische verfügbar.
-  truth: Nein. Jeder Besucher mit einem eSIM-fähigen Gerät und einem Roami-Tarif kann
-    das 5G-Netz nutzen. Die Netze von 3, Vodafone und Eir stehen allen Kunden offen.
-- myth: Man braucht in Irland unbedingt eine physische SIM für ländliche Gebiete.
-  truth: Nein. Die Roami eSIM nutzt das beste verfügbare Netz (z. B. Vodafone), das
-    auch in ländlichen Gebieten eine gute 4G-Abdeckung bietet. In den meisten Fällen
-    ist die eSIM genauso zuverlässig wie eine physische SIM.
-- myth: Die Internetgeschwindigkeit in Irland ist generell langsam.
-  truth: Das Gegenteil ist der Fall. Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)
-    erreicht der Spitzenreiter 3 eine mediane 5G-Downloadrate von 139,87 Mbps. Irland
-    gehört zu den führenden Ländern in Europa in Bezug auf 5G-Geschwindigkeit.
-data_sources_title: Datenquellen Irland Mobilfunknetze
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Ookla Speedtest: [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025)'
-  description: Offizieller Bericht über die Netzwerkleistung in Irland für das 2.
-    Halbjahr 2025. Enthält Daten zu 5G-Geschwindigkeiten, Abdeckung und Konsistenz
-    der Anbieter 3, Vodafone und Eir.
-- name: OpenSignal 2025
-  description: Unabhängiger Bericht über die mobile Netzwerkerfahrung in Irland. Analysiert
-    5G-Verfügbarkeit, Video-Streaming und Latenz für die wichtigsten Anbieter.
-- name: ComReg (Commission for Communications Regulation) 2025
-  description: Die irische Regulierungsbehörde veröffentlicht regelmäßig Berichte
-    zur Netzabdeckung und Servicequalität. Bestätigt die führende Rolle von 3 in den
-    meisten Leistungskennzahlen.
-data_sources_footer: Alle oben zitierten Netzleistungsdaten stammen aus öffentlich
-  zugänglichen Berichten Dritter (Ookla, OpenSignal, ComReg) und können je nach Standort,
-  Gerät und Netzauslastung variieren. Roami übernimmt keine Garantie für die dauerhafte
-  Verfügbarkeit der genannten Geschwindigkeiten.
-data_sources_note: Netzwerkgeschwindigkeiten und Abdeckung können variieren. Die tatsächliche
-  Leistung hängt von Ihrem Standort, der Netzauslastung und Ihrem Gerät ab. Roami
-  bemüht sich, stets das beste verfügbare Netz zu nutzen.
-cta_title: Sichern Sie sich Ihre Irland eSIM noch heute
-cta_desc: Erhalten Sie sofortigen Zugang zu Irlands schnellstem 5G-Netz. Keine versteckten
-  Kosten, keine Roaming-Gebühren. Ideal für digitale Nomaden, Touristen und Geschäftsreisende.
-cta_button_text: Jetzt Irland eSIM kaufen
-cta_button_link: /ireland-esim/
-cta_free_trial_note: Exklusiv für Neukunden
-cta_free_trial_text: Kostenlose Irland Test-eSIM
-cta_free_trial_link: /free-esim/
+hero_badge: "Welchen irischen Netzbetreiber sollten Sie wählen?"
+hero_subtitle_main: "Irlandoasen ohne Marketing-Glanz"
 ---
+
+
+Die Wahl einer irischen eSIM hängt von den Straßen ab, die Sie tatsächlich befahren werden – dieser Leitfaden zeigt, welches der drei Netze wo gewinnt. Die drei irischen Netze tauschen Siege je nach Kennzahl und County aus. Laut Ooklas Irland-Bericht 2. Halbjahr 2025 wurde Three als Bestes Mobilfunknetz mit einem Speedtest Connectivity Score von 74,84 ausgezeichnet, Vodafone erreichte den höchsten Consistency Score mit 83,5, und Eir führte bei der 5G-Verfügbarkeit mit 82,6 Prozent. Wählen Sie nach den Straßen, die Sie tatsächlich fahren werden, nicht nach dem Titel der Schlagzeile.
+
+**Kurze Antwort:** Die meisten Reisenden in Irland werden mit Three am glücklichsten; Vodafone ist sinnvoll bei kleinerem Budget und reinen Städtereisen. Beginnen Sie mit dem [Kompatibilitätscheck](/compatibility/): der eine Schritt, den Irland-Reisende auslassen und später dafür bezahlen.
+
+Zunächst stehen Geräteunterstützung und Installationsablauf an – die Vergleiche können warten, bis diese geklärt sind. Die [Gerätekompatibilitätsliste](/compatibility/) beantwortet das Erste, und [eSIM-Aktivierung erklärt](/faq/what-is-esim-activation-and-how-does-it-work/) das Zweite – alles unten bezieht sich auf die Netzbetreiber selbst.
+
+**Die 30-Sekunden-Version:** Bleiben Sie in Dublin, Cork oder Galway? Three ist das schnellste Netz des Landes, mit einem mittleren Download von 82,44 Mbit/s und einem mittleren 5G-Download von 139,87 Mbit/s. Streamen Sie viel Video oder spielen Sie? Three gewinnt beim Gaming-Score mit 89,04 und bei Video mit 83,7. Fahren Sie den Wild Atlantic Way, Connemara oder Donegal? Vodafone und Eir reichen auf den ländlichen Low Bands am weitesten, und Eir führt bei der 5G-Verfügbarkeit mit 82,6 Prozent. Möchten Sie als Besucher direkt bei einem irischen Netzbetreiber kaufen? Alle drei verkaufen eine Touristen-eSIM online ohne Ladenbesuch und, anders als in den meisten Ländern, ganz ohne Ausweisdokument. Oder überspringen Sie den Papierkram: [kostenlose Multi-Netz-Test-eSIM](/free-esim/) testet die Netze kostenlos, und der Code **WEB20** bringt 20 % Rabatt auf [irische Prepaid-eSIM-Tarife](/ireland-esim/).
+
+## Mit welchen Netzbetreibern verbindet sich Ihre eSIM?
+
+### Wie schneiden die drei Netze im Direktvergleich ab?
+
+| | Three | Vodafone | Eir |
+|:---|:---|:---|:---|
+| Prepaid-TouristeneSIM für Besucher | Ja — Visit Ireland, sofortige eSIM, aber nur Republik Irland | Ja — Daten unbegrenzt 5G, sofortige eSIM | Ja — Touristen-eSIM, online über IMEI aktiviert |
+| Bester gemessener Empfang im Ookla H2 2025 | Beste Gesamtverbindung mit 74,84; schnellster Speed-Score mit 60,22 | Höchste Konstanz mit 83,5; stärkstes Video mit 83,47 | Höchste 5G-Verfügbarkeit mit 82,6; bestes Gaming mit 86,33 |
+| Günstigste Prepaid-Touristenoption | Visit Ireland: 5 GB für 7 Tage zum Preis von 15 Euro | Data Unlimited 5G: 20 Euro alle 28 Tage | Tourist eSIM: unbegrenzt für 20 Euro alle 28 Tage |
+| Als Besucher erhalten | ★★★ — online kaufen, kein Shop, kein Ausweisdokument | ★★★ — online kaufen, kein Shop, kein Ausweisdokument | ★★★ — online per IMEI kaufen, kein Shop, kein Ausweisdokument |
+
+**Lesen Sie diese Tabelle sorgfältig durch, denn sie enthält die mit Abstand nützlichste Information auf dieser Seite:** Alle drei nationalen Netzbetreiber verkaufen inzwischen eine Prepaid-Touristen-eSIM, die Besucher vor dem Flug online kaufen können – ohne Ladenbesuch und ohne Reisepass. Das ist ungewöhnlich. In vielen Ländern werden Touristen auf eine physische SIM-Karte oder eine Reise-eSIM gedrängt, doch in Irland konkurrieren die drei Netze direkt um Laufkundschaft mit app-basierten eSIMs.
+
+### Welche Discountmarken verkaufen eSIMs an Besucher
+
+Bei Irlands günstigeren Marken wird das eSIM-Bild interessant, denn nicht alle von ihnen geben überhaupt eine digitale SIM-Karte aus.
+
+| Marke | Mutter-Netz | eSIM für Besucher | Für wen geeignet | Preis |
+|:---|:---|:---|:---|:---|
+| 48 | Three | Nein – versendet eine physische SIM-Karte zu seinen Standardtarifen | Längere Aufenthalte, die günstiges Three unbegrenztes Datenvolumen suchen | Ab 10,99 Euro pro Monat |
+| GoMo | Eir | Ja — nur über die App, monatlich kündbar | Für Aufenthalte über einen Monat, die ein günstiges Eir-Unlimited-Angebot suchen | 12,99 Euro pro Monat |
+| Tesco Mobile | Three | Nein — nur Plastik-SIM | Käufer, die eine Three-SIM von Tesco möchten | 15 Euro, 12-monatige Laufzeit |
+| Lycamobile | Eir | Ja — 28-Tage-Prepaid, eSIM wird bei der Bestellung ausgestellt | Für Anrufer, die günstige Eir-Minuten und SMS wünschen | 12,99 Euro pro 28 Tage |
+
+Zwei Hinweise. Erstens: Three und Tesco Mobile sind die Ausnahmen: Beide nutzen das Three-Netz, versenden jedoch eine physische SIM-Karte, sodass ein Telefon ohne SIM-Fach, etwa ein US-iPhone 14 oder neuer, sie nicht nutzen kann. Zweitens: GoMo und Lycamobile sind Monats- bzw. 28-Tage-Produkte und keine Sieben-Tage-Touristentarife, weshalb sie sich eher für einen längeren Aufenthalt als für ein langes Wochenende eignen. Wo der Netzbetreiber punktet, sind Langlebigkeit und eine echte irische Nummer; wo die günstige Marke punktet, ist der Preis auf denselben Masten.
+
+### Kann man eine Irland-eSIM von Three kaufen?
+
+| | Direkt von einem irischen Netzbetreiber | Reise-eSIM in einem irischen Netz |
+|:---|:---|:---|
+| Was Sie benötigen | Ein kompatibles entsperrtes Telefon; eine Karte oder E-Mail-Adresse für die Online-Bezahlung | Ein kompatibles entsperrtes Telefon |
+| So erhalten Sie Ihr Profil | eSIM-Download oder QR-Code nach dem Aufladen | QR-Code oder App-Installation sofort nach dem Kauf |
+| Typische Kosten | 15 bis 25 Euro für einen Prepaid-Tarif für Touristen | Ein einmaliger Preis im Voraus, keine SIM-Gebühr |
+| Netzzugang | Ein einzelnes Netz wie Three, Vodafone oder Eir | Automatischer Wechsel zwischen Three, Vodafone und Eir |
+| Identitätsregel | Kein Gesetz verlangt Dokumente; Verkaufsautomaten und Geschäfte verkaufen ohne | Überhaupt kein Dokument |
+| Ideal für | Aufenthalte über einen Monat oder alle, die eine lokale Rufnummer benötigen | Reisen von Tagen bis Wochen sowie alle, die direkt nach der Landung online sein möchten |
+
+Für einen gewöhnlichen Urlaub zeigen die Summen in eine Richtung. Ein lokaler Prepaid-Tarif wird in Euro pro Aufladung abgerechnet und bindet Sie an ein Netz; eine Reise-eSIM kauft Daten zum Großhandelspreis und lässt das Gerät zwischen Netzen wechseln. Wo der Netzbetreiber punktet, ist eine echte irische Nummer und unbegrenztes Inlandstelefonieren, was erst dann eine Rolle spielt, wenn Sie in Irland leben oder sich dort niederlassen.
+
+💡 Ein Multi-Netz-eSIM-Profil ist der praktische Mittelweg: [Roamis Irland eSIM](/ireland-esim/) bietet den Komfort der sofortigen Bereitstellung, wechselt automatisch zwischen Three, Vodafone und Eir und bringt Sie trotzdem in Dublin auf Three und in Connemara auf Vodafone, ohne doppelt zu kaufen.
+
+## Passt Ihr Telefon zu den irischen Netzen?
+
+Drei Dinge entscheiden, ob Ihr Telefon bei einem irischen Netzbetreiber funktioniert: seine Frequenzbänder, sein Sperrstatus und eine kurze Liste gerätespezifischer Eigenheiten. Alle drei werden im Folgenden behandelt.
+
+### Welche Frequenzbänder braucht Ihr Telefon in Irland?
+
+Irische Netzbetreiber bauen ihr 4G auf bestimmten Frequenzbändern auf und ihr 5G auf einem schmalen Abschnitt. Das Rückgrat im ländlichen Raum ist Band 20 bei 800 MHz, mit neuerer Hilfe im niedrigen Bereich durch Band 28 bei 700 MHz für 5G. Vodafone und Eir halten die stärksten Band-20-Investitionen entlang sekundärer und regionaler Straßen, was genau der Grund ist, warum sie die Westküste besser erreichen, als reine Geschwindigkeitszahlen vermuten lassen. Städte und größere Orte ergänzen Band 3 bei 1800 MHz und Band 1 bei 2100 MHz für Kapazität, und 5G liegt fast vollständig auf n78 bei 3500 MHz, ein Band, dessen Signal selten mehr als zwei bis drei Kilometer von einem Mast entfernt reicht.
+
+| Band | Frequenz | Was sie für Ihre Reise tut |
+|:---|:---|:---|
+| Band 20 (LTE) | 800 MHz | Das Rückgrat ländlicher Gebiete; überträgt das Signal entlang der Küstenvorgebirge und durch die westlichen Täler |
+| Band 28 (5G) | 700 MHz | Neueres Low-Band-5G, das auf dem Land eine größere Reichweite als n78 erzielt |
+| Band 3 (LTE) | 1800 MHz | Kapazität in Städten und Gemeinden |
+| Band 1 (LTE) | 2100 MHz | Kapazität in Vorortkorridoren |
+| Band 7 (LTE) | 2600 MHz | Zusätzliche Kapazität in der Stadt |
+| n78 (5G) | 3500 MHz | Schnelles 5G nur in Städten; das Signal erreicht selten 3 km von einem Mast entfernt |
+
+Niemand muss für eine Reise nach Irland Frequenzbandtabellen studieren. Der sichere Weg ist, Ihre exakte Modellnummer – nicht das Etikett im Shop – mit dem [eSIM-Gerätecheck](/compatibility/) abzugleichen. Das technische Hintergrundwissen dazu finden Sie unter [eSIM-Aktivierung im Detail](/faq/what-is-esim-activation-and-how-does-it-work/), falls Sie es vor dem Kauf lesen möchten.
+
+### Funktioniert eSIM auf Ihrem Handy in Irland?
+
+Ein gesperrtes Handy ist der häufigste Grund, warum die Installation einer Irland-eSIM einfach fehlschlägt. In Irland gibt es keine nationale Sperrregelung, wie sie beispielsweise in Kanada oder Japan gilt, daher hängt der Sperrstatus ausschließlich vom jeweiligen Netzbetreiber ab, der das Gerät ursprünglich verkauft hat.
+
+**Weg:** Einstellungen → Allgemein → Info → Netzbetreiber-Sperre auf dem iPhone. „Keine SIM-Beschränkungen“ auf dem Bildschirm bedeutet, dass Ihnen nichts im Weg steht. „SIM gesperrt“ auf dem Bildschirm blockiert jedes Drittanbieter-Profil, bis die Sperre aufgehoben wird.
+
+**Behebung:** Nur der ursprüngliche Verkäufer kann die Sperre aufheben, daher beginnen Sie dort und nicht in einem lokalen Shop. Geräte außerhalb der Vertragslaufzeit werden in der Regel innerhalb eines Tages und ohne Gebühr freigegeben. Versuchen Sie erst danach, Ihre eSIM zu installieren.
+
+Wenn Sie ein gebrauchtes Handy oder ein Handy von einem US- oder europäischen Netzbetreiber gekauft haben, gehen Sie davon aus, dass es gesperrt sein könnte, und prüfen Sie es vor dem Abflug.
+
+### Was verlangt Irland bei IMEI und EID?
+
+| Gerät | Symptom | Vorgehensweise |
+|:---|:---|:---|
+| iPhone-Modelle aus Festlandchina | Keine Option „eSIM hinzufügen“ vorhanden, die Hardware ist in diesem Markt deaktiviert | Nicht behebbar; verwenden Sie eine physische SIM-Karte oder ein anderes Gerät |
+| Vom Netzbetreiber erworbene Samsung-Geräte | eSIM in den Einstellungen ausgegraut | Bitten Sie den Netzbetreiber, sie zuerst freizuschalten, und starten Sie das Gerät anschließend neu |
+| Internationales Gerät ohne Band 20 | In Städten schnell, LTE fällt im ländlichen Westen ab | Erwartetes Verhalten; verlassen Sie sich auf Vodafone oder Eir, oder nutzen Sie eine Multi-Netz-eSIM |
+| Telefon, das nur Vodafone 3G unterstützte | Verliert den Empfang, da Vodafone 3G zwischen 2023 und 2024 abgeschaltet hat | Verwenden Sie ein 4G- oder 5G-Gerät |
+| Dual-SIM-Nutzer | eSIM installiert, aber keine Daten | Legen Sie die eSIM als die für mobile Daten genutzte Leitung fest |
+
+Ab hier entscheidet Ihr Gerät, nicht Three oder Eir. Führen Sie den [Handy-Kompatibilitäts-Check](/compatibility/) mit Ihrem genauen Gerät durch, bevor Sie sich festlegen.
+
+## So kaufen Sie direkt beim Netzbetreiber ein
+
+Es gibt vier Wege, und sie unterscheiden sich mehr beim Papierkram als beim Preis: die Besucher-eSIM von Three, die Touristentarife von Vodafone und Eir sowie die Budgetmarken, die deren Netze mitnutzen. Jeder Weg, Schritt für Schritt:
+
+### Wo Irland-eSIMs verkauft werden
+
+Three ist das Netz, das Sie für Geschwindigkeit wollen, und es verkauft ein genau dafür gebautes Besucherprodukt. Seine „Visit Ireland“-eSIM gibt es in zwei Varianten: 5 GB über 7 Tage für 15 Euro oder 25 GB über 28 Tage für 25 Euro. Beide aktivieren Sie sofort online, ohne physische SIM und ohne Ladenbesuch.
+
+**Three Visit Ireland, Schritt für Schritt:**
+
+1. Öffnen Sie die Three Irland-Touristenseite und wählen Sie einen Visit Ireland eSIM-Tarif.
+2. Bezahlen Sie per Karte oder PayPal; es gibt keine Bonitätsprüfung und keine irische Adresse.
+3. Auf kompatiblen Geräten aktiviert sich die eSIM während der Einrichtung automatisch, ohne QR-Code. Unterstützt Ihr Gerät die automatische Aktivierung nicht, schickt Ihnen Three einen QR-Code zum Scannen per E-Mail.
+4. Laden Sie das Guthaben auf, um das Volumen zu aktivieren; der Tarif läuft ab diesem Moment.
+
+Ein häufiger Stolperstein: Das Volumen der Visit Ireland eSIM gilt laut Threes eigenen Bedingungen nur in der Republik Irland. Wenn Ihre Reise nach Nordirland führt, ist es dort nicht gedeckt. Für gewöhnliche Reisen nur in der Republik ist der Tarif ausgezeichnet; für eine Reise über die ganze Insel lesen Sie den Nordirland-Abschnitt unten.
+
+### Lokale SIM oder Reise-eSIM in Irland
+
+Vodafone war der erste irische Anbieter mit eSIM-Unterstützung, und sein Touristenweg ist sauber. Der „Data Unlimited 5G“-Prepaid-Tarif bietet unbegrenzte 5G-Daten plus 100 netzübergreifende Minuten und SMS für eine 20-Euro-Aufladung alle 28 Tage, online per eSIM aktiviert vor oder nach Ihrer Ankunft.
+
+**Vodafone Touristen-eSIM, Schritt für Schritt:**
+
+1. Bestellen Sie die Pay-as-you-go-Touristen-eSIM auf der Vodafone Irland-Seite.
+2. Richten Sie die eSIM ein; kompatible Telefone aktivieren automatisch, andere erhalten einen QR-Code.
+3. Laden Sie bei der Landung 20 Euro auf, um den Tarif zu aktivieren.
+4. Neue My Vodafone-Konten erhalten außerdem 10 Euro kostenloses Guthaben nach der Registrierung.
+
+Vodafone erzielte den höchsten Consistency Score in den H2-2025-Daten von Ookla mit 83,5 und ist damit eine solide Wahl, allerdings hatte es mit 58,7 Prozent die niedrigste 5G-Verfügbarkeit, was bedeutet, dass Sie mehr Zeit im 4G-Netz verbringen als im 5G-Netz.
+
+### Eirs Touristen-eSIM im Detail
+
+Eir besitzt sein eigenes Netz, wirbt mit 5G-Netzabdeckung und verkauft eine unkomplizierte Touristen-eSIM mit unbegrenzten 5G-Daten sowie unbegrenzten Anrufen und SMS für 20 Euro pro 28 Tage, online aktiviert über die IMEI Ihres Telefons vor der Landung.
+
+**Eir Touristen-eSIM, Schritt für Schritt:**
+
+1. Wählen Sie die Eir Touristen-eSIM auf der Eir-Seite oder in der App.
+2. Geben Sie Ihre IMEI ein; das Profil wird vor der Reise vorbereitet.
+3. Installieren Sie die eSIM zu Hause per WLAN, dann verbindet sie sich bei der Ankunft.
+4. Kein Ladenbesuch, kein Ausweisdokument, kein Vertrag.
+
+Eir führt die Ookla 5G-Verfügbarkeit H2 2025 mit 82,6 Prozent an, dem höchsten Wert der drei, weshalb es selbst bei einem Speed Score von 53,36 hinter Three eine starke Wahl für ländliche Gebiete und Kleinstädte ist.
+
+### Three eSIM-Tarife für Besucher
+
+- **IMEI** — wählen Sie `*#06#`
+- **EID** — ebenfalls aus dem `*#06#`-Bildschirm; dies ist die eigene Kennung der eSIM
+- **Eine Karte, die in Irland funktioniert** — Online-Checkouts akzeptieren internationale Karten und PayPal
+- **Eine E-Mail-Adresse** — der eSIM-QR bzw. Aktivierungslink kommt dort hin
+- **WLAN** — installieren Sie das Profil vor dem Flug, nicht am Flughafen
+- **Kein Reisepass erforderlich** — anders als in den meisten Ländern benötigen irische Prepaid-eSIMs kein Ausweisdokument zum Kauf
+
+Tarife und aktuelle Stufen finden Sie auf unserer [Irland eSIM-Seite](/ireland-esim/). Richten Sie die Irland-eSIM vor der Abreise ein; sie sollte in dem Moment aktiv werden, wenn Sie landen.
+
+## Geschwindigkeiten und Netzabdeckung im Vergleich
+
+Was folgt, hängt von zwei Dingen ab: der gemessenen Netzleistung dort, wo Sie sein werden, und der Art der Reise, die Sie geplant haben. Die Messwerte unten betreffen das Erste; die Tabellen zu Reiseart und Provinzen betreffen das Zweite.
+
+### Welcher Netzbetreiber ist wirklich der schnellste?
+
+Alle Werte unten stammen aus Ooklas Speedtest Connectivity Report für Irland, Erfassungszeitraum Juli bis Dezember 2025, unter Verwendung der Daten auf Netzbetreiber-Ebene, die für diesen Leitfaden bereitgestellt wurden. Der vollständige Bericht ist der [Irland-Bericht von Ookla](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025).
+
+| Metrik | Three | Vodafone | Eir |
+|:---|:---|:---|:---|
+| Speedtest Konnektivitätsbewertung (bestes Mobilfunknetz) | 74,84 | 69,26 | 71,27 |
+| Speed Score (schnellstes Mobilfunknetz) | 60,22 | 49,15 | 53,36 |
+| Konsistenzwert | 82,8 | 83,5 | 82,2 |
+| 5G-Verfügbarkeit | 74,7 % | 58,7 % | 82,6 % |
+| Video-Streaming-Bewertung | 83,7 | 83,47 | 83,31 |
+| Game Score (Bestes Mobile Gaming) | 89,04 | 87,3 | 86,33 |
+| 5-Sterne-Bewertung (Top-Bewertet) | 3,04 | 2,76 | 2,62 |
+
+Wo der Bericht auch mediane Geschwindigkeiten veröffentlicht, ist das Bild konsistent mit der obigen Tabelle. Three verzeichnete einen medianen Download von 82,44 Mbit/s über alle Technologien hinweg und einen medianen 5G-Download von 139,87 Mbit/s, mit 10,15 Mbit/s im Upload und 38 ms Latenz über alle Technologien. Eirs medianer Download über alle Technologien lag bei 52,85 Mbit/s. Vodafone's medianer 5G-Download betrug 81,5 Mbit/s. Jede Zahl stammt aus diesem einen Ookla-Bericht.
+
+Zwei Dinge sind bemerkenswert: Vodafone liegt bei der Konsistenz vorne, hinkt jedoch bei der 5G-Verfügbarkeit deutlich hinterher – Sie bekommen also ein stabiles 4G-Erlebnis, aber weniger Zeit im 5G-Netz. Eirs Stärke ist die 5G-Reichweite, die genau in den kleineren Orten zählt, an denen Sie am wenigsten mit einem 5G-Symbol rechnen.
+
+### Die richtige Irland eSIM für jede Reise
+
+| Ihre Tarife | Empfohlener Netzbetreiber | Was macht ihn zur Empfehlung | Worauf Sie achten sollten |
+|:---|:---|:---|:---|
+| Städtetrip — Dublin, Cork, Galway | Three | Schnellster mittlerer Download mit 82,44 Mbit/s und bester Speed Score | Das Stadtzentrum von Dublin ist zu Stoßzeiten überlastet |
+| Ländlicher Westen — Connemara, Donegal, Kerry | Vodafone oder Eir | Beste Reichweite auf dem niedrigen Band 20; Eir führt bei der 5G-Verfügbarkeit | Abseits der Hauptstraßen gibt es noch echte Funklöcher |
+| Video, Streaming, Gaming | Three | Bester Gaming-Wert bei 89,04 und Video bei 83,7 | Upload ist nicht der schnellste der drei |
+| Geschäftsreisen und Anrufe | Direkt bei jedem Netzbetreiber | Eine echte irische Nummer und unbegrenzte Anrufe | Reise-eSIMs sind reine Datentarife ohne lokale Nummer |
+| Ganz Irland — Dublin plus Belfast | Eine UK- und Irland-Reise-eSIM | Ein Tarif deckt beide Rechtsräume ab | Ein reiner Republik-Tarif endet an der Grenze |
+| Budget für längeren Aufenthalt | GoMo bei Eir oder 48 auf Three | Günstiges unbegrenztes Datenvolumen, aber 48 liefert eine Plastik-SIM | 48 bietet keine eSIM bei Standardtarifen |
+
+### Wie verteilt sich die Netzabdeckung über das Land?
+
+Die Netzabdeckung in Irland folgt der Bevölkerungsverteilung: dicht in den Städten und entlang der Hauptverkehrsstraßen, schnell ausdünnend am abgelegenen Atlantikrand. Der Wild Atlantic Way, eine 2.500 Kilometer lange Küstenstraße von Donegal bis Cork, ist das deutlichste Beispiel, weil er gut versorgte Orte und gleichzeitig eines der signalfeindlichsten Gebiete in Westeuropa miteinander verbindet.
+
+| Region | Netzabdeckung in der Praxis | Bester Netzbetreiber | Hinweis |
+|:---|:---|:---|:---|
+| Dublin und der Osten | Dichtes 5G; die M50 und die DART-Linie sind abgedeckt | Jedes Netz; Three ist am schnellsten | Überlastung im Stadtzentrum zu Stoßzeiten |
+| Cork und die Südküste | Gut in Städten; Küstenstraßen im Hinterland sind wechselhaft versorgt | Vodafone | Die Halbinseln von West Cork werden dünner |
+| Galway und Connemara | Hauptstraßen N59 abgedeckt; Moorseitenstraßen lückenhaft | Three oder Vodafone | Im Inneren von Connemara gibt es echte Funklöcher |
+| Wild Atlantic Way, Donegal bis Cork | Städte gut abgedeckt; abgelegene Küsten- und Bergstraßen dünn oder nicht vorhanden | Three oder Vodafone | Laden Sie Offline-Karten für die gesamte Route herunter |
+| Aran-Inseln | Ordentliches 4G; Three ist das stärkste der drei | Three | Bei Fährüberfahrten zwischen den Inseln geht das Signal verloren |
+| Kerry-Halbinseln — Dingle, Iveragh, Beara | Hauptstraßen in Ordnung; Pässe wie der Conor Pass verschlechtern den Empfang | Vodafone | Bergpässe verlieren das Signal fast vollständig |
+
+Die abgelegenen Streckenabschnitte sind der Höhepunkt der Route, also richten Sie Ihre Vorbereitung darauf aus. Eine Irland-eSIM über Vodafone oder Three deckt die Ortschaften und die stärker frequentierten Abschnitte ab; umfassende Offline-Karten begleiten Sie durch die Moorstraßen, die Landspitzen und die Fährlücken, in die kein Netz vollständig hineinreicht.
+
+### Was ändert sich beim Wechsel nach Nordirland
+
+Nordirland ist Teil des Vereinigten Königreichs und nutzt daher die britischen Netzbetreiber EE, Vodafone UK, O2 und Three UK statt irischer Anbieter. Seit dem Brexit gilt die EU-Regelung „Roam Like at Home“ nicht mehr für Nordirland, was die mit Abstand häufigste Verwirrung bei der Netzabdeckung verursacht, mit der Besucher auf der Insel konfrontiert sind.
+
+| Ihr Tarif | Funktioniert in Nordirland | Wissenswertes |
+|:---|:---|:---|
+| Three Irland Touristen-eSIM | Nein — nur Republik Irland | Threes eigene Bedingungen beschränken das Volumen auf die Republik |
+| Three Irland Pay-as-you-go | Teilweise — etwa 0,14 Cent pro MB, sofern Sie keinen täglichen Roamingpass erwerben | Grenzsendemasten verbinden Sie häufig mit einem britischen Netz |
+| Vodafone Irland Prepaid | In der Regel ja – das heimische Datenvolumen gilt auch im Vereinigten Königreich | Prüfen Sie dies in Ihrem konkreten Tarif |
+| Eir Prepay | Ja — Roam Like Home im Vereinigten Königreich, danach etwa 1,99 Euro pro 100 MB pro Tag nach dem Kontingent | Vor der Nutzung prüfen |
+| Eine UK- und Irland-Reise-eSIM | Ja – ein Tarif deckt beide Seiten der Grenze ab | Sauberste Wahl für eine Reise auf die gesamte Insel |
+
+Die meisten irischen Netzbetreiber halten das Roaming von der Republik nach Nordirland bei ihren Haupttarifen freiwillig kostenlos, doch ein Prepaid-Touristentarif wie Three Visit Ireland ist ausdrücklich nur für die Republik gültig, und Three Pay-as-you-go berechnet pro Megabyte in Großbritannien ohne Roaming-Pass Gebühren. Die saubere Lösung für eine Dublin-plus-Belfast-Reise ist ein regionaler Tarif, der beide Hoheitsgebiete als Einheit behandelt, sodass Ihr Telefon die offene Grenze gar nicht bemerkt. Noch eine lokale Eigenheit, die es zu kennen gilt: Anrufe von der Republik zu nordirischen Festnetznummern können mit der Vorwahl 048 gewählt werden, um zum Inlandspreis abgerechnet zu werden.
+
+Planen Sie eine Route, die Irland verlässt? Beginnen Sie mit einer [eSIM für Großbritannien](/united-kingdom-esim/), oder vergleichen Sie eine [Europa-eSIM](/europe-esim/), falls Ihre Reise mehrere Länder umfasst.
+
+Das funktioniert nur reibungslos, wenn die Netzwahl auf automatisch eingestellt bleibt. Eine Irland-eSIM, die zwischen Three, Vodafone und Eir wechseln kann, deckt die Versorgungslücken in der Provinz und im Grenzgebiet ab, die kein Einzelanbieter-Tarif schließen kann.
+
+## Welche APN-Einstellungen verwenden eSIMs irischer Netzbetreiber
+
+APN-Werte benötigen selten Aufmerksamkeit, und genau deshalb werden sie übersehen, wenn die Datenverbindung nicht mehr funktioniert. Im Folgenden finden Sie die Einstellungen für jedes irische Netz, für den Fall, dass eine manuelle Eingabe unvermeidlich ist, samt der genauen Menüpfade.
+
+### APN-Werte der drei Netze
+
+Sie benötigen diese Angaben nur, wenn Sie eine SIM oder eSIM direkt von einem irischen Netzbetreiber erworben haben. Bei einer Reise-eSIM ist der APN bereits voreingestellt, also widerstehen Sie dem Drang, ihn zu ändern.
+
+| Netzbetreiber | APN | Benutzername | Passwort |
+|:---|:---|:---|:---|
+| Three Irland | `internet` | leer | leer |
+| Vodafone Irland | `internet` | leer | leer |
+| Eir | `data.myeirmobile.ie` | leer | leer |
+
+Benutzername und Passwort leer lassen. Der Wert von Eir stammt von deren eigenen Support-Seiten; Three und Vodafone verwenden den üblichen irischen Standardwert, den ihre Profile normalerweise automatisch laden. Falls ein Netzbetreiber einen anderen Wert erfordert, ist dieser in den Aktivierungsanweisungen angegeben, die Ihrem Profil beiliegen.
+
+### Wann eine manuelle APN-Eingabe nötig ist
+
+Eine manuelle APN-Eingabe kommt nur in diesen Fällen vor:
+
+- Ein älteres Mobiltelefon, das die Netzbetreibereinstellungen nicht eigenständig empfängt
+- Ein Profil, das über einen manuellen Aktivierungscode statt über einen QR-Code-Scan installiert wird
+- Eine vom Netzbetreiber ausgegebene Prepaid-eSIM, bei der die automatische Konfiguration nicht ausgeführt wurde
+- Fast nie auf einer Irland-eSIM, und genau das ist der Sinn eines verwalteten Profils
+
+### Die Menüpfade zur APN-Eingabe
+
+- **iPhone:** Einstellungen → Mobilfunk, die eSIM-Leitung auswählen → Mobiles Datennetzwerk → die APN eingeben
+- **Android:** Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunktnamen → neuen APN hinzufügen
+
+Speichern Sie die Einstellungen und starten Sie das Telefon anschließend neu. Falls weiterhin nichts geladen wird, vergewissern Sie sich zunächst, dass die eSIM und nicht Ihre übliche SIM als Datenleitung ausgewählt ist.
+
+## So aktivieren Sie Ihre eSIM und beheben Probleme
+
+Wenn Sie diesen Abschnitt durchgehen, gelangen Sie von einer sauberen Installation zu einer funktionierenden Verbindung. Außerdem werden die Fehlermuster behandelt, die ein irisches Netz tatsächlich erzeugen kann – und zwar in der Reihenfolge, in der Sie auf sie stoßen.
+
+### Die Checkliste vor der Installation
+
+| # | Prüfen | Wie „gut“ aussieht |
+|:---|:---|:---|
+| 1 | Das Telefon ist nicht an einen Netzbetreiber gebunden | Auf dem Info-Bildschirm wird „Netzbetreiber-Sperre: Keine SIM-Einschränkungen“ angezeigt |
+| 2 | Das Telefon unterstützt eSIM | `*#06#` zeigt eine EID an, oder die [Kompatibilitätsseite](/compatibility/) bestätigt Ihr Modell |
+| 3 | QR-Code und Aktivierungscode gespeichert | Screenshot auf dem Telefon und in der Cloud gespeichert |
+| 4 | Profil vor der Abreise installieren | Zuhause über WLAN installieren; das Profil verbindet sich automatisch bei der Landung |
+| 5 | Datenleitung und Roaming eingestellt | eSIM für mobile Daten ausgewählt, Datenroaming aktiviert |
+
+Erledigen Sie Schritt 4 bereits zu Hause. Dublin Airport und die Ankunftshallen haben genau dann überlastetes WLAN, wenn Sie es am meisten benötigen, und ein Profil, das Sie am Boden installieren, konkurriert mit dem aller anderen Nutzer.
+
+### So läuft die Installation ab
+
+Jeder Schritt der Installation – vom Hinzufügen der eSIM bis zur Aktivierung des Roamings – wird im [Aktivierungs-Leitfaden](/faq/how-to-activate-an-esim/) gezeigt. Was je nach Netzbetreiber variiert:
+
+- **Three:** die Visit Ireland eSIM aktiviert sich automatisch auf kompatiblen Geräten, oder per zugesandtem QR-Code auf anderen Geräten; aufladen, um das Datenvolumen zu starten
+- **Vodafone:** die Touristen-eSIM wird nach dem Bestellvorgang ausgestellt und aktiviert sich bei der Installation; eine Aufladung von 20 Euro startet den Tarif
+- **Eir:** die Touristen-eSIM wird anhand Ihrer IMEI vorbereitet und aktiviert sich bei Ankunft
+- **Günstige Marken:** GoMo und Lycamobile stellen eine eSIM in der App oder per E-Mail aus; 48 und Tesco Mobile versenden stattdessen eine physische SIM
+- **Reise-eSIMs:** Installation per QR-Code, und dasselbe Profil wechselt per Roaming in das stärkste Netz von Three, Vodafone oder Eir
+
+### Vier Lösungen für eine stumme Irland-eSIM
+
+Allgemeine Aktivierungsfehler, ein Profil, das nicht heruntergeladen werden kann, ein fehlgeschlagener Scan, eine eSIM, die sich installiert, aber nie registriert – all dies wird in unserem [Leitfaden zu eSIM-Aktivierungsfehlern](/faq/esim-activation-errors-troubleshooting-guide/) behandelt. Für Irland gibt es vier typische Muster, die unten aufgeführt sind.
+
+**A. Die eSIM lässt sich nicht installieren**
+1. Öffnen Sie die „Über“-Einstellungen und prüfen Sie, ob unter „SIM-Lock“ „Keine SIM-Beschränkungen“ angezeigt wird
+2. Schützen Sie den QR-Code vor Kratzern und wiederholten Scans, da die meisten nach einmaliger Verwendung verfallen
+3. Ein Anruf bei der Betreiberhotline kann bestätigen, ob das Profil in einem ausstehenden Status wartet
+
+**B. Installiert, aber keine Signalbalken**
+1. Überprüfen Sie den Sperrstatus erneut
+2. Einstellungen → Mobilfunk → Netzauswahl → wählen Sie Three, Vodafone oder Eir manuell statt automatisch aus
+3. Setzen Sie die Netzwerkeinstellungen zurück und starten Sie das Telefon neu
+
+**C. Signalbalken vorhanden, aber kein Internet**
+1. Vergleichen Sie jedes Feld mit der Tabelle oben, bevor Sie speichern
+2. Prüfen Sie, ob die Datenleitung der eSIM und nicht Ihrer Alltags-SIM zugewiesen ist
+3. Stellen Sie sicher, dass Ihr Datenvolumen nicht aufgebraucht ist; einige Unlimited-Tarife drosseln nach einer Fair-Use-Grenze
+
+**D. Sie haben die Grenze nach Nordirland überquert und den Empfang verloren**
+1. Wenn Sie einen Touristentarif nur für die Republik haben, z. B. Three Visit Ireland, ist dies zu erwarten; buchen Sie einen Tarif für Großbritannien und Irland oder eine lokale UK-eSIM
+2. Wenn Sie Vodafone oder Eir Prepaid nutzen, prüfen Sie, ob Roaming aktiviert ist und der Tarif die Nutzung in Großbritannien einschließt
+3. Bei einer Irland-eSIM prüfen Sie, ob der Tarifbereich Großbritannien und nicht nur die Republik abdeckt
+4. Als letzten Ausweg entfernen Sie das Profil und installieren Sie es mit einem neuen QR-Code erneut
+
+### Was Sie vor dem Support-Kontakt bereithalten sollten
+
+| Die Grundlagen | Wo Sie es finden |
+|:---|:---|
+| Bestell- oder Kundennummer | Bestätigungs-E-Mail |
+| Telefonmodell und Betriebssystemversion | Einstellungen → Über |
+| EID | `*#06#` |
+| Screenshot des Fehlers | Aufnehmen, bevor sich der Bildschirm ändert |
+| Aktuelle APN-Einstellungen | Einstellungen → Mobiles Datennetz |
+| Datenroaming-Status | Einstellungen → Mobilfunk → Ihre eSIM-Leitung |
+| Bereits versucht | Kurz halten |
+
+## Welche Irland-eSIM-Fragen Reisende am häufigsten stellen
+
+### Können Besucher eine Prepaid-eSIM von Three Irland kaufen?
+
+Ja, und sie ist die einfachste der drei. Threes Visit-Irland-eSIM bietet 5 GB für 7 Tage zum Preis von 15 Euro oder 25 GB für 28 Tage zum Preis von 25 Euro, aktiviert sich sofort online ohne physische SIM, ohne Ladenbesuch und ohne Ausweisdokument. Die einzige Einschränkung: Das Datenvolumen gilt nur für die Republik Irland, Nordirland ist also nicht abgedeckt.
+
+### Verkauft Vodafone Irland eine Touristen-eSIM?
+
+Ja. Vodafones „Data Unlimited 5G“-Prepaid-Tarif bietet unbegrenzte 5G-Daten sowie 100 netzinterne Minuten und SMS für eine Aufladung von 20 Euro alle 28 Tage und lässt sich als eSIM online vor oder nach der Ankunft aktivieren. Vodafone unterstützte als erster irischer Netzbetreiber eSIM und erreichte in Ooklas H2-2025-Daten den höchsten Consistency Score – eine solide Wahl, wenn weniger die rohe 5G-Geschwindigkeit zählt als eine verlässliche Verbindung.
+
+### Ist Eir eine gute eSIM-Wahl für einen Kurzaufenthalt?
+
+Für einen Kurzaufenthalt ist Eir eine starke Wahl, wenn Ihre Route aus den urbanen Zentren herausführt. Eir führte Ooklas H2-2025-5G-Verfügbarkeit mit 82,6 Prozent an, der höchste Wert der drei, und die Touristen-eSIM bietet unbegrenzte 5G-Daten sowie unbegrenzte Anrufe und SMS für 20 Euro pro 28 Tage, online über die IMEI aktivierbar. Der Speed Score von 53,36 liegt hinter Three, daher fühlt sich das Zentrum von Dublin bei Three schneller an, doch kleine Städte und der Westen profitieren von Eirs Reichweite.
+
+### Welche Discountmarke hat die beste eSIM für Reisende?
+
+Unter den günstigen Marken bieten GoMo und Lycamobile eSIMs an, während 48 und Tesco Mobile nur eine Plastik-SIM versenden. GoMo ist die reine App-Marke von Eir für 12,99 Euro pro Monat mit unbegrenzten Daten, ideal für Aufenthalte über einen Monat; Lycamobile basiert auf Eir und kostet 12,99 Euro pro 28 Tage und eignet sich für Vieltelefonierer mit günstigen Minuten. Wenn Ihr Handy keinen SIM-Slot hat, meiden Sie 48 und Tesco Mobile und nutzen stattdessen GoMo, Lycamobile oder eine Reise-eSIM.
+
+### Braucht der eSIM-Kauf in Irland einen Reisepass?
+
+Nein. In Irland gibt es keine verpflichtende SIM-Registrierung, anders als in Deutschland, Japan oder vielen anderen Ländern, sodass Sie eine Prepaid-SIM oder eSIM am Automaten, im Supermarkt oder über eine App ganz ohne Ausweisdokument kaufen können. Manche Filialen verlangen Ausweispapiere als interne Shop-Policy bei einer Aktivierung vor Ort, und Online-Checkouts verlangen eine Karte und eine E-Mail-Adresse, gesetzlich vorgeschrieben ist es jedoch nicht. Reiseblogs, die behaupten, jeder Anbieter verlange einen Pass, beschreiben andere Länder, nicht Irland.
+
+### Funktioniert meine Irland-eSIM in Nordirland?
+
+Das hängt vom Tarif ab. Nordirland nutzt britische Netze, und seit dem Brexit greift die EU-Roaming-Regelung dort nicht mehr. Threes Visit-Irland-Touristen-eSIM ist ausdrücklich nur für die Republik gedacht und endet an der Grenze; Vodafone- und Eir-Prepaid-Tarife schließen Großbritannien meistens ein, prüfen Sie aber die Bedingungen; und eine Großbritannien-und-Irland-Reise-eSIM deckt beide Seiten in einem Tarif ab. Für eine Reise Dublin-plus-Belfast ist ein regionaler Tarif die sauberste Lösung.
+
+### Welches Netz erreicht die Westküste am besten?
+
+Vodafone und Three reichen am weitesten entlang der Westküste, da beide stark in das niedrige Band 20 investieren, das Signal um Kapvorsprünge und durch Täler transportiert. Eir ist in Kerry und West Cork über sein Legacy-Backhaul stark. Kein Netz deckt die abgelegenen Strecken vollständig ab, daher kombinieren Sie eine Vodafone- oder Three-eSIM mit Offline-Karten, statt sich auf Live-Signal auf Moorstraßen und Bergpässen zu verlassen.
+
+### Wie gut ist der Empfang auf den Aran-Inseln und in Connemara?
+
+Die Aran-Inseln haben brauchbares 4G, mit Three als stärkstem der drei, doch die Fährüberfahrten zwischen ihnen und dem Festland verlieren das Signal, und auf den kleineren Inseln nimmt die Versorgung abseits der Dörfer ab. Connemaras Problem sind die ausgedehnten Moore und der Granit: Masten stehen weit auseinander entlang der N59, sodass das Signal beim Abbiegen auf eine einspurige Küstenstraße sofort schwächer wird oder verschwindet. Laden Sie Offline-Karten vor der Abfahrt herunter, denn die Navigation in diesen Funklöchern hängt davon ab.
+
+### So prüfen Sie die eSIM-Fähigkeit Ihres Handys
+
+Prüfen Sie Sperrstatus und eSIM-Unterstützung in einem Schritt auf der [eSIM-Kompatibilitätsseite](/compatibility/), die EID-Unterstützung und die Band-20-Frage für die ländliche Reichweite abdeckt. Wenn Sie zuerst die Installationslogik verstehen möchten, lesen Sie die [eSIM-Installation im Detail](/faq/what-is-esim-activation-and-how-does-it-work/). Die meisten iPhones ab XS, Pixels ab 3 und Galaxy S ab S20 sind geeignet.
+
+### Was tun bei einer eSIM ohne jede Verbindung?
+
+Gehen Sie die Irland-spezifischen Punkte der Reihe nach durch – Sperrstatus, Netzwahl, APN und Datenleitung, dann den Nordirland-Check – und falls es weiterhin scheitert, deckt der umfassendere Fehlerkatalog im [Aktivierungsfehler-Katalog](/faq/esim-activation-errors-troubleshooting-guide/) den Rest ab. Der Support antwortet schneller, wenn EID, Bestellnummer und ein Fehler-Screenshot bereits angehängt sind.
+
+### Lohnt sich eine Reise-eSIM statt eines Netzbetreiber-Tarifs?
+
+Ja. Eine hochwertige Irland-eSIM verbindet sich automatisch mit dem stärksten von Three, Vodafone oder Eir an Ihrem Standort und wechselt beim Reisen zwischen ihnen – genau das, was Sie auf dem Wild Atlantic Way brauchen, wo kein einzelner Netzbetreiber jede Etappe abdeckt. Direkte Netzbetreiber-eSIMs bleiben für ihre gesamte Laufzeit in einem Netz.
+
+### Was ist eine eSIM und wie verhält sie sich im Gerät?
+
+Im Inneren ist eine eSIM ein fest verbauter Chip in Ihrem Gerät, der mehrere Netzbetreiber-Profile anstelle einer Plastikkarte speichern kann. In der Praxis liefert der Netzbetreiber ein Profil, das Gerät speichert es auf dem internen Chip, und die Leitung funktioniert wie jede andere. Den vollständigen Ablauf inklusive SM-DP+-Servern und warum der QR-Code nach einem Scan erlischt, finden Sie unter [eSIM-Aktivierungsmechanik](/faq/what-is-esim-activation-and-how-does-it-work/).
+
+Weitere Fragen? [Zur FAQ-Übersicht →](/faq/)
+
+## Die Quellen dieses Vergleichs
+
+- **Ookla Speedtest Connectivity Report – Irland, Juli bis Dezember 2025** – [der Netzbetreiber-Bericht](https://www.ookla.com/research/reports/ireland-speedtest-connectivity-report-h2-2025) belegt jede netzbezogene Kennzahl hier: Threes Connectivity Score von 74,84 und Speed Score von 60,22, Vodafones Consistency von 83,5, Eirs 5G-Verfügbarkeit von 82,6 sowie die medianen Download-Geschwindigkeiten von 82,44 Mbit/s für Three und 52,85 Mbit/s für Eir.
+- **Ookla Speedtest Global Index** – [der Irland-Eintrag](https://www.speedtest.net/global-index/ireland) enthält das nationale mediane mobile Download-Tempo und das Weltranking, monatlich aktualisiert.
+- **Commission for Communications Regulation (ComReg)** – [die offizielle Telekommunikationsaufsicht](https://www.comreg.ie/) veröffentlicht die Spektrumszuteilungen und Netzabdeckungskarten, auf die für den irischen Bandplan und die Erklärung der niedrigen Bänder im ländlichen Raum verwiesen wird.
+- **Cable.co.uk weltweite Datenpreise** – [die vollständige Ländertabelle](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) enthält Irlands Pro-GB-Preis von rund 1,50 US-Dollar und platziert das Land damit unter den günstigeren Märkten Europas.
+- **Three Irland, Vodafone Irland und Eir** – [Threes eSIM-Seite](https://www.three.ie/esim.html), Vodafones Touristen-eSIM-Seite und Eirs Support-Seiten sind die Referenzen für Tarifpreise, Bereitstellungsarten und die oben zitierte identitätsfreie Kaufregel.
+
+Nur unabhängige Messungen. Rechnen Sie mit Abweichungen je nach Handy-Modell, genutztem Band und Auslastung des Standorts.
+
+## Richten Sie Ihr Profil vor der Abreise ein
+
+Richten Sie Ihre Irland-eSIM vor der Abreise ein; sie wacht bei der Landung auf und wechselt zwischen Three, Vodafone und Eir, wohin auch immer Ihre Route führt. Neukunden können zuerst eine [kostenlose Irland-Testversion](/free-esim/) einlösen oder erhalten 20 % Rabatt auf [Irland-eSIM-Tarife](/ireland-esim/) mit dem Code **WEB20**.
+
+[Irland-eSIM kaufen](/ireland-esim/)
+
+*Einführungsangebot für Neukunden*
+
+[Irland kostenlos testen](/free-esim/)
+
+Eine abschließende Bemerkung von Roami: Reisende, die zuerst die Netzabdeckung testen, bereuen es selten. Die [Test-eSIM anfordern](/free-esim/) spiegelt das lokale Setup auf Three, und der Code **WEB20** bringt 20 % Rabatt auf einen kostenpflichtigen Roami-Tarif, sobald Sie bereit sind.

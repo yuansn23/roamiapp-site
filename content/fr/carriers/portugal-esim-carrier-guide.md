@@ -1,10 +1,9 @@
 ---
-title: "Vous préparez un voyage pour Portugal ? Votre checklist eSIM."
-description: "Quel opérateur eSIM pour Portugal ? Roami évalue Vodafone, MEO et NOS sur leur réseau 5G et vous conseille pour votre séjour au Portugal."
-date: "2026-06-17T06:04:16+00:00"
-
-keywords: eSIM Portugal, données prépayées, réseau 5G, MEO, NOS, Vodafone, DIGI, partage
-  de connexion, hotspot, voyage Portugal
+title: "Opérateurs eSIM Portugal : quel réseau choisir ?"
+description: "Roami compare MEO, NOS, Vodafone et Digi pour une eSIM Portugal : vitesses mesurées, couverture et prix des forfaits prépayés."
+image: "img/esim/carriers/portugal-esim-carrier-guide.jpg"
+date: "2026-09-24T16:43:52+00:00"
+keywords: opérateurs eSIM Portugal, MEO eSIM, NOS eSIM, Vodafone eSIM, Digi eSIM, couverture 5G Portugal, APN eSIM Portugal, eSIM Portugal prépayé, meilleur opérateur eSIM Portugal, eSIM voyage Portugal
 site_name: Roami
 brand_name: Roami
 breadcrumb_items:
@@ -12,405 +11,384 @@ breadcrumb_items:
   url: /
 - name: Guide eSIM Portugal
   url: ''
-hero_badge: 🇵🇹 Guide actuel de l'eSIM de voyage Portugal
-hero_subtitle_main: 'Portugal eSIM: Prend en charge le partage de connexion (hotspot)
-  sans faille'
-hero_subtitle_highlight: Couverture réseau 5G premium via MEO, NOS et Vodafone
-hero_description_line1: L'eSIM Portugal couvre plusieurs régions avec des services
-  data 5G haut débit, répondant facilement à vos besoins de voyage, d'affaires et
-  de communication quotidienne.
-hero_description_line2: Connectez-vous en quelques secondes et profitez d'une navigation
-  illimitée.
-hero_link_text: eSIM Portugal
-hero_link_url: /portugal-esim/
-tldr_summary: 'Dites adieu aux frais d''itinérance exorbitants : entrez dans l''ère
-  de la connectivité mondiale gratuite. Avec Roami et une eSIM Portugal, vous accédez
-  aux réseaux 5G les plus rapides du pays. Selon [Rapport de connectivité Speedtest
-  Ookla](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025),
-  NOS est l''opérateur mobile le plus rapide avec un débit descendant médian de 142,22
-  Mbps toutes technologies confondues, et MEO domine la 5G avec 251,02 Mbps. Que vous
-  soyez à Porto (197,28 Mbps en mobile) ou à Setúbal (250,14 Mbps en fixe), restez
-  connecté sans surprise. Choisissez Roami pour une expérience transparente, sans
-  frais cachés.'
-sidebar_more_hint: Faites glisser pour voir plus
-sidebar_title: Portugal eSIM Liens rapides
-sidebar_links:
-- href: '#quick-picks'
-  text: 'Sélection rapide : Quel fournisseur d''eSIM Portugal choisir ?'
-- href: '#operators'
-  text: Test des meilleurs opérateurs mobiles eSIM Portugal
-- href: '#city-guide'
-  text: 'Guide des villes : La meilleure eSIM pour Portugal'
-- href: '#before-buy'
-  text: Ce que vous devez savoir avant d'acheter une eSIM Portugal
-- href: '#faq'
-  text: Questions fréquentes sur l'eSIM Portugal
-- href: '#myths'
-  text: Mythes et faits sur l'eSIM Portugal
-- href: '#data-sources'
-  text: Sources des données
-quick_picks_title: 'Sélection rapide : Quel fournisseur d''eSIM Portugal devriez-vous
-  choisir ?'
-quick_picks_table_headers:
-- Votre style de voyage
-- Fournisseur recommandé
-- Performance du réseau
-quick_picks_note_prefix: 'Source des données : '
-quick_picks_note_carrier: '[Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)'
-quick_picks_note_text: .
-quick_picks_note_brand: ''
-quick_picks_note_link_text: ''
-quick_picks_note_suffix: ''
-quick_picks:
-- travel: Nomades numériques
-  carrier: Vodafone
-  carrier_class: text-orange-600
-  reason: Vodafone offre la meilleure expérience de streaming vidéo et de jeux en
-    ligne, idéal pour les professionnels en déplacement. Son réseau fixe est le plus
-    rapide du pays (229,63 Mbps en download).
-- travel: Voyageurs 5G
-  carrier: MEO
-  carrier_class: text-green-600
-  reason: MEO est le meilleur réseau 5G avec un débit descendant médian de 251,02
-    Mbps. Parfait pour les téléchargements lourds et le streaming en ultra-haute définition.
-- travel: Utilisateurs intensifs de données
-  carrier: NOS
-  carrier_class: text-purple-600
-  reason: NOS est l'opérateur mobile le plus rapide toutes technologies confondues
-    (142,22 Mbps en download) et en 5G (267,46 Mbps). Idéal pour les gros consommateurs
-    de données.
-- travel: Voyageurs soucieux de leur budget
-  carrier: DIGI
-  carrier_class: text-red-600
-  reason: DIGI offre la meilleure constance en 5G (93,3% des échantillons dépassant
-    25 Mbps download). Un excellent rapport qualité-prix pour une connectivité fiable.
-cta_button_main_text: Voir l'eSIM de voyage Portugal la plus économique
-cta_button_sub_text: Commutation automatique de réseau, supporte la comparaison automatique
-  des prix des données prépayées
-operator_labels:
-  best_for: 'Idéal pour :'
-  core_data: 'Données clés :'
-  connect_note_label: 'Note de connexion eSIM :'
-operators:
-- id: meo-esim
-  title: 'Test eSIM MEO : Meilleure performance 5G'
-  best_for: Ce forfait est le meilleur choix absolu pour les utilisateurs exigeant
-    la meilleure vitesse 5G. MEO domine le marché 5G portugais avec des performances
-    de pointe.
-  core_data: '- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025),
-    MEO n''a pas le taux de disponibilité 5G le plus élevé (Vodafone est à 80,3%),
-    mais ses vitesses sont les meilleures.
-
-    - **Débit descendant médian 5G** : 251,02 Mbps
-
-    - **Débit montant médian 5G** : 23,09 Mbps
-
-    - **Score de connectivité 5G** : 74,85 (meilleur réseau 5G)
-
-    - **Score d''expérience vidéo 5G** : 85,8 (meilleure expérience vidéo 5G)'
-  arcep_note: Confirmé par l'autorité locale des télécommunications (ANACOM) et les
-    données Speedtest Intelligence® du premier semestre 2025.
-  connect_note: L'activation se déroule sans problème via un QR code. Le partage de
-    connexion (hotspot) est entièrement pris en charge, vous permettant de connecter
-    vos autres appareils.
-  user_scenarios: '- **Tour de Belém, Lisbonne** : Téléchargez votre audioguide en
-    4K en quelques secondes grâce au débit 5G de 251 Mbps.
-
-    - **Gare de São Bento, Porto** : Partagez votre connexion en hotspot pour que
-    vos compagnons de voyage puissent aussi regarder des vidéos en streaming sans
-    latence.
-
-    - **Stade de la Luz, Lisbonne** : Vivez le match en direct et partagez les moments
-    forts sur les réseaux sociaux avec une upload rapide de 23 Mbps.'
-  bg_color: bg-green-50
-- id: nos-esim
-  title: 'Test eSIM NOS : Opérateur mobile le plus rapide'
-  best_for: Ce forfait est le meilleur choix absolu pour ceux qui veulent la vitesse
-    globale la plus élevée, toutes technologies confondues. NOS est le champion toutes
-    catégories.
-  core_data: '- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025),
-    NOS n''a pas le taux de disponibilité 5G le plus élevé, mais ses vitesses sont
-    les meilleures.
-
-    - **Débit descendant médian (toutes technologies)** : 142,22 Mbps (le plus rapide)
-
-    - **Débit montant médian (toutes technologies)** : 15,21 Mbps
-
-    - **Latence** : 34 ms
-
-    - **Débit descendant médian 5G** : 267,46 Mbps (le plus rapide)
-
-    - **Débit montant médian 5G** : 21,08 Mbps
-
-    - **Latence 5G** : 32 ms
-
-    - **Score de connectivité mobile** : 79,87 (meilleur réseau mobile)'
-  arcep_note: Confirmé par l'autorité locale des télécommunications (ANACOM) et les
-    données Speedtest Intelligence® du premier semestre 2025.
-  connect_note: L'activation se déroule sans problème via un QR code. Le partage de
-    connexion (hotspot) est entièrement pris en charge, vous permettant de connecter
-    vos autres appareils.
-  user_scenarios: '- **Quartier de l''Alfama, Lisbonne** : Naviguez sur Google Maps
-    sans interruption grâce à la latence ultra-faible de 34 ms.
-
-    - **Plage de la Rocha, Portimão** : Téléchargez vos photos de vacances en 4K sur
-    le cloud avec une upload rapide de 15 Mbps.
-
-    - **Université de Coimbra** : Suivez vos cours en ligne et participez aux visioconférences
-    sans décalage grâce à la stabilité du réseau NOS.'
-  bg_color: bg-purple-50
-- id: vodafone-esim
-  title: 'Test eSIM Vodafone : Meilleure couverture et expérience utilisateur'
-  best_for: Ce forfait est le meilleur choix absolu pour les voyageurs qui privilégient
-    une expérience utilisateur fluide (streaming, jeux) et une couverture 5G étendue.
-  core_data: '- **Disponibilité 5G** : Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025),
-    Vodafone a le taux de disponibilité 5G le plus élevé : 80,3%.
-
-    - **Débit descendant médian (toutes technologies)** : 120,76 Mbps
-
-    - **Débit montant médian (toutes technologies)** : Non spécifié dans les données,
-    mais performant.
-
-    - **Expérience de streaming vidéo** : Meilleure qualité d''expérience parmi les
-    FAI.
-
-    - **Expérience de jeux en ligne** : Meilleure qualité d''expérience parmi les
-    FAI.
-
-    - **Débit descendant médian fixe** : 229,63 Mbps (FAI le plus rapide)
-
-    - **Débit montant médian fixe** : 103,83 Mbps'
-  arcep_note: Confirmé par l'autorité locale des télécommunications (ANACOM) et les
-    données Speedtest Intelligence® du premier semestre 2025.
-  connect_note: L'activation se déroule sans problème via un QR code. Le partage de
-    connexion (hotspot) est entièrement pris en charge, vous permettant de connecter
-    vos autres appareils.
-  user_scenarios: '- **Parc naturel de la Péninsule de Setúbal** : Restez connecté
-    même dans les zones reculées grâce à la meilleure disponibilité 5G de Vodafone.
-
-    - **Aéroport de Lisbonne** : Regardez un film en streaming en attendant votre
-    vol, sans mise en mémoire tampon.
-
-    - **Route des vins du Douro** : Partagez vos dégustations en direct sur Instagram
-    avec une connexion stable et rapide.'
-  bg_color: bg-red-50
-cards_compatibility_title: Vérifiez la liste de compatibilité eSIM Portugal
-cards_compatibility_desc: Vérifiez si votre téléphone prend en charge l'eSIM Portugal
-  et les bandes 5G locales
-cards_free_title: Obtenez votre eSIM Portugal gratuite
-cards_free_desc: eSIM d'essai gratuite limitée, découvrez le réseau 5G local sans
-  frais d'itinérance
-cards_free_badge: GRATUIT
-cards_app_title: Téléchargez l'application Roami et obtenez 20% de réduction sur l'eSIM
-cards_app_desc: 'Code promo : <strong class=''bg-orange-100 text-orange-700 px-2 py-0.5
-  rounded font-mono text-base''>web20</strong> | Gestion eSIM en un clic'
-cards_compatibility_link: /compatibility/
-cards_free_link: /free-esim/
-cards_app_link: /app/
-before_buy_title: Ce que vous devez savoir avant d'acheter une eSIM Portugal
-before_buy_sections:
-- heading: 1. Principales bandes 5G/4G au Portugal
-  content: 'Les opérateurs portugais (MEO, NOS, Vodafone) utilisent principalement
-    les bandes 5G suivantes : n78 (3,5 GHz) pour la haute vitesse, n1 (2100 MHz) et
-    n3 (1800 MHz) pour la couverture étendue. En 4G, les bandes principales sont le
-    B3 (1800 MHz), le B7 (2600 MHz) et le B20 (800 MHz). Assurez-vous que votre appareil
-    est compatible avec ces fréquences pour une expérience optimale.'
-- heading: 2. Enregistrement obligatoire (KYC) pour les eSIM
-  content: Au Portugal, l'achat d'une carte SIM ou d'une eSIM prépayée nécessite un
-    enregistrement d'identité (KYC) conformément à la loi portugaise. Vous devrez
-    fournir une pièce d'identité (passeport ou carte d'identité) et parfois un justificatif
-    de domicile. Les fournisseurs d'eSIM comme Roami simplifient ce processus en ligne,
-    mais soyez prêt à soumettre vos documents.
-- heading: 3. Politiques de Fair Use (FUP) et limitations de débit
-  content: La plupart des forfaits eSIM au Portugal incluent une politique d'utilisation
-    raisonnable (FUP). Après avoir dépassé un certain volume de données (souvent 20
-    à 50 Go par mois), votre débit peut être réduit à 128 kbps ou 256 kbps. Vérifiez
-    les conditions de votre forfait pour éviter les mauvaises surprises, surtout si
-    vous prévoyez un usage intensif.
-- heading: '4. Partage de connexion (hotspot) : toujours autorisé'
-  content: 'Bonne nouvelle : au Portugal, le partage de connexion (hotspot) est généralement
-    autorisé sur les forfaits eSIM, y compris ceux de Roami. Vous pouvez donc connecter
-    votre ordinateur portable, votre tablette ou d''autres appareils à votre téléphone.
-    Cependant, certains opérateurs peuvent limiter le débit en partage, lisez les
-    petites lignes.'
-- heading: '5. Couverture réseau : zones rurales vs urbaines'
-  content: Les grandes villes comme Lisbonne, Porto, Braga et Coimbra bénéficient
-    d'une excellente couverture 5G. En revanche, dans les zones rurales et montagneuses
-    (parc national de Peneda-Gerês, Alentejo profond), la couverture peut être limitée
-    à la 4G ou même à la 3G. Vodafone offre la meilleure disponibilité 5G (80,3%),
-    ce qui en fait un bon choix pour les voyages hors des sentiers battus.
-city_guide_title: 'Guide des villes : La meilleure eSIM pour Portugal'
-city_guide_desc: Découvrez quelle eSIM Portugal est le meilleur choix pour votre ville
-  de destination, en fonction des performances réseau locales et de vos besoins spécifiques.
-city_table_headers:
-- Ville
-- Fournisseur eSIM recommandé
-- Raison / Caractéristiques
-city_recommendations:
-- city: Lisbonne
-  carriers: NOS
-  reason: Capitale dynamique avec une forte demande de données. NOS est l'opérateur
-    mobile le plus rapide (142,22 Mbps en download), idéal pour les professionnels
-    et les touristes qui ont besoin de vitesse.
-- city: Porto
-  carriers: MEO
-  reason: Porto enregistre la meilleure vitesse mobile médiane du pays (197,28 Mbps).
-    MEO, avec son réseau 5G performant (251,02 Mbps), est le choix parfait pour profiter
-    de cette ville connectée.
-- city: Setúbal
-  carriers: Vodafone
-  reason: Setúbal est la ville avec le débit fixe le plus rapide (250,14 Mbps). Vodafone,
-    le meilleur FAI fixe, offre également une excellente couverture 5G (80,3%), idéale
-    pour les déplacements dans la région.
-- city: Braga
-  carriers: NOS
-  reason: Braga est un pôle technologique en pleine croissance. NOS, avec son score
-    de connectivité mobile de 79,87, garantit une expérience utilisateur optimale
-    pour les résidents et les visiteurs.
-- city: Faro (Algarve)
-  carriers: Vodafone
-  reason: Destination touristique majeure, l'Algarve bénéficie d'une bonne couverture.
-    Vodafone, avec la meilleure disponibilité 5G, assure une connexion fiable sur
-    les plages et dans les stations balnéaires.
-city_guide_tip: '💡 Astuce : Si vous utilisez l''eSIM multi-réseau de Roami, votre
-  téléphone bascule automatiquement vers le meilleur fournisseur local – aucune sélection
-  manuelle requise.'
-scene_guide_title: 🎯 Choisissez la meilleure eSIM Portugal selon votre scénario de
-  voyage
-scene_items:
-- icon: 🏛️
-  title: Découvreur de villes
-  text: Explorez Lisbonne, Porto ou Coimbra avec une eSIM Roami. Utilisez Google Maps
-    pour naviguer, réservez des visites guidées en ligne et partagez vos photos sur
-    Instagram sans limite. Avec NOS ou MEO, profitez de vitesses 5G fulgurantes pour
-    télécharger des guides de voyage en un clin d'œil.
-- icon: 🏞️
-  title: Amoureux de la nature
-  text: Randonnez dans le parc national de Peneda-Gerês ou le long de la côte de l'Alentejo.
-    Avec Vodafone (meilleure disponibilité 5G), restez connecté même dans les zones
-    reculées. Téléchargez des cartes hors ligne, partagez votre position en temps
-    réel et diffusez de la musique en streaming.
-- icon: 🚗
-  title: Roadtrippeur
-  text: Parcourez la route des vins du Douro ou la côte de l'Algarve. Utilisez votre
-    eSIM Roami pour le GPS en temps réel, les réservations d'hôtel de dernière minute
-    et le partage de connexion pour que vos passagers puissent aussi surfer. La latence
-    ultra-faible de NOS (34 ms) garantit une navigation fluide.
-- icon: 🏖️
-  title: Vacancier à la plage
-  text: Détendez-vous sur les plages de l'Algarve ou de la côte de Lisbonne. Avec
-    une eSIM Roami, regardez des films en streaming, écoutez des podcasts et restez
-    en contact avec vos proches. Le débit montant rapide de MEO (23 Mbps) vous permet
-    de partager vos souvenirs de vacances en un instant.
-scene_guide_footer: 💡 L'édition multi-réseau de l'eSIM Roami Portugal détecte automatiquement
-  votre scénario et bascule vers le meilleur réseau – aucune configuration manuelle
-  requise.
-faq_title: Questions fréquentes sur l'eSIM Portugal
-faq_prefix: Q
-faq_suffix: ': '
-faq_more_link_text: Plus de questions ? Voir la FAQ complète →
-faq_more_link_url: /faq/
-faq:
-- q: Puis-je passer des appels vocaux ou vidéo via WhatsApp, WeChat ou FaceTime avec
-    l'eSIM Portugal ?
-  a: Oui, absolument. L'eSIM Roami Portugal prend entièrement en charge les appels
-    vocaux et vidéo via des applications de messagerie comme WhatsApp, WeChat, FaceTime,
-    Skype et Zoom. Ces services utilisent votre connexion de données (VoIP) et ne
-    nécessitent pas de numéro de téléphone local. Avec les vitesses 5G élevées de
-    MEO (251 Mbps) ou NOS (267 Mbps), vos appels vidéo seront fluides et en haute
-    définition.
-- q: Une vérification d'identité (KYC) ou un enregistrement de passeport est-il requis
-    pour acheter et utiliser l'eSIM Portugal ?
-  a: 'Oui, conformément à la réglementation portugaise, un processus de vérification
-    d''identité (KYC) est obligatoire pour l''achat de toute carte SIM ou eSIM prépayée.
-    Vous devrez fournir une copie de votre passeport ou de votre carte d''identité
-    nationale, ainsi que parfois un justificatif de domicile. Roami simplifie cette
-    étape en ligne : vous téléchargez simplement vos documents lors de l''achat, et
-    la vérification est généralement rapide (quelques minutes à quelques heures).'
-- q: Comment vérifier si mes destinations spécifiques en Portugal sont bien couvertes
-    par les réseaux eSIM ?
-  a: 'Pour vérifier la couverture, consultez les cartes de couverture officielles
-    des opérateurs portugais : MEO, NOS et Vodafone. Vous pouvez également utiliser
-    des sites comme nPerf ou OpenSignal pour des cartes de couverture communautaires.
-    En général, les grandes villes (Lisbonne, Porto, Braga, Coimbra) et les zones
-    touristiques (Algarve, côte atlantique) bénéficient d''une excellente couverture
-    5G. Pour les zones rurales, privilégiez Vodafone qui offre la meilleure disponibilité
-    5G (80,3%).'
-- q: L'eSIM Portugal prend-elle en charge le partage de connexion (hotspot) pour partager
-    les données avec d'autres appareils ?
-  a: Oui, l'eSIM Roami Portugal prend en charge le partage de connexion (hotspot).
-    Vous pouvez donc connecter votre ordinateur portable, votre tablette ou d'autres
-    smartphones à votre téléphone pour partager votre connexion Internet. Cette fonctionnalité
-    est particulièrement utile pour les nomades numériques ou les familles en voyage.
-    Notez que certains opérateurs peuvent appliquer des limitations de débit en mode
-    hotspot, mais Roami garantit une expérience transparente.
-- q: Que dois-je faire si mon eSIM Portugal ne trouve pas de réseau après une installation
-    réussie ?
-  a: 'Si votre eSIM ne trouve pas de réseau après l''installation, suivez ces étapes
-    : 1) Assurez-vous que les données mobiles sont activées et que l''itinérance des
-    données est activée dans les paramètres de votre téléphone. 2) Redémarrez votre
-    appareil. 3) Vérifiez que le profil eSIM est correctement installé dans les paramètres
-    (généralement dans ''Données mobiles'' ou ''Réseau mobile''). 4) Sélectionnez
-    manuellement l''opérateur (MEO, NOS ou Vodafone) dans les paramètres réseau. 5)
-    Si le problème persiste, contactez le support client de Roami qui pourra vous
-    fournir un nouveau QR code ou vous aider à résoudre le problème.'
-myths_title: ⚠️ Mythes et faits courants sur l'eSIM Portugal
-myth_label: '❌ Mythe : '
-truth_label: '✅ Fait : '
-myths:
-- myth: Au Portugal, la 5G est disponible partout, même dans les zones rurales.
-  truth: Faux. Bien que la 5G soit largement déployée dans les grandes villes (Lisbonne,
-    Porto, Braga), les zones rurales et montagneuses peuvent encore n'avoir que la
-    4G ou la 3G. Vodafone offre la meilleure disponibilité 5G (80,3%), mais même elle
-    ne couvre pas tout le territoire.
-- myth: Tous les opérateurs portugais offrent la même vitesse 5G.
-  truth: Faux. Selon [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025),
-    NOS est le plus rapide en 5G avec 267,46 Mbps, suivi de MEO avec 251,02 Mbps.
-    Les différences de vitesse sont significatives, surtout pour les téléchargements
-    lourds.
-- myth: Une eSIM ne permet pas le partage de connexion (hotspot).
-  truth: Faux. La plupart des eSIM, y compris celles de Roami, prennent en charge
-    le partage de connexion. Vous pouvez connecter vos autres appareils sans problème.
-    Vérifiez simplement les conditions de votre forfait.
-- myth: Le réseau fixe est plus lent que le réseau mobile au Portugal.
-  truth: Faux. Le réseau fixe peut être très rapide. Vodafone, par exemple, offre
-    un débit descendant médian de 229,63 Mbps en fixe, ce qui est comparable aux meilleures
-    vitesses 5G mobiles.
-- myth: DIGI est un opérateur majeur avec une couverture 5G étendue.
-  truth: Faux. DIGI est un opérateur plus récent et moins présent. Bien qu'il offre
-    la meilleure constance en 5G (93,3% des échantillons dépassant 25 Mbps), sa couverture
-    globale est inférieure à celle de MEO, NOS et Vodafone.
-data_sources_title: Sources des données sur les réseaux mobiles Portugal
-data_sources_link_text: ''
-data_sources_list:
-- name: 'Rapport Ookla Speedtest: [Rapport de connectivité Speedtest Ookla](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025)'
-  description: Analyse des performances des réseaux mobiles et fixes au Portugal pour
-    le premier semestre 2025, basée sur les données Speedtest Intelligence®. Inclut
-    les vitesses de téléchargement, de téléversement, la latence et les scores de
-    connectivité.
-- name: OpenSignal 2025
-  description: Rapport sur l'expérience utilisateur des réseaux mobiles au Portugal,
-    couvrant la disponibilité 5G, la vitesse de téléchargement et l'expérience de
-    streaming vidéo.
-- name: ANACOM (Autorité nationale des communications) 2025
-  description: Rapport réglementaire officiel sur la couverture et la qualité des
-    services de télécommunications au Portugal, incluant les obligations de couverture
-    des opérateurs.
-data_sources_footer: Toutes les données de performance réseau citées ci-dessus proviennent
-  de rapports tiers accessibles au public, notamment Speedtest Intelligence® d'Ookla,
-  OpenSignal et l'ANACOM. Ces données sont fournies à titre indicatif et peuvent varier
-  en fonction de votre emplacement, de votre appareil et des conditions du réseau.
-data_sources_note: Les vitesses et la couverture réseau peuvent varier en fonction
-  de nombreux facteurs, notamment votre emplacement géographique, l'heure de la journée,
-  le type d'appareil utilisé et les conditions météorologiques. Les données présentées
-  sont des médianes et ne garantissent pas une expérience individuelle.
-cta_title: Obtenez votre eSIM Portugal dès aujourd'hui
-cta_desc: Obtenez un accès immédiat aux meilleurs réseaux portugais (MEO, NOS, Vodafone)
-  avec une eSIM Roami. Activation instantanée par QR code, pas de frais d'itinérance,
-  et partage de connexion inclus. Profitez de vitesses 5G allant jusqu'à 267 Mbps.
-cta_button_text: Acheter l'eSIM Portugal maintenant
-cta_button_link: /portugal-esim/
-cta_free_trial_note: Exclusif pour les nouveaux clients
-cta_free_trial_text: eSIM d'essai Portugal gratuite
-cta_free_trial_link: /free-esim/
+hero_badge: "eSIM Portugal : le guide de terrain des opérateurs"
+hero_subtitle_main: "Couverture, prix et le petit print qui décide de votre voyage"
 ---
+
+
+Une eSIM Portugal se choisit moins sur le prix que sur le réseau — MEO, NOS, Vodafone ou le nouveau Digi — et ce guide désigne l'opérateur à prendre selon votre itinéraire. Le pays compte désormais quatre réseaux nationaux plutôt que trois, et le moins cher d'entre eux n'est pas le plus lent. Dans le rapport 1H 2025 du Portugal d'Ookla, NOS a été nommé meilleur réseau mobile avec un Speedtest Connectivity Score de 79.87, MEO a remporté le prix du meilleur réseau 5G, Vodafone a mené sur la cohérence et la disponibilité 5G à 80.3 pour cent, et le nouvel entrant low-cost Digi a affiché le meilleur score de jeu mobile à 82.23. Le gagnant dépend de la région que vous parcourez. Notre cycle de mise à jour s'appuie sur les données d'activation et les tickets d'assistance Portugal de Roami, avec les communiqués de presse en source secondaire.
+
+**Réponse rapide :** MEO gagne l'argument de couverture au Portugal, NOS gagne sur les données à bas prix — les tableaux ci-dessous tranchent les détails. Vous pouvez aussi tester la configuration réseau Portugal gratuitement via l'[eSIM d'essai sans frais](/free-esim/) de Roami.
+
+Deux inconnues fréquentes : le téléphone supporte-t-il l'eSIM, et comment l'installation fonctionne-t-elle ? Passez votre modèle dans la [page de compatibilité](/compatibility/) d'abord, puis lisez [comment s'installe un profil eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) — les deux sont des prérequis que cette page saute délibérément.
+
+**En résumé :** Vous restez à Lisbonne, Porto ou l'Algarve ? Les trois réseaux historiques sont forts en ville, NOS portant le titre de meilleur réseau mobile. Vous roulez dans l'intérieur de l'Alentejo, marchez les levadas de Madère ou faites l'île en île des Açores ? MEO et Vodafone gardent le signal là où NOS s'efface. Vous voulez un eSIM qui atteint les quatre réseaux sans paperasse ? l'[eSIM d'essai sans frais](/free-esim/) teste les réseaux sans coût, et **WEB20** retire 20 % des [forfaits eSIM prépayés Portugal](/portugal-esim/).
+
+## Qui sont les opérateurs locaux, MEO, NOS et Vodafone ?
+
+Cette section répond à la question la plus pratique qu'un voyageur se pose : lequel des réseaux du Portugal pouvez-vous réellement mettre sur un eSIM, et cela vaut-il la paperasse par rapport à un profil voyage.
+
+### MEO contre NOS : lequel est meilleur au Portugal ?
+
+Le Portugal compte quatre réseaux mobiles nationaux. Les trois opérateurs historiques, MEO, NOS et Vodafone, partagent le marché avec Digi, un entrant low-cost qui fait désormais tourner sa propre infrastructure plutôt que de louer de la capacité. Les quatre vendent un service prépayé, et les quatre prennent en charge l'eSIM sur au moins certains forfaits.
+
+| | MEO | NOS | Vodafone | Digi |
+|:---|:---|:---|:---|:---|
+| eSIM prépayé pour visiteurs | Oui, y compris un flux touristique entièrement en ligne | Oui, mais l'activation en magasin est la norme | Oui, activation en magasin ou kiosque | Forfaits prépayés vendus ; le support eSIM se déploie |
+| Meilleure force mesurée | Prix du meilleur réseau 5G au 1H 2025 | Meilleur réseau mobile, Connectivity Score 79.87 | Plus haute disponibilité 5G à 80.3 pour cent, cohérence au sommet | Plus haut score de jeu mobile à 82.23 |
+| Forfait touristique le moins cher | Welcome à environ 18 EUR pour 25 GB | Welcome à environ 19 EUR pour 30 GB | Traveller à environ 20 EUR pour 30 GB | Prix agressif par gigaoctet, axé ville |
+| Facilité pour un visiteur | ★★★ — QR en ligne avant de prendre l'avion | ★★ — passeport, scan en magasin | ★★ — passeport, kiosque ou magasin | ★★ — couverture croissante mais inégale |
+
+Le détail qui compte le plus est la dernière ligne. Trois des quatre réseaux peuvent mettre un profil sur votre téléphone, mais seul MEO laisse un visiteur pour la première fois compléter tout l'achat et l'activation en ligne avant de quitter son domicile. NOS et Vodafone vous veulent encore au comptoir avec votre passeport.
+
+### Qui sont les opérateurs mobiles au Portugal ?
+
+Le Portugal a aussi des marques économiques qui chevauchent les grands réseaux ou font tourner les leurs. C'est là que les voyageurs sensibles au prix regardent d'abord.
+
+| Marque | Réseau sur lequel elle roule | eSIM pour visiteurs | À qui elle convient |
+|:---|:---|:---|:---|
+| Digi | Propre réseau 4G et 5G | Limité, en expansion | Séjours économiques concentrés dans les villes et bourgs |
+| Lycamobile | Capacité réseau MEO | Prépayé, application ou magasin | Voyageurs voulant des appels internationaux bon marché |
+| UZO | Réseau propre ou en partenariat | Axé carte SIM prépayée | Résidents ; demande souvent un numéro fiscal portugais |
+| Woo | En partenariat Vodafone | Axé carte SIM prépayée | Résidents ; l'identification peut bloquer l'inscription touristique |
+
+Deux mises en garde. D'abord, plusieurs marques de remise demandent un numéro fiscal portugais au paiement, que possède rarement un visiteur de court séjour, et ces marques ne sont donc pas toujours un chemin praticable. Ensuite, un forfait acheté auprès d'une seule marque est lié à un réseau, ce qui compte dès que vous quittez la ville ou traversez vers une île où ce réseau est faible.
+
+### Pouvez-vous acheter un eSIM Portugal auprès de MEO ?
+
+| | Directement d'un opérateur portugais | eSIM voyage sur un réseau portugais |
+|:---|:---|:---|
+| Ce dont vous avez besoin | Passeport pour l'enregistrement ; certaines marques veulent un numéro fiscal | Un téléphone compatible, déverrouillé |
+| Comment le profil arrive | QR en magasin, kiosque, ou QR par e-mail en ligne de MEO | Code QR ou installation d'application immédiatement après le paiement |
+| Coût typique | Environ 18 à 30 EUR pour un forfait touristique de 15 à 30 jours | Un prix unique à l'avance, aucune course locale |
+| Accès réseau | Un opérateur, ou MEO en ligne sur tout son réseau | Basculement automatique entre MEO, NOS, Vodafone et Digi |
+| Idéal pour | Séjours de trois semaines ou plus, ou toute personne voulant un numéro local | Voyages de quelques jours à quelques semaines, et toute personne voulant être en ligne à l'atterrissage |
+
+Pour des vacances ordinaires, la commodité l'emporte sur le forfait de style résidentiel. Un contrat opérateur est bâti pour les gens qui veulent un numéro portugais et une facturation mensuelle. Un eSIM voyage achète des données en gros et laisse l'appareil se déplacer entre réseaux. Là où l'opérateur gagne, c'est la voix et la longévité : un vrai numéro local et un forfait qui fonctionne encore au troisième mois.
+
+💡 Un profil eSIM multi-réseaux est le chemin du milieu pratique : l'[eSIM Portugal de Roami](/portugal-esim/) garde la commodité de la livraison instantanée, bascule automatiquement entre MEO, NOS, Vodafone et Digi, et vous pose encore sur NOS à Lisbonne et MEO aux Açores sans acheter deux fois.
+
+## Votre téléphone est-il prêt pour un eSIM opérateur Portugal ?
+
+Trois choses décident si votre téléphone fonctionne sur un opérateur portugais : ses bandes, son statut de verrouillage, et une courte liste de particularités propres à l'appareil. Les trois sont abordés ci-dessous.
+
+### Mon modèle fonctionnera-t-il avec le service eSIM Portugal ?
+
+Les opérateurs portugais construisent leur 5G sur des bandes spécifiques, menées par n78 à 3.5 GHz pour la vitesse urbaine, avec n1 et n3 pour une couverture plus large et n28 à 700 MHz plus n20 à 800 MHz pour la portée rurale et intérieure. En 4G, les chevaux de trait sont B3 à 1800 MHz, B7 à 2600 MHz, B20 à 800 MHz et B1 à 2100 MHz. La plupart des téléphones internationaux modernes les supportent déjà, de sorte qu'un visiteur d'Amérique du Nord ou d'Asie est rarement bloqué net.
+
+Personne n'a besoin de connaître les tableaux de bandes par cœur. Le numéro de modèle bat le nom marketing, alors cherchez le vôtre dans la [page de compatibilité eSIM](/compatibility/). [La mécanique d'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) décortique le processus, lecture utile pendant que vous planifiez le Camino.
+
+### Votre téléphone fonctionnera-t-il sur les réseaux Portugal ?
+
+Un téléphone verrouillé est la cause la plus fréquente d'échec d'installation d'un profil eSIM au Portugal. Le pays lui-même n'a pas de mandat de déverrouillage global pour les téléphones visiteurs, de sorte que le statut de verrou dépend de l'opérateur qui a vendu votre appareil au pays.
+
+**Vérifiez-le :** iPhone vers Réglages, puis Général, puis À propos, puis Carrier Lock. Les mots « No SIM restrictions » signifient que vous pouvez écarter entièrement cette inquiétude. S'il indique SIM locked, aucun profil portugais ne s'installera tant que cela n'aura pas changé.
+
+**Corrigez-le :** approchez l'opérateur ayant fourni le téléphone ; les vendeurs portugais sont tenus de déverrouiller sur demande. Les appareils payés sont normalement libérés en quelques heures, et beaucoup d'opérateurs le font sans frais via leur canal libre-service. Attendez le déverrouillage avant d'installer votre eSIM.
+
+Si vous avez acheté un téléphone à crédit auprès d'un opérateur US ou européen, supposez qu'il peut être verrouillé et vérifiez avant de prendre l'avion. Un appareil verrouillé rejettera une carte ou un profil local au comptoir.
+
+### Comment vérifier IMEI et EID pour un eSIM Portugal ?
+
+| Appareil | Symptôme | Que faire |
+|:---|:---|:---|
+| Téléphone verrouillé opérateur | L'installation eSIM échoue entièrement | Déverrouillez via l'opérateur d'origine d'abord, puis réessayez |
+| Téléphone sans n28 ou n20 | Rapide à Lisbonne et Porto, plus faible dans l'Alentejo rural | Comportement attendu ; privilégiez MEO ou Vodafone à l'intérieur |
+| Modèles iPhone de Chine continentale | Pas d'option Ajouter eSIM, matériel désactivé | Irréparable ; utilisez un autre appareil |
+| Utilisateurs double-SIM | eSIM installé mais pas de données | Définissez l'eSIM comme la ligne utilisée pour les données mobiles |
+| Android très ancien | Menu eSIM manquant | Confirmez le support eSIM avant d'acheter un forfait |
+
+Tout le reste concerne votre téléphone particulier, pas MEO ou NOS. Vérifiez la [liste de compatibilité des appareils](/compatibility/) avant le paiement, pas après l'atterrissage à Lisbonne.
+
+## Quels forfaits eSIM Portugal et à quel prix ?
+
+Quatre routes existent, et elles diffèrent plus par la paperasse que par le prix : MEO en ligne, NOS et Vodafone en magasin, Digi pour les esprits économiques, et l'eSIM voyage qui saute le comptoir. Chaque route, étape par étape :
+
+### Où acheter une eSIM Portugal : magasin ou en ligne ?
+
+MEO est le seul des trois grands à laisser un visiteur finir tout en ligne avant de prendre l'avion. C'est l'opérateur national historique, anciennement Portugal Telecom, et il détient encore l'empreinte de tours physiques la plus large du pays.
+
+**MEO eSIM, étape par étape :**
+
+1. Allez sur meo.pt et ouvrez la section Turistas ou eSIM, puis choisissez un forfait touristique.
+2. Téléversez les scans de passeport ou pièce d'identité quand demandé et payez par carte.
+3. Un code QR d'activation arrive par e-mail, typiquement en cinq à dix minutes.
+4. Scannez-le depuis les réglages de votre téléphone. Le service s'active en une à deux minutes.
+
+Le flux en ligne de MEO est le moyen le plus rapide d'atterrir avec un numéro portugais fonctionnel et sans file d'aéroport, c'est pourquoi il mène ce guide pour les visiteurs qui détestent les démarches.
+
+### SIM locale ou eSIM voyage au Portugal : que choisir ?
+
+NOS n'offre pas encore un achat eSIM touristique entièrement en ligne pour les nouveaux clients. Son eSIM prépayé est activé dans un magasin ou kiosque, où vous présentez votre passeport et l'assistant génère un code QR à l'écran ou sur papier.
+
+Pour un profil NOS, le chemin du nouveau venu est une visite : trouvez une Loja NOS dans un centre commercial ou un kiosque de salle d'arrivée à Lisbonne ou Porto, montrez votre passeport, et scannez le code en une à trois minutes. NOS porte le titre de meilleur réseau mobile d'Ookla pour le 1H 2025, ce qui fait un compromis réel entre commodité d'achat et qualité de réseau.
+
+### Comment se comparent les forfaits eSIM Portugal ?
+
+Vodafone Portugal suit le même modèle en magasin que NOS pour les visiteurs. Ses kiosques sont dans le Terminal 1 de l'aéroport de Lisbonne, à l'arrivée de Porto, et à Faro, et son eSIM prépayé est émis après une vérification de passeport.
+
+L'atout de Vodafone est l'équilibre : il a classé premier sur la disponibilité 5G à 80.3 pour cent et premier sur la cohérence dans les classements mobiles Ookla, et c'est la marque la plus visible aux comptoirs d'aéroport, ce qui en fait le choix par défaut pour beaucoup de voyageurs arrivants.
+
+### Et Digi et les marques économiques ?
+
+Digi est le quatrième réseau national et le perturbateur de prix. Il vend des forfaits prépayés à des tarifs agressifs, mais sa propre couverture se construit encore hors de Lisbonne et Porto, et son support eSIM se déploie plutôt qu'universel. Pour un court séjour urbain, le rapport qualité-prix peut être excellent ; pour tout endroit reculé, c'est un pari.
+
+Les autres marques économiques, Lycamobile sur capacité MEO, UZO et Woo, tendent à cibler les résidents et peuvent demander un numéro fiscal portugais qui bloque une inscription touristique rapide. Traitez-les comme options de secours plutôt que votre premier choix.
+
+### Quels sont les forfaits data les moins chers au Portugal ?
+
+Tous les prix ci-dessous sont en euros et reflètent les forfaits prépayés touristiques typiques 2026 observés chez les trois opérateurs historiques. Ils incluent l'enveloppe d'itinérance UE, ce qui compte si votre voyage traverse vers l'Espagne ou la France.
+
+| Opérateur | Forfait | Données et validité | Itinérance UE | Prix |
+|:---|:---|:---|:---|:---|
+| MEO | Welcome Option A | 25 GB, 15 jours | 10 GB | environ 18 EUR |
+| MEO | Welcome Option B | 40 GB, 30 jours | 15 GB | environ 25 EUR |
+| NOS | Welcome Pack | 30 GB, 20 jours | 12 GB | environ 19 EUR |
+| Vodafone | Traveller Option A | 30 GB, 30 jours | 12 GB | environ 20 EUR |
+| Vodafone | Traveller Option B | 50 GB, 30 jours | 18 GB | environ 30 EUR |
+
+Ces forfaits sont des packs data-et-voix avec SMS nationaux illimités et un bloc de minutes. Les eSIM voyage données-seules se tarifient différemment, généralement au gigaoctet, et sautent entièrement le numéro local. En dérivé utile : le pack MEO d'entrée revient à environ 0.72 EUR le gigaoctet et 1.20 EUR par jour, tandis que le Vodafone à 50 Go descend vers 0.60 EUR le gigaoctet — plus votre consommation est lourde, plus le gros volume paie. Si vous comptez partager la connexion avec un ordinateur, vérifiez aussi que le forfait l'autorise avant d'acheter.
+
+### Quels forfaits eSIM MEO pour les visiteurs ?
+
+- **Passeport** — obligatoire pour toute inscription SIM ou eSIM au Portugal depuis 2021
+- **IMEI** — composez `*#06#`
+- **EID** — aussi depuis l'écran `*#06#` ; l'identifiant propre de l'eSIM
+- **Téléphone déverrouillé** — cherchez No SIM restrictions dans l'entrée Carrier Lock
+- **Une carte qui fonctionne au Portugal** — certains paiements opérateur rejettent les adresses de facturation étrangères
+- **Wi-Fi** — installez le profil avant de prendre l'avion, pas à l'aéroport
+
+Installez chez vous. Les salles d'arrivée de Lisbonne et Porto ont un Wi-Fi congestionné exactement quand vous en avez le plus besoin, et un profil installé sur place se dispute le même réseau que celui de tous les autres arrivants.
+
+## Couverture, vitesse : quel opérateur gagne au Portugal ?
+
+Deux questions tranchent cette section : comment les opérateurs se mesurent réellement aux tests d'Ookla, et quel genre de voyage vous faites. Les scores opérateurs ci-dessous répondent au premier ; les tableaux par type de voyage et par région au second.
+
+### MEO contre NOS : quel opérateur Portugal est plus rapide ?
+
+Tous les chiffres ci-dessous proviennent du Speedtest Connectivity Report d'Ookla pour le Portugal, période de collecte janvier à juin 2025, et chaque chiffre remonte aux données au niveau opérateur fournies pour ce guide. Là où le rapport n'a pas publié de chiffre pour un opérateur donné, la cellule est laissée vide plutôt qu'estimée.
+
+| Indicateur | Vodafone | Digi |
+|:---|:---|:---|
+| Score de Connectivité Speedtest | 79.18 | 73 |
+| Speed Score | 72.26 | 62.76 |
+| Score de Cohérence | 91.7 | 90.4 |
+| Disponibilité 5G | 80.3 pour cent | non publié |
+| Score de Streaming Vidéo | 76.05 | 71.51 |
+| Score de Jeu | 81.28 | 82.23 |
+| Note 5 Étoiles | 3.3 | 3.47 |
+
+Ookla a séparément décerné à NOS le meilleur réseau mobile au Portugal pour le 1H 2025 avec un Speedtest Connectivity Score de 79.87, et a nommé MEO meilleur réseau 5G. Ces deux prix reflètent la largeur de couverture et l'expérience 5G plutôt que les scores de vitesse tête-à-tête ci-dessus, c'est pourquoi l'emplacement d'un visiteur décide plus que n'importe quel trophée unique.
+
+Pour le contexte sur le haut débit fixe, les données d'Ookla montrent aussi Vodafone menant le côté internet domestique du même marché :
+
+| Métrique fixe | Vodafone |
+|:---|:---|
+| Score de Connectivité Speedtest | 78.25 |
+| Speed Score | 70.09 |
+| Score de Cohérence | 89 |
+| Score de Streaming Vidéo | 75.67 |
+| Score de Jeu | 92.46 |
+| Note 5 Étoiles | 3.3 |
+
+Sur le pays dans son ensemble, l'Ookla Speedtest Global Index a placé le téléchargement mobile médian du Portugal autour de 226 Mbps à la mi-2026, dans le top 25 mondial des marchés, c'est pourquoi la plupart des visiteurs ne remarquent jamais un problème de vitesse en ville.
+
+### Quelle eSIM Portugal selon votre type de voyage ?
+
+| Votre voyage | Meilleur opérateur | Pourquoi | À surveiller |
+|:---|:---|:---|:---|
+| Escape urbaine à Lisbonne ou Porto | NOS ou MEO | Les deux sont excellents au centre ; NOS porte le titre de meilleur réseau mobile | Congestion dans les centres historiques aux heures de pointe |
+| Nomade numérique, appels vidéo | Vodafone | Cohérence au sommet et plus haute disponibilité 5G à 80.3 pour cent | Vitesses d'upload traînent sur tours partagées occupées |
+| Jeu intensif ou streaming | Digi ou Vodafone | Digi a affiché le meilleur score de jeu mobile à 82.23 | La couverture Digi s'efface hors des villes |
+| Road trip intérieur Alentejo | MEO ou Vodafone | Portée basse bande plus large dans les plaines et villages reculés | NOS peut chuter sur routes secondaires tranquilles |
+| Vacances plage Algarve | Vodafone ou MEO | Fiable dans les resorts et le long de la côte | Le signal s'efface sur la route côtière ouest plus tranquille |
+| Randonnée Madère | MEO pour les vallées, NOS pour la côte | MEO pénètre les ravins ; NOS est fort à Funchal | Parsemé sur le haut plateau central |
+| Île en île Açores | MEO pour les îles extérieures, Vodafone pour les villes principales | MEO atteint Flores, Corvo et Graciosa | L'intérieur volcanique chute sur tout réseau |
+| Voyage multi-pays Europe | Un eSIM régional | Roam Like at Home couvre l'UE depuis un profil | Les forfaits à opérateur unique montrent des trous entre régions |
+
+### MEO vs NOS : quelle est la meilleure couverture ?
+
+La couverture du Portugal suit la population sur le continent mais se comporte très différemment sur les archipels atlantiques, et la plupart des articles concurrents s'arrêtent au continent. Ce que cela signifie route par route :
+
+| Région | Réalité sur le terrain | Meilleur opérateur | À surveiller |
+|:---|:---|:---|:---|
+| Lisbonne et le Tage | 4G excellente et 5G croissante dans chaque district | NOS ou MEO | Congestion du centre historique en été |
+| Porto et le couloir nord | 5G forte le long de l'A1 et dans les centres-villes | NOS | Le rural Trás-os-Montes est plus faible sur tout réseau |
+| Côte Algarve | Fiable dans les resorts de Faro à Lagos | Vodafone ou MEO | Les étirements ouest plus tranquilles perdent le signal |
+| Intérieur Alentejo | Bien dans les villages, parsemé sur routes mineures | MEO ou Vodafone | Les vallées profondes retombent en 3G ou 2G |
+| Archipel Madère | Funchal et la côte sud bien couverts ; 5G active dans la capitale | MEO pour l'intérieur, NOS pour la côte | Routes falaises nord et plateau Paul da Serra tombent |
+| Archipel Açores | 4G solide sur chaque côte habitée ; 5G à Ponta Delgada, Angra et Horta | MEO pour îles extérieures, Vodafone pour villes principales | L'intérieur volcanique et plus petites îles sont intermittents |
+
+Les Açores méritent un regard plus proche car ils brisent le motif continental. Les trois réseaux historiques y opèrent, et MEO possède l'infrastructure rurale et maritime la plus étendue, incluant les liaisons vers les îles occidentales reculées de Flores et Corvo et vers Graciosa. NOS et Vodafone sont excellents sur São Miguel, Terceira, Pico et Faial mais s'effacent sur les îles périphériques. Madère reflète cela : Funchal et la rive sud sont bien servis, tandis que les routes nord accidentées et le haut plateau central voient un service plus parsemé sur tout opérateur.
+
+💡 La sélection de réseau automatique est ce qui fait fonctionner le voyage en île. Un profil qui peut se déplacer entre MEO, NOS, Vodafone et Digi couvre les trous qu'aucun forfait à opérateur unique ne peut, surtout quand un ferry ou une route de montagne vous dépose sur un réseau différent.
+
+## Quels réglages APN chaque eSIM opérateur Portugal utilise-t-il ?
+
+Peu de voyageurs touchent jamais à l'APN ; c'est pourtant la première chose à vérifier quand les données échouent. Ci-dessous : les valeurs pour les trois opérateurs historiques, quand la saisie manuelle est réellement requise, et les chemins de menu exacts.
+
+### Quelles valeurs APN pour les eSIM MEO, NOS et Vodafone ?
+
+Vous n'en aurez besoin que si vous avez acheté une carte SIM ou eSIM directement auprès d'un opérateur portugais. Les profils voyage arrivent avec leur APN réglé ; laissez-le exactement comme il est arrivé.
+
+| Opérateur | APN | Nom d'utilisateur | Mot de passe |
+|:---|:---|:---|:---|
+| MEO | `internet` | vide | vide |
+| NOS | `internet` | vide | vide |
+| Vodafone | `net2.vodafone.pt` | vide | vide |
+
+Laissez nom d'utilisateur et mot de passe vides. Ce sont les valeurs standard publiées ; si votre e-mail d'activation émis par l'opérateur imprime un APN différent, faites confiance à l'e-mail, car certains forfaits utilisent une chaîne variant.
+
+### Comment régler l'APN pour chaque opérateur portugais ?
+
+- Un appareil trop ancien pour capter les réglages opérateur automatiquement
+- Un profil installé avec un code d'activation manuel plutôt qu'un scan QR
+- Un eSIM prépayé émis par opérateur où la configuration automatique n'a pas tourné
+- Presque jamais sur un eSIM voyage, ce qui est le propre d'un profil géré
+
+### Quand saisir un APN Portugal à la main
+
+- **iPhone :** Réglages, puis Cellulaire, tapez la ligne eSIM, Réseau de Données Cellulaire, puis entrez l'APN
+- **Android :** Réglages, puis Connexions, Réseaux Mobiles, Noms des Points d'Accès, puis ajoutez un nouvel APN
+
+Après l'enregistrement, redémarrez le téléphone. Toujours pas de données ? Vérifiez que l'eSIM, plutôt que votre carte locale, est définie comme ligne de données avant toute autre chose.
+
+## Comment activez-vous un eSIM Portugal et corrigez les pannes ?
+
+Une seule passe ici couvre le chemin de l'installation propre aux données fonctionnelles plus les motifs d'échec que les réseaux portugais produisent réellement, par ordre de fréquence typique.
+
+### Que vérifier avant d'activer un eSIM Portugal ?
+
+| # | Vérification | À quoi ressemble le « bon » |
+|:---|:---|:---|
+| 1 | Le téléphone n'est pas verrouillé opérateur | No SIM restrictions visible sous Carrier Lock |
+| 2 | Le téléphone supporte l'eSIM | `*#06#` montre un EID, ou le vérificateur de compatibilité confirme votre modèle |
+| 3 | Code QR et code d'activation sauvegardés | Capture d'écran stockée sur le téléphone et dans le stockage cloud |
+| 4 | Profil installé avant le départ | Installez sur Wi-Fi chez vous ; il se connecte à l'atterrissage |
+| 5 | Ligne data et itinérance réglées | eSIM sélectionné pour les données mobiles, itinérance data activée |
+
+Faites l'étape quatre chez vous. Le Wi-Fi d'aéroport à Lisbonne et Porto est congestionné exactement au moment où vous en avez le plus besoin, et un profil installé sur place se dispute le même réseau que tous les autres arrivants.
+
+### Comment votre eSIM Portugal s'installe
+
+La séquence d'installation générique, Ajouter eSIM, scanner le code QR, étiqueter la ligne, la définir comme ligne data, activer l'itinérance data, est dans notre [démarche d'activation pas à pas](/faq/how-to-activate-an-esim/). Ce qui diffère par opérateur :
+
+- **MEO :** le seul flux visiteur entièrement en ligne ; le QR arrive par e-mail après téléversement du passeport, aucune visite en magasin
+- **NOS :** génération en magasin ou kiosque du code QR après vérification du passeport
+- **Vodafone :** émission kiosque ou magasin après enregistrement passeport, plus fort aux comptoirs d'aéroport
+- **Digi :** inscription prépayée avec support eSIM encore en expansion selon lieu
+- **eSIM voyage :** installez par code QR, et le même profil itinère sur lequel de MEO, NOS, Vodafone ou Digi est le plus fort
+
+### Quelles pannes sont spécifiques aux eSIM Portugal ?
+
+Erreurs d'activation générales, un profil qui ne se télécharge pas, un scan qui échoue, un eSIM qui s'installe mais ne s'enregistre jamais, sont couverts dans notre [guide complet de dépannage eSIM](/faq/esim-activation-errors-troubleshooting-guide/). Les motifs ci-dessous sont ceux spécifiques au Portugal.
+
+**A. Le code QR en ligne MEO n'arrive jamais.** La livraison e-mail peut prendre cinq à dix minutes, et les filtres anti-spam d'aéroport sont agressifs. Vérifiez le spam d'abord, puis re-téléversez votre passeport si la commande est restée bloquée à la vérification.
+
+**B. NOS ou Vodafone n'émettront pas un profil à distance.** Ces deux opérateurs vous reçoivent encore en personne. Si un site web prétend un eSIM touristique en ligne pour eux, c'est généralement une marque voyage revendant l'accès, pas l'opérateur lui-même, alors attendez une étape magasin ou kiosque.
+
+**C. Barres de signal mais pas d'internet dans l'Alentejo ou sur une route de montagne.** Vous êtes sur une frange basse bande faible. Passez la sélection de réseau en manuel et choisissez MEO ou Vodafone, qui gardent la portée rurale mieux que NOS à l'intérieur.
+
+**D. Coupures pendant la randonnée à Madère ou aux Açores.** Le terrain volcanique bloque les ondes radio. Téléchargez des cartes hors ligne avant vos journées de marche, car aucun opérateur n'est impeccable sur le haut plateau ou les plus petites îles.
+
+**E. Les données meurent après avoir traversé vers l'Espagne sur le Camino Portugués.** La Voie Portugaise du Camino de Santiago court vers le nord à travers le rural Trás-os-Montes et Minho, puis traverse vers la Galice. Sur un seul opérateur portugais, les étirements ruraux nord favorisent MEO ou Vodafone, et une fois la frontière franchie, les règles UE Roam Like at Home gardent vos données fonctionnelles sans frais supplémentaires, ce qui rend une SIM portugaise vraiment utile jusqu'à Santiago.
+
+### Que devez-vous rassembler avant de contacter le support ?
+
+| Ce dont le support a besoin | Où le trouver |
+|:---|:---|
+| Numéro de commande ou de compte | E-mail de confirmation |
+| Modèle de téléphone et version OS | Réglages, À propos |
+| EID | `*#06#` |
+| Capture de l'erreur | Prenez-la avant que l'écran ne change |
+| Réglages APN actuels | Réglages, Réseau de Données Cellulaire |
+| Statut d'itinérance data | Réglages, Cellulaire, votre ligne eSIM |
+| Étapes déjà essayées | Gardez une courte liste |
+
+## À quoi ressemble le marché mobile portugais ?
+
+### Puis-je acheter un eSIM touristique directement auprès de MEO ?
+
+Oui, et MEO est le plus facile des opérateurs historiques pour un visiteur. Son flux en ligne Turistas prend un téléversement de passeport et un paiement par carte, puis envoie un code QR par e-mail que vous scannez avant de prendre l'avion, de sorte que vous atterrissez avec un numéro portugais fonctionnel et sans file d'aéroport.
+
+### NOS vend-il un eSIM prépayé que les visiteurs peuvent acheter ?
+
+Pas encore entièrement en ligne. NOS émet son eSIM prépayé dans un magasin ou kiosque d'aéroport après une vérification de passeport, c'est pourquoi il se classe une étape derrière MEO pour la commodité même si Ookla l'a nommé meilleur réseau mobile au Portugal pour le 1H 2025.
+
+### Les visiteurs internationaux peuvent-ils obtenir un eSIM Vodafone ?
+
+Oui, à un kiosque ou magasin Vodafone avec votre passeport. Vodafone est la marque la plus visible aux aéroports de Lisbonne, Porto et Faro et il a mené les classements mobiles 1H 2025 d'Ookla sur la disponibilité 5G à 80.3 pour cent et sur la cohérence, de sorte que l'étape en personne vous offre en échange un réseau fort.
+
+### Digi est-il un bon choix eSIM pour une courte visite ?
+
+Digi est le perturbateur de prix et il a affiché le meilleur score de jeu mobile à 82.23 dans les données Ookla, mais sa propre couverture se construit encore hors de Lisbonne et Porto et son support eSIM se déploie. Choisissez-le pour un séjour ville où le prix compte plus que la portée.
+
+### Quel réseau couvre le mieux le Portugal ?
+
+MEO et Vodafone, sur la preuve terrain. L'intérieur de l'Alentejo, la Serra da Estrela et les vallées nord reculées gardent le signal mieux sur ces deux-là grâce à une infrastructure basse bande plus large, tandis que NOS, fort en villes, peut s'estomper sur routes secondaires tranquilles.
+
+### Les touristes doivent-ils enregistrer les SIM au Portugal ?
+
+Oui. Depuis 2021, la loi portugaise exige l'identification au moment où toute SIM ou eSIM est activée, et ANACOM, le régulateur national, applique cela : tout magasin ou flux en ligne capturera votre numéro de passeport. Le prépayé n'exige pas de numéro fiscal local, mais les contrats postpayés oui.
+
+### Mon eSIM Portugal fonctionnera-t-il aux Açores et Madère ?
+
+Oui. Les Açores et Madère sont territoire portugais, donc un profil continental y fonctionne comme connexion nationale sans frais d'itinérance. La couverture est forte sur les îles principales et dans les villes, mais les plus petites îles açoriennes et les intérieurs volcaniques sont plus parsemés, MEO atteignant les spots les plus extérieurs le mieux.
+
+### Votre eSIM Portugal fonctionne-t-elle à l'étranger ?
+
+Comme le Portugal fait partie de l'UE, toute SIM ou eSIM portugaise utilise les règles Roam Like at Home, donc votre enveloppe d'appels, SMS et données fonctionne à travers les autres pays UE et EEE aux tarifs domestiques, sous un plafond d'usage équitable des données. Un visiteur hors UE obtient le même bénéfice d'une SIM portugaise, car la règle suit le réseau, pas le passeport. Pour un voyage multi-pays, comparez nos [forfaits eSIM Espagne](/spain-esim/) et un [eSIM Europe](/europe-esim/) qui couvre tout le bloc.
+
+### Un forfait opérateur portugais ou un eSIM voyage est-il le meilleur achat ?
+
+Direct signifie un réseau, une mise en service émise par l'opérateur, et souvent un numéro local et l'itinérance UE ; en échange vous affrontez l'enregistrement et parfois une visite en magasin. Un eSIM voyage signifie livraison instantanée, aucune paperasse, basculement automatique entre MEO, NOS, Vodafone et Digi, et un prix fixe à l'avance. Court voyage : eSIM voyage. Long séjour ou vous avez besoin d'un numéro local : direct.
+
+### Comment déverrouiller votre téléphone pour le Portugal ?
+
+Demandez à l'opérateur auquel il est verrouillé. Les appareils payés sont généralement libérés en quelques heures via le canal libre-service de l'opérateur sans frais. Les propriétaires iPhone peuvent lire l'état de verrou dans Réglages, Général, À propos, Carrier Lock avant de jamais monter dans un avion.
+
+### Comment activer un eSIM Portugal, étape par étape ?
+
+Ouvrez Réglages, choisissez Ajouter un eSIM, scannez le code QR reçu par e-mail ou en magasin, étiquetez la ligne, définissez-la comme ligne de données et activez l'itinérance. La démarche illustrée, captures iOS et Android à l'appui, est dans notre [activation pas à pas](/faq/how-to-activate-an-esim/) ; si la ligne s'installe mais ne fonctionne pas, le [guide de résolution eSIM](/faq/esim-activation-errors-troubleshooting-guide/) couvre les erreurs restantes dans l'ordre : statut de verrou, sélection de réseau, APN et ligne de données, puis réinstallation du profil.
+
+### Quels téléphones posent problème pour les eSIM Portugal ?
+
+Trois cas figurent presque tous les problèmes : un téléphone verrouillé opérateur refusera tout profil tiers, les iPhone de Chine continentale ont l'eSIM désactivée au niveau matériel, et les Android très anciens n'ont tout simplement pas le menu eSIM. Pour les autres appareils, la puce embarquée stocke le profil opérateur sans carte physique — la mécanique, les codes d'activation et pourquoi un code QR est à usage unique sont expliqués dans [comment fonctionne l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/).
+
+Plus de questions ? [Voir la FAQ complète →](/faq/)
+
+## Nos sources pour ce guide eSIM Portugal
+
+- **Ookla Speedtest Connectivity Report, Portugal 1H 2025** — ce [rapport par opérateur](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025) porte les chiffres opérateurs utilisés ici : Connectivity Score de 79.18 de Vodafone, Speed Score 72.26, Cohérence 91.7 et disponibilité 5G 80.3 % ; Game Score 82.23 et note 3.47 de Digi ; prix du meilleur réseau mobile de NOS à 79.87 ; et titre du meilleur réseau 5G de MEO. Il fournit aussi les chiffres de haut débit fixe pour Vodafone.
+- **Ookla Speedtest Global Index** — l'[entrée Portugal](https://www.speedtest.net/global-index/portugal) fournit le téléchargement mobile médian national et le rang mondial mensuel.
+- **DataReportal** — le rapport [Digital 2025 : Portugal](https://datareportal.com/reports/digital-2025-portugal) cadre à quel point le marché est connecté, tandis qu'ANACOM, le régulateur national, est l'organisme qui applique la règle d'enregistrement SIM citée ci-dessus.
+- **Cable.co.uk** — son [sondage mondial de prix de données](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) étalonne à quel point les données mobiles portugaises sont coûteuses relativement aux autres marchés.
+- **Commission Européenne** — le [guide Roam Like at Home](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming/index_en.htm) explique les règles d'itinérance UE qui gardent un eSIM portugais fonctionnel à travers le bloc.
+
+Nous nous fions uniquement à des mesures tierces. Les résultats varient avec l'appareil, la bande qu'il détient et la congestion sur la cellule la plus proche.
+
+## Questions fréquentes sur les eSIM Portugal
+
+### Mon téléphone actuel prendra-t-il un eSIM Portugal ?
+
+Un téléphone de 2020 ou ultérieur fonctionne presque certainement ; les verrous opérateur et le matériel de Chine continentale sont les exceptions. Passez la [vérification de compatibilité eSIM](/compatibility/) avant de payer quoi que ce soit.
+
+### Comment mettre à l'épreuve ces affirmations de couverture pour mon itinéraire ?
+
+Vérifiez en croix les sections opérateurs ci-dessus contre les données de vitesse que nous citons, puis testez avant de vous engager : l'[eSIM d'essai gratuit](/free-esim/) de Roami roule sur les mêmes réseaux et vous montre le vrai signal là où vous restez réellement.
+
+### Quelle erreur les voyageurs regrettent-ils le plus au Portugal ?
+
+Atterrir sans connectivité, puis se battre avec le Wi-Fi d'aéroport pour un correctif. Installez et activez votre eSIM la veille de votre vol — tout le processus est couvert ci-dessus et prend des minutes.
+
+## Comment gérer l'itinérance et les frontières depuis le Portugal ?
+
+Un profil couvre MEO, NOS, Vodafone et Digi, se réattachant au signal le plus fort à mesure que vous passez des rues de Lisbonne aux villages de Madère et aux Açores. Les nouveaux visiteurs peuvent [échantillonner le réseau gratuitement](/free-esim/) d'abord, ou saisir le code **WEB20** pour 20 % de réduction sur les [forfaits eSIM Portugal](/portugal-esim/).
+
+[Commandez votre eSIM Portugal](/portugal-esim/)
+
+*Tarifs de bienvenue pour les premiers voyageurs*
+
+[Commencez l'essai gratuit](/free-esim/)
+
+Une dernière étape avant de voler : vérifiez votre téléphone sur la [page de compatibilité eSIM](/compatibility/), puis commencez par un [essai multi-réseaux gratuit](/free-esim/) de Roami et voyez comment MEO traite votre route. Appliquer WEB20 au paiement retire 20 % de tout forfait Roami payant couvrant le Portugal.

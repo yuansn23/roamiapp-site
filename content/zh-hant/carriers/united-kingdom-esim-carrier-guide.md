@@ -1,297 +1,384 @@
 ---
-title: "英國 eSIM 選購指南：5G 網速、方案價格與使用建議。"
-description: "要去英國了嗎？Roami 從機場到景區實際體驗 EE、Three 和 Vodafone 的 5G 表現，用第一手經驗幫您選出最適合的 eSIM。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 英國，預付數據，5G 網路，EE，Vodafone，Three，O2，Roami，旅遊 eSIM，英國上網卡"
-site_name: "Roami"
-brand_name: "Roami"
+title: "英國 eSIM 怎麼挑？EE、Vodafone、O2、Three 四大業者比較"
+description: "英國 eSIM 要辦哪一家電信業者？Roami 比較 EE、Vodafone、O2 與 Three 在各地的 5G 網速、覆蓋率與預付資費，從倫敦、愛丁堡到蘇格蘭高地逐段實測，整理申辦規定與 APN 設定，幫你英國全程選對 eSIM，倫敦高地都順暢。"
+image: "img/esim/carriers/united-kingdom-esim-carrier-guide.jpg"
+date: "2026-09-23T10:15:47+00:00"
+keywords: eSIM United Kingdom, 預付數據, 5G 網路, UK eSIM, travel eSIM, 英國數位遊牧, 英國 eSIM 業者, eSIM 業者 United Kingdom, EE eSIM, Vodafone eSIM, Three eSIM, Virgin Media O2 eSIM
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "英國 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇬🇧] 英國最新旅遊 eSIM 指南"
-hero_subtitle_main: "英國 eSIM：保留原號碼，暢遊當地"
-hero_subtitle_highlight: "EE 與 Three 頂級 5G 覆蓋"
-hero_description_line1: "英國 eSIM 提供可靠的數據解決方案，支援熱點分享與多天數方案，是旅遊與商務的實用工具。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "英國 eSIM"
-hero_link_url: "/united-kingdom-esim/"
-tldr_summary: "【告別昂貴漫遊費：迎接全球自由通訊時代】前往英國，無需再忍受高額漫遊帳單。Roami 英國 eSIM 讓您保留原號碼，同時以當地頂尖營運商（如 EE、Three、Vodafone）的網路高速連線。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025) 最新數據，EE 在英國全境中位下載速度達 114.1 Mbps，Three 在倫敦等城市頂尖 5% 速度更超過 1.6 Gbps。無論是倫敦地鐵、愛丁堡城堡或湖區自駕，Roami eSIM 提供穩定、即時的數據服務，真正實現全球自由通訊。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "英國 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：英國 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "英國 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：英國 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 英國 eSIM 前須知"
-
-  - href: "#faq"
-    text: "英國 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "英國 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：英國該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "EE"
-    carrier_class: "text-orange-600"
-    reason: "EE 連續 25 次獲得 RootMetrics 英國整體網路獎，全境中位下載速度達 114.1 Mbps，是重度數據使用者的最佳選擇。"
-
-  - travel: "城市探索者"
-    carrier: "Three"
-    carrier_class: "text-purple-600"
-    reason: "Three 在倫敦等 16 個大都會市場中位下載速度均超過 50 Mbps，部分城市達 100 Mbps 以上，且擁有最大連續 3.5 GHz 頻段，適合市區高速上網。"
-
-  - travel: "鄉村與自然愛好者"
-    carrier: "Vodafone"
-    carrier_class: "text-red-600"
-    reason: "Vodafone 在威爾斯與蘇格蘭表現強勁，多數類別排名第二，鄉村覆蓋可靠，適合前往高地、湖區等偏遠地區。"
-
-  - travel: "預算有限旅客"
-    carrier: "Virgin Media O2"
-    carrier_class: "text-teal-600"
-    reason: "O2 在 2025 下半年可靠性排名躍升至第二，且 5G 可用率最高，中位下載速度 44.1 Mbps，足以應付日常通訊與社交媒體。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 英國 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "ee-esim"
-    title: "EE eSIM 總覽：全英最快網路"
-    best_for: "此方案絕對是最佳選擇，適合需要極速下載、穩定連線的商務旅客與重度使用者。EE 連續 12 年蟬聯 RootMetrics 英國整體網路冠軍。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)，EE 在倫敦廣泛部署 80 MHz 的 3.5 GHz (n78) 雙載波聚合，並搭配 2100 MHz (n1)、1800 MHz (n3)、2600 MHz (n7) 及 700 MHz (n28) 頻段，5G 覆蓋深度與廣度領先。\n- **下載速度**：全英國中位下載速度 114.1 Mbps，為第二名 Three (53.8 Mbps) 的兩倍以上。\n- **可靠性**：EE 在 UK-wide 可靠性測試中排名第一，網路穩定性極佳。\n- **技術亮點**：EE 是唯一大量使用 4 頻與 5 載波 4G 聚合的營運商，確保 5G 訊號弱時仍有高速 4G 錨點。"
-    arcep_note: "經英國通訊管理局 (Ofcom) 確認，EE 持有 1800 MHz、2600 MHz、3.5 GHz 等關鍵頻段，並積極進行頻譜重整以提升效能。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時下載，抵達英國後掃描 QR code 即可連線，無需更換實體 SIM 卡。"
-    user_scenarios: "- **[倫敦地鐵通勤]**：EE 在倫敦地鐵站內提供 4G/5G 覆蓋，讓您在地下也能流暢瀏覽地圖、收發訊息。\n- **[愛丁堡城堡直播]**：在熱門景點進行直播或視訊通話，EE 的高上傳速度與低延遲確保畫面清晰不卡頓。\n- **[湖區自駕導航]**：行經 M6 高速公路與湖區鄉間小路，EE 的連續覆蓋讓導航不中斷。"
-    bg_color: "bg-blue-50"
-
-  - id: "three-esim"
-    title: "Three eSIM 總覽：市區 5G 極速體驗"
-    best_for: "適合主要在城市活動、追求極致 5G 下載速度的用戶。Three 擁有英國最大連續 3.5 GHz 頻段，頂尖 5% 速度超過 1.6 Gbps。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)，Three 在倫敦等大城市部署高達 140 MHz 的 n78 雙載波聚合，5G 峰值速度無人能及。\n- **下載速度**：全英國中位下載速度 53.8 Mbps，在 16 個大都會市場中位數均超過 50 Mbps，其中 4 個城市達 100 Mbps 以上。\n- **可靠性**：UK-wide 可靠性排名與 Virgin Media O2 並列第二。\n- **技術亮點**：Three 的 5G 層效能極強，但 4G 錨點相對較弱，市區體驗最佳。"
-    arcep_note: "經 Ofcom 確認，Three 持有 3.5 GHz 頻段最大連續區塊，並與 Vodafone 進行 MOCN 共享，逐步改善鄉村覆蓋。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時啟用，適合短期旅遊或商務出差。"
-    user_scenarios: "- **[倫敦金融城視訊會議]**：在 Canary Wharf 或 Bank 站附近，Three 的 5G 極速讓大型檔案上傳、視訊會議毫無延遲。\n- **[曼徹斯特音樂節打卡]**：在人群密集的音樂節現場，Three 的網路容量仍能維持順暢上傳限時動態。\n- **[伯明翰購物中心串流]**：在 Bullring 購物中心內串流高畫質影片，Three 的 5G 覆蓋提供穩定頻寬。"
-    bg_color: "bg-purple-50"
-
-  - id: "vodafone-esim"
-    title: "Vodafone eSIM 總覽：最佳鄉村覆蓋"
-    best_for: "此方案絕對是最佳選擇，適合前往蘇格蘭高地、威爾斯國家公園等偏遠地區的旅客。Vodafone 在威爾斯與蘇格蘭多數類別排名第二。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)，Vodafone 在倫敦部署多樣化 n78 配置（50-115 MHz），並開始使用 Three 的 140 MHz 基礎載波進行 MOCN 共享。\n- **下載速度**：全英國中位下載速度 47.7 Mbps，在 16 個城市中有 11 個超過 50 Mbps，2 個超過 100 Mbps。\n- **可靠性**：UK-wide 可靠性排名第四，但在威爾斯與蘇格蘭表現突出。\n- **技術亮點**：Vodafone 積極進行載波聚合升級，並與 Three 共享網路以擴大鄉村覆蓋。"
-    arcep_note: "經 Ofcom 確認，Vodafone 與 Three 的合併已獲有條件批准，未來網路整合將進一步提升覆蓋與容量。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時啟用，並可保留原號碼接收簡訊。"
-    user_scenarios: "- **[蘇格蘭高地自駕]**：行經 A82 公路前往尼斯湖，Vodafone 的鄉村覆蓋確保導航與緊急通話暢通。\n- **[威爾斯斯諾登尼亞登山]**：在登山步道沿途，Vodafone 訊號穩定，可隨時分享壯麗風景。\n- **[科茨沃爾德鄉村住宿]**：在偏遠民宿中，Vodafone 的 4G/5G 覆蓋讓您能遠端工作不中斷。"
-    bg_color: "bg-red-50"
-
-  - id: "virgin-media-o2-esim"
-    title: "Virgin Media O2 eSIM 總覽：高 5G 可用率與穩定可靠性"
-    best_for: "適合預算有限但仍需穩定連線的旅客。O2 在 2025 下半年可靠性大幅提升，且 5G 可用率最高。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)，O2 在倫敦的 5G 附著率最高，主要依賴 700 MHz (n28) 提供廣覆蓋，並逐步擴展 3.5 GHz (n78) 至 80-100 MHz 配置。\n- **下載速度**：全英國中位下載速度 44.1 Mbps，在 16 個城市中有 14 個超過 50 Mbps，3 個超過 100 Mbps。\n- **可靠性**：UK-wide 可靠性排名從第四躍升至並列第二。\n- **技術亮點**：O2 是唯一在倫敦主要依賴 Nokia 設備的營運商，並在部分城市進行 2100 MHz 頻譜重整以提升效能。"
-    arcep_note: "經 Ofcom 確認，O2 持有 700 MHz、800 MHz、2100 MHz、3.5 GHz 等頻段，並持續進行網路現代化。"
-    connect_note: "啟用過程順暢，支援 eSIM 即時啟用，適合短期旅遊或輕度數據使用者。"
-    user_scenarios: "- **[倫敦觀光巴士]**：在雙層觀光巴士上使用 O2 網路，5G 高可用率讓您隨時查詢景點資訊。\n- **[劍橋康河撐船]**：在康河上使用手機拍照上傳，O2 的穩定連線確保社群媒體更新不延遲。\n- **[巴斯羅馬浴場導覽]**：下載語音導覽 App，O2 的網路覆蓋讓您順暢聆聽歷史解說。"
-    bg_color: "bg-teal-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 英國 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 英國 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 英國 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 英國 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 英國主要 5G/4G 頻段與裝置相容性"
-    content: "英國營運商使用多種頻段：4G 主流為 800 MHz (Band 20)、1800 MHz (Band 3)、2600 MHz (Band 7)；5G 則以 3.5 GHz (n78) 為核心，輔以 700 MHz (n28) 與 2100 MHz (n1)。購買 eSIM 前請確認您的裝置支援這些頻段，尤其是 Band 20 對於鄉村覆蓋至關重要。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "英國電信法規要求所有預付 SIM 卡（包括 eSIM）進行實名認證。購買 Roami 英國 eSIM 時，您需要提供護照或身份證件照片，並填寫基本個人資訊。認證通常在數分鐘內完成，之後即可啟用服務。"
-
-  - heading: "3. 公平使用政策 (FUP) 與數據限制"
-    content: "多數英國 eSIM 方案設有公平使用政策，例如每日或每月高速數據上限（如 1GB/天），超過後降速至 128 kbps 或 256 kbps。請仔細閱讀方案條款，選擇符合您使用習慣的數據量。Roami 提供多種無 FUP 或高數據上限的方案，適合重度使用者。"
-
-  - heading: "4. 熱點分享與多裝置連線"
-    content: "英國 eSIM 通常支援熱點分享，但部分營運商可能限制分享速度或裝置數量。Roami 英國 eSIM 明確支援熱點分享，讓您可以將網路分享給筆電、平板等裝置，適合商務出差或多人旅行。"
-
-  - heading: "5. 保留原號碼與語音通話"
-    content: "使用 Roami 英國 eSIM 時，您可以保留原 SIM 卡門號接收簡訊與來電（需開啟數據漫遊或 Wi-Fi 通話）。eSIM 僅提供數據服務，語音通話可透過 VoIP App（如 WhatsApp、Skype）進行。若需當地門號，可另行購買語音方案。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：英國最佳 eSIM"
-city_guide_desc: "了解哪款英國 eSIM 是您目的地的最佳選擇，根據 RootMetrics 2025 下半年測試數據與當地網路特性。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "倫敦"
-    carriers: "EE 或 Three"
-    reason: "倫敦是英國網路競爭最激烈的城市。EE 提供最穩定的整體體驗，中位下載速度領先；Three 則在密集市區提供極致 5G 峰值速度，頂尖 5% 速度超過 1.6 Gbps。若您常在金融城、西區活動，Three 的 140 MHz 頻寬能帶來驚人下載體驗。"
-
-  - city: "愛丁堡"
-    carriers: "EE 或 Vodafone"
-    reason: "愛丁堡地形起伏，古蹟眾多。EE 在蘇格蘭整體表現最佳，覆蓋皇家一英里與城堡區無死角。Vodafone 在蘇格蘭多數類別排名第二，尤其適合前往高地一日遊的旅客，鄉村覆蓋可靠。"
-
-  - city: "曼徹斯特"
-    carriers: "Three"
-    reason: "曼徹斯特是 Three 的強項城市之一，中位下載速度經常超過 100 Mbps。無論是在老特拉福德球場觀賽、在 Northern Quarter 咖啡廳工作，Three 的 5G 網路都能提供流暢體驗。"
-
-  - city: "伯明翰"
-    carriers: "EE"
-    reason: "伯明翰是英國第二大城市，EE 在此擁有最全面的 4G/5G 覆蓋，中位下載速度穩定在 100 Mbps 以上。適合商務旅客在 Bullring 購物中心或珠寶區進行視訊會議。"
-
-  - city: "卡迪夫"
-    carriers: "Vodafone 或 EE"
-    reason: "卡迪夫是威爾斯首都，Vodafone 在威爾斯多數類別排名第二，僅次於 EE。若您計劃前往威爾斯國家公園（如布雷肯比肯斯），Vodafone 的鄉村覆蓋優勢明顯。EE 則在市區提供最快速度。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 英國 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在倫敦、愛丁堡等歷史名城，您需要穩定且高速的網路來查詢地圖、預訂門票、分享社群媒體。推薦 EE 或 Three，它們在市中心提供極佳 5G 覆蓋與下載速度，讓您不錯過任何精彩瞬間。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往蘇格蘭高地、湖區或峰區國家公園，網路覆蓋是關鍵。Vodafone 在偏遠地區表現可靠，EE 則在主要公路與旅遊熱點提供連續訊號。建議選擇支援 Band 20 的 eSIM，以確保鄉村連線品質。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕遊英國，導航與即時路況不可或缺。EE 在 M 高速公路與 A 級公路的覆蓋最全面，中位下載速度 114.1 Mbps 確保地圖載入迅速。搭配 Roami eSIM 的熱點分享功能，同行乘客也能同時上網。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "前往布萊頓、伯恩茅斯或康沃爾海灘，您需要網路來查詢潮汐時間、分享度假照片。Three 在沿海城鎮的 5G 覆蓋逐漸擴展，且其高容量網路在人群聚集時仍能維持順暢。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "英國 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "英國 eSIM 是否支援熱點分享（將數據分享給其他裝置）？"
-    a: "是的，Roami 英國 eSIM 支援熱點分享，您可以將行動數據分享給筆電、平板或其他手機。請注意，部分營運商可能對分享速度或裝置數量設有限制，但 Roami 的方案通常不限制分享功能。啟用熱點分享後，其他裝置即可透過 Wi-Fi 連線使用網路。"
-
-  - q: "更換手機時，如何將啟用中的英國 eSIM 設定檔轉移到新手機？"
-    a: "轉移 eSIM 設定檔需視營運商政策而定。一般步驟為：在新手機上下載 Roami App 或登入帳戶，選擇重新下載 eSIM 設定檔。部分營運商提供 QR code 重新掃描功能。若無法自行轉移，請聯繫 Roami 客服協助。建議在出國前先測試轉移流程，避免旅途中斷網路。"
-
-  - q: "Roami eSIM 在英國會連接到哪些本地行動電信商？"
-    a: "Roami 英國 eSIM 會自動連接到合作夥伴網路，包括 EE、Three、Vodafone 及 Virgin Media O2。根據您的所在地點與訊號強度，裝置會選擇最佳可用網路。通常優先連接 EE 或 Three 以提供最快速度，但在鄉村地區可能切換至 Vodafone 以獲得更好覆蓋。"
-
-  - q: "在英國，我可以期望的平均下載與上傳速度為何？"
-    a: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025) 2025 下半年數據，英國全境中位下載速度因營運商而異：EE 為 114.1 Mbps，Three 為 53.8 Mbps，Vodafone 為 47.7 Mbps，Virgin Media O2 為 44.1 Mbps。上傳速度通常為下載的 10-20%，具體取決於網路負載與訊號品質。在倫敦等大城市，5G 下載速度可超過 200 Mbps。"
-
-  - q: "我可以同時使用實體 SIM 卡（原門號）與英國 eSIM 嗎？"
-    a: "可以。大多數現代手機支援雙 SIM 卡功能（一張實體 SIM + 一張 eSIM，或雙 eSIM）。您可以將原門號的實體 SIM 卡保留在手機中，用於接收簡訊與來電，同時啟用 Roami 英國 eSIM 作為數據來源。請在手機設定中將 eSIM 設為「行動數據」，並關閉原 SIM 卡的數據漫遊以避免額外費用。"
-
-# 迷思
-myths_title: "⚠️ 英國 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "英國所有營運商的 5G 速度都差不多。"
-    truth: "事實並非如此。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)，EE 的全國中位下載速度 (114.1 Mbps) 是 Virgin Media O2 (44.1 Mbps) 的 2.6 倍。Three 在倫敦的頂尖 5% 速度更超過 1.6 Gbps，而 O2 的 5G 速度則相對較慢。選擇營運商會顯著影響您的實際體驗。"
-
-  - myth: "在英國使用 eSIM 會洩漏個人隱私。"
-    truth: "eSIM 與實體 SIM 卡受相同法規監管，英國通訊管理局 (Ofcom) 要求營運商遵守嚴格的數據保護規範。Roami 僅收集 KYC 所需的基本資訊，不會未經授權分享您的數據。eSIM 的遠端管理功能甚至比實體 SIM 卡更安全，因為無法被實體竊取或複製。"
-
-  - myth: "英國鄉村地區完全沒有網路覆蓋。"
-    truth: "雖然偏遠地區覆蓋不如城市，但主要營運商在鄉村仍有相當水準的服務。Vodafone 在威爾斯與蘇格蘭表現強勁，EE 在主要公路與旅遊景點提供連續覆蓋。Three 也透過與 Vodafone 的 MOCN 共享逐步改善鄉村訊號。選擇支援 Band 20 的 eSIM 可進一步提升鄉村連線品質。"
-
-  - myth: "eSIM 啟用過程複雜，需要專業技術。"
-    truth: "啟用 Roami 英國 eSIM 非常簡單：購買後您會收到一封包含 QR code 的電子郵件，在手機設定中掃描即可加入行動方案。整個過程約需 2-3 分鐘，無需前往門市或更換 SIM 卡。Roami 也提供 24/7 客服支援，協助解決任何問題。"
-
-  - myth: "英國 eSIM 的數據速度永遠達不到廣告宣稱的值。"
-    truth: "廣告中的速度通常為理論峰值，實際速度會受地點、時間、網路負載與裝置影響。但根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025) 的獨立測試，EE 的全國中位下載速度確實達到 114.1 Mbps，Three 在倫敦的頂尖速度也符合其宣傳。選擇信譽良好的 eSIM 提供商（如 Roami）並搭配相容裝置，即可獲得接近廣告宣稱的效能。"
-
-# 數據來源
-data_sources_title: "英國 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)"
-    description: "Ookla 旗下 RootMetrics 於 2025 下半年在英國進行超過 600,000 次測試，涵蓋全境、四個構成國及 16 個大都會市場，提供最全面的營運商效能比較。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 定期發布英國行動網路體驗報告，涵蓋下載速度、5G 可用率、影音體驗等指標，為消費者提供獨立參考。"
-
-  - name: "英國通訊管理局 (Ofcom) 2025"
-    description: "Ofcom 為英國電信監管機構，每年發布覆蓋與效能報告，並負責頻譜分配與消費者保護，確保市場公平競爭。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，數據收集期間為 2025 年 7 月至 12 月。實際體驗可能因裝置、地點與時間而異。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議參考多個來源以獲得全面了解。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的英國 eSIM"
-cta_desc: "即時存取，無需等待。掃描 QR code 即可啟用，保留原號碼，享受英國頂尖 5G 網路。"
-cta_button_text: "立即購買英國 eSIM"
-cta_button_link: "/united-kingdom-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "英國 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 英國 eSIM 指南
+  url: ''
+hero_badge: "為你的旅程評級的英國行動網路"
+hero_subtitle_main: "英國網路的差異所在：速度、覆蓋率與櫃檯規定"
 ---
+
+
+無論你叫它 UK eSIM 還是英國 eSIM，在英國基地台上的四個網路之間做選擇，最終取決於你實際會在哪裡使用它。四個網路運營英國的基地台，而你能買到的每一個預付品牌——giffgaff、VOXI、SMARTY、iD Mobile、Lebara、Lycamobile、Tesco Mobile——都是其中之一的轉售商。你落在哪家宿主網路上，決定了你在倫敦的速度，以及你在高地公路上是否有訊號。
+
+**快速解答：** 短期旅行，英國的旅客方案是最省力的選擇；較長的停留，EE 在每 GB 成本上往往勝出。以下各節拆解英國與 EE 各自在何處出色——首次使用 eSIM 的人應從[啟用逐步說明](/faq/how-to-activate-an-esim/)開始。
+
+[英國 eSIM](/united-kingdom-esim/)
+
+**簡要說明：** EE 以顯著差距成為全國最快的網路，依 [Ookla 與 RootMetrics 的 2025 年下半年英國報告](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-2h-2025)，中位數下載達 **114.1 Mbps**，且鄉村覆蓋最廣。Three 與 Vodafone 全國位於 45–55 Mbps 區間，但在價格與漫遊上更亮眼。如果你會順道進入愛爾蘭共和國，Virgin Media O2 是首選，因為它不收歐盟漫遊費。四個網路都有預付 eSIM，無需英國地址或信用審查。新旅客可以[試用 eSIM](/free-esim/)，或在[英國 eSIM 方案](/united-kingdom-esim/)上以折扣碼 **WEB20** 享付費方案 8 折。
+
+*滑動查看更多*
+
+## 你的英國 eSIM 快速連結
+
+- [哪個英國 eSIM 業者適合你的行程？](#best-united-kingdom-esim-carrier-for-your-trip-ee-vs-the-rest)
+- [Vodafone vs EE vs Three vs Virgin Media O2：我們的發現](#ee-vodafone-three-and-virgin-media-o2-which-one-wins-where)
+- [購買前的 5 件事](#five-checks-before-you-commit-to-a-uk-esim)
+- [最適合你所在城市的英國 eSIM（實測 5 城）](#how-united-kingdom-esims-fare-in-five-cities)
+- [英國 eSIM 各區域覆蓋與速度](#united-kingdom-esim-coverage-uk-vs-ee)
+- [最適合你旅程的英國 eSIM](#match-a-united-kingdom-carrier-to-your-trip)
+- [英國 eSIM APN 設定](#united-kingdom-esim-apn-settings)
+- [常見問題（解答 10 題）](#your-united-kingdom-esim-questions-answered)
+- [迷思與事實](#uk-esim-advice-that-does-not-survive-contact-with-the-country)
+- [本英國 eSIM 指南引用的資料來源](#sourcing-notes-for-this-uk-esim-guide)
+
+## 最適合你旅程的英國 eSIM 業者：EE 與其他業者
+
+以下每個業者數據都來自 Ookla 與 RootMetrics 2025 年下半年英國報告的第三方測量。與任何全國平均一樣，排名的重要性不及你選擇的網路是否覆蓋你訂下的路線。
+
+| 你的行程 | 首選 | 勝出原因 |
+|:---|:---|:---|
+| 城市與速度至上的工作 | EE | 英國最快網路，中位數下載 114.1 Mbps，最佳 5G 體驗，連續 25 個測試期獲 Overall RootScore 獎 |
+| 鄉村威爾斯、高地與國家公園 | Vodafone | 四者中鄉村觸及最強，全國 47.7 Mbps，在威爾斯與蘇格蘭多數類目居次 |
+| 重度數據的預算旅行 | Three | 中位數下載 53.8 Mbps，握有最大連續 3.5 GHz 頻譜，大型數據預付組合也屬最便宜之列 |
+| 室內可靠性與城市密度 | Virgin Media O2 | 在倫敦等城市擁有最高 5G 接入率，700 MHz 承載覆蓋、3.5 GHz 承載容量 |
+| 同一趟旅程進入愛爾蘭或歐盟漫遊 | Virgin Media O2 或 O2 網路品牌 | O2 網路不收歐盟漫遊費，受 25 GB 公平原則上限約束 |
+| 一張 eSIM 跨四個網路 | Roami 英國設定檔 | 自動切換意味著你永遠不會被鎖在所在位置最弱的業者上 |
+
+**性價比路線：** 自動網路切換，並附預付數據比價。
+
+## EE、Vodafone、Three 與 Virgin Media O2：誰在哪裡勝出
+
+以下四家行動網路業者擁有基礎設施。英國市場的其他一切都是其中之一的轉售商，所以宿主網路才是關鍵決策。
+
+| | EE | Vodafone | Three | Virgin Media O2 |
+|:---|:---|:---|:---|:---|
+| 中位數下載，2025 下半年 | **114.1 Mbps** | 47.7 Mbps | 53.8 Mbps | 44.1 Mbps |
+| 頻譜布局 | 700 MHz、800 MHz、1800 MHz、2100 MHz、2600 MHz、3.5 GHz——最多元的組合 | 800 MHz、900 MHz、1800 MHz、2100 MHz、2600 MHz、3.5 GHz | 最大連續 3.5 GHz 持有，聚合最高 140 MHz | 700 MHz 承載覆蓋，3.5 GHz 承載容量 |
+| 勝出之處 | 原始速度、影片、城市容量 | 鄉村觸及，威爾斯與蘇格蘭 | 頻寬與每 GB 價格 | 5G 接入率與室內穿透 |
+| 預付 eSIM | 有，無需英國地址或信用審查 | 有，線上結帳時選擇 | 有，線上結帳時選擇 | 有 |
+| 注意事項 | 定價偏高，標準方案的每日歐盟漫遊費 | 可靠性排名在 2025 下半年從第二滑落至第四 | 城市中較常回落 4G | 四者中最慢的全國中位數 |
+
+### UK vs EE：哪個英國電信業者更快？
+
+**最適合：** 商務旅客、任何用筆電工作的人，以及想要最快連線的城市行程。
+
+EE 的 114.1 Mbps 中位數下載超過第二快業者的兩倍，且自 2013 年下半年起每個測試期都拿下英國 Overall RootScore Award——連續十二年穩居榜首。在城市，它以雙載波配置部署 80 MHz 的 3.5 GHz（n78），輔以補充頻段 n1、n3、n7 與 n28，並運行全國最先進的 5G Standalone 建設。Ofcom 的頻譜紀錄顯示它是四個網路中最多元的組合，這正是它能在 Canary Wharf 這類擁擠地區實現載波聚合的原因。
+
+它為訪客提供的預付 eSIM 途徑是透過零售而非櫃檯，30 天方案含英國通話與簡訊：
+
+| EE 預付 eSIM 方案 | 流量 | 效期 | 價格（GBP） | ≈ USD |
+|:---|:---|:---|:---|:---|
+| 入門 | 30 GB | 30 天 | £15.00 | ≈ $19 |
+| 中階 | 100 GB | 30 天 | £20.00 | ≈ $25 |
+| 大流量 | 200 GB | 30 天 | £30.00 | ≈ $38 |
+| 無限 | 無限 | 30 天 | £40.00 | ≈ $51 |
+
+這些英鎊數字來自追蹤 EE 預付 eSIM 陣容的[2025 年隨付隨用比較](https://yesim.tech/blog/best-pay-as-you-go-plans-for-uk)；美元欄以約 1.27 美元兌 1 英鎊的指示性匯率計算，僅供參考。EE 自家的合約 eSIM 是另一種產品，確實需要信用審查——那針對的是居民，不是訪客。
+
+### 英國的鄉村覆蓋：UK vs EE
+
+**最適合：** 任何行程會離開高速公路網的人——Snowdonia、Brecon Beacons、湖區（Lake District）、North Coast 500。
+
+Vodafone 47.7 Mbps 的全國中位數在 EE 面前並不起眼，但它的分布才是重點：在威爾斯與蘇格蘭的多數類目中排名第二，其 800 MHz 與 900 MHz 持有比高頻段更能深入山谷。它的 5G 組合較零碎——n78 上 50 MHz 到 115 MHz 的配置——但在倫敦仍能突破 100 Mbps。可靠性在 2025 年上半年與下半年之間從第二滑至第四，如果你以一致性而非覆蓋率做選擇，這點值得知道。
+
+| Vodafone 預付組合 | 流量 | 價格（GBP） | ≈ USD |
+|:---|:---|:---|:---|
+| 入門 | 15 GB | £10 | ≈ $13 |
+| 中階 | 35 GB | £15 | ≈ $19 |
+| 大流量 | 60 GB | £20 | ≈ $25 |
+| 超大流量 | 200 GB | £30 | ≈ $38 |
+| 無限 | 無限 | £40 | ≈ $51 |
+
+Vodafone 的 PAYG 組合附無限通話與簡訊，eSIM 選項在線上結帳時出現，無需英國地址。
+
+### 英國的預算數據方案
+
+**最適合：** 重度數據用戶與想要最便宜大型組合的旅客。
+
+Three 的 53.8 Mbps 中位數下載領先 Vodafone 與 Virgin Media O2，並持有市場上最大連續 3.5 GHz 頻譜——透過雙載波聚合最高 140 MHz。在城市，其前 5% 速度超過 1.6 Gbps。代價是建成區較常回落 4G，加上歐盟漫遊 12 GB 公平原則上限，以及 2025 年 12 月 18 日生效的每日 2.75 英鎊費率。
+
+| Three 預付組合 | 流量 | 價格（GBP） | ≈ USD |
+|:---|:---|:---|:---|
+| 入門 | 60 GB | £10 | ≈ $13 |
+| 中階 | 120 GB | £13.50 | ≈ $17 |
+| 大流量 | 240 GB | £18 | ≈ $23 |
+| 無限 | 無限 | £31.50 | ≈ $40 |
+
+Three 的 eSIM 在訂購 PAYG SIM 時於結帳頁選擇，以電子郵件寄送供安裝。既有客戶可要求 Three 把實體 SIM 轉為 eSIM。
+
+### 在國外使用英國 eSIM
+
+**最適合：** 倫敦行程、以室內為主的行程，以及任何會進入愛爾蘭或歐盟的計畫。
+
+Virgin Media O2 錄得四者中最慢的 44.1 Mbps 全國中位數，但它在真正要緊的地方——室內——勝出：在倫敦等城市擁有最高 5G 接入率，由 700 MHz（n28）提供覆蓋層、3.5 GHz（n78）提供容量。其 5G 下載中位數在 2025 年上下半年之間跳升 21%，可靠性排名也從第四改善至第二。它的雙供應商 RAN 策略——倫敦市中心用 Nokia、外圍用 Ericsson——是供應鏈決策，偶爾會在行政區之間呈現效能差異。
+
+| O2 預付組合 | 流量 | 價格（GBP） | ≈ USD |
+|:---|:---|:---|:---|
+| 入門 | 30 GB | £10 | ≈ $13 |
+| 中階 | 90 GB | £15 | ≈ $19 |
+| 大流量 | 150 GB | £20 | ≈ $25 |
+| 超大流量 | 250 GB | £30 | ≈ $38 |
+
+O2 的 PAYG eSIM 供應情況是英國資料來源真正分歧的地方：[一份 PAYG 指南](https://www.simonlyfinder.co.uk/guides/which-networks-offer-esims-on-pay-as-you-go)指出 O2 PAYG eSIM 無法線上核發，需攜帶附照片證件親臨門市，而[另一份](https://www.4g.co.uk/news/esim-pay-as-you-go/)則說 eSIM 可以像其他網路一樣在結帳時申請。按需要跑門市來規劃，把線上選項視為意外之喜而非預期。
+
+## 承諾購買英國 eSIM 前的五項檢查
+
+### 較舊手機能用英國 eSIM 嗎？
+
+英國業者把 5G 分布在 **700 MHz（n28）、800 MHz（n20）、1800 MHz（n3）、2100 MHz（n1）、2600 MHz（n7）與 3.5 GHz（n78）**，4G 則在 800 MHz（band 20）、1800 MHz（band 3）、2100 MHz（band 1）與 2600 MHz（band 7）。旗艦手機例行涵蓋這些。讓進口裝置出問題的是 **n28/band 20**——承載鄉村覆蓋的低頻層，缺了它的手機在倫敦看起來沒問題，到了威爾斯就變薄。
+
+### 可以直接向網路業者購買英國 eSIM 嗎？
+
+英國在這方面比全球多數地方寬鬆，但並非零摩擦。線上直接向網路業者購買預付 eSIM 一般不需要英國地址或信用審查，結帳時可能要求護照號碼。例外集中在門市限定的途徑：**據報導 O2 的 PAYG eSIM 需要攜帶附照片證件親臨門市**，而任何換卡或補卡通常都會回到門市。出發前購買的旅遊 eSIM 完全跳過這些問題——如果你的行程從希斯洛機場晚上 11 點開始，這就是務實答案。
+
+### 哪裡購買英國 eSIM
+
+英國的「無限」方案幾乎都附公平使用政策，且上限通常適用於**漫遊而非境內使用**。公布的漫遊上限很有參考價值：O2 網路 25 GB、Vodafone 25 GB、EE 50 GB、Three 12 GB。境內額度通常全額兌現；觸及較低天花板的，是歐盟與愛爾蘭行程。如果你的行程跨境，請查漫遊上限，而不是境內上限。
+
+### 英國城市之外哪家業者最好？
+
+城市之外由 EE 與 Vodafone 領先——尤其在蘇格蘭與威爾斯——而 Three 與 Virgin Media O2 在高密度城區表現最好。下面的區域表格逐一拆解路線，因為對一個 Snowdonia 與 Cornwall 問題截然不同的國家來說，「最佳鄉村網路」是太粗糙的答案。
+
+### 5. 兩個設定決定你的 eSIM 抵達後能否運作
+
+英國是 5G NSA 與 SA 並存的市場，安裝乾淨的 eSIM 仍可能因無聊的原因顯示無服務。eSIM 門號必須**開啟數據漫遊**——許多旅遊設定檔把英國視為漫遊目的地——且 eSIM 必須被選為行動數據所用的門號。在斷定任何東西壞掉之前，先檢查這兩項。
+
+## 購買 SIM 的證件規定
+
+有三條路徑，差別在於多少工作在出發前完成。
+
+**路徑一：旅遊 eSIM，在家安裝。**
+
+1. 確認手機已解鎖且支援 eSIM——[eSIM 相容性工具](/compatibility/)一次完成兩項。
+2. 購買方案並用自己的 Wi-Fi 安裝設定檔，然後為門號重新命名，避免與原門號混淆。
+3. 把 eSIM 設為行動數據所用的門號，並為它開啟數據漫遊。
+4. 落地後，關閉原門號的數據漫遊，並在離開航廈前確認設定檔已接上。
+5. 把 QR 碼存進雲端，以防需要重新安裝。
+
+**路徑二：網路業者的預付 eSIM，線上購買。**
+
+1. 到 EE、Three 或 Vodafone 的隨付隨用頁面挑一個組合。
+2. 結帳時選擇 eSIM 而非實體 SIM，並選擇電子郵件寄送而非郵寄。
+3. 輸入付款卡片。外國卡偶爾會在詐欺檢查被擋——換一張卡重試，而不是換瀏覽器。
+4. 出發前安裝 QR 碼；下載需要可用的連線。
+5. 落地後為 eSIM 門號開啟漫遊。
+
+**路徑三：英國門市的預付 eSIM。**
+
+1. 攜帶附照片的證件——護照是訪客的標準文件。
+2. 造訪 EE、O2、Vodafone 或 Three 門市，或 O2 品牌的經銷店。
+3. 明確指定要**預付** eSIM；合約產品需要信用審查，不是你要的。
+4. 完成店內啟用，離開櫃檯前確認方案已生效。
+5. 保留收據——補卡與換卡通常都回到同一間門市。
+
+## 跨境與你的 eSIM
+
+價格比文章變動得快，所以目前的英國方案陣容在我們的[英國 eSIM 方案頁面](/united-kingdom-esim/)。下面的市場數據——當地每 GB 價格、網路速度、滲透率——是讓方案價格有意義的背景。
+
+| | 當地預付 eSIM | 旅遊 eSIM | 原方案漫遊 |
+|:---|:---|:---|:---|
+| 入門價格 | 多數網路 £10 可得 30–60 GB | 一次性的前置組合價 | 由你的原電信業者定價 |
+| 內容 | 通常含英國無限通話與簡訊 | 多數旅遊設定檔僅數據 | 你的原額度，國外有上限 |
+| 設定 | 線上結帳，或 O2 需跑門市 | 在家安裝 | 無 |
+| 門號 | 有——一個英國門號 | 無 | 你自己的號碼 |
+| 歐盟漫遊 | 部分網路內含，全部都有上限 | 取決於設定檔 | 取決於你的原方案 |
+| 最適合 | 停留三週以上，或需要英國門號 | 多數行程，尤其是短的 | 原方案已含英國的短程旅行 |
+
+作為比較基準的當地費率是**每 GB 約 0.62 美元**，在 Cable.co.uk 追蹤的 237 個市場中排第 58。對照這個數字，英國預付組合出奇慷慨——Three 網路上 10 英鎊 60 GB 不是促銷巧合——這使得英國預付 eSIM 成為真正的競爭者，而不是陪跑的，與多數國家不同。
+
+## 本指南的資料來源
+
+Ookla 2026 年 8 月的 Speedtest Global Index 把英國排在全球行動下載速度第 **61** 名，中位數 **74.99 Mbps**（延遲 31 ms）。作為對照，同期全球行動下載中位數為 109.05 Mbps，英國低於此值。每條引用都附原始資料日期；不重新標日期，不粉飾。
+
+當地數據定價約**每 GB 0.62 美元**，在 Cable.co.uk 追蹤的 237 個市場中排第 58。
+
+共有 **8,840 萬**個行動連線——居民的 127%——依據 [DataReportal 的 Digital 2025 報告](https://datareportal.com/reports/digital-2025-united-kingdom)。
+
+資料來源：[Ookla 的 Speedtest Global Index](https://www.speedtest.net/global-index/united-kingdom) 與 [Cable.co.uk 的全球數據定價](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)。
+
+## 英國 eSIM 在五個城市的表現
+
+值得選哪個網路取決於城市。效能數據來自 2025 下半年 RootMetrics 報告；如果該城市是長程旅行的第一站，漫遊備註就有參考價值。
+
+| 城市 | 最佳業者 | 勝出原因 |
+|:---|:---|:---|
+| 倫敦 | EE | 中位數下載超過 100 Mbps，最佳 5G 體驗，以及在 West End 與 Canary Wharf 依然站得住的積極載波聚合 |
+| 曼徹斯特 | EE | 幾乎所有受測城市速度都超過 100 Mbps，對商務旅客與任何在飯店工作的人很重要 |
+| 愛丁堡 | Vodafone | 在蘇格蘭多數類目排名第二，其鄉村觸及延伸到高地，涵蓋城市前後幾天 |
+| 卡地夫 | Virgin Media O2 | 近期一次 2100 MHz 重新配置改善了威爾斯首都的效能，加上高 5G 接入率 |
+| 伯明罕 | Three | 全部 16 個都會市場的中位數下載都超過 50 Mbps，大型數據組合便宜 |
+
+💡 在多城市行程中，多網路 eSIM 意味著你永遠不會被困在所在位置最弱的業者上。
+
+## 英國 eSIM 覆蓋率：UK vs EE
+
+把全國速度數據當作天花板而不是地板。區域圖像——包括會毀掉一整天車程的死區——如下。
+
+| 地區 | 實際情況 |
+|:---|:---|
+| 倫敦與東南英格蘭 | 建成區全境 5G，市中心很少回落 4G；地鐵多數路線在月台有訊號，站與站之間較差 |
+| 西南英格蘭與康瓦爾 | 海岸城鎮覆蓋良好；內陸小路、Bodmin Moor 與 Land's End 一帶的極西地區有長段死區 |
+| 中英格蘭與東英格蘭 | 一貫強勁——每個主要網路都有 5G，高速公路上城市之間的覆蓋扎實 |
+| 北英格蘭：曼徹斯特、利物浦、里茲、奔寧山脈與湖區 | 城市極佳；奔寧山越嶺路段與 Wasdale、Hardknott 周邊的隘口會一次斷訊數英里 |
+| 威爾斯 | 覆蓋跟著聚落走。Snowdonia、Brecon Beacons 與 Elan Valley 有真正的數英里死區；A470 與海岸路線沒問題 |
+| 蘇格蘭：中央帶 | 愛丁堡與格拉斯哥不輸任何英國城市；兩城之間的 M8 走廊全程有覆蓋 |
+| 蘇格蘭高地、島嶼與 North Coast 500 | 城鎮有訊號，城鎮之間斷訊。Bealach na Bà、Ullapool 以北多數西海岸與島嶼渡輪都在線外；開車前先下載地圖 |
+| 北愛爾蘭 | 貝爾法斯特與高速公路走廊覆蓋良好；Antrim Glens 與 Fermanagh 湖區迅速變薄，與共和國的邊境訊號雙向滲透 |
+
+行程要延伸到英國之外？同樣有資料依據的拆解也存在於：
+
+- [愛爾蘭旅遊 eSIM](/ireland-esim/)
+- [法國旅遊 eSIM](/france-esim/)
+- [荷蘭 eSIM](/netherlands-esim/)
+
+💡 跨區域移動？在一個地區勝出的業者，很少在下一個地區也是最佳——這正是多網路 eSIM 解決的問題。
+
+## 為你的旅程配對英國電信業者
+
+英國行程分成兩種形態——速度決勝的城市走廊，與覆蓋決勝的鄉村路線——答案隨訂單而變。十種行程，以及各自該設定什麼。
+
+| 你的行程 | 該設定什麼 | 為何有效 | 注意事項 |
+|:---|:---|:---|:---|
+| 只在倫敦的長週末 | 旅遊 eSIM，任一網路 | 四個網路在首都都極佳 | 部分地鐵路線站與站之間仍有空窗 |
+| 愛丁堡搭火車到倫敦 | EE 或 Three 的旅遊 eSIM | East Coast Main Line 全程有覆蓋；座位旁訊號足以通話 | 紐卡素以北的長隧道會短暫斷線 |
+| 開車遊蘇格蘭與高地 | Vodafone 旅遊 eSIM 加離線地圖 | Vodafone 是四者中鄉村觸及最佳的 | North Coast 500 與 Applecross 有數英里死區 |
+| 湖區健行一週 | Vodafone 或 EE 旅遊 eSIM | 城鎮與山谷有覆蓋，隘口沒有 | Hardknott 與 Wrynose 隘口無訊號 |
+| 康瓦爾與西南海岸 | Vodafone 旅遊 eSIM | 海岸城鎮各網路都扎實 | 內陸小路與極西地區時斷時續；部分海灘別期待訊號 |
+| 威爾斯：Snowdonia、Brecon、Pembrokeshire | Vodafone 旅遊 eSIM 加離線地圖 | Vodafone 在威爾斯多數指標排名第一 | Snowdonia 的山谷是真正的死區 |
+| 北愛爾蘭與 Antrim 海岸 | EE 或 O2 網路品牌的旅遊 eSIM | 貝爾法斯特與高速公路強勁 | 邊境地區會飄到愛爾蘭網路；注意漫遊上限 |
+| 以英國為基地遠端工作一個月 | Three 或 EE 的當地預付 eSIM | 英國預付組合每 GB 出奇便宜 | 合約產品需要信用審查；堅持預付 |
+| 英國加愛爾蘭行程 | 旅遊 eSIM，或 O2 網路預付 | O2 網路不收歐盟漫遊費 | 每個網路都有漫遊公平使用上限 |
+
+## 哪些手機支援英國 eSIM
+
+你自己花幾分鐘就能加入設定檔——方案與啟用細節在[英國 eSIM 頁面](/united-kingdom-esim/)，各平台的逐步說明在我們的[eSIM 啟用指南](/faq/how-to-activate-an-esim/)。
+
+**iPhone：** 設定 → 行動網路（Cellular）→ 加入 eSIM → 使用 QR 碼，然後為門號命名並設為行動數據所用門號。
+
+**Android：** 設定 → 連接 → SIM 管理員 → 加入 eSIM，然後掃描 QR 並把新設定檔設為偏好的數據 SIM。
+
+無論你走哪條路，同樣兩個設定決定數據能否流動：**eSIM 門號開啟漫遊**，且 eSIM 被選為數據門號。原門號保持啟用接收通話與驗證碼，但關閉其數據漫遊。
+
+## 英國 eSIM APN 設定
+
+旅遊 eSIM 不需要手動設定，但當地購買的英國電信門號偶爾需要。四大網路的 APN 穩定且有公開文件：EE 用 `everywhere`，Vodafone UK 用 `pp.vodafone.co.uk`，Virgin Media O2 用 `mobile.o2.co.uk`，Three 用 `three.co.uk`。
+
+**iPhone：** 設定 → 行動數據 → 選擇門號 → 行動數據網路。Android 路徑：設定 → 網路與網際網路 → SIM → 存取點名稱（APN）。
+
+全新的英國門號有訊號沒數據，幾乎都是 APN 問題：完全照顯示的值輸入，重新開機，連線就回來了。MVNO SIM——Lebara、giffgaff 之類——使用其支援頁面列出的宿主網路 APN。
+
+## 當英國 eSIM 出狀況：按順序檢查什麼
+
+一般啟用錯誤——設定檔無法下載、掃描失敗、eSIM 裝了卻始終不註冊——在我們的[啟用錯誤疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)有涵蓋。以下四種模式是英國特有的。
+
+**A. 已安裝且顯示格數，但沒有網際網路。** 這是英國最常見的單一故障，幾乎都是漫遊問題。到設定 → 行動網路 → 你的 eSIM 門號，把**數據漫遊開啟**。旅遊設定檔把英國視為漫遊目的地，所以關閉漫遊的設定檔會在網路上註冊成功，卻拒絕傳輸數據。切換後給它 30–60 秒。
+
+**B. 安裝後完全無服務。** 通常是裝置端而非網路端。確認手機已解除電信鎖，確認存在 EID（沒有 EID 就表示手機沒有 eSIM 硬體），然後重新開機。如果設定檔已安裝但手機仍在搜尋，檢查它是否仍設定為用原門號傳輸數據。
+
+**C. 城市很快，開車就沒用。** 你所在位置選錯了網路。如果接下來一段路覆蓋比速度重要，強制手動選網並挑鄉村口碑較好的業者，回到城市後再改回自動選擇。
+
+**D. 一切正常，除了地鐵或擁擠場館。** 是壅塞，不是覆蓋。訊號存在且飽和。任何設定都救不了塞滿人的體育場或傍晚 6 點的月台；為地鐵下載離線地圖，並接受訊息可能排隊。
+
+### UK vs EE：在英國哪個更好？
+
+準備好你的 EID（來自 `*#06#`）、訂單號碼、設定檔應接上的宿主網路、錯誤截圖，以及一份已嘗試步驟的簡短清單。當你能說出手機實際接在哪個網路、漫遊是否開啟時，英國客服的溝通最快。
+
+## 帶英國 eSIM 去愛爾蘭與歐盟
+
+愛爾蘭共和國是多數旅客搞錯的案例，因為它對每個網路而言都不是一般的漫遊目的地。下列費率與公平使用上限是[Uswitch 的歐盟漫遊拆解](https://www.uswitch.com/mobiles/guides/eu-roaming-charges-explained/)中逐網路蒐集的數字。
+
+| 網路 | 愛爾蘭與歐盟漫遊 | 收費時的費率 | 公平使用上限 |
+|:---|:---|:---|:---|
+| Virgin Media O2（O2 網路） | 40 多個歐盟目的地不收費 | 無 | 25 GB |
+| Vodafone | 任何月繳方案在愛爾蘭、冰島、挪威與曼島內含；歐盟其他地方收費 | 約每天 £2.50，或 8 天 £16、15 天 £21 | 25 GB |
+| EE | 愛爾蘭共和國在額度內不加收；47 個歐盟目的地收費 | 標準方案約每天 £2.50，或每月 £25 的 Roam Abroad Pass | 50 GB |
+| Three | 收費 | 2025 年 12 月 18 日起每天 £2.75（舊方案 £2） | 12 GB |
+
+其中兩家，加入日期比網路更重要。**2021 年 7 月 7 日前申辦方案的 EE 客戶**與**舊方案上的 Three 客戶**往往保有新客戶沒有的免費或更便宜的漫遊，所以購買加購前先查自己的合約。費率與上限也會變動：Vodafone 自己公布的條款與追蹤它的比較網站報的每日數字略有不同，所以把任何單一數字當作指示值，並在你的電信 App 中確認。
+
+對訪客而言，更深的問題是**僅限英國的旅遊 eSIM 完全不會漫遊**。如果你的行程包含都柏林、貝爾法斯特加邊境郡，或一段歐洲之星，購買時就選把英國與愛爾蘭（或歐洲）列為覆蓋目的地的設定檔，而不是假設你的英國方案會跟你跨越愛爾蘭海。
+
+## 你的英國 eSIM 問題，解答
+
+### 英國 eSIM 加值
+
+可以。Roami 的 eSIM 支援透過 App 或網站即時加值，隨時可加購數據包而不必更換設定檔。新數據立即可用，所以沒有必要在旅程一開始就買過量。
+
+### 認識英國的電信網路
+
+可以。Roami 的英國設定檔已預先配置，會依訊號強度與效能自動接上 EE、Three、Virgin Media O2 與 Vodafone 中最好的網路，無需手動選擇業者。如果你想在特定路段覆寫，設定中的手動選網永遠優先。
+
+### 英國 eSIM 可以開熱點分享嗎？
+
+Roami 的 eSIM 支援熱點分享，實際限制是你方案的公平使用政策而非裝置上限——通常最多約五台裝置同時連線。查看具體方案細節，並把流量額度按分享需求而非單手機使用來估算。
+
+### 什麼流量大小適合英國行程？
+
+可以。把它設為行動數據所用的門號，它就能與實體 SIM 並存——實體 SIM 負責通話與簡訊，或完全由 eSIM 獨立承載數據。這是想讓原門號持續接收銀行與航空驗證碼的旅客的標準配置。
+
+### 在英國：當地 SIM 與旅客 eSIM 的比較
+
+旅遊 eSIM 途徑不需要，它是線上以付款卡購買、無需文件。英國網路業者的直接預付 eSIM 可能要求護照號碼，門市限定的途徑——尤其是 O2 的 PAYG eSIM——需要親自出示附照片證件。英國沒有巴基斯坦那種生物辨識登記的對等規定。
+
+### 按行程類型挑選：英國 eSIM
+
+論鄉村觸及是 Vodafone——它在蘇格蘭多數類目排名第二，其低頻持有比高頻段更能深入山谷。EE 在兩者都有訊號的地方更快。兩者都覆蓋不了 North Coast 500 或 Applecross 隘口，所以無論方案為何都先下載離線地圖。
+
+### 英國 eSIM 方案的價格
+
+它們有公布的公平使用政策，而上限在國外最嚴。漫遊天花板為 O2 網路 25 GB、Vodafone 25 GB、EE 50 GB、Three 12 GB。境內，「無限」通常就是無限——如果你的行程離開英國，看的是漫遊數字。
+
+### 哪些手機過不了英國的 eSIM 檢查？
+
+兩個要求：已解鎖且支援 eSIM 的手機。把型號跑一遍[相容性清單](/compatibility/)，並注意 band 20 / n28——承載鄉村覆蓋、部分進口手機缺少的低頻層。
+
+### 問：跨入愛爾蘭時我的英國 eSIM 會怎樣？
+
+除非設定檔涵蓋愛爾蘭，否則不會有自動的任何事。僅限英國的方案在邊境停止運作，有些設定檔會直接失去服務且無提示。愛爾蘭段行程最安全的選擇是 O2 的網路，因為它不收歐盟漫遊費，受 25 GB 公平使用上限約束——但旅遊 eSIM 的話，購買前先查目的地清單。
+
+### 英國 eSIM 設定，逐步說明
+
+按順序處理上述四種模式——漫遊設定、裝置鎖與 EID、網路選擇，然後是壅塞——如果仍然失敗，[eSIM 問題解決指南](/faq/esim-activation-errors-troubleshooting-guide/)中更廣的錯誤類別涵蓋其餘情況。客服會要求 EID 與訂單號碼——先準備好。
+
+[查看完整 FAQ →](/faq/)
+
+## 經不起英國實地檢驗的英國 eSIM 迷思
+
+### UK vs EE 5G：在英國哪個更好？
+
+**事實：** 錯。EE 以最佳 5G 體驗與最快速度領先（中位數 114.1 Mbps），Three 持有城市中最寬的 5G 頻寬，Vodafone 與 Virgin Media O2 則平分鄉村與城市強項。在高地，排名幾乎反轉。
+
+### 迷思：無限數據沒有限制。
+
+**事實：** 它有公平使用政策，而上限在國外最緊——O2 網路 25 GB、Vodafone 25 GB、EE 50 GB、Three 12 GB。打算用英國無限方案跑歐洲之旅之前，先查漫遊上限。
+
+## 本英國 eSIM 指南的資料來源說明
+
+- **Ookla 與 RootMetrics，UK State of Mobile Union 2025 下半年** — 全文引用的各業者中位數速度、可靠性排名、5G 接入與獎項歷史。
+- **Ookla Speedtest Global Index** — 每月英國行動中位數、延遲與世界排名。
+- **Cable.co.uk 全球數據定價** — 每 GB 0.62 美元的當地費率與 237 市場比較。
+- **DataReportal Digital 2025: United Kingdom 與 GSMA Intelligence** — 行動連線與市場規模數字。
+- **Ofcom** — 頻段與鄉村覆蓋陳述背後的頻譜持有與覆蓋報告。
+- **預付與漫遊資料來源** — 來自英國 PAYG 比較與零售商列表的隨付隨用 eSIM 供應與組合價格，以及來自比較指南與 O2 公布漫遊條款的歐盟漫遊費率與公平使用上限。
+
+把這裡的每個數字當作有日期的第三方測量，而不是即時保證；覆蓋與速度隨升級與壅塞而變動。
+
+## 一抵達英國就上線
+
+Roami 讓數據從希斯洛機場一路流到蘇格蘭高地，隨訊號變化在 EE、Vodafone、Three 與 Virgin Media O2 之間切換。先試用 [Roami 免費試用 eSIM](/free-esim/)，或在[英國 eSIM 方案](/united-kingdom-esim/)上以折扣碼 **WEB20** 省下 20%。
+
+[購買英國 eSIM 方案](/united-kingdom-esim/)
+
+[在 roamiapp.com 購買](/united-kingdom-esim/)
+
+*僅限 Roami 新客戶*
+
+[開始英國免費試用](/free-esim/)

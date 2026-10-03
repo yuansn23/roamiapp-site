@@ -1,288 +1,376 @@
 ---
-title: "去哥倫比亞旅遊 eSIM 怎麼挑？5G 速度與價格完整分析。"
-description: "Roami 整理了哥倫比亞三大電信 Claro、Movistar 和 Tigo 的 eSIM 方案，從 5G 覆蓋範圍、上網速度和方案價格全面分析，幫助您找到最適合哥倫比亞旅遊的 eSIM。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 哥倫比亞，預付數據，5G 網路，Claro，Movistar，Tigo，Envigado，旅遊 eSIM"
-site_name: "Roami"
-brand_name: "Roami"
+title: "哥倫比亞 eSIM 該選哪家？Claro、Tigo、Movistar 三大業者比較"
+description: "哥倫比亞 eSIM 要辦哪一家電信業者勝出？Roami 比較 Claro、Tigo 與 Movistar 的 5G 站點、城市網速與偏鄉山區覆蓋，從波哥大到咖啡產區逐段檢視，整理預付資費與 APN 設定，幫你依行程挑出哥倫比亞最適合的 eSIM。"
+image: "img/esim/carriers/colombia-esim-carrier-guide.jpg"
+date: "2026-09-27T10:41:15+00:00"
+keywords: eSIM Colombia, Colombia eSIM carriers, Claro eSIM, Tigo eSIM, Movistar eSIM, WOM, 5G 網路哥倫比亞, 預付卡數據, travel eSIM
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "哥倫比亞 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[🇨🇴] 哥倫比亞 最新旅遊 eSIM 指南"
-hero_subtitle_main: "哥倫比亞 eSIM：自助探險家的最佳選擇"
-hero_subtitle_highlight: "Claro 與 Movistar 頂級 5G 覆蓋"
-hero_description_line1: "哥倫比亞 eSIM 線上購買流程簡單安全，啟用步驟明確，讓您出發前即準備好上網方案。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "哥倫比亞 eSIM"
-hero_link_url: "/colombia-esim/"
-tldr_summary: "【無憂全球商務差旅：一張 eSIM 暢遊多國高速網路】Roami 的哥倫比亞 eSIM 讓您無需更換實體 SIM 卡，即可在抵達後立即連上 Claro 與 Movistar 的頂級網路。根據 Ookla 2025 下半年報告，Claro 行動網路中位下載速度達 44.26 Mbps，上傳 14.03 Mbps，並獲得最佳行動網路獎；Movistar 固網中位下載更高達 308.37 Mbps。無論您是在波哥大進行視訊會議、在麥德林遠端工作，或是在卡塔赫納海灘放鬆，Roami eSIM 都能提供穩定高速的連線，讓商務差旅與休閒旅行無縫接軌。結論：選擇 Roami 哥倫比亞 eSIM，就是選擇專業、可靠與極致便利。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "哥倫比亞 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：哥倫比亞 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "哥倫比亞 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：哥倫比亞 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 哥倫比亞 eSIM 前須知"
-
-  - href: "#faq"
-    text: "哥倫比亞 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "哥倫比亞 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：哥倫比亞 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Claro"
-    carrier_class: "text-green-600"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025)，Claro 擁有最佳行動網路（Speedtest Connectivity Score 66.80），中位下載 44.26 Mbps，上傳 14.03 Mbps，非常適合長時間視訊會議與大檔案上傳。"
-
-  - travel: "城市探索者"
-    carrier: "Movistar"
-    carrier_class: "text-blue-600"
-    reason: "Movistar 是固網最快 ISP（中位下載 308.37 Mbps），在城市區域提供極速體驗，適合高畫質串流與即時導航。"
-
-  - travel: "5G 愛好者"
-    carrier: "Tigo"
-    carrier_class: "text-purple-600"
-    reason: "Tigo 是 5G 最快營運商（Speed Score 65.27），中位 5G 下載達 297.43 Mbps，上傳 34.51 Mbps，延遲僅 39 ms，適合低延遲遊戲與高速下載。"
-
-  - travel: "預算背包客"
-    carrier: "Claro"
-    carrier_class: "text-green-600"
-    reason: "Claro 不僅效能領先，且一致性最佳（85% 樣本達標），確保在偏遠地區也能維持基本連線，適合預算有限但仍需穩定網路的旅客。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 哥倫比亞 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "claro-esim"
-    title: "Claro eSIM 總覽：最佳整體行動網路"
-    best_for: "此方案絕對是最佳選擇，適合需要最廣泛覆蓋與最穩定連線的旅客。Claro 在 2025 下半年獲得 Speedtest 最佳行動網路獎，中位下載速度 44.26 Mbps，上傳 14.03 Mbps，延遲 52 ms。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025)，Claro 提供廣泛的 5G 覆蓋，但未獲得最佳 5G 網路獎。\n- **下載速度**：中位下載 44.26 Mbps（所有技術合計）。\n- **上傳速度**：中位上傳 14.03 Mbps。\n- **延遲**：52 ms。\n- **一致性**：85% 樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻，為市場最佳。"
-    arcep_note: "經當地電信主管機關確認，Claro 持有全國性頻譜執照，包括 700 MHz（4G）與 3.5 GHz（5G）頻段，確保城鄉覆蓋。"
-    connect_note: "啟用過程順暢，掃描 QR code 後約 2 分鐘內即可連網。支援 iOS 與 Android 最新版本。"
-    user_scenarios: "- **[卡塔赫納古城]**：在擁擠的旅遊旺季，Claro 的高一致性網路確保您能即時上傳社群媒體限時動態，與親友視訊通話。\n- **[波哥大黃金博物館]**：館內深處訊號微弱，Claro 的低頻段覆蓋讓您順利查閱展品資訊。\n- **[聖安德烈斯島]**：離島地區 Claro 仍維持穩定連線，適合進行遠端工作或串流音樂。"
-    bg_color: "bg-green-50"
-
-  - id: "movistar-esim"
-    title: "Movistar eSIM 總覽：固網級高速體驗"
-    best_for: "此方案適合主要在城市活動、追求極速下載的用戶。Movistar 是 2025 下半年固網最快 ISP，中位下載 308.37 Mbps，上傳 291.3 Mbps。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025)，Movistar 5G 中位下載 280.72 Mbps，僅次於 Tigo。\n- **下載速度**：固網中位下載 308.37 Mbps；行動網路未單獨列出，但推測在城市區域表現優異。\n- **上傳速度**：固網中位上傳 291.3 Mbps。\n- **延遲**：未提供，但固網通常低於 20 ms。"
-    arcep_note: "經當地電信主管機關確認，Movistar 在主要城市擁有密集的光纖與 5G 基礎設施，符合國家寬頻發展計畫。"
-    connect_note: "啟用過程順暢，支援 eSIM 快速轉移。建議在抵達波哥大或麥德林後立即啟用，以獲得最佳體驗。"
-    user_scenarios: "- **[麥德林數位遊牧聚落]**：在共同工作空間中，Movistar 的固網級速度讓您輕鬆上傳大型設計檔案或進行 4K 視訊會議。\n- **[波哥大 Zona T 購物區]**：在人潮密集的商業區，Movistar 仍能提供穩定的高速連線，適合串流直播購物。\n- **[卡利 salsa 舞蹈節]**：即時上傳高畫質舞蹈影片，Movistar 的低延遲確保上傳不卡頓。"
-    bg_color: "bg-blue-50"
-
-  - id: "tigo-esim"
-    title: "Tigo eSIM 總覽：5G 速度王者"
-    best_for: "此方案最適合 5G 手機用戶，追求極致下載速度與低延遲。Tigo 是 2025 下半年最快 5G 營運商，中位下載 297.43 Mbps，上傳 34.51 Mbps，延遲僅 39 ms。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025)，Tigo 5G 中位下載 297.43 Mbps，領先所有對手。\n- **下載速度**：5G 中位下載 297.43 Mbps；所有技術合計中位下載 27 Mbps（次於 Claro）。\n- **上傳速度**：5G 中位上傳 34.51 Mbps。\n- **延遲**：5G 延遲 39 ms。\n- **一致性**：5G 一致性最佳，93.2% 樣本達到 25 Mbps 下載 / 3 Mbps 上傳門檻。"
-    arcep_note: "經當地電信主管機關確認，Tigo 在 5G 頻譜拍賣中取得關鍵 3.5 GHz 頻段，並積極部署 Massive MIMO 技術。"
-    connect_note: "啟用過程順暢，但需確保手機支援 Tigo 的 5G 頻段（n78）。建議在啟用後手動選擇 Tigo 網路以獲得最佳 5G 體驗。"
-    user_scenarios: "- **[波哥大國際機場]**：抵達後立即啟用 Tigo eSIM，5G 高速下載讓您快速取得 Uber 或地圖，無需等待。\n- **[麥德林地鐵]**：在地鐵移動中，Tigo 的 5G 低延遲讓您流暢觀看 YouTube 或玩線上遊戲。\n- **[巴蘭基亞狂歡節]**：在數十萬人聚集的活動現場，Tigo 的 5G 一致性確保您能順利直播慶典盛況。"
-    bg_color: "bg-purple-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 哥倫比亞 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 哥倫比亞 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 哥倫比亞 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 哥倫比亞 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 哥倫比亞主要 5G/4G 頻段與裝置相容性"
-    content: "哥倫比亞營運商使用的主要頻段包括：4G LTE Band 2 (1900 MHz)、Band 4 (1700/2100 MHz AWS)、Band 5 (850 MHz)、Band 7 (2600 MHz)、Band 12/17 (700 MHz)；5G NR 主要使用 n78 (3.5 GHz)。購買 eSIM 前，請確認您的智慧型手機支援上述頻段，尤其是 Band 4 與 n78，以確保最佳覆蓋與速度。"
-
-  - heading: "2. KYC 實名認證要求"
-    content: "根據哥倫比亞法規，所有預付 SIM 卡（包括 eSIM）均需進行實名認證（KYC）。購買 Roami eSIM 時，您需要提供護照掃描件或當地身份證件，並填寫線上表單。認證通常在 1-2 小時內完成，通過後即可啟用方案。請確保上傳的證件清晰可辨，以避免延遲。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "哥倫比亞營運商普遍實施公平使用政策。例如，Claro 的「無限」方案在達到每日 2 GB 高速用量後，速度會降速至 512 kbps。Tigo 與 Movistar 也有類似限制。Roami 提供的方案會明確標示高速數據配額，請根據您的實際需求選擇合適的流量包，避免超量後降速影響體驗。"
-
-  - heading: "4. 網路覆蓋地圖與偏遠地區注意事項"
-    content: "哥倫比亞地形多變，亞馬遜雨林、安地斯山脈與加勒比海島嶼的覆蓋差異極大。Claro 擁有最廣泛的覆蓋，尤其在鄉村地區；Movistar 與 Tigo 則集中在城市與主要公路。出發前建議下載營運商的覆蓋地圖（如 Claro 官網），並準備離線地圖作為備用。"
-
-  - heading: "5. eSIM 啟用與疑難排解"
-    content: "Roami eSIM 採用 QR code 啟用，步驟如下：1) 購買後收到含 QR code 的郵件；2) 連線 Wi-Fi 後掃描 QR code 加入行動方案；3) 抵達哥倫比亞後開啟數據漫遊。若無法連線，請手動選擇營運商（Claro、Movistar 或 Tigo），或檢查 APN 設定。Roami 提供 24/7 中文客服協助。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：哥倫比亞 最佳 eSIM"
-city_guide_desc: "了解哪款哥倫比亞 eSIM 是您目的地的最佳選擇，根據城市特性與網路效能推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "恩維加多 (Envigado)"
-    carriers: "Claro"
-    reason: "恩維加多是哥倫比亞網速最快的城市，行動中位下載 54.76 Mbps，固網中位下載 269.9 Mbps。Claro 在此擁有最佳行動網路，適合需要極致速度的數位遊牧民族。"
-
-  - city: "波哥大 (Bogotá)"
-    carriers: "Movistar"
-    reason: "首都波哥大擁有密集的 Movistar 光纖與 5G 基礎設施，固網中位下載 308.37 Mbps，適合商務旅客與遠端工作者。Claro 亦為可靠備選。"
-
-  - city: "麥德林 (Medellín)"
-    carriers: "Tigo"
-    reason: "麥德林是科技創新中心，Tigo 的 5G 網路在此表現優異（中位下載 297.43 Mbps），非常適合需要低延遲的遊戲玩家與直播主。"
-
-  - city: "卡塔赫納 (Cartagena)"
-    carriers: "Claro"
-    reason: "卡塔赫納為熱門旅遊城市，Claro 的高一致性網路（85% 達標）確保在古城區與海灘區域都能穩定連線，適合上傳社群媒體與視訊通話。"
-
-  - city: "卡利 (Cali)"
-    carriers: "Movistar"
-    reason: "卡利是 salsa 之都，Movistar 在城市區域提供高速固網級體驗，適合串流音樂與影片，並在節慶期間維持穩定連線。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 哥倫比亞 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "在波哥大、麥德林等大城市，推薦使用 Movistar 或 Tigo 的 eSIM，享受高速 5G 與固網級下載。適合頻繁使用地圖、叫車 App 與社群媒體。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往亞馬遜雨林、科科拉山谷或泰羅納國家公園時，Claro 的廣泛覆蓋與高一致性網路是首選。建議預先下載離線地圖，並準備備用通訊方案。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕穿越哥倫比亞公路時，Claro 的網路一致性最佳（85% 達標），確保導航不中斷。搭配 Roami eSIM，無需更換 SIM 卡即可跨區使用。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在卡塔赫納、聖安德烈斯等海灘目的地，Claro 提供穩定的連線，適合上傳照片、串流音樂與進行視訊通話。Tigo 的 5G 在部分度假區亦有覆蓋。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "哥倫比亞 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "此哥倫比亞數據方案是否包含傳統語音通話與 SMS？"
-    a: "Roami 的哥倫比亞 eSIM 方案主要提供數據流量，不包含傳統語音通話分鐘數或 SMS 簡訊。然而，您可以使用 VoIP 應用程式（如 WhatsApp、Skype、Zoom）進行語音與視訊通話，這些應用程式在高速數據網路下運作順暢。若您需要傳統通話功能，建議另外購買當地預付 SIM 卡或使用 Roami 的附加語音方案（如有提供）。"
-
-  - q: "我可以購買多個哥倫比亞數據方案並依序啟用嗎？"
-    a: "可以。Roami 允許您購買多個哥倫比亞 eSIM 方案，並在需要時依序啟用。每個方案都有獨立的 QR code 與啟用碼，您可以在手機的「行動數據」設定中手動切換方案。請注意，未啟用的方案不會開始計算有效期，因此您可以提前購買多個方案以備長期旅行使用。建議在啟用前仔細閱讀各方案的有效期與數據配額。"
-
-  - q: "我的哥倫比亞 eSIM 方案的有效期與扣款從何時開始計算？"
-    a: "您的哥倫比亞 eSIM 方案有效期從您成功啟用（即掃描 QR code 並連接到哥倫比亞網路）的那一刻開始計算。例如，若您購買 30 天方案，則從啟用日起算 30 天內有效。扣款則在購買時一次性完成，不會在啟用後再次扣款。請注意，若您在啟用後立即關閉數據漫遊，有效期仍會持續倒數，因此建議在真正需要上網時再啟用。"
-
-  - q: "在哥倫比亞最著名的國家公園與城市中，哪家本地電信商提供最強且最可靠的覆蓋？"
-    a: "根據 Ookla 2025 下半年數據，Claro 在哥倫比亞擁有最佳行動網路（Speedtest Connectivity Score 66.80），並在國家公園與偏遠地區提供最可靠的覆蓋（85% 樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻）。在主要城市如波哥大、麥德林、卡利，Movistar 與 Tigo 的 5G 網路速度更快（Tigo 5G 中位下載 297.43 Mbps），但 Claro 的整體一致性與覆蓋範圍仍是最佳選擇。對於國家公園（如泰羅納、亞馬遜），強烈建議選擇 Claro 以確保基本連線。"
-
-  - q: "如果我的哥倫比亞 eSIM 安裝成功後無法找到網路，該怎麼辦？"
-    a: "若 eSIM 安裝成功但無法連網，請依序嘗試以下步驟：1) 確認已開啟數據漫遊（設定 > 行動數據 > 數據漫遊）。2) 手動選擇營運商：在網路選擇中關閉「自動」，手動選取 Claro、Movistar 或 Tigo。3) 檢查 APN 設定：部分方案需手動輸入 APN（通常為「internet」或「web」），請參閱 Roami 提供的設定指南。4) 重新啟動手機。5) 若仍無效，請聯繫 Roami 24/7 中文客服，提供您的訂單編號與裝置型號，我們將遠端協助排除問題。"
-
-# 迷思
-myths_title: "⚠️ 哥倫比亞 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "哥倫比亞的網路在偏遠地區完全無法使用。"
-    truth: "雖然亞馬遜雨林與高山地區覆蓋有限，但 Claro 在主要公路與旅遊城鎮提供高達 85% 的一致性網路，足以應付基本通訊與導航。"
-
-  - myth: "所有營運商的 5G 速度都差不多。"
-    truth: "根據 Ookla 數據，Tigo 的 5G 中位下載速度（297.43 Mbps）明顯快於 Movistar（280.72 Mbps），且延遲更低（39 ms vs 未公布），差異顯著。"
-
-  - myth: "eSIM 只能在昂貴的旗艦手機上使用。"
-    truth: "越來越多的中階手機（如 Google Pixel 6a、Samsung A54）也支援 eSIM。購買前請查閱 Roami 的相容性列表，確認您的裝置型號。"
-
-  - myth: "在哥倫比亞使用 eSIM 會比實體 SIM 卡慢。"
-    truth: "eSIM 與實體 SIM 卡使用相同的營運商網路，速度與覆蓋完全一致。Roami 的 eSIM 甚至能自動連接到最強的可用網路（Claro/Movistar/Tigo），有時體驗更佳。"
-
-  - myth: "哥倫比亞的網路在節慶期間會完全癱瘓。"
-    truth: "雖然大型活動（如巴蘭基亞狂歡節）會造成暫時性壅塞，但 Tigo 的 5G 一致性高達 93.2%，Claro 也有 85%，仍能維持基本連線。建議避開尖峰時段使用高頻寬應用。"
-
-# 數據來源
-data_sources_title: "哥倫比亞 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla 基於 Speedtest Intelligence 數據發布的 2025 下半年哥倫比亞網路報告，涵蓋行動與固網速度、5G 效能及一致性評比。"
-
-  - name: "OpenSignal 2025"
-    description: "OpenSignal 的哥倫比亞行動網路體驗報告，提供覆蓋體驗、下載速度體驗與語音應用體驗等指標，作為交叉驗證參考。"
-
-  - name: "哥倫比亞國家電信監管機構 (CRC) 2025"
-    description: "哥倫比亞通訊監管委員會 (Comisión de Regulación de Comunicaciones) 發布的年度網路品質報告，包含營運商頻譜持有、覆蓋義務與消費者投訴統計。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，並已標註來源。數據可能因時間、地點與裝置而異，請以實際體驗為準。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。建議出發前查閱最新報告，並參考 Roami 的即時支援以獲得最佳設定。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的哥倫比亞 eSIM"
-cta_desc: "即時存取 Claro、Movistar 與 Tigo 的頂級網路，無需排隊、無需實體 SIM 卡。掃描 QR code 即可啟用，讓您的哥倫比亞之旅暢連無阻。"
-cta_button_text: "立即購買哥倫比亞 eSIM"
-cta_button_link: "/colombia-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "哥倫比亞 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 哥倫比亞 eSIM 指南
+  url: ''
+hero_badge: "哥倫比亞業者對決：2026 數據"
+hero_subtitle_main: "紙面上的哥倫比亞電信業者與實地表現"
 ---
+
+
+哥倫比亞的行動市場剛經歷十年來最大的一次洗牌：5G 頻譜於 2023 年 12 月拍賣，商用網路於 2024 年 2 月點亮，而到 2024 年底，**全國 1,433 個運作中的 5G 站點有 92% 由 Claro 建成**。這個單一事實重塑了哥倫比亞 eSIM 的業者問題。Tigo 和 Movistar 在許多地方共享同一張合併網路，WOM 基本上仍是一個 4G 故事，而「最快的城市網路」與「陪你上山的網路」之間的落差，寬如安地斯山脈本身。第一次設置哥倫比亞 eSIM 會遇到可預期的絆腳石——以下每一節各處理一個。
+
+**快速回答：** 在哥倫比亞，覆蓋之爭由 Claro 勝出，便宜數據由 Tigo 勝出——細節由下方表格裁定。付款之前，你也可以透過 Roami 的[試用 eSIM](/free-esim/) 先測試哥倫比亞網路設定。
+
+本頁按旅客實際面對的順序處理決策：哪個業者適合哪種行程、獨立測量說了什麼、哥倫比亞的 5G 建設在地面上真正長什麼樣，以及如何在不跑門市的情況下完成連線。裝置支援若還不清楚，可在[相容性檢查器](/compatibility/)上快速確認。
+
+**總結：** 對多數哥倫比亞行程，Claro 是安全的答案——整體最快的行動網路（Ookla 2025 下半年，下載中位數 44.26 Mbps）、最穩定（85% 的樣本高於下載 5 Mbps），以及壓倒性最大的 5G 建設。Tigo 是 5G 速度專家（5G 下載中位數 297.43 Mbps，最佳 5G 延遲 39 ms）——前提是它的覆蓋到得了。Movistar 的頭條數字屬於它的固網光纖帝國；其行動角色如今主要是與 Tigo 共享網路。出發前安裝[哥倫比亞 eSIM](/colombia-esim/)，讓設定檔在你移動時自動挑選可用的最強業者。
+
+## 依行程類型選擇你的 eSIM
+
+本頁的業者數據來自 [Ookla 的 2025 下半年哥倫比亞報告](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025)。
+
+| 你的計畫 | 首選業者 | 為什麼是它 |
+|:---|:---|:---|
+| 全能旅行：波哥大、麥德林、海岸 | Claro | 整體最佳行動網路、最佳穩定性，以及全國 5G 站點的壓倒性多數。 |
+| 有覆蓋城市中的重度 5G 使用 | Tigo | 其都市版圖內的全國最快 5G（下載中位數 297.43 Mbps，延遲 39 ms）。 |
+| 長期停留且有住宿 Wi-Fi | Movistar | 其光纖網路是哥倫比亞最快（固網下載中位數 308.37 Mbps）——與你的住處相關，與口袋裡的 eSIM 關係較小。 |
+| 偏鄉與山路線 | Claro | 一旦離開城市，穩定性與 4G 涵蓋勝過原始 5G 速度。 |
+
+## Claro、Tigo 和 Movistar 互相對照
+
+### Claro 對 Tigo 的 5G：在哥倫比亞哪個更好？
+
+Claro 在 2025 下半年的 Ookla 報告中，於每一項「到處都能用嗎」指標上領先：下載中位數 **44.26 Mbps**、上傳 14.03 Mbps、延遲 52 ms，以及 85% 的樣本越過下載 5 Mbps / 上傳 1 Mbps 的穩定性門檻。5G 的故事更懸殊。在 OECD 連線審查引用的覆蓋數據下，2024 年底哥倫比亞 1,433 個運作中的 5G 站點，**92.2% 由 Claro 建成**，觸及 43 個市鎮，而對手們的建設規模只以數十個站點計。
+
+對旅客而言，這可以簡單翻譯成：在多數哥倫比亞城市，你的 eSIM 預設落在 Claro 的 5G 上；在公路和次要城鎮，最可能還在的那張 4G 也是 Claro 的。
+
+### 哪家業者領跑哥倫比亞的 5G？
+
+在 Tigo 的 5G 覆蓋之處，它是全國最快的消費者體驗——5G 下載中位數 **297.43 Mbps**、5G 上傳 34.51 Mbps、最佳 5G 延遲 39 ms，並有 93.2% 的 5G 樣本達到 25 Mbps / 3 Mbps 的穩定性門檻。問題在觸及範圍：Tigo 的 5G 覆蓋以 Claro 站點數的一小部分來計量，而且自 Tigo–Movistar 網路共享安排以來，兩個品牌日益依賴同一批基礎設施。把 Tigo 當作高階都市 5G 車道，而不是全國性解決方案。
+
+### Claro 對 Tigo：在哥倫比亞哪個更好？
+
+Movistar 的頭條數字——固網下載中位數 **308.37 Mbps**，哥倫比亞最快的 ISP——描述的是它的光纖帝國，這對挑選住宿的長期旅客有意義，對你手機裡的 eSIM 沒有。在行動側，Movistar 如今大幅與 Tigo 合作營運，合併的 5G 版圖在大城市是真實的，但相對 Claro 很小。實務上，你的哥倫比亞 eSIM 會最常透過那段共享的都市覆蓋遇上 Movistar 基礎設施。
+
+### WOM 在這一切中在哪裡？
+
+WOM，這個市場上張揚的第四位進入者，在 2023 年拍賣中贏得一個 80 MHz 區塊，但截至 2024 年底尚未部署 5G。它的 4G 網路仍是真正的都市替代選項——但就目前而言，哥倫比亞的每一份 eSIM 排名，實際上都是 Claro 與 Tigo–Movistar 軸線之間的較量。
+
+哥倫比亞的行動市場有一個結構性事實，值得在做任何方案決定前知道：**覆蓋出色，吞吐量普通**。Claro、Tigo、Movistar 和 WOM 都能到達各城市，而 Ookla 的 2025 下半年哥倫比亞報告（蒐集期間 2025 年 7 月至 12 月）顯示它們之間的差別。
+
+| 指標 | Claro | Tigo | Movistar | WOM |
+|:---|:---|:---|:---|:---|
+| Speedtest 連線評分 | **66.80**（最佳行動網路） | — | — | — |
+| 速度評分，全技術 | **55.63**（最快） | — | — | — |
+| 下載中位數，全技術 | **44.26 Mbps** | 27 Mbps | — | — |
+| 上傳中位數，全技術 | 14.03 Mbps | — | — | — |
+| 延遲 | 52 ms | — | — | — |
+| 5G 速度評分 | — | **65.27**（最快 5G） | — | — |
+| 5G 下載中位數 | — | **297.43 Mbps** | 280.72 Mbps | — |
+| 5G 上傳中位數 | — | 34.51 Mbps | — | — |
+| 5G 延遲 | — | 39 ms | — | — |
+| 穩定性 | **85%** | — | — | — |
+| 5G 穩定性 | — | **93.2%** | — | — |
+| 影片串流評分 | — | — | — | **75.84**（最佳） |
+| 遊戲評分 | **72.50**（最佳） | — | — | — |
+| 5G 遊戲評分 | **78.33**（最佳） | — | — | — |
+
+這裡有四個重要解讀。**Claro 贏得日常網路**——以 66.80 的連線評分拿下最佳行動網路、以 55.63 拿下最快的全技術速度評分，以及最佳行動遊戲體驗——而且它是報告中全部十個城市裡最快的業者。**Tigo 贏得 5G**，而且不是小勝：297.43 Mbps 的 5G 下載中位數對 Movistar 的 280.72，5G 速度評分 65.27，以及全國最佳 5G 穩定性 93.2%。**WOM 拿下影片體驗**，75.84，儘管速度並不領先——這是網路路由良好而非峰值高的典型跡象。而**整體連線評分上並未頒發最佳 5G 網路獎**——報告認定各業者之間沒有統計差異，這說明哥倫比亞的 5G 戰場非常接近。
+
+實務上的翻譯是：在旅遊 eSIM 上，設定檔連上哪個網路，在哥倫比亞比在多數市場都不要緊，因為都市體驗最好與最壞之間的差距很窄。真正要緊的，是離開城市後能切到當下在場的任何業者。
+
+### 哥倫比亞 eSIM 速度在哪裡撐得住：逐城市
+
+Ookla 對十個哥倫比亞城市做了詳細測量。模式是一條明顯領先海岸的麥德林—波哥大軸線——這與多數旅客對「海灘優先」行程的假設正好相反。
+
+| 城市 | 下載中位數 | 上傳 | 延遲 | 穩定性 | 最快業者 |
+|:---|:---|:---|:---|:---|:---|
+| Envigado | **54.76 Mbps** | 16.3 Mbps | 48.99 ms | 88.4% | Claro |
+| 麥德林 | 50.72 Mbps | 16.47 Mbps | 51.84 ms | 87.2% | Claro |
+| 布卡拉曼加 | 48.37 Mbps | 20.16 Mbps | 58.73 ms | 88.1% | Claro |
+| 波哥大 | 43.58 Mbps | 16.58 Mbps | 36.83 ms | 86.5% | Claro |
+| 比亞維森西奧 | 42.77 Mbps | 14.87 Mbps | 38.24 ms | 87.5% | Claro |
+| 佩雷拉 | 40.6 Mbps | 16.59 Mbps | 57.23 ms | 86.2% | Claro |
+| 巴蘭基亞 | 39.85 Mbps | 16.77 Mbps | 65.58 ms | 87.1% | Claro |
+| 伊瓦格 | 36.03 Mbps | 13.01 Mbps | 46.46 ms | 84.9% | Claro |
+| 卡利 | 34.26 Mbps | 15.34 Mbps | 48.54 ms | 84.4% | Claro |
+| 卡塔赫納 | 33.92 Mbps | 14.2 Mbps | 70.11 ms | 85.8% | Claro |
+
+兩件事跳了出來。**波哥大是所有受測城市中延遲最低的（36.83 ms）**——43.58 Mbps 配上 37 ms 的來回時間，是比巴蘭基亞的 39.85 Mbps 配 65.58 ms 更好的視訊通話體驗，因為決定通話感覺是否正常的是延遲，不是頻寬。而**卡塔赫納交出了這組裡最慢的中位數和最差的延遲**——在規劃加勒比海岸的遠端工作週之前，這一點值得先知道。
+
+### 哥倫比亞 eSIM 依省份（省級行政區）的表現
+
+區域表格是這個國家地理呈現的地方。波哥大以 43.5 Mbps 領先；位於另一端的亞馬遜省份則完全是另一個世界。
+
+| 省／行政區 | 下載中位數 | 穩定性 | 最快業者 |
+|:---|:---|:---|:---|
+| 波哥大 | **43.5 Mbps** | 86.5% | Claro |
+| 安蒂奧基亞 | 36.58 Mbps | 84.6% | Claro |
+| 金迪奧 | 34.94 Mbps | 84.9% | Claro |
+| 里薩拉爾達 | 33.65 Mbps | 84.8% | Claro |
+| 大西洋省 | 33.55 Mbps | 85.9% | Claro |
+| 卡爾達斯 | 33.35 Mbps | 84% | Claro |
+| 梅塔 | 31.94 Mbps | 81% | Claro |
+| 桑坦德 | 29.99 Mbps | 81.8% | Claro |
+| 馬格達萊納 | 28.53 Mbps | 83.3% | Claro |
+| 考卡山谷 | 28.44 Mbps | 80.9% | Claro |
+| 玻利瓦爾 | 27.16 Mbps | 83.2% | Claro |
+| 聖安德烈斯—普羅維登西亞 | 28.63 Mbps | 83.8% | 無勝者 |
+| 亞馬遜省 | 12.69 Mbps | 60% | 無勝者 |
+| 維查達 | 8.27 Mbps | 56.7% | 無勝者 |
+| 瓜伊尼亞 | 4.28 Mbps | 46.8% | 無勝者 |
+| 沃佩斯 | 4.04 Mbps | 30.3% | 無勝者 |
+
+咖啡產區——金迪奧、里薩拉爾達和卡爾達斯——是黑馬，站穩在 33 Mbps 以上，僅次於波哥大和安蒂奧基亞。如果你的行程是薩倫托、菲蘭迪亞和馬尼薩萊斯而不是海灘，你的連線會比一般哥倫比亞人更好。而如果行程包含飛往萊蒂西亞，表格底部那些數字就是先把一切下載好的理由。
+
+## 旅客如何取得哥倫比亞 SIM 或 eSIM
+
+哥倫比亞要求 SIM 開通時做身分登記——在當地，這意味著在業者門市或授權經銷商出示護照，旅客通常在抵達頭一兩天在波哥大或麥德林完成。有些途徑還會在之上加驗自拍或地址。這可行，但代價是一個下午。
+
+旅遊 eSIM 途徑完全移除櫃檯：設定檔在出發前發行並安裝，抵達後啟用。讓本國 SIM 留著收簡訊驗證碼，把行動數據指向 eSIM，並保持你平常那條線的漫遊關閉——完整順序見 [eSIM 開通原理](/faq/what-is-esim-activation-and-how-does-it-work/)。還在猶豫要不要下單的人，可以[從免費試用 eSIM 開始](/free-esim/)，用完再決定。
+
+💡 因為沒有任何單一哥倫比亞業者能到處勝出，務實的選擇是具多網路存取的設定檔：[Roami 的哥倫比亞 eSIM](/colombia-esim/) 會在你往返波哥大、咖啡產區和加勒比海岸時重新連上可用的最強業者。
+
+## 你的 eSIM 方案：價格與速度基準
+
+價格表很快過時，所以目前的哥倫比亞方案清單放在[哥倫比亞 eSIM 頁面](/colombia-esim/)，不在這裡凍結。公開數據貢獻的是當地量尺：數據在哥倫比亞多少錢，以及網路實際跑多快。
+
+據 Ookla 2026 年 8 月的 Global Index，哥倫比亞的全國中位數為 **45.46 Mbps**，全球第 **83** 名，延遲 26 ms——低於 109.05 Mbps 的全球值。這個全國數字正是一張哥倫比亞 eSIM 會繼承的。
+
+Cable.co.uk 計價哥倫比亞行動數據每 GB 約 **0.20 美元**——在 237 個市場中排第 **10** 名，表現驚人，遠低於 2.59 美元的全球平均。哥倫比亞是全世界重度數據使用者最便宜的地方之一。
+
+DataReportal 的 2025 年入榜數據記錄 4,110 萬哥倫比亞網路使用者（77.3%）和 7,830 萬個行動連線，為人口的 147%。有關 5G 建設的監管背景，OECD 的[哥倫比亞數位連線審查](https://www.oecd.org/en/publications/digital-connectivity-review-of-colombia_bff5d25a-en/full-report/developments-in-colombia-s-communication-markets_3923fb56.html)詳細記錄了拍賣、站點數量與普及落差。
+
+## 哥倫比亞 eSIM 覆蓋：哪個業者在每個城市勝出
+
+| 目的地 | 最佳業者 | 有效原因 |
+|:---|:---|:---|
+| 波哥大 | Claro | 全哥倫比亞城市中最深的 5G 滲透，且 Claro 的整體速度領先在首都全境成立。海拔不傷訊號，但壅塞會——尖峰時段請預期變慢。 |
+| 麥德林與 Envigado | Claro、Tigo | Envigado 交出全國最快的城市中位數（54.76 Mbps），且 Claro 的都會區 5G 份額最大；Tigo 在其覆蓋處提供最快的原始 5G。 |
+| 卡塔赫納與加勒比海岸 | Claro | 度假小鎮與古城牆區覆蓋良好；僻靜的海岸段變薄，離島行程對所有人都斷斷續續。 |
+| 咖啡產區（馬尼薩萊斯、佩雷拉、亞美尼亞） | Claro | 山路上穩定性至上，而 Claro 的偏鄉 4G 是三者中最強的。 |
+| 卡利與太平洋側 | Claro、Tigo | 都市覆蓋紮實；往太平洋側的次要道路迅速變薄。 |
+| 聖安德烈斯與普羅維登西亞 | Claro | 群島靠大陸業者的漫遊運作——覆蓋集中在城鎮中心。 |
+
+## 出發前設置哥倫比亞 eSIM
+
+這次安裝完全不涉及文件：付款、用 email 收 QR code、在設定中加入，並允許 eSIM 門號漫遊。在家用 Wi-Fi 五分鐘完成——這在波哥大遠勝另一個選項，因為 Claro 或 Movistar 櫃檯的排隊才是抵達流程中最慢的部分。各平台的選單見[逐步 eSIM 開通指南](/faq/how-to-activate-an-esim/)；故障案例則按順序列在 [eSIM 疑難排解資源](/faq/esim-activation-errors-troubleshooting-guide/)。
+
+哥倫比亞另有三個實用提醒。第一，出發前在 Wi-Fi 下安裝——El Dorado 機場的入境大廳不是你診斷設定檔的地方。第二，如果手機在業者之間猶豫，從網路清單手動選擇（Claro 或 Tigo），而不是相信自動選擇。第三，哥倫比亞是一個以 WhatsApp 為先的國家：純數據 eSIM 應付得來，因為你的本國門號在實體 SIM 卡上保持運作、負責驗證碼；途中流量不足是儀表板儲值的事，不是跑門市的事。
+
+## 哥倫比亞網路上的 WhatsApp 通話
+
+哥倫比亞的日常運轉依賴兩件旅客應該納入規劃的事：受海拔影響的通勤，以及 WhatsApp。
+
+**通勤實況。** 波哥大的 TransMilenio 和麥德林的地鐵——包括爬進社區的纜車線——在 Claro 和 Tigo 上全程有覆蓋，這很重要，因為兩市的行程規劃都靠附即時擁擠數據的 App 進行。叫車 App 在各大城市都可使用，是旅客夜間移動的標準方式。
+
+**WhatsApp 經濟。** 餐廳用 WhatsApp 確認訂位、公寓房東傳門鎖密碼、旅行社靠 WhatsApp 群組經營整個生意——而這些都不需要哥倫比亞門號。一張純數據 eSIM 加上保持運作、負責驗證的本國 SIM，就是完整配置；把本國門號的數據漫遊關掉，背景流量就無法向你收費。
+
+**遠端工作者實際落腳處。** 麥德林的 El Poblado 和 Laureles 共享工作空間圈運行在全國快速的固網光纖上，這正是行動 eSIM 的實用互補：桌前有光纖，移動靠 Claro 或 Tigo。Envigado 54.76 Mbps 的城市中位數——全國最快——正好落在那條共享工作走廊上。
+
+## 哥倫比亞 eSIM 需要手機支援哪些頻段
+
+| 技術 | 使用中的頻段 | 對你的手機意味著什麼 |
+|:---|:---|:---|
+| 4G LTE（容量） | 1900 MHz（B2）、1700/2100 MHz AWS（B4） | 國際販售的手機幾乎都支援 |
+| 4G LTE（涵蓋） | 700 MHz（B28）、2600 MHz（B7） | B28 承載偏鄉與海岸覆蓋——進口手機值得檢查 |
+| 5G | 3.5 GHz（n78） | 哥倫比亞 5G 運行的頻段；不支援 n78 的手機會全程只顯示 LTE，永遠看不到 5G 圖示 |
+| 舊制 | 850 MHz（B5）、GSM 850/1900 | 較小城鎮的語音備援 |
+
+相容性是兩個問題：手機有沒有這些頻段，以及有沒有解鎖？被外國電信鎖定的手機會直接拒絕設定檔，任何哥倫比亞業者也幫不上。[eSIM 相容性清單](/compatibility/)一次回答兩者，[eSIM 開通原理](/faq/what-is-esim-activation-and-how-does-it-work/)則解釋安裝過程中發生什麼。
+
+## APN 這一步
+
+這只對在業者自家櫃檯購買的哥倫比亞門號有意義。旅遊 eSIM 自帶 APN，更動它會弄壞一條正常的連線。
+
+| 業者 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| Claro Colombia | `internet.claro.com.co` | 留空 | 留空 |
+| Movistar Colombia | `internet.movistar.com.co` | 留空 | 留空 |
+| Tigo Colombia | `internet` | 留空 | 留空 |
+| WOM | 由業者推送設定檔 | 留空 | 留空 |
+
+彙整網站為 Movistar 和 Tigo 列了多個變體；如果某個被拒絕，以業者自己的設定頁面為準，而不是第三方清單。
+
+- **iPhone：** 設定 → 行動服務 → 哥倫比亞門號 → 行動數據網路 → APN。該畫面上沒有其他需要編輯的欄位。
+- **Android：** 設定 → 連接 → 行動網路 → 存取點名稱（APN） → **+** → 輸入 APN，然後從選單儲存。
+
+儲存並重新開機。然後確認被選為行動數據的是 eSIM，而不是實體 SIM——這是哥倫比亞雙 SIM 配置上「方案有效卻什麼都載不開」極常見的原因。
+
+## 各種花費：當地 SIM 還是旅遊 eSIM
+
+| 步驟 | 發生什麼 |
+|:---|:---|
+| 購買 | 每個城市都有 Claro、Movistar 和 Tigo 門市；波哥大和麥德林有機場櫃檯 |
+| 登記 | 需要護照；門號在銷售點登記在護照名下 |
+| 開通 | 工作人員在店內開通。儲值券來自超市和攤販，或業者 App |
+| 時間 | 預期業者門市要排隊。波哥大預留一小時，熱門商場更久 |
+| 付款 | 現金和當地卡都可以；外國卡有時會被終端機拒收 |
+
+哥倫比亞是那種當地預付 SIM 每 GB 真的便宜、取得速度卻真的慢的市場。兩週行程，帳很少站在排隊那邊；在麥德林住一個月則有時成立，而且當地門號對外送 App 和訂位有幫助。
+
+## 哥倫比亞 eSIM 撐得起遠端工作嗎？
+
+這是麥德林的名聲招來的問題，所以值得給一個有分寸的回答。看數據：波哥大 43.58 Mbps 配 **36.83 ms 延遲**，是舒適的視訊通話城市；麥德林 50.72 Mbps 配 51.84 ms，頻寬更好、反應稍差，兩者對通話和檔案傳輸都沒問題。卡塔赫納 33.92 Mbps 配 **70.11 ms 延遲**，是任何互動式工作都該避開的那一個。
+
+| 工作型態 | 最佳基地 | 原因 |
+|:---|:---|:---|
+| 整天視訊通話 | 波哥大 | 全國最低延遲，36.83 ms |
+| 重度檔案傳輸與上傳 | 麥德林或 Envigado | 最高的中位數，50.72 和 54.76 Mbps |
+| 海邊生活、輕量工作 | 卡塔赫納或聖瑪爾塔 | 收信傳訊沒問題，通話不行 |
+| 咖啡產區隱居 | 薩倫托、馬尼薩萊斯 | 33–35 Mbps 的省份中位數比預期更撐得住 |
+
+無論基地在哪，把行動數據當作固網寬頻的備援而非主線。哥倫比亞的飯店 Wi-Fi 常見且常常不錯；eSIM 是它失效時讓你繼續工作的東西。
+
+## 哥倫比亞 eSIM 疑難排解：按你該嘗試的順序
+
+**完全裝不上。** 先查手機的電信鎖狀態，再問 QR code 是否已被使用過。在國外用合約買、剛繳清的手機是常見元凶。
+
+**裝上了卻沒有訊號格。** 哥倫比亞的自動駐網偶爾會停在一個它守不住的小區。開飛航模式數十五秒，然後在網路選擇中手動挑選——Claro、Tigo、Movistar 或 WOM。剛跨過省界的手機，首次掃描需要比平常更長的時間。
+
+**有訊號格，但沒有網路。** 三個原因，按可能性排序：eSIM 不是被選定的數據門號、該門號的數據漫遊關閉，或當地購買的設定檔 APN 錯誤。按這個順序檢查。
+
+**「僅限緊急電話」。** 兩個設定檔不會禮讓地共用一支射頻。移除第二個、重新開機、重設網路設定，把全新 QR code 重裝留到清單最後。
+
+更廣的開通故障——設定檔下載到一半、掃描失敗——收錄在[我們的 eSIM 開通疑難排解指南](/faq/esim-activation-errors-troubleshooting-guide/)。如果你還在猶豫要不要帶設定檔旅行，[免費測試 eSIM](/free-esim/) 讓你在付款前完整端到端測試安裝。
+
+## 為你的行程選最佳哥倫比亞 eSIM 業者：Claro 對 Tigo
+
+| 行程 | 典型長度 | 舒適額度 | 原因 |
+|:---|:---|:---|:---|
+| 波哥大城市小旅行 | 3–4 天 | 3–5 GB | 飯店 Wi-Fi 包辦大半 |
+| 麥德林與安蒂奧基亞 | 5–7 天 | 5–8 GB | 叫車、地圖，還有大量照片同步 |
+| 咖啡產區環線 | 7 天 | 6–9 GB | 鄉間道路代表導航全程開著 |
+| 卡塔赫納與加勒比海岸 | 5–7 天 | 5–8 GB | 度假村有 Wi-Fi；海灘俱樂部沒有 |
+| 波哥大、麥德林、卡利搭機串聯 | 10–14 天 | 10–14 GB | 三次轉場且沒有固定基地 |
+| 遠端工作一個月 | 30 天 | 25 GB 以上，或一條當地預付門號 | 一整個月的視訊通話超出任何旅遊套裝 |
+
+## 哥倫比亞的行動數據對當地人多少錢，以及 eSIM 價格為何不同
+
+哥倫比亞的當地預付市場競爭激烈——Claro、Tigo、Movistar 和 WOM 追逐同一批預付客戶——所以每 GB 價格遠低於旅遊 eSIM 的收費。交換的是時間與手續，不是品質：你以旅客身分連上的網路，就是當地人使用的網路。如果你的行程是兩週，旅遊設定檔的便利值得溢價。如果是一整季，辦一條當地門號、把 eSIM 留作備援。
+
+### Claro 是哥倫比亞 eSIM 唯一合理的選擇嗎？
+
+它是最安全的預設，數據也支持這一點：Claro 以 66.80 的連線評分拿下最佳行動網路、44.26 Mbps 的全技術中位數，以及全部十個受測城市中的最快業者。但戰場夠近，Tigo、Movistar 和 WOM 都能提供可用的都市體驗——這正是一個能在它們之間移動的設定檔，比單一業者偏好更值錢的原因。
+
+### 哥倫比亞 eSIM 在咖啡產區好用嗎？
+
+比全國平均值暗示的更好。金迪奧的省份中位數為 34.94 Mbps，里薩拉爾達 33.65、卡爾達斯 33.35——全都高於全國偏鄉圖像，僅次於波哥大和安蒂奧基亞。薩倫托、菲蘭迪亞和馬尼薩萊斯用一般旅遊方案都服務得到，而那些蜿蜒道路正是值得事先下載離線地圖的原因。
+
+### 帶著哥倫比亞 eSIM 進入厄瓜多或巴拿馬
+
+僅限哥倫比亞的設定檔只在哥倫比亞境內有效。最容易讓人中招的兩個過境點是進入厄瓜多的 Rumichaca 橋，以及卡塔赫納—巴拿馬的空路與海路——兩者都是哥倫比亞行程常見的延伸，而且都會在你跨越的瞬間終止僅限哥倫比亞的方案。
+
+如果行程繼續，三選一：每段路加一個國家設定檔、買一份南美區域方案，或先裝好第二條 eSIM 門號、移動時在設定中切換數據門號。我們的[厄瓜多 eSIM 頁面](/ecuador-esim/)、[巴拿馬 eSIM 指南](/carriers/panama-esim-carrier-guide/)和[秘魯 eSIM 方案](/peru-esim/)涵蓋常見的延伸。
+
+## 解答庫：哥倫比亞 eSIM
+
+### 哥倫比亞 eSIM 在鄰國能用嗎？
+
+僅限哥倫比亞的方案會死在邊界——厄瓜多、秘魯和巴西都在其外，你一跨越它就沉默。如果你的行程跨境不止一次，每段路加一個國家設定檔，或使用南美區域方案；我們的[秘魯 eSIM 指南](/carriers/peru-esim-carrier-guide/)和[墨西哥 eSIM 頁面](/mexico-esim/)涵蓋最近的幾段。
+
+### 5G 在哥倫比亞哪裡最強
+
+按建設量說是 Claro：據 OECD 審查引用的數據，2024 年底全國運作中的 5G 站點約 92% 屬於 Claro。Tigo 在其 5G 存在之處更快。「最好」取決於你重視覆蓋（Claro）還是覆蓋區內的峰值速度（Tigo）。
+
+### 可以直接向 Claro 買哥倫比亞 eSIM 嗎？
+
+可以——持護照、親自到門市或授權經銷商辦理——所有哥倫比亞門號都強制登記。對停留一個月以上的人，這是可行選項。對兩週以下的行程，出發前安裝好的旅遊 eSIM 快上好幾倍。
+
+### 旅客在哥倫比亞需要登記 SIM 嗎？
+
+哥倫比亞對手機沒有任何特殊要求：其 4G 與 5G 層——包括 700 MHz LTE 和 n78——主流國際機型都支援。[裝置相容性檢查器](/compatibility/)一次查詢即可確認你的確切型號。
+
+### 在哥倫比亞能靠 WhatsApp 通話嗎？
+
+完全可以——WhatsApp 語音與視訊是哥倫比亞的預設通話方式，在數據上運作完美。傳統 SIM 通話不包含在純數據方案裡，但在 WhatsApp 和 VoIP App 之間，你不會想念它們。
+
+### 依行程類型選擇：哥倫比亞 eSIM
+
+地圖、叫車、社群媒體和每日視訊通話，5–10 GB 綽綽有餘。串流累積得很快；大城市的飯店與咖啡館有由全國快速光纖錨定的可用 Wi-Fi，所以把大量下載同步到房間裡進行——如果需要筆電的熱點時間，直接買下一級方案，而不是勒緊褲帶。
+
+### 哥倫比亞 5G 覆蓋地圖備註
+
+有競爭力，而非突出。Tigo 以 297.43 Mbps 的下載中位數和 65.27 的 5G 速度評分領先 5G，Movistar 以 280.72 Mbps 居後。Ookla 在整體 5G 連線評分上認定各業者沒有統計差異，這意味著戰場很近，你的體驗取決於地點而不是品牌。
+
+### 在哥倫比亞販售 SIM 的業者
+
+Claro 是最安全的預設：以 66.80 的連線評分拿下最佳行動網路、44.26 Mbps 的全技術中位數，以及報告測量的全部十個城市中的最快業者。如果你在乎的是 5G 吞吐量，選 Tigo；WOM 則有 75.84 的最佳行動影片體驗。
+
+### Claro 對 Tigo：哪家哥倫比亞業者更快？
+
+波哥大交出 43.58 Mbps 的下載中位數、16.58 Mbps 的上傳，以及——關鍵所在——所有受測哥倫比亞城市中最低的延遲，36.83 ms。這個組合使它成為全國最適合視訊通話的城市，即使麥德林和 Envigado 的原始下載數字更高。
+
+### 在哥倫比亞待一週會燒掉多少 GB？
+
+卡塔赫納 33.92 Mbps 的中位數和 70.11 ms 的延遲是十城組裡最弱的，差距主要來自站點密度與骨幹回傳，而不是觀光負載。麥德林和 Envigado 以 50.72 和 54.76 Mbps 位於另一端。度假週毫無影響；工作行程就有影響。
+
+### 辦哥倫比亞 SIM 要出示證件嗎？
+
+要——哥倫比亞預付門號在銷售點登記在身分證件名下，旅客使用的文件是護照。沒有合法的匿名途徑，這正是旅遊 eSIM 成為短程行程更快選項的原因之一。
+
+### Claro、Tigo 和 Movistar eSIM 的 APN 數值
+
+Claro 用 `internet.claro.com.co`，Movistar 用 `internet.movistar.com.co`，Tigo 用 `internet`，三者的使用者名稱和密碼都留空。WOM 自動推送其設定檔。只有當你向哥倫比亞業者購買門號時才用得上這些——旅遊 eSIM 自己完成配置。
+
+### 哥倫比亞 eSIM 在厄瓜多、秘魯或巴拿馬能用嗎？
+
+單國設定檔不行；它在邊界停止。如果行程跨境進入厄瓜多、秘魯或巴拿馬，買一份拉丁美洲區域方案或每國一份獨立設定檔，南段請看我們的[秘魯 eSIM 頁面](/peru-esim/)。
+
+### 哥倫比亞 eSIM 需要 700 MHz 支援嗎？
+
+城市覆蓋不需要——1900 MHz 和 AWS 承載都市流量，幾乎每支手機都有。偏鄉、海岸和亞馬遜覆蓋則非常需要 700 MHz（B28）。如果你的路線會離開城市，選擇旅伴手機前先查頻段。
+
+### 哥倫比亞的偏鄉覆蓋：Claro 對 Tigo
+
+在波哥大和麥德林，可以——而且很從容。波哥大 36.83 ms 的延遲使它成為全國最好的通話城市，麥德林 50.72 Mbps 的中位數應付大檔案傳輸。加勒比海岸——卡塔赫納延遲 70.11 ms——把連線當作夠收信、夠傳訊，而不夠開會。
+
+### 到哪裡購買哥倫比亞 eSIM
+
+不是另一份設定檔，而是更大的額度和更低的期待。亞馬遜河上的萊蒂西亞，以及 Bahía Solano 一帶的太平洋小鎮，基礎設施比內陸薄得多，覆蓋集中在聚落內，聚落之間什麼都沒有。多網路的[哥倫比亞 eSIM](/colombia-esim/) 會連上有基地台的任何地方；基地台之間，離線地圖是唯一管用的計畫。
+
+### 哥倫比亞 eSIM 能分享網路嗎？
+
+標準旅遊資費可以，筆電共用同一個流量池。在咖啡館工作會改變算術：分享網路的筆電消耗是手機的數倍，所以按電腦而非手機選資費。
+
+### 哥倫比亞 eSIM 的跨境使用
+
+幾乎永遠划算，而且差距很大。哥倫比亞預付以國際標準算便宜，但本國業者的漫遊費率是連當地零售價的數倍。旅遊 eSIM 落在兩者之間：比當地 SIM 貴，遠比漫遊便宜，而且落地前就可用。
+
+### 開啟哥倫比亞設定檔的聰明時機是什麼時候？
+
+在家裡、在你自己的 Wi-Fi 上，出發前一兩天開啟——然後關掉，直到抵達波哥大。讓它在家保持啟用沒有任何好處，還讓你猜不準有效期。那個在哥倫比亞土地上醒來的休眠設定檔，才是讓你在走到行李轉盤之前就上線的版本。
+
+### 看一眼哥倫比亞數據方案
+
+可以，而且值得做。把通話和一次性驗證碼留在實體 SIM 上，把 eSIM 設為數據門號，並關閉本國門號的數據漫遊，除非你的資費明確包含它。兩個設定檔相安無事地共存；你避開的成本是本國業者的漫遊費率，而不是什麼技術限制。
+
+### Claro 預付卡比旅遊設定檔划算嗎？
+
+哥倫比亞的預付數據真的便宜——每 GB 約 0.20 美元，237 個市場中第 10 名——所以如果你有耐心排 Claro 或 Tigo 櫃檯、完成護照登記，帳面站在當地卡那邊。旅遊設定檔帳面上輸、落地時贏：一張[哥倫比亞 eSIM](/colombia-esim/) 同時觸及 Claro、Tigo、Movistar 和 WOM，意味著不用排隊，也不用押注單一網路。
+
+### 哪個網路適合你的哥倫比亞行程？
+
+從提供者的儀表板儲值，安裝保持不變。在城市 Wi-Fi 上花幾分鐘就恢復額度，而設定檔、APN 或網路選擇什麼都不用動。如果你想先試水溫，[零成本試用 eSIM](/free-esim/) 覆蓋行程頭幾天，不必先承諾任何資費。
+
+## 我們的哥倫比亞資料來源，逐條列出
+
+1. **業者速度與 5G 可用率** — [Ookla 的 2025 下半年哥倫比亞報告](https://www.ookla.com/research/reports/colombia-speedtest-connectivity-report-h2-2025)。Claro、Tigo、Movistar 和 WOM 的各項指標，以及每個城市與省份的中位數，皆出自該報告。
+2. **5G 建設與市場結構** — [OECD 的哥倫比亞數位連線審查](https://www.oecd.org/en/publications/digital-connectivity-review-of-colombia_bff5d25a-en/full-report/developments-in-colombia-s-communication-markets_3923fb56.html)，涵蓋 2023 年拍賣、2024 年 2 月啟動與 Claro 的 5G 站點份額。
+3. **目前的全國中位數** — [Ookla 每月指數上的哥倫比亞](https://www.speedtest.net/global-index/colombia)，45.46 Mbps 與第 83 名的數字在此更新。
+4. **零售數據價格** — [Cable.co.uk 的全球表格](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)，每 GB 0.20 美元與 237 個市場中第 10 名排名的來源。
+5. **市場規模** — [DataReportal 的 Digital 2025: Colombia](https://datareportal.com/reports/digital-2025-colombia)，提供網路使用者與連線總數。
+
+以上五者皆為第三方且標註時間。它們拿哥倫比亞與鄰國比較時很準，預測咖啡產區的某個下午時則很糟。
+
+## 訂好你的哥倫比亞 eSIM，落地即上線
+
+一張同時觸及 Claro、Tigo 和 Movistar 的設定檔，無論行程去哪都解決了網路問題——波哥大的會議室、咖啡產區的莊園，或加勒比海岸。
+
+1. [查看哥倫比亞 eSIM 方案](/colombia-esim/)
+2. [免費試用哥倫比亞 eSIM](/free-esim/) — 新客戶專屬
+
+[取得我的哥倫比亞 eSIM](/colombia-esim/)
+
+*試用無需綁卡*
+
+Roami 的結語：先測覆蓋再出發的旅客，很少後悔。[試用 eSIM](/free-esim/) 鏡像了 Claro 上的當地配置，而當你準備好時，優惠碼 **WEB20** 為付費的 Roami 方案省下 20%。

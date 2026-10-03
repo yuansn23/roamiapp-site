@@ -1,283 +1,372 @@
 ---
-title: "去新加坡上網好困擾？5G eSIM 方案挑選懶人包。"
-description: "需要新加坡的 eSIM？Roami 實測 Singtel、M1 和 SIMBA Telecom 的 5G 速度與覆蓋，根據旅行需求推薦最合適的方案。"
-date: "2026-06-17T06:15:09+00:00"
-
-keywords: "eSIM 新加坡，預付數據，5G 網路，Singtel，M1，SIMBA Telecom，旅遊 eSIM，無限數據"
-site_name: "Roami"
-brand_name: "Roami"
+title: "新加坡 eSIM 怎麼挑？Singtel、StarHub、M1 比較"
+description: "新加坡 eSIM 要辦哪一家電信業者？Roami 比較 Singtel、StarHub 與 M1 的預付旅遊方案、Ookla 實測網速與 IMDA 護照註冊規定，從樟宜機場到濱海灣與聖淘沙逐段檢視覆蓋，整理 APN 設定，幫你落地即上網，獅城一路順。"
+image: "img/esim/carriers/singapore-esim-carrier-guide.jpg"
+date: "2026-09-23T04:42:04+00:00"
+keywords: 新加坡 eSIM 電信業者, Singtel eSIM, StarHub eSIM, M1 eSIM, 新加坡旅遊 eSIM, 新加坡 5G 頻段, 新加坡 eSIM APN, eSIM 新加坡預付卡, 新加坡最佳 eSIM 電信業者, 新加坡預付卡 SIM 註冊
+site_name: Roami
+brand_name: Roami
 breadcrumb_items:
-  - name: "Roami"
-    url: "/"
-  - name: "新加坡 eSIM 指南"
-    url: ""
-
-# Hero 區塊文案
-hero_badge: "[旗幟] 新加坡 最新旅遊 eSIM 指南"
-hero_subtitle_main: "新加坡 eSIM：快速啟用，免去實體 SIM 卡"
-hero_subtitle_highlight: "Singtel 頂級 5G 覆蓋與最快下載速度"
-hero_description_line1: "使用 新加坡 eSIM 告別高昂的國際漫遊費用，快速連接當地網路，享受穩定高速的網路，讓旅程更安心。"
-hero_description_line2: "秒速連線，享受無限上網。"
-hero_link_text: "新加坡 eSIM"
-hero_link_url: "/singapore-esim/"
-tldr_summary: "【告別高額漫遊費：多裝置無限數據 5G 方案】前往新加坡旅遊，再也不用擔心昂貴的國際漫遊帳單。透過 Roami 新加坡 eSIM，您可以在多個裝置上享受無限數據的 5G 網路，徹底告別實體 SIM 卡與換卡麻煩。根據 Ookla 2025 下半年的最新數據，Singtel 以中位下載速度 310.26 Mbps 與 5G 中位下載速度 402.16 Mbps 奪得最快行動網路與最佳 5G 網路獎項，同時在影片串流與遊戲體驗上也名列前茅。SIMBA Telecom 則以 96.6% 的網路一致性表現最為穩定。選擇 Roami eSIM，您就能自動連上這些頂尖營運商的網路，無論是在濱海灣花園打卡、在烏節路購物，或是在聖淘沙享受沙灘，都能享有極速穩定的連線。結論：Roami 新加坡 eSIM 是您告別漫遊費、享受頂級 5G 體驗的最佳夥伴。"
-
-# 側邊欄導航
-sidebar_more_hint: "滑動以查看更多"
-sidebar_title: "新加坡 eSIM 快速連結"
-sidebar_links:
-
-  - href: "#quick-picks"
-    text: "快速選擇：新加坡 該選哪家 eSIM 營運商？"
-
-  - href: "#operators"
-    text: "新加坡 最佳行動 eSIM 營運商總覽"
-
-  - href: "#city-guide"
-    text: "城市指南：新加坡 最佳 eSIM"
-
-  - href: "#before-buy"
-    text: "購買 新加坡 eSIM 前須知"
-
-  - href: "#faq"
-    text: "新加坡 eSIM 常見問題"
-
-  - href: "#myths"
-    text: "新加坡 eSIM 迷思與事實"
-
-  - href: "#data-sources"
-    text: "數據來源"
-
-# 快速決策表格
-quick_picks_title: "快速選擇：新加坡 該選哪家 eSIM 營運商？"
-quick_picks_table_headers:
-
-  - "您的旅行風格"
-
-  - "推薦營運商"
-
-  - "根據數據的網路效能"
-
-quick_picks_note_prefix: "數據來源："
-quick_picks_note_carrier: "[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025)"
-quick_picks_note_text: "."
-quick_picks_note_brand: ""
-quick_picks_note_link_text: ""
-quick_picks_note_suffix: ""
-
-quick_picks:
-
-  - travel: "數位遊牧民族"
-    carrier: "Singtel"
-    carrier_class: "text-orange-600"
-    reason: "根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025)，Singtel 擁有最快行動網路（中位下載 310.26 Mbps）與最佳 5G 網路（中位下載 402.16 Mbps），非常適合需要大量上傳下載、視訊會議的數位遊牧民族。"
-
-  - travel: "一般旅客"
-    carrier: "M1"
-    carrier_class: "text-blue-600"
-    reason: "M1 在整體速度上排名第二（中位下載 173.1 Mbps），5G 下載速度也達 387.98 Mbps，提供穩定且快速的連線，足以應付導航、社群媒體與串流影片。"
-
-  - travel: "預算有限者"
-    carrier: "SIMBA Telecom"
-    carrier_class: "text-green-600"
-    reason: "SIMBA Telecom 以 96.6% 的一致性得分拿下最穩定網路獎項，代表連線品質可靠，非常適合預算有限但仍需穩定網路的旅客。"
-
-# 主要按鈕文案
-cta_button_main_text: "查看 新加坡 最優惠旅行 eSIM"
-cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
-
-# 營運商通用標籤
-operator_labels:
-  best_for: "最佳用途："
-  core_data: "核心數據："
-  connect_note_label: "eSIM 連線備註："
-
-# 營運商數據
-operators:
-
-  - id: "singtel-esim"
-    title: "Singtel eSIM 總覽：最快 5G 與最佳整體體驗"
-    best_for: "此方案絕對是最佳選擇，適合追求極致速度、流暢影片串流與遊戲體驗的用戶。"
-    core_data: "- **5G 可用性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025)，Singtel 的 5G 可用性高達 82.6%，代表大部分時間都能連上 5G 網路。\n- **下載速度**：中位下載速度 310.26 Mbps，5G 中位下載速度 402.16 Mbps，為市場最快。\n- **上傳速度**：中位上傳速度 32.26 Mbps，5G 中位上傳速度 37.99 Mbps。\n- **延遲**：整體延遲 27 ms，5G 延遲 24 ms。\n- **影片體驗**：影片串流得分 89.98，為最佳行動影片體驗。\n- **遊戲體驗**：遊戲得分最高，提供最佳行動遊戲體驗。\n- **一致性**：96.7% 的樣本達到 5 Mbps 下載 / 1 Mbps 上傳門檻；5G 樣本中 93.8% 達到 25 Mbps 下載 / 3 Mbps 上傳門檻。"
-    arcep_note: "經當地電信主管機關（新加坡資訊通信媒體發展局，IMDA）確認，Singtel 為新加坡主要營運商之一，持有完整的 4G/5G 頻譜執照。"
-    connect_note: "啟用過程順暢，支援 eSIM 快速開通，抵達新加坡後掃描 QR code 即可連線。"
-    user_scenarios: "- **[濱海灣花園]**：在超級樹叢與花穹之間即時上傳 4K 影片，Singtel 的高速上傳讓您秒速分享。\n- **[聖淘沙名勝世界]**：排隊等候環球影城設施時，用 Singtel 的低延遲 5G 網路流暢玩手遊，完全不會卡頓。\n- **[烏節路購物]**：一邊逛街一邊用高畫質串流音樂與地圖，影片串流得分 89.98 保證不緩衝。"
-    bg_color: "bg-blue-50"
-
-  - id: "m1-esim"
-    title: "M1 eSIM 總覽：穩定快速的第二選擇"
-    best_for: "適合需要高速網路但預算稍緊的旅客，M1 在速度與價格之間取得良好平衡。"
-    core_data: "- **下載速度**：中位下載速度 173.1 Mbps，5G 中位下載速度 387.98 Mbps，僅次於 Singtel。\n- **上傳速度**：5G 中位上傳速度表現優異，僅次於 Singtel。\n- **延遲**：提供穩定的低延遲連線。\n- **一致性**：網路一致性表現良好，足以應付日常使用。"
-    arcep_note: "經 IMDA 確認，M1 為新加坡三大行動網路營運商之一，擁有完整的 4G/5G 基礎設施。"
-    connect_note: "eSIM 啟用簡單，支援即時開通，適合抵達後立即使用。"
-    user_scenarios: "- **[牛車水]**：在擁擠的傳統市集裡，M1 的穩定連線讓您順利使用電子支付與地圖導航。\n- **[樟宜機場]**：轉機或抵達時，快速連線查詢航班資訊與即時通訊，M1 的 5G 速度讓您不浪費時間。\n- **[小印度]**：直播節慶活動或上傳美食照片，M1 的上傳速度足以應付高畫質內容。"
-    bg_color: "bg-blue-50"
-
-  - id: "simba-esim"
-    title: "SIMBA Telecom eSIM 總覽：最穩定可靠的連線"
-    best_for: "適合重視連線穩定度、不追求極致速度的用戶，例如需要不斷進行語音通話或視訊會議的商務旅客。"
-    core_data: "- **一致性**：根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025)，SIMBA Telecom 以 96.6% 的一致性得分拿下最穩定網路獎項。\n- **速度**：雖然絕對速度不如 Singtel 與 M1，但連線品質極為穩定，適合長時間使用。\n- **覆蓋**：在全國範圍內提供可靠的 4G/5G 覆蓋。"
-    arcep_note: "經 IMDA 確認，SIMBA Telecom 為新加坡第四家行動網路營運商，持有 4G/5G 頻譜，專注於提供高性價比服務。"
-    connect_note: "eSIM 啟用流程順暢，支援預先安裝，抵達後自動連線。"
-    user_scenarios: "- **[新加坡動物園]**：在廣闊的園區內移動時，SIMBA 的高一致性確保導航與即時訊息不中斷。\n- **[東海岸公園]**：騎腳踏車或慢跑時，穩定的網路讓您持續串流音樂或追蹤運動數據。\n- **[濱海灣金沙]**：在大型商場與會展中心內，SIMBA 的穩定連線讓您順利進行視訊會議。"
-    bg_color: "bg-blue-50"
-
-# 三張卡片
-cards_compatibility_title: "檢查 新加坡 eSIM 相容性清單"
-cards_compatibility_desc: "了解您的手機是否支援 新加坡 eSIM 與當地 5G 頻段"
-cards_free_title: "取得免費 新加坡 eSIM"
-cards_free_desc: "限時免費試用 eSIM，體驗當地高速 5G 網路，無漫遊費用"
-cards_free_badge: "免費"
-cards_app_title: "下載 Roami App 享 eSIM 20% 折扣"
-cards_app_desc: "優惠碼：<strong class='bg-orange-100 text-orange-700 px-2 py-0.5 rounded font-mono text-base'>web20</strong> | 一鍵管理 eSIM"
-cards_compatibility_link: "/compatibility/"
-cards_free_link: "/free-esim/"
-cards_app_link: "/app/"
-
-# 購買前須知
-before_buy_title: "購買 新加坡 eSIM 前須知"
-before_buy_sections:
-
-  - heading: "1. 新加坡主要 5G/4G 頻段與裝置相容性"
-    content: "新加坡的 5G 網路主要使用 n78（3.5 GHz）頻段，4G 則以 LTE Band 1（2100 MHz）、Band 3（1800 MHz）、Band 7（2600 MHz）與 Band 8（900 MHz）為主。購買 eSIM 前，請確認您的智慧型手機支援這些頻段，尤其是 n78 以獲得最佳 5G 體驗。多數近三年發表的旗艦機種（如 iPhone 12 以上、Samsung Galaxy S21 以上、Google Pixel 6 以上）皆已支援。"
-
-  - heading: "2. KYC（認識你的客戶）實名認證要求"
-    content: "根據新加坡法規，所有預付 SIM 卡（包括 eSIM）均需進行實名登記。購買 Roami eSIM 時，您需要提供護照資料與個人資訊（如姓名、國籍、護照號碼）以完成 KYC 驗證。此流程通常在線上完成，無需前往門市，且資料僅用於監管目的，保障您的使用安全。"
-
-  - heading: "3. 公平使用政策（FUP）與數據限制"
-    content: "雖然許多 eSIM 方案標榜「無限數據」，但實際上多數設有公平使用政策。例如，每日或每月超過一定用量（如 2GB 或 5GB）後，速度可能會被降速至 128 kbps 或 256 kbps。請仔細閱讀方案條款，選擇符合您使用習慣的數據量，避免在關鍵時刻遭遇降速。"
-
-  - heading: "4. eSIM 啟用與裝置鎖定問題"
-    content: "Roami eSIM 支援 QR code 啟用，您可以在出發前於家中安裝，抵達新加坡後掃描即可連線。請注意，eSIM 僅適用於解鎖手機（無 SIM 卡鎖）。若您的裝置曾綁定特定電信商，請先向原業者申請解鎖。此外，部分中國品牌手機（如某些華為、小米機型）可能不支援 eSIM，購買前請先確認。"
-
-  - heading: "5. 網路覆蓋與漫遊注意事項"
-    content: "新加坡國土面積小，三大營運商（Singtel、M1、SIMBA Telecom）在全國範圍內（包括地鐵、隧道、離島如聖淘沙）皆有良好覆蓋。但若您計畫前往鄰近國家（如馬來西亞新山），請注意 eSIM 方案通常僅限新加坡境內使用，跨境將產生額外漫遊費用。建議另外購買區域型 eSIM 方案。"
-
-# 城市推薦表格
-city_guide_title: "城市指南：新加坡 最佳 eSIM"
-city_guide_desc: "了解哪款 新加坡 eSIM 是您目的地的最佳選擇，根據城市特色與網路效能提供推薦。"
-city_table_headers:
-
-  - "城市"
-
-  - "推薦 eSIM 營運商"
-
-  - "原因／特色"
-
-city_recommendations:
-
-  - city: "新加坡市中心（濱海灣、烏節路）"
-    carriers: "Singtel"
-    reason: "市中心人口密集，對速度與容量要求高。Singtel 擁有最快下載速度（310.26 Mbps）與最佳 5G 可用性（82.6%），確保在摩天大樓間與大型商場內依然享有極速連線。"
-
-  - city: "聖淘沙島"
-    carriers: "M1"
-    reason: "聖淘沙是度假勝地，有環球影城、沙灘與飯店。M1 提供穩定的 5G 速度（387.98 Mbps），足以應付串流影片、即時分享與導航，且價格較 Singtel 親民，適合休閒旅客。"
-
-  - city: "樟宜機場與東部地區"
-    carriers: "SIMBA Telecom"
-    reason: "樟宜機場與東海岸地區需要穩定不中斷的連線，尤其是轉機旅客。SIMBA Telecom 以 96.6% 的一致性得分勝出，確保在機場內查詢航班、使用免稅店無線支付時不卡頓。"
-
-  - city: "牛車水與小印度"
-    carriers: "Singtel"
-    reason: "這些歷史街區巷弄狹窄、建築密集，對網路穿透力要求高。Singtel 的整體網路一致性達 96.7%，在擁擠環境中仍能提供穩定的 4G/5G 訊號，適合直播或使用電子地圖。"
-
-  - city: "裕廊與西部工業區"
-    carriers: "M1"
-    reason: "裕廊地區有南洋理工大學與多個工業園區，學生與商務人士眾多。M1 在速度與價格上取得平衡，5G 下載速度達 387.98 Mbps，足以應付線上課程、視訊會議與大檔案傳輸。"
-
-city_guide_tip: "💡 提示：若您使用 Roami 多網路 eSIM，手機將自動切換至最佳本地營運商，無需手動選擇。"
-
-# 場景式選擇指南
-scene_guide_title: "🎯 依您的旅行場景選擇最佳 新加坡 eSIM"
-scene_items:
-
-  - icon: "🏛️"
-    title: "城市探索者"
-    text: "漫步於濱海灣花園、魚尾獅公園與克拉碼頭，您需要即時上傳照片、使用地圖導航與串流音樂。推薦 Singtel eSIM，其最佳影片串流體驗（89.98 分）與最快下載速度，讓您在城市探索中不遺漏任何精彩瞬間。"
-
-  - icon: "🏞️"
-    title: "自然愛好者"
-    text: "前往新加坡動物園、裕廊飛禽公園或武吉知馬自然保護區，網路覆蓋可能不如市區密集。SIMBA Telecom 以 96.6% 的一致性得分提供最穩定的連線，確保您在自然環境中仍能順利使用導航與即時通訊。"
-
-  - icon: "🚗"
-    title: "自駕旅行者"
-    text: "自駕遊新加坡，您需要可靠的導航與即時路況資訊。Singtel 的 5G 可用性達 82.6%，在快速道路與隧道中也能保持連線，讓您避開塞車路段，順利抵達目的地。"
-
-  - icon: "🏖️"
-    title: "海灘愛好者"
-    text: "在聖淘沙沙灘或東海岸公園享受陽光與海水，同時想串流音樂、觀看影片或與親友視訊。M1 的 5G 下載速度達 387.98 Mbps，即使在沙灘上也能享受流暢的娛樂體驗。"
-
-scene_guide_footer: "💡 Roami eSIM 多網路版會自動偵測您的場景並切換至最佳網路，無需手動設定。"
-
-# FAQ
-faq_title: "新加坡 eSIM 常見問題"
-faq_prefix: "問"
-faq_suffix: "："
-faq_more_link_text: "還有其他問題？查看完整 FAQ →"
-faq_more_link_url: "/faq/"
-faq:
-
-  - q: "新加坡 eSIM 的支援服務提供哪些語言，回應時間為何？"
-    a: "Roami 的客戶支援團隊提供英文與中文服務，可透過即時線上客服或電子郵件聯繫。一般情況下，回應時間為 5 至 15 分鐘（尖峰時段可能延長至 30 分鐘）。我們也設有常見問題知識庫，提供 24/7 自助查詢。"
-
-  - q: "eSIM 在跨國境時是否會自動切換至最佳網路，還是僅限於 新加坡 境內？"
-    a: "Roami 新加坡 eSIM 方案專為新加坡境內使用設計，不會自動切換至鄰國網路。若您前往馬來西亞或印尼，需另外購買區域型或多國 eSIM 方案。請注意，在新加坡境內，eSIM 會自動連接到合作營運商（如 Singtel、M1 或 SIMBA Telecom）的最佳可用網路，無需手動設定。"
-
-  - q: "新加坡 eSIM 是否支援全國 4G 與 5G 網路？"
-    a: "是的，Roami 新加坡 eSIM 支援全國範圍的 4G 與 5G 網路。根據 Ookla 2025 下半年的數據，合作營運商 Singtel 的 5G 可用性高達 82.6%，且中位 5G 下載速度達 402.16 Mbps。只要您的裝置支援 5G 且位於覆蓋區域內，即可自動連線 5G。若無 5G 訊號，則會自動降轉至 4G，確保連線不中斷。"
-
-  - q: "我可以在出發前於家中安裝 新加坡 旅遊 eSIM 嗎？"
-    a: "完全可以。購買 Roami 新加坡 eSIM 後，您會收到一封包含 QR code 的電子郵件。建議您在出發前於家中使用穩定的 Wi-Fi 掃描 QR code 並安裝 eSIM 設定檔。安裝完成後，設定檔會儲存在您的裝置中，待您抵達新加坡並開啟數據漫遊時，即會自動連線至當地網路，無需額外操作。"
-
-  - q: "抵達 新加坡 機場後，如何正確啟用 Roami eSIM 設定檔？"
-    a: "抵達新加坡樟宜機場後，請依照以下步驟啟用：1. 確保您的手機已開啟，並關閉飛航模式。2. 進入「設定」>「行動服務」或「蜂窩網路」，找到您已安裝的 Roami eSIM 方案。3. 開啟「數據漫遊」開關。4. 手動選擇網路（可選）：若未自動連線，可搜尋並選擇「Singtel」、「M1」或「SIMBA Telecom」。5. 等待幾秒鐘，即可看到訊號圖示出現，開始上網。若遇到問題，請連線機場免費 Wi-Fi 並聯繫 Roami 客服。"
-
-# 迷思
-myths_title: "⚠️ 新加坡 eSIM 常見迷思與事實"
-myth_label: "❌ 迷思："
-truth_label: "✅ 事實："
-myths:
-
-  - myth: "迷思：新加坡的 5G 網路只在市中心有訊號。"
-    truth: "事實：根據 Ookla 數據，Singtel 的 5G 可用性達 82.6%，代表大部分用戶大部分時間都能連上 5G，涵蓋範圍包括市中心、住宅區、聖淘沙甚至部分郊區。雖然郊區覆蓋可能不如市中心密集，但整體 5G 覆蓋率在亞洲名列前茅。"
-
-  - myth: "迷思：eSIM 會比實體 SIM 卡慢。"
-    truth: "事實：eSIM 與實體 SIM 卡使用相同的網路基礎設施，速度完全取決於營運商的網路品質。Roami eSIM 連接到 Singtel、M1 或 SIMBA Telecom 的頂級網路，中位下載速度可達 310 Mbps 以上，與實體 SIM 卡無異。"
-
-  - myth: "迷思：新加坡所有營運商的速度都差不多。"
-    truth: "事實：根據 Speedtest Intelligence 數據，Singtel 的中位下載速度（310.26 Mbps）遠高於 M1（173.1 Mbps）與 SIMBA Telecom。5G 速度差異也明顯，Singtel 以 402.16 Mbps 領先 M1 的 387.98 Mbps。選擇營運商會顯著影響您的網路體驗。"
-
-  - myth: "迷思：使用 eSIM 會耗電更快。"
-    truth: "事實：eSIM 與實體 SIM 卡的耗電量差異極小，可忽略不計。真正影響電量的是網路訊號強度與使用行為（如持續串流、導航）。新加坡 5G 覆蓋良好，手機不需頻繁搜尋訊號，反而有助於省電。"
-
-  - myth: "迷思：新加坡的網路在尖峰時段會非常慢。"
-    truth: "事實：雖然尖峰時段（如捷運通勤時間）網路負載較高，但新加坡營運商的基礎建設足以應付。Singtel 在 2H 2025 仍錄得 310.26 Mbps 的中位下載速度，顯示即使在繁忙時段，網路品質依然出色。"
-
-# 數據來源
-data_sources_title: "新加坡 行動網路數據來源"
-data_sources_link_text: ""
-data_sources_list:
-
-  - name: "Ookla Speedtest：[Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025)"
-    description: "Ookla 的 Speedtest Intelligence 數據基於數百萬次真實用戶測試，提供新加坡各營運商的下載/上傳速度、延遲、5G 可用性與一致性等指標。報告期間為 2025 年下半年。"
-
-  - name: "OpenSignal 2025 年新加坡行動網路體驗報告"
-    description: "OpenSignal 透過用戶日常使用數據分析，提供涵蓋下載速度、上傳速度、影片體驗、遊戲體驗與語音應用體驗等指標，為新加坡行動網路品質提供獨立第三方觀點。"
-
-  - name: "新加坡資訊通信媒體發展局（IMDA）2025 年電信服務品質報告"
-    description: "IMDA 為新加坡國家電信監管機構，定期發布涵蓋覆蓋率、通話成功率、數據傳輸成功率等官方統計數據，確保營運商符合服務標準。"
-
-data_sources_footer: "以上所有引用的網路效能數據均基於公開的第三方報告，包括 Ookla Speedtest Intelligence、OpenSignal 與新加坡資訊通信媒體發展局（IMDA）的官方統計。"
-data_sources_note: "網路速度與覆蓋可能因地點、裝置、時間與網路負載而異。實際體驗請以現場情況為準。"
-
-# CTA 產品卡片
-cta_title: "立即取得您的 新加坡 eSIM"
-cta_desc: "即時存取 Singtel、M1 與 SIMBA Telecom 的頂級 5G 網路，告別漫遊費，享受無限數據方案。"
-cta_button_text: "立即購買 新加坡 eSIM"
-cta_button_link: "/singapore-esim/"
-cta_free_trial_note: "僅限新客戶"
-cta_free_trial_text: "新加坡 免費試用 eSIM"
-cta_free_trial_link: "/free-esim/"
-
+- name: Roami
+  url: /
+- name: 新加坡 eSIM 指南
+  url: ''
+hero_badge: "Singtel vs StarHub vs M1：新加坡的結論"
+hero_subtitle_main: "Singtel、StarHub 與 M1 的實測考驗"
 ---
+
+
+新加坡的 eSIM 之爭發生在室內，而不是開闊的鄉野之間——本指南比較這三家電信在最關鍵的一件事上的表現：對一個城市國家而言，也就是室內訊號穿透力。新加坡過於緊湊，不會出現大國那種鄉村覆蓋缺口，因此三家電信真正的較量在於各自的室內穿透能力。在 Ookla 的 2025 下半年新加坡報告中，**Singtel** 獲評最佳行動網路（Best Mobile Network）與最佳 5G 網路（Best 5G Network），Speedtest 連線品質分數為 **87.22**。**StarHub** 與 **M1** 緊隨其後，而且在相同流量下往往更便宜。哪一家最適合你，取決於你的住宿地點、停留天數，以及行程是否延伸到馬來西亞或印尼。新加坡 eSIM 是落地即上網最簡單的方式，三家電信的預付卡旅遊方案都開放給外國護照持有人。本指南沒有採用任何匿名來源；文末的資料來源清單涵蓋每一項新加坡數據。
+
+**快速回答：** 短期旅行時，Singtel 的旅遊方案是最省事的選擇；停留較久時，StarHub 通常在每 GB 價格上勝出。以下各節將分析 Singtel 與 StarHub 各自在哪裡表現出色——如果這是你的第一張 eSIM，先從[啟用完整教學](/faq/how-to-activate-an-esim/)開始。
+
+在做任何事之前，先確認手機確實支援 eSIM。[eSIM 相容性測驗](/compatibility/)能在不到一分鐘內解決這個問題，而關於 [eSIM 啟用是什麼以及如何運作](/faq/what-is-esim-activation-and-how-does-it-work/)的說明，則解釋了設定檔下載時會發生什麼。接下來，重點都在電信業者身上。
+
+**快速結論：** 住在濱海灣、烏節路或中央商務區？Singtel 是最快、最穩定的網路，而且是唯一在深層地鐵隧道與地下室擁有真正可靠覆蓋的業者。想要最便宜的入門選擇？StarHub 和 M1 都販售 S$12 起的旅遊 eSIM。通勤到新山（Johor Bahru）或搭渡輪去巴淡島？Singtel、StarHub 和 M1 的旅遊 eSIM 都內含馬來西亞和印尼漫遊流量。想跳過護照 eKYC 和 30 天護照限制？[免費試用](/free-esim/)可免費測試各網路，而優惠碼 **WEB20** 可讓 [新加坡預付卡 eSIM 方案](/singapore-esim/)再省 20%。
+
+## 市場背後的電信業者
+
+### 針對訪客比較 Singtel、StarHub 與 M1
+
+| | Singtel | StarHub | M1 |
+|:---|:---|:---|:---|
+| 訪客預付卡旅遊 eSIM | 有，hi! Tourist eSIM（S$10 / S$15 / S$30） | 有，Travel eSIM（S$12 / S$15 / S$30） | 有，Tourist eSIM（S$12 / S$13） |
+| 優勢所在 | 整體最佳網路、覆蓋最廣、地下訊號最強 | 區域漫遊組合性價比最高 | 入門價最低，彈性的 15 天有效期 |
+| 5G 架構 | n1、n3、n78 與 n28 獨立組網（Standalone） | n1、n3、n78 與 n28 獨立組網（Standalone） | n1、n3、n78 與 n28 獨立組網（Standalone） |
+| 訪客如何取得 | ★★★ 護照 eKYC，僅限外國護照持有人 | ★★★ 護照 eKYC，須在 18 天內啟用 | ★★★ 護照 eKYC，可臨櫃領取或即時開通 |
+
+護照 eKYC 適用於所有三家主要業者，因此每位訪客在取得設定檔之前都要通過相同的身分驗證。它們的差異在於覆蓋與價格：Singtel 守住地下樓層和最廣的覆蓋範圍，而 StarHub 和 M1 則以部分覆蓋廣度換取更低的入門價和更大的馬來西亞與印尼漫遊組合。
+
+### Singtel vs StarHub：在新加坡哪家更好？
+
+新加坡的第四層級是訪客能找到最低價格的地方，其中幾個品牌現在也支援 eSIM。
+
+| 虛擬品牌 | 承載網路 | eSIM 支援 | 最適合 |
+|:---|:---|:---|:---|
+| SIMBA（原 TPG） | 自有網路，第四家行動電信 | 提供預付卡 eSIM | 追求最低價格的精打細算旅客 |
+| Circles.Life | M1 網路 | App 型 eSIM | 不綁約的較長期停留 |
+| GOMO | Singtel 網路 | 提供 eSIM | 簡單無負擔的流量方案 |
+| MyRepublic Mobile | 平價品牌 | 提供 eSIM | 想在 M1 覆蓋上追求 CP 值的人 |
+
+兩點提醒。首先，平價品牌與較便宜的旅遊方案在超過公平使用門檻後會限速或限流量，因此在依賴它們為筆電開熱點之前，請先閱讀細則。其次，從任何單一電信或平價品牌購買的方案都綁定一個網路。Singtel eSIM 上你用的是 Singtel 的基地台，別無其他，一旦你在意地下覆蓋或跨境跳轉，這一點就很關鍵。
+
+### 在新加坡比較各電信業者
+
+| | 直接向新加坡電信購買 | 承載於新加坡網路的旅遊 eSIM |
+|:---|:---|:---|
+| 你需要什麼 | 護照以完成 eKYC；旅遊方案僅限外國護照 | 一支相容且未鎖的手機 |
+| 設定檔如何送達 | 身分驗證後透過電子郵件寄送 eSIM QR 碼 | 結帳後立即取得 QR 碼或 App 安裝 |
+| 旅遊通常花費 | 7 至 30 天為 S$10 至 S$30 | 一次性預付價格，無 SIM 卡費 |
+| 網路存取 | 單一電信 | 在 Singtel、StarHub 和 M1 之間自動切換 |
+| 最適合 | 需要當地門號與區域漫遊的停留 | 落地即上網、短程旅行、免文件 |
+
+就一般假期而言，經濟性對旅遊 eSIM 有利。電信旅遊 eSIM 在你想要真實的新加坡門號並內建馬來西亞或印尼漫遊時很棒，但它強迫你經過護照 eKYC，且護照註冊上限為 30 天。旅遊 eSIM 以批發價購買流量，讓裝置在網路之間漫遊而無需任何文件。
+
+💡 多網路 eSIM 設定檔是務實的中間路線：[Roami 的新加坡 eSIM](/singapore-esim/) 保留即時送達的便利，在 Singtel、StarHub 和 M1 之間自動切換，而在最關鍵的地鐵裡仍會連上 Singtel。
+
+## 準備好 eSIM 了嗎？新加坡的裝置檢查
+
+三件事決定你的手機能否在新加坡電信上使用：頻段、鎖機狀態，以及一小串裝置特有的問題。以下三項都會說明。
+
+### iPhone 上能用新加坡 eSIM 嗎？
+
+新加坡的 5G 建立在特定頻段上：**n78（3500 MHz）** 是三家電信用於容量的主頻段，輔以 **n1（2100 MHz）** 和 **n3（1800 MHz）**，並用 **n28（700 MHz）** 把覆蓋推進建築物和地下。LTE 層則運行在 B1、B3、B7、B8 和 B28。大多數近三年販售的國際手機都支援這些頻段，但某些區域版本缺少 n28，而這正是幫助深入室內的頻段。
+
+你不必背誦頻段表。可靠的做法是用你的確切型號查詢[相容性查詢工具](/compatibility/)（是型號編號，不是行銷名稱）。如果你想先了解底層原理，[手機載入 eSIM 設定檔時發生什麼](/faq/what-is-esim-activation-and-how-does-it-work/)有完整解釋。
+
+### 該選哪一家新加坡電信：Singtel vs StarHub？
+鎖機是新加坡 eSIM 安裝失敗最常見的原因，而新加坡在這方面的規定與許多訪客預期的正好相反。
+
+自 1997 年起，當時的電信主管機關即禁止業者對在新加坡進口銷售的手機、平板和智慧手錶上鎖，因此新加坡禁止對本地販售的裝置進行 SIM 鎖。實務上，這代表你從新加坡電信購買的手機預設是不鎖的。問題出在你自己的手機：你從家裡帶來的手機可能仍鎖在原電信，而任何新加坡業者都無法解鎖它。擋住你 eSIM 的正是那把鎖，而不是本地規定。
+
+**檢查它：** 在 iPhone 上打開設定，進入一般、關於本機，再看電信鎖（Carrier Lock）。如果顯示「No SIM restrictions」就沒問題。如果顯示「SIM locked」，在那改變之前任何第三方 eSIM 都無法安裝。
+
+**解決它：** 聯絡鎖定手機的電信並申請解鎖。已繳清款項的裝置通常數小時內就會解鎖，而且通常免費。只有在那之後才嘗試安裝你的 eSIM。
+
+如果你買的是二手手機，請假設它可能被鎖並在出發前檢查。詳細資訊：[IMDA，新加坡的電信主管機關](https://www.imda.gov.sg/)。
+
+### Android 手機支援新加坡 eSIM 嗎？
+
+| 裝置 | 症狀 | 該怎麼做 |
+|:---|:---|:---|
+| 中國大陸版 iPhone | 完全沒有「加入 eSIM」選項，該市場的硬體被停用 | 無法解決；改用實體 SIM 或另一支裝置 |
+| 仍鎖在原電信的電信購機 | eSIM 安裝在電信檢查時失敗 | 出發前先向原電信解鎖 |
+| 缺少 n28（700 MHz）的手機 | 深層室內與地下室訊號較弱 | 屬預期行為；在意地下覆蓋時優先選 Singtel |
+| 雙 SIM 使用者 | eSIM 已安裝但沒有流量 | 把 eSIM 設為行動數據使用的門號 |
+
+超出以上範圍的問題都屬於裝置特有而非電信特有。在花錢買方案之前，先用 [eSIM 相容性檢查器](/compatibility/)查一下你的型號。
+
+## 一步步取得你的 eSIM
+
+共有三條路，它們的差異更多在文件流程而非價格：Singtel 的 hi! Tourist eSIM、StarHub 的 Travel eSIM，以及 M1 的 Tourist eSIM。以下逐一說明步驟。
+
+### 可以向 Singtel 買新加坡 eSIM 嗎？
+
+Singtel 的 hi! Tourist 產品正是為此而生。它只販售給外國護照持有人，因此是三條路中最乾淨的訪客路線。
+
+**Singtel hi! Tourist eSIM，逐步說明：**
+
+1. 在 Singtel hi! Tourist 頁面線上訂購旅遊 eSIM 並選擇方案等級。
+2. 結帳時完成護照 eKYC。不需要當地地址。
+3. 付款後收到內含 eSIM 詳細資訊的確認郵件。
+4. 在手機設定中安裝設定檔即完成。無需實體 SIM，無需到店。
+
+Singtel 推出三個旅遊方案：**S$10** 方案 7 天，含橫跨新加坡、馬來西亞、印尼、泰國和香港的 500GB 5G+ 流量，外加無限當地通話與簡訊；**S$15** 方案 30 天，含 500GB 5G+ 流量、18GB 亞太漫遊、8GB 全球漫遊以及無限當地通話與簡訊；**S$30** 方案 30 天，含 1000GB 5G+ 流量、100GB 亞洲漫遊、18GB 全球漫遊以及無限當地通話與簡訊。護照註冊有效期為 30 天，之後必須以新加坡核發的身分證件重新註冊才能保留門號。
+
+### 在哪裡取得新加坡 eSIM
+
+StarHub 的 Travel eSIM 是性價比之選，尤其當你想要最大的區域漫遊組合時。
+
+對 StarHub Travel eSIM 而言，新手路線是線上購買：購買時提供護照驗證，StarHub 會把 eSIM QR 碼寄到你的信箱。純流量 eSIM 版本以 QR 碼形式送達，由你自行安裝；含通話與簡訊的方案也可以在樟宜機場櫃檯取得實體 SIM。有一條規則要遵守：StarHub Travel eSIM 必須在購買後 18 天內啟用，所以不要在出發前幾週就購買。
+
+### 在新加坡：當地 SIM vs 旅遊 eSIM
+
+M1 的 Tourist eSIM 是最便宜的入門選擇，也是唯一有真正 15 天選項的，比 30 天的常態更適合短程旅行。
+
+M1 讓你線上購買後在新加坡臨櫃領取，或在特定純流量方案上以兌換碼在 eKYC 後立即啟用。M1 的旅遊 eSIM 有 **S$12** 版本，有效期 15 天，含 100GB 當地流量、3GB 亞太漫遊、500 分鐘當地通話外加 30 分鐘國際通話；以及 **S$13** 純流量版本，有效期 30 天，含 150GB 當地流量、3GB 亞太漫遊和 1GB 國際漫遊。M1 也註明每本護照最多可註冊 3 張含通話與簡訊的 SIM，純流量 SIM 則不受此上限約束。
+
+### 旅遊 eSIM 預付卡方案比較
+
+以下所有數據均為各電信官網目前公布的預付卡旅遊 eSIM 價格，單位為新加坡元（SGD）。
+
+| 電信 | 方案 | 價格 | 有效期 | 當地流量 | 區域漫遊 |
+|:---|:---|:---|:---|:---|:---|
+| Singtel | hi! Tourist | S$10 | 7 天 | 500GB 5G+ | 新加坡、馬來西亞、印尼、泰國、香港 |
+| Singtel | hi! Tourist | S$15 | 30 天 | 500GB 5G+ | 18GB 亞太 + 8GB 全球 |
+| Singtel | hi! Tourist | S$30 | 30 天 | 1000GB 5G+ | 100GB 亞洲 + 18GB 全球 |
+| StarHub | Travel eSIM 純流量 | S$12 | 30 天 | 300GB（4G） | 15GB 亞太 + 200GB 東南亞 |
+| StarHub | Travel eSIM 純流量 | S$15 | 30 天 | 300GB（5G） | 30GB 亞太 + 200GB 東南亞 |
+| StarHub | Travel eSIM 純流量 | S$30 | 30 天 | 400GB（5G） | 95GB 亞太 + 300GB 東南亞 |
+| M1 | Tourist eSIM | S$12 | 15 天 | 100GB | 3GB 亞太 |
+| M1 | Tourist eSIM 純流量 | S$13 | 30 天 | 150GB | 3GB 亞太 + 1GB 國際 |
+
+預付卡開通綁定單一網路與護照 eKYC，因此如果停留超過一個月，請把 30 天護照限制納入規劃。如果你只想要最便宜的短期方案，M1 的 S$12／15 天或 Singtel 的 S$10／7 天就是底價。
+
+### 購買新加坡 eSIM 前要準備什麼
+- **護照** —— 正本，每張旅遊 eSIM 的 eKYC 都需要
+- **IMEI 和 EID** —— 撥打 `*#06#` 確認 eSIM 支援
+- **可線上付款的卡** —— 有些電信結帳頁會拒絕國外帳單地址
+- **Wi-Fi** —— 出發前就安裝設定檔，不要在機場才裝
+- **清晰的護照照片** —— 掃描乾淨可讓 eKYC 更快
+
+## 你的 eSIM 覆蓋：Singtel vs StarHub
+
+本節由兩個問題決定：你在實際所在地各網路有多快，以及你進行的是什麼類型的旅行。下面的 Ookla 數據回答第一個問題；行程類型表回答第二個。
+
+### Singtel vs StarHub：哪家新加坡電信更快？
+
+以下所有數據來自 Ookla 的 Speedtest Intelligence 針對 **2025 下半年**（蒐集期間為 2025 年 7 月至 12 月）的資料，是新加坡三家行動網路的國家級測量。來源：[Ookla Speedtest 連線報告，新加坡 2025 下半年](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025)。
+
+| 指標 | Singtel | StarHub | M1 |
+|:---|:---|:---|:---|
+| Speedtest 連線品質分數（最佳行動網路） | **87.22** | 80.58 | 83.06 |
+| 速度分數（最快行動網路） | **82** | 69.57 | 75.09 |
+| 穩定度分數（Consistency Score） | **96.7** | 92.4 | 93.1 |
+| 5G 可用率 | **82.6** | 70.3 | 75.4 |
+| 影音串流分數 | **87.82** | 87.21 | 86.4 |
+| 遊戲分數（最佳行動遊戲） | **89.98** | 87.83 | 89.47 |
+| 五星評分（最高評價） | **3.57** | 2.91 | 2.83 |
+
+報告未公布的數據，儲存格保持空白而不做估計。有兩點值得注意：Singtel 在幾乎所有分數上都領先，並獲評 2025 下半年新加坡最佳行動網路與最佳 5G 網路；M1 在速度和穩定度上略勝 StarHub，而 StarHub 在最便宜的组合漫遊上最強。這些是 Ookla 的專有分數，不是原始的每秒百萬位元數，因此最好把它們當成三家網路的排名，而非對你手機的保證。
+
+作為全國的背景參考，Ookla 的 [Speedtest 全球指數](https://www.speedtest.net/global-index/singapore)顯示 2026 年 6 月新加坡的行動下載中位數約為 240 Mbps，全球排名第 20 名左右，延遲 25 ms，而固網寬頻以約 635 Mbps 領先全球。[Cable.co.uk](https://www.cable.co.uk/mobiles/worldwide-data-pricing/) 計算新加坡 1 GB 行動數據約為 0.63 美元，在 237 個市場中排第 59 名，全球平均為 2.59 美元，所以當地數據很便宜，但旅遊 eSIM 仍以大幅差距勝過家門號漫遊。
+
+### 新加坡的行動服務供應商
+
+| 你的行程 | 首選 | 為何勝出 | 注意事項 |
+|:---|:---|:---|:---|
+| 城市小旅行：濱海灣、烏節路、牛車水 | Singtel | 整體最佳，地下與地鐵覆蓋最強 | 無重大缺點 |
+| 精打細算的旅客 | StarHub 或 M1 | 低至 S$12 的入門價與大流量組合 | StarHub 基礎方案是 4G，不是 5G |
+| 遊戲玩家或串流愛好者 | Singtel | 遊戲分數最高 89.98、影音 87.82 | 實務上差異不大 |
+| 通勤到新山（馬來西亞） | M1 或 Singtel | 內含馬來西亞漫遊流量 | 開啟數據漫遊並選擇偏好網路 |
+| 搭渡輪去印尼巴淡島 | Singtel 或 StarHub | 內含印尼漫遊 | 離境前必須先開啟漫遊 |
+| 7 天短程旅行 | Singtel S$10 或 M1 S$12 | 最便宜的短期有效期 | M1 S$12 可用 15 天，更划算 |
+| 30 天長期停留 | StarHub S$30 或 M1 S$13 純流量 | 流量更多、有效期更長 | StarHub 須在 18 天內啟用 |
+
+### Singtel vs StarHub：覆蓋比較
+
+新加坡的 5G 覆蓋跟著人口走：人們生活與工作之處處處優異，唯一真正的缺口是深層室內、地鐵隧道和最小的離岸島嶼。分區來看：
+
+| 區域 | 實際情況 | 最佳電信 |
+|:---|:---|:---|
+| 中央區、濱海灣、烏節路、CBD | 5G 最密，處處最強，地鐵有覆蓋 | Singtel |
+| 西區、裕廊、大士 | 城市覆蓋優異，工業區訊號強 | Singtel |
+| 北區、兀蘭、往新山的长堤 | 訊號強，但邊境壅塞；馬來西亞漫遊很實用 | M1 或 Singtel |
+| 東區、淡濱尼、樟宜、勿洛 | 三家都有 5G，高速公路沿線穩定 | Singtel |
+| 聖淘沙與南部島嶼 | 度假區全面覆蓋；較小的離岸島嶼較零散 | Singtel |
+| 深層地下室與地鐵隧道 | Singtel 靠 700 MHz 在地下領先；其他較薄 | Singtel |
+
+本頁最有用的一個事實是：新加坡沒有鄉村覆蓋缺口，但有室內與地下缺口，而補上這個缺口的正是 Singtel。如果你的行程多在地面上，三家任選都行；如果你仰賴地鐵與地下購物街，Singtel 是更穩的選擇。從兀蘭跨進馬來西亞或搭渡輪去巴淡島，正是這些旅遊 eSIM 內建區域漫遊發揮價值之處。
+
+正在規劃離開新加坡的路線？先看 [eSIM 玩馬來西亞](/malaysia-esim/)，或比較[印尼 eSIM 方案](/indonesia-esim/)與[泰國 eSIM 頁面](/thailand-esim/)。如果行程多次跨越國境，一張[東南亞 eSIM](/southeast-asia-esim/) 可讓你不必買兩次。
+
+💡 自動網路選擇是這一切成立的關鍵。一個能在 Singtel、StarHub 和 M1 之間移動的設定檔，可以補上任何單一電信方案無法覆蓋的室內與跨境缺口。
+
+## APN 這一步
+
+APN 設定是多數旅客最後才會碰到的東西，也是流量出問題時第一個該排除的因素。以下：三家電信的數值、何時才真正需要手動輸入，以及確切的選單路徑。
+
+### Singtel、StarHub 與 M1 eSIM 的 APN 數值
+
+只有當你**直接向新加坡電信購買** eSIM 時才會需要這些。如果你用的是漫遊性質的旅遊 eSIM，設定檔會自帶 APN，你不應該改動任何東西。
+
+| 電信 | APN | 使用者名稱 | 密碼 |
+|:---|:---|:---|:---|
+| Singtel | `hicard`（或 `internet`） | 留空 | 留空 |
+| StarHub | `shwap`（或 `shinternet`；預付卡為 `shppd`） | 留空 | 留空 |
+| M1 | `sunsurf`（或 `sunonet`） | 留空 | 留空 |
+
+使用者名稱與密碼留空即可。這些是各網路常用的數值；如果有所不同，隨設定檔寄來的啟用郵件或 App 會載明確切數值。
+
+### 新加坡的電信 APN 設定
+
+在 Singtel、StarHub 或 M1 的旅遊 eSIM 上，設定檔會自行配置 APN，因此手動輸入應視為例外情況，而非設定步驟。它在以下情況才派得上用場：
+
+- 手機老舊到不會自行取得電信設定
+- 設定檔是透過手動啟用碼而非掃描 QR 碼安裝
+- 電信發行的旅遊 eSIM 上自動配置沒有執行
+- 旅遊 eSIM 上幾乎永遠不需要，這正是託管設定檔的意義
+
+### 新加坡：APN 無法自動載入時
+- **iPhone：** 打開設定、行動服務，點選 eSIM 門號，行動數據網路，輸入 APN
+- **Android：** 設定、連接、行動網路、存取點名稱（APN），新增一個 APN
+
+儲存後重新開機。如果流量仍然不通，在碰其他任何東西之前，先確認選為數據門號的是 eSIM，而不是你的家門號 SIM。
+
+## 當新加坡 eSIM 無法啟用時，從這裡開始
+
+本節走一遍：從乾淨安裝到流量可用，按出現順序涵蓋新加坡網路可能產生的各種故障模式。
+
+### 新加坡安裝：從下載到上網
+| # | 檢查項 | 正常的樣子 |
+|:---|:---|:---|
+| 1 | 手機未被鎖電信 | 關於本機中的電信鎖顯示「No SIM restrictions」 |
+| 2 | 手機支援 eSIM | `*#06#` 顯示 EID，或[相容性檢查器](/compatibility/)確認你的型號 |
+| 3 | 護照備妥以完成 eKYC | 有效的護照正本 |
+| 4 | 出發前已安裝設定檔 | 在家中透過 Wi-Fi 安裝；落地後設定檔即連線 |
+| 5 | 數據門號與漫遊已設定 | eSIM 選為行動數據，數據漫遊開啟 |
+
+第 4 步在家裡做。樟宜機場的 Wi-Fi 還不錯，但當所有人都在下載時，入境大廳是最不該和龜速下載搏鬥的地方。
+
+### 新加坡 eSIM 啟用，逐步說明
+
+每家新加坡電信都在護照 eKYC 通過後才釋出設定檔，然後給你 QR 碼或 App 內安裝。掃描與門號標記的機制寫在我們的[啟用教學](/faq/how-to-activate-an-esim/)裡；各家電信的差異如下：
+
+- **Singtel：** 線上訂購、護照 eKYC、eSIM 資訊郵寄送達；S$10 方案 7 天，S$15 與 S$30 方案 30 天
+- **StarHub：** 購買時 eKYC、郵寄 QR 碼，須在購買後 18 天內啟用
+- **M1：** 線上購買後臨櫃領取，或純流量方案即時 eKYC；S$12 為 15 天，S$13 為 30 天
+- **旅遊 eSIM：** 掃 QR 碼安裝，同一設定檔漫遊到 Singtel、StarHub 或 M1 中訊號最強者
+
+### 新加坡 eSIM 不工作時的五個修復方法
+
+一般的啟用錯誤、無法下載的設定檔、掃描失敗、裝了卻永遠不註冊的 eSIM，都在我們的 [eSIM 疑難排解資源](/faq/esim-activation-errors-troubleshooting-guide/)涵蓋範圍內。以下模式是新加坡特有的。
+
+| 症狀 | 可能原因 | 解法 |
+|:---|:---|:---|
+| 購買時 eKYC 被拒 | 護照掃描不清晰或使用了非護照證件 | 重新上傳清晰的護照照片；使用外國護照 |
+| eSIM QR 碼遲遲未到 | 郵件延遲或被歸入垃圾郵件 | 等待至多 5 分鐘；檢查垃圾郵件；使用電信 App 的 eSIM 管理器 |
+| 落地後流量卡住 | APN 未自動配置 | 依上表手動輸入 APN |
+| 地鐵隧道內沒訊號 | 該網路在當地沒有地下層 | 切換到 Singtel，開關飛航模式強制重新註冊 |
+| 在馬來西亞或印尼區域漫遊失效 | 數據漫遊未開啟 | 開啟漫遊，手動選擇偏好網路 |
+
+**A. eSIM 無法安裝**
+1. 設定 -> 一般 -> 關於本機中有電信鎖欄位；應顯示「No SIM restrictions」
+2. 確認 QR 碼乾淨且未掃描過，大多數 QR 碼只能用一次
+3. 詢問設定檔是否在電信端排隊中
+
+**B. 已安裝，但沒有訊號格數**
+1. 重新檢查鎖機狀態
+2. 設定、行動服務、網路選擇，手動選擇 Singtel、StarHub 或 M1
+3. 清除網路設定並重新開機
+
+**C. 有訊號格數，但沒有網路**
+1. 把 APN 與表中的數值比對
+2. 把新加坡 eSIM 設為數據門號，而不是家門號 SIM。
+3. 檢查你是否已超過會被限速的公平使用上限
+
+**D. 在馬來西亞或印尼沒有數據**
+1. 確認 eSIM 的數據漫遊已開啟
+2. 手動選擇偏好的合作網路
+3. 如果仍無法註冊上網，重新開機並重設網路設定
+
+### 新加坡 eSIM 支援：該把什麼放在手邊
+| 資訊 | 在哪裡找 |
+|:---|:---|
+| 訂單或 eKYC 編號 | 確認郵件 |
+| 手機型號與 OS 版本 | 設定、關於本機 |
+| EID | `*#06#` |
+| 錯誤畫面截圖 | 在畫面變化之前先截好 |
+| 目前的 APN 設定 | 設定、行動數據網路 |
+| 數據漫遊狀態 | 設定、你的 eSIM 門號 |
+| 已嘗試過的步驟 | 保持一份簡短清單 |
+
+## 新加坡 eSIM 購買者常見問題
+
+### 新加坡 eSIM 套餐與價格
+
+有。Singtel 的 hi! Tourist eSIM 只販售給外國護照持有人，分為 S$10（7 天）、S$15（30 天）和 S$30（30 天）三級，全部附帶大量 5G+ 流量與區域漫遊。你以護照透過 eKYC 註冊，門號有效期為 30 天，除非以新加坡核發的身分證件重新註冊。
+
+### StarHub 有賣訪客旅遊 eSIM 嗎？
+
+有。StarHub 的 Travel eSIM 從 S$12 起，提供 4G 與 5G 兩級的純流量 eSIM，全部有效期 30 天，並附寬裕的亞太與東南亞漫遊組合。唯一規則是 eSIM 必須在購買後 18 天內啟用，所以不要買太早。
+
+### 在新加坡首都圈之外哪家電信勝出？
+
+依證據來看是 Singtel。它拿下 Ookla 2025 下半年新加坡最佳行動網路與最佳 5G 網路，並以 82.6% 提交最高的 5G 可用率。它真正的優勢是室內與地下覆蓋，其 700 MHz 層可達其他兩家較難穩定抵達的地鐵隧道與地下室。
+
+### 新加坡的平價流量方案
+
+從 7 天的 Singtel S$10 方案到三家電信最高階的 S$30 方案。最便宜而實用的入門是 M1 的 S$12 方案（15 天）或 Singtel 的 S$10 方案（7 天）。StarHub 和 M1 的 30 天純流量方案也都從 S$12 起。
+
+### 在新加坡申辦 SIM 需要文件嗎？
+
+需要。IMDA 規定新加坡每一張預付卡 SIM 和 eSIM 都要進行身分驗證，稱為 eKYC，訪客以護照驗證。自 2024 年 7 月起，護照註冊的服務期上限為 30 天，除非你能出示合法居留證明，且每本護照在所有業者合計最多可註冊 3 個含通話與簡訊的行動服務。
+
+### IMEI 和 EID：新加坡要求什麼
+
+不需要。新加坡自 1997 年起就禁止對本地販售的裝置進行 SIM 鎖，因此向新加坡電信購買的手機是不鎖的。你該擔心的是你從家裡帶來的手機，它可能仍綁在原電信，必須先在當地解鎖，新加坡 eSIM 才裝得進去。
+
+### Singtel vs StarHub 5G：在新加坡哪家更好？
+
+主要 5G 頻段是承載容量的 n78（3500 MHz）、負責覆蓋的 n1（2100 MHz）和 n3（1800 MHz），以及用於建築物與地下的 n28（700 MHz）。LTE 層使用 B1、B3、B7、B8 和 B28。支援 n78 加 n28 的手機能帶來最佳的新加坡體驗，室內尤其明顯。
+
+### 新加坡 eSIM 涵蓋馬來西亞和印尼嗎？
+
+在旅遊方案上，涵蓋。Singtel、StarHub 和 M1 都內含涵蓋馬來西亞和印尼的區域漫遊，這對新山通勤和巴淡島渡輪很重要。你必須開啟數據漫遊，若未自動註冊上網，就手動選擇偏好的合作網路。
+
+### 新加坡覆蓋：逐區說明
+
+有些網路在特定隧道段沒有或幾乎沒有地下層，站與站之間訊號會中斷。Singtel 的 700 MHz 部署給它最佳的地下穿透力，這也是重度地鐵使用者被推薦使用 Singtel 的原因。重新回到地面時，開關飛航模式可強制重新註冊。
+
+### 訪客的 Singtel eSIM 方案
+
+直購意味著單一網路、護照 eKYC、30 天護照上限，而且通常附帶含區域漫遊的真實新加坡門號。旅遊 eSIM 意味著即時送達、免文件、在 Singtel、StarHub 和 M1 之間自動切換，以及一次性預付價格。短程旅行：旅遊 eSIM。需要當地門號或停留最久：直購。
+
+### APN 畫面：在新加坡去哪裡找
+
+只有當你直接向電信購買且流量卡住時才需要。Singtel 用 `hicard`、StarHub 用 `shwap`、M1 用 `sunsurf`，使用者名稱與密碼留空，然後重新開機。旅遊 eSIM 自帶 APN，不應觸碰。
+
+### 在 Singtel、StarHub 和 M1 上啟用
+
+依序處理上述的新加坡特有模式：eKYC、QR 碼送達、APN、地下訊號，然後是區域漫遊；如果仍然失敗，[eSIM 啟用修復指南](/faq/esim-activation-errors-troubleshooting-guide/)中更完整的錯誤目錄涵蓋其餘情況。聯絡客服前，先把 EID、訂單編號和截圖準備好。
+
+還有問題嗎？[還有問題？查看完整常見問題 →](/faq/)
+
+## 本新加坡 eSIM 頁面的研究依據
+
+- **Ookla Speedtest 連線報告，新加坡 2025 下半年** —— [各電信報告](https://www.ookla.com/research/reports/singapore-speedtest-connectivity-report-h2-2025)是每個電信層級數字的來源：Singtel 的 87.22 連線分數與最佳行動網路獎項、StarHub 的 80.58 和 M1 的 83.06，以及速度、穩定度、5G 可用率、影音、遊戲與五星評分各列。約 240 Mbps 行動與 635 Mbps 固網的國家中位數來自 Ookla 的 [Speedtest 全球指數](https://www.speedtest.net/global-index/singapore)。
+- **IMDA** —— [新加坡的電信主管機關](https://www.imda.gov.sg/)載明預付卡 SIM 與 eSIM 註冊規則，以及上文引用的 5G 獨立組網政策。
+- **Cable.co.uk** —— [全球數據價格表](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)支持本文使用的每 GB 成本比較。
+- **電信官網** —— [Singtel hi! Tourist](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-tourist)、[StarHub Travel SIM](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards/travel-sim.html) 與 [M1 Tourist SIM](https://www.m1.com.sg/mobile/prepaid-plans/tourist-sim-eng) 是方案價格、送達方式與證件要求的來源。
+
+這些是第三方測量，不是我們自己的。結果取決於你的手機、你駐留的頻段，以及附近基地台的忙碌程度。
+
+## 啟用如何運作
+
+Roami 的新加坡 eSIM 會自行在 Singtel、StarHub 和 M1 之間切換，讓你在地鐵隧道以及跨境到馬來西亞或印尼時都保持連線。新客戶可以[先免費試用](/free-esim/)，或以優惠碼 **WEB20** 在 [新加坡預付卡 eSIM 方案](/singapore-esim/)上享 8 折。
+
+[購買新加坡 eSIM](/singapore-esim/)
+
+*新客戶上市優惠價*
+
+[取得新加坡 eSIM 免費試用](/free-esim/)
