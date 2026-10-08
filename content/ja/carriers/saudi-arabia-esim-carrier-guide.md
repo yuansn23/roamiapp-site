@@ -1,7 +1,7 @@
 ---
 title: "サウジアラビア eSIM キャリア：STC、Mobily、Zain KSA"
 description: "Roami がサウジアラビアの STC、Mobily、Zain KSA の eSIM キャリアを、ビザの種類、カウンターの規則、地域ごとのカバーに対応付けて比較します。"
-image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.webp"
 date: "2026-09-24T07:31:31+00:00"
 keywords: サウジアラビア eSIM, サウジアラビア eSIM キャリア, 5G 旅行網, STC eSIM, Mobily eSIM, Zain KSA eSIM, サウジアラビア 旅行 eSIM, ローミング料金なし, eSIM 互換性
 site_name: Roami

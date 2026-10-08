@@ -1,7 +1,7 @@
 ---
 title: "伊朗 eSIM 該選哪家？MCI、Irancell、Rightel 業者比較"
 description: "造訪伊朗的旅客 eSIM 該辦哪一家？Roami 比較 MCI、Irancell 與 Rightel 的 5G 網速、覆蓋率與 CP 值，從德黑蘭到伊斯法罕與設拉子逐段檢視，整理預付資費、申辦規定與 APN 設定，幫你依行程挑出伊朗最適合的 eSIM。"
-image: "img/esim/carriers/iran-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iran-esim-carrier-guide.webp"
 date: "2026-09-25T06:03:02+00:00"
 keywords: 伊朗 eSIM 電信業者, 伊朗 eSIM, MCI eSIM, Irancell eSIM, 伊朗 travel eSIM, MCI, Hamrahe Aval, Rightel, 伊朗 5G, 伊朗適用 eSIM, 伊朗預付卡 eSIM, 伊朗旅遊 eSIM
 site_name: Roami

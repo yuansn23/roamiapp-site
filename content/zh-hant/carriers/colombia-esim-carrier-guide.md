@@ -1,7 +1,7 @@
 ---
 title: "哥倫比亞 eSIM 該選哪家？Claro、Tigo、Movistar 三大業者比較"
 description: "哥倫比亞 eSIM 要辦哪一家電信業者勝出？Roami 比較 Claro、Tigo 與 Movistar 的 5G 站點、城市網速與偏鄉山區覆蓋，從波哥大到咖啡產區逐段檢視，整理預付資費與 APN 設定，幫你依行程挑出哥倫比亞最適合的 eSIM。"
-image: "img/esim/carriers/colombia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/colombia-esim-carrier-guide.webp"
 date: "2026-09-27T10:41:15+00:00"
 keywords: eSIM Colombia, Colombia eSIM carriers, Claro eSIM, Tigo eSIM, Movistar eSIM, WOM, 5G 網路哥倫比亞, 預付卡數據, travel eSIM
 site_name: Roami

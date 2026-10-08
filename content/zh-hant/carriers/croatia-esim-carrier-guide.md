@@ -1,7 +1,7 @@
 ---
 title: "克羅埃西亞 eSIM 該選哪家？HT、A1、Telemach 海島行程評比"
 description: "克羅埃西亞 eSIM 要辦哪一家電信業者？Roami 沿亞得里亞海岸實測 Hrvatski Telekom、A1 與 Telemach 的網速與覆蓋率，讓訊號從渡輪甲板一路撐到赫瓦爾等海島，整理預付資費、申辦規定與 APN 設定，海島行程一次搞定。"
-image: "img/esim/carriers/croatia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/croatia-esim-carrier-guide.webp"
 date: "2026-09-27T04:29:22+00:00"
 keywords: Croatia eSIM, Croatia eSIM carrier, Hrvatski Telekom, A1 Hrvatska, Telemach, Plitvice Lakes, Dubrovnik, high-speed data, no roaming fees, eSIM compatibility
 site_name: Roami

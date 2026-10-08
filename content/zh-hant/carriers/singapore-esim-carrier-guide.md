@@ -1,7 +1,7 @@
 ---
 title: "新加坡 eSIM 怎麼挑？Singtel、StarHub、M1 比較"
 description: "新加坡 eSIM 要辦哪一家電信業者？Roami 比較 Singtel、StarHub 與 M1 的預付旅遊方案、Ookla 實測網速與 IMDA 護照註冊規定，從樟宜機場到濱海灣與聖淘沙逐段檢視覆蓋，整理 APN 設定，幫你落地即上網，獅城一路順。"
-image: "img/esim/carriers/singapore-esim-carrier-guide.jpg"
+image: "img/esim/carriers/singapore-esim-carrier-guide.webp"
 date: "2026-09-23T04:42:04+00:00"
 keywords: 新加坡 eSIM 電信業者, Singtel eSIM, StarHub eSIM, M1 eSIM, 新加坡旅遊 eSIM, 新加坡 5G 頻段, 新加坡 eSIM APN, eSIM 新加坡預付卡, 新加坡最佳 eSIM 電信業者, 新加坡預付卡 SIM 註冊
 site_name: Roami

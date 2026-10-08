@@ -4,7 +4,7 @@ title: "保加利亞 eSIM 電信業者比較：A1、Yettel、Vivacom 價格與�
 
 description: "保加利亞 eSIM 該辦哪一家電信業者？Roami 以歐元計價比較 A1、Yettel 與 Vivacom 的資費、網速與預付方案，並解析黑海海岸、多瑙河平原與山區的覆蓋差異，整理申辦規定與 APN 設定，幫你依路線選對保加利亞 eSIM。"
 
-image: "img/esim/carriers/bulgaria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:44:30+00:00"
 

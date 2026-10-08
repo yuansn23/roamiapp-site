@@ -7,7 +7,7 @@ title: "馬爾他 eSIM 怎麼挑？GO、Epic、Melita 三家評比"
 
 
 description: "馬爾他 eSIM 要辦 GO、Epic 還是 Melita？Roami 比較全部三家電信業者的網速、覆蓋率與預付資費——包括多數指南都略過的 Melita——從瓦萊塔到戈佐島的渡輪航線逐段實測，整理 APN 設定，幫你馬爾他全程有訊號，渡輪上也穩。"
-image: "img/esim/carriers/malta-esim-carrier-guide.jpg"
+image: "img/esim/carriers/malta-esim-carrier-guide.webp"
 
 
 

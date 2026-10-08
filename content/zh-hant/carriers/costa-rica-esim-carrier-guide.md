@@ -1,7 +1,7 @@
 ---
 title: "哥斯大黎加 eSIM 怎麼挑？Claro、Kölbi、Liberty 電信商比較"
 description: "哥斯大黎加 eSIM 該選哪一家電信商？城市裡 Claro 的速度是 Kölbi 的兩倍，國家公園卻需要 Kölbi 的基地台。Roami 比較 Claro、Kölbi 與 Liberty 的覆蓋、資費與 APN 設定，幫你依旅程挑出哥斯大黎加的 eSIM。"
-image: "img/esim/carriers/costa-rica-esim-carrier-guide.jpg"
+image: "img/esim/carriers/costa-rica-esim-carrier-guide.webp"
 date: "2026-09-27T07:00:48+00:00"
 keywords: Costa Rica eSIM carriers, Costa Rica eSIM operators, Claro eSIM, Kölbi eSIM, ICE eSIM, Liberty Costa Rica eSIM, Costa Rica 5G coverage, Costa Rica eSIM rural coverage, eSIM Costa Rica prepaid, best eSIM carrier Costa Rica
 site_name: Roami

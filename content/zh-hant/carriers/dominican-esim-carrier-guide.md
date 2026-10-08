@@ -1,7 +1,7 @@
 ---
 title: "多明尼加 eSIM 該選哪家？Claro、Altice、Viva 三大業者比較"
 description: "多明尼加 eSIM 要辦哪一家電信業者？Roami 比較 Claro、Altice 與 Viva 的 2026 年最新速度與覆蓋數據，從蓬塔卡納度假村到聖多明哥市區逐段實測，整理預付資費、申辦規定與 APN 設定，幫你挑出全島可靠的 eSIM。"
-image: "img/esim/carriers/dominican-esim-carrier-guide.jpg"
+image: "img/esim/carriers/dominican-esim-carrier-guide.webp"
 date: "2026-09-26T16:13:34+00:00"
 keywords: 多明尼加 eSIM 電信業者, Punta Cana eSIM, 多明尼加 eSIM 營運商, Claro eSIM, Altice Dominicana eSIM, Viva eSIM, 多明尼加 5G 覆蓋率, 多明尼加預付 eSIM, 多明尼加最佳 eSIM 電信業者, Samaná eSIM
 site_name: Roami

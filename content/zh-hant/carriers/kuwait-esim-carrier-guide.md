@@ -1,7 +1,7 @@
 ---
 title: "科威特 eSIM 該選哪家？Zain、Ooredoo、stc 免當地證件比較"
 description: "科威特 eSIM 要辦哪一家電信業者？Roami 比較 Zain、Ooredoo 與 stc 的網速、覆蓋率與資費，重點是旅客不需要當地證件就能申辦的途徑，從機場排隊情境到安靜市郊的訊號表現，整理 APN 設定，落地前就準備好，出差過境都好用。"
-image: "img/esim/carriers/kuwait-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kuwait-esim-carrier-guide.webp"
 date: "2026-09-25T03:21:00+00:00"
 keywords: 科威特 eSIM, 科威特 eSIM 電信業者, Zain 科威特, Ooredoo 科威特, stc 科威特, 5G 網路, 科威特預付數據, 旅遊 eSIM
 site_name: Roami

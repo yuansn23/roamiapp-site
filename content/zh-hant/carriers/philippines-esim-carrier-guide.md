@@ -1,7 +1,7 @@
 ---
 title: "菲律賓 eSIM 該選哪家？Globe、Smart、DITO 比較"
 description: "菲律賓 eSIM 要辦哪一家電信業者？Roami 為你比較 Smart 與 Globe 的實際網速、預付規則與容易絆倒訪客的 APN 設定，並評估 DITO 的可用性，從馬尼拉到長灘島與宿霧逐段檢視，幫你跳島行程選對菲律賓 eSIM，跳島行程不斷線。"
-image: "img/esim/carriers/philippines-esim-carrier-guide.jpg"
+image: "img/esim/carriers/philippines-esim-carrier-guide.webp"
 date: "2026-09-24T20:02:19+00:00"
 keywords: Philippines eSIM 電信業者, Globe eSIM, Smart eSIM, DITO eSIM, Philippines 5G 覆蓋率, Philippines eSIM APN, eSIM Philippines 預付, best eSIM carrier Philippines, SIM Registration Act Philippines, Philippines travel eSIM
 site_name: Roami

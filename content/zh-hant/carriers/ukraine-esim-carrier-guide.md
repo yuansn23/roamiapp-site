@@ -1,7 +1,7 @@
 ---
 title: "烏克蘭 eSIM 怎麼挑？Kyivstar、Vodafone、lifecell 比較"
 description: "烏克蘭 eSIM 要辦哪一家電信業者？Roami 從停電期間的抗逆境能力比較 Kyivstar、Vodafone Ukraine 與 lifecell 的覆蓋率與網速，整理預付資費、申辦規定與 APN 設定，從基輔到利維夫，幫你選對烏克蘭 eSIM。"
-image: "img/esim/carriers/ukraine-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ukraine-esim-carrier-guide.webp"
 date: "2026-09-23T16:21:41+00:00"
 keywords: Ukraine eSIM, 烏克蘭 eSIM 業者, Kyivstar eSIM, Vodafone Ukraine, lifecell eSIM, 烏克蘭 travel eSIM, 烏克蘭免漫遊費, 烏克蘭旅客適用 eSIM
 site_name: Roami

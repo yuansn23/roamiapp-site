@@ -4,7 +4,7 @@ title: "芬蘭 eSIM 怎麼挑？Elisa、DNA、Telia 三大業者評比"
 
 description: "芬蘭的行動網路排名全球第二，但離開赫爾辛基之後表現大不同。Roami 比較 Elisa、DNA 與 Telia 的網速、覆蓋率與預付資費，從城市到湖泊區與極北荒野，整理申辦規定與 APN 設定，幫你選出芬蘭全程穩定的 eSIM，極圈旅行也放心。"
 
-image: "img/esim/carriers/finland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/finland-esim-carrier-guide.webp"
 
 date: "2026-09-26T16:08:58+00:00"
 

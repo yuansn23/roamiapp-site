@@ -3,7 +3,7 @@
 title: "Chunghwa vs Taiwan Mobile vs FarEasTone：中国台湾 eSIM"
 
 description: "Roami は Chunghwa Telecom と Taiwan Mobile を比較し、台北 MRT から阿里山の道路まで、あなたの中国台湾 eSIM が正しいキャリアをつかむようにします。"
-image: "img/esim/carriers/taiwan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/taiwan-esim-carrier-guide.webp"
 
 date: "2026-09-23T07:39:56+00:00"
 

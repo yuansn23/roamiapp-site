@@ -4,7 +4,7 @@ title: "ベトナムのeSIMキャリア：Viettel、Vinaphone、Mobifone"
 
 description: "ベトナムの1,600 kmがカバレッジを決めます。RoamiがViettel、Vinaphone、Mobifoneを比較し、サパからメコンまで信号を保てるeSIMをお届けします。"
 
-image: "img/esim/carriers/vietnam-esim-carrier-guide.jpg"
+image: "img/esim/carriers/vietnam-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:18:00+00:00"
 

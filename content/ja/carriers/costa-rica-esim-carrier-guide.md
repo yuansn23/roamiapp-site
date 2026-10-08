@@ -1,7 +1,7 @@
 ---
 title: "コスタリカのeSIMキャリアはどれ？ Claro、Kölbi、Liberty"
 description: "コスタリカの都市部ではClaroがKölbiの2倍の速さを持ち、公園にはKölbiの塔が必要です。RoamiがどのeSIMキャリアが旅に合うかを解説します。"
-image: "img/esim/carriers/costa-rica-esim-carrier-guide.jpg"
+image: "img/esim/carriers/costa-rica-esim-carrier-guide.webp"
 date: "2026-09-27T07:00:48+00:00"
 keywords: コスタリカ eSIM キャリア, コスタリカ eSIM 事業者, Claro eSIM, Kölbi eSIM, ICE eSIM, Liberty コスタリカ eSIM, コスタリカ 5G カバレッジ, コスタリカ eSIM 農村カバレッジ, eSIM コスタリカ プリペイド, 最適な eSIM キャリア コスタリカ
 site_name: Roami

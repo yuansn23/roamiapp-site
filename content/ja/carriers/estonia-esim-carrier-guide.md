@@ -1,7 +1,7 @@
 ---
 title: "エストニア eSIM：Telia、Elisa、Tele2 と「身分証の壁」"
 description: "Telia、Elisa、Tele2 のどれを選ぶべき？ Roami がエストニア eSIM の速度、プリペイドのパスポート登録ルール、タリン－ヘルシンキ間フェリーのローミング、APN 設定を比較します。"
-image: "img/esim/carriers/estonia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/estonia-esim-carrier-guide.webp"
 date: "2026-09-26T03:59:46+00:00"
 keywords: エストニア eSIM キャリア, Telia エストニア eSIM, Elisa エストニア eSIM, Tele2 エストニア, エストニア 5G カバー, エストニア eSIM APN, エストニア プリペイド SIM 登録, EU ローミング エストニア, エストニア 旅行 eSIM, 最強 eSIM エストニア
 site_name: Roami

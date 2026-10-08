@@ -1,7 +1,7 @@
 ---
 title: "インドネシアeSIM：Telkomsel、XL Axiata、IM3 Ooredoo"
 description: "RoamiがインドネシアeSIMキャリアのTelkomsel、XL、IM3 Ooredooを、バリ以遠の5G速度、遅延、旅行プランの観点から比較します。"
-image: "img/esim/carriers/indonesia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/indonesia-esim-carrier-guide.webp"
 date: "2026-09-26T09:20:29+00:00"
 keywords: eSIMインドネシア,プリペイドデータ,5Gネットワーク,Telkomsel,XL,IM3 Ooredoo,旅行用eSIM,ローミングフリー,インドネシアeSIMキャリア,インドネシアeSIM事業者
 site_name: Roami

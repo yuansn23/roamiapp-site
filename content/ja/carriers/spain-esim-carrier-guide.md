@@ -1,7 +1,7 @@
 ---
 title: "スペイン eSIM キャリアガイド：Movistar、Orange、Vodafone"
 description: "Roami がスペインの eSIM について Movistar と Orange を比較。実測速度、パスポート登録規則、APN 設定を紹介します。"
-image: "img/esim/carriers/spain-esim-carrier-guide.jpg"
+image: "img/esim/carriers/spain-esim-carrier-guide.webp"
 date: "2026-09-23T16:48:17+00:00"
 keywords: スペイン eSIM キャリア, Movistar eSIM, Orange eSIM, Vodafone Spain eSIM, Yoigo eSIM, スペイン 5G カバー範囲, スペイン eSIM APN, プリペイド eSIM スペイン, おすすめ eSIM キャリア スペイン, EU ローミング スペイン
 site_name: Roami

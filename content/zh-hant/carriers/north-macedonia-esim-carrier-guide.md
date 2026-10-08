@@ -7,7 +7,7 @@ title: "北馬其頓 eSIM 該選哪家？A1、Telekom、MTEL 比較"
 
 
 description: "北馬其頓 eSIM 要辦哪一家電信業者？Roami 比較 A1、Telekom 與 MTEL 全部三家的網速、覆蓋率與預付資費，並詳解會左右你旅程的巴爾幹跨境漫遊規則，從斯科普里到奧赫里德湖逐段檢視，幫你選對 eSIM，從山城到湖畔都涵蓋。"
-image: "img/esim/carriers/north-macedonia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/north-macedonia-esim-carrier-guide.webp"
 
 
 

@@ -3,7 +3,7 @@
 title: "柬埔寨 eSIM 要選哪家電信業者？Smart、Cellcard、Metfone 完整比較"
 
 description: "前往柬埔寨旅行，不確定 eSIM 要辦哪一家電信業者？Roami 比較 Smart、Cellcard 與 Metfone 的速度、覆蓋率與價格，從金邊、吳哥窟一路實測到離島訊號缺口，整理 5G 進展、護照登記與 APN 設定，幫你出發前選對柬埔寨 eSIM。"
-image: "img/esim/carriers/cambodia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cambodia-esim-carrier-guide.webp"
 
 date: "2026-09-27T22:36:03+00:00"
 

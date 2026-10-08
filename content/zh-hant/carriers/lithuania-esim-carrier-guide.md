@@ -4,7 +4,7 @@ title: "立陶宛 eSIM 該選哪家？Telia、Bitė、Tele2 比較"
 
 description: "立陶宛 eSIM 要辦哪一家電信業者？Roami 比較 Telia、Bitė 與 Tele2 的網速、覆蓋率與資費，並說明你的數據方案在拉脫維亞或波蘭邊界會發生什麼事，整理預付方案、申辦規定與 APN 設定，幫你波羅的海三國都選對，三國一路通。"
 
-image: "img/esim/carriers/lithuania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/lithuania-esim-carrier-guide.webp"
 
 date: "2026-09-25T20:35:06+00:00"
 

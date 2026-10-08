@@ -1,7 +1,7 @@
 ---
 title: "沙烏地阿拉伯 eSIM 該選哪家？STC、Mobily、Zain 比較"
 description: "沙烏地阿拉伯 eSIM 要辦哪一家電信商？Roami 比較 STC、Mobily 與 Zain KSA 的網速、覆蓋率與資費，對應不同簽證類型的申辦規則與櫃檯流程，從利雅德、吉達到麥地那與沙漠公路逐段檢視，幫你選對沙烏地 eSIM，朝聖觀光都適用。"
-image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.webp"
 date: "2026-09-24T07:31:31+00:00"
 keywords: 沙烏地阿拉伯 eSIM, 沙烏地阿拉伯 eSIM 電信商, 5G 旅遊網路, STC eSIM, Mobily eSIM, Zain KSA eSIM, 沙烏地阿拉伯旅遊 eSIM, 免漫遊費, eSIM 相容性
 site_name: Roami

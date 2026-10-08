@@ -1,7 +1,7 @@
 ---
 title: "イランで利用できるeSIMキャリア：MCI、Irancell、Rightel"
 description: "RoamiのイランeSIMキャリアガイドでは、MCI、Rightel、Irancellについて、5G速度、カバレッジ、旅行者に向けたコストパフォーマンスを比較しています。"
-image: "img/esim/carriers/iran-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iran-esim-carrier-guide.webp"
 date: "2026-09-25T06:03:02+00:00"
 keywords: イラン eSIM キャリア, イラン eSIM, MCI eSIM, Irancell eSIM, イラン旅行 eSIM, MCI, Hamrahe Aval, Rightel, イラン 5G, イラン向け eSIM, イラン プリペイド eSIM, イラン 観光 eSIM
 site_name: Roami

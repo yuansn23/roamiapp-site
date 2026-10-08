@@ -1,7 +1,7 @@
 ---
 title: "澳洲 eSIM 電信業者怎麼選？Telstra、Optus、Vodafone 完整比較"
 description: "去澳洲旅遊，eSIM 要選 Telstra、Optus 還是 Vodafone？Roami 就城市 5G 網速、預付卡規則與區域斷訊風險評比三大電信業者，整理覆蓋地圖、資費比較與 APN 設定，幫你依路線挑出最穩定的澳洲 eSIM，內陸到海岸一路有訊號。"
-image: "img/esim/carriers/australia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/australia-esim-carrier-guide.webp"
 date: "2026-09-27T22:51:39+00:00"
 keywords: 澳洲 eSIM 電信業者, Telstra eSIM, Optus eSIM, Vodafone eSIM, 澳洲 5G 覆蓋率, 澳洲 eSIM APN, eSIM 澳洲預付卡, 最佳澳洲 eSIM 業者, 澳洲旅遊 eSIM
 site_name: Roami

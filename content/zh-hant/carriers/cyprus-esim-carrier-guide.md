@@ -4,7 +4,7 @@ title: "賽普勒斯 eSIM 怎麼挑？Cyta、Epic、PrimeTel 與綠線漫遊解�
 
 description: "賽普勒斯 eSIM 該辦哪一家電信業者？Roami 比較 Cyta、Epic 與 PrimeTel 的全島覆蓋、網速與資費，詳解綠線南北分界的漫遊陷阱、歐盟漫遊規則與 APN 設定，無論停留哪一側都清楚該怎麼選，出發前一次搞懂賽普勒斯上網。"
 
-image: "img/esim/carriers/cyprus-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cyprus-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:09:55+00:00"
 

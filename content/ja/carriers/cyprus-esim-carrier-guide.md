@@ -3,7 +3,7 @@ title: "キプロス eSIM：Cyta、Epic、PrimeTel、グリーンラインの分
 
 description: "キプロス eSIM は Cyta、Epic、それとも PrimeTel？ Roami が島内全域の通信エリア、グリーンラインのローミング罠、EU ローミング規則、APN 設定を網羅します。"
 
-image: "img/esim/carriers/cyprus-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cyprus-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:09:55+00:00"
 

@@ -4,7 +4,7 @@ title: "エジプト eSIM キャリア：Vodafone、e&、Orange、WE の比較"
 
 description: "エジプトではSIMを店舗で登録する必要があります。RoamiがVodafone、Orange、WEを比較します——そして行列を回避するeSIMルートを。"
 
-image: "img/esim/carriers/egypt-esim-carrier-guide.jpg"
+image: "img/esim/carriers/egypt-esim-carrier-guide.webp"
 
 date: "2026-09-26T06:57:13+00:00"
 

@@ -3,7 +3,7 @@
 title: "印尼 eSIM 怎麼挑？Telkomsel、XL、IM3 Ooredoo 比較"
 
 description: "印尼 eSIM 該辦哪一家電信業者？Roami 以 5G 網速、延遲表現與旅遊方案比較 Telkomsel、XL Axiata 與 IM3 Ooredoo，從雅加達、巴里島到日惹與蘇門答臘逐段實測覆蓋，整理資費與 APN 設定，幫你跳島選對印尼 eSIM。"
-image: "img/esim/carriers/indonesia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/indonesia-esim-carrier-guide.webp"
 
 date: "2026-09-26T09:20:29+00:00"
 

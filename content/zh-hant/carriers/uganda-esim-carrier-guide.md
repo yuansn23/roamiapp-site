@@ -4,7 +4,7 @@ title: "烏干達 eSIM 該選哪家？MTN、Airtel 電信業者比較"
 
 description: "烏干達 eSIM 要辦 MTN 還是 Airtel？Roami 比較兩家在布溫迪雨林與坎帕拉市區的覆蓋率與網速，詳解恩德培機場註冊流程、行動支付需求與 APN 設定，從山地大猩猩健行到市區觀光，幫你選對烏干達 eSIM，追蹤猩猩之旅更放心。"
 
-image: "img/esim/carriers/uganda-esim-carrier-guide.jpg"
+image: "img/esim/carriers/uganda-esim-carrier-guide.webp"
 
 date: "2026-09-23T19:01:08+00:00"
 

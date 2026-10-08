@@ -1,7 +1,7 @@
 ---
 title: "ハンガリーeSIMキャリア比較：Yettel、Telekom、One"
 description: "ハンガリーのeSIMキャリアを選ぶなら？ RoamiがYettel、Magyar Telekom、Oneを、ブダペスト外のカバレッジに対する5G速度の観点から評価します。"
-image: "img/esim/carriers/hungary-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hungary-esim-carrier-guide.webp"
 date: "2026-09-26T18:40:50+00:00"
 keywords: eSIM,ハンガリー,ハンガリーeSIMキャリア,Yettel eSIM,Magyar Telekom eSIM,One Hungary,プリペイドデータ,5Gネットワーク,旅行用eSIMハンガリー
 site_name: Roami

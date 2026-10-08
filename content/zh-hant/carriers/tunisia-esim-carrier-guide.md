@@ -4,7 +4,7 @@ title: "突尼西亞 eSIM 怎麼挑？Tunisie Telecom、Ooredoo、Orange 比較"
 
 description: "突尼西亞 eSIM 要辦哪一家電信業者？Roami 比較 Tunisie Telecom、Ooredoo 與 Orange 的網速、覆蓋率與預付資費，從地中海度假海岸到撒哈拉邊緣的南部地區逐段實測，整理申辦規定與 APN 設定，幫你全程選對。"
 
-image: "img/esim/carriers/tunisia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/tunisia-esim-carrier-guide.webp"
 
 date: "2026-09-23T01:30:02+00:00"
 

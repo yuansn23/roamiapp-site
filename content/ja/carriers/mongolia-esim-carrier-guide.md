@@ -4,7 +4,7 @@ title: "モンゴルeSIMキャリア：Unitel、Mobicom、カバレッジ"
 
 description: "UnitelかMobicomか？Roamiがモンゴルの両eSIMキャリアを比較し、無料空港eSIMを扱い、ウランバートルを超えた電波をマッピングします。"
 
-image: "img/esim/carriers/mongolia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mongolia-esim-carrier-guide.webp"
 
 date: "2026-09-25T20:26:30+00:00"
 

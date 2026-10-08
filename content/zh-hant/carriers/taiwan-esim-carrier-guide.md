@@ -4,7 +4,7 @@ title: "中國台灣 eSIM 該選哪家？Chunghwa、Taiwan Mobile、FarEasTone �
 
 description: "中國台灣 eSIM 要辦哪一家電信業者？Roami 比較 Chunghwa Telecom、Taiwan Mobile 與 FarEasTone 的網速、覆蓋率與預付資費，從台北捷運到阿里山公路與花東縱谷逐段實測，整理申辦規定與 APN，幫你選對 eSIM。"
 
-image: "img/esim/carriers/taiwan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/taiwan-esim-carrier-guide.webp"
 
 date: "2026-09-23T07:39:56+00:00"
 

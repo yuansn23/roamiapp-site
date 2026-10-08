@@ -3,7 +3,7 @@
 title: "奈及利亞 eSIM 怎麼挑？MTN、Airtel、Glo 業者比較"
 
 description: "奈及利亞的電信業者想要你沒有的 NIN 身分證號。Roami 比較 MTN、Airtel、Glo 與 9mobile 的網速、覆蓋與資費，並詳解能跳過排隊的旅客 eSIM 途徑，從拉哥斯到阿布賈逐段檢視，幫你選對奈及利亞 eSIM，商務旅行也適用。"
-image: "img/esim/carriers/nigeria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nigeria-esim-carrier-guide.webp"
 
 date: "2026-09-24T17:17:28+00:00"
 

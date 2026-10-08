@@ -4,7 +4,7 @@ title: "烏拉圭 eSIM 怎麼挑？Antel、Movistar、Claro 比較"
 
 description: "烏拉圭 eSIM 要辦哪一家電信業者？Roami 比較 Antel、Movistar 與 Claro 全部三家的網速、覆蓋率與預付資費，從蒙特維多到東海岸度假區與卡波波洛尼奧無訊號地帶逐段實測，整理 APN 設定，幫你選對烏拉圭 eSIM。"
 
-image: "img/esim/carriers/uruguay-esim-carrier-guide.jpg"
+image: "img/esim/carriers/uruguay-esim-carrier-guide.webp"
 
 date: "2026-09-23T04:05:53+00:00"
 

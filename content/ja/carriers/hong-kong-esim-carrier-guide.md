@@ -3,7 +3,7 @@ title: "中国香港のeSIMキャリア：CMHKとcsl、どちらがあなたに�
 
 description: "Roamiが、中国香港のeSIMキャリアであるCMHK、csl、SmarToneを、5G速度、カバレッジ、旅行者向けプランの観点から比較します。"
 
-image: "img/esim/carriers/hong-kong-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hong-kong-esim-carrier-guide.webp"
 
 date: "2026-09-26T21:28:17+00:00"
 

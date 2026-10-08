@@ -4,7 +4,7 @@ title: "蒙特內哥羅 eSIM 怎麼挑？m:tel、Telekom、One 比較"
 
 description: "蒙特內哥羅 eSIM 要辦哪一家電信商？Roami 比較 m:tel、Crnogorski Telekom 與 One 的網速、覆蓋率與預付資費，包括 15 歐元觀光方案的適用對象，從科托爾灣到北部山區逐段實測，整理 APN，幫你選對 eSIM。"
 
-image: "img/esim/carriers/montenegro-esim-carrier-guide.jpg"
+image: "img/esim/carriers/montenegro-esim-carrier-guide.webp"
 
 date: "2026-09-24T17:10:03+00:00"
 

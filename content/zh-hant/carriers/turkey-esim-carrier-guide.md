@@ -4,7 +4,7 @@ title: "土耳其 eSIM 該選哪家？Turkcell、Vodafone、Türk Telekom 比較
 
 description: "土耳其 eSIM 要辦哪一家電信業者？Roami 依據 Ookla 實測數據、預付卡規定與 IMEI 註冊限制，評比 Turkcell、Vodafone 與 Türk Telekom 的網速、覆蓋與資費，從伊斯坦堡到卡帕多奇亞，幫你選對土耳其 eSIM。"
 
-image: "img/esim/carriers/turkey-esim-carrier-guide.jpg"
+image: "img/esim/carriers/turkey-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:32:35+00:00"
 

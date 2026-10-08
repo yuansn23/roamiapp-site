@@ -4,7 +4,7 @@ title: "どのカンボジア eSIM キャリアを選ぶ？ Smart、Cellcard、M
 
 description: "カンボジアの eSIM キャリアを比較：5G 導入後、Roami が Smart、Cellcard、Metfone をプノンペンから島嶼部の死角まで検証します。"
 
-image: "img/esim/carriers/cambodia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cambodia-esim-carrier-guide.webp"
 
 date: "2026-09-27T22:36:03+00:00"
 

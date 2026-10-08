@@ -4,7 +4,7 @@ title: "越南 eSIM 怎麼挑？Viettel、Vinaphone、Mobifone 比較"
 
 description: "越南 1,600 公里的狹長國土決定你的覆蓋率。Roami 比較 Viettel、Vinaphone 與 Mobifone 的網速、資費與預付方案，從河內、下龍灣到峴港與胡志明市，沙壩山區到湄公河三角洲逐段實測，幫你選對越南 eSIM，南北往返都順。"
 
-image: "img/esim/carriers/vietnam-esim-carrier-guide.jpg"
+image: "img/esim/carriers/vietnam-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:18:00+00:00"
 

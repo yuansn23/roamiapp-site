@@ -1,7 +1,7 @@
 ---
 title: "尼泊爾 eSIM 怎麼挑？NTC、Ncell 高山健行比較"
 description: "尼泊爾 eSIM 要辦 NTC 還是 Ncell？Roami 比較兩家在海拔 4,000 公尺以上健行路線的覆蓋率，從加德滿都旅客 SIM 註冊、尼泊爾盧比計價方案到 EBC 路線訊號實況，整理 APN 設定，幫你登山之旅選對尼泊爾 eSIM。"
-image: "img/esim/carriers/nepal-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nepal-esim-carrier-guide.webp"
 date: "2026-09-24T05:46:15+00:00"
 keywords: 尼泊爾 eSIM 電信商, Ncell eSIM, Nepal Telecom NTC eSIM, Smart Cell eSIM, 聖母峰基地營 eSIM, 安娜普納 eSIM, 尼泊爾健行覆蓋率, 尼泊爾 eSIM APN, 尼泊爾旅客 SIM 註冊, best eSIM Nepal
 site_name: Roami

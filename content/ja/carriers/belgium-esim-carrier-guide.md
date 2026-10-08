@@ -1,7 +1,7 @@
 ---
 title: "ベルギーの eSIM キャリア：Proximus、Telenet、Orange を比較"
 description: "ベルギーの3大キャリアは都市部では互角。Roami が Proximus、Orange、Telenet/BASE を比較し、アルデンヌ地方で差が出る理由を解説します。"
-image: "img/esim/carriers/belgium-esim-carrier-guide.jpg"
+image: "img/esim/carriers/belgium-esim-carrier-guide.webp"
 date: "2026-09-27T08:01:24+00:00"
 keywords: ベルギー eSIM キャリア, ベルギー eSIM 通信事業者, Proximus eSIM, Orange Belgium eSIM, Telenet eSIM, BASE eSIM, ベルギー 5G カバレッジ, ベルギー eSIM APN, eSIM ベルギー プリペイド, ベスト eSIM キャリア ベルギー
 site_name: Roami

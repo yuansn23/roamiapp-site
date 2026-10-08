@@ -4,7 +4,7 @@ title: "衣索比亞 eSIM 怎麼挑？Ethio Telecom、Safaricom 比較"
 
 description: "衣索比亞 eSIM 該辦哪一家電信業者？Roami 比較 Ethio Telecom 與 Safaricom Ethiopia 的網速、覆蓋率與資費，從櫃檯註冊流程到部分地區的斷網風險如實說明，整理預付方案與 APN 設定，幫你阿迪斯落地前選對 eSIM。"
 
-image: "img/esim/carriers/ethiopia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ethiopia-esim-carrier-guide.webp"
 
 date: "2026-09-26T00:39:19+00:00"
 

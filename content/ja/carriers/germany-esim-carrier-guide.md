@@ -1,7 +1,7 @@
 ---
 title: "ドイツのeSIMキャリア：Telekom、Vodafone、O2を比較"
 description: "ドイツのeSIMキャリアを選ぶなら？ RoamiがTelekom、Vodafone、O2を5G速度、農村への到達、EUローミング、プリペイド本人確認ルールで比較します。"
-image: "img/esim/carriers/germany-esim-carrier-guide.jpg"
+image: "img/esim/carriers/germany-esim-carrier-guide.webp"
 date: "2026-09-26T09:25:04+00:00"
 keywords: ドイツ eSIM キャリア, Telekom eSIM, Vodafone eSIM, O2 eSIM, Aldi Talk eSIM, Lidl Connect eSIM, ドイツ 5G カバー率, ドイツ eSIM APN, eSIM ドイツ プリペイド, ドイツ 最適 eSIM キャリア
 site_name: Roami

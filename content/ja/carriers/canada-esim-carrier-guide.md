@@ -1,7 +1,7 @@
 ---
 title: "カナダ eSIM キャリア：Bell、Rogers、TELUS のどれがあなたに？"
 description: "Roami がカナダの eSIM キャリア — Bell、Rogers、TELUS — を、5G 速度、地方の安定性、渡航者向けプリペイド規則で比較します。"
-image: "img/esim/carriers/canada-esim-carrier-guide.jpg"
+image: "img/esim/carriers/canada-esim-carrier-guide.webp"
 date: "2026-09-27T19:35:36+00:00"
 keywords: カナダ eSIM キャリア, Bell eSIM, Rogers eSIM, TELUS eSIM, SaskTel eSIM, Lucky Mobile eSIM, カナダ 5G カバレッジ, カナダ eSIM APN, eSIM カナダ プリペイド, 最適な eSIM キャリア カナダ
 site_name: Roami

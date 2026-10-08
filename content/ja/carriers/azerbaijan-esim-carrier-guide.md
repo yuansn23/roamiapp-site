@@ -1,7 +1,7 @@
 ---
 title: "アゼルバイジャン eSIM：Azercell、Bakcell、Nar、そして IMEI の罠"
 description: "アゼルバイジャン eSIM：Roami が Azercell、Bakcell、Nar を比較 — カバーエリア、旅行者向けプラン、そして訪問者に適用される30日間の IMEI ルール。"
-image: "img/esim/carriers/azerbaijan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/azerbaijan-esim-carrier-guide.webp"
 date: "2026-09-27T19:58:12+00:00"
 keywords: アゼルバイジャン eSIM キャリア, Azercell eSIM, Bakcell eSIM, Nar Mobile eSIM, アゼルバイジャン 5G カバーエリア, アゼルバイジャン eSIM APN, アゼルバイジャン eSIM プリペイド, アゼルバイジャン 最強 eSIM キャリア
 site_name: Roami

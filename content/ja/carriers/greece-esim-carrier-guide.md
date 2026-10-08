@@ -1,7 +1,7 @@
 ---
 title: "ギリシャeSIMキャリア：Cosmote vs Vodafone vs Nova"
 description: "RoamiがギリシャeSIMキャリアのCosmote、Vodafone、Novaを速度、プリペイド規則、APN設定で評価し、旅に最適なものを選びます。"
-image: "img/esim/carriers/greece-esim-carrier-guide.jpg"
+image: "img/esim/carriers/greece-esim-carrier-guide.webp"
 date: "2026-09-26T03:47:11+00:00"
 keywords: ギリシャ eSIM キャリア, ギリシャ eSIM オペレーター, Cosmote eSIM, Vodafone ギリシャ eSIM, Nova eSIM, ギリシャ 5G カバー率, ギリシャ eSIM APN, eSIM ギリシャ プリペイド, ギリシャ 最適 eSIM キャリア
 site_name: Roami

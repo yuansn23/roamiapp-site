@@ -4,7 +4,7 @@ title: "どのモーリシャスeSIMキャリア？my.t、Emtel、それともCh
 
 description: "my.t、Emtel、それともChili？Roamiがモーリシャスの3キャリアすべてのeSIMを比較し、安価なプリペイドパックを遮断する観光客専用ルールを解説します。"
 
-image: "img/esim/carriers/mauritius-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mauritius-esim-carrier-guide.webp"
 
 date: "2026-09-25T02:31:24+00:00"
 

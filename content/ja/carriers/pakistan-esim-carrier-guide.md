@@ -4,7 +4,7 @@ title: "パキスタン eSIM キャリア比較：Jazz、Zong、Transworld"
 
 description: "Roami が Jazz と Zong をパキスタン eSIM で比較し、実測 5G 速度、都市カバー、全国旅行ルートを対決させます。"
 
-image: "img/esim/carriers/pakistan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/pakistan-esim-carrier-guide.webp"
 
 date: "2026-09-24T05:22:40+00:00"
 

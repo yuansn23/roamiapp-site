@@ -1,7 +1,7 @@
 ---
 title: "モルディブeSIM：島巡りならDhiraaguかOoredooか"
 description: "DhiraaguかOoredooか？Roamiが、アトール間と水上飛行機移動を含むモルディブのeSIMカバレッジを、観光用パック・APN・圏外エリアとともに比較します。"
-image: "img/esim/carriers/maldives-esim-carrier-guide.jpg"
+image: "img/esim/carriers/maldives-esim-carrier-guide.webp"
 date: "2026-09-25T09:05:18+00:00"
 keywords: モルディブeSIMキャリア, Dhiraagu eSIM, Ooredoo eSIM, モルディブ旅行eSIM, モルディブ観光SIM, リゾート島通信, モルディブAPN, 水上飛行機移動電波, モルディブ最適eSIM
 site_name: Roami

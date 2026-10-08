@@ -1,7 +1,7 @@
 ---
 title: "ケニアeSIMキャリア：Safaricom対Airtel対Telkom"
 description: "Safaricom、Airtel、Telkomのどれ？ Roamiが3社のケニアeSIMキャリアを比較します。マサイマラのカバーからナイロビ市街の高速まで。"
-image: "img/esim/carriers/kenya-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kenya-esim-carrier-guide.webp"
 date: "2026-09-25T06:14:26+00:00"
 keywords: ケニアeSIM, ケニアeSIMキャリア, Safaricom eSIM, Airtel Kenya eSIM, 旅行eSIM ケニア, マサイマラデータ, ローミング料金回避 ケニア, ケニアプリペイドeSIM, 個人探索者eSIM
 site_name: Roami

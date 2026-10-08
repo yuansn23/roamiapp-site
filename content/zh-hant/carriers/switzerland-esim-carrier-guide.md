@@ -4,7 +4,7 @@ title: "瑞士 eSIM 怎麼挑？Swisscom、Sunrise、Salt 比較"
 
 description: "瑞士 eSIM 要辦哪一家電信業者？Roami 依 Ookla 實測數據、預付卡規定與阿爾卑斯山區覆蓋，評比 Swisscom、Sunrise 與 Salt 的網速與資費，從蘇黎世、策馬特到冰川快線沿線逐段檢視，幫你選對瑞士 eSIM，登山列車也涵蓋。"
 
-image: "img/esim/carriers/switzerland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/switzerland-esim-carrier-guide.webp"
 
 date: "2026-09-23T10:34:23+00:00"
 

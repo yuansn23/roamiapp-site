@@ -1,7 +1,7 @@
 ---
 title: "スウェーデン eSIM キャリア：Telia、Tele2、Telenor、Tre"
 description: "スウェーデンの都市は高速 5G が当たり前、ノールランドは忍耐が必要。Roami が Telia、Tele2、Telenor、Tre を比較し、旅路に合ったスウェーデン eSIM 選びをサポートします。"
-image: "img/esim/carriers/sweden-esim-carrier-guide.jpg"
+image: "img/esim/carriers/sweden-esim-carrier-guide.webp"
 date: "2026-09-23T13:38:50+00:00"
 keywords: スウェーデン eSIM キャリア, Telia eSIM, Tele2 eSIM, Telenor スウェーデン eSIM, Tre eSIM, スウェーデン 5G カバレッジ, eSIM スウェーデン プリペイド, スウェーデン 最良の eSIM キャリア
 site_name: Roami

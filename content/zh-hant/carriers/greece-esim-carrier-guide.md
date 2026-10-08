@@ -1,7 +1,7 @@
 ---
 title: "希臘 eSIM 怎麼挑？Cosmote、Vodafone、Nova 完整評比"
 description: "希臘 eSIM 該辦哪一家電信業者？Roami 從網速、預付卡規定與 APN 設定評比 Cosmote、Vodafone 與 Nova，從雅典市區到愛琴海島嶼的渡輪航線逐段實測覆蓋，幫你依行程挑出希臘最適合的 eSIM，跳島也不斷線，跳島更安心。"
-image: "img/esim/carriers/greece-esim-carrier-guide.jpg"
+image: "img/esim/carriers/greece-esim-carrier-guide.webp"
 date: "2026-09-26T03:47:11+00:00"
 keywords: Greece eSIM carriers, Greece eSIM operators, Cosmote eSIM, Vodafone Greece eSIM, Nova eSIM, Greece 5G coverage, Greece eSIM APN, eSIM Greece prepaid, best eSIM carrier Greece
 site_name: Roami

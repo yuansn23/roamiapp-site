@@ -4,7 +4,7 @@ title: "アルバニアの2大eSIMキャリアを徹底比較：VodafoneとOne"
 
 description: "RoamiがアルバニアのeSIMキャリアであるVodafoneとOneを、5G速度・通信範囲・価格で比較。到着時からつながり、空港の行列を回避できます。"
 
-image: "img/esim/carriers/albania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/albania-esim-carrier-guide.webp"
 
 date: "2026-09-27T08:13:00+00:00"
 

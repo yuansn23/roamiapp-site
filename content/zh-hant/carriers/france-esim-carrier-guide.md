@@ -1,7 +1,7 @@
 ---
 title: "法國 eSIM 該選哪家？Orange、SFR、Bouygues、Free 四大業者比較"
 description: "法國 eSIM 要辦哪一家電信業者？Roami 為你比較四大業者：Orange 在 5G 速度上領先，Free 價格最划算，SFR 與 Bouygues 則僅限門市購買。本指南整理各家的覆蓋、預付方案與 APN 設定，巴黎到南法一次選對法國 eSIM。"
-image: "img/esim/carriers/france-esim-carrier-guide.jpg"
+image: "img/esim/carriers/france-esim-carrier-guide.webp"
 date: "2026-09-26T12:59:31+00:00"
 keywords: France eSIM carriers, Orange eSIM, SFR eSIM, Bouygues Telecom eSIM, Free Mobile eSIM, Orange Travel eSIM, 法國 5G 覆蓋率, eSIM 法國預付卡, 法國最佳 eSIM 業者
 site_name: Roami

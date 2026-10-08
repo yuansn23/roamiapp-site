@@ -1,7 +1,7 @@
 ---
 title: "匈牙利 eSIM 怎麼挑？Yettel、Magyar Telekom、One 比較"
 description: "匈牙利 eSIM 該辦哪一家電信業者？Roami 評比 Yettel、Magyar Telekom 與 One 的 5G 網速、資費與覆蓋率，從布達佩斯市區到多瑙河灣與東部平原逐段實測，整理預付方案、申辦規定與 APN 設定，幫你選對匈牙利 eSIM。"
-image: "img/esim/carriers/hungary-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hungary-esim-carrier-guide.webp"
 date: "2026-09-26T18:40:50+00:00"
 keywords: eSIM Hungary, Hungary eSIM 電信業者, Yettel eSIM, Magyar Telekom eSIM, One Hungary, 預付卡流量, 5G 網路, travel eSIM Hungary
 site_name: Roami

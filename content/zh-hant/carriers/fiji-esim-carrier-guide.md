@@ -1,7 +1,7 @@
 ---
 title: "斐濟 eSIM 該選哪家？Vodafone、Digicel 電信業者比較"
 description: "前往斐濟度假，eSIM 要辦哪一家電信業者？Roami 比較 Vodafone Fiji 與 Digicel Fiji 的 5G 網路、覆蓋率與觀光客方案，從楠迪機場到外島度假村逐段檢視訊號，整理預付資費與 APN 設定，幫你跳島途中不斷線。"
-image: "img/esim/carriers/fiji-esim-carrier-guide.jpg"
+image: "img/esim/carriers/fiji-esim-carrier-guide.webp"
 date: "2026-09-26T18:48:25+00:00"
 keywords: Fiji eSIM carriers, 斐濟 eSIM, 保留原門號, Vodafone Fiji, Digicel Fiji, 斐濟行動電信業者, Yasawa Islands, Beqa Lagoon, 免費漫遊, travel eSIM, 斐濟網路比較
 site_name: Roami

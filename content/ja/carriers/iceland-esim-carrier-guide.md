@@ -5,7 +5,7 @@ title: "Síminn、Vodafone、Nova？ リングロード向けアイスランドe
 
 description: "Síminn、Vodafone、Nova？ Roamiが3つのアイスランドeSIMキャリアをすべて比較し、リングロードを外れても電波がつながるのはどれかをマップします。"
 
-image: "img/esim/carriers/iceland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iceland-esim-carrier-guide.webp"
 
 
 date: "2026-09-26T15:08:23+00:00"

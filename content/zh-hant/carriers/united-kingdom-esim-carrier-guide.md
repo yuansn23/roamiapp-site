@@ -1,7 +1,7 @@
 ---
 title: "英國 eSIM 怎麼挑？EE、Vodafone、O2、Three 四大業者比較"
 description: "英國 eSIM 要辦哪一家電信業者？Roami 比較 EE、Vodafone、O2 與 Three 在各地的 5G 網速、覆蓋率與預付資費，從倫敦、愛丁堡到蘇格蘭高地逐段實測，整理申辦規定與 APN 設定，幫你英國全程選對 eSIM，倫敦高地都順暢。"
-image: "img/esim/carriers/united-kingdom-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-kingdom-esim-carrier-guide.webp"
 date: "2026-09-23T10:15:47+00:00"
 keywords: eSIM United Kingdom, 預付數據, 5G 網路, UK eSIM, travel eSIM, 英國數位遊牧, 英國 eSIM 業者, eSIM 業者 United Kingdom, EE eSIM, Vodafone eSIM, Three eSIM, Virgin Media O2 eSIM
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
 title: "メキシコeSIMキャリアの選び方：Telcel、AT&T、Movistar"
 description: "メキシコ旅行を計画中ですか？Roamiが、速度・プリペイドSIMルール・APN設定に基づき、あなたのメキシコeSIM向けにTelcelとAT&Tを評価し、正しいキャリアを選べるようにします。"
-image: "img/esim/carriers/mexico-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mexico-esim-carrier-guide.webp"
 date: "2026-09-25T23:54:57+00:00"
 keywords: メキシコeSIMキャリア, Telcel eSIM, AT&T Mexico eSIM, Movistar eSIM, メキシコ5Gカバレッジ, メキシコeSIM APN, eSIM メキシコプリペイド, メキシコ最適eSIMキャリア, メキシコ旅行eSIM, Telcel市場シェア
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
 title: "ボリビア eSIM キャリア：Entel、Tigo、Viva を比較"
 description: "Roami がボリビアの 3 大 eSIM キャリア — Entel、Tigo、Viva — を 4G の到達範囲と価格で比較。ラパスからウユニ塩湖まで。"
-image: "img/esim/carriers/bolivia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/bolivia-esim-carrier-guide.webp"
 date: "2026-09-27T04:51:57+00:00"
 keywords: ボリビア eSIM, ボリビア eSIM キャリア, Entel ボリビア, Tigo ボリビア, Viva ボリビア, 4G LTE ボリビア, ウユニ塩湖, ラパス, iPhone eSIM ボリビア, Android eSIM ボリビア
 site_name: Roami

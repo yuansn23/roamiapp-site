@@ -3,7 +3,7 @@
 title: "義大利 eSIM 該選哪家？TIM、Vodafone、WINDTRE 比較"
 
 description: "義大利 eSIM 要辦哪一家電信業者？Roami 分析 TIM、Vodafone 與 WINDTRE 的網速、覆蓋率與預付資費，從羅馬、米蘭到托斯卡尼鄉間與阿瑪菲海岸逐段實測，整理預付卡規定與 APN 設定，幫你義大利全程選對 eSIM，一路都順暢。"
-image: "img/esim/carriers/italy-esim-carrier-guide.jpg"
+image: "img/esim/carriers/italy-esim-carrier-guide.webp"
 
 date: "2026-09-25T18:10:14+00:00"
 

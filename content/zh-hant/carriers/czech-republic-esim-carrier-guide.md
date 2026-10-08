@@ -1,7 +1,7 @@
 ---
 title: "捷克 eSIM 該選哪個網路？Vodafone、T-Mobile、O2 比較"
 description: "捷克 eSIM 要辦哪一家電信業者？Roami 比較 Vodafone CZ、T-Mobile CZ 與 O2 CZ 的網速、覆蓋率與預付資費，從布拉格市中心到支線鐵路沿線的鄉間逐段實測，整理申辦規定與 APN 設定，幫你挑出捷克全程穩定的 eSIM。"
-image: "img/esim/carriers/czech-republic-esim-carrier-guide.jpg"
+image: "img/esim/carriers/czech-republic-esim-carrier-guide.webp"
 date: "2026-09-27T22:01:28+00:00"
 keywords: Czech Republic eSIM, Vodafone CZ eSIM, T-Mobile CZ eSIM, travel eSIM Czech Republic, avoid roaming fees, Prague Castle eSIM, instant activation eSIM
 site_name: Roami

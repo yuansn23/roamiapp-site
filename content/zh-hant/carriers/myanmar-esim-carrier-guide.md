@@ -1,7 +1,7 @@
 ---
 title: "緬甸 eSIM 怎麼挑？ATOM、MPT、Mytel 可用性實況比較"
 description: "緬甸 eSIM 目前什麼真的可用？Roami 檢視 ATOM、MPT 與 Mytel 的實際表現，包括護照註冊規定、緬甸幣計價套餐與如實呈現的限制，從仰光到蒲甘逐段說明覆蓋實況，整理 APN 設定，幫你緬甸之行上網不踩雷，出發前準備更踏實。"
-image: "img/esim/carriers/myanmar-esim-carrier-guide.jpg"
+image: "img/esim/carriers/myanmar-esim-carrier-guide.webp"
 date: "2026-09-24T11:50:09+00:00"
 keywords: 緬甸 eSIM 電信商, ATOM eSIM, MPT eSIM, Mytel eSIM, U9 eSIM, 緬甸旅遊 eSIM, 緬甸觀光 SIM, 緬甸斷網, 緬甸 APN, Telenor Myanmar ATOM
 site_name: Roami

@@ -4,7 +4,7 @@ title: "阿聯酋 eSIM 該選哪家？du 與 e& 完整比較"
 
 description: "杜拜或阿布達比之旅，eSIM 要辦哪一家？Roami 比較 du 與 e& 的旅客 eSIM 方案，從免費抵達流量、VAT 稅務與通話規則到網速與覆蓋率逐一解析，整理預付資費與 APN 設定，幫你阿聯酋落地即上網，免排隊，商務轉機購物都好用。"
 
-image: "img/esim/carriers/united-arab-emirates-esim-guide.jpg"
+image: "img/esim/carriers/united-arab-emirates-esim-guide.webp"
 
 date: "2026-09-23T12:52:14+00:00"
 

@@ -4,7 +4,7 @@ title: "丹麥 eSIM 電信業者怎麼選？Telia、Telenor、YouSee 與 3 比�
 
 description: "丹麥 eSIM 該辦哪一家電信業者？Roami 評比 Telia、YouSee、Telenor 與 3 的網速、覆蓋率與預付資費，詳解歐盟漫遊規則、機場申辦排隊情境與訊號轉弱的地點，整理 APN 設定與挑選建議，幫你哥本哈根落地即上網，實用又安心。"
 
-image: "img/esim/carriers/denmark-esim-carrier-guide.jpg"
+image: "img/esim/carriers/denmark-esim-carrier-guide.webp"
 
 date: "2026-09-26T19:30:01+00:00"
 

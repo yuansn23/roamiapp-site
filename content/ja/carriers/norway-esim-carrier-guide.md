@@ -1,7 +1,7 @@
 ---
 title: "ノルウェー eSIM キャリア比較：Telenor、Telia、ice の違い"
 description: "ノルウェーではトンネルが数マイルにわたって携帯の電波を遮断します。Roami は Telenor、Telia、ice の電波状況をフィヨルドごとに整理し、eSIM がつながったままになるようお手伝いします。"
-image: "img/esim/carriers/norway-esim-carrier-guide.jpg"
+image: "img/esim/carriers/norway-esim-carrier-guide.webp"
 date: "2026-09-24T11:09:34+00:00"
 keywords: ノルウェー eSIM キャリア, Telenor eSIM, Telia ノルウェー eSIM, ice ノルウェー eSIM, ノルウェー 5G カバー, ノルウェー フィヨルド 電波, eSIM ノルウェー プリペイド, おすすめ eSIM キャリア ノルウェー
 site_name: Roami

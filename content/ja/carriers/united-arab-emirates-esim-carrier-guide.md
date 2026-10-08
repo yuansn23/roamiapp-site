@@ -1,7 +1,7 @@
 ---
 title: "duかe&か？ドバイ旅行向けUAE eSIMキャリア比較"
 description: "Roamiは、アラブ首長国連邦（UAE）のduとe&観光eSIMキャリアを、到着時無料データからVAT、通話規則まで比較します。"
-image: "img/esim/carriers/united-arab-emirates-esim-guide.jpg"
+image: "img/esim/carriers/united-arab-emirates-esim-guide.webp"
 date: "2026-09-23T12:52:14+00:00"
 keywords: アラブ首長国連邦 eSIM, UAE eSIM キャリア, du eSIM, Etisalat eSIM, UAE トラベルeSIM, UAE ローミング料金なし, ドバイ eSIM, アブダビ eSIM, UAE プリペイドeSIM, UAE 観光客向けeSIM
 site_name: Roami

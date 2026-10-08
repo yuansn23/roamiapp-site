@@ -1,7 +1,7 @@
 ---
 title: "SK Telecom vs KT vs LG U+？ 韓国の eSIM キャリア"
 description: "SK Telecom か KT か？ Roami が韓国の eSIM キャリアを比較し、パスポート規則を説明し、最適な信号にプランを合わせます。"
-image: "img/esim/carriers/south-korea-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-korea-esim-carrier-guide.webp"
 date: "2026-09-23T19:49:44+00:00"
 keywords: eSIM 韓国, 韓国 eSIM キャリア, プリペイド データ, 5G ネットワーク, SK Telecom, LG U+, KT, Roami eSIM, 旅行用インターネット
 site_name: Roami

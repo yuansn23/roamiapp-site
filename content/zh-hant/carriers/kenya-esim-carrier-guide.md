@@ -1,7 +1,7 @@
 ---
 title: "肯亞 eSIM 怎麼挑？Safaricom、Airtel、Telkom 比較"
 description: "肯亞 eSIM 要辦 Safaricom、Airtel 還是 Telkom？Roami 比較三家電信業者的覆蓋率與網速，從馬賽馬拉野生動物園區到奈洛比市區的極速表現逐段實測，整理預付資費、申辦規定與 APN 設定，幫你獵遊之旅全程有訊號，獵遊更盡興。"
-image: "img/esim/carriers/kenya-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kenya-esim-carrier-guide.webp"
 date: "2026-09-25T06:14:26+00:00"
 keywords: 肯亞 eSIM, 肯亞 eSIM 電信業者, Safaricom eSIM, Airtel 肯亞 eSIM, 肯亞旅遊 eSIM, 馬賽馬拉流量, 肯亞避開漫遊費, 肯亞預付卡 eSIM, 自助旅行者 eSIM
 site_name: Roami

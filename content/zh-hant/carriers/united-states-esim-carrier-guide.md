@@ -1,7 +1,7 @@
 ---
 title: "美國 eSIM 該選哪家？T-Mobile、Verizon、AT&T 三大業者比較"
 description: "美國 eSIM 要辦哪一家電信業者？Roami 依 Ookla 實測網速、覆蓋率與預付 eSIM 規定，比較 T-Mobile、Verizon 與 AT&T 的資費與表現，從紐約、洛杉磯到國家公園自駕路線逐段檢視，幫你選對美國 eSIM，公路旅行更自由。"
-image: "img/esim/carriers/united-states-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-states-esim-carrier-guide.webp"
 date: "2026-09-23T07:21:20+00:00"
 keywords: 美國 eSIM 業者, T-Mobile eSIM, Verizon eSIM, AT&T eSIM, Cricket Wireless eSIM, Visible eSIM, Metro by T-Mobile eSIM, 美國 5G 覆蓋, 美國 eSIM APN, 美國預付 eSIM
 site_name: Roami

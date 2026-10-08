@@ -1,7 +1,7 @@
 ---
 title: "白俄羅斯 eSIM 該選哪家？A1、MTS、life:) 三大業者比較"
 description: "前往白俄羅斯旅行，eSIM 要挑哪一家電信業者？Roami 比較 A1、MTS 與 life:) 的網速、覆蓋率與資費，並詳解現金支付、卡片可用性與門市註冊規定，告訴你哪家業者對旅客真正友善，出發前就把白俄羅斯 eSIM 安排妥當，上網更省心。"
-image: "img/esim/carriers/belarus-esim-carrier-guide.jpg"
+image: "img/esim/carriers/belarus-esim-carrier-guide.webp"
 date: "2026-09-27T10:31:51+00:00"
 keywords: Belarus eSIM, Belarus eSIM carriers, 高速數據, A1 Belarus, MTS, life:), travel eSIM, 免漫遊費, Minsk, 獨立大道
 site_name: Roami

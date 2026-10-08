@@ -1,7 +1,7 @@
 ---
 title: "ラトビアのeSIMキャリア：LMT、Tele2、Bite、ローミング"
 description: "LMT、Tele2、それともBite？ RoamiがラトビアのeSIMキャリア3社を比較。リガの通信エリアから、カウンターでのパスポート登録ルールまで。"
-image: "img/esim/carriers/latvia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/latvia-esim-carrier-guide.webp"
 date: "2026-09-25T23:56:33+00:00"
 keywords: ラトビア eSIM, ラトビア eSIM キャリア, ラトビア eSIM 購入, 即時接続, LMT ラトビア, Tele2 ラトビア, リガ 旧市街, ローミング料金回避, 旅行 eSIM, バルト海旅行
 site_name: Roami

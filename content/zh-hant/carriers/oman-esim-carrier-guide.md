@@ -3,7 +3,7 @@
 title: "阿曼 eSIM 該選哪家？Omantel、Ooredoo、Vodafone 比較"
 
 description: "阿曼 eSIM 要辦哪一家電信業者？Roami 比較 Omantel、Ooredoo 與 Vodafone 的網速、覆蓋率與資費，涵蓋馬斯開特的 5G 表現、護照登記規定，以及瓦希巴沙漠等偏遠地區的訊號死角，整理 APN，幫你選對阿曼 eSIM。"
-image: "img/esim/carriers/oman-esim-carrier-guide.jpg"
+image: "img/esim/carriers/oman-esim-carrier-guide.webp"
 
 date: "2026-09-24T08:01:07+00:00"
 

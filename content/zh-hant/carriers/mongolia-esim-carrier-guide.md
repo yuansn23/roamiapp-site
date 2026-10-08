@@ -3,7 +3,7 @@
 title: "蒙古 eSIM 該選哪家？Unitel、Mobicom 覆蓋實況比較"
 
 description: "蒙古 eSIM 要辦 Unitel 還是 Mobicom？Roami 比較兩家電信業者的網速、覆蓋率與資費，介紹機場免費 eSIM 的領取方式，並繪製烏蘭巴托以外草原與戈壁地區的訊號地圖，整理 APN 設定，幫你蒙古行程不斷線，草原旅程更放心。"
-image: "img/esim/carriers/mongolia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mongolia-esim-carrier-guide.webp"
 
 date: "2026-09-25T20:26:30+00:00"
 

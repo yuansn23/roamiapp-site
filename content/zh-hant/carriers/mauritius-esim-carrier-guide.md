@@ -3,7 +3,7 @@
 title: "模里西斯 eSIM 該選哪家？my.t、Emtel、Chili 比較"
 
 description: "模里西斯 eSIM 要辦哪一家電信業者？Roami 比較 my.t、Emtel 與 Chili 全部三家的網速、覆蓋率與預付資費，並解釋擋下便宜預付方案的旅客專屬規定，從機場到海灘度假區逐段檢視，幫你選對模里西斯 eSIM，海島假期一路連線。"
-image: "img/esim/carriers/mauritius-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mauritius-esim-carrier-guide.webp"
 
 date: "2026-09-25T02:31:24+00:00"
 

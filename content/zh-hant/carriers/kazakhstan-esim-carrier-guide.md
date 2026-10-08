@@ -3,7 +3,7 @@
 title: "哈薩克 eSIM 該選哪家？Kcell、Tele2、Beeline 比較"
 
 description: "哈薩克 eSIM 要辦哪一家電信業者？阿拉木圖與阿斯塔納已跑上快速 5G，草原地區則不然。Roami 評比 Kcell、Tele2 與 Beeline 的覆蓋、網速與資費，整理申辦規定與 APN 設定，幫你城市與長途路線都選對哈薩克 eSIM。"
-image: "img/esim/carriers/kazakhstan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kazakhstan-esim-carrier-guide.webp"
 
 date: "2026-09-25T09:07:53+00:00"
 

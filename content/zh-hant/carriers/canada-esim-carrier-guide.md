@@ -1,7 +1,7 @@
 ---
 title: "加拿大 eSIM 該選哪家？Bell、Rogers、TELUS 三大業者比較"
 description: "加拿大 eSIM 要辦哪一家電信業者？Roami 比較 Bell、Rogers 與 TELUS 的 5G 網速、偏鄉穩定性與預付卡規則，從多倫多、溫哥華到洛磯山脈自駕路線逐段檢視覆蓋，整理資費與 APN 設定，幫你選出橫跨東西岸都可靠的方案。"
-image: "img/esim/carriers/canada-esim-carrier-guide.jpg"
+image: "img/esim/carriers/canada-esim-carrier-guide.webp"
 date: "2026-09-27T19:35:36+00:00"
 keywords: Canada eSIM carriers, Bell eSIM, Rogers eSIM, TELUS eSIM, SaskTel eSIM, Lucky Mobile eSIM, 加拿大 5G 覆蓋率, Canada eSIM APN, eSIM 加拿大預付卡, best eSIM carrier Canada
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
 title: "島々のためのクロアチアeSIM：HT、A1、Telemach"
 description: "Roamiがアドリア海全域でHrvatski Telekom、A1、Telemachをテストし、あなたのクロアチアeSIMキャリアがフェリーの甲板から島まで持ちこたえるようにします。"
-image: "img/esim/carriers/croatia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/croatia-esim-carrier-guide.webp"
 date: "2026-09-27T04:29:22+00:00"
 keywords: クロアチア eSIM, クロアチア eSIM キャリア, Hrvatski Telekom, A1 Hrvatska, Telemach, プリトヴィツェ湖群, ドゥブロヴニク, 高速データ, ローミング料金なし, eSIM 互換性
 site_name: Roami

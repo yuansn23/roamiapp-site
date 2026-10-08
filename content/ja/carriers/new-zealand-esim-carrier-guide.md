@@ -1,7 +1,7 @@
 ---
 title: "ニュージーランドの eSIM キャリア：One NZ、Spark、2degrees"
 description: "ニュージーランドの eSIM キャリア：Roami が One NZ と Spark を速度・プリペイド規則・APN 設定から、旅する人向けに比較する。"
-image: "img/esim/carriers/new-zealand-esim-carrier-guide.jpg"
+image: "img/esim/carriers/new-zealand-esim-carrier-guide.webp"
 date: "2026-09-24T23:25:22+00:00"
 keywords: ニュージーランド eSIM キャリア, One NZ eSIM, Spark eSIM, 2degrees eSIM, Skinny eSIM, ニュージーランド 5G カバレッジ, ニュージーランド eSIM APN, ニュージーランド プリペイド eSIM, ニュージーランド 最適 eSIM キャリア, ニュージーランド 旅行 eSIM
 site_name: Roami

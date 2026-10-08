@@ -1,7 +1,7 @@
 ---
 title: "荷蘭 eSIM 該選哪家？Odido、KPN、Vodafone 比較"
 description: "荷蘭 5G 到處都快，真正的問題是哪家電信業者適合你。Roami 實測 Odido、KPN 與 Vodafone 的網速、覆蓋與預付資費，從阿姆斯特丹到風車村與海牙逐段檢視，整理申辦規定與 APN 設定，幫你選出不折騰的荷蘭 eSIM，騎車散步都順。"
-image: "img/esim/carriers/netherlands-esim-carrier-guide.jpg"
+image: "img/esim/carriers/netherlands-esim-carrier-guide.webp"
 date: "2026-09-24T02:10:48+00:00"
 keywords: eSIM 荷蘭, 荷蘭 eSIM 電信商, Odido eSIM, KPN Mobile eSIM, Vodafone Netherlands, 預付卡數據, 5G 網路, travel eSIM
 site_name: Roami

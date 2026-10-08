@@ -1,7 +1,7 @@
 ---
 title: "馬爾地夫 eSIM 該選哪家？Dhiraagu、Ooredoo 跳島比較"
 description: "馬爾地夫 eSIM 要辦 Dhiraagu 還是 Ooredoo？Roami 衡量兩家業者在各環礁與水上飛機接駁之間的覆蓋率與網速，整理遊客方案、APN 設定與訊號死區位置，從馬列機場到度假島一路檢視，幫你跳島假期不斷線，水上屋與跳島都有訊號。"
-image: "img/esim/carriers/maldives-esim-carrier-guide.jpg"
+image: "img/esim/carriers/maldives-esim-carrier-guide.webp"
 date: "2026-09-25T09:05:18+00:00"
 keywords: 馬爾地夫 eSIM 電信業者, Dhiraagu eSIM, Ooredoo eSIM, 馬爾地夫旅遊 eSIM, 馬爾地夫遊客 SIM 卡, 度假島連線, 馬爾地夫 APN, 水上飛機接駁訊號, 馬爾地夫最佳 eSIM
 site_name: Roami

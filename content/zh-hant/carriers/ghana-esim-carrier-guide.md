@@ -4,7 +4,7 @@ title: "迦納 eSIM 該選哪家？MTN、Telecel、AT 電信業者比較"
 
 description: "迦納 eSIM 要辦哪一家電信業者？Roami 比較 MTN、Telecel 與 AT 的網速、覆蓋率與資費，並說明旅客如何在行動支付經濟中完成註冊與付款，從阿克拉到北部保護區逐段檢視，整理 APN 設定，幫你選對迦納 eSIM，行程不斷線。"
 
-image: "img/esim/carriers/ghana-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ghana-esim-carrier-guide.webp"
 
 date: "2026-09-26T06:39:37+00:00"
 

@@ -1,7 +1,7 @@
 ---
 title: "日本のeSIMキャリア：Docomo、au、SoftBank、Rakuten"
 description: "日本のeSIMキャリアを迷っていますか？ RoamiがDocomoとSoftBankの速度、プリペイドの規約、APN設定を比較し、旅に合った選択をサポートします。"
-image: "img/esim/carriers/japan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/japan-esim-carrier-guide.webp"
 date: "2026-09-25T15:13:47+00:00"
 keywords: 日本eSIMキャリア, Docomo eSIM, au eSIM, SoftBank eSIM, Rakuten Mobile eSIM, 日本5Gカバー, 日本eSIM APN, eSIM 日本 プリペイド, 日本最適eSIMキャリア, 日本旅行eSIM
 site_name: Roami

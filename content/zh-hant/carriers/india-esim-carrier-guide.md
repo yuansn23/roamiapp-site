@@ -1,7 +1,7 @@
 ---
 title: "印度 eSIM 該選哪家？Jio、Airtel、Vi 三大業者比較"
 description: "印度 eSIM 要辦哪一家電信業者？Roami 以實測網速、預付 KYC 規定與 APN 設定比較 Jio、Airtel 與 Vi，從德里、孟買到喀拉拉與拉賈斯坦邦逐段檢視覆蓋表現，幫你依路線選出印度最適合的 eSIM，城鄉都穩定上網，出差旅遊都適用。"
-image: "img/esim/carriers/india-esim-carrier-guide.jpg"
+image: "img/esim/carriers/india-esim-carrier-guide.webp"
 date: "2026-09-26T12:43:56+00:00"
 keywords: India eSIM 電信業者, India eSIM 運營商, Jio eSIM, Airtel eSIM, Vi eSIM, India 5G 覆蓋率, India eSIM APN, eSIM India 預付卡, best eSIM carrier India, India travel eSIM
 site_name: Roami

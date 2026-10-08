@@ -1,7 +1,7 @@
 ---
 title: "以色列 eSIM 怎麼挑？Cellcom、Partner、Pelephone 比較"
 description: "以色列 eSIM 該辦哪一家電信業者？Roami 比較 Cellcom、Partner 與 Pelephone 的網速、覆蓋率與資費，教你跳過機場排隊，並提醒安息日門市歇業等在地細節，整理預付方案與 APN 設定，耶路撒冷到死海一路有訊號。"
-image: "img/esim/carriers/israel-esim-carrier-guide.jpg"
+image: "img/esim/carriers/israel-esim-carrier-guide.webp"
 date: "2026-09-25T21:00:41+00:00"
 keywords: 以色列 eSIM 電信業者, 以色列 eSIM, 以色列 travel eSIM, Cellcom eSIM, Partner eSIM, Pelephone, HOT Mobile, 以色列行動電信業者, 以色列遊客適用 eSIM, 避免以色列漫遊費, 即時開通以色列 eSIM, 死海 eSIM, 耶路撒冷 eSIM
 site_name: Roami

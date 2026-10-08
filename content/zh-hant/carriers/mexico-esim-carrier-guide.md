@@ -1,7 +1,7 @@
 ---
 title: "墨西哥 eSIM 怎麼挑？Telcel、AT&T、Movistar 比較"
 description: "正在規劃墨西哥之旅？Roami 依實測網速、預付卡規定與 APN 設定評比 Telcel、AT&T 與 Movistar，從墨西哥城到坎昆與瓦哈卡逐段檢視覆蓋表現，整理資費比較與挑選建議，幫你出發前就選對墨西哥 eSIM，從古蹟到海灘都順暢。"
-image: "img/esim/carriers/mexico-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mexico-esim-carrier-guide.webp"
 date: "2026-09-25T23:54:57+00:00"
 keywords: 墨西哥 eSIM 電信業者, Telcel eSIM, AT&T Mexico eSIM, Movistar eSIM, 墨西哥 5G 覆蓋, 墨西哥 eSIM APN, 墨西哥 eSIM 預付, 墨西哥最佳 eSIM 業者, 墨西哥旅遊 eSIM, Telcel 市占率
 site_name: Roami

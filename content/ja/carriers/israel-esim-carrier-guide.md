@@ -1,7 +1,7 @@
 ---
 title: "イスラエルeSIMキャリア：Cellcom、Pelephone、Shabbat"
 description: "RoamiがイスラエルのeSIMキャリアCellcom、Partner、HOT Mobileを比較し、イスラエル旅行が空港の行列とシャバット休業を避けられます。"
-image: "img/esim/carriers/israel-esim-carrier-guide.jpg"
+image: "img/esim/carriers/israel-esim-carrier-guide.webp"
 date: "2026-09-25T21:00:41+00:00"
 keywords: イスラエル eSIM キャリア, イスラエル eSIM, 旅行用 eSIM イスラエル, Cellcom eSIM, Partner eSIM, Pelephone, HOT Mobile, イスラエル モバイル事業者, 観光客向け eSIM イスラエル, ローミング料金回避 イスラエル, 即時 eSIM イスラエル, 死海 eSIM, エルサレム eSIM
 site_name: Roami

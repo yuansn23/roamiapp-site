@@ -1,7 +1,7 @@
 ---
 title: "ヨルダンeSIM：Zain vs Orange vs Umniah、どれを選ぶか"
 description: "RoamiがZain Jordan、Orange Jordan、UmniahのeSIMキャリアを比較します。アンマンの5Gタワーからペトラへ向かう砂漠の道まで。"
-image: "img/esim/carriers/jordan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/jordan-esim-carrier-guide.webp"
 date: "2026-09-25T12:09:20+00:00"
 keywords: ヨルダン eSIM, ヨルダンeSIMキャリア, ヨルダン旅行インターネット, Zain Jordan, Orange Jordan, Umniah eSIM, ペトラeSIM, 死海データ, プラグアンドプレイeSIM, ローミング料金なしヨルダン
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
 title: "德國 eSIM 怎麼挑？Telekom、Vodafone、O2 完整比較"
 description: "德國 eSIM 該辦哪一家電信業者？Roami 就 5G 網速、鄉村覆蓋與歐盟漫遊表現，衡量 Telekom、Vodafone 與 O2 三大業者，並詳解預付卡身分驗證規定與 APN 設定，從柏林到羅曼蒂克大道，幫你挑出德國最穩的 eSIM。"
-image: "img/esim/carriers/germany-esim-carrier-guide.jpg"
+image: "img/esim/carriers/germany-esim-carrier-guide.webp"
 date: "2026-09-26T09:25:04+00:00"
 keywords: Germany eSIM carriers, Telekom eSIM, Vodafone eSIM, O2 eSIM, Aldi Talk eSIM, Lidl Connect eSIM, 德國 5G 覆蓋率, 德國 eSIM APN, eSIM 德國預付卡, 德國最佳 eSIM 業者
 site_name: Roami

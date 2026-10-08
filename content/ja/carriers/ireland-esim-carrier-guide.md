@@ -1,7 +1,7 @@
 ---
 title: "アイルランドeSIMキャリアガイド：Three、Vodafone、Eir"
 description: "RoamiがアイルランドのeSIMキャリアThree、Vodafone、Eirを、実測速度・プリペイド規則・APN設定の観点から短期滞在者向けに比較します。"
-image: "img/esim/carriers/ireland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ireland-esim-carrier-guide.webp"
 date: "2026-09-25T00:37:08+00:00"
 keywords: アイルランド eSIM キャリア, アイルランド eSIM 事業者, Three eSIM, Vodafone eSIM, Eir eSIM, アイルランド 5G カバレッジ, アイルランド eSIM APN, eSIM アイルランド プリペイド, 最良の eSIM キャリア アイルランド, アイルランド旅行 eSIM, 北アイルランド ローミング
 site_name: Roami

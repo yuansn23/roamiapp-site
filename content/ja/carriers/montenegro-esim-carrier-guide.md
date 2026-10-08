@@ -1,7 +1,7 @@
 ---
 title: "モンテネグロで最適なeSIMキャリア：m:tel、Telekom、One"
 description: "m:tel、Crnogorski Telekom、それともOne？ Roamiがモンテネグロの3大eSIMキャリアを比較します。€15の観光プランと山岳地帯のカバレッジを紹介。"
-image: "img/esim/carriers/montenegro-esim-carrier-guide.jpg"
+image: "img/esim/carriers/montenegro-esim-carrier-guide.webp"
 date: "2026-09-24T17:10:03+00:00"
 keywords: モンテネグロ eSIM, モンテネグロ eSIMキャリア, Crnogorski Telekom, T-Mobile Montenegro, M:tel Montenegro, One Montenegro, ドゥルミトル, コトル湾, ローミング料金なし, eSIM対応
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
 title: "フィリピンの eSIM キャリアはどれ？ Globe、Smart、それとも DITO"
 description: "Roami がフィリピンの eSIM について Smart と Globe を比較。実測速度、プリペイドの規則、そして旅行者をつまずかせる APN 設定を検証します。"
-image: "img/esim/carriers/philippines-esim-carrier-guide.jpg"
+image: "img/esim/carriers/philippines-esim-carrier-guide.webp"
 date: "2026-09-24T20:02:19+00:00"
 keywords: フィリピン eSIM キャリア, Globe eSIM, Smart eSIM, DITO eSIM, フィリピン 5G カバー, フィリピン eSIM APN, フィリピン eSIM プリペイド, フィリピン 最適 eSIM キャリア, フィリピン SIM 登録法, フィリピン 旅行 eSIM
 site_name: Roami

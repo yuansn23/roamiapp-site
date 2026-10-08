@@ -1,7 +1,7 @@
 ---
 title: "中國 eSIM 怎麼選？China Mobile、China Unicom 與旅遊 eSIM 解析"
 description: "去中國旅行，手機上網該怎麼解決？Roami 解說旅客使用 China Mobile 與 China Unicom eSIM 的註冊規定與實際限制，並分析為什麼旅遊 eSIM 是外國旅客在中國上網最務實的途徑，整理申辦流程、APN 與挑選建議一次看懂。"
-image: "img/esim/carriers/china-esim-carrier-guide.jpg"
+image: "img/esim/carriers/china-esim-carrier-guide.webp"
 date: "2026-09-27T13:44:42+00:00"
 keywords: China eSIM, China eSIM carriers, 中國旅遊上網, China Mobile eSIM, China Unicom eSIM, 免設定 eSIM, 避免中國漫遊費, eSIM for China travel, Great Wall eSIM, Shanghai eSIM, Beijing eSIM
 site_name: Roami

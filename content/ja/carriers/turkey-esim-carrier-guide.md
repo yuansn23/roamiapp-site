@@ -1,7 +1,7 @@
 ---
 title: "トルコeSIM：Turkcell vs Vodafone vs Türk Telekom どちらを選ぶべきか"
 description: "Roamiは、Ooklaのデータ、プリペイドの規則、IMEI制限に基づきTurkcell、Vodafone、Türk Telekomを比較し、あなたに最適なトルコeSIM選びをサポートします。"
-image: "img/esim/carriers/turkey-esim-carrier-guide.jpg"
+image: "img/esim/carriers/turkey-esim-carrier-guide.webp"
 date: "2026-09-23T22:32:35+00:00"
 keywords: トルコeSIM キャリア, Turkcell eSIM, Vodafone eSIM, Türk Telekom eSIM, トルコ 5G カバレッジ, トルコ eSIM APN, トルコ eSIM プリペイド, トルコ 最適eSIMキャリア, トルコ 旅行eSIM
 site_name: Roami

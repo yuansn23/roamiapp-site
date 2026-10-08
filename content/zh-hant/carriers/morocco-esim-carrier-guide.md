@@ -4,7 +4,7 @@ title: "摩洛哥 eSIM 該選哪家？Maroc Telecom、inwi、Orange 比較"
 
 description: "摩洛哥 eSIM 要辦哪一家電信商？從馬拉喀什到梅如卡沙漠，覆蓋率會迅速轉薄。Roami 評估 Maroc Telecom、inwi 與 Orange 的網速、資費與覆蓋，整理預付方案與 APN 設定，讓你的摩洛哥 eSIM 在公路盡頭依然可用。"
 
-image: "img/esim/carriers/morocco-esim-carrier-guide.jpg"
+image: "img/esim/carriers/morocco-esim-carrier-guide.webp"
 
 date: "2026-09-24T14:07:36+00:00"
 

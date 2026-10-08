@@ -1,7 +1,7 @@
 ---
 title: "MEO vs NOS vs Vodafone vs Digi：ポルトガル eSIM の選択"
 description: "Roami がポルトガルの eSIM について MEO と Vodafone を比較。実測された真の速度、プリペイド eSIM の規則、APN 設定を検証します。"
-image: "img/esim/carriers/portugal-esim-carrier-guide.jpg"
+image: "img/esim/carriers/portugal-esim-carrier-guide.webp"
 date: "2026-09-24T16:43:52+00:00"
 keywords: ポルトガル eSIM キャリア, MEO eSIM, NOS eSIM, Vodafone eSIM, Digi eSIM, ポルトガル 5G カバー, ポルトガル eSIM APN, ポルトガル eSIM プリペイド, ポルトガル 最適 eSIM キャリア, ポルトガル 旅行 eSIM
 site_name: Roami

@@ -4,7 +4,7 @@ title: "訪問者向けナイジェリア eSIM キャリア：MTN、Airtel、Glo
 
 description: "ナイジェリアのキャリアは、あなたが持っていない NIN を求めてくる。Roami が MTN、Airtel、Glo、T2 を比較し、列に並ばない eSIM ルートを示す。"
 
-image: "img/esim/carriers/nigeria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nigeria-esim-carrier-guide.webp"
 
 date: "2026-09-24T17:17:28+00:00"
 

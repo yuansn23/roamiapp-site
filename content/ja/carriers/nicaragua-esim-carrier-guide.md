@@ -1,7 +1,7 @@
 ---
 title: "ニカラグアの eSIM キャリア：Claro、Tigo、旅行用 eSIM"
 description: "ニカラグアの eSIM キャリアを解説：Roami が Claro と Tigo の到達範囲、ローミング選択肢、プリペイド登録、必要な APN 設定をカバーする。"
-image: "img/esim/carriers/nicaragua-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nicaragua-esim-carrier-guide.webp"
 date: "2026-09-24T20:03:55+00:00"
 keywords: ニカラグア eSIM キャリア, Claro eSIM, Tigo eSIM, ニカラグア eSIM ネットワーク, ニカラグア プリペイド eSIM, ニカラグア 最適 eSIM キャリア, ニカラグア 旅行 eSIM
 

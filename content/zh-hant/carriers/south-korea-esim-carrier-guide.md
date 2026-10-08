@@ -1,7 +1,7 @@
 ---
 title: "南韓 eSIM 該選哪家？SK Telecom、KT、LG U+ 比較"
 description: "南韓 eSIM 要辦哪一家電信業者？Roami 比較 SK Telecom、KT 與 LG U+ 的網速、覆蓋率與資費，詳解護照註冊規定與預付方案，從首爾、釜山到濟州島逐段檢視訊號表現，整理 APN 設定，幫你南韓落地即上網，逛街追劇都順暢。"
-image: "img/esim/carriers/south-korea-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-korea-esim-carrier-guide.webp"
 date: "2026-09-23T19:49:44+00:00"
 keywords: eSIM 南韓, 南韓 eSIM 電信業者, 預付卡數據, 5G 網路, SK Telecom, LG U+, KT, Roami eSIM, travel internet
 site_name: Roami

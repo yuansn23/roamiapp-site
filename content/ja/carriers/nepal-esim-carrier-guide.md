@@ -1,7 +1,7 @@
 ---
 title: "ネパールeSIM：標高4,000 m超ではNTCかNcellか？ ガイド"
 description: "標高4,000 m超ではNTCかNcellか？ RoamiがネパールeSIMのトレッキングカバレッジ、NPRパック、カトマンズの観光SIM登録、APN設定を比較します。"
-image: "img/esim/carriers/nepal-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nepal-esim-carrier-guide.webp"
 date: "2026-09-24T05:46:15+00:00"
 keywords: ネパール eSIMキャリア, Ncell eSIM, Nepal Telecom NTC eSIM, Smart Cell eSIM, エベレストベースキャンプ eSIM, アンナプルナ eSIM, ネパール トレッキングカバレッジ, ネパール eSIM APN, ネパール 観光SIM登録, best eSIM ネパール
 site_name: Roami

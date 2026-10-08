@@ -1,7 +1,7 @@
 ---
 title: "ルーマニア eSIM キャリア：価格と到達で見る Orange vs DIGI"
 description: "Orange と DIGI がルーマニア eSIM の価値のベンチマークを設定。Roami が速度、カバー、ロードトリップの価格で両者を比較します。"
-image: "img/esim/carriers/romania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/romania-esim-carrier-guide.webp"
 date: "2026-09-24T13:46:25+00:00"
 keywords: eSIM ルーマニア, ルーマニア eSIM キャリア, Orange Romania, DIGI Romania, Vodafone Romania, プリペイド データ, 5G 網, ルーマニア モバイルインターネット
 site_name: Roami

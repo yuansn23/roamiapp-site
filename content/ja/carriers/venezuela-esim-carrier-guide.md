@@ -1,7 +1,7 @@
 ---
 title: "Digitel vs Movistar vs Movilnet：ベネズエラeSIMガイド"
 description: "RoamiがDigitel、Movistar、Movilnetを分解し、あなたのベネズエラeSIMがカラカスの街からグラン・サバナまでのルートに合うようにします。"
-image: "img/esim/carriers/venezuela-esim-carrier-guide.jpg"
+image: "img/esim/carriers/venezuela-esim-carrier-guide.webp"
 date: "2026-09-23T01:09:26+00:00"
 keywords: eSIM ベネズエラ, ベネズエラ eSIM キャリア, ベネズエラ モバイル事業者, プリペイド データ, 5G ネットワーク, Digitel, Movistar, Movilnet, トラベル eSIM, ベネズエラ インターネット
 site_name: Roami

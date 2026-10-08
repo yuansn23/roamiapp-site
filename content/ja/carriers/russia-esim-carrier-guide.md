@@ -1,7 +1,7 @@
 ---
 title: "ロシア eSIM キャリア：MTS、MegaFon、そして 24 時間ブロック"
 description: "MTS、MegaFon、Beeline、それとも Tele2？ Roami がロシア eSIM がローミングする網と、初日の 24 時間データ ブロックを説明します。"
-image: "img/esim/carriers/russia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/russia-esim-carrier-guide.webp"
 date: "2026-09-24T11:10:58+00:00"
 keywords: ロシア eSIM, ロシア eSIM キャリア, ロシア 旅行 eSIM, MTS Russia, MegaFon Russia, Beeline Russia, Tele2 Russia, 赤の広場, エルミタージュ美術館, ローミング料金なし, 柔軟なデータ プラン, 複数日 eSIM
 site_name: Roami

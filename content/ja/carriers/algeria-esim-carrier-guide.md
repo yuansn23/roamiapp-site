@@ -4,7 +4,7 @@ title: "アルジェリアeSIM：Ooredoo、Mobilis、Djezzyを比較"
 
 description: "RoamiがアルジェリアのeSIM事業者であるOoredoo、Mobilis、Djezzyを、速度・通信範囲・すべての旅行者が知るべき登録ルールでランク付けします。"
 
-image: "img/esim/carriers/algeria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/algeria-esim-carrier-guide.webp"
 
 date: "2026-09-27T05:20:33+00:00"
 

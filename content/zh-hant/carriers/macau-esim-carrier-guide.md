@@ -1,7 +1,7 @@
 ---
 title: "澳門 eSIM 該選哪家？CTM、中國電信、3 Macau 比較"
 description: "澳門很小，但電信業者的選擇依然重要。Roami 為你的澳門 eSIM 比較 CTM、中國電信與 3 Macau 的網速、覆蓋與資費，並解答香港方案能否撐過渡輪航程，整理預付方案與 APN 設定，澳門落地即上網不用換卡，無論一日遊或長住都合適。"
-image: "img/esim/carriers/macau-esim-carrier-guide.jpg"
+image: "img/esim/carriers/macau-esim-carrier-guide.webp"
 date: "2026-09-25T15:07:12+00:00"
 keywords: 澳門 eSIM 電信業者, CTM eSIM, 中國電信澳門 eSIM, 3 Macau eSIM, 澳門 5G 覆蓋率, 香港 eSIM 在澳門, 澳門 eSIM 預付卡, 澳門最佳 eSIM 電信業者
 site_name: Roami

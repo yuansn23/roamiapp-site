@@ -4,7 +4,7 @@ title: "西班牙 eSIM 怎麼挑？Movistar、Orange、Vodafone 比較"
 
 description: "西班牙 eSIM 要辦哪一家電信業者？Roami 比較 Movistar、Orange 與 Vodafone 的實測網速、覆蓋率與預付資費，詳解護照實名登記規定與 APN 設定，從馬德里、巴塞隆納到安達魯西亞各城逐段檢視，幫你選對西班牙 eSIM。"
 
-image: "img/esim/carriers/spain-esim-carrier-guide.jpg"
+image: "img/esim/carriers/spain-esim-carrier-guide.webp"
 
 date: "2026-09-23T16:48:17+00:00"
 

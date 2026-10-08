@@ -1,7 +1,7 @@
 ---
 title: "AIS、TrueMove H、dtac：どれがタイの eSIM キャリア？"
 description: "Roami は Ookla 2025 年上期の速度データ、NBTC の旅券規則、島々のカバレッジに基づき AIS、TrueMove H、dtac を比較し、あなたのタイ eSIM 選びを支援します。"
-image: "img/esim/carriers/thailand-esim-carrier-guide.jpg"
+image: "img/esim/carriers/thailand-esim-carrier-guide.webp"
 date: "2026-09-23T04:25:29+00:00"
 keywords: タイ eSIM キャリア, AIS eSIM, TrueMove H eSIM, dtac eSIM, タイ 5G カバレッジ, タイ eSIM APN, eSIM タイ プリペイド, タイ 最良の eSIM キャリア
 site_name: Roami

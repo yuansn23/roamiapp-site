@@ -1,7 +1,7 @@
 ---
 title: "フランスのeSIMキャリア：Orange、SFR、Bouygues、Free"
 description: "Roamiがフランスの4大キャリアをフランスeSIM向けに比較します：5G速度はOrangeが首位、価格はFreeが最安、SFRとBouyguesは店頭限定です。"
-image: "img/esim/carriers/france-esim-carrier-guide.jpg"
+image: "img/esim/carriers/france-esim-carrier-guide.webp"
 date: "2026-09-26T12:59:31+00:00"
 keywords: フランス eSIM キャリア, Orange eSIM, SFR eSIM, Bouygues Telecom eSIM, Free Mobile eSIM, Orange Travel eSIM, フランス 5G カバー率, eSIM フランス プリペイド, フランス 最適 eSIM キャリア
 site_name: Roami

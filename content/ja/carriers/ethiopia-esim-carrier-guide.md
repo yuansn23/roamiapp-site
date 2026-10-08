@@ -4,7 +4,7 @@ title: "エチオピア eSIM：Ethio Telecom と Safaricom を比較"
 
 description: "Ethio Telecom か Safaricom Ethiopia か？ Roami が両方のエチオピア eSIM キャリアを、窓口登録から地域別網遮断まで比較します。"
 
-image: "img/esim/carriers/ethiopia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ethiopia-esim-carrier-guide.webp"
 
 date: "2026-09-26T00:39:19+00:00"
 

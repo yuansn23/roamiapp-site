@@ -1,7 +1,7 @@
 ---
 title: "正しいインドeSIMキャリアを選ぶ：Jio、Airtel、Vi"
 description: "RoamiがインドeSIMキャリアのJio、Airtel、Viを、実速度、プリペイドKYC規則、APN設定で比較し、ルートに最適なものを選びます。"
-image: "img/esim/carriers/india-esim-carrier-guide.jpg"
+image: "img/esim/carriers/india-esim-carrier-guide.webp"
 date: "2026-09-26T12:43:56+00:00"
 keywords: インドeSIMキャリア,インドeSIM事業者,Jio eSIM,Airtel eSIM,Vi eSIM,インド5Gカバレッジ,インドeSIM APN,eSIMインドプリペイド,最良のeSIMキャリアインド,インド旅行用eSIM
 site_name: Roami

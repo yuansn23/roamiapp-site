@@ -6,7 +6,7 @@ title: "マルタeSIMキャリア：GO vs Epic vs Melita、比較"
 
 description: "GO、Epic、それともMelita？Roamiがマルタの3キャリアすべてのeSIMを比較します。他のガイドが見落とすMelitaも含めて、ヴァレッタからゴゾまで。"
 
-image: "img/esim/carriers/malta-esim-carrier-guide.jpg"
+image: "img/esim/carriers/malta-esim-carrier-guide.webp"
 
 
 

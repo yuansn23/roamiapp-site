@@ -3,7 +3,7 @@ redirect_to: "/dominican-esim/"
 sitemap: false
 title: "ドミニカeSIMキャリアの選び方：Claro、Altice、Viva"
 description: "リゾートWi-Fiはビュッフェを過ぎると切れる。Roamiが、ドミニカ共和国のeSIMがClaroとAlticeの間でどう選ぶかを、リゾート海岸の内外で示します。"
-image: "img/esim/carriers/dominican-republic-esim-carrier-guide.jpg"
+image: "img/esim/carriers/dominican-republic-esim-carrier-guide.webp"
 date: "2026-09-26T12:58:07+00:00"
 keywords: ドミニカ共和国eSIMキャリア, ドミニカ共和国eSIM事業者, Claro eSIM, Altice Dominicana eSIM, Viva eSIM, ドミニカ共和国5Gカバレッジ, Punta Cana eSIM, ドミニカ共和国eSIMプリペイド, ドミニカ共和国最良のeSIMキャリア
 site_name: Roami

@@ -4,7 +4,7 @@ title: "アルゼンチンのeSIMキャリア：Personal、Claro、Movistar"
 
 description: "Roamiがアルゼンチンの3キャリア、Personal、Claro、Movistarを5Gテストにかけ、あなたのeSIMがルート・都市・パタゴニアに合うようにします。"
 
-image: "img/esim/carriers/argentina-esim-carrier-guide.jpg"
+image: "img/esim/carriers/argentina-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:32:06+00:00"
 

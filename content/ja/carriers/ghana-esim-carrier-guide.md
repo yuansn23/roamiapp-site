@@ -4,7 +4,7 @@ title: "観光客向けガーナeSIMキャリア：MTN、Telecel、AT"
 
 description: "RoamiがMTN、Telecel、ATガーナeSIMキャリアを比較し、モバイルマネー経済下で観光客が登録・支払いする方法を解説します。"
 
-image: "img/esim/carriers/ghana-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ghana-esim-carrier-guide.webp"
 
 date: "2026-09-26T06:39:37+00:00"
 

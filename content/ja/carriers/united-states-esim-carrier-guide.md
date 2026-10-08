@@ -1,7 +1,7 @@
 ---
 title: "アメリカのeSIMキャリア：T-Mobile、Verizon、AT&T"
 description: "RoamiがT-Mobile、Verizon、AT&TのOokla速度・カバレッジ・プリペイドeSIMのルールを比較し、あなたに合ったアメリカのキャリア選びをサポートします。"
-image: "img/esim/carriers/united-states-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-states-esim-carrier-guide.webp"
 date: "2026-09-23T07:21:20+00:00"
 keywords: アメリカ eSIM キャリア, T-Mobile eSIM, Verizon eSIM, AT&T eSIM, Cricket Wireless eSIM, Visible eSIM, Metro by T-Mobile eSIM, 米国 5G カバレッジ, 米国 eSIM APN, プリペイド eSIM アメリカ
 site_name: Roami

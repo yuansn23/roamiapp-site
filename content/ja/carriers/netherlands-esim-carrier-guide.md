@@ -1,7 +1,7 @@
 ---
 title: "オランダのeSIMキャリアはどれを選ぶ？ Odido、KPN、Vodafone"
 description: "オランダの5Gはどこでも速い。本当に問うべきはキャリアの相性だ。RoamiがOdidoとKPNを実測し、ただ動くオランダeSIMをお届けする。"
-image: "img/esim/carriers/netherlands-esim-carrier-guide.jpg"
+image: "img/esim/carriers/netherlands-esim-carrier-guide.webp"
 date: "2026-09-24T02:10:48+00:00"
 keywords: オランダ eSIM, オランダ eSIM キャリア, Odido eSIM, KPN Mobile eSIM, Vodafone オランダ, プリペイド データ, 5G ネットワーク, 旅行 eSIM
 site_name: Roami

@@ -3,7 +3,7 @@
 title: "チュニジア eSIM：Tunisie Telecom vs Ooredoo vs Orange の比較"
 
 description: "Roami は地中海のリゾート海岸からサハラ縁の南部まで、あなたのチュニジア eSIM のために Tunisie Telecom、Ooredoo、Orange を比較します。"
-image: "img/esim/carriers/tunisia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/tunisia-esim-carrier-guide.webp"
 
 date: "2026-09-23T01:30:02+00:00"
 

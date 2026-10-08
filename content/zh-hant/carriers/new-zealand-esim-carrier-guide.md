@@ -1,7 +1,7 @@
 ---
 title: "紐西蘭 eSIM 怎麼挑？One NZ、Spark、2degrees 比較"
 description: "紐西蘭 eSIM 要辦哪一家電信業者？Roami 從實測網速、預付卡規定與 APN 設定，評比 One NZ、Spark 與 2degrees，從奧克蘭、皇后鎮到米爾福德峽灣與南島自駕路線逐段檢視覆蓋，幫你上路旅人選對紐西蘭 eSIM，自駕露營都穩。"
-image: "img/esim/carriers/new-zealand-esim-carrier-guide.jpg"
+image: "img/esim/carriers/new-zealand-esim-carrier-guide.webp"
 date: "2026-09-24T23:25:22+00:00"
 keywords: 紐西蘭 eSIM 電信商, one nz esim, spark esim, 2degrees esim, skinny esim, 紐西蘭 5G 覆蓋率, 紐西蘭 eSIM APN, esim 紐西蘭預付卡, best esim carrier new zealand, 紐西蘭 travel eSIM
 site_name: Roami

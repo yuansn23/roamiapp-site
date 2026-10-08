@@ -3,7 +3,7 @@
 title: "マレーシアのeSIM：Maxis、CelcomDigi、それともU Mobile"
 
 description: "Maxis、CelcomDigi、それともU Mobile？ RoamiがKLIAからボルネオまでマレーシアのeSIM通信エリアを解説し、MCMCのパスポート規則とAPNの基本にも触れます。"
-image: "img/esim/carriers/malaysia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/malaysia-esim-carrier-guide.webp"
 
 date: "2026-09-25T11:27:45+00:00"
 

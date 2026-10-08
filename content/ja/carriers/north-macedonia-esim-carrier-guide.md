@@ -8,7 +8,7 @@ title: "北マケドニアの eSIM キャリア：A1 対 Telekom 対 MTEL"
 
 description: "A1、Telekom、それとも MTEL？ Roami が北マケドニアの3つの eSIM キャリアを比較。旅を決めるバルカン・ローミング規則も含めて。"
 
-image: "img/esim/carriers/north-macedonia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/north-macedonia-esim-carrier-guide.webp"
 
 
 

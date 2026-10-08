@@ -4,7 +4,7 @@ title: "グアテマラeSIMキャリア：Claro vs Tigo、どちらが勝つ"
 
 description: "グアテマラのeSIMで問われるのはClaroかTigoか。Roamiがアンティグア、アティトラン、ティカルの両ネットワークを比較し、旅の切符となるのはあなたのパスポートです。"
 
-image: "img/esim/carriers/guatemala-esim-carrier-guide.jpg"
+image: "img/esim/carriers/guatemala-esim-carrier-guide.webp"
 
 date: "2026-09-26T00:25:44+00:00"
 

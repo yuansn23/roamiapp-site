@@ -4,7 +4,7 @@ title: "オマーン eSIM：観光客向けは Omantel、Ooredoo、Vodafone の�
 
 description: "Omantel、Ooredoo、Vodafone のどれ？ Roami がオマーン eSIM のマスカットの 5G、パスポート登録ルール、ワヒバ砂丘の圏外ゾーンを解説します。"
 
-image: "img/esim/carriers/oman-esim-carrier-guide.jpg"
+image: "img/esim/carriers/oman-esim-carrier-guide.webp"
 
 date: "2026-09-24T08:01:07+00:00"
 

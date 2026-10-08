@@ -1,7 +1,7 @@
 ---
 title: "エクアドルのeSIMキャリア：Claro、Movistar、CNTを比較"
 description: "RoamiがエクアドルのeSIMキャリア——Claro、Movistar、CNT——を読み解きます。本土の5G、アマゾンへの到達範囲、ガラパゴスのカバー限界をお伝えします。"
-image: "img/esim/carriers/ecuador-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ecuador-esim-carrier-guide.webp"
 date: "2026-09-26T09:50:40+00:00"
 keywords: エクアドル eSIM, エクアドル eSIMキャリア, エクアドル eSIM事業者, Claro eSIM, Movistar eSIM, Tigo eSIM, CNT eSIM, エクアドル 5Gカバー, eSIM エクアドル プリペイド
 site_name: Roami

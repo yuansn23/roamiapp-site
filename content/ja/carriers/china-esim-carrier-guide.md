@@ -1,7 +1,7 @@
 ---
 title: "中国eSIMキャリア：登録、ルーティング、アプリ"
 description: "Roamiが、中国を訪れる方のためのChina MobileとChina UnicomのeSIM規則、および中国で実用的なルートとしてのトラベルeSIMを解説します。"
-image: "img/esim/carriers/china-esim-carrier-guide.jpg"
+image: "img/esim/carriers/china-esim-carrier-guide.webp"
 date: "2026-09-27T13:44:42+00:00"
 keywords: 中国eSIM, 中国eSIMキャリア, 中国旅行インターネット, China Mobile eSIM, China Unicom eSIM, プラグアンドプレイeSIM, 中国ローミング料金回避, 中国旅行eSIM, Great Wall eSIM, 上海eSIM, 北京eSIM
 site_name: Roami

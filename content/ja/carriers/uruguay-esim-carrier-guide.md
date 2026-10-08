@@ -4,7 +4,7 @@ title: "Antel vs Movistar vs Claro：ウルグアイのeSIMキャリア"
 
 description: "Antel、Movistar、Claroのどれを選ぶべきか？ Roamiが3つのウルグアイeSIMキャリアを、モンテビデオからCabo Polonioの電波空白地帯まで比較します。"
 
-image: "img/esim/carriers/uruguay-esim-carrier-guide.jpg"
+image: "img/esim/carriers/uruguay-esim-carrier-guide.webp"
 
 date: "2026-09-23T04:05:53+00:00"
 

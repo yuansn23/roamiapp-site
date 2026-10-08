@@ -1,7 +1,7 @@
 ---
 title: "クウェートeSIMキャリア：Zain、Ooredoo、stc、KYC不要"
 description: "現地IDは不要です。RoamiがZainとOoredooを比較し、空港の列から静かな郊外までクウェートeSIMの価格を測ります。"
-image: "img/esim/carriers/kuwait-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kuwait-esim-carrier-guide.webp"
 date: "2026-09-25T03:21:00+00:00"
 keywords: eSIM クウェート, クウェートeSIMキャリア, Zain Kuwait, Ooredoo Kuwait, stc Kuwait, 5Gネットワーク, プリペイドデータクウェート, 旅行eSIM
 site_name: Roami

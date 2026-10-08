@@ -1,7 +1,7 @@
 ---
 title: "Telia 対 Bitė 対 Tele2：リトアニア eSIM キャリアガイド"
 description: "RoamiがリトアニアのeSIMキャリア、Telia・Bite・Tele2を比較。ラトビアまたはポーランド国境でデータプランがどうなるかも解説。"
-image: "img/esim/carriers/lithuania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/lithuania-esim-carrier-guide.webp"
 date: "2026-09-25T20:35:06+00:00"
 keywords: リトアニア eSIM キャリア, リトアニア eSIM, リトアニア 出張, Telia リトアニア, Bitė リトアニア, Tele2 リトアニア, 5G リトアニア, 旅行用 eSIM, ローミング料金なし リトアニア, 信頼できるネットワーク リトアニア
 site_name: Roami

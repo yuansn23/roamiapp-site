@@ -1,7 +1,7 @@
 ---
 title: "イギリスeSIMキャリア：EE、Vodafone、O2、Three"
 description: "Roamiは、EE、Vodafone、Three、Virgin Media O2の5G速度をイギリス全土で比較し、あなたに合ったキャリアeSIM選びをサポートします。"
-image: "img/esim/carriers/united-kingdom-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-kingdom-esim-carrier-guide.webp"
 date: "2026-09-23T10:15:47+00:00"
 keywords: イギリスeSIM, プリペイドデータ, 5Gネットワーク, UK eSIM, トラベルeSIM, イギリス デジタルノマド, イギリス eSIM キャリア, イギリス eSIM 事業者, EE eSIM, Vodafone eSIM, Three eSIM, Virgin Media O2 eSIM
 site_name: Roami

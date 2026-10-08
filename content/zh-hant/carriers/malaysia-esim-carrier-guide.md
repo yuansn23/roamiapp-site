@@ -3,7 +3,7 @@
 title: "馬來西亞 eSIM 怎麼挑？Maxis、CelcomDigi、U Mobile 比較"
 
 description: "馬來西亞 eSIM 要辦 Maxis、CelcomDigi 還是 U Mobile？Roami 為你解析從吉隆坡機場到婆羅洲沙巴、砂拉越的覆蓋率差異，詳解 MCMC 護照註冊規定、預付資費與 APN 設定，幫你依行程選出馬來西亞最穩的 eSIM。"
-image: "img/esim/carriers/malaysia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/malaysia-esim-carrier-guide.webp"
 
 date: "2026-09-25T11:27:45+00:00"
 

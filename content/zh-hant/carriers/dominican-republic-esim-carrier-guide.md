@@ -3,7 +3,7 @@ redirect_to: "/dominican-esim/"
 sitemap: false
 title: "多明尼加 eSIM 怎麼挑？Claro、Altice 度假上網完整攻略"
 description: "多明尼加度假村的 Wi-Fi 過了自助餐廳就沒訊號。Roami 說明旅客該在 Claro 與 Altice 之間怎麼選，比較兩家的覆蓋、網速與預付價格，無論待在全包度假村或前往海岸之外，都能挑到訊號穩定的多明尼加共和國 eSIM，訊號更有保障。"
-image: "img/esim/carriers/dominican-republic-esim-carrier-guide.jpg"
+image: "img/esim/carriers/dominican-republic-esim-carrier-guide.webp"
 date: "2026-09-26T12:58:07+00:00"
 keywords: 多明尼加 eSIM 電信業者, 多明尼加 eSIM 營運商, Claro eSIM, Altice Dominicana eSIM, Viva eSIM, 多明尼加 5G 覆蓋率, Punta Cana eSIM, 多明尼加預付 eSIM, 多明尼加最佳 eSIM 電信業者
 site_name: Roami

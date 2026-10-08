@@ -5,7 +5,7 @@ title: "冰島 eSIM 該選哪家？Síminn、Vodafone、Nova 環島評比"
 
 
 description: "冰島 eSIM 要辦哪一家電信業者？Roami 比較 Síminn、Vodafone 與 Nova 的覆蓋率與網速，標出誰的訊號能撐到一號環島公路之外的高地與峽灣，整理預付資費、申辦規定與 APN 設定，自駕環島全程不迷路、不斷線，自駕更安心。"
-image: "img/esim/carriers/iceland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iceland-esim-carrier-guide.webp"
 
 
 date: "2026-09-26T15:08:23+00:00"

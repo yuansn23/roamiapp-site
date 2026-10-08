@@ -1,7 +1,7 @@
 ---
 title: "羅馬尼亞 eSIM 該選哪家？Orange、DIGI 性價比比較"
 description: "羅馬尼亞 eSIM 要辦哪一家電信商？Orange 與 DIGI 為當地立下性價比標竿。Roami 就網速、覆蓋率與資費比較兩者，從布加勒斯特到特蘭西瓦尼亞的公路旅行路線逐段實測，整理預付方案與 APN，幫你選對羅馬尼亞 eSIM，公路旅行更順。"
-image: "img/esim/carriers/romania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/romania-esim-carrier-guide.webp"
 date: "2026-09-24T13:46:25+00:00"
 keywords: eSIM 羅馬尼亞, 羅馬尼亞 eSIM 電信商, Orange 羅馬尼亞, DIGI 羅馬尼亞, Vodafone 羅馬尼亞, 預付卡流量, 5G 網路, 羅馬尼亞行動上網
 site_name: Roami

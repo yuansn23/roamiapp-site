@@ -1,7 +1,7 @@
 ---
 title: "コロンビアのeSIMキャリア：Claro vs Tigo vs Movistar"
 description: "コロンビアのeSIMキャリアはどれがおすすめ？ RoamiがClaro、Tigo、Movistarを5G基地局数、都市別の速度、山間部のカバレッジで比較します。"
-image: "img/esim/carriers/colombia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/colombia-esim-carrier-guide.webp"
 date: "2026-09-27T10:41:15+00:00"
 keywords: コロンビア eSIM, コロンビア eSIM キャリア, Claro eSIM, Tigo eSIM, Movistar eSIM, WOM, コロンビア 5G ネットワーク, プリペイド データ, 旅行用 eSIM
 site_name: Roami

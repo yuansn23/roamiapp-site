@@ -1,7 +1,7 @@
 ---
 title: "ペルー eSIM キャリア比較：Claro、Entel、Bitel を比較"
 description: "Roami が Claro、Entel、Bitel をペルーの海岸、アンデス、アマゾンでテストし、あなたのルートで持ちこたえる eSIM キャリアを選べます。"
-image: "img/esim/carriers/peru-esim-carrier-guide.jpg"
+image: "img/esim/carriers/peru-esim-carrier-guide.webp"
 date: "2026-09-24T23:20:46+00:00"
 keywords: eSIM ペルー, ペルー eSIM キャリア, ペルー モバイル事業者, プリペイド データ, 5G ネットワーク, Claro, Entel, Mi Fibra, Speedtest, 旅行用 eSIM
 site_name: Roami

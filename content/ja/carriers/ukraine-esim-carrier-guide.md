@@ -1,7 +1,7 @@
 ---
 title: "ウクライナeSIMキャリア：Kyivstar、Vodafone、lifecell"
 description: "Roamiは、Kyivstar、Vodafone Ukraine、lifecellのeSIMキャリアをレジリエンスで比較し、あなたのウクライナeSIMが停電を耐え抜くよう支援します。"
-image: "img/esim/carriers/ukraine-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ukraine-esim-carrier-guide.webp"
 date: "2026-09-23T16:21:41+00:00"
 keywords: ウクライナ eSIM, ウクライナ eSIM キャリア, Kyivstar eSIM, Vodafone Ukraine, lifecell eSIM, ウクライナ トラベルeSIM, ウクライナ ローミング料金なし, ウクライナ 観光客向けeSIM
 site_name: Roami

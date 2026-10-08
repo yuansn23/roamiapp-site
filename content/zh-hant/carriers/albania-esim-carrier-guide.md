@@ -4,7 +4,7 @@ title: "阿爾巴尼亞 eSIM 該選哪家電信業者？Vodafone 與 One 完整�
 
 description: "前往阿爾巴尼亞旅行，不確定 eSIM 要辦哪一家電信業者？Roami 實測比較 Vodafone 與 One 的 5G 網速、覆蓋率與預付價格，整理護照申辦規定與 APN 設定，讓你一落地就有網路，出發前一次搞懂，免去機場排隊換卡，訊號一路穩。"
 
-image: "img/esim/carriers/albania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/albania-esim-carrier-guide.webp"
 
 date: "2026-09-27T08:13:00+00:00"
 

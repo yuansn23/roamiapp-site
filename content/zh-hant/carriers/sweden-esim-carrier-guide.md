@@ -1,7 +1,7 @@
 ---
 title: "瑞典 eSIM 該選哪家？Telia、Tele2、Telenor、Tre 比較"
 description: "瑞典 eSIM 要辦哪一家電信業者？城市跑在高速 5G 上，北方的諾爾蘭考驗耐心。Roami 比較 Telia、Tele2、Telenor 與 Tre 的覆蓋與資費，從斯德哥爾摩到極光路線逐段實測，整理 APN 設定，幫你選對瑞典 eSIM。"
-image: "img/esim/carriers/sweden-esim-carrier-guide.jpg"
+image: "img/esim/carriers/sweden-esim-carrier-guide.webp"
 date: "2026-09-23T13:38:50+00:00"
 keywords: Sweden eSIM carriers, Telia eSIM, Tele2 eSIM, Telenor Sweden eSIM, Tre eSIM, Sweden 5G coverage, eSIM Sweden prepaid, best eSIM carrier Sweden
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
 title: "ベラルーシ eSIM キャリア：A1、MTS、life:) を比較"
 description: "Roami がベラルーシ eSIM 向けに A1、MTS、life:) を比較 — そしてどのキャリアが使えるかを決める現金、カード、登録規則。"
-image: "img/esim/carriers/belarus-esim-carrier-guide.jpg"
+image: "img/esim/carriers/belarus-esim-carrier-guide.webp"
 date: "2026-09-27T10:31:51+00:00"
 keywords: ベラルーシ eSIM, ベラルーシ eSIM キャリア, 高速データ, A1 ベラルーシ, MTS, life:), 旅行 eSIM, ローミング料金なし, ミンスク, 独立大通り
 site_name: Roami

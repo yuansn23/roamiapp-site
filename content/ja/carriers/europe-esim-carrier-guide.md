@@ -1,7 +1,7 @@
 ---
 title: "ヨーロッパ eSIM：Orange、Vodafone、T-Mobile を比較"
 description: "Roami が Orange から Vodafone まで、30 以上の国をまたぐヨーロッパの eSIM 事業者を比較。ひとつの地域プランで越える国境すべてをカバーします。"
-image: "img/esim/carriers/europe-esim-carrier-guide.jpg"
+image: "img/esim/carriers/europe-esim-carrier-guide.webp"
 date: "2026-09-26T22:09:52+00:00"
 keywords: ヨーロッパ eSIM, 出張 eSIM, Vodafone ヨーロッパ, Deutsche Telekom ヨーロッパ, ローミング料金なし, 信頼できるネットワーク ヨーロッパ
 site_name: Roami

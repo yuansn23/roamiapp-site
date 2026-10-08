@@ -1,7 +1,7 @@
 ---
 title: "日本 eSIM 該選哪家電信？Docomo、SoftBank、au、Rakuten 比較"
 description: "不知道日本 eSIM 該辦哪一家電信業者？Roami 為你比較 Docomo、au、SoftBank 與 Rakuten 的網速、覆蓋率與預付規定，從東京、大阪到北海道與沖繩逐段實測，整理 APN 設定與挑選建議，幫你日本落地即上網，關西北海道都順。"
-image: "img/esim/carriers/japan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/japan-esim-carrier-guide.webp"
 date: "2026-09-25T15:13:47+00:00"
 keywords: 日本 eSIM 電信業者, Docomo eSIM, au eSIM, SoftBank eSIM, Rakuten Mobile eSIM, 日本 5G 覆蓋率, 日本 eSIM APN, eSIM 日本預付卡, 日本最佳 eSIM 電信業者, 日本旅遊 eSIM
 site_name: Roami

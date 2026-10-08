@@ -1,7 +1,7 @@
 ---
 title: "泰國 eSIM 該選哪家？AIS、TrueMove H、dtac 完整比較"
 description: "泰國 eSIM 要辦哪一家電信業者？Roami 依據 Ookla 2025 上半年速度數據、NBTC 護照註冊規定與南部離島覆蓋率，比較 AIS、TrueMove H 與 dtac 的資費與網速，從曼谷到清邁與普吉，幫你選對泰國 eSIM。"
-image: "img/esim/carriers/thailand-esim-carrier-guide.jpg"
+image: "img/esim/carriers/thailand-esim-carrier-guide.webp"
 date: "2026-09-23T04:25:29+00:00"
 keywords: 泰國 eSIM 電信業者, AIS eSIM, TrueMove H eSIM, dtac eSIM, 泰國 5G 覆蓋率, 泰國 eSIM APN, eSIM 泰國預付卡, 泰國最佳 eSIM 電信業者
 site_name: Roami

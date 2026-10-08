@@ -4,7 +4,7 @@ title: "デンマークのeSIMキャリア：Telia、YouSee、Telenor、3"
 
 description: "RoamiがデンマークのeSIMキャリア——Telia、YouSee、Telenor、3——を比較し、EUローミング、空港の行列、電波が弱くなる場所について解説します。"
 
-image: "img/esim/carriers/denmark-esim-carrier-guide.jpg"
+image: "img/esim/carriers/denmark-esim-carrier-guide.webp"
 
 date: "2026-09-26T19:30:01+00:00"
 

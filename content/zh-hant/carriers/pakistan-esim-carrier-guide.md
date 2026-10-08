@@ -5,7 +5,7 @@ title: "巴基斯坦 eSIM 怎麼挑？Jazz、Zong、Transworld 比較"
 
 
 description: "巴基斯坦 eSIM 要辦哪一家電信業者？Roami 將 Jazz 與 Zong 一較高下，比較實測 5G 網速、城市覆蓋率與全國旅行路線上的表現，整理預付資費、申辦規定與 APN 設定，從伊斯蘭瑪巴德到喀喇蚩，幫你選對 eSIM，南北行程都順。"
-image: "img/esim/carriers/pakistan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/pakistan-esim-carrier-guide.webp"
 
 
 date: "2026-09-24T05:22:40+00:00"

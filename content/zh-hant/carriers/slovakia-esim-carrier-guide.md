@@ -5,7 +5,7 @@ title: "斯洛伐克 eSIM 該選哪家？Telekom、Orange、O2、4ka 比較"
 
 
 description: "斯洛伐克 eSIM 要辦哪一家電信業者？Roami 評測 Telekom、Orange、O2 與平價業者 4ka 的網速、覆蓋率與預付資費，從布拉提斯拉瓦、科希策到塔特拉山公路旅行路線逐段檢視，整理 APN 設定，幫你選對斯洛伐克 eSIM。"
-image: "img/esim/carriers/slovakia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/slovakia-esim-carrier-guide.webp"
 
 
 date: "2026-09-23T02:03:37+00:00"

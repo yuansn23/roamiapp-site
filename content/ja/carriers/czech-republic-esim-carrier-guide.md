@@ -1,7 +1,7 @@
 ---
 title: "チェコ共和国 eSIM キャリア：どのネットワークを選ぶか？"
 description: "Roami が Vodafone CZ、T-Mobile CZ、O2 CZ を比較し、チェコ共和国 eSIM をプラハの便利な中心部から支線の田舎まで解説します。"
-image: "img/esim/carriers/czech-republic-esim-carrier-guide.jpg"
+image: "img/esim/carriers/czech-republic-esim-carrier-guide.webp"
 date: "2026-09-27T22:01:28+00:00"
 keywords: チェコ eSIM, Vodafone CZ eSIM, T-Mobile CZ eSIM, チェコ トラベル eSIM, ローミング料金回避, プラハ城 eSIM, 即時有効化 eSIM
 site_name: Roami

@@ -1,7 +1,7 @@
 ---
 title: "歐洲 eSIM 該選哪家？Orange、Vodafone、T-Mobile 跨國比較"
 description: "歐洲多國旅行，eSIM 該辦哪一家？Roami 比較 Orange、Vodafone 與 T-Mobile 等電信業者在 30 多個國家的覆蓋、網速與跨國資費，說明單一區域方案如何涵蓋你跨越的每一道邊境，整理挑選建議，一張 eSIM 通行歐洲。"
-image: "img/esim/carriers/europe-esim-carrier-guide.jpg"
+image: "img/esim/carriers/europe-esim-carrier-guide.webp"
 date: "2026-09-26T22:09:52+00:00"
 keywords: 歐洲 eSIM, 商務旅遊 eSIM, Vodafone 歐洲, Deutsche Telekom 歐洲, 免漫遊費, 歐洲可靠網路
 site_name: Roami

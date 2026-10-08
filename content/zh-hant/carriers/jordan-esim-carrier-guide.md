@@ -1,7 +1,7 @@
 ---
 title: "約旦 eSIM 怎麼挑？Zain、Orange、Umniah 三大業者比較"
 description: "約旦 eSIM 要辦哪一家電信業者？Roami 比較 Zain、Orange 與 Umniah 的網速、覆蓋率與資費，從安曼的 5G 基地台一路實測到通往佩特拉的沙漠公路與瓦地倫谷地，整理預付方案與 APN 設定，幫你約旦全程不斷線，全程都順暢。"
-image: "img/esim/carriers/jordan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/jordan-esim-carrier-guide.webp"
 date: "2026-09-25T12:09:20+00:00"
 keywords: 約旦 eSIM, 約旦 eSIM 電信業者, 約旦旅遊上網, Zain Jordan, Orange Jordan, Umniah eSIM, 佩特拉 eSIM, 死海數據, 免設定 eSIM, 約旦免漫遊費
 site_name: Roami

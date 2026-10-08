@@ -4,7 +4,7 @@ title: "阿根廷 eSIM 該選哪家？Personal、Claro、Movistar 三大業者�
 
 description: "阿根廷 eSIM 該辦哪一家電信業者？Roami 將 Personal、Claro 與 Movistar 三大業者投入 5G 實測，從布宜諾斯艾利斯到巴塔哥尼亞逐段比較覆蓋率、網速與資費，整理預付方案與 APN 設定，幫你依行程選出最適合的阿根廷 eSIM。"
 
-image: "img/esim/carriers/argentina-esim-carrier-guide.jpg"
+image: "img/esim/carriers/argentina-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:32:06+00:00"
 

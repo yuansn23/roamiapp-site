@@ -3,7 +3,7 @@
 title: "南非 eSIM 怎麼挑？Vodacom、MTN、Cell C 與 RICA 解析"
 
 description: "南非 eSIM 要辦哪一家電信業者？RICA 實名制讓當地 SIM 申辦變慢，Roami 解釋旅客適用的豁免規定，並權衡 Vodacom、MTN 與 Cell C 的網速、覆蓋率與資費，從開普敦到克魯格國家公園，幫你選對南非 eSIM，獵遊自駕都安心。"
-image: "img/esim/carriers/south-africa-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-africa-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:27:11+00:00"
 

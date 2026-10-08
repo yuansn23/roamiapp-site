@@ -1,7 +1,7 @@
 ---
 title: "シンガポールの eSIM キャリア比較：Singtel、StarHub、M1"
 description: "Roami がシンガポールの eSIM について Singtel と M1 を比較。プリペイドの旅行者プラン、Ookla の実測速度、IMDA のパスポート規則を紹介します。"
-image: "img/esim/carriers/singapore-esim-carrier-guide.jpg"
+image: "img/esim/carriers/singapore-esim-carrier-guide.webp"
 date: "2026-09-23T04:42:04+00:00"
 keywords: シンガポール eSIM キャリア, Singtel eSIM, StarHub eSIM, M1 eSIM, シンガポール 旅行者 eSIM, シンガポール 5G バンド, シンガポール eSIM APN, eSIM シンガポール プリペイド, おすすめ eSIM キャリア シンガポール, シンガポール プリペイド SIM 登録
 site_name: Roami

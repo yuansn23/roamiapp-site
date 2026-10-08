@@ -1,7 +1,7 @@
 ---
 title: "愛爾蘭 eSIM 該選哪家？Three、Vodafone、Eir 比較"
 description: "愛爾蘭 eSIM 要辦哪一家電信業者？Roami 針對實測網速、預付卡規定與 APN 設定，為短期停留的訪客比較 Three、Vodafone 與 Eir，從都柏林到莫赫懸崖與凱里環線逐段檢視覆蓋，幫你挑出愛爾蘭全程穩定的 eSIM，自駕更放心。"
-image: "img/esim/carriers/ireland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ireland-esim-carrier-guide.webp"
 date: "2026-09-25T00:37:08+00:00"
 keywords: 愛爾蘭 eSIM 電信業者, 愛爾蘭 eSIM 業者, Three eSIM, Vodafone eSIM, Eir eSIM, 愛爾蘭 5G 覆蓋率, 愛爾蘭 eSIM APN, 愛爾蘭預付卡 eSIM, 愛爾蘭最佳 eSIM 電信業者, 愛爾蘭 travel eSIM, 北愛爾蘭漫遊
 site_name: Roami

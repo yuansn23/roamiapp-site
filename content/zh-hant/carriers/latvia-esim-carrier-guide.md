@@ -1,7 +1,7 @@
 ---
 title: "拉脫維亞 eSIM 怎麼挑？LMT、Tele2、Bite 三家業者比較"
 description: "拉脫維亞 eSIM 要辦 LMT、Tele2 還是 Bite？Roami 比較三家電信業者的網速、覆蓋率與預付資費，從里加市區到波羅的海海岸與鄉間路線逐段實測，詳解櫃檯護照規定與 APN 設定，幫你挑出拉脫維亞最適合的 eSIM，波羅的海一路通。"
-image: "img/esim/carriers/latvia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/latvia-esim-carrier-guide.webp"
 date: "2026-09-25T23:56:33+00:00"
 keywords: 拉脫維亞 eSIM, 拉脫維亞 eSIM 電信業者, 購買拉脫維亞 eSIM, 即時連網, LMT 拉脫維亞, Tele2 拉脫維亞, 里加老城, 避開漫遊費, 旅遊 eSIM, 波羅的海旅遊
 site_name: Roami

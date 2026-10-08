@@ -1,7 +1,7 @@
 ---
 title: "マカオのeSIMキャリア：CTM、China Telecom、3 Macau"
 description: "マカオは小さいながらもキャリア選びが重要です。RoamiがマカオのeSIMについてCTMとChina Telecomを比較し、香港のプランがフェリーの向こう側で生き残るかも解説します。"
-image: "img/esim/carriers/macau-esim-carrier-guide.jpg"
+image: "img/esim/carriers/macau-esim-carrier-guide.webp"
 date: "2026-09-25T15:07:12+00:00"
 keywords: マカオ eSIM キャリア, CTM eSIM, China Telecom マカオ eSIM, 3 Macau eSIM, マカオ 5G 通信エリア, 香港 eSIM マカオ, マカオ プリペイド eSIM, マカオのおすすめ eSIM キャリア
 site_name: Roami

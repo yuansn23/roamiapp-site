@@ -4,7 +4,7 @@ title: "Telstra vs Optus vs Vodafone：オーストラリアeSIMキャリア"
 
 description: "どのオーストラリアeSIMキャリアがあなたのルートに合うか？ RoamiがTelstra、Optus、Vodafoneを都市5G、プリペイド規則、地域の空白で評価します。"
 
-image: "img/esim/carriers/australia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/australia-esim-carrier-guide.webp"
 
 date: "2026-09-27T22:51:39+00:00"
 

@@ -1,7 +1,7 @@
 ---
 title: "挪威 eSIM 怎麼挑？Telenor、Telia、ice 峽灣覆蓋比較"
 description: "在挪威，隧道能讓手機斷訊好幾英里。Roami 逐峽灣繪製 Telenor、Telia 與 ice 的覆蓋地圖，比較網速、預付資費與申辦規定，從奧斯陸到羅弗敦群島的渡輪與山路逐段實測，整理 APN 設定，幫你挪威全程不斷線，極圈峽灣渡輪都安心。"
-image: "img/esim/carriers/norway-esim-carrier-guide.jpg"
+image: "img/esim/carriers/norway-esim-carrier-guide.webp"
 date: "2026-09-24T11:09:34+00:00"
 keywords: 挪威 eSIM 業者, Telenor eSIM, Telia 挪威 eSIM, ice 挪威 eSIM, 挪威 5G 覆蓋率, 挪威峽灣覆蓋, 挪威 eSIM 預付卡, 挪威最佳 eSIM 業者
 site_name: Roami

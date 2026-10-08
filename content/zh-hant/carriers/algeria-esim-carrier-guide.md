@@ -4,7 +4,7 @@ title: "阿爾及利亞 eSIM 怎麼挑？Ooredoo、Mobilis 與 Djezzy 比較"
 
 description: "計畫去阿爾及利亞旅行，eSIM 不知道要挑哪一家電信業者？Roami 比較 Ooredoo、Mobilis 與 Djezzy 的網速、覆蓋率與資費價格，並整理旅客必知的實名登記規則與預付方案挑選建議，幫你出發前選對阿爾及利亞 eSIM，落地即上網。"
 
-image: "img/esim/carriers/algeria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/algeria-esim-carrier-guide.webp"
 
 date: "2026-09-27T05:20:33+00:00"
 

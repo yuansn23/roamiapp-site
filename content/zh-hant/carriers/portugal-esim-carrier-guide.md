@@ -1,7 +1,7 @@
 ---
 title: "葡萄牙 eSIM 怎麼挑？MEO、NOS、Vodafone、Digi 比較"
 description: "葡萄牙 eSIM 要辦哪一家電信業者？Roami 比較 MEO、NOS、Vodafone 與新進業者 Digi 的實測網速、覆蓋率與預付資費，從里斯本、波多到亞速群島的訊號實況，整理預付卡規定與 APN 設定，幫你選對葡萄牙 eSIM，酒莊古城都順路。"
-image: "img/esim/carriers/portugal-esim-carrier-guide.jpg"
+image: "img/esim/carriers/portugal-esim-carrier-guide.webp"
 date: "2026-09-24T16:43:52+00:00"
 keywords: Portugal eSIM carriers, MEO eSIM, NOS eSIM, Vodafone eSIM, Digi eSIM, 葡萄牙 5G 覆蓋率, 葡萄牙 eSIM APN, eSIM 葡萄牙預付卡, 葡萄牙最佳 eSIM 電信商, 葡萄牙旅遊 eSIM
 site_name: Roami

@@ -4,7 +4,7 @@ title: "ブルガリア eSIM キャリア：A1、Yettel、Vivacom の価格比�
 
 description: "Roami がブルガリアの eSIM について、A1、Yettel、Vivacom の価格をユーロ建てで比較。海岸・平原・山岳それぞれのカバレッジの特徴を解説します。"
 
-image: "img/esim/carriers/bulgaria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:44:30+00:00"
 

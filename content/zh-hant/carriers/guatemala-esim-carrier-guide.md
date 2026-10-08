@@ -4,7 +4,7 @@ title: "瓜地馬拉 eSIM 該選哪家？Claro、Tigo 覆蓋與價格比較"
 
 description: "瓜地馬拉 eSIM 要辦 Claro 還是 Tigo？Roami 繪製兩家網路在安地瓜、阿蒂特蘭湖與提卡爾遺跡的覆蓋地圖，比較網速、資費與預付方案，說明護照申辦規定，幫你從火山小鎮到雨林古蹟，全程都選對瓜地馬拉 eSIM，火山到雨林都放心。"
 
-image: "img/esim/carriers/guatemala-esim-carrier-guide.jpg"
+image: "img/esim/carriers/guatemala-esim-carrier-guide.webp"
 
 date: "2026-09-26T00:25:44+00:00"
 

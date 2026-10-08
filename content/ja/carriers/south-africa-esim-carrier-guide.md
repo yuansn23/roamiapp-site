@@ -1,7 +1,7 @@
 ---
 title: "南アフリカの eSIM キャリア：Vodacom、MTN、Cell C"
 description: "RICA により現地 SIM は遅い。Roami がその免除を説明し、到着前に南アフリカの eSIM について Vodacom と MTN を比較します。"
-image: "img/esim/carriers/south-africa-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-africa-esim-carrier-guide.webp"
 date: "2026-09-23T22:27:11+00:00"
 keywords: eSIM 南アフリカ, 南アフリカ eSIM キャリア, Vodacom eSIM, MTN eSIM, Cell C eSIM, 5G ネットワーク, プリペイド データ, ローミング
 site_name: Roami

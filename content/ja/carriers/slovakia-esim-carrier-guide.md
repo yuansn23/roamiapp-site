@@ -1,7 +1,7 @@
 ---
 title: "スロバキアの eSIM キャリア：Telekom、Orange、O2、4ka"
 description: "Roami がスロバキアの eSIM キャリア——Telekom、Orange、4ka——をレビュー。ブラチスラバ、コシツェ、タトラ山脈の周遊に向けたプランを紹介します。"
-image: "img/esim/carriers/slovakia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/slovakia-esim-carrier-guide.webp"
 date: "2026-09-23T02:03:37+00:00"
 keywords: eSIM スロバキア, スロバキア eSIM キャリア, Telekom Slovakia, Orange Slovakia, 4ka eSIM, スロバキア モバイル カバー範囲, プリペイド データ, 5G ネットワーク
 site_name: Roami

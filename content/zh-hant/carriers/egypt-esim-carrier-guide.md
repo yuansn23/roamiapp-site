@@ -4,7 +4,7 @@ title: "埃及 eSIM 怎麼挑？Vodafone、Orange、WE 與門市申辦解析"
 
 description: "埃及要求旅客親自到門市辦理 SIM 卡。Roami 比較 Vodafone、Orange 與 WE 的網速、覆蓋率與資費，從開羅、亞斯文到紅海度假區，並詳解能讓你免去排隊的 eSIM 途徑與 APN 設定，幫你埃及落地就順利上網，不花冤枉錢。"
 
-image: "img/esim/carriers/egypt-esim-carrier-guide.jpg"
+image: "img/esim/carriers/egypt-esim-carrier-guide.webp"
 
 date: "2026-09-26T06:57:13+00:00"
 

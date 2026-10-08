@@ -4,7 +4,7 @@ title: "香港 eSIM 該選哪家電信業者？CMHK、csl、SmarTone 比較"
 
 description: "香港 eSIM 要辦哪一家電信業者？Roami 比較 CMHK、csl 與 SmarTone 的 5G 網速、覆蓋率與旅客適用方案，從尖沙咀到離島逐段檢視，整理預付資費、申辦方式與 APN 設定，幫你香港落地即上網，逛街搭車都順暢，免換卡麻煩。"
 
-image: "img/esim/carriers/hong-kong-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hong-kong-esim-carrier-guide.webp"
 
 date: "2026-09-26T21:28:17+00:00"
 
