@@ -795,8 +795,8 @@
     "mainEntityOfPage": { "@type": "WebPage", "@id": {{ .Permalink | jsonify | safeJS }} },
     "headline": {{ .Title | jsonify | safeJS }},
     "description": {{ .Description | jsonify | safeJS }},
-    "datePublished": {{ .Date.Format "2006-01-02" | jsonify | safeJS }},
-    "dateModified": {{ (.Lastmod | default .Date).Format "2006-01-02" | jsonify | safeJS }},
+    "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" | jsonify | safeJS }},
+    "dateModified": {{ (.Lastmod | default .Date).Format "2006-01-02T15:04:05-07:00" | jsonify | safeJS }},
     "image": {{ if .Params.image }}{{ .Params.image | absURL | jsonify | safeJS }}{{ else }}{{ "/img/logo.png" | absURL | jsonify | safeJS }}{{ end }},
     "author": { "@type": "Organization", "name": {{ .Params.brand_name | jsonify | safeJS }} },
     "publisher": {
@@ -804,8 +804,7 @@
         "name": {{ .Params.brand_name | jsonify | safeJS }},
         "logo": { "@type": "ImageObject", "url": {{ "/img/logo.png" | absURL | jsonify | safeJS }} }
     }
-  },
-  {{ if .Params.breadcrumb_items }}
+  }{{ if .Params.breadcrumb_items }},
   {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -820,9 +819,7 @@
         }{{ if lt (add $index 1) $len }},{{ end }}
       {{ end }}
     ]
-  },
-  {{ end }}
-  {{ if .Params.faq }}
+  }{{ end }}{{ if .Params.faq }},
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
