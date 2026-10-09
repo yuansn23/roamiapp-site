@@ -3,7 +3,7 @@ title: "Japan eSIM Reviews: Reddit and Trustpilot Feedback"
 description: "Real Japan eSIM reviews from Reddit and Trustpilot. See what users say about Ubigi, Airalo, Holafly and more before you buy."
 keywords: ["japan esim reviews", "reddit japan esim", "best esim for japan reddit", "abroad in japan esim", "journey japan esim reviews", "ubigi japan review", "airalo japan review", "holafly japan review"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-reviews-guide.jpg"
@@ -263,7 +263,7 @@ MobiMatter offers aggressive pricing — 20GB for $13.99 USD works out to only $
 
 ### Roami
 
-Roami Japan eSIM starts at $1.99 for 1GB (3 days), with 10GB at $8.99 ($7.19 after the WEB20 discount), featuring smart switching across NTT Docomo, SoftBank, and au.
+Roami is a newer entrant with smart switching across NTT Docomo, SoftBank, and au, which users on multi-region itineraries flag as useful when a single-carrier plan drops out in rural legs. As with any newer brand, check recent Trustpilot and Reddit threads for current activation and support reports before you buy.
 
 
 ## 8. The Most Common Complaints About Japan eSIMs

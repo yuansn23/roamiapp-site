@@ -3,7 +3,7 @@ title: "Japan eSIM Price Guide 2026: Cost per GB and per Day"
 description: "Japan eSIM prices compared for 2026. What Airalo, Ubigi, Holafly and Nomad charge per GB and per day, the cheapest plan for each trip length, and where the hidden costs are."
 keywords: ["japan esim price", "how much does a japan esim cost", "japan esim cost per day", "cheapest japan esim", "japan esim deals", "japan esim price per gb", "japan esim cost for 10 days"]
 date: 2026-09-22T00:00:00Z
-lastmod: 2026-09-22T00:00:00Z
+lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-price-guide.jpg"
@@ -178,6 +178,18 @@ Discounts on Japan eSIMs come from three places, and only one of them is reliabl
 ### Which discounts are worth chasing
 
 Treat "discount code" listicles with caution: many are affiliate pages recycling expired codes. The reliable discount is the **structural** one — buy the longer validity or the larger bundle and the per-GB price drops on its own.
+
+## 7b. Why two eSIMs on the same network are priced 3x apart
+
+Here is the part of Japan eSIM pricing that the provider comparison tables never show: **the brand on the box is not what you are buying.** Almost every travel eSIM is resold wholesale capacity from one of a small number of aggregators, who in turn lease it from Docomo, SoftBank or KDDI. Two plans sitting on the identical underlying product can be priced three to four times apart, and the difference has nothing to do with the network you connect to.
+
+Three consequences follow, and they are the most useful pricing lessons in this market:
+
+- **The cheapest plan and the most expensive plan can be the same product.** A 10 GB Japan plan has appeared anywhere from roughly $8 to over $28 for identical wholesale capacity. When you see a mid-tier brand charging three times the cheapest route to the same network, you are paying for brand and marketing, not coverage.
+- **What differs at the wholesale layer is routing, not towers.** A plan issued by a foreign aggregator typically routes through overseas servers (see the roaming-type vs local-type distinction), while a Japan-issued MVNO plan routes locally. That changes latency and Japanese IP access — but both attach to the same three carrier networks.
+- **The reliable value signal is disclosure, not price.** A provider that names its Japanese network, publishes its fair-use figure, and states when validity begins is telling you what you are buying. A provider that hides all three is asking you to buy on brand alone.
+
+The practical takeaway: when two plans look identical on paper, the honest tie-breakers are **which Japanese network it attaches to**, **whether it routes locally or overseas**, and **how clearly the provider documents its limits** — in that order. Price alone, at either end of the range, tells you the least.
 
 ## 8. Hidden Japan eSIM costs the headline price leaves out
 

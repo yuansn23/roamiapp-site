@@ -3,7 +3,7 @@ title: "Japan Korea Taiwan China eSIM: Top Multi-Country Plans"
 description: "Planning an East Asia trip? Compare the best eSIM for Japan, Korea, Taiwan, China and Australia in one multi-country plan."
 keywords: ["esim japan and korea", "best esim for japan and korea", "esim taiwan and japan", "china and japan esim", "esim for australia and japan", "asia multi-country eSIM", "east asia eSIM", "esim asia", "asia esim", "esim for asia", "best esim for asia", "best esim for asia travel"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/asia-multi-country-esim-guide.jpg"
@@ -160,7 +160,7 @@ A typical Taiwan-Japan trip might look like:
 - **3–5 days in Taipei:** Explore the night markets, hike Elephant Mountain, visit the National Palace Museum
 - **5–7 days in Japan:** Tokyo, Kyoto, Osaka — or a focused trip to one region
 
-For official Taiwan-side travel planning, the [Taiwan Tourism Administration](https://eng.taiwan.net.tw/) publishes English-language resources.
+For official Taiwan-side travel planning, the [Taiwan Tourism Administration](https://eng.taiwan.net.tw/) publishes English-language resources, and Japan's [National Tourism Organization](https://www.jnto.go.jp/) does the same for the Japan leg.
 
 **Cost example:** For a 10-day trip with moderate usage, a single Taiwan-Japan regional eSIM at ~$15–$25 is cheaper than buying separate Taiwan and Japan eSIMs at ~$10–$15 each. For Japan-only pricing, the [cost-per-GB breakdown](/blog/japan-esim-price-guide/) runs the same math.
 

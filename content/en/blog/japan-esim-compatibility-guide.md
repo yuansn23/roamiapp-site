@@ -1,9 +1,9 @@
 ---
 title: "Japan eSIM Compatibility Guide: Supported Phones"
 description: "Japan eSIM compatibility guide. Check if your iPhone, Samsung, Pixel or Xiaomi supports eSIM in Japan, plus China model notes."
-keywords: ["esim japan iphone", "japan esim iphone", "is esim available in japan", "do i need an esim for japan", "japan esim with phone number", "esim compatible phones japan", "iphone esim japan", "japan esim android", "samsung esim japan", "google pixel esim japan", "china iphone esim japan"]
+keywords: ["esim japan iphone", "japan esim iphone", "is esim available in japan", "do i need an esim for japan", "esim compatible phones japan", "iphone esim japan", "japan esim android", "samsung esim japan", "google pixel esim japan", "china iphone esim japan", "hong kong iphone esim japan", "japan esim band 19", "does my phone support esim japan"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-compatibility-guide.jpg"
@@ -183,7 +183,7 @@ Leave data roaming **off** on your home line. That single setting is what preven
 
 ## Part 4: Apple iPhone eSIM Compatibility — The Full List
 
-Apple has the broadest eSIM support of any manufacturer, with every iPhone since the XR (2018) supporting eSIM — [Apple's official eSIM support page](https://support.apple.com/en-us/HT212780) lists every eligible model. However, regional restrictions are significant.
+Apple has the broadest eSIM support of any manufacturer, with every iPhone since the XR (2018) supporting eSIM — [Apple's official eSIM support page](https://support.apple.com/en-us/HT212780) lists every eligible model, and the [GSMA eSIM specification](https://www.gsma.com/solutions-and-impact/technologies/esim/) is the standard behind the technology. However, regional restrictions are significant.
 
 ### iPhone Models That Support eSIM (All Regions)
 

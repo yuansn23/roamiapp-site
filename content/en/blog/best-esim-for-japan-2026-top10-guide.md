@@ -3,7 +3,7 @@ title: "Best Japan eSIM: Top 10 Picks Tested and Compared"
 description: "Looking for the best Japan eSIM? We tested 10 providers including Ubigi, Airalo and Holafly. Find the right plan for your trip."
 keywords: ["best esim for japan 2026", "japan esim top 10", "top 10 esim japan", "japan esim ranking", "which esim is best for japan", "best esim card for japan"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-top10-guide.jpg"
@@ -248,7 +248,7 @@ If you absolutely hate counting megabytes, **Holafly** is the **best Japan eSIM 
 
 ### Speed Test Results in Central Tokyo (2026)
 
-Independent measurements such as the [Speedtest Global Index for Japan](https://www.speedtest.net/global-index/japan) consistently rank Japan's tier-one networks among the world's fastest; individual eSIM provider results vary more with test conditions:
+Independent measurements such as the [Speedtest Global Index for Japan](https://www.speedtest.net/global-index/japan) consistently rank Japan's tier-one networks among the world's fastest; Japan's Ministry of Internal Affairs and Communications publishes the underlying [national spectrum and coverage statistics](https://www.soumu.go.jp/english/) behind those deployments. Individual eSIM provider results vary more with test conditions:
 
 | Provider | Network | Avg Download | Avg Upload | Latency | Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
