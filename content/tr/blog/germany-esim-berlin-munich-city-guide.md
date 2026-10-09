@@ -1,11 +1,11 @@
 ---
-title: "Germany eSIM in Berlin & Munich: City Connectivity Guide"
-description: "How a Germany eSIM performs in Berlin and Munich — airport arrival, transit apps, stadium and festival congestion, neighborhood coverage, and a realistic data budget for each city."
-keywords: ["esim germany berlin", "esim germany munich", "germany esim berlin", "germany esim munich"]
+title: "Berlin ve Münih'te Almanya eSIM: Şehir Bağlantı Rehberi"
+description: "Almanya eSIM'in Berlin ve Münih'te nasıl performans gösterdiği — havalimanı varışı, ulaşım uygulamaları, stadyum ve festival tıkanıklığı, mahalle kapsaması ve her şehir için gerçekçi bir veri bütçesi."
+keywords: ["esim germany berlin", "esim germany munich", "germany esim berlin", "germany esim munich", "berlin esim", "münih esim", "almanya esim berlin", "almanya esim münih"]
 date: 2026-10-08T00:00:00Z
 lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Roami güvenilir eSIM paketleri sunar, yılda 1 milyondan fazla gezgine hizmet verir ve gezginlerin dünya çapında bağlantıda kalması için otomatik yerel ağ geçişini destekler."
 image: "/img/esim/germany/germany-esim-berlin-munich-city-guide.jpg"
 categories: ["Germany", "eSIM", "Travel"]
 tags: ["Germany eSIM", "Travel eSIM"]
@@ -13,270 +13,270 @@ readingTime: 9
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Using a Germany eSIM in Berlin and Munich: A City Guide"
-productsTitle: "Popular eSIM Plans"
-hotPostsTitle: "Hot Articles"
-recentPostsTitle: "Recent Posts"
+h1title: "Berlin ve Münih'te Almanya eSIM Kullanımı: Bir Şehir Rehberi"
+productsTitle: "Popüler eSIM Planları"
+hotPostsTitle: "Öne Çıkan Makaleler"
+recentPostsTitle: "Son Yazılar"
 products:
-  - name: "Europe eSIM"
+  - name: "Avrupa eSIM"
     flag: "/img/flags/eu.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "europe"
-  - name: "USA eSIM"
+  - name: "ABD eSIM"
     flag: "/img/flags/us.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "united-states"
-  - name: "Japan eSIM"
+  - name: "Japonya eSIM"
     flag: "/img/flags/jp.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "japan"
 recentPosts:
-  - title: "eSIM Compatible Devices List"
+  - title: "eSIM Uyumlu Cihazlar Listesi"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
+  - title: "2026 Platformlar Arası eSIM Aktarımı"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Compatibility Guide"
+  - title: "iPhone SE eSIM Uyumluluk Kılavuzu"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
+  - title: "iPhone 11 eSIM Tam Kurulum Kılavuzu"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
 
-# Using a Germany eSIM in Berlin and Munich: A City Guide
+# Berlin ve Münih'te Almanya eSIM Kullanımı: Bir Şehir Rehberi
 
-A Germany eSIM behaves differently in Berlin than it does in Munich — not because the technology changes, but because the cities do. Berlin is sprawling, flat, and covered by three competing networks that each own different pockets of the city. Munich is compact, wealthy, and dense with network traffic that spikes violently during Oktoberfest and Bundesliga match days. This guide walks through what a Berlin visitor actually experiences, what a Munich trip demands from your data plan, and the city-specific apps and habits that make the difference between a smooth connection and a frustrating one.
+Bir Almanya eSIM'i Berlin'de Münih'te olduğundan farklı davranır — teknoloji değiştiği için değil, şehirler değiştiği için. Berlin dağınık, düz ve her biri şehrin farklı ceplerine sahip üç rakip ağ tarafından kapsanır. Münih kompakt, zengin ve Oktoberfest ile Bundesliga maç günlerinde şiddetle yükselen ağ trafiğiyle yoğundur. Bu rehber, bir Berlin ziyaretçisinin gerçekte ne yaşadığını, bir Münih seyahatinin veri paketinizden ne talep ettiğini ve sorunsuz bir bağlantı ile sinir bozucu bir bağlantı arasındaki farkı yaratan şehre özgü uygulamaları ve alışkanlıkları ele alır.
 
-This is a usage guide, not a signal map. If you want per-network coverage percentages, rural Germany, ICE trains and the Autobahn corridors, the [coverage guide for German cities and trains](/blog/germany-esim-coverage-cities-trains-alps/) handles that in depth.
+Bu bir kullanım rehberidir, sinyal haritası değil. Ağ bazında kapsama yüzdelerini, kırsal Almanya'yı, ICE trenlerini ve Autobahn koridorlarını istiyorsanız, [Alman şehirleri ve trenleri için kapsama rehberi](/blog/germany-esim-coverage-cities-trains-alps/) bunları derinlemesine ele alır.
 
-If you are choosing a plan for a single city, the two searches below cover most travellers: an **eSIM Germany Berlin** setup for a capital break, and an **eSIM Germany Munich** setup for a Bavaria trip. The same physical plan works for both — the difference is in how you configure it. A **Germany eSIM Berlin** install should have BVG or Jelbi added the same day, while a **Germany eSIM Munich** install should have MVGO ready before you land. Everything that follows applies to either city; the side-by-side comparison near the end of this page is where the two diverge.
+Tek bir şehir için paket seçiyorsanız, aşağıdaki iki arama çoğu gezgini kapsar: başkent tatili için bir **eSIM Almanya Berlin** kurulumu ve Bavyera gezisi için bir **eSIM Almanya Münih** kurulumu. Aynı fiziksel paket her ikisi için de çalışır — fark, onu nasıl yapılandırdığınızdadır. Bir **Almanya eSIM Berlin** kurulumunda BVG veya Jelbi aynı gün eklenmelidir; bir **Almanya eSIM Münih** kurulumunda ise MVGO inişten önce hazır olmalıdır. Aşağıdaki her şey her iki şehir için de geçerlidir; bu sayfanın sonundaki yan yana karşılaştırma, ikisinin ayrıldığı yerdir.
 
-**The short answer:** one Germany eSIM covers both cities with no change of plan. Berlin rewards a network that stays fast in dense, sprawling districts; Munich rewards one that holds up around the Hauptbahnhof, the stadium and the alpine day-trip stations. In both, the apps that matter — BVG and MVV ticketing, DB Navigator, bike and scooter rentals — need live data at the moment you use them, so a plan with data-roaming enabled and automatic network switching removes almost every practical problem. If you only want the conclusion: a **multi-network Germany eSIM with at least 5 GB** handles a three- to five-day city break in either city comfortably.
+**Kısa yanıt:** tek bir Almanya eSIM'i paket değişikliği olmadan her iki şehri de kapsar. Berlin, yoğun ve dağınık bölgelerde hızlı kalan bir ağı ödüllendirir; Münih, Hauptbahnhof, stadyum ve Alp günübirlik istasyonları çevresinde dayanıklı olan bir ağı ödüllendirir. Her ikisinde de önemli olan uygulamalar — BVG ve MVV biletleme, DB Navigator, bisiklet ve scooter kiralama — kullandığınız anda canlı veriye ihtiyaç duyar; bu yüzden veri dolaşımı etkin ve otomatik ağ geçişli bir paket neredeyse tüm pratik sorunları ortadan kaldırır. Yalnızca sonucu istiyorsanız: **en az 5 GB'lık çok ağlı bir Almanya eSIM'i**, her iki şehirde de üç ila beş günlük bir şehir tatilini rahatça karşılar.
 
-## Arriving in Berlin: Your eSIM's First Hour
+## Berlin'e Varış: eSIM'inizin İlk Saati
 
-Most international flights land at Berlin Brandenburg Airport (BER), south of the city. If you installed your Germany eSIM before departure, the first hour is uneventful in the best way: the profile connects as the plane doors open, Google Maps loads on the airport train, and you never touch a kiosk. If you have not activated yet, do it over the airport's free Wi-Fi rather than waiting for the city — airport cellular congestion is real, but the initial profile download only needs Wi-Fi. The [airport arrival guide](/blog/germany-esim-airport-arrival-guide/) compares BER, Frankfurt and Munich step by step.
+Çoğu uluslararası uçuş, şehrin güneyindeki Berlin Brandenburg Havalimanı'na (BER) iner. Almanya eSIM'inizi kalkıştan önce kurduysanız, ilk saat en iyi anlamda olaysızdır: uçak kapıları açılırken profil bağlanır, Google Maps havalimanı treninde yüklenir ve hiçbir büfeye dokunmazsınız. Henüz etkinleştirmediyseniz, şehri beklemek yerine havalimanının ücretsiz Wi-Fi'si üzerinden yapın — havalimanı hücresel tıkanıklığı gerçektir, ancak ilk profil indirmesi yalnızca Wi-Fi gerektirir. [Havalimanı varış rehberi](/blog/germany-esim-airport-arrival-guide/) BER, Frankfurt ve Münih'i adım adım karşılaştırır.
 
-The airport express (FEX) and regional trains take you to Hauptbahnhof in about 30 minutes, and the entire ride runs underground only briefly — your Germany eSIM holds a connection nearly the whole way, which is more than can be said for some deeper U-Bahn tunnels later.
+Havalimanı ekspresi (FEX) ve bölgesel trenler sizi yaklaşık 30 dakikada Hauptbahnhof'a götürür ve yolculuğun tamamı yalnızca kısa süreliğine yeraltında geçer — Almanya eSIM'iniz neredeyse tüm yol boyunca bağlantıyı korur; bu, daha sonra bazı daha derin U-Bahn tünelleri için söylenemeyecek bir şeydir.
 
-## Berlin Transit Apps That Need Your eSIM
+## eSIM'inize İhtiyaç Duyan Berlin Ulaşım Uygulamaları
 
-[Berlin's transit authority BVG](https://www.bvg.de/en) runs one of the better app ecosystems of any European city, and every useful feature assumes working mobile data:
+[Berlin'in ulaşım kurumu BVG](https://www.bvg.de/en), herhangi bir Avrupa şehrinin en iyi uygulama ekosistemlerinden birini işletir ve her yararlı özellik çalışan mobil veri varsayar:
 
-- **Fahrinfo and the BVG Tickets app** sell and display transit tickets, including single rides and day passes — your phone needs to be online at ticket inspection.
-- **Jelbi** bundles BVG transport with shared scooters, bikes, and cars into one mobility account; it verifies and unlocks vehicles in real time.
-- The **Deutschland-Ticket** — the flat monthly pass covering local transit nationwide — is sold digitally, and short-term visitors can use the same apps for day passes instead.
+- **Fahrinfo ve BVG Tickets uygulaması** tek yolculuklar ve günlük biletler dahil ulaşım biletlerini satar ve gösterir — bilet kontrolünde telefonunuzun çevrimiçi olması gerekir.
+- **Jelbi**, BVG ulaşımını paylaşımlı scooter, bisiklet ve arabalarla tek bir hareketlilik hesabında birleştirir; araçları gerçek zamanlı olarak doğrular ve kilitlerini açar.
+- **Deutschland-Ticket** — ülke çapında yerel ulaşımı kapsayan sabit aylık bilet — dijital olarak satılır ve kısa süreli ziyaretçiler aynı uygulamaları günlük biletler için kullanabilir.
 
-None of these apps work from a cached screen, which is exactly why an eSIM in Germany beats hotel Wi-Fi reliance: ticket purchasing happens on the platform, at the station, often seconds before the train doors close.
+Bu uygulamaların hiçbiri önbelleğe alınmış bir ekrandan çalışmaz; bu tam da Almanya'da bir eSIM'in otel Wi-Fi'sine güvenmekten neden daha iyi olduğunu açıklar: bilet satın alma peronda, istasyonda, çoğu zaman tren kapıları kapanmadan saniyeler önce gerçekleşir.
 
-## Berlin and Munich Transit Fares in 2026: Where a Germany eSIM Buys the Ticket
+## 2026'da Berlin ve Münih Ulaşım Tarifeleri: Almanya eSIM'in Bileti Nerede Aldığı
 
-Both cities repriced their networks on 1 January 2026, and in both cities the ticket that matters is the one you buy on your phone while standing on a platform. That is the practical link between public transport and your Germany eSIM: a phone ticket is valid the moment you buy it, a paper ticket is not until it is stamped, and inspectors fine accordingly.
+Her iki şehir de ağlarını 1 Ocak 2026'da yeniden fiyatlandırdı ve her iki şehirde de önemli olan bilet, peronda ayakta dururken telefonunuzdan satın aldığınızdır. Toplu taşıma ile Almanya eSIM'iniz arasındaki pratik bağ budur: telefon bileti satın aldığınız anda geçerlidir, kağıt bilet ise damgalanana kadar değildir ve kontrolörler buna göre ceza keser.
 
-**Berlin (VBB tariff, from 1 January 2026, as listed by [BVG](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets)):**
+**Berlin (VBB tarifesi, 1 Ocak 2026'dan itibaren, [BVG](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets) tarafından listelendiği üzere):**
 
-*Transit fares below were collected from BVG, VBB and MVV fare pages on 8 October 2026. German transit fares are revised annually and sometimes mid-year, so confirm the current price before you travel.*
+*Aşağıdaki ulaşım tarifeleri 8 Ekim 2026'da BVG, VBB ve MVV tarife sayfalarından toplanmıştır. Alman ulaşım tarifeleri yıllık ve bazen yıl ortasında revize edilir; seyahatinizden önce güncel fiyatı doğrulayın.*
 
-| Ticket | Zone AB | Zone ABC (adds BER airport and Potsdam) |
+| Bilet | Bölge AB | Bölge ABC (BER havalimanı ve Potsdam'ı ekler) |
 |---|---|---|
-| Single, 2 hours one direction | €4.00 | €5.00 |
-| Short trip (Kurzstrecke: 3 train or 6 bus stops) | €2.80 | — |
-| 4-trip card | €12.40 (€3.10 a ride) | — |
-| 24-hour ticket | €11.20 | €12.90 |
-| 24-hour ticket for up to 5 people | €35.30 | €37.70 |
+| Tek yön, tek yönde 2 saat | 4,00 € | 5,00 € |
+| Kısa yolculuk (Kurzstrecke: 3 tren veya 6 otobüs durağı) | 2,80 € | — |
+| 4 yolculuk kartı | 12,40 € (yolculuk başına 3,10 €) | — |
+| 24 saatlik bilet | 11,20 € | 12,90 € |
+| 5 kişiye kadar 24 saatlik bilet | 35,30 € | 37,70 € |
 
-Two of this year's changes are worth flagging because most guides have not caught up. Berlin's BC zone no longer exists, so your choice is AB or ABC — there is no cheaper outer-zone ticket to ask for. And the **7-day travel card has been retired**: it no longer appears among BVG's ticket products at all, which means a visitor staying five days or more now chooses between stacking 24-hour tickets and the Deutschlandticket. That nationwide pass costs €63 per calendar month, covers buses, trams, U-Bahn, S-Bahn and regional trains across Germany, and is sold only as a subscription — you have to cancel it by the 10th of a month for it to end with that month. Buying it for a one-week trip without understanding that rule is one of the few reliable ways to lose money on German public transport.
+Bu yılki değişikliklerden ikisi dikkat çekmeye değer çünkü çoğu rehber bunları yakalayamamıştır. Berlin'in BC bölgesi artık yok, yani seçiminiz AB veya ABC — isteyebileceğiniz daha ucuz bir dış bölge bileti yok. Ve **7 günlük seyahat kartı kaldırıldı**: artık BVG'nin bilet ürünleri arasında hiç görünmüyor; bu da beş gün veya daha fazla kalan bir ziyaretçinin artık 24 saatlik biletleri üst üste dizmek ile Deutschlandticket arasında seçim yaptığı anlamına gelir. Bu ülke çapındaki bilet takvim ayı başına 63 € tutar; Almanya genelinde otobüs, tramvay, U-Bahn, S-Bahn ve bölgesel trenleri kapsar ve yalnızca abonelik olarak satılır — bitmesini istediğiniz ayın 10'una kadar iptal etmeniz gerekir. Bu kuralı anlamadan bir haftalık bir seyahat için satın almak, Alman toplu taşımasında para kaybetmenin az sayıdaki güvenilir yolundan biridir.
 
-**Munich (MVV tariff, 2026 — the city's operator [MVG](https://www.mvg.de/) publishes the current sheets):**
+**Münih (MVV tarifesi, 2026 — şehrin operatörü [MVG](https://www.mvg.de/) güncel tarifeleri yayımlar):**
 
-| Ticket | Price | Covers |
+| Bilet | Fiyat | Kapsam |
 |---|---|---|
-| Airport-City-Day-Ticket, single | €17.50 | Airport (zone 5) plus the whole city until 6 a.m. the next day |
-| Airport-City-Day-Ticket, group of up to 5 | €32.60 | The same, for a group — about €6.50 a head |
-| Single ticket, zones M–5 (airport) | €15.10 | One journey including the airport |
-| Day ticket, zone M | about €9.90 | One adult, inner Munich only |
-| IsarCard 7, zone M | about €21.30 | Seven consecutive days of inner-city travel |
+| Airport-City-Day-Ticket, tek kişilik | 17,50 € | Havalimanı (bölge 5) artı ertesi gün 06:00'a kadar tüm şehir |
+| Airport-City-Day-Ticket, 5 kişiye kadar grup | 32,60 € | Aynısı, bir grup için — kişi başı yaklaşık 6,50 € |
+| Tek bilet, M–5 bölgeleri (havalimanı) | 15,10 € | Havalimanı dahil tek yolculuk |
+| Günlük bilet, M bölgesi | yaklaşık 9,90 € | Bir yetişkin, yalnızca Münih içi |
+| IsarCard 7, M bölgesi | yaklaşık 21,30 € | Yedi ardışık gün şehir içi seyahat |
 
-The pattern is identical in both cities. The ticket is bought in an app — BVG, VBB or Jelbi in Berlin; MVG, MVGO or the MVV app in Munich; DB Navigator works in both — and a paper ticket from a machine must be stamped in the platform validator before you board. A paper ticket that has been bought but not stamped counts as no ticket at all, and the on-the-spot fine in Berlin is €60. Offline timetable caches inside the BVG and MVGO apps help you plan, but purchase and validation both assume live data. That is the honest reason a Germany eSIM earns its place on a city break even when the sightseeing itself is entirely walkable — and the reason a plan sized for maps and messaging is usually enough, since ticket purchases are tiny next to video.
+Desen her iki şehirde de aynıdır. Bilet bir uygulamada satın alınır — Berlin'de BVG, VBB veya Jelbi; Münih'te MVG, MVGO veya MVV uygulaması; DB Navigator her ikisinde de çalışır — ve makineden alınan kağıt bilet, binmeden önce peron doğrulayıcısında damgalanmalıdır. Satın alınmış ama damgalanmamış bir kağıt bilet hiç bilet sayılmaz ve Berlin'de yerinde kesilen ceza 60 €'dur. BVG ve MVGO uygulamalarındaki çevrimdışı tarife önbellekleri planlama yapmanıza yardımcı olur, ancak hem satın alma hem de doğrulama canlı veri varsayar. Görülecek yerler tamamen yürünebilir olsa bile bir Almanya eSIM'inin bir şehir tatilinde yerini kazanmasının dürüst nedeni budur — ve haritalar ve mesajlaşma için boyutlandırılmış bir paketin genellikle yeterli olmasının nedeni, çünkü bilet satın alımları video yanında küçüktür.
 
-## Berlin: Where a Germany eSIM Struggles
+## Berlin: Almanya eSIM'in Zorlandığı Yerler
 
-Berlin's weak spots are predictable. Deep U-Bahn stations in the eastern segments still have dead patches on one or two networks — multi-carrier switching helps here, because a plan that can hop between Telekom, Vodafone and O2 simply follows whichever network has invested in that tunnel. Large concrete structures like the Fernsehturm viewing platform and some Neukölln and Wedding courtyards produce scattered indoor dead zones on all networks.
+Berlin'in zayıf noktaları öngörülebilirdir. Doğu kesimlerindeki derin U-Bahn istasyonlarında hâlâ bir veya iki ağda ölü bölgeler vardır — çok operatörlü geçiş burada yardımcı olur, çünkü Telekom, Vodafone ve O2 arasında atlayabilen bir paket o tünele yatırım yapmış hangi ağ varsa onu izler. Fernsehturm seyir terası ve bazı Neukölln ve Wedding avluları gibi büyük beton yapılar tüm ağlarda dağınık iç mekan ölü bölgeleri üretir.
 
-Large events are the second pattern. When 60,000 people pack the Olympiastadion or an open-air festival fills the Tempelhof grounds, every German network throttles — that is a physics problem, not a plan problem. Your plan will show full bars and crawl at the same time everyone else's does.
+Büyük etkinlikler ikinci desendir. 60.000 kişi Olympiastadion'u doldurduğunda veya bir açık hava festivali Tempelhof alanını doldurduğunda, her Alman ağı kısıtlanır — bu bir fizik sorunudur, paket sorunu değil. Paketiniz tam sinyal gösterecek ve herkesinkiyle aynı anda sürünecektir.
 
-What makes this manageable rather than merely annoying is multi-carrier switching. A Germany eSIM that can move between Telekom, Vodafone and O2 automatically follows whichever network has invested in a particular tunnel or arena sector, while a single-network physical card bought at a kiosk simply lives with its carrier's gaps for the whole trip. That difference shows up precisely where a city break spends its time: underground, indoors, and in crowds.
+Bunu yalnızca can sıkıcı olmaktan çıkarıp yönetilebilir kılan şey çok operatörlü geçiştir. Telekom, Vodafone ve O2 arasında geçiş yapabilen bir Almanya eSIM'i, belirli bir tünele veya arena sektörüne yatırım yapmış hangi ağ varsa onu otomatik olarak izlerken, büfeden alınmış tek ağlı fiziksel bir kart tüm seyahat boyunca operatörünün boşluklarıyla yaşar. Bu fark tam da bir şehir tatilinin zamanını geçirdiği yerde ortaya çıkar: yeraltında, kapalı mekanlarda ve kalabalıklarda.
 
-## Arriving in Munich: A Germany eSIM Under Heavier Load
+## Münih'e Varış: Daha Ağır Yük Altında Almanya eSIM
 
-[Munich Airport (MUC)](https://www.munich-airport.de/passengers-visitors-75328) connects to the city center via the S-Bahn in roughly 40 minutes, and the route is almost entirely above ground — your eSIM holds a stable connection from the gate onward. Munich Airport has been actively expanding: the new Terminal 1 pier for non-Schengen traffic opened in April 2026, and the airport runs its own widespread Wi-Fi and modern cellular infrastructure, so arrival-day activation is painless.
+[Münih Havalimanı (MUC)](https://www.munich-airport.de/passengers-visitors-75328) şehir merkezine S-Bahn ile yaklaşık 40 dakikada bağlanır ve güzergâh neredeyse tamamen yer üstündedir — eSIM'iniz kapıdan itibaren istikrarlı bir bağlantı korur. Münih Havalimanı aktif olarak genişliyor: Schengen dışı trafik için yeni Terminal 1 peronu Nisan 2026'da açıldı ve havalimanı kendi yaygın Wi-Fi'sini ve modern hücresel altyapısını işletiyor, bu yüzden varış günü aktivasyonu zahmetsizdir.
 
-Inside the city, Munich is one of Germany's easiest places to hold a connection. The U-Bahn tunnels are largely equipped, the city is physically small, and Telekom's home-market advantage shows in consistent outdoor coverage.
+Şehir içinde Münih, Almanya'nın bağlantı tutulması en kolay yerlerinden biridir. U-Bahn tünelleri büyük ölçüde donatılmıştır, şehir fiziksel olarak küçüktür ve Telekom'un kendi pazarındaki avantajı istikrarlı dış mekan kapsamasında kendini gösterir.
 
-## Munich: Oktoberfest and Match Day eSIM Load
+## Münih: Oktoberfest ve Maç Günü eSIM Yükü
 
-Two annual patterns distort everything:
+İki yıllık desen her şeyi bozar:
 
-1. **Oktoberfest (mid-September to early October).** The Theresienwiese grounds concentrate hundreds of thousands of visitors whose combined data demand saturates every band. Messages fail to send, maps stall, and streaming is unrealistic inside the tents. The practical fix is asynchronous behavior: send messages before entering the grounds, agree on offline meeting points, and download the festival map in advance. The [Oktoberfest, Christmas markets and Bundesliga connectivity guide](/blog/germany-esim-events-oktoberfest-christmas-bundesliga/) has a full congestion playbook.
-2. **Bundesliga home games at the Allianz Arena.** Same physics, smaller radius: the Allianz Arena holds around 75,000 for a Bundesliga match, and every seat has a phone. You will have signal for messaging, but expect video calls and uploads to fail during the match.
+1. **Oktoberfest (Eylül ortasından Ekim başına).** Theresienwiese alanı, birleşik veri talebi her bandı doyuran yüz binlerce ziyaretçiyi yoğunlaştırır. Mesajlar gönderilemez, haritalar donar ve çadırların içinde akış gerçekçi değildir. Pratik çözüm asenkron davranıştır: alana girmeden önce mesaj gönderin, çevrimdışı buluşma noktaları konusunda anlaşın ve festival haritasını önceden indirin. [Oktoberfest, Noel pazarları ve Bundesliga bağlantı rehberi](/blog/germany-esim-events-oktoberfest-christmas-bundesliga/) tam bir tıkanıklık el kitabına sahiptir.
+2. **Allianz Arena'da Bundesliga iç saha maçları.** Aynı fizik, daha küçük yarıçap: Allianz Arena bir Bundesliga maçı için yaklaşık 75.000 kişi alır ve her koltukta bir telefon vardır. Mesajlaşma için sinyaliniz olacak, ancak maç sırasında görüntülü görüşmelerin ve yüklemelerin başarısız olmasını bekleyin.
 
-Neither pattern argues against eSIM in Munich — they argue against *streaming* on any connection during peak crowd windows.
+Bu desenlerin hiçbiri Münih'te eSIM'e karşı çıkmaz — yoğun kalabalık pencerelerinde *herhangi bir* bağlantıda *akışa* karşı çıkarlar.
 
-## A Realistic Germany eSIM Data Budget for Each City
+## Her Şehir İçin Gerçekçi Bir Almanya eSIM Veri Bütçesi
 
-Berlin and Munich burn data differently. Berlin's sprawl means more hours navigating, whereas Munich's compact center means less mapping but more photo and video uploads per square kilometer. Based on typical traveler behavior in both cities:
+Berlin ve Münih veriyi farklı yakar. Berlin'in dağınıklığı daha fazla saat navigasyon anlamına gelirken, Münih'ün kompakt merkezi daha az harita ama kilometrekare başına daha fazla fotoğraf ve video yüklemesi anlamına gelir. Her iki şehirdeki tipik gezgin davranışına göre:
 
-| Usage pattern | 3 days | 7 days | 14 days |
+| Kullanım deseni | 3 gün | 7 gün | 14 gün |
 |---|---|---|---|
-| Maps + messaging only | 2–3 GB | 4–5 GB | 8–10 GB |
-| + social media, ride-hailing | 5 GB | 8–10 GB | 15–20 GB |
-| + hotspot for a laptop | 8 GB | 15–20 GB | unlimited plan |
+| Yalnızca harita + mesajlaşma | 2–3 GB | 4–5 GB | 8–10 GB |
+| + sosyal medya, araç çağırma | 5 GB | 8–10 GB | 15–20 GB |
+| + dizüstü için hotspot | 8 GB | 15–20 GB | sınırsız paket |
 
-Roami's plans fit these tiers directly — the 10 GB / 7-day plan at $7.99 covers the middle row for a week in either city, which works out to roughly $0.80 per GB and is the figure worth comparing if you are weighing a larger one-off plan against a smaller one plus a top-up. Heavier users should compare the [unlimited data and 5G plan options](/blog/germany-esim-unlimited-data-5g-plans/) before choosing. Note that "unlimited" in Germany typically means throttling after a monthly cap; the comparison guide explains where each provider's cliff sits.
+Roami'nin paketleri bu katmanlara doğrudan uyar — 7,99 $'lık 10 GB / 7 gün paketi her iki şehirde de bir hafta için orta satırı kapsar; bu da gigabayt başına yaklaşık 0,80 $ eder ve tek büyük bir paketi daha küçük bir paket artı yükleme ile tartıyorsanız karşılaştırmaya değer rakam budur. Daha ağır kullanıcılar seçim yapmadan önce [sınırsız veri ve 5G paket seçeneklerini](/blog/germany-esim-unlimited-data-5g-plans/) karşılaştırmalıdır. Almanya'da "sınırsız"ın genellikle aylık bir sınırın ardından hız kısıtlaması anlamına geldiğini unutmayın; karşılaştırma rehberi her sağlayıcının eşiğinin nerede olduğunu açıklar.
 
-### What pushes you up a tier
+### Sizi bir üst katmana çıkaran şeyler
 
-- **Hotspot tethering.** The biggest single jump on the list: one phone serving a laptop pulls more than the phone itself ever will. Most travel plans allow hotspot use, but a minority restrict it and unlimited plans sometimes throttle tethered traffic specifically.
-- **Uploading rather than watching.** A day of stories and short clips leaving your phone can match a full evening of streaming arriving into it — and both cities' most photogenic spots, from the Museum Island bridges to Marienplatz and the English Garden surfers, are exactly where everyone else uploads at the same moment.
-- **Video calls from a venue or a hotel room.** Work trips and family check-ins are the one thing that reliably defeats a mid-tier plan.
-- **Ride-hailing and live delay rebooking.** Small per action, frequent, and impossible to pre-load. This is Berlin's particular tax: more time in transit means more live queries.
+- **Hotspot paylaşımı.** Listedeki en büyük tek sıçrama: bir dizüstüne hizmet eden tek bir telefon, telefonun kendisinin asla çekeceğinden daha fazlasını çeker. Çoğu seyahat paketi hotspot kullanımına izin verir, ancak azınlıkta kalan bir kısmı kısıtlar ve sınırsız paketler bazen özellikle paylaşılan trafiği kısıtlar.
+- **İzlemek yerine yüklemek.** Telefonunuzdan çıkan bir günlük hikâye ve kısa klipler, telefonunuza gelen tam bir akşam akışına eşit olabilir — ve her iki şehrin en fotojenik noktaları, Museum Island köprülerinden Marienplatz'a ve English Garden sörfçülerine kadar, tam da herkesin aynı anda yükleme yaptığı yerlerdir.
+- **Bir mekandan veya otel odasından görüntülü görüşmeler.** İş seyahatleri ve aile görüşmeleri, orta seviye bir paketi güvenilir şekilde alt eden tek şeydir.
+- **Araç çağırma ve canlı gecikme yeniden rezervasyonu.** İşlem başına küçük, sık ve önceden yüklenmesi imkânsız. Bu Berlin'in kendine özgü vergisidir: aktarımda daha fazla zaman, daha fazla canlı sorgu demektir.
 
-### What barely moves the needle
+### Neredeyse hiç fark yaratmayan şeyler
 
-Messaging, navigation with the screen off, transit-app ticket purchase, and restaurant or hotel lookups. A week of nothing but those fits inside 3–5 GB, which is why the entry tiers in the table above are realistic rather than optimistic. The classic mistake is sizing a plan for your average day and then taking one video call.
+Mesajlaşma, ekran kapalıyken navigasyon, ulaşım uygulamasında bilet satın alma ve restoran veya otel aramaları. Yalnızca bunlarla geçen bir hafta 3–5 GB'a sığar; bu yüzden yukarıdaki tablodaki giriş katmanları iyimser değil gerçekçidir. Klasik hata, paketi ortalama gününüze göre boyutlandırıp sonra bir görüntülü görüşme yapmaktır.
 
-For city-only itineraries the cheapest sensible shape is a prepaid, data-only profile with a validity window that matches the stay exactly — 5 GB for a long weekend, 10 GB for a fortnight of heavy map and transit-app use. The QR code arrives by email, and there is nothing to top up unless you run the allowance dry.
+Yalnızca şehir içi güzergâhlar için en ucuz mantıklı şekil, geçerlilik penceresi konaklamayla tam olarak örtüşen ön ödemeli, yalnızca veri bir profildir — uzun bir hafta sonu için 5 GB, yoğun harita ve ulaşım uygulaması kullanımıyla iki hafta için 10 GB. QR kodu e-posta ile gelir ve veri hakkınızı tüketmediğiniz sürece yükleme yapmanız gereken bir şey yoktur.
 
-## Berlin and Munich on One Multi-Country eSIM
+## Tek Çok Ülkeli eSIM'de Berlin ve Münih
 
-Both cities sit on the classic Central Europe rail corridor: Berlin → Prague, Munich → Salzburg, Munich → Zurich. If your itinerary continues beyond Germany, a single-country Germany eSIM stops at the border, and the [multi-country Europe rail guide](/blog/germany-esim-multi-country-europe-rail/) explains when a regional Europe plan beats two separate country plans. The rule of thumb: once three or more countries share your nights roughly evenly, go regional; if Germany dominates the itinerary, stay single-country and buy the next country's plan separately.
+Her iki şehir de klasik Orta Avrupa demiryolu koridorunda yer alır: Berlin → Prag, Münih → Salzburg, Münih → Zürih. Güzergâhınız Almanya'nın ötesine devam ediyorsa, tek ülkeli bir Almanya eSIM'i sınırda durur ve [çok ülkeli Avrupa demiryolu rehberi](/blog/germany-esim-multi-country-europe-rail/) bölgesel bir Avrupa paketinin ne zaman iki ayrı ülke paketini geçtiğini açıklar. Altın kural: üç veya daha fazla ülke gecelerinizi kabaca eşit paylaştığında bölgesele geçin; güzergâha Almanya hâkimse tek ülkede kalın ve bir sonraki ülkenin paketini ayrıca satın alın.
 
-## Two eSIM Habits That Save Data
+## Veri Tasarrufu Sağlayan İki eSIM Alışkanlığı
 
-- **Download offline city maps before entering museums.** Berlin's museum island basements and Munich's Residenz kill GPS and data simultaneously; offline maps keep you oriented while your eSIM preserves bandwidth for messaging.
-- **Buy transit tickets over Wi-Fi at the hotel when you can.** It is the single most data-hungry app action in both cities during rush hour, and it is fully pre-loadable.
+- **Müzelere girmeden önce çevrimdışı şehir haritalarını indirin.** Berlin'in müze adası bodrumları ve Münih'ün Residenz'i GPS'i ve veriyi aynı anda öldürür; çevrimdışı haritalar eSIM'iniz mesajlaşma için bant genişliği korurken sizi yönlendirir.
+- **Ulaşım biletlerini mümkün olduğunda otelde Wi-Fi üzerinden alın.** Her iki şehirde de yoğun saatlerde en çok veri tüketen tek uygulama işlemidir ve tamamen önceden yüklenebilir.
 
-## Berlin Neighborhoods: Where Your Germany eSIM Changes
+## Berlin Mahalleleri: Almanya eSIM'inizin Değiştiği Yerler
 
-Berlin is roughly ten times the size of Munich's core, and connectivity follows the city's structure. The central districts — Mitte, Prenzlauer Berg, Kreuzberg, Charlottenburg — are saturated with all three networks; you will not think about your connection once. The character changes at the edges:
+Berlin, Münih'ün çekirdeğinin kabaca on katı büyüklüktedir ve bağlantı şehrin yapısını izler. Merkezi bölgeler — Mitte, Prenzlauer Berg, Kreuzberg, Charlottenburg — üç ağın tamamıyla doyurulmuştur; bağlantınızı bir kez bile düşünmezsiniz. Karakter kenarlarda değişir:
 
-- **Museumsinsel and the government quarter** mix dense foot traffic with heavy stone construction; outdoor coverage is excellent, indoor basement-level exhibits can drop a bar or two on any network.
-- **Kreuzberg and Neukölln nightlife corridors** stay strong on the street, but clubs in converted industrial buildings are exactly the thick-walled basements where a single-network card and a multi-carrier plan part ways.
-- **The Grunewald and the southwestern lakes** are where Berlin stops being a city — forest coverage varies sharply by network, and this is the terrain where the [rural and train coverage guide](/blog/germany-esim-coverage-cities-trains-alps/) earns its keep if your trip extends to Wannsee or Potsdam.
+- **Museumsinsel ve hükümet bölgesi** yoğun yaya trafiğini ağır taş yapılarla karıştırır; dış mekan kapsaması mükemmeldir, bodrum seviyesindeki iç mekan sergileri herhangi bir ağda bir veya iki çubuk düşebilir.
+- **Kreuzberg ve Neukölln gece hayatı koridorları** sokakta güçlü kalır, ancak dönüştürülmüş endüstriyel binalardaki kulüpler tam da kalın duvarlı bodrumlardır; tek ağlı bir kart ile çok operatörlü bir paketin yollarının ayrıldığı yer burasıdır.
+- **Grunewald ve güneybatıdaki göller** Berlin'in şehir olmaktan çıktığı yerdir — orman kapsaması ağa göre keskin biçimde değişir ve seyahatiniz Wannsee veya Potsdam'a uzanıyorsa [kırsal ve tren kapsama rehberinin](/blog/germany-esim-coverage-cities-trains-alps/) kendini kanıtladığı arazi burasıdır.
 
-None of this changes plan sizing; it changes expectations. Berlin rewards travelers who treat connectivity as abundant outdoors and fragile indoors, and who download what matters before walking into a museum basement.
+Bunların hiçbiri paket boyutlandırmasını değiştirmez; beklentileri değiştirir. Berlin, bağlantıyı dış mekanda bol, iç mekanda kırılgan olarak gören ve bir müze bodrumuna girmeden önce önemli olanı indiren gezginleri ödüllendirir.
 
-## Munich Day Trips: What Your eSIM Must Cover
+## Münih Günübirlik Gezileri: eSIM'inizin Kapsaması Gerekenler
 
-Munich's compactness is a data-plan blessing: the Altstadt, the English Garden, and the museum quarter sit within a compact radius, and a visitor on a Germany eSIM burns far less navigation data than a Berlin one. The city's real connectivity demand comes from what surrounds it. Neuschwanstein, the Zugspitze, Salzburg across the Austrian border, and Nuremberg all sit on day-trip rail lines, and Deutsche Bahn's app assumes live data for platform changes and delay rebooking — exactly the scenario the [ICE train coverage analysis](/blog/germany-esim-coverage-cities-trains-alps/) covers in detail.
+Münih'ün kompaktlığı bir veri paketi nimetidir: Altstadt, English Garden ve müze bölgesi kompakt bir yarıçap içinde yer alır ve bir Almanya eSIM'i kullanan ziyaretçi, bir Berlin ziyaretçisinden çok daha az navigasyon verisi yakar. Şehrin gerçek bağlantı talebi onu çevreleyen şeylerden gelir. Neuschwanstein, Zugspitze, Avusturya sınırının ötesindeki Salzburg ve Nürnberg günübirlik tren hatlarında yer alır ve Deutsche Bahn'ın uygulaması peron değişiklikleri ve gecikme yeniden rezervasyonu için canlı veri varsayar — tam da [ICE tren kapsama analizinin](/blog/germany-esim-coverage-cities-trains-alps/) ayrıntılı olarak ele aldığı senaryo.
 
-One boundary worth repeating: the moment a day trip crosses into Austria or Switzerland, your Germany plan stops at the border. Check the [multi-country rail guide](/blog/germany-esim-multi-country-europe-rail/) before committing to a Salzburg day if you have not already sorted cross-border coverage.
+Tekrarlamaya değer bir sınır: bir günübirlik gezi Avusturya veya İsviçre'ye geçtiği anda, Almanya paketiniz sınırda durur. Sınır ötesi kapsamayı henüz halletmediyseniz bir Salzburg gününe karar vermeden önce [çok ülkeli demiryolu rehberine](/blog/germany-esim-multi-country-europe-rail/) bakın.
 
-## When the Trip Is Work: A Germany eSIM for Conferences
+## Seyahat İş Olduğunda: Konferanslar İçin Almanya eSIM
 
-Munich and Berlin both host heavy conference calendars, and work travel changes the connectivity equation in two ways. First, venue basements and congress halls are the same thick-walled environments as clubs — thousands of attendees, concrete, and saturated cells; hotspot-tethering from your phone during a talk often beats the venue Wi-Fi, but only with a plan that has hotspot allowance. Second, work trips need the data volume of the tourist tiers plus video calls, which pushes most business travelers toward larger plans. The [business and trade-fair connectivity guide](/blog/germany-esim-business-trade-fair-digital-nomad/) sizes plans specifically for Messe-bound weeks.
+Münih ve Berlin yoğun konferans takvimlerine ev sahipliği yapar ve iş seyahati bağlantı denklemini iki şekilde değiştirir. Birincisi, mekan bodrumları ve kongre salonları kulüplerle aynı kalın duvarlı ortamlardır — binlerce katılımcı, beton ve doymuş hücreler; bir konuşma sırasında telefonunuzdan hotspot paylaşımı genellikle mekan Wi-Fi'sini yener, ancak yalnızca hotspot hakkı olan bir paketle. İkincisi, iş seyahatleri turist katmanlarının veri hacmi artı görüntülü görüşmeleri gerektirir; bu da çoğu iş gezginini daha büyük paketlere iter. [İş ve fuar bağlantı rehberi](/blog/germany-esim-business-trade-fair-digital-nomad/) paketleri özellikle Messe'ye giden haftalar için boyutlandırır.
 
-## A Week in Both Cities: One eSIM or Two?
+## Her İki Şehirde Bir Hafta: Bir eSIM mi, İki mi?
 
-The classic two-city itinerary — three nights in Berlin, three in Munich — runs on a single plan. Both cities sit inside the same national coverage picture, and the connecting ICE service takes about four hours, largely on routes with continuous signal. Buy one plan sized for the whole week and skip the second purchase entirely; splitting a week across two plans only makes sense if you cross into Austria or the Czech Republic at either end.
+Klasik iki şehirli güzergâh — Berlin'de üç gece, Münih'te üç — tek bir paketle yürür. Her iki şehir de aynı ulusal kapsama resminin içindedir ve bağlantı sağlayan ICE hizmeti yaklaşık dört saat sürer, büyük ölçüde sürekli sinyalli güzergâhlarda. Tüm hafta için boyutlandırılmış tek bir paket alın ve ikinci satın alımı tamamen atlayın; bir haftayı iki pakete bölmek yalnızca iki uçtan birinde Avusturya veya Çek Cumhuriyeti'ne geçiyorsanız anlamlıdır.
 
-For the rail leg itself, buy the ticket in [Deutsche Bahn's app](https://www.bahn.de/) before boarding and have it in your wallet offline. The on-board Wi-Fi exists but is unreliable at speed, and reservation-required trains sell out on Friday afternoons — a detail worth planning around if Berlin to Munich is your weekend pivot.
+Demiryolu ayağının kendisi için bileti binmeden önce [Deutsche Bahn'ın uygulamasından](https://www.bahn.de/) alın ve çevrimdışı olarak cüzdanınızda bulundurun. Trende Wi-Fi vardır ancak hızda güvenilmezdir ve rezervasyon gerektiren trenler Cuma öğleden sonraları tükenir — Berlin'den Münih'e hafta sonu geçişinizse planlamaya değer bir ayrıntı.
 
-## Christmas Markets: A Germany eSIM Through the Season
+## Noel Pazarları: Sezon Boyunca Almanya eSIM
 
-Late November through December is peak city-trip season, and both cities stage markets that change mobile behavior the same way Oktoberfest does, just in smaller doses. The market squares — Alexanderplatz and Charlottenburg in Berlin, Marienplatz, the Tollwood grounds and the Residenz courtyard in Munich — concentrate thousands of phones into a few hundred square meters. Expect messaging to work, photos to upload slowly, and video to stall between roughly 17:00 and 21:00.
+Kasım sonundan Aralık'a kadar yoğun şehir tatili sezonudur ve her iki şehir de mobil davranışı Oktoberfest ile aynı şekilde değiştiren, yalnızca daha küçük dozda pazarlar kurar. Pazar meydanları — Berlin'de Alexanderplatz ve Charlottenburg, Münih'te Marienplatz, Tollwood alanı ve Residenz avlusu — binlerce telefonu birkaç yüz metrekareye yoğunlaştırır. Mesajlaşmanın çalışmasını, fotoğrafların yavaş yüklenmesini ve yaklaşık 17:00 ile 21:00 arasında videonun takılmasını bekleyin.
 
-The workable habits are simple: settle meeting points verbally before splitting up, pay with a physical card when the terminal's connection drops, and download the offline map of the surrounding streets. Cold weather adds its own twist — phone batteries drain faster below freezing, and a dead battery is indistinguishable from no signal. A power bank earns its place in a December suitcase far more than an extra gigabyte does. The [events connectivity guide](/blog/germany-esim-events-oktoberfest-christmas-bundesliga/) covers market season in more detail.
+Uygulanabilir alışkanlıklar basittir: ayrılmadan önce buluşma noktalarını sözlü olarak kararlaştırın, terminalin bağlantısı kesildiğinde fiziksel kartla ödeyin ve çevredeki sokakların çevrimdışı haritasını indirin. Soğuk hava kendi tuhaflığını ekler — telefon pilleri donma noktasının altında daha hızlı tükenir ve bitmiş bir pil sinyalsizlikten ayırt edilemez. Bir powerbank, Aralık valizinde fazladan bir gigabayttan çok daha fazla yerini hak eder. [Etkinlik bağlantı rehberi](/blog/germany-esim-events-oktoberfest-christmas-bundesliga/) pazar sezonunu daha ayrıntılı ele alır.
 
-## Home Number Reachable Alongside a Germany eSIM
+## Almanya eSIM'in Yanında Ulaşılabilir Ev Numarası
 
-A city trip is where the home-number question gets practical: hotel confirmations, restaurant bookings and bank verification codes all arrive by SMS to the number you have had for years. On a dual-SIM phone, nothing about a Germany plan interferes with that — the home line stays registered and keeps receiving messages while the travel profile carries your data. Two settings matter: leave the home line enabled for calls and SMS, and disable *data roaming* on it so your carrier does not bill roaming rates the moment you land. The detailed walkthrough of those menus lives in the [complete travel guide](/blog/germany-esim-complete-travel-guide/).
+Bir şehir tatili, ev numarası sorusunun pratikleştiği yerdir: otel onayları, restoran rezervasyonları ve banka doğrulama kodlarının tümü yıllardır sahip olduğunuz numaraya SMS ile gelir. Çift SIM'li bir telefonda, bir Almanya paketiyle ilgili hiçbir şey buna engel olmaz — ev hattı kayıtlı kalır ve seyahat profili verinizi taşırken mesaj almaya devam eder. İki ayar önemlidir: ev hattını aramalar ve SMS için etkin bırakın ve operatörünüz indiğiniz anda dolaşım ücreti kesmemesi için onda *veri dolaşımını* devre dışı bırakın. Bu menülerin ayrıntılı anlatımı [tam seyahat rehberinde](/blog/germany-esim-complete-travel-guide/) yer alır.
 
-If your phone is eSIM-only and your home line is also an eSIM, you are running two profiles simultaneously — a standard configuration on recent iPhones and Pixels, and the reason city trips no longer require deciding between being reachable and being online.
+Telefonunuz yalnızca eSIM destekliyse ve ev hattınız da bir eSIM ise, aynı anda iki profil çalıştırıyorsunuz — son iPhone ve Pixel'lerde standart bir yapılandırma ve şehir tatillerinin artık ulaşılabilir olmak ile çevrimiçi olmak arasında seçim yapmayı gerektirmemesinin nedeni.
 
-## Free Wi-Fi in Berlin and Munich: What Your Germany eSIM Skips
+## Berlin ve Münih'te Ücretsiz Wi-Fi: Almanya eSIM'in Atlamadıkları
 
-Both cities are unusually generous with public Wi-Fi, and knowing where it is changes what your data plan is actually for. The short version: Wi-Fi covers the standing still, a Germany eSIM covers the walking.
+Her iki şehir de kamusal Wi-Fi konusunda alışılmadık derecede cömerttir ve nerede olduğunu bilmek veri paketinizin gerçekte ne için olduğunu değiştirir. Kısa versiyon: Wi-Fi dururken olanı, Almanya eSIM'i yürürken olanı kapsar.
 
 **Berlin**
 
-- **BVG-WiFi at every U-Bahn station**, with no registration — the single most useful network for a visitor, because it is exactly where you stand when a route needs re-planning.
-- **Free Wi-Fi on most newer BVG trams and buses.** Newer rolling stock carries it; older vehicles do not, so treat it as a bonus rather than a plan.
-- **Deutsche Bahn Wi-Fi at the main stations** — Hauptbahnhof, Friedrichstraße, Ostbahnhof, Südkreuz and Gesundbrunnen — plus on many intercity services.
-- **Freifunk**, a volunteer-run network with more than a thousand open hotspots across the city, no registration and no time limit.
-- **Museum Island, the Brandenburg Gate area, the Humboldt Forum and most public libraries and museums** run their own free networks.
+- **Her U-Bahn istasyonunda BVG-WiFi**, kayıt yok — bir ziyaretçi için en yararlı tek ağ, çünkü tam da bir güzergâhın yeniden planlanması gerektiğinde durduğunuz yerdedir.
+- **Çoğu yeni BVG tramvayı ve otobüsünde ücretsiz Wi-Fi.** Yeni araçlar bunu taşır; eski araçlar taşımaz, bu yüzden bunu bir plan değil bir bonus olarak görün.
+- **Ana istasyonlarda Deutsche Bahn Wi-Fi** — Hauptbahnhof, Friedrichstraße, Ostbahnhof, Südkreuz ve Gesundbrunnen — ayrıca birçok şehirlerarası hizmette.
+- **Freifunk**, şehir genelinde binden fazla açık hotspot'lu, kayıt ve zaman sınırı olmayan gönüllü işletilen bir ağ.
+- **Museum Island, Brandenburg Kapısı bölgesi, Humboldt Forum ve çoğu halk kütüphanesi ve müze** kendi ücretsiz ağlarını işletir.
 
-**Munich**
+**Münih**
 
-- **Cafés, beer gardens and hotel lobbies** across both cities hand out a Wi-Fi password on request almost without exception, which covers long lunches and rainy afternoons.
-- **Munich Airport's network** ("Free Wifi – Munich Airport") asks for an email address before it lets you in, so it is less frictionless than the Berlin and Frankfurt equivalents — worth knowing if your plan is to install your Germany eSIM only after landing.
-- **Hotels and hostels in both cities include Wi-Fi as standard**, budget chains included.
+- **Her iki şehirde kafeler, bira bahçeleri ve otel lobileri** istek üzerine neredeyse istisnasız bir Wi-Fi şifresi verir; bu uzun öğle yemeklerini ve yağmurlu öğleden sonraları kapsar.
+- **Münih Havalimanı'nın ağı** ("Free Wifi – Munich Airport") girmenize izin vermeden önce bir e-posta adresi ister, bu yüzden Berlin ve Frankfurt eşdeğerlerinden daha az zahmetsizdir — Almanya eSIM'inizi yalnızca indikten sonra kurmayı planlıyorsanız bunu bilmekte fayda var.
+- **Her iki şehirde oteller ve hosteller Wi-Fi'yi standart olarak içerir**, bütçe zincirleri dahil.
 
-The pattern worth planning around is that Wi-Fi is stationary and public transport is not. Ticket purchase, ride-hailing, live delay rebooking and turn-by-turn navigation all happen while you are moving, and that is the half of a city trip a Germany eSIM covers. It is genuinely possible to run a short Berlin break on free Wi-Fi alone, but you spend it treating each U-Bahn station as a sync point rather than a place to catch a train — and you lose the one thing a city break most needs, which is the ability to change plans without hunting for a password.
+Planlamaya değer desen, Wi-Fi'nin sabit ve toplu taşımanın sabit olmamasıdır. Bilet satın alma, araç çağırma, canlı gecikme yeniden rezervasyonu ve adım adım navigasyonun tümü hareket halindeyken gerçekleşir ve bir şehir tatilinin Almanya eSIM'in kapsadığı yarısı budur. Kısa bir Berlin tatilini yalnızca ücretsiz Wi-Fi ile geçirmek gerçekten mümkündür, ancak bunu her U-Bahn istasyonunu trene yetişilecek bir yer yerine bir senkronizasyon noktası olarak görerek geçirirsiniz — ve bir şehir tatilinin en çok ihtiyaç duyduğu tek şeyi, şifre aramadan plan değiştirme yeteneğini kaybedersiniz.
 
-## Berlin and Munich Side by Side: A Germany eSIM Comparison
+## Berlin ve Münih Yan Yana: Bir Almanya eSIM Karşılaştırması
 
-| | Berlin | Munich |
+| | Berlin | Münih |
 |---|---|---|
-| City shape | Sprawling — roughly ten times the area of Munich's core | Compact and walkable in the centre |
-| Transit | U-Bahn, S-Bahn, tram, bus, and public ferries on the lakes | U-Bahn, S-Bahn, tram, bus |
-| 2026 inner-city single ticket | €4.00 (zone AB) | about €9.90 for an inner-city day ticket |
-| Airport link | FEX airport express or S9 to Hauptbahnhof, 23–30 minutes, €5.00 ABC | S1 or S8, about 40 minutes, €17.50 day ticket including city travel |
-| Weakest connectivity | Deep U-Bahn tunnels in the eastern segments; thick-walled club and museum basements | Allianz Arena and Theresienwiese during events; venue and congress basements |
-| Biggest crowd crunch | Olympiastadion events, Tempelhofer Feld festivals, Christmas markets | Oktoberfest, Bundesliga match days, Christmas markets |
-| Data profile | More navigational — sprawl means longer journeys and more route changes | More upload-heavy — a compact centre concentrates photos and video |
-| Install first | BVG, or Jelbi for multimodal trips | MVGO |
+| Şehir şekli | Dağınık — Münih'ün çekirdeğinin kabaca on katı alan | Merkezde kompakt ve yürünebilir |
+| Ulaşım | U-Bahn, S-Bahn, tramvay, otobüs ve göllerde halk vapurları | U-Bahn, S-Bahn, tramvay, otobüs |
+| 2026 şehir içi tek bilet | 4,00 € (AB bölgesi) | şehir içi günlük bilet için yaklaşık 9,90 € |
+| Havalimanı bağlantısı | Hauptbahnhof'a FEX havalimanı ekspresi veya S9, 23–30 dakika, 5,00 € ABC | S1 veya S8, yaklaşık 40 dakika, şehir içi seyahat dahil 17,50 € günlük bilet |
+| En zayıf bağlantı | Doğu kesimlerindeki derin U-Bahn tünelleri; kalın duvarlı kulüp ve müze bodrumları | Etkinlikler sırasında Allianz Arena ve Theresienwiese; mekan ve kongre bodrumları |
+| En büyük kalabalık sıkışıklığı | Olympiastadion etkinlikleri, Tempelhofer Feld festivalleri, Noel pazarları | Oktoberfest, Bundesliga maç günleri, Noel pazarları |
+| Veri profili | Daha çok navigasyon — dağınıklık daha uzun yolculuklar ve daha fazla güzergâh değişikliği demektir | Daha çok yükleme ağırlıklı — kompakt merkez fotoğraf ve videoyu yoğunlaştırır |
+| İlk kurulacak | BVG veya çok modlu yolculuklar için Jelbi | MVGO |
 
-## Frequently Asked Questions
+## Sıkça Sorulan Sorular
 
-### Does a Germany eSIM work well in Berlin?
+### Bir Almanya eSIM'i Berlin'de iyi çalışır mı?
 
-Yes — Berlin has Germany's most competitive three-network environment, so coverage is strong almost everywhere; the exceptions are deep U-Bahn segments and extreme crowd events. A multi-carrier Germany eSIM mitigates most tunnel dead zones by switching networks automatically.
+Evet — Berlin, Almanya'nın en rekabetçi üç ağlı ortamına sahiptir, bu yüzden kapsama neredeyse her yerde güçlüdür; istisnalar derin U-Bahn kesimleri ve aşırı kalabalık etkinliklerdir. Çok operatörlü bir Almanya eSIM'i ağları otomatik değiştirerek çoğu tünel ölü bölgesini hafifletir.
 
-### Is Munich or Berlin harder on mobile data?
+### Münih mi Berlin mi mobil veride daha zor?
 
-Munich has better baseline coverage, but harder peaks: Oktoberfest and Allianz Arena match days saturate every network. Berlin's problems are scattered tunnel dead zones rather than crowd-scale saturation. For data-plan sizing, Munich during festival season needs more headroom.
+Münih'ün temel kapsaması daha iyidir, ancak zirveleri daha zordur: Oktoberfest ve Allianz Arena maç günleri her ağı doyurur. Berlin'in sorunları kalabalık ölçeğinde doygunluk değil, dağınık tünel ölü bölgeleridir. Veri paketi boyutlandırması için, festival sezonunda Münih daha fazla pay gerektirir.
 
-### Can I use one Germany eSIM for both cities?
+### Her iki şehir için tek bir Almanya eSIM'i kullanabilir miyim?
 
-Yes — these plans are national, not city-specific. One plan covers Berlin, Munich, and every other German city identically; only the local network conditions differ.
+Evet — bu paketler şehre özgü değil ulusaldır. Tek bir paket Berlin, Münih ve diğer her Alman şehrini aynı şekilde kapsar; yalnızca yerel ağ koşulları farklıdır.
 
-### Do I need a different eSIM for Munich airport than for the city?
+### Münih havalimanı için şehirden farklı bir eSIM'e ihtiyacım var mı?
 
-No. The same Germany eSIM connects at Munich Airport and throughout Bavaria. Activate before departure or over airport Wi-Fi on arrival — the [airport guide](/blog/germany-esim-airport-arrival-guide/) covers both options for MUC, FRA and BER.
+Hayır. Aynı Almanya eSIM'i Münih Havalimanı'nda ve Bavyera genelinde bağlanır. Kalkıştan önce veya varışta havalimanı Wi-Fi'si üzerinden etkinleştirin — [havalimanı rehberi](/blog/germany-esim-airport-arrival-guide/) MUC, FRA ve BER için her iki seçeneği de kapsar.
 
-### Which city burns more data, Berlin or Munich?
+### Hangi şehir daha fazla veri yakar, Berlin mi Münih mi?
 
-Berlin, usually — the sprawl means more hours in transit apps and maps, while Munich's compact center concentrates sightseeing into less navigation. Munich inverts the pattern during Oktoberfest and match days, when crowd congestion makes every network slow regardless of your plan size.
+Genellikle Berlin — dağınıklık ulaşım uygulamaları ve haritalarda daha fazla saat demektir, Münih'ün kompakt merkezi ise geziyi daha az navigasyona yoğunlaştırır. Münih, kalabalık tıkanıklığının paket boyutunuzdan bağımsız olarak her ağı yavaşlattığı Oktoberfest ve maç günlerinde deseni tersine çevirir.
 
-### Is one Germany eSIM enough for a Berlin and Munich week?
+### Berlin ve Münih haftası için tek bir Almanya eSIM'i yeterli mi?
 
-Yes. Coverage is national, the rail connection between the cities is short and largely connected, and a single 10 GB plan comfortably covers a week of maps, messaging and moderate sharing across both.
+Evet. Kapsama ulusaldır, şehirler arasındaki demiryolu bağlantısı kısa ve büyük ölçüde bağlantılıdır ve tek bir 10 GB paketi her iki şehirde de bir hafta harita, mesajlaşma ve ölçülü paylaşımı rahatça kapsar.
 
-### Does 5G matter for a short city trip?
+### Kısa bir şehir tatili için 5G önemli mi?
 
-Nice, not necessary. Both cities have 5G zones on the major networks, and everyday travel tasks — maps, messaging, tickets, ride-hailing — run comfortably on LTE. If you stream or work from your phone, the [5G and unlimited plan comparison](/blog/germany-esim-unlimited-data-5g-plans/) shows where 5G actually changes the experience.
+Güzel, ama gerekli değil. Her iki şehirde de büyük ağlarda 5G bölgeleri vardır ve günlük seyahat görevleri — haritalar, mesajlaşma, biletler, araç çağırma — LTE'de rahatça çalışır. Telefonunuzdan akış yapıyor veya çalışıyorsanız, [5G ve sınırsız paket karşılaştırması](/blog/germany-esim-unlimited-data-5g-plans/) 5G'nin deneyimi gerçekte nerede değiştirdiğini gösterir.
 
-### How much is a Berlin day ticket in 2026?
+### 2026'da Berlin günlük bileti ne kadar?
 
-€11.20 for zones AB and €12.90 for zones ABC, valid for 24 hours from the moment you validate it and covering up to three children aged 6–14. A single ticket is €4.00 AB or €5.00 ABC. Note that Berlin's 7-day travel card was retired with the January 2026 fare change, so longer stays now stack day tickets or switch to the Deutschlandticket.
+AB bölgeleri için 11,20 € ve ABC bölgeleri için 12,90 €; doğruladığınız andan itibaren 24 saat geçerlidir ve 6–14 yaş arası üç çocuğa kadar kapsar. Tek bilet AB için 4,00 € veya ABC için 5,00 €'dur. Berlin'in 7 günlük seyahat kartının Ocak 2026 tarife değişikliğiyle kaldırıldığını unutmayın; bu yüzden daha uzun konaklamalar artık günlük biletleri üst üste dizer veya Deutschlandticket'e geçer.
 
-### Is there free Wi-Fi on the Berlin U-Bahn?
+### Berlin U-Bahn'da ücretsiz Wi-Fi var mı?
 
-Yes — BVG-WiFi runs at every U-Bahn station with no registration, and newer trams and buses carry their own network. It is genuinely useful for checking a connection while you wait, but it does not follow you onto the train, so ticket purchase and live navigation still want a data plan.
+Evet — BVG-WiFi her U-Bahn istasyonunda kayıt olmadan çalışır ve yeni tramvaylar ve otobüsler kendi ağlarını taşır. Beklerken bağlantı kontrol etmek için gerçekten yararlıdır, ancak trene kadar sizi takip etmez; bu yüzden bilet satın alma ve canlı navigasyon hâlâ bir veri paketi ister.
 
-### Can I use the Deutschlandticket as a tourist?
+### Deutschlandticket'i turist olarak kullanabilir miyim?
 
-Yes, if you understand the mechanics. It costs €63 per calendar month, covers buses, trams, U-Bahn, S-Bahn and regional trains nationwide — but not long-distance ICE or IC trains — and it exists only as a subscription that you must cancel by the 10th of a month for it to end that month. For a five-to-seven day trip, day tickets are usually simpler and no more expensive.
+Evet, mekaniği anlıyorsanız. Takvim ayı başına 63 € tutar; ülke çapında otobüs, tramvay, U-Bahn, S-Bahn ve bölgesel trenleri kapsar — ancak uzun mesafeli ICE veya IC trenlerini kapsamaz — ve yalnızca o ay bitmesi için ayın 10'una kadar iptal etmeniz gereken bir abonelik olarak vardır. Beş ila yedi günlük bir seyahat için günlük biletler genellikle daha basit ve daha pahalı değildir.
 
-### Do I need mobile data to buy a Berlin or Munich transit ticket?
+### Berlin veya Münih ulaşım bileti almak için mobil veriye ihtiyacım var mı?
 
-Yes for the app route, and the app route is the one worth using. App tickets are valid immediately, while paper tickets from machines must be stamped in the platform validator before boarding, and an unstamped ticket carries the same €60 fine as no ticket at all in Berlin. Buying in the app removes that failure mode at the cost of needing live data standing on the platform.
+Uygulama yolu için evet ve kullanmaya değer yol uygulama yoludur. Uygulama biletleri anında geçerlidir, makinelerden alınan kağıt biletler ise binmeden önce peron doğrulayıcısında damgalanmalıdır ve damgalanmamış bir bilet Berlin'de hiç bilet yokmuş gibi aynı 60 € cezayı taşır. Uygulamada satın almak, peronda canlı veri gerektirme pahasına bu başarısızlık modunu ortadan kaldırır.

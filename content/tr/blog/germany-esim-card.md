@@ -1,11 +1,11 @@
 ---
-title: "Germany eSIM vs Physical SIM: Traveler's Guide"
-description: "What a Germany eSIM card actually is, how it differs from a physical SIM card, when you still need one, and where to get a prepaid Germany eSIM card with or without a phone number."
-keywords: ["Germany eSIM card", "german esim card", "germany prepaid esim card", "do i need a sim card if i have esim"]
+title: "Almanya eSIM vs Fiziksel SIM: Gezgin Rehberi"
+description: "Almanya eSIM kartın gerçekte ne olduğu, fiziksel SIM karttan nasıl farklılaştığı, ne zaman hâlâ bir karta ihtiyaç duyduğunuz ve telefon numaralı veya numarasız bir ön ödemeli Almanya eSIM kartı nereden alacağınız."
+keywords: ["Germany eSIM card", "german esim card", "germany prepaid esim card", "do i need a sim card if i have esim", "almanya esim kart", "almanya esim kart nedir", "almanya eSIM fiziksel SIM"]
 date: 2026-10-08T00:00:00Z
 lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Roami güvenilir eSIM paketleri sunar, yılda 1 milyondan fazla gezgine hizmet verir ve gezginlerin dünya çapında bağlantıda kalması için otomatik yerel ağ geçişini destekler."
 image: "/img/esim/germany/germany-esim-card.jpg"
 categories: ["Germany", "eSIM", "Travel"]
 tags: ["Germany eSIM", "Travel eSIM"]
@@ -13,285 +13,285 @@ readingTime: 12
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Germany eSIM Card: What It Is and When You Still Need a Physical SIM"
-productsTitle: "Popular eSIM Plans"
-hotPostsTitle: "Hot Articles"
-recentPostsTitle: "Recent Posts"
+h1title: "Almanya eSIM Kart: Nedir ve Fiziksel SIM'e Hâlâ Ne Zaman İhtiyaç Duyarsınız"
+productsTitle: "Popüler eSIM Planları"
+hotPostsTitle: "Öne Çıkan Makaleler"
+recentPostsTitle: "Son Yazılar"
 products:
-  - name: "Europe eSIM"
+  - name: "Avrupa eSIM"
     flag: "/img/flags/eu.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "europe"
-  - name: "USA eSIM"
+  - name: "ABD eSIM"
     flag: "/img/flags/us.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "united-states"
-  - name: "Japan eSIM"
+  - name: "Japonya eSIM"
     flag: "/img/flags/jp.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "japan"
 recentPosts:
-  - title: "eSIM Compatible Devices List"
+  - title: "eSIM Uyumlu Cihazlar Listesi"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
+  - title: "2026 Platformlar Arası eSIM Aktarımı"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Compatibility Guide"
+  - title: "iPhone SE eSIM Uyumluluk Kılavuzu"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
+  - title: "iPhone 11 eSIM Tam Kurulum Kılavuzu"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
 
-# Germany eSIM Card: What It Is and When You Still Need a Physical SIM
+# Almanya eSIM Kart: Nedir ve Fiziksel SIM'e Hâlâ Ne Zaman İhtiyaç Duyarsınız
 
-The phrase **Germany eSIM card** shows up in almost every travel forum thread about staying connected in Germany, and it confuses people for a good reason: an eSIM is not a card at all. There is nothing to hold, nothing to insert, and nothing to lose. It is a downloadable SIM profile that your phone installs in about two minutes. In practice the phrase describes a travel eSIM plan — a carrier profile that downloads onto your phone's embedded SIM chip. Yet travelers keep searching for a "German eSIM card" because the mental model of a SIM card — something you buy, slot in, and swap — is decades deep.
+**Almanya eSIM kart** ifadesi, Almanya'da bağlantıda kalmayla ilgili neredeyse her seyahat forumu başlığında karşımıza çıkar ve insanları haklı bir nedenle şaşırtır: bir eSIM hiç de kart değildir. Tutulacak bir şey, takılacak bir şey ve kaybedilecek bir şey yoktur. Telefonunuzun yaklaşık iki dakikada kurduğu indirilebilir bir SIM profilidir. Pratikte bu ifade bir seyahat eSIM paketini tanımlar — telefonunuzun gömülü SIM çipine indirilen bir operatör profili. Yine de gezginler "Alman eSIM kart" aramaya devam eder, çünkü SIM kart zihinsel modeli — satın aldığınız, yerleştirdiğiniz ve değiştirdiğiniz bir şey — onlarca yıl derinliğindedir.
 
-This guide clears up the terminology, compares the embedded profile against the physical SIM card you would buy at a German supermarket kiosk, and answers the question underneath most of these searches: **do I need a SIM card if I have an eSIM?** The short answer is almost always no — but there are three specific situations where a physical card still earns its place, and we will flag each one.
+Bu rehber terminolojiyi netleştirir, gömülü profili bir Alman süpermarket büfesinden alacağınız fiziksel SIM kartla karşılaştırır ve bu aramaların çoğunun altındaki soruyu yanıtlar: **eSIM'im varsa SIM karta ihtiyacım var mı?** Kısa yanıt neredeyse her zaman hayırdır — ancak fiziksel bir kartın hâlâ yerini hak ettiği üç özel durum vardır ve her birini işaretleyeceğiz.
 
-If what you actually want is a **Germany prepaid eSIM card** — a data plan you buy before you fly, with no counter visit and no ID registration — that is the international travel eSIM described throughout this page. The term "prepaid" is doing real work here: German prepaid lines, whether plastic or embedded, carry registration duties that a cross-border travel plan does not.
+Gerçekte istediğiniz şey bir **Almanya ön ödemeli eSIM kart** — uçuştan önce satın aldığınız, gişeye uğramadan ve kimlik kaydı olmadan bir veri paketi — ise, bu sayfa boyunca tanımlanan uluslararası seyahat eSIM'idir. "Ön ödemeli" terimi burada gerçek bir iş yapıyor: Alman ön ödemeli hatları, plastik veya gömülü olsun, sınır ötesi bir seyahat paketinin taşımadığı kayıt yükümlülükleri taşır.
 
-## What a Germany eSIM Card Actually Is
+## Almanya eSIM Kart Gerçekte Nedir
 
-A “Germany eSIM card” is the informal name for a travel plan that downloads onto your phone's embedded SIM chip. When you buy one from an international provider such as Roami, Airalo, or Holafly, you receive a QR code or an app-based activation. Your phone scans it, downloads the profile over Wi-Fi, and the plan sits dormant on your device until you land in Germany and it connects to a local network.
+Bir "Almanya eSIM kart", telefonunuzun gömülü SIM çipine indirilen bir seyahat paketinin gayri resmi adıdır. Roami, Airalo veya Holafly gibi uluslararası bir sağlayıcıdan bir tane aldığınızda, bir QR kodu veya uygulama tabanlı bir aktivasyon alırsınız. Telefonunuz onu tarar, profili Wi-Fi üzerinden indirir ve paket, Almanya'ya inip yerel bir ağa bağlanana kadar cihazınızda uykuda bekler.
 
-Nothing is shipped, nothing is sold at a counter, and nothing can be bent, lost, or previously activated by someone else. That last point matters more than travelers realize: a meaningful share of airport SIM card complaints in Germany involve packages that were already opened or registered to another person.
+Hiçbir şey kargolanmaz, hiçbir şey gişede satılmaz ve hiçbir şey bükülemez, kaybolamaz veya başka biri tarafından önceden etkinleştirilemez. Bu son nokta, gezginlerin fark ettiğinden daha önemlidir: Almanya'daki havalimanı SIM kartı şikâyetlerinin kayda değer bir kısmı, zaten açılmış veya başka bir kişiye kayıtlı paketleri içerir.
 
-The embedded chip inside your phone (the "e" in eSIM) has been standard on every iPhone since the XS/XR generation and on most flagship Android phones since 2019 or so. If you are unsure about your own device, check the [eSIM compatible devices list](/compatibility/) before you buy anything.
+Telefonunuzun içindeki gömülü çip (eSIM'deki "e"), XS/XR neslinden beri her iPhone'da ve 2019 civarından beri çoğu amiral gemisi Android telefonda standarttır. Kendi cihazınızdan emin değilseniz, bir şey satın almadan önce [eSIM uyumlu cihazlar listesini](/compatibility/) kontrol edin.
 
-Where a plastic card carries a printed ICCID on its face, an embedded profile is identified by your device's EID together with the profile's own ICCID. That is why support teams ask for the IMEI of the phone rather than for a card serial number when something goes wrong, and why a damaged physical SIM can be swapped at a shop while a corrupted eSIM profile has to be reissued digitally.
+Plastik bir kartın yüzünde basılı bir ICCID taşıdığı yerde, gömülü bir profil cihazınızın EID'i ile profilin kendi ICCID'i tarafından tanımlanır. Destek ekiplerinin bir şeyler ters gittiğinde kart seri numarası yerine telefonun IMEI'sini istemesinin nedeni budur ve hasarlı bir fiziksel SIM dükkânda değiştirilebilirken bozulmuş bir eSIM profilinin dijital olarak yeniden düzenlenmesi gerekir.
 
-## Germany eSIM Card vs Physical SIM Card: The Practical Differences
+## Almanya eSIM Kart vs Fiziksel SIM Kart: Pratik Farklar
 
-The comparison that matters is not technical — both connect you to the same German networks. It is about the buying and activation experience, and here the differences are sharp:
+Önemli olan karşılaştırma teknik değildir — her ikisi de sizi aynı Alman ağlarına bağlar. Satın alma ve aktivasyon deneyimiyle ilgilidir ve burada farklar keskindir:
 
-*The channel costs and plan prices below were collected from provider and carrier pricing pages and cross-checked against published tariffs on 8 October 2026. Prepaid prices in Germany rotate on a four-week cycle, so confirm the current price with the provider before you buy.*
+*Aşağıdaki kanal maliyetleri ve paket fiyatları, sağlayıcı ve operatör fiyat sayfalarından toplanmış ve 8 Ekim 2026'da yayımlanmış tarifelerle çapraz kontrol edilmiştir. Almanya'daki ön ödemeli fiyatlar dört haftalık döngüyle güncellenir; satın almadan önce güncel fiyatı sağlayıcıdan doğrulayın.*
 
-| Aspect | Germany eSIM card | Physical SIM card in Germany |
+| Yön | Almanya eSIM kart | Almanya'da fiziksel SIM kart |
 |---|---|---|
-| Where you get it | Online, before your trip, in minutes | Kiosks, supermarkets, carrier shops, after arrival |
-| Identity check | None for international travel eSIMs | Mandatory: German law (Ausweispflicht) requires ID registration for prepaid SIMs |
-| Activation time | 2 minutes over Wi-Fi | 30 minutes to 2 hours, often with German-only video verification |
-| Risk of loss or theft | None — it lives inside your phone | A physical card can be lost, or your home SIM slot sits empty |
-| Keeping your home number | Your physical home SIM stays installed | Your home card is usually swapped out |
-| Network choice | Multi-carrier plans can switch between Telekom, Vodafone and O2 | Locked to the one network printed on the card |
+| Nereden alırsınız | Çevrimiçi, seyahatinizden önce, dakikalar içinde | Büfeler, süpermarketler, operatör dükkânları, varıştan sonra |
+| Kimlik kontrolü | Uluslararası seyahat eSIM'leri için hiçbiri | Zorunlu: Alman hukuku (Ausweispflicht) ön ödemeli SIM'ler için kimlik kaydı gerektirir |
+| Aktivasyon süresi | Wi-Fi üzerinden 2 dakika | 30 dakika ile 2 saat, genellikle yalnızca Almanca görüntülü doğrulamayla |
+| Kayıp veya hırsızlık riski | Hiçbiri — telefonunuzun içinde yaşar | Fiziksel bir kart kaybolabilir veya ev SIM yuvanız boş kalır |
+| Ev numaranızı koruma | Fiziksel ev SIM'iniz takılı kalır | Ev kartınız genellikle çıkarılıp değiştirilir |
+| Ağ seçimi | Çok operatörlü paketler Telekom, Vodafone ve O2 arasında geçiş yapabilir | Kartın üzerinde basılı tek ağa kilitli |
 
-The identity-registration row deserves emphasis because it is the single biggest difference for visitors. German prepaid physical cards require passport registration by law; an international travel eSIM does not, because it is not sold under a German consumer contract. We cover the legal background in detail in the [Germany eSIM passport and registration guide](/blog/germany-esim-passport-registration-requirements/).
+Kimlik kaydı satırı vurguyu hak eder çünkü ziyaretçiler için en büyük tek farktır. Alman ön ödemeli fiziksel kartları yasaya göre pasaport kaydı gerektirir; uluslararası bir seyahat eSIM'i gerektirmez, çünkü bir Alman tüketici sözleşmesi altında satılmaz. Hukuki arka planı [Almanya eSIM pasaport ve kayıt rehberinde](/blog/germany-esim-passport-registration-requirements/) ayrıntılı olarak ele alıyoruz.
 
-## Do You Need a SIM Card If You Have an eSIM?
+## eSIM'iniz Varsa SIM Karta İhtiyacınız Var mı?
 
-For the overwhelming majority of trips: no. The downloaded profile fully replaces the physical card for calls, texts, and data. Your home physical SIM stays in the tray (or stays digital, on eSIM-only phones), the travel profile handles everything local, and your phone manages the two side by side. If you plan to run both at once, the [dual SIM and multi-device setup guide](/blog/germany-esim-dual-sim-multi-device/) explains how to set the home line for calls and the travel line for data.
+Seyahatlerin büyük çoğunluğu için: hayır. İndirilen profil, aramalar, mesajlar ve veri için fiziksel kartı tamamen değiştirir. Ev fiziksel SIM'iniz yuvada kalır (veya yalnızca eSIM telefonlarda dijital kalır), seyahat profili tüm yerel işleri halleder ve telefonunuz ikisini yan yana yönetir. İkisini aynı anda çalıştırmayı planlıyorsanız, [çift SIM ve çok cihazlı kurulum rehberi](/blog/germany-esim-dual-sim-multi-device/) ev hattını aramalar için, seyahat hattını veri için nasıl ayarlayacağınızı açıklar.
 
-That said, three situations still justify a physical card:
+Bununla birlikte, üç durum hâlâ fiziksel bir kartı haklı çıkarır:
 
-1. **You own an eSIM-only phone traveling to a non-eSIM country first.** If your itinerary starts somewhere with poor eSIM retail coverage and your device has no physical slot — recent US-model iPhones, for example — a cheap physical SIM bought there is your only fallback. Germany itself is not that country; German eSIM support is excellent.
-2. **You need a long-term German contract with a physical address.** Residents, semester students, and anyone signing a 24-month German mobile contract may receive a physical card by mail depending on the carrier. Short-term visitors never enter this territory.
-3. **Your device is too old for eSIM.** If your phone does not appear on the [compatibility list](/compatibility/), a physical prepaid card bought after landing — with passport in hand — is the honest alternative, bureaucratic friction and all.
+1. **Yalnızca eSIM destekli bir telefonunuz var ve önce eSIM olmayan bir ülkeye seyahat ediyorsunuz.** Güzergâhınız eSIM perakende kapsaması zayıf bir yerde başlıyorsa ve cihazınızda fiziksel yuva yoksa — örneğin son ABD modeli iPhone'lar — orada alınan ucuz bir fiziksel SIM tek yedeğinizdir. Almanya'nın kendisi o ülke değildir; Alman eSIM desteği mükemmeldir.
+2. **Fiziksel adresi olan uzun vadeli bir Alman sözleşmesine ihtiyacınız var.** Sakinler, dönem öğrencileri ve 24 aylık bir Alman mobil sözleşmesi imzalayan herkes, operatöre bağlı olarak postayla fiziksel bir kart alabilir. Kısa süreli ziyaretçiler bu bölgeye hiç girmez.
+3. **Cihazınız eSIM için çok eski.** Telefonunuz [uyumluluk listesinde](/compatibility/) görünmüyorsa, indikten sonra — pasaportunuz elinizde — alınan fiziksel bir ön ödemeli kart, bürokratik sürtünmesiyle birlikte dürüst alternatiftir.
 
-## Where to Get a Germany eSIM Card
+## Almanya eSIM Kart Nereden Alınır
 
-There are two retail channels, and they serve different needs.
+İki perakende kanalı vardır ve farklı ihtiyaçlara hizmet ederler.
 
-### International providers (buy before you fly)
+### Uluslararası sağlayıcılar (uçuştan önce satın alın)
 
-Roami, Airalo, Holafly, Ubigi and similar providers sell travel plans through an app or website, deliver them instantly, and require no ID verification. Roami's Germany plan supports **automatic switching across Telekom, Vodafone and O2**, which matters more in Germany than in most countries — coverage quality between the three networks varies noticeably by region. A 10 GB / 7-day plan costs $7.99, and smaller data packs start lower for short city trips. The [buy Germany eSIM guide](/blog/buy-germany-esim-guide/) walks through the full purchase, refund, and activation-window process.
+Roami, Airalo, Holafly, Ubigi ve benzeri sağlayıcılar seyahat paketlerini bir uygulama veya web sitesi üzerinden satar, anında teslim eder ve kimlik doğrulaması gerektirmez. Roami'nin Almanya paketi **Telekom, Vodafone ve O2 arasında otomatik geçişi** destekler; bu Almanya'da çoğu ülkeden daha önemlidir — üç ağ arasındaki kapsama kalitesi bölgeye göre belirgin şekilde değişir. 10 GB / 7 gün paketi 7,99 $ tutar ve kısa şehir tatilleri için daha küçük veri paketleri daha düşük başlar. [Almanya eSIM satın alma rehberi](/blog/buy-germany-esim-guide/) tam satın alma, iade ve aktivasyon penceresi sürecini adım adım anlatır.
 
-The trade-off is honest: international travel eSIMs are data-first products. If you need a working German phone number, read the next section before you buy.
+Takas dürüsttür: uluslararası seyahat eSIM'leri veri öncelikli ürünlerdir. Çalışan bir Alman telefon numarasına ihtiyacınız varsa, satın almadan önce bir sonraki bölümü okuyun.
 
-### German carriers (buy after arrival, or investigate first)
+### Alman operatörleri (varıştan sonra satın alın veya önce araştırın)
 
-- [Telekom](https://www.telekom.de/) and [O2 Germany](https://www.o2online.de/) sell prepaid and contract products that include a German number, and most of their prepaid offers now activate via eSIM in-store or through their apps — the ID requirement applies either way, rooted in the identification rules of the [Telecommunications Act](https://www.gesetze-im-internet.de/tkg_2021/).
-- [Vodafone Germany](https://www.vodafone.de/) also sells specific eSIM card variants for existing customers converting a physical SIM to eSIM, which is a contract-level operation rather than a travel purchase.
-- The [local carriers and prepaid guide](/blog/germany-esim-local-carriers-prepaid-guide/) compares the three networks' prepaid structures in detail, including which packages visitors can realistically activate.
+- [Telekom](https://www.telekom.de/) ve [O2 Germany](https://www.o2online.de/), Alman numarası içeren ön ödemeli ve sözleşmeli ürünler satar ve ön ödemeli tekliflerinin çoğu artık mağaza içinde veya uygulamaları üzerinden eSIM ile etkinleşir — kimlik şartı her iki durumda da geçerlidir ve [Telekomünikasyon Yasası'nın](https://www.gesetze-im-internet.de/tkg_2021/) kimlik kurallarına dayanır.
+- [Vodafone Germany](https://www.vodafone.de/) ayrıca fiziksel SIM'ini eSIM'e dönüştüren mevcut müşteriler için belirli eSIM kart varyantları satar; bu bir seyahat satın alımı değil sözleşme düzeyinde bir işlemdir.
+- [Yerel operatörler ve ön ödemeli rehberi](/blog/germany-esim-local-carriers-prepaid-guide/) üç ağın ön ödemeli yapılarını ayrıntılı olarak karşılaştırır; ziyaretçilerin gerçekte hangi paketleri etkinleştirebileceği dahil.
 
-## Can a Germany eSIM Card Come With a Phone Number?
+## Almanya eSIM Kart Telefon Numarasıyla Gelebilir mi?
 
-Yes — with a caveat. International travel eSIMs are usually data-only, so incoming calls to your home number still reach your home SIM through roaming or Wi-Fi calling. If you specifically need a **German phone number** — for deliveries, restaurant bookings, or local business contacts — you need a German carrier product, which means the ID registration process applies.
+Evet — bir uyarıyla. Uluslararası seyahat eSIM'leri genellikle yalnızca veridir, bu yüzden ev numaranıza gelen aramalar dolaşım veya Wi-Fi arama yoluyla hâlâ ev SIM'inize ulaşır. Özellikle bir **Alman telefon numarasına** ihtiyacınız varsa — teslimatlar, restoran rezervasyonları veya yerel iş bağlantıları için — bir Alman operatör ürününe ihtiyacınız vardır; bu da kimlik kaydı sürecinin geçerli olduğu anlamına gelir.
 
-The full picture, including how long a German number stays alive after you leave and what 30-day porting windows look like, is covered in the phone-number sections of the [Germany eSIM complete travel guide](/blog/germany-esim-complete-travel-guide/).
+Alman numarasının siz ayrıldıktan sonra ne kadar canlı kaldığı ve 30 günlük numara taşıma pencerelerinin nasıl göründüğü dahil tam resim, [Almanya eSIM tam seyahat rehberinin](/blog/germany-esim-complete-travel-guide/) telefon numarası bölümlerinde ele alınmaktadır.
 
-## Prepaid Germany eSIM Card: How the Money Works
+## Ön Ödemeli Almanya eSIM Kart: Para Nasıl İşler
 
-The word "prepaid" travels with these searches because German mobile culture is prepaid-heavy, and because travelers want cost control without a contract. Three pricing realities to know:
+"Ön ödemeli" kelimesi bu aramalarla birlikte gelir çünkü Alman mobil kültürü ön ödemeli ağırlıklıdır ve gezginler sözleşmesiz maliyet kontrolü ister. Bilinmesi gereken üç fiyatlandırma gerçeği:
 
-- **Local prepaid is pay-as-you-go per package.** You buy a tariff, use it, and top up again. Prices at Telekom, Vodafone and O2 change frequently and vary by package size; check current pricing directly rather than trusting month-old blog figures.
-- **International travel eSIMs are one-off purchases.** You pay once, the plan expires, and there is nothing to top up or cancel. Roami's Germany plans follow this model — no subscription, no auto-renewal, no German customer-service hotline in your future.
-- **The hidden costs sit at the edges.** Airport kiosk cards carry a markup; DCC currency conversion at card terminals can add 3–6% on the purchase itself; and some local prepaid packages throttle unlimited plans after a monthly cap. The payment-method and hidden-fee breakdown in the [buying guide](/blog/buy-germany-esim-guide/) covers all three.
+- **Yerel ön ödemeli paket başına kullandıkça ödedir.** Bir tarife alırsınız, kullanırsınız ve yeniden yükleme yaparsınız. Telekom, Vodafone ve O2'deki fiyatlar sık değişir ve paket boyutuna göre değişir; bir aylık blog rakamlarına güvenmek yerine güncel fiyatlandırmayı doğrudan kontrol edin.
+- **Uluslararası seyahat eSIM'leri tek seferlik satın alımlardır.** Bir kez ödersiniz, paket biter ve yüklenecek veya iptal edilecek bir şey yoktur. Roami'nin Almanya paketleri bu modeli izler — abonelik yok, otomatik yenileme yok, geleceğinizde Alman müşteri hizmetleri sıcak hattı yok.
+- **Gizli maliyetler kenarlarda oturur.** Havalimanı büfesi kartları bir kâr marjı taşır; kart terminallerindeki DCC para birimi dönüşümü satın alımın kendisine %3–6 ekleyebilir; ve bazı yerel ön ödemeli paketler sınırsız paketleri aylık bir sınırdan sonra kısıtlar. [Satın alma rehberindeki](/blog/buy-germany-esim-guide/) ödeme yöntemi ve gizli ücret dökümü üçünü de kapsar.
 
-### What each channel costs, and what it lets you do afterwards
+### Her kanal ne tutar ve sonrasında ne yapmanızı sağlar
 
-Price is only half of the prepaid question. What separates the channels just as sharply is what you can do with the product after you have paid for it:
+Fiyat, ön ödemeli sorunun yalnızca yarısıdır. Kanalları bir o kadar keskin biçimde ayıran şey, ürün için ödeme yaptıktan sonra onunla ne yapabileceğinizdir:
 
-| Channel | What you pay | Data for the money | Top up later? | Refundable? | German number? |
+| Kanal | Ne ödersiniz | Para karşılığı veri | Sonra yükleme? | İade edilebilir mi? | Alman numarası? |
 |---|---|---|---|---|---|
-| International travel eSIM | One-off purchase online | Sized to your trip — Roami's 10 GB / 7-day Germany plan is $7.99 | Yes, where the provider offers top-ups | Usually, until activation | No |
-| German prepaid bought in town | €9–15 | 10–25 GB, billed in four-week cycles | Yes, at any till or in the carrier app | No, once registered | Yes |
-| German prepaid bought at an airport kiosk | €15–30 and up | Small, with short validity | Often not | No, once registered | Yes |
-| German contract (resident route) | Monthly bill, typically 24 months | The largest allowances | — | No | Yes |
+| Uluslararası seyahat eSIM | Çevrimiçi tek seferlik satın alma | Seyahatinize göre boyutlandırılmış — Roami'nin 10 GB / 7 gün Almanya paketi 7,99 $ | Evet, sağlayıcı yükleme sunuyorsa | Genellikle, aktivasyona kadar | Hayır |
+| Şehirde alınan Alman ön ödemelisi | 9–15 € | 10–25 GB, dört haftalık döngüyle faturalandırılır | Evet, herhangi bir kasada veya operatör uygulamasında | Hayır, kayıt olduktan sonra | Evet |
+| Havalimanı büfesinden alınan Alman ön ödemelisi | 15–30 € ve üzeri | Küçük, kısa geçerlilikli | Genellikle hayır | Hayır, kayıt olduktan sonra | Evet |
+| Alman sözleşmesi (sakin yolu) | Aylık fatura, tipik olarak 24 ay | En büyük haklar | — | Hayır | Evet |
 
-Three details in that table are where "cheap" turns expensive, and all three catch first-time visitors:
+Bu tablodaki üç ayrıntı "ucuz"un pahalıya dönüştüğü yerlerdir ve üçü de ilk kez gelen ziyaretçileri yakalar:
 
-- **The advertised price is not the cost.** German prepaid starter packs are often listed at €1.99–15 with a small amount of credit already loaded, and the discount brands give the SIM itself away to win the line. What you actually pay is the tariff you buy on top, so compare packages rather than SIM prices.
-- **German prepaid bills in four-week cycles, not months.** That is 13 charges a year rather than 12, which quietly adds roughly 8% to any comparison against a monthly product.
-- **Per gigabyte, the gap is real.** The supermarket route comes in near €0.40 per gigabyte. An airport tourist pack at €34.99 for 20 GB lands around €1.75 — roughly four times as much, for a plan chosen without any chance to compare. The [local carriers and prepaid guide](/blog/germany-esim-local-carriers-prepaid-guide/) has the tariffs network by network.
+- **İlan edilen fiyat maliyet değildir.** Alman ön ödemeli başlangıç paketleri genellikle küçük bir miktar kredi yüklü olarak 1,99–15 € arasında listelenir ve indirim markaları hattı kazanmak için SIM'in kendisini bedava verir. Gerçekte ödediğiniz şey üstüne aldığınız tarifedir, bu yüzden SIM fiyatları yerine paketleri karşılaştırın.
+- **Alman ön ödemelisi dört haftalık döngülerle faturalandırır, aylarla değil.** Bu yılda 12 yerine 13 ücretlendirme demektir; bu da aylık bir ürünle herhangi bir karşılaştırmaya sessizce yaklaşık %8 ekler.
+- **Gigabayt başına fark gerçektir.** Süpermarket yolu gigabayt başına yaklaşık 0,40 €'ya gelir. 20 GB için 34,99 €'luk bir havalimanı turist paketi yaklaşık 1,75 €'ya iner — kabaca dört katı, hem de karşılaştırma şansı olmadan seçilmiş bir paket için. [Yerel operatörler ve ön ödemeli rehberi](/blog/germany-esim-local-carriers-prepaid-guide/) tarifeleri ağ ağ içerir.
 
-## What the Germany eSIM Card Saves You at the Counter
+## Almanya eSIM Kart Gişede Size Neyi Kurtarır
 
-Registration is mandatory for German prepaid lines, and the four routes that satisfy it — video call, in-store, Deutsche Post counter, or electronic ID — are set out route by route in the [passport and registration guide](/blog/germany-esim-passport-registration-requirements/). What belongs on this page is the arithmetic those routes produce, because "it only takes ten minutes" is not the whole cost.
+Kayıt Alman ön ödemeli hatları için zorunludur ve bunu karşılayan dört yol — görüntülü görüşme, mağaza içi, Deutsche Post gişesi veya elektronik kimlik — [pasaport ve kayıt rehberinde](/blog/germany-esim-passport-registration-requirements/) yol yol ortaya konmuştur. Bu sayfaya ait olan şey, o yolların ürettiği aritmetiktir, çünkü "sadece on dakika sürer" maliyetin tamamı değildir.
 
-| Route | Nominal effort | What it costs in practice |
+| Yol | Nominal çaba | Pratikte ne tutar |
 |---|---|---|
-| Video identification (the default) | 10–15 minutes | 15–40 minutes when a passport reflects light or the connection wobbles; non-Latin passports are refused often enough to be a known failure mode |
-| In-store activation | A few minutes at the counter | The fastest route, but only if a carrier shop is open, staffed and near you |
-| Deutsche Post counter | A short visit | Accepts every passport, including the ones video verification refuses — but keeps banking hours and closes on Sundays |
-| Electronic ID (eID) | Minutes | Limited to EU/EEA documents carrying the required data; a non-EU passport cannot use it at all |
+| Görüntülü kimlik doğrulama (varsayılan) | 10–15 dakika | Pasaport ışığı yansıttığında veya bağlantı sallandığında 15–40 dakika; Latin alfabesi dışı pasaportlar yeterince sık reddedilir ki bu bilinen bir başarısızlık modudur |
+| Mağaza içi aktivasyon | Gişede birkaç dakika | En hızlı yol, ancak yalnızca bir operatör dükkânı açık, personelli ve size yakınsa |
+| Deutsche Post gişesi | Kısa bir ziyaret | Görüntülü doğrulamanın reddettikleri dahil her pasaportu kabul eder — ancak banka saatlerini tutar ve Pazar günleri kapalıdır |
+| Elektronik kimlik (eID) | Dakikalar | Gerekli verileri taşıyan AB/AEA belgeleriyle sınırlıdır; AB dışı bir pasaport bunu hiç kullanamaz |
 
-Two constraints sit underneath that table. You must supply a German address, although a hotel address is accepted — and the process cannot begin until you are physically in the country. That is the real contrast with an embedded travel plan, which you can buy, install and test at home over Wi-Fi, with time to fix anything that goes wrong. Registration is an errand performed jet-lagged, with luggage, in a country whose consumer hotlines run in German.
+Bu tablonun altında iki kısıt yatar. Bir Alman adresi vermelisiniz, ancak bir otel adresi kabul edilir — ve süreç siz fiziksel olarak ülkede olana kadar başlayamaz. Gömülü bir seyahat paketiyle gerçek karşıtlık budur: onu evde Wi-Fi üzerinden satın alabilir, kurabilir ve test edebilirsiniz, ters giden bir şeyi düzeltmek için zamanınız olur. Kayıt, jet lag'liyken, bagajla, tüketici sıcak hatları Almanca çalışan bir ülkede yapılan bir angaryadır.
 
-Then there is the consequence travelers only meet later: registration ties the line to your identity for its whole life. Replacements after loss normally require the same identity document a second time; credit on a lost card is generally not recoverable, particularly from abroad; and moving the number to another provider means passing the identity check again, while the line is still active. An embedded travel plan carries none of that. Its lifecycle is administrative rather than legal — a profile can be reissued by the provider, topped up from an app, and replaced by a fresh digital delivery, with no passport produced at any point.
+Sonra gezginlerin ancak sonradan karşılaştığı bir sonuç vardır: kayıt, hattı tüm yaşamı boyunca kimliğinize bağlar. Kayıptan sonra değişimler normalde aynı kimlik belgesini ikinci kez gerektirir; kayıp bir karttaki kredi genellikle kurtarılamaz, özellikle yurt dışından; ve numarayı başka bir sağlayıcıya taşımak, hat hâlâ etkinken kimlik kontrolünden yeniden geçmek anlamına gelir. Gömülü bir seyahat paketi bunların hiçbirini taşımaz. Yaşam döngüsü yasal değil idaridir — bir profil sağlayıcı tarafından yeniden düzenlenebilir, bir uygulamadan yüklenebilir ve yeni bir dijital teslimatla değiştirilebilir, hiçbir noktada pasaport ibraz edilmeden.
 
-## Germany eSIM Card on iPhone and Android: One Setup Note
+## iPhone ve Android'de Almanya eSIM Kart: Bir Kurulum Notu
 
-Installation is identical in concept on both platforms, but the profiles are not interchangeable: an iPhone-specific QR code will not install on a Pixel. Buy for the device you will actually carry, and if you switch devices mid-trip, expect to request a fresh profile rather than transferring the old one — cross-platform eSIM transfer is only partially supported in 2026. The step-by-step activation flow, including the QR code pitfalls that cause most support tickets, lives in the [installation and activation guide](/blog/germany-esim-installation-activation-setup/).
+Kurulum kavramsal olarak her iki platformda da aynıdır, ancak profiller birbirleriyle değiştirilemez: iPhone'a özel bir QR kodu bir Pixel'e kurulmaz. Gerçekte taşıyacağınız cihaz için satın alın ve seyahat ortasında cihaz değiştirirseniz, eskisini aktarmak yerine yeni bir profil talep etmeyi bekleyin — platformlar arası eSIM aktarımı 2026'da yalnızca kısmen desteklenmektedir. Çoğu destek talebine neden olan QR kodu tuzakları dahil adım adım aktivasyon akışı, [kurulum ve aktivasyon rehberinde](/blog/germany-esim-installation-activation-setup/) yer alır.
 
-## What Your Phone Does With a Germany eSIM Card
+## Telefonunuz Bir Almanya eSIM Kartla Ne Yapar
 
-The card framing hides one genuinely useful difference: how many profiles a phone can hold, against how many it can run. Most recent iPhones store eight or more eSIM profiles but keep only two active at a time, and dual eSIM only works from the iPhone 13 generation onward — an iPhone XS, 11 or 12 runs a single eSIM alongside the physical SIM. Recent Pixel and Galaxy flagships also run two eSIMs at once; most other Android handsets run one plus a physical card.
+Kart çerçevelemesi gerçekten yararlı bir farkı gizler: bir telefonun kaç profil tutabileceği ile kaç tanesini çalıştırabileceği. Çoğu yeni iPhone sekiz veya daha fazla eSIM profili saklar ancak aynı anda yalnızca ikisini canlı tutar ve çift eSIM yalnızca iPhone 13 neslinden itibaren çalışır — bir iPhone XS, 11 veya 12 fiziksel SIM'in yanında tek bir eSIM çalıştırır. Yeni Pixel ve Galaxy amiral gemileri de aynı anda iki eSIM çalıştırır; diğer çoğu Android el cihazı bir artı fiziksel kart çalıştırır.
 
-In practice that produces four rules worth knowing before you buy:
+Pratikte bu, satın almadan önce bilinmesi gereken dört kural üretir:
 
-- **You can pre-load several plans and switch between them.** A travel plan for the trip, a profile for the country either side of it, and your home line can all be installed simultaneously. Only the two you enable draw power or data.
-- **Deleting a profile is not the same as pulling a card.** Slide a plastic SIM out of a phone and you can slide it back in. Delete an eSIM profile and it is gone from the device; recovery means asking the provider to reissue it. Nothing is lost at account level, but the two-minute reversal that plastic gives you does not exist.
-- **Switching phones mid-trip is a reissue, not a transfer.** Moving a profile between handsets is only partially supported in 2026, and the practical answer is a fresh profile for the new device.
-- **One purchase covers one phone.** A profile is licensed to a device, not to a family — but a single plan can still carry a tablet or laptop by hotspot tethering, which the section below covers.
+- **Birkaç paketi önceden yükleyip aralarında geçiş yapabilirsiniz.** Seyahat için bir paket, iki yanındaki ülke için bir profil ve ev hattınız hepsi aynı anda kurulabilir. Yalnızca etkinleştirdiğiniz ikisi güç veya veri çeker.
+- **Bir profili silmek kart çıkarmakla aynı şey değildir.** Plastik bir SIM'i telefondan kaydırıp çıkarırsınız ve geri kaydırabilirsiniz. Bir eSIM profilini silin ve cihazdan gitmiştir; kurtarma, sağlayıcıdan yeniden düzenlemesini istemek anlamına gelir. Hesap düzeyinde hiçbir şey kaybolmaz, ancak plastiğin size verdiği iki dakikalık geri dönüş yoktur.
+- **Seyahat ortasında telefon değiştirmek bir aktarım değil yeniden düzenlemedir.** Bir profili el cihazları arasında taşımak 2026'da yalnızca kısmen desteklenmektedir ve pratik yanıt yeni cihaz için yeni bir profildir.
+- **Bir satın alma bir telefonu kapsar.** Bir profil bir aileye değil bir cihaza lisanslıdır — ancak tek bir paket yine de hotspot paylaşımıyla bir tablet veya dizüstü taşıyabilir; aşağıdaki bölüm bunu kapsar.
 
-The [dual SIM and multi-device setup guide](/blog/germany-esim-dual-sim-multi-device/) walks through the multi-profile configuration screen by screen. For the QR code mistakes behind most support tickets, see the [installation and activation guide](/blog/germany-esim-installation-activation-setup/).
+[Çift SIM ve çok cihazlı kurulum rehberi](/blog/germany-esim-dual-sim-multi-device/) çok profilli yapılandırmayı ekran ekran anlatır. Çoğu destek talebinin arkasındaki QR kodu hataları için [kurulum ve aktivasyon rehberine](/blog/germany-esim-installation-activation-setup/) bakın.
 
-## Germany eSIM Card Listings: What "Card" Means on Different Sites
+## Almanya eSIM Kart Listeleri: Farklı Sitelerde "Kart" Ne Anlama Gelir
 
-Because the vocabulary is inconsistent across the industry, the same phrase means different things depending on where you shop. Learning to read the product page saves more frustration than any single purchase decision:
+Sektörde kelime dağarcığı tutarsız olduğundan, aynı ifade nereden alışveriş yaptığınıza bağlı olarak farklı anlamlara gelir. Ürün sayfasını okumayı öğrenmek, herhangi bir tek satın alma kararından daha fazla hayal kırıklığı tasarrufu sağlar:
 
-- **" Germany eSIM card"** on an international provider's site means a downloadable travel plan — what this guide describes. The word "card" is pure SEO inheritance.
-- **"SIM card"** on a German carrier's site means a physical card, shipped by mail or handed over at a shop, with the ID registration attached.
-- **"eSIM activation"** on a carrier site usually means converting an existing contract line from physical to embedded format — a customer-service operation, not a travel purchase.
-- **"Prepaid"** signals no contract and no monthly bill; on international sites it is mostly redundant, because travel plans are single-purchase by design.
+- **Uluslararası bir sağlayıcının sitesindeki "Germany eSIM card"**, indirilebilir bir seyahat paketi anlamına gelir — bu rehberin tanımladığı şey. "Kart" kelimesi saf SEO mirasıdır.
+- **Bir Alman operatörün sitesindeki "SIM card"**, postayla gönderilen veya bir dükkânda verilen ve kimlik kaydı eklenmiş fiziksel bir kart anlamına gelir.
+- **Bir operatör sitesindeki "eSIM activation"**, genellikle mevcut bir sözleşme hattını fizikselden gömülü formata dönüştürmek anlamına gelir — bir müşteri hizmetleri işlemi, seyahat satın alımı değil.
+- **"Prepaid"**, sözleşme ve aylık fatura olmadığını gösterir; uluslararası sitelerde çoğunlukla gereksizdir, çünkü seyahat paketleri tasarım gereği tek satın alımlıdır.
 
-One more detail worth knowing before checkout: modern phones display an **EID** — a 32-digit serial number for the embedded chip — in their settings. Some carrier activations ask for it; travel providers almost never do. If a site asks for your EID and your IMEI together, you are dealing with a carrier-grade activation flow, not a travel product.
+Ödeme öncesi bilinmeye değer bir ayrıntı daha: modern telefonlar ayarlarında gömülü çip için 32 haneli bir seri numarası olan bir **EID** gösterir. Bazı operatör aktivasyonları bunu ister; seyahat sağlayıcıları neredeyse hiç istemez. Bir site hem EID'nizi hem IMEI'nizi soruyorsa, bir seyahat ürünüyle değil operatör düzeyinde bir aktivasyon akışıyla karşı karşıyasınız.
 
-## Why an Embedded Profile Is Also the Safer Card
+## Gömülü Profil Neden Aynı Zamanda Daha Güvenli Karttır
 
-A physical SIM card can be stolen, borrowed, or swapped out of your phone in the time it takes to order a coffee. An embedded profile cannot be pulled from the device — removing it requires unlocking your screen and deliberately deleting the profile through settings. For travelers this closes a real, if uncommon, attack surface: a lost phone with an active physical card is a bigger liability than a lost phone whose connectivity lives in an eSIM profile protected by your passcode.
+Fiziksel bir SIM kart, bir kahve sipariş etme süresinde çalınabilir, ödünç alınabilir veya telefonunuzdan çıkarılıp değiştirilebilir. Gömülü bir profil cihazdan çekilemez — onu kaldırmak ekranınızın kilidini açmayı ve profili ayarlar üzerinden bilinçli olarak silmeyi gerektirir. Gezginler için bu, gerçek ama nadir bir saldırı yüzeyini kapatır: etkin bir fiziksel kartla kayıp bir telefon, bağlantısı şifrenizle korunan bir eSIM profilinde yaşayan kayıp bir telefondan daha büyük bir yükümlülüktür.
 
-There is a second, quieter benefit. Because the profile is bound to your account with the provider, a damaged or replaced phone can usually be re-provisioned with the same plan rather than losing it — the account, not the plastic, is the product. Physical prepaid cards offer no such recovery; once the card is gone, the balance usually goes with it.
+İkinci, daha sessiz bir fayda daha vardır. Profil sağlayıcıdaki hesabınıza bağlı olduğundan, hasarlı veya değiştirilmiş bir telefon genellikle aynı paketle yeniden sağlanabilir, paket kaybedilmez — ürün plastik değil hesaptır. Fiziksel ön ödemeli kartlar böyle bir kurtarma sunmaz; kart gittiğinde bakiye de genellikle onunla gider.
 
-## Germany eSIM Card Expiry, Reuse and the Second Trip
+## Almanya eSIM Kartın Bitişi, Yeniden Kullanımı ve İkinci Seyahat
 
-Travelers often ask whether one purchase covers a return trip. The answer depends on which clock you are looking at:
+Gezginler sık sık tek bir satın alımın dönüş seyahatini kapsayıp kapsamadığını sorar. Yanıt hangi saate baktığınıza bağlıdır:
 
-- **Plan validity** runs from activation, typically 7 to 30 days. Once the window closes, the plan is spent regardless of remaining data.
-- **Profile dormancy** — an installed-but-not-activated profile usually survives for months, which is why buying before a trip scheduled months out is generally safe, but always confirm the specific validity start rule at checkout.
-- **Reuse across trips** is uncommon for travel eSIMs: most providers treat each purchase as a separate plan, and a top-up extends the current plan rather than parking it for next year. If Germany is one leg of a longer 2027 trip, budget a fresh purchase rather than counting on a leftover profile.
-- **Installation is not always neutral.** Some providers start the validity window the moment the profile lands on your phone rather than at first connection, which turns a well-intentioned early install into a plan that expires before you fly. That one line in the terms is worth reading before you scan anything, and it is why the checklist above puts it first.
+- **Paket geçerliliği** aktivasyondan itibaren işler, tipik olarak 7 ila 30 gün. Pencere kapandığında, kalan veri ne olursa olsun paket harcanmıştır.
+- **Profil uykusu** — kurulmuş ama etkinleştirilmemiş bir profil genellikle aylarca dayanır; bu yüzden aylar sonrasına planlanmış bir seyahatten önce satın almak genellikle güvenlidir, ancak ödeme sırasında spesifik geçerlilik başlangıç kuralını her zaman doğrulayın.
+- **Seyahatler arası yeniden kullanım** seyahat eSIM'leri için yaygın değildir: çoğu sağlayıcı her satın alımı ayrı bir paket olarak görür ve bir yükleme mevcut paketi uzatır, gelecek yıl için park etmez. Almanya 2027'deki daha uzun bir seyahatin bir ayağıysa, kalan bir profile güvenmek yerine yeni bir satın alma bütçeleyin.
+- **Kurulum her zaman nötr değildir.** Bazı sağlayıcılar geçerlilik penceresini ilk bağlantıda değil, profilin telefonunuza indiği anda başlatır; bu da iyi niyetli bir erken kurulumu uçuşunuzdan önce biten bir pakete dönüştürür. Koşullardaki bu tek satır, herhangi bir şeyi taramadan önce okumaya değer ve yukarıdaki kontrol listesinin neden onu ilk sıraya koyduğunun nedenidir.
 
-## Tablet, Laptop and Second Devices: One Profile or One Plan Each
+## Tablet, Dizüstü ve İkinci Cihazlar: Bir Profil mi, Her Birine Bir Paket mi
 
-The "card" mentality creates a second misunderstanding: that one purchase should cover every device in the family. Travel eSIM plans are licensed per profile, and a profile lives on one device. Four travelers need four profiles — but that does not mean four full-price plans, because a phone with hotspot tethering can legitimately serve a tablet or laptop alongside it.
+"Kart" zihniyeti ikinci bir yanlış anlama yaratır: tek bir satın alımın ailedeki her cihazı kapsaması gerektiği. Seyahat eSIM paketleri profil başına lisanslıdır ve bir profil bir cihazda yaşar. Dört gezgin dört profil gerektirir — ancak bu dört tam fiyatlı paket anlamına gelmez, çünkü hotspot paylaşımı olan bir telefon meşru şekilde yanında bir tablet veya dizüstüne hizmet edebilir.
 
-The practical arrangements, in order of cost efficiency:
+Maliyet verimliliği sırasına göre pratik düzenlemeler:
 
-- **Hotspot tethering from one phone.** The cheapest option if one person is willing to be the walking router. Check that the plan allows hotspot use — most travel plans do, but a minority restrict it, and unlimited plans sometimes throttle tethered traffic specifically.
-- **Separate profiles for the heavy users.** Teenagers streaming video and anyone taking work calls should have their own plan; sharing a hotspot across a video call degrades both.
-- **A leftover plan as backup.** If you have an unexpired profile from a previous Europe trip, it can serve as an emergency second line. Validate before relying on it — expired plans cannot be revived.
+- **Tek bir telefondan hotspot paylaşımı.** Bir kişi yürüyen yönlendirici olmaya razıysa en ucuz seçenek. Paketin hotspot kullanımına izin verdiğini kontrol edin — çoğu seyahat paketi verir, ancak azınlıkta kalan bir kısmı kısıtlar ve sınırsız paketler bazen özellikle paylaşılan trafiği kısıtlar.
+- **Ağır kullanıcılar için ayrı profiller.** Video akışı yapan gençler ve iş görüşmesi yapan herkesin kendi paketi olmalıdır; bir görüntülü görüşme boyunca hotspot paylaşmak her ikisini de bozar.
+- **Yedek olarak kalan bir paket.** Önceki bir Avrupa seyahatinden süresi dolmamış bir profiliniz varsa, acil ikinci hat olarak hizmet edebilir. Ona güvenmeden önce doğrulayın — süresi dolmuş paketler canlandırılamaz.
 
-Tablets with cellular modems and eSIM support take their own profiles normally. Wi-Fi-only tablets cannot use a cellular plan at all, hotspot or not.
+Hücresel modemli ve eSIM destekli tabletler kendi profillerini normal şekilde alır. Yalnızca Wi-Fi tabletler hücresel bir paketi hiç kullanamaz, hotspot olsun olmasın.
 
-## What Happens to Your Home SIM When You Switch On
+## Açtığınızda Ev SIM'inize Ne Olur
 
-Travelers often worry that activating a travel plan will knock their home line offline. It will not. On any dual-SIM phone, the two lines coexist: your home physical SIM or home eSIM keeps its number registered on your home network (via roaming or Wi-Fi calling), while the travel profile handles data. Incoming calls and SMS — including the bank verification codes that ruin trips when they fail — keep arriving on the home line as long as you leave it enabled.
+Gezginler sık sık bir seyahat paketini etkinleştirmenin ev hatlarını çevrimdışı bırakacağından endişelenir. Bırakmaz. Herhangi bir çift SIM'li telefonda iki hat bir arada bulunur: ev fiziksel SIM'iniz veya ev eSIM'iniz numarasını ev ağınızda kayıtlı tutar (dolaşım veya Wi-Fi arama yoluyla), seyahat profili ise veriyi halleder. Gelen aramalar ve SMS — başarısız olduklarında seyahatleri mahveden banka doğrulama kodları dahil — siz onu etkin bıraktığınız sürece ev hattına gelmeye devam eder.
 
-The setup that works for most visitors: home line active for calls and SMS, travel plan set to the default data line, and roaming left *off* on the home line if your home carrier charges roaming data rates. That last switch is where most surprise bills originate. The [complete travel guide](/blog/germany-esim-complete-travel-guide/) walks through the same configuration screen by screen.
+Çoğu ziyaretçi için işleyen kurulum: ev hattı aramalar ve SMS için etkin, seyahat paketi varsayılan veri hattı olarak ayarlı ve ev operatörünüz dolaşım veri ücreti alıyorsa ev hattında dolaşım *kapalı* bırakılır. Çoğu sürpriz faturanın kaynağı o son anahtardır. [Tam seyahat rehberi](/blog/germany-esim-complete-travel-guide/) aynı yapılandırmayı ekran ekran anlatır.
 
-## How Trip Length Changes Your Germany eSIM Card Decision
+## Seyahat Süresi Almanya eSIM Kart Kararınızı Nasıl Değiştirir
 
-The card-versus-eSIM question answers itself once you look at trip length, because the fixed costs differ:
+Kart-eSIM karşı soru, seyahat süresine baktığınızda kendini yanıtlar, çünkü sabit maliyetler farklıdır:
 
-| Trip type | Best fit | Why |
+| Seyahat türü | En uygun | Neden |
 |---|---|---|
-| Weekend city break | Travel eSIM, small data pack | Nothing to collect, nothing to return; a 3 GB plan clears a weekend of maps and messaging |
-| One to two weeks | Travel eSIM, 10 GB class plan | Covers daily navigation, social sharing and light tethering at a flat price |
-| One month or longer | Compare travel eSIM top-ups against local prepaid | Local prepaid starts winning on cost per gigabyte past roughly four weeks, but brings ID registration |
-| Resident or student | Local carrier contract | The only route to a permanent German number and contract pricing |
+| Hafta sonu şehir tatili | Seyahat eSIM, küçük veri paketi | Toplanacak, iade edilecek bir şey yok; 3 GB'lık bir paket bir hafta sonu harita ve mesajlaşmayı temizler |
+| Bir ila iki hafta | Seyahat eSIM, 10 GB sınıfı paket | Günlük navigasyon, sosyal paylaşım ve hafif paylaşımı sabit fiyatla kapsar |
+| Bir ay veya daha uzun | Seyahat eSIM yüklemelerini yerel ön ödemeliyle karşılaştırın | Yerel ön ödemeli kabaca dört haftadan sonra gigabayt başına maliyette kazanmaya başlar, ancak kimlik kaydı getirir |
+| Sakin veya öğrenci | Yerel operatör sözleşmesi | Kalıcı bir Alman numarası ve sözleşme fiyatlandırmasına giden tek yol |
 
-The middle rows are where most readers land, and where a 10 GB / 7-day plan at $7.99 — extendable by top-up — does the job without any of the registration friction.
+Orta satırlar çoğu okuyucunun indiği yerdir ve 7,99 $'lık 10 GB / 7 gün paketinin — yüklemeyle uzatılabilir — herhangi bir kayıt sürtünmesi olmadan işi yaptığı yerdir.
 
-## Germany eSIM Card Buying Checklist: Six Things to Confirm Before Checkout
+## Almanya eSIM Kart Satın Alma Kontrol Listesi: Ödeme Öncesi Doğrulanacak Altı Şey
 
-- **When does the validity clock start?** Providers disagree: at purchase, at installation, or at first connection on a foreign network. Only the last one is genuinely safe to buy months in advance.
-- **How many profiles, for how many devices?** One plan normally means one profile on one phone. Confirm before buying for a group.
-- **Is hotspot tethering allowed?** Most travel plans permit it, a minority restrict it, and some unlimited plans throttle tethered traffic specifically. This single line decides whether one plan can carry a tablet as well.
-- **Number or data-only?** Data-only is the norm for international plans, and it is exactly why your bank's verification codes keep arriving on your home line. If you need a German number, you need a carrier product and the registration that comes with it.
-- **EU roaming included, and at what fair-use cap?** A plan that roams across the border reshapes a multi-country itinerary; a low fair-use cap does the opposite. The [multi-country rail guide](/blog/germany-esim-multi-country-europe-rail/) covers when crossing borders changes the plan choice.
-- **What happens if you install it and it fails?** Purchased-but-unactivated normally refunds; activated rarely does. The [buying guide](/blog/buy-germany-esim-guide/) sets out the windows and the activation exception.
+- **Geçerlilik saati ne zaman başlar?** Sağlayıcılar anlaşmazlık içindedir: satın almada, kurulumda veya yabancı bir ağda ilk bağlantıda. Yalnızca sonuncusu aylar öncesinden satın almak için gerçekten güvenlidir.
+- **Kaç profil, kaç cihaz için?** Bir paket normalde bir telefonda bir profil anlamına gelir. Bir grup için satın almadan önce doğrulayın.
+- **Hotspot paylaşımına izin veriliyor mu?** Çoğu seyahat paketi izin verir, azınlıkta kalan bir kısmı kısıtlar ve bazı sınırsız paketler özellikle paylaşılan trafiği kısıtlar. Bu tek satır, bir paketin bir tableti de taşıyıp taşıyamayacağını belirler.
+- **Numara mı, yalnızca veri mi?** Uluslararası paketler için yalnızca veri normdur ve bankanızın doğrulama kodlarının ev hattınıza gelmeye devam etmesinin nedeni tam budur. Alman numarasına ihtiyacınız varsa, bir operatör ürününe ve onunla gelen kayda ihtiyacınız vardır.
+- **AB dolaşımı dahil mi ve hangi adil kullanım sınırında?** Sınır ötesinde dolaşan bir paket çok ülkeli bir güzergâhı yeniden şekillendirir; düşük bir adil kullanım sınırı tam tersini yapar. [Çok ülkeli demiryolu rehberi](/blog/germany-esim-multi-country-europe-rail/) sınır geçmenin paket seçimini ne zaman değiştirdiğini kapsar.
+- **Kurup başarısız olursa ne olur?** Satın alınmış ama etkinleştirilmemiş normalde iade edilir; etkinleştirilmiş nadiren eder. [Satın alma rehberi](/blog/buy-germany-esim-guide/) pencereleri ve aktivasyon istisnasını ortaya koyar.
 
-## Germany eSIM Card Quick Glossary
+## Almanya eSIM Kart Hızlı Sözlük
 
-- **eSIM / embedded SIM** — the chip soldered into your phone since roughly 2018; the thing a " Germany eSIM card" actually uses.
-- **SIM profile** — the carrier configuration downloaded onto that chip. One phone can hold several.
-- **QR code activation** — the most common install method: scan, download, done over Wi-Fi.
-- **EID** — the embedded chip's serial number, occasionally requested during carrier activations.
-- **Ausweispflicht** — the German ID-registration requirement that applies to local prepaid cards and contracts, but not to international travel eSIMs.
-- **Multi-carrier switching** — the ability of a plan to move between Telekom, Vodafone and O2 networks automatically, which single physical cards cannot do.
+- **eSIM / gömülü SIM** — yaklaşık 2018'den beri telefonunuza lehimlenen çip; "Almanya eSIM kart"ın gerçekte kullandığı şey.
+- **SIM profili** — o çipe indirilen operatör yapılandırması. Bir telefon birkaç tane tutabilir.
+- **QR kodu aktivasyonu** — en yaygın kurulum yöntemi: tara, indir, Wi-Fi üzerinden bitti.
+- **EID** — gömülü çipin seri numarası, bazen operatör aktivasyonları sırasında istenir.
+- **Ausweispflicht** — yerel ön ödemeli kartlar ve sözleşmeler için geçerli olan, ancak uluslararası seyahat eSIM'leri için geçerli olmayan Alman kimlik kaydı şartı.
+- **Çok operatörlü geçiş** — bir paketin Telekom, Vodafone ve O2 ağları arasında otomatik hareket etme yeteneği; tek fiziksel kartların yapamadığı şey.
 
-## Frequently Asked Questions
+## Sıkça Sorulan Sorular
 
-### Is a Germany eSIM card a real, physical card?
+### Almanya eSIM kart gerçek, fiziksel bir kart mıdır?
 
-No. The term persists from SIM-card vocabulary, but an eSIM is a downloadable software profile installed on the chip already built into your phone. Nothing physical is shipped or handed over.
+Hayır. Terim SIM kart kelime dağarcığından kalıcıdır, ancak bir eSIM telefonunuzda zaten yerleşik olan çipe kurulan indirilebilir bir yazılım profilidir. Fiziksel hiçbir şey kargolanmaz veya teslim edilmez.
 
-### Do I need a SIM card if I have an eSIM?
+### eSIM'im varsa SIM karta ihtiyacım var mı?
 
-Not in Germany. An eSIM does everything a physical card does — calls, texts, and data — without the ID registration that German prepaid physical cards require. You only need a physical card if your phone lacks eSIM support, or if you are signing a long-term German contract that ships one. If the phrasing of your search was literally "do I need a SIM card if I have eSIM", the answer in a German context is the same: the embedded profile covers every use a visitor has, and the only thing a plastic card adds is an obligation to register your identity.
+Almanya'da gerekmez. Bir eSIM, fiziksel bir kartın yaptığı her şeyi — aramalar, mesajlar ve veri — Alman ön ödemeli fiziksel kartlarının gerektirdiği kimlik kaydı olmadan yapar. Fiziksel bir karta yalnızca telefonunuz eSIM desteğinden yoksunsa veya bir tane gönderen uzun vadeli bir Alman sözleşmesi imzalıyorsanız ihtiyacınız olur. Aramanızın ifadesi gerçekten "eSIM'im varsa SIM karta ihtiyacım var mı" ise, Alman bağlamında yanıt aynıdır: gömülü profil bir ziyaretçinin sahip olduğu her kullanımı kapsar ve plastik bir kartın eklediği tek şey kimliğinizi kaydetme yükümlülüğüdür.
 
-### Can I use a Germany eSIM card and my home SIM at the same time?
+### Bir Almanya eSIM kartı ve ev SIM'imi aynı anda kullanabilir miyim?
 
-Yes, on any dual-SIM phone. Most travelers keep the home line active for calls and SMS verification while the travel profile handles data. Setup details and the common pitfalls are in the [dual SIM guide](/blog/germany-esim-dual-sim-multi-device/).
+Evet, herhangi bir çift SIM'li telefonda. Çoğu gezgin, seyahat profili veriyi hallederken ev hattını aramalar ve SMS doğrulaması için etkin tutar. Kurulum ayrıntıları ve yaygın tuzaklar [çift SIM rehberindedir](/blog/germany-esim-dual-sim-multi-device/).
 
-### Which Germany eSIM card is cheapest?
+### Hangi Almanya eSIM kart en ucuz?
 
-For pure data, international travel eSIMs usually win — Roami's 10 GB / 7-day Germany plan at $7.99 undercuts local prepaid starter packs once you factor in the markup at kiosks. For a German phone number, local prepaid is the only route, and you should compare current Telekom, Vodafone and O2 tariffs directly since they rotate monthly.
+Saf veri için uluslararası seyahat eSIM'leri genellikle kazanır — Roami'nin 7,99 $'lık 10 GB / 7 gün Almanya paketi, büfelerdeki kâr marjını hesaba kattığınızda yerel ön ödemeli başlangıç paketlerini altında bırakır. Bir Alman telefon numarası için yerel ön ödemeli tek yoldur ve aylık döndükleri için güncel Telekom, Vodafone ve O2 tarifelerini doğrudan karşılaştırmalısınız.
 
-### Does a Germany eSIM card expire?
+### Almanya eSIM kartın süresi dolar mı?
 
-Travel eSIM plans have a validity window that starts at activation — typically 7 to 30 days depending on the plan. Unused plans generally stay dormant until you activate, but check the specific validity terms before buying for a trip several months out.
+Seyahat eSIM paketlerinin aktivasyonda başlayan bir geçerlilik penceresi vardır — pakete bağlı olarak tipik olarak 7 ila 30 gün. Kullanılmayan paketler genellikle siz etkinleştirene kadar uykuda kalır, ancak aylar sonrasına bir seyahat için satın almadan önce spesifik geçerlilik koşullarını kontrol edin.
 
-### Is a Germany eSIM card safe from SIM swapping?
+### Almanya eSIM kart SIM takas dolandırıcılığından güvenli mi?
 
-Substantially safer than a physical card. A physical SIM can be removed from a stolen phone and moved to another device; an embedded profile is protected by your screen lock and can only be deleted deliberately from within settings. Your home number remains exposed to carrier-level swap fraud regardless of which travel option you choose, so keep SIM-lock protections active on your home line.
+Fiziksel bir karttan önemli ölçüde daha güvenli. Fiziksel bir SIM çalınan bir telefondan çıkarılıp başka bir cihaza taşınabilir; gömülü bir profil ekran kilidinizle korunur ve yalnızca ayarlar içinden bilinçli olarak silinebilir. Ev numaranız hangi seyahat seçeneğini seçerseniz seçin operatör düzeyinde takas dolandırıcılığına maruz kalır, bu yüzden ev hattınızda SIM kilit korumalarını etkin tutun.
 
-### Can I give a Germany eSIM card to a family member?
+### Almanya eSIM kartı bir aile üyesine verebilir miyim?
 
-Digital delivery makes this trivial compared to physical cards: buy the plan, forward the QR code to their phone, and they install it on their own device. One profile works on one phone only — a family of four needs four plans, which the [families and special travel guide](/blog/germany-esim-families-students-special-travel/) covers in more depth, including hotspot strategies that reduce how many plans you actually need.
+Dijital teslimat bunu fiziksel kartlara kıyasla önemsiz kılar: paketi satın alın, QR kodunu onların telefonuna iletin ve kendi cihazlarına kurarlar. Bir profil yalnızca bir telefonda çalışır — dört kişilik bir aile dört paket gerektirir; [aileler ve özel seyahat rehberi](/blog/germany-esim-families-students-special-travel/) bunu, gerçekte kaç pakete ihtiyacınız olduğunu azaltan hotspot stratejileri dahil daha derinlemesine ele alır.
 
-### What does a Germany eSIM card cost compared with a German prepaid SIM?
+### Almanya eSIM kartın maliyeti bir Alman ön ödemeli SIM ile karşılaştırıldığında nedir?
 
-For data alone, the international plan usually wins once you price the alternatives per gigabyte. Supermarket prepaid in Germany is genuinely cheap at around €0.40 per gigabyte, but an airport tourist pack at €34.99 for 20 GB is about €1.75, roughly four times that. A travel plan such as Roami's 10 GB / 7-day Germany eSIM at $7.99 sits well below the airport counter, needs no ID registration, and can be refunded if you never activate it.
+Yalnızca veri için, alternatifleri gigabayt başına fiyatlandırdığınızda uluslararası paket genellikle kazanır. Almanya'da süpermarket ön ödemelisi gigabayt başına yaklaşık 0,40 € ile gerçekten ucuzdur, ancak 20 GB için 34,99 €'luk bir havalimanı turist paketi yaklaşık 1,75 €'dur, yani kabaca dört katı. Roami'nin 7,99 $'lık 10 GB / 7 gün Almanya eSIM'i gibi bir seyahat paketi havalimanı gişesinin epey altındadır, kimlik kaydı gerektirmez ve hiç etkinleştirmezseniz iade edilebilir.
 
-### Do I need to register my passport for a Germany eSIM card?
+### Almanya eSIM kart için pasaportumu kaydetmem gerekiyor mu?
 
-No. The German registration requirement binds German providers activating German prepaid lines, which is why a physical prepaid card needs your passport. An internationally issued travel eSIM roams onto a German network instead of being sold under a German consumer contract, so no identity check applies — and none can be performed before you land in any case.
+Hayır. Alman kayıt şartı, Alman ön ödemeli hatlarını etkinleştiren Alman sağlayıcıları bağlar; bu yüzden fiziksel bir ön ödemeli kart pasaportunuzu gerektirir. Uluslararası düzenlenmiş bir seyahat eSIM'i, bir Alman tüketici sözleşmesi altında satılmak yerine bir Alman ağına dolaşır; bu yüzden hiçbir kimlik kontrolü geçerli değildir — ve her durumda siz ülkeye inmeden hiçbiri yapılamaz.
 
-### Can I activate a German prepaid SIM before I travel?
+### Seyahatimden önce bir Alman ön ödemeli SIM'i etkinleştirebilir miyim?
 
-No. Registration requires you to be in Germany, and you must supply a German address — a hotel address is accepted, but a foreign one is not. This is the structural reason the embedded travel plan exists as a category: it is the only way to arrive connected on a German network without an errand you cannot start from home.
+Hayır. Kayıt, Almanya'da olmanızı gerektirir ve bir Alman adresi vermelisiniz — bir otel adresi kabul edilir, ancak yabancı bir adres edilmez. Gömülü seyahat paketinin bir kategori olarak var olmasının yapısal nedeni budur: evden başlayamayacağınız bir angarya olmadan bir Alman ağında bağlı olarak varmanın tek yolu budur.
 
-### How many eSIM profiles can my phone hold?
+### Telefonum kaç eSIM profili tutabilir?
 
-Most recent iPhones store eight or more profiles but run only two at a time, and dual eSIM needs an iPhone 13 or later. Recent Pixel and Galaxy flagships also run two; most other Android phones run one eSIM alongside a physical SIM. Storage is rarely the constraint — active lines are, and your home line usually occupies one of them.
+Çoğu yeni iPhone sekiz veya daha fazla profil saklar ancak aynı anda yalnızca ikisini çalıştırır ve çift eSIM, iPhone 13 veya üstünü gerektirir. Yeni Pixel ve Galaxy amiral gemileri de iki tane çalıştırır; diğer çoğu Android telefon fiziksel SIM'in yanında bir eSIM çalıştırır. Depolama nadiren kısıttır — etkin hatlar öyledir ve ev hattınız genellikle onlardan birini işgal eder.

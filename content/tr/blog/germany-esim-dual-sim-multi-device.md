@@ -1,11 +1,11 @@
 ---
-title: "How to Use Dual SIM in Germany with eSIM: Full Guide"
-description: "Use dual SIM in Germany with your home number and a Germany eSIM. Roami supports WhatsApp, hotspot sharing and multi-device use."
-keywords: ["Germany eSIM dual SIM", "how to set up dual SIM with home SIM and Germany eSIM", "Germany eSIM dual SIM conflict", "Germany eSIM for multiple devices"]
+title: "Almanya'da eSIM ile Çift SIM Nasıl Kullanılır: Tam Rehber"
+description: "Almanya'da ev numaranız ve bir Almanya eSIM ile çift SIM kullanın. Roami WhatsApp, hotspot paylaşımı ve çoklu cihaz kullanımını destekler."
+keywords: ["Germany eSIM dual SIM", "how to set up dual SIM with home SIM and Germany eSIM", "Germany eSIM dual SIM conflict", "Germany eSIM for multiple devices", "almanya esim çift sim", "almanya esim birden fazla cihaz"]
 date: 2026-10-09T00:00:00Z
 lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Roami, yılda 1 milyondan fazla gezgine hizmet veren güvenilir eSIM planları sunar ve gezginlerin dünya genelinde bağlantıda kalmasına yardımcı olmak için otomatik yerel ağ geçişini destekler."
 image: "/img/esim/germany/germany-esim-dual-sim-multi-device.jpg"
 categories: ["Germany", "eSIM", "Travel"]
 tags: ["Germany eSIM", "Travel eSIM"]
@@ -13,510 +13,509 @@ readingTime: 34
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Dual SIM in Germany: Running Your Home Line Alongside a Germany eSIM"
-productsTitle: "Popular eSIM Plans"
-hotPostsTitle: "Hot Articles"
-recentPostsTitle: "Recent Posts"
+h1title: "Almanya'da Çift SIM: Ev Hattınızı Bir Almanya eSIM'in Yanında Çalıştırma"
+productsTitle: "Popüler eSIM Planları"
+hotPostsTitle: "Öne Çıkan Makaleler"
+recentPostsTitle: "Son Yazılar"
 products:
-  - name: "Europe eSIM"
+  - name: "Avrupa eSIM"
     flag: "/img/flags/eu.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "europe"
-  - name: "USA eSIM"
+  - name: "ABD eSIM"
     flag: "/img/flags/us.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "united-states"
-  - name: "Japan eSIM"
+  - name: "Japonya eSIM"
     flag: "/img/flags/jp.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "japan"
 recentPosts:
-  - title: "eSIM Compatible Devices List"
+  - title: "eSIM Uyumlu Cihazlar Listesi"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
+  - title: "2026 Platformlar Arası eSIM Transferi"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Compatibility Guide"
+  - title: "iPhone SE eSIM Uyumluluk Rehberi"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
+  - title: "iPhone 11 eSIM Tam Kurulum Rehberi"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-Roami provides a [Germany eSIM built for dual-SIM use](/germany-esim/). Keeping your home phone number active while using a German data connection is the most common challenge travelers face with eSIMs. Nobody wants to swap out their home SIM and lose access to:
+Roami, [çift SIM kullanımı için tasarlanmış bir Almanya eSIM'i](/germany-esim/) sunar. Bir Alman veri bağlantısı kullanırken ev telefon numaranızı etkin tutmak, gezginlerin eSIM'lerle karşılaştığı en yaygın zorluktur. Kimse ev SIM'ini çıkarıp şunlara erişimini kaybetmek istemez:
 
-- Banking verification codes
-- Two-factor authentication for work accounts
-- Messaging group chats
+- Bankacılık doğrulama kodları
+- İş hesapları için iki faktörlü kimlik doğrulama
+- Mesajlaşma grup sohbetleri
 
-Modern smartphones make this straightforward: eSIM technology has turned what used to be a fiddly SIM-swapping ritual into a configuration that takes about two minutes to set up, and if you are still weighing an embedded profile against the physical card you would pick up in Germany, the [card comparison](/blog/germany-esim-card/) sets out the trade-offs.
+Modern akıllı telefonlar bunu basitleştirir: eSIM teknolojisi, eskiden zahmetli bir SIM değiştirme ritüeli olan şeyi kurulumu yaklaşık iki dakika süren bir yapılandırmaya dönüştürdü ve hâlâ Almanya'da alacağınız fiziksel kart ile gömülü bir profili tartıyorsanız, [kart karşılaştırması](/blog/germany-esim-card/) ödünleşimleri ortaya koyar.
 
-The two questions this page answers are how to set up dual SIM with home SIM and Germany eSIM running side by side, and how a single Germany eSIM for multiple devices fits into that setup. The first is a five-step configuration problem with a well-known set of pitfalls; the second is really a question about hotspot tethering and whether you need one plan or several. Both are covered below.
+Bu sayfanın yanıtladığı iki soru, ev SIM'i ve Almanya eSIM'i yan yana çalıştırarak çift SIM'in nasıl kurulacağı ve çoklu cihazlar için tek bir Almanya eSIM'in bu kuruluma nasıl uyduğudur. Birincisi, iyi bilinen bir tuzak dizisiyle beş adımlı bir yapılandırma sorunudur; ikincisi aslında hotspot paylaşımı ve bir plana mı yoksa birkaçına mı ihtiyacınız olduğu sorusudur. İkisi de aşağıda ele alınmaktadır.
 
-This guide covers:
+Bu rehber şunları kapsar:
 
-- How to configure your iPhone or Android phone with your home physical SIM and a Germany eSIM.
-- How to keep WhatsApp and iMessage running with your home number.
-- How to use essential German apps like DB Navigator on the correct data line.
-- How to share your connection across multiple devices.
-- The common conflicts that arise when two SIMs are active in the same phone and how to resolve them.
+- iPhone veya Android telefonunuzu evdeki fiziksel SIM'iniz ve bir Almanya eSIM ile nasıl yapılandıracağınız.
+- WhatsApp ve iMessage'ı ev numaranızla nasıl çalıştırmaya devam edeceğiniz.
+- DB Navigator gibi temel Alman uygulamalarını doğru veri hattında nasıl kullanacağınız.
+- Bağlantınızı birden fazla cihaz arasında nasıl paylaşacağınız.
+- Aynı telefonda iki SIM etkinken ortaya çıkan yaygın çakışmalar ve bunları nasıl çözeceğiniz.
 
-If you are still deciding which [Germany eSIM plan](/germany-esim/) is right for your trip, the complete guide covers providers, network options, and plans for every type of visitor. This article assumes you have already chosen an eSIM and now need to make it work alongside your existing home SIM.
+Yolculuğunuz için hangi [Almanya eSIM planının](/germany-esim/) doğru olduğuna hâlâ karar veremiyorsanız, tam rehber sağlayıcıları, ağ seçeneklerini ve her tür ziyaretçi için planları kapsar. Bu makale, zaten bir eSIM seçtiğinizi ve şimdi onu mevcut ev SIM'inizin yanında çalıştırmanız gerektiğini varsayar.
 
-## Why Dual SIM Is the Standard Setup for Travelers in Germany
+## Almanya'daki Gezginler için Çift SIM Neden Standart Kurulumdur
 
-> **Key takeaways:** Running a dual SIM setup -- a home SIM for voice and SMS plus a Germany eSIM for data -- is the standard, most cost-effective way to stay connected without paying international roaming rates. Set the Germany eSIM as the default data line and keep automatic data switching off to avoid surprise roaming charges. A provider like Roami that auto-switches between Telekom, Vodafone, and O2 will serve you better than one locked to a single carrier, especially for rural areas or ICE rail travel. Most providers allow hotspot tethering, but Holafly has historically restricted it on some of its unlimited plans, so check before buying if you need to tether.
+> **Öne çıkanlar:** Çift SIM kurulumu — ses ve SMS için bir ev SIM'i artı veri için bir Almanya eSIM — uluslararası dolaşım ücretleri ödemeden bağlantıda kalmanın standart ve en uygun maliyetli yoludur. Almanya eSIM'i varsayılan veri hattı olarak ayarlayın ve sürpriz dolaşım ücretlerinden kaçınmak için otomatik veri geçişini kapalı tutun. Telekom, Vodafone ve O2 arasında otomatik geçiş yapan Roami gibi bir sağlayıcı, tek bir operatöre kilitli olandan sizi daha iyi karşılar, özellikle kırsal alanlar veya ICE demiryolu seyahati için. Çoğu sağlayıcı hotspot paylaşımına izin verir, ancak Holafly tarihsel olarak bazı sınırsız planlarında bunu kısıtlamıştır, bu yüzden paylaşmanız gerekiyorsa satın almadan önce kontrol edin.
 
-The shift from single-SIM travel to dual-SIM travel has been driven by a simple reality: the phone number attached to your bank account, your messaging apps, and your work authentication systems cannot be left at home. The [GSM Association](https://www.gsma.com/esim/), the global trade body that oversees eSIM standards, points to eSIM as the key enabler of dual-SIM travel: it removes the physical constraint of a single SIM tray in most modern smartphones, letting travelers keep their home number active while adding a local data plan.
+Tek SIM seyahatinden çift SIM seyahatine geçiş basit bir gerçeklik tarafından yönlendirildi: banka hesabınıza, mesajlaşma uygulamalarınıza ve iş kimlik doğrulama sistemlerinize bağlı telefon numarası evde bırakılamaz. eSIM standartlarını denetleyen küresel ticaret kuruluşu [GSM Association](https://www.gsma.com/esim/), eSIM'i çift SIM seyahatinin kilit kolaylaştırıcısı olarak gösterir: çoğu modern akıllı telefonda tek SIM yuvasının fiziksel sınırlamasını ortadan kaldırır ve gezginlerin yerel bir veri planı eklerken ev numaralarını etkin tutmasını sağlar.
 
-Germany presents a particularly strong case for dual SIM usage:
+Almanya, çift SIM kullanımı için özellikle güçlü bir gerekçe sunar:
 
-- The country has one of the highest smartphone penetration rates in Europe, and German apps and services rely heavily on mobile connectivity.
-- The Deutsche Bahn ticketing system requires an internet connection to display validated tickets.
-- Restaurant reservations, event tickets, and even some museum entry passes are digital-first.
-- German banks and services send SMS verification codes for transactions, and your own home country services will be sending codes to your regular number.
+- Ülke, Avrupa'daki en yüksek akıllı telefon penetrasyon oranlarından birine sahiptir ve Alman uygulamaları ile hizmetleri mobil bağlantıya yoğun şekilde güvenir.
+- Deutsche Bahn bilet sistemi, doğrulanmış biletleri görüntülemek için bir internet bağlantısı gerektirir.
+- Restoran rezervasyonları, etkinlik biletleri ve hatta bazı müze giriş kartları dijital önceliklidir.
+- Alman bankaları ve hizmetleri işlemler için SMS doğrulama kodları gönderir ve kendi ülkenizdeki hizmetler normal numaranıza kodlar gönderiyor olacaktır.
 
-Juggling these two needs requires both numbers to be active.
+Bu iki ihtiyacı aynı anda yönetmek, her iki numaranın da etkin olmasını gerektirir.
 
-Beyond the practical necessity, dual SIM in Germany offers a clear cost advantage:
+Pratik gerekliliğin ötesinde, Almanya'da çift SIM net bir maliyet avantajı sunar:
 
-- International roaming charges from home carriers can be steep, and many home networks impose daily roaming fees or fair-use data caps within the [European Union](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm).
-- By running a local data eSIM as the primary data line and keeping the home SIM active only for SMS and voice calls, travelers avoid roaming charges while maintaining access to verification codes and incoming calls.
-- The data eSIM handles all internet traffic, and the home SIM sits idle in terms of data usage, drawing only the minimum power needed to stay registered on the network.
+- Ev operatörlerinden uluslararası dolaşım ücretleri yüksek olabilir ve birçok ev ağı [Avrupa Birliği](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) içinde günlük dolaşım ücretleri veya adil kullanım veri sınırları uygular.
+- Bir yerel veri eSIM'ini birincil veri hattı olarak çalıştırıp ev SIM'ini yalnızca SMS ve sesli aramalar için etkin tutarak, gezginler doğrulama kodlarına ve gelen aramalara erişimi sürdürürken dolaşım ücretlerinden kaçınır.
+- Veri eSIM'i tüm internet trafiğini yönetir ve ev SIM'i veri kullanımı açısından boşta durur, ağa kayıtlı kalmak için gereken minimum gücü çeker.
 
-Another factor specific to Germany is the countrys three-network landscape:
+Almanya'ya özgü bir diğer faktör, ülkenin üç ağlı ortamıdır:
 
-- Telekom, Vodafone, and O2 have substantially different coverage profiles.
-- A dual SIM setup gives you the flexibility to choose which German network your data eSIM connects to independently of whatever your home SIM is doing.
-- If you pick a provider that supports automatic network switching between these three carriers, you benefit from the best available signal whether you are in a Berlin underground station, an ICE train passing through a rural stretch, or a Bavarian mountain village.
-- Services like Roami offer this kind of multi-network switching, automatically connecting to whichever of the three German networks offers the strongest signal at your location.
+- Telekom, Vodafone ve O2 önemli ölçüde farklı kapsama profillerine sahiptir.
+- Çift SIM kurulumu, veri eSIM'inizin hangi Alman ağına bağlanacağını ev SIM'inizin ne yaptığından bağımsız olarak seçme esnekliği verir.
+- Bu üç operatör arasında otomatik ağ geçişini destekleyen bir sağlayıcı seçerseniz, bir Berlin metro istasyonunda, kırsal bir kesimden geçen bir ICE treninde veya bir Bavyera dağ köyünde olun, mevcut en iyi sinyalden yararlanırsınız.
+- Roami gibi hizmetler bu tür çoklu ağ geçişini sunar ve konumunuzda en güçlü sinyali sunan üç Alman ağından hangisi olursa olsun otomatik olarak bağlanır.
 
-The practical takeaway is that dual SIM is no longer a niche configuration for tech-savvy travelers. It is the standard recommended setup for anyone visiting Germany who wants to keep their home number active without paying excessive roaming fees. For a broader overview of the German mobile landscape including network selection across Telekom, Vodafone, and O2, the [guide](/blog/germany-esim-complete-travel-guide/) covers the full picture in detail. The following sections walk through exactly how to configure this on the two major smartphone platforms.
+Pratik çıkarım, çift SIM'in artık teknoloji meraklısı gezginler için niş bir yapılandırma olmadığıdır. Aşırı dolaşım ücretleri ödemeden ev numarasını etkin tutmak isteyen Almanya'yı ziyaret eden herkes için standart önerilen kurulumdur. Telekom, Vodafone ve O2 arasında ağ seçimi dahil Alman mobil ortamına daha geniş bir genel bakış için, [rehber](/blog/germany-esim-complete-travel-guide/) tam tabloyu ayrıntılı olarak ele alır. Aşağıdaki bölümler bunu iki büyük akıllı telefon platformunda tam olarak nasıl yapılandıracağınızı adım adım anlatır.
 
-The honest answer to "which is better, eSIM or a physical SIM?" is that it depends on one variable: how much control you want over the line. A physical card can be pulled out and moved between devices; an embedded profile is bound to the phone's EID and transfers only through your carrier's own process. Everything else — price, network access, speeds — is identical, because both formats attach to the same Telekom, Vodafone and O2 infrastructure once activated.
+"eSIM mi yoksa fiziksel SIM mi daha iyi?" sorusuna dürüst yanıt, tek bir değişkene bağlı olduğudur: hat üzerinde ne kadar kontrol istediğiniz. Fiziksel bir kart çıkarılıp cihazlar arasında taşınabilir; gömülü bir profil telefonun EID'sine bağlıdır ve yalnızca operatörünüzün kendi süreciyle aktarılır. Diğer her şey — fiyat, ağ erişimi, hızlar — aynıdır, çünkü her iki format da etkinleştirildikten sonra aynı Telekom, Vodafone ve O2 altyapısına bağlanır.
 
-## iPhone Dual SIM Configuration: Physical SIM Plus eSIM
+## iPhone Çift SIM Yapılandırması: Fiziksel SIM Artı eSIM
 
-Apple has supported dual SIM since the iPhone XS, XS Max, and XR models released in 2018. These models use one physical nano-SIM and one eSIM. From the iPhone 13 series onward, all models sold outside the United States continue to support one physical SIM plus one eSIM. For US-market iPhone 14 and later models, Apple removed the physical SIM tray entirely, so dual SIM on those devices means two eSIMs, one for the home line and one for the German data eSIM.
+Apple, 2018'de piyasaya sürülen iPhone XS, XS Max ve XR modellerinden beri çift SIM'i destekler. Bu modeller bir fiziksel nano-SIM ve bir eSIM kullanır. iPhone 13 serisinden itibaren, Amerika Birleşik Devletleri dışında satılan tüm modeller bir fiziksel SIM artı bir eSIM'i desteklemeye devam eder. ABD pazarındaki iPhone 14 ve sonraki modeller için Apple fiziksel SIM yuvasını tamamen kaldırdı, bu yüzden bu cihazlarda çift SIM iki eSIM anlamına gelir; biri ev hattı için ve biri Alman veri eSIM'i için.
 
-### iPhone compatibility and preparation
+### iPhone uyumluluğu ve hazırlık
 
-**Before you start.** Make sure your iPhone is unlocked. A carrier-locked phone cannot accept an eSIM from a different provider, which would defeat the entire purpose of buying a local German eSIM. If you purchased your iPhone through a carrier installment plan, check whether it is unlocked before your trip. US carriers are required by law to unlock devices once any contract or installment obligation is fulfilled, but it is worth verifying this in your carrier settings or account portal in advance.
+**Başlamadan önce.** iPhone'unuzun kilidinin açık olduğundan emin olun. Operatöre kilitli bir telefon, farklı bir sağlayıcıdan eSIM kabul edemez, bu da yerel bir Alman eSIM satın almanın tüm amacını boşa çıkarır. iPhone'unuzu bir operatör taksit planıyla satın aldıysanız, yolculuğunuzdan önce kilidinin açık olup olmadığını kontrol edin. ABD operatörlerinin, herhangi bir sözleşme veya taksit yükümlülüğü yerine getirildiğinde cihazların kilidini açması yasayla gereklidir, ancak bunu operatör ayarlarınızda veya hesap portalınızda önceden doğrulamaya değer.
 
-### Step-by-step eSIM setup on iPhone
+### iPhone'da adım adım eSIM kurulumu
 
-1. Ensure you have a Wi-Fi connection. The eSIM activation process requires an internet connection to download and install the profile. This can be your home Wi-Fi before departure, a hotel network upon arrival, or a public Wi-Fi hotspot at Berlin Brandenburg Airport or Frankfurt Airport.
+1. Bir Wi-Fi bağlantınız olduğundan emin olun. eSIM etkinleştirme süreci, profili indirip kurmak için bir internet bağlantısı gerektirir. Bu, yola çıkmadan önce ev Wi-Fi'niz, varışta bir otel ağı veya Berlin Brandenburg Havaalanı ya da Frankfurt Havaalanı'nda halka açık bir Wi-Fi hotspot olabilir.
 
-2. Open Settings, tap Cellular (called Mobile Service in some regions), then tap Add eSIM.
+2. Ayarlar'ı açın, Hücresel'e (bazı bölgelerde Mobil Servis olarak adlandırılır) dokunun, ardından eSIM Ekle'ye dokunun.
 
-3. Your eSIM provider will have given you a QR code or an activation code. If you have a QR code, select Use QR Code and scan it with the camera. If you received an activation code or a manual entry string, tap Enter Details Manually and type in the SM-DP+ address and activation code provided.
+3. eSIM sağlayıcınız size bir QR kod veya bir etkinleştirme kodu vermiş olacaktır. Bir QR kodunuz varsa, QR Kod Kullan'ı seçin ve kamerayla tarayın. Bir etkinleştirme kodu veya manuel giriş dizesi aldıysanız, Ayrıntıları Elle Gir'e dokunun ve verilen SM-DP+ adresini ve etkinleştirme kodunu yazın.
 
-4. Label your lines. iOS will prompt you to assign a label to each line. The home SIM will likely be labeled Primary or Personal by default. Label the German eSIM as something you will recognize, such as Travel or Germany Data. This label appears throughout iOS in messages, phone call logs, and data usage breakdowns, so picking a clear label helps avoid confusion later.
+4. Hatlarınızı etiketleyin. iOS her hatta bir etiket atamanızı ister. Ev SIM'i muhtemelen varsayılan olarak Birincil veya Kişisel olarak etiketlenecektir. Alman eSIM'ini tanıyacağınız bir şey olarak etiketleyin, örneğin Seyahat veya Almanya Veri. Bu etiket iOS boyunca mesajlarda, arama kayıtlarında ve veri kullanım dökümlerinde görünür, bu yüzden net bir etiket seçmek daha sonra karışıklığı önler.
 
-5. Set the default line for data. This is the most important step. After the eSIM finishes activating, iOS asks which line should be used for cellular data. Select the Germany eSIM. Your home SIM will be set as the default voice line, which means calls from your home number go out through your home SIM, and incoming calls to that number ring normally.
+5. Veri için varsayılan hattı ayarlayın. Bu en önemli adımdır. eSIM etkinleştirmeyi bitirdikten sonra iOS, hücresel veri için hangi hattın kullanılacağını sorar. Almanya eSIM'ini seçin. Ev SIM'iniz varsayılan ses hattı olarak ayarlanacak, bu da ev numaranızdan gelen aramaların ev SIM'iniz üzerinden gideceği ve o numaraya gelen aramaların normal şekilde çalacağı anlamına gelir.
 
-6. Enable data roaming for the Germany eSIM. iOS treats any network that is not your home carriers home network as roaming, so even your Germany eSIM requires data roaming to be turned on. Go to Settings, Cellular, tap the Germany eSIM, and toggle Data Roaming on. Without this step, the eSIM will register on the network but will not pass any data traffic.
+6. Almanya eSIM için veri dolaşımını etkinleştirin. iOS, ev operatörünüzün ana ağı olmayan herhangi bir ağı dolaşım olarak değerlendirir, bu yüzden Almanya eSIM'iniz bile veri dolaşımının açık olmasını gerektirir. Ayarlar, Hücresel'e gidin, Almanya eSIM'ine dokunun ve Veri Dolaşımı'nı açın. Bu adım olmadan, eSIM ağa kaydolur ama hiçbir veri trafiği geçirmez.
 
-7. Verify the configuration. Open Settings, Cellular, and look at the Cellular Plans section. You should see both lines listed. Below them, the Cellular Data line should show the Germany eSIM, and Default Voice Line should show your home SIM.
+7. Yapılandırmayı doğrulayın. Ayarlar, Hücresel'i açın ve Hücresel Planlar bölümüne bakın. Her iki hattın da listelendiğini görmelisiniz. Altlarında, Hücresel Veri satırı Almanya eSIM'ini göstermeli ve Varsayılan Ses Hattı ev SIM'inizi göstermelidir.
 
-### Managing Cellular Data Switching
+### Hücresel Veri Geçişini Yönetme
 
-**About Cellular Data Switching.** iPhone has a feature called Allow Cellular Data Switching, located under Settings, Cellular, Cellular Data. When this is turned on, the iPhone automatically switches to the other SIMs data connection if the primary data line loses connectivity. This sounds helpful, but it has a downside in the dual SIM context:
+**Hücresel Veri Geçişine İzin Ver Üzerine.** iPhone'da, Ayarlar, Hücresel, Hücresel Veri altında bulunan Hücresel Veri Geçişine İzin Ver adlı bir özellik vardır. Bu açıldığında, birincil veri hattı bağlantıyı kaybederse iPhone otomatik olarak diğer SIM'in veri bağlantısına geçer. Bu kulağa faydalı gelir, ancak çift SIM bağlamında bir dezavantajı vardır:
 
-- If your Germany eSIM encounters a brief dead zone on the ICE train, the phone might briefly switch to your home SIMs roaming data, which can incur expensive roaming charges from your home carrier.
-- The safest practice is to keep Allow Cellular Data Switching turned off unless you have a generous roaming plan on your home SIM.
-- If you do turn it on, set a data warning or cap on the home SIM through your carriers app to prevent surprise bills.
+- Almanya eSIM'iniz ICE treninde kısa bir ölü bölgeyle karşılaşırsa, telefon kısa süreliğine ev SIM'inizin dolaşım verisine geçebilir, bu da ev operatörünüzden pahalı dolaşım ücretleri doğurabilir.
+- En güvenli uygulama, ev SIM'inizde cömert bir dolaşım planınız yoksa Hücresel Veri Geçişine İzin Ver'i kapalı tutmaktır.
+- Açarsanız, sürpriz faturaları önlemek için operatörünüzün uygulaması üzerinden ev SIM'inde bir veri uyarısı veya sınırı ayarlayın.
 
-### Dual eSIM on US iPhones
+### ABD iPhone'larında Çift eSIM
 
-**Dual eSIM on US iPhones.** If you have a US-model iPhone 14, 15, or 16, you will be loading the German eSIM alongside your home eSIM rather than a physical SIM. The process is the same as above, but you will have two eSIMs active instead of one physical and one eSIM. The same settings apply: set the German eSIM as the data line and keep the home eSIM as the voice line. Note that dual eSIM draws slightly more battery than a physical-plus-eSIM configuration because two eSIM radios are active, but the difference is negligible over a full day of typical use.
+**ABD iPhone'larında çift eSIM.** ABD modeli bir iPhone 14, 15 veya 16'nız varsa, Alman eSIM'ini fiziksel bir SIM yerine ev eSIM'inizin yanına yükleyeceksiniz. Süreç yukarıdakiyle aynıdır, ancak bir fiziksel ve bir eSIM yerine iki etkin eSIM'iniz olacaktır. Aynı ayarlar geçerlidir: Alman eSIM'i veri hattı ve ev eSIM'ini ses hattı olarak ayarlayın. Çift eSIM'in, iki eSIM radyosu etkin olduğu için fiziksel-artı-eSIM yapılandırmasından biraz daha fazla pil tükettiğini unutmayın, ancak fark tipik bir tam günlük kullanımda ihmal edilebilir.
 
-For detailed step-by-step instructions covering QR code scanning, manual entry, and APN configuration for each German network, see the [installation and activation guide](/blog/germany-esim-installation-activation-setup/).
+Her Alman ağı için QR kod tarama, manuel giriş ve APN yapılandırmasını kapsayan ayrıntılı adım adım talimatlar için [kurulum ve etkinleştirme rehberine](/blog/germany-esim-installation-activation-setup/) bakın.
 
-**Verifying the eSIM is working.** Once the German eSIM is active, check the status icons in the top left of the screen. You should see two signal strength indicators. The second indicator typically appears below or beside the first, depending on your iOS version and whether you have Show LTE/5G icons enabled. If you open a browser and load a webpage, it should route through the German eSIM. You can confirm this by going to a site like whatismyip.com, which should show a German IP address.
+**eSIM'in çalıştığını doğrulama.** Alman eSIM etkinleştikten sonra ekranın sol üst köşesindeki durum simgelerini kontrol edin. İki sinyal gücü göstergesi görmelisiniz. İkinci gösterge genellikle birincinin altında veya yanında görünür; bu iOS sürümünüze ve LTE/5G simgelerini gösterme özelliğinin etkin olup olmadığına bağlıdır. Bir tarayıcı açıp bir web sayfası yüklerseniz, Almanya eSIM'i üzerinden yönlendirilmelidir. whatismyip.com gibi bir siteye giderek bunu doğrulayabilirsiniz; bu bir Alman IP adresi göstermelidir.
 
-## Android Dual SIM Setup for Samsung, Pixel and Other Devices
+## Samsung, Pixel ve Diğer Cihazlar için Android Çift SIM Kurulumu
 
-Android manufacturers have taken varying approaches to dual SIM support, but the core configuration is consistent across most devices that include eSIM capability. The main variation is in how settings menus are organized, which differs between Samsung One UI, Google Pixel stock Android, and other manufacturer skins like OnePlus OxygenOS or Xiaomi MIUI.
+Android üreticileri çift SIM desteğine farklı yaklaşımlar benimsedi, ancak temel yapılandırma eSIM yeteneği içeren çoğu cihazda tutarlıdır. Ana farklılık, ayarlar menülerinin nasıl düzenlendiğindedir; bu Samsung One UI, Google Pixel stok Android ve OnePlus OxygenOS ya da Xiaomi MIUI gibi diğer üretici kaplamaları arasında farklılık gösterir.
 
-### Checking eSIM compatibility on Android
+### Android'de eSIM uyumluluğunu kontrol etme
 
-**Checking eSIM compatibility on your Android phone.** Before purchasing a Germany eSIM, confirm that your specific phone model supports eSIM:
+**Android telefonunuzda eSIM uyumluluğunu kontrol etme.** Bir Almanya eSIM satın almadan önce, belirli telefon modelinizin eSIM'i desteklediğini doğrulayın:
 
-- **Samsung:** Galaxy S20, S21, S22, S23, S24, and S25 series all support eSIM, as do the Galaxy Z Fold and Z Flip series.
-- **Google Pixel:** Phones from the Pixel 4 onward support eSIM, with the Pixel 7, 8, and 9 series offering especially smooth dual SIM management.
-- **OnePlus:** eSIM support added starting from the OnePlus 11, though some older models lack it.
-- **Xiaomi:** Phones sold in Europe tend to support eSIM on flagship models, while global versions may not.
+- **Samsung:** Galaxy S20, S21, S22, S23, S24 ve S25 serilerinin tümü eSIM'i destekler, Galaxy Z Fold ve Z Flip serileri de öyle.
+- **Google Pixel:** Pixel 4'ten itibaren telefonlar eSIM'i destekler; Pixel 7, 8 ve 9 serileri özellikle sorunsuz çift SIM yönetimi sunar.
+- **OnePlus:** eSIM desteği OnePlus 11'den itibaren eklendi, ancak bazı eski modellerde yoktur.
+- **Xiaomi:** Avrupa'da satılan telefonlar amiral gemisi modellerde eSIM'i destekleme eğilimindedir, global sürümler desteklemeyebilir.
 
-The safest way to check is to go to Settings, search for SIMs or eSIM in the search bar, and look for an Add eSIM or Add Mobile Plan option.
+Kontrol etmenin en güvenli yolu Ayarlar'a gidip arama çubuğunda SIM'ler veya eSIM aramak ve bir eSIM Ekle ya da Mobil Plan Ekle seçeneği aramaktır.
 
-### Setup on Samsung Galaxy phones
+### Samsung Galaxy telefonlarda kurulum
 
-1. Open Settings and tap Connections, then SIM Card Manager.
+1. Ayarlar'ı açın ve Bağlantılar'a, ardından SIM Kart Yöneticisi'ne dokunun.
 
-2. You will see your current physical SIM listed as SIM 1. Tap Add eSIM.
+2. Mevcut fiziksel SIM'inizin SIM 1 olarak listelendiğini göreceksiniz. eSIM ekle'ye dokunun.
 
-3. The phone will prompt you to scan the QR code provided by your eSIM provider. Align the QR code within the viewfinder. If the QR code does not scan or you received a manual activation code, tap Enter Activation Code at the bottom of the screen and type in the SM-DP+ address and code.
+3. Telefon, eSIM sağlayıcınızın sağladığı QR kodu taramanızı ister. QR kodu vizörün içine hizalayın. QR kod taranmazsa veya bir manuel etkinleştirme kodu aldıysanız, ekranın altındaki Etkinleştirme Kodu Gir'e dokunun ve SM-DP+ adresini ve kodu yazın.
 
-4. Once the eSIM profile downloads and installs, the phone returns to the SIM Card Manager screen. Both SIMs will now be listed. Tap the Germany eSIM entry to configure its settings.
+4. eSIM profili indirilip kurulduktan sonra telefon SIM Kart Yöneticisi ekranına döner. Her iki SIM de artık listelenecektir. Ayarlarını yapılandırmak için Almanya eSIM girişine dokunun.
 
-5. Tap Mobile Data and select the Germany eSIM as the data SIM. This routes all internet traffic through the German network. Voice calls and SMS from your home number continue to go through your home SIM.
+5. Mobil Veri'ye dokunun ve veri SIM'i olarak Almanya eSIM'ini seçin. Bu, tüm internet trafiğini Alman ağı üzerinden yönlendirir. Ev numaranızdan sesli aramalar ve SMS, ev SIM'iniz üzerinden gitmeye devam eder.
 
-6. Tap Data Roaming and turn it on for the Germany eSIM. As with iPhone, Android requires data roaming to be enabled for any network that is not the home carriers native network.
+6. Veri Dolaşımı'na dokunun ve Almanya eSIM için açın. iPhone'da olduğu gibi, Android, ev operatörünün yerel ağı olmayan herhangi bir ağ için veri dolaşımının etkinleştirilmesini gerektirir.
 
-7. Verify the configuration. The SIM Card Manager screen should show the home SIM as the default voice SIM and the Germany eSIM as the default data SIM. Samsung also allows you to set preferred SIMs for calls, messaging, and data independently, which gives you granular control.
+7. Yapılandırmayı doğrulayın. SIM Kart Yöneticisi ekranı, ev SIM'ini varsayılan ses SIM'i ve Almanya eSIM'ini varsayılan veri SIM'i olarak göstermelidir. Samsung ayrıca aramalar, mesajlaşma ve veri için tercih edilen SIM'leri bağımsız olarak ayarlamanıza izin verir, bu da size ayrıntılı kontrol sağlar.
 
-### Setup on Google Pixel phones
+### Google Pixel telefonlarda kurulum
 
-1. Open Settings and tap Network & Internet, then SIMs.
+1. Ayarlar'ı açın ve Ağ ve İnternet'e, ardından SIM'ler'e dokunun.
 
-2. Tap Add SIM, then Download a SIM instead (if you see this option) or scan the QR code provided.
+2. SIM ekle'ye dokunun, ardından (bu seçeneği görürseniz) Bunun yerine SIM indir'e dokunun veya sağlanan QR kodu tarayın.
 
-3. Scan the QR code or enter the activation details manually.
+3. QR kodu tarayın veya etkinleştirme ayrıntılarını manuel girin.
 
-4. After installation, the SIMs screen shows both lines. Tap the Germany eSIM and toggle Use SIM to On.
+4. Kurulumdan sonra SIM'ler ekranı her iki hattı gösterir. Almanya eSIM'ine dokunun ve SIM kullan'ı Açık konumuna getirin.
 
-5. In the same screen, tap Mobile Data and select the Germany eSIM. Go back and ensure Data Roaming is enabled for the new line.
+5. Aynı ekranda Mobil Veri'ye dokunun ve Almanya eSIM'ini seçin. Geri dönün ve yeni hat için Veri Dolaşımı'nın etkin olduğundan emin olun.
 
-6. Pixel has a useful feature called Automatically switch mobile data. When enabled, the phone will switch to the other SIMs data if the primary data line loses internet access. Similar to iPhones Allow Cellular Data Switching, this can lead to unexpected roaming charges if your home SIM does not have a generous international data plan. Consider keeping this feature turned off unless you have confirmed your home carriers roaming rates and are comfortable with potential charges.
+6. Pixel'in Mobil veriyi otomatik değiştir adlı faydalı bir özelliği vardır. Etkinleştirildiğinde, birincil veri hattı internet erişimini kaybederse telefon diğer SIM'in verisine geçer. iPhone'ların Hücresel Veri Geçişine İzin Ver özelliğine benzer şekilde, ev SIM'inizde cömert bir uluslararası veri planı yoksa bu beklenmeyen dolaşım ücretlerine yol açabilir. Ev operatörünüzün dolaşım ücretlerini doğrulamadıysanız ve olası ücretlerle rahat değilseniz bu özelliği kapalı tutmayı düşünün.
 
-### Setup on OnePlus, Xiaomi and other Android phones
+### OnePlus, Xiaomi ve diğer Android telefonlarda kurulum
 
-The setup varies by manufacturer but follows the same logic:
+Kurulum üreticiye göre değişir ama aynı mantığı izler:
 
-- **OnePlus** (11 and newer): Open Settings, go to Mobile Network, then tap the plus icon or Add eSIM to scan the QR code.
-- **Xiaomi:** The eSIM option is under Settings, Mobile Network, then SIM Cards & Mobile Networks.
-- **General process:** Install the eSIM profile from the QR code, set it as the default data SIM, and enable data roaming.
-- **If menus look different:** Search for eSIM in the phones settings search bar, which typically points directly to the correct screen.
+- **OnePlus** (11 ve daha yeni): Ayarlar'ı açın, Mobil Ağ'a gidin, ardından QR kodu taramak için artı simgesine veya eSIM ekle'ye dokunun.
+- **Xiaomi:** eSIM seçeneği Ayarlar, Mobil Ağ, ardından SIM Kartlar ve Mobil Ağlar altındadır.
+- **Genel süreç:** QR koddan eSIM profilini kurun, varsayılan veri SIM'i olarak ayarlayın ve veri dolaşımını etkinleştirin.
+- **Menüler farklı görünüyorsa:** Telefonun ayarlar arama çubuğunda eSIM arayın; bu genellikle doğrudan doğru ekrana yönlendirir.
 
-**Dual SIM via two eSIMs on Android.** Most Android phones that support eSIM can handle only one active eSIM at a time, with the second slot being a physical SIM. A few recent models, such as the Samsung Galaxy S24 Ultra and Google Pixel 8 Pro, support dual active eSIMs. If your phone supports this, the setup procedure is the same, but you will have two eSIM profiles instead of one physical and one eSIM. Check your phones specifications on the manufacturers website if you plan to use two eSIMs.
+**Android'de iki eSIM ile çift SIM.** eSIM'i destekleyen çoğu Android telefon aynı anda yalnızca bir etkin eSIM'i yönetebilir, ikinci yuva fiziksel bir SIM'dir. Samsung Galaxy S24 Ultra ve Google Pixel 8 Pro gibi birkaç yeni model çift etkin eSIM'i destekler. Telefonunuz bunu destekliyorsa kurulum prosedürü aynıdır, ancak bir fiziksel ve bir eSIM yerine iki eSIM profiliniz olacaktır. İki eSIM kullanmayı planlıyorsanız telefonunuzun özelliklerini üreticinin web sitesinde kontrol edin.
 
-## Keeping WhatsApp and iMessage Active with a Germany eSIM
+## Bir Almanya eSIM ile WhatsApp ve iMessage'ı Etkin Tutma
 
-Messaging apps are the central nervous system of modern travel. They handle check-in messages from your accommodation, updates from your tour operator, coordination with travel companions, and the endless family group chat that needs to know you arrived safely. The key question for anyone using dual SIM in Germany is whether their messaging apps will continue working with their home phone number while the phone uses a German eSIM for data.
+Mesajlaşma uygulamaları modern seyahatin merkezi sinir sistemidir. Konaklamanızdan gelen check-in mesajlarını, tur operatörünüzden gelen güncellemeleri, seyahat arkadaşlarınızla koordinasyonu ve güvenle vardığınızı bilmesi gereken sonsuz aile grup sohbetini yönetirler. Almanya'da çift SIM kullanan herkes için kilit soru, telefon veri için bir Alman eSIM kullanırken mesajlaşma uygulamalarının ev telefon numaralarıyla çalışmaya devam edip etmeyeceğidir.
 
-### WhatsApp on dual SIM
+### Çift SIM'de WhatsApp
 
-WhatsApp links your account to one phone number. That number is the one people see when you message them, and it is the number WhatsApp uses for verification. In a dual-SIM setup, as long as your home SIM is physically present in the phone or active as an eSIM, and your phone has an internet connection via the Germany eSIM, WhatsApp works exactly as it does at home.
+WhatsApp hesabınızı bir telefon numarasına bağlar. O numara, insanların mesaj gönderdiğinizde gördüğü numaradır ve WhatsApp'ın doğrulama için kullandığı numaradır. Çift SIM kurulumunda, ev SIM'iniz telefonunuzda fiziksel olarak mevcut veya bir eSIM olarak etkin olduğu ve telefonunuz Almanya eSIM üzerinden bir internet bağlantısına sahip olduğu sürece, WhatsApp tam olarak evdeki gibi çalışır.
 
-Here is why WhatsApp works seamlessly with dual SIM:
+WhatsApp'ın çift SIM ile sorunsuz çalışmasının nedeni şudur:
 
-- WhatsApp does not use SMS for message delivery. It uses your data connection.
-- All messages, voice calls, and media shared through WhatsApp are transmitted over whichever data line your phone is using as the default.
-- If the Germany eSIM is set as the data line, WhatsApp messages go through the German network.
-- Your home SIM needs to be present only for the initial SMS verification when you first set up WhatsApp, and in the rare event that WhatsApp needs to re-verify your number because it detected a SIM change.
-- In practice, this re-verification happens infrequently, and most travelers find that WhatsApp keeps working for the entire trip without interruption.
+- WhatsApp mesaj iletimi için SMS kullanmaz. Veri bağlantınızı kullanır.
+- WhatsApp üzerinden paylaşılan tüm mesajlar, sesli aramalar ve medya, telefonunuzun varsayılan olarak kullandığı hangi veri hattı olursa olsun onun üzerinden iletilir.
+- Almanya eSIM'i veri hattı olarak ayarlanmışsa, WhatsApp mesajları Alman ağı üzerinden gider.
+- Ev SIM'iniz yalnızca WhatsApp'ı ilk kurduğunuzda ilk SMS doğrulaması için ve WhatsApp bir SIM değişikliği algıladığı için numaranızı nadiren yeniden doğrulaması gerektiğinde mevcut olmalıdır.
+- Pratikte bu yeniden doğrulama seyrek olur ve çoğu gezgin WhatsApp'ın tüm yolculuk boyunca kesintisiz çalışmaya devam ettiğini görür.
 
-There is a nuance worth understanding about WhatsApp calls and fresh setup:
+WhatsApp aramaları ve yeni kurulum hakkında anlamaya değer bir nüans vardır:
 
-- **Voice and video calls go over data:** WhatsApp on iPhone uses a feature called Call Relay or WhatsApp Calling over your data connection. When you make a WhatsApp voice call, the call audio travels over the internet through the Germany eSIMs data connection. The person you are calling sees your regular WhatsApp profile with your home number. The same applies to WhatsApp video calls.
-- **Fresh setup in Germany:** If you are setting up WhatsApp fresh while in Germany with an active Germany eSIM, the app will offer to send an SMS verification to your home number. Since your home SIM is present and can receive SMS, this works normally. The verification message arrives through the home SIMs SMS channel, and once you enter the code, WhatsApp uses the Germany eSIM for all subsequent data traffic.
+- **Sesli ve görüntülü aramalar veri üzerinden gider:** iPhone'da WhatsApp, veri bağlantınız üzerinden Call Relay veya WhatsApp Calling adlı bir özellik kullanır. Bir WhatsApp sesli araması yaptığınızda, arama sesi internet üzerinden Almanya eSIM'in veri bağlantısı üzerinden gider. Aradığınız kişi, ev numaranızla normal WhatsApp profilinizi görür. Aynısı WhatsApp görüntülü aramalar için de geçerlidir.
+- **Almanya'da yeni kurulum:** Almanya'dayken etkin bir Almanya eSIM ile WhatsApp'ı sıfırdan kuruyorsanız, uygulama ev numaranıza bir SMS doğrulaması göndermeyi teklif eder. Ev SIM'iniz mevcut olduğu ve SMS alabildiği için bu normal şekilde çalışır. Doğrulama mesajı ev SIM'inin SMS kanalı üzerinden gelir ve kodu girdikten sonra WhatsApp sonraki tüm veri trafiği için Almanya eSIM'ini kullanır.
 
-One common concern is whether WhatsApp can be used with a Germany eSIM if the home SIM is removed. The answer is yes, but only temporarily and with caveats:
+Yaygın bir endişe, ev SIM'i çıkarıldığında WhatsApp'ın bir Almanya eSIM ile kullanılıp kullanılamayacağıdır. Cevap evet, ancak yalnızca geçici olarak ve bazı uyarılarla:
 
-- If you take out your home SIM, WhatsApp will continue working on your phone for as long as it remembers your login session.
-- If you reinstall WhatsApp or switch to a new phone while the home SIM is absent, you will need that SIM to receive the verification code.
-- This is why keeping the home SIM active in dual SIM mode is preferable. It avoids the re-verification headache entirely.
+- Ev SIM'inizi çıkarırsanız, WhatsApp oturum açma bilgilerinizi hatırladığı sürece telefonunuzda çalışmaya devam eder.
+- Ev SIM'i yokken WhatsApp'ı yeniden kurarsanız veya yeni bir telefona geçerseniz, doğrulama kodunu almak için o SIM'e ihtiyacınız olacaktır.
+- Bu yüzden ev SIM'ini çift SIM modunda etkin tutmak tercih edilir. Yeniden doğrulama baş ağrısını tamamen önler.
 
-### iMessage and FaceTime on dual SIM
+### Çift SIM'de iMessage ve FaceTime
 
-iMessage behaves differently from WhatsApp because Apple ties it to your Apple ID and phone number simultaneously. On an iPhone with dual SIM, iMessage automatically registers both your phone numbers if you have given iOS permission to use both lines for iMessage and FaceTime.
+iMessage, WhatsApp'tan farklı davranır çünkü Apple onu aynı anda hem Apple ID'nize hem de telefon numaranıza bağlar. Çift SIM'li bir iPhone'da, iOS'a her iki hattı iMessage ve FaceTime için kullanma izni verdiyseniz, iMessage otomatik olarak her iki telefon numaranızı da kaydeder.
 
-Key points about iMessage with dual SIM:
+Çift SIM ile iMessage hakkında kilit noktalar:
 
-- The default behavior is straightforward: iMessages and FaceTime calls use whichever data connection the phone has, which is the Germany eSIM if you set it as the data line. Recipients see your messages coming from your usual home number. No additional configuration is needed.
-- If you want to control which line iMessage uses for sending from, you can set this per conversation. Open a conversation, tap the contact name at the top of the screen, then tap your current caller ID. You will see both numbers listed. Select your home number to ensure the recipient sees your usual contact identity.
-- FaceTime Audio calls function the same way as WhatsApp voice calls: they travel over data, so they use the Germany eSIM. Your caller ID remains your home number if that is set as your iMessage default line. This means you can make and receive FaceTime Audio calls to and from other Apple users without incurring any cellular voice minute charges on either SIM. It is particularly useful for calling family back home, because the call goes over your German data connection and arrives at their end over whatever internet connection they have.
+- Varsayılan davranış basittir: iMessage'lar ve FaceTime aramaları telefonun sahip olduğu hangi veri bağlantısını kullanırsa onu kullanır; veri hattı olarak ayarladıysanız bu Almanya eSIM'idir. Alıcılar mesajlarınızın her zamanki ev numaranızdan geldiğini görür. Ek bir yapılandırma gerekmez.
+- iMessage'ın gönderim için hangi hattı kullanacağını kontrol etmek isterseniz, bunu sohbet başına ayarlayabilirsiniz. Bir sohbeti açın, ekranın üst kısmındaki kişi adına dokunun, ardından mevcut arayan kimliğinize dokunun. Her iki numaranın da listelendiğini görürsünüz. Alıcının her zamanki kişi kimliğinizi görmesini sağlamak için ev numaranızı seçin.
+- FaceTime Sesli aramaları, WhatsApp sesli aramaları gibi çalışır: veri üzerinden giderler, bu yüzden Almanya eSIM'ini kullanırlar. iMessage varsayılan hattınız olarak ayarlanmışsa arayan kimliğiniz ev numaranız olarak kalır. Bu, her iki SIM'de de hücresel sesli dakika ücreti ödemeden diğer Apple kullanıcılarına FaceTime Sesli aramaları yapıp alabileceğiniz anlamına gelir. Özellikle evdeki aileyi aramak için faydalıdır, çünkü arama Alman veri bağlantınız üzerinden gider ve onların ucuna sahip oldukları internet bağlantısı üzerinden ulaşır.
 
-### SMS verification and two-factor authentication
+### SMS doğrulama ve iki faktörlü kimlik doğrulama
 
-Here is what you need to know about SMS verification while using dual SIM in Germany:
+Almanya'da çift SIM kullanırken SMS doğrulaması hakkında bilmeniz gerekenler:
 
-- **Home SIM remains essential:** The one area where the home SIM remains irreplaceable is SMS-based two-factor authentication. If your bank, work VPN, or any online service sends a one-time passcode via SMS, that code arrives through your home SIM regardless of which SIM is handling data.
-- **Receiving SMS works:** As long as your home SIM is active in the phone and has basic network registration, it can receive SMS messages.
-- **Sending SMS incurs charges:** Sending SMS replies or initiating SMS messages from your home number while in Germany may incur international SMS charges from your home carrier. Most carriers charge per SMS sent while roaming, even if receiving is free.
-- **Better alternatives:** Check your home carriers international SMS rates before the trip, and consider using iMessage or WhatsApp to send text messages instead, since those go over data and avoid SMS charges.
+- **Ev SIM'i vazgeçilmez kalır:** Ev SIM'inin yeri doldurulamaz kaldığı tek alan SMS tabanlı iki faktörlü kimlik doğrulamadır. Bankanız, iş VPN'iniz veya herhangi bir çevrimiçi hizmet SMS yoluyla tek kullanımlık bir şifre gönderiyorsa, o kod hangi SIM'in veriyi yönettiğinden bağımsız olarak ev SIM'iniz üzerinden gelir.
+- **SMS almak çalışır:** Ev SIM'iniz telefonda etkin ve temel ağ kaydına sahip olduğu sürece SMS mesajları alabilir.
+- **SMS göndermek ücret doğurur:** Almanya'dayken ev numaranızdan SMS yanıtları göndermek veya SMS mesajları başlatmak ev operatörünüzden uluslararası SMS ücretleri doğurabilir. Çoğu operatör, almak ücretsiz olsa bile dolaşımdayken gönderilen SMS başına ücret alır.
+- **Daha iyi alternatifler:** Yolculuktan önce ev operatörünüzün uluslararası SMS ücretlerini kontrol edin ve bunun yerine metin mesajları göndermek için iMessage veya WhatsApp kullanmayı düşünün, çünkü bunlar veri üzerinden gider ve SMS ücretlerinden kaçınır.
 
-## Using DB Navigator and Local German Apps with Your eSIM
+## eSIM'inizle DB Navigator ve Yerel Alman Uygulamalarını Kullanma
 
-German daily life runs through a handful of essential mobile applications, and the most important one for any traveler is DB Navigator, the official app of [Deutsche Bahn](https://www.bahn.de/), Germanys national railway operator. The app handles everything from timetable lookups and ticket purchases to seat reservations and live train tracking. More critically, it replaces the paper ticket entirely: your ticket is a digital QR code displayed within the app, and train conductors scan it during the journey. If the QR code cannot load because your phone has no data connection, you may face complications during a ticket inspection.
+Alman günlük yaşamı bir avuç temel mobil uygulama üzerinden işler ve herhangi bir gezgin için en önemlisi, Almanya'nın ulusal demiryolu operatörü [Deutsche Bahn](https://www.bahn.de/)'ın resmi uygulaması DB Navigator'dır. Uygulama, tarife aramalarından ve bilet satın alımlarından koltuk rezervasyonlarına ve canlı tren takibine kadar her şeyi yönetir. Daha da kritik olarak, kağıt bileti tamamen ortadan kaldırır: biletiniz uygulama içinde görüntülenen dijital bir QR koddur ve tren kondüktörleri yolculuk sırasında onu tarar. Telefonunuzun veri bağlantısı olmadığı için QR kod yüklenemezse, bilet kontrolü sırasında zorluklarla karşılaşabilirsiniz.
 
-### Why DB Navigator needs a data connection
+### DB Navigator neden bir veri bağlantısına ihtiyaç duyar
 
-Here is how DB Navigator depends on data connectivity:
+DB Navigator'ın veri bağlantısına nasıl bağımlı olduğu şöyledir:
 
-- **Real-time ticket validation:** The DB Navigator app does not store validated tickets offline in a practical sense. While you can save tickets to your phones wallet for offline display on some routes, the standard workflow involves the app fetching the ticket status from Deutsche Bahns servers in real time.
-- **QR code tied to server timestamp:** The QR code that the conductor scans is tied to a server-side validation timestamp. If your phone has no internet connection when the conductor comes by, the app shows a placeholder message rather than the validated ticket. Conductors are generally understanding of temporary connectivity issues, but the experience is far smoother when your data connection is reliable.
-- **Optimal setup:** The most reliable way to ensure DB Navigator works during your rail journey is to set your Germany eSIM as the default data line. The app does not care which SIM provides the data connection. It uses whatever internet access the phone has. If the eSIM is set as the default data line, DB Navigator will route through the German network, which is the optimal configuration for speed and latency, especially for the live tracking features that show your train position and any delays.
+- **Gerçek zamanlı bilet doğrulama:** DB Navigator uygulaması doğrulanmış biletleri pratik anlamda çevrimdışı saklamaz. Bazı güzergahlarda biletleri çevrimdışı görüntüleme için telefonunuzun cüzdanına kaydedebilseniz de, standart iş akışı uygulamanın bilet durumunu Deutsche Bahn'ın sunucularından gerçek zamanlı olarak almasını içerir.
+- **Sunucu zaman damgasına bağlı QR kod:** Kondüktörün taradığı QR kod, sunucu tarafındaki bir doğrulama zaman damgasına bağlıdır. Kondüktör geldiğinde telefonunuzun internet bağlantısı yoksa, uygulama doğrulanmış bilet yerine bir yer tutucu mesaj gösterir. Kondüktörler genellikle geçici bağlantı sorunlarını anlayışla karşılar, ancak veri bağlantınız güvenilir olduğunda deneyim çok daha sorunsuzdur.
+- **Optimal kurulum:** DB Navigator'ın demiryolu yolculuğunuz sırasında çalışmasını sağlamanın en güvenilir yolu, Almanya eSIM'inizi varsayılan veri hattı olarak ayarlamaktır. Uygulama, veri bağlantısını hangi SIM'in sağladığıyla ilgilenmez. Telefonun sahip olduğu internet erişimini kullanır. eSIM varsayılan veri hattı olarak ayarlanmışsa, DB Navigator Alman ağı üzerinden yönlendirilir; bu, hız ve gecikme için optimal yapılandırmadır, özellikle tren konumunuzu ve gecikmeleri gösteren canlı takip özellikleri için.
 
-### ICE train connectivity and network switching
+### ICE tren bağlantısı ve ağ geçişi
 
-Using data on German trains comes with unique challenges and solutions:
+Alman trenlerinde veri kullanmak benzersiz zorluklar ve çözümler getirir:
 
-- **High-speed travel conditions:** You are moving at up to 300 km/h through terrain that shifts between deep urban cuttings, open farmland, and forested tunnels.
-- **Improved coverage with gaps:** Network coverage on ICE trains has improved significantly in recent years. Deutsche Bahn has partnered with [Telekom's 5G network](https://www.telekom.de/netz/5g) to install onboard repeaters on many ICE 4 trainsets, and some routes now have consistent 4G LTE or 5G coverage through most of the journey. However, gaps remain, particularly in the long tunnels between Frankfurt and Cologne, through the Swabian Alps on the Stuttgart-Ulm line, and on rural stretches of the Berlin-Munich route.
-- **Automatic network switching helps:** A dual SIM setup can help here if you have a provider that supports automatic network switching. When your eSIM is on a service that automatically moves between Telekom, [Vodafone](https://www.vodafone.de/), and O2 depending on which has the strongest signal at your location, you benefit from the best available connection throughout the journey.
-- **Multi-network advantage:** A multi-network eSIM captures these advantages without you having to manually switch networks each time the train passes into a new coverage area. The [coverage guide for trains and rural areas](/blog/germany-esim-coverage-cities-trains-alps/) details which carrier performs best on specific ICE routes and in different regions.
+- **Yüksek hızlı seyahat koşulları:** Derin kentsel yarmalar, açık tarım arazileri ve ormanlık tüneller arasında değişen arazide 300 km/s'ye kadar hızla hareket ediyorsunuz.
+- **Boşluklarla iyileşen kapsama:** ICE trenlerinde ağ kapsaması son yıllarda önemli ölçüde iyileşti. Deutsche Bahn, birçok ICE 4 tren setine yerleşik tekrarlayıcılar kurmak için [Telekom'un 5G ağıyla](https://www.telekom.de/netz/5g) ortaklık kurdu ve bazı güzergahlarda artık yolculuğun çoğunda tutarlı 4G LTE veya 5G kapsaması var. Ancak boşluklar devam ediyor, özellikle Frankfurt ile Köln arasındaki uzun tünellerde, Stuttgart-Ulm hattında Swabian Alpleri boyunca ve Berlin-Münih güzergahının kırsal kesimlerinde.
+- **Otomatik ağ geçişi yardımcı olur:** Otomatik ağ geçişini destekleyen bir sağlayıcınız varsa çift SIM kurulumu burada yardımcı olabilir. eSIM'iniz, konumunuzda en güçlü sinyale sahip olana bağlı olarak Telekom, [Vodafone](https://www.vodafone.de/) ve O2 arasında otomatik geçiş yapan bir hizmetteyse, yolculuk boyunca mevcut en iyi bağlantıdan yararlanırsınız.
+- **Çoklu ağ avantajı:** Çok ağlı bir eSIM, tren yeni bir kapsama alanına her girdiğinde manuel olarak ağ değiştirmek zorunda kalmadan bu avantajları yakalar. [Trenler ve kırsal alanlar için kapsama rehberi](/blog/germany-esim-coverage-cities-trains-alps/) belirli ICE güzergahlarında ve farklı bölgelerde hangi operatörün en iyi performans gösterdiğini ayrıntılı olarak anlatır.
 
-### Other German apps that benefit from a local eSIM
+### Yerel bir eSIM'den faydalanan diğer Alman uygulamaları
 
-Beyond DB Navigator, several other German apps work better with a local eSIM:
+DB Navigator'ın ötesinde, birkaç başka Alman uygulaması yerel bir eSIM ile daha iyi çalışır:
 
-- **Moia, Share Now, and Miles** are car-sharing and ride-hailing services that rely on real-time location tracking and app-based billing. They work over any data connection but respond faster when connected to a German network, since the latency to German servers is lower.
-- **Lieferando** is the dominant food delivery platform in Germany. Menus, restaurant locations, and order tracking all run over data.
-- **N26, Deutsche Bank, and Commerzbank** mobile banking apps have varying requirements. Some may refuse to function over a non-German IP address as a security measure. If your data goes through the Germany eSIM, your IP address appears as German, and these apps work without complaint.
-- **Google Maps** and **Apple Maps** do not need a German IP to function, but they consume data for live traffic updates and alternative route suggestions. Using the Germany eSIM for navigation also ensures that map tiles load quickly from Googles European servers rather than routing through your home carriers international gateways.
+- **Moia, Share Now ve Miles**, gerçek zamanlı konum takibine ve uygulama tabanlı faturalandırmaya dayanan araç paylaşımı ve yolculuk çağırma hizmetleridir. Herhangi bir veri bağlantısı üzerinden çalışırlar ama Alman sunucularına gecikme daha düşük olduğu için bir Alman ağına bağlandığında daha hızlı yanıt verirler.
+- **Lieferando**, Almanya'daki baskın yemek teslimat platformudur. Menüler, restoran konumları ve sipariş takibi hepsi veri üzerinden çalışır.
+- **N26, Deutsche Bank ve Commerzbank** mobil bankacılık uygulamaları değişen gereksinimlere sahiptir. Bazıları bir güvenlik önlemi olarak Alman olmayan bir IP adresi üzerinden çalışmayı reddedebilir. Veriniz Almanya eSIM'i üzerinden gidiyorsa, IP adresiniz Alman olarak görünür ve bu uygulamalar sorunsuz çalışır.
+- **Google Maps** ve **Apple Maps** çalışmak için Alman IP'sine ihtiyaç duymaz, ancak canlı trafik güncellemeleri ve alternatif güzergah önerileri için veri tüketir. Navigasyon için Almanya eSIM'ini kullanmak ayrıca harita döşemelerinin ev operatörünüzün uluslararası geçitleri üzerinden yönlendirilmek yerine Google'ın Avrupa sunucularından hızlı yüklenmesini sağlar.
 
-The consistent principle across all these apps is that the Germany eSIM should be the default data line. Your home SIM handles voice and SMS. The division of labor is clear, and both sides of the phone line contribution function optimally.
+Tüm bu uygulamalarda tutarlı ilke, Almanya eSIM'inin varsayılan veri hattı olması gerektiğidir. Ev SIM'iniz ses ve SMS'i yönetir. İş bölümü açıktır ve telefon hattı katkısının her iki tarafı da optimal şekilde işlev görür.
 
-## Hotspot and Tethering: Sharing Your Germany eSIM Connection
+## Hotspot ve Paylaşım: Almanya eSIM Bağlantınızı Paylaşma
 
-The question of whether a [Germany eSIM plan](/germany-esim/) supports hotspot tethering is one of the most frequently searched topics related to German travel connectivity. The short answer is that most travel eSIMs do support tethering, but the terms vary significantly between providers, and understanding those differences before you buy can save a frustrating surprise halfway through your trip.
+Bir [Almanya eSIM planının](/germany-esim/) hotspot paylaşımını destekleyip desteklemediği sorusu, Alman seyahat bağlantısıyla ilgili en sık aranan konulardan biridir. Kısa yanıt, çoğu seyahat eSIM'inin paylaşımı desteklediğidir, ancak şartlar sağlayıcılar arasında önemli ölçüde değişir ve satın almadan önce bu farklılıkları anlamak, yolculuğunuzun ortasında sinir bozucu bir sürprizi önleyebilir.
 
-### How tethering works with a Germany eSIM
+### Tethering/PAYLAŞIM bir Almanya eSIM ile nasıl çalışır
 
-Here is how tethering functions with a dual SIM setup:
+Çift SIM kurulumuyla paylaşımın nasıl işlediği şöyledir:
 
-- **What tethering does:** Tethering, also called personal hotspot, allows the phone with the active eSIM to share its internet connection with other devices such as a laptop, tablet, or a travel companions phone. The phone acts as a Wi-Fi access point, and connected devices route their traffic through the phones cellular connection.
-- **Network perspective:** On the eSIM side, the cellular network sees all this traffic as coming from a single device, meaning the providers fair-use policies apply to the aggregate traffic.
-- **Which SIM is used:** When you turn on the personal hotspot on an iPhone or Android phone that has the Germany eSIM set as the data line, the hotspot shares the eSIMs data connection, not the home SIMs data connection. The home SIM continues to handle voice and SMS independently while the eSIM provides the shared internet access.
+- **Paylaşımın yaptığı şey:** Kişisel hotspot olarak da adlandırılan paylaşım, etkin eSIM'e sahip telefonun internet bağlantısını bir dizüstü, tablet veya bir seyahat arkadaşının telefonu gibi diğer cihazlarla paylaşmasını sağlar. Telefon bir Wi-Fi erişim noktası görevi görür ve bağlı cihazlar trafiklerini telefonun hücresel bağlantısı üzerinden yönlendirir.
+- **Ağ perspektifi:** eSIM tarafında, hücresel ağ tüm bu trafiği tek bir cihazdan geliyormuş gibi görür, bu da sağlayıcının adil kullanım politikalarının toplam trafiğe uygulandığı anlamına gelir.
+- **Hangi SIM kullanılır:** Almanya eSIM'i veri hattı olarak ayarlanmış bir iPhone veya Android telefonda kişisel hotspot'u açtığınızda, hotspot ev SIM'inin veri bağlantısını değil eSIM'in veri bağlantısını paylaşır. Ev SIM'i, eSIM paylaşılan internet erişimini sağlarken ses ve SMS'i bağımsız olarak yönetmeye devam eder.
 
-### Which eSIM plans support tethering
+### Hangi eSIM planları paylaşımı destekler
 
-Most international travel eSIM providers include tethering in their standard plans without additional fees. However, there are exceptions:
+Çoğu uluslararası seyahat eSIM sağlayıcısı standart planlarına ek ücret olmadan paylaşımı dahil eder. Ancak istisnalar vardır:
 
-- **Holafly**, which offers unlimited data plans for Germany, has historically restricted hotspot tethering on some of its unlimited plans. Their terms of service state that hotspot usage may be throttled or blocked on certain plans. If you plan to tether frequently, check the specific plan details before purchasing, or choose a provider that explicitly includes tethering.
-- **Airalo** includes tethering on virtually all of its Germany eSIM plans, including the Discover+ packages and its local options. Data used through tethering counts against the same plan data cap as on-device usage.
-- **Ubigi**, which operates on the O2 network in Germany, supports tethering on its data-only plans. It is a solid budget choice for tethering in cities, though upload speeds on O2 are lower than on Telekom or Vodafone, which matters for stable video calls from a tethered laptop.
-- **Roami** includes hotspot tethering on its Germany eSIM plans. The data pool is shared between on-device and tethered usage, with no separate restriction or throttling applied solely because the traffic is coming from a tethered device.
+- **Holafly**, Almanya için sınırsız veri planları sunar ve tarihsel olarak bazı sınırsız planlarında hotspot paylaşımını kısıtlamıştır. Hizmet şartları, belirli planlarda hotspot kullanımının kısıtlanabileceğini veya engellenebileceğini belirtir. Sık sık paylaşmayı planlıyorsanız, satın almadan önce belirli plan ayrıntılarını kontrol edin veya paylaşımı açıkça içeren bir sağlayıcı seçin.
+- **Airalo**, Discover+ paketleri ve yerel seçenekleri dahil neredeyse tüm Almanya eSIM planlarında paylaşımı içerir. Paylaşım yoluyla kullanılan veri, cihaz üzeri kullanımla aynı plan veri sınırına sayılır.
+- **Ubigi**, Almanya'da O2 ağında çalışır ve yalnızca veri planlarında paylaşımı destekler. Şehirlerde paylaşım için sağlam bir bütçe seçeneğidir, ancak O2'de yükleme hızları Telekom veya Vodafone'dan daha düşüktür, bu da paylaşılan bir dizüstü bilgisayardan istikrarlı görüntülü aramalar için önemlidir.
+- **Roami**, Almanya eSIM planlarında hotspot paylaşımını içerir. Veri havuzu cihaz üzeri ve paylaşılan kullanım arasında paylaşılır; yalnızca trafiğin paylaşılan bir cihazdan gelmesi nedeniyle ayrı bir kısıtlama veya hız düşürme uygulanmaz.
 
-*Tethering policies and network assignments below were collected from provider terms and carrier documentation on 8 October 2026. These policies change without notice, so confirm on the provider page before you rely on hotspot use.*
+*Aşağıdaki paylaşım politikaları ve ağ atamaları 8 Ekim 2026'da sağlayıcı şartlarından ve operatör belgelerinden toplanmıştır. Bu politikalar bildirimde bulunmaksızın değişir, bu yüzden hotspot kullanımına güvenmeden önce sağlayıcı sayfasında doğrulayın.*
 
-| Provider | Hotspot Tethering | Network in Germany | Data Cap Type | Best For |
+| Sağlayıcı | Hotspot Paylaşımı | Almanya'da Ağ | Veri Sınırı Türü | En İyi Olduğu Alan |
 |----------|------------------|-------------------|---------------|----------|
-| Holafly | Not allowed on Germany plan | Vodafone / O2 | Unlimited (daily FUP) | Phone-only users |
-| Airalo | Allowed on most plans | O2 | Fixed (1-20 GB) | Budget travelers |
-| Ubigi | Allowed | O2 | Fixed (500 MB-50 GB) | Budget laptop tethering |
-| Roami | Allowed | Auto-switch (all 3) | Fixed | Multi-device users |
-| Telekom Prepaid | Allowed | Telekom | Fixed (1-80 GB) | Rural coverage needed |
-| Vodafone CallYa | Allowed | Vodafone | Fixed (10-20 GB) | Balanced urban/rural |
-| Aldi Talk | Allowed | O2 | Fixed (2-25 GB) | Budget, long stays |
+| Holafly | Almanya planında izin verilmez | Vodafone / O2 | Sınırsız (günlük AUP) | Yalnızca telefon kullananlar |
+| Airalo | Çoğu planda izin verilir | O2 | Sabit (1-20 GB) | Bütçe gezginleri |
+| Ubigi | İzin verilir | O2 | Sabit (500 MB-50 GB) | Bütçe dizüstü paylaşımı |
+| Roami | İzin verilir | Otomatik geçiş (üçü de) | Sabit | Çoklu cihaz kullanıcıları |
+| Telekom Ön Ödemeli | İzin verilir | Telekom | Sabit (1-80 GB) | Kırsal kapsama gerekli |
+| Vodafone CallYa | İzin verilir | Vodafone | Sabit (10-20 GB) | Dengeli kentsel/kırsal |
+| Aldi Talk | İzin verilir | O2 | Sabit (2-25 GB) | Bütçe, uzun konaklamalar |
 
-For travelers who need unlimited hotspot tethering specifically, the options are narrower. Most eSIM plans labeled unlimited have a fair-use policy that, after a certain data threshold, either throttles speed to 128 kbps or 256 kbps or deprioritizes traffic behind paid-plan users. Tethering at throttled speeds is still functional for email and messaging but becomes impractical for video streaming or large file downloads. If tethering at high speed is essential for your trip, look for a plan with a high data cap, such as 20 GB, 30 GB, or 50 GB, rather than an unlimited plan that may throttle after 5 GB to 10 GB. The [guide to unlimited data and 5G plans for Germany](/blog/germany-esim-unlimited-data-5g-plans/) provides a detailed comparison of which providers offer unrestricted tethering at full speed on their higher-tier plans.
+Özellikle sınırsız hotspot paylaşımına ihtiyaç duyan gezginler için seçenekler daha dardır. Sınırsız olarak etiketlenen çoğu eSIM planının, belirli bir veri eşiğinden sonra hızı 128 kbps veya 256 kbps'ye düşüren ya da trafiği ücretli plan kullanıcılarının arkasına önceliksizleştiren bir adil kullanım politikası vardır. Kısıtlanmış hızlarında paylaşım e-posta ve mesajlaşma için hâlâ işlevseldir ama video akışı veya büyük dosya indirmeleri için pratik olmaktan çıkar. Yolculuğunuz için yüksek hızda paylaşım esas ise, 5 GB ila 10 GB sonrasında kısıtlayabilecek sınırsız bir plan yerine 20 GB, 30 GB veya 50 GB gibi yüksek veri sınırlı bir plan arayın. [Almanya için sınırsız veri ve 5G planları rehberi](/blog/germany-esim-unlimited-data-5g-plans/), üst düzey planlarında tam hızda kısıtlamasız paylaşım sunan sağlayıcıların ayrıntılı bir karşılaştırmasını sağlar.
 
-### Setting up tethering on iPhone and Android
+### iPhone ve Android'de paylaşım kurulumu
 
-**On iPhone:**
+**iPhone'da:**
 
-1. Go to Settings, Personal Hotspot, and toggle Allow Others to Join.
-2. If you see a prompt about Wi-Fi and Bluetooth, confirm that you want to enable hotspot mode.
-3. The phone will display a Wi-Fi password that other devices use to connect. You can change the password to something easier to type on a laptop if needed.
-4. The hotspot remains active even if the phone screen is off, though battery drain accelerates noticeably. Consider plugging the phone into a power source during extended tethering sessions on trains or in hotel rooms.
+1. Ayarlar, Kişisel Hotspot'a gidin ve Başkalarının Katılmasına İzin Ver'i açın.
+2. Wi-Fi ve Bluetooth ile ilgili bir istem görürseniz, hotspot modunu etkinleştirmek istediğinizi onaylayın.
+3. Telefon, diğer cihazların bağlanmak için kullandığı bir Wi-Fi parolası gösterecektir. Gerekirse parolayı bir dizüstünde yazması daha kolay bir şeyle değiştirebilirsiniz.
+4. Telefon ekranı kapalı olsa bile hotspot etkin kalır, ancak pil tükenmesi belirgin şekilde hızlanır. Trenlerde veya otel odalarında uzun paylaşım oturumları sırasında telefonu bir güç kaynağına takmayı düşünün.
 
-**On Android:**
+**Android'de:**
 
-- **Samsung:** Open Settings, Connections, Mobile Hotspot and Tethering, then tap Mobile Hotspot and toggle the switch on. You can configure the network name and password from the same menu.
-- **Google Pixel:** Open Settings, Network & Internet, Hotspot & Tethering, then Wi-Fi Hotspot and toggle it on.
-- **Other Android devices:** The process is similar across other Android skins, with the hotspot settings typically found under Connections or Network & Internet.
+- **Samsung:** Ayarlar, Bağlantılar, Mobil Hotspot ve Paylaşım'ı açın, ardından Mobil Hotspot'a dokunun ve anahtarı açın. Aynı menüden ağ adını ve parolayı yapılandırabilirsiniz.
+- **Google Pixel:** Ayarlar, Ağ ve İnternet, Hotspot ve Paylaşım'ı açın, ardından Wi-Fi Hotspot'a dokunun ve açın.
+- **Diğer Android cihazlar:** Süreç diğer Android kaplamalarında benzerdir; hotspot ayarları genellikle Bağlantılar veya Ağ ve İnternet altında bulunur.
 
-### Battery and data considerations for tethering
+### Paylaşım için pil ve veri değerlendirmeleri
 
-**Battery impact:**
-- Tethering consumes more battery than using the phone directly because the phone is simultaneously maintaining a cellular data connection and transmitting a Wi-Fi signal.
-- Expect battery life to drop by roughly 30 to 50 percent faster during tethering compared with normal use.
-- Carrying a portable power bank is a practical precaution for long train journeys or full workdays that require tethering.
+**Pil etkisi:**
+- Paylaşım, telefonu doğrudan kullanmaktan daha fazla pil tüketir çünkü telefon aynı anda hem hücresel veri bağlantısını sürdürür hem de bir Wi-Fi sinyali iletir.
+- Paylaşım sırasında pil ömrünün normal kullanıma kıyasla kabaca yüzde 30 ila 50 daha hızlı düşmesini bekleyin.
+- Uzun tren yolculukları veya paylaşım gerektiren tüm iş günleri için taşınabilir bir güç bankası taşımak pratik bir önlemdir.
 
-**Data usage monitoring:**
-- Data usage through tethering can be deceptive. A laptop running video calls or software updates can consume data much faster than phone-based activities.
-- If your Germany eSIM has a fixed data cap, monitor your usage through the providers app or through the phones built-in data tracker.
-- iOS has a Reset Statistics option under Settings, Cellular that lets you track usage from a known starting point.
-- Android offers a similar Data Usage section under Settings, Network & Internet.
+**Veri kullanımı izleme:**
+- Paylaşım yoluyla veri kullanımı yanıltıcı olabilir. Görüntülü aramalar veya yazılım güncellemeleri çalıştıran bir dizüstü, telefon tabanlı etkinliklerden çok daha hızlı veri tüketebilir.
+- Almanya eSIM'inizin sabit bir veri sınırı varsa, kullanımınızı sağlayıcının uygulaması veya telefonun yerleşik veri izleyicisi üzerinden izleyin.
+- iOS'ta Ayarlar, Hücresel altında, bilinen bir başlangıç noktasından kullanımı izlemenizi sağlayan İstatistikleri Sıfırla seçeneği vardır.
+- Android, Ayarlar, Ağ ve İnternet altında benzer bir Veri Kullanımı bölümü sunar.
 
-## Topping Up Your Germany eSIM During Your Trip
+## Yolculuğunuz Sırasında Almanya eSIM'inizi Yükleme
 
-The ability to top up an eSIM during a trip is a significant advantage over physical prepaid SIMs, which often require returning to a store to add credit. With an eSIM, you can purchase additional data from anywhere with an internet connection, whether that is a hotel Wi-Fi network, a cafe in Munich, or a friends hotspot. This section covers how topping up works across different provider types and what to watch for.
+Bir eSIM'i yolculuk sırasında yükleyebilme yeteneği, genellikle kredi eklemek için bir mağazaya dönmeyi gerektiren fiziksel ön ödemeli SIM'lere kıyasla önemli bir avantajdır. Bir eSIM ile, bir otel Wi-Fi ağı, Münih'te bir kafe veya bir arkadaşınızın hotspot'u olsun, internet bağlantısı olan her yerden ek veri satın alabilirsiniz. Bu bölüm, yüklemenin farklı sağlayıcı türlerinde nasıl çalıştığını ve nelere dikkat edilmesi gerektiğini kapsar.
 
-### How topping up works
+### Yükleme nasıl çalışır
 
-- **Self-service portal or app:** Most eSIM providers offer a self-service portal or a mobile app where you can view your remaining data, the expiry date of your current plan, and available top-up options.
-- **Quick crediting:** Topping up typically involves selecting a data add-on, completing a payment, and having the additional data credited to your existing eSIM profile within seconds to a few minutes. No new QR code or profile installation is needed. The original eSIM stays on your phone, and the data balance increases.
-- **Profile-specific top-ups:** Some providers, such as Airalo and Ubigi, allow top-ups that are specific to the same eSIM profile. This means you can buy a 1 GB, 3 GB, or 5 GB add-on that layers on top of your existing plan without affecting the expiry date of the original plan.
-- **Full replacement (rare):** Other providers may require you to purchase a new eSIM entirely if you exhaust your data, though this is increasingly rare among established travel eSIM companies.
+- **Self servis portal veya uygulama:** Çoğu eSIM sağlayıcısı, kalan verinizi, mevcut planınızın son kullanma tarihini ve mevcut yükleme seçeneklerini görüntüleyebileceğiniz bir self servis portal veya bir mobil uygulama sunar.
+- **Hızlı kredi yükleme:** Yükleme tipik olarak bir veri eklentisi seçmeyi, bir ödeme tamamlamayı ve ek verinin saniyeler ila birkaç dakika içinde mevcut eSIM profilinize yüklenmesini içerir. Yeni bir QR kod veya profil kurulumu gerekmez. Orijinal eSIM telefonunuzda kalır ve veri bakiyesi artar.
+- **Profile özgü yüklemeler:** Airalo ve Ubigi gibi bazı sağlayıcılar, aynı eSIM profiline özgü yüklemelere izin verir. Bu, orijinal planın son kullanma tarihini etkilemeden mevcut planınızın üzerine 1 GB, 3 GB veya 5 GB'lık bir eklenti satın alabileceğiniz anlamına gelir.
+- **Tam değiştirme (nadir):** Diğer sağlayıcılar, verinizi tüketirseniz tamamen yeni bir eSIM satın almanızı gerektirebilir, ancak bu yerleşik seyahat eSIM şirketleri arasında giderek daha nadirdir.
 
-### When to top up during your trip
+### Yolculuğunuz sırasında ne zaman yükleme yapmalı
 
-Consider these strategies for topping up:
+Yükleme için şu stratejileri düşünün:
 
-- **Wait for a notification:** Most eSIM provider apps send a notification when you reach 80 percent or 90 percent of your data cap. If you have enabled notifications for the app, you will receive an alert before you run out. Topping up at this point is seamless and avoids any interruption.
-- **Precautionary mid-trip top-up:** If you prefer a more precautionary approach, top up at the midpoint of your trip regardless of remaining data. For a 10-day trip with a 10 GB plan, topping up an additional 5 GB on day five ensures you have a comfortable buffer for the second half without worrying about daily usage spikes from map navigation or video calls.
+- **Bir bildirimi bekleyin:** Çoğu eSIM sağlayıcı uygulaması, veri sınırınızın yüzde 80 veya 90'ına ulaştığınızda bir bildirim gönderir. Uygulama için bildirimleri etkinleştirdiyseniz, tükenmeden önce bir uyarı alırsınız. Bu noktada yükleme yapmak sorunsuzdur ve herhangi bir kesintiyi önler.
+- **Önlem olarak yolculuk ortası yükleme:** Daha önlemci bir yaklaşım tercih ediyorsanız, kalan veri ne olursa olsun yolculuğunuzun ortasında yükleme yapın. 10 GB planlı 10 günlük bir yolculuk için beşinci gün ek 5 GB yüklemek, harita navigasyonu veya görüntülü aramalardan kaynaklanan günlük kullanım zirveleri konusunda endişelenmeden ikinci yarı için rahat bir tampon sağlar.
 
-### What happens if data runs out
+### Veri tükenirse ne olur
 
-- **Data stops, but signal remains:** If your Germany eSIM data runs out, the eSIM profile remains on your phone but the data connection stops working. The phone will still show signal bars from the German network, but any app that requires internet access will fail.
-- **Voice and SMS unaffected:** SMS messages to your home SIM continue to arrive normally, and phone calls through your home SIM are unaffected, because those go through the home line rather than the eSIM data connection.
-- **The fix:** Connect to any Wi-Fi network, open the providers app or website, purchase a top-up, and wait for the confirmation. Once the top-up is credited, the data connection resumes automatically. No restart or settings change is needed.
-- **No Wi-Fi available:** If you do not have immediate access to Wi-Fi, most providers can process the payment through a mobile browser on a tethered connection from a travel companions phone, provided they have data available.
+- **Veri durur, ama sinyal kalır:** Almanya eSIM veriniz tükenirse, eSIM profili telefonunuzda kalır ama veri bağlantısı çalışmayı durdurur. Telefon yine de Alman ağından sinyal çubukları gösterecektir, ancak internet erişimi gerektiren herhangi bir uygulama başarısız olacaktır.
+- **Ses ve SMS etkilenmez:** Ev SIM'inize gelen SMS mesajları normal şekilde gelmeye devam eder ve ev SIM'iniz üzerinden telefon aramaları etkilenmez, çünkü bunlar eSIM veri bağlantısı yerine ev hattı üzerinden gider.
+- **Çözüm:** Herhangi bir Wi-Fi ağına bağlanın, sağlayıcının uygulamasını veya web sitesini açın, bir yükleme satın alın ve onayı bekleyin. Yükleme yüklendikten sonra veri bağlantısı otomatik olarak devam eder. Yeniden başlatma veya ayar değişikliği gerekmez.
+- **Wi-Fi yoksa:** Hemen Wi-Fi erişiminiz yoksa, çoğu sağlayıcı ödemeyi, verisi varsa bir seyahat arkadaşının telefonundan paylaşılan bir bağlantı üzerinden mobil tarayıcıyla işleyebilir.
 
-### Topping up from outside Germany and pricing
+### Almanya dışından yükleme ve fiyatlandırma
 
-Yes, you can top up a Germany eSIM plan from outside Germany — and this is one of the underappreciated advantages of eSIM technology. You can purchase a [eSIM for Germany](/germany-esim/) and top it up from anywhere in the world before you even board your flight. The eSIM profile can be installed at home, and the data plan activates when you first connect to a German network. If you anticipate needing more data for the second half of your trip, you can buy a top-up while still at home, and the additional data will be available the moment you land.
+Evet, bir Almanya eSIM planını Almanya dışından yükleyebilirsiniz — ve bu, eSIM teknolojisinin az takdir edilen avantajlarından biridir. Bir [Almanya için eSIM](/germany-esim/) satın alabilir ve uçağınıza binmeden önce bile dünyanın herhangi bir yerinden yükleyebilirsiniz. eSIM profili evde kurulabilir ve veri planı Almanya'da bir ağa ilk bağlandığınızda etkinleşir. Yolculuğunuzun ikinci yarısı için daha fazla veriye ihtiyaç duyacağınızı öngörüyorsanız, hâlâ evdeyken bir yükleme satın alabilirsiniz ve ek veri indiğiniz anda kullanılabilir olacaktır.
 
-For travelers who prefer to arrive with a full data balance, buying a larger plan upfront and topping up as needed is a straightforward strategy. The flexibility to add data from any location removes the last remaining friction point that physical prepaid SIMs had over eSIMs.
+Tam veri bakiyesiyle varmayı tercih eden gezginler için, önceden daha büyük bir plan satın almak ve gerektiğinde yükleme yapmak basit bir stratejidir. Herhangi bir konumdan veri ekleme esnekliği, fiziksel ön ödemeli SIM'lerin eSIM'ler üzerindeki son sürtünme noktasını ortadan kaldırır.
 
-**Top-up pricing.** Top-up data typically costs slightly more per gigabyte than the original plan. This is a common pattern across the industry: the initial plan is priced competitively to attract the purchase, and subsequent add-ons are priced closer to standard rates. For example, an initial 10 GB Germany eSIM plan might cost approximately $13 to $16, while a 5 GB top-up could cost $10 to $12. The price difference is modest enough that topping up is still more economical than buying a second full plan, especially if you only need a few extra gigabytes. For current price levels at every data tier, the [price guide](/blog/germany-esim-price-guide-cheapest-plans/) keeps a verified cost comparison.
+**Yükleme fiyatlandırması.** Yükleme verisi tipik olarak orijinal plandan gigabayt başına biraz daha pahalıdır. Bu, sektör genelinde yaygın bir kalıptır: ilk plan satın almayı çekmek için rekabetçi fiyatlandırılır ve sonraki eklentiler standart oranlara daha yakın fiyatlandırılır. Örneğin, ilk bir 10 GB Almanya eSIM planı yaklaşık 13 ila 16 $'a mal olabilirken, 5 GB'lık bir yükleme 10 ila 12 $'a mal olabilir. Fiyat farkı yükleme yapmayı ikinci bir tam plan satın almaktan hâlâ daha ekonomik kılacak kadar mütevazıdır, özellikle yalnızca birkaç ek gigabayta ihtiyacınız varsa. Her veri düzeyindeki güncel fiyat seviyeleri için [fiyat rehberi](/blog/germany-esim-price-guide-cheapest-plans/) doğrulanmış bir maliyet karşılaştırması tutar.
 
-| Data Scenario | International eSIM | Local Prepaid (Aldi Talk) | Hybrid (eSIM + Local) |
+| Veri Senaryosu | Uluslararası eSIM | Yerel Ön Ödemeli (Aldi Talk) | Hibrit (eSIM + Yerel) |
 |--------------|-------------------|--------------------------|----------------------|
-| 1-week, light use | $10-15 (3-5 GB) | EUR 8-10 (3-6 GB) | Overkill |
-| 2-week, moderate | $18-25 (10 GB) | EUR 13-15 (10 GB) | $30-40 (both active) |
-| 1-month, heavy | $35-50 (20-50 GB) | EUR 22-25 (25 GB) | $45-60 (redundancy) |
-| 3-month, student | $90-150 (monthly) | EUR 39-60 (3 months) | $80-110 (bridge + local) |
-| Family of 4, 2 weeks | $44-80 (4 plans) | EUR 40-60 (4 Aldi plans) | $60-90 (mix) |
+| 1 hafta, hafif kullanım | 10-15 $ (3-5 GB) | 8-10 EUR (3-6 GB) | Aşırı |
+| 2 hafta, orta | 18-25 $ (10 GB) | 13-15 EUR (10 GB) | 30-40 $ (ikisi de etkin) |
+| 1 ay, yoğun | 35-50 $ (20-50 GB) | 22-25 EUR (25 GB) | 45-60 $ (yedeklilik) |
+| 3 ay, öğrenci | 90-150 $ (aylık) | 39-60 EUR (3 ay) | 80-110 $ (köprü + yerel) |
+| 4 kişilik aile, 2 hafta | 44-80 $ (4 plan) | 40-60 EUR (4 Aldi planı) | 60-90 $ (karışık) |
 
-Some provider apps include auto price comparison that shows the cheapest available top-up option at the time of purchase. This can save a few dollars compared with the standard add-on price displayed in the main menu.
+Bazı sağlayıcı uygulamaları, satın alma sırasında mevcut en ucuz yükleme seçeneğini gösteren otomatik fiyat karşılaştırması içerir. Bu, ana menüde görüntülenen standart eklenti fiyatına kıyasla birkaç dolar tasarruf edebilir.
 
-## Managing Multiple Devices: Germany eSIM on Phone, Tablet and Laptop
+## Birden Fazla Cihazı Yönetme: Telefon, Tablet ve Dizüstünde Almanya eSIM
 
-Travelers increasingly carry multiple connected devices: a smartphone, a tablet for entertainment and reading, and a laptop for work or trip planning. The question of how to keep all these devices online during a trip to Germany comes down to a few practical strategies, each with its own trade-offs.
+Gezginler giderek daha fazla bağlantılı cihaz taşıyor: bir akıllı telefon, eğlence ve okuma için bir tablet ve iş veya yolculuk planlaması için bir dizüstü. Almanya'ya bir yolculuk sırasında tüm bu cihazları çevrimiçi tutma sorusu, her biri kendi ödünleşimlerine sahip birkaç pratik stratejiye dayanır.
 
-### The eSIM is tied to one device
+### eSIM tek bir cihaza bağlıdır
 
-The fundamental constraint is that an eSIM is installed on a single device. You cannot install one Germany eSIM on both your phone and your tablet simultaneously through a shared profile. Each device that needs cellular connectivity must have its own eSIM, or the devices must share connectivity through tethering.
+Temel sınırlama, bir eSIM'in tek bir cihaza kurulduğudur. Paylaşılan bir profil aracılığıyla bir Almanya eSIM'i aynı anda hem telefonunuza hem de tabletinize kuramazsınız. Hücresel bağlantıya ihtiyaç duyan her cihazın kendi eSIM'i olmalı veya cihazlar bağlantıyı paylaşım yoluyla paylaşmalıdır.
 
-**For cellular-capable tablets:**
-- You can buy a second eSIM specifically for that device. The process is the same as installing an eSIM on a phone: scan a QR code on the tablet, set up the plan, and the tablet has its own independent cellular connection.
-- This is useful if the tablet is used heavily for streaming or reading during train journeys and you want to keep the phones battery dedicated to tethering or navigation.
+**Hücresel özellikli tabletler için:**
+- O cihaz için özel olarak ikinci bir eSIM satın alabilirsiniz. Süreç, bir telefona eSIM kurmakla aynıdır: tablette bir QR kod tarayın, planı kurun ve tabletin kendi bağımsız hücresel bağlantısı olur.
+- Bu, tablet tren yolculuklarında akış veya okuma için yoğun kullanılıyorsa ve telefonun pilini paylaşım veya navigasyona ayırmak istiyorsanız faydalıdır.
 
-**For laptops:**
-- Most laptops do not have eSIM support, though an increasing number of Windows laptops with Snapdragon processors and certain high-end business laptops include embedded eSIM modules.
-- If your laptop has eSIM support, you can purchase a data-only eSIM for the laptop through the same providers, or through the laptops built-in eSIM management interface in Windows.
-- Consumer Cellular and some travel eSIM providers have Windows apps that handle eSIM installation and management.
+**Dizüstüler için:**
+- Çoğu dizüstünde eSIM desteği yoktur, ancak Snapdragon işlemcili Windows dizüstülerin ve belirli üst düzey iş dizüstülerinin artan sayısı gömülü eSIM modülleri içerir.
+- Dizüstünüz eSIM desteğine sahipse, aynı sağlayıcılar aracılığıyla veya Windows'taki dizüstünün yerleşik eSIM yönetim arayüzü aracılığıyla dizüstü için yalnızca veri eSIM'i satın alabilirsiniz.
+- Consumer Cellular ve bazı seyahat eSIM sağlayıcılarının eSIM kurulumunu ve yönetimini yöneten Windows uygulamaları vardır.
 
-### Hotspot as the universal sharing method
+### Evrensel paylaşım yöntemi olarak hotspot
 
-For the majority of travelers who do not have cellular-capable tablets or eSIM-enabled laptops, the hotspot method described in the previous section is the most practical solution. The phone with the Germany eSIM acts as the hub. The tablet and laptop connect to the phones hotspot for internet access.
+Hücresel özellikli tabletleri veya eSIM etkin dizüstüleri olmayan gezginlerin çoğunluğu için, önceki bölümde açıklanan hotspot yöntemi en pratik çözümdür. Almanya eSIM'ine sahip telefon merkez görevi görür. Tablet ve dizüstü internet erişimi için telefonun hotspot'una bağlanır.
 
-This approach has two practical limitations:
+Bu yaklaşımın iki pratik sınırlaması vardır:
 
-- **Range limitation:** The phone must stay within Bluetooth or Wi-Fi range of the other devices.
-- **Battery drain:** Battery drain on the phone accelerates. If you plan to work from cafes in Berlin while your tablet streams video on a separate device, the phone will need to stay on and connected to both.
+- **Menzil sınırlaması:** Telefon diğer cihazların Bluetooth veya Wi-Fi menzilinde kalmalıdır.
+- **Pil tükenmesi:** Telefondaki pil tükenmesi hızlanır. Tablet ayrı bir cihazda video akışı yaparken Berlin'deki kafelerden çalışmayı planlıyorsanız, telefon açık kalmalı ve her ikisine de bağlı olmalıdır.
 
-A power bank becomes essential for anything beyond two to three hours of tethering.
+İki ila üç saatten fazla paylaşım için bir güç bankası vazgeçilmez hale gelir.
 
-### Multi-device plans and family sharing
+### Çoklu cihaz planları ve aile paylaşımı
 
-Consider these approaches for connecting multiple devices:
+Birden fazla cihazı bağlamak için şu yaklaşımları düşünün:
 
-- **Multi-device plans (rare for travel):** Some eSIM providers are beginning to offer multi-device plans that allow a single data allowance to be used across up to five devices, though this is less common in the travel eSIM space than in the consumer postpaid market. In Germany, Telekom and Vodafone offer multi-SIM options for postpaid contracts that let you share a data pool across a phone, tablet, and smartwatch. These are aimed at residents and long-term visitors rather than short-term travelers, since they require a German bank account and proof of address.
-- **Individual eSIMs per device:** For travel-specific needs, the most straightforward multi-device approach is to purchase individual eSIMs for each device that needs cellular connectivity, and rely on hotspot sharing for devices without eSIM support. The combined cost of two eSIMs is often comparable to a single plan with a larger data allowance, and the flexibility of having independent connections can be worth the small premium.
+- **Çoklu cihaz planları (seyahat için nadir):** Bazı eSIM sağlayıcıları, tek bir veri kotasının beş cihaza kadar kullanılmasına izin veren çoklu cihaz planları sunmaya başlıyor, ancak bu seyahat eSIM alanında tüketici faturalı pazarından daha az yaygındır. Almanya'da Telekom ve Vodafone, faturalı sözleşmeler için bir veri havuzunu telefon, tablet ve akıllı saat arasında paylaşmanıza izin veren çoklu SIM seçenekleri sunar. Bunlar kısa süreli gezginler yerine sakinlere ve uzun süreli ziyaretçilere yöneliktir, çünkü bir Alman banka hesabı ve adres kanıtı gerektirirler.
+- **Cihaz başına bireysel eSIM'ler:** Seyahate özgü ihtiyaçlar için en basit çoklu cihaz yaklaşımı, hücresel bağlantıya ihtiyaç duyan her cihaz için bireysel eSIM'ler satın almak ve eSIM desteği olmayan cihazlar için hotspot paylaşımına güvenmektir. İki eSIM'in birleşik maliyeti genellikle daha büyük veri kotası olan tek bir planla karşılaştırılabilir ve bağımsız bağlantılara sahip olmanın esnekliği küçük bir prime değebilir.
 
-### Managing eSIMs for a family group
+### Bir aile grubu için eSIM'leri yönetme
 
-If you are traveling with family members, each person needs their own eSIM or must rely on hotspot sharing from a single phone. The practical consideration here is that hotspot sharing works well when the group stays together but becomes impractical when family members split up during the day, which happens frequently in a city like Munich or Berlin where some visit museums while others explore different neighborhoods.
+Aile üyeleriyle seyahat ediyorsanız, her kişinin kendi eSIM'ine ihtiyacı vardır veya tek bir telefondan hotspot paylaşımına güvenmelidir. Buradaki pratik değerlendirme, hotspot paylaşımının grup bir arada kaldığında iyi çalıştığı ama aile üyeleri gün içinde ayrıldığında pratik olmaktan çıktığıdır; bu, Münih veya Berlin gibi bir şehirde bazıları müze gezerken diğerleri farklı mahalleleri keşfettiğinde sıklıkla olur.
 
-Two practical setups for families:
+Aileler için iki pratik kurulum:
 
-**Each person gets their own eSIM:**
-- Each phone has its own Germany eSIM with a moderate data allowance, such as 5 GB or 10 GB per person.
-- This avoids the dependency on tethering and ensures each family member has independent connectivity for navigation, messaging, and photos.
-- The phones can be configured using the dual SIM setup described earlier, with each persons home SIM for voice and SMS and the Germany eSIM for data.
+**Her kişi kendi eSIM'ini alır:**
+- Her telefonun, kişi başına 5 GB veya 10 GB gibi orta düzeyde bir veri kotası olan kendi Almanya eSIM'i vardır.
+- Bu, paylaşıma olan bağımlılığı önler ve her aile üyesinin navigasyon, mesajlaşma ve fotoğraflar için bağımsız bağlantıya sahip olmasını sağlar.
+- Telefonlar, daha önce açıklanan çift SIM kurulumu kullanılarak yapılandırılabilir; her kişinin ev SIM'i ses ve SMS için ve Almanya eSIM'i veri için.
 
-**Single hotspot with large data plan:**
-- A single phone with a large data plan, such as 30 GB or 50 GB, acts as the hotspot for the rest of the group.
-- The hotspot phone stays in one persons bag, and the others connect their phones to it.
-- This works well when the group remains within roughly ten meters of the host phone, but it breaks down when group members wander apart in a train station or a museum.
+**Büyük veri planlı tek hotspot:**
+- 30 GB veya 50 GB gibi büyük bir veri planına sahip tek bir telefon, grubun geri kalanı için hotspot görevi görür.
+- Hotspot telefon bir kişinin çantasında kalır ve diğerleri telefonlarını ona bağlar.
+- Bu, grup ana telefona kabaca on metre mesafede kaldığında iyi çalışır, ancak grup üyeleri bir tren istasyonunda veya bir müzede dağıldığında bozulur.
 
-## Troubleshooting Germany eSIM Dual SIM Conflicts
+## Almanya eSIM Çift SIM Çakışmalarını Giderme
 
-A Germany eSIM dual SIM conflict typically arises when the phone tries to use both lines for data simultaneously, causing one connection to drop.
+Bir Almanya eSIM çift SIM çakışması tipik olarak telefon her iki hattı aynı anda veri için kullanmaya çalıştığında ve bir bağlantının düşmesine neden olduğunda ortaya çıkar.
 
-Even with correct configuration, dual SIM setups can produce unexpected behavior. The symptoms are usually consistent: data stops working on one line, calls fail to connect, or the phone shows a confusing message about line conflicts. The following are the most common issues travelers encounter with dual SIM in Germany and how to resolve them.
+Doğru yapılandırmayla bile, çift SIM kurulumları beklenmeyen davranış üretebilir. Belirtiler genellikle tutarlıdır: bir hatta veri çalışmayı durdurur, aramalar bağlanmaz veya telefon hat çakışmaları hakkında kafa karıştırıcı bir mesaj gösterir. Aşağıdakiler, gezginlerin Almanya'da çift SIM ile karşılaştığı en yaygın sorunlar ve bunların nasıl çözüleceğidir.
 
-### iPhone "Other Line Not Supported" error
+### iPhone "Diğer Hat Desteklenmiyor" hatası
 
-This is perhaps the most frequently reported dual SIM issue on iPhone. The message appears when you try to use a feature that requires both lines to be active for the same action, such as forwarding calls from one line to the other, or using Wi-Fi Calling over Cellular Data when the providers do not support that combination.
+Bu, belki de iPhone'da en sık bildirilen çift SIM sorunudur. Mesaj, her iki hattın da aynı eylem için etkin olmasını gerektiren bir özelliği kullanmaya çalıştığınızda görünür; örneğin bir hattan diğerine arama yönlendirme veya sağlayıcıların bu kombinasyonu desteklemediği durumlarda Hücresel Veri üzerinden Wi-Fi Arama kullanma.
 
-The fix depends on what triggered the message:
+Çözüm, mesajı neyin tetiklediğine bağlıdır:
 
-- If it appears after you enable Wi-Fi Calling on the home SIM, the phone is trying to use the Germany eSIMs data connection to relay the home SIMs Wi-Fi calls. Some carriers block this. The workaround is to disable Wi-Fi Calling on the home SIM for the duration of your trip, or to enable it only when connected to a known Wi-Fi network rather than over the cellular data of the other line.
-- If the error appears during normal use without any specific trigger, restart the phone. This clears whatever temporary state caused the conflict.
-- If the error persists, remove the eSIM profile and reinstall it following the steps in the installation section above. The error is rarely a sign of hardware or network failure. It is almost always a software-level provisioning mismatch between the two lines.
+- Ev SIM'inde Wi-Fi Arama'yı etkinleştirdikten sonra görünüyorsa, telefon ev SIM'inin Wi-Fi aramalarını aktarmak için Almanya eSIM'inin veri bağlantısını kullanmaya çalışıyordur. Bazı operatörler bunu engeller. Geçici çözüm, yolculuğunuz süresince ev SIM'inde Wi-Fi Arama'yı devre dışı bırakmak veya diğer hattın hücresel verisi üzerinden değil, yalnızca bilinen bir Wi-Fi ağına bağlıyken etkinleştirmektir.
+- Hata belirli bir tetikleyici olmadan normal kullanım sırasında görünüyorsa, telefonu yeniden başlatın. Bu, çakışmaya neden olan geçici durumu temizler.
+- Hata devam ederse, eSIM profilini kaldırın ve yukarıdaki kurulum bölümündeki adımları izleyerek yeniden kurun. Hata nadiren bir donanım veya ağ arızası işaretidir. Neredeyse her zaman iki hat arasında yazılım düzeyinde bir sağlama uyuşmazlığıdır.
 
-### Data stops working after line switching
+### Hat geçişinden sonra veri çalışmayı durduruyor
 
-- **What happens:** If you have Allow Cellular Data Switching on iPhone or Automatically switch mobile data on Android enabled, the phone may switch the data line to the home SIM when the Germany eSIM momentarily loses signal. Once the German network signal returns, the phone sometimes does not switch back automatically, or it takes several minutes to do so.
-- **Quick fix:** Toggle Airplane Mode on and off. This forces the phone to re-register both lines on their respective networks, at which point the data line switches back to the eSIM because it is set as the default.
-- **Prevent recurrence:** If you find this happening frequently, turn off the automatic data switching feature entirely. The downside is that you lose connectivity during brief dead zones on trains, but the upside is that you never accidentally incur roaming charges on the home SIM.
+- **Ne olur:** iPhone'da Hücresel Veri Geçişine İzin Ver veya Android'de Mobil veriyi otomatik değiştir etkinse, Almanya eSIM'i anlık olarak sinyal kaybettiğinde telefon veri hattını ev SIM'ine geçirebilir. Alman ağ sinyali geri geldiğinde, telefon bazen otomatik olarak geri geçmez veya bunu yapması birkaç dakika sürer.
+- **Hızlı çözüm:** Uçak Modunu açıp kapatın. Bu, telefonu her iki hattı da kendi ağlarına yeniden kaydetmeye zorlar; bu noktada veri hattı varsayılan olarak ayarlandığı için eSIM'e geri döner.
+- **Tekrarlamayı önleme:** Bunun sık olduğunu fark ederseniz, otomatik veri geçişi özelliğini tamamen kapatın. Dezavantajı trenlerde kısa ölü bölgelerde bağlantıyı kaybetmenizdir, ancak avantajı ev SIM'inde asla kazara dolaşım ücreti doğurmamanızdır.
 
-### Home SIM shows "No Service" or "SOS Only"
+### Ev SIM'i "Servis Yok" veya "Yalnızca SOS" gösteriyor
 
-This is usually a network registration issue. Follow these steps to resolve it:
+Bu genellikle bir ağ kaydı sorunudur. Çözmek için şu adımları izleyin:
 
-1. **Try manual network selection on iPhone:** Go to Settings, Cellular, tap the home SIM, then Network Selection, and turn off Automatic. Wait for the list of available networks to appear, then tap one of the three German networks (Telekom, Vodafone, or O2). If the home SIM registers, the phone will show signal bars for both lines. If it does not, try the other two networks. Once the home SIM is registered, turn Automatic back on.
-2. **Try manual network selection on Android:**
-   - **Samsung:** Go to Settings, Connections, SIM Card Manager, tap the home SIM, then Network Mode and select a specific network type.
-   - **Pixel:** Go to Settings, Network & Internet, SIMs, tap the home SIM, then Network and choose a specific operator.
-3. **Check for roaming restrictions:** If manual network selection does not work, the home SIM may have a roaming restriction from your carrier. Contact your home carrier before the trip and confirm that international roaming is enabled on your plan. Some prepaid and budget carriers disable roaming by default and require a manual activation through the account portal.
+1. **iPhone'da manuel ağ seçimini deneyin:** Ayarlar, Hücresel'e gidin, ev SIM'ine dokunun, ardından Ağ Seçimi'ne gidin ve Otomatik'i kapatın. Kullanılabilir ağlar listesinin görünmesini bekleyin, ardından üç Alman ağından birine (Telekom, Vodafone veya O2) dokunun. Ev SIM'i kaydolursa, telefon her iki hat için sinyal çubukları gösterir. Kaydolmazsa diğer iki ağı deneyin. Ev SIM'i kaydolduktan sonra Otomatik'i tekrar açın.
+2. **Android'de manuel ağ seçimini deneyin:**
+   - **Samsung:** Ayarlar, Bağlantılar, SIM Kart Yöneticisi'ne gidin, ev SIM'ine dokunun, ardından Ağ Modu'na gidin ve belirli bir ağ türü seçin.
+   - **Pixel:** Ayarlar, Ağ ve İnternet, SIM'ler'e gidin, ev SIM'ine dokunun, ardından Ağ'a gidin ve belirli bir operatör seçin.
+3. **Dolaşım kısıtlamalarını kontrol edin:** Manuel ağ seçimi işe yaramazsa, ev SIM'inin operatörünüzden bir dolaşım kısıtlaması olabilir. Yolculuktan önce ev operatörünüzle iletişime geçin ve planınızda uluslararası dolaşımın etkin olduğunu doğrulayın. Bazı ön ödemeli ve bütçe operatörleri dolaşımı varsayılan olarak devre dışı bırakır ve hesap portalı üzerinden manuel etkinleştirme gerektirir.
 
-### Slow data and EDGE or GPRS fallback
+### Yavaş veri ve EDGE veya GPRS'ye düşme
 
-Slow data on the eSIM can have several causes:
+eSIM'de yavaş verinin birkaç nedeni olabilir:
 
-- **Network congestion (most common):** Particularly on O2, which has less total spectrum and capacity than Telekom or Vodafone. If you are in a crowded area such as a train station, a festival ground, or a popular tourist square, O2-based eSIMs may struggle to deliver usable speeds.
-- **Check your connected network:** On iPhone, go to Settings, Cellular, tap the Germany eSIM, and look at the network name. On Android, check the SIM Card Manager or SIMs screen for the connected network. If the eSIM is on O2 and the speed is unusable, try manually selecting Telekom or Vodafone through the network selection menu.
-- **Still slow on Telekom or Vodafone:** The issue is likely local congestion or a temporary network fault. Try moving to a different location, even 100 meters, to see if the signal improves. Restarting the phone also helps in cases where the network session has become stale.
+- **Ağ yoğunluğu (en yaygın):** Özellikle toplam spektrumu ve kapasitesi Telekom veya Vodafone'dan daha az olan O2'de. Bir tren istasyonu, bir festival alanı veya popüler bir turist meydanı gibi kalabalık bir alandaysanız, O2 tabanlı eSIM'ler kullanılabilir hızlar sunmakta zorlanabilir.
+- **Bağlı olduğunuz ağı kontrol edin:** iPhone'da Ayarlar, Hücresel'e gidin, Almanya eSIM'ine dokunun ve ağ adına bakın. Android'de bağlı ağ için SIM Kart Yöneticisi veya SIM'ler ekranını kontrol edin. eSIM O2'deyse ve hız kullanılamaz durumdaysa, ağ seçimi menüsü üzerinden manuel olarak Telekom veya Vodafone seçmeyi deneyin.
+- **Telekom veya Vodafone'da hâlâ yavaş:** Sorun muhtemelen yerel yoğunluk veya geçici bir ağ arızasıdır. Sinyalin iyileşip iyileşmediğini görmek için farklı bir konuma, hatta 100 metre öteye geçmeyi deneyin. Telefonu yeniden başlatmak da ağ oturumunun bayatladığı durumlarda yardımcı olur.
 
-### SMS verification codes from the home SIM arrive late or not at all
+### Ev SIM'inden gelen SMS doğrulama kodları geç geliyor veya hiç gelmiyor
 
-- **Why it happens:** This is a roaming issue rather than a dual SIM issue. When your home SIM is roaming in Germany, SMS delivery can be delayed because the message has to travel from your home carriers SMSC through the German partner network to your phone. Delays of several minutes are common, and occasional delivery failures happen.
-- **What to do:** If an SMS verification code does not arrive within five minutes, request a new code through the app or service that sent it. Most services allow at least three resend attempts. If the code still does not arrive, the home SIM may have lost its network registration. Toggle the home SIM off and on in the SIM settings, or restart the phone.
-- **Prevention:** For services that offer alternative verification methods, such as authenticator apps or email-based codes, set those up before leaving home. Relying solely on SMS verification while roaming is risky because delivery is inherently less reliable than when the SIM is on its home network.
+- **Neden olur:** Bu bir çift SIM sorunu değil, bir dolaşım sorunudur. Ev SIM'iniz Almanya'da dolaşımdayken, mesajın ev operatörünüzün SMSC'sinden Alman ortak ağı üzerinden telefonunuza gitmesi gerektiği için SMS teslimatı gecikebilir. Birkaç dakikalık gecikmeler yaygındır ve ara sıra teslimat hataları olur.
+- **Ne yapmalı:** Bir SMS doğrulama kodu beş dakika içinde gelmezse, onu gönderen uygulama veya hizmet aracılığıyla yeni bir kod isteyin. Çoğu hizmet en az üç yeniden gönderme denemesine izin verir. Kod hâlâ gelmezse, ev SIM'i ağ kaydını kaybetmiş olabilir. SIM ayarlarında ev SIM'ini kapatıp açın veya telefonu yeniden başlatın.
+- **Önleme:** Kimlik doğrulayıcı uygulamalar veya e-posta tabanlı kodlar gibi alternatif doğrulama yöntemleri sunan hizmetler için bunları evden ayrılmadan önce kurun. Dolaşımdayken yalnızca SMS doğrulamasına güvenmek risklidir çünkü teslimat, SIM kendi ev ağındayken olduğundan doğası gereği daha az güvenilirdir.
 
-### The phone is stuck on EDGE or GPRS instead of LTE or 5G
+### Telefon LTE veya 5G yerine EDGE veya GPRS'de takılı
 
-- **Cause:** This is an APN configuration issue. When the eSIM profile is installed, the phone should automatically receive the correct APN settings from the provider. In some cases, especially with provider-branded eSIMs that require manual APN entry, the phone may fall back to 2G because it is using an incorrect or missing APN.
-- **Check APN settings on iPhone:** Go to Settings, Cellular, tap the Germany eSIM, then Cellular Data Network. The APN field should contain the providers correct value, such as internet.t-mobile.de for Telekom-based eSIMs, web.vodafone.de for Vodafone-based ones, or pinternet.interkom.de for O2-based ones.
-- **Check APN settings on Android:** Go to Settings, Network & Internet, SIMs, tap the Germany eSIM, then Access Point Names.
-- **Fix:** If the APN field is empty or contains an incorrect value, enter the correct APN from your providers documentation. After saving the APN, toggle the eSIM off and on, or restart the phone. The network should reconnect at LTE or 5G speeds within 30 seconds.
+- **Neden:** Bu bir APN yapılandırma sorunudur. eSIM profili kurulduğunda, telefon sağlayıcıdan doğru APN ayarlarını otomatik olarak almalıdır. Bazı durumlarda, özellikle manuel APN girişi gerektiren sağlayıcı markalı eSIM'lerde, telefon yanlış veya eksik bir APN kullandığı için 2G'ye düşebilir.
+- **iPhone'da APN ayarlarını kontrol edin:** Ayarlar, Hücresel'e gidin, Almanya eSIM'ine dokunun, ardından Hücresel Veri Ağı'na gidin. APN alanı, sağlayıcının doğru değerini içermelidir; Telekom tabanlı eSIM'ler için internet.t-mobile.de, Vodafone tabanlı olanlar için web.vodafone.de veya O2 tabanlı olanlar için pinternet.interkom.de gibi.
+- **Android'de APN ayarlarını kontrol edin:** Ayarlar, Ağ ve İnternet, SIM'ler'e gidin, Almanya eSIM'ine dokunun, ardından Erişim Noktası Adları'na gidin.
+- **Çözüm:** APN alanı boşsa veya yanlış bir değer içeriyorsa, sağlayıcınızın belgelerinden doğru APN'yi girin. APN'yi kaydettikten sonra eSIM'i kapatıp açın veya telefonu yeniden başlatın. Ağ 30 saniye içinde LTE veya 5G hızlarında yeniden bağlanmalıdır.
 
-## Conclusion
+## Sonuç
 
-Dual SIM in Germany has become the standard configuration for travelers who want the convenience of keeping their home number without paying international roaming rates for data. The setup is straightforward on both iPhone and Android, requiring little more than scanning a QR code and selecting the correct default data line. The benefits are immediate: your home SIM continues to receive SMS verification codes and calls, while the Germany eSIM handles all internet traffic, from WhatsApp messages to DB Navigator tickets and navigation.
+Almanya'da çift SIM, ev numarasını korumanın kolaylığını veri için uluslararası dolaşım ücretleri ödemeden isteyen gezginler için standart yapılandırma haline geldi. Kurulum hem iPhone hem de Android'de basittir ve bir QR kod taramak ve doğru varsayılan veri hattını seçmekten biraz fazlasını gerektirir. Faydalar hemen ortaya çıkar: ev SIM'iniz SMS doğrulama kodları ve aramalar almaya devam ederken Almanya eSIM'i WhatsApp mesajlarından DB Navigator biletlerine ve navigasyona kadar tüm internet trafiğini yönetir.
 
-The key decisions come down to which eSIM provider you choose and whether their plan supports the features that matter for your trip, such as hotspot tethering for laptop work or automatic network switching for train travel. The German networks vary significantly in coverage, and a provider that auto-switches between Telekom, Vodafone, and O2 such as what Roami offers will serve you better than one locked to a single carrier, especially if your itinerary includes rural areas or ICE rail travel.
+Kilit kararlar, hangi eSIM sağlayıcısını seçtiğinize ve planlarının yolculuğunuz için önemli olan özellikleri destekleyip desteklemediğine dayanır; örneğin dizüstü çalışması için hotspot paylaşımı veya tren seyahati için otomatik ağ geçişi. Alman ağları kapsama açısından önemli ölçüde farklılık gösterir ve Roami'nin sunduğu gibi Telekom, Vodafone ve O2 arasında otomatik geçiş yapan bir sağlayıcı, tek bir operatöre kilitli olandan sizi daha iyi karşılar, özellikle güzergahınız kırsal alanlar veya ICE demiryolu seyahati içeriyorsa.
 
-If you run into issues during your trip, most dual SIM conflicts are resolved in under a minute by restarting the phone, toggling Airplane Mode, or checking the APN settings. The common problems are well documented and rarely indicate a hardware fault or a network outage. The [Germany eSIM troubleshooting guide](/blog/germany-esim-troubleshooting-fix-guide/) covers the full range of potential fixes in more detail if you encounter something beyond the basic conflicts described here.
+Yolculuğunuz sırasında sorunlarla karşılaşırsanız, çoğu çift SIM çakışması telefonu yeniden başlatarak, Uçak Modunu açıp kapatarak veya APN ayarlarını kontrol ederek bir dakikadan kısa sürede çözülür. Yaygın sorunlar iyi belgelenmiştir ve nadiren bir donanım arızası veya ağ kesintisi gösterir. [Almanya eSIM sorun giderme rehberi](/blog/germany-esim-troubleshooting-fix-guide/), burada açıklanan temel çakışmaların ötesinde bir şeyle karşılaşırsanız olası çözümlerin tam aralığını daha ayrıntılı olarak kapsar.
 
-Germany is a country built on efficiency and punctuality, and a properly configured dual SIM setup matches that ethos. It lets you move through Berlin, Munich, Hamburg, and the countryside with the same level of connectivity you enjoy at home, without the anxiety of roaming charges or the inconvenience of swapping SIMs. Set up your lines before you arrive, test the configuration with a browser check, and you will have one less thing to worry about on your trip. For travelers looking for a reliable dual SIM setup in Germany, the combination of a home voice SIM and a [Germany travel eSIM](/germany-esim/) for data is the simplest and most cost-effective solution available today.
+Almanya verimlilik ve dakiklik üzerine kurulmuş bir ülkedir ve doğru yapılandırılmış bir çift SIM kurulumu bu etosa uyar. Dolaşım ücretleri endişesi veya SIM değiştirme zahmeti olmadan Berlin, Münih, Hamburg ve kırsalda evde sahip olduğunuz aynı bağlantı seviyesiyle hareket etmenizi sağlar. Hatlarınızı varmadan önce ayarlayın, yapılandırmayı bir tarayıcı kontrolüyle test edin ve yolculuğunuzda endişelenecek bir şeyiniz daha az olur. Almanya'da güvenilir bir çift SIM kurulumu arayan gezginler için, ses için bir ev SIM'i ve veri için bir [Almanya seyahat eSIM'i](/germany-esim/) kombinasyonu bugün mevcut en basit ve en uygun maliyetli çözümdür.
 
-If you are still planning which provider to use, you can check whether your phone is supported on the [eSIM compatibility list](/compatibility/), or try Roami's [free eSIM trial](/free-esim/) to see how eSIM activation works before committing to a Germany plan. Roami’s code "web20" takes 20 percent off a first plan if you decide to run the dual-SIM route.
+Hangi sağlayıcıyı kullanacağınızı hâlâ planlıyorsanız, telefonunuzun [eSIM uyumluluk listesinde](/compatibility/) desteklenip desteklenmediğini kontrol edebilir veya bir Almanya planına bağlanmadan önce eSIM etkinleştirmesinin nasıl çalıştığını görmek için Roami'nin [ücretsiz eSIM denemesini](/free-esim/) deneyebilirsiniz. Roami'nin "web20" kodu, çift SIM yolunu seçerseniz ilk plandan yüzde 20 indirim sağlar.
 
-## Frequently Asked Questions
+## Sıkça Sorulan Sorular
 
-### How do I set up dual SIM with my home SIM and a Germany eSIM?
+### Ev SIM'im ve bir Almanya eSIM ile çift SIM'i nasıl kurarım?
 
-Install the Germany eSIM as a second line, then set the travel eSIM as the default for mobile data and keep your home SIM active for calls and SMS. Label both lines so you can tell them apart at a glance, and turn on data roaming for the eSIM line only.
+Almanya eSIM'ini ikinci bir hat olarak kurun, ardından seyahat eSIM'ini mobil veri için varsayılan olarak ayarlayın ve ev SIM'inizi aramalar ve SMS için etkin tutun. Bir bakışta ayırt edebilmek için her iki hattı da etiketleyin ve yalnızca eSIM hattı için veri dolaşımını açın.
 
-### Will I still receive bank verification codes while in Germany?
+### Almanya'dayken hâlâ banka doğrulama kodları alacak mıyım?
 
-Yes, if your home line remains active for SMS. This is the main reason travellers run dual SIM: two-factor authentication and banking codes arrive on the home number while the Germany eSIM handles all data traffic.
+Evet, ev hattınız SMS için etkin kalırsa. Gezginlerin çift SIM çalıştırmasının ana nedeni budur: iki faktörlü kimlik doğrulama ve banka kodları ev numarasına gelirken Almanya eSIM'i tüm veri trafiğini yönetir.
 
-### Can I use one Germany eSIM across multiple devices?
+### Bir Almanya eSIM'i birden fazla cihazda kullanabilir miyim?
 
-Not directly — an eSIM profile installs on one device. To connect a laptop or tablet, use the phone as a hotspot, which requires a provider that permits tethering. Otherwise each device needs its own plan.
+Doğrudan değil — bir eSIM profili tek bir cihaza kurulur. Bir dizüstü veya tablet bağlamak için telefonu hotspot olarak kullanın; bu da paylaşıma izin veren bir sağlayıcı gerektirir. Aksi halde her cihazın kendi planına ihtiyacı vardır.
 
-### How many eSIM profiles can my phone hold?
+### Telefonum kaç eSIM profili tutabilir?
 
-Most recent iPhones store eight or more profiles but run only two at once, and dual eSIM requires an iPhone 13 or later. Recent Pixel and Galaxy flagships also run two; most other Android phones run one eSIM alongside a physical SIM.
+Çoğu yeni iPhone sekiz veya daha fazla profil saklar ama aynı anda yalnızca iki tanesini çalıştırır ve çift eSIM için iPhone 13 veya sonrası gerekir. Yeni Pixel ve Galaxy amiral gemileri de iki tanesini çalıştırır; diğer çoğu Android telefon fiziksel bir SIM'in yanında bir eSIM çalıştırır.
 
-### What usually goes wrong with dual SIM in Germany?
+### Almanya'da çift SIM ile genellikle ne ters gider?
 
-The common failures are data roaming left switched off on the eSIM line, the wrong line set as default for data, and APN settings that were never configured. All three are fixed in under a minute.
-
+Yaygın arızalar, eSIM hattında veri dolaşımının kapalı bırakılması, veri için varsayılan olarak yanlış hattın ayarlanması ve hiç yapılandırılmamış APN ayarlarıdır. Üçü de bir dakikadan kısa sürede çözülür.

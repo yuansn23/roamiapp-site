@@ -1,7 +1,7 @@
 ---
-title: "Do I Need a Passport for eSIM in Germany? Full Guide"
-description: "You need a passport for German-licensed eSIMs but not international ones. Roami requires no ID upload - activate before your trip."
-keywords: ["Germany eSIM without passport", "Germany eSIM passport requirements", "Germany eSIM registration", "do I need ID for eSIM Germany"]
+title: "Almanya'da eSIM için Pasaport Gerekli mi? Tam Rehber"
+description: "Almanya lisanslı eSIM'lerde pasaport gerekir, uluslararası eSIM'lerde gerekmez. Roami kimlik yüklemesi istemez - seyahatten önce etkinleştirin."
+keywords: ["Germany eSIM without passport", "Germany eSIM passport requirements", "Germany eSIM registration", "do I need ID for eSIM Germany", "Almanya eSIM pasaport gerekli mi", "Almanya eSIM kayıt", "Almanya eSIM kimlik doğrulama"]
 date: 2026-10-09T00:00:00Z
 lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
@@ -13,517 +13,516 @@ readingTime: 32
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Germany eSIM Passport Registration: What Tourists Need to Know"
-productsTitle: "Popular eSIM Plans"
-hotPostsTitle: "Hot Articles"
-recentPostsTitle: "Recent Posts"
+h1title: "Almanya eSIM Pasaport Kaydı: Turistlerin Bilmesi Gerekenler"
+productsTitle: "Popüler eSIM Planları"
+hotPostsTitle: "Öne Çıkan Makaleler"
+recentPostsTitle: "Son Yazılar"
 products:
-  - name: "Europe eSIM"
+  - name: "Avrupa eSIM"
     flag: "/img/flags/eu.svg"
     price: "From $1.99"
     is_highlight: false
     slug: "europe"
-  - name: "USA eSIM"
+  - name: "ABD eSIM"
     flag: "/img/flags/us.svg"
     price: "From $1.99"
     is_highlight: false
     slug: "united-states"
-  - name: "Japan eSIM"
+  - name: "Japonya eSIM"
     flag: "/img/flags/jp.svg"
     price: "From $1.99"
     is_highlight: false
     slug: "japan"
 recentPosts:
-  - title: "eSIM Compatible Devices List"
+  - title: "eSIM Uyumlu Cihazlar Listesi"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
+  - title: "2026 Platformlar Arası eSIM Transferi"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Compatibility Guide"
+  - title: "iPhone SE eSIM Uyumluluk Rehberi"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
+  - title: "iPhone 11 eSIM Tam Kurulum Rehberi"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-You need a passport to register a Germany eSIM from a German-licensed carrier like Telekom, Vodafone, or O2, but not from an international provider. The Telecommunications Act (TKG) requires identity verification for every SIM activated on a German network, whether physical or eSIM, with no exceptions for prepaid plans or short-term visitors. International eSIM providers operate through roaming agreements outside the TKG's scope and do not require ID upload.
+Telekom, Vodafone veya O2 gibi Almanya lisanslı bir operatörden Almanya eSIM'i kaydettirmek için pasaportunuz gerekir; ancak uluslararası bir sağlayıcıdan aldığınızda gerekmez. Telekomünikasyon Kanunu (TKG), fiziksel SIM ya da eSIM fark etmeksizin Almanya ağında etkinleştirilen her SIM için kimlik doğrulaması şart koşar ve ön ödemeli planlara ya da kısa süreli ziyaretçilere hiçbir istisna tanımaz. Uluslararası eSIM sağlayıcıları ise TKG'nin kapsamı dışındaki dolaşım anlaşmaları üzerinden çalışır ve kimlik yüklemesi istemez.
 
-This guide covers which providers demand identity documents, whether the Anmeldung address registration process applies to tourists, how to get a German phone number with eSIM as a non-resident, and what to do when verification fails. The goal is a practical framework so you arrive in Germany with connectivity already sorted.
+Bu rehber; hangi sağlayıcıların kimlik belgesi talep ettiğini, Anmeldung adres kaydı sürecinin turistler için geçerli olup olmadığını, oturum izni olmayan biri olarak eSIM ile nasıl Alman telefon numarası alacağınızı ve doğrulama başarısız olduğunda ne yapmanız gerektiğini ele alıyor. Amaç, Almanya'ya bağlantınız çoktan hazır şekilde varmanızı sağlayacak pratik bir çerçeve sunmak.
 
-The framework has three parts. First, Germany eSIM passport requirements differ sharply depending on who issued the plan, and that single fact decides whether you spend your arrival queuing in a shop. Second, a Germany eSIM without passport verification is not a loophole but a normal consequence of buying from a provider licensed outside Germany. Third, for anyone who has found conflicting answers elsewhere to the question "do I need ID for eSIM Germany", the sections on the TKG's scope and on which carriers it binds are where the conflict resolves.
+Bu çerçevenin üç ayağı var. Birincisi, Almanya eSIM'lerde pasaport gereksinimleri planı kimin düzenlediğine göre keskin biçimde değişir ve vardığınızda bir mağazada sırada bekleyip beklemeyeceğinizi yalnızca bu tek olgu belirler. İkincisi, pasaport doğrulaması olmadan Almanya eSIM almak bir açık kapı değil, Almanya dışında lisanslı bir sağlayıcıdan satın almanın olağan bir sonucudur. Üçüncüsü, "Almanya'da eSIM için kimlik gerekli mi" sorusuna başka yerlerde birbiriyle çelişen yanıtlar bulan herkes için çelişki, TKG'nin kapsamını ve hangi operatörleri bağladığını anlatan bölümlerde çözülür.
 
-*The TKG registration rules, accepted identity documents and verification routes described below were checked against the current Telecommunications Act text and carrier documentation on 8 October 2026. Identity-verification practice changes with regulation, so confirm with the carrier for your specific document.*
+*Aşağıda açıklanan TKG kayıt kuralları, kabul edilen kimlik belgeleri ve doğrulama yolları, 8 Ekim 2026 tarihinde yürürlükteki Telekomünikasyon Kanunu metni ve operatör belgeleriyle karşılaştırılarak kontrol edilmiştir. Kimlik doğrulama uygulamaları düzenlemelerle değişebildiğinden kendi belgenize özel durum için operatöre danışın.*
 
-## What Germany's TKG Law Means for eSIM Registration
+## Almanya'nın TKG Kanunu eSIM Kaydı için Ne Anlama Geliyor
 
-The Telecommunications Act (TKG) is the primary legal instrument governing electronic communications in Germany. Section 172 of the TKG (previously Section 111), which aligns with the [European Electronic Communications Code](https://eur-lex.europa.eu/eli/dir/2018/1972/oj), requires providers of publicly available telecommunications services to collect and store the identity of every end user before activating service. The full text of the TKG is published on the [German government's legal database](https://www.gesetze-im-internet.de/tkg_2021/). The activation step that depends on this check is called the Freischaltung, and it is the reason a prepaid card bought at a supermarket checkout stays inert until verification is complete. This is not a suggestion or a best practice. It is a statutory obligation backed by fines for non-compliant carriers and serves as the legal mechanism that allows law enforcement to trace the owner of any active SIM card in the country.
+Telekomünikasyon Kanunu (TKG), Almanya'da elektronik iletişimi düzenleyen temel yasal araçtır. [Avrupa Elektronik İletişim Koduna](https://eur-lex.europa.eu/eli/dir/2018/1972/oj) uyumlu olan TKG'nin 172. maddesi (eski 111. madde), kamuya açık telekomünikasyon hizmeti sağlayıcılarını hizmeti etkinleştirmeden önce her son kullanıcının kimliğini toplamak ve saklamakla yükümlü kılar. TKG'nin tam metni [Alman hükümetinin hukuk veri tabanında](https://www.gesetze-im-internet.de/tkg_2021/) yayımlanmıştır. Bu kontrolü gerektiren etkinleştirme adımına Freischaltung denir ve süpermarket kasasında satın alınan ön ödemeli kartın doğrulama tamamlanana kadar neden işlevsiz kaldığının nedeni tam da budur. Bu bir öneri ya da iyi uygulama değildir. Uyumsuz operatörler için para cezasıyla desteklenen yasal bir yükümlülüktür ve kolluk kuvvetlerinin ülkedeki her etkin SIM kartın sahibini izlemesini sağlayan hukuki mekanizmadır.
 
-### Which Carriers the TKG Covers
+### TKG'nin Kapsadığı Operatörler
 
-The law applies to any SIM issued by a carrier that holds a German network license or maintains a contractual relationship with a German licensed network. In practice this means:
+Kanun, Almanya ağ lisansına sahip ya da Almanya lisanslı bir ağla sözleşmesel ilişki sürdüren her operatörün düzenlediği SIM için geçerlidir. Pratikte bu şu anlama gelir:
 
-- **Three national infrastructure operators**: Deutsche Telekom, Vodafone Germany, and Telefonica Germany (O2) -- the operators that own the physical network equipment.
-- **Their MVNOs**: Aldi Talk, Lidl Connect, Congstar, 1&1 Drillisch, and Penny Mobil.
+- **Üç ulusal altyapı operatörü**: Deutsche Telekom, Vodafone Germany ve Telefonica Germany (O2) -- fiziksel ağ ekipmanına sahip olan operatörler.
+- **Bunların MVNO'ları**: Aldi Talk, Lidl Connect, Congstar, 1&1 Drillisch ve Penny Mobil.
 
-Every one of these providers must verify your identity before you can place a voice call, send an SMS, or use mobile data on their network. There are no exceptions for prepaid plans, short-term visitors, or tourists.
+Bu sağlayıcıların her biri, ağlarında sesli arama yapmadan, SMS göndermeden ya da mobil veri kullanmadan önce kimliğinizi doğrulamak zorundadır. Ön ödemeli planlar, kısa süreli ziyaretçiler veya turistler için hiçbir istisna yoktur.
 
-### Accepted Identity Verification Methods
+### Kabul Edilen Kimlik Doğrulama Yöntemleri
 
-Under Section 172(2) TKG the Federal Network Agency, not the shop assistant or the carrier, decides which verification procedures are acceptable. Four routes exist in practice, and which one you can use depends on whether you are already in Germany and what document you hold:
+TKG'nin 172(2) maddesi uyarınca hangi doğrulama prosedürlerinin kabul edilebilir olduğuna mağaza görevlisi ya da operatör değil, Federal Ağ Ajansı karar verir. Uygulamada dört yol vardır ve hangisini kullanabileceğiniz, halihazırda Almanya'da olup olmadığınıza ve hangi belgeye sahip olduğunuza bağlıdır:
 
-### 1. Physical in-person check
+### 1. Fiziksel yüz yüze kontrol
 
-You present your passport or national identity card at a retail store. The staff member inspects the document, compares it to your face, and activates the SIM on the spot.
+Pasaportunuzu veya ulusal kimlik kartınızı bir perakende mağazasında ibraz edersiniz. Görevli belgeyi inceler, yüzünüzle karşılaştırır ve SIM'i anında etkinleştirir.
 
-### 2. Remote video-identification (Video-Ident)
+### 2. Uzaktan görüntülü kimlik doğrulama (Video-Ident)
 
-You hold your passport up to a webcam while a trained agent compares your face to the photograph, records the document number and expiry date, and captures screenshots of the data page for the carrier's records.
+Eğitimli bir temsilci yüzünüzü fotoğrafla karşılaştırırken, belge numarasını ve son kullanma tarihini kaydederken ve operatörün kayıtları için veri sayfasının ekran görüntülerini alırken pasaportunuzu bir web kamerasına tutarsınız.
 
-### 3. Post-Ident at a Deutsche Post branch
+### 3. Deutsche Post şubesinde Post-Ident
 
-Post-Ident is the in-person fallback and the most reliable route for non-EU passports. You take the verification coupon or QR code issued by your provider, plus the physical passport, to a Deutsche Post branch that performs the PostIdent service; a clerk inspects the document on the spot and confirms your identity to the carrier. It is free, takes about ten minutes, and is accepted for essentially every nationality, which is why carriers recommend it whenever a video session rejects an unfamiliar passport. The trade-off is timing: Post-Ident runs on standard branch hours and cannot be completed before you arrive in Germany, so it does not help travellers who want the line working the moment they land.
+Post-Ident, yüz yüze yedek yoldur ve AB dışı pasaportlar için en güvenilir seçenektir. Sağlayıcınızın verdiği doğrulama kuponunu veya QR kodunu, yanınıza fiziksel pasaportu alarak PostIdent hizmeti veren bir Deutsche Post şubesine götürürsünüz; görevli belgeyi yerinde inceler ve kimliğinizi operatöre onaylar. Ücretsizdir, yaklaşık on dakika sürer ve neredeyse her uyruğa kabul edilir; bu yüzden operatörler, görüntülü oturumun alışılmadık bir pasaportu reddetmesi durumunda bunu önerir. Ödün verdiğiniz nokta zamanlamadır: Post-Ident standart şube saatlerinde çalışır ve Almanya'ya varmadan tamamlanamaz; bu yüzden uçağınız indiği anda hattın çalışmasını isteyen yolculara yardımcı olmaz.
 
-### 4. Electronic ID (eID) and automated photo checks
+### 4. Elektronik kimlik (eID) ve otomatik fotoğraf kontrolleri
 
-Some carriers also accept the German electronic ID card (eID) through its NFC chip, and a few run certified automated photo checks. Both routes are effectively closed to foreign tourists: eID needs an EU/EEA chip document or an electronic residence permit, and any document without a photograph meeting German ID rules -- a driver’s licence, for example -- is not accepted at all. For visitors holding a non-EU passport, Video-Ident or Post-Ident remains the realistic choice.
+Bazı operatörler NFC çipi aracılığıyla Alman elektronik kimlik kartını (eID) da kabul eder ve birkaçı sertifikalı otomatik fotoğraf kontrolleri yürütür. Her iki yol da yabancı turistlere fiilen kapalıdır: eID için AB/AEA çipli bir belge ya da elektronik oturum izni gerekir; Alman kimlik kurallarına uyan fotoğrafı olmayan herhangi bir belge -- örneğin ehliyet -- hiç kabul edilmez. AB dışı pasaport sahibi ziyaretçiler için Video-Ident veya Post-Ident gerçekçi seçenek olarak kalır.
 
-A critical detail that many travelers overlook is that the TKG does not distinguish between a physical SIM and a Germany eSIM. The embedded SIM -- a rewritable chip soldered onto the phone's motherboard -- is legally identical to a removable plastic SIM card under German law. If a German carrier issues a Germany eSIM profile, that carrier must verify your identity under the same TKG rules that apply to physical SIMs. This is the root of most confusion: a German eSIM from Telekom requires passport registration just as a physical Telekom SIM purchased at a Saturn store would, whereas an international eSIM from a provider incorporated and licensed outside Germany may not fall under the same obligations. For travelers who want to avoid passport verification entirely, a [Germany travel eSIM](/germany-esim/) from an international provider offers the same network connectivity without the regulatory burden.
+Birçok yolcunun gözden kaçırdığı kritik bir ayrıntı, TKG'nin fiziksel SIM ile Almanya eSIM arasında ayrım yapmamasıdır. Telefonun ana kartına lehimlenmiş yeniden yazılabilir çip olan gömülü SIM, Alman hukuku nezdinde çıkarılabilir plastik SIM kartla hukuken aynıdır. Bir Alman operatör Almanya eSIM profili düzenlerse, o operatör kimliğinizi fiziksel SIM'lere uygulanan aynı TKG kuralları uyarınca doğrulamak zorundadır. Karışıklığın kökeni budur: Telekom'dan alınan bir Almanya eSIM, bir Saturn mağazasında alınan fiziksel Telekom SIM'i gibi pasaport kaydı gerektirir; buna karşılık Almanya dışında kurulup lisanslanmış bir sağlayıcıdan alınan uluslararası eSIM aynı yükümlülüklere tabi olmayabilir. Pasaport doğrulamasından tamamen kaçınmak isteyen gezginler için uluslararası bir sağlayıcıdan alınan [Almanya seyahat eSIM'i](/germany-esim/), düzenleyici yük olmadan aynı ağ bağlantısını sunar.
 
-### Enforcement and Practical Implications
+### Yaptırım ve Pratik Sonuçlar
 
-The Bundesnetzagentur, Germany's Federal Network Agency, oversees compliance with the Telekommunikationsgesetz (TKG). Its enforcement priorities have shifted meaningfully since the law was introduced. In the early years, enforcement was sporadic and a significant number of prepaid SIMs circulated without proper registration. That changed after the 2016 Berlin Christmas market attack at Breitscheidplatz, when investigators revealed that the attacker had used a prepaid SIM purchased without valid identification. Since then, the Bundesnetzagentur has conducted regular test purchases and audits across the country. Carriers found selling unregistered SIMs face substantial administrative penalties, and several MVNOs have been fined for non-compliance. As of 2026, you cannot buy a prepaid German SIM -- physical or eSIM -- from any domestic provider without completing identity verification. This is enforced consistently from Berlin to rural Bavaria.
+Almanya'nın Federal Ağ Ajansı Bundesnetzagentur, Telekommunikationsgesetz (TKG) ile uyumu denetler. Yürürlüğe girdiğinden bu yana ajansın yaptırım öncelikleri anlamlı biçimde değişti. İlk yıllarda denetim düzensizdi ve önemli sayıda ön ödemeli SIM uygun kayıt olmadan dolaşımdaydı. Bu durum, 2016'daki Breitscheidplatz Berlin Noel pazarı saldırısından sonra değişti; soruşturmacılar saldırganın geçerli kimlik ibraz edilmeden satın alınmış bir ön ödemeli SIM kullandığını ortaya çıkardı. O tarihten bu yana Bundesnetzagentur ülke genelinde düzenli test alımları ve denetimler yürütüyor. Kayıtsız SIM satarken yakalanan operatörler ciddi idari yaptırımlarla karşılaşıyor ve birkaç MVNO uyumsuzluk nedeniyle para cezası aldı. 2026 itibarıyla hiçbir yerli sağlayıcıdan kimlik doğrulaması tamamlamadan ön ödemeli Alman SIM'i -- fiziksel ya da eSIM -- alamazsınız. Bu, Berlin'den kırsal Bavyera'ya kadar tutarlı biçimde uygulanır.
 
-The practical implication for visitors is clear. If you attempt to buy a Germany eSIM from a local carrier like Telekom or Vodafone before your trip, the checkout process will ask you to provide a scanned copy of your passport or complete a live video identification session. The same applies if you walk into a German electronics retailer such as Saturn or MediaMarkt and purchase a prepaid SIM kit at the counter. There is no legal workaround under current German law. The only question is which verification method you prefer.
+Ziyaretçiler açısından pratik sonuç açıktır. Telekom veya Vodafone gibi yerel bir operatörden seyahatinizden önce Almanya eSIM almaya kalkarsanız, ödeme süreci sizden pasaportunuzun taranmış bir kopyasını sunmanızı ya da canlı bir görüntülü kimlik doğrulama oturumunu tamamlamanızı isteyecektir. Saturn veya MediaMarkt gibi bir Alman elektronik perakendecisine girip kasada ön ödemeli SIM kiti almanız durumunda da aynısı geçerlidir. Mevcut Alman hukuku kapsamında yasal bir kaçış yolu yoktur. Tek soru hangi doğrulama yöntemini tercih ettiğinizdir.
 
-## International eSIMs: Do They Require Passport Upload?
+## Uluslararası eSIM'ler: Pasaport Yüklemesi Gerektirir mi?
 
-International Germany eSIM providers operate under a fundamentally different legal framework from German-licensed carriers. These companies aggregate network access through wholesale roaming agreements rather than owning or leasing German network infrastructure directly. They are not licensed by the Bundesnetzagentur as German telecommunications providers. Instead, they hold telecommunications licenses in other jurisdictions -- typically Estonia, the United Kingdom, Singapore, Lithuania, or the United States -- and provide connectivity to their customers through roaming agreements with Telekom, Vodafone, and O2.
+Uluslararası Almanya eSIM sağlayıcıları, Almanya lisanslı operatörlerden temelden farklı bir yasal çerçeve altında çalışır. Bu şirketler Alman ağ altyapısına doğrudan sahip olmak veya kiralamak yerine, toptan dolaşım anlaşmaları üzerinden ağ erişimini bir araya getirir. Bundesnetzagentur tarafından Alman telekomünikasyon sağlayıcısı olarak lisanslanmazlar. Bunun yerine, başka yargı alanlarında -- genellikle Estonya, Birleşik Krallık, Singapur, Litvanya veya Amerika Birleşik Devletleri'nde -- telekomünikasyon lisansına sahiptirler ve müşterilerine Telekom, Vodafone ve O2 ile yaptıkları dolaşım anlaşmaları üzerinden bağlantı sunarlar.
 
-### Why International eSIMs Are Exempt
+### Uluslararası eSIM'ler Neden Muaf
 
-This distinction is decisive because the TKG's SIM registration requirement attaches to the carrier that issues the SIM to the end user, not to the network over which data travels:
+Bu ayrım belirleyicidir; çünkü TKG'nin SIM kayıt şartı, verinin üzerinden geçtiği ağa değil, SIM'i son kullanıcıya düzenleyen operatöre bağlıdır:
 
-- An international eSIM provider based in the UK and licensed by Ofcom is not subject to German law regarding subscriber identity verification.
-- The German networks it roams on do not need to register the end user because the wholesale roaming agreement places the contractual customer relationship with the international provider, not with the German network operator.
-- This separation is well established in European telecommunications law and has been tested in regulatory proceedings.
+- Birleşik Krallık'ta yerleşik ve Ofcom tarafından lisanslanmış uluslararası bir eSIM sağlayıcısı, abone kimliği doğrulamasına ilişkin Alman hukukuna tabi değildir.
+- Dolaşım yaptığı Alman ağları son kullanıcıyı kaydetmek zorunda değildir; çünkü toptan dolaşım anlaşması sözleşmesel müşteri ilişkisini Alman ağ operatöründe değil, uluslararası sağlayıcıda konumlandırır.
+- Bu ayrım Avrupa telekomünikasyon hukukunda yerleşiktir ve düzenleyici süreçlerde test edilmiştir.
 
-For tourists, this is the most practical takeaway of the entire article: you do not need to upload a passport for an international eSIM used in Germany. You download the Germany eSIM profile from the provider's app or website, install it on your phone, and activate it -- no passport scan, no video call, no address verification. The entire transaction takes a few minutes and can be completed from anywhere in the world before you leave for your trip. A [Germany data eSIM](/germany-esim/) from an international provider works on all three German networks and requires no passport upload, meaning you land with connectivity already active.
+Turistler açısından bu, tüm makalenin en pratik çıkarımıdır: Almanya'da kullanılan uluslararası bir eSIM için pasaport yüklemeniz gerekmez. Almanya eSIM profilini sağlayıcının uygulamasından ya da web sitesinden indirir, telefonunuza kurar ve etkinleştirirsiniz -- pasaport taraması yok, görüntülü görüşme yok, adres doğrulaması yok. Tüm işlem birkaç dakika sürer ve seyahatinize çıkmadan önce dünyanın herhangi bir yerinden tamamlanabilir. Uluslararası bir sağlayıcıdan alınan [Almanya veri eSIM'i](/germany-esim/) her üç Alman ağında da çalışır ve pasaport yüklemesi gerektirmez; böylece bağlantınız çoktan etkinken inersiniz.
 
-This does not mean international eSIMs operate in a regulatory vacuum. They are subject to the data protection and consumer protection laws of the country where the provider is registered.
+Bu, uluslararası eSIM'lerin düzenleyici bir boşlukta faaliyet gösterdiği anlamına gelmez. Sağlayıcının kayıtlı olduğu ülkenin veri koruma ve tüketici koruma yasalarına tabidirler.
 
-### eSIM Type Comparison at a Glance
+### Bir Bakışta eSIM Türü Karşılaştırması
 
-| Requirement | International eSIM (e.g., Roami) | German Carrier eSIM (Telekom/Vodafone/O2) |
+| Gereksinim | Uluslararası eSIM (örn. Roami) | Alman Operatör eSIM (Telekom/Vodafone/O2) |
 |-------------|-------------------------------|----------------------------------------|
-| Passport upload | Not required | Required (Video-Ident or in-person) |
-| Activation time | 2-5 minutes | 15-20 minutes |
-| German phone number | Data-only (no local number) | Full German number included |
-| Network access | Telekom, Vodafone, O2 (via roaming) | Single carrier (or multi with MVNO) |
-| Best for | Short trips, tourists | Long stays, business with local calls |
-| Price (10 GB) | $12-$16 | EUR 9-17 |
-| Approx. $/GB at 10 GB | $1.20-$1.60 | ~EUR 0.90-1.70 |
+| Pasaport yükleme | Gerekmez | Gerekir (Video-Ident veya yüz yüze) |
+| Etkinleştirme süresi | 2-5 dakika | 15-20 dakika |
+| Alman telefon numarası | Yalnızca veri (yerel numara yok) | Tam Alman numarası dahil |
+| Ağ erişimi | Telekom, Vodafone, O2 (dolaşım yoluyla) | Tek operatör (veya MVNO ile çoklu) |
+| En uygun olduğu durum | Kısa geziler, turistler | Uzun konaklamalar, yerel arama yapan iş amaçlı |
+| Fiyat (10 GB) | 12-16 $ | 9-17 EUR |
+| 10 GB'da yaklaşık $/GB | 1,20-1,60 $ | ~0,90-1,70 EUR |
 
-A note on privacy: any provider serving European customers must comply with the General Data Protection Regulation (GDPR) regardless of where it is based, which imposes strict rules on how personal data is collected, stored, and shared. But GDPR compliance does not require collecting government-issued identity documents. A name and email address are typically sufficient.
+Gizlilik üzerine bir not: Avrupalı müşterilere hizmet veren her sağlayıcı, nerede yerleşik olursa olsun Genel Veri Koruma Yönetmeliğine (GDPR) uymak zorundadır; bu da kişisel verilerin nasıl toplandığı, saklandığı ve paylaşıldığı konusunda katı kurallar getirir. Ancak GDPR uyumu, devlet tarafından verilmiş kimlik belgelerinin toplanmasını gerektirmez. Genellikle bir ad ve e-posta adresi yeterlidir.
 
-### Data-Only vs Full-Service eSIMs
+### Yalnızca Veri mi, Tam Hizmet eSIM mi?
 
-There is an important nuance regarding German phone numbers. The vast majority of international eSIMs are data-only. They provide an internet connection through which you can use WhatsApp, Telegram, Google Maps, Uber, and any other app that works over IP, but they do not assign a German mobile number. If your only requirement is mobile data -- and for most tourists that covers maps, messaging, ride-hailing, social media, and email -- a data-only international eSIM is sufficient and avoids the passport registration requirement entirely. If you need a German phone number for local voice calls, restaurant reservations, contacting hotels, or receiving calls from German businesses, you will need a provider that issues a German number, which brings the transaction under the TKG's scope. That scenario is covered in detail in the section on getting a German phone number with eSIM.
+Alman telefon numaraları konusunda önemli bir ayrım vardır. Uluslararası eSIM'lerin büyük çoğunluğu yalnızca veri amaçlıdır. WhatsApp, Telegram, Google Maps, Uber ve IP üzerinden çalışan diğer tüm uygulamaları kullanabileceğiniz bir internet bağlantısı sağlarlar, ancak bir Alman mobil numarası atamazlar. Tek gereksiniminiz mobil veriyse -- ve çoğu turist için bu haritalar, mesajlaşma, araç çağırma, sosyal medya ve e-postayı kapsar -- yalnızca veri amaçlı uluslararası bir eSIM yeterlidir ve pasaport kaydı gereksiniminden tamamen kaçınır. Yerel sesli aramalar, restoran rezervasyonları, otellerle iletişim ya da Alman işletmelerden gelen çağrıları almak için bir Alman telefon numarası gerekiyorsa, Alman numarası düzenleyen bir sağlayıcıya ihtiyacınız olur; bu da işlemi TKG kapsamına sokar. Bu senaryo, eSIM ile Alman telefon numarası alma bölümünde ayrıntılı olarak ele alınmıştır.
 
-### Checking Provider Registration Policies
+### Sağlayıcı Kayıt Politikalarını Kontrol Etmek
 
-The distinction between data-only and full-service eSIMs is not always clearly labeled on provider websites. Some services advertise "German number included," which typically means they are operating as an MVNO under a German license and will require identity verification. Others clearly state "data only" and require nothing beyond an email address and a payment method. Always check the provider's registration policy before purchasing. If a provider does not ask for identification, it is almost certainly operating outside the TKG framework through roaming agreements. The [comparison of Germany eSIM providers](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/) covers which international eSIMs operate outside the TKG and which ones require registration.
+Yalnızca veri ile tam hizmet eSIM'ler arasındaki ayrım, sağlayıcı web sitelerinde her zaman açıkça etiketlenmez. Bazı hizmetler "Alman numarası dahil" diye reklam yapar; bu genellikle Alman lisansı altında bir MVNO olarak faaliyet gösterdikleri ve kimlik doğrulaması isteyecekleri anlamına gelir. Diğerleri açıkça "yalnızca veri" yazar ve e-posta adresi ile ödeme yönteminin ötesinde hiçbir şey istemez. Satın almadan önce her zaman sağlayıcının kayıt politikasını kontrol edin. Bir sağlayıcı kimlik istemiyorsa, neredeyse kesinlikle dolaşım anlaşmaları üzerinden TKG çerçevesinin dışında faaliyet gösteriyordur. [Almanya eSIM sağlayıcıları karşılaştırması](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/), hangi uluslararası eSIM'lerin TKG dışında çalıştığını ve hangilerinin kayıt gerektirdiğini ele alır.
 
-Services such as Roami operate in this international space. The platform requires no passport upload at any point in the purchase process. It automatically connects to whichever network -- Telekom, Vodafone, or O2 -- offers the strongest signal at your current location, and customer support is handled by real people available around the clock. For travelers wondering whether they can buy a Germany eSIM online before their trip, the answer from these providers is yes, and the transaction takes less than five minutes.
+Roami gibi hizmetler bu uluslararası alanda faaliyet gösterir. Platform, satın alma sürecinin hiçbir aşamasında pasaport yüklemesi istemez. Bulunduğunuz konumda en güçlü sinyali sunan ağa -- Telekom, Vodafone veya O2 -- otomatik olarak bağlanır ve müşteri desteği günün her saati ulaşılabilen gerçek kişilerce yürütülür. Seyahatinden önce çevrimiçi Almanya eSIM alıp alamayacağını merak eden gezginler için bu sağlayıcıların yanıtı evettir ve işlem beş dakikadan kısa sürer.
 
-## Germany eSIM Registration at Local Carriers: Full Passport Verification
+## Yerel Operatörlerde Almanya eSIM Kaydı: Tam Pasaport Doğrulaması
 
-If your travel plans require a German mobile number -- perhaps you are staying for an extended period, need a local contact number for business, or want the lowest per-gigabyte rates available on domestic prepaid plans -- you will need to go through full identity verification with a local carrier. There is no shortcut around this requirement. Telekom, Vodafone, and O2 each enforce the TKG's identification rules strictly, and their verification processes have become more rigorous over the years as the Bundesnetzagentur has increased its scrutiny.
+Seyahat planlarınız bir Alman mobil numarası gerektiriyorsa -- belki uzun süre kalıyorsunuz, iş için yerel bir iletişim numarasına ihtiyacınız var ya da yerli ön ödemeli planlarda mevcut en düşük gigabayt başına ücretleri istiyorsunuz -- yerel bir operatörle tam kimlik doğrulamasından geçmeniz gerekecek. Bu gereksinimin etrafında bir kestirme yol yoktur. Telekom, Vodafone ve O2'nin her biri TKG'nin kimlik kurallarını sıkı biçimde uygular ve Bundesnetzagentur denetimini artırdıkça doğrulama süreçleri yıllar içinde daha titiz hale gelmiştir.
 
-### Deutsche Telekom Verification
+### Deutsche Telekom Doğrulaması
 
-**Deutsche Telekom** uses a video identification process for eSIM purchases made through its website or Magenta app. You start by selecting an eSIM tariff. Telekom offers prepaid options such as MagentaMobil Prepaid for short-term use and postpaid plans for longer stays. During checkout, the system prompts you to complete a Video-Ident session with a partner company such as IDnow or WebID. You need your physical passport (photocopies are not accepted) and a device with a working front-facing camera. The agent asks you to hold your passport to the camera, confirms that your face matches the photo, and records the document number and expiry date. The session typically takes three to five minutes under good conditions. Once approved, the Germany eSIM profile is pushed to your phone via a QR code or direct download. Passport-related problems most commonly surface during this step -- passports with damaged biometric pages, reflective laminates, or photographs taken many years ago can trigger manual review delays that extend the process to several hours or even days.
+**Deutsche Telekom**, web sitesi veya Magenta uygulaması üzerinden yapılan eSIM alımları için görüntülü kimlik doğrulama süreci kullanır. Bir eSIM tarifesi seçerek başlarsınız. Telekom, kısa süreli kullanım için MagentaMobil Prepaid gibi ön ödemeli seçenekler ve daha uzun konaklamalar için faturalı planlar sunar. Ödeme sırasında sistem, IDnow veya WebID gibi bir iş ortağıyla Video-Ident oturumunu tamamlamanızı ister. Fiziksel pasaportunuza (fotokopiler kabul edilmez) ve çalışan bir ön kameraya sahip bir cihaza ihtiyacınız vardır. Temsilci pasaportunuzu kameraya tutmanızı ister, yüzünüzün fotoğrafla eşleştiğini onaylar ve belge numarası ile son kullanma tarihini kaydeder. Oturum iyi koşullarda genellikle üç ila beş dakika sürer. Onaylandıktan sonra Almanya eSIM profili telefonunuza bir QR kodu veya doğrudan indirme yoluyla iletilir. Pasaportla ilgili sorunlar en çok bu adımda ortaya çıkar -- biyometrik sayfaları hasarlı, laminatı yansıtıcı ya da fotoğrafı çok yıllar önce çekilmiş pasaportlar, süreci birkaç saate, hatta günlere uzatan manuel inceleme gecikmelerini tetikleyebilir.
 
-### Vodafone Germany Options
+### Vodafone Germany Seçenekleri
 
-**Vodafone Germany** follows a similar process with one difference that matters for travelers already in the country: Vodafone offers in-store verification at its retail shops, which can be significantly faster than video identification. You bring your passport to any Vodafone store, a staff member verifies your identity in person, and they provide an eSIM QR code on the spot. Vodafone also supports Post-Ident, where you take your passport to any Deutsche Post branch and a postal employee verifies your documents, with the verification data transmitted to Vodafone electronically. For tourists already in Germany, the in-store route is often the smoothest option because it eliminates the variable quality of video lighting, camera resolution, and internet stability that cause automated checks to fail.
+**Vodafone Germany**, halihazırda ülkede bulunan gezginler için önem taşıyan bir farkla benzer bir süreç izler: Vodafone, perakende mağazalarında yerinde doğrulama sunar; bu, görüntülü kimlik doğrulamadan belirgin biçimde daha hızlı olabilir. Pasaportunuzu herhangi bir Vodafone mağazasına götürürsünüz, bir görevli kimliğinizi yüz yüze doğrular ve yerinde bir eSIM QR kodu verir. Vodafone ayrıca Post-Ident'i destekler; pasaportunuzu herhangi bir Deutsche Post şubesine götürürsünüz, bir posta görevlisi belgelerinizi doğrular ve doğrulama verisi Vodafone'a elektronik olarak iletilir. Almanya'da bulunan turistler için mağaza içi yol genellikle en sorunsuz seçenektir; çünkü otomatik kontrollerin başarısız olmasına neden olan görüntülü aydınlatma kalitesi, kamera çözünürlüğü ve internet kararlılığı değişkenliğini ortadan kaldırır.
 
-### O2 Germany and MVNOs
+### O2 Germany ve MVNO'lar
 
-**Telefonica Germany (O2)** offers eSIM activation with either video identification or in-person verification at O2 shops. O2's prepaid plans are generally the most affordable of the three major carriers, though its network coverage in rural areas and along some regional train routes is slightly weaker than Telekom's. The verification requirement is the same regardless of which plan you choose. O2 offers prepaid Germany eSIM plans starting at around EUR 9.99 for a 30-day validity period with a generous data allowance, making it a popular choice among budget-conscious travelers who are willing to complete the registration process.
+**Telefonica Germany (O2)**, eSIM etkinleştirmesini görüntülü kimlik doğrulama ya da O2 mağazalarında yüz yüze doğrulama ile sunar. O2'nin ön ödemeli planları genellikle üç büyük operatör arasında en uygun fiyatlısıdır; ancak kırsal alanlarda ve bazı bölgesel tren güzergâhlarında ağ kapsaması Telekom'unkinden biraz daha zayıftır. Hangi planı seçerseniz seçin doğrulama gereksinimi aynıdır. O2, 30 günlük geçerlilik süresi ve cömert bir veri kotasıyla yaklaşık 9,99 EUR'dan başlayan ön ödemeli Almanya eSIM planları sunar; bu da kayıt sürecini tamamlamaya razı, bütçesine dikkat eden gezginler arasında popüler bir seçim yapar.
 
-Beyond the three network operators, MVNOs that offer eSIM -- including Congstar (a Telekom subsidiary), Fraenk (also Telekom), and Otelo (Vodafone) -- also require full identity verification. Some smaller MVNOs have begun experimenting with automated identity verification using AI-based document scanning that can read passport data pages without a live agent. As of 2026, however, most still rely on the Video-Ident or Post-Ident processes used by their parent networks. A detailed comparison of network performance across these carriers can be found in the [guide comparing Telekom, Vodafone, and O2](/blog/germany-esim-telekom-vodafone-o2-comparison/).
+Üç ağ operatörünün ötesinde, eSIM sunan MVNO'lar -- Congstar (bir Telekom iştiraki), Fraenk (yine Telekom) ve Otelo (Vodafone) dahil -- da tam kimlik doğrulaması gerektirir. Bazı küçük MVNO'lar, pasaport veri sayfalarını canlı bir temsilci olmadan okuyabilen yapay zekâ tabanlı belge taraması kullanan otomatik kimlik doğrulamayı denemeye başlamıştır. Ancak 2026 itibarıyla çoğu hâlâ ana ağlarının kullandığı Video-Ident veya Post-Ident süreçlerine dayanır. Bu operatörler arasındaki ağ performansı karşılaştırmasını [Telekom, Vodafone ve O2 karşılaştırma rehberinde](/blog/germany-esim-telekom-vodafone-o2-comparison/) bulabilirsiniz.
 
-**Lycamobile Germany eSIM registration.** Lycamobile sells eSIM profiles alongside its prepaid plastic SIMs, and as an MVNO it is bound by exactly the same TKG rules as the networks it rents capacity from: the line stays dormant until an identity check succeeds. In practice you upload a passport or national ID through the Lycamobile app and finish with a short video call, just as you would with a Telekom or Vodafone prepaid card. The difference is turnaround time. Budget MVNOs review documents with smaller back-office teams, so a Lycamobile eSIM registration is a poor choice if you need a working line within the first hour of landing, and a perfectly reasonable one if you are staying for weeks and want a German number at the lowest monthly price.
+**Lycamobile Germany eSIM kaydı.** Lycamobile, ön ödemeli plastik SIM'lerinin yanı sıra eSIM profilleri de satar ve bir MVNO olarak, kapasite kiraladığı ağlarla tamamen aynı TKG kurallarına bağlıdır: hat, bir kimlik kontrolü başarılı olana kadar hareketsiz kalır. Uygulamada pasaportunuzu ya da ulusal kimliğinizi Lycamobile uygulaması üzerinden yükler ve tıpkı bir Telekom veya Vodafone ön ödemeli kartında olduğu gibi kısa bir görüntülü görüşmeyle tamamlarsınız. Fark, işlem süresindedir. Uygun fiyatlı MVNO'lar belgeleri daha küçük arka ofis ekipleriyle inceler; bu yüzden Lycamobile eSIM kaydı, inişten sonraki ilk saat içinde çalışan bir hat gerekiyorsa kötü bir seçimdir, haftalarca kalacaksanız ve en düşük aylık fiyata Alman numarası istiyorsanız ise tamamen makul bir seçimdir.
 
-### Carrier Verification Methods Compared
+### Operatör Doğrulama Yöntemleri Karşılaştırması
 
-| Carrier | Online (Video-Ident) | In-Store | Post-Ident | Prepaid eSIM Starting Price |
+| Operatör | Çevrimiçi (Video-Ident) | Mağaza İçi | Post-Ident | Ön Ödemeli eSIM Başlangıç Fiyatı |
 |---------|---------------------|----------|------------|---------------------------|
-| Telekom | Yes (IDnow/WebID) | Telekom Shops | Yes | EUR 4.95 |
-| Vodafone | Yes | Vodafone Stores | Yes (Deutsche Post) | EUR 9.99 |
-| O2 | Yes | O2 Shops | Yes | EUR 9.99 |
-| MVNOs (Aldi Talk, etc.) | Limited | Some retailers | Some | EUR 4.99-18.99 |
+| Telekom | Evet (IDnow/WebID) | Telekom Mağazaları | Evet | 4,95 EUR |
+| Vodafone | Evet | Vodafone Mağazaları | Evet (Deutsche Post) | 9,99 EUR |
+| O2 | Evet | O2 Mağazaları | Evet | 9,99 EUR |
+| MVNO'lar (Aldi Talk vb.) | Sınırlı | Bazı perakendeciler | Bazıları | 4,99-18,99 EUR |
 
-The cost of German prepaid eSIMs with a local number varies by carrier and data allowance. Telekom's prepaid plans start at EUR 4.95 for 1GB, and its February 2026 data upgrade pushed the popular mid-tier option to 20GB for EUR 9.95. Vodafone's CallYa plans start around EUR 9.99 for roughly 10GB, with higher tiers adding more data. O2's prepaid options start at a similar EUR 9.99. These prices are competitive with international eSIMs on a per-gigabyte basis, especially for longer stays, but the registration friction is substantially higher. This verification requirement means you cannot complete the purchase quickly while standing in an airport queue. You need a passport, a camera-equipped device, a stable internet connection, and about fifteen to twenty minutes of uninterrupted attention.
+Yerel numaralı Alman ön ödemeli eSIM'lerin maliyeti operatöre ve veri kotasına göre değişir. Telekom'un ön ödemeli planları 1GB için 4,95 EUR'dan başlar ve Şubat 2026 veri güncellemesiyle popüler orta segment seçeneği 9,95 EUR karşılığında 20GB'a çıkarıldı. Vodafone'un CallYa planları yaklaşık 10GB için 9,99 EUR civarından başlar; üst kademeler daha fazla veri ekler. O2'nin ön ödemeli seçenekleri benzer şekilde 9,99 EUR'dan başlar. Bu fiyatlar, gigabayt başına temelde uluslararası eSIM'lerle rekabetçidir, özellikle uzun konaklamalar için; ancak kayıt sürtünmesi belirgin biçimde daha yüksektir. Bu doğrulama gereksinimi, havalimanı kuyruğunda beklerken alımı hızlıca tamamlayamayacağınız anlamına gelir. Bir pasaporta, kameralı bir cihaza, istikrarlı bir internet bağlantısına ve yaklaşık on beş ila yirmi dakikalık kesintisiz dikkate ihtiyacınız vardır.
 
-One consideration that surprises many tourists is that German prepaid SIMs, including eSIMs, are tied to the specific identity document used during registration. If you lose your passport while traveling and obtain an emergency replacement from your embassy, the document number on the replacement will differ from the one recorded during SIM registration. Your Germany eSIM registration may become invalid because the document number no longer matches. You would need to contact the carrier, explain the situation, and re-register with the new passport to continue using the service. This is an edge case, but it matters for long-stay visitors and those who carry their passport only for registration and then store it in a hotel safe for the remainder of their trip. For a full overview of local prepaid options including prices and activation steps, see the [local carriers and prepaid guide](/blog/germany-esim-local-carriers-prepaid-guide/).
+Birçok turisti şaşırtan bir husus, Almanca ön ödemeli SIM'lerin -- eSIM'ler dahil -- kayıt sırasında kullanılan belirli kimlik belgesine bağlı olmasıdır. Seyahat sırasında pasaportunuzu kaybeder ve büyükelçiliğinizden acil bir yedek alırsanız, yedekteki belge numarası SIM kaydı sırasında kaydedilenden farklı olacaktır. Almanya eSIM kaydınız geçersiz hale gelebilir; çünkü belge numarası artık eşleşmiyordur. Hizmeti kullanmaya devam etmek için operatörle iletişime geçmeniz, durumu açıklamanız ve yeni pasaportla yeniden kaydolmanız gerekir. Bu uç bir durumdur; ancak uzun süreli ziyaretçiler ve pasaportunu yalnızca kayıt için taşıyıp sonra seyahatin kalanında otel kasasında saklayanlar için önemlidir. Fiyatlar ve etkinleştirme adımları dahil yerel ön ödemeli seçeneklerin tam genel görünümü için [yerel operatörler ve ön ödemeli rehberine](/blog/germany-esim-local-carriers-prepaid-guide/) bakın.
 
-## What Is Anmeldung and Do Tourists Need It for eSIM?
+## Anmeldung Nedir ve Turistlerin eSIM için Buna İhtiyacı Var mı?
 
-### What Anmeldung Is
+### Anmeldung Nedir
 
-Anmeldung is the German term for residential address registration. Under the Federal Registration Act (Bundesmeldegesetz), any person who moves into a residence in Germany must register their address with the local citizens' office (Bürgeramt) within fourteen days of moving in. The process produces an official registration certificate called a Meldebescheinigung, which serves as proof of residence and is required for many administrative processes such as opening a bank account, registering a vehicle, or obtaining a residence permit.
+Anmeldung, konut adresi kaydı için kullanılan Almanca terimdir. Federal Kayıt Yasası (Bundesmeldegesetz) uyarınca Almanya'da bir konuta taşınan herkes, taşındıktan sonraki on dört gün içinde adresini yerel vatandaşlık dairesine (Bürgeramt) kaydettirmek zorundadır. Süreç, ikamet kanıtı işlevi gören ve banka hesabı açmak, araç tescil etmek ya da oturum izni almak gibi birçok idari işlem için gerekli olan Meldebescheinigung adlı resmi bir kayıt belgesi üretir.
 
-The recurring question among travelers is whether Anmeldung is required for purchasing or activating a Germany eSIM. The short answer is no. The TKG requires identity verification, not proof of address. You do not need to present a Meldebescheinigung or provide a German residential address to buy a prepaid eSIM from Telekom, Vodafone, or O2. A foreign address in your home country is perfectly acceptable for billing and correspondence purposes.
+Gezginler arasında sürekli tekrarlanan soru, Almanya eSIM'i satın almak ya da etkinleştirmek için Anmeldung'un gerekli olup olmadığıdır. Kısa yanıt hayırdır. TKG kimlik doğrulaması gerektirir, adres kanıtı değil. Telekom, Vodafone veya O2'den ön ödemeli bir eSIM almak için bir Meldebescheinigung ibraz etmeniz ya da Almanca bir konut adresi vermeniz gerekmez. Faturalandırma ve yazışma amacıyla kendi ülkenizdeki yabancı bir adres tamamen kabul edilebilir.
 
-### Why the Confusion Exists
+### Karışıklık Neden Var
 
-So why does the question "Is address registration Anmeldung required for eSIM?" appear so often in travel forums and search queries? There are two explanations.
+Öyleyse "eSIM için adres kaydı Anmeldung gerekli mi?" sorusu neden seyahat forumlarında ve arama sorgularında bu kadar sık görünüyor? İki açıklaması var.
 
-The first is that some German MVNOs and postpaid contract plans do require a German address for billing, and they may ask for an Anmeldung certificate as supporting proof. If you are signing up for a long-term postpaid plan with a monthly invoice, the carrier wants assurance that you can be reached at a verifiable German address if there is a billing dispute or if you default on payment. Prepaid plans, which the vast majority of tourists use, do not carry this risk and therefore do not require a German address. This distinction between prepaid and postpaid is not always explained clearly on carrier websites, leading to the mistaken belief that all German SIMs require Anmeldung.
+Birincisi, bazı Alman MVNO'ları ve faturalı sözleşme planları faturalandırma için Almanca bir adres gerektirir ve destekleyici kanıt olarak bir Anmeldung belgesi isteyebilir. Aylık faturalı uzun vadeli bir faturalı plana kaydoluyorsanız, operatör bir faturalandırma anlaşmazlığı durumunda ya da ödemede temerrüde düşerseniz doğrulanabilir bir Alman adresinden size ulaşılabileceğinden emin olmak ister. Turistlerin büyük çoğunluğunun kullandığı ön ödemeli planlar bu riski taşımaz ve bu nedenle Almanca bir adres gerektirmez. Ön ödemeli ile faturalı arasındaki bu ayrım, operatör web sitelerinde her zaman açıkça açıklanmaz; bu da tüm Alman SIM'lerin Anmeldung gerektirdiği yönünde yanlış bir inanca yol açar.
 
-The second reason is that the address field on the SIM registration form is sometimes confused with Anmeldung. When you complete a Video-Ident session, the operator asks for your current residential address. You are free to provide your hotel address, an Airbnb address, a friend's address in Germany, or your permanent address outside Germany. The address is recorded in the carrier's system but is not verified against any government registry or database. It is a standard customer information field, not a proof-of-residence check. The confusion likely originates from travelers who interpret the address prompt as an Anmeldung-style verification requirement, when in reality it is simply the same type of address collection that any online service performs during account creation.
+İkinci neden, SIM kayıt formundaki adres alanının bazen Anmeldung ile karıştırılmasıdır. Bir Video-Ident oturumunu tamamladığınızda temsilci mevcut konut adresinizi sorar. Otel adresinizi, bir Airbnb adresini, Almanya'da bir arkadaşınızın adresini ya da Almanya dışındaki kalıcı adresinizi vermekte özgürsünüz. Adres operatörün sisteminde kaydedilir; ancak herhangi bir devlet sicili veya veri tabanıyla doğrulanmaz. Bu standart bir müşteri bilgisi alanıdır, ikamet kanıtı kontrolü değildir. Karışıklık muhtemelen adres istemini Anmeldung tarzı bir doğrulama gereksinimi olarak yorumlayan gezginlerden kaynaklanıyor; oysa gerçekte bu, herhangi bir çevrimiçi hizmetin hesap oluşturma sırasında yaptığı türden bir adres toplamadır.
 
-### Practical Implications for Tourists
+### Turistler için Pratik Sonuçlar
 
-The practical implications for tourists are straightforward: you can ignore Anmeldung entirely for eSIM purposes. You do not need to visit a Bürgeramt, obtain a Meldebescheinigung, or provide a German rental contract to activate a prepaid eSIM. The only scenarios where Anmeldung becomes relevant for tourists are opening a German bank account, signing a long-term apartment lease, registering a vehicle, or applying for a residence permit -- none of which are typical activities during a short vacation. Even if you are staying in Germany for several months on a long-stay visa, Anmeldung is legally required after fourteen days of residence regardless of whether you buy a SIM, but the SIM purchase itself does not depend on it.
+Turistler için pratik sonuçlar basittir: eSIM amacıyla Anmeldung'u tamamen görmezden gelebilirsiniz. Ön ödemeli bir eSIM etkinleştirmek için bir Bürgeramt'ı ziyaret etmeniz, Meldebescheinigung almanız ya da Almanca bir kira sözleşmesi sunmanız gerekmez. Anmeldung'un turistler için önem kazandığı tek senaryolar Almanya'da banka hesabı açmak, uzun vadeli bir daire kiralama sözleşmesi imzalamak, araç tescil etmek ya da oturum izni başvurusunda bulunmaktır -- bunların hiçbiri kısa bir tatil sırasında tipik faaliyetler değildir. Almanya'da uzun süreli vizeyle birkaç ay kalsanız bile, Anmeldung on dört günlük ikametten sonra SIM alıp almadığınızdan bağımsız olarak yasal olarak gereklidir; ancak SIM satın alımının kendisi buna bağlı değildir.
 
-For those asking "can tourists buy prepaid eSIM in Germany?" the answer is yes, and the purchase process involves a passport, a payment method, and approximately fifteen minutes of your time. It does not involve Anmeldung, a German address, or any form of residential registration.
+"Turistler Almanya'da ön ödemeli eSIM alabilir mi?" diye soranlar için yanıt evettir ve satın alma süreci bir pasaport, bir ödeme yöntemi ve yaklaşık on beş dakikanızı kapsar. Anmeldung'u, Almanca bir adresi ya da herhangi bir konut kaydını kapsamaz.
 
-## Getting a German Phone Number with eSIM
+## eSIM ile Alman Telefon Numarası Almak
 
-A Germany eSIM with phone number allows you to receive calls from hotels, restaurants, and local businesses, but it requires passport verification if issued by a German carrier.
+Telefon numaralı bir Almanya eSIM'i otellerden, restoranlardan ve yerel işletmelerden çağrı almanızı sağlar; ancak Almanya lisanslı bir operatör tarafından düzenleniyorsa pasaport doğrulaması gerektirir.
 
-Obtaining a German mobile phone number as a non-resident is more involved than buying a data-only eSIM, but it is far from impossible. The available options fall into two categories: prepaid plans with a real German number on the mobile network, which require the passport verification described earlier, and VoIP or virtual numbers, which do not.
+Oturum izni olmayan biri olarak Alman mobil telefon numarası almak, yalnızca veri amaçlı bir eSIM almaktan daha zahmetlidir; ancak imkânsız olmaktan çok uzaktır. Mevcut seçenekler iki kategoriye ayrılır: mobil ağda gerçek bir Alman numarası olan ve yukarıda açıklanan pasaport doğrulamasını gerektiren ön ödemeli planlar ile gerektirmeyen VoIP veya sanal numaralar.
 
-### Prepaid German Numbers via eSIM
+### eSIM Yoluyla Ön Ödemeli Alman Numaraları
 
-**Prepaid German numbers via eSIM.** The three major carriers and their affiliated MVNOs all offer prepaid Germany eSIM plans that include a German mobile number with full voice, SMS, and data capabilities. The activation sequence follows a consistent pattern across providers: choose a plan on the carrier's website, complete identity verification through Video-Ident or in-person at a store, and receive the Germany eSIM profile by email or direct push. The phone number is assigned automatically from the carrier's number range. Some carriers allow you to select a preferred number from a list of available options at no additional cost, while others assign one randomly.
+**eSIM yoluyla ön ödemeli Alman numaraları.** Üç büyük operatör ve bağlı MVNO'ları, tam sesli arama, SMS ve veri özellikleriyle bir Alman mobil numarası içeren ön ödemeli Almanya eSIM planları sunar. Etkinleştirme sırası sağlayıcılar arasında tutarlı bir kalıp izler: operatörün web sitesinde bir plan seçin, Video-Ident ya da mağazada yüz yüze kimlik doğrulamasını tamamlayın ve Almanya eSIM profilini e-posta ya da doğrudan gönderimle alın. Telefon numarası operatörün numara aralığından otomatik olarak atanır. Bazı operatörler mevcut seçenekler listesinden ek ücret olmadan tercih ettiğiniz numarayı seçmenize izin verir; diğerleri rastgele atar.
 
-The cost structure for prepaid German numbers is transparent. You pay an initial fee for the Germany eSIM profile, typically between EUR 5 and EUR 10 depending on the carrier, plus the cost of the plan itself. Recharge cards purchased at supermarkets, kiosks, or online extend the validity period and add credit. German prepaid SIMs do not expire as aggressively as prepaid SIMs in some other European countries. Telekom prepaid credit remains valid for up to twelve months without any chargeable activity, while O2 credit lasts up to twenty-four months. This extended validity makes them practical for travelers who visit Germany periodically for business or family and want to keep the same number across multiple trips.
+Ön ödemeli Alman numaralarının maliyet yapısı şeffaftır. Almanya eSIM profili için, operatöre göre genellikle 5 ila 10 EUR arasında bir başlangıç ücreti ve planın kendi maliyetini ödersiniz. Süpermarketlerde, büfelerde veya çevrimiçi satın alınan yükleme kartları geçerlilik süresini uzatır ve kontör ekler. Alman ön ödemeli SIM'leri, bazı diğer Avrupa ülkelerindeki ön ödemeli SIM'ler kadar agresif biçimde sona ermez. Telekom ön ödemeli kontörü ücretlendirilebilir bir işlem olmadan on iki aya kadar geçerli kalır; O2 kontörü ise yirmi dört aya kadar dayanır. Bu uzatılmış geçerlilik, Almanya'yı iş ya da aile için düzenli olarak ziyaret eden ve birden fazla gezide aynı numarayı korumak isteyen gezginler için onları pratik kılar.
 
-A question that arises frequently is whether you can get a German phone number with eSIM without holding an EU passport. The answer is unequivocally yes. German law does not restrict SIM registration to EU citizens or residents. Any valid passport from any country is accepted as proof of identity. The Bundesnetzagentur has explicitly confirmed that carriers must accept foreign passports as valid identity documents for SIM registration. In practice, non-EU passports sometimes take marginally longer to verify because the agents performing video identification may be less familiar with the document's security features and format. Passports from countries with non-Latin scripts -- Arabic, Chinese, Cyrillic, Thai, or Korean characters, for example -- are accepted, though the operator may ask you to hold the passport at specific angles to capture the machine-readable zone clearly for their optical character recognition system.
+Sık ortaya çıkan bir soru, AB pasaportu olmadan eSIM ile Alman telefon numarası alıp alamayacağınızdır. Yanıt kesinlikle evettir. Alman hukuku SIM kaydını AB vatandaşları ya da sakinleriyle sınırlamaz. Herhangi bir ülkeden geçerli her pasaport kimlik kanıtı olarak kabul edilir. Bundesnetzagentur, operatörlerin yabancı pasaportları SIM kaydı için geçerli kimlik belgeleri olarak kabul etmesi gerektiğini açıkça onaylamıştır. Uygulamada AB dışı pasaportların doğrulanması bazen biraz daha uzun sürebilir; çünkü görüntülü kimlik doğrulamayı yapan temsilciler belgenin güvenlik özelliklerine ve biçimine daha az aşina olabilir. Latin alfabesi dışı yazı sistemleri olan ülkelerden pasaportlar -- örneğin Arapça, Çince, Kiril, Tayca ya da Korece karakterler -- kabul edilir; ancak temsilci, optik karakter tanıma sistemi için makinede okunabilir alanı net biçimde yakalamak adına pasaportu belirli açılarda tutmanızı isteyebilir.
 
-### VoIP and Virtual Numbers as Alternatives
+### Alternatif Olarak VoIP ve Sanal Numaralar
 
-**VoIP and virtual German numbers.** If you need a German telephone number but want to avoid the TKG passport registration requirement entirely, you have alternatives that do not involve a SIM card:
+**VoIP ve sanal Alman numaraları.** Bir Alman telefon numarasına ihtiyacınız varsa ama TKG pasaport kaydı gereksiniminden tamamen kaçınmak istiyorsanız, SIM kart içermeyen alternatifleriniz vardır:
 
-- Services such as **SIPGate, Sipcall**, and various virtual number providers offer German geographic telephone numbers that work exclusively over an internet connection (VoIP).
-- Numbers are assigned a standard German area code: 030 for Berlin, 089 for Munich, 040 for Hamburg, 069 for Frankfurt.
-- Incoming calls are routed to a softphone application on your smartphone.
-- Because these are not SIM-based services, they are not classified under the TKG in the same way, and providers typically do not require identity verification beyond an email address and payment.
+- **SIPGate, Sipcall** gibi hizmetler ve çeşitli sanal numara sağlayıcıları, yalnızca internet bağlantısı üzerinden (VoIP) çalışan Alman coğrafi telefon numaraları sunar.
+- Numaralara standart bir Alman alan kodu atanır: Berlin için 030, Münih için 089, Hamburg için 040, Frankfurt için 069.
+- Gelen çağrılar akıllı telefonunuzdaki bir softphone uygulamasına yönlendirilir.
+- Bunlar SIM tabanlı hizmetler olmadığından TKG kapsamında aynı şekilde sınıflandırılmaz ve sağlayıcılar genellikle e-posta adresi ve ödemenin ötesinde kimlik doğrulaması istemez.
 
-The trade-off with VoIP numbers is that they have limitations:
+VoIP numaralarında ödün verdiğiniz nokta, sınırlamaları olmasıdır:
 
-- **SMS limitations**: some cannot receive SMS verification codes from German banks, government services, or messaging platforms like WhatsApp and Signal.
-- **Emergency calls**: calls to 110 (police) and 112 (ambulance and fire) may not route correctly from a VoIP application depending on your internet connection stability.
-- **Casual use**: receiving calls from hotels, restaurants, business contacts, or local services -- VoIP numbers work adequately.
-- **Reliable SMS**: for two-factor authentication or WhatsApp account verification, a prepaid SIM with a real German mobile number is the more dependable option.
+- **SMS sınırlamaları**: bazıları Alman bankalarından, devlet hizmetlerinden ya da WhatsApp ve Signal gibi mesajlaşma platformlarından SMS doğrulama kodlarını alamaz.
+- **Acil çağrılar**: internet bağlantınızın kararlılığına bağlı olarak VoIP uygulamasından 110 (polis) ve 112 (ambulans ve itfaiye) aramaları doğru yönlendirilmeyebilir.
+- **Gündelik kullanım**: otellerden, restoranlardan, iş bağlantılarından ya da yerel hizmetlerden çağrı almak için VoIP numaraları yeterince iş görür.
+- **Güvenilir SMS**: iki faktörlü kimlik doğrulama ya da WhatsApp hesap doğrulaması için gerçek bir Alman mobil numarasına sahip ön ödemeli SIM daha güvenilir seçenektir.
 
-### The Dual-SIM Strategy
+### Çift SIM Stratejisi
 
-An approach that has gained traction among experienced travelers is the [dual-SIM strategy](/blog/germany-esim-dual-sim-multi-device/). For the data-only side, a [no-registration Germany eSIM](/germany-esim/) from an international provider needs no passport upload and handles all your internet connectivity. Use an international data eSIM from a provider that does not require passport upload as your primary data connection, and separately carry a German prepaid SIM -- either physical or eSIM -- for voice calls and SMS on a local number. This configuration gives you the convenience of registration-free data with the functionality of a German mobile number for local communication.
+Deneyimli gezginler arasında benimsenen bir yaklaşım [çift SIM stratejisidir](/blog/germany-esim-dual-sim-multi-device/). Yalnızca veri tarafı için, uluslararası bir sağlayıcıdan alınan ve pasaport yüklemesi gerektirmeyen [kayıtsız Almanya eSIM'i](/germany-esim/) tüm internet bağlantınızı üstlenir. Pasaport yüklemesi gerektirmeyen bir sağlayıcıdan uluslararası bir veri eSIM'ini birincil veri bağlantınız olarak kullanın ve sesli aramalar ile yerel numarada SMS için ayrıca Almanca bir ön ödemeli SIM -- fiziksel ya da eSIM -- taşıyın. Bu yapılandırma, kayıt gerektirmeyen verinin rahatlığını yerel iletişim için bir Alman mobil numarasının işlevselliğiyle birleştirir.
 
-Modern smartphones make this setup straightforward:
+Modern akıllı telefonlar bu kurulumu basitleştirir:
 
-- **Apple iPhones**: from XS/XR onward support dual SIM with one physical SIM and one Germany eSIM simultaneously; models from iPhone 13 onward support two active eSIMs at the same time.
-- **Android**: most flagship devices from Samsung, Google, and OnePlus support similar dual-SIM configurations.
-- The German number SIM stays registered to your passport with the carrier, while the data eSIM operates entirely outside the TKG's registration framework.
+- **Apple iPhone'lar**: XS/XR'dan itibaren bir fiziksel SIM ile bir Almanya eSIM'i aynı anda destekler; iPhone 13'ten itibaren modeller aynı anda iki etkin eSIM'i destekler.
+- **Android**: Samsung, Google ve OnePlus'ın çoğu amiral gemisi cihazı benzer çift SIM yapılandırmalarını destekler.
+- Alman numaralı SIM, operatörle pasaportunuza kayıtlı kalırken veri eSIM'i tamamen TKG'nin kayıt çerçevesinin dışında çalışır.
 
-The best place to buy a Germany eSIM online for the data-only side is any international provider that explicitly states no registration is required. For the voice side, you can purchase a prepaid physical SIM from any supermarket (Aldi, Lidl, Rewe, Edeka), electronics retailer (Saturn, MediaMarkt), or carrier store after arriving in Germany, completing the passport verification in person at the counter in about ten minutes. This two-SIM arrangement resolves the tension between convenience and the need for a local number. For detailed setup instructions for each phone model, see the [dual SIM and multi-device guide](/blog/germany-esim-dual-sim-multi-device/).
+Yalnızca veri tarafı için çevrimiçi Almanya eSIM alınacak en iyi yer, kayıt gerekmediğini açıkça belirten herhangi bir uluslararası sağlayıcıdır. Ses tarafı için, Almanya'ya vardıktan sonra herhangi bir süpermarketten (Aldi, Lidl, Rewe, Edeka), elektronik perakendecisinden (Saturn, MediaMarkt) veya operatör mağazasından ön ödemeli fiziksel SIM alıp pasaport doğrulamasını kasada yüz yüze yaklaşık on dakikada tamamlayabilirsiniz. Bu iki SIM düzenlemesi, rahatlık ile yerel numara ihtiyacı arasındaki gerilimi çözer. Her telefon modeli için ayrıntılı kurulum talimatları için [çift SIM ve çoklu cihaz rehberine](/blog/germany-esim-dual-sim-multi-device/) bakın.
 
-## Step-by-Step: How to Upload Your Passport for Verification
+## Adım Adım: Doğrulama için Pasaportunuzu Nasıl Yüklersiniz
 
-If your situation requires passport verification -- either because you need a German local number or because you prefer to buy directly from a German carrier -- understanding the exact process helps you avoid delays, failed attempts, and the frustration of landing without working connectivity. Here is the step-by-step procedure used by all major German carriers for eSIM registration.
+Durumunuz pasaport doğrulaması gerektiriyorsa -- ister Alman yerel numarası istediğiniz için, ister doğrudan bir Alman operatörden satın almayı tercih ettiğiniz için -- tam süreci anlamak gecikmelerden, başarısız denemelerden ve çalışan bir bağlantı olmadan inmenin hayal kırıklığından kaçınmanıza yardımcı olur. İşte tüm büyük Alman operatörlerinin eSIM kaydı için kullandığı adım adım prosedür.
 
-### Choosing a Carrier and Selecting Verification Method
+### Operatör ve Doğrulama Yöntemi Seçmek
 
-**Step 1: Choose your carrier and plan.** Start by browsing the prepaid eSIM offerings from Telekom, Vodafone, or O2. Compare data allowances, validity periods, prices, and coverage maps. Each carrier's website lists compatible devices and confirms eSIM availability for your specific phone model before you commit to a purchase. Select a plan and proceed to the checkout page.
+**Adım 1: Operatörünüzü ve planınızı seçin.** Telekom, Vodafone veya O2'nin ön ödemeli eSIM tekliflerine göz atarak başlayın. Veri kotalarını, geçerlilik sürelerini, fiyatları ve kapsama haritalarını karşılaştırın. Her operatörün web sitesi uyumlu cihazları listeler ve satın alma kararınızdan önce belirli telefon modeliniz için eSIM kullanılabilirliğini onaylar. Bir plan seçin ve ödeme sayfasına ilerleyin.
 
-**Step 2: Select your identification method.** The carrier presents you with two or three ID verification channels. Video-Ident is the most common option for online purchases and the only practical method if you are buying before your arrival in Germany. Post-Ident requires visiting a Deutsche Post branch with your passport, which is feasible only if you are already in Germany. In-store verification at a carrier shop is another option when you are physically in the country. For purchases made before traveling, Video-Ident is your only realistic choice. For purchases made after arrival, any of the three methods works.
+**Adım 2: Kimlik doğrulama yönteminizi seçin.** Operatör size iki veya üç kimlik doğrulama kanalı sunar. Video-Ident çevrimiçi alımlar için en yaygın seçenektir ve Almanya'ya varmadan önce satın alıyorsanız tek pratik yöntemdir. Post-Ident, pasaportunuzla bir Deutsche Post şubesini ziyaret etmeyi gerektirir; bu yalnızca halihazırda Almanya'da bulunuyorsanız mümkündür. Bir operatör mağazasında yerinde doğrulama da fiziksel olarak ülkede bulunduğunuzda bir seçenektir. Seyahatten önce yapılan alımlar için tek gerçekçi seçenek Video-Ident'dir. Vardıktan sonra yapılan alımlar için üç yöntemden herhangi biri iş görür.
 
-**Step 3: Prepare your passport and environment.** For Video-Ident, you need your physical passport. Photocopies, digital scans, and screenshots are not accepted. You also need a device with a working front-facing camera, a stable internet connection, and adequate lighting. The agents are trained to reject sessions where the passport is not clearly legible or where your face is obscured by shadows. Stand in a well-lit room. Avoid direct overhead light that casts shadows across your face. Position yourself so that light falls evenly on your face and the passport. Remove any passport cover, sleeve, or holder before the session begins.
+**Adım 3: Pasaportunuzu ve ortamınızı hazırlayın.** Video-Ident için fiziksel pasaportunuza ihtiyacınız vardır. Fotokopiler, dijital taramalar ve ekran görüntüleri kabul edilmez. Ayrıca çalışan bir ön kameraya sahip bir cihaza, istikrarlı bir internet bağlantısına ve yeterli aydınlatmaya ihtiyacınız vardır. Temsilciler, pasaportun net biçimde okunmadığı ya da yüzünüzün gölgelerle örtüldüğü oturumları reddetmek üzere eğitilmiştir. İyi aydınlatılmış bir odada durun. Yüzünüze gölge düşüren doğrudan tepe ışığından kaçının. Işığın yüzünüze ve pasaportunuza eşit biçimde düşmesini sağlayacak şekilde konumlanın. Oturum başlamadan önce pasaport kapağını, kılıfını ya da tutucusunu çıkarın.
 
-### Completing the Video-Ident Process
+### Video-Ident Sürecini Tamamlamak
 
-**Step 4: Start the Video-Ident session.** The carrier redirects your browser or app to a verification partner's platform (IDnow, WebID, or a similar service). You grant camera and microphone permissions when prompted. A trained agent appears on your screen within a few seconds to a couple of minutes. The agent may begin speaking in German, but you can request English at the start of the call. Most verification partners employ English-speaking agents or have English-language sessions available.
+**Adım 4: Video-Ident oturumunu başlatın.** Operatör, tarayıcınızı ya da uygulamanızı bir doğrulama ortağının platformuna (IDnow, WebID veya benzer bir hizmet) yönlendirir. İstendiğinde kamera ve mikrofon izinlerini verirsiniz. Eğitimli bir temsilci birkaç saniye ila birkaç dakika içinde ekranınızda belirir. Temsilci Almanca konuşmaya başlayabilir; ancak görüşmenin başında İngilizce talep edebilirsiniz. Çoğu doğrulama ortağı İngilizce konuşan temsilciler çalıştırır ya da İngilizce oturumlar sunar.
 
-**Step 5: Present your passport data page.** The agent asks you to hold your passport open to the data page. Key points for success:
+**Adım 5: Pasaportunuzun veri sayfasını gösterin.** Temsilci pasaportunuzu veri sayfası açık biçimde tutmanızı ister. Başarı için kilit noktalar:
 
-- Hold the passport at a distance where the entire page fills the frame but remains fully visible.
-- The agent captures a screenshot, then asks you to bring the passport closer so the machine-readable zone (the two lines of text at the bottom) is legible.
-- You may need to tilt the passport slightly to eliminate glare or rotate it slowly to confirm holographic security features.
+- Pasaportu, tüm sayfa çerçeveyi doldurur ama tamamen görünür kalır biçimde bir mesafede tutun.
+- Temsilci bir ekran görüntüsü alır, ardından makinede okunabilir alan (alttaki iki metin satırı) okunabilir olsun diye pasaportu yaklaştırmanızı ister.
+- Yansımayı ortadan kaldırmak için pasaportu hafifçe eğmeniz ya da holografik güvenlik özelliklerini doğrulamak için yavaşça döndürmeniz gerekebilir.
 
-**Step 6: Complete the face comparison.** The agent asks you to hold your passport next to your face, at approximately ear level, so both your face and the passport photograph are visible simultaneously. This is the step that most frequently causes problems:
+**Adım 6: Yüz karşılaştırmasını tamamlayın.** Temsilci, hem yüzünüz hem de pasaport fotoğrafı aynı anda görünecek şekilde pasaportunuzu yüzünüzün yanında, yaklaşık kulak hizasında tutmanızı ister. En sık sorun çıkaran adım budur:
 
-- If your appearance has changed significantly since the passport photo was taken -- different hairstyle, added or removed facial hair, significant weight change -- the agent may request additional verification steps.
-- If the lighting creates a mismatch between your appearance on camera and the passport photo, the agent may ask you to adjust your position or move to a differently lit area.
-- In some cases, the session is escalated for manual review, which can take one to three business days.
+- Görünümünüz pasaport fotoğrafı çekildiğinden bu yana önemli ölçüde değiştiyse -- farklı saç modeli, eklenen ya da kesilen yüz kılı, belirgin kilo değişimi -- temsilci ek doğrulama adımları isteyebilir.
+- Aydınlatma, kameradaki görünümünüzle pasaport fotoğrafı arasında uyumsuzluk yaratırsa temsilci konumunuzu ayarlamanızı ya da farklı ışıklı bir alana geçmenizi isteyebilir.
+- Bazı durumlarda oturum manuel incelemeye yükseltilir; bu bir ila üç iş günü sürebilir.
 
-**Step 7: Provide your address details.** The agent asks for your current residential address. You can provide:
+**Adım 7: Adres bilgilerinizi verin.** Temsilci mevcut konut adresinizi sorar. Şunları verebilirsiniz:
 
-- Your home address in your country of residence
-- A hotel address
-- An Airbnb address
+- İkamet ettiğiniz ülkedeki ev adresiniz
+- Bir otel adresi
+- Bir Airbnb adresi
 
-This information is recorded in the carrier's customer database but is not verified against any government registry or address database.
+Bu bilgi operatörün müşteri veri tabanında kaydedilir; ancak herhangi bir devlet sicili veya adres veri tabanıyla doğrulanmaz.
 
-**Step 8: Confirm and sign.** The agent reads back all recorded details -- your full name, passport number, date of birth, and address -- and asks you to confirm that they are correct. You may be asked to provide a digital signature on the screen using your finger or a stylus. Once confirmed, the agent finalizes the session and transmits the verified identity data to the carrier's activation system.
+**Adım 8: Onaylayın ve imzalayın.** Temsilci kaydedilen tüm ayrıntıları -- tam adınızı, pasaport numaranızı, doğum tarihinizi ve adresinizi -- sesli olarak tekrarlar ve doğru olduklarını onaylamanızı ister. Ekranda parmağınızla veya bir kalemle dijital imza vermeniz istenebilir. Onaylandığında temsilci oturumu sonlandırır ve doğrulanmış kimlik verisini operatörün etkinleştirme sistemine iletir.
 
-### Installing the eSIM After Verification
+### Doğrulamadan Sonra eSIM'i Kurmak
 
-**Step 9: Receive and install the Germany eSIM profile.** Within minutes of the Video-Ident session completing -- sometimes within seconds -- the carrier sends an email containing a QR code for Germany eSIM installation. On an iPhone, you open Settings, select Cellular or Mobile Data, tap "Add Cellular Plan," and scan the QR code. On an Android device, you go to Settings, select Network and Internet, tap "Add a Germany eSIM," and scan the QR code. The Germany eSIM profile installs and activates automatically. Data service, voice calling, and SMS functionality become available immediately.
+**Adım 9: Almanya eSIM profilini alın ve kurun.** Video-Ident oturumu tamamlandıktan sonraki dakikalar içinde -- bazen saniyeler içinde -- operatör, Almanya eSIM kurulumu için bir QR kodu içeren bir e-posta gönderir. Bir iPhone'da Ayarlar'ı açıp Hücresel veya Mobil Veri'yi seçin, "Hücresel Plan Ekle"ye dokunun ve QR kodunu tarayın. Bir Android cihazda Ayarlar'a gidip Ağ ve İnternet'i seçin, "Almanya eSIM'i ekle"ye dokunun ve QR kodunu tarayın. Almanya eSIM profili otomatik olarak kurulur ve etkinleşir. Veri hizmeti, sesli arama ve SMS işlevselliği anında kullanıma açılır.
 
-**Step 10: Test and confirm.** Make a test call or open a website to confirm that the Germany eSIM is working correctly. If the Germany eSIM does not activate within 24 hours, contact the carrier's customer support team with your Video-Ident transaction ID and passport details. Keep a screenshot of the Video-Ident confirmation screen for reference in case you need to follow up. For a complete walkthrough of the installation process on iOS and Android, see the [eSIM installation and activation guide](/blog/germany-esim-installation-activation-setup/).
+**Adım 10: Test edin ve onaylayın.** Almanya eSIM'in doğru çalıştığını onaylamak için bir test araması yapın ya da bir web sitesi açın. Almanya eSIM 24 saat içinde etkinleşmezse operatörün müşteri destek ekibine Video-Ident işlem kimliğiniz ve pasaport bilgilerinizle başvurun. Takip gerekmesi durumunda başvurmak üzere Video-Ident onay ekranının bir ekran görüntüsünü saklayın. iOS ve Android'de kurulum sürecinin eksiksiz bir anlatımı için [eSIM kurulum ve etkinleştirme rehberine](/blog/germany-esim-installation-activation-setup/) bakın.
 
-The entire process takes ten to twenty minutes from start to finish under optimal conditions, with the Video-Ident session itself lasting three to five minutes. Passport-related issues surface most often at steps 5 and 6. The most common failure modes include the agent being unable to read the machine-readable zone because the passport is held at an angle, glare from overhead lights obscuring the photograph or data fields, or the internet connection dropping mid-session. If the Video-Ident session fails, most carriers allow an immediate retry. Repeated failures, however, may trigger a manual review process that can take one to three business days to resolve.
+Tüm süreç ideal koşullarda baştan sona on ila yirmi dakika sürer; Video-Ident oturumunun kendisi üç ila beş dakika sürer. Pasaportla ilgili sorunlar en çok 5. ve 6. adımlarda ortaya çıkar. En yaygın başarısızlık biçimleri arasında temsilcinin pasaport açılı tutulduğu için makinede okunabilir alanı okuyamaması, tepe ışıklarından gelen yansımanın fotoğrafı ya da veri alanlarını örtmesi veya internet bağlantısının oturum ortasında kesilmesi yer alır. Video-Ident oturumu başarısız olursa çoğu operatör anında yeniden denemeye izin verir. Ancak tekrarlanan başarısızlıklar, çözülmesi bir ila üç iş günü sürebilecek manuel bir inceleme sürecini tetikleyebilir.
 
-For travelers who prefer to bypass this entire workflow, an international eSIM that does not require passport registration is the clear alternative. Providers like Roami offer a Germany eSIM that works on all three German networks and requires nothing beyond an email address and a payment method to install.
+Bu iş akışının tamamını atlamayı tercih eden gezginler için pasaport kaydı gerektirmeyen uluslararası bir eSIM açık alternatiftir. Roami gibi sağlayıcılar, üç Alman ağının tümünde çalışan ve kurulum için e-posta adresi ile ödeme yönteminin ötesinde hiçbir şey gerektirmeyen bir Almanya eSIM sunar.
 
-## Germany eSIM Phone Compatibility: Which Devices Work?
+## Almanya eSIM Telefon Uyumluluğu: Hangi Cihazlar Çalışır?
 
-Germany eSIM compatible phones are not a narrow or exotic category. The vast majority of modern smartphones support eSIM technology, and all three German carriers have adopted the GSMA's standardized eSIM specification for profile delivery and remote provisioning. However, compatibility is not universal, and checking your specific device model before purchasing any Germany eSIM plan -- whether local or international -- saves you the frustration of arriving without working connectivity.
+Almanya eSIM uyumlu telefonlar dar ya da sıra dışı bir kategori değildir. Modern akıllı telefonların büyük çoğunluğu eSIM teknolojisini destekler ve üç Alman operatörün tümü profil teslimi ve uzaktan sağlama için GSMA'nın standartlaştırılmış eSIM spesifikasyonunu benimsemiştir. Ancak uyumluluk evrensel değildir ve herhangi bir Almanya eSIM planı -- yerel ya da uluslararası -- satın almadan önce belirli cihaz modelinizi kontrol etmek, çalışan bir bağlantı olmadan varmanın hayal kırıklığından sizi kurtarır.
 
-### Apple Device Compatibility
+### Apple Cihaz Uyumluluğu
 
-**Apple devices.** The following Apple devices support eSIM:
+**Apple cihazları.** Aşağıdaki Apple cihazları eSIM'i destekler:
 
-- iPhone XS, XS Max, XR, and every subsequent model (iPhone 11 through iPhone 17 as of 2026) -- including all Pro, Pro Max, Plus, and standard variants.
-- iPhone SE (second generation released in 2020 and third generation released in 2022).
+- iPhone XS, XS Max, XR ve sonraki her model (2026 itibarıyla iPhone 11'den iPhone 17'ye kadar) -- tüm Pro, Pro Max, Plus ve standart varyantlar dahil.
+- iPhone SE (2020'de çıkan ikinci nesil ve 2022'de çıkan üçüncü nesil).
 
-Note: iPhones sold in mainland China and Hong Kong have hardware limitations on eSIM functionality. Devices purchased in Europe, North America, Japan, Australia, and most other markets support dual-SIM configurations (one physical nano-SIM plus one Germany eSIM, or two active eSIMs from the iPhone 13 generation onward). For travelers with older iPhones, the iPhone X and earlier models do not support eSIM and will require a physical prepaid SIM purchased in Germany.
+Not: Çin anakarasında ve Hong Kong'da satılan iPhone'larda eSIM işlevselliği üzerinde donanım sınırlamaları vardır. Avrupa, Kuzey Amerika, Japonya, Avustralya ve diğer çoğu pazarda satın alınan cihazlar çift SIM yapılandırmalarını (bir fiziksel nano-SIM artı bir Almanya eSIM'i ya da iPhone 13 neslinden itibaren iki etkin eSIM) destekler. Daha eski iPhone sahipleri için iPhone X ve önceki modeller eSIM'i desteklemez ve Almanya'da satın alınan fiziksel bir ön ödemeli SIM gerektirir.
 
-### Android and Other Device Compatibility
+### Android ve Diğer Cihaz Uyumluluğu
 
-**Samsung devices.** The following Samsung devices support eSIM:
+**Samsung cihazları.** Aşağıdaki Samsung cihazları eSIM'i destekler:
 
-- Galaxy S20 series and all later S-series flagships (S21, S22, S23, S24, S25)
-- Galaxy Note 20 series
-- Galaxy Z Fold and Z Flip foldable series across all generations
-- Galaxy A series from the A54 model onward
+- Galaxy S20 serisi ve sonraki tüm S serisi amiral gemileri (S21, S22, S23, S24, S25)
+- Galaxy Note 20 serisi
+- Tüm nesiller boyunca Galaxy Z Fold ve Z Flip katlanabilir serisi
+- A54 modelinden itibaren Galaxy A serisi
 
-Samsung devices purchased in the United States, Europe, and South Korea generally have eSIM enabled out of the box. Some models sold in other regions, particularly carrier-locked devices from certain Asian and Latin American markets, may have the Germany eSIM feature disabled in the firmware. If you are unsure about eSIM support, dial `*#06#` in the phone app -- if an EID number (a 32-digit identifier) appears alongside the IMEI, your device supports eSIM.
+Amerika Birleşik Devletleri, Avrupa ve Güney Kore'de satın alınan Samsung cihazlarında eSIM genellikle kutudan çıktığı gibi etkindir. Diğer bölgelerde satılan bazı modellerde, özellikle bazı Asya ve Latin Amerika pazarlarından operatör kilitli cihazlarda, Almanya eSIM özelliği yazılımda devre dışı bırakılmış olabilir. eSIM desteğinden emin değilseniz telefon uygulamasında `*#06#` çevirin -- IMEI'nin yanında bir EID numarası (32 haneli bir tanımlayıcı) görünüyorsa cihazınız eSIM'i destekliyordur.
 
-**Google Pixel devices.** The following Pixel devices support eSIM:
+**Google Pixel cihazları.** Aşağıdaki Pixel cihazları eSIM'i destekler:
 
-- Pixel 3 and all later models (Pixel 3a, 4, 4a, 5, 6, 7, 8, 9, 10 series)
-- Dual eSIM (both SIMs active as eSIM profiles simultaneously) supported from Pixel 7 onward
+- Pixel 3 ve sonraki tüm modeller (Pixel 3a, 4, 4a, 5, 6, 7, 8, 9, 10 serileri)
+- Pixel 7'den itibaren çift eSIM (her iki SIM'in aynı anda eSIM profili olarak etkin olması) desteklenir
 
-Google's implementation is among the most flexible in the Android ecosystem. The Pixel 3a was one of the first mid-range smartphones to include eSIM support, making it a common device choice for budget-conscious travelers.
+Google'ın uygulaması Android ekosistemindeki en esnek uygulamalardan biridir. Pixel 3a, eSIM desteği içeren ilk orta segment akıllı telefonlardan biriydi; bu da onu bütçesine dikkat eden gezginler için yaygın bir cihaz seçimi yapar.
 
-**Huawei devices.** Huawei's situation is complicated by US trade restrictions that limit access to Google Mobile Services on newer models:
+**Huawei cihazları.** Huawei'nin durumu, yeni modellerde Google Mobil Hizmetlerine erişimi sınırlayan ABD ticaret kısıtlamaları nedeniyle karmaşıktır:
 
-- **Hardware support**: eSIM is supported on P40 series, P50 series, Mate 40 series, and Mate 50 series.
-- **Software limitation**: Huawei phones cannot use Google's carrier setup services, and some Germany eSIM provisioning systems rely on Google Play Services for profile delivery.
+- **Donanım desteği**: eSIM; P40 serisi, P50 serisi, Mate 40 serisi ve Mate 50 serisinde desteklenir.
+- **Yazılım sınırlaması**: Huawei telefonları Google'ın operatör kurulum hizmetlerini kullanamaz ve bazı Almanya eSIM sağlama sistemleri profil teslimi için Google Play Hizmetlerine dayanır.
 
-If you hold a Huawei device, check with the specific Germany eSIM provider whether their profile delivery mechanism works on Huawei's AppGallery-based ecosystem. Most international eSIMs work because they deliver profiles via QR codes that do not require Google services, but German carrier apps may not install or function correctly on Huawei devices.
+Bir Huawei cihazınız varsa, belirli Almanya eSIM sağlayıcısına profil teslim mekanizmalarının Huawei'nin AppGallery tabanlı ekosisteminde çalışıp çalışmadığını sorun. Çoğu uluslararası eSIM çalışır; çünkü profilleri Google hizmetleri gerektirmeyen QR kodları aracılığıyla teslim ederler; ancak Alman operatör uygulamaları Huawei cihazlarında düzgün kurulmayabilir veya çalışmayabilir.
 
-**Chinese domestic market phones.** Smartphones sold in mainland China -- including Xiaomi, Oppo, Vivo, OnePlus, and Realme models intended for the Chinese domestic market -- frequently lack eSIM hardware support or have it disabled in the firmware. This is not a universal rule: the OnePlus 11 and later global models support eSIM, while the Chinese-market version of the same OnePlus 11 does not. If you purchased your phone in China, check the manufacturer's official specifications page for the words "eSIM" or "embedded SIM" before relying on eSIM for your trip. The same caution applies to devices from Japan, where some carrier-locked models from SoftBank and KDDI disable eSIM functionality, and to South Korea, where SK Telecom and KT occasionally disable eSIM on domestic firmware versions.
+**Çin yerel pazarı telefonları.** Çin anakarasında satılan akıllı telefonlar -- Çin yerel pazarına yönelik Xiaomi, Oppo, Vivo, OnePlus ve Realme modelleri dahil -- sıklıkla eSIM donanım desteğinden yoksundur ya da bu destek yazılımda devre dışıdır. Bu evrensel bir kural değildir: OnePlus 11 ve sonraki küresel modeller eSIM'i desteklerken aynı OnePlus 11'in Çin pazarı sürümü desteklemez. Telefonunuzu Çin'de satın aldıysanız, seyahatiniz için eSIM'e güvenmeden önce üreticinin resmi spesifikasyon sayfasında "eSIM" ya da "embedded SIM" kelimelerini kontrol edin. Aynı dikkat, SoftBank ve KDDI'nin bazı operatör kilitli modellerinin eSIM işlevselliğini devre dışı bıraktığı Japonya'dan ve SK Telecom ile KT'nin zaman zaman yerel yazılım sürümlerinde eSIM'i devre dışı bıraktığı Güney Kore'den cihazlar için de geçerlidir.
 
-### Network Band Compatibility
+### Ağ Bandı Uyumluluğu
 
-**Network band compatibility -- the often-overlooked detail.** Beyond the question of whether your phone supports eSIM as a technology, you also need to confirm that your device supports the specific LTE and 5G frequency bands used by German mobile networks:
+**Ağ bandı uyumluluğu -- sıklıkla gözden kaçan ayrıntı.** Telefonunuzun bir teknoloji olarak eSIM'i destekleyip desteklemediği sorusunun ötesinde, cihazınızın Alman mobil ağlarının kullandığı belirli LTE ve 5G frekans bantlarını desteklediğini de onaylamanız gerekir:
 
-- **[Telekom](https://www.telekom.de)**: LTE bands 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz), and 20 (800 MHz); 5G bands n1, n3, n28, and n78.
-- **[Vodafone](https://www.vodafone.de)**: similar set with band 28 for extended-range LTE coverage in rural areas.
-- **O2**: primary bands overlap substantially with Telekom and Vodafone.
+- **[Telekom](https://www.telekom.de)**: LTE bantları 1 (2100 MHz), 3 (1800 MHz), 7 (2600 MHz) ve 20 (800 MHz); 5G bantları n1, n3, n28 ve n78.
+- **[Vodafone](https://www.vodafone.de)**: kırsal alanlarda genişletilmiş menzilli LTE kapsaması için bant 28 ile benzer bir küme.
+- **O2**: birincil bantlar Telekom ve Vodafone ile büyük ölçüde örtüşür.
 
-Most smartphones sold in Europe, the Middle East, and Africa support these bands as standard. US-market devices, however, sometimes lack band 20 (800 MHz), which is critical for rural coverage in Germany. AT&T and T-Mobile US devices typically include band 20 support. Verizon devices frequently omit it. If your phone lacks band 20, you will experience normal connectivity in cities and along major highways but may lose signal entirely on regional trains between smaller towns and in rural areas such as the Bavarian countryside or the Eifel region.
+Avrupa, Orta Doğu ve Afrika'da satılan çoğu akıllı telefon bu bantları standart olarak destekler. Ancak ABD pazarı cihazları bazen Almanya'daki kırsal kapsama için kritik olan bant 20'yi (800 MHz) içermez. AT&T ve T-Mobile US cihazları tipik olarak bant 20 desteğini içerir. Verizon cihazları bunu sıklıkla atlar. Telefonunuzda bant 20 yoksa şehirlerde ve büyük otoyollar boyunca normal bağlantı yaşarsınız; ancak küçük kasabalar arasındaki bölgesel trenlerde ve Bavyera kırsalı ya da Eifel bölgesi gibi kırsal alanlarda sinyali tamamen kaybedebilirsiniz.
 
-The [GSMA](https://www.gsma.com/esim) maintains a searchable device specification database that lists eSIM compatibility and supported frequency bands by model and region. Checking your device against this database before your trip takes five minutes and can prevent significant connectivity problems. If you are unsure about your device's band support, an international eSIM with automatic network switching becomes particularly valuable because it can fall back to whichever network has the strongest signal at your location, rather than being locked to a single carrier's coverage footprint. You can buy and activate a Germany eSIM from any location before your departure as long as your device supports eSIM and at least one of the networks' primary LTE bands. No passport upload is required when choosing an international provider.
+[GSMA](https://www.gsma.com/esim), model ve bölgeye göre eSIM uyumluluğunu ve desteklenen frekans bantlarını listeleyen, aranabilir bir cihaz spesifikasyon veri tabanı tutar. Seyahatinizden önce cihazınızı bu veri tabanıyla karşılaştırmak beş dakika sürer ve önemli bağlantı sorunlarını önleyebilir. Cihazınızın bant desteğinden emin değilseniz, otomatik ağ geçişi olan uluslararası bir eSIM özellikle değerli hale gelir; çünkü tek bir operatörün kapsama alanına bağlı kalmak yerine bulunduğunuz yerde en güçlü sinyale sahip ağa geçebilir. Cihazınız eSIM'i ve ağlardan en az birinin birincil LTE bantlarını desteklediği sürece, kalkışınızdan önce herhangi bir konumdan Almanya eSIM satın alıp etkinleştirebilirsiniz. Uluslararası bir sağlayıcı seçtiğinizde pasaport yüklemesi gerekmez.
 
-## Germany eSIM Registration Problems and How to Fix Them
+## Almanya eSIM Kayıt Sorunları ve Nasıl Çözülür
 
-Even when you follow every step precisely, eSIM passport verification through Video-Ident can fail. The failure patterns are well known to German carriers, and most have established workarounds. Knowing what can go wrong and how to resolve it prevents you from arriving in Germany without mobile connectivity.
+Her adımı tam olarak izleseniz bile Video-Ident üzerinden eSIM pasaport doğrulaması başarısız olabilir. Başarısızlık kalıpları Alman operatörler tarafından iyi bilinir ve çoğu yerleşik çözümlere sahiptir. Neyin ters gidebileceğini ve nasıl çözüleceğini bilmek, Almanya'ya mobil bağlantı olmadan varmanızı önler.
 
-**Problem 1: Passport glare and reflection.** The Video-Ident agent cannot read your passport because overhead lights or nearby windows create a reflective glare on the laminated data page. This is the single most common passport verification issue, accounting for roughly a third of all failed verification sessions according to user reports across travel forums. The fix is straightforward but requires attention to your physical setup. Turn off overhead lights and rely on indirect lighting from a desk lamp or natural light from a window behind you. Position your back to the window and hold the passport at a slight downward angle so that light hits the page from above rather than directly reflecting into the camera. Some experienced travelers recommend placing the passport flat on a dark, non-reflective surface such as a mouse pad or a book cover and angling the device's camera to look down at it from approximately 45 degrees. If glare persists after adjusting your position, try a different room with different lighting conditions entirely.
+**Sorun 1: Pasaport yansıması ve yansıma.** Video-Ident temsilcisi, tepe ışıkları ya da yakındaki pencereler lamine veri sayfasında yansıtıcı bir parlaklık yarattığı için pasaportunuzu okuyamaz. Bu, tek başına en yaygın pasaport doğrulama sorunudur; seyahat forumlarındaki kullanıcı raporlarına göre tüm başarısız doğrulama oturumlarının yaklaşık üçte birini oluşturur. Çözüm basittir ama fiziksel kurulumunuza dikkat gerektirir. Tepe ışıklarını kapatın ve bir masa lambasından dolaylı ışığa ya da arkanızdaki pencereden gelen doğal ışığa güvenin. Sırtınızı pencereye dönün ve pasaportu hafif aşağı açılı tutun; böylece ışık doğrudan kameraya yansımak yerine yukarıdan sayfaya düşsün. Bazı deneyimli gezginler pasaportu fare altlığı ya da kitap kapağı gibi koyu, yansıtıcı olmayan bir yüzeye düz koymayı ve cihazın kamerasını yaklaşık 45 dereceden ona bakacak şekilde açılandırmayı önerir. Konumunuzu ayarladıktan sonra yansıma devam ederse tamamen farklı aydınlatma koşullarına sahip başka bir oda deneyin.
 
-**Problem 2: Machine-readable zone (MRZ) unreadable.** The two lines of alphanumeric text at the bottom of the passport data page must be fully legible for the carrier's optical character recognition system to extract your document number, date of birth, and nationality.
+**Sorun 2: Makinede okunabilir alanın (MRZ) okunamaması.** Pasaport veri sayfasının altındaki iki satır alfanümerik metin, operatörün optik karakter tanıma sisteminin belge numaranızı, doğum tarihinizi ve uyruğunuzu çıkarabilmesi için tamamen okunabilir olmalıdır.
 
-Common causes:
+Yaygın nedenler:
 
-- Passport held too far from the camera.
-- Passport held at an angle where the camera cannot capture the full width of the MRZ.
-- Lighting creates a shadow that cuts horizontally across the bottom section.
+- Pasaportun kameradan çok uzak tutulması.
+- Pasaportun, kameranın MRZ'nin tam genişliğini yakalayamayacağı bir açıda tutulması.
+- Aydınlatmanın alt bölümü yatay olarak kesen bir gölge yaratması.
 
-The fix: hold the passport steady and flat, parallel to the camera lens, and ensure the entire bottom section fills the frame horizontally. Some agents explicitly ask you to zoom in by bringing the passport closer to the camera. Follow their instructions precisely. If you wear glasses, remove them temporarily during this step to avoid reflections.
+Çözüm: pasaportu sabit ve düz, kamera merceğine paralel tutun ve alt bölümün tamamının çerçeveyi yatay olarak doldurduğundan emin olun. Bazı temsilciler pasaportu kameraya yaklaştırarak yakınlaştırmanızı açıkça ister. Talimatlarını tam olarak izleyin. Gözlük takıyorsanız yansımalardan kaçınmak için bu adım sırasında geçici olarak çıkarın.
 
-### Lighting, Scanning, and Connection Issues
+### Aydınlatma, Tarama ve Bağlantı Sorunları
 
-**Problem 3: Internet connection drops during the Video-Ident session.** Video-Ident sessions require a stable, continuous internet connection. A dropped connection causes the session to abort, and you must restart from the beginning.
+**Sorun 3: Video-Ident oturumu sırasında internet bağlantısının kesilmesi.** Video-Ident oturumları istikrarlı, sürekli bir internet bağlantısı gerektirir. Kesilen bir bağlantı oturumun iptal olmasına neden olur ve baştan başlamanız gerekir.
 
-The fix:
+Çözüm:
 
-- Use a **Wi-Fi connection** rather than mobile data for the session -- Wi-Fi is generally more stable than cellular data for sustained video streaming.
-- If you are on mobile data, move to a location with the strongest possible signal.
-- Close all other applications on your device that might be consuming bandwidth -- streaming services, large file downloads, active video calls.
-- If your Wi-Fi is known to be unreliable, consider postponing the attempt until you have access to a stable connection, or switch to the **Post-Ident method**: visit a Deutsche Post branch with your passport and have the verification completed in person.
+- Oturum için mobil veri yerine bir **Wi-Fi bağlantısı** kullanın -- sürekli görüntü akışı için Wi-Fi genellikle hücresel veriden daha kararlıdır.
+- Mobil veri kullanıyorsanız mümkün olan en güçlü sinyale sahip bir konuma geçin.
+- Cihazınızda bant genişliği tüketebilecek diğer tüm uygulamaları kapatın -- akış hizmetleri, büyük dosya indirmeleri, etkin görüntülü görüşmeler.
+- Wi-Fi'nizin güvenilmez olduğu biliniyorsa, istikrarlı bir bağlantıya erişene kadar denemeyi ertelemeyi düşünün ya da **Post-Ident yöntemine** geçin: pasaportunuzla bir Deutsche Post şubesini ziyaret edin ve doğrulamanın yüz yüze tamamlanmasını sağlayın.
 
-**Problem 4: Passport is damaged or excessively worn.** Older passports with peeling laminate, water damage, faded ink, or creased data pages may be rejected by the Video-Ident agent.
+**Sorun 4: Pasaportun hasarlı ya da aşırı yıpranmış olması.** Soyulan laminatı, su hasarı, solmuş mürekkebi ya da kırışmış veri sayfaları olan eski pasaportlar Video-Ident temsilcisi tarafından reddedilebilir.
 
-Options if your passport is in visibly worn condition:
+Pasaportunuz görünür biçimde yıpranmışsa seçenekler:
 
-- **Try Post-Ident**: the postal worker can manually verify the document and potentially override automated rejection flags.
-- **Visit a carrier retail store** in person for a manual identity check.
-- If both alternatives fail, you will need a valid, undamaged passport to complete the registration.
+- **Post-Ident'i deneyin**: posta görevlisi belgeyi manuel olarak doğrulayabilir ve muhtemelen otomatik ret işaretlerini geçersiz kılabilir.
+- Manuel kimlik kontrolü için **bir operatör perakende mağazasını** yüz yüze ziyaret edin.
+- Her iki alternatif de başarısız olursa kaydı tamamlamak için geçerli, hasarsız bir pasaporta ihtiyacınız olur.
 
-This is one practical reason to check your passport's physical condition well before your departure date.
+Bu, pasaportunuzun fiziksel durumunu kalkış tarihinizden çok önce kontrol etmek için pratik bir nedendir.
 
-### Document and Name Mismatch Problems
+### Belge ve Ad Uyuşmazlığı Sorunları
 
-**Problem 5: Name mismatch or transliteration differences.** Non-European passports often present the holder's name in both Latin script and the native script of the issuing country.
+**Sorun 5: Ad uyuşmazlığı ya da transliterasyon farklılıkları.** Avrupa dışı pasaportlar sıklıkla sahibinin adını hem Latin alfabesiyle hem de düzenleyen ülkenin yerel yazı sistemiyle gösterir.
 
-Potential issues:
+Olası sorunlar:
 
-- The Video-Ident agent may record the wrong version.
-- The carrier's system may expect a specific transliteration that differs from what appears on the data page.
-- If the name recorded does not match the name on your payment method, the transaction may be flagged for fraud review and delayed.
+- Video-Ident temsilcisi yanlış sürümü kaydedebilir.
+- Operatörün sistemi, veri sayfasında görünenden farklı belirli bir transliterasyon bekleyebilir.
+- Kaydedilen ad ödeme yönteminizdeki adla eşleşmezse işlem sahtekârlık incelemesine işaretlenebilir ve gecikebilir.
 
-The fix: before the session ends, explicitly ask the agent to read back the full name they have recorded. Confirm that it matches the Latin-script version on your passport and the name on the payment account you used. If there is a discrepancy, request a correction before the agent finalizes the session.
+Çözüm: oturum bitmeden önce temsilciden kaydettikleri tam adı açıkça sesli olarak tekrarlamasını isteyin. Bunun pasaportunuzdaki Latin alfabesi sürümüyle ve kullandığınız ödeme hesabındaki adla eşleştiğini onaylayın. Bir tutarsızlık varsa temsilci oturumu sonlandırmadan önce düzeltme talep edin.
 
-**Problem 6: Verification rejected with no clear explanation.** Sometimes a Video-Ident session fails without the agent providing a specific reason.
+**Sorun 6: Doğrulamanın net bir açıklama olmadan reddedilmesi.** Bazen bir Video-Ident oturumu, temsilci belirli bir neden belirtmeden başarısız olur.
 
-Underlying causes typically include one of three things:
+Altta yatan nedenler tipik olarak üç şeyden birini içerir:
 
-1. The passport data did not match automated database checks (common with non-EU passports because verification databases have less comprehensive coverage of documents issued outside Europe).
-2. The agent suspected fraud because your IP address or network location differed significantly from the stated address.
-3. The carrier's verification system reached a processing limit or encountered a technical error.
+1. Pasaport verileri otomatik veri tabanı kontrolleriyle eşleşmedi (AB dışı pasaportlarda yaygındır; çünkü doğrulama veri tabanlarının Avrupa dışında düzenlenen belgeleri kapsaması daha az kapsamlıdır).
+2. IP adresiniz ya da ağ konumunuz belirttiğiniz adresten önemli ölçüde farklı olduğu için temsilci sahtekârlıktan şüphelendi.
+3. Operatörün doğrulama sistemi bir işlem sınırına ulaştı ya da teknik bir hatayla karşılaştı.
 
-The fix:
+Çözüm:
 
-- Wait at least two hours and attempt the Video-Ident session again.
-- If the carrier offers multiple verification partners (IDnow, WebID, Post-Ident), try a different partner -- different partners use different database sources and verification algorithms.
-- If the second attempt also fails, contact the carrier's customer support team by phone or visit a retail location in person. The in-person route is almost always successful when automated systems are not cooperating.
+- En az iki saat bekleyin ve Video-Ident oturumunu yeniden deneyin.
+- Operatör birden fazla doğrulama ortağı sunuyorsa (IDnow, WebID, Post-Ident), farklı bir ortak deneyin -- farklı ortaklar farklı veri tabanı kaynakları ve doğrulama algoritmaları kullanır.
+- İkinci deneme de başarısız olursa operatörün müşteri destek ekibine telefonla başvurun ya da bir perakende mağazasını yüz yüze ziyaret edin. Otomatik sistemler işbirliği yapmadığında yüz yüze yol neredeyse her zaman başarılıdır.
 
-**Problem 7: Passport number changes mid-trip after a lost passport.** If you lose your passport during your stay and obtain an emergency replacement, the document number will differ from the one used during eSIM registration.
+**Sorun 7: Seyahat ortasında kaybedilen pasaport sonrası pasaport numarasının değişmesi.** Konaklamanız sırasında pasaportunuzu kaybeder ve acil bir yedek alırsanız belge numarası eSIM kaydı sırasında kullanılandan farklı olacaktır.
 
-Key considerations:
+Kilit hususlar:
 
-- Your registration is legally tied to the original document number.
-- If the registration is checked against the new passport -- during a carrier audit, network change, or SIM swap -- the mismatch could result in service suspension.
+- Kaydınız hukuken orijinal belge numarasına bağlıdır.
+- Kayıt yeni pasaportla kontrol edilirse -- bir operatör denetimi, ağ değişikliği ya da SIM takası sırasında -- uyuşmazlık hizmet askıya alınmasıyla sonuçlanabilir.
 
-What to do:
+Ne yapmalı:
 
-- Contact the carrier's support team as soon as you receive the replacement passport.
-- Provide a scanned copy of the new passport's data page.
-- Some carriers allow updating the registered document online through your account portal; others require a new Video-Ident session.
+- Yedek pasaportu alır almaz operatörün destek ekibiyle iletişime geçin.
+- Yeni pasaportun veri sayfasının taranmış bir kopyasını sunun.
+- Bazı operatörler kayıtlı belgenin hesap portalınız üzerinden çevrimiçi güncellenmesine izin verir; diğerleri yeni bir Video-Ident oturumu gerektirir.
 
-### Post-Verification and Profile Delivery Issues
+### Doğrulama Sonrası ve Profil Teslim Sorunları
 
-**Problem 8: Germany eSIM profile does not arrive after successful verification.** Occasionally the Video-Ident session completes successfully but the Germany eSIM profile never arrives via email or push notification. This is typically a carrier system delay or message routing issue.
+**Sorun 8: Başarılı doğrulamadan sonra Almanya eSIM profilinin gelmemesi.** Bazen Video-Ident oturumu başarıyla tamamlanır ama Almanya eSIM profili e-posta ya da push bildirimi yoluyla hiç gelmez. Bu tipik olarak bir operatör sistemi gecikmesi ya da mesaj yönlendirme sorunudur.
 
-Troubleshooting steps:
+Sorun giderme adımları:
 
-1. Wait **fifteen to thirty minutes** for the email to arrive.
-2. Check your **spam and promotions folders** in case the carrier's email was filtered.
-3. If nothing arrives after thirty minutes, contact the carrier's customer support team and provide your **Video-Ident transaction ID** (received as confirmation at the end of the session).
-4. The support team can manually trigger the Germany eSIM profile delivery or resend the QR code by email. In most cases, the profile is delivered within an hour of the support request.
+1. E-postanın gelmesi için **on beş ila otuz dakika** bekleyin.
+2. Operatörün e-postası filtrelenmiş olabileceğinden **spam ve tanıtım klasörlerinizi** kontrol edin.
+3. Otuz dakika sonra hiçbir şey gelmezse operatörün müşteri destek ekibiyle iletişime geçin ve **Video-Ident işlem kimliğinizi** (oturum sonunda onay olarak alınır) sunun.
+4. Destek ekibi Almanya eSIM profil teslimini manuel olarak tetikleyebilir ya da QR kodunu e-postayla yeniden gönderebilir. Çoğu durumda profil, destek talebinden sonraki bir saat içinde teslim edilir.
 
-A practical guide to resolving eSIM activation issues beyond registration is available in the [Germany eSIM troubleshooting guide](/blog/germany-esim-troubleshooting-fix-guide/).
+Kayıt dışındaki eSIM etkinleştirme sorunlarını çözmeye yönelik pratik bir rehber [Almanya eSIM sorun giderme rehberinde](/blog/germany-esim-troubleshooting-fix-guide/) mevcuttur.
 
-## Germany eSIM Registration Timeline: What Takes How Long
+## Almanya eSIM Kayıt Zaman Çizelgesi: Ne Kadar Sürer
 
-The time cost of registration depends entirely on which path you take. An international eSIM for Germany needs none: payment, QR code by email, and installation take minutes, with activation following automatically on first connection to a German network. A local carrier eSIM adds one identity step — the Video-Ident session typically wraps in a few minutes when the camera and lighting cooperate, and the number goes live shortly after. The in-store route consumes the most clock: travel to the shop, present your passport physically, and allow roughly a quarter of an hour for the paperwork, though you leave with a working line.
+Kaydın zaman maliyeti tamamen hangi yolu seçtiğinize bağlıdır. Almanya için uluslararası bir eSIM hiçbirini gerektirmez: ödeme, e-postayla QR kodu ve kurulum dakikalar sürer; etkinleştirme Almanya ağına ilk bağlantıda otomatik olarak gerçekleşir. Yerel bir operatör eSIM'i bir kimlik adımı ekler -- kamera ve aydınlatma işbirliği yaptığında Video-Ident oturumu tipik olarak birkaç dakikada tamamlanır ve numara kısa süre sonra çalışır. Mağaza içi yol en çok zamanı tüketir: mağazaya gitmek, pasaportunuzu fiziksel olarak ibraz etmek ve evrak işleri için kabaca çeyrek saat ayırmak; yine de çalışan bir hatla ayrılırsınız.
 
-Build slack into whichever path you choose. Doing the verification at home, before departure, converts every possible failure — rejected document scans, poor video quality, unsupported devices — into a solvable problem instead of an arrival-day crisis.
+Hangi yolu seçerseniz seçin pay bırakın. Doğrulamayı evde, kalkıştan önce yapmak, olası her başarısızlığı -- reddedilen belge taramaları, kötü görüntü kalitesi, desteklenmeyen cihazlar -- varış günü krizi yerine çözülebilir bir soruna dönüştürür.
 
-## Choosing the Right Germany eSIM Path for Your Situation
+## Durumunuza Uygun Almanya eSIM Yolunu Seçmek
 
-The decision between a German carrier eSIM with passport registration and an international eSIM without registration depends on three factors: whether you need a German phone number, whether you are willing to spend fifteen to twenty minutes on identity verification, and whether your device supports eSIM at all.
+Pasaport kaydı olan bir Alman operatör eSIM'i ile kayıt olmayan uluslararası bir eSIM arasındaki karar üç faktöre bağlıdır: bir Alman telefon numarasına ihtiyacınız olup olmadığı, kimlik doğrulamasına on beş ila yirmi dakika ayırmaya razı olup olmadığınız ve cihazınızın eSIM'i destekleyip desteklemediği.
 
-### When Mobile Data Is Sufficient
+### Mobil Veri Yeterli Olduğunda
 
-**If you only need mobile data** -- maps, messaging apps, email, social media, ride-hailing, web browsing -- a [data-only Germany eSIM](/germany-esim/) from a provider such as Roami is the simplest path. No passport required, no video call, no address verification. You install the eSIM profile before departure and land in Germany with working connectivity. The cost ranges from approximately $4 to $16 for plans covering one to four weeks. Total time investment: less than five minutes. Use discount code **web20** at checkout for 20% off. If you want to test the service before buying, Roami offers a [free eSIM trial](/free-esim/) that lets you confirm device compatibility and the activation process.
+**Yalnızca mobil veriye ihtiyacınız varsa** -- haritalar, mesajlaşma uygulamaları, e-posta, sosyal medya, araç çağırma, web'de gezinme -- Roami gibi bir sağlayıcıdan alınan [yalnızca veri amaçlı Almanya eSIM'i](/germany-esim/) en basit yoldur. Pasaport gerekmez, görüntülü görüşme yok, adres doğrulaması yok. eSIM profilini kalkıştan önce kurarsınız ve Almanya'ya çalışan bir bağlantıyla inersiniz. Maliyet, bir ila dört haftayı kapsayan planlar için yaklaşık 4 ila 16 $ arasındadır. Toplam zaman yatırımı: beş dakikadan az. Ödeme sırasında **web20** indirim kodunu kullanarak %20 indirim alın. Hizmeti satın almadan önce test etmek isterseniz Roami, cihaz uyumluluğunu ve etkinleştirme sürecini onaylamanıza olanak tanıyan [ücretsiz eSIM denemesi](/free-esim/) sunar.
 
-### When You Need a German Phone Number
+### Alman Telefon Numarası Gerektiğinde
 
-**If you need a German phone number** -- for local voice calls, SMS-based two-factor authentication, or a German contact number for business purposes -- a prepaid eSIM from Telekom, Vodafone, or O2 with full passport verification is the standard route. The process takes fifteen to twenty minutes. You need your passport, a device with a front-facing camera, and a stable internet connection. Alternatively, buy a physical prepaid SIM at a carrier store after arriving in Germany. Bring your passport, complete the verification face-to-face, and leave the store with an active SIM in about ten minutes.
+**Bir Alman telefon numarasına ihtiyacınız varsa** -- yerel sesli aramalar, SMS tabanlı iki faktörlü kimlik doğrulama ya da iş amacıyla bir Alman iletişim numarası için -- Telekom, Vodafone veya O2'den tam pasaport doğrulamalı ön ödemeli bir eSIM standart yoldur. Süreç on beş ila yirmi dakika sürer. Pasaportunuza, ön kameraya sahip bir cihaza ve istikrarlı bir internet bağlantısına ihtiyacınız vardır. Alternatif olarak Almanya'ya vardıktan sonra bir operatör mağazasından fiziksel ön ödemeli SIM alın. Pasaportunuzu götürün, doğrulamayı yüz yüze tamamlayın ve yaklaşık on dakika içinde mağazadan etkin bir SIM'le ayrılın.
 
-**If you need both mobile data and a German number**, the dual-SIM approach described earlier gives you the advantages of both options. An international data eSIM handles all your internet connectivity without registration. A German prepaid SIM provides voice and SMS on a local number. Modern smartphones manage both connections simultaneously, and you can choose which line handles data, which handles calls, and how incoming calls are routed.
+**Hem mobil veri hem de Alman numarası gerekiyorsa**, daha önce açıklanan çift SIM yaklaşımı her iki seçeneğin de avantajlarını sunar. Uluslararası bir veri eSIM'i tüm internet bağlantınızı kayıt olmadan üstlenir. Almanca bir ön ödemeli SIM, yerel bir numarada ses ve SMS sağlar. Modern akıllı telefonlar her iki bağlantıyı aynı anda yönetir ve hangi hattın veriyi, hangisinin çağrıları işleyeceğini ve gelen çağrıların nasıl yönlendirileceğini siz seçebilirsiniz.
 
-### Options for Devices Without eSIM Support
+### eSIM Desteği Olmayan Cihazlar için Seçenekler
 
-**If your device does not support eSIM** -- your phone was released before 2018 or is a regional variant without eSIM hardware -- you can still use mobile services in Germany by purchasing a physical prepaid SIM card. Telekom, Vodafone, and O2 all sell prepaid SIM kits at their retail stores, at supermarket chains (Aldi, Lidl, Rewe, Edeka), and at electronics retailers (Saturn, MediaMarkt). Passport verification is conducted at the point of sale and takes approximately ten minutes. The coverage and service quality are identical to what Germany eSIM users receive.
+**Cihazınız eSIM'i desteklemiyorsa** -- telefonunuz 2018'den önce çıkmışsa ya da eSIM donanımı olmayan bölgesel bir varyantsa -- Almanya'da fiziksel bir ön ödemeli SIM kart satın alarak mobil hizmetleri kullanmaya devam edebilirsiniz. Telekom, Vodafone ve O2'nin tümü perakende mağazalarında, süpermarket zincirlerinde (Aldi, Lidl, Rewe, Edeka) ve elektronik perakendecilerinde (Saturn, MediaMarkt) ön ödemeli SIM kitleri satar. Pasaport doğrulaması satış noktasında yapılır ve yaklaşık on dakika sürer. Kapsama ve hizmet kalitesi Almanya eSIM kullanıcılarının aldığıyla aynıdır.
 
-Regardless of which path you choose, verify your device's LTE band compatibility before traveling, particularly band 20 (800 MHz). If your phone lacks band 20, an international eSIM with automatic network selection between Telekom, Vodafone, and O2 can partially compensate by connecting you to whichever carrier has the strongest signal at your location, but coverage in rural areas will still be less reliable than with a band 20-capable device.
+Hangi yolu seçerseniz seçin, seyahatten önce cihazınızın LTE band uyumluluğunu, özellikle bant 20'yi (800 MHz) doğrulayın. Telefonunuzda bant 20 yoksa, Telekom, Vodafone ve O2 arasında otomatik ağ seçimi yapan uluslararası bir eSIM, sizi bulunduğunuz yerde en güçlü sinyale sahip operatöre bağlayarak bunu kısmen telafi edebilir; ancak kırsal alanlardaki kapsama bant 20 destekli bir cihaza göre yine de daha az güvenilir olacaktır.
 
-## Germany eSIM Registration Myths That Cost Travelers Time
+## Gezginlere Zaman Kaybettiren Almanya eSIM Kayıt Mitleri
 
-The registration rules around German mobile lines generate more confusion than almost any other topic in travel connectivity, and the confusion has a cost: travelers who believe the wrong version either waste an afternoon in a shop queue or arrive with no working plan at all. Four myths are worth dismantling.
+Alman mobil hatlarıyla ilgili kayıt kuralları, seyahat bağlantısında neredeyse her konudan daha fazla karışıklık yaratır ve bu karışıklığın bir maliyeti vardır: yanlış sürüme inanan gezginler ya bir mağaza kuyruğunda öğleden sonrayı boşa harcar ya da çalışan bir plan olmadan varır. Dört mitten bahsetmeye değer.
 
-- **"All eSIMs in Germany need ID registration."** False. The registration obligation attaches to German carrier lines — prepaid and contract products sold under German consumer law. An international travel eSIM sold to a visitor is not part of that regime, which is why a Germany eSIM from a travel provider activates without a passport scan.
-- **"Airport kiosks can skip the registration."** False, and worth internalizing. A kiosk selling German prepaid products must complete the same identity verification as a carrier shop; the retail setting changes the price, not the law.
-- **"Registration is the same as a visa or residence process."** False. It is a telecom compliance step, not a migration procedure; it creates no record beyond the line's existence and does not affect your entry status.
-- **"Any photo ID will do."** False. Accepted documents are narrow: a passport for visitors from outside the EU, a national identity card for EU citizens, and specifically not a driver's licence from any country.
+- **"Almanya'daki tüm eSIM'ler kimlik kaydı gerektirir."** Yanlış. Kayıt yükümlülüğü Alman operatör hatlarına -- Alman tüketici hukuku altında satılan ön ödemeli ve sözleşmeli ürünlere -- bağlıdır. Bir ziyaretçiye satılan uluslararası bir seyahat eSIM'i bu rejimin bir parçası değildir; bu yüzden bir seyahat sağlayıcısından alınan Almanya eSIM pasaport taraması olmadan etkinleşir.
+- **"Havalimanı büfeleri kaydı atlayabilir."** Yanlış ve içselleştirmeye değer. Alman ön ödemeli ürünleri satan bir büfe, bir operatör mağazasıyla aynı kimlik doğrulamasını tamamlamak zorundadır; perakende ortamı fiyatı değiştirir, kanunu değil.
+- **"Kayıt, vize ya da oturum süreciyle aynıdır."** Yanlış. Bu bir telekom uyum adımıdır, bir göç prosedürü değil; hattın varlığının ötesinde bir kayıt oluşturmaz ve giriş durumunuzu etkilemez.
+- **"Herhangi bir fotoğraflı kimlik olur."** Yanlış. Kabul edilen belgeler dardır: AB dışından ziyaretçiler için bir pasaport, AB vatandaşları için ulusal bir kimlik kartı ve özellikle hiçbir ülkeden ehliyet değil.
 
-The practical consequence of all four: if you want to avoid registration entirely, choose an international eSIM for Germany and buy it before you fly. If you need a German phone number, accept that registration is part of the product and prepare the right document before you queue.
+Dördünün de pratik sonucu: kayıttan tamamen kaçınmak istiyorsanız Almanya için uluslararası bir eSIM seçin ve uçağa binmeden önce satın alın. Bir Alman telefon numarası gerekiyorsa, kaydın ürünün bir parçası olduğunu kabul edin ve sıraya girmeden önce doğru belgeyi hazırlayın.
 
-One nuance for longer stays: registration is a one-time event per line, not per top-up. Once a prepaid line is verified, topping up later requires no repeat of the process — which is why the sign-up cost, annoying as it feels at the time, is amortized across the whole stay. The [local carriers and prepaid guide](/blog/germany-esim-local-carriers-prepaid-guide/) covers which carriers make that first step easiest for visitors.
+Uzun konaklamalar için bir nüans: kayıt hat başına bir kerelik bir olaydır, her yükleme başına değil. Ön ödemeli bir hat doğrulandıktan sonra sonradan yükleme yapmak sürecin tekrarlanmasını gerektirmez -- bu yüzden o an can sıkıcı görünen kayıt maliyeti tüm konaklamaya yayılır. [Yerel operatörler ve ön ödemeli rehberi](/blog/germany-esim-local-carriers-prepaid-guide/), hangi operatörlerin ziyaretçiler için bu ilk adımı en kolay kıldığını ele alır.
 
-## Germany eSIM Registration: Counter Versus Online
+## Almanya eSIM Kaydı: Mağaza mi, Çevrimiçi mi?
 
-The same product — German mobile data — arrives through two completely different doors, and the door determines your paperwork, your timing and your price. Seeing the two paths side by side is the fastest way to choose.
+Aynı ürün -- Alman mobil verisi -- iki tamamen farklı kapıdan gelir ve kapı, evrakınızı, zamanlamanızı ve fiyatınızı belirler. İki yolu yan yana görmek, seçim yapmanın en hızlı yoludur.
 
-**At the counter:** you deal with a person, which is genuinely useful when your phone misbehaves or your German is thin. In exchange you accept shop hours, a queue, identity verification with the document in hand, and whatever retail markup applies at the location. Counter purchases also fail in a specific way: arriving at 21:00 on a Sunday, when nothing is open and the verification agents are off duty.
+**Kasada:** bir kişiyle muhatap olursunuz; bu, telefonunuz ters davrandığında ya da Almancanız zayıf olduğunda gerçekten faydalıdır. Karşılığında mağaza saatlerini, bir kuyruğu, belgeyi elinizde tutarak kimlik doğrulamayı ve o konumda geçerli perakende kâr marjını kabul edersiniz. Kasa alımları ayrıca belirli bir şekilde başarısız olur: Pazar günü saat 21:00'de varmak, hiçbir yer açık değilken ve doğrulama temsilcileri mesai dışındayken.
 
-**Online:** the purchase completes in minutes, activation happens whenever you choose, and an international eSIM for Germany requires no identity documents at all. The trade-offs are real but different: no human to troubleshoot in person, support through tickets or chat, and no German phone number unless you buy a carrier product through a carrier's digital channel — where the verification process simply moves to a video call rather than disappearing.
+**Çevrimiçi:** alım dakikalar içinde tamamlanır, etkinleştirme istediğiniz zaman gerçekleşir ve Almanya için uluslararası bir eSIM hiçbir kimlik belgesi gerektirmez. Ödünler gerçek ama farklıdır: yüz yüze sorun giderecek bir insan yok, destek talep ya da sohbet yoluyla ve operatörün dijital kanalı üzerinden bir operatör ürünü almadıkça Alman telefon numarası yok -- orada doğrulama süreci kaybolmak yerine basitçe görüntülü görüşmeye taşınır.
 
-A hybrid that suits many travelers: a Germany eSIM bought online for immediate data coverage, paired with a local prepaid line purchased later, once settled, if a German number turns out to matter. That order puts connectivity first and paperwork second, and it means a failed verification never leaves you offline. The timeline expectations for each step are in the [registration timeline section](/blog/germany-esim-passport-registration-requirements/) above.
+Birçok gezgine uyan bir melez: hemen veri kapsaması için çevrimiçi satın alınan bir Almanya eSIM'i, bir Alman numarası önemli çıkarsa yerleştikten sonra satın alınan yerel bir ön ödemeli hatla eşleştirmek. Bu sıralama bağlantıyı öne, evrak işini arkaya koyar ve başarısız bir doğrulamanın sizi asla çevrimdışı bırakmaması anlamına gelir. Her adım için zaman çizelgesi beklentileri yukarıdaki [kayıt zaman çizelgesi bölümünde](/blog/germany-esim-passport-registration-requirements/) yer alır.
 
-## Germany eSIM for Short Stays: When Registration Is Not Worth It
+## Kısa Konaklamalar için Almanya eSIM: Kaydın Değmediği Durumlar
 
-For very short visits — a 48-hour layover, a weekend conference, a one-night rail stop — the registration question answers itself. Run the arithmetic on time rather than money.
+Çok kısa ziyaretler için -- 48 saatlik bir aktarma, bir hafta sonu konferansı, bir gecelik tren molası -- kayıt sorusu kendi kendini yanıtlar. Aritmetiği para yerine zaman üzerinden yapın.
 
-A local prepaid Germany eSIM with a German number requires identity verification before the line works. Done in a carrier shop, that is a trip to an address during opening hours; done by video, it is a session with an agent who works set hours, which rules out the late-night arrival and the Sunday-afternoon window entirely. Against a two-day visit, the process can consume a meaningful share of the waking hours you actually have in the country.
+Alman numaralı yerel bir ön ödemeli Almanya eSIM'i, hat çalışmadan önce kimlik doğrulaması gerektirir. Bir operatör mağazasında yapıldığında bu, açılış saatlerinde bir adrese gitmek demektir; görüntülü olarak yapıldığında ise belirli saatlerde çalışan bir temsilciyle bir oturum anlamına gelir; bu da gece geç varışı ve Pazar öğleden sonrası penceresini tamamen dışlar. İki günlük bir ziyaret karşısında süreç, ülkede gerçekten sahip olduğunuz uyanık saatlerin anlamlı bir bölümünü tüketebilir.
 
-An international Germany eSIM bought before departure consumes none of them: it installs over Wi-Fi at home and activates when the plane lands. The trade-off is a data-first product without a German number — a limitation that matters little over two days of navigating, messaging and booking.
+Kalkıştan önce satın alınan uluslararası bir Almanya eSIM'i bunların hiçbirini tüketmez: evde Wi-Fi üzerinden kurulur ve uçak indiğinde etkinleşir. Ödün, Alman numarası olmayan veri öncelikli bir üründür -- iki gün boyunca yol bulma, mesajlaşma ve rezervasyon yapma sırasında pek önemsenmeyecek bir sınırlama.
 
-Three quick rules of thumb:
+Üç hızlı pratik kural:
 
-- **Up to about three days:** international eSIM only. Registration costs more time than a German number can return.
-- **One to four weeks:** decide by whether you actually need a local number. If you do, register once and stay; if not, keep the travel plan and follow the [local carriers guide](/blog/germany-esim-local-carriers-prepaid-guide/).
-- **Longer stays:** registration becomes inevitable and its cost amortizes — get it done in the first week rather than the fifth.
+- **Yaklaşık üç güne kadar:** yalnızca uluslararası eSIM. Kayıt, bir Alman numarasının geri getirebileceğinden daha fazla zaman kaybettirir.
+- **Bir ila dört hafta:** gerçekten yerel bir numaraya ihtiyacınız olup olmadığına göre karar verin. İhtiyacınız varsa bir kez kaydolun ve kalın; yoksa seyahat planında kalın ve [yerel operatörler rehberini](/blog/germany-esim-local-carriers-prepaid-guide/) izleyin.
+- **Daha uzun konaklamalar:** kayıt kaçınılmaz hale gelir ve maliyeti yayılır -- bunu beşinci haftada değil birinci haftada halledin.
 
-The mistake to avoid in both directions: registering for a number you will not use, and skipping registration on a stay long enough that repeated top-ups cost more than the one-time paperwork did.
+Her iki yönde de kaçınılması gereken hata: kullanmayacağınız bir numara için kaydolmak ve tekrarlanan yüklemelerin bir kerelik evrak işinden daha fazlaya mal olacağı kadar uzun bir konaklamada kaydı atlamak.
 
-## Conclusion
+## Sonuç
 
 
-Germany's telecommunications regulations are thorough, consistently enforced, and predictable once you understand the underlying legal structure. The TKG requires identity verification -- typically a passport check through Video-Ident or in-person at a store -- for any SIM issued by a German-licensed carrier. International eSIMs that connect through wholesale roaming agreements are not subject to this requirement and can be purchased and installed without any identity document upload. Anmeldung address registration is not required for prepaid SIM purchases of any kind. Phone compatibility is excellent across modern smartphones from all major manufacturers, with the main caveat being LTE band 20 support for rural coverage.
+Almanya'nın telekomünikasyon düzenlemeleri kapsamlıdır, tutarlı biçimde uygulanır ve altta yatan yasal yapıyı anladığınızda öngörülebilirdir. TKG, Almanya lisanslı bir operatör tarafından düzenlenen her SIM için kimlik doğrulaması -- genellikle Video-Ident yoluyla ya da mağazada yüz yüze bir pasaport kontrolü -- gerektirir. Toptan dolaşım anlaşmaları üzerinden bağlanan uluslararası eSIM'ler bu gereksinime tabi değildir ve herhangi bir kimlik belgesi yüklemesi olmadan satın alınıp kurulabilir. Anmeldung adres kaydı, her türlü ön ödemeli SIM alımı için gerekli değildir. Telefon uyumluluğu tüm büyük üreticilerin modern akıllı telefonlarında mükemmeldir; başlıca uyarı, kırsal kapsama için LTE bant 20 desteğidir.
 
-The distinction between local and international eSIMs will remain the central factor in determining whether you need to show identification for the foreseeable future. The European Electronic Communications Commission continues to harmonize telecom regulations across EU member states, but it does not mandate passport-level identity verification for international roaming services. As eSIM adoption grows and more travelers use international providers, this bifurcated system -- strict verification for domestic carriers, no verification for international roaming providers -- is likely to persist.
+Yerel ve uluslararası eSIM'ler arasındaki ayrım, öngörülebilir gelecekte kimlik göstermenizin gerekip gerekmeyeceğini belirleyen merkezî faktör olarak kalacaktır. Avrupa Elektronik İletişim Komisyonu, AB üye devletleri arasında telekom düzenlemelerini uyumlaştırmayı sürdürüyor; ancak uluslararası dolaşım hizmetleri için pasaport düzeyinde kimlik doğrulamasını zorunlu kılmıyor. eSIM benimsemesi arttıkça ve daha fazla gezgin uluslararası sağlayıcıları kullandıkça, bu ikiye ayrılmış sistemin -- yerli operatörler için sıkı doğrulama, uluslararası dolaşım sağlayıcıları için doğrulama yok -- devam etmesi muhtemeldir.
 
-Plan your connectivity before you travel. Check your device compatibility. Decide whether you need a German phone number or whether data-only service is sufficient. If you need a local number, set aside time for the Video-Ident process and prepare your passport and environment for a smooth session. If data-only is sufficient, choose a [Germany eSIM from an international provider](/germany-esim/) and install it before departure. Either way, you will arrive in Germany with a working connection for navigating the country's excellent public transport system, messaging your accommodation host, finding the best restaurants, and sharing your travels with family and friends back home.
+Bağlantınızı seyahatten önce planlayın. Cihaz uyumluluğunuzu kontrol edin. Bir Alman telefon numarasına mı ihtiyacınız olduğuna yoksa yalnızca veri hizmetinin yeterli olup olmadığına karar verin. Yerel bir numaraya ihtiyacınız varsa Video-Ident süreci için zaman ayırın ve sorunsuz bir oturum için pasaportunuzu ve ortamınızı hazırlayın. Yalnızca veri yeterliyse [uluslararası bir sağlayıcıdan Almanya eSIM](/germany-esim/) seçin ve kalkıştan önce kurun. Her iki durumda da Almanya'ya ülkenin mükemmel toplu taşıma sisteminde yol bulmak, konaklama sahibinizle mesajlaşmak, en iyi restoranları bulmak ve seyahatlerinizi evdeki aileniz ve arkadaşlarınızla paylaşmak için çalışan bir bağlantıyla varırsınız.
 
-For a comprehensive overview of all connectivity options in Germany, read the [complete travel guide](/blog/germany-esim-complete-travel-guide/). That article covers the full picture of mobile connectivity in Germany beyond the registration requirements discussed here.
+Almanya'daki tüm bağlantı seçeneklerine kapsamlı bir genel bakış için [tam seyahat rehberini](/blog/germany-esim-complete-travel-guide/) okuyun. O makale, burada ele alınan kayıt gereksinimlerinin ötesinde Almanya'daki mobil bağlantının tüm resmini kapsar.
 
-## Frequently Asked Questions
+## Sıkça Sorulan Sorular
 
-### Do I need a passport to buy a Germany eSIM?
+### Almanya eSIM almak için pasaport gerekli mi?
 
-Not from an international provider. Providers licensed outside Germany operate through roaming agreements and fall outside the scope of the TKG, so no identity document is required. A plan from a German-licensed carrier such as Telekom, Vodafone or O2 does require verification.
+Uluslararası bir sağlayıcıdan almıyorsanız gerekmez. Almanya dışında lisanslı sağlayıcılar dolaşım anlaşmaları üzerinden çalışır ve TKG kapsamı dışında kalır; bu yüzden hiçbir kimlik belgesi gerekmez. Telekom, Vodafone veya O2 gibi Almanya lisanslı bir operatörden alınan plan ise doğrulama gerektirir.
 
-### What are Germany's eSIM passport requirements under the law?
+### Kanun uyarınca Almanya'nın eSIM pasaport gereksinimleri nelerdir?
 
-The Telecommunications Act, Section 172, obliges providers of publicly available telecommunications services to collect and store the identity of every end user before activating service. This applies to German-licensed carriers, whether the SIM is physical or embedded, with no exemption for prepaid plans.
+Telekomünikasyon Kanunu, 172. madde, kamuya açık telekomünikasyon hizmeti sağlayıcılarını hizmeti etkinleştirmeden önce her son kullanıcının kimliğini toplamak ve saklamakla yükümlü kılar. Bu, SIM fiziksel ya da gömülü olsun Almanya lisanslı operatörler için geçerlidir ve ön ödemeli planlara hiçbir muafiyet tanımaz.
 
-### Can I get a Germany eSIM without a passport?
+### Pasaportsuz Almanya eSIM alabilir miyim?
 
-Yes, by buying from an international travel eSIM provider. The activation is completed online and the profile installs in minutes, with no document upload and no video session.
+Evet, uluslararası bir seyahat eSIM sağlayıcısından satın alarak. Etkinleştirme çevrimiçi tamamlanır ve profil dakikalar içinde kurulur; belge yüklemesi ve görüntülü oturum yoktur.
 
-### Does the Anmeldung address registration apply to tourists?
+### Anmeldung adres kaydı turistler için geçerli mi?
 
-The Anmeldung is a residence registration requirement for people living in Germany, not a condition of tourist connectivity. If you buy a local prepaid plan you will be asked for a German address — a hotel address is accepted — but that is a carrier requirement rather than the Anmeldung itself.
+Anmeldung, Almanya'da yaşayan kişiler için bir ikamet kaydı gereksinimidir, turist bağlantısının bir koşulu değildir. Yerel bir ön ödemeli plan alırsanız sizden Almanca bir adres -- bir otel adresi kabul edilir -- istenecektir; ancak bu, Anmeldung'un kendisi değil operatörün bir gereksinimidir.
 
-### What does the verification process actually involve?
+### Doğrulama süreci tam olarak neyi içerir?
 
-Typically Postident or Video-Ident: a video call in which you hold your passport to the camera while the system reads and verifies it, with all documentation and support in German. It usually takes between 30 minutes and 2 hours.
+Tipik olarak Postident ya da Video-Ident: sistem pasaportunuzu okuyup doğrularken onu kameraya tuttuğunuz bir görüntülü görüşme; tüm belgeler ve destek Almancadır. Genellikle 30 dakika ile 2 saat arasında sürer.
 
-### What happens if verification fails?
+### Doğrulama başarısız olursa ne olur?
 
-You may need to repeat the session with better lighting and a clearer view of the document, and rejoin any queue. Repeated failures are one of the practical reasons travellers choose an international eSIM that skips the process entirely.
-
+Daha iyi aydınlatma ve belgenin daha net bir görüntüsüyle oturumu tekrarlamanız ve varsa kuyruğa yeniden girmeniz gerekebilir. Tekrarlanan başarısızlıklar, gezginlerin süreci tamamen atlayan uluslararası bir eSIM'i seçmesinin pratik nedenlerinden biridir.

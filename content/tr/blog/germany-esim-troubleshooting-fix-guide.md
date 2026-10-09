@@ -1,11 +1,11 @@
 ---
-title: "Germany eSIM Not Working? Fixes for Common Issues"
-description: "No signal after landing? QR code won't scan? APN not working? This guide fixes common Germany eSIM issues. Roami support 24/7."
-keywords: ["Germany eSIM troubleshooting", "Germany eSIM not working", "Germany eSIM APN settings", "Germany eSIM no signal"]
+title: "Almanya eSIM Çalışmıyor mu? Yaygın Sorunlar için Çözümler"
+description: "İndikten sonra sinyal yok mu? QR kod okunmuyor mu? APN çalışmıyor mu? Bu rehber Almanya eSIM sorunlarını çözer. Roami 7/24 destek."
+keywords: ["Germany eSIM troubleshooting", "Germany eSIM not working", "Germany eSIM APN settings", "Germany eSIM no signal", "almanya esim sorun giderme", "almanya esim çalışmıyor", "almanya esim sinyal yok", "almanya esim apn ayarları"]
 date: 2026-10-09T00:00:00Z
 lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Roami, yılda 1 milyondan fazla gezgine hizmet veren güvenilir eSIM planları sunar ve gezginlerin dünya genelinde bağlantıda kalmasına yardımcı olmak için otomatik yerel ağ geçişini destekler."
 image: "/img/esim/germany/germany-esim-troubleshooting-fix-guide.jpg"
 categories: ["Germany", "eSIM", "Travel"]
 tags: ["Germany eSIM", "Travel eSIM"]
@@ -13,561 +13,560 @@ readingTime: 23
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Germany eSIM Not Working? A Complete Troubleshooting Guide"
-productsTitle: "Popular eSIM Plans"
-hotPostsTitle: "Hot Articles"
-recentPostsTitle: "Recent Posts"
+h1title: "Almanya eSIM Çalışmıyor mu? Tam Sorun Giderme Rehberi"
+productsTitle: "Popüler eSIM Planları"
+hotPostsTitle: "Öne Çıkan Makaleler"
+recentPostsTitle: "Son Yazılar"
 products:
-  - name: "Europe eSIM"
+  - name: "Avrupa eSIM"
     flag: "/img/flags/eu.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "europe"
-  - name: "USA eSIM"
+  - name: "ABD eSIM"
     flag: "/img/flags/us.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "united-states"
-  - name: "Japan eSIM"
+  - name: "Japonya eSIM"
     flag: "/img/flags/jp.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "japan"
 # Recent posts (sidebar)
 recentPosts:
-  - title: "eSIM Compatible Devices List"
+  - title: "eSIM Uyumlu Cihazlar Listesi"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
+  - title: "2026 Platformlar Arası eSIM Transferi"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Compatibility Guide"
+  - title: "iPhone SE eSIM Uyumluluk Rehberi"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
+  - title: "iPhone 11 eSIM Tam Kurulum Rehberi"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-One in five first-time eSIM users in Germany encounters an activation or connectivity issue, according to complaints logged with the Bundesnetzagentur and consumer forums like heise.de. The most common problems — "No Service" after landing, activation failures, blank screens, and QR codes that will not scan — all trace back to a small set of root causes, each with a known fix that takes under five minutes. Your Germany eSIM shows no signal and you need it fixed now; this guide covers exactly how.
+Bundesnetzagentur'a ve heise.de gibi tüketici forumlarına iletilen şikayetlere göre, Almanya'da eSIM'i ilk kez kullananların beşte biri bir etkinleştirme veya bağlantı sorunuyla karşılaşıyor. En sık görülen sorunlar — inişten sonra "Servis Yok", etkinleştirme hataları, boş ekranlar ve okunmayan QR kodlar — hepsi küçük bir dizi ana nedene dayanıyor ve her birinin beş dakikadan kısa sürede uygulanabilen bilinen bir çözümü var. Almanya eSIM'iniz sinyal vermiyor ve hemen düzeltilmesi gerekiyor; bu rehber tam olarak bunun nasıl yapılacağını anlatıyor.
 
-**The short answer:** a Germany eSIM that shows no signal after landing is almost always a settings problem, not a broken plan. Check three things in order — is **data roaming** switched on for the eSIM line, is **airplane mode** off, and is the eSIM set as the **default data line** — because those three account for the large majority of "no service" cases. If data flows but nothing loads, the cause is usually **APN settings**; if it connects and runs slowly, it is congestion or a throttled plan. The lookup table below maps each symptom to the exact fix.
+**Kısa yanıt:** inişten sonra sinyal göstermeyen bir Almanya eSIM neredeyse her zaman bir plan sorunu değil, bir ayar sorunudur. Sırayla üç şeyi kontrol edin — eSIM hattı için **veri dolaşımı** açık mı, **uçak modu** kapalı mı ve eSIM **varsayılan veri hattı** olarak mı ayarlanmış — çünkü "servis yok" vakalarının büyük çoğunluğu bu üçünden kaynaklanır. Veri akıyor ama hiçbir şey yüklenmiyorsa, neden genellikle **APN ayarlarıdır**; bağlanıyor ama yavaş çalışıyorsa, bu yoğunluk veya hızı kısıtlanmış bir plandır. Aşağıdaki başvuru tablosu her belirtiyi doğru çözüme eşler.
 
-For coverage across German regions, see the [Germany coverage guide](/blog/germany-esim-coverage-cities-trains-alps/). This guide covers every common Germany eSIM failure mode in detail. Use the lookup table below to map your specific symptom to the right section, then follow the step-by-step fix.llow the deep dives for each problem category. By the end you will have a systematic approach to diagnosing and fixing the issue yourself, plus a clear understanding of when to contact support and what information to have ready.
+Almanya bölgelerindeki kapsama alanı için [Almanya kapsama rehberine](/blog/germany-esim-coverage-cities-trains-alps/) bakın. Bu rehber her yaygın Almanya eSIM arıza biçimini ayrıntılı olarak ele alıyor. Kendi belirtinizi doğru bölüme eşlemek için aşağıdaki başvuru tablosunu kullanın, ardından adım adım çözümü izleyin. Her sorun kategorisi için ayrıntılı incelemelere geçin. Sonunda sorunu kendiniz teşhis edip çözmek için sistematik bir yaklaşıma ve desteğe ne zaman başvuracağınıza ve hangi bilgileri hazır bulundurmanız gerektiğine dair net bir anlayışa sahip olacaksınız.
 
-Most people arrive here after a single search: **Germany eSIM no signal**. That symptom has five common causes and they are not fixed in the same way, so the lookup table is the place to start rather than the first fix you happen to read about.
+Çoğu kişi buraya tek bir aramayla geliyor: **Almanya eSIM sinyal yok**. Bu belirtinin beş yaygın nedeni vardır ve hepsi aynı şekilde düzeltilmez, bu yüzden başlangıç noktası okuduğunuz ilk çözüm değil, başvuru tablosudur.
 
-If you have not yet chosen an eSIM provider for your trip, the complete [Germany eSIM buyer's guide](/germany-esim/) compares the major options across coverage, pricing and ease of setup. This article assumes you already have a Germany eSIM and need it working now.
+Yolculuğunuz için henüz bir eSIM sağlayıcısı seçmediyseniz, tam [Almanya eSIM satın alma rehberi](/germany-esim/) kapsama, fiyatlandırma ve kurulum kolaylığı açısından başlıca seçenekleri karşılaştırır. Bu makale, elinizde zaten bir Almanya eSIM olduğunu ve şimdi çalışması gerektiğini varsayar.
 
-## Germany eSIM Troubleshooting: Problem to Fix Lookup Table
+## Almanya eSIM Sorun Giderme: Sorundan Çözüme Başvuru Tablosu
 
-The table below lets you jump directly to the fix for your specific situation. Each row matches a common symptom to the section of this guide that addresses it.
+Aşağıdaki tablo, kendi durumunuz için doğrudan çözüme atlamanızı sağlar. Her satır yaygın bir belirtiyi, bu rehberin onu ele alan bölümüyle eşler.
 
-*Fix sequences below reflect device behaviour and menu paths observed across current iOS and Android releases as of 8 October 2026; menu labels may differ on older or newer firmware.*
+*Aşağıdaki çözüm dizileri, 8 Ekim 2026 itibarıyla mevcut iOS ve Android sürümlerinde gözlemlenen cihaz davranışını ve menü yollarını yansıtır; eski veya yeni ürün yazılımlarında menü etiketleri farklılık gösterebilir.*
 
-| Symptom | Most Likely Cause | Go To Section |
+| Belirti | En Olası Neden | Gidilecek Bölüm |
 |---|---|---|
-| No signal at all after landing in Germany | Airplane mode still on, or data roaming disabled | No Service After Arrival |
-| eSIM shows "Activation Failed" or "Unable to Activate" | Weak network at installation location, or provider timeout | Activation Failures |
-| Mobile data icon appears but nothing loads | APN settings missing or incorrect | APN Settings |
-| Internet works but is very slow | Network congestion, wrong network selected, or throttled plan | Slow Data Speeds |
-| QR code will not scan or says invalid | Screen brightness too low, or code expired | QR Code Problems |
-| Home SIM works but eSIM shows no data | Dual SIM conflict, wrong line set for data | Dual SIM Conflicts |
-| Phone shows "Emergency Calls Only" | Network registration failure, or phone carrier-locked | Emergency Calls Only |
-| Provider demands passport but verification fails | Document photo blurry, or name mismatch | Passport Registration Failures |
-| eSIM stuck on "Activating" for hours | Backend provisioning delay, or manual network selection needed | Activation Failures |
-| Signal drops every few minutes | Network switching instability, or VoLTE configuration issue | Signal Drops Frequently |
+| Almanya'ya indikten sonra hiç sinyal yok | Uçak modu hâlâ açık veya veri dolaşımı devre dışı | Varıştan Sonra Servis Yok |
+| eSIM "Etkinleştirme Başarısız" veya "Etkinleştirilemiyor" gösteriyor | Kurulum yerinde zayıf ağ veya sağlayıcı zaman aşımı | Etkinleştirme Hataları |
+| Mobil veri simgesi görünüyor ama hiçbir şey yüklenmiyor | APN ayarları eksik veya yanlış | APN Ayarları |
+| İnternet çalışıyor ama çok yavaş | Ağ yoğunluğu, yanlış ağ seçilmiş veya hızı kısıtlanmış plan | Yavaş Veri Hızları |
+| QR kod okunmuyor veya geçersiz diyor | Ekran parlaklığı çok düşük veya kod süresi dolmuş | QR Kod Sorunları |
+| Ana SIM çalışıyor ama eSIM veri göstermiyor | Çift SIM çakışması, veri için yanlış hat seçilmiş | Çift SIM Çakışmaları |
+| Telefon "Yalnızca Acil Aramalar" gösteriyor | Ağ kaydı başarısız veya telefon operatöre kilitli | Yalnızca Acil Aramalar |
+| Sağlayıcı pasaport istiyor ama doğrulama başarısız | Belge fotoğrafı bulanık veya isim uyuşmuyor | Pasaport Kaydı Hataları |
+| eSIM saatlerce "Etkinleştiriliyor" durumunda takılı | Arka uç sağlama gecikmesi veya manuel ağ seçimi gerekli | Etkinleştirme Hataları |
+| Sinyal her birkaç dakikada bir düşüyor | Ağ geçişi kararsızlığı veya VoLTE yapılandırma sorunu | Sık Sinyal Düşüşleri |
 
-Bookmark this table or take a screenshot before you travel. The most common scenario -- arriving in Germany and seeing zero signal -- has a fix that takes about thirty seconds, and knowing which section to read can save you the first hour of your trip.
+Bu tabloyu yer imlerine ekleyin veya yola çıkmadan önce ekran görüntüsü alın. En yaygın senaryo — Almanya'ya varıp sıfır sinyal görmek — yaklaşık otuz saniye süren bir çözüme sahiptir ve hangi bölümü okuyacağınızı bilmek, yolculuğunuzun ilk saatini kurtarabilir.
 
-## No Service After Arrival: The Most Common Germany eSIM Problem
+## Varıştan Sonra Servis Yok: En Yaygın Almanya eSIM Sorunu
 
-The single most frequent support request from eSIM users arriving in Germany is some variation of "I landed two hours ago and my eSIM still shows No Service." The frustration is understandable, and if you are still on the ground the [airport arrival guide](/blog/germany-esim-airport-arrival-guide/) walks through the first-hour checklist at FRA, MUC and BER before you start changing settings. You installed the Germany eSIM profile before you left home, the confirmation email said everything was ready, and yet the phone displays the same empty signal indicator it would show in the middle of the Atlantic.
+Almanya'ya gelen eSIM kullanıcılarından gelen en sık destek talebi, "iki saat önce indim ve eSIM'im hâlâ Servis Yok gösteriyor"un bir varyasyonudur. Hayal kırıklığı anlaşılır ve hâlâ yerdeyseniz, [havaalanı varış rehberi](/blog/germany-esim-airport-arrival-guide/) ayarları değiştirmeye başlamadan önce FRA, MUC ve BER'deki ilk saat kontrol listesini adım adım anlatır. Almanya eSIM profilini evden ayrılmadan önce kurdunuz, onay e-postası her şeyin hazır olduğunu söyledi, ama telefon yine de Atlantik'in ortasında göstereceği aynı boş sinyal göstergesini gösteriyor.
 
-The cause in roughly 80 percent of these cases is not a broken eSIM. It is a combination of two settings that behave differently once your phone connects to a foreign network for the first time. Understanding how network registration works — a process standardised in the [GSMA's eSIM specifications](https://www.gsma.com/esim) and documented by the German carriers themselves — helps clarify why these settings matter.
+Bu vakaların yaklaşık yüzde 80'inde neden bozuk bir eSIM değildir. Telefonunuz ilk kez yabancı bir ağa bağlandığında farklı davranan iki ayarın birleşimidir. Ağ kaydının nasıl çalıştığını anlamak — [GSMA'nın eSIM spesifikasyonlarında](https://www.gsma.com/esim) standartlaştırılan ve Alman operatörlerin kendileri tarafından belgelenen bir süreç — bu ayarların neden önemli olduğunu netleştirmeye yardımcı olur.
 
-### Verifying Data Roaming and Line Assignment
+### Veri Dolaşımını ve Hat Atamasını Doğrulama
 
-**Step one: verify data roaming is enabled for the eSIM line.**
+**Birinci adım: eSIM hattı için veri dolaşımının etkin olduğunu doğrulayın.**
 
-Every modern smartphone requires data roaming to be turned on line by line. This is a security design, not a bug: the phone cannot assume that you want data charges on every line you have installed, and the [EU roaming regulations](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) require carriers to prevent accidental roaming charges. When you land in Germany and the phone searches for a local network, it will refuse to establish a data connection on the eSIM unless roaming is explicitly permitted for that line. This catches more travelers than any other single issue.
+Her modern akıllı telefon, veri dolaşımının hat hat açılmasını gerektirir. Bu bir güvenlik tasarımıdır, bir hata değil: telefon, kurduğunuz her hatta veri ücreti istediğinizi varsayamaz ve [AB dolaşım düzenlemeleri](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) operatörlerin kazara dolaşım ücretlerini önlemesini gerektirir. Almanya'ya indiğinizde ve telefon yerel bir ağ aradığında, o hat için dolaşıma açıkça izin verilmediği sürece eSIM üzerinden veri bağlantısı kurmayı reddedecektir. Bu, diğer herhangi bir tek sorundan daha fazla gezgini yakalar.
 
-On an iPhone, go to **Settings > Mobile Service** (or Cellular), tap the Germany eSIM line, and make sure "Data Roaming" is toggled on. On Android, the path is **Settings > Connections > SIM Manager**, then select the Germany eSIM and enable "Data Roaming" or "Roaming" depending on your manufacturer's labels. Samsung devices sometimes place this under **Settings > Connections > Mobile Networks > Roaming**. Google Pixel phones put it under **Settings > Network & Internet > SIMs > [eSIM name] > Roaming**.
+Bir iPhone'da **Ayarlar > Mobil Servis** (veya Hücresel) bölümüne gidin, Almanya eSIM hattına dokunun ve "Veri Dolaşımı"nın açık olduğundan emin olun. Android'de yol **Ayarlar > Bağlantılar > SIM Yöneticisi**'dir, ardından Almanya eSIM'ini seçin ve üreticinizin etiketlerine bağlı olarak "Veri Dolaşımı" veya "Dolaşım"ı etkinleştirin. Samsung cihazlar bunu bazen **Ayarlar > Bağlantılar > Mobil Ağlar > Dolaşım** altına yerleştirir. Google Pixel telefonlar bunu **Ayarlar > Ağ ve İnternet > SIM'ler > [eSIM adı] > Dolaşım** altına koyar.
 
-### Step two: confirm the eSIM is set as the primary data line
+### İkinci adım: eSIM'in birincil veri hattı olarak ayarlandığını doğrulayın
 
-Dual SIM configurations are the norm for international travelers, and a common mistake is leaving your home physical SIM as the default for mobile data. Your home carrier will not grant a data connection in Germany unless you have an active international roaming plan on that line, and most travelers switch to eSIM specifically to avoid those charges. The phone's data selector may still point to the home line after you land.
+Çift SIM yapılandırmaları uluslararası gezginler için normdur ve yaygın bir hata, evdeki fiziksel SIM'inizi mobil veri için varsayılan olarak bırakmaktır. Ev operatörünüz, o hatta etkin bir uluslararası dolaşım planınız yoksa Almanya'da veri bağlantısı vermez ve çoğu gezgin tam da bu ücretlerden kaçınmak için eSIM'e geçer. Telefonun veri seçicisi indikten sonra hâlâ ev hattını işaret ediyor olabilir.
 
-On an iPhone, go to **Settings > Mobile Service > Cellular Data** and choose the Germany eSIM line. On Android, go to **Settings > Connections > SIM Manager** and under "Preferred SIM for" select the Germany eSIM for mobile data. Samsung phones call this "Mobile data" in the SIM manager; Pixel phones label it "Preferred SIM for data."
+Bir iPhone'da **Ayarlar > Mobil Servis > Hücresel Veri** bölümüne gidin ve Almanya eSIM hattını seçin. Android'de **Ayarlar > Bağlantılar > SIM Yöneticisi** bölümüne gidin ve "Şunun için tercih edilen SIM" altında mobil veri için Almanya eSIM'ini seçin. Samsung telefonlar SIM yöneticisinde buna "Mobil veri" der; Pixel telefonlar "Veri için tercih edilen SIM" olarak etiketler.
 
-### Using Airplane Mode and Manual Network Selection
+### Uçak Modunu ve Manuel Ağ Seçimini Kullanma
 
-**Step three: toggle airplane mode for sixty seconds, then manually select a German network.**
+**Üçüncü adım: uçak modunu altmış saniye açıp kapatın, ardından manuel olarak bir Alman ağı seçin.**
 
-When a phone has been in airplane mode during a flight and then reconnects to a network in a different country, the network registration process can stall. The phone may have cached the last known home network and keeps trying to reach it. Turning airplane mode on, waiting a full sixty seconds, and turning it off forces the modem to initiate a fresh network scan in Germany. This single action resolves the Germany eSIM not working after arrival more often than any other troubleshooting step. If it does not fix your case, Roami offers 24/7 live customer support to help resolve connectivity problems.
+Bir telefon uçuş sırasında uçak modunda kaldıktan sonra farklı bir ülkedeki bir ağa yeniden bağlandığında, ağ kayıt süreci durabilir. Telefon son bilinen ev ağını önbelleğe almış olabilir ve ona ulaşmaya çalışmaya devam eder. Uçak modunu açmak, tam altmış saniye beklemek ve kapatmak, modemi Almanya'da yeni bir ağ taraması başlatmaya zorlar. Bu tek eylem, varıştan sonra Almanya eSIM çalışmıyor sorununu diğer herhangi bir sorun giderme adımından daha sık çözer. Durumunuzu düzeltmezse, Roami bağlantı sorunlarını çözmeye yardımcı olmak için 7/24 canlı müşteri desteği sunar.
 
-### Step four: manually select a German network
+### Dördüncü adım: manuel olarak bir Alman ağı seçin
 
-If you still see No Service after enabling roaming, setting the data line correctly, and cycling airplane mode, the phone may be stuck trying to authenticate with a network that does not have a roaming agreement with your provider. Manual network selection bypasses this entirely.
+Dolaşımı etkinleştirdikten, veri hattını doğru ayarladıktan ve uçak modunu açıp kapattıktan sonra hâlâ Servis Yok görüyorsanız, telefon sağlayıcınızla dolaşım anlaşması olmayan bir ağla kimlik doğrulamaya çalışmakta takılı kalmış olabilir. Manuel ağ seçimi bunu tamamen atlar.
 
-Disable automatic network selection and pick one of the three German national networks manually. On iPhone, go to **Settings > Mobile Service > Network Selection**, turn off "Automatic," and wait for the list of available networks to appear. Select either Telekom, Vodafone, or O2. On Android, go to **Settings > Connections > Mobile Networks > Network Operators**, tap "Search networks," and select one. If the first network you try does not connect, repeat with the other two.
+Otomatik ağ seçimini devre dışı bırakın ve üç Alman ulusal ağından birini manuel olarak seçin. iPhone'da **Ayarlar > Mobil Servis > Ağ Seçimi** bölümüne gidin, "Otomatik"i kapatın ve kullanılabilir ağlar listesinin görünmesini bekleyin. Telekom, Vodafone veya O2'den birini seçin. Android'de **Ayarlar > Bağlantılar > Mobil Ağlar > Ağ Operatörleri** bölümüne gidin, "Ağları ara"ya dokunun ve birini seçin. İlk denediğiniz ağ bağlanmazsa, diğer ikisiyle tekrarlayın.
 
-One of these three will work if the Germany eSIM profile is valid and your phone is unlocked. If none of them connects, proceed to the activation failures section below.
+Almanya eSIM profili geçerliyse ve telefonunuz kilitli değilse bu üçünden biri çalışacaktır. Hiçbiri bağlanmazsa, aşağıdaki etkinleştirme hataları bölümüne geçin.
 
-### Understanding the Network Handover on Arrival
+### Varışta Ağ Devrini Anlama
 
-When you fly into Germany, your phone attempts to register on a German network using the international roaming credentials stored in the eSIM profile. This process, called Location Update, involves:
+Almanya'ya uçtuğunuzda, telefonunuz eSIM profilinde saklanan uluslararası dolaşım kimlik bilgilerini kullanarak bir Alman ağına kaydolmaya çalışır. Konum Güncellemesi adı verilen bu süreç şunları içerir:
 
-1. Your phone sending its International Mobile Subscriber Identity (IMSI) to the German network.
-2. The German network querying your Germany eSIM provider's home network to verify that you are allowed to roam.
+1. Telefonunuzun Uluslararası Mobil Abone Kimliğini (IMSI) Alman ağına göndermesi.
+2. Alman ağının, dolaşmanıza izin verilip verilmediğini doğrulamak için Almanya eSIM sağlayıcınızın ana ağını sorgulaması.
 
-The entire exchange takes one to three seconds under normal conditions, but several factors can cause it to fail.
+Tüm alışveriş normal koşullar altında bir ila üç saniye sürer, ancak birkaç faktör başarısız olmasına neden olabilir.
 
-Three factors commonly cause the Location Update to fail:
+Konum Güncellemesinin başarısız olmasına yaygın olarak üç faktör neden olur:
 
-**1. Timing / activation window.** If you installed the eSIM profile before your trip but the provider sets the activation start time to your arrival date, the roaming credentials may not yet be active on the provider's side. The profile is present on your phone, but the backend systems consider it inactive. The fix is usually to wait thirty to sixty minutes or to trigger a manual reconnection by toggling airplane mode.
+**1. Zamanlama / etkinleştirme penceresi.** Yolculuğunuzdan önce eSIM profilini kurduysanız ama sağlayıcı etkinleştirme başlangıç zamanını varış tarihinize ayarladıysa, dolaşım kimlik bilgileri sağlayıcı tarafında henüz etkin olmayabilir. Profil telefonunuzda mevcuttur, ancak arka uç sistemleri onu etkin saymaz. Çözüm genellikle otuz ila altmış dakika beklemek veya uçak modunu açıp kapatarak manuel bir yeniden bağlantı tetiklemektir.
 
-**2. Network preference caching.** Your phone remembers which network it last used, and if it was connected to a home network before the flight, it may keep trying that network even when it is unreachable from Germany. The phone eventually times out and falls back to automatic selection, but the timeout period varies by manufacturer:
+**2. Ağ tercihi önbelleğe alma.** Telefonunuz en son hangi ağı kullandığını hatırlar ve uçuştan önce bir ev ağına bağlıysa, Almanya'dan erişilemez olsa bile o ağı denemeye devam edebilir. Telefon sonunda zaman aşımına uğrar ve otomatik seçime geri döner, ancak zaman aşımı süresi üreticiye göre değişir:
 
-- Apple devices tend to recover within two to three minutes.
-- Some Android models, particularly older Samsung and Xiaomi devices, can remain stuck for up to fifteen minutes.
-- Cycling airplane mode bypasses this cache immediately.
+- Apple cihazlar iki ila üç dakika içinde toparlanma eğilimindedir.
+- Bazı Android modelleri, özellikle daha eski Samsung ve Xiaomi cihazları, on beş dakikaya kadar takılı kalabilir.
+- Uçak modunu açıp kapatmak bu önbelleği hemen atlar.
 
-**3. O2 network compatibility.** O2 relies more heavily on Band 20 (800 MHz) for rural coverage and Band 3 (1800 MHz) for urban capacity. Some phones, particularly those sold in Asian markets, lack Band 20 support entirely. If you manually select O2 and get no signal, your phone may simply lack the radio hardware for that network's primary frequency. Switch to Telekom or Vodafone instead.
+**3. O2 ağ uyumluluğu.** O2, kırsal kapsama için Band 20'ye (800 MHz) ve kentsel kapasite için Band 3'e (1800 MHz) daha fazla güvenir. Bazı telefonlar, özellikle Asya pazarlarında satılanlar, Band 20 desteğinden tamamen yoksundur. O2'yi manuel olarak seçip sinyal alamıyorsanız, telefonunuz o ağın birincil frekansı için radyo donanımından yoksun olabilir. Bunun yerine Telekom veya Vodafone'a geçin.
 
-If you are traveling with an iPhone 14 or later that was purchased in the United States, those models have no physical SIM tray and rely on eSIM exclusively. The troubleshooting process is identical, but the stakes are higher because you have no fallback option. Make sure your Germany eSIM is working before you leave the airport, and consider carrying a secondary eSIM profile from a different provider as a backup.
+Amerika Birleşik Devletleri'nde satın alınan iPhone 14 veya sonrası ile seyahat ediyorsanız, bu modellerde fiziksel SIM yuvası yoktur ve yalnızca eSIM'e güvenir. Sorun giderme süreci aynıdır, ancak riskler daha yüksektir çünkü yedek seçeneğiniz yoktur. Havaalanından ayrılmadan önce Almanya eSIM'inizin çalıştığından emin olun ve yedek olarak farklı bir sağlayıcıdan ikincil bir eSIM profili taşımayı düşünün.
 
-## Germany eSIM Activation Failures: Provider-Specific Issues and Fixes
+## Almanya eSIM Etkinleştirme Hataları: Sağlayıcıya Özgü Sorunlar ve Çözümler
 
-An activation failure presents itself differently depending on the provider and the phone model. Some users see a pop-up that says "Unable to Activate eSIM" immediately after scanning the QR code. Others see the Germany eSIM profile appear in the phone's settings but remain stuck on "Activating" for hours. A third group receives the QR code by email, scans it successfully, but the provider's backend never completes the provisioning.
+Bir etkinleştirme hatası, sağlayıcıya ve telefon modeline bağlı olarak kendini farklı şekilde gösterir. Bazı kullanıcılar QR kodu taradıktan hemen sonra "eSIM Etkinleştirilemiyor" yazan bir açılır pencere görür. Diğerleri Almanya eSIM profilinin telefon ayarlarında göründüğünü ama saatlerce "Etkinleştiriliyor" durumunda takılı kaldığını görür. Üçüncü bir grup QR kodu e-posta ile alır, başarıyla tarar, ancak sağlayıcının arka ucu sağlamayı hiçbir zaman tamamlamaz.
 
-### QR Code Scanning and Installation Issues
+### QR Kod Tarama ve Kurulum Sorunları
 
-**Most QR failures happen during initial installation, and the cause is rarely a faulty code.**
+**QR hatalarının çoğu ilk kurulum sırasında olur ve neden nadiren hatalı bir koddur.**
 
-When a QR code fails to scan, the cause is almost never a faulty code. eSIM QR codes use a standardized GSMA format that encodes the SM-DP+ server address and the activation code. The data is checked by a checksum. If the QR code is damaged on the screen or on paper, the phone simply refuses to register it.
+Bir QR kod taranamadığında, neden neredeyse hiçbir zaman hatalı bir kod değildir. eSIM QR kodları, SM-DP+ sunucu adresini ve etkinleştirme kodunu kodlayan standart bir GSMA formatı kullanır. Veriler bir sağlama toplamı ile kontrol edilir. QR kod ekranda veya kağıtta hasarlıysa, telefon onu kaydetmeyi reddeder.
 
-The most effective fix is to increase screen brightness to maximum before scanning. Many travelers scan from a laptop or tablet screen with the brightness turned down to conserve battery. The phone's camera struggles to resolve the fine black-and-white modules at low brightness, particularly on OLED screens where the contrast ratio shifts with brightness levels. Turning brightness to 100 percent resolves roughly half of all QR scanning failures.
+En etkili çözüm, taramadan önce ekran parlaklığını maksimuma çıkarmaktır. Çoğu gezgin, pili korumak için parlaklığı düşürülmüş bir dizüstü veya tablet ekranından tarar. Telefonun kamerası, düşük parlaklıkta ince siyah-beyaz modülleri çözmekte zorlanır, özellikle kontrast oranının parlaklık seviyeleriyle değiştiği OLED ekranlarda. Parlaklığı yüzde 100'e çıkarmak tüm QR tarama hatalarının yaklaşık yarısını çözer.
 
-If the QR code came as an email attachment in PDF format, open the PDF on a laptop, zoom to fill the screen, and scan from the laptop display rather than the phone screen. Some email apps compress images in their preview pane, which degrades QR code resolution. Opening the PDF separately bypasses this compression.
+QR kod PDF formatında bir e-posta eki olarak geldiyse, PDF'yi bir dizüstü bilgisayarda açın, ekranı dolduracak şekilde yakınlaştırın ve telefon ekranı yerine dizüstü ekranından tarayın. Bazı e-posta uygulamaları önizleme bölmesindeki görüntüleri sıkıştırır, bu da QR kod çözünürlüğünü bozar. PDF'yi ayrı açmak bu sıkıştırmayı atlar.
 
-For providers that support manual entry, you can skip the QR code entirely. The activation information includes a numeric SM-DP+ address and an activation code. On an iPhone, tap "Enter Details Manually" at the bottom of the QR code scanning screen and type in the address and code. On Android, the option appears as "Enter activation code instead" or similar wording during the Add a Germany eSIM wizard. This bypasses every scanning-related failure.
+Manuel girişi destekleyen sağlayıcılar için QR kodu tamamen atlayabilirsiniz. Etkinleştirme bilgileri sayısal bir SM-DP+ adresi ve bir etkinleştirme kodu içerir. iPhone'da QR kod tarama ekranının altındaki "Ayrıntıları Elle Gir"e dokunun ve adresi ve kodu yazın. Android'de bu seçenek, Almanya eSIM'i Ekle sihirbazı sırasında "Bunun yerine etkinleştirme kodunu gir" veya benzer bir ifade olarak görünür. Bu, tarama ile ilgili her arızayı atlar.
 
-### When Activation Gets Stuck
+### Etkinleştirme Takıldığında
 
-**The classic case is a profile that installs cleanly but then sits on “Activating” indefinitely.**
+**Klasik durum, temiz bir şekilde kurulan ama sonra süresiz olarak "Etkinleştiriliyor" durumunda kalan bir profildir.**
 
-This is the second most common activation failure pattern, and it usually indicates a backend provisioning delay rather than a phone issue. The Germany eSIM profile has been downloaded onto the device's embedded SIM chip, but the provider's server has not yet signaled the German network to accept your IMSI for data traffic.
+Bu, ikinci en yaygın etkinleştirme hatası biçimidir ve genellikle bir telefon sorunu yerine bir arka uç sağlama gecikmesine işaret eder. Almanya eSIM profili cihazın gömülü SIM çipine indirilmiştir, ancak sağlayıcının sunucusu henüz Alman ağına IMSI'nizi veri trafiği için kabul etmesi sinyalini göndermemiştir.
 
-The first thing to try is a phone restart. Not a quick power cycle that some phones treat as a sleep-wake event, but a full shut down, a thirty-second wait, and a fresh boot. This triggers the phone to re-register on the network with the newly installed Germany eSIM profile.
+İlk denenecek şey bir telefon yeniden başlatmasıdır. Bazı telefonların uyku-uyanma olayı olarak gördüğü hızlı bir kapatma-açma değil, tam bir kapatma, otuz saniyelik bekleme ve yeni bir açılış. Bu, telefonun yeni kurulan Almanya eSIM profiliyle ağa yeniden kaydolmasını tetikler.
 
-If a restart does not activate within five minutes, delete the Germany eSIM profile and reinstall from scratch. You can reinstall a Germany eSIM if you delete it, provided the original QR code or activation code is still accessible. On iPhone, go to **Settings > Mobile Service**, tap the eSIM line, and scroll to the bottom to select "Remove Mobile Service Plan." On Android, go to **Settings > Connections > SIM Manager**, tap the Germany eSIM, and choose "Remove" or "Delete." After removal, go through the installation process again with the original QR code or manual entry details. Some providers limit the number of reinstallations, so check the provider's terms before deleting. Most international eSIM providers permit at least three reinstalls per plan.
+Yeniden başlatma beş dakika içinde etkinleştirmezse, Almanya eSIM profilini silin ve sıfırdan yeniden kurun. Orijinal QR kod veya etkinleştirme kodu hâlâ erişilebilirse, bir Almanya eSIM'i sildikten sonra yeniden kurabilirsiniz. iPhone'da **Ayarlar > Mobil Servis** bölümüne gidin, eSIM hattına dokunun ve en alta kaydırarak "Mobil Servis Planını Kaldır"ı seçin. Android'de **Ayarlar > Bağlantılar > SIM Yöneticisi** bölümüne gidin, Almanya eSIM'ine dokunun ve "Kaldır" veya "Sil"i seçin. Kaldırdıktan sonra, orijinal QR kod veya manuel giriş bilgileriyle kurulum sürecini tekrar yapın. Bazı sağlayıcılar yeniden kurulum sayısını sınırlar, bu yüzden silmeden önce sağlayıcının şartlarını kontrol edin. Çoğu uluslararası eSIM sağlayıcısı plan başına en az üç yeniden kuruluma izin verir.
 
-### Provider-Specific Activation Notes
+### Sağlayıcıya Özgü Etkinleştirme Notları
 
-Each carrier runs activation differently, and the differences decide how long you wait:
+Her operatör etkinleştirmeyi farklı şekilde yürütür ve farklılıklar ne kadar bekleyeceğinizi belirler:
 
-Telekom eSIM activation requires the passport verification process to be fully completed before the Germany eSIM profile becomes active:
+Telekom eSIM etkinleştirmesi, Almanya eSIM profilinin etkin olmasından önce pasaport doğrulama sürecinin tamamen tamamlanmasını gerektirir:
 
-- If you ordered a Telekom eSIM with a German phone number, the provider runs a background check against the Bundesnetzagentur's database that can take **five minutes to two hours**.
-- The Germany eSIM profile may install immediately, but data and voice will not work until the verification clears.
-- During this window, the phone may show "E" or "G" (EDGE or GPRS) rather than "4G" or "5G," or alternate between "No Service" and "Emergency Calls Only."
-- This is normal for Telekom -- it indicates the backend registration is pending, not that anything is broken.
-- For travelers who prefer to skip this verification, a [Germany eSIM plan](/germany-esim/) from an international provider requires no passport and activates instantly.
+- Alman telefon numaralı bir Telekom eSIM sipariş ettiyseniz, sağlayıcı **beş dakikadan iki saate** kadar sürebilen Bundesnetzagentur veritabanına karşı bir arka plan kontrolü yürütür.
+- Almanya eSIM profili hemen kurulabilir, ancak doğrulama tamamlanana kadar veri ve ses çalışmayacaktır.
+- Bu pencere sırasında telefon "4G" veya "5G" yerine "E" veya "G" (EDGE veya GPRS) gösterebilir veya "Servis Yok" ile "Yalnızca Acil Aramalar" arasında gidip gelebilir.
+- Bu Telekom için normaldir -- arka uç kaydının beklemede olduğunu gösterir, bir şeyin bozuk olduğunu değil.
+- Bu doğrulamayı atlamayı tercih eden gezginler için, uluslararası bir sağlayıcıdan alınan [Almanya eSIM planı](/germany-esim/) pasaport gerektirmez ve anında etkinleşir.
 
-Vodafone Germany eSIM activation similarly depends on the completion of the Video-Ident or Post-Ident process:
+Vodafone Almanya eSIM etkinleştirmesi de benzer şekilde Video-Ident veya Post-Ident sürecinin tamamlanmasına bağlıdır:
 
-- Vodafone's system typically activates within **fifteen minutes** of a successful video identification session.
-- During peak periods (Monday mornings, the start of major trade fairs), the activation queue can extend to **two hours**.
-- If you have completed identification and the eSIM remains inactive after two hours, contact Vodafone support with your order number and the Video-Ident reference code.
+- Vodafone'un sistemi genellikle başarılı bir video kimlik doğrulama oturumundan sonra **on beş dakika** içinde etkinleşir.
+- Yoğun dönemlerde (Pazartesi sabahları, büyük ticaret fuarlarının başlangıcı), etkinleştirme kuyruğu **iki saate** kadar uzayabilir.
+- Kimlik doğrulamayı tamamladıysanız ve eSIM iki saat sonra hâlâ etkin değilse, sipariş numaranız ve Video-Ident referans kodunuzla Vodafone desteğiyle iletişime geçin.
 
-O2 Germany eSIM activation is the fastest of the three domestic carriers:
+O2 Almanya eSIM etkinleştirmesi üç yerli operatör arasında en hızlısıdır:
 
-- Often completes within **five minutes** of passport verification.
-- Known issue: the system occasionally flags foreign passports for manual review, which can delay activation by **24 to 48 hours**.
-- O2 customer service can escalate flagged cases, but resolution time depends on the review team's workload.
+- Genellikle pasaport doğrulamasından sonra **beş dakika** içinde tamamlanır.
+- Bilinen sorun: sistem bazen yabancı pasaportları manuel inceleme için işaretler, bu da etkinleştirmeyi **24 ila 48 saat** geciktirebilir.
+- O2 müşteri hizmetleri işaretlenen vakaları yükseltebilir, ancak çözüm süresi inceleme ekibinin iş yüküne bağlıdır.
 
-International Germany eSIM providers that do not require passport verification avoid all the TKG-related delays entirely. The eSIM profile is pre-provisioned on the provider's side before the QR code is generated, so scanning and activation typically complete within seconds. If an international eSIM remains stuck on activating, the issue is almost always related to the phone's network registration rather than the provider's backend, and the manual network selection fix described in the No Service section will usually resolve it.
+Pasaport doğrulaması gerektirmeyen uluslararası Almanya eSIM sağlayıcıları, TKG ile ilgili tüm gecikmeleri tamamen önler. eSIM profili, QR kod oluşturulmadan önce sağlayıcı tarafında önceden sağlanır, bu yüzden tarama ve etkinleştirme genellikle saniyeler içinde tamamlanır. Uluslararası bir eSIM etkinleştirmede takılı kalırsa, sorun neredeyse her zaman sağlayıcının arka ucu değil telefonun ağ kaydıyla ilgilidir ve Servis Yok bölümünde açıklanan manuel ağ seçimi çözümü genellikle bunu çözer.
 
-## Germany eSIM APN Settings Not Working: Step-by-Step Fixes
+## Almanya eSIM APN Ayarları Çalışmıyor: Adım Adım Çözümler
 
-APN stands for Access Point Name. It is the gateway that tells your phone which server to use for internet traffic. Every mobile network operator has its own APN, and eSIM profiles rarely configure this automatically. The profile includes the basic network credentials, but the APN field is left blank on many international eSIMs because the provider cannot know which German network you will be roaming on at any given moment.
+APN, Erişim Noktası Adı anlamına gelir. Telefonunuza internet trafiği için hangi sunucuyu kullanacağını söyleyen geçittir. Her mobil ağ operatörünün kendi APN'si vardır ve eSIM profilleri bunu nadiren otomatik olarak yapılandırır. Profil temel ağ kimlik bilgilerini içerir, ancak APN alanı birçok uluslararası eSIM'de boş bırakılır çünkü sağlayıcı herhangi bir anda hangi Alman ağında dolaşacağınızı bilemez.
 
-When the APN is missing or incorrect, your phone shows the mobile data icon (LTE, 4G, 5G) with full signal bars, but nothing loads. Browsers time out. WhatsApp messages fail to send. Speed tests show zero throughput. The phone is registered on the network and has an IP address assigned, but the data pathway through the APN gateway is blocked.
+APN eksik veya yanlış olduğunda, telefonunuz mobil veri simgesini (LTE, 4G, 5G) tam sinyal çubuklarıyla gösterir, ancak hiçbir şey yüklenmez. Tarayıcılar zaman aşımına uğrar. WhatsApp mesajları gönderilemez. Hız testleri sıfır verim gösterir. Telefon ağa kayıtlıdır ve bir IP adresi atanmıştır, ancak APN geçidi üzerinden veri yolu engellenmiştir.
 
-### How to Check If APN Is the Problem
+### APN'nin Sorun Olup Olmadığını Nasıl Kontrol Ederim
 
-The single most reliable test is to open a web browser and try to load any page. If the page starts loading after a few seconds, APN is not your problem. If the page times out or shows a proxy error while the signal indicator shows a data connection, APN is the likely culprit.
+En güvenilir test, bir web tarayıcısı açıp herhangi bir sayfayı yüklemeye çalışmaktır. Sayfa birkaç saniye sonra yüklenmeye başlarsa, APN sorununuz değildir. Sinyal göstergesi bir veri bağlantısı gösterirken sayfa zaman aşımına uğrar veya bir proxy hatası gösterirse, APN muhtemel suçludur.
 
-A second test is to check the APN settings currently configured on your phone. On iPhone, go to **Settings > Mobile Service > [eSIM name] > Mobile Data Network**. If the APN field is blank, or if it contains a generic string like "internet" or "data" that does not match your provider's requirements, you need to update it. On Android, go to **Settings > Connections > Mobile Networks > Access Point Names**, select the APN associated with your eSIM, and check the fields.
+İkinci bir test, telefonunuzda şu anda yapılandırılmış APN ayarlarını kontrol etmektir. iPhone'da **Ayarlar > Mobil Servis > [eSIM adı] > Mobil Veri Ağı** bölümüne gidin. APN alanı boşsa veya sağlayıcınızın gereksinimleriyle eşleşmeyen "internet" veya "data" gibi genel bir dize içeriyorsa, güncellemeniz gerekir. Android'de **Ayarlar > Bağlantılar > Mobil Ağlar > Erişim Noktası Adları** bölümüne gidin, eSIM'inizle ilişkili APN'yi seçin ve alanları kontrol edin.
 
-### APN Settings for Each German Network
+### Her Alman Ağı için APN Ayarları
 
-The APN for any German network when using an international eSIM is almost always `roami` or the provider's own APN string. However, it is worth knowing the native APN for each German carrier in case your provider instructs you to use the local network APN instead.
+Uluslararası bir eSIM kullanırken herhangi bir Alman ağı için APN neredeyse her zaman `roami` veya sağlayıcının kendi APN dizesidir. Ancak, sağlayıcınız bunun yerine yerel ağ APN'sini kullanmanızı söylerse diye her Alman operatörün yerel APN'sini bilmeye değer.
 
-For Telekom (Deutsche Telekom) native SIMs and some MVNOs: `internet.t-mobile.de`
+Telekom (Deutsche Telekom) yerel SIM'leri ve bazı MVNO'lar için: `internet.t-mobile.de`
 
-For Vodafone Germany: `web.vodafone.de`
+Vodafone Almanya için: `web.vodafone.de`
 
-For O2 Germany (Telefonica): `pinternet.interkom.de` (fallback: `internet`)
+O2 Almanya (Telefonica) için: `pinternet.interkom.de` (yedek: `internet`)
 
-For international Germany eSIM providers: the APN string is typically provided in your setup instructions.
+Uluslararası Almanya eSIM sağlayıcıları için: APN dizesi genellikle kurulum talimatlarınızda verilir.
 
-### Step-by-Step APN Entry for iPhone and Android
+### iPhone ve Android için Adım Adım APN Girişi
 
-**On iPhone**, open **Settings > Mobile Service** and tap the eSIM line that is having problems. Tap **Mobile Data Network**. If you see pre-populated fields, do not delete them unless instructed by your provider. Scroll to the APN field. Enter the correct APN string exactly as provided by your eSIM provider. For international eSIMs that use multiple German networks, the provider will specify a universal APN and may also require a username and password. Most international eSIMs leave username and password blank. Tap the back arrow to save. Turn mobile data off and on again, or restart the phone.
+**iPhone'da**, **Ayarlar > Mobil Servis** bölümünü açın ve sorun yaşayan eSIM hattına dokunun. **Mobil Veri Ağı**'na dokunun. Önceden doldurulmuş alanlar görürseniz, sağlayıcınız talimat vermedikçe bunları silmeyin. APN alanına kaydırın. Doğru APN dizesini eSIM sağlayıcınız tarafından sağlandığı şekilde tam olarak girin. Birden fazla Alman ağı kullanan uluslararası eSIM'ler için sağlayıcı evrensel bir APN belirtecek ve ayrıca bir kullanıcı adı ve parola gerektirebilir. Çoğu uluslararası eSIM kullanıcı adı ve parolayı boş bırakır. Kaydetmek için geri okuna dokunun. Mobil veriyi kapatıp tekrar açın veya telefonu yeniden başlatın.
 
-**On Android**, open **Settings > Connections > Mobile Networks > Access Point Names**. Tap the **Add** button or the plus icon in the top right. Enter the APN name (this is a label, can be anything) and the APN field with the string from your provider. Leave username and password blank unless specified. Tap the three-dot menu and select **Save**. Tap the radio button next to the new APN entry to select it as active. Restart the phone.
+**Android'de**, **Ayarlar > Bağlantılar > Mobil Ağlar > Erişim Noktası Adları** bölümünü açın. Sağ üstteki **Ekle** düğmesine veya artı simgesine dokunun. APN adını (bu bir etikettir, herhangi bir şey olabilir) ve sağlayıcınızdan alınan dizeyle APN alanını girin. Belirtilmedikçe kullanıcı adı ve parolayı boş bırakın. Üç nokta menüsüne dokunun ve **Kaydet**'i seçin. Etkin olarak seçmek için yeni APN girişinin yanındaki radyo düğmesine dokunun. Telefonu yeniden başlatın.
 
-### Why APN settings sometimes reset
+### APN ayarları neden bazen sıfırlanır
 
-A less common but infuriating APN problem occurs when the settings you entered disappear after a phone restart or after switching networks. This happens because some eSIM profiles include a hidden carrier bundle that overwrites user-entered APN fields on each network registration event. iPhone carrier bundles, which are small configuration files pushed by the network, can reset APN values during a network update.
+Daha az yaygın ama sinir bozucu bir APN sorunu, girdiğiniz ayarların bir telefon yeniden başlatmasından veya ağ değiştirdikten sonra kaybolmasıdır. Bu, bazı eSIM profillerinin her ağ kayıt olayında kullanıcı tarafından girilen APN alanlarının üzerine yazan gizli bir operatör paketi içermesi nedeniyle olur. Ağ tarafından gönderilen küçük yapılandırma dosyaları olan iPhone operatör paketleri, bir ağ güncellemesi sırasında APN değerlerini sıfırlayabilir.
 
-The fix is to check your APN settings after every network change and after every phone restart until you have confirmed they are stable. Some international providers send an over-the-air configuration profile that sets the APN automatically and prevents carrier bundle overwrites. If your provider offers this, install the configuration profile from the link in your confirmation email.
+Çözüm, sabit olduklarını doğrulayana kadar her ağ değişikliğinden ve her telefon yeniden başlatmasından sonra APN ayarlarınızı kontrol etmektir. Bazı uluslararası sağlayıcılar, APN'yi otomatik olarak ayarlayan ve operatör paketi üzerine yazmalarını önleyen havadan bir yapılandırma profili gönderir. Sağlayıcınız bunu sunuyorsa, onay e-postanızdaki bağlantıdan yapılandırma profilini kurun.
 
-### APN and MMS: a note for German phone numbers.
+### APN ve MMS: Alman telefon numaraları için bir not.
 
-If your Germany eSIM includes a German phone number (common with Telekom, Vodafone, and O2 domestic eSIMs), you may also need MMS proxy and MMS port settings to send picture messages. For Telekom: MMS proxy is `010.128.051.046`, MMS port is `8080` or `9201`. For Vodafone: MMS proxy is `010.128.052.017` or `web.vodafone.de`, MMS port is `8080` or `80`. For O2: MMS proxy is `082.113.005.008`, MMS port is `8080`. International data-only eSIMs do not support SMS or MMS, so these fields are irrelevant.
+Almanya eSIM'iniz bir Alman telefon numarası içeriyorsa (Telekom, Vodafone ve O2 yerel eSIM'lerinde yaygın), resimli mesaj göndermek için MMS proxy ve MMS bağlantı noktası ayarlarına da ihtiyacınız olabilir. Telekom için: MMS proxy `010.128.051.046`, MMS bağlantı noktası `8080` veya `9201`. Vodafone için: MMS proxy `010.128.052.017` veya `web.vodafone.de`, MMS bağlantı noktası `8080` veya `80`. O2 için: MMS proxy `082.113.005.008`, MMS bağlantı noktası `8080`. Uluslararası yalnızca veri eSIM'leri SMS veya MMS'i desteklemez, bu yüzden bu alanlar önemsizdir.
 
-| Issue | Symptom | Most Likely Cause | Fix | Time to Fix |
+| Sorun | Belirti | En Olası Neden | Çözüm | Çözüm Süresi |
 |-------|---------|------------------|-----|-------------|
-| No signal after landing | "No Service" on eSIM line | Data roaming disabled | Enable data roaming for eSIM line | 30 seconds |
-| Data icon but nothing loads | 4G/5G shows but apps fail | APN missing or incorrect | Enter correct APN for network | 2 minutes |
-| Activation stuck | "Activating" for hours | Backend provisioning delay | Restart phone; if persists, reinstall eSIM | 5 minutes |
-| Slow speeds | <5 Mbps in city center | Network congestion | Switch networks manually or use auto-switch | 1 minute |
-| QR code won't scan | Camera can't read code | Low brightness or reflections | Max brightness, flat surface, clean camera | 30 seconds |
-| Dual SIM no data | Home SIM works, eSIM doesn't | Wrong default data line | Set eSIM as default data line | 30 seconds |
-| Emergency calls only | Can't register on network | Carrier-locked phone or provisioning error | Verify unlock status; reinstall eSIM | 5 minutes |
-| Passport verification fails | Upload rejected | Blurry photo or name mismatch | Retake in good lighting; match name exactly | 10 minutes |
-| Signal drops frequently | Disconnects every few minutes | Network switching instability | Manual network selection to one carrier | 1 minute |
+| İnişten sonra sinyal yok | eSIM hattında "Servis Yok" | Veri dolaşımı devre dışı | eSIM hattı için veri dolaşımını etkinleştirin | 30 saniye |
+| Veri simgesi var ama hiçbir şey yüklenmiyor | 4G/5G görünüyor ama uygulamalar başarısız | APN eksik veya yanlış | Ağ için doğru APN'yi girin | 2 dakika |
+| Etkinleştirme takıldı | Saatlerce "Etkinleştiriliyor" | Arka uç sağlama gecikmesi | Telefonu yeniden başlatın; sürerse eSIM'i yeniden kurun | 5 dakika |
+| Yavaş hızlar | Şehir merkezinde <5 Mbps | Ağ yoğunluğu | Ağları manuel değiştirin veya otomatik geçiş kullanın | 1 dakika |
+| QR kod okunmuyor | Kamera kodu okuyamıyor | Düşük parlaklık veya yansımalar | Maksimum parlaklık, düz yüzey, temiz kamera | 30 saniye |
+| Çift SIM veri yok | Ana SIM çalışıyor, eSIM çalışmıyor | Yanlış varsayılan veri hattı | eSIM'i varsayılan veri hattı yapın | 30 saniye |
+| Yalnızca acil aramalar | Ağa kaydolamıyor | Operatöre kilitli telefon veya sağlama hatası | Kilit açma durumunu doğrulayın; eSIM'i yeniden kurun | 5 dakika |
+| Pasaport doğrulaması başarısız | Yükleme reddedildi | Bulanık fotoğraf veya isim uyuşmazlığı | İyi ışıkta yeniden çekin; ismi tam eşleştirin | 10 dakika |
+| Sinyal sık düşüyor | Her birkaç dakikada bağlantı kesiliyor | Ağ geçişi kararsızlığı | Tek bir operatöre manuel ağ seçimi | 1 dakika |
 
-## Germany eSIM Slow Data Speeds: Diagnosing Network Congestion
+## Almanya eSIM Yavaş Veri Hızları: Ağ Yoğunluğunu Teşhis Etme
 
-A Germany eSIM slow data speed fix depends entirely on which network you are connected to and where you are using it. Germany's mobile infrastructure is generally excellent in cities and along major transport corridors but varies significantly by region and by network operator. The Telekom network consistently ranks first in independent speed tests conducted by the Bundesnetzagentur and by organizations like heise.de, with average download speeds around 120 Mbps in urban areas and 40 Mbps in rural regions. Vodafone averages 85 Mbps urban and 25 Mbps rural. O2 trails at 55 Mbps urban and 12 Mbps rural. These averages mask substantial variation at specific locations and times of day.
+Almanya eSIM yavaş veri hızı çözümü tamamen hangi ağa bağlı olduğunuza ve onu nerede kullandığınıza bağlıdır. Almanya'nın mobil altyapısı şehirlerde ve büyük ulaşım koridorları boyunca genellikle mükemmeldir, ancak bölgeye ve ağ operatörüne göre önemli ölçüde değişir. Telekom ağı, Bundesnetzagentur ve heise.de gibi kuruluşlar tarafından yürütülen bağımsız hız testlerinde sürekli olarak birinci sırada yer alır; kentsel alanlarda ortalama indirme hızı yaklaşık 120 Mbps ve kırsal bölgelerde 40 Mbps'tir. Vodafone kentsel 85 Mbps ve kırsal 25 Mbps ortalamaya sahiptir. O2, kentsel 55 Mbps ve kırsal 12 Mbps ile geride kalır. Bu ortalamalar belirli konumlarda ve günün saatlerinde önemli değişkenliği gizler.
 
-### Network Congestion and How to Route Around It
+### Ağ Yoğunluğu ve Etrafından Nasıl Dolaşılır
 
-**Network congestion is the single most common cause of slow data in Germany.**
+**Ağ yoğunluğu, Almanya'da yavaş verinin en yaygın tek nedenidir.**
 
-Like every mobile market globally, Germany's networks experience peak congestion at predictable times:
+Dünya genelindeki her mobil pazar gibi, Almanya'nın ağları da öngörülebilir zamanlarda yoğunluk zirveleri yaşar:
 
-- In major cities like Berlin, Munich, Hamburg, and Frankfurt, the busy hour runs from roughly 5:00 PM to 8:00 PM local time on weekdays, when commuters are using their phones on public transport and at transit hubs.
-- During large events, major city center grounds see data demand rise several times over compared to a normal week, as operators like Telekom report during festivals and match days.
-- Shopping districts in December produce similar spikes across city centers.
+- Berlin, Münih, Hamburg ve Frankfurt gibi büyük şehirlerde, yoğun saat hafta içi yerel saatle yaklaşık 17:00 ile 20:00 arasındadır; yolcular telefonlarını toplu taşımada ve ulaşım merkezlerinde kullanırken.
+- Büyük etkinlikler sırasında, başlıca şehir merkezi alanları normal bir haftaya kıyasla birkaç kat daha fazla veri talebi görür; Telekom gibi operatörler bunu festivallerde ve maç günlerinde bildirir.
+- Aralık ayında alışveriş bölgeleri şehir merkezlerinde benzer zirveler üretir.
 
-If you are experiencing slow speeds during these periods, the most effective fix is to switch networks. Services that support automatic network switching between Telekom, Vodafone, and O2 can route around congestion by selecting whichever network is least loaded at your current location. This is a feature worth checking for when you choose a [Germany eSIM plan](/germany-esim/) provider.
+Bu dönemlerde yavaş hızlar yaşıyorsanız, en etkili çözüm ağları değiştirmektir. Telekom, Vodafone ve O2 arasında otomatik ağ geçişini destekleyen hizmetler, mevcut konumunuzda en az yüklü olan ağı seçerek yoğunluğun etrafından dolaşabilir. Bu, bir [Almanya eSIM planı](/germany-esim/) sağlayıcısı seçerken kontrol etmeye değer bir özelliktir.
 
-If your eSIM is locked to a single network, try manual network selection to switch to a different one. Here is how the three networks compare:
+eSIM'iniz tek bir ağa kilitliyse, farklı bir ağa geçmek için manuel ağ seçimini deneyin. Üç ağ şu şekilde karşılaştırılır:
 
-- **Telekom**: usually the fastest but also the most congested because it has the largest subscriber base.
-- **Vodafone**: offers a middle ground with generally good speeds and moderate congestion.
-- **O2**: the slowest on average but is often the least congested, which means it can be faster than the other two at peak times in specific locations.
+- **Telekom**: genellikle en hızlısı ama aynı zamanda en yoğunu çünkü en büyük abone tabanına sahip.
+- **Vodafone**: genellikle iyi hızlar ve orta düzeyde yoğunluk ile bir orta yol sunar.
+- **O2**: ortalamada en yavaşı ama genellikle en az yoğun olanı, bu da belirli konumlarda yoğun saatlerde diğer ikisinden daha hızlı olabileceği anlamına gelir.
 
-### Signal Strength and Building Penetration
+### Sinyal Gücü ve Bina Geçirgenliği
 
-**Signal strength and building penetration.** German building construction affects mobile signals substantially:
+**Sinyal gücü ve bina geçirgenliği.** Alman bina yapımı mobil sinyalleri önemli ölçüde etkiler:
 
-- Many older buildings in Berlin and other cities have thick stone walls and windows with metallic coatings that attenuate radio signals.
-- If you are inside a hotel, restaurant, or museum and seeing slow speeds, step outside or move near a window and test again.
-- If the speed improves significantly, you are dealing with a building penetration issue rather than a network problem.
+- Berlin'deki ve diğer şehirlerdeki birçok eski binada kalın taş duvarlar ve radyo sinyallerini zayıflatan metalik kaplamalı pencereler vardır.
+- Bir otel, restoran veya müze içindeyseniz ve yavaş hızlar görüyorsanız, dışarı çıkın veya bir pencereye yaklaşın ve tekrar test edin.
+- Hız önemli ölçüde iyileşirse, bir ağ sorunu değil bir bina geçirgenliği sorunuyla karşı karşıyasınız.
 
-A related issue affects ICE trains. The Deutsche Bahn high-speed rail network passes through frequent tunnels:
+İlgili bir sorun ICE trenlerini etkiler. Deutsche Bahn yüksek hızlı demiryolu ağı sık sık tünellerden geçer:
 
-- The Cologne-Frankfurt line has 30 tunnels in 180 kilometers.
-- The new Stuttgart-Ulm line also has extensive tunnel sections.
-- Inside tunnels, signal drops entirely for 30 to 120 seconds. When the train exits, your phone needs to re-establish a connection, which can take another 10 to 30 seconds.
-- This is not a fix that any eSIM can address — it is a physical limitation of tunnel coverage. However, Telekom has invested most heavily in tunnel coverage and holds a meaningful advantage on ICE routes, as shown on their [5G coverage page](https://www.telekom.de/netz/5g).
+- Köln-Frankfurt hattı 180 kilometrede 30 tünele sahiptir.
+- Yeni Stuttgart-Ulm hattı da kapsamlı tünel bölümlerine sahiptir.
+- Tünellerin içinde sinyal 30 ila 120 saniye boyunca tamamen düşer. Tren çıktığında, telefonunuzun bağlantıyı yeniden kurması gerekir, bu da 10 ila 30 saniye daha sürebilir.
+- Bu hiçbir eSIM'in çözebileceği bir sorun değildir — tünel kapsamasının fiziksel bir sınırlamasıdır. Ancak Telekom tünel kapsamasına en fazla yatırım yapmıştır ve [5G kapsama sayfasında](https://www.telekom.de/netz/5g) gösterildiği gibi ICE güzergahlarında anlamlı bir avantaja sahiptir.
 
-For step-by-step setup instructions, see the [Germany eSIM installation guide](/blog/germany-esim-installation-activation-setup/).
+Adım adım kurulum talimatları için [Almanya eSIM kurulum rehberine](/blog/germany-esim-installation-activation-setup/) bakın.
 
-### Data Throttling and Fair Use Policies
+### Veri Kısıtlama ve Adil Kullanım Politikaları
 
-If your eSIM plan has a "fair use" data cap, your speeds may be throttled after you exceed a certain threshold. Many travel eSIMs advertise "unlimited" data but include fine print:
+eSIM planınızın bir "adil kullanım" veri sınırı varsa, belirli bir eşiği aştıktan sonra hızlarınız kısıtlanabilir. Birçok seyahat eSIM'i "sınırsız" veri reklamı yapar ama ince yazı içerir:
 
-- Fair use policies typically reduce speeds after 1 GB, 3 GB, or 5 GB per day, depending on the plan.
-- A plan marked as unlimited at full speed may actually throttle to 128 kbps or 256 kbps after the fair use threshold.
-- At throttled speeds, web browsing becomes frustrating and video streaming becomes impossible.
+- Adil kullanım politikaları genellikle plana bağlı olarak günde 1 GB, 3 GB veya 5 GB sonrasında hızları düşürür.
+- Tam hızda sınırsız olarak işaretlenen bir plan, adil kullanım eşiğinden sonra aslında 128 kbps veya 256 kbps'ye kısıtlayabilir.
+- Kısıtlanmış hızlarında, web'de gezinme sinir bozucu hale gelir ve video akışı imkansız olur.
 
-Check your plan's fair use policy before blaming the network or your settings. If you are throttled, the only fix is to purchase a top-up or a new plan with a higher threshold. Some providers show your current data usage in their app or via an online dashboard. Others require you to track usage manually.
+Ağı veya ayarlarınızı suçlamadan önce planınızın adil kullanım politikasını kontrol edin. Kısıtlandıysanız, tek çözüm daha yüksek bir eşiğe sahip bir ek paket veya yeni bir plan satın almaktır. Bazı sağlayıcılar mevcut veri kullanımınızı uygulamalarında veya çevrimiçi bir kontrol panelinde gösterir. Diğerleri kullanımı manuel olarak izlemenizi gerektirir.
 
-### APN-induced speed reduction.
+### APN kaynaklı hız düşüşü.
 
-A misconfigured APN can also reduce speeds. If the APN is set to a generic proxy rather than the direct data gateway, all your traffic routes through an intermediate server that adds latency and reduces throughput. This is more common with MVNOs and international providers than with direct network operators. If your speeds are consistently slow regardless of location and time, double-check the APN settings and compare them against your provider's official documentation.
+Yanlış yapılandırılmış bir APN de hızları düşürebilir. APN, doğrudan veri geçidi yerine genel bir proxy'ye ayarlanmışsa, tüm trafiğiniz gecikme ekleyen ve verimi azaltan bir ara sunucudan geçer. Bu, doğrudan ağ operatörlerinden çok MVNO'lar ve uluslararası sağlayıcılarla daha yaygındır. Konum ve saat ne olursa olsun hızlarınız sürekli yavaşsa, APN ayarlarını iki kez kontrol edin ve bunları sağlayıcınızın resmi belgeleriyle karşılaştırın.
 
-## QR Code Problems: When Your eSIM Won't Scan
+## QR Kod Sorunları: eSIM'iniz Taramadığında
 
-QR code scanning failures account for roughly fifteen percent of all eSIM support contacts. The failure modes vary, but the underlying causes are consistent and almost always fixable without contacting support.
+QR kod tarama hataları tüm eSIM destek kişilerinin yaklaşık yüzde on beşini oluşturur. Arıza biçimleri değişir, ancak temel nedenler tutarlıdır ve neredeyse her zaman destekle iletişime geçmeden düzeltilebilir.
 
-### QR Code Generation and Scanning Issues
+### QR Kod Oluşturma ve Tarama Sorunları
 
-**The first possibility is a QR code that was generated incorrectly.**
+**İlk olasılık, yanlış oluşturulmuş bir QR koddur.**
 
-The first possibility is that the QR code itself was generated with errors:
+İlk olasılık, QR kodun kendisinin hatalarla oluşturulmuş olmasıdır:
 
-- eSIM QR codes use the GSMA's SP-48 standard, which encodes the SM-DP+ server address, the activation code, and optionally a confirmation code.
-- The data is protected by a CRC32 checksum. If the checksum is invalid, the phone rejects the code with a generic "Invalid QR Code" or "Unable to Activate eSIM" error.
-- This is rare -- the GSMA standard handles error detection at multiple levels -- but it does happen when providers use custom QR generation tools rather than the standard libraries.
+- eSIM QR kodları, SM-DP+ sunucu adresini, etkinleştirme kodunu ve isteğe bağlı olarak bir onay kodunu kodlayan GSMA'nın SP-48 standardını kullanır.
+- Veriler bir CRC32 sağlama toplamı ile korunur. Sağlama toplamı geçersizse, telefon kodu genel bir "Geçersiz QR Kod" veya "eSIM Etkinleştirilemiyor" hatasıyla reddeder.
+- Bu nadirdir -- GSMA standardı hata algılamayı birden fazla düzeyde işler -- ama sağlayıcılar standart kütüphaneler yerine özel QR oluşturma araçları kullandığında olur.
 
-If the QR code in your email or on your provider's website appears pixelated, blurry, or distorted, request a new one. Most providers regenerate QR codes on demand from their customer dashboard or by contacting support. Do not attempt to scan a pixelated QR code repeatedly; each failed scan attempt can temporarily lock the activation code on the server side to prevent brute-force attacks.
+E-postanızdaki veya sağlayıcınızın web sitesindeki QR kod pikselleşmiş, bulanık veya bozuk görünüyorsa, yenisini isteyin. Çoğu sağlayıcı QR kodları müşteri panosundan veya destekle iletişime geçerek talep üzerine yeniden oluşturur. Pikselleşmiş bir QR kodu tekrar tekrar taramaya çalışmayın; her başarısız tarama girişimi, kaba kuvvet saldırılarını önlemek için sunucu tarafında etkinleştirme kodunu geçici olarak kilitleyebilir.
 
-### Phone camera issues with QR scanning
+### QR taramada telefon kamerası sorunları
 
-The phone camera needs to focus on the QR code as a flat surface. Follow these tips:
+Telefon kamerasının QR koda düz bir yüzey olarak odaklanması gerekir. Şu ipuçlarını izleyin:
 
-- Hold the phone steady at a distance of 10 to 15 centimeters from the code.
-- If the code is on a phone screen, turn the brightness to maximum and reduce the display's auto-dim timeout so it does not dim during scanning.
-- If the code is curved (wrapped around a slightly bent paper) or the screen has reflections, try flattening the surface or changing the angle.
+- Telefonu koddan 10 ila 15 santimetre mesafede sabit tutun.
+- Kod bir telefon ekranındaysa, parlaklığı maksimuma çevirin ve ekranın otomatik karartma zaman aşımını azaltın ki tarama sırasında kararmasın.
+- Kod eğriyse (hafif bükülmüş bir kağıda sarılı) veya ekranda yansımalar varsa, yüzeyi düzleştirmeyi veya açıyı değiştirmeyi deneyin.
 
-Some phone cases interfere with QR scanning, particularly cases with a thick rim around the camera lens or cases made of material that causes the phone to rest at an angle. Remove the case if scanning continues to fail.
+Bazı telefon kılıfları QR taramaya müdahale eder, özellikle kamera merceğinin çevresinde kalın bir kenarı olan veya telefonun açılı durmasına neden olan malzemeden yapılmış kılıflar. Tarama başarısız olmaya devam ederse kılıfı çıkarın.
 
-### Expired QR Codes and Manual Entry
+### Süresi Dolmuş QR Kodlar ve Manuel Giriş
 
-Some providers include a time window in the eSM-DP+ activation code. If the QR code is not scanned within the window -- typically 24 to 72 hours from generation -- the activation code expires and cannot be used. This catches travelers who buy their eSIM weeks before a trip, download the PDF with the QR code, and then attempt to scan it at the airport on departure day.
+Bazı sağlayıcılar eSIM-DP+ etkinleştirme koduna bir zaman penceresi dahil eder. QR kod pencere içinde taranmazsa -- genellikle oluşturulmasından 24 ila 72 saat sonra -- etkinleştirme kodunun süresi dolar ve kullanılamaz. Bu, eSIM'ini bir yolculuktan haftalar önce satın alan, QR kodu içeren PDF'yi indiren ve sonra kalkış gününde havaalanında taramaya çalışan gezginleri yakalar.
 
-If your QR code has expired, contact the provider to request a new one. Most international eSIM providers regenerate codes without charge. Some German domestic providers treat this as a new purchase, so if you are ordering the [eSIM for Germany](/germany-esim/) well in advance of your trip, confirm the QR code validity period at checkout.
+QR kodunuzun süresi dolduysa, yeni bir tane istemek için sağlayıcıyla iletişime geçin. Çoğu uluslararası eSIM sağlayıcısı kodları ücretsiz olarak yeniden oluşturur. Bazı Alman yerel sağlayıcıları bunu yeni bir satın alma olarak değerlendirir, bu yüzden [Almanya için eSIM](/germany-esim/)'i yolculuğunuzdan çok önce sipariş ediyorsanız, ödeme sırasında QR kod geçerlilik süresini doğrulayın.
 
-### Manual entry as a QR alternative
+### QR alternatifi olarak manuel giriş
 
-As noted in the Activation Failures section, manual entry bypasses all scanning issues. The SM-DP+ address and activation code needed for manual entry are typically included in the same email that contains the QR code. If they are not explicitly listed, check the provider's help pages or contact support. Some providers hide the activation code behind a "Show details" link on their order confirmation page.
+Etkinleştirme Hataları bölümünde belirtildiği gibi, manuel giriş tüm tarama sorunlarını atlar. Manuel giriş için gereken SM-DP+ adresi ve etkinleştirme kodu genellikle QR kodu içeren aynı e-postada bulunur. Açıkça listelenmemişlerse, sağlayıcının yardım sayfalarını kontrol edin veya destekle iletişime geçin. Bazı sağlayıcılar etkinleştirme kodunu sipariş onay sayfalarındaki bir "Ayrıntıları göster" bağlantısının arkasına saklar.
 
-On iPhone, from the "Set Up Mobile Service" screen, tap "Enter Details Manually" at the bottom. Paste or type the SM-DP+ address and activation code. On Android, during the "Add eSIM" process, tap "Enter activation code instead" or the equivalent option.
+iPhone'da, "Mobil Servis Kur" ekranından alttaki "Ayrıntıları Elle Gir"e dokunun. SM-DP+ adresini ve etkinleştirme kodunu yapıştırın veya yazın. Android'de, "eSIM Ekle" süreci sırasında "Bunun yerine etkinleştirme kodunu gir" veya eşdeğer seçeneğe dokunun.
 
-### Fixing PDF and Cropped QR Code Issues
+### PDF ve Kırpılmış QR Kod Sorunlarını Düzeltme
 
-If your QR code was sent as a PDF attachment and the PDF opens with the QR code partially cropped or scaled incorrectly, the issue is with the PDF viewer, not the QR code. Try opening the same PDF in a different application. On a Mac, Preview typically renders QR codes correctly. On Windows, the built-in PDF reader in Edge works reliably. If the viewer continues to crop the code, take a screenshot of the PDF and scan from the screenshot image saved in your photo library.
+QR kodunuz bir PDF eki olarak gönderildiyse ve PDF, QR kod kısmen kırpılmış veya yanlış ölçeklenmiş olarak açılıyorsa, sorun QR kodda değil PDF görüntüleyicidedir. Aynı PDF'yi farklı bir uygulamada açmayı deneyin. Bir Mac'te, Preview genellikle QR kodları doğru şekilde işler. Windows'ta, Edge'deki yerleşik PDF okuyucu güvenilir çalışır. Görüntüleyici kodu kırpmaya devam ederse, PDF'nin ekran görüntüsünü alın ve fotoğraf kitaplığınızda kaydedilen ekran görüntüsü görüntüsünden tarayın.
 
-## Germany eSIM Dual SIM Conflicts: Resolving Line Switching Issues
+## Almanya eSIM Çift SIM Çakışmaları: Hat Geçiş Sorunlarını Çözme
 
-Running a home SIM alongside a Germany eSIM creates a configuration challenge that many travelers do not anticipate. The phone has two active lines, but only one default line for data, one for voice, and one for SMS. If these defaults are not set correctly, you can end up in a situation where your home SIM is trying to handle data in Germany (incurring roaming charges or failing entirely) while your eSIM sits unused.
+Ev SIM'inizi bir Almanya eSIM'in yanında çalıştırmak, birçok gezginin öngörmediği bir yapılandırma zorluğu yaratır. Telefonda iki etkin hat vardır, ancak veri için yalnızca bir varsayılan hat, ses için bir ve SMS için bir. Bu varsayılanlar doğru ayarlanmazsa, ev SIM'inizin Almanya'da veriyi işlemeye çalıştığı (dolaşım ücreti doğurduğu veya tamamen başarısız olduğu) ve eSIM'inizin kullanılmadan kaldığı bir duruma düşebilirsiniz.
 
-### Data Line Conflicts
+### Veri Hattı Çakışmaları
 
-This is the most common dual SIM conflict. You installed the eSIM, enabled data roaming, and the phone shows full signal -- but nothing loads. The likely cause is that the phone's default data line is still set to your home SIM. The home SIM is registered on a German network through international roaming, so it shows signal bars, but your home carrier's roaming data is either not activated or subject to restrictions that prevent a connection.
+Bu, en yaygın çift SIM çakışmasıdır. eSIM'i kurdunuz, veri dolaşımını etkinleştirdiniz ve telefon tam sinyal gösteriyor -- ama hiçbir şey yüklenmiyor. Muhtemel neden, telefonun varsayılan veri hattının hâlâ ev SIM'inize ayarlı olmasıdır. Ev SIM'i uluslararası dolaşım yoluyla bir Alman ağına kayıtlıdır, bu yüzden sinyal çubukları gösterir, ancak ev operatörünüzün dolaşım verisi ya etkin değildir ya da bağlantıyı önleyen kısıtlamalara tabidir.
 
-On iPhone, go to **Settings > Mobile Service > Cellular Data** and tap the eSIM line to make it the default. A checkmark appears next to the selected line. On Android, go to **Settings > Connections > SIM Manager** and under "Mobile data" select the eSIM.
+iPhone'da **Ayarlar > Mobil Servis > Hücresel Veri** bölümüne gidin ve varsayılan yapmak için eSIM hattına dokunun. Seçili hattın yanında bir onay işareti görünür. Android'de **Ayarlar > Bağlantılar > SIM Yöneticisi** bölümüne gidin ve "Mobil veri" altında eSIM'i seçin.
 
-### iMessage, FaceTime, and SMS Routing
+### iMessage, FaceTime ve SMS Yönlendirme
 
-A subtle conflict arises with iMessage and FaceTime on iPhone:
+iPhone'da iMessage ve FaceTime ile ince bir çakışma ortaya çıkar:
 
-- Apple allows you to select which line iMessage uses for sending and receiving messages.
-- If iMessage is set to use your home SIM's number but your home SIM has lost data connectivity because you switched the data line to the eSIM, iMessage may fail to send or receive messages.
+- Apple, iMessage'ın mesaj göndermek ve almak için hangi hattı kullanacağını seçmenize izin verir.
+- iMessage, ev SIM'inizin numarasını kullanacak şekilde ayarlanmışsa ama ev SIM'iniz veri hattını eSIM'e geçirdiğiniz için veri bağlantısını kaybettiyse, iMessage mesaj gönderemeyebilir veya alamayabilir.
 
-To fix this, go to **Settings > Messages > Send & Receive** and ensure your Apple ID and at least one reachable number are selected. You can also set iMessage to use the eSIM line temporarily. For FaceTime, go to **Settings > FaceTime** and check the line assignment.
+Bunu düzeltmek için **Ayarlar > Mesajlar > Gönder ve Al** bölümüne gidin ve Apple ID'nizin ve en az bir ulaşılabilir numaranın seçili olduğundan emin olun. Ayrıca iMessage'ı geçici olarak eSIM hattını kullanacak şekilde ayarlayabilirsiniz. FaceTime için **Ayarlar > FaceTime** bölümüne gidin ve hat atamasını kontrol edin.
 
-**SMS verification code routing.** Banking verification codes, two-factor authentication messages, and travel booking confirmations often arrive via SMS to your home number:
+**SMS doğrulama kodu yönlendirme.** Bankacılık doğrulama kodları, iki faktörlü kimlik doğrulama mesajları ve seyahat rezervasyon onayları genellikle ev numaranıza SMS yoluyla gelir:
 
-- On **iPhone**: SMS arrives on both lines regardless of settings.
-- On **Android**: go to **Settings > Connections > SIM Manager** and check which SIM is set as "Preferred SIM for SMS."
+- **iPhone'da**: SMS, ayarlardan bağımsız olarak her iki hatta da gelir.
+- **Android'de**: **Ayarlar > Bağlantılar > SIM Yöneticisi** bölümüne gidin ve hangi SIM'in "SMS için tercih edilen SIM" olarak ayarlandığını kontrol edin.
 
-If you need to receive SMS on your home number while using eSIM data, set the home SIM as the default for SMS and the eSIM as the default for data. This configuration works because SMS uses negligible bandwidth and does not interfere with the eSIM's data connection.
+eSIM verisi kullanırken ev numaranızda SMS almanız gerekiyorsa, ev SIM'ini SMS için varsayılan ve eSIM'i veri için varsayılan olarak ayarlayın. Bu yapılandırma işe yarar çünkü SMS ihmal edilebilir bant genişliği kullanır ve eSIM'in veri bağlantısına müdahale etmez.
 
-### Carrier-Locked Phone Issues
+### Operatöre Kilitli Telefon Sorunları
 
-**Germany eSIM dual SIM conflict with carrier-locked phones.** If your phone is locked to a specific carrier from your home country, the eSIM may not work at all:
+**Operatöre kilitli telefonlarla Almanya eSIM çift SIM çakışması.** Telefonunuz ülkenizden belirli bir operatöre kilitliyse, eSIM hiç çalışmayabilir:
 
-- Carrier locks apply to all SIMs -- physical and embedded -- and prevent the phone from registering on any network other than the locking carrier's partners.
-- An AT&T-locked phone, for example, will not connect to Telekom or Vodafone Germany regardless of which eSIM profile you install.
-- The fix: request an unlock from your home carrier before traveling (details below).
+- Operatör kilitleri tüm SIM'lere -- fiziksel ve gömülü -- uygulanır ve telefonun kilitleyen operatörün ortakları dışında herhangi bir ağa kaydolmasını önler.
+- Örneğin AT&T'ye kilitli bir telefon, hangi eSIM profilini kurarsanız kurun Telekom veya Vodafone Almanya'ya bağlanmayacaktır.
+- Çözüm: yola çıkmadan önce ev operatörünüzden kilit açma talep edin (ayrıntılar aşağıda).
 
-The fix for a carrier-locked phone is to request an unlock from your home carrier before traveling. In the United States, the major carriers are required by FCC rules to unlock phones upon request once the device is paid off and any contract obligations are met. In the EU, carriers must unlock phones free of charge after any lock-in period expires. In other markets, unlock policies vary. If an unlock is not possible before your trip, your only option is a portable Wi-Fi hotspot device or a physical German SIM purchased on arrival.
+Operatöre kilitli bir telefon için çözüm, yola çıkmadan önce ev operatörünüzden kilit açma talep etmektir. Amerika Birleşik Devletleri'nde, büyük operatörlerin FCC kuralları gereği, cihaz ödendiğinde ve sözleşme yükümlülükleri karşılandığında talep üzerine telefonların kilidini açması gerekir. AB'de, operatörler herhangi bir kilit süresi dolduktan sonra telefonların kilidini ücretsiz açmalıdır. Diğer pazarlarda kilit açma politikaları değişir. Yolculuğunuzdan önce kilit açma mümkün değilse, tek seçeneğiniz taşınabilir bir Wi-Fi hotspot cihazı veya varışta satın alınan fiziksel bir Alman SIM'idir.
 
-If your phone is unlocked and you still see dual SIM conflicts after configuring the data line, the [dual SIM guide](/blog/germany-esim-dual-sim-multi-device/) covers the complete configuration for iPhone and Android, including per-app data routing and hotspot sharing across multiple devices.
+Telefonunuzun kilidi açıksa ve veri hattını yapılandırdıktan sonra hâlâ çift SIM çakışmaları görüyorsanız, [çift SIM rehberi](/blog/germany-esim-dual-sim-multi-device/) iPhone ve Android için tam yapılandırmayı, uygulama başına veri yönlendirme ve birden fazla cihazda hotspot paylaşımı dahil ele alır.
 
-## Emergency Calls Only: Fixing Germany eSIM Network Registration Errors
+## Yalnızca Acil Aramalar: Almanya eSIM Ağ Kayıt Hatalarını Düzeltme
 
-An "Emergency Calls Only" message means the phone is unable to register on any mobile network for normal service. It has found a network and can place an emergency call (112 in Germany and across the EU), but the network has rejected the phone's request for full registration. This is different from "No Service," which means the phone has not found any network at all.
+"Yalnızca Acil Aramalar" mesajı, telefonun normal hizmet için herhangi bir mobil ağa kaydolamadığı anlamına gelir. Bir ağ bulmuştur ve acil bir arama yapabilir (Almanya'da ve AB genelinde 112), ancak ağ telefonun tam kayıt talebini reddetmiştir. Bu, telefonun hiçbir ağ bulamadığı anlamına gelen "Servis Yok"tan farklıdır.
 
-### Understanding Why Emergency Calls Only Appears
+### Yalnızca Acil Aramalar Neden Görünür
 
-The most common reason is that the eSIM profile's IMSI has been rejected by all available German networks. This happens when:
+En yaygın neden, eSIM profilinin IMSI'sinin mevcut tüm Alman ağları tarafından reddedilmiş olmasıdır. Bu şu durumlarda olur:
 
-- The provider's roaming agreement with German carriers has a technical fault.
-- The eSIM has not been activated on the provider's side.
-- The phone's SIM slot configuration causes a registration conflict.
+- Sağlayıcının Alman operatörlerle dolaşım anlaşmasında teknik bir arıza vardır.
+- eSIM sağlayıcı tarafında etkinleştirilmemiştir.
+- Telefonun SIM yuvası yapılandırması bir kayıt çakışmasına neden olur.
 
-For international eSIMs, the rejection usually means the provider's home network (wherever it is based) cannot confirm to the German network that your IMSI is authorized for roaming. This can be a temporary glitch -- the provider's authentication servers may be unreachable from Germany for a few minutes -- or a provisioning error where your eSIM was never fully activated.
+Uluslararası eSIM'ler için, ret genellikle sağlayıcının ana ağının (nerede olursa olsun) Alman ağına IMSI'nizin dolaşım için yetkili olduğunu doğrulayamaması anlamına gelir. Bu geçici bir arıza olabilir -- sağlayıcının kimlik doğrulama sunucuları birkaç dakika boyunca Almanya'dan erişilemez olabilir -- veya eSIM'inizin hiç tam olarak etkinleştirilmediği bir sağlama hatası olabilir.
 
-For German domestic eSIMs from Telekom, Vodafone, or O2, "Emergency Calls Only" during the activation window is normal and indicates that the passport verification process has not yet completed. The phone has the eSIM profile installed, the German network recognizes the IMSI, but the verification system has not released the subscriber for full service. Wait for the verification confirmation email and restart the phone.
+Telekom, Vodafone veya O2'den Alman yerel eSIM'leri için, etkinleştirme penceresi sırasında "Yalnızca Acil Aramalar" normaldir ve pasaport doğrulama sürecinin henüz tamamlanmadığını gösterir. Telefonda eSIM profili kuruludur, Alman ağı IMSI'yi tanır, ancak doğrulama sistemi aboneyi tam hizmet için serbest bırakmamıştır. Doğrulama onay e-postasını bekleyin ve telefonu yeniden başlatın.
 
-### How to Fix Network Registration Errors
+### Ağ Kayıt Hataları Nasıl Düzeltilir
 
-**Refresh network registration.** The quickest fix for an "Emergency Calls Only" state is to force the phone to reattempt network registration. Turn on airplane mode for thirty seconds, then turn it off. If the phone remains in emergency-only mode after the reconnection, try manual network selection as described in the No Service section above. Select each of the three German networks one at a time. If a network accepts the IMSI, the phone will switch to normal service.
+**Ağ kaydını yenileyin.** "Yalnızca Acil Aramalar" durumu için en hızlı çözüm, telefonu ağ kaydını yeniden denemeye zorlamaktır. Uçak modunu otuz saniye açın, sonra kapatın. Telefon yeniden bağlantıdan sonra yalnızca acil modunda kalırsa, yukarıdaki Servis Yok bölümünde açıklandığı gibi manuel ağ seçimini deneyin. Üç Alman ağını birer birer seçin. Bir ağ IMSI'yi kabul ederse, telefon normal hizmete geçer.
 
-**Remove and reinstall the eSIM.** If manual network selection does not resolve the emergency-only state, delete the eSIM profile and reinstall it. The reinstallation triggers a fresh activation request to the provider's servers, which often clears whatever registration flag was blocking the connection. As noted earlier, ensure you still have access to the original QR code or activation information before deleting.
+**eSIM'i kaldırın ve yeniden kurun.** Manuel ağ seçimi yalnızca acil durumunu çözmezse, eSIM profilini silin ve yeniden kurun. Yeniden kurulum, sağlayıcının sunucularına yeni bir etkinleştirme talebi tetikler ve bu genellikle bağlantıyı engelleyen kayıt bayrağını temizler. Daha önce belirtildiği gibi, silmeden önce orijinal QR koda veya etkinleştirme bilgilerine hâlâ erişiminiz olduğundan emin olun.
 
-**Carrier lock verification.** An "Emergency Calls Only" message on multiple networks is a strong indicator that the phone is carrier-locked. A locked phone can place emergency calls on any network (this is required by law in virtually all jurisdictions) but rejects normal service on any network that is not authorized by the locking carrier. If your phone is locked and you did not realize it, this is the symptom you will see. Check with your home carrier for unlock eligibility before your trip.
+**Operatör kilidi doğrulaması.** Birden fazla ağda "Yalnızca Acil Aramalar" mesajı, telefonun operatöre kilitli olduğunun güçlü bir göstergesidir. Kilitli bir telefon herhangi bir ağda acil arama yapabilir (bu neredeyse tüm yargı alanlarında yasayla gereklidir) ama kilitleyen operatör tarafından yetkilendirilmemiş herhangi bir ağda normal hizmeti reddeder. Telefonunuz kilitliyse ve bunu fark etmediyseniz, göreceğiniz belirti budur. Yolculuğunuzdan önce ev operatörünüzle kilit açma uygunluğunu kontrol edin.
 
-## Germany eSIM Registration Failures: When Verification Fails
+## Almanya eSIM Kayıt Hataları: Doğrulama Başarısız Olduğunda
 
-Germany's TKG law requires that all SIM activations by German-licensed carriers include identity verification. For international visitors, this means the passport verification step is mandatory when buying a domestic German eSIM from Telekom, Vodafone, O2, or their MVNO partners. About one in twelve verification attempts fails on the first try, based on data reported in German technology forums, usually for reasons that are straightforward to correct.
+Almanya'nın TKG yasası, Alman lisanslı operatörler tarafından yapılan tüm SIM etkinleştirmelerinin kimlik doğrulaması içermesini gerektirir. Uluslararası ziyaretçiler için bu, Telekom, Vodafone, O2 veya MVNO ortaklarından yerel bir Alman eSIM satın alırken pasaport doğrulama adımının zorunlu olduğu anlamına gelir. Alman teknoloji forumlarında bildirilen verilere göre, doğrulama girişimlerinin yaklaşık on ikide biri ilk denemede başarısız olur ve genellikle nedeni düzeltmesi kolaydır.
 
-### Common Reasons for Verification Failure
+### Doğrulama Hatasının Yaygın Nedenleri
 
-The most common failure reasons are:
+En yaygın hata nedenleri şunlardır:
 
-1. **Blurry or poorly lit photo** of the passport data page. Video-Ident agents need to read the machine-readable zone (MRZ) at the bottom of the page. If the photo is blurry, shadowed, or taken at an angle, the agent cannot read these characters.
+1. **Pasaport veri sayfasının bulanık veya kötü aydınlatılmış fotoğrafı.** Video-Ident görevlilerinin sayfanın altındaki makinede okunabilir bölgeyi (MRZ) okuması gerekir. Fotoğraf bulanık, gölgeli veya açılı çekilmişse, görevli bu karakterleri okuyamaz.
 
-2. **Name mismatch** between the eSIM order and the passport. If you ordered with a shortened name (e.g., "Mike" instead of "Michael") or omitted a middle name, the agent may flag it as inconsistent. The name used on the order must match the passport exactly.
+2. **eSIM siparişi ile pasaport arasında isim uyuşmazlığı.** Kısaltılmış bir adla (örneğin "Michael" yerine "Mike") sipariş verdiyseniz veya ikinci bir adı atladıysanız, görevli bunu tutarsız olarak işaretleyebilir. Siparişte kullanılan isim pasaportla tam olarak eşleşmelidir.
 
-3. **Expired or soon-to-expire passport**. German carriers generally follow a six-month passport validity rule for non-EU nationals. If your passport expires within six months, the verification may be rejected.
+3. **Süresi dolmuş veya yakında dolacak pasaport.** Alman operatörler genellikle AB dışı vatandaşlar için altı aylık pasaport geçerlilik kuralını izler. Pasaportunuz altı ay içinde doluyorsa, doğrulama reddedilebilir.
 
-### How to Retry a Failed Verification
+### Başarısız Bir Doğrulamayı Nasıl Yeniden Denerim
 
-If your Telekom, Vodafone, or O2 verification failed, the carrier will typically send an email with instructions for retrying. Do not simply upload the same photo again -- address the specific issue first:
+Telekom, Vodafone veya O2 doğrulamanız başarısız olduysa, operatör genellikle yeniden deneme talimatlarını içeren bir e-posta gönderir. Aynı fotoğrafı tekrar yüklemeyin -- önce belirli sorunu ele alın:
 
-**For photo quality:**
-- Use a well-lit room with ambient daylight if possible.
-- Place the passport on a flat surface and hold the camera directly above it.
-- Ensure no fingers or objects cast shadows on the data page.
-- The full page must be visible, including the MRZ at the bottom.
+**Fotoğraf kalitesi için:**
+- Mümkünse ortam gün ışığı olan iyi aydınlatılmış bir oda kullanın.
+- Pasaportu düz bir yüzeye koyun ve kamerayı doğrudan üzerinde tutun.
+- Hiçbir parmağın veya nesnenin veri sayfasına gölge düşürmediğinden emin olun.
+- Alt kısımdaki MRZ dahil tüm sayfa görünmelidir.
 
-**For name matching:**
-- If the order name does not match the passport, cancel the existing order and place a new one with the exact name as printed on your passport.
-- Carriers cannot edit order names after submission because the verification audit trail must match TKG compliance records.
+**İsim eşleştirme için:**
+- Sipariş adı pasaportla eşleşmiyorsa, mevcut siparişi iptal edin ve pasaportunuzda yazılı tam isimle yeni bir sipariş verin.
+- Operatörler, doğrulama denetim izinin TKG uyumluluk kayıtlarıyla eşleşmesi gerektiğinden, gönderimden sonra sipariş adlarını düzenleyemez.
 
-**For expired passports:**
-- If your passport has less than six months validity, some carriers accept a national ID card from EU countries.
-- For non-EU travelers, the only option is to purchase an international eSIM that does not require passport verification.
+**Süresi dolmuş pasaportlar için:**
+- Pasaportunuzun geçerliliği altı aydan azsa, bazı operatörler AB ülkelerinden bir ulusal kimlik kartını kabul eder.
+- AB dışı gezginler için tek seçenek, pasaport doğrulaması gerektirmeyen uluslararası bir eSIM satın almaktır.
 
-### Bypassing Registration with an International eSIM
+### Uluslararası bir eSIM ile Kaydı Atlama
 
-**International eSIMs bypass the passport problem entirely.** International eSIM providers operate outside the TKG's verification requirements because their licensed jurisdiction is outside Germany:
+**Uluslararası eSIM'ler pasaport sorununu tamamen atlar.** Uluslararası eSIM sağlayıcıları TKG'nin doğrulama gereksinimlerinin dışında çalışır çünkü lisanslı yargı alanları Almanya dışındadır:
 
-- No passport upload, no Video-Ident session, and no verification delay.
-- The eSIM works from the moment the QR code is scanned.
-- For travelers who find the German passport registration process burdensome or who have had verification failures, an international eSIM is the practical alternative.
-- Note: international data-only eSIMs do not include a German number -- pair them with VoIP services like Skype or Sipgate for outbound calling if needed.
+- Pasaport yüklemesi yok, Video-Ident oturumu yok ve doğrulama gecikmesi yok.
+- eSIM, QR kod tarandığı andan itibaren çalışır.
+- Alman pasaport kayıt sürecini külfetli bulan veya doğrulama başarısızlıkları yaşamış gezginler için uluslararası bir eSIM pratik alternatiftir.
+- Not: uluslararası yalnızca veri eSIM'leri Alman numarası içermez -- gerekirse giden aramalar için Skype veya Sipgate gibi VoIP hizmetleriyle eşleştirin.
 
-If you need a German phone number for local calls and reservations, note that international data-only eSIMs do not include a German number. You can pair them with calling apps like WhatsApp or a VoIP service such as Sipgate for outbound calling. If you specifically need a German mobile number, the [passport registration guide](/blog/germany-esim-passport-registration-requirements/) explains the full legal framework and lists which providers accept which document types.
+Yerel aramalar ve rezervasyonlar için bir Alman telefon numarasına ihtiyacınız varsa, uluslararası yalnızca veri eSIM'lerinin Alman numarası içermediğini unutmayın. Bunları giden aramalar için WhatsApp gibi arama uygulamalarıyla veya Sipgate gibi bir VoIP hizmetiyle eşleştirebilirsiniz. Özellikle bir Alman mobil numarasına ihtiyacınız varsa, [pasaport kaydı rehberi](/blog/germany-esim-passport-registration-requirements/) tam yasal çerçeveyi açıklar ve hangi sağlayıcıların hangi belge türlerini kabul ettiğini listeler.
 
-Skipping the domestic registration process in favor of an international eSIM is a practical choice for many travelers. The savings in time and frustration are substantial, particularly if you are arriving late at night or over a weekend when Video-Ident agents may have limited availability.
+Yerel kayıt sürecini uluslararası bir eSIM lehine atlamak birçok gezgin için pratik bir seçimdir. Zaman ve hayal kırıklığındaki tasarruf önemlidir, özellikle gece geç saatlerde veya hafta sonu geldiğinizde Video-Ident görevlilerinin kullanılabilirliği sınırlı olabilir.
 
-## Germany eSIM Not Working After a Restart? The Order That Fixes It
+## Yeniden Başlatmadan Sonra Almanya eSIM Çalışmıyor mu? Düzelten Sıra
 
-When a Germany eSIM shows no service, the temptation is to start changing everything at once — which usually makes the diagnosis harder. Work through this sequence instead, in order, checking after each step.
+Bir Almanya eSIM servis göstermediğinde, cazibe her şeyi aynı anda değiştirmeye başlamaktır — bu da genellikle teşhisi zorlaştırır. Bunun yerine, sırayla bu diziyi izleyin ve her adımdan sonra kontrol edin.
 
-1. **Data roaming on the Germany eSIM line.** Travel plans attach to German networks through roaming agreements, so this toggle must be on even though you are not roaming in the consumer sense. It is the single most common cause of a silent Germany eSIM.
-2. **The Germany eSIM set as the default data line.** Installing the profile is not the same as selecting it; on dual-SIM phones the data line can silently remain on the home number.
-3. **Network selection set to automatic.** Manual selection from an earlier attempt can pin your Germany eSIM to a network it can no longer reach.
-4. **APN values.** Some carriers require an explicit access point name; an empty or stale APN leaves you registered with no data.
-5. **A short airplane-mode cycle, then a reboot.** This forces a fresh attach and clears the stale registration that follows a tunnel or a plane.
-6. **Check the plan's validity window.** A Germany eSIM whose validity began before your trip, or whose activation code expired uninstalled, will not come back to life through settings.
+1. **Almanya eSIM hattında veri dolaşımı.** Seyahat planları Alman ağlarına dolaşım anlaşmaları yoluyla bağlanır, bu yüzden tüketici anlamında dolaşımda olmasanız bile bu anahtar açık olmalıdır. Sessiz bir Almanya eSIM'in en yaygın tek nedenidir.
+2. **Almanya eSIM'in varsayılan veri hattı olarak ayarlanması.** Profili kurmak onu seçmekle aynı şey değildir; çift SIM'li telefonlarda veri hattı sessizce ev numarasında kalabilir.
+3. **Ağ seçiminin otomatik olarak ayarlanması.** Daha önceki bir denemeden manuel seçim, Almanya eSIM'inizi artık ulaşamadığı bir ağa sabitleyebilir.
+4. **APN değerleri.** Bazı operatörler açık bir erişim noktası adı gerektirir; boş veya eski bir APN sizi verisiz kayıtlı bırakır.
+5. **Kısa bir uçak modu döngüsü, ardından yeniden başlatma.** Bu, yeni bir eklenme zorlar ve bir tünelden veya uçaktan sonra gelen eski kaydı temizler.
+6. **Planın geçerlilik penceresini kontrol edin.** Geçerliliği yolculuğunuzdan önce başlayan veya etkinleştirme kodu kurulmadan süresi dolan bir Almanya eSIM, ayarlar yoluyla hayata dönmez.
 
-Most cases resolve at step one or two, and the sequence exists mainly to stop you from reinstalling a perfectly good profile. If you reach step six, stop editing settings and read the activation rules for your specific product before doing anything destructive — deleting a working profile is the one action that cannot be undone from the phone.
+Çoğu vaka birinci veya ikinci adımda çözülür ve dizi esas olarak mükemmel çalışan bir profili yeniden kurmanızı önlemek için vardır. Altıncı adıma ulaşırsanız, ayarları düzenlemeyi bırakın ve yıkıcı bir şey yapmadan önce belirli ürününüzün etkinleştirme kurallarını okuyun — çalışan bir profili silmek, telefondan geri alınamayan tek eylemdir.
 
-Two environment reminders while you troubleshoot: verify the phone is not sitting in a thick-walled basement or an interior room with no line of sight outward, and confirm the device is not in a power-saving mode that suspends background network registration. Both mimic a dead Germany eSIM convincingly.
+Sorun giderirken iki ortam hatırlatması: telefonun kalın duvarlı bir bodrumda veya dışa bakan görüş açısı olmayan bir iç odada olmadığını doğrulayın ve cihazın arka plan ağ kaydını askıya alan bir güç tasarrufu modunda olmadığını kontrol edin. Her ikisi de ölü bir Almanya eSIM'i ikna edici şekilde taklit eder.
 
-## When the Fix Is a New Germany eSIM Profile
+## Çözüm Yeni Bir Almanya eSIM Profili Olduğunda
 
-Sometimes the profile itself is the problem, and no amount of settings work will help. Three situations call for a fresh profile rather than more fiddling:
+Bazen sorun profilin kendisidir ve hiçbir ayar çalışması yardımcı olmaz. Daha fazla kurcalama yerine yeni bir profil gerektiren üç durum vardır:
 
-- **The activation code expired before installation.** Providers generate codes with a validity window measured from issue; a code scanned too late cannot be reused, and support can usually reissue it.
-- **The profile installed but never registered, and reinstallation attempts fail.** A corrupted download is rare but real, and a clean re-provision from the provider's side is the standard remedy.
-- **You have changed phones.** A Germany eSIM profile lives on one device. Moving to a new phone requires the provider to issue a replacement profile — cross-platform transfer is only partially supported in 2026 and should not be assumed.
+- **Etkinleştirme kodunun kurulumdan önce süresi doldu.** Sağlayıcılar kodları verilişten itibaren ölçülen bir geçerlilik penceresiyle oluşturur; çok geç taranan bir kod yeniden kullanılamaz ve destek genellikle onu yeniden düzenleyebilir.
+- **Profil kuruldu ama hiç kaydolmadı ve yeniden kurulum denemeleri başarısız.** Bozuk bir indirme nadirdir ama gerçektir ve sağlayıcının tarafından temiz bir yeniden sağlama standart çözümdür.
+- **Telefon değiştirdiniz.** Bir Almanya eSIM profili tek bir cihazda yaşar. Yeni bir telefona geçmek, sağlayıcının bir yedek profil düzenlemesini gerektirir — platformlar arası transfer 2026'da yalnızca kısmen desteklenir ve varsayılmamalıdır.
 
-When you contact support, the request goes faster if you arrive with specifics: the order reference, the device model, the exact error or screen state, and what you have already tried in the sequence above. Screenshots of the cellular settings screen save a round trip, and mentioning that you have already verified the roaming toggle and the default data line moves you past the scripted first response.
+Destekle iletişime geçtiğinizde, ayrıntılarla gelirseniz talep daha hızlı ilerler: sipariş referansı, cihaz modeli, tam hata veya ekran durumu ve yukarıdaki dizide zaten denedikleriniz. Hücresel ayarlar ekranının ekran görüntüleri bir gidiş-dönüşü kurtarır ve dolaşım anahtarını ve varsayılan veri hattını zaten doğruladığınızdan bahsetmek sizi senaryolu ilk yanıtın ötesine taşır.
 
-One practical caution for anyone troubleshooting on a working trip: do not delete the only profile you have before a replacement is confirmed. Keep the old one installed while support works, and only remove it once the new code has arrived and downloaded successfully.
+Çalışan bir yolculukta sorun gideren herkes için pratik bir uyarı: bir yedek onaylanmadan önce sahip olduğunuz tek profili silmeyin. Destek çalışırken eskisini kurulu tutun ve yalnızca yeni kod geldiğinde ve başarıyla indirildiğinde kaldırın.
 
-## When to Contact Germany eSIM Support: Provider Contacts
+## Almanya eSIM Desteğiyle Ne Zaman İletişime Geçilir: Sağlayıcı Kişileri
 
 
-Most eSIM issues can be resolved with the steps in this guide, but some problems require provider intervention. Knowing when to escalate and having the right information ready can reduce resolution time from hours to minutes.
+Çoğu eSIM sorunu bu rehberdeki adımlarla çözülebilir, ancak bazı sorunlar sağlayıcı müdahalesi gerektirir. Ne zaman yükselteceğinizi bilmek ve doğru bilgilere hazır olmak, çözüm süresini saatlerden dakikalara indirebilir.
 
-### When to Escalate to Support
+### Desteğe Ne Zaman Yükseltilir
 
-You should contact your eSIM provider's support team in these situations:
+Bu durumlarda eSIM sağlayıcınızın destek ekibiyle iletişime geçmelisiniz:
 
-1. The eSIM profile cannot be installed after three attempts with a fresh QR code or activation code. If three separate installation attempts fail, the issue is likely on the provider's side and requires a new eSIM profile to be generated.
+1. Yeni bir QR kod veya etkinleştirme koduyla üç denemeden sonra eSIM profili kurulamıyor. Üç ayrı kurulum denemesi başarısız olursa, sorun muhtemelen sağlayıcı tarafındadır ve yeni bir eSIM profili oluşturulmasını gerektirir.
 
-2. You have completed all troubleshooting steps in this guide -- roaming enabled, correct data line selected, APN configured, manual network selection tried on all three German networks -- and still have no service. This indicates a persistent provisioning or roaming agreement issue that only the provider can resolve.
+2. Bu rehberdeki tüm sorun giderme adımlarını tamamladınız -- dolaşım etkin, doğru veri hattı seçili, APN yapılandırılmış, üç Alman ağının tümünde manuel ağ seçimi denendi -- ve hâlâ servis yok. Bu, yalnızca sağlayıcının çözebileceği kalıcı bir sağlama veya dolaşım anlaşması sorununu gösterir.
 
-3. The eSIM profile was working and suddenly stopped working without any settings changes. This can indicate a carrier-side suspension or a technical fault with the provider's authentication servers.
+3. eSIM profili çalışıyordu ve herhangi bir ayar değişikliği olmadan aniden çalışmayı durdurdu. Bu, operatör tarafında bir askıya alma veya sağlayıcının kimlik doğrulama sunucularında teknik bir arıza gösterebilir.
 
-4. Your passport verification failed twice and you need assistance identifying the cause or requesting an exception.
+4. Pasaport doğrulamanız iki kez başarısız oldu ve nedeni belirlemek veya bir istisna talep etmek için yardıma ihtiyacınız var.
 
-### What Information to Have Ready
+### Hangi Bilgiler Hazır Olmalı
 
-When you contact support, provide these details in your first message to avoid back-and-forth:
+Destekle iletişime geçtiğinizde, gidiş-dönüşten kaçınmak için bu ayrıntıları ilk mesajınızda sağlayın:
 
-1. **Your order number or purchase receipt** -- include the email confirmation or transaction ID.
-2. **The exact phone model and OS version** -- for iPhone: **Settings > General > About > Software Version**. For Android: **Settings > About Phone > Software Information**.
-3. **The exact error message displayed** -- screenshots help significantly. Include the full screen, not just the error pop-up, so support can see the signal indicator, network name, and mobile data icon status.
-4. **Which troubleshooting steps you have already tried** -- list each one briefly so support does not ask you to repeat them.
-5. **Whether the eSIM has ever worked on this trip** -- if it worked and then stopped, that is a different diagnostic path from one that never worked at all.
+1. **Sipariş numaranız veya satın alma makbuzunuz** -- e-posta onayını veya işlem kimliğini ekleyin.
+2. **Tam telefon modeli ve işletim sistemi sürümü** -- iPhone için: **Ayarlar > Genel > Hakkında > Yazılım Sürümü**. Android için: **Ayarlar > Telefon Hakkında > Yazılım Bilgileri**.
+3. **Görüntülenen tam hata mesajı** -- ekran görüntüleri önemli ölçüde yardımcı olur. Yalnızca hata açılır penceresini değil, tüm ekranı ekleyin ki destek sinyal göstergesini, ağ adını ve mobil veri simgesi durumunu görebilsin.
+4. **Hangi sorun giderme adımlarını zaten denediniz** -- her birini kısaca listeleyin ki destek bunları tekrarlamanızı istemesin.
+5. **eSIM bu yolculukta hiç çalıştı mı** -- çalıştıysa ve sonra durduysa, bu hiç çalışmayandan farklı bir teşhis yoludur.
 
-### Provider Contact Information
+### Sağlayıcı İletişim Bilgileri
 
 **Roami**
 
-24/7 real human support via live chat and the mobile app. Response time is typically under two minutes during daylight hours across all time zones. Roami also maintains a help center with setup guides for each country and offers a [Germany travel eSIM](/germany-esim/) plan with automatic multi-network switching.
+Canlı sohbet ve mobil uygulama üzerinden 7/24 gerçek insan desteği. Yanıt süresi, tüm saat dilimlerinde gündüz saatlerinde genellikle iki dakikanın altındadır. Roami ayrıca her ülke için kurulum rehberleri içeren bir yardım merkezi tutar ve otomatik çoklu ağ geçişli bir [Almanya seyahat eSIM'i](/germany-esim/) planı sunar.
 
 ### Deutsche Telekom
 
-Customer service for eSIM issues can be reached at 0800 330 1000 (toll-free within Germany) or +49 561 100 1000 from abroad. Telekom's English-language support is available during business hours. For technical eSIM issues, Telekom recommends using the "Mein Telekom" app's in-app chat, which logs session details automatically and reduces the need for back-and-forth information gathering.
+eSIM sorunları için müşteri hizmetlerine 0800 330 1000 (Almanya içinde ücretsiz) veya yurt dışından +49 561 100 1000 numarasından ulaşılabilir. Telekom'un İngilizce desteği çalışma saatleri içinde mevcuttur. Teknik eSIM sorunları için Telekom, oturum ayrıntılarını otomatik olarak kaydeden ve gidiş-dönüş bilgi toplama ihtiyacını azaltan "Mein Telekom" uygulamasının uygulama içi sohbetini kullanmayı önerir.
 
-### Vodafone Germany
+### Vodafone Almanya
 
-Customer service at 0800 172 1212 (toll-free within Germany) or +49 172 121 1212 from abroad. Vodafone offers English support during extended business hours and has a dedicated eSIM team reachable through the "Mein Vodafone" app.
+Müşteri hizmetleri 0800 172 1212 (Almanya içinde ücretsiz) veya yurt dışından +49 172 121 1212 numarasından. Vodafone uzatılmış çalışma saatlerinde İngilizce destek sunar ve "Mein Vodafone" uygulaması üzerinden ulaşılabilen özel bir eSIM ekibine sahiptir.
 
-### O2 Germany (Telefonica)
+### O2 Almanya (Telefonica)
 
-Customer service at 0172 172 4172 (within Germany) or +49 172 172 4172 from abroad. O2's English-language support availability is more limited than Telekom or Vodafone, and non-German speakers may find faster resolution through the O2 community forums.
+Müşteri hizmetleri 0172 172 4172 (Almanya içinde) veya yurt dışından +49 172 172 4172 numarasından. O2'nin İngilizce destek kullanılabilirliği Telekom veya Vodafone'dan daha sınırlıdır ve Almanca bilmeyenler O2 topluluk forumları aracılığıyla daha hızlı çözüm bulabilir.
 
 ### Bundesnetzagentur
 
-If you have a complaint about a German carrier's eSIM practices that cannot be resolved through customer service, you can file a formal complaint through the [Bundesnetzagentur consumer complaint portal](https://www.bundesnetzagentur.de/DE/Vportal/AnfragenBeschwerden/start.html). The agency handles consumer complaints about telecommunications services and can mediate disputes between subscribers and carriers.
+Bir Alman operatörün eSIM uygulamalarıyla ilgili müşteri hizmetleri yoluyla çözülemeyen bir şikayetiniz varsa, [Bundesnetzagentur tüketici şikayet portalı](https://www.bundesnetzagentur.de/DE/Vportal/AnfragenBeschwerden/start.html) aracılığıyla resmi bir şikayet dosyalayabilirsiniz. Kurum, telekomünikasyon hizmetleriyle ilgili tüketici şikayetlerini ele alır ve aboneler ile operatörler arasındaki anlaşmazlıklara aracılık edebilir.
 
-### GSMA eSIM standards
+### GSMA eSIM standartları
 
-For understanding the technical standards behind eSIM profiles, the GSMA provides documentation at [gsma.com/esim](https://www.gsma.com/esim). This is more useful for understanding how eSIMs work than for resolving specific activation problems, but it can help when dealing with provider support representatives who may not be fully familiar with eSIM technical details.
+eSIM profillerinin arkasındaki teknik standartları anlamak için GSMA, [gsma.com/esim](https://www.gsma.com/esim) adresinde belgeler sunar. Bu, belirli etkinleştirme sorunlarını çözmekten çok eSIM'lerin nasıl çalıştığını anlamak için daha faydalıdır, ancak eSIM teknik ayrıntılarına tam olarak aşina olmayan sağlayıcı destek temsilcileriyle uğraşırken yardımcı olabilir.
 
-| Provider | Support Channels | English Support | Average Response Time | Best Way to Contact |
+| Sağlayıcı | Destek Kanalları | İngilizce Destek | Ortalama Yanıt Süresi | En İyi İletişim Yolu |
 |----------|-----------------|----------------|----------------------|-------------------|
-| Multi-network eSIM | Live chat, app, help center | Yes (24/7) | Under 2 minutes | In-app live chat |
-| Deutsche Telekom | Phone, in-app chat, in-store | Business hours only | 5-15 minutes (phone) | "Mein Telekom" app chat |
-| Vodafone Germany | Phone, in-app chat, in-store | Extended business hours | 5-10 minutes (phone) | "Mein Vodafone" app |
-| O2 Germany | Phone, community forums | Limited English | 10-20 minutes (phone) | Phone (German recommended) |
-| Airalo | Live chat, email | Yes (24/7) | 5-10 minutes (chat) | In-app chat |
-| Holafly | Live chat | Yes (24/7) | 2-5 minutes (chat) | Website live chat |
-| Ubigi | Email, ticket system | Yes | 4-24 hours (email) | Web ticket |
+| Çoklu ağ eSIM | Canlı sohbet, uygulama, yardım merkezi | Evet (7/24) | 2 dakikanın altında | Uygulama içi canlı sohbet |
+| Deutsche Telekom | Telefon, uygulama içi sohbet, mağaza | Yalnızca çalışma saatleri | 5-15 dakika (telefon) | "Mein Telekom" uygulama sohbeti |
+| Vodafone Almanya | Telefon, uygulama içi sohbet, mağaza | Uzatılmış çalışma saatleri | 5-10 dakika (telefon) | "Mein Vodafone" uygulaması |
+| O2 Almanya | Telefon, topluluk forumları | Sınırlı İngilizce | 10-20 dakika (telefon) | Telefon (Almanca önerilir) |
+| Airalo | Canlı sohbet, e-posta | Evet (7/24) | 5-10 dakika (sohbet) | Uygulama içi sohbet |
+| Holafly | Canlı sohbet | Evet (7/24) | 2-5 dakika (sohbet) | Web sitesi canlı sohbeti |
+| Ubigi | E-posta, talep sistemi | Evet | 4-24 saat (e-posta) | Web talebi |
 
 ---
 
-Troubleshooting a Germany eSIM does not require technical expertise. The problems that travelers experience are almost always limited to a handful of known failure modes -- roaming disabled, wrong data line selected, missing APN, network congestion, or passport verification delays -- each of which has a documented fix. The approach that saves the most time is systematic: confirm the basics (roaming on, correct data line, APN set), then escalate to network selection, then to profile reinstallation, and finally to provider support.
+Bir Almanya eSIM'inde sorun giderme teknik uzmanlık gerektirmez. Gezginlerin yaşadığı sorunlar neredeyse her zaman bir dizi bilinen arıza biçimiyle sınırlıdır -- dolaşım devre dışı, yanlış veri hattı seçilmiş, eksik APN, ağ yoğunluğu veya pasaport doğrulama gecikmeleri -- her birinin belgelenmiş bir çözümü vardır. En çok zaman kazandıran yaklaşım sistematiktir: temelleri doğrulayın (dolaşım açık, doğru veri hattı, APN ayarlı), sonra ağ seçimine, sonra profil yeniden kurulumuna ve son olarak sağlayıcı desteğine yükseltin.
 
-If you are planning a trip to Germany and want to avoid these issues entirely, services like Roami offer a simpler approach. Unlike Airalo which uses O2 only, Roami automatically switches between Telekom, Vodafone, and O2 networks to maintain the best available signal. This international eSIM requires no passport verification and activates in seconds. You can try the service with a [free eSIM trial](/free-esim/) before your Germany trip to confirm compatibility with your device. Use code **web20** for 20 percent off your first order.
+Almanya'ya bir yolculuk planlıyorsanız ve bu sorunlardan tamamen kaçınmak istiyorsanız, Roami gibi hizmetler daha basit bir yaklaşım sunar. Yalnızca O2 kullanan Airalo'nun aksine, Roami en iyi kullanılabilir sinyali korumak için Telekom, Vodafone ve O2 ağları arasında otomatik olarak geçiş yapar. Bu uluslararası eSIM pasaport doğrulaması gerektirmez ve saniyeler içinde etkinleşir. Almanya yolculuğunuzdan önce cihazınızla uyumluluğu doğrulamak için hizmeti bir [ücretsiz eSIM denemesi](/free-esim/) ile deneyebilirsiniz. İlk siparişinizde yüzde 20 indirim için **web20** kodunu kullanın.
 
-- Start with the [Germany eSIM travel guide](/blog/germany-esim-complete-travel-guide/), which covers network selection, coverage expectations, and plan recommendations.
-- The [installation and activation guide](/blog/germany-esim-installation-activation-setup/) walks through the full setup process for iPhone and Android.
-- The [dual SIM guide](/blog/germany-esim-dual-sim-multi-device/) explains how to keep your home number active alongside your Germany eSIM. Provider behaviour differences are compared in the [provider comparison](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/). Current prices sit in the [price guide](/blog/germany-esim-price-guide-cheapest-plans/) — where a fix involves replacing a plan, note that mid-tier plans commonly work out at roughly $1.20 to $2.20 per GB, so a replacement is rarely as expensive as it feels mid-trip. Between these resources and this troubleshooting guide, you have everything needed to arrive in Germany with working connectivity from the moment you step off the plane.
+- Ağ seçimi, kapsama beklentileri ve plan önerilerini ele alan [Almanya eSIM seyahat rehberi](/blog/germany-esim-complete-travel-guide/) ile başlayın.
+- [Kurulum ve etkinleştirme rehberi](/blog/germany-esim-installation-activation-setup/) iPhone ve Android için tam kurulum sürecini adım adım anlatır.
+- [Çift SIM rehberi](/blog/germany-esim-dual-sim-multi-device/) ev numaranızı Almanya eSIM'inizin yanında nasıl etkin tutacağınızı açıklar. Sağlayıcı davranış farklılıkları [sağlayıcı karşılaştırmasında](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/) karşılaştırılır. Güncel fiyatlar [fiyat rehberinde](/blog/germany-esim-price-guide-cheapest-plans/) yer alır — bir çözümün plan değiştirmeyi gerektirdiği durumda, orta düzey planların genellikle GB başına yaklaşık 1,20 ila 2,20 $'a denk geldiğini unutmayın, bu yüzden bir değişim nadiren yolculuğun ortasında hissettirdiği kadar pahalıdır. Bu kaynaklar ile bu sorun giderme rehberi arasında, uçaktan indiğiniz andan itibaren çalışan bir bağlantıyla Almanya'ya varmak için gereken her şeye sahipsiniz.
 
-## Frequently Asked Questions
+## Sıkça Sorulan Sorular
 
-### Why does my Germany eSIM show no signal?
+### Almanya eSIM'im neden sinyal göstermiyor?
 
-Five causes account for most cases: data roaming switched off on the eSIM line, the wrong line selected for mobile data, missing or incorrect APN settings, a profile that has not finished installing, and genuine absence of coverage at your location. Work through them in that order.
+Çoğu vakayı beş neden oluşturur: eSIM hattında veri dolaşımı kapalı, mobil veri için yanlış hat seçilmiş, eksik veya yanlış APN ayarları, kurulumunu tamamlamamış bir profil ve konumunuzda gerçek kapsama yokluğu. Bunları bu sırayla gözden geçirin.
 
-### Should data roaming be on for a Germany eSIM?
+### Bir Almanya eSIM için veri dolaşımı açık olmalı mı?
 
-Yes. Data roaming must be enabled on the eSIM line even though you are not roaming in the traditional sense, because the profile connects through partner networks. Leaving it off is the single most common cause of a "No Service" display.
+Evet. Geleneksel anlamda dolaşımda olmasanız bile eSIM hattında veri dolaşımı etkin olmalıdır, çünkü profil ortak ağlar üzerinden bağlanır. Kapalı bırakmak "Servis Yok" görüntüsünün en yaygın tek nedenidir.
 
-### How do I fix an activation failure?
+### Bir etkinleştirme hatasını nasıl düzeltirim?
 
-Restart the phone, toggle Airplane Mode on and off, and confirm you have a stable Wi-Fi connection. If the profile still will not install, request a fresh QR code or enter the SM-DP+ address manually.
+Telefonu yeniden başlatın, Uçak Modunu açıp kapatın ve kararlı bir Wi-Fi bağlantınız olduğunu doğrulayın. Profil hâlâ kurulmuyorsa, yeni bir QR kod isteyin veya SM-DP+ adresini manuel girin.
 
-### Which APN should I use in Germany?
+### Almanya'da hangi APN'yi kullanmalıyım?
 
-Roami uses "roami". Telekom uses internet.t-mobile.de, Vodafone uses web.vodafone.de, and O2 uses pinternet.interkom.de with "internet" as a backup. In most cases the APN is configured automatically; manual entry is the fallback.
+Roami "roami" kullanır. Telekom internet.t-mobile.de, Vodafone web.vodafone.de ve O2 yedek olarak "internet" ile pinternet.interkom.de kullanır. Çoğu durumda APN otomatik olarak yapılandırılır; manuel giriş yedektir.
 
-### My data is slow in a rural area — what now?
+### Kırsal bir alanda verim yavaş — şimdi ne olacak?
 
-Select a network manually rather than leaving the phone to choose. Telekom offers the best rural coverage, so switching to it manually is usually the fastest fix when speeds drop outside cities.
+Telefonun seçmesine bırakmak yerine manuel olarak bir ağ seçin. Telekom en iyi kırsal kapsamayı sunar, bu yüzden şehir dışında hızlar düştüğünde manuel olarak ona geçmek genellikle en hızlı çözümdür.
 
-### When should I contact support rather than troubleshoot further?
+### Daha fazla sorun gidermek yerine ne zaman destekle iletişime geçmeliyim?
 
-If the profile installs correctly, roaming is enabled, the APN is right and there is still no connection in an area where coverage is known to exist, that is the point to contact support. Have your device IMEI, the eSIM ICCID and the exact error message ready.
-
+Profil doğru kuruluyorsa, dolaşım etkinse, APN doğruysa ve kapsamanın olduğu bilinen bir alanda hâlâ bağlantı yoksa, destekle iletişime geçme noktası budur. Cihaz IMEI'nizi, eSIM ICCID'nizi ve tam hata mesajını hazır bulundurun.

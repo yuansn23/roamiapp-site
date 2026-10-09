@@ -1,11 +1,11 @@
 ---
-title: "Germany eSIM: Frankfurt, Munich & Berlin Airport Guide"
-description: "Buying and activating a Germany eSIM at Frankfurt, Munich and Berlin airports — why eSIM-first beats airport SIM kiosks, per-terminal arrival notes, and what airport SIM cards really cost."
-keywords: ["germany esim airport", "frankfurt airport esim", "esim at frankfurt airport", "germany airport sim card"]
+title: "Almanya eSIM: Frankfurt, Münih ve Berlin Havalimanı Rehberi"
+description: "Frankfurt, Münih ve Berlin havalimanlarında Almanya eSIM satın alma ve etkinleştirme — eSIM öncelikli yaklaşımın havalimanı SIM büfelerini neden geçtiği, terminal bazında varış notları ve havalimanı SIM kartlarının gerçekte ne kadar tuttuğu."
+keywords: ["germany esim airport", "frankfurt airport esim", "esim at frankfurt airport", "germany airport sim card", "almanya havalimanı esim", "frankfurt havalimanı esim", "havalimanı sim kart almanya"]
 date: 2026-10-08T00:00:00Z
 lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Roami güvenilir eSIM paketleri sunar, yılda 1 milyondan fazla gezgine hizmet verir ve gezginlerin dünya çapında bağlantıda kalması için otomatik yerel ağ geçişini destekler."
 image: "/img/esim/germany/germany-esim-airport-arrival-guide.jpg"
 categories: ["Germany", "eSIM", "Travel"]
 tags: ["Germany eSIM", "Travel eSIM"]
@@ -13,231 +13,231 @@ readingTime: 9
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Germany eSIM at the Airport: Buying and Activating at FRA, MUC and BER"
-productsTitle: "Popular eSIM Plans"
-hotPostsTitle: "Hot Articles"
-recentPostsTitle: "Recent Posts"
+h1title: "Havalimanında Almanya eSIM: FRA, MUC ve BER'de Satın Alma ve Etkinleştirme"
+productsTitle: "Popüler eSIM Planları"
+hotPostsTitle: "Öne Çıkan Makaleler"
+recentPostsTitle: "Son Yazılar"
 products:
-  - name: "Europe eSIM"
+  - name: "Avrupa eSIM"
     flag: "/img/flags/eu.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "europe"
-  - name: "USA eSIM"
+  - name: "ABD eSIM"
     flag: "/img/flags/us.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "united-states"
-  - name: "Japan eSIM"
+  - name: "Japonya eSIM"
     flag: "/img/flags/jp.svg"
-    price: "From $1.99"
+    price: "1,99 $'dan başlayan"
     is_highlight: false
     slug: "japan"
 recentPosts:
-  - title: "eSIM Compatible Devices List"
+  - title: "eSIM Uyumlu Cihazlar Listesi"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
+  - title: "2026 Platformlar Arası eSIM Aktarımı"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPhone SE eSIM Compatibility Guide"
+  - title: "iPhone SE eSIM Uyumluluk Kılavuzu"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
+  - title: "iPhone 11 eSIM Tam Kurulum Kılavuzu"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
 
-# Germany eSIM at the Airport: FRA, MUC and BER Arrival Guide
+# Havalimanında Almanya eSIM: FRA, MUC ve BER Varış Rehberi
 
-The moment you land in Germany, the airport SIM kiosk and the Germany eSIM represent two completely different travel philosophies. One involves a counter, a queue, your passport, a cash transaction, and a clerk activating a physical card while your transfer clock runs. The other involves nothing — your Germany eSIM profile, installed at home over Wi-Fi, connects to Telekom, Vodafone or O2 the second the plane lands. This guide covers both routes honestly: what the airport kiosks at Frankfurt, Munich and Berlin actually offer, what they cost, and how to make the eSIM route foolproof at each of Germany's three main gateways.
+Almanya'ya indiğiniz an, havalimanı SIM büfesi ile Almanya eSIM'i tamamen farklı iki seyahat felsefesini temsil eder. Biri bir gişe, bir kuyruk, pasaportunuz, nakit bir işlem ve aktarma saatiniz işlerken fiziksel bir kartı etkinleştiren bir görevli içerir. Diğeri hiçbir şey içermez — evde Wi-Fi üzerinden kurulmuş Almanya eSIM profiliniz, uçak indiği saniye Telekom, Vodafone veya O2'ye bağlanır. Bu rehber her iki yolu da dürüstçe ele alır: Frankfurt, Münih ve Berlin'deki havalimanı büfelerinin gerçekte ne sunduğu, ne kadar tuttuğu ve Almanya'nın üç ana giriş kapısının her birinde eSIM yolunun nasıl kusursuz hale getirileceği.
 
-If you have not bought anything yet, start with the [buy Germany eSIM guide](/blog/buy-germany-esim-guide/) for the full purchase-and-refund picture; this page assumes you are deciding between airport purchase and eSIM-first arrival.
+Henüz bir şey satın almadıysanız, tam satın alma ve iade resmi için [Almanya eSIM satın alma rehberiyle](/blog/buy-germany-esim-guide/) başlayın; bu sayfa, havalimanı satın alımı ile eSIM öncelikli varış arasında karar verdiğinizi varsayar.
 
-**Short answer for anyone searching for a Germany eSIM airport solution:** buy the eSIM before you fly. A **Germany eSIM airport** purchase made online arrives as a QR code in your inbox, installs over your home Wi-Fi, and connects the moment you land — which is why a **Frankfurt Airport eSIM** set up in advance beats any counter transaction on arrival day. If your phone cannot take an eSIM at all, a **Germany airport SIM card** from the arrivals-hall counters is the genuine fallback; the rest of this page explains exactly what that fallback costs you.
+**Almanya eSIM havalimanı çözümü arayan herkes için kısa yanıt:** eSIM'i uçuştan önce satın alın. Çevrimiçi yapılan bir **Almanya eSIM havalimanı** satın alımı gelen kutunuza QR kod olarak ulaşır, ev Wi-Fi'niz üzerinden kurulur ve indiğiniz an bağlanır — bu yüzden önceden kurulmuş bir **Frankfurt Havalimanı eSIM'i**, varış gününde herhangi bir gişe işlemini geçer. Telefonunuz eSIM'i hiç almıyorsa, varış salonundaki gişelerden alınan bir **Almanya havalimanı SIM kartı** gerçek yedektir; bu sayfanın geri kalanı bu yedeğin size tam olarak neye mal olduğunu açıklar.
 
-## Where a Germany eSIM Lands in 2026: Three Airports Compared
+## 2026'da Almanya eSIM'in İndiği Yer: Üç Havalimanı Karşılaştırması
 
-Two of Germany's three main gateways changed physically this year, so the arrival picture is worth putting on one screen before the per-airport detail. Every figure below is the published 2026 position.
+Almanya'nın üç ana giriş kapısından ikisi bu yıl fiziksel olarak değişti, bu yüzden havalimanı bazında ayrıntıya geçmeden önce varış resmini tek bir ekranda görmekte fayda var. Aşağıdaki her rakam yayımlanmış 2026 durumudur.
 
-| Airport | Terminals in use | Train to the city | Journey time | 2026 fare | Free terminal Wi-Fi |
+| Havalimanı | Kullanımdaki terminaller | Şehre tren | Yolculuk süresi | 2026 tarifesi | Ücretsiz terminal Wi-Fi |
 |---|---|---|---|---|---|
-| **Frankfurt (FRA)** | Terminal 1 (Lufthansa and most Star Alliance carriers) plus Terminal 3, opened 23 April 2026; Terminal 2 closed to passengers on 9 June 2026 and its airlines moved to Terminal 3 | S-Bahn S8/S9 from the Regionalbahnhof beneath Terminal 1 to Frankfurt Hauptbahnhof | 11–15 minutes | RMV single ticket €6.90 | "Airport-Frankfurt" — unlimited, around the clock, no registration, more than 300 access points |
-| **Munich (MUC)** | Terminal 1 — including the new non-Schengen pier that began operations on 21 April 2026 — and Terminal 2 | S-Bahn S1 or S8 to the city centre | about 40 minutes | Airport-City-Day-Ticket €17.50 for one adult, €32.60 for up to five | "Free Wifi – Munich Airport" — free, but it asks for an email address |
-| **Berlin (BER)** | Terminal 1 and Terminal 2; the former Schönefeld Terminal 5 is permanently closed | FEX airport express to Berlin Hauptbahnhof | 23–30 minutes | Berlin ABC single ticket €5.00 | Free, unlimited, across the terminal's public areas |
+| **Frankfurt (FRA)** | Terminal 1 (Lufthansa ve çoğu Star Alliance taşıyıcısı) artı 23 Nisan 2026'da açılan Terminal 3; Terminal 2, 9 Haziran 2026'da yolcuya kapatıldı ve havayolları Terminal 3'e taşındı | Terminal 1'in altındaki Regionalbahnhof'tan Frankfurt Hauptbahnhof'a S-Bahn S8/S9 | 11–15 dakika | RMV tek bilet 6,90 € | "Airport-Frankfurt" — sınırsız, günün her saati, kayıt yok, 300'den fazla erişim noktası |
+| **Münih (MUC)** | Terminal 1 — 21 Nisan 2026'da faaliyete geçen yeni Schengen dışı peron dahil — ve Terminal 2 | Şehir merkezine S-Bahn S1 veya S8 | yaklaşık 40 dakika | Airport-City-Day-Ticket bir yetişkin için 17,50 €, beş kişiye kadar 32,60 € | "Free Wifi – Munich Airport" — ücretsiz, ancak bir e-posta adresi ister |
+| **Berlin (BER)** | Terminal 1 ve Terminal 2; eski Schönefeld Terminal 5 kalıcı olarak kapalı | Berlin Hauptbahnhof'a FEX havalimanı ekspresi | 23–30 dakika | Berlin ABC tek bilet 5,00 € | Ücretsiz, sınırsız, terminalin kamusal alanları boyunca |
 
-*Airport fares and terminal assignments below were collected from RMV, MVV, BVG and airport operator pages on 8 October 2026. Terminal moves and fare changes happen mid-year in Germany — re-check the operator page before you travel.*
+*Aşağıdaki havalimanı tarifeleri ve terminal atamaları 8 Ekim 2026'da RMV, MVV, BVG ve havalimanı işletmecisi sayfalarından toplanmıştır. Almanya'da terminal değişiklikleri ve tarife değişiklikleri yıl ortasında olur — seyahatinizden önce işletmeci sayfasını yeniden kontrol edin.*
 
-Two conclusions follow. The first is that free airport Wi-Fi is now good enough to install a Germany eSIM profile from inside the arrivals hall at all three airports, so the realistic worst case is ten minutes at a gate rather than a dead phone. The second is that every one of those tickets is bought and displayed in an app (RMV or DB Navigator, MVV or MVGO, BVG or VBB), which means the fare you pay and the connection you catch both depend on having working data before you reach the platform.
+Buradan iki sonuç çıkar. Birincisi, ücretsiz havalimanı Wi-Fi'si artık üç havalimanının tamamında varış salonunun içinden bir Almanya eSIM profili kurmak için yeterince iyidir; bu yüzden gerçekçi en kötü durum, ölü bir telefon yerine kapıda on dakikadır. İkincisi, bu biletlerin her biri bir uygulamada (RMV veya DB Navigator, MVV veya MVGO, BVG veya VBB) satın alınır ve gösterilir; bu da ödediğiniz ücretin ve yakaladığınız bağlantının her ikisinin de perona ulaşmadan önce çalışan veriye bağlı olduğu anlamına gelir.
 
-## Why a Germany eSIM Beats the Airport Kiosk at Every Gateway
+## Almanya eSIM'in Her Giriş Kapısında Havalimanı Büfesini Geçmesinin Nedeni
 
-Three structural reasons, none of which depend on which airport you land at:
+Hangi havalimanına indiğinize bağlı olmayan üç yapısal neden:
 
-1. **German prepaid physical cards require ID registration.** By law — the Ausweispflicht, set out in the [Telecommunications Act](https://www.gesetze-im-internet.de/tkg_2021/) — every German prepaid SIM activation involves identity verification — typically a passport scan plus, for many carriers, a video call in German. At an airport counter this takes 20 minutes to an hour of a transfer window you do not have. A travel eSIM needs none of it.
-2. **Kiosk pricing carries a travel markup.** Airport retail is the most expensive channel in German telecom retail. The same carrier data volume sold at a city-center supermarket costs noticeably less than at the arrivals hall — and international travel eSIMs undercut both. Roami's 10 GB / 7-day Germany plan at $7.99, bought online, consistently beats the airport kiosk totals for equivalent data.
-3. **The kiosk card locks you to one network.** Whatever carrier the kiosk sells, that is your network for the whole trip — no switching if its coverage disappoints on your route. A multi-carrier Germany eSIM hops between Telekom, Vodafone and O2 automatically, which the [coverage guide](/blog/germany-esim-coverage-cities-trains-alps/) shows matters on trains and in rural stretches.
+1. **Alman ön ödemeli fiziksel kartları kimlik kaydı gerektirir.** Yasaya göre — [Telekomünikasyon Yasası'nda](https://www.gesetze-im-internet.de/tkg_2021/) belirtilen Ausweispflicht — her Alman ön ödemeli SIM aktivasyonu kimlik doğrulaması içerir — genellikle bir pasaport taraması artı çoğu operatör için Almanca bir görüntülü görüşme. Havalimanı gişesinde bu, sahip olmadığınız bir aktarma penceresinden 20 dakika ila bir saat alır. Bir seyahat eSIM'i bunların hiçbirini gerektirmez.
+2. **Büfe fiyatlandırması bir seyahat kâr marjı taşır.** Havalimanı perakendesi, Alman telekom perakendesinin en pahalı kanalıdır. Şehir merkezindeki bir süpermarkette satılan aynı operatör veri hacmi, varış salonundakinden belirgin şekilde daha az tutar — ve uluslararası seyahat eSIM'leri her ikisini de altında bırakır. Roami'nin çevrimiçi satın alınan 7,99 $'lık 10 GB / 7 gün Almanya paketi, eşdeğer veri için havalimanı büfesi toplamlarını sürekli geçer.
+3. **Büfe kartı sizi tek bir ağa kilitler.** Büfenin sattığı operatör hangisiyse, tüm seyahat boyunca ağınız o olur — kapsaması güzergâhınızda hayal kırıklığı yaratırsa geçiş yok. Çok operatörlü bir Almanya eSIM'i Telekom, Vodafone ve O2 arasında otomatik atlar; [kapsama rehberi](/blog/germany-esim-coverage-cities-trains-alps/) bunun trenlerde ve kırsal kesimlerde önemli olduğunu gösterir.
 
-None of this makes airport SIM cards a scam — they are a legitimate fallback, especially if your phone lacks eSIM support (check the [compatibility list](/compatibility/) before flying). They are simply the worse deal for the 90% of travelers carrying an eSIM-capable phone.
+Bunların hiçbiri havalimanı SIM kartlarını dolandırıcılık yapmaz — özellikle telefonunuz eSIM desteğinden yoksunsa (uçuştan önce [uyumluluk listesini](/compatibility/) kontrol edin) meşru bir yedektirler. Yalnızca eSIM destekli telefon taşıyan gezginlerin %90'ı için daha kötü bir anlaşmadırlar.
 
-## Frankfurt Airport (FRA): Germany's Busiest Gateway
+## Frankfurt Havalimanı (FRA): Almanya'nın En Yoğun Giriş Kapısı
 
-Frankfurt handles more international long-haul traffic than any other German airport, and it has been reshaped around a new building: **Terminal 3**, one of Europe's most advanced terminal complexes, adds capacity for up to 19 million passengers a year. Practically, that means arrival flows and terminal assignments have shifted this year — check your arrival terminal before trusting an older guide's walking times.
+Frankfurt, diğer tüm Alman havalimanlarından daha fazla uluslararası uzun mesafe trafiğini işler ve yeni bir bina etrafında yeniden şekillendirilmiştir: Avrupa'nın en gelişmiş terminal komplekslerinden biri olan **Terminal 3**, yılda 19 milyon yolcuya kadar kapasite ekler. Pratikte bu, varış akışlarının ve terminal atamalarının bu yıl değiştiği anlamına gelir — daha eski bir rehberin yürüme sürelerine güvenmeden önce varış terminalinizi kontrol edin.
 
-Frankfurt is where the 2026 changes bite hardest. Terminal 3 began operations on 23 April 2026, and on 9 June 2026 Fraport closed Terminal 2 to passengers for a €1.5 billion refurbishment, [announced by the airport operator](https://www.fraport.com/en/newsroom/press-releases/2026/q2/terminal-2-closed-for-refurbishment-starting-today.html), that will run into the mid-2030s. Every airline that used to serve Terminal 2 — Air France, KLM, Delta, Emirates and the rest of the non-Star-Alliance group — now flies from Terminal 3. Guides that still send you to Terminal 2 predate that move. Terminals 1 and 3 sit at opposite ends of the airfield and are linked by the free SkyLine train, a ride of up to about ten minutes, so a connection that changes terminal is real added time rather than a stroll.
+Frankfurt, 2026 değişikliklerinin en sert vurduğu yerdir. Terminal 3, 23 Nisan 2026'da faaliyete başladı ve 9 Haziran 2026'da Fraport, 1,5 milyar €'luk bir yenileme için Terminal 2'yi yolcuya kapattı; [havalimanı işletmecisi tarafından duyuruldu](https://www.fraport.com/en/newsroom/press-releases/2026/q2/terminal-2-closed-for-refurbishment-starting-today.html) ve bu yenileme 2030'ların ortalarına kadar sürecek. Eskiden Terminal 2'ye hizmet veren her havayolu — Air France, KLM, Delta, Emirates ve Star Alliance dışı grubun geri kalanı — artık Terminal 3'ten uçuyor. Sizi hâlâ Terminal 2'ye gönderen rehberler bu taşınmadan öncesine aittir. Terminal 1 ve 3, havaalanının karşı uçlarında yer alır ve ücretsiz SkyLine treniyle bağlanır; yolculuk yaklaşık on dakikaya kadar sürer, bu yüzden terminal değiştiren bir aktarma, kısa bir yürüyüş değil gerçek ek süredir.
 
-Arrival-day specifics for a Germany eSIM at FRA:
+FRA'da bir Almanya eSIM için varış günü ayrıntıları:
 
-- **Activate before departure if at all possible.** Frankfurt is the busiest long-haul gateway in Germany, and its arrivals halls fill with simultaneously-landing widebodies whose passengers all reach for the same cells at the same moment. Installing a Germany eSIM at home takes that congestion out of your critical path entirely.
-- **Know which of the two stations you want.** The Regionalbahnhof sits directly beneath Terminal 1, where the S-Bahn S8 and S9 leave for Frankfurt Hauptbahnhof in 11–15 minutes on a €6.90 RMV single ticket; the Fernbahnhof, one covered walkway away, handles ICE trains to Cologne, Stuttgart, Munich and beyond. Both run on app-based tickets and live platform updates, which is why the [trains and coverage guide](/blog/germany-esim-coverage-cities-trains-alps/) treats the first ten minutes after baggage claim as the highest-value data window of the trip.
-- **Wi-Fi is not the pinch point here.** Frankfurt Airport runs the hotspot "Airport-Frankfurt" free of charge around the clock from more than 300 access points, with no registration screen to clear; the details are on the [official Frankfurt Airport Wi-Fi page](https://www.frankfurt-airport.com/en/at-the-airport/facilities-services/free-wi-fi.html). It is genuinely sufficient to buy and install a Germany eSIM profile in arrivals if you did not manage it at home.
-- **The carrier counters are in one specific place.** Terminal 1 arrival hall B, landside, is where the Telekom, Vodafone, O2 and Lebara prepaid counters are; the neighbouring halls are not a backup. Reported opening hours differ between sources — one record gives 06:00–22:00, another 09:00–19:00 on weekdays with shorter weekend hours — which is the honest answer to "can I just buy one when I land": nobody can promise a staffed counter at 23:00, and Terminal 3's retail mix is new and unproven for prepaid starter packs.
+- **Mümkünse kalkıştan önce etkinleştirin.** Frankfurt, Almanya'nın en yoğun uzun mesafe giriş kapısıdır ve varış salonları, aynı anda inen geniş gövdeli uçaklarla dolar; yolcularının hepsi aynı anda aynı hücrelere uzanır. Almanya eSIM'ini evde kurmak bu tıkanıklığı kritik yolunuzdan tamamen çıkarır.
+- **İki istasyondan hangisini istediğinizi bilin.** Regionalbahnhof doğrudan Terminal 1'in altında yer alır; S-Bahn S8 ve S9, 6,90 €'luk bir RMV tek biletiyle 11–15 dakikada Frankfurt Hauptbahnhof'a gider; bir üstü kapalı geçitle ayrılan Fernbahnhof ise Köln, Stuttgart, Münih ve ötesine giden ICE trenlerini işler. Her ikisi de uygulama tabanlı biletler ve canlı peron güncellemeleriyle çalışır; bu yüzden [trenler ve kapsama rehberi](/blog/germany-esim-coverage-cities-trains-alps/), bagaj alımından sonraki ilk on dakikayı seyahatin en değerli veri penceresi olarak görür.
+- **Wi-Fi burada darboğaz değildir.** Frankfurt Havalimanı, "Airport-Frankfurt" hotspot'unu günün her saati ücretsiz olarak 300'den fazla erişim noktasından çalıştırır, temizlenecek bir kayıt ekranı yoktur; ayrıntılar [resmi Frankfurt Havalimanı Wi-Fi sayfasındadır](https://www.frankfurt-airport.com/en/at-the-airport/facilities-services/free-wi-fi.html). Evde halledemediyseniz, varışta bir Almanya eSIM profili satın alıp kurmak için gerçekten yeterlidir.
+- **Operatör gişeleri belirli bir yerdedir.** Telekom, Vodafone, O2 ve Lebara ön ödemeli gişeleri Terminal 1 varış salonu B'de, kara tarafındadır; komşu salonlar yedek değildir. Bildirilen açılış saatleri kaynaklar arasında farklıdır — bir kayıt 06:00–22:00, bir diğeri hafta içi 09:00–19:00 ve hafta sonu daha kısa saatler verir — bu da "indiğimde sadece bir tane alabilir miyim" sorusunun dürüst yanıtıdır: kimse 23:00'te personelli bir gişe vaat edemez ve Terminal 3'ün perakende karışımı ön ödemeli başlangıç paketleri için yeni ve kanıtlanmamıştır.
 
-## Munich Airport (MUC): Where a Germany eSIM Earns Its Keep
+## Münih Havalimanı (MUC): Almanya eSIM'in Kendini Kanıtladığı Yer
 
-Munich Airport is in the middle of its own upgrade cycle — the **new Terminal 1 pier for non-Schengen traffic opened on April 21, 2026**, adding 95,000 square meters and capacity for up to six million passengers a year, built specifically for international long-haul arrivals. If you are flying in from outside the Schengen area, you will likely pass through it.
+Münih Havalimanı kendi yükseltme döngüsünün ortasındadır — **Schengen dışı trafik için yeni Terminal 1 peronu 21 Nisan 2026'da açıldı**, 95.000 metrekare ve yılda altı milyon yolcuya kadar kapasite ekledi ve özellikle uluslararası uzun mesafe varışları için inşa edildi. Schengen bölgesi dışından uçuyorsanız, muhtemelen oradan geçeceksiniz.
 
-Four Munich-specific notes for arrival day:
+Varış günü için Münih'e özgü dört not:
 
-- **The ticket most visitors actually want is the Airport-City-Day-Ticket.** Munich Airport sits in MVV zone 5 and the city centre in zone M, so even a plain single covering M–5 costs €15.10 as of July 2026. For barely €2.40 more, the day version at €17.50 buys unlimited S-Bahn, U-Bahn, tram and bus travel until 6 a.m. the following morning, and the group version at €32.60 covers up to five adults. Buy it in the MVV or MVGO app before boarding — there is no on-board purchase anywhere in Munich, and ticket checks are frequent. Arrival-terminal and Wi-Fi details are on the [official Munich Airport Wi-Fi page](https://www.munich-airport.com/wi-fi-848044).
-- **S-Bahn lines S1 and S8 both reach the centre in about 40 minutes, almost entirely above ground**, so your Germany eSIM holds a clean connection from gate to Marienplatz. One quirk repays attention: the S1 divides at Neufahrn, and only the section marked "Flughafen" continues to the airport. On the return leg later in your trip, check the destination board before you settle in with luggage.
-- **Check the U-Bahn before your final leg in 2026.** Construction has taken the U3 and U6 out between Sendlinger Tor and Implerstraße through 18 September 2026, which changes the last hop for anyone staying near Goetheplatz, Poccistraße, Harras or Westpark. Verifying that in MVGO takes thirty seconds with data and is impossible without — and Munich's free terminal Wi-Fi asks for an email address before it opens the door.
-- **Oktoberfest season transforms the airport too.** Munich Airport leans into it — costume pop-ups, the Airbräu brewery, Bavarian brass bands — and the cellular load builds weeks before the festival gates open, as the city fills. If you land between mid-September and early October, your Germany eSIM will behave perfectly at the airport while the city's networks run hot. The [events connectivity guide](/blog/germany-esim-events-oktoberfest-christmas-bundesliga/) covers the congestion playbook.
+- **Çoğu ziyaretçinin gerçekte istediği bilet Airport-City-Day-Ticket'tir.** Münih Havalimanı MVV bölge 5'te, şehir merkezi ise M bölgesinde yer alır; bu yüzden Temmuz 2026 itibarıyla M–5'i kapsayan düz bir tek bilet bile 15,10 € tutar. Yalnızca 2,40 € daha fazlasına, 17,50 €'luk günlük versiyonu ertesi sabah 06:00'a kadar sınırsız S-Bahn, U-Bahn, tramvay ve otobüs yolculuğu sağlar; 32,60 €'luk grup versiyonu beş yetişkine kadar kapsar. Binmeden önce MVV veya MVGO uygulamasından alın — Münih'te hiçbir yerde araç üstü satın alma yoktur ve bilet kontrolü sıktır. Varış terminali ve Wi-Fi ayrıntıları [resmi Münih Havalimanı Wi-Fi sayfasındadır](https://www.munich-airport.com/wi-fi-848044).
+- **S-Bahn hatları S1 ve S8, merkeze yaklaşık 40 dakikada, neredeyse tamamen yer üstünden ulaşır**, bu yüzden Almanya eSIM'iniz kapıdan Marienplatz'a temiz bir bağlantı korur. Bir tuhaflık dikkate değer: S1, Neufahrn'da ayrılır ve yalnızca "Flughafen" olarak işaretlenmiş bölüm havalimanına devam eder. Seyahatinizin ilerleyen kısmındaki dönüş ayağında, bagajla yerleşmeden önce varış panosunu kontrol edin.
+- **2026'da son ayağınızdan önce U-Bahn'ı kontrol edin.** İnşaat, U3 ve U6'yı Sendlinger Tor ile Implerstraße arasında 18 Eylül 2026'ya kadar kaldırdı; bu da Goetheplatz, Poccistraße, Harras veya Westpark yakınında kalan herkes için son ayağı değiştirir. Bunu MVGO'da doğrulamak veriyle otuz saniye sürer ve veri olmadan imkânsızdır — ve Münih'ün ücretsiz terminal Wi-Fi'si kapıyı açmadan önce bir e-posta adresi ister.
+- **Oktoberfest sezonu havalimanını da dönüştürür.** Münih Havalimanı buna yaslanır — kostüm pop-up'ları, Airbräu bira fabrikası, Bavyera bando takımları — ve şehir dolarken hücresel yük festival kapıları açılmadan haftalar önce birikmeye başlar. Eylül ortası ile Ekim başı arasında inerseniz, şehrin ağları sıcak çalışırken Almanya eSIM'iniz havalimanında kusursuz davranacaktır. [Etkinlik bağlantı rehberi](/blog/germany-esim-events-oktoberfest-christmas-bundesliga/) tıkanıklık el kitabını kapsar.
 
-Prepaid SIM counters are Munich's awkward case. The press and electronics shops that stock Telekom, Vodafone and O2 starter packs are reported to sit airside, past security, which is no help to an arriving passenger who walks straight out to landside — and the registration requirement applies either way. Munich is therefore the airport where a Germany eSIM installed before departure saves the most friction.
+Ön ödemeli SIM gişeleri Münih'in tuhaf durumudur. Telekom, Vodafone ve O2 başlangıç paketlerini stoklayan basın ve elektronik dükkânlarının, doğrudan kara tarafına yürüyen bir gelen yolcu için hiçbir faydası olmayan, güvenlikten sonra hava tarafında olduğu bildirilir — ve kayıt şartı her iki durumda da geçerlidir. Bu nedenle Münih, kalkıştan önce kurulmuş bir Almanya eSIM'inin en çok sürtünme tasarrufu sağladığı havalimanıdır.
 
-## Berlin Brandenburg (BER): A Low-Friction eSIM Arrival
+## Berlin Brandenburg (BER): Düşük Sürtünmeli Bir eSIM Varışı
 
-BER is smaller, often cheaper to fly into, and the simplest of the three for a Germany eSIM arrival: free unlimited Wi-Fi runs across the terminal's public areas, and the airport express (FEX) reaches Berlin Hauptbahnhof in 23–30 minutes from the station directly beneath Terminal 1 on level U2. The old Schönefeld Terminal 5, still named in older guides, is permanently closed — every train now calls at the Terminal 1 station.
+BER daha küçüktür, genellikle uçuşu daha ucuzdur ve bir Almanya eSIM varışı için üçünün en basitidir: terminalin kamusal alanları boyunca ücretsiz sınırsız Wi-Fi çalışır ve havalimanı ekspresi (FEX), Terminal 1'in hemen altındaki U2 seviyesindeki istasyondan 23–30 dakikada Berlin Hauptbahnhof'a ulaşır. Eski rehberlerde hâlâ adı geçen eski Schönefeld Terminal 5 kalıcı olarak kapalıdır — artık her tren Terminal 1 istasyonunda durur.
 
-One fare trap catches more visitors here than at any other German airport. Berlin Brandenburg sits in fare zone C, so every train into the city — FEX, S-Bahn S9 or regional — needs a Berlin ABC ticket at €5.00, not the inner-city AB ticket at €4.00. Plain-clothes inspectors know exactly which platform an AB ticket is being used on, and the on-the-spot fine is €60. Since the FEX and the S9 cost the same, the choice is speed against stops: the express is quick to Hauptbahnhof, Potsdamer Platz and Südkreuz, while the S9 reaches Alexanderplatz and Friedrichstraße without a change. Between roughly 01:00 and 04:00 the express stops for the night and the N7 night bus takes over, with the U7 running all night at weekends. The [Berlin and Munich city guide](/blog/germany-esim-berlin-munich-city-guide/) continues from arrival with the full 2026 fare table, the transit apps worth installing and the neighborhoods where a Germany eSIM struggles. Prepaid kiosk options at BER are narrower than at FRA or MUC — one more reason the eSIM-first route is the default here.
+Burada diğer tüm Alman havalimanlarından daha fazla ziyaretçiyi yakalayan bir tarife tuzağı vardır. Berlin Brandenburg, tarife bölgesi C'de yer alır; bu yüzden şehre giden her tren — FEX, S-Bahn S9 veya bölgesel — 4,00 €'luk şehir içi AB bileti değil, 5,00 €'luk bir Berlin ABC bileti gerektirir. Sivil giyimli kontrolörler bir AB biletinin hangi peronda kullanıldığını tam olarak bilir ve yerinde kesilen ceza 60 €'dur. FEX ve S9 aynı ücrete sahip olduğundan seçim hıza karşı duraklardır: ekspres Hauptbahnhof, Potsdamer Platz ve Südkreuz'a hızlıdır; S9 ise aktarma olmadan Alexanderplatz ve Friedrichstraße'ye ulaşır. Yaklaşık 01:00 ile 04:00 arasında ekspres gece durur ve N7 gece otobüsü devralır; U7 ise hafta sonları gece boyunca çalışır. [Berlin ve Münih şehir rehberi](/blog/germany-esim-berlin-munich-city-guide/) varıştan itibaren tam 2026 tarife tablosuyla, kurulmaya değer ulaşım uygulamalarıyla ve bir Almanya eSIM'in zorlandığı mahallelerle devam eder. BER'deki ön ödemeli büfe seçenekleri FRA veya MUC'dakinden daha dardır — burada eSIM öncelikli yolun varsayılan olmasının bir nedeni daha.
 
-## eSIM Timing: Activate Before You Fly vs on Touchdown
+## eSIM Zamanlaması: Uçuştan Önce mi, İnişte mi Etkinleştirmeli?
 
-Both work; they fail differently.
+Her ikisi de çalışır; farklı şekillerde başarısız olurlar.
 
-**Before you fly** (recommended for most travelers): install the profile at home, leave it dormant, and let it connect on landing. The failure mode is trivial — if something goes wrong, you are on your couch with Wi-Fi and time, not in an arrivals queue. The step-by-step flow, including the QR code mistakes that generate most support tickets, is in the [installation and activation guide](/blog/germany-esim-installation-activation-setup/).
+**Uçuştan önce** (çoğu gezgin için önerilir): profili evde kurun, uykuda bırakın ve inişte bağlanmasına izin verin. Başarısızlık modu önemsizdir — bir şey ters giderse, varış kuyruğunda değil, kanepe­nizde Wi-Fi ve zamanla birlikte olursunuz. Çoğu destek talebini üreten QR kodu hataları dahil adım adım akış, [kurulum ve aktivasyon rehberindedir](/blog/germany-esim-installation-activation-setup/).
 
-**On touchdown** (fine for spontaneous trips): connect to airport Wi-Fi, buy the plan, scan, install, and wait for the confirmation. Give yourself 15 minutes and do not start the process while walking to a gate connection. One caution: buy from the provider's official site or app, not from a reseller link found through airport Wi-Fi captive portals.
+**İnişte** (spontane seyahatler için uygundur): havalimanı Wi-Fi'sine bağlanın, paketi satın alın, tarayın, kurun ve onayı bekleyin. Kendinize 15 dakika verin ve bir kapı bağlantısına yürürken süreci başlatmayın. Bir uyarı: havalimanı Wi-Fi captive portalları üzerinden bulunan bir bayi bağlantısından değil, sağlayıcının resmi sitesinden veya uygulamasından satın alın.
 
-## What Airport SIM Cards Cost vs a Germany eSIM
+## Havalimanı SIM Kartları Almanya eSIM'e Karşı Ne Kadar Tutturur?
 
-Kiosk prices rotate with the season, but the shape of the pricing does not — and in 2026 the numbers are specific enough to compare directly rather than talking around them.
+Büfe fiyatları mevsimle döner, ancak fiyatlandırmanın şekli değişmez — ve 2026'da rakamlar etrafında konuşmak yerine doğrudan karşılaştırılabilecek kadar belirgindir.
 
-### What a counter actually charges
+### Bir gişe gerçekte ne ücretlendirir
 
-Tourist-facing prepaid packages at German airports run roughly €15–30 for a modest data allowance: workable for a 48-hour stay, poor value over two weeks. A live example from Frankfurt — the Orange Travel "SIM World" pack sold at Relay, Hub Convenience and tech2go outlets inside the terminal — is 20 GB for 30 days at €34.99 across 76 countries. It is a legitimate product on a legitimate network, and it works out to about €1.75 per gigabyte.
+Alman havalimanlarındaki turiste yönelik ön ödemeli paketler, mütevazı bir veri hakkı için kabaca 15–30 € tutar: 48 saatlik bir konaklama için uygulanabilir, iki hafta boyunca kötü bir değer. Frankfurt'tan canlı bir örnek — terminal içindeki Relay, Hub Convenience ve tech2go satış noktalarında satılan Orange Travel "SIM World" paketi — 76 ülkede 30 gün için 20 GB ve 34,99 €. Meşru bir ağda meşru bir ürün ve gigabayt başına yaklaşık 1,75 €'ya gelir.
 
-### What the same money buys off airport property
+### Aynı paranın havalimanı dışında ne aldığı
 
-German supermarket and discount prepaid is among the cheapest in Europe. Aldi Talk and Lidl Connect starter packs land in the region of €9–15 and carry 10–25 GB, the three national carriers sell comparable entry packages, and all of them include a German phone number plus EU roaming by default. That lands near €0.40 per gigabyte — roughly a quarter of the airport counter's rate. The [local carriers and prepaid guide](/blog/germany-esim-local-carriers-prepaid-guide/) breaks those tariffs down network by network.
+Alman süpermarket ve indirim ön ödemelisi Avrupa'nın en ucuzları arasındadır. Aldi Talk ve Lidl Connect başlangıç paketleri 9–15 € bölgesine düşer ve 10–25 GB taşır; üç ulusal operatör karşılaştırılabilir giriş paketleri satar ve hepsi varsayılan olarak bir Alman telefon numarası artı AB dolaşımı içerir. Bu, gigabayt başına yaklaşık 0,40 €'ya iner — havalimanı gişesinin oranının kabaca dörtte biri. [Yerel operatörler ve ön ödemeli rehberi](/blog/germany-esim-local-carriers-prepaid-guide/) bu tarifeleri ağ ağ ayırır.
 
-### The three channels side by side
+### Üç kanal yan yana
 
-| Where you buy | Typical 2026 cost | Data | ID registration | German number |
+| Nereden alırsınız | Tipik 2026 maliyeti | Veri | Kimlik kaydı | Alman numarası |
 |---|---|---|---|---|
-| Airport counter (tourist pack) | €15–30, e.g. €34.99 for 20 GB | Small to moderate, short validity | Mandatory, at the counter | Yes |
-| Supermarket or high-street carrier shop | Roughly €9–15 | 10–25 GB per four-week cycle | Mandatory, in a shop or by video call | Yes |
-| International travel eSIM | One-off, bought online before you fly | Sized to your trip | None | No |
+| Havalimanı gişesi (turist paketi) | 15–30 €, örn. 20 GB için 34,99 € | Küçükten ortaya, kısa geçerlilik | Zorunlu, gişede | Evet |
+| Süpermarket veya caddedeki operatör dükkânı | Kabaca 9–15 € | Dört haftalık döngü başına 10–25 GB | Zorunlu, dükkânda veya görüntülü görüşmeyle | Evet |
+| Uluslararası seyahat eSIM'i | Tek seferlik, uçuştan önce çevrimiçi | Seyahatinize göre boyutlandırılmış | Hiçbiri | Hayır |
 
-The counter's true cost is not the sticker price — it is the sticker price plus the registration queue plus the fact that you committed before you had any chance to compare. What the counter does sell honestly is immediate help: you walk out with a working line and a person to fix it. For a genuinely last-minute arrival on a phone without eSIM support, that is worth something. For anyone else, the per-gigabyte math does not survive contact with the comparison. A purchased-but-not-activated Germany eSIM also usually still qualifies for a refund, whereas a registered prepaid card does not; the [buying guide's refund section](/blog/buy-germany-esim-guide/) explains the activation exception.
+Gişenin gerçek maliyeti etiket fiyatı değildir — etiket fiyatı artı kayıt kuyruğu artı herhangi bir karşılaştırma şansınız olmadan önce taahhüt etmiş olmanız gerçeğidir. Gişenin dürüstçe sattığı şey anlık yardımdır: çalışan bir hatla ve onu düzeltecek bir kişiyle çıkarsınız. eSIM desteği olmayan bir telefonda gerçekten son dakika bir varış için bu bir şeye değer. Diğer herkes için, gigabayt başına matematik karşılaştırmayla temasta ayakta kalmaz. Satın alınmış ama etkinleştirilmemiş bir Almanya eSIM'i de genellikle iade için uygun kalırken, kayıtlı bir ön ödemeli kart kalmaz; [satın alma rehberinin iade bölümü](/blog/buy-germany-esim-guide/) aktivasyon istisnasını açıklar.
 
-### The two cases where you should buy nothing
+### Hiçbir şey satın almamanız gereken iki durum
 
-If your contract comes from an EU or EEA country, roam-like-at-home already covers Germany at your domestic rate. Check the fair-use cap — usually lower than your home allowance, and the only thing that catches people out — and otherwise leave your wallet alone. And if Frankfurt is a connection rather than a destination, a German plan is worthless: use the terminal Wi-Fi for the layover and buy for the country you are actually entering.
+Sözleşmeniz bir AB veya AEA ülkesinden geliyorsa, evde gibi dolaşım zaten Almanya'yı yerel tarifenizden kapsar. Adil kullanım sınırını kontrol edin — genellikle ev hakkınızdan düşüktür ve insanları yakalayan tek şey budur — ve aksi halde cüzdanınıza dokunmayın. Ve Frankfurt bir varış noktası değil bir aktarmaysa, bir Alman paketi değersizdir: aktarma için terminal Wi-Fi'sini kullanın ve gerçekte girdiğiniz ülke için satın alın.
 
-One practical check before you fly: confirm your phone is carrier-unlocked, because an airport data plan bought on the spot is useless if the handset refuses a foreign profile. It is also worth deciding in advance whether you want the flexibility of topping up mid-trip — some kiosk plans cannot be topped up at all, which means buying a second plan at full price if you run out.
+Uçuştan önce pratik bir kontrol: telefonunuzun operatör kilidinin açık olduğunu doğrulayın, çünkü cihaz yabancı bir profili reddederse yerinde satın alınan bir havalimanı veri paketi işe yaramaz. Ayrıca seyahat ortasında yükleme esnekliğini isteyip istemediğinize önceden karar vermekte fayda var — bazı büfe paketlerine hiç yükleme yapılamaz; bu da tükenirseniz tam fiyata ikinci bir paket almanız anlamına gelir.
 
-## Arrival Scenarios: What to Set Up Before You Fly
+## Varış Senaryoları: Uçuştan Önce Ne Kurmalı
 
-Three arrival profiles cover most readers, and each one changes the order of operations:
+Üç varış profili çoğu okuyucuyu kapsar ve her biri işlemlerin sırasını değiştirir:
 
-- **Long-haul into Frankfurt Terminal 3, onward by ICE.** You are landing in the newest hall at Germany's busiest airport and leaving it almost immediately for another city. Install the Germany eSIM at home, load your ICE ticket into the DB Navigator app while still on hotel Wi-Fi, and treat the airport as a corridor. There is no reason to touch a counter — and no time to.
-- **Night arrival at Berlin or Frankfurt.** Terminals stay covered at 23:40 in both cities; services do not. Counters shut, carrier hotlines default to German, and a failed activation at that hour has no human fallback until morning. This is the strongest single argument for buying and installing before departure: a Germany eSIM set up at home connects on landing regardless of local business hours.
-- **A group of four landing at Munich.** The group Airport-City-Day-Ticket covers all four for €32.60 instead of four singles at €15.10 each, and four eSIM profiles bought in one checkout beat four registrations at a counter. Install everyone's profile before the flight and the whole group is online at baggage claim. The [families and students guide](/blog/germany-esim-families-students-special-travel/) covers group data sizing and how one large plan can carry a tablet alongside the phones.
+- **Frankfurt Terminal 3'e uzun mesafe, ICE ile devam.** Almanya'nın en yoğun havalimanının en yeni salonuna iniyorsunuz ve neredeyse hemen başka bir şehre gidiyorsunuz. Almanya eSIM'ini evde kurun, ICE biletinizi hâlâ otel Wi-Fi'sindeyken DB Navigator uygulamasına yükleyin ve havalimanını bir koridor olarak görün. Bir gişeye dokunmanın hiçbir nedeni yok — ve zamanı da yok.
+- **Berlin veya Frankfurt'a gece varışı.** Her iki şehirde de terminaller 23:40'ta kapsanmaya devam eder; hizmetler etmez. Gişeler kapanır, operatör sıcak hatları Almancaya döner ve o saatte başarısız bir aktivasyonun sabaha kadar insan yedeği yoktur. Bu, kalkıştan önce satın alma ve kurma lehindeki en güçlü tek argümandır: evde kurulmuş bir Almanya eSIM'i, yerel iş saatlerinden bağımsız olarak inişte bağlanır.
+- **Münih'e dört kişilik bir grup.** Grup Airport-City-Day-Ticket, dört tek biletin her biri 15,10 € yerine dördünü 32,60 €'ya kapsar ve tek bir ödemede alınan dört eSIM profili, gişede dört kayıt işlemini geçer. Herkesin profilini uçuştan önce kurun ve tüm grup bagaj alımında çevrimiçi olur. [Aileler ve öğrenciler rehberi](/blog/germany-esim-families-students-special-travel/) grup veri boyutlandırmasını ve tek büyük bir paketin telefonlarla birlikte bir tableti nasıl taşıyabileceğini kapsar.
 
-## Airport Wi-Fi vs eSIM: What Each Is Good For
+## Havalimanı Wi-Fi'si vs eSIM: Her Biri Ne İçin İyi
 
-German airport Wi-Fi and your Germany eSIM are complements, not rivals, and knowing which to use where saves the most common arrival-day mistake:
+Alman havalimanı Wi-Fi'si ve Almanya eSIM'iniz rakip değil tamamlayıcıdır ve hangisini nerede kullanacağınızı bilmek en yaygın varış günü hatasını önler:
 
-- **Wi-Fi is for the profile download.** Installing an eSIM profile pulls tens of megabytes; airport Wi-Fi handles it comfortably and keeps your cellular data untouched for the city.
-- **Cellular is for everything after doors open.** Ride-hailing at the curb, DB tickets on the platform, maps in the cab — none tolerate the captive-portal dance.
-- **Avoid captive-portal purchases.** If a reseller's checkout appears through an airport Wi-Fi landing page, close it and buy through the provider's official app or site directly. Portal-mediated checkouts are where sketchy third-party offers live.
+- **Wi-Fi profil indirmesi içindir.** Bir eSIM profili kurmak onlarca megabayt çeker; havalimanı Wi-Fi'si bunu rahatça halleder ve hücresel verinizi şehir için el değmemiş tutar.
+- **Hücresel, kapılar açıldıktan sonraki her şey içindir.** Kaldırımda araç çağırma, peronda DB biletleri, taksitde haritalar — hiçbiri captive portal dansına tolerans göstermez.
+- **Captive portal satın alımlarından kaçının.** Havalimanı Wi-Fi açılış sayfası üzerinden bir bayinin ödeme ekranı görünüyorsa, kapatın ve doğrudan sağlayıcının resmi uygulaması veya sitesi üzerinden satın alın. Portal aracılı ödeme ekranları, şüpheli üçüncü taraf tekliflerinin yaşadığı yerdir.
 
-One practical warning for FRA specifically: with Terminal 3 now operational, some long-haul arrivals bus between remote stands, and that stretch is the one place with neither usable Wi-Fi nor predictable cellular. Anything critical — a hotel address, a transfer booking — belongs offline in your notes app before landing.
+FRA'ya özgü pratik bir uyarı: Terminal 3 artık faaliyette olduğundan, bazı uzun mesafe varışları uzak park pozisyonları arasında otobüsle taşınır ve o kesim ne kullanılabilir Wi-Fi ne de öngörülebilir hücresel olan tek yerdir. Kritik olan her şey — bir otel adresi, bir aktarma rezervasyonu — inişten önce notlar uygulamanızda çevrimdışı olmalıdır.
 
-## Landing Late: Night Arrivals and 24-Hour eSIM Connectivity
+## Geç İniş: Gece Varışları ve 24 Saat eSIM Bağlantısı
 
-Frankfurt and Berlin handle flights past midnight; Munich winds down earlier. The connectivity question at 23:40 is not signal — all three gateways stay covered — but *services*: kiosk counters close, carrier hotlines go German-only, and if your eSIM activation fails at that hour, your fallback options thin out. This is the strongest practical argument for installing the profile at home. A plan bought online activates itself on landing regardless of local business hours, and if it misbehaves, provider support tickets filed at midnight get answered in the morning without you standing in a dark terminal.
+Frankfurt ve Berlin gece yarısından sonraki uçuşları da işler; Münih daha erken yavaşlar. 23:40'ta bağlantı sorusu sinyal değil, *hizmetlerdir*: büfe gişeleri kapanır, operatör sıcak hatları yalnızca Almanca olur ve o saatte eSIM aktivasyonunuz başarısız olursa yedek seçenekleriniz azalır. Bu, profili evde kurma lehindeki en güçlü pratik argümandır. Çevrimiçi satın alınan bir paket, yerel iş saatlerinden bağımsız olarak inişte kendini etkinleştirir ve yanlış davranırsa, gece yarısı açılan sağlayıcı destek talepleri siz karanlık bir terminalde durmadan sabah yanıtlanır.
 
-The city-side picture stays friendly late: S-Bahn and airport express lines run through the night on weekends, and ride-hailing works at all three airports — all of which assumes one thing your eSIM guarantees: being online the moment you need the app.
+Şehir tarafındaki resim geç saatlerde arkadaşça kalır: S-Bahn ve havalimanı ekspres hatları hafta sonları gece boyunca çalışır ve araç çağırma üç havalimanında da çalışır — bunların hepsi eSIM'inizin garanti ettiği bir şeyi varsayar: uygulamaya ihtiyaç duyduğunuz an çevrimiçi olmak.
 
-## Group Arrivals: One eSIM Plan per Phone
+## Grup Varışları: Telefon Başına Bir eSIM Paketi
 
-Traveling as a group changes the airport calculus completely. Four physical cards at a kiosk means four ID registrations and four queues; four eSIM profiles bought online means one checkout and four forwarded QR codes. Install everyone's profile at home, and the entire family walks off the plane connected — the [families and students guide](/blog/germany-esim-families-students-special-travel/) covers group data sizing and the hotspot trick that lets one large plan serve a tablet and a laptop alongside the phones.
+Grup olarak seyahat etmek havalimanı hesabını tamamen değiştirir. Büfedeki dört fiziksel kart dört kimlik kaydı ve dört kuyruk demektir; çevrimiçi alınan dört eSIM profili ise tek ödeme ve dört iletilen QR kodu demektir. Herkesin profilini evde kurun ve tüm aile uçaktan bağlı olarak iner — [aileler ve öğrenciler rehberi](/blog/germany-esim-families-students-special-travel/) grup veri boyutlandırmasını ve tek büyük bir paketin telefonların yanı sıra bir tablet ve bir dizüstüne hizmet etmesini sağlayan hotspot numarasını kapsar.
 
-## The Kiosk Reality Check: What a Germany eSIM Avoids
+## Büfe Gerçeklik Kontrolü: Almanya eSIM'in Kaçındıkları
 
-If you do end up at a counter, knowing the line items helps. An airport prepaid purchase bundles four things: the data package, the physical card itself, the identity-registration service, and the airport retail margin. Only the first has lasting value to you. The card is worthless at the end of the trip, the registration service is a legal compliance step you did not choose, and the margin is what makes the counter price look uncompetitive against an online purchase of the same data volume.
+Yine de bir gişeye düşerseniz, kalemleri bilmek yardımcı olur. Bir havalimanı ön ödemeli satın alımı dört şeyi bir araya getirir: veri paketi, fiziksel kartın kendisi, kimlik kaydı hizmeti ve havalimanı perakende kâr marjı. Bunlardan yalnızca ilki sizin için kalıcı değer taşır. Kart seyahatin sonunda değersizdir, kayıt hizmeti seçmediğiniz yasal bir uyum adımıdır ve marj, gişe fiyatının aynı veri hacminin çevrimiçi satın alımına karşı rekabetçi görünmemesini sağlayan şeydir.
 
-There is also a data-volume trap. Kiosk bundles skew toward small packages with short validity — fine for a 48-hour stay, poor value for a two-week trip — and the clerk's recommendation is often the package with the highest margin rather than the best fit. If you must buy at the airport, decide your data volume and validity window before you reach the counter.
+Bir de veri hacmi tuzağı vardır. Büfe paketleri kısa geçerlilikli küçük paketlere yönelir — 48 saatlik bir konaklama için uygun, iki haftalık bir seyahat için kötü değer — ve görevlinin önerisi genellikle en iyi uyumdan ziyade en yüksek marjlı pakettir. Havalimanında satın almanız gerekiyorsa, gişeye ulaşmadan önce veri hacminizi ve geçerlilik pencerenizi belirleyin.
 
-One legitimate advantage of the counter, worth stating fairly: you leave with a working connection the same minute, with a human being to help if something fails. For very short notice trips on devices without eSIM support, that has real value.
+Gişenin adil bir şekilde belirtmeye değer meşru bir avantajı vardır: aynı dakika çalışan bir bağlantıyla, bir şey başarısız olursa yardımcı olacak bir insanla ayrılırsınız. eSIM desteği olmayan cihazlarda çok kısa süreli seyahatler için bunun gerçek değeri vardır.
 
-## Connecting Before Takeoff: A Five-Minute eSIM Checklist
+## Kalkıştan Önce Bağlanmak: Beş Dakikalık eSIM Kontrol Listesi
 
-Most arrival-day eSIM failures trace back to something skipped at home. Five minutes before you close your suitcase:
+Çoğu varış günü eSIM arızası, evde atlanan bir şeye dayanır. Valizinizi kapatmadan beş dakika önce:
 
-- **Confirm the profile is installed but not activated**, if your plan activates on first network contact — the usual rule for travel plans.
-- **Save the QR code and the activation email offline.** Screenshot the QR and the provider's support address; you will not have data during the window when you need them most.
-- **Turn on data roaming for the travel line.** Travel eSIMs always require roaming enabled to attach to a German network — this single forgotten toggle causes a large share of "my eSIM does not work" reports.
-- **Set the travel plan as the default data line** and leave the home line for calls and SMS.
-- **Check how many lines your phone can run at once.** Most recent iPhones hold several profiles on the chip yet keep only two live at once, so a home eSIM already occupies one of those slots; the [card guide](/blog/germany-esim-card/) sets out the per-device limits.
-- **Download the offline map of your arrival city** while still on home Wi-Fi.
+- **Profilin kurulu ama etkinleştirilmemiş olduğunu doğrulayın**, paketiniz ilk ağ temasında etkinleşiyorsa — seyahat paketleri için olağan kural.
+- **QR kodunu ve aktivasyon e-postasını çevrimdışı kaydedin.** QR'ı ve sağlayıcının destek adresini ekran görüntüsü alın; onlara en çok ihtiyaç duyduğunuz pencerede veriniz olmayacak.
+- **Seyahat hattı için veri dolaşımını açın.** Seyahat eSIM'leri bir Alman ağına bağlanmak için her zaman dolaşımın etkin olmasını gerektirir — unutulan bu tek anahtar, "eSIM'im çalışmıyor" bildirimlerinin büyük bir kısmına neden olur.
+- **Seyahat paketini varsayılan veri hattı olarak ayarlayın** ve ev hattını aramalar ve SMS için bırakın.
+- **Telefonunuzun aynı anda kaç hat çalıştırabildiğini kontrol edin.** Çoğu yeni iPhone çipte birkaç profil tutar ancak aynı anda yalnızca ikisini canlı tutar; bu yüzden zaten bir ev eSIM'i o slotlardan birini işgal eder; [kart rehberi](/blog/germany-esim-card/) cihaz başına sınırları ortaya koyar.
+- **Varış şehrinizin çevrimdışı haritasını** hâlâ ev Wi-Fi'sindeyken indirin.
 
-The [installation and activation guide](/blog/germany-esim-installation-activation-setup/) shows each step with the exact settings-screen names, which differ between iOS and Android.
+[Kurulum ve aktivasyon rehberi](/blog/germany-esim-installation-activation-setup/) her adımı, iOS ve Android arasında farklılık gösteren tam ayar ekranı adlarıyla gösterir.
 
-## Frequently Asked Questions
+## Sıkça Sorulan Sorular
 
-### Can I buy a Germany eSIM at Frankfurt Airport?
+### Frankfurt Havalimanı'nda Almanya eSIM satın alabilir miyim?
 
-You can buy physical SIM cards and prepaid packages at FRA kiosks, but eSIM profiles are not sold over the counter there — the reliable route is buying your Germany eSIM online before you fly (or over the airport's Wi-Fi on arrival) and installing it yourself in about two minutes.
+FRA büfelerinde fiziksel SIM kartlar ve ön ödemeli paketler satın alabilirsiniz, ancak eSIM profilleri orada gişe üzerinden satılmaz — güvenilir yol Almanya eSIM'inizi uçuştan önce çevrimiçi (veya varışta havalimanının Wi-Fi'si üzerinden) satın alıp yaklaşık iki dakikada kendiniz kurmanızdır.
 
-### Does a Germany eSIM work immediately on landing?
+### Bir Almanya eSIM'i inişte hemen çalışır mı?
 
-Yes, if it was installed in advance. The profile detects a supported German network as soon as the phone regains signal after landing — usually before the aircraft doors open. If you install only after touchdown, expect 5–15 minutes of setup over airport Wi-Fi.
+Evet, önceden kurulduysa. Profil, inişten sonra telefon sinyali yeniden kazandığı anda desteklenen bir Alman ağını algılar — genellikle uçak kapıları açılmadan önce. Yalnızca indikten sonra kurarsanız, havalimanı Wi-Fi'si üzerinden 5–15 dakikalık kurulum bekleyin.
 
-### Which German airport is best for eSIM arrival?
+### eSIM varışı için hangi Alman havalimanı en iyisi?
 
-All three major gateways — Frankfurt, Munich, Berlin — offer free Wi-Fi strong enough for activation, and all three have excellent city train connections where a working eSIM pays off immediately. There is no meaningful difference in eSIM friendliness; the difference is in kiosk pricing, where Berlin tends to be simplest and Frankfurt the most congested.
+Üç ana giriş kapısı da — Frankfurt, Münih, Berlin — etkinleştirme için yeterince güçlü ücretsiz Wi-Fi sunar ve üçünün de çalışan bir eSIM'in hemen karşılığını verdiği mükemmel şehir tren bağlantıları vardır. eSIM dostluğunda anlamlı bir fark yoktur; fark büfe fiyatlandırmasındadır; Berlin en basit, Frankfurt en yoğun olma eğilimindedir.
 
-### Should I activate my Germany eSIM before landing or after?
+### Almanya eSIM'imi inişten önce mi sonra mı etkinleştirmeliyim?
 
-Before landing, if the plan allows it — you arrive already connected and avoid the airport network rush entirely. After landing over airport Wi-Fi works too, adding about 15 minutes at the gate.
+Paket izin veriyorsa inişten önce — zaten bağlı varırsınız ve havalimanı ağ yoğunluğundan tamamen kaçınırsınız. İnişten sonra havalimanı Wi-Fi'si üzerinden de çalışır, kapıda yaklaşık 15 dakika ekler.
 
-### What if my Germany eSIM does not connect after landing?
+### Almanya eSIM'im inişten sonra bağlanmazsa ne olur?
 
-Work through three settings first: data roaming enabled on the travel line, that line set as the default data line, and network selection set to automatic. Most activation failures are one of those three toggles; the [troubleshooting guide](/blog/germany-esim-troubleshooting-fix-guide/) covers the remaining causes in order of likelihood.
+Önce üç ayarı gözden geçirin: seyahat hattında veri dolaşımı etkin, o hat varsayılan veri hattı olarak ayarlı ve ağ seçimi otomatikte. Çoğu aktivasyon arızası bu üç anahtardan biridir; [sorun giderme rehberi](/blog/germany-esim-troubleshooting-fix-guide/) kalan nedenleri olasılık sırasına göre kapsar.
 
-### Is the airport SIM card ever the better choice?
+### Havalimanı SIM kartı hiç daha iyi bir seçim midir?
 
-Only if your phone does not support eSIM, or if you need a German phone number on the spot and cannot wait for a carrier appointment — in which case the ID registration at the counter is unavoidable. For data-only travel on an eSIM-capable phone, buying online before departure is cheaper, faster, and network-flexible: an airport tourist pack runs €15–30 for a modest allowance, while supermarket prepaid of the same value covers several times the data.
+Yalnızca telefonunuz eSIM'i desteklemiyorsa veya yerinde bir Alman telefon numarasına ihtiyacınız varsa ve bir operatör randevusu bekleyemiyorsanız — bu durumda gişedeki kimlik kaydı kaçınılmazdır. eSIM destekli bir telefonda yalnızca veri seyahati için, kalkıştan önce çevrimiçi satın almak daha ucuz, daha hızlı ve ağ esnekliğine sahiptir: bir havalimanı turist paketi mütevazı bir hak için 15–30 € tutarken, aynı değerde süpermarket ön ödemelisi verinin birkaç katını kapsar.
 
-### How much is the train from Frankfurt Airport to the city?
+### Frankfurt Havalimanı'ndan şehre tren ne kadar?
 
-An RMV single ticket from FRA to Frankfurt Hauptbahnhof costs €6.90 in 2026, and the S-Bahn S8 or S9 takes 11–15 minutes from the Regionalbahnhof beneath Terminal 1; a day ticket covering the airport runs around €13–14. Buy it in the RMV or DB Navigator app before boarding — the system is barrier-free with random checks, and travelling without a valid ticket carries a fine.
+FRA'dan Frankfurt Hauptbahnhof'a bir RMV tek bileti 2026'da 6,90 € tutar ve S-Bahn S8 veya S9, Terminal 1'in altındaki Regionalbahnhof'tan 11–15 dakika sürer; havalimanını kapsayan bir günlük bilet yaklaşık 13–14 €'dur. Binmeden önce RMV veya DB Navigator uygulamasından alın — sistem bariyersizdir ve rastgele kontrollerle çalışır; geçerli biletsiz seyahat ceza gerektirir.
 
-### Do I need a SIM card for a layover at Frankfurt Airport?
+### Frankfurt Havalimanı'nda bir aktarma için SIM kart gerekli mi?
 
-No. If you are connecting rather than entering Germany, use the terminal's free unlimited Wi-Fi for the layover and buy a plan for your final destination instead. German prepaid activation requires passport registration and is the wrong tool for a two-hour connection.
+Hayır. Almanya'ya girmek yerine aktarma yapıyorsanız, aktarma için terminalin ücretsiz sınırsız Wi-Fi'sini kullanın ve bunun yerine nihai varış noktanız için bir paket satın alın. Alman ön ödemeli aktivasyonu pasaport kaydı gerektirir ve iki saatlik bir bağlantı için yanlış araçtır.
 
-### Why do some Frankfurt Airport guides still mention Terminal 2?
+### Bazı Frankfurt Havalimanı rehberleri neden hâlâ Terminal 2'den söz ediyor?
 
-Because they predate June 2026. Terminal 3 opened on 23 April 2026, all Terminal 2 airlines relocated to it on 9 June 2026, and Terminal 2 is now closed for refurbishment until the mid-2030s. If your booking shows Terminal 2, check the airline's current terminal before you fly — and note that Terminals 1 and 3 are linked by the free SkyLine train, a ride of up to ten minutes.
+Çünkü Haziran 2026'dan öncesine aittirler. Terminal 3, 23 Nisan 2026'da açıldı, tüm Terminal 2 havayolları 9 Haziran 2026'da oraya taşındı ve Terminal 2 artık 2030'ların ortalarına kadar yenileme için kapalıdır. Rezervasyonunuz Terminal 2'yi gösteriyorsa, uçuştan önce havayolunun güncel terminalini kontrol edin — ve Terminal 1 ile 3'ün ücretsiz SkyLine treniyle bağlandığını, yolculuğun on dakikaya kadar sürdüğünü unutmayın.
 
-### Which Munich S-Bahn line goes to the airport?
+### Münih'te hangi S-Bahn hattı havalimanına gider?
 
-Both S1 and S8 serve Munich Airport and take about 40 minutes to the city centre. The S8 is the simpler choice on the return journey because it avoids the S1's split at Neufahrn; if you do take the S1, board only the section marked "Flughafen". Either way, the Airport-City-Day-Ticket at €17.50 covers the trip plus unlimited city travel for the rest of the day.
+Hem S1 hem S8 Münih Havalimanı'na hizmet eder ve şehir merkezine yaklaşık 40 dakika sürer. S8, dönüş yolculuğunda daha basit seçimdir çünkü S1'in Neufahrn'daki ayrılmasını önler; S1'i alırsanız yalnızca "Flughafen" olarak işaretlenmiş bölüme binin. Her iki durumda da 17,50 €'luk Airport-City-Day-Ticket, yolculuğu artı günün geri kalanı için sınırsız şehir içi seyahati kapsar.
