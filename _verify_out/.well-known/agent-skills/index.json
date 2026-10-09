@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "roami-esim-catalog",
+      "type": "skill-md",
+      "description": "Query the Roami travel eSIM product catalog to find the cheapest or best plan for any destination.",
+      "url": "https://www.roamiapp.com/.well-known/agent-skills/roami-esim-catalog/SKILL.md",
+      "digest": "sha256:2855bbce739ada18071285a86931e5705e75e4eb6299d9f598b9e8edb40425f2"
+    }
+  ]
+}

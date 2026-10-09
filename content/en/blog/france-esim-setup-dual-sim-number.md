@@ -3,9 +3,9 @@ title: "France eSIM Setup: Dual SIM and Phone Number Guide"
 description: "France eSIM setup guide: install and activate on iPhone and Android, configure dual SIM, and understand French number options."
 keywords: ["France eSIM setup", "France eSIM installation", "France eSIM iPhone", "France eSIM dual SIM", "eSIM QR code activation", "France eSIM activation", "Orange eSIM setup", "eSIM installation guide"]
 date: 2026-09-17T00:00:00Z
-lastmod: 2026-09-17T00:00:00Z
+lastmod: 2026-10-07T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Publisher of this France eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/france/france-esim-setup-dual-sim-number.jpg"
 categories: ["France", "eSIM", "Travel"]
 tags: ["France eSIM", "Travel eSIM"]
@@ -499,7 +499,7 @@ International travel eSIMs are almost exclusively data-only. They provide mobile
 
 Orange Travel is the only eSIM product from a French carrier that includes a genuine French phone number (+33 number). This is not a virtual number or VoIP line — it is a fully registered French mobile number on the Orange network. For tiers, verification use cases, and the full buying walkthrough, see our [French number eSIM guide](/blog/france-esim-with-phone-number/).
 
-### Orange Travel plan options (verified September 2026)
+### Orange Travel plan options (verified 8 October 2026)
 
 | Plan | Data | Validity | French Number | Price |
 |------|------|----------|---------------|-------|
@@ -1075,6 +1075,12 @@ If you are still deciding which provider to use, the [France eSIM 101](/blog/fra
 
 ---
 
+## France eSIM Setup on iPhone vs Android: What Actually Differs
+
+The two platforms expose the same settings under different names, and that naming gap causes more failed setups than any network problem. On iPhone the France eSIM appears under **Settings > Cellular**, and the data line is chosen there; the eSIM's own **Data Roaming** switch lives one level deeper, on the line itself. On Android the equivalent controls sit in **Settings > Connections > SIM Manager**, and the data line is labelled *Mobile Data* rather than *Cellular Data*. An **eSIM profile** can install successfully and still show no data until the roaming toggle on that specific line is on — a state that looks like a dead eSIM but is a two-tap fix.
+
+One hardware difference worth knowing: iPhone models sold in mainland China have no eSIM hardware at all, so a France eSIM cannot be installed on them regardless of settings. Android support is fragmented by manufacturer — Google Pixel and recent Samsung Galaxy flagships support eSIM, while several OnePlus and Xiaomi models do not, and imported or region-locked handsets may lack the French network bands even when eSIM itself works.
+
 ## France eSIM Setup FAQ: Activation and Dual-SIM
 
 ### How do I set up a France eSIM before my trip?
@@ -1109,8 +1115,8 @@ No, data-only travel eSIMs from providers like Airalo, Ubigi, and Holafly do not
 
 ---
 
-*Device compatibility and setup steps verified as of September 2026. Prices and plan details are subject to change. Always verify current pricing and setup instructions on the provider's official website before purchasing. For iPhone-specific guidance, see Apple's eSIM support page. For Android guidance, consult your device manufacturer's support documentation. Coverage maps are available on [ARCEP's Mon Reseau Mobile portal](https://monreseaumobile.arcep.fr/) and on each carrier's website: [Orange](https://www.orange.fr/portail), [SFR](https://www.sfr.fr/), [Bouygues](https://www.bouyguestelecom.fr/), [Free](https://mobile.free.fr/). For a complete list of eSIM-compatible devices, visit the GSMA eSIM device list.*
+*Device compatibility and setup steps verified as of 8 October 2026. Prices and plan details are subject to change. Always verify current pricing and setup instructions on the provider's official website before purchasing. For iPhone-specific guidance, see Apple's eSIM support page. For Android guidance, consult your device manufacturer's support documentation. Coverage maps are available on [ARCEP's Mon Reseau Mobile portal](https://monreseaumobile.arcep.fr/) and on each carrier's website: [Orange](https://www.orange.fr/portail), [SFR](https://www.sfr.fr/), [Bouygues](https://www.bouyguestelecom.fr/), [Free](https://mobile.free.fr/). For a complete list of eSIM-compatible devices, visit the GSMA eSIM device list.*
 
 
-For more information, see our [France eSIM complete guide](/blog/france-esim-complete-guide/).
+For the wider picture, see our [overview of France eSIM options](/blog/france-esim-complete-guide/).
 

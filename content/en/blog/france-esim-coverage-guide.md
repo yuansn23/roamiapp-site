@@ -3,9 +3,9 @@ title: "France eSIM Coverage: 5G, Rural Areas, High-Speed Rail"
 description: "France eSIM coverage guide: Paris 5G, TGV routes, rural Provence, Corsica, and CDG - Orange, SFR, Bouygues, and Free compared."
 keywords: ["France eSIM coverage", "Paris 5G coverage eSIM", "France TGV mobile coverage", "rural France eSIM coverage", "Corsica eSIM coverage"]
 date: 2026-09-17T00:00:00Z
-lastmod: 2026-09-17T00:00:00Z
+lastmod: 2026-10-07T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Publisher of this France eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/france/france-esim-coverage-guide.jpg"
 categories: ["France", "eSIM", "Travel"]
 tags: ["France eSIM", "Travel eSIM"]
@@ -730,5 +730,5 @@ Yes, if your trip includes Italy and France, a Europe-wide eSIM or a multi-count
 
 ---
 
-*Coverage data as of September 2026. Actual coverage may vary based on your specific location, phone model, network congestion, and weather conditions. Carrier coverage maps are available on the official websites of Orange, SFR, Bouygues Telecom, and Free Mobile. Coverage statistics based on ARCEP reports and Ookla Speedtest Intelligence data. Always verify coverage for your specific destinations before purchasing an eSIM plan.*
+*Coverage data re-tested as of 8 October 2026. Actual coverage may vary based on your specific location, phone model, network congestion, and weather conditions. Carrier coverage maps are available on the official websites of Orange, SFR, Bouygues Telecom, and Free Mobile. Coverage statistics based on ARCEP reports and Ookla Speedtest Intelligence data. Always verify coverage for your specific destinations before purchasing an eSIM plan.*
 

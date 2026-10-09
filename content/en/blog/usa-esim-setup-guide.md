@@ -3,9 +3,9 @@ title: "How to Install USA eSIM: Guide for iPhone and Android"
 description: "Set up a USA eSIM in 5 minutes. Covers installation, APN settings, and activation. Roami offers auto switching and live support."
 keywords: ["USA eSIM setup guide", "how to install USA eSIM", "USA eSIM activation iPhone", "USA eSIM compatible devices", "USA eSIM APN settings"]
 date: 2026-09-22T00:00:00Z
-lastmod: 2026-09-22T00:00:00Z
+lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Publisher of this USA eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/usa/usa-esim-setup-guide.jpg"
 categories: ["eSIM", "Travel", "USA"]
 tags: ["USA eSIM"]
@@ -91,7 +91,9 @@ If you want to rehearse the whole process before your trip, a [no-cost trial eSI
 
 ## USA eSIM compatible devices: how to check your phone
 
-Not all phones work with eSIM. Before buying a plan, confirm yours is compatible. This is the **first and most important step** in the USA eSIM installation process.
+> **Quick answer:** Install the eSIM on home WiFi before you fly, then land and toggle airplane mode once. Most profiles activate automatically on first US network contact — no store visit needed.
+
+Not all phones work with eSIM. Before buying a plan, confirm yours is compatible. Apple publishes the [full list of iPhone models that support eSIM](https://support.apple.com/en-us/HT209044), and Google documents [eSIM support on Pixel](https://support.google.com/pixelphone/answer/9449293). This is the **first and most important step** in the USA eSIM installation process.
 
 **Quick check:** Dial `*#06#` on your phone. If you see an EID number (usually 32 digits) listed alongside the IMEI, your phone supports eSIM. The [GSMA's official eSIM specifications](https://www.gsma.com/solutions-and-impact/technologies/esim/) confirm this is the standard identifier for eSIM-capable devices.
 
@@ -433,7 +435,7 @@ For persistent issues, see the [connection troubleshooting guide](/blog/usa-esim
 
 ## USA eSIM APN settings: what to expect
 
-Most providers configure APN automatically, and on a current iPhone, Pixel or Galaxy you will usually never open this screen. Keep the table below as a reference in case data does not start working on its own.
+Most providers configure APN automatically, and on a current iPhone, Pixel or Galaxy you will usually never open this screen. On a 5G handset the profile will pick up 5G where the partner network supports it, but nothing in the setup changes — the APN is the same for 5G and LTE. Keep the table below as a reference in case data does not start working on its own.
 
 | Provider | APN | Username | Password |
 |:---------|:---:|:--------:|:--------:|

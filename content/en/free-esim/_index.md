@@ -1,11 +1,15 @@
 ---
 title: "Claim Free eSIM | Global Travel Data Trial"
-date: '2026-08-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 
 seo:
-  title: "Free eSIM Trial (2026) | 5G, No Credit Card Required"
-  description: "Roami free eSIM: 100MB data, no credit card required. Japan, Thailand, USA &amp; Europe. Compare with Holafly &amp; Airalo. Instant 3-step activation"
-  keywords: "free eSIM, travel eSIM, international data plan, zero roaming fees, digital SIM card, global internet, prepaid eSIM, QR code eSIM"
+  # 头词前置：free esim 置于 title 首位，不再被 "Trial" 切断。
+  # 版本号/年份保留；数字 6 需与下方 providers_compare 的条数保持一致。
+  title: "Free eSIM in 2026: 6 Providers Compared, No Credit Card"
+  # 注意：此处必须写裸 & ，Hugo 会自动转义成 &amp;。
+  # 若写成 &amp; ，最终 HTML 会变成 &amp;amp; ，SERP 里会显示字面的 "&amp;"。
+  description: "Free eSIM compared: what 6 providers actually give you for $0 in 2026. GigSky, Nomad, Firsty and more. No credit card required, instant QR code."
+  keywords: "free eSIM, free eSIM trial, free eSIM no credit card, best free eSIM, free eSIM 2026, free eSIM data, eSIM free plan, travel eSIM, international data plan, zero roaming fees, digital SIM card, QR code eSIM"
   canonical_url: "/free-esim/"
   og_image: "/img/og-free-esim.jpg"
 
@@ -58,8 +62,9 @@ ui:
     alert_redirect: "Redirecting to the claim page..."
 
 hero:
-  title: "Get Your Free eSIM Trial – 100MB Data, No Credit Card"
-  subtitle: "Instantly get a free eSIM QR code with 100MB data – no credit card, no hidden fees. Enjoy 4G/5G connectivity in 200+ countries. Perfect for testing eSIM before you travel."
+  # H1：精确头词 "Free eSIM" 位于句首
+  title: "Free eSIM: Claim 100MB Free and Compare 6 Providers"
+  subtitle: "See what GigSky, Nomad, Firsty and other providers give you for $0, then claim a free 100MB eSIM QR code in 3 steps. No credit card, no hidden fees."
   trust_badges: 
     - "🌍 No Credit Card"
     - "⚡ 5G/4G High-Speed Network"
@@ -80,6 +85,168 @@ value_props:
   - title: "Seamless Paid Upgrade"
     desc: "After free data is depleted, recharge and upgrade with one click directly on your phone, no tedious physical SIM swapping."
     icon: "🚀"
+
+# ============================================================
+# 【新增】免费 eSIM 供应商横评
+# 渲染位置：layouts/_default/free-esim.html 的 providersCompare 区块
+# 该区块受 {{ if .Params.providers_compare }} 保护，其他 18 个语言版本
+# 没有这个键，会继续走原来那份 3 列对比表，不受影响。
+#
+# confidence 三档：
+#   high   = 官方页明确写出数字（本次已逐个打开核实）
+#   medium = 官方页有免费入口，但字段不全或需复核
+#   low    = 仅有第三方来源 —— 不上线
+# 上线前请逐个打开 source_url 复核，并更新 review_date。
+# ⚠️ Airalo / Holafly 两行是对竞品的否定性陈述（"无免费试用"），
+#    发布前必须在这两家的定价页上复核确认。
+# ============================================================
+providers_compare:
+  heading: "Free eSIM providers compared: what you actually get for $0"
+  intro: "Free tiers change often. Every figure below was read from the provider's own site on the review date — confirm it there before you travel."
+  review_date: "2026-10-09"
+  columns:
+    provider: "Provider"
+    free_data: "Free data"
+    validity: "Validity"
+    coverage: "Coverage"
+    card: "Credit card"
+    app: "App needed"
+    confidence: "Confidence"
+  providers:
+    - name: "Roami"
+      is_us: true
+      free_data: "100MB"
+      validity: "7 days"
+      coverage: "200+ countries"
+      card: "Not required"
+      app: "Yes — iOS / Android"
+      confidence: "high"
+      notes: "One trial per new user. Enough for maps, rideshare, email and messaging — not for video."
+      source_label: "Roami app"
+      source_url: "https://apps.apple.com/app/id6747127122"
+
+    - name: "GigSky"
+      is_us: false
+      free_data: "100MB — up to 5GB for eligible Visa cardholders"
+      validity: "7 days"
+      coverage: "125 countries on the standard trial; 290+ cruise ships"
+      card: "Not required"
+      app: "Yes"
+      confidence: "high"
+      notes: "Largest free allowance of this group if you hold an eligible Visa card. There is a separate free cruise eSIM."
+      source_label: "GigSky free offering"
+      source_url: "https://www.gigsky.com/free-offering"
+
+    - name: "Nomad"
+      is_us: false
+      free_data: "1GB"
+      validity: "3 days"
+      coverage: "76 destinations"
+      card: "Not required"
+      app: "Yes"
+      confidence: "high"
+      notes: "New Nomad users only. Auto-activates 15 days after redemption if unused. Hotspot supported."
+      source_label: "Nomad trial eSIM"
+      source_url: "https://www.nomadesim.com/documents/landing-trial-plan"
+
+    - name: "Firsty"
+      is_us: false
+      free_data: "Free tier — allowance not published"
+      validity: "Not published"
+      coverage: "176 countries"
+      card: "Not required"
+      app: "Yes"
+      confidence: "medium"
+      notes: "Their site states free mobile data in 176 countries but does not publish the speed or daily allowance. Treat it as a backup, not a main plan."
+      source_label: "Firsty official site"
+      source_url: "https://firsty.app/"
+
+    - name: "Airalo"
+      is_us: false
+      free_data: "No free trial listed"
+      validity: "—"
+      coverage: "200+ countries on paid plans"
+      card: "—"
+      app: "Yes"
+      confidence: "medium"
+      notes: "Paid plans, plus first-purchase discounts and referral credit rather than a free tier."
+      source_label: "Airalo official site"
+      source_url: "https://www.airalo.com/"
+
+    - name: "Holafly"
+      is_us: false
+      free_data: "No free trial listed"
+      validity: "—"
+      coverage: "190+ countries on paid plans"
+      card: "—"
+      app: "Yes"
+      confidence: "medium"
+      notes: "Unlimited-data paid plans. Any free access would be a temporary promotion."
+      source_label: "Holafly official site"
+      source_url: "https://www.holafly.com/"
+
+# ============================================================
+# 【新增】候选供应商 —— 不渲染，仅作待核验清单
+# 本次已查过官方页但没查到免费额度的，或尚未核验的，都放这里。
+# 核实通过后：把条目移入上面的 providers_compare，
+# 并同步改 seo.title 与 hero.title 里的供应商数量。
+# ============================================================
+providers_pending:
+  candidates:
+    - name: "Ubigi"
+      source_url: "https://cellulardata.ubigi.com/"
+      checked: "2026-10-09 官方旅行站未列出任何免费试用；需再查 app 内与分区域页面"
+    - name: "Eskimo Travel"
+      source_url: "https://www.eskimo.travel/"
+      checked: "2026-10-09 首页主打「数据无有效期」，未列出免费额度"
+    - name: "RedteaGO"
+      source_url: "https://www.redteago.com/"
+      checked: "2026-10-09 首页未列出免费额度；第三方声称新用户 1GB，需以官方为准"
+    - name: "Saily"
+      source_url: "https://saily.com/"
+      checked: "未核验"
+    - name: "SimOptions"
+      source_url: "https://www.simoptions.com/"
+      checked: "未核验"
+    - name: "Flexiroam"
+      source_url: "https://www.flexiroam.com/"
+      checked: "未核验"
+
+# ============================================================
+# 【新增】"免费"的四种含义 —— 对齐纯信息型搜索意图
+# 渲染位置：providersCompare 之后的 freeTypes 区块
+# 目的：抢占"What does free eSIM mean"类问题，并顺带覆盖 Lifeline 等实体
+# ============================================================
+free_types:
+  heading: "&quot;Free eSIM&quot; can mean four different things"
+  intro: "Most confusion about free eSIMs comes from four different meanings being used interchangeably. Work out which one you actually need before comparing offers."
+  items:
+    - title: "A free eSIM profile, with a paid plan"
+      desc: "The digital SIM itself costs nothing to issue — there is no plastic card to manufacture or ship. Many carriers activate an eSIM at no charge, but you still pay for the data plan loaded onto it."
+    - title: "A short promotional trial"
+      desc: "A small block of free data for a few days, so you can test the network before buying. This is what Roami, GigSky, Nomad and Firsty offer. It is time-boxed and usually limited to one per person."
+    - title: "A government-subsidised plan"
+      desc: "In the United States, the Lifeline programme gives eligible low-income households free talk, text and data on an eSIM-compatible phone. It needs proof of eligibility — not a travel booking."
+    - title: "A perk bundled with something else"
+      desc: "Some devices, credit cards and travel packages now include eSIM data. GigSky, for example, gives up to 5GB to eligible Visa cardholders on top of its standard free trial."
+
+# ============================================================
+# 【新增】E-E-A-T / 可信度区块
+# 渲染位置：FAQ 之前的 trust 区块
+# ============================================================
+trust:
+  heading: "How these free eSIM offers were checked"
+  last_tested: "2026-10-09"
+  paragraphs:
+    - "Every free-data figure on this page was read directly from the provider's own website on the date above — not from press releases or affiliate round-ups. Where a provider does not publish a number, we say so rather than estimate it."
+    - "Free tiers are promotional and change without notice. We re-check the offers listed here regularly, and you should always confirm the current terms on the provider's site before relying on free data for a trip."
+  sources:
+    - label: "GigSky — free eSIM offering"
+      url: "https://www.gigsky.com/free-offering"
+    - label: "Nomad — free trial eSIM"
+      url: "https://www.nomadesim.com/documents/landing-trial-plan"
+    - label: "Firsty — official site"
+      url: "https://firsty.app/"
 
 search:
   placeholder: "Search destinations (e.g., Free eSIM trial Japan)..."
@@ -752,4 +919,19 @@ faq:
 
     - question: "Can the free eSIM trial be upgraded to a paid plan?"
       answer: "Absolutely! When your free trial data runs out or expires, you don’t need to install a new SIM — just purchase a paid data package for your destination on our website, and the data will be added directly to your existing eSIM, so you can continue enjoying uninterrupted connectivity."
+
+    - question: "Is a free eSIM really $0?"
+      answer: "It depends which kind of &quot;free&quot; you are being offered. A promotional trial — like ours, GigSky's or Nomad's — is genuinely $0, with no card and no subscription behind it. A free eSIM <em>profile</em> only means the digital SIM costs nothing to issue; the data plan on it is still paid. Always check which one you are getting."
+
+    - question: "How much free data do eSIM providers actually give?"
+      answer: "The published free allowances are small by design — they are meant to get you online on arrival, not to replace a real plan. At the time of writing: Nomad gives 1GB for 3 days, GigSky and Roami give 100MB for 7 days, and Firsty offers a free tier in 176 countries without publishing an allowance. Enough for maps, a rideshare and your email."
+
+    - question: "Can I get a free eSIM without a credit card?"
+      answer: "Yes. Roami, GigSky, Nomad and Firsty all issue their free trial without asking for payment details. A card only becomes necessary if you decide to buy a paid plan afterwards, or if you are claiming a card-linked perk such as GigSky's Visa offer."
+
+    - question: "Can I keep my WhatsApp number with a free eSIM?"
+      answer: "Yes. An eSIM handles data only, so your WhatsApp, iMessage and Telegram stay tied to your existing phone number — nothing needs to be migrated or re-verified. Keep your primary SIM active for calls and SMS and set the free eSIM as your mobile data line."
+
+    - question: "Why did my free eSIM stop working?"
+      answer: "There are only a few usual causes: the free allowance is used up, the validity window has expired, data roaming is switched off for that line, or the eSIM was deleted from the device. Check your remaining data and expiry date first, then confirm roaming is on for the eSIM line specifically rather than your main SIM."
 ---

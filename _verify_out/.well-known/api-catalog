@@ -1,0 +1,13 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.roamiapp.com/",
+      "service-desc": [
+        { "href": "https://www.roamiapp.com/openapi.json", "type": "application/openapi+json" }
+      ],
+      "service-doc": [
+        { "href": "https://www.roamiapp.com/docs/api/", "type": "text/html" }
+      ]
+    }
+  ]
+}

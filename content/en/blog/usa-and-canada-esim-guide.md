@@ -3,9 +3,9 @@ title: "USA and Canada eSIM: Best Cross-Border Plans Compared"
 description: "Roami USA and Canada eSIM: best cross-border plans, network switching, and coverage. Dual-SIM setup and how to avoid roaming fees."
 keywords: ["USA Canada eSIM", "US Canada cross border eSIM", "North America eSIM plan", "USA Canada eSIM network switching", "USA Canada eSIM dual SIM"]
 date: 2026-09-19T00:00:00Z
-lastmod: 2026-09-19T00:00:00Z
+lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Publisher of this USA eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/canada/usa-canada-esim-guide.jpg"
 categories: ["eSIM", "Travel", "Canada"]
 tags: ["Canada eSIM"]
@@ -82,6 +82,8 @@ If your itinerary touches both the United States and Canada, the first decision 
 
 ## Quick Answer: Do You Need a US-Canada Regional eSIM?
 
+> **Quick answer:** A single USA and Canada eSIM covers both countries and switches networks at the border automatically — cheaper and simpler than buying two local plans unless you are staying more than a month in one of them.
+
 **If your trip crosses the border even once, a US-Canada regional eSIM is usually the most convenient option.**  
 If you stay only in one country, a single-country eSIM is often cheaper.
 
@@ -103,7 +105,7 @@ If you stay only in one country, a single-country eSIM is often cheaper.
 - Cross-border eSIMs usually cost far less than international roaming.
 - Most regional eSIMs are data-only. If you need a phone number, see our [numbered Canada eSIM guide](/blog/canada-esim-with-phone-number-guide/).
 
-**Want to test coverage before your trip?** Try a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99** to check signal on both sides of the border. Enter `web20` at checkout for **20% off** your first plan — Roami's support desk answers around the clock.
+**Want to test coverage before your trip?** Try a [free eSIM trial](/free-esim/) or a [cross-border plan](/canada-esim/) from **$1.99** to check signal on both sides of the border. A single regional profile that switches between US and Canadian networks as you cross saves you from juggling two local SIMs — and the switch happens automatically at the border.
 
 **A note on our data sources:** This guide combines publicly available provider information, border crossing reports from travelers on Reddit and Trustpilot, and official [CRTC](https://crtc.gc.ca/eng/phone/mobile/) and [FCC](https://www.fcc.gov/) documentation. We clearly label where information comes from. We do not present our own speed tests or switching times because we cannot verify them to a scientific standard.
 

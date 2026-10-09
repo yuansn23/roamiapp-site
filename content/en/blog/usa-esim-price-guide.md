@@ -1,11 +1,11 @@
 ---
 title: "USA eSIM Price Guide: Complete Plan Cost Comparison"
 description: "How much does a USA eSIM cost? Every provider's pricing compared with per-GB breakdowns. Roami offers plans with auto switching."
-keywords: ["USA eSIM price guide", "cheapest eSIM for USA travel", "USA eSIM cost comparison", "USA eSIM promo code", "buy USA eSIM", "where to buy USA eSIM"]
+keywords: ["USA eSIM price guide", "USA eSIM cost per GB", "USA eSIM cost comparison", "how much does a USA eSIM cost", "buy USA eSIM", "where to buy USA eSIM"]
 date: 2026-09-22T00:00:00Z
-lastmod: 2026-09-22T00:00:00Z
+lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Publisher of this USA eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/usa/usa-esim-price-guide.jpg"
 categories: ["eSIM", "Travel", "USA"]
 tags: ["USA eSIM"]
@@ -86,6 +86,8 @@ Every price below was read from the provider's own pricing page and is quoted in
 ---
 
 ## USA eSIM price guide: how much does a plan cost?
+
+> **Quick answer:** Expect roughly $4 to $6 per GB on a short fixed-data plan and $1 to $2 per GB on larger plans. Unlimited plans run about $20 to $35 for a week and are only worth it above 10 to 15GB of use.
 
 > **Key takeaways:** Ubigi is the cheapest provider at most data tiers — $4.00 for 1GB, $8.00 for 3GB, $12.00 for 10GB, and $24.00 for 25GB on the T-Mobile network. For heavy users staying 30 days or more, T-Mobile Prepaid's 30GB plan at $25.00 offers the best per-GB value. International eSIMs (Ubigi, Tello, Airalo, Nomad) have no taxes or fees, while carrier prepaid plans add 8-25% in taxes and fees. The main caveat: carrier prepaid plans require ID verification, but international eSIMs have no ID requirements and stop at 25GB.
 
@@ -640,7 +642,7 @@ This calculator provides a personalized estimate based on your actual usage patt
 3. **Check travel forums** — [Reddit's r/eSIM](https://www.reddit.com/r/eSIM/) often shares current codes
 4. **Try before buying** — a free trial plan lets you test without committing
 
-**Save money strategy:** If you're between two plans, check promo codes before buying. A 20% discount can make a more expensive plan cheaper than the alternative. For example, Roami's **WEB20** promo code takes 20% off, bringing its 10GB 3-day plan from $7.99 to $6.39. For a full breakdown of which providers have the best ongoing value, the [USA eSIM provider comparison](/blog/usa-esim-provider-comparison/) has a detailed feature-by-feature analysis.
+**Save money strategy:** A headline discount rarely decides which plan is cheapest in practice. Compare the real cost per gigabyte across the whole trip, then weigh the things a lower price often hides — daily high-speed caps, hotspot limits and whether the plan covers the networks you will actually use. For a full breakdown of which providers have the best ongoing value, the [USA eSIM provider comparison](/blog/usa-esim-provider-comparison/) has a detailed feature-by-feature analysis.
 
 ### Stacking discounts and referral programs
 

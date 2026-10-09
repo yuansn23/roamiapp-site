@@ -3,7 +3,7 @@ title: "Europe Multi-Country eSIM Guide for Spain Travelers"
 description: "Multi-country eSIM for Spain, Portugal and France with Roami. Seamless cross-border connectivity and auto network switching."
 keywords: ["Spain multi-country eSIM", "Europe travel eSIM", "Europe eSIM", "Spain Portugal eSIM", "Spain France eSIM", "cross-border eSIM Spain"]
 date: 2026-09-12T00:00:00Z
-lastmod: 2026-09-12T00:00:00Z
+lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/spain/spain-esim-multi-country-europe-travel.jpg"
@@ -597,7 +597,7 @@ At the Perthus tunnel on the Madrid-Barcelona-France AVE line, coverage drops wh
 
 ---
 
-For travelers seeking automatic network switching across Movistar, Orange, and Vodafone networks in Spain — and seamless roaming to partner networks across Europe — Roami provides a practical solution with 24/7 real human support. Roami's Spain plans sit at the cheaper end of the market, and the **web20** code takes a further 20% off a first purchase. A **[free eSIM option](/free-esim/)** is available for eligible new users to test compatibility before committing to a full plan.
+For travelers seeking automatic network switching across Movistar, Orange, and Vodafone networks in Spain — and seamless roaming to partner networks across Europe — a regional multi‑country eSIM provides it, and its per‑GB cost is usually lower than stacking several single‑country plans. Check the plan's fair‑use terms before relying on it abroad, since some single‑country plans throttle heavily once you leave Spain.
 
 For comprehensive Spain eSIM planning, work through the cluster:
 
@@ -611,4 +611,4 @@ For external reference, visit [GSMA](https://www.gsma.com/solutions-and-impact/t
 
 ---
 
-*Prices, coverage data, and travel details as of July 2026. Always verify current pricing on eSIM provider websites before purchasing. Network coverage statistics based on publicly available data from [CNMC](https://www.cnmc.es/) (Spain's telecom regulator), [Ookla Speedtest Intelligence](https://www.speedtest.net), and carrier coverage maps.*
+*Regional plan pricing and cross-border roaming terms cross-checked as of 8 October 2026. EU roaming rules and plan details are subject to change — always verify on the provider's official website before purchasing.*

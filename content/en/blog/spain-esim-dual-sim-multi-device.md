@@ -3,7 +3,7 @@ title: "Spain eSIM Dual SIM Setup: iPhone and Android Guide"
 description: "Set up Spain eSIM Dual SIM on iPhone and Android. Keep your home number for WhatsApp and 2FA while using cheap data for hotspot."
 keywords: ["Spain eSIM dual SIM", "Spain eSIM home number", "Spain eSIM iPhone Android", "Renfe eSIM Spain", "Spain eSIM hotspot"]
 date: 2026-09-12T00:00:00Z
-lastmod: 2026-09-12T00:00:00Z
+lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/spain/spain-esim-dual-sim-multi-device.jpg"
@@ -934,6 +934,6 @@ Yes, Spain eSIM prepaid plans from Movistar, Orange, and Vodafone work with dual
 
 ---
 
-*Device compatibility and plan details verified as of July 2026. Prices are subject to change. Always verify current pricing on the provider's website. For iPhone guidance, see [Apple's eSIM support page](https://support.apple.com/en-us/118669). Coverage maps: [Movistar](https://www.movistar.es/), [Orange Spain](https://www.orange.es/), [Vodafone Spain](https://www.vodafone.es/), Yoigo. For eSIM-compatible devices, visit the [GSMA eSIM device list](https://www.gsma.com/solutions-and-impact/technologies/esim/).*
+*Device compatibility for dual-SIM setups cross-checked as of 8 October 2026. Savings figures depend on your home carrier's current roaming rates and are subject to change — always verify on the provider's official website before purchasing.*
 
 For more information, see our [Spain eSIM overview](/blog/spain-esim-complete-travel-guide/).

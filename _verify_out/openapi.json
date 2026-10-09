@@ -1,0 +1,30 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Roami eSIM Product Catalog",
+    "version": "1.0.0",
+    "description": "Machine-readable catalog of Roami travel eSIM plans across 150+ destinations. Prices in USD."
+  },
+  "servers": [
+    { "url": "https://www.roamiapp.com" }
+  ],
+  "paths": {
+    "/catalog.json": {
+      "get": {
+        "operationId": "getCatalog",
+        "summary": "Get the full eSIM product catalog",
+        "description": "Returns a JSON-LD ItemList of destinations, each with its plans (data amount, validity, and price).",
+        "responses": {
+          "200": {
+            "description": "The complete product catalog.",
+            "content": {
+              "application/json": {
+                "schema": { "type": "object" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

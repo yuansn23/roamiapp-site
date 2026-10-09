@@ -1,0 +1,30 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Roami",
+    "identifier": "https://www.roamiapp.com/"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:roamiapp.com:catalog:products",
+      "displayName": "Roami eSIM Product Catalog",
+      "type": "application/json",
+      "url": "https://www.roamiapp.com/catalog.json",
+      "representativeQueries": [
+        "cheapest eSIM for Japan",
+        "7 day eSIM plan for France",
+        "unlimited data eSIM for Europe travel"
+      ]
+    },
+    {
+      "identifier": "urn:air:roamiapp.com:docs:api",
+      "displayName": "Roami Agent & API Documentation",
+      "type": "text/html",
+      "url": "https://www.roamiapp.com/docs/api/",
+      "representativeQueries": [
+        "how to query the Roami eSIM catalog",
+        "Roami eSIM catalog schema and endpoints"
+      ]
+    }
+  ]
+}

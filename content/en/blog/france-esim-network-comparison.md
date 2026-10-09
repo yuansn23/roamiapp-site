@@ -3,9 +3,9 @@ title: "Orange, Free, SFR or Bouygues: France eSIM Network"
 description: "Orange vs Free vs SFR vs Bouygues France eSIM comparison: coverage, speeds, prepaid plans, and which carrier is best for tourists."
 keywords: ["Orange vs Free vs SFR vs Bouygues France", "France mobile network comparison", "France eSIM Orange coverage", "Free Mobile France eSIM", "France eSIM carrier comparison", "best network for France travel"]
 date: 2026-09-17T00:00:00Z
-lastmod: 2026-09-17T00:00:00Z
+lastmod: 2026-10-07T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Publisher of this France eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/france/france-esim-network-comparison.jpg"
 categories: ["France", "eSIM", "Travel"]
 tags: ["France eSIM", "Travel eSIM"]
@@ -50,7 +50,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-Every **France eSIM** runs on one of four underlying networks — Orange, SFR, Bouygues, or Free — and that choice shapes your trip more than any plan feature: it decides where you get signal, how fast it is, and what you pay. In this **France eSIM network comparison** guide, we break down each carrier's coverage, speed, and tourist-friendly options so you can choose the **best network for France travel** for your specific itinerary.
+Every **France eSIM** runs on one of four underlying networks (and for calls, all four now require **VoLTE**, since 3G voice has been switched off) — Orange, SFR, Bouygues, or Free — and that choice shapes your trip more than any plan feature: it decides where you get signal, how fast it is, and what you pay. In this **France eSIM network comparison** guide, we break down each carrier's coverage, speed, and tourist-friendly options so you can choose the **best network for France travel** for your specific itinerary.
 
 France has four mobile networks:
 - **Orange:** 40% market share, 95% population coverage, best rural

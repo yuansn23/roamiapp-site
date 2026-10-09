@@ -3,9 +3,9 @@ title: "USA eSIM Unlimited Data: Which Plans Don’t Throttle?"
 description: "Roami USA eSIM auto-switches carriers for truly unlimited data. Compare speed caps, hotspot rules & real-world performance."
 keywords: ["USA eSIM unlimited data", "best unlimited data eSIM USA", "USA eSIM unlimited hotspot", "Holafly USA unlimited", "USA eSIM no data cap"]
 date: 2026-09-22T00:00:00Z
-lastmod: 2026-09-22T00:00:00Z
+lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
+authorBio: "Publisher of this USA eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/usa/usa-esim-unlimited-data-guide.jpg"
 categories: ["eSIM", "Travel", "USA"]
 tags: ["USA eSIM"]
@@ -92,6 +92,8 @@ If you want automatic network switching plus support staffed by people, that com
 ---
 
 ## USA eSIM unlimited data: what "unlimited" actually means
+
+> **Quick answer:** Most USA eSIM unlimited plans have a daily high-speed cap between 2GB and 5GB, then throttle to roughly 1Mbps. Holafly is the exception — check the cap, not the word "unlimited". The [GSMA explains how eSIM profiles and fair-use policies work](https://www.gsma.com/esim/) at the network level.
 
 > **Key takeaways:** Holafly is the only provider that offers a USA eSIM no data cap, with truly unlimited data without a daily high-speed cap on its standard plans. Holafly caps tethering at 1GB per day. Visible by Verizon offers truly unlimited data at $25/month but requires a US address and identity verification. Ubigi's unlimited plan includes unlimited tethering at no extra charge but runs on T-Mobile's network, which is excellent in cities but weak in rural areas.
 

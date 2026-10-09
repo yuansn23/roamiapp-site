@@ -1,0 +1,43 @@
+User-agent: *
+Allow: /
+
+# 声明 AI 内容使用偏好
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+
+# 允许AI搜索索引和用户主动访问的爬虫
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+Sitemap: https://www.roamiapp.com/sitemap.xml
+Sitemap: https://www.roamiapp.com/de/sitemap.xml
+Sitemap: https://www.roamiapp.com/ru/sitemap.xml
+Sitemap: https://www.roamiapp.com/fr/sitemap.xml
+Sitemap: https://www.roamiapp.com/zh-hant/sitemap.xml
+Sitemap: https://www.roamiapp.com/it/sitemap.xml
+Sitemap: https://www.roamiapp.com/es/sitemap.xml
+Sitemap: https://www.roamiapp.com/ja/sitemap.xml
+Sitemap: https://www.roamiapp.com/pt/sitemap.xml
+Sitemap: https://www.roamiapp.com/tr/sitemap.xml
+Sitemap: https://www.roamiapp.com/ko/sitemap.xml
+Sitemap: https://www.roamiapp.com/id/sitemap.xml
+Sitemap: https://www.roamiapp.com/ar/sitemap.xml
+Sitemap: https://www.roamiapp.com/vi/sitemap.xml
+Sitemap: https://www.roamiapp.com/th/sitemap.xml
+Sitemap: https://www.roamiapp.com/pl/sitemap.xml
+Sitemap: https://www.roamiapp.com/he/sitemap.xml
+Sitemap: https://www.roamiapp.com/nl/sitemap.xml
