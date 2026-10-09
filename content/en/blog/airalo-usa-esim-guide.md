@@ -1,9 +1,9 @@
 ---
-title: "Best USA eSIM for Travelers: Airalo vs Holafly"
+title: "Best USA eSIM for Travelers: Airalo vs Holafly vs Roami"
 description: "US travel eSIMs are data-only, no US number. See which Airalo, Holafly or Roami plan keeps you online for rideshare, maps, parks."
 keywords: ["airalo usa esim", "USA eSIM price guide", "holafly esim for usa", "usa esim no phone number", "cheapest eSIM for USA travel", "USA eSIM unlimited data plan", "USA eSIM cost comparison", "usa esim carrier locked phone", "USA eSIM promo code", "airalo vs holafly usa"]
-date: 2026-09-23T00:00:00Z
-lastmod: 2026-09-23T00:00:00Z
+date: 2026-10-09T00:00:00Z
+lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/usa/usa-esim-coverage-guide.jpg"
@@ -13,7 +13,7 @@ readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Airalo vs Holafly: Best USA eSIM for Travelers"
+h1title: "Airalo vs Holafly vs Roami: Best USA eSIM for Travelers"
 
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
@@ -81,6 +81,10 @@ US ride-hailing apps (Uber/Lyft), food delivery (DoorDash/Uber Eats), restaurant
 
 This article revolves around this core difference: which of the three major US operators (Verizon/T-Mobile/AT&T) has the best coverage? Which offers the best data value among Airalo, Holafly, and Roami? How to navigate US-specific pitfalls like national parks, carrier-locked phones, and eSIM-only (no physical SIM) devices? And—**do you really need a US number, and if not, how to get by with a data-only eSIM.**
 
+Anyone comparing **Airalo vs Holafly in the US** runs into the same wall: both brands sell you data, but neither hands over a US number. That single fact decides more trips than price does, and it is why this guide treats "which is cheaper" as the second question rather than the first. If you already read a general **Airalo USA eSIM review** and wondered whether the US product matches the global one, the short answer is that Airalo's US plans ride T-Mobile and Verizon, skip a number entirely, and sit well above Roami on price.
+
+The other phrase worth translating into plain English is **"USA eSIM unlimited data plan."** Unlimited sounds like freedom, but on a US trip it is a peace-of-mind tax: at roughly 1GB a day, most travellers never approach the tier where unlimited becomes cheaper than a fixed bundle.
+
 > **⏱️ 30-Second Summary: How to Choose Your USA eSIM?**
 >
 > - **The biggest catch**: Airalo, Holafly and Roami are all **data-only—none includes a US phone number**, so ride-hailing, food delivery and SMS verification codes need a workaround such as Google Voice.
@@ -96,6 +100,8 @@ This article revolves around this core difference: which of the three major US o
 > - **Need a US phone number (ride-hailing / food delivery)** → data eSIM + Google Voice
 > - **Month-long stay / remote work** → Roami 50GB, about $0.64/GB
 > - **Strictest budget** → Roami 1GB/7 days at $1.59
+
+**About the author:** Written by the **Roami research team**, who build travel-eSIM comparisons from primary sources. Plan details for this USA guide were checked against Airalo, Holafly and Roami official pages in **September 2026**.
 
 ## US eSIM Market: What's New in 2026
 
@@ -186,7 +192,7 @@ One of the biggest pitfalls in US travel is signal dead zones in national parks.
 
 > **📌 Quick Decision Summary**: The three brands split on one axis — how many US networks they can reach. Airalo's US product (sold as **Change**) rides T-Mobile and Verizon; Holafly rides AT&T and T-Mobile; Roami switches between all three. On the 7-day 10GB tier Roami lands at $8.79 against Airalo's $21.50, while Holafly only sells unlimited at $27.50. **None of them issue a US phone number.**
 
-The three brands you will actually meet in US travel forums are **Airalo, Holafly, and Roami**. Everything below is taken from their own published US plan pages and public review scores, checked in September 2026. For how Airalo behaves outside the US, see our [in-depth Airalo eSIM review](/blog/airalo-esim-review-prices-coverage/).
+The three brands you will actually meet in US travel forums are **Airalo, Holafly, and Roami**. Everything below is taken from their own published US plan pages and public review scores, checked in September 2026, and forms the basis of the **USA eSIM cost comparison** that follows. For how Airalo behaves outside the US, see our [in-depth Airalo eSIM review](/blog/airalo-esim-review-prices-coverage/).
 
 ### Quick Look: The Brands
 
@@ -205,6 +211,8 @@ The three brands you will actually meet in US travel forums are **Airalo, Holafl
 > - **Roami USA eSIM**: Multi-network auto-switch (T-Mobile/AT&T/Verizon), full 5G with no throttling, unlimited hotspot support, lowest price overall, **no US phone number**. Use discount code **WEB20** for 20% off.
 
 ### Airalo USA eSIM Full Price List
+
+**Price freshness:** every figure below is a **September 2026 snapshot** of each brand's own USA page. Travel eSIM prices move constantly — flash promos, FX drift and tier reshuffles — so re-check the live price at checkout before you buy.
 
 Airalo offers two plan types: **unlimited plans** and **fixed-data plans**.
 
@@ -486,7 +494,7 @@ Based on real-world usage, **most tourists use around 1GB/day** (navigation + so
 
 > **💰 Limited-Time Offer**
 >
-> The **WEB20** code takes 20% off any Roami US plan at checkout, unlimited tiers included. Applied to the tables above it puts 7-day unlimited at $17.59 and 30-day unlimited at $39.99. [Shop USA eSIM plans now](/united-states-esim/)
+> The **WEB20** code takes 20% off any Roami US plan at checkout, unlimited tiers included. Applied to the tables above it puts 7-day unlimited at $17.59 and 30-day unlimited at $39.99 — and for anyone who arrived here searching a **USA eSIM promo code**, it is the one discount worth applying before you compare headline prices. [Shop USA eSIM plans now](/united-states-esim/)
 
 ## USA eSIM for Every Kind of Trip
 
@@ -548,7 +556,7 @@ There is no single best USA eSIM — only the plan that matches the route you ha
 
 > **📌 Quick Decision Summary**: A US number is not a "nice-to-have"—it's a "hard requirement" for ride-hailing, food delivery, and ticket booking. But none of the three major travel eSIM brands offer a US number. The best combo = Roami data eSIM + Google Voice (register before departure). Only consider a US-local-number eSIM if you "must have a local number for calls/bank SMS."
 
-No European destination forces this question, which is exactly why the US gets a section of its own.
+The single most common search among US-bound travellers is some variant of **"USA eSIM no phone number"** — people discover mid-planning that the cheap data plan they want simply cannot receive a text. This section exists because no European destination forces that question, which is exactly why the US gets a section of its own.
 
 ### Which Scenarios Require a US Phone Number?
 
@@ -668,11 +676,23 @@ Dial `*#06#` on the keypad. If the screen displays an **EID** number, your phone
 
 **Q1: Does a USA eSIM require a passport or ID?**
 
-Absolutely not. USA travel eSIMs are data-only products that require no personal identification when purchasing—protecting your privacy. If you need a US phone number, you'll need a local operator product (which requires identity verification).
+Absolutely not. USA travel eSIMs are data-only products that require no personal identification when purchasing—protecting your privacy. If you need a US phone number, you'll need a local operator product (which requires identity verification). Use the price tables in this **USA eSIM price guide** to check what each tier actually buys before you commit, because no US plan asks for paperwork of any kind.
 
 **Q2: Does a USA eSIM come with a US phone number?**
 
 **No.** Airalo, Holafly, and Roami—the three major travel brands—are all **data-only services that do not provide a US phone number.** This is the biggest difference between the US market and Europe. If you need a US number (ride-hailing/food delivery/verification codes), pair with a VoIP solution like Google Voice (register before departure) or buy a local-number eSIM. See the phone number section below.
+
+**Q2b: Is the Holafly eSIM for USA worth it, and how does it compare on price?**
+
+The **Holafly eSIM for USA** is the only pure-unlimited option of the three, at $3.97/day falling to $2.46/day on the 30-day tier, with hotspot capped at 1GB/day. Whether it earns its place depends on the same maths as everywhere else: unlimited only pays off above roughly 2.86GB/day, and Roami's discounted 7-day unlimited at $17.59 undercuts it by about 36%.
+
+**Q2c: Can I use a USA eSIM on a carrier-locked phone?**
+
+This is the USA eSIM carrier locked phone trap, and it is genuinely US-specific. A phone locked to Verizon, AT&T or T-Mobile can only accept that operator's profile, so a travel eSIM simply will not write to it. Ask your carrier to unlock the handset before you fly — most will do it free once the device is paid off. It is also the single most common reason a first-time buyer gives up searching for the **cheapest eSIM for USA travel** and books an airport SIM instead.
+
+**Q2d: Airalo vs Holafly in the USA — which one should I pick?**
+
+An **Airalo vs Holafly USA** decision really turns on two things: network reach and tiering. Airalo's US product (Change) rides T-Mobile and Verizon and sells both fixed and unlimited tiers, so it suits travellers who want a cheap fixed bundle. Holafly rides AT&T and T-Mobile but sells unlimited only, which suits anyone who refuses to count data. Neither covers all three national networks — only a multi-network eSIM does.
 
 **Q3: Do all three brands support 5G?**
 
