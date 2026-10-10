@@ -1,6 +1,6 @@
 ---
 title: 'Schweiz eSIM 2026: Anbieter & Abdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Genf & die Alpen ab.
   keywords: Schweiz eSIM, Schweiz Reise eSIM, beste eSIM Schweiz, Schweiz Datentarif, Swisscom Schweiz, Sunrise Schweiz, Salt
     Schweiz, Zürich eSIM, Genf eSIM, Basel eSIM, Schweiz mobiles Internet, 5G Schweiz
+  low_price: 1.99
+  high_price: 78.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Schweiz eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Schweiz
 features:
-  title: 'Warum Reisende Roami fuer Schweiz waehlen: Netzwerk, Tarife & Preiswert'
+  title: 'Warum Reisende Roami für Schweiz wählen: Netzwerk, Tarife & Preiswert'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Schweiz-Anbietern für das stärkste Signal
-plans_title: 'Schweiz eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Schweiz eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -304,7 +306,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Schweiz, einschliesslich Zürich, Genf, Basel, Bern. Ihre eSIM verbindet
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Schweiz, einschließlich Zürich, Genf, Basel, Bern. Ihre eSIM verbindet
         sich nahtlos mit den robusten Netzen von Swisscom, Sunrise, Salt.
     - icon: zap
       color: text-amber-500
@@ -396,11 +398,13 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Schweiz?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($5.99), für zwei Wochen 10GB ($9.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Schweiz am beliebtesten?
       a: |
-        Die meisten Reisenden nach Schweiz wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Schweiz wählen den 5GB/15 Tage Tarif ($7.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($9.99) oder den unbegrenzten Tarif ($12.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Schweiz speichern?
       a: |
@@ -408,7 +412,8 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Schweiz eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Schweiz mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Schweiz mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $78.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Kann ich meine heimische SIM-Karte behalten, während ich eSIM in Schweiz nutze?
       a: |
@@ -420,9 +425,10 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Schweiz?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Schweiz kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Schweiz kostet $5.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Diese eSIM-Tarife könnten Sie interessieren
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -441,7 +447,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -484,9 +490,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
   title: 'Switzerland eSIM oder SIM-Karte für Touristen: Welche sollten Sie wählen?'
-  subtitle: Lokale Prepaid-SIMs in der Schweiz vs. eSIM-Lösungen (2024/2025 Benchmark)
+  subtitle: Lokale Prepaid-SIMs in der Schweiz vs. eSIM-Lösungen im Preisvergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Switzerland) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Switzerland
@@ -498,84 +505,88 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Swisscom SIM-Karte kostet 19,90 CHF (ca. 160 Yuan) und enthält 20 CHF Guthaben; Sunrise verlangt 19,90 CHF
-      für die SIM-Karte; Aldi Suisse und Lidl Connect benötigen bis zu 72 Stunden für die Aktivierung.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie Swisscom-Ladenschlangen und die 19,90 CHF SIM-Kartengebühr. Aktivieren Sie online innerhalb von
-      1 Minute nach der Landung in Zürich.
+    prepaid_desc: Swisscom SIM-Karte kostet 19,90 CHF (ca. 160 Yuan) und enthält 20 CHF Guthaben; Sunrise verlangt
+      19,90 CHF für die SIM-Karte; Aldi Suisse und Lidl Connect benötigen bis zu 72 Stunden für die Aktivierung.
+    esim_title: Sofort einsatzbereit
+    esim_desc: Umgehen Sie Swisscom-Ladenschlangen und die 19,90 CHF SIM-Kartengebühr. Aktivieren Sie online innerhalb
+      von 1 Minute nach der Landung in Zürich.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Swisscom verlangt Pass oder ID und Ausfüllen eines Formulars; Sunrise erfordert persönliche Registrierung
-      mit Pass; Aldi Suisse und Lidl Connect benötigen Fax oder E-Mail für KYC, Aktivierung dauert bis zu 3 Tage.
+    prepaid_desc: Swisscom verlangt Pass oder ID und Ausfüllen eines Formulars; Sunrise erfordert persönliche
+      Registrierung mit Pass; Aldi Suisse und Lidl Connect benötigen Fax oder E-Mail für KYC, Aktivierung dauert bis
+      zu 3 Tage.
     esim_title: Kein Pass erforderlich
-    esim_desc: Keine Passregistrierung wie bei Sunrise (persönlich, 30 Minuten) oder Aldi Suisse (bis zu 72 Stunden). eSIM
-      benötigt nur E-Mail, sofort aktiv.
+    esim_desc: Keine Passregistrierung wie bei Sunrise (persönlich, 30 Minuten) oder Aldi Suisse (bis zu 72 Stunden).
+      eSIM benötigt nur E-Mail, sofort aktiv.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: 'Swisscom EU-Roaming: 500MB/6,90 CHF, 10GB/59,90 CHF; Sunrise in Liechtenstein: 1 CHF/MB; Salt EU-Roaming:
-      2,95 CHF/MB ohne Paket.'
+    prepaid_desc: 'Swisscom EU-Roaming: 500MB/6,90 CHF, 10GB/59,90 CHF; Sunrise in Liechtenstein: 1 CHF/MB; Salt
+      EU-Roaming: 2,95 CHF/MB ohne Paket.'
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Vermeiden Sie Swisscoms teure EU-Roaming-Pakete (10GB/59,90 CHF) und Sunrises 1 CHF/MB in Liechtenstein. eSIM
-      bietet nahtloses Roaming in Nachbarländern wie Frankreich, Italien, Deutschland und Österreich.
+    esim_desc: Vermeiden Sie Swisscoms teure EU-Roaming-Pakete (10GB/59,90 CHF) und Sunrises 1 CHF/MB in
+      Liechtenstein. eSIM bietet nahtloses Roaming in Nachbarländern wie Frankreich, Italien, Deutschland und
+      Österreich.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: 'Swisscom Prepaid Flat 7: 20 CHF/7 Tage; Prepaid Flat 30: 65 CHF/30 Tage; Lyca Mobile Surf UL: 19 CHF/28
-      Tage; Mindestbuchungszeitraum ist eine Woche oder ein Monat.'
+    prepaid_desc: 'Swisscom Prepaid Flat 7: 20 CHF/7 Tage; Prepaid Flat 30: 65 CHF/30 Tage; Lyca Mobile Surf UL: 19
+      CHF/28 Tage; Mindestbuchungszeitraum ist eine Woche oder ein Monat.'
     esim_title: Flexible Tarife ab 1 Tag
-    esim_desc: Im Gegensatz zu Swisscoms 7-Tage-Zyklus (20 CHF) oder Lyca Mobiles 28-Tage-Zyklus (19 CHF) bietet Roami 7-Tage-Tarife
-      ab $1.99/GB und spart so 75% Verschwendung.
+    esim_desc: Im Gegensatz zu Swisscoms 7-Tage-Zyklus (20 CHF) oder Lyca Mobiles 28-Tage-Zyklus (19 CHF) bietet Roami
+      7-Tage-Tarife ab $2.99 und spart so 75% Verschwendung.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Lyca Mobile verbietet Tethering strikt; Swisscom und Sunrise erlauben Hotspots, aber nach FUP-Drosselung
-      (z.B. 128 Kbps) kaum nutzbar.
+    prepaid_desc: Lyca Mobile verbietet Tethering strikt; Swisscom und Sunrise erlauben Hotspots, aber nach
+      FUP-Drosselung (z.B. 128 Kbps) kaum nutzbar.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Lyca Mobile verbietet Hotspots strikt. Roami erlaubt Tethering ohne Einschränkungen, ideal für Laptop-Arbeit
-      unterwegs.
+    esim_desc: Lyca Mobile verbietet Hotspots strikt. Roami erlaubt Tethering ohne Einschränkungen, ideal für
+      Laptop-Arbeit unterwegs.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Salt Mobile erlaubt Online-Kauf nur im Salt-Mobilfunknetz, nicht über WLAN; Kreditkarten werden akzeptiert,
-      aber ausländische Karten können abgelehnt werden.
+    prepaid_desc: Salt Mobile erlaubt Online-Kauf nur im Salt-Mobilfunknetz, nicht über WLAN; Kreditkarten werden
+      akzeptiert, aber ausländische Karten können abgelehnt werden.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Salt Mobile verlangt Zahlung nur im eigenen Netz. Roami akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google
-      Pay und PayPal – keine Ablehnung ausländischer Karten.
+    esim_desc: Salt Mobile verlangt Zahlung nur im eigenen Netz. Roami akzeptiert Visa, Mastercard, AMEX, Apple Pay,
+      Google Pay und PayPal – keine Ablehnung ausländischer Karten.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: Der Kundendienst von Swisscom, Sunrise und Salt ist deutsch-, französisch- und italienischsprachig;
+      Englisch ist ebenfalls verbreitet.
     esim_title: 24/7 Kundensupport
-    esim_desc: Swisscom-Support nur auf Deutsch, Mo-Fr 9-17 Uhr. Roami bietet 24/7 Live-Chat auf Englisch und Deutsch, sofortige
-      Hilfe bei Problemen.
+    esim_desc: Swisscom-Support nur auf Deutsch, Mo-Fr 9-17 Uhr. Roami bietet 24/7 Live-Chat auf Englisch und Deutsch,
+      sofortige Hilfe bei Problemen.
   expert_verdict:
-    title: 'Switzerland eSIM vs. physische SIM-Karte: Aktivierung und Einrichtung im Vergleich – intelligenter, kosteneffizienter
-      und stressfrei'
+    title: 'Switzerland eSIM vs. physische SIM-Karte: Aktivierung und Einrichtung im Vergleich – intelligenter,
+      kosteneffizienter und stressfrei'
     cards:
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie die strengen SIM-Passanforderungen der Schweiz
-      desc: Swisscom und Sunrise verlangen persönliche Passregistrierung, Aldi Suisse und Lidl Connect benötigen bis zu <b>72
-        Stunden</b> für die KYC-Prüfung. Mit eSIM entfällt dieser Aufwand komplett.
+      desc: Swisscom und Sunrise verlangen persönliche Passregistrierung, Aldi Suisse und Lidl Connect benötigen bis
+        zu <b>72 Stunden</b> für die KYC-Prüfung. Mit eSIM entfällt dieser Aufwand komplett.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
-      title: Internationale Zahlungen ohne Hürden
-      desc: Salt Mobile verlangt Zahlung nur im eigenen Netz, ausländische Karten werden oft abgelehnt. eSIM akzeptiert Visa,
-        Mastercard, AMEX, Apple Pay, Google Pay und PayPal.
+      title: Abwicklung ohne Bargeld
+      desc: Salt Mobile verlangt Zahlung nur im eigenen Netz, ausländische Karten werden oft abgelehnt. eSIM
+        akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Flexible Abrechnung statt 7-Tage-Zwang
-      desc: Swisscoms Prepaid Flat 7 kostet <b>20 CHF</b> für 7 Tage, Lyca Mobile verlangt <b>19 CHF</b> für 28 Tage. Ein
-        3-tägiger Tourist verschwendet über 70% des Tarifwerts. eSIM bietet Tarife ab 1 Tag.
+      desc: Swisscoms Prepaid Flat 7 kostet <b>20 CHF</b> für 7 Tage, Lyca Mobile verlangt <b>19 CHF</b> für 28 Tage.
+        Ein 3-tägiger Tourist verschwendet über 70% des Tarifwerts. eSIM bietet Tarife ab 1 Tag.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Vermeiden Sie teure Roaming-Fallen
-      desc: Swisscom verlangt <b>59,90 CHF</b> für 10GB EU-Roaming, Sunrise berechnet <b>1 CHF/MB</b> in Liechtenstein. eSIM
-        bietet nahtlose Konnektivität in der gesamten Schweiz und Nachbarländern zu einem Bruchteil der Kosten.
+      desc: Swisscom verlangt <b>59,90 CHF</b> für 10GB EU-Roaming, Sunrise berechnet <b>1 CHF/MB</b> in
+        Liechtenstein. eSIM bietet nahtlose Konnektivität in der gesamten Schweiz und Nachbarländern zu einem
+        Bruchteil der Kosten.
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'UK eSIM 2026: Abdeckung & Geschwindigkeit | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -34,6 +34,8 @@ seo:
   - Birmingham eSIM
   - UK mobiles Internet
   - 5G UK
+  low_price: 1.99
+  high_price: 54.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -56,7 +58,7 @@ hero:
   title: 'UK eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für UK - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer UK waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für UK wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -82,7 +84,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten UK-Anbietern für das stärkste Signal
-plans_title: 'UK eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'UK eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 35GB
@@ -331,7 +333,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz UK, einschliesslich London, Manchester, Birmingham,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz UK, einschließlich London, Manchester, Birmingham,
         Edinburgh. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von EE, Vodafone, O2.
     - icon: zap
       color: text-amber-500
@@ -409,7 +411,7 @@ activation_steps:
       ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "eSIM in United Kingdom -- Ist die Verbindung fuer Touristen schnell genug?"
+  title: "eSIM in United Kingdom -- Ist die Verbindung für Touristen schnell genug?"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in United Kingdom. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -428,11 +430,12 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in UK akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner UK eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in UK mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in UK mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $41.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Was tun, wenn meine UK eSIM bei der Ankunft nicht funktioniert?
       a: |
@@ -440,7 +443,8 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach UK am beliebtesten?
       a: |
-        Die meisten Reisenden nach UK wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach UK wählen den 5GB/15 Tage Tarif ($7.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($7.99) oder den unbegrenzten Tarif ($8.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Bekomme ich nach dem Kauf meiner UK eSIM eine Bestätigung?
       a: |
@@ -450,18 +454,18 @@ faq_section:
       a: |
         Ja — alle datenbasierten Apps funktionieren ohne Einschränkungen. Ein 5GB Tarif reicht für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Ein 30-minütiges Zoom-Meeting verbraucht etwa 150-300MB. Vodafones Netz in UK liefert stabile Verbindungen für Videoanrufe.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Diese eSIM-Tarife könnten Sie interessieren
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
     price: Ab 1,99 $
     is_highlight: false
     slug: united-states-esim
-  - name: UK eSIM
-    flag: img/flags/gb.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: united-kingdom-esim
+    slug: italy-esim
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Ab 1,99 $
@@ -469,7 +473,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -512,5 +516,92 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
+  title: 'Großbritannien eSIM gegen EE und Vodafone: Der Vergleich nach dem Brexit'
+  subtitle: Drei Netze, keine Registrierung für Prepaid und Roaming-Gebühren seit dem EU-Austritt
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (United Kingdom) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/United_Kingdom
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Großbritannien eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: EE, Vodafone und O2 verkaufen ihre Karten in London, Manchester und Birmingham; eine Registrierung
+      ist für Prepaid nicht vorgeschrieben, sodass die Ausgabe unkompliziert ist.
+    esim_title: Vor der Ankunft bereit
+    esim_desc: Die eSIM liegt bereits vor der Anreise bereit. Am Flughafen Heathrow entfällt der Weg zu einem Shop in
+      der Innenstadt.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: 'Für eine britische Prepaid-Karte ist kein Ausweis nötig; anonyme Karten sind erhältlich. Der
+      Nachteil liegt nicht in der Beschaffung, sondern auf Reisen: Seit dem EU-Austritt können britische Anbieter für
+      die Nutzung in der EU wieder Aufschläge berechnen.'
+    esim_title: Kein Roaming-Aufschlag
+    esim_desc: Roami berechnet für die Nutzung in Großbritannien keine Aufschläge und kommt ohne Registrierung aus.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: 'Seit dem EU-Austritt gehört Großbritannien nicht mehr zum Roam-like-at-home: Britische Tarife
+      erzeugen bei Reisen in die EU wieder Zusatzkosten, und umgekehrt berechnen manche EU-Anbieter für Großbritannien
+      Aufschläge.'
+    esim_title: Insel und Festland
+    esim_desc: Für eine Reise, die London und Paris verbindet, lässt sich bei Roami ein Paket für beide Länder buchen.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Britische Prepaid-Tarife sind häufig auf einen Monat ausgelegt; Kurzreisen nach London zahlen den
+      vollen Zeitraum mit.
+    esim_title: Citytrip statt Monat
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 3-Tage-Tarif beginnt bei $1.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: London, Manchester und Birmingham sind sehr gut versorgt; in den schottischen Highlands, im Lake
+      District und in den ländlichen Gebieten von Wales bricht das Signal dagegen über weite Strecken ab.
+    esim_title: Hotspot auf der Zugreise
+    esim_desc: Hotspot-Nutzung ist bei Roami nicht extra berechnet, selbst wenn auf der Strecke nach Inverness nur ein
+      schwaches Netz anliegt.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über die Apps der Anbieter und in Supermärkten; abgerechnet wird in Pfund,
+      ausländische Karten werden meist angenommen.
+    esim_title: Zahlung mit Karte
+    esim_desc: Gezahlt wird bei der Bestellung in US-Dollar – Visa, Mastercard, AMEX, Apple Pay, Google Pay und
+      PayPal.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist englischsprachig und rund um die Uhr über die Apps der Anbieter erreichbar.
+    esim_title: Englischsprachiger Service
+    esim_desc: Die Betreuung läuft über Chat und E-Mail, mehrsprachig und rund um die Uhr.
+  expert_verdict:
+    title: 'Großbritannien: vier Gründe für die eSIM vor der lokalen Karte'
+    cards:
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Brexit-Roaming
+      desc: Seit dem EU-Austritt können für britische Tarife in der EU wieder Aufschläge anfallen.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Monatsraster
+      desc: Britische Prepaid-Tarife laufen einen Monat. Ein Citytrip zahlt den vollen Zeitraum mit.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Highlands ohne Netz
+      desc: In den schottischen Highlands und im Lake District fällt die Versorgung ab.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Zugreise mit Hotspot
+      desc: Auf langen Bahnstrecken teilen oft mehrere Geräte eine Verbindung. Bei Roami ist Hotspot kostenfrei.
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Irak eSIM 2026: Städte & Netzabdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,11 @@ modal:
     Code: web20'
 seo:
   title: 'Irak eSIM 30 Tage: Ideal für Geschäftsreisen'
-  description: Vergleichen Sie Irak eSIM Tarife mit 5G in Bagdad, Basra, Erbil. Zain Iraq & Asiacell & Korek Telecom Abdeckungsguide.
-    Sofortige QR-Aktivierung ab $1.99.
+  description: Vergleichen Sie Irak eSIM Tarife mit 5G in Bagdad, Basra, Erbil. Zain Iraq & Asiacell & Korek Telecom Abdeckungsguide. Sofortige QR-Aktivierung ab $21.99.
   keywords: Irak eSIM, Irak Reise eSIM, beste eSIM Irak, Irak Datentarif, Zain Iraq Irak, Asiacell Irak, Korek Telecom Irak,
     Bagdad eSIM, Basra eSIM, Erbil eSIM, Irak mobiles Internet, 5G Irak
+  low_price: 21.99
+  high_price: 124.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +46,7 @@ hero:
   title: 'Irak eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Irak
 features:
-  title: 'Warum Reisende Roami fuer Irak waehlen: Netzwerk, Tarife & Preiswert'
+  title: 'Warum Reisende Roami für Irak wählen: Netzwerk, Tarife & Preiswert'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Irak-Anbietern für das stärkste Signal
-plans_title: 'Irak eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Irak eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 3GB
@@ -149,7 +150,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Irak, einschliesslich Bagdad, Basra, Erbil, Mossul. Ihre eSIM verbindet
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Irak, einschließlich Bagdad, Basra, Erbil, Mossul. Ihre eSIM verbindet
         sich nahtlos mit den robusten Netzen von Zain Iraq, Asiacell, Korek Telecom.
     - icon: zap
       color: text-amber-500
@@ -227,7 +228,7 @@ activation_steps:
       ohne Vertrag.
     is_list: false
 faq_section:
-  title: "eSIM fuer Reisende in Iraq -- Netzgeschwindigkeiten, Abdeckung und Tipps"
+  title: "eSIM für Reisende in Iraq -- Netzgeschwindigkeiten, Abdeckung und Tipps"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Iraq. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -238,11 +239,13 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Irak?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Irak kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Irak kostet $35.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Irak eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Irak mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Irak mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $30.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Kann ich meine Irak eSIM noch in letzter Minute vor dem Flug kaufen?
       a: |
@@ -250,7 +253,8 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Irak?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($35.99), für zwei Wochen 10GB ($64.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Kann ich meine heimische SIM-Karte behalten, während ich eSIM in Irak nutze?
       a: |
@@ -262,10 +266,159 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Irak?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($35.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($30.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Irak akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $21.99. 
 related_products:
+  title: Weitere beliebte eSIM-Ziele
+  items:
+  - name: Vereinigte Staaten eSIM
+    flag: img/flags/us.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: Vereinigtes Königreich eSIM
+    flag: img/flags/gb.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: united-kingdom-esim
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Ab 1,99 $
+    is_highlight: true
+    slug: europe-esim
+  - name: Kanada eSIM
+    flag: img/flags/ca.svg
+    price: Ab 3,99 $
+    is_highlight: false
+    slug: canada-esim
+  - name: Türkei eSIM
+    flag: img/flags/tr.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: turkey-esim
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: japan-esim
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: Frankreich eSIM
+    flag: img/flags/fr.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: france-esim
+  - name: Spanien eSIM
+    flag: img/flags/es.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: spain-esim
+  - name: Deutschland eSIM
+    flag: img/flags/de.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: germany-esim
+  - name: Australien eSIM
+    flag: img/flags/au.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: australia-esim
+market_analysis:
+  title: 'Irak eSIM gegen Zain und Asiacell: Der Vergleich für Geschäfts- und Pilgerreisen'
+  subtitle: Drei Netze, Passpflicht am Verkaufspunkt und deutliche Unterschiede zwischen Bagdad, Basra und Kurdistan
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Iraq) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Iraq
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Irak eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: Zain Irak, Asiacell und Korek verkaufen ihre Karten in Bagdad, Basra und Erbil sowie an
+      Flughafenständen; in kleineren Städten ist der Zugang zu Ausländerkarten oft eingeschränkt.
+    esim_title: Am Flughafen fertig
+    esim_desc: Die eSIM liegt bereits vor der Anreise bereit. Nach der Landung in Bagdad oder Erbil ist kein
+      Verkaufsgespräch und keine Prüfung des Geräts nötig.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Irakische Prepaid-Karten werden nur gegen Vorlage des Reisepasses freigeschaltet; der Anbieter
+      erfasst die Daten des Nutzers im eigenen Register.
+    esim_title: Ohne Passkopie
+    esim_desc: Roami benötigt weder Ausweiskopie noch Adressnachweis und schaltet über die Bestellbestätigung frei.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Der Irak liegt außerhalb der EU-Roamingzone. Die Inlandstarife enden an den Grenzen zur Türkei, zum
+      Iran, nach Kuwait und Saudi-Arabien; ein regionaler Tarifverbund besteht nicht.
+    esim_title: Region ohne Grenzverlust
+    esim_desc: Für die Route Bagdad, Amman und Kuwait-Stadt bleibt ein Datenpaket gebucht.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die lokalen Datentarife laufen überwiegend 30 Tage und liegen im regionalen Vergleich hoch; ein
+      Aufenthalt von einer Woche zahlt den vollen Monat mit.
+    esim_title: Kurzreise ohne Restmonat
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 7-Tage-Tarif beginnt bei $21.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Bagdad, Basra und Erbil sind gut versorgt; auf den Straßen zwischen den Städten sowie im Süden und
+      Westen des Landes bricht die Versorgung dagegen über weite Abschnitte ab.
+    esim_title: Hotspot zwischen Bagdad und Erbil
+    esim_desc: Tethering bleibt bei Roami kostenfrei, auch auf langen Fahrtstrecken mit lückenhaftem Netz.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über Guthabenkarten aus Kiosken und über die Apps der Anbieter; ausländische Karten
+      werden bei der Aufladung nur selten akzeptiert.
+    esim_title: Zahlung aus dem Ausland
+    esim_desc: Für die Nutzung genügt eine internationale Karte oder ein Wallet-Dienst; Roami stellt keine
+      Guthabenkarten aus; bezahlt wird in US-Dollar per Karte oder Wallet.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist arabisch- und kurdischsprachig, in Erbil zusätzlich englisch; die Hotlines
+      sind nicht durchgehend besetzt.
+    esim_title: Mehrsprachiger Dauerservice
+    esim_desc: Chat und E-Mail sind jederzeit und in mehreren Sprachen besetzt.
+  expert_verdict:
+    title: 'Irak: vier Gründe, warum die eSIM die praktischere Wahl ist'
+    cards:
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Passpflicht am Tresen
+      desc: Ohne Reisepass und Registrierung gibt es keine irakische Karte. Roami aktiviert <b>ohne
+        Dokumentenprüfung</b>.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Hohes Tarifniveau
+      desc: Irakische Datenpakete liegen über dem regionalen Schnitt, oft mit 30 Tagen Laufzeit für kurze Aufenthalte.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Vier Grenzen, keine Zone
+      desc: Türkei, Iran, Kuwait und Saudi-Arabien haben keine gemeinsame Roamingzone mit dem Irak.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Strecken ohne Netz
+      desc: Zwischen Bagdad und Basra sowie im Westen brechen die Netze über weite Abschnitte ab.
 ---

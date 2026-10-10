@@ -1,6 +1,6 @@
 ---
 title: 'Andorra eSIM 2026: Anbieter & Abdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,12 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: 'Andorra eSIM ab 1,99 €: 5G ohne Roaming-Gebühren'
-  description: Vergleichen Sie Andorra eSIM Tarife mit 5G in Andorra la Vella, Escaldes-Engordany, Encamp. Andorra Telecom
-    & Mobilis & Som Abdeckungsguide. Sofortige QR-Aktivierung ab $1.99.
+  title: 'Andorra eSIM ab $6.99: 5G ohne Roaming-Gebühren'
+  description: Vergleichen Sie Andorra eSIM Tarife mit 5G in Andorra la Vella, Encamp. Andorra Telecom & Mobilis Abdeckungsguide. QR-Aktivierung ab $6.99.
   keywords: Andorra eSIM, Andorra Reise eSIM, beste eSIM Andorra, Andorra Datentarif, Andorra Telecom Andorra, Mobilis Andorra,
     Som Andorra, Andorra la Vella eSIM, Escaldes-Engordany eSIM, Encamp eSIM, Andorra mobiles Internet, 5G Andorra
+  low_price: 6.99
+  high_price: 89.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +46,7 @@ hero:
   title: 'Andorra eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Andorra
 features:
-  title: 'Warum Reisende Roami fuer Andorra waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Andorra wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Andorra-Anbietern für das stärkste Signal
-plans_title: 'Andorra eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Andorra eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 3GB
@@ -215,7 +216,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Andorra, einschliesslich Andorra la Vella, Escaldes-Engordany,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Andorra, einschließlich Andorra la Vella, Escaldes-Engordany,
         Encamp, La Massana. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Andorra Telecom, Mobilis, Som.
     - icon: zap
       color: text-amber-500
@@ -293,7 +294,7 @@ activation_steps:
       ohne Vertrag.
     is_list: false
 faq_section:
-  title: "eSIM fuer Reisende in Andorra -- Netzgeschwindigkeiten, Abdeckung und Tipps"
+  title: "eSIM für Reisende in Andorra -- Netzgeschwindigkeiten, Abdeckung und Tipps"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Andorra. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -308,7 +309,8 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Andorra?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Andorra kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Andorra kostet $16.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Andorra eSIM eine Bestätigung?
       a: |
@@ -332,7 +334,8 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Andorra?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($16.99), für zwei Wochen 10GB ($25.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
@@ -353,7 +356,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -396,5 +399,101 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
+  title: 'Andorra eSIM oder Andorra Telecom: Der Vergleich für Bergurlauber'
+  subtitle: Ein einziger Netzbetreiber, kein EU-Roaming und zwei Prepaid-Tarife – was Wintersportler und Wanderer 2026
+    beachten müssen
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Andorra) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Andorra
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Andorra eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: Andorra besitzt keinen eigenen Flughafen; wer landet, kommt über Barcelona oder Toulouse und braucht
+      schon auf der Fahrt Daten. Die Karte gibt es erst im Land selbst bei Andorra Telecom oder autorisierten
+      Partnern.
+    esim_title: Vor dem Grenzübertritt aktiv
+    esim_desc: Die eSIM lässt sich in Barcelona oder Toulouse installieren. Auf der Bergstraße nach Andorra la Vella
+      ist das Netz damit bereits gebucht.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Beim Kauf ist ein Ausweisdokument vorzulegen; Andorra Telecom prüft die Identität im Laden, bevor
+      die Karte freigeschaltet wird.
+    esim_title: Freischaltung ohne Ausweisprüfung
+    esim_desc: Roami verzichtet auf Ausweis und Formular. Die Bestellung wird direkt nach dem Kauf digital
+      freigeschaltet.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Andorra gehört weder zur EU noch zum EWR, damit gilt kein Roam Like at Home. Wer mit einer
+      spanischen oder französischen Karte einreist, landet in einem eigenen Roaming-Tarif – oft mit happigen
+      MB-Preisen.
+    esim_title: Ohne EU-Roaming-Falle
+    esim_desc: Ein einziges Datenpaket deckt die anschließende Rundreise über Barcelona und Toulouse mit ab, ohne
+      Sonderroaming beim Grenzübertritt.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: 'Die beiden Prepaid-Raten von Andorra Telecom laufen 30 Tage: Tarifa S mit 3 GB, 40 nationalen
+      Minuten und 10 SMS für 10 €, Tarifa M mit 12 GB, 100 Minuten und 10 SMS für 20 €.'
+    esim_title: Tarife nach Reisedauer
+    esim_desc: Statt zwei 30-Tage-Raten stehen bei Roami 3, 7, 15 und 30 Tage zur Wahl – der 7-Tage-Tarif startet bei
+      $6.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Das Netz ist dicht und liefert in den meisten Ortschaften 5G, weil Andorra die Lücken des Gebirges
+      mit vielen kleinen Funkzellen schließt – Andorra Telecom arbeitet dabei ohne Konkurrenz.
+    esim_title: Abdeckung ohne Monopolpreis
+    esim_desc: Roami rechnet nicht nach dem Monopolzuschlag von Andorra Telecom ab, sondern nach Volumen und Laufzeit
+      des gewählten Pakets.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Guthaben lässt sich über die Website, die App, Verkaufsstellen und sogar an Geldautomaten von
+      Andbank und Crèdit Andorrà nachladen – ohne Andorraner Konto bleibt aber der Weg über die Verkaufsstelle.
+    esim_title: Nachbuchen ohne Bankkonto
+    esim_desc: Aufgeladen wird international über Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – ein
+      Konto bei einer andorranischen Bank ist nicht nötig.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Der Kundendienst von Andorra Telecom wird auf Katalanisch, Spanisch und Französisch geführt;
+      deutschsprachige Beratung bietet der Monopolist nicht.
+    esim_title: Ansprechpartner auf Deutsch
+    esim_desc: Der Support läuft mehrsprachig und durchgehend besetzt über Chat und E-Mail.
+  expert_verdict:
+    title: 'Andorra: vier Gründe, weshalb die eSIM im Gebirge praktischer ist'
+    cards:
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Kein EU-Roaming
+      desc: Andorra liegt außerhalb der EU-Regeln. Wer mit einer spanischen Karte einreist, rutscht in einen eigenen
+        Roaming-Tarif.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Tarifa S reicht oft nicht
+      desc: Andorra Telecom bietet nur <b>3 GB oder 12 GB</b>, jeweils 30 Tage. Kurze Skireisen zahlen den
+        Monatsrahmen mit.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Anreise über Spanien
+      desc: Wer über Barcelona oder Toulouse anreist, will schon auf der Fahrt Daten. Die eSIM ist vor dem
+        Grenzübertritt aktiv.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Kein Andorraner Konto
+      desc: 'Aufladen ohne Bankverbindung im Fürstentum: Roami bucht in <b>US-Dollar</b> über gängige Karten und
+        Zahlungsdienste ab.'
 ---

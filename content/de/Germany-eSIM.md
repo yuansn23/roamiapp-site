@@ -1,6 +1,6 @@
 ---
 title: 'Deutschland eSIM 2026: Reise & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     & ganz Deutschland ab.
   keywords: Deutschland eSIM, Deutschland Reise eSIM, beste eSIM Deutschland, Deutschland Datentarif, Telekom Deutschland,
     Vodafone Deutschland, O2 Deutschland, Berlin eSIM, München eSIM, Hamburg eSIM, Deutschland mobiles Internet, 5G Deutschland
+  low_price: 1.99
+  high_price: 70.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Deutschland eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Deutschland
 features:
-  title: 'Warum Reisende Roami fuer Deutschland waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Deutschland wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Deutschland-Anbietern für das stärkste Signal
-plans_title: 'Deutschland eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Deutschland eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -304,7 +306,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Deutschland, einschliesslich Berlin, München, Hamburg, Frankfurt
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Deutschland, einschließlich Berlin, München, Hamburg, Frankfurt
         am Main. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Telekom, Vodafone, O2.
     - icon: zap
       color: text-amber-500
@@ -392,11 +394,13 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist am günstigsten für eine Reise nach Deutschland?
       a: |
-        Der günstigste Roami Deutschland eSIM Tarif startet bei $1.99. Die meisten Reisenden wählen 5GB/15 Tage ($9.99) — genug für Karten, WhatsApp und Social Media. Telekom bietet stabile Geschwindigkeiten in Deutschland. Tarife sind vorausbezahlt, ohne versteckte Gebühren.
+        Der günstigste Roami Deutschland eSIM Tarif startet bei $1.99. Die meisten Reisenden wählen 5GB/15 Tage ($7.99) — genug für Karten, WhatsApp und Social Media. Telekom bietet stabile Geschwindigkeiten in Deutschland. Tarife sind vorausbezahlt, ohne versteckte Gebühren.
+
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Deutschland eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Deutschland mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Deutschland mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $70.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Kann ich meine heimische SIM-Karte behalten, während ich eSIM in Deutschland nutze?
       a: |
@@ -408,7 +412,8 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Deutschland?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($5.99), für zwei Wochen 10GB ($9.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Deutschland eSIM eine Bestätigung?
       a: |
@@ -416,13 +421,14 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Deutschland akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Deutschland am beliebtesten?
       a: |
-        Die meisten Reisenden nach Deutschland wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Deutschland wählen den 5GB/15 Tage Tarif ($7.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($9.99) oder den unbegrenzten Tarif ($9.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Passende eSIM-Tarife für Ihre Reise
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -441,7 +447,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -474,19 +480,20 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: spain-esim
-  - name: Deutschland eSIM
-    flag: img/flags/de.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: germany-esim
+    slug: italy-esim
   - name: Australien eSIM
     flag: img/flags/au.svg
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Germany eSIM vs. Prepaid-SIM: Welche ist die richtige für Sie?'
-  subtitle: Lokale Prepaid-SIMs in Deutschland vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Germany eSIM vs. lokale Prepaid-SIM: Der Blick auf die Praxis'
+  subtitle: Lokale Prepaid-SIMs in Deutschland vs. eSIM-Lösungen im Preisvergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Germany) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Germany
@@ -498,59 +505,60 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Deutsche Telekom, Vodafone und O2 verlangen persönlichen Kauf im Shop oder Postident-Verfahren; Supermarkt-SIMs
-      wie Aldi Talk sind nur leere Karten und erfordern selbstständige VideoIdent-Aktivierung, die oft scheitert.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie Telekom-Ladenschlangen und PostIdent-Prozeduren. Aktivieren Sie Ihre eSIM online innerhalb von
-      1 Minute nach der Landung in Berlin – kein Warten, kein Deutsch nötig.
+    prepaid_desc: Deutsche Telekom, Vodafone und O2 verlangen persönlichen Kauf im Shop oder Postident-Verfahren;
+      Supermarkt-SIMs wie Aldi Talk sind nur leere Karten und erfordern selbstständige VideoIdent-Aktivierung, die oft
+      scheitert.
+    esim_title: Aktivierung vor der Ankunft
+    esim_desc: Umgehen Sie Telekom-Ladenschlangen und PostIdent-Prozeduren. Aktivieren Sie Ihre eSIM online innerhalb
+      von 1 Minute nach der Landung in Berlin – kein Warten, kein Deutsch nötig.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Seit 2017 ist für alle deutschen Prepaid-SIMs eine Passregistrierung Pflicht; Telekom und O2 scannen Pässe
-      im Geschäft, Discounter verlangen PostIdent oder VideoIdent.
+    prepaid_desc: Seit 2017 ist für alle deutschen Prepaid-SIMs eine Passregistrierung Pflicht; Telekom und O2 scannen
+      Pässe im Geschäft, Discounter verlangen PostIdent oder VideoIdent.
     esim_title: Kein Pass, kein VideoIdent
-    esim_desc: Deutsche Prepaid-SIMs zwingen Sie zur Passregistrierung (PostIdent/VideoIdent). Mit Roami eSIM entfällt dieser
-      Schritt – sofortige Aktivierung ohne Ausweiskopie.
+    esim_desc: Deutsche Prepaid-SIMs zwingen Sie zur Passregistrierung (PostIdent/VideoIdent). Mit Roami eSIM entfällt
+      dieser Schritt – sofortige Aktivierung ohne Ausweiskopie.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Vodafone und O2 schließen die Schweiz aus – Standardtarif €4/MB; Telekom inkludiert die Schweiz; Discounter
-      wie Lidl Connect verlangen €4,99/500MB/7 Tage für die Schweiz.
-    esim_title: Weltweites Roaming ohne Fallstricke
-    esim_desc: 'Vermeiden Sie die Schweiz-Falle: Vodafone verlangt €4/MB, O2 €0,54/Minute. Roami eSIM bietet EU-weite Tarife
-      ab $1,99/GB – inklusive Schweiz, kein Extra-Paket nötig.'
+    prepaid_desc: Vodafone und O2 schließen die Schweiz aus – Standardtarif €4/MB; Telekom inkludiert die Schweiz;
+      Discounter wie Lidl Connect verlangen €4,99/500MB/7 Tage für die Schweiz.
+    esim_title: Ein Paket über mehrere Länder
+    esim_desc: 'Vermeiden Sie die Schweiz-Falle: Vodafone verlangt €4/MB, O2 €0,54/Minute. Roami eSIM bietet EU-weite
+      Tarife ab $1.99 – inklusive Schweiz, kein Extra-Paket nötig.'
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Fast alle deutschen Prepaid-Tarife haben einen 28-Tage-Zyklus; z.B. Telekom MagentaMobil M €9,95/10GB, Aldi
-      Talk €8,99/25GB – bei 7-tägigem Aufenthalt werden ca. 75% des Guthabens verschwendet.
-    esim_title: Flexible Tarife, kein 28-Tage-Zwang
-    esim_desc: Deutsche Anbieter wie Telekom (€9,95/10GB/28d) oder Aldi Talk (€8,99/25GB/28d) verschwenden bis zu 75% Ihres
-      Guthabens bei Kurzreisen. Roami bietet 7-Tage-Tarife ab $1,99/GB – zahlen Sie nur, was Sie nutzen.
+    prepaid_desc: Fast alle deutschen Prepaid-Tarife haben einen 28-Tage-Zyklus; z.B. Telekom MagentaMobil M
+      €9,95/10GB, Aldi Talk €8,99/25GB – bei 7-tägigem Aufenthalt werden ca. 75% des Guthabens verschwendet.
+    esim_title: Paketdauer gleich Reisedauer
+    esim_desc: Deutsche Anbieter wie Telekom (€9,95/10GB/28d) oder Aldi Talk (€8,99/25GB/28d) verschwenden bis zu 75%
+      Ihres Guthabens bei Kurzreisen. Roami bietet 7-Tage-Tarife ab $2.99 – zahlen Sie nur, was Sie nutzen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Typisch: Vodafone erlaubt Tethering, drosselt
-      aber nach 3GB/Tag auf 1,5 Mbit/s; Discounter blockieren Hotspot oft komplett.'
+    prepaid_desc: 'Typisch: Vodafone erlaubt Tethering, drosselt aber nach 3GB/Tag auf 1,5 Mbit/s; Discounter
+      blockieren Hotspot oft komplett.'
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Viele deutsche Discounter blockieren Hotspots oder drosseln nach 3GB/Tag. Roami eSIM erlaubt unbegrenztes Tethering
-      – teilen Sie Ihr Datenvolumen mit Laptop und Tablet.
+    esim_desc: Viele deutsche Discounter blockieren Hotspots oder drosseln nach 3GB/Tag. Roami eSIM erlaubt
+      unbegrenztes Tethering – teilen Sie Ihr Datenvolumen mit Laptop und Tablet.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Online-Aufladung lehnt ausländische Kreditkarten oft ab; physische Gutscheine an Kiosken ab €15 Mindestbetrag;
-      internationale Karten werden häufig abgewiesen.
+    prepaid_desc: Online-Aufladung lehnt ausländische Kreditkarten oft ab; physische Gutscheine an Kiosken ab €15
+      Mindestbetrag; internationale Karten werden häufig abgewiesen.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Deutsche Prepaid-Aufladung scheitert oft mit ausländischen Karten. Roami akzeptiert Visa, Mastercard, AMEX,
-      Apple Pay, Google Pay und PayPal – keine Bargeld-Gutscheine nötig.
+    esim_desc: Deutsche Prepaid-Aufladung scheitert oft mit ausländischen Karten. Roami rechnet in US-Dollar ab, ganz
+      ohne Aufladung vor Ort.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Kundenservice nur auf Deutsch, per Telefon oder E-Mail; keine englischsprachigen Hotlines; Apps nur im deutschen
-      App Store verfügbar.
+    prepaid_desc: Kundenservice nur auf Deutsch, per Telefon oder E-Mail; keine englischsprachigen Hotlines; Apps nur
+      im deutschen App Store verfügbar.
     esim_title: 24/7 Support auf Englisch
-    esim_desc: Telekom und Vodafone bieten Support nur auf Deutsch, Mo-Fr 9-17 Uhr. Roami eSIM hat 24/7 englischsprachigen
-      Live-Chat – Hilfe immer und überall.
+    esim_desc: Telekom und Vodafone bieten Support nur auf Deutsch, Mo-Fr 9-17 Uhr. Roami eSIM hat 24/7
+      englischsprachigen Live-Chat – Hilfe immer und überall.
   expert_verdict:
     title: 'Germany eSIM vs. Prepaid-SIM: Kosten und Komfort im Vergleich – Die ultimative Entscheidungshilfe'
     cards:
@@ -558,24 +566,26 @@ market_analysis:
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: EU-weite Abdeckung ohne FUP-Fallen
-      desc: Discounter wie Lyca Mobile reduzieren das Datenvolumen außerhalb Deutschlands um über 70% (z.B. 160GB auf 46GB).
-        Roami eSIM bietet echte EU-weite Tarife ohne Fair-Use-Limit – gleiche Geschwindigkeit in Berlin, Paris oder Rom.
+      desc: Discounter wie Lyca Mobile reduzieren das Datenvolumen außerhalb Deutschlands um über 70% (z.B. 160GB auf
+        46GB). Roami eSIM bietet echte EU-weite Tarife ohne Fair-Use-Limit – gleiche Geschwindigkeit in Berlin, Paris
+        oder Rom.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Vermeiden Sie die Schweiz-Roaming-Falle
-      desc: Vodafone und O2 schließen die Schweiz aus – Standardtarif €4/MB. Lidl Connect verlangt €4,99/500MB/7 Tage. Roami
-        eSIM bietet EU-weite Tarife inklusive Schweiz – kein Extra-Paket, keine Überraschungen.
+      desc: Vodafone und O2 schließen die Schweiz aus – Standardtarif €4/MB. Lidl Connect verlangt €4,99/500MB/7 Tage.
+        Roami eSIM bietet EU-weite Tarife inklusive Schweiz – kein Extra-Paket, keine Überraschungen.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
-      title: Internationale Zahlungen ohne Hürden
-      desc: Deutsche Prepaid-Aufladung lehnt ausländische Kreditkarten oft ab – physische Gutscheine ab €15 nötig. Roami akzeptiert
-        Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – weltweit und sofort.
+      title: Keine Guthabenkarten nötig
+      desc: Deutsche Prepaid-Aufladung lehnt ausländische Kreditkarten oft ab – physische Gutscheine ab €15 nötig. Für
+        die Nutzung genügt eine internationale Karte oder ein Wallet-Dienst; Roami bucht in US-Dollar ab.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie Deutschlands strenge SIM-Passanforderungen
-      desc: Deutsche Prepaid-SIMs erfordern seit 2017 eine Passregistrierung per PostIdent oder VideoIdent. Bei Discountern
-        wie Aldi Talk scheitert VideoIdent oft wegen Passreflexionen. Roami eSIM benötigt keinen Ausweis – sofortige Aktivierung.
+      desc: Deutsche Prepaid-SIMs erfordern seit 2017 eine Passregistrierung per PostIdent oder VideoIdent. Bei
+        Discountern wie Aldi Talk scheitert VideoIdent oft wegen Passreflexionen. Roami eSIM benötigt keinen Ausweis –
+        sofortige Aktivierung.
 ---

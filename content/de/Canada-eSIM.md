@@ -1,6 +1,6 @@
 ---
 title: 'Kanada eSIM 2026: Städte & Netzabdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Toronto, Vancouver & ganz Kanada ab.
   keywords: Kanada eSIM, Kanada Reise eSIM, beste eSIM Kanada, Kanada Datentarif, Rogers Kanada, Bell Kanada, Telus Kanada,
     Toronto eSIM, Vancouver eSIM, Montreal eSIM, Kanada mobiles Internet, 5G Kanada
+  low_price: 3.99
+  high_price: 59.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Kanada eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Kanada
 features:
-  title: 'Warum Reisende Roami fuer Kanada waehlen: Netzwerk, Tarife & Preiswert'
+  title: 'Warum Reisende Roami für Kanada wählen: Netzwerk, Tarife & Preiswert'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Kanada-Anbietern für das stärkste Signal
-plans_title: 'Kanada eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Kanada eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -296,7 +298,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Kanada, einschliesslich Toronto, Vancouver, Montreal, Calgary.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Kanada, einschließlich Toronto, Vancouver, Montreal, Calgary.
         Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Rogers, Bell, Telus.
     - icon: zap
       color: text-amber-500
@@ -385,7 +387,8 @@ faq_section:
     - q: |
         Ist eine eSIM für Kanada günstiger als eine SIM-Karte am Flughafen?
       a: |
-        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $1.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $3.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+
     - q: |
         Was tun, wenn meine Kanada eSIM bei der Ankunft nicht funktioniert?
       a: |
@@ -397,11 +400,12 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Kanada am beliebtesten?
       a: |
-        Die meisten Reisenden nach Kanada wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Kanada wählen den 5GB/15 Tage Tarif ($14.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($15.99) oder den unbegrenzten Tarif ($22.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Kanada akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $3.99. 
     - q: |
         Kann ich meine Kanada eSIM noch in letzter Minute vor dem Flug kaufen?
       a: |
@@ -413,9 +417,10 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Kanada?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($11.99), für zwei Wochen 10GB ($15.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Passende eSIM-Tarife für Ihre Reise
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -432,11 +437,11 @@ related_products:
     price: Ab 1,99 $
     is_highlight: true
     slug: europe-esim
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: canada-esim
+    slug: italy-esim
   - name: Türkei eSIM
     flag: img/flags/tr.svg
     price: Ab 1,99 $
@@ -477,9 +482,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Canada eSIM vs. SIM-Karten-Tarife: Welcher passt zu Ihren Bedürfnissen?'
-  subtitle: Lokale Prepaid-SIMs in Kanada vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Canada eSIM vs. lokale Prepaid-SIM: Der Kostenvergleich'
+  subtitle: Lokale Prepaid-SIMs in Kanada vs. eSIM-Lösungen im Vergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Canada) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Canada
@@ -491,86 +497,87 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Koodo verlangt eine SIM-Karten-Gebühr von $20 (wird in Guthaben umgewandelt) und erfordert eine umständliche
-      APN-Einrichtung (sp.koodo.com). Public Mobile eSIM erfordert eine Online-Aktivierung mit einer US- oder kanadischen
-      Bankkarte.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die $20 SIM-Karten-Gebühr von Koodo und die umständliche APN-Einrichtung. Aktivieren Sie Roami
-      eSIM online innerhalb von 1 Minute nach der Landung in Toronto oder Vancouver.
+    prepaid_desc: Koodo verlangt eine SIM-Karten-Gebühr von $20 (wird in Guthaben umgewandelt) und erfordert eine
+      umständliche APN-Einrichtung (sp.koodo.com). Public Mobile eSIM erfordert eine Online-Aktivierung mit einer US-
+      oder kanadischen Bankkarte.
+    esim_title: Aktivierung vor der Ankunft
+    esim_desc: Umgehen Sie die $20 SIM-Karten-Gebühr von Koodo und die umständliche APN-Einrichtung. Aktivieren Sie
+      Roami eSIM online innerhalb von 1 Minute nach der Landung in Toronto oder Vancouver.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Koodo ist der einzige der drei großen Anbieter, der internationale Kreditkarten (ohne kanadische Adresse)
-      akzeptiert. Public Mobile eSIM erfordert eine US- oder kanadische Bankkarte für die Online-Aktivierung.
+    prepaid_desc: Koodo ist der einzige der drei großen Anbieter, der internationale Kreditkarten (ohne kanadische
+      Adresse) akzeptiert. Public Mobile eSIM erfordert eine US- oder kanadische Bankkarte für die Online-Aktivierung.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Während Public Mobile eine US- oder kanadische Bankkarte für die eSIM-Aktivierung verlangt, benötigt Roami
-      eSIM keine KYC-Prüfung – einfach kaufen und sofort nutzen.
+    esim_desc: Während Public Mobile eine US- oder kanadische Bankkarte für die eSIM-Aktivierung verlangt, benötigt
+      Roami eSIM keine KYC-Prüfung – einfach kaufen und sofort nutzen.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Rogers hat seit 2022 alle Prepaid-Marken von US-Roaming ausgeschlossen (kein Signal). Chatr berechnet $36/MB
-      für Datenroaming in anderen Ländern. Freedom Mobile hat eine FUP, die Roaming in den USA und Mexiko auf 30 Tage begrenzt.
-    esim_title: Weltweites Roaming ohne Einschränkungen
-    esim_desc: Im Gegensatz zu Rogers, das seit 2022 US-Roaming sperrt, und Chatr mit $36/MB Roaming-Gebühren, bietet Roami
-      eSIM nahtloses Roaming in den USA und Kanada zu erschwinglichen Preisen, ohne FUP-Begrenzung.
+    prepaid_desc: Rogers hat seit 2022 alle Prepaid-Marken von US-Roaming ausgeschlossen (kein Signal). Chatr
+      berechnet $36/MB für Datenroaming in anderen Ländern. Freedom Mobile hat eine FUP, die Roaming in den USA und
+      Mexiko auf 30 Tage begrenzt.
+    esim_title: Ohne Neukauf an jeder Grenze
+    esim_desc: Im Gegensatz zu Rogers, das seit 2022 US-Roaming sperrt, und Chatr mit $36/MB Roaming-Gebühren, bietet
+      Roami eSIM nahtloses Roaming in den USA und Kanada zu erschwinglichen Preisen, ohne FUP-Begrenzung.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Die meisten kanadischen Prepaid-Tarife haben einen 30-Tage-Zyklus, z.B. Chatr $35/30 Tage für 1 GB + 5 GB
-      Bonus. Ein 7-tägiger Tourist verschwendet über 70% des Tarifwerts.
+    prepaid_desc: Die meisten kanadischen Prepaid-Tarife haben einen 30-Tage-Zyklus, z.B. Chatr $35/30 Tage für 1 GB +
+      5 GB Bonus. Ein 7-tägiger Tourist verschwendet über 70% des Tarifwerts.
     esim_title: Flexible Tarife nach Bedarf
-    esim_desc: Statt 30-Tage-Zyklen wie bei Chatr ($35/1 GB) oder Lucky Mobile ($30/1,5 GB) bietet Roami 7-Tage-Tarife ab
-      $1.99/GB – sparen Sie über 70% bei Kurzaufenthalten.
+    esim_desc: Statt 30-Tage-Zyklen wie bei Chatr ($35/1 GB) oder Lucky Mobile ($30/1,5 GB) bietet Roami 7-Tage-Tarife
+      ab $3.99 – sparen Sie über 70% bei Kurzaufenthalten.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise erlauben die meisten kanadischen
-      Anbieter Tethering, aber mit Geschwindigkeitsdrosselung nach Verbrauch des Datenvolumens.
+    prepaid_desc: Typischerweise erlauben die meisten kanadischen Anbieter Tethering, aber mit
+      Geschwindigkeitsdrosselung nach Verbrauch des Datenvolumens.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während einige kanadische Anbieter Tethering einschränken oder drosseln, erlaubt Roami eSIM uneingeschränktes
-      Hotspot-Sharing – ideal für die Nutzung mehrerer Geräte auf Reisen.
+    esim_desc: Während einige kanadische Anbieter Tethering einschränken oder drosseln, erlaubt Roami eSIM
+      uneingeschränktes Hotspot-Sharing – ideal für die Nutzung mehrerer Geräte auf Reisen.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Rogers und Fido lehnen ausländische Kreditkarten ab; Telus verlangt eine kanadische Rechnungsadresse für
-      Online-Aufladungen. Koodo akzeptiert internationale Kreditkarten. Chatr erhebt eine Servicegebühr von bis zu $3 bei
-      Barzahlung im Geschäft.
+    prepaid_desc: Rogers und Fido lehnen ausländische Kreditkarten ab; Telus verlangt eine kanadische Rechnungsadresse
+      für Online-Aufladungen. Koodo akzeptiert internationale Kreditkarten. Chatr erhebt eine Servicegebühr von bis zu
+      $3 bei Barzahlung im Geschäft.
     esim_title: Weltweite Zahlungsmethoden
-    esim_desc: Akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – keine Probleme mit ausländischen Karten
-      wie bei Rogers oder Telus, die kanadische Karten oder Bargeld verlangen.
+    esim_desc: Akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – keine Probleme mit ausländischen
+      Karten wie bei Rogers oder Telus, die kanadische Karten oder Bargeld verlangen.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension. Kundensupport ist in der Regel auf Englisch
-      und Französisch verfügbar, aber möglicherweise nicht rund um die Uhr.
+    prepaid_desc: Kundensupport ist in der Regel auf Englisch und Französisch verfügbar, aber möglicherweise nicht
+      rund um die Uhr.
     esim_title: 24/7 Kundensupport
-    esim_desc: Roami bietet rund um die Uhr Support auf Englisch, Deutsch und anderen Sprachen – im Gegensatz zu lokalen Anbietern,
-      die oft nur während Geschäftszeiten erreichbar sind.
+    esim_desc: Roami bietet rund um die Uhr Support auf Englisch, Deutsch und anderen Sprachen – im Gegensatz zu
+      lokalen Anbietern, die oft nur während Geschäftszeiten erreichbar sind.
   expert_verdict:
-    title: 'Canada eSIM vs. Prepaid-SIM: Welches bietet besseres Preis-Leistungs-Verhältnis?'
+    title: 'Canada eSIM vs. lokale Prepaid-SIM: Abdeckung und Tarifzyklen'
     cards:
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Akzeptierte internationale Zahlungen
-      desc: Rogers und Fido lehnen ausländische Kreditkarten ab; Telus verlangt eine kanadische Rechnungsadresse. Roami akzeptiert
-        <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>.
+      desc: Rogers und Fido lehnen ausländische Kreditkarten ab; Telus verlangt eine kanadische Rechnungsadresse.
+        Roami akzeptiert <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Sparen Sie mit flexiblen Tarifen
-      desc: Kanadische Prepaid-Tarife wie Chatr <b>$35/30 Tage</b> für 1 GB zwingen Sie zu einem 30-Tage-Zyklus. Roami eSIM
-        bietet <b>7-Tage-Tarife ab $1.99/GB</b> – ideal für Kurzreisen.
+      desc: Kanadische Prepaid-Tarife wie Chatr <b>$35/30 Tage</b> für 1 GB zwingen Sie zu einem 30-Tage-Zyklus. Roami
+        eSIM bietet <b>7-Tage-Tarife ab $3.99</b> – ideal für Kurzreisen.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofortige Aktivierung ohne Wartezeit
-      desc: Während Koodo eine umständliche APN-Einrichtung (sp.koodo.com) erfordert, ist Roami eSIM in <b>1 Minute</b> aktiviert
-        – keine Schlangen an Flughafen-Kiosken.
+      desc: Während Koodo eine umständliche APN-Einrichtung (sp.koodo.com) erfordert, ist Roami eSIM in <b>1
+        Minute</b> aktiviert – keine Schlangen an Flughafen-Kiosken.
     - icon: shield
       icon_bg: bg-sky-100
       icon_color: text-sky-600
       title: 24/7 Kundensupport auf Deutsch
-      desc: Lokale Anbieter bieten oft nur Support während Geschäftszeiten. Roami bietet rund um die Uhr Support auf Deutsch
-        und anderen Sprachen.
+      desc: Lokale Anbieter bieten oft nur Support während Geschäftszeiten. Roami bietet rund um die Uhr Support auf
+        Deutsch und anderen Sprachen.
 ---

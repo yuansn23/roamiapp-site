@@ -1,6 +1,6 @@
 ---
 title: 'Uruguay eSIM 2026: Kompletter Reiseführer | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -24,6 +24,8 @@ seo:
     Regionen ab.
   keywords: Uruguay eSIM, Uruguay Reise eSIM, beste eSIM Uruguay, Uruguay Datentarif, Antel Uruguay, Movistar Uruguay, Claro
     Uruguay, Montevideo eSIM, Punta del Este eSIM, Colonia del Sacramento eSIM, Uruguay mobiles Internet, 5G Uruguay
+  low_price: 11.99
+  high_price: 98.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -46,7 +48,7 @@ hero:
   title: 'Uruguay eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Uruguay
 features:
-  title: 'Warum Reisende Roami fuer Uruguay waehlen: Abdeckung, Geschwindigkeit & Service'
+  title: 'Warum Reisende Roami für Uruguay wählen: Abdeckung, Geschwindigkeit & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +74,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Uruguay-Anbietern für das stärkste Signal
-plans_title: 'Uruguay eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Uruguay eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -257,7 +259,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Uruguay, einschliesslich Montevideo, Punta del Este, Colonia del
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Uruguay, einschließlich Montevideo, Punta del Este, Colonia del
         Sacramento, Salto. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Antel, Movistar, Claro.
     - icon: zap
       color: text-amber-500
@@ -358,7 +360,8 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Uruguay?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Uruguay kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Uruguay kostet $21.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Uruguay nutzen?
       a: |
@@ -366,17 +369,19 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Uruguay?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($21.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($30.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Uruguay?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($21.99), für zwei Wochen 10GB ($31.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Kann ich meine Uruguay eSIM noch in letzter Minute vor dem Flug kaufen?
       a: |
         Ja — der QR-Code kommt innerhalb von 5 Minuten per Email. Kaufen Sie am Gate, installieren Sie im Flugzeug über WLAN. Nach der Landung in Uruguay Daten-Roaming aktivieren und in 1-2 Minuten online sein. Totalzeit von Kauf bis Online: unter 10 Minuten.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -395,7 +400,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -438,5 +443,91 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
+  title: 'Uruguay eSIM gegen Antel und Claro: Der Vergleich zwischen Montevideo und Punta del Este'
+  subtitle: Drei Netze, Registrierung mit Ausweis und ein flächendeckendes Staatsnetz
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Uruguay) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Uruguay
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Uruguay eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: Antel, Movistar und Claro verkaufen ihre Karten in Montevideo, Punta del Este und Colonia del
+      Sacramento; das Netz von Antel reicht bis in die kleinen Badeorte an der Küste.
+    esim_title: Vor der Ankunft bereit
+    esim_desc: Die Installation erfolgt vorab, sodass die eSIM bei der Ankunft aktiv ist. Am Flughafen Carrasco
+      entfällt der Weg zu einem Shop in Montevideo.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Uruguayische Prepaid-Karten werden auf einen Inhaber registriert; dafür ist ein Ausweis vorzulegen,
+      sonst wird die Nummer gesperrt.
+    esim_title: Freischaltung ohne Papiere
+    esim_desc: Roami erhebt keine Ausweis- und Adressdaten und aktiviert allein über die Bestellbestätigung.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Uruguay ist über das Mercosur-Roaming mit den Nachbarstaaten verbunden, doch die Freikontingente
+      sind begrenzt und decken längere Aufenthalte in Argentinien oder Brasilien nicht ab.
+    esim_title: Mercosur ohne Deckel
+    esim_desc: Wo das Mercosur-Kontingent knapp wird, bleibt bei Roami das gebuchte Datenpaket über Argentinien und
+      Brasilien hinweg vollständig nutzbar.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die lokalen Datentarife laufen überwiegend im Monatsraster, während die klassische Route Montevideo,
+      Colonia und Punta del Este nur eine Woche dauert.
+    esim_title: Küstenwoche statt Monat
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 7-Tage-Einstieg liegt bei $11.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Uruguay ist dank der staatlichen Antel fast flächendeckend mit 5G versorgt; nur in den dünn
+      besiedelten Regionen im Norden an der Grenze zu Brasilien dünnt das Netz aus.
+    esim_title: Hotspot an der Küste
+    esim_desc: Das Teilen der Verbindung kostet bei Roami nichts, auch wenn mehrere Geräte im Apartment in Punta del
+      Este mitversorgt werden.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über die Apps der Anbieter und Guthabenkarten; abgerechnet wird im Uruguayischen
+      Peso, ausländische Karten werden meist angenommen.
+    esim_title: Zahlung mit Karte
+    esim_desc: Für Kunden mit internationaler Karte oder Wallet ist der Kauf direkt in US-Dollar möglich.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist spanischsprachig; englischsprachige Auskunft gibt es in einzelnen Filialen
+      in Montevideo.
+    esim_title: Mehrsprachige Beratung
+    esim_desc: Chat und E-Mail sind jederzeit besetzt und werden mehrsprachig beantwortet.
+  expert_verdict:
+    title: 'Uruguay: vier Gründe für die eSIM vor der lokalen Karte'
+    cards:
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Monatsraster
+      desc: Lokale Datentarife laufen 30 Tage. Eine Woche an der Küste zahlt den vollen Zeitraum mit.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Mercosur mit Grenzen
+      desc: Das Freikontingent deckt längere Aufenthalte in Argentinien und Brasilien nicht ab.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Registrierung
+      desc: Vor der Ausgabe wird das Ausweisdokument erfasst. Für Roami ist <b>kein Ausweisdokument</b> nötig.
+    - icon: clock
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Hochsaison im Januar
+      desc: In der Sommersaison ist Punta del Este überlaufen und die Netze am stärksten belastet.
 ---

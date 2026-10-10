@@ -1,6 +1,6 @@
 ---
 title: 'Bulgarien eSIM 2026: Reise & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Deckt alle Regionen ab.
   keywords: Bulgarien eSIM, Bulgarien Reise eSIM, beste eSIM Bulgarien, Bulgarien Datentarif, A1 Bulgarien, Telenor Bulgarien,
     Vivacom Bulgarien, Sofia eSIM, Plovdiv eSIM, Varna eSIM, Bulgarien mobiles Internet, 5G Bulgarien
+  low_price: 1.99
+  high_price: 77.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Bulgarien eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Bulgarien
 features:
-  title: 'Warum Reisende Roami fuer Bulgarien waehlen: Netzwerk, Tarife & Preiswert'
+  title: 'Warum Reisende Roami für Bulgarien wählen: Netzwerk, Tarife & Preiswert'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Bulgarien-Anbietern für das stärkste Signal
-plans_title: 'Bulgarien eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Bulgarien eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 20GB
@@ -304,7 +306,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Bulgarien, einschliesslich Sofia, Plovdiv, Varna, Burgas. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Bulgarien, einschließlich Sofia, Plovdiv, Varna, Burgas. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von A1, Telenor, Vivacom.
     - icon: zap
       color: text-amber-500
@@ -404,7 +406,8 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Bulgarien?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($6.99), für zwei Wochen 10GB ($11.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Funktioniert eSIM in Bulgarien auch in ländlichen Gebieten?
       a: |
@@ -412,7 +415,8 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Bulgarien?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Bulgarien kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Bulgarien kostet $6.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Was tun, wenn meine Bulgarien eSIM bei der Ankunft nicht funktioniert?
       a: |
@@ -422,7 +426,7 @@ faq_section:
       a: |
         Ja — Ihre heimische SIM bleibt in Slot 1 für SMS (Bankcodes, 2FA-Logins). Die eSIM übernimmt die Daten in Slot 2. Deaktivieren Sie Daten-Roaming auf Ihrer heimischen SIM, um Roaming-Gebühren von bis zu $10-15 pro MB zu vermeiden. Über 80% der Handys ab 2020 unterstützen diese Dual-SIM-Konfiguration.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Weitere beliebte eSIM-Ziele
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -441,7 +445,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -484,9 +488,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Bulgaria eSIM vs. Prepaid-SIM-Karte: Lohnt sich der Wechsel?'
-  subtitle: Lokale Prepaid-SIMs in Bulgarien vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Bulgaria eSIM vs. lokale Prepaid-SIM: Registrierung und Preise'
+  subtitle: Lokale Prepaid-SIMs in Bulgarien vs. eSIM-Lösungen für Reisende
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Bulgaria) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria
@@ -498,92 +503,97 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Der Kauf einer Prepaid-SIM in Bulgarien erfordert den Besuch eines A1-, Yettel- oder Vivacom-Shops am Flughafen
-      oder in der Stadt, wo man seinen Pass vorlegen muss; die Aktivierung kann durch Systemverzögerungen bis zu 30 Minuten
-      dauern.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die Warteschlangen in A1- oder Vivacom-Shops. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute
-      nach der Landung in Sofia – kein Pass erforderlich.
+    prepaid_desc: Der Kauf einer Prepaid-SIM in Bulgarien erfordert den Besuch eines A1-, Yettel- oder Vivacom-Shops
+      am Flughafen oder in der Stadt, wo man seinen Pass vorlegen muss; die Aktivierung kann durch Systemverzögerungen
+      bis zu 30 Minuten dauern.
+    esim_title: Bereit vom ersten Moment an
+    esim_desc: Umgehen Sie die Warteschlangen in A1- oder Vivacom-Shops. Aktivieren Sie Ihre eSIM online innerhalb von
+      1 Minute nach der Landung in Sofia – kein Pass erforderlich.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Alle drei Anbieter (A1, Yettel, Vivacom) verlangen zwingend die Vorlage eines gültigen Reisepasses oder
-      Personalausweises zur Registrierung; bei A1 gilt zudem eine Obergrenze von maximal 10 SIM-Karten pro Person im gesamten
-      Netzwerk.
+    prepaid_desc: Alle drei Anbieter (A1, Yettel, Vivacom) verlangen zwingend die Vorlage eines gültigen Reisepasses
+      oder Personalausweises zur Registrierung; bei A1 gilt zudem eine Obergrenze von maximal 10 SIM-Karten pro Person
+      im gesamten Netzwerk.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Anders als bei A1, Yettel oder Vivacom, die zwingend einen Reisepass verlangen und eine Obergrenze von 10 SIMs
-      pro Person haben, benötigt Roami eSIM keine persönliche Identifikation – sofortige Aktivierung ohne Bürokratie.
+    esim_desc: Anders als bei A1, Yettel oder Vivacom, die zwingend einen Reisepass verlangen und eine Obergrenze von
+      10 SIMs pro Person haben, benötigt Roami eSIM keine persönliche Identifikation – sofortige Aktivierung ohne
+      Bürokratie.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Yettel Data-only-SIMs blockieren internationales Roaming vollständig; Vivacom Data2Go 80GB bietet im EU-Roaming
-      nur 19,7GB (75% Reduzierung); A1 Max 15GB enthält EU-Roaming, aber nach FUP-Überschreitung fallen €0,0105/MB (ca. €10,75/GB)
-      an.
-    esim_title: Weltweites Roaming ohne Einschränkungen
-    esim_desc: Vermeiden Sie die Fallstricke von Yettel Data-only-SIMs (kein Roaming) oder Vivacom 80GB (nur 19,7GB EU-Roaming).
-      Roami eSIM bietet nahtloses Roaming in Bulgarien und Nachbarländern wie Griechenland oder Rumänien ohne FUP-Drosselung.
+    prepaid_desc: Yettel Data-only-SIMs blockieren internationales Roaming vollständig; Vivacom Data2Go 80GB bietet im
+      EU-Roaming nur 19,7GB (75% Reduzierung); A1 Max 15GB enthält EU-Roaming, aber nach FUP-Überschreitung fallen
+      €0,0105/MB (ca. €10,75/GB) an.
+    esim_title: Mehrere Länder, ein Tarif
+    esim_desc: Vermeiden Sie die Fallstricke von Yettel Data-only-SIMs (kein Roaming) oder Vivacom 80GB (nur 19,7GB
+      EU-Roaming). Roami eSIM bietet nahtloses Roaming in Bulgarien und Nachbarländern wie Griechenland oder Rumänien
+      ohne FUP-Drosselung.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Die meisten Prepaid-Tarife haben eine Laufzeit von 19 Tagen (A1 Max €5,11), 28 Tagen (Vivacom Data2Go €12,89)
-      oder 30 Tagen (Yettel 8GB €5,11); bei einem 5-tägigen Aufenthalt werden 75% des Tarifwerts verschwendet.
+    prepaid_desc: Die meisten Prepaid-Tarife haben eine Laufzeit von 19 Tagen (A1 Max €5,11), 28 Tagen (Vivacom
+      Data2Go €12,89) oder 30 Tagen (Yettel 8GB €5,11); bei einem 5-tägigen Aufenthalt werden 75% des Tarifwerts
+      verschwendet.
     esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Im Gegensatz zu 19- oder 30-Tage-Zyklen (z.B. A1 Max €5,11/19 Tage, Vivacom Data2Go €12,89/28 Tage) bietet
-      Roami 7-Tage-Datentarife ab $1.99/GB. Bei einem 5-tägigen Aufenthalt sparen Sie bis zu 75% der Kosten.
+    esim_desc: Im Gegensatz zu 19- oder 30-Tage-Zyklen (z.B. A1 Max €5,11/19 Tage, Vivacom Data2Go €12,89/28 Tage)
+      bietet Roami 7-Tage-Datentarife ab $2.99. Bei einem 5-tägigen Aufenthalt sparen Sie bis zu 75% der Kosten.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise erlauben A1 und Vivacom Tethering,
-      drosseln aber nach 3GB auf 1,5 Mbit/s; Yettel blockiert Hotspot bei Data-only-SIMs.
+    prepaid_desc: Typischerweise erlauben A1 und Vivacom Tethering, drosseln aber nach 3GB auf 1,5 Mbit/s; Yettel
+      blockiert Hotspot bei Data-only-SIMs.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während Yettel Data-only-SIMs Hotspot blockieren und A1/Vivacom nach 3GB drosseln, erlaubt Roami eSIM uneingeschränktes
-      Tethering mit voller Geschwindigkeit – ideal für Laptop-Arbeit unterwegs.
+    esim_desc: Während Yettel Data-only-SIMs Hotspot blockieren und A1/Vivacom nach 3GB drosseln, erlaubt Roami eSIM
+      uneingeschränktes Tethering mit voller Geschwindigkeit – ideal für Laptop-Arbeit unterwegs.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: In-Shop-Kauf mit Bargeld möglich; Online-Aufladung über Kreditkarte (Visa, Mastercard) oft durch 3D Secure
-      gescheitert; Vivacom MixL+ erneuert sich automatisch alle 21 Tage und zieht Geld vom Guthaben ab, wenn keine Stopp-SMS
-      gesendet wird.
+    prepaid_desc: In-Shop-Kauf mit Bargeld möglich; Online-Aufladung über Kreditkarte (Visa, Mastercard) oft durch 3D
+      Secure gescheitert; Vivacom MixL+ erneuert sich automatisch alle 21 Tage und zieht Geld vom Guthaben ab, wenn
+      keine Stopp-SMS gesendet wird.
     esim_title: Weltweite Zahlungsmethoden
-    esim_desc: Zahlen Sie bequem mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine Probleme mit 3D Secure
-      wie bei bulgarischen Prepaid-Aufladungen, und keine automatischen Abos wie Vivacom MixL+ (alle 21 Tage).
+    esim_desc: Die Zahlung läuft über internationale Karten und Wallet-Dienste; abgerechnet wird in US-Dollar. Keine
+      Probleme mit 3D Secure wie bei bulgarischen Prepaid-Aufladungen, und keine automatischen Abos wie Vivacom MixL+
+      (alle 21 Tage).
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Kundensupport nur auf Bulgarisch, telefonisch Mo-Fr 9-17 Uhr; kein Live-Chat für Prepaid-Kunden; bei Problemen
-      mit Roaming oder Aufladung ist persönlicher Besuch im Shop nötig.
+    prepaid_desc: Kundensupport nur auf Bulgarisch, telefonisch Mo-Fr 9-17 Uhr; kein Live-Chat für Prepaid-Kunden; bei
+      Problemen mit Roaming oder Aufladung ist persönlicher Besuch im Shop nötig.
     esim_title: 24/7 Kundensupport
-    esim_desc: Anders als der bulgarische Prepaid-Support (nur Bulgarisch, Mo-Fr 9-17 Uhr) bietet Roami eSIM rund um die Uhr
-      mehrsprachigen Support per Chat und E-Mail – bei Problemen sofort Hilfe.
+    esim_desc: Anders als der bulgarische Prepaid-Support (nur Bulgarisch, Mo-Fr 9-17 Uhr) bietet Roami eSIM rund um
+      die Uhr mehrsprachigen Support per Chat und E-Mail – bei Problemen sofort Hilfe.
   expert_verdict:
-    title: 'Bulgaria eSIM oder Prepaid-SIM-Karte: Ein direkter Vergleich – Intelligenter reisen mit besserer Konnektivität'
+    title: 'Bulgaria eSIM oder Prepaid-SIM-Karte: Ein direkter Vergleich – Intelligenter reisen mit besserer
+      Konnektivität'
     cards:
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600
       title: 24/7 Support auf Deutsch und Englisch
-      desc: Der Kundensupport bulgarischer Anbieter ist nur auf Bulgarisch verfügbar, Mo-Fr 9-17 Uhr. Bei Problemen mit Roaming
-        oder Aufladung ist ein persönlicher Besuch im Shop nötig. Roami bietet rund um die Uhr mehrsprachigen Support per
-        Chat und E-Mail.
+      desc: Der Kundensupport bulgarischer Anbieter ist nur auf Bulgarisch verfügbar, Mo-Fr 9-17 Uhr. Bei Problemen
+        mit Roaming oder Aufladung ist ein persönlicher Besuch im Shop nötig. Roami bietet rund um die Uhr
+        mehrsprachigen Support per Chat und E-Mail.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Keine verschwendeten Tage durch 30-Tage-Zyklen
-      desc: Die meisten bulgarischen Prepaid-Tarife haben Laufzeiten von 19 Tagen (A1 Max €5,11), 28 Tagen (Vivacom Data2Go
-        €12,89) oder 30 Tagen (Yettel 8GB €5,11). Bei einem 5-tägigen Aufenthalt verschwenden Sie über 70% des Tarifwerts.
-        Roami eSIM bietet flexible 7-Tage-Tarife ab $1.99/GB.
+      desc: Die meisten bulgarischen Prepaid-Tarife haben Laufzeiten von 19 Tagen (A1 Max €5,11), 28 Tagen (Vivacom
+        Data2Go €12,89) oder 30 Tagen (Yettel 8GB €5,11). Bei einem 5-tägigen Aufenthalt verschwenden Sie über 70% des
+        Tarifwerts. Roami eSIM bietet flexible 7-Tage-Tarife ab $2.99.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Flexible Tarife für Kurzaufenthalte
-      desc: Bulgarische Prepaid-Tarife sind auf 19-30 Tage ausgelegt. Ein 5-tägiger Tourist, der A1 Giga (€6,14/15GB/30 Tage)
-        kauft, nutzt nur 2,5GB und verschwendet €4,60. Roami eSIM bietet 7-Tage-Tarife ab $1.99/GB – zahlen Sie nur für das,
-        was Sie brauchen.
+      desc: Bulgarische Prepaid-Tarife sind auf 19-30 Tage ausgelegt. Ein 5-tägiger Tourist, der A1 Giga
+        (€6,14/15GB/30 Tage) kauft, nutzt nur 2,5GB und verschwendet €4,60. Roami eSIM bietet 7-Tage-Tarife ab $2.99 –
+        zahlen Sie nur für das, was Sie brauchen.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie Bulgariens strenge SIM-Passanforderungen
-      desc: A1, Yettel und Vivacom verlangen zwingend die Vorlage eines gültigen Reisepasses oder Personalausweises zur Registrierung.
-        Zudem gilt bei A1 eine Obergrenze von maximal 10 SIM-Karten pro Person. Mit Roami eSIM entfällt dieser bürokratische
-        Aufwand komplett.
+      desc: A1, Yettel und Vivacom verlangen zwingend die Vorlage eines gültigen Reisepasses oder Personalausweises
+        zur Registrierung. Zudem gilt bei A1 eine Obergrenze von maximal 10 SIM-Karten pro Person. Mit Roami eSIM
+        entfällt dieser bürokratische Aufwand komplett.
 ---

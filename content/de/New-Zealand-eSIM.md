@@ -1,6 +1,6 @@
 ---
 title: 'Neuseeland eSIM 2026: Anbieter & Abdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Ankunft. Deckt beide Inseln Neuseelands ab.
   keywords: Neuseeland eSIM, Neuseeland Reise eSIM, beste eSIM Neuseeland, Neuseeland Datentarif, Spark Neuseeland, Vodafone
     Neuseeland, 2degrees Neuseeland, Auckland eSIM, Wellington eSIM, Christchurch eSIM, Neuseeland mobiles Internet, 5G Neuseeland
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Neuseeland eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Neuseeland
 features:
-  title: 'Warum Reisende Roami fuer Neuseeland waehlen: Netzwerk, Tarife & Preiswert'
+  title: 'Warum Reisende Roami für Neuseeland wählen: Netzwerk, Tarife & Preiswert'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Neuseeland-Anbietern für das stärkste Signal
-plans_title: 'Neuseeland eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Neuseeland eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 5GB
@@ -288,7 +290,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Neuseeland, einschliesslich Auckland, Wellington, Christchurch,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Neuseeland, einschließlich Auckland, Wellington, Christchurch,
         Queenstown. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Spark, Vodafone, 2degrees.
     - icon: zap
       color: text-amber-500
@@ -381,7 +383,8 @@ faq_section:
     - q: |
         Ist eine eSIM für Neuseeland günstiger als eine SIM-Karte am Flughafen?
       a: |
-        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $1.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $3.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Neuseeland nutzen?
       a: |
@@ -389,7 +392,8 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Neuseeland?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Neuseeland kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Neuseeland kostet $5.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Soll ich meine Neuseeland eSIM vor der Abreise oder erst am Flughafen installieren?
       a: |
@@ -405,7 +409,8 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Neuseeland?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($5.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($12.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
@@ -426,7 +431,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -469,5 +474,89 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
+  title: 'Neuseeland eSIM gegen Spark und One NZ: Der Vergleich für den Roadtrip'
+  subtitle: Drei Netze, gute Städteversorgung und lange Lücken auf der Südinsel
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (New Zealand) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/New_Zealand
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Neuseeland eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: Spark, One NZ und 2degrees verkaufen ihre Karten in Auckland, Wellington und Christchurch; an der
+      Westküste der Südinsel gibt es dagegen nur wenige Ausgabestellen.
+    esim_title: Vor dem Camper bereit
+    esim_desc: Vorbereitet wird die eSIM noch zu Hause. Nach der Landung in Auckland entfällt der Weg zu einem Shop,
+      bevor der Camper übernommen wird.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Neuseeland verlangt bei der Ausgabe einer Prepaid-Karte einen Ausweis; die Nummer wird auf den
+      Käufer registriert.
+    esim_title: Ohne Konto und Ausweis
+    esim_desc: Roami richtet kein Kundenkonto ein und aktiviert allein über die Bestellbestätigung.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Neuseeland liegt weit außerhalb jeder Roamingzone; die Inlandstarife enden an der Küste, und für
+      einen Abstecher nach Fiji oder in die Cookinseln muss neu gebucht werden.
+    esim_title: Pazifik am Stück
+    esim_desc: Für die Route Auckland, Nadi und Rarotonga lässt sich ein Paket für die ganze Strecke buchen.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die lokalen Datentarife laufen überwiegend im Monatsraster; ein Roadtrip von zwei bis drei Wochen
+      zahlt den vollen Zeitraum mit, obwohl das Volumen meist früher verbraucht ist.
+    esim_title: Roadtrip statt Monat
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 7-Tage-Einstieg liegt bei $3.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Auckland, Wellington und Christchurch sind gut versorgt; auf der Strecke zum Milford Sound, über den
+      Haast Pass und in Fiordland bricht das Signal dagegen über weite Strecken ab.
+    esim_title: Hotspot im Camper
+    esim_desc: Hotspot-Nutzung ist bei Roami nicht extra berechnet, selbst wenn in Fiordland nur ein schwaches Netz
+      anliegt.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über die Apps der Anbieter und in Supermärkten; abgerechnet wird in
+      Neuseeland-Dollar, ausländische Karten werden meist angenommen.
+    esim_title: Zahlung mit Karte
+    esim_desc: Für die Nutzung genügt eine internationale Karte oder ein Wallet-Dienst; Roami bucht in US-Dollar ab.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist englischsprachig und rund um die Uhr über die Apps der Anbieter erreichbar.
+    esim_title: Service rund um die Uhr
+    esim_desc: Anfragen werden per Chat und E-Mail zu jeder Stunde und in mehreren Sprachen beantwortet.
+  expert_verdict:
+    title: 'Neuseeland: vier Gründe für die eSIM vor der lokalen Karte'
+    cards:
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Fiordland ohne Netz
+      desc: Zum Milford Sound und über den Haast Pass bricht die Versorgung über weite Strecken ab.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Monatsraster
+      desc: Lokale Datentarife laufen 30 Tage. Ein dreiwöchiger Roadtrip zahlt den vollen Zeitraum mit.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Registrierung
+      desc: Ohne Ausweis gibt es keine lokale Karte. Ohne Passkopie und <b>ohne Nutzerkonto</b> freigeschaltet.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Pazifik ohne Neukauf
+      desc: Fiji und die Cookinseln haben keinen gemeinsamen Tarifverbund mit Neuseeland.
 ---

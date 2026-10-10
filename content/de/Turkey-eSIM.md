@@ -1,6 +1,6 @@
 ---
 title: 'Türkei eSIM 2026: Lokale Anbieter | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Istanbul, Antalya & die türkische Küste ab.
   keywords: Türkei eSIM, Türkei Reise eSIM, beste eSIM Türkei, Türkei Datentarif, Turkcell Türkei, Vodafone Türkei, Türk Telekom
     Türkei, Istanbul eSIM, Ankara eSIM, Izmir eSIM, Türkei mobiles Internet, 5G Türkei
+  low_price: 1.99
+  high_price: 78.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Türkei eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Türkei
 features:
-  title: 'Warum Reisende Roami fuer Türkei waehlen: Abdeckung, Geschwindigkeit & Service'
+  title: 'Warum Reisende Roami für Türkei wählen: Abdeckung, Geschwindigkeit & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Türkei-Anbietern für das stärkste Signal
-plans_title: 'Türkei eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Türkei eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   15 Tage:
   - spec: 5GB
@@ -305,7 +307,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Türkei, einschliesslich Istanbul, Ankara, Izmir, Antalya. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Türkei, einschließlich Istanbul, Ankara, Izmir, Antalya. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von Turkcell, Vodafone, Türk Telekom.
     - icon: zap
       color: text-amber-500
@@ -383,7 +385,7 @@ activation_steps:
       ohne Vertrag.
     is_list: false
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -402,14 +404,14 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
-  - name: Türkei eSIM
-    flag: img/flags/tr.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: turkey-esim
+    slug: italy-esim
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Ab 1,99 $
@@ -445,9 +447,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Turkey eSIM vs. Prepaid-SIM-Karte: Alles, was Sie beachten sollten'
-  subtitle: Lokale Prepaid-SIMs in der Türkei vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Turkey eSIM vs. lokale Prepaid-SIM: Registrierung und Preise'
+  subtitle: Lokale Prepaid-SIMs in der Türkei vs. eSIM-Lösungen im Praxistest
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Turkey) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Turkey
@@ -459,58 +462,58 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Vodafone verlangt persönlichen Kauf mit Pass und bei nicht-lateinischen Schriften eine beglaubigte Übersetzung;
-      die Aktivierung dauert 30-60 Minuten; Flughafenläden verlangen 3-5 mal höhere Preise.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie Vodafone-Ladenschlangen und die 30-60-minütige Aktivierung. Aktivieren Sie Ihre eSIM online innerhalb
-      von 1 Minute nach der Landung in Istanbul.
+    prepaid_desc: Vodafone verlangt persönlichen Kauf mit Pass und bei nicht-lateinischen Schriften eine beglaubigte
+      Übersetzung; die Aktivierung dauert 30-60 Minuten; Flughafenläden verlangen 3-5 mal höhere Preise.
+    esim_title: Vor der Abreise startklar
+    esim_desc: Umgehen Sie Vodafone-Ladenschlangen und die 30-60-minütige Aktivierung. Aktivieren Sie Ihre eSIM online
+      innerhalb von 1 Minute nach der Landung in Istanbul.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Alle türkischen Prepaid-SIMs erfordern einen gültigen Reisepass; Vodafone verlangt bei nicht-lateinischen
-      Schriften eine beglaubigte Übersetzung.
+    prepaid_desc: Alle türkischen Prepaid-SIMs erfordern einen gültigen Reisepass; Vodafone verlangt bei
+      nicht-lateinischen Schriften eine beglaubigte Übersetzung.
     esim_title: Kein Pass erforderlich
-    esim_desc: Keine Vorlage eines Reisepasses oder einer beglaubigten Übersetzung nötig. Roami eSIM umgeht die strengen KYC-Anforderungen
-      von Turkcell und Vodafone.
+    esim_desc: Keine Vorlage eines Reisepasses oder einer beglaubigten Übersetzung nötig. Roami eSIM umgeht die
+      strengen KYC-Anforderungen von Turkcell und Vodafone.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Alle türkischen Prepaid-Karten haben kein internationales Roaming und funktionieren nur in der Türkei und
-      Nordzypern.
+    prepaid_desc: Alle türkischen Prepaid-Karten haben kein internationales Roaming und funktionieren nur in der
+      Türkei und Nordzypern.
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Im Gegensatz zu türkischen Prepaid-Karten, die kein internationales Roaming bieten (nur Türkei und Nordzypern),
-      ermöglicht Roami eSIM nahtloses Roaming in über 100 Ländern.
+    esim_desc: Im Gegensatz zu türkischen Prepaid-Karten, die kein internationales Roaming bieten (nur Türkei und
+      Nordzypern), ermöglicht Roami eSIM nahtloses Roaming in über 100 Ländern.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Die meisten Tarife haben einen 28-Tage-Zyklus; z.B. Turkcell Fırsat 1GB kostet ₺350 für 28 Tage, ein 5-tägiger
-      Besucher verschwendet über 80% des Tarifwerts.
+    prepaid_desc: Die meisten Tarife haben einen 28-Tage-Zyklus; z.B. Turkcell Fırsat 1GB kostet ₺350 für 28 Tage, ein
+      5-tägiger Besucher verschwendet über 80% des Tarifwerts.
     esim_title: Flexible Tarife, kein Abfall
-    esim_desc: Statt 28-Tage-Zyklen (z.B. Turkcell Fırsat 1GB für ₺350) bietet Roami 7-Tage-Tarife ab $1.99/GB. Ein 5-tägiger
-      Tourist spart über 80% Verschwendung.
+    esim_desc: Statt 28-Tage-Zyklen (z.B. Turkcell Fırsat 1GB für ₺350) bietet Roami 7-Tage-Tarife ab $1.99. Ein
+      5-tägiger Tourist spart über 80% Verschwendung.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Turkcell erlaubt Tethering und VoIP; Vodafone und Türk Telekom haben keine expliziten Einschränkungen genannt.
+    prepaid_desc: Turkcell erlaubt Tethering und VoIP; Vodafone und Türk Telekom haben keine expliziten
+      Einschränkungen genannt.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Roami eSIM erlaubt uneingeschränktes Tethering, ähnlich wie Turkcell, aber ohne versteckte Drosselung nach
-      3GB/Tag (wie bei Vodafone).
+    esim_desc: Roami eSIM erlaubt uneingeschränktes Tethering, ähnlich wie Turkcell, aber ohne versteckte Drosselung
+      nach 3GB/Tag (wie bei Vodafone).
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Aufladung über Geschäfte oder Drittanbieter-Websites mit Wechselkursverlusten und Gebühren; internationale
-      Kreditkarten werden oft abgelehnt.
+    prepaid_desc: Aufladung über Geschäfte oder Drittanbieter-Websites mit Wechselkursverlusten und Gebühren;
+      internationale Kreditkarten werden oft abgelehnt.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Bezahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Ablehnung internationaler
-      Karten wie bei türkischen Aufladestellen.
+    esim_desc: Bezahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Ablehnung
+      internationaler Karten wie bei türkischen Aufladestellen.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. (Marktwissen: Türkischer Kundensupport meist
-      nur auf Türkisch, per Telefon oder in Geschäften.)'
+    prepaid_desc: '(Marktwissen: Türkischer Kundensupport meist nur auf Türkisch, per Telefon oder in Geschäften.)'
     esim_title: 24/7 Kundensupport
-    esim_desc: Roami bietet rund um die Uhr mehrsprachigen Support per Chat und E-Mail, im Gegensatz zu türkischen Anbietern,
-      die oft nur auf Türkisch und zu Bürozeiten erreichbar sind.
+    esim_desc: Roami bietet rund um die Uhr mehrsprachigen Support per Chat und E-Mail, im Gegensatz zu türkischen
+      Anbietern, die oft nur auf Türkisch und zu Bürozeiten erreichbar sind.
   expert_verdict:
     title: 'Turkey eSIM vs. physische SIM: Die intelligenter und kosteneffizienter reisen'
     cards:
@@ -518,26 +521,26 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Vermeiden Sie 28-Tage-Abrechnungszyklen
-      desc: Turkcell Fırsat 1GB kostet ₺350 für 28 Tage. Ein 5-tägiger Tourist verschwendet über 80% des Tarifwerts. eSIMs
-        bieten flexible 7-Tage-Tarife ab $1.99/GB.
+      desc: Turkcell Fırsat 1GB kostet ₺350 für 28 Tage. Ein 5-tägiger Tourist verschwendet über 80% des Tarifwerts.
+        eSIMs bieten flexible 7-Tage-Tarife ab $1.99.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
-      title: Internationale Zahlungen akzeptiert
-      desc: Türkische Aufladestellen lehnen oft internationale Kreditkarten ab. eSIMs akzeptieren Visa, Mastercard, AMEX,
-        Apple Pay, Google Pay und PayPal – problemlose Zahlung.
+      title: Kauf mit Auslandskarte
+      desc: Türkische Aufladestellen lehnen oft internationale Kreditkarten ab. eSIMs akzeptieren Visa, Mastercard,
+        AMEX, Apple Pay, Google Pay und PayPal – problemlose Zahlung.
     - icon: shield
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Umgehen Sie die Internetzensur
-      desc: Türkische Anbieter blockieren soziale Medien wie Twitter, Facebook und Wikipedia. eSIMs nutzen ausländische Netze
-        und umgehen die staatliche Zensur.
+      desc: Türkische Anbieter blockieren soziale Medien wie Twitter, Facebook und Wikipedia. eSIMs nutzen
+        ausländische Netze und umgehen die staatliche Zensur.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Kein internationales Roaming bei lokalen SIMs
-      desc: Alle türkischen Prepaid-Karten (Turkcell, Vodafone, Türk Telekom) haben <b>kein internationales Roaming</b> und
-        funktionieren nur in der Türkei und Nordzypern. Eine eSIM bietet weltweite Konnektivität.
+      desc: Alle türkischen Prepaid-Karten (Turkcell, Vodafone, Türk Telekom) haben <b>kein internationales
+        Roaming</b> und funktionieren nur in der Türkei und Nordzypern. Eine eSIM bietet weltweite Konnektivität.
 faq_section:
   title: "eSIM Internetgeschwindigkeit in Turkey -- Was Reisende wissen sollten"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Turkey. Find out what speeds to expect and where eSIM works best."
@@ -550,7 +553,8 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist am günstigsten für eine Reise nach Türkei?
       a: |
-        Der günstigste Roami Türkei eSIM Tarif startet bei $1.99. Die meisten Reisenden wählen 5GB/15 Tage ($9.99) — genug für Karten, WhatsApp und Social Media. Turkcell bietet stabile Geschwindigkeiten in Türkei. Tarife sind vorausbezahlt, ohne versteckte Gebühren.
+        Der günstigste Roami Türkei eSIM Tarif startet bei $1.99. Die meisten Reisenden wählen 5GB/15 Tage ($8.99) — genug für Karten, WhatsApp und Social Media. Turkcell bietet stabile Geschwindigkeiten in Türkei. Tarife sind vorausbezahlt, ohne versteckte Gebühren.
+
     - q: |
         Wird der unbegrenzte eSIM Tarif für Türkei nach einem bestimmten Datenvolumen gedrosselt?
       a: |
@@ -558,11 +562,13 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Türkei?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($4.99), für zwei Wochen 10GB ($7.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Ist eSIM günstiger als internationales Roaming für Türkei?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Türkei kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Türkei kostet $4.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Kann ich meine Türkei eSIM noch in letzter Minute vor dem Flug kaufen?
       a: |
@@ -570,7 +576,8 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Türkei?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($4.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Kann ich meine heimische SIM-Karte behalten, während ich eSIM in Türkei nutze?
       a: |

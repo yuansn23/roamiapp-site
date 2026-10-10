@@ -1,6 +1,6 @@
 ---
 title: 'Costa Rica eSIM 2026: Reise & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     alle Regionen ab.
   keywords: Costa Rica eSIM, Costa Rica Reise eSIM, beste eSIM Costa Rica, Costa Rica Datentarif, Kölbi Costa Rica, Claro
     Costa Rica, Movistar Costa Rica, San José eSIM, Alajuela eSIM, Liberia eSIM, Costa Rica mobiles Internet, 5G Costa Rica
+  low_price: 9.99
+  high_price: 84.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Costa Rica eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Costa Rica
 features:
-  title: 'Warum Reisende Roami fuer Costa Rica waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Costa Rica wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Costa Rica-Anbietern für das stärkste Signal
-plans_title: 'Costa Rica eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Costa Rica eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -248,7 +250,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Costa Rica, einschliesslich San José, Alajuela, Liberia, Cartago.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Costa Rica, einschließlich San José, Alajuela, Liberia, Cartago.
         Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Kölbi, Claro, Movistar.
     - icon: zap
       color: text-amber-500
@@ -345,7 +347,8 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Costa Rica?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Costa Rica kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Costa Rica kostet $20.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Costa Rica eSIM eine Bestätigung?
       a: |
@@ -357,17 +360,18 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Costa Rica eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Costa Rica mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Costa Rica mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $38.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Costa Rica akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $9.99. 
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Costa Rica speichern?
       a: |
         Die meisten Handys speichern 5-10 eSIM-Profile. Sie können Ihre Costa Rica eSIM neben Ihrer heimischen SIM und bis zu 8 anderen Ländernprofilen speichern. Das Umschalten dauert etwa 10 Sekunden in den Telefoneinstellungen. iPhone ab XS (2018+) und Samsung ab S20 (2020+) unterstützen mehrere Profile gleichzeitig.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -386,7 +390,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -429,5 +433,94 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
+  title: 'Costa Rica eSIM oder Kölbi-Karte: Der Vergleich für Pazifik und Karibik'
+  subtitle: Staatsnetz gegen Privatanbieter, Registrierungspflicht und die Frage, wie die Abdeckung zwischen zwei
+    Küsten aussieht
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Costa Rica) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Costa_Rica
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Costa Rica eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: Kölbi, Claro und Movistar verkaufen ihre Karten in San José, Alajuela und Liberia sowie an den
+      Flughäfen Juan Santamaría und Daniel Oduber; in kleineren Orten bleibt oft nur Kölbi übrig.
+    esim_title: Bereit am Flughafen
+    esim_desc: Die eSIM wird vor dem Abflug installiert. Nach der Landung in Alajuela oder Liberia entfällt der Gang
+      zum Verkaufsschalter.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Costa-ricanische Karten werden auf einen Ausweisinhaber registriert; Besucher legen dafür den
+      Reisepass vor, bevor die Leitung freigeschaltet wird.
+    esim_title: Ohne Passregistrierung
+    esim_desc: Roami schaltet ohne Ausweisdaten frei – die Bestellbestätigung genügt als Nachweis.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Costa Rica liegt außerhalb der EU-Roamingzone und außerhalb des regionalen Tarifverbunds
+      Mittelamerikas. Wer von Liberia nach Nicaragua oder Panama weiterreist, verliert das Inlandsnetz.
+    esim_title: Mittelamerika am Stück
+    esim_desc: Für die Route San José, Managua und Panama-Stadt bleibt dasselbe Datenpaket gebucht.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die Datentarife laufen überwiegend im 30-Tage-Raster; eine Rundreise von zwei Wochen zahlt damit den
+      halben Monat ohne Nutzen mit.
+    esim_title: Laufzeit nach Rundreise
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen, der 7-Tage-Tarif beginnt bei $9.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Das Staatsnetz Kölbi deckt auch Nationalparks und Bergregionen ab, während Claro und Movistar an den
+      Küsten und in San José stark sind. In den Nebelwäldern von Monteverde und im Corcovado-Nationalpark fehlt Signal
+      bei allen drei.
+    esim_title: Hotspot an Pazifik und Karibik
+    esim_desc: Tethering bleibt bei Roami kostenfrei, auch wenn zwischen Pazifik- und Karibikküste das Partnernetz
+      wechselt.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über Karten aus Supermärkten, Apotheken und Tankstellen; bezahlt wird in Colón, und
+      ausländische Karten werden nur eingeschränkt angenommen.
+    esim_title: Ohne Colón-Guthaben
+    esim_desc: Für die Nutzung genügt eine internationale Karte oder ein Wallet-Dienst; Die Rechnung läuft in
+      US-Dollar und wird per Karte, Apple Pay, Google Pay oder PayPal beglichen.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist spanischsprachig; englischsprachige Beratung gibt es in den Filialen der
+      Touristenzentren und an den Flughäfen.
+    esim_title: Mehrsprachiger Support
+    esim_desc: Der Kontakt läuft per Chat und E-Mail, mehrsprachig und ohne feste Geschäftszeiten.
+  expert_verdict:
+    title: 'Costa Rica: vier Gründe für die eSIM statt der lokalen Karte'
+    cards:
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Registrierungspflicht
+      desc: Vor der Ausgabe wird das Ausweisdokument erfasst. Die Aktivierung erfolgt <b>ohne Ausweis</b>.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Panama ohne Neukauf
+      desc: Zu Nicaragua und Panama gibt es keinen Tarifverbund. Jede Grenze verlangt mit lokaler Karte eine neue SIM.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: 30-Tage-Raster
+      desc: Die lokalen Pakete sind auf 30 Tage ausgelegt. Eine Zwei-Wochen-Rundreise zahlt die Hälfte umsonst.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Zwei Küsten, viele Netze
+      desc: Kölbi führt in den Parks, Claro und Movistar in den Städten. Roami nutzt das jeweils verfügbare
+        Partnernetz.
 ---

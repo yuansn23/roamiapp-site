@@ -1,6 +1,6 @@
 ---
 title: 'Rumänien eSIM 2026: 5G & Datentarife | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Regionen ab.
   keywords: Rumänien eSIM, Rumänien Reise eSIM, beste eSIM Rumänien, Rumänien Datentarif, Vodafone Rumänien, Orange Rumänien,
     Telekom Rumänien, Bukarest eSIM, Cluj-Napoca eSIM, Timișoara eSIM, Rumänien mobiles Internet, 5G Rumänien
+  low_price: 1.99
+  high_price: 78.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Rumänien eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Rumänien - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer Rumänien waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für Rumänien wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Rumänien-Anbietern für das stärkste Signal
-plans_title: 'Rumänien eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Rumänien eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -304,7 +306,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Rumänien, einschliesslich Bukarest, Cluj-Napoca, Timișoara, Brașov.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Rumänien, einschließlich Bukarest, Cluj-Napoca, Timișoara, Brașov.
         Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Vodafone, Orange, Telekom.
     - icon: zap
       color: text-amber-500
@@ -401,7 +403,8 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Rumänien?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Rumänien kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Rumänien kostet $6.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Rumänien speichern?
       a: |
@@ -409,7 +412,8 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Rumänien eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Rumänien mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Rumänien mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $78.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Rumänien eSIM eine Bestätigung?
       a: |
@@ -442,7 +446,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -485,9 +489,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Romania eSIM vs. Prepaid-SIM: Welche ist die richtige für Sie?'
-  subtitle: Lokale Prepaid-SIMs in Rumänien vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: Romania eSIM vs. lokale Prepaid-SIM im direkten Vergleich
+  subtitle: Lokale Prepaid-SIMs in Rumänien vs. eSIM-Lösungen für Reisende
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Romania) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Romania
@@ -499,83 +504,86 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Der Erwerb einer Prepaid-SIM in Rumänien ist an Kiosken oder in Geschäften der Anbieter wie Orange, Vodafone
-      und Digi möglich. Eine Online-Aktivierung ist oft nicht möglich, da internationale Kreditkarten abgelehnt werden.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die Warteschlangen in Orange- oder Vodafone-Shops. Aktivieren Sie Ihre eSIM online innerhalb von
-      1 Minute nach der Landung in Bukarest.
+    prepaid_desc: Der Erwerb einer Prepaid-SIM in Rumänien ist an Kiosken oder in Geschäften der Anbieter wie Orange,
+      Vodafone und Digi möglich. Eine Online-Aktivierung ist oft nicht möglich, da internationale Kreditkarten
+      abgelehnt werden.
+    esim_title: Freigeschaltet vor der Reise
+    esim_desc: Umgehen Sie die Warteschlangen in Orange- oder Vodafone-Shops. Aktivieren Sie Ihre eSIM online
+      innerhalb von 1 Minute nach der Landung in Bukarest.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Für den Kauf einer Prepaid-SIM in Rumänien ist ein gültiger Reisepass oder Personalausweis erforderlich.
-      Die Registrierung erfolgt im Geschäft oder Kiosk.
+    prepaid_desc: Für den Kauf einer Prepaid-SIM in Rumänien ist ein gültiger Reisepass oder Personalausweis
+      erforderlich. Die Registrierung erfolgt im Geschäft oder Kiosk.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Kein Vorzeigen des Reisepasses erforderlich. Roami eSIM wird ohne persönliche Identifikation aktiviert, anders
-      als bei Orange oder Vodafone.
+    esim_desc: Kein Vorzeigen des Reisepasses erforderlich. Roami eSIM wird ohne persönliche Identifikation aktiviert,
+      anders als bei Orange oder Vodafone.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Vodafone blockiert EU-Roaming bei den Tarifen €5, €6 und €8 komplett. Orange aktiviert EU-Roaming nur bei
-      Tarifen ab €12. Digi blockiert EU-Roaming bei allen Tarifen außer dem €9-Tarif.
-    esim_title: Weltweites Roaming ohne Einschränkungen
-    esim_desc: Im Gegensatz zu Vodafone, das EU-Roaming bei €5/€6/€8-Tarifen blockiert, bietet Roami eSIM nahtloses Roaming
-      in ganz Europa ohne FUP-Beschränkungen.
+    prepaid_desc: Vodafone blockiert EU-Roaming bei den Tarifen €5, €6 und €8 komplett. Orange aktiviert EU-Roaming
+      nur bei Tarifen ab €12. Digi blockiert EU-Roaming bei allen Tarifen außer dem €9-Tarif.
+    esim_title: Grenzüberschreitend ohne Aufpreis
+    esim_desc: Im Gegensatz zu Vodafone, das EU-Roaming bei €5/€6/€8-Tarifen blockiert, bietet Roami eSIM nahtloses
+      Roaming in ganz Europa ohne FUP-Beschränkungen.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Orange, Vodafone und Digi bieten hauptsächlich 28- oder 30-Tage-Tarife. Der günstigste Tarif von Orange
-      kostet €5 (zzgl. 21% MwSt.) für 5 GB + 150 GB Bonus, gültig 30 Tage.
+    prepaid_desc: Orange, Vodafone und Digi bieten hauptsächlich 28- oder 30-Tage-Tarife. Der günstigste Tarif von
+      Orange kostet €5 (zzgl. 21% MwSt.) für 5 GB + 150 GB Bonus, gültig 30 Tage.
     esim_title: Flexible Tarife ab 7 Tagen
-    esim_desc: Statt 28-Tage-Zyklen (z.B. Orange €5/5GB) bietet Roami 7-Tage-Tarife ab $1.99/GB. Keine Verschwendung für Kurzreisen.
+    esim_desc: Statt 28-Tage-Zyklen (z.B. Orange €5/5GB) bietet Roami 7-Tage-Tarife ab $2.99. Keine Verschwendung für
+      Kurzreisen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise erlauben rumänische Anbieter
-      Tethering, aber mit möglichen Drosselungen nach Fair-Use-Limit.
+    prepaid_desc: Typischerweise erlauben rumänische Anbieter Tethering, aber mit möglichen Drosselungen nach
+      Fair-Use-Limit.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Roami erlaubt Hotspot-Nutzung ohne Drosselung. Anders als bei manchen rumänischen Anbietern, die Tethering
-      einschränken.
+    esim_desc: Roami erlaubt Hotspot-Nutzung ohne Drosselung. Anders als bei manchen rumänischen Anbietern, die
+      Tethering einschränken.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Online-Aufladung erfordert oft eine rumänische Kreditkarte. Internationale Kreditkarten werden von Orange
-      und Digi abgelehnt. Physische Aufladekarten sind an Kiosken erhältlich.
+    prepaid_desc: Online-Aufladung erfordert oft eine rumänische Kreditkarte. Internationale Kreditkarten werden von
+      Orange und Digi abgelehnt. Physische Aufladekarten sind an Kiosken erhältlich.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Bezahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine rumänische Kreditkarte nötig,
-      anders als bei Orange.
+    esim_desc: Die Zahlung läuft über internationale Karten und Wallet-Dienste; abgerechnet wird in US-Dollar. Keine
+      rumänische Kreditkarte nötig, anders als bei Orange.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Kundensupport ist auf Rumänisch und teilweise Englisch verfügbar. Telefonische Hotlines sind Mo-Fr zu Geschäftszeiten
-      erreichbar.
+    prepaid_desc: Kundensupport ist auf Rumänisch und teilweise Englisch verfügbar. Telefonische Hotlines sind Mo-Fr
+      zu Geschäftszeiten erreichbar.
     esim_title: 24/7 Kundensupport
-    esim_desc: Roami bietet rund um die Uhr Support auf Englisch und Deutsch. Keine eingeschränkten Hotline-Zeiten wie bei
-      lokalen Anbietern.
+    esim_desc: Support gibt es per Chat und E-Mail, zu jeder Stunde und in mehreren Sprachen. Keine eingeschränkten
+      Hotline-Zeiten wie bei lokalen Anbietern.
   expert_verdict:
-    title: 'Romania eSIM vs. physische SIM-Karte: Was ist der wirkliche Unterschied?'
+    title: 'Romania eSIM vs. lokale Prepaid-SIM: Aufwand und Kosten im Check'
     cards:
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Flexible Tarife statt 28-Tage-Zwang
-      desc: Orange, Vodafone und Digi bieten hauptsächlich <b>28- oder 30-Tage-Tarife</b> an. Ein 7-tägiger Tourist, der Oranges
-        <b>€5-Tarif</b> kauft, verschwendet über 70% des Tarifwerts. Roami bietet <b>7-Tage-Tarife ab $1.99/GB</b>.
+      desc: Orange, Vodafone und Digi bieten hauptsächlich <b>28- oder 30-Tage-Tarife</b> an. Ein 7-tägiger Tourist,
+        der Oranges <b>€5-Tarif</b> kauft, verschwendet über 70% des Tarifwerts. Roami bietet <b>7-Tage-Tarife ab
+        $2.99</b>.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie Rumäniens SIM-Passanforderungen
-      desc: Bei Orange, Vodafone und Digi ist für den Kauf einer Prepaid-SIM ein gültiger Reisepass erforderlich. Mit Roami
-        eSIM entfällt dieser Schritt komplett.
+      desc: Bei Orange, Vodafone und Digi ist für den Kauf einer Prepaid-SIM ein gültiger Reisepass erforderlich. Mit
+        Roami eSIM entfällt dieser Schritt komplett.
     - icon: globe
       icon_bg: bg-teal-100
       icon_color: text-teal-600
       title: Keine versteckten Steuern
-      desc: Rumänische Prepaid-Tarife sind ohne <b>21% MwSt.</b> ausgewiesen. Der tatsächliche Preis ist höher. Roami zeigt
-        den Endpreis inklusive aller Steuern an.
+      desc: Rumänische Prepaid-Tarife sind ohne <b>21% MwSt.</b> ausgewiesen. Der tatsächliche Preis ist höher. Roami
+        zeigt den Endpreis inklusive aller Steuern an.
     - icon: wifi
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Sofortige Aktivierung ohne Wartezeit
-      desc: Kein Anstehen in Orange- oder Vodafone-Shops. Roami eSIM wird innerhalb von <b>1 Minute</b> nach Kauf per E-Mail
-        geliefert und sofort aktiviert.
+      desc: Kein Anstehen in Orange- oder Vodafone-Shops. Roami eSIM wird innerhalb von <b>1 Minute</b> nach Kauf per
+        E-Mail geliefert und sofort aktiviert.
 ---

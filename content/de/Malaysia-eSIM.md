@@ -1,6 +1,6 @@
 ---
 title: 'Malaysia eSIM 2026: Tarife & Abdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     alle Regionen ab.
   keywords: Malaysia eSIM, Malaysia Reise eSIM, beste eSIM Malaysia, Malaysia Datentarif, Maxis Malaysia, Celcom Malaysia,
     Digi Malaysia, Kuala Lumpur eSIM, George Town eSIM, Johor Bahru eSIM, Malaysia mobiles Internet, 5G Malaysia
+  low_price: 1.99
+  high_price: 65.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Malaysia eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Malaysia
 features:
-  title: 'Warum Reisende Roami fuer Malaysia waehlen: Abdeckung, Geschwindigkeit & Service'
+  title: 'Warum Reisende Roami für Malaysia wählen: Abdeckung, Geschwindigkeit & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Malaysia-Anbietern für das stärkste Signal
-plans_title: 'Malaysia eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Malaysia eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   3 Tage:
   - spec: 1GB
@@ -296,7 +298,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Malaysia, einschliesslich Kuala Lumpur, George Town, Johor Bahru,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Malaysia, einschließlich Kuala Lumpur, George Town, Johor Bahru,
         Kota Kinabalu. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Maxis, Celcom, Digi.
     - icon: zap
       color: text-amber-500
@@ -393,7 +395,8 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Malaysia?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($4.99), für zwei Wochen 10GB ($7.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Soll ich meine Malaysia eSIM vor der Abreise oder erst am Flughafen installieren?
       a: |
@@ -401,7 +404,8 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Malaysia?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($4.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Malaysia eSIM eine Bestätigung?
       a: |
@@ -415,7 +419,7 @@ faq_section:
       a: |
         Ja — der QR-Code kommt innerhalb von 5 Minuten per Email. Kaufen Sie am Gate, installieren Sie im Flugzeug über WLAN. Nach der Landung in Malaysia Daten-Roaming aktivieren und in 1-2 Minuten online sein. Totalzeit von Kauf bis Online: unter 10 Minuten.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Weitere beliebte eSIM-Ziele
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -434,7 +438,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -477,9 +481,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Malaysia eSIM vs. physische SIM-Karte: Vor- und Nachteile im Überblick'
-  subtitle: Lokale Prepaid-SIMs in Malaysia vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Malaysia eSIM vs. lokale Prepaid-SIM: Was der Aufwand kostet'
+  subtitle: Lokale Prepaid-SIMs in Malaysia vs. eSIM-Lösungen für Reisende
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Malaysia) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Malaysia
@@ -491,82 +496,85 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: 'Digi-游客SIM-Karte: RM 20 für 2GB Internet + 1GB/Tag für soziale Apps, 7 Tage gültig, nur an Flughafen-Schaltern
-      mit Reisepass erhältlich.'
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die langen Schlangen an Digi-Flughafenschaltern. Aktivieren Sie Ihre eSIM online innerhalb von
-      1 Minute nach der Landung in Kuala Lumpur – kein Pass erforderlich.
+    prepaid_desc: 'Digi-游客SIM-Karte: RM 20 für 2GB Internet + 1GB/Tag für soziale Apps, 7 Tage gültig, nur an
+      Flughafen-Schaltern mit Reisepass erhältlich.'
+    esim_title: Aktivierung vor der Ankunft
+    esim_desc: Umgehen Sie die langen Schlangen an Digi-Flughafenschaltern. Aktivieren Sie Ihre eSIM online innerhalb
+      von 1 Minute nach der Landung in Kuala Lumpur – kein Pass erforderlich.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Alle lokalen SIM-Karten erfordern eine Registrierung mit Ausweisdokumenten über die App des Anbieters; Hotlink
-      RED erfordert die Registrierung über die Hotlink RED App.
+    prepaid_desc: Alle lokalen SIM-Karten erfordern eine Registrierung mit Ausweisdokumenten über die App des
+      Anbieters; Hotlink RED erfordert die Registrierung über die Hotlink RED App.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Im Gegensatz zu Hotlink RED, das eine App-Registrierung mit Ausweis erfordert, benötigt Roami eSIM keine persönlichen
-      Daten – sofortige Konnektivität ohne Bürokratie.
+    esim_desc: Im Gegensatz zu Hotlink RED, das eine App-Registrierung mit Ausweis erfordert, benötigt Roami eSIM
+      keine persönlichen Daten – sofortige Konnektivität ohne Bürokratie.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: 'Celcom XPAX: Asien-Roaming mit automatischer Aktivierung von RM 7,99/Tag für 1GB; Maxis: Roaming in 8 asiatischen
-      Ländern für RM 10/Tag (1GB); U Mobile: ''Unbegrenztes'' Roaming mit FUP von 500MB/Tag.'
-    esim_title: Weltweites Roaming ohne Einschränkungen
-    esim_desc: Vermeiden Sie die teuren Roaming-Fallen von Celcom (RM 7,99/Tag für 1GB) oder U Mobile (500MB FUP). Roami bietet
-      transparente, globale Datenpakete ab $1.99/GB.
+    prepaid_desc: 'Celcom XPAX: Asien-Roaming mit automatischer Aktivierung von RM 7,99/Tag für 1GB; Maxis: Roaming in
+      8 asiatischen Ländern für RM 10/Tag (1GB); U Mobile: ''Unbegrenztes'' Roaming mit FUP von 500MB/Tag.'
+    esim_title: Ein Paket für die ganze Strecke
+    esim_desc: Vermeiden Sie die teuren Roaming-Fallen von Celcom (RM 7,99/Tag für 1GB) oder U Mobile (500MB FUP).
+      Roami bietet transparente, globale Datenpakete ab $1.99.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: 'Digi-Startpaket: RM 8, gültig 5 Tage; Monatspläne: 30 Tage (z.B. Celcom 5GB RM 30). Kurzzeitpakete: 1 Tag,
-      7 Tage, 15 Tage.'
+    prepaid_desc: 'Digi-Startpaket: RM 8, gültig 5 Tage; Monatspläne: 30 Tage (z.B. Celcom 5GB RM 30). Kurzzeitpakete:
+      1 Tag, 7 Tage, 15 Tage.'
     esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Im Gegensatz zu Digis 7-Tage-Pflichtpaket (RM 20) oder 30-Tage-Monatsplänen (z.B. Celcom 5GB RM 30) bietet
-      Roami 7-Tage-Tarife ab $1.99/GB – sparen Sie bis zu 75% bei Kurzreisen.
+    esim_desc: Im Gegensatz zu Digis 7-Tage-Pflichtpaket (RM 20) oder 30-Tage-Monatsplänen (z.B. Celcom 5GB RM 30)
+      bietet Roami 7-Tage-Tarife ab $2.99 – sparen Sie bis zu 75% bei Kurzreisen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: 'Celcom ''Unbegrenzt''-Paket: 7 Tage RM 12 (3Mbps, nur 1GB Hotspot); U Mobile GX12: 7 Tage RM 12 (3Mbps,
-      1GB Hotspot).'
+    prepaid_desc: 'Celcom ''Unbegrenzt''-Paket: 7 Tage RM 12 (3Mbps, nur 1GB Hotspot); U Mobile GX12: 7 Tage RM 12
+      (3Mbps, 1GB Hotspot).'
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während Celcoms 'Unbegrenzt'-Paket (7 Tage RM 12) nur 1GB Hotspot erlaubt, ermöglicht Roami unbegrenztes Tethering
-      ohne versteckte Limits.
+    esim_desc: Während Celcoms 'Unbegrenzt'-Paket (7 Tage RM 12) nur 1GB Hotspot erlaubt, ermöglicht Roami
+      unbegrenztes Tethering ohne versteckte Limits.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Aufladung über lokale Banken oder bestimmte E-Wallets; internationale Kreditkarten werden oft nicht akzeptiert.
+    prepaid_desc: Aufladung über lokale Banken oder bestimmte E-Wallets; internationale Kreditkarten werden oft nicht
+      akzeptiert.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Zahlen Sie bequem mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Probleme mit lokalen
-      E-Wallets oder abgelehnten internationalen Karten.
+    esim_desc: Zahlen Sie bequem mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Probleme mit
+      lokalen E-Wallets oder abgelehnten internationalen Karten.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: Maxis, Celcom und Digi beraten auf Malaiisch und Englisch; die Hotlines sind in der Regel tagsüber
+      erreichbar.
     esim_title: 24/7 Kundensupport
-    esim_desc: Profitieren Sie von rund um die Uhr Support in mehreren Sprachen – im Gegensatz zu lokalen Anbietern, die oft
-      nur begrenzte Öffnungszeiten haben.
+    esim_desc: Profitieren Sie von rund um die Uhr Support in mehreren Sprachen – im Gegensatz zu lokalen Anbietern,
+      die oft nur begrenzte Öffnungszeiten haben.
   expert_verdict:
-    title: 'Malaysia eSIM vs. lokale SIM-Karte: Was spart mehr? Der ultimative Kostenvergleich für intelligente Reisende'
+    title: 'Malaysia eSIM vs. lokale SIM-Karte: Was spart mehr? Der ultimative Kostenvergleich für intelligente
+      Reisende'
     cards:
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie Malaysias strenge SIM-Passanforderungen
-      desc: Lokale SIMs wie Digi erfordern den Kauf am Flughafen mit Reisepass und eine App-Registrierung. Roami eSIM benötigt
-        keine persönlichen Daten – <b>100% anonyme Aktivierung</b>.
+      desc: Lokale SIMs wie Digi erfordern den Kauf am Flughafen mit Reisepass und eine App-Registrierung. Roami eSIM
+        benötigt keine persönlichen Daten – <b>100% anonyme Aktivierung</b>.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Vermeiden Sie teure Roaming-Fallen
-      desc: Celcoms Asien-Roaming kostet <b>RM 7,99/Tag für nur 1GB</b>, U Mobile drosselt nach <b>500MB</b>. Roami bietet
-        transparente globale Datenpakete ab <b>$1.99/GB</b> ohne versteckte Kosten.
+      desc: Celcoms Asien-Roaming kostet <b>RM 7,99/Tag für nur 1GB</b>, U Mobile drosselt nach <b>500MB</b>. Roami
+        bietet transparente globale Datenpakete ab <b>$1.99</b> ohne versteckte Kosten.
     - icon: wifi
       icon_bg: bg-green-100
       icon_color: text-green-600
       title: Keine Hotspot-Beschränkungen
-      desc: Celcoms 'Unbegrenzt'-Paket (7 Tage RM 12) erlaubt nur <b>1GB Hotspot</b>. Roami ermöglicht unbegrenztes Tethering
-        – teilen Sie Ihr Internet mit allen Geräten.
+      desc: Celcoms 'Unbegrenzt'-Paket (7 Tage RM 12) erlaubt nur <b>1GB Hotspot</b>. Roami ermöglicht unbegrenztes
+        Tethering – teilen Sie Ihr Internet mit allen Geräten.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Flexible Abrechnung spart Geld
-      desc: Digis günstigster Touristentarif ist <b>RM 20 für 7 Tage</b> – selbst wenn Sie nur 3 Tage bleiben. Roami bietet
-        <b>7-Tage-Tarife ab $1.99/GB</b> und spart so bis zu <b>75%</b> bei Kurzreisen.
+      desc: Digis günstigster Touristentarif ist <b>RM 20 für 7 Tage</b> – selbst wenn Sie nur 3 Tage bleiben. Roami
+        bietet <b>7-Tage-Tarife ab $2.99</b> und spart so bis zu <b>75%</b> bei Kurzreisen.
 ---

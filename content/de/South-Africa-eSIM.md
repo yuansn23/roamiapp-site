@@ -1,6 +1,6 @@
 ---
 title: 'Südafrika eSIM 2026: Lokale Anbieter | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Reise. Deckt alle Regionen ab.
   keywords: Südafrika eSIM, Südafrika Reise eSIM, beste eSIM Südafrika, Südafrika Datentarif, Vodacom Südafrika, MTN Südafrika,
     Cell C Südafrika, Johannesburg eSIM, Kapstadt eSIM, Durban eSIM, Südafrika mobiles Internet, 5G Südafrika
+  low_price: 3.99
+  high_price: 94.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Südafrika eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Südafrika - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer Südafrika waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für Südafrika wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Südafrika-Anbietern für das stärkste Signal
-plans_title: 'Südafrika eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Südafrika eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 20GB
@@ -280,7 +282,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Südafrika, einschliesslich Johannesburg, Kapstadt, Durban, Pretoria.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Südafrika, einschließlich Johannesburg, Kapstadt, Durban, Pretoria.
         Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Vodacom, MTN, Cell C.
     - icon: zap
       color: text-amber-500
@@ -358,7 +360,7 @@ activation_steps:
       – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "Funktioniert eSIM in South Africa zuverlaessig? Ein Ratgeber zur Internetqualitaet"
+  title: "Funktioniert eSIM in South Africa zuverlässig? Ein Ratgeber zur Internetqualität"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in South Africa. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -369,7 +371,8 @@ faq_section:
     - q: |
         Ist eine eSIM für Südafrika günstiger als eine SIM-Karte am Flughafen?
       a: |
-        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $1.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $3.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+
     - q: |
         Gibt es große Unterschiede zwischen Vodacom, MTN und Cell C für eSIM in Südafrika?
       a: |
@@ -377,7 +380,7 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Südafrika akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $3.99. 
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Südafrika nutzen?
       a: |
@@ -389,7 +392,8 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Südafrika am beliebtesten?
       a: |
-        Die meisten Reisenden nach Südafrika wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Südafrika wählen den 5GB/15 Tage Tarif ($12.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($17.99) oder den unbegrenzten Tarif ($21.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Südafrika eSIM eine Bestätigung?
       a: |
@@ -397,9 +401,10 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Südafrika eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Südafrika mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Südafrika mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $21.99 für unbegrenztes Datenvolumen.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Passende eSIM-Tarife für Ihre Reise
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -418,7 +423,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -461,5 +466,90 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
+  title: 'Südafrika eSIM gegen Vodacom und MTN: Der Vergleich für Garden Route und Kruger'
+  subtitle: Drei Netze, RICA-Registrierung und lange Strecken zwischen den Ballungsräumen
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (South Africa) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/South_Africa
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Südafrika eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: Vodacom, MTN und Cell C verkaufen ihre Karten in Johannesburg, Kapstadt und Durban; in den kleinen
+      Orten entlang der Garden Route gibt es nur noch wenige Ausgabestellen.
+    esim_title: Vor der Ankunft bereit
+    esim_desc: Das Profil wird vorab geladen, damit es am Zielort sofort bereitsteht. Am Flughafen Johannesburg
+      entfällt der Weg zu einem Shop, bevor der Mietwagen übernommen wird.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: 'Südafrika verlangt eine Registrierung nach dem RICA-Gesetz: Jede Prepaid-Karte wird mit Ausweis
+      oder Reisepass auf eine Person erfasst, und ohne Registrierung wird die Leitung gesperrt.'
+    esim_title: Ohne RICA-Registrierung
+    esim_desc: Roami erhebt keine Ausweis- und Adressdaten und schaltet allein über die Bestellbestätigung frei.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Südafrika liegt außerhalb jeder Roamingzone; die Inlandstarife enden an den Grenzen zu Namibia,
+      Botswana, Simbabwe und Mosambik, und ein Prepaid-Tarifverbund der SADC-Staaten fehlt.
+    esim_title: Südliches Afrika am Stück
+    esim_desc: Für die Route Kapstadt, Windhoek und Victoria Falls bleibt ein Datenpaket gebucht.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die lokalen Datentarife laufen überwiegend im Monatsraster; die klassische Garden-Route-Reise von
+      zwei Wochen zahlt den vollen Zeitraum mit.
+    esim_title: Rundreise statt Monat
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 7-Tage-Einstieg liegt bei $3.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Die Ballungsräume und die Küstenstraße sind gut versorgt; in der Karoo, an den Rändern des
+      Kruger-Nationalparks und auf den langen Strecken durch die Provinzen bricht das Signal dagegen ab.
+    esim_title: Hotspot für die Garden Route
+    esim_desc: Hotspot-Nutzung ist bei Roami nicht extra berechnet, selbst wenn in der Karoo nur ein schwaches Netz
+      anliegt.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über die Apps der Anbieter und Guthabenkarten aus Supermärkten; abgerechnet wird in
+      Rand, ausländische Karten werden meist angenommen.
+    esim_title: Zahlung mit Karte
+    esim_desc: Roami stellt keine Guthabenkarten aus; bezahlt wird in US-Dollar per Karte oder Wallet.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist englischsprachig und über die Apps der Anbieter sowie die Filialen in den
+      Ballungsräumen erreichbar.
+    esim_title: Englischsprachiger Service
+    esim_desc: Hilfe gibt es per Chat und E-Mail, mehrsprachig und zu jeder Tageszeit.
+  expert_verdict:
+    title: 'Südafrika: vier Gründe für die eSIM vor der lokalen Karte'
+    cards:
+    - icon: id-card
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: RICA-Registrierung
+      desc: Die lokale Karte gibt es nur gegen Ausweis. Roami schaltet <b>ohne Identitätsdaten</b> frei.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Monatsraster
+      desc: Lokale Datentarife laufen 30 Tage. Eine zweiwöchige Rundreise zahlt den vollen Zeitraum mit.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Karoo ohne Netz
+      desc: In der Karoo und an den Rändern des Kruger-Parks fällt die Versorgung ab.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: SADC ohne Verbund
+      desc: Namibia, Botswana und Mosambik haben keinen gemeinsamen Prepaid-Tarifverbund.
 ---

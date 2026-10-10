@@ -1,6 +1,6 @@
 ---
 title: 'Liechtenstein eSIM 2026: Reise & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Sofortige QR-Aktivierung ab $1.99.
   keywords: Liechtenstein eSIM, Liechtenstein Reise eSIM, beste eSIM Liechtenstein, Liechtenstein Datentarif, Swisscom Liechtenstein,
     Salt Liechtenstein, Sunrise Liechtenstein, Vaduz eSIM, Schaan eSIM, Balzers eSIM, Liechtenstein mobiles Internet, 5G Liechtenstein
+  low_price: 1.99
+  high_price: 77.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Liechtenstein eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Liechtenstein
 features:
-  title: 'Warum Reisende Roami fuer Liechtenstein waehlen: Netzwerk, Tarife & Preiswert'
+  title: 'Warum Reisende Roami für Liechtenstein wählen: Netzwerk, Tarife & Preiswert'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Liechtenstein-Anbietern für das stärkste Signal
-plans_title: 'Liechtenstein eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Liechtenstein eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 20GB
@@ -304,7 +306,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Liechtenstein, einschliesslich Vaduz, Schaan, Balzers, Triesen.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Liechtenstein, einschließlich Vaduz, Schaan, Balzers, Triesen.
         Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Swisscom, Salt, Sunrise.
     - icon: zap
       color: text-amber-500
@@ -405,11 +407,13 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Liechtenstein?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($6.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Liechtenstein am beliebtesten?
       a: |
-        Die meisten Reisenden nach Liechtenstein wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Liechtenstein wählen den 5GB/15 Tage Tarif ($8.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($11.99) oder den unbegrenzten Tarif ($9.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Was tun, wenn meine Liechtenstein eSIM bei der Ankunft nicht funktioniert?
       a: |
@@ -417,13 +421,14 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Liechtenstein eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Liechtenstein mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Liechtenstein mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $77.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Funktioniert eSIM in Liechtenstein auch in ländlichen Gebieten?
       a: |
         Die Abdeckung erreicht etwa 95% der städtischen Gebiete, kann aber in abgelegenen Regionen auf 60-70% fallen. Die Geschwindigkeit kann von 200-300 Mbps (5G) auf 10-30 Mbps (4G) sinken. Zum Vergleich: 4G reicht für Google Maps (5MB/Stunde) und WhatsApp, aber nicht für 4K-Streaming. Roami wechselt automatisch zum stärksten verfügbaren Netz. Laden Sie Offline-Karten vorab herunter.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -442,7 +447,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -485,5 +490,89 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
+  title: 'Liechtenstein eSIM gegen Swisscom und Salt: Der Vergleich für den Kleinstaat'
+  subtitle: Schweizer Netze, EWR-Roaming und ein Land ohne eigenen Verkehrsflughafen
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Liechtenstein) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Liechtenstein
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Liechtenstein eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: Liechtenstein hat keinen Verkehrsflughafen; wer mit dem Zug über Buchs oder Zürich anreist, findet
+      Verkaufsstellen nur in Vaduz und Schaan. Die Netze stammen von Swisscom, Salt und Sunrise.
+    esim_title: Vor dem Grenzübertritt aktiv
+    esim_desc: Die eSIM wird vorab installiert, sodass am Bahnhof Buchs kein Zwischenhalt im Shop nötig ist.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Für eine liechtensteinische Prepaid-Karte ist ein Ausweis vorzulegen; die Nummer wird auf den Käufer
+      registriert.
+    esim_title: Rein digital freigeschaltet
+    esim_desc: Roami überlässt die Freischaltung der App und verlangt keine Dokumentenkopie.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Liechtenstein gehört zum EWR, sodass landeseigene Tarife im übrigen EWR zu Inlandspreisen
+      weiterlaufen; wer ohne eigene Karte anreist, profitiert davon allerdings nicht.
+    esim_title: EWR und Schweiz
+    esim_desc: Wo eine ausländische Prepaid-Karte in der Schweiz Zusatzkosten erzeugt, bleibt bei Roami ein Paket für
+      beide Länder nutzbar.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die lokalen Datentarife laufen überwiegend im Monatsraster, während der Kleinstaat meist für einen
+      Tagesausflug besucht wird.
+    esim_title: Tagesausflug statt Monat
+    esim_desc: Roami bietet 3, 7, 15 und 30 Tage getrennt an; der 3-Tage-Tarif beginnt bei $1.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Das Rheintal von Vaduz bis Eschen ist durchgängig mit 5G versorgt; in den Hängen des Rätikons und im
+      Malbun-Tal dünnt das Signal dagegen aus.
+    esim_title: Hotspot im Rheintal
+    esim_desc: Bei Roami ist Hotspot-Nutzung kostenfrei, auch wenn mehrere Geräte in Vaduz mitversorgt werden.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über die Apps der Anbieter oder in Shops in Vaduz; abgerechnet wird in Schweizer
+      Franken, ausländische Karten werden nur eingeschränkt angenommen.
+    esim_title: Zahlung mit Karte
+    esim_desc: Die Zahlung erfolgt in US-Dollar über eine internationale Karte oder ein Wallet.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Der Kundendienst ist deutschsprachig und über die Anbieter in Vaduz oder deren Schweizer Zentren
+      erreichbar.
+    esim_title: Deutschsprachiger Service
+    esim_desc: Chat und E-Mail werden mehrsprachig und ohne feste Zeiten betreut.
+  expert_verdict:
+    title: 'Liechtenstein: vier Gründe für die eSIM vor der lokalen Karte'
+    cards:
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Monatspakete
+      desc: Lokale Tarife laufen einen Monat. Ein Tagesausflug nach Vaduz zahlt den vollen Zeitraum mit.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Kein Flughafen
+      desc: Anreise über Buchs oder Zürich. Die eSIM ist schon vor dem Grenzübertritt aktiv.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Registrierung
+      desc: Auch hier wird die Karte auf eine Person erfasst. Roami braucht <b>keine Ausweisdaten</b>.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Malbun ohne Netz
+      desc: In den Hängen des Rätikons und im Malbun-Tal fällt die Versorgung ab.
 ---

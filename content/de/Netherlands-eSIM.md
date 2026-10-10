@@ -1,6 +1,6 @@
 ---
 title: 'Niederlande eSIM 2026: Kompletter Reiseführer | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Regionen ab.
   keywords: Niederlande eSIM, Niederlande Reise eSIM, beste eSIM Niederlande, Niederlande Datentarif, KPN Niederlande, Vodafone
     Niederlande, T-Mobile Niederlande, Amsterdam eSIM, Rotterdam eSIM, Den Haag eSIM, Niederlande mobiles Internet, 5G Niederlande
+  low_price: 1.99
+  high_price: 69.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Niederlande eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Niederlande - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer Niederlande waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für Niederlande wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Niederlande-Anbietern für das stärkste Signal
-plans_title: 'Niederlande eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Niederlande eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 20GB
@@ -304,7 +306,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Niederlande, einschliesslich Amsterdam, Rotterdam, Den Haag, Utrecht.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Niederlande, einschließlich Amsterdam, Rotterdam, Den Haag, Utrecht.
         Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von KPN, Vodafone, T-Mobile.
     - icon: zap
       color: text-amber-500
@@ -382,7 +384,7 @@ activation_steps:
       ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "Online in Netherlands -- eSIM Netzqualitaet und Geschwindigkeitsratgeber"
+  title: "Online in Netherlands -- eSIM Netzqualität und Geschwindigkeitsratgeber"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Netherlands. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -401,7 +403,8 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Niederlande?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Niederlande kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Niederlande kostet $5.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Was tun, wenn meine Niederlande eSIM bei der Ankunft nicht funktioniert?
       a: |
@@ -413,17 +416,20 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Niederlande?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($5.99), für zwei Wochen 10GB ($10.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Niederlande am beliebtesten?
       a: |
-        Die meisten Reisenden nach Niederlande wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Niederlande wählen den 5GB/15 Tage Tarif ($7.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($10.99) oder den unbegrenzten Tarif ($9.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Niederlande?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($5.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -442,7 +448,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -485,9 +491,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
   title: 'Netherlands eSIM vs. lokale SIM-Karte: Was spart mehr?'
-  subtitle: Lokale Prepaid-SIMs in den Niederlanden vs. eSIM-Lösungen (2024/2025 Benchmark)
+  subtitle: Lokale Prepaid-SIMs in den Niederlanden vs. eSIM-Lösungen im direkten Vergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Netherlands) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Netherlands
@@ -499,56 +506,58 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: In den Niederlanden sind Prepaid-SIM-Karten frei erhältlich, z.B. bei KPN, Odido, Vodafone und Lyca Mobile.
-      Am Flughafen Schiphol gibt es Vodafone-Automaten, aber Vodafone-Shops akzeptieren oft kein Bargeld.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die Suche nach Vodafone-Automaten am Flughafen Schiphol. Aktivieren Sie Ihre eSIM online innerhalb
-      von 1 Minute nach der Landung in Amsterdam.
+    prepaid_desc: In den Niederlanden sind Prepaid-SIM-Karten frei erhältlich, z.B. bei KPN, Odido, Vodafone und Lyca
+      Mobile. Am Flughafen Schiphol gibt es Vodafone-Automaten, aber Vodafone-Shops akzeptieren oft kein Bargeld.
+    esim_title: Ohne Wartezeit online
+    esim_desc: Umgehen Sie die Suche nach Vodafone-Automaten am Flughafen Schiphol. Aktivieren Sie Ihre eSIM online
+      innerhalb von 1 Minute nach der Landung in Amsterdam.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
     prepaid_desc: SIM-Karten in den Niederlanden sind frei verkäuflich und erfordern keine Registrierung.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Während lokale SIMs in den Niederlanden keine Registrierung erfordern, bietet Roami eSIM noch mehr Privatsphäre
-      – kein Ausweis, kein Warten.
+    esim_desc: Während lokale SIMs in den Niederlanden keine Registrierung erfordern, bietet Roami eSIM noch mehr
+      Privatsphäre – kein Ausweis, kein Warten.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Odido's unbegrenzter Tagestarif (€2,95) hat ein EU-Roaming-Limit von 2,6 GB; Vodafone's 1-Tag unbegrenzt
-      (€4,00) erlaubt nur 7 GB im EU-Roaming; Lebara drosselt auf 3G.
+    prepaid_desc: Odido's unbegrenzter Tagestarif (€2,95) hat ein EU-Roaming-Limit von 2,6 GB; Vodafone's 1-Tag
+      unbegrenzt (€4,00) erlaubt nur 7 GB im EU-Roaming; Lebara drosselt auf 3G.
     esim_title: Weltweites Roaming ohne Limits
-    esim_desc: Im Gegensatz zu Odido's €2,95-Tagestarif mit nur 2,6 GB EU-Roaming oder Vodafone's 7-GB-Limit bietet Roami
-      eSIM nahtloses Roaming in über 100 Ländern ohne versteckte Drosselung.
+    esim_desc: Im Gegensatz zu Odido's €2,95-Tagestarif mit nur 2,6 GB EU-Roaming oder Vodafone's 7-GB-Limit bietet
+      Roami eSIM nahtloses Roaming in über 100 Ländern ohne versteckte Drosselung.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: KPN bietet 1-Tage-Pakete (€1,99) oder 31-Tage-Pakete (€14,99 für 1 GB); Vodafone hat 7-Tage-Pakete (€7 für
-      14 GB) und 30-Tage-Pakete (€44 für 60 GB).
+    prepaid_desc: KPN bietet 1-Tage-Pakete (€1,99) oder 31-Tage-Pakete (€14,99 für 1 GB); Vodafone hat 7-Tage-Pakete
+      (€7 für 14 GB) und 30-Tage-Pakete (€44 für 60 GB).
     esim_title: Flexible Tarife nach Tagen
-    esim_desc: Vermeiden Sie die 31-Tage-Zyklen von KPN (€14,99 für 1 GB) oder Vodafone's 30-Tage-Paket (€44). Roami bietet
-      7-Tage-Datentarife ab $1,99/GB – sparen Sie bis zu 75% bei Kurzreisen.
+    esim_desc: Vermeiden Sie die 31-Tage-Zyklen von KPN (€14,99 für 1 GB) oder Vodafone's 30-Tage-Paket (€44). Roami
+      bietet 7-Tage-Datentarife ab $2.99 – sparen Sie bis zu 75% bei Kurzreisen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
     prepaid_desc: Vodafone erlaubt Tethering explizit; Lyca Mobile verbietet Tethering ausdrücklich.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während Lyca Mobile Tethering verbietet, erlaubt Roami eSIM uneingeschränkte Hotspot-Nutzung – teilen Sie Ihr
-      Datenvolumen mit Laptop und Tablet.
+    esim_desc: Während Lyca Mobile Tethering verbietet, erlaubt Roami eSIM uneingeschränkte Hotspot-Nutzung – teilen
+      Sie Ihr Datenvolumen mit Laptop und Tablet.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Lyca Mobile akzeptiert nur 3D-Secure-Kreditkarten aus den Niederlanden, Belgien, Deutschland, Großbritannien,
-      Norwegen und Schweden; KPN akzeptiert Mastercard, Visa und PayPal, aber unklar ob alle internationalen Karten funktionieren.
+    prepaid_desc: Lyca Mobile akzeptiert nur 3D-Secure-Kreditkarten aus den Niederlanden, Belgien, Deutschland,
+      Großbritannien, Norwegen und Schweden; KPN akzeptiert Mastercard, Visa und PayPal, aber unklar ob alle
+      internationalen Karten funktionieren.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Lyca Mobile akzeptiert nur Karten aus 6 Ländern. Roami eSIM akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google
-      Pay und PayPal – keine regionalen Einschränkungen.
+    esim_desc: Lyca Mobile akzeptiert nur Karten aus 6 Ländern. Roami eSIM akzeptiert Visa, Mastercard, AMEX, Apple
+      Pay, Google Pay und PayPal – keine regionalen Einschränkungen.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: Der Support von KPN, Vodafone und Odido ist niederländischsprachig; telefonisch und per Chat gibt es
+      auch englische Auskunft.
     esim_title: 24/7 Kundensupport
-    esim_desc: Lokale Anbieter haben oft nur niederländischen Telefonsupport. Roami bietet 24/7 mehrsprachigen Support per
-      Chat und E-Mail.
+    esim_desc: Lokale Anbieter haben oft nur niederländischen Telefonsupport. Roami bietet 24/7 mehrsprachigen Support
+      per Chat und E-Mail.
   expert_verdict:
     title: 'Netherlands eSIM vs. Prepaid-SIM: Kosten und Komfort im Vergleich'
     cards:
@@ -556,24 +565,24 @@ market_analysis:
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofortige Aktivierung
-      desc: Vodafone am Flughafen Schiphol erfordert Automatensuche; Roami eSIM wird per E-Mail geliefert und in <b>1 Minute</b>
-        aktiviert.
+      desc: Vodafone am Flughafen Schiphol erfordert Automatensuche; Roami eSIM wird per E-Mail geliefert und in <b>1
+        Minute</b> aktiviert.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Flexible Laufzeiten sparen Geld
-      desc: KPN's 31-Tage-Paket (€14,99 für 1 GB) verschwendet bei einem 5-tägigen Aufenthalt <b>84%</b> des Tarifwerts. Roami
-        eSIM bietet 7-Tage-Tarife ab <b>$1,99/GB</b> – passgenau für Ihre Reise.
+      desc: KPN's 31-Tage-Paket (€14,99 für 1 GB) verschwendet bei einem 5-tägigen Aufenthalt <b>84%</b> des
+        Tarifwerts. Roami eSIM bietet 7-Tage-Tarife ab <b>$2.99</b> – passgenau für Ihre Reise.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Keine Registrierung nötig
-      desc: In den Niederlanden sind Prepaid-SIMs zwar frei verkäuflich, aber Roami eSIM erfordert gar keine physische Karte
-        – noch einfacher und sicherer.
+      desc: In den Niederlanden sind Prepaid-SIMs zwar frei verkäuflich, aber Roami eSIM erfordert gar keine physische
+        Karte – noch einfacher und sicherer.
     - icon: shield
       icon_bg: bg-sky-100
       icon_color: text-sky-600
       title: Dual-SIM für Sicherheit
-      desc: Behalten Sie Ihre heimische SIM für Banktransaktionen und Anrufe – Roami eSIM läuft parallel und vermeidet das
-        Risiko des Kartenverlusts.
+      desc: Behalten Sie Ihre heimische SIM für Banktransaktionen und Anrufe – Roami eSIM läuft parallel und vermeidet
+        das Risiko des Kartenverlusts.
 ---

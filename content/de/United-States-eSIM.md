@@ -1,6 +1,6 @@
 ---
 title: 'USA eSIM 2026: Reise & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Regionen ab.
   keywords: USA eSIM, USA Reise eSIM, beste eSIM USA, USA Datentarif, T-Mobile USA, AT&T USA, Verizon USA, New York eSIM,
     Los Angeles eSIM, Chicago eSIM, USA mobiles Internet, 5G USA
+  low_price: 1.99
+  high_price: 49.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'USA eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für USA
 features:
-  title: 'Warum Reisende Roami fuer USA waehlen: Netzwerk, Tarife & Preiswert'
+  title: 'Warum Reisende Roami für USA wählen: Netzwerk, Tarife & Preiswert'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten USA-Anbietern für das stärkste Signal
-plans_title: 'USA eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'USA eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -296,7 +298,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz USA, einschliesslich New York, Los Angeles, Chicago, San Francisco.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz USA, einschließlich New York, Los Angeles, Chicago, San Francisco.
         Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von T-Mobile, AT&T, Verizon.
     - icon: zap
       color: text-amber-500
@@ -393,11 +395,12 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Vereinigte Staaten akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Vereinigte Staaten eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Vereinigte Staaten mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Vereinigte Staaten mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $49.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Was tun, wenn meine Vereinigte Staaten eSIM bei der Ankunft nicht funktioniert?
       a: |
@@ -405,7 +408,8 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Vereinigte Staaten am beliebtesten?
       a: |
-        Die meisten Reisenden nach Vereinigte Staaten wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Vereinigte Staaten wählen den 5GB/15 Tage Tarif ($8.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($7.99) oder den unbegrenzten Tarif ($8.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Vereinigte Staaten eSIM eine Bestätigung?
       a: |
@@ -415,13 +419,13 @@ faq_section:
       a: |
         Ja — alle datenbasierten Apps funktionieren ohne Einschränkungen. Ein 5GB Tarif reicht für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Ein 30-minütiges Zoom-Meeting verbraucht etwa 150-300MB. T-Mobiles Netz in Vereinigte Staaten liefert stabile Verbindungen für Videoanrufe.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Diese eSIM-Tarife könnten Sie interessieren
   items:
-  - name: USA eSIM
-    flag: img/flags/us.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: united-states-esim
+    slug: italy-esim
   - name: Vereinigtes Königreich eSIM
     flag: img/flags/gb.svg
     price: Ab 1,99 $
@@ -434,7 +438,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -477,5 +481,91 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
+  title: 'USA eSIM gegen T-Mobile und Verizon: Der Vergleich für Roadtrips und Nationalparks'
+  subtitle: Drei Netze, teure Monatstarife und weite Lücken in den Nationalparks
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (United States) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/United_States
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami USA eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: T-Mobile, AT&T und Verizon verkaufen ihre Karten in New York, Los Angeles und Chicago; in kleineren
+      Städten entlang der Interstates gibt es dagegen nur wenige Ausgabestellen.
+    esim_title: Vor dem Roadtrip bereit
+    esim_desc: Vorbereitet wird die eSIM noch zu Hause. Am Flughafen JFK entfällt der Weg zu einem Shop, bevor der
+      Mietwagen übernommen wird.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Für eine US-Prepaid-Karte ist kein Ausweis vorgeschrieben, doch viele Anbieter verlangen eine
+      US-Adresse und eine Sozialversicherungsnummer; Reisende sind dadurch auf spezielle Touristentarife angewiesen.
+    esim_title: Ohne US-Adresse
+    esim_desc: Roami verzichtet auf Adressnachweis und Registrierung und aktiviert nach der Bestellung.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Die USA liegen außerhalb jeder Roamingzone; die Inlandstarife enden an den Grenzen, und eine Fahrt
+      nach Kanada oder Mexiko löst bei den meisten Prepaid-Tarifen Zusatzkosten aus.
+    esim_title: Nordamerika am Stück
+    esim_desc: Für die Route New York, Toronto und Vancouver lässt sich bei Roami ein Paket für die gesamte Strecke
+      buchen.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: US-Prepaid-Tarife sind fast immer Monatstarife, und zu den ausgewiesenen Preisen kommen je nach
+      Bundesstaat Steuern und Gebühren hinzu.
+    esim_title: Fester Preis ohne Aufschlag
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 7-Tage-Einstieg liegt bei $1.99, ohne Steueraufschlag.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Die Ballungsräume und die Interstates sind gut versorgt; im Yellowstone, im Grand Canyon, im Death
+      Valley und in den weiten Gebieten von Montana und Wyoming bricht das Signal dagegen über Stunden ab.
+    esim_title: Hotspot im Nationalpark
+    esim_desc: Bei Roami ist Hotspot-Nutzung kostenfrei, auch wenn im Park nur ein schwaches Netz anliegt.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über die Apps der Anbieter und Guthabenkarten aus Supermärkten; abgerechnet wird in
+      US-Dollar, ausländische Karten werden meist angenommen.
+    esim_title: Zahlung in US-Dollar
+    esim_desc: Statt an einem Kiosk in New York aufzuladen, läuft die Zahlung bei Roami in US-Dollar.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist englischsprachig und über die Apps der Anbieter rund um die Uhr erreichbar.
+    esim_title: Englischsprachiger Service
+    esim_desc: Auskunft gibt es per Chat und E-Mail, in mehreren Sprachen und zu jeder Stunde.
+  expert_verdict:
+    title: 'USA: vier Gründe für die eSIM vor der lokalen Karte'
+    cards:
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Nationalparks ohne Netz
+      desc: Im Yellowstone, im Grand Canyon und im Death Valley bricht die Versorgung über Stunden ab.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Monatstarife
+      desc: US-Prepaid gibt es fast nur als Monatstarif. Ein zweiwöchiger Roadtrip zahlt den vollen Zeitraum mit.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Steuern auf den Preis
+      desc: Zu den ausgewiesenen Preisen kommen je nach Bundesstaat Gebühren hinzu. Roami nennt einen <b>festen
+        Preis</b>.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: US-Adresse verlangt
+      desc: Viele Prepaid-Tarife verlangen Adresse und Sozialversicherungsnummer. Roami schaltet <b>ohne
+        Ausweisdaten</b> frei.
 ---

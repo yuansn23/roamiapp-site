@@ -1,6 +1,6 @@
 ---
 title: 'Singapur eSIM 2026: Touristen & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Singapur & die ganze Insel ab.
   keywords: Singapur eSIM, Singapur Reise eSIM, beste eSIM Singapur, Singapur Datentarif, Singtel Singapur, StarHub Singapur,
     M1 Singapur, Singapur-Stadt eSIM, Jurong East eSIM, Woodlands eSIM, Singapur mobiles Internet, 5G Singapur
+  low_price: 1.99
+  high_price: 65.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Singapur eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Singapur
 features:
-  title: 'Warum Reisende Roami fuer Singapur waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Singapur wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Singapur-Anbietern für das stärkste Signal
-plans_title: 'Singapur eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Singapur eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 30GB
@@ -296,7 +298,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Singapur, einschliesslich Singapur-Stadt, Jurong East, Woodlands,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Singapur, einschließlich Singapur-Stadt, Jurong East, Woodlands,
         Tampines. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Singtel, StarHub, M1.
     - icon: zap
       color: text-amber-500
@@ -373,7 +375,7 @@ activation_steps:
       für andere Geräte einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "Wie zuverlaessig ist eSIM in Singapore? Ein praktischer Leitfaden"
+  title: "Wie zuverlässig ist eSIM in Singapore? Ein praktischer Leitfaden"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Singapore. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -400,15 +402,17 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Singapur?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Singapur kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Singapur kostet $4.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Singapur?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($4.99), für zwei Wochen 10GB ($8.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Singapur akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Singapur nutzen?
       a: |
@@ -433,7 +437,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -476,9 +480,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
   title: 'Singapore eSIM vs. SIM-Karte: Der vollständige Vergleichsleitfaden'
-  subtitle: Lokale Prepaid-SIMs in Singapur vs. eSIM-Lösungen (2024/2025 Benchmark)
+  subtitle: Lokale Prepaid-SIMs in Singapur vs. eSIM-Lösungen im Vergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Singapore) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Singapore
@@ -490,59 +495,62 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: In Singapur müssen Prepaid-SIM-Karten persönlich erworben werden; am Flughafen Changi werden oft teure Pakete
-      ab S$38 (Singtel) oder S$50 (StarHub) verkauft, während günstigere Karten ab S$8 nur in Stadtteilen wie Little India
-      erhältlich sind.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die langen Schlangen am Flughafen Changi und die überteuerten Pakete (Singtel S$38, StarHub S$50).
-      Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute nach der Landung in Singapur.
+    prepaid_desc: In Singapur müssen Prepaid-SIM-Karten persönlich erworben werden; am Flughafen Changi werden oft
+      teure Pakete ab S$38 (Singtel) oder S$50 (StarHub) verkauft, während günstigere Karten ab S$8 nur in Stadtteilen
+      wie Little India erhältlich sind.
+    esim_title: Bereit vom ersten Moment an
+    esim_desc: Umgehen Sie die langen Schlangen am Flughafen Changi und die überteuerten Pakete (Singtel S$38, StarHub
+      S$50). Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute nach der Landung in Singapur.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Seit dem 15. Juli 2024 beträgt die Basisgültigkeit von mit Reisepass registrierten Prepaid-SIMs nur 30 Tage;
-      eine Verlängerung ohne Langzeitaufenthaltsnachweis ist nicht möglich.
+    prepaid_desc: Seit dem 15. Juli 2024 beträgt die Basisgültigkeit von mit Reisepass registrierten Prepaid-SIMs nur
+      30 Tage; eine Verlängerung ohne Langzeitaufenthaltsnachweis ist nicht möglich.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: 'Vermeiden Sie die strenge KYC-Pflicht: Seit Juli 2024 sind mit Pass registrierte SIMs nur 30 Tage gültig.
-      Mit Roami eSIM entfällt die Passvorlage komplett.'
+    esim_desc: 'Vermeiden Sie die strenge KYC-Pflicht: Seit Juli 2024 sind mit Pass registrierte SIMs nur 30 Tage
+      gültig. Mit Roami eSIM entfällt die Passvorlage komplett.'
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Singtel hi!Tourist bietet ab S$12 (14 Tage) 100 GB lokales Datenvolumen und 3 GB Roaming-Daten für Australien,
-      Malaysia, Indonesien und Thailand; StarHub Travel Prepaid SIM bietet ab S$15 (14 Tage) 100 GB lokales Datenvolumen (FUP)
-      und 3 GB Roaming-Daten.
-    esim_title: Weltweites Roaming ohne Einschränkungen
-    esim_desc: Im Gegensatz zu Singtel (nur 3 GB Roaming ab S$12) oder StarHub (FUP 100 GB, Roaming 3 GB) bietet Roami eSIM
-      volles Highspeed-Roaming in über 190 Ländern, ohne künstliche Begrenzung.
+    prepaid_desc: Singtel hi!Tourist bietet ab S$12 (14 Tage) 100 GB lokales Datenvolumen und 3 GB Roaming-Daten für
+      Australien, Malaysia, Indonesien und Thailand; StarHub Travel Prepaid SIM bietet ab S$15 (14 Tage) 100 GB
+      lokales Datenvolumen (FUP) und 3 GB Roaming-Daten.
+    esim_title: Ein Tarif für die ganze Route
+    esim_desc: Im Gegensatz zu Singtel (nur 3 GB Roaming ab S$12) oder StarHub (FUP 100 GB, Roaming 3 GB) bietet Roami
+      eSIM volles Highspeed-Roaming in über 190 Ländern, ohne künstliche Begrenzung.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Singtel bietet einen S$20-Tarif mit 5 GB Daten, der jedoch nur 7 Tage gültig ist; StarHub und M1 bieten
-      hauptsächlich 28-Tage-Zyklen an, z. B. StarHub S$15 für 120 GB (28 Tage) oder M1 S$12 für 100 GB (15 Tage).
+    prepaid_desc: Singtel bietet einen S$20-Tarif mit 5 GB Daten, der jedoch nur 7 Tage gültig ist; StarHub und M1
+      bieten hauptsächlich 28-Tage-Zyklen an, z. B. StarHub S$15 für 120 GB (28 Tage) oder M1 S$12 für 100 GB (15
+      Tage).
     esim_title: Flexible Tarife nach Tagen
-    esim_desc: Vermeiden Sie die starren 7-Tage- (Singtel S$20/5GB) oder 28-Tage-Zyklen (StarHub S$15/120GB). Roami bietet
-      7-Tage-Datentarife ab $1.99/GB – zahlen Sie nur für das, was Sie nutzen.
+    esim_desc: Vermeiden Sie die starren 7-Tage- (Singtel S$20/5GB) oder 28-Tage-Zyklen (StarHub S$15/120GB). Roami
+      bietet 7-Tage-Datentarife ab $1.99 – zahlen Sie nur für das, was Sie nutzen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: Bei Singtel, StarHub und M1 ist Tethering in den Prepaid-Tarifen unterschiedlich geregelt; einzelne
+      Pakete schließen Hotspot aus.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während lokale Anbieter wie StarHub Hotspots oft einschränken oder blockieren, erlaubt Roami eSIM uneingeschränktes
-      Tethering auf allen Geräten.
+    esim_desc: Während lokale Anbieter wie StarHub Hotspots oft einschränken oder blockieren, erlaubt Roami eSIM
+      uneingeschränktes Tethering auf allen Geräten.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: StarHub akzeptiert am Flughafen Changi nur Bargeld, keine Kreditkarten; Singtel und M1 unterstützen keine
-      Alipay- oder WeChat Pay-Aufladungen.
+    prepaid_desc: StarHub akzeptiert am Flughafen Changi nur Bargeld, keine Kreditkarten; Singtel und M1 unterstützen
+      keine Alipay- oder WeChat Pay-Aufladungen.
     esim_title: Weltweite Zahlungsmethoden
-    esim_desc: Umgehen Sie die Bargeldpflicht von StarHub am Flughafen. Roami akzeptiert Visa, Mastercard, AMEX, Apple Pay,
-      Google Pay und PayPal – sicher und bequem.
+    esim_desc: Umgehen Sie die Bargeldpflicht von StarHub am Flughafen. Roami akzeptiert Visa, Mastercard, AMEX, Apple
+      Pay, Google Pay und PayPal – sicher und bequem.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: Singtel, StarHub und M1 bieten Support auf Englisch und Mandarin; die Hotlines sind meist gut
+      erreichbar.
     esim_title: 24/7 Kundensupport
-    esim_desc: Lokale Anbieter bieten oft nur eingeschränkten Support (z. B. Singtel nur auf Englisch). Roami bietet rund
-      um die Uhr mehrsprachigen Support per Chat und E-Mail.
+    esim_desc: Lokale Anbieter bieten oft nur eingeschränkten Support (z. B. Singtel nur auf Englisch). Roami bietet
+      rund um die Uhr mehrsprachigen Support per Chat und E-Mail.
   expert_verdict:
     title: 'Singapore eSIM oder Prepaid-SIM-Karte: Ein intelligenter Vergleich für bessere Konnektivität'
     cards:
@@ -550,24 +558,24 @@ market_analysis:
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Netzabdeckung ohne Lücken
-      desc: SIMBA hat in Tunneln und Unterführungen eine <b>4,5%ige Ausfallrate</b>. Roami eSIM nutzt das beste verfügbare
-        Netz (Singtel, StarHub, M1) und schaltet bei Bedarf automatisch um.
+      desc: SIMBA hat in Tunneln und Unterführungen eine <b>4,5%ige Ausfallrate</b>. Roami eSIM nutzt das beste
+        verfügbare Netz (Singtel, StarHub, M1) und schaltet bei Bedarf automatisch um.
     - icon: wifi
       icon_bg: bg-green-100
       icon_color: text-green-600
       title: Uneingeschränktes Tethering für alle Geräte
-      desc: StarHub schränkt Tethering bei seinen Tourist eSIMs ein (nur Daten, keine Sprachfunktion). Roami erlaubt uneingeschränktes
-        Tethering auf Smartphones, Tablets und Laptops.
+      desc: StarHub schränkt Tethering bei seinen Tourist eSIMs ein (nur Daten, keine Sprachfunktion). Roami erlaubt
+        uneingeschränktes Tethering auf Smartphones, Tablets und Laptops.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600
       title: Sicherheit durch Dual-SIM-Betrieb
-      desc: Lokale SIMs zwingen zum Entfernen der Heim-SIM – Banktransaktionen werden blockiert. Roami eSIM läuft parallel
-        zur Heim-SIM und stellt sicher, dass SMS und Anrufe empfangen werden.
+      desc: Lokale SIMs zwingen zum Entfernen der Heim-SIM – Banktransaktionen werden blockiert. Roami eSIM läuft
+        parallel zur Heim-SIM und stellt sicher, dass SMS und Anrufe empfangen werden.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofortige Aktivierung ohne Verzögerung
-      desc: M1 verlangt einen <b>ersten Anruf</b> zur Aktivierung. Singtel eSIMs können erst nach Ankunft in Singapur aktiviert
-        werden. Roami eSIM ist sofort nach Kauf nutzbar.
+      desc: M1 verlangt einen <b>ersten Anruf</b> zur Aktivierung. Singtel eSIMs können erst nach Ankunft in Singapur
+        aktiviert werden. Roami eSIM ist sofort nach Kauf nutzbar.
 ---

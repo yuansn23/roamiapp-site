@@ -1,6 +1,6 @@
 ---
 title: 'Frankreich eSIM 2026: Touristen & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Deckt Paris, Nizza & die Provence ab.
   keywords: Frankreich eSIM, Frankreich Reise eSIM, beste eSIM Frankreich, Frankreich Datentarif, Orange Frankreich, SFR Frankreich,
     Bouygues Telecom Frankreich, Paris eSIM, Marseille eSIM, Lyon eSIM, Frankreich mobiles Internet, 5G Frankreich
+  low_price: 1.99
+  high_price: 70.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Frankreich eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Frankreich
 features:
-  title: 'Warum Reisende Roami fuer Frankreich waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Frankreich wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Frankreich-Anbietern für das stärkste Signal
-plans_title: 'Frankreich eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Frankreich eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -312,7 +314,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Frankreich, einschliesslich Paris, Marseille, Lyon, Toulouse. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Frankreich, einschließlich Paris, Marseille, Lyon, Toulouse. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von Orange, SFR, Bouygues Telecom.
     - icon: zap
       color: text-amber-500
@@ -390,7 +392,7 @@ activation_steps:
       ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "Online in France -- eSIM Netzqualitaet und Geschwindigkeitsratgeber"
+  title: "Online in France -- eSIM Netzqualität und Geschwindigkeitsratgeber"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in France. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -413,7 +415,8 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Frankreich?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Frankreich kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Frankreich kostet $6.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Was tun, wenn meine Frankreich eSIM bei der Ankunft nicht funktioniert?
       a: |
@@ -450,7 +453,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -473,11 +476,11 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: hong-kong-esim
-  - name: Frankreich eSIM
-    flag: img/flags/fr.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: france-esim
+    slug: italy-esim
   - name: Spanien eSIM
     flag: img/flags/es.svg
     price: Ab 1,99 $
@@ -493,9 +496,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'France eSIM vs. physikalische SIM: Was ist besser für Reisen?'
-  subtitle: Lokale Prepaid-SIMs in Frankreich vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'France eSIM vs. lokale Prepaid-SIM: Kosten, Aufwand, Abdeckung'
+  subtitle: Lokale Prepaid-SIMs in Frankreich vs. eSIM-Lösungen ohne Vertragsbindung
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (France) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/France
@@ -507,61 +511,61 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Der Erwerb einer Orange Mobicarte erfordert einen persönlichen Kauf im Geschäft mit einer Wartezeit von
-      bis zu einer Stunde; Bouygues My European SIM muss innerhalb von 30 Tagen online verifiziert werden, sonst wird die
-      Karte gesperrt.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die stundenlangen Wartezeiten in Orange-Shops. Aktivieren Sie Ihre eSIM online innerhalb von 1
-      Minute nach der Landung in Paris.
+    prepaid_desc: Der Erwerb einer Orange Mobicarte erfordert einen persönlichen Kauf im Geschäft mit einer Wartezeit
+      von bis zu einer Stunde; Bouygues My European SIM muss innerhalb von 30 Tagen online verifiziert werden, sonst
+      wird die Karte gesperrt.
+    esim_title: In wenigen Minuten startklar
+    esim_desc: Umgehen Sie die stundenlangen Wartezeiten in Orange-Shops. Aktivieren Sie Ihre eSIM online innerhalb
+      von 1 Minute nach der Landung in Paris.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Alle französischen Prepaid-SIMs erfordern seit 2017 eine Passregistrierung; Orange und SFR verlangen beim
-      Kauf im Geschäft die Vorlage eines Ausweises.
+    prepaid_desc: Alle französischen Prepaid-SIMs erfordern seit 2017 eine Passregistrierung; Orange und SFR verlangen
+      beim Kauf im Geschäft die Vorlage eines Ausweises.
     esim_title: Kein Pass erforderlich
-    esim_desc: Im Gegensatz zu Orange und SFR, die eine Passregistrierung verlangen, benötigt Roami eSIM keine persönliche
-      Identifikation – sofortige Aktivierung ohne Bürokratie.
+    esim_desc: Im Gegensatz zu Orange und SFR, die eine Passregistrierung verlangen, benötigt Roami eSIM keine
+      persönliche Identifikation – sofortige Aktivierung ohne Bürokratie.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: 'SFR La Carte reduziert das EU-Roaming-Datenvolumen drastisch: 80 GB lokales Datenvolumen ergeben nur 32
-      GB in der EU (60 % Reduzierung). Bouygues My European SIM erlaubt Roaming nur im ersten Abrechnungszeitraum und unterstützt
-      keine weiteren Aufladungen.'
-    esim_title: Weltweites Roaming ohne Einschränkungen
-    esim_desc: Vermeiden Sie die FUP-Falle von SFR (80 GB lokales Datenvolumen werden auf 32 GB EU-Roaming reduziert) und
-      die Roaming-Sperre von Bouygues. Roami eSIM bietet transparente Datenmengen in ganz Europa.
+    prepaid_desc: 'SFR La Carte reduziert das EU-Roaming-Datenvolumen drastisch: 80 GB lokales Datenvolumen ergeben
+      nur 32 GB in der EU (60 % Reduzierung). Bouygues My European SIM erlaubt Roaming nur im ersten
+      Abrechnungszeitraum und unterstützt keine weiteren Aufladungen.'
+    esim_title: Über die Grenze ohne Neukauf
+    esim_desc: Vermeiden Sie die FUP-Falle von SFR (80 GB lokales Datenvolumen werden auf 32 GB EU-Roaming reduziert)
+      und die Roaming-Sperre von Bouygues. Roami eSIM bietet transparente Datenmengen in ganz Europa.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Orange Holiday bietet 31-Tage-Tarife ab 8,99 € für 4 GB; Bouygues My European SIM kostet 19,90 € für 15
-      Tage. Ein 10-tägiger Tourist verschwendet bei einem 31-Tage-Tarif über 20 Tage.
+    prepaid_desc: Orange Holiday bietet 31-Tage-Tarife ab $1.99 für 4 GB; Bouygues My European SIM kostet 19,90 € für
+      15 Tage. Ein 10-tägiger Tourist verschwendet bei einem 31-Tage-Tarif über 20 Tage.
     esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Im Gegensatz zum 31-Tage-Zyklus von Orange (€8,99/4 GB) oder Bouygues 15-Tage-Tarif (€19,90) bietet Roami 7-Tage-Tarife
-      ab $1,99/GB und spart so über 75 % Verschwendung bei Kurzreisen.
+    esim_desc: Im Gegensatz zum 31-Tage-Zyklus von Orange (€8,99/4 GB) oder Bouygues 15-Tage-Tarif (€19,90) bietet
+      Roami 7-Tage-Tarife ab $2.99 und spart so über 75 % Verschwendung bei Kurzreisen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Orange Mobicarte erlaubt Tethering, aber die Datentarife verbieten P2P, VoIP und USENET. SFR La Carte erlaubt
-      Tethering ohne explizite Einschränkungen.
+    prepaid_desc: Orange Mobicarte erlaubt Tethering, aber die Datentarife verbieten P2P, VoIP und USENET. SFR La
+      Carte erlaubt Tethering ohne explizite Einschränkungen.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während Orange Mobicarte P2P und VoIP verbietet, erlaubt Roami eSIM uneingeschränktes Tethering – teilen Sie
-      Ihr Datenvolumen mit anderen Geräten ohne Einschränkungen.
+    esim_desc: Während Orange Mobicarte P2P und VoIP verbietet, erlaubt Roami eSIM uneingeschränktes Tethering –
+      teilen Sie Ihr Datenvolumen mit anderen Geräten ohne Einschränkungen.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Online-Aufladungen bei SFR erfordern eine europäische Kreditkarte mit Chip; Free Mobile verlangt eine Kreditkarte
-      (auch nicht-französische) an Automaten, aber der Vertrag verlängert sich automatisch monatlich.
+    prepaid_desc: Online-Aufladungen bei SFR erfordern eine europäische Kreditkarte mit Chip; Free Mobile verlangt
+      eine Kreditkarte (auch nicht-französische) an Automaten, aber der Vertrag verlängert sich automatisch monatlich.
     esim_title: Weltweite Zahlungsmethoden
-    esim_desc: Vermeiden Sie die europäischen Kreditkartenanforderungen von SFR. Roami akzeptiert Visa, Mastercard, AMEX,
-      Apple Pay, Google Pay und PayPal – keine versteckten Fallen.
+    esim_desc: Vermeiden Sie die europäischen Kreditkartenanforderungen von SFR. Roami akzeptiert Visa, Mastercard,
+      AMEX, Apple Pay, Google Pay und PayPal – keine versteckten Fallen.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Der telefonische Support von Orange ist nur auf Französisch verfügbar, Mo–Fr 9–17 Uhr; kein Live-Chat für
-      Prepaid-Kunden.
+    prepaid_desc: Der telefonische Support von Orange ist nur auf Französisch verfügbar, Mo–Fr 9–17 Uhr; kein
+      Live-Chat für Prepaid-Kunden.
     esim_title: 24/7 Kundensupport
-    esim_desc: Im Gegensatz zum französischsprachigen Telefonsupport von Orange (Mo–Fr 9–17 Uhr) bietet Roami rund um die
-      Uhr mehrsprachigen Support per Chat und E-Mail.
+    esim_desc: Im Gegensatz zum französischsprachigen Telefonsupport von Orange (Mo–Fr 9–17 Uhr) bietet Roami rund um
+      die Uhr mehrsprachigen Support per Chat und E-Mail.
   expert_verdict:
     title: 'France eSIM oder SIM-Karte: Was ist 2026 die beste Option?'
     cards:
@@ -569,24 +573,24 @@ market_analysis:
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofortige Aktivierung in 1 Minute
-      desc: Orange-Shops verlangen eine Wartezeit von bis zu einer Stunde. Roami eSIM wird innerhalb von 1 Minute nach der
-        Landung in Paris aktiviert – keine Wartezeit.
+      desc: Orange-Shops verlangen eine Wartezeit von bis zu einer Stunde. Roami eSIM wird innerhalb von 1 Minute nach
+        der Landung in Paris aktiviert – keine Wartezeit.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Internationale Zahlungsmethoden akzeptiert
-      desc: SFR verlangt für Online-Aufladungen eine europäische Kreditkarte mit Chip. Roami akzeptiert Visa, Mastercard,
-        AMEX, Apple Pay, Google Pay und PayPal – weltweit nutzbar.
+      desc: SFR verlangt für Online-Aufladungen eine europäische Kreditkarte mit Chip. Roami akzeptiert Visa,
+        Mastercard, AMEX, Apple Pay, Google Pay und PayPal – weltweit nutzbar.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Keine Roaming-Sperre nach erstem Zyklus
-      desc: Bouygues My European SIM erlaubt Roaming nur im ersten Abrechnungszeitraum und unterstützt keine weiteren Aufladungen.
-        Roami eSIM bietet durchgehendes Roaming ohne Unterbrechung.
+      desc: Bouygues My European SIM erlaubt Roaming nur im ersten Abrechnungszeitraum und unterstützt keine weiteren
+        Aufladungen. Roami eSIM bietet durchgehendes Roaming ohne Unterbrechung.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Flexible Abrechnungszyklen sparen Geld
-      desc: Orange Holiday hat einen 31-Tage-Zyklus (€8,99/4 GB). Ein 10-tägiger Tourist verschwendet über 20 Tage. Roami
-        eSIM bietet 7-Tage-Tarife ab $1,99/GB – keine Verschwendung.
+      desc: Orange Holiday hat einen 31-Tage-Zyklus (€8,99/4 GB). Ein 10-tägiger Tourist verschwendet über 20 Tage.
+        Roami eSIM bietet 7-Tage-Tarife ab $2.99 – keine Verschwendung.
 ---

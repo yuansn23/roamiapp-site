@@ -1,6 +1,6 @@
 ---
 title: 'Indonesien eSIM 2026: 5G & Datentarife | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -24,6 +24,8 @@ seo:
   keywords: Indonesien eSIM, Indonesien Reise eSIM, beste eSIM Indonesien, Indonesien Datentarif, Telkomsel Indonesien, XL
     Axiata Indonesien, Indosat Ooredoo Hutchison Indonesien, Jakarta eSIM, Bali eSIM, Surabaya eSIM, Indonesien mobiles Internet,
     5G Indonesien
+  low_price: 1.99
+  high_price: 68.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -46,7 +48,7 @@ hero:
   title: 'Indonesien eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Indonesien - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer Indonesien waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für Indonesien wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +74,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Indonesien-Anbietern für das stärkste Signal
-plans_title: 'Indonesien eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Indonesien eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   15 Tage:
   - spec: Unbegrenzt
@@ -305,7 +307,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Indonesien, einschliesslich Jakarta, Bali, Surabaya, Bandung. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Indonesien, einschließlich Jakarta, Bali, Surabaya, Bandung. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von Telkomsel, XL Axiata, Indosat Ooredoo Hutchison.
     - icon: zap
       color: text-amber-500
@@ -394,7 +396,8 @@ faq_section:
     - q: |
         Ist eine eSIM für Indonesien günstiger als eine SIM-Karte am Flughafen?
       a: |
-        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $1.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $2.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+
     - q: |
         Gibt es große Unterschiede zwischen Telkomsel, Indosat und XL für eSIM in Indonesien?
       a: |
@@ -410,11 +413,12 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Indonesien akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Indonesien eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Indonesien mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Indonesien mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $68.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Soll ich meine Indonesien eSIM vor der Abreise oder erst am Flughafen installieren?
       a: |
@@ -424,7 +428,7 @@ faq_section:
       a: |
         Ja — der QR-Code kommt innerhalb von 5 Minuten per E-Mail zugestellt. Die E-Mail enthält auch eine Installationsanleitung. Prüfen Sie ggf. Ihren Spam-Ordner.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Weitere beliebte eSIM-Ziele
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -443,7 +447,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -486,9 +490,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Indonesia eSIM vs. physikalische SIM: Was ist besser für Reisen?'
-  subtitle: Lokale Prepaid-SIMs in Indonesien vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: Indonesia eSIM vs. lokale Prepaid-SIM im direkten Vergleich
+  subtitle: Lokale Prepaid-SIMs in Indonesien vs. eSIM-Lösungen für Reisende
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Indonesia) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Indonesia
@@ -500,64 +505,66 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: 'Erwerb & Aktivierung: In Indonesien müssen Touristen für eine physische SIM-Karte zuerst am Zoll die IMEI
-      registrieren lassen, um die Signalblockade zu vermeiden, und dann zu einem offiziellen Shop wie Telkomsel GraPARI gehen,
-      um den Pass zu kopieren. Am Flughafen Bali werden SIM-Karten oft zum 4- bis 10-fachen des offiziellen Preises verkauft.'
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die langen Schlangen am Zoll und in Telkomsel-Shops. Mit Roami eSIM aktivieren Sie innerhalb von
-      1 Minute nach der Landung in Jakarta oder Bali – ohne IMEI-Registrierung oder Passkopie.
+    prepaid_desc: 'Erwerb & Aktivierung: In Indonesien müssen Touristen für eine physische SIM-Karte zuerst am Zoll
+      die IMEI registrieren lassen, um die Signalblockade zu vermeiden, und dann zu einem offiziellen Shop wie
+      Telkomsel GraPARI gehen, um den Pass zu kopieren. Am Flughafen Bali werden SIM-Karten oft zum 4- bis 10-fachen
+      des offiziellen Preises verkauft.'
+    esim_title: Vor der Abreise startklar
+    esim_desc: Umgehen Sie die langen Schlangen am Zoll und in Telkomsel-Shops. Mit Roami eSIM aktivieren Sie
+      innerhalb von 1 Minute nach der Landung in Jakarta oder Bali – ohne IMEI-Registrierung oder Passkopie.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: 'KYC & Realnamen-Registrierung: Ausländische Touristen müssen nicht nur ihren Pass für die SIM-Registrierung
-      vorlegen, sondern auch die IMEI-Steuer entrichten. Bei Straßenhändlern gekaufte SIM-Karten sind oft auf andere registriert
-      und riskieren eine Sperrung; zur Entsperrung ist ein persönlicher Besuch im offiziellen Shop mit Pass erforderlich.'
+    prepaid_desc: 'KYC & Realnamen-Registrierung: Ausländische Touristen müssen nicht nur ihren Pass für die
+      SIM-Registrierung vorlegen, sondern auch die IMEI-Steuer entrichten. Bei Straßenhändlern gekaufte SIM-Karten
+      sind oft auf andere registriert und riskieren eine Sperrung; zur Entsperrung ist ein persönlicher Besuch im
+      offiziellen Shop mit Pass erforderlich.'
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Während physische SIMs eine Passvorlage und IMEI-Steuer (40% auf Geräte über $500) erfordern, benötigt Roami
-      eSIM keine persönlichen Ausweise. Ihre Identität bleibt geschützt.
+    esim_desc: Während physische SIMs eine Passvorlage und IMEI-Steuer (40% auf Geräte über $500) erfordern, benötigt
+      Roami eSIM keine persönlichen Ausweise. Ihre Identität bleibt geschützt.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: 'Internationales Roaming: Indonesische Prepaid-Tarife enthalten fast ausschließlich Inlandsdaten. Bei Reisen
-      ins Ausland (z.B. Malaysia, Singapur) fallen hohe Roaming-Gebühren an; die verbleibenden Daten verfallen.'
+    prepaid_desc: 'Internationales Roaming: Indonesische Prepaid-Tarife enthalten fast ausschließlich Inlandsdaten.
+      Bei Reisen ins Ausland (z.B. Malaysia, Singapur) fallen hohe Roaming-Gebühren an; die verbleibenden Daten
+      verfallen.'
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Im Gegensatz zu Telkomsel oder Indosat, deren Tarife nur in Indonesien gelten, bietet Roami eSIM nahtloses
-      Roaming in Malaysia, Singapur und vielen anderen Ländern – ohne zusätzliche Kosten.
+    esim_desc: Im Gegensatz zu Telkomsel oder Indosat, deren Tarife nur in Indonesien gelten, bietet Roami eSIM
+      nahtloses Roaming in Malaysia, Singapur und vielen anderen Ländern – ohne zusätzliche Kosten.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: 'Abrechnungszeitraum & versunkene Kosten: Indosat TravelOn hat eine feste Laufzeit von 10 Tagen (Rp 100.000
-      für 15 GB), Telkomsel SimPATI 30 Tage (Rp 133.000 für 25 GB). Ein 5-tägiger Tourist, der Telkomsel kauft, verschwendet
-      über 80% des Tarifwerts.'
+    prepaid_desc: 'Abrechnungszeitraum & versunkene Kosten: Indosat TravelOn hat eine feste Laufzeit von 10 Tagen (Rp
+      100.000 für 15 GB), Telkomsel SimPATI 30 Tage (Rp 133.000 für 25 GB). Ein 5-tägiger Tourist, der Telkomsel
+      kauft, verschwendet über 80% des Tarifwerts.'
     esim_title: Flexible Tarife nach Bedarf
-    esim_desc: Während Indosat TravelOn nur 10-Tage-Pakete (Rp 100.000/15GB) und Telkomsel 30-Tage-Pakete (Rp 133.000/25GB)
-      anbietet, starten Roami eSIM-Tarife bei $1.99/GB für 7 Tage – keine Verschwendung für Kurzreisen.
+    esim_desc: Während Indosat TravelOn nur 10-Tage-Pakete (Rp 100.000/15GB) und Telkomsel 30-Tage-Pakete (Rp
+      133.000/25GB) anbietet, starten Roami eSIM-Tarife bei $2.99 für 7 Tage – keine Verschwendung für Kurzreisen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: 'Hotspot & Geschwindigkeitsrichtlinien: Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise
-      erlauben indonesische Anbieter Tethering, aber nach Verbrauch des Datenvolumens wird die Geschwindigkeit stark gedrosselt
-      (z.B. auf 128 kbps).'
+    prepaid_desc: 'Hotspot & Geschwindigkeitsrichtlinien: Typischerweise erlauben indonesische Anbieter Tethering,
+      aber nach Verbrauch des Datenvolumens wird die Geschwindigkeit stark gedrosselt (z.B. auf 128 kbps).'
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Roami eSIM erlaubt unbegrenztes Tethering ohne Geschwindigkeitsdrosselung. Im Gegensatz dazu drosseln indonesische
-      Anbieter nach Datenverbrauch auf 128 kbps oder verbieten Tethering ganz.
+    esim_desc: Roami eSIM erlaubt unbegrenztes Tethering ohne Geschwindigkeitsdrosselung. Im Gegensatz dazu drosseln
+      indonesische Anbieter nach Datenverbrauch auf 128 kbps oder verbieten Tethering ganz.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: 'Aufladung & Zahlung: In Convenience-Stores wie Indomaret oder Alfamart wird beim Kauf von Guthaben (Pulsa)
-      eine zusätzliche Gebühr von 2-5% erhoben. Offizielle Shops akzeptieren Bargeld oder lokale Debitkarten; internationale
-      Kreditkarten werden oft nicht akzeptiert.'
+    prepaid_desc: 'Aufladung & Zahlung: In Convenience-Stores wie Indomaret oder Alfamart wird beim Kauf von Guthaben
+      (Pulsa) eine zusätzliche Gebühr von 2-5% erhoben. Offizielle Shops akzeptieren Bargeld oder lokale Debitkarten;
+      internationale Kreditkarten werden oft nicht akzeptiert.'
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Zahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Bargeld- oder lokalen Karten
-      nötig. Vermeiden Sie die 2-5% Aufschläge in indonesischen Convenience-Stores.
+    esim_desc: Zahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Bargeld- oder lokalen
+      Karten nötig. Vermeiden Sie die 2-5% Aufschläge in indonesischen Convenience-Stores.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: 'Kundensupport: Der Kundensupport der indonesischen Anbieter ist meist nur auf Indonesisch verfügbar, per
-      Telefon oder in den offiziellen Shops. Es gibt keinen Live-Chat für Prepaid-Kunden.'
+    prepaid_desc: 'Kundensupport: Der Kundensupport der indonesischen Anbieter ist meist nur auf Indonesisch
+      verfügbar, per Telefon oder in den offiziellen Shops. Es gibt keinen Live-Chat für Prepaid-Kunden.'
     esim_title: 24/7 mehrsprachiger Support
-    esim_desc: Roami bietet rund um die Uhr Support auf Deutsch und Englisch per Live-Chat. Indonesische Anbieter haben nur
-      indonesischen Telefonsupport zu Bürozeiten.
+    esim_desc: Roami bietet rund um die Uhr Support auf Deutsch und Englisch per Live-Chat. Indonesische Anbieter
+      haben nur indonesischen Telefonsupport zu Bürozeiten.
   expert_verdict:
     title: 'Indonesia eSIM oder Prepaid-SIM-Karte: Ein direkter Vergleich'
     cards:
@@ -565,24 +572,26 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Flexible Laufzeiten statt fester Pakete
-      desc: Indosat TravelOn hat eine <b>feste 10-Tage-Laufzeit</b> (Rp 100.000/15GB), Telkomsel 30 Tage (Rp 133.000/25GB).
-        Ein 5-tägiger Tourist verschwendet <b>80% des Tarifwerts</b>. Roami bietet 7-Tage-Tarife ab $1.99/GB.
+      desc: Indosat TravelOn hat eine <b>feste 10-Tage-Laufzeit</b> (Rp 100.000/15GB), Telkomsel 30 Tage (Rp
+        133.000/25GB). Ein 5-tägiger Tourist verschwendet <b>80% des Tarifwerts</b>. Roami bietet 7-Tage-Tarife ab
+        $2.99.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Internationale Zahlung ohne Aufpreis
-      desc: In indonesischen Convenience-Stores wird beim Aufladen eine <b>2-5% Gebühr</b> erhoben. Roami akzeptiert <b>Visa,
-        Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b> – ohne versteckte Kosten.
+      desc: In indonesischen Convenience-Stores wird beim Aufladen eine <b>2-5% Gebühr</b> erhoben. Roami akzeptiert
+        <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b> – ohne versteckte Kosten.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
-      title: Bessere Netzabdeckung durch Multi-Netz
-      desc: Telkomsel deckt 98% der Inseln ab, ist aber in Städten langsam (Ø 19,86 Mbps). XL hat nur 90% Abdeckung. Roami
-        eSIM wählt automatisch das beste verfügbare Netz – <b>Telkomsel für ländliche Gebiete, XL für städtische Geschwindigkeit</b>.
+      title: Bessere Abdeckung durch mehrere Netze
+      desc: Telkomsel deckt 98% der Inseln ab, ist aber in Städten langsam (Ø 19,86 Mbps). XL hat nur 90% Abdeckung.
+        Roami eSIM wählt automatisch das beste verfügbare Netz – <b>Telkomsel für ländliche Gebiete, XL für städtische
+        Geschwindigkeit</b>.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofortige Aktivierung vor der Reise
-      desc: Physische SIMs erfordern einen Shop-Besuch nach der Landung – in Bali oft mit <b>4-10-fachem Aufpreis</b>. Roami
-        eSIM wird vor Abflug installiert und ist sofort nach der Landung aktiv.
+      desc: Physische SIMs erfordern einen Shop-Besuch nach der Landung – in Bali oft mit <b>4-10-fachem Aufpreis</b>.
+        Roami eSIM wird vor Abflug installiert und ist sofort nach der Landung aktiv.
 ---

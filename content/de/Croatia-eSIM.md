@@ -1,6 +1,6 @@
 ---
 title: 'Kroatien eSIM 2026: Kompletter Reiseführer | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     alle Regionen ab.
   keywords: Kroatien eSIM, Kroatien Reise eSIM, beste eSIM Kroatien, Kroatien Datentarif, T-Mobile Kroatien, A1 Kroatien,
     Telemach Kroatien, Zagreb eSIM, Split eSIM, Dubrovnik eSIM, Kroatien mobiles Internet, 5G Kroatien
+  low_price: 1.99
+  high_price: 76.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Kroatien eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Kroatien - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer Kroatien waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für Kroatien wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Kroatien-Anbietern für das stärkste Signal
-plans_title: 'Kroatien eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Kroatien eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 20GB
@@ -304,7 +306,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Kroatien, einschliesslich Zagreb, Split, Dubrovnik, Zadar. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Kroatien, einschließlich Zagreb, Split, Dubrovnik, Zadar. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von T-Mobile, A1, Telemach.
     - icon: zap
       color: text-amber-500
@@ -400,7 +402,8 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Kroatien am beliebtesten?
       a: |
-        Die meisten Reisenden nach Kroatien wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Kroatien wählen den 5GB/15 Tage Tarif ($8.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($11.99) oder den unbegrenzten Tarif ($9.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Was tun, wenn meine Kroatien eSIM bei der Ankunft nicht funktioniert?
       a: |
@@ -412,7 +415,8 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Kroatien?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($6.99), für zwei Wochen 10GB ($11.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Kroatien nutzen?
       a: |
@@ -420,9 +424,10 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Kroatien?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($6.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Weitere beliebte eSIM-Ziele
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -441,7 +446,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -484,9 +489,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Croatia eSIM vs. lokale Prepaid-SIM: Was ist bequemer?'
-  subtitle: Lokale Prepaid-SIMs in Kroatien vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Croatia eSIM vs. lokale Prepaid-SIM: Was vor Ort wirklich zählt'
+  subtitle: Lokale Prepaid-SIMs in Kroatien vs. eSIM-Lösungen ohne Vertragsbindung
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Croatia) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Croatia
@@ -498,55 +504,60 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Kauf in Tisak- oder iNovine-Kiosken, T-Centar- oder A1-Shops; für bonbon-Registrierungsbonus (5 GB) ist
-      Passfoto erforderlich.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie Kiosk-Schlangen in Zagreb. Aktivieren Sie online innerhalb von 1 Minute vor der Abreise – kein
-      physischer Kauf nötig.
+    prepaid_desc: Kauf in Tisak- oder iNovine-Kiosken, T-Centar- oder A1-Shops; für bonbon-Registrierungsbonus (5 GB)
+      ist Passfoto erforderlich.
+    esim_title: Bereit vor der Landung
+    esim_desc: Umgehen Sie Kiosk-Schlangen in Zagreb. Aktivieren Sie online innerhalb von 1 Minute vor der Abreise –
+      kein physischer Kauf nötig.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: SIM-Karten sind initial anonym, aber für Bonusdaten (z.B. 5 GB/30 Tage) ist eine Registrierung mit Pass
-      erforderlich.
+    prepaid_desc: SIM-Karten sind initial anonym, aber für Bonusdaten (z.B. 5 GB/30 Tage) ist eine Registrierung mit
+      Pass erforderlich.
     esim_title: Keine Passregistrierung
-    esim_desc: Kein Hochladen von Passfotos für Bonusdaten wie bei bonbon (5 GB). Roami eSIM benötigt keine KYC – sofort nutzbar.
+    esim_desc: Kein Hochladen von Passfotos für Bonusdaten wie bei bonbon (5 GB). Roami eSIM benötigt keine KYC –
+      sofort nutzbar.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: A1 und Telemach Tourist SIMs unterstützen KEIN internationales Roaming; Hrvatski Telekom DAN EU-Limit 1,6
-      GB, TJEDAN EU-Limit 2,8 GB; bonbon 50 GB Data EU-Limit 10,7 GB.
+    prepaid_desc: A1 und Telemach Tourist SIMs unterstützen KEIN internationales Roaming; Hrvatski Telekom DAN
+      EU-Limit 1,6 GB, TJEDAN EU-Limit 2,8 GB; bonbon 50 GB Data EU-Limit 10,7 GB.
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Im Gegensatz zu A1 und Telemach (kein EU-Roaming) oder Hrvatski Telekom (DAN EU-Limit 1,6 GB) bietet Roami
-      eSIM nahtloses Roaming in ganz Europa ohne FUP-Drosselung.
+    esim_desc: Im Gegensatz zu A1 und Telemach (kein EU-Roaming) oder Hrvatski Telekom (DAN EU-Limit 1,6 GB) bietet
+      Roami eSIM nahtloses Roaming in ganz Europa ohne FUP-Drosselung.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Hrvatski Telekom bietet 24h (1,49 €), 7 Tage (9,99 €), 30 Tage (11,95 €), 90 Tage (20 €); A1 3 Tage (5,90
-      €), 10 Tage (7,90 €), 30 Tage (29 €); Telemach 10 Tage (10,62 €); bonbon 7 Tage (2,65 €/2 GB), 30 Tage (3,98 €/2 GB).
+    prepaid_desc: Hrvatski Telekom bietet 24h (1,49 €), 7 Tage (9,99 €), 30 Tage (11,95 €), 90 Tage (20 €); A1 3 Tage
+      (5,90 €), 10 Tage (7,90 €), 30 Tage (29 €); Telemach 10 Tage (10,62 €); bonbon 7 Tage (2,65 €/2 GB), 30 Tage
+      (3,98 €/2 GB).
     esim_title: Flexible Tarife nach Tagen
-    esim_desc: Statt 10-Tage-Zyklen (A1 7,90 €) oder 30-Tage-Zyklen (Hrvatski Telekom 11,95 €) bietet Roami 7-Tage-Tarife
-      ab $1.99/GB – sparen Sie bis zu 75% Verschwendung.
+    esim_desc: Statt 10-Tage-Zyklen (A1 7,90 €) oder 30-Tage-Zyklen (Hrvatski Telekom 11,95 €) bietet Roami
+      7-Tage-Tarife ab $2.99 – sparen Sie bis zu 75% Verschwendung.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: Bei Hrvatski Telekom, A1 und Tele2 hängt die Hotspot-Freigabe vom jeweiligen Paket ab; einzelne
+      Tarife schließen Tethering aus.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Keine versteckten Hotspot-Beschränkungen wie bei manchen lokalen Anbietern. Teilen Sie Ihr Datenvolumen mit
-      allen Geräten.
+    esim_desc: Keine versteckten Hotspot-Beschränkungen wie bei manchen lokalen Anbietern. Teilen Sie Ihr Datenvolumen
+      mit allen Geräten.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: Guthaben lässt sich bei den kroatischen Anbietern per App oder über Karten an Kiosken aufladen;
+      ausländische Karten werden nicht überall akzeptiert.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Zahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Ablehnung ausländischer Karten
-      wie bei lokalen Aufladestellen.
+    esim_desc: Zahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – keine Ablehnung
+      ausländischer Karten wie bei lokalen Aufladestellen.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: Die Kundenbetreuung der lokalen Anbieter läuft überwiegend auf Kroatisch; englischsprachige Hilfe
+      ist vor allem in den Stadtfilialen zu bekommen.
     esim_title: 24/7 Kundensupport
-    esim_desc: Mehrsprachiger Support rund um die Uhr, im Gegensatz zu lokalen Anbietern mit eingeschränkten Öffnungszeiten
-      (z.B. nur Mo-Fr 9-17 Uhr).
+    esim_desc: Mehrsprachiger Support rund um die Uhr, im Gegensatz zu lokalen Anbietern mit eingeschränkten
+      Öffnungszeiten (z.B. nur Mo-Fr 9-17 Uhr).
   expert_verdict:
     title: 'Croatia eSIM vs. Prepaid-SIM: Welche ist die intelligenter Wahl für stressfreie Konnektivität?'
     cards:
@@ -554,24 +565,24 @@ market_analysis:
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofortige Aktivierung vor der Reise
-      desc: Kein Suchen nach Tisak-Kiosken am Flughafen Zagreb. Roami eSIM wird vor Abflug per E-Mail geliefert und in 1 Minute
-        aktiviert.
+      desc: Kein Suchen nach Tisak-Kiosken am Flughafen Zagreb. Roami eSIM wird vor Abflug per E-Mail geliefert und in
+        1 Minute aktiviert.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
-      title: Internationale Zahlungen akzeptiert
-      desc: Lokale Aufladestellen akzeptieren oft nur kroatische Zahlungsmethoden. Roami akzeptiert <b>Visa, Mastercard, AMEX,
-        Apple Pay, Google Pay, PayPal</b> – weltweit einsetzbar.
+      title: Zahlung ohne lokales Guthaben
+      desc: Lokale Aufladestellen akzeptieren oft nur kroatische Zahlungsmethoden. Roami akzeptiert <b>Visa,
+        Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b> – weltweit einsetzbar.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Vermeiden Sie Roaming-Fallen
-      desc: <b>A1</b> und <b>Telemach</b> Tourist SIMs unterstützen KEIN EU-Roaming. Selbst <b>Hrvatski Telekom</b> drosselt
-        EU-Daten auf 1,6 GB (DAN) oder 2,8 GB (TJEDAN). Roami eSIM bietet volles Roaming ohne FUP.
+      desc: <b>A1</b> und <b>Telemach</b> Tourist SIMs unterstützen KEIN EU-Roaming. Selbst <b>Hrvatski Telekom</b>
+        drosselt EU-Daten auf 1,6 GB (DAN) oder 2,8 GB (TJEDAN). Roami eSIM bietet volles Roaming ohne FUP.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Multinationale Konnektivität ohne Unterbrechung
-      desc: Reisen Sie von Dubrovnik nach Mostar (Bosnien)? <b>A1</b> und <b>Telemach</b> SIMs brechen die Verbindung ab.
-        Roami eSIM funktioniert in Kroatien und Nachbarländern nahtlos.
+      desc: Reisen Sie von Dubrovnik nach Mostar (Bosnien)? <b>A1</b> und <b>Telemach</b> SIMs brechen die Verbindung
+        ab. Roami eSIM funktioniert in Kroatien und Nachbarländern nahtlos.
 ---

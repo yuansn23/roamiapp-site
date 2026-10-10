@@ -1,6 +1,6 @@
 ---
 title: 'Brunei eSIM 2026: Abdeckung & Geschwindigkeit | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,13 +19,12 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     dem Code: web20'
 seo:
-  title: Brunei eSIM | Unbegrenztes Datenvolumen für unterwegs
-  description: Sie möchten eine eSIM für Brunei? Roami liefert den Code direkt per Email, ohne Versandkosten. Deckt alle Regionen
-    ab.
+  title: Brunei eSIM | 5G-Daten für Bandar Seri Begawan
+  description: Vergleichen Sie Brunei eSIM Tarife mit 5G in Bandar Seri Begawan, Kuala Belait. DST & Progresif Abdeckungsguide. QR-Aktivierung ab $9.99.
   keywords: Brunei eSIM, Brunei Reise eSIM, beste eSIM Brunei, Brunei Datentarif, DST Brunei, Progresif Brunei, UNN Brunei,
     Bandar Seri Begawan eSIM, Kuala Belait eSIM, Seria eSIM, Brunei mobiles Internet, 5G Brunei
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 9.99
+  high_price: 99.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -48,7 +47,7 @@ hero:
   title: 'Brunei eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Brunei - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer Brunei waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für Brunei wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -74,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Wechsel
     desc: Auto-Verbindung zu den besten Brunei-Anbietern für das stärkste Signal
-plans_title: 'Brunei eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Brunei eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -136,7 +135,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Brunei, einschliesslich Bandar Seri Begawan, Kuala Belait, Seria,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Brunei, einschließlich Bandar Seri Begawan, Kuala Belait, Seria,
         Tutong. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von DST, Progresif, UNN.
     - icon: zap
       color: text-amber-500
@@ -200,7 +199,7 @@ activation_steps:
     desc: Aktivieren Sie nach der Landung in Brunei die eSIM in den Einstellungen. Wir empfehlen WLAN für die erste Aktivierung.
     is_list: false
 faq_section:
-  title: "eSIM in Brunei -- Ist die Verbindung fuer Touristen schnell genug?"
+  title: "eSIM in Brunei -- Ist die Verbindung für Touristen schnell genug?"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Brunei. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -211,11 +210,13 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Brunei am beliebtesten?
       a: |
-        Die meisten Reisenden nach Brunei wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Brunei wählen den 5GB/15 Tage Tarif ($30.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($9.99) oder den unbegrenzten Tarif ($9.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Brunei eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Brunei mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Brunei mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $26.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Was tun, wenn meine Brunei eSIM bei der Ankunft nicht funktioniert?
       a: |
@@ -231,7 +232,8 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Brunei?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($30.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Brunei speichern?
       a: |
@@ -241,4 +243,153 @@ faq_section:
       a: |
         Ja — alle datenbasierten Apps funktionieren ohne Einschränkungen. Ein 5GB Tarif reicht für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Ein 30-minütiges Zoom-Meeting verbraucht etwa 150-300MB. DSTs Netz in Brunei liefert stabile Verbindungen für Videoanrufe.
 related_products:
+  title: Passende eSIM-Tarife für Ihre Reise
+  items:
+  - name: Vereinigte Staaten eSIM
+    flag: img/flags/us.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: Vereinigtes Königreich eSIM
+    flag: img/flags/gb.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: united-kingdom-esim
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Ab 1,99 $
+    is_highlight: true
+    slug: europe-esim
+  - name: Kanada eSIM
+    flag: img/flags/ca.svg
+    price: Ab 3,99 $
+    is_highlight: false
+    slug: canada-esim
+  - name: Türkei eSIM
+    flag: img/flags/tr.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: turkey-esim
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: japan-esim
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: Frankreich eSIM
+    flag: img/flags/fr.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: france-esim
+  - name: Spanien eSIM
+    flag: img/flags/es.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: spain-esim
+  - name: Deutschland eSIM
+    flag: img/flags/de.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: germany-esim
+  - name: Australien eSIM
+    flag: img/flags/au.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: australia-esim
+market_analysis:
+  title: 'Brunei eSIM oder DST-Karte: Der Vergleich für den Kurzaufenthalt'
+  subtitle: Drei kleine Netze, Passpflicht am Tresen und die Nähe zu Malaysia als eigener Tariffall
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Brunei) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Brunei
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Brunei eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: DST, Progresif und Imagine verkaufen ihre Karten im Hauptstadtdistrikt und am Flughafen Bandar Seri
+      Begawan; außerhalb des Ballungsraums ist das Angebot dünn.
+    esim_title: Freigeschaltet bei der Ankunft
+    esim_desc: Die eSIM wird vorab installiert und ist bei der Landung in Bandar Seri Begawan sofort einsatzbereit.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Für die Aktivierung verlangen alle drei Anbieter den Reisepass und eine Registrierung der Rufnummer
+      auf den Nutzer.
+    esim_title: Kein Pass im Ladengeschäft
+    esim_desc: Roami benötigt weder Ausweiskopie noch Adressnachweis und schaltet rein digital frei.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Brunei liegt außerhalb der EU-Roamingzone. Die Inlandstarife enden an der Grenze zum malaysischen
+      Sarawak, das per Brücke und Boot erreichbar ist; ein regionaler Tarifverbund fehlt.
+    esim_title: Borneo am Stück
+    esim_desc: Für die Route Bandar Seri Begawan und Kota Kinabalu bleibt ein Datenpaket gebucht, ohne zweite Karte in
+      Malaysia.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die Prepaid-Pakete laufen überwiegend im Monatsraster; für einen Aufenthalt von wenigen Tagen
+      verfällt der Großteil des bezahlten Volumens.
+    esim_title: Kurzfristig statt monatlich
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 7-Tage-Einstieg liegt bei $9.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Brunei ist klein und dicht versorgt; 4G läuft in allen Distrikten, in ländlichen Teilen von
+      Temburong und Belait fällt die Geschwindigkeit jedoch ab.
+    esim_title: Tethering an der Küste
+    esim_desc: Hotspot-Nutzung ist bei Roami ohne Zusatzgebühr möglich, auch wenn nur ein schwaches Netz anliegt.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über Karten und Terminals vor Ort; abgerechnet wird in Brunei-Dollar, der eins zu
+      eins an den Singapur-Dollar gekoppelt ist.
+    esim_title: Ohne Brunei-Dollar
+    esim_desc: Bezahlt wird in US-Dollar über Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – kein Bargeld
+      nötig.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Der Kundendienst ist auf Malaiisch und Englisch erreichbar; die Filialen konzentrieren sich auf den
+      Hauptstadtdistrikt.
+    esim_title: Durchgehend erreichbar
+    esim_desc: Der Kundendienst ist mehrsprachig und über Chat und E-Mail jederzeit erreichbar.
+  expert_verdict:
+    title: 'Brunei: vier Gründe, die für die eSIM sprechen'
+    cards:
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Sarawak ohne Neukauf
+      desc: Brunei und Malaysia haben keine gemeinsame Roamingzone. Für Kota Kinabalu braucht die lokale Karte eine
+        Ergänzung.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Monatsraster meiden
+      desc: Lokale Prepaid-Pakete laufen einen Monat. Bei drei Tagen Aufenthalt bleibt das meiste Volumen liegen.
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Kein Registrierungsaufwand
+      desc: Alle drei Anbieter erfassen den Reisepass. Bei Roami entfällt <b>jeder Ausweis- und Adressnachweis</b>.
+    - icon: store
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Läden nur im Zentrum
+      desc: DST, Progresif und Imagine sind im Hauptstadtdistrikt vertreten. Die eSIM startet ab <b>$9.99 für 7
+        Tage</b>.
 ---

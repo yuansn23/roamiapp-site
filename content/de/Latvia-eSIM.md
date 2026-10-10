@@ -1,6 +1,6 @@
 ---
 title: 'Lettland eSIM 2026: Verbindung & Geschwindigkeit | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -24,6 +24,8 @@ seo:
     Deckt alle Regionen ab.
   keywords: Lettland eSIM, Lettland Reise eSIM, beste eSIM Lettland, Lettland Datentarif, LMT Lettland, Tele2 Lettland, Bite
     Lettland, Riga eSIM, Daugavpils eSIM, Liepāja eSIM, Lettland mobiles Internet, 5G Lettland
+  low_price: 1.99
+  high_price: 77.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -46,7 +48,7 @@ hero:
   title: 'Lettland eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Lettland
 features:
-  title: 'Warum Reisende Roami fuer Lettland waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Lettland wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +74,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Lettland-Anbietern für das stärkste Signal
-plans_title: 'Lettland eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Lettland eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 20GB
@@ -305,7 +307,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Lettland, einschliesslich Riga, Daugavpils, Liepāja, Jūrmala. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Lettland, einschließlich Riga, Daugavpils, Liepāja, Jūrmala. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von LMT, Tele2, Bite.
     - icon: zap
       color: text-amber-500
@@ -397,15 +399,18 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Lettland eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Lettland mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Lettland mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $77.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Lettland?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($6.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Lettland?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($6.99), für zwei Wochen 10GB ($11.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Lettland eSIM eine Bestätigung?
       a: |
@@ -421,9 +426,9 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Lettland akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -442,7 +447,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -485,9 +490,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Latvia eSIM vs. Prepaid-SIM: Welches bietet besseres Preis-Leistungs-Verhältnis?'
-  subtitle: Lokale Prepaid-SIMs in Lettland vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Latvia eSIM vs. lokale Prepaid-SIM: Was vor Ort wirklich zählt'
+  subtitle: Lokale Prepaid-SIMs in Lettland vs. eSIM-Lösungen im Praxistest
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Latvia) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Latvia
@@ -500,57 +506,54 @@ market_analysis:
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
     prepaid_desc: LMT官网不卖低价1.5欧SIM卡，需去实体店找货；ZZ实体卡价差大(1.49-3.99欧)。LMT的实体卡转eSIM必须亲临服务中心。
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die Suche nach physischen SIM-Karten in lettischen Geschäften. Aktivieren Sie Ihre eSIM online
-      innerhalb von 1 Minute nach der Landung in Riga.
+    esim_title: Bereit vom ersten Moment an
+    esim_desc: Umgehen Sie die Suche nach physischen SIM-Karten in lettischen Geschäften. Aktivieren Sie Ihre eSIM
+      online innerhalb von 1 Minute nach der Landung in Riga.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise ist in Lettland für Prepaid-SIMs
-      keine Passregistrierung erforderlich, aber einige Anbieter verlangen eine Identifikation beim Kauf.
+    prepaid_desc: Typischerweise ist in Lettland für Prepaid-SIMs keine Passregistrierung erforderlich, aber einige
+      Anbieter verlangen eine Identifikation beim Kauf.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Während lokale SIMs manchmal eine Identifikation erfordern, benötigt Roami eSIM keinen Ausweis – sofortige
-      Aktivierung ohne Bürokratie.
+    esim_desc: Während lokale SIMs manchmal eine Identifikation erfordern, benötigt Roami eSIM keinen Ausweis –
+      sofortige Aktivierung ohne Bürokratie.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: 'LMT: €3.50 7-Tage-Unlimited-Paket hat nur 3.2GB EU-Roaming; ZZ: €2.49 7-Tage-Paket sperrt EU-Roaming komplett;
-      Bite: nur 100MB EU-Roaming im €6.75-Paket.'
-    esim_title: Weltweites Roaming ohne Einschränkungen
-    esim_desc: Im Gegensatz zu LMT (nur 3.2GB EU-Roaming im €3.50-Paket) oder ZZ (kein EU-Roaming) bietet Roami eSIM nahtloses
-      Roaming in ganz Europa zu gleichen Preisen.
+    prepaid_desc: 'LMT: €3.50 7-Tage-Unlimited-Paket hat nur 3.2GB EU-Roaming; ZZ: €2.49 7-Tage-Paket sperrt
+      EU-Roaming komplett; Bite: nur 100MB EU-Roaming im €6.75-Paket.'
+    esim_title: Mehrere Länder, ein Tarif
+    esim_desc: Im Gegensatz zu LMT (nur 3.2GB EU-Roaming im €3.50-Paket) oder ZZ (kein EU-Roaming) bietet Roami eSIM
+      nahtloses Roaming in ganz Europa zu gleichen Preisen.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: 'LMT: 7-Tage-Zyklen (€3.50), automatische Verlängerung; ZZ: 7-Tage-Pakete (€2.49) nur in Lettland; Bite:
-      30-Tage-Paket (€6.75). Kurzzeitige Nutzer verschwenden ungenutzte Tage.'
+    prepaid_desc: 'LMT: 7-Tage-Zyklen (€3.50), automatische Verlängerung; ZZ: 7-Tage-Pakete (€2.49) nur in Lettland;
+      Bite: 30-Tage-Paket (€6.75). Kurzzeitige Nutzer verschwenden ungenutzte Tage.'
     esim_title: Flexible Tarife für Kurzreisen
-    esim_desc: Vermeiden Sie die 7-Tage-Zyklen von LMT (€3.50) oder ZZ (€2.49). Roami bietet 7-Tage-Datentarife ab $1.99/GB
-      – perfekt für einen Wochenendtrip nach Riga.
+    esim_desc: Vermeiden Sie die 7-Tage-Zyklen von LMT (€3.50) oder ZZ (€2.49). Roami bietet 7-Tage-Datentarife ab
+      $2.99 – perfekt für einen Wochenendtrip nach Riga.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension. In Lettland erlauben die meisten Anbieter Tethering,
-      aber mit Fair-Use-Limits.
+    prepaid_desc: In Lettland erlauben die meisten Anbieter Tethering, aber mit Fair-Use-Limits.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während lokale Anbieter Tethering oft drosseln, erlaubt Roami eSIM uneingeschränktes Hotspot-Sharing – ideal
-      für Geschäftsreisende.
+    esim_desc: Während lokale Anbieter Tethering oft drosseln, erlaubt Roami eSIM uneingeschränktes Hotspot-Sharing –
+      ideal für Geschäftsreisende.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Typische Zahlungsmethoden: Bargeld, Visa, Mastercard,
-      PayPal.'
+    prepaid_desc: 'Typische Zahlungsmethoden: Bargeld, Visa, Mastercard, PayPal.'
     esim_title: Weltweite Zahlung ohne Hürden
-    esim_desc: Zahlen Sie mit Visa, Mastercard, Apple Pay, Google Pay oder PayPal. Keine komplizierten Aufladecodes oder Bargeld
-      nötig.
+    esim_desc: Zahlen Sie mit Visa, Mastercard, Apple Pay, Google Pay oder PayPal. Keine komplizierten Aufladecodes
+      oder Bargeld nötig.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension. Kundensupport ist meist auf Lettisch und Russisch,
-      Englisch nur eingeschränkt.
+    prepaid_desc: Kundensupport ist meist auf Lettisch und Russisch, Englisch nur eingeschränkt.
     esim_title: 24/7 Kundensupport auf Englisch
-    esim_desc: Während lokale Anbieter nur lettischen oder russischen Support bieten, steht Roami eSIM mit 24/7 englischsprachigem
-      Support zur Seite.
+    esim_desc: Während lokale Anbieter nur lettischen oder russischen Support bieten, steht Roami eSIM mit 24/7
+      englischsprachigem Support zur Seite.
   expert_verdict:
     title: 'Latvia eSIM oder Prepaid-SIM-Karte: Ein direkter Vergleich – Intelligenter reisen und Geld sparen'
     cards:
@@ -558,24 +561,24 @@ market_analysis:
       icon_bg: bg-teal-100
       icon_color: text-teal-600
       title: Keine automatischen Verlängerungen
-      desc: LMTs 7-Tage-Paket verlängert sich automatisch (€3.50/Woche), wenn Sie nicht 'STOP' per SMS senden. Roami eSIM
-        ist ein einmaliger Kauf – keine versteckten Kosten.
+      desc: LMTs 7-Tage-Paket verlängert sich automatisch (€3.50/Woche), wenn Sie nicht 'STOP' per SMS senden. Roami
+        eSIM ist ein einmaliger Kauf – keine versteckten Kosten.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Keine verschwendeten Tage mehr
-      desc: LMTs 7-Tage-Zyklus (€3.50) und ZZs 7-Tage-Paket (€2.49) zwingen Sie, für ungenutzte Tage zu zahlen. Ein 2-tägiger
-        Tourist verschwendet über 70% des Tarifwerts. Roami bietet 7-Tage-Tarife ab $1.99/GB.
+      desc: LMTs 7-Tage-Zyklus (€3.50) und ZZs 7-Tage-Paket (€2.49) zwingen Sie, für ungenutzte Tage zu zahlen. Ein
+        2-tägiger Tourist verschwendet über 70% des Tarifwerts. Roami bietet 7-Tage-Tarife ab $2.99.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofortige Aktivierung nach Landung
-      desc: LMT verlangt einen Besuch im Service-Center, um eine physische SIM in eSIM umzuwandeln. Roami eSIM wird per QR-Code
-        geliefert – aktivieren Sie sie noch am Flughafen Riga.
+      desc: LMT verlangt einen Besuch im Service-Center, um eine physische SIM in eSIM umzuwandeln. Roami eSIM wird
+        per QR-Code geliefert – aktivieren Sie sie noch am Flughafen Riga.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Nahtloses Roaming in ganz Europa
-      desc: Während ZZs Daten-SIM <b>kein internationales Roaming</b> unterstützt und LMTs EU-Daten auf 2.61GB (10GB-Paket)
-        begrenzt, bietet Roami eSIM durchgehende Konnektivität in Lettland, Estland und Litauen.
+      desc: Während ZZs Daten-SIM <b>kein internationales Roaming</b> unterstützt und LMTs EU-Daten auf 2.61GB
+        (10GB-Paket) begrenzt, bietet Roami eSIM durchgehende Konnektivität in Lettland, Estland und Litauen.
 ---

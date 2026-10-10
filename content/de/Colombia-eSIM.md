@@ -1,6 +1,6 @@
 ---
 title: 'Kolumbien eSIM 2026: Verbindung & Geschwindigkeit | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     ab.
   keywords: Kolumbien eSIM, Kolumbien Reise eSIM, beste eSIM Kolumbien, Kolumbien Datentarif, Claro Kolumbien, Movistar Kolumbien,
     Tigo Kolumbien, Bogotá eSIM, Medellín eSIM, Cali eSIM, Kolumbien mobiles Internet, 5G Kolumbien
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Kolumbien eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Kolumbien
 features:
-  title: 'Warum Reisende Roami fuer Kolumbien waehlen: Netzwerk, Tarife & Preiswert'
+  title: 'Warum Reisende Roami für Kolumbien wählen: Netzwerk, Tarife & Preiswert'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Kolumbien-Anbietern für das stärkste Signal
-plans_title: 'Kolumbien eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Kolumbien eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -264,7 +266,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Kolumbien, einschliesslich Bogotá, Medellín, Cali, Cartagena. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Kolumbien, einschließlich Bogotá, Medellín, Cali, Cartagena. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von Claro, Movistar, Tigo.
     - icon: zap
       color: text-amber-500
@@ -342,7 +344,7 @@ activation_steps:
       Geräte einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "Wie stark ist das eSIM Signal in Colombia? Ein ausfuehrlicher Erfahrungsbericht"
+  title: "Wie stark ist das eSIM Signal in Colombia? Ein ausführlicher Erfahrungsbericht"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Colombia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -357,7 +359,8 @@ faq_section:
     - q: |
         Ist eine eSIM für Kolumbien günstiger als eine SIM-Karte am Flughafen?
       a: |
-        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $1.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $6.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+
     - q: |
         Woran erkenne ich, ob mein Handy eSIM in Kolumbien unterstützt?
       a: |
@@ -373,7 +376,8 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Kolumbien?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($14.99), für zwei Wochen 10GB ($21.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Kolumbien speichern?
       a: |
@@ -381,7 +385,8 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Kolumbien am beliebtesten?
       a: |
-        Die meisten Reisenden nach Kolumbien wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Kolumbien wählen den 5GB/15 Tage Tarif ($17.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($21.99) oder den unbegrenzten Tarif ($52.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
@@ -402,7 +407,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -445,9 +450,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Colombia eSIM vs. physische SIM: Reisen, Kosten und Einrichtung im Vergleich'
-  subtitle: Lokale Prepaid-SIMs in Kolumbien vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Colombia eSIM vs. lokale Prepaid-SIM: Ein realistischer Blick'
+  subtitle: Lokale Prepaid-SIMs in Kolumbien vs. eSIM-Lösungen im direkten Vergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Colombia) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Colombia
@@ -459,84 +465,85 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Claro-SIM-Karten sind am Flughafen Bogotá erhältlich, jedoch zu einem höheren Preis als in den Geschäften
-      der Stadt. Der Kauf erfordert einen Ausweis und einen Adressnachweis (z. B. Hoteladresse).
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die Warteschlangen am Flughafen Bogotá und die höheren Preise von Claro. Aktivieren Sie Ihre Roami
-      eSIM online innerhalb von 1 Minute nach der Landung in Kolumbien.
+    prepaid_desc: Claro-SIM-Karten sind am Flughafen Bogotá erhältlich, jedoch zu einem höheren Preis als in den
+      Geschäften der Stadt. Der Kauf erfordert einen Ausweis und einen Adressnachweis (z. B. Hoteladresse).
+    esim_title: Vor der Abreise startklar
+    esim_desc: Umgehen Sie die Warteschlangen am Flughafen Bogotá und die höheren Preise von Claro. Aktivieren Sie
+      Ihre Roami eSIM online innerhalb von 1 Minute nach der Landung in Kolumbien.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Alle großen Anbieter (Claro, Movistar, Tigo, WOM) verlangen eine IMEI-Registrierung innerhalb von 30 Tagen,
-      sonst wird das Handy gesperrt. Die Registrierung erfolgt über spanischsprachige Webseiten oder Kundendienst.
+    prepaid_desc: Alle großen Anbieter (Claro, Movistar, Tigo, WOM) verlangen eine IMEI-Registrierung innerhalb von 30
+      Tagen, sonst wird das Handy gesperrt. Die Registrierung erfolgt über spanischsprachige Webseiten oder
+      Kundendienst.
     esim_title: Keine IMEI-Registrierung nötig
-    esim_desc: Vermeiden Sie die komplizierte IMEI-Registrierung bei Claro, Movistar, Tigo oder WOM. Mit Roami eSIM entfällt
-      der Zwang, Ihr Gerät innerhalb von 30 Tagen über spanischsprachige Kanäle zu registrieren.
+    esim_desc: Vermeiden Sie die komplizierte IMEI-Registrierung bei Claro, Movistar, Tigo oder WOM. Mit Roami eSIM
+      entfällt der Zwang, Ihr Gerät innerhalb von 30 Tagen über spanischsprachige Kanäle zu registrieren.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Die CAN-Roaming-Vorteile (Bolivien, Kolumbien, Ecuador, Peru) gelten nur für Postpaid-Kunden, nicht für
-      Prepaid. Prepaid-Kunden zahlen hohe Roaming-Gebühren außerhalb Kolumbiens.
-    esim_title: Weltweites Roaming ohne Aufpreis
-    esim_desc: Im Gegensatz zu kolumbianischen Prepaid-Karten, die keine CAN-Roaming-Vorteile für Prepaid bieten, ermöglicht
-      Roami eSIM nahtloses Roaming in mehreren Ländern zu transparenten Preisen.
+    prepaid_desc: Die CAN-Roaming-Vorteile (Bolivien, Kolumbien, Ecuador, Peru) gelten nur für Postpaid-Kunden, nicht
+      für Prepaid. Prepaid-Kunden zahlen hohe Roaming-Gebühren außerhalb Kolumbiens.
+    esim_title: Ein Paket für die ganze Strecke
+    esim_desc: Im Gegensatz zu kolumbianischen Prepaid-Karten, die keine CAN-Roaming-Vorteile für Prepaid bieten,
+      ermöglicht Roami eSIM nahtloses Roaming in mehreren Ländern zu transparenten Preisen.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: 'Die meisten Prepaid-Tarife haben feste Laufzeiten von 7, 15 oder 30 Tagen. Beispiel: Claro 7-Tage-Tarif
-      mit 5 GB für COP 11.000 – bei einem 5-tägigen Aufenthalt werden 2 Tage verschwendet.'
+    prepaid_desc: 'Die meisten Prepaid-Tarife haben feste Laufzeiten von 7, 15 oder 30 Tagen. Beispiel: Claro
+      7-Tage-Tarif mit 5 GB für COP 11.000 – bei einem 5-tägigen Aufenthalt werden 2 Tage verschwendet.'
     esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Während Claro 7-Tage-Tarife (z. B. 5 GB für COP 11.000) feste Laufzeiten haben, bietet Roami 7-Tage-Datentarife
-      ab $1.99/GB. Bei einem 5-tägigen Aufenthalt sparen Sie 75 % Verschwendung.
+    esim_desc: Während Claro 7-Tage-Tarife (z. B. 5 GB für COP 11.000) feste Laufzeiten haben, bietet Roami
+      7-Tage-Datentarife ab $6.99. Bei einem 5-tägigen Aufenthalt sparen Sie 75 % Verschwendung.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Basierend auf Marktkenntnissen: Die meisten
-      kolumbianischen Anbieter erlauben Tethering, aber WOM schließt VoIP in WhatsApp aus.'
+    prepaid_desc: Die meisten kolumbianischen Anbieter erlauben Tethering, aber WOM schließt VoIP in WhatsApp aus.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Anders als WOM, das VoIP in WhatsApp ausschließt, erlaubt Roami eSIM uneingeschränktes Tethering und Hotspot-Nutzung
-      ohne zusätzliche Kosten.
+    esim_desc: Anders als WOM, das VoIP in WhatsApp ausschließt, erlaubt Roami eSIM uneingeschränktes Tethering und
+      Hotspot-Nutzung ohne zusätzliche Kosten.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Aufladungen erfolgen meist mit Bargeld an Kiosken oder über lokale Zahlungsmethoden. Internationale Kreditkarten
-      werden oft nicht akzeptiert.
+    prepaid_desc: Aufladungen erfolgen meist mit Bargeld an Kiosken oder über lokale Zahlungsmethoden. Internationale
+      Kreditkarten werden oft nicht akzeptiert.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Während lokale Aufladungen oft Bargeld oder lokale Methoden erfordern, akzeptiert Roami eSIM Visa, Mastercard,
-      AMEX, Apple Pay, Google Pay und PayPal.
+    esim_desc: Während lokale Aufladungen oft Bargeld oder lokale Methoden erfordern, akzeptiert Roami eSIM Visa,
+      Mastercard, AMEX, Apple Pay, Google Pay und PayPal.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Kundensupport ist überwiegend auf Spanisch, z. B. Claro-Hotline *611 oder Tigo *300. Englischsprachiger
-      Support ist kaum verfügbar.
+    prepaid_desc: Kundensupport ist überwiegend auf Spanisch, z. B. Claro-Hotline *611 oder Tigo *300.
+      Englischsprachiger Support ist kaum verfügbar.
     esim_title: 24/7 Support auf Deutsch
-    esim_desc: Im Gegensatz zum spanischsprachigen Support von Claro (*611) oder Tigo (*300) bietet Roami eSIM rund um die
-      Uhr Kundendienst auf Deutsch und Englisch.
+    esim_desc: Im Gegensatz zum spanischsprachigen Support von Claro (*611) oder Tigo (*300) bietet Roami eSIM rund um
+      die Uhr Kundendienst auf Deutsch und Englisch.
   expert_verdict:
-    title: 'Colombia eSIM vs. Prepaid-SIM: Welches bietet besseres Preis-Leistungs-Verhältnis?'
+    title: 'Colombia eSIM vs. lokale Prepaid-SIM: Der Nutzen im Alltag'
     cards:
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofortige Aktivierung ohne Verzögerung
-      desc: Der Kauf einer Claro-SIM am Flughafen Bogotá ist teurer und erfordert Ausweis und Adressnachweis. Roami eSIM wird
-        innerhalb von 1 Minute nach Zahlung aktiviert – keine Wartezeit.
+      desc: Der Kauf einer Claro-SIM am Flughafen Bogotá ist teurer und erfordert Ausweis und Adressnachweis. Roami
+        eSIM wird innerhalb von 1 Minute nach Zahlung aktiviert – keine Wartezeit.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Bessere Netzabdeckung als lokale SIMs
-      desc: In abgelegenen Gebieten wie Cabo de la Vela hat nur Claro Netz. Movistar und Tigo haben dort kein Signal. Roami
-        eSIM nutzt das beste verfügbare Netz, z. B. Claro, und bietet so zuverlässige Konnektivität.
+      desc: In abgelegenen Gebieten wie Cabo de la Vela hat nur Claro Netz. Movistar und Tigo haben dort kein Signal.
+        Roami eSIM nutzt das beste verfügbare Netz, z. B. Claro, und bietet so zuverlässige Konnektivität.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Keine verschwendeten Tage durch feste Laufzeiten
-      desc: Claro 7-Tage-Tarif (5 GB für COP 11.000) und Movistar 7-Tage-Tarif (1,4 GB für COP 13.900) zwingen Sie, für ungenutzte
-        Tage zu zahlen. Roami eSIM bietet flexible 7-Tage-Tarife ab $1.99/GB – nur für die tatsächliche Nutzung.
+      desc: Claro 7-Tage-Tarif (5 GB für COP 11.000) und Movistar 7-Tage-Tarif (1,4 GB für COP 13.900) zwingen Sie,
+        für ungenutzte Tage zu zahlen. Roami eSIM bietet flexible 7-Tage-Tarife ab $6.99 – nur für die tatsächliche
+        Nutzung.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Internationale Zahlungsmethoden akzeptiert
-      desc: Lokale Aufladungen erfordern oft Bargeld oder lokale Zahlungsmittel. Roami eSIM akzeptiert Visa, Mastercard, AMEX,
-        Apple Pay, Google Pay und PayPal – bequem und sicher.
+      desc: Lokale Aufladungen erfordern oft Bargeld oder lokale Zahlungsmittel. Roami eSIM akzeptiert Visa,
+        Mastercard, AMEX, Apple Pay, Google Pay und PayPal – bequem und sicher.
 ---

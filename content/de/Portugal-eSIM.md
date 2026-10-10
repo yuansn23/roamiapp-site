@@ -1,6 +1,6 @@
 ---
 title: 'Portugal eSIM 2026: Anbieter & Abdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Deckt alle Regionen ab.
   keywords: Portugal eSIM, Portugal Reise eSIM, beste eSIM Portugal, Portugal Datentarif, MEO Portugal, NOS Portugal, Vodafone
     Portugal Portugal, Lissabon eSIM, Porto eSIM, Faro eSIM, Portugal mobiles Internet, 5G Portugal
+  low_price: 1.99
+  high_price: 71.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Portugal eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Portugal
 features:
-  title: 'Warum Reisende Roami fuer Portugal waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Portugal wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Portugal-Anbietern für das stärkste Signal
-plans_title: 'Portugal eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Portugal eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 20GB
@@ -312,7 +314,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Portugal, einschliesslich Lissabon, Porto, Faro, Braga. Ihre eSIM
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Portugal, einschließlich Lissabon, Porto, Faro, Braga. Ihre eSIM
         verbindet sich nahtlos mit den robusten Netzen von MEO, NOS, Vodafone Portugal.
     - icon: zap
       color: text-amber-500
@@ -405,7 +407,7 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Portugal akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Kann ich meine Portugal eSIM noch in letzter Minute vor dem Flug kaufen?
       a: |
@@ -413,11 +415,13 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Portugal am beliebtesten?
       a: |
-        Die meisten Reisenden nach Portugal wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Portugal wählen den 5GB/15 Tage Tarif ($6.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($8.99) oder den unbegrenzten Tarif ($9.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Portugal eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Portugal mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Portugal mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $71.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Portugal nutzen?
       a: |
@@ -425,7 +429,8 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Portugal?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($5.99), für zwei Wochen 10GB ($8.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Portugal eSIM eine Bestätigung?
       a: |
@@ -450,7 +455,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -493,9 +498,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Portugal eSIM vs. Prepaid-SIM-Karte: Lohnt sich der Wechsel?'
-  subtitle: Lokale Prepaid-SIMs in Portugal vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Portugal eSIM vs. lokale Prepaid-SIM: Der Blick auf die Praxis'
+  subtitle: Lokale Prepaid-SIMs in Portugal vs. eSIM-Lösungen für Reisende
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Portugal) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Portugal
@@ -508,76 +514,77 @@ market_analysis:
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
     prepaid_desc: MEO Connected Holidays 旅游套餐仅在少数门店有售；Vodafone Travellers 套餐需在门店购买，卡费 €20。
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die Suche nach MEO Connected Holidays in wenigen Läden. Aktivieren Sie Ihre eSIM online innerhalb
-      von 1 Minute nach der Landung in Lissabon.
+    esim_title: Bereit ab dem ersten Tag
+    esim_desc: Umgehen Sie die Suche nach MEO Connected Holidays in wenigen Läden. Aktivieren Sie Ihre eSIM online
+      innerhalb von 1 Minute nach der Landung in Lissabon.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
     prepaid_desc: 购买葡萄牙 SIM 卡不需要注册，无实名制要求。
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Portugal erfordert keine KYC für Prepaid-SIMs, aber eSIM bietet noch mehr Privatsphäre – keine persönlichen
-      Daten erforderlich.
+    esim_desc: Portugal erfordert keine KYC für Prepaid-SIMs, aber eSIM bietet noch mehr Privatsphäre – keine
+      persönlichen Daten erforderlich.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
     prepaid_desc: Vodafone 的 FUP 规则导致欧盟漫游流量大幅缩减，超出后按 €5.40/GB 计费；Lyca Mobile 的 30GB 套餐在欧盟漫游仅可用 21GB（七折）。
     esim_title: Weltweites Roaming ohne FUP
-    esim_desc: Vermeiden Sie Vodafones FUP-Falle (€5.40/GB nach Verbrauch) und Lyca Mobiles 30%-ige Roaming-Drosselung. Mit
-      eSIM erhalten Sie volle Datenmenge in ganz Europa.
+    esim_desc: Vermeiden Sie Vodafones FUP-Falle (€5.40/GB nach Verbrauch) und Lyca Mobiles 30%-ige
+      Roaming-Drosselung. Mit eSIM erhalten Sie volle Datenmenge in ganz Europa.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
     prepaid_desc: MEO 周付套餐最低 €3.50/周（含 1GB），Vodafone 28 天套餐 €14/1GB，短期游客浪费严重。
     esim_title: Flexible Tarife ab 7 Tagen
-    esim_desc: Im Gegensatz zu MEOs 7-Tage-Zyklus (€3.50/1GB) oder Vodafones 28-Tage-Plan (€14/1GB) bietet Roami 7-Tage-Tarife
-      ab $1.99/GB – sparen Sie bis zu 75% bei Kurzreisen.
+    esim_desc: Im Gegensatz zu MEOs 7-Tage-Zyklus (€3.50/1GB) oder Vodafones 28-Tage-Plan (€14/1GB) bietet Roami
+      7-Tage-Tarife ab $2.99 – sparen Sie bis zu 75% bei Kurzreisen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
     prepaid_desc: Lyca Mobile 明确不支持热点分享；其他运营商如 MEO、Vodafone 允许热点，但受 FUP 限制。
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Umgehen Sie Lyca Mobiles Hotspot-Sperre. Mit eSIM können Sie Ihr Tablet oder Laptop ohne Einschränkungen mit
-      Ihrem Smartphone verbinden.
+    esim_desc: Umgehen Sie Lyca Mobiles Hotspot-Sperre. Mit eSIM können Sie Ihr Tablet oder Laptop ohne
+      Einschränkungen mit Ihrem Smartphone verbinden.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
     prepaid_desc: MEO 和 NOS 无法使用国际信用卡或 PayPal 充值；Vodafone 仅支持持卡满 3 个月的信用卡；NOS 代理点充值每次收取 €0.50 手续费。
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Vermeiden Sie MEOs und NOS' Ablehnung internationaler Karten. eSIM akzeptiert Visa, Mastercard, AMEX, Apple
-      Pay, Google Pay und PayPal – sofortige Aufladung.
+    esim_desc: Vermeiden Sie MEOs und NOS' Ablehnung internationaler Karten. eSIM akzeptiert Visa, Mastercard, AMEX,
+      Apple Pay, Google Pay und PayPal – sofortige Aufladung.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: MEO, NOS und Vodafone beraten vorwiegend auf Portugiesisch; englische Auskunft erhält man
+      überwiegend am Telefon.
     esim_title: 24/7 Kundensupport
-    esim_desc: Während lokale Anbieter nur portugiesischen Support bieten, erhalten Sie bei Roami rund um die Uhr Hilfe auf
-      Englisch und Deutsch.
+    esim_desc: Während lokale Anbieter nur portugiesischen Support bieten, erhalten Sie bei Roami rund um die Uhr
+      Hilfe auf Englisch und Deutsch.
   expert_verdict:
-    title: 'Portugal eSIM vs. SIM-Karten-Tarife: Welcher passt zu Ihren Bedürfnissen?'
+    title: 'Portugal eSIM vs. lokale Prepaid-SIM: Was wirklich den Unterschied macht'
     cards:
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Vermeiden Sie Vodafones Roaming-Falle
-      desc: 'Vodafone schränkt EU-Roaming durch FUP ein: Bei 5GB Tarif nur ~6-8GB nutzbar, Übergebühr €5.40/GB. eSIM bietet
-        volle Datenmenge ohne Drosselung.'
+      desc: 'Vodafone schränkt EU-Roaming durch FUP ein: Bei 5GB Tarif nur ~6-8GB nutzbar, Übergebühr €5.40/GB. eSIM
+        bietet volle Datenmenge ohne Drosselung.'
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie Portugals SIM-Beschaffungsprobleme
-      desc: MEOs Connected Holidays ist nur in wenigen Läden erhältlich. Mit eSIM entfällt die Suche – Aktivierung online
-        in 1 Minute.
+      desc: MEOs Connected Holidays ist nur in wenigen Läden erhältlich. Mit eSIM entfällt die Suche – Aktivierung
+        online in 1 Minute.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Keine versteckten Wartungsgebühren
-      desc: MEO verlangt €1/Monat, Vodafone €1.50/60 Tage Inaktivitätsgebühr. eSIM hat keine versteckten Kosten – nur zahlen,
-        was Sie nutzen.
+      desc: MEO verlangt €1/Monat, Vodafone €1.50/60 Tage Inaktivitätsgebühr. eSIM hat keine versteckten Kosten – nur
+        zahlen, was Sie nutzen.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Keine versunkenen Kosten durch starre Zyklen
-      desc: MEOs 7-Tage-Plan (€3.50/1GB) oder Vodafones 28-Tage-Plan (€14/1GB) verschwenden bei Kurzreisen über 50%. eSIM
-        bietet flexible 7-Tage-Tarife ab $1.99/GB.
+      desc: MEOs 7-Tage-Plan (€3.50/1GB) oder Vodafones 28-Tage-Plan (€14/1GB) verschwenden bei Kurzreisen über 50%.
+        eSIM bietet flexible 7-Tage-Tarife ab $2.99.
 ---

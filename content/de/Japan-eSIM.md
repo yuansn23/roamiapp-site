@@ -1,6 +1,6 @@
 ---
 title: 'Japan eSIM 2026: Reise & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -34,6 +34,8 @@ seo:
   - Kyoto eSIM
   - Japan mobiles Internet
   - 5G Japan
+  low_price: 1.99
+  high_price: 71.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -56,7 +58,7 @@ hero:
   title: 'Japan eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Japan
 features:
-  title: 'Warum Reisende Roami fuer Japan waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Japan wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -82,7 +84,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Japan-Anbietern für das stärkste Signal
-plans_title: 'Japan eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Japan eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 3GB
@@ -307,7 +309,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Japan, einschliesslich Tokio, Osaka, Kyoto, Sapporo. Ihre eSIM
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Japan, einschließlich Tokio, Osaka, Kyoto, Sapporo. Ihre eSIM
         verbindet sich nahtlos mit den robusten Netzen von NTT Docomo, KDDI (au), SoftBank.
     - icon: zap
       color: text-amber-500
@@ -400,7 +402,8 @@ faq_section:
     - q: |
         Was kostet eine eSIM für Japan? Gibt es günstige Tarife?
       a: |
-        Roami bietet Japan eSIM Tarife ab $1.99 (7 Tage, 1GB) bis $59.99 (30 Tage, unbegrenzt). Der beliebteste Tarif für Reisende ist 5GB/15 Tage für $9.99 — genug für Navigation, Messaging und soziale Medien. Wer Videos streamen oder remote arbeiten möchte, sollte 10GB oder den unbegrenzten Tarif wählen. Docomos 5G-Netz in Japan erreicht 100-300 Mbps. Roami Tarife sind vorausbezahlt — keine versteckten Kosten, keine automatische Verlängerung.
+        Roami bietet Japan eSIM Tarife ab $1.99 (7 Tage, 1GB) bis $1.99 (30 Tage, unbegrenzt). Der beliebteste Tarif für Reisende ist 5GB/15 Tage für $6.99 — genug für Navigation, Messaging und soziale Medien. Wer Videos streamen oder remote arbeiten möchte, sollte 10GB oder den unbegrenzten Tarif wählen. Docomos 5G-Netz in Japan erreicht 100-300 Mbps. Roami Tarife sind vorausbezahlt — keine versteckten Kosten, keine automatische Verlängerung.
+
     - q: |
         Kann ich meine Japan eSIM noch in letzter Minute vor dem Flug kaufen?
       a: |
@@ -412,7 +415,8 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Japan eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Japan mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Japan mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $71.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Japan speichern?
       a: |
@@ -420,13 +424,14 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Japan?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Japan kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Japan kostet $5.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Was tun, wenn meine Japan eSIM bei der Ankunft nicht funktioniert?
       a: |
         Drei schnelle Checks (je ca. 30 Sekunden): 1) Ist Daten-Roaming aktiviert? 2) Können Sie Docomo manuell auswählen? 3) Haben Sie das Telefon neu gestartet? Etwa 90% der Verbindungsprobleme lassen sich mit einem dieser Schritte lösen. Falls nicht: Roami 24/7 Support hilft innerhalb weniger Minuten weiter.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Diese eSIM-Tarife könnten Sie interessieren
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -445,7 +450,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -458,11 +463,11 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: china-esim
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: japan-esim
+    slug: italy-esim
   - name: Hongkong eSIM
     flag: img/flags/hk.svg
     price: Ab 1,99 $
@@ -488,9 +493,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Japan eSIM vs. Prepaid-SIM-Karte: Lohnt sich der Wechsel?'
-  subtitle: Lokale Prepaid-SIMs in Japan vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: Japan eSIM vs. lokale Prepaid-SIM im Detail
+  subtitle: Lokale Prepaid-SIMs in Japan vs. eSIM-Lösungen für Reisende
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Japan) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Japan
@@ -502,83 +508,84 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: SoftBank erfordert eine Online-Aktivierung mit Passfoto zwischen 9:00 und 21:00 JST; povo 2.0 ist nur in
-      bestimmten Convenience-Stores wie Lawson erhältlich und akzeptiert nur Bargeld.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie SoftBanks zeitaufwändige Pass- und Zeitbeschränkungen (9:00-21:00). Aktivieren Sie Ihre eSIM online
-      innerhalb von 1 Minute nach der Landung in Tokio.
+    prepaid_desc: SoftBank erfordert eine Online-Aktivierung mit Passfoto zwischen 9:00 und 21:00 JST; povo 2.0 ist
+      nur in bestimmten Convenience-Stores wie Lawson erhältlich und akzeptiert nur Bargeld.
+    esim_title: Ohne Anstehen aktiv
+    esim_desc: Umgehen Sie SoftBanks zeitaufwändige Pass- und Zeitbeschränkungen (9:00-21:00). Aktivieren Sie Ihre
+      eSIM online innerhalb von 1 Minute nach der Landung in Tokio.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: SoftBank verlangt die Vorlage eines Passfotos oder -scans für die Aktivierung; andere Anbieter wie NTT docomo
-      und b-mobile benötigen keine Registrierung.
+    prepaid_desc: SoftBank verlangt die Vorlage eines Passfotos oder -scans für die Aktivierung; andere Anbieter wie
+      NTT docomo und b-mobile benötigen keine Registrierung.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Im Gegensatz zu SoftBank, das ein Passfoto verlangt, benötigt Roami eSIM keine Identitätsprüfung. Starten Sie
-      sofort ohne Bürokratie.
+    esim_desc: Im Gegensatz zu SoftBank, das ein Passfoto verlangt, benötigt Roami eSIM keine Identitätsprüfung.
+      Starten Sie sofort ohne Bürokratie.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Japanische Prepaid-SIMs unterstützen kein internationales Roaming; die Nutzung ist auf Japan beschränkt.
+    prepaid_desc: Japanische Prepaid-SIMs unterstützen kein internationales Roaming; die Nutzung ist auf Japan
+      beschränkt.
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Während japanische Prepaid-SIMs wie b-mobile kein Roaming unterstützen, bietet Roami eSIM nahtlose Konnektivität
-      in über 100 Ländern, ideal für Reisen nach Korea oder Südostasien.
+    esim_desc: Während japanische Prepaid-SIMs wie b-mobile kein Roaming unterstützen, bietet Roami eSIM nahtlose
+      Konnektivität in über 100 Ländern, ideal für Reisen nach Korea oder Südostasien.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: b-mobile physische SIMs beginnen ihre Gültigkeit ab dem Versanddatum, nicht ab der Aktivierung; IIJmio verlängert
-      die Gültigkeit nach Aufladung um 3 Monate ab dem letzten Aufladedatum.
+    prepaid_desc: b-mobile physische SIMs beginnen ihre Gültigkeit ab dem Versanddatum, nicht ab der Aktivierung;
+      IIJmio verlängert die Gültigkeit nach Aufladung um 3 Monate ab dem letzten Aufladedatum.
     esim_title: Flexible Tarife nach Bedarf
-    esim_desc: Im Gegensatz zu b-mobiles 30-Tage-Zyklus ab Versand (Verschwendung von 20-40%) bietet Roami 7-Tage-Tarife ab
-      $1.99/GB, die erst bei Nutzung in Japan starten.
+    esim_desc: Im Gegensatz zu b-mobiles 30-Tage-Zyklus ab Versand (Verschwendung von 20-40%) bietet Roami
+      7-Tage-Tarife ab $1.99, die erst bei Nutzung in Japan starten.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Basierend auf Marktkenntnissen: Die meisten
-      japanischen Prepaid-SIMs erlauben Tethering, aber einige MVNOs wie b-mobile drosseln VoIP und Streaming.'
+    prepaid_desc: Die meisten japanischen Prepaid-SIMs erlauben Tethering, aber einige MVNOs wie b-mobile drosseln
+      VoIP und Streaming.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während b-mobile VoIP und Streaming drosselt, erlaubt Roami eSIM unbegrenztes Tethering mit voller Geschwindigkeit
-      – perfekt für Laptop-Arbeit unterwegs.
+    esim_desc: Während b-mobile VoIP und Streaming drosselt, erlaubt Roami eSIM unbegrenztes Tethering mit voller
+      Geschwindigkeit – perfekt für Laptop-Arbeit unterwegs.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: povo 2.0 akzeptiert nur Bargeld; SoftBank erlaubt Online-Aufladung per Kreditkarte; IIJmio und b-mobile
-      bieten Aufladung per Kreditkarte oder an Convenience-Stores.
+    prepaid_desc: povo 2.0 akzeptiert nur Bargeld; SoftBank erlaubt Online-Aufladung per Kreditkarte; IIJmio und
+      b-mobile bieten Aufladung per Kreditkarte oder an Convenience-Stores.
     esim_title: Weltweite Zahlungsmethoden
-    esim_desc: Statt Bargeld bei povo 2.0 oder eingeschränkter Kreditkartenzahlung bei SoftBank akzeptiert Roami Visa, Mastercard,
-      AMEX, Apple Pay, Google Pay und PayPal.
+    esim_desc: Statt Bargeld bei povo 2.0 oder eingeschränkter Kreditkartenzahlung bei SoftBank akzeptiert Roami Visa,
+      Mastercard, AMEX, Apple Pay, Google Pay und PayPal.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Basierend auf Marktkenntnissen: Kundensupport
-      ist meist nur auf Japanisch verfügbar, oft per E-Mail oder Chat, nicht rund um die Uhr.'
+    prepaid_desc: Der Kundendienst ist meist nur auf Japanisch verfügbar, oft per E-Mail oder Chat, selten rund um die
+      Uhr.
     esim_title: 24/7 Kundensupport
-    esim_desc: Im Gegensatz zu japanischen Anbietern mit nur japanischem Support bietet Roami rund um die Uhr mehrsprachigen
-      Chat und E-Mail-Support.
+    esim_desc: Im Gegensatz zu japanischen Anbietern mit nur japanischem Support bietet Roami rund um die Uhr
+      mehrsprachigen Chat und E-Mail-Support.
   expert_verdict:
-    title: 'Japan eSIM vs. physische SIM-Karte: Was ist der wirkliche Unterschied?'
+    title: 'Japan eSIM vs. lokale Prepaid-SIM: Wo der Aufwand entsteht'
     cards:
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Internationale Zahlung statt Bargeldzwang
-      desc: povo 2.0 erfordert Bargeldkauf an <b>Lawson</b>. Roami akzeptiert <b>Visa, Mastercard, AMEX, Apple Pay, Google
-        Pay, PayPal</b>.
+      desc: povo 2.0 erfordert Bargeldkauf an <b>Lawson</b>. Roami akzeptiert <b>Visa, Mastercard, AMEX, Apple Pay,
+        Google Pay, PayPal</b>.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofortige Aktivierung ohne Zeitfenster
-      desc: SoftBank erlaubt Aktivierung nur <b>9:00-21:00</b>. Roami eSIM ist <b>24/7</b> sofort nach Kauf aktivierbar –
-        perfekt für Nachtflüge.
+      desc: SoftBank erlaubt Aktivierung nur <b>9:00-21:00</b>. Roami eSIM ist <b>24/7</b> sofort nach Kauf
+        aktivierbar – perfekt für Nachtflüge.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Internationales Roaming für Mehrländerreisen
-      desc: Japanische SIMs wie NTT docomo sind auf Japan beschränkt. Roami eSIM funktioniert in <b>über 100 Ländern</b> –
-        ideal für Japan-Korea-Rundreisen.
+      desc: Japanische SIMs wie NTT docomo sind auf Japan beschränkt. Roami eSIM funktioniert in <b>über 100
+        Ländern</b> – ideal für Japan-Korea-Rundreisen.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Multi-Netz-Abdeckung statt Single-Netz-Risiko
-      desc: Während b-mobile und IIJmio nur auf NTT docomo angewiesen sind, nutzt Roami eSIM <b>au (KDDI) und SoftBank</b>
-        als Backup – ideal für ländliche Gebiete.
+      desc: Während b-mobile und IIJmio nur auf NTT docomo angewiesen sind, nutzt Roami eSIM <b>au (KDDI) und
+        SoftBank</b> als Backup – ideal für ländliche Gebiete.
 ---

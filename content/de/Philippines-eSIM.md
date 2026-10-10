@@ -1,6 +1,6 @@
 ---
 title: 'Philippinen eSIM 2026: Reise & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Deckt alle Regionen ab.
   keywords: Philippinen eSIM, Philippinen Reise eSIM, beste eSIM Philippinen, Philippinen Datentarif, Globe Philippinen, Smart
     Philippinen, DITO Philippinen, Manila eSIM, Cebu City eSIM, Davao City eSIM, Philippinen mobiles Internet, 5G Philippinen
+  low_price: 2.99
+  high_price: 70.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Philippinen eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Philippinen
 features:
-  title: 'Warum Reisende Roami fuer Philippinen waehlen: Netzwerk, Tarife & Preiswert'
+  title: 'Warum Reisende Roami für Philippinen wählen: Netzwerk, Tarife & Preiswert'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Philippinen-Anbietern für das stärkste Signal
-plans_title: 'Philippinen eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Philippinen eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   15 Tage:
   - spec: 3GB
@@ -296,7 +298,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Philippinen, einschliesslich Manila, Cebu City, Davao City, Quezon
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Philippinen, einschließlich Manila, Cebu City, Davao City, Quezon
         City. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Globe, Smart, DITO.
     - icon: zap
       color: text-amber-500
@@ -374,7 +376,7 @@ activation_steps:
       einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "Wie zuverlaessig ist eSIM in Philippines? Ein praktischer Leitfaden"
+  title: "Wie zuverlässig ist eSIM in Philippines? Ein praktischer Leitfaden"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Philippines. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -389,7 +391,8 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Philippinen?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($6.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Soll ich meine Philippinen eSIM vor der Abreise oder erst am Flughafen installieren?
       a: |
@@ -401,7 +404,8 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Philippinen eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Philippinen mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Philippinen mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $70.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Philippinen speichern?
       a: |
@@ -409,13 +413,14 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Philippinen am beliebtesten?
       a: |
-        Die meisten Reisenden nach Philippinen wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Philippinen wählen den 5GB/15 Tage Tarif ($8.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($7.99) oder den unbegrenzten Tarif ($9.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Funktioniert eSIM in Philippinen auch in ländlichen Gebieten?
       a: |
         Die Abdeckung erreicht etwa 95% der städtischen Gebiete, kann aber in abgelegenen Regionen auf 60-70% fallen. Die Geschwindigkeit kann von 200-300 Mbps (5G) auf 10-30 Mbps (4G) sinken. Zum Vergleich: 4G reicht für Google Maps (5MB/Stunde) und WhatsApp, aber nicht für 4K-Streaming. Roami wechselt automatisch zum stärksten verfügbaren Netz. Laden Sie Offline-Karten vorab herunter.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Weitere beliebte eSIM-Ziele
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -434,7 +439,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -477,9 +482,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
   title: 'Philippines eSIM vs. Prepaid-SIM: Kosten und Komfort im Vergleich'
-  subtitle: Lokale Prepaid-SIMs in den Philippinen vs. eSIM-Lösungen (2024/2025 Benchmark)
+  subtitle: Lokale Prepaid-SIMs in den Philippinen vs. eSIM-Lösungen im Preisvergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Philippines) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Philippines
@@ -491,57 +497,61 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Smart und Globe bieten touristische SIM-Karten an Flughäfen wie Manila an, die nur offline erhältlich sind;
-      die Aktivierung erfordert das Hochladen von Reisepass, Einreisestempel und Hotelbuchung, was 1-2 Stunden dauern kann.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die 1-2-stündigen Aktivierungsprozesse an Flughäfen. Mit Roami eSIM erhalten Sie Ihre SIM innerhalb
-      von 1 Minute per E-Mail – keine Warteschlangen, keine Papierkram.
+    prepaid_desc: Smart und Globe bieten touristische SIM-Karten an Flughäfen wie Manila an, die nur offline
+      erhältlich sind; die Aktivierung erfordert das Hochladen von Reisepass, Einreisestempel und Hotelbuchung, was
+      1-2 Stunden dauern kann.
+    esim_title: Startklar noch vor dem Abflug
+    esim_desc: Umgehen Sie die 1-2-stündigen Aktivierungsprozesse an Flughäfen. Mit Roami eSIM erhalten Sie Ihre SIM
+      innerhalb von 1 Minute per E-Mail – keine Warteschlangen, keine Papierkram.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Gemäß dem SIM-Karten-Registrierungsgesetz (RA 11934) müssen alle SIM-Karten mit Reisepass, Einreisestempel,
-      Rückflugticket und Adressnachweis registriert werden; eine Live-Selfie-Aufnahme ist erforderlich.
+    prepaid_desc: Gemäß dem SIM-Karten-Registrierungsgesetz (RA 11934) müssen alle SIM-Karten mit Reisepass,
+      Einreisestempel, Rückflugticket und Adressnachweis registriert werden; eine Live-Selfie-Aufnahme ist
+      erforderlich.
     esim_title: Kein Pass erforderlich
-    esim_desc: Keine Registrierung nach RA 11934 nötig. Roami eSIM benötigt keinen Reisepass, Einreisestempel oder Hotelbuchung
-      – einfach kaufen und sofort nutzen.
+    esim_desc: Keine Registrierung nach RA 11934 nötig. Roami eSIM benötigt keinen Reisepass, Einreisestempel oder
+      Hotelbuchung – einfach kaufen und sofort nutzen.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Smart Roam Surf berechnet ₱999 für 1GB Roaming-Daten; Globe verwendet transparente Proxys, die HTTP-Verkehr
-      komprimieren und bestimmte Protokolle blockieren.
-    esim_title: Weltweites Roaming ohne Aufpreis
-    esim_desc: Vermeiden Sie Smart Roam Surf mit ₱999/GB. Roami bietet günstige Datenpakete ab $1.99/GB für die Philippinen
-      und weltweit, ohne transparente Proxys oder Datenkomprimierung.
+    prepaid_desc: Smart Roam Surf berechnet ₱999 für 1GB Roaming-Daten; Globe verwendet transparente Proxys, die
+      HTTP-Verkehr komprimieren und bestimmte Protokolle blockieren.
+    esim_title: Ein Paket über mehrere Länder
+    esim_desc: Vermeiden Sie Smart Roam Surf mit ₱999/GB. Roami bietet günstige Datenpakete ab $2.99 für die
+      Philippinen und weltweit, ohne transparente Proxys oder Datenkomprimierung.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Die meisten High-Value-Tarife von Smart und Globe haben eine 30-tägige Gültigkeit; ein Tourist, der nur
-      5-7 Tage bleibt, verschwendet mindestens 70% des Tarifwerts.
+    prepaid_desc: Die meisten High-Value-Tarife von Smart und Globe haben eine 30-tägige Gültigkeit; ein Tourist, der
+      nur 5-7 Tage bleibt, verschwendet mindestens 70% des Tarifwerts.
     esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Im Gegensatz zu 30-Tage-Tarifen von Smart (₱299/24GB) bietet Roami 7-Tage-Pakete ab $1.99/GB. Bei einem 5-tägigen
-      Aufenthalt sparen Sie über 70% Kosten.
+    esim_desc: Im Gegensatz zu 30-Tage-Tarifen von Smart (₱299/24GB) bietet Roami 7-Tage-Pakete ab $3.99. Bei einem
+      5-tägigen Aufenthalt sparen Sie über 70% Kosten.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Smart Bro Unlidata 599 erlaubt Tethering nur auf Smartphones oder Pocket-WiFi, nicht auf anderen Geräten;
-      bei Missbrauch droht Drosselung.
+    prepaid_desc: Smart Bro Unlidata 599 erlaubt Tethering nur auf Smartphones oder Pocket-WiFi, nicht auf anderen
+      Geräten; bei Missbrauch droht Drosselung.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Keine Gerätebeschränkungen wie bei Smart Bro Unlidata. Roami erlaubt Hotspot-Nutzung auf allen Geräten ohne
-      Drosselung.
+    esim_desc: Keine Gerätebeschränkungen wie bei Smart Bro Unlidata. Roami erlaubt Hotspot-Nutzung auf allen Geräten
+      ohne Drosselung.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Aufladung über die App akzeptiert internationale Kreditkarten; physische Gutscheine sind an Kiosken erhältlich.
+    prepaid_desc: Aufladung über die App akzeptiert internationale Kreditkarten; physische Gutscheine sind an Kiosken
+      erhältlich.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Zahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine Probleme mit lokalen Zahlungsmethoden
-      oder physischen Gutscheinen.
+    esim_desc: Zahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine Probleme mit lokalen
+      Zahlungsmethoden oder physischen Gutscheinen.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: Bei Globe, Smart und DITO ist der Kundendienst auf Filipino und Englisch verfügbar; in den Städten
+      ist er am besten erreichbar.
     esim_title: 24/7 Kundensupport
-    esim_desc: Roami bietet rund um die Uhr Support auf Englisch und Deutsch. Keine Sprachbarrieren oder eingeschränkte Öffnungszeiten
-      wie bei lokalen Anbietern.
+    esim_desc: Fragen beantwortet Roami per Chat und E-Mail, mehrsprachig und rund um die Uhr. Keine Sprachbarrieren
+      oder eingeschränkte Öffnungszeiten wie bei lokalen Anbietern.
   expert_verdict:
     title: 'Philippines eSIM vs. Prepaid-SIM: Intelligenter reisen mit besserer Konnektivität'
     cards:
@@ -549,24 +559,24 @@ market_analysis:
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie die strengen SIM-Passanforderungen
-      desc: Philippinische Prepaid-SIMs erfordern gemäß RA 11934 die Registrierung mit Reisepass, Einreisestempel und Hotelbuchung.
-        Roami eSIM benötigt keine persönlichen Daten – sofortige Aktivierung ohne Bürokratie.
+      desc: Philippinische Prepaid-SIMs erfordern gemäß RA 11934 die Registrierung mit Reisepass, Einreisestempel und
+        Hotelbuchung. Roami eSIM benötigt keine persönlichen Daten – sofortige Aktivierung ohne Bürokratie.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Günstiges Roaming weltweit
-      desc: Smart Roam Surf kostet ₱999/GB (ca. $18). Roami bietet Datenpakete für die Philippinen und 190+ Länder ab $1.99/GB
-        – kein teures Roaming-Add-on nötig.
+      desc: Smart Roam Surf kostet ₱999/GB (ca. $18). Roami bietet Datenpakete für die Philippinen und 190+ Länder ab
+        $2.99 – kein teures Roaming-Add-on nötig.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Bessere Netzabdeckung durch Multi-IMSI
-      desc: Auf Boracay dominiert Smart, in Baguio Globe. Roami eSIM nutzt mehrere IMSIs und schaltet automatisch zwischen
-        Smart und Globe um – kein Risiko, auf einer Insel ohne Signal zu sein.
+      desc: Auf Boracay dominiert Smart, in Baguio Globe. Roami eSIM nutzt mehrere IMSIs und schaltet automatisch
+        zwischen Smart und Globe um – kein Risiko, auf einer Insel ohne Signal zu sein.
     - icon: clock
       icon_bg: bg-teal-100
       icon_color: text-teal-600
       title: Sofortige Aktivierung in 1 Minute
-      desc: Philippinische SIMs erfordern 1-2 Stunden für die Online-Registrierung am Flughafen. Roami eSIM wird innerhalb
-        von 1 Minute nach Kauf per E-Mail geliefert – sofort einsatzbereit.
+      desc: Philippinische SIMs erfordern 1-2 Stunden für die Online-Registrierung am Flughafen. Roami eSIM wird
+        innerhalb von 1 Minute nach Kauf per E-Mail geliefert – sofort einsatzbereit.
 ---

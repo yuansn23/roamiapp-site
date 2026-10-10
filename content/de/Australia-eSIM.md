@@ -1,6 +1,6 @@
 ---
 title: 'Australien eSIM 2026: Touristen & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Deckt Sydney, Melbourne & ganz Australien ab.'
   keywords: Australien eSIM, Australien Reise eSIM, beste eSIM Australien, Australien Datentarif, Telstra Australien, Optus
     Australien, Vodafone Australien, Sydney eSIM, Melbourne eSIM, Brisbane eSIM, Australien mobiles Internet, 5G Australien
+  low_price: 1.99
+  high_price: 71.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Australien eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Australien
 features:
-  title: 'Warum Reisende Roami fuer Australien waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Australien wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Australien-Anbietern für das stärkste Signal
-plans_title: 'Australien eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Australien eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 20GB
@@ -304,7 +306,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Australien, einschliesslich Sydney, Melbourne, Brisbane, Perth.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Australien, einschließlich Sydney, Melbourne, Brisbane, Perth.
         Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Telstra, Optus, Vodafone.
     - icon: zap
       color: text-amber-500
@@ -412,17 +414,19 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Australien?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($4.99), für zwei Wochen 10GB ($9.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Australien?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($4.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Australien speichern?
       a: |
         Die meisten Handys speichern 5-10 eSIM-Profile. Sie können Ihre Australien eSIM neben Ihrer heimischen SIM und bis zu 8 anderen Ländernprofilen speichern. Das Umschalten dauert etwa 10 Sekunden in den Telefoneinstellungen. iPhone ab XS (2018+) und Samsung ab S20 (2020+) unterstützen mehrere Profile gleichzeitig.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -441,7 +445,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -479,14 +483,15 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: germany-esim
-  - name: Australien eSIM
-    flag: img/flags/au.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: australia-esim
+    slug: italy-esim
+
 market_analysis:
-  title: 'Australia eSIM vs. Prepaid-SIM: Geschwindigkeit, Abdeckung und Preis verglichen'
-  subtitle: Lokale Prepaid-SIMs in Australien vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: Australia eSIM vs. lokale Prepaid-SIM im direkten Vergleich
+  subtitle: Lokale Prepaid-SIMs in Australien vs. eSIM-Lösungen im Preisvergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Australia) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Australia
@@ -498,84 +503,89 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: ALDI mobile erfordert eine vollständige Online-Aktivierung mit internationaler Kreditkartenverifizierung;
-      Optus und Vodafone haben Schalter an Flughäfen, aber die Tarife sind teurer (z.B. Vodafone $30 für nur 3 GB).
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die ALDI mobile Online-Verifizierung (erfordert internationale Kreditkarte) oder die Schlangen
-      an Optus/Vodafone-Schaltern. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute nach der Landung in Sydney.
+    prepaid_desc: ALDI mobile erfordert eine vollständige Online-Aktivierung mit internationaler
+      Kreditkartenverifizierung; Optus und Vodafone haben Schalter an Flughäfen, aber die Tarife sind teurer (z.B.
+      Vodafone $30 für nur 3 GB).
+    esim_title: Aktiv ohne Gang zum Schalter
+    esim_desc: Umgehen Sie die ALDI mobile Online-Verifizierung (erfordert internationale Kreditkarte) oder die
+      Schlangen an Optus/Vodafone-Schaltern. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute nach der Landung
+      in Sydney.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Optus verlangt eine australische Adresse für die Aktivierung; ALDI mobile verifiziert per internationaler
-      Kreditkarte (Visa/Mastercard).
+    prepaid_desc: Optus verlangt eine australische Adresse für die Aktivierung; ALDI mobile verifiziert per
+      internationaler Kreditkarte (Visa/Mastercard).
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Im Gegensatz zu Optus (erfordert australische Adresse) oder ALDI mobile (Kreditkartenverifizierung) benötigt
-      Roami eSIM keine persönlichen Ausweise oder Adressen. Keine KYC-Hürden.
+    esim_desc: Im Gegensatz zu Optus (erfordert australische Adresse) oder ALDI mobile (Kreditkartenverifizierung)
+      benötigt Roami eSIM keine persönlichen Ausweise oder Adressen. Keine KYC-Hürden.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Australische Prepaid-Karten bieten fast keine günstigen Roaming-Pakete für Neuseeland oder die Pazifikinseln;
-      Optus bietet $20/10 GB Roaming nur für ausgewählte Länder (5 Tage gültig).
+    prepaid_desc: Australische Prepaid-Karten bieten fast keine günstigen Roaming-Pakete für Neuseeland oder die
+      Pazifikinseln; Optus bietet $20/10 GB Roaming nur für ausgewählte Länder (5 Tage gültig).
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Während australische Prepaid-Karten wie Optus nur teure Roaming-Add-ons für wenige Länder bieten (z.B. $20/10
-      GB für 5 Tage), ermöglicht Roami eSIM nahtloses Roaming in über 190 Ländern zu transparenten Preisen ab $1.99/GB.
+    esim_desc: Während australische Prepaid-Karten wie Optus nur teure Roaming-Add-ons für wenige Länder bieten (z.B.
+      $20/10 GB für 5 Tage), ermöglicht Roami eSIM nahtloses Roaming in über 190 Ländern zu transparenten Preisen ab
+      $1.99.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Telstra, Optus und Lycamobile verwenden 28-Tage-Abrechnungszyklen; ALDI mobile 30 Tage. Ein 7-tägiger Tourist,
-      der Telstras $35/60GB-Tarif kauft, verschwendet über 70% des Tarifwerts.
+    prepaid_desc: Telstra, Optus und Lycamobile verwenden 28-Tage-Abrechnungszyklen; ALDI mobile 30 Tage. Ein
+      7-tägiger Tourist, der Telstras $35/60GB-Tarif kauft, verschwendet über 70% des Tarifwerts.
     esim_title: Flexible Tarife nach Tagen
-    esim_desc: Vermeiden Sie die 28-Tage-Zyklen von Telstra ($35/60GB) oder Lycamobile ($20/7GB). Roami bietet 7-Tage-Datentarife
-      ab $1.99/GB, sodass Sie nur für das bezahlen, was Sie nutzen – keine Verschwendung von 70% des Tarifwerts.
+    esim_desc: Vermeiden Sie die 28-Tage-Zyklen von Telstra ($35/60GB) oder Lycamobile ($20/7GB). Roami bietet
+      7-Tage-Datentarife ab $1.99, sodass Sie nur für das bezahlen, was Sie nutzen – keine Verschwendung von 70% des
+      Tarifwerts.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Lycamobile blockiert Tethering aktiv; Telstra und Optus erlauben Hotspot-Nutzung, aber Telstra drosselt
-      auf 150 Mbit/s.
+    prepaid_desc: Lycamobile blockiert Tethering aktiv; Telstra und Optus erlauben Hotspot-Nutzung, aber Telstra
+      drosselt auf 150 Mbit/s.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Im Gegensatz zu Lycamobile, das Hotspot-Nutzung aktiv blockiert, erlaubt Roami eSIM uneingeschränktes Tethering
-      auf allen Geräten. Teilen Sie Ihr Datenvolumen mit Laptop oder Tablet ohne Einschränkungen.
+    esim_desc: Im Gegensatz zu Lycamobile, das Hotspot-Nutzung aktiv blockiert, erlaubt Roami eSIM uneingeschränktes
+      Tethering auf allen Geräten. Teilen Sie Ihr Datenvolumen mit Laptop oder Tablet ohne Einschränkungen.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: ALDI mobile akzeptiert nur Visa/Mastercard zur Online-Aktivierung; keine Barzahlung oder Alipay. Optus und
-      Vodafone akzeptieren Kreditkarten und Bargeld an Schaltern.
+    prepaid_desc: ALDI mobile akzeptiert nur Visa/Mastercard zur Online-Aktivierung; keine Barzahlung oder Alipay.
+      Optus und Vodafone akzeptieren Kreditkarten und Bargeld an Schaltern.
     esim_title: Weltweite Zahlungsmethoden
-    esim_desc: Zahlen Sie bequem mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine umständliche Kreditkartenverifizierung
-      wie bei ALDI mobile, keine Bargeldnotwendigkeit.
+    esim_desc: Für die Nutzung genügt eine internationale Karte oder ein Wallet-Dienst; Roami bucht in US-Dollar ab.
+      Keine umständliche Kreditkartenverifizierung wie bei ALDI mobile, keine Bargeldnotwendigkeit.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. (Marktkenntnis: Kundensupport meist nur auf
-      Englisch, per Telefon oder E-Mail, oft mit langen Wartezeiten.)'
+    prepaid_desc: Der Kundendienst läuft meist nur auf Englisch, per Telefon oder E-Mail, oft mit langen Wartezeiten.
     esim_title: 24/7 Kundensupport
-    esim_desc: Roami bietet rund um die Uhr mehrsprachigen Support per Live-Chat und E-Mail. Im Gegensatz zu australischen
-      Anbietern, die oft nur englischen Telefonsupport zu Bürozeiten anbieten, sind wir jederzeit für Sie da.
+    esim_desc: Roami bietet rund um die Uhr mehrsprachigen Support per Live-Chat und E-Mail. Im Gegensatz zu
+      australischen Anbietern, die oft nur englischen Telefonsupport zu Bürozeiten anbieten, sind wir jederzeit für
+      Sie da.
   expert_verdict:
-    title: 'Australia eSIM vs. SIM-Karten-Tarife: Welcher passt zu Ihren Bedürfnissen?'
+    title: 'Australia eSIM vs. lokale Prepaid-SIM: Aufwand und Kosten im Check'
     cards:
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Keine 28-Tage-Zyklen mehr
-      desc: Telstra, Optus und Lycamobile zwingen Sie zu 28-Tage-Tarifen. Ein 7-tägiger Tourist mit Telstras $35/60GB-Tarif
-        verschwendet über 70% des Guthabens. Roami bietet flexible 7-Tage-Tarife ab $1.99/GB.
+      desc: Telstra, Optus und Lycamobile zwingen Sie zu 28-Tage-Tarifen. Ein 7-tägiger Tourist mit Telstras
+        $35/60GB-Tarif verschwendet über 70% des Guthabens. Roami bietet flexible 7-Tage-Tarife ab $1.99.
     - icon: shield
       icon_bg: bg-sky-100
       icon_color: text-sky-600
       title: Kein Risiko durch Geräteinkompatibilität
-      desc: Telstra und Optus blockieren zunehmend nicht-australische Smartphones aufgrund von VoLTE-Problemen. Roami eSIM
-        umgeht diese Hardware-Konflikte, da keine physische SIM eingelegt werden muss.
+      desc: Telstra und Optus blockieren zunehmend nicht-australische Smartphones aufgrund von VoLTE-Problemen. Roami
+        eSIM umgeht diese Hardware-Konflikte, da keine physische SIM eingelegt werden muss.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
-      title: Bequeme Zahlung mit westlichen Methoden
-      desc: ALDI mobile akzeptiert nur Visa/Mastercard zur Online-Aktivierung. Roami akzeptiert Visa, Mastercard, AMEX, Apple
-        Pay, Google Pay und PayPal – keine umständlichen Verifizierungen.
+      title: Bezahlen ohne Umweg
+      desc: ALDI mobile akzeptiert nur Visa/Mastercard zur Online-Aktivierung. Roami akzeptiert Visa, Mastercard,
+        AMEX, Apple Pay, Google Pay und PayPal – keine umständlichen Verifizierungen.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie Australiens strenge SIM-Passanforderungen
-      desc: Optus verlangt eine australische Adresse zur Aktivierung; ALDI mobile erfordert eine internationale Kreditkartenverifizierung
-        (Visa/Mastercard). Mit Roami eSIM entfällt dieser Aufwand – keine Passdaten oder Adressen nötig.
+      desc: Optus verlangt eine australische Adresse zur Aktivierung; ALDI mobile erfordert eine internationale
+        Kreditkartenverifizierung (Visa/Mastercard). Mit Roami eSIM entfällt dieser Aufwand – keine Passdaten oder
+        Adressen nötig.
 ---

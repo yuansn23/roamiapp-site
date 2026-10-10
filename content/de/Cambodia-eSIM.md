@@ -1,6 +1,6 @@
 ---
 title: 'Kambodscha eSIM 2026: Anbieter & Abdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -24,6 +24,8 @@ seo:
   keywords: Kambodscha eSIM, Kambodscha Reise eSIM, beste eSIM Kambodscha, Kambodscha Datentarif, Cellcard Kambodscha, Smart
     Axiata Kambodscha, Metfone Kambodscha, Phnom Penh eSIM, Siem Reap eSIM, Sihanoukville eSIM, Kambodscha mobiles Internet,
     5G Kambodscha
+  low_price: 3.99
+  high_price: 88.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -46,7 +48,7 @@ hero:
   title: 'Kambodscha eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Kambodscha
 features:
-  title: 'Warum Reisende Roami fuer Kambodscha waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Kambodscha wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +74,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Kambodscha-Anbietern für das stärkste Signal
-plans_title: 'Kambodscha eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Kambodscha eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 20GB
@@ -289,7 +291,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Kambodscha, einschliesslich Phnom Penh, Siem Reap, Sihanoukville,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Kambodscha, einschließlich Phnom Penh, Siem Reap, Sihanoukville,
         Battambang. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Cellcard, Smart Axiata, Metfone.
     - icon: zap
       color: text-amber-500
@@ -398,17 +400,19 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Kambodscha am beliebtesten?
       a: |
-        Die meisten Reisenden nach Kambodscha wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Kambodscha wählen den 5GB/15 Tage Tarif ($7.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($9.99) oder den unbegrenzten Tarif ($11.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Kambodscha?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($6.99), für zwei Wochen 10GB ($9.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Kambodscha akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $3.99. 
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -427,7 +431,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -470,9 +474,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
   title: 'Cambodia eSIM im Vergleich zu Prepaid-SIM-Karten: Was Sie wissen müssen'
-  subtitle: Lokale Prepaid-SIMs in Kambodscha vs. eSIM-Lösungen (2024/2025 Benchmark)
+  subtitle: Lokale Prepaid-SIMs in Kambodscha vs. eSIM-Lösungen für Reisende
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Cambodia) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Cambodia
@@ -484,60 +489,64 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Smart- und Cellcard-Touristenkarten sind nur an bestimmten Ständen am Flughafen Phnom Penh/Siem Reap erhältlich;
-      Metfone erfordert persönliche Vorführung des Reisepasses im Showroom. Nicht autorisierte Händler verlangen bis zu 10
-      $ für eine 1$-Karte.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die langen Schlangen an den Smart- und Cellcard-Ständen am Flughafen Phnom Penh. Aktivieren Sie
-      Ihre eSIM online innerhalb von 1 Minute nach der Landung – kein Risiko, 10 $ für eine 1$-Karte zu bezahlen.
+    prepaid_desc: Smart- und Cellcard-Touristenkarten sind nur an bestimmten Ständen am Flughafen Phnom Penh/Siem Reap
+      erhältlich; Metfone erfordert persönliche Vorführung des Reisepasses im Showroom. Nicht autorisierte Händler
+      verlangen bis zu 10 $ für eine 1$-Karte.
+    esim_title: In wenigen Minuten startklar
+    esim_desc: Umgehen Sie die langen Schlangen an den Smart- und Cellcard-Ständen am Flughafen Phnom Penh. Aktivieren
+      Sie Ihre eSIM online innerhalb von 1 Minute nach der Landung – kein Risiko, 10 $ für eine 1$-Karte zu bezahlen.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Offiziell ist die Registrierung mit Reisepass und gültigem Visum im Geschäft erforderlich, aber es gibt
-      einen großen Schwarzmarkt für nicht registrierte SIM-Karten; nicht registrierte Karten werden von den Behörden zwangsweise
-      abgeschaltet.
+    prepaid_desc: Offiziell ist die Registrierung mit Reisepass und gültigem Visum im Geschäft erforderlich, aber es
+      gibt einen großen Schwarzmarkt für nicht registrierte SIM-Karten; nicht registrierte Karten werden von den
+      Behörden zwangsweise abgeschaltet.
     esim_title: Kein Pass erforderlich
-    esim_desc: Keine Passkopien, die in dubiosen Geschäften zurückgehalten werden. Roami eSIM benötigt keine persönliche Registrierung
-      – vermeiden Sie die Zwangsabschaltung nicht registrierter SIM-Karten.
+    esim_desc: Keine Passkopien, die in dubiosen Geschäften zurückgehalten werden. Roami eSIM benötigt keine
+      persönliche Registrierung – vermeiden Sie die Zwangsabschaltung nicht registrierter SIM-Karten.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Metfone ASEAN Roaming kostet 1,25 $/Tag für 1 GB Hochgeschwindigkeit, danach gedrosselt auf 64 kbps; Smart
-      verlangt 2 $/Tag für begrenzte Daten in Nachbarländern und bis zu 10 $/Tag für Roaming in Europa/Japan/Korea.
+    prepaid_desc: Metfone ASEAN Roaming kostet 1,25 $/Tag für 1 GB Hochgeschwindigkeit, danach gedrosselt auf 64 kbps;
+      Smart verlangt 2 $/Tag für begrenzte Daten in Nachbarländern und bis zu 10 $/Tag für Roaming in
+      Europa/Japan/Korea.
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Nahtlose Konnektivität in Thailand, Vietnam und Laos ohne teure Zusatzpakete. Im Gegensatz zu Metfone (1,25
-      $/Tag für nur 1 GB) oder Smart (2 $/Tag für begrenzte Daten) bietet Roami einheitliche Tarife ab 1,99 $/GB.
+    esim_desc: Nahtlose Konnektivität in Thailand, Vietnam und Laos ohne teure Zusatzpakete. Im Gegensatz zu Metfone
+      (1,25 $/Tag für nur 1 GB) oder Smart (2 $/Tag für begrenzte Daten) bietet Roami einheitliche Tarife ab 1,99
+      $/GB.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Smart Traveller SIM ist nur in 7-Tage- (3 $/25 GB) und 15-Tage- (5 $/35 GB) Paketen erhältlich; Cellcard
-      Serey+ hat einen 28-Tage-Zyklus (4 $/25 GB). Ein 5-tägiger Tourist verschwendet über 70 % des Paketwerts.
+    prepaid_desc: Smart Traveller SIM ist nur in 7-Tage- (3 $/25 GB) und 15-Tage- (5 $/35 GB) Paketen erhältlich;
+      Cellcard Serey+ hat einen 28-Tage-Zyklus (4 $/25 GB). Ein 5-tägiger Tourist verschwendet über 70 % des
+      Paketwerts.
     esim_title: Flexible Tarife nach Bedarf
-    esim_desc: Keine 7-Tage-Zwangspakete wie Smart (3 $/25 GB) oder 28-Tage-Zyklen wie Cellcard (4 $/25 GB). Roami bietet
-      7-Tage-Datentarife ab 1,99 $/GB – sparen Sie über 70 % bei Kurzreisen.
+    esim_desc: Keine 7-Tage-Zwangspakete wie Smart (3 $/25 GB) oder 28-Tage-Zyklen wie Cellcard (4 $/25 GB). Roami
+      bietet 7-Tage-Datentarife ab 1,99 $/GB – sparen Sie über 70 % bei Kurzreisen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Typische Marktpraxis: Die meisten kambodschanischen
-      Prepaid-Karten erlauben Tethering, aber Smart drosselt nach 1 GB/Tag auf 384 kbps.'
+    prepaid_desc: 'Typische Marktpraxis: Die meisten kambodschanischen Prepaid-Karten erlauben Tethering, aber Smart
+      drosselt nach 1 GB/Tag auf 384 kbps.'
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Im Gegensatz zu Smart, das nach 1 GB/Tag auf 384 kbps drosselt, erlaubt Roami unbegrenztes Tethering ohne Geschwindigkeitsbegrenzung
-      – ideal für Laptop-Arbeit unterwegs.
+    esim_desc: Im Gegensatz zu Smart, das nach 1 GB/Tag auf 384 kbps drosselt, erlaubt Roami unbegrenztes Tethering
+      ohne Geschwindigkeitsbegrenzung – ideal für Laptop-Arbeit unterwegs.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Aufladung erfolgt über lokale Gutscheine oder Bargeld an Kiosken; Online-Aufladung mit ausländischen Karten
-      wird oft abgelehnt. Mindestaufladung beträgt 1 $.
+    prepaid_desc: Aufladung erfolgt über lokale Gutscheine oder Bargeld an Kiosken; Online-Aufladung mit ausländischen
+      Karten wird oft abgelehnt. Mindestaufladung beträgt 1 $.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Bezahlen Sie bequem mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine Bargeld-Suche für
-      Aufladekarten oder Ablehnung ausländischer Karten.
+    esim_desc: Bezahlen Sie bequem mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine Bargeld-Suche
+      für Aufladekarten oder Ablehnung ausländischer Karten.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Kundensupport ist nur auf Khmer und begrenzt auf lokale Geschäftszeiten; kein Live-Chat für Prepaid-Kunden.
+    prepaid_desc: Kundensupport ist nur auf Khmer und begrenzt auf lokale Geschäftszeiten; kein Live-Chat für
+      Prepaid-Kunden.
     esim_title: 24/7 Kundenservice
-    esim_desc: Unser mehrsprachiger Support ist rund um die Uhr erreichbar – im Gegensatz zu lokalen Anbietern, die nur auf
-      Khmer und zu Bürozeiten helfen.
+    esim_desc: Unser mehrsprachiger Support ist rund um die Uhr erreichbar – im Gegensatz zu lokalen Anbietern, die
+      nur auf Khmer und zu Bürozeiten helfen.
   expert_verdict:
     title: 'Cambodia eSIM vs. lokale SIM-Karte: Die ultimative Entscheidung für stressfreie Konnektivität'
     cards:
@@ -545,26 +554,26 @@ market_analysis:
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie Kambodschas strenge SIM-Passanforderungen
-      desc: Offiziell müssen Sie Ihren Reisepass und Ihr Visum in einem Metfone-Showroom vorlegen, um eine SIM-Karte zu registrieren.
-        Nicht registrierte Karten werden von den Behörden zwangsweise abgeschaltet. Roami eSIM benötigt keine persönliche
-        Identifikation – sofortige Aktivierung ohne Bürokratie.
+      desc: Offiziell müssen Sie Ihren Reisepass und Ihr Visum in einem Metfone-Showroom vorlegen, um eine SIM-Karte
+        zu registrieren. Nicht registrierte Karten werden von den Behörden zwangsweise abgeschaltet. Roami eSIM
+        benötigt keine persönliche Identifikation – sofortige Aktivierung ohne Bürokratie.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Keine Netzabdeckungslücken in ländlichen Gebieten
-      desc: Cellcard hat in ländlichen Gebieten nur lückenhafte Abdeckung; yes 018 funktioniert nur in Städten mit 4G/LTE
-        auf 850 MHz. Roami nutzt das beste verfügbare Netz – zuverlässige Verbindung auch in Siem Reap.
+      desc: Cellcard hat in ländlichen Gebieten nur lückenhafte Abdeckung; yes 018 funktioniert nur in Städten mit
+        4G/LTE auf 850 MHz. Roami nutzt das beste verfügbare Netz – zuverlässige Verbindung auch in Siem Reap.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Vermeiden Sie teures Roaming in Nachbarländern
-      desc: Metfone ASEAN Roaming kostet 1,25 $/Tag für nur 1 GB Hochgeschwindigkeit, danach 64 kbps. Smart verlangt 2 $/Tag
-        für begrenzte Daten in Thailand/Vietnam. Mit Roami eSIM nutzen Sie einen einheitlichen Datentarif für ganz Südostasien
-        – keine versteckten Aufschläge.
+      desc: Metfone ASEAN Roaming kostet 1,25 $/Tag für nur 1 GB Hochgeschwindigkeit, danach 64 kbps. Smart verlangt 2
+        $/Tag für begrenzte Daten in Thailand/Vietnam. Mit Roami eSIM nutzen Sie einen einheitlichen Datentarif für
+        ganz Südostasien – keine versteckten Aufschläge.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
-      title: Bequeme Zahlung mit westlichen Methoden
-      desc: Lokale Aufladung erfordert Bargeld oder Gutscheine an Kiosken; ausländische Karten werden oft abgelehnt. Roami
-        akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – keine Währungssorgen.
+      title: Direkte Kartenzahlung
+      desc: Lokale Aufladung erfordert Bargeld oder Gutscheine an Kiosken; ausländische Karten werden oft abgelehnt.
+        Roami akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – keine Währungssorgen.
 ---

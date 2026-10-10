@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan eSIM 2026: 5G & Datentarife | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -25,7 +25,7 @@ seo:
   keywords: Taiwan eSIM, Taiwan Reise eSIM, beste eSIM Taiwan, Taiwan Datentarif, Chunghwa Telecom Taiwan, Taiwan Mobile Taiwan,
     Far EasTone Taiwan, Taipei eSIM, Taichung eSIM, Kaohsiung eSIM, Taiwan mobiles Internet, 5G Taiwan
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -48,7 +48,7 @@ hero:
   title: 'Taiwan eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Taiwan
 features:
-  title: 'Warum Reisende Roami fuer Taiwan waehlen: Abdeckung, Geschwindigkeit & Service'
+  title: 'Warum Reisende Roami für Taiwan wählen: Abdeckung, Geschwindigkeit & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -74,7 +74,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Wechsel
     desc: Auto-Verbindung zu den besten Taiwan-Anbietern für das stärkste Signal
-plans_title: 'Taiwan eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Taiwan eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 20GB
@@ -291,7 +291,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Taiwan, einschliesslich Taipei, Taichung, Kaohsiung, Tainan. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Taiwan, einschließlich Taipei, Taichung, Kaohsiung, Tainan. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von Chunghwa Telecom, Taiwan Mobile, Far EasTone.
     - icon: zap
       color: text-amber-500
@@ -355,7 +355,7 @@ activation_steps:
     desc: Aktivieren Sie nach der Landung in Taiwan die eSIM in den Einstellungen. Wir empfehlen WLAN für die erste Aktivierung.
     is_list: false
 faq_section:
-  title: "Wie zuverlaessig ist eSIM in Taiwan? Ein praktischer Leitfaden"
+  title: "Wie zuverlässig ist eSIM in Taiwan? Ein praktischer Leitfaden"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Taiwan. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -374,15 +374,18 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Taiwan am beliebtesten?
       a: |
-        Die meisten Reisenden nach Taiwan wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Taiwan wählen den 5GB/15 Tage Tarif ($7.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($8.99) oder den unbegrenzten Tarif ($9.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Taiwan eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Taiwan mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Taiwan mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $69.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Taiwan?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($5.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Soll ich meine Taiwan eSIM vor der Abreise oder erst am Flughafen installieren?
       a: |
@@ -390,72 +393,160 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Taiwan?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($5.99), für zwei Wochen 10GB ($8.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Ist eSIM günstiger als internationales Roaming für Taiwan?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Taiwan kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Taiwan kostet $5.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Weitere beliebte eSIM-Ziele
   items:
-  - name: USA eSIM
+  - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-states-esim
-  - name: UK eSIM
+  - name: Vereinigtes Königreich eSIM
     flag: img/flags/gb.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: united-kingdom-esim
   - name: Europa eSIM
     flag: img/flags/eu.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: true
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab $1.99
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
     flag: img/flags/tr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: turkey-esim
   - name: China eSIM
     flag: img/flags/cn.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: china-esim
   - name: Japan eSIM
     flag: img/flags/jp.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: japan-esim
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: hong-kong-esim
   - name: Frankreich eSIM
     flag: img/flags/fr.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: france-esim
   - name: Spanien eSIM
     flag: img/flags/es.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: spain-esim
   - name: Deutschland eSIM
     flag: img/flags/de.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: germany-esim
   - name: Australien eSIM
     flag: img/flags/au.svg
-    price: Ab $1.99
+    price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+market_analysis:
+  title: 'Taiwan eSIM gegen Chunghwa Telecom und Taiwan Mobile: Der Vergleich für Taipei und die Ostküste'
+  subtitle: Drei Netze, Touristenkarten ab dem Flughafen und eine schnelle Bahnstrecke entlang der Westküste
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Taiwan) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Taiwan
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Taiwan eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: Chunghwa Telecom, Taiwan Mobile und Far EasTone verkaufen ihre Karten an den Flughäfen von Taoyuan
+      und Songshan sowie in den Städten; die Ausgabe ist an Pass und ein zweites Ausweisdokument gebunden.
+    esim_title: Vor der Ankunft bereit
+    esim_desc: Die Einrichtung auf dem Handy erfolgt vor der Reise. Am Flughafen Taoyuan entfällt die Warteschlange am
+      Touristenschalter.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Für eine Prepaid-Karte vor Ort werden der Reisepass und ein zweites Dokument verlangt; die Nummer
+      wird registriert, bevor sie Daten liefert.
+    esim_title: Ohne zweites Dokument
+    esim_desc: Roami verzichtet auf Pass und Zusatzdokument und aktiviert nach der Bestellung.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Die Inlandstarife enden an der Küste; für eine Weiterreise nach Hongkong oder Macau muss ein
+      separates Paket gebucht werden.
+    esim_title: Region ohne Neukauf
+    esim_desc: Für die Route Taipei, Hongkong und Macau lässt sich ein Paket für die ganze Strecke buchen.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die lokalen Touristensim-Karten laufen meist 3 bis 30 Tage und sind auf ein Volumen begrenzt; wer
+      länger bleibt, muss neu kaufen statt nachbuchen.
+    esim_title: Reisetage statt Neukauf
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 3-Tage-Tarif beginnt bei $1.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Taipei, Taichung und Kaohsiung sind mit 5G hervorragend versorgt; auf der Strecke nach Hualien und
+      in der Taroko-Schlucht an der Ostküste bricht das Signal dagegen über weite Strecken ab.
+    esim_title: Hotspot entlang der Westküste
+    esim_desc: Bei Roami ist Hotspot-Nutzung kostenfrei, auch wenn in der Taroko-Schlucht nur ein schwaches Netz
+      anliegt.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über die Apps der Anbieter und in Convenience-Stores; abgerechnet wird im Neuen
+      Taiwan-Dollar, ausländische Karten werden an den Flughafenschaltern meist angenommen.
+    esim_title: Zahlung mit Karte
+    esim_desc: Roami rechnet in US-Dollar ab und akzeptiert internationale Karten und Wallet-Dienste.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist mandarin- und teils englischsprachig; die Touristenschalter an den Flughäfen
+      sind der schnellste Weg zur Auskunft.
+    esim_title: Mandarin und Englisch
+    esim_desc: Während der Reise bleibt Roami per Chat und E-Mail mehrsprachig erreichbar.
+  expert_verdict:
+    title: 'Taiwan: vier Gründe für die eSIM vor der lokalen Karte'
+    cards:
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Zwei Dokumente nötig
+      desc: Für die Prepaid-Karte werden Pass und ein zweites Dokument verlangt. Ein <b>Ausweisdokument</b> wird bei
+        Roami nicht erfasst.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Taroko ohne Netz
+      desc: Auf der Strecke nach Hualien und in der Taroko-Schlucht bricht die Versorgung ab.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Kein Nachbuchen
+      desc: Touristenkarten sind auf 3 bis 30 Tage begrenzt; bleibt man länger, muss neu gekauft werden.
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: Schalter am Flughafen
+      desc: Am Flughafen Taoyuan ist der Touristenschalter oft überlaufen – die eSIM ist schon vor der Landung aktiv.
 ---

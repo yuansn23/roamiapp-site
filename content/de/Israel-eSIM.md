@@ -1,6 +1,6 @@
 ---
 title: 'Israel eSIM 2026: Touristen & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,11 @@ modal:
     Code: web20'
 seo:
   title: 'Israel eSIM: Schnelles 5G für Business & Urlaub'
-  description: Vergleichen Sie Israel eSIM Tarife mit 5G in Tel Aviv, Jerusalem, Haifa. Cellcom & Partner & Pelephone Abdeckungsguide.
-    Sofortige QR-Aktivierung ab $1.99.
+  description: Vergleichen Sie Israel eSIM Tarife mit 5G in Tel Aviv, Jerusalem, Haifa. Cellcom & Partner & Pelephone Abdeckungsguide. Sofortige QR-Aktivierung ab $2.99.
   keywords: Israel eSIM, Israel Reise eSIM, beste eSIM Israel, Israel Datentarif, Cellcom Israel, Partner Israel, Pelephone
     Israel, Tel Aviv eSIM, Jerusalem eSIM, Haifa eSIM, Israel mobiles Internet, 5G Israel
+  low_price: 2.99
+  high_price: 69.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +46,7 @@ hero:
   title: 'Israel eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Israel
 features:
-  title: 'Warum Reisende Roami fuer Israel waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Israel wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Israel-Anbietern für das stärkste Signal
-plans_title: 'Israel eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Israel eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -280,7 +281,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Israel, einschliesslich Tel Aviv, Jerusalem, Haifa, Eilat. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Israel, einschließlich Tel Aviv, Jerusalem, Haifa, Eilat. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von Cellcom, Partner, Pelephone.
     - icon: zap
       color: text-amber-500
@@ -357,7 +358,7 @@ activation_steps:
       Medien checken oder einen Hotspot für andere Geräte einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "eSIM in Israel -- Ist die Verbindung fuer Touristen schnell genug?"
+  title: "eSIM in Israel -- Ist die Verbindung für Touristen schnell genug?"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Israel. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -380,15 +381,17 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Israel eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Israel mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Israel mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $69.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Israel akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $2.99. 
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Israel?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($4.99), für zwei Wochen 10GB ($6.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Kann ich meine heimische SIM-Karte behalten, während ich eSIM in Israel nutze?
       a: |
@@ -396,9 +399,10 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Israel am beliebtesten?
       a: |
-        Die meisten Reisenden nach Israel wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Israel wählen den 5GB/15 Tage Tarif ($6.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($6.99) oder den unbegrenzten Tarif ($10.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Passende eSIM-Tarife für Ihre Reise
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -417,7 +421,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -460,9 +464,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Israel eSIM vs. lokale Prepaid-SIM: Was ist bequemer?'
-  subtitle: Lokale Prepaid-SIMs in Israel vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: Israel eSIM vs. lokale Prepaid-SIM im Praxistest
+  subtitle: Lokale Prepaid-SIMs in Israel vs. eSIM-Lösungen im direkten Vergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Israel) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Israel
@@ -474,85 +479,84 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Typische Marktdaten: In Israel können Prepaid-SIMs
-      in Geschäften der Anbieter oder an Kiosken erworben werden; am Flughafen Ben Gurion werden oft überteuerte Touristenpakete
-      verkauft, z.B. 019 Mobile 10 Tage 10 GB für 29 USD.'
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die überteuerten Touristenfallen am Flughafen Ben Gurion (z.B. 019 Mobile 10 Tage 10 GB für 29
-      USD). Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute vor Ihrer Reise.
+    prepaid_desc: 'Typische Marktdaten: In Israel können Prepaid-SIMs in Geschäften der Anbieter oder an Kiosken
+      erworben werden; am Flughafen Ben Gurion werden oft überteuerte Touristenpakete verkauft, z.B. 019 Mobile 10
+      Tage 10 GB für 29 USD.'
+    esim_title: Aktiv ohne Gang zum Schalter
+    esim_desc: Umgehen Sie die überteuerten Touristenfallen am Flughafen Ben Gurion (z.B. 019 Mobile 10 Tage 10 GB für
+      29 USD). Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute vor Ihrer Reise.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Obwohl alle Prepaid-Karten in Israel anonym sind, erfordert die Aktivierung bei Partner das manuelle Wählen
-      von *454 zur Freischaltung von 4G, was für nicht hebräischsprachige Touristen eine Hürde darstellt.
+    prepaid_desc: Obwohl alle Prepaid-Karten in Israel anonym sind, erfordert die Aktivierung bei Partner das manuelle
+      Wählen von *454 zur Freischaltung von 4G, was für nicht hebräischsprachige Touristen eine Hürde darstellt.
     esim_title: Kein Pass oder 4G-Aktivierung nötig
-    esim_desc: Vermeiden Sie die lästige manuelle 4G-Aktivierung bei Partner (Anruf *454). Mit eSIM entfällt die Passregistrierung
-      und die SIM ist sofort einsatzbereit.
+    esim_desc: Vermeiden Sie die lästige manuelle 4G-Aktivierung bei Partner (Anruf *454). Mit eSIM entfällt die
+      Passregistrierung und die SIM ist sofort einsatzbereit.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Golan Telecom bietet kein internationales Roaming; andere Anbieter verlangen für internationale Anrufe zusätzliche
-      Gebühren, z.B. Pelephone 30 ₪ für ein Auslandstelefonie-Paket.
-    esim_title: Weltweites Roaming ohne Einschränkungen
-    esim_desc: Im Gegensatz zu Golan Telecom, das kein internationales Roaming bietet, ermöglicht Roami eSIM nahtloses Roaming
-      in mehreren Ländern, z.B. Israel und Jordanien, ohne zusätzliche Kosten.
+    prepaid_desc: Golan Telecom bietet kein internationales Roaming; andere Anbieter verlangen für internationale
+      Anrufe zusätzliche Gebühren, z.B. Pelephone 30 ₪ für ein Auslandstelefonie-Paket.
+    esim_title: Grenzüberschreitend ohne Aufpreis
+    esim_desc: Im Gegensatz zu Golan Telecom, das kein internationales Roaming bietet, ermöglicht Roami eSIM nahtloses
+      Roaming in mehreren Ländern, z.B. Israel und Jordanien, ohne zusätzliche Kosten.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Partner bietet nur 30-Tage-Tarife ab 60 ₪; Cellcom hat einen 7-Tage-Tarif für 49 ₪ mit nur 3 GB, was im
-      Vergleich zum 30-Tage-Tarif (59 ₪ für 100 GB) teuer ist.
+    prepaid_desc: Partner bietet nur 30-Tage-Tarife ab 60 ₪; Cellcom hat einen 7-Tage-Tarif für 49 ₪ mit nur 3 GB, was
+      im Vergleich zum 30-Tage-Tarif (59 ₪ für 100 GB) teuer ist.
     esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Vermeiden Sie Partners 30-Tage-Zwangstarife (60 ₪ für 125 GB). Roami bietet 7-Tage-Tarife ab 1,99 $/GB, sodass
-      Sie nur für das bezahlen, was Sie nutzen.
+    esim_desc: Vermeiden Sie Partners 30-Tage-Zwangstarife (60 ₪ für 125 GB). Roami bietet 7-Tage-Tarife ab 1,99 $/GB,
+      sodass Sie nur für das bezahlen, was Sie nutzen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Typische Marktdaten: In Israel erlauben die
-      meisten Anbieter Tethering, aber die Geschwindigkeit kann nach Verbrauch des Datenvolumens gedrosselt werden.'
+    prepaid_desc: 'Typische Marktdaten: In Israel erlauben die meisten Anbieter Tethering, aber die Geschwindigkeit
+      kann nach Verbrauch des Datenvolumens gedrosselt werden.'
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Nutzen Sie Ihr Smartphone als Hotspot ohne versteckte Drosselung. Anders als bei lokalen SIMs, die nach Datenverbrauch
-      die Geschwindigkeit reduzieren, bleibt Ihre Verbindung stabil.
+    esim_desc: Nutzen Sie Ihr Smartphone als Hotspot ohne versteckte Drosselung. Anders als bei lokalen SIMs, die nach
+      Datenverbrauch die Geschwindigkeit reduzieren, bleibt Ihre Verbindung stabil.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Aufladungen von außerhalb Israels sind extrem schwierig; internationale Kreditkarten werden nicht akzeptiert,
-      nur PAYEXPRESS oder WebMoney, was für Touristen unpraktisch ist.
+    prepaid_desc: Aufladungen von außerhalb Israels sind extrem schwierig; internationale Kreditkarten werden nicht
+      akzeptiert, nur PAYEXPRESS oder WebMoney, was für Touristen unpraktisch ist.
     esim_title: Weltweite Zahlung ohne Hürden
-    esim_desc: Zahlen Sie bequem mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine Probleme mit lokalen
-      Zahlungsmethoden wie PAYEXPRESS.
+    esim_desc: Für die Buchung genügt eine Karte oder ein Wallet-Dienst – die Abrechnung läuft in US-Dollar. Keine
+      Probleme mit lokalen Zahlungsmethoden wie PAYEXPRESS.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Typische Marktdaten: Kundensupport ist meist
-      auf Hebräisch und nur zu Geschäftszeiten erreichbar.'
+    prepaid_desc: 'Typische Marktdaten: Kundensupport ist meist auf Hebräisch und nur zu Geschäftszeiten erreichbar.'
     esim_title: 24/7 Kundensupport auf Deutsch
-    esim_desc: Unser Support-Team ist rund um die Uhr erreichbar, im Gegensatz zu lokalen Anbietern, die nur hebräischen Support
-      zu Geschäftszeiten bieten.
+    esim_desc: Unser Support-Team ist rund um die Uhr erreichbar, im Gegensatz zu lokalen Anbietern, die nur
+      hebräischen Support zu Geschäftszeiten bieten.
   expert_verdict:
-    title: 'Israel eSIM vs. Prepaid-SIM: Welches bietet besseres Preis-Leistungs-Verhältnis?'
+    title: 'Israel eSIM vs. lokale Prepaid-SIM: Registrierung und Preise'
     cards:
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie Israels SIM-Passanforderungen
-      desc: Während lokale SIMs wie Partner eine manuelle 4G-Aktivierung per Anruf *454 erfordern, ist die eSIM sofort einsatzbereit
-        – kein Pass, kein Sprachproblem.
+      desc: Während lokale SIMs wie Partner eine manuelle 4G-Aktivierung per Anruf *454 erfordern, ist die eSIM sofort
+        einsatzbereit – kein Pass, kein Sprachproblem.
     - icon: shield
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Schutz vor SIM-Betrug
-      desc: In Israel werden Touristen manchmal Postpaid-Karten als Prepaid verkauft. Mit Roami eSIM gibt es keine physische
-        Karte und kein Betrugsrisiko.
+      desc: In Israel werden Touristen manchmal Postpaid-Karten als Prepaid verkauft. Mit Roami eSIM gibt es keine
+        physische Karte und kein Betrugsrisiko.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Internationale Zahlung ohne Probleme
-      desc: Aufladungen von außerhalb Israels sind fast unmöglich (nur PAYEXPRESS). Roami akzeptiert Visa, Mastercard, AMEX,
-        Apple Pay, Google Pay und PayPal.
+      desc: Aufladungen von außerhalb Israels sind fast unmöglich (nur PAYEXPRESS). Roami akzeptiert Visa, Mastercard,
+        AMEX, Apple Pay, Google Pay und PayPal.
     - icon: clock
       icon_bg: bg-teal-100
       icon_color: text-teal-600
       title: 24/7 Support auf Deutsch
-      desc: Lokale Anbieter bieten Support nur auf Hebräisch zu Geschäftszeiten. Roami hat rund um die Uhr deutschsprachigen
-        Kundenservice.
+      desc: Lokale Anbieter bieten Support nur auf Hebräisch zu Geschäftszeiten. Roami hat rund um die Uhr
+        deutschsprachigen Kundenservice.
 ---

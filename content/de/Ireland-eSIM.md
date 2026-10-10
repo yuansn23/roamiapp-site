@@ -1,6 +1,6 @@
 ---
 title: 'Irland eSIM 2026: Tarife & Abdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -34,6 +34,8 @@ seo:
   - Galway eSIM
   - Irland mobiles Internet
   - 5G Irland
+  low_price: 1.99
+  high_price: 77.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -56,7 +58,7 @@ hero:
   title: 'Irland eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Irland
 features:
-  title: 'Warum Reisende Roami fuer Irland waehlen: Abdeckung, Geschwindigkeit & Service'
+  title: 'Warum Reisende Roami für Irland wählen: Abdeckung, Geschwindigkeit & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -82,7 +84,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Irland-Anbietern für das stärkste Signal
-plans_title: 'Irland eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Irland eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 20GB
@@ -315,7 +317,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Irland, einschliesslich Dublin, Cork, Galway, Limerick. Ihre eSIM
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Irland, einschließlich Dublin, Cork, Galway, Limerick. Ihre eSIM
         verbindet sich nahtlos mit den robusten Netzen von Vodafone IE, Eircom, Three.
     - icon: zap
       color: text-amber-500
@@ -407,7 +409,7 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Irland akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Kann ich meine heimische SIM-Karte behalten, während ich eSIM in Irland nutze?
       a: |
@@ -431,9 +433,10 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Irland?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($6.99), für zwei Wochen 10GB ($7.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Passende eSIM-Tarife für Ihre Reise
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -452,7 +455,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -495,9 +498,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Ireland eSIM vs. Prepaid-SIM: Welche ist die richtige für Sie?'
-  subtitle: Lokale Prepaid-SIMs in Irland vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Ireland eSIM vs. lokale Prepaid-SIM: Aufwand und Kosten im Check'
+  subtitle: Lokale Prepaid-SIMs in Irland vs. eSIM-Lösungen im Praxistest
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Ireland) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Ireland
@@ -509,84 +513,90 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Three's eSIM erfordert eine irische Postadresse; Vodafone benötigt persönliche Aktivierung im Geschäft und
-      Deaktivierung des Inhaltsfilters.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die komplizierte Aktivierung von Vodafone (persönlicher Besuch) und Three (erfordert irische Adresse).
-      Mit Roami eSIM erhalten Sie Ihre SIM innerhalb von 1 Minute per E-Mail – keine Wartezeiten, kein Pass.
+    prepaid_desc: Three's eSIM erfordert eine irische Postadresse; Vodafone benötigt persönliche Aktivierung im
+      Geschäft und Deaktivierung des Inhaltsfilters.
+    esim_title: Bereit vor der Landung
+    esim_desc: Umgehen Sie die komplizierte Aktivierung von Vodafone (persönlicher Besuch) und Three (erfordert
+      irische Adresse). Mit Roami eSIM erhalten Sie Ihre SIM innerhalb von 1 Minute per E-Mail – keine Wartezeiten,
+      kein Pass.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Three verlangt zur Deaktivierung des Inhaltsfilters das Einsenden einer Passkopie per E-Mail, Bearbeitungszeit
-      bis zu 5 Tage.
+    prepaid_desc: Three verlangt zur Deaktivierung des Inhaltsfilters das Einsenden einer Passkopie per E-Mail,
+      Bearbeitungszeit bis zu 5 Tage.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Three verlangt eine Passkopie zur Deaktivierung des Inhaltsfilters (bis zu 5 Tage Bearbeitung). Roami eSIM
-      benötigt keine persönlichen Ausweise – sofortige Aktivierung ohne Datenschutzrisiko.
+    esim_desc: Three verlangt eine Passkopie zur Deaktivierung des Inhaltsfilters (bis zu 5 Tage Bearbeitung). Roami
+      eSIM benötigt keine persönlichen Ausweise – sofortige Aktivierung ohne Datenschutzrisiko.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Vodafone X (unbegrenzt) hat ein EU-Roaming-Limit von 40 GB; Three Super Surfer limitiert auf 26 GB; eir
-      50 GB Paket schrumpft auf 27,1 GB im EU-Roaming.
+    prepaid_desc: Vodafone X (unbegrenzt) hat ein EU-Roaming-Limit von 40 GB; Three Super Surfer limitiert auf 26 GB;
+      eir 50 GB Paket schrumpft auf 27,1 GB im EU-Roaming.
     esim_title: Weltweites Roaming ohne Limits
-    esim_desc: 'Vermeiden Sie die drastischen Roaming-Kürzungen: eir 50 GB schrumpft auf 27,1 GB, Three Super Surfer auf 26
-      GB. Roami eSIM bietet feste Datenpakete ohne versteckte FUP-Grenzen – 10 GB bleiben 10 GB, egal wo Sie reisen.'
+    esim_desc: 'Vermeiden Sie die drastischen Roaming-Kürzungen: eir 50 GB schrumpft auf 27,1 GB, Three Super Surfer
+      auf 26 GB. Roami eSIM bietet feste Datenpakete ohne versteckte FUP-Grenzen – 10 GB bleiben 10 GB, egal wo Sie
+      reisen.'
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Alle Hauptanbieter (Vodafone, Three, eir) verwenden 28-Tage-Zyklen mit einem Einstiegspreis von €20; ein
-      7-tägiger Tourist verschwendet 75% des Tarifwerts.
+    prepaid_desc: Alle Hauptanbieter (Vodafone, Three, eir) verwenden 28-Tage-Zyklen mit einem Einstiegspreis von €20;
+      ein 7-tägiger Tourist verschwendet 75% des Tarifwerts.
     esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Irlands Prepaid-Tarife (€20/28 Tage) zwingen Sie, für 4 Wochen zu zahlen, auch wenn Sie nur 7 Tage bleiben
-      – 75% Verschwendung. Roami bietet 7-Tage-Pakete ab $1.99/GB – zahlen Sie nur für das, was Sie nutzen.
+    esim_desc: Irlands Prepaid-Tarife (€20/28 Tage) zwingen Sie, für 4 Wochen zu zahlen, auch wenn Sie nur 7 Tage
+      bleiben – 75% Verschwendung. Roami bietet 7-Tage-Pakete ab $2.99 – zahlen Sie nur für das, was Sie nutzen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: 'Vodafone hat extrem strenge Hotspot-Regeln: Bei Verwendung des falschen APN (hs.vodafone.com) werden €0,19/MB
-      berechnet; Lyca Mobile blockiert Hotspot komplett.'
+    prepaid_desc: 'Vodafone hat extrem strenge Hotspot-Regeln: Bei Verwendung des falschen APN (hs.vodafone.com)
+      werden €0,19/MB berechnet; Lyca Mobile blockiert Hotspot komplett.'
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Vodafone bestraft Hotspot-Nutzung mit €0,19/MB bei falschem APN; Lyca Mobile blockiert Tethering komplett.
-      Roami eSIM erlaubt uneingeschränktes Tethering – teilen Sie Ihr Internet mit Laptop und Tablet ohne versteckte Kosten.
+    esim_desc: Vodafone bestraft Hotspot-Nutzung mit €0,19/MB bei falschem APN; Lyca Mobile blockiert Tethering
+      komplett. Roami eSIM erlaubt uneingeschränktes Tethering – teilen Sie Ihr Internet mit Laptop und Tablet ohne
+      versteckte Kosten.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Three akzeptiert online nur irische und britische Kreditkarten; internationale Nutzer müssen physische Gutscheine
-      kaufen.
+    prepaid_desc: Three akzeptiert online nur irische und britische Kreditkarten; internationale Nutzer müssen
+      physische Gutscheine kaufen.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Three akzeptiert online nur irische/britische Karten – internationale Nutzer müssen Gutscheine kaufen. Roami
-      eSIM akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – bezahlen Sie bequem von überall.
+    esim_desc: Three akzeptiert online nur irische/britische Karten – internationale Nutzer müssen Gutscheine kaufen.
+      Roami eSIM akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – bezahlen Sie bequem von
+      überall.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
     prepaid_desc: Three erfordert E-Mail-Kontakt zur Deaktivierung des Inhaltsfilters; Bearbeitungszeit bis zu 5 Tage.
     esim_title: 24/7 Kundensupport
-    esim_desc: Three's Support per E-Mail kann bis zu 5 Tage dauern. Roami eSIM bietet 24/7 Live-Chat und E-Mail-Support –
-      schnelle Hilfe bei Problemen, egal wo Sie sind.
+    esim_desc: Three's Support per E-Mail kann bis zu 5 Tage dauern. Roami eSIM bietet 24/7 Live-Chat und
+      E-Mail-Support – schnelle Hilfe bei Problemen, egal wo Sie sind.
   expert_verdict:
-    title: 'Ireland eSIM vs. physische SIM: Reisen, Kosten und Einrichtung im Vergleich'
+    title: 'Ireland eSIM vs. lokale Prepaid-SIM: Was Reisende erwartet'
     cards:
     - icon: wifi
       icon_bg: bg-green-100
       icon_color: text-green-600
       title: Vermeiden Sie Vodafones Hotspot-Falle
-      desc: Vodafone verlangt die Verwendung des APN <b>live.vodafone.com</b> für kostenloses Tethering; bei Nutzung von <b>hs.vodafone.com</b>
-        werden <b>€0,19/MB</b> berechnet. Lyca Mobile blockiert Hotspot komplett. Roami eSIM erlaubt uneingeschränktes Tethering
-        ohne versteckte Kosten.
+      desc: Vodafone verlangt die Verwendung des APN <b>live.vodafone.com</b> für kostenloses Tethering; bei Nutzung
+        von <b>hs.vodafone.com</b> werden <b>€0,19/MB</b> berechnet. Lyca Mobile blockiert Hotspot komplett. Roami
+        eSIM erlaubt uneingeschränktes Tethering ohne versteckte Kosten.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600
       title: Schützen Sie Ihre Privatsphäre
-      desc: Three verlangt das Einsenden einer <b>Passkopie</b> per E-Mail zur Deaktivierung des Inhaltsfilters – ein Risiko
-        für Ihre Privatsphäre. Roami eSIM erfordert keine persönlichen Dokumente – Ihre Daten bleiben sicher.
+      desc: Three verlangt das Einsenden einer <b>Passkopie</b> per E-Mail zur Deaktivierung des Inhaltsfilters – ein
+        Risiko für Ihre Privatsphäre. Roami eSIM erfordert keine persönlichen Dokumente – Ihre Daten bleiben sicher.
     - icon: clock
       icon_bg: bg-orange-100
       icon_color: text-orange-600
       title: Sofortige Aktivierung ohne Verzögerung
-      desc: Vodafone erfordert persönliche Aktivierung im Geschäft; Three's eSIM benötigt eine <b>irische Postadresse</b>.
-        Roami eSIM wird innerhalb von <b>1 Minute</b> nach Kauf per E-Mail geliefert – keine Wartezeiten, kein Gang zum Shop.
+      desc: Vodafone erfordert persönliche Aktivierung im Geschäft; Three's eSIM benötigt eine <b>irische
+        Postadresse</b>. Roami eSIM wird innerhalb von <b>1 Minute</b> nach Kauf per E-Mail geliefert – keine
+        Wartezeiten, kein Gang zum Shop.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie Irlands strenge SIM-Passanforderungen
-      desc: Three verlangt zur Deaktivierung des Inhaltsfilters das Einsenden einer Passkopie per E-Mail mit einer Bearbeitungszeit
-        von bis zu <b>5 Tagen</b>. Roami eSIM benötigt keine persönlichen Ausweise – sofortige Aktivierung ohne Datenschutzrisiko.
+      desc: Three verlangt zur Deaktivierung des Inhaltsfilters das Einsenden einer Passkopie per E-Mail mit einer
+        Bearbeitungszeit von bis zu <b>5 Tagen</b>. Roami eSIM benötigt keine persönlichen Ausweise – sofortige
+        Aktivierung ohne Datenschutzrisiko.
 ---

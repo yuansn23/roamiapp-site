@@ -1,6 +1,6 @@
 ---
 title: 'Brasilien eSIM 2026: Verbindung & Geschwindigkeit | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -34,6 +34,8 @@ seo:
   - Brasília eSIM
   - Brasilien mobiles Internet
   - 5G Brasilien
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -56,7 +58,7 @@ hero:
   title: 'Brasilien eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Brasilien
 features:
-  title: 'Warum Reisende Roami fuer Brasilien waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Brasilien wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -82,7 +84,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Brasilien-Anbietern für das stärkste Signal
-plans_title: 'Brasilien eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Brasilien eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 3GB
@@ -283,7 +285,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Brasilien, einschliesslich Rio de Janeiro, São Paulo, Brasília,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Brasilien, einschließlich Rio de Janeiro, São Paulo, Brasília,
         Salvador. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Vivo, Claro, TIM.
     - icon: zap
       color: text-amber-500
@@ -361,7 +363,7 @@ activation_steps:
       ohne Vertrag.
     is_list: false
 faq_section:
-  title: "Kommt eSIM in Brazil ueberall gut an? Stadt- und Landabdeckung im Ueberblick"
+  title: "Kommt eSIM in Brazil überall gut an? Stadt- und Landabdeckung im Überblick"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Brazil. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -376,15 +378,18 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Brasilien?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($14.99), für zwei Wochen 10GB ($22.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Brasilien am beliebtesten?
       a: |
-        Die meisten Reisenden nach Brasilien wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Brasilien wählen den 5GB/15 Tage Tarif ($16.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($22.99) oder den unbegrenzten Tarif ($32.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Ist eSIM günstiger als internationales Roaming für Brasilien?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Brasilien kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Brasilien kostet $14.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Brasilien speichern?
       a: |
@@ -392,7 +397,8 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Brasilien eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Brasilien mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Brasilien mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $32.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Brasilien nutzen?
       a: |
@@ -402,7 +408,7 @@ faq_section:
       a: |
         Ja — der QR-Code kommt innerhalb von 5 Minuten per E-Mail zugestellt. Die E-Mail enthält auch eine Installationsanleitung. Prüfen Sie ggf. Ihren Spam-Ordner.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Weitere beliebte eSIM-Ziele
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -421,7 +427,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -464,9 +470,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Brazil eSIM vs. physische SIM: Reisen, Kosten und Einrichtung im Vergleich'
-  subtitle: Lokale Prepaid-SIMs in Brasilien vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: Brazil eSIM vs. lokale Prepaid-SIM im Praxistest
+  subtitle: Lokale Prepaid-SIMs in Brasilien vs. eSIM-Lösungen ohne Vertragsbindung
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Brazil) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Brazil
@@ -478,56 +485,58 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Vivo, TIM und Claro verlangen den Kauf in Markengeschäften; Vivo verweigert häufig den Verkauf an Ausländer
-      ohne CPF.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie Vivo-Ladenschlangen und Verweigerungen. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute
-      vor Abflug – kein Besuch im Geschäft nötig.
+    prepaid_desc: Vivo, TIM und Claro verlangen den Kauf in Markengeschäften; Vivo verweigert häufig den Verkauf an
+      Ausländer ohne CPF.
+    esim_title: Freigeschaltet vor der Reise
+    esim_desc: Umgehen Sie Vivo-Ladenschlangen und Verweigerungen. Aktivieren Sie Ihre eSIM online innerhalb von 1
+      Minute vor Abflug – kein Besuch im Geschäft nötig.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: TIMs App 'Meu TIM' erfordert zwingend die CPF-Eingabe; Aktivierung nur über die Hotline *144 mit Passangaben
-      möglich.
+    prepaid_desc: TIMs App 'Meu TIM' erfordert zwingend die CPF-Eingabe; Aktivierung nur über die Hotline *144 mit
+      Passangaben möglich.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Anders als TIM (App erzwingt CPF, Hotline *144 nötig) oder Vivo (verweigert Verkauf ohne CPF) benötigt Roami
-      eSIM keine persönliche Identifikation – sofortige Aktivierung ohne Bürokratie.
+    esim_desc: Anders als TIM (App erzwingt CPF, Hotline *144 nötig) oder Vivo (verweigert Verkauf ohne CPF) benötigt
+      Roami eSIM keine persönliche Identifikation – sofortige Aktivierung ohne Bürokratie.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Die Mercosur-Roaming-Vereinbarung gilt nicht für Prepaid-Nutzer; bei Verlassen Brasiliens sofortiger Verbindungsverlust.
+    prepaid_desc: Die Mercosur-Roaming-Vereinbarung gilt nicht für Prepaid-Nutzer; bei Verlassen Brasiliens sofortiger
+      Verbindungsverlust.
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Während brasilianische Prepaid-Karten (Vivo, TIM, Claro) kein Roaming in Mercosur-Ländern bieten, ermöglicht
-      Roami eSIM nahtlose Konnektivität in ganz Südamerika – kein SIM-Wechsel nötig.
+    esim_desc: Während brasilianische Prepaid-Karten (Vivo, TIM, Claro) kein Roaming in Mercosur-Ländern bieten,
+      ermöglicht Roami eSIM nahtlose Konnektivität in ganz Südamerika – kein SIM-Wechsel nötig.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: TIMs günstigster Tarif (R$ 15) gilt nur 9 Tage; Vivo-Tarife ab R$ 17 für 15 Tage; Claro gewährt bei niedrigem
-      Guthaben nur 250 MB/Tag.
+    prepaid_desc: TIMs günstigster Tarif (R$ 15) gilt nur 9 Tage; Vivo-Tarife ab R$ 17 für 15 Tage; Claro gewährt bei
+      niedrigem Guthaben nur 250 MB/Tag.
     esim_title: Flexible Tarife nach Tagen
-    esim_desc: Im Gegensatz zu TIMs 9-Tage-Zwang (R$ 15 für 1,42 GB) oder Vivos 15-Tage-Minimum (R$ 17 für 4 GB) bietet Roami
-      7-Tage-Tarife ab $1.99/GB – keine Verschwendung durch überlange Laufzeiten.
+    esim_desc: Im Gegensatz zu TIMs 9-Tage-Zwang (R$ 15 für 1,42 GB) oder Vivos 15-Tage-Minimum (R$ 17 für 4 GB)
+      bietet Roami 7-Tage-Tarife ab $7.99 – keine Verschwendung durch überlange Laufzeiten.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
+    prepaid_desc: Ob Tethering erlaubt ist, regeln Vivo, Claro und TIM je nach Tarif unterschiedlich; einzelne Pakete
+      erlauben Hotspot nur mit Zubuchung.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während lokale Anbieter Hotspots oft einschränken, erlaubt Roami eSIM uneingeschränktes Tethering – teilen
-      Sie Ihr Datenvolumen mit Laptop und Tablet ohne Zusatzkosten.
+    esim_desc: Während lokale Anbieter Hotspots oft einschränken, erlaubt Roami eSIM uneingeschränktes Tethering –
+      teilen Sie Ihr Datenvolumen mit Laptop und Tablet ohne Zusatzkosten.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Internationale Kreditkarten werden oft abgelehnt; Aufladung erfordert physische Gutscheine oder Drittanbieter
-      mit Gebühren.
+    prepaid_desc: Internationale Kreditkarten werden oft abgelehnt; Aufladung erfordert physische Gutscheine oder
+      Drittanbieter mit Gebühren.
     esim_title: Weltweite Zahlungsmethoden
-    esim_desc: Akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – keine Ablehnung ausländischer Karten
-      wie bei brasilianischen Anbietern.
+    esim_desc: Akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – keine Ablehnung ausländischer
+      Karten wie bei brasilianischen Anbietern.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
     prepaid_desc: TIM bietet englischsprachigen Support unter *144; Vivo-App ohne CPF funktionsunfähig.
     esim_title: 24/7 Kundensupport
-    esim_desc: Roami bietet mehrsprachigen 24/7-Support per Chat und E-Mail – kein zeitraubender Anruf bei TIMs Hotline *144
-      mit englischem Service nur zu Bürozeiten.
+    esim_desc: Roami bietet mehrsprachigen 24/7-Support per Chat und E-Mail – kein zeitraubender Anruf bei TIMs
+      Hotline *144 mit englischem Service nur zu Bürozeiten.
   expert_verdict:
     title: 'Brazil eSIM vs. Prepaid-SIM: Intelligenter reisen und Geld sparen'
     cards:
@@ -535,24 +544,24 @@ market_analysis:
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: 24/7 Kundensupport auf Deutsch
-      desc: TIMs englischer Support ist nur über die Hotline *144 zu Bürozeiten erreichbar. Roami bietet rund um die Uhr mehrsprachigen
-        Chat-Support – schnell und unkompliziert.
+      desc: TIMs englischer Support ist nur über die Hotline *144 zu Bürozeiten erreichbar. Roami bietet rund um die
+        Uhr mehrsprachigen Chat-Support – schnell und unkompliziert.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600
       title: Sicherheit durch Dual-SIM-Betrieb
-      desc: Anders als physische SIMs (Verlustrisiko, kein Empfang von Bank-SMS) bleibt Ihre heimische SIM im Slot – Roami
-        eSIM läuft parallel, Sie sind jederzeit erreichbar.
+      desc: Anders als physische SIMs (Verlustrisiko, kein Empfang von Bank-SMS) bleibt Ihre heimische SIM im Slot –
+        Roami eSIM läuft parallel, Sie sind jederzeit erreichbar.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Internationale Zahlung ohne Hürden
-      desc: Brasilianische Anbieter lehnen ausländische Kreditkarten oft ab oder erheben Gebühren. Roami akzeptiert Visa,
-        Mastercard, AMEX, Apple Pay, Google Pay und PayPal – problemlose Zahlung.
+      desc: Brasilianische Anbieter lehnen ausländische Kreditkarten oft ab oder erheben Gebühren. Roami akzeptiert
+        Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – problemlose Zahlung.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Sofortige Aktivierung vor Reiseantritt
-      desc: Statt in Vivo-Läden Schlange zu stehen (oft vergebens), erhalten Sie Ihre Roami eSIM per E-Mail – Aktivierung
-        in 1 Minute, nutzbar ab Landung in São Paulo oder Rio.
+      desc: Statt in Vivo-Läden Schlange zu stehen (oft vergebens), erhalten Sie Ihre Roami eSIM per E-Mail –
+        Aktivierung in 1 Minute, nutzbar ab Landung in São Paulo oder Rio.
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Hongkong eSIM 2026: Abdeckung & Geschwindigkeit | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Nichts zu kündigen. Deckt alle Regionen ab.
   keywords: Hongkong eSIM, Hongkong Reise eSIM, beste eSIM Hongkong, Hongkong Datentarif, CSL Hongkong, SmarTone Hongkong,
     China Mobile Hong Kong Hongkong, Kowloon eSIM, Tsuen Wan eSIM, Hongkong mobiles Internet, 5G Hongkong
+  low_price: 1.99
+  high_price: 57.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Hongkong eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Hongkong - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer Hongkong waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für Hongkong wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Hongkong-Anbietern für das stärkste Signal
-plans_title: 'Hongkong eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Hongkong eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 5GB
@@ -296,7 +298,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Hongkong, einschliesslich Hongkong, Kowloon, Tsuen Wan, Sha Tin.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Hongkong, einschließlich Hongkong, Kowloon, Tsuen Wan, Sha Tin.
         Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von CSL, SmarTone, China Mobile Hong Kong.
     - icon: zap
       color: text-amber-500
@@ -385,7 +387,7 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Hongkong akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Hongkong nutzen?
       a: |
@@ -397,7 +399,8 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Hongkong?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($4.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($7.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Hongkong speichern?
       a: |
@@ -405,7 +408,8 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Hongkong am beliebtesten?
       a: |
-        Die meisten Reisenden nach Hongkong wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Hongkong wählen den 5GB/15 Tage Tarif ($7.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($9.99) oder den unbegrenzten Tarif ($7.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Funktioniert eSIM in Hongkong auch in ländlichen Gebieten?
       a: |
@@ -413,9 +417,10 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Hongkong?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($4.99), für zwei Wochen 10GB ($9.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Diese eSIM-Tarife könnten Sie interessieren
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -434,7 +439,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -452,11 +457,11 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: japan-esim
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: hong-kong-esim
+    slug: italy-esim
   - name: Frankreich eSIM
     flag: img/flags/fr.svg
     price: Ab 1,99 $
@@ -477,5 +482,93 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
+  title: 'Hongkong eSIM gegen CSL und SmarTone: Wann sich die Registrierung noch lohnt'
+  subtitle: Drei starke Netze, seit 2023 verpflichtende Echtnamenregistrierung für SIM-Karten und ein sehr günstiges
+    Datenangebot
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Hong Kong) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Hong_Kong
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Hongkong eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: CSL, SmarTone und China Mobile Hongkong verkaufen ihre Karten in den Filialen von Kowloon und auf
+      Hongkong-Insel sowie am Flughafen Chek Lap Kok; die Preise liegen dort meist höher als in Stadtfilialen.
+    esim_title: Ohne Gang zur Stadtfiliale
+    esim_desc: Die eSIM wird vor dem Abflug installiert. Am Flughafen Chek Lap Kok entfällt der Weg zum
+      Betreiberschalter und der Aufpreis entfällt.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Seit Februar 2023 müssen Prepaid-Karten in Hongkong auf eine reale Identität registriert werden;
+      dafür sind Ausweis- oder Passdaten nötig, sonst wird die Karte nach Ablauf der Frist abgeschaltet.
+    esim_title: Echtnamenregistrierung umgangen
+    esim_desc: Roami verlangt keine Identitätsdaten. Die Freischaltung läuft rein digital über die Bestellbestätigung.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Die lokalen Tarife gelten nur im Stadtgebiet. Wer von Hongkong nach Macau oder über die Grenze nach
+      Shenzhen weiterreist, braucht dort eine eigene Lösung.
+    esim_title: Regionen ohne Zweitkarte
+    esim_desc: Für die Kombination Hongkong, Macau und Shenzhen bleibt ein Datenpaket gebucht – ohne Grenzaufschlag.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Prepaid-Datenpakete in Hongkong laufen häufig nur 7 bis 30 Tage und sind stark auf Kurzbesucher
+      zugeschnitten; nach Ablauf verfällt das Restvolumen.
+    esim_title: Volumen ohne Ablaufdruck
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen, der 7-Tage-Tarif beginnt bei $2.99 – ohne Restvolumen zu
+      verlieren.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Alle drei Netze liefern in Kowloon und auf Hongkong-Insel sehr hohe Geschwindigkeiten, teils mit 5G;
+      auf den vorgelagerten Inseln Lantau und Lamma fällt die Versorgung dagegen deutlich ab.
+    esim_title: Tethering zwischen Kowloon und Insel
+    esim_desc: Hotspot-Nutzung ist bei Roami kostenfrei, auch auf Tagesausflügen nach Lantau oder Cheung Chau.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über Karten aus Convenience-Stores, die an jeder Ecke liegen; abgerechnet wird in
+      Hongkong-Dollar.
+    esim_title: Zahlung ohne Hongkong-Dollar
+    esim_desc: Bezahlt wird in US-Dollar über Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal – kein Bargeld
+      nötig.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist kantonesisch- und englischsprachig, in den Filialen auch Mandarin; die
+      Erreichbarkeit ist über die Apps der Anbieter am besten.
+    esim_title: Mehrsprachiger Service
+    esim_desc: Fragen beantwortet Roami per Chat und E-Mail, mehrsprachig und rund um die Uhr.
+  expert_verdict:
+    title: 'Hongkong: vier Gründe, warum die eSIM die Registrierung erspart'
+    cards:
+    - icon: id-card
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Echtnamenpflicht umgehen
+      desc: Seit 2023 müssen Prepaid-Karten auf eine reale Identität registriert werden. Bei Roami entfällt <b>jeder
+        Ausweis- und Adressnachweis</b>.
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: Günstiger Einstieg
+      desc: Roami startet bei <b>$2.99 für 7 Tage</b> und liegt damit auf dem Niveau lokaler Prepaid-Pakete.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Macau und Shenzhen
+      desc: Lokale Tarife gelten nur im Stadtgebiet. Für die Regionenroute braucht die lokale Karte eine Ergänzung.
+    - icon: store
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Flughafenpreise meiden
+      desc: Die Schalter am Flughafen verkaufen teurer als Stadtfilialen. Die eSIM kennt keinen Kanalzuschlag.
 ---

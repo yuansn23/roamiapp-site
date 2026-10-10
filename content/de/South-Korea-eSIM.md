@@ -1,6 +1,6 @@
 ---
 title: 'Südkorea eSIM 2026: Verbindung & Geschwindigkeit | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     erlaubt. Deckt Seoul, Busan & ganz Südkorea ab.
   keywords: Südkorea eSIM, Südkorea Reise eSIM, beste eSIM Südkorea, Südkorea Datentarif, SK Telecom Südkorea, KT Corporation
     Südkorea, LG U+ Südkorea, Seoul eSIM, Busan eSIM, Incheon eSIM, Südkorea mobiles Internet, 5G Südkorea
+  low_price: 1.99
+  high_price: 61.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Südkorea eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Südkorea
 features:
-  title: 'Warum Reisende Roami fuer Südkorea waehlen: Netzwerk, Tarife & Preiswert'
+  title: 'Warum Reisende Roami für Südkorea wählen: Netzwerk, Tarife & Preiswert'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Südkorea-Anbietern für das stärkste Signal
-plans_title: 'Südkorea eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Südkorea eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   3 Tage:
   - spec: 5GB
@@ -296,7 +298,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Südkorea, einschliesslich Seoul, Busan, Incheon, Daegu. Ihre eSIM
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Südkorea, einschließlich Seoul, Busan, Incheon, Daegu. Ihre eSIM
         verbindet sich nahtlos mit den robusten Netzen von SK Telecom, KT Corporation, LG U+.
     - icon: zap
       color: text-amber-500
@@ -373,7 +375,7 @@ activation_steps:
       soziale Medien checken oder einen Hotspot für andere Geräte einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "Kommt eSIM in South Korea ueberall gut an? Stadt- und Landabdeckung im Ueberblick"
+  title: "Kommt eSIM in South Korea überall gut an? Stadt- und Landabdeckung im Überblick"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in South Korea. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -388,11 +390,12 @@ faq_section:
     - q: |
         Ist eine eSIM für Südkorea günstiger als eine SIM-Karte am Flughafen?
       a: |
-        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $1.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $2.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Südkorea akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Südkorea nutzen?
       a: |
@@ -404,7 +407,8 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Südkorea am beliebtesten?
       a: |
-        Die meisten Reisenden nach Südkorea wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Südkorea wählen den 5GB/15 Tage Tarif ($5.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($6.99) oder den unbegrenzten Tarif ($8.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Südkorea eSIM eine Bestätigung?
       a: |
@@ -412,9 +416,10 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Südkorea eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Südkorea mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Südkorea mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $61.99 für unbegrenztes Datenvolumen.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -433,7 +438,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -476,5 +481,91 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
+  title: 'Südkorea eSIM gegen SK Telecom und KT: Der Vergleich für Seoul und Busan'
+  subtitle: Drei Netze, Registrierung mit Aufenthaltstitel und ein Mobilfunkmarkt, der auf Inländer zugeschnitten ist
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (South Korea) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/South_Korea
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Südkorea eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: SK Telecom, KT und LG U+ verkaufen ihre Karten in Seoul, Busan und Incheon; eine reguläre
+      Vertragskarte ist an einen koreanischen Aufenthaltstitel gebunden, sodass Ausländer auf Touristenangebote am
+      Flughafen angewiesen sind.
+    esim_title: Vor der Ankunft bereit
+    esim_desc: Aufgespielt wird die eSIM noch vor dem Abflug. Am Flughafen Incheon entfällt die Warteschlange am
+      Touristenschalter.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Für eine reguläre südkoreanische SIM-Karte verlangen die Anbieter eine Alien Registration Card; ohne
+      Aufenthaltstitel bleibt nur die teurere Touristenkarte mit begrenzter Laufzeit.
+    esim_title: Ohne Aufenthaltstitel
+    esim_desc: Roami fragt keine Registrierungsunterlagen ab und schaltet rein digital frei.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Südkorea liegt außerhalb jeder Roamingzone; die Inlandstarife enden an der Küste, und für einen
+      Abstecher nach Japan oder China muss neu gebucht werden.
+    esim_title: Nordostasien am Stück
+    esim_desc: Für die Route Seoul, Fukuoka und Shanghai lässt sich ein einziges Datenpaket buchen.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die lokalen Tarife laufen überwiegend im Monatsraster, und die Touristenkarten sind auf 3 bis 30
+      Tage befristet; wer flexibel reist, zahlt mehrfach neu.
+    esim_title: Reisetage statt Monatspreis
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 3-Tage-Tarif beginnt bei $1.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Seoul, Busan und die KTX-Strecken sind mit 5G hervorragend versorgt; in den Bergregionen von Gangwon
+      und auf den Inseln vor der Südküste dünnt das Netz dagegen aus.
+    esim_title: Hotspot im KTX
+    esim_desc: Tethering bleibt bei Roami kostenfrei, auch wenn im Schnellzug mehrere Geräte mitversorgt werden.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über die Apps der Anbieter und in Convenience-Stores; abgerechnet wird im Won,
+      ausländische Karten werden meist angenommen.
+    esim_title: Zahlung mit Karte
+    esim_desc: Für die Buchung genügt eine Karte oder ein Wallet-Dienst – die Abrechnung läuft in US-Dollar.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist koreanisch- und englischsprachig; englischsprachige Hotlines gibt es bei
+      allen drei Anbietern.
+    esim_title: Koreanisch und Englisch
+    esim_desc: Chat und E-Mail sind mehrsprachig besetzt und rund um die Uhr erreichbar.
+  expert_verdict:
+    title: 'Südkorea: vier Gründe für die eSIM vor der lokalen Karte'
+    cards:
+    - icon: passport
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Aufenthaltstitel nötig
+      desc: Eine reguläre SIM verlangt eine Alien Registration Card. Roami schaltet <b>ohne
+        Registrierungsunterlagen</b> frei.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Befristete Touristenkarten
+      desc: Touristenkarten sind auf 3 bis 30 Tage begrenzt und teurer als reguläre Tarife.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Gangwon ohne Netz
+      desc: In den Bergen von Gangwon und auf den Südinseln dünnt die Versorgung aus.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Kein Regionaltarif
+      desc: Japan und China haben keinen gemeinsamen Tarifverbund mit Südkorea.
 ---

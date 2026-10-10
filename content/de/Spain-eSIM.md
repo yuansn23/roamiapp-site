@@ -1,6 +1,6 @@
 ---
 title: 'Spanien eSIM 2026: Reise & Netzwerk | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -34,6 +34,8 @@ seo:
   - Valencia eSIM
   - Spanien mobiles Internet
   - 5G Spanien
+  low_price: 1.99
+  high_price: 69.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -56,7 +58,7 @@ hero:
   title: 'Spanien eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Spanien
 features:
-  title: 'Warum Reisende Roami fuer Spanien waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Spanien wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -82,7 +84,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Spanien-Anbietern für das stärkste Signal
-plans_title: 'Spanien eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Spanien eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -323,7 +325,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Spanien, einschliesslich Madrid, Barcelona, Valencia, Sevilla.
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Spanien, einschließlich Madrid, Barcelona, Valencia, Sevilla.
         Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Movistar, Vodafone, Orange.
     - icon: zap
       color: text-amber-500
@@ -401,7 +403,7 @@ activation_steps:
       ohne Vertrag.
     is_list: false
 faq_section:
-  title: "eSIM in Spain -- Ist die Verbindung fuer Touristen schnell genug?"
+  title: "eSIM in Spain -- Ist die Verbindung für Touristen schnell genug?"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Spain. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -424,11 +426,13 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Spanien eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Spanien mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Spanien mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $69.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Spanien?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($6.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($9.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Funktioniert eSIM in Spanien auch in ländlichen Gebieten?
       a: |
@@ -436,13 +440,13 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Spanien akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Spanien nutzen?
       a: |
         Ja — alle datenbasierten Apps funktionieren ohne Einschränkungen. Ein 5GB Tarif reicht für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Ein 30-minütiges Zoom-Meeting verbraucht etwa 150-300MB. Movistars Netz in Spanien liefert stabile Verbindungen für Videoanrufe.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Weitere beliebte eSIM-Ziele
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -461,7 +465,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -489,11 +493,11 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: france-esim
-  - name: Spanien eSIM
-    flag: img/flags/es.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: spain-esim
+    slug: italy-esim
   - name: Deutschland eSIM
     flag: img/flags/de.svg
     price: Ab 1,99 $
@@ -504,9 +508,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Spain eSIM vs. Prepaid-SIM: Welches bietet besseres Preis-Leistungs-Verhältnis?'
-  subtitle: Lokale Prepaid-SIMs in Spanien vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Spain eSIM vs. lokale Prepaid-SIM: Was Reisende erwartet'
+  subtitle: Lokale Prepaid-SIMs in Spanien vs. eSIM-Lösungen im Preisvergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Spain) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Spain
@@ -518,85 +523,89 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Die SIM-Karten an Flughäfen wie Madrid-Barajas sind sehr überteuert (very overpriced). Es wird empfohlen,
-      in der Innenstadt bei Markenshops zu kaufen, was bedeutet, dass Touristen nach der Landung nicht sofort ein günstiges
-      Netz haben.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie überteuerte Flughafen-Shops und stundenlange Wartezeiten in Vodafone-Filialen. Mit Roami eSIM erhalten
-      Sie Ihre Daten innerhalb von 1 Minute nach der Buchung – sofort nach der Landung in Madrid oder Barcelona online.
+    prepaid_desc: Die SIM-Karten an Flughäfen wie Madrid-Barajas sind sehr überteuert (very overpriced). Es wird
+      empfohlen, in der Innenstadt bei Markenshops zu kaufen, was bedeutet, dass Touristen nach der Landung nicht
+      sofort ein günstiges Netz haben.
+    esim_title: In wenigen Minuten startklar
+    esim_desc: Umgehen Sie überteuerte Flughafen-Shops und stundenlange Wartezeiten in Vodafone-Filialen. Mit Roami
+      eSIM erhalten Sie Ihre Daten innerhalb von 1 Minute nach der Buchung – sofort nach der Landung in Madrid oder
+      Barcelona online.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Vodafone akzeptiert seit 2024 nur noch Reisepässe oder spanische Ausweise, ausländische Ausweise werden
-      explizit abgelehnt. DIGI mobil erfordert zwingend einen Reisepass.
+    prepaid_desc: Vodafone akzeptiert seit 2024 nur noch Reisepässe oder spanische Ausweise, ausländische Ausweise
+      werden explizit abgelehnt. DIGI mobil erfordert zwingend einen Reisepass.
     esim_title: Kein Pass erforderlich
-    esim_desc: Vermeiden Sie die strenge KYC von Vodafone (nur Reisepass) oder DIGI (Passpflicht). Roami eSIM benötigt keine
-      Identitätsprüfung – einfach kaufen und aktivieren.
+    esim_desc: Vermeiden Sie die strenge KYC von Vodafone (nur Reisepass) oder DIGI (Passpflicht). Roami eSIM benötigt
+      keine Identitätsprüfung – einfach kaufen und aktivieren.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Vodafone Prepago S (50 GB) bietet in der EU nur 6 GB (88% Reduzierung), Orange Mundo 15 (20 GB) nur 10 GB
-      (50% Reduzierung), Movistar Prepago Total (35 GB) nur 11 GB (68% Reduzierung).
+    prepaid_desc: Vodafone Prepago S (50 GB) bietet in der EU nur 6 GB (88% Reduzierung), Orange Mundo 15 (20 GB) nur
+      10 GB (50% Reduzierung), Movistar Prepago Total (35 GB) nur 11 GB (68% Reduzierung).
     esim_title: Weltweites Roaming ohne FUP
-    esim_desc: Im Gegensatz zu Vodafone Prepago S (50 GB, EU nur 6 GB) oder Orange Mundo 15 (20 GB, EU nur 10 GB) bietet Roami
-      eSIM transparente Datenmengen ohne versteckte Drosselung – ideal für Reisen durch Spanien, Frankreich und Italien.
+    esim_desc: Im Gegensatz zu Vodafone Prepago S (50 GB, EU nur 6 GB) oder Orange Mundo 15 (20 GB, EU nur 10 GB)
+      bietet Roami eSIM transparente Datenmengen ohne versteckte Drosselung – ideal für Reisen durch Spanien,
+      Frankreich und Italien.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Die meisten Tarife von Orange, Vodafone und Movistar haben einen 28-Tage-Zyklus. Ein 10-tägiger Tourist,
-      der Vodafone Prepago M (€15/28 Tage) kauft, verschwendet 65% des Tarifwerts.
+    prepaid_desc: Die meisten Tarife von Orange, Vodafone und Movistar haben einen 28-Tage-Zyklus. Ein 10-tägiger
+      Tourist, der Vodafone Prepago M (€15/28 Tage) kauft, verschwendet 65% des Tarifwerts.
     esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Statt 28-Tage-Zyklen (z.B. Vodafone €15/28 Tage) bietet Roami 7-Tage-Tarife ab $1.99/GB. Ein 10-tägiger Tourist
-      spart so über 60% Kosten im Vergleich zu lokalen Prepaid-Karten.
+    esim_desc: Statt 28-Tage-Zyklen (z.B. Vodafone €15/28 Tage) bietet Roami 7-Tage-Tarife ab $2.99. Ein 10-tägiger
+      Tourist spart so über 60% Kosten im Vergleich zu lokalen Prepaid-Karten.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Orange verbietet VoIP explizit. Lebara erlaubt Tethering, aber die EU-Roaming-Daten sind auf 19,06 GB begrenzt.
+    prepaid_desc: Orange verbietet VoIP explizit. Lebara erlaubt Tethering, aber die EU-Roaming-Daten sind auf 19,06
+      GB begrenzt.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während Orange VoIP verbietet und Lebara EU-Daten auf 19 GB begrenzt, erlaubt Roami eSIM uneingeschränktes
-      Tethering – teilen Sie Ihre Verbindung mit Laptop und Tablet ohne Einschränkungen.
+    esim_desc: Während Orange VoIP verbietet und Lebara EU-Daten auf 19 GB begrenzt, erlaubt Roami eSIM
+      uneingeschränktes Tethering – teilen Sie Ihre Verbindung mit Laptop und Tablet ohne Einschränkungen.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Orange, Movistar und Simyo akzeptieren online keine ausländischen Kreditkarten. Nutzer müssen physische
-      Aufladekarten in Supermärkten oder Kiosken kaufen.
+    prepaid_desc: Orange, Movistar und Simyo akzeptieren online keine ausländischen Kreditkarten. Nutzer müssen
+      physische Aufladekarten in Supermärkten oder Kiosken kaufen.
     esim_title: Internationale Zahlung akzeptiert
-    esim_desc: Umgehen Sie die Zahlungsbarrieren von Orange, Movistar und Simyo (keine ausländischen Karten). Roami akzeptiert
-      Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – weltweit einsetzbar.
+    esim_desc: Umgehen Sie die Zahlungsbarrieren von Orange, Movistar und Simyo (keine ausländischen Karten). Roami
+      akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – weltweit einsetzbar.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. (Ergänzung: Kundensupport ist meist nur auf
-      Spanisch und zu Bürozeiten erreichbar.)'
+    prepaid_desc: '(Ergänzung: Kundensupport ist meist nur auf Spanisch und zu Bürozeiten erreichbar.)'
     esim_title: 24/7 Kundensupport
-    esim_desc: Im Gegensatz zu spanischen Anbietern mit nur spanischsprachigem Support zu Bürozeiten bietet Roami rund um
-      die Uhr mehrsprachigen Support per Chat und E-Mail – immer erreichbar, wenn Sie Hilfe brauchen.
+    esim_desc: Im Gegensatz zu spanischen Anbietern mit nur spanischsprachigem Support zu Bürozeiten bietet Roami rund
+      um die Uhr mehrsprachigen Support per Chat und E-Mail – immer erreichbar, wenn Sie Hilfe brauchen.
   expert_verdict:
-    title: 'Spain eSIM vs. physische SIM-Karte: Aktivierung und Einrichtung im Vergleich – Intelligenter reisen mit sofortiger
-      Konnektivität'
+    title: 'Spain eSIM vs. physische SIM-Karte: Aktivierung und Einrichtung im Vergleich – Intelligenter reisen mit
+      sofortiger Konnektivität'
     cards:
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Internationale Zahlung ohne Hürden
-      desc: Orange, Movistar und Simyo akzeptieren <b>keine ausländischen Kreditkarten</b> online. Roami akzeptiert Visa,
-        Mastercard, AMEX, Apple Pay, Google Pay und PayPal – weltweit einsetzbar.
+      desc: Orange, Movistar und Simyo akzeptieren <b>keine ausländischen Kreditkarten</b> online. Roami akzeptiert
+        Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – weltweit einsetzbar.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Flexible Abrechnung statt 28-Tage-Zwang
-      desc: Orange, Vodafone und Movistar zwingen zu <b>28-Tage-Zyklen</b>. Ein 10-tägiger Tourist mit Vodafone Prepago M
-        (€15) verschwendet <b>65%</b> des Tarifs. Roami bietet 7-Tage-Tarife ab <b>$1.99/GB</b> – passgenau für Ihre Reise.
+      desc: Orange, Vodafone und Movistar zwingen zu <b>28-Tage-Zyklen</b>. Ein 10-tägiger Tourist mit Vodafone
+        Prepago M (€15) verschwendet <b>65%</b> des Tarifs. Roami bietet 7-Tage-Tarife ab <b>$2.99</b> – passgenau für
+        Ihre Reise.
     - icon: shield
       icon_bg: bg-gray-100
       icon_color: text-gray-600
       title: Behalten Sie Ihre Hauptnummer
-      desc: Mit einer physischen SIM müssen Sie Ihre Hauptkarte entfernen und verpassen SMS von Ihrer Bank. Roami eSIM ermöglicht
-        <b>Dual-SIM</b> – Ihre Hauptnummer bleibt aktiv für wichtige Nachrichten.
+      desc: Mit einer physischen SIM müssen Sie Ihre Hauptkarte entfernen und verpassen SMS von Ihrer Bank. Roami eSIM
+        ermöglicht <b>Dual-SIM</b> – Ihre Hauptnummer bleibt aktiv für wichtige Nachrichten.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Keine versteckten Gebühren
-      desc: Vodafone erhebt <b>€0,50/Monat</b> Inaktivitätsgebühr bei 3-4 Monaten ohne Anruf. Orange berechnet <b>€2,50/GB</b>
-        bei Überschreitung des EU-Limits. Roami hat keine versteckten Kosten – nur die gebuchte Datenmenge.
+      desc: Vodafone erhebt <b>€0,50/Monat</b> Inaktivitätsgebühr bei 3-4 Monaten ohne Anruf. Orange berechnet
+        <b>€2,50/GB</b> bei Überschreitung des EU-Limits. Roami hat keine versteckten Kosten – nur die gebuchte
+        Datenmenge.
 ---

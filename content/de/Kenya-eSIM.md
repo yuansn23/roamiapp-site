@@ -1,6 +1,6 @@
 ---
 title: 'Kenia eSIM 2026: 5G & Datentarife | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     ab.
   keywords: Kenia eSIM, Kenia Reise eSIM, beste eSIM Kenia, Kenia Datentarif, Safaricom Kenia, Airtel Kenia, Telkom Kenya
     Kenia, Nairobi eSIM, Mombasa eSIM, Kisumu eSIM, Kenia mobiles Internet, 5G Kenia
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Kenia eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Kenia
 features:
-  title: 'Warum Reisende Roami fuer Kenia waehlen: Abdeckung, Geschwindigkeit & Service'
+  title: 'Warum Reisende Roami für Kenia wählen: Abdeckung, Geschwindigkeit & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Kenia-Anbietern für das stärkste Signal
-plans_title: 'Kenia eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Kenia eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -264,7 +266,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Kenia, einschliesslich Nairobi, Mombasa, Kisumu, Nakuru. Ihre eSIM
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Kenia, einschließlich Nairobi, Mombasa, Kisumu, Nakuru. Ihre eSIM
         verbindet sich nahtlos mit den robusten Netzen von Safaricom, Airtel, Telkom Kenya.
     - icon: zap
       color: text-amber-500
@@ -342,7 +344,7 @@ activation_steps:
       ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "Kommt eSIM in Kenya ueberall gut an? Stadt- und Landabdeckung im Ueberblick"
+  title: "Kommt eSIM in Kenya überall gut an? Stadt- und Landabdeckung im Überblick"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Kenya. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -365,11 +367,12 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Kenia?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($21.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($52.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Kenia akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $7.99. 
     - q: |
         Wie viele eSIM-Profile kann ich auf meinem Handy für Kenia speichern?
       a: |
@@ -377,13 +380,15 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Kenia am beliebtesten?
       a: |
-        Die meisten Reisenden nach Kenia wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Kenia wählen den 5GB/15 Tage Tarif ($37.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($32.99) oder den unbegrenzten Tarif ($52.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Kenia?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($21.99), für zwei Wochen 10GB ($32.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -402,7 +407,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -445,9 +450,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Kenya eSIM vs. Prepaid-SIM-Karte: Lohnt sich der Wechsel?'
-  subtitle: Lokale Prepaid-SIMs in Kenia vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Kenya eSIM vs. lokale Prepaid-SIM: Ein realistischer Blick'
+  subtitle: Lokale Prepaid-SIMs in Kenia vs. eSIM-Lösungen ohne Vertragsbindung
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Kenya) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Kenya
@@ -459,84 +465,84 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Safaricom offizielle Registrierung erfordert Passkopie, Straßenhändler verkaufen möglicherweise nicht registrierte
-      Karten mit rechtlichen Risiken (6 Monate Haft oder KES 10.000 Geldstrafe).
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie Safaricom-Ladenschlangen und das Risiko illegaler Straßenkarten. Aktivieren Sie Ihre eSIM online
-      innerhalb von 1 Minute nach der Landung in Nairobi.
+    prepaid_desc: Safaricom offizielle Registrierung erfordert Passkopie, Straßenhändler verkaufen möglicherweise
+      nicht registrierte Karten mit rechtlichen Risiken (6 Monate Haft oder KES 10.000 Geldstrafe).
+    esim_title: Freigeschaltet vor der Reise
+    esim_desc: Umgehen Sie Safaricom-Ladenschlangen und das Risiko illegaler Straßenkarten. Aktivieren Sie Ihre eSIM
+      online innerhalb von 1 Minute nach der Landung in Nairobi.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Kenianische Kommunikationsbehörde verlangt seit 2018 für alle Prepaid-SIMs eine Identitätsregistrierung
-      mit Pass oder kenianischem Personalausweis; nicht registrierte Karten werden gesperrt.
+    prepaid_desc: Kenianische Kommunikationsbehörde verlangt seit 2018 für alle Prepaid-SIMs eine
+      Identitätsregistrierung mit Pass oder kenianischem Personalausweis; nicht registrierte Karten werden gesperrt.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Vermeiden Sie die kenianische KYC-Pflicht (Passkopie, 6 Monate Haft bei Verstößen). eSIM benötigt keine persönliche
-      Identifikation – sofort einsatzbereit.
+    esim_desc: Vermeiden Sie die kenianische KYC-Pflicht (Passkopie, 6 Monate Haft bei Verstößen). eSIM benötigt keine
+      persönliche Identifikation – sofort einsatzbereit.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Safaricom und Airtel Monatstarife enthalten keine ostafrikanischen Roaming-Rechte; bei Einreise nach Tansania
-      oder Uganda fallen Roaming-Gebühren von ca. KES 4/MB an.
-    esim_title: Weltweites Roaming ohne Aufpreis
-    esim_desc: Im Gegensatz zu Safaricom (KES 4/MB in Tansania) bietet eSIM nahtloses Roaming in Ostafrika zu fairen Preisen,
-      z.B. ab $1.99/GB für Kenia, Tansania und Uganda.
+    prepaid_desc: Safaricom und Airtel Monatstarife enthalten keine ostafrikanischen Roaming-Rechte; bei Einreise nach
+      Tansania oder Uganda fallen Roaming-Gebühren von ca. KES 4/MB an.
+    esim_title: Ein Tarif für die ganze Route
+    esim_desc: Im Gegensatz zu Safaricom (KES 4/MB in Tansania) bietet eSIM nahtloses Roaming in Ostafrika zu fairen
+      Preisen, z.B. ab $7.99 für Kenia, Tansania und Uganda.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Safaricom bietet Tagespakete (KES 99/500MB oder 1GB) und Wochenpakete (KES 250/1GB); ein 5-tägiger Tourist
-      muss entweder teure Tagespakete kaufen oder ein Wochenpaket mit 2 Tagen Verschwendung.
+    prepaid_desc: Safaricom bietet Tagespakete (KES 99/500MB oder 1GB) und Wochenpakete (KES 250/1GB); ein 5-tägiger
+      Tourist muss entweder teure Tagespakete kaufen oder ein Wochenpaket mit 2 Tagen Verschwendung.
     esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Statt Safaricoms 7-Tage-Zwang (KES 250/1GB) bietet Roami 7-Tage-Tarife ab $1.99/GB. Ein 5-tägiger Tourist spart
-      40% gegenüber dem Wochenpaket.
+    esim_desc: Statt Safaricoms 7-Tage-Zwang (KES 250/1GB) bietet Roami 7-Tage-Tarife ab $10.99. Ein 5-tägiger Tourist
+      spart 40% gegenüber dem Wochenpaket.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise erlauben kenianische Anbieter
-      Tethering, aber es gibt Berichte über Drosselung nach hohem Verbrauch.
+    prepaid_desc: Typischerweise erlauben kenianische Anbieter Tethering, aber es gibt Berichte über Drosselung nach
+      hohem Verbrauch.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Keine versteckten Drosselungen oder Sperren für Hotspots. Teilen Sie Ihr Datenvolumen mit Laptop und Tablet,
-      ohne sich um Safaricoms mögliche Einschränkungen zu sorgen.
+    esim_desc: Keine versteckten Drosselungen oder Sperren für Hotspots. Teilen Sie Ihr Datenvolumen mit Laptop und
+      Tablet, ohne sich um Safaricoms mögliche Einschränkungen zu sorgen.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Aufladung über physische Gutscheine an Kiosken oder über mobile Geldbörsen wie M-Pesa; Online-Aufladung
-      mit ausländischen Kreditkarten ist oft nicht möglich.
+    prepaid_desc: Aufladung über physische Gutscheine an Kiosken oder über mobile Geldbörsen wie M-Pesa;
+      Online-Aufladung mit ausländischen Kreditkarten ist oft nicht möglich.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Bezahlen Sie mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine Abhängigkeit von kenianischen
-      Bargeld-Gutscheinen oder M-Pesa.
+    esim_desc: 'Ohne lokales Guthaben: Roami zieht den Betrag in US-Dollar von einer internationalen Karte ein. Keine
+      Abhängigkeit von kenianischen Bargeld-Gutscheinen oder M-Pesa.'
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Kundensupport hauptsächlich auf Swahili und Englisch, per Telefon oder in Geschäften; keine spezifischen
-      Öffnungszeiten genannt.
+    prepaid_desc: Kundensupport hauptsächlich auf Swahili und Englisch, per Telefon oder in Geschäften; keine
+      spezifischen Öffnungszeiten genannt.
     esim_title: 24/7 Kundensupport
-    esim_desc: Unser mehrsprachiger Support (Englisch, Deutsch) ist rund um die Uhr erreichbar – im Gegensatz zu Safaricoms
-      Geschäftszeiten oder Airtels Hotline.
+    esim_desc: Unser mehrsprachiger Support (Englisch, Deutsch) ist rund um die Uhr erreichbar – im Gegensatz zu
+      Safaricoms Geschäftszeiten oder Airtels Hotline.
   expert_verdict:
-    title: 'Kenya eSIM vs. Prepaid-SIM: Geschwindigkeit, Abdeckung und Preis verglichen'
+    title: 'Kenya eSIM vs. lokale Prepaid-SIM: Der Nutzen im Alltag'
     cards:
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofort aktiviert, kein Warten
-      desc: Safaricom-Registrierung dauert 30 Minuten im Laden. eSIM ist innerhalb von 1 Minute nach Kauf aktiv – ideal für
-        Ankunft am Flughafen Jomo Kenyatta.
+      desc: Safaricom-Registrierung dauert 30 Minuten im Laden. eSIM ist innerhalb von 1 Minute nach Kauf aktiv –
+        ideal für Ankunft am Flughafen Jomo Kenyatta.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600
       title: Rechtssicher ohne Risiko
-      desc: Der Kauf einer nicht registrierten SIM von Straßenhändlern kann zu 6 Monaten Haft führen. eSIM ist legal und benötigt
-        keine Registrierung – volle Rechtssicherheit.
+      desc: Der Kauf einer nicht registrierten SIM von Straßenhändlern kann zu 6 Monaten Haft führen. eSIM ist legal
+        und benötigt keine Registrierung – volle Rechtssicherheit.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Mehr Netzabdeckung als Telkom
-      desc: Telkom Kenya hat nur 55% 3G-Abdeckung und ist auf Städte beschränkt. eSIM nutzt das beste verfügbare Netz (Safaricom,
-        Airtel) und bietet so landesweit bessere Verbindung.
+      desc: Telkom Kenya hat nur 55% 3G-Abdeckung und ist auf Städte beschränkt. eSIM nutzt das beste verfügbare Netz
+        (Safaricom, Airtel) und bietet so landesweit bessere Verbindung.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Keine verschwendeten Tage mit Safaricom
-      desc: Safaricoms kürzestes Datenpaket ist 1 Tag (KES 99/500MB) oder 7 Tage (KES 250/1GB). Ein 5-tägiger Tourist verschwendet
-        2 Tage oder zahlt 40% mehr. eSIM bietet flexible Laufzeiten ab 1 Tag.
+      desc: Safaricoms kürzestes Datenpaket ist 1 Tag (KES 99/500MB) oder 7 Tage (KES 250/1GB). Ein 5-tägiger Tourist
+        verschwendet 2 Tage oder zahlt 40% mehr. eSIM bietet flexible Laufzeiten ab 1 Tag.
 ---

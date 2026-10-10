@@ -1,6 +1,6 @@
 ---
 title: 'Ägypten eSIM 2026: Verbindung & Geschwindigkeit | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Deckt Kairo, Alexandria & Luxor ab.
   keywords: Ägypten eSIM, Ägypten Reise eSIM, beste eSIM Ägypten, Ägypten Datentarif, Orange Ägypten, Vodafone Ägypten, Etisalat
     Ägypten, Kairo eSIM, Alexandria eSIM, Luxor eSIM, Ägypten mobiles Internet, 5G Ägypten
+  low_price: 2.99
+  high_price: 94.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Ägypten eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Ägypten
 features:
-  title: 'Warum Reisende Roami fuer Ägypten waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Ägypten wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Ägypten-Anbietern für das stärkste Signal
-plans_title: 'Ägypten eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Ägypten eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -280,7 +282,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Ägypten, einschliesslich Kairo, Alexandria, Luxor, Hurghada. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Ägypten, einschließlich Kairo, Alexandria, Luxor, Hurghada. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von Orange, Vodafone, Etisalat.
     - icon: zap
       color: text-amber-500
@@ -377,7 +379,8 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist am günstigsten für eine Reise nach Ägypten?
       a: |
-        Der günstigste Roami Ägypten eSIM Tarif startet bei $1.99. Die meisten Reisenden wählen 5GB/15 Tage ($9.99) — genug für Karten, WhatsApp und Social Media. Orange bietet stabile Geschwindigkeiten in Ägypten. Tarife sind vorausbezahlt, ohne versteckte Gebühren.
+        Der günstigste Roami Ägypten eSIM Tarif startet bei $2.99. Die meisten Reisenden wählen 5GB/15 Tage ($15.99) — genug für Karten, WhatsApp und Social Media. Orange bietet stabile Geschwindigkeiten in Ägypten. Tarife sind vorausbezahlt, ohne versteckte Gebühren.
+
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Ägypten nutzen?
       a: |
@@ -389,11 +392,12 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Ägypten?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($18.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Ägypten akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $2.99. 
     - q: |
         Kann ich meine Ägypten eSIM noch in letzter Minute vor dem Flug kaufen?
       a: |
@@ -418,7 +422,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -461,9 +465,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Egypt eSIM vs. Prepaid-SIM: Welches bietet besseres Preis-Leistungs-Verhältnis?'
-  subtitle: Lokale Prepaid-SIMs in Ägypten vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Egypt eSIM vs. lokale Prepaid-SIM: Was der Aufwand kostet'
+  subtitle: Lokale Prepaid-SIMs in Ägypten vs. eSIM-Lösungen für Reisende
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Egypt) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Egypt
@@ -475,84 +480,86 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: In Ägypten müssen Prepaid-SIM-Karten persönlich am Flughafen oder in Geschäften gekauft werden, wobei Reisende
-      oft mit überteuerten oder falsch beworbenen Tarifen konfrontiert werden, z. B. wurde ein 12GB-Tarif als 27GB verkauft.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die langen Schlangen am Flughafen Kairo und vermeiden Sie überteuerte Tarife (z. B. 12GB als 27GB
-      verkauft). Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute nach der Landung in Ägypten.
+    prepaid_desc: In Ägypten müssen Prepaid-SIM-Karten persönlich am Flughafen oder in Geschäften gekauft werden,
+      wobei Reisende oft mit überteuerten oder falsch beworbenen Tarifen konfrontiert werden, z. B. wurde ein
+      12GB-Tarif als 27GB verkauft.
+    esim_title: Ohne Anstehen aktiv
+    esim_desc: Umgehen Sie die langen Schlangen am Flughafen Kairo und vermeiden Sie überteuerte Tarife (z. B. 12GB
+      als 27GB verkauft). Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute nach der Landung in Ägypten.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Für den Kauf einer Prepaid-SIM in Ägypten ist die Vorlage des Reisepasses und die Angabe der Hoteladresse
-      erforderlich; es besteht das Risiko, dass Händler die SIM auf eine andere Person registrieren.
+    prepaid_desc: Für den Kauf einer Prepaid-SIM in Ägypten ist die Vorlage des Reisepasses und die Angabe der
+      Hoteladresse erforderlich; es besteht das Risiko, dass Händler die SIM auf eine andere Person registrieren.
     esim_title: Kein Pass erforderlich
-    esim_desc: Keine Weitergabe Ihres Reisepasses an Dritte. Im Gegensatz zur lokalen SIM, die eine Passregistrierung erfordert,
-      wird Roami eSIM ohne persönliche Daten sofort aktiviert.
+    esim_desc: Keine Weitergabe Ihres Reisepasses an Dritte. Im Gegensatz zur lokalen SIM, die eine Passregistrierung
+      erfordert, wird Roami eSIM ohne persönliche Daten sofort aktiviert.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Lokale SIM-Karten in Ägypten sind auf das Netz des jeweiligen Anbieters beschränkt; bei Etisalat gibt es
-      in manchen Gebieten Abdeckungslücken oder langsamere Geschwindigkeiten.
+    prepaid_desc: Lokale SIM-Karten in Ägypten sind auf das Netz des jeweiligen Anbieters beschränkt; bei Etisalat
+      gibt es in manchen Gebieten Abdeckungslücken oder langsamere Geschwindigkeiten.
     esim_title: Weltweites Roaming
-    esim_desc: Nutzen Sie in Ägypten das beste verfügbare Netz (Vodafone, Orange, Etisalat) – automatische Auswahl, kein manuelles
-      Wechseln. Vermeiden Sie Abdeckungslücken von Etisalat.
+    esim_desc: Nutzen Sie in Ägypten das beste verfügbare Netz (Vodafone, Orange, Etisalat) – automatische Auswahl,
+      kein manuelles Wechseln. Vermeiden Sie Abdeckungslücken von Etisalat.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Die wichtigsten Prepaid-Tarife von Vodafone, Orange und Etisalat haben alle einen 30-Tage-Abrechnungszyklus.
-      Ein 7-tägiger Tourist, der Vodafones EGP 200/8GB-Tarif kauft, verschwendet über 75% des Tarifwerts.
+    prepaid_desc: Die wichtigsten Prepaid-Tarife von Vodafone, Orange und Etisalat haben alle einen
+      30-Tage-Abrechnungszyklus. Ein 7-tägiger Tourist, der Vodafones EGP 200/8GB-Tarif kauft, verschwendet über 75%
+      des Tarifwerts.
     esim_title: Flexible Tarife
-    esim_desc: Im Gegensatz zum 30-Tage-Zyklus von Vodafone (EGP 200/8GB, 75% Verschwendung für 7-Tage-Reisende) bietet Roami
-      7-Tage-Tarife ab $1.99/GB – passgenau für Ihre Reisedauer.
+    esim_desc: Im Gegensatz zum 30-Tage-Zyklus von Vodafone (EGP 200/8GB, 75% Verschwendung für 7-Tage-Reisende)
+      bietet Roami 7-Tage-Tarife ab $4.99 – passgenau für Ihre Reisedauer.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise erlauben ägyptische Anbieter
-      Tethering, aber die Geschwindigkeit kann nach Verbrauch eines bestimmten Datenvolumens gedrosselt werden.
+    prepaid_desc: Typischerweise erlauben ägyptische Anbieter Tethering, aber die Geschwindigkeit kann nach Verbrauch
+      eines bestimmten Datenvolumens gedrosselt werden.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Teilen Sie Ihr Datenvolumen mit anderen Geräten ohne versteckte Drosselung. Lokale SIMs schränken Tethering
-      oft ein oder drosseln die Geschwindigkeit nach 3GB.
+    esim_desc: Teilen Sie Ihr Datenvolumen mit anderen Geräten ohne versteckte Drosselung. Lokale SIMs schränken
+      Tethering oft ein oder drosseln die Geschwindigkeit nach 3GB.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Bei Vodafone wird bei jeder Aufladung eine Steuer von 30% erhoben; ausländische Karten werden oft nicht
-      akzeptiert, sodass Nutzer auf physische Gutscheine angewiesen sind.
+    prepaid_desc: Bei Vodafone wird bei jeder Aufladung eine Steuer von 30% erhoben; ausländische Karten werden oft
+      nicht akzeptiert, sodass Nutzer auf physische Gutscheine angewiesen sind.
     esim_title: Weltweite Zahlung
-    esim_desc: Bezahlen Sie sicher mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine 30% Steuer wie bei
-      Vodafone-Aufladungen.
+    esim_desc: Bezahlen Sie sicher mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine 30% Steuer wie
+      bei Vodafone-Aufladungen.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Der Kundensupport ist meist nur auf Arabisch verfügbar; die offizielle App von Vodafone funktioniert nicht
-      auf Prepaid-Karten für Touristen.
+    prepaid_desc: Der Kundensupport ist meist nur auf Arabisch verfügbar; die offizielle App von Vodafone funktioniert
+      nicht auf Prepaid-Karten für Touristen.
     esim_title: 24/7 Support
-    esim_desc: Unser mehrsprachiger Kundensupport ist rund um die Uhr erreichbar – im Gegensatz zum lokalen Support, der nur
-      auf Arabisch und zu Geschäftszeiten verfügbar ist.
+    esim_desc: Unser mehrsprachiger Kundensupport ist rund um die Uhr erreichbar – im Gegensatz zum lokalen Support,
+      der nur auf Arabisch und zu Geschäftszeiten verfügbar ist.
   expert_verdict:
-    title: 'Egypt eSIM vs. Prepaid-SIM-Karte: Lohnt sich der Wechsel?'
+    title: 'Egypt eSIM vs. lokale Prepaid-SIM: Der Vergleich für die Praxis'
     cards:
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: 'Dual-SIM: Heimatnummer bleibt aktiv'
-      desc: Lokale SIMs belegen den einzigen SIM-Slot – Ihre heimische Nummer ist nicht erreichbar. Roami eSIM läuft parallel
-        zur physischen SIM, sodass Sie SMS und Anrufe von zu Hause empfangen.
+      desc: Lokale SIMs belegen den einzigen SIM-Slot – Ihre heimische Nummer ist nicht erreichbar. Roami eSIM läuft
+        parallel zur physischen SIM, sodass Sie SMS und Anrufe von zu Hause empfangen.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Transparente Zahlung ohne 30% Steuer
-      desc: Vodafone erhebt bei jeder Aufladung 30% Steuer (z. B. EGP 100 Aufladung = nur EGP 70 Guthaben). Roami akzeptiert
-        Visa, Mastercard, Apple Pay, Google Pay, PayPal – ohne versteckte Gebühren.
+      desc: Vodafone erhebt bei jeder Aufladung 30% Steuer (z. B. EGP 100 Aufladung = nur EGP 70 Guthaben). Roami
+        akzeptiert Visa, Mastercard, Apple Pay, Google Pay, PayPal – ohne versteckte Gebühren.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Umgehen Sie Ägyptens strenge SIM-Passanforderungen
-      desc: Lokale SIMs erfordern die Vorlage des Reisepasses und die Angabe der Hoteladresse – mit Risiko der Registrierung
-        auf fremde Namen. Roami eSIM benötigt keine persönlichen Daten und ist sofort aktiviert.
+      desc: Lokale SIMs erfordern die Vorlage des Reisepasses und die Angabe der Hoteladresse – mit Risiko der
+        Registrierung auf fremde Namen. Roami eSIM benötigt keine persönlichen Daten und ist sofort aktiviert.
     - icon: wifi
       icon_bg: bg-green-100
       icon_color: text-green-600
       title: Keine VoIP-Blockade für Internet-Telefonie
-      desc: Ägypten blockiert VoIP-Dienste wie WhatsApp Calls auf lokalen SIMs. Mit Roami eSIM nutzen Sie reine Datenverbindungen
-        – uneingeschränkte Internet-Telefonie ohne zusätzliche Kosten.
+      desc: Ägypten blockiert VoIP-Dienste wie WhatsApp Calls auf lokalen SIMs. Mit Roami eSIM nutzen Sie reine
+        Datenverbindungen – uneingeschränkte Internet-Telefonie ohne zusätzliche Kosten.
 ---

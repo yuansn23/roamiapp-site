@@ -1,6 +1,6 @@
 ---
 title: 'China eSIM 2026: Lokale Anbieter | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,11 @@ modal:
     Code: web20'
 seo:
   title: China eSIM | Günstigste Prepaid Reise eSIM
-  description: Bereiten Sie Ihre Reise nach China mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie
-    Reise. Deckt Peking, Shanghai & alle großen Städte ab.
+  description: Vergleichen Sie China eSIM Tarife mit 5G in Peking, Shanghai. China Mobile & China Unicom Abdeckungsguide. QR-Aktivierung ab $1.99.
   keywords: China eSIM, China Reise eSIM, beste eSIM China, China Datentarif, China Mobile China, China Unicom China, China
     Telecom China, Peking eSIM, Shanghai eSIM, Guangzhou eSIM, China mobiles Internet, 5G China
+  low_price: 1.99
+  high_price: 39.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +46,7 @@ hero:
   title: 'China eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für China - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer China waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für China wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten China-Anbietern für das stärkste Signal
-plans_title: 'China eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'China eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   30 Tage:
   - spec: 20GB
@@ -256,7 +257,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz China, einschliesslich Peking, Shanghai, Guangzhou, Shenzhen. Ihre
+      desc: Genießen Sie umfassende Netzabdeckung in ganz China, einschließlich Peking, Shanghai, Guangzhou, Shenzhen. Ihre
         eSIM verbindet sich nahtlos mit den robusten Netzen von China Mobile, China Unicom, China Telecom.
     - icon: zap
       color: text-amber-500
@@ -345,7 +346,8 @@ faq_section:
     - q: |
         Was kostet eine eSIM für China? Gibt es günstige Tarife?
       a: |
-        Roami bietet China eSIM Tarife ab $1.99 (7 Tage, 1GB) bis $59.99 (30 Tage, unbegrenzt). Der beliebteste Tarif für Reisende ist 5GB/15 Tage für $9.99 — genug für Navigation, Messaging und soziale Medien. Wer Videos streamen oder remote arbeiten möchte, sollte 10GB oder den unbegrenzten Tarif wählen. China Mobiles 5G-Netz in China erreicht 100-300 Mbps. Roami Tarife sind vorausbezahlt — keine versteckten Kosten, keine automatische Verlängerung.
+        Roami bietet China eSIM Tarife ab $1.99 (7 Tage, 1GB) bis $1.99 (30 Tage, unbegrenzt). Der beliebteste Tarif für Reisende ist 5GB/15 Tage für $7.99 — genug für Navigation, Messaging und soziale Medien. Wer Videos streamen oder remote arbeiten möchte, sollte 10GB oder den unbegrenzten Tarif wählen. China Mobiles 5G-Netz in China erreicht 100-300 Mbps. Roami Tarife sind vorausbezahlt — keine versteckten Kosten, keine automatische Verlängerung.
+
     - q: |
         Gibt es große Unterschiede zwischen China Mobile, China Unicom und China Telecom für eSIM in China?
       a: |
@@ -357,7 +359,8 @@ faq_section:
     - q: |
         Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für China?
       a: |
-        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+        Ein 5GB Tarif ($5.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($1.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+
     - q: |
         Soll ich meine China eSIM vor der Abreise oder erst am Flughafen installieren?
       a: |
@@ -369,13 +372,15 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach China am beliebtesten?
       a: |
-        Die meisten Reisenden nach China wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach China wählen den 5GB/15 Tage Tarif ($7.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($7.99) oder den unbegrenzten Tarif ($1.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in China?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($5.99), für zwei Wochen 10GB ($7.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Passende eSIM-Tarife für Ihre Reise
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -394,7 +399,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -402,11 +407,11 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: turkey-esim
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Italien eSIM
+    flag: img/flags/it.svg
     price: Ab 1,99 $
     is_highlight: false
-    slug: china-esim
+    slug: italy-esim
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Ab 1,99 $
@@ -437,9 +442,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
   title: 'China eSIM oder SIM-Karte: Was ist 2026 die beste Option?'
-  subtitle: Lokale Prepaid-SIMs in China vs. eSIM-Lösungen (2024/2025 Benchmark)
+  subtitle: Lokale Prepaid-SIMs in China vs. eSIM-Lösungen im Vergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (China) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/China
@@ -451,91 +457,96 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Man muss eine offizielle Filiale von China Unicom, China Mobile oder China Telecom aufsuchen, den Originalreisepass
-      sowie den Nachweis der Hotelunterkunft vorlegen und vor Ort die KYC-Überprüfung mittels Gesichtserkennungssystem durchlaufen.
-      Obwohl die Flughafenfilialen englischsprachigen Service anbieten, sind die Tarife dort in der Regel höher als in der
-      Stadt, und es kann zu Wartezeiten kommen.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die langen Warteschlangen in China Mobile- oder China Unicom-Shops. Aktivieren Sie Ihre eSIM online
-      innerhalb von 1 Minute nach der Landung in Peking oder Shanghai, ohne Pass oder Hoteladresse vorlegen zu müssen.
+    prepaid_desc: Man muss eine offizielle Filiale von China Unicom, China Mobile oder China Telecom aufsuchen, den
+      Originalreisepass sowie den Nachweis der Hotelunterkunft vorlegen und vor Ort die KYC-Überprüfung mittels
+      Gesichtserkennungssystem durchlaufen. Obwohl die Flughafenfilialen englischsprachigen Service anbieten, sind die
+      Tarife dort in der Regel höher als in der Stadt, und es kann zu Wartezeiten kommen.
+    esim_title: Ohne Wartezeit online
+    esim_desc: Umgehen Sie die langen Warteschlangen in China Mobile- oder China Unicom-Shops. Aktivieren Sie Ihre
+      eSIM online innerhalb von 1 Minute nach der Landung in Peking oder Shanghai, ohne Pass oder Hoteladresse
+      vorlegen zu müssen.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: 'Anforderungen an die KYC-Identitätsprüfung: Persönliche Vorgehensweise in einem offiziellen Laden unter
-      Vorlage des Reisepasses und eines Nachweises der Hoteladresse (z. B. vorläufige Meldebescheinigung) ist erforderlich.
-      Zudem muss eine Gesichtserkennung zur Identitätsprüfung durchgeführt werden'
+    prepaid_desc: 'Anforderungen an die KYC-Identitätsprüfung: Persönliche Vorgehensweise in einem offiziellen Laden
+      unter Vorlage des Reisepasses und eines Nachweises der Hoteladresse (z. B. vorläufige Meldebescheinigung) ist
+      erforderlich. Zudem muss eine Gesichtserkennung zur Identitätsprüfung durchgeführt werden'
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Während China Mobile und China Unicom eine persönliche Passvorlage und Gesichtserkennung verlangen, benötigt
-      Roami eSIM keine KYC. Sie sparen Zeit und vermeiden Datenschutzrisiken.
+    esim_desc: Während China Mobile und China Unicom eine persönliche Passvorlage und Gesichtserkennung verlangen,
+      benötigt Roami eSIM keine KYC. Sie sparen Zeit und vermeiden Datenschutzrisiken.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Bei Nutzung einer lokalen SIM-Karte von China Unicom kann man sich nur mit den Basisstationen von China
-      Unicom verbinden. Verlässt man das chinesische Festland in Richtung Hongkong, Macao oder ein anderes Land, enthalten
-      Tarife wie „Ice God“ von China Unicom oder die 4G-Tarife von China Mobile keinerlei Roaming-Datenvolumen für das Ausland.
-      Sobald man ausreist, bricht die Verbindung ab, oder es fallen hohe Roaming-Gebühren an
+    prepaid_desc: Bei Nutzung einer lokalen SIM-Karte von China Unicom kann man sich nur mit den Basisstationen von
+      China Unicom verbinden. Verlässt man das chinesische Festland in Richtung Hongkong, Macao oder ein anderes Land,
+      enthalten Tarife wie „Ice God“ von China Unicom oder die 4G-Tarife von China Mobile keinerlei
+      Roaming-Datenvolumen für das Ausland. Sobald man ausreist, bricht die Verbindung ab, oder es fallen hohe
+      Roaming-Gebühren an
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Im Gegensatz zu China Unicoms 129 Yuan 30GB-Tarif, der kein Roaming beinhaltet, bietet Roami eSIM nahtloses
-      Roaming in über 190 Ländern. Wechseln Sie von China nach Hongkong oder Macau, ohne die SIM-Karte zu wechseln.
+    esim_desc: Im Gegensatz zu China Unicoms 129 Yuan 30GB-Tarif, der kein Roaming beinhaltet, bietet Roami eSIM
+      nahtloses Roaming in über 190 Ländern. Wechseln Sie von China nach Hongkong oder Macau, ohne die SIM-Karte zu
+      wechseln.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Strikte Abrechnung nach Kalendermonat. Sowohl China Mobile als auch China Union Wireless setzen die Datenverbindung
-      zwingend zum 1. jedes Monats zurück. Kauft ein Reisender am 25. Januar das 30-GB-Paket von China Union Wireless für
-      129 Yuan, wird das Datenvolumen bereits nach 5 Tagen zurückgesetzt – was zu extrem hohen versunkenen Kosten führt.
+    prepaid_desc: Strikte Abrechnung nach Kalendermonat. Sowohl China Mobile als auch China Union Wireless setzen die
+      Datenverbindung zwingend zum 1. jedes Monats zurück. Kauft ein Reisender am 25. Januar das 30-GB-Paket von China
+      Union Wireless für 129 Yuan, wird das Datenvolumen bereits nach 5 Tagen zurückgesetzt – was zu extrem hohen
+      versunkenen Kosten führt.
     esim_title: Flexible Tarife nach Tagen
-    esim_desc: Vermeiden Sie die natürliche Monatsabrechnung von China Mobile (88 Yuan/3GB, monatlich zurückgesetzt). Roami
-      bietet 7-Tage-Tarife ab $1.99/GB, sodass Sie bei einem 7-tägigen Aufenthalt bis zu 80% der Kosten sparen.
+    esim_desc: Vermeiden Sie die natürliche Monatsabrechnung von China Mobile (88 Yuan/3GB, monatlich zurückgesetzt).
+      Roami bietet 7-Tage-Tarife ab $1.99, sodass Sie bei einem 7-tägigen Aufenthalt bis zu 80% der Kosten sparen.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. (Marktwissen: Die meisten chinesischen Prepaid-Tarife
-      erlauben Tethering, aber die Geschwindigkeit kann nach Überschreiten des Datenlimits gedrosselt werden.)'
+    prepaid_desc: '(Marktwissen: Die meisten chinesischen Prepaid-Tarife erlauben Tethering, aber die Geschwindigkeit
+      kann nach Überschreiten des Datenlimits gedrosselt werden.)'
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während lokale Anbieter wie China Mobile Tethering nach 3GB drosseln können, erlaubt Roami eSIM uneingeschränktes
-      Hotspot-Sharing mit voller Geschwindigkeit – ideal für die Nutzung mehrerer Geräte.
+    esim_desc: Während lokale Anbieter wie China Mobile Tethering nach 3GB drosseln können, erlaubt Roami eSIM
+      uneingeschränktes Hotspot-Sharing mit voller Geschwindigkeit – ideal für die Nutzung mehrerer Geräte.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Die erste Aufladung muss mit Bargeld oder einer UnionPay-Karte erfolgen. Obwohl WeChat Pay internationale
-      Karten unterstützt, muss dafür eine Mobilfunknummer aus dem Herkunftsland registriert und verknüpft sein. Dies ist nur
-      für wiederholte Aufladungen möglich, löst jedoch nicht das Zahlungsproblem bei der ersten Aktivierung.
+    prepaid_desc: Die erste Aufladung muss mit Bargeld oder einer UnionPay-Karte erfolgen. Obwohl WeChat Pay
+      internationale Karten unterstützt, muss dafür eine Mobilfunknummer aus dem Herkunftsland registriert und
+      verknüpft sein. Dies ist nur für wiederholte Aufladungen möglich, löst jedoch nicht das Zahlungsproblem bei der
+      ersten Aktivierung.
     esim_title: Internationale Zahlungsmethoden
-    esim_desc: Zahlen Sie bequem mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine Notwendigkeit für Bargeld
-      oder chinesische Zahlungsmethoden wie Alipay oder WeChat Pay.
+    esim_desc: Roami rechnet in US-Dollar ab und akzeptiert internationale Karten und Wallet-Dienste. Keine
+      Notwendigkeit für Bargeld oder chinesische Zahlungsmethoden wie Alipay oder WeChat Pay.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. (Marktwissen: Kundensupport ist in der Regel
-      nur auf Chinesisch verfügbar, oft während der Geschäftszeiten.)'
+    prepaid_desc: '(Marktwissen: Kundensupport ist in der Regel nur auf Chinesisch verfügbar, oft während der
+      Geschäftszeiten.)'
     esim_title: 24/7 mehrsprachiger Support
-    esim_desc: Im Gegensatz zu chinesischen Anbietern, die nur chinesischen Support während der Geschäftszeiten bieten, steht
-      Roami eSIM rund um die Uhr mit englischsprachigem Support zur Verfügung.
+    esim_desc: Im Gegensatz zu chinesischen Anbietern, die nur chinesischen Support während der Geschäftszeiten
+      bieten, steht Roami eSIM rund um die Uhr mit englischsprachigem Support zur Verfügung.
   expert_verdict:
-    title: 'China eSIM vs. physische SIM: Reisen, Kosten und Einrichtung im Vergleich'
+    title: 'China eSIM vs. lokale Prepaid-SIM: Der praktische Vergleich'
     cards:
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Zugang zu globalen Diensten
-      desc: China Unicom blockiert aktiv <b>VPN-Verbindungen</b>, sodass Google Maps, Gmail und WhatsApp unzuverlässig sind.
-        Roami eSIM umgeht die Firewall und bietet uneingeschränkten Zugang zu internationalen Diensten.
+      desc: China Unicom blockiert aktiv <b>VPN-Verbindungen</b>, sodass Google Maps, Gmail und WhatsApp unzuverlässig
+        sind. Roami eSIM umgeht die Firewall und bietet uneingeschränkten Zugang zu internationalen Diensten.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Internationale Zahlung ohne Hürden
-      desc: Chinesische Anbieter akzeptieren nur <b>Bargeld oder UnionPay</b> für die erste Zahlung. Roami akzeptiert Visa,
-        Mastercard, AMEX, Apple Pay, Google Pay und PayPal – weltweit einsetzbar.
+      desc: Chinesische Anbieter akzeptieren nur <b>Bargeld oder UnionPay</b> für die erste Zahlung. Roami akzeptiert
+        Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – weltweit einsetzbar.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Flexible Abrechnung statt Monatsfalle
-      desc: China Mobile und China Unicom rechnen <b>nur nach natürlichen Monaten</b> ab. Ein Tourist, der am 25. Januar einen
-        129 Yuan-Tarif kauft, verliert nach 5 Tagen 80% des Wertes. Roami bietet 7-Tage-Tarife ab $1.99/GB.
+      desc: China Mobile und China Unicom rechnen <b>nur nach natürlichen Monaten</b> ab. Ein Tourist, der am 25.
+        Januar einen 129 Yuan-Tarif kauft, verliert nach 5 Tagen 80% des Wertes. Roami bietet 7-Tage-Tarife ab $1.99.
     - icon: shield
       icon_bg: bg-red-100
       icon_color: text-red-600
       title: Keine Blacklist-Risiken
-      desc: China Unicom führt eine <b>Blacklist</b> für unbezahlte Rechnungen; bei Nichtabmeldung drohen 90 Tage Sperrfrist.
-        Roami eSIM läuft automatisch ab – keine versteckten Verpflichtungen.
+      desc: China Unicom führt eine <b>Blacklist</b> für unbezahlte Rechnungen; bei Nichtabmeldung drohen 90 Tage
+        Sperrfrist. Roami eSIM läuft automatisch ab – keine versteckten Verpflichtungen.
 ---

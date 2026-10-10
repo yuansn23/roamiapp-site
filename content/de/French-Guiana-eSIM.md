@@ -1,6 +1,6 @@
 ---
 title: 'Französisch-Guayana eSIM 2026: Lokale Anbieter | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,12 @@ modal:
     Code: web20'
 seo:
   title: 'Französisch-Guayana eSIM 7 Tage: Perfekt für Kurztrips'
-  description: Vergleichen Sie Französisch-Guayana eSIM Tarife mit 5G in Cayenne, Kourou, Saint-Laurent-du-Maroni. Orange
-    & SFR & Digicel Abdeckungsguide. Sofortige QR-Aktivierung ab $1.99.
+  description: Vergleichen Sie Französisch-Guayana eSIM mit 5G in Cayenne, Kourou. Orange & SFR Abdeckungsguide. QR-Aktivierung ab $3.99.
   keywords: Französisch-Guayana eSIM, Französisch-Guayana Reise eSIM, beste eSIM Französisch-Guayana, Französisch-Guayana
     Datentarif, Orange Französisch-Guayana, SFR Französisch-Guayana, Digicel Französisch-Guayana, Cayenne eSIM, Kourou eSIM,
     Saint-Laurent-du-Maroni eSIM, Französisch-Guayana mobiles Internet, 5G Französisch-Guayana
+  low_price: 3.99
+  high_price: 66.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -46,7 +47,7 @@ hero:
   title: 'Französisch-Guayana eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Französisch-Guayana - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer Französisch-Guayana waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für Französisch-Guayana wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Französisch-Guayana-Anbietern für das stärkste Signal
-plans_title: 'Französisch-Guayana eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Französisch-Guayana eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   15 Tage:
   - spec: 5GB
@@ -182,7 +183,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Französisch-Guayana, einschliesslich Cayenne, Kourou, Saint-Laurent-du-Maroni,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Französisch-Guayana, einschließlich Cayenne, Kourou, Saint-Laurent-du-Maroni,
         Matoury. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Orange, SFR, Digicel.
     - icon: zap
       color: text-amber-500
@@ -260,7 +261,7 @@ activation_steps:
       ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "eSIM fuer Reisende in French Guiana -- Netzgeschwindigkeiten, Abdeckung und Tipps"
+  title: "eSIM für Reisende in French Guiana -- Netzgeschwindigkeiten, Abdeckung und Tipps"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in French Guiana. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -271,11 +272,13 @@ faq_section:
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Französisch-Guayana eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Französisch-Guayana mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Französisch-Guayana mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $30.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Ist eSIM günstiger als internationales Roaming für Französisch-Guayana?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Französisch-Guayana kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Französisch-Guayana kostet $12.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Französisch-Guayana nutzen?
       a: |
@@ -295,10 +298,162 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Französisch-Guayana?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($12.99), für zwei Wochen 10GB ($19.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Was tun, wenn meine Französisch-Guayana eSIM bei der Ankunft nicht funktioniert?
       a: |
         Drei schnelle Checks (je ca. 30 Sekunden): 1) Ist Daten-Roaming aktiviert? 2) Können Sie Orange manuell auswählen? 3) Haben Sie das Telefon neu gestartet? Etwa 90% der Verbindungsprobleme lassen sich mit einem dieser Schritte lösen. Falls nicht: Roami 24/7 Support hilft innerhalb weniger Minuten weiter.
 related_products:
+  title: Diese eSIM-Tarife könnten Sie interessieren
+  items:
+  - name: Vereinigte Staaten eSIM
+    flag: img/flags/us.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: Vereinigtes Königreich eSIM
+    flag: img/flags/gb.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: united-kingdom-esim
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Ab 1,99 $
+    is_highlight: true
+    slug: europe-esim
+  - name: Kanada eSIM
+    flag: img/flags/ca.svg
+    price: Ab 3,99 $
+    is_highlight: false
+    slug: canada-esim
+  - name: Türkei eSIM
+    flag: img/flags/tr.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: turkey-esim
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: japan-esim
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: Frankreich eSIM
+    flag: img/flags/fr.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: france-esim
+  - name: Spanien eSIM
+    flag: img/flags/es.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: spain-esim
+  - name: Deutschland eSIM
+    flag: img/flags/de.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: germany-esim
+  - name: Australien eSIM
+    flag: img/flags/au.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: australia-esim
+market_analysis:
+  title: 'Französisch-Guayana eSIM oder Orange-Karte: Was EU-Roaming hier bedeutet'
+  subtitle: Ein französisches Übersee-Departement im EU-Recht, Regenwald ohne Netz und drei Anbieter aus dem
+    Mutterland
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (French Guiana) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/French_Guiana
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Französisch-Guayana eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: Orange, SFR und Digicel verkaufen ihre Karten in Cayenne, Kourou und Saint-Laurent-du-Maroni sowie
+      am Flughafen Félix-Éboué; im Landesinneren gibt es keine Verkaufsstellen.
+    esim_title: Vor dem Regenwaldflug aktiv
+    esim_desc: Schon zu Hause wird die eSIM auf das Gerät geladen. Wer von Cayenne nach Maripasoula weiterfliegt, muss
+      sich um keine französische Karte kümmern.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Frankreich verlangt für jede Prepaid-Karte eine Registrierung mit Ausweis; die Nummer wird auf einen
+      namentlichen Inhaber erfasst.
+    esim_title: Ohne Ausweisregistrierung
+    esim_desc: Roami verzichtet auf Ausweis- und Adressdaten und schaltet allein über die Bestellbestätigung frei.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Französisch-Guayana ist als Übersee-Departement Teil der EU, damit gilt Roam Like at Home auch hier.
+      Das Inlandsvolumen einer französischen Karte ist im Ausland jedoch an eine Fair-Use-Grenze gebunden.
+    esim_title: Südamerika ohne Fair-Use-Deckel
+    esim_desc: Wer anschließend nach Suriname oder Brasilien weiterreist, braucht ein separates Paket; bei Roami
+      bleibt ein gebuchtes Volumen über die Route hinweg erhalten.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die französischen Anbieter paketieren Daten vor allem in Monatsfenstern; kurze Aufenthalte an der
+      Küste zahlen den vollen Rahmen mit.
+    esim_title: Kurzreise ohne Restmonat
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 7-Tage-Tarif beginnt bei $3.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Die Abdeckung folgt der Küstenstraße zwischen Cayenne und Saint-Laurent; im Regenwald um Maripasoula
+      und an den Flüssen des Inneren fehlt Signal über weite Strecken.
+    esim_title: Daten teilen im Regenwald
+    esim_desc: Tethering ist bei Roami kostenfrei, auch wenn nur ein schwaches Küstennetz anliegt.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über die französischen Anbieter-Apps und Guthabenkarten aus Supermärkten; bezahlt
+      wird in Euro.
+    esim_title: Zahlung ohne Prepaid-Karte
+    esim_desc: Für die Nutzung genügt eine internationale Karte oder ein Wallet-Dienst; Bezahlt wird online in
+      US-Dollar über die gängigen Karten und Wallet-Dienste.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist französischsprachig, englische Beratung gibt es in den Filialen der
+      Küstenstädte.
+    esim_title: Mehrsprachiger Support
+    esim_desc: Die Betreuung läuft über Chat und E-Mail, mehrsprachig und rund um die Uhr.
+  expert_verdict:
+    title: 'Französisch-Guayana: vier Gründe für die eSIM'
+    cards:
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Regenwald ohne Netz
+      desc: Um Maripasoula und an den inneren Flüssen fehlt Signal über weite Strecken. Ein größeres Monatspaket hilft
+        dort nicht.
+    - icon: id-card
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Registrierungspflicht
+      desc: Frankreich verlangt für Prepaid-Karten die Registrierung mit Ausweis. Roami schaltet <b>ohne
+        Ausweisdaten</b> frei.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Monatsfenster
+      desc: Die Anbieter rechnen in Monatsfenstern ab. Kurze Küstenaufenthalte zahlen den vollen Rahmen mit.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Weiter nach Suriname
+      desc: Die EU-Roamingregeln enden an der Grenze. Für Paramaribo braucht die französische Karte eine Ergänzung.
 ---

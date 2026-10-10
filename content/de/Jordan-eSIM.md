@@ -1,6 +1,6 @@
 ---
 title: 'Jordanien eSIM 2026: Kompletter Reiseführer | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,8 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: 'Jordanien eSIM: 5G ohne Vertragsbindung oder versteckte Kosten'
-  description: Vergleichen Sie Jordanien eSIM Tarife mit 5G in Amman, Petra, Aqaba. Orange Jordan & Zain Jordan & Umniah Abdeckungsguide.
-    Sofortige QR-Aktivierung ab $1.99.
+  title: 'Jordanien eSIM | 5G ohne Vertragsbindung & versteckte Kosten'
+  description: Vergleichen Sie Jordanien eSIM Tarife mit 5G in Amman, Petra, Aqaba. Orange Jordan & Zain Jordan & Umniah Abdeckungsguide. Sofortige QR-Aktivierung ab $6.99.
   keywords:
   - Jordanien eSIM
   - Jordanien Reise eSIM
@@ -34,6 +33,8 @@ seo:
   - Aqaba eSIM
   - Jordanien mobiles Internet
   - 5G Jordanien
+  low_price: 6.99
+  high_price: 99.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -56,7 +57,7 @@ hero:
   title: 'Jordanien eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Jordanien - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
-  title: 'Warum Reisende Roami fuer Jordanien waehlen: Geschwindigkeit, Abdeckung & Support'
+  title: 'Warum Reisende Roami für Jordanien wählen: Geschwindigkeit, Abdeckung & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -82,7 +83,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Jordanien-Anbietern für das stärkste Signal
-plans_title: 'Jordanien eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Jordanien eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -235,7 +236,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Jordanien, einschliesslich Amman, Petra, Aqaba, Irbid. Ihre eSIM
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Jordanien, einschließlich Amman, Petra, Aqaba, Irbid. Ihre eSIM
         verbindet sich nahtlos mit den robusten Netzen von Orange Jordan, Zain Jordan, Umniah.
     - icon: zap
       color: text-amber-500
@@ -332,7 +333,8 @@ faq_section:
     - q: |
         Wie viel Datenvolumen verbraucht ein Reisender pro Tag in Jordanien?
       a: |
-        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($9.99), für zwei Wochen 10GB ($14.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+        Durchschnittlich 300-500MB pro Tag für Google Maps, WhatsApp und Social Media. Bei intensiver Nutzung (Videos streamen, FaceTime) bis zu 1-2GB pro Tag. Eine 5-minütige Videoansicht verbraucht etwa 50MB. Für eine Woche reichen 5GB ($16.99), für zwei Wochen 10GB ($25.99). Bei Unsicherheit starten Sie mit einem kleineren Tarif und buchen bei Bedarf nach.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Jordanien eSIM eine Bestätigung?
       a: |
@@ -352,7 +354,8 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Jordanien am beliebtesten?
       a: |
-        Die meisten Reisenden nach Jordanien wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Jordanien wählen den 5GB/15 Tage Tarif ($37.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($25.99) oder den unbegrenzten Tarif ($52.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
@@ -373,7 +376,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -416,9 +419,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Jordan eSIM vs. physische SIM-Karte: Was ist der wirkliche Unterschied?'
-  subtitle: Lokale Prepaid-SIMs in Jordanien vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Jordan eSIM vs. lokale Prepaid-SIM: Der praktische Vergleich'
+  subtitle: Lokale Prepaid-SIMs in Jordanien vs. eSIM-Lösungen im Praxistest
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Jordan) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Jordan
@@ -430,59 +434,60 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Der Erwerb einer Prepaid-SIM in Jordanien erfolgt in den Geschäften von Zain, Umniah oder Orange am Flughafen
-      oder in der Stadt. Die Aktivierung erfordert die Vorlage des Reisepasses und kann 20-40 Minuten dauern.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die 20-40-minütigen Wartezeiten an den Zain/Umniah-Schaltern am Flughafen. Aktivieren Sie Ihre
-      eSIM online innerhalb von 1 Minute nach der Landung in Amman.
+    prepaid_desc: Der Erwerb einer Prepaid-SIM in Jordanien erfolgt in den Geschäften von Zain, Umniah oder Orange am
+      Flughafen oder in der Stadt. Die Aktivierung erfordert die Vorlage des Reisepasses und kann 20-40 Minuten
+      dauern.
+    esim_title: Bereit ab dem ersten Tag
+    esim_desc: Umgehen Sie die 20-40-minütigen Wartezeiten an den Zain/Umniah-Schaltern am Flughafen. Aktivieren Sie
+      Ihre eSIM online innerhalb von 1 Minute nach der Landung in Amman.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Alle jordanischen Prepaid-SIMs erfordern eine Passregistrierung (KYC) beim Kauf. Zain und Umniah haben Schalter
-      am Flughafen, die den Pass kopieren.
+    prepaid_desc: Alle jordanischen Prepaid-SIMs erfordern eine Passregistrierung (KYC) beim Kauf. Zain und Umniah
+      haben Schalter am Flughafen, die den Pass kopieren.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Keine Weitergabe Ihres Reisepasses an Zain oder Umniah. Roami eSIM benötigt kein KYC – sofortige Aktivierung
-      ohne Identitätsprüfung.
+    esim_desc: Keine Weitergabe Ihres Reisepasses an Zain oder Umniah. Roami eSIM benötigt kein KYC – sofortige
+      Aktivierung ohne Identitätsprüfung.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Internationales Roaming ist in den Standardtarifen von Zain, Umniah und Orange nicht enthalten. Die Tarife
-      bieten nur lokale Daten mit nächtlichen und sozialen Einschränkungen.
+    prepaid_desc: Internationales Roaming ist in den Standardtarifen von Zain, Umniah und Orange nicht enthalten. Die
+      Tarife bieten nur lokale Daten mit nächtlichen und sozialen Einschränkungen.
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Während Zain, Umniah und Orange kein Roaming anbieten, ermöglicht Roami eSIM nahtloses Roaming in über 190
-      Ländern. Keine Einschränkungen auf Nacht- oder Sozialdaten.
+    esim_desc: Während Zain, Umniah und Orange kein Roaming anbieten, ermöglicht Roami eSIM nahtloses Roaming in über
+      190 Ländern. Keine Einschränkungen auf Nacht- oder Sozialdaten.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Die Abrechnungsperiode beträgt bei allen drei Anbietern 30 Tage. Ein 5-tägiger Tourist, der Zains 10-JOD-Tarif
-      mit 2GB kauft, verschwendet 83% des Tarifwerts.
+    prepaid_desc: Die Abrechnungsperiode beträgt bei allen drei Anbietern 30 Tage. Ein 5-tägiger Tourist, der Zains
+      10-JOD-Tarif mit 2GB kauft, verschwendet 83% des Tarifwerts.
     esim_title: Flexible Tarife ab 1 Tag
-    esim_desc: Im Gegensatz zu den 30-Tage-Zyklen von Zain (10 JOD/2GB) bietet Roami 7-Tage-Tarife ab $1.99/GB. Keine Verschwendung
-      für ungenutzte Tage.
+    esim_desc: Im Gegensatz zu den 30-Tage-Zyklen von Zain (10 JOD/2GB) bietet Roami 7-Tage-Tarife ab $6.99. Keine
+      Verschwendung für ungenutzte Tage.
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Umniah verbietet in seinen Smart-Tarifen ausdrücklich das Tethering (Hotspot). Zain und Orange erlauben
-      Hotspots, aber die Daten sind oft auf bestimmte Geräte beschränkt.
+    prepaid_desc: Umniah verbietet in seinen Smart-Tarifen ausdrücklich das Tethering (Hotspot). Zain und Orange
+      erlauben Hotspots, aber die Daten sind oft auf bestimmte Geräte beschränkt.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Umgehen Sie Umniahs Hotspot-Verbot. Roami eSIM erlaubt Tethering auf allen Geräten – ideal für Geschäftsreisende,
-      die Laptops verbinden müssen.
+    esim_desc: Umgehen Sie Umniahs Hotspot-Verbot. Roami eSIM erlaubt Tethering auf allen Geräten – ideal für
+      Geschäftsreisende, die Laptops verbinden müssen.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Aufladungen erfolgen über physische Gutscheine an Kiosken oder online. Ausländische Kreditkarten werden
-      oft abgelehnt; Bargeld ist üblich.
+    prepaid_desc: Aufladungen erfolgen über physische Gutscheine an Kiosken oder online. Ausländische Kreditkarten
+      werden oft abgelehnt; Bargeld ist üblich.
     esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Zahlen Sie bequem mit Visa, Mastercard, AMEX, Apple Pay, Google Pay oder PayPal. Keine Ablehnung ausländischer
-      Karten wie bei lokalen Aufladungen.
+    esim_desc: Die Rechnung läuft in US-Dollar und wird per Karte, Apple Pay, Google Pay oder PayPal beglichen. Keine
+      Ablehnung ausländischer Karten wie bei lokalen Aufladungen.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Kundensupport ist auf Arabisch und Englisch verfügbar, jedoch nur zu Geschäftszeiten. Kein Live-Chat für
-      Prepaid-Kunden.
+    prepaid_desc: Kundensupport ist auf Arabisch und Englisch verfügbar, jedoch nur zu Geschäftszeiten. Kein Live-Chat
+      für Prepaid-Kunden.
     esim_title: 24/7 Kundensupport
-    esim_desc: Roami bietet rund um die Uhr Support auf Deutsch und Englisch. Keine eingeschränkten Geschäftszeiten wie bei
-      Zain oder Orange.
+    esim_desc: Roami bietet rund um die Uhr Support auf Deutsch und Englisch. Keine eingeschränkten Geschäftszeiten
+      wie bei Zain oder Orange.
   expert_verdict:
     title: 'Jordan eSIM vs. lokale SIM: Intelligenter reisen mit besserer Konnektivität'
     cards:
@@ -490,23 +495,24 @@ market_analysis:
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: Sofortige Aktivierung – keine Wartezeit
-      desc: Am Flughafen dauert der SIM-Kauf 20-40 Minuten. Roami eSIM ist in 1 Minute aktiviert – schon vor der Landung.
+      desc: Am Flughafen dauert der SIM-Kauf 20-40 Minuten. Roami eSIM ist in 1 Minute aktiviert – schon vor der
+        Landung.
     - icon: wifi
       icon_bg: bg-green-100
       icon_color: text-green-600
       title: Umgehen Sie Umniahs Hotspot-Verbot
-      desc: Umniah verbietet Tethering in Smart-Tarifen. Roami eSIM erlaubt uneingeschränktes Teilen der Verbindung – perfekt
-        für Laptop-Nutzer.
+      desc: Umniah verbietet Tethering in Smart-Tarifen. Roami eSIM erlaubt uneingeschränktes Teilen der Verbindung –
+        perfekt für Laptop-Nutzer.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Internationales Roaming ohne Aufpreis
-      desc: Jordaniens Anbieter bieten kein Roaming. Mit Roami eSIM nutzen Sie Daten in über 190 Ländern – nahtloser Übergang
-        bei Reisen.
+      desc: Jordaniens Anbieter bieten kein Roaming. Mit Roami eSIM nutzen Sie Daten in über 190 Ländern – nahtloser
+        Übergang bei Reisen.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
-      title: Bessere Netzabdeckung durch Multi-Netz
-      desc: Orange hat selbst in Amman Signalprobleme. Roami eSIM nutzt das beste verfügbare Netz (z.B. Zain) und schaltet
-        bei Bedarf um.
+      title: Abdeckung über mehrere lokale Netze
+      desc: Orange hat selbst in Amman Signalprobleme. Roami eSIM nutzt das beste verfügbare Netz (z.B. Zain) und
+        schaltet bei Bedarf um.
 ---

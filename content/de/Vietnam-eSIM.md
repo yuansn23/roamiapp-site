@@ -1,6 +1,6 @@
 ---
 title: 'Vietnam eSIM 2026: Anbieter & Abdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,6 +23,8 @@ seo:
     Deckt Hanoi, Ho-Chi-Minh-Stadt & Da Nang ab.
   keywords: Vietnam eSIM, Vietnam Reise eSIM, beste eSIM Vietnam, Vietnam Datentarif, Viettel Vietnam, Vinaphone Vietnam,
     Mobifone Vietnam, Hanoi eSIM, Ho-Chi-Minh-Stadt eSIM, Da Nang eSIM, Vietnam mobiles Internet, 5G Vietnam
+  low_price: 1.99
+  high_price: 74.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -45,7 +47,7 @@ hero:
   title: 'Vietnam eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Vietnam
 features:
-  title: 'Warum Reisende Roami fuer Vietnam waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Vietnam wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Vietnam-Anbietern für das stärkste Signal
-plans_title: 'Vietnam eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Vietnam eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   15 Tage:
   - spec: 3GB
@@ -288,7 +290,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Vietnam, einschliesslich Hanoi, Ho-Chi-Minh-Stadt, Da Nang, Ha
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Vietnam, einschließlich Hanoi, Ho-Chi-Minh-Stadt, Da Nang, Ha
         Long. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Viettel, Vinaphone, Mobifone.
     - icon: zap
       color: text-amber-500
@@ -366,7 +368,7 @@ activation_steps:
       – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
 faq_section:
-  title: "Online in Vietnam -- eSIM Netzqualitaet und Geschwindigkeitsratgeber"
+  title: "Online in Vietnam -- eSIM Netzqualität und Geschwindigkeitsratgeber"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Vietnam. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -381,7 +383,8 @@ faq_section:
     - q: |
         Ist eine eSIM für Vietnam günstiger als eine SIM-Karte am Flughafen?
       a: |
-        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $1.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $3.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+
     - q: |
         Bekomme ich nach dem Kauf meiner Vietnam eSIM eine Bestätigung?
       a: |
@@ -389,7 +392,8 @@ faq_section:
     - q: |
         Ist eSIM günstiger als internationales Roaming für Vietnam?
       a: |
-        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Vietnam kostet $9.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+        Ja — Roami eSIM ist 80-90% günstiger als Roaming-Tarife der meisten heimischen Anbieter. Ein 5GB Tarif für Vietnam kostet $5.99, während Roaming $50+ kosten würde. Zudem erhalten Sie lokale Netzgeschwindigkeiten statt gedrosseltem Roaming. Tarife sind vorausbezahlt ohne versteckte Gebühren.
+
     - q: |
         Funktioniert eSIM in Vietnam auch in ländlichen Gebieten?
       a: |
@@ -401,13 +405,13 @@ faq_section:
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Vietnam akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $1.99. 
     - q: |
         Kann ich WhatsApp und FaceTime mit eSIM in Vietnam nutzen?
       a: |
         Ja — alle datenbasierten Apps funktionieren ohne Einschränkungen. Ein 5GB Tarif reicht für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Ein 30-minütiges Zoom-Meeting verbraucht etwa 150-300MB. Viettels Netz in Vietnam liefert stabile Verbindungen für Videoanrufe.
 related_products:
-  title: Ähnliche eSIM-Tarife
+  title: Beliebte Reiseziele mit eSIM
   items:
   - name: Vereinigte Staaten eSIM
     flag: img/flags/us.svg
@@ -426,7 +430,7 @@ related_products:
     slug: europe-esim
   - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: Ab 1,99 $
+    price: Ab 3,99 $
     is_highlight: false
     slug: canada-esim
   - name: Türkei eSIM
@@ -469,9 +473,10 @@ related_products:
     price: Ab 1,99 $
     is_highlight: false
     slug: australia-esim
+
 market_analysis:
-  title: 'Vietnam eSIM vs. physikalische SIM: Was ist besser für Reisen?'
-  subtitle: Lokale Prepaid-SIMs in Vietnam vs. eSIM-Lösungen (2024/2025 Benchmark)
+  title: 'Vietnam eSIM vs. lokale Prepaid-SIM: Der Kostenvergleich'
+  subtitle: Lokale Prepaid-SIMs in Vietnam vs. eSIM-Lösungen im direkten Vergleich
   citation:
     text: 'Datenquelle: Prepaid Data SIM Card Wiki (Vietnam) + Webseiten lokaler Anbieter'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Vietnam
@@ -483,58 +488,58 @@ market_analysis:
   - icon: store
     title: Erwerb &<br>Aktivierung
     prepaid_title: ''
-    prepaid_desc: Viettel und Mobifone erfordern den Kauf in offiziellen Geschäften oder am Flughafen, wobei eine Passregistrierung
-      und Wartezeiten von 30 Minuten üblich sind.
+    prepaid_desc: Viettel und Mobifone erfordern den Kauf in offiziellen Geschäften oder am Flughafen, wobei eine
+      Passregistrierung und Wartezeiten von 30 Minuten üblich sind.
     esim_title: Sofortige digitale Aktivierung
-    esim_desc: Umgehen Sie Viettel-Ladenschlangen und Passkopien. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute nach
-      der Landung in Hanoi oder Ho-Chi-Minh-Stadt.
+    esim_desc: Umgehen Sie Viettel-Ladenschlangen und Passkopien. Aktivieren Sie Ihre eSIM online innerhalb von 1
+      Minute nach der Landung in Hanoi oder Ho-Chi-Minh-Stadt.
   - icon: id-card
     title: KYC & Realnamen-<br>Registrierung
     prepaid_title: ''
-    prepaid_desc: Alle vietnamesischen Prepaid-SIMs erfordern eine Passregistrierung; Viettel verlangt das Senden von 'TTTB'
-      an 1414 zur Überprüfung.
+    prepaid_desc: Alle vietnamesischen Prepaid-SIMs erfordern eine Passregistrierung; Viettel verlangt das Senden von
+      'TTTB' an 1414 zur Überprüfung.
     esim_title: Keine Passregistrierung nötig
-    esim_desc: Im Gegensatz zu Viettel, das eine Passregistrierung und SMS-Verifikation ('TTTB' an 1414) verlangt, benötigt
-      Roami eSIM keine persönlichen Ausweise – sofort nutzbar.
+    esim_desc: Im Gegensatz zu Viettel, das eine Passregistrierung und SMS-Verifikation ('TTTB' an 1414) verlangt,
+      benötigt Roami eSIM keine persönlichen Ausweise – sofort nutzbar.
   - icon: globe
     title: Internationales<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Mobifone-Nutzer haben seit 2018 kein Roaming auf Vinaphone mehr; Viettel bietet kein kostenloses internationales
-      Roaming.
+    prepaid_desc: Mobifone-Nutzer haben seit 2018 kein Roaming auf Vinaphone mehr; Viettel bietet kein kostenloses
+      internationales Roaming.
     esim_title: Weltweites Roaming inklusive
-    esim_desc: Während Mobifone seit 2018 kein Roaming auf Vinaphone mehr hat und Viettel kein kostenloses internationales
-      Roaming bietet, ermöglicht Roami eSIM nahtloses Roaming in Vietnam und weltweit.
+    esim_desc: Während Mobifone seit 2018 kein Roaming auf Vinaphone mehr hat und Viettel kein kostenloses
+      internationales Roaming bietet, ermöglicht Roami eSIM nahtloses Roaming in Vietnam und weltweit.
   - icon: calendar-xmark
     title: Abrechnungszyklus &<br>verschwendete Kosten
     prepaid_title: ''
-    prepaid_desc: Viettel-Tarife wie V160B (160.000 VND, 4GB/Tag) haben einen 30-Tage-Zyklus mit täglichem Reset; ein 5-tägiger
-      Tourist verschwendet über 80% des Tarifwerts.
+    prepaid_desc: Viettel-Tarife wie V160B (160.000 VND, 4GB/Tag) haben einen 30-Tage-Zyklus mit täglichem Reset; ein
+      5-tägiger Tourist verschwendet über 80% des Tarifwerts.
     esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: 'Im Gegensatz zum 30-Tage-Zyklus von Viettel (V160B: 160.000 VND/4GB pro Tag) bietet Roami 7-Tage-Tarife ab
-      $1.99/GB, sodass Sie bei einem 5-tägigen Aufenthalt über 80% sparen.'
+    esim_desc: 'Im Gegensatz zum 30-Tage-Zyklus von Viettel (V160B: 160.000 VND/4GB pro Tag) bietet Roami
+      7-Tage-Tarife ab $3.99, sodass Sie bei einem 5-tägigen Aufenthalt über 80% sparen.'
   - icon: wifi
     title: Hotspot &<br>Geschwindigkeitsrichtlinien
     prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension. Typischerweise erlauben vietnamesische Anbieter
-      Tethering, drosseln aber nach 2GB/Tag auf 3G.
+    prepaid_desc: Typischerweise erlauben vietnamesische Anbieter Tethering, drosseln aber nach 2GB/Tag auf 3G.
     esim_title: Uneingeschränktes Tethering
-    esim_desc: Während vietnamesische Anbieter Tethering oft nach 2GB/Tag auf 3G drosseln, erlaubt Roami eSIM unbegrenztes
-      Tethering ohne Geschwindigkeitsbegrenzung.
+    esim_desc: Während vietnamesische Anbieter Tethering oft nach 2GB/Tag auf 3G drosseln, erlaubt Roami eSIM
+      unbegrenztes Tethering ohne Geschwindigkeitsbegrenzung.
   - icon: credit-card
     title: Aufladung & Zahlung
     prepaid_title: ''
-    prepaid_desc: Aufladung erfolgt über physische Gutscheine an Kiosken (Mindestbetrag 10.000 VND); ausländische Karten werden
-      oft abgelehnt.
+    prepaid_desc: Aufladung erfolgt über physische Gutscheine an Kiosken (Mindestbetrag 10.000 VND); ausländische
+      Karten werden oft abgelehnt.
     esim_title: Weltweite Zahlungsmethoden
-    esim_desc: Statt auf physische Gutscheine an Kiosken angewiesen zu sein, akzeptiert Roami Visa, Mastercard, AMEX, Apple
-      Pay, Google Pay und PayPal – bequem und sicher.
+    esim_desc: Statt auf physische Gutscheine an Kiosken angewiesen zu sein, akzeptiert Roami Visa, Mastercard, AMEX,
+      Apple Pay, Google Pay und PayPal – bequem und sicher.
   - icon: headset
     title: Kundensupport
     prepaid_title: ''
-    prepaid_desc: Kundensupport ist nur auf Vietnamesisch verfügbar, Mo-Fr 8-17 Uhr; kein Live-Chat für Prepaid-Kunden.
+    prepaid_desc: Kundensupport ist nur auf Vietnamesisch verfügbar, Mo-Fr 8-17 Uhr; kein Live-Chat für
+      Prepaid-Kunden.
     esim_title: 24/7 Kundensupport auf Deutsch
-    esim_desc: Im Gegensatz zum vietnamesischen Support (Mo-Fr 8-17 Uhr) bietet Roami rund um die Uhr deutschsprachigen Support
-      per Live-Chat und E-Mail.
+    esim_desc: Im Gegensatz zum vietnamesischen Support (Mo-Fr 8-17 Uhr) bietet Roami rund um die Uhr
+      deutschsprachigen Support per Live-Chat und E-Mail.
   expert_verdict:
     title: 'Vietnam eSIM vs. Prepaid-SIM: Intelligenter reisen mit besserer Konnektivität'
     cards:
@@ -542,24 +547,24 @@ market_analysis:
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Sofortige Aktivierung ohne Wartezeit
-      desc: Viettel-Shops verlangen persönlichen Kauf und Passkontrolle, was bis zu 30 Minuten dauert. Roami eSIM wird innerhalb
-        von <b>1 Minute</b> nach der Online-Buchung aktiviert – bereit bei der Landung.
+      desc: Viettel-Shops verlangen persönlichen Kauf und Passkontrolle, was bis zu 30 Minuten dauert. Roami eSIM wird
+        innerhalb von <b>1 Minute</b> nach der Online-Buchung aktiviert – bereit bei der Landung.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
       title: 24/7 Kundensupport auf Deutsch
-      desc: Der Support vietnamesischer Anbieter ist nur auf Vietnamesisch und zu Bürozeiten (Mo-Fr 8-17 Uhr) erreichbar.
-        Roami bietet <b>rund um die Uhr</b> deutschsprachigen Support per Live-Chat und E-Mail.
+      desc: Der Support vietnamesischer Anbieter ist nur auf Vietnamesisch und zu Bürozeiten (Mo-Fr 8-17 Uhr)
+        erreichbar. Roami bietet <b>rund um die Uhr</b> deutschsprachigen Support per Live-Chat und E-Mail.
     - icon: wifi
       icon_bg: bg-green-100
       icon_color: text-green-600
       title: Keine täglichen Datenlimits
-      desc: Vinaphones Touristen-SIM begrenzt die Hochgeschwindigkeitsdaten auf <b>2GB pro Tag</b>, danach wird auf 3G gedrosselt.
-        Roami eSIM bietet durchgehend Hochgeschwindigkeitsdaten ohne tägliche Obergrenze.
+      desc: Vinaphones Touristen-SIM begrenzt die Hochgeschwindigkeitsdaten auf <b>2GB pro Tag</b>, danach wird auf 3G
+        gedrosselt. Roami eSIM bietet durchgehend Hochgeschwindigkeitsdaten ohne tägliche Obergrenze.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
-      title: Internationale Zahlungen akzeptiert
-      desc: Vietnamesische Prepaid-Karten erfordern oft Bargeld oder lokale Zahlungsmethoden. Roami akzeptiert <b>Visa, Mastercard,
-        AMEX, Apple Pay, Google Pay und PayPal</b> – keine Alipay oder WeChat Pay.
+      title: Aufladen entfällt
+      desc: Vietnamesische Prepaid-Karten erfordern oft Bargeld oder lokale Zahlungsmethoden. Roami akzeptiert
+        <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal</b> – keine Alipay oder WeChat Pay.
 ---

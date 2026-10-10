@@ -1,6 +1,6 @@
 ---
 title: 'Guadeloupe eSIM 2026: Städte & Netzabdeckung | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,12 @@ modal:
     Code: web20'
 seo:
   title: 'Guadeloupe eSIM 2026: 5G mit unbegrenztem Datenvolumen'
-  description: Vergleichen Sie Guadeloupe eSIM Tarife mit 5G in Pointe-à-Pitre, Basse-Terre, Les Abymes. Orange Caraïbe &
-    Digicel & SFR Caraïbe Abdeckungsguide. Sofortige QR-Aktivierung ab $1.99.
+  description: Vergleichen Sie Guadeloupe eSIM mit 5G in Pointe-à-Pitre, Les Abymes. Orange Caraïbe & Digicel Abdeckungsguide. QR-Aktivierung ab $8.99.
   keywords: Guadeloupe eSIM, Guadeloupe Reise eSIM, beste eSIM Guadeloupe, Guadeloupe Datentarif, Orange Caraïbe Guadeloupe,
     Digicel Guadeloupe, SFR Caraïbe Guadeloupe, Pointe-à-Pitre eSIM, Basse-Terre eSIM, Les Abymes eSIM, Guadeloupe mobiles
     Internet, 5G Guadeloupe
+  low_price: 8.99
+  high_price: 64.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -46,7 +47,7 @@ hero:
   title: 'Guadeloupe eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Guadeloupe
 features:
-  title: 'Warum Reisende Roami fuer Guadeloupe waehlen: Tarife, Netzwerk & Support'
+  title: 'Warum Reisende Roami für Guadeloupe wählen: Tarife, Netzwerk & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Auswahl
     desc: Auto-Verbindung zu den besten Guadeloupe-Anbietern für das stärkste Signal
-plans_title: 'Guadeloupe eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Guadeloupe eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 1GB
@@ -142,7 +143,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Guadeloupe, einschliesslich Pointe-à-Pitre, Basse-Terre, Les Abymes,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Guadeloupe, einschließlich Pointe-à-Pitre, Basse-Terre, Les Abymes,
         Le Gosier. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von Orange Caraïbe, Digicel, SFR Caraïbe.
     - icon: zap
       color: text-amber-500
@@ -251,14 +252,170 @@ faq_section:
     - q: |
         Welcher eSIM Tarif ist für Reisende nach Guadeloupe am beliebtesten?
       a: |
-        Die meisten Reisenden nach Guadeloupe wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+        Die meisten Reisenden nach Guadeloupe wählen den 5GB/15 Tage Tarif ($14.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($35.99) oder den unbegrenzten Tarif ($52.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+
     - q: |
         Wann beginnt die Gültigkeitsdauer meiner Guadeloupe eSIM?
       a: |
-        Die Gültigkeit beginnt, wenn Sie sich in Guadeloupe mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+        Die Gültigkeit beginnt, wenn Sie sich in Guadeloupe mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $52.99 für unbegrenztes Datenvolumen.
+
     - q: |
         Welche Zahlungsmethoden werden für eSIM in Guadeloupe akzeptiert?
       a: |
-        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Die günstigsten Tarife starten bei $8.99. 
 related_products:
+  title: Diese eSIM-Tarife könnten Sie interessieren
+  items:
+  - name: Vereinigte Staaten eSIM
+    flag: img/flags/us.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: Vereinigtes Königreich eSIM
+    flag: img/flags/gb.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: united-kingdom-esim
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Ab 1,99 $
+    is_highlight: true
+    slug: europe-esim
+  - name: Kanada eSIM
+    flag: img/flags/ca.svg
+    price: Ab 3,99 $
+    is_highlight: false
+    slug: canada-esim
+  - name: Türkei eSIM
+    flag: img/flags/tr.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: turkey-esim
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: japan-esim
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: Frankreich eSIM
+    flag: img/flags/fr.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: france-esim
+  - name: Spanien eSIM
+    flag: img/flags/es.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: spain-esim
+  - name: Deutschland eSIM
+    flag: img/flags/de.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: germany-esim
+  - name: Australien eSIM
+    flag: img/flags/au.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: australia-esim
+market_analysis:
+  title: 'Guadeloupe eSIM gegen Orange Caraïbe: Was EU-Recht auf den Antillen bedeutet'
+  subtitle: Ein französisches Übersee-Departement mit Roam Like at Home, zwei Inselteile und drei Anbieter aus dem
+    Mutterland
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Guadeloupe) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Guadeloupe
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Guadeloupe eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: Orange Caraïbe, SFR Caraïbe und Digicel verkaufen ihre Karten in Pointe-à-Pitre, Basse-Terre und Le
+      Gosier sowie am Flughafen Pôle Caraïbes; auf Marie-Galante ist das Angebot dünn.
+    esim_title: Auf beiden Inselteilen bereit
+    esim_desc: Die eSIM ist vorab installiert. Zwischen Grande-Terre und Basse-Terre ist kein Fährhafen und kein
+      Ladengeschäft mehr nötig.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: Frankreich verlangt für jede Prepaid-Karte eine Registrierung mit Ausweis; die Nummer wird auf einen
+      namentlichen Inhaber erfasst.
+    esim_title: Ohne französische Registrierung
+    esim_desc: Roami verzichtet auf Ausweis- und Adressdaten und schaltet allein über die Bestellbestätigung frei.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Guadeloupe ist als Übersee-Departement Teil der EU, damit gilt Roam Like at Home. Das Inlandsvolumen
+      einer französischen Karte ist im Ausland jedoch an eine Fair-Use-Grenze gebunden, und die Nachbarstaaten
+      Dominica und Antigua liegen außerhalb des Verbunds.
+    esim_title: Antillen ohne Fair-Use-Deckel
+    esim_desc: Bei Roami bleibt das gebuchte Volumen über die Inseln hinweg vollständig erhalten – auch bei Ausflügen
+      nach Dominica oder Antigua.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die französischen Anbieter paketieren Daten vor allem in Monatsfenstern; kurze Aufenthalte an den
+      Stränden zahlen den vollen Rahmen mit.
+    esim_title: Kurzreise ohne Restmonat
+    esim_desc: Roami staffelt nach 3, 7, 15 und 30 Tagen; der 7-Tage-Tarif beginnt bei $8.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Die Versorgung ist auf Grande-Terre und entlang der Küstenstraße von Basse-Terre dicht; im
+      Nationalpark um den Vulkan Soufrière und auf La Désirade fällt das Signal dagegen ab.
+    esim_title: Daten teilen auf beiden Inselteilen
+    esim_desc: Hotspot-Nutzung bleibt bei Roami kostenfrei, auch beim Wechsel zwischen den Netzen von Grande-Terre und
+      Basse-Terre.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird über die Apps der französischen Anbieter und Guthabenkarten aus Supermärkten; die
+      Rechnung lautet auf Euro.
+    esim_title: Zahlung ohne Prepaid-Karte
+    esim_desc: Statt Guthabenkarten von Orange Caraïbe zu kaufen, rechnet Roami in US-Dollar über Visa, Mastercard,
+      AMEX, Apple Pay, Google Pay und PayPal ab.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung ist französischsprachig; englische Beratung gibt es in den Filialen von
+      Pointe-à-Pitre und Le Gosier.
+    esim_title: Mehrsprachiger Support
+    esim_desc: Der Support läuft per Chat und E-Mail, mehrsprachig und ohne Wartezeit.
+  expert_verdict:
+    title: 'Guadeloupe: vier Gründe, warum die eSIM auch im EU-Gebiet sinnvoll ist'
+    cards:
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Fair-Use-Grenze
+      desc: EU-Roaming gilt hier nur bis zur Fair-Use-Schwelle. Bei Roami bleibt das gebuchte Volumen ungekürzt
+        verfügbar.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Vulkan und Désirade
+      desc: Im Nationalpark um die Soufrière und auf La Désirade bricht die Versorgung ab – ein größeres Monatspaket
+        hilft dort nicht.
+    - icon: id-card
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Registrierungspflicht
+      desc: Frankreich verlangt für Prepaid-Karten die Ausweisregistrierung. Roami verzichtet auf <b>Registrierung und
+        Ausweiskopie</b>.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Monatsfenster
+      desc: Lokale Tarife folgen einem 30-Tage-Raster. Ein Strandurlaub von zehn Tagen zahlt den Rest umsonst.
 ---

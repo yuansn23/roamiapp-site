@@ -1,6 +1,6 @@
 ---
 title: 'Southeast Asia eSIM 2026: Abdeckung & Geschwindigkeit | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,14 +19,13 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     dem Code: web20'
 seo:
-  title: SE Asia eSIM | Best Travel Plan for 10 Countries
-  description: Backpack Southeast Asia with Roami's best prepaid travel eSIM. Unlimited 5G data in Thailand, Vietnam, Malaysia
-    & 7 more. One plan, no border fees.
+  title: Southeast Asia eSIM | 5G-Daten für 10 Länder
+  description: Vergleichen Sie Southeast Asia eSIM Tarife für 10 Länder mit 5G in Bangkok, Singapur & Jakarta. AIS & Singtel Abdeckung. QR-Aktivierung ab $1.99.
   keywords: Southeast Asia eSIM, Southeast Asia Reise eSIM, beste eSIM Southeast Asia, Southeast Asia Datentarif, AIS Southeast
     Asia, Singtel Southeast Asia, Maxis Southeast Asia, Bangkok eSIM, Singapur eSIM, Kuala Lumpur eSIM, Southeast Asia mobiles
     Internet, 5G Southeast Asia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 27.99
 order_summary:
   title: Ausgewählter Tarif
   label_data: Datenvolumen
@@ -49,7 +48,7 @@ hero:
   title: 'Southeast Asia eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Southeast Asia
 features:
-  title: 'Warum Reisende Roami fuer Southeast Asia waehlen: Abdeckung, Geschwindigkeit & Service'
+  title: 'Warum Reisende Roami für Southeast Asia wählen: Abdeckung, Geschwindigkeit & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +74,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Wechsel
     desc: Auto-Verbindung zu den besten Southeast Asia-Anbietern für das stärkste Signal
-plans_title: 'Southeast Asia eSIM kaufen: Tarife fuer jeden Reisezeitraum'
+plans_title: 'Southeast Asia eSIM kaufen: Tarife für jeden Reisezeitraum'
 plans_data:
   7 Tage:
   - spec: 3GB
@@ -218,7 +217,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Abdeckung
-      desc: Geniessen Sie umfassende Netzabdeckung in ganz Southeast Asia, einschliesslich Bangkok, Singapur, Kuala Lumpur,
+      desc: Genießen Sie umfassende Netzabdeckung in ganz Southeast Asia, einschließlich Bangkok, Singapur, Kuala Lumpur,
         Ho-Chi-Minh-Stadt. Ihre eSIM verbindet sich nahtlos mit den robusten Netzen von AIS, Singtel, Maxis.
     - icon: zap
       color: text-amber-500
@@ -283,4 +282,157 @@ activation_steps:
       Aktivierung.
     is_list: false
 faq_section:
+related_products:
+  title: Weitere beliebte eSIM-Ziele
+  items:
+  - name: Vereinigte Staaten eSIM
+    flag: img/flags/us.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: united-states-esim
+  - name: Vereinigtes Königreich eSIM
+    flag: img/flags/gb.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: united-kingdom-esim
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Ab 1,99 $
+    is_highlight: true
+    slug: europe-esim
+  - name: Kanada eSIM
+    flag: img/flags/ca.svg
+    price: Ab 3,99 $
+    is_highlight: false
+    slug: canada-esim
+  - name: Türkei eSIM
+    flag: img/flags/tr.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: turkey-esim
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: china-esim
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: japan-esim
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: hong-kong-esim
+  - name: Frankreich eSIM
+    flag: img/flags/fr.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: france-esim
+  - name: Spanien eSIM
+    flag: img/flags/es.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: spain-esim
+  - name: Deutschland eSIM
+    flag: img/flags/de.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: germany-esim
+  - name: Australien eSIM
+    flag: img/flags/au.svg
+    price: Ab 1,99 $
+    is_highlight: false
+    slug: australia-esim
+
+
+market_analysis:
+  title: 'Südostasien eSIM gegen lokale Karten: Der Vergleich für zehn Länder'
+  subtitle: Ein Datenpaket für Bangkok, Singapur und Kuala Lumpur – und warum jede Grenze sonst eine neue SIM bedeutet
+  citation:
+    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Southeast Asia) + Webseiten lokaler Anbieter'
+    url: https://prepaid-data-sim-card.fandom.com/wiki/Southeast_Asia
+  table_headers:
+  - Vergleichsmatrix
+  - Lokale Prepaid-SIM (Marktdaten)
+  - Roami Südostasien eSIM
+  table_rows:
+  - icon: store
+    title: Erwerb &<br>Aktivierung
+    prepaid_title: ''
+    prepaid_desc: In Thailand, Singapur und Malaysia gibt es Karten von AIS, Singtel und Maxis an jedem Flughafen; wer
+      per Bus oder Zug über die Grenze weiterreist, muss sich in jedem Land erneut anstellen.
+    esim_title: Ein Paket für zehn Länder
+    esim_desc: Die eSIM wird vorab installiert und deckt die Route von Bangkok über Kuala Lumpur bis Singapur in einem
+      einzigen Datenpaket ab.
+  - icon: id-card
+    title: KYC & Realnamen-<br>Registrierung
+    prepaid_title: ''
+    prepaid_desc: 'Die Registrierungsregeln unterscheiden sich von Land zu Land: In Thailand und Malaysia ist der Pass
+      bei der Aktivierung vorzulegen, in Singapur wird die Prepaid-Karte mit Ausweis erfasst, und Indonesien verlangt
+      zusätzlich eine IMEI-Registrierung des Geräts.'
+    esim_title: Eine Registrierung, einmal
+    esim_desc: Roami verlangt weder Ausweis noch IMEI-Daten und aktiviert allein über die Bestellbestätigung.
+  - icon: globe
+    title: Internationales<br>Roaming
+    prepaid_title: ''
+    prepaid_desc: Innerhalb Südostasiens gibt es für Prepaid-Karten keinen gemeinsamen Roamingraum; die thailändische
+      Karte endet an der Grenze zu Kambodscha, die malaysische an der Grenze zu Singapur.
+    esim_title: Zehn Länder am Stück
+    esim_desc: Für die Route Bangkok, Hanoi, Kuala Lumpur und Singapur bleibt ein Datenpaket gebucht.
+  - icon: calendar-xmark
+    title: Abrechnungszyklus &<br>verschwendete Kosten
+    prepaid_title: ''
+    prepaid_desc: Die lokalen Touristensim-Karten sind auf 7 bis 30 Tage befristet; bei einer Rundreise durch mehrere
+      Länder laufen sie jeweils mitten auf der Strecke ab.
+    esim_title: Rundreise in einem Rahmen
+    esim_desc: Roami staffelt nach 7, 15 und 30 Tagen; der 7-Tage-Einstieg liegt bei $1.99.
+  - icon: wifi
+    title: Hotspot &<br>Geschwindigkeitsrichtlinien
+    prepaid_title: ''
+    prepaid_desc: Bangkok, Singapur und Kuala Lumpur sind sehr gut versorgt; auf den Fähren zu den Inseln, in den
+      Bergprovinzen im Norden Vietnams und in den Grenzgebieten zu Laos und Myanmar bricht das Signal dagegen ab.
+    esim_title: Hotspot auf der Rundreise
+    esim_desc: Das Teilen der Verbindung kostet bei Roami nichts, auch wenn auf der Überfahrt zu den Inseln nur ein
+      schwaches Netz anliegt.
+  - icon: credit-card
+    title: Aufladung & Zahlung
+    prepaid_title: ''
+    prepaid_desc: Aufgeladen wird in jedem Land in eigener Währung – thailändische Baht, malaysische Ringgit,
+      singapurische Dollar; ausländische Karten werden je nach Land unterschiedlich akzeptiert.
+    esim_title: Zahlung in einer Währung
+    esim_desc: Abgerechnet wird in US-Dollar; Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal werden
+      akzeptiert.
+  - icon: headset
+    title: Kundensupport
+    prepaid_title: ''
+    prepaid_desc: Die Kundenbetreuung der lokalen Anbieter ist jeweils in der Landessprache; englischsprachige
+      Auskunft gibt es in Thailand und Singapur, in Vietnam und Kambodscha dagegen selten.
+    esim_title: Mehrsprachiger Service
+    esim_desc: Auch außerhalb der Zeiten von AIS bleibt Roami per Chat und E-Mail erreichbar.
+  expert_verdict:
+    title: 'Südostasien: vier Gründe für die eSIM statt lokaler Karten'
+    cards:
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Zehn Länder, eine Karte
+      desc: Für Prepaid gibt es keinen gemeinsamen Roamingraum – jede Grenze kostet sonst eine neue SIM.
+    - icon: id-card
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: Unterschiedliche Registrierung
+      desc: Pass, Ausweis und in Indonesien sogar die IMEI werden verlangt. Die Aktivierung erfolgt <b>ohne
+        Ausweis</b>.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: Befristete Karten
+      desc: Touristensim-Karten laufen mitten auf der Rundreise ab und müssen je Land neu gekauft werden.
+    - icon: tower-observation
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: Inseln und Grenzgebiete
+      desc: Auf den Fähren zu den Inseln und in den Grenzregionen bricht die Versorgung ab.
 ---
